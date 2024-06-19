@@ -37,6 +37,19 @@ However, coming up with the idea was one thing, turning it into reality was anot
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/RISIS_Orchid_model.jpg" style="width: 80%;">
 <div style="background-color: white;">RISIS gold-plated orchids and publicity material on display. <i>Image reproduced from Singapore Institute of Standards and Industrial Research, <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308">SISIR Annual Report 1975/76</a> (Singapore: The Institute, 1975), 21. (From National Library, Singapore, call no. RSING 354.5957093 SISIRA)</i></div>
 
+Days before the official launch of RISIS in April 1976, SISIR created a subsidiary, Setsco Pte Ltd, to handle full-scale commercial production of the gold-plated flowers. Setsco subsequently created RISIS Pte Ltd, a subsidiary dedicated to handling its gold-plated products. The RISIS orchid was available at nearly 70 stores around the island when it was launched.[^15]
+
+<img src="/images/Online%20Only%20Articles/RISIS%20Singapore/straitstimes_19760812.jpg" style="width: 60%;">
+<div style="background-color: white;">The RISIS orchid was marketed as a perfect gift for any occasion. <i>Image reproduced from “Page 25 Advertisements Column 1,” Straits Times, 12 August 1976, 25. (From NewspaperSG)</i></div><br>
+<img src="/images/Online%20Only%20Articles/RISIS%20Singapore/risis_orchids.jpg" style="width: 80%;">
+<div style="background-color: white;">RISIS orchids were manufactured into tie and lapel pins and cufflinks for men (left) as well as jewelry for women (right). <i>Images reproduced from “Page 5 Advertisements Column 1”, New Nation, 9 June 1977, 5. (From NewspaperSG) and “Page 8 Advertisements Column 1,” Straits Times, 13 November 1976. 8. (From NewspaperSG)</i></div>
+
+  
+
+
+
+
+
   
 
 
@@ -77,3 +90,5 @@ However, coming up with the idea was one thing, turning it into reality was anot
 [^13]:  “[Risis Orchid Creator Dies of Heart Attack](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20080607-1.2.63.29),” _Straits Times_, 7 June 2008, 72. (From NewspaperSG)
 
 [^14]:  Lee, _[A Fabulous Journey](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14651733)_, 157–58.
+
+[^15]:  “[S’pore Orchids Don the ‘Golden’ Look](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19760420-1.2.73),” _Straits Times_, 20 April 1976, 12. (From NewspaperSG)
