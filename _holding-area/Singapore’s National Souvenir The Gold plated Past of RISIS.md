@@ -113,6 +113,17 @@ From the mid-80s, RISIS started emphasising Chinese culture in both the items so
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/golden_horse.jpg" style="width: 85%;">
 <div style="background-color: white;">Advertisement for the 1989 snake (left) and RISIS golden horse (right). <i>Images reproduced from “Page 5 Advertisements Column 1,” Business Times, 30 December 1988, 5. (From NewspaperSG) and “Page 3 Advertisements Column 1,” Straits Times, 9 December 1989, 3. (From NewspaperSG).</i></div>
 
+Lee’s final animal was a gold-plated origami paper crane, which was inspired by a paper crane folding initiative by the residents of Bukit Gombak (he was chairman of the Bukit Gombak Citizen’s Consultative Committee) and his granddaughter (who’d wanted a paper crane that would last). It was made of pewter and then plated with gold. With a $97,000 grant from the Trade Development Board (TDB), he created six versions of these (after his retirement in 1990), which then went on sale at TDB’s Design Centre in 1993.[^50]
+  
+
+* * *
+
+
+
+* * *
+
+
+
 
 
   
@@ -253,3 +264,5 @@ From the mid-80s, RISIS started emphasising Chinese culture in both the items so
 [^48]:  “[Page 5 Advertisements Column 1](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19881230-1.2.18.1),” _Business Times_, 30 December 1988, 5. (From NewspaperSG)
 
 [^49]:  “[Page 3 Advertisements Column 1](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19891209-1.2.75.1),” _Straits Times_, 9 December 1989, 3. (From NewspaperSG)
+
+[^50]:  “[Risis Orchid Man Comes Out with Origami Crane in Precious Metals](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19930228-1.2.25.24),” _Straits Times_, 28 February 1993, 22. (From NewspaperSG)
