@@ -85,10 +85,13 @@ The success of the RISIS orchid inspired SISIR to gold-plate other items. The fi
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/gold_plate_leaves.jpg" style="width: 80%;">
 <div style="background-color: white;">Gold-plated tropical leaves and ferns from the 1979 RISIS Floral Collection (left) and gold-plated coins (right). <i>Images reproduced from Singapore Institute of Standards and Industrial Research, <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308">Annual Report of SISIR 1978/79</a> (Singapore, The Institute), 22. (From National Library, Singapore, call no. RSING 354.5957093 SISIRA -\[AR\]) and Singapore Institute of Standards and Industrial Research, <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308">Annual Report of SISIR 1980/81</a> (Singapore, The Institute), 33. (From National Library, Singapore, call no. RSING 354.5957093 SISIRA -\[AR\])</i></div>
 
-In 1984, RISIS launched gold-plated eggs for Chinese New Year. Positioning the egg as a symbol of life, advertisements suggested that the egg would “confer an aura of good luck and prestige upon the giver and the receiver.”[^39]
+<img src="/images/Online%20Only%20Articles/RISIS%20Singapore/IMG0085.jpg" style="width: 65%;">
+<div style="background-color: white;">Assortment of RISIS gold eggs.&nbsp;<i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
-<img src="/images/Online%20Only%20Articles/RISIS%20Singapore/risis_gold_eggs.jpg" style="width: 80%;">
-<div style="background-color: white;">(Left) Advertisement promoting RISIS’s gold egg in 1984. <i>Image reproduced “Page 40 Advertisements Column 1,” Straits Times, 28 January 1984, 40. (From NewspaperSG)</i> (Right) Assortment of RISIS gold eggs. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+<img src="/images/Online%20Only%20Articles/RISIS%20Singapore/straitstimes_19840128.jpg" style="width: 50%;">
+<div style="background-color: white;">Advertisement promoting RISIS’s gold egg in 1984.&nbsp;<i>Image reproduced “Page 40 Advertisements Column 1,” Straits Times, 28 January 1984, 40. (From NewspaperSG)</i></div>
+
+In 1984, RISIS launched gold-plated eggs for Chinese New Year. Positioning the egg as a symbol of life, advertisements suggested that the egg would “confer an aura of good luck and prestige upon the giver and the receiver.”[^39]
 
 These eggs soon became an addition to the ongoing diplomatic practice of gifting gold-plated orchids – visiting dignitaries were now gifted commemorative eggs, too. For example, in 1983, Tsutako Nakasone, the Japanese Prime Minister’s wife, was given a tour of Setsco’s facility at River Valley Road and presented with a 22-carat gold-plated goose egg at the end of the tour. The next day she visited the Singapore Botanic Garden, where she was given a golden orchid.[^40] Just as the orchids came from local nurseries, local farms supplied Setsco with goose, quail, and chicken eggs.[^41]
 
