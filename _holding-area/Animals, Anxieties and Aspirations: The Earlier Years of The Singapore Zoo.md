@@ -88,7 +88,7 @@ The zoo welcomed its first public visitors on 28 June 1973, a day after the offi
 
 In subsequent decades, the zoo (and Singaporeans themselves) would witness significant transformations. In the 1980s, the zoo began marketing itself to attract more international companies and visitors to Singapore. Bernard Ming-Deh Harrison, formerly the zoo’s curator of zoology and assistant director, was appointed its executive director in 1981 at the age of 29. In 1982, the International Union of Directors of Zoological Gardens, “which only admits directors of zoos of international standards”, welcomed Harrison as its youngest member. Participating in such international organisations gave the Singapore Zoo access to wider global networks of expertise and animals, ushering in a new period of international animal exchanges.[^32]
 
-![](/images/Vol%2020%20Issue%202/Cable%20Cars/cablecars_img5.jpg)
+![](/images/Vol%2020%20Issue%203/Zoo/zoo_img2.jpg)
 <div style="background-color: white;">Bernard Ming-Deh Harrison, formerly the zoo's curator of zoology and assistant director, was appointed its executive director in 1981 at the age of 29. <i>Image reproduced from Ilsa Sharp, The First 21 Years: The Singapore Zoological Gardens Story (Singapore: Singapore Zoological Gardens, 1994), 85. (From National Library, Singapore, call no. RSING q590.7445957 SHA-[LKY]).</i></div>
 
 Thanks to collaborations with zoos in China and North America, Singaporeans were exposed to a wider diversity of exotic animals – from white tigers to golden monkeys – expanding the ways they could imagine and experience wild animals.[^33]
@@ -99,7 +99,7 @@ Ah Meng was chosen as a replacement because she was photogenic, “well-groomed�
 
 The internationalisation of the Singapore Zoo continued into the 1990s and 2000s. On 26 December 1990, the zoo welcomed the birth of Inuka, the world’s first (and perhaps only) polar bear to be born in the tropics. Like Ah Meng, Inuka endeared himself to Singaporeans and international visitors alike, becoming a mascot for the zoo’s marketing efforts. But as a creature poorly adapted to the tropics, the polar bear also provoked many difficult conversations about animal welfare and zoological exhibits in Singapore. Such debates were led by the Animal Concerns Research and Education Society (ACRES), a local animal welfare group.[^36] (The zoo later said in 2006 that it would not bring any more polar bears to Singapore.[^37])
 
-![](/images/Vol%2020%20Issue%202/Cable%20Cars/cablecars_img5.jpg)
+![](/images/Vol%2020%20Issue%203/Zoo/zoo_img10.jpg)
 <div style="background-color: white;">Inuka, born on 26 December 1990, and his mother Sheba when he was less than a year old. <i>Courtesy of Mandai Wildlife Group.</i></div>
 
 #### **New Attractions**
@@ -123,26 +123,26 @@ On 28 February 2014, the 12-hectare River Safari (now River Wonders) officially 
 
 The park featured animals from diverse riverine habitats like the Amazon, Yangtze, Ganges, Nile and Mekong rivers. In addition to charismatic mammals such as Brazilian tapirs, South American jaguars and manatees, its freshwater exhibits also showcased exotic fishes like the Mekong giant catfish, the electric eel and the giant freshwater stingray. Attesting to the consistent and growing popularity of these animals, the River Safari hosted over a million visitors in its opening year, exceeding the number of guests the zoo and Night Safari had welcomed in their inaugural years.[^45]
 
-![](/images/Vol%2020%20Issue%203/Zoo/zoo_img3.jpg)
+![](/images/Vol%2020%20Issue%203/Zoo/zoo_img8.jpg)
 <div style="background-color: white;">A giant freshwater stingray at the Mekong River section in River Wonders. Each ray has a sharp barb on the base of its tail that can easily penetrate human skin and bone. <i>Courtesy of Mandai Wildlife Group.</i></div>
 
 
 Attracting the most attention and excitement from visitors, however, were the River Safari’s giant pandas from China. On an initial 10-year loan from China, giant pandas Kai Kai and Jia Jia were specially flown in from Chengdu, China, and then transported by an air-conditioned truck to the Singapore Zoo when they first arrived in 2012.[^46] Notoriously difficult to breed, the pair formed the focus of numerous unsuccessful breeding efforts in subsequent years. These endeavours finally paid off when Jia Jia conceived via artificial insemination and gave birth to a male baby panda named Le Le on 14 August 2021, who became an instant hit with visitors.[^47]
 
-![](/images/Vol%2020%20Issue%203/Zoo/zoo_img3.jpg)
+![](/images/Vol%2020%20Issue%203/Zoo/zoo_img6.jpg)
 <div style="background-color: white;">Just chillin’ with mummy. Giant panda Jia Jia gave birth to Le Le on 14 August 2021. Le Le was around six months old in this photo taken on 22 February 2022. <i>Courtesy of Mandai Wildlife Group.</i></div>
 
 
 In 2022, the 10-year loan for Jia Jia and Kai Kai was extended for another five years until 2027, under an agreement signed by the China Wildlife Conservation Association and Mandai Wildlife Group. After Le Le turned two in August 2023, he was returned to China’s panda conservation programme in December that year.[^48]
 
-![](/images/Vol%2020%20Issue%202/Cable%20Cars/cablecars_img5.jpg)
+![](/images/Vol%2020%20Issue%203/Zoo/zoo_img7.jpg)
 <div style="background-color: white;">The red panda at the Pavilion Capital Giant Panda Forest in River Wonders. Like the giant panda, the red panda has an extra digit on each paw that works as a “thumb” to grasp bamboo. <i>Courtesy of Mandai Wildlife Group.</i></div>
 
 #### **Grief and Remembrance**
 
 The early 2000s would also be a time of loss for the zoo though. On 8 February 2008, Ah Meng the orangutan died at the age of 48. News of her death elicited widespread expressions of grief from many Singaporeans. Her memorial service at the zoo, the first time such an honour had been accorded to any animal in Singapore, was attended by over 4,000 well-wishers.[^49]
 
-![](/images/Vol%2020%20Issue%203/Zoo/zoo_img3.jpg)
+![](/images/Vol%2020%20Issue%203/Zoo/zoo_img1.jpg)
 <div style="background-color: white;">The late Ah Meng the orangutan was the star of the show at every photography session. <i>Image reproduced from Ilsa Sharp, The First 21 Years: The Singapore Zoological Gardens Story (Singapore: Singapore Zoological Gardens, 1994), 70. (From National Library, Singapore, call no. RSING q590.7445957 SHA-[LKY]).</i></div>
 
 A similar outpouring of public sorrow was again seen when 27-year-old Inuka was put down on 25 April 2018 due to his deteriorating health. Hundreds of visitors attended the bear’s memorial service, and many Singaporeans shared their feelings online in the form of photographs, blogposts, Facebook posts and visual art.[^50] His death attracted reactions even from Prime Minister Lee Hsien Loong. “Born and raised here,” Lee wrote on his Facebook, “he was as Singaporean as any of us.”[^51]
