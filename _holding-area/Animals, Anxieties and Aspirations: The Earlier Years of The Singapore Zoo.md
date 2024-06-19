@@ -129,11 +129,14 @@ The park featured animals from diverse riverine habitats like the Amazon, Yangtz
 
 Attracting the most attention and excitement from visitors, however, were the River Safari’s giant pandas from China. On an initial 10-year loan from China, giant pandas Kai Kai and Jia Jia were specially flown in from Chengdu, China, and then transported by an air-conditioned truck to the Singapore Zoo when they first arrived in 2012.[^46] Notoriously difficult to breed, the pair formed the focus of numerous unsuccessful breeding efforts in subsequent years. These endeavours finally paid off when Jia Jia conceived via artificial insemination and gave birth to a male baby panda named Le Le on 14 August 2021, who became an instant hit with visitors.[^47]
 
-![](/images/Vol%2020%20Issue%202/Cable%20Cars/cablecars_img5.jpg)
-<div style="background-color: white;">The red panda at the Pavilion Capital Giant Panda Forest in River Wonders. Like the giant panda, the red panda has an extra digit on each paw that works as a “thumb” to grasp bamboo. <i>Courtesy of Mandai Wildlife Group.</i></div>
+![](/images/Vol%2020%20Issue%203/Zoo/zoo_img3.jpg)
+<div style="background-color: white;">Just chillin’ with mummy. Giant panda Jia Jia gave birth to Le Le on 14 August 2021. Le Le was around six months old in this photo taken on 22 February 2022. <i>Courtesy of Mandai Wildlife Group.</i></div>
 
 
 In 2022, the 10-year loan for Jia Jia and Kai Kai was extended for another five years until 2027, under an agreement signed by the China Wildlife Conservation Association and Mandai Wildlife Group. After Le Le turned two in August 2023, he was returned to China’s panda conservation programme in December that year.[^48]
+
+![](/images/Vol%2020%20Issue%202/Cable%20Cars/cablecars_img5.jpg)
+<div style="background-color: white;">The red panda at the Pavilion Capital Giant Panda Forest in River Wonders. Like the giant panda, the red panda has an extra digit on each paw that works as a “thumb” to grasp bamboo. <i>Courtesy of Mandai Wildlife Group.</i></div>
 
 #### **Grief and Remembrance**
 
