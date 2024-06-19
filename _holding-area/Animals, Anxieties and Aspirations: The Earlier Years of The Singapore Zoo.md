@@ -31,6 +31,10 @@ In 1881, citing financial constraints, the colonial government withdrew all fina
 
 In 1928, the animal trader William Lawrence Soma Basapa established Punggol Zoo at 10 Mile Punggol Road. His collections featured Malayan tigers, Australian cassowaries and African lions. In early 1942, however, as the Japanese invasion of Singapore loomed, British authorities ordered the zoo’s dangerous animals killed and the harmless ones released into the wild.[^6]
 
+![](/images/Vol%2020%20Issue%202/Cable%20Cars/cablecars_img5.jpg)
+<div style="background-color: white;">Animal trader William Lawrence Soma Basapa established Punggol Zoo at 10 Mile Punggol Road. He is seen here with his favourite pet Bengal tiger, Apay. <i>Courtesy of the Basapa Family.</i></div>
+
+
 In postwar Singapore, private ventures showcasing wild animals remained highly popular with residents. In 1954, L.F. de Jong opened a zoo in Tampines that showcased cassowaries, tapirs, leopards, gibbons, crocodiles and snakes.[^7] Three years later, animal trader Tong Seng Mun set up the Singapore Miniature Zoo in Pasir Panjang.[^8] Just a year after that, the Shaw Brothers applied to run a zoo at the Great World amusement park, but the City Council rejected the proposal due to safety concerns for park visitors.[^9] In 1963, Chan Kim Suan, an exporter of rhesus monkeys, opened a private zoo near Punggol that featured tigers, kangaroos, tapirs and crocodiles.&nbsp;
 
 Although many of these private zoos did not survive for long due to high financial expenses, their continued reappearance suggests that keeping, exhibiting and viewing exotic animals had become relatively commonplace activities in Singapore by this period, and that animal displays were spaces of persistent fascination for many residents.[^10]
