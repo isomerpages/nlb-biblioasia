@@ -113,9 +113,9 @@ Despite the fact that Ah Meng the orangutan and Inuka the polar bear were not na
 
 
 #### **Notes**
-[^1]: “Dr. Goh Keng Swee Deputy Prime Minister and Minister of Defence to Officiate at Today’s Opening Ceremony,” _Straits Times_, 27 June 1973, 19; R. Chandran, “A Haven for Animal Lovers of S’pore,” _Straits Times_, 28 June 1973, 15. (From NewspaperSG)
+[^1]: “[Dr. Goh Keng Swee Deputy Prime Minister and Minister of Defence to Officiate at Today’s Opening Ceremony](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730627-1.2.104.3),” _Straits Times_, 27 June 1973, 19; R. Chandran, “[A Haven for Animal Lovers of S’pore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730628-1.2.80),” _Straits Times_, 28 June 1973, 15. (From NewspaperSG)
 
-[^2]: “Feeding Animals at Zoo Strictly Forbidden: Dr Ong,” _Straits Times_, 16 June 1973, 16. (From NewspaperSG); Ilsa Sharp, _The First 21 Years: The Singapore Zoological Gardens Story_ (Singapore: Singapore Zoological Gardens, 1994), 29. (From National Library, Singapore, call no. RSING q590.7445957 SHA-\[LKY\])
+[^2]: “[Feeding Animals at Zoo Strictly Forbidden: Dr Ong](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730616-1.2.129),” _Straits Times_, 16 June 1973, 16. (From NewspaperSG); Ilsa Sharp, [_The First 21 Years: The Singapore Zoological Gardens Story_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7059289) (Singapore: Singapore Zoological Gardens, 1994), 29. (From National Library, Singapore, call no. RSING q590.7445957 SHA-\[LKY\])
 
 [^3]: “‘Whampoa’ Was the First of Singapore’s Towkays,” _Straits Times_, 13 March 1954, 9. (From NewspaperSG)
 
