@@ -87,6 +87,9 @@ The success of the RISIS orchid inspired SISIR to gold-plate other items. The fi
 
 In 1984, RISIS launched gold-plated eggs for Chinese New Year. Positioning the egg as a symbol of life, advertisements suggested that the egg would “confer an aura of good luck and prestige upon the giver and the receiver.”[^39]
 
+<img src="/images/Online%20Only%20Articles/RISIS%20Singapore/risis_gold_eggs.jpg" style="width: 80%;">
+<div style="background-color: white;">(Left) Advertisement promoting RISIS’s gold egg in 1984. <i>Image reproduced “Page 40 Advertisements Column 1,” Straits Times, 28 January 1984, 40. (From NewspaperSG)</i> (Right) Assortment of RISIS gold eggs. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 
 
   
