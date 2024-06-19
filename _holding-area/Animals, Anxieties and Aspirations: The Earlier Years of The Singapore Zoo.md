@@ -153,16 +153,16 @@ Despite the fact that Ah Meng the orangutan and Inuka the polar bear were not na
 
 [^20]:  Mohan, “[Panther Escape: Official Resigns](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19730510-1.2.3)”; Mohan, “[The Missing Panther: Secret’s Out](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19730411-1.2.10)”; “[A Postmortem on Twiggy the Panther](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740203-1.2.61).”
 
-[^21]: Chandran and Sidhu, “Panther: Zoo to Hold Inquiry”; Bernard Doray, “Panther: Eight Hunters Join in Search,” _Straits Times_, 13 March 1973, 10. (From NewspaperSG)
+[^21]: Chandran and Sidhu, “[Panther: Zoo to Hold Inquiry](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730311-1.2.3)”; Bernard Doray, “[Panther: Eight Hunters Join in Search](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730313-1.2.51),” _Straits Times_, 13 March 1973, 10. (From NewspaperSG)
 
-[^22]: K.S. Sidhu, “Panther Hunt,” _Straits Times_, 8 March 1973, 1. (From NewspaperSG)
+[^22]: K.S. Sidhu, “[Panther Hunt](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730308-1.2.3),” _Straits Times_, 8 March 1973, 1. (From NewspaperSG)
 
-[^23]: K.S. Sidhu and Shen Swee Yong, “Escaped Panther: Workers Quizzed by Police,” _Straits Times_, 10 March 1973, 28. (From NewspaperSG); Sidhu, “Panther Hunt”; Chandran and Sidhu, “Panther: Zoo to Hold Inquiry.”
+[^23]: K.S. Sidhu and Shen Swee Yong, “[Escaped Panther: Workers Quizzed by Police](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730310-1.2.94),” _Straits Times_, 10 March 1973, 28. (From NewspaperSG); Sidhu, “[Panther Hunt](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730308-1.2.3)”; Chandran and Sidhu, “[Panther: Zoo to Hold Inquiry](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730311-1.2.3).”
 
-[^24]: N.G. Kutty, Gerald Pereira and Jacob Daniel, “All-Night Vigil After Bid to Flush It Out Fails,” _Straits Times_, 31 January 1974, 1. (From NewspaperSG)
+[^24]: N.G. Kutty, Gerald Pereira and Jacob Daniel, “[All-Night Vigil After Bid to Flush It Out Fails](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740131-1.2.11),” _Straits Times_, 31 January 1974, 1. (From NewspaperSG)
 
 
-[^25]: “Flares Killed Twiggy the Panther,” _Straits Times_, 5 February 1974, 10. (From NewspaperSG)&nbsp;
+[^25]: “[Flares Killed Twiggy the Panther](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740205-1.2.57),” _Straits Times_, 5 February 1974, 10. (From NewspaperSG)&nbsp;
 
 [^26]: CMC, “Panther That Harmed No One,” _Straits Times_, 5 February 1974, 12. (From NewspaperSG)
 
