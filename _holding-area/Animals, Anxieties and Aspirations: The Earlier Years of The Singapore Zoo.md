@@ -164,18 +164,18 @@ Despite the fact that Ah Meng the orangutan and Inuka the polar bear were not na
 
 [^25]: “[Flares Killed Twiggy the Panther](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740205-1.2.57),” _Straits Times_, 5 February 1974, 10. (From NewspaperSG)&nbsp;
 
-[^26]: CMC, “Panther That Harmed No One,” _Straits Times_, 5 February 1974, 12. (From NewspaperSG)
+[^26]: CMC, “[Panther That Harmed No One](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740205-1.2.73.1),” _Straits Times_, 5 February 1974, 12. (From NewspaperSG)
 
-[^27]: “Unhappy Ending,” _Straits Times_, 3 February 1974, 8; Gerald de Cruz, “Problems of Keeping an Open Zoo,” _New Nation_, 12 February 1974, 6. (From NewspaperSG)&nbsp;
-
-
-[^28]: Ming-Deh Harrison, oral history interview by Jason Lim, 2 October 2007, transcript and MP3 audio, Reel/Disc 2 of 5, 30–31, National Archives of Singapore (accession no. 003217); S.M. Muthu, “Search On for Hippo Missing From Zoo,” _Straits Times_, 15 January 1974, 1; “Hunt for Hippopotamus Stepped Up,” _New Nation_, 15 January 1974, 1; “Missing Hippo Seen Having a Dip,” _Straits Times_, 17 January 1974, 1; “When Congo Decided He Wasn’t Going to Be Pushed Around,” _Straits Times_, 7 March 1974, 5. (From NewspaperSG)
+[^27]: “[Unhappy Ending](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740203-1.2.37.2),” _Straits Times_, 3 February 1974, 8; Gerald de Cruz, “[Problems of Keeping an Open Zoo](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19740212-1.2.25.3),” _New Nation_, 12 February 1974, 6. (From NewspaperSG)&nbsp;
 
 
-[^29]: “Antelope Latest Zoo Escapee,” _Straits Times_, 31 January 1974, 1; N.G. Kutty, “Hunger Drives ‘Prodigal’ Eland Back to the Zoo,” _Straits Times_, 11 February 1974, 1; “Staying Open,” _Straits Times_, 7 February 1974, 8. (From NewspaperSG)
+[^28]: Ming-Deh Harrison, oral history interview by Jason Lim, 2 October 2007, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/3/3ac92095-1161-11e3-83d5-0050568939ad-OHC003217_002/web/html5/index.html) and MP3 audio, Reel/Disc 2 of 5, 30–31, National Archives of Singapore ([accession no. 003217](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/003217)); S.M. Muthu, “[Search On for Hippo Missing From Zoo](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740115-1.2.18),” _Straits Times_, 15 January 1974, 1; “[Hunt for Hippopotamus Stepped Up](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19740115-1.2.6),” _New Nation_, 15 January 1974, 1; “[Missing Hippo Seen Having a Dip](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740117-1.2.16),” _Straits Times_, 17 January 1974, 1; “[When Congo Decided He Wasn’t Going to Be Pushed Around](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740307-1.2.39),” _Straits Times_, 7 March 1974, 5. (From NewspaperSG)
 
 
-[^30]: “Zoo Will Get Its Millionth Visitor in October,” _New Nation_, 28 June 1974, 2. (From NewspaperSG)
+[^29]: “[Antelope Latest Zoo Escapee](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740131-1.2.14),” _Straits Times_, 31 January 1974, 1; N.G. Kutty, “[Hunger Drives ‘Prodigal’ Eland Back to the Zoo](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740211-1.2.2),” _Straits Times_, 11 February 1974, 1; “[Staying Open](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740207-1.2.53.1),” _Straits Times_, 7 February 1974, 8. (From NewspaperSG)
+
+
+[^30]: “[Zoo Will Get Its Millionth Visitor in October](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19740628-1.2.19.4),” _New Nation_, 28 June 1974, 2. (From NewspaperSG)
 
 
 [^31]: “De Alwis – Man Who Planned the Mandai Zoo.”
