@@ -49,6 +49,18 @@ The orchid was advertised in newspapers as a suitable gift for everyone and for 
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/straitstimes_19760503.jpg" style="width: 55%;">
 <div style="background-color: white;">Setsco published an apology in the papers in 1976 for having run out of its orchids. <i>Image reproduced from “Page 19 Advertisements Column 3,” Straits Times, 3 May 1976, 19. (From NewspaperSG)</i></div>
 
+RISIS wasn’t just popular locally – it also quickly won fans abroad. An exhibition at the Frankfurt Fair led to an immediate order worth $50,000.[^20] By early 1978, local sales had grown to 12,000 a month, while export orders totalling $500,000 had been received. To keep up with demand, Setsco’s plant capacity had to be expanded five different times and its number of employees ballooned from 24 to 180.[^21]
+
+Prominently associated with the Singapore brand, these golden orchids seemed to be everywhere in the 1970s and 80s . At the 1977 Singapore Fair organised by the Singapore Manufacturers’ Association (SMA), the winner of the Miss SMA title was presented with a RISIS orchid, along with a trophy and an all-expenses paid trip to Copenhagen. The runner-up received a RISIS orchid and household appliances.[^22] The _Business Times_ described the orchids as “the highlight of the London Impo-Expo 1979,” and a RISIS export agent accounted for this success by speculating that “they offer the mystique of the Orient in the shape of a flower.”[^23]
+
+When the Vanda Miss Joaquim was declared Singapore’s national flower in 1981, an article in _New Nation_ even suggested the government give all baby girls named Joaquim that year an 18-carat gold RISIS-version of the Miss Joaquim orchid instead of milk powder.[^24] At the 1984 ASEAN Orchid Congress in Singapore, prize-winners received special commemorative trophies with “sprays of gold-plated RISIS orchids” mounted on a plate.[^25] When STPB started awarding “Tourism Awards” in 1985, RISIS won in the inaugural “Best Tourism Souvenir” category, the most crowded category with 39 submissions.[^26]
+
+Perhaps the most vivid sign of how central RISIS had become to the Singaporean identity can be seen in its deployment for philosophical soul-searching. In her article “Look No Further for Our National Symbol” published in the _Straits Times_, Nancy Chng suggested that the RISIS orchid was a fitting choice precisely because “there is something artificial and uptight about it that remind\[ed her\] of the Singaporean character.” She was writing in 1980, after a decade of public concern over the supposed coarsening moral character of Singaporeans.[^27] “It is valued more for the gold-plating than the beauty of the flower within,” she lamented, “in much the same way that the single-minded pursuit of success, material success, has caused Singaporeans to suppress their genteel or gentler nature.”[^28]
+
+#### **Golden Orchid Diplomacy**
+
+Orchids have been an important diplomatic tool for Singapore since the mid-20th century. “Orchid diplomacy” saw prominent foreign visitors – heads of state, heads of government, celebrities – treated to an orchid from the Singapore Botanic Garden named after them.[^29] With the creation of RISIS, it also became customary to give these VIPs a gold-plated version of their namesake orchid.[^30]
+
   
 
 * * *
@@ -56,6 +68,7 @@ The orchid was advertised in newspapers as a suitable gift for everyone and for 
 
 
   
+
 
 
 
@@ -111,3 +124,25 @@ The orchid was advertised in newspapers as a suitable gift for everyone and for 
 [^18]:  “[Page 19 Advertisements Column 3: RISIS Gold Orchids](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19760503-1.2.110.3),” _Straits Times_, 3 May 1976, 19. (From NewspaperSG)
 
 [^19]:  Lee, _[A Fabulous Journey](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14651733)_, 159.
+
+[^20]:  “[S’pore Orchids Don the ‘Golden’ Look](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19760420-1.2.73)”; “[Tempah $50,000 dari Jerman Untuk Orkid Emas](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19760421-1.2.75),” _Berita Harian_, 21 April 1976, 8. (From NewspaperSG)
+
+[^21]:  “[Risis Orchids Worth Their Weight in Gold](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19780216-1.2.11.9),” _Business Times_, 16 February 1978, 2. (From NewspaperSG)
+
+[^22]:  “[Fashion and Food Week Highlights](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19770923-1.2.166.1),” _Straits Times_, 23 September 1977, 34. (From NewspaperSG)
+
+[^23]:  “[Orchids Steal the Limelight](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19790804-1.2.12.6),” _Business Times_, 4 August 1979, 2. (From NewspaperSG)
+
+[^24]:  Terry Tan, “[Lovely Lady Miss Joaquim, Long May She Bloom](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19810419-1.2.20),” _New Nation_, 19 April 1981, 8. (From NewspaperSG)
+
+[^25]:  “[A Riotous Display of Blooms and Colour](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19840729-1.2.88.19.1.1),” _Straits Times_, 29 July 1984, 10. (From NewspaperSG)
+
+[^26]:  “[Tourism Awards Competition Draws 83 Entries](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19851113-1.2.12.15),” _Business Times_, 13 November 1985, 3; “[Awards for Boosting Tourism](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19851205-1.2.9.2),” _Business Times_, 5 December 1985, 2. (From NewspaperSG)
+
+[^27]:  Lawrence Basapa, “[Will the ‘Ugly Singaporean’ Ever Change His Attitude](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19700517-1.2.68)?” _Straits Times_, 17 May 1970, 10; Gloria Chandy, “[Save the Kids from Turning into Brats](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19780226-1.2.46),” _New Nation_, 26 February 1978, 7. (From NewspaperSG)
+
+[^28]:  Nancy Chng, “[Look No Further for Our National Symbol](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19800809-1.2.118.22.7),” _Straits Times_, 9 August 1980, 8. (From NewspaperSG)
+
+[^29]:  Rebecca Tan, “[Flower Power: Singapore’s Orchid Diplomacy](https://biblioasia.nlb.gov.sg/vol-18/issue-1/apr-to-jun-2022/singapore-orchid-diplomacy/),” _BiblioAsia_, 18, no. 1 (Apr-Jun 2022); Ang Seow Leng, “[More than Just a Flower: The Orchid’s Manifold Faces](https://biblioasia.nlb.gov.sg/vol-7/issue-3/oct-dec-2011/orchid-flower-manifold-face/),” _BiblioAsia_, 7, no. 3 (Oct–Dec 2011).
+
+[^30]:  E Jofel, [T_he RISIS Orchid_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4080144) (Singapore: Times Books International, 1984), 21. (From National Library, Singapore, call no. RSING 739.27095957 JOF)
