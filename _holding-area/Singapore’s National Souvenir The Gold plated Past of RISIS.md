@@ -120,42 +120,8 @@ Lee’s final animal was a gold-plated origami paper crane, which was inspired b
 
 While RISIS&nbsp;continues to sell its signature gold-plated items today,&nbsp;it has extended its product line to include other items like chopsticks (with gold-plated tips) and penholders (with mounted golden flowers).&nbsp;Its gold animals of the Chinese zodiac also remain for sale: a&nbsp;resin dragon with 24K gold-plating that stands at 29 cm and weighs 5.5kg retails for $7,388. Its gold-plated eggs are still available and have grown even larger – according to its website, a 24K gold-plated ostrich egg weighing 5kg goes for $1,988.[^51] The national prominence of RISIS might have waned but RISIS and its products remind us of the aspirations of the once newly-industrialising Singapore and how far we have come since then.
 
-  
-
-* * *
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-  
-
-
-
-
-
-
-  
-
-  
-
-
-
-
-  
-
-
-
-  
+<div style="background-color: white;">
+<img style="width: 100px; height: 100px;" src="/images/Authors/sharad_pandian.png"><b>Sharad Pandian</b> graduated from Nanyang Technological University with a degree in physics before pursuing a Master of Philosophy in history and philosophy of science at the University of Cambridge as a Gates-Cambridge Scholar. Sharad is interested in the history of science and standardisation in Asia. He is a former Lee Kong Chian Research Fellow with the National Library, Singapore (2022–23).</div>
 
 #### **Notes**
 
