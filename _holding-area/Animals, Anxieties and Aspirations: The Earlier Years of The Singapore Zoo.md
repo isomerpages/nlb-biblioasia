@@ -123,6 +123,10 @@ On 28 February 2014, the 12-hectare River Safari (now River Wonders) officially 
 
 The park featured animals from diverse riverine habitats like the Amazon, Yangtze, Ganges, Nile and Mekong rivers. In addition to charismatic mammals such as Brazilian tapirs, South American jaguars and manatees, its freshwater exhibits also showcased exotic fishes like the Mekong giant catfish, the electric eel and the giant freshwater stingray. Attesting to the consistent and growing popularity of these animals, the River Safari hosted over a million visitors in its opening year, exceeding the number of guests the zoo and Night Safari had welcomed in their inaugural years.[^45]
 
+![](/images/Vol%2020%20Issue%203/Zoo/zoo_img3.jpg)
+<div style="background-color: white;">A giant freshwater stingray at the Mekong River section in River Wonders. Each ray has a sharp barb on the base of its tail that can easily penetrate human skin and bone. <i>Courtesy of Mandai Wildlife Group.</i></div>
+
+
 Attracting the most attention and excitement from visitors, however, were the River Safari’s giant pandas from China. On an initial 10-year loan from China, giant pandas Kai Kai and Jia Jia were specially flown in from Chengdu, China, and then transported by an air-conditioned truck to the Singapore Zoo when they first arrived in 2012.[^46] Notoriously difficult to breed, the pair formed the focus of numerous unsuccessful breeding efforts in subsequent years. These endeavours finally paid off when Jia Jia conceived via artificial insemination and gave birth to a male baby panda named Le Le on 14 August 2021, who became an instant hit with visitors.[^47]
 
 ![](/images/Vol%2020%20Issue%202/Cable%20Cars/cablecars_img5.jpg)
