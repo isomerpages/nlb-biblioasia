@@ -133,25 +133,25 @@ Despite the fact that Ah Meng the orangutan and Inuka the polar bear were not na
 
 [^10]: “[Singapore Puts Up Its Elephant Tax](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19500615-1.2.84),” _Singapore Free Press_, 15 June 1950, 5; Melody Zaccheus, “We Bought a Zoo: Singapore’s Small Havens for Wild Animals,” _Straits Times_, 3 June 2014, https://www.straitstimes.com/singapore/we-bought-a-zoo-singapores-small-havens-for-wild-animals; “A Forgotten Past – A Zoo at Punggol,” Remember Singapore, 19 March 2012, https://remembersingapore.org/2012/03/19/a-zoo-in-punggol/.
 
-[^11]:  “The Men Behind the Project,” _Straits Times_, 29 January 1973, 14. (From NewspaperSG)
+[^11]:  “[The Men Behind the Project](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730129-1.2.60),” _Straits Times_, 29 January 1973, 14. (From NewspaperSG)
 
-[^12]: “The Men Behind the Project.”
+[^12]: “[The Men Behind the Project](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730129-1.2.60).”
 
-[^13]: “Govt’s $5 Mil Firm to Set Up a Zoo,” _Straits Times_, 24 April 1971, 11. (From NewspaperSG)
+[^13]: “[Govt’s $5 Mil Firm to Set Up a Zoo](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19710424-1.2.68),” _Straits Times_, 24 April 1971, 11. (From NewspaperSG)
 
 [^14]:  Manik de Silva, “Lyn de Alwis, Sri Lanka’s Mr Zoo,” 1 July 1996, _Himal SouthAsian_, https://www.himalmag.com/profile/lyn-de-alwis-sri-lankas-mr-zoo.
 
-[^15]: “Keeping the Water Clean for $1.7M,” _Straits Times_, 29 January 1973, 14; “SM: Zoo Pollution Was Main Worry,” _Straits Times_, 20 June 1993, 3. (From NewspaperSG); Sharp, _The First 21 Years_, 32.
+[^15]: “[Keeping the Water Clean for $1.7M](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730129-1.2.62),” _Straits Times_, 29 January 1973, 14; “[SM: Zoo Pollution Was Main Worry](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19930620-1.2.6.8),” _Straits Times_, 20 June 1993, 3. (From NewspaperSG); Sharp, [_The First 21 Years_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7059289), 32.
 
-[^16]: “Govt’s $5 Mil Firm to Set Up a Zoo.”
+[^16]: “[Govt’s $5 Mil Firm to Set Up a Zoo](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19710424-1.2.68).”
 
-[^17]: P.M. Raman, “S’pore Zoological Gardens To Be Opened in Mid-June,” _Straits Times_, 30 April 1973, 24. (From NewspaperSG)
+[^17]: P.M. Raman, “[S’pore Zoological Gardens To Be Opened in Mid-June]()https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730430-1.2.94,” _Straits Times_, 30 April 1973, 24. (From NewspaperSG)
 
-[^18]: Chandran, “A Haven for Animal Lovers of S’pore.”
+[^18]: Chandran, “[A Haven for Animal Lovers of S’pore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730628-1.2.80).”
 
-[^19]: K.S. Sidhu, “Panther Hunt,” _Straits Times_, 8 March 1973, 1; R. Chandran and K.S. Sidhu, “Panther: Zoo to Hold Inquiry,” _Straits Times_, 11 March 1973, 1. (From NewspaperSG)
+[^19]: K.S. Sidhu, “[Panther Hunt](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730308-1.2.3),” _Straits Times_, 8 March 1973, 1; R. Chandran and K.S. Sidhu, “[Panther: Zoo to Hold Inquiry](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730311-1.2.3),” _Straits Times_, 11 March 1973, 1. (From NewspaperSG)
 
-[^20]:  Mohan, “Panther Escape: Official Resigns”; Mohan, “The Missing Panther: Secret’s Out”; “A Postmortem on Twiggy the Panther.”
+[^20]:  Mohan, “[Panther Escape: Official Resigns](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19730510-1.2.3)”; Mohan, “[The Missing Panther: Secret’s Out](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19730411-1.2.10)”; “[A Postmortem on Twiggy the Panther](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740203-1.2.61).”
 
 [^21]: Chandran and Sidhu, “Panther: Zoo to Hold Inquiry”; Bernard Doray, “Panther: Eight Hunters Join in Search,” _Straits Times_, 13 March 1973, 10. (From NewspaperSG)
 
