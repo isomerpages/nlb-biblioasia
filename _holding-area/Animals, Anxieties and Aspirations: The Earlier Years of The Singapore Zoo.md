@@ -193,36 +193,48 @@ Despite the fact that Ah Meng the orangutan and Inuka the polar bear were not na
 [^35]: K.C. Vijayan, “Ah Meng Dies,” _Straits Times_, 9 February 2008, https://www.straitstimes.com/singapore/ah-meng-dies.
 
 
-[^36]: 
+[^36]: Amy Corrigan and Louis Ng, “What’s a Polar Bear Doing in the Tropics?” Animal Concerns Research and Education Society, 2006, https://acres.org.sg/core/wp-content/uploads/2015/05/Whats-A-Polar-Bear-Doing-in-the-Tropics-report.pdf.
 
-[^37]: 
 
-[^38]: 
+[^37]: “Singapore Zoo’s Inuka the Polar Bear Put Down at 27 on ‘Humane and Welfare Grounds’,” _Straits Times_, 25 April 2018, https://www.straitstimes.com/singapore/singapore-zoos-inuka-the-polar-bear-put-down-at-27-on-humane-and-welfare-grounds.
 
-[^39]: 
 
-[^40]: 
+[^38]: “$60m Night Zoo Opens,” _Straits Times_, 29 April 1994, 2. (From NewspaperSG)
 
-[^40]: 
 
-[^41]: 
+[^39]: Rohaniah Saini, “'Make Them Happy and They Will Breed',” _Straits Times_, 29 April 1994, 3. (From NewspaperSG)
 
-[^42]: 
 
-[^43]: 
+[^40]: Ginnie Teo, “Safari Stops Sale of Advance Tickets,” _Straits Times_, 22 June 1994, 22. (From NewspaperSG)
 
-[^44]: 
 
-[^45]: 
+[^41]: Bernard Harrison, _Singapore Zoological Gardens Annual Report 1994/1995_ (Singapore: Singapore Zoological Gardens, 1995), 11. (From National Library Online)
 
-[^46]: 
 
-[^47]: 
+[^42]: Harrison, oral history interview, Reel/Disc 3 of 5, 42–63; Harrison, _Singapore Zoological Gardens Annual Report 1994/1995_, 10.
 
-[^48]: 
 
-[^49]: 
+[^43]: Mak Mun Sun, “Woo… The Zoo Is Cool,” _Straits Times_, 20 May 2006, 4. (From NewspaperSG)&nbsp;
 
-[^50]: 
 
-[^51]:
+[^44]: Zoe Yeo Lock Yan and Fiona Lim, “River Safari,” in _Singapore Infopedia_. National Library Board Singapore. Article published 25 June 2015.
+
+
+[^45]: Lucas Romero, “Number of Visitors to the River Wonders in Singapore from 2014 to 2022,” Statista, 2 April 2024, https://www.statista.com/statistics/1025414/singapore-river-safari-visitor-numbers/.
+
+
+[^46]: “S’pore Welcomes Kai Kai and Jia Jia,” _Straits Times_, 17 September 2012. (From NewspaperSG)
+
+
+[^47]: “Transcript of Speech by Prime Minister Lee Hsien Loong at the River Safari Grand Opening, 28 Feb 2014," Prime Minister's Office, 28 February 2014, https://www.pmo.gov.sg/Newsroom/transcript-speech-prime-minister-lee-hsien-loong-river-safari-grand-opening-28-feb-2014; Natasha Ganesan, “Singapore's First Giant Panda Cub Le Le to be Separated from Mum As He Turns Two,” _CNA_, 14 August 2023, https://www.channelnewsasia.com/singapore/panda-le-le-jia-jia-separated-independence-mandai-wildlife-group-3697221; Ng Kai Ling, “The Seed That Grew Into a Wildlife Park,” _Straits Times_, 3 February 2013, 14. (From NewspaperSG); Ng Keng Gene, “Singapore Gets First Panda Cub, Born to Kai Kai and Jia Jia at River Safari,” _Straits Times_, 15 August 2021, https://www.straitstimes.com/singapore/singapore-gets-first-panda-cub-born-to-kai-kai-and-jia-jia-at-river-safari.
+
+[^48]: Koh Wan Ting, "Giant Pandas Jia Jia, Kai Kai to Extend Stay in Singapore Until 2027,” _CNA_, 2 September 2022; Mandai Wildlife Reserve Media Centre, https://www.channelnewsasia.com/singapore/giant-pandas-jia-jia-kai-kai-extend-singapore-stay-2916001; “Singapore's Giant Panda Cub Le Le Will Move into China's Panda Conservation Programme in December,” Mandai Wildlife Reserve, 22 September 2023, https://www.mandai.com/en/about-mandai/media-centre/Singapores-Giant-Panda-cub-Le-Le-will-move-into-Chinas-Panda-Conservation-Programme-in-December.html.&nbsp;
+
+
+[^49]: Nur Dianah Suhaimi, “Memorial Service for a Singapore Icon,” _Straits Times_, 10 February 2008, 4; Maria Almenoar, “Goodbye, Ah Meng,” _Straits Times_, 11 February 2008, 4; Ho Lian-Yi, “Ah Meng Dies,” _Straits Times_, 9 February 2008, 2. (From NewspaperSG)
+
+
+[^50]: Kimberly Chia, “Letting Go of Inuka,” _Straits Times_, 26 April 2018, A10. (From ProQuest via NLB’s eResources website)
+
+
+[^51]: Lee Hsien Loong, “It Was With a Heavy Heart That I Read About Inuka’s Passing Yesterday Morning,” 26 April 2018, Facebook, https://m.facebook.com/125845680811480/posts/1845996398796391/?\_rdr.
