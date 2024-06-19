@@ -103,15 +103,13 @@ In response to the fake eggs scandal, Setsco sent warning letters to 10 stores k
 
 #### **The Gold Menagerie**
 
-In 1986, as part of the government’s larger privatisation thrust, Setco sold its subsidiary RISIS Pte Ltd to private companies.[^45] Lee, however, remained Director and Consultant to RISIS until 1990.[\[2\]](#_ftn2)
+In 1986, as part of the government’s larger privatisation thrust, Setco sold its subsidiary RISIS Pte Ltd to private companies.[^45] Lee, however, remained Director and Consultant to RISIS until 1990.[^46]
 
   
 
 * * *
 
-[\[1\]](#_ftnref1) Singapore Institute of Standards and Industrial Research, _[Annual Report 198](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308)_5/86 (Singapore: The Institute), 5 (From National Library, Singapore, call no. RSING 354.5957093 SISIRA-\[AR\]); Hsung Bee Hwa, “[Risis Now Owned by Two Private Firms](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19861104-1.2.38.26),” _Straits Times_, 4 November 1986, 22. (From NewspaperSG)
 
-[\[2\]](#_ftnref2) Lee, _[A Fabulous Journey](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14651733)_, 95; “[The Risis Golden Horse is Crafted as a Tribute to Civilisation](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19900114-1.2.48.56.5),” _Straits Times_, 14 January 1990, 56. (From NewspaperSG)
 
   
 
@@ -229,3 +227,7 @@ In 1986, as part of the government’s larger privatisation thrust, Setco sold i
 [^43]:  Gillian Pow Chong, “[When a Golden Egg Stinks](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19850120-1.2.2),” _Straits Times_, 20 January 1985, 1. (From NewspaperSG)
 
 [^44]:  “[How to Tell If That Golden Egg is Real](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19850123-1.2.24.4),” _Straits Times_, 23 January 1985, 9. (From NewspaperSG)
+
+[^45]:  Singapore Institute of Standards and Industrial Research, _[Annual Report 198](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308)_5/86 (Singapore: The Institute), 5 (From National Library, Singapore, call no. RSING 354.5957093 SISIRA-\[AR\]); Hsung Bee Hwa, “[Risis Now Owned by Two Private Firms](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19861104-1.2.38.26),” _Straits Times_, 4 November 1986, 22. (From NewspaperSG)
+
+[^46]:  Lee, _[A Fabulous Journey](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14651733)_, 95; “[The Risis Golden Horse is Crafted as a Tribute to Civilisation](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19900114-1.2.48.56.5),” _Straits Times_, 14 January 1990, 56. (From NewspaperSG)
