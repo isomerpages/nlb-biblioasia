@@ -121,7 +121,7 @@ Despite the fact that Ah Meng the orangutan and Inuka the polar bear were not na
 
 [^4]: H.N. Ridley, “The Menagerie at the Botanic Gardens,” _Journal of the Straits Branch of the Royal Asiatic Society 46_ (December 1906): 133–94. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-[^5]: Timothy P. Barnard, [Nature’s Colony: Empire, _Nation and Environment in the Singapore Botanic Gardens_](https://nlb.overdrive.com/media/6452A8DB-30F9-419F-AD6A-E72ADD17C242) (Singapore: NUS Press, 2016), 110. (From NLB OverDrive)
+[^5]: Timothy P. Barnard, [_Nature’s Colony: Empire, Nation and Environment in the Singapore Botanic Gardens_](https://nlb.overdrive.com/media/6452A8DB-30F9-419F-AD6A-E72ADD17C242) (Singapore: NUS Press, 2016), 110. (From NLB OverDrive)
 
 [^6]: “[S’pore Zoo Starts from Scratch](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19461020-1.2.61),” _Straits Times_, 20 October 1946, 5. (From NewspaperSG)
 
@@ -205,13 +205,13 @@ Despite the fact that Ah Meng the orangutan and Inuka the polar bear were not na
 [^39]: Rohaniah Saini, “['Make Them Happy and They Will Breed'](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19940429-1.2.78.2.3),” _Straits Times_, 29 April 1994, 3. (From NewspaperSG)
 
 
-[^40]: Ginnie Teo, “Safari Stops Sale of Advance Tickets,” _Straits Times_, 22 June 1994, 22. (From NewspaperSG)
+[^40]: Ginnie Teo, “[Safari Stops Sale of Advance Tickets](https://eresources.nlb.gov.sg/newspapers/digitised/page/straitstimes19940622-1.1.22),” _Straits Times_, 22 June 1994, 22. (From NewspaperSG)
 
 
-[^41]: Bernard Harrison, _Singapore Zoological Gardens Annual Report 1994/1995_ (Singapore: Singapore Zoological Gardens, 1995), 11. (From National Library Online)
+[^41]: Bernard Harrison, [_Singapore Zoological Gardens Annual Report 1994/1995_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=f9da7e54-ab7e-4ece-a8bf-a44c47934247) (Singapore: Singapore Zoological Gardens, 1995), 11. (From National Library Online)
 
 
-[^42]: Harrison, oral history interview, Reel/Disc 3 of 5, 42–63; Harrison, _Singapore Zoological Gardens Annual Report 1994/1995_, 10.
+[^42]: [Harrison](https://www.nas.gov.sg/archivesonline/flipviewer/publish/3/3ad74159-1161-11e3-83d5-0050568939ad-OHC003217_003/web/html5/index.html), oral history interview, Reel/Disc 3 of 5, 42–63; Harrison, _Singapore Zoological Gardens Annual Report 1994/1995_, 10.
 
 
 [^43]: Mak Mun Sun, “Woo… The Zoo Is Cool,” _Straits Times_, 20 May 2006, 4. (From NewspaperSG)&nbsp;
