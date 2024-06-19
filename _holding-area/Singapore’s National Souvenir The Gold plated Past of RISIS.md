@@ -114,7 +114,7 @@ In 1986, as part of the government’s larger privatisation thrust, Setco sold i
 From the mid-80s, RISIS started emphasising Chinese culture in both the items sold and the narratives deployed. These included walnuts[^47] and gold-plated figurines celebrating the year’s Chinese Zodiac animal (of course, without live animal encased within). For the Year of the Snake in 1989, RISIS released a gold-plated snake curled to resemble the Chinese character for patience, its advertisement announcing “Virtue Captured in Gold.”[^48] This trend reached its zenith in 1990, the year of the Golden Horse. Golden horses inspired by the paintings of renowned Chinese artist Xu Beihong were sold by RISIS, this time with the declaration that horses, not dogs, were Man’s best friend.[^49]
 
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/biztimes_19881230.jpg" style="width: 45%;">
-<div style="background-color: white;">Advertisement for the 1989 snake.&nbsp;<i>Image reproduced from_&nbsp;_“Page 5 Advertisements Column 1,” Business Times, 30 December 1988, 5. (From NewspaperSG)</i></div>
+<div style="background-color: white;">Advertisement for the 1989 snake.&nbsp;<i>Image reproduced from “Page 5 Advertisements Column 1,” Business Times, 30 December 1988, 5. (From NewspaperSG)</i></div>
 
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/straitstimes_19891209.jpg" style="width: 75%;">
 <div style="background-color: white;">The RISIS golden horse was inspired by renowned Chinese artist Xu Beihong.&nbsp;<i>Image reproduced from “Page 3 Advertisements Column 1,” Straits Times, 9 December 1989, 3. (From NewspaperSG).</i></div>
