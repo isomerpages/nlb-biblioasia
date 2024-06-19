@@ -71,6 +71,16 @@ In 1990, the royal consort of the Sultan of Brunei, Raja Isteri Pengiran Anak, w
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/straitstimes_19840505.jpg" style="width: 70%;">
 <div style="background-color: white;">Lord Aberconway presents Queen Elizabeth with her namesake RISIS gold-plated orchids at a garden festival in 1984. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i></div>
 
+Just as deploying the RISIS orchids enhanced Singapore’s standing, the association of the orchid with celebrities enhanced the stature of RISIS. In sending Princess Diana a RISIS broach in December 1982, the _Singapore Monitor_ noted that “Princess Diana, whose hairstyle and taste in clothes are widely copied, may just give the RISIS orchid the boost it needs to become internationally fashionable.”[^34] Indeed, RISIS soon launched a top-of-the-line Royal RISIS collection whose prices started at $500. The collection made its debut in a 1986 Fashion Show at the York Hotel, which featured clothes by Bruce Oldfield, who was advertised as “Princess Diana’s designer.”[^35]
+
+Orchids were also used to promote tourism. When Singapore received its two millionth tourist in December 1978, the country went all-out to mark the event. The lucky visitor was Iris Harris, an English Health Officer who had flown in from London. After clearing customs, Harris and her husband were whisked onto a stage decorated with RISIS orchids worth $40,000. They were then driven by limousine to the Presidential suite at the Singapore Hilton for their stay, received a $3,000 shopping voucher, and then treated to a $7,500 Emperor’s Banquet, comprising 48 courses at the Cockpit Hotel. Finally, an orchid was named after Harris and she was gifted a diamond-studded, gold-plated version of that same orchid.[^36]
+
+  
+
+* * *
+
+
+
   
 
 * * *
@@ -169,3 +179,9 @@ In 1990, the royal consort of the Sultan of Brunei, Raja Isteri Pengiran Anak, w
 [^32]:  Teresa Ooi, “[Orchids in Gold for the Queen](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19840415-1.2.55),” _Straits Times_, 14 April 1984, 14; [Singapore Orchid Display Wins Top Awards in Britain](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19840526-1.2.72),” _Straits Times_, 26 May 1984, 49. (From NewspaperSG)
 
 [^33]:  “[Raya Isteri Visits Risis Factory and Zoo](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19900215-1.2.27.5),” _Straits Times_, 15 February 1990, 16. (From NewspaperSG)
+
+[^34]:  Guo, “[Risis Orchid for Princess Diana](https://eresources.nlb.gov.sg/newspapers/digitised/article/singmonitor19821208-1.2.11.10).”
+
+[^35]:  “[Risis Sparkles With a Jewelled Collection](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19860516-1.2.10.14),” _Business Times_, 16 May 1986, 3. (From NewspaperSG)
+
+[^36]:  Singapore Institute of Standards and Industrial Research, [Annual Report 1978/79](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308) (Singapore: The Institute), 7 (From National Library, Singapore, call no. RSING 354.5957093 SISIRA-\[AR\]); “[The 2 Millionth Visitor](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19781223-1.2.5),” _Straits Times_, 23 December 1978, 1; “[S’pore Crosses the Two Millionth Visitor Mark](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19781223-1.2.137.24.1),” _Straits Times_, 23 December 1978, 9; “[She Dines Like an Empress](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19781224-1.2.6),” _New Nation_, 24 December 1978, 2. (From NewspaperSG)
