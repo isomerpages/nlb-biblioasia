@@ -162,17 +162,21 @@ Despite the fact that Ah Meng the orangutan and Inuka the polar bear were not na
 [^24]: N.G. Kutty, Gerald Pereira and Jacob Daniel, “All-Night Vigil After Bid to Flush It Out Fails,” _Straits Times_, 31 January 1974, 1. (From NewspaperSG)
 
 
-[^25]: 
+[^25]: “Flares Killed Twiggy the Panther,” _Straits Times_, 5 February 1974, 10. (From NewspaperSG)&nbsp;
 
-[^26]: 
+[^26]: CMC, “Panther That Harmed No One,” _Straits Times_, 5 February 1974, 12. (From NewspaperSG)
 
-[^27]: 
+[^27]: “Unhappy Ending,” _Straits Times_, 3 February 1974, 8; Gerald de Cruz, “Problems of Keeping an Open Zoo,” _New Nation_, 12 February 1974, 6. (From NewspaperSG)&nbsp;
 
-[^28]: 
 
-[^29]: 
+[^28]: Ming-Deh Harrison, oral history interview by Jason Lim, 2 October 2007, transcript and MP3 audio, Reel/Disc 2 of 5, 30–31, National Archives of Singapore (accession no. 003217); S.M. Muthu, “Search On for Hippo Missing From Zoo,” _Straits Times_, 15 January 1974, 1; “Hunt for Hippopotamus Stepped Up,” _New Nation_, 15 January 1974, 1; “Missing Hippo Seen Having a Dip,” _Straits Times_, 17 January 1974, 1; “When Congo Decided He Wasn’t Going to Be Pushed Around,” _Straits Times_, 7 March 1974, 5. (From NewspaperSG)
 
-[^30]: 
+
+[^29]: “Antelope Latest Zoo Escapee,” _Straits Times_, 31 January 1974, 1; N.G. Kutty, “Hunger Drives ‘Prodigal’ Eland Back to the Zoo,” _Straits Times_, 11 February 1974, 1; “Staying Open,” _Straits Times_, 7 February 1974, 8. (From NewspaperSG)
+
+
+[^30]: “Zoo Will Get Its Millionth Visitor in October,” _New Nation_, 28 June 1974, 2. (From NewspaperSG)
+
 
 [^31]: 
 
