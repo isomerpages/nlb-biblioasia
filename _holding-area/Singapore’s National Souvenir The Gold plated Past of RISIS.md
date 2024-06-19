@@ -85,6 +85,15 @@ The success of the RISIS orchid inspired SISIR to gold-plate other items. The fi
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/gold_plate_leaves.jpg" style="width: 80%;">
 <div style="background-color: white;">Gold-plated tropical leaves and ferns from the 1979 RISIS Floral Collection (left) and gold-plated coins (right). <i>Images reproduced from Singapore Institute of Standards and Industrial Research, <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308">Annual Report of SISIR 1978/79</a> (Singapore, The Institute), 22. (From National Library, Singapore, call no. RSING 354.5957093 SISIRA -\[AR\]) and Singapore Institute of Standards and Industrial Research, <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308">Annual Report of SISIR 1980/81</a> (Singapore, The Institute), 33. (From National Library, Singapore, call no. RSING 354.5957093 SISIRA -\[AR\])</i></div>
 
+In 1984, RISIS launched gold-plated eggs for Chinese New Year. Positioning the egg as a symbol of life, advertisements suggested that the egg would “confer an aura of good luck and prestige upon the giver and the receiver.”[^39]
+
+
+
+  
+
+* * *
+
+
   
 
 * * *
@@ -181,3 +190,5 @@ The success of the RISIS orchid inspired SISIR to gold-plate other items. The fi
 [^37]:  Singapore Institute of Standards and Industrial Research, _[Annual Report 1979/80](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308)_ (Singapore: The Institute), 38. (From National Library, Singapore, call no. RSING 354.5957093 SISIRA-\[AR\])
 
 [^38]:  Singapore Institute of Standards and Industrial Research, [Annual Report 1980/81](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308) (Singapore: The Institute), 33. (From National Library, Singapore, call no. RSING 354.5957093 SISIRA-\[AR\])
+
+[^39]:  “[Page 40 Advertisements Column 1](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19840128-1.2.65.1),” _Straits Times_, 28 January 1984, 40. (From NewspaperSG)
