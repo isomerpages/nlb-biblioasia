@@ -58,7 +58,7 @@ Other less dramatic escapees in this period included an eland (a type of antelop
 
 Tighter security measures such as higher fences, reinforced walls and deeper moats were implemented, and appeared to have largely worked. 
 
-A New Era
+#### **A New Era**
 
 The zoo welcomed its first public visitors on 28 June 1973, a day after the official opening. Entrance fees were priced at $2 for adults and $1 for children. The newly minted attraction became highly popular with citizens and tourists, and by June that year, it had welcomed over 850,000 visitors, far exceeding initial expectations.30 De Alwis was proud of how the zoo had turned out. “It’s a damned fine zoo,” he told the _Straits Times_ in July 1973.31
 
@@ -72,7 +72,7 @@ Ah Meng was chosen as a replacement because she was photogenic, “well-groomed�
 
 The internationalisation of the Singapore Zoo continued into the 1990s and 2000s. On 26 December 1990, the zoo welcomed the birth of Inuka, the world’s first (and perhaps only) polar bear to be born in the tropics. Like Ah Meng, Inuka endeared himself to Singaporeans and international visitors alike, becoming a mascot for the zoo’s marketing efforts. But as a creature poorly adapted to the tropics, the polar bear also provoked many difficult conversations about animal welfare and zoological exhibits in Singapore. Such debates were led by the Animal Concerns Research and Education Society (ACRES), a local animal welfare group.36 (The zoo later said in 2006 that it would not bring any more polar bears to Singapore.37)
 
-New Attractions
+#### **New Attractions**
 
 The 1990s also witnessed the launch of the world’s first Night Safari, which officially opened on 26 May 1994. Described as the first of its kind in the world, it allowed (and continues to allow) visitors to observe animals in nocturnal naturalistic settings, with even some free-ranging herbivores in certain parts of the park. At 40 hectares, it was nearly twice as large as the Singapore Zoo when it opened, and featured a collection of 1,200 animals from 100 different species, and “animals never before seen in Singapore”, such as a one-horned rhinoceros from India. 
 
@@ -92,13 +92,13 @@ Attracting the most attention and excitement from visitors, however, were the Ri
 
 In 2022, the 10-year loan for Jia Jia and Kai Kai was extended for another five years until 2027, under an agreement signed by the China Wildlife Conservation Association and Mandai Wildlife Group. After Le Le turned two in August 2023, he was returned to China’s panda conservation programme in December that year.48
 
-Grief and Remembrance
+#### **Grief and Remembrance**
 
 The early 2000s would also be a time of loss for the zoo though. On 8 February 2008, Ah Meng the orangutan died at the age of 48. News of her death elicited widespread expressions of grief from many Singaporeans. Her memorial service at the zoo, the first time such an honour had been accorded to any animal in Singapore, was attended by over 4,000 well-wishers.49
 
 A similar outpouring of public sorrow was again seen when 27-year-old Inuka was put down on 25 April 2018 due to his deteriorating health. Hundreds of visitors attended the bear’s memorial service, and many Singaporeans shared their feelings online in the form of photographs, blogposts, Facebook posts and visual art.50 His death attracted reactions even from Prime Minister Lee Hsien Loong. “Born and raised here,” Lee wrote on his Facebook, “he was as Singaporean as any of us.”51
 
-A Space of Many Possibilities
+#### **A Space of Many Possibilities**
 
 While it is easy to tell the story of the Singapore Zoo as one of institutional success and visionary leadership, it is also interesting and important to consider the ways ordinary Singaporeans have responded to this national institution and its animals. Although there have been other local animal attractions in Singapore at the time, like the Jurong Bird Park and the Van Kleef Aquarium, the scale of emotional excitement, affection and pride residents have displayed for the zoo and its animals is remarkable in the history of the nation-state. 
 
