@@ -133,33 +133,34 @@ Despite the fact that Ah Meng the orangutan and Inuka the polar bear were not na
 
 [^10]: “Singapore Puts Up Its Elephant Tax,” _Singapore Free Press_, 15 June 1950, 5; Melody Zaccheus, “We Bought a Zoo: Singapore’s Small Havens for Wild Animals,” _Straits Times_, 3 June 2014, https://www.straitstimes.com/singapore/we-bought-a-zoo-singapores-small-havens-for-wild-animals; “A Forgotten Past – A Zoo at Punggol,” Remember Singapore, 19 March 2012, https://remembersingapore.org/2012/03/19/a-zoo-in-punggol/.
 
-[^11]: 
+[^11]:  “The Men Behind the Project,” _Straits Times_, 29 January 1973, 14. (From NewspaperSG)
 
-[^12]: 
+[^12]: “The Men Behind the Project.”
 
-[^13]: 
+[^13]: “Govt’s $5 Mil Firm to Set Up a Zoo,” _Straits Times_, 24 April 1971, 11. (From NewspaperSG)
 
-[^14]: 
+[^14]:  Manik de Silva, “Lyn de Alwis, Sri Lanka’s Mr Zoo,” 1 July 1996, _Himal SouthAsian_, https://www.himalmag.com/profile/lyn-de-alwis-sri-lankas-mr-zoo.
 
-[^15]: 
+[^15]: “Keeping the Water Clean for $1.7M,” _Straits Times_, 29 January 1973, 14; “SM: Zoo Pollution Was Main Worry,” _Straits Times_, 20 June 1993, 3. (From NewspaperSG); Sharp, _The First 21 Years_, 32.
 
-[^16]: 
+[^16]: “Govt’s $5 Mil Firm to Set Up a Zoo.”
 
-[^17]: 
+[^17]: P.M. Raman, “S’pore Zoological Gardens To Be Opened in Mid-June,” _Straits Times_, 30 April 1973, 24. (From NewspaperSG)
 
-[^18]: 
+[^18]: Chandran, “A Haven for Animal Lovers of S’pore.”
 
-[^19]: 
+[^19]: K.S. Sidhu, “Panther Hunt,” _Straits Times_, 8 March 1973, 1; R. Chandran and K.S. Sidhu, “Panther: Zoo to Hold Inquiry,” _Straits Times_, 11 March 1973, 1. (From NewspaperSG)
 
-[^20]: 
+[^20]:  Mohan, “Panther Escape: Official Resigns”; Mohan, “The Missing Panther: Secret’s Out”; “A Postmortem on Twiggy the Panther.”
 
-[^21]: 
+[^21]: Chandran and Sidhu, “Panther: Zoo to Hold Inquiry”; Bernard Doray, “Panther: Eight Hunters Join in Search,” _Straits Times_, 13 March 1973, 10. (From NewspaperSG)
 
-[^22]: 
+[^22]: K.S. Sidhu, “Panther Hunt,” _Straits Times_, 8 March 1973, 1. (From NewspaperSG)
 
-[^23]: 
+[^23]: K.S. Sidhu and Shen Swee Yong, “Escaped Panther: Workers Quizzed by Police,” _Straits Times_, 10 March 1973, 28. (From NewspaperSG); Sidhu, “Panther Hunt”; Chandran and Sidhu, “Panther: Zoo to Hold Inquiry.”
 
-[^24]: 
+[^24]: N.G. Kutty, Gerald Pereira and Jacob Daniel, “All-Night Vigil After Bid to Flush It Out Fails,” _Straits Times_, 31 January 1974, 1. (From NewspaperSG)
+
 
 [^25]: 
 
