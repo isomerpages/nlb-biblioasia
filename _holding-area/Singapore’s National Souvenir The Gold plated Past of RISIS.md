@@ -30,7 +30,17 @@ Enter Dr Lee Kum Tatt who had been appointed chairman of the Singapore Institute
 Lee thought that gold-plated orchids was the perfect choice for a souvenir as Singapore was already known for its orchids, not only routinely presenting them to guests but also exporting large shipments of them. There was a thriving Singapore Orchid Society; and the President of the South East Asia Orchid Society was usually a Singaporean. Singapore was also a leader in orchid hybridisation. For all these reasons, Lee felt that “\[t\]he gold orchid had all the attributes of a true souvenir. It used local material (orchids) and local technology or skill (hybridisation and metal-forming), as well as time-honoured gold.”[^11]
 
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/gold_plating_process.jpg" style="width: 80%;">
-<div style="background-color: white;">(Left) The process of gold-plating orchids developed at SISIR, 1975. <i>Image reproduced from Singapore Institute of Standards and Industrial Research, [SISIR Annual Report 1975/76](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308) (Singapore: The Institute, 1975), 30. (From National Library, Singapore, call no. RSING 354.5957093 SISIRA)</i> (Right) A RISIS orchid, 1980. <i>Singapore Tourist Promotion Board Collection, courtesy of National Archives of Singapore._</i></div>
+<div style="background-color: white;">(Left) The process of gold-plating orchids developed at SISIR, 1975. <i>Image reproduced from Singapore Institute of Standards and Industrial Research, <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308">SISIR Annual Report 1975/76</a> (Singapore: The Institute, 1975), 30. (From National Library, Singapore, call no. RSING 354.5957093 SISIRA)</i> (Right) A RISIS orchid, 1980. <i>Singapore Tourist Promotion Board Collection, courtesy of National Archives of Singapore._</i></div>
+
+However, coming up with the idea was one thing, turning it into reality was another. “We were basically trying to create an instant Singapore souvenir in the same way we plant instant trees, or make instant coffee,” Lee explained. “It certainly did not look promising.”[^12] Trained as a chemist, Lee’s early experiments were conducted at home with makeshift plastic equipment. The need for more systematic research led him to use $25,000 from SISIR’s reserve fund for official investigation using its facilities. Fittingly, once perfected, Lee gave one of the first orchids to his wife.[^13] Another early creation was given to Singapore’s then First Lady Yeo Seh Geok (wife of President Benjamin Sheares) in 1975.[^14] The name for this gold-plated flower simply a reversal of “SISIR” – the institution behind it – and thus RISIS was born.
+
+<img src="/images/Online%20Only%20Articles/RISIS%20Singapore/RISIS_Orchid_model.jpg" style="width: 80%;">
+<div style="background-color: white;">RISIS gold-plated orchids and publicity material on display. <i>Image reproduced from Singapore Institute of Standards and Industrial Research, <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308">SISIR Annual Report 1975/76</a> (Singapore: The Institute, 1975), 21. (From National Library, Singapore, call no. RSING 354.5957093 SISIRA)</i></div>
+
+  
+
+
+
 
   
 
@@ -61,3 +71,9 @@ Lee thought that gold-plated orchids was the perfect choice for a souvenir as Si
 [^10]:  Yang Mei Ling, “[Dr Lee Is a Many-talented ‘Radical’](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19890526-1.2.41.2),” _Straits Times_, 26 May 1989, 29; Heidi Yeo, “[Chemistry, Orchids, and Canada Did the Trick](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19940401-1.2.72.10.3),” _Straits Times_, 1 April 1994, 10. (From NewspaperSG)
 
 [^11]:  Lee Kum Tatt, _[A Fabulous Journey](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14651733)_ (Singapore: The Word Press, 2012), 155–57. (From PublicationSG)
+
+[^12]:  Lee, _[A Fabulous Journey](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14651733)_, 155.
+
+[^13]:  “[Risis Orchid Creator Dies of Heart Attack](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20080607-1.2.63.29),” _Straits Times_, 7 June 2008, 72. (From NewspaperSG)
+
+[^14]:  Lee, _[A Fabulous Journey](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14651733)_, 157–58.
