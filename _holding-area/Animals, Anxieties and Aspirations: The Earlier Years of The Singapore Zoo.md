@@ -135,6 +135,9 @@ In 2022, the 10-year loan for Jia Jia and Kai Kai was extended for another five 
 
 The early 2000s would also be a time of loss for the zoo though. On 8 February 2008, Ah Meng the orangutan died at the age of 48. News of her death elicited widespread expressions of grief from many Singaporeans. Her memorial service at the zoo, the first time such an honour had been accorded to any animal in Singapore, was attended by over 4,000 well-wishers.[^49]
 
+![](/images/Vol%2020%20Issue%203/Zoo/zoo_img3.jpg)
+<div style="background-color: white;">The late Ah Meng the orangutan was the star of the show at every photography session. <i>Image reproduced from Ilsa Sharp, The First 21 Years: The Singapore Zoological Gardens Story (Singapore: Singapore Zoological Gardens, 1994), 70. (From National Library, Singapore, call no. RSING q590.7445957 SHA-[LKY]).</i></div>
+
 A similar outpouring of public sorrow was again seen when 27-year-old Inuka was put down on 25 April 2018 due to his deteriorating health. Hundreds of visitors attended the bear’s memorial service, and many Singaporeans shared their feelings online in the form of photographs, blogposts, Facebook posts and visual art.[^50] His death attracted reactions even from Prime Minister Lee Hsien Loong. “Born and raised here,” Lee wrote on his Facebook, “he was as Singaporean as any of us.”[^51]
 
 #### **A Space of Many Possibilities**
