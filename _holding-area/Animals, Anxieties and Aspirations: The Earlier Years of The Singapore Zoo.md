@@ -158,7 +158,7 @@ Despite the fact that Ah Meng the orangutan and Inuka the polar bear were not na
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Authors/JoannaTan.png" style="width: 100px; height: 100px;">
+<img src="/images/Authors/ChooRuizhi.png" style="width: 100px; height: 100px;">
 	<b>Choo Ruizhi</b> is a Graduate Degree Fellow with the East-West Center, Honolulu, and concurrently a PhD student at the Department of History, University of Hawaii at Manoa. He is interested in histories of science, technology and animals in Southeast Asia. His Ahkong and Ahma used to run a medicine shop in Pek Kio, Farrer Park.</div>
 
 
@@ -195,7 +195,7 @@ Despite the fact that Ah Meng the orangutan and Inuka the polar bear were not na
 
 [^16]: “[Govt’s $5 Mil Firm to Set Up a Zoo](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19710424-1.2.68).”
 
-[^17]: P.M. Raman, “[S’pore Zoological Gardens To Be Opened in Mid-June]()https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730430-1.2.94,” _Straits Times_, 30 April 1973, 24. (From NewspaperSG)
+[^17]: P.M. Raman, “[S’pore Zoological Gardens To Be Opened in Mid-June](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730430-1.2.94),” _Straits Times_, 30 April 1973, 24. (From NewspaperSG)
 
 [^18]: Chandran, “[A Haven for Animal Lovers of S’pore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730628-1.2.80).”
 
