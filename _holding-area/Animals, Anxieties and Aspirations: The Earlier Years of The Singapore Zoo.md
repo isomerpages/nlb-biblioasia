@@ -113,25 +113,25 @@ Despite the fact that Ah Meng the orangutan and Inuka the polar bear were not na
 
 
 #### **Notes**
-[^1]: 
+[^1]: “Dr. Goh Keng Swee Deputy Prime Minister and Minister of Defence to Officiate at Today’s Opening Ceremony,” _Straits Times_, 27 June 1973, 19; R. Chandran, “A Haven for Animal Lovers of S’pore,” _Straits Times_, 28 June 1973, 15. (From NewspaperSG)
 
-[^2]: 
+[^2]: “Feeding Animals at Zoo Strictly Forbidden: Dr Ong,” _Straits Times_, 16 June 1973, 16. (From NewspaperSG); Ilsa Sharp, _The First 21 Years: The Singapore Zoological Gardens Story_ (Singapore: Singapore Zoological Gardens, 1994), 29. (From National Library, Singapore, call no. RSING q590.7445957 SHA-\[LKY\])
 
-[^3]: 
+[^3]: “‘Whampoa’ Was the First of Singapore’s Towkays,” _Straits Times_, 13 March 1954, 9. (From NewspaperSG)
 
-[^4]: 
+[^4]: H.N. Ridley, “The Menagerie at the Botanic Gardens,” _Journal of the Straits Branch of the Royal Asiatic Society 46_ (December 1906): 133–94. (From JSTOR via NLB’s eResources website)
 
-[^5]: 
+[^5]: Timothy P. Barnard, Nature’s Colony: Empire, _Nation and Environment in the Singapore Botanic Gardens_ (Singapore: NUS Press, 2016), 110. (From NLB OverDrive)
 
-[^6]: 
+[^6]: “S’pore Zoo Starts from Scratch,” _Straits Times_, 20 October 1946, 5. (From NewspaperSG)
 
-[^7]: 
+[^7]: Melody Zaccheus, “We Bought a Zoo: Singapore’s Small Havens for Wild Animals,” _Straits Times_, 3 June 2014, https://www.straitstimes.com/singapore/we-bought-a-zoo-singapores-small-havens-for-wild-animals.
 
-[^8]: 
+[^8]:  “A New Colony Zoo,” _Singapore Free Press_, 11 January 1957, 2. (From NewspaperSG)
 
-[^9]: 
+[^9]:  “Snarls in City Council Over Zoo Plan,” _Straits Times_, 20 March 1958, 4. (From NewspaperSG)
 
-[^10]: 
+[^10]: “Singapore Puts Up Its Elephant Tax,” _Singapore Free Press_, 15 June 1950, 5; Melody Zaccheus, “We Bought a Zoo: Singapore’s Small Havens for Wild Animals,” _Straits Times_, 3 June 2014, https://www.straitstimes.com/singapore/we-bought-a-zoo-singapores-small-havens-for-wild-animals; “A Forgotten Past – A Zoo at Punggol,” Remember Singapore, 19 March 2012, https://remembersingapore.org/2012/03/19/a-zoo-in-punggol/.
 
 [^11]: 
 
