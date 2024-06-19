@@ -39,12 +39,15 @@ However, coming up with the idea was one thing, turning it into reality was anot
 
 Days before the official launch of RISIS in April 1976, SISIR created a subsidiary, Setsco Pte Ltd, to handle full-scale commercial production of the gold-plated flowers. Setsco subsequently created RISIS Pte Ltd, a subsidiary dedicated to handling its gold-plated products. The RISIS orchid was available at nearly 70 stores around the island when it was launched.[^15]
 
-<img src="/images/Online%20Only%20Articles/RISIS%20Singapore/straitstimes_19760812.jpg" style="width: 60%;">
+<img src="/images/Online%20Only%20Articles/RISIS%20Singapore/straitstimes_19760812.jpg" style="width: 55%;">
 <div style="background-color: white;">The RISIS orchid was marketed as a perfect gift for any occasion. <i>Image reproduced from “Page 25 Advertisements Column 1,” Straits Times, 12 August 1976, 25. (From NewspaperSG)</i></div><br>
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/risis_orchids.jpg" style="width: 80%;">
 <div style="background-color: white;">RISIS orchids were manufactured into tie and lapel pins and cufflinks for men (left) as well as jewelry for women (right). <i>Images reproduced from “Page 5 Advertisements Column 1”, New Nation, 9 June 1977, 5. (From NewspaperSG) and “Page 8 Advertisements Column 1,” Straits Times, 13 November 1976. 8. (From NewspaperSG)</i></div>
 
 The orchid was advertised in newspapers as a suitable gift for everyone and for every festive occasion.[^16] This strategy struck gold: all 3,000 orchids were sold out within days, despite each customer being limited to only one piece.[^17] On 3 May, Setsco published an advertisement apologising for their entire stock being sold out due to “overwhelming public response” – an apology which also conveniently doubled as great publicity.[^18] By the end of its first year, 100,000 RISIS orchids had been sold, accounting for nearly $2 million in sales.[^19]
+
+<img src="/images/Online%20Only%20Articles/RISIS%20Singapore/straitstimes_19760503.jpg" style="width: 55%;">
+<div style="background-color: white;">Setsco published an apology in the papers in 1976 for having run out of its orchids. <i>Image reproduced from “Page 19 Advertisements Column 3,” Straits Times, 3 May 1976, 19. (From NewspaperSG)</i></div>
 
   
 
