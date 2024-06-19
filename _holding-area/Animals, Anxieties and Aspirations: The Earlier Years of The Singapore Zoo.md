@@ -63,6 +63,10 @@ The next day, a three-year-old panther, the “youngest and smallest” of the z
 
 Twiggy’s escape triggered a massive search effort. In addition to policemen, zoo staff and experienced hunters, three Reserve Unit troops totalling about 150 men were sent into the rainforests of Mandai, Seletar and Sembawang with a “shoot-to-kill” order. These personnel continued the search even amid heavy rain and darkness.[^21] Although armed patrols failed to locate the panther, a search party “spotted movement” in the thick vegetation surrounding the zoo shortly before noon on 7 March and shot dead the remaining fugitive sun bear.[^22]
 
+![](/images/Vol%2020%20Issue%202/Cable%20Cars/cablecars_img5.jpg)
+<div style="background-color: white;">A sloth at the Fragile Forest in the Singapore Zoo. The biodome mimics a tropical rainforest habitat. <i>Courtesy of Mandai Wildlife Group.</i></div>
+
+
 Reports of the runaway panther provoked widespread fear and excitement among Singaporeans. "We are worried about the children and are taking all precautions,” said Tan Thow Lar, a farmer. Nightlife in the nearby Sembawang Hills Estate slowed to a standstill as shops and households locked themselves in. Police warned students to keep away from the Seletar and Peirce reservoirs, while nearby schools shortened their teaching hours.[^23]
 
 ![](/images/Vol%2020%20Issue%202/Cable%20Cars/cablecars_img5.jpg)
