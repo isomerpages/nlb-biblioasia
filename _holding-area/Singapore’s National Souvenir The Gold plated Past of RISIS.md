@@ -75,32 +75,10 @@ Just as deploying the RISIS orchids enhanced Singapore’s standing, the associa
 
 Orchids were also used to promote tourism. When Singapore received its two millionth tourist in December 1978, the country went all-out to mark the event. The lucky visitor was Iris Harris, an English Health Officer who had flown in from London. After clearing customs, Harris and her husband were whisked onto a stage decorated with RISIS orchids worth $40,000. They were then driven by limousine to the Presidential suite at the Singapore Hilton for their stay, received a $3,000 shopping voucher, and then treated to a $7,500 Emperor’s Banquet, comprising 48 courses at the Cockpit Hotel. Finally, an orchid was named after Harris and she was gifted a diamond-studded, gold-plated version of that same orchid.[^36]
 
-  
-
-* * *
-
-
+<img src="/images/Online%20Only%20Articles/RISIS%20Singapore/Sing_Travel.jpg" style="width: 60%;">
+<div style="background-color: white;">Singapore’s &nbsp;second-millionth tourist Iris Harris being interviewed in front of a stage decorated with $40,000 worth of RISIS flowers. <i>Image reproduced from <a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=8939fd5f-759f-4d34-84c1-ab6cb86799a1">Singapore Travel: Official Publication of the Singapore Tourist Promotion Board, Feb 1979</a> (Singapore: Singapore National Printers, 1979). (From National Library Online)</i></div>
 
   
-
-* * *
-
-
-
-
-
-  
-
-
-
-
-  
-
-
-
-
-
-
   
 
 
