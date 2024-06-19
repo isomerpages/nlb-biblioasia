@@ -8,6 +8,11 @@ description: The zoo was able to overcome major setbacks in its formative years
 #### The zoo was able to overcome major setbacks in its formative years to become the well-loved tourist attraction it is today.
 By Choo Ruizhi
 
+
+![](/images/Vol%2020%20Issue%202/Cable%20Cars/cablecars_img5.jpg)
+<div style="background-color: white;">A Javan langur cuddling her baby at the Primate Kingdom in the Singapore Zoo. <i>Courtesy of Mandai Wildlife Group.</i></div>
+
+
 It was a little after 5 pm on 27 June 1973 when Deputy Prime Minister Goh Keng Swee was invited to shake hands with an orangutan.[^1] The primate was Susie, and the occasion was the official opening of the Singapore Zoological Gardens (known as the Singapore Zoo today). In his opening speech, Goh declared that the zoo was the latest “welcome addition to the amenities available to residents of Singapore”, a new recreational space for stressed, urbanised Singaporeans to relax. Spread over 28 hectares of land, the zoo featured about 270 animals from around 72 different species, many displayed in naturalistic enclosures.[^2]
 
 The idea of a zoo was conceived as early as 1967, just two years after Singapore’s independence. Amid significant sociopolitical and economic challenges, why did the leaders of this new nation dedicate significant financial, intellectual and material resources to the creation of a zoo when there were other more pressing matters of national development at hand? To better understand the origins of the Singapore Zoo, and why Goh found himself shaking hands with an orangutan on a Wednesday evening in 1973, we need to look back at Singapore’s early fascination for collecting, exhibiting and visiting exotic animal displays.&nbsp;
@@ -86,9 +91,14 @@ The restructuring led to the departure of key staff like Bernard Harrison in 200
 
 On 28 February 2014, the 12-hectare River Safari (now River Wonders) officially opened. It was Asia’s first and only river-themed wildlife park. Built at a cost of $160 million, River Safari also housed the world’s largest freshwater aquarium, and was home to 6,000 animals from 200 species. Inspired by the seasonally flooded forests of the Amazon River, the riverine park sought to showcase animals from many of the world’s rivers, and to promote a greater appreciation for freshwater habitat conservation among visitors.[^44]
 
+
 The park featured animals from diverse riverine habitats like the Amazon, Yangtze, Ganges, Nile and Mekong rivers. In addition to charismatic mammals such as Brazilian tapirs, South American jaguars and manatees, its freshwater exhibits also showcased exotic fishes like the Mekong giant catfish, the electric eel and the giant freshwater stingray. Attesting to the consistent and growing popularity of these animals, the River Safari hosted over a million visitors in its opening year, exceeding the number of guests the zoo and Night Safari had welcomed in their inaugural years.[^45]
 
 Attracting the most attention and excitement from visitors, however, were the River Safari’s giant pandas from China. On an initial 10-year loan from China, giant pandas Kai Kai and Jia Jia were specially flown in from Chengdu, China, and then transported by an air-conditioned truck to the Singapore Zoo when they first arrived in 2012.[^46] Notoriously difficult to breed, the pair formed the focus of numerous unsuccessful breeding efforts in subsequent years. These endeavours finally paid off when Jia Jia conceived via artificial insemination and gave birth to a male baby panda named Le Le on 14 August 2021, who became an instant hit with visitors.[^47]
+
+![](/images/Vol%2020%20Issue%202/Cable%20Cars/cablecars_img5.jpg)
+<div style="background-color: white;">The red panda at the Pavilion Capital Giant Panda Forest in River Wonders. Like the giant panda, the red panda has an extra digit on each paw that works as a “thumb” to grasp bamboo. <i>Courtesy of Mandai Wildlife Group.</i></div>
+
 
 In 2022, the 10-year loan for Jia Jia and Kai Kai was extended for another five years until 2027, under an agreement signed by the China Wildlife Conservation Association and Mandai Wildlife Group. After Le Le turned two in August 2023, he was returned to China’s panda conservation programme in December that year.[^48]
 
