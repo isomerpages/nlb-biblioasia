@@ -43,7 +43,7 @@ Although many of these private zoos did not survive for long due to high financi
 
 In 1967, the Public Utilities Board (PUB) began to explore ways to better utilise the water bodies under its management for recreational purposes. Several thousand acres of land in the Seletar, Peirce and MacRitchie catchments were still closed off to the public. “One of the things considered was a zoo,” recalled PUB chairman Ong Swee Law.[^11]
 
-![](/images/Vol%2020%20Issue%202/Cable%20Cars/cablecars_img5.jpg)
+![](/images/Vol%2020%20Issue%203/Zoo/zoo_img4.jpg)
 <div style="background-color: white;">Public Utilities Board chairman Ong Swee Law (centre) visiting the Longleat Zoological Park in England, 1969. <i>Image reproduced from Ilsa Sharp, The First 21 Years: The Singapore Zoological Gardens Story (Singapore: Singapore Zoological Gardens, 1994), 7. (From National Library, Singapore, call no. RSING q590.7445957 SHA-[LKY]).</i></div>
 
 
