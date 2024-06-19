@@ -115,24 +115,8 @@ From the mid-80s, RISIS started emphasising Chinese culture in both the items so
 
 Lee’s final animal was a gold-plated origami paper crane, which was inspired by a paper crane folding initiative by the residents of Bukit Gombak (he was chairman of the Bukit Gombak Citizen’s Consultative Committee) and his granddaughter (who’d wanted a paper crane that would last). It was made of pewter and then plated with gold. With a $97,000 grant from the Trade Development Board (TDB), he created six versions of these (after his retirement in 1990), which then went on sale at TDB’s Design Centre in 1993.[^50]
   
-
-* * *
-
-
-
-* * *
-
-
-
-
-
-  
-
-
-
-
-
-  
+<img src="/images/Online%20Only%20Articles/RISIS%20Singapore/straitstimes_19930228.jpg" style="width: 75%;">
+<div style="background-color: white;">Lee with his granddaughters. The idea for the metal origami crane came to him when his granddaughter asked him for a crane that would last. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i></div>
 
 
 
