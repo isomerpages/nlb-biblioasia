@@ -61,6 +61,9 @@ Twiggy’s escape triggered a massive search effort. In addition to policemen, z
 
 Reports of the runaway panther provoked widespread fear and excitement among Singaporeans. "We are worried about the children and are taking all precautions,” said Tan Thow Lar, a farmer. Nightlife in the nearby Sembawang Hills Estate slowed to a standstill as shops and households locked themselves in. Police warned students to keep away from the Seletar and Peirce reservoirs, while nearby schools shortened their teaching hours.[^23]
 
+![](/images/Vol%2020%20Issue%202/Cable%20Cars/cablecars_img5.jpg)
+<div style="background-color: white;">Twiggy the panther slipped out of its cage on 6 March 1973 and sparked a massive hunt that lasted 11 months. <i>Source: The Straits Times, 8 March 1973 © SPH Media Limited. Permission required for reproduction.</i></div>
+
 The hunt for Twiggy reached its finale nearly 11 months later, when a clerk with the Singapore Turf Club spotted a strange animal entering a monsoon drain in the area on 30 January 1974. Policemen, Reserve Unit troopers, firemen and zoo staff rushed to the scene, bringing with them “tranquiliser guns, traps and special cages”. Petrol was poured into the drain and set ablaze with flare guns. Despite efforts to smoke out the panther, the animal did not budge.[^24] Two days later, the authorities flooded the underground drain while policemen stood ready with submachine guns. Soon after, a feline carcass floated out of the drain.[^25]
 
 Many citizens responded with outrage and grief for the “panther that harmed no one”.[^26] Others expressed their disgust at the “callous’ and “ghastly way” in which a “young, probably sickly panther” had to be killed and likely “suffered a very painful death”.[^27]
