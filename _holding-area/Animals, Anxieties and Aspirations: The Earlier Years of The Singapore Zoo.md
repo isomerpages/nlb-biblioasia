@@ -127,11 +127,11 @@ Despite the fact that Ah Meng the orangutan and Inuka the polar bear were not na
 
 [^7]: Melody Zaccheus, “We Bought a Zoo: Singapore’s Small Havens for Wild Animals,” _Straits Times_, 3 June 2014, https://www.straitstimes.com/singapore/we-bought-a-zoo-singapores-small-havens-for-wild-animals.
 
-[^8]:  “A New Colony Zoo,” _Singapore Free Press_, 11 January 1957, 2. (From NewspaperSG)
+[^8]:  “[A New Colony Zoo](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19570111-1.2.12?),” _Singapore Free Press_, 11 January 1957, 2. (From NewspaperSG)
 
-[^9]:  “Snarls in City Council Over Zoo Plan,” _Straits Times_, 20 March 1958, 4. (From NewspaperSG)
+[^9]:  “[Snarls in City Council Over Zoo Plan](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19580320-1.2.60?),” _Straits Times_, 20 March 1958, 4. (From NewspaperSG)
 
-[^10]: “Singapore Puts Up Its Elephant Tax,” _Singapore Free Press_, 15 June 1950, 5; Melody Zaccheus, “We Bought a Zoo: Singapore’s Small Havens for Wild Animals,” _Straits Times_, 3 June 2014, https://www.straitstimes.com/singapore/we-bought-a-zoo-singapores-small-havens-for-wild-animals; “A Forgotten Past – A Zoo at Punggol,” Remember Singapore, 19 March 2012, https://remembersingapore.org/2012/03/19/a-zoo-in-punggol/.
+[^10]: “[Singapore Puts Up Its Elephant Tax](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19500615-1.2.84),” _Singapore Free Press_, 15 June 1950, 5; Melody Zaccheus, “We Bought a Zoo: Singapore’s Small Havens for Wild Animals,” _Straits Times_, 3 June 2014, https://www.straitstimes.com/singapore/we-bought-a-zoo-singapores-small-havens-for-wild-animals; “A Forgotten Past – A Zoo at Punggol,” Remember Singapore, 19 March 2012, https://remembersingapore.org/2012/03/19/a-zoo-in-punggol/.
 
 [^11]:  “The Men Behind the Project,” _Straits Times_, 29 January 1973, 14. (From NewspaperSG)
 
