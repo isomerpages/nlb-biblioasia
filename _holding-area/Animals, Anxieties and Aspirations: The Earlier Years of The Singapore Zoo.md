@@ -31,7 +31,7 @@ In 1881, citing financial constraints, the colonial government withdrew all fina
 
 In 1928, the animal trader William Lawrence Soma Basapa established Punggol Zoo at 10 Mile Punggol Road. His collections featured Malayan tigers, Australian cassowaries and African lions. In early 1942, however, as the Japanese invasion of Singapore loomed, British authorities ordered the zoo’s dangerous animals killed and the harmless ones released into the wild.[^6]
 
-![](/images/Vol%2020%20Issue%202/Cable%20Cars/cablecars_img5.jpg)
+![](/images/Vol%2020%20Issue%203/Zoo/zoo_img13.jpg)
 <div style="background-color: white;">Animal trader William Lawrence Soma Basapa established Punggol Zoo at 10 Mile Punggol Road. He is seen here with his favourite pet Bengal tiger, Apay. <i>Courtesy of the Basapa Family.</i></div>
 
 
