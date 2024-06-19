@@ -117,11 +117,11 @@ Despite the fact that Ah Meng the orangutan and Inuka the polar bear were not na
 
 [^2]: “[Feeding Animals at Zoo Strictly Forbidden: Dr Ong](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730616-1.2.129),” _Straits Times_, 16 June 1973, 16. (From NewspaperSG); Ilsa Sharp, [_The First 21 Years: The Singapore Zoological Gardens Story_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7059289) (Singapore: Singapore Zoological Gardens, 1994), 29. (From National Library, Singapore, call no. RSING q590.7445957 SHA-\[LKY\])
 
-[^3]: “‘Whampoa’ Was the First of Singapore’s Towkays,” _Straits Times_, 13 March 1954, 9. (From NewspaperSG)
+[^3]: “‘[Whampoa’ Was the First of Singapore’s Towkays](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19540313-1.2.162),” _Straits Times_, 13 March 1954, 9. (From NewspaperSG)
 
-[^4]: H.N. Ridley, “The Menagerie at the Botanic Gardens,” _Journal of the Straits Branch of the Royal Asiatic Society 46_ (December 1906): 133–94. (From JSTOR via NLB’s eResources website)
+[^4]: H.N. Ridley, “The Menagerie at the Botanic Gardens,” _Journal of the Straits Branch of the Royal Asiatic Society 46_ (December 1906): 133–94. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-[^5]: Timothy P. Barnard, Nature’s Colony: Empire, _Nation and Environment in the Singapore Botanic Gardens_ (Singapore: NUS Press, 2016), 110. (From NLB OverDrive)
+[^5]: Timothy P. Barnard, [Nature’s Colony: Empire, _Nation and Environment in the Singapore Botanic Gardens_](https://nlb.overdrive.com/media/6452A8DB-30F9-419F-AD6A-E72ADD17C242) (Singapore: NUS Press, 2016), 110. (From NLB OverDrive)
 
 [^6]: “S’pore Zoo Starts from Scratch,” _Straits Times_, 20 October 1946, 5. (From NewspaperSG)
 
