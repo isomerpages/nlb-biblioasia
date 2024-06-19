@@ -178,15 +178,20 @@ Despite the fact that Ah Meng the orangutan and Inuka the polar bear were not na
 [^30]: “Zoo Will Get Its Millionth Visitor in October,” _New Nation_, 28 June 1974, 2. (From NewspaperSG)
 
 
-[^31]: 
+[^31]: “De Alwis – Man Who Planned the Mandai Zoo.”
 
-[^32]: 
 
-[^33]: 
+[^32]: For comparison, zoo directors typically attain their posts at around the age of 50. Bernard Ming-Deh Harrison, oral history interview by Jason Lim, 6 March 2008, transcript and MP3 audio, Reel/Disc 4 of 5, 64–84, National Archives of Singapore (accession no. 003217); “Gift of White Rhinos Raises Zoo’s Hope,” _Straits Times_, 27 October 1981, 9. (From NewspaperSG)&nbsp;
 
-[^34]: 
 
-[^35]: 
+[^33]: Sandra Davie, “Million-Dollar Monkeys,” _Straits Times_, 22 April 1987, 24; “Rare White Tigers to Go on Show at Zoo,” _Straits Times_, 15 April 1988, 16. (From NewspaperSG); Harrison, oral history interview, 6 March 2008, Reel/Disc 4 of 5, 64–84.&nbsp;
+
+
+[^34]: Bernard Ming-Deh Harrison, oral history interview by Jason Lim, 6 March 2008, transcript and MP3 audio, Reel/Disc 3 of 5, 49–51, National Archives of Singapore (accession no. 003217).
+
+
+[^35]: K.C. Vijayan, “Ah Meng Dies,” _Straits Times_, 9 February 2008, https://www.straitstimes.com/singapore/ah-meng-dies.
+
 
 [^36]: 
 
