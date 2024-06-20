@@ -223,7 +223,7 @@ While RISIS&nbsp;continues to sell its signature gold-plated items today,&nbsp;i
 
 [^46]:  Lee, _[A Fabulous Journey](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14651733)_, 95; “[The Risis Golden Horse Is Crafted as a Tribute to Civilisation](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19900114-1.2.48.56.5),” _Straits Times_, 14 January 1990, 56. (From NewspaperSG)
 
-[^47]:  “[Cash Carriers and Stress Relievers](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19851212-1.2.59.2),” _Business Times_, 12 December 1985, 28; _“_[Page 7 Advertisements Column 1](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19851108-1.2.89.14.1),_” Straits Times,_ 8 November 1985, 7. (From NewspaperSG)
+[^47]:  “[Cash Carriers and Stress Relievers](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19851212-1.2.59.2),” _Business Times_, 12 December 1985, 28; _“_[Page 7 Advertisements Column 1](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19851108-1.2.89.14.1)_” Straits Times,_ 8 November 1985, 7. (From NewspaperSG)
 
 [^48]:  “[Page 5 Advertisements Column 1](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19881230-1.2.18.1),” _Business Times_, 30 December 1988, 5. (From NewspaperSG)
 
