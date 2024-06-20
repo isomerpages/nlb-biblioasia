@@ -7,7 +7,7 @@ description: ""
 #### **Much more than a tourist souvenir, Singapore’s gold-plated RISIS orchids were a triumph of grit and branding.**
 By Sharad Pandian
 
-In December 1982, Diana, Princess of Wales attended the glitzy London premier of Richard Attenborough’s film _Gandhi_. To mark the occasion, Singapore gifted her with its signature product – orchids. Specifically, she was sent 5,000 orchid stems and a brooch with a gold-plated orchid.[^1] This gold-plated trinket was the RISIS (rhymes with “crisis”) orchid that was wildly popular in the 1970s and 80s, to the extent that it had a serious claim to being Singapore’s national souvenir.
+In December 1982, Diana, Princess of Wales attended the glitzy London premiere of Richard Attenborough’s film _Gandhi_. To mark the occasion, Singapore gifted her with its signature product – orchids. Specifically, she was sent 5,000 orchid stems and a brooch with a gold-plated orchid.[^1] This gold-plated trinket was the RISIS (rhymes with “crisis”) orchid that was wildly popular in the 1970s and 80s, to the extent that it had a serious claim to being Singapore’s national souvenir.
 
 #### **An Identity for Singapore**
 
