@@ -21,7 +21,7 @@ sections:
       title: Readership Survey
       subtitle: Have your say
       id: infopic
-      description: Help us improve BiblioAsia. Take part in our readership survey!
+      description: Help us improve BiblioAsia.  Take part in our readership survey!
       button: Count Me In
       url: https://go.gov.sg/web-survey
       image: /images/edm_strip_survey_homepage.jpg
