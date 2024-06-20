@@ -145,9 +145,9 @@ While RISIS&nbsp;continues to sell its signature gold-plated items today,&nbsp;i
 
 [^7]:  Singapore Tourism Seminar, _[Proceedings](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203861325)_, 75.
 
-[^8]:  Lawrence Basapa, “[Singapore’s ‘Image Souvenir’ is Yet to be Carved, But the Makers are Ready](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19701026-1.2.49),” _Straits Times_, 26 October 1970, 12. (From NewspaperSG)
+[^8]:  Lawrence Basapa, “[Singapore’s ‘Image Souvenir’ Is Yet to be Carved, But the Makers Are Ready](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19701026-1.2.49),” _Straits Times_, 26 October 1970, 12. (From NewspaperSG)
 
-[^9]:  “[Singapore’s ‘Image Souvenir’ is Yet to be Carved, But the Makers are Ready](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19701026-1.2.49).”
+[^9]:  “[Singapore’s ‘Image Souvenir’ Is Yet to be Carved, But the Makers Are Ready](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19701026-1.2.49).”
 
 [^10]:  Yang Mei Ling, “[Dr Lee Is a Many-talented ‘Radical’](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19890526-1.2.41.2),” _Straits Times_, 26 May 1989, 29; Heidi Yeo, “[Chemistry, Orchids, and Canada Did the Trick](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19940401-1.2.72.10.3),” _Straits Times_, 1 April 1994, 10. (From NewspaperSG)
 
@@ -187,9 +187,9 @@ While RISIS&nbsp;continues to sell its signature gold-plated items today,&nbsp;i
 
 [^28]:  Nancy Chng, “[Look No Further for Our National Symbol](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19800809-1.2.118.22.7),” _Straits Times_, 9 August 1980, 8. (From NewspaperSG)
 
-[^29]:  Rebecca Tan, “[Flower Power: Singapore’s Orchid Diplomacy](https://biblioasia.nlb.gov.sg/vol-18/issue-1/apr-to-jun-2022/singapore-orchid-diplomacy/),” _BiblioAsia_, 18, no. 1 (Apr-Jun 2022); Ang Seow Leng, “[More than Just a Flower: The Orchid’s Manifold Faces](https://biblioasia.nlb.gov.sg/vol-7/issue-3/oct-dec-2011/orchid-flower-manifold-face/),” _BiblioAsia_, 7, no. 3 (Oct–Dec 2011).
+[^29]:  Rebecca Tan, “[Flower Power: Singapore’s Orchid Diplomacy](https://biblioasia.nlb.gov.sg/vol-18/issue-1/apr-to-jun-2022/singapore-orchid-diplomacy/),” _BiblioAsia_, 18, no. 1 (Apr–Jun 2022); Ang Seow Leng, “[More than Just a Flower: The Orchid’s Manifold Faces](https://biblioasia.nlb.gov.sg/vol-7/issue-3/oct-dec-2011/orchid-flower-manifold-face/),” _BiblioAsia_, 7, no. 3 (Oct–Dec 2011).
 
-[^30]:  E Jofel, [T_he RISIS Orchid_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4080144) (Singapore: Times Books International, 1984), 21. (From National Library, Singapore, call no. RSING 739.27095957 JOF)
+[^30]:  E Jofel, [<i>The RISIS Orchid</i>](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4080144) (Singapore: Times Books International, 1984), 21. (From National Library, Singapore, call no. RSING 739.27095957 JOF)
 
 [^31]:  P.M. Raman, “[Big Welcome for Queen Elizabeth](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19720218-1.2.142.1),” _Straits Times_, 18 February 1972, 25; “[A Saffron Spray Gets the Royal Vote](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19720221-1.2.8.8),” _Straits Times_, 21 February 1972, 5. (From NewspaperSG)
 
@@ -201,11 +201,11 @@ While RISIS&nbsp;continues to sell its signature gold-plated items today,&nbsp;i
 
 [^35]:  “[Risis Sparkles With a Jewelled Collection](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19860516-1.2.10.14),” _Business Times_, 16 May 1986, 3. (From NewspaperSG)
 
-[^36]:  Singapore Institute of Standards and Industrial Research, [Annual Report 1978/79](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308) (Singapore: The Institute), 7 (From National Library, Singapore, call no. RSING 354.5957093 SISIRA-\[AR\]); “[The 2 Millionth Visitor](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19781223-1.2.5),” _Straits Times_, 23 December 1978, 1; “[S’pore Crosses the Two Millionth Visitor Mark](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19781223-1.2.137.24.1),” _Straits Times_, 23 December 1978, 9; “[She Dines Like an Empress](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19781224-1.2.6),” _New Nation_, 24 December 1978, 2. (From NewspaperSG)
+[^36]:  Singapore Institute of Standards and Industrial Research, [<i>Annual Report 1978/79</i>](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308) (Singapore: The Institute), 7 (From National Library, Singapore, call no. RSING 354.5957093 SISIRA-\[AR\]); “[The 2 Millionth Visitor](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19781223-1.2.5),” _Straits Times_, 23 December 1978, 1; “[S’pore Crosses the Two Millionth Visitor Mark](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19781223-1.2.137.24.1),” _Straits Times_, 23 December 1978, 9; “[She Dines Like an Empress](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19781224-1.2.6),” _New Nation_, 24 December 1978, 2. (From NewspaperSG)
 
 [^37]:  Singapore Institute of Standards and Industrial Research, _[Annual Report 1979/80](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308)_ (Singapore: The Institute), 38. (From National Library, Singapore, call no. RSING 354.5957093 SISIRA-\[AR\])
 
-[^38]:  Singapore Institute of Standards and Industrial Research, [Annual Report 1980/81](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308) (Singapore: The Institute), 33. (From National Library, Singapore, call no. RSING 354.5957093 SISIRA-\[AR\])
+[^38]:  Singapore Institute of Standards and Industrial Research, [<i>Annual Report 1980/81</i>](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308) (Singapore: The Institute), 33. (From National Library, Singapore, call no. RSING 354.5957093 SISIRA-\[AR\])
 
 [^39]:  “[Page 40 Advertisements Column 1](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19840128-1.2.65.1),” _Straits Times_, 28 January 1984, 40. (From NewspaperSG)
 
@@ -217,11 +217,11 @@ While RISIS&nbsp;continues to sell its signature gold-plated items today,&nbsp;i
 
 [^43]:  Gillian Pow Chong, “[When a Golden Egg Stinks](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19850120-1.2.2),” _Straits Times_, 20 January 1985, 1. (From NewspaperSG)
 
-[^44]:  “[How to Tell If That Golden Egg is Real](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19850123-1.2.24.4),” _Straits Times_, 23 January 1985, 9. (From NewspaperSG)
+[^44]:  “[How to Tell If That Golden Egg Is Real](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19850123-1.2.24.4),” _Straits Times_, 23 January 1985, 9. (From NewspaperSG)
 
-[^45]:  Singapore Institute of Standards and Industrial Research, _[Annual Report 198](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308)_5/86 (Singapore: The Institute), 5 (From National Library, Singapore, call no. RSING 354.5957093 SISIRA-\[AR\]); Hsung Bee Hwa, “[Risis Now Owned by Two Private Firms](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19861104-1.2.38.26),” _Straits Times_, 4 November 1986, 22. (From NewspaperSG)
+[^45]:  Singapore Institute of Standards and Industrial Research, [<i>Annual Report 1985/86</i>](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308) (Singapore: The Institute), 5. (From National Library, Singapore, call no. RSING 354.5957093 SISIRA-\[AR\]); Hsung Bee Hwa, “[Risis Now Owned by Two Private Firms](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19861104-1.2.38.26),” <i>Straits Times</i>, 4 November 1986, 22. (From NewspaperSG)
 
-[^46]:  Lee, _[A Fabulous Journey](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14651733)_, 95; “[The Risis Golden Horse is Crafted as a Tribute to Civilisation](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19900114-1.2.48.56.5),” _Straits Times_, 14 January 1990, 56. (From NewspaperSG)
+[^46]:  Lee, _[A Fabulous Journey](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14651733)_, 95; “[The Risis Golden Horse Is Crafted as a Tribute to Civilisation](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19900114-1.2.48.56.5),” _Straits Times_, 14 January 1990, 56. (From NewspaperSG)
 
 [^47]:  “[Cash Carriers and Stress Relievers](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19851212-1.2.59.2),” _Business Times_, 12 December 1985, 28; _“_[Page 7 Advertisements Column 1](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19851108-1.2.89.14.1),_” Straits Times,_ 8 November 1985, 7. (From NewspaperSG)
 
