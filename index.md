@@ -18,6 +18,15 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 20 Issue 2/Emily/Hero_img_Emily.jpg
   - infopic:
+      title: Readership Survey
+      subtitle: Have your say
+      id: infopic
+      description: Help us improve BiblioAsia. Take part in our readership survey!
+      button: Count Me In
+      url: https://go.gov.sg/web-survey
+      image: /images/edm_strip_survey_homepage.jpg
+      alt: Image alt text
+  - infopic:
       title: "Tools of the Trade: Letterpress Printing in Singapore"
       subtitle: Print
       id: infopic
@@ -1115,13 +1124,4 @@ sections:
       url: https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08
       alt: Greeting Card
       image: /images/Hari Raya Cards/hari raya greeting card.jpg
-  - infopic:
-      title: Readership Survey
-      subtitle: Have your say
-      id: infopic
-      description: Help us improve BiblioAsia. Take part in our readership survey!
-      button: Count Me In
-      url: https://go.gov.sg/web-survey
-      image: /images/edm_strip_survey_homepage.jpg
-      alt: Image alt text
 ---
