@@ -18,6 +18,15 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 20 Issue 2/Emily/Hero_img_Emily.jpg
   - infopic:
+      title: Have your say
+      subtitle: Readership Survey
+      id: infopic
+      description: Help us improve BiblioAsia. Take part in our readership survey!
+      button: Count Me In
+      url: https://go.gov.sg/web-survey
+      image: /images/edm_strip_survey_homepage.jpg
+      alt: Image alt text
+  - infopic:
       title: "Tools of the Trade: Letterpress Printing in Singapore"
       subtitle: Print
       id: infopic

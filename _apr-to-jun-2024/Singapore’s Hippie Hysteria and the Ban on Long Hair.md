@@ -1,5 +1,5 @@
 ---
-title: Singapore's Hippie Hysteria and the Ban on Long Hair
+title: Singapore’s Hippie Hysteria and the Ban on Long Hair
 permalink: /vol-20/issue-1/apr-jun-2024/hippies-operation-snip-snip-long-hair/
 variant: markdown
 description: Hippie culture was seen as a risk to Singaporean society in the
