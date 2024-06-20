@@ -18,8 +18,8 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 20 Issue 2/Emily/Hero_img_Emily.jpg
   - infopic:
-      title: Readership Survey
-      subtitle: Have your say
+      title: Have your say
+      subtitle: Readership Survey
       id: infopic
       description: Help us improve BiblioAsia. Take part in our readership survey!
       button: Count Me In
