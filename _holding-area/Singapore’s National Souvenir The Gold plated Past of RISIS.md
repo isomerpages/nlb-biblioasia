@@ -100,7 +100,7 @@ These eggs soon became an addition to the ongoing diplomatic practice of gifting
 
 Imitation might be the highest form of flattery, but in the commercial world, it is also illegal. Forgeries of RISIS products did not just reduce sales, they also threatened its reputation. In 1985, for example, a curious Japanese tourist hammered open a gold-plated egg he bought, only to find a rotten raw egg inside. Furious at having shelled out more than a hundred dollars for his eggs, he marched to Setsco to complain.
 
-Fortunately for Setsco (but unfortunately for the Japanese tourist), he had bought imitation eggs. Genuine RISIS eggs were always emptied before being gold-plated. In fact, Lee had complained that when they started making these eggs, he “had to eat omelette for the next 20 days.”[^42]
+Fortunately for Setsco (but unfortunately for the Japanese tourist), he had bought imitation eggs. Genuine RISIS eggs were always emptied before being gold-plated. In fact, Lee had complained that when they started making these eggs, he “had to eat omelette for the next 20 days”.[^42]
 
 In response to the fake eggs scandal, Setsco sent warning letters to 10 stores known to be selling them.[^43] Setsco also urged the public to be vigilant and ensure the authenticity of their RISIS eggs by making sure “RISIS” was inscribed on base of the eggs. In addition, they could carry out a little test – real RISIS eggs could supposedly balance upright on their own, while fakes just rolled over.[^44]
 
