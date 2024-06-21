@@ -40,14 +40,14 @@ However, coming up with the idea was one thing, turning it into reality was anot
 Days before the official launch of RISIS in April 1976, SISIR created a subsidiary, Setsco Pte Ltd, to handle full-scale commercial production of the gold-plated flowers. Setsco subsequently created RISIS Pte Ltd, a subsidiary dedicated to handling its gold-plated products. The RISIS orchid was available at nearly 70 stores around the island when it was launched.[^15]
 
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/straitstimes_19760812.jpg" style="width: 55%;">
-<div style="background-color: white;">The RISIS orchid was marketed as a perfect gift for any occasion. <i>Image reproduced from “Page 25 Advertisements Column 1,” Straits Times, 12 August 1976, 25. (From NewspaperSG)</i></div>
+<div style="background-color: white;">The RISIS orchid was marketed as a perfect gift for any occasion. <i>Image reproduced from “Page 25 Advertisements Column 1,” Straits Times, 12 August 1976, 25. (From NewspaperSG).</i></div>
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/risis_orchids.jpg" style="width: 80%;">
-<div style="background-color: white;">RISIS orchids were manufactured into tie and lapel pins and cufflinks for men (left) as well as jewelry for women (right). <i>Images reproduced from “Page 5 Advertisements Column 1”, New Nation, 9 June 1977, 5. (From NewspaperSG) and “Page 8 Advertisements Column 1,” Straits Times, 13 November 1976. 8. (From NewspaperSG)</i></div>
+<div style="background-color: white;">RISIS orchids were manufactured into tie and lapel pins and cufflinks for men (left) as well as jewellery for women (right). <i>Images reproduced from “Page 5 Advertisements Column 1,” New Nation, 9 June 1977, 5. (From NewspaperSG) and “Page 8 Advertisements Column 1,” Straits Times, 13 November 1976. 8. (From NewspaperSG).</i></div>
 
 The orchid was advertised in newspapers as a suitable gift for everyone and for every festive occasion.[^16] This strategy struck gold: all 3,000 orchids were sold out within days, despite each customer being limited to only one piece.[^17] On 3 May, Setsco published an advertisement apologising for their entire stock being sold out due to “overwhelming public response” – an apology which also conveniently doubled as great publicity.[^18] By the end of its first year, 100,000 RISIS orchids had been sold, accounting for nearly $2 million in sales.[^19]
 
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/straitstimes_19760503.jpg" style="width: 55%;">
-<div style="background-color: white;">Setsco published an apology in the papers in 1976 for having run out of its orchids. <i>Image reproduced from “Page 19 Advertisements Column 3,” Straits Times, 3 May 1976, 19. (From NewspaperSG)</i></div>
+<div style="background-color: white;">Setsco published an apology in the papers in 1976 for having run out of its orchids. <i>Image reproduced from “Page 19 Advertisements Column 3,” Straits Times, 3 May 1976, 19. (From NewspaperSG).</i></div>
 
 RISIS wasn’t just popular locally – it also quickly won fans abroad. An exhibition at the Frankfurt Fair led to an immediate order worth $50,000.[^20] By early 1978, local sales had grown to 12,000 a month, while export orders totalling $500,000 had been received. To keep up with demand, Setsco’s plant capacity had to be expanded five different times and its number of employees ballooned from 24 to 180.[^21]
 
@@ -55,7 +55,7 @@ Prominently associated with the Singapore brand, these golden orchids seemed to 
 
 When the <i>Vanda</i> Miss Joaquim was declared Singapore’s national flower in 1981, an article in _New Nation_ even suggested the government give all baby girls named Joaquim that year an 18-carat gold RISIS-version of the <i>Vanda</i> Miss Joaquim orchid instead of milk powder.[^24] At the 1984 ASEAN Orchid Congress in Singapore, prize-winners received special commemorative trophies with “sprays of gold-plated RISIS orchids” mounted on a plate.[^25] When STPB started awarding “Tourism Awards” in 1985, RISIS won in the inaugural “Best Tourism Souvenir” category, the most crowded category with 39 submissions.[^26]
 
-Perhaps the most vivid sign of how central RISIS had become to the Singaporean identity can be seen in its deployment for philosophical soul-searching. In her article “Look No Further for Our National Symbol” published in the _Straits Times_, Nancy Chng suggested that the RISIS orchid was a fitting choice precisely because “there is something artificial and uptight about it that remind\[ed her\] of the Singaporean character.” She was writing in 1980, after a decade of public concern over the supposed coarsening moral character of Singaporeans.[^27] “It is valued more for the gold-plating than the beauty of the flower within,” she lamented, “in much the same way that the single-minded pursuit of success, material success, has caused Singaporeans to suppress their genteel or gentler nature.”[^28]
+Perhaps the most vivid sign of how central RISIS had become to the Singaporean identity can be seen in its deployment for philosophical soul-searching. In her article “Look No Further for Our National Symbol” published in the _Straits Times_, Nancy Chng suggested that the RISIS orchid was a fitting choice precisely because “there is something artificial and uptight about it that remind\[ed her\] of the Singaporean character”. She was writing in 1980, after a decade of public concern over the supposed coarsening moral character of Singaporeans.[^27] “It is valued more for the gold-plating than the beauty of the flower within,” she lamented, “in much the same way that the single-minded pursuit of success, material success, has caused Singaporeans to suppress their genteel or gentler nature.”[^28]
 
 #### **Golden Orchid Diplomacy**
 
@@ -83,13 +83,13 @@ Orchids were also used to promote tourism. When Singapore received its two milli
 The success of the RISIS orchid inspired SISIR to gold-plate other items. The first addition was tropical leaves and ferns, which were chosen for the RISIS Floral Collection in July 1979.[^37] Following the success of the Floral Collection, SISIR designed pendants, bracelets and cufflinks which incorporated gold-plated coins.[^38]
 
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/gold_plate_leaves.jpg" style="width: 80%;">
-<div style="background-color: white;">Gold-plated tropical leaves and ferns from the 1979 RISIS Floral Collection (left) and gold-plated coins (right). <i>Images reproduced from Singapore Institute of Standards and Industrial Research, <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308">Annual Report of SISIR 1978/79</a> (Singapore, The Institute), 22. (From National Library, Singapore, call no. RSING 354.5957093 SISIRA) and Singapore Institute of Standards and Industrial Research, <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308">Annual Report of SISIR 1980/81</a> (Singapore, The Institute), 33. (From National Library, Singapore, call no. RSING 354.5957093 SISIRA)</i></div>
+<div style="background-color: white;">Gold-plated tropical leaves and ferns from the 1979 RISIS Floral Collection (left) and gold-plated coins (right). <i>Images reproduced from Singapore Institute of Standards and Industrial Research, <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308">Annual Report of SISIR 1978/79</a> (Singapore, The Institute), 22. (From National Library, Singapore, call no. RSING 354.5957093 SISIRA) and Singapore Institute of Standards and Industrial Research, <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308">Annual Report of SISIR 1980/81</a> (Singapore, The Institute), 33. (From National Library, Singapore, call no. RSING 354.5957093 SISIRA).</i></div>
 
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/IMG0085.jpg" style="width: 65%;">
 <div style="background-color: white;">Assortment of RISIS gold eggs.&nbsp;<i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/straitstimes_19840128.jpg" style="width: 50%;">
-<div style="background-color: white;">Advertisement promoting RISIS’s gold egg in 1984.&nbsp;<i>Image reproduced “Page 40 Advertisements Column 1,” Straits Times, 28 January 1984, 40. (From NewspaperSG)</i></div>
+<div style="background-color: white;">Advertisement promoting RISIS’s gold egg in 1984.&nbsp;<i>Image reproduced from “Page 40 Advertisements Column 1,” Straits Times, 28 January 1984, 40. (From NewspaperSG)</i></div>
 
 In 1984, RISIS launched gold-plated eggs for Chinese New Year. Positioning the egg as a symbol of life, advertisements suggested that the egg would “confer an aura of good luck and prestige upon the giver and the receiver”.[^39]
 
@@ -114,10 +114,10 @@ In 1986, as part of the government’s larger privatisation thrust, Setco sold i
 From the mid-80s, RISIS started emphasising Chinese culture in both the items sold and the narratives deployed. These included walnuts[^47] and gold-plated figurines celebrating the year’s Chinese Zodiac animal (of course, without live animal encased within). For the Year of the Snake in 1989, RISIS released a gold-plated snake curled to resemble the Chinese character for patience, its advertisement announcing “Virtue Captured in Gold”.[^48] This trend reached its zenith in 1990, the year of the Golden Horse. Golden horses inspired by the paintings of renowned Chinese artist Xu Beihong were sold by RISIS, this time with the declaration that horses, not dogs, were Man’s best friend.[^49]
 
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/biztimes_19881230.jpg" style="width: 45%;">
-<div style="background-color: white;">Advertisement for the 1989 snake.&nbsp;<i>Image reproduced from “Page 5 Advertisements Column 1,” Business Times, 30 December 1988, 5. (From NewspaperSG)</i></div>
+<div style="background-color: white;">Advertisement for the 1989 snake.&nbsp;<i>Image reproduced from “Page 5 Advertisements Column 1,” Business Times, 30 December 1988, 5. (From NewspaperSG).</i></div>
 
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/straitstimes_19891209.jpg" style="width: 75%;">
-<div style="background-color: white;">The RISIS golden horse was inspired by renowned Chinese artist Xu Beihong.&nbsp;<i>Image reproduced from “Page 3 Advertisements Column 1,” Straits Times, 9 December 1989, 3. (From NewspaperSG)</i></div>
+<div style="background-color: white;">The RISIS golden horse was inspired by renowned Chinese artist Xu Beihong.&nbsp;<i>Image reproduced from “Page 3 Advertisements Column 1,” Straits Times, 9 December 1989, 3. (From NewspaperSG).</i></div>
 
 Lee’s final animal was a gold-plated origami paper crane, which was inspired by a paper crane folding initiative by the residents of Bukit Gombak (he was chairman of the Bukit Gombak Citizen’s Consultative Committee) and his granddaughter (who had wanted a paper crane that would last). It was made of pewter and then plated with gold. With a $97,000 grant from the Trade Development Board (TDB; now IE Singapore), he created six versions of these (after his retirement in 1990), which then went on sale at TDB’s Design Centre in 1993.[^50]
   
@@ -187,7 +187,7 @@ While RISIS&nbsp;continues to sell its signature gold-plated items today,&nbsp;i
 
 [^28]:  Nancy Chng, “[Look No Further for Our National Symbol](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19800809-1.2.118.22.7),” _Straits Times_, 9 August 1980, 8. (From NewspaperSG)
 
-[^29]:  Rebecca Tan, “[Flower Power: Singapore’s Orchid Diplomacy](https://biblioasia.nlb.gov.sg/vol-18/issue-1/apr-to-jun-2022/singapore-orchid-diplomacy/),” _BiblioAsia_, 18, no. 1 (Apr–Jun 2022); Ang Seow Leng, “[More than Just a Flower: The Orchid’s Manifold Faces](https://biblioasia.nlb.gov.sg/vol-7/issue-3/oct-dec-2011/orchid-flower-manifold-face/),” _BiblioAsia_, 7, no. 3 (Oct–Dec 2011).
+[^29]:  Rebecca Tan, “[Flower Power: Singapore’s Orchid Diplomacy](https://biblioasia.nlb.gov.sg/vol-18/issue-1/apr-to-jun-2022/singapore-orchid-diplomacy/),” _BiblioAsia_, 18, no. 1 (April–June 2022); Ang Seow Leng, “[More than Just a Flower: The Orchid’s Manifold Faces](https://biblioasia.nlb.gov.sg/vol-7/issue-3/oct-dec-2011/orchid-flower-manifold-face/),” _BiblioAsia_, 7, no. 3 (October–December 2011).
 
 [^30]:  E Jofel, [<i>The RISIS Orchid</i>](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4080144) (Singapore: Times Books International, 1984), 21. (From National Library, Singapore, call no. RSING 739.27095957 JOF)
 
@@ -201,7 +201,7 @@ While RISIS&nbsp;continues to sell its signature gold-plated items today,&nbsp;i
 
 [^35]:  “[Risis Sparkles With a Jewelled Collection](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19860516-1.2.10.14),” _Business Times_, 16 May 1986, 3. (From NewspaperSG)
 
-[^36]:  Singapore Institute of Standards and Industrial Research, [<i>Annual Report 1978/79</i>](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308) (Singapore: The Institute), 7 (From National Library, Singapore, call no. RSING 354.5957093 SISIRA-\[AR\]); “[The 2 Millionth Visitor](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19781223-1.2.5),” _Straits Times_, 23 December 1978, 1; “[S’pore Crosses the Two Millionth Visitor Mark](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19781223-1.2.137.24.1),” _Straits Times_, 23 December 1978, 9; “[She Dines Like an Empress](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19781224-1.2.6),” _New Nation_, 24 December 1978, 2. (From NewspaperSG)
+[^36]:  Singapore Institute of Standards and Industrial Research, [<i>Annual Report 1978/79</i>](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308) (Singapore: The Institute), 7. (From National Library, Singapore, call no. RSING 354.5957093 SISIRA-\[AR\]); “[The 2 Millionth Visitor](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19781223-1.2.5),” _Straits Times_, 23 December 1978, 1; “[S’pore Crosses the Two Millionth Visitor Mark](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19781223-1.2.137.24.1),” _Straits Times_, 23 December 1978, 9; “[She Dines Like an Empress](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19781224-1.2.6),” _New Nation_, 24 December 1978, 2. (From NewspaperSG)
 
 [^37]:  Singapore Institute of Standards and Industrial Research, _[Annual Report 1979/80](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308)_ (Singapore: The Institute), 38. (From National Library, Singapore, call no. RSING 354.5957093 SISIRA-\[AR\])
 
@@ -223,7 +223,7 @@ While RISIS&nbsp;continues to sell its signature gold-plated items today,&nbsp;i
 
 [^46]:  Lee, _[A Fabulous Journey](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14651733)_, 95; “[The Risis Golden Horse Is Crafted as a Tribute to Civilisation](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19900114-1.2.48.56.5),” _Straits Times_, 14 January 1990, 56. (From NewspaperSG)
 
-[^47]:  “[Cash Carriers and Stress Relievers](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19851212-1.2.59.2),” _Business Times_, 12 December 1985, 28; _“_[Page 7 Advertisements Column 1](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19851108-1.2.89.14.1)_” Straits Times,_ 8 November 1985, 7. (From NewspaperSG)
+[^47]:  “[Cash Carriers and Stress Relievers](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19851212-1.2.59.2),” _Business Times_, 12 December 1985, 28; _“_[Page 7 Advertisements Column 1](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19851108-1.2.89.14.1)_,” Straits Times,_ 8 November 1985, 7. (From NewspaperSG)
 
 [^48]:  “[Page 5 Advertisements Column 1](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19881230-1.2.18.1),” _Business Times_, 30 December 1988, 5. (From NewspaperSG)
 
