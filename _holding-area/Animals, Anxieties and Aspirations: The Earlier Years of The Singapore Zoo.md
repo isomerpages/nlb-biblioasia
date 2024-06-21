@@ -195,7 +195,7 @@ Despite the fact that Ah Meng the orangutan and Inuka the polar bear were not na
 
 [^16]: “[Govt’s $5 Mil Firm to Set Up a Zoo](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19710424-1.2.68).”
 
-[^17]: P.M. Raman, “[S’pore Zoological Gardens To Be Opened in Mid-June](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730430-1.2.94),” _Straits Times_, 30 April 1973, 24. (From NewspaperSG)
+[^17]: P.M. Raman, “[S’pore Zoological Gardens to Be Opened in Mid-June](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730430-1.2.94),” _Straits Times_, 30 April 1973, 24. (From NewspaperSG)
 
 [^18]: Chandran, “[A Haven for Animal Lovers of S’pore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730628-1.2.80).”
 
@@ -209,7 +209,7 @@ Despite the fact that Ah Meng the orangutan and Inuka the polar bear were not na
 
 [^23]: K.S. Sidhu and Shen Swee Yong, “[Escaped Panther: Workers Quizzed by Police](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730310-1.2.94),” _Straits Times_, 10 March 1973, 28. (From NewspaperSG); Sidhu, “[Panther Hunt](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730308-1.2.3)”; Chandran and Sidhu, “[Panther: Zoo to Hold Inquiry](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730311-1.2.3).”
 
-[^24]: N.G. Kutty, Gerald Pereira and Jacob Daniel, “[All-Night Vigil After Bid to Flush It Out Fails](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740131-1.2.11),” _Straits Times_, 31 January 1974, 1. (From NewspaperSG)
+[^24]: N.G. Kutty, Gerald Pereira and Jacob Daniel, “[All-night Vigil After Bid to Flush It Out Fails](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740131-1.2.11),” _Straits Times_, 31 January 1974, 1. (From NewspaperSG)
 
 
 [^25]: “[Flares Killed Twiggy the Panther](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740205-1.2.57),” _Straits Times_, 5 February 1974, 10. (From NewspaperSG)&nbsp;
@@ -281,7 +281,7 @@ Despite the fact that Ah Meng the orangutan and Inuka the polar bear were not na
 [^48]: Koh Wan Ting, "Giant Pandas Jia Jia, Kai Kai to Extend Stay in Singapore Until 2027,” _CNA_, 2 September 2022; Mandai Wildlife Reserve Media Centre, https://www.channelnewsasia.com/singapore/giant-pandas-jia-jia-kai-kai-extend-singapore-stay-2916001; “Singapore's Giant Panda Cub Le Le Will Move into China's Panda Conservation Programme in December,” Mandai Wildlife Reserve, 22 September 2023, https://www.mandai.com/en/about-mandai/media-centre/Singapores-Giant-Panda-cub-Le-Le-will-move-into-Chinas-Panda-Conservation-Programme-in-December.html.&nbsp;
 
 
-[^49]: Nur Dianah Suhaimi, “[Memorial Service for a Singapore Icon](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20080210-2.2.5.3),” _Straits Times_, 10 February 2008, 4; Maria Almenoar, “Goodbye, Ah Meng,” _Straits Times_, 11 February 2008, 4; Ho Lian-Yi, “Ah Meng Dies,” _Straits Times_, 9 February 2008, 2. (From NewspaperSG)
+[^49]: Nur Dianah Suhaimi, “[Memorial Service for a Singapore Icon](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20080210-2.2.5.3),” _Straits Times_, 10 February 2008, 4; Maria Almenoar, “[Goodbye, Ah Meng](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20080211-1.2.11.4),” _Straits Times_, 11 February 2008, 4; Ho Lian-Yi, “[Ah Meng Dies](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20080209-1.2.3),” _Straits Times_, 9 February 2008, 2. (From NewspaperSG)
 
 
 [^50]: Kimberly Chia, “Letting Go of Inuka,” _Straits Times_, 26 April 2018, A10. (From ProQuest via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
