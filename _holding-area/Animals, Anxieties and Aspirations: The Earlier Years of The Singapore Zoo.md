@@ -148,6 +148,9 @@ A similar outpouring of public sorrow was again seen when 27-year-old Inuka was 
 
 While it is easy to tell the story of the Singapore Zoo as one of institutional success and visionary leadership, it is also interesting and important to consider the ways ordinary Singaporeans have responded to this national institution and its animals. Although there have been other local animal attractions in Singapore at the time, like the Jurong Bird Park and the Van Kleef Aquarium, the scale of emotional excitement, affection and pride residents have displayed for the zoo and its animals is remarkable in the history of the nation-state.&nbsp;
 
+![](/images/Vol%2020%20Issue%203/Zoo/zoo_img14.jpg)
+<div style="background-color: white;">A De Brazza’s monkey cuddling her newborn at the Primate Kingdom in the Singapore Zoo. <i>Courtesy of Mandai Wildlife Group.</i></div>
+
 Despite the fact that Ah Meng the orangutan and Inuka the polar bear were not native to Singapore, they had endeared themselves to many people in this young, unlikely nation of migrants. While the Singapore Zoo is often described as a popular tourist destination today, it is also worthwhile to remember the institution at its origins: as a space of many possibilities, where animals came to represent the aspirations and anxieties of a new nation.
 
 
