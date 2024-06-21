@@ -111,7 +111,7 @@ In 1986, as part of the government’s larger privatisation thrust, Setco sold i
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/straitstimes_19890526.jpg" style="width: 45%;">
 <div style="background-color: white;">Dr Lee Kum Tatt with some of his creations, 1989. <i>Source: The Straits Times, 26 May 1989 © SPH Media Limited. Permission required for reproduction.</i></div>
 
-From the mid-80s, RISIS started emphasising Chinese culture in both the items sold and the narratives deployed. These included walnuts[^47] and gold-plated figurines celebrating the year’s Chinese Zodiac animal (of course, without live animal encased within). For the Year of the Snake in 1989, RISIS released a gold-plated snake curled to resemble the Chinese character for patience, its advertisement announcing “Virtue Captured in Gold.”[^48] This trend reached its zenith in 1990, the year of the Golden Horse. Golden horses inspired by the paintings of renowned Chinese artist Xu Beihong were sold by RISIS, this time with the declaration that horses, not dogs, were Man’s best friend.[^49]
+From the mid-80s, RISIS started emphasising Chinese culture in both the items sold and the narratives deployed. These included walnuts[^47] and gold-plated figurines celebrating the year’s Chinese Zodiac animal (of course, without live animal encased within). For the Year of the Snake in 1989, RISIS released a gold-plated snake curled to resemble the Chinese character for patience, its advertisement announcing “Virtue Captured in Gold”.[^48] This trend reached its zenith in 1990, the year of the Golden Horse. Golden horses inspired by the paintings of renowned Chinese artist Xu Beihong were sold by RISIS, this time with the declaration that horses, not dogs, were Man’s best friend.[^49]
 
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/biztimes_19881230.jpg" style="width: 45%;">
 <div style="background-color: white;">Advertisement for the 1989 snake.&nbsp;<i>Image reproduced from “Page 5 Advertisements Column 1,” Business Times, 30 December 1988, 5. (From NewspaperSG).</i></div>
@@ -187,7 +187,7 @@ While RISIS&nbsp;continues to sell its signature gold-plated items today,&nbsp;i
 
 [^28]:  Nancy Chng, “[Look No Further for Our National Symbol](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19800809-1.2.118.22.7),” _Straits Times_, 9 August 1980, 8. (From NewspaperSG)
 
-[^29]:  Rebecca Tan, “[Flower Power: Singapore’s Orchid Diplomacy](https://biblioasia.nlb.gov.sg/vol-18/issue-1/apr-to-jun-2022/singapore-orchid-diplomacy/),” _BiblioAsia_, 18, no. 1 (Apr–Jun 2022); Ang Seow Leng, “[More than Just a Flower: The Orchid’s Manifold Faces](https://biblioasia.nlb.gov.sg/vol-7/issue-3/oct-dec-2011/orchid-flower-manifold-face/),” _BiblioAsia_, 7, no. 3 (Oct–Dec 2011).
+[^29]:  Rebecca Tan, “[Flower Power: Singapore’s Orchid Diplomacy](https://biblioasia.nlb.gov.sg/vol-18/issue-1/apr-to-jun-2022/singapore-orchid-diplomacy/),” _BiblioAsia_, 18, no. 1 (April–June 2022); Ang Seow Leng, “[More than Just a Flower: The Orchid’s Manifold Faces](https://biblioasia.nlb.gov.sg/vol-7/issue-3/oct-dec-2011/orchid-flower-manifold-face/),” _BiblioAsia_, 7, no. 3 (October–December 2011).
 
 [^30]:  E Jofel, [<i>The RISIS Orchid</i>](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4080144) (Singapore: Times Books International, 1984), 21. (From National Library, Singapore, call no. RSING 739.27095957 JOF)
 
