@@ -8,7 +8,7 @@ variant: markdown
 
 The zoo was able to overcome major setbacks in its formative years to become the well-loved tourist attraction it is today.
 
-<img src="/images/Vol%2020%20Issue%203/Zoo/zoo_img14.jpg" style="width:80%;">
+<img src="/images/Vol%2020%20Issue%203/Zoo/zoo_primate_topics.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/singapore-malaysia-johor-causeway/">The Making of the Causeway</a>
