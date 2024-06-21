@@ -77,7 +77,7 @@ sections:
         life.
       button: WORKING UP A SWEAT
       url: /vol-20/issue-3/oct-dec-2024/great-singapore-workout/
-      image: /images/Vol 20 Issue 3/Singapore Workout/workout_img5a.jpg
+      image: /images/Vol 20 Issue 3/Singapore Workout/workout_topics.jpg
       alt: Image alt text
   - infopic:
       title: "Sea Snail & Papaya Curry: A Eurasian Delight"
