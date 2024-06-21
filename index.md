@@ -1134,4 +1134,12 @@ sections:
       url: https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08
       alt: Greeting Card
       image: /images/Hari Raya Cards/hari raya greeting card.jpg
+  - infopic:
+      title: "Singapore’s National Souvenir: The Gold-plated Past of RISIS"
+      subtitle: Local Icons
+      id: infopic
+      description: Infopic description
+      button: A touch of Gold
+      url: /culture/2024/6/risis-gold-orchid-tourism-souvenir/
+      alt: Image alt text
 ---
