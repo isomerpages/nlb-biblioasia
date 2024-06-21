@@ -56,10 +56,6 @@ The committee had envisioned that it would feature an “open concept” archite
 
 By 1971, development work on the 28-hectare zoo, including the construction of a metalled access road and sewage facilities, was underway.[^16] Some 2,000 trees were specially selected to replace “less desired” vegetation and to provide better shade and attract birds.[^17] Construction took 18 months and cost the government about $9 million. But despite efforts to create a modern, “wonder world of animals set amid the sparkling reservoir waters”, gaps remained – in some cases literally.[^18] Three months before the new zoo was slated to open, a series of dramatic animal escapes made headline news.
 
-![](/images/Vol%2020%20Issue%203/Zoo/zoo_img9.jpg)
-<div style="background-color: white;">A sloth at the Fragile Forest in the Singapore Zoo. The biodome mimics a tropical rainforest habitat. <i>Courtesy of Mandai Wildlife Group.</i></div>
-
-
 #### **Animal Escapees**
 
 It started with the sun bears. On 5 March 1973, two “tame and less than half grown” bears squeezed their way out of a narrow gap in their cages. One was “re-captured immediately”, while the other eluded capture until it was shot dead two days later in the surrounding forested area, about 45 m from its enclosure.[^19]
@@ -153,6 +149,10 @@ A similar outpouring of public sorrow was again seen when 27-year-old Inuka was 
 While it is easy to tell the story of the Singapore Zoo as one of institutional success and visionary leadership, it is also interesting and important to consider the ways ordinary Singaporeans have responded to this national institution and its animals. Although there have been other local animal attractions in Singapore at the time, like the Jurong Bird Park and the Van Kleef Aquarium, the scale of emotional excitement, affection and pride residents have displayed for the zoo and its animals is remarkable in the history of the nation-state.&nbsp;
 
 Despite the fact that Ah Meng the orangutan and Inuka the polar bear were not native to Singapore, they had endeared themselves to many people in this young, unlikely nation of migrants. While the Singapore Zoo is often described as a popular tourist destination today, it is also worthwhile to remember the institution at its origins: as a space of many possibilities, where animals came to represent the aspirations and anxieties of a new nation.
+
+
+![](/images/Vol%2020%20Issue%203/Zoo/zoo_img9.jpg)
+<div style="background-color: white;">A sloth at the Fragile Forest in the Singapore Zoo. The biodome mimics a tropical rainforest habitat. <i>Courtesy of Mandai Wildlife Group.</i></div>
 
 
 
