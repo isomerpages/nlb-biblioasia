@@ -169,7 +169,7 @@ Despite the fact that Ah Meng the orangutan and Inuka the polar bear were not na
 
 [^3]: “‘[Whampoa’ Was the First of Singapore’s Towkays](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19540313-1.2.162),” _Straits Times_, 13 March 1954, 9. (From NewspaperSG)
 
-[^4]: H.N. Ridley, “The Menagerie at the Botanic Gardens,” _Journal of the Straits Branch of the Royal Asiatic Society 46_ (December 1906): 133–94. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^4]: H.N. Ridley, “The Menagerie at the Botanic Gardens,” _Journal of the Straits Branch of the Royal Asiatic Society 46_ (December 1906): 133–194. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
 [^5]: Timothy P. Barnard, [_Nature’s Colony: Empire, Nation and Environment in the Singapore Botanic Gardens_](https://nlb.overdrive.com/media/6452A8DB-30F9-419F-AD6A-E72ADD17C242) (Singapore: NUS Press, 2016), 110. (From NLB OverDrive)
 
@@ -181,7 +181,7 @@ Despite the fact that Ah Meng the orangutan and Inuka the polar bear were not na
 
 [^9]:  “[Snarls in City Council Over Zoo Plan](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19580320-1.2.60?),” _Straits Times_, 20 March 1958, 4. (From NewspaperSG)
 
-[^10]: “[Singapore Puts Up Its Elephant Tax](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19500615-1.2.84),” _Singapore Free Press_, 15 June 1950, 5; Melody Zaccheus, “We Bought a Zoo: Singapore’s Small Havens for Wild Animals,” _Straits Times_, 3 June 2014, https://www.straitstimes.com/singapore/we-bought-a-zoo-singapores-small-havens-for-wild-animals; “A Forgotten Past – A Zoo at Punggol,” Remember Singapore, 19 March 2012, https://remembersingapore.org/2012/03/19/a-zoo-in-punggol/.
+[^10]: “[Singapore Puts Up Its Elephant Tax](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19500615-1.2.84),” _Singapore Free Press_, 15 June 1950, 5; Zaccheus, “We Bought a Zoo”; “A Forgotten Past – A Zoo at Punggol,” Remember Singapore, 19 March 2012, https://remembersingapore.org/2012/03/19/a-zoo-in-punggol/.
 
 [^11]:  “[The Men Behind the Project](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730129-1.2.60),” _Straits Times_, 29 January 1973, 14. (From NewspaperSG)
 
