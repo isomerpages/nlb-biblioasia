@@ -56,10 +56,6 @@ The committee had envisioned that it would feature an “open concept” archite
 
 By 1971, development work on the 28-hectare zoo, including the construction of a metalled access road and sewage facilities, was underway.[^16] Some 2,000 trees were specially selected to replace “less desired” vegetation and to provide better shade and attract birds.[^17] Construction took 18 months and cost the government about $9 million. But despite efforts to create a modern, “wonder world of animals set amid the sparkling reservoir waters”, gaps remained – in some cases literally.[^18] Three months before the new zoo was slated to open, a series of dramatic animal escapes made headline news.
 
-![](/images/Vol%2020%20Issue%203/Zoo/zoo_img9.jpg)
-<div style="background-color: white;">A sloth at the Fragile Forest in the Singapore Zoo. The biodome mimics a tropical rainforest habitat. <i>Courtesy of Mandai Wildlife Group.</i></div>
-
-
 #### **Animal Escapees**
 
 It started with the sun bears. On 5 March 1973, two “tame and less than half grown” bears squeezed their way out of a narrow gap in their cages. One was “re-captured immediately”, while the other eluded capture until it was shot dead two days later in the surrounding forested area, about 45 m from its enclosure.[^19]
@@ -68,10 +64,10 @@ The next day, a three-year-old panther, the “youngest and smallest” of the z
 
 Twiggy’s escape triggered a massive search effort. In addition to policemen, zoo staff and experienced hunters, three Reserve Unit troops totalling about 150 men were sent into the rainforests of Mandai, Seletar and Sembawang with a “shoot-to-kill” order. These personnel continued the search even amid heavy rain and darkness.[^21] Although armed patrols failed to locate the panther, a search party “spotted movement” in the thick vegetation surrounding the zoo shortly before noon on 7 March and shot dead the remaining fugitive sun bear.[^22]
 
-Reports of the runaway panther provoked widespread fear and excitement among Singaporeans. "We are worried about the children and are taking all precautions,” said Tan Thow Lar, a farmer. Nightlife in the nearby Sembawang Hills Estate slowed to a standstill as shops and households locked themselves in. Police warned students to keep away from the Seletar and Peirce reservoirs, while nearby schools shortened their teaching hours.[^23]
-
 ![](/images/Vol%2020%20Issue%203/Zoo/zoo_img12.jpg)
 <div style="background-color: white;">Twiggy the panther slipped out of its cage on 6 March 1973 and sparked a massive hunt that lasted 11 months. <i>Source: The Straits Times, 8 March 1973 © SPH Media Limited. Permission required for reproduction.</i></div>
+
+Reports of the runaway panther provoked widespread fear and excitement among Singaporeans. "We are worried about the children and are taking all precautions,” said Tan Thow Lar, a farmer. Nightlife in the nearby Sembawang Hills Estate slowed to a standstill as shops and households locked themselves in. Police warned students to keep away from the Seletar and Peirce reservoirs, while nearby schools shortened their teaching hours.[^23]
 
 The hunt for Twiggy reached its finale nearly 11 months later, when a clerk with the Singapore Turf Club spotted a strange animal entering a monsoon drain in the area on 30 January 1974. Policemen, Reserve Unit troopers, firemen and zoo staff rushed to the scene, bringing with them “tranquiliser guns, traps and special cages”. Petrol was poured into the drain and set ablaze with flare guns. Despite efforts to smoke out the panther, the animal did not budge.[^24] Two days later, the authorities flooded the underground drain while policemen stood ready with submachine guns. Soon after, a feline carcass floated out of the drain.[^25]
 
@@ -97,6 +93,9 @@ Thanks to collaborations with zoos in China and North America, Singaporeans were
 Under Harrison, the zoo pioneered “Breakfast with an Orangutan” in 1982, where paying visitors could dine with orangutans. The concept found great traction with tourists, facilitating the meteoric rise of Ah Meng, a female orangutan that many people would come to develop a deep affection for. The zoo had initially groomed Susie (the orangutan Goh Keng Swee had shaken hands with) to be a zoo mascot, but she had died of pregnancy toxemia in 1974. (The zoo no longer has a programme forcing orangutans or other animals to dine with people.)&nbsp;
 
 Ah Meng was chosen as a replacement because she was photogenic, “well-groomed” and comfortable with humans, having been raised as a household pet before being given to the zoo. Docile and personable, Ah Meng was photographed with many visiting celebrities and foreign dignitaries, and grew to become a household name among Singaporeans. According to Harrison, Singapore’s third president Devan Nair supposedly once remarked that “After Lee Kuan Yew, \[Ah Meng is\] the most well-known Singaporean in the world”.[^34] In 1992, Ah Meng became the first only non-human recipient of the Special Tourism Ambassador award by the then Singapore Tourist Promotion Board.[^35]
+
+![](/images/Vol%2020%20Issue%203/Zoo/zoo_img1.jpg)
+<div style="background-color: white;">The late Ah Meng the orangutan was the star of the show at every photography session. <i>Image reproduced from Ilsa Sharp, The First 21 Years: The Singapore Zoological Gardens Story (Singapore: Singapore Zoological Gardens, 1994), 70. (From National Library, Singapore, call no. RSING q590.7445957 SHA-[LKY]).</i></div>
 
 The internationalisation of the Singapore Zoo continued into the 1990s and 2000s. On 26 December 1990, the zoo welcomed the birth of Inuka, the world’s first (and perhaps only) polar bear to be born in the tropics. Like Ah Meng, Inuka endeared himself to Singaporeans and international visitors alike, becoming a mascot for the zoo’s marketing efforts. But as a creature poorly adapted to the tropics, the polar bear also provoked many difficult conversations about animal welfare and zoological exhibits in Singapore. Such debates were led by the Animal Concerns Research and Education Society (ACRES), a local animal welfare group.[^36] (The zoo later said in 2006 that it would not bring any more polar bears to Singapore.[^37])
 
@@ -143,16 +142,20 @@ In 2022, the 10-year loan for Jia Jia and Kai Kai was extended for another five 
 
 The early 2000s would also be a time of loss for the zoo though. On 8 February 2008, Ah Meng the orangutan died at the age of 48. News of her death elicited widespread expressions of grief from many Singaporeans. Her memorial service at the zoo, the first time such an honour had been accorded to any animal in Singapore, was attended by over 4,000 well-wishers.[^49]
 
-![](/images/Vol%2020%20Issue%203/Zoo/zoo_img1.jpg)
-<div style="background-color: white;">The late Ah Meng the orangutan was the star of the show at every photography session. <i>Image reproduced from Ilsa Sharp, The First 21 Years: The Singapore Zoological Gardens Story (Singapore: Singapore Zoological Gardens, 1994), 70. (From National Library, Singapore, call no. RSING q590.7445957 SHA-[LKY]).</i></div>
-
 A similar outpouring of public sorrow was again seen when 27-year-old Inuka was put down on 25 April 2018 due to his deteriorating health. Hundreds of visitors attended the bear’s memorial service, and many Singaporeans shared their feelings online in the form of photographs, blogposts, Facebook posts and visual art.[^50] His death attracted reactions even from Prime Minister Lee Hsien Loong. “Born and raised here,” Lee wrote on his Facebook, “he was as Singaporean as any of us.”[^51]
 
 #### **A Space of Many Possibilities**
 
 While it is easy to tell the story of the Singapore Zoo as one of institutional success and visionary leadership, it is also interesting and important to consider the ways ordinary Singaporeans have responded to this national institution and its animals. Although there have been other local animal attractions in Singapore at the time, like the Jurong Bird Park and the Van Kleef Aquarium, the scale of emotional excitement, affection and pride residents have displayed for the zoo and its animals is remarkable in the history of the nation-state.&nbsp;
 
+![](/images/Vol%2020%20Issue%203/Zoo/zoo_img14.jpg)
+<div style="background-color: white;">A De Brazza’s monkey cuddling her newborn at the Primate Kingdom in the Singapore Zoo. <i>Courtesy of Mandai Wildlife Group.</i></div>
+
 Despite the fact that Ah Meng the orangutan and Inuka the polar bear were not native to Singapore, they had endeared themselves to many people in this young, unlikely nation of migrants. While the Singapore Zoo is often described as a popular tourist destination today, it is also worthwhile to remember the institution at its origins: as a space of many possibilities, where animals came to represent the aspirations and anxieties of a new nation.
+
+
+![](/images/Vol%2020%20Issue%203/Zoo/zoo_img9.jpg)
+<div style="background-color: white;">A sloth at the Fragile Forest in the Singapore Zoo. The biodome mimics a tropical rainforest habitat. <i>Courtesy of Mandai Wildlife Group.</i></div>
 
 
 
@@ -169,7 +172,7 @@ Despite the fact that Ah Meng the orangutan and Inuka the polar bear were not na
 
 [^3]: “‘[Whampoa’ Was the First of Singapore’s Towkays](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19540313-1.2.162),” _Straits Times_, 13 March 1954, 9. (From NewspaperSG)
 
-[^4]: H.N. Ridley, “The Menagerie at the Botanic Gardens,” _Journal of the Straits Branch of the Royal Asiatic Society 46_ (December 1906): 133–94. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^4]: H.N. Ridley, “The Menagerie at the Botanic Gardens,” _Journal of the Straits Branch of the Royal Asiatic Society 46_ (December 1906): 133–194. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
 [^5]: Timothy P. Barnard, [_Nature’s Colony: Empire, Nation and Environment in the Singapore Botanic Gardens_](https://nlb.overdrive.com/media/6452A8DB-30F9-419F-AD6A-E72ADD17C242) (Singapore: NUS Press, 2016), 110. (From NLB OverDrive)
 
@@ -181,7 +184,7 @@ Despite the fact that Ah Meng the orangutan and Inuka the polar bear were not na
 
 [^9]:  “[Snarls in City Council Over Zoo Plan](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19580320-1.2.60?),” _Straits Times_, 20 March 1958, 4. (From NewspaperSG)
 
-[^10]: “[Singapore Puts Up Its Elephant Tax](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19500615-1.2.84),” _Singapore Free Press_, 15 June 1950, 5; Melody Zaccheus, “We Bought a Zoo: Singapore’s Small Havens for Wild Animals,” _Straits Times_, 3 June 2014, https://www.straitstimes.com/singapore/we-bought-a-zoo-singapores-small-havens-for-wild-animals; “A Forgotten Past – A Zoo at Punggol,” Remember Singapore, 19 March 2012, https://remembersingapore.org/2012/03/19/a-zoo-in-punggol/.
+[^10]: “[Singapore Puts Up Its Elephant Tax](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19500615-1.2.84),” _Singapore Free Press_, 15 June 1950, 5; Zaccheus, “We Bought a Zoo”; “A Forgotten Past – A Zoo at Punggol,” Remember Singapore, 19 March 2012, https://remembersingapore.org/2012/03/19/a-zoo-in-punggol/.
 
 [^11]:  “[The Men Behind the Project](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730129-1.2.60),” _Straits Times_, 29 January 1973, 14. (From NewspaperSG)
 
@@ -195,7 +198,7 @@ Despite the fact that Ah Meng the orangutan and Inuka the polar bear were not na
 
 [^16]: “[Govt’s $5 Mil Firm to Set Up a Zoo](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19710424-1.2.68).”
 
-[^17]: P.M. Raman, “[S’pore Zoological Gardens To Be Opened in Mid-June](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730430-1.2.94),” _Straits Times_, 30 April 1973, 24. (From NewspaperSG)
+[^17]: P.M. Raman, “[S’pore Zoological Gardens to Be Opened in Mid-June](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730430-1.2.94),” _Straits Times_, 30 April 1973, 24. (From NewspaperSG)
 
 [^18]: Chandran, “[A Haven for Animal Lovers of S’pore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730628-1.2.80).”
 
@@ -209,7 +212,7 @@ Despite the fact that Ah Meng the orangutan and Inuka the polar bear were not na
 
 [^23]: K.S. Sidhu and Shen Swee Yong, “[Escaped Panther: Workers Quizzed by Police](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730310-1.2.94),” _Straits Times_, 10 March 1973, 28. (From NewspaperSG); Sidhu, “[Panther Hunt](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730308-1.2.3)”; Chandran and Sidhu, “[Panther: Zoo to Hold Inquiry](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730311-1.2.3).”
 
-[^24]: N.G. Kutty, Gerald Pereira and Jacob Daniel, “[All-Night Vigil After Bid to Flush It Out Fails](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740131-1.2.11),” _Straits Times_, 31 January 1974, 1. (From NewspaperSG)
+[^24]: N.G. Kutty, Gerald Pereira and Jacob Daniel, “[All-night Vigil After Bid to Flush It Out Fails](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740131-1.2.11),” _Straits Times_, 31 January 1974, 1. (From NewspaperSG)
 
 
 [^25]: “[Flares Killed Twiggy the Panther](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740205-1.2.57),” _Straits Times_, 5 February 1974, 10. (From NewspaperSG)&nbsp;
@@ -281,7 +284,7 @@ Despite the fact that Ah Meng the orangutan and Inuka the polar bear were not na
 [^48]: Koh Wan Ting, "Giant Pandas Jia Jia, Kai Kai to Extend Stay in Singapore Until 2027,” _CNA_, 2 September 2022; Mandai Wildlife Reserve Media Centre, https://www.channelnewsasia.com/singapore/giant-pandas-jia-jia-kai-kai-extend-singapore-stay-2916001; “Singapore's Giant Panda Cub Le Le Will Move into China's Panda Conservation Programme in December,” Mandai Wildlife Reserve, 22 September 2023, https://www.mandai.com/en/about-mandai/media-centre/Singapores-Giant-Panda-cub-Le-Le-will-move-into-Chinas-Panda-Conservation-Programme-in-December.html.&nbsp;
 
 
-[^49]: Nur Dianah Suhaimi, “[Memorial Service for a Singapore Icon](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20080210-2.2.5.3),” _Straits Times_, 10 February 2008, 4; Maria Almenoar, “Goodbye, Ah Meng,” _Straits Times_, 11 February 2008, 4; Ho Lian-Yi, “Ah Meng Dies,” _Straits Times_, 9 February 2008, 2. (From NewspaperSG)
+[^49]: Nur Dianah Suhaimi, “[Memorial Service for a Singapore Icon](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20080210-2.2.5.3),” _Straits Times_, 10 February 2008, 4; Maria Almenoar, “[Goodbye, Ah Meng](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20080211-1.2.11.4),” _Straits Times_, 11 February 2008, 4; Ho Lian-Yi, “[Ah Meng Dies](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20080209-1.2.3),” _Straits Times_, 9 February 2008, 2. (From NewspaperSG)
 
 
 [^50]: Kimberly Chia, “Letting Go of Inuka,” _Straits Times_, 26 April 2018, A10. (From ProQuest via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)

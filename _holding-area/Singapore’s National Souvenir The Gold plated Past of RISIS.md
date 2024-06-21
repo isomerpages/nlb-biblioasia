@@ -40,7 +40,7 @@ However, coming up with the idea was one thing, turning it into reality was anot
 Days before the official launch of RISIS in April 1976, SISIR created a subsidiary, Setsco Pte Ltd, to handle full-scale commercial production of the gold-plated flowers. Setsco subsequently created RISIS Pte Ltd, a subsidiary dedicated to handling its gold-plated products. The RISIS orchid was available at nearly 70 stores around the island when it was launched.[^15]
 
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/straitstimes_19760812.jpg" style="width: 55%;">
-<div style="background-color: white;">The RISIS orchid was marketed as a perfect gift for any occasion. <i>Image reproduced from “Page 25 Advertisements Column 1,” Straits Times, 12 August 1976, 25. (From NewspaperSG).</i></div>
+<div style="background-color: white;">The RISIS orchid was marketed as a perfect gift for any occasion. <i>Image reproduced from “Page 25 Advertisements Column 1,” Straits Times, 12 August 1976, 25. (From NewspaperSG)</i></div>
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/risis_orchids.jpg" style="width: 80%;">
 <div style="background-color: white;">RISIS orchids were manufactured into tie and lapel pins and cufflinks for men (left) as well as jewelry for women (right). <i>Images reproduced from “Page 5 Advertisements Column 1”, New Nation, 9 June 1977, 5. (From NewspaperSG) and “Page 8 Advertisements Column 1,” Straits Times, 13 November 1976. 8. (From NewspaperSG)</i></div>
 
@@ -117,7 +117,7 @@ From the mid-80s, RISIS started emphasising Chinese culture in both the items so
 <div style="background-color: white;">Advertisement for the 1989 snake.&nbsp;<i>Image reproduced from “Page 5 Advertisements Column 1,” Business Times, 30 December 1988, 5. (From NewspaperSG)</i></div>
 
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/straitstimes_19891209.jpg" style="width: 75%;">
-<div style="background-color: white;">The RISIS golden horse was inspired by renowned Chinese artist Xu Beihong.&nbsp;<i>Image reproduced from “Page 3 Advertisements Column 1,” Straits Times, 9 December 1989, 3. (From NewspaperSG).</i></div>
+<div style="background-color: white;">The RISIS golden horse was inspired by renowned Chinese artist Xu Beihong.&nbsp;<i>Image reproduced from “Page 3 Advertisements Column 1,” Straits Times, 9 December 1989, 3. (From NewspaperSG)</i></div>
 
 Lee’s final animal was a gold-plated origami paper crane, which was inspired by a paper crane folding initiative by the residents of Bukit Gombak (he was chairman of the Bukit Gombak Citizen’s Consultative Committee) and his granddaughter (who had wanted a paper crane that would last). It was made of pewter and then plated with gold. With a $97,000 grant from the Trade Development Board (TDB; now IE Singapore), he created six versions of these (after his retirement in 1990), which then went on sale at TDB’s Design Centre in 1993.[^50]
   
