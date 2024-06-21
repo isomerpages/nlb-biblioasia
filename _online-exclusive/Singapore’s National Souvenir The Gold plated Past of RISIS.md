@@ -1,5 +1,5 @@
 ---
-title: “Singapore’s National Souvenir: The Gold-plated Past of RISIS”
+title:"Singapore’s National Souvenir: The Gold-plated Past of RISIS"
 permalink: /culture/2024/6/risis-gold-orchid-tourism-souvenir/
 variant: markdown
 description: ""
