@@ -68,7 +68,7 @@ During Queen Elizabeth’s inaugural visit to Singapore in February 1972, she ch
 
 In 1990, the royal consort of the Sultan of Brunei, Raja Isteri Pengiran Anak, was not just gifted a gold-plated _Dendrobium Saleha_, she was also told that if she wanted other gold-plated souvenirs for her friends, RISIS could have them made for her.[^33]
 
-<img src="/images/Online%20Only%20Articles/RISIS%20Singapore/QE2_orchids.png" style="width: 70%;">
+<img src="/images/Online%20Only%20Articles/RISIS%20Singapore/QE2_orchids2.png" style="width: 70%;">
 <div style="background-color: white;">Lord Aberconway, Britain’s Commissioner-General, presenting Queen Elizabeth with her namesake RISIS gold-plated orchids at the International Garden Festival in Liverpool in 1984.&nbsp;<i>Source: The Straits Times, 5 May 1984 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 Just as deploying the RISIS orchids enhanced Singapore’s standing, the association of the orchid with celebrities enhanced the stature of RISIS. In sending Princess Diana a RISIS brooch in December 1982, the _Singapore Monitor_ noted that “Princess Diana, whose hairstyle and taste in clothes are widely copied, may just give the RISIS orchid the boost it needs to become internationally fashionable”.[^34] Indeed, RISIS soon launched a top-of-the-line Royal RISIS collection whose prices started at $500. The collection made its debut in a 1986 Fashion Show at the York Hotel, which featured clothes by Bruce Oldfield, who was advertised as “Princess Diana’s designer”.[^35]
