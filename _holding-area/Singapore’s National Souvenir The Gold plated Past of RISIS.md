@@ -117,7 +117,7 @@ From the mid-80s, RISIS started emphasising Chinese culture in both the items so
 <div style="background-color: white;">Advertisement for the 1989 snake.&nbsp;<i>Image reproduced from “Page 5 Advertisements Column 1,” Business Times, 30 December 1988, 5. (From NewspaperSG)</i></div>
 
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/straitstimes_19891209.jpg" style="width: 75%;">
-<div style="background-color: white;">The RISIS golden horse was inspired by renowned Chinese artist Xu Beihong.&nbsp;<i>Image reproduced from “Page 3 Advertisements Column 1,” Straits Times, 9 December 1989, 3. (From NewspaperSG).</i></div>
+<div style="background-color: white;">The RISIS golden horse was inspired by renowned Chinese artist Xu Beihong.&nbsp;<i>Image reproduced from “Page 3 Advertisements Column 1,” Straits Times, 9 December 1989, 3. (From NewspaperSG)</i></div>
 
 Lee’s final animal was a gold-plated origami paper crane, which was inspired by a paper crane folding initiative by the residents of Bukit Gombak (he was chairman of the Bukit Gombak Citizen’s Consultative Committee) and his granddaughter (who had wanted a paper crane that would last). It was made of pewter and then plated with gold. With a $97,000 grant from the Trade Development Board (TDB; now IE Singapore), he created six versions of these (after his retirement in 1990), which then went on sale at TDB’s Design Centre in 1993.[^50]
   
