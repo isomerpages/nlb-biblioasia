@@ -1124,4 +1124,14 @@ sections:
       url: https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08
       alt: Greeting Card
       image: /images/Hari Raya Cards/hari raya greeting card.jpg
+  - infopic:
+      title: "Animals, Anxieties and Aspirations: Early Years of the Zoo"
+      subtitle: Local Icons
+      id: infopic
+      description: The zoo was able to overcome major setbacks in its formative years
+        to become the well-loved tourist attraction it is today.
+      button: AN ANIMAL MENAGERIE
+      url: /vol-20/issue-3/oct-dec-2024/singapore-zoo-animals/
+      image: /images/Vol 20 Issue 3/Zoo/zoo_img14.jpg
+      alt: Image alt text
 ---
