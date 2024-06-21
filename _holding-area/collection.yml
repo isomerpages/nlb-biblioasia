@@ -1,0 +1,7 @@
+collections:
+  holding-area:
+    output: true
+    order:
+      - Example Title.md
+      - Test2.md
+      - Test page.md
