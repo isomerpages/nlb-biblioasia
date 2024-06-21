@@ -27,6 +27,16 @@ sections:
       image: /images/edm_strip_survey_homepage.jpg
       alt: Image alt text
   - infopic:
+      title: "Singapore’s National Souvenir: The Gold-plated Past of RISIS"
+      subtitle: Local Icons
+      id: infopic
+      description: Much more than a tourist souvenir, Singapore’s gold-plated RISIS
+        orchids were a triumph of grit and branding.
+      button: A touch of Gold
+      url: /culture/2024/6/risis-gold-orchid-tourism-souvenir/
+      alt: Image alt text
+      image: /images/Online Only Articles/RISIS Singapore/IMG0077.jpg
+  - infopic:
       title: The Early Years of the Singapore Zoo
       subtitle: Local Icons
       id: infopic
