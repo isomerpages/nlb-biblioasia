@@ -2,8 +2,6 @@ collections:
   holding-area:
     output: true
     order:
-      - "Animals, Anxieties and Aspirations: The Earlier Years of the Singapore
-        Zoo.md"
       - Singapore’s National Souvenir The Gold plated Past of RISIS.md
       - Example Title.md
       - Test2.md
