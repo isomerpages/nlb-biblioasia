@@ -34,7 +34,7 @@ sections:
         to become the well-loved tourist attraction it is today.
       button: AN ANIMAL MENAGERIE
       url: /vol-20/issue-3/oct-dec-2024/singapore-zoo-animals/
-      image: /images/Vol 20 Issue 3/Zoo/zoo_img14.jpg
+      image: /images/Vol 20 Issue 3/Zoo/zoo_primate_topics.jpg
       alt: Image alt text
   - infopic:
       title: "Tools of the Trade: Letterpress Printing in Singapore"
