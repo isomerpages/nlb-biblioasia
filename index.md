@@ -1143,5 +1143,5 @@ sections:
       button: A touch of Gold
       url: /culture/2024/6/risis-gold-orchid-tourism-souvenir/
       alt: Image alt text
-      image: /images/Online Only Articles/RISIS Singapore/gold_plate_leaves.jpg
+      image: /images/Online Only Articles/RISIS Singapore/IMG0077.jpg
 ---
