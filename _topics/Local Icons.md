@@ -4,6 +4,13 @@ permalink: /topics/local-icons/
 description: ""
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/singapore-zoo-animals/">Animals, Anxieties and Aspirations: The Earlier Years of the Singapore Zoo</a>
+
+The zoo was able to overcome major setbacks in its formative years to become the well-loved tourist attraction it is today.
+
+<img src="/images/Vol%2020%20Issue%203/Zoo/zoo_img14.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/singapore-malaysia-johor-causeway/">The Making of the Causeway</a>
 
 When the Causeway was built 100 years ago, it was the largest engineering project to be undertaken in Malaya. Building it required overcoming significant engineering challenges.
