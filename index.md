@@ -228,7 +228,7 @@ sections:
         contributions to the nation's social and cultural landscape.
       button: An 1828 land title deed
       url: /vol-20/issue-2/jul-sep-2024/singapore-hokkien-huay-kuan-tian-hock-keng-temple/
-      image: /images/Vol 20 Issue 2/Hokkien/hokkien_img3.jpg
+      image: /images/Vol 20 Issue 2/Hokkien/hokkien_deed_topics.jpg
       alt: Image alt text
   - infopic:
       title: Unravelling the Mystery of Mee Maidin
