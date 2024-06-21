@@ -201,7 +201,7 @@ While RISIS&nbsp;continues to sell its signature gold-plated items today,&nbsp;i
 
 [^35]:  “[Risis Sparkles With a Jewelled Collection](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19860516-1.2.10.14),” _Business Times_, 16 May 1986, 3. (From NewspaperSG)
 
-[^36]:  Singapore Institute of Standards and Industrial Research, [<i>Annual Report 1978/79</i>](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308) (Singapore: The Institute), 7 (From National Library, Singapore, call no. RSING 354.5957093 SISIRA-\[AR\]); “[The 2 Millionth Visitor](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19781223-1.2.5),” _Straits Times_, 23 December 1978, 1; “[S’pore Crosses the Two Millionth Visitor Mark](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19781223-1.2.137.24.1),” _Straits Times_, 23 December 1978, 9; “[She Dines Like an Empress](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19781224-1.2.6),” _New Nation_, 24 December 1978, 2. (From NewspaperSG)
+[^36]:  Singapore Institute of Standards and Industrial Research, [<i>Annual Report 1978/79</i>](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308) (Singapore: The Institute), 7. (From National Library, Singapore, call no. RSING 354.5957093 SISIRA-\[AR\]); “[The 2 Millionth Visitor](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19781223-1.2.5),” _Straits Times_, 23 December 1978, 1; “[S’pore Crosses the Two Millionth Visitor Mark](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19781223-1.2.137.24.1),” _Straits Times_, 23 December 1978, 9; “[She Dines Like an Empress](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19781224-1.2.6),” _New Nation_, 24 December 1978, 2. (From NewspaperSG)
 
 [^37]:  Singapore Institute of Standards and Industrial Research, _[Annual Report 1979/80](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308)_ (Singapore: The Institute), 38. (From National Library, Singapore, call no. RSING 354.5957093 SISIRA-\[AR\])
 
@@ -223,7 +223,7 @@ While RISIS&nbsp;continues to sell its signature gold-plated items today,&nbsp;i
 
 [^46]:  Lee, _[A Fabulous Journey](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14651733)_, 95; “[The Risis Golden Horse Is Crafted as a Tribute to Civilisation](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19900114-1.2.48.56.5),” _Straits Times_, 14 January 1990, 56. (From NewspaperSG)
 
-[^47]:  “[Cash Carriers and Stress Relievers](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19851212-1.2.59.2),” _Business Times_, 12 December 1985, 28; _“_[Page 7 Advertisements Column 1](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19851108-1.2.89.14.1)_” Straits Times,_ 8 November 1985, 7. (From NewspaperSG)
+[^47]:  “[Cash Carriers and Stress Relievers](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19851212-1.2.59.2),” _Business Times_, 12 December 1985, 28; _“_[Page 7 Advertisements Column 1](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19851108-1.2.89.14.1)_,” Straits Times,_ 8 November 1985, 7. (From NewspaperSG)
 
 [^48]:  “[Page 5 Advertisements Column 1](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19881230-1.2.18.1),” _Business Times_, 30 December 1988, 5. (From NewspaperSG)
 
