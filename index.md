@@ -1125,7 +1125,7 @@ sections:
       alt: Greeting Card
       image: /images/Hari Raya Cards/hari raya greeting card.jpg
   - infopic:
-      title: "Animals, Anxieties and Aspirations: Early Years of the Zoo"
+      title: The Earlier Years of the Singapore Zoo
       subtitle: Local Icons
       id: infopic
       description: The zoo was able to overcome major setbacks in its formative years
