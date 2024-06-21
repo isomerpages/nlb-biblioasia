@@ -2,6 +2,7 @@ collections:
   online-exclusive:
     output: true
     order:
+      - Singapore’s National Souvenir The Gold plated Past of RISIS.md
       - "Tools of the Trade: Letterpress Printing in Singapore.md"
       - Fire Dragon Blazes Trail for Cantonese Temple in Geylang.md
       - "A Long Time Brewing: The Story of Singapore’s Beer Industry.md"
