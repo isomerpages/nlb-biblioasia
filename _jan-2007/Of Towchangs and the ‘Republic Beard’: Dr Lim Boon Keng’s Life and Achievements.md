@@ -6,6 +6,7 @@ description: A prominent pioneer of early Singapore, Dr Lim Boon Keng was an
   accomplished businessman and doctor. He also contributed his time and efforts
   to resolve various issues faced by the Chinese community during the colonial
   times.
+variant: markdown
 ---
 #### A prominent pioneer of early Singapore, Dr Lim Boon Keng was an accomplished businessman and doctor. He also contributed his time and efforts to resolve various issues faced by the Chinese community during the colonial times.
 
@@ -33,7 +34,7 @@ His contributions to the medical field extended beyond Singapore shores. Apart f
 In 1895, at a young age of 26, Dr Lim was appointed as a Chinese member of the Straits Settlements Legislative Council. For more than 10 years, he was nominated repeatedly for this position. For several years, he also served as a Justice of Peace, a Municipal Commissioner and a member of the Chinese Advisory Board. He was also very active in participating in major events related to the British colonial government, attending the coronation of King Edward VII and King George V in 1902 and 1911 respectively (Song, 1984). He even wrote an article about the Diamond Jubilee in the *Straits Chinese Magazine* in 1897.
 
 #### **Lim Boon Keng, The Businessman**
-Lim Boon Keng's business acumen led him to initiate rubber planting in Malaya, after listening to the advice of Henry Nicholas Ridley, then the Director of the Singapore Botanic Gardens. Believing that there would be good prospects for this business venture, Dr Lim pioneered large-scale rubber planting with Mr Tan Chay Van of Malacca. Those who heeded his call to start rubber plantations enjoyed a booming success.
+Lim Boon Keng's business acumen led him to initiate rubber planting in Malaya, after listening to the advice of Henry Nicholas Ridley, then the Director of the Singapore Botanic Gardens. Believing that there would be good prospects for this business venture, Dr Lim pioneered large-scale rubber planting with Mr Tan Chay Yan of Malacca. Those who heeded his call to start rubber plantations enjoyed a booming success.
 
 The accomplished businessman also helped to establish the Singapore Chinese Chamber of Commerce in 1906, joining the Chamber as a member. He also established three banks with other prominent Straits Chinese: the Chinese Commercial Bank, the Ho Hong Bank and the Oversea-Chinese Bank.
 
@@ -145,6 +146,11 @@ Song, Ong Siang, [_One Hundred Years' History of the Chinese in Singapore_](http
 Tan Yeok Seong, [_History of the Formation of the Oversea Chinese Association and the Extortion by J.M.A. of $50,000,000 Military Contribution From the Chinese in Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4412532) (Singapore: Nanyang Book Co., 1947). (Call no. RDTYS 940.53109595 TAN)
 
 Ye Guan Shi 叶观仕, _Ma xin bao ren lu (1806–2000)_ [马新报人录 (1806–2000)](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9841126) \[Who's who in the press, Malaysia &amp; Singapore (1806–2000)\] (\[Place of publication not identified\] \[S.l.\]: Ming ren chu ban she 名人出版社, 1999), 27. (Call no. Chinese RSING q 070.922595 WHO)
+
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Vol%202%20Issue%204/LimBoonKeng/Ang_Seow_Leng_profile.png">
+	<b>Ang Seow Leng</b> is a Senior Reference Librarian at the Lee Kong Chian Reference Library.</div>
 
 #### **NOTES**
 	
