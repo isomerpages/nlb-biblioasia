@@ -147,6 +147,11 @@ Tan Yeok Seong, [_History of the Formation of the Oversea Chinese Association an
 
 Ye Guan Shi 叶观仕, _Ma xin bao ren lu (1806–2000)_ [马新报人录 (1806–2000)](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9841126) \[Who's who in the press, Malaysia &amp; Singapore (1806–2000)\] (\[Place of publication not identified\] \[S.l.\]: Ming ren chu ban she 名人出版社, 1999), 27. (Call no. Chinese RSING q 070.922595 WHO)
 
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Vol%202%20Issue%204/LimBoonKeng/Ang_Seow_Leng_profile.png">
+	<b>Ang Seow Leng</b>is a Senior Reference Librarian at the Lee Kong Chian Reference Library.</div>
+
 #### **NOTES**
 	
 [^1]: _Kempetai_ was the military police of the Imperial Japanese Army.
