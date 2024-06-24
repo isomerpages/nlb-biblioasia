@@ -150,7 +150,7 @@ Ye Guan Shi 叶观仕, _Ma xin bao ren lu (1806–2000)_ [马新报人录 (1806�
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Vol%202%20Issue%204/LimBoonKeng/Ang_Seow_Leng_profile.png">
-	<b>Ang Seow Leng</b>is a Senior Reference Librarian at the Lee Kong Chian Reference Library.</div>
+	<b>Ang Seow Leng</b> is a Senior Reference Librarian at the Lee Kong Chian Reference Library.</div>
 
 #### **NOTES**
 	
