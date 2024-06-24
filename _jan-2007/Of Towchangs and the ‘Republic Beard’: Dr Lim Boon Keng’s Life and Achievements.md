@@ -9,6 +9,7 @@ description: A prominent pioneer of early Singapore, Dr Lim Boon Keng was an
 variant: markdown
 ---
 #### A prominent pioneer of early Singapore, Dr Lim Boon Keng was an accomplished businessman and doctor. He also contributed his time and efforts to resolve various issues faced by the Chinese community during the colonial times.
+By Ang Seow Leng
 
 <img src="/images/Vol%202%20Issue%204/LimBoonKeng/lim%20boon%20keng%20singapore%20chronicles.jpg" style="width:50%;">
  <div style="background-color: white;">Dr Lim Book Keng.<i> All rights reserved. Illustrated Magazine Pub., 1995.</i></div>
