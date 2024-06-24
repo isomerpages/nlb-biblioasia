@@ -9,14 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-20/issue-2/jul-sep-2024/emily-of-emerald-hill-stella-kon/
-      button: "From Betty of Balmoral Road to Emily of Emerald Hill: A New Look At
-        Stella Kon’s Classic Play"
+      url: /vol-20/issue-2/jul-sep-2024/singapore-malaysia-johor-causeway/
+      button: The Making of the Causeway
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 20 Issue 2/Emily/Hero_img_Emily.jpg
+      background: /images/Vol 20 Issue 2/Causeaway/HeroImage_causeway.jpg
   - infopic:
       title: Have Your Say
       subtitle: Readership Survey
@@ -33,7 +32,7 @@ sections:
       description: Much more than a tourist souvenir, Singapore’s gold-plated RISIS
         orchids were a triumph of grit and branding.
       button: A touch of Gold
-      url: /culture/2024/6/risis-gold-orchid-tourism-souvenir/
+      url: /localicons/2024/6/risis-gold-orchid-tourism-souvenir/
       alt: Image alt text
       image: /images/Online Only Articles/RISIS Singapore/IMG0077.jpg
   - infopic:

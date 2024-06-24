@@ -4,6 +4,13 @@ permalink: /topics/local-icons/
 description: ""
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/localicons/2024/6/risis-gold-orchid-tourism-souvenir/">Singapore’s National Souvenir: The Gold-plated Past of RISIS</a>
+
+The zoo was able to overcome major setbacks in its formative years to become the well-loved tourist attraction it is today.
+
+<img src="/images/Online%20Only%20Articles/RISIS%20Singapore/IMG0077.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/singapore-zoo-animals/">Animals, Anxieties and Aspirations: The Earlier Years of the Singapore Zoo</a>
 
 The zoo was able to overcome major setbacks in its formative years to become the well-loved tourist attraction it is today.
