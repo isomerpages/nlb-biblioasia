@@ -118,6 +118,11 @@ On 1 Jan 1957, Dr Lim Boon Keng passed away peacefully at 5.46am. His passing ma
 **Book Launch** (24 January 2007)<br> Conference: Lim Boon Keng and the Straits Chinese: There will be a book launch of the republished edition of Dr Lim Boon Keng's seminal work, *The Chinese Crisis from Within*. <br> <br>**Musical** (24 January 2007)<br> A half-hour programme of songs from the musical One Voice by Stella Kon will be presented on the day of the book launch. It was inspired by the life and times of Dr Lim Boon Keng. Stella Kon will introduce the musical, which she wrote in tribute to her great-grandfather, Dr Lim.<br><br>  **Exhibition: Lim Boon Keng: A Life to Remember** (24 January 2007 - 18 March 2007)<br> This exhibition will feature the multi-faceted life of Dr Lim, and present issues on the identity, ideals and social problems of Singapore and Chinese society during his lifetime.<br><br> **Conference: Lim Boon Keng and the Straits Chinese: A Historical Reappraisal** (27 January 2007)<br>
 At a full-day conference held at the National Library, academics will present their research on Dr Lim and the Straits Chinese. Associate Professor Philip Holden will start with a biographical account of the pioneer, and this will be followed by two sessions on Dr Lim and his times, as well as issues on Straits Chinese history. Associate Professor Lee Guan Kin will also deliver a public lecture in Mandarin, covering "The Boon Keng Pavilion at Xiamen University: History Recovered, Nanyang Link Reconnected". There will be a simultaneous translation in English for her lecture.
 
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Vol%202%20Issue%204/LimBoonKeng/Ang_Seow_Leng_profile.png">
+	<b>Ang Seow Leng</b> is a Senior Reference Librarian at the Lee Kong Chian Reference Library.</div>
+
 #### **REFERENCES**
 “Chinese Christian Association,” [_Straits Chinese Magazine_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5813779) 2, no. 7 (September1989): 124. (Call no. RRARE 959.5 STR; microfilm NL267)
 
@@ -146,11 +151,6 @@ Song, Ong Siang, [_One Hundred Years' History of the Chinese in Singapore_](http
 Tan Yeok Seong, [_History of the Formation of the Oversea Chinese Association and the Extortion by J.M.A. of $50,000,000 Military Contribution From the Chinese in Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4412532) (Singapore: Nanyang Book Co., 1947). (Call no. RDTYS 940.53109595 TAN)
 
 Ye Guan Shi 叶观仕, _Ma xin bao ren lu (1806–2000)_ [马新报人录 (1806–2000)](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9841126) \[Who's who in the press, Malaysia &amp; Singapore (1806–2000)\] (\[Place of publication not identified\] \[S.l.\]: Ming ren chu ban she 名人出版社, 1999), 27. (Call no. Chinese RSING q 070.922595 WHO)
-
-<div style="background-color: white;">
-<br>
-<img style="width: 100px; height: 100px;" src="/images/Vol%202%20Issue%204/LimBoonKeng/Ang_Seow_Leng_profile.png">
-	<b>Ang Seow Leng</b> is a Senior Reference Librarian at the Lee Kong Chian Reference Library.</div>
 
 #### **NOTES**
 	
