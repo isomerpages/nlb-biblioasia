@@ -33,7 +33,7 @@ sections:
       description: Much more than a tourist souvenir, Singapore’s gold-plated RISIS
         orchids were a triumph of grit and branding.
       button: A touch of Gold
-      url: /culture/2024/6/risis-gold-orchid-tourism-souvenir/
+      url: /localicons/2024/6/risis-gold-orchid-tourism-souvenir/
       alt: Image alt text
       image: /images/Online Only Articles/RISIS Singapore/IMG0077.jpg
   - infopic:
