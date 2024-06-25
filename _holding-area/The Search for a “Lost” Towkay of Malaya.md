@@ -67,4 +67,28 @@ A collection of the business records of Phan Kim Sam and Thye Seng can be found 
 
 #### **Notes**
 
-[^1]: 
+[^1]:
+
+[^2]:
+
+[^3]:
+
+[^4]:
+
+[^5]:
+
+[^6]:
+
+[^7]:
+
+[^8]:
+
+[^9]:
+
+[^10]:
+
+[^11]:
+
+[^12]:
+
+[^13]:
