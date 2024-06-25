@@ -59,7 +59,7 @@ sections:
       title: Fire Dragon Blazes Trail for Cantonese Temple in Geylang
       subtitle: Culture
       id: infopic
-      description: Mun San Fook Tuck Chee Temple is the guardian of the Fire Dragon in
+      description: Mun San Fook Tuck Chee Temple is the home of the Fire Dragon in
         Singapore.
       button: Dance of a dragon
       url: /culture/2024/6/dragon-dance-chinese-temple-vanishing-trade/

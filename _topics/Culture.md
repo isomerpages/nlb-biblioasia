@@ -6,7 +6,7 @@ variant: markdown
 ---
 #### <a style="text-decoration: none; font-weight: bold;" href="/culture/2024/6/dragon-dance-chinese-temple-vanishing-trade/">Fire Dragon Blazes Trail for Cantonese Temple in Geylang</a>
 
-Mun San Fook Tuck Chee Temple is the guardian of the Fire Dragon in Singapore.
+Mun San Fook Tuck Chee Temple is the home of the Fire Dragon in Singapore.
 
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Fire_dragon_paraded_Sims_Drive.jpg" style="width:80%;">  
 <hr>
