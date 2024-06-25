@@ -6,7 +6,7 @@ description: Cantonese Fire Dragon
 image: /images/Online Only Articles/Cantonese Fire
   Dragon/Suspended_body_of_fire_dragon_at_the_Sar_Kong_Heritage_Room.jpg
 ---
-#### **Mun San Fook Tuck Chee Temple is the guardian of the Fire Dragon in Singapore.**
+#### **Mun San Fook Tuck Chee Temple is the home of the Fire Dragon in Singapore.**
 By Angela Sim
 
 Dragons are known to breathe fire but one particular dragon, seen every three years in Singapore, does something even more dramatic – it eventually becomes engulfed in flames.
