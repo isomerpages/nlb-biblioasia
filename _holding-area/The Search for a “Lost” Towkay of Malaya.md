@@ -10,11 +10,11 @@ description: The writer’s attempt to trace the contours of his grandfather’s
 
 By Phan Ming Yen
 
-It all started with a name on a torn envelope postmarked 15 March 1928: 탸쏩힛.1 My brother and I came across the envelope in the breast pocket of what appeared to be workman’s clothes, which I was about to discard until my brother thought it wise to check the pockets first. Imprinted on the clothes, too, were the initials “P K S”. 
+It all started with a name on a torn envelope postmarked 15 March 1928: 潘锦三.1 My brother and I came across the envelope in the breast pocket of what appeared to be workman’s clothes, which I was about to discard until my brother thought it wise to check the pockets first. Imprinted on the clothes, too, were the initials “P K S”. 
 
 We had found these garments while packing the family house in early 2023, a pre-World War II shophouse in the former tin mining town of Kampar in Kinta Valley, Perak, Malaysia. We had started with the first cupboard that was accessible to us in the largest bedroom in the house. These clothes were among the first items we found. The shophouse had not been inhabited since our ageing aunt moved to Kuala Lumpur two years before the pandemic to be with our cousin. They are the two sole surviving members from our paternal side of the family.
 
-The family name on the envelope was ours: 탸. But we did not recognise the given name 쏩힛. Also written on the envelope were the Chinese characters 揭佳, 쏜괜. The first two characters, 揭佳, was Thye Seng,2 which was the name of the tin-ore dealing3 business that our grandfather had founded in prewar Kampar (쏜괜). 
+The family name on the envelope was ours: 潘. But we did not recognise the given name 锦三. Also written on the envelope were the Chinese characters 泰盛, 金宝. The first two characters, 揭佳, was Thye Seng,2 which was the name of the tin-ore dealing3 business that our grandfather had founded in prewar Kampar (쏜괜). 
 
 He had died from an aneurysm two years before the outbreak of the war, so we had been told. He had plans to bring the family of nine children back to China, having built a huge house in his birthplace, Meixian (첨群) in Guangdong province, with the money he made in Malaya.
 
