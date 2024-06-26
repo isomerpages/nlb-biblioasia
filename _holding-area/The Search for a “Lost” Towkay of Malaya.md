@@ -83,19 +83,19 @@ Ascertaining that 潘锦三 and 潘扬昌 were one and the same in a written doc
 ![](/images/Vol%2020%20Issue%203/Lost%20Towkay/towkay_img11.jpg)
 <div style="background-color: white;"> The envelope containing Phan Kim Sam’s death certificate. <i>Courtesy of the Family of Phan Kim Sam and Choo Yang Yung. </i></div>
 
-![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img7-.jpg)
+![](/images/Vol%2020%20Issue%203/Lost%20Towkay/towkay_img12.jpg)
 <div style="background-color: white;"> The death certificate of Phan Kim Sam who died on 2 February 1939.<i>Courtesy of the Family of Phan Kim Sam and Choo Yang Yung. </i></div>
 
 Fong Kam Sum’s age was recorded as being 65, and the cause of death written in two hands: the first, _demam panas_, which could be translated as “high fever”, and the second is “myocarditis”. Oddly enough, for his occupation, it was recorded as _jaga rumah_ or “watchman”. My grandfather was not a watchman but it is possible that the person who reported Phan’s death assumed the official recording the matter was asking for his occupation rather than Phan’s.&nbsp;
 
 Relief came when a grant of probate was found in an old leather briefcase with the following name and aliases: “Phan Yeong alias Phan Yong alias Phan Kim Sam alias Fong Kam Sum”. Phan’s will begins with “I, Phan Yeong alias Phan Kim Sam of Kampar in the State of Perak hereby revoke all former wills codicils and testamentary dispositions made by me and declare that this is my last will and testament”.[^11]&nbsp;
 
-![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img7-.jpg)
+![](/images/Vol%2020%20Issue%203/Lost%20Towkay/towkay_img13.jpg)
 <div style="background-color: white;"> Phan Kim Sam’s grant of probate, dated 12 July 1939, legally recognised his wife Choo Yang Yung as the executor of his estate. <i>Courtesy of the Family of Phan Kim Sam and Choo Yang Yung. </i></div>
 
 The will also named our grandmother, Choo Yang Yung, as executor and trustee, and our father as his natural born son. 潘锦三 was, therefore, most likely the courtesy name – a name bestowed upon one at adulthood in addition to one’s given name[^12] – of 潘扬昌.
 
-![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img7-.jpg)
+![](/images/Vol%2020%20Issue%203/Lost%20Towkay/towkay_img14.jpg)
 <div style="background-color: white;"> Phan Kim Sam’s will named his wife, Choo Yang Yung, as the executor and trustee of his estate. <i>Courtesy of the Family of Phan Kim Sam and Choo Yang Yung. </i></div>
 
 The search for more details on the life, activities and contributions of my grandfather and his subsequent impact on the community around him continues. There was a recent talk on small towns in 1930s Malaya co-organised by New Era University College (NEUC) and my family. It was held at our shophouse – which we have since restored as a heritage, event and creative residency space.[^13] At the talk, we learned that research by a NEUC doctoral candidate on the prewar history of Kampar had unearthed more information in official documents of a tin miner called Phan Sam, likely to be an early diminutive of Phan Kim Sam.&nbsp;
