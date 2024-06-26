@@ -80,6 +80,12 @@ We spent the next few months searching for written evidence that 潘锦三 and �
 
 Ascertaining that 潘锦三 and 潘扬昌 were one and the same in a written document was another matter. Our father’s birth certificate showed _his_ father to be “Fon Yong”.&nbsp; A subsequent discovery of an envelope that contained a death certificate was marked with the name “潘扬昌” with the English words “Death Report – Fong Kam Sum decd”, the name as recorded on the certificate itself.[^10]&nbsp;
 
+![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img7-.jpg)
+<div style="background-color: white;"> The envelope containing Phan Kim Sam’s death certificate. <i>Courtesy of the Family of Phan Kim Sam and Choo Yang Yung. </i></div>
+
+![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img7-.jpg)
+<div style="background-color: white;"> The death certificate of Phan Kim Sam who died on 2 February 1939.<i>Courtesy of the Family of Phan Kim Sam and Choo Yang Yung. </i></div>
+
 Fong Kam Sum’s age was recorded as being 65, and the cause of death written in two hands: the first, _demam panas_, which could be translated as “high fever”, and the second is “myocarditis”. Oddly enough, for his occupation, it was recorded as _jaga rumah_ or “watchman”. My grandfather was not a watchman but it is possible that the person who reported Phan’s death assumed the official recording the matter was asking for his occupation rather than Phan’s.&nbsp;
 
 Relief came when a grant of probate was found in an old leather briefcase with the following name and aliases: “Phan Yeong alias Phan Yong alias Phan Kim Sam alias Fong Kam Sum”. Phan’s will begins with “I, Phan Yeong alias Phan Kim Sam of Kampar in the State of Perak hereby revoke all former wills codicils and testamentary dispositions made by me and declare that this is my last will and testament”.[^11]&nbsp;
