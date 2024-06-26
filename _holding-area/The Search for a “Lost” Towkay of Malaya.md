@@ -36,6 +36,15 @@ The family name on the envelope was ours: 潘. But we did not recognise the give
 ![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img7-.jpg)
 <div style="background-color: white;"> A page from a “Daily Ore Licencees Stock Book” detailing the amount of tin ore stored in the shop belonging to licensees as at 29 February 1972. <i>Courtesy of the Family of Phan Kim Sam and Choo Yang Yung. </i></div>
 
+
+![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img7-.jpg)
+<div style="background-color: white;"> Receipts from Eastern Smelting Company Limited and The Straits Trading Co., Ltd. dated 17 January 1953 and 19 December 1953 respectively. <i>Courtesy of the Family of Phan Kim Sam and Choo Yang Yung. </i></div>
+
+
+![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img7-.jpg)
+<div style="background-color: white;"> The acknowledgement for the delivery of a safe dated 24 September 1917. The safe remains in the shophouse today. <i>Courtesy of the Family of Phan Kim Sam and Choo Yang Yung.</i></div>
+
+
 He had died from an aneurysm two years before the outbreak of the war, so we had been told. He had plans to bring the family of nine children back to China, having built a huge house in his birthplace, Meixian (梅县) in Guangdong province, with the money he made in Malaya.
 
 Our grandfather’s name was 潘扬昌. That was the name on the ancestral tablet at home and on his tombstone. It was the name our mother knew him by and it was also the name whom our cousin, who had lived in the shophouse in the late 1950s, was familiar with. None of them had ever heard of the name 潘锦三. Our aunt, now 94, is stricken with dementia.&nbsp;
