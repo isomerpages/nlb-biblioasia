@@ -113,7 +113,7 @@ A collection of the business records of Phan Kim Sam and Thye Seng can be found 
 			
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/LimTinSeng.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/PhanMingYen.png">
 	<b>Phan Ming Yen</b> is an independent writer, researcher and producer. A former journalist and arts manager, his current areas of research are on the Malayan Campaign and Japanese Occupation in Singapore. He has written about 19th-century music in Singapore and also on the Syonan Symphony Orchestra during the Occupation. </div>
 
 #### **Notes**
