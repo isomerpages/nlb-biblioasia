@@ -4,6 +4,7 @@ permalink: /vol-6/issue-2/jul-2010/journey-story-past-future/
 description: An edited transcript of Minister George Yeo’s opening speech at the
   launch of the exhibition and conference “Rihlah – Arabs in Southeast Asia”
   held on 10 April 2010.
+variant: markdown
 ---
 #### An edited transcript of Minister George Yeo’s opening speech at the launch of the exhibition and conference “Rihlah – Arabs in Southeast Asia” held on 10 April 2010.
 
@@ -58,8 +59,6 @@ But the Arabs who came here were mostly traders and religious teachers. And beca
 I think it is wonderful how the National Library Board, not just providing reference and lending services, has also taken upon itself the telling of stories, stories about different groups who have plied these waterways from the beginning of time, and whose activities are what makes Singapore what it is today. Thank you.
 
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>“Rihlah – Arabs in Southeast Asia” exhibition</b><br><br>On public display for the first time are photographs and artefacts such as treasures from ancient shipwrecks in the region, to rare musical instruments and personal documents telling the story of the migrations of Arabs of Southeast Asia.
-
-Visit <a href="rihlah.nl.sg">rihlah.nl.sg</a> for more details.
 
 Commentaries on the two publications released in conjunction with the exhibition are published on pages 24 and 31 of this issue.
 </div>
