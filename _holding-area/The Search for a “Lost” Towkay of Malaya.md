@@ -100,4 +100,4 @@ A collection of the business records of Phan Kim Sam and Thye Seng can be found 
 [^12]: “Courtesy Name,” My China Roots, last accessed 4 June 2024, https://www.mychinaroots.com/wiki/article/courtesy.&nbsp;
 
 
-[^13]:揭佳具쵠듦看곗쉿林럽壇훑죠댔芚匡論畇鱗壘뒈왕쇌 \[Thye Seng store’s first lecture received an enthusiastic response and created a literary and artistic writing resident space\], _Sin Chew Jit Poh_, 7 May 2024, https://perak.sinchew.com.my/news/20240507/perak/5589314.
+[^13]:泰盛锡米店首办讲座反应热烈打造文艺写作驻地空间 \[Thye Seng store’s first lecture received an enthusiastic response and created a literary and artistic writing resident space\], _Sin Chew Jit Poh_, 7 May 2024, https://perak.sinchew.com.my/news/20240507/perak/5589314.
