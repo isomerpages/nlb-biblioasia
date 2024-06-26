@@ -11,7 +11,7 @@ description: The writer’s attempt to trace the contours of his grandfather’s
 By Phan Ming Yen
 
 ![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img7-.jpg)
-<div style="background-color: white;"> A screengrab from Health Promotion Board’s “Greater Singapore Workout” video showing instructors performing “The Kiasu Chope” move, 2018. <i>Image from “National Steps Challenge</i>™ <i>Presents The Greater Singapore Workout!” hpbsg, 11 November 2018, YouTube video, 5:53.</i></div>
+<div style="background-color: white;"> Portrait of Phan Kim Sam, 19xx. <i>Courtesy of the Family of Phan Kim Sam and Choo Yang Yung. </i></div>
 
 
 It all started with a name on a torn envelope postmarked 15 March 1928: 潘锦三.[^1] My brother and I came across the envelope in the breast pocket of what appeared to be workman’s clothes, which I was about to discard until my brother thought it wise to check the pockets first. Imprinted on the clothes, too, were the initials “P K S”.&nbsp;
