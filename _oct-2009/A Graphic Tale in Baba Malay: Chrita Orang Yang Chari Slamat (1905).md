@@ -101,7 +101,7 @@ By 1917, however, translation work and ministry took its toll on Shellabear and 
 
 The story does not end here. In 1955, eight years after Shellabear’s death, his son-in-law R.A. Blasdell continued the family tradition and published a higher Malay version of *Pilgrim’s Progress* as *Cherita Darihal Orang Yang Menchari Selamat* (1955) (“The Story of One Seeking Salvation”).
 
-*Chrita Orang Yang Chari Slamat* is part of the Rare Book Collection in the National Library Singapore. It has been digitised and can be found online at <a href="[National Library Online](https://www.nlb.gov.sg/main/home)">BookSG</a> or at the Lee Kong Chian Reference Library on microfilm NL8790.
+*Chrita Orang Yang Chari Slamat* is part of the Rare Book Collection in the National Library Singapore. It has been digitised and can be found online at <a href="https://www.nlb.gov.sg/main/home">National Library Online</a> or at the Lee Kong Chian Reference Library on microfilm NL8790.
 
 <i>The author wishes to acknowledge the invaluable help of Dr Robert Hunt who pointed to details of Shellabear’s life and publications and provided access to unpublished materials.</i>
 
