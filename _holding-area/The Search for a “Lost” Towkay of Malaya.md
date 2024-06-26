@@ -57,8 +57,9 @@ Perhaps this venture into the foreign country of one’s past is also a reminder
 _The author thanks Phan Ming Ruey, Mdm Lau Foong Kheng, Lee Ee Pieu, Dr Wong Yee Tuan, Jacky Chew, Chai Wei Sin, Chanel Pong, Ansell Tan and Sun Yu-li for insights into the history of Phan Kim Sam and Thye Seng. Thye Seng at 105 Jalan Gopeng, Kampar, Malaysia, is open to visitors by appointment. Contact the Phan family at rueyphan@yahoo.com for more information._
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
-A collection of the business records of Phan Kim Sam and Thye Seng can be found in a donation from the Family of Phan Kim Sam and Choo Yang Yung at the National Library. Members of the public can make a request to view the materials via email at ref@nlb.gov.sg or at the reference counter on Level 11 of the Lee Kong Chian Reference Library, National Library Building.
+A collection of the business records of Phan Kim Sam and Thye Seng can be found in a donation from the Family of Phan Kim Sam and Choo Yang Yung at the National Library. Members of the public can make a request to view the materials via email at <a href="mailto:ref@nlb.gov.sg">ref@nlb.gov.sg</a> or at the reference counter on Level 11 of the Lee Kong Chian Reference Library, National Library Building.
 </div>
+			
 			
 <div style="background-color: white;">
 <br>
@@ -71,18 +72,18 @@ A collection of the business records of Phan Kim Sam and Thye Seng can be found 
 
 [^2]:  See “Registration of Business Enactment 1939” dated 28 May 1940. Thye Seng was founded in 1913.
 
-[^3]:   Yip Yat Hoong, _The Development of the Tin Mining Industry of Malaya_ (Kuala Lumpur: University of Malaya Press, 1969), 29–32. (From National Library, Singapore, call no. RCLOS 338.27453 YIP). One of the main features of the tin-ore dealing business was that of tin-ore dealers giving loans to marginal miners. These miners in return would sell the concentrates from their mines to the dealer in settlement of outstanding debts. The tin-ore dealer then acted as an agent for these miners, selling the tin-ore to either The Straits Trading Co., Ltd. or the Eastern Smelting Company Limited for smelting and refining.&nbsp;
+[^3]:   Yip Yat Hoong, _[The Development of the Tin Mining Industry of Malaya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4181697) (Kuala Lumpur: University of Malaya Press, 1969), 29–32. (From National Library, Singapore, call no. RCLOS 338.27453 YIP). One of the main features of the tin-ore dealing business was that of tin-ore dealers giving loans to marginal miners. These miners in return would sell the concentrates from their mines to the dealer in settlement of outstanding debts. The tin-ore dealer then acted as an agent for these miners, selling the tin-ore to either The Straits Trading Co., Ltd. or the Eastern Smelting Company Limited for smelting and refining.&nbsp;
 
 [^4]: Phan Kim Sam’s death certificate states that he had been residing in Malaya for 30 years at the time of his death.&nbsp; Research is still ongoing to ascertain his exact date of arrival in Malaya.&nbsp;
 
 
-[^5]: Yip, _The Development of the Tin Mining Industry of Malaya_, 29–32.
+[^5]: Yip, [_The Development of the Tin Mining Industry of Malaya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4181697), 29–32.
 
 
-[^6]: The quote “The past is a foreign country” is the opening line of novelist L.P. Hartley’s (1895–1972) novel, _The Go-Between_, published in 1953. See L.P. Hartley, _The Go-Between_ (London: Penguin, 2020). (From National Library, Singapore, call no. HAR)&nbsp;
+[^6]: The quote “The past is a foreign country” is the opening line of novelist L.P. Hartley’s (1895–1972) novel, [_The Go-Between_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=204086686), published in 1953. See L.P. Hartley, _The Go-Between_ (London: Penguin, 2020). (From National Library, Singapore, call no. HAR)&nbsp;
 
 
-[^7]: “Funeral of a Kampar Towkay,” _Pinang Gazette and Straits Chronicle_, 10 February 1939, 2. (From NewspaperSG) &nbsp;
+[^7]: “[Funeral of a Kampar Towkay](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19390210-1.2.31),” _Pinang Gazette and Straits Chronicle_, 10 February 1939, 2. (From NewspaperSG) &nbsp;
 
 
 [^8]: Little is known about Phan Kim Sam’s first two wives other than their family name. It is the author’s conjecture that the eldest of the three wives could have passed on by the time of his grandfather’s death in 1939.&nbsp;
