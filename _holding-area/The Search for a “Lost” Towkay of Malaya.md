@@ -80,7 +80,7 @@ We spent the next few months searching for written evidence that 潘锦三 and �
 
 Ascertaining that 潘锦三 and 潘扬昌 were one and the same in a written document was another matter. Our father’s birth certificate showed _his_ father to be “Fon Yong”.&nbsp; A subsequent discovery of an envelope that contained a death certificate was marked with the name “潘扬昌” with the English words “Death Report – Fong Kam Sum decd”, the name as recorded on the certificate itself.[^10]&nbsp;
 
-![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img7-.jpg)
+![](/images/Vol%2020%20Issue%203/Lost%20Towkay/towkay_img11.jpg)
 <div style="background-color: white;"> The envelope containing Phan Kim Sam’s death certificate. <i>Courtesy of the Family of Phan Kim Sam and Choo Yang Yung. </i></div>
 
 ![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img7-.jpg)
