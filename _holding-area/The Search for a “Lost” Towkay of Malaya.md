@@ -36,15 +36,15 @@ The family name on the envelope was ours: 潘. But we did not recognise the give
 <div style="background-color: white;"> The business registration record of Thye Seng dated 28 May 1940. <i>Courtesy of the Family of Phan Kim Sam and Choo Yang Yung. </i></div>
 
 
-![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img7-.jpg)
+![](/images/Vol%2020%20Issue%203/Lost%20Towkay/towkay_img6.jpg)
 <div style="background-color: white;"> A page from a “Daily Ore Licencees Stock Book” detailing the amount of tin ore stored in the shop belonging to licensees as at 29 February 1972. <i>Courtesy of the Family of Phan Kim Sam and Choo Yang Yung. </i></div>
 
 
-![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img7-.jpg)
+![](/images/Vol%2020%20Issue%203/Lost%20Towkay/towkay_img7.jpg)
 <div style="background-color: white;"> Receipts from Eastern Smelting Company Limited and The Straits Trading Co., Ltd. dated 17 January 1953 and 19 December 1953 respectively. <i>Courtesy of the Family of Phan Kim Sam and Choo Yang Yung. </i></div>
 
 
-![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img7-.jpg)
+![](/images/Vol%2020%20Issue%203/Lost%20Towkay/towkay_img8.jpg)
 <div style="background-color: white;"> The acknowledgement for the delivery of a safe dated 24 September 1917. The safe remains in the shophouse today. <i>Courtesy of the Family of Phan Kim Sam and Choo Yang Yung.</i></div>
 
 
