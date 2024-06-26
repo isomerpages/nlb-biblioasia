@@ -10,7 +10,7 @@ description: The writer’s attempt to trace the contours of his grandfather’s
 
 By Phan Ming Yen
 
-![](/images/Vol%2020%20Issue%203/Lost%20Towkay/towkay_img1.jpg)
+![](/images/Vol%2020%20Issue%203/Lost%20Towkay/towkay_img1a.jpg)
 <div style="background-color: white;"> Portrait of Phan Kim Sam, 19xx. <i>Courtesy of the Family of Phan Kim Sam and Choo Yang Yung. </i></div>
 
 
