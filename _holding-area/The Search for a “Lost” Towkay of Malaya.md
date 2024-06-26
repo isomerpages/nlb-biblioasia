@@ -29,6 +29,10 @@ The family name on the envelope was ours: 潘. But we did not recognise the give
 
 
 ![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img7-.jpg)
+<div style="background-color: white;"> A page from a “Daily Ore Licencees Stock Book” detailing the amount of tin ore stored in the shop belonging to licensees as at 29 February 1972. <i>Courtesy of the Family of Phan Kim Sam and Choo Yang Yung. </i></div>
+
+
+![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img7-.jpg)
 <div style="background-color: white;"> The interior of Thye Seng, the tin-ore dealing business that Phan Kim Sam founded in Kampar, Perak, before World War II. The shophouse has been restored as a heritage, event and creative residency space, 2024. <i>Courtesy of Phan Ming Ruey. </i></div>
 
 
