@@ -4,6 +4,7 @@ title: "Creating the Right Environment: Poster Collection at the Lee Kong Chian
 permalink: /vol-3/issue2/jul-2007/poster-collection-right-environment/
 description: Comprising more than 4,000 posters from the 1960s, the poster
   collection covers a broad spectrum of topics relating to Singapore.
+variant: markdown
 ---
 #### Comprising more than 4,000 posters from the 1960s, the poster collection covers a broad spectrum of topics relating to Singapore.
 
@@ -95,7 +96,7 @@ In 1999, the National Library Board and then Ministry of Information and the Art
 
 #### **How You Can Contribute**
 
-The poster collection at the Lee Kong Chian Reference Library is built largely through the act of legal deposit, gifts and donations. Though the collection currently stands at a modest 4,000 item, we continually seek to acquire and preserve historical and cultural documents of value to future generations of Singaporeans. As such, we welcome donations and gifts of Singapore posters of all kinds. These include campaign posters, event posters, movie posters, concert posters, play posters, dance posters, political posters and others. If you or your organisation would like to deposit your posters with us, please contact Ms Nazeerah Gopaul, Senior Librarian, Professional Services at <a href="nazeerah@nlb.gov.sg">nazeerah@nlb.gov.sg</a>. For enquiries on our poster collection or other topics, you may contact our reference librarians at <a href="https://reference.nlb.gov.sg/">https://reference.nlb.gov.sg/</a>.
+The poster collection at the Lee Kong Chian Reference Library is built largely through the act of legal deposit, gifts and donations. Though the collection currently stands at a modest 4,000 item, we continually seek to acquire and preserve historical and cultural documents of value to future generations of Singaporeans. As such, we welcome donations and gifts of Singapore posters of all kinds. These include campaign posters, event posters, movie posters, concert posters, play posters, dance posters, political posters and others. If you or your organisation would like to deposit your posters with us, please email Reference@NLB: ref@nlb.gov.sg.
 
 <br>
 <div style="background-color: white;">
