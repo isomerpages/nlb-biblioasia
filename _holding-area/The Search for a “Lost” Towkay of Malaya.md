@@ -75,6 +75,9 @@ We discovered that “Phan Kim Sam” shared a number of similarities with our g
 
 We spent the next few months searching for written evidence that 潘锦三 and 潘扬昌 were the same person. It was a search that also uncovered close to a century of business and other documents pertaining to my grandfather’s company, Thye Seng: volumes of ledger books dating back to the 1920s that documented daily transactions and the names of those whom the family had business with, shares in tin mines prior to the war, receipts of sales and purchase, and invoices. The earliest record we found dates to 1917 for the purchase and delivery of a safe, which still remains in the shophouse today.
 
+![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img7-.jpg)
+<div style="background-color: white;"> An entry in a ledger book from January/February 1922, documenting transactions with 實得力貿易公司 (the Chinese name of The Straits Trading Co., Ltd). <i>Courtesy of the Family of Phan Kim Sam and Choo Yang Yung. </i></div>
+
 Ascertaining that 潘锦三 and 潘扬昌 were one and the same in a written document was another matter. Our father’s birth certificate showed _his_ father to be “Fon Yong”.&nbsp; A subsequent discovery of an envelope that contained a death certificate was marked with the name “潘扬昌” with the English words “Death Report – Fong Kam Sum decd”, the name as recorded on the certificate itself.[^10]&nbsp;
 
 Fong Kam Sum’s age was recorded as being 65, and the cause of death written in two hands: the first, _demam panas_, which could be translated as “high fever”, and the second is “myocarditis”. Oddly enough, for his occupation, it was recorded as _jaga rumah_ or “watchman”. My grandfather was not a watchman but it is possible that the person who reported Phan’s death assumed the official recording the matter was asking for his occupation rather than Phan’s.&nbsp;
