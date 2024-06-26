@@ -10,29 +10,29 @@ description: The writer’s attempt to trace the contours of his grandfather’s
 
 By Phan Ming Yen
 
-![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img7-.jpg)
+![](/images/Vol%2020%20Issue%203/Lost%20Towkay/towkay_img1.jpg)
 <div style="background-color: white;"> Portrait of Phan Kim Sam, 19xx. <i>Courtesy of the Family of Phan Kim Sam and Choo Yang Yung. </i></div>
 
 
 It all started with a name on a torn envelope postmarked 15 March 1928: 潘锦三.[^1] My brother and I came across the envelope in the breast pocket of what appeared to be workman’s clothes, which I was about to discard until my brother thought it wise to check the pockets first. Imprinted on the clothes, too, were the initials “P K S”.&nbsp;
 
-![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img7-.jpg)
+![](/images/Vol%2020%20Issue%203/Lost%20Towkay/towkay_img2.jpg)
 <div style="background-color: white;"> A torn envelope postmarked 15 March 1928 with the name 潘锦三 on it. <i>Courtesy of the Family of Phan Kim Sam and Choo Yang Yung. </i></div>
 
 
 We had found these garments while packing the family house in early 2023, a pre-World War II shophouse in the former tin mining town of Kampar in Kinta Valley, Perak, Malaysia. We had started with the first cupboard that was accessible to us in the largest bedroom in the house. These clothes were among the first items we found. The shophouse had not been inhabited since our ageing aunt moved to Kuala Lumpur two years before the pandemic to be with our cousin. They are the two sole surviving members from our paternal side of the family.
 
-![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img7-.jpg)
+![](/images/Vol%2020%20Issue%203/Lost%20Towkay/towkay_img3.jpg)
 <div style="background-color: white;"> The interior of Thye Seng, the tin-ore dealing business that Phan Kim Sam founded in Kampar, Perak, before World War II. The shophouse has been restored as a heritage, event and creative residency space, 2024. <i>Courtesy of Phan Ming Ruey. </i></div>
 
 
-![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img7-.jpg)
+![](/images/Vol%2020%20Issue%203/Lost%20Towkay/towkay_img4.jpg)
 <div style="background-color: white;"> The work desk at the office space of Thye Seng, the tin-ore dealing business that Phan Kim Sam founded in Kampar, Perak, before World War II. The shophouse has been restored as a heritage, event and creative residency space, 2024. <i>Courtesy of the Family of Phan Kim Sam and Choo Yang Yung. </i></div>
 
 
 The family name on the envelope was ours: 潘. But we did not recognise the given name 锦三. Also written on the envelope were the Chinese characters 泰盛, 金宝. The first two characters, 泰盛, was Thye Seng,[^2] which was the name of the tin-ore dealing[^3] business that our grandfather had founded in prewar Kampar (金宝).&nbsp;
 
-![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img7-.jpg)
+![](/images/Vol%2020%20Issue%203/Lost%20Towkay/towkay_img5.jpg)
 <div style="background-color: white;"> The business registration record of Thye Seng dated 28 May 1940. <i>Courtesy of the Family of Phan Kim Sam and Choo Yang Yung. </i></div>
 
 
