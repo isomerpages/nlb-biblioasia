@@ -10,6 +10,10 @@ description: The writer’s attempt to trace the contours of his grandfather’s
 
 By Phan Ming Yen
 
+![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img7-.jpg)
+<div style="background-color: white;"> A screengrab from Health Promotion Board’s “Greater Singapore Workout” video showing instructors performing “The Kiasu Chope” move, 2018. <i>Image from “National Steps Challenge</i>™ <i>Presents The Greater Singapore Workout!” hpbsg, 11 November 2018, YouTube video, 5:53.</i></div>
+
+
 It all started with a name on a torn envelope postmarked 15 March 1928: 潘锦三.[^1] My brother and I came across the envelope in the breast pocket of what appeared to be workman’s clothes, which I was about to discard until my brother thought it wise to check the pockets first. Imprinted on the clothes, too, were the initials “P K S”.&nbsp;
 
 We had found these garments while packing the family house in early 2023, a pre-World War II shophouse in the former tin mining town of Kampar in Kinta Valley, Perak, Malaysia. We had started with the first cupboard that was accessible to us in the largest bedroom in the house. These clothes were among the first items we found. The shophouse had not been inhabited since our ageing aunt moved to Kuala Lumpur two years before the pandemic to be with our cousin. They are the two sole surviving members from our paternal side of the family.
@@ -37,6 +41,9 @@ Attempting a search on variations of 潘锦三, in romanised form (and in origin
 The article stated that at the funeral of Phan Kim Sam, “well over 400 attended to pay their last respects”: “Towkay Phan Kim Sam who was 68 was a miner by profession and was a well-known tin-ore dealer. He took interest in the social activities of the town. He leaves behind two widows, five sons, four daughters, two sons-in-laws, a grandson and many other relatives. The funeral procession started at 2 pm from his residence at Jalan Gopeng.”[^7]
 
 We discovered that “Phan Kim Sam” shared a number of similarities with our grandfather: the same profession, the same number of children and whose gender were also similar to what we knew, _almost_ the same number of wives[^8] and he lived on the same road. We later found – tucked away on the topmost compartment of a wardrobe – a 1.6-metre-long panoramic print of the funeral with the Chinese text “中华民国28年2月8日金宝闻人潘锦三先生出殡时留影纪念 怡保埠 广州摄” (“Commemorative photograph from the funeral procession of renowned Kampar figure Mr Phan Kim Sam on 8 February 1939”)[^9] and a colourised photograph of a man with the name 潘锦三. The man in the photograph bore a strong resemblance to a portrait of our grandfather that hung in the office of the shophouse for as long as we could remember.&nbsp;
+
+![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img7-.jpg)
+<div style="background-color: white;"> The 1.6-metre-long panoramic print of Phan Kim Sam’s funeral in 1939, with the Chinese text “中华民国28年2月8日金宝闻人潘锦三先生出殡时留影纪念 怡保埠 广州摄 ” (“Commemorative photograph from the funeral procession of renowned Kampar figure Mr Phan Kim Sam on 8 February 1939”). <i>Courtesy of the Family of Phan Kim Sam and Choo Yang Yung. </i></div>
 
 We spent the next few months searching for written evidence that 潘锦三 and 潘扬昌 were the same person. It was a search that also uncovered close to a century of business and other documents pertaining to my grandfather’s company, Thye Seng: volumes of ledger books dating back to the 1920s that documented daily transactions and the names of those whom the family had business with, shares in tin mines prior to the war, receipts of sales and purchase, and invoices. The earliest record we found dates to 1917 for the purchase and delivery of a safe, which still remains in the shophouse today.
 
