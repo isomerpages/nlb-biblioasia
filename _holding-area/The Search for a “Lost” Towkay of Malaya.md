@@ -70,12 +70,12 @@ The article stated that at the funeral of Phan Kim Sam, “well over 400 attende
 
 We discovered that “Phan Kim Sam” shared a number of similarities with our grandfather: the same profession, the same number of children and whose gender were also similar to what we knew, _almost_ the same number of wives[^8] and he lived on the same road. We later found – tucked away on the topmost compartment of a wardrobe – a 1.6-metre-long panoramic print of the funeral with the Chinese text “中华民国28年2月8日金宝闻人潘锦三先生出殡时留影纪念 怡保埠 广州摄” (“Commemorative photograph from the funeral procession of renowned Kampar figure Mr Phan Kim Sam on 8 February 1939”)[^9] and a colourised photograph of a man with the name 潘锦三. The man in the photograph bore a strong resemblance to a portrait of our grandfather that hung in the office of the shophouse for as long as we could remember.&nbsp;
 
-![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img7-.jpg)
+![](/images/Vol%2020%20Issue%203/Lost%20Towkay/towkay_img9.jpg)
 <div style="background-color: white;"> The 1.6-metre-long panoramic print of Phan Kim Sam’s funeral in 1939, with the Chinese text “中华民国28年2月8日金宝闻人潘锦三先生出殡时留影纪念 怡保埠 广州摄 ” (“Commemorative photograph from the funeral procession of renowned Kampar figure Mr Phan Kim Sam on 8 February 1939”). <i>Courtesy of the Family of Phan Kim Sam and Choo Yang Yung. </i></div>
 
 We spent the next few months searching for written evidence that 潘锦三 and 潘扬昌 were the same person. It was a search that also uncovered close to a century of business and other documents pertaining to my grandfather’s company, Thye Seng: volumes of ledger books dating back to the 1920s that documented daily transactions and the names of those whom the family had business with, shares in tin mines prior to the war, receipts of sales and purchase, and invoices. The earliest record we found dates to 1917 for the purchase and delivery of a safe, which still remains in the shophouse today.
 
-![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img7-.jpg)
+![](/images/Vol%2020%20Issue%203/Lost%20Towkay/towkay_img10.jpg)
 <div style="background-color: white;"> An entry in a ledger book from January/February 1922, documenting transactions with 實得力貿易公司 (the Chinese name of The Straits Trading Co., Ltd). <i>Courtesy of the Family of Phan Kim Sam and Choo Yang Yung. </i></div>
 
 Ascertaining that 潘锦三 and 潘扬昌 were one and the same in a written document was another matter. Our father’s birth certificate showed _his_ father to be “Fon Yong”.&nbsp; A subsequent discovery of an envelope that contained a death certificate was marked with the name “潘扬昌” with the English words “Death Report – Fong Kam Sum decd”, the name as recorded on the certificate itself.[^10]&nbsp;
