@@ -67,28 +67,37 @@ A collection of the business records of Phan Kim Sam and Thye Seng can be found 
 
 #### **Notes**
 
-[^1]:
+[^1]:  Letter addressed to Phan Kim Sam, 15 March 1928. ("Pan Jinsan" in _hanyu pinyin_.)
 
-[^2]:
+[^2]:  See “Registration of Business Enactment 1939” dated 28 May 1940. Thye Seng was founded in 1913.
 
-[^3]:
+[^3]:   Yip Yat Hoong, _The Development of the Tin Mining Industry of Malaya_ (Kuala Lumpur: University of Malaya Press, 1969), 29–32. (From National Library, Singapore, call no. RCLOS 338.27453 YIP). One of the main features of the tin-ore dealing business was that of tin-ore dealers giving loans to marginal miners. These miners in return would sell the concentrates from their mines to the dealer in settlement of outstanding debts. The tin-ore dealer then acted as an agent for these miners, selling the tin-ore to either The Straits Trading Co., Ltd. or the Eastern Smelting Company Limited for smelting and refining.&nbsp;
 
-[^4]:
+[^4]: Phan Kim Sam’s death certificate states that he had been residing in Malaya for 30 years at the time of his death.&nbsp; Research is still ongoing to ascertain his exact date of arrival in Malaya.&nbsp;
 
-[^5]:
 
-[^6]:
+[^5]: Yip, _The Development of the Tin Mining Industry of Malaya_, 29–32.
 
-[^7]:
 
-[^8]:
+[^6]: The quote “The past is a foreign country” is the opening line of novelist L.P. Hartley’s (1895–1972) novel, _The Go-Between_, published in 1953. See L.P. Hartley, _The Go-Between_ (London: Penguin, 2020). (From National Library, Singapore, call no. HAR)&nbsp;
 
-[^9]:
 
-[^10]:
+[^7]: “Funeral of a Kampar Towkay,” _Pinang Gazette and Straits Chronicle_, 10 February 1939, 2. (From NewspaperSG) &nbsp;
 
-[^11]:
 
-[^12]:
+[^8]: Little is known about Phan Kim Sam’s first two wives other than their family name. It is the author’s conjecture that the eldest of the three wives could have passed on by the time of his grandfather’s death in 1939.&nbsp;
 
-[^13]:
+
+[^9]: The print of the funeral is now with the National Library Board, Singapore.&nbsp;
+
+
+[^10]: Death Certificate of Fong Kam Sum, 2 February 1939.&nbsp;
+
+
+[^11]: Grant of Probate of Phan Yeong alias Phan Yong alias Phan Kim Sam alias Fong Kam Sum.&nbsp;
+
+
+[^12]: “Courtesy Name,” My China Roots, last accessed 4 June 2024, https://www.mychinaroots.com/wiki/article/courtesy.&nbsp;
+
+
+[^13]:揭佳具쵠듦看곗쉿林럽壇훑죠댔芚匡論畇鱗壘뒈왕쇌 \[Thye Seng store’s first lecture received an enthusiastic response and created a literary and artistic writing resident space\], _Sin Chew Jit Poh_, 7 May 2024, https://perak.sinchew.com.my/news/20240507/perak/5589314.
