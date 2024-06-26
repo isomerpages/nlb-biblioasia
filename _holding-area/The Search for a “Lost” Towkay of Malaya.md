@@ -43,11 +43,6 @@ The family name on the envelope was ours: 潘. But we did not recognise the give
 ![](/images/Vol%2020%20Issue%203/Lost%20Towkay/towkay_img7.jpg)
 <div style="background-color: white;"> Receipts from Eastern Smelting Company Limited and The Straits Trading Co., Ltd. dated 17 January 1953 and 19 December 1953 respectively. <i>Courtesy of the Family of Phan Kim Sam and Choo Yang Yung. </i></div>
 
-
-![](/images/Vol%2020%20Issue%203/Lost%20Towkay/towkay_img8.jpg)
-<div style="background-color: white;"> The acknowledgement for the delivery of a safe dated 24 September 1917. The safe remains in the shophouse today. <i>Courtesy of the Family of Phan Kim Sam and Choo Yang Yung.</i></div>
-
-
 He had died from an aneurysm two years before the outbreak of the war, so we had been told. He had plans to bring the family of nine children back to China, having built a huge house in his birthplace, Meixian (梅县) in Guangdong province, with the money he made in Malaya.
 
 Our grandfather’s name was 潘扬昌. That was the name on the ancestral tablet at home and on his tombstone. It was the name our mother knew him by and it was also the name whom our cousin, who had lived in the shophouse in the late 1950s, was familiar with. None of them had ever heard of the name 潘锦三. Our aunt, now 94, is stricken with dementia.&nbsp;
@@ -77,6 +72,11 @@ We spent the next few months searching for written evidence that 潘锦三 and �
 
 ![](/images/Vol%2020%20Issue%203/Lost%20Towkay/towkay_img10.jpg)
 <div style="background-color: white;"> An entry in a ledger book from January/February 1922, documenting transactions with 實得力貿易公司 (the Chinese name of The Straits Trading Co., Ltd). <i>Courtesy of the Family of Phan Kim Sam and Choo Yang Yung. </i></div>
+
+
+![](/images/Vol%2020%20Issue%203/Lost%20Towkay/towkay_img8.jpg)
+<div style="background-color: white;"> The acknowledgement for the delivery of a safe dated 24 September 1917. The safe remains in the shophouse today. <i>Courtesy of the Family of Phan Kim Sam and Choo Yang Yung.</i></div>
+
 
 Ascertaining that 潘锦三 and 潘扬昌 were one and the same in a written document was another matter. Our father’s birth certificate showed _his_ father to be “Fon Yong”.&nbsp; A subsequent discovery of an envelope that contained a death certificate was marked with the name “潘扬昌” with the English words “Death Report – Fong Kam Sum decd”, the name as recorded on the certificate itself.[^10]&nbsp;
 
