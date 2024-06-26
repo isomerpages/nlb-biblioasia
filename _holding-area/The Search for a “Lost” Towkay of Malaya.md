@@ -22,6 +22,11 @@ It all started with a name on a torn envelope postmarked 15 March 1928: 潘锦�
 
 We had found these garments while packing the family house in early 2023, a pre-World War II shophouse in the former tin mining town of Kampar in Kinta Valley, Perak, Malaysia. We had started with the first cupboard that was accessible to us in the largest bedroom in the house. These clothes were among the first items we found. The shophouse had not been inhabited since our ageing aunt moved to Kuala Lumpur two years before the pandemic to be with our cousin. They are the two sole surviving members from our paternal side of the family.
 
+![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img7-.jpg)
+<div style="background-color: white;"> The interior of Thye Seng, the tin-ore dealing business that Phan Kim Sam founded in Kampar, Perak, before World War II. The shophouse has been restored as a heritage, event and creative residency space, 2024. <i>Courtesy of Phan Ming Ruey. </i></div>
+
+
+
 The family name on the envelope was ours: 潘. But we did not recognise the given name 锦三. Also written on the envelope were the Chinese characters 泰盛, 金宝. The first two characters, 泰盛, was Thye Seng,[^2] which was the name of the tin-ore dealing[^3] business that our grandfather had founded in prewar Kampar (金宝).&nbsp;
 
 ![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img7-.jpg)
@@ -30,11 +35,6 @@ The family name on the envelope was ours: 潘. But we did not recognise the give
 
 ![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img7-.jpg)
 <div style="background-color: white;"> A page from a “Daily Ore Licencees Stock Book” detailing the amount of tin ore stored in the shop belonging to licensees as at 29 February 1972. <i>Courtesy of the Family of Phan Kim Sam and Choo Yang Yung. </i></div>
-
-
-![](/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img7-.jpg)
-<div style="background-color: white;"> The interior of Thye Seng, the tin-ore dealing business that Phan Kim Sam founded in Kampar, Perak, before World War II. The shophouse has been restored as a heritage, event and creative residency space, 2024. <i>Courtesy of Phan Ming Ruey. </i></div>
-
 
 He had died from an aneurysm two years before the outbreak of the war, so we had been told. He had plans to bring the family of nine children back to China, having built a huge house in his birthplace, Meixian (梅县) in Guangdong province, with the money he made in Malaya.
 
