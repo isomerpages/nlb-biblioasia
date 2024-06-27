@@ -24,11 +24,9 @@ It all started with a name on a torn envelope postmarked 15 March 1928: 潘锦�
 We had found these garments while packing the family house in early 2023, a pre-World War II shophouse in the former tin mining town of Kampar in Kinta Valley, Perak, Malaysia. We had started with the first cupboard that was accessible to us in the largest bedroom in the house. These clothes were among the first items we found. The shophouse had not been inhabited since our ageing aunt moved to Kuala Lumpur two years before the pandemic to be with our cousin. They are the two sole surviving members from our paternal side of the family.
 
 ![](/images/Vol%2020%20Issue%203/Lost%20Towkay/towkay_img3.jpg)
-<div style="background-color: white;"> The interior of Thye Seng, the tin-ore dealing business that Phan Kim Sam founded in Kampar, Perak, before World War II. The shophouse has been restored as a heritage, event and creative residency space, 2024. <i>Courtesy of Phan Ming Ruey. </i></div>
-
 
 ![](/images/Vol%2020%20Issue%203/Lost%20Towkay/towkay_img4.jpg)
-<div style="background-color: white;"> The work desk at the office space of Thye Seng, the tin-ore dealing business that Phan Kim Sam founded in Kampar, Perak, before World War II. The shophouse has been restored as a heritage, event and creative residency space, 2024. <i>Courtesy of the Family of Phan Kim Sam and Choo Yang Yung. </i></div>
+<div style="background-color: white;"> The&nbsp;interior and&nbsp;work desk at the office space of Thye Seng, the tin-ore dealing business that Phan Kim Sam founded in Kampar, Perak, before World War II. The shophouse has been restored as a heritage, event and creative residency space, 2024.<i>Courtesy of the Family of Phan Kim Sam and Choo Yang Yung. </i></div>
 
 
 The family name on the envelope was ours: 潘. But we did not recognise the given name 锦三. Also written on the envelope were the Chinese characters 泰盛, 金宝. The first two characters, 泰盛, was Thye Seng,[^2] which was the name of the tin-ore dealing[^3] business that our grandfather had founded in prewar Kampar (金宝).&nbsp;
@@ -37,24 +35,27 @@ The family name on the envelope was ours: 潘. But we did not recognise the give
 <div style="background-color: white;"> The business registration record of Thye Seng dated 28 May 1940. <i>Courtesy of the Family of Phan Kim Sam and Choo Yang Yung. </i></div>
 
 
-![](/images/Vol%2020%20Issue%203/Lost%20Towkay/towkay_img6.jpg)
-<div style="background-color: white;"> A page from a “Daily Ore Licencees Stock Book” detailing the amount of tin ore stored in the shop belonging to licensees as at 29 February 1972. <i>Courtesy of the Family of Phan Kim Sam and Choo Yang Yung. </i></div>
-
-
-![](/images/Vol%2020%20Issue%203/Lost%20Towkay/towkay_img7.jpg)
-<div style="background-color: white;"> Receipts from Eastern Smelting Company Limited and The Straits Trading Co., Ltd. dated 17 January 1953 and 19 December 1953 respectively. <i>Courtesy of the Family of Phan Kim Sam and Choo Yang Yung. </i></div>
-
 He had died from an aneurysm two years before the outbreak of the war, so we had been told. He had plans to bring the family of nine children back to China, having built a huge house in his birthplace, Meixian (梅县) in Guangdong province, with the money he made in Malaya.
 
 Our grandfather’s name was 潘扬昌. That was the name on the ancestral tablet at home and on his tombstone. It was the name our mother knew him by and it was also the name whom our cousin, who had lived in the shophouse in the late 1950s, was familiar with. None of them had ever heard of the name 潘锦三. Our aunt, now 94, is stricken with dementia.&nbsp;
 
 The family business was subsequently passed on to our grandmother, Choo Yang Yung, and managed by our uncle and aunt. Our father, the youngest in the family, worked as a forensics document examiner with the Malaysian civil service in Petaling Jaya, Selangor.&nbsp; With the passing of our grandmother in 1995, the business was managed by our uncle. After he died in 2003 and given the falling tin prices in Malaysia since the 1980s, the business licence was given up.&nbsp;
 
+
+![](/images/Vol%2020%20Issue%203/Lost%20Towkay/towkay_img6.jpg)
+<div style="background-color: white;"> A page from a “Daily Ore Licencees Stock Book” detailing the amount of tin ore stored in the shop belonging to licensees as at 29 February 1972. <i>Courtesy of the Family of Phan Kim Sam and Choo Yang Yung. </i></div>
+
+
 As children, we – or at least I – seldom asked about our grandfather, preferring to just absorb whatever that was willingly shared with us. Perhaps it seemed to me then that everyone focused on working hard and living in the present for the future: the concern of our grandmother and aunt was always the education and careers of the grandchildren.
 
 Up to the point when we found the envelope, this was what we knew about our grandfather and the family: he was Hakka; he had three wives – two from China, and the third, whom he married in Malaya, being our grandmother. Of his nine children, four were born from our grandmother. We were never told the names of the other five: three adopted elder sons and two elder daughters whose births we were uncertain of.&nbsp;
 
 We knew a few other interesting facts about our grandfather. He liked art, and had sold _chwee kueh_ (steamed rice cake served with preserved radish) when he first arrived in Malaya, probably around 1909.[^4] He had loaned money to a tin miner who, in return, passed him tin concentrates. He removed the impurities from the concentrates and resold the tin to smelting agencies.[^5] Before moving to Malaya, he had worked in Indonesia and returned to China. He was also very caring towards our grandmother. Our father seldom spoke about our grandfather and the business. After all, he was only a child of five when his father died.
+
+
+![](/images/Vol%2020%20Issue%203/Lost%20Towkay/towkay_img7.jpg)
+<div style="background-color: white;"> Receipts from Eastern Smelting Company Limited and The Straits Trading Co., Ltd. dated 17 January 1953 and 19 December 1953 respectively. <i>Courtesy of the Family of Phan Kim Sam and Choo Yang Yung. </i></div>
+
 
 The past, as novelist L.P. Hartley notes, is a foreign country.[^6]
 
