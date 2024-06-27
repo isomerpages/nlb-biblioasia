@@ -23,9 +23,9 @@ It all started with a name on a torn envelope postmarked 15 March 1928: 潘锦�
 
 We had found these garments while packing the family house in early 2023, a pre-World War II shophouse in the former tin mining town of Kampar in Kinta Valley, Perak, Malaysia. We had started with the first cupboard that was accessible to us in the largest bedroom in the house. These clothes were among the first items we found. The shophouse had not been inhabited since our ageing aunt moved to Kuala Lumpur two years before the pandemic to be with our cousin. They are the two sole surviving members from our paternal side of the family.
 
-![](/images/Vol%2020%20Issue%203/Lost%20Towkay/towkay_img3.jpg)
+![](/images/Vol%2020%20Issue%203/Lost%20Towkay/towkay_img3a.jpg)
 
-![](/images/Vol%2020%20Issue%203/Lost%20Towkay/towkay_img4.jpg)
+![](/images/Vol%2020%20Issue%203/Lost%20Towkay/towkay_img4a.jpg)
 <div style="background-color: white;"> The&nbsp;interior and&nbsp;work desk at the office space of Thye Seng, the tin-ore dealing business that Phan Kim Sam founded in Kampar, Perak, before World War II. The shophouse has been restored as a heritage, event and creative residency space, 2024.<i>Courtesy of the Family of Phan Kim Sam and Choo Yang Yung. </i></div>
 
 
