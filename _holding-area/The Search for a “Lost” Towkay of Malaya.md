@@ -26,7 +26,7 @@ We had found these garments while packing the family house in early 2023, a pre-
 ![](/images/Vol%2020%20Issue%203/Lost%20Towkay/towkay_img3a.jpg)
 
 ![](/images/Vol%2020%20Issue%203/Lost%20Towkay/towkay_img4a.jpg)
-<div style="background-color: white;"> The&nbsp;interior and&nbsp;work desk at the office space of Thye Seng, the tin-ore dealing business that Phan Kim Sam founded in Kampar, Perak, before World War II. The shophouse has been restored as a heritage, event and creative residency space, 2024.<i>Courtesy of the Family of Phan Kim Sam and Choo Yang Yung. </i></div>
+<div style="background-color: white;"> The&nbsp;interior and&nbsp;work desk at the office space of Thye Seng, the tin-ore dealing business that Phan Kim Sam founded in Kampar, Perak, before World War II. The shophouse has been restored as a heritage, event and creative residency space, 2024. <i>Courtesy of the Family of Phan Kim Sam and Choo Yang Yung. </i></div>
 
 
 The family name on the envelope was ours: 潘. But we did not recognise the given name 锦三. Also written on the envelope were the Chinese characters 泰盛, 金宝. The first two characters, 泰盛, was Thye Seng,[^2] which was the name of the tin-ore dealing[^3] business that our grandfather had founded in prewar Kampar (金宝).&nbsp;
