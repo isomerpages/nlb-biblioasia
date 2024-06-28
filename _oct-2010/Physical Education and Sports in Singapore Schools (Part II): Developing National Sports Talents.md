@@ -5,6 +5,7 @@ permalink: /vol-6/issue-3/oct-2010/singapore-physical-education-sports/
 description: Librarian Wee Tong Bao traces the journeys that schools embarked
   upon to re-establish inter-school sporting events after World War II, and
   comments on the initial forays into the international sporting arena.
+variant: markdown
 ---
 #### Librarian *Wee Tong Bao* traces the journeys that schools embarked upon to reestablish inter-school sporting events after World War II, and comments on the initial forays into the international sporting arena.
 
@@ -149,8 +150,6 @@ Singapore Female Physical Education Teachers Association 新加坡女体育教�
 Singapore MCA Games 新加坡马华运动大会, _Di liu jie mahua yundong dahui_ 第六届 马华运动大会 \[The Sixth Malayan Chinese Athletic Championship Meeting, 1965). (Xinjiapo 新加坡: Mahua yundong dahui, 1965)
 
 Singapore Physical Education Association, [_SPEA news: A Publication of the Singapore Physical Association_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7496641) (Singapore: Singapore Physical Education Association, 1994–). (Call no. RSING 613.70705957 SPEAN)
-
-Singapore Schools Sports Council, [_Celebrating 50 Years of School Sports_](13349298) (Singapore: Singapore Schools Sports Council, 2009). (Call no. RSING 796.07105957 CEL)
 
 Singapore Sports Council, _National Physical Fitness Award (Primary): Your Test of Overall Physical Fitness_ (Singapore: Sports Council, 1981)
 

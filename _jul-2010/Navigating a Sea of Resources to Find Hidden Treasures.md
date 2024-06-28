@@ -4,6 +4,7 @@ permalink: /vol-6/issue-2/jul-2010/sea-resources-hidden-treasure/
 description: Research Fellow Setefanus Suprajitno recalls his childhood,
   memories of the National Library and the path to becoming a Lee Kong Chian
   Research Fellow.
+variant: markdown
 ---
 #### *Setefanus Suprajitno* recalls his childhood, memories of the National Library and the path to becoming a Lee Kong Chian Research Fellow.
 
@@ -39,7 +40,7 @@ Suprajitno has an MA in Anthropology and his research topic focuses on “The Bu
 	
 Dr Chew has a PhD in Linguistics and her research topic is on “Multiculturalism in pre- and colonial Singapore: The Sociolinguistics of Early Singapore”.<br>
 	
-For more information on the Lee Kong Chian Research Fellowship, please contact the Administrator at:<br>Email: <a href="LKCRF@nlb.gov.sg">LKCRF@nlb.gov.sg</a><br> Tel: 6332 3348<br> Fax: 6333 7990</div>
+For more information on the Lee Kong Chian Research Fellowship, please contact the Administrator at:<br>Email: LKCRF@nlb.gov.sg<br> Tel: 6332 3348<br> Fax: 6333 7990</div>
 
 <br>
 <div style="background-color: white;">
