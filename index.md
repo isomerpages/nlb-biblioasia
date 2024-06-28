@@ -1143,4 +1143,15 @@ sections:
       url: https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08
       alt: Greeting Card
       image: /images/Hari Raya Cards/hari raya greeting card.jpg
+  - infopic:
+      title: The Seach for a “Lost” Towkay of Malaya
+      subtitle: People
+      id: infopic
+      description: The writer’s attempt to trace the contours of his grandfather’s
+        life was complicated by the fact that, unknown to him, his grandfather
+        had more than one name.
+      button: A grandfather by any other name
+      url: /vol-20/issue-3/oct-dec-2024/phan-kim-sam-thye-seng/
+      image: /images/Vol 20 Issue 3/Lost Towkay/lost_towkay.png
+      alt: Image alt text
 ---
