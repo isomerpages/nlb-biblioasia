@@ -45,6 +45,14 @@ The National Library recently received a sizable collection of letters, document
 <img src="/images/Vol-16-issue-3/kim-mui/kim_mui_topic.png" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/book-review/">Book Review: The Year 1000</a>
+
+The Year 1000 When Explorers Connected the World and Globalization Began.
+
+<img src="/images/Vol-16-issue-3/book-review/year1000-opening.jpg" style="width:80%;">
+<hr>		
+
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/writers-manuscripts/">On Writers and Their Manuscripts</a>
 
 No great work of literature is completed in just one draft. In an age where writers have gone paperless, novelist&nbsp;<b>Meira Chand</b>&nbsp;ponders over the value of manuscripts, and what they might reveal about a writer’s thought process.
