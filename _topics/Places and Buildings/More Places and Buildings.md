@@ -179,7 +179,7 @@ The Emporium chain of department stores entered the scene when the retail market
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/shipyards-keppel-sembawang">The Story of Two Shipyards: Keppel &amp; Sembawang</a>
-Keppel and Sembawang shipyards are major players in Singapore’s maritime and shipping industry.&nbsp;Wee Beng Geok&nbsp;traces the colonial origins of these two companies.
+Keppel and Sembawang shipyards are major players in Singapore’s maritime and shipping industry.&nbsp;**Wee Beng Geok**&nbsp;traces the colonial origins of these two companies.
 
 <img src="/images/Vol-15-issue-2/the-story-of-two-shipyards/Ship1.JPG" style="width:80%;">
 <hr>
