@@ -83,14 +83,14 @@ The 1970s are often remembered as a time of rapid economic transformation and pr
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/empress-asia/">The Final Hours of the Empress of Asia</a>
 
-The Empress of Asia sank off Tuas in February 1942 while carrying troops to fight off the Japanese invasion. Dan Black recounts its final days.
+The Empress of Asia sank off Tuas in February 1942 while carrying troops to fight off the Japanese invasion. **Dan Black** recounts its final days.
 
 <img src="/images/vol-17-issue-4/empress-of-asia/empressasia_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/witness-to-history/">Witness to History</a>
 
-Major-General Feng Yee represented China at the Japanese surrender ceremony here. *Seow Peck Ngiam* tells us about his life.
+Major-General Feng Yee represented China at the Japanese surrender ceremony here. **Seow Peck Ngiam** tells us about his life.
 
 <img src="/images/Vol-16-issue-1/history/History-title2.jpg" style="width:80%;">
 <hr>
