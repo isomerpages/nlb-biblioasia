@@ -38,12 +38,34 @@ A forgotten manuscript found in the archive of a Portuguese museum offers an ins
 <img src="/images/Vol%2019%20Issue%203/5%20Panton/image1.png">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/diff-sky/">跨境影响、情系侨乡: 新加坡金门会馆特藏</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/diff-sky/">A Different Sky: The Other Side of the Looking Glass</a>
+
+**Meira Chand**&nbsp;recounts how hours of listening to oral history interviews permeated her subconscious and created a memory that she could call her own when writing her novel.
+
+<img src="/images/Vol-16-issue-3/diff-sky/adiffsky-cover.jpg" style="width:80%;">
+<hr>		
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/borobudur/">The Borobudur, Mysterious Gold Plates and Singing Maps</a>
+
+Unsolved historical puzzles from Southeast Asia are key elements of the recently published thriller&nbsp;_The Java Enigma_&nbsp;by debut novelist&nbsp;**Erni Salleh**.
+
+<img src="/images/Vol-16-issue-3/borobudur/theborobudur-buddha.jpg" style="width:80%;">
+<hr>		
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/kim-mui/">跨境影响、情系侨乡: 新加坡金门会馆特藏</a>
 
 The National Library recently received a sizable collection of letters, documents, books and other paper ephemera from the Kim Mui Hoey Kuan.&nbsp;**Lee Meiyu**&nbsp;examines the historical links the clan association has forged between Singapore and Kinmen.
 
 <img src="/images/Vol-16-issue-3/kim-mui/kim_mui_topic.png" style="width:80%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/book-review/">Book Review: The Year 1000</a>
+
+The Year 1000 When Explorers Connected the World and Globalization Began.
+
+<img src="/images/Vol-16-issue-3/book-review/year1000-opening.jpg" style="width:100%;">
+<hr>		
+
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/writers-manuscripts/">On Writers and Their Manuscripts</a>
 
