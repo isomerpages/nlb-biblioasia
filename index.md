@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-20/issue-2/jul-sep-2024/singapore-malaysia-johor-causeway/
-      button: The Making of the Causeway
+      url: /vol-20/issue-2/jul-sep-2024/sentosa-mount-faber-cable-cars/
+      button: Sentosa's Cable Cars at 50
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 20 Issue 2/Causeaway/HeroImage_causeway.jpg
+      background: /images/Vol 20 Issue 2/Cable Cars/HeroImage_cablecars.jpg
   - infopic:
       title: Have Your Say
       subtitle: Readership Survey
