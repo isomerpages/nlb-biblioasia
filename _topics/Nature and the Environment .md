@@ -42,6 +42,15 @@ Singapore has planted more than two million trees in the past 50 years. **Lim Ti
 <img src="/images/vol-17-issue-4/tree-planting/treeplanting_topic.png" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/raffles/">Stamford Raffles and the Two French Naturalists</a>
+
+**Danièle Weiler**&nbsp;uncovers the work of two young French naturalists – Alfred Duvaucel and Pierre Médard Diard – who worked with Stamford Raffles between 1818 and 1820.
+
+
+<img src="/images/Vol-16-issue-2/raffles/stork.jpg" style="width:80%;">
+		
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-3/oct-dec-2019/biodiversityheritage/">A Slice of Singapore in the Biodiversity Heritage Library</a>
 Singapore has planted more than two million trees in the past 50 years. **Lim Tin Seng** traces the roots of Tree Planting Day.
 
