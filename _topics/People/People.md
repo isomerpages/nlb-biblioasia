@@ -206,7 +206,7 @@ Barely 13 years old then, K. Ramakanthan and his family escaped with their lives
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-3/oct-dec-2019/tan-swie-hian-coll/">Exploring an Artist’s Mind: The Tan Swie Hian Collection</a>
 
-What makes the difference between a good artist and a brilliant one?&nbsp;Goh Yu Mei&nbsp;delves into the books and artworks that have inspired a literary and artistic genius.
+What makes the difference between a good artist and a brilliant one?&nbsp;**Goh Yu Mei**&nbsp;delves into the books and artworks that have inspired a literary and artistic genius.
 
 <img src="/images/Vol-15-issue-3/exploring-an-artist-s-mind/Explore1.JPG" style="width:80%;">
 
