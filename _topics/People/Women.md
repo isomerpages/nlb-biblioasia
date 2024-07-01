@@ -41,7 +41,7 @@ A number of cookbooks written in the 1940s and 1950s helped expand the tradition
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/diff-sky/">A Different Sky: The Other Side of the Looking Glass</a>
 
-*Meira Chand*  explores the challenges of writing historical fiction.
+**Meira Chand**  explores the challenges of writing historical fiction.
 
 <img src="/images/Vol-16-issue-3/diff-sky/adiffsky-cover.jpg" style="width:80%;">
 <hr>
@@ -55,20 +55,21 @@ A number of cookbooks written in the 1940s and 1950s helped expand the tradition
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-4/jan-mar-2020/women-w-commodities/">When Women Were Commodities</a>
 
-Brothels in colonial Singapore, with its large male migrant population, did a roaring trade. *Adeline Foo*  examines the lives of the unfortunate girls and women who were sold into prostitution.
+Brothels in colonial Singapore, with its large male migrant population, did a roaring trade. **Adeline Foo** examines the lives of the unfortunate girls and women who were sold into prostitution.
 
 <img src="/images/Vol-15-issue-4/when-women-were-commodities/w3_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-4/jan-mar-2020/s-t-c-sea/">Snakes, Tigers and Cannibals: Ida Pfeiffer’s Travels in Southeast Asia</a>
 
-Travelling alone across Southeast Asia in the 19th century, Ida Pfeiffer encountered human heads put out to dry and faced off angry cannibals. *John van Wyhe* recounts the adventures of this remarkable woman.
+Travelling alone across Southeast Asia in the 19th century, Ida Pfeiffer encountered human heads put out to dry and faced off angry cannibals. **John van Wyhe** recounts the adventures of this remarkable woman.
 
 <img src="/images/Vol-15-issue-4/snakes-tigers-and-cannibals/t1_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/georgette-chen">Georgette Chen: Artist Extraordinaire</a>
-Sara Siew examines the link between visual art and the written word through the fascinating story of Singaporean artist Georgette Chen.
+
+**Sara Siew** examines the link between visual art and the written word through the fascinating story of Singaporean artist Georgette Chen.
 
 <img src="/images/Vol-15-issue-2/artist-extraordinaire/artist5_topic.png" style="width:80%; height:90%;">
 <hr>
