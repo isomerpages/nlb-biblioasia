@@ -43,7 +43,8 @@ An innovation patented in 1920 produced paper that was more durable, had greater
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/malay-seals"> Malay Seals from Singapore</a>
-<p>Malay seals of the 19th century hold important information, says Annabel Teh Gallop.</p>
+Malay seals of the 19th century hold important information, says **Annabel Teh Gallop**.
+
 <img src="/images/Vol-16-issue-1/malay-seals/temenggung_topic.png" style="width:80%;">
 
 <hr>
@@ -56,7 +57,8 @@ An innovation patented in 1920 produced paper that was more durable, had greater
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/the-news-gallery/"> The News Gallery: Beyond Headlines</a>
-<p>There is more to news than meets the eye.&nbsp;**Mazelan Anuar**&nbsp;and&nbsp;**Faridah Ibrahim**&nbsp;give us the scoop on the National Library’s latest exhibition.</p>
+
+There is more to news than meets the eye.&nbsp; **Mazelan Anuar** &nbsp;and&nbsp;**Faridah Ibrahim**&nbsp;give us the scoop on the National Library’s latest exhibition.<p></p>
 
 <img src="/images/Vol-16-issue-1/News/behind_every_story.jpg" style="width:80%;">
 
