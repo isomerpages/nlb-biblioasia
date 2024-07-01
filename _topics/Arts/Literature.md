@@ -38,6 +38,13 @@ A forgotten manuscript found in the archive of a Portuguese museum offers an ins
 <img src="/images/Vol%2019%20Issue%203/5%20Panton/image1.png">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/diff-sky/">A Different Sky: The Other Side of the Looking Glass</a>
+
+**Meira Chand**&nbsp;recounts how hours of listening to oral history interviews permeated her subconscious and created a memory that she could call her own when writing her novel.
+
+<img src="/images/Vol-16-issue-3/diff-sky/adiffsky-cover.jpg" style="width:80%;">
+<hr>		
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/borobudur/">The Borobudur, Mysterious Gold Plates and Singing Maps</a>
 
 Unsolved historical puzzles from Southeast Asia are key elements of the recently published thriller&nbsp;_The Java Enigma_&nbsp;by debut novelist&nbsp;**Erni Salleh**.
