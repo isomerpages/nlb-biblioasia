@@ -65,7 +65,7 @@ Danièle Weiler uncovers the work of two young French naturalists – Alfred Duv
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/malay-seals"> Malay Seals from Singapore</a>
 
-Malay seals of the 19th century hold important information, says Annabel Teh Gallop.
+Malay seals of the 19th century hold important information, says **Annabel Teh Gallop**.
 
 <img src="/images/Vol-16-issue-1/malay-seals/malay_seals_titles_topic.png" style="width:80%;">
 
