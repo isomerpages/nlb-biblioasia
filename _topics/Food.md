@@ -115,6 +115,13 @@ A number of cookbooks written in the 1940s and 1950s helped expand the tradition
 <img src="/images/vol-17-issue-4/cookbook/cookbook.png">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/betel-chewing/">A Bite of History: Betel Chewing in Singapore</a>
+
+**Fiona Lim** and **Geoffrey Pakiam** look at a time-honoured tradition that is no longer fashionable.
+
+<img src="/images/Vol-16-issue-3/betel/betelchewing_topic.png" style="width:80%;">													
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/ghcafe/">G.H. Cafe: A Dining Landmark on Battery Road</a>
 	
 This cafe once loomed large in Singapore’s dining and social scene. *Vandana Aggarwal* traces its rise and disappearance.
