@@ -108,9 +108,11 @@ Launch issues can make or break a new publication.&nbsp;**Barbara Quek**&nbsp;sh
 <img src="/images/Vol-14-issue-1/first-issues/First1.JPG">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-1/apr-jun-2018/publications-of-past/">First Issues: Publications from the Past</a>
-Launch issues can make or break a new publication.&nbsp;**Barbara Quek**&nbsp;shares highlights of first issues from NLB’s Legal Deposit Collection.
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-4/jan-mar-2018/textbooks-we-remember/">Textbooks We Remember</a>
 
-<img src="/images/Vol-14-issue-1/first-issues/First1.JPG">
+**Shereen Tay**&nbsp;pores through the National Library’s collection of old primary school English textbooks, and uncovers some classics in the process.
+
+<img src="/images/Vol-13-issue-4/textbooks-we-remember/01_textbooks.jpg">
 <hr>
+
 
