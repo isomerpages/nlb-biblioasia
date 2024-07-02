@@ -161,12 +161,14 @@ Before the advent of the internet, print advertisements reigned supreme. These p
 <img src="/images/Vol-14-issue-2/the-stuff-of-dreams/Dreamsa.JPG" style="width:60%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-2/jul-sep-2018/stuff-of-dreams-sg/">The Stuff of Dreams: Singapore’s Early Print Ads</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-1/apr-jun-2018/publications-of-past/">First Issues: Publications from the Past</a>
 
-Before the advent of the internet, print advertisements reigned supreme. These primary documents provide important clues to the social history of the period as&nbsp;**Chung Sang Hong**&nbsp;tells us.
+Launch issues can make or break a new publication. **Barbara Quek**&nbsp;shares highlights of first issues from NLB’s Legal Deposit Collection.
 
-<img src="/images/Vol-14-issue-2/the-stuff-of-dreams/Dreamsa.JPG" style="width:60%;">
+<img src="/images/Vol-14-issue-1/first-issues/First1.JPG">
 <hr>
+
+
 
 
 
