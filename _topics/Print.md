@@ -182,6 +182,13 @@ Established in the 1880s, Kelly &amp; Walsh was an iconic name in the Singapore 
 <img src="/images/Vol-13-issue-4/kelly-and-walsh/01_KW.jpg">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-4/jan-mar-2018/stamping-history/">Stamping History</a>
+
+Postage stamps are more than little squares of paper to be stuck on envelopes.&nbsp;**Justin Zhuang**&nbsp;discovers how stamps have helped forge Singapore’s identity over the past five decades.
+
+<img src="/images/Vol-13-issue-4/stamping-history/02_stamping.jpg">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-3/oct-dec-2017/early-malay-printing/">Early Malay Printing in Singapore</a>
 
 <b>Mazelan Anuar</b>&nbsp;tracks the rise and decline of Malay printing and publishing in 19th-century Singapore, and profiles two of the most prolific printers of that period.
