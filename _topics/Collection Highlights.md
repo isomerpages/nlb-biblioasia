@@ -114,5 +114,3 @@ Launch issues can make or break a new publication.&nbsp;**Barbara Quek**&nbsp;sh
 
 <img src="/images/Vol-13-issue-4/textbooks-we-remember/01_textbooks.jpg">
 <hr>
-
-
