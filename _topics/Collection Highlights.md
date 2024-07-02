@@ -57,12 +57,16 @@ A treaty that sealed Singapore’s fate, a contract for the sale of child brides
 
 To mark its centenary, a Chinese clan association recently donated its archives of heritage documents to the National Library.&nbsp;**Jessie Yak**&nbsp;shares highlights from the collection.
 
-<img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-4/singapore-chin-kang-heritage/Heritage1.JPG">
-<div style="background-color: white;">
+<img src="/images/Vol-14-issue-4/singapore-chin-kang-heritage/Heritage1.JPG">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-3/oct-dec-2018/archive-sg-wide-web/">Archiving the Singapore-Wide Web</a>
+
+Recent amendments to the National Library Board Act now allow the National Library to preserve Singapore websites without the express permission of content owners.&nbsp;**Shereen Tay**&nbsp;explains.
+
+<img src="/images/Vol-14-issue-3/archiving-the-sg-wide-web/Archive1.JPG">
+<hr>
+	
 
 
 
-
-</div>
