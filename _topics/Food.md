@@ -134,4 +134,19 @@ This cafe once loomed large in Singapore’s dining and social scene. *Vandana A
 Thrift, hard work and resilience are qualities that can be nurtured through food.&nbsp;**Chantal Sajan**&nbsp;recalls the legacy of her grandaunt.
 
 <img src="/images/Vol-14-issue-4/life-lessons-in-chetty-m-kit/chetty1_topic.png" style="width:80%;">
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-3/oct-dec-2018/makan-place-coffee-s/">Makan Places and Coffee Socks</a>
+
+**Barbara Quek**&nbsp;highlights publications that showcase Singapore’s unique hawker fare from the National Library’s Legal Deposit Collection.
+
+<img src="/images/Vol-14-issue-3/makan-places-and-coffee-socks/CoffeeSocks1.JPG" style="width:80%;">
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-1/apr-jun-2018/ramen-teh/">Ramen Teh: Food, War and Memory</a>
+
+Eric Khoo tells us how the Japanese Occupation,&nbsp;_ramen_&nbsp;noodles and&nbsp;_bak kut teh_&nbsp;became the inspiration for his latest film.&nbsp;**Lu Wenshi**&nbsp;finds out more.
+
+<img src="/images/Vol-14-issue-1/ramen-teh/Ramen1.JPG" style="width:80%;">
+
+
+
 <hr>
