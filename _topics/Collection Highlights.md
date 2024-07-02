@@ -94,7 +94,3 @@ More than 800 items documenting early Japanese interactions in Singapore and the
 
 <img src="/images/Vol-14-issue-2/japan-in-southeast-asia/Collection1.JPG">
 <hr>
-
-
-
-
