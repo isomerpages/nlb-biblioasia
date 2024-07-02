@@ -118,6 +118,30 @@ To mark its centenary, a Chinese clan association recently donated its archives 
 <img src="/images/Vol-14-issue-4/when-there-were-farms/farm_topic.png" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-3/oct-dec-2018/papers-from-past/">Papers from the Past: The Lee Family Archives</a>
+
+The personal papers of a noted Peranakan family provide a window into the lives of the Straits Chinese community during the colonial era, as&nbsp;**Ong Eng Chuan**&nbsp;reveals.
+
+<img src="/images/Vol-14-issue-3/papers-from-the-past/PastPapers1.JPG">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-3/oct-dec-2018/tamil-print-adv/">சிங்கைப் பத்திரிகைகளில் 1920–1960 வரை வெளிவந்த விளம்பரங்கள்- ஒரு பார்வை</a>
+
+**Sundari Balasubramaniam**&nbsp;examines Tamil print advertisements published between the 1920s and 1960s, and discovers fascinating insights of life during this period.
+
+<img src="/images/Vol-14-issue-3/tamil-article/Tamil1.JPG">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-3/oct-dec-2018/wheels-of-change/">Wheels of Change: 1896–1970</a>
+
+Advertisements targeting aspiring car owners have come a long way since the first automobile was launched in Singapore in 1896, as&nbsp;**Mazelan Anuar**&nbsp;tells us.
+
+<img src="/images/Vol-14-issue-3/wheels-of-change/Wheels1.JPG">
+<hr>
+
+
+
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-3/oct-dec-2017/early-malay-printing/">Early Malay Printing in Singapore</a>
 
 <b>Mazelan Anuar</b>&nbsp;tracks the rise and decline of Malay printing and publishing in 19th-century Singapore, and profiles two of the most prolific printers of that period.
