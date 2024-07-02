@@ -88,9 +88,20 @@ More than 800 items documenting early Japanese interactions in Singapore and the
 <img src="/images/Vol-14-issue-2/japan-in-southeast-asia/Collection1.JPG">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-2/jul-sep-2018/japan-in-sea-lim-sbc/">Japan in Southeast Asia: The Lim Shao Bin Collection</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-2/jul-sep-2018/sporting-glory/">Sporting Glory</a>
 
-More than 800 items documenting early Japanese interactions in Singapore and the region have been donated to the National Library.&nbsp;**Gracie Lee**&nbsp;explains the significance of this repository.
+**Sharen Chua**&nbsp;shares highlights of commemorative sports publications from the National Library’s Legal Deposit Collection.
 
-<img src="/images/Vol-14-issue-2/japan-in-southeast-asia/Collection1.JPG">
+<img src="/images/Vol-14-issue-2/sporting-glory/Glory1.jpg">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-2/jul-sep-2018/nan-an-history-in-sg/">Preserving Nan’an History in Singapore</a>
+
+The National Library recently received several rare items connected to the history of the Nan’an community and Hong San See Temple in Singapore.&nbsp;**Ang Seow Leng**&nbsp;presents highlights of the collection.
+
+<img src="/images/Vol-14-issue-2/preserving-nanan-history-in-sg/Preserving1.JPG">
+<hr>
+
+
+
+
