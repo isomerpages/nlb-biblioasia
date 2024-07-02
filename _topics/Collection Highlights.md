@@ -122,5 +122,11 @@ Remittance letters between Singapore and China during the height of the Cold War
 <img src="/images/Vol-13-issue-4/warm-tidings-in-a-cold-war/01_warmtiding.jpg">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-4/jan-mar-2018/manuscripts-from-past/">Manuscripts from Our Global Past</a>
+
+An exhibition of old Southeast Asian writings showcases the region as a major centre of learning.&nbsp;**Farish A. Noor**&nbsp;explains why we should reclaim our heritage.
+
+<img src="/images/Vol-13-issue-4/manuscripts-from-global-past/01_manuscript.png">
+<hr>
 
 
