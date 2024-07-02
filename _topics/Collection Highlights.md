@@ -80,5 +80,3 @@ The personal papers of a noted Peranakan family provide a window into the lives 
 
 <img src="/images/Vol-14-issue-3/tamil-article/Tamil1.JPG">
 <hr>
-
-
