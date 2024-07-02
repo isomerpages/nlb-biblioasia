@@ -66,7 +66,19 @@ Recent amendments to the National Library Board Act now allow the National Libra
 
 <img src="/images/Vol-14-issue-3/archiving-the-sg-wide-web/Archive1.JPG">
 <hr>
-	
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-3/oct-dec-2018/papers-from-past/">Papers from the Past: The Lee Family Archives</a>
+
+The personal papers of a noted Peranakan family provide a window into the lives of the Straits Chinese community during the colonial era, as&nbsp;**Ong Eng Chuan**&nbsp;reveals.
+
+<img src="/images/Vol-14-issue-3/papers-from-the-past/PastPapers1.JPG">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-3/oct-dec-2018/tamil-print-adv/">சிங்கைப் பத்திரிகைகளில் 1920–1960 வரை வெளிவந்த விளம்பரங்கள்- ஒரு பார்வை</a>
+
+**Sundari Balasubramaniam**&nbsp;examines Tamil print advertisements published between the 1920s and 1960s, and discovers fascinating insights of life during this period.
+
+<img src="/images/Vol-14-issue-3/tamil-article/Tamil1.JPG">
+<hr>
 
 
