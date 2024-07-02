@@ -189,6 +189,20 @@ Postage stamps are more than little squares of paper to be stuck on envelopes.&n
 <img src="/images/Vol-13-issue-4/stamping-history/02_stamping.jpg">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-4/jan-mar-2018/stories-they-tell/">The Stories They Could Tell</a>
+
+Old photographs and documents can reveal new things about our history, as&nbsp;**Yu-Mei Balasingamchow** discovered when she sieved through the National Archives’ war collections.
+
+<img src="/images/Vol-13-issue-4/the-stories-they-could-tell/01_stories.jpg">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-4/jan-mar-2018/manuscripts-from-past/">Manuscripts from Our Global Past</a>
+
+An exhibition of old Southeast Asian writings showcases the region as a major centre of learning.&nbsp;**Farish A. Noor**&nbsp;explains why we should reclaim our heritage.
+
+<img src="/images/Vol-13-issue-4/manuscripts-from-global-past/01_manuscript.png">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-3/oct-dec-2017/early-malay-printing/">Early Malay Printing in Singapore</a>
 
 <b>Mazelan Anuar</b>&nbsp;tracks the rise and decline of Malay printing and publishing in 19th-century Singapore, and profiles two of the most prolific printers of that period.
