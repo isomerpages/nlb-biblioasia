@@ -65,7 +65,7 @@ Danièle Weiler uncovers the work of two young French naturalists – Alfred Duv
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/malay-seals"> Malay Seals from Singapore</a>
 
-Malay seals of the 19th century hold important information, says Annabel Teh Gallop.
+Malay seals of the 19th century hold important information, says **Annabel Teh Gallop**.
 
 <img src="/images/Vol-16-issue-1/malay-seals/malay_seals_titles_topic.png" style="width:80%;">
 
@@ -80,7 +80,7 @@ One postcard may not say much, but a collection of postcards can speak volumes.&
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-3/oct-dec-2019/tan-swie-hian-coll/">Exploring an Artist’s Mind: The Tan Swie Hian Collection</a>
 
-What makes the difference between a good artist and a brilliant one?&nbsp;Goh Yu Mei&nbsp;delves into the books and artworks that have inspired a literary and artistic genius.
+What makes the difference between a good artist and a brilliant one?&nbsp;**Goh Yu Mei**&nbsp;delves into the books and artworks that have inspired a literary and artistic genius.
 
 <img src="/images/Vol-15-issue-3/exploring-an-artist-s-mind/Explore1.JPG" style="width:80%;">
 
@@ -88,14 +88,14 @@ What makes the difference between a good artist and a brilliant one?&nbsp;Goh Yu
  
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/georgette-chen">Georgette Chen: Artist Extraordinaire</a>
 
-Sara Siew examines the link between visual art and the written word through the fascinating story of Singaporean artist Georgette Chen.
+**Sara Siew** examines the link between visual art and the written word through the fascinating story of Singaporean artist Georgette Chen.
 
 <img src="/images/Vol-15-issue-2/artist-extraordinaire/artist5_topic.png" style="width:80%; height:90%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/contemporary-art">Groundbreaking: The Origins of Contemporary Art in Singapore</a>
 
-1988 has been held as the watershed year in which Singapore’s contemporary art took root with the establishment of The Artists Village.&nbsp;Jeffrey Say&nbsp;debunks this view, asserting that the contemporary art movement began earlier.
+1988 has been held as the watershed year in which Singapore’s contemporary art took root with the establishment of The Artists Village.&nbsp;**Jeffrey Say**&nbsp;debunks this view, asserting that the contemporary art movement began earlier.
 
 <img src="/images/Vol-15-issue-2/origins-of-art-in-sg/groundbreaking1_topic.png" style="width:80%; height:90%;">
 <hr>
