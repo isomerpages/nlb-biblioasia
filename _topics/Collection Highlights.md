@@ -48,7 +48,21 @@ A treaty that sealed Singapore’s fate, a contract for the sale of child brides
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-4/jan-mar-2019/when-there-wre-farms/">When There Were Farms</a>
 
-To mark its centenary, a Chinese clan association recently donated its archives of heritage documents to the National Library.&nbsp;**Jessie Yak**&nbsp;shares highlights from the collection.
-  
+**Zoe Ye**o presents a selection of publications on farming in Singapore from the National Library’s Legal Deposit Collection.
+
 <img src="/images/Vol-14-issue-4/when-there-were-farms/farm_topic.png" style="width:80%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-4/jan-mar-2019/sg-chin-kang-hertge/">Singapore’s Chin Kang Heritage</a>
+
+To mark its centenary, a Chinese clan association recently donated its archives of heritage documents to the National Library.&nbsp;**Jessie Yak**&nbsp;shares highlights from the collection.
+
+<img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-4/singapore-chin-kang-heritage/Heritage1.JPG">
+<div style="background-color: white;">
+<hr>
+
+
+
+
+
+</div>
