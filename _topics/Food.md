@@ -143,10 +143,15 @@ Thrift, hard work and resilience are qualities that can be nurtured through food
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-1/apr-jun-2018/ramen-teh/">Ramen Teh: Food, War and Memory</a>
 
-Eric Khoo tells us how the Japanese Occupation,&nbsp;_ramen_&nbsp;noodles and&nbsp;_bak kut teh_&nbsp;became the inspiration for his latest film.&nbsp;**Lu Wenshi**&nbsp;finds out more.
+Eric Khoo tells us how the Japanese Occupation,&nbsp; _ramen_&nbsp;noodles and&nbsp;_bak kut teh_&nbsp;became the inspiration for his latest film.&nbsp;**Lu Wenshi**&nbsp;finds out more.
 
 <img src="/images/Vol-14-issue-1/ramen-teh/Ramen1.JPG" style="width:80%;">
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-4/jan-mar-2018/ideal-sgporean-female/">Recipes for the Ideal Singaporean Female</a>
+
+From cooking, cleaning and becoming a good mother to outsourcing housework as careers for women took off.&nbsp;**Sheere Ng**&nbsp;charts how home economics lessons have evolved over the years.
+
+<img src="/images/Vol-13-issue-4/ideal-singaporean-female/01_idealsgfemale.png" style="width:80%;">
 
 
 <hr>
