@@ -114,3 +114,16 @@ Launch issues can make or break a new publication.&nbsp;**Barbara Quek**&nbsp;sh
 
 <img src="/images/Vol-13-issue-4/textbooks-we-remember/01_textbooks.jpg">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-4/jan-mar-2018/textbooks-we-remember/">Warm Tidings in a Cold War</a>
+
+Remittance letters between Singapore and China during the height of the Cold War from the 1950s–70s recount both the joy and angst of relationships across the miles.&nbsp;**Dong Hui Ying**&nbsp;delves deeper.
+
+<img src="/images/Vol-13-issue-4/warm-tidings-in-a-cold-war/01_warmtiding.jpg">
+<hr>
+
+
+
+
+
+
