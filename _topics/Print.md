@@ -168,9 +168,19 @@ Launch issues can make or break a new publication. **Barbara Quek**&nbsp;shares 
 <img src="/images/Vol-14-issue-1/first-issues/First1.JPG">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-4/jan-mar-2018/textbooks-we-remember/">Textbooks We Remember</a>
 
+**Shereen Tay**&nbsp;pores through the National Library’s collection of old primary school English textbooks, and uncovers some classics in the process.
 
+<img src="/images/Vol-13-issue-4/textbooks-we-remember/01_textbooks.jpg">
+<hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-4/jan-mar-2018/kelly-and-walsh/">Kelly &amp; Walsh: Purveyor, Publisher and Printer</a>
+
+Established in the 1880s, Kelly &amp; Walsh was an iconic name in the Singapore book trade until its closure in 1956.&nbsp;**Gracie Lee**&nbsp;traces its history as bookseller, publisher and printer.
+
+<img src="/images/Vol-13-issue-4/kelly-and-walsh/01_KW.jpg">
+<hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-3/oct-dec-2017/early-malay-printing/">Early Malay Printing in Singapore</a>
 
