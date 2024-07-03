@@ -129,6 +129,3 @@ This unique style of architecture only reigned for five decades in China, yet se
 
 <img src="/images/Vol-14-issue-1/chinese-renaissance-architect/Renaissance1.JPG" style="width:80%;">
 <hr>
-
-
-
