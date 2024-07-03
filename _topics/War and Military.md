@@ -177,6 +177,15 @@ A band of extraordinary women rose above oppression and poverty in Malayan plant
 **Ronnie Tan**&nbsp;pieces together the fascinating story of Lee Meng, the Malayan Communist Party female agent who headed its courier network for a brief period in 1952.
 
 <img src="/images/Vol-14-issue-1/hunting-down-the-malayan/Hunta.JPG" style="width:50%;">
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-1/apr-jun-2018/scret-war-expmt-insg/">Secret War Experiments in Singapore</a>
+
+The story of the Imperial Japanese Army farming bubonic plague-bearing fleas as biological weapons is very much fact, not fiction.&nbsp;**Cheong Suk-Wai**&nbsp;delves deeper.
+
+<img src="/images/Vol-14-issue-1/secret-war-experiments-in-sg/Secret1.JPG" style="width:80%;">
 <hr>
 
 
+
+
+<hr>
