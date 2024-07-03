@@ -69,6 +69,12 @@ Is the&nbsp;_Vanda_&nbsp;Miss Joaquim a human-made hybrid or a happy accident? I
 <img src="/images/Vol-14-issue-1/blooming-lies/Blooming1.JPG" style="width:50%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-4/jan-mar-2018/whentigersusedtoroam/">When Tigers Used to Roam: Nature &amp; Environment in Singapore</a>
+
+Urban development has destroyed much of the original landscape, as&nbsp;**Goh Lee Kim**&nbsp;tells us. But Singapore has taken great strides in conserving its natural heritage.
+
+<img src="/images/Vol-13-issue-4/when-tigers-used-to-roam/01_tigerroam.jpg" style="width:80%;">
+<hr>
 
 
 <hr>
