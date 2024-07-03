@@ -130,5 +130,12 @@ A band of extraordinary women rose above oppression and poverty in Malayan plant
 <img src="/images/Vol-14-issue-1/hunting-down-the-malayan/Hunta.JPG" style="width:50%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-1/apr-jun-2018/blooming-lies-vandaj/">Blooming Lies: The Vanda Miss Joaquim Story</a>
+
+Is the&nbsp;_Vanda_&nbsp;Miss Joaquim a human-made hybrid or a happy accident? In this cautionary tale,&nbsp;**Nadia Wright, Linda Locke and Harold Johnson**&nbsp;recount how fiction becomes truth when it is repeated often enough.
+
+
+<img src="/images/Vol-14-issue-1/blooming-lies/Blooming1.JPG" style="width:50%;">
+<hr>
 
 
