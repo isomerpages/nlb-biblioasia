@@ -147,8 +147,8 @@ Traditional Chinese medicine in Singapore has a history that goes back to more t
 
 **Ong Eng Chuan**&nbsp;pores through the faded colonial-era postcards of Peranakan luminary Song Ong Siang to piece together highlights of his 10-month European sojourn.
 
-
-
-<img src="/images/Vol-13-issue-3/traditional-chinese-medicine/01a-chinesemedicine.png" style="width:70%;">
+<img src="/images/Vol-13-issue-3/mr-song-european-escapade/03a_escapade.png" style="width:70%;">
 <hr>
+
+
 
