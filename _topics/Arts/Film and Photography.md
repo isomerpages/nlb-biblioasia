@@ -87,4 +87,14 @@ K.F. Wong shot to international fame with his images of Borneo, though not witho
 <img src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore1.JPG" style="width:80%;">  
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-1/apr-jun-2018/ramen-teh/">Ramen Teh: Food, War and Memory</a>
 
+Eric Khoo tells us how the Japanese Occupation,&nbsp; _ramen_&nbsp;noodles and&nbsp;_bak kut teh_&nbsp;became the inspiration for his latest film.&nbsp;**Lu Wenshi**&nbsp;finds out more.
+
+<img src="/images/Vol-14-issue-1/ramen-teh/Ramen1.JPG" style="width:80%;">
+<hr>
+
+
+
+
+<hr>
