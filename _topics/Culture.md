@@ -102,6 +102,13 @@ Celebrated by Hindus of South Indian origins, the Golu festival is a lively mela
 <img src="/images/Vol-14-issue-3/magic-or-medicine-malay-hp/MagicMed1.JPG" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-2/jul-sep-2018/nan-an-history-in-sg/">Preserving Nan’an History in Singapore</a>
+
+The National Library recently received several rare items connected to the history of the Nan’an community and Hong San See Temple in Singapore.&nbsp;**Ang Seow Leng**&nbsp;presents highlights of the collection.
+
+<img src="/images/Vol-14-issue-2/preserving-nanan-history-in-sg/Preserving1.JPG">
+<hr>
+
 
 
 
