@@ -73,3 +73,13 @@ The city was a major pit stop for visiting entertainers and sportsmen in the ear
 
 <img src="/images/Vol-14-issue-4/singapore-stopover/Stopover1.JPG" style="width:80%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-1/apr-jun-2018/st-johns-island-gtwy/">St John’s Island: From Gateway to Getaway</a>
+
+St John’s Island was once home to new migrants, opium addicts and political detainees.&nbsp;**Marcus Ng**&nbsp;charts the island’s transformation from a place of exile to an oasis of idyll.
+
+<img src="/images/Vol-14-issue-1/st-johns-island/StJohn1.JPG" style="width:80%;">
+<hr>
+
+
+<hr>
