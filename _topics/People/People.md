@@ -260,5 +260,12 @@ Who was the architect behind Singapore’s Kranji War Cemetery and other similar
 <img src="/images/Vol-14-issue-3/in-honour-of-war-heroes/Honour1.JPG" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-2/jul-sep-2018/malay-seafarer-in-lp/">Malay Seafarers in Liverpool</a>
+
+**Tim Bunnell**&nbsp;speaks to former Malay sailors who reside in the English city and learns how they manage to sustain their identity in a city so removed from home.
+
+<img src="/images/Vol-14-issue-2/malay-seafarers-in-liverpool/Seafarers1.JPG" style="width:80%;">
+<hr>
+
 
 
