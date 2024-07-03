@@ -185,7 +185,12 @@ The story of the Imperial Japanese Army farming bubonic plague-bearing fleas as 
 <img src="/images/Vol-14-issue-1/secret-war-experiments-in-sg/Secret1.JPG" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-4/jan-mar-2018/stories-they-tell/">The Stories They Could Tell</a>
 
+Old photographs and documents can reveal new things about our history, as&nbsp;**Yu-Mei Balasingamchow** discovered when she sieved through the National Archives’ war collections.
+
+<img src="/images/Vol-13-issue-4/the-stories-they-could-tell/01_stories.jpg">
+<hr>
 
 
 <hr>
