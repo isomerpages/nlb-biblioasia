@@ -143,3 +143,12 @@ In the aftermath of the Japanese Occupation, the colonial government set up feed
 
 <img src="/images/Vol-15-issue-1/feeding-the-hungry/hungrychildren_topic.png" style="width:80%;">													
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-2/jul-sep-2018/our-home-sweet-home/">Our Home Sweet Home</a>
+
+Public housing is a Singapore success story, but the early years of high-rise living were sometimes a bittersweet experience.&nbsp;**Janice Loo**&nbsp;pores through the pages of&nbsp;_Our Home_&nbsp;magazine during its 17-year run.
+
+<img src="/images/Vol-14-issue-2/our-home-sweet-home/Home1.JPG" style="width:60%;">
+<hr>
+
+
