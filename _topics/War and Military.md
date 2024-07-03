@@ -150,3 +150,13 @@ Desperate times call for desperate measures.&nbsp;<b>Lee Geok Boi</b>&nbsp;trawl
 
 <img src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/iron1_topic.png" style="width:80%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-3/oct-dec-2018/honour-of-war-heroes/">In Honour of War Heroes: The Legacy of Colin St Clair Oakes</a>
+
+Who was the architect behind Singapore’s Kranji War Cemetery and other similar memorials in South and Southeast Asia?&nbsp;**Athanasios Tsakonas**&nbsp;has the story.
+
+<img src="/images/Vol-14-issue-3/in-honour-of-war-heroes/Honour1.JPG" style="width:80%;">
+<hr>
+
+
+
