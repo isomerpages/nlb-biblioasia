@@ -109,3 +109,12 @@ The Singapore Council of Women was the city’s first female civil rights group 
 <img src="/images/Vol-14-issue-3/blazing-a-trail/BlazingTrail1.JPG" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-2/jul-sep-2018/globetrotting-mum-nw/">Globetrotting Mums: Then and Now</a>
+
+**Bonny Tan**&nbsp;interweaves her own experiences as a modern Singaporean mother travelling and living abroad with those of two Victorian-era Englishwomen.
+
+<img src="/images/Vol-14-issue-2/globetrotting-mums/Globetrotting1.JPG" style="width:80%;">
+<hr>
+
+
+
