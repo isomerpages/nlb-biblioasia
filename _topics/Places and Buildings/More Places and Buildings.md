@@ -189,3 +189,11 @@ Keppel and Sembawang shipyards are major players in Singapore’s maritime and s
 
 <img src="/images/Vol-15-issue-1/building-history/01a_buildinghistory.jpg" style="width:80%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-1/apr-jun-2018/st-johns-island-gtwy/">St John’s Island: From Gateway to Getaway</a>
+
+St John’s Island was once home to new migrants, opium addicts and political detainees.&nbsp;**Marcus Ng**&nbsp;charts the island’s transformation from a place of exile to an oasis of idyll.
+
+<img src="/images/Vol-14-issue-1/st-johns-island/StJohn1.JPG" style="width:80%;">
+<hr>
+
