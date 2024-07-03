@@ -165,3 +165,13 @@ Eric Khoo tells us how the Japanese Occupation,&nbsp; _ramen_&nbsp;noodles and&n
 <img src="/images/Vol-14-issue-1/ramen-teh/Ramen1.JPG" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-1/apr-jun-2018/warrior-women-rani/">Warrior Women: The Rani of Jhansi Regiment</a>
+
+A band of extraordinary women rose above oppression and poverty in Malayan plantations to overthrow the British in colonial India.&nbsp;**Meira Chand**&nbsp;has the story.
+
+<img src="/images/Vol-14-issue-1/warrior-women/Warrior1.JPG" style="width:80%;">
+<hr>
+
+
+
+
