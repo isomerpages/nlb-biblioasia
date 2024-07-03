@@ -102,6 +102,10 @@ Acclaimed poet and playwright&nbsp;**Robert Yeo**&nbsp;pays tribute to his daugh
 <img src="/images/Vol-14-issue-3/an-ode-to-two-women/AnOde1.JPG" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-3/oct-dec-2018/blazing-a-trail/">Blazing a Trail: The Fight for Women’s Rights in Singapore</a>
 
+The Singapore Council of Women was the city’s first female civil rights group that took bold steps to champion laws affecting women.&nbsp;**Phyllis Chew**&nbsp;documents its hard-won victories.
 
+<img src="/images/Vol-14-issue-3/blazing-a-trail/BlazingTrail1.JPG" style="width:80%;">
+<hr>
 
