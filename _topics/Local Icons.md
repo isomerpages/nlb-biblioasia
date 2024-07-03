@@ -165,4 +165,13 @@ The foundation stone for the Causeway was laid 100 years ago. We look back at th
 <img src="/images/Vol-14-issue-3/the-house-of-ripples/Ripples1.JPG" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-2/jul-sep-2018/aye-bke-cte-expways/">The A(YE), B(KE) and C(TE) of Expressways</a>
+
+**Lim Tin Seng**&nbsp;charts the history of Singapore’s expressways, from the oldest Pan-Island Expressway, built in the 1960s to the newest Marina Coastal Expressway.
+
+<img src="/images/Vol-14-issue-2/the-aye-bke-and-cte-of-expways/Road1.JPG" style="width:60%;">
+<hr>
+
+
+
 
