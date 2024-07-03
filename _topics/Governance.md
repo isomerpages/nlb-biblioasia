@@ -151,4 +151,12 @@ Public housing is a Singapore success story, but the early years of high-rise li
 <img src="/images/Vol-14-issue-2/our-home-sweet-home/Home1.JPG" style="width:60%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-1/apr-jun-2018/four-taps-sg-water/">Four Taps: The Story of Singapore Water</a>
+
+From a hole in the ground to running water at the turn of the tap.&nbsp;**Lim Tin Seng**&nbsp;tells us how far Singapore has come in its search for water.
+
+<img src="/images/Vol-14-issue-1/four-taps-of-singapore-water/FourTaps1.JPG" style="width:80%;">
+<hr>
+
+
 
