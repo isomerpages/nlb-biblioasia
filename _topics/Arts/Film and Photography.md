@@ -94,6 +94,12 @@ Eric Khoo tells us how the Japanese Occupation,&nbsp; _ramen_&nbsp;noodles and&n
 <img src="/images/Vol-14-issue-1/ramen-teh/Ramen1.JPG" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-1/apr-jun-2018/portrait-lee-bro-std/">Portraits from the Lee Brothers Studio</a>
+
+**Gretchen Liu**&nbsp;casts the spotlight on the Lee Brothers Studio Collection. Comprising some 2,500 images, this is the largest single collection of photographic portraits in the National Archives of Singapore.
+
+<img src="/images/Vol-14-issue-1/portraits-from-lee-bros-studio/Portraits1.JPG" style="width:80%;">
+<hr>
 
 
 
