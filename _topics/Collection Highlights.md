@@ -164,3 +164,11 @@ Secret societies arrived on the back of mass migrations of Chinese to Asia in th
 <img src="/images/Vol-13-issue-2/heaven-earth-brotherhood/01a_heavenearth.jpg" style="width:30%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/party-time-raffles/">Party Time at the Raffles</a>
+
+The National Library’s collection of menu cards from Raffles Hotel provides an inkling of lavish parties and fine dining from bygone days.&nbsp;**Francis Dorai**&nbsp;and&nbsp;**Jessie Yak**&nbsp;take a peek.
+
+<img src="/images/Vol-12-issue-4/party-time-with-raffles/postcard-view.jpg" style="width:80%;">
+<hr>
+
+
