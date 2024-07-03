@@ -186,4 +186,12 @@ Between the mid-1930s and 1960, only four swimming pool complexes in Singapore w
 <img src="/images/Vol-13-issue-4/memory-laps/01_memorylaps.png">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-4/jan-mar-2018/living-up-at-capitol/">Living it Up at the Capitol</a>
+
+Capitol Theatre was the premier venue for film and stage when it opened in 1930.&nbsp;**Bonny Tan**&nbsp;uses oral history recordings to piece together pre-war narratives of the theatre.
+
+<img src="/images/Vol-13-issue-4/living-it-up-at-the-capitol/01_livingcapitol.jpg">
+<hr>
+
+
 
