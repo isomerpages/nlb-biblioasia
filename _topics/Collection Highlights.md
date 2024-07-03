@@ -170,5 +170,3 @@ The National Library’s collection of menu cards from Raffles Hotel provides an
 
 <img src="/images/Vol-12-issue-4/party-time-with-raffles/postcard-view.jpg" style="width:80%;">
 <hr>
-
-
