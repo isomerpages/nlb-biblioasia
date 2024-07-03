@@ -116,6 +116,10 @@ What was the act of shopping like for a generation that was more concerned about
 <img src="/images/Vol-14-issue-2/going-shopping-in-the-60s/Shopping1.JPG" style="width:50%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-1/apr-jun-2018/chinese-education/">文言与白话的抗争与磨合: 近代华文教学语体的蜕变历程 (Classical and Modern Chinese Education)</a>
 
+Classical and Modern Chinese education in Mainland China and Taiwan has been debated for over a century.&nbsp;**Chua Chee Lay**&nbsp;analyses its development and provides valuable lessons from history.
 
+<img src="/images/Vol-14-issue-1/chinese/Chinese1.jpg" style="width:80%;">
+<hr>
 
