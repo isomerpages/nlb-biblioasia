@@ -136,5 +136,12 @@ Singapore has emerged as a leading Asian fashion capital in recent years.&nbsp;*
 <img src="/images/Vol-13-issue-3/the-way-we-were/01_thewaywewere.png">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-3/oct-dec-2017/traditionalchinesemed/">从馆藏文献资料认识中医药在新加坡 的历史与发展 (Traditional Chinese Medicine in Singapore)</a>
+
+Traditional Chinese medicine in Singapore has a history that goes back to more than a century.&nbsp;**Vicky Gao**&nbsp;traces its development through the National Library’s collection.
+
+<img src="/images/Vol-13-issue-3/traditional-chinese-medicine/01a-chinesemedicine.png" style="width:70%;">
+<hr>
+
 
 
