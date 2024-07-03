@@ -122,3 +122,13 @@ Classical and Modern Chinese education in Mainland China and Taiwan has been deb
 
 <img src="/images/Vol-14-issue-1/chinese/Chinese1.jpg" style="width:80%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-1/apr-jun-2018/chinese-rensc-archit/">Chinese Renaissance Architecture</a>
+
+This unique style of architecture only reigned for five decades in China, yet several buildings in Singapore still bear the hallmarks of this hybrid form, says&nbsp;**Julian Davison**.
+
+<img src="/images/Vol-14-issue-1/chinese-renaissance-architect/Renaissance1.JPG" style="width:80%;">
+<hr>
+
+
+
