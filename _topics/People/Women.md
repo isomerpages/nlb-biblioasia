@@ -144,5 +144,14 @@ From cooking, cleaning and becoming a good mother to outsourcing housework as ca
 <img src="/images/Vol-13-issue-4/ideal-singaporean-female/01_idealsgfemale.png" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-4/jan-mar-2018/women-on-a-mission/">Women on a Mission</a>
+
+Female missionaries in colonial Singapore have made their mark in areas such as education, welfare and health services.&nbsp;**Jaime Koh**&nbsp;looks at some of these intrepid trailblazers.
+
+<img src="/images/Vol-13-issue-4/women-on-a-mission/01_womenmission.jpg" style="width:80%;">
+<hr>
+
+
+
 
 
