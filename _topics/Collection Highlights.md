@@ -157,4 +157,10 @@ National Service is a rite of passage for Singaporean men when they come of age.
 <img src="/images/Vol-13-issue-2/50-years-of-ns/01a_ns.png" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-2/jul-sep-2017/heaven-earth-brother/">Heaven, Earth and Brotherhood</a>
+
+Secret societies arrived on the back of mass migrations of Chinese to Asia in the colonial era.&nbsp;**Makeswary Periasamy**&nbsp;highlights the National Library’s collection of early books on Chinese triads.
+
+<img src="/images/Vol-13-issue-2/heaven-earth-brotherhood/01a_heavenearth.jpg" style="width:30%;">
+<hr>
 
