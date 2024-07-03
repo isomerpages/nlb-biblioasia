@@ -48,7 +48,6 @@ Singapore has planted more than two million trees in the past 50 years. **Lim Ti
 
 
 <img src="/images/Vol-16-issue-2/raffles/stork.jpg" style="width:80%;">
-		
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-3/oct-dec-2019/biodiversityheritage/">A Slice of Singapore in the Biodiversity Heritage Library</a>
@@ -56,3 +55,13 @@ Singapore has planted more than two million trees in the past 50 years. **Lim Ti
 
 <img src="/images/Vol-15-issue-3/a-slice-of-sg-biodiversity/biodiversity_topic.png" style="width:80%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-2/jul-sep-2018/revulsion-n-reverenc/">Revulsion and Reverence: Crocodiles in Singapore</a>
+
+Crocodiles elicit fear and respect by turns – and occasionally, even indifference.&nbsp;**Kate Pocklington**&nbsp;and&nbsp;**Siddharta Perez**&nbsp;document reptilian encounters at specific times in Singapore’s history and their impact on the human psyche.
+
+<img src="/images/Vol-14-issue-2/revulsion-and-reverence/Croc1.JPG" style="width:80%;">
+<hr>
+
+
+
