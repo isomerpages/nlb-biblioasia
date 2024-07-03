@@ -172,6 +172,11 @@ The foundation stone for the Causeway was laid 100 years ago. We look back at th
 <img src="/images/Vol-14-issue-2/the-aye-bke-and-cte-of-expways/Road1.JPG" style="width:60%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-4/jan-mar-2018/kelly-and-walsh/">Kelly &amp; Walsh: Purveyor, Publisher and Printer</a>
 
+Established in the 1880s, Kelly &amp; Walsh was an iconic name in the Singapore book trade until its closure in 1956.&nbsp;**Gracie Lee**&nbsp;traces its history as bookseller, publisher and printer.
+
+<img src="/images/Vol-13-issue-4/kelly-and-walsh/01_KW.jpg">
+<hr>
 
 
