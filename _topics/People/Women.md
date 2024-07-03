@@ -123,5 +123,12 @@ A band of extraordinary women rose above oppression and poverty in Malayan plant
 <img src="/images/Vol-14-issue-1/warrior-women/Warrior1.JPG" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-1/apr-jun-2018/malayan-mata-hari/">Hunting Down the Malayan Mata Hari</a>
+
+**Ronnie Tan**&nbsp;pieces together the fascinating story of Lee Meng, the Malayan Communist Party female agent who headed its courier network for a brief period in 1952.
+
+<img src="/images/Vol-14-issue-1/hunting-down-the-malayan/Hunta.JPG" style="width:50%;">
+<hr>
+
 
 
