@@ -109,5 +109,13 @@ The National Library recently received several rare items connected to the histo
 <img src="/images/Vol-14-issue-2/preserving-nanan-history-in-sg/Preserving1.JPG">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-2/jul-sep-2018/going-shopping-in60s/">Going Shopping in the 60s</a>
+
+What was the act of shopping like for a generation that was more concerned about putting food on the table?&nbsp;**Yu-Mei Balasingamchow**&nbsp;ponders over our penchant for shopping.
+
+<img src="/images/Vol-14-issue-2/going-shopping-in-the-60s/Shopping1.JPG" style="width:50%;">
+<hr>
+
+
 
 
