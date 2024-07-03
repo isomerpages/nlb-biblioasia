@@ -80,3 +80,24 @@ History may be written by the victors, but what they conveniently leave out can 
 
 <img src="/images/Vol-15-issue-2/dont-mention-the-corpses/Corpses1.JPG" style="width:80%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-3/oct-dec-2018/an-ode-to-two-women/">An Ode to Two Women</a>
+
+Acclaimed poet and playwright&nbsp;**Robert Yeo**&nbsp;pays tribute to his daughter and a noted author in chapter two of his work-in-progress sequel to his memoir&nbsp;_Routes_.
+
+<img src="/images/Vol-14-issue-3/an-ode-to-two-women/AnOde1.JPG" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-1/apr-jun-2018/chinese-education/">文言与白话的抗争与磨合: 近代华文教学语体的蜕变历程 (Classical and Modern Chinese Education)</a>
+
+Classical and Modern Chinese education in Mainland China and Taiwan has been debated for over a century.&nbsp;**Chua Chee Lay**&nbsp;analyses its development and provides valuable lessons from history.
+
+<img src="/images/Vol-14-issue-1/chinese/Chinese1.jpg" style="width:80%;">
+<hr>
+
+
+
+
+
+
+
