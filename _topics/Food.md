@@ -146,6 +146,7 @@ Thrift, hard work and resilience are qualities that can be nurtured through food
 Eric Khoo tells us how the Japanese Occupation,&nbsp; _ramen_&nbsp;noodles and&nbsp;_bak kut teh_&nbsp;became the inspiration for his latest film.&nbsp;**Lu Wenshi**&nbsp;finds out more.
 
 <img src="/images/Vol-14-issue-1/ramen-teh/Ramen1.JPG" style="width:80%;">
+<hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-4/jan-mar-2018/ideal-sgporean-female/">Recipes for the Ideal Singaporean Female</a>
 
