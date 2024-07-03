@@ -158,5 +158,11 @@ From a hole in the ground to running water at the turn of the tap.&nbsp;**Lim Ti
 <img src="/images/Vol-14-issue-1/four-taps-of-singapore-water/FourTaps1.JPG" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-4/jan-mar-2018/maysingaporeflourish/">May Singapore Flourish! Revisiting the Municipal Coat of Arms</a>
 
+In April 1948, the municipality of Singapore received a coat of arms by royal warrant.&nbsp;**Mark Wong**&nbsp;reports on the significance of this document.
+
+
+<img src="/images/Vol-13-issue-4/may-singapore-flourish/01_flourish.jpg" style="width:50%;">
+<hr>
 
