@@ -107,6 +107,13 @@ What makes the difference between a good artist and a brilliant one?&nbsp;**Goh 
 <img src="/images/Vol-14-issue-4/creative-collectives/xz_topic.png" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-4/jan-mar-2018/stamping-history/">Stamping History</a>
+
+Postage stamps are more than little squares of paper to be stuck on envelopes.&nbsp;**Justin Zhuang**&nbsp;discovers how stamps have helped forge Singapore’s identity over the past five decades.
+
+<img src="/images/Vol-13-issue-4/stamping-history/02_stamping.jpg">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/windows-into-history">Windows into History</a>
 
 Drawings discovered in a Belgian archive help fill gaps in the history of stained glass windows in Singapore. Yeo Kang Shua and Swati Chandgadkar reveal their findings. 
