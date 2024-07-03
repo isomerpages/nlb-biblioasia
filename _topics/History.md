@@ -31,3 +31,11 @@ Ice has been an indispensable commodity in tropical Singapore since the late 19t
 
 <img src="/images/Vol-14-issue-4/looking-back-at-700-yrs-of-sg/LookingBack_topic.png" style="width:80%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-1/apr-jun-2018/four-taps-sg-water/">Four Taps: The Story of Singapore Water</a>
+
+From a hole in the ground to running water at the turn of the tap.&nbsp;**Lim Tin Seng**&nbsp;tells us how far Singapore has come in its search for water.
+
+<img src="/images/Vol-14-issue-1/four-taps-of-singapore-water/FourTaps1.JPG" style="width:80%;">
+<hr>
+
