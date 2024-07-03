@@ -192,6 +192,3 @@ Capitol Theatre was the premier venue for film and stage when it opened in 1930.
 
 <img src="/images/Vol-13-issue-4/living-it-up-at-the-capitol/01_livingcapitol.jpg">
 <hr>
-
-
-
