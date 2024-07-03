@@ -94,3 +94,14 @@ Thrift, hard work and resilience are qualities that can be nurtured through food
 
 <img src="/images/Vol-14-issue-4/life-lessons-in-chetty-m-kit/chetty1_topic.png" style="width:80%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-3/oct-dec-2018/an-ode-to-two-women/">An Ode to Two Women</a>
+
+Acclaimed poet and playwright&nbsp;**Robert Yeo**&nbsp;pays tribute to his daughter and a noted author in chapter two of his work-in-progress sequel to his memoir&nbsp;_Routes_.
+
+<img src="/images/Vol-14-issue-3/an-ode-to-two-women/AnOde1.JPG" style="width:80%;">
+<hr>
+
+
+
+
