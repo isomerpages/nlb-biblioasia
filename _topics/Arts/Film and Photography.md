@@ -79,3 +79,12 @@ K.F. Wong shot to international fame with his images of Borneo, though not witho
 
 <img src="/images/Vol-15-issue-2/from-the-archives/kfwong_topic.png" style="width:80%;">  
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-3/oct-dec-2018/five-ashore-in-sg/">Five Ashore in Singapore: A European Spy Film</a>
+
+**Raphaël Millet**&nbsp;sits through a B-grade movie dismissed by critics as belonging to the genre of Eurospy flicks that parody James Bond – and discovers a slice of Singaporean celluloid history.
+
+<img src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore1.JPG" style="width:80%;">  
+<hr>
+
+
