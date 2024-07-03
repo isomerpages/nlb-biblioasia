@@ -150,5 +150,11 @@ Traditional Chinese medicine in Singapore has a history that goes back to more t
 <img src="/images/Vol-13-issue-3/mr-song-european-escapade/03a_escapade.png" style="width:70%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-2/jul-sep-2017/50years-of-ns/">50 Years of National Service</a>
+
+National Service is a rite of passage for Singaporean men when they come of age.&nbsp;**Sharen Chua**&nbsp;shares highlights of books on National Service in the Legal Deposit Collection.
+
+<img src="/images/Vol-13-issue-2/50-years-of-ns/01a_ns.png" style="width:80%;">
+<hr>
 
 
