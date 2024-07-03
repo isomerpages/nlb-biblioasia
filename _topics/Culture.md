@@ -95,3 +95,13 @@ Celebrated by Hindus of South Indian origins, the Golu festival is a lively mela
 
 <img src="/images/Vol-15-issue-3/navaratri-golu/Navaratri1.JPG" style="width:85%;">													
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-3/oct-dec-2018/magic-or-med-m-heal/">Magic or Medicine? Malay Healing Practices</a>
+<p>Is traditional Malay medicine based on superstition and folklore or grounded in scientific evidence? Nadirah Norruddin uncovers the varying perceptions of Malay medicine in colonial Malaya.</p> 
+
+<img src="/images/Vol-14-issue-3/magic-or-medicine-malay-hp/MagicMed1.JPG" style="width:80%;">
+<hr>
+
+
+
+
