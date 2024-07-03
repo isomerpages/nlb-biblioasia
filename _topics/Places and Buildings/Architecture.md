@@ -80,3 +80,22 @@ The foundation stone for the Causeway was laid 100 years ago. We look back at th
 
 <img src="/images/Vol-14-issue-4/bridging-history-pswy-ars-wtr/Bridging1.JPG" style="width:80%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-3/oct-dec-2018/the-house-of-ripples/">The House of Ripples</a>
+
+**Martina Yeo**&nbsp;and&nbsp;**Yeo Kang**&nbsp;Shua piece together historical details of the little-known River House in Clarke Quay and discover that it was once a den for illicit triad activity.
+
+<img src="/images/Vol-14-issue-3/the-house-of-ripples/Ripples1.JPG" style="width:80%;">
+<hr>
+
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-3/oct-dec-2018/honour-of-war-heroes/">In Honour of War Heroes: The Legacy of Colin St Clair Oakes</a>
+
+Who was the architect behind Singapore’s Kranji War Cemetery and other similar memorials in South and Southeast Asia?&nbsp;**Athanasios Tsakonas**&nbsp;has the story.
+
+<img src="/images/Vol-14-issue-3/in-honour-of-war-heroes/Honour1.JPG" style="width:80%;">
+<hr>
+
+
+
+
