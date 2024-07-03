@@ -197,3 +197,10 @@ St John’s Island was once home to new migrants, opium addicts and political de
 <img src="/images/Vol-14-issue-1/st-johns-island/StJohn1.JPG" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-4/jan-mar-2018/memory-laps/">Memory Laps: Pool-time Recollections</a>
+
+Between the mid-1930s and 1960, only four swimming pool complexes in Singapore were open for public use.&nbsp;**Jocelyn Lau**&nbsp;speaks to people who remember these pools.
+
+<img src="/images/Vol-13-issue-4/memory-laps/01_memorylaps.png">
+<hr>
+
