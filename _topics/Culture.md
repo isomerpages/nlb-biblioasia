@@ -122,4 +122,3 @@ Classical and Modern Chinese education in Mainland China and Taiwan has been deb
 
 <img src="/images/Vol-14-issue-1/chinese/Chinese1.jpg" style="width:80%;">
 <hr>
-
