@@ -151,6 +151,19 @@ Female missionaries in colonial Singapore have made their mark in areas such as 
 <img src="/images/Vol-13-issue-4/women-on-a-mission/01_womenmission.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-3/oct-dec-2017/lifetime-of-labour/">A Lifetime of Labour: Cantonese Amahs in Singapore</a>
+
+**Cheah Hwei-Fe’n**&nbsp;examines the impact of print media on the time-honoured craft of Peranakan embroidery and beadwork.
+
+<img src="/images/Vol-13-issue-3/a-lifetime-of-labour/01_amah.png" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/beneath-glitz-glamour/">Beneath the Glitz and Glamour: The Untold Story of the “Lancing” Girls</a>
+
+**Cheah Hwei-Fe’n**&nbsp;examines the impact of print media on the time-honoured craft of Peranakan embroidery and beadwork.
+
+<img src="/images/Vol-12-issue-4/glitz-and-glamour/3-beneath_glitz_glamour.jpg" style="width:100%;">
+<hr>
 
 
 
