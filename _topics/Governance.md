@@ -179,5 +179,21 @@ From as many as 11 bus companies to just one bus operator by 1973.&nbsp;**Lee Me
 <img src="/images/Vol-13-issue-3/public-buses-in-singapore/01_publicbus.png" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-2/jul-sep-2017/50years-of-ns/">50 Years of National Service</a>
+
+National Service is a rite of passage for Singaporean men when they come of age.&nbsp;**Sharen Chua**&nbsp;shares highlights of books on National Service in the Legal Deposit Collection.
+
+<img src="/images/Vol-13-issue-2/50-years-of-ns/01a_ns.png" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-1/apr-jun-2017/voices-that-remain/">Voices That Remain: Oral History Accounts of the Japanese Occupation</a>
+
+Oral history accounts of the Japanese Occupation take on added poignancy, says&nbsp;**Mark Wong**, as we mark the 75th anniversary of the Fall of Singapore.
+
+<img src="/images/Vol-13-issue-1/voices-that-remain/01a_voicesremain.jpg" style="width:80%;">
+<hr>
+
+
+
 
 
