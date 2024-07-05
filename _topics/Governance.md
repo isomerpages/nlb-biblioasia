@@ -162,7 +162,22 @@ From a hole in the ground to running water at the turn of the tap.&nbsp;**Lim Ti
 
 In April 1948, the municipality of Singapore received a coat of arms by royal warrant.&nbsp;**Mark Wong**&nbsp;reports on the significance of this document.
 
-
 <img src="/images/Vol-13-issue-4/may-singapore-flourish/01_flourish.jpg" style="width:50%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-3/oct-dec-2017/third-charter-justice/">The Symbolism Behind the Third Charter of Justice</a>
+
+This legal document – issued by the colonial government in 1855 – is an integral part of Singapore’s constitutional history.&nbsp;**Kevin Khoo**&nbsp;explains the significance of its elaborate borders.
+
+<img src="/images/Vol-13-issue-3/the-third-charter-of-justice/01a_justice.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-3/oct-dec-2017/roadtonationalisation/">The Road to Nationalisation: Public Buses in Singapore</a>
+
+From as many as 11 bus companies to just one bus operator by 1973.&nbsp;**Lee Meiyu**&nbsp;chronicles the early turbulent days of Singapore’s bus industry.
+
+<img src="/images/Vol-13-issue-3/public-buses-in-singapore/01_publicbus.png" style="width:80%;">
+<hr>
+
+
 
