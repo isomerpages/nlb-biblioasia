@@ -341,11 +341,15 @@ One of history’s greatest comic actors, Charlie Chaplin, stops over in Singapo
 
 An American Studies scholar unravels a decades-old mystery surrounding a bone fragment and uncovers a brotherly bond from beyond the grave.&nbsp;**Michelle Heng**&nbsp;has the story.
 
-
 <img src="/images/Vol-12-issue-4/ties-that-bind/2-staff.jpg" style="width:90%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/claudiushenrythomsen/">Claudius Henry Thomsen: A Pioneer in Malay Printing</a>
 
+Danish missionary Claudius Henry Thomsen produced some of the earliest Malay-language publications in Singapore and the Malay Peninsula.&nbsp;**Bonny Tan**&nbsp;sheds light on this pioneer printer.
+  
+<img src="/images/Vol-12-issue-4/claudius-henry-thomsen/2b_claudies_henry_thomsen_topic.png" style="width:80%;">
+<hr>
 
 
 <hr>
