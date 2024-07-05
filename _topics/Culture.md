@@ -81,7 +81,6 @@ What is the truth behind the German girl shrine on Pulau Ubin?&nbsp;**William L.
 <img src="/images/Vol-16-issue-3/opium-revenue/opiumrevenue_topic.png" style="width:80%;">													
 <hr>
 
-
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/medium/">The Chinese Spirit-Medium: Ancient Rituals and Practices in a Modern World</a>
 
 Self-mortification and the spilling of blood are hallmarks of the Chinese *tangki*. **Margaret Chan** explains the symbolism behind these practices.
@@ -206,11 +205,18 @@ Gedung Kuning, or the “Yellow Mansion”, was once the home of Tengku Mahmud, 
 <img src="/images/Vol-13-issue-1/gedung-kuning/01_gedungkuning.png" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-1/apr-jun-2017/gedung-kuning/">Gedung Kuning: Memories of a Malay Childhood</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-1/apr-jun-2017/chinesepuppettheatre/">Chinese Puppet Theatre: Rekindling a Glorious Past</a>
 
-Gedung Kuning, or the “Yellow Mansion”, was once the home of Tengku Mahmud, a Malay prince.&nbsp;**Hidayah Amin**&nbsp;shares anecdotes from her childhood years growing up in the house.
+Chinese puppetry is a tradition that is slowly losing ground in Singapore.&nbsp;**Caroline Chia**&nbsp;tells us why this art form should be preserved.
 
-<img src="/images/Vol-13-issue-1/gedung-kuning/01_gedungkuning.png" style="width:80%;">
+<img src="/images/Vol-13-issue-1/chinese-puppet-theatre/01a_chinesepuppet.png" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-1/apr-jun-2017/meetingwiththesea/">Meeting with the Sea</a>
+
+**Melissa De Silva**&nbsp;mulls over what it is to be Eurasian in this evocative short story that takes her back to the Portuguese Settlement in Malacca.
+
+<img src="/images/Vol-13-issue-1/meeting-with-the-sea/01_meetingsea.jpg" style="width:80%;">
 <hr>
 
 
