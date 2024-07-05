@@ -166,6 +166,12 @@ Singapore has emerged as a leading Asian fashion capital in recent years.&nbsp;*
 <img src="/images/Vol-13-issue-3/scots-in-singapore/01_scots.jpg" style="width:50%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-3/oct-dec-2017/lifetime-of-labour/">A Lifetime of Labour: Cantonese Amahs in Singapore</a>
+
+**Cheah Hwei-Fe’n**&nbsp;examines the impact of print media on the time-honoured craft of Peranakan embroidery and beadwork.
+
+<img src="/images/Vol-13-issue-3/a-lifetime-of-labour/01_amah.png" style="width:80%;">
+<hr>
 
 
 
