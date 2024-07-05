@@ -351,5 +351,13 @@ Danish missionary Claudius Henry Thomsen produced some of the earliest Malay-lan
 <img src="/images/Vol-12-issue-4/claudius-henry-thomsen/2b_claudies_henry_thomsen_topic.png" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/pauper-to-philanthrop/">From Pauper to Philanthropist: The Tan Tock Seng Story</a>
+
+**Sue-Ann Chia**&nbsp;traces the classic rags-to-riches story of a vegetable seller turned land speculator who left a hospital named after him in Singapore.
+
+
+<img src="/images/Vol-12-issue-4/from-pauper-to-philanthropist/1-from_pauper_to_philanthropist.jpg" style="width:60%;">
+<hr>
+
 
 <hr>
