@@ -219,5 +219,12 @@ Chinese puppetry is a tradition that is slowly losing ground in Singapore.&nbsp;
 <img src="/images/Vol-13-issue-1/meeting-with-the-sea/01_meetingsea.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/writingchinesescript">哎哟 华文字真难写!</a>
+
+Students in pre-1970s Singapore had to learn the correct way of writing the Chinese script.&nbsp;**Ho Phang Phow**&nbsp;describes the painstaking process of mastering this craft.
+
+
+<img src="/images/Vol-13-issue-1/meeting-with-the-sea/01_meetingsea.jpg" style="width:80%;">
+<hr>
 
 <hr>
