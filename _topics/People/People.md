@@ -309,7 +309,13 @@ Sunny Ang, Mimi Wong, Adrian Lim and John Martin Scripps are some of the most co
 <img src="/images/Vol-13-issue-2/murder-most-malevolent/01_murder.png" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-1/apr-jun-2017/guitar-man/">The Guitar Man: Alex Abisheganaden</a>
 
+Hailed as the “Father of the Guitar”, Alex Abisheganaden, who died on 17 March, 2023, spent the last five decades championing the classical guitar.&nbsp;**Joy Loh**&nbsp;charts his illustrious career.
+
+
+<img src="/images/Vol-13-issue-1/the-guitar-man/alex%20and%20boy%20(from%20nac).jpg" style="width:80%;">
+<hr>
 
 
 <hr>
