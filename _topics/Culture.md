@@ -192,7 +192,12 @@ Secret societies arrived on the back of mass migrations of Chinese to Asia in th
 <img src="/images/Vol-13-issue-2/heaven-earth-brotherhood/01a_heavenearth.jpg" style="width:30%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-2/jul-sep-2017/">A History of Singapore Horror</a>
 
+Singaporeans have always had a morbid fascination with the supernatural.&nbsp;**Ng Yi-Sheng**&nbsp;examines the culture of horror in our oral folklore, books and films.
+
+<img src="/images/Vol-13-issue-2/history-of-singapore-horror/01_sghorror.png" style="width:80%;">
+<hr>
 
 
 <hr>
