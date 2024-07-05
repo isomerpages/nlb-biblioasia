@@ -210,5 +210,15 @@ Capitol Theatre was the premier venue for film and stage when it opened in 1930.
 <img src="/images/Vol-13-issue-4/living-it-up-at-the-capitol/01_livingcapitol.jpg">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-3/oct-dec-2017/ramblingarndbrasbasah/">Rambling Around Bras Basah</a>
+
+It’s just a street to many, but for&nbsp;**Yu-Mei Balasingamchow**, the Bras Basah area is emblematic of how redevelopment can sometimes radically change the identity of an area.
+
+<img src="/images/Vol-13-issue-3/rambling-around-bras-basah/01_brasbasah.jpg">
+<hr>
+
+
+
+
 
 <hr>
