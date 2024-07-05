@@ -267,5 +267,12 @@ Who was the architect behind Singapore’s Kranji War Cemetery and other similar
 <img src="/images/Vol-14-issue-2/malay-seafarers-in-liverpool/Seafarers1.JPG" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-3/oct-dec-2017/european-escapade/">Mr Song’s European Escapade</a>
+
+**Ong Eng Chuan**&nbsp;pores through the faded colonial-era postcards of Peranakan luminary Song Ong Siang to piece together highlights of his 10-month European sojourn.
+
+<img src="/images/Vol-13-issue-3/mr-song-european-escapade/03a_escapade.png" style="width:70%;">
+<hr>
+
 
 
