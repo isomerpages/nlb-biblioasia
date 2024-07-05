@@ -39,3 +39,12 @@ From a hole in the ground to running water at the turn of the tap.&nbsp;**Lim Ti
 <img src="/images/Vol-14-issue-1/four-taps-of-singapore-water/FourTaps1.JPG" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-3/oct-dec-2017/tale-of-two-churches/">A Tale of Two Churches</a>
+
+Penang’s Armenian church was demolished in the early 1900s while the one in Singapore still thrives.&nbsp;**Nadia Wright**&nbsp;looks at the vastly different fates of these two churches.
+
+<img src="/images/Vol-13-issue-3/a-tale-of-two-churches/01_churches.jpg" style="width:80%;">
+<hr>
+
+
+
