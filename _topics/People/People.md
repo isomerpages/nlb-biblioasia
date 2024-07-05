@@ -313,9 +313,18 @@ Sunny Ang, Mimi Wong, Adrian Lim and John Martin Scripps are some of the most co
 
 Hailed as the “Father of the Guitar”, Alex Abisheganaden, who died on 17 March, 2023, spent the last five decades championing the classical guitar.&nbsp;**Joy Loh**&nbsp;charts his illustrious career.
 
-
 <img src="/images/Vol-13-issue-1/the-guitar-man/alex%20and%20boy%20(from%20nac).jpg" style="width:80%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-1/apr-jun-2017/doctorturneddiploma">The Doctor Turned Diplomat: John Crawfurd’s Writings on the Malay Peninsula</a>
+
+John Crawfurd, the 19th-century British colonial administrator, was known for his insightful writings on ethnology and history in the Malay Peninsula.&nbsp;**Wilbert Wong**&nbsp;examines the ideas of this visionary scholar and thinker.
+
+<img src="/images/Vol-13-issue-1/doctor-turned-diplomat/01a_doctordiplomat.jpg" style="width:60%;">
+<hr>
+
+
+
 
 
 <hr>
