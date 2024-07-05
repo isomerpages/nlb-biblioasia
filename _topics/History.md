@@ -46,5 +46,13 @@ Penang’s Armenian church was demolished in the early 1900s while the one in Si
 <img src="/images/Vol-13-issue-3/a-tale-of-two-churches/01_churches.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-3/oct-dec-2017/roadtonationalisation/">The Road to Nationalisation: Public Buses in Singapore</a>
+
+From as many as 11 bus companies to just one bus operator by 1973.&nbsp;**Lee Meiyu**&nbsp;chronicles the early turbulent days of Singapore’s bus industry.
+
+<img src="/images/Vol-13-issue-3/public-buses-in-singapore/01_publicbus.png" style="width:80%;">
+<hr>
+
+
 
 
