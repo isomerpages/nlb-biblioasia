@@ -199,5 +199,19 @@ Singaporeans have always had a morbid fascination with the supernatural.&nbsp;**
 <img src="/images/Vol-13-issue-2/history-of-singapore-horror/01_sghorror.png" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-1/apr-jun-2017/gedung-kuning/">Gedung Kuning: Memories of a Malay Childhood</a>
+
+Gedung Kuning, or the “Yellow Mansion”, was once the home of Tengku Mahmud, a Malay prince.&nbsp;**Hidayah Amin**&nbsp;shares anecdotes from her childhood years growing up in the house.
+
+<img src="/images/Vol-13-issue-1/gedung-kuning/01_gedungkuning.png" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-1/apr-jun-2017/gedung-kuning/">Gedung Kuning: Memories of a Malay Childhood</a>
+
+Gedung Kuning, or the “Yellow Mansion”, was once the home of Tengku Mahmud, a Malay prince.&nbsp;**Hidayah Amin**&nbsp;shares anecdotes from her childhood years growing up in the house.
+
+<img src="/images/Vol-13-issue-1/gedung-kuning/01_gedungkuning.png" style="width:80%;">
+<hr>
+
 
 <hr>
