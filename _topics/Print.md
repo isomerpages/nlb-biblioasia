@@ -210,6 +210,28 @@ An exhibition of old Southeast Asian writings showcases the region as a major ce
 <img src="/images/Vol-13-issue-3/early-malay-printing-in-sg/01_malayprinting_topic.png" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-3/oct-dec-2017/fashionthroughdecades/">The Way We Were: Fashion Through the Decades</a>
+
+Singapore has emerged as a leading Asian fashion capital in recent years.&nbsp;**Zoe Yeo**&nbsp;tracks its evolution through fashion publications from the Legal Deposit Collection.
+
+<img src="/images/Vol-13-issue-3/the-way-we-were/01_thewaywewere.png">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-3/oct-dec-2017/traditionalchinesemed/">从馆藏文献资料认识中医药在新加坡 的历史与发展 (Traditional Chinese Medicine in Singapore)</a>
+
+Traditional Chinese medicine in Singapore has a history that goes back to more than a century.&nbsp;**Vicky Gao**&nbsp;traces its development through the National Library’s collection.
+
+<img src="/images/Vol-13-issue-3/traditional-chinese-medicine/01a-chinesemedicine.png" style="width:70%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-3/oct-dec-2017/european-escapade/">Mr Song’s European Escapade</a>
+
+**Ong Eng Chuan**&nbsp;pores through the faded colonial-era postcards of Peranakan luminary Song Ong Siang to piece together highlights of his 10-month European sojourn.
+
+<img src="/images/Vol-13-issue-3/mr-song-european-escapade/03a_escapade.png" style="width:70%;">
+<hr>
+
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/claudiushenrythomsen/">Claudius Henry Thomsen: A Pioneer in Malay Printing</a>
 
 Danish missionary Claudius Henry Thomsen produced some of the earliest Malay-language publications in Singapore and the Malay Peninsula.&nbsp;**Bonny Tan**&nbsp;sheds light on this pioneer printer.
