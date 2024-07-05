@@ -231,6 +231,12 @@ Traditional Chinese medicine in Singapore has a history that goes back to more t
 <img src="/images/Vol-13-issue-3/mr-song-european-escapade/03a_escapade.png" style="width:70%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-3/oct-dec-2017/nyonya-needlework/">Nyonya Needlework and the Printed Page</a>
+
+**Cheah Hwei-Fe’n**&nbsp;examines the impact of print media on the time-honoured craft of Peranakan embroidery and beadwork.
+
+<img src="/images/Vol-13-issue-3/nyonya-needlework/02a_nyonyaneedlework.jpg" style="width:80%;">
+<hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/claudiushenrythomsen/">Claudius Henry Thomsen: A Pioneer in Malay Printing</a>
 
