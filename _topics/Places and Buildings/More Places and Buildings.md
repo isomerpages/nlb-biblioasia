@@ -235,11 +235,15 @@ Gedung Kuning, or the “Yellow Mansion”, was once the home of Tengku Mahmud, 
 
 Thanks to land reclamation, the tiny red dot has broadened its shores substantially.&nbsp;**Lim Tin Seng**&nbsp;discovers just how much Singapore has grown since colonial times.
 
-
 <img src="/images/Vol-13-issue-1/land-from-sand/01_landfromsand.jpg" style="width:80%;">
 <hr>
 
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/britannia-nco-club/">From Britannia to the NCO Club</a>
 
+The much-loved NCO Club on Beach Road was a favourite downtown R &amp; R spot for off-duty soldiers.&nbsp;**Francis Dorai**&nbsp;charts its history.
+
+<img src="/images/Vol-12-issue-4/from-britannia-to-nco-club/1-britannia-nco.jpg" style="width:80%;">
+<hr>
 
 <hr>
