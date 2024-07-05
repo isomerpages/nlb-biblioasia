@@ -44,3 +44,18 @@ What is the truth behind the German girl shrine on Pulau Ubin?&nbsp;**William L.
 
 <img src="/images/vol-17-issue-3/ubin-shrine/Cover2.jpg" style="width:80%;">  
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-3/oct-dec-2017/tale-of-two-churches/">A Tale of Two Churches</a>
+
+Penang’s Armenian church was demolished in the early 1900s while the one in Singapore still thrives.&nbsp;**Nadia Wright**&nbsp;looks at the vastly different fates of these two churches.
+
+<img src="/images/Vol-13-issue-3/a-tale-of-two-churches/01_churches.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/windows-into-history/">Windows into History</a>
+
+Drawings discovered in a Belgian archive help fill gaps in the history of stained glass windows in Singapore.&nbsp;**Yeo Kang Shua**&nbsp;and&nbsp;**Swati Chandgadkar**&nbsp;reveal their findings.
+
+<img src="/images/Vol-12-issue-4/windows-into-history/4_windows_into_history_topic.png" style="width:80%;">
+<hr>
+
