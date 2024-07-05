@@ -137,3 +137,13 @@ This unique style of architecture only reigned for five decades in China, yet se
 
 <img src="/images/Vol-14-issue-1/chinese-renaissance-architect/Renaissance1.JPG" style="width:80%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-3/oct-dec-2017/fashionthroughdecades/">The Way We Were: Fashion Through the Decades</a>
+
+Singapore has emerged as a leading Asian fashion capital in recent years.&nbsp;**Zoe Yeo**&nbsp;tracks its evolution through fashion publications from the Legal Deposit Collection.
+
+<img src="/images/Vol-13-issue-3/the-way-we-were/01_thewaywewere.png">
+<hr>
+
+
+
