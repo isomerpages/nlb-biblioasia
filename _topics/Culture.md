@@ -173,6 +173,25 @@ Singapore has emerged as a leading Asian fashion capital in recent years.&nbsp;*
 <img src="/images/Vol-13-issue-3/a-lifetime-of-labour/01_amah.png" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-2/jul-sep-2017/talesofmalayworld/">Tales of the Malay World: Manuscripts and Early Books</a>
+Literary works in the ancient Malay-speaking world were not enjoyed silently but read aloud to an audience, as&nbsp;**Tan Huism**&nbsp;tells us in this latest exhibition by the National Library.
+
+<img src="/images/Vol-13-issue-2/tales-of-malay-world/01_malayworld.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-2/jul-sep-2017/talesofmalayworld/">Tales of the Malay World: Manuscripts and Early Books</a>
+Literary works in the ancient Malay-speaking world were not enjoyed silently but read aloud to an audience, as&nbsp;**Tan Huism**&nbsp;tells us in this latest exhibition by the National Library.
+
+<img src="/images/Vol-13-issue-2/tales-of-malay-world/01_malayworld.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-2/jul-sep-2017/heaven-earth-brother/">Heaven, Earth and Brotherhood</a>
+
+Secret societies arrived on the back of mass migrations of Chinese to Asia in the colonial era.&nbsp;**Makeswary Periasamy**&nbsp;highlights the National Library’s collection of early books on Chinese triads.
+
+<img src="/images/Vol-13-issue-2/heaven-earth-brotherhood/01a_heavenearth.jpg" style="width:30%;">
+<hr>
+
 
 
 
