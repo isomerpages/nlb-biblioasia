@@ -193,6 +193,12 @@ Oral history accounts of the Japanese Occupation take on added poignancy, says&n
 <img src="/images/Vol-13-issue-1/voices-that-remain/01a_voicesremain.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-1/apr-jun-2017/land-from-sand/">Land From Sand: Singapore’s Reclamation Story</a>
+
+Thanks to land reclamation, the tiny red dot has broadened its shores substantially.&nbsp;**Lim Tin Seng**&nbsp;discovers just how much Singapore has grown since colonial times.
+
+<img src="/images/Vol-13-issue-1/land-from-sand/01_landfromsand.jpg" style="width:80%;">
+<hr>
 
 
 
