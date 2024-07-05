@@ -94,7 +94,6 @@ Traditional Chinese medicine in Singapore has a history that goes back to more t
 <p>In the 1820s, some “nurses” in Singapore were actually chained convicts. Pattarin Kusolpalin chronicles the history of nursing from 1819 until Independence.</p> 
 
 <img style="width:80%;" src="/images/Vol-12-issue-2/angels-in-white/06-angelsinwhite.jpg">
-
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-4/jan-march-2014/overseas-chinese">Singapore Men of Science and Medicine in China (1911–1949)</a>
