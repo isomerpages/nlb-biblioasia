@@ -330,12 +330,14 @@ John Crawfurd, the 19th-century British colonial administrator, was known for hi
 <img src="/images/Vol-13-issue-1/meeting-with-the-sea/01_meetingsea.jpg" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-1/apr-jun-2017/meetingwiththesea/">Meeting with the Sea</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-1/apr-jun-2017/chaplininsingapore/">Chaplin in Singapore</a>
 
-**Melissa De Silva**&nbsp;mulls over what it is to be Eurasian in this evocative short story that takes her back to the Portuguese Settlement in Malacca.
+One of history’s greatest comic actors, Charlie Chaplin, stops over in Singapore in 1932 and makes a return visit in 1936.&nbsp;**Raphaël Millet**&nbsp;traces these journeys.
 
-<img src="/images/Vol-13-issue-1/meeting-with-the-sea/01_meetingsea.jpg" style="width:80%;">
+<img src="/images/Vol-13-issue-1/chaplin-in-singapore/01_charliechaplin.jpg" style="width:40%;">
 <hr>
+
+
 
 
 
