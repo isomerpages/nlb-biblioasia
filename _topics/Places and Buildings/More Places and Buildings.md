@@ -224,6 +224,13 @@ Market Street, in the heart of the business district, was where Indian moneylend
 <img src="/images/Vol-13-issue-3/micro-india/01a_microindia.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-1/apr-jun-2017/gedung-kuning/">Gedung Kuning: Memories of a Malay Childhood</a>
+
+Gedung Kuning, or the “Yellow Mansion”, was once the home of Tengku Mahmud, a Malay prince.&nbsp;**Hidayah Amin**&nbsp;shares anecdotes from her childhood years growing up in the house.
+
+<img src="/images/Vol-13-issue-1/gedung-kuning/01_gedungkuning.png" style="width:80%;">
+<hr>
+
 
 
 
