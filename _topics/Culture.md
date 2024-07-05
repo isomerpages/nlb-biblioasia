@@ -178,11 +178,6 @@ Literary works in the ancient Malay-speaking world were not enjoyed silently but
 <img src="/images/Vol-13-issue-2/tales-of-malay-world/01_malayworld.jpg" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-2/jul-sep-2017/talesofmalayworld/">Tales of the Malay World: Manuscripts and Early Books</a>
-Literary works in the ancient Malay-speaking world were not enjoyed silently but read aloud to an audience, as&nbsp;**Tan Huism**&nbsp;tells us in this latest exhibition by the National Library.
-
-<img src="/images/Vol-13-issue-2/tales-of-malay-world/01_malayworld.jpg" style="width:80%;">
-<hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-2/jul-sep-2017/heaven-earth-brother/">Heaven, Earth and Brotherhood</a>
 
