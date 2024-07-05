@@ -217,6 +217,13 @@ It’s just a street to many, but for&nbsp;**Yu-Mei Balasingamchow**, the Bras B
 <img src="/images/Vol-13-issue-3/rambling-around-bras-basah/01_brasbasah.jpg">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-3/oct-dec-2017/micro-india/">Micro India: The Chettiars of Market Street</a>
+
+Market Street, in the heart of the business district, was where Indian moneylenders ran a thriving trade during the colonial era.&nbsp;**Marcus Ng**&nbsp;traces the imprint left by the Chettiars.
+
+<img src="/images/Vol-13-issue-3/micro-india/01a_microindia.jpg" style="width:80%;">
+<hr>
+
 
 
 
