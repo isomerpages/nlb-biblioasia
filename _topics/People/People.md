@@ -287,7 +287,3 @@ Market Street, in the heart of the business district, was where Indian moneylend
 
 <img src="/images/Vol-13-issue-3/micro-india/01a_microindia.jpg" style="width:80%;">
 <hr>
-
-
-
-
