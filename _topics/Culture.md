@@ -145,5 +145,19 @@ Singapore has emerged as a leading Asian fashion capital in recent years.&nbsp;*
 <img src="/images/Vol-13-issue-3/the-way-we-were/01_thewaywewere.png">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-3/oct-dec-2017/early-malay-printing/">Early Malay Printing in Singapore</a>
+
+<b>Mazelan Anuar</b>&nbsp;tracks the rise and decline of Malay printing and publishing in 19th-century Singapore, and profiles two of the most prolific printers of that period.
+  
+<img src="/images/Vol-13-issue-3/early-malay-printing-in-sg/01_malayprinting_topic.png" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-3/oct-dec-2017/nyonya-needlework/">Nyonya Needlework and the Printed Page</a>
+
+**Cheah Hwei-Fe’n**&nbsp;examines the impact of print media on the time-honoured craft of Peranakan embroidery and beadwork.
+
+<img src="/images/Vol-13-issue-3/nyonya-needlework/02a_nyonyaneedlework.jpg" style="width:80%;">
+<hr>
 
 
+<hr>
