@@ -287,3 +287,22 @@ Market Street, in the heart of the business district, was where Indian moneylend
 
 <img src="/images/Vol-13-issue-3/micro-india/01a_microindia.jpg" style="width:80%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-2/jul-sep-2017/an-unusual-ambition/">An Unusual Ambition: The Early Librarians</a>
+
+**Bonny Tan**&nbsp;traces the careers of little-known librarians, Padma Daniel and her mentor Kate Edith Savage-Bailey, and the circumstances that led to their career choices in pre-war Singapore.
+
+<img src="/images/Vol-13-issue-2/an-unusual-ambition/01_unusualambition.png" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-2/jul-sep-2017/reel-life-singapore/">Reel Life Singapore: The Films of Clyde E. Elliott</a>
+
+Clyde Elliott was the first Hollywood director to shoot a feature film in Singapore.&nbsp;**Chua Ai Lin**&nbsp;examines the authenticity of the three movies he produced here in the 1930s.
+
+<img src="/images/Vol-13-issue-2/reel-life-singapore/01_reellife.jpg" style="width:40%;">
+<hr>
+
+
+
+
+<hr>
