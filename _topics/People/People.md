@@ -337,6 +337,13 @@ One of history’s greatest comic actors, Charlie Chaplin, stops over in Singapo
 <img src="/images/Vol-13-issue-1/chaplin-in-singapore/01_charliechaplin.jpg" style="width:40%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/ties-that-bind/">Ties that Bind: The Story of Two Brother Poets</a>
+
+An American Studies scholar unravels a decades-old mystery surrounding a bone fragment and uncovers a brotherly bond from beyond the grave.&nbsp;**Michelle Heng**&nbsp;has the story.
+
+
+<img src="/images/Vol-12-issue-4/ties-that-bind/2-staff.jpg" style="width:90%;">
+<hr>
 
 
 
