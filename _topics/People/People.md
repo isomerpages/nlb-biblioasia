@@ -274,5 +274,20 @@ Who was the architect behind Singapore’s Kranji War Cemetery and other similar
 <img src="/images/Vol-13-issue-3/mr-song-european-escapade/03a_escapade.png" style="width:70%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-3/oct-dec-2017/scots-in-singapore/">Scots in Singapore: Remembering Their Legacy</a>
+
+**Cheah Hwei-Fe’n**&nbsp;examines the impact of print media on the time-honoured craft of Peranakan embroidery and beadwork.
+
+<img src="/images/Vol-13-issue-3/scots-in-singapore/01_scots.jpg" style="width:50%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-3/oct-dec-2017/micro-india/">Micro India: The Chettiars of Market Street</a>
+
+Market Street, in the heart of the business district, was where Indian moneylenders ran a thriving trade during the colonial era.&nbsp;**Marcus Ng**&nbsp;traces the imprint left by the Chettiars.
+
+<img src="/images/Vol-13-issue-3/micro-india/01a_microindia.jpg" style="width:80%;">
+<hr>
+
+
 
 
