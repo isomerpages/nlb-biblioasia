@@ -302,6 +302,13 @@ Clyde Elliott was the first Hollywood director to shoot a feature film in Singap
 <img src="/images/Vol-13-issue-2/reel-life-singapore/01_reellife.jpg" style="width:40%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-2/jul-sep-2017/murdermostmalevolent/">Murder Most Malevolent</a>
+
+Sunny Ang, Mimi Wong, Adrian Lim and John Martin Scripps are some of the most cold-blooded murderers in Singapore’s crime history.&nbsp;**Sharon Teng**&nbsp;revisits their horrific acts.
+
+<img src="/images/Vol-13-issue-2/murder-most-malevolent/01_murder.png" style="width:80%;">
+<hr>
+
 
 
 
