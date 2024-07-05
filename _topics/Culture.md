@@ -223,8 +223,17 @@ Chinese puppetry is a tradition that is slowly losing ground in Singapore.&nbsp;
 
 Students in pre-1970s Singapore had to learn the correct way of writing the Chinese script.&nbsp;**Ho Phang Phow**&nbsp;describes the painstaking process of mastering this craft.
 
-
-<img src="/images/Vol-13-issue-1/meeting-with-the-sea/01_meetingsea.jpg" style="width:80%;">
+<img src="/images/Vol-12-issue-4/writing-chinese-script/01-writing_chinese_script.jpg" style="width:80%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/1960s-fashion/">1960s Fashion: The Legacy of Made-To-Measure</a>
+
+The changing face of fashion in Singapore is the subject of a new book called&nbsp;_Fashion Most Wanted_. This extract recalls how the advent of TV impacted new fashion trends in the 1960s.
+
+<img src="/images/Vol-12-issue-4/1960s-fashion/01-1960s-fashion.png" style="width:60%;">
+<hr>
+
+
+
 
 <hr>
