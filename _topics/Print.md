@@ -238,6 +238,20 @@ Traditional Chinese medicine in Singapore has a history that goes back to more t
 <img src="/images/Vol-13-issue-3/nyonya-needlework/02a_nyonyaneedlework.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-2/jul-sep-2017/heaven-earth-brother/">Heaven, Earth and Brotherhood</a>
+
+Secret societies arrived on the back of mass migrations of Chinese to Asia in the colonial era.&nbsp;**Makeswary Periasamy**&nbsp;highlights the National Library’s collection of early books on Chinese triads.
+
+<img src="/images/Vol-13-issue-2/heaven-earth-brotherhood/01a_heavenearth.jpg" style="width:30%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/party-time-raffles/">Party Time at the Raffles</a>
+
+The National Library’s collection of menu cards from Raffles Hotel provides an inkling of lavish parties and fine dining from bygone days.&nbsp;**Francis Dorai**&nbsp;and&nbsp;**Jessie Yak**&nbsp;take a peek.
+
+<img src="/images/Vol-12-issue-4/party-time-with-raffles/postcard-view.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/claudiushenrythomsen/">Claudius Henry Thomsen: A Pioneer in Malay Printing</a>
 
 Danish missionary Claudius Henry Thomsen produced some of the earliest Malay-language publications in Singapore and the Malay Peninsula.&nbsp;**Bonny Tan**&nbsp;sheds light on this pioneer printer.
