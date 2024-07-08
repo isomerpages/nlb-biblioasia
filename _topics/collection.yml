@@ -2,7 +2,6 @@ collections:
   topics:
     output: true
     order:
-      - "Fake News: Since When Was It News?.md"
       - Editor's Picks.md
       - Adventure.md
       - Archaeology.md
