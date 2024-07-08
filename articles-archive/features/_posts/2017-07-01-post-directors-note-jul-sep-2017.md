@@ -13,7 +13,7 @@ Singapore was hailed as the “equatorial Hollywood” when Western filmmakers d
 
 The opening of the Suez Canal in 1869, says [Kennie Ting](/vol-13/issue-2/jul-sep-2017/east-of-suez), changed the face of maritime history forever and led to the advent of leisure travel to distant lands. On their journeys east, perhaps some of these Western travellers were able to separate fact from fiction; to see the exotic lands “East of Suez” through their own eyes, instead of relying on apocryphal tales of the Orient.
 
-With all the fake news circulating these days – presented in ways that seem so *real* – one never knows what is the truth anymore. While the volume and speed at which news is disseminated in the modern world is unprecedented, lying (or whatever euphemism one might use), according to [Farish A. Noor](vol-13/issue-2/jul-sep-2017/directors-note/), is as old as history.
+With all the fake news circulating these days – presented in ways that seem so *real* – one never knows what is the truth anymore. While the volume and speed at which news is disseminated in the modern world is unprecedented, lying (or whatever euphemism one might use), according to [Farish A. Noor](vol-13/issue-2/jul-sep-2017/directors-note), is as old as history.
 
 On the subject of history − built history, specifically − Swan &amp; Maclaren, the oldest architectural practice in Singapore celebrates its 125th anniversary this year. Started in 1892 by two Scotsmen, Swan &amp; Maclaren was responsible for many of the city’s heritage buildings. What is a fact for certain is that the architectural firm was among the first to pioneer the Modernist architectural movement in Singapore, as [Julian Davison](/vol-13/issue-2/jul-sep-2017/swan-and-maclaren) tells us.
 
