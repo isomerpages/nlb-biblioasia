@@ -192,5 +192,27 @@ Old photographs and documents can reveal new things about our history, as&nbsp;*
 <img src="/images/Vol-13-issue-4/the-stories-they-could-tell/01_stories.jpg">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-1/apr-jun-2017/voices-that-remain/">Voices That Remain: Oral History Accounts of the Japanese Occupation</a>
+
+Oral history accounts of the Japanese Occupation take on added poignancy, says&nbsp;**Mark Wong**, as we mark the 75th anniversary of the Fall of Singapore.
+
+<img src="/images/Vol-13-issue-1/voices-that-remain/01a_voicesremain.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/surviving-jpnese-occu/">Surviving the Japanese Occupation: War and its Legacies</a>
+
+A revamped exhibition space opens at the old Ford Factory in Bukit Timah, marking the 75th anniversary of the fall of Singapore.&nbsp;**Fiona Tan**&nbsp;details its major highlights.
+
+<img src="/images/Vol-12-issue-4/surviving-japanese-occupation/2-surviving-japanese-occupation.png" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/the-sook-ching/">The Sook Ching</a>
+
+February 15 marks the 75th anniversary of the fall of Singapore.&nbsp;**Goh Sin Tub**&nbsp;recounts the horrors that many Chinese suffered at the hands of the Japanese in this short story.
+
+<img src="/images/Vol-12-issue-4/the-sook-ching/1-sook-ching.jpg" style="width:80%;">
+<hr>
+
+
 
 <hr>
