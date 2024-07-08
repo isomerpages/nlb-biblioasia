@@ -95,9 +95,20 @@ Classical and Modern Chinese education in Mainland China and Taiwan has been deb
 <img src="/images/Vol-14-issue-1/chinese/Chinese1.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-2/jul-sep-2017/talesofmalayworld/">Tales of the Malay World: Manuscripts and Early Books</a>
+Literary works in the ancient Malay-speaking world were not enjoyed silently but read aloud to an audience, as&nbsp;**Tan Huism**&nbsp;tells us in this latest exhibition by the National Library.
+
+<img src="/images/Vol-13-issue-2/tales-of-malay-world/01_malayworld.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-2/jul-sep-2017/short-stories-tamil/">தமிழ் முரசில் 1936–1960 வரை வெளிவந்த சிறுகதைகள் – ஒரு பார்வ</a>
+
+**Sundari Balasubramaniam**&nbsp;reviews a selection of short stories published in&nbsp;_Tamil Murasu_&nbsp;during the tumultuous years from 1936 to 1960 when Singapore transitioned from British rule and Japanese Occupation to self-governance.
+
+<img src="/images/Vol-13-issue-2/tamil-murasu/01_tamil.jpg" style="width:90%;">
+<hr>
 
 
 
 
-
-
+<hr>
