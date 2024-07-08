@@ -9,13 +9,14 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-20/issue-2/jul-sep-2024/sentosa-mount-faber-cable-cars/
-      button: Sentosa's Cable Cars at 50
+      url: /vol-20/issue-2/jul-sep-2024/men-surrender-singapore-japanese-occupation/
+      button: The Other Men Who Surrendered Singapore
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 20 Issue 2/Cable Cars/HeroImage_cablecars.jpg
+      background: /images/Vol 20 Issue 2/Men Who Surrendered
+        Singapore/Hero_img_The_Other_Men_Who_Surrendered.jpg
   - infopic:
       title: Have Your Say
       subtitle: Readership Survey
