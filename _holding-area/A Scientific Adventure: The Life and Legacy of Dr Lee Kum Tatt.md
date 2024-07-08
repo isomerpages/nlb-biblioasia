@@ -101,35 +101,8 @@ In 1979, the Science Council awarded Lee its gold medal to recognise his contrib
 
 Lee died in 2008 and his integral role in shaping science in Singapore has largely gone unknown and unacknowledged by the wider public. However, his dedication to creating a more scientific society has left behind a sprawling and indelible legacy through the range of institutions he built up, which continue to shape the nation today.
 
-  
-
-
-
-
-  
-
-
-
-
-  
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-  
+<div style="background-color: white;">
+<img style="width: 100px; height: 100px;" src="/images/Authors/sharad_pandian.png"><b>Sharad Pandian</b> graduated from Nanyang Technological University with a degree in physics before pursuing a Master of Philosophy in history and philosophy of science at the University of Cambridge as a Gates-Cambridge Scholar. Sharad is interested in the history of science and standardisation in Asia. He is a former Lee Kong Chian Research Fellow with the National Library, Singapore (2022–23).</div>  
 
 #### **Notes**
 
