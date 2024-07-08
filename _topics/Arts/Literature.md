@@ -149,8 +149,3 @@ Students in pre-1970s Singapore had to learn the correct way of writing the Chin
 
 <img src="/images/Vol-12-issue-4/writing-chinese-script/01-writing_chinese_script.jpg" style="width:80%;">
 <hr>
-
-
-
-
-
