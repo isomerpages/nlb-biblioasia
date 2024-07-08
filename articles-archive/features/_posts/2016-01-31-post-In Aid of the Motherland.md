@@ -5,6 +5,7 @@ date: 2016-01-31
 layout: post
 description: ""
 image: /images/vol-11-issue-4/in-aid-of-the-motherland/02_motherland.jpg
+variant: markdown
 ---
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
 <b>Title:</b>  <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=84506050">Singapore Tong Seok Dramatic Association Charity Performance for the Shantung Relief Fund (星洲通俗白话剧团演 剧筹赈山东惨灾会特刊)</a></i><br>
@@ -53,7 +54,8 @@ Likewise, the performance was significant for reflecting thecultural leanings of
 
 [^3]:新加坡. (1928). [星洲通俗白话剧团演剧筹赈山东惨灾会特 刊](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84506050) (p. 8). 新加坡：[通俗白话剧团]. (Call no.: Chinese RRARE 792.0605957 HCP; Microfilm no.: NL12686)
 
-[^4]:柯思仁 [Quah, S.R.]. (2013). [戏聚百年：新加坡华文戏剧1913 – 2013](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200169140) [*Scenes: A hundred years of Singapore Chinese language theatre 1913–2013*](p. 15). 新加坡：戏剧盒：新加坡国家博物馆. (Call no.: RSING 792.095957 QSR)
+[^4]:柯思仁 \[Quah, S.R.\]. (2013). \[[戏聚百年：新加坡华文戏剧1913 – 2013\]](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200169140) \[_Scenes: A hundred years of Singapore Chinese language theatre 1913–2013_\] (p. 15). 新加坡：戏剧盒：新加坡国家博物馆. (Call no.: Chinese RSING 792.095957 QSR)
+柯思仁 [Quah, S.R.]. (2013). [戏聚百年：新加坡华文戏剧1913 – 2013](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200169140) [*Scenes: A hundred years of Singapore Chinese language theatre 1913–2013*](p. 15). 新加坡：戏剧盒：新加坡国家博物馆. (Call no.: RSING 792.095957 QSR)
 
 [^5]:[筹赈闽省水灾会假座欢乐园举行演剧游艺次序表](https://eresources.nlb.gov.sg/newspapers/Digitised/Page/nysp19240808-1.1.16). (1924, August 8). 南洋商报 [*Nanyang Siang Pau*] p. 16. Retrieved from NewspaperSG.
 
