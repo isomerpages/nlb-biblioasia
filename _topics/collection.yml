@@ -2,6 +2,7 @@ collections:
   topics:
     output: true
     order:
+      - ExaOp Ed.md
       - Editor's Picks.md
       - Adventure.md
       - Archaeology.md
