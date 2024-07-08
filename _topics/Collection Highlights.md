@@ -103,6 +103,7 @@ The National Library recently received several rare items connected to the histo
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-1/apr-jun-2018/publications-of-past/">First Issues: Publications from the Past</a>
+
 Launch issues can make or break a new publication.&nbsp;**Barbara Quek**&nbsp;shares highlights of first issues from NLB’s Legal Deposit Collection.
 
 <img src="/images/Vol-14-issue-1/first-issues/First1.JPG">
