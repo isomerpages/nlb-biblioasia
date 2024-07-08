@@ -11,3 +11,13 @@ The Wilkes Expedition – as it is popularly known – vastly expanded the borde
 <img src="/images/Vol-15-issue-2/an-expedition-for-the-ages/Ex1.JPG" style="width: 80%; height: 100%;">  
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-2/jul-sep-2017/east-of-suez/">East of Suez: The Mystique of Travel</a>
+
+Rudyard Kipling coined the phrase “East of Suez” to describe the exotic lands east of the Suez Canal.&nbsp;**Kennie Ting**&nbsp;goes back to a time when people were travellers, not tourists.
+
+<img src="/images/Vol-13-issue-2/east-of-suez/01_suez.png" style="width: 80%; height: 100%;">  
+<hr>
+
+
+
+
