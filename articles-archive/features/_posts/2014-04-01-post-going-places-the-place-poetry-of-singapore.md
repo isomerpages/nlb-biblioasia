@@ -4,9 +4,10 @@ date: 2014-04-01
 permalink: /vol-10/issue-1/apr-jun-2014/going-places/
 image: /images/vol-10-issue-1/goingplace/bg.jpg
 layout: post
+variant: markdown
 ---
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-10-issue-1/goingplace/bg.jpg"></div>
 
 In conjunction with its 10th anniversary celebrations, The Arts House presents an audio poetry exhibition entitled “Going Places”, which features 45 recordings by some of Singapore’s most well-loved poets on familiar places in Singapore. Some of these poems include “Bras Basah” by Edwin Thumboo; “Shophouse, Victoria Street” by Eileen Chong; “Katong” by Damon Chua; and “Elegy for Changi Beach” by Robert Yeo.
@@ -43,20 +44,20 @@ Old images and videos of Singapore provided by the National Archives Singapore (
 While the visual aspect of the exhibition may invoke feelings of displacement and a melancholic loss of history and the familiar physical identifiers of space, “Going Places” hopes to inspire Singaporeans to remember the city as they know it and to create new memories of the Singapore we experience today.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img style="width:70%" src="/images/vol-10-issue-1/goingplace/chinatown.jpg">
 Chinatown in 1998. <i>Image courtesy of Terence Heng.</i></div>
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#FDF5E6; display:block; font-size:1rem; line-height:1.5rem;"> 
-“Going Places” is held at the Print & Film Gallery at The Arts House between 26 March and 18 May 2014.
+“Going Places” is held at the Print &amp; Film Gallery at The Arts House between 26 March and 18 May 2014.
 <br><br>
-Special thanks to: Dr. Angelia Poon, Dr. Loh Chin Ee, Professor Rajeev Patke (Department of English Language and Literature, National University of Singapore), Jerome Lim (The Long & Winding Road), Nguan, 2902 Gallery, Derek Tait and Philipp Aldrup.
+Special thanks to: Dr. Angelia Poon, Dr. Loh Chin Ee, Professor Rajeev Patke (Department of English Language and Literature, National University of Singapore), Jerome Lim (The Long &amp; Winding Road), Nguan, 2902 Gallery, Derek Tait and Philipp Aldrup.
 <br><br>
 Programme Partners: National Institute of Education and Singapore Memory Project.
 <br><br>
 Supported by: National Museum of Singapore and Institute Francaise Singapore.
 <br><br>
-For more information, visit [www.theartshouse.com.sg](www.theartshouse.com.sg)</span>
+For more information, visit <a href="https://artshouselimited.sg">https://artshouselimited.sg</a></span>
 
 <p style="font-size:15px;"><b>Paula Sim</b> is a recent graduate of the National University of Singapore and is an aspiring actor currently on the Programming team of The Arts House. </p>
 
