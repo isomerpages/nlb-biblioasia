@@ -31,8 +31,8 @@ The Singapore Memory Project is more than just events, programmes and an ambitio
 Do you have a cache of memories just waiting to be shared? Wonder what fellow Singaporeans remember? Then be a part of our conversations over at <a href="https://www.singaporememories.gov.sg/">https://www.singaporememories.gov.sg/</a>
 
 To get in on all the action, check out the Singapore Memory portal at <a href="https://www.singaporememories.gov.sg/">https://www.singaporememories.gov.sg/</a>, our blog at <a href="https://remembersingapore.org/">https://remembersingapore.org/</a>, or download the SMP app to contribute your own memories in the form of images (up to 3MB), videos (20MB) or 20 seconds of footage.<br><br>
-<a href="www.facebook.com/iremembersg">www.facebook.com/iremembersg</a>	
-Twitter &amp; Instagram: @iremembersg
+<a href="https://www.facebook.com/irememberSG/">https://www.facebook.com/irememberSG/</a>	
+Twitter &amp; Instagram: <a href="https://www.instagram.com/iremembersg/@iremembersg/">https://www.instagram.com/iremembersg/@iremembersg/</a>	
 </div>
 
 <div>
