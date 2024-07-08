@@ -97,7 +97,9 @@ Another brainchild of Lee’s was the Science and Industry Quiz, a televised edu
 <img src="/images/Online%20Only%20Articles/Dr%20Lee%20Kum%20Tatt/students_sjc.png" style="width: 80%;">
 <div style="background-color: white;">Students from St Joseph’s Convent answering questions in the first round of the Science and Industry Quiz, 1973.<i> Source: The Straits Times, 7 April 1973 © SPH Media Limited. Permission required for reproduction.</i></div>
 
+In 1979, the Science Council awarded Lee its gold medal to recognise his contributions to the “scientific, technological and industrial development of the Republic”.[^29] In 2005, he was awarded the Distinguished Alumni Award by the National University of Singapore’s Faculty of Science. In his foreword to Lee’s autobiography, _A Fabulous Journey_, Lee’s early mentor Professor Rayson Huang (then Vice-Chancellor of the University of Hong Kong) noted that Lee cherished this 2005 award above all others because “\[Lee\] Kum Tatt always regarded himself as a Scientist, and Chemistry held a special place in his heart.”[^30]
 
+Lee died in 2008 and his integral role in shaping science in Singapore has largely gone unknown and unacknowledged by the wider public. However, his dedication to creating a more scientific society has left behind a sprawling and indelible legacy through the range of institutions he built up, which continue to shape the nation today.
 
   
 
@@ -177,12 +179,16 @@ Another brainchild of Lee’s was the Science and Industry Quiz, a televised edu
 
 [^23]:  “[PQR Shows What It Really Means To Think Quality In The Work You Do](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730517-1.2.81),” _Straits Times_, 17 May 1973, 12. (From NewspaperSG)
 
-[\[1\]](#_ftnref1) [Rex Anthony Shelley](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/fe6d4107-115e-11e3-83d5-0050568939ad), oral history interview by Ghalpanah Thangaraju, 31 January 2002, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/f/fe6d4107-115e-11e3-83d5-0050568939ad-OHC002602_004/web/html5/index.html?pn=5) and MP3 audio, Reel/Disc 4 of 12, National Archives of Singapore ([accession no. 002602](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/fe6d4107-115e-11e3-83d5-0050568939ad)), 52-53.
+[^24]:  [Rex Anthony Shelley](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/fe6d4107-115e-11e3-83d5-0050568939ad), oral history interview by Ghalpanah Thangaraju, 31 January 2002, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/f/fe6d4107-115e-11e3-83d5-0050568939ad-OHC002602_004/web/html5/index.html?pn=5) and MP3 audio, Reel/Disc 4 of 12, National Archives of Singapore ([accession no. 002602](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/fe6d4107-115e-11e3-83d5-0050568939ad)), 52-53.
 
-[\[2\]](#_ftnref2) Lee, _[A Fabulous Journey](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14651733)_, 97-98.; “[When and How It All Began](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19771210-1.2.132.4),” _Straits Times_, 10 December 1977, 41. (From NewspaperSG)
+[^25]:  Lee, _[A Fabulous Journey](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14651733)_, 97-98.; “[When and How It All Began](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19771210-1.2.132.4),” _Straits Times_, 10 December 1977, 41. (From NewspaperSG)
 
-[\[3\]](#_ftnref3) “[Hard at it—trying to tackle 150 queries in 30 minutes](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730407-1.2.55),” _Straits Times_, 7 April 1973, 9 (From NewspaperSG)
+[^26]:  “[Hard at it—trying to tackle 150 queries in 30 minutes](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730407-1.2.55),” _Straits Times_, 7 April 1973, 9 (From NewspaperSG)
 
-[\[4\]](#_ftnref4) Lee, _[A Fabulous Journey](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14651733)_, 18-19
+[^27]:  Lee, _[A Fabulous Journey](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14651733)_, 18-19
 
-[\[5\]](#_ftnref5) [Lee Kum Tatt](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/09654b15-115e-11e3-83d5-0050568939ad), oral history interview by Dr Daniel Chew, 5 August 1993, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/0/033b4eb1-115e-11e3-83d5-0050568939ad-OHC000821_008/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=7) and audio, Reel/Disc 8 of 10, National Archives of Singapore ([accession no. 000821](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/096b9a00-115e-11e3-83d5-0050568939ad)), 94.
+[^28]:  [Lee Kum Tatt](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/09654b15-115e-11e3-83d5-0050568939ad), oral history interview by Dr Daniel Chew, 5 August 1993, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/0/033b4eb1-115e-11e3-83d5-0050568939ad-OHC000821_008/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=7) and audio, Reel/Disc 8 of 10, National Archives of Singapore ([accession no. 000821](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/096b9a00-115e-11e3-83d5-0050568939ad)), 94.
+
+[^29]:  “[The Gold Medal Winner](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19790519-1.2.11.8),” _Business Times_, 19 May 1979, 2. (From NewspaperSG)
+
+[^30]:  Lee, _[A Fabulous Journey](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14651733)_, v-vi.
