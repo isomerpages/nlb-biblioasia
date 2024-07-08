@@ -54,6 +54,19 @@ Another instance was when Lee decided to try to simplify the long and tedious pr
 
 Lee quickly gained more administrative responsibilities, becoming a key builder of the nation’s scientific institutions. In 1959, after the PAP’s rise to power, Lee was appointed to the board of Singapore Polytechnic by Deputy Prime Minister Toh Chin Chye. Lee recalled his expatriate boss, the Director of Chemistry, being enraged at not having been consulted on Lee’s appointment. But Toh curtly responded that since Singapore had attained self-government, he no longer had to obtain anyone’s permission for appointments. The old colonial entitlements held increasingly little weight in the newly decolonising nation.[^13]
 
+#### **Postcolonial Science**
+
+Singapore’s need to cultivate scientific talent only intensified in later years, particularly after its departure from the Federation of Malaysia in 1965. In 1967, Lee became the first chairman of the new Singapore Science Council, dedicated to improving the country’s R&amp;D potential by cultivating both manpower and forging connections with foreign scientific bodies.[^14]
+
+<img src="/images/Online%20Only%20Articles/Dr%20Lee%20Kum%20Tatt/lee_kum_tatt_iaea.jpg" style="width: 80%;">
+<div style="background-color: white;">Dr Lee Kum Tatt at the International Atomic Energy Agency research coordination meeting at the Singapore Conference Hall in 1967.<i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+  
+
+* * *
+
+[\[1\]](#_ftnref1) [Lee Kum Tatt](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/09654b15-115e-11e3-83d5-0050568939ad), oral history interview by Dr Daniel Chew, 5 August 1993, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/0/09654b15-115e-11e3-83d5-0050568939ad-OHC000821_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png) and audio, Reel/Disc 3 of 10, National Archives of Singapore ([accession no. 000821](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/096b9a00-115e-11e3-83d5-0050568939ad)), 32.
+
+
   
 
 * * *
