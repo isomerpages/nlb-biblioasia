@@ -129,4 +129,19 @@ Singaporeans have always had a morbid fascination with the supernatural.&nbsp;**
 <img src="/images/Vol-13-issue-2/history-of-singapore-horror/01_sghorror.png" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-1/apr-jun-2017/nanyang-flavour/">寻找“南洋”: 从1920年代末文艺理论初探文人对南洋之印象</a>
+
+Chinese authors in 1920s Singapore were faced with the call to produce works with a distinctive “Nanyang flavour”.&nbsp;**Goh Yu Mei**&nbsp;explains how these early writers defined this new genre of literature.
+
+<img src="/images/Vol-13-issue-1/nanyang-flavour/01_nanyangflavour.jpg" style="width:70%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/ties-that-bind/">Ties that Bind: The Story of Two Brother Poets</a>
+
+An American Studies scholar unravels a decades-old mystery surrounding a bone fragment and uncovers a brotherly bond from beyond the grave.&nbsp;**Michelle Heng**&nbsp;has the story.
+
+<img src="/images/Vol-12-issue-4/ties-that-bind/2-staff.jpg" style="width:90%;">
+<hr>
+
+
 
