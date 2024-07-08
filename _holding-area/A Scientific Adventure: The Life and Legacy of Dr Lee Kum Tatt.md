@@ -82,33 +82,52 @@ Promoting industrial research was one of his responsibilities at SISIR – he re
 
 He also led the charge to ensure that locally manufactured products met appropriate quality standards for international export, allowing Singaporean goods to be competitive abroad.[^22] He served as chairman of the Singapore Standards Council, the body responsible for approving new standards. In addition, as chairman of SISIR, he promoted the adoption of standards through a range of methods from training to formal certification. These methods included running national campaigns – for example, Lee was chairman of the organising committee of SISIR’s prominent “Prosperity Through Quality and Reliability” campaign (1972–73), which aimed to promote quality-consciousness and pride among manufacturers and their employees.[^23]
 
+<img src="/images/Online%20Only%20Articles/Dr%20Lee%20Kum%20Tatt/hon_sui_sen.jpg" style="width: 80%;">
+<div style="background-color: white;">Minister Hon Sui Sen giving a speech at the closing ceremony of PQR campaign.<i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
+#### **Science for the Masses**
+
+Lee was also committed to making science accessible to the broader public. When he found out that his university classmate, Rex Shelley, had been working on establishing a small Science Centre in a shophouse, Lee convinced him that it needed to be a government-funded project.[^24] In 1969, Lee secured UNESCO funding and personnel from the Science Museum in London to help draw up a proposal, which ultimately led to the official opening of the Singapore Science Centre in 1977.[^25]
+
+Another brainchild of Lee’s was the Science and Industry Quiz, a televised educational programme where secondary school students competed to answer general questions on Science. Teams from more than 50 schools across the country participated in the preliminary round, with the highest scoring 12 teams selected for the televised portion.[^26] While the contestants were students, the programme’s popularity resulted in entire families learning together and becoming more “science-minded.”[^27] Lee recalled one friend telling him: “\[the quiz\] is one show my grandfather, father and children all sat in front of the TV and watched. And all tried to answer.”[^28]
+
+<img src="/images/Online%20Only%20Articles/Dr%20Lee%20Kum%20Tatt/spore_science_ctr.png" style="width: 80%;">
+<div style="background-color: white;">The Singapore Science Centre opened in 1977.<i> Image reproduced from “Centre Will Be More Than Just a Science Museum,” Business Times, 10 December 1977, 15. (From NewspaperSG)</i></div>
+
+<img src="/images/Online%20Only%20Articles/Dr%20Lee%20Kum%20Tatt/students_sjc.png" style="width: 80%;">
+<div style="background-color: white;">The Singapore Science Centre opened in 1977.<i> Image reproduced from “Centre Will Be More Than Just a Science Museum,” Business Times, 10 December 1977, 15. (From NewspaperSG)</i></div>
+
   
-
-* * *
-
-
-
-  
-
-
-
-
-
-
-  
-
-
-
-
-
-
 
 
 
 
   
 
-* * *
+
+
+
+  
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+#### **Notes**
 
 [^1]:  Lee Kum Tatt, _[A Fabulous Journey](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14651733)_ (2012, Singapore: The Word Press), 145. (From National Library, Singapore, call no. 540.92 LEE)
 
@@ -155,3 +174,13 @@ He also led the charge to ensure that locally manufactured products met appropri
 [^22]:  “[A ‘SISIR’ Stamp Means Quality Product](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19690619-1.2.24),” _Straits Times_, 19 June 1969, 4. (From NewspaperSG)
 
 [^23]:  “[PQR Shows What It Really Means To Think Quality In The Work You Do](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730517-1.2.81),” _Straits Times_, 17 May 1973, 12. (From NewspaperSG)
+
+[\[1\]](#_ftnref1) [Rex Anthony Shelley](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/fe6d4107-115e-11e3-83d5-0050568939ad), oral history interview by Ghalpanah Thangaraju, 31 January 2002, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/f/fe6d4107-115e-11e3-83d5-0050568939ad-OHC002602_004/web/html5/index.html?pn=5) and MP3 audio, Reel/Disc 4 of 12, National Archives of Singapore ([accession no. 002602](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/fe6d4107-115e-11e3-83d5-0050568939ad)), 52-53.
+
+[\[2\]](#_ftnref2) Lee, _[A Fabulous Journey](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14651733)_, 97-98.; “[When and How It All Began](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19771210-1.2.132.4),” _Straits Times_, 10 December 1977, 41. (From NewspaperSG)
+
+[\[3\]](#_ftnref3) “[Hard at it—trying to tackle 150 queries in 30 minutes](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730407-1.2.55),” _Straits Times_, 7 April 1973, 9 (From NewspaperSG)
+
+[\[4\]](#_ftnref4) Lee, _[A Fabulous Journey](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14651733)_, 18-19
+
+[\[5\]](#_ftnref5) [Lee Kum Tatt](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/09654b15-115e-11e3-83d5-0050568939ad), oral history interview by Dr Daniel Chew, 5 August 1993, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/0/033b4eb1-115e-11e3-83d5-0050568939ad-OHC000821_008/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=7) and audio, Reel/Disc 8 of 10, National Archives of Singapore ([accession no. 000821](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/096b9a00-115e-11e3-83d5-0050568939ad)), 94.
