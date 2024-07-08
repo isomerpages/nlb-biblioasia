@@ -60,22 +60,38 @@ Singapore’s need to cultivate scientific talent only intensified in later year
 
 <img src="/images/Online%20Only%20Articles/Dr%20Lee%20Kum%20Tatt/lee_kum_tatt_iaea.jpg" style="width: 80%;">
 <div style="background-color: white;">Dr Lee Kum Tatt at the International Atomic Energy Agency research coordination meeting at the Singapore Conference Hall in 1967.<i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
+Singapore became a member of the International Atomic Energy Agency (IAEA) in 1967, and the Science Council hosted the IAEA’s first research coordination meeting in November that same year.[^15] As Science Council chairman, Lee opened the conference by announcing that the IAEA had agreed to provide technical assistance to set up a radio-isotope diagnostic laboratory and in the development of radiotherapy facilities, particularly in healthcare.[^16]
+
+In 1969, the Science Council held the Science Ball, an event that sought to raise money for a proposed Science Endowment Fund. Nearly 500 scientists, industrialists and businessmen attended, with Prime Minister Lee Kuan Yew and his wife Kwa Geok Choo as the guests-of-honour. At the ball, the council awarded its inaugural gold medal to Dr T.G. Ling, an industrial chemist who had contributed to modern poultry and pig farming.[^17] From then, the gold medal was presented annually to someone who had made significant contributions to science in the nation.
+
+<img src="/images/Online%20Only%20Articles/Dr%20Lee%20Kum%20Tatt/LKY.jpg" style="width: 80%;">
+<div style="background-color: white;">Lee Kuan Yew and his wife Kwa Geok Choo arriving at the Science Ball in 1969.<i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
+#### **Promoting Standards and Research**
+
+As head of the Science Council, Lee felt there was an alarming lack of co-ordination of “national scientific efforts” between the government and private sector. As a result, he sponsored the National Conference on Scientific and Technical Co-operation between Industries and Governmental Bodies in October 1968.[^18] The recommendations of this conference led to the formation of the Singapore Institute of Standards and Industrial Research (SISIR) in 1969. Lee served as chairman of SISIR for more than 15 years, until his retirement in 1985.[^19]
+
+Promoting industrial research was one of his responsibilities at SISIR – he recalled in his oral history interview that unlike the present where R&amp;D brings researchers money, glory and social standing, in the early days of SISIR “\[people\] think you are mad if you do R&amp;D.”[^20] To demonstrate that innovative research was possible, he helped design the famous [RISIS](https://biblioasia.nlb.gov.sg/localicons/2024/6/risis-gold-orchid-tourism-souvenir/) series of gold-plated objects including orchids, eggs, walnuts, ferns, and animals from the Chinese Zodiac.[^21]
+
+<img src="/images/Online%20Only%20Articles/Dr%20Lee%20Kum%20Tatt/RISIS.png" style="width: 55%;">
+<div style="background-color: white;">RISIS’ products were highly popular in the 1970s and 80s.<i>         Image reproduced from “Page 28 Advertisements Column 2,” Straits Times, 18 December 1976, 28 (From NewspaperSG).</i></div>
+
   
 
 * * *
 
-[\[1\]](#_ftnref1) [Lee Kum Tatt](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/09654b15-115e-11e3-83d5-0050568939ad), oral history interview by Dr Daniel Chew, 5 August 1993, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/0/09654b15-115e-11e3-83d5-0050568939ad-OHC000821_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png) and audio, Reel/Disc 3 of 10, National Archives of Singapore ([accession no. 000821](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/096b9a00-115e-11e3-83d5-0050568939ad)), 32.
+
 
 
   
 
-* * *
 
-[\[1\]](#_ftnref1) [Lee](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/88183543-115f-11e3-83d5-0050568939ad), oral history interview, 16-18.
 
-[\[2\]](#_ftnref2) Lee, _[A Fabulous Journey](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14651733)_, 118-119.
 
-[\[3\]](#_ftnref3) [Lee](https://www.nas.gov.sg/archivesonline/flipviewer/publish/8/88183543-115f-11e3-83d5-0050568939ad-OHC000821_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=9), oral history interview, 21-22.
+
+
+
 
 
 
@@ -102,3 +118,25 @@ Singapore’s need to cultivate scientific talent only intensified in later year
 [^9]:  [Lee](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/88183543-115f-11e3-83d5-0050568939ad), oral history interview, 14\-15.
 
 [^10]:  Lee, _[A Fabulous Journey](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14651733)_, 110-111.
+
+[^11]:  [Lee](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/88183543-115f-11e3-83d5-0050568939ad), oral history interview, 16-18.
+
+[^12]:  Lee, _[A Fabulous Journey](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14651733)_, 118-119.
+
+[^13]:  [Lee](https://www.nas.gov.sg/archivesonline/flipviewer/publish/8/88183543-115f-11e3-83d5-0050568939ad-OHC000821_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=9), oral history interview, 21-22.
+
+[^14]:  [Lee Kum Tatt](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/09654b15-115e-11e3-83d5-0050568939ad), oral history interview by Dr Daniel Chew, 5 August 1993, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/0/09654b15-115e-11e3-83d5-0050568939ad-OHC000821_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png) and audio, Reel/Disc 3 of 10, National Archives of Singapore ([accession no. 000821](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/096b9a00-115e-11e3-83d5-0050568939ad)), 32.
+
+[^15]:  Science Council of Singapore, _[Annual Report of The Science Council of Singapore 1967](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4828564)_ (Singapore: Science Council of Singapore), 4. (From National Library, Singapore, call no. RSING 506.15957 SCSAR) See also [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/government_records/docs/667884b9-fb00-11e7-bafc-001a4a5ba61b/S.16of1968.pdf).
+
+[^16]:  “[A-Agency Help for S’pore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19671107-1.2.20),” _Straits Times_, 7 November 1967, 4. (From NewspaperSG)
+
+[^17]:  Science Council of Singapore, _[Annual Report of The Science Council of Singapore 1969](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4828564)_ (Singapore: Science Council of Singapore), 8. (From National Library, Singapore, call no. RSING 506.15957 SCSAR 1969-70). See also from [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/government_records/docs/d0833c53-d47f-11e7-9cbe-0050568939ad/S.32of1971.pd).
+
+[^18]:  Science Council of Singapore, _[Annual Report of The Science Council of Singapore 1968](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4828564)_ (Singapore: Science Council of Singapore), 1. (From National Library, Singapore, call no. RSING 506.15957 SCSAR) See also [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/government_records/docs/be3ae772-d47f-11e7-9cbe-0050568939ad/S.1of1971.pdf).
+
+[^19]:  “[Lee Kum Tatt resigns as Sisir chairman](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19851114-1.2.8),” _Business Times_, 14 November 1985, 1 (From NewspaperSG)
+
+[^20]:  [Lee Kum Tatt](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/09654b15-115e-11e3-83d5-0050568939ad), oral history interview by Dr Daniel Chew, 5 August 1993, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/0/096b9a00-115e-11e3-83d5-0050568939ad-OHC000821_006/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=9) and audio, Reel/Disc 6 of 10, National Archives of Singapore ([accession no. 000821](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/096b9a00-115e-11e3-83d5-0050568939ad)), 68.
+
+[^21]:  Sharad Pandian, “Singapore’s National Souvenir: The Gold-plated Past of RISIS,” BiblioAsia, published June 2024, [https://biblioasia.nlb.gov.sg/localicons/2024/6/risis-gold-orchid-tourism-souvenir/](https://biblioasia.nlb.gov.sg/localicons/2024/6/risis-gold-orchid-tourism-souvenir/).
