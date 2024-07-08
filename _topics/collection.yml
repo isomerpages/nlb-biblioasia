@@ -2,7 +2,6 @@ collections:
   topics:
     output: true
     order:
-      - ExaOp Ed.md
       - Editor's Picks.md
       - Adventure.md
       - Archaeology.md
@@ -14,6 +13,7 @@ collections:
       - Arts/Theatre and Dance.md
       - Collection Highlights.md
       - Culture.md
+      - ExaOp Ed.md
       - Food.md
       - Governance.md
       - History.md
