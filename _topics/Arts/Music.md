@@ -53,3 +53,14 @@ The city was a major pit stop for visiting entertainers and sportsmen in the ear
 
 <img src="/images/Vol-14-issue-4/singapore-stopover/Stopover1.JPG" style="width:80%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-1/apr-jun-2017/guitar-man/">The Guitar Man: Alex Abisheganaden</a>
+
+Hailed as the “Father of the Guitar”, Alex Abisheganaden, who died on 17 March, 2023, spent the last five decades championing the classical guitar.&nbsp;**Joy Loh**&nbsp;charts his illustrious career.
+
+<img src="/images/Vol-13-issue-1/the-guitar-man/alex%20and%20boy%20(from%20nac).jpg" style="width:80%;">
+<hr>
+
+
+
+
