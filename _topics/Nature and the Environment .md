@@ -48,11 +48,33 @@ Singapore has planted more than two million trees in the past 50 years. **Lim Ti
 
 
 <img src="/images/Vol-16-issue-2/raffles/stork.jpg" style="width:80%;">
-		
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-3/oct-dec-2019/biodiversityheritage/">A Slice of Singapore in the Biodiversity Heritage Library</a>
 Singapore has planted more than two million trees in the past 50 years. **Lim Tin Seng** traces the roots of Tree Planting Day.
 
 <img src="/images/Vol-15-issue-3/a-slice-of-sg-biodiversity/biodiversity_topic.png" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-2/jul-sep-2018/revulsion-n-reverenc/">Revulsion and Reverence: Crocodiles in Singapore</a>
+
+Crocodiles elicit fear and respect by turns – and occasionally, even indifference.&nbsp;**Kate Pocklington** and&nbsp;**Siddharta Perez**&nbsp;document reptilian encounters at specific times in Singapore’s history and their impact on the human psyche.
+
+<img src="/images/Vol-14-issue-2/revulsion-and-reverence/Croc1.JPG" style="width:80%;">
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-1/apr-jun-2018/blooming-lies-vandaj/">Blooming Lies: The Vanda Miss Joaquim Story</a>
+
+Is the&nbsp;_Vanda_&nbsp;Miss Joaquim a human-made hybrid or a happy accident? In this cautionary tale,&nbsp;**Nadia Wright, Linda Locke and Harold Johnson**&nbsp;recount how fiction becomes truth when it is repeated often enough.
+
+<img src="/images/Vol-14-issue-1/blooming-lies/Blooming1.JPG" style="width:50%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-4/jan-mar-2018/whentigersusedtoroam/">When Tigers Used to Roam: Nature &amp; Environment in Singapore</a>
+
+Urban development has destroyed much of the original landscape, as&nbsp;**Goh Lee Kim**&nbsp;tells us. But Singapore has taken great strides in conserving its natural heritage.
+
+<img src="/images/Vol-13-issue-4/when-tigers-used-to-roam/01_tigerroam.jpg" style="width:80%;">
+<hr>
+
+
 <hr>

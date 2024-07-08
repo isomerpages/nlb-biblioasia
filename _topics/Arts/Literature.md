@@ -80,3 +80,72 @@ History may be written by the victors, but what they conveniently leave out can 
 
 <img src="/images/Vol-15-issue-2/dont-mention-the-corpses/Corpses1.JPG" style="width:80%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-3/oct-dec-2018/an-ode-to-two-women/">An Ode to Two Women</a>
+
+Acclaimed poet and playwright&nbsp;**Robert Yeo**&nbsp;pays tribute to his daughter and a noted author in chapter two of his work-in-progress sequel to his memoir&nbsp;_Routes_.
+
+<img src="/images/Vol-14-issue-3/an-ode-to-two-women/AnOde1.JPG" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-1/apr-jun-2018/chinese-education/">文言与白话的抗争与磨合: 近代华文教学语体的蜕变历程 (Classical and Modern Chinese Education)</a>
+
+Classical and Modern Chinese education in Mainland China and Taiwan has been debated for over a century.&nbsp;**Chua Chee Lay**&nbsp;analyses its development and provides valuable lessons from history.
+
+<img src="/images/Vol-14-issue-1/chinese/Chinese1.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-2/jul-sep-2017/talesofmalayworld/">Tales of the Malay World: Manuscripts and Early Books</a>
+Literary works in the ancient Malay-speaking world were not enjoyed silently but read aloud to an audience, as&nbsp;**Tan Huism**&nbsp;tells us in this latest exhibition by the National Library.
+
+<img src="/images/Vol-13-issue-2/tales-of-malay-world/01_malayworld.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-2/jul-sep-2017/short-stories-tamil/">தமிழ் முரசில் 1936–1960 வரை வெளிவந்த சிறுகதைகள் – ஒரு பார்வ</a>
+
+**Sundari Balasubramaniam**&nbsp;reviews a selection of short stories published in&nbsp;_Tamil Murasu_&nbsp;during the tumultuous years from 1936 to 1960 when Singapore transitioned from British rule and Japanese Occupation to self-governance.
+
+<img src="/images/Vol-13-issue-2/tamil-murasu/01_tamil.jpg" style="width:90%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-2/jul-sep-2017/alam-puisi-singapura/">Alam Puisi Melayu Singapura Selepas Merdeka</a>
+
+Singapore’s Malay publishing scene was thrown into disarray when the country exited Malaysia in 1965.&nbsp;**Juffri Bin Supa’at**&nbsp;charts the development of Malay poetry in Singapore since Independence.
+
+<img src="/images/Vol-13-issue-2/alam-puisi-melayu-singapura/01_puisi.png" style="width:50%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-2/jul-sep-2017/sci-fi-in-singapore/">Sci-Fi in Singapore: 1970s to 1990s</a>
+
+The sci-fi frenzy took off in Singapore in 1978 when&nbsp;_Star Wars_&nbsp;was screened at cinemas here.&nbsp;**Nadia Arianna Bte Ramli**&nbsp;looks at sci-fi works produced between 1970s and 1990s.
+
+<img src="/images/Vol-13-issue-2/sci-fi-in-singapore/01_scifi.png" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-2/jul-sep-2017/">A History of Singapore Horror</a>
+
+Singaporeans have always had a morbid fascination with the supernatural.&nbsp;**Ng Yi-Sheng**&nbsp;examines the culture of horror in our oral folklore, books and films.
+
+<img src="/images/Vol-13-issue-2/history-of-singapore-horror/01_sghorror.png" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-1/apr-jun-2017/nanyang-flavour/">寻找“南洋”: 从1920年代末文艺理论初探文人对南洋之印象</a>
+
+Chinese authors in 1920s Singapore were faced with the call to produce works with a distinctive “Nanyang flavour”.&nbsp;**Goh Yu Mei**&nbsp;explains how these early writers defined this new genre of literature.
+
+<img src="/images/Vol-13-issue-1/nanyang-flavour/01_nanyangflavour.jpg" style="width:70%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/ties-that-bind/">Ties that Bind: The Story of Two Brother Poets</a>
+
+An American Studies scholar unravels a decades-old mystery surrounding a bone fragment and uncovers a brotherly bond from beyond the grave.&nbsp;**Michelle Heng**&nbsp;has the story.
+
+<img src="/images/Vol-12-issue-4/ties-that-bind/2-staff.jpg" style="width:90%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/writingchinesescript">哎哟 华文字真难写!</a>
+
+Students in pre-1970s Singapore had to learn the correct way of writing the Chinese script.&nbsp;**Ho Phang Phow**&nbsp;describes the painstaking process of mastering this craft.
+
+<img src="/images/Vol-12-issue-4/writing-chinese-script/01-writing_chinese_script.jpg" style="width:80%;">
+<hr>

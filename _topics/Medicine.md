@@ -60,7 +60,6 @@ People struck with leprosy were shunned and forced to live in isolation at the T
 Milestones in Singapore’s medical scene – among other subjects – are captured through fascinating oral history narratives in a new book written by&nbsp;Cheong Suk-Wai&nbsp;and published by the National Archives of Singapore.
 
 <img style="width:80%;" src="/images/Vol-15-issue-2/singapore-medical-services/medicalservices_topic.png">
-
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-3/oct-dec-2018/magic-or-med-m-heal/">Magic or Medicine? Malay Healing Practices</a>
@@ -69,11 +68,32 @@ Milestones in Singapore’s medical scene – among other subjects – are captu
 <img src="/images/Vol-14-issue-3/magic-or-medicine-malay-hp/MagicMed1.JPG" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-3/oct-dec-2018/german-med-deity-sg/">“The German Medicine Deity”: Singapore’s Early Pharmacies</a>
+
+**Timothy Pwee**&nbsp;charts the history of Singapore’s first Western-style pharmacies through old receipts and documents from the National Library’s Koh Seow Chuan Collection.
+
+<img src="/images/Vol-14-issue-3/the-german-medicine-deity/Germany1.JPG" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-3/oct-dec-2018/german-med-deity-sg/">“The German Medicine Deity”: Singapore’s Early Pharmacies</a>
+
+**Timothy Pwee**&nbsp;charts the history of Singapore’s first Western-style pharmacies through old receipts and documents from the National Library’s Koh Seow Chuan Collection.
+
+<img src="/images/Vol-14-issue-3/the-german-medicine-deity/Germany1.JPG" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-3/oct-dec-2017/traditionalchinesemed/">从馆藏文献资料认识中医药在新加坡 的历史与发展 (Traditional Chinese Medicine in Singapore)</a>
+
+Traditional Chinese medicine in Singapore has a history that goes back to more than a century.&nbsp;**Vicky Gao**&nbsp;traces its development through the National Library’s collection.
+
+<img src="/images/Vol-13-issue-3/traditional-chinese-medicine/01a-chinesemedicine.png" style="width:70%;">
+<hr>
+
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-2/jul-sep-2016/angels-in-white">Angels in White: Early Nursing in Singapore</a>
 <p>In the 1820s, some “nurses” in Singapore were actually chained convicts. Pattarin Kusolpalin chronicles the history of nursing from 1819 until Independence.</p> 
 
 <img style="width:80%;" src="/images/Vol-12-issue-2/angels-in-white/06-angelsinwhite.jpg">
-
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-4/jan-march-2014/overseas-chinese">Singapore Men of Science and Medicine in China (1911–1949)</a>

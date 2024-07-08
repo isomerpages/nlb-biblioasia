@@ -94,3 +94,77 @@ Thrift, hard work and resilience are qualities that can be nurtured through food
 
 <img src="/images/Vol-14-issue-4/life-lessons-in-chetty-m-kit/chetty1_topic.png" style="width:80%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-3/oct-dec-2018/an-ode-to-two-women/">An Ode to Two Women</a>
+
+Acclaimed poet and playwright&nbsp;**Robert Yeo**&nbsp;pays tribute to his daughter and a noted author in chapter two of his work-in-progress sequel to his memoir&nbsp;_Routes_.
+
+<img src="/images/Vol-14-issue-3/an-ode-to-two-women/AnOde1.JPG" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-3/oct-dec-2018/blazing-a-trail/">Blazing a Trail: The Fight for Women’s Rights in Singapore</a>
+
+The Singapore Council of Women was the city’s first female civil rights group that took bold steps to champion laws affecting women.&nbsp;**Phyllis Chew**&nbsp;documents its hard-won victories.
+
+<img src="/images/Vol-14-issue-3/blazing-a-trail/BlazingTrail1.JPG" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-2/jul-sep-2018/globetrotting-mum-nw/">Globetrotting Mums: Then and Now</a>
+
+**Bonny Tan**&nbsp;interweaves her own experiences as a modern Singaporean mother travelling and living abroad with those of two Victorian-era Englishwomen.
+
+<img src="/images/Vol-14-issue-2/globetrotting-mums/Globetrotting1.JPG" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-1/apr-jun-2018/warrior-women-rani/">Warrior Women: The Rani of Jhansi Regiment</a>
+
+A band of extraordinary women rose above oppression and poverty in Malayan plantations to overthrow the British in colonial India.&nbsp;**Meira Chand**&nbsp;has the story.
+
+<img src="/images/Vol-14-issue-1/warrior-women/Warrior1.JPG" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-1/apr-jun-2018/malayan-mata-hari/">Hunting Down the Malayan Mata Hari</a>
+
+**Ronnie Tan**&nbsp;pieces together the fascinating story of Lee Meng, the Malayan Communist Party female agent who headed its courier network for a brief period in 1952.
+
+<img src="/images/Vol-14-issue-1/hunting-down-the-malayan/Hunta.JPG" style="width:50%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-1/apr-jun-2018/blooming-lies-vandaj/">Blooming Lies: The Vanda Miss Joaquim Story</a>
+
+Is the&nbsp;_Vanda_&nbsp;Miss Joaquim a human-made hybrid or a happy accident? In this cautionary tale,&nbsp;**Nadia Wright, Linda Locke and Harold Johnson**&nbsp;recount how fiction becomes truth when it is repeated often enough.
+
+<img src="/images/Vol-14-issue-1/blooming-lies/Blooming1.JPG" style="width:50%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-4/jan-mar-2018/ideal-sgporean-female/">Recipes for the Ideal Singaporean Female</a>
+
+From cooking, cleaning and becoming a good mother to outsourcing housework as careers for women took off.&nbsp;**Sheere Ng**&nbsp;charts how home economics lessons have evolved over the years.
+
+<img src="/images/Vol-13-issue-4/ideal-singaporean-female/01_idealsgfemale.png" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-4/jan-mar-2018/women-on-a-mission/">Women on a Mission</a>
+
+Female missionaries in colonial Singapore have made their mark in areas such as education, welfare and health services.&nbsp;**Jaime Koh**&nbsp;looks at some of these intrepid trailblazers.
+
+<img src="/images/Vol-13-issue-4/women-on-a-mission/01_womenmission.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-3/oct-dec-2017/lifetime-of-labour/">A Lifetime of Labour: Cantonese Amahs in Singapore</a>
+
+**Cheah Hwei-Fe’n**&nbsp;examines the impact of print media on the time-honoured craft of Peranakan embroidery and beadwork.
+
+<img src="/images/Vol-13-issue-3/a-lifetime-of-labour/01_amah.png" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/beneath-glitz-glamour/">Beneath the Glitz and Glamour: The Untold Story of the “Lancing” Girls</a>
+
+**Cheah Hwei-Fe’n**&nbsp;examines the impact of print media on the time-honoured craft of Peranakan embroidery and beadwork.
+
+<img src="/images/Vol-12-issue-4/glitz-and-glamour/3-beneath_glitz_glamour.jpg" style="width:100%;">
+<hr>
+
+
+
+

@@ -79,3 +79,45 @@ K.F. Wong shot to international fame with his images of Borneo, though not witho
 
 <img src="/images/Vol-15-issue-2/from-the-archives/kfwong_topic.png" style="width:80%;">  
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-3/oct-dec-2018/five-ashore-in-sg/">Five Ashore in Singapore: A European Spy Film</a>
+
+**Raphaël Millet**&nbsp;sits through a B-grade movie dismissed by critics as belonging to the genre of Eurospy flicks that parody James Bond – and discovers a slice of Singaporean celluloid history.
+
+<img src="/images/Vol-14-issue-3/five-ashore-in-singapore/FiveAshore1.JPG" style="width:80%;">  
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-1/apr-jun-2018/ramen-teh/">Ramen Teh: Food, War and Memory</a>
+
+Eric Khoo tells us how the Japanese Occupation,&nbsp; _ramen_&nbsp;noodles and&nbsp;_bak kut teh_&nbsp;became the inspiration for his latest film.&nbsp;**Lu Wenshi**&nbsp;finds out more.
+
+<img src="/images/Vol-14-issue-1/ramen-teh/Ramen1.JPG" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-1/apr-jun-2018/portrait-lee-bro-std/">Portraits from the Lee Brothers Studio</a>
+
+**Gretchen Liu**&nbsp;casts the spotlight on the Lee Brothers Studio Collection. Comprising some 2,500 images, this is the largest single collection of photographic portraits in the National Archives of Singapore.
+
+<img src="/images/Vol-14-issue-1/portraits-from-lee-bros-studio/Portraits1.JPG" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-2/jul-sep-2017/reel-life-singapore/">Reel Life Singapore: The Films of Clyde E. Elliott</a>
+
+Clyde Elliott was the first Hollywood director to shoot a feature film in Singapore.&nbsp;**Chua Ai Lin**&nbsp;examines the authenticity of the three movies he produced here in the 1930s.
+
+<img src="/images/Vol-13-issue-2/reel-life-singapore/01_reellife.jpg" style="width:40%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-1/apr-jun-2017/chaplininsingapore/">Chaplin in Singapore</a>
+
+One of history’s greatest comic actors, Charlie Chaplin, stops over in Singapore in 1932 and makes a return visit in 1936.&nbsp;**Raphaël Millet**&nbsp;traces these journeys.
+
+<img src="/images/Vol-13-issue-1/chaplin-in-singapore/01_charliechaplin.jpg" style="width:40%;">
+<hr>
+
+
+
+
+
+
+<hr>

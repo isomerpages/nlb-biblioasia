@@ -252,3 +252,112 @@ Writing a biography can be tedious, painstaking work. But the effort can also be
 
 <img src="/images/Vol-14-issue-4/creative-collectives/xz.JPG" style="width:80%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-3/oct-dec-2018/honour-of-war-heroes/">In Honour of War Heroes: The Legacy of Colin St Clair Oakes</a>
+
+Who was the architect behind Singapore’s Kranji War Cemetery and other similar memorials in South and Southeast Asia?&nbsp;**Athanasios Tsakonas**&nbsp;has the story.
+
+<img src="/images/Vol-14-issue-3/in-honour-of-war-heroes/Honour1.JPG" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-2/jul-sep-2018/malay-seafarer-in-lp/">Malay Seafarers in Liverpool</a>
+
+**Tim Bunnell**&nbsp;speaks to former Malay sailors who reside in the English city and learns how they manage to sustain their identity in a city so removed from home.
+
+<img src="/images/Vol-14-issue-2/malay-seafarers-in-liverpool/Seafarers1.JPG" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-3/oct-dec-2017/european-escapade/">Mr Song’s European Escapade</a>
+
+**Ong Eng Chuan**&nbsp;pores through the faded colonial-era postcards of Peranakan luminary Song Ong Siang to piece together highlights of his 10-month European sojourn.
+
+<img src="/images/Vol-13-issue-3/mr-song-european-escapade/03a_escapade.png" style="width:70%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-3/oct-dec-2017/scots-in-singapore/">Scots in Singapore: Remembering Their Legacy</a>
+
+**Cheah Hwei-Fe’n**&nbsp;examines the impact of print media on the time-honoured craft of Peranakan embroidery and beadwork.
+
+<img src="/images/Vol-13-issue-3/scots-in-singapore/01_scots.jpg" style="width:50%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-3/oct-dec-2017/micro-india/">Micro India: The Chettiars of Market Street</a>
+
+Market Street, in the heart of the business district, was where Indian moneylenders ran a thriving trade during the colonial era.&nbsp;**Marcus Ng**&nbsp;traces the imprint left by the Chettiars.
+
+<img src="/images/Vol-13-issue-3/micro-india/01a_microindia.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-2/jul-sep-2017/an-unusual-ambition/">An Unusual Ambition: The Early Librarians</a>
+
+**Bonny Tan**&nbsp;traces the careers of little-known librarians, Padma Daniel and her mentor Kate Edith Savage-Bailey, and the circumstances that led to their career choices in pre-war Singapore.
+
+<img src="/images/Vol-13-issue-2/an-unusual-ambition/01_unusualambition.png" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-2/jul-sep-2017/reel-life-singapore/">Reel Life Singapore: The Films of Clyde E. Elliott</a>
+
+Clyde Elliott was the first Hollywood director to shoot a feature film in Singapore.&nbsp;**Chua Ai Lin**&nbsp;examines the authenticity of the three movies he produced here in the 1930s.
+
+<img src="/images/Vol-13-issue-2/reel-life-singapore/01_reellife.jpg" style="width:40%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-2/jul-sep-2017/murdermostmalevolent/">Murder Most Malevolent</a>
+
+Sunny Ang, Mimi Wong, Adrian Lim and John Martin Scripps are some of the most cold-blooded murderers in Singapore’s crime history.&nbsp;**Sharon Teng**&nbsp;revisits their horrific acts.
+
+<img src="/images/Vol-13-issue-2/murder-most-malevolent/01_murder.png" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-1/apr-jun-2017/guitar-man/">The Guitar Man: Alex Abisheganaden</a>
+
+Hailed as the “Father of the Guitar”, Alex Abisheganaden, who died on 17 March, 2023, spent the last five decades championing the classical guitar.&nbsp;**Joy Loh**&nbsp;charts his illustrious career.
+
+<img src="/images/Vol-13-issue-1/the-guitar-man/alex%20and%20boy%20(from%20nac).jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-1/apr-jun-2017/doctorturneddiploma">The Doctor Turned Diplomat: John Crawfurd’s Writings on the Malay Peninsula</a>
+
+John Crawfurd, the 19th-century British colonial administrator, was known for his insightful writings on ethnology and history in the Malay Peninsula.&nbsp;**Wilbert Wong**&nbsp;examines the ideas of this visionary scholar and thinker.
+
+<img src="/images/Vol-13-issue-1/doctor-turned-diplomat/01a_doctordiplomat.jpg" style="width:60%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-1/apr-jun-2017/meetingwiththesea/">Meeting with the Sea</a>
+
+**Melissa De Silva**&nbsp;mulls over what it is to be Eurasian in this evocative short story that takes her back to the Portuguese Settlement in Malacca.
+
+<img src="/images/Vol-13-issue-1/meeting-with-the-sea/01_meetingsea.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-1/apr-jun-2017/chaplininsingapore/">Chaplin in Singapore</a>
+
+One of history’s greatest comic actors, Charlie Chaplin, stops over in Singapore in 1932 and makes a return visit in 1936.&nbsp;**Raphaël Millet**&nbsp;traces these journeys.
+
+<img src="/images/Vol-13-issue-1/chaplin-in-singapore/01_charliechaplin.jpg" style="width:40%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/ties-that-bind/">Ties that Bind: The Story of Two Brother Poets</a>
+
+An American Studies scholar unravels a decades-old mystery surrounding a bone fragment and uncovers a brotherly bond from beyond the grave.&nbsp;**Michelle Heng**&nbsp;has the story.
+
+<img src="/images/Vol-12-issue-4/ties-that-bind/2-staff.jpg" style="width:90%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/claudiushenrythomsen/">Claudius Henry Thomsen: A Pioneer in Malay Printing</a>
+
+Danish missionary Claudius Henry Thomsen produced some of the earliest Malay-language publications in Singapore and the Malay Peninsula.&nbsp;**Bonny Tan**&nbsp;sheds light on this pioneer printer.
+  
+<img src="/images/Vol-12-issue-4/claudius-henry-thomsen/2b_claudies_henry_thomsen_topic.png" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/pauper-to-philanthrop/">From Pauper to Philanthropist: The Tan Tock Seng Story</a>
+
+**Sue-Ann Chia**&nbsp;traces the classic rags-to-riches story of a vegetable seller turned land speculator who left a hospital named after him in Singapore.
+
+
+<img src="/images/Vol-12-issue-4/from-pauper-to-philanthropist/1-from_pauper_to_philanthropist.jpg" style="width:60%;">
+<hr>
+
+
+<hr>

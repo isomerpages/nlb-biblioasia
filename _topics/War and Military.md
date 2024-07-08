@@ -150,3 +150,47 @@ Desperate times call for desperate measures.&nbsp;<b>Lee Geok Boi</b>&nbsp;trawl
 
 <img src="/images/Vol-14-issue-4/iron-spearhead-the-story-hitmn/iron1_topic.png" style="width:80%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-3/oct-dec-2018/honour-of-war-heroes/">In Honour of War Heroes: The Legacy of Colin St Clair Oakes</a>
+
+Who was the architect behind Singapore’s Kranji War Cemetery and other similar memorials in South and Southeast Asia?&nbsp;**Athanasios Tsakonas**&nbsp;has the story.
+
+<img src="/images/Vol-14-issue-3/in-honour-of-war-heroes/Honour1.JPG" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-1/apr-jun-2018/ramen-teh/">Ramen Teh: Food, War and Memory</a>
+
+Eric Khoo tells us how the Japanese Occupation,&nbsp; _ramen_&nbsp;noodles and&nbsp;_bak kut teh_&nbsp;became the inspiration for his latest film.&nbsp;**Lu Wenshi**&nbsp;finds out more.
+
+<img src="/images/Vol-14-issue-1/ramen-teh/Ramen1.JPG" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-1/apr-jun-2018/warrior-women-rani/">Warrior Women: The Rani of Jhansi Regiment</a>
+
+A band of extraordinary women rose above oppression and poverty in Malayan plantations to overthrow the British in colonial India.&nbsp;**Meira Chand**&nbsp;has the story.
+
+<img src="/images/Vol-14-issue-1/warrior-women/Warrior1.JPG" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-1/apr-jun-2018/malayan-mata-hari/">Hunting Down the Malayan Mata Hari</a>
+
+**Ronnie Tan**&nbsp;pieces together the fascinating story of Lee Meng, the Malayan Communist Party female agent who headed its courier network for a brief period in 1952.
+
+<img src="/images/Vol-14-issue-1/hunting-down-the-malayan/Hunta.JPG" style="width:50%;">
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-1/apr-jun-2018/scret-war-expmt-insg/">Secret War Experiments in Singapore</a>
+
+The story of the Imperial Japanese Army farming bubonic plague-bearing fleas as biological weapons is very much fact, not fiction.&nbsp;**Cheong Suk-Wai**&nbsp;delves deeper.
+
+<img src="/images/Vol-14-issue-1/secret-war-experiments-in-sg/Secret1.JPG" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-4/jan-mar-2018/stories-they-tell/">The Stories They Could Tell</a>
+
+Old photographs and documents can reveal new things about our history, as&nbsp;**Yu-Mei Balasingamchow** discovered when she sieved through the National Archives’ war collections.
+
+<img src="/images/Vol-13-issue-4/the-stories-they-could-tell/01_stories.jpg">
+<hr>
+
+
+<hr>

@@ -143,3 +143,63 @@ In the aftermath of the Japanese Occupation, the colonial government set up feed
 
 <img src="/images/Vol-15-issue-1/feeding-the-hungry/hungrychildren_topic.png" style="width:80%;">													
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-2/jul-sep-2018/our-home-sweet-home/">Our Home Sweet Home</a>
+
+Public housing is a Singapore success story, but the early years of high-rise living were sometimes a bittersweet experience.&nbsp;**Janice Loo**&nbsp;pores through the pages of&nbsp;_Our Home_&nbsp;magazine during its 17-year run.
+
+<img src="/images/Vol-14-issue-2/our-home-sweet-home/Home1.JPG" style="width:60%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-1/apr-jun-2018/four-taps-sg-water/">Four Taps: The Story of Singapore Water</a>
+
+From a hole in the ground to running water at the turn of the tap.&nbsp;**Lim Tin Seng**&nbsp;tells us how far Singapore has come in its search for water.
+
+<img src="/images/Vol-14-issue-1/four-taps-of-singapore-water/FourTaps1.JPG" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-4/jan-mar-2018/maysingaporeflourish/">May Singapore Flourish! Revisiting the Municipal Coat of Arms</a>
+
+In April 1948, the municipality of Singapore received a coat of arms by royal warrant.&nbsp;**Mark Wong**&nbsp;reports on the significance of this document.
+
+<img src="/images/Vol-13-issue-4/may-singapore-flourish/01_flourish.jpg" style="width:50%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-3/oct-dec-2017/third-charter-justice/">The Symbolism Behind the Third Charter of Justice</a>
+
+This legal document – issued by the colonial government in 1855 – is an integral part of Singapore’s constitutional history.&nbsp;**Kevin Khoo**&nbsp;explains the significance of its elaborate borders.
+
+<img src="/images/Vol-13-issue-3/the-third-charter-of-justice/01a_justice.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-3/oct-dec-2017/roadtonationalisation/">The Road to Nationalisation: Public Buses in Singapore</a>
+
+From as many as 11 bus companies to just one bus operator by 1973.&nbsp;**Lee Meiyu**&nbsp;chronicles the early turbulent days of Singapore’s bus industry.
+
+<img src="/images/Vol-13-issue-3/public-buses-in-singapore/01_publicbus.png" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-2/jul-sep-2017/50years-of-ns/">50 Years of National Service</a>
+
+National Service is a rite of passage for Singaporean men when they come of age.&nbsp;**Sharen Chua**&nbsp;shares highlights of books on National Service in the Legal Deposit Collection.
+
+<img src="/images/Vol-13-issue-2/50-years-of-ns/01a_ns.png" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-1/apr-jun-2017/voices-that-remain/">Voices That Remain: Oral History Accounts of the Japanese Occupation</a>
+
+Oral history accounts of the Japanese Occupation take on added poignancy, says&nbsp;**Mark Wong**, as we mark the 75th anniversary of the Fall of Singapore.
+
+<img src="/images/Vol-13-issue-1/voices-that-remain/01a_voicesremain.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-1/apr-jun-2017/land-from-sand/">Land From Sand: Singapore’s Reclamation Story</a>
+
+Thanks to land reclamation, the tiny red dot has broadened its shores substantially.&nbsp;**Lim Tin Seng**&nbsp;discovers just how much Singapore has grown since colonial times.
+
+<img src="/images/Vol-13-issue-1/land-from-sand/01_landfromsand.jpg" style="width:80%;">
+<hr>
+
+
+
+

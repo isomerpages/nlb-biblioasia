@@ -189,3 +189,61 @@ Keppel and Sembawang shipyards are major players in Singapore’s maritime and s
 
 <img src="/images/Vol-15-issue-1/building-history/01a_buildinghistory.jpg" style="width:80%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-1/apr-jun-2018/st-johns-island-gtwy/">St John’s Island: From Gateway to Getaway</a>
+
+St John’s Island was once home to new migrants, opium addicts and political detainees.&nbsp;**Marcus Ng**&nbsp;charts the island’s transformation from a place of exile to an oasis of idyll.
+
+<img src="/images/Vol-14-issue-1/st-johns-island/StJohn1.JPG" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-4/jan-mar-2018/memory-laps/">Memory Laps: Pool-time Recollections</a>
+
+Between the mid-1930s and 1960, only four swimming pool complexes in Singapore were open for public use.&nbsp;**Jocelyn Lau**&nbsp;speaks to people who remember these pools.
+
+<img src="/images/Vol-13-issue-4/memory-laps/01_memorylaps.png">
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-4/jan-mar-2018/living-up-at-capitol/">Living it Up at the Capitol</a>
+
+Capitol Theatre was the premier venue for film and stage when it opened in 1930.&nbsp;**Bonny Tan**&nbsp;uses oral history recordings to piece together pre-war narratives of the theatre.
+
+<img src="/images/Vol-13-issue-4/living-it-up-at-the-capitol/01_livingcapitol.jpg">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-3/oct-dec-2017/ramblingarndbrasbasah/">Rambling Around Bras Basah</a>
+
+It’s just a street to many, but for&nbsp;**Yu-Mei Balasingamchow**, the Bras Basah area is emblematic of how redevelopment can sometimes radically change the identity of an area.
+
+<img src="/images/Vol-13-issue-3/rambling-around-bras-basah/01_brasbasah.jpg">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-3/oct-dec-2017/micro-india/">Micro India: The Chettiars of Market Street</a>
+
+Market Street, in the heart of the business district, was where Indian moneylenders ran a thriving trade during the colonial era.&nbsp;**Marcus Ng**&nbsp;traces the imprint left by the Chettiars.
+
+<img src="/images/Vol-13-issue-3/micro-india/01a_microindia.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-1/apr-jun-2017/gedung-kuning/">Gedung Kuning: Memories of a Malay Childhood</a>
+
+Gedung Kuning, or the “Yellow Mansion”, was once the home of Tengku Mahmud, a Malay prince.&nbsp;**Hidayah Amin**&nbsp;shares anecdotes from her childhood years growing up in the house.
+
+<img src="/images/Vol-13-issue-1/gedung-kuning/01_gedungkuning.png" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-1/apr-jun-2017/land-from-sand/">Land From Sand: Singapore’s Reclamation Story</a>
+
+Thanks to land reclamation, the tiny red dot has broadened its shores substantially.&nbsp;**Lim Tin Seng**&nbsp;discovers just how much Singapore has grown since colonial times.
+
+<img src="/images/Vol-13-issue-1/land-from-sand/01_landfromsand.jpg" style="width:80%;">
+<hr>
+
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/britannia-nco-club/">From Britannia to the NCO Club</a>
+
+The much-loved NCO Club on Beach Road was a favourite downtown R &amp; R spot for off-duty soldiers.&nbsp;**Francis Dorai**&nbsp;charts its history.
+
+<img src="/images/Vol-12-issue-4/from-britannia-to-nco-club/1-britannia-nco.jpg" style="width:80%;">
+<hr>
+
+<hr>

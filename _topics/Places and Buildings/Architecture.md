@@ -80,3 +80,43 @@ The foundation stone for the Causeway was laid 100 years ago. We look back at th
 
 <img src="/images/Vol-14-issue-4/bridging-history-pswy-ars-wtr/Bridging1.JPG" style="width:80%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-3/oct-dec-2018/the-house-of-ripples/">The House of Ripples</a>
+
+**Martina Yeo**&nbsp;and&nbsp;**Yeo Kang**&nbsp;Shua piece together historical details of the little-known River House in Clarke Quay and discover that it was once a den for illicit triad activity.
+
+<img src="/images/Vol-14-issue-3/the-house-of-ripples/Ripples1.JPG" style="width:80%;">
+<hr>
+
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-3/oct-dec-2018/honour-of-war-heroes/">In Honour of War Heroes: The Legacy of Colin St Clair Oakes</a>
+
+Who was the architect behind Singapore’s Kranji War Cemetery and other similar memorials in South and Southeast Asia?&nbsp;**Athanasios Tsakonas**&nbsp;has the story.
+
+<img src="/images/Vol-14-issue-3/in-honour-of-war-heroes/Honour1.JPG" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-1/apr-jun-2018/chinese-rensc-archit/">Chinese Renaissance Architecture</a>
+
+This unique style of architecture only reigned for five decades in China, yet several buildings in Singapore still bear the hallmarks of this hybrid form, says&nbsp;**Julian Davison**.
+
+<img src="/images/Vol-14-issue-1/chinese-renaissance-architect/Renaissance1.JPG" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-2/jul-sep-2017/swan-and-maclaren/">Swan &amp; Maclaren: Pioneers of Modernist Architecture</a>
+
+Singapore’s oldest architectural firm may be better known for designing the Raffles Hotel but it’s their 1930s Modernist buildings that are truly revolutionary.&nbsp;**Julian Davison**&nbsp;has the details.
+
+<img src="/images/Vol-13-issue-2/swan-maclaren/01_swanmaclaren.png" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/windows-into-history/">Windows into History</a>
+
+Drawings discovered in a Belgian archive help fill gaps in the history of stained glass windows in Singapore.&nbsp;**Yeo Kang Shua**&nbsp;and&nbsp;**Swati Chandgadkar**&nbsp;reveal their findings.
+
+<img src="/images/Vol-12-issue-4/windows-into-history/4_windows_into_history_topic.png" style="width:80%;">
+<hr>
+
+
+
+

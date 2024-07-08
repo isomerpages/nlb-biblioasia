@@ -57,4 +57,12 @@ Uncle Choo masterminded Singapore’s famous Malaysia Cup victory in 1977.  Four
 Two remarkable athletes served up a storm to make Malaya a tennis power to contend with during the interwar years.
 
 <img src="/images/Vol%2019%20Issue%201/Tennis/tennis_team_topic.png" style="width:80%;">
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-2/jul-sep-2018/sporting-glory/">Sporting Glory</a>
+
+**Sharen Chua**&nbsp;shares highlights of commemorative sports publications from the National Library’s Legal Deposit Collection.
+
+<img src="/images/Vol-14-issue-2/sporting-glory/Glory1.jpg">
+<hr>
+
 <hr>

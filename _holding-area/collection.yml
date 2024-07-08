@@ -2,6 +2,7 @@ collections:
   holding-area:
     output: true
     order:
+      - "A Scientific Adventure: The Life and Legacy of Dr Lee Kum Tatt.md"
       - Example Title.md
       - Test2.md
       - Test page.md
