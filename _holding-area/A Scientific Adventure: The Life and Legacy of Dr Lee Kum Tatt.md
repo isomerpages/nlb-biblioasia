@@ -34,9 +34,12 @@ Unfortunately, Lee graduated during the Malayan Emergency (1948–1960), the vio
 
 He turned down the job and returned to the University of Malaya to pursue his doctorate as a Shell Research Fellow. There, he worked with Dr Rayson L. Huang on the research project “Synthesis of Synthetic Female Sex Hormones”, which Lee recounted as “an exciting project which few young men could resist.”[^10] He graduated in 1955 as the university’s first PhD in Chemistry.
 
+<img src="/images/Online%20Only%20Articles/Dr%20Lee%20Kum%20Tatt/science_students.jpg" style="width: 80%;">
+<div style="background-color: white;">Science students from the 1948 cohort at Raffles College, 1948.<i>Raffles College Collection, courtesy of National Archives of Singapore.</i></div>
+
   
 
-* * *
+
 
 
   
