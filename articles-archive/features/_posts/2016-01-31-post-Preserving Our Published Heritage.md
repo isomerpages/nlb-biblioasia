@@ -5,6 +5,7 @@ date: 2016-01-31
 layout: post
 description: ""
 image: /images/vol-11-issue-4/published-heritage/i.JPG
+variant: markdown
 ---
 #### The nation’s published heritage is preserved by the National Library for posterity. **Ivy Lee** reveals the aim of the Legal Deposit and shares highlights from the collection.
 
@@ -33,7 +34,7 @@ under the Printers and Publishers Act in 1970 and subsequently under the Nationa
 
 <img src="/images/vol-11-issue-4/published-heritage/h.JPG">
 <div style="background-color: white;">Viewing the displays of the Legal Deposit Collection are (from the left) Chan Heng Kee, Chairman, National Library Board; Alicia Yeo, Assistant 
-Director, Collections & Services, National Library; Dr Yaacob Ibrahim, Minister for Communications and Information; and Elaine Ng, Chief Executive Officer, National Library Board. <i>All rights reserved, National Library Board, Singapore</i></div>
+Director, Collections &amp; Services, National Library; Dr Yaacob Ibrahim, Minister for Communications and Information; and Elaine Ng, Chief Executive Officer, National Library Board. <i>All rights reserved, National Library Board, Singapore</i></div>
 
 #### **Legal Deposit Today**
 
@@ -70,12 +71,13 @@ Selected highlights of the Legal Deposit Collection are currently on display at 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 	<b>DEPOSIT WEB</b><br><br>
 Information on Legal Deposit and instructions on how to deposit print and digital content with the National Library can be found on 
-Deposit Web at [www.nlb.gov.sg/deposit](www.nlb.gov.sg/deposit). This portal also contains 
+Deposit Web at <a href="https://www.nlb.gov.sg/main/services/For-Publishers/Legal-Deposit">https://www.nlb.gov.sg/main/services/For-Publishers/Legal-Deposit)</a>. This portal also contains 
 information on International Standard Numbers.<br><br>
+
 <b>PUBLICATIONSG</b><br><br>
 Launched in October 2015, PublicationSG is a dedicated online catalogue of all physical materials found in the Legal Deposit Collection, a rich archive of nearly 1.1 million items that is now 
 available for public access. Serials and magazines comprise 70 percent of the collection, with 25 percent being books and the rest made up of audiovisual materials and maps as well as ephemera.<br>
-Members of the public can place reservations to view legal deposit items at $1.55 each at the information counters of the Lee Kong Chian Reference Library on levels 7–13 of the National Library Building, or via an online form on the National Library Board website at [catalogue.nlb.gov.sg/publicationsg](catalogue.nlb.gov.sg/publicationsg). The items can only be reviewed at designated work stations at the reference library.
+Members of the public can place reservations to view legal deposit items at $1.55 each at the information counters of the Lee Kong Chian Reference Library on levels 7–13 of the National Library Building, or via an online form on the National Library Board website at <a href="https://eresources.nlb.gov.sg/publicationsg">https://eresources.nlb.gov.sg/publicationsg)</a>. The items can only be reviewed at designated work stations at the reference library.
 </span>
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 	<b>HIGHLIGHTS OF THE LEGAL DEPOSIT COLLECTION</b><br><br>
