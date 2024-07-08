@@ -204,4 +204,6 @@ Marshall’s political legacy also included weekly meet-the-people sessions – 
 
 [^40]:Thum, P. (2011, July). Living Buddha: Chinese perspectives on David Marshall and his government, 1955–1956. *[Indonesia and the Malay World](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=8347428), 39* (114), 256. (Call no.: RSEA 959.8 IMW)
 
-[^41]:[Grumble grumble – All day](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19550419-1.2.6.aspx). (1955, April 19). *The Straits Times*, p. 1. Retrieved from NewspaperSG; [Thum](eservice.nlb.gov.sg/itemholdings.aspx?bid=8347428), Jul 2011, p. 264.
+[^41]:[Grumble grumble – All day](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19550419-1.2.6.aspx). (1955, April 19). *The Straits Times*, p. 1. Retrieved from NewspaperSG; [Thum](https://catalogue.nlb.gov.sg/search/card?recordId=8347428), Jul 2011, p. 264.
+
+
