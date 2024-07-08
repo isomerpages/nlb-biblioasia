@@ -44,6 +44,26 @@ He turned down the job and returned to the University of Malaya to pursue his do
 <img src="/images/Online%20Only%20Articles/Dr%20Lee%20Kum%20Tatt/lee_kum_tatt_rayson_huang.png" style="width: 80%;">
 <div style="background-color: white;">Lee Kum Tatt and Dr Rayson L. Huang working on their research project in the new laboratory at the University of Malaya, 1953.<i> Source: The Straits Times, 14 October 1953 © SPH Media Limited. Permission required for reproduction.</i></div>
 
+#### **Navigating Malayanisation**
+
+Lee turned down an offer from Shell to work in Brunei and went on to work in the government’s Department of Chemistry. There, he came face-to-face with a different type of politics: Malayanisation. Malayanisation was the policy of systematic replacement of expatriate staff in government by locals in the postwar years. It was a time of tension and mutual suspicion between the remaining expatriate staff and locals, which Lee experienced firsthand.
+
+An early issue was differential treatment – Lee had been hired after completing his PhD. He was therefore appalled when an Australian woman with only a bachelor’s degree without honours was hired without going through the rigorous hiring process he had. She even commanded a higher salary than him. Lee confronted the expatriate department director and was told that his “PhD \[was\] not worth as much as the B.Sc. in Australia.” Lee raised the issue with the then Secretary of the Senior Officers’ Association and later Minister for Labour K.M. Byrne. The Australian woman left after a few days, ending the saga.[^11]
+
+Another instance was when Lee decided to try to simplify the long and tedious procedure used to analyse traces of lead and copper in wine. The chief chemist, another expatriate officer, was extremely dismissive of him, arguing that British chemists would have long discovered such a method were it viable. Lee nonetheless persisted and the success of his new method spoke for itself, winning a newfound respect from the chief chemist.[^12]
+
+Lee quickly gained more administrative responsibilities, becoming a key builder of the nation’s scientific institutions. In 1959, after the PAP’s rise to power, Lee was appointed to the board of Singapore Polytechnic by Deputy Prime Minister Toh Chin Chye. Lee recalled his expatriate boss, the Director of Chemistry, being enraged at not having been consulted on Lee’s appointment. But Toh curtly responded that since Singapore had attained self-government, he no longer had to obtain anyone’s permission for appointments. The old colonial entitlements held increasingly little weight in the newly decolonising nation.[^13]
+
+  
+
+* * *
+
+[\[1\]](#_ftnref1) [Lee](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/88183543-115f-11e3-83d5-0050568939ad), oral history interview, 16-18.
+
+[\[2\]](#_ftnref2) Lee, _[A Fabulous Journey](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14651733)_, 118-119.
+
+[\[3\]](#_ftnref3) [Lee](https://www.nas.gov.sg/archivesonline/flipviewer/publish/8/88183543-115f-11e3-83d5-0050568939ad-OHC000821_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=9), oral history interview, 21-22.
+
 
 
   
