@@ -128,11 +128,11 @@ Marshall’s political legacy also included weekly meet-the-people sessions – 
 
 [^2]:Yeo, K.W. (1972, January). A study of two early elections in Singapore. *Journal of the Malaysian Branch of the Royal Asiatic Society, 45* (1) (221), 57-80, p. 61. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-[^3]:National Library Board. (2009). *[Rendel Commission](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1563_2009-09-30.html)* written by Ng, Tze Lin Tania. Retrieved from Singapore Infopedia website.
+[^3]:National Library Board. (2009). *[Rendel Commission](https://www.nlb.gov.sg/main/article-detail?cmsuuid=5781af87-b7b5-4c91-a1a7-bfe92c3e0c15)* written by Ng, Tze Lin Tania. Retrieved from Singapore Infopedia website.
 
 [^4]:Yeo, Jan 1972, p. 64.
 
-[^5]:National Library Board. (2010). *[Sir John Fearns Nicoll](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1543_2010-02-26.html)* written by Chua, Alvin. Retrieved from Singapore Infopedia website.
+[^5]:National Library Board. (2010). *[Sir John Fearns Nicoll](https://www.nlb.gov.sg/main/article-detail?cmsuuid=d787b132-b0f1-409c-8f66-9a7ae06591d4)* written by Chua, Alvin. Retrieved from Singapore Infopedia website.
 
 [^6]:Tan, K.Y.L. (2008). *[Marshall of Singapore: A biography](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13150329)* (p. 250). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 959.5705092 TAN)
 
@@ -150,19 +150,19 @@ Marshall’s political legacy also included weekly meet-the-people sessions – 
 
 [^13]:[Marshall likes sarongs too](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19550423-1.2.53.aspx). (1955, April 23). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
-[^14]:[A little snack: Whole sheep](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19550722-1.2.132.aspx). (1955, July 22). T*he Straits Times*, p. 7; [Gora and the sheep – another attempt](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19551006-1.2.168.aspx). (1955, October 6). *The Straits Times*, p. 11; ‘[How can I eat when you kick me around like a football?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19550726-1.2.4.aspx)’ (1955, July 26). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
+[^14]:[A little snack: Whole sheep](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19550722-1.2.132.aspx). (1955, July 22). *The Straits Times*, p. 7; [Gora and the sheep – another attempt](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19551006-1.2.168.aspx). (1955, October 6). *The Straits Times*, p. 11; ‘[How can I eat when you kick me around like a football?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19550726-1.2.4.aspx)’ (1955, July 26). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
 [^15]:[Tan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13150329), 2008, pp. 281–287.
 
 [^16]:[Tan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13150329), 2008, p. 287.
 
-[^17]:Abisheganaden, F. (1956, March 10). [7-day Merdeka Drive](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19560310-1.2.2.aspx). *The Straits Times*, p. 1. Retrieved from NewspaperSG; *[Mr. David Marshall nailing a poster on a tree at Empress Place, before 1957](http://eresources.nlb.gov.sg/printheritage/image.aspx?id=bd43eea8-e5e6-415b-86e2-b95ef8d03156)* [Image of Photograph], [Online]. In D. Marshall. (1971), *[Singapore’s struggle for nationhood, 1945–59](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082561)* (p. 45). Singapore: University Education Press. (Call no.: RCLOS 959.57024 MAR)
+[^17]:Abisheganaden, F. (1956, March 10). [7-day Merdeka Drive](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19560310-1.2.2.aspx). *The Straits Times*, p. 1. Retrieved from NewspaperSG; *[Mr. David Marshall nailing a poster on a tree at Empress Place, before 1957](https://www.nlb.gov.sg/main/image-detail?cmsuuid=bd43eea8-e5e6-415b-86e2-b95ef8d03156)* [Image of Photograph], [Online]. In D. Marshall. (1971), *[Singapore’s struggle for nationhood, 1945–59](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082561)* (p. 45). Singapore: University Education Press. (Call no.: RCLOS 959.57024 MAR)
 
 [^18]:[Doubts will not be removed by nailing slogans on trees](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19560314-1.2.99.aspx). (1956, March 14). *The Straits Times*, p. 6; [Mr. M’s posters stolen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19560314-1.2.20.aspx). (1956, March 14). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
 [^19]:[Lim told: Take the helm](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19560608-1.2.2.aspx). (1956, June 8). *The Straits Times*, p. 1; [The talks fail](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19560516-1.2.2.aspx). (1956, May 16). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
-[^20]:National Library Board. (2016). *[Lim Yew Hock](http://eresources.nlb.gov.sg/infopedia/articles/SIP_822_2004-12-28.html)* written by Mukunthan, Michael. Retrieved from Singapore Infopedia website.
+[^20]:National Library Board. (2016). *[Lim Yew Hock](https://www.nlb.gov.sg/main/article-detail?cmsuuid=bc3a8329-ec60-4be0-a842-49006651f92f)* written by Mukunthan, Michael. Retrieved from Singapore Infopedia website.
 
 [^21]:Abisheganaden, F. (1957, May 1). [Marshall: Final act](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570501-1.2.6.aspx). *The Straits Times*, p. 1; [Majid has to run from rain](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570528-1.2.100.aspx). (1957, May 28). *The Straits Times*, p. 7; [Police bar Majid from that tree](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19570529-1.2.109.aspx). (1957, May 29). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
 
