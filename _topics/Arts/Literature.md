@@ -108,7 +108,25 @@ Literary works in the ancient Malay-speaking world were not enjoyed silently but
 <img src="/images/Vol-13-issue-2/tamil-murasu/01_tamil.jpg" style="width:90%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-2/jul-sep-2017/alam-puisi-singapura/">Alam Puisi Melayu Singapura Selepas Merdeka</a>
 
+Singapore’s Malay publishing scene was thrown into disarray when the country exited Malaysia in 1965.&nbsp;**Juffri Bin Supa’at**&nbsp;charts the development of Malay poetry in Singapore since Independence.
 
-
+<img src="/images/Vol-13-issue-2/alam-puisi-melayu-singapura/01_puisi.png" style="width:50%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-2/jul-sep-2017/sci-fi-in-singapore/">Sci-Fi in Singapore: 1970s to 1990s</a>
+
+The sci-fi frenzy took off in Singapore in 1978 when&nbsp;_Star Wars_&nbsp;was screened at cinemas here.&nbsp;**Nadia Arianna Bte Ramli**&nbsp;looks at sci-fi works produced between 1970s and 1990s.
+
+<img src="/images/Vol-13-issue-2/sci-fi-in-singapore/01_scifi.png" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-2/jul-sep-2017/">A History of Singapore Horror</a>
+
+Singaporeans have always had a morbid fascination with the supernatural.&nbsp;**Ng Yi-Sheng**&nbsp;examines the culture of horror in our oral folklore, books and films.
+
+<img src="/images/Vol-13-issue-2/history-of-singapore-horror/01_sghorror.png" style="width:80%;">
+<hr>
+
+
