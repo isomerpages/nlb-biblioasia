@@ -130,7 +130,7 @@ History may be written by the victors, but what they conveniently leave out can 
 <img src="/images/Vol-15-issue-2/dont-mention-the-corpses/Corpses1.JPG" style="width:80%;">
 <hr>
 
- #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-1/apr-jun-2019/unresolved-past/">The Unresolved Past: Reflections on War and Memory</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-1/apr-jun-2019/unresolved-past/">The Unresolved Past: Reflections on War and Memory</a>
 
 Why recall traumatic memories of war when it is painful for both perpetrators and victims? <b>Kwok Kian Woon</b> considers the stakes in remembering and understanding war experiences in times of relative peace.
 
