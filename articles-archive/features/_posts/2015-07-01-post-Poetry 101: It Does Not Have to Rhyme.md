@@ -75,7 +75,7 @@ Other than showcasing poetry by established poets, Read! Fest Poetry also hopes 
 
 A “Poetry on Platforms” talk will be held on 25 July 2015 from 4 to 5 pm at the Visitors' Briefing Room, Level 1 of the National Library Building. Poet Eric Francis Tinsay Valles and educator and literary critic Ian Chung will share their thoughts about the exhibition and its featured poems. The first 20 participants at the talk will also receive a commemorative EZ-link card. To register, please visit <a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849">https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849)
 
-<i>For more information on Read! Singapore, Read! Fest and “Poetry on Platforms”, please visit </i></a><i><a href="https://readingnation.nlb.gov.sg/">https://readingnation.nlb.gov.sg/)[</a></i><a href="https://readingnation.nlb.gov.sg/">|
+<i>For more information on Read! Singapore, Read! Fest and “Poetry on Platforms”, please visit </i></a><i><a href="https://readingnation.nlb.gov.sg/">https://readingnation.nlb.gov.sg/)[</a></i><a href="https://readingnation.nlb.gov.sg/">
 
 <img src="/images/vol-11-issue-2/poetry/last_re.jpg">
 
