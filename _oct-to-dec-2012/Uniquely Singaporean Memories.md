@@ -4,6 +4,7 @@ permalink: /vol-8/issue-3/oct-dec-2012/singaporean-memories/
 description: What do you remember about Singapore? When we go back to our past,
   we discover many shared memories of a time when wanton mee cost five cents,
   cinemas were open-air, and bathing suits covered a lot more.
+variant: markdown
 ---
 #### What do you remember about Singapore? When we go back to our past, we discover many shared memories of a time when&nbsp;_wanton mee_&nbsp;cost five cents, cinemas were open-air and bathing suits covered a lot more.
 
@@ -27,11 +28,11 @@ The Singapore Memory Project is more than just events, programmes and an ambitio
 
 <div style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6"> <b>How to contribute to the Singapore Memory Project</b> 
 <br><br>
-Do you have a cache of memories just waiting to be shared? Wonder what fellow Singaporeans remember? Then be a part of our conversations over at <a href="www.singaporememory.sg">www.singaporememory.sg</a>!
+Do you have a cache of memories just waiting to be shared? Wonder what fellow Singaporeans remember? Then be a part of our conversations over at <a href="https://www.singaporememories.gov.sg/">https://www.singaporememories.gov.sg/</a>
 
-To get in on all the action, check out the Singapore Memory portal at <a href="www.singaporememory.sg">www.singaporememory.sg</a>, our blog at <a href="http://www.iremember.sg/">http://www.iremember.sg/</a>, or download the SMP app to contribute your own memories in the form of images (up to 3MB), videos (20MB) or 20 seconds of footage.<br><br>
-<a href="www.facebook.com/iremembersg">www.facebook.com/iremembersg</a>	
-Twitter &amp; Instagram: @iremembersg
+To get in on all the action, check out the Singapore Memory portal at <a href="https://www.singaporememories.gov.sg/">https://www.singaporememories.gov.sg/</a>, our blog at <a href="https://remembersingapore.org/">https://remembersingapore.org/</a>, or download the SMP app to contribute your own memories in the form of images (up to 3MB), videos (20MB) or 20 seconds of footage.<br><br>
+<a href="https://www.facebook.com/irememberSG/">https://www.facebook.com/irememberSG/</a>	
+Twitter &amp; Instagram: <a href="https://www.instagram.com/iremembersg/@iremembersg/">https://www.instagram.com/iremembersg/@iremembersg/</a>	
 </div>
 
 <div>

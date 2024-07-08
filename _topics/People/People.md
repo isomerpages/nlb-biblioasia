@@ -5,7 +5,7 @@ description: ""
 third_nav_title: People
 variant: markdown
 ---
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/phan-kim-sam-thye-seng/">The Seach for a “Lost” Towkay of Malaya</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/phan-kim-sam-thye-seng/">The Search for a “Lost” Towkay of Malaya</a>
 
 The writer’s attempt to trace the contours of his grandfather’s life was complicated by the fact that, unknown to him, his grandfather had more than one name.
 

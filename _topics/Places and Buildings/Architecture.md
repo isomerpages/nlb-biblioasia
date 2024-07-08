@@ -66,8 +66,7 @@ The resplendent Istana – where colonial governors and modern-day presidents on
 <img src="/images/Vol-15-issue-4/the-istana-turns-150/istana1_topic.png" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/preservation-buildings/">To Wreck or to Recreate: Giving New Life to Singapore’s Built Heritage
-</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/preservation-buildings/">To Wreck or to Recreate: Giving New Life to Singapore’s Built Heritage</a>
 
 Nearly 70 years have passed since a committee was set up to look into the preservation of buildings and sites with historical value.&nbsp;**Lim Tin Seng**&nbsp;charts the journey.
 
@@ -116,7 +115,3 @@ Drawings discovered in a Belgian archive help fill gaps in the history of staine
 
 <img src="/images/Vol-12-issue-4/windows-into-history/4_windows_into_history_topic.png" style="width:80%;">
 <hr>
-
-
-
-

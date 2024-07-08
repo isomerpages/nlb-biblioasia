@@ -167,7 +167,7 @@ The Singapore Christian Union was formed in 1827 to promote literacy and spread 
 	Cover of <i>The First Report of the Singapore Christian Union. Collection of the National Library, Singapore (Call no. RRARE 266.759 SCURSC; Accession no. B20016993H).</i></div><br>
 
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
-<a href="https://eservice.nlb.gov.sg/item\_holding\_s.aspx?bid=4378980x"><b>Kitab Al-Kudus, Ia-itu, Injil Isa Al-Masihi Atau Segala Surat Testament Bahru = The New Testament of Our Lord and Saviour Jesus Christ in Malay</b></a><br>Singapore: Printed at the Mission Press for the British and Foreign Bible Society, 1831.<br>
+<a href="https://catalogue.nlb.gov.sg/search/card?recordId=4378980"><b>Kitab Al-Kudus, Ia-itu, Injil Isa Al-Masihi Atau Segala Surat Testament Bahru = The New Testament of Our Lord and Saviour Jesus Christ in Malay</b></a><br>Singapore: Printed at the Mission Press for the British and Foreign Bible Society, 1831.<br>
 Call no. RRARE 225.59928 BIB; Accession no. B19016274H.<br><br>
 This revised translation of the New Testament in Malay was prepared by Claudius Henry Thomsen and Robert Burn, the Chaplain of the Anglican Church in Singapore. Thomsen began learning and translating the Bible into Malay with the help of Munshi Abdullah while they were in Melaka.<br></div><br>
 	
@@ -267,7 +267,7 @@ Call no. RRARE 959.503 ABD; Accession no. B03014389F.<br><br>
 	The double frontispiece and inside pages from <i>Hikayat Abdullah. Collection of the National Library, Singapore (Call no. RRARE 959.503 ABD; Accession no. B03014389F).</i></div><br>	
 	
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
-<a href="https://eservice.nlb.gov.sg/item_holding.aspx?id=7230342"><b>Kitab Al-kudus, Iya Itu Injil Isa Al-masih Tuhan Kami <i>The New Testament of Our Lord and Saviour Jesus Christ in Malay</i></b></a><br>Singapore: Printed at the Mission Press for the British and Foreign Bible Society, 1853.<br>Call no. RRARE 225 BIB; Accession no.: B20119134J.<br><br>
+<a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=3ea7718b-cc66-459e-868a-fd7ab796fca1"><b>Kitab Al-kudus, Iya Itu Injil Isa Al-masih Tuhan Kami <i>The New Testament of Our Lord and Saviour Jesus Christ in Malay</i></b></a><br>Singapore: Printed at the Mission Press for the British and Foreign Bible Society, 1853.<br>Call no. RRARE 225 BIB; Accession no.: B20119134J.<br><br>
 This translation of the Malay New Testament in Romanised Malay was edited and published by Benjamin Keasberry for the British and Foreign Bible Society in 1853. A revised edition was published in 1866.</div><br>
 
 <img style="width:45%;" src="/images/Vol%2019%20Issue%203/10%20Printing/Additional%20Pubs_Text%20Box/Additional%20Improved%20Images/kitab%20al-kudus_improved.jpg">
@@ -295,7 +295,7 @@ Translated as Eye Glass for All Who Seek Knowledge, this is one of the earliest 
 <b>REFERENCES</b><br><br>
 Abdullah Abdul Kadir, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?id=4079095"><i>Hikayat Abdullah</i></a> (Singapore: Mission Press, 1849). (From National Library, Singapore, call no. RRARE 959.503 ABD)<br><br>
 Ang, Seow Leng, "<a href="https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/indian-archipelago-eastern-asia-logan-journal/">Logan's Journal</a>," <i>BiblioAsia</i> 11, no.4 (January-March 2016): 28–29.<br><br>
-Ang, Seow Leng, "<a href="“https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/hikayat-abdullah-abdul-kadir-munsyi/">Stories of Abdullah</a>,” <i>BiblioAsia</i> 11, no. 4 (January–March 2016): 66–67.<br><br>
+Ang, Seow Leng, "<a href="https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/hikayat-abdullah-abdul-kadir-munsyi/">Stories of Abdullah</a>,” <i>BiblioAsia</i> 11, no. 4 (January–March 2016): 66–67.<br><br>
 	“Extracts from Letters of Mr Tracy, Dated at Singapore,” <i>The Missionary Herald</i> 32, 181 (May 1836), HathiTrust, https://hdl.handle.net/2027/uc1.b3079719.<br><br>
 Hadijah Rahmat, <a href="https://eservice.nlb.gov.sg/item_holding.aspx?id=204093136"><i>Abdullah Bin Abdul Kadir Munshi: His Voyages and Legacies, and Colonial History</i></a>, vol. 2 (Singapore: World Scientific, 2020), 90–91. (From National Library, Singapore, call no. RSING 959.5 HAD )<br><br>
 J. Noorduyn, “C.H. Thomsen, the Editor of ‘A Code of Bugis Maritime Laws’,” <i>Bijdragen tot de Taal-, Land- en Volkenkunde</i> 113, no. 3 (1957): 248, Brill website: https://doi.org/10.1163/22134379-90002285.<br><br>

@@ -5,8 +5,8 @@ permalink: /vol-11/issue-2/jul-sep-2015/read-fest-poetry/
 image: /images/vol-11-issue-2/poetry/background.jpg
 layout: post
 description: ""
+variant: markdown
 ---
-
 #### One of this year’s Read! Fest initiatives is a celebration of Singapore poetry. **Sharon Lim** tells you what to expect. 
 
 <img src="/images/vol-11-issue-2/poetry/background.jpg">
@@ -73,16 +73,16 @@ PoetryWalls will be held at the lobby of the National Library Building from 29 A
 
 Other than showcasing poetry by established poets, Read! Fest Poetry also hopes to encourage the public to try their hand at creating their own poems. To be held in August 2015, “In Transit: Poetry x Illustration” provides an opportunity for budding poets and illustrators to be mentored by writer Felix Cheong and illustrator Eeshaun to create visually engaging poetry. The public will also have a chance to be “Poetry on Platforms” star poets when they submit their original poems to POP@nlb.gov.sg. The first 150 submissions will each receive a commemorative EZ-link card.
 
-A “Poetry on Platforms” talk will be held on 25 July 2015 from 4 to 5 pm at the Visitors' Briefing Room, Level 1 of the National Library Building. Poet Eric Francis Tinsay Valles and educator and literary critic Ian Chung will share their thoughts about the exhibition and its featured poems. The first 20 participants at the talk will also receive a commemorative EZ-link card. To register, please visit 
-[www.nlb.gov.sg/golibrary](www.nlb.gov.sg/golibrary)
+A “Poetry on Platforms” talk will be held on 25 July 2015 from 4 to 5 pm at the Visitors' Briefing Room, Level 1 of the National Library Building. Poet Eric Francis Tinsay Valles and educator and literary critic Ian Chung will share their thoughts about the exhibition and its featured poems. The first 20 participants at the talk will also receive a commemorative EZ-link card. To register, please visit <a href="https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849">https://www.eventbrite.sg/o/golibrary-national-library-board-singapore-26735252849)</a>
 
-|<i>For more information on Read! Singapore, Read! Fest and “Poetry on Platforms”, please visit [www.nlb.gov.sg/readsingapore](www.nlb.gov.sg/readsingapore)</i>|
+<i> For more information on Read! Singapore, Read! Fest and “Poetry on Platforms”, please visit</i> <a href="https://readingnation.nlb.gov.sg/">https://readingnation.nlb.gov.sg/)</a>
 
 <img src="/images/vol-11-issue-2/poetry/last_re.jpg">
 
 <p style="font-size:15px;"><b>Sharon Lim</b> is a Project Manager with the Exhibitions and Curation department at the National Library of Singapore.</p>
 
-<a href="https://biblioasia.nlb.gov.sg/vol-11/issue-2/jul-sep-2015/"><center>Back to Issue</center></a>
+<a href="/vol-11/issue-4/jan-mar-2016"><center>[Back to Issue]</center></a>
+
 
 #### **NOTES**
 

@@ -1,9 +1,11 @@
 ---
-title: Director's Note Apr–Jun 2014
+title: Director's Note
 date: 2014-04-01
 permalink: /vol-10/issue-1/apr-jun-2014/director-note/
 layout: post
 description: ""
+variant: markdown
+image: ""
 ---
 While on a dreadfully long flight from Singapore to Washington D.C. recently, I decided I would finish a book instead of surfing through the channels on the in-flight entertainment system. On a whim, I had brought along a copy of <i>Between Stations</i>, an autobiographical journey of cities in India, China and Singapore by the poet [Boey Kim Cheng](/vol-10/issue-1/apr-jun-2014/boey-kim-cheng-opinion).
 
@@ -15,7 +17,7 @@ We are delighted that the much-lauded English novelist Neil Gaiman gave the Nati
 
 Closer to home, [Dr Azhar Ibrahim]() turns the spotlight on literary pioneer Suratman Markasan and shows us how his works not only serve to critique and question current issues but also act as the social memory of the community in “Suratman Markasan: Malay Literature and Social Memory”.
 
-In “First Words: Women Poets from Singapore”, senior librarian [Gracie Lee](/vol-10/issue-1/apr-jun-2014/first-women-poets) traces the female poets who made an impact on Singapore’s literary scene from the 1950s to 70s and paved the way for newer generations of writers to come. The 1980s was a boon for Chinese children’s literature and in “1980年代儿童小说中的“新加坡儿童” [Jessie Yak](/vol-10/issue-1/apr-jun-2014/sg-children) looks at how Singapore children were portrayed in these works. In “சிங்கப்பூர் பெண் எழுத்தாளர்கள்  - ஒரு பார்வை” [Sundari Balasubramaniam](/vol-10/issue-1/apr-jun-2014/tamil-article) highlights Singapore female Tamil writers who made and are still making waves in the local Tamil literary scene. Finally, [Lynn Chua](/vol-10/issue-1/apr-jun-2014/folk-tales) highlights the gems of the Asian Children’s Literature collection in “Folk Tales from Asia”, unique handmade books that hail from countries as diverse as Japan, India and China.
+In “First Words: Women Poets from Singapore”, senior librarian [Gracie Lee](/vol-10/issue-1/apr-jun-2014/first-women-poets) traces the female poets who made an impact on Singapore’s literary scene from the 1950s to 70s and paved the way for newer generations of writers to come. The 1980s was a boon for Chinese children’s literature and in “1980年代儿童小说中的“新加坡儿童” [Jessie Yak](/vol-10/issue-1/apr-jun-2014/sg-children) looks at how Singapore children were portrayed in these works. In “சிங்கப்பூர் பெண் எழுத்தாளர்கள்  - ஒரு பார்வை” [Sundari Balasubramaniam](/vol-10/issue-1/apr-jun-2014/singapore-tamil-literature) highlights Singapore female Tamil writers who made and are still making waves in the local Tamil literary scene. Finally, [Lynn Chua](/vol-10/issue-1/apr-jun-2014/folk-tales) highlights the gems of the Asian Children’s Literature collection in “Folk Tales from Asia”, unique handmade books that hail from countries as diverse as Japan, India and China.
 
 I hope this issue will move you to pick up a work of literature and lose yourself in a world that only exists or exists once more in words and the imagination. Or as Gaiman quotes from Einstein, maybe we should all read a fairy tale.
 
