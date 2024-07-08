@@ -95,7 +95,9 @@ Another brainchild of Lee’s was the Science and Industry Quiz, a televised edu
 <div style="background-color: white;">The Singapore Science Centre opened in 1977.<i> Image reproduced from “Centre Will Be More Than Just a Science Museum,” Business Times, 10 December 1977, 15. (From NewspaperSG)</i></div>
 
 <img src="/images/Online%20Only%20Articles/Dr%20Lee%20Kum%20Tatt/students_sjc.png" style="width: 80%;">
-<div style="background-color: white;">The Singapore Science Centre opened in 1977.<i> Image reproduced from “Centre Will Be More Than Just a Science Museum,” Business Times, 10 December 1977, 15. (From NewspaperSG)</i></div>
+<div style="background-color: white;">Students from St Joseph’s Convent answering questions in the first round of the Science and Industry Quiz, 1973.<i> Source: The Straits Times, 7 April 1973 © SPH Media Limited. Permission required for reproduction.</i></div>
+
+
 
   
 
