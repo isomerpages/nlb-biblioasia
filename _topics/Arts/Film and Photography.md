@@ -101,6 +101,23 @@ Eric Khoo tells us how the Japanese Occupation,&nbsp; _ramen_&nbsp;noodles and&n
 <img src="/images/Vol-14-issue-1/portraits-from-lee-bros-studio/Portraits1.JPG" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-2/jul-sep-2017/reel-life-singapore/">Reel Life Singapore: The Films of Clyde E. Elliott</a>
+
+Clyde Elliott was the first Hollywood director to shoot a feature film in Singapore.&nbsp;**Chua Ai Lin**&nbsp;examines the authenticity of the three movies he produced here in the 1930s.
+
+<img src="/images/Vol-13-issue-2/reel-life-singapore/01_reellife.jpg" style="width:40%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-1/apr-jun-2017/chaplininsingapore/">Chaplin in Singapore</a>
+
+One of history’s greatest comic actors, Charlie Chaplin, stops over in Singapore in 1932 and makes a return visit in 1936.&nbsp;**Raphaël Millet**&nbsp;traces these journeys.
+
+<img src="/images/Vol-13-issue-1/chaplin-in-singapore/01_charliechaplin.jpg" style="width:40%;">
+<hr>
+
+
+
+
 
 
 <hr>
