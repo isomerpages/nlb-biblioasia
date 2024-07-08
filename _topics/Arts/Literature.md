@@ -143,5 +143,14 @@ An American Studies scholar unravels a decades-old mystery surrounding a bone fr
 <img src="/images/Vol-12-issue-4/ties-that-bind/2-staff.jpg" style="width:90%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/writingchinesescript">哎哟 华文字真难写!</a>
+
+Students in pre-1970s Singapore had to learn the correct way of writing the Chinese script.&nbsp;**Ho Phang Phow**&nbsp;describes the painstaking process of mastering this craft.
+
+<img src="/images/Vol-12-issue-4/writing-chinese-script/01-writing_chinese_script.jpg" style="width:80%;">
+<hr>
+
+
+
 
 
