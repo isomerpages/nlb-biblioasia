@@ -80,6 +80,14 @@ Promoting industrial research was one of his responsibilities at SISIR – he re
 <img src="/images/Online%20Only%20Articles/Dr%20Lee%20Kum%20Tatt/dr_lee_kum_tatt.png" style="width: 80%;">
 <div style="background-color: white;">Dr Lee Kum Tatt with the Xu Beihong-inspired prancing horses he created, 1985.<i> Source: The Straits Times, 19 November 1985 © SPH Media Limited. Permission required for reproduction.</i></div>
 
+He also led the charge to ensure that locally manufactured products met appropriate quality standards for international export, allowing Singaporean goods to be competitive abroad.[^22] He served as chairman of the Singapore Standards Council, the body responsible for approving new standards. In addition, as chairman of SISIR, he promoted the adoption of standards through a range of methods from training to formal certification. These methods included running national campaigns – for example, Lee was chairman of the organising committee of SISIR’s prominent “Prosperity Through Quality and Reliability” campaign (1972–73), which aimed to promote quality-consciousness and pride among manufacturers and their employees.[^23]
+
+  
+
+* * *
+
+
+
   
 
 
@@ -143,3 +151,7 @@ Promoting industrial research was one of his responsibilities at SISIR – he re
 [^20]:  [Lee Kum Tatt](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/09654b15-115e-11e3-83d5-0050568939ad), oral history interview by Dr Daniel Chew, 5 August 1993, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/0/096b9a00-115e-11e3-83d5-0050568939ad-OHC000821_006/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=9) and audio, Reel/Disc 6 of 10, National Archives of Singapore ([accession no. 000821](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/096b9a00-115e-11e3-83d5-0050568939ad)), 68.
 
 [^21]:  Sharad Pandian, “Singapore’s National Souvenir: The Gold-plated Past of RISIS,” BiblioAsia, published June 2024, [https://biblioasia.nlb.gov.sg/localicons/2024/6/risis-gold-orchid-tourism-souvenir/](https://biblioasia.nlb.gov.sg/localicons/2024/6/risis-gold-orchid-tourism-souvenir/).
+
+[^22]:  “[A ‘SISIR’ Stamp Means Quality Product](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19690619-1.2.24),” _Straits Times_, 19 June 1969, 4. (From NewspaperSG)
+
+[^23]:  “[PQR Shows What It Really Means To Think Quality In The Work You Do](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730517-1.2.81),” _Straits Times_, 17 May 1973, 12. (From NewspaperSG)
