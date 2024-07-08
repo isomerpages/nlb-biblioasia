@@ -77,9 +77,12 @@ Promoting industrial research was one of his responsibilities at SISIR – he re
 <img src="/images/Online%20Only%20Articles/Dr%20Lee%20Kum%20Tatt/RISIS.png" style="width: 55%;">
 <div style="background-color: white;">RISIS’ products were highly popular in the 1970s and 80s.<i>         Image reproduced from “Page 28 Advertisements Column 2,” Straits Times, 18 December 1976, 28 (From NewspaperSG).</i></div>
 
+<img src="/images/Online%20Only%20Articles/Dr%20Lee%20Kum%20Tatt/dr_lee_kum_tatt.png" style="width: 80%;">
+<div style="background-color: white;">Dr Lee Kum Tatt with the Xu Beihong-inspired prancing horses he created, 1985.<i> Source: The Straits Times, 19 November 1985 © SPH Media Limited. Permission required for reproduction.</i></div>
+
   
 
-* * *
+
 
 
 
