@@ -27,7 +27,7 @@ sections:
       image: /images/edm_strip_survey_homepage.jpg
       alt: Image alt text
   - infopic:
-      title: The Seach for a “Lost” Towkay of Malaya
+      title: The Search for a “Lost” Towkay of Malaya
       subtitle: People
       id: infopic
       description: The writer’s attempt to trace the contours of his grandfather’s
