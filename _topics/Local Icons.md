@@ -200,5 +200,29 @@ Singapore’s oldest architectural firm may be better known for designing the Ra
 <img src="/images/Vol-13-issue-2/swan-maclaren/01_swanmaclaren.png" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/party-time-raffles/">Party Time at the Raffles</a>
+
+The National Library’s collection of menu cards from Raffles Hotel provides an inkling of lavish parties and fine dining from bygone days.&nbsp;**Francis Dorai**&nbsp;and&nbsp;**Jessie Yak**&nbsp;take a peek.
+
+<img src="/images/Vol-12-issue-4/party-time-with-raffles/postcard-view.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/surviving-jpnese-occu/">Surviving the Japanese Occupation: War and its Legacies</a>
+
+A revamped exhibition space opens at the old Ford Factory in Bukit Timah, marking the 75th anniversary of the fall of Singapore.&nbsp;**Fiona Tan**&nbsp;details its major highlights.
+
+<img src="/images/Vol-12-issue-4/surviving-japanese-occupation/2-surviving-japanese-occupation.png" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/britannia-nco-club/">From Britannia to the NCO Club</a>
+
+The much-loved NCO Club on Beach Road was a favourite downtown R &amp; R spot for off-duty soldiers.&nbsp;**Francis Dorai**&nbsp;charts its history.
+
+<img src="/images/Vol-12-issue-4/from-britannia-to-nco-club/1-britannia-nco.jpg" style="width:80%;">
+<hr>
+
+
+
+
 
 
