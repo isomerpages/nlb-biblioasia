@@ -58,7 +58,7 @@ Malay seals of the 19th century hold important information, says **Annabel Teh G
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/the-news-gallery/"> The News Gallery: Beyond Headlines</a>
 
-There is more to news than meets the eye.&nbsp; **Mazelan Anuar** &nbsp;and&nbsp;**Faridah Ibrahim**&nbsp;give us the scoop on the National Library’s latest exhibition.<p></p>
+There is more to news than meets the eye.&nbsp; **Mazelan Anuar** &nbsp;and&nbsp;**Faridah Ibrahim**&nbsp;give us the scoop on the National Library’s latest exhibition.
 
 <img src="/images/Vol-16-issue-1/News/behind_every_story.jpg" style="width:80%;">
 
