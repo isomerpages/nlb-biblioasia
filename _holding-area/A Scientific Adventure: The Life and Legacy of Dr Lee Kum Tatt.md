@@ -62,4 +62,3 @@ He turned down the job and returned to the University of Malaya to pursue his do
 [^9]:  [Lee](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/88183543-115f-11e3-83d5-0050568939ad), oral history interview, 14\-15.
 
 [^10]:  Lee, _[A Fabulous Journey](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14651733)_, 110-111.
-
