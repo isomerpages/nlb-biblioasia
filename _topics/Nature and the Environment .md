@@ -76,5 +76,13 @@ Urban development has destroyed much of the original landscape, as&nbsp;**Goh Le
 <img src="/images/Vol-13-issue-4/when-tigers-used-to-roam/01_tigerroam.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-1/apr-jun-2017/mangroves/">Mangroves: A Tale of Survival</a>
+
+Mangroves are an integral part of the marine ecosystem.&nbsp;**Ang Seow Leng**&nbsp;explains why these hardy and resilient plants are vital for the survival of humankind.
+
+<img src="/images/Vol-13-issue-1/mangroves/01_mangroves.jpg" style="width:80%;">
+<hr>
+
+
 
 <hr>
