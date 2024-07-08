@@ -103,4 +103,20 @@ This unique style of architecture only reigned for five decades in China, yet se
 <img src="/images/Vol-14-issue-1/chinese-renaissance-architect/Renaissance1.JPG" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-2/jul-sep-2017/swan-and-maclaren/">Swan &amp; Maclaren: Pioneers of Modernist Architecture</a>
+
+Singapore’s oldest architectural firm may be better known for designing the Raffles Hotel but it’s their 1930s Modernist buildings that are truly revolutionary.&nbsp;**Julian Davison**&nbsp;has the details.
+
+<img src="/images/Vol-13-issue-2/swan-maclaren/01_swanmaclaren.png" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/windows-into-history/">Windows into History</a>
+
+Drawings discovered in a Belgian archive help fill gaps in the history of stained glass windows in Singapore.&nbsp;**Yeo Kang Shua**&nbsp;and&nbsp;**Swati Chandgadkar**&nbsp;reveal their findings.
+
+<img src="/images/Vol-12-issue-4/windows-into-history/4_windows_into_history_topic.png" style="width:80%;">
+<hr>
+
+
+
 
