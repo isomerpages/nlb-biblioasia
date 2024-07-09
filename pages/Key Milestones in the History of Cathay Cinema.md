@@ -106,15 +106,15 @@ Cathay Cineplex’s&nbsp;last&nbsp;day of operations was 26 June 2022, when it s
 
 [^7]: “[Syonan Broadcasting Station](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19420628-1.2.38.4),” _Syonan Shimbun_, 28 June 1942, 3; “[Syonan Broadcasting Station](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19420726-1.2.5.3),” _Syonan Shimbun_, 26 July 1942, 2. (From NewspaperSG)
 
-[^8]: Lim,&nbsp;[_Cathay_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=6095688), 104; “[Govt. to Vacate Cathay Building](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19490128-1.2.35),” *Malaya Tribune*, 28 January 1949, 3. (From NewspaperSG)
+[^8]: Lim,&nbsp;[_Cathay_](https://catalogue.nlb.gov.sg/search/card?recordId=6095688), 104; “[Govt. to Vacate Cathay Building](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19490128-1.2.35),” *Malaya Tribune*, 28 January 1949, 3. (From NewspaperSG)
 
-[^9]: “[Liquidate The Cathay Restaurant Opens May 1](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/morningtribune19480417-1.2.22),&nbsp;_Morning Tribune_, 17 April 1948, 2; “[Govt. to Vacate Cathay Building](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19490128-1.2.35)”; Lim,&nbsp;[_Cathay_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=6095688), 110.
+[^9]: “[Liquidate The Cathay Restaurant Opens May 1](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/morningtribune19480417-1.2.22),&nbsp;_Morning Tribune_, 17 April 1948, 2; “[Govt. to Vacate Cathay Building](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19490128-1.2.35)”; Lim,&nbsp;[_Cathay_](https://catalogue.nlb.gov.sg/search/card?recordId=6095688), 110.
 
-[^10]: “[Studios Turn into a Plush Hotel](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19540109-1.2.34),” *Singapore Standard*, 9 January 1954, 2 (From NewspaperSG); Lim,&nbsp;[_Cathay_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=6095688), 110.
+[^10]: “[Studios Turn into a Plush Hotel](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19540109-1.2.34),” *Singapore Standard*, 9 January 1954, 2 (From NewspaperSG); Lim,&nbsp;[_Cathay_](https://catalogue.nlb.gov.sg/search/card?recordId=6095688), 110.
 
 [^11]: "[Tallest Skyscraper Opens](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19551212-1.2.96)," *Singapore Standard*, 12 December 1955, 9; "[Yes, You Can't Miss the Cathay](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19590213-1.2.104.20)," *Singapore Free Press*, 13 February 1959, 9. (From NewspaperSG)
 
-[^12]: Vernon Cornelius-Takahama and Ong Eng Chuan, “[Cathay Building](https://eresources.nlb.gov.sg/infopedia/articles/SIP_532_2004-12-17.html),” Singapore Infopedia, last updated September 2020;  Lim,&nbsp;[_Cathay_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=6095688), 110–11.
+[^12]: Vernon Cornelius-Takahama and Ong Eng Chuan, “[Cathay Building](https://www.nlb.gov.sg/main/article-detail?cmsuuid=931604b4-b9cc-46aa-b2e8-487721be4061),” Singapore Infopedia, last updated September 2020;  Lim,&nbsp;[_Cathay_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=6095688), 110–11.
 
 [^13]: “World War II Plaque (Outside Cathay Cinema),” Ministry of Information and the Arts Collection, 1995–1999. (National Archives of Singapore media image no. 19990001374 – 0040)
 
