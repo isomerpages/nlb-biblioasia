@@ -48,7 +48,7 @@ The building plans in the National Archives are a treasure trove, says *Yap Jo L
 <img src="/images/Vol-16-issue-3/building/planningbuilding_topic.jpg" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/karikal)/">Karikal Mahal: The Lost Palace of a Fallen Cattle King</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-3/oct-dec-2020/karikal/">Karikal Mahal: The Lost Palace of a Fallen Cattle King</a>
 *William L. Gibson*  uncovers the story behind the pair of grand buildings along Still Road South.
 
 <img src="/images/Vol-16-issue-3/karikal/karikalmahal-building.jpg" style="width:80%;">
