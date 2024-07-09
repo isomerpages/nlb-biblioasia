@@ -201,20 +201,20 @@ St John’s Island was once home to new migrants, opium addicts and political de
 
 Between the mid-1930s and 1960, only four swimming pool complexes in Singapore were open for public use.&nbsp;**Jocelyn Lau**&nbsp;speaks to people who remember these pools.
 
-<img src="/images/Vol-13-issue-4/memory-laps/01_memorylaps.png">
+<img src="/images/Vol-13-issue-4/memory-laps/01_memorylaps.png" style="width:80%;">
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-4/jan-mar-2018/living-up-at-capitol/">Living it Up at the Capitol</a>
 
 Capitol Theatre was the premier venue for film and stage when it opened in 1930.&nbsp;**Bonny Tan**&nbsp;uses oral history recordings to piece together pre-war narratives of the theatre.
 
-<img src="/images/Vol-13-issue-4/living-it-up-at-the-capitol/01_livingcapitol.jpg">
+<img src="/images/Vol-13-issue-4/living-it-up-at-the-capitol/01_livingcapitol.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-3/oct-dec-2017/ramblingarndbrasbasah/">Rambling Around Bras Basah</a>
 
 It’s just a street to many, but for&nbsp;**Yu-Mei Balasingamchow**, the Bras Basah area is emblematic of how redevelopment can sometimes radically change the identity of an area.
 
-<img src="/images/Vol-13-issue-3/rambling-around-bras-basah/01_brasbasah.jpg">
+<img src="/images/Vol-13-issue-3/rambling-around-bras-basah/01_brasbasah.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-3/oct-dec-2017/micro-india/">Micro India: The Chettiars of Market Street</a>
