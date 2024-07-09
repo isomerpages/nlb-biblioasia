@@ -4,6 +4,7 @@ date: 2018-04-30
 permalink: /vol-14/issue-1/apr-jun-2018/publications-of-past/
 image: /images/Vol-14-issue-1/first-issues/First1.JPG
 layout: post
+variant: markdown
 ---
 #### Launch issues can make or break a new publication. **Barbara Quek** shares highlights of first issues from NLB’s Legal Deposit Collection.
 
@@ -25,7 +26,7 @@ Published with a discerning audience in mind, the editor of *Folk Scene Singapor
 
 #### **Pages from the Past**
 
-First-issue publications evoke memories of people, places and events from times past. The tabloid format was the norm for several early student and community-focused publications, including [*The Student Times*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200085304) (1960), [*Students’ Digest Illustrated*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200080195) (1967) and [*Busway*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5041547) (1975). There were also relatively more B4-size publications back then, such as [*The Journal of the Singapore Society of Architects*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200086051) (1923), [*Singapore Illustrated Weekly*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200072778) (1947), [*Her World*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4184741) (1960), [*V.I.P. Magazine: The Prestige Magazine*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200085267) (1966), [*The Travellers’ Palm*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200071718) (1967) and [*National Pioneer*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4184732) (1969). Black-and-white pages featured more prominently as colour printing was very costly in those days.
+First-issue publications evoke memories of people, places and events from times past. The tabloid format was the norm for several early student and community-focused publications, including [*The Student Times*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200085304) (1960), [*Students’ Digest Illustrated*](1967) and [*Busway*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5041547) (1975). There were also relatively more B4-size publications back then, such as [*The Journal of the Singapore Society of Architects*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200086051) (1923), [*Singapore Illustrated Weekly*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200072778) (1947), [*Her World*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4184741) (1960), [*V.I.P. Magazine: The Prestige Magazine*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200085267) (1966), [*The Travellers’ Palm*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200071718) (1967) and [*National Pioneer*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4184732) (1969). Black-and-white pages featured more prominently as colour printing was very costly in those days.
 
 Many of these old magazines have either ceased publication, changed names or acquired new publishers. Sustaining a publication is often more challenging than publishing and launching a new one, and we applaud those that have stood the test of time. Although quite different in contents, style and readership, *National Pioneer*, forerunner of today’s *Pioneer* magazine of the Singapore Armed Forces, and *Her World*, Singapore’s oldest women’s magazine, have survived to this day.
 
@@ -74,7 +75,7 @@ Touted as Malaysia’s skin diving, boating and skiing magazine, the publication
 <br><br>
 <img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-1/first-issues/First10.JPG"><br>
 First published in January 1977, the magazine covered a wide array of topics on the business landscape in Singapore. A feature article in the inaugural issue reported that the only way to ease traffic congestion in Singapore is to build a mass rapid transit system. Already, more than 40 years ago, the city was suffering from a problem of too many vehicles.<br><br>
-	<b>Development & Construction</b> (Vol. 1, No. 1, January/February 1976)
+	<b>Development &amp; Construction</b> (Vol. 1, No. 1, January/February 1976)
 <br><br>
 <img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-1/first-issues/First11.JPG"><br>
 Targeted at professionals in the building and construction industry, the 1976 inaugural issue of this trade publication included a special feature on the 50-storey International Plaza at Anson Road. This is one of Singapore’s first mixed-use developments, comprising both residential and commercial units. The building – at a height of 190 metres – was one of the three tallest in Singapore at the time.<br><br>
@@ -95,7 +96,7 @@ One of the statutory functions of the National Library Board Act is Legal Deposi
 <br>
 <div style="background-color: white;">
 <img src="/images/Vol-14-issue-1/first-issues/First14.jpg" style="width: 100px; height: 100px;">
-<b>Barbara Quek</b> is a Senior Librarian with the National Library, Singapore. She is currently with the Advocacy & Statutory Function group that oversees the compliance of Legal Deposit in Singapore.
+<b>Barbara Quek</b> is a Senior Librarian with the National Library, Singapore. She is currently with the Advocacy &amp; Statutory Function group that oversees the compliance of Legal Deposit in Singapore.
 </div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-1/apr-jun-2018/"><center>Back to Issue</center></a>
