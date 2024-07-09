@@ -57,91 +57,91 @@ A treaty that sealed Singapore’s fate, a contract for the sale of child brides
 
 To mark its centenary, a Chinese clan association recently donated its archives of heritage documents to the National Library.&nbsp;**Jessie Yak**&nbsp;shares highlights from the collection.
 
-<img src="/images/Vol-14-issue-4/singapore-chin-kang-heritage/Heritage1.JPG">
+<img src="/images/Vol-14-issue-4/singapore-chin-kang-heritage/Heritage1.JPG" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-3/oct-dec-2018/archive-sg-wide-web/">Archiving the Singapore-Wide Web</a>
 
 Recent amendments to the National Library Board Act now allow the National Library to preserve Singapore websites without the express permission of content owners.&nbsp;**Shereen Tay**&nbsp;explains.
 
-<img src="/images/Vol-14-issue-3/archiving-the-sg-wide-web/Archive1.JPG">
+<img src="/images/Vol-14-issue-3/archiving-the-sg-wide-web/Archive1.JPG" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-3/oct-dec-2018/papers-from-past/">Papers from the Past: The Lee Family Archives</a>
 
 The personal papers of a noted Peranakan family provide a window into the lives of the Straits Chinese community during the colonial era, as&nbsp;**Ong Eng Chuan**&nbsp;reveals.
 
-<img src="/images/Vol-14-issue-3/papers-from-the-past/PastPapers1.JPG">
+<img src="/images/Vol-14-issue-3/papers-from-the-past/PastPapers1.JPG" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-3/oct-dec-2018/tamil-print-adv/">சிங்கைப் பத்திரிகைகளில் 1920–1960 வரை வெளிவந்த விளம்பரங்கள்- ஒரு பார்வை</a>
 
 **Sundari Balasubramaniam**&nbsp;examines Tamil print advertisements published between the 1920s and 1960s, and discovers fascinating insights of life during this period.
 
-<img src="/images/Vol-14-issue-3/tamil-article/Tamil1.JPG">
+<img src="/images/Vol-14-issue-3/tamil-article/Tamil1.JPG" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-2/jul-sep-2018/japan-in-sea-lim-sbc/">Japan in Southeast Asia: The Lim Shao Bin Collection</a>
 
 More than 800 items documenting early Japanese interactions in Singapore and the region have been donated to the National Library.&nbsp;**Gracie Lee**&nbsp;explains the significance of this repository.
 
-<img src="/images/Vol-14-issue-2/japan-in-southeast-asia/Collection1.JPG">
+<img src="/images/Vol-14-issue-2/japan-in-southeast-asia/Collection1.JPG" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-2/jul-sep-2018/sporting-glory/">Sporting Glory</a>
 
 **Sharen Chua**&nbsp;shares highlights of commemorative sports publications from the National Library’s Legal Deposit Collection.
 
-<img src="/images/Vol-14-issue-2/sporting-glory/Glory1.jpg">
+<img src="/images/Vol-14-issue-2/sporting-glory/Glory1.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-2/jul-sep-2018/nan-an-history-in-sg/">Preserving Nan’an History in Singapore</a>
 
 The National Library recently received several rare items connected to the history of the Nan’an community and Hong San See Temple in Singapore.&nbsp;**Ang Seow Leng**&nbsp;presents highlights of the collection.
 
-<img src="/images/Vol-14-issue-2/preserving-nanan-history-in-sg/Preserving1.JPG">
+<img src="/images/Vol-14-issue-2/preserving-nanan-history-in-sg/Preserving1.JPG" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-1/apr-jun-2018/publications-of-past/">First Issues: Publications from the Past</a>
 
 Launch issues can make or break a new publication.&nbsp;**Barbara Quek**&nbsp;shares highlights of first issues from NLB’s Legal Deposit Collection.
 
-<img src="/images/Vol-14-issue-1/first-issues/First1.JPG">
+<img src="/images/Vol-14-issue-1/first-issues/First1.JPG" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-4/jan-mar-2018/textbooks-we-remember/">Textbooks We Remember</a>
 
 **Shereen Tay**&nbsp;pores through the National Library’s collection of old primary school English textbooks, and uncovers some classics in the process.
 
-<img src="/images/Vol-13-issue-4/textbooks-we-remember/01_textbooks.jpg">
+<img src="/images/Vol-13-issue-4/textbooks-we-remember/01_textbooks.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-4/jan-mar-2018/warmtidingsincoldwar/">Warm Tidings in a Cold War</a>
 
 Remittance letters between Singapore and China during the height of the Cold War from the 1950s–70s recount both the joy and angst of relationships across the miles.&nbsp;**Dong Hui Ying**&nbsp;delves deeper.
 
-<img src="/images/Vol-13-issue-4/warm-tidings-in-a-cold-war/01_warmtiding.jpg">
+<img src="/images/Vol-13-issue-4/warm-tidings-in-a-cold-war/01_warmtiding.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-4/jan-mar-2018/manuscripts-from-past/">Manuscripts from Our Global Past</a>
 
 An exhibition of old Southeast Asian writings showcases the region as a major centre of learning.&nbsp;**Farish A. Noor**&nbsp;explains why we should reclaim our heritage.
 
-<img src="/images/Vol-13-issue-4/manuscripts-from-global-past/01_manuscript.png">
+<img src="/images/Vol-13-issue-4/manuscripts-from-global-past/01_manuscript.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-3/oct-dec-2017/fashionthroughdecades/">The Way We Were: Fashion Through the Decades</a>
 
 Singapore has emerged as a leading Asian fashion capital in recent years.&nbsp;**Zoe Yeo**&nbsp;tracks its evolution through fashion publications from the Legal Deposit Collection.
 
-<img src="/images/Vol-13-issue-3/the-way-we-were/01_thewaywewere.png">
+<img src="/images/Vol-13-issue-3/the-way-we-were/01_thewaywewere.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-3/oct-dec-2017/traditionalchinesemed/">从馆藏文献资料认识中医药在新加坡 的历史与发展 (Traditional Chinese Medicine in Singapore)</a>
 
 Traditional Chinese medicine in Singapore has a history that goes back to more than a century.&nbsp;**Vicky Gao**&nbsp;traces its development through the National Library’s collection.
 
-<img src="/images/Vol-13-issue-3/traditional-chinese-medicine/01a-chinesemedicine.png" style="width:70%;">
+<img src="/images/Vol-13-issue-3/traditional-chinese-medicine/01a-chinesemedicine.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-3/oct-dec-2017/european-escapade/">Mr Song’s European Escapade</a>
