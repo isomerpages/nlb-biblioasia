@@ -97,6 +97,14 @@ Another significant title is <i>Travels in the East Indian Archipelago</i> (1868
 [^4]:Bucknill, J.A.S. (1927). [*The birds of Singapore island*](https://www.nlb.gov.sg/main/book-detail?cmsuuid=a2e7a926-d7b5-46f3-b02b-c1e95af98da2). Singapore: Government Printing Office. Retrieved from BookSG.
 [^5]:Butler, A.G. (1879). [*The butterflies of Malacca*](https://www.nlb.gov.sg/main/book-detail?cmsuuid=f708dd35-6f89-43a3-b1b2-3bb7e8a74fc4). London: The Society. Retrieved from BookSG.
 [^6]:*Annual report of the meteorological observations in the Straits Settlements for the year 1890.* (1891). Singapore: Government Printing Office. This publication is found in the collection of the Singapore Botanic Gardens.
-[^7]:Skinner, A.M. (1884). [*A geography of the Malay Peninsula and surrounding countries in three parts. Part 1. Malay Peninsula, Borneo.*](http://eresources.nlb.gov.sg/printheritage/detail/b49a2b64-8851-4b0e-85a6-4e78a05654a7.aspx) Singapore: [s.n.]. Retrieved from BookSG.
-[^8]:Wilkinson, R.J. (1910). [*The aboriginal tribes*](http://eresources.nlb.gov.sg/printheritage/detail/7522cff6-2073-461e-8ec7-85f597f6dc93.aspx). Kuala Lumpur: F.M.S. Government Press. Retrieved from BookSG.
-[^9]:Bickmore, A.S. (1868). [Travels in the East Indian Archipelago](http://eresources.nlb.gov.sg/printheritage/detail/113e91ec-c265-4715-89d7-d45c6188356c.aspx). London: J. Murray. Retrieved from BookSG.
+[^7]:Skinner, A.M. (1884). [*A geography of the Malay Peninsula and surrounding countries in three parts. Part 1. Malay Peninsula, Borneo.*](https://www.nlb.gov.sg/main/book-detail?cmsuuid=b49a2b64-8851-4b0e-85a6-4e78a05654a7) Singapore: [s.n.]. Retrieved from BookSG.
+[^8]:Wilkinson, R.J. (1910). [*The aboriginal tribes*](https://www.nlb.gov.sg/main/book-detail?cmsuuid=7522cff6-2073-461e-8ec7-85f597f6dc93). Kuala Lumpur: F.M.S. Government Press. Retrieved from BookSG.
+[^9]:Bickmore, A.S. (1868). [Travels in the East Indian Archipelago](https://www.nlb.gov.sg/main/book-detail?cmsuuid=113e91ec-c265-4715-89d7-d45c6188356c). London: J. Murray. Retrieved from BookSG.
+
+
+
+
+
+
+
+from BookSG.
