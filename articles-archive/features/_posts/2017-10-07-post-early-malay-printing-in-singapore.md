@@ -4,6 +4,7 @@ date: 2017-10-07
 permalink: /vol-13/issue-3/oct-dec-2017/early-malay-printing/
 image: /images/Vol-13-issue-3/early-malay-printing-in-sg/01_malayprinting.png
 layout: post
+variant: markdown
 ---
 #### **Mazelan Anuar** tracks the rise and decline of Malay printing and publishing in 19th-century Singapore, and profiles two of the most prolific printers of that period.
 
@@ -94,19 +95,19 @@ Scribes and copyists continued to play an important role until the 19th century 
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>Tales of the Malay World: Manuscripts and Early Books</b>
 <br><br>
-Be sure to catch this exhibition of old Malay manuscripts and printed books from the 18th to early 20th centuries at level 10 of the National Library Building. The exhibition ends on 25 February 2018. For more information, go to <a href="www.nlb.gov.sg/exhibitions/">www.nlb.gov.sg/exhibitions/</a>.</span>
+Be sure to catch this exhibition of old Malay manuscripts and printed books from the 18th to early 20th centuries at level 10 of the National Library Building. The exhibition ends on 25 February 2018. For more information, go to <a href="https://exhibitions.nlb.gov.sg/">https://exhibitions.nlb.gov.sg/</a>.</span>
 
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Vol-13-issue-3/early-malay-printing-in-sg/mazelan1.png">
-<b>Mazelan Anuar</B> is a Senior Librarian with the National Library, Singapore. His research interests are in early Singapore Malay publications and digital librarianship. He manages the National Library’s Malay language collection as well as the NewspaperSG portal.
+<b>Mazelan Anuar</b> is a Senior Librarian with the National Library, Singapore. His research interests are in early Singapore Malay publications and digital librarianship. He manages the National Library’s Malay language collection as well as the NewspaperSG portal.
 </div>
 
 <a href="/vol-13/issue-3/oct-dec-2017/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 
-[^1]:Juffri Supa’at & Gopaul, N. (Eds.). (2009). *[Aksara: Menjejaki tulisan Melayu = Aksara: The passage of Malay scripts](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13238990)* (p. 37). Singapore: National Library Board. (Call no.: Malay RSING 499.2811 AKS)
+[^1]:Juffri Supa’at &amp; Gopaul, N. (Eds.). (2009). *[Aksara: Menjejaki tulisan Melayu = Aksara: The passage of Malay scripts](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13238990)* (p. 37). Singapore: National Library Board. (Call no.: Malay RSING 499.2811 AKS)
 
 [^2]:Winstedt, R. (1944, October. Indian influence in the Malay world. *The Journal of the Royal Asiatic Society of Great Britain and Ireland, 2*, 186–195, pp. 186–187. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
 
@@ -114,7 +115,7 @@ Be sure to catch this exhibition of old Malay manuscripts and printed books from
 
 [^4]:Teeuw, A. (1959). The history of the Malay language: A preliminary survey. *Bijdragen tot de Taal-, Land- en Volkenkunde, Deel, 115* (2), 138–156, pp. 140, 149. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
 
-[^5]:Edwards, E.D., & Blagden, C.O.A. (1931). A Chinese vocabulary of Malacca Malay words and phrases collected between A. D. 1403 and 1511 (?). *Bulletin of the School of Oriental Studies, University of London, 6* (3), 715–749, pp. 718–748. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
+[^5]:Edwards, E.D., &amp; Blagden, C.O.A. (1931). A Chinese vocabulary of Malacca Malay words and phrases collected between A. D. 1403 and 1511 (?). *Bulletin of the School of Oriental Studies, University of London, 6* (3), 715–749, pp. 718–748. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
 
 [^6]:Bausani, A. (1960, December). The first ItalianMalay vocabulary by Antonio Pigafetta. *East and West, 11* (4), 229–248, pp. 233–240. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
 
