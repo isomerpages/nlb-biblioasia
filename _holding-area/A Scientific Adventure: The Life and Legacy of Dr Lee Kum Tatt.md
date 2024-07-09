@@ -138,7 +138,7 @@ Lee died in 2008 and his integral role in shaping science in Singapore has large
 
 [^16]:  “[A-Agency Help for S’pore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19671107-1.2.20),” _Straits Times_, 7 November 1967, 4. (From NewspaperSG)
 
-[^17]:  Science Council of Singapore, _[Annual Report of The Science Council of Singapore 1969](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4828564)_ (Singapore: Science Council of Singapore), 8. (From National Library, Singapore, call no. RSING 506.15957 SCSAR 1969-70). See also from [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/government_records/docs/d0833c53-d47f-11e7-9cbe-0050568939ad/S.32of1971.pd).
+[^17]:  Science Council of Singapore, _[Annual Report of The Science Council of Singapore 1969](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4828564)_ (Singapore: Science Council of Singapore), 8. (From National Library, Singapore, call no. RSING 506.15957 SCSAR 1969-70). See also [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/government_records/docs/d0833c53-d47f-11e7-9cbe-0050568939ad/S.32of1971.pdf).
 
 [^18]:  Science Council of Singapore, _[Annual Report of The Science Council of Singapore 1968](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4828564)_ (Singapore: Science Council of Singapore), 1. (From National Library, Singapore, call no. RSING 506.15957 SCSAR) See also [National Archives of Singapore](https://www.nas.gov.sg/archivesonline/government_records/docs/be3ae772-d47f-11e7-9cbe-0050568939ad/S.1of1971.pdf).
 
@@ -156,7 +156,7 @@ Lee died in 2008 and his integral role in shaping science in Singapore has large
 
 [^25]:  Lee, _[A Fabulous Journey](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14651733)_, 97-98.; “[When and How It All Began](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19771210-1.2.132.4),” _Straits Times_, 10 December 1977, 41. (From NewspaperSG)
 
-[^26]:  “[Hard at it—trying to tackle 150 queries in 30 minutes](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730407-1.2.55),” _Straits Times_, 7 April 1973, 9 (From NewspaperSG)
+[^26]:  “[Hard at It—Trying to Tackle 150 Queries in 30 Minutes](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730407-1.2.55),” _Straits Times_, 7 April 1973, 9 (From NewspaperSG)
 
 [^27]:  Lee, _[A Fabulous Journey](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14651733)_, 18-19
 
