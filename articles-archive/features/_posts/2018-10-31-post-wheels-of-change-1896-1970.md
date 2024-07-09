@@ -153,7 +153,7 @@ After World War II, many private cars were used by unlicensed taxi drivers to pl
 In 1970, the National Trades Union Congress started its Comfort taxi service and offered pirate taxi drivers the opportunity to join its operations. A total ban on pirate taxis came into force in July the following year.
 </div>
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;"> 
-This essay is reproduced from the book, <i>Between the Lines: Early Print Advertising in Singapore 1830s-1960s</i>. Published by the National Library Board and Marshall Cavendish International Asia, it retails at major bookshops, and is also available for reference and loan at the Lee Kong Chian Reference Library and selected public libraries [[Call nos.: RSING 659.1095957 BET and SING 659.1095957 BET](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203150558)].
+This essay is reproduced from the book, <i>Between the Lines: Early Print Advertising in Singapore 1830s-1960s</i>. Published by the National Library Board and Marshall Cavendish International Asia, it retails at major bookshops, and is also available for reference and loan at the Lee Kong Chian Reference Library and selected public libraries [[Call nos.: RSING 659.1095957 BET](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203150558)].
 <br><br>
 The exhibition “Selling Dreams: Early Advertising in Singapore” takes place at  level 10 of the National Library Building on Victoria Street. A variety of print advertisements from the 1830s on subjects such as food, fashion, entertainment, travel and more are on display until 24 February 2019.
 </span>
