@@ -92,7 +92,7 @@ Self-mortification and the spilling of blood are hallmarks of the Chinese *tangk
 
 Celebrated by Hindus of South Indian origins, the Golu festival is a lively melange of colourful dolls, womenhood and spirituality.&nbsp;**Anasuya Soundararajan**&nbsp;shares with us its origins.
 
-<img src="/images/Vol-15-issue-3/navaratri-golu/Navaratri1.JPG" style="width:85%;">													
+<img src="/images/Vol-15-issue-3/navaratri-golu/Navaratri1.JPG" style="width:80%;">													
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-3/oct-dec-2018/magic-or-med-m-heal/">Magic or Medicine? Malay Healing Practices</a>
@@ -105,7 +105,7 @@ Celebrated by Hindus of South Indian origins, the Golu festival is a lively mela
 
 The National Library recently received several rare items connected to the history of the Nan’an community and Hong San See Temple in Singapore.&nbsp;**Ang Seow Leng**&nbsp;presents highlights of the collection.
 
-<img src="/images/Vol-14-issue-2/preserving-nanan-history-in-sg/Preserving1.JPG">
+<img src="/images/Vol-14-issue-2/preserving-nanan-history-in-sg/Preserving1.JPG" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-2/jul-sep-2018/going-shopping-in60s/">Going Shopping in the 60s</a>
@@ -119,7 +119,7 @@ What was the act of shopping like for a generation that was more concerned about
 
 This time-honoured festival has left no tangible trace of its observance in Singapore.&nbsp;**Tan Chui Hua**&nbsp;pieces together oral history interviews to reconstruct its proper place in Chinese culture.
 
-<img src="/images/Vol-14-issue-2/in-search-of-the-seven-sis/Festival1.JPG">
+<img src="/images/Vol-14-issue-2/in-search-of-the-seven-sis/Festival1.JPG" style="width:80%;">
 <hr>
 
 
@@ -141,7 +141,7 @@ This unique style of architecture only reigned for five decades in China, yet se
 
 Singapore has emerged as a leading Asian fashion capital in recent years.&nbsp;**Zoe Yeo**&nbsp;tracks its evolution through fashion publications from the Legal Deposit Collection.
 
-<img src="/images/Vol-13-issue-3/the-way-we-were/01_thewaywewere.png">
+<img src="/images/Vol-13-issue-3/the-way-we-were/01_thewaywewere.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-3/oct-dec-2017/early-malay-printing/">Early Malay Printing in Singapore</a>
