@@ -245,4 +245,3 @@ The much-loved NCO Club on Beach Road was a favourite downtown R &amp; R spot fo
 
 <img src="/images/Vol-12-issue-4/from-britannia-to-nco-club/1-britannia-nco.jpg" style="width:80%;">
 <hr>
-
