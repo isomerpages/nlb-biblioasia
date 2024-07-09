@@ -82,7 +82,7 @@ The foundation stone for the Causeway was laid 100 years ago. We look back at th
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-3/oct-dec-2018/the-house-of-ripples/">The House of Ripples</a>
 
-**Martina Yeo**&nbsp;and&nbsp;**Yeo Kang**&nbsp;Shua piece together historical details of the little-known River House in Clarke Quay and discover that it was once a den for illicit triad activity.
+**Martina Yeo**&nbsp;and&nbsp;**Yeo Kang Shua** piece together historical details of the little-known River House in Clarke Quay and discover that it was once a den for illicit triad activity.
 
 <img src="/images/Vol-14-issue-3/the-house-of-ripples/Ripples1.JPG" style="width:80%;">
 <hr>
