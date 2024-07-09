@@ -96,7 +96,7 @@ Cathay Cineplex’s&nbsp;last&nbsp;day of operations was 26 June 2022, when it s
 
 [^2]: “[Cathay Cinema Opens Doors Tonight](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19391003-1.2.55),” _Singapore Free Press and Mercantile Advertiser_, 3 October 1939, 5; “['Four Feathers' Released](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19390730-1.2.123),” _Straits Times_, 30 July 1939, 13. (From NewspaperSG)
 
-[^3]: Lim Kay Tong, [*Cathay: 55 Years of Cinema*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=6095688) (Singapore: Landmark Books, 1991), 98 (From National Library, Singapore, Call no. RSING 791.43095957 LIM); "[Inside Singapore's Newest Cinema Opens On Tuesday](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19391001-1.2.173)," *Straits Times*, 1 October 1939, 20. (From NewspaperSG)
+[^3]: Lim Kay Tong, [*Cathay: 55 Years of Cinema*](https://catalogue.nlb.gov.sg/search/card?recordId=6095688) (Singapore: Landmark Books, 1991), 98 (From National Library, Singapore, Call no. RSING 791.43095957 LIM); "[Inside Singapore's Newest Cinema Opens On Tuesday](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19391001-1.2.173)," *Straits Times*, 1 October 1939, 20. (From NewspaperSG)
 
 [^4]: “[Americans Celebrate Washington Day](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19400222-1.2.56),” _Straits Times_, 22 February 1940, 10; “[Jap Bombs Could Not Shake Its Spirit](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19490925-1.2.96),” _Malaya Tribune_, 25 September 1949, 11. (From NewspaperSG)
 
