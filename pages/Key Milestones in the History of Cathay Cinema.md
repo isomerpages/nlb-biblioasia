@@ -100,9 +100,9 @@ Cathay Cineplex’s&nbsp;last&nbsp;day of operations was 26 June 2022, when it s
 
 [^4]: “[Americans Celebrate Washington Day](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19400222-1.2.56),” _Straits Times_, 22 February 1940, 10; “[Jap Bombs Could Not Shake Its Spirit](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19490925-1.2.96),” _Malaya Tribune_, 25 September 1949, 11. (From NewspaperSG)
 
-[^5]: Tommy Koh et al., *[Singapore: The Encyclopedia](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=12768833)* (Singapore: Editions Didier Millet and National Heritage Board, 2006), 37. (From National Library, Singapore, Call no. RSING 959.57003 SIN)
+[^5]: Tommy Koh et al., *[Singapore: The Encyclopedia](https://catalogue.nlb.gov.sg/search/card?recordId=12768833)* (Singapore: Editions Didier Millet and National Heritage Board, 2006), 37. (From National Library, Singapore, Call no. RSING 959.57003 SIN)
 
-[^6]: Koh, *[Singapore: The Encyclopedia](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=12768833)*, 37; Lim, [_Cathay_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=6095688), 100–102.
+[^6]: Koh, *[Singapore: The Encyclopedia](https://catalogue.nlb.gov.sg/search/card?recordId=12768833)*, 37; Lim, [_Cathay_](https://catalogue.nlb.gov.sg/search/card?recordId=6095688), 100–102.
 
 [^7]: “[Syonan Broadcasting Station](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19420628-1.2.38.4),” _Syonan Shimbun_, 28 June 1942, 3; “[Syonan Broadcasting Station](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/syonantimes19420726-1.2.5.3),” _Syonan Shimbun_, 26 July 1942, 2. (From NewspaperSG)
 
