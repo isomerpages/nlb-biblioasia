@@ -3,6 +3,7 @@ title: Director's Note (Jul-Sep 2021)
 date: 2021-07-11
 permalink: /vol-17/issue-2/jul-sep-2021/director-note/
 layout: post
+variant: markdown
 ---
 I believe my first encounter with public art was at the old Plaza Singapura – “Wealth” and “Contentment”, two sculptures by local artist Ng Eng Teng. I remember being awed by the voluminous female figures soaring above me (both sculptures have since been relocated to a spot outside the University Cultural Centre). 
 
@@ -16,7 +17,7 @@ The time-honoured tale of Mulan, available in the National Library’s Asian Chi
 
 [Gracie Lee's](/vol-17/issue-2/jul-sep-2021/early-printing) comprehensive overview of the history of printing in the Philippines amply demonstrates the impact of technological change on printing methods – from woodblock to moveable type. [Zoe Yeo's](/vol-17/issue-2/jul-sep-2021/jurong-bird-park) story of Jurong Bird Park’s fledgling years provides a backdrop to the exciting changes that will happen in 2022 as it relocates to Mandai. 
 
-These are just some of the highlights of this issue, which also looks at the origins of Straits-born cuisine by [Lee Geok Boi](/vol-17/issue-2/jul-sep-2021/straitsborncuisine), the history of the Banjar people in Singapore by [Zinnurain Nasir and Nasri Shah](/vol-17/issue-2/jul-sep-2021/diamondtrail), [Julian Davison's](/vol-17/issue-2/jul-sep-2021/swanandmaclaren) account of architectural firm Swan &amp; Maclaren in propagating the idea of apartment living here, and [Lee Chor Lin's](/vol-17/issue-2/jul-sep-2021/chinese-artists) piece on Chinese graphic artists in pre-war Singapore.
+These are just some of the highlights of this issue, which also looks at the origins of Straits-born cuisine by [Lee Geok Boi](/vol-17/issue-2/jul-sep-2021/straitsborncuisine), the history of the Banjar people in Singapore by [Zinnurain Nasir and Nasri Shah](/vol-17/issue-2/jul-sep-2021/urangbanjar), [Julian Davison's](/vol-17/issue-2/jul-sep-2021/swanandmaclaren) account of architectural firm Swan &amp; Maclaren in propagating the idea of apartment living here, and [Lee Chor Lin's](/vol-17/issue-2/jul-sep-2021/chinese-artists) piece on Chinese graphic artists in pre-war Singapore.
 
 Clearly, one thing that does not change is our commitment to bringing you great reads. Enjoy this issue and stay safe!
 
