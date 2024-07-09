@@ -116,7 +116,7 @@ Cathay Cineplex’s&nbsp;last&nbsp;day of operations was 26 June 2022, when it s
 
 [^12]: Vernon Cornelius-Takahama and Ong Eng Chuan, “[Cathay Building](https://www.nlb.gov.sg/main/article-detail?cmsuuid=931604b4-b9cc-46aa-b2e8-487721be4061),” Singapore Infopedia, last updated September 2020;  Lim,&nbsp;[_Cathay_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=6095688), 110–11.
 
-[^13]: “World War II Plaque (Outside Cathay Cinema),” Ministry of Information and the Arts Collection, 1995–1999. (National Archives of Singapore media image no. 19990001374 – 0040)
+[^13]: “[World War II Plaque (Outside Cathay Cinema)](https://www.nas.gov.sg/archivesonline/photographs/record-details/d6c619a0-1161-11e3-83d5-0050568939ad),” Ministry of Information and the Arts Collection, 1995–1999. (National Archives of Singapore media image no. 19990001374 – 0040)
 
 [^14]: Chris Loh, "[Cathay Building Is to Be Redeveloped for $100m](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20000219-1.2.9.1)," *Business Times*, 19 February 2000, 2. (From NewspaperSG)
 
