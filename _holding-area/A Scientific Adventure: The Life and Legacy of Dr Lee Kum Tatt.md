@@ -38,10 +38,10 @@ He turned down the job and returned to the University of Malaya to pursue his do
 <div style="background-color: white;">Science students from the 1948 cohort at Raffles College, 1948. <i>Raffles College Collection, courtesy of National Archives of Singapore.</i></div>
 
   
-<img src="/images/Online%20Only%20Articles/Dr%20Lee%20Kum%20Tatt/Lee_at_UOM.png" style="width: 55%;">
+<img src="/images/Online%20Only%20Articles/Dr%20Lee%20Kum%20Tatt/Lee_at_UOMv1.png" style="width: 55%;">
 <div style="background-color: white;">Lee at the research laboratory of the University of Malaya, 1953. <i>Image reproduced from A Fabulous Journey (2012, Singapore: The Word Press). (From National Library, Singapore, call no. 540.92 LEE)</i></div>
 
-<img src="/images/Online%20Only%20Articles/Dr%20Lee%20Kum%20Tatt/lee_kum_tatt_rayson_huang.png" style="width: 70%;">
+<img src="/images/Online%20Only%20Articles/Dr%20Lee%20Kum%20Tatt/lee_kum_tatt_rayson_huang.png" style="width: 60%;">
 <div style="background-color: white;">Lee Kum Tatt and Dr Rayson L. Huang working on their research project in the new laboratory at the University of Malaya, 1953.<i> Source: The Straits Times, 14 October 1953 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 #### **Navigating Malayanisation**
