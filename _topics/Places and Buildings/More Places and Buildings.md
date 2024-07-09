@@ -20,6 +20,7 @@ From Desker Road to Xilin Avenue, street signs around Singapore recall the lives
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/singapore-speedway-motorcylce-racing/">A Quick History of the Singapore Speedway</a>
+
 The history of the Singapore Speedway was as fast and furious as the races it hosted.
 
 <img src="/images/Vol%2020%20Issue%201/Singapore%20Speedway/speedway_topic.png" style="width:80%;">
