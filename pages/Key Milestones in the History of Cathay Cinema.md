@@ -92,7 +92,7 @@ Cathay Cineplex’s&nbsp;last&nbsp;day of operations was 26 June 2022, when it s
 
 
 #### **NOTES**
-[^1]: Kelvin Tong, “[Akan Datang: Cathay’s New Home](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20000404.2.82.5.1.aspx),” *Straits Times*, 4 April 2000, 4; “[Cathay Building and YMCA Orchard Had a Grim Past](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19950731.2.30.8),” *Straits Times*, 31 July 1995, 20; “[I Built Highest, He Says](https:/eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19531231-1.2.144),” _Straits Times_, 31 December 1953, 7. (From NewspaperSG)
+[^1]: Kelvin Tong, “[Akan Datang: Cathay’s New Home](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20000404.2.82.5.1.aspx),” *Straits Times*, 4 April 2000, 4; “[Cathay Building and YMCA Orchard Had a Grim Past](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19950731.2.30.8),” *Straits Times*, 31 July 1995, 20; “[I Built Highest, He Says](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19531231-1.2.144),” _Straits Times_, 31 December 1953, 7. (From NewspaperSG)
 
 [^2]: “[Cathay Cinema Opens Doors Tonight](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19391003-1.2.55),” _Singapore Free Press and Mercantile Advertiser_, 3 October 1939, 5; “['Four Feathers' Released](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19390730-1.2.123),” _Straits Times_, 30 July 1939, 13. (From NewspaperSG)
 
