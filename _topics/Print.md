@@ -122,35 +122,35 @@ To mark its centenary, a Chinese clan association recently donated its archives 
 
 The personal papers of a noted Peranakan family provide a window into the lives of the Straits Chinese community during the colonial era, as&nbsp;**Ong Eng Chuan**&nbsp;reveals.
 
-<img src="/images/Vol-14-issue-3/papers-from-the-past/PastPapers1.JPG">
+<img src="/images/Vol-14-issue-3/papers-from-the-past/PastPapers1.JPG" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-3/oct-dec-2018/tamil-print-adv/">சிங்கைப் பத்திரிகைகளில் 1920–1960 வரை வெளிவந்த விளம்பரங்கள்- ஒரு பார்வை</a>
 
 **Sundari Balasubramaniam**&nbsp;examines Tamil print advertisements published between the 1920s and 1960s, and discovers fascinating insights of life during this period.
 
-<img src="/images/Vol-14-issue-3/tamil-article/Tamil1.JPG">
+<img src="/images/Vol-14-issue-3/tamil-article/Tamil1.JPG" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-3/oct-dec-2018/wheels-of-change/">Wheels of Change: 1896–1970</a>
 
 Advertisements targeting aspiring car owners have come a long way since the first automobile was launched in Singapore in 1896, as&nbsp;**Mazelan Anuar**&nbsp;tells us.
 
-<img src="/images/Vol-14-issue-3/wheels-of-change/Wheels1.JPG">
+<img src="/images/Vol-14-issue-3/wheels-of-change/Wheels1.JPG" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-2/jul-sep-2018/japan-in-sea-lim-sbc/">Japan in Southeast Asia: The Lim Shao Bin Collection</a>
 
 More than 800 items documenting early Japanese interactions in Singapore and the region have been donated to the National Library.&nbsp;**Gracie Lee**&nbsp;explains the significance of this repository.
 
-<img src="/images/Vol-14-issue-2/japan-in-southeast-asia/Collection1.JPG">
+<img src="/images/Vol-14-issue-2/japan-in-southeast-asia/Collection1.JPG" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-14/issue-2/jul-sep-2018/sporting-glory/">Sporting Glory</a>
 
 **Sharen Chua**&nbsp;shares highlights of commemorative sports publications from the National Library’s Legal Deposit Collection.
 
-<img src="/images/Vol-14-issue-2/sporting-glory/Glory1.jpg">
+<img src="/images/Vol-14-issue-2/sporting-glory/Glory1.jpg" style="width:80%;">
 <hr>
 
 
@@ -165,42 +165,42 @@ Before the advent of the internet, print advertisements reigned supreme. These p
 
 Launch issues can make or break a new publication. **Barbara Quek**&nbsp;shares highlights of first issues from NLB’s Legal Deposit Collection.
 
-<img src="/images/Vol-14-issue-1/first-issues/First1.JPG">
+<img src="/images/Vol-14-issue-1/first-issues/First1.JPG" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-4/jan-mar-2018/textbooks-we-remember/">Textbooks We Remember</a>
 
 **Shereen Tay**&nbsp;pores through the National Library’s collection of old primary school English textbooks, and uncovers some classics in the process.
 
-<img src="/images/Vol-13-issue-4/textbooks-we-remember/01_textbooks.jpg">
+<img src="/images/Vol-13-issue-4/textbooks-we-remember/01_textbooks.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-4/jan-mar-2018/kelly-and-walsh/">Kelly &amp; Walsh: Purveyor, Publisher and Printer</a>
 
 Established in the 1880s, Kelly &amp; Walsh was an iconic name in the Singapore book trade until its closure in 1956.&nbsp;**Gracie Lee**&nbsp;traces its history as bookseller, publisher and printer.
 
-<img src="/images/Vol-13-issue-4/kelly-and-walsh/01_KW.jpg">
+<img src="/images/Vol-13-issue-4/kelly-and-walsh/01_KW.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-4/jan-mar-2018/stamping-history/">Stamping History</a>
 
 Postage stamps are more than little squares of paper to be stuck on envelopes.&nbsp;**Justin Zhuang**&nbsp;discovers how stamps have helped forge Singapore’s identity over the past five decades.
 
-<img src="/images/Vol-13-issue-4/stamping-history/02_stamping.jpg">
+<img src="/images/Vol-13-issue-4/stamping-history/02_stamping.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-4/jan-mar-2018/stories-they-tell/">The Stories They Could Tell</a>
 
 Old photographs and documents can reveal new things about our history, as&nbsp;**Yu-Mei Balasingamchow** discovered when she sieved through the National Archives’ war collections.
 
-<img src="/images/Vol-13-issue-4/the-stories-they-could-tell/01_stories.jpg">
+<img src="/images/Vol-13-issue-4/the-stories-they-could-tell/01_stories.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-4/jan-mar-2018/manuscripts-from-past/">Manuscripts from Our Global Past</a>
 
 An exhibition of old Southeast Asian writings showcases the region as a major centre of learning.&nbsp;**Farish A. Noor**&nbsp;explains why we should reclaim our heritage.
 
-<img src="/images/Vol-13-issue-4/manuscripts-from-global-past/01_manuscript.png">
+<img src="/images/Vol-13-issue-4/manuscripts-from-global-past/01_manuscript.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-3/oct-dec-2017/early-malay-printing/">Early Malay Printing in Singapore</a>
@@ -214,7 +214,7 @@ An exhibition of old Southeast Asian writings showcases the region as a major ce
 
 Singapore has emerged as a leading Asian fashion capital in recent years.&nbsp;**Zoe Yeo**&nbsp;tracks its evolution through fashion publications from the Legal Deposit Collection.
 
-<img src="/images/Vol-13-issue-3/the-way-we-were/01_thewaywewere.png">
+<img src="/images/Vol-13-issue-3/the-way-we-were/01_thewaywewere.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-3/oct-dec-2017/traditionalchinesemed/">从馆藏文献资料认识中医药在新加坡 的历史与发展 (Traditional Chinese Medicine in Singapore)</a>

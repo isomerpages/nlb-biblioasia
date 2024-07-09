@@ -4,10 +4,11 @@ date: 2018-01-10
 permalink: /vol-13/issue-4/jan-mar-2018/whentigersusedtoroam/
 image: /images/Vol-13-issue-4/when-tigers-used-to-roam/01_tigerroam.jpg
 layout: post
+variant: markdown
 ---
 #### Urban development has destroyed much of the original landscape, as **Goh Lee Kim** tells us. But Singapore has taken great strides in conserving its natural heritage.
 
-<div style="background-color: white;"><br><img src="/images/Vol-13-issue-4/when-tigers-used-to-roam/01_tigerroam.jpg">“View in the jungle, Singapore”, c.1845. A lithograph print showing a recently cleared stretch of jungle with a wide path cut through it. By the late 19th century, much of the primary forest in Singapore had been cleared for plantations and a growing migrant population. This print was originally published in Charles Ramsey Drinkwater Bethune’s <i>View in the Eastern Archipelago: Borneo, Sarawak, Labuan, &c. &c. &c. Courtesy of National Museum of Singapore, National Heritage Board.</i></div>
+<div style="background-color: white;"><br><img src="/images/Vol-13-issue-4/when-tigers-used-to-roam/01_tigerroam.jpg">“View in the jungle, Singapore”, c.1845. A lithograph print showing a recently cleared stretch of jungle with a wide path cut through it. By the late 19th century, much of the primary forest in Singapore had been cleared for plantations and a growing migrant population. This print was originally published in Charles Ramsey Drinkwater Bethune’s <i>View in the Eastern Archipelago: Borneo, Sarawak, Labuan, &amp;c. &amp;c. &amp;c. Courtesy of National Museum of Singapore, National Heritage Board.</i></div>
 
 Singapore was blanketed in lush green vegetation for centuries before Stamford Raffles arrived on the island in 1819. Primary tropical forest grew abundantly, interspersed with pockets of mangrove and freshwater swamps.[^1] The forest contained “an immense number” of species of trees, many of them scaling great heights.
 
@@ -21,7 +22,7 @@ Along with the boom in trade, cultivation of cash crops for export also took off
 
 <div style="background-color: white;"><img style="width:400px" src="/images/Vol-13-issue-4/when-tigers-used-to-roam/02a_tigerroam.jpg">Gambier (<i>Nauclea gambir, Uncaria gambir</i>) from the William Farquhar Collection of Natural History Drawings at the National Museum of Singapore. This is one of the paintings that William Farquhar commissioned Chinese artists to do between 1803 and 1818 when he was Resident and Commandant of Melaka. <i>Courtesy of National Museum of Singapore, National Heritage Board.</i></div>
 
-Unfortunately, gambier cultivation had a detrimental effect on the primary forest. To obtain land for the plantations, the farmers, who were mostly Chinese, cleared large swathes of forest. To matters worse, gambier plantations could only survive for 20 years at most as gambier rapidly exhausted the soil and rendered the land infertile for further cultivation. This resulted in further deforestation when the farmers abandoned the plantations and cleared new land to grow the crop.
+Unfortunately, gambier cultivation had a detrimental effect on the primary forest. To obtain land for the plantations, the farmers, who were mostly Chinese, cleared large swathes of forest. To make matters worse, gambier plantations could only survive for 20 years at most as gambier rapidly exhausted the soil and rendered the land infertile for further cultivation. This resulted in further deforestation when the farmers abandoned the plantations and cleared new land to grow the crop.
 
 The farmers also cut down large numbers of trees and used the wood as fuel to boil and process the harvested gambier. It was estimated that for every plot of land taken up by gambier plants, an equal area was logged for its processing.
 
@@ -137,7 +138,7 @@ Dobbs, S. (2003). *[The Singapore River: A social history, 1819–2002](http://e
 
 [River pollution in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18960418-1.2.8). (1896, April 18). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
 
-Sharp, I., & Lum, S. (Eds.). (1996). Where tigers roamed. In *[A view from the summit: The story of Bukit Timah Nature Reserve](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7671502)*. Singapore: Nanyang Technological University and the National University of Singapore. (Call no.: RSING 333.78095957 VIE)
+Sharp, I., &amp; Lum, S. (Eds.). (1996). Where tigers roamed. In *[A view from the summit: The story of Bukit Timah Nature Reserve](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7671502)*. Singapore: Nanyang Technological University and the National University of Singapore. (Call no.: RSING 333.78095957 VIE)
 
 [Singapore forests: Gradual invasion of the reserves](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19280719-1.2.9). (1928, July 19). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
 
@@ -153,17 +154,17 @@ Singapore. National Parks Board. (2009). *Conserving our biodiversity: Singapore
 
 Tan, A. (2015, June 28). [New blueprint to conserve S’pore’s marine heritage](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20150628-1.2.6.3). *The Straits Times*, pp. 2-3. Retrieved from NewspaperSG.
 
-Tan, Y.S., Lee, T.J., & Tan, K. (2009). *[Clean, green and blue: Singapore’ journey towards environmental and water sustainability](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13102969)*. Singapore: ISEAS Publishing. (Call no.: RSING 363.70095957 TAN)
+Tan, Y.S., Lee, T.J., &amp; Tan, K. (2009). *[Clean, green and blue: Singapore’ journey towards environmental and water sustainability](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13102969)*. Singapore: ISEAS Publishing. (Call no.: RSING 363.70095957 TAN)
 
 Tan, S.T.L., et al. (2011). *[Battle for Singapore: Fall of the impregnable fortress](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14251298)* (p. 236). Singapore: National Archives of Singapore. (Call no.: RSING 940.5425957 TAN)
 
-Tortajada, C., Joshi, Y.K., & Biswas, A.K. (2013). *[The Singapore water story: Sustainable development in an urban city-state](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14716461)*. New York: Routledge. (Call no.: RSING 363.61095957 TOR)
+Tortajada, C., Joshi, Y.K., &amp; Biswas, A.K. (2013). *[The Singapore water story: Sustainable development in an urban city-state](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14716461)*. New York: Routledge. (Call no.: RSING 363.61095957 TOR)
 
 Turnbull, C. (2009). *[A history of modern Singapore, 1819–2005](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200096792)*. Singapore: NUS Press. (Call no.: RCLOS 959.97 TUR)]
 
 #### **NOTES**
 
-[^1]:Yee, A.T.K., et al. (2011). The vegetation of Singapore – an updated map. *Gardens’ Bulletin Singapore, 63* (1 & 2), 205–212, p. 205. Retrieved from Singapore Botanic Gardens website.
+[^1]:Yee, A.T.K., et al. (2011). The vegetation of Singapore – an updated map. *Gardens’ Bulletin Singapore, 63* (1 &amp; 2), 205–212, p. 205. Retrieved from Singapore Botanic Gardens website.
 
 [^2]:Crawfurd, J. (1971). *[A descriptive dictionary of the Indian Islands and adjacent countries](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=77333)* (pp. 395–403). Kuala Lumpur: Oxford University Press, New York. (Call no.: RCLOS 959.8 CRA)
 
@@ -189,7 +190,7 @@ Turnbull, C. (2009). *[A history of modern Singapore, 1819–2005](http://eservi
 
 [^13]:[A tiger visits Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/malayansatpost19301108-1.2.91). (1930, November 8). *Malayan Saturday Post*, p. 38. Retrieved from NewspaperSG.
 
-[^14]:Makepeace, W., Brooke, G.E., & Braddell, R.S.J. (Eds.). (1991). *[One hundred years of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718)* (Vol. 2, p. 39). Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE-[HIS])
+[^14]:Makepeace, W., Brooke, G.E., &amp; Braddell, R.S.J. (Eds.). (1991). *[One hundred years of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718)* (Vol. 2, p. 39). Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE-[HIS])
 
 [^15]:[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18480513-1.2.16). (1848, May 13). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
 

@@ -54,7 +54,5 @@ A new exhibition on Singapore theatre traces its growth from its nascent days in
 
 **Cheah Hwei-Fe’n**&nbsp;examines the impact of print media on the time-honoured craft of Peranakan embroidery and beadwork.
 
-<img src="/images/Vol-12-issue-4/glitz-and-glamour/3-beneath_glitz_glamour.jpg" style="width:100%;">
+<img src="/images/Vol-12-issue-4/glitz-and-glamour/3-beneath_glitz_glamour.jpg" style="width:80%;">
 <hr>
-
-

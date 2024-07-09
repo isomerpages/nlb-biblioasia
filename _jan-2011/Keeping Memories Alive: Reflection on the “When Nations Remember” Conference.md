@@ -21,7 +21,7 @@ Last, but not least, the conference programme offered a curated selection of “
 
 #### **National Perspectives**
 
-John van Oudenaren, Director of the World Digital Library (https://wdl.org), gave a presentation on the history and development of the initiative as well as the Library of Congress’ American Memory (https://memory.loc.gov). In American Memory, public domain materials that had mass appeal were digitised and made available on CD-ROM.
+John van Oudenaren, Director of the World Digital Library (https://wdl.org), gave a presentation on the history and development of the initiative as well as the Library of Congress’ American Memory (https://www.loc.gov/collections). In American Memory, public domain materials that had mass appeal were digitised and made available on CD-ROM.
 
 The content management challenges faced by the American Memory team were great learning experiences, and the World Digital Library, facilitated by the Library of Congress, embarked on a different and more comprehensive approach. Users can browse the collection online by place, time, topic, institution and type. The web interface also supports seven languages and Web 2.0 features in an effort to invite users and guests from all walks of life.
 

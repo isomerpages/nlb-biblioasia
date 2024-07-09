@@ -3,6 +3,7 @@ title: Director’s Note (Jul - Sep 2017)
 date: 2017-07-01
 permalink: /vol-13/issue-2/jul-sep-2017/directors-note/
 layout: post
+variant: markdown
 ---
 We explore the parallel worlds of reality and make-believe – and the spaces in between – as we take a trip into our not-so-distant past in this issue of *BiblioAsia*. [Ng Yi-Sheng](/vol-13/issue-2/jul-sep-2017/historyofsghorror) mulls over the fine line between fact and fiction – the theme of this issue – in his essay on the culture of horror that has existed in Singapore since pre-colonial days. From spine-chilling tales of the *pontianak*, the female vampire from Malay folklore to *The Black Isle*, Sandi Tan’s 21st-century supernatural novel set in Singapore, the essay taps into our morbid fascination with all things creepy.
 
@@ -12,9 +13,9 @@ Singapore was hailed as the “equatorial Hollywood” when Western filmmakers d
 
 The opening of the Suez Canal in 1869, says [Kennie Ting](/vol-13/issue-2/jul-sep-2017/east-of-suez), changed the face of maritime history forever and led to the advent of leisure travel to distant lands. On their journeys east, perhaps some of these Western travellers were able to separate fact from fiction; to see the exotic lands “East of Suez” through their own eyes, instead of relying on apocryphal tales of the Orient.
 
-With all the fake news circulating these days – presented in ways that seem so *real* – one never knows what is the truth anymore. While the volume and speed at which news is disseminated in the modern world is unprecedented, lying (or whatever euphemism one might use), according to [Farish A. Noor](/issue-2/jul-sep-2017/fake-news), is as old as history.
+With all the fake news circulating these days – presented in ways that seem so *real* – one never knows what is the truth anymore. While the volume and speed at which news is disseminated in the modern world is unprecedented, lying (or whatever euphemism one might use), according to [Farish A. Noor](/vol-13/issue-2/jul-sep-2017/fake-news), is as old as history.
 
-On the subject of history − built history, specifically − Swan & Maclaren, the oldest architectural practice in Singapore celebrates its 125th anniversary this year. Started in 1892 by two Scotsmen, Swan & Maclaren was responsible for many of the city’s heritage buildings. What is a fact for certain is that the architectural firm was among the first to pioneer the Modernist architectural movement in Singapore, as [Julian Davison](/vol-13/issue-2/jul-sep-2017/swan-and-maclaren) tells us.
+On the subject of history − built history, specifically − Swan &amp; Maclaren, the oldest architectural practice in Singapore celebrates its 125th anniversary this year. Started in 1892 by two Scotsmen, Swan &amp; Maclaren was responsible for many of the city’s heritage buildings. What is a fact for certain is that the architectural firm was among the first to pioneer the Modernist architectural movement in Singapore, as [Julian Davison](/vol-13/issue-2/jul-sep-2017/swan-and-maclaren) tells us.
 
 More echoes of the past can be found in the following features: [Bonny Tan](/vol-13/issue-2/jul-sep-2017/an-unusual-ambition) traces the lives of little-known female librarians in pre-war Singapore; [Juffri Bin Supa’at](/vol-13/issue-2/jul-sep-2017/alam-puisi-singapura) and [Sundari Balasubramaniam](/vol-13/issue-2/jul-sep-2017/short-stories-tamil) take a look at the post-1965 Malay publishing scene and Tamil short story writers between 1936 and 1960, respectively; [Makeswary Periasamy](/vol-13/issue-2/jul-sep-2017/heaven-earth-brother) highlights the National Library’s collection of rare early books and documents on Chinese secret societies; and [Sharen Chua](/vol-13/issue-2/jul-sep-2017/50years-of-ns) previews books on National Service from our Legal Deposit Collection − this being the year that marks 50 Years of National Service in Singapore.
 

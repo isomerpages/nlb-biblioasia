@@ -33,7 +33,7 @@ This is the dramatic introduction to “The Cruise of the Krait” which retells
 
 *   [Collection Focus: A Comic Book Version of Operation Jaywick](/vol-19/issue-2/jul-sep-2023/operation-jaywick-comic-book-victor/)
     
-*   [Double Tenth Incident](%5Bhttps://www.nlb.gov.sg/main/article-detail?cmsuuid=9f82451d-2e94-4f73-be28-295636c6eb3b%5D)
+*   [Double Tenth Incident](https://www.nlb.gov.sg/main/article-detail?cmsuuid=9f82451d-2e94-4f73-be28-295636c6eb3b)
     
 *   [Elizabeth Choy](https://www.nlb.gov.sg/main/article-detail?cmsuuid=73f538cb-c39c-409d-b05e-f7c78480c606)
     

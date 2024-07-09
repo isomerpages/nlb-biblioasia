@@ -4,6 +4,7 @@ date: 2018-04-30
 permalink: /vol-14/issue-1/apr-jun-2018/publications-of-past/
 image: /images/Vol-14-issue-1/first-issues/First1.JPG
 layout: post
+variant: markdown
 ---
 #### Launch issues can make or break a new publication. **Barbara Quek** shares highlights of first issues from NLB’s Legal Deposit Collection.
 
@@ -25,7 +26,7 @@ Published with a discerning audience in mind, the editor of *Folk Scene Singapor
 
 #### **Pages from the Past**
 
-First-issue publications evoke memories of people, places and events from times past. The tabloid format was the norm for several early student and community-focused publications, including [*The Student Times*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200085304) (1960), [*Students’ Digest Illustrated*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200080195) (1967) and [*Busway*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5041547) (1975). There were also relatively more B4-size publications back then, such as [*The Journal of the Singapore Society of Architects*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200086051) (1923), [*Singapore Illustrated Weekly*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200072778) (1947), [*Her World*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4184741) (1960), [*V.I.P. Magazine: The Prestige Magazine*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200085267) (1966), [*The Travellers’ Palm*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200071718) (1967) and [*National Pioneer*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4184732) (1969). Black-and-white pages featured more prominently as colour printing was very costly in those days.
+First-issue publications evoke memories of people, places and events from times past. The tabloid format was the norm for several early student and community-focused publications, including [*The Student Times*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200085304) (1960), *Students’ Digest Illustrated* (1967) and [*Busway*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5041547) (1975). There were also relatively more B4-size publications back then, such as [*The Journal of the Singapore Society of Architects*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200086051) (1923), [*Singapore Illustrated Weekly*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200072778) (1947), [*Her World*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4184741) (1960), [*V.I.P. Magazine: The Prestige Magazine*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200085267) (1966), [*The Travellers’ Palm*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200071718) (1967) and [*National Pioneer*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4184732) (1969). Black-and-white pages featured more prominently as colour printing was very costly in those days.
 
 Many of these old magazines have either ceased publication, changed names or acquired new publishers. Sustaining a publication is often more challenging than publishing and launching a new one, and we applaud those that have stood the test of time. Although quite different in contents, style and readership, *National Pioneer*, forerunner of today’s *Pioneer* magazine of the Singapore Armed Forces, and *Her World*, Singapore’s oldest women’s magazine, have survived to this day.
 
@@ -74,7 +75,7 @@ Touted as Malaysia’s skin diving, boating and skiing magazine, the publication
 <br><br>
 <img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-1/first-issues/First10.JPG"><br>
 First published in January 1977, the magazine covered a wide array of topics on the business landscape in Singapore. A feature article in the inaugural issue reported that the only way to ease traffic congestion in Singapore is to build a mass rapid transit system. Already, more than 40 years ago, the city was suffering from a problem of too many vehicles.<br><br>
-	<b>Development & Construction</b> (Vol. 1, No. 1, January/February 1976)
+	<b>Development &amp; Construction</b> (Vol. 1, No. 1, January/February 1976)
 <br><br>
 <img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-1/first-issues/First11.JPG"><br>
 Targeted at professionals in the building and construction industry, the 1976 inaugural issue of this trade publication included a special feature on the 50-storey International Plaza at Anson Road. This is one of Singapore’s first mixed-use developments, comprising both residential and commercial units. The building – at a height of 190 metres – was one of the three tallest in Singapore at the time.<br><br>
@@ -90,12 +91,11 @@ Helmed by Violet Oon, the grande dame of Singaporean cooking, the monthly magazi
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 <b>WHAT IS THE LEGAL DEPOSIT?</b><br><br>
-One of the statutory functions of the National Library Board Act is Legal Deposit. Under the act, all publishers, commercial or otherwise, are required by law to deposit two copies of every work published in Singapore with the National Library within four weeks of its publication. The Legal Deposit function ensures that Singapore’s published heritage is preserved for future generations. Legal Deposit also acts as a repository for published materials, providing exposure via the online catalogue, [PublicationSG](catalogue.nlb.gov.sg/publicationsg). For more information, please visit [www.nlb.gov.sg/Deposit](www.nlb.gov.sg/Deposit).
-</span>
+One of the statutory functions of the National Library Board Act is Legal Deposit. Under the act, all publishers, commercial or otherwise, are required by law to deposit two copies of every work published in Singapore with the National Library within four weeks of its publication. The Legal Deposit function ensures that Singapore’s published heritage is preserved for future generations. Legal Deposit also acts as a repository for published materials, providing exposure via the online catalogue, <a href="https://www.nlb.gov.sg/main/services/Reference-and-Research-Services/PublicationSG/">https://www.nlb.gov.sg/main/services/Reference-and-Research-Services/PublicationSG/</a>[PublicationSG](catalogue.nlb.gov.sg/publicationsg). For more information, please visit <a href="https://www.nlb.gov.sg/main/services/For-Publishers/Legal-Deposit/">https://www.nlb.gov.sg/main/services/For-Publishers/Legal-Deposit/</a></span>
 <br>
 <div style="background-color: white;">
 <img src="/images/Vol-14-issue-1/first-issues/First14.jpg" style="width: 100px; height: 100px;">
-<b>Barbara Quek</b> is a Senior Librarian with the National Library, Singapore. She is currently with the Advocacy & Statutory Function group that oversees the compliance of Legal Deposit in Singapore.
+<b>Barbara Quek</b> is a Senior Librarian with the National Library, Singapore. She is currently with the Advocacy &amp; Statutory Function group that oversees the compliance of Legal Deposit in Singapore.
 </div>
 
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-1/apr-jun-2018/"><center>Back to Issue</center></a>
@@ -103,7 +103,7 @@ One of the statutory functions of the National Library Board Act is Legal Deposi
 #### **NOTES**
 [^1]:McKay, J. (2006). [*The magazines handbook*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12711104) (p. 60). London; New York: Routledge. (Call no.: R052 MAC).
 [^2]:*Meet Violet, the chef*. Retrieved from Violet Oon Singapore website; Oon, V. (1987, January). Mouthpiece. [*The Food paper*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4396815) (p. 1). Singapore: Food Paper. (Call no.: RSING q641.095957 FP).
-[^3]:Editorial. (1964). [*Tumasek*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200074065) (p. 3). Singapore: Tumasek Trust. (Call no.: RCLOS 805 T).
+[^3]:Editorial. (1964). [*Tumasek*](https://catalogue.nlb.gov.sg/search/card?recordId=5053647) (p. 3). Singapore: Tumasek Trust. (Call no.: RCLOS 805 T).
 [^4]:Editorial. (1967, November). [*Folk scene Singapore*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12515068)*, 1* (1), p. 3. Singapore: J. E. Wee for Folk Scene Singapore. (Call no.: RSING 781.62 FSS).
 [^5]:Meadows, D. S. (1923, December). The mistress art. [*The Journal of the Singapore Society of Architects*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6857506), p. 13. (Call no.; RRARE 720.95957 JSSA; Microfilm no.: NL16646).
 [^6]:Thumbing through… (1960, July). [*Her world*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4184741)*, 1*, p. 3. Singapore: Straits Times Press (Malaya) Ltd. (Call no.: RSING 052 HW).

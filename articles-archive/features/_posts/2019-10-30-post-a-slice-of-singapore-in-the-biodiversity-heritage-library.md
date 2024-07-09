@@ -3,13 +3,14 @@ title: A Slice of Singapore in the Biodiversity Heritage Library
 date: 2019-10-30
 permalink: /vol-15/issue-3/oct-dec-2019/biodiversityheritage/
 layout: post
+variant: markdown
 ---
 #### With climate change on the rise, access to research on biodiversity and natural history is all the more important. **Lim Tin Seng** tells us about the Biodiversity Heritage Library.
 
 <img src="/images/Vol-15-issue-3/a-slice-of-sg-biodiversity/Biodiversity1.JPG">
 <div style="background-color: white;">(Left) The Yellow Horn Poppy reproduced from Boswell, J.T. (Ed.) (1863). <i>English Botany, or, Coloured Figures of British Plants</i> (Vol. I). London: Robert Hardwicke. <br>(Right) The Rose of Venezuela reproduced from Dalton, H. (1880). <i>Curtis’s Botanical Magazine (Vol. 106). London: L. Reeve and Co.</i></div>
 
-The Biodiversity Heritage Library (BHL) is the world’s largest open access digital library for biodiversity resources. It was created in 2006 when a group of leading natural history and botanical libraries came together to make their digitised collections available in a single online repository at [www.biodiversitylibrary.org](www.biodiversitylibrary.org).
+The Biodiversity Heritage Library (BHL) is the world’s largest open access digital library for biodiversity resources. It was created in 2006 when a group of leading natural history and botanical libraries came together to make their digitised collections available in a single online repository at <a href="https://www.biodiversitylibrary.org/">https://www.biodiversitylibrary.org/).</a>
 
 The collections of the United States-based BLH are drawn from an international consortium of more than 120 natural history, botanical, research and national libraries, including renowned institutions such as the Smithsonian Libraries in Washington D.C., the American Museum of Natural History in New York, the Natural History Museum in London and the Royal Botanic Gardens in Kew, London.
 
@@ -39,10 +40,10 @@ Some of the collections in the BHL are categorised into themes to help users nav
 
 * Titles in the paleontology collection were selected from the Vertebrate Palaeontology Library in the Smithsonian Libraries. This 506-volume collection contains close to 380 book and journal titles on physical geography, stratigraphy, systematic paleontology and paleozoology.
 * The “Monsters are Real” collection features the fascinating stories, people and animals that have inspired mythical beasts and creatures such as the sea serpent, kraken, hydra, mermaid and the leviathan. This small but unique collection – with just 34 volumes from 31 titles – reveals that history’s most fearsome legendary monsters are actually based on real-life animals.
-* Other notable BHL collections include “Rarest of the Rare”, which contains some of the rarest natural history works; “Antarctic Exploration & Discovery”, which comprises rare books, journals and field diaries relating to the exploration and biodiversity of the Antarctica; and the comprehensive “A History of Cats: 1858–1922” from the Library of Congress.
+* Other notable BHL collections include “Rarest of the Rare”, which contains some of the rarest natural history works; “Antarctic Exploration &amp; Discovery”, which comprises rare books, journals and field diaries relating to the exploration and biodiversity of the Antarctica; and the comprehensive “A History of Cats: 1858–1922” from the Library of Congress.
 
 <img style="width: 310px; height: 400px;" src="/images/Vol-15-issue-3/a-slice-of-sg-biodiversity/Biodiversity10.JPG">
-<div style="background-color: white;">The Javan slow Ioris reproduced from Forbes, H.O. (1894). <i>A Hand-book to the Primates</i> (Vol. I). London: W.H. Allen & Co., Limited.</div>
+<div style="background-color: white;">The Javan slow Ioris reproduced from Forbes, H.O. (1894). <i>A Hand-book to the Primates</i> (Vol. I). London: W.H. Allen &amp; Co., Limited.</div>
 
 #### **Singapore and the Biodiversity Heritage Library**
 
@@ -63,7 +64,7 @@ These titles showcase the flora and fauna of Singapore and Southeast Asia. Compi
 Key examples include the three-volume <i>Gleanings of Natural History</i> (1758–64),[^1] which is the most downloaded book from BHL Singapore; <i>Zoological Researches in Java and the Neighbouring Islands</i> (1824);[^2] <i>Contributions to the Natural History of Labuan, and the Adjacent Coasts of Borneo</i> (1855);[^3] <i>The Birds of Singapore Island</i> (1927);[^4] and <i>The Butterflies of Malacca</i> (1879).[^5]
 	<br><br>
 	<img style="width: 500px; height: 330px;" src="/images/Vol-15-issue-3/a-slice-of-sg-biodiversity/Biodiversity6.JPG">	<br>
-	<img style="width: 500px; height: 330px;" src="/images/Vol-15-issue-3/a-slice-of-sg-biodiversity/Biodiversity7.JPG">The “BHL Singapore” collection comprises a huge variety of historical publications relating to the biodiversity of Singapore and the region. Many are beautifully illustrated with drawings of different species of plants and animals. Shown here are illustrations of the elephant and rhinoceros. <i>Images reproduced from Edwards, G. (1758). Gleanings of Natural History, Exhibiting Figures of Quadrupeds, Birds, Insects, Plants, &c (Part I). London: Royal College of Physicians.</i>
+	<img style="width: 500px; height: 330px;" src="/images/Vol-15-issue-3/a-slice-of-sg-biodiversity/Biodiversity7.JPG">The “BHL Singapore” collection comprises a huge variety of historical publications relating to the biodiversity of Singapore and the region. Many are beautifully illustrated with drawings of different species of plants and animals. Shown here are illustrations of the elephant and rhinoceros. <i>Images reproduced from Edwards, G. (1758). Gleanings of Natural History, Exhibiting Figures of Quadrupeds, Birds, Insects, Plants, &amp;c (Part I). London: Royal College of Physicians.</i>
 </span>
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
@@ -90,12 +91,20 @@ Another significant title is <i>Travels in the East Indian Archipelago</i> (1868
 <a href="https://biblioasia.nlb.gov.sg/vol-15/issue-3/oct-dec-2019/"><center>Back to Issue</center></a>
 
 #### **NOTES**
-[^1]:Edwards, G. (1758).  [*Gleanings of natural history, exhibiting figures of quadrupeds, birds, insects, plants, &c*](http://eresources.nlb.gov.sg/printheritage/detail/8697ac82-90e4-4eba-9f85-94ddd0c68935.aspx) (Part I). London: The Royal College of Physicians. Retrieved from BookSG; Edwards, G. (1760).  [*Gleanings of natural history, exhibiting figures of quadrupeds, birds, fishes, insects, &c*](http://eresources.nlb.gov.sg/printheritage/detail/612a4606-9d51-47d0-b20a-4e4d32638871.aspx) (Part II). The Royal College of Physicians. Retrieved from BookSG; Edwards, G. (1764). [*Gleanings of natural history, containing figures of quadrupeds, birds, insects, plants, &c*](http://eresources.nlb.gov.sg/printheritage/detail/6ba65f02-7772-40ad-83c3-fdc1d588de06.aspx) (Part III). London: The Royal College of Physicians. Retrieved from BookSG.
-[^2]:Horsfield, T. (1824). [*Zoological researches in Java, and the neighbouring islands*](http://eresources.nlb.gov.sg/printheritage/detail/c82861cf-b4ab-4441-876c-62eda77ac466.aspx). London: Kingsbury & Allen. Retrieved from BookSG.
-[^3]:Motley, J. (1855). [*Contributions to the natural history of Labuan, and the adjacent coasts of Borneo*](http://eresources.nlb.gov.sg/printheritage/detail/592f4438-6dc2-4633-a469-2a68ab92ee24.aspx). London: John van Voorst. Retrieved from BookSG.
-[^4]:Bucknill, J.A.S. (1927). [*The birds of Singapore island*](http://eresources.nlb.gov.sg/printheritage/detail/a2e7a926-d7b5-46f3-b02b-c1e95af98da2.aspx). Singapore: Government Printing Office. Retrieved from BookSG.
-[^5]:Butler, A.G. (1879). [*The butterflies of Malacca*](http://eresources.nlb.gov.sg/printheritage/detail/f708dd35-6f89-43a3-b1b2-3bb7e8a74fc4.aspx). London: The Society. Retrieved from BookSG.
+[^1]:Edwards, G. (1758).  [*Gleanings of natural history, exhibiting figures of quadrupeds, birds, insects, plants, &amp;c*](https://www.nlb.gov.sg/main/book-detail?cmsuuid=8697ac82-90e4-4eba-9f85-94ddd0c68935) (Part I). London: The Royal College of Physicians. Retrieved from BookSG; Edwards, G. (1760).  [*Gleanings of natural history, exhibiting figures of quadrupeds, birds, fishes, insects, &amp;c*](https://www.nlb.gov.sg/main/book-detail?cmsuuid=612a4606-9d51-47d0-b20a-4e4d32638871) (Part II). The Royal College of Physicians. Retrieved from BookSG; Edwards, G. (1764). [*Gleanings of natural history, containing figures of quadrupeds, birds, insects, plants, &amp;c*](https://www.nlb.gov.sg/main/book-detail?cmsuuid=6ba65f02-7772-40ad-83c3-fdc1d588de06) (Part III). London: The Royal College of Physicians. Retrieved from BookSG.
+[^2]:Horsfield, T. (1824). [*Zoological researches in Java, and the neighbouring islands*](https://www.nlb.gov.sg/main/book-detail?cmsuuid=c82861cf-b4ab-4441-876c-62eda77ac466). London: Kingsbury &amp; Allen. Retrieved from BookSG.
+[^3]:Motley, J. (1855). [*Contributions to the natural history of Labuan, and the adjacent coasts of Borneo*](https://www.nlb.gov.sg/main/book-detail?cmsuuid=592f4438-6dc2-4633-a469-2a68ab92ee24). London: John van Voorst. Retrieved from BookSG.
+[^4]:Bucknill, J.A.S. (1927). [*The birds of Singapore island*](https://www.nlb.gov.sg/main/book-detail?cmsuuid=a2e7a926-d7b5-46f3-b02b-c1e95af98da2). Singapore: Government Printing Office. Retrieved from BookSG.
+[^5]:Butler, A.G. (1879). [*The butterflies of Malacca*](https://www.nlb.gov.sg/main/book-detail?cmsuuid=f708dd35-6f89-43a3-b1b2-3bb7e8a74fc4). London: The Society. Retrieved from BookSG.
 [^6]:*Annual report of the meteorological observations in the Straits Settlements for the year 1890.* (1891). Singapore: Government Printing Office. This publication is found in the collection of the Singapore Botanic Gardens.
-[^7]:Skinner, A.M. (1884). [*A geography of the Malay Peninsula and surrounding countries in three parts. Part 1. Malay Peninsula, Borneo.*](http://eresources.nlb.gov.sg/printheritage/detail/b49a2b64-8851-4b0e-85a6-4e78a05654a7.aspx) Singapore: [s.n.]. Retrieved from BookSG.
-[^8]:Wilkinson, R.J. (1910). [*The aboriginal tribes*](http://eresources.nlb.gov.sg/printheritage/detail/7522cff6-2073-461e-8ec7-85f597f6dc93.aspx). Kuala Lumpur: F.M.S. Government Press. Retrieved from BookSG.
-[^9]:Bickmore, A.S. (1868). [Travels in the East Indian Archipelago](http://eresources.nlb.gov.sg/printheritage/detail/113e91ec-c265-4715-89d7-d45c6188356c.aspx). London: J. Murray. Retrieved from BookSG.
+[^7]:Skinner, A.M. (1884). [*A geography of the Malay Peninsula and surrounding countries in three parts. Part 1. Malay Peninsula, Borneo.*](https://www.nlb.gov.sg/main/book-detail?cmsuuid=b49a2b64-8851-4b0e-85a6-4e78a05654a7) Singapore: [s.n.]. Retrieved from BookSG.
+[^8]:Wilkinson, R.J. (1910). [*The aboriginal tribes*](https://www.nlb.gov.sg/main/book-detail?cmsuuid=7522cff6-2073-461e-8ec7-85f597f6dc93). Kuala Lumpur: F.M.S. Government Press. Retrieved from BookSG.
+[^9]:Bickmore, A.S. (1868). [Travels in the East Indian Archipelago](https://www.nlb.gov.sg/main/book-detail?cmsuuid=113e91ec-c265-4715-89d7-d45c6188356c). London: J. Murray. Retrieved from BookSG.
+
+
+
+
+
+
+
+from BookSG.

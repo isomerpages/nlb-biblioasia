@@ -19,7 +19,8 @@ From Desker Road to Xilin Avenue, street signs around Singapore recall the lives
 <img src="/images/Online%20Only%20Articles/Interview%20with%20Victor%20Savage/middle_road_topic.png" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/singapore-speedway-motorcylce-racing">A Quick History of the Singapore Speedway</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/singapore-speedway-motorcycle-racing/">A Quick History of the Singapore Speedway</a>
+
 The history of the Singapore Speedway was as fast and furious as the races it hosted.
 
 <img src="/images/Vol%2020%20Issue%201/Singapore%20Speedway/speedway_topic.png" style="width:80%;">
@@ -201,20 +202,20 @@ St John’s Island was once home to new migrants, opium addicts and political de
 
 Between the mid-1930s and 1960, only four swimming pool complexes in Singapore were open for public use.&nbsp;**Jocelyn Lau**&nbsp;speaks to people who remember these pools.
 
-<img src="/images/Vol-13-issue-4/memory-laps/01_memorylaps.png">
+<img src="/images/Vol-13-issue-4/memory-laps/01_memorylaps.png" style="width:80%;">
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-4/jan-mar-2018/living-up-at-capitol/">Living it Up at the Capitol</a>
 
 Capitol Theatre was the premier venue for film and stage when it opened in 1930.&nbsp;**Bonny Tan**&nbsp;uses oral history recordings to piece together pre-war narratives of the theatre.
 
-<img src="/images/Vol-13-issue-4/living-it-up-at-the-capitol/01_livingcapitol.jpg">
+<img src="/images/Vol-13-issue-4/living-it-up-at-the-capitol/01_livingcapitol.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-3/oct-dec-2017/ramblingarndbrasbasah/">Rambling Around Bras Basah</a>
 
 It’s just a street to many, but for&nbsp;**Yu-Mei Balasingamchow**, the Bras Basah area is emblematic of how redevelopment can sometimes radically change the identity of an area.
 
-<img src="/images/Vol-13-issue-3/rambling-around-bras-basah/01_brasbasah.jpg">
+<img src="/images/Vol-13-issue-3/rambling-around-bras-basah/01_brasbasah.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-3/oct-dec-2017/micro-india/">Micro India: The Chettiars of Market Street</a>
@@ -244,6 +245,4 @@ Thanks to land reclamation, the tiny red dot has broadened its shores substantia
 The much-loved NCO Club on Beach Road was a favourite downtown R &amp; R spot for off-duty soldiers.&nbsp;**Francis Dorai**&nbsp;charts its history.
 
 <img src="/images/Vol-12-issue-4/from-britannia-to-nco-club/1-britannia-nco.jpg" style="width:80%;">
-<hr>
-
 <hr>
