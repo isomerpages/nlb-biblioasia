@@ -12,6 +12,7 @@ Mun San Fook Tuck Chee Temple is the home of the Fire Dragon in Singapore.
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/multilingual-languages-malayan-writing-sg/">A Plethora of Tongues: Multilingualism in 1950s Malayan Writing</a>
+
 From the melting pot of cultures and languages in postwar Singapore emerged the search for a Malayan identity, negotiated and presented through multilingualism in Malayan literature.
 
 <img src="/images/Online%20Only%20Articles/A%20Plethora%20of%20Tongues/plethora_topic.png" style="width:80%;">  
