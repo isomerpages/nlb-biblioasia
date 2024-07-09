@@ -87,7 +87,7 @@ Mangroves are an integral part of the marine ecosystem.&nbsp;**Ang Seow Leng**&n
 
 The reefs that fringed Singapore’s coastline and islands have served for centuries as maritime markers, fishing grounds and even homes for island communities.&nbsp;**Marcus Ng**&nbsp;rediscovers the stories that lurk beneath the waves.
 
-<img src="/images/Vol-13-issue-1/through-time-and-tide/01_timeandtide.png" style="width:90%;">
+<img src="/images/Vol-13-issue-1/through-time-and-tide/01_timeandtide.png" style="width:80%;">
 <hr>
 
 
