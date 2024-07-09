@@ -62,7 +62,7 @@ Two remarkable athletes served up a storm to make Malaya a tennis power to conte
 
 **Sharen Chua**&nbsp;shares highlights of commemorative sports publications from the National Library’s Legal Deposit Collection.
 
-<img src="/images/Vol-14-issue-2/sporting-glory/Glory1.jpg">
+<img src="/images/Vol-14-issue-2/sporting-glory/Glory1.jpg" style="width:80%;">
 <hr>
 
 <hr>
