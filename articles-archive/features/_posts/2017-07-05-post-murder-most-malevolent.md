@@ -4,6 +4,7 @@ date: 2017-07-05
 permalink: /vol-13/issue-2/jul-sep-2017/murdermostmalevolent/
 image: /images/Vol-13-issue-2/murder-most-malevolent/01_murder.png
 layout: post
+variant: markdown
 ---
 #### Sunny Ang, Mimi Wong, Adrian Lim and John Martin Scripps are some of the most cold-blooded murderers in Singapore’s crime history. **Sharon Teng** revisits their horrific acts.
 
@@ -225,9 +226,9 @@ To read up on these cases and others, please refer to the books listed below at 
 
 #### **REFERENCES**
 
-Campbell, J. H., & DeNevi, D. (2004). *[Profilers: Leading investigators take you inside the criminal mind](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12457641)*. Amherst, N.Y.: Prometheus Books. (Call no.: R 363.25 PRO)
+Campbell, J. H., &amp; DeNevi, D. (2004). *[Profilers: Leading investigators take you inside the criminal mind](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12457641)*. Amherst, N.Y.: Prometheus Books. (Call no.: R 363.25 PRO)
 
-Holmes, R. M., & Holmes, S. T. (1996). *[Profiling violent crimes: An investigative tool](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7661205)*. Thousand Oaks: Sage Publications. (Call no.: R 363.25 HOL)
+Holmes, R. M., &amp; Holmes, S. T. (1996). *[Profiling violent crimes: An investigative tool](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7661205)*. Thousand Oaks: Sage Publications. (Call no.: R 363.25 HOL)
 
 Stone, M. (2009). *[The anatomy of evil](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13214228)*. Amherst, N.Y.: Prometheus Books. (Call no.: R 364.3 STO)
 
@@ -235,9 +236,9 @@ Stone, M. (2009). *[The anatomy of evil](http://eservice.nlb.gov.sg/item_holding
 
 [Bargirl’s last dive – boatman](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650506.2.69). (1965, May 6). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
 
-Chia, P., Sam, J., & Hwang, T. F. (1965, May 19). [Judge: These links in the chain bind the accused tightly](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650519-1.2.61). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
+Chia, P., Sam, J., &amp; Hwang, T. F. (1965, May 19). [Judge: These links in the chain bind the accused tightly](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650519-1.2.61). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
 
-Chia, P., Sam, J., & Hwang, T. F. (1965, May 19). [First of the 16 links: ‘A powerful motive…’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650519.2.64) *The Straits Times*, p. 10. Retrieved from NewspaperSG.
+Chia, P., Sam, J., &amp; Hwang, T. F. (1965, May 19). [First of the 16 links: ‘A powerful motive…’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650519.2.64) *The Straits Times*, p. 10. Retrieved from NewspaperSG.
 
 [Discharged man re-arrested on murder charge](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19641231.2.21). (1964, December 31). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
@@ -294,7 +295,7 @@ Chao, T. Z. (1990, September 5). [Solving bathroom murder](http://eresources.nlb
 
 [Star witness Chieko proved the killing: Seow.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19701208-1.2.92) (1970, December 8). *The Straits Times*, p. 17. Retrieved from NewspaperSG.
 
-Wee, B. H., & Mohan, B. (1973, July 27). [Mimi Wong and husband hanged](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19730727-1.2.11). *New Nation*, p. 1. Retrieved from NewspaperSG.
+Wee, B. H., &amp; Mohan, B. (1973, July 27). [Mimi Wong and husband hanged](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19730727-1.2.11). *New Nation*, p. 1. Retrieved from NewspaperSG.
 
 **Adrian Lim**
 
@@ -302,7 +303,7 @@ Wee, B. H., & Mohan, B. (1973, July 27). [Mimi Wong and husband hanged](http://e
 
 [Adrian Lim story to be basis of $1.7 m film](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19901114.2.37.14). (1990, November 14). *The Straits Times*, p. 30. Retrieved from NewspaperSG.
 
-Davidson, B. & Chua, M. (1983, April 5). [I killed to get even with the world](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830405-1.2.46). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
+Davidson, B. &amp; Chua, M. (1983, April 5). [I killed to get even with the world](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830405-1.2.46). *The Straits Times*, p. 12. Retrieved from NewspaperSG.
 
 [But it’s one small step forward](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19911130-1.2.72.3.4.3). (1991, November 30). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 
@@ -314,7 +315,7 @@ Goh, J. (1991, November 25). [Medium Rare – high on local colour, low on suspe
 
 Infocomm Media Development Authority. (2015, March). *List of Singapore movies (1991–2016)*. Retrieved April 1, 2017 from Info-communications Media Development Authority website.
 
-John, A. (2016). *[Unholy trinity: The Adrian Lim ‘ritual’ child killings](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200123867)*. Singapore: Marshall Cavendish Editions. (Call no.: RSING 364.1523095957 JOH)
+John, A. (2016). *[Unholy trinity: The Adrian Lim ‘ritual’ child killings](https://catalogue.nlb.gov.sg/search/card?recordId=202361594)*. Singapore: Marshall Cavendish Editions. (Call no.: RSING 364.1523095957 JOH)
 
 Kerk, C. (1997, April 26). [Adrian Lim revisited](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19970426-1.2.27.5). *The Business Times*, p. 20. Retrieved from NewspaperSG.
 
@@ -366,10 +367,10 @@ Tan, O. B. (1996, April 20). [Martin hanged, leaving behind mystery over another
 
 [^3]:Singapore Police Force. (2016, September). *Annual crime brief 2015*. (pp. 1, 5). Retrieved from Singapore Police Force website; Singapore Police Force. (2015). *Singapore Police Force Annual 2015* (pp. 83–84). Retrieved from Singapore Police Force website; Nokman, F. S. (2016, December 20). *Crime index goes down, but perception of safety remains low*. Retrieved from New Straits Times website; *United States crime rates 1960 – 2015*. (2015). Retrieved from Disaster Center website. 
  
-[^4]:Chia, P., & Sam, J. (1965, May 18). [Jury told: Dismiss this fallacy completely from your minds](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650518.2.73.aspx). *The Straits Times*, p. 9. Retrieved from NewspaperSG. 
+[^4]:Chia, P., &amp; Sam, J. (1965, May 18). [Jury told: Dismiss this fallacy completely from your minds](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19650518.2.73.aspx). *The Straits Times*, p. 9. Retrieved from NewspaperSG. 
 
 [^5]:In court, Adrian revealed that he had up to as many as 40 “holy wives” whom he had married in front of the altar at his flat, with the altar idols as the only witnesses to the matrimonial ceremony. 
 
 [^6]:The 62-day Pulau Senang trial in 1963 holds the record for being the longest trial in Singapore. Eighteen among the 59 criminals charged were convicted of rioting and arson at the experimental island penal colony and sentenced to be hanged. 
 
-[^7]:Yaw, Y. C. (1995, October 4). [‘This is a perfect instrument for deboning’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19951004-1.2.16.1.aspx?q=who+is+john+martin&page=1&sort=relevance&token=martin%2cjohn%2cis%2cwho&sessionid=c3ff50b418ba4612908954dd22ce401e). *The New Paper*, p. 10. Retrieved from NewspaperSG
+[^7]:Yaw, Y. C. (1995, October 4). [‘This is a perfect instrument for deboning’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19951004-1.2.16.1.aspx?q=who+is+john+martin&amp;page=1&amp;sort=relevance&amp;token=martin%2cjohn%2cis%2cwho&amp;sessionid=c3ff50b418ba4612908954dd22ce401e). *The New Paper*, p. 10. Retrieved from NewspaperSG
