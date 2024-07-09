@@ -127,7 +127,7 @@ Be sure to catch this exhibition of old Malay manuscripts and printed books from
 
 [^10]:Gallop, 1990, pp. 92–93.
 
-[^11]:National Library Board. (2008). *[Mission Press](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1074_2008-12-20.html)* written by Lim, Irene. Retrieved from Singapore Infopedia website.
+[^11]:National Library Board. (2008). *[Mission Press](https://www.nlb.gov.sg/main/article-detail?cmsuuid=e6d58920-6a12-44fa-b075-147611a4a1e9)* written by Lim, Irene. Retrieved from Singapore Infopedia website.
 
 [^12]:Gallop, 1990, pp. 98, 105.
 
