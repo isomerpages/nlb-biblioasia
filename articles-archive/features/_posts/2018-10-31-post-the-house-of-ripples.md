@@ -4,8 +4,9 @@ date: 2018-10-31
 permalink: /vol-14/issue-3/oct-dec-2018/the-house-of-ripples/
 image: /images/Vol-14-issue-3/the-house-of-ripples/Ripples1.JPG
 layout: post
+variant: markdown
 ---
-#### **Martina Yeo** and **Yeo Kang** Shua piece together historical details of the little-known River House in Clarke Quay and discover that it was once a den for illicit triad activity.
+#### **Martina Yeo** and **Yeo Kang Shua** piece together historical details of the little-known River House in Clarke Quay and discover that it was once a den for illicit triad activity.
 
 <img style="width: 650px; height: 410px;" src="/images/Vol-14-issue-3/the-house-of-ripples/Ripples1.JPG">
 <div style="background-color: white;">In 1993, River House was restored – sadly with some of its original Teochew characteristics lost in the process – and rented out as a commercial space. <i>Courtesy of Urban Redevelopment Authority.</i></div>
@@ -25,7 +26,7 @@ River House has had different addresses over the course of its history: at first
 
 River House occupied eight parcels of land, five of which form the grounds of the main building. The land leases for these five plots were issued by the British East India Company to two different people between 23 July 1851 and 1 November 1855. The leases for the remaining three plots, which stretched from the main building to the now expunged vehicular road known as Clarke Quay, were issued only on 26 October 1881. All were 99-year leases.
 
-An 1863 photograph taken by Sachtler & Co. and another dating from the mid-1860s show the land being occupied by a two-storey masonry building and several smaller single-storey houses. Surrounding the structures were swampy grounds with houses on stilts clearly visible on the opposite river bank.
+An 1863 photograph taken by Sachtler &amp; Co. and another dating from the mid-1860s show the land being occupied by a two-storey masonry building and several smaller single-storey houses. Surrounding the structures were swampy grounds with houses on stilts clearly visible on the opposite river bank.
 
 The two-storey building in these photographs cannot be River House as it is stylistically different in form and much smaller than the building we see today. In fact, River House had not yet been built in the 1860s. It was only in July 1870 that the five land leases of the main house were consolidated under a single ownership comprising three individuals. This possibly marks the earliest date of construction. Given that the earliest building plans of private buildings held by the National Archives of Singapore date from 1884 and that no original building plan of River House has ever been found, it is possible to surmise that the house was likely built sometime between 1870s and 1883.
 
@@ -87,7 +88,7 @@ In addition, the presence of a void between the plaque and the lintel is unique 
 
 By 1890, with the remaining owners – Teng Seng Chiang and Koh Hak Yeang – having passed away, River House came under the sole ownership of Lee Ah Hoey. As mentioned earlier, he had mortgaged the house in February 1890 to Hermann Naeher, a German who later became an honorary citizen of Lindau in southern Germany.[^6]
 
-When Lee defaulted on the mortgage, the house was sold to Arthur William Stiven of Stiven & Co. on 20 June 1891. This took place before Lee was deported for the second time in October 1892. Stiven subsequently sold the property to Tan Lock Shuan (陈禄选) on 7 July 1896.[^7] It is unclear what the house was used for under Stiven’s ownership, although his company was listed as “Merchants and Commission Agents” in the 1893 *Singapore and Straits Directory*, with offices at Boat Quay and Battery Road.[^8]
+When Lee defaulted on the mortgage, the house was sold to Arthur William Stiven of Stiven &amp; Co. on 20 June 1891. This took place before Lee was deported for the second time in October 1892. Stiven subsequently sold the property to Tan Lock Shuan (陈禄选) on 7 July 1896.[^7] It is unclear what the house was used for under Stiven’s ownership, although his company was listed as “Merchants and Commission Agents” in the 1893 *Singapore and Straits Directory*, with offices at Boat Quay and Battery Road.[^8]
 
 Soon after Tan Lock Shuan acquired the property, he engaged an architect to design and build a gambier shed on the open space in front of the house. This open space made up the remaining three land parcels of River House, which were acquired by Lee Ah Hoey and Teng Seng Chiang in 1881. The shed remained a feature of River House for almost a century until it was demolished in the early 1990s when Clarke Quay was conserved as a heritage area.
 
@@ -155,13 +156,13 @@ Dunman, T. (1865) Letter to the Secretary to Government Straits Settlements Sing
 
 [Friday, 16th September](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18700923-1.2.14.6). (1870, September 23). *Straits Times Overland Journal*, p. 5. Retrieved from NewspaperSG.
 
-Kim, Y.J., & Park S.J. (2017). Tectonic traditions in ancient Chinese architecture, and their development. *Journal of Asian Architecture and Building Engineering, 16*(1), 31–38, p. 32. (Not available in NLB holdings)
+Kim, Y.J., &amp; Park S.J. (2017). Tectonic traditions in ancient Chinese architecture, and their development. *Journal of Asian Architecture and Building Engineering, 16*(1), 31–38, p. 32. (Not available in NLB holdings)
 
-Knapp, R.G. (2010). [*Chinese houses of Southeast Asia: The eclectic architecture of sojourners & settlers*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13370726) (p. 72). Clarendon, Vt.: Tuttle. (Call no.: RSING 728.370959 KNA)
+Knapp, R.G. (2010). [*Chinese houses of Southeast Asia: The eclectic architecture of sojourners &amp; settlers*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13370726) (p. 72). Clarendon, Vt.: Tuttle. (Call no.: RSING 728.370959 KNA)
 
-李谷僧 & 林国璋. (1936). 新加坡端蒙学校三十周年纪念册 (pp. 14, 16). 新加坡: 新加坡端蒙学校. Available via PublicationSG.
+李谷僧 &amp; 林国璋. (1936). 新加坡端蒙学校三十周年纪念册 (pp. 14, 16). 新加坡: 新加坡端蒙学校. Available via PublicationSG.
 
-林远辉 & 张应龙. (2016). [新加坡马来西亚华侨史](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202719923) (p. 392). 广东: 高等教育出版社. (Call no.: Chinese RSING 959.5004951 LYH)
+林远辉 &amp; 张应龙. (2016). [新加坡马来西亚华侨史](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202719923) (p. 392). 广东: 高等教育出版社. (Call no.: Chinese RSING 959.5004951 LYH)
 
 [Local and general](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/dailyadvertiser18921006-1.2.11). (1892, October 6). *Daily Advertiser*, p. 3. Retrieved from NewspaperSG.
 
@@ -203,8 +204,8 @@ Trocki, C.A. (2007). [*Prince of pirates: The temenggongs and the development of
 [^1]:Choa Moh Choon was also spelled as Choah Moh Choon, Chua Moh Choon and Chuah Moh Choon. He was also known as Choa Cheng Moh. In addition, Lee Ah Hoey was spelled as Lee Ah Hoy and Li Ah Hoey.
 [^2]:Pickering, W.A. (1880, January 26). Report of the Chinese Protectorate, Singapore, for the year 1879 (G.N. 154). [*Straits Settlements Government Gazette*](http://eresources.nlb.gov.sg/printheritage/detail/88d8a281-5397-4ed0-9533-4e71db0f2bc1.aspx)*, 14*(15), p. 228. Singapore: Government Printing Office. Retrieved from BookSG.
 [^3]:Pickering, W.A. (1881, April 29). Annual report on the Chinese Protectorate, Singapore, for the year 1880 (G.N. 192). [*Straits Settlements Government Gazette*](http://eresources.nlb.gov.sg/printheritage/detail/0d2fd393-5f68-422a-937e-2ecaf1128bf2.aspx)*, 15*(18), p. 357. Singapore: Government Printing Office. Retrieved from BookSG.
-[^4]:There was no one listed as the President of the Ghee Hok Society for 1887 in the “Table showing the Number of Chinese Secret Societies, registered under Section 3 of Ordinance No. XIX of 1869, with Situation of Meeting Houses of Members, &c., in Singapore.” Found in Pickering, W.A., (1888, April 27). Annual report on the Chinese Protectorate, Singapore, for the year 1887 (G.N. 261). [*Straits Settlements Government Gazette*](http://eresources.nlb.gov.sg/printheritage/detail/3f7804b8-5940-462c-8d9e-388a780f4553.aspx)*, 22*(20), p. 909. Singapore: Government Printing Office. Retrieved from BookSG.
-[^5]:Kim, Y.J., & Park S.J. (2017). Tectonic traditions in ancient Chinese architecture, and their development. *Journal of Asian Architecture and Building Engineering, 16*(1), p. 32. (Not available in NLB holdings)
+[^4]:There was no one listed as the President of the Ghee Hok Society for 1887 in the “Table showing the Number of Chinese Secret Societies, registered under Section 3 of Ordinance No. XIX of 1869, with Situation of Meeting Houses of Members, &amp;c., in Singapore.” Found in Pickering, W.A., (1888, April 27). Annual report on the Chinese Protectorate, Singapore, for the year 1887 (G.N. 261). [*Straits Settlements Government Gazette*](http://eresources.nlb.gov.sg/printheritage/detail/3f7804b8-5940-462c-8d9e-388a780f4553.aspx)*, 22*(20), p. 909. Singapore: Government Printing Office. Retrieved from BookSG.
+[^5]:Kim, Y.J., &amp; Park S.J. (2017). Tectonic traditions in ancient Chinese architecture, and their development. *Journal of Asian Architecture and Building Engineering, 16*(1), p. 32. (Not available in NLB holdings)
 [^6]:Hermann Naeher was also spelled as Hermann Näher.
 [^7]:Tan Lock Shuan was also spelled as Tan Lok Shuan and Tan Lok Swan.
 [^8]:*Singapore and Straits directory for 1893*. (1893) (p. 161). Singapore: Printed at the Mission Press, p. 161. (Microfilm no.: NL1180)
