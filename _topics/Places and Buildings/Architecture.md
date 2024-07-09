@@ -54,7 +54,7 @@ The building plans in the National Archives are a treasure trove, says *Yap Jo L
 <img src="/images/Vol-16-issue-3/karikal/karikalmahal-building.jpg" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/causeway)/">From Sea to Road: Building the Causeway</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-2/jul-sep-2020/causeway/">From Sea to Road: Building the Causeway</a>
 The foundation stone for the Causeway was laid 100 years ago. We look back at the history of this road and rail link.
 
 <img src="/images/Vol-16-issue-2/causeway/Causeway.jpg" style="width:80%;">
