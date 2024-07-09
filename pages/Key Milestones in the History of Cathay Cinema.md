@@ -114,7 +114,7 @@ Cathay Cineplex’s&nbsp;last&nbsp;day of operations was 26 June 2022, when it s
 
 [^11]: "[Tallest Skyscraper Opens](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19551212-1.2.96)," *Singapore Standard*, 12 December 1955, 9; "[Yes, You Can't Miss the Cathay](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19590213-1.2.104.20)," *Singapore Free Press*, 13 February 1959, 9. (From NewspaperSG)
 
-[^12]: Vernon Cornelius-Takahama and Ong Eng Chuan, “[Cathay Building](https://www.nlb.gov.sg/main/article-detail?cmsuuid=931604b4-b9cc-46aa-b2e8-487721be4061),” Singapore Infopedia, last updated September 2020;  Lim,&nbsp;[_Cathay_](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=6095688), 110–11.
+[^12]: Vernon Cornelius-Takahama and Ong Eng Chuan, “[Cathay Building](https://www.nlb.gov.sg/main/article-detail?cmsuuid=931604b4-b9cc-46aa-b2e8-487721be4061),” Singapore Infopedia, last updated September 2020;  Lim,&nbsp;[_Cathay_](https://catalogue.nlb.gov.sg/search/card?recordId=6095688), 110–11.
 
 [^13]: “[World War II Plaque (Outside Cathay Cinema)](https://www.nas.gov.sg/archivesonline/photographs/record-details/d6c619a0-1161-11e3-83d5-0050568939ad),” Ministry of Information and the Arts Collection, 1995–1999. (National Archives of Singapore media image no. 19990001374 – 0040)
 
@@ -129,5 +129,3 @@ Cathay Cineplex’s&nbsp;last&nbsp;day of operations was 26 June 2022, when it s
 [^18]: Annabeth Low, "mm2 Asia Expands Footprint with S$230m Cathay Cinema Deal," *Business Times*&nbsp;3 November 2017, 8; John Lui, "Sudden Exits," *Straits Times*, 23 December 2017, A10. (From Newslink via NLB [eResources](https://eresources.nlb.gov.sg/) website)
 
 [^19]: Shannon Ling, “The Cathay Cineplex in Handy Road, One of Singapore’s Oldest Cinemas, to Close after June 26,” _Straits Times_, 17 June 2022; Melissa Lin, “Cinema with a Grim and Glamorous Past,” _Straits Times_, 5 November 2017 (From Newslink via NLB [eResources](https://eresources.nlb.gov.sg/) website); Ang Hwee Min, “[A Subdued Final Day as The Cathay Cineplex Draws the Curtain on Operations](https://www.channelnewsasia.com/singapore/cathay-cineplex-last-day-operations-moviegoers-final-screenings-2771741),” *Channel NewsAsia*, 26 June 2022.
-
-
