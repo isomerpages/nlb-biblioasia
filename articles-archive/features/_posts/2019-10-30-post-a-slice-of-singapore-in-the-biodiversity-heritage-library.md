@@ -10,7 +10,7 @@ variant: markdown
 <img src="/images/Vol-15-issue-3/a-slice-of-sg-biodiversity/Biodiversity1.JPG">
 <div style="background-color: white;">(Left) The Yellow Horn Poppy reproduced from Boswell, J.T. (Ed.) (1863). <i>English Botany, or, Coloured Figures of British Plants</i> (Vol. I). London: Robert Hardwicke. <br>(Right) The Rose of Venezuela reproduced from Dalton, H. (1880). <i>Curtis’s Botanical Magazine (Vol. 106). London: L. Reeve and Co.</i></div>
 
-The Biodiversity Heritage Library (BHL) is the world’s largest open access digital library for biodiversity resources. It was created in 2006 when a group of leading natural history and botanical libraries came together to make their digitised collections available in a single online repository at [www.biodiversitylibrary.org](www.biodiversitylibrary.org).
+The Biodiversity Heritage Library (BHL) is the world’s largest open access digital library for biodiversity resources. It was created in 2006 when a group of leading natural history and botanical libraries came together to make their digitised collections available in a single online repository at <a href="https://www.biodiversitylibrary.org/">https://www.biodiversitylibrary.org/).</a>
 
 The collections of the United States-based BLH are drawn from an international consortium of more than 120 natural history, botanical, research and national libraries, including renowned institutions such as the Smithsonian Libraries in Washington D.C., the American Museum of Natural History in New York, the Natural History Museum in London and the Royal Botanic Gardens in Kew, London.
 
