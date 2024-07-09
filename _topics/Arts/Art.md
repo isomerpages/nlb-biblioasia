@@ -111,7 +111,7 @@ What makes the difference between a good artist and a brilliant one?&nbsp;**Goh 
 
 Postage stamps are more than little squares of paper to be stuck on envelopes.&nbsp;**Justin Zhuang**&nbsp;discovers how stamps have helped forge Singapore’s identity over the past five decades.
 
-<img src="/images/Vol-13-issue-4/stamping-history/02_stamping.jpg">
+<img src="/images/Vol-13-issue-4/stamping-history/02_stamping.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-4/jan-mar-2017/windows-into-history">Windows into History</a>
