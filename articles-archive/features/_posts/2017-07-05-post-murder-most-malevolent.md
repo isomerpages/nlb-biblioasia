@@ -341,7 +341,7 @@ Guilty as charged: John Martin Scripps befriended tourists, then butchered them.
 
 Lim, Y. (1995, March 30). [Second time on the run](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19950330-1.2.3.2.aspx). *The New Paper*, p. 2. Retrieved from NewspaperSG.
 
-[Martin files appeal against conviction](/http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19951117-1.2.50.10). (1995, November 17). *The Straits Times*, p. 41. Retrieved from NewspaperSG.
+[Martin files appeal against conviction](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19951117-1.2.50.10). (1995, November 17). *The Straits Times*, p. 41. Retrieved from NewspaperSG.
 
 Miller, B. (1995, November 11). [Martin’s last ‘Hello’ then off to date with death](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19951111-1.2.18.1). *The New Paper*, p. 12. Retrieved from NewspaperSG.
 
