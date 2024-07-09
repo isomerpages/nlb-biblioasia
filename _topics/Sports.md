@@ -41,7 +41,7 @@ The 7th SEAP Games marked the first time that Singapore hosted an international 
 <img src="/images/Vol%2019%20Issue%204/4%20SEAP%20Games/image4.png" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/ol-19/issue-3/oct-dec-2023/malaya-cup-football-heroes">Forgotten Heroes of the Malaya Cup (1921–1941)</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/malaya-cup-football-heroes/">Forgotten Heroes of the Malaya Cup (1921–1941)</a>
 We remember some legendary players of the interwar years who left an indelible mark on the local football scene.
 
 <img src="/images/Vol%2019%20Issue%203/6%20Malaya%20Cup/malayacup_topic.png" style="width:80%;">
