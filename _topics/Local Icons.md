@@ -176,21 +176,21 @@ The foundation stone for the Causeway was laid 100 years ago. We look back at th
 
 Established in the 1880s, Kelly &amp; Walsh was an iconic name in the Singapore book trade until its closure in 1956.&nbsp;**Gracie Lee**&nbsp;traces its history as bookseller, publisher and printer.
 
-<img src="/images/Vol-13-issue-4/kelly-and-walsh/01_KW.jpg">
+<img src="/images/Vol-13-issue-4/kelly-and-walsh/01_KW.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-4/jan-mar-2018/memory-laps/">Memory Laps: Pool-time Recollections</a>
 
 Between the mid-1930s and 1960, only four swimming pool complexes in Singapore were open for public use.&nbsp;**Jocelyn Lau**&nbsp;speaks to people who remember these pools.
 
-<img src="/images/Vol-13-issue-4/memory-laps/01_memorylaps.png">
+<img src="/images/Vol-13-issue-4/memory-laps/01_memorylaps.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-4/jan-mar-2018/living-up-at-capitol/">Living it Up at the Capitol</a>
 
 Capitol Theatre was the premier venue for film and stage when it opened in 1930.&nbsp;**Bonny Tan**&nbsp;uses oral history recordings to piece together pre-war narratives of the theatre.
 
-<img src="/images/Vol-13-issue-4/living-it-up-at-the-capitol/01_livingcapitol.jpg">
+<img src="/images/Vol-13-issue-4/living-it-up-at-the-capitol/01_livingcapitol.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-2/jul-sep-2017/swan-and-maclaren/">Swan &amp; Maclaren: Pioneers of Modernist Architecture</a>
@@ -220,9 +220,3 @@ The much-loved NCO Club on Beach Road was a favourite downtown R &amp; R spot fo
 
 <img src="/images/Vol-12-issue-4/from-britannia-to-nco-club/1-britannia-nco.jpg" style="width:80%;">
 <hr>
-
-
-
-
-
-
