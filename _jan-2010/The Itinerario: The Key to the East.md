@@ -209,4 +209,7 @@ W.H. Moreland, ed., _[Peter Floris: His Voyage to the East Indies in the Globe 1
 
 [^33]: Gibson-Hill, _[Notes on the History of the Old Strait](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078468)_, introduction, 11.
 
-[^34]: The digital copy is available at <a href="[BookSG](https://eresources.nlb.gov.sg/printheritage/)">BookSG</a>.
+[^34]: The digital copy is available at [BookSG](https://www.nlb.gov.sg/main/nlonline)
+
+
+he digital copy is available at <a href="[BookSG](https://eresources.nlb.gov.sg/printheritage/)">BookSG</a>.
