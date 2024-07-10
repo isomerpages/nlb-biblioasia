@@ -230,7 +230,7 @@ Md. Sidin Ahmad Ishak, “Malay Book Publishing and Printing in Malaya and Singa
 
 P.A.B. McKerron, _Report on Singapore for the Year 1947_ (Singapore: Government Printing Office, 1948)
 
-P.J. Begpie, [_The Malayan Peninsula: Embracing Its History, Manners and Customs of the Inhabitants, Politics, Natural History &amp;C. From Its Earliest Records_](https://eresources.nlb.gov.sg/printheritage/detail/f723409c-95e3-47d1-aeb3-cb2dbc568b8a.aspx) (Madras: Vepery Mission Press, 1834). (From BookSG; call no. RRARE 959.5 BEG; microfilm NL5827)
+P.J. Begpie, [_The Malayan Peninsula: Embracing Its History, Manners and Customs of the Inhabitants, Politics, Natural History &amp;C. From Its Earliest Records_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=f723409c-95e3-47d1-aeb3-cb2dbc568b8a) (Madras: Vepery Mission Press, 1834). (From BookSG; call no. RRARE 959.5 BEG; microfilm NL5827)
 
 P. Lim Pui Huen, Marion Southerwood and Katherine Hui, [_Singapore, Malaysian and Brunei Newspapers: An International Union List_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6340966) (Singapore: Southeast Asian Studies, 1992). (Call no. RSING 016.0795957 LIM)
 
