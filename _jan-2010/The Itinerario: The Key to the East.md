@@ -177,11 +177,11 @@ W.H. Moreland, ed., _[Peter Floris: His Voyage to the East Indies in the Globe 1
 
 [^17]: Thomas Suarez, _[Early Mapping of Southeast Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9654316)_ (Hong Kong: Periplus Editions, 1999), 180. (Call no. RSING 912.59 SUA)
 
-[^18]: Linschoten, _[Iohn Hvighen Van Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)_, 31.
+[^18]: Linschoten, _[Iohn Hvighen Van Linschoten](https://www.nlb.gov.sg/main/book-detail?cmsuuid=8a92f7eb-bcb7-428e-b7ef-14021d8f4faa)_, 31.
 
-[^19]: Linschoten, _[Iohn Hvighen Van Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)_, 31.
+[^19]: Linschoten, _[Iohn Hvighen Van Linschoten](https://www.nlb.gov.sg/main/book-detail?cmsuuid=8a92f7eb-bcb7-428e-b7ef-14021d8f4faa)_, 31.
 
-[^20]: Linschoten, _[Iohn Hvighen Van Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)_, 31.
+[^20]: Linschoten, _[Iohn Hvighen Van Linschoten](https://www.nlb.gov.sg/main/book-detail?cmsuuid=8a92f7eb-bcb7-428e-b7ef-14021d8f4faa)_, 31.
 
 [^21]: Ernst Van Den Boogaart, _[Civil and Corrupt Asia: Image and Text in the Itinerario and the Icones of Jan Huygen Van Linschoten](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11386938)_ (London: University of Chicago Press, 2003), 54. (Call no. R 915.043 BOO)
 
