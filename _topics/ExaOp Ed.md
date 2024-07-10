@@ -1,5 +1,5 @@
 ---
-title: ExaOp Ed
+title: Op-Ed
 permalink: /topic/fake-news/
 variant: markdown
 description: ""
