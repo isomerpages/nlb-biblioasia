@@ -6,6 +6,7 @@ description: Singapore Town Club Collection Senior Librarian Eunice Low
   the Singapore Town Club, including photographs, portraits, sketches, and World
   War I memorabilia.
 image: /images/Vol 5 Issue 1/SingaporeTownClub/townclub1.jpg
+variant: markdown
 ---
 #### Senior Librarian *Eunice Low* highlights heritage items recently acquired by the National Library Board from the Singapore Town Club, including photographs, portraits, sketches and war memorabilia.
 
@@ -26,7 +27,7 @@ Other items of notable interest are two sets of photographs taken of Singapore T
 
 This collection will complement other significant National Library collections of early and pre-independent Singapore and will be made available through the National Library website (<a href="https://www.nlb.gov.sg/main/home">https://www.nlb.gov.sg/main/home</a>) and at the Donors Gallery, Level 10, Lee Kong Chian Reference Library, National Library Building.
 	
-The National Library is interested in receiving donations of heritage materials – both published and unpublished – on Singapore and Southeast Asia that will help enhance the Library’s collections. These could include manuscripts, photographs, genealogical records, documents, letters as well as materials printed during the Japanese Occupation (1942–45) or earlier. If you have a collection you wish to donate to the National Library, please email <a href="LKCRF@nlb.gov.sg">LKCRF@nlb.gov.sg</a>.
+The National Library is interested in receiving donations of heritage materials – both published and unpublished – on Singapore and Southeast Asia that will help enhance the Library’s collections. These could include manuscripts, photographs, genealogical records, documents, letters as well as materials printed during the Japanese Occupation (1942–45) or earlier. If you have a collection you wish to donate to the National Library, please email <a href="https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/national-library-singapore">https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/national-library-singapore</a>.
 	
 <br>
 <div style="background-color: white;">

@@ -10,6 +10,7 @@ description: "Historical events suggest that Singapore emerged as a centre of
   translator and printer of Malay school books (1847–75); and (iv) The Straits
   Settlements under the Colonial Office and the Government Malay Press
   (1885–99)."
+variant: markdown
 ---
 #### Historical events suggest that Singapore emerged as a centre of Malay school book production in the 19th century. Lee Kong Chian Research Fellow *Lim Peng Han* traces the four phases of its development.
 
@@ -159,7 +160,7 @@ C. Silvester Horne, [_The Story of the L.M.S_](https://eservice.nlb.gov.sg/item_
 
 Cecil K. Byrd, [_Early Printing in the Straits Settlements, 1806–1858_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081984) (Singapore: National Library, 1970). (Call no. RSING 686.2095957 BYR)
 
-Charles Burton Buckley, _An Anecdotal History of the Old Times in Singapore: From the Foundation of the Settlement Under the Honourable East India Company on February 6th, 1819 to the Transfer of the Colonial Office as Part of the Colonial Possessions of the Crown on April 1_, vols. [1](https://eresources.nlb.gov.sg/printheritage/detail/303beefb-31d7-4dad-83fb-593054096717.aspx) and [2](https://eresources.nlb.gov.sg/printheritage/detail/e895d2b3-00f6-40b0-9db7-4177648c2771.aspx) (Singapore: Fraser &amp; Neave, 1902). (From BookSG; call no. RRARE 959.57 BUC; microfilm NL269)
+Charles Burton Buckley, _An Anecdotal History of the Old Times in Singapore: From the Foundation of the Settlement Under the Honourable East India Company on February 6th, 1819 to the Transfer of the Colonial Office as Part of the Colonial Possessions of the Crown on April 1_, vols. [1](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717) and [2](https://www.nlb.gov.sg/main/book-detail?cmsuuid=e895d2b3-00f6-40b0-9db7-4177648c2771) (Singapore: Fraser &amp; Neave, 1902). (From BookSG; call no. RRARE 959.57 BUC; microfilm NL269)
 
 Demetrius Charles Boulger, [_The Life of Sir Stamford Raffles_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9566022) (Amsterdam: The Pepin Press, 1999). &nbsp;(Call no. RSING 959.57021092 BOU)
 
@@ -205,7 +206,7 @@ John Bastin, “The Missing Edition of C. H. Thomsen and Abdullah bin Abdul Kadi
 
 John Barrie Nielson, [_A History of Raffles Institution_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4411187) (Singapore: \[Raffles Institution\], 1927–29). (Call no. RCLOS 373.5957 NEI)
 
-John Crawfurd, [_Journal of an Embassy From the Governor-General of India to the Courts of Siam and Cochin China: Exhibiting a View of the Actual State of Those Kingdoms_](https://eresources.nlb.gov.sg/printheritage/detail/6dba7a01-c203-41f2-ac3d-e597fd9eb65c.aspx), 2nd ed. &nbsp;(London: H. Colburn and R. Bentley, 1830). (From BookSG; call no. RRARE 959.7 CRA; microfilm NL11335)
+John Crawfurd, [_Journal of an Embassy From the Governor-General of India to the Courts of Siam and Cochin China: Exhibiting a View of the Actual State of Those Kingdoms_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=6dba7a01-c203-41f2-ac3d-e597fd9eb65c), 2nd ed. &nbsp;(London: H. Colburn and R. Bentley, 1830). (From BookSG; call no. RRARE 959.7 CRA; microfilm NL11335)
 
 John Feather, [_A History of British Publishing_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12814894), 2nd ed. (London: Routledge, 2006). (Call no. R 070.50941 FEA)
 
@@ -229,7 +230,7 @@ Md. Sidin Ahmad Ishak, “Malay Book Publishing and Printing in Malaya and Singa
 
 P.A.B. McKerron, _Report on Singapore for the Year 1947_ (Singapore: Government Printing Office, 1948)
 
-P.J. Begpie, [_The Malayan Peninsula: Embracing Its History, Manners and Customs of the Inhabitants, Politics, Natural History &amp;C. From Its Earliest Records_](https://eresources.nlb.gov.sg/printheritage/detail/f723409c-95e3-47d1-aeb3-cb2dbc568b8a.aspx) (Madras: Vepery Mission Press, 1834). (From BookSG; call no. RRARE 959.5 BEG; microfilm NL5827)
+P.J. Begpie, [_The Malayan Peninsula: Embracing Its History, Manners and Customs of the Inhabitants, Politics, Natural History &amp;C. From Its Earliest Records_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=f723409c-95e3-47d1-aeb3-cb2dbc568b8a) (Madras: Vepery Mission Press, 1834). (From BookSG; call no. RRARE 959.5 BEG; microfilm NL5827)
 
 P. Lim Pui Huen, Marion Southerwood and Katherine Hui, [_Singapore, Malaysian and Brunei Newspapers: An International Union List_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6340966) (Singapore: Southeast Asian Studies, 1992). (Call no. RSING 016.0795957 LIM)
 
@@ -249,17 +250,17 @@ Singapore Institution Free School, _The First Report of the Singapore Institutio
 
 Singapore Institution Free School, _The Third Report of the Singapore Institution Free School 1836–1837_ (Singapore: Singapore Free Press, 1837). (Microfilm NL5826)
 
-Singapore Institution Free School, [_The Singapore Institution Free School Six Annual Report 1839–1840_](https://eresources.nlb.gov.sg/printheritage/detail/09dfc891-a6fc-451a-8008-51162dc7567c.aspx) (Singapore: Mission Press, 1840). (From BookSG: microfilm NL5826)
+Singapore Institution Free School, [_The Singapore Institution Free School Six Annual Report 1839–1840_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=09dfc891-a6fc-451a-8008-51162dc7567c) (Singapore: Mission Press, 1840). (From BookSG: microfilm NL5826)
 
 Singapore Institution Free School, _The Singapore Institution Free School Fifth Annual Report 1838–1839_ (Singapore: Mission Press, 1839). (Microfilm NL5826)
 
-Singapore Institution Free School, [_The Singapore Institution Free School Seven Annual Report 1840–1841_](https://eresources.nlb.gov.sg/printheritage/detail/09dfc891-a6fc-451a-8008-51162dc7567c.aspx) (Singapore: Mission Press, 1841). (From BookSG: microfilm NL5826)
+Singapore Institution Free School, [_The Singapore Institution Free School Seven Annual Report 1840–1841_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=09dfc891-a6fc-451a-8008-51162dc7567c) (Singapore: Mission Press, 1841). (From BookSG: microfilm NL5826)
 
-Singapore Institution Free School, [_The Singapore Institution Free School Eight Annual Report 1842–1843_](https://eresources.nlb.gov.sg/printheritage/detail/09dfc891-a6fc-451a-8008-51162dc7567c.aspx) (Singapore: Mission Press, 1843). (From BookSG: microfilm NL5826)
+Singapore Institution Free School, [_The Singapore Institution Free School Eight Annual Report 1842–1843_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=09dfc891-a6fc-451a-8008-51162dc7567c) (Singapore: Mission Press, 1843). (From BookSG: microfilm NL5826)
 
-Singapore Institution Free School, [_Annual Report of the Singapore Institution Free Schools for the Year 1853_](https://eresources.nlb.gov.sg/printheritage/detail/09dfc891-a6fc-451a-8008-51162dc7567c.aspx) (Singapore: Mission Press, 1853). (From BookSG: microfilm NL5826)
+Singapore Institution Free School, [_Annual Report of the Singapore Institution Free Schools for the Year 1853_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=09dfc891-a6fc-451a-8008-51162dc7567c) (Singapore: Mission Press, 1853). (From BookSG: microfilm NL5826)
 
-Song Ong Siang, [_One Hundred Years of the Chinese in Singapore_](https://eresources.nlb.gov.sg/printheritage/detail/f8082431-1c7b-460e-b59c-bbc5793035a3.aspx) (London: John Murray, 1923). (From BookSG; call no. RRARE 959.57 SON-\[LKL\]; microfilm NL3280)
+Song Ong Siang, [_One Hundred Years of the Chinese in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=f8082431-1c7b-460e-b59c-bbc5793035a3) (London: John Murray, 1923). (From BookSG; call no. RRARE 959.57 SON-\[LKL\]; microfilm NL3280)
 
 Sophia Raffles, [_Memoir of the Life and Public Services of Sir Stamford Raffles_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6164277) (Singapore: Oxford University Press, 1991). (Call no. RSING 959.57021092 RAF)
 
@@ -271,7 +272,7 @@ Stuart Craig, [_South-East Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?
 
 T. Braddell, [_Statistics of the British Possessions in the Straits of Malacca_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4410960) (Pinang: Pinang Gazette Printing Office, 1861). (Call no. RRARE 959.5 BRA; microfilm NL5560, NL15435)
 
-Thomas Stamford Raffles, [_Statement of the Services of Sir Stamford Raffles_](4356968) (Kuala Lumpur: Oxford University Press, 1978). (Call no. RSING q325.3410959 RAF)
+Thomas Stamford Raffles, [_Statement of the Services of Sir Stamford Raffles_](https://catalogue.nlb.gov.sg/search/card?recordId=4356968) (Kuala Lumpur: Oxford University Press, 1978). (Call no. RSING q325.3410959 RAF)
 
 Walter Makepeace, “The Press,” in [_Twentieth Century Impressions of Malaya: Its People, Commerce, Industries, and Resources_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4125591), ed. Arnold Wright and H.A. Cartwright (London: Lloyd’s Greater Britain Publishing Company Ltd., 1908), 253–66. (Call no. RCLOS 959.3 TWE-\[SEA\])
 
