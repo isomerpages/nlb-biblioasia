@@ -206,7 +206,7 @@ John Bastin, “The Missing Edition of C. H. Thomsen and Abdullah bin Abdul Kadi
 
 John Barrie Nielson, [_A History of Raffles Institution_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4411187) (Singapore: \[Raffles Institution\], 1927–29). (Call no. RCLOS 373.5957 NEI)
 
-John Crawfurd, [_Journal of an Embassy From the Governor-General of India to the Courts of Siam and Cochin China: Exhibiting a View of the Actual State of Those Kingdoms_](https://eresources.nlb.gov.sg/printheritage/detail/6dba7a01-c203-41f2-ac3d-e597fd9eb65c.aspx), 2nd ed. &nbsp;(London: H. Colburn and R. Bentley, 1830). (From BookSG; call no. RRARE 959.7 CRA; microfilm NL11335)
+John Crawfurd, [_Journal of an Embassy From the Governor-General of India to the Courts of Siam and Cochin China: Exhibiting a View of the Actual State of Those Kingdoms_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=6dba7a01-c203-41f2-ac3d-e597fd9eb65c), 2nd ed. &nbsp;(London: H. Colburn and R. Bentley, 1830). (From BookSG; call no. RRARE 959.7 CRA; microfilm NL11335)
 
 John Feather, [_A History of British Publishing_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12814894), 2nd ed. (London: Routledge, 2006). (Call no. R 070.50941 FEA)
 
