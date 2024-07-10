@@ -155,13 +155,13 @@ W.H. Moreland, ed., _[Peter Floris: His Voyage to the East Indies in the Globe 1
 
 [^6]: Goor and Goor, 52.
 
-[^7]: Found in the original publication in Chapter 20 (Linschoten, _[Iohn Hvighen Van Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)_)
+[^7]: Found in the original publication in Chapter 20 (Linschoten, _[Iohn Hvighen Van Linschoten](https://www.nlb.gov.sg/main/book-detail?cmsuuid=8a92f7eb-bcb7-428e-b7ef-14021d8f4faa)
 
 [^8]: W.H. Moreland, ed., _[Peter Floris: His Voyage to the East Indies in the Globe 1611–1615](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4391644)_ (London: Printed for the Hakluyt Society, 1934) 104 (Call no. RCLOS 910.8 HAK) in C. A. Gibson-Hill, _[Singapore: Notes on the History of the Old Strait, 1580–1850](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078468)_ (\[Singapore\]: Malayan Branch, Royal Asiatic Society. 1954), 165, 167. (Call no. RCLOS 959.5 JMBRAS; microfilm NL0029; NL0078)
 
 [^9]: The archbishop died while journeying to Lisbon in 1587, and Jan received the news of his death only in September 1588 (Linschoten, _[Voyage of John Huyghen Van Linschoten](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2937829)_, xxvii).
 
-[^10]: Linschoten, _[Iohn Hvighen Van Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)_, 172.
+[^10]: Linschoten, _[Iohn Hvighen Van Linschoten](https://www.nlb.gov.sg/main/book-detail?cmsuuid=8a92f7eb-bcb7-428e-b7ef-14021d8f4faa)_, 172.
 
 [^11]: Often translated as “Seavoyage of Jan Huygen van Linschoten to the East or Portuguese Indies”. In the Dutch version it is Book I.
 
