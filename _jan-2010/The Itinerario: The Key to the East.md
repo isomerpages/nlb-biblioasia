@@ -4,6 +4,7 @@ permalink: /vol-5/issue-4/jan-2010/east-itinenario-key/
 description: Senior Librarian Bonny Tan explores Itinerario, a book by Dutchman
   Jan Huygen van Linschoten that opened the secret passageway to the east for
   the Dutch and English.
+variant: markdown
 ---
 ####  Senior Librarian *Bonny Tan* explores *Itinerario*, a book by Dutchman Jan Huygen van Linschoten that opened the secret passageway to the east for the Dutch and English.
 
@@ -146,7 +147,7 @@ W.H. Moreland, ed., _[Peter Floris: His Voyage to the East Indies in the Globe 1
 
 [^2]: His family is believed to have originated from a village in Utrecht named Linschoten. His parents Huych Joosten and Maertgen Hendrics lived in Schoonhoven which was a short distance away from Linschoten. (From the introduction by P.A. Tiele in Linschoten, _[Voyage of John Huyghen Van Linschoten](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2937829)_, xxiii.)
 
-[^3]: John Hvighen van Linschoten, _[Iohn Hvighen Van Linschoten, His Discourse of Voyages Unto Y Easte &amp; West Indies: Deuided Into Foure Bookes](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)_, trans. W. Phillip (London: Iohn Wolfe, 1598), 1. (From BookSG; call no. RRARE 910.8 LIN; microfilm NL8024)
+[^3]: John Hvighen van Linschoten, _[Iohn Hvighen Van Linschoten, His Discourse of Voyages Unto Y Easte &amp; West Indies: Deuided Into Foure Bookes](https://www.nlb.gov.sg/main/book-detail?cmsuuid=8a92f7eb-bcb7-428e-b7ef-14021d8f4faa)_, trans. W. Phillip (London: Iohn Wolfe, 1598), 1. (From BookSG; call no. RRARE 910.8 LIN; microfilm NL8024)
 
 [^4]: A number of sources indicate the year as 1579.
 
