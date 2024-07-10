@@ -250,7 +250,7 @@ Singapore Institution Free School, _The First Report of the Singapore Institutio
 
 Singapore Institution Free School, _The Third Report of the Singapore Institution Free School 1836–1837_ (Singapore: Singapore Free Press, 1837). (Microfilm NL5826)
 
-Singapore Institution Free School, [_The Singapore Institution Free School Six Annual Report 1839–1840_](https://eresources.nlb.gov.sg/printheritage/detail/09dfc891-a6fc-451a-8008-51162dc7567c.aspx) (Singapore: Mission Press, 1840). (From BookSG: microfilm NL5826)
+Singapore Institution Free School, [_The Singapore Institution Free School Six Annual Report 1839–1840_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=09dfc891-a6fc-451a-8008-51162dc7567c) (Singapore: Mission Press, 1840). (From BookSG: microfilm NL5826)
 
 Singapore Institution Free School, _The Singapore Institution Free School Fifth Annual Report 1838–1839_ (Singapore: Mission Press, 1839). (Microfilm NL5826)
 
