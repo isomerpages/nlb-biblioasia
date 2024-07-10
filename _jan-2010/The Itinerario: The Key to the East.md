@@ -212,4 +212,5 @@ W.H. Moreland, ed., _[Peter Floris: His Voyage to the East Indies in the Globe 1
 [^34]: The digital copy is available at [BookSG](https://www.nlb.gov.sg/main/nlonline)
 
 
-he digital copy is available at <a href="[BookSG](https://eresources.nlb.gov.sg/printheritage/)">BookSG</a>.
+
+
