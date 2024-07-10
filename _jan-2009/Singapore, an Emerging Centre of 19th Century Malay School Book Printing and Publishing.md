@@ -254,11 +254,11 @@ Singapore Institution Free School, [_The Singapore Institution Free School Six A
 
 Singapore Institution Free School, _The Singapore Institution Free School Fifth Annual Report 1838–1839_ (Singapore: Mission Press, 1839). (Microfilm NL5826)
 
-Singapore Institution Free School, [_The Singapore Institution Free School Seven Annual Report 1840–1841_](https://eresources.nlb.gov.sg/printheritage/detail/09dfc891-a6fc-451a-8008-51162dc7567c.aspx) (Singapore: Mission Press, 1841). (From BookSG: microfilm NL5826)
+Singapore Institution Free School, [_The Singapore Institution Free School Seven Annual Report 1840–1841_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=09dfc891-a6fc-451a-8008-51162dc7567c) (Singapore: Mission Press, 1841). (From BookSG: microfilm NL5826)
 
-Singapore Institution Free School, [_The Singapore Institution Free School Eight Annual Report 1842–1843_](https://eresources.nlb.gov.sg/printheritage/detail/09dfc891-a6fc-451a-8008-51162dc7567c.aspx) (Singapore: Mission Press, 1843). (From BookSG: microfilm NL5826)
+Singapore Institution Free School, [_The Singapore Institution Free School Eight Annual Report 1842–1843_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=09dfc891-a6fc-451a-8008-51162dc7567c) (Singapore: Mission Press, 1843). (From BookSG: microfilm NL5826)
 
-Singapore Institution Free School, [_Annual Report of the Singapore Institution Free Schools for the Year 1853_](https://eresources.nlb.gov.sg/printheritage/detail/09dfc891-a6fc-451a-8008-51162dc7567c.aspx) (Singapore: Mission Press, 1853). (From BookSG: microfilm NL5826)
+Singapore Institution Free School, [_Annual Report of the Singapore Institution Free Schools for the Year 1853_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=09dfc891-a6fc-451a-8008-51162dc7567c) (Singapore: Mission Press, 1853). (From BookSG: microfilm NL5826)
 
 Song Ong Siang, [_One Hundred Years of the Chinese in Singapore_](https://eresources.nlb.gov.sg/printheritage/detail/f8082431-1c7b-460e-b59c-bbc5793035a3.aspx) (London: John Murray, 1923). (From BookSG; call no. RRARE 959.57 SON-\[LKL\]; microfilm NL3280)
 
