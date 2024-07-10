@@ -38,11 +38,7 @@ _The Singapore Lion_ ended with the merger in 1963, with a glimpse of the troubl
 
 It traces Raja’s crusade for a “Malaysian Malaysia” during the merger years, and its tragic end. It charts his subsequent odyssey to fight for Singapore’s survival as an independent country and to create the national ideology of a country born in turbulent times. It reveals the mistakes made along the way – from inexperience, miscalculation and sheer desperation – and the efforts to overcome the dramatic reversals that threatened to destroy his dreams.
 
-  
 
-  
-
-  
 
 Raja came from a special generation of Singapore leaders – larger than life, tough, brilliant, complex people. Forged in life-and-death battles, they shared a fierce drive to succeed. 
 
