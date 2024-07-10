@@ -189,19 +189,19 @@ W.H. Moreland, ed., _[Peter Floris: His Voyage to the East Indies in the Globe 1
 
 [^23]: For example, mango chutney recipes include garlic, vinegar, brown sugar and salt and a form of Portuguese mango chutney is still being made in Malacca using similar ingredients.
 
-[^24]: Linschoten, _[Iohn Hvighen Van Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)_, 95.
+[^24]: Linschoten, _[Iohn Hvighen Van Linschoten](https://www.nlb.gov.sg/main/book-detail?cmsuuid=8a92f7eb-bcb7-428e-b7ef-14021d8f4faa)_, 95.
 
-[^25]: Linschoten, _[Iohn Hvighen Van Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)_, 95.
+[^25]: Linschoten, _[Iohn Hvighen Van Linschoten](https://www.nlb.gov.sg/main/book-detail?cmsuuid=8a92f7eb-bcb7-428e-b7ef-14021d8f4faa)_, 95.
 
-[^26]: Linschoten, _[Iohn Hvighen Van Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)_, Chapter 57.
+[^26]: Linschoten, _[Iohn Hvighen Van Linschoten](https://www.nlb.gov.sg/main/book-detail?cmsuuid=8a92f7eb-bcb7-428e-b7ef-14021d8f4faa)_, Chapter 57.
 
-[^27]: Linschoten, _[Iohn Hvighen Van Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)_, 102.
+[^27]: Linschoten, _[Iohn Hvighen Van Linschoten](https://www.nlb.gov.sg/main/book-detail?cmsuuid=8a92f7eb-bcb7-428e-b7ef-14021d8f4faa)_, 102.
 
-[^28]: Linschoten, _[Iohn Hvighen Van Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)_, 103.
+[^28]: Linschoten, _[Iohn Hvighen Van Linschoten](https://www.nlb.gov.sg/main/book-detail?cmsuuid=8a92f7eb-bcb7-428e-b7ef-14021d8f4faa)_, 103.
 
-[^29]: So detailed is Gibson-Hill’s research that he notes the error in page number for the start of Chapter 20 of [Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)’s 1598 *Itinerario* (C.A. Gibson-Hill, _[Singapore: Old Strait &amp; New Harbour, 1300–1870](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4077989)_ (Singapore: General Post Office, 1956), introduction, 11. (Call no. RCLOS 959.51 BOG; microfilm NL10999)).
+[^29]: So detailed is Gibson-Hill’s research that he notes the error in page number for the start of Chapter 20 of [Linschoten](https://www.nlb.gov.sg/main/book-detail?cmsuuid=8a92f7eb-bcb7-428e-b7ef-14021d8f4faa)’s 1598 *Itinerario* (C.A. Gibson-Hill, _[Singapore: Old Strait &amp; New Harbour, 1300–1870](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4077989)_ (Singapore: General Post Office, 1956), introduction, 11. (Call no. RCLOS 959.51 BOG; microfilm NL10999)).
 
-[^30]: Linschoten, _[Iohn Hvighen Van Linschoten](https://eresources.nlb.gov.sg/printheritage/detail/8a92f7eb-bcb7-428e-b7ef-14021d8f4faa.aspx)_, chapter 20 from page 336 of Book III.
+[^30]: Linschoten, _[Iohn Hvighen Van Linschoten](https://www.nlb.gov.sg/main/book-detail?cmsuuid=8a92f7eb-bcb7-428e-b7ef-14021d8f4faa)_, chapter 20 from page 336 of Book III.
 
 [^31]: Gibson-Hill, _[Notes on the History of the Old Strait](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078468)_, 165.
 
