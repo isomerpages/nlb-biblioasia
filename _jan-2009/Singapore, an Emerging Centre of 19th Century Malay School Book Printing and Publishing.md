@@ -260,7 +260,7 @@ Singapore Institution Free School, [_The Singapore Institution Free School Eight
 
 Singapore Institution Free School, [_Annual Report of the Singapore Institution Free Schools for the Year 1853_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=09dfc891-a6fc-451a-8008-51162dc7567c) (Singapore: Mission Press, 1853). (From BookSG: microfilm NL5826)
 
-Song Ong Siang, [_One Hundred Years of the Chinese in Singapore_](https://eresources.nlb.gov.sg/printheritage/detail/f8082431-1c7b-460e-b59c-bbc5793035a3.aspx) (London: John Murray, 1923). (From BookSG; call no. RRARE 959.57 SON-\[LKL\]; microfilm NL3280)
+Song Ong Siang, [_One Hundred Years of the Chinese in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=f8082431-1c7b-460e-b59c-bbc5793035a3) (London: John Murray, 1923). (From BookSG; call no. RRARE 959.57 SON-\[LKL\]; microfilm NL3280)
 
 Sophia Raffles, [_Memoir of the Life and Public Services of Sir Stamford Raffles_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6164277) (Singapore: Oxford University Press, 1991). (Call no. RSING 959.57021092 RAF)
 
@@ -272,7 +272,7 @@ Stuart Craig, [_South-East Asia_](https://eservice.nlb.gov.sg/item_holding.aspx?
 
 T. Braddell, [_Statistics of the British Possessions in the Straits of Malacca_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4410960) (Pinang: Pinang Gazette Printing Office, 1861). (Call no. RRARE 959.5 BRA; microfilm NL5560, NL15435)
 
-Thomas Stamford Raffles, [_Statement of the Services of Sir Stamford Raffles_](4356968) (Kuala Lumpur: Oxford University Press, 1978). (Call no. RSING q325.3410959 RAF)
+Thomas Stamford Raffles, [_Statement of the Services of Sir Stamford Raffles_](https://catalogue.nlb.gov.sg/search/card?recordId=4356968) (Kuala Lumpur: Oxford University Press, 1978). (Call no. RSING q325.3410959 RAF)
 
 Walter Makepeace, “The Press,” in [_Twentieth Century Impressions of Malaya: Its People, Commerce, Industries, and Resources_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4125591), ed. Arnold Wright and H.A. Cartwright (London: Lloyd’s Greater Britain Publishing Company Ltd., 1908), 253–66. (Call no. RCLOS 959.3 TWE-\[SEA\])
 
