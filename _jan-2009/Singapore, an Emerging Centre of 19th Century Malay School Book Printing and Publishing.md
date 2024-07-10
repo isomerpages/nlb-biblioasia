@@ -10,6 +10,7 @@ description: "Historical events suggest that Singapore emerged as a centre of
   translator and printer of Malay school books (1847–75); and (iv) The Straits
   Settlements under the Colonial Office and the Government Malay Press
   (1885–99)."
+variant: markdown
 ---
 #### Historical events suggest that Singapore emerged as a centre of Malay school book production in the 19th century. Lee Kong Chian Research Fellow *Lim Peng Han* traces the four phases of its development.
 
@@ -159,7 +160,7 @@ C. Silvester Horne, [_The Story of the L.M.S_](https://eservice.nlb.gov.sg/item_
 
 Cecil K. Byrd, [_Early Printing in the Straits Settlements, 1806–1858_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4081984) (Singapore: National Library, 1970). (Call no. RSING 686.2095957 BYR)
 
-Charles Burton Buckley, _An Anecdotal History of the Old Times in Singapore: From the Foundation of the Settlement Under the Honourable East India Company on February 6th, 1819 to the Transfer of the Colonial Office as Part of the Colonial Possessions of the Crown on April 1_, vols. [1](https://eresources.nlb.gov.sg/printheritage/detail/303beefb-31d7-4dad-83fb-593054096717.aspx) and [2](https://eresources.nlb.gov.sg/printheritage/detail/e895d2b3-00f6-40b0-9db7-4177648c2771.aspx) (Singapore: Fraser &amp; Neave, 1902). (From BookSG; call no. RRARE 959.57 BUC; microfilm NL269)
+Charles Burton Buckley, _An Anecdotal History of the Old Times in Singapore: From the Foundation of the Settlement Under the Honourable East India Company on February 6th, 1819 to the Transfer of the Colonial Office as Part of the Colonial Possessions of the Crown on April 1_, vols. [1](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717) and [2](https://www.nlb.gov.sg/main/book-detail?cmsuuid=e895d2b3-00f6-40b0-9db7-4177648c2771) (Singapore: Fraser &amp; Neave, 1902). (From BookSG; call no. RRARE 959.57 BUC; microfilm NL269)
 
 Demetrius Charles Boulger, [_The Life of Sir Stamford Raffles_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9566022) (Amsterdam: The Pepin Press, 1999). &nbsp;(Call no. RSING 959.57021092 BOU)
 
