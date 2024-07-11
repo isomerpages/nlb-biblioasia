@@ -144,5 +144,5 @@ He was the true Singapore lion who roared, and roared till the end. In a way, it
 <br></div>
 
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src="/images/Authors/Phan_Ming_Yen.png">
-<b>Phan Ming Yen</b> is an independent writer, researcher and producer. A former journalist and arts manager, his current areas of research are on the Malayan Campaign and Japanese Occupation in Singapore. He has written about 19th-century music in Singapore and also on the Syonan Symphony Orchestra during the Occupation.</div>
+<img style="width: 100px; height: 100px;" src="/images/Authors/Irene%20Ng.png">
+<b>Irene Ng</b> is the authorised biographer of S. Rajaratnam and Writer-in-Residence at the Institute of ISEAS – Yusof Ishak Institute. She was formerly an award-winning senior political correspondent and a Member of Parliament in Singapore.</div>
