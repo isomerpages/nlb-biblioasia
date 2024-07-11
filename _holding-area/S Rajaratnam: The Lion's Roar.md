@@ -125,6 +125,10 @@ This is why the dictum in the epigraph to this introduction lurks behind almost 
 
 That said, Raja did not work alone. And his life, and indeed Singapore itself, would have turned out very differently had it not been for his key allies – most of all Lee, who got him into politics in the first place. As Raja himself said in 1990, he had been involved in many momentous events that he could not have conceived of without Lee in his life. Thus, while this is a book about Raja, it is also one about his closest colleagues, the decisions he made with them, and how he acted when things turned out wrong.
 
+![](/images/Vol%2020%20Issue%203/Rajaratnam/rajaratnam_kallang.jpg)
+<div style="background-color:white;"> S. Rajaratnam, then Senior Minister, sharing a lighthearted moment with Prime Minister Lee Kuan Yew at the National Day Rally reception at the Kallang Theatre in 1990. In the background, with her back to the camera, is Mrs Lee Kuan Yew. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
+
 In this connection, one of the most common criticisms of Raja was that he was little more than Lee’s mouthpiece and faithful follower. This book makes clear that Raja was very much his own man with his own views and his own voice. It was perhaps a major contradiction of Raja’s career that he was at once Lee’s loyal lieutenant and a politician beating his own path. It is a tension that is present throughout much of this book.&nbsp;
 
 This biography also brings out the tensions and contradictions that arose as he navigated the complexities of establishing non-communal politics in a multiracial society in an age of “tribal wars”, developing a foreign policy that promoted national interest in a globalising world, and evolving a model of governance and democracy that worked for Singapore in a turbulent region. He was an ardent nationalist and yet a true internationalist who was ahead of his time.
