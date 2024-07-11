@@ -96,7 +96,7 @@ Another brainchild of Lee’s was the Science and Industry Quiz, a televised edu
 <img src="/images/Online%20Only%20Articles/Dr%20Lee%20Kum%20Tatt/students_sjc.png" style="width: 80%;">
 <div style="background-color: white;">Students from St Joseph’s Convent answering questions in the first round of the Science and Industry Quiz, 1973.<i> Source: The Straits Times, 7 April 1973 © SPH Media Limited. Permission required for reproduction.</i></div>
 
-In 1979, the Science Council awarded Lee its gold medal to recognise his contributions to the “scientific, technological and industrial development of the Republic”.[^29] In 2005, he was awarded the Distinguished Alumni Award by the National University of Singapore’s Faculty of Science. In his foreword to Lee’s autobiography, _A Fabulous Journey_, Lee’s early mentor Professor Rayson Huang (then Vice-Chancellor of the University of Hong Kong) noted that Lee cherished this 2005 award above all others because “\[Lee\] Kum Tatt always regarded himself as a Scientist, and Chemistry held a special place in his heart.”[^30]
+In 1979, the Science Council awarded Lee its gold medal to recognise his contributions to the “scientific, technological and industrial development of the Republic”.[^29] In 2005, he was awarded the Distinguished Alumni Award by the National University of Singapore’s Faculty of Science. In his foreword to Lee’s autobiography, _A Fabulous Journey_, Lee’s early mentor Professor Rayson Huang (then Vice-Chancellor of the University of Hong Kong) noted that Lee cherished this 2005 award above all others because “\[Lee\] Kum Tatt always regarded himself as a Scientist, and Chemistry held a special place in his heart”.[^30]
 
 Lee died in 2008 and his integral role in shaping science in Singapore has largely gone unknown and unacknowledged by the wider public. However, his dedication to creating a more scientific society has left behind a sprawling and indelible legacy through the range of institutions he built up, which continue to shape the nation today.
 
@@ -117,7 +117,7 @@ Lee died in 2008 and his integral role in shaping science in Singapore has large
 
 [^6]:  [Lee](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/09622b66-115e-11e3-83d5-0050568939ad), oral history interview, 4-8.
 
-[^7]:  “Varsity Exams To Begin Today,” _The Straits Times_, 30 May 1950, 5. (From NewspaperSG)
+[^7]:  “[Varsity Exams To Begin Today](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19500530-1.2.65),” _The Straits Times_, 30 May 1950, 5. (From NewspaperSG)
 
 [^8]:  Liviniyah P, “[Malayan Emergency](https://www.nlb.gov.sg/main/article-detail?cmsuuid=5896ad6b-03ab-4d31-80a7-dbebb2bb17d7),” Singapore Infopedia, published May 2019, https://www.nlb.gov.sg/main/article-detail?cmsuuid=5896ad6b-03ab-4d31-80a7-dbebb2bb17d7.
 
