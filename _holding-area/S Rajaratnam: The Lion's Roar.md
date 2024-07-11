@@ -10,6 +10,11 @@ description: The second volume of S. Rajaratnam’s authorised biography – The
 #### The second volume of S. Rajaratnam’s authorised biography – _The Lion’s Roar_ – was launched in July 2024. In her introduction to the book, extracted here, author Irene Ng explains how the journalist-turned-politician was a critical figure in Singapore’s early years.  
 By Irene Ng
 
+
+![](/images/Vol%2020%20Issue%203/Rajaratnam/rajaratnam_facing.jpg)
+<div style="background-color:white;">S. Rajaratnam when he was Minister for Foreign Affairs, c. 1970s. <i>S. Rajaratnam Collection, courtesy of National Archives of Singapore</i></div>
+
+
 You can make the tomorrow you want, provided you have the wisdom, the guts and the will to struggle for it.” This sentence captures in a nutshell the guiding philosophy of S. Rajaratnam, who stands out among the founding leaders of Singapore as its chief national ideologue and foreign policy strategist.
 
 This philosophy, with its emphasis on the future and the power of the human spirit, had been a basic premise of his political ideology long before he entered politics in 1959, and even longer before Singapore became independent in 1965. It was a dictum that was put to the test in his own eventful life. As a founding leader of the People’s Action Party (PAP) who went on to hold multiple key ministerial portfolios, he lived out his faith in unfathomable circumstances. Heartbreak, anxiety and despair hovered constantly over his attempts to overcome them.
