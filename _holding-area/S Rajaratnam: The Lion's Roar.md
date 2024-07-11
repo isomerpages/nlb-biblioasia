@@ -12,7 +12,7 @@ By Irene Ng
 
 
 ![](/images/Vol%2020%20Issue%203/Rajaratnam/rajaratnam_facing.jpg)
-<div style="background-color:white;">S. Rajaratnam when he was Minister for Foreign Affairs, c. 1970s. <i>S. Rajaratnam Collection, courtesy of National Archives of Singapore</i></div>
+<div style="background-color:white;">S. Rajaratnam when he was Minister for Foreign Affairs, c. 1970s. <i>S. Rajaratnam Collection, courtesy of National Archives of Singapore.</i></div>
 
 
 You can make the tomorrow you want, provided you have the wisdom, the guts and the will to struggle for it.” This sentence captures in a nutshell the guiding philosophy of S. Rajaratnam, who stands out among the founding leaders of Singapore as its chief national ideologue and foreign policy strategist.
@@ -23,7 +23,13 @@ Yet, his guiding belief in the power of the human will did not come naturally to
 
 In the rubber estate, Raja, as he was usually called, found himself the latest addition to the generations of Jaffna Tamil immigrants who had settled in the area. He grew up in an environment in which blood relations, tradition and tribe largely defined one’s world. His religious elders believed that one’s destiny was written in the stars, that one’s fate was determined at birth, by one’s horoscope, and could not be fully escaped. From young, he watched them consult the astrologer on anything and everything – be it choosing a marriage partner, starting a new job, or even determining an auspicious time to leave their house in the morning.&nbsp;
 
+![](/images/Vol%2020%20Issue%203/Rajaratnam/rajaratnam_young.jpg)
+<div style="background-color:white;">S. Rajaratnam when he was Minister for Foreign Affairs, c. 1970s. <i>S. Rajaratnam Collection, courtesy of National Archives of Singapore.</i></div>
+
 My first volume of Raja’s biography, _The Singapore Lion_, describes how he struggled with this fundamental notion as a young man; how he had his political awakening in London as a law student in King’s College from 1935, flirted with Marxist theory and found his gift as a writer as well as love with a Hungarian woman, Piroska Feher. It also relates how the outbreak of the Second World War in 1939 changed everything for him. His real university was not King’s College, from which he dropped out in 1940, but war-time Britain, where he learnt that politics was literally a matter of life and death.&nbsp;
+
+![](/images/Vol%2020%20Issue%203/Rajaratnam/rajaratnam_london.jpg)
+<div style="background-color:white;">S. Rajaratnam outside his flat in London. <i> Image reproduced from Irene Ng, The Singapore Lion: A Biography of S. Rajaratnam (Singapore: Institute of Southeast Asian Studies, 2010). (From National Library of Singapore, call no. RSING 327.59570092 NG).</i></div>
 
 At the age of 32, Raja returned to Malaya in 1947 with a new wife, Piroska, and a resolve to shape his own fate as well as that of his country, Malaya, of which Singapore was an inextricable part. He had found his calling: to fight for independence for his own country, and to usher in the post-colonial society to come.
 
