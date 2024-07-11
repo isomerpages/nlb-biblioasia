@@ -25,7 +25,7 @@ The incident might have been the first time the public had heard of Lee, but ove
 
 While he described himself as “quite apolitical,”[^3] Lee was nonetheless swept up in the dramatic political currents of his time – from the Second World War and violent postwar nationalism, to the Malayan Emergency and Malayanisation of the civil service.
 
-His frequent relocations testify to the comparatively porous world that existed then: Born in Medan, Indonesia in 1927, Lee moved to Penang, Malaysia when he was six months old to live with his maternal grandparents. In 1940, he returned to his parents in Medan. Within a year, war broke out and the island was occupied by the Japanese.
+His frequent relocations testify to the comparatively porous world that existed then. Born in Medan, Indonesia, in 1927, Lee moved to Penang, Malaysia, when he was six months old to live with his maternal grandparents. In 1940, he returned to his parents in Medan. Within a year, war broke out and the island was occupied by the Japanese.
 
 Lee described those years as “very traumatic”.[^4] He stopped school and undertook jobs like selling charcoal, black marketing, and farming. And yet, at least retrospectively, he thought those years did him some good, ridding him of “ego and false pride” while teaching him to value honour and dignity instead.[^5]
 
