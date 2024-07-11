@@ -64,6 +64,9 @@ When the PAP swept to power in self-governing Singapore in 1959, Raja, who becam
 
 For Raja, at least at that point, nothing was more important than building a united Malaysia, where people of all races would be equal. That was his big dream, his lodestar. His abhorrence of colonialism, of the exploitation of man by man, of racial discrimination and prejudice, had a moral rather than a political motivation.
 
+![](/images/Vol%2020%20Issue%203/Rajaratnam/rajaratnam_letter.jpg)
+<div style="background-color:white;"> S. Rajaratnam’s letter to Minister for Education Ong Pang Boon, dated 18 February 1966, suggesting the text for the pledge at school flag-raising ceremonies. <i>Ministry of Education Collection, courtesy of National Archives of Singapore.</i></div>
+
 ![](/images/Vol%2020%20Issue%203/Rajaratnam/rajaratnam_parliamentary.jpg)
 <div style="background-color:white;"> Then Foreign Affairs Minister S. Rajaratnam (extreme left) at a parliamentary session in 1967. To his left is Deputy Prime Minister Toh Chin Chye, Prime Minister Lee Kuan Yew and Finance Minister Goh Keng Swee. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
