@@ -36,6 +36,9 @@ At the age of 32, Raja returned to Malaya in 1947 with a new wife, Piroska, and 
 ![](/images/Vol%2020%20Issue%203/Rajaratnam/rajaratnam_wife.jpg)
 <div style="background-color:white;">S. Rajaratnam and wife Piroska in London, 1943–47. <i>S. Rajaratnam Collection, courtesy of National Archives of Singapore.</i></div>
 
+![](/images/Vol%2020%20Issue%203/Rajaratnam/rajaratnam_dinner.jpg)
+<div style="background-color:white;">(From left) Dennis Bloodworth, Mrs Bloodworth née Liang Ching Ping, Mrs Piroska Rajaratnam and Mrs Wee Kim Wee relaxing after dinner at the home of Senior Minister S. Rajaratnam at Chancery Lane. <i>S. Rajaratnam Collection, courtesy of National Archives of Singapore.</i></div>
+
 He became a journalist, using the power of words and ideas to stir people to action and to bring about change. His main vehicles were English-language newspapers the _Malaya Tribune_ and the _Tiger Standard_, also known as the _Singapore Standard_.
 
 His byline became a force in national politics as he crusaded against colonialism, communism and communalism. Besides writing for local radio and newspapers – which in those days were circulated in both Malaya and Singapore – he also worked as a stringer for foreign news agencies such as the London Observer News Service, the Pan-Asia Newspaper Alliance and _JANA: The News Magazine of Resurgent Asia and Africa_.&nbsp;
@@ -43,6 +46,12 @@ His byline became a force in national politics as he crusaded against colonialis
 Raja fought for more than a decade for the independence of his people in Malaya. They had been dominated, divided and exploited by the British for more than a century, and he rebelled against this. In 1954, together with his anti-colonial allies, he formed the left-wing PAP, led by Lee Kuan Yew.
 
 When the British gave Malaya – but not Singapore – its independence in 1957, he mounted another struggle – this time for Singapore’s independence through merger with Malaya to form Malaysia. His entrance to politics was announced in a five-paragraph article in the _Sunday Times_ on 29 March 1959. Headlined “Newsman Quits Job to Work for PAP”, it told readers simply that Raja, 44, the president of the Singapore Union of Journalists, had resigned from his job at the _Straits Times_ to do “full-time” work for the PAP.
+
+
+![](/images/Vol%2020%20Issue%203/Rajaratnam/rajaratnam_resigned.jpg)
+<div style="background-color:white;">S. Rajaratnam resigned from his job at the <i>Straits Times</i> to work full-time for the People’s Action Party. <i>S. Rajaratnam Collection, courtesy of National Archives of Singapore.</i></div>
+
+
 
 When the PAP swept to power in self-governing Singapore in 1959, Raja, who became the country’s first culture minister, stood out even among the most ideological leaders driving the merger campaign. He had long imagined Singapore and Malaya as one entity, as one “nation in the making” – to use the title of his 1957 radio play – and had considered their eventual union as necessary, if not inevitable. He was elated when the union finally materialised in 1963.
 
