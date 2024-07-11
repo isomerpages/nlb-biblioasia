@@ -33,6 +33,9 @@ My first volume of Raja’s biography, _The Singapore Lion_, describes how he st
 
 At the age of 32, Raja returned to Malaya in 1947 with a new wife, Piroska, and a resolve to shape his own fate as well as that of his country, Malaya, of which Singapore was an inextricable part. He had found his calling: to fight for independence for his own country, and to usher in the post-colonial society to come.
 
+![](/images/Vol%2020%20Issue%203/Rajaratnam/rajaratnam_wife.jpg)
+<div style="background-color:white;">S. Rajaratnam and wife Piroska in London, 1943–47. <i>S. Rajaratnam Collection, courtesy of National Archives of Singapore.</i></div>
+
 He became a journalist, using the power of words and ideas to stir people to action and to bring about change. His main vehicles were English-language newspapers the _Malaya Tribune_ and the _Tiger Standard_, also known as the _Singapore Standard_.
 
 His byline became a force in national politics as he crusaded against colonialism, communism and communalism. Besides writing for local radio and newspapers – which in those days were circulated in both Malaya and Singapore – he also worked as a stringer for foreign news agencies such as the London Observer News Service, the Pan-Asia Newspaper Alliance and _JANA: The News Magazine of Resurgent Asia and Africa_.&nbsp;
