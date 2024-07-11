@@ -5,7 +5,6 @@ permalink: /vol-11/issue-4/jan-mar-2016/malay-dictionary-crawfurd/
 image: /images/vol-11-issue-4/a-bilingual-dictionary/01_dictionary.jpg
 layout: post
 description: ""
-image: /images/vol-11-issue-4/a-bilingual-dictionary/01a_dictionary.jpg
 ---
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
 <b>Title:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=202671788">A Grammar and Dictionary of the Malay Language with a Preliminary Dissertation</a></i>
