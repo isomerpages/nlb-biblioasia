@@ -117,7 +117,7 @@ Lee died in 2008 and his integral role in shaping science in Singapore has large
 
 [^6]:  [Lee](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/09622b66-115e-11e3-83d5-0050568939ad), oral history interview, 4-8.
 
-[^7]:  “[Varsity Exams To Begin Today](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19500530-1.2.65),” _The Straits Times_, 30 May 1950, 5. (From NewspaperSG)
+[^7]:  “[Varsity Exams to Begin Today](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19500530-1.2.65),” _The Straits Times_, 30 May 1950, 5. (From NewspaperSG)
 
 [^8]:  Liviniyah P, “[Malayan Emergency](https://www.nlb.gov.sg/main/article-detail?cmsuuid=5896ad6b-03ab-4d31-80a7-dbebb2bb17d7),” Singapore Infopedia, published May 2019, https://www.nlb.gov.sg/main/article-detail?cmsuuid=5896ad6b-03ab-4d31-80a7-dbebb2bb17d7.
 
