@@ -179,5 +179,5 @@ He was the true Singapore lion who roared, and roared till the end. In a way, it
 <br></div>
 
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src="/images/Authors/Irene%20Ng.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/irene.png">
 <b>Irene Ng</b> is the authorised biographer of S. Rajaratnam and Writer-in-Residence at the Institute of ISEAS – Yusof Ishak Institute. She was formerly an award-winning senior political correspondent and a Member of Parliament in Singapore.</div>
