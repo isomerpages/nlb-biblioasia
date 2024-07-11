@@ -113,6 +113,12 @@ As Singapore’s first and longest-serving foreign minister, Raja also came to e
 
 His efforts to secure Singapore’s sovereignty on the international stage set the direction for the vulnerable city-state’s foreign policy and its approach to international relations for generations to come. He also played an important role in the defining events that shaped the region – the Indonesian Confrontation in the 1960s, the British military withdrawal in the early 1970s, and Vietnam’s invasion of Kampuchea (present-day Cambodia) in 1978. His work makes him a significant figure in the history of Southeast Asia.
 
+
+![](/images/Vol%2020%20Issue%203/Rajaratnam/rajaratnam_dinner2.jpg)
+<div style="background-color:white;"> As Foreign Affairs Minister, S. Rajaratnam is introduced to Deng Xiaoping, then Senior Vice-Premier of the People's Republic of China by Tan Keng Jin, Chief of Protocol at the Ministry of Foreign Affairs, at a dinner hosted by Prime Minister Lee Kuan Yew and Mrs Lee at the Istana, 1978. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
+
+
 At each step of his perilous journey, Raja found himself having to face unexpected dangers and to make critical decisions – some particularly contentious – that would decide the country’s fate. My account of the early years of Singapore’s independence reveals how powerfully “the past” sought to reassert itself, and how dreadful were the dilemmas which confronted the brave souls who took it upon themselves to represent the future. Far-sighted, patient and persistent, Raja forged alliances, sustained the spirits of those around him, and translated the meaning of their struggle into words of force on the international stage.
 
 One would be hard put to invent a foreign minister who could have better guided Singapore’s foreign policy through the dark days following its independence.
