@@ -52,6 +52,10 @@ When the British gave Malaya – but not Singapore – its independence in 1957,
 <div style="background-color:white;">S. Rajaratnam resigned from his job at the <i>Straits Times</i> to work full-time for the People’s Action Party. <i>Source: The Straits Times, 29 March 1959 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 
+![](/images/Vol%2020%20Issue%203/Rajaratnam/rajaratnam_election.jpg)
+<div style="background-color:white;"> S. Rajaratnam speaking at an election mass rally in Chinatown on 26 April 1959. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
+
 
 When the PAP swept to power in self-governing Singapore in 1959, Raja, who became the country’s first culture minister, stood out even among the most ideological leaders driving the merger campaign. He had long imagined Singapore and Malaya as one entity, as one “nation in the making” – to use the title of his 1957 radio play – and had considered their eventual union as necessary, if not inevitable. He was elated when the union finally materialised in 1963.
 
