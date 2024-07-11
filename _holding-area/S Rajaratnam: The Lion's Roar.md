@@ -49,7 +49,7 @@ When the British gave Malaya – but not Singapore – its independence in 1957,
 
 
 ![](/images/Vol%2020%20Issue%203/Rajaratnam/rajaratnam_resigned.jpg)
-<div style="background-color:white;">S. Rajaratnam resigned from his job at the <i>Straits Times</i> to work full-time for the People’s Action Party. <i>S. Rajaratnam Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color:white;">S. Rajaratnam resigned from his job at the <i>Straits Times</i> to work full-time for the People’s Action Party. <i>Source: The Straits Times, 29 March 1959 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 
 
