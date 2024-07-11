@@ -27,7 +27,7 @@ While he described himself as “quite apolitical,”[^3] Lee was nonetheless sw
 
 His frequent relocations testify to the comparatively porous world that existed then. Born in Medan, Indonesia, in 1927, Lee moved to Penang, Malaysia, when he was six months old to live with his maternal grandparents. In 1940, he returned to his parents in Medan. Within a year, war broke out and the island was occupied by the Japanese.
 
-Lee described those years as “very traumatic”.[^4] He stopped school and undertook jobs like selling charcoal, black marketing, and farming. And yet, at least retrospectively, he thought those years did him some good, ridding him of “ego and false pride” while teaching him to value honour and dignity instead.[^5]
+Lee described those years as “very traumatic”.[^4] He stopped school and undertook jobs like selling charcoal, black marketing and farming. And yet, at least retrospectively, he thought those years did him some good, ridding him of “ego and false pride” while teaching him to value honour and dignity instead.[^5]
 
 The end of the war saw clashes between Indonesian nationalists and the Dutch who were trying to reassert their colonial dominance. Lee was a volunteer with the International Red Cross as an interpreter for the British Army (sent to disarm the Japanese). When his family was targeted for associating with foreigners, Lee and his family were forced to flee to Penang. There, he was able to complete his schooling and gain admission into Raffles College in 1948 to study chemistry.[^6]
 
