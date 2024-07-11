@@ -145,22 +145,4 @@ Lee died in 2008 and his integral role in shaping science in Singapore has large
 
 [^20]:  [Lee Kum Tatt](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/09654b15-115e-11e3-83d5-0050568939ad), oral history interview by Dr Daniel Chew, 5 August 1993, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/0/096b9a00-115e-11e3-83d5-0050568939ad-OHC000821_006/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=9) and audio, Reel/Disc 6 of 10, National Archives of Singapore ([accession no. 000821](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/096b9a00-115e-11e3-83d5-0050568939ad)), 68.
 
-[^21]:  Sharad Pandian, “Singapore’s National Souvenir: The Gold-plated Past of RISIS,” BiblioAsia, published June 2024, [https://biblioasia.nlb.gov.sg/localicons/2024/6/risis-gold-orchid-tourism-souvenir/](https://biblioasia.nlb.gov.sg/localicons/2024/6/risis-gold-orchid-tourism-souvenir/).
-
-[^22]:  “[A ‘SISIR’ Stamp Means Quality Product](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19690619-1.2.24),” _Straits Times_, 19 June 1969, 4. (From NewspaperSG)
-
-[^23]:  “[PQR Shows What It Really Means To Think Quality In The Work You Do](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730517-1.2.81),” _Straits Times_, 17 May 1973, 12. (From NewspaperSG)
-
-[^24]:  [Rex Anthony Shelley](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/fe6d4107-115e-11e3-83d5-0050568939ad), oral history interview by Ghalpanah Thangaraju, 31 January 2002, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/f/fe6d4107-115e-11e3-83d5-0050568939ad-OHC002602_004/web/html5/index.html?pn=5) and MP3 audio, Reel/Disc 4 of 12, National Archives of Singapore ([accession no. 002602](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/fe6d4107-115e-11e3-83d5-0050568939ad)), 52-53.
-
-[^25]:  Lee, _[A Fabulous Journey](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14651733)_, 97-98.; “[When and How It All Began](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19771210-1.2.132.4),” _Straits Times_, 10 December 1977, 41. (From NewspaperSG)
-
-[^26]:  “[Hard at It—Trying to Tackle 150 Queries in 30 Minutes](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730407-1.2.55),” _Straits Times_, 7 April 1973, 9 (From NewspaperSG)
-
-[^27]:  Lee, _[A Fabulous Journey](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14651733)_, 18-19
-
-[^28]:  [Lee Kum Tatt](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/09654b15-115e-11e3-83d5-0050568939ad), oral history interview by Dr Daniel Chew, 5 August 1993, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/0/033b4eb1-115e-11e3-83d5-0050568939ad-OHC000821_008/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=7) and audio, Reel/Disc 8 of 10, National Archives of Singapore ([accession no. 000821](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/096b9a00-115e-11e3-83d5-0050568939ad)), 94.
-
-[^29]:  “[The Gold Medal Winner](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19790519-1.2.11.8),” _Business Times_, 19 May 1979, 2. (From NewspaperSG)
-
-[^30]:  Lee, _[A Fabulous Journey](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14651733)_, v-vi.
+[^21]:  Sharad Pandian, “Singapore’s National Souvenir: The Gold-plated Past of RISIS,” <i>BiblioAsia</i>
