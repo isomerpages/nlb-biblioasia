@@ -59,6 +59,9 @@ When the British gave Malaya – but not Singapore – its independence in 1957,
 
 When the PAP swept to power in self-governing Singapore in 1959, Raja, who became the country’s first culture minister, stood out even among the most ideological leaders driving the merger campaign. He had long imagined Singapore and Malaya as one entity, as one “nation in the making” – to use the title of his 1957 radio play – and had considered their eventual union as necessary, if not inevitable. He was elated when the union finally materialised in 1963.
 
+![](/images/Vol%2020%20Issue%203/Rajaratnam/rajaratnam_opening.jpg)
+<div style="background-color:white;"> S. Rajaratnam, then Culture Minister, flanked by Yang di-Pertuan Negara Yusof Ishak (right) and Lee Khoon Choy, Parliamentary Secretary to the Ministry of Culture, at the opening of the National Library on 12 November 1960. <i>Yusof Ishak Collection, courtesy of National Archives of Singapore.</i></div>
+
 For Raja, at least at that point, nothing was more important than building a united Malaysia, where people of all races would be equal. That was his big dream, his lodestar. His abhorrence of colonialism, of the exploitation of man by man, of racial discrimination and prejudice, had a moral rather than a political motivation.
 
 _The Singapore Lion_ ended with the merger in 1963, with a glimpse of the troubles to come. This second volume, _The Lion’s Roar_, covers the period from Singapore’s merger with Malaya to form Malaysia in 1963, to his death in 2006.
