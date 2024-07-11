@@ -89,7 +89,7 @@ He also led the charge to ensure that locally manufactured products met appropri
 Lee was also committed to making science accessible to the broader public. When he found out that his university classmate, Rex Shelley, had been working on establishing a small Science Centre in a shophouse, Lee convinced him that it needed to be a government-funded project.[^24] In 1969, Lee secured UNESCO funding and personnel from the Science Museum in London to help draw up a proposal, which ultimately led to the official opening of the Singapore Science Centre in 1977.[^25]
 
 <img src="/images/Online%20Only%20Articles/Dr%20Lee%20Kum%20Tatt/spore_science_ctr.png" style="width: 80%;">
-<div style="background-color: white;">The Singapore Science Centre opened in 1977.<i> Image reproduced from “Centre Will Be More Than Just a Science Museum,” Business Times, 10 December 1977, 15. (From NewspaperSG)</i></div>
+<div style="background-color: white;">The Singapore Science Centre opened in 1977.<i> Source: The Business Times, 10 December 1977 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 Another brainchild of Lee’s was the Science and Industry Quiz, a televised educational programme where secondary school students competed to answer general questions on Science. Teams from more than 50 schools across the country participated in the preliminary round, with the highest scoring 12 teams selected for the televised portion.[^26] While the contestants were students, the programme’s popularity resulted in entire families learning together and becoming more “science-minded.”[^27] Lee recalled one friend telling him: “\[The quiz\] is one show my grandfather, father and children all sat in front of the TV and watched. And all tried to answer.”[^28]
 
