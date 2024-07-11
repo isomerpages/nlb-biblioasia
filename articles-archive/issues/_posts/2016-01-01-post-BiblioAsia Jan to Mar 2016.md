@@ -4,6 +4,7 @@ permalink: /vol-11/issue-4/jan-mar-2016/
 date: 2016-01-01
 layout: post
 description: ""
+variant: markdown
 ---
 ![Alt text for image on Isomer site](/images/vol-11-issue-4/ba11-4-1.jpg)
 
@@ -30,7 +31,7 @@ The National Library’s newest exhibition, “From the Stacks”, presents high
 *A Grammar and Dictionary of the Malay Language with a Preliminary Dissertation* [(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_BilingualDictionary.pdf)
 
 **[Crawfurd on Southeast Asia](/vol-11/issue-4/jan-mar-2016/dictionary-indian-islands-crawfurd)**<br>
-*A Descriptive Dictionary of the Indian Islands & Adjacent Countries* [(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_Crawfurd.pdf)
+*A Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries* [(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_Crawfurd.pdf)
 
 **[Notes on a Little Island](/vol-11/issue-4/jan-mar-2016/journal-embassy-crawfurd)**<br>
 *Journal of an Embassy from the Governor-General of India to the Courts of Siam and Cochin  China: Exhibiting a View of the Actual State of Those Kingdoms* [(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_LittleIsland.pdf)
@@ -51,7 +52,7 @@ The National Library’s newest exhibition, “From the Stacks”, presents high
 *Letter from Sir Thomas Stamford Raffles to John Tayler* [(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_PoliticalManoeuvres.pdf)
 
 **[The Map That Opened Up Southeast Asia](/vol-11/issue-4/jan-mar-2016/map-south-east-asia-exacta-accurata-linschoten)**<br>
-*Exacta & Accurata Delineatio cum Orarum Maritimdrum tum etjam locorum terrestrium quae in Regionibus China, Cauchinchina, Camboja sive Champa, Syao, Malacca, Arracan & Pegu…* [(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_MapOpenedUp.pdf)
+*Exacta &amp; Accurata Delineatio cum Orarum Maritimdrum tum etjam locorum terrestrium quae in Regionibus China, Cauchinchina, Camboja sive Champa, Syao, Malacca, Arracan &amp; Pegu…* [(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_MapOpenedUp.pdf)
 
 **[The Book That Almost Didn’t Happen](/vol-11/issue-4/jan-mar-2016/notices-indian-archipelago-john-henry-moor)**<br>
 *Notices of the Indian Archipelago, and Adjacent Countries: Being a Collection of Papers Relating to Borneo, Celebes, Bali, Java, Sumatra, Nias, the Philippine islands, Sulus, Siam, Cochin China, Malayan Peninsula, etc* [(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_BookDidntHappen.pdf)
@@ -92,7 +93,7 @@ The National Library’s newest exhibition, “From the Stacks”, presents high
 **[Indian Muslim Devotional Poems](/vol-11/issue-4/jan-mar-2016/indian-muslim-devotional-poems-munajathu-thirattu)**<br>
 *Munajathu Thirattu* (முனாஜாத்துத் திரட்டு) [(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_DevotionalPoems.pdf)
 
-**[English Nursey Rhymes with a Malay Spin](/vol-11/issue-4/jan-mar-2016/haji-malayan-nursery-rhymes)**<br>
+**[English Nursery Rhymes with a Malay Spin](/vol-11/issue-4/jan-mar-2016/haji-malayan-nursery-rhymes)**<br>
 *Haji’s Book of Malayan Nursery Rhymes* [(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_MalaySpin.pdf)
 
 **[Stories of Abdullah](/vol-11/issue-4/jan-mar-2016/hikayat-abdullah-abdul-kadir-munsyi)**<br>
@@ -144,7 +145,7 @@ The National Library’s newest exhibition, “From the Stacks”, presents high
 *Reports of the Singapore Library (1844– 52, 1860)* [(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_PublicLibrary.pdf)
 
 **[A Christian Sermon in Malay](/vol-11/issue-4/jan-mar-2016/christian-sermon-malay-claudius-henry-thomsen)**<br>
-*The Substance of Our Saviour’s Sermon on the Mount Contained in the 5th, 6th &c. 7th Chapters of the Gospel According to St. Matthew* [(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_ChristianSermon.pdf)
+*The Substance of Our Saviour’s Sermon on the Mount Contained in the 5th, 6th &amp;c. 7th Chapters of the Gospel According to St. Matthew* [(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_ChristianSermon.pdf)
 
 **[Cartoons of Terror](/vol-11/issue-4/jan-mar-2016/chop-suey-liu-kang)**<br>
 *Chop Suey* (杂碎画集) [(PDF)](/files/pdf/vol-11/issue-4/v11-issue4_CartoonsTerror.pdf)
