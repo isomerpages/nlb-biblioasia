@@ -94,7 +94,7 @@ But unlike some others, after every obstruction, every catastrophe, Raja somehow
 
 Certainly, he was not alone in his desire to build a non-communal and meritocratic Singapore that was open to the world – a Singaporean Singapore, as he called it. But, more than anyone else in the early decades of Singapore’s evolution, he became its symbol and its spokesman. Yet he was not typical of the times, nor was he the archetype of Singapore’s national character – for that, too, was still a work in progress. What Raja was, was the _essential_ Singaporean.
 
-![](/images/Vol%2020%20Issue%203/Rajaratnam/rajaratnam_parliamentary.jpg)
+![](/images/Vol%2020%20Issue%203/Rajaratnam/rajaratnam_shakeshand.jpg)
 <div style="background-color:white;"> S. Rajaratnam, then Culture Minister, smiles broadly as Home Affairs Minister Ong Pang Boon (second from left) shakes hands with Malaysian Prime Minister Tunku Abdul Rahman in 1961. To the left of Ong is Education Minister Yong Nyuk Lin while Prime Minister Lee Kuan Yew is on the far right. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 It might seem strange that such a person – a Jaffna Tamil born in Ceylon and raised in Seremban, a university dropout who spent 12 years in London mixing with progressive Afro-Asian writers and radical thinkers – should have come to embody this. I would argue the opposite: only by standing outside of the conventional concepts that made up Singapore then, could someone reimagine and remake Singapore, as Raja sought to do.
