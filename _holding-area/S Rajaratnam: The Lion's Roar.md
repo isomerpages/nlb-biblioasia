@@ -64,6 +64,9 @@ When the PAP swept to power in self-governing Singapore in 1959, Raja, who becam
 
 For Raja, at least at that point, nothing was more important than building a united Malaysia, where people of all races would be equal. That was his big dream, his lodestar. His abhorrence of colonialism, of the exploitation of man by man, of racial discrimination and prejudice, had a moral rather than a political motivation.
 
+![](/images/Vol%2020%20Issue%203/Rajaratnam/rajaratnam_parliamentary.jpg)
+<div style="background-color:white;"> Then Foreign Affairs Minister S. Rajaratnam (extreme left) at a parliamentary session in 1967. To his left is Deputy Prime Minister Toh Chin Chye, Prime Minister Lee Kuan Yew and Finance Minister Goh Keng Swee. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 _The Singapore Lion_ ended with the merger in 1963, with a glimpse of the troubles to come. This second volume, _The Lion’s Roar_, covers the period from Singapore’s merger with Malaya to form Malaysia in 1963, to his death in 2006.
 
 It traces Raja’s crusade for a “Malaysian Malaysia” during the merger years, and its tragic end. It charts his subsequent odyssey to fight for Singapore’s survival as an independent country and to create the national ideology of a country born in turbulent times. It reveals the mistakes made along the way – from inexperience, miscalculation and sheer desperation – and the efforts to overcome the dramatic reversals that threatened to destroy his dreams.
