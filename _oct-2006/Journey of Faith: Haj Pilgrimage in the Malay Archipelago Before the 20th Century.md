@@ -149,7 +149,7 @@ By the early 20th century, the Haj had become a competitive business with seriou
 <center><b>Nor Afidah Abd Rahman</b><br>Senior Reference Librarian<br>Lee Kong Chian Reference Library</center></div>
 
 #### **REFERENCES**
-Abdullah al-Qari Haji Salleh, _[Sejarah Hidup To’ Kenali](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=%3C4121344)_ (Kota Bharu: Pustaka Aman Press, 1967). (From National Library, Singapore, call no. Malay RCLOS 920.0595 KEN.A)
+Abdullah al-Qari Haji Salleh, _[Sejarah Hidup To’ Kenali](https://catalogue.nlb.gov.sg/search/card?recordId=4121344)_ (Kota Bharu: Pustaka Aman Press, 1967). (From National Library, Singapore, call no. Malay RCLOS 920.0595 KEN.A)
 
 Abdullah bin Abdul Kadir Munshi, _[Kisah Pelayaran Abdullah Ka-Kelantan Dan Ka-Judah Di-Beri Pengenalan Dan Anotasi Oleh Kassim Ahmad](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=%3C6864752)_&nbsp;(Singapore: Malaya Publishing House, 1960). (From National Library, Singapore, call no. Malay RCLOS 959.5 ABD)
 
