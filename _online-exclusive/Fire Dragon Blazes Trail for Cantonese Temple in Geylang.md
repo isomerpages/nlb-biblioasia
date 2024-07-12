@@ -83,7 +83,7 @@ The joss sticks take between three and four hours to burn through which means th
 <div style="background-color: white;">The Fire Dragon parading down Sims Drive, 2023. <i>Courtesy of Yeo GT.</i></div>
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Fire_dragon_in_flames.jpg" style="width: 80%;">
 <div style="background-color: white;">The Fire Dragon in flames, c.1990s. <i>Courtesy of Mun San Fook Tuck Chee.</i></div><br>
-<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/-mr5YlqKFBs?feature=share" frameborder="0" allowfullscreen=""></iframe></div><br>
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/-mr5YlqKFBs?feature=share" frameborder="0" allowfullscreen=""></iframe></div>
 <div style="background-color: white;">The Fire Dragon took to the streets again in 2024.&nbsp;<i>Video courtesy of Angela Sim.</i></div>
 
 
