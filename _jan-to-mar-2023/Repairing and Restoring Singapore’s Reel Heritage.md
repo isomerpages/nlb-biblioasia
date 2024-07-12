@@ -14,7 +14,7 @@ By Chew Tee Pao
 Wong Kar Wai’s *In the Mood for Love* (2000). David Lean’s *Lawrence of Arabia* (1962). Charlie Chaplin’s *Modern Times* (1936). Satyajit Ray’s *Pather Panchali* (1955). These are just a handful of canonical works by the auteurs of world cinema that have been digitally restored in the last 10 years.
 
 <div style="background-colour:#fff6ba; padding:5px;font-size:120%; background: #fff6ba"><center>  
-<b>Listen to the podcast episode "<a href="https://biblioasia.nlb.gov.sg/podcast/saving-singapores-film-heritage/">https://biblioasia.nlb.gov.sg/podcast/saving-singapores-film-heritage/</a>Saving Singapore’s Film Heritage </b>  
+<b>Listen to the podcast episode "<a href="https://biblioasia.nlb.gov.sg/podcast/saving-singapores-film-heritage/">Saving Singapore’s Film Heritage</a>" </b>  
 <br>  
 <img style="width:95%" alt="singapore history podcast Saving Singapore’s Film Heritage" src="/images/Podcast/ad_banner_biblioasia.jpg"> </center></div>
 
