@@ -161,13 +161,13 @@ Dadan Wildan, “[Perjumpaan Islam Dengan Tradisi Sunda](https://sundaislam.word
 
 David W. Tschanz, “[Journeys of Faith, Roads to Civilization](https://archive.aramcoworld.com/issue/200401/journeys.of.faith.roads.of.civilization.htm),” *Saudi Aramco World* 55, no. 1 (January–February 2004): 3–4.
 
-Edwin Lee, _[The British as Rulers: Governing Multiracial Singapore 1867–1914](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=%3C5678026)_ (Singapore: Singapore University Press, 1991), 166–67. (From National Library, Singapore, call no. RSING 959.57022 LEE-\[HIS\])
+Edwin Lee, _[The British as Rulers: Governing Multiracial Singapore 1867–1914](https://catalogue.nlb.gov.sg/search/card?recordId=5678026)_ (Singapore: Singapore University Press, 1991), 166–67. (From National Library, Singapore, call no. RSING 959.57022 LEE-\[HIS\])
 
-Harun Aminurrashid,&nbsp;_[Chatetan Ka-Tanah Suchi](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=%3C4078526)_&nbsp;(Singapura: Pustaka Melayu, 1960). (From National Library, Singapore, call no. Malay RCLOS 297.55 HAR)
+Harun Aminurrashid,&nbsp;_[Chatetan Ka-Tanah Suchi](https://catalogue.nlb.gov.sg/search/card?recordId=4078526)_&nbsp;(Singapura: Pustaka Melayu, 1960). (From National Library, Singapore, call no. Malay RCLOS 297.55 HAR)
 
-_[Hikayat Hang Tuah](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=%3C12221058)_&nbsp;(Singapore: Malaya Publishing House, 1950). (From National Library, Singapore, call no. Malay RCLOS 899.28 HIK)
+_[Hikayat Hang Tuah](https://catalogue.nlb.gov.sg/search/card?recordId=12221058)_&nbsp;(Singapore: Malaya Publishing House, 1950). (From National Library, Singapore, call no. Malay RCLOS 899.28 HIK)
 
-“[History of Trade](http://www.historyworld.net/wrldhis/plaintexthistories.asp?historyid=ab72),”&nbsp;_Historyworld_, accessed 24 August 2006.
+“[History of Trade](https://historyworld.net/history/Trade/273?section=ToThe1stCenturyBc),”&nbsp;_Historyworld_, accessed 24 August 2006.
 
 Martin van Bruinessen, “Mencari Ilmu Dan Pahala Di Tanah Suci: Orang Nusantara Naik Haji \[Seeking knowledge and merit: Indonesians on the haj\],” in&nbsp;_Indonesia Dan Haji: Empat Karangan_, ed. Dick Douwes and N. J. G. Kaptein (Jakarta: INIS, 1997).
 
