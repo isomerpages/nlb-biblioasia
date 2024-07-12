@@ -18,10 +18,10 @@ Film restoration is often thought of as a process that is necessary for older fi
 However, even films of a more recent vintage are candidates for restoration. Often, a movie is seen as a commercial enterprise, made with an eye towards ensuring relatively quick returns for investors. It is only with the passage of time that some of these movies become classics and end up as candidates for restoration. 
 
 <div style="background-colour:#fff6ba; padding:5px;font-size:120%; background: #fff6ba"><center>  
-<b>Listen to the podcast episode <a href="https://biblioasia.nlb.gov.sg/podcast/saving-singapores-film-heritage/">	Saving Singapore’s Film Heritage (https://biblioasia.nlb.gov.sg/podcast/saving-singapores-film-heritage/)
-</a></b><a href="https://biblioasia.nlb.gov.sg/podcast/saving-singapores-film-heritage/">  
+<b>Listen to the podcast episode <a href="https://biblioasia.nlb.gov.sg/podcast/saving-singapores-film-heritage/">Saving Singapore’s Film Heritage </a></b>
+
 <br>  
-<img style="width:95%" alt="singapore history podcast Saving Singapore’s Film Heritage" src="/images/Podcast/ad_banner_biblioasia.jpg"> </a></center></div><a href="https://biblioasia.nlb.gov.sg/podcast/saving-singapores-film-heritage/">
+<img style="width:95%" alt="singapore history podcast Saving Singapore’s Film Heritage" src="/images/Podcast/ad_banner_biblioasia.jpg"> </center></div>
 
 
 #### **Mee Pok Man**
@@ -149,4 +149,4 @@ the archive’s collection.</div>
 
 [^8]: “Restored: They Call Her… Cleopatra Wong (1978),” Asian Film Archive, accessed 18 March 2023, https://asianfilmarchive.org/event-calendar/restored-they-call-her-cleopatra-wong-1978/.
 
-[^9]: “They Call Her… Cleopatra Wong (1978),” Asian Film Archive, accessed 18 March 2023, https://www.asianfilmarchive.org/event-calendar/they-call-her-cleopatra-wong-1978-2022-3/.</a>
+[^9]: “They Call Her… Cleopatra Wong (1978),” Asian Film Archive, accessed 18 March 2023, https://www.asianfilmarchive.org/event-calendar/they-call-her-cleopatra-wong-1978-2022-3/.
