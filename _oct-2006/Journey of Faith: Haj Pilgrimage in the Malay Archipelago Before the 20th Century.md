@@ -151,11 +151,9 @@ By the early 20th century, the Haj had become a competitive business with seriou
 #### **REFERENCES**
 Abdullah al-Qari Haji Salleh, _[Sejarah Hidup To’ Kenali](https://catalogue.nlb.gov.sg/search/card?recordId=4121344)_ (Kota Bharu: Pustaka Aman Press, 1967). (From National Library, Singapore, call no. Malay RCLOS 920.0595 KEN.A)
 
-Abdullah bin Abdul Kadir Munshi, _[Kisah Pelayaran Abdullah Ka-Kelantan Dan Ka-Judah Di-Beri Pengenalan Dan Anotasi Oleh Kassim Ahmad](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=%3C6864752)_&nbsp;(Singapore: Malaya Publishing House, 1960). (From National Library, Singapore, call no. Malay RCLOS 959.5 ABD)
-
 Abdullah Munshi,&nbsp;_[Kisah Pelayaran Abdullah Ka-Kelantan Dan Ka-Judah Di-Beri Pengenalan Dan Anotasi Oleh Kassim Ahmad](https://catalogue.nlb.gov.sg/search/card?recordId=4568037)_&nbsp;(Kuala Lumpur: Oxford University Press, 1960). (From National Library, Singapore, call no. Malay RCLOS 959.5 ABD)
 
-Arsip Nasional Republik Indonesia,&nbsp;_[Biro Perjalanan Haji Di Indonesia Masa Colonial: Agen Herklots Dan Firma Alsegoff &amp; Co](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=%3C12330134)_&nbsp;(Jakarta: Arsip Nasional Republik Indonesia, 2001), xvi–xxi. (From National Library, Singapore, call no. Malay RSEA 297.352 BIR)
+Arsip Nasional Republik Indonesia,&nbsp;_[Biro Perjalanan Haji Di Indonesia Masa Colonial: Agen Herklots Dan Firma Alsegoff &amp; Co](https://catalogue.nlb.gov.sg/search/card?recordId=12330134)_&nbsp;(Jakarta: Arsip Nasional Republik Indonesia, 2001), xvi–xxi. (From National Library, Singapore, call no. Malay RSEA 297.352 BIR)
 
 Dadan Wildan, “[Orang-Orang Sunda Pertama Yang Naik Haji](http://pajajaran.blogspot.com/2006/09/orang-orang-sunda-pertama-yang-naik.html),” Blog, 14 September 2006.
 
