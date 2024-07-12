@@ -4,6 +4,7 @@ permalink: /vol-3/issue2/jul-2007/harun-aminurrashid/
 description: Born Harun Bin Mohd Amin, Harun’s other pen names include Har,
   Gustam Negara, Atma Jiwa and Si Ketuit. He was a prolific writer and editor of
   several newspapers and magazines.
+variant: markdown
 ---
 #### Born Harun Bin Mohd Amin, Harun’s other pen names include Har, Gustam Negara, Atma Jiwa and Si Ketuit. He was a prolific writer and editor of several newspapers and magazines.
 
@@ -192,7 +193,7 @@ Sundusia Rosdi, "Harun Aminurrashid" dalam [_Sastera dan Sasterawan_](https://es
 
 #### **ANTARA KARYA-KARYA HARUN AMINURRASHID YANG TERDAPAT DI PERPUSTAKAAN NEGARA DAN CAWANGAN-CAWANGAN NYA**
 
-Harun Aminurrashid, [_Anak Panglima Awang_](8)_,_ (Singapura: Pustaka Melayu, 1961). (Call no. Malay RCLOS 899.13 HAR)
+Harun Aminurrashid, [_Anak Panglima Awang_](https://catalogue.nlb.gov.sg/search/card?recordId=200063599) (Singapura: Pustaka Melayu, 1961). (Call no. Malay RCLOS 899.13 HAR)
 
 Harun Aminurrashid, [_Awang Dan Dara: Buku Bachaan Tambahan Untok murid2 Darjah Rendah_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4078525) (Singapura:Pustaka Melayu, \[1963–1964\]). (Call no. Malay RCLOS 499.18 HAR)
 
