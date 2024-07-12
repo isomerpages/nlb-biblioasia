@@ -4,6 +4,7 @@ permalink: /vol-6/issue-3/oct-2010/
 date: 2010-10-01
 layout: post
 description: ""
+variant: markdown
 ---
 ![Alt text for image on Isomer site](/images/covers/ba6-3.jpg)
 
@@ -27,7 +28,7 @@ Senior Librarian *Timothy Pwee* provides a starting point for researchers seekin
 <a style="text-decoration: none; font-weight: bold;" href="/vol-6/issue-3/oct-2010/singapore-willis-tourist-guide/">Early Tourist Guidebooks: Willis’ Singapore Guide (1936)</a><br>
 Senior Librarian *Bonny Tan* examines the *Willis’ Singapore Guide*, an early tourist guidebook available at the National Library. [(PDF)](/files/pdf/vol-6/issue-3/v6-issue3_WillisGuide.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-6/issue-4/jan-2011/brunei-malaysia-singapore-berita-treasury/">The Berita Database: An Online Treasury on Brunei, Malaysia and Singapore</a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-6/issue-3/oct-2010/brunei-malaysia-singapore-berita-treasury/">The Berita Database: An Online Treasury on Brunei, Malaysia and Singapore</a><br>
 *Jeffrey L. Ferrier*, a curator at the Ohio University Libraries, introduces the Berita Database managed by the staff at Ohio University. [(PDF)](/files/pdf/vol-6/issue-3/v6-issue3_BeritaDatabase.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-6/issue-3/oct-2010/national-library-business-credit-advisory/">Business and Personal Credit Advisory Services at the National Library</a><br>
