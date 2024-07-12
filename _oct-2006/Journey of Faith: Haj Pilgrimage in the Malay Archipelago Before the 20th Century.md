@@ -171,17 +171,17 @@ _[Hikayat Hang Tuah](https://catalogue.nlb.gov.sg/search/card?recordId=12221058)
 
 Martin van Bruinessen, “Mencari Ilmu Dan Pahala Di Tanah Suci: Orang Nusantara Naik Haji \[Seeking knowledge and merit: Indonesians on the haj\],” in&nbsp;_Indonesia Dan Haji: Empat Karangan_, ed. Dick Douwes and N. J. G. Kaptein (Jakarta: INIS, 1997).
 
-Michael Francis Laffan,&nbsp;_[Islamic Nationhood and Colonial Indonesia: The Umma below the Winds](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=%3C11707504)_&nbsp;(London: RoutledgeCurzon, 2003). (From National Library, Singapore, call no. RSEA 959.8022 LAF)
+Michael Francis Laffan,&nbsp;_[Islamic Nationhood and Colonial Indonesia: The Umma below the Winds](https://catalogue.nlb.gov.sg/search/card?recordId=11707504)_&nbsp;(London: RoutledgeCurzon, 2003). (From National Library, Singapore, call no. RSEA 959.8022 LAF)
 
 Muhammad Salleh bin Haji Awang,&nbsp;_Haji Di Semenanjung Malaysia: Sejarah Dan Perkembangannya Sejak Tahun 1300–1405H (1896–1985M)_&nbsp;(Kuala Terengganu: Syarikat Percetakan Yayasan Islam Terengganu, 1986), 107–37.
 
-Peter Riddell, “Arab Migrants and Islamization in the Malay World during the Colonial Period,”&nbsp;_[Indonesia and the Malay World](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=%3C8347428)_&nbsp;29, no. 84 (2001): 113–28. (From National Library, Singapore, call no. RSING 959.8 IMW)
+Peter Riddell, “Arab Migrants and Islamization in the Malay World during the Colonial Period,”&nbsp;_[Indonesia and the Malay World](https://catalogue.nlb.gov.sg/search/card?recordId=8347428)_&nbsp;29, no. 84 (2001): 113–28. (From National Library, Singapore, call no. RSING 959.8 IMW)
 
-Raimy Che-Ross, “Munshi Abdullah’s Voyage to Mecca: A Preliminary Introduction and Annotated Translation,”&nbsp;_[Indonesia and the Malay World](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=%3C8347428)_&nbsp;28, no. 81 (2000): 173–213. (From National Library, Singapore, call no. RSING 959.8 IMW)
+Raimy Che-Ross, “Munshi Abdullah’s Voyage to Mecca: A Preliminary Introduction and Annotated Translation,”&nbsp;_[Indonesia and the Malay World](https://catalogue.nlb.gov.sg/search/card?recordId=8347428)_&nbsp;28, no. 81 (2000): 173–213. (From National Library, Singapore, call no. RSING 959.8 IMW)
 
 S. M. Amin, “[The Pilgrims Progress](https://archive.aramcoworld.com/issue/197406/the.pilgrims.progress.htm),”&nbsp;_Saudi Aramco World_&nbsp;25, no. 6 (November–December 1974).
 
-Ulrike Freitag, “Arab Merchants in Singapore: Attempt of a Collective Biography,” in&nbsp;_[Transcending Borders: Arabs, Politics, Trade and Islam in Southeast Asia](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=%3C11533543)_, ed. Huub de Jonge and Nico Kaptein (Leiden: KITLV Press, 2002), 107–42. (From National Library, Singapore, call no. R 305.8927059 TRA)
+Ulrike Freitag, “Arab Merchants in Singapore: Attempt of a Collective Biography,” in&nbsp;_[Transcending Borders: Arabs, Politics, Trade and Islam in Southeast Asia](https://catalogue.nlb.gov.sg/search/card?recordId=11533543)_, ed. Huub de Jonge and Nico Kaptein (Leiden: KITLV Press, 2002), 107–42. (From National Library, Singapore, call no. R 305.8927059 TRA)
 
 William Facey, “[Queen of the India Trade](https://archive.aramcoworld.com/issue/200506/queen.of.the.india.trade.htm),”&nbsp;_Saudi Aramco World_&nbsp;56, no. 6 (November–December 2005): 10–16.
 
