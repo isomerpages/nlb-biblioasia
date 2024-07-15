@@ -145,7 +145,7 @@ Lee died in 2008 and his integral role in shaping science in Singapore has large
 
 [^20]:  [Lee Kum Tatt](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/09654b15-115e-11e3-83d5-0050568939ad), oral history interview by Dr Daniel Chew, 5 August 1993, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/0/096b9a00-115e-11e3-83d5-0050568939ad-OHC000821_006/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=9) and audio, Reel/Disc 6 of 10, National Archives of Singapore ([accession no. 000821](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/096b9a00-115e-11e3-83d5-0050568939ad)), 68.
 
-[^21]:  Sharad Pandian, “Singapore’s National Souvenir: The Gold-plated Past of RISIS,” <i>BiblioAsia</i>
+[^21]:  Sharad Pandian, “Singapore’s National Souvenir: The Gold-plated Past of RISIS,” <i>BiblioAsia</i>  published June 2024, [https://biblioasia.nlb.gov.sg/localicons/2024/6/risis-gold-orchid-tourism-souvenir/](https://biblioasia.nlb.gov.sg/localicons/2024/6/risis-gold-orchid-tourism-souvenir/).
 
 [^22]:  “[A ‘SISIR’ Stamp Means Quality Product](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19690619-1.2.24),” _Straits Times_, 19 June 1969, 4. (From NewspaperSG)
 
