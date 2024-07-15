@@ -2,7 +2,7 @@ collections:
   holding-area:
     output: true
     order:
-      - "S Rajaratnam: The Lions Roar.md"
+      - "S Rajaratnam: The Lion's Roar.md"
       - "A Scientific Adventure: The Life and Legacy of Dr Lee Kum Tatt.md"
       - Example Title.md
       - Test2.md
