@@ -5,6 +5,13 @@ description: ""
 third_nav_title: People
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/people/2024/7/lee-kum-tatt-science-pioneer/">A Scientific Adventure: The Life and Legacy of Dr Lee Kum Tatt</a>
+
+Dr Lee Kum Tatt was instrumental in the development of Singapore’s scientific and industrial landscape.
+
+<img src="/images/Online%20Only%20Articles/Dr%20Lee%20Kum%20Tatt/Lee_at_UOM_homepage.png" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/phan-kim-sam-thye-seng/">The Search for a “Lost” Towkay of Malaya</a>
 
 The writer’s attempt to trace the contours of his grandfather’s life was complicated by the fact that, unknown to him, his grandfather had more than one name.
