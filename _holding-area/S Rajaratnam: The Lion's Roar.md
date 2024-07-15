@@ -181,3 +181,9 @@ He was the true Singapore lion who roared, and roared till the end. In a way, it
 <div style="background-color: white;">
 <img style="width: 100px; height: 100px;" src="/images/Authors/irene.png">
 <b>Irene Ng</b> is the authorised biographer of S. Rajaratnam and Writer-in-Residence at the Institute of ISEAS – Yusof Ishak Institute. She was formerly an award-winning senior political correspondent and a Member of Parliament in Singapore.</div>
+
+#### **Related Articles**
+
+Irene Ng, “[A Founder’s Literary Legacy: The Short Stories and Radio Plays of S. Rajaratnam](https://biblioasia.nlb.gov.sg/vol-8/issue-1/may-2012/rajaratnam-stories-radio-plays/),”&nbsp;_BiblioAsia_&nbsp;8, no. 1 (May 2012): 4–9.
+
+Irene Ng, “[Researching S. Rajaratnam](https://biblioasia.nlb.gov.sg/vol-15/issue-1/apr-jun-2019/s-rajaratnam/),”&nbsp;_BiblioAsia_&nbsp;15, no. 1 (April– June 2019): 42–45.
