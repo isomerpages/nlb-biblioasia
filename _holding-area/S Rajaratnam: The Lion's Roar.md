@@ -174,7 +174,7 @@ He was the true Singapore lion who roared, and roared till the end. In a way, it
 
 <div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
 <img src="/images/Vol%2020%20Issue%203/Rajaratnam/rajaratnam_book.png">
-<br><br>
+<br>
 <i>S. Rajaratnam: The Authorised Biography, Volume Two: The Lion’s Roar</i> is written by Irene Ng and published by the Institute of Southeast Asian Studies (2024). The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (call nos.: RSING xx and SING xx). Irene Ng asserts the moral right to be identified as the author of this work.
 <br></div>
 
