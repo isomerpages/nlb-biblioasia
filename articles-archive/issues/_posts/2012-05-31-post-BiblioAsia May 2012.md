@@ -4,12 +4,13 @@ permalink: /vol-8/issue-1/may-2012/
 date: 2012-05-31
 layout: post
 description: ""
+variant: markdown
 ---
 <img style="width: 350px; height: 450px;" src="/images/vol-8-issue-1/a1.JPG">
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-8/issue-1/may-2012/director-column/">Director's Column</a>
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-8/issue-1/may-2012/rajaratnam-stories-radio-plays/">A Founder's Literacy Legacy: The Short Stories and Radio Plays of S. Rajaratnam</a><br>One of Singapore’s founding leaders, S. Rajaratnam, is today best known for drafting the Singapore Pledge and for being the country’s first Foreign Minister. His biographer, Irene Ng, who recently edited the anthology, <i>The Short Stories and Radio Plays of S. Rajaratnam</i>, reveals his little-recognised literary side and discusses its importance to Singapore. [(PDF)](/files/pdf/vol-8/issue-1/v8-issue1_Rajaratnam.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-8/issue-1/may-2012/rajaratnam-stories-radio-plays/">A Founder's Literary Legacy: The Short Stories and Radio Plays of S. Rajaratnam</a><br>One of Singapore’s founding leaders, S. Rajaratnam, is today best known for drafting the Singapore Pledge and for being the country’s first Foreign Minister. His biographer, Irene Ng, who recently edited the anthology, <i>The Short Stories and Radio Plays of S. Rajaratnam</i>, reveals his little-recognised literary side and discusses its importance to Singapore. [(PDF)](/files/pdf/vol-8/issue-1/v8-issue1_Rajaratnam.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-8/issue-1/may-2012/lee-tze-peng-calligraphy/">撕裂与重铸:读林子平丙戌后之作</a><br>
 Examining Lim Tze Peng’s calligraphy after 2006. 
