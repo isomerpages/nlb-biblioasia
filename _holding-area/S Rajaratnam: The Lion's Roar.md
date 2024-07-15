@@ -49,7 +49,7 @@ Raja fought for more than a decade for the independence of his people in Malaya.
 When the British gave Malaya – but not Singapore – its independence in 1957, he mounted another struggle – this time for Singapore’s independence through merger with Malaya to form Malaysia. His entrance to politics was announced in a five-paragraph article in the _Sunday Times_ on 29 March 1959. Headlined “Newsman Quits Job to Work for PAP”, it told readers simply that Raja, 44, the president of the Singapore Union of Journalists, had resigned from his job at the _Straits Times_ to do “full-time” work for the PAP.
 
 
-![](/images/Vol%2020%20Issue%203/Rajaratnam/rajaratnam_resigned.jpg)
+![](/images/Vol%2020%20Issue%203/Rajaratnam/rajaratnam_resigned2.jpg)
 <div style="background-color:white;">S. Rajaratnam resigned from his job at the <i>Straits Times</i> to work full-time for the People’s Action Party. <i>Source: The Straits Times, 29 March 1959 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 
@@ -160,6 +160,11 @@ But, as its working title suggests, it would be about how transient migrants wit
 He might not have produced the last major work that many had hoped for, but he stands witness to the truth that, as American journalist Walter Lippmann once said, men are mortal, but ideas are immortal. The name S. Rajaratnam will forever be linked to the resonant words in the Singapore Pledge as well as to the transformative concepts of a “Singaporean Singapore” and “global city”.&nbsp;
 
 In the body of his speeches, he left the basic tenets of Singapore’s foreign policy. After his death, his speeches continued to be read. A good selection can be found in the anthologies, [_The Prophetic and_ _the Political: Selected Speeches and Writings of_ _S. Rajaratnam_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4183274), edited by Chan Heng Chee and Obaid ul Haq; and [_S. Rajaratnam on Singapore: From Ideas to Reality_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12817606), edited by Kwa Chong Guan.&nbsp;
+
+
+![](/images/Vol%2020%20Issue%203/Rajaratnam/rajaratnam_bush.jpg)
+<div style="background-color:white;">Former Senior Minister S. Rajaratnam greeting President of the United States George Bush at the state banquet hosted by President Wee Kim Wee and Mrs Wee at the Stamford Ballroom, Westin Plaza, 1992. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 
 In honour of his contributions as Singapore’s founding foreign minister, several institutions and initiatives were named after him. In 1998, a decade after his political retirement, the S. Rajaratnam Professorship in Strategic Studies was set up at the Institute of Defence and Strategic Studies (IDSS) at Nanyang Technological University. Then, in 2007, a year after Raja’s death, the S. Rajaratnam School of International Studies was established as an autonomous graduate school and think tank, incorporating the IDSS.&nbsp;
 
