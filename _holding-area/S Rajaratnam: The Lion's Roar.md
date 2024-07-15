@@ -127,6 +127,8 @@ Raja’s story is thus one of trials and also of the triumph of the human spirit
 
 This is why the dictum in the epigraph to this introduction lurks behind almost every story in this book, even those stories that may not, at first glance, seem to have anything to do with it. Running through all of Raja’s struggles was the common factor of faith: faith not in any god, but in man’s ability to imagine, to create, and to overcome.
 
+![](/images/Vol%2020%20Issue%203/Rajaratnam/rajaratnam_line.jpg)
+
 That said, Raja did not work alone. And his life, and indeed Singapore itself, would have turned out very differently had it not been for his key allies – most of all Lee, who got him into politics in the first place. As Raja himself said in 1990, he had been involved in many momentous events that he could not have conceived of without Lee in his life. Thus, while this is a book about Raja, it is also one about his closest colleagues, the decisions he made with them, and how he acted when things turned out wrong.
 
 ![](/images/Vol%2020%20Issue%203/Rajaratnam/rajaratnam_kallang.jpg)
