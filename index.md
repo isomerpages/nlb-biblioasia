@@ -9,14 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-20/issue-2/jul-sep-2024/men-surrender-singapore-japanese-occupation/
-      button: The Other Men Who Surrendered Singapore
+      url: /vol-20/issue-2/jul-sep-2024/history-ice-making-singapore/
+      button: "A Cool Business: The History of Ice–Making in Singapore"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 20 Issue 2/Men Who Surrendered
-        Singapore/Hero_img_The_Other_Men_Who_Surrendered.jpg
+      background: /images/Vol 20 Issue 2/IceMaking/Hero_img_ice_making.jpg
   - infopic:
       title: Have Your Say
       subtitle: Readership Survey
