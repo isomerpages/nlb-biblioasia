@@ -26,6 +26,16 @@ sections:
       image: /images/edm_strip_survey_homepage.jpg
       alt: Image alt text
   - infopic:
+      title: The Life and Legacy of Dr Lee Kum Tatt
+      subtitle: People
+      id: infopic
+      description: Dr Lee Kum Tatt was instrumental in the development of Singapore’s
+        scientific and industrial landscape.
+      button: A man of Science
+      url: /people/2024/7/lee-kum-tatt-science-pioneer/
+      image: /images/Online Only Articles/Dr Lee Kum Tatt/Lee_at_UOM_homepage.png
+      alt: Image alt text
+  - infopic:
       title: The Search for a “Lost” Towkay of Malaya
       subtitle: People
       id: infopic
@@ -1154,14 +1164,4 @@ sections:
       url: https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08
       alt: Greeting Card
       image: /images/Hari Raya Cards/hari raya greeting card.jpg
-  - infopic:
-      title: The Life and Legacy of Dr Lee Kum Tatt
-      subtitle: People
-      id: infopic
-      description: Dr Lee Kum Tatt was instrumental in the development of Singapore’s
-        scientific and industrial landscape.
-      button: A man of Science
-      url: /people/2024/7/lee-kum-tatt-science-pioneer/
-      image: /images/Online Only Articles/Dr Lee Kum Tatt/Lee_at_UOM_homepage.png
-      alt: Image alt text
 ---
