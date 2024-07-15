@@ -4,6 +4,7 @@ date: 2018-10-31
 permalink: /vol-14/issue-3/oct-dec-2018/blazing-a-trail/
 image: /images/Vol-14-issue-3/blazing-a-trail/BlazingTrail1.JPG
 layout: post
+variant: markdown
 ---
 #### The Singapore Council of Women was the city’s first female civil rights group that took bold steps to champion laws affecting women. **Phyllis Chew** documents its hard-won victories.
 
@@ -31,7 +32,7 @@ By defining clear goals, organising working groups, enlisting public support, an
 The seeds of the SCW were sown on 12 November 1951 when a small group of women under the leadership of Shirin Fozdar (see text box below) called a public meeting to discuss the formation of an organisation that would champion women’s rights in Singapore. Thirty prominent women in the community met, including Elizabeth Choy, Vilasini Menon, and Municipal Commissioners Mrs Robert Eu (nee Phyllis Chia) and Amy Laycock (see Note 2).
 
 <img src="/images/Vol-14-issue-3/blazing-a-trail/x.JPG">
-<div style="background-color: white;">Some of the committee members of the Singapore Council of Women, 1957. Shirin Fozdar, Secretary-General between 1952 and 1961, is seated 6th from the left. <i>Image reproduced from Lam, J.L., & Chew, P.G.L. (1993). Voices & Choices: The Women’s Movement in Singapore (p.90). Singapore Council of Women’s Organisation and Singapore Baha’i Women’s Committee. (Call no.: RSING 305.42095957 VOI).</i></div>
+<div style="background-color: white;">Some of the committee members of the Singapore Council of Women, 1957. Shirin Fozdar, Secretary-General between 1952 and 1961, is seated 6th from the left. <i>Image reproduced from Lam, J.L., &amp; Chew, P.G.L. (1993). Voices &amp; Choices: The Women’s Movement in Singapore (p.90). Singapore Council of Women’s Organisation and Singapore Baha’i Women’s Committee. (Call no.: RSING 305.42095957 VOI).</i></div>
 
 The women agreed that despite the fine work done by the Young Women’s Christian Association, the Social Welfare Department and the Malay Women’s Welfare Association, their “admirable work could not ameliorate the legal disabilities under which women have been suffering and which were the root causes of many of the social evils”.[^3]
 
@@ -40,7 +41,7 @@ Accordingly, Fozdar called for the setting up of a new organisation that would u
 Taking advantage of the politically conducive climate, the SCW was inaugurated on 4 April 1952, barely five months after that first meeting mooted by Fozdar. The first executive committee (with Fozdar as Secretary-General and Choy as President) comprised mainly members drawn from the main women’s groups of the period, including the YWCA. Altogether there were seven Chinese, four Indians, two Malays, one Indonesian and one Briton – a composition that would not change much over the next 10 years. This racial mix in turn reflected the composition of the rank-and-file SCW membership; the majority were Chinese, followed by Malays, Indians, Eurasians and Europeans.
 
 <img style="width: 650px; height: 400px;" src="/images/Vol-14-issue-3/blazing-a-trail/BlazingTrail4.JPG">
-<div style="background-color: white;">War heroine Elizabeth Choy (in <i>cheongsam</i>) was the president of the Singapore Council of Women’s Protem Committee (1951-1952). As president, she helped to unite the diverse women groups in Singapore. <i>Image reproduced from Lam, J.L., & Chew, P.G.L. (1993). Voices & Choices: The Women’s Movement in Singapore (p.116). Singapore Council of Women’s Organisation and Singapore Baha’i Women’s Committee. (Call no.: RSING 305.42095957 VOI).</i></div>
+<div style="background-color: white;">War heroine Elizabeth Choy (in <i>cheongsam</i>) was the president of the Singapore Council of Women’s Protem Committee (1951-1952). As president, she helped to unite the diverse women groups in Singapore. <i>Image reproduced from Lam, J.L., &amp; Chew, P.G.L. (1993). Voices &amp; Choices: The Women’s Movement in Singapore (p.116). Singapore Council of Women’s Organisation and Singapore Baha’i Women’s Committee. (Call no.: RSING 305.42095957 VOI).</i></div>
 
 #### **An International Sisterhood**
 
@@ -53,7 +54,7 @@ Closer to home, when Perwari, the Indonesian Women’s Association, marched to I
 Both Fozdar and the SCW’s second president Mrs George Lee (nee Tan Cheng Hsiang) liaised with women’s groups in Hong Kong, Vietnam, Cambodia, China and Britain and undertook lecture tours.[^10] At the 1958 Afro-Asian Conference in Colombo, Fozdar’s criticism of Singapore as an important stop in the trade of Asian women triggered press publicity and caused an uproar with government officials, including Singapore’s Chief Minister Lim Yew Hock.[^11] The SCW had been increasingly concerned about prostitution in Singapore as well as the rising number of girls and women from Hong Kong and China sold to brothel owners against their will.[^12]
 
 <img style="width: 650px; height: 390px;" src="/images/Vol-14-issue-3/blazing-a-trail/y.JPG">
-<div style="background-color: white;">Mrs George Lee (left) and Mrs Shirin Fozdar (right) of the Singapore Council of Women were invited by the China Women’s League to visit the People’s Republic of China. They met up with Vice-Premier Marshal Chen Yi in Beijing in 1958. <i>Image reproduced from Lam, J.L., & Chew, P.G.L. (1993). Voices & Choices: The Women’s Movement in Singapore (p.119). Singapore Council of Women’s Organisation and Singapore Baha’i Women’s Committee. (Call no.: RSING 305.42095957 VOI).</i></div>
+<div style="background-color: white;">Mrs George Lee (left) and Mrs Shirin Fozdar (right) of the Singapore Council of Women were invited by the China Women’s League to visit the People’s Republic of China. They met up with Vice-Premier Marshal Chen Yi in Beijing in 1958. <i>Image reproduced from Lam, J.L., &amp; Chew, P.G.L. (1993). Voices &amp; Choices: The Women’s Movement in Singapore (p.119). Singapore Council of Women’s Organisation and Singapore Baha’i Women’s Committee. (Call no.: RSING 305.42095957 VOI).</i></div>
 
 #### **In the Public Eye**
 
@@ -64,7 +65,7 @@ In February 1953, the SCW set up the first girls club in Singapore. Money was ra
 Another task the SCW pioneered was the setting up of crèches in factories in 1952. Noticing that large numbers of working women were finding it difficult to raise their children with full-time jobs, they appealed to factories that employed more than 100 women – such as Lee Rubber Co Ltd., Malayan Breweries and the Dunlop Rubber Purchasing Co. Ltd. – to consider setting up crèches within their factory premises.[^15] SCW members offered advice on how to run these crèches economically “so that children will not be left unattended… while the mother is at work”. Unfortunately, while some factories promised to look into the matter, most were reluctant to take up SCW’s offer.
 
 <img style="width: 650px; height: 380px;" src="/images/Vol-14-issue-3/blazing-a-trail/BlazingTrail6.JPG">
-<div style="background-color: white;">The Singapore Council of Women pioneered the setting up of crèches in factories in 1952. Lee Rubber Co. was one of the first companies that agreed to set up such a facility for its employees’ children. Chartered Industries of Singapore (pictured here) was one of a handful of companies that followed suit in the late 1960s. <i>Image reproduced from Lam, J.L., & Chew, P.G.L. (1993). Voices & Choices: The Women’s Movement in Singapore (p.78). Singapore Council of Women’s Organisation and Singapore Baha’i Women’s Committee. (Call no.: RSING 305.42095957 VOI).</i></div>
+<div style="background-color: white;">The Singapore Council of Women pioneered the setting up of crèches in factories in 1952. Lee Rubber Co. was one of the first companies that agreed to set up such a facility for its employees’ children. Chartered Industries of Singapore (pictured here) was one of a handful of companies that followed suit in the late 1960s. <i>Image reproduced from Lam, J.L., &amp; Chew, P.G.L. (1993). Voices &amp; Choices: The Women’s Movement in Singapore (p.78). Singapore Council of Women’s Organisation and Singapore Baha’i Women’s Committee. (Call no.: RSING 305.42095957 VOI).</i></div>
 
 The main focus of the SCW, however, was to provide counselling to the many hapless women who had been deserted or divorced by their husbands. SCW members spent much time liaising with the Department of Social Welfare on marriage counselling, and pressured the Department of Immigration to curb the importation of women from Hong Kong, China and Japan who came to Singapore to become secondary wives. With regard to the vice trade, the SCW proposed establishing a centre where women who wished to leave prostitution could be rehabilitated and taught useful skills to make a new living for themselves; this call, however, fell on deaf ears.[^16]
 
@@ -108,7 +109,7 @@ These developments placed pressure on the conservative MAB in Singapore for refo
 
 Between 1955 and 1959, the SCW lobbied various political parties in Singapore to address the injustices faced by women, arguing that “the attainment of independence will remain an idle dream if the men in this country do not rise to generous heights to grant that independence to their own kith and kin – the women of the country”.[^30]
 
-While leaders of several political parties jostling for power – this was the tumultuous period before the British acceded to Singapore’s request for internal self-government in 1959 – were sympathetic to SCW’s cause, they felt that putting it down as party policy could cost them votes in future elections due to its controversial nature.[^31] However, the Peoples’ Action Party (PAP), under pressure from members of its Women’s League – many of whom were young, Chinese educated and markedly socialist in their ideals – took the strongest stand on women’s rights.
+While leaders of several political parties jostling for power – this was the tumultuous period before the British acceded to Singapore’s request for internal self-government in 1959 – were sympathetic to SCW’s cause, they felt that putting it down as party policy could cost them votes in future elections due to its controversial nature.[^31] However, the People's Action Party (PAP), under pressure from members of its Women’s League – many of whom were young, Chinese educated and markedly socialist in their ideals – took the strongest stand on women’s rights.
 
 Launched in 1956 under the leadership of Chan Choy Siong, a pioneer female politician, the PAP Women’s League adopted SCW’s 1952 slogan of “one man one wife”, as part of its anti-colonial manifesto.[^32] The first big event organised by the league was the celebration of International Women’s Day on 8 March 1956.
 
@@ -144,7 +145,7 @@ As Secretary-General of the Singapore Council of Women between 1952 and 1961, Fo
 <br><br>
 Her involvement in the women’s movement in India culminated in her nomination in 1934 as the country’s representative at the All Asian Women’s Conference on women’s rights at the League of Nations in Geneva. In 1941, Fozdar delivered peace lectures to the riot-torn Indian city of Ahmedabad on the instructions of Mahatma Gandhi, leader of the Indian independence movement against British rule, who called her “his daughter”.
 <br><br>
-Fozdar passed away from cancer on 2 February 1992 in Singapore, leaving behind three sons and two daughters; her husband had died in 1958. Her personal collection comprising newspaper clippings, letters, correspondences, minutes of meetings, receipts and invoices are on loan to the National Library Board for digitisation by her son Jamshed. These are found in the library’s Jamshed & Parvati Fozdar Collection.
+Fozdar passed away from cancer on 2 February 1992 in Singapore, leaving behind three sons and two daughters; her husband had died in 1958. Her personal collection comprising newspaper clippings, letters, correspondences, minutes of meetings, receipts and invoices are on loan to the National Library Board for digitisation by her son Jamshed. These are found in the library’s Jamshed &amp; Parvati Fozdar Collection.
 </div>
 <br>
 <div style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba"> 
