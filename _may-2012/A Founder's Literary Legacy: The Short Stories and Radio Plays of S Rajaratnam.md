@@ -1,5 +1,5 @@
 ---
-title: "A Founder's Literacy Legacy: The Short Stories and Radio Plays of S
+title: "A Founder's Literary Legacy: The Short Stories and Radio Plays of S
   Rajaratnam"
 permalink: /vol-8/issue-1/may-2012/rajaratnam-stories-radio-plays/
 description: One of Singapore’s founding leaders, S. Rajaratnam, is today best
@@ -7,6 +7,7 @@ description: One of Singapore’s founding leaders, S. Rajaratnam, is today best
   Foreign Minister. His biographer Irene Ng, who recently edited the collection
   The Short Stories and Radio Plays of S. Rajaratnam, reveals his
   little-recognised literary side and discusses its importance to Singapore.
+variant: markdown
 ---
 #### One of Singapore’s founding leaders, S. Rajaratnam is today best known for drafting the Singapore Pledge and for being the country’s first Foreign Minister. His biographer Irene Ng, who recently edited the anthology, *The Short Stories and Radio Plays of S. Rajaratnam*, reveals his little-recognised literary side and discusses its importance to Singapore.
 

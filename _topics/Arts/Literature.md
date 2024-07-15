@@ -122,7 +122,7 @@ The sci-fi frenzy took off in Singapore in 1978 when&nbsp;_Star Wars_&nbsp;was s
 <img src="/images/Vol-13-issue-2/sci-fi-in-singapore/01_scifi.png" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-2/jul-sep-2017/">A History of Singapore Horror</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-2/jul-sep-2017/historyofsghorror/">A History of Singapore Horror</a>
 
 Singaporeans have always had a morbid fascination with the supernatural.&nbsp;**Ng Yi-Sheng**&nbsp;examines the culture of horror in our oral folklore, books and films.
 
