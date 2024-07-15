@@ -61,9 +61,6 @@ When the PAP swept to power in self-governing Singapore in 1959, Raja, who becam
 
 For Raja, at least at that point, nothing was more important than building a united Malaysia, where people of all races would be equal. That was his big dream, his lodestar. His abhorrence of colonialism, of the exploitation of man by man, of racial discrimination and prejudice, had a moral rather than a political motivation.
 
-![](/images/Vol%2020%20Issue%203/Rajaratnam/rajaratnam_letter.jpg)
-<div style="background-color:white;"> S. Rajaratnam’s letter to Minister for Education Ong Pang Boon, dated 18 February 1966, suggesting the text for the pledge at school flag-raising ceremonies. <i>Ministry of Education Collection, courtesy of National Archives of Singapore.</i></div>
-
 _The Singapore Lion_ ended with the merger in 1963, with a glimpse of the troubles to come. This second volume, _The Lion’s Roar_, covers the period from Singapore’s merger with Malaya to form Malaysia in 1963, to his death in 2006.
 
 It traces Raja’s crusade for a “Malaysian Malaysia” during the merger years, and its tragic end. It charts his subsequent odyssey to fight for Singapore’s survival as an independent country and to create the national ideology of a country born in turbulent times. It reveals the mistakes made along the way – from inexperience, miscalculation and sheer desperation – and the efforts to overcome the dramatic reversals that threatened to destroy his dreams.
@@ -85,6 +82,9 @@ Of all the varied chapters in Raja’s tumultuous life, the story of his struggl
 Raja’s abiding vision was to build a progressive society that was just and fair, and that provided equal opportunities and rights for all, regardless of their race, language or religion. “Regardless of race, language or religion” had long been his leitmotif. By this he meant creating a new social and political order in which these factors did not enter into the country’s economic and political calculations.
 
 It counts as one of his most powerful ideas. It became his signature, his lifelong obsession. It was encapsulated in the Singapore Pledge, which he drafted in 1966. Among the founding fathers of Singapore, he occupies a special place in its history for pursuing this vision with a high heart.
+
+![](/images/Vol%2020%20Issue%203/Rajaratnam/rajaratnam_letter.jpg)
+<div style="background-color:white;"> S. Rajaratnam’s letter to Minister for Education Ong Pang Boon, dated 18 February 1966, suggesting the text for the pledge at school flag-raising ceremonies. <i>Ministry of Education Collection, courtesy of National Archives of Singapore.</i></div>
 
 His politics, however, came with an equally high price of personal hardship and pain. Like most visionaries ahead of their time, he found himself in many instances having to face the agonies of shattered hopes and unfulfilled dreams.
 
