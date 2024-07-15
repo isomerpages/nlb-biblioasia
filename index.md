@@ -33,7 +33,7 @@ sections:
         scientific and industrial landscape.
       button: A man of Science
       url: /people/2024/7/lee-kum-tatt-science-pioneer/
-      image: /images/Online Only Articles/Dr Lee Kum Tatt/Lee_at_UOM_homepage1.png
+      image: /images/Online Only Articles/Dr Lee Kum Tatt/dr_lee_kum_tatt.png
       alt: Image alt text
   - infopic:
       title: The Search for a “Lost” Towkay of Malaya
