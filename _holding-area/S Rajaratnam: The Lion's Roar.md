@@ -42,15 +42,15 @@ His byline became a force in national politics as he crusaded against colonialis
 
 Raja fought for more than a decade for the independence of his people in Malaya. They had been dominated, divided and exploited by the British for more than a century, and he rebelled against this. In 1954, together with his anti-colonial allies, he formed the left-wing PAP, led by Lee Kuan Yew.
 
+![](/images/Vol%2020%20Issue%203/Rajaratnam/rajaratnam_election.jpg)
+<div style="background-color:white;"> S. Rajaratnam speaking at an election mass rally in Chinatown on 26 April 1959. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
+
 When the British gave Malaya – but not Singapore – its independence in 1957, he mounted another struggle – this time for Singapore’s independence through merger with Malaya to form Malaysia. His entrance to politics was announced in a five-paragraph article in the _Sunday Times_ on 29 March 1959. Headlined “Newsman Quits Job to Work for PAP”, it told readers simply that Raja, 44, the president of the Singapore Union of Journalists, had resigned from his job at the _Straits Times_ to do “full-time” work for the PAP.
 
 
 ![](/images/Vol%2020%20Issue%203/Rajaratnam/rajaratnam_resigned.jpg)
 <div style="background-color:white;">S. Rajaratnam resigned from his job at the <i>Straits Times</i> to work full-time for the People’s Action Party. <i>Source: The Straits Times, 29 March 1959 © SPH Media Limited. Permission required for reproduction.</i></div>
-
-
-![](/images/Vol%2020%20Issue%203/Rajaratnam/rajaratnam_election.jpg)
-<div style="background-color:white;"> S. Rajaratnam speaking at an election mass rally in Chinatown on 26 April 1959. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 
 
