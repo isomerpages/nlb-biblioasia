@@ -4,14 +4,15 @@ title: BiblioAsia Oct-Dec 2015
 date: 2015-10-01T00:00:00.000Z
 breadcrumb: Oct-Dec 2015
 permalink: /vol-11/issue-3/oct-dec-2015/
+variant: markdown
 ---
-Opium-smoking, gambling, prostitution and triad activities were common in Singapore in the 19th and early 20th centuries. In this issue, we examine the seedy side of Singapore’s past through the lens of “Crime, Vice & Punishment”.
+Opium-smoking, gambling, prostitution and triad activities were common in Singapore in the 19th and early 20th centuries. In this issue, we examine the seedy side of Singapore’s past through the lens of “Crime, Vice &amp; Punishment”.
 
 <img src="/images/Vol-11-issue-3/Vol11_Iss3.jpg">
 
 **[Director’s Note](/vol-11/issue-3/oct-dec-2015/director-note)**
 
-**[Coolies, Triads and Pimps: Chinatown in Former Times](/vol-11/issue-3/oct-dec-2015/coolies)**<br>The Chinatown of yesteryear was a thriving hotbed of crime and secret societies. *Lim Tin Seng* unveils its less glamorous history. [(PDF)](/files/pdf/vol-11/issue-3/v11-issue3_Coolies-Pimps.pdf)
+**[Triads, Coolies, and Pimps: Chinatown in Former Times](/vol-11/issue-3/oct-dec-2015/coolies)**<br>The Chinatown of yesteryear was a thriving hotbed of crime and secret societies. *Lim Tin Seng* unveils its less glamorous history. [(PDF)](/files/pdf/vol-11/issue-3/v11-issue3_Coolies-Pimps.pdf)
 
 **[Desperate Housewives: The Lure of Chap Ji Kee](/vol-11/issue-3/oct-dec-2015/housewives)**<br>Chap Ji Kee has been famously called the “housewives opium”. *Janice Loo* traces its rise and subsequent decline. [(PDF)](/files/pdf/vol-11/issue-3/v11-issue3_Desperate-Housewives.pdf)
 
