@@ -1,6 +1,6 @@
 ---
 title: "A Scientific Adventure: The Life and Legacy of Dr Lee Kum Tatt"
-permalink: /holding-area/legacy-of-dr-lee-kum-tatt/
+permalink: /people/2024/7/lee-kum-tatt-science-pioneer/
 variant: markdown
 description: ""
 ---
@@ -17,7 +17,7 @@ Hearing that three of the deceased children had had homemade barley drinks befor
 It was a race against the clock to identify and isolate the source. Lee and his small team of two laboratory assistants and a chemist, worked tirelessly to prevent further fatalities. Given that all the children had had barley drinks, Lee and his team collected 15 food samples from the victims’ homes, including barley. Mice were fed cheese injected with the samples and the single mouse given the barley extract dropped dead. Further analysis showed the presence of Parathian, an insecticide banned in Singapore.[^2]
 
 <img src="/images/Online%20Only%20Articles/Dr%20Lee%20Kum%20Tatt/at_work_in_lab.png" style="width: 80%;">
-<div style="background-color: white;">Dr Lee Kum Tatt(left) and his team, Theng Chye Yam (middle) and Ng Hon Wing (right), at work in the laboratory in search of the toxin that killed eight children in 1959.&nbsp;<i> Image reproduced from “Barley Deaths: The Lab Boys Get to Work…,” Straits Budget, 16 September 1959, 13. (From NewspaperSG).</i></div>
+<div style="background-color: white;">Dr Lee Kum Tatt (left) and his team, Theng Chye Yam (middle) and Ng Hon Wing (right), at work in the laboratory in search of the toxin that killed eight children in 1959.&nbsp;<i> Image reproduced from “Barley Deaths: The Lab Boys Get to Work…,” Straits Budget, 16 September 1959, 13. (From NewspaperSG).</i></div>
 
 The incident might have been the first time the public had heard of Lee, but over the years, he would go on to play a leading role in building scientific infrastructure in the country: this includes Singapore government’s Department of Chemistry, the Science Council, Singapore Polytechnic, the Singapore Institute of Standards and Industrial Research (SISIR), and the Singapore Science Centre. These contributions are all the more impressive when set in their historical context – the dangerous, uncertain Malaya of the mid-20th century.
 
@@ -69,7 +69,7 @@ In 1969, the Science Council held the Science Ball, an event that sought to rais
 
 #### **Promoting Standards and Research**
 
-As head of the Science Council, Lee felt there was an alarming lack of co-ordination of “national scientific efforts” between the government and private sector. As a result, he sponsored the National Conference on Scientific and Technical Co-operation between Industries and Governmental Bodies in October 1968.[^18] The recommendations of this conference led to the formation of SISIR in 1969. Lee served as chairman of SISIR for more than 15 years, until his retirement in 1985.[^19]
+As head of the Science Council, Lee felt there was an alarming lack of co-ordination of “national scientific efforts” between the government and private sector. As a result, he sponsored the National Conference on Scientific and Technical Co-operation between Industries and Governmental Bodies in October 1968.[^18] The recommendations of this conference led to the formation of SISIR in 1969. Lee served as its chairman for more than 15 years, until his retirement in 1985.[^19]
 
 Promoting industrial research was one of his responsibilities at SISIR – he recalled in his oral history interview that unlike the present where R&amp;D brings researchers money, glory and social standing, in the early days of SISIR “\[people\] think you are mad if you do R&amp;D”.[^20] To demonstrate that innovative research was possible, he helped design the famous [RISIS](https://biblioasia.nlb.gov.sg/localicons/2024/6/risis-gold-orchid-tourism-souvenir/) series of gold-plated objects including orchids, eggs, walnuts, ferns, and animals from the Chinese Zodiac.[^21]
 
@@ -79,7 +79,7 @@ Promoting industrial research was one of his responsibilities at SISIR – he re
 <img src="/images/Online%20Only%20Articles/Dr%20Lee%20Kum%20Tatt/dr_lee_kum_tatt.png" style="width: 80%;">
 <div style="background-color: white;">Dr Lee Kum Tatt with the Xu Beihong-inspired prancing horses he created, 1985.<i> Source: The Straits Times, 19 November 1985 © SPH Media Limited. Permission required for reproduction.</i></div>
 
-He also led the charge to ensure that locally manufactured products met appropriate quality standards for international export, allowing Singaporean goods to be competitive abroad.[^22] He served as chairman of the Singapore Standards Council, the body responsible for approving new standards. In addition, as chairman of SISIR, he promoted the adoption of standards through a range of methods from training to formal certification. These methods included running national campaigns – for example, Lee was chairman of the organising committee of SISIR’s prominent “Prosperity Through Quality and Reliability” campaign (1972–73), which aimed to promote quality-consciousness and pride among manufacturers and their employees.[^23]
+He also led the charge to ensure that locally manufactured products met appropriate quality standards for international export, allowing Singaporean goods to be competitive abroad.[^22] He served as chairman of the Singapore Standards Council, the body responsible for approving new standards. In addition, as chairman of SISIR, he promoted the adoption of standards through a range of methods from training to formal certification. These methods included running national campaigns – for example, Lee was chairman of the organising committee of SISIR’s prominent “Prosperity Through Quality and Reliability” (PQR) campaign (1972–73), which aimed to promote quality-consciousness and pride among manufacturers and their employees.[^23]
 
 <img src="/images/Online%20Only%20Articles/Dr%20Lee%20Kum%20Tatt/hon_sui_sen.jpg" style="width: 80%;">
 <div style="background-color: white;">Minister Hon Sui Sen giving a speech at the closing ceremony of PQR campaign.<i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
@@ -119,7 +119,7 @@ Lee died in 2008 and his integral role in shaping science in Singapore has large
 
 [^7]:  “[Varsity Exams to Begin Today](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19500530-1.2.65),” _The Straits Times_, 30 May 1950, 5. (From NewspaperSG)
 
-[^8]:  P. Liviniyah P, “[Malayan Emergency](https://www.nlb.gov.sg/main/article-detail?cmsuuid=5896ad6b-03ab-4d31-80a7-dbebb2bb17d7),” in [Singapore Infopedia] (https://www.nlb.gov.sg/main/article-detail?cmsuuid=5896ad6b-03ab-4d31-80a7-dbebb2bb17d7). National Library Board Singapore. Article published May 2019.
+[^8]:  P. Liviniyah P, “[Malayan Emergency](https://www.nlb.gov.sg/main/article-detail?cmsuuid=5896ad6b-03ab-4d31-80a7-dbebb2bb17d7),” in [Singapore Infopedia](https://www.nlb.gov.sg/main/article-detail?cmsuuid=5896ad6b-03ab-4d31-80a7-dbebb2bb17d7). National Library Board Singapore. Article published May 2019.
 
 [^9]:  [Lee](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/88183543-115f-11e3-83d5-0050568939ad), oral history interview, 14\-15.
 
@@ -145,4 +145,22 @@ Lee died in 2008 and his integral role in shaping science in Singapore has large
 
 [^20]:  [Lee Kum Tatt](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/09654b15-115e-11e3-83d5-0050568939ad), oral history interview by Dr Daniel Chew, 5 August 1993, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/0/096b9a00-115e-11e3-83d5-0050568939ad-OHC000821_006/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=9) and audio, Reel/Disc 6 of 10, National Archives of Singapore ([accession no. 000821](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/096b9a00-115e-11e3-83d5-0050568939ad)), 68.
 
-[^21]:  Sharad Pandian, “Singapore’s National Souvenir: The Gold-plated Past of RISIS,” <i>BiblioAsia</i>
+[^21]:  Sharad Pandian, “Singapore’s National Souvenir: The Gold-plated Past of RISIS,” <i>BiblioAsia</i>  published June 2024, [https://biblioasia.nlb.gov.sg/localicons/2024/6/risis-gold-orchid-tourism-souvenir/](https://biblioasia.nlb.gov.sg/localicons/2024/6/risis-gold-orchid-tourism-souvenir/).
+
+[^22]:  “[A ‘SISIR’ Stamp Means Quality Product](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19690619-1.2.24),” _Straits Times_, 19 June 1969, 4. (From NewspaperSG)
+
+[^23]:  “[PQR Shows What It Really Means To Think Quality In The Work You Do](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730517-1.2.81),” _Straits Times_, 17 May 1973, 12. (From NewspaperSG)
+
+[^24]:  [Rex Anthony Shelley](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/fe6d4107-115e-11e3-83d5-0050568939ad), oral history interview by Ghalpanah Thangaraju, 31 January 2002, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/f/fe6d4107-115e-11e3-83d5-0050568939ad-OHC002602_004/web/html5/index.html?pn=5) and MP3 audio, Reel/Disc 4 of 12, National Archives of Singapore ([accession no. 002602](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/fe6d4107-115e-11e3-83d5-0050568939ad)), 52-53.
+
+[^25]:  Lee, _[A Fabulous Journey](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14651733)_, 97-98.; “[When and How It All Began](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19771210-1.2.132.4),” _Straits Times_, 10 December 1977, 41. (From NewspaperSG)
+
+[^26]:  “[Hard at it—trying to tackle 150 queries in 30 minutes](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730407-1.2.55),” _Straits Times_, 7 April 1973, 9 (From NewspaperSG)
+
+[^27]:  Lee, _[A Fabulous Journey](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14651733)_, 18-19
+
+[^28]:  [Lee Kum Tatt](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/09654b15-115e-11e3-83d5-0050568939ad), oral history interview by Dr Daniel Chew, 5 August 1993, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/0/033b4eb1-115e-11e3-83d5-0050568939ad-OHC000821_008/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=7) and audio, Reel/Disc 8 of 10, National Archives of Singapore ([accession no. 000821](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/096b9a00-115e-11e3-83d5-0050568939ad)), 94.
+
+[^29]:  “[The Gold Medal Winner](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19790519-1.2.11.8),” _Business Times_, 19 May 1979, 2. (From NewspaperSG)
+
+[^30]:  Lee, _[A Fabulous Journey](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14651733)_, v-vi.

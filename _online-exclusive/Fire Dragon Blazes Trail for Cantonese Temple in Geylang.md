@@ -77,17 +77,15 @@ The Fire Dragon, at more than 60 m long and festooned with thousands of burning 
 
 The dragon is brought to life by about 80 to 100 dancers (including fire throwers) from the temple’s lion dance troupe which was established in 1983. Weighing in at a total of 65 kg, performing with the dragon is exhausting work – just the head alone requires three dancers who take turns to it hold up.
 
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/-mr5YlqKFBs?feature=share" frameborder="0" allowfullscreen=""></iframe></div>
+<div style="background-color: white;">The Fire Dragon took to the streets again in 2024. <i>Video courtesy of Angela Sim.</i></div>
+
 The joss sticks take between three and four hours to burn through which means the performance will need to be concluded by that time. Eventually, the lit joss sticks burn to the point where they are buried into the straw and the straw catches fire. At that point, the dragon is left to rest on the ground to be devoured by the flames. The Fire Dragon ends its sojourn in this world surrounded by smoke and fire, ascending to the heavens bearing the wishes and prayers of its devotees.&nbsp;When the time comes for the next performance, an invitation ritual must be held to invite the dragon to descend from the heavens once again.
 
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Fire_dragon_paraded_Sims_Drive.jpg" style="width: 80%;">
 <div style="background-color: white;">The Fire Dragon parading down Sims Drive, 2023. <i>Courtesy of Yeo GT.</i></div>
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Fire_dragon_in_flames.jpg" style="width: 80%;">
-<div style="background-color: white;">The Fire Dragon in flames, c.1990s. <i>Courtesy of Mun San Fook Tuck Chee.</i></div><br>
-<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/-mr5YlqKFBs?feature=share" frameborder="0" allowfullscreen=""></iframe></div>
-
-<div style="background-color: white;">The Fire Dragon took to the streets again in 2024.&nbsp;<i>Video courtesy of Angela Sim.</i></div>
-
-
+<div style="background-color: white;">The Fire Dragon in flames, c.1990s. <i>Courtesy of Mun San Fook Tuck Chee.</i></div>
 
 #### **The Sar Kong Mun San Fook Tuck Chee Temple**
 

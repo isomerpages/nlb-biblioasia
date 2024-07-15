@@ -26,6 +26,16 @@ sections:
       image: /images/edm_strip_survey_homepage.jpg
       alt: Image alt text
   - infopic:
+      title: The Life and Legacy of Dr Lee Kum Tatt
+      subtitle: People
+      id: infopic
+      description: Dr Lee Kum Tatt was instrumental in the development of Singapore’s
+        scientific and industrial landscape.
+      button: A man of Science
+      url: /people/2024/7/lee-kum-tatt-science-pioneer/
+      image: /images/Online Only Articles/Dr Lee Kum Tatt/dr_lee_kum_tatt.png
+      alt: Image alt text
+  - infopic:
       title: The Search for a “Lost” Towkay of Malaya
       subtitle: People
       id: infopic
