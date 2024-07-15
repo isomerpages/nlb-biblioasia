@@ -1,5 +1,5 @@
 ---
-title: "S Rajaratnam: The Lions Roar"
+title: "S Rajaratnam: The Lion’s Roar"
 permalink: /s-rajaratnam-the-lions-roar/
 variant: markdown
 description: ""
