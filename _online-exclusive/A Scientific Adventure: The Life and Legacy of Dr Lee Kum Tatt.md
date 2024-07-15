@@ -155,7 +155,7 @@ Lee died in 2008 and his integral role in shaping science in Singapore has large
 
 [^25]:  Lee, _[A Fabulous Journey](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14651733)_, 97-98.; “[When and How It All Began](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19771210-1.2.132.4),” _Straits Times_, 10 December 1977, 41. (From NewspaperSG)
 
-[^26]:  “[Hard at it—trying to tackle 150 queries in 30 minutes](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730407-1.2.55),” _Straits Times_, 7 April 1973, 9 (From NewspaperSG)
+[^26]:  “[Hard At It—Trying to Tackle 150 Queries in 30 Minutes](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730407-1.2.55),” _Straits Times_, 7 April 1973, 9 (From NewspaperSG)
 
 [^27]:  Lee, _[A Fabulous Journey](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14651733)_, 18-19
 
