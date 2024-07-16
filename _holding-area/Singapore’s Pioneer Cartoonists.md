@@ -35,7 +35,7 @@ Another artist I had the honour to meet was Lim Mu Hue. From 2006, we would meet
 
 For the stories of both cartoonists (and others in the book), we adopted an approach of creative non-fiction. Most artists (and, indeed, most of us) lead similar lives – we are born, grow up, go to school, get married, have kids, grow old and die. My challenge was to find an entry point into their world, a particular incident that we can amplify to capture their spirit, their raison d'etre. We took some liberties; some things in the book might have happened, some might not have. But our aim was to tell a good story and hopefully get readers to circle back to the original cartoons and stories. 
 
-Cartooning in Singapore
+#### **Cartooning in Singapore**
 
 Singapore’s early newspapers were the first to include cartoons. The _Straits Times_, for example, featured entertainment news, local gossip and news from the metropolitan centre, as well as cartoons reprinted from London periodicals. In addition to newspapers, there were also interesting experiments like _Straits Produce_, a satirical magazine that first published in 1868. Modelled after Britain’s leading humour magazine _Punch, Straits Produce_ carried cartoons, caricatures, short stories, poems and humorous essays.8
 
@@ -45,7 +45,7 @@ Back then, the Chinese newspapers were mainly concerned about events in China su
 
 The cartoons that appeared in Malay newspapers were more social in nature and outlook. The Malay press saw its role as educating the masses, rallying the intelligentsia and being a catalyst for social change. Cartoons were part of the arsenal for raising the consciousness of the Malays, but one which was leavened with humour. 
 
-Cartoon Pioneers
+#### **Cartoon Pioneers**
 
 In this day and age, we have to be careful with the words we use. Terms like “pioneer” are loaded and can be contentious, just like terms like “Nanyang artists” and “founding fathers” (some people might ask, You mean there are no founding mothers?). In this case, we are using the term “pioneer cartoonists” loosely to refer to someone who was drawing cartoons from the early 20th century up to the postwar and independence years.
 
@@ -101,7 +101,7 @@ Morgan Chua was a Singaporean political cartoonist par excellence. A successor t
 
 Chua was, and probably still is, the best political caricaturist we’ve had. His caricatures of world leaders graced many a cover of the _Far Eastern Economic Review_, capturing the attention of readers in a busy newsstand and boosting sales. From Hong Kong, Chua drew cartoons about Singapore leaders from time to time. It is unfortunate that with his departure from Singapore in the 1970s, the tradition of political caricaturing was severed in Singapore, so much so that in the 1990s, the _Straits Times_ had to employ cartoonists from the Philippines.11 While we have political cartoons and comics today (especially on social media), we have never recovered the art of caricature drawing among our local cartoonists. 
 
-Common Threads
+#### **Common Threads**
 
 When we look at these artists, we can see that they share some commonalities. The cartoons of Tchang Ju Chi, Dai Yin Lang and Liu Kang focused on the Sino-Japanese War in China and the Japanese Occupation of Singapore. These pioneers drew their cartoons before or immediately after World War II.
 
@@ -126,3 +126,38 @@ The 1950s can be termed as the golden age of Malay comics and cartoons, and ther
 Finally, when all is said and done, being a cartoonist is still hard. It was true in the past and it is still true today. As I wrote in the final pages of _Drawn to Satire_: “Artists and their cartoons are products of their times. Seeing their works, we learn about their lives and struggles. Their many stories and experiences add graphic shades to the story of our past. Their collective stories embodied the history and heritage of cartooning in Singapore. It is not just one story but many different stories and experiences. Cartoonists are not winners. They are only human.”16 
 
 Cartoonists are drawn to satire. Long may they run.
+
+#### **NOTES**
+	
+[^1]: 
+
+[^2]: 
+
+[^3]: 
+
+[^4]: 
+
+[^5]: 
+
+[^6]: 
+
+[^7]: 
+
+[^8]: 
+
+[^9]: 
+
+[^10]: 
+	
+[^11]: 
+
+[^12]: 
+
+[^13]: 
+
+[^14]: 
+
+[^15]: 
+
+[^16]: 
+
