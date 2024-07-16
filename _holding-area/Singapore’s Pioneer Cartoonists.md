@@ -179,7 +179,7 @@ Cartoonists are drawn to satire. Long may they run.
 [^3]: Lim Cheng Tju, [_Drawn to Satire: Sketches of Cartoonists in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300002735) (Singapore: Pause Narratives, 2023). (From National Library, Singapore, call no. RSING 741.595957 LIM)
 
 
-[^4]: Sonny Liew, _The Art of Charlie Chan Hock Chye_ (Singapore: Epigram Books, 2020). (From National Library, Singapore, call no. RSING 741.595957 LIE); “Review: The Art of Charlie Chan Hock Chye,” _Kyoto Review of Southeast Asia_, 18 September 2015, https://kyotoreview.org/review-essays/art-of-charlie-chan-hock-chye/.
+[^4]: Sonny Liew, [_The Art of Charlie Chan Hock Chye_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=204463637) (Singapore: Epigram Books, 2020). (From National Library, Singapore, call no. RSING 741.595957 LIE); “Review: The Art of Charlie Chan Hock Chye,” _Kyoto Review of Southeast Asia_, 18 September 2015, https://kyotoreview.org/review-essays/art-of-charlie-chan-hock-chye/.
 
 
 [^5]: Lim Cheng Tju, “Singapore Political Cartooning,” _Southeast Asian Journal of Social Science_ 25, no. 1 (1997): 125–150. (From JSTOR via NLB’s eResources website)&nbsp;
