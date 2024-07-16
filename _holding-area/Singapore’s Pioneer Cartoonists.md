@@ -20,6 +20,11 @@ About a decade ago, I wrote two articles on comics and cartoons in Singapore for
 
 &nbsp;This current article, however, provides a snapshot of eight pioneer cartoonists in Singapore whom I showcased in a recent book. Published in 2023, _Drawn to Satire: Sketches of Cartoonists in Singapore_ features illustrations by Koh Hong Teng.[^3] The eight cartoonists highlighted in the book are Morgan Chua, Dai Yin Lang, Koeh Sia Yong, Kwan Shan Mei, Lim Mu Hue,&nbsp; Liu Kang, Shamsuddin H. Akib and Tchang Ju Chi.
 
+
+![](/images/Vol%2020%20Issue%203/Cartoonist/cartoonist_satire.jpg)
+<div style="background-color:white;"><i>Drawn to Satire: Sketches of Cartoonists in Singapore</i> by Lim Cheng Tju and published by Pause Narratives in 2023. <i>(From National Library, Singapore, call no. RSING 741.595957 LIM).</i></div>
+
+
 I decided to write the book because unlike in other countries, the history of cartoonists and comic artists is not well documented in Singapore. For example, in conjunction with the 2024 Paris Olympics, the Centre Pompidou held a major comics exhibition titled “Comics, 1964–2024” from 29 May to 4 November this year. The closest we have had to something like this was an exhibition on the history of Singapore comics that I co-curated with Sonny Liew in 2016 at the Central Public Library. The exhibition was part of Speech Bubble, a month-long event comprising programmes such as talks and workshops to celebrate Singapore comics.&nbsp;
 
 While the exhibition had decent reviews and attendance, awareness of Singapore comics is still low among the public despite the popularity of foreign comics like Japanese manga. When Liew’s graphic novel, _The Art of Charlie Chan Hock Chye_, was published in 2015 (and subsequently won three Eisner Awards in 2017), many people asked me to introduce them to Charlie Chan even though the book is a fictional biography showcasing the life and work of fictional pioneering comic artist, Charlie Chan.[^4]&nbsp;
