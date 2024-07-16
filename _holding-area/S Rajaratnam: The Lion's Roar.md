@@ -161,8 +161,7 @@ He might not have produced the last major work that many had hoped for, but he s
 
 In the body of his speeches, he left the basic tenets of Singapore’s foreign policy. After his death, his speeches continued to be read. A good selection can be found in the anthologies, [_The Prophetic and_ _the Political: Selected Speeches and Writings of_ _S. Rajaratnam_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4183274), edited by Chan Heng Chee and Obaid ul Haq; and [_S. Rajaratnam on Singapore: From Ideas to Reality_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12817606), edited by Kwa Chong Guan.&nbsp;
 
-
-![](/images/Vol%2020%20Issue%203/Rajaratnam/rajaratnam_bush.jpg)
+<img src="/images/Vol%2020%20Issue%203/Rajaratnam/rajaratnam_bush.jpg" style="width: 80%;">
 <div style="background-color:white;">Former Senior Minister S. Rajaratnam greeting President of the United States George Bush at the state banquet hosted by President Wee Kim Wee and Mrs Wee at the Stamford Ballroom, Westin Plaza, 1992. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 
