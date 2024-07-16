@@ -128,6 +128,9 @@ Morgan Chua was a Singaporean political cartoonist par excellence. A successor t
 
 Chua was, and probably still is, the best political caricaturist we’ve had. His caricatures of world leaders graced many a cover of the _Far Eastern Economic Review_, capturing the attention of readers in a busy newsstand and boosting sales. From Hong Kong, Chua drew cartoons about Singapore leaders from time to time. It is unfortunate that with his departure from Singapore in the 1970s, the tradition of political caricaturing was severed in Singapore, so much so that in the 1990s, the _Straits Times_ had to employ cartoonists from the Philippines.[^11] While we have political cartoons and comics today (especially on social media), we have never recovered the art of caricature drawing among our local cartoonists.&nbsp;
 
+![](/images/Vol%2020%20Issue%203/Cartoonist/cartoonist_snip.jpg)
+<div style="background-color:white;">Morgan Chua’s illustration of Operation Snip Snip, which was launched in January 1972 to ban long hair on men. <i>Image reproduced from Morgan Chua, Singapore: Sketches by Morgan Chua (Singapore: Marshall Cavendish Editions, 2008), 76. (From National Library, Singapore, call no. RSING 959.57 CHU).</i></div>
+
 #### **Common Threads**
 
 When we look at these artists, we can see that they share some commonalities. The cartoons of Tchang Ju Chi, Dai Yin Lang and Liu Kang focused on the Sino-Japanese War in China and the Japanese Occupation of Singapore. These pioneers drew their cartoons before or immediately after World War II.
