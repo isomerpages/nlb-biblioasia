@@ -79,6 +79,9 @@ Like Tchang, Dai drew about the lived experiences of the people in 1930s Singapo
 
 Liu Kang was one of the pioneers of art in Singapore. While well known as a painter, he also produced _Chop Suey_ (1946), a series of comic books illustrating the atrocities committed by the Japanese against the people of Singapore during the Occupation years.[^9] Although Liu never drew cartoons after that, _Chop Suey_ remains an important work in the history of cartoons in Singapore.
 
+![](/images/Vol%2020%20Issue%203/Cartoonist/cartoonist_liukang.jpg)
+<div style="background-color:white;"> Liu Kang captured the brutalities committed by the Japanese against the people of Singapore during the Japanese Occupation. One of the torture methods was to tie the victim to a chair and then poke sharp pencils into the victim’s ears, one pencil in each ear. <i>Image reproduced from Liu Kang, Chop Suey, vol. 1 (Singapore: Printed at Ngai Seong Press, 1946). (From National Library, Singapore, call no. RCLOS 959.5106 CHO-LK]). </i></div>
+
 **_Kwan Shan Mei (1922–2012)_**&nbsp;
 
 Born in Harbin, China, Kwan Shan Mei was one of the few female illustrators and cartoonists active in Singapore from the 1960s to 1980s. Her real name was Wong Fang Yan but she used Kwan Shan Mei as her pen name. She worked in Hong Kong in the 1950s before relocating to Singapore in the 1960s, drawing many of the textbooks of our childhood, such as the 24 readers published by the Ministry of Education as part of the Primary Pilot Project. Kwan taught at the Nanyang Academy of Fine Arts (NAFA) in Singapore in the 1990s before moving to Vancouver, Canada, in 1999.&nbsp;
