@@ -61,7 +61,7 @@ Tchang drew many cartoons about local life in early 1930s Singapore. This was si
 
 Born in Kuala Lumpur, Dai Yin Lang was educated in China and graduated from the Faculty of Western Art at the Shanghai Academy of Art. An activist and a communist, Dai was influential in the development of cartooning in Singapore, drawing not only cartoons but also writing many articles before World War II about the form and function of cartoons. He was deported to China by the British in 1939 for his anti-colonial views. Like many others, he suffered at the hands of the Red Guards during the Cultural Revolution.
 
-Like Tchang, Dai drew about the lived experiences of the people in 1930s Singapore. Typical of the cartoons of the day, both men’s cartoons had very few words as the literacy level was low in Singapore then. This is in contrast to the cartoons we see in the newspapers today which depend on captions, dialogue and wordplay. This meant the cartooning skills of Dai and Tchang had to be precise, without the use of words: 寧濾숨沂 (“to hit the nail on the head”). This is no easy task – then and even now. 
+Like Tchang, Dai drew about the lived experiences of the people in 1930s Singapore. Typical of the cartoons of the day, both men’s cartoons had very few words as the literacy level was low in Singapore then. This is in contrast to the cartoons we see in the newspapers today which depend on captions, dialogue and wordplay. This meant the cartooning skills of Dai and Tchang had to be precise, without the use of words: 一针见血 (“to hit the nail on the head”). This is no easy task – then and even now. 
 
 **_Liu Kang (1911–2004)_** 
 
@@ -83,7 +83,7 @@ Like Koeh, Sham drew cartoons for newspapers in the 1970s, focusing on local eve
 
 **_Lim Mu Hue (1936–2008)_** 
 
-Lim Mu Hue has been described as the eccentric artist of the Singapore art scene in the 1970s. He once published a blank book titled 轟俚莖蝎 (“Wordless Book”). But beneath the gruff exterior of a stubborn old man who loved his drinks and cigarettes lay a critical mind and generous spirit. 
+Lim Mu Hue has been described as the eccentric artist of the Singapore art scene in the 1970s. He once published a blank book titled 无字天书(“Wordless Book”). But beneath the gruff exterior of a stubborn old man who loved his drinks and cigarettes lay a critical mind and generous spirit. 
 
 Lim can be considered a pioneer of conceptual art in Singapore. For one of his exhibitions in the 1970s, he took down all the works on the last day and visitors entered an empty gallery. But he was there to sign on the shirts of guests, and they became part of the artwork.
 
