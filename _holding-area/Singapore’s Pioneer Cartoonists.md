@@ -37,7 +37,7 @@ For the stories of both cartoonists (and others in the book), we adopted an appr
 
 #### **Cartooning in Singapore**
 
-Singapore’s early newspapers were the first to include cartoons. The _Straits Times_, for example, featured entertainment news, local gossip and news from the metropolitan centre, as well as cartoons reprinted from London periodicals. In addition to newspapers, there were also interesting experiments like _Straits Produce_, a satirical magazine that first published in 1868. Modelled after Britain’s leading humour magazine _Punch, Straits Produce_ carried cartoons, caricatures, short stories, poems and humorous essays.8
+Singapore’s early newspapers were the first to include cartoons. The _Straits Times_, for example, featured entertainment news, local gossip and news from the metropolitan centre, as well as cartoons reprinted from London periodicals. In addition to newspapers, there were also interesting experiments like _Straits Produce_, a satirical magazine that first published in 1868. Modelled after Britain’s leading humour magazine _Punch, Straits Produce_ carried cartoons, caricatures, short stories, poems and humorous essays.[^8]
 
 Vernacular newspapers began rolling off the presses in the second half of the 19th century in Singapore, but the first local Chinese and Malay cartoons only appeared in the early 20th century. (We could not find any cartoons in Tamil newspapers during this period.) 
 
@@ -65,7 +65,7 @@ Like Tchang, Dai drew about the lived experiences of the people in 1930s Singapo
 
 **_Liu Kang (1911–2004)_** 
 
-Liu Kang was one of the pioneers of art in Singapore. While well known as a painter, he also produced _Chop Suey_ (1946), a series of comic books illustrating the atrocities committed by the Japanese against the people of Singapore during the Occupation years.9 Although Liu never drew cartoons after that, _Chop Suey_ remains an important work in the history of cartoons in Singapore.
+Liu Kang was one of the pioneers of art in Singapore. While well known as a painter, he also produced _Chop Suey_ (1946), a series of comic books illustrating the atrocities committed by the Japanese against the people of Singapore during the Occupation years.[^9] Although Liu never drew cartoons after that, _Chop Suey_ remains an important work in the history of cartoons in Singapore.
 
 **_Kwan Shan Mei (1922–2012)_** 
 
@@ -77,7 +77,7 @@ Like Sham, Kwan’s style is gentler and “prettier” in terms of aesthetics, 
 
 Shamsuddin H. Akib may not be part of the golden age of Malay comics in the 1950s, but his contributions in the fields of advertising, illustrations and cartooning are memorable. Like Tchang Ju Chi and Koeh Sia Yong, he straddled the worlds of graphic design, commercials and cartoons. 
 
-In 1962, while working as a commercial artist at Papineau Advertising, Sham submitted a mural titled “Cultural Dances of Malaysia” for a competition in which five winning designs would be selected for the new passenger terminal building at Paya Lebar Airport. Sham’s mural was one of the chosen designs and it was installed on the ground floor of the airport above a row of phone booths. The mural is no longer intact today.10 
+In 1962, while working as a commercial artist at Papineau Advertising, Sham submitted a mural titled “Cultural Dances of Malaysia” for a competition in which five winning designs would be selected for the new passenger terminal building at Paya Lebar Airport. Sham’s mural was one of the chosen designs and it was installed on the ground floor of the airport above a row of phone booths. The mural is no longer intact today.[^10] 
 
 Like Koeh, Sham drew cartoons for newspapers in the 1970s, focusing on local events (sports, elections). Instead of caricaturing politicians, Sham’s cartoons took a light-hearted look at policies and everyday living. 
 
@@ -99,7 +99,7 @@ Unlike his social realist works (woodcuts, paintings) in the 1950s and 1960s whe
 
 Morgan Chua was a Singaporean political cartoonist par excellence. A successor to the sharp penmanship of an earlier cartooning pioneer, Tan Huay Peng, Chua made his name at the _Singapore Herald_ in the early 1970s before moving to Hong Kong to eventually take up the role of chief artist at the _Far Eastern Economic Review_. He returned to Singapore in the late 1990s and spent his last days here.
 
-Chua was, and probably still is, the best political caricaturist we’ve had. His caricatures of world leaders graced many a cover of the _Far Eastern Economic Review_, capturing the attention of readers in a busy newsstand and boosting sales. From Hong Kong, Chua drew cartoons about Singapore leaders from time to time. It is unfortunate that with his departure from Singapore in the 1970s, the tradition of political caricaturing was severed in Singapore, so much so that in the 1990s, the _Straits Times_ had to employ cartoonists from the Philippines.11 While we have political cartoons and comics today (especially on social media), we have never recovered the art of caricature drawing among our local cartoonists. 
+Chua was, and probably still is, the best political caricaturist we’ve had. His caricatures of world leaders graced many a cover of the _Far Eastern Economic Review_, capturing the attention of readers in a busy newsstand and boosting sales. From Hong Kong, Chua drew cartoons about Singapore leaders from time to time. It is unfortunate that with his departure from Singapore in the 1970s, the tradition of political caricaturing was severed in Singapore, so much so that in the 1990s, the _Straits Times_ had to employ cartoonists from the Philippines.[^11] While we have political cartoons and comics today (especially on social media), we have never recovered the art of caricature drawing among our local cartoonists. 
 
 #### **Common Threads**
 
@@ -113,7 +113,7 @@ Cartooning was not a common profession back in the 1930s. That remains true toda
 
 Singapore did not have a dedicated cartoon magazine or comic books until the late 1970s and 1980s, though there were a few standalone issues now and then. This had to do with the state of Singapore’s economy in the postwar decades. When there was no spare pocket money for youths to spend, no publishers would publish comic books. As a result, cartoons only appeared in newspapers and magazines. 
 
-It was only when people became more affluent that comic books emerged, such as Roger Wong’s T_he Valiant Pluto-man of Singapore_ in 1983.12 None of the eight cartoonists worked under such favourable conditions though; they had to contend with the constraints and limitations of the newspaper and magazine format.13
+It was only when people became more affluent that comic books emerged, such as Roger Wong’s T_he Valiant Pluto-man of Singapore_ in 1983.[^12] None of the eight cartoonists worked under such favourable conditions though; they had to contend with the constraints and limitations of the newspaper and magazine format.[^13]
 
 We can also note that while contemporary cartoonists and comic artists aim to provide entertainment for young readers, the cartoonists of earlier generations could be classified as cultural workers. Cartoonists working for the press and magazines did not just draw cartoons; they were also journalists, artists and intellectuals.
 
@@ -121,9 +121,9 @@ Some of the pioneer cartoonists wanted to change the world, to bring about socia
 
 Given the Chinese majority in Singapore, it is not surprising that most of the early cartoonists were Chinese. As a result of prevailing social norms, few women became artists, much less be engaged in cartooning. Kwan was an exception, although she was an artist first in Hong Kong before moving to Singapore in the 1960s when she was already in her early 40s. 
 
-The 1950s can be termed as the golden age of Malay comics and cartoons, and there are many more Malay cartoonists that could have been featured.14 We only included one Malay cartoonist, Sham, in _Drawn to Satire_. Other researchers can and should continue what we have started. Today there are more women artists drawing comics and cartoons because of the popularity of manga and anime and the advent of art schools.15 We also have more Malay and Indian comic creators. 
+The 1950s can be termed as the golden age of Malay comics and cartoons, and there are many more Malay cartoonists that could have been featured.[^14] We only included one Malay cartoonist, Sham, in _Drawn to Satire_. Other researchers can and should continue what we have started. Today there are more women artists drawing comics and cartoons because of the popularity of manga and anime and the advent of art schools.[^15] We also have more Malay and Indian comic creators. 
 
-Finally, when all is said and done, being a cartoonist is still hard. It was true in the past and it is still true today. As I wrote in the final pages of _Drawn to Satire_: “Artists and their cartoons are products of their times. Seeing their works, we learn about their lives and struggles. Their many stories and experiences add graphic shades to the story of our past. Their collective stories embodied the history and heritage of cartooning in Singapore. It is not just one story but many different stories and experiences. Cartoonists are not winners. They are only human.”16 
+Finally, when all is said and done, being a cartoonist is still hard. It was true in the past and it is still true today. As I wrote in the final pages of _Drawn to Satire_: “Artists and their cartoons are products of their times. Seeing their works, we learn about their lives and struggles. Their many stories and experiences add graphic shades to the story of our past. Their collective stories embodied the history and heritage of cartooning in Singapore. It is not just one story but many different stories and experiences. Cartoonists are not winners. They are only human.”[^16] 
 
 Cartoonists are drawn to satire. Long may they run.
 
