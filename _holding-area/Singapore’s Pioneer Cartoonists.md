@@ -147,7 +147,7 @@ Cartooning was not a common profession back in the 1930s. That remains true toda
 
 Singapore did not have a dedicated cartoon magazine or comic books until the late 1970s and 1980s, though there were a few standalone issues now and then. This had to do with the state of Singapore’s economy in the postwar decades. When there was no spare pocket money for youths to spend, no publishers would publish comic books. As a result, cartoons only appeared in newspapers and magazines.&nbsp;
 
-It was only when people became more affluent that comic books emerged, such as Roger Wong’s T_he Valiant Pluto-man of Singapore_ in 1983.[^12] None of the eight cartoonists worked under such favourable conditions though; they had to contend with the constraints and limitations of the newspaper and magazine format.[^13]
+It was only when people became more affluent that comic books emerged, such as Roger Wong’s _The Valiant Pluto-man of Singapore_ in 1983.[^12] None of the eight cartoonists worked under such favourable conditions though; they had to contend with the constraints and limitations of the newspaper and magazine format.[^13]
 
 We can also note that while contemporary cartoonists and comic artists aim to provide entertainment for young readers, the cartoonists of earlier generations could be classified as cultural workers. Cartoonists working for the press and magazines did not just draw cartoons; they were also journalists, artists and intellectuals.
 
@@ -209,7 +209,7 @@ Cartoonists are drawn to satire. Long may they run.
 [^13]:  Lim, “[Comic Books As Windows into a Singapore of the 1980s and 1990s](https://biblioasia.nlb.gov.sg/vol-7/issue-4/mar-2012/singapore-comic-books/).”
 
 
-[^14]:  Lim, “The History of Comics and Cartoons in Singapore and Malaysia Part 2”; Mazelan Anuar, “[Kaboom! Early Malay Comic Books Make an Impact](https://biblioasia.nlb.gov.sg/vol-19/issue-4/jan-mar-2024/early-malay-comics/),” _BiblioAsia_ 19, no. 4 (January-–March 2024): 40-–45.
+[^14]:  Lim, “The History of Comics and Cartoons in Singapore and Malaysia Part 2”; Mazelan Anuar, “[Kaboom! Early Malay Comic Books Make an Impact](https://biblioasia.nlb.gov.sg/vol-19/issue-4/jan-mar-2024/early-malay-comics/),” _BiblioAsia_ 19, no. 4 (January–March 2024): 40–45.
 
 
 [^15]: Lim Cheng Tju, “Stories by Female Comic Artists in Southeast Asia,” Academia, 2015, https://www.academia.edu/15829886/Stories\_by\_Female\_Comic\_Artists\_in\_Southeast\_Asia.
