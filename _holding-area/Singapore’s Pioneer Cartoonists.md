@@ -75,6 +75,9 @@ Born in Kuala Lumpur, Dai Yin Lang was educated in China and graduated from the 
 
 Like Tchang, Dai drew about the lived experiences of the people in 1930s Singapore. Typical of the cartoons of the day, both men’s cartoons had very few words as the literacy level was low in Singapore then. This is in contrast to the cartoons we see in the newspapers today which depend on captions, dialogue and wordplay. This meant the cartooning skills of Dai and Tchang had to be precise, without the use of words: 一针见血 (“to hit the nail on the head”). This is no easy task – then and even now.&nbsp;
 
+![](/images/Vol%2020%20Issue%203/Cartoonist/cartoonist_liukang.jpg)
+<div style="background-color:white;"> 带着光明来 (Arriving With Light) by Dai Yin Lang as published in Nanyang Siang Pau supplement, <i>Wenman Jie</i> (The World of Literature and Cartoons), 8 November 1936. <i>Image reproduced from Yeo Mang Thong, Migration, Transmission, Localisation: Visual Art in Singapore (1886–1945) (Singapore: National Gallery Singapore, 2019), 177. From National Library, Singapore, call no. RSING 709. 5957 YAO).</i></div>
+
 **_Liu Kang (1911–2004)_**&nbsp;
 
 Liu Kang was one of the pioneers of art in Singapore. While well known as a painter, he also produced _Chop Suey_ (1946), a series of comic books illustrating the atrocities committed by the Japanese against the people of Singapore during the Occupation years.[^9] Although Liu never drew cartoons after that, _Chop Suey_ remains an important work in the history of cartoons in Singapore.
