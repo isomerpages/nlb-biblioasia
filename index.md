@@ -33,7 +33,7 @@ sections:
         how the journalist-turned-politician was a critical figure in
         Singapore’s early years.
       button: A Political Giant
-      url: /vol-20/issue-3/oct-dec-2024/rajaratnam-biography-lion’s-roar/
+      url: /vol-20/issue-3/oct-dec-2024/rajaratnam-biography-lions-roar/
       image: /images/Vol 20 Issue 3/Rajaratnam/rajaratnam_topics2.jpg
       alt: Image alt text
   - infopic:
