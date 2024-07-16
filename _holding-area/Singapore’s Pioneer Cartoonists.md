@@ -164,7 +164,7 @@ Cartoonists are drawn to satire. Long may they run.
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/MazelanAnuar.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/MazelanAnuar-.png">
 	<b>CT Lim</b> writes about history and popular culture. His articles have appeared in the <i>Journal of Popular Culture</i> and the <i>International Journal of Comic Art</i>. He is the co-author of <i>The University Socialist Club and the Contest for Malaya: Tangled Strands of Modernity</i> (Amsterdam University Press/NUS Press, 2012).</div>
 
 
