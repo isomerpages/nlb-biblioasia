@@ -110,7 +110,7 @@ Lim can be considered a pioneer of conceptual art in Singapore. For one of his e
 
 Lim’s innovative approaches extended to the cartoons he drew in the 1970s: his protagonist (who is the artist himself) breaks the fourth wall constantly and makes fun of himself. He makes us laugh at his own expense, so we can learn, understand and empathise.&nbsp;
 
-![](/images/Vol%2020%20Issue%203/Cartoonist/cartoonist_liukang.jpg)
+![](/images/Vol%2020%20Issue%203/Cartoonist/cartoonist_teochew.jpg)
 <div style="background-color:white;"> 清音班 (Teochew Opera Singing), 1964, woodcut print, by Lim Mu Hue. <i>Image reproduced from Lim Mu Hue: An Inventive Life (Singapore: Nanyang Academy of Fine Arts, 2014), 77. (From National Library, Singapore, call no. RSING 709.2 LIM). </i></div>
 
 **_Koeh Sia Yong (b. 1938)_**&nbsp;
