@@ -161,6 +161,13 @@ Finally, when all is said and done, being a cartoonist is still hard. It was tru
 
 Cartoonists are drawn to satire. Long may they run.
 
+
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/MazelanAnuar.png">
+	<b>CT Lim</b> writes about history and popular culture. His articles have appeared in the <i>Journal of Popular Culture</i> and the <i>International Journal of Comic Art</i>. He is the co-author of <i>The University Socialist Club and the Contest for Malaya: Tangled Strands of Modernity</i> (Amsterdam University Press/NUS Press, 2012).</div>
+
+
 #### **NOTES**
 	
 [^1]: Lim Cheng Tju, “Comic Books As Windows into a Singapore of the 1980s and 1990s,” _BiblioAsia_ 7, no. 4 (March 2012): 22–26.
