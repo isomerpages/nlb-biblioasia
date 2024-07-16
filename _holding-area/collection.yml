@@ -2,7 +2,6 @@ collections:
   holding-area:
     output: true
     order:
-      - "S Rajaratnam: The Lion's Roar.md"
       - Example Title.md
       - Test2.md
       - Test page.md
