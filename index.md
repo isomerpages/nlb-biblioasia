@@ -26,6 +26,17 @@ sections:
       image: /images/edm_strip_survey_homepage.jpg
       alt: Image alt text
   - infopic:
+      title: "S. Rajaratnam: The Lion’s Roar"
+      subtitle: People
+      id: infopic
+      description: In S. Rajaratnam’s biography, The Lion’s Roar, Irene Ng explains
+        how the journalist-turned-politician was a critical figure in
+        Singapore’s early years.
+      button: A Political Giant
+      url: /vol-20/issue-3/oct-dec-2024/rajaratnam-biography-lion’s-roar/
+      image: /images/Vol 20 Issue 3/Rajaratnam/rajaratnam_topics2.jpg
+      alt: Image alt text
+  - infopic:
       title: The Life and Legacy of Dr Lee Kum Tatt
       subtitle: People
       id: infopic
@@ -1164,15 +1175,4 @@ sections:
       url: https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08
       alt: Greeting Card
       image: /images/Hari Raya Cards/hari raya greeting card.jpg
-  - infopic:
-      title: "S. Rajaratnam: The Lion’s Roar"
-      subtitle: People
-      id: infopic
-      description: In S. Rajaratnam’s biography, The Lion’s Roar, Irene Ng explains
-        how the journalist-turned-politician was a critical figure in
-        Singapore’s early years.
-      button: A Political Giant
-      url: /vol-20/issue-3/oct-dec-2024/rajaratnam-biography-lion’s-roar/
-      image: /images/Vol 20 Issue 3/Rajaratnam/rajaratnam_topics2.jpg
-      alt: Image alt text
 ---
