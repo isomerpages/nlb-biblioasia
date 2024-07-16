@@ -194,25 +194,25 @@ Cartoonists are drawn to satire. Long may they run.
 [^8]: Lim Cheng Tju, “The History of Comics and Cartoons in Singapore and Malaysia Part 2: The Early Comics/Cartoons,” SG Cartoon Resource Hub, 1 April 2022, https://sgcartoonhub.com/the-history-of-comics-and-cartoons-in-singapore-and-malaysia-part-2/.
 
 
-[^9]: Timothy Pwee, “Cartoons of Terror,” _BiblioAsia_ 11, no. 4 (January–March 2016): 102–105; Liu Kang, _Chop Suey_ (Singapore: Printed at Ngai Seong Press, 1946). (From National Library, Singapore, call no. RCLOS 959.5106 CHO-LK\])&nbsp;
+[^9]: Timothy Pwee, “[Cartoons of Terror](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/chop-suey-liu-kang/),” _BiblioAsia_ 11, no. 4 (January–March 2016): 102–105; Liu Kang, [_Chop Suey_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980043) (Singapore: Printed at Ngai Seong Press, 1946). (From National Library, Singapore, call no. RCLOS 959.5106 CHO-LK\])&nbsp;
 
 
-[^10]:  Dahlia Shamsuddin, “The Forgotten Murals of Paya Lebar Airport,” _BiblioAsia_ 17, no. 2 (July–September 2021): 4–9. &nbsp;
+[^10]:  Dahlia Shamsuddin, “[The Forgotten Murals of Paya Lebar Airport](https://biblioasia.nlb.gov.sg/vol-17/issue-2/jul-sep-2021/murals/),” _BiblioAsia_ 17, no. 2 (July–September 2021): 4–9. &nbsp;
 
 	
 [^11]:  Lim, “Singapore Political Cartooning.”
 
 
-[^12]:  Roger Wong, _The Valiant Pluto-man of Singapore_ (Singapore: Fantasy Comics, 1983). (From PublicationSG)
+[^12]:  Roger Wong, [_The Valiant Pluto-man of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200085679) (Singapore: Fantasy Comics, 1983). (From PublicationSG)
 
 
-[^13]:  Lim, “Comic Books As Windows into a Singapore of the 1980s and 1990s.”
+[^13]:  Lim, “[Comic Books As Windows into a Singapore of the 1980s and 1990s](https://biblioasia.nlb.gov.sg/vol-7/issue-4/mar-2012/singapore-comic-books/).”
 
 
-[^14]:  Lim, “The History of Comics and Cartoons in Singapore and Malaysia Part 2”; Mazelan Anuar, “Kaboom! Early Malay Comic Books Make an Impact,” _BiblioAsia_ 19, no. 4 (January-–March 2024): 40-–45.
+[^14]:  Lim, “The History of Comics and Cartoons in Singapore and Malaysia Part 2”; Mazelan Anuar, “[Kaboom! Early Malay Comic Books Make an Impact](https://biblioasia.nlb.gov.sg/vol-19/issue-4/jan-mar-2024/early-malay-comics/),” _BiblioAsia_ 19, no. 4 (January-–March 2024): 40-–45.
 
 
 [^15]: Lim Cheng Tju, “Stories by Female Comic Artists in Southeast Asia,” Academia, 2015, https://www.academia.edu/15829886/Stories\_by\_Female\_Comic\_Artists\_in\_Southeast\_Asia.
 
 
-[^16]: Lim, _Drawn to Satire: Sketches of Cartoonists_ in Singapore, 140.
+[^16]: Lim, [_Drawn to Satire: Sketches of Cartoonists_ in Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300002735), 140.
