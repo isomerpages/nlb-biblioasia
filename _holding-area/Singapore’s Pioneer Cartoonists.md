@@ -129,35 +129,49 @@ Cartoonists are drawn to satire. Long may they run.
 
 #### **NOTES**
 	
-[^1]: 
+[^1]: Lim Cheng Tju, “Comic Books As Windows into a Singapore of the 1980s and 1990s,” _BiblioAsia_ 7, no. 4 (March 2012): 22–26.
 
-[^2]: 
 
-[^3]: 
+[^2]: Lim Cheng Tju, “Singapore Comics Showcase,” _BiblioAsia_ 9, no. 3 (October–December 2013): 50–52.
 
-[^4]: 
 
-[^5]: 
+[^3]: Lim Cheng Tju, _Drawn to Satire: Sketches of Cartoonists in Singapore_ (Singapore: Pause Narratives, 2023). (From National Library, Singapore, call no. RSING 741.595957 LIM)
 
-[^6]: 
 
-[^7]: 
+[^4]: Sonny Liew, _The Art of Charlie Chan Hock Chye_ (Singapore: Epigram Books, 2020). (From National Library, Singapore, call no. RSING 741.595957 LIE); “Review: The Art of Charlie Chan Hock Chye,” _Kyoto Review of Southeast Asia_, 18 September 2015, https://kyotoreview.org/review-essays/art-of-charlie-chan-hock-chye/.
 
-[^8]: 
 
-[^9]: 
+[^5]: Lim Cheng Tju, “Singapore Political Cartooning,” _Southeast Asian Journal of Social Science_ 25, no. 1 (1997): 125–150. (From JSTOR via NLB’s eResources website) 
 
-[^10]: 
+
+[^6]: Foo Kwee Horng, Koh Nguang How and Lim Cheng Tju, “A Brief History of Woodcuts in Singapore,” _BiblioAsia_ 2, no. 3 (October 2006): 30–34.
+
+
+[^7]: This is similar to the aim of my earlier comic book, _Guidebook to Nanyang Diplomacy_, a piece of speculative fiction about the Sepoy Mutiny of 1915 in Singapore. See Lim Cheng Tju, _Guidebook to Nanyang Diplomacy_ (Singapore: COSH Studios, 2017). (From National Library, Singapore, call no. RSING 741.595957 LIM)
+
+
+[^8]: Lim Cheng Tju, “The History of Comics and Cartoons in Singapore and Malaysia Part 2: The Early Comics/Cartoons,” SG Cartoon Resource Hub, 1 April 2022, https://sgcartoonhub.com/the-history-of-comics-and-cartoons-in-singapore-and-malaysia-part-2/.
+
+
+[^9]: Timothy Pwee, “Cartoons of Terror,” _BiblioAsia_ 11, no. 4 (January–March 2016): 102–105; Liu Kang, _Chop Suey_ (Singapore: Printed at Ngai Seong Press, 1946). (From National Library, Singapore, call no. RCLOS 959.5106 CHO-LK\]) 
+
+
+[^10]:  Dahlia Shamsuddin, “The Forgotten Murals of Paya Lebar Airport,” _BiblioAsia_ 17, no. 2 (July–September 2021): 4–9.  
+
 	
-[^11]: 
+[^11]:  Lim, “Singapore Political Cartooning.”
 
-[^12]: 
 
-[^13]: 
+[^12]:  Roger Wong, _The Valiant Pluto-man of Singapore_ (Singapore: Fantasy Comics, 1983). (From PublicationSG)
 
-[^14]: 
 
-[^15]: 
+[^13]:  Lim, “Comic Books As Windows into a Singapore of the 1980s and 1990s.”
 
-[^16]: 
 
+[^14]:  Lim, “The History of Comics and Cartoons in Singapore and Malaysia Part 2”; Mazelan Anuar, “Kaboom! Early Malay Comic Books Make an Impact,” _BiblioAsia_ 19, no. 4 (January-–March 2024): 40-–45.
+
+
+[^15]: Lim Cheng Tju, “Stories by Female Comic Artists in Southeast Asia,” Academia, 2015, https://www.academia.edu/15829886/Stories\_by\_Female\_Comic\_Artists\_in\_Southeast\_Asia.
+
+
+[^16]: Lim, _Drawn to Satire: Sketches of Cartoonists_ in Singapore, 140.
