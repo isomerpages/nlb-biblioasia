@@ -18,7 +18,7 @@ In the late 1980s, I started writing for _BigO_ fanzine about music, comics and 
 
 About a decade ago, I wrote two articles on comics and cartoons in Singapore for this publication. In 2012, I discussed the comics drawn by Eric Khoo (_Unfortunate Lives_) and Johnny Lau (_Mr Kiasu_), and how they reflected Singaporean society in the 1980s and 1990s.[^1] The second article, published a year later, was based on the exhibitions I helped curate in 2013 at the various public libraries and the National Library: the 24-Hour Comics Day Showcase and the Chinese cartoon exhibition held in conjunction with the 90th anniversary of the _Lianhe Zaobao_ newspaper.[^2]
 
-&nbsp;This current article, however, provides a snapshot of eight pioneer cartoonists in Singapore whom I showcased in a recent book. Published in 2023, _Drawn to Satire: Sketches of Cartoonists in Singapore_ features illustrations by Koh Hong Teng.[^3] The eight cartoonists highlighted in the book are Morgan Chua, Dai Yin Lang, Koeh Sia Yong, Kwan Shan Mei, Lim Mu Hue,&nbsp; Liu Kang, Shamsuddin H. Akib and Tchang Ju Chi.
+This current article, however, provides a snapshot of eight pioneer cartoonists in Singapore whom I showcased in a recent book. Published in 2023, _Drawn to Satire: Sketches of Cartoonists in Singapore_ features illustrations by Koh Hong Teng.[^3] The eight cartoonists highlighted in the book are Morgan Chua, Dai Yin Lang, Koeh Sia Yong, Kwan Shan Mei, Lim Mu Hue,&nbsp; Liu Kang, Shamsuddin H. Akib and Tchang Ju Chi.
 
 
 ![](/images/Vol%2020%20Issue%203/Cartoonist/cartoonist_satire.jpg)
