@@ -1,6 +1,6 @@
 ---
 title: "S. Rajaratnam: The Lion’s Roar"
-permalink: /s-rajaratnam-the-lions-roar/
+permalink: /vol-20/issue-3/oct-dec-2024/rajaratnam-biography-lions-roar/
 variant: markdown
 description: ""
 ---
