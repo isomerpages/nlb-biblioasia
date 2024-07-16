@@ -65,7 +65,7 @@ _The Singapore Lion_ ended with the merger in 1963, with a glimpse of the troubl
 
 It traces Raja’s crusade for a “Malaysian Malaysia” during the merger years, and its tragic end. It charts his subsequent odyssey to fight for Singapore’s survival as an independent country and to create the national ideology of a country born in turbulent times. It reveals the mistakes made along the way – from inexperience, miscalculation and sheer desperation – and the efforts to overcome the dramatic reversals that threatened to destroy his dreams.
 
-![](/images/Vol%2020%20Issue%203/Rajaratnam/rajaratnam_line.jpg)
+<img src="/images/Vol%2020%20Issue%203/Rajaratnam/rajaratnam_line.jpg" style="width: 55%;">
 
 
 Raja came from a special generation of Singapore leaders – larger than life, tough, brilliant, complex people. Forged in life-and-death battles, they shared a fierce drive to succeed.&nbsp;
@@ -102,7 +102,7 @@ As this book shows, only a man with his set of experiences, interests and ideas 
 If anyone deserved the mantle of “Singapore’s philosopher king”, it was Raja. He was a man of ideas and action who combined moral philosophy with political power. A deeply philosophical thinker, he was equally at ease pontificating about the ills of a wealth-driven culture, ethnocentrism and xenophobia, as he was about the cures to the diseases that plague dysfunctional democracies and the international order.&nbsp;
 
   
-![](/images/Vol%2020%20Issue%203/Rajaratnam/rajaratnam_line.jpg)
+<img src="/images/Vol%2020%20Issue%203/Rajaratnam/rajaratnam_line.jpg" style="width: 55%;">
   
 
   
@@ -127,7 +127,7 @@ Raja’s story is thus one of trials and also of the triumph of the human spirit
 
 This is why the dictum in the epigraph to this introduction lurks behind almost every story in this book, even those stories that may not, at first glance, seem to have anything to do with it. Running through all of Raja’s struggles was the common factor of faith: faith not in any god, but in man’s ability to imagine, to create, and to overcome.
 
-![](/images/Vol%2020%20Issue%203/Rajaratnam/rajaratnam_line.jpg)
+<img src="/images/Vol%2020%20Issue%203/Rajaratnam/rajaratnam_line.jpg" style="width: 55%;">
 
 That said, Raja did not work alone. And his life, and indeed Singapore itself, would have turned out very differently had it not been for his key allies – most of all Lee, who got him into politics in the first place. As Raja himself said in 1990, he had been involved in many momentous events that he could not have conceived of without Lee in his life. Thus, while this is a book about Raja, it is also one about his closest colleagues, the decisions he made with them, and how he acted when things turned out wrong.
 
@@ -180,7 +180,7 @@ He was the true Singapore lion who roared, and roared till the end. In a way, it
 <div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
 <img src="/images/Vol%2020%20Issue%203/Rajaratnam/rajaratnam_book.png">
 <br>
-<i>S. Rajaratnam: The Authorised Biography, Volume Two: The Lion’s Roar</i> is written by Irene Ng and published by the Institute of Southeast Asian Studies (2024). The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (call nos.: RSING xx and SING xx). Irene Ng asserts the moral right to be identified as the author of this work.
+<a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300059306"><i>S. Rajaratnam: The Authorised Biography, Volume Two: The Lion’s Roar</i></a> is written by Irene Ng and published by the Institute of Southeast Asian Studies (2024). The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (call nos.: RSING 327.59570092 NG and SING 327.59570092 NG). Irene Ng asserts the moral right to be identified as the author of this work.
 <br></div>
 
 <div style="background-color: white;">
