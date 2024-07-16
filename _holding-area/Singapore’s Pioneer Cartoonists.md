@@ -65,6 +65,10 @@ Tchang Ju Chi was a pioneer artist in prewar Singapore. He was born in Chao’an
 
 Tchang drew many cartoons about local life in early 1930s Singapore. This was significant because other writers and artists who arrived in Singapore from China still focused on China in their literary and artistic works , whereas Tchang focused on the sights and flavours of the Nanyang. However, this changed when the 1937 Sino-Japanese War broke out, and the cartoons by Tchang and Dai Yin Lang became more about the war situation in China. Tchang was killed in 1942 during the Sook Ching operation in Singapore.
 
+![](/images/Vol%2020%20Issue%203/Cartoonist/cartoonist_ordinary.jpg)
+<div style="background-color:white;">金钱崖坠下的市民 (Ordinary Folk Suffering Under the Weight of Monetary Woes) by Tchang Ju Chi as published in <i>Yehui</i>, 20 December 1930. <i>Image reproduced from Yeo Mang Thong, Migration, Transmission, Localisation: Visual Art in Singapore (1886–1945) (Singapore: National Gallery Singapore, 2019), 216. (From National Library, Singapore, call no. RSING 709. 5957 YAO).</i></div>
+
+
 **_Dai Yin Lang (1907–85)_**&nbsp;
 
 Born in Kuala Lumpur, Dai Yin Lang was educated in China and graduated from the Faculty of Western Art at the Shanghai Academy of Art. An activist and a communist, Dai was influential in the development of cartooning in Singapore, drawing not only cartoons but also writing many articles before World War II about the form and function of cartoons. He was deported to China by the British in 1939 for his anti-colonial views. Like many others, he suffered at the hands of the Red Guards during the Cultural Revolution.
