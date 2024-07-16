@@ -5,7 +5,7 @@ description: ""
 third_nav_title: People
 variant: markdown
 ---
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/rajaratnam-biography-lion%E2%80%99s-roar/">S. Rajaratnam: The Lion’s Roar</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/rajaratnam-biography-lions-roar/">S. Rajaratnam: The Lion’s Roar</a>
 
 The second volume of S. Rajaratnam’s authorised biography –&nbsp;_The Lion’s Roar_&nbsp;– was launched in July 2024. In her introduction to the book, extracted here, author Irene Ng explains how the journalist-turned-politician was a critical figure in Singapore’s early years.
 
