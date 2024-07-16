@@ -18,7 +18,7 @@ In the late 1980s, I started writing for _BigO_ fanzine about music, comics and 
 
 About a decade ago, I wrote two articles on comics and cartoons in Singapore for this publication. In 2012, I discussed the comics drawn by Eric Khoo (_Unfortunate Lives_) and Johnny Lau (_Mr Kiasu_), and how they reflected Singaporean society in the 1980s and 1990s.[^1] The second article, published a year later, was based on the exhibitions I helped curate in 2013 at the various public libraries and the National Library: the 24-Hour Comics Day Showcase and the Chinese cartoon exhibition held in conjunction with the 90th anniversary of the _Lianhe Zaobao_ newspaper.[^2]
 
-&nbsp;This current article, however, provides a snapshot of eight pioneer cartoonists in Singapore whom I showcased in a recent book. Published in 2023, _Drawn to Satire: Sketches of Cartoonists in Singapore_ features illustrations by Koh Hong Teng.[^3] The eight cartoonists highlighted in the book are Morgan Chua, Dai Yin Lang, Koeh Sia Yong, Kwan Shan Mei, Lim Mu Hue,&nbsp; Liu Kang, Shamsuddin H. Akib and Tchang Ju Chi.
+This current article, however, provides a snapshot of eight pioneer cartoonists in Singapore whom I showcased in a recent book. Published in 2023, _Drawn to Satire: Sketches of Cartoonists in Singapore_ features illustrations by Koh Hong Teng.[^3] The eight cartoonists highlighted in the book are Morgan Chua, Dai Yin Lang, Koeh Sia Yong, Kwan Shan Mei, Lim Mu Hue,&nbsp; Liu Kang, Shamsuddin H. Akib and Tchang Ju Chi.
 
 
 ![](/images/Vol%2020%20Issue%203/Cartoonist/cartoonist_satire.jpg)
@@ -37,7 +37,7 @@ I first met Koeh when I interviewed him for my honours thesis in the mid-1990s, 
 
 As for Shamsuddin, I discovered his 1970s cartoons in my archival search of old microfilms of the _Straits Times_ for my honours thesis. Later on, I got to know his daughter, Dahlia Shamsuddin, a librarian with the National Library Board and fellow member of the Singapore Heritage Society. She said her father was very proud that his cartoons were analysed so thoroughly in an academic article as he was just drawing the cartoons and did not think much about the meanings behind them.[^5] I finally met Sham a few years ago, and he was a charmer.
 
-&nbsp;I got to know Chua in 1999 when I did a small exhibition on political cartoons in Singapore featuring his works and those of Tan Huay Peng at the courtyard of the old National Library on Stamford Road. I gave a talk on that occasion and when Chua heard about it, he turned up. We went for coffee after that and became good friends, meeting many times over the years at the coffeeshop near the bus stop in front of the library. His standard order was chicken rice and _kopi-o kosong_ (black coffee without sugar).&nbsp;
+I got to know Chua in 1999 when I did a small exhibition on political cartoons in Singapore featuring his works and those of Tan Huay Peng at the courtyard of the old National Library on Stamford Road. I gave a talk on that occasion and when Chua heard about it, he turned up. We went for coffee after that and became good friends, meeting many times over the years at the coffeeshop near the bus stop in front of the library. His standard order was chicken rice and _kopi-o kosong_ (black coffee without sugar).&nbsp;
 
 Another artist I had the honour to meet was Lim Mu Hue. From 2006, we would meet at the National Library at its new location on Victoria Street. We often dined at the cafe in the plaza outside the library as we were preparing for “Imprints of the Past: Remembering the 1966 Woodcut Show” held at the library.[^6] Lim was quite a character and I enjoyed talking to him and visiting him at his home. When I showed the story about Lim to his daughter Sharon, she was tickled that we managed to capture his eccentric spirit.[^7]
 
@@ -90,6 +90,10 @@ Liu Kang was one of the pioneers of art in Singapore. While well known as a pain
 Born in Harbin, China, Kwan Shan Mei was one of the few female illustrators and cartoonists active in Singapore from the 1960s to 1980s. Her real name was Wong Fang Yan but she used Kwan Shan Mei as her pen name. She worked in Hong Kong in the 1950s before relocating to Singapore in the 1960s, drawing many of the textbooks of our childhood, such as the 24 readers published by the Ministry of Education as part of the Primary Pilot Project. Kwan taught at the Nanyang Academy of Fine Arts (NAFA) in Singapore in the 1990s before moving to Vancouver, Canada, in 1999.&nbsp;
 
 Like Sham, Kwan’s style is gentler and “prettier” in terms of aesthetics, which was suited for the nation-building era of the late 1960s and 1970s when applied arts like graphic design and illustration were important in helping to develop the economy of Singapore. Her non-confrontational style ensured her a steady stream of jobs from the Educational Publications Bureau (established by the Ministry of Education in 1967 to produce affordable textbooks) in the 1970s and 1980s.&nbsp;
+
+![](/images/Vol%2020%20Issue%203/Cartoonist/cartoonist_bale.jpg)
+<div style="background-color:white;"><i>Bala on the Moon</i> was part of a set of 24 readers published by the Ministry of Education for the Primary Pilot Project in the early 1970s. <i>The illustrations were provided by Kwan Shan Mei. Image reproduced from Bala on the Moon (Singapore: Educational Publications Bureau, 1974). (From PublicationSG). </i></div>
+
 
 **_Shamsuddin H. Akib (1933–2024)_**&nbsp; &nbsp;
 
@@ -157,51 +161,58 @@ Finally, when all is said and done, being a cartoonist is still hard. It was tru
 
 Cartoonists are drawn to satire. Long may they run.
 
+
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/CTLim.png">
+	<b>CT Lim</b> writes about history and popular culture. His articles have appeared in the <i>Journal of Popular Culture</i> and the <i>International Journal of Comic Art</i>. He is the co-author of <i>The University Socialist Club and the Contest for Malaya: Tangled Strands of Modernity</i> (Amsterdam University Press/NUS Press, 2012).</div>
+
+
 #### **NOTES**
 	
-[^1]: Lim Cheng Tju, “Comic Books As Windows into a Singapore of the 1980s and 1990s,” _BiblioAsia_ 7, no. 4 (March 2012): 22–26.
+[^1]: Lim Cheng Tju, “[Comic Books As Windows into a Singapore of the 1980s and 1990s](https://biblioasia.nlb.gov.sg/vol-7/issue-4/mar-2012/singapore-comic-books/),” _BiblioAsia_ 7, no. 4 (March 2012): 22–26.
 
 
-[^2]: Lim Cheng Tju, “Singapore Comics Showcase,” _BiblioAsia_ 9, no. 3 (October–December 2013): 50–52.
+[^2]: Lim Cheng Tju, “[Singapore Comics Showcase](https://biblioasia.nlb.gov.sg/vol-9/issue-3/oct-dec-2013/singapore-comics-showcase/),” _BiblioAsia_ 9, no. 3 (October–December 2013): 50–52.
 
 
-[^3]: Lim Cheng Tju, _Drawn to Satire: Sketches of Cartoonists in Singapore_ (Singapore: Pause Narratives, 2023). (From National Library, Singapore, call no. RSING 741.595957 LIM)
+[^3]: Lim Cheng Tju, [_Drawn to Satire: Sketches of Cartoonists in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300002735) (Singapore: Pause Narratives, 2023). (From National Library, Singapore, call no. RSING 741.595957 LIM)
 
 
-[^4]: Sonny Liew, _The Art of Charlie Chan Hock Chye_ (Singapore: Epigram Books, 2020). (From National Library, Singapore, call no. RSING 741.595957 LIE); “Review: The Art of Charlie Chan Hock Chye,” _Kyoto Review of Southeast Asia_, 18 September 2015, https://kyotoreview.org/review-essays/art-of-charlie-chan-hock-chye/.
+[^4]: Sonny Liew, [_The Art of Charlie Chan Hock Chye_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=204463637) (Singapore: Epigram Books, 2020). (From National Library, Singapore, call no. RSING 741.595957 LIE); “Review: The Art of Charlie Chan Hock Chye,” _Kyoto Review of Southeast Asia_, 18 September 2015, https://kyotoreview.org/review-essays/art-of-charlie-chan-hock-chye/.
 
 
-[^5]: Lim Cheng Tju, “Singapore Political Cartooning,” _Southeast Asian Journal of Social Science_ 25, no. 1 (1997): 125–150. (From JSTOR via NLB’s eResources website)&nbsp;
+[^5]: Lim Cheng Tju, “Singapore Political Cartooning,” _Southeast Asian Journal of Social Science_ 25, no. 1 (1997): 125–150. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)&nbsp;
 
 
-[^6]: Foo Kwee Horng, Koh Nguang How and Lim Cheng Tju, “A Brief History of Woodcuts in Singapore,” _BiblioAsia_ 2, no. 3 (October 2006): 30–34.
+[^6]: Foo Kwee Horng, Koh Nguang How and Lim Cheng Tju, “[A Brief History of Woodcuts in Singapore](https://biblioasia.nlb.gov.sg/vol-2/issue3/oct-2006/singapore-history-woodcuts/),” _BiblioAsia_ 2, no. 3 (October 2006): 30–34.
 
 
-[^7]: This is similar to the aim of my earlier comic book, _Guidebook to Nanyang Diplomacy_, a piece of speculative fiction about the Sepoy Mutiny of 1915 in Singapore. See Lim Cheng Tju, _Guidebook to Nanyang Diplomacy_ (Singapore: COSH Studios, 2017). (From National Library, Singapore, call no. RSING 741.595957 LIM)
+[^7]: This is similar to the aim of my earlier comic book, _Guidebook to Nanyang Diplomacy_, a piece of speculative fiction about the Sepoy Mutiny of 1915 in Singapore. See Lim Cheng Tju, [_Guidebook to Nanyang Diplomacy_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203019427) (Singapore: COSH Studios, 2017). (From National Library, Singapore, call no. RSING 741.595957 LIM)
 
 
 [^8]: Lim Cheng Tju, “The History of Comics and Cartoons in Singapore and Malaysia Part 2: The Early Comics/Cartoons,” SG Cartoon Resource Hub, 1 April 2022, https://sgcartoonhub.com/the-history-of-comics-and-cartoons-in-singapore-and-malaysia-part-2/.
 
 
-[^9]: Timothy Pwee, “Cartoons of Terror,” _BiblioAsia_ 11, no. 4 (January–March 2016): 102–105; Liu Kang, _Chop Suey_ (Singapore: Printed at Ngai Seong Press, 1946). (From National Library, Singapore, call no. RCLOS 959.5106 CHO-LK\])&nbsp;
+[^9]: Timothy Pwee, “[Cartoons of Terror](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/chop-suey-liu-kang/),” _BiblioAsia_ 11, no. 4 (January–March 2016): 102–105; Liu Kang, [_Chop Suey_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980043) (Singapore: Printed at Ngai Seong Press, 1946). (From National Library, Singapore, call no. RCLOS 959.5106 CHO-LK\])&nbsp;
 
 
-[^10]:  Dahlia Shamsuddin, “The Forgotten Murals of Paya Lebar Airport,” _BiblioAsia_ 17, no. 2 (July–September 2021): 4–9. &nbsp;
+[^10]:  Dahlia Shamsuddin, “[The Forgotten Murals of Paya Lebar Airport](https://biblioasia.nlb.gov.sg/vol-17/issue-2/jul-sep-2021/murals/),” _BiblioAsia_ 17, no. 2 (July–September 2021): 4–9. &nbsp;
 
 	
 [^11]:  Lim, “Singapore Political Cartooning.”
 
 
-[^12]:  Roger Wong, _The Valiant Pluto-man of Singapore_ (Singapore: Fantasy Comics, 1983). (From PublicationSG)
+[^12]:  Roger Wong, [_The Valiant Pluto-man of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200085679) (Singapore: Fantasy Comics, 1983). (From PublicationSG)
 
 
-[^13]:  Lim, “Comic Books As Windows into a Singapore of the 1980s and 1990s.”
+[^13]:  Lim, “[Comic Books As Windows into a Singapore of the 1980s and 1990s](https://biblioasia.nlb.gov.sg/vol-7/issue-4/mar-2012/singapore-comic-books/).”
 
 
-[^14]:  Lim, “The History of Comics and Cartoons in Singapore and Malaysia Part 2”; Mazelan Anuar, “Kaboom! Early Malay Comic Books Make an Impact,” _BiblioAsia_ 19, no. 4 (January-–March 2024): 40-–45.
+[^14]:  Lim, “The History of Comics and Cartoons in Singapore and Malaysia Part 2”; Mazelan Anuar, “[Kaboom! Early Malay Comic Books Make an Impact](https://biblioasia.nlb.gov.sg/vol-19/issue-4/jan-mar-2024/early-malay-comics/),” _BiblioAsia_ 19, no. 4 (January-–March 2024): 40-–45.
 
 
 [^15]: Lim Cheng Tju, “Stories by Female Comic Artists in Southeast Asia,” Academia, 2015, https://www.academia.edu/15829886/Stories\_by\_Female\_Comic\_Artists\_in\_Southeast\_Asia.
 
 
-[^16]: Lim, _Drawn to Satire: Sketches of Cartoonists_ in Singapore, 140.
+[^16]: Lim, [_Drawn to Satire: Sketches of Cartoonists_ in Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300002735), 140.
