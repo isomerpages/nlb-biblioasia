@@ -75,7 +75,7 @@ Born in Kuala Lumpur, Dai Yin Lang was educated in China and graduated from the 
 
 Like Tchang, Dai drew about the lived experiences of the people in 1930s Singapore. Typical of the cartoons of the day, both men’s cartoons had very few words as the literacy level was low in Singapore then. This is in contrast to the cartoons we see in the newspapers today which depend on captions, dialogue and wordplay. This meant the cartooning skills of Dai and Tchang had to be precise, without the use of words: 一针见血 (“to hit the nail on the head”). This is no easy task – then and even now.&nbsp;
 
-![](/images/Vol%2020%20Issue%203/Cartoonist/cartoonist_liukang.jpg)
+![](/images/Vol%2020%20Issue%203/Cartoonist/cartoonist_ariving.jpg)
 <div style="background-color:white;"> 带着光明来 (Arriving With Light) by Dai Yin Lang as published in Nanyang Siang Pau supplement, <i>Wenman Jie</i> (The World of Literature and Cartoons), 8 November 1936. <i>Image reproduced from Yeo Mang Thong, Migration, Transmission, Localisation: Visual Art in Singapore (1886–1945) (Singapore: National Gallery Singapore, 2019), 177. From National Library, Singapore, call no. RSING 709. 5957 YAO).</i></div>
 
 **_Liu Kang (1911–2004)_**&nbsp;
@@ -98,6 +98,9 @@ Shamsuddin H. Akib may not be part of the golden age of Malay comics in the 1950
 In 1962, while working as a commercial artist at Papineau Advertising, Sham submitted a mural titled “Cultural Dances of Malaysia” for a competition in which five winning designs would be selected for the new passenger terminal building at Paya Lebar Airport. Sham’s mural was one of the chosen designs and it was installed on the ground floor of the airport above a row of phone booths. The mural is no longer intact today.[^10]&nbsp;
 
 Like Koeh, Sham drew cartoons for newspapers in the 1970s, focusing on local events (sports, elections). Instead of caricaturing politicians, Sham’s cartoons took a light-hearted look at policies and everyday living.&nbsp;
+
+![](/images/Vol%2020%20Issue%203/Cartoonist/cartoonist_sham.jpg)
+<div style="background-color:white;">“Sham’s Election Smile” by Shamsuddin H. Akib comprises cartoons reflecting the funny side of the 1979 by-election campaign. <i>Source: The Straits Times, 6 February 1979 © SPH Media Limited. Permission required for reproduction. </i></div>
 
 **_Lim Mu Hue (1936–2008)_**&nbsp;
 
