@@ -170,10 +170,10 @@ Cartoonists are drawn to satire. Long may they run.
 
 #### **NOTES**
 	
-[^1]: Lim Cheng Tju, “Comic Books As Windows into a Singapore of the 1980s and 1990s,” _BiblioAsia_ 7, no. 4 (March 2012): 22–26.
+[^1]: Lim Cheng Tju, “[Comic Books As Windows into a Singapore of the 1980s and 1990s](https://biblioasia.nlb.gov.sg/vol-7/issue-4/mar-2012/singapore-comic-books/),” _BiblioAsia_ 7, no. 4 (March 2012): 22–26.
 
 
-[^2]: Lim Cheng Tju, “Singapore Comics Showcase,” _BiblioAsia_ 9, no. 3 (October–December 2013): 50–52.
+[^2]: Lim Cheng Tju, “[Singapore Comics Showcase](https://biblioasia.nlb.gov.sg/vol-9/issue-3/oct-dec-2013/singapore-comics-showcase/),” _BiblioAsia_ 9, no. 3 (October–December 2013): 50–52.
 
 
 [^3]: Lim Cheng Tju, _Drawn to Satire: Sketches of Cartoonists in Singapore_ (Singapore: Pause Narratives, 2023). (From National Library, Singapore, call no. RSING 741.595957 LIM)
