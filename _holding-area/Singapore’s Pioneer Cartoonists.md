@@ -91,6 +91,10 @@ Born in Harbin, China, Kwan Shan Mei was one of the few female illustrators and 
 
 Like Sham, Kwan’s style is gentler and “prettier” in terms of aesthetics, which was suited for the nation-building era of the late 1960s and 1970s when applied arts like graphic design and illustration were important in helping to develop the economy of Singapore. Her non-confrontational style ensured her a steady stream of jobs from the Educational Publications Bureau (established by the Ministry of Education in 1967 to produce affordable textbooks) in the 1970s and 1980s.&nbsp;
 
+![](/images/Vol%2020%20Issue%203/Cartoonist/cartoonist_bale.jpg)
+<div style="background-color:white;"><i>Bala on the Moon</i> was part of a set of 24 readers published by the Ministry of Education for the Primary Pilot Project in the early 1970s. <i>The illustrations were provided by Kwan Shan Mei. Image reproduced from Bala on the Moon (Singapore: Educational Publications Bureau, 1974). (From PublicationSG). </i></div>
+
+
 **_Shamsuddin H. Akib (1933–2024)_**&nbsp; &nbsp;
 
 Shamsuddin H. Akib may not be part of the golden age of Malay comics in the 1950s, but his contributions in the fields of advertising, illustrations and cartooning are memorable. Like Tchang Ju Chi and Koeh Sia Yong, he straddled the worlds of graphic design, commercials and cartoons.&nbsp;
