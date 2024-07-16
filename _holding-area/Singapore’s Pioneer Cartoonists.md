@@ -182,13 +182,13 @@ Cartoonists are drawn to satire. Long may they run.
 [^4]: Sonny Liew, [_The Art of Charlie Chan Hock Chye_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=204463637) (Singapore: Epigram Books, 2020). (From National Library, Singapore, call no. RSING 741.595957 LIE); “Review: The Art of Charlie Chan Hock Chye,” _Kyoto Review of Southeast Asia_, 18 September 2015, https://kyotoreview.org/review-essays/art-of-charlie-chan-hock-chye/.
 
 
-[^5]: Lim Cheng Tju, “Singapore Political Cartooning,” _Southeast Asian Journal of Social Science_ 25, no. 1 (1997): 125–150. (From JSTOR via NLB’s eResources website)&nbsp;
+[^5]: Lim Cheng Tju, “Singapore Political Cartooning,” _Southeast Asian Journal of Social Science_ 25, no. 1 (1997): 125–150. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)&nbsp;
 
 
-[^6]: Foo Kwee Horng, Koh Nguang How and Lim Cheng Tju, “A Brief History of Woodcuts in Singapore,” _BiblioAsia_ 2, no. 3 (October 2006): 30–34.
+[^6]: Foo Kwee Horng, Koh Nguang How and Lim Cheng Tju, “[A Brief History of Woodcuts in Singapore](https://biblioasia.nlb.gov.sg/vol-2/issue3/oct-2006/singapore-history-woodcuts/),” _BiblioAsia_ 2, no. 3 (October 2006): 30–34.
 
 
-[^7]: This is similar to the aim of my earlier comic book, _Guidebook to Nanyang Diplomacy_, a piece of speculative fiction about the Sepoy Mutiny of 1915 in Singapore. See Lim Cheng Tju, _Guidebook to Nanyang Diplomacy_ (Singapore: COSH Studios, 2017). (From National Library, Singapore, call no. RSING 741.595957 LIM)
+[^7]: This is similar to the aim of my earlier comic book, _Guidebook to Nanyang Diplomacy_, a piece of speculative fiction about the Sepoy Mutiny of 1915 in Singapore. See Lim Cheng Tju, [_Guidebook to Nanyang Diplomacy_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203019427) (Singapore: COSH Studios, 2017). (From National Library, Singapore, call no. RSING 741.595957 LIM)
 
 
 [^8]: Lim Cheng Tju, “The History of Comics and Cartoons in Singapore and Malaysia Part 2: The Early Comics/Cartoons,” SG Cartoon Resource Hub, 1 April 2022, https://sgcartoonhub.com/the-history-of-comics-and-cartoons-in-singapore-and-malaysia-part-2/.
