@@ -5,6 +5,13 @@ description: ""
 third_nav_title: People
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/rajaratnam-biography-lion%E2%80%99s-roar/">S. Rajaratnam: The Lion’s Roar</a>
+
+The second volume of S. Rajaratnam’s authorised biography –&nbsp;_The Lion’s Roar_&nbsp;– was launched in July 2024. In her introduction to the book, extracted here, author Irene Ng explains how the journalist-turned-politician was a critical figure in Singapore’s early years.
+
+<img src="/images/Vol%2020%20Issue%203/Rajaratnam/rajaratnam_topics2.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/people/2024/7/lee-kum-tatt-science-pioneer/">A Scientific Adventure: The Life and Legacy of Dr Lee Kum Tatt</a>
 
 Dr Lee Kum Tatt was instrumental in the development of Singapore’s scientific and industrial landscape.
