@@ -67,10 +67,18 @@ Wire was previously used to secure the rattan together to make the frame, but th
 
 Changes in the quality of rattan have also presented challenges for the dragon-makers. The rattan they receive is already stripped of its bark, which makes it less malleable, and a lot of effort and a longer time is needed to get it to bend. To use it, the rattan must first be soaked in water to make it more flexible. A hairdryer is then used to heat up spots to bend the rattan into the desired shape.
   
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Close_up_face.jpg" style="width: 80%;">
-<div style="background-color: white;">Details of the dragon’s eyes, 2023. <i>Courtesy of Edmund Lau.</i></div>
+Details of the dragon’s eyes, 2023. <i>Courtesy of Edmund Lau.</i></div>
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Mouth_and_nose_details.jpg" style="width: 80%;">
-<div style="background-color: white;">The dragon’s snout, 2023. <i>Courtesy of Edmund Lau.</i></div>
+The dragon’s snout, 2023. <i>Courtesy of Edmund Lau.</i></div>
+<div style="background-color: white;">
+<br>
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Claws_of_the_dragon.jpg" style="width: 80%;">
 <div style="background-color: white;">Claws of the dragon with metal nail tips, 2023. <i>Courtesy of Edmund Lau.</i></div>
 
@@ -154,4 +162,4 @@ In keeping with the temple’s commitment to safeguarding the Fire Dragon, Maste
 
 [^4]:  Lü Shicong 吕世聪, Tou tao zhi bao: Wanshan Gang Fude Ci li shi su yuan [投桃之报 : 万山港福德祠历史溯源](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13041009) \[A boon returned: The history of Mun San Fook Tuck Chee\] (Singapore : 石叻学会, 2008), 44. (From National Library, Singapore, call no. RSING 203.5095957 LSC)
 
-[^5]:  Lü, [投桃之报](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13041009)_,_ 40.
+[^5]:  Lü, [投桃之报](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13041009)_,_ 40.</div></div>
