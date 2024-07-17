@@ -143,14 +143,22 @@ A few lesser-known deities are also worshipped at the temple, which is known as 
 
 Jin Hua Fu Ren also has assistants or attendant deities, known as Shi Er Nai Niang (十二奶娘). These are 12 nannies who bless children, and women for fertility, conception and smooth deliveries.&nbsp;Women praying to conceive children often tie red strings onto the infants held by these nannies.&nbsp;
 
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Jin_Hua_Fu_Ren.jpg" style="width: 60%;">
-<div style="background-color: white;">Jin Hua Fu Ren and her two attendants, 2008. <i>Courtesy of Ang Yik Han.</i></div>
+Jin Hua Fu Ren and her two attendants, 2008. <i>Courtesy of Ang Yik Han.</i></div>
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/hua_gong_hua_po.jpg" style="width: 60%;">
-<div style="background-color: white;">Hua Gong and Hua Po, 2008. <i>Courtesy of Ang Yik Han.</i></div>
+Hua Gong and Hua Po, 2008. <i>Courtesy of Ang Yik Han.</i></div>
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/twelth_maiden.jpg" style="width: 60%;">
-<div style="background-color: white;">One of Jin Hua Fu Ren’s Shi Er Nai Niang, 2008. <i>Courtesy of Ang Yik Han.</i></div>
+One of Jin Hua Fu Ren’s Shi Er Nai Niang, 2008. <i>Courtesy of Ang Yik Han.</i></div>
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Hua_Tuo_Xian_Shi.jpg" style="width: 60%;">
-<div style="background-color: white;">Hua Tuo Xian Shi, 2008. <i>Courtesy of Ang Yik Han.</i></div>
+Hua Tuo Xian Shi, 2008. <i>Courtesy of Ang Yik Han.</i></div>
 
 The temple is also home to Hua Tuo Xian Shi (华陀先师 or Wah To), who was a legendary physician in the _Annals of the Three Kingdoms_. He is the patron deity of physicians and many immigrants prayed to him to resolve medical issues in the absence of access to healthcare.
 
