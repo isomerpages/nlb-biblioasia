@@ -155,8 +155,10 @@ The RISIS golden horse was inspired by renowned Chinese artist Xu Beihong.&nbsp;
 
 Lee’s final animal was a gold-plated origami paper crane, which was inspired by a paper crane folding initiative by the residents of Bukit Gombak (he was chairman of the Bukit Gombak Citizen’s Consultative Committee) and his granddaughter (who had wanted a paper crane that would last). It was made of pewter and then plated with gold. With a $97,000 grant from the Trade Development Board (TDB; now IE Singapore), he created six versions of these (after his retirement in 1990), which then went on sale at TDB’s Design Centre in 1993.[^50]
   
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/risis_orchid_man.png" style="width: 80%;">
-<div style="background-color: white;">Lee with his granddaughters. The idea for the metal origami crane came to him when his granddaughter asked him for a crane that would last. <i>Source: The Straits Times, 28 February 1993 © SPH Media Limited. Permission required for reproduction.</i></div>
+Lee with his granddaughters. The idea for the metal origami crane came to him when his granddaughter asked him for a crane that would last. <i>Source: The Straits Times, 28 February 1993 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 While RISIS&nbsp;continues to sell its signature gold-plated items today,&nbsp;it has extended its product line to include other items like chopsticks (with gold-plated tips) and penholders (with mounted golden flowers).&nbsp;Its gold animals of the Chinese zodiac also remain for sale: a&nbsp;resin dragon with 24K gold-plating that stands at 29 cm and weighs 5.5kg retails for $7,388. Its gold-plated eggs are still available and have grown even larger – according to its website, a 24K gold-plated ostrich egg weighing 5kg goes for $1,988.[^51] The national prominence of RISIS might have waned but RISIS and its products remind us of the aspirations of the once newly industrialising Singapore and how far we have come since then.
 
