@@ -46,8 +46,10 @@ Unfortunately, Lee graduated during the Malayan Emergency (1948–60), the viole
 
 He turned down the job and returned to the University of Malaya to pursue his doctorate as a Shell Research Fellow. There, he worked with Dr Rayson L. Huang on the research project “Synthesis of Synthetic Female Sex Hormones”, which Lee recounted as “an exciting project which few young men could resist”.[^10] He graduated in 1955 as the university’s first PhD in Chemistry.
 
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/Dr%20Lee%20Kum%20Tatt/lee_kum_tatt_rayson_huang.png" style="width: 60%;">
-<div style="background-color: white;">Lee Kum Tatt and Dr Rayson L. Huang working on their research project in the new laboratory at the University of Malaya, 1953.<i> Source: The Straits Times, 14 October 1953 © SPH Media Limited. Permission required for reproduction.</i></div>
+Lee Kum Tatt and Dr Rayson L. Huang working on their research project in the new laboratory at the University of Malaya, 1953.<i> Source: The Straits Times, 14 October 1953 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 #### **Navigating Malayanisation**
 
@@ -65,13 +67,17 @@ Singapore’s need to cultivate scientific talent only intensified in later year
 
 Singapore became a member of the International Atomic Energy Agency (IAEA) in 1967, and the Science Council hosted the IAEA’s first research coordination meeting in November that same year.[^15] As Science Council chairman, Lee opened the conference by announcing that the IAEA had agreed to provide technical assistance to set up a radio-isotope diagnostic laboratory and in the development of radiotherapy facilities, particularly in healthcare.[^16]
 
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/Dr%20Lee%20Kum%20Tatt/lee_kum_tatt_iaea.jpg" style="width: 80%;">
-<div style="background-color: white;">Dr Lee Kum Tatt at the International Atomic Energy Agency research coordination meeting at the Singapore Conference Hall in 1967.<i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+Dr Lee Kum Tatt at the International Atomic Energy Agency research coordination meeting at the Singapore Conference Hall in 1967.<i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 In 1969, the Science Council held the Science Ball, an event that sought to raise money for a proposed Science Endowment Fund. Nearly 500 scientists, industrialists and businessmen attended, with Prime Minister Lee Kuan Yew and his wife Kwa Geok Choo as the guests-of-honour. At the ball, the council awarded its inaugural gold medal to Dr T.G. Ling, an industrial chemist who had contributed to modern poultry and pig farming.[^17] From then, the gold medal was presented annually to someone who had made significant contributions to science in the nation.
 
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/Dr%20Lee%20Kum%20Tatt/LKY.jpg" style="width: 80%;">
-<div style="background-color: white;">Lee Kuan Yew and his wife Kwa Geok Choo arriving at the Science Ball in 1969.<i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+Lee Kuan Yew and his wife Kwa Geok Choo arriving at the Science Ball in 1969.<i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Promoting Standards and Research**
 
