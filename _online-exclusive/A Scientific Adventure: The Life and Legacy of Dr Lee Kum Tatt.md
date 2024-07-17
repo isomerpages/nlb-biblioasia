@@ -97,20 +97,26 @@ Dr Lee Kum Tatt with the Xu Beihong-inspired prancing horses he created, 1985.<i
 
 He also led the charge to ensure that locally manufactured products met appropriate quality standards for international export, allowing Singaporean goods to be competitive abroad.[^22] He served as chairman of the Singapore Standards Council, the body responsible for approving new standards. In addition, as chairman of SISIR, he promoted the adoption of standards through a range of methods from training to formal certification. These methods included running national campaigns – for example, Lee was chairman of the organising committee of SISIR’s prominent “Prosperity Through Quality and Reliability” (PQR) campaign (1972–73), which aimed to promote quality-consciousness and pride among manufacturers and their employees.[^23]
 
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/Dr%20Lee%20Kum%20Tatt/hon_sui_sen.jpg" style="width: 80%;">
-<div style="background-color: white;">Minister Hon Sui Sen giving a speech at the closing ceremony of PQR campaign.<i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+Minister Hon Sui Sen giving a speech at the closing ceremony of PQR campaign.<i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Science for the Masses**
 
 Lee was also committed to making science accessible to the broader public. When he found out that his university classmate, Rex Shelley, had been working on establishing a small Science Centre in a shophouse, Lee convinced him that it needed to be a government-funded project.[^24] In 1969, Lee secured UNESCO funding and personnel from the Science Museum in London to help draw up a proposal, which ultimately led to the official opening of the Singapore Science Centre in 1977.[^25]
 
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/Dr%20Lee%20Kum%20Tatt/spore_science_ctr.png" style="width: 80%;">
-<div style="background-color: white;">The Singapore Science Centre opened in 1977.<i> Source: The Business Times, 10 December 1977 © SPH Media Limited. Permission required for reproduction.</i></div>
+The Singapore Science Centre opened in 1977.<i> Source: The Business Times, 10 December 1977 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 Another brainchild of Lee’s was the Science and Industry Quiz, a televised educational programme where secondary school students competed to answer general questions on Science. Teams from more than 50 schools across the country participated in the preliminary round, with the highest scoring 12 teams selected for the televised portion.[^26] While the contestants were students, the programme’s popularity resulted in entire families learning together and becoming more “science-minded.”[^27] Lee recalled one friend telling him: “\[The quiz\] is one show my grandfather, father and children all sat in front of the TV and watched. And all tried to answer.”[^28]
 
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/Dr%20Lee%20Kum%20Tatt/students_sjc.png" style="width: 80%;">
-<div style="background-color: white;">Students from St Joseph’s Convent answering questions in the first round of the Science and Industry Quiz, 1973.<i> Source: The Straits Times, 7 April 1973 © SPH Media Limited. Permission required for reproduction.</i></div>
+Students from St Joseph’s Convent answering questions in the first round of the Science and Industry Quiz, 1973.<i> Source: The Straits Times, 7 April 1973 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 In 1979, the Science Council awarded Lee its gold medal to recognise his contributions to the “scientific, technological and industrial development of the Republic”.[^29] In 2005, he was awarded the Distinguished Alumni Award by the National University of Singapore’s Faculty of Science. In his foreword to Lee’s autobiography, _A Fabulous Journey_, Lee’s early mentor Professor Rayson Huang (then Vice-Chancellor of the University of Hong Kong) noted that Lee cherished this 2005 award above all others because “\[Lee\] Kum Tatt always regarded himself as a Scientist, and Chemistry held a special place in his heart”.[^30]
 
