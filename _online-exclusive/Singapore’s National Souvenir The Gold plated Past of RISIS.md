@@ -11,8 +11,10 @@ In December 1982, Diana, Princess of Wales attended the glitzy London premiere o
 
 #### **An Identity for Singapore**
 
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/RISIS_page_11.jpg" style="width: 80%;">
-<div style="background-color: white;">An illustration depicting Singapore’s hunt for a souvenir that would be the local equivalent of Malaysian pewterware and New Zealand’s <i>Paua</i> shell. <i>Image reproduced from The RISIS Orchid (Singapore: Times Books International, 1984), 11. (From National Library, Singapore, call no. RSING 739.27095957 JOF).</i></div>
+An illustration depicting Singapore’s hunt for a souvenir that would be the local equivalent of Malaysian pewterware and New Zealand’s <i>Paua</i> shell. <i>Image reproduced from The RISIS Orchid (Singapore: Times Books International, 1984), 11. (From National Library, Singapore, call no. RSING 739.27095957 JOF).</i></div>
 
 To understand the origin of the RISIS orchid, we need to look to the intersection of historical necessity and individual idiosyncrasy. Finding a national souvenir was a problem for Singapore even before its independence. Conscious of the importance of tourism for the economy, the government established the Singapore Tourist Promotion Board (STPB; now Singapore Tourism Board) in 1963.[^2] One of the committees created at its very first meeting was the Souvenirs Committee.[^3] After all, “\[e\]very traveller wants something to bring home as proof and reminder of the place he visited,” informed the _Straits Times_ in 1964. The committee therefore was tasked with “finding a suitable emblem and the types of souvenirs that \[could\] be produced locally which \[would\] not only be a keepsake but a constant reminder of Singapore”.[^4]
 
@@ -24,30 +26,42 @@ Concurrently, the _Straits Times_ grimly reported in 1970 that “\[i\]t is offi
 
 Enter Dr Lee Kum Tatt who had been appointed chairman of the Singapore Institute of Standards and Industrial Research (SISIR) in 1969. By his own account, his interest in souvenirs began in 1955 when his fiancée – later his wife – made a passing remark at the Singapore Botanic Gardens wishing that the orchids they were admiring could last forever.[^10] He began working on this idea in earnest after a trade mission to Eastern Europe in 1967. Noticing that his European hosts were delighted by the orchids he had given to them, Lee decided to experiment with preserving orchids in gold, based on nothing more than a gut feeling that it would be popular.
 
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/RISIS_page_22.jpg" style="width: 60%;">
-<div style="background-color: white;">Illustration of how the wish of Lee Kum Tatt’s wife sparked the idea of the RISIS orchid. <i>Image reproduced from The RISIS Orchid (Singapore: Times Books International, 1984), 22. (From National Library, Singapore, call no. RSING 739.27095957 JOF).</i></div>
+Illustration of how the wish of Lee Kum Tatt’s wife sparked the idea of the RISIS orchid. <i>Image reproduced from The RISIS Orchid (Singapore: Times Books International, 1984), 22. (From National Library, Singapore, call no. RSING 739.27095957 JOF).</i></div>
 
 Lee thought that gold-plated orchids were the perfect choice for a souvenir as Singapore was already known for its orchids, not only routinely presenting them to guests but also exporting large shipments of them. There was a thriving Singapore Orchid Society; and the President of the South East Asia Orchid Society was usually a Singaporean. Singapore was also a leader in orchid hybridisation. For all these reasons, Lee felt that “\[t\]he gold orchid had all the attributes of a true souvenir. It used local material (orchids) and local technology or skill (hybridisation and metal-forming), as well as time-honoured gold”.[^11]
 
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/gold_plating_process1.jpg" style="width: 80%;">
-<div style="background-color: white;">(Left) The process of gold-plating orchids developed at SISIR, 1975. <i>Image reproduced from Singapore Institute of Standards and Industrial Research, <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308">SISIR Annual Report 1975/76</a> (Singapore: The Institute, 1975), 30. (From National Library, Singapore, call no. RSING 354.5957093 SISIRA)</i><br> (Right) A RISIS orchid, 1980. <i>Singapore Tourist Promotion Board Collection, courtesy of National Archives of Singapore.</i></div>
+(Left) The process of gold-plating orchids developed at SISIR, 1975. <i>Image reproduced from Singapore Institute of Standards and Industrial Research, <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308">SISIR Annual Report 1975/76</a> (Singapore: The Institute, 1975), 30. (From National Library, Singapore, call no. RSING 354.5957093 SISIRA)</i><br> (Right) A RISIS orchid, 1980. <i>Singapore Tourist Promotion Board Collection, courtesy of National Archives of Singapore.</i></div>
 
 However, coming up with the idea was one thing, turning it into reality was another. “We were basically trying to create an instant Singapore souvenir in the same way we plant instant trees, or make instant coffee,” Lee explained. “It certainly did not look promising.”[^12] Trained as a chemist, Lee’s early experiments were conducted at home with makeshift plastic equipment. The need for more systematic research led him to use $25,000 from SISIR’s reserve fund for official investigation using its facilities. Fittingly, once perfected, Lee gave one of the first orchids to his wife.[^13] Another early creation was given to Singapore’s then First Lady Yeo Seh Geok (wife of President Benjamin Sheares) in 1975.[^14] The name for this gold-plated flower was simply a reversal of “SISIR” – the institution behind it – and thus RISIS was born.
 
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/RISIS_Orchid_model.jpg" style="width: 60%;">
-<div style="background-color: white;">RISIS gold-plated orchids and publicity material on display. <i>Image reproduced from Singapore Institute of Standards and Industrial Research, <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308">SISIR Annual Report 1975/76</a> (Singapore: The Institute, 1975), 21. (From National Library, Singapore, call no. RSING 354.5957093 SISIRA).</i></div>
+RISIS gold-plated orchids and publicity material on display. <i>Image reproduced from Singapore Institute of Standards and Industrial Research, <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308">SISIR Annual Report 1975/76</a> (Singapore: The Institute, 1975), 21. (From National Library, Singapore, call no. RSING 354.5957093 SISIRA).</i></div>
 
 Days before the official launch of RISIS in April 1976, SISIR created a subsidiary, Setsco Pte Ltd, to handle full-scale commercial production of the gold-plated flowers. Setsco subsequently created RISIS Pte Ltd, a subsidiary dedicated to handling its gold-plated products. The RISIS orchid was available at nearly 70 stores around the island when it was launched.[^15]
 
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/straitstimes_19760812.jpg" style="width: 55%;">
-<div style="background-color: white;">The RISIS orchid was marketed as a perfect gift for any occasion. <i>Image reproduced from “Page 25 Advertisements Column 1,” Straits Times, 12 August 1976, 25. (From NewspaperSG).</i></div>
+The RISIS orchid was marketed as a perfect gift for any occasion. <i>Image reproduced from “Page 25 Advertisements Column 1,” Straits Times, 12 August 1976, 25. (From NewspaperSG).</i></div>
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/risis_orchids.jpg" style="width: 80%;">
-<div style="background-color: white;">RISIS orchids were manufactured into tie and lapel pins and cufflinks for men (left) as well as jewellery for women (right). <i>Images reproduced from “Page 5 Advertisements Column 1,” New Nation, 9 June 1977, 5. (From NewspaperSG) and “Page 8 Advertisements Column 1,” Straits Times, 13 November 1976. 8. (From NewspaperSG).</i></div>
+RISIS orchids were manufactured into tie and lapel pins and cufflinks for men (left) as well as jewellery for women (right). <i>Images reproduced from “Page 5 Advertisements Column 1,” New Nation, 9 June 1977, 5. (From NewspaperSG) and “Page 8 Advertisements Column 1,” Straits Times, 13 November 1976. 8. (From NewspaperSG).</i></div>
 
 The orchid was advertised in newspapers as a suitable gift for everyone and for every festive occasion.[^16] This strategy struck gold: all 3,000 orchids were sold out within days, despite each customer being limited to only one piece.[^17] On 3 May, Setsco published an advertisement apologising for their entire stock being sold out due to “overwhelming public response” – an apology which also conveniently doubled as great publicity.[^18] By the end of its first year, 100,000 RISIS orchids had been sold, accounting for nearly $2 million in sales.[^19]
 
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/straitstimes_19760503.jpg" style="width: 55%;">
-<div style="background-color: white;">Setsco published an apology in the papers in 1976 for having run out of its orchids. <i>Image reproduced from “Page 19 Advertisements Column 3,” Straits Times, 3 May 1976, 19. (From NewspaperSG).</i></div>
+Setsco published an apology in the papers in 1976 for having run out of its orchids. <i>Image reproduced from “Page 19 Advertisements Column 3,” Straits Times, 3 May 1976, 19. (From NewspaperSG).</i></div>
 
 RISIS wasn’t just popular locally – it also quickly won fans abroad. An exhibition at the Frankfurt Fair led to an immediate order worth $50,000.[^20] By early 1978, local sales had grown to 12,000 a month, while export orders totalling $500,000 had been received. To keep up with demand, Setsco’s plant capacity had to be expanded five different times and its number of employees ballooned from 24 to 180.[^21]
 
@@ -61,42 +75,56 @@ Perhaps the most vivid sign of how central RISIS had become to the Singaporean i
 
 Orchids have been an important diplomatic tool for Singapore since the mid-20th century. “Orchid diplomacy” saw prominent foreign visitors – heads of state, heads of government, celebrities – treated to an orchid from the Singapore Botanic Gardens named after them.[^29] With the creation of RISIS, it also became customary to give these VIPs a gold-plated version of their namesake orchid.[^30]
 
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/RISIS_page_21.jpg" style="width: 80%;">
-<div style="background-color: white;">An illustration showcasing the large number of orchids named after celebrities, 1984. <i>Image reproduced from The RISIS Orchid (Singapore: Times Books International, 1984), 21. (From National Library, Singapore, call no. RSING 739.27095957 JOF).</i></div>
+An illustration showcasing the large number of orchids named after celebrities, 1984. <i>Image reproduced from The RISIS Orchid (Singapore: Times Books International, 1984), 21. (From National Library, Singapore, call no. RSING 739.27095957 JOF).</i></div>
 
 During Queen Elizabeth’s inaugural visit to Singapore in February 1972, she chose a yellow <i>Dendrobium</i> at the Singapore Botanic Gardens to be named after her.[^31] In May 1984, 12 years later, she was presented with “a spray of orchids preserved in gold” during the International Garden Festival in Liverpool. The orchid presented was, of course, the <i>Elizabeth Dendrobium</i>.[^32]
 
 In 1990, the royal consort of the Sultan of Brunei, Raja Isteri Pengiran Anak, was not just gifted a gold-plated _Dendrobium Saleha_, she was also told that if she wanted other gold-plated souvenirs for her friends, RISIS could have them made for her.[^33]
 
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/QE2_orchids2.png" style="width: 70%;">
-<div style="background-color: white;">Lord Aberconway, Britain’s Commissioner-General, presenting Queen Elizabeth with her namesake RISIS gold-plated orchids at the International Garden Festival in Liverpool in 1984.&nbsp;<i>Source: The Straits Times, 5 May 1984 © SPH Media Limited. Permission required for reproduction.</i></div>
+Lord Aberconway, Britain’s Commissioner-General, presenting Queen Elizabeth with her namesake RISIS gold-plated orchids at the International Garden Festival in Liverpool in 1984.&nbsp;<i>Source: The Straits Times, 5 May 1984 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 Just as deploying the RISIS orchids enhanced Singapore’s standing, the association of the orchid with celebrities enhanced the stature of RISIS. In sending Princess Diana a RISIS brooch in December 1982, the _Singapore Monitor_ noted that “Princess Diana, whose hairstyle and taste in clothes are widely copied, may just give the RISIS orchid the boost it needs to become internationally fashionable”.[^34] Indeed, RISIS soon launched a top-of-the-line Royal RISIS collection whose prices started at $500. The collection made its debut in a 1986 Fashion Show at the York Hotel, which featured clothes by Bruce Oldfield, who was advertised as “Princess Diana’s designer”.[^35]
 
 Orchids were also used to promote tourism. When Singapore received its two millionth tourist in December 1978, the country went all-out to mark the event. The lucky visitor was Iris Harris, an English Health Officer who had flown in from London. After clearing customs, Harris and her husband were whisked onto a stage decorated with RISIS orchids worth $40,000. They were then driven by limousine to the Presidential suite at the Singapore Hilton for their stay, received a $3,000 shopping voucher, and then treated to a $7,500 Emperor’s Banquet, comprising 48 courses at the Cockpit Hotel. Finally, an orchid was named after Harris and she was gifted a diamond-studded, gold-plated version of that same orchid.[^36]
 
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/Sing_Travel.jpg" style="width: 50%;">
-<div style="background-color: white;">Singapore’s &nbsp;second-millionth tourist Iris Harris being interviewed in front of a stage decorated with $40,000 worth of RISIS flowers. <i>Image reproduced from <a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=8939fd5f-759f-4d34-84c1-ab6cb86799a1">Singapore Travel: Official Publication of the Singapore Tourist Promotion Board, Feb 1979</a> (Singapore: Singapore National Printers, 1979). (From National Library Online).</i></div>
+Singapore’s &nbsp;second-millionth tourist Iris Harris being interviewed in front of a stage decorated with $40,000 worth of RISIS flowers. <i>Image reproduced from <a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=8939fd5f-759f-4d34-84c1-ab6cb86799a1">Singapore Travel: Official Publication of the Singapore Tourist Promotion Board, Feb 1979</a> (Singapore: Singapore National Printers, 1979). (From National Library Online).</i></div>
 
 #### **Beyond Orchids**
 
 The success of the RISIS orchid inspired SISIR to gold-plate other items. The first addition was tropical leaves and ferns, which were chosen for the RISIS Floral Collection in July 1979.[^37] Following the success of the Floral Collection, SISIR designed pendants, bracelets and cufflinks which incorporated gold-plated coins.[^38]
 
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/gold_plate_leaves.jpg" style="width: 80%;">
-<div style="background-color: white;">Gold-plated tropical leaves and ferns from the 1979 RISIS Floral Collection (left) and gold-plated coins (right). <i>Images reproduced from Singapore Institute of Standards and Industrial Research, <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308">Annual Report of SISIR 1978/79</a> (Singapore, The Institute), 22. (From National Library, Singapore, call no. RSING 354.5957093 SISIRA) and Singapore Institute of Standards and Industrial Research, <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308">Annual Report of SISIR 1980/81</a> (Singapore, The Institute), 33. (From National Library, Singapore, call no. RSING 354.5957093 SISIRA).</i></div>
+Gold-plated tropical leaves and ferns from the 1979 RISIS Floral Collection (left) and gold-plated coins (right). <i>Images reproduced from Singapore Institute of Standards and Industrial Research, <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308">Annual Report of SISIR 1978/79</a> (Singapore, The Institute), 22. (From National Library, Singapore, call no. RSING 354.5957093 SISIRA) and Singapore Institute of Standards and Industrial Research, <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308">Annual Report of SISIR 1980/81</a> (Singapore, The Institute), 33. (From National Library, Singapore, call no. RSING 354.5957093 SISIRA).</i></div>
 
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/IMG0085.jpg" style="width: 65%;">
-<div style="background-color: white;">Assortment of RISIS gold eggs.&nbsp;<i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+Assortment of RISIS gold eggs.&nbsp;<i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/straitstimes_19840128.jpg" style="width: 50%;">
-<div style="background-color: white;">Advertisement promoting RISIS’s gold egg in 1984.&nbsp;<i>Image reproduced from “Page 40 Advertisements Column 1,” Straits Times, 28 January 1984, 40. (From NewspaperSG)</i></div>
+Advertisement promoting RISIS’s gold egg in 1984.&nbsp;<i>Image reproduced from “Page 40 Advertisements Column 1,” Straits Times, 28 January 1984, 40. (From NewspaperSG)</i></div>
 
 In 1984, RISIS launched gold-plated eggs for Chinese New Year. Positioning the egg as a symbol of life, advertisements suggested that the egg would “confer an aura of good luck and prestige upon the giver and the receiver”.[^39]
 
 These eggs soon became an addition to the ongoing diplomatic practice of gifting gold-plated orchids – visiting dignitaries were now gifted commemorative eggs, too. For example, in 1983, Tsutako Nakasone, the Japanese Prime Minister’s wife, was given a tour of Setsco’s facility at River Valley Road and presented with a 22-carat gold-plated goose egg at the end of the tour. The next day she visited the Singapore Botanic Gardens, where she was given a golden orchid.[^40] Just as the orchids came from local nurseries, local farms supplied Setsco with goose, quail and chicken eggs.[^41]
 
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/19980001401_IMG0014.jpg" style="width: 80%;">
-<div style="background-color: white;">Tsutako Nakasone (with glasses), wife of Japanese Prime Minister Yasuhiro Nakasone, observes RISIS’ creations at the Setsco facility in 1983. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+Tsutako Nakasone (with glasses), wife of Japanese Prime Minister Yasuhiro Nakasone, observes RISIS’ creations at the Setsco facility in 1983. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Imitation might be the highest form of flattery, but in the commercial world, it is also illegal. Forgeries of RISIS products did not just reduce sales, they also threatened its reputation. In 1985, for example, a curious Japanese tourist hammered open a gold-plated egg he bought, only to find a rotten raw egg inside. Furious at having shelled out more than a hundred dollars for his eggs, he marched to Setsco to complain.
 
@@ -108,21 +136,29 @@ In response to the fake eggs scandal, Setsco sent warning letters to 10 stores k
 
 In 1986, as part of the government’s larger privatisation thrust, Setco sold its subsidiary RISIS Pte Ltd to private companies.[^45] Lee, however, remained Director and Consultant to RISIS until 1990.[^46]
 
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/straitstimes_19890526.jpg" style="width: 45%;">
-<div style="background-color: white;">Dr Lee Kum Tatt with some of his creations, 1989. <i>Source: The Straits Times, 26 May 1989 © SPH Media Limited. Permission required for reproduction.</i></div>
+Dr Lee Kum Tatt with some of his creations, 1989. <i>Source: The Straits Times, 26 May 1989 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 From the mid-80s, RISIS started emphasising Chinese culture in both the items sold and the narratives deployed. These included walnuts[^47] and gold-plated figurines celebrating the year’s Chinese Zodiac animal (of course, without live animal encased within). For the Year of the Snake in 1989, RISIS released a gold-plated snake curled to resemble the Chinese character for patience, its advertisement announcing “Virtue Captured in Gold”.[^48] This trend reached its zenith in 1990, the year of the Golden Horse. Golden horses inspired by the paintings of renowned Chinese artist Xu Beihong were sold by RISIS, this time with the declaration that horses, not dogs, were Man’s best friend.[^49]
 
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/biztimes_19881230.jpg" style="width: 45%;">
-<div style="background-color: white;">Advertisement for the 1989 snake.&nbsp;<i>Image reproduced from “Page 5 Advertisements Column 1,” Business Times, 30 December 1988, 5. (From NewspaperSG).</i></div>
+Advertisement for the 1989 snake.&nbsp;<i>Image reproduced from “Page 5 Advertisements Column 1,” Business Times, 30 December 1988, 5. (From NewspaperSG).</i></div>
 
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/straitstimes_19891209.jpg" style="width: 75%;">
-<div style="background-color: white;">The RISIS golden horse was inspired by renowned Chinese artist Xu Beihong.&nbsp;<i>Image reproduced from “Page 3 Advertisements Column 1,” Straits Times, 9 December 1989, 3. (From NewspaperSG).</i></div>
+The RISIS golden horse was inspired by renowned Chinese artist Xu Beihong.&nbsp;<i>Image reproduced from “Page 3 Advertisements Column 1,” Straits Times, 9 December 1989, 3. (From NewspaperSG).</i></div>
 
 Lee’s final animal was a gold-plated origami paper crane, which was inspired by a paper crane folding initiative by the residents of Bukit Gombak (he was chairman of the Bukit Gombak Citizen’s Consultative Committee) and his granddaughter (who had wanted a paper crane that would last). It was made of pewter and then plated with gold. With a $97,000 grant from the Trade Development Board (TDB; now IE Singapore), he created six versions of these (after his retirement in 1990), which then went on sale at TDB’s Design Centre in 1993.[^50]
   
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/risis_orchid_man.png" style="width: 80%;">
-<div style="background-color: white;">Lee with his granddaughters. The idea for the metal origami crane came to him when his granddaughter asked him for a crane that would last. <i>Source: The Straits Times, 28 February 1993 © SPH Media Limited. Permission required for reproduction.</i></div>
+Lee with his granddaughters. The idea for the metal origami crane came to him when his granddaughter asked him for a crane that would last. <i>Source: The Straits Times, 28 February 1993 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 While RISIS&nbsp;continues to sell its signature gold-plated items today,&nbsp;it has extended its product line to include other items like chopsticks (with gold-plated tips) and penholders (with mounted golden flowers).&nbsp;Its gold animals of the Chinese zodiac also remain for sale: a&nbsp;resin dragon with 24K gold-plating that stands at 29 cm and weighs 5.5kg retails for $7,388. Its gold-plated eggs are still available and have grown even larger – according to its website, a 24K gold-plated ostrich egg weighing 5kg goes for $1,988.[^51] The national prominence of RISIS might have waned but RISIS and its products remind us of the aspirations of the once newly industrialising Singapore and how far we have come since then.
 

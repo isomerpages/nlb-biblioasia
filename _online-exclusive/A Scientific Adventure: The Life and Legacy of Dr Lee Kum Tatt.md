@@ -11,13 +11,17 @@ On 6 September 1959, eight children died and 31 others from across Singapore wer
 
 Hearing that three of the deceased children had had homemade barley drinks before their deaths, the department speculated that barley might be the culprit, prompting the government to issue a statement warning the public to avoid the grain. Dr Lee Kum Tatt, the toxicologist on the case, recalled, “Ridiculous and far-fetched as this suggestion might be, we had to make some kind of statement to calm the public.”[^1]
 
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/Dr%20Lee%20Kum%20Tatt/Lee_at_UOMv1.png" style="width: 55%;">
-<div style="background-color: white;">Dr Lee Kum Tatt at the research laboratory of the University of Malaya, 1953. <i>Image reproduced from A Fabulous Journey (2012, Singapore: The Word Press). (From National Library, Singapore, call no. 540.92 LEE)</i></div>
+Dr Lee Kum Tatt at the research laboratory of the University of Malaya, 1953. <i>Image reproduced from A Fabulous Journey (2012, Singapore: The Word Press). (From National Library, Singapore, call no. 540.92 LEE)</i></div>
 
 It was a race against the clock to identify and isolate the source. Lee and his small team of two laboratory assistants and a chemist, worked tirelessly to prevent further fatalities. Given that all the children had had barley drinks, Lee and his team collected 15 food samples from the victims’ homes, including barley. Mice were fed cheese injected with the samples and the single mouse given the barley extract dropped dead. Further analysis showed the presence of Parathian, an insecticide banned in Singapore.[^2]
 
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/Dr%20Lee%20Kum%20Tatt/at_work_in_lab.png" style="width: 80%;">
-<div style="background-color: white;">Dr Lee Kum Tatt (left) and his team, Theng Chye Yam (middle) and Ng Hon Wing (right), at work in the laboratory in search of the toxin that killed eight children in 1959.&nbsp;<i> Image reproduced from “Barley Deaths: The Lab Boys Get to Work…,” Straits Budget, 16 September 1959, 13. (From NewspaperSG).</i></div>
+Dr Lee Kum Tatt (left) and his team, Theng Chye Yam (middle) and Ng Hon Wing (right), at work in the laboratory in search of the toxin that killed eight children in 1959.&nbsp;<i> Image reproduced from “Barley Deaths: The Lab Boys Get to Work…,” Straits Budget, 16 September 1959, 13. (From NewspaperSG).</i></div>
 
 The incident might have been the first time the public had heard of Lee, but over the years, he would go on to play a leading role in building scientific infrastructure in the country: this includes Singapore government’s Department of Chemistry, the Science Council, Singapore Polytechnic, the Singapore Institute of Standards and Industrial Research (SISIR), and the Singapore Science Centre. These contributions are all the more impressive when set in their historical context – the dangerous, uncertain Malaya of the mid-20th century.
 
@@ -31,8 +35,10 @@ Lee described those years as “very traumatic”.[^4] He stopped school and und
 
 The end of the war saw clashes between Indonesian nationalists and the Dutch who were trying to reassert their colonial dominance. Lee was a volunteer with the International Red Cross as an interpreter for the British Army (sent to disarm the Japanese). When his family was targeted for associating with foreigners, Lee and his family were forced to flee to Penang. There, he was able to complete his schooling and gain admission into Raffles College in 1948 to study chemistry.[^6]
 
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/Dr%20Lee%20Kum%20Tatt/science_students.jpg" style="width: 80%;">
-<div style="background-color: white;">Science students from the 1948 cohort at Raffles College, 1948. <i>Raffles College Collection, courtesy of National Archives of Singapore.</i></div>
+Science students from the 1948 cohort at Raffles College, 1948. <i>Raffles College Collection, courtesy of National Archives of Singapore.</i></div>
 
 Lee attained his Bachelor of Science three years later, in 1951. He graduated with honours under a Shell Scholarship the following year. Raffles College and the King Edward VII College of Medicine had merged to form the University of Malaya in 1949, which meant Lee was among one of the first cohorts to graduate from the new university.[^7]
 
@@ -40,8 +46,10 @@ Unfortunately, Lee graduated during the Malayan Emergency (1948–60), the viole
 
 He turned down the job and returned to the University of Malaya to pursue his doctorate as a Shell Research Fellow. There, he worked with Dr Rayson L. Huang on the research project “Synthesis of Synthetic Female Sex Hormones”, which Lee recounted as “an exciting project which few young men could resist”.[^10] He graduated in 1955 as the university’s first PhD in Chemistry.
 
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/Dr%20Lee%20Kum%20Tatt/lee_kum_tatt_rayson_huang.png" style="width: 60%;">
-<div style="background-color: white;">Lee Kum Tatt and Dr Rayson L. Huang working on their research project in the new laboratory at the University of Malaya, 1953.<i> Source: The Straits Times, 14 October 1953 © SPH Media Limited. Permission required for reproduction.</i></div>
+Lee Kum Tatt and Dr Rayson L. Huang working on their research project in the new laboratory at the University of Malaya, 1953.<i> Source: The Straits Times, 14 October 1953 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 #### **Navigating Malayanisation**
 
@@ -59,13 +67,17 @@ Singapore’s need to cultivate scientific talent only intensified in later year
 
 Singapore became a member of the International Atomic Energy Agency (IAEA) in 1967, and the Science Council hosted the IAEA’s first research coordination meeting in November that same year.[^15] As Science Council chairman, Lee opened the conference by announcing that the IAEA had agreed to provide technical assistance to set up a radio-isotope diagnostic laboratory and in the development of radiotherapy facilities, particularly in healthcare.[^16]
 
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/Dr%20Lee%20Kum%20Tatt/lee_kum_tatt_iaea.jpg" style="width: 80%;">
-<div style="background-color: white;">Dr Lee Kum Tatt at the International Atomic Energy Agency research coordination meeting at the Singapore Conference Hall in 1967.<i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+Dr Lee Kum Tatt at the International Atomic Energy Agency research coordination meeting at the Singapore Conference Hall in 1967.<i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 In 1969, the Science Council held the Science Ball, an event that sought to raise money for a proposed Science Endowment Fund. Nearly 500 scientists, industrialists and businessmen attended, with Prime Minister Lee Kuan Yew and his wife Kwa Geok Choo as the guests-of-honour. At the ball, the council awarded its inaugural gold medal to Dr T.G. Ling, an industrial chemist who had contributed to modern poultry and pig farming.[^17] From then, the gold medal was presented annually to someone who had made significant contributions to science in the nation.
 
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/Dr%20Lee%20Kum%20Tatt/LKY.jpg" style="width: 80%;">
-<div style="background-color: white;">Lee Kuan Yew and his wife Kwa Geok Choo arriving at the Science Ball in 1969.<i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+Lee Kuan Yew and his wife Kwa Geok Choo arriving at the Science Ball in 1969.<i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Promoting Standards and Research**
 
@@ -73,28 +85,38 @@ As head of the Science Council, Lee felt there was an alarming lack of co-ordina
 
 Promoting industrial research was one of his responsibilities at SISIR – he recalled in his oral history interview that unlike the present where R&amp;D brings researchers money, glory and social standing, in the early days of SISIR “\[people\] think you are mad if you do R&amp;D”.[^20] To demonstrate that innovative research was possible, he helped design the famous [RISIS](https://biblioasia.nlb.gov.sg/localicons/2024/6/risis-gold-orchid-tourism-souvenir/) series of gold-plated objects including orchids, eggs, walnuts, ferns, and animals from the Chinese Zodiac.[^21]
 
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/Dr%20Lee%20Kum%20Tatt/RISIS.png" style="width: 55%;">
-<div style="background-color: white;">RISIS’ products were highly popular in the 1970s and 80s.<i>         Image reproduced from “Page 28 Advertisements Column 2,” Straits Times, 18 December 1976, 28 (From NewspaperSG).</i></div>
+RISIS’ products were highly popular in the 1970s and 80s.<i>         Image reproduced from “Page 28 Advertisements Column 2,” Straits Times, 18 December 1976, 28 (From NewspaperSG).</i></div>
 
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/Dr%20Lee%20Kum%20Tatt/dr_lee_kum_tatt.png" style="width: 80%;">
-<div style="background-color: white;">Dr Lee Kum Tatt with the Xu Beihong-inspired prancing horses he created, 1985.<i> Source: The Straits Times, 19 November 1985 © SPH Media Limited. Permission required for reproduction.</i></div>
+Dr Lee Kum Tatt with the Xu Beihong-inspired prancing horses he created, 1985.<i> Source: The Straits Times, 19 November 1985 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 He also led the charge to ensure that locally manufactured products met appropriate quality standards for international export, allowing Singaporean goods to be competitive abroad.[^22] He served as chairman of the Singapore Standards Council, the body responsible for approving new standards. In addition, as chairman of SISIR, he promoted the adoption of standards through a range of methods from training to formal certification. These methods included running national campaigns – for example, Lee was chairman of the organising committee of SISIR’s prominent “Prosperity Through Quality and Reliability” (PQR) campaign (1972–73), which aimed to promote quality-consciousness and pride among manufacturers and their employees.[^23]
 
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/Dr%20Lee%20Kum%20Tatt/hon_sui_sen.jpg" style="width: 80%;">
-<div style="background-color: white;">Minister Hon Sui Sen giving a speech at the closing ceremony of PQR campaign.<i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+Minister Hon Sui Sen giving a speech at the closing ceremony of PQR campaign.<i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Science for the Masses**
 
 Lee was also committed to making science accessible to the broader public. When he found out that his university classmate, Rex Shelley, had been working on establishing a small Science Centre in a shophouse, Lee convinced him that it needed to be a government-funded project.[^24] In 1969, Lee secured UNESCO funding and personnel from the Science Museum in London to help draw up a proposal, which ultimately led to the official opening of the Singapore Science Centre in 1977.[^25]
 
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/Dr%20Lee%20Kum%20Tatt/spore_science_ctr.png" style="width: 80%;">
-<div style="background-color: white;">The Singapore Science Centre opened in 1977.<i> Source: The Business Times, 10 December 1977 © SPH Media Limited. Permission required for reproduction.</i></div>
+The Singapore Science Centre opened in 1977.<i> Source: The Business Times, 10 December 1977 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 Another brainchild of Lee’s was the Science and Industry Quiz, a televised educational programme where secondary school students competed to answer general questions on Science. Teams from more than 50 schools across the country participated in the preliminary round, with the highest scoring 12 teams selected for the televised portion.[^26] While the contestants were students, the programme’s popularity resulted in entire families learning together and becoming more “science-minded.”[^27] Lee recalled one friend telling him: “\[The quiz\] is one show my grandfather, father and children all sat in front of the TV and watched. And all tried to answer.”[^28]
 
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/Dr%20Lee%20Kum%20Tatt/students_sjc.png" style="width: 80%;">
-<div style="background-color: white;">Students from St Joseph’s Convent answering questions in the first round of the Science and Industry Quiz, 1973.<i> Source: The Straits Times, 7 April 1973 © SPH Media Limited. Permission required for reproduction.</i></div>
+Students from St Joseph’s Convent answering questions in the first round of the Science and Industry Quiz, 1973.<i> Source: The Straits Times, 7 April 1973 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 In 1979, the Science Council awarded Lee its gold medal to recognise his contributions to the “scientific, technological and industrial development of the Republic”.[^29] In 2005, he was awarded the Distinguished Alumni Award by the National University of Singapore’s Faculty of Science. In his foreword to Lee’s autobiography, _A Fabulous Journey_, Lee’s early mentor Professor Rayson Huang (then Vice-Chancellor of the University of Hong Kong) noted that Lee cherished this 2005 award above all others because “\[Lee\] Kum Tatt always regarded himself as a Scientist, and Chemistry held a special place in his heart”.[^30]
 
