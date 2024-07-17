@@ -85,11 +85,15 @@ As head of the Science Council, Lee felt there was an alarming lack of co-ordina
 
 Promoting industrial research was one of his responsibilities at SISIR – he recalled in his oral history interview that unlike the present where R&amp;D brings researchers money, glory and social standing, in the early days of SISIR “\[people\] think you are mad if you do R&amp;D”.[^20] To demonstrate that innovative research was possible, he helped design the famous [RISIS](https://biblioasia.nlb.gov.sg/localicons/2024/6/risis-gold-orchid-tourism-souvenir/) series of gold-plated objects including orchids, eggs, walnuts, ferns, and animals from the Chinese Zodiac.[^21]
 
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/Dr%20Lee%20Kum%20Tatt/RISIS.png" style="width: 55%;">
-<div style="background-color: white;">RISIS’ products were highly popular in the 1970s and 80s.<i>         Image reproduced from “Page 28 Advertisements Column 2,” Straits Times, 18 December 1976, 28 (From NewspaperSG).</i></div>
+RISIS’ products were highly popular in the 1970s and 80s.<i>         Image reproduced from “Page 28 Advertisements Column 2,” Straits Times, 18 December 1976, 28 (From NewspaperSG).</i></div>
 
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/Dr%20Lee%20Kum%20Tatt/dr_lee_kum_tatt.png" style="width: 80%;">
-<div style="background-color: white;">Dr Lee Kum Tatt with the Xu Beihong-inspired prancing horses he created, 1985.<i> Source: The Straits Times, 19 November 1985 © SPH Media Limited. Permission required for reproduction.</i></div>
+Dr Lee Kum Tatt with the Xu Beihong-inspired prancing horses he created, 1985.<i> Source: The Straits Times, 19 November 1985 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 He also led the charge to ensure that locally manufactured products met appropriate quality standards for international export, allowing Singaporean goods to be competitive abroad.[^22] He served as chairman of the Singapore Standards Council, the body responsible for approving new standards. In addition, as chairman of SISIR, he promoted the adoption of standards through a range of methods from training to formal certification. These methods included running national campaigns – for example, Lee was chairman of the organising committee of SISIR’s prominent “Prosperity Through Quality and Reliability” (PQR) campaign (1972–73), which aimed to promote quality-consciousness and pride among manufacturers and their employees.[^23]
 
