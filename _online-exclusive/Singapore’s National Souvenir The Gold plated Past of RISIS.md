@@ -58,8 +58,10 @@ RISIS orchids were manufactured into tie and lapel pins and cufflinks for men (l
 
 The orchid was advertised in newspapers as a suitable gift for everyone and for every festive occasion.[^16] This strategy struck gold: all 3,000 orchids were sold out within days, despite each customer being limited to only one piece.[^17] On 3 May, Setsco published an advertisement apologising for their entire stock being sold out due to “overwhelming public response” – an apology which also conveniently doubled as great publicity.[^18] By the end of its first year, 100,000 RISIS orchids had been sold, accounting for nearly $2 million in sales.[^19]
 
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/straitstimes_19760503.jpg" style="width: 55%;">
-<div style="background-color: white;">Setsco published an apology in the papers in 1976 for having run out of its orchids. <i>Image reproduced from “Page 19 Advertisements Column 3,” Straits Times, 3 May 1976, 19. (From NewspaperSG).</i></div>
+Setsco published an apology in the papers in 1976 for having run out of its orchids. <i>Image reproduced from “Page 19 Advertisements Column 3,” Straits Times, 3 May 1976, 19. (From NewspaperSG).</i></div>
 
 RISIS wasn’t just popular locally – it also quickly won fans abroad. An exhibition at the Frankfurt Fair led to an immediate order worth $50,000.[^20] By early 1978, local sales had grown to 12,000 a month, while export orders totalling $500,000 had been received. To keep up with demand, Setsco’s plant capacity had to be expanded five different times and its number of employees ballooned from 24 to 180.[^21]
 
