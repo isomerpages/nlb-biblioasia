@@ -84,14 +84,22 @@ Claws of the dragon with metal nail tips, 2023. <i>Courtesy of Edmund Lau.</i></
 
 Once the entire dragon has been constructed, all that is left is the performance. Before the procession begins, more than 4,000 lit joss sticks are inserted into the body of the dragon, from head to tail. These joss sticks, which are thicker than the usual ones used for prayers at the temple, must be properly embedded in the dragon to ensure no one gets hurt when the Fire Dragon comes alive during the dance ritual. Inserting the joss stick into the tightly packed straw requires some force.
 
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/A_devotee_squints_.png" style="width: 80%;">
-<div style="background-color: white;">A devotee carefully inserting a lit joss stick into the dragon, 2023. <i>Courtesy of Yeo GT.</i></div>
+A devotee carefully inserting a lit joss stick into the dragon, 2023. <i>Courtesy of Yeo GT.</i></div>
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Inserting_lighted_incense_into_the_head.jpg" style="width: 80%;">
-<div style="background-color: white;">Devotees inserting lit joss sticks into the dragon before the procession, 2023. <i>Courtesy of Yeo GT.</i></div>
+Devotees inserting lit joss sticks into the dragon before the procession, 2023. <i>Courtesy of Yeo GT.</i></div>
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Segment_of_body_festooned_with_lighted_incense.jpg" style="width: 80%;">
-<div style="background-color: white;">A section of the body with lit incense, 2023. <i>Courtesy of Yeo GT.</i></div>
+A section of the body with lit incense, 2023. <i>Courtesy of Yeo GT.</i></div>
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Incense_studded_pearl.jpg" style="width: 80%;">
-<div style="background-color: white;">Joss sticks adorning the pearl of wisdom, 2023.  <i>Courtesy of Yeo GT.</i></div>
+Joss sticks adorning the pearl of wisdom, 2023.  <i>Courtesy of Yeo GT.</i></div>
 
 The Fire Dragon, at more than 60 m long and festooned with thousands of burning joss sticks, is a striking sight as it manoeuvres through the smoke. The parade of the dragon begins in the temple before going through the nearby streets. The procession is believed to help dissipate anger caused by the disturbance of the land around the temple felt by the temple’s deities.
 
