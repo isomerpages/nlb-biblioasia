@@ -151,6 +151,8 @@ Type specimen books contain collections of typefaces and design layout examples,
 
 The MPH type specimen book below showcases Linotype, monotype and wood type faces, and includes a rare Jawi script specimen. It is likely the only surviving copy of the 1950 edition and was salvaged from a local heritage shop in Fook Hai Building.
 
+<div style="background-color:white;">
+<br>
 <img src="/images/Videos:%20BiblioAsia%20Reels/Tools%20of%20the%20Tradev2/A2___Photo_15a.jpg" style="width: 80%;">
 <div style="background-color:white;">MPH type specimen book, 1950.</div>
 
@@ -212,4 +214,4 @@ https://letterpresscommons.com
 Melbourne Museum of Printing<br>
 https://www.mmop.org.au/showroom/show03.htm
 
-<i>Straits Times</i>, “[The New Malay Linotype](https://eresources.nlb.gov.shttps:/eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19240710-1.2.58g/newspapers/digitised/article/straitstimes19240710-1.2.58).” 10 July 1924, 9. (From NewspaperSG)
+<i>Straits Times</i>, “[The New Malay Linotype](https://eresources.nlb.gov.shttps:/eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19240710-1.2.58g/newspapers/digitised/article/straitstimes19240710-1.2.58).” 10 July 1924, 9. (From NewspaperSG)</div>
