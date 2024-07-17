@@ -10,7 +10,7 @@ description: Cartoons today may be seen as kids’ stuff but many of the early
 By CT Lim 
 
 ![](/images/Vol%2020%20Issue%203/Cartoonist/cartoonist_facing.jpg)
-<div style="background-color:white;"> Shamsuddin H. Akib, Liu Kang, Koeh Sia Yong, Tchang Ju Chi, Morgan Chua, Kwan Shan Mei, Dai Yin Lang and Lim Mu Hue, drawn by Koh Hong Teng. <i> Images reproduced from Lim Cheng Tju, Drawn to Satire: Sketches of Cartoonists in Singapore (Singapore: Pause Narratives, 2023). (From National Library, Singapore, call no. RSING 741.595957 LIM).</i></div>
+<div style="background-color:white;"> (Clockwise from top left) Shamsuddin H. Akib, Liu Kang, Koeh Sia Yong, Tchang Ju Chi, Morgan Chua, Kwan Shan Mei, Dai Yin Lang and Lim Mu Hue, drawn by Koh Hong Teng. <i> Images reproduced from Lim Cheng Tju, Drawn to Satire: Sketches of Cartoonists in Singapore (Singapore: Pause Narratives, 2023). (From National Library, Singapore, call no. RSING 741.595957 LIM).</i></div>
 
 Most children grow up reading cartoons and comics. While many people move on to other interests, you could say that I never “grew up”. The sense of wonder and excitement I felt whenever I flipped open a comic book bought with pocket money saved from skipping recess in school has never left me.&nbsp;
 
@@ -18,7 +18,7 @@ In the late 1980s, I started writing for _BigO_ fanzine about music, comics and 
 
 About a decade ago, I wrote two articles on comics and cartoons in Singapore for this publication. In 2012, I discussed the comics drawn by Eric Khoo (_Unfortunate Lives_) and Johnny Lau (_Mr Kiasu_), and how they reflected Singaporean society in the 1980s and 1990s.[^1] The second article, published a year later, was based on the exhibitions I helped curate in 2013 at the various public libraries and the National Library: the 24-Hour Comics Day Showcase and the Chinese cartoon exhibition held in conjunction with the 90th anniversary of the _Lianhe Zaobao_ newspaper.[^2]
 
-This current article, however, provides a snapshot of eight pioneer cartoonists in Singapore whom I showcased in a recent book. Published in 2023, _Drawn to Satire: Sketches of Cartoonists in Singapore_ features illustrations by Koh Hong Teng.[^3] The eight cartoonists highlighted in the book are Morgan Chua, Dai Yin Lang, Koeh Sia Yong, Kwan Shan Mei, Lim Mu Hue,&nbsp; Liu Kang, Shamsuddin H. Akib and Tchang Ju Chi.
+This current article, however, provides a snapshot of eight pioneer cartoonists in Singapore whom I showcased in a recent book. Published in 2023, [_Drawn to Satire: Sketches of Cartoonists in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300002735) features illustrations by Koh Hong Teng.[^3] The eight cartoonists highlighted in the book are Morgan Chua, Dai Yin Lang, Koeh Sia Yong, Kwan Shan Mei, Lim Mu Hue,&nbsp; Liu Kang, Shamsuddin H. Akib and Tchang Ju Chi.
 
 
 ![](/images/Vol%2020%20Issue%203/Cartoonist/cartoonist_satire.jpg)
@@ -45,7 +45,7 @@ For the stories of both cartoonists (and others in the book), we adopted an appr
 
 #### **Cartooning in Singapore**
 
-Singapore’s early newspapers were the first to include cartoons. The _Straits Times_, for example, featured entertainment news, local gossip and news from the metropolitan centre, as well as cartoons reprinted from London periodicals. In addition to newspapers, there were also interesting experiments like _Straits Produce_, a satirical magazine that first published in 1868. Modelled after Britain’s leading humour magazine _Punch, Straits Produce_ carried cartoons, caricatures, short stories, poems and humorous essays.[^8]
+Singapore’s early newspapers were the first to include cartoons. The _Straits Times_, for example, featured entertainment news, local gossip and news from the metropolitan centre, as well as cartoons reprinted from London periodicals. In addition to newspapers, there were also interesting experiments like _Straits Produce_, a satirical magazine that was first published in 1868. Modelled after Britain’s leading humour magazine _Punch, Straits Produce_ carried cartoons, caricatures, short stories, poems and humorous essays.[^8]
 
 Vernacular newspapers began rolling off the presses in the second half of the 19th century in Singapore, but the first local Chinese and Malay cartoons only appeared in the early 20th century. (We could not find any cartoons in Tamil newspapers during this period.)&nbsp;
 
@@ -59,7 +59,7 @@ In this day and age, we have to be careful with the words we use. Terms like “
 
 We are not saying that the eight people featured here are the very first cartoonists in Singapore or that they pioneered some kind of new cartooning technique. But they were among the early few to venture into this field or vocation, and they led interesting lives. Like all lists, it is subjective and there are others we may have inadvertently left out (or some would say neglected). We welcome all feedback and we are open to being corrected.&nbsp;
 
-**_Tchang Ju Chi (1904–42)_**&nbsp;
+**Tchang Ju Chi (1904–42)**
 
 Tchang Ju Chi was a pioneer artist in prewar Singapore. He was born in Chao’an, Guangdong province, and settled in Singapore in 1927 where he taught art in Yeung Cheng and Tuan Mong schools. As an editor of _Xing Huang_, the weekly pictorial supplement of _Sin Chew Jit Poh_, he drew many cartoons for the newspaper. He also used cartoons in his advertising work.&nbsp;
 
@@ -69,23 +69,23 @@ Tchang drew many cartoons about local life in early 1930s Singapore. This was si
 <div style="background-color:white;">金钱崖坠下的市民 (Ordinary Folk Suffering Under the Weight of Monetary Woes) by Tchang Ju Chi as published in <i>Yehui</i>, 20 December 1930. <i>Image reproduced from Yeo Mang Thong, Migration, Transmission, Localisation: Visual Art in Singapore (1886–1945) (Singapore: National Gallery Singapore, 2019), 216. (From National Library, Singapore, call no. RSING 709. 5957 YAO).</i></div>
 
 
-**_Dai Yin Lang (1907–85)_**&nbsp;
+**Dai Yin Lang (1907–85)**&nbsp;
 
 Born in Kuala Lumpur, Dai Yin Lang was educated in China and graduated from the Faculty of Western Art at the Shanghai Academy of Art. An activist and a communist, Dai was influential in the development of cartooning in Singapore, drawing not only cartoons but also writing many articles before World War II about the form and function of cartoons. He was deported to China by the British in 1939 for his anti-colonial views. Like many others, he suffered at the hands of the Red Guards during the Cultural Revolution.
 
 Like Tchang, Dai drew about the lived experiences of the people in 1930s Singapore. Typical of the cartoons of the day, both men’s cartoons had very few words as the literacy level was low in Singapore then. This is in contrast to the cartoons we see in the newspapers today which depend on captions, dialogue and wordplay. This meant the cartooning skills of Dai and Tchang had to be precise, without the use of words: 一针见血 (“to hit the nail on the head”). This is no easy task – then and even now.&nbsp;
 
 ![](/images/Vol%2020%20Issue%203/Cartoonist/cartoonist_ariving.jpg)
-<div style="background-color:white;"> 带着光明来 (Arriving With Light) by Dai Yin Lang as published in Nanyang Siang Pau supplement, <i>Wenman Jie</i> (The World of Literature and Cartoons), 8 November 1936. <i>Image reproduced from Yeo Mang Thong, Migration, Transmission, Localisation: Visual Art in Singapore (1886–1945) (Singapore: National Gallery Singapore, 2019), 177. From National Library, Singapore, call no. RSING 709. 5957 YAO).</i></div>
+<div style="background-color:white;"> 带着光明来 (Arriving With Light) by Dai Yin Lang as published in <i>Nanyang Siang Pau</i> supplement, <i>Wenman Jie</i> (The World of Literature and Cartoons), 8 November 1936. <i>Image reproduced from Yeo Mang Thong, Migration, Transmission, Localisation: Visual Art in Singapore (1886–1945) (Singapore: National Gallery Singapore, 2019), 177. From National Library, Singapore, call no. RSING 709. 5957 YAO).</i></div>
 
-**_Liu Kang (1911–2004)_**&nbsp;
+**Liu Kang (1911–2004)**&nbsp;
 
 Liu Kang was one of the pioneers of art in Singapore. While well known as a painter, he also produced _Chop Suey_ (1946), a series of comic books illustrating the atrocities committed by the Japanese against the people of Singapore during the Occupation years.[^9] Although Liu never drew cartoons after that, _Chop Suey_ remains an important work in the history of cartoons in Singapore.
 
 ![](/images/Vol%2020%20Issue%203/Cartoonist/cartoonist_liukang.jpg)
 <div style="background-color:white;"> Liu Kang captured the brutalities committed by the Japanese against the people of Singapore during the Japanese Occupation. One of the torture methods was to tie the victim to a chair and then poke sharp pencils into the victim’s ears, one pencil in each ear. <i>Image reproduced from Liu Kang, Chop Suey, vol. 1 (Singapore: Printed at Ngai Seong Press, 1946). (From National Library, Singapore, call no. RCLOS 959.5106 CHO-LK]). </i></div>
 
-**_Kwan Shan Mei (1922–2012)_**&nbsp;
+**Kwan Shan Mei (1922–2012)**&nbsp;
 
 Born in Harbin, China, Kwan Shan Mei was one of the few female illustrators and cartoonists active in Singapore from the 1960s to 1980s. Her real name was Wong Fang Yan but she used Kwan Shan Mei as her pen name. She worked in Hong Kong in the 1950s before relocating to Singapore in the 1960s, drawing many of the textbooks of our childhood, such as the 24 readers published by the Ministry of Education as part of the Primary Pilot Project. Kwan taught at the Nanyang Academy of Fine Arts (NAFA) in Singapore in the 1990s before moving to Vancouver, Canada, in 1999.&nbsp;
 
@@ -95,7 +95,7 @@ Like Sham, Kwan’s style is gentler and “prettier” in terms of aesthetics, 
 <div style="background-color:white;"><i>Bala on the Moon</i> was part of a set of 24 readers published by the Ministry of Education for the Primary Pilot Project in the early 1970s. <i>The illustrations were provided by Kwan Shan Mei. Image reproduced from Bala on the Moon (Singapore: Educational Publications Bureau, 1974). (From PublicationSG). </i></div>
 
 
-**_Shamsuddin H. Akib (1933–2024)_**&nbsp; &nbsp;
+**Shamsuddin H. Akib (1933–2024)**&nbsp; &nbsp;
 
 Shamsuddin H. Akib may not be part of the golden age of Malay comics in the 1950s, but his contributions in the fields of advertising, illustrations and cartooning are memorable. Like Tchang Ju Chi and Koeh Sia Yong, he straddled the worlds of graphic design, commercials and cartoons.&nbsp;
 
@@ -106,7 +106,7 @@ Like Koeh, Sham drew cartoons for newspapers in the 1970s, focusing on local eve
 ![](/images/Vol%2020%20Issue%203/Cartoonist/cartoonist_sham.jpg)
 <div style="background-color:white;">“Sham’s Election Smile” by Shamsuddin H. Akib comprises cartoons reflecting the funny side of the 1979 by-election campaign. <i>Source: The Straits Times, 6 February 1979 © SPH Media Limited. Permission required for reproduction. </i></div>
 
-**_Lim Mu Hue (1936–2008)_**&nbsp;
+**Lim Mu Hue (1936–2008)**&nbsp;
 
 Lim Mu Hue has been described as the eccentric artist of the Singapore art scene in the 1970s. He once published a blank book titled 无字天书(“Wordless Book”). But beneath the gruff exterior of a stubborn old man who loved his drinks and cigarettes lay a critical mind and generous spirit.&nbsp;
 
@@ -117,7 +117,7 @@ Lim’s innovative approaches extended to the cartoons he drew in the 1970s: his
 ![](/images/Vol%2020%20Issue%203/Cartoonist/cartoonist_teochew.jpg)
 <div style="background-color:white;"> 清音班 (Teochew Opera Singing), 1964, woodcut print, by Lim Mu Hue. <i>Image reproduced from Lim Mu Hue: An Inventive Life (Singapore: Nanyang Academy of Fine Arts, 2014), 77. (From National Library, Singapore, call no. RSING 709.2 LIM). </i></div>
 
-**_Koeh Sia Yong (b. 1938)_**&nbsp;
+**Koeh Sia Yong (b. 1938)**&nbsp;
 
 Koeh Sia Yong can be considered a second-generation artist in Singapore, but such labels are not useful as an individual is much more than the sum of the categories that museums, galleries, curators and critics choose to use on artists. Koeh is also a cartoonist, a woodcut artist and a believer of socialism in his younger days (and maybe now). He continues to draw cartoons today using his iPad.&nbsp;
 
@@ -126,7 +126,7 @@ Unlike his social realist works (woodcuts, paintings) in the 1950s and 1960s whe
 ![](/images/Vol%2020%20Issue%203/Cartoonist/cartoonist_worker.jpg)
 <div style="background-color:white;"> 探望慰间罢工的工友 (Visiting the Injured Worker), 1958, woodcut print, by Koeh Sia Yong. Private collection of Jason Koh. <i>Image reproduced from The Old Dream Maker: Koeh Sia Yong (Singapore: Straits Gallery, 2022), 45. ((From National Library, Singapore, call no. RSING 759.95957 KOE). </i></div>
 
-**_Morgan Chua (1949–2018)_**&nbsp;
+**Morgan Chua (1949–2018)**&nbsp;
 
 Morgan Chua was a Singaporean political cartoonist par excellence. A successor to the sharp penmanship of an earlier cartooning pioneer, Tan Huay Peng, Chua made his name at the _Singapore Herald_ in the early 1970s before moving to Hong Kong to eventually take up the role of chief artist at the _Far Eastern Economic Review_. He returned to Singapore in the late 1990s and spent his last days here.
 
