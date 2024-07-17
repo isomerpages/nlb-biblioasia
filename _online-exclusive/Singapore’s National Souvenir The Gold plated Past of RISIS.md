@@ -11,8 +11,10 @@ In December 1982, Diana, Princess of Wales attended the glitzy London premiere o
 
 #### **An Identity for Singapore**
 
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/RISIS_page_11.jpg" style="width: 80%;">
-<div style="background-color: white;">An illustration depicting Singapore’s hunt for a souvenir that would be the local equivalent of Malaysian pewterware and New Zealand’s <i>Paua</i> shell. <i>Image reproduced from The RISIS Orchid (Singapore: Times Books International, 1984), 11. (From National Library, Singapore, call no. RSING 739.27095957 JOF).</i></div>
+An illustration depicting Singapore’s hunt for a souvenir that would be the local equivalent of Malaysian pewterware and New Zealand’s <i>Paua</i> shell. <i>Image reproduced from The RISIS Orchid (Singapore: Times Books International, 1984), 11. (From National Library, Singapore, call no. RSING 739.27095957 JOF).</i></div>
 
 To understand the origin of the RISIS orchid, we need to look to the intersection of historical necessity and individual idiosyncrasy. Finding a national souvenir was a problem for Singapore even before its independence. Conscious of the importance of tourism for the economy, the government established the Singapore Tourist Promotion Board (STPB; now Singapore Tourism Board) in 1963.[^2] One of the committees created at its very first meeting was the Souvenirs Committee.[^3] After all, “\[e\]very traveller wants something to bring home as proof and reminder of the place he visited,” informed the _Straits Times_ in 1964. The committee therefore was tasked with “finding a suitable emblem and the types of souvenirs that \[could\] be produced locally which \[would\] not only be a keepsake but a constant reminder of Singapore”.[^4]
 
@@ -24,25 +26,35 @@ Concurrently, the _Straits Times_ grimly reported in 1970 that “\[i\]t is offi
 
 Enter Dr Lee Kum Tatt who had been appointed chairman of the Singapore Institute of Standards and Industrial Research (SISIR) in 1969. By his own account, his interest in souvenirs began in 1955 when his fiancée – later his wife – made a passing remark at the Singapore Botanic Gardens wishing that the orchids they were admiring could last forever.[^10] He began working on this idea in earnest after a trade mission to Eastern Europe in 1967. Noticing that his European hosts were delighted by the orchids he had given to them, Lee decided to experiment with preserving orchids in gold, based on nothing more than a gut feeling that it would be popular.
 
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/RISIS_page_22.jpg" style="width: 60%;">
-<div style="background-color: white;">Illustration of how the wish of Lee Kum Tatt’s wife sparked the idea of the RISIS orchid. <i>Image reproduced from The RISIS Orchid (Singapore: Times Books International, 1984), 22. (From National Library, Singapore, call no. RSING 739.27095957 JOF).</i></div>
+Illustration of how the wish of Lee Kum Tatt’s wife sparked the idea of the RISIS orchid. <i>Image reproduced from The RISIS Orchid (Singapore: Times Books International, 1984), 22. (From National Library, Singapore, call no. RSING 739.27095957 JOF).</i></div>
 
 Lee thought that gold-plated orchids were the perfect choice for a souvenir as Singapore was already known for its orchids, not only routinely presenting them to guests but also exporting large shipments of them. There was a thriving Singapore Orchid Society; and the President of the South East Asia Orchid Society was usually a Singaporean. Singapore was also a leader in orchid hybridisation. For all these reasons, Lee felt that “\[t\]he gold orchid had all the attributes of a true souvenir. It used local material (orchids) and local technology or skill (hybridisation and metal-forming), as well as time-honoured gold”.[^11]
 
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/gold_plating_process1.jpg" style="width: 80%;">
-<div style="background-color: white;">(Left) The process of gold-plating orchids developed at SISIR, 1975. <i>Image reproduced from Singapore Institute of Standards and Industrial Research, <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308">SISIR Annual Report 1975/76</a> (Singapore: The Institute, 1975), 30. (From National Library, Singapore, call no. RSING 354.5957093 SISIRA)</i><br> (Right) A RISIS orchid, 1980. <i>Singapore Tourist Promotion Board Collection, courtesy of National Archives of Singapore.</i></div>
+(Left) The process of gold-plating orchids developed at SISIR, 1975. <i>Image reproduced from Singapore Institute of Standards and Industrial Research, <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308">SISIR Annual Report 1975/76</a> (Singapore: The Institute, 1975), 30. (From National Library, Singapore, call no. RSING 354.5957093 SISIRA)</i><br> (Right) A RISIS orchid, 1980. <i>Singapore Tourist Promotion Board Collection, courtesy of National Archives of Singapore.</i></div>
 
 However, coming up with the idea was one thing, turning it into reality was another. “We were basically trying to create an instant Singapore souvenir in the same way we plant instant trees, or make instant coffee,” Lee explained. “It certainly did not look promising.”[^12] Trained as a chemist, Lee’s early experiments were conducted at home with makeshift plastic equipment. The need for more systematic research led him to use $25,000 from SISIR’s reserve fund for official investigation using its facilities. Fittingly, once perfected, Lee gave one of the first orchids to his wife.[^13] Another early creation was given to Singapore’s then First Lady Yeo Seh Geok (wife of President Benjamin Sheares) in 1975.[^14] The name for this gold-plated flower was simply a reversal of “SISIR” – the institution behind it – and thus RISIS was born.
 
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/RISIS_Orchid_model.jpg" style="width: 60%;">
-<div style="background-color: white;">RISIS gold-plated orchids and publicity material on display. <i>Image reproduced from Singapore Institute of Standards and Industrial Research, <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308">SISIR Annual Report 1975/76</a> (Singapore: The Institute, 1975), 21. (From National Library, Singapore, call no. RSING 354.5957093 SISIRA).</i></div>
+RISIS gold-plated orchids and publicity material on display. <i>Image reproduced from Singapore Institute of Standards and Industrial Research, <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308">SISIR Annual Report 1975/76</a> (Singapore: The Institute, 1975), 21. (From National Library, Singapore, call no. RSING 354.5957093 SISIRA).</i></div>
 
 Days before the official launch of RISIS in April 1976, SISIR created a subsidiary, Setsco Pte Ltd, to handle full-scale commercial production of the gold-plated flowers. Setsco subsequently created RISIS Pte Ltd, a subsidiary dedicated to handling its gold-plated products. The RISIS orchid was available at nearly 70 stores around the island when it was launched.[^15]
 
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/straitstimes_19760812.jpg" style="width: 55%;">
-<div style="background-color: white;">The RISIS orchid was marketed as a perfect gift for any occasion. <i>Image reproduced from “Page 25 Advertisements Column 1,” Straits Times, 12 August 1976, 25. (From NewspaperSG).</i></div>
+The RISIS orchid was marketed as a perfect gift for any occasion. <i>Image reproduced from “Page 25 Advertisements Column 1,” Straits Times, 12 August 1976, 25. (From NewspaperSG).</i></div>
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/RISIS%20Singapore/risis_orchids.jpg" style="width: 80%;">
-<div style="background-color: white;">RISIS orchids were manufactured into tie and lapel pins and cufflinks for men (left) as well as jewellery for women (right). <i>Images reproduced from “Page 5 Advertisements Column 1,” New Nation, 9 June 1977, 5. (From NewspaperSG) and “Page 8 Advertisements Column 1,” Straits Times, 13 November 1976. 8. (From NewspaperSG).</i></div>
+RISIS orchids were manufactured into tie and lapel pins and cufflinks for men (left) as well as jewellery for women (right). <i>Images reproduced from “Page 5 Advertisements Column 1,” New Nation, 9 June 1977, 5. (From NewspaperSG) and “Page 8 Advertisements Column 1,” Straits Times, 13 November 1976. 8. (From NewspaperSG).</i></div>
 
 The orchid was advertised in newspapers as a suitable gift for everyone and for every festive occasion.[^16] This strategy struck gold: all 3,000 orchids were sold out within days, despite each customer being limited to only one piece.[^17] On 3 May, Setsco published an advertisement apologising for their entire stock being sold out due to “overwhelming public response” – an apology which also conveniently doubled as great publicity.[^18] By the end of its first year, 100,000 RISIS orchids had been sold, accounting for nearly $2 million in sales.[^19]
 
