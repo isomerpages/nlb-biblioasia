@@ -80,6 +80,7 @@ The dragon’s snout, 2023. <i>Courtesy of Edmund Lau.</i></div>
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Claws_of_the_dragon.jpg" style="width: 80%;">
 Claws of the dragon with metal nail tips, 2023. <i>Courtesy of Edmund Lau.</i></div>
 
+
 #### **Dance of the Dragon**
 
 Once the entire dragon has been constructed, all that is left is the performance. Before the procession begins, more than 4,000 lit joss sticks are inserted into the body of the dragon, from head to tail. These joss sticks, which are thicker than the usual ones used for prayers at the temple, must be properly embedded in the dragon to ensure no one gets hurt when the Fire Dragon comes alive during the dance ritual. Inserting the joss stick into the tightly packed straw requires some force.
