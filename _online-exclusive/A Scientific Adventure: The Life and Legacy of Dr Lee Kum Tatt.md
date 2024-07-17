@@ -11,8 +11,10 @@ On 6 September 1959, eight children died and 31 others from across Singapore wer
 
 Hearing that three of the deceased children had had homemade barley drinks before their deaths, the department speculated that barley might be the culprit, prompting the government to issue a statement warning the public to avoid the grain. Dr Lee Kum Tatt, the toxicologist on the case, recalled, “Ridiculous and far-fetched as this suggestion might be, we had to make some kind of statement to calm the public.”[^1]
 
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/Dr%20Lee%20Kum%20Tatt/Lee_at_UOMv1.png" style="width: 55%;">
-<div style="background-color: white;">Dr Lee Kum Tatt at the research laboratory of the University of Malaya, 1953. <i>Image reproduced from A Fabulous Journey (2012, Singapore: The Word Press). (From National Library, Singapore, call no. 540.92 LEE)</i></div>
+Dr Lee Kum Tatt at the research laboratory of the University of Malaya, 1953. <i>Image reproduced from A Fabulous Journey (2012, Singapore: The Word Press). (From National Library, Singapore, call no. 540.92 LEE)</i></div>
 
 It was a race against the clock to identify and isolate the source. Lee and his small team of two laboratory assistants and a chemist, worked tirelessly to prevent further fatalities. Given that all the children had had barley drinks, Lee and his team collected 15 food samples from the victims’ homes, including barley. Mice were fed cheese injected with the samples and the single mouse given the barley extract dropped dead. Further analysis showed the presence of Parathian, an insecticide banned in Singapore.[^2]
 
