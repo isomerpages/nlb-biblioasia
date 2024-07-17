@@ -105,7 +105,7 @@ A flong is made by pressing papier-mâché over a forme. The flong is then used 
 <div style="background-color:white;">
 <br>
 <img src="/images/Videos:%20BiblioAsia%20Reels/Tools%20of%20the%20Tradev2/A2___Photo_10.jpg" style="width: 80%;">
-Flong for <i>Sin Chew Daily</i> (星洲日报), 1967.</div><br>
+Flong for <i>Sin Chew Daily</i> (星洲日报), 1967.</div>
 
 <style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/GYvONtxJFeo?si=PBBLlpCbvVh2o3Kx" frameborder="0" allowfullscreen=""></iframe></div><br>
 #### **Typesetting Machines and Printing Presses**
