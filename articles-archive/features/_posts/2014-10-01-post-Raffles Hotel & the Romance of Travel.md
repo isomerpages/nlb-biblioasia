@@ -5,11 +5,12 @@ permalink: /vol-10/issue-3/oct-dec-2014/raffles-hotel-singapore-history/
 image: /images/vol-10-issue-3/raffles/cover.jpg
 layout: post
 description: ""
+variant: markdown
 ---
 #### **Gretchen Liu** traces the history of this grand hotel, from its heyday of glitz and glamour to near ruin and its subsequent reincarnation into the heritage icon it is today.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-10-issue-3/raffles/raffles_cover.jpg">
 Jinrickshaws picking up travellers just outside Raffles Hotel, circa 1910. <i>Courtesy of Raffles Singapore.</i></div>
 
@@ -21,26 +22,26 @@ First, a bit of early hotel history. From its earliest days as an outpost of the
 
 All that changed with the opening of the Suez Canal in 1869, which, together with the appearance of steam-powered ships, shortened distances and sped up travel. The writer Joseph Conrad, who navigated the eastern seas as a young sailor in the 1880s, summed up the astonishing efforts of the canal’s opening in his novel <i>The End of the Tether</i>, writing that “like the breaking of a dam, [it] had let in upon the East a flood of new ships, new men, new methods of trade. It changed the face of the Eastern seas and the spirit of their life.”
 
-Steamships not only sped up travel, they made it far more comfortable, and luxurious for some. By the 1890s, the oceans were circumnavigated by large coal-fed liners operated by companies such as the P&O, Straits Steamship, Messageries Maritimes, Lloyd Triestino and the Dutch KPLM. Add to these other late 19th century wonders – the telegram and telegraph, rising incomes and a growing middle class, the launch of travel as an industry by Thomas Cook – and the stage was set for the “Golden Age of Travel”. 
+Steamships not only sped up travel, they made it far more comfortable, and luxurious for some. By the 1890s, the oceans were circumnavigated by large coal-fed liners operated by companies such as the P&amp;O, Straits Steamship, Messageries Maritimes, Lloyd Triestino and the Dutch KPLM. Add to these other late 19th century wonders – the telegram and telegraph, rising incomes and a growing middle class, the launch of travel as an industry by Thomas Cook – and the stage was set for the “Golden Age of Travel”. 
 
 Bradshaw’s, the authoritative guidebook publisher, announced not without a touch of incredulity in its 1874 edition of <i>Through Routes, Overland Guide and Handbook to India, Egypt, Turkey, China, Australia and New Zealand</i> that a traveller “may run through the Grand Tour of the Globe in an incredibly short time... he can accomplish a circuit of 23,000 to 23,500 miles in 78 to 80 days exclusively on mail steamers and trains”. Passengers were advised to take “their entire stock of clothing” with 336 pounds of luggage allowed for first class. A few bottles of good port and champagne were also recommended “in case of sickness and depression”.
 
 Singapore was becoming an important coaling station for steamships. With more ships calling, decent hotel rooms were suddenly in short supply. By the 1880s, the port offered at least eight establishments – all located within a few blocks of the Padang in old bungalows to which various makeshift extensions had been added. The lack of something more elegant – a real grand hotel, which was even then a recent invention in the West – was cause for concern in the business community. An attempt was made to form a consortium to raise funds for a modern hotel but the capital investment proved too high and potential investors too few. Instead it was the Sarkies Brothers, Hotel Proprietors (as the company was called) that stepped into the void, intent on creating, in the Sarkies’ own words, “A really First Class Hotel”.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-10-issue-3/raffles/revamped_lobby.jpg">
 The revamped lobby of Raffles Hotel still exudes the grandeur of its heyday. <i>Courtesy of Raffles Singapore.</i></div>
 
 #### **Building a landmark: Raffles Hotel**
 
-In the early 1880s, two Sarkies brothers of Armenian descent, Martin and Tigran, had established themselves as hoteliers in Penang with two hotels, The Eastern and The Oriental (both hotels were later merged into one property, the Eastern & Oriental, E&O). When the Eastern Hotel landlord demanded a large increase in rent, they came to Singapore looking for an opportunity. They found it in the property at No 1 Beach Road, then known as Beach House, at the corner of Beach and Bras Basah roads. The bungalow was shabby but the grounds expansive, the location excellent, the sea view magnificent, and the landlord, Syed Mohamed Alsagoff, (see text box) supportive.
+In the early 1880s, two Sarkies brothers of Armenian descent, Martin and Tigran, had established themselves as hoteliers in Penang with two hotels, The Eastern and The Oriental (both hotels were later merged into one property, the Eastern &amp; Oriental, E&amp;O). When the Eastern Hotel landlord demanded a large increase in rent, they came to Singapore looking for an opportunity. They found it in the property at No 1 Beach Road, then known as Beach House, at the corner of Beach and Bras Basah roads. The bungalow was shabby but the grounds expansive, the location excellent, the sea view magnificent, and the landlord, Syed Mohamed Alsagoff, (see text box) supportive.
 
 The modest 10-room Raffles Hotel opened to the public on 1 December 1887. As for the choice of name, “Raffles” was a particularly fashionable name that year: it was Queen Victoria’s Golden Jubilee year and to mark the event a statue of Sir Stamford Raffles had been unveiled on the Padang and the Raffles Library and Museum on Stamford Road had officially opened.
 
 Tigran Sarkies proved to be a shrewd publicist. Two weeks before the hotel’s opening he shared his prediction of a brilliant future for the hotel in an advertisement. He highlighted the hotel’s location as “one of the best and healthiest in the island, facing the sea” and emphasised that “great care and attention to the comfort of boarders and visitors has been taken in every detail and those frequenting it will find every convenience and home comfort...”
 
-Eventually four brothers – Martin, Tigran, Aviet and Arshak – were involved in the family business during its early days. Mention has been made of Martin (1852–1912), an engineer and the first to arrive in Penang and Tigran (c1861–1912) who took charge of Raffles Hotel. Aviet (1862–1923), who first looked after the business in Penang when Martin retired, relocated to Rangoon, Burma, where he opened the Strand Hotel in 1899. Arshak (1869–1931) joined in 1890 and settled in Penang to oversee the E&O. Over the years, the brothers were associated with several other hotels in the Straits Settlements, including The Crag in Penang, and Grosvenor House and the Sea View in Singapore, but Raffles Hotel was the jewel and it was Tigran who nurtured it.
+Eventually four brothers – Martin, Tigran, Aviet and Arshak – were involved in the family business during its early days. Mention has been made of Martin (1852–1912), an engineer and the first to arrive in Penang and Tigran (c1861–1912) who took charge of Raffles Hotel. Aviet (1862–1923), who first looked after the business in Penang when Martin retired, relocated to Rangoon, Burma, where he opened the Strand Hotel in 1899. Arshak (1869–1931) joined in 1890 and settled in Penang to oversee the E&amp;O. Over the years, the brothers were associated with several other hotels in the Straits Settlements, including The Crag in Penang, and Grosvenor House and the Sea View in Singapore, but Raffles Hotel was the jewel and it was Tigran who nurtured it.
 
 During Raffles Hotel’s first two decades, Tigran oversaw almost unabated construction. Three projects were completed in 1890: a pair of buildings comprising 22 suites flanking the old bungalow and the first iteration of the Billiard Room. In 1894, the Palm Court Wing was completed on the adjacent parcel of land at No 3 Beach Road, adding another 30 suites to the inventory.
 
@@ -67,17 +68,17 @@ Aviet, now senior partner, continued to oversee Raffles from Rangoon and left th
 The 1920s was, on the whole, a splendid decade for Raffles. The opening of the ballroom in January 1921 was timed perfectly to usher in the “roaring twenties” with an in-house band and nightly dancing. Large groups of tourists now regularly visited Singapore on round-the-world cruises. In 1925 alone, Raffles made arrangements to entertain some 3,000 tourists from six different ships. Evenings took the form of an elegant cruise dinner and dance laid out in the spacious ballroom. When it was realised that the hotel’s best cutlery was being pocketed as souvenirs, inexpensive pieces were substituted.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-10-issue-3/raffles/ballroom.jpg" style="width:70%;">
 The ballroom of Raffles Hotel opened in 1921 and was reputed to be the largest hotel ballroom in the east at the time. <i>Courtesy of Raffles Singapore.</i></div>
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-10-issue-3/raffles/the_armenians.jpg">
-The Armenians behind the success of Raffles Hotel. From left: manager Joe Constantine, brothers Tigran and Martin Sarkies (seated), and accountant Martyrose Sarkies Arathoon in 1906. <i>Courtesy of Raffles Singapore.</i></div>
+(From left) Jacob Constantine (manager), Arshak Sarkies (founder and owner), Martin Sarkies (founder and owner) and Martyrose Arathoon (accountant) of the Raffles Hotel, 1906. <i>_Image reproduced from Nadia H. Wright, The Armenians of Singapore: A Short History (George Town, Penang: Entrepot Publishing, 2019), 86. (From National Library, Singapore, call no. RSING 305.89199205957 WRI)._</i></div>
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-10-issue-3/raffles/fancy_dress_ball.jpg" style="width:70%;">
 The New Year’s Eve Fancy Dress Ball held at Raffles Hotel was the highlight of Singapore’s social calendar until World War II. This photograph was taken in 1934. <i>Courtesy of Raffles Singapore.</i></div>
 
@@ -85,11 +86,11 @@ The New Year’s Eve Fancy Dress Ball held at Raffles Hotel was the highlight of
 
 In the early 1930s, all of Singapore’s hotels fell on hard times as the effects of the great economic depression seeped into every corner of the globe. The tourist trade shrank and the spending power of the resident European population diminished. The stress was more than the remaining Sarkies brother could bear. On 9 January 1931, Arshak died in Penang at the age of 62. The newspapers paid tribute to a generous man “who had earned the regard of all who met him”. Arshak was thus spared the terrible misfortunes that subsequently threatened the hotel’s existence.
 
-Four months after Arshak’s death, John Little Department Store took Raffles Hotel to court for debts amounting to $36,796. It was soon disclosed that the firm of Sarkies Brothers had liabilities totaling over $3.5 million! The subsequent inquiry revealed the firm’s cash reserves had been strained by substantial payments made to Aviet’s widow to buy out her husband’s 40 percent share in Sarkies Brothers. Then there were hefty loans, mainly from the Chartered Bank, the largest creditor, which had been taken out to upgrade two other Sarkies hotels – the Sea View in Singapore and the E&O Hotel in Penang. The main drain was the E&O, which Arshak had lavishly rebuilt in 1928. Construction costs had skyrocketed and this, combined with the loss of revenue during the rebuilding, as well as a general decline in business upon completion, spelt disaster. 
+Four months after Arshak’s death, John Little Department Store took Raffles Hotel to court for debts amounting to $36,796. It was soon disclosed that the firm of Sarkies Brothers had liabilities totaling over $3.5 million! The subsequent inquiry revealed the firm’s cash reserves had been strained by substantial payments made to Aviet’s widow to buy out her husband’s 40 percent share in Sarkies Brothers. Then there were hefty loans, mainly from the Chartered Bank, the largest creditor, which had been taken out to upgrade two other Sarkies hotels – the Sea View in Singapore and the E&amp;O Hotel in Penang. The main drain was the E&amp;O, which Arshak had lavishly rebuilt in 1928. Construction costs had skyrocketed and this, combined with the loss of revenue during the rebuilding, as well as a general decline in business upon completion, spelt disaster. 
 
 Although the Raffles remained profitable, there was no ready cash for wages and provisions, and there was a real danger that it would close. Fortunately, the creditors agreed for Sarkies Brothers, Hotel Proprietors to be placed in the hands of the official receiver and discussions on how to keep the hotel afloat began. Although business continued as usual, it proved “a most intricate bankruptcy” involving a tangled web of conflicting interests, 195 creditors and a host of complicated issues. 
 
-After two years of negotiations, all parties finally reached an agreement. On 28 February 1933, a new company, Raffles Hotel Limited, was incorporated to take over Raffles. (A separate, similar company was set up to take over the E&O.) When plans for Raffles’ future were unveiled, the official handling the case confirmed his faith in the hotel and asked the new shareholders to do the same, saying, “I can only put it to you this way, that the measure of your faith in the shares which you hold in Raffles Hotel must be the measure of your faith in the colony”.
+After two years of negotiations, all parties finally reached an agreement. On 28 February 1933, a new company, Raffles Hotel Limited, was incorporated to take over Raffles. (A separate, similar company was set up to take over the E&amp;O.) When plans for Raffles’ future were unveiled, the official handling the case confirmed his faith in the hotel and asked the new shareholders to do the same, saying, “I can only put it to you this way, that the measure of your faith in the shares which you hold in Raffles Hotel must be the measure of your faith in the colony”.
 
 No Singapore hotel survived this difficult time unscathed. The Adelphi Hotel on Coleman Street was placed in receivership. Hotel van Wijk along Stamford Road, home to Dutch travellers for over 30 years and famed for its curry and draught beer, closed, as did Raffles’ main rival, the Hotel de L’ Europe just opposite the Padang. Rebuilt in 1907 with 120 rooms, an imposing dining room and 300 employees, the L’ Europe was the Raffles’ closest competitor. By 1932, the L’ Europe could no longer withstand the competing pressures of poor business and an obligation by the terms of its lease to rebuild the hotel. In 1934, the government acquired the site for the new Supreme Court building.
 
@@ -141,14 +142,14 @@ Various Raffles Hotel brochures circa 1900–1950s.
 
 **Guidebooks**
 
-<i>Bradshaws’ through routes, overland guide and handbook to India, Egypt, Turkey, Persia, China, Australia and New Zealand</i>. (1890). London: W.J. Adams & Sons. (Bradshaw’s guide office). (Not available in NLB holdings)
+<i>Bradshaws’ through routes, overland guide and handbook to India, Egypt, Turkey, Persia, China, Australia and New Zealand</i>. (1890). London: W.J. Adams &amp; Sons. (Bradshaw’s guide office). (Not available in NLB holdings)
 
 <i>Handbook for travellers to Singapore</i>. (1920). Singapore: Far east Tourist Agency. Retrieved from Roots.sg website.
 Books
 
-Borland, B. (1933). *[Passports for Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2230558)*. New York: Long & Smith Inc. (Call no.: R 950 BOR)
+Borland, B. (1933). *[Passports for Asia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2230558)*. New York: Long &amp; Smith Inc. (Call no.: R 950 BOR)
 
-Brown, E.A. [1935]. *[Indiscreet memories](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5276937)*. London: Kelly & Walsh. (Call no. RCLOS 959.51 BRO-[RFL])
+Brown, E.A. [1935]. *[Indiscreet memories](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5276937)*. London: Kelly &amp; Walsh. (Call no. RCLOS 959.51 BRO-[RFL])
 
 Calder, R. (1989). <i>Wilie: The life of Somerset Maugham</i>. London; Heinemann. (Not available in NLB holdings)
 
@@ -166,7 +167,7 @@ Lockhart, R.H.B. (1921). <i>Return to Malaya</i>. London: Putnam. (Call no.: RCL
 
 Maugham, W.S. (1926). <i>The casuarina tree</i>. London: Heinemann. (Not available in NLB holdings)
 
-Macmillan, A. (1925). *[Seaports of the Far East: Historical and descriptive, commercial and industrial facts, figures, & resources](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13051813)*. London: W. H. & L. Collingridge. (Call no.: RCLOS 387.12095 SEA)
+Macmillan, A. (1925). *[Seaports of the Far East: Historical and descriptive, commercial and industrial facts, figures, &amp; resources](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13051813)*. London: W. H. &amp; L. Collingridge. (Call no.: RCLOS 387.12095 SEA)
 
 Morley, S. (1969). <i>A talent to amuse: A biography of Noel Cowar</i>. Boston: Little Brown and Company. (Not available in NLB holdings)
 
@@ -182,7 +183,7 @@ Rennie, J.S.M. (1933). *[Musings of J.S.M.R., mostly Malayan](https://eservice.n
 
 Turnbull, C.M. (1977). *[A history of Singapore, 1819–1975](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1194599)*. Kuala Lumpur: Oxford University Press. (Call no.: RSING 959.57 TUR-[HIS])
 
-Wright, A., & Cartwright, H.A. (1908). *[Twentieth century impressions of British Malaya: Its history, people, commerce, industries and resources](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4125591)*. London: Llyod’s Greater Britain Pub. (Call no.: RRARE 959.52033 TWE; Microfilm no.: NL16084)
+Wright, A., &amp; Cartwright, H.A. (1908). *[Twentieth century impressions of British Malaya: Its history, people, commerce, industries and resources](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4125591)*. London: Llyod’s Greater Britain Pub. (Call no.: RRARE 959.52033 TWE; Microfilm no.: NL16084)
 
 Wright, N.H. (2003). *[Respected citizens: The history of Armenians in Singapore and Malaysia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12231618)*. Middle Park, Vic.: Amassia Publishing. (Call no.: RSING 305.891992 WRI)
 
