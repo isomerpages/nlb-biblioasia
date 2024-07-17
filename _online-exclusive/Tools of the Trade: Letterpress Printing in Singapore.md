@@ -105,7 +105,7 @@ A flong is made by pressing papier-mâché over a forme. The flong is then used 
 <div style="background-color:white;">
 <br>
 <img src="/images/Videos:%20BiblioAsia%20Reels/Tools%20of%20the%20Tradev2/A2___Photo_10.jpg" style="width: 80%;">
-<div style="background-color:white;">Flong for <i>Sin Chew Daily</i> (星洲日报), 1967.</div><br>
+Flong for <i>Sin Chew Daily</i> (星洲日报), 1967.</div><br>
 
 <style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/GYvONtxJFeo?si=PBBLlpCbvVh2o3Kx" frameborder="0" allowfullscreen=""></iframe></div>
 
@@ -118,7 +118,7 @@ First manufactured in 1886, Linotype machines greatly sped up the typesetting pr
 <div style="background-color:white;">
 <br>
 <img src="/images/Videos:%20BiblioAsia%20Reels/Tools%20of%20the%20Tradev2/A2___Photo_11.jpg" style="width: 80%;">
-<div style="background-color:white;">Linotype casting machines at the Government Printing Office, 1952. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+Linotype casting machines at the Government Printing Office, 1952. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 The Monotype caster was part of the Monotype system, which included a separate Monotype keyboard. Similar to Linotype machines, this system was used in hot metal typesetting. But unlike Linotype machines that cast a larger slug, or a single line of type for printing, Monotype systems cast individual letters of type instead, which made corrections and changes easier.
 
@@ -127,19 +127,23 @@ Both the Monotype and Linotype systems were innovations based on the same goal o
 <div style="background-color:white;">
 <br>
 <img src="/images/Videos:%20BiblioAsia%20Reels/Tools%20of%20the%20Tradev2/A2___Photo_12.jpg" style="width: 80%;">
-<div style="background-color:white;">Monotype caster used at the Government Printing Office, 1952. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+Monotype caster used at the Government Printing Office, 1952. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 The Heidelberg press was famed for its speed and efficiency, thanks to its revolutionary design. Its double-sided rotating feeder arm, a feature not found in other printing presses of its time, removed the need for paper to be manually fed to and from the machine. Since print operators no longer needed to position, hold and remove the paper for each print job, newer models of the printing press could print at increasingly faster speeds. The printing press also came with an ink reservoir, which removed the need to ink the rollers – another feature not found in other printing presses of that era.
 
+<div style="background-color:white;">
+<br>
 <img src="/images/Videos:%20BiblioAsia%20Reels/Tools%20of%20the%20Tradev2/A2___Photo_13.jpg" style="width: 80%;">
-<div style="background-color:white;">Heidelberg cylinder press at the Singapore National Printer’s General Printing Office, 1975. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+Heidelberg cylinder press at the Singapore National Printer’s General Printing Office, 1975. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Popular with hobbyists today, table-top platen presses are operated manually to print items like business cards and invites. Before printing, ink is deposited on the disk and evenly distributed on its surface by rollers when the handle is repeatedly pressed down and released. After the ink is evenly spread and the handle is in its resting position with the clamshell platen open, the forme and paper are put in place.
 
 To start the printing process, the handle is firmly pressed down once. This recharges the rollers with ink, transfers the ink to the forme, and closes the platen, bringing the paper into contact with the forme. Releasing the handle reopens the platen, and the printed sheet can be removed and replaced with a fresh sheet.
 
+<div style="background-color:white;">
+<br>
 <img src="/images/Videos:%20BiblioAsia%20Reels/Tools%20of%20the%20Tradev2/A2___Photo_14.jpg" style="width: 80%;">
-<div style="background-color:white;">Adana 8 x 5 printing presses. These printing presses were salvaged from various print shops in Singapore that have shuttered.</div>
+Adana 8 x 5 printing presses. These printing presses were salvaged from various print shops in Singapore that have shuttered.</div>
 
 #### **Type Specimen Books and Printing Blocks**
 
@@ -208,4 +212,4 @@ https://letterpresscommons.com
 Melbourne Museum of Printing<br>
 https://www.mmop.org.au/showroom/show03.htm
 
-<i>Straits Times</i>, “[The New Malay Linotype](https://eresources.nlb.gov.shttps:/eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19240710-1.2.58g/newspapers/digitised/article/straitstimes19240710-1.2.58).” 10 July 1924, 9. (From NewspaperSG)</div></div></div>
+<i>Straits Times</i>, “[The New Malay Linotype](https://eresources.nlb.gov.shttps:/eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19240710-1.2.58g/newspapers/digitised/article/straitstimes19240710-1.2.58).” 10 July 1924, 9. (From NewspaperSG)
