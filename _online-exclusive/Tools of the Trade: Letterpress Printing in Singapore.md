@@ -107,8 +107,7 @@ A flong is made by pressing papier-mâché over a forme. The flong is then used 
 <img src="/images/Videos:%20BiblioAsia%20Reels/Tools%20of%20the%20Tradev2/A2___Photo_10.jpg" style="width: 80%;">
 Flong for <i>Sin Chew Daily</i> (星洲日报), 1967.</div><br>
 
-<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/GYvONtxJFeo?si=PBBLlpCbvVh2o3Kx" frameborder="0" allowfullscreen=""></iframe></div>
-
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/GYvONtxJFeo?si=PBBLlpCbvVh2o3Kx" frameborder="0" allowfullscreen=""></iframe></div><br>
 #### **Typesetting Machines and Printing Presses**
 
 Although printing presses were reaching incredible speeds, typesetting remained a slow and labour-intensive process. Type had to be individually cast in moulds and assembled manually in composing sticks, then re-sorted back into their type cases after they were used.
