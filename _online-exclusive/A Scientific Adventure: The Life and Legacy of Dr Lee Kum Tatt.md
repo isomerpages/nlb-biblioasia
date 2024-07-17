@@ -18,8 +18,10 @@ Dr Lee Kum Tatt at the research laboratory of the University of Malaya, 1953. <i
 
 It was a race against the clock to identify and isolate the source. Lee and his small team of two laboratory assistants and a chemist, worked tirelessly to prevent further fatalities. Given that all the children had had barley drinks, Lee and his team collected 15 food samples from the victims’ homes, including barley. Mice were fed cheese injected with the samples and the single mouse given the barley extract dropped dead. Further analysis showed the presence of Parathian, an insecticide banned in Singapore.[^2]
 
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/Dr%20Lee%20Kum%20Tatt/at_work_in_lab.png" style="width: 80%;">
-<div style="background-color: white;">Dr Lee Kum Tatt (left) and his team, Theng Chye Yam (middle) and Ng Hon Wing (right), at work in the laboratory in search of the toxin that killed eight children in 1959.&nbsp;<i> Image reproduced from “Barley Deaths: The Lab Boys Get to Work…,” Straits Budget, 16 September 1959, 13. (From NewspaperSG).</i></div>
+Dr Lee Kum Tatt (left) and his team, Theng Chye Yam (middle) and Ng Hon Wing (right), at work in the laboratory in search of the toxin that killed eight children in 1959.&nbsp;<i> Image reproduced from “Barley Deaths: The Lab Boys Get to Work…,” Straits Budget, 16 September 1959, 13. (From NewspaperSG).</i></div>
 
 The incident might have been the first time the public had heard of Lee, but over the years, he would go on to play a leading role in building scientific infrastructure in the country: this includes Singapore government’s Department of Chemistry, the Science Council, Singapore Polytechnic, the Singapore Institute of Standards and Industrial Research (SISIR), and the Singapore Science Centre. These contributions are all the more impressive when set in their historical context – the dangerous, uncertain Malaya of the mid-20th century.
 
@@ -33,8 +35,10 @@ Lee described those years as “very traumatic”.[^4] He stopped school and und
 
 The end of the war saw clashes between Indonesian nationalists and the Dutch who were trying to reassert their colonial dominance. Lee was a volunteer with the International Red Cross as an interpreter for the British Army (sent to disarm the Japanese). When his family was targeted for associating with foreigners, Lee and his family were forced to flee to Penang. There, he was able to complete his schooling and gain admission into Raffles College in 1948 to study chemistry.[^6]
 
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/Dr%20Lee%20Kum%20Tatt/science_students.jpg" style="width: 80%;">
-<div style="background-color: white;">Science students from the 1948 cohort at Raffles College, 1948. <i>Raffles College Collection, courtesy of National Archives of Singapore.</i></div>
+Science students from the 1948 cohort at Raffles College, 1948. <i>Raffles College Collection, courtesy of National Archives of Singapore.</i></div>
 
 Lee attained his Bachelor of Science three years later, in 1951. He graduated with honours under a Shell Scholarship the following year. Raffles College and the King Edward VII College of Medicine had merged to form the University of Malaya in 1949, which meant Lee was among one of the first cohorts to graduate from the new university.[^7]
 
