@@ -154,21 +154,25 @@ The MPH type specimen book below showcases Linotype, monotype and wood type face
 <div style="background-color:white;">
 <br>
 <img src="/images/Videos:%20BiblioAsia%20Reels/Tools%20of%20the%20Tradev2/A2___Photo_15a.jpg" style="width: 80%;">
-<div style="background-color:white;">MPH type specimen book, 1950.</div>
+MPH type specimen book, 1950.</div>
 
 MPH was originally established in 1890 by William Girdlestone Shellabear, a Methodist missionary and former army officer. It was first known as Amelia Bishop Press, then American Mission Press, before it was renamed Methodist Publishing House in 1906. It changed its name to Malaya Publishing House in 1927 and then to Malaysia Publishing House in 1963.
 
 The printing block below with Chan Kong Thye’s branding was used to print bottle labels in the 1970s. It is likely the only surviving printing block with this design and branding.
 
+<div style="background-color:white;">
+<br>
 <img src="/images/Videos:%20BiblioAsia%20Reels/Tools%20of%20the%20Tradev2/A2___Photo_16.jpg" style="width: 80%;">
-<div style="background-color:white;">Printing block for a bottle label with Chan Kong Thye’s branding, 1970.</div>
+Printing block for a bottle label with Chan Kong Thye’s branding, 1970.</div>
 
 Printing blocks are often made using zinc, magnesium or brass plates. The plate is combined with a wooden base to bring the printing surface to the standard type height of 0.918 inch.
 
 To produce a label in colour, multiple printing blocks were created for each colour based on the CMYK colour model. Each block is then precisely aligned and used separately with the printing press, with the different colours printed in quick succession to produce secondary colours.
 
+<div style="background-color:white;">
+<br>
 <img src="/images/Videos:%20BiblioAsia%20Reels/Tools%20of%20the%20Tradev2/Vinegar.jpg" style="width: 60%;">
-<div style="background-color:white;">The brand can still be found today in supermarkets like NTUC. <i>Photo by Veronica Chee.</i></div>
+The brand can still be found today in supermarkets like NTUC. <i>Photo by Veronica Chee.</i></div>
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba; font-size=larger"><b>TYPESETTING TOOLS </b><br><br>	
 A typesetter, who arranges type for printing, would use tools such as the following to lay out type:<br>
@@ -214,4 +218,4 @@ https://letterpresscommons.com
 Melbourne Museum of Printing<br>
 https://www.mmop.org.au/showroom/show03.htm
 
-<i>Straits Times</i>, “[The New Malay Linotype](https://eresources.nlb.gov.shttps:/eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19240710-1.2.58g/newspapers/digitised/article/straitstimes19240710-1.2.58).” 10 July 1924, 9. (From NewspaperSG)</div>
+<i>Straits Times</i>, “[The New Malay Linotype](https://eresources.nlb.gov.shttps:/eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19240710-1.2.58g/newspapers/digitised/article/straitstimes19240710-1.2.58).” 10 July 1924, 9. (From NewspaperSG)
