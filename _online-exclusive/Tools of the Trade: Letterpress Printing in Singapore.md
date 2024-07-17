@@ -12,8 +12,10 @@ A form of relief printing where ink is applied to a raised surface which is then
 
 This article showcases some of the letterpress printing equipment used here between the 1950s and 1980s. These equipment from a bygone era were salvaged by Sun Yao Yu, founder of Typesettingsg, a studio he set up in 2014 to preserve and document Singapore’s printing heritage. From hand-carved wooden type to manually operated presses, these items showcase the technology and craftsmanship that once formed the backbone of Singapore’s printing industry.
 
+<div style="background-color:white;">
+<br>
 <img src="/images/Videos:%20BiblioAsia%20Reels/Tools%20of%20the%20Tradev2/SUN_YAO_YU_lowres.jpg" style="width: 80%;">
-<div style="background-color:white;">Sun Yao Yu, a traditional letterpress educator and Typesettingsg’s founder. <i>Courtesy of Sun Yao Yu.</i></div>
+Sun Yao Yu, a traditional letterpress educator and Typesettingsg’s founder. <i>Courtesy of Sun Yao Yu.</i></div>
 
 #### **Wood Type**
 
@@ -21,8 +23,10 @@ Wood has been widely used to print letterforms and illustrations for centuries. 
 
 Wood type was used mainly to print large format prints like posters, as metal type was rarely cast in such large sizes and were expensive to produce. This made wood type more affordable and accessible.
 
+<div style="background-color:white;">
+<br>
 <img src="/images/Videos:%20BiblioAsia%20Reels/Tools%20of%20the%20Tradev2/A2___Photo_2.jpg" style="width: 80%;">
-<div style="background-color:white;">Pictured here are wood type from the 1980s from Yu Yi Rubber Stamp &amp; Print, which ceased operations in 2017. </div>
+Pictured here are wood type from the 1980s from Yu Yi Rubber Stamp &amp; Print, which ceased operations in 2017. </div>
 
 #### **Metal Type Sorts**
 
@@ -30,8 +34,10 @@ A sort or type is a block with a letter or character cast from a mould called a 
 
 Sorts are manually arranged into words and lines to make up a forme, which is the locked-up arrangement of type that is used for printing. These durable and reusable metal type allowed printers to create consistent and high-quality printed materials.
 
+<div style="background-color:white;">
+<br>
 <img src="/images/Videos:%20BiblioAsia%20Reels/Tools%20of%20the%20Tradev2/A2___Photo_3.jpg" style="width: 80%;">
-<div style="background-color:white;">This font, Palace Script in 14 pt, was cast in 1971 and sold by a local printing equipment trading company, Raman &amp; Co. In the 1980s, metal type like these were still sold to local print shops like Jetprint Services, where this was salvaged from. </div>
+This font, Palace Script in 14 pt, was cast in 1971 and sold by a local printing equipment trading company, Raman &amp; Co. In the 1980s, metal type like these were still sold to local print shops like Jetprint Services, where this was salvaged from. </div>
 
 #### **Matrices**
 
@@ -41,8 +47,10 @@ To create different sizes for each character, a matrix for each size is used. So
 
 In Singapore, the casting of both simplified and traditional Chinese type was still being done in the 1980s.
 
+<div style="background-color:white;">
+<br>
 <img src="/images/Videos:%20BiblioAsia%20Reels/Tools%20of%20the%20Tradev2/A2___Photo_4.jpg" style="width: 80%;">
-<div style="background-color:white;">Pictured here is the matrix for the Chinese character 短 (short) in 宋体 (serif). Common typefaces used locally include 宋体 (serif), 黑体 (sans serif) and 楷体 (script). It is possibly among the last few surviving matrices in Singapore, and was salvaged from Odds ‘N’ Collectables, a local heritage shop. </div>
+Pictured here is the matrix for the Chinese character 短 (short) in 宋体 (serif). Common typefaces used locally include 宋体 (serif), 黑体 (sans serif) and 楷体 (script). It is possibly among the last few surviving matrices in Singapore, and was salvaged from Odds ‘N’ Collectables, a local heritage shop. </div>
 
 #### **Type Cases**
 
@@ -50,15 +58,19 @@ Type cases are compartmentalised wooden trays used to organise movable type. The
 
 Type could be organised according to common standards. A California job case, for example, has 89 compartments. Lowercase letters and punctuation are stored on the left, uppercase letters on the right, and numerals and symbols at the top. Lowercase letters that are used most frequently, such as ‘e’, are placed within easy reach and given larger compartments. The compartments for uppercase letters are uniform in size and arranged alphabetically, with the exception of ‘J’ and ‘U’. These are placed after ‘Z’ as they were not part of the alphabet used by early English printers and were only introduced in the 16th century.
 
+<div style="background-color:white;">
+<br>
 <img src="/images/Videos:%20BiblioAsia%20Reels/Tools%20of%20the%20Tradev2/A2___Photo_5.jpg" style="width: 80%;">
-<div style="background-color:white;">The type cases here were salvaged from Seng Huat Press, which shut down in 2023. </div>
+The type cases here were salvaged from Seng Huat Press, which shut down in 2023. </div>
 
 The Government Printing Office was established around 1861 under the jurisdiction of the Public Works Department. It was responsible for printing works such as Government Gazettes, Bills, Ordinances, School and Government examination papers, Legislative Assembly debates, official forms, revenue receipts, account books, registers, invitation cards, publicity posters, booklets and pamphlets.
 
 On 1 July 1973, the printing office became a private printing company and was subsequently renamed Singapore National Printers (Pte) Ltd. It was acquired by Toppan Holdings in 2008. Today, the company is known as Toppan Next Pte. Ltd.
 
+<div style="background-color:white;">
+<br>
 <img src="/images/Videos:%20BiblioAsia%20Reels/Tools%20of%20the%20Tradev2/A2___Photo_6.jpg" style="width: 80%;">
-<div style="background-color:white;">Type cases and cabinets shown during Yusof Ishak’s tour of the Government Printing Office, 1961. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+Type cases and cabinets shown during Yusof Ishak’s tour of the Government Printing Office, 1961. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Lead and Rule Cutters**
 
@@ -68,8 +80,10 @@ Leads and rules are usually sold at standard pre-cut lengths, but may be cut to 
 
 Depending on the model, a lead and rule cutter may come with two knives – one in front for cutting leads, and another behind it for cutting rules. The lead knife is parallel to its opposing edge, which cuts the lead squarely, while the rule knife sits at an angle from its opposing edge and cuts like a shear.
 
+<div style="background-color:white;">
+<br>
 <img src="/images/Videos:%20BiblioAsia%20Reels/Tools%20of%20the%20Tradev2/A2___Photo_8.jpg" style="width: 80%;">
-<div style="background-color:white;">Universal Notting London Lead and rule cutter. Cutters like these are a rarity today, with only a handful still being used in old print shops. This cutter was from Yu Yi Press Company.</div>
+Universal Notting London Lead and rule cutter. Cutters like these are a rarity today, with only a handful still being used in old print shops. This cutter was from Yu Yi Press Company.</div>
 
 #### **Formes**
 
@@ -77,8 +91,10 @@ When setting type by hand, lines of type are moved from the composing stick to t
 
 The photo below shows a forme for a name card that contains both the information of the client (leftmost side of the printed card) and the print shop (right). To reduce the time taken for typesetting, formes that are frequently used for reprints may be left assembled, like this one from Jetprint Services.
 
+<div style="background-color:white;">
+<br>
 <img src="/images/Videos:%20BiblioAsia%20Reels/Tools%20of%20the%20Tradev2/A2___Photo_9.jpg" style="width: 80%;">
-<div style="background-color:white;">Forme for a Chinese name card, early 1980s.</div>
+Forme for a Chinese name card, early 1980s.</div>
 
 #### **Flongs**
 
@@ -86,6 +102,8 @@ For the most part, as it was impractical for printers to keep their type, leads,
 
 A flong is made by pressing papier-mâché over a forme. The flong is then used as a mould to cast a stereotype plate from hot metal. Stereotype plates kept type from wearing down and were widely used for short-lived tasks such as newspaper and advertising printing. After printing, flongs were burned and stereotypes were melted down to plate metal to be reused.
 
+<div style="background-color:white;">
+<br>
 <img src="/images/Videos:%20BiblioAsia%20Reels/Tools%20of%20the%20Tradev2/A2___Photo_10.jpg" style="width: 80%;">
 <div style="background-color:white;">Flong for <i>Sin Chew Daily</i> (星洲日报), 1967.</div><br>
 
@@ -97,6 +115,8 @@ Although printing presses were reaching incredible speeds, typesetting remained 
 
 First manufactured in 1886, Linotype machines greatly sped up the typesetting process. Within a single machine, moulds or matrices could be assembled into lines, with each line cast from molten metal into a single type, called a slug. The process of using molten metal to create sorts or slugs for printing was referred to as hot metal typesetting. Linotype machines could also return the matrices back to their respective magazines after casting the slugs.
 
+<div style="background-color:white;">
+<br>
 <img src="/images/Videos:%20BiblioAsia%20Reels/Tools%20of%20the%20Tradev2/A2___Photo_11.jpg" style="width: 80%;">
 <div style="background-color:white;">Linotype casting machines at the Government Printing Office, 1952. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
@@ -104,6 +124,8 @@ The Monotype caster was part of the Monotype system, which included a separate M
 
 Both the Monotype and Linotype systems were innovations based on the same goal of creating formes quickly that did not have to be painstakingly sorted for re-use.
 
+<div style="background-color:white;">
+<br>
 <img src="/images/Videos:%20BiblioAsia%20Reels/Tools%20of%20the%20Tradev2/A2___Photo_12.jpg" style="width: 80%;">
 <div style="background-color:white;">Monotype caster used at the Government Printing Office, 1952. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
@@ -186,4 +208,4 @@ https://letterpresscommons.com
 Melbourne Museum of Printing<br>
 https://www.mmop.org.au/showroom/show03.htm
 
-<i>Straits Times</i>, “[The New Malay Linotype](https://eresources.nlb.gov.shttps:/eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19240710-1.2.58g/newspapers/digitised/article/straitstimes19240710-1.2.58).” 10 July 1924, 9. (From NewspaperSG)
+<i>Straits Times</i>, “[The New Malay Linotype](https://eresources.nlb.gov.shttps:/eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19240710-1.2.58g/newspapers/digitised/article/straitstimes19240710-1.2.58).” 10 July 1924, 9. (From NewspaperSG)</div></div></div>
