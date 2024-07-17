@@ -128,10 +128,14 @@ Although the Fire Dragon dance was first performed in the temple in 1989, it was
 
 The Sar Kong Mun San Fook Tuck Chee Temple was established during the early 1860s according to an inscription on a stele that is dated to 1901. The temple was originally located in the Kallang Basin and its name, Sar Kong, meaning “sand dune”, was the name of a village there. The village got its name from sandy deposits in the area that attracted the earliest brick kiln operators to set up their kilns in the vicinity.[^2]&nbsp;The temple moved to its present site at Sims Drive in 1901.[^3]&nbsp;
 
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/T1_004.jpg" style="width: 80%;">
-<div style="background-color: white;">The Sar Kong Mun Fook Tuck Chee Temple at Sims Drive, 2007. <i>Courtesy of Ang Yik Han.</i></div>
+The Sar Kong Mun Fook Tuck Chee Temple at Sims Drive, 2007. <i>Courtesy of Ang Yik Han.</i></div>
+<div style="background-color: white;">
+<br>
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/T1_005.jpg" style="width: 80%;">
-<div style="background-color: white;">The temple was originally located in the Kallang Basin, 2007. <i>Courtesy of Ang Yik Han.</i></div>
+The temple was originally located in the Kallang Basin, 2007. <i>Courtesy of Ang Yik Han.</i></div>
 
 The main deity worshipped at the temple is Tu Di Gong (also known as the Earth Deity, Tu Di Ye Ye, Toh Teh Ye Ye or Bo Gong), likely due to the numerous brick kilns in the area. The workers of these kilns were either Cantonese or Hakka and they brought their custom of worshiping Tu Di Gong along with them.[^4] As a mark of respect to Tu Di Gong, prayers were routinely offered prior to the firing of the kilns. The birthday celebrations of this deity, which falls on the second day of the second lunar month, is the most important occasion in the calendar of events for the temple.
 
