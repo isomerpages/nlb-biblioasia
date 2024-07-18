@@ -8,17 +8,17 @@ description: People weren’t particularly interested in  upgrading their
 #### People weren’t particularly interested in upgrading their black-and-white TV to a colour TV. Then came the World Cup.
 By Mohamad Karazie and Tan Jie Ling
 
-Starting from the 1980s, the Singapore Broadcasting Corporation (SBC) – the precursor to today’s Mediacorp – began churning out highly popular local TV dramas in Mandarin. Shows like _The Flying Fish_ (鬼령戴; 1983),1 _The Army Series_ (劤깡鬼눈; 1983)2 and _The Awakening_ (絞傑켓捏; 1984)3 became massive hits for the state broadcaster.
+Starting from the 1980s, the Singapore Broadcasting Corporation (SBC) – the precursor to today’s Mediacorp – began churning out highly popular local TV dramas in Mandarin. Shows like _The Flying Fish_ (小飞鱼; 1983),[^1] _The Army Series_ (新兵小传; 1983)[^2] and _The Awakening_ (雾锁南洋; 1984)[^3] became massive hits for the state broadcaster.
 
 Apart from their high production values and compelling storylines, what made these SBC dramas so addictive were the actors themselves. Blessed with talent, youth and good looks, Channel 8 stars like Xiang Yun, Huang Wenyong, Edmund Chen and Li Nanxing, and later, Zoe Tay and Fann Wong, dominated the small screen. In the process, they became local royalty.
 
-One factor that made watching these actors, and these shows, so enjoyable was something that we take completely for granted today: everything was in colour. _The Awakening_ or _Samsui Women_ (븐庫쏀; 1986)4 would have been much less compelling in black-and-white. It is quite remarkable that it took a mere decade after colour TV came to Singapore for SBC to produce television programmes that people would eagerly consume week after week.
+One factor that made watching these actors, and these shows, so enjoyable was something that we take completely for granted today: everything was in colour. _The Awakening_ or _Samsui Women_ (红头巾; 1986)[^4] would have been much less compelling in black-and-white. It is quite remarkable that it took a mere decade after colour TV came to Singapore for SBC to produce television programmes that people would eagerly consume week after week.
 
 Singapore first began broadcasting in colour in 1974, just 11 years after television itself made its debut here. Culture Minister S. Rajaratnam was the first person to appear on national TV when he launched Television Singapura at the Victoria Memorial Hall on 15 February 1963.
 
 Between 1963 and 1974, all TV programmes in Singapore were broadcast in black and white. There was, however, a global move to shift away from monochrome to colour, and Singapore did not want to be left behind.
 
-“The advent of colour television places Singapore amongst many of the highly developed countries in the West and Asia,” said Lim Hock Poh, president of the Radio and Electrical Traders Association of Singapore (RETAS) at the Colourvision & Sound Exhibition held at the National Stadium in August 1974. “It not only reflects our capability in adapting to modern telecommunications but also signifies our advanced technological knowledge.”5 
+“The advent of colour television places Singapore amongst many of the highly developed countries in the West and Asia,” said Lim Hock Poh, president of the Radio and Electrical Traders Association of Singapore (RETAS) at the Colourvision & Sound Exhibition held at the National Stadium in August 1974. “It not only reflects our capability in adapting to modern telecommunications but also signifies our advanced technological knowledge.”[^5] 
 
 The introduction of colour TV sets in May 1974 initially did not attract much enthusiasm in Singapore though. It was perceived as an unnecessary upgrade by many, reflecting a sentiment shared globally. However, the situation changed when it was announced that Singapore would broadcast the World Cup final live, in colour, on 7 July that year.6 
 
