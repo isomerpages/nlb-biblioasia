@@ -117,34 +117,40 @@ Manufacturers are still trying to get consumers to upgrade their TVs though. Con
 [^10]: “Sale of Colour TV Sets Jumps to New High.”
 
 
-[^11]: 
+[^11]: Ujagar Singh, oral history interview by Patricia Lee, 13 March 2003, MP3 audio, Reel/Disc 4 of 15, National Archives of Singapore (accession no. 002748), 19:29.&nbsp;
 
 
-[^12]: 
+[^12]: Bailyne Sung, “RTS Buys $2m Colour TV Equipment,” _Straits Times_, 3 February 1974, 7. (From NewspaperSG)
 
 
-[^13]: 
+
+[^13]: “Republic All Set for Colour Television Soon,” _New Nation_, 25 March 1974, 13. (From NewspaperSG)&nbsp;
 
 
-[^14]: 
+
+[^14]: Philip Tay Joo Thong, oral history interview by Denise Ng, 23 September 2015, transcript and MP3 audio, Reel/Disc 6 of 16, National Archives of Singapore (accession no. 003862), 121–22.
 
 
-[^15]: 
+[^15]: “Republic All Set for Colour Television Soon.”
 
 
-[^16]: 
+[^16]: Mun Chor Seng, oral history interview by Patricia Lee, 26 December 2001, transcript and MP3 audio, Reel/Disc 12 of 15, National Archives of Singapore (accession no. 002582), 209.
 
 
-[^17]: 
+[^17]: “The Big, Big Show...”; “Show to Let You in on Colour TV,” _Straits Times_, 13 May 1974, 9; “Colour TV Tuition at Show,” _Straits Times_, 19 July 1974, 24. (From NewspaperSG); Radio &amp; Electrical Traders Association, _Colourvision &amp; Sound Exhibition 7_4 (Singapore: Forces Publications, 1974). (From National Library Online)
 
 
-[^18]: 
+
+[^18]: “World Cup Final in Colour,” _Straits Times_, 29 June 1974, 1. (From NewspaperSG)
 
 
-[^19]: 
+
+[^19]: “CCs to Have Colour TV, Says Jek,” _New Nation_, 29 June 1974, 3. (From NewspaperSG)
 
 
-[^20]: 
+
+[^20]: “Hotels to Show World Cup Final Telecast in Colour,” _Straits Times_, 7 July 1974, 8. (From NewspaperSG)
+
 
 
 [^21]: 
