@@ -62,13 +62,13 @@ As a government body, RTS produced mainly educational and informational programm
 
 School debate finals were one of the programmes produced by RTS. The first debate televised in colour was between National Junior College and Hwa Chong Junior College in 1975, and the topic was “That parents who send their children overseas for a secondary education are doing irreparable harm to their children”. National Junior College, who opposed the motion, won the debate.[^29]
 
-RTS also regularly produced documentaries about Singapore. One of these was _On the Spot_, a 1976 series that showcased different parts of Singapore. Episode 12 of the series featured Singapore’s parks and also local singers from different ethnic backgrounds singing in the parks. Performers included singer and composer Michael Isaac, Malay singer and entertainer Kartina Dahari and popular Mandarin singer Wu Jing Xian (喬쓰役).[^30]
+RTS also regularly produced documentaries about Singapore. One of these was _On the Spot_, a 1976 series that showcased different parts of Singapore. Episode 12 of the series featured Singapore’s parks and also local singers from different ethnic backgrounds singing in the parks. Performers included singer and composer Michael Isaac, Malay singer and entertainer Kartina Dahari and popular Mandarin singer Wu Jing Xian (吴静娴).[^30]
 
 Singapore’s homemade programmes kicked up a notch when the SBC was formed on 1 February 1980, following the corporatisation of RTS. Armed with a more commercial drive, and a bigger budget for drama production, the quality and quantity of local programmes improved significantly. Local dramas, especially Chinese dramas, flourished.&nbsp;
 
-_Seletar Robbery_ (茄쟁댐댕쌕갭; 1982) is the first Mandarin drama to be produced by SBC and laid the foundation for future well-regarded productions like _The Awakening_ and _The Coffee Shop_ (엣렸魁; 1985–86).[^31] _Seletar Robbery_ was based on an actual case where about $300,000 had been stolen from a construction site at Seletar Reservoir.[^32]
+_Seletar Robbery_ (实里达大劫案; 1982) is the first Mandarin drama to be produced by SBC and laid the foundation for future well-regarded productions like _The Awakening_ and _The Coffee Shop_ (咖啡乌; 1985–86).[^31] _Seletar Robbery_ was based on an actual case where about $300,000 had been stolen from a construction site at Seletar Reservoir.[^32]
 
-Subsequently, _The Coffee Shop_, which aired from 16 December 1985 to 4 February 1986, became the first Mandarin TV serial to pass the one million viewership mark with 1,123,000 adult viewers. The story revolves around the lives of ordinary Singaporeans living in housing estates, depicting their joys, sorrows and aspirations. Previously, the records had been held by Hong Kong Cantonese serials, _Man in the Net_ (貢櫓훙; 1980) and _Chameleon_ (긴질; 1981).[^33]
+Subsequently, _The Coffee Shop_, which aired from 16 December 1985 to 4 February 1986, became the first Mandarin TV serial to pass the one million viewership mark with 1,123,000 adult viewers. The story revolves around the lives of ordinary Singaporeans living in housing estates, depicting their joys, sorrows and aspirations. Previously, the records had been held by Hong Kong Cantonese serials, _Man in the Net_ (网中人; 1980) and _Chameleon_ (网中人; 1981).[^33]
 
 Of course, merely showing something in colour was not a guarantee of success, no matter how good-looking the cast. The public reception to early local TV drama productions in English is a case in point. Some, like _Masters of the Sea_ (1994) and _VR Man_ (1998) were embarrassing flops. Others like _Triple Nine_ (1995–99),[^34] _Under One Roof_ (1995–2003)[^35] and _Growing Up_ (1996–2001)[^36] were genuine hits.&nbsp;
 
@@ -202,5 +202,3 @@ Manufacturers are still trying to get consumers to upgrade their TVs though. Con
 
 
 [^37]: MediaCorp, “Phua Chu Kang Pte Ltd,” meWatch, 1997–2007, https://www.mewatch.sg/show/Phua-Chu-Kang-Pte-Ltd-28085.
-
-
