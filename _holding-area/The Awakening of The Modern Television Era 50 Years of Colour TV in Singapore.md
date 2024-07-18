@@ -20,19 +20,19 @@ Between 1963 and 1974, all TV programmes in Singapore were broadcast in black an
 
 “The advent of colour television places Singapore amongst many of the highly developed countries in the West and Asia,” said Lim Hock Poh, president of the Radio and Electrical Traders Association of Singapore (RETAS) at the Colourvision &amp; Sound Exhibition held at the National Stadium in August 1974. “It not only reflects our capability in adapting to modern telecommunications but also signifies our advanced technological knowledge.”[^5]&nbsp;
 
-The introduction of colour TV sets in May 1974 initially did not attract much enthusiasm in Singapore though. It was perceived as an unnecessary upgrade by many, reflecting a sentiment shared globally. However, the situation changed when it was announced that Singapore would broadcast the World Cup final live, in colour, on 7 July that year.6&nbsp;
+The introduction of colour TV sets in May 1974 initially did not attract much enthusiasm in Singapore though. It was perceived as an unnecessary upgrade by many, reflecting a sentiment shared globally. However, the situation changed when it was announced that Singapore would broadcast the World Cup final live, in colour, on 7 July that year.[^6]
 
-The highly anticipated match sparked a buying frenzy in colour TV sets, with 2,000 units sold the day before the match. One of the first colour TVs available in Singapore was the Sierra 22 CTV 26 console encased within a hardwood frame. Imported from Holland, it cost around $2,400, a considerable amount of money given that the average monthly salary was between $300 and $500 in the 1970s.7 The price did not seem to be a major hindrance though. “We don’t seem to be able to supply sets fast enough to the dealers,” said Song Choo Chai, managing director of Asia Radio, the sole agent for Sierra.8
+The highly anticipated match sparked a buying frenzy in colour TV sets, with 2,000 units sold the day before the match. One of the first colour TVs available in Singapore was the Sierra 22 CTV 26 console encased within a hardwood frame. Imported from Holland, it cost around $2,400, a considerable amount of money given that the average monthly salary was between $300 and $500 in the 1970s.[^7] The price did not seem to be a major hindrance though. “We don’t seem to be able to supply sets fast enough to the dealers,” said Song Choo Chai, managing director of Asia Radio, the sole agent for Sierra.[^8]
 
-Among those who enjoyed their new colour Sierra TV was mother of two Irene Chee, whose husband had bought a set in the mid-1970s. “I was initially watching a Hong Kong Cantonese period drama in black and white,” she recalled. “After we bought the colour TV, the show became so much more enjoyable. I was amazed to see that the emperor’s robes were in a bright yellow, and the attire of the empress and concubines were in various shades of brilliant colours.” The Sierra served her well for a good 20 years, and after that she used it as a display for photo frames and other ornaments.9 &nbsp; &nbsp;
+Among those who enjoyed their new colour Sierra TV was mother of two Irene Chee, whose husband had bought a set in the mid-1970s. “I was initially watching a Hong Kong Cantonese period drama in black and white,” she recalled. “After we bought the colour TV, the show became so much more enjoyable. I was amazed to see that the emperor’s robes were in a bright yellow, and the attire of the empress and concubines were in various shades of brilliant colours.” The Sierra served her well for a good 20 years, and after that she used it as a display for photo frames and other ornaments.[^9]
 
-Besides the sale of colour TVs, there was also a sharp rise in the number of TV rentals. A Rediffusion spokesman told the _Straits Times_ that those “who \[could not\] afford to pay $2,000 or so to buy a set, agreed to rent sets, although contracts \[had\] to be on a yearly basis”.10&nbsp;
+Besides the sale of colour TVs, there was also a sharp rise in the number of TV rentals. A Rediffusion spokesman told the _Straits Times_ that those “who \[could not\] afford to pay $2,000 or so to buy a set, agreed to rent sets, although contracts \[had\] to be on a yearly basis”.[^10]
 
-Preparing for Colour TV
+#### **Preparing for Colour TV**
 
-The switch from black and white to colour was not a simple one. Radio and Television Singapore (RTS; formed from a merger of Television Singapura with Radio Singapura in 1965) spearheaded the overhaul of broadcasting infrastructure for colour broadcasts in Singapore. RTS engineer Ujagar Singh explained that “black and white facilities had to be converted into colour because colour requirements were different and more stringent. In the studio, we had to, of course, besides buying new equipment, cameras, we also had to change our lighting system. Because colour requires more intense lighting to reproduce the colours...&nbsp; all the equipment had to be replaced with new colour equipment,” he said.11 This led to the replacement of 90 percent of existing equipment to ensure compatibility with colour transmission standards.12 An estimated $20 million was set aside for this endeavour.13&nbsp;
+The switch from black and white to colour was not a simple one. Radio and Television Singapore (RTS; formed from a merger of Television Singapura with Radio Singapura in 1965) spearheaded the overhaul of broadcasting infrastructure for colour broadcasts in Singapore. RTS engineer Ujagar Singh explained that “black and white facilities had to be converted into colour because colour requirements were different and more stringent. In the studio, we had to, of course, besides buying new equipment, cameras, we also had to change our lighting system. Because colour requires more intense lighting to reproduce the colours...&nbsp; all the equipment had to be replaced with new colour equipment,” he said.[^11] This led to the replacement of 90 percent of existing equipment to ensure compatibility with colour transmission standards.[^12] An estimated $20 million was set aside for this endeavour.[^13]
 
-Personnel had to be trained as well. RTS engineers and technicians were sent to London and Germany for training. Among them was engineer Philip Tay Joo Thong, who attended the six-month Colour TV Engineering course at Thomson TV College in London and met many people especially from Africa. “So we start\[ed\] to learn about the basic\[s\]… why three tubes, the reproduction of colour, what makes yellow yellow, what makes green – the complementary colours and so forth,” he recalled in an oral history interview.14
+Personnel had to be trained as well. RTS engineers and technicians were sent to London and Germany for training. Among them was engineer Philip Tay Joo Thong, who attended the six-month Colour TV Engineering course at Thomson TV College in London and met many people especially from Africa. “So we start\[ed\] to learn about the basic\[s\]… why three tubes, the reproduction of colour, what makes yellow yellow, what makes green – the complementary colours and so forth,” he recalled in an oral history interview.[^14]
 
 Staff who did not have the opportunity to attend overseas courses were trained by their colleagues when they were back in Singapore. The British Broadcasting Corporation sent an advisor, John Castle, to help RTS with the equipment installation and subsequent training of staff.15&nbsp;
 
@@ -40,7 +40,7 @@ Besides engineers and technicians, staff of the camera unit had to acquire addit
 
 In August 1974, RETAS organised the 10-day Colourvision &amp; Sound Exhibition at the National Stadium that showcased $2.5 million worth of colour and sound equipment from more than 30 booths and 20 exhibitors. “Demonstrators and trained technical personnel will show visitors what to look when adjusting and aligning their TV sets,” said Roland Yeo of RETAS. This was one of the highlights of the exhibition.17
 
-Launch of Colour TV
+#### **Launch of Colour TV**
 
 No stone was left unturned ahead of the debut of colour TV at the 1974 World Cup final held in Munich.18&nbsp; Before the match, the main community centres in all 65 constituencies across Singapore had colour TV sets installed. “It will be an exciting experience to view the World Cup Soccer final in colour,” said Culture Minister Jek Yeun Thong in an interview with the _New Nation_.19 &nbsp;
 
@@ -202,5 +202,4 @@ Manufacturers are still trying to get consumers to upgrade their TVs though. Con
 [^39]: 
 
 
-[^40]: 
-
+[^40]:
