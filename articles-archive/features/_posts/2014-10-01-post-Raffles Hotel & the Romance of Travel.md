@@ -75,7 +75,7 @@ The ballroom of Raffles Hotel opened in 1921 and was reputed to be the largest h
 <div style="background-color: white;">
 <br>
 <img src="/images/vol-10-issue-3/raffles/the_armenians.jpg">
-(From left) Jacob Constantine (manager), Arshak Sarkies (founder and owner), Martin Sarkies (founder and owner) and Martyrose Arathoon (accountant) of the Raffles Hotel, 1906. <i>_Image reproduced from Nadia H. Wright, The Armenians of Singapore: A Short History (George Town, Penang: Entrepot Publishing, 2019), 86. (From National Library, Singapore, call no. RSING 305.89199205957 WRI)._</i></div>
+(From left) Jacob Constantine (manager), Arshak Sarkies (founder and owner), Martin Sarkies (founder and owner) and Martyrose Arathoon (accountant) of the Raffles Hotel, 1906. <i>Image reproduced from Nadia H. Wright, The Armenians of Singapore: A Short History (George Town, Penang: Entrepot Publishing, 2019), 86. (From National Library, Singapore, call no. RSING 305.89199205957 WRI).</i></div>
 
 <div style="background-color: white;">
 <br>
