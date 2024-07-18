@@ -153,61 +153,54 @@ Manufacturers are still trying to get consumers to upgrade their TVs though. Con
 
 
 
-[^21]: 
+[^21]: Sunny Wee, “C-centres, Hotels Ready for Crowds,” _New Nation_, 3 July 1974, 1. (From NewspaperSG)
 
 
-[^22]: 
+[^22]: “Muller the Hero in German Triumph,” _New Nation_, 8 July 1974, 11. (From NewspaperSG)
 
 
-[^23]: 
+[^23]: “Big Parade Will Be in Colour,” _New Nation_, 30 July 1974, 2; “Big Parade on TV in Colour,” _Straits Times_, 31 July 1974, 9; “Rush for Colour TV Sets to Watch N-Day Parade,” _Straits Times_, 8 August 1974, 15; Rav K. Dhaliwal “TV Sales Move up Again for Big Show...,” _New Nation_, 1 August 1974, 3. (From NewspaperSG)
 
 
-[^24]: 
+[^24]: Radio and Television Singapore, “Anatomy of a Parade,” 9 August 1973, video. (From National Archives of Singapore, accession no. 1997001733)
 
 
-[^25]: 
+[^25]: Radio and Television Singapore, “National Day Parade (1),” 9 August 1974, video, 59:13. (From National Archives of Singapore, accession no. 1997002509); Radio and Television Singapore, “National Day Parade (2),” 9 August 1974, video, 49:02. (From National Archives of Singapore, accession no. 1997002510)
 
 
-[^26]: 
+[^26]: “Spectacular Shows in Colour for N-day,” _New Nation_, 1 August 1974, 3. (From NewspaperSG)&nbsp;
 
 
-[^27]: 
+[^27]: Loong May Lin, _On Television in Singapore_ (Singapore: Singapore Broadcasting Corp, National Library Board, 1988), 37. (From National Library, Singapore, call no. RCLOS 384.554095957 ON)
 
 
-[^28]: 
+[^28]: Erhard U. Heidt, _Mass Media, Cultural Tradition, and National Identity: The Case of Singapore and Its Television Programmes_ (Saarbrücken: Breitenback, 1987), 179. (From National Library, Singapore, call no. R 791.457095957 HEI), Loong, _On Television in Singapore_, 37.
 
 
-[^29]: 
+[^29]: Radio and Television Singapore, “Debate 1975 Finals – Hwa Chong Junior College Versus National Junior College,” 25 May 1975, video, 1:02:33. (From National Archives of Singapore, accession no. 1997002007); Evelyn Ng, “Talking Point,” _New Nation_, 25 May 1975, 10–11. (From NewspaperSG)
 
 
-[^30]: 
+[^30]: Radio and Television Singapore, “On the Spot Ep 12,” 15 June 1976, video, 54:58. (From National Archives of Singapore, accession no. 1997002562)
 
 
-[^31]: 
+[^31]: Singapore Broadcasting Corporation, “The Seletar Robbery,” 25 July 1982, video, 49:46. (From National Archives of Singapore, accession no. 1997003239); Singapore Broadcasting Corporation, “The Coffee Shop,” meWatch, 1985–86, https://www.mewatch.sg/season/The-Coffee-Shop-33244.
 
 
-[^32]: 
+[^32]: Boon Chan, “50 Years of TV,” _Straits Times_, 30 May 2013, 6–7; Leong Weng Kam, “Second Showing for this Winner,” _Straits Times_, 29 October 1982, 17. (From NewspaperSG)
 
 
-[^33]: 
+[^33]: Leong Weng Kam, “Coffee Shop Hit 1m Viewership Mark,” _Straits Times_, 4 March 1986, 8. (From NewspaperSG)
 
 
-[^34]: 
+[^34]: Television Corporation of Singapore, “Triple Nine,” meWatch, 1995–99, https://www.mewatch.sg/season/Triple-Nine-S1-30870.
 
 
-[^35]: 
+[^35]: Television Corporation of Singapore, “Under One Roof,” meWatch, 1995–2003, https://www.mewatch.sg/show/Under-One-Roof-30458.
 
 
-[^36]: 
+[^36]: Television Corporation of Singapore, “Growing Up,” meWatch, 1996–2001, https://www.mewatch.sg/show/Growing-Up-27923.
 
 
-[^37]: 
+[^37]: MediaCorp, “Phua Chu Kang Pte Ltd,” meWatch, 1997–2007, https://www.mewatch.sg/show/Phua-Chu-Kang-Pte-Ltd-28085.
 
 
-[^38]: 
-
-
-[^39]: 
-
-
-[^40]:
