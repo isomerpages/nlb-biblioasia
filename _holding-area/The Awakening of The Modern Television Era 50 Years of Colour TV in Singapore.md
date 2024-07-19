@@ -120,9 +120,9 @@ Manufacturers are still trying to get consumers to upgrade their TVs though. Con
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/Yap_Jo_Lin-.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/Karazie.png">
 	<b>Mohamad Karazie</b> has been immersed in history since joining the National Archives of Singapore as an Archivist in 2021. He has a deep passion for Singapore history and shares its stories across various platforms.<br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/Yap_Jo_Lin-.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/TanJieLing.png">
 	<b>Tan Jie Ling</b> is a Senior Manager with the Audio Visual Archives department at the National Archives of Singapore. A TV addict who loves the power of television, she is happy to be part of the department that collects, preserves and facilitates access to the nation’s audio-visual memories.</div>
 
 #### **Notes**
