@@ -83,6 +83,9 @@ After the match, RTS reverted to monochrome programme with the promise that the 
 
 Most dealers and renters also reported that they had run out of stock of colour TVs, with one agent telling the _Straits Times_ that he had a “waiting list of a few hundred customers”. “Because the orders just poured in, we cannot handle them straight away,” he said. Fortunately, those without colour TVs could watch the parade from any of the 26-inch colour TV at 63 community centres.[^23]
 
+![](/images/Vol%2020%20Issue%203/Colour%20TV/tv_residents.jpg)
+<div style="background-color: white;">Residents watching television at a community centre, 1982. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 #### **The Formative Years**
 
 While the West Germany–Holland match was the first colour broadcast, it was only a pilot. Officially, colour broadcasting in Singapore began on 1 August 1974, starting with the programme _Anatomy of a Parade_ on Channel 5 at 7.40 pm.[^24] This was a Malay documentary showing behind-the-scenes footage of people preparing for the upcoming National Day Parade.[^25] The same programme was subsequently televised on different days in English, Chinese and Tamil.[^26]
