@@ -20,6 +20,11 @@ One factor that made watching these actors, and these shows, so enjoyable was so
 
 Singapore first began broadcasting in colour in 1974, just 11 years after television itself made its debut here. Culture Minister S. Rajaratnam was the first person to appear on national TV when he launched Television Singapura at the Victoria Memorial Hall on 15 February 1963.
 
+
+![](/images/Vol%2020%20Issue%203/Colour%20TV/tv_rajaratnam.jpg)
+<div style="background-color: white;">Minister for Culture S. Rajaratnam became the first person to appear on national TV when he launched Television Singapura at the Victoria Memorial Hall on 15 February 1963. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
+
 Between 1963 and 1974, all TV programmes in Singapore were broadcast in black and white. There was, however, a global move to shift away from monochrome to colour, and Singapore did not want to be left behind.
 
 “The advent of colour television places Singapore amongst many of the highly developed countries in the West and Asia,” said Lim Hock Poh, president of the Radio and Electrical Traders Association of Singapore (RETAS) at the Colourvision &amp; Sound Exhibition held at the National Stadium in August 1974. “It not only reflects our capability in adapting to modern telecommunications but also signifies our advanced technological knowledge.”[^5]&nbsp;
