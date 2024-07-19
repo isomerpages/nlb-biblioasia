@@ -127,18 +127,18 @@ Manufacturers are still trying to get consumers to upgrade their TVs though. Con
 
 #### **Notes**
 
-[^1]:  Singapore Broadcasting Corporation, “The Flying Fish,” 1983, video. (From National Archives of Singapore, accession no. 1997003198)
+[^1]:  Singapore Broadcasting Corporation, “[The Flying Fish](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/48b0b402-1164-11e3-83d5-0050568939ad),” 1983, video. (From National Archives of Singapore, accession no. 1997003198)
 
-[^2]: Singapore Broadcasting Corporation, “The Army Series,” 1983, video. (From National Archives of Singapore, accession no. 1997003216)&nbsp;
-
-
-[^3]: Singapore Broadcasting Corporation, “The Awakening,” 1984, video. (From National Archives of Singapore, accession no. 2016006948) &nbsp;
+[^2]: Singapore Broadcasting Corporation, “[The Army Series](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/48b21ad4-1164-11e3-83d5-0050568939ad),” 1983, video. (From National Archives of Singapore, accession no. 1997003216)&nbsp;
 
 
-[^4]: Singapore Broadcasting Corporation, “Samsui Women,” 1986, video. (From National Archives of Singapore, accession no. 1997008888)
+[^3]: Singapore Broadcasting Corporation, “[The Awakening](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/d10ba255-2e23-11e6-b4c5-0050568939ad),” 1984, video. (From National Archives of Singapore, accession no. 2016006948) &nbsp;
 
 
-[^5]: “The Big, Big Show...,” _New Nation_, 3 August 1974, 4. (From NewspaperSG)
+[^4]: Singapore Broadcasting Corporation, “[Samsui Women](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/4a790883-1164-11e3-83d5-0050568939ad),” 1986, video. (From National Archives of Singapore, accession no. 1997008888)
+
+
+[^5]: “[The Big, Big Show...](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19740803-1.2.21.1),” _New Nation_, 3 August 1974, 4. (From NewspaperSG)
 
 
 [^6]: Gwen Pew, “Time Out Singapore: ‘50 Years of Television’ Preview,” 21 January 2014, https://gwenpew.com/2014/01/21/tos-50-years-of-television/.
@@ -147,16 +147,16 @@ Manufacturers are still trying to get consumers to upgrade their TVs though. Con
 [^7]: “Sierra 222 CTV 26 Colour Television Console Clad in a Hardwood Frame,” 1974, photograph, National Museum of Singapore Collection, https://www.roots.gov.sg/Collection-Landing/listing/1170380.
 
 
-[^8]: “Sale of Colour TV Sets Jumps to New High,” _Straits Times_, 3 July 1974, 13. (From NewspaperSG)&nbsp;
+[^8]: “[Sale of Colour TV Sets Jumps to New High](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740703-1.2.76),” _Straits Times_, 3 July 1974, 13. (From NewspaperSG)&nbsp;
 
 
 [^9]: Irene Chee, interview, 2 June 2024.
 
 
-[^10]: “Sale of Colour TV Sets Jumps to New High.”
+[^10]: “[Sale of Colour TV Sets Jumps to New High](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740703-1.2.76).”
 
 
-[^11]: Ujagar Singh, oral history interview by Patricia Lee, 13 March 2003, MP3 audio, Reel/Disc 4 of 15, National Archives of Singapore (accession no. 002748), 19:29.&nbsp;
+[^11]: [Ujagar Singh](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/4b9ed877-115f-11e3-83d5-0050568939ad?keywords=colour%20tv&amp;keywords-type=all), oral history interview by Patricia Lee, 13 March 2003, MP3 audio, Reel/Disc 4 of 15, National Archives of Singapore ([accession no. 002748](https://safe.menlosecurity.com/https:/www.nas.gov.sg/archivesonline/oral_history_interviews/interview/002748)), 19:29.&nbsp;
 
 
 [^12]: Bailyne Sung, “RTS Buys $2m Colour TV Equipment,” _Straits Times_, 3 February 1974, 7. (From NewspaperSG)
