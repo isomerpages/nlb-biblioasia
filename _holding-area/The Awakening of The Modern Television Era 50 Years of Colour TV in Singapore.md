@@ -170,25 +170,25 @@ Manufacturers are still trying to get consumers to upgrade their TVs though. Con
 [^14]: Philip Tay Joo Thong, oral history interview by Denise Ng, 23 September 2015, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/a/a694b6f0-7e10-11e5-ac2a-0050568939ad-OHC003862_006/web/html5/index.html) and MP3 audio, Reel/Disc 6 of 16, National Archives of Singapore ([accession no. 003862](https://safe.menlosecurity.com/https:/www.nas.gov.sg/archivesonline/oral_history_interviews/interview/003862)), 121–22.
 
 
-[^15]: “Republic All Set for Colour Television Soon.”
+[^15]: “[Republic All Set for Colour Television Soon](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19740325-1.2.42.1?qt=colour,%20television&amp;q=colour%20television).”
 
 
-[^16]: Mun Chor Seng, oral history interview by Patricia Lee, 26 December 2001, transcript and MP3 audio, Reel/Disc 12 of 15, National Archives of Singapore (accession no. 002582), 209.
+[^16]: Mun Chor Seng, oral history interview by Patricia Lee, 26 December 2001, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/4/4f14e6ae-1161-11e3-83d5-0050568939ad-OHC002582_012/web/html5/index.html) and MP3 audio, Reel/Disc 12 of 15, National Archives of Singapore ([accession no. 002582](https://safe.menlosecurity.com/https:/www.nas.gov.sg/archivesonline/oral_history_interviews/interview/002582)), 209.
 
 
-[^17]: “The Big, Big Show...”; “Show to Let You in on Colour TV,” _Straits Times_, 13 May 1974, 9; “Colour TV Tuition at Show,” _Straits Times_, 19 July 1974, 24. (From NewspaperSG); Radio &amp; Electrical Traders Association, _Colourvision &amp; Sound Exhibition 7_4 (Singapore: Forces Publications, 1974). (From National Library Online)
-
-
-
-[^18]: “World Cup Final in Colour,” _Straits Times_, 29 June 1974, 1. (From NewspaperSG)
+[^17]: “[The Big, Big Show...](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19740803-1.2.21.1)”; “[Show to Let You in on Colour TV](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740513-1.2.51),” _Straits Times_, 13 May 1974, 9; “[Colour TV Tuition at Show](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740719-1.2.108),” _Straits Times_, 19 July 1974, 24. (From NewspaperSG); Radio &amp; Electrical Traders Association, [_Colourvision &amp; Sound Exhibition 74_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=612d9f25-61dc-4a67-a99e-40f22e368255) (Singapore: Forces Publications, 1974). (From National Library Online)
 
 
 
-[^19]: “CCs to Have Colour TV, Says Jek,” _New Nation_, 29 June 1974, 3. (From NewspaperSG)
+[^18]: “[World Cup Final in Colour](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740629-1.2.3),” _Straits Times_, 29 June 1974, 1. (From NewspaperSG)
 
 
 
-[^20]: “Hotels to Show World Cup Final Telecast in Colour,” _Straits Times_, 7 July 1974, 8. (From NewspaperSG)
+[^19]: “[CCs to Have Colour TV, Says Jek](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19740629-1.2.15.8),” _New Nation_, 29 June 1974, 3. (From NewspaperSG)
+
+
+
+[^20]: “[Hotels to Show World Cup Final Telecast in Colour](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740707-1.2.75),” _Straits Times_, 7 July 1974, 8. (From NewspaperSG)
 
 
 
