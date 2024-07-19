@@ -12,7 +12,7 @@ Starting from the 1980s, the Singapore Broadcasting Corporation (SBC) – the pr
 
 
 ![](/images/Vol%2020%20Issue%201/Singapore%20Speedway/Image0.png)
-<div style="background-color: white;"><i>The Awakening</i> (1984)was a hugely popular Mandarin drama series about the trials and tribulations of Singapore’s early Chinese immigrants in the 19th century. <i>Courtesy of Mediacorp Pte Ltd.</i></div>
+<div style="background-color: white;"><i>The Awakening</i> (1984) was a hugely popular Mandarin drama series about the trials and tribulations of Singapore’s early Chinese immigrants in the 19th century. <i>Courtesy of Mediacorp Pte Ltd.</i></div>
 
 
 Apart from their high production values and compelling storylines, what made these SBC dramas so addictive were the actors themselves. Blessed with talent, youth and good looks, Channel 8 stars like Xiang Yun, Huang Wenyong, Edmund Chen and Li Nanxing, and later, Zoe Tay and Fann Wong, dominated the small screen. In the process, they became local royalty.
