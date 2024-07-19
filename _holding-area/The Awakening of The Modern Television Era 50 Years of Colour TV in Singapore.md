@@ -96,6 +96,10 @@ As a government body, RTS produced mainly educational and informational programm
 
 School debate finals were one of the programmes produced by RTS. The first debate televised in colour was between National Junior College and Hwa Chong Junior College in 1975, and the topic was “That parents who send their children overseas for a secondary education are doing irreparable harm to their children”. National Junior College, who opposed the motion, won the debate.[^29]
 
+
+![](/images/Vol%2020%20Issue%203/Colour%20TV/tv_debate.jpg)
+<div style="background-color: white;">A screen grab from the debate final between National Junior College and Hwa Chong Junior College in 1975. <i>Mediacorp Pte Ltd, courtesy of National Archives of Singapore.</i></div>
+
 RTS also regularly produced documentaries about Singapore. One of these was _On the Spot_, a 1976 series that showcased different parts of Singapore. Episode 12 of the series featured Singapore’s parks and also local singers from different ethnic backgrounds singing in the parks. Performers included singer and composer Michael Isaac, Malay singer and entertainer Kartina Dahari and popular Mandarin singer Wu Jing Xian (吴静娴).[^30]
 
 ![](/images/Vol%2020%20Issue%203/Colour%20TV/tv_coffeeshop.jpg)
