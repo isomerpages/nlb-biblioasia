@@ -159,15 +159,15 @@ Manufacturers are still trying to get consumers to upgrade their TVs though. Con
 [^11]: [Ujagar Singh](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/4b9ed877-115f-11e3-83d5-0050568939ad?keywords=colour%20tv&amp;keywords-type=all), oral history interview by Patricia Lee, 13 March 2003, MP3 audio, Reel/Disc 4 of 15, National Archives of Singapore ([accession no. 002748](https://safe.menlosecurity.com/https:/www.nas.gov.sg/archivesonline/oral_history_interviews/interview/002748)), 19:29.&nbsp;
 
 
-[^12]: Bailyne Sung, “RTS Buys $2m Colour TV Equipment,” _Straits Times_, 3 February 1974, 7. (From NewspaperSG)
+[^12]: Bailyne Sung, “[RTS Buys $2m Colour TV Equipment](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740203-1.2.34),” _Straits Times_, 3 February 1974, 7. (From NewspaperSG)
 
 
 
-[^13]: “Republic All Set for Colour Television Soon,” _New Nation_, 25 March 1974, 13. (From NewspaperSG)&nbsp;
+[^13]: “[Republic All Set for Colour Television Soon](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19740325-1.2.42.1?qt=colour,%20television&amp;q=colour%20television),” _New Nation_, 25 March 1974, 13. (From NewspaperSG)&nbsp;
 
 
 
-[^14]: Philip Tay Joo Thong, oral history interview by Denise Ng, 23 September 2015, transcript and MP3 audio, Reel/Disc 6 of 16, National Archives of Singapore (accession no. 003862), 121–22.
+[^14]: Philip Tay Joo Thong, oral history interview by Denise Ng, 23 September 2015, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/a/a694b6f0-7e10-11e5-ac2a-0050568939ad-OHC003862_006/web/html5/index.html) and MP3 audio, Reel/Disc 6 of 16, National Archives of Singapore ([accession no. 003862](https://safe.menlosecurity.com/https:/www.nas.gov.sg/archivesonline/oral_history_interviews/interview/003862)), 121–22.
 
 
 [^15]: “Republic All Set for Colour Television Soon.”
