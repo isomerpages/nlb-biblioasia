@@ -10,8 +10,7 @@ By Mohamad Karazie and Tan Jie Ling
 
 Starting from the 1980s, the Singapore Broadcasting Corporation (SBC) – the precursor to today’s Mediacorp – began churning out highly popular local TV dramas in Mandarin. Shows like _The Flying Fish_ (小飞鱼; 1983),[^1] _The Army Series_ (新兵小传; 1983)[^2] and _The Awakening_ (雾锁南洋; 1984)[^3] became massive hits for the state broadcaster.
 
-
-![](/images/Vol%2020%20Issue%201/Singapore%20Speedway/Image0.png)
+![](/images/Vol%2020%20Issue%203/Colour%20TV/tv_awakening.jpg)
 <div style="background-color: white;"><i>The Awakening</i> (1984) was a hugely popular Mandarin drama series about the trials and tribulations of Singapore’s early Chinese immigrants in the 19th century. <i>Courtesy of Mediacorp Pte Ltd.</i></div>
 
 
