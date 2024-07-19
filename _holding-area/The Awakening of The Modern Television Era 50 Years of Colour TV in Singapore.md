@@ -36,6 +36,10 @@ The introduction of colour TV sets in May 1974 initially did not attract much en
 
 The highly anticipated match sparked a buying frenzy in colour TV sets, with 2,000 units sold the day before the match. One of the first colour TVs available in Singapore was the Sierra 22 CTV 26 console encased within a hardwood frame. Imported from Holland, it cost around $2,400, a considerable amount of money given that the average monthly salary was between $300 and $500 in the 1970s.[^7] The price did not seem to be a major hindrance though. “We don’t seem to be able to supply sets fast enough to the dealers,” said Song Choo Chai, managing director of Asia Radio, the sole agent for Sierra.[^8]
 
+![](/images/Vol%2020%20Issue%203/Colour%20TV/tv_sierra.jpg)
+<div style="background-color: white;">A Sierra 222 CTV 26 colour television console clad in a hardwood frame. It cost $2,390 to purchase this in June 1974. <i>Collection of the National Museum of Singapore, National Heritage Board. Gift of Dr and Mrs Lim Kim Leong,</i></div>
+
+
 Among those who enjoyed their new colour Sierra TV was mother of two Irene Chee, whose husband had bought a set in the mid-1970s. “I was initially watching a Hong Kong Cantonese period drama in black and white,” she recalled. “After we bought the colour TV, the show became so much more enjoyable. I was amazed to see that the emperor’s robes were in a bright yellow, and the attire of the empress and concubines were in various shades of brilliant colours.” The Sierra served her well for a good 20 years, and after that she used it as a display for photo frames and other ornaments.[^9]
 
 ![](/images/Vol%2020%20Issue%203/Colour%20TV/tv_veronica.jpg)
