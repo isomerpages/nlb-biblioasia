@@ -60,15 +60,26 @@ In August 1974, RETAS organised the 10-day Colourvision &amp; Sound Exhibition a
 
 No stone was left unturned ahead of the debut of colour TV at the 1974 World Cup final held in Munich.[^18] Before the match, the main community centres in all 65 constituencies across Singapore had colour TV sets installed. “It will be an exciting experience to view the World Cup Soccer final in colour,” said Culture Minister Jek Yeun Thong in an interview with the _New Nation_.[^19]
 
+
+![](/images/Vol%2020%20Issue%203/Colour%20TV/tv_tour.jpg)
+<div style="background-color: white;">Minister for Culture Jek Yeun Thong on a tour of Radio and Television Singapore’s colour television studios, 1974. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore. </i></div>
+
+
+
 Several hotels also jumped on the bandwagon by screening the match on their premises. The Shangri-La had about 30 colour TV sets in its Island Ballroom, which had a seating capacity of 600. Admission was free but people had to pay for refreshments. The Mandarin Hotel had nine TV sets and also two screens at the Kasbah, the Pine Court and the Clipper Bar, with the first round of drinks served at $5. Nanyang University set up three colour TVs at its Union House, canteen and library.[^20]
 
 Even coffeeshops joined in the soccer mania. “I don’t understand much about football but every time there is a match over television I have more customers,” said the owner of a roadside coffee stall in Chinatown who had a TV set.[^21] The much-anticipated match saw host West Germany beating Holland by a narrow margin of 2–1.[^22]
 
 After the match, RTS reverted to monochrome programme with the promise that the upcoming National Day Parade would be broadcast in colour. The live telecast of the parade in colour sparked another mad dash to snap up colour TV sets. In fact, the demand was described by dealers as “better than the rush for colour sets just before last month’s World Cup soccer final”.&nbsp;
 
+
+![](/images/Vol%2020%20Issue%203/Colour%20TV/tv_rajaratnam.jpg)
+<div style="background-color: white;">A screen grab from the 1974 National Day Parade, which was televised live in colour. <i>Image from “National Day Parade 1974,” 9 August 1974, video, 59:13. (From National Archives of Singapore accession no. 1997002509). Mediacorp Pte Ltd, courtesy of National Archives of Singapore.</i></div>
+
+
 Most dealers and renters also reported that they had run out of stock of colour TVs, with one agent telling the _Straits Times_ that he had a “waiting list of a few hundred customers”. “Because the orders just poured in, we cannot handle them straight away,” he said. Fortunately, those without colour TVs could watch the parade from any of the 26-inch colour TV at 63 community centres.[^23]
 
-The Formative Years&nbsp;
+#### **The Formative Years**
 
 While the West Germany–Holland match was the first colour broadcast, it was only a pilot. Officially, colour broadcasting in Singapore began on 1 August 1974, starting with the programme _Anatomy of a Parade_ on Channel 5 at 7.40 pm.[^24] This was a Malay documentary showing behind-the-scenes footage of people preparing for the upcoming National Day Parade.[^25] The same programme was subsequently televised on different days in English, Chinese and Tamil.[^26]
 
@@ -83,6 +94,10 @@ RTS also regularly produced documentaries about Singapore. One of these was _On 
 Singapore’s homemade programmes kicked up a notch when the SBC was formed on 1 February 1980, following the corporatisation of RTS. Armed with a more commercial drive, and a bigger budget for drama production, the quality and quantity of local programmes improved significantly. Local dramas, especially Chinese dramas, flourished.&nbsp;
 
 _Seletar Robbery_ (实里达大劫案; 1982) is the first Mandarin drama to be produced by SBC and laid the foundation for future well-regarded productions like _The Awakening_ and _The Coffee Shop_ (咖啡乌; 1985–86).[^31] _Seletar Robbery_ was based on an actual case where about $300,000 had been stolen from a construction site at Seletar Reservoir.[^32]
+
+![](/images/Vol%2020%20Issue%203/Colour%20TV/tv_coffeeshop.jpg)
+<div style="background-color: white;"> A screen grab from <i>The Coffee Shop</i> (咖啡乌), which aired from 16 December 1985 to 4 February 1986, and became the first Mandarin TV serial to pass the one million viewership mark. The story revolves around the lives of ordinary Singaporeans living in housing estates. <i>Courtesy of Mediacorp Pte Ltd.</i></div>
+
 
 Subsequently, _The Coffee Shop_, which aired from 16 December 1985 to 4 February 1986, became the first Mandarin TV serial to pass the one million viewership mark with 1,123,000 adult viewers. The story revolves around the lives of ordinary Singaporeans living in housing estates, depicting their joys, sorrows and aspirations. Previously, the records had been held by Hong Kong Cantonese serials, _Man in the Net_ (网中人; 1980) and _Chameleon_ (网中人; 1981).[^33]
 
