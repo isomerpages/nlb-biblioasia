@@ -10,6 +10,11 @@ By Mohamad Karazie and Tan Jie Ling
 
 Starting from the 1980s, the Singapore Broadcasting Corporation (SBC) – the precursor to today’s Mediacorp – began churning out highly popular local TV dramas in Mandarin. Shows like _The Flying Fish_ (小飞鱼; 1983),[^1] _The Army Series_ (新兵小传; 1983)[^2] and _The Awakening_ (雾锁南洋; 1984)[^3] became massive hits for the state broadcaster.
 
+
+![](/images/Vol%2020%20Issue%201/Singapore%20Speedway/Image0.png)
+<div style="background-color: white;"><i>The Awakening</i> (1984)was a hugely popular Mandarin drama series about the trials and tribulations of Singapore’s early Chinese immigrants in the 19th century. <i>Courtesy of Mediacorp Pte Ltd.</i></div>
+
+
 Apart from their high production values and compelling storylines, what made these SBC dramas so addictive were the actors themselves. Blessed with talent, youth and good looks, Channel 8 stars like Xiang Yun, Huang Wenyong, Edmund Chen and Li Nanxing, and later, Zoe Tay and Fann Wong, dominated the small screen. In the process, they became local royalty.
 
 One factor that made watching these actors, and these shows, so enjoyable was something that we take completely for granted today: everything was in colour. _The Awakening_ or _Samsui Women_ (红头巾; 1986)[^4] would have been much less compelling in black-and-white. It is quite remarkable that it took a mere decade after colour TV came to Singapore for SBC to produce television programmes that people would eagerly consume week after week.
