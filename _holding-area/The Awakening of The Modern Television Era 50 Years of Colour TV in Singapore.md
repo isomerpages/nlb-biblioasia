@@ -25,6 +25,9 @@ Singapore first began broadcasting in colour in 1974, just 11 years after televi
 <div style="background-color: white;">Minister for Culture S. Rajaratnam became the first person to appear on national TV when he launched Television Singapura at the Victoria Memorial Hall on 15 February 1963. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 
+![](/images/Vol%2020%20Issue%203/Colour%20TV/tv_crowd.jpg)
+<div style="background-color: white;">Crowds gathering outside the Victoria Memorial Hall for the inauguration of Television Singapura on 15 February 1963. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 Between 1963 and 1974, all TV programmes in Singapore were broadcast in black and white. There was, however, a global move to shift away from monochrome to colour, and Singapore did not want to be left behind.
 
 “The advent of colour television places Singapore amongst many of the highly developed countries in the West and Asia,” said Lim Hock Poh, president of the Radio and Electrical Traders Association of Singapore (RETAS) at the Colourvision &amp; Sound Exhibition held at the National Stadium in August 1974. “It not only reflects our capability in adapting to modern telecommunications but also signifies our advanced technological knowledge.”[^5]&nbsp;
@@ -36,7 +39,7 @@ The highly anticipated match sparked a buying frenzy in colour TV sets, with 2,0
 Among those who enjoyed their new colour Sierra TV was mother of two Irene Chee, whose husband had bought a set in the mid-1970s. “I was initially watching a Hong Kong Cantonese period drama in black and white,” she recalled. “After we bought the colour TV, the show became so much more enjoyable. I was amazed to see that the emperor’s robes were in a bright yellow, and the attire of the empress and concubines were in various shades of brilliant colours.” The Sierra served her well for a good 20 years, and after that she used it as a display for photo frames and other ornaments.[^9]
 
 ![](/images/Vol%2020%20Issue%203/Colour%20TV/tv_veronica.jpg)
-<div style="background-color: white;">Irene Chee's daughters,  Veronica (right) and Su, posing in front of their Sierra colour television console, 1979. <i>Courtesy of Mrs Irene Chee. </i></div>
+<div style="background-color: white;">Irene Chee's daughters, Veronica (right) and Su, posing in front of their Sierra colour television console, 1979. <i>Courtesy of Mrs Irene Chee. </i></div>
 
 
 Besides the sale of colour TVs, there was also a sharp rise in the number of TV rentals. A Rediffusion spokesman told the _Straits Times_ that those “who \[could not\] afford to pay $2,000 or so to buy a set, agreed to rent sets, although contracts \[had\] to be on a yearly basis”.[^10]
