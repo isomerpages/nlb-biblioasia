@@ -35,6 +35,10 @@ The highly anticipated match sparked a buying frenzy in colour TV sets, with 2,0
 
 Among those who enjoyed their new colour Sierra TV was mother of two Irene Chee, whose husband had bought a set in the mid-1970s. “I was initially watching a Hong Kong Cantonese period drama in black and white,” she recalled. “After we bought the colour TV, the show became so much more enjoyable. I was amazed to see that the emperor’s robes were in a bright yellow, and the attire of the empress and concubines were in various shades of brilliant colours.” The Sierra served her well for a good 20 years, and after that she used it as a display for photo frames and other ornaments.[^9]
 
+![](/images/Vol%2020%20Issue%203/Colour%20TV/tv_veronica.jpg)
+<div style="background-color: white;">Irene Chee's daughters,  Veronica (right) and Su, posing in front of their Sierra colour television console, 1979. <i>Courtesy of Mrs Irene Chee. </i></div>
+
+
 Besides the sale of colour TVs, there was also a sharp rise in the number of TV rentals. A Rediffusion spokesman told the _Straits Times_ that those “who \[could not\] afford to pay $2,000 or so to buy a set, agreed to rent sets, although contracts \[had\] to be on a yearly basis”.[^10]
 
 #### **Preparing for Colour TV**
