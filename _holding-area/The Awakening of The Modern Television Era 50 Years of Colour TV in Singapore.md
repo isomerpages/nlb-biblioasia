@@ -95,17 +95,25 @@ Singapore’s homemade programmes kicked up a notch when the SBC was formed on 1
 
 _Seletar Robbery_ (实里达大劫案; 1982) is the first Mandarin drama to be produced by SBC and laid the foundation for future well-regarded productions like _The Awakening_ and _The Coffee Shop_ (咖啡乌; 1985–86).[^31] _Seletar Robbery_ was based on an actual case where about $300,000 had been stolen from a construction site at Seletar Reservoir.[^32]
 
+Subsequently, _The Coffee Shop_, which aired from 16 December 1985 to 4 February 1986, became the first Mandarin TV serial to pass the one million viewership mark with 1,123,000 adult viewers. The story revolves around the lives of ordinary Singaporeans living in housing estates, depicting their joys, sorrows and aspirations. Previously, the records had been held by Hong Kong Cantonese serials, _Man in the Net_ (网中人; 1980) and _Chameleon_ (网中人; 1981).[^33]
+
 ![](/images/Vol%2020%20Issue%203/Colour%20TV/tv_coffeeshop.jpg)
 <div style="background-color: white;"> A screen grab from <i>The Coffee Shop</i> (咖啡乌), which aired from 16 December 1985 to 4 February 1986, and became the first Mandarin TV serial to pass the one million viewership mark. The story revolves around the lives of ordinary Singaporeans living in housing estates. <i>Courtesy of Mediacorp Pte Ltd.</i></div>
 
-
-Subsequently, _The Coffee Shop_, which aired from 16 December 1985 to 4 February 1986, became the first Mandarin TV serial to pass the one million viewership mark with 1,123,000 adult viewers. The story revolves around the lives of ordinary Singaporeans living in housing estates, depicting their joys, sorrows and aspirations. Previously, the records had been held by Hong Kong Cantonese serials, _Man in the Net_ (网中人; 1980) and _Chameleon_ (网中人; 1981).[^33]
 
 Of course, merely showing something in colour was not a guarantee of success, no matter how good-looking the cast. The public reception to early local TV drama productions in English is a case in point. Some, like _Masters of the Sea_ (1994) and _VR Man_ (1998) were embarrassing flops. Others like _Triple Nine_ (1995–99),[^34] _Under One Roof_ (1995–2003)[^35] and _Growing Up_ (1996–2001)[^36] were genuine hits.&nbsp;
 
 Perhaps the most popular of them all was _Phua Chu Kang Pte Ltd_ (1997–2007), a sitcom starring Gurmit Singh and Irene Ang.[^37] Centred around a Singlish-speaking general contractor with permed hair, a prominent facial mole and trademark yellow boots, and who boasts that he is “the best in Singapore, JB, and some say Batam”, the show lasted eight seasons – attesting to its popularity.
 
+![](/images/Vol%2020%20Issue%203/Colour%20TV/tv_pck.jpg)
+<div style="background-color: white;"> A screen grab from <i>The Coffee Shop</i> (咖啡乌), which aired from 16 December 1985 to 4 February 1986, and became the first Mandarin TV serial to pass the one million viewership mark. The story revolves around the lives of ordinary Singaporeans living in housing estates. <i>Courtesy of Mediacorp Pte Ltd.</i></div>
+
+
 In many ways, the television industry is very different today from the early days of the 1970s and 1980s. The state broadcaster Mediacorp continues to produce local programmes, but it now has to compete for time and attention with computer games, social media and YouTube. People are still watching television but there is a universe of choice now, thanks to streaming giants like Netflix, Disney+ and Amazon Prime. TV sets themselves have changed. No longer boxy appliances housed in wooden cabinetry, these days, large, flat and slick screen TVs are mounted on walls.&nbsp;
+
+![](/images/Vol%2020%20Issue%203/Colour%20TV/tv_glowingup.jpg)
+<div style="background-color: white;"> A screen grab from <i>The Coffee Shop</i> (咖啡乌), which aired from 16 December 1985 to 4 February 1986, and became the first Mandarin TV serial to pass the one million viewership mark. The story revolves around the lives of ordinary Singaporeans living in housing estates. <i>Courtesy of Mediacorp Pte Ltd.</i></div>
+
 
 Manufacturers are still trying to get consumers to upgrade their TVs though. Consumers are constantly being seduced by ever larger screens that display impossibly sharp images. At the same time, these companies are also investing in technology that produces colours brighter and more vivid than ever before. Demo sets in electronics stores show luscious images in hyper-realistic colours running on a loop. The promise of a world of better colour continues to beckon.
 
