@@ -102,8 +102,8 @@ School debate finals were one of the programmes produced by RTS. The first debat
 
 RTS also regularly produced documentaries about Singapore. One of these was _On the Spot_, a 1976 series that showcased different parts of Singapore. Episode 12 of the series featured Singapore’s parks and also local singers from different ethnic backgrounds singing in the parks. Performers included singer and composer Michael Isaac, Malay singer and entertainer Kartina Dahari and popular Mandarin singer Wu Jing Xian (吴静娴).[^30]
 
-![](/images/Vol%2020%20Issue%203/Colour%20TV/tv_coffeeshop.jpg)
-<div style="background-color: white;"> A screen grab from&nbsp;<i>On the Spot</i>, a series showcasing different parts of Singapore. Episode 12 featured Singapore’s parks. <i>_Mediacorp Pte Ltd, courtesy of National Archives of Singapore._</i></div>
+![](/images/Vol%2020%20Issue%203/Colour%20TV/tv_onthespot.jpg)
+<div style="background-color: white;"> A screen grab from&nbsp;<i>On the Spot</i>, a series showcasing different parts of Singapore. Episode 12 featured Singapore’s parks. <i>Mediacorp Pte Ltd, courtesy of National Archives of Singapore.</i></div>
 
 
 Singapore’s homemade programmes kicked up a notch when the SBC was formed on 1 February 1980, following the corporatisation of RTS. Armed with a more commercial drive, and a bigger budget for drama production, the quality and quantity of local programmes improved significantly. Local dramas, especially Chinese dramas, flourished.&nbsp;
