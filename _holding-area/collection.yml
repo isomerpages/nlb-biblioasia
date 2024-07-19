@@ -2,8 +2,8 @@ collections:
   holding-area:
     output: true
     order:
-      - The Awakening of The Modern Television Era 50 Years of Colour TV in
-        Singapore.md
+      - "The Awakening of The Modern Television Era: 50 Years of Colour TV in
+        Singapore.md"
       - Singapore’s Pioneer Cartoonists.md
       - Example Title.md
       - Test2.md
