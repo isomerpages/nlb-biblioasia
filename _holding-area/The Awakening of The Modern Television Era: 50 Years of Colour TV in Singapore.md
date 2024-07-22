@@ -126,7 +126,7 @@ Of course, merely showing something in colour was not a guarantee of success, no
 
 Perhaps the most popular of them all was _Phua Chu Kang Pte Ltd_ (1997–2007), a sitcom starring Gurmit Singh and Irene Ang.[^37] Centred around a Singlish-speaking general contractor with permed hair, a prominent facial mole and trademark yellow boots, and who boasts that he is “the best in Singapore, JB, and some say Batam”, the show lasted eight seasons – attesting to its popularity.
 
-![](/images/Vol%2020%20Issue%203/Colour%20TV/tv_pck.jpg)
+![](/images/Vol%2020%20Issue%203/Colour%20TV/tv_pck2.jpg)
 <div style="background-color: white;"> <i>Phua Chu Kang Pte Ltd</i> – about an uncouth contractor and his family – was Singapore’s longest-running English-language sitcom, airing from 1997 to 2007. <i>Courtesy of Mediacorp Pte Ltd.</i></div>
 
 
