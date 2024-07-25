@@ -21,3 +21,7 @@ Radio and Television Singapore, “[National Day Parade (1)](https://www.nas.gov
 <br>
 <img src="/images/Online%20Only%20Articles/Colour%20TV%20Programmes%20on%20NAS/NDP_Screenshotv1.png" style="width: 55%;">
 A screen grab from the 1974 National Day Parade, which was televised live in colour.<i> Mediacorp Pte Ltd, courtesy of National Archives of Singapore.</i></div><br>
+
+Radio and Television Singapore, “[National Day Parade (2)](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/487c7000-1164-11e3-83d5-0050568939ad),” 9 August 1974, video, 49:02. (From National Archives of Singapore, accession no. 1997002510)
+
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/MSKljnnfgDQ" frameborder="0" allowfullscreen=""></iframe></div>
