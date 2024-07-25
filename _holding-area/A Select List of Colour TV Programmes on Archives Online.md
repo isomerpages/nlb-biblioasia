@@ -25,3 +25,7 @@ A screen grab from the 1974 National Day Parade, which was televised live in col
 Radio and Television Singapore, “[National Day Parade (2)](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/487c7000-1164-11e3-83d5-0050568939ad),” 9 August 1974, video, 49:02. (From National Archives of Singapore, accession no. 1997002510)
 
 <style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/MSKljnnfgDQ" frameborder="0" allowfullscreen=""></iframe></div>
+
+Radio and Television Singapore, “[On The Spot Ep 12](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/488064c8-1164-11e3-83d5-0050568939ad),” 15 June 1976, video, 54:58. (From National Archives of Singapore, accession no. 1997002562)
+
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/l08ZQKncU0Y" frameborder="0" allowfullscreen=""></iframe></div>
