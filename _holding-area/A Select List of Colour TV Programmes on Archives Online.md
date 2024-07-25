@@ -44,5 +44,3 @@ Singapore Broadcasting Corporation, “[The Awakening](https://www.nas.gov.sg/ar
 Singapore Broadcasting Corporation, “[The Flying Fish](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/48b0b402-1164-11e3-83d5-0050568939ad),” 1983, video, 43:17. (From National Archives of Singapore, accession no. 1997003198)
 
 Singapore Broadcasting Corporation, “[The Seletar Robbery](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/48b3d39e-1164-11e3-83d5-0050568939ad),” 25 July 1982, video, 49:46. (From National Archives of Singapore, accession no. 1997003239)
-	
-	
