@@ -5,6 +5,11 @@ description: ""
 third_nav_title: Arts
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/singapore-pioneer-cartoonists/">Singapore’s Pioneer Cartoonists</a>
+ <p>Cartoons today may be seen as kids’ stuff but many of the early cartoonists were ideologically motivated, and they drew cartoons to bring about social and political change.</p> 
+<img src="/images/Vol%2020%20Issue%203/Cartoonist/comic.jpg">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/yip-yew-chong-i-paint-my-singapore/">Memory, History, Art: Yip Yew Chong’s “I Paint my Singapore”</a>
 
 Yip Yew Chong’s 60-metre-long work, “I Paint my Singapore”, melds memories and research to produce stories about Singapore.
