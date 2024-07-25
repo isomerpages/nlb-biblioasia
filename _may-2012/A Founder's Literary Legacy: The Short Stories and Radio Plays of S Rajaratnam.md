@@ -118,5 +118,6 @@ An appraisal of his early writings puts in perspective his original contribution
 Indeed, Rajaratnam’s early writings add depth and distinction to our literary legacy and deserve to be read, celebrated, interpreted and reinterpreted. Yet, so few Singaporeans have read them. It seems not a little ironic that our students read works by Western authors with hardly any link to our social and cultural contexts, but not those of the country’s own founding leader, once recognised by the Western literary circles for producing among the greatest short stories in the world. One hopes this will soon change.
 
 
-<div>
+<div style="background-color: white;">
+<img style="width: 100px; height: 100px;" src="/images/Authors/irene.png">
 <b>Irene Ng</b> is a writer-in-residence at the Institute of Southeast Asian Studies and has been a Member of Parliament since 2001. She compiled and edited <i>The Short Stories and Radio Plays of S. Rajaratnam</i> (2011). She also wrote <i>The Singapore Lion: A Biography of S. Rajaratnam</i> (2010) and is currently writing the second volume of his biography.</div>
