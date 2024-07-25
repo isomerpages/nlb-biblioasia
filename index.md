@@ -33,7 +33,7 @@ sections:
         black-and-white TV to a colour TV. Then came the World Cup.
       button: A Colour Extravaganza
       url: /vol-20/issue-3/oct-dec-2024/colour-tv-history-singapore/
-      image: /images/Vol 20 Issue 3/Colour TV/tv_awakening.jpg
+      image: /images/Vol 20 Issue 3/Colour TV/awkening.jpg
       alt: Image alt text
   - infopic:
       title: Singapore’s Pioneer Cartoonists
