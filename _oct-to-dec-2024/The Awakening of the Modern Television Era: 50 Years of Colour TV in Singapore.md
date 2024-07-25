@@ -80,7 +80,7 @@ After the match, RTS reverted to monochrome programme with the promise that the 
 
 
 ![](/images/Vol%2020%20Issue%203/Colour%20TV/tv_screengrab.jpg)
-<div style="background-color: white;">A screen grab from the 1974 National Day Parade, which was televised live in colour. <i>Image from “National Day Parade 1974,” 9 August 1974, video, 59:13. (From National Archives of Singapore accession no. 1997002509). Mediacorp Pte Ltd, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;">A screen grab from the 1974 National Day Parade, which was televised live in colour. <i>Mediacorp Pte Ltd, courtesy of National Archives of Singapore.</i></div>
 
 
 Most dealers and renters also reported that they had run out of stock of colour TVs, with one agent telling the _Straits Times_ that he had a “waiting list of a few hundred customers”. “Because the orders just poured in, we cannot handle them straight away,” he said. Fortunately, those without colour TVs could watch the parade from any of the 26-inch colour TV at 63 community centres.[^23]
