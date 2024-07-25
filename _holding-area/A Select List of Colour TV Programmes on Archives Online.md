@@ -10,7 +10,7 @@ Radio and Television Singapore, “[Debate 1975 Finals – Hwa Chong Junior Coll
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Colour%20TV%20Programmes%20on%20NAS/Debate_final_screenshot.png" style="width: 55%;">
+<img src="/images/Online%20Only%20Articles/Colour%20TV%20Programmes%20on%20NAS/Debate_final_screenshot.png" style="width: 95%;">
 A screen grab from the debate final between National Junior College and Hwa Chong Junior College in 1975.<i> Mediacorp Pte Ltd, courtesy of National Archives of Singapore.</i></div><br>
 <style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/Uyh0bklWGsY" frameborder="0" allowfullscreen=""></iframe></div>
 
@@ -18,7 +18,7 @@ Radio and Television Singapore, “[National Day Parade (1)](https://www.nas.gov
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Colour%20TV%20Programmes%20on%20NAS/NDP_Screenshotv1.png" style="width: 55%;">
+<img src="/images/Online%20Only%20Articles/Colour%20TV%20Programmes%20on%20NAS/NDP_Screenshotv1.png" style="width: 95%;">
 A screen grab from the 1974 National Day Parade, which was televised live in colour.<i> Mediacorp Pte Ltd, courtesy of National Archives of Singapore.</i></div>
 
 Radio and Television Singapore, “[National Day Parade (2)](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/487c7000-1164-11e3-83d5-0050568939ad),” 9 August 1974, video, 49:02. (From National Archives of Singapore, accession no. 1997002510)
@@ -37,7 +37,7 @@ Singapore Broadcasting Corporation, “[The Awakening](https://www.nas.gov.sg/ar
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Colour%20TV%20Programmes%20on%20NAS/awkening.jpg" style="width: 55%;">
+<img src="/images/Online%20Only%20Articles/Colour%20TV%20Programmes%20on%20NAS/awkening.jpg" style="width: 95%;">
 	<i>The Awakening</i>&nbsp;(1984) was a hugely popular Mandarin drama series about the trials and tribulations of Singapore’s early Chinese immigrants in the 19th century.<i> Courtesy of Mediacorp Pte Ltd.</i></div>
 
 Singapore Broadcasting Corporation, “[The Flying Fish](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/48b0b402-1164-11e3-83d5-0050568939ad),” 1983, video, 43:17. (From National Archives of Singapore, accession no. 1997003198)
