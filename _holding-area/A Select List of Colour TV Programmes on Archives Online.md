@@ -39,4 +39,4 @@ Singapore Broadcasting Corporation, “[The Awakening](https://www.nas.gov.sg/ar
 <div style="background-color: white;">
 <br>
 <img src="/images/Online%20Only%20Articles/Colour%20TV%20Programmes%20on%20NAS/awkening.jpg" style="width: 55%;">
-A screen grab from the 1974 National Day Parade, which was televised live in colour.<i> Mediacorp Pte Ltd, courtesy of National Archives of Singapore.</i></div>
+	<i>The Awakening</i>&nbsp;(1984) was a hugely popular Mandarin drama series about the trials and tribulations of Singapore’s early Chinese immigrants in the 19th century.<i> Courtesy of Mediacorp Pte Ltd.</i></div>
