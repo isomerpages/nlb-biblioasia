@@ -1175,4 +1175,15 @@ sections:
       url: https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08
       alt: Greeting Card
       image: /images/Hari Raya Cards/hari raya greeting card.jpg
+  - infopic:
+      title: Singapore’s Pioneer Cartoonists
+      subtitle: Art
+      id: infopic
+      description: Cartoons today may be seen as kids’ stuff but some early
+        cartoonists were ideologically motivated, and drew cartoons to bring
+        about social and political change.
+      button: Drawn to Satire
+      url: /vol-20/issue-3/oct-dec-2024/singapore-pioneer-cartoonists/
+      image: /images/Vol 20 Issue 3/Cartoonist/comic.jpg
+      alt: Image alt text
 ---
