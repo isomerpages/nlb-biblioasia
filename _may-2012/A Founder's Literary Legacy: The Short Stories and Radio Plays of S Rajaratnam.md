@@ -91,8 +91,6 @@ His radio plays deserve greater study for their contribution to the idea of a Ma
 
 Through his writings at this seminal stage, one can trace the formation of Rajaratnam’s views on fundamental questions at a time of great moral and political confusion. They offer sharp insights into his values and ideals. The foundation of Singapore is built upon the rock-solid convictions of exceptional men like him.
 
-##### In his radio plays, there is a recurring message that says ”we can create the sort of nation that we want“. This is a discourse of reason, of civil argument and debate, one based on a relationship of trust and faith.
-
 One of his most important ideas was on Singapore’s national identity. He was keen to ensure that the younger generation shared his unhyphenated vision of a Singaporean Singapore, as opposed to a Singapore that is based on separate communal identities. He believed in the ability of Singaporeans to transcend their racial, cultural and religious classifications to create a shared national identity to which they give their primary loyalty. For him, this was an act of will and faith.
 
 #### **Importance**
@@ -120,5 +118,6 @@ An appraisal of his early writings puts in perspective his original contribution
 Indeed, Rajaratnam’s early writings add depth and distinction to our literary legacy and deserve to be read, celebrated, interpreted and reinterpreted. Yet, so few Singaporeans have read them. It seems not a little ironic that our students read works by Western authors with hardly any link to our social and cultural contexts, but not those of the country’s own founding leader, once recognised by the Western literary circles for producing among the greatest short stories in the world. One hopes this will soon change.
 
 
-<div>
+<div style="background-color: white;">
+<img style="width: 100px; height: 100px;" src="/images/Authors/irene.png">
 <b>Irene Ng</b> is a writer-in-residence at the Institute of Southeast Asian Studies and has been a Member of Parliament since 2001. She compiled and edited <i>The Short Stories and Radio Plays of S. Rajaratnam</i> (2011). She also wrote <i>The Singapore Lion: A Biography of S. Rajaratnam</i> (2010) and is currently writing the second volume of his biography.</div>

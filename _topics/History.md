@@ -4,6 +4,11 @@ permalink: /topics/history/
 variant: markdown
 description: ""
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/colour-tv-history-singapore/">The Awakening of the Modern Television Era</a>
+ <p>People weren’t particularly interested in&nbsp;upgrading their black-and-white TV to a colour TV. Then came the World Cup.</p> 
+<img src="/images/Vol%2020%20Issue%203/Colour%20TV/tv_awakening.jpg">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/history/2024/4/beer-brewing-production-brewery-singapore/">**A Long Time Brewing: The Story of Singapore’s Beer Industry**</a>
 
 From Tiger to craft beer, beer brewing in Singapore had a long and storied history.
@@ -52,7 +57,3 @@ From as many as 11 bus companies to just one bus operator by 1973.&nbsp;**Lee Me
 
 <img src="/images/Vol-13-issue-3/public-buses-in-singapore/01_publicbus.png" style="width:80%;">
 <hr>
-
-
-
-

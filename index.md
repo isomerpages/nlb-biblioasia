@@ -26,6 +26,27 @@ sections:
       image: /images/edm_strip_survey_homepage.jpg
       alt: Image alt text
   - infopic:
+      title: The Awakening of the Modern Television Era
+      subtitle: Film and Photography
+      id: infopic
+      description: People weren’t particularly interested in upgrading their
+        black-and-white TV to a colour TV. Then came the World Cup.
+      button: A Colour Extravaganza
+      url: /vol-20/issue-3/oct-dec-2024/colour-tv-history-singapore/
+      image: /images/Vol 20 Issue 3/Colour TV/tv_awakening.jpg
+      alt: Image alt text
+  - infopic:
+      title: Singapore’s Pioneer Cartoonists
+      subtitle: Art
+      id: infopic
+      description: Cartoons today may be seen as kids’ stuff but some early
+        cartoonists were ideologically motivated, and drew cartoons to bring
+        about social and political change.
+      button: Drawn to Satire
+      url: /vol-20/issue-3/oct-dec-2024/singapore-pioneer-cartoonists/
+      image: /images/Vol 20 Issue 3/Cartoonist/comic.jpg
+      alt: Image alt text
+  - infopic:
       title: "S. Rajaratnam: The Lion’s Roar"
       subtitle: People
       id: infopic
