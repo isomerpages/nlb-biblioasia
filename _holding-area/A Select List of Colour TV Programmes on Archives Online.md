@@ -40,3 +40,9 @@ Singapore Broadcasting Corporation, “[The Awakening](https://www.nas.gov.sg/ar
 <br>
 <img src="/images/Online%20Only%20Articles/Colour%20TV%20Programmes%20on%20NAS/awkening.jpg" style="width: 55%;">
 	<i>The Awakening</i>&nbsp;(1984) was a hugely popular Mandarin drama series about the trials and tribulations of Singapore’s early Chinese immigrants in the 19th century.<i> Courtesy of Mediacorp Pte Ltd.</i></div>
+
+Singapore Broadcasting Corporation, “[The Flying Fish](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/48b0b402-1164-11e3-83d5-0050568939ad),” 1983, video, 43:17. (From National Archives of Singapore, accession no. 1997003198)
+
+Singapore Broadcasting Corporation, “[The Seletar Robbery](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/48b3d39e-1164-11e3-83d5-0050568939ad),” 25 July 1982, video, 49:46. (From National Archives of Singapore, accession no. 1997003239)
+	
+	
