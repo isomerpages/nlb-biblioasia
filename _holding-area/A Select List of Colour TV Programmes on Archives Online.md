@@ -35,3 +35,8 @@ Singapore Broadcasting Corporation, “[Samsui Women](https://www.nas.gov.sg/arc
 Singapore Broadcasting Corporation, “[The Army Series](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/48b21ad4-1164-11e3-83d5-0050568939ad),” 1983, video, 54:43. (From National Archives of Singapore, accession no. 1997003216)
 
 Singapore Broadcasting Corporation, “[The Awakening](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/d10ba255-2e23-11e6-b4c5-0050568939ad),” 1984, video. (From National Archives of Singapore, accession no. 2016006948)
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Colour%20TV%20Programmes%20on%20NAS/awkening.jpg" style="width: 55%;">
+A screen grab from the 1974 National Day Parade, which was televised live in colour.<i> Mediacorp Pte Ltd, courtesy of National Archives of Singapore.</i></div>
