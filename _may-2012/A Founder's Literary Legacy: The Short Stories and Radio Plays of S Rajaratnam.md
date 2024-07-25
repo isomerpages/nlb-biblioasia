@@ -91,8 +91,6 @@ His radio plays deserve greater study for their contribution to the idea of a Ma
 
 Through his writings at this seminal stage, one can trace the formation of Rajaratnam’s views on fundamental questions at a time of great moral and political confusion. They offer sharp insights into his values and ideals. The foundation of Singapore is built upon the rock-solid convictions of exceptional men like him.
 
-##### In his radio plays, there is a recurring message that says ”we can create the sort of nation that we want“. This is a discourse of reason, of civil argument and debate, one based on a relationship of trust and faith.
-
 One of his most important ideas was on Singapore’s national identity. He was keen to ensure that the younger generation shared his unhyphenated vision of a Singaporean Singapore, as opposed to a Singapore that is based on separate communal identities. He believed in the ability of Singaporeans to transcend their racial, cultural and religious classifications to create a shared national identity to which they give their primary loyalty. For him, this was an act of will and faith.
 
 #### **Importance**
