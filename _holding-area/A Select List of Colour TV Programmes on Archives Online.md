@@ -20,4 +20,4 @@ Radio and Television Singapore, “[National Day Parade (1)](https://www.nas.gov
 <div style="background-color: white;">
 <br>
 <img src="/images/Online%20Only%20Articles/Colour%20TV%20Programmes%20on%20NAS/NDP_Screenshotv1.png" style="width: 55%;">
-A screen grab from the debate final between National Junior College and Hwa Chong Junior College in 1975.<i> Mediacorp Pte Ltd, courtesy of National Archives of Singapore.</i></div><br>
+A screen grab from the 1974 National Day Parade, which was televised live in colour.<i> Mediacorp Pte Ltd, courtesy of National Archives of Singapore.</i></div><br>
