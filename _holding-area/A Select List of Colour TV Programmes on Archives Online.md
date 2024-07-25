@@ -11,7 +11,7 @@ Radio and Television Singapore, “[Debate 1975 Finals – Hwa Chong Junior Coll
 <div style="background-color: white;">
 <br>
 <img src="/images/Online%20Only%20Articles/Colour%20TV%20Programmes%20on%20NAS/Debate_final_screenshot.png" style="width: 55%;">
-A screen grab from the debate final between National Junior College and Hwa Chong Junior College in 1975.<i> Mediacorp Pte Ltd, courtesy of National Archives of Singapore.</i></div><br>
+A screen grab from the debate final between National Junior College and Hwa Chong Junior College in 1975.<i> Mediacorp Pte Ltd, courtesy of National Archives of Singapore.</i></div>
 
 <style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/Uyh0bklWGsY" frameborder="0" allowfullscreen=""></iframe></div>
 
