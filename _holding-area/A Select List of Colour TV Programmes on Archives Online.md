@@ -29,3 +29,10 @@ Radio and Television Singapore, “[National Day Parade (2)](https://www.nas.gov
 Radio and Television Singapore, “[On The Spot Ep 12](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/488064c8-1164-11e3-83d5-0050568939ad),” 15 June 1976, video, 54:58. (From National Archives of Singapore, accession no. 1997002562)
 
 <style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/l08ZQKncU0Y" frameborder="0" allowfullscreen=""></iframe></div>
+
+Singapore Broadcasting Corporation, “[Samsui Women](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/4a790883-1164-11e3-83d5-0050568939ad),” 1986, video. (From National Archives of Singapore, accession no. 1997008888)
+
+Singapore Broadcasting Corporation, “[The Army Series](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/48b21ad4-1164-11e3-83d5-0050568939ad),” 1983, video, 54:43. (From National Archives of Singapore, accession no. 1997003216)
+
+Singapore Broadcasting Corporation, “[The Awakening](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/d10ba255-2e23-11e6-b4c5-0050568939ad),” 1984, video. (From National Archives of Singapore, accession no. 2016006948)
+
