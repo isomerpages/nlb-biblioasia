@@ -7,7 +7,7 @@ variant: markdown
 ---
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/colour-tv-history-singapore/">The Awakening of the Modern Television Era</a>
  <p>People weren’t particularly interested in&nbsp;upgrading their black-and-white TV to a colour TV. Then came the World Cup.</p> 
-<img src="/images/Vol%2020%20Issue%203/Colour%20TV/tv_awakening.jpg">
+<img src="/images/Vol%2020%20Issue%203/Colour%20TV/awkening.jpg">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/japanese-occupation-photo-studios/">Photo Studios and Photography During the Japanese Occupation</a>
