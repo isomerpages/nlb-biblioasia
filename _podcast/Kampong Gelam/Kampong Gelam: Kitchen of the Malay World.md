@@ -13,7 +13,7 @@ a Javanese kitchen, Hainanese coffeeshops and more. Bookstores sold literature
 and newspapers as far away as Cairo. In this episode, award-winning author
 Khir Johari talks about the Kampong Gelam that he grew up in.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/mpvj57An6_k?si=U7RLFIiJy_oovOE4"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/e9_IETBisGI?si=i5S3LMv_4rvKaMm3"></iframe>
 </div>
 <p></p>
 <h4><strong>Listen to the Full Episode</strong></h4>
