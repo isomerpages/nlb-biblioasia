@@ -179,7 +179,7 @@ He was the true Singapore lion who roared, and roared till the end. In a way, it
 <div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
 <img src="/images/Vol%2020%20Issue%203/Rajaratnam/Chatbook_2.jpg" style="width: 80%;">
 <br>
-<a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300059306"><i>S. Rajaratnam: The Authorised Biography, Volume Two: The Lion’s Roar</i></a> is written by Irene Ng and published by the Institute of Southeast Asian Studies (2024). The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (call nos.: RSING 327.59570092 NG and SING 327.59570092 NG). Irene Ng asserts the moral right to be identified as the author of this work. <br><br>
+<a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300059306"><i>S. Rajaratnam: The Authorised Biography, Volume Two: The Lion’s Roar</i></a> is written by Irene Ng and published by ISEAS - Yushof Ishak Institute (2024). The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries (call nos.: RSING 327.59570092 NG and SING 327.59570092 NG). Irene Ng asserts the moral right to be identified as the author of this work. <br><br>
 The National Library Board has launched a Generative AI-powered chatbook featuring S. Rajaratnam for users to learn about his life and contributions to&nbsp;Singapore. This service is available at the foyer of the&nbsp;National Library Building from 23 July to 21 Oct 2024.
 <br></div>
 
