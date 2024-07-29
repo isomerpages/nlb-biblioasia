@@ -168,8 +168,7 @@ These ancient people, who built the oldest church in Singapore, are looking ahea
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Authors/JoannaTan.png" style="width: 100px; height: 100px;">
-	<b>Alvin Tan</b> is an independent researcher and writer focusing on Singapore history, heritage and society. He is the author of <i>Singapore: A Very Short History – From Temasek to Tomorrow</i> (Talisman Publishing, 2nd edition, 2022) and the editor of <i>Singapore at Random: Magic, Myths and Milestones</i> (Talisman Publishing, 2021).</div>
+<b>Alvin Tan</b> is an independent researcher and writer focusing on Singapore history, heritage and society. He is the author of <i>Singapore: A Very Short History – From Temasek to Tomorrow</i> (Talisman Publishing, 2nd edition, 2022) and the editor of <i>Singapore at Random: Magic, Myths and Milestones</i> (Talisman Publishing, 2021).</div>
 
 
 #### **Notes**
