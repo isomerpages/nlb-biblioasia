@@ -88,7 +88,7 @@ The first Divine Liturgy to be served after the war was on 9 May 1954. It was an
 
 This was not the start of regular services though. In fact, the priest who came, the Surabaya-based Father Aristakes Mirzaian, was only able to be in Singapore after an Armenian woman in Surabaya established a fund to enable him to travel outside his parish to serve Armenians in the region.
 
-Three years later, in May 1957, the _Straits Time_s reported that the first Divine Liturgy in 30 years to be celebrated by a bishop would take place. Monsignor Tereniz Poladian flew in from Beirut to do so. “On Sunday, the Colony’s community of about 70 will attend a long-awaited pontifical service. The church which has been renovated at the cost of about $20,000, has just been completely refurnished. A choir of eight has been practising for the past two weeks for the big occasion.”[^24]
+Three years later, in May 1957, the _Straits Times_ reported that the first Divine Liturgy in 30 years to be celebrated by a bishop would take place. Monsignor Tereniz Poladian flew in from Beirut to do so. “On Sunday, the Colony’s community of about 70 will attend a long-awaited pontifical service. The church which has been renovated at the cost of about $20,000, has just been completely refurnished. A choir of eight has been practising for the past two weeks for the big occasion.”[^24]
 
 #### **Preserving the Church**
 
