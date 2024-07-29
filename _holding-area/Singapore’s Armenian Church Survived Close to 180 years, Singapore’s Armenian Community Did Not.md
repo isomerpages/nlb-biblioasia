@@ -259,12 +259,17 @@ These ancient people, who built the oldest church in Singapore, are looking ahea
 [^40]: Cheong Suk-Wai, “‘A Night Out Is Not About the Food, But Music or Theatre’,” _Straits Times_, 17 September 2015, https://www.straitstimes.com/singapore/a-night-out-is-not-about-the-food-but-music-or-theatre.
 
 
-[^41]:
+[^41]:  “Armenian Church of Singapore Celebrates Major Anniversary,” Orthodoxy Cognate Page, 24 May 2011, https://ocpsociety.org/news/armenian-church-of-singapore-celebrates-major-anniversary/.&nbsp;
 
-[^42]:
 
-[^43]:
 
-[^44]:
+[^42]: Camillia Deborah Dass, “Church Rich in Armenian History,” _Straits Times_, 18 May 2017, https://www.straitstimes.com/singapore/church-rich-in-armenian-history.&nbsp;
 
-[^45]:
+
+[^43]: Melody Zaccheus, “Armenian Community in Singapore Tells Its Story With New Museum,” _Straits Times_, 24 May 2018, https://www.straitstimes.com/singapore/armenian-community-tells-its-story-with-new-museum.&nbsp;
+
+
+[^44]: Armenian Church Singapore Instagram, 28 March 2022, https://www.instagram.com/p/CboEn4JBdMK/?img\_index=1.&nbsp;
+
+
+[^45]: Armenian Church Singapore Facebook, 17 April 2024, https://www.facebook.com/photo?fbid=730892689217550&amp;set=pcb.730892729217546.
