@@ -74,6 +74,10 @@ The church itself took enemy fire during the war as its grounds had been requisi
 
 After the war, the population of Armenians in Singapore continued to fall as a result of emigration and as people died. In the 1947 census, which was the last to report the Armenians as a discrete category, there were just 62 of them.[^18] In December 1949, Arshak C. Galstaun, a trustee for the church, told the _Straits Times_ that there were only about 40 Armenians left in the community.[^19]
 
+![](/images/Vol%2020%20Issue%203/Armenian%20Church/church_tombstone.jpg)
+<div style="background-color: white;">Tombstones of prominent Armenians in the Memorial Garden of the Armenian Church. The parsonage is located on the right. <i>Photo by Jimmy Yap.</i></div>
+
+
 Because of the small numbers, the community found it hard to maintain the church. Four years after the end of the war, the _Straits Times_ described the church as being “in a worse way than any other house of God in Singapore. Plaster is crackling and peeling from the walls, roof timbers are falling, white ants have made such inroads on the gilded centrepiece of the ceiling that you can break off chunks, like stale bread”.[^20]
 
 Official compensation for war damage was paltry and church funds had to be used for repairs. Eventually, the parsonage was repaired with personal contributions from Walter, Robert and Looleen Martin.[^21]
