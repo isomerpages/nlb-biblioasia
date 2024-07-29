@@ -165,10 +165,10 @@ These ancient people, who built the oldest church in Singapore, are looking ahea
 [^9]: “[Consecration of the Armenian Church](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18360331-1.2.12),” _Singapore Free Press and Mercantile Advertiser_, 31 March 1836, 4. (From NewspaperSG)
 
 
-[^10]: Wright, “A Tale of Two Churches.”
+[^10]: [Wright, “A Tale of Two Churches](https://biblioasia.nlb.gov.sg/vol-13/issue-3/oct-dec-2017/tale-of-two-churches/).”
 
 
-[^11]: Nadia H. Wright, _The Armenians of Singapore: A Short History_ (George Town, Penang: Entrepot Publishing, 2019), 111. (From National Library, Singapore, call no. RSING 305.89199205957 WRI)
+[^11]: Nadia H. Wright, [_The Armenians of Singapore: A Short History_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203940641) (George Town, Penang: Entrepot Publishing, 2019), 111. (From National Library, Singapore, call no. RSING 305.89199205957 WRI)
 
 
 [^12]: Wright, “A Tale of Two Churches”; Wright, _The Armenians of Singapore_, 111–12.
