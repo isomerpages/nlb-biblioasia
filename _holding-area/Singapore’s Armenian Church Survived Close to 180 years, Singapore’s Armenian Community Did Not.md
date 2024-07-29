@@ -19,6 +19,10 @@ To be clear though, while usually referred to as Armenians, the people who arriv
 
 Once in Singapore, the Armenians quickly established various businesses and made important contributions to society. Catchick Moses bought printing equipment from a fellow Armenian merchant who had gone bankrupt, and launched the _Straits Times and Singapore Journal of Commerce_ with Robert Carr Woods, an English journalist from Bombay, in July 1845.[^2] In 1887, the four Sarkies brothers – Martin, Tigran, Aviet and Arshak – leased an existing building and turned it into the Raffles Hotel, after previously establishing the Eastern and Oriental Hotel in Penang in 1884.[^3] Merchant and trader Parsick Joaquim came from Madras around 1840. His daughter Agnes Joaquim cultivated the hybrid orchid _Vanda_ Miss Joaquim in 1893, which was chosen as Singapore’s national flower.[^4]
 
+![](/images/Vol%2020%20Issue%203/Armenian%20Church/church_print.jpg)
+<div style="background-color: white;"><i>A carte de visite</i> albumen print of an Armenian by August Sachtler, 1860s. <i>Collection of the Family of Mr and Mrs Lee Kip Lee.</i></div>
+
+
 #### **Founding of the Armenian Church**
 
 While the Armenians were certainly astute business people, they were also very religious. Christianity had been declared Armenia’s state religion in 301 and being able to worship regularly was important to the Persian Armenians in Singapore.&nbsp;
