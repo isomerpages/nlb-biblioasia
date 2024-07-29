@@ -151,6 +151,9 @@ On 27 March 2022, the Divine Liturgy resumed for the first time following Covid-
 
 According to church trustee Pierre Hennes, the church is now committed to the construction of a community reception hall next to the parsonage. “The hall will serve as a unique venue for community gatherings, wedding receptions, and other cultural outreach programmes hosted by the church and community,” he said.&nbsp; Work has already begun on building this hall.&nbsp;
 
+![](/images/Vol%2020%20Issue%203/Armenian%20Church/church_archbishop.jpg)
+<div style="background-color: white;">Archbishop Haigazoun Najarian, with the Ambassador of Armenia to Singapore Serob Bejanyan beside him, and congregants at the Armenian Apostolic Church of St Gregory the Illuminator, 9 June 2024. <i>Courtesy of the Embassy of the Republic of Armenia.</i></div>
+
 Hennes added that he saw the role of the church as being a “beacon for all Armenians and Singaporeans – whether visitors or residents – that serves as a platform to expose, maintain and advance the Armenian religion, culture and heritage”. Not just a religious centre, the church was also a physical space for "connecting with each other and reinforcing the culture, highlighting our contributions to Singapore’s past and present, and to be a part of the fabric of Singapore’s future”.[^45]
 
 These ancient people, who built the oldest church in Singapore, are looking ahead to a better future.
