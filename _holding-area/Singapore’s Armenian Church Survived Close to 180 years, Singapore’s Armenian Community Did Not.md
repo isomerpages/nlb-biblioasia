@@ -60,6 +60,10 @@ Of course, the volunteers did more than build up the physical infrastructure. Th
 
 The tight-knit Armenian community also organised non-religious activities. The tragic events of the Armenian genocide in 1915 galvanised the community. Church trustees H.S. Arathoon and M.C. Johannes launched an appeal for funds on 16 October 1915 to relieve the plight of the Armenians. (They themselves donated $500 each.)[^14]
 
+![](/images/Vol%2020%20Issue%203/Armenian%20Church/church_community.jpg)
+<div style="background-color: white;">The Armenian community during Bishop Thorgom Gushakian’s visit to Singapore in 1917. <i>Image reproduced from Nadia H. Wright, The Armenians of Singapore: A Short History (George Town, Penang: Entrepot Publishing, 2019), 4. (From National Library, Singapore, call no. RSING 305.89199205957 WRI).</i></div>
+
+
 By 1931, there were 81 Armenians in Singapore, the highest figure reported by the census. But some time after this, the numbers appeared to decline. One indication was the last full service by a resident priest in 1938, which suggests that the community was too small to support a full-time resident priest by then.
 
 #### **Dwindling Population**
