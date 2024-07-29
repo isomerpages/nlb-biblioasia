@@ -228,32 +228,32 @@ These ancient people, who built the oldest church in Singapore, are looking ahea
 [^30]: “[No Resident Priest Since End of World War Two](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19781230-1.2.131.6),” _Straits Times_, 30 December 1978, 1. (From NewspaperSG)
 
 
-[^31]: Peter Keys, “It’s Simply Charming,” _Straits Times_, 18 October 1981, 10. (From NewspaperSG)
+[^31]: Peter Keys, “[It’s Simply Charming](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19811018-1.2.76.19.1),” _Straits Times_, 18 October 1981, 10. (From NewspaperSG)
 
 
 
-[^32]: Art Baghramian, “Church Open to Public But Not for Recreation,” _Straits Times_, 1 November 1981, 11. (From NewspaperSG)
+[^32]: Art Baghramian, “[Church Open to Public But Not for Recreation](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19811101-1.2.90.8.3),” _Straits Times_, 1 November 1981, 11. (From NewspaperSG)
 
 
-[^33]: Christina Tseng, “Tourists to Wed in Armenian Church,” _Straits Times_, 12 April 1985, 13. (From NewspaperSG)
+[^33]: Christina Tseng, “[Tourists to Wed in Armenian Church](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19850412-1.2.27.24),” _Straits Times_, 12 April 1985, 13. (From NewspaperSG)
 
 
-[^34]: Maylee Chia, “STPB Plan for ‘Mock-Weddings',” _Straits Time_s, 24 July 1988, 19. (From NewspaperSG)
+[^34]: Maylee Chia, “[STPB Plan for ‘Mock-Weddings'](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19880724-1.2.26.26),” _Straits Time_s, 24 July 1988, 19. (From NewspaperSG)
 
 
-[^35]: Lee Siew Hwa, “Last of the Tribe,” _Straits Times_, 10 July 1988, 1. (From NewspaperSG)
+[^35]: Lee Siew Hwa, “[Last of the Tribe](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19880710-1.2.76.2),” _Straits Times_, 10 July 1988, 1. (From NewspaperSG)
 
 
-[^36]: Wright, _Armenians of Singapore_, 11, 28. &nbsp;
+[^36]: Wright, [_Armenians of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203940641), 11, 28. &nbsp;
 
 
 [^37]: Cheong Suk-Wai, “Proud of the Legendary Sarkies Name,” _Straits Times_, 17 September 2015, https://www.straitstimes.com/singapore/proud-of-the-legendary-sarkies-name.&nbsp;
 
 
-[^38]: Geraldine Kan, “Singapore’s Oldest Church Is New Again,” _Straits Times_, 25 December 1994, 17.&nbsp;
+[^38]: Geraldine Kan, “[Singapore’s Oldest Church Is New Again](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19941225-1.2.26.1),” _Straits Times_, 25 December 1994, 17.&nbsp;
 
 
-[^39]: Jessie Sarkies, oral history interview by Nur Azlin bte Salem, 28 July 2011, transcript and MP3 audio, Reel/Disc 8 of 9, National Archives of Singapore (accession no. 003479), 242–45. For an interview with Jessie and Loretta Sarkies, see also Jamie Ee Wen Wei, “Sisters Are the Last of Sarkies Clan in S’pore,” _Straits Times_, 19 July 2009, 14. (From NewspaperSG)
+[^39]: Jessie Sarkies, oral history interview by Nur Azlin bte Salem, 28 July 2011, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/7/73c164fb-1162-11e3-83d5-0050568939ad-OHC003479_008/web/html5/index.html) and MP3 audio, Reel/Disc 8 of 9, National Archives of Singapore ([accession no. 003479](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/003479)), 242–45. For an interview with Jessie and Loretta Sarkies, see also Jamie Ee Wen Wei, “[Sisters Are the Last of Sarkies Clan in S’pore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20090719-1.2.13.13),” _Straits Times_, 19 July 2009, 14. (From NewspaperSG)
 
 
 [^40]: Cheong Suk-Wai, “‘A Night Out Is Not About the Food, But Music or Theatre’,” _Straits Times_, 17 September 2015, https://www.straitstimes.com/singapore/a-night-out-is-not-about-the-food-but-music-or-theatre.
