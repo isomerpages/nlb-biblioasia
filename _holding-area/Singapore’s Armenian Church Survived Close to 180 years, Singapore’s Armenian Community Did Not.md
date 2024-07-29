@@ -213,19 +213,19 @@ These ancient people, who built the oldest church in Singapore, are looking ahea
 [^25]: “[The Friends Plan to Save a Church – And Its Architect’s Home](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19540424-1.2.75),” _Straits Times_, 29 April 1954, 11. (From NewspaperSG)
 
 
-[^26]: Stanley Street, “Lament for Old Landmark,” _Straits Times_, 7 April 1956, 6. (From NewspaperSG)&nbsp;
+[^26]: Stanley Street, “[Lament for Old Landmark](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19560407-1.2.100),” _Straits Times_, 7 April 1956, 6. (From NewspaperSG)&nbsp;
 
 
-[^27]: Arshak C. Galstaun, “No Lament for a Landmark,” _Straits Times_, 4 May 1956, 8. (From NewspaperSG)
+[^27]: Arshak C. Galstaun, “[No Lament for a Landmark](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19560504-1.2.139.1),” _Straits Times_, 4 May 1956, 8. (From NewspaperSG)
 
 
-[^28]: William Campbell, “Singapore Plans to Save Its History,” _Straits Times_, 7 February 1969, 12. (From NewspaperSG)
+[^28]: William Campbell, “[Singapore Plans to Save Its History](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19690207-1.2.89),” _Straits Times_, 7 February 1969, 12. (From NewspaperSG)
 
 
-[^29]: Chia Poteik, “Govt to Keep Eight Landmarks,” _Straits Times_, 8 July 1973, 5. (From NewspaperSG)
+[^29]: Chia Poteik, “[Govt to Keep Eight Landmarks](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730708-1.2.19),” _Straits Times_, 8 July 1973, 5. (From NewspaperSG)
 
 
-[^30]: “No Resident Priest Since End of World War Two,” _Straits Times_, 30 December 1978, 1. (From NewspaperSG)
+[^30]: “[No Resident Priest Since End of World War Two](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19781230-1.2.131.6),” _Straits Times_, 30 December 1978, 1. (From NewspaperSG)
 
 
 [^31]: Peter Keys, “It’s Simply Charming,” _Straits Times_, 18 October 1981, 10. (From NewspaperSG)
