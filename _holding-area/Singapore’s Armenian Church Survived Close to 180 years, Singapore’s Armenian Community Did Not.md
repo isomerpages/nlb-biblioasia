@@ -275,7 +275,7 @@ These ancient people, who built the oldest church in Singapore, are looking ahea
 [^33]: Christina Tseng, “[Tourists to Wed in Armenian Church](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19850412-1.2.27.24),” _Straits Times_, 12 April 1985, 13. (From NewspaperSG)
 
 
-[^34]: Maylee Chia, “[STPB Plan for ‘Mock-Weddings'](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19880724-1.2.26.26),” _Straits Time_s, 24 July 1988, 19. (From NewspaperSG)
+[^34]: Maylee Chia, “[STPB Plan for ‘Mock-Weddings'](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19880724-1.2.26.26),” _Straits Times_, 24 July 1988, 19. (From NewspaperSG)
 
 
 [^35]: Lee Siew Hwa, “[Last of the Tribe](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19880710-1.2.76.2),” _Straits Times_, 10 July 1988, 1. (From NewspaperSG)
