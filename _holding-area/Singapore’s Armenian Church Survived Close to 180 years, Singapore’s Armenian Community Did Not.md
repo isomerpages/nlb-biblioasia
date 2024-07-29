@@ -198,45 +198,66 @@ These ancient people, who built the oldest church in Singapore, are looking ahea
 [^20]: Drabble, “Church With Doors Closed.”
 
 
-[^21]:
+[^21]: Wright, _Armenians of Singapore_, 113.&nbsp;
 
-[^22]:
 
-[^23]:
+[^22]: Stanley Street, “Notes from a… Malayan Diary,” _Straits Budget_, 2 July 1953, 6. (From NewspaperSG)
 
-[^24]:
 
-[^25]:
+[^23]: “The First High Mass in 16 Years,” _Straits Times_, 9 May 1954, 3. (From NewspaperSG)
 
-[^26]:
 
-[^27]:
+[^24]: “So Long, But Now Bishop Is to Take Service,” _Straits Times_, 24 May 1957, 9. (From NewspaperSG)
 
-[^28]:
 
-[^29]:
+[^25]: “The Friends Plan to Save a Church – And Its Architect’s Home,” _Straits Times_, 29 April 1954, 11. (From NewspaperSG)
 
-[^30]:
 
-[^31]:
+[^26]: Stanley Street, “Lament for Old Landmark,” _Straits Times_, 7 April 1956, 6. (From NewspaperSG)&nbsp;
 
-[^32]:
 
-[^33]:
+[^27]: Arshak C. Galstaun, “No Lament for a Landmark,” _Straits Times_, 4 May 1956, 8. (From NewspaperSG)
 
-[^34]:
 
-[^35]:
+[^28]: William Campbell, “Singapore Plans to Save Its History,” _Straits Times_, 7 February 1969, 12. (From NewspaperSG)
 
-[^36]:
 
-[^37]:
+[^29]: Chia Poteik, “Govt to Keep Eight Landmarks,” _Straits Times_, 8 July 1973, 5. (From NewspaperSG)
 
-[^38]:
 
-[^39]:
+[^30]: “No Resident Priest Since End of World War Two,” _Straits Times_, 30 December 1978, 1. (From NewspaperSG)
 
-[^40]:
+
+[^31]: Peter Keys, “It’s Simply Charming,” _Straits Times_, 18 October 1981, 10. (From NewspaperSG)
+
+
+
+[^32]: Art Baghramian, “Church Open to Public But Not for Recreation,” _Straits Times_, 1 November 1981, 11. (From NewspaperSG)
+
+
+[^33]: Christina Tseng, “Tourists to Wed in Armenian Church,” _Straits Times_, 12 April 1985, 13. (From NewspaperSG)
+
+
+[^34]: Maylee Chia, “STPB Plan for ‘Mock-Weddings',” _Straits Time_s, 24 July 1988, 19. (From NewspaperSG)
+
+
+[^35]: Lee Siew Hwa, “Last of the Tribe,” _Straits Times_, 10 July 1988, 1. (From NewspaperSG)
+
+
+[^36]: Wright, _Armenians of Singapore_, 11, 28. &nbsp;
+
+
+[^37]: Cheong Suk-Wai, “Proud of the Legendary Sarkies Name,” _Straits Times_, 17 September 2015, https://www.straitstimes.com/singapore/proud-of-the-legendary-sarkies-name.&nbsp;
+
+
+[^38]: Geraldine Kan, “Singapore’s Oldest Church Is New Again,” _Straits Times_, 25 December 1994, 17.&nbsp;
+
+
+[^39]: Jessie Sarkies, oral history interview by Nur Azlin bte Salem, 28 July 2011, transcript and MP3 audio, Reel/Disc 8 of 9, National Archives of Singapore (accession no. 003479), 242–45. For an interview with Jessie and Loretta Sarkies, see also Jamie Ee Wen Wei, “Sisters Are the Last of Sarkies Clan in S’pore,” _Straits Times_, 19 July 2009, 14. (From NewspaperSG)
+
+
+[^40]: Cheong Suk-Wai, “‘A Night Out Is Not About the Food, But Music or Theatre’,” _Straits Times_, 17 September 2015, https://www.straitstimes.com/singapore/a-night-out-is-not-about-the-food-but-music-or-theatre.
+
 
 [^41]:
 
