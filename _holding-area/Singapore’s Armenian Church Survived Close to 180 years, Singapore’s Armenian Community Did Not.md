@@ -49,8 +49,8 @@ The church was also important for fostering a sense of community. Unlike the oth
 
 Historian Nadia Wright noted that various members of the congregation raised money to pay for modifications to the roof and dome in the 1840s and 1850s: “Over the years, generous individuals further contributed to improvements and additions. For example, in 1861, Peter Seth donated the bell in the steeple, although this was not hung until the 1880s. In that same decade, Catchick Moses paid for the back porch and a new fence around the compound.”[^10]
 
-![](/images/Vol%2020%20Issue%203/Armenian%20Church/church_agnes.jpg)
-<div style="background-color: white;">Photo of Agnes Joaquim on a locket that once belonged to her, with an inscription of her name on the reverse side. She cultivated the hybrid orchid <i>Vanda</i> Miss Joaquim in 1893, which became Singapore’s national flower. <i>Courtesy of Linda Locke.</i></div>
+![](/images/Vol%2020%20Issue%203/Armenian%20Church/church_painting.jpg)
+<div style="background-color: white;">A painting of the Armenian Church by John Turnbull Thomson, Government Surveyor of the Straits Settlements, 1847. <i>Image reproduced from John Hall-Jones, The Thomson Paintings: Mid-nineteenth Century Paintings of the Straits Settlements and Malaya (Singapore: Oxford University Press, 1983), 43. (From National Library, Singapore, call no.: RSING 759.2 THO).</i></div>
 
 However, the original dome and turret were deemed unsafe, and both were replaced by a square turret by 1847. The problem persisted, and around 1853, the turret was removed and the pitched roof replaced with a flat one.[^11]
 
