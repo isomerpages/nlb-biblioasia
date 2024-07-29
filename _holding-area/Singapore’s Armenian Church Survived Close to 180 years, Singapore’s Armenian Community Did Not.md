@@ -134,6 +134,9 @@ The restoration of the church came just in time because even though the number o
 
 While this influx boosted numbers, the newcomers were culturally different from long-time Singapore Armenians. For one, there was the issue of language. The newcomers, especially those from Armenia, could speak Armenian while the descendants of the Persian Armenians in Singapore could not. In an oral history interview, Jessie Sarkies, the sister of Loretta Sarkies, described how she felt left out at an event because everyone was speaking Armenian and she couldn’t:
 
+![](/images/Vol%2020%20Issue%203/Armenian%20Church/church_tombstone2.jpg)
+<div style="background-color: white;">Tombstone of Jessie Sarkies in the Memorial Garden of the Armenian Church. Her grandfather, Arathoon Martin Sarkies, was the cousin of the Sarkies brothers who founded Raffles Hotel. <i> Photo by Jimmy Yap.</i></div>
+
 “I would say the Armenian people are nice, but they are very proud of whom they are. They are, on Saturday I found out, when I was told that I have to know to speak Armenian. Yah, and it’s like there’s distinction, and then I felt oh, I was so left out after that. Because I couldn’t mingle with everyone, because everyone down there all talks Armenian... So there’s this distinction between me and them, because they all talk Armenian. I felt very down.”[^39]
 
 The newcomers did rejuvenate the community though. In 2010, violinist Ani Umedyan and her musician husband Gevorg Sargsyan, vocalist Gayane Vardanyan and pianist Naira Mkhitaryan formed the Armenian Heritage Ensemble to bring the Armenian culture to the people in Singapore. The ensemble plays music by Armenian composers in the church four times a year.[^40] In 2011, some 60 Armenians gathered to commemorate the Armenian genocide and also to celebrate Easter.[^41]
@@ -148,6 +151,9 @@ Another boost to the community and its profile came in May 2018 when the $1.2 mi
 Today, there are about 100 people in the community, a quarter of whom are from Armenia while the rest are from the diaspora. While small, the community is determined to keep its culture and traditions alive.&nbsp;
 
 On 27 March 2022, the Divine Liturgy resumed for the first time following Covid-19 restrictions on gatherings.[^44] The Liturgy was celebrated most recently on 9 June 2024 by Archbishop Haigazoun Najarian. The Ambassador of Armenia to Singapore – Serob Bejanyan, who is based in Jakarta – attended the service.
+
+![](/images/Vol%2020%20Issue%203/Armenian%20Church/church_archbishop2.jpg)
+<div style="background-color: white;">Archbishop Haigazoun Najarian (left) celebrating the Divine Liturgy at the Armenian Apostolic Church of St Gregory the Illuminator on 9 June 2024. <i>Courtesy of the Armenian Church.</i></div>
 
 According to church trustee Pierre Hennes, the church is now committed to the construction of a community reception hall next to the parsonage. “The hall will serve as a unique venue for community gatherings, wedding receptions, and other cultural outreach programmes hosted by the church and community,” he said.&nbsp; Work has already begun on building this hall.&nbsp;
 
