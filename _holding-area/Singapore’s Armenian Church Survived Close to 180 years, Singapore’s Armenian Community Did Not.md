@@ -9,6 +9,10 @@ description: Never large, Singapore’s Armenian community barely survived the
 #### Never large, Singapore’s Armenian community barely survived the war. Then came the demographic collapse.
 By Alvin Tan
 
+![](/images/Vol%2020%20Issue%203/Armenian%20Church/church_church.jpg)
+<div style="background-color: white;">The Armenian Apostolic Church of St Gregory the Illuminator as seen from the south, 2024. <i>Photo by Jimmy Yap.</i></div>
+
+
 The _Straits Times_. The Raffles Hotel. The _Vanda_ Miss Joaquim. These quintessentially Singaporean icons are associated with a community here that somewhat remarkably never exceeded 100 people – the Armenians.&nbsp;
 
 To be clear though, while usually referred to as Armenians, the people who arrived in Singapore in the early decades of the 19th century did not come directly from Armenia, a landlocked country bordered by Turkey, Georgia, Azerbaijan and Iran. The early migrants were, instead, descendants of a population that had been resettled from the Armenian city of Julfa to Persia (present-day Iran) in the early 16th century. These Persian Armenians later settled in India, and then migrated to Java and the Malay Peninsula. Very soon after the British East India Company established a trading post in Singapore in 1819, the Armenians from nearby places like Penang and Melaka began arriving. By 1821, three Armenians – Aristarchus Sarkies, Arratoon Sarkies of Melaka, and another – had set up firms in Singapore.[^1]&nbsp;
