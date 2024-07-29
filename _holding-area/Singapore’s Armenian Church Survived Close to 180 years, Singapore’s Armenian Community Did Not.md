@@ -168,25 +168,35 @@ These ancient people, who built the oldest church in Singapore, are looking ahea
 [^10]: Wright, “A Tale of Two Churches.”
 
 
-[^11]:
+[^11]: Nadia H. Wright, _The Armenians of Singapore: A Short History_ (George Town, Penang: Entrepot Publishing, 2019), 111. (From National Library, Singapore, call no. RSING 305.89199205957 WRI)
 
-[^12]:
 
-[^13]:
+[^12]: Wright, “A Tale of Two Churches”; Wright, _The Armenians of Singapore_, 111–12.
 
-[^14]:
 
-[^15]:
+[^13]: Wright, Locke and Johnson, “Blooming Lies: The Vanda Miss Joaquim Story.”&nbsp;
 
-[^16]:
 
-[^17]:
+[^14]: “Armenian Relief Fund,” _Straits Times_, 16 October 1915, 9. (From NewspaperSG)
 
-[^18]:
 
-[^19]:
+[^15]: Nadia H. Wright, _Respected Citizens: The History of Armenians in Singapore and Malaysia_ (Middle Park, Vic.: Amassia Publishing, 2003), 52. (From National Library, Singapore, call no. RSING 305.891992 WRI)
 
-[^20]:
+
+[^16]: Derek Drabble, “Church With Doors Closed,” _Straits Times_, 25 December 1949, 6. (From NewspaperSG)
+
+
+[^17]: “Church Services,” _Shonan Times_, 19 June 1943, 2. (From NewspaperSG)
+
+
+[^18]: Wright, _Armenians of Singapore_, 9.&nbsp;
+
+
+[^19]: Drabble, “Church With Doors Closed.”&nbsp;
+
+
+[^20]: Drabble, “Church With Doors Closed.”
+
 
 [^21]:
 
