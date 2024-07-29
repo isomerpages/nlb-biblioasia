@@ -195,22 +195,22 @@ These ancient people, who built the oldest church in Singapore, are looking ahea
 [^19]: Drabble, “[Church With Doors Closed](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19491225-1.2.43).”&nbsp;
 
 
-[^20]: Drabble, “Church With Doors Closed.”
+[^20]: Drabble, “[Church With Doors Closed](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19491225-1.2.43).”
 
 
-[^21]: Wright, _Armenians of Singapore_, 113.&nbsp;
+[^21]: Wright, [_Armenians of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203940641), 113.&nbsp;
 
 
-[^22]: Stanley Street, “Notes from a… Malayan Diary,” _Straits Budget_, 2 July 1953, 6. (From NewspaperSG)
+[^22]: Stanley Street, “[Notes from a… Malayan Diary](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19530702-1.2.14),” _Straits Budget_, 2 July 1953, 6. (From NewspaperSG)
 
 
-[^23]: “The First High Mass in 16 Years,” _Straits Times_, 9 May 1954, 3. (From NewspaperSG)
+[^23]: “[The First High Mass in 16 Years](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19540509-1.2.39),” _Straits Times_, 9 May 1954, 3. (From NewspaperSG)
 
 
-[^24]: “So Long, But Now Bishop Is to Take Service,” _Straits Times_, 24 May 1957, 9. (From NewspaperSG)
+[^24]: “[So Long, But Now Bishop Is to Take Service](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19570524-1.2.112),” _Straits Times_, 24 May 1957, 9. (From NewspaperSG)
 
 
-[^25]: “The Friends Plan to Save a Church – And Its Architect’s Home,” _Straits Times_, 29 April 1954, 11. (From NewspaperSG)
+[^25]: “[The Friends Plan to Save a Church – And Its Architect’s Home](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19540424-1.2.75),” _Straits Times_, 29 April 1954, 11. (From NewspaperSG)
 
 
 [^26]: Stanley Street, “Lament for Old Landmark,” _Straits Times_, 7 April 1956, 6. (From NewspaperSG)&nbsp;
