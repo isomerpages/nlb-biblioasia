@@ -272,4 +272,4 @@ These ancient people, who built the oldest church in Singapore, are looking ahea
 [^44]: Armenian Church Singapore Instagram, 28 March 2022, https://www.instagram.com/p/CboEn4JBdMK/?img\_index=1.&nbsp;
 
 
-[^45]: Armenian Church Singapore Facebook, 17 April 2024, https://www.facebook.com/photo?fbid=730892689217550&amp;set=pcb.730892729217546.
+[^45]: Pierre Hennes, email correspondence, 23 July 2024.
