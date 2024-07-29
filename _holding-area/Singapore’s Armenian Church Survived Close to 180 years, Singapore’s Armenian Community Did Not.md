@@ -171,28 +171,28 @@ These ancient people, who built the oldest church in Singapore, are looking ahea
 [^11]: Nadia H. Wright, [_The Armenians of Singapore: A Short History_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203940641) (George Town, Penang: Entrepot Publishing, 2019), 111. (From National Library, Singapore, call no. RSING 305.89199205957 WRI)
 
 
-[^12]: Wright, “A Tale of Two Churches”; Wright, _The Armenians of Singapore_, 111–12.
+[^12]: [Wright, “A Tale of Two Churches](https://biblioasia.nlb.gov.sg/vol-13/issue-3/oct-dec-2017/tale-of-two-churches/)”; Wright, [_The Armenians of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203940641), 111–12.
 
 
-[^13]: Wright, Locke and Johnson, “Blooming Lies: The Vanda Miss Joaquim Story.”&nbsp;
+[^13]: Wright, Locke and Johnson, “[Blooming Lies: The Vanda Miss Joaquim Story](https://biblioasia.nlb.gov.sg/vol-14/issue-1/apr-jun-2018/blooming-lies-vandaj/).”&nbsp;
 
 
-[^14]: “Armenian Relief Fund,” _Straits Times_, 16 October 1915, 9. (From NewspaperSG)
+[^14]: “[Armenian Relief Fund](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19151016-1.2.48),” _Straits Times_, 16 October 1915, 9. (From NewspaperSG)
 
 
-[^15]: Nadia H. Wright, _Respected Citizens: The History of Armenians in Singapore and Malaysia_ (Middle Park, Vic.: Amassia Publishing, 2003), 52. (From National Library, Singapore, call no. RSING 305.891992 WRI)
+[^15]: Nadia H. Wright, [_Respected Citizens: The History of Armenians in Singapore and Malaysia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12231618) (Middle Park, Vic.: Amassia Publishing, 2003), 52. (From National Library, Singapore, call no. RSING 305.891992 WRI)
 
 
-[^16]: Derek Drabble, “Church With Doors Closed,” _Straits Times_, 25 December 1949, 6. (From NewspaperSG)
+[^16]: Derek Drabble, “[Church With Doors Closed](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19491225-1.2.43),” _Straits Times_, 25 December 1949, 6. (From NewspaperSG)
 
 
-[^17]: “Church Services,” _Shonan Times_, 19 June 1943, 2. (From NewspaperSG)
+[^17]: “[Church Services](https://eresources.nlb.gov.sg/newspapers/digitised/article/syonantimes19430619-1.2.21),” _Shonan Times_, 19 June 1943, 2. (From NewspaperSG)
 
 
-[^18]: Wright, _Armenians of Singapore_, 9.&nbsp;
+[^18]: Wright, [_Armenians of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203940641), 9.&nbsp;
 
 
-[^19]: Drabble, “Church With Doors Closed.”&nbsp;
+[^19]: Drabble, “[Church With Doors Closed](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19491225-1.2.43).”&nbsp;
 
 
 [^20]: Drabble, “Church With Doors Closed.”
