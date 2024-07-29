@@ -138,31 +138,31 @@ These ancient people, who built the oldest church in Singapore, are looking ahea
 #### **Notes**
 
 
-[^1]:  Charles Burton Buckley, _An Anecdotal History of Old Times in Singapore_, vol. 1 (Singapore: Fraser &amp; Neave, 1902), 283. (From National Library Online)
+[^1]:  Charles Burton Buckley, [_An Anecdotal History of Old Times in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717), vol. 1 (Singapore: Fraser &amp; Neave, 1902), 283. (From National Library Online)
 
 
 [^2]: Chantal Sajan, “The Straits Times Marks 178 Years As Region’s Oldest Newspaper,” _Straits Times_, 15 July 2023, https://www.straitstimes.com/life/home-design/the-straits-times-marks-178-years-as-region-s-oldest-newspaper.
 
 
-[^3]: “Untitled,” _Straits Times_, 26 November 1887, 33. (From NewspaperSG)
+[^3]: “[Untitled](https://safe.menlosecurity.com/http:/eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18871126-1.2.16.4.aspx),” _Straits Times_, 26 November 1887, 33. (From NewspaperSG)
 
 
-[^4]: Nadia Wright, Linda Locke and Harold Johnson, “Blooming Lies: The Vanda Miss Joaquim Story,” _BiblioAsia_ 14, no 1 (April–June 2018): 62–69.&nbsp;
+[^4]: Nadia Wright, Linda Locke and Harold Johnson, “[Blooming Lies: The Vanda Miss Joaquim Story](https://biblioasia.nlb.gov.sg/vol-14/issue-1/apr-jun-2018/blooming-lies-vandaj/),” _BiblioAsia_ 14, no 1 (April–June 2018): 62–69.&nbsp;
 
 
-[^5]: The signatories were Johannes Simeon, Carapiet Phanos, Gregory Zechariah, Isaiah Zechariah, Mackertich M. Moses and Paul Stephens. See Buckley, _An Anecdotal History of Old Times in Singapore_, 283.&nbsp;
+[^5]: The signatories were Johannes Simeon, Carapiet Phanos, Gregory Zechariah, Isaiah Zechariah, Mackertich M. Moses and Paul Stephens. See Buckley, [_An Anecdotal History of Old Times in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717), 283.&nbsp;
 
 
-[^6]: Buckley, _An Anecdotal History of Old Times in Singapore_, 283.
+[^6]: Buckley, [_An Anecdotal History of Old Times in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717), 283.
 
 
-[^7]: Buckley, _An Anecdotal History of Old Times in Singapore_, 283.
+[^7]: Buckley, [_An Anecdotal History of Old Times in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717), 283.
 
 
-[^8]: Buckley, _An Anecdotal History of Old Times in Singapore_, 283–85; Nadia Wright, “A Tale of Two Churches,” _BiblioAsia_ 13, no. 3 (October–December 2017): 36–39.&nbsp;
+[^8]: Buckley, [_An Anecdotal History of Old Times in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717), 283–85; Nadia Wright, “[A Tale of Two Churches](https://biblioasia.nlb.gov.sg/vol-13/issue-3/oct-dec-2017/tale-of-two-churches/),” _BiblioAsia_ 13, no. 3 (October–December 2017): 36–39.&nbsp;
 
 
-[^9]: “Consecration of the Armenian Church,” _Singapore Free Press and Mercantile Advertiser_, 31 March 1836, 4. (From NewspaperSG)
+[^9]: “[Consecration of the Armenian Church](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18360331-1.2.12),” _Singapore Free Press and Mercantile Advertiser_, 31 March 1836, 4. (From NewspaperSG)
 
 
 [^10]: Wright, “A Tale of Two Churches.”
