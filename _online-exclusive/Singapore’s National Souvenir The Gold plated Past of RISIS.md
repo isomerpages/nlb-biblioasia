@@ -82,7 +82,7 @@ An illustration showcasing the large number of orchids named after celebrities, 
 
 During Queen Elizabeth’s inaugural visit to Singapore in February 1972, she chose a yellow <i>Dendrobium</i> at the Singapore Botanic Gardens to be named after her.[^31] In May 1984, 12 years later, she was presented with “a spray of orchids preserved in gold” during the International Garden Festival in Liverpool. The orchid presented was, of course, the <i>Elizabeth Dendrobium</i>.[^32]
 
-In 1990, the royal consort of the Sultan of Brunei, Raja Isteri Pengiran Anak, was not just gifted a gold-plated _Dendrobium Saleha_, she was also told that if she wanted other gold-plated souvenirs for her friends, RISIS could have them made for her.[^33]
+In 1990, the royal consort of the Sultan of Brunei, Raja Isteri Pengiran Anak Saleha, was not just gifted a gold-plated _Dendrobium Saleha_, she was also told that if she wanted other gold-plated souvenirs for her friends, RISIS could have them made for her.[^33]
 
 <div style="background-color: white;">
 <br>
