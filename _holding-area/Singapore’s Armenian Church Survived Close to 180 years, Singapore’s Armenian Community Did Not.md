@@ -136,7 +136,7 @@ The restoration of the church came just in time because even though the number o
 While this influx boosted numbers, the newcomers were culturally different from long-time Singapore Armenians. For one, there was the issue of language. The newcomers, especially those from Armenia, could speak Armenian while the descendants of the Persian Armenians in Singapore could not. In an oral history interview, Jessie Sarkies, the sister of Loretta Sarkies, described how she felt left out at an event because everyone was speaking Armenian and she couldn’t:
 
 ![](/images/Vol%2020%20Issue%203/Armenian%20Church/church_tombstone2.jpg)
-<div style="background-color: white;">Tombstone of Jessie Sarkies in the Memorial Garden of the Armenian Church. Her grandfather, Arathoon Martin Sarkies, was the cousin of the Sarkies brothers who founded Raffles Hotel. <i> Photo by Jimmy Yap.</i></div>
+<div style="background-color: white;">A small memorial dedicated to Jessie Sarkies in the Memorial Garden of the Armenian Church. Her grandfather, Arathoon Martin Sarkies, was the cousin of the Sarkies brothers who founded Raffles Hotel. <i> Photo by Jimmy Yap.</i></div>
 
 “I would say the Armenian people are nice, but they are very proud of whom they are. They are, on Saturday I found out, when I was told that I have to know to speak Armenian. Yah, and it’s like there’s distinction, and then I felt oh, I was so left out after that. Because I couldn’t mingle with everyone, because everyone down there all talks Armenian... So there’s this distinction between me and them, because they all talk Armenian. I felt very down.”[^39]
 
