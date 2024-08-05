@@ -10,7 +10,7 @@ image: /images/Vol 20 Issue 3/Armenian Church/church_church.jpg
 #### Never large, Singapore’s Armenian community barely survived the war. Then came the demographic collapse.
 By Alvin Tan
 
-![](/images/Vol%2020%20Issue%203/Armenian%20Church/church_church.jpg)
+<img src="/images/Vol%2020%20Issue%203/Armenian%20Church/church_church_v2.jpg" style="width: 80%;">
 <div style="background-color: white;">The Armenian Apostolic Church of St Gregory the Illuminator as seen from the south, 2024. <i>Photo by Jimmy Yap.</i></div>
 
 
@@ -142,7 +142,7 @@ While this influx boosted numbers, the newcomers were culturally different from 
 
 The newcomers did rejuvenate the community though. In 2010, violinist Ani Umedyan and her musician husband Gevorg Sargsyan, vocalist Gayane Vardanyan and pianist Naira Mkhitaryan formed the Armenian Heritage Ensemble to bring the Armenian culture to the people in Singapore. The ensemble plays music by Armenian composers in the church four times a year.[^40] In 2011, some 60 Armenians gathered to commemorate the Armenian genocide and also to celebrate Easter.[^41]
 
-![](/images/Vol%2020%20Issue%203/Armenian%20Church/church_stone.jpg)
+<img src="/images/Vol%2020%20Issue%203/Armenian%20Church/church_stone_v2.jpg" style="width: 55%;">
 <div style="background-color: white;">The traditional Armenian <i>khachkar</i> (cross-stone) erected in 2015 to mark the 100th anniversary of the Armenian genocide. It is located in the Memorial Garden of the Armenian Church. <i>Photo by Jimmy Yap.</i></div>
 
 At one point, according to a 2017 news report, a priest from Myanmar would come to Singapore five to six times a year to celebrate the Divine Liturgy here. In that report, Umedyan, who is also a regular church volunteer, said that when she first started worshipping at the church, there were only about 20 or so people. “Now that more expats have come, there are more people and we are happy to see the church crowded with about 40 to 50 people at each service.”[^42]
