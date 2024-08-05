@@ -5,6 +5,13 @@ description: ""
 third_nav_title: Places and Buildings
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/armenians-church-saint-gregory/">Singapore’s Armenian Church Survived Close to 180 Years</a>
+
+Never large, Singapore’s Armenian community barely survived the war. Then came the demographic collapse.
+
+<img src="/images/Vol%2020%20Issue%203/Armenian%20Church/Armenian_Church_topics.jpg" style="width:80%;">  
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/wat-ananda-metyarama-thai-buddhist-temple/">**At Wat Ananda, Thai Buddhism with a Singaporean Twist**</a>
 
 Despite the golden stupa and ornate roofs that indicate this is a Thai Buddhist temple, the Singaporean influences are not hard to spot at Wat Ananda Metyarama.
@@ -58,4 +65,3 @@ Drawings discovered in a Belgian archive help fill gaps in the history of staine
 
 <img src="/images/Vol-12-issue-4/windows-into-history/4_windows_into_history_topic.png" style="width:80%;">
 <hr>
-
