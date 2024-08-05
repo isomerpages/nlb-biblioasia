@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-20/issue-2/jul-sep-2024/asfiah-abdullah-cookbook/
-      button: "Cikgu Asfiah Abdullah: A Cultural Luminary"
+      url: /vol-10/issue-2/jul-sep-2014/singapore-national-day-parades/
+      button: "Parades, Flags and Rallies: Celebrating Singapore’s National Day"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 20 Issue 2/Asfiah/HeroImage_asfiah_20240516.jpg
+      background: /images/vol-10-issue-2/nationalday/celebration_2012_NDP.png
   - infopic:
       title: Have Your Say
       subtitle: Readership Survey
@@ -24,6 +24,16 @@ sections:
       button: Count Me In
       url: https://go.gov.sg/web-survey
       image: /images/edm_strip_survey_homepage.jpg
+      alt: Image alt text
+  - infopic:
+      title: Singapore’s Armenian Church Survived Close to 180 Years
+      subtitle: Worship
+      id: infopic
+      description: Never large, Singapore’s Armenian community barely survived the
+        war. Then came the demographic collapse.
+      button: A BEACON FOR ALL
+      url: /vol-20/issue-3/oct-dec-2024/armenians-church-saint-gregory/
+      image: /images/Vol 20 Issue 3/Armenian Church/Armenian_Church_topics.jpg
       alt: Image alt text
   - infopic:
       title: The Awakening of the Modern Television Era

@@ -1,6 +1,6 @@
 ---
 title: A Select List of Colour TV Programmes on Archives Online
-permalink: /a-select-list-of-colour-tv-programmes-on-archives-online/
+permalink: /vol-20/issue-3/oct-dec-2024/colour-tv-programmes/
 variant: markdown
 description: ""
 ---

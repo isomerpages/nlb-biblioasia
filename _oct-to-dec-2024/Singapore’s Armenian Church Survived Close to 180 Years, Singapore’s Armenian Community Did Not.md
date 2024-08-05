@@ -1,7 +1,7 @@
 ---
-title: Singapore’s Armenian Church Survived Close to 180 years, Singapore’s
+title: Singapore’s Armenian Church Survived Close to 180 Years, Singapore’s
   Armenian Community Did Not
-permalink: /singapore-s-armenian-church-survived-close-to-180-years-singapore-s-armenian-community-did-not/
+permalink: /vol-20/issue-3/oct-dec-2024/armenians-church-saint-gregory/
 variant: markdown
 description: Never large, Singapore’s Armenian community barely survived the
   war. Then came the demographic collapse.
@@ -16,9 +16,6 @@ By Alvin Tan
 
 The _Straits Times_. The Raffles Hotel. The _Vanda_ Miss Joaquim. These quintessentially Singaporean icons are associated with a community here that somewhat remarkably never exceeded 100 people – the Armenians.&nbsp;
 
-![](/images/Vol%2020%20Issue%203/Armenian%20Church/church_agnes.jpg)
-<div style="background-color: white;">Photo of Agnes Joaquim on a locket that once belonged to her, with an inscription of her name on the reverse side. She cultivated the hybrid orchid <i>Vanda</i> Miss Joaquim in 1893, which became Singapore’s national flower. <i>Courtesy of Linda Locke.</i></div>
-
 To be clear though, while usually referred to as Armenians, the people who arrived in Singapore in the early decades of the 19th century did not come directly from Armenia, a landlocked country bordered by Turkey, Georgia, Azerbaijan and Iran. The early migrants were, instead, descendants of a population that had been resettled from the Armenian city of Julfa to Persia (present-day Iran) in the early 16th century. These Persian Armenians later settled in India, and then migrated to Java and the Malay Peninsula. Very soon after the British East India Company established a trading post in Singapore in 1819, the Armenians from nearby places like Penang and Melaka began arriving. By 1821, three Armenians – Aristarchus Sarkies, Arratoon Sarkies of Melaka, and another – had set up firms in Singapore.[^1]&nbsp;
 
 Once in Singapore, the Armenians quickly established various businesses and made important contributions to society. Catchick Moses bought printing equipment from a fellow Armenian merchant who had gone bankrupt, and launched the _Straits Times and Singapore Journal of Commerce_ with Robert Carr Woods, an English journalist from Bombay, in July 1845.[^2] In 1887, the four Sarkies brothers – Martin, Tigran, Aviet and Arshak – leased an existing building and turned it into the Raffles Hotel, after previously establishing the Eastern and Oriental Hotel in Penang in 1884.[^3] Merchant and trader Parsick Joaquim came from Madras around 1840. His daughter Agnes Joaquim cultivated the hybrid orchid _Vanda_ Miss Joaquim in 1893, which was chosen as Singapore’s national flower.[^4]
@@ -26,8 +23,8 @@ Once in Singapore, the Armenians quickly established various businesses and made
 ![](/images/Vol%2020%20Issue%203/Armenian%20Church/church_4.jpg)
 <div style="background-color: white;"> (From left) Jacob Constantine (manager), Arshak Sarkies (founder and owner), Martin Sarkies (founder and owner) and Martyrose Arathoon (accountant) of the Raffles Hotel, 1906. <i>Image reproduced from Nadia H. Wright, The Armenians of Singapore: A Short History (George Town, Penang: Entrepot Publishing, 2019), 86. (From National Library, Singapore, call no. RSING 305.89199205957 WRI).</i></div>
 
-![](/images/Vol%2020%20Issue%203/Armenian%20Church/church_print.jpg)
-<div style="background-color: white;"><i>A carte de visite</i> albumen print of an Armenian by August Sachtler, 1860s. <i>Collection of the Family of Mr and Mrs Lee Kip Lee.</i></div>
+![](/images/Vol%2020%20Issue%203/Armenian%20Church/church_agnes.jpg)
+<div style="background-color: white;">Photo of Agnes Joaquim on a locket that once belonged to her, with an inscription of her name on the reverse side. She cultivated the hybrid orchid <i>Vanda</i> Miss Joaquim in 1893, which became Singapore’s national flower. <i>Courtesy of Linda Locke.</i></div>
 
 
 #### **Founding of the Armenian Church**
@@ -35,6 +32,9 @@ Once in Singapore, the Armenians quickly established various businesses and made
 While the Armenians were certainly astute business people, they were also very religious. Christianity had been declared Armenia’s state religion in 301 and being able to worship regularly was important to the Persian Armenians in Singapore.&nbsp;
 
 When they first came here, the small community was served by Reverend Eleazor Ingergolie, who was based in Penang but travelled down to Singapore to conduct services. However, the Armenians here eventually wanted their own resident priest and in 1825, they wrote to the Archbishop in Persia asking for a priest to be posted here.[^5]
+
+![](/images/Vol%2020%20Issue%203/Armenian%20Church/church_print.jpg)
+<div style="background-color: white;"><i>A carte de visite</i> albumen print of an Armenian by August Sachtler, 1860s. <i>Collection of the Family of Mr and Mrs Lee Kip Lee.</i></div>
 
 Two years later, the Reverend Gregory ter Johannes arrived and the first services were held in a backroom at John Little &amp; Co. in Raffles Place. The services were subsequently held in a small rented room at Powell &amp; Co. located at what was known as "the Merchant's Square". The cost of supporting the priest, renting the premises and staff wages amounted to $63 a month.[^6]
 
@@ -101,7 +101,7 @@ The church was indeed fixed up, though apparently without using funds from outsi
 
 Street wrote: “Had they possessed the means to carry out the long-delayed repairs while still preserving the charm and irreplaceable craftsmanship that has been lost, be sure they would have done so. But the community wished to restore their church from the slender funds at their disposal. Offer from other sources to help in this endeavour were declined, and for that we must respect the Singapore community of perhaps the oldest church in Christendom.”[^26] &nbsp;
 
-In response, Arshak C. Galstaun, the church trustee and warden, wrote that his “first reactions to the article … were violent and I have, therefore, waited a few days to simmer down and to consult my church board”. He noted that the parsonage had been completely repaired through the generosity of the Armenian Martin family and that the church spent several thousand dollars about five years ago to ensure it was structurally safe. He ended his response with a strongly worded reminder to the writer. “I would impress upon Stanley Street that the Armenian Church is private and sacred. We desire to be left alone to manage our own affairs as we think fit.”[^27]
+In response, Arshak C. Galstaun, the church trustee and warden, wrote that his “first reactions to the article… were violent and I have, therefore, waited a few days to simmer down and to consult my church board”. He noted that the parsonage had been completely repaired through the generosity of the Armenian Martin family and that the church spent several thousand dollars about five years ago to ensure it was structurally safe. He ended his response with a strongly worded reminder to the writer. “I would impress upon Stanley Street that the Armenian Church is private and sacred. We desire to be left alone to manage our own affairs as we think fit.”[^27]
 
 Yet, this view that only Armenians had a say over the church was increasingly untenable as the 1960s unfolded. In addition to being an Armenian property and a consecrated space, the state was beginning to recognise it as a heritage building with great historical value, especially to a new nation.&nbsp;
 
@@ -163,7 +163,6 @@ According to church trustee Pierre Hennes, the church is now committed to the co
 
 Hennes added that he saw the role of the church as being a “beacon for all Armenians and Singaporeans – whether visitors or residents – that serves as a platform to expose, maintain and advance the Armenian religion, culture and heritage”. Not just a religious centre, the church was also a physical space for "connecting with each other and reinforcing the culture, highlighting our contributions to Singapore’s past and present, and to be a part of the fabric of Singapore’s future”.[^45]
 
-These ancient people, who built the oldest church in Singapore, are looking ahead to a better future.
 
 
 
@@ -202,13 +201,13 @@ These ancient people, who built the oldest church in Singapore, are looking ahea
 [^9]: “[Consecration of the Armenian Church](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18360331-1.2.12),” _Singapore Free Press and Mercantile Advertiser_, 31 March 1836, 4. (From NewspaperSG)
 
 
-[^10]: [Wright, “A Tale of Two Churches](https://biblioasia.nlb.gov.sg/vol-13/issue-3/oct-dec-2017/tale-of-two-churches/).”
+[^10]: Wright, “[A Tale of Two Churches](https://biblioasia.nlb.gov.sg/vol-13/issue-3/oct-dec-2017/tale-of-two-churches/).”
 
 
 [^11]: Nadia H. Wright, [_The Armenians of Singapore: A Short History_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203940641) (George Town, Penang: Entrepot Publishing, 2019), 111. (From National Library, Singapore, call no. RSING 305.89199205957 WRI)
 
 
-[^12]: [Wright, “A Tale of Two Churches](https://biblioasia.nlb.gov.sg/vol-13/issue-3/oct-dec-2017/tale-of-two-churches/)”; Wright, [_The Armenians of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203940641), 111–12.
+[^12]: Wright, “[A Tale of Two Churches](https://biblioasia.nlb.gov.sg/vol-13/issue-3/oct-dec-2017/tale-of-two-churches/)”; Wright, [_The Armenians of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203940641), 111–12.
 
 
 [^13]: Wright, Locke and Johnson, “[Blooming Lies: The Vanda Miss Joaquim Story](https://biblioasia.nlb.gov.sg/vol-14/issue-1/apr-jun-2018/blooming-lies-vandaj/).”&nbsp;
