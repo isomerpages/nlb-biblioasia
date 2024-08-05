@@ -134,6 +134,7 @@ In many ways, the television industry is very different today from the early day
 
 Manufacturers are still trying to get consumers to upgrade their TVs though. Consumers are constantly being seduced by ever larger screens that display impossibly sharp images. At the same time, these companies are also investing in technology that produces colours brighter and more vivid than ever before. Demo sets in electronics stores show luscious images in hyper-realistic colours running on a loop. The promise of a world of better colour continues to beckon.
 
+Click [here](https://biblioasia.nlb.gov.sg/vol-20/issue-3/oct-dec-2024/colour-tv-programmes) for a list of programmes in colour produced by Radio and Television Singapore and the Singapore Broadcasting Corporation that are available on Archives Online.
 
 <div style="background-color: white;">
 <br>
