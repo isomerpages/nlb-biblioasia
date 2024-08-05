@@ -15,7 +15,7 @@ sections:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/vol-10-issue-2/nationalday/celebration_2012.jpg
+      background: /images/vol-10-issue-2/nationalday/celebration_2012_NDP.png
   - infopic:
       title: Have Your Say
       subtitle: Readership Survey
