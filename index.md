@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-20/issue-2/jul-sep-2024/asfiah-abdullah-cookbook/
-      button: "Cikgu Asfiah Abdullah: A Cultural Luminary"
+      url: /vol-10/issue-2/jul-sep-2014/singapore-national-day-parades/
+      button: "Parades, Flags and Rallies: Celebrating Singapore’s National Day"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 20 Issue 2/Asfiah/HeroImage_asfiah_20240516.jpg
+      background: /images/vol-10-issue-2/nationalday/ndp-hero.jpg
   - infopic:
       title: Have Your Say
       subtitle: Readership Survey
