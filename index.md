@@ -26,6 +26,16 @@ sections:
       image: /images/edm_strip_survey_homepage.jpg
       alt: Image alt text
   - infopic:
+      title: Singapore’s Armenian Church Survived Close to 180 Years
+      subtitle: Worship
+      id: infopic
+      description: Never large, Singapore’s Armenian community barely survived the
+        war. Then came the demographic collapse.
+      button: A BEACON FOR ALL
+      url: /vol-20/issue-3/oct-dec-2024/armenians-church-saint-gregory/
+      image: /images/Vol 20 Issue 3/Armenian Church/Armenian_Church_topics.jpg
+      alt: Image alt text
+  - infopic:
       title: The Awakening of the Modern Television Era
       subtitle: Film and Photography
       id: infopic
@@ -1196,14 +1206,4 @@ sections:
       url: https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08
       alt: Greeting Card
       image: /images/Hari Raya Cards/hari raya greeting card.jpg
-  - infopic:
-      title: Singapore’s Armenian Church Survived Close to 180 Years
-      subtitle: Worship
-      id: infopic
-      description: Never large, Singapore’s Armenian community barely survived the
-        war. Then came the demographic collapse.
-      button: A BEACON FOR ALL
-      url: /vol-20/issue-3/oct-dec-2024/armenians-church-saint-gregory/
-      image: /images/Vol 20 Issue 3/Armenian Church/Armenian_Church_topics.jpg
-      alt: Image alt text
 ---
