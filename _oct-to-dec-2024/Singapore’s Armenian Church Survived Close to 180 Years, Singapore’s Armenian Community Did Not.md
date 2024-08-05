@@ -142,6 +142,7 @@ While this influx boosted numbers, the newcomers were culturally different from 
 
 The newcomers did rejuvenate the community though. In 2010, violinist Ani Umedyan and her musician husband Gevorg Sargsyan, vocalist Gayane Vardanyan and pianist Naira Mkhitaryan formed the Armenian Heritage Ensemble to bring the Armenian culture to the people in Singapore. The ensemble plays music by Armenian composers in the church four times a year.[^40] In 2011, some 60 Armenians gathered to commemorate the Armenian genocide and also to celebrate Easter.[^41]
 
+<img src="/images/Vol%2020%20Issue%203/Armenian%20Church/church_stone_v2.jpg" style="width: 80%;">
 ![](/images/Vol%2020%20Issue%203/Armenian%20Church/church_stone.jpg)
 <div style="background-color: white;">The traditional Armenian <i>khachkar</i> (cross-stone) erected in 2015 to mark the 100th anniversary of the Armenian genocide. It is located in the Memorial Garden of the Armenian Church. <i>Photo by Jimmy Yap.</i></div>
 
