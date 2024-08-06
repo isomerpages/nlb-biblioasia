@@ -4,6 +4,7 @@ permalink: /vol-5/issue2/jul-2009/ya-yin-kwan-treasure/
 description: Senior Librarian Ang Seow Leng provides insight into Tan Yeok Seong
   and his donated Ya Yin Kwan Collection
 image: /images/Vol 5 Issue 2/YaYinKwan/ya yin kwan sign.jpg
+variant: markdown
 ---
 #### Senior Librarian *Ang Seow Leng* provides insight into Tan Yeok Seong and his donated Ya Yin Kwan Collection.
 
@@ -61,7 +62,7 @@ Right: <i> Nan’yō to Kakyō = Southeast Asia and the Chinese overseas. All ri
 <br><br>
 <img style="width:50%;" src="/images/Vol%205%20Issue%202/YaYinKwan/jap%20title%202.jpg"><i>Japanese title published in Singapore. Reproduced from Jawa no genzai to kagayaku hōjin = Present Day of Java &amp; Japanese. All rights reserved, Nan’yō Jidaisha, 1932.</i><br><br>
 
-<img style="width:50%;" src="/images/Vol%205%20Issue%202/YaYinKwan/autograph%201%201.jpg">Autographed by 连士升, Lien Shih-Sheng, author of 西方英雄谱. Lien was a prolific writer and Chinese newspapers editor. He was actively involved in the arts, education and cultural organisations in Singapore from the late 1940s to the early 1970s. <i>Reproduced from 西方英雄谱. All rights reserved, 南洋商报社, 1953.</i><br><br>For more information, please refer to website: <a href="https://exhibitions.nlb.gov.sg/exhibitions/current-exhibitions/nldonorsgallery/">https://exhibitions.nlb.gov.sg/exhibitions/current-exhibitions/nldonorsgallery/</a>. <br><br>
+<img style="width:50%;" src="/images/Vol%205%20Issue%202/YaYinKwan/autograph%201%201.jpg">Autographed by 连士升, Lien Shih-Sheng, author of 西方英雄谱. Lien was a prolific writer and Chinese newspapers editor. He was actively involved in the arts, education and cultural organisations in Singapore from the late 1940s to the early 1970s. <i>Reproduced from 西方英雄谱. All rights reserved, 南洋商报社, 1953.</i><br><br>
 
 <img style="width:50%;" src="/images/Vol%205%20Issue%202/YaYinKwan/autograph%204%204.jpg">Autographed by Leon Comber, author of <i>Chinese Secret Societies in Malaya: A Survey of the Triad Society from 1800 to 1900</i>. <i>Reproduced from Chinese Secret Societies in Malaya: A Survey of the Triad Society from 1800 to 1900. All rights reserved, Association for Asian Studies by J.J. Augustin, [1959]</i>.<br><br>
 
