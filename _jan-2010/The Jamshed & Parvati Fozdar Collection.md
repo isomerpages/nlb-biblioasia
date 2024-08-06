@@ -4,6 +4,7 @@ permalink: /vol-5/issue-4/jan-2010/jamshed-parvati-fozdar-collection/
 description: Senior Librarian Eunice Low unpacks the Jamshed & Parvati Fozdar
   Collection, an outstanding compilation of the personal memoirs and chronicles
   of the Fozdar family in the Asia-Pacific region.
+variant: markdown
 ---
 #### Senior Librarian *Eunice Low* unpacks the Jamshed &amp; Parvati Fozdar Collection, an outstanding compilation of the personal memoirs and chronicles of the Fozdar family in the Asia-Pacific region.
 
@@ -40,8 +41,6 @@ There are also details of the activities of the Inter-religious Organisation (IR
 
 <img style="width:50%;" src="/images/Vol%205%20Issue%204/Jamshed/50th%20anniversary.jpg">
  <div style="background-color: white;">Souvenir publication celebrating 50 years of the Bahá’í faith in Sawarak. <i> Jamshed &amp; Parvati Fozdar Collection.</i></div>
-
-This collection can be accessed through the Donors Gallery website at <a href="https://exhibitions.nlb.gov.sg/exhibitions/current-exhibitions/nldonorsgallery/">https://exhibitions.nlb.gov.sg/exhibitions/current-exhibitions/nldonorsgallery/</a>.
 
 #### **How to Donate**
 
