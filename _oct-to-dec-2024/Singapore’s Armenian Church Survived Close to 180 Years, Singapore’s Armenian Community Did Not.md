@@ -7,7 +7,7 @@ description: Never large, Singapore’s Armenian community barely survived the
   war. Then came the demographic collapse.
 image: /images/Vol 20 Issue 3/Armenian Church/church_church.jpg
 ---
-#### Never large, Singapore’s Armenian community barely survived the war. Then came the demographic collapse.
+#### Never large, Singapore’s Persian Armenian community barely survived the war. Then came the demographic collapse.
 By Alvin Tan
 
 <img src="/images/Vol%2020%20Issue%203/Armenian%20Church/church_church_v2.jpg" style="width: 80%;">
