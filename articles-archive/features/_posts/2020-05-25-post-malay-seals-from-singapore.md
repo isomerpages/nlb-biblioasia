@@ -1,11 +1,11 @@
 ---
-title: "Malay Seals from Singapore"
+title: Malay Seals from Singapore
 date: 2020-04-01T00:00:00.000Z
 permalink: /vol-16/issue-1/apr-jun-2020/malay-seals/
 third_nav_title: Malay Seals from Singapore
 image: /images/Vol-16-issue-1/malay-seals/malay-seals-title.jpg
+variant: markdown
 ---
-
 <style>
 table { 
 	background-color: #e5f1ee;
@@ -20,7 +20,7 @@ table {
 #### Malay seals of the 19th century hold important information says **Annabel Teh Gallop**.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-1/malay-seals/malay-seals-title.jpg">
 </div>
 
@@ -41,10 +41,10 @@ Into this scene of fractious stalemate arrived Stamford Raffles in January 1819.
 As the whereabouts of the original treaty of 6 February 1819 are unknown, all that remains today is an old photograph published in 1902 on the frontispiece of Charles Burton Buckley’s *An Anecdotal History of Old Times in Singapore* which mentions that the treaty was “found among the Records in Johore”. The image shows the last page of the bilingual treaty, in English and Malay in Jawi script,[^2] with the red wax seal of Raffles, and the seal impressions of Sultan Husain Syah and Temenggung Abdul Rahman stamped in lampblack.[^3]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-1/malay-seals/3-seals.png">
 
-A black and white reproduction of the last page of the treaty signed on 6 February 1819. The bilingual treaty – in English and Malay in Jawi script – shows the signature of Stamford Raffles and his red wax seal (top), and the seal impressions of Temenggung Abdul Rahman (left) and Sultan Husain Syah (right) stamped in lampblack. <i>Image reproduced from Buckley, C.B. (1902). An Anecdotal History of Old Times in Singapore (vol. I; Frontispiece). Singapore: Fraser & Neave, Limited. Collection of the National Library, Singapore (Accession no.: B02966444B)</i>.
+A black and white reproduction of the last page of the treaty signed on 6 February 1819. The bilingual treaty – in English and Malay in Jawi script – shows the signature of Stamford Raffles and his red wax seal (top), and the seal impressions of Temenggung Abdul Rahman (left) and Sultan Husain Syah (right) stamped in lampblack. <i>Image reproduced from Buckley, C.B. (1902). An Anecdotal History of Old Times in Singapore (vol. I; Frontispiece). Singapore: Fraser &amp; Neave, Limited. Collection of the National Library, Singapore (Accession no.: B02966444B)</i>.
 
 </div>
 
@@ -59,7 +59,7 @@ The Temenggung’s seal is inscribed *al-wakil al-Sultan Mahmud Syah Datuk Temen
 The petalled floral shape is typical of Malay seals, recalling the lotus blossom; the eight petals reflect a deep-seated Malay attachment to the cosmographical significance of multiples of four. Temenggung Abdul Rahman used this seal all his life and it is shown below impressed on a letter to Raffles in 1824. As is well known, all of Raffles’ possessions and correspondence from his second period of service in Southeast Asia were lost in the wreck of the *Fame* on his voyage homewards on 2 February 1824. However, this letter from the Temenggung is dated 23 August 1824 and must therefore have been sent to Raffles when he was already back in London.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-1/malay-seals/temenggung.png">
 
 Letter from Temenggung Abdul Rahman of Johor (featuring his seal) to T.S. Raffles in Bengkulu, 27 Zulhijah 1239 (23 August 1824). British Library, MSS Eur D.742/1, f. 148 (cat. 879 in Gallop 2019).
@@ -70,11 +70,11 @@ Sultan Husain’s seal, on the other hand, opens with the most common expression
 
 #### **Seals of Malay Nobles**
 
-In many parts of the Islamic world, from Istanbul to Cairo, seals were used at all levels of society, from sultans to slaves. In the Malay world however, seals were a royal prerogative and the use of seals was restricted to court circles. The clearest proof of this accepted convention was that even the famous writer Munsyi Abdullah (born Abdullah bin Abdul Kadir), who was renowned as a seal designer, did not have his own seal. His last will and testament, drawn up before he embarked on his Haj pilgrimage in 1856 – and recently exhibited in the National Library of Singapore’s exhibition ["On Paper: Singapore Before 1867"](https://exhibitions.nlb.gov.sg/exhibitions/past-exhibitions/onpaper/) – is not sealed. Thus, the story of Malay seals from Singapore is essentially a study of the seals of Sultan Husain Syah and his short-lived line, until superseded in the second half of the 19th century by the seals 
+In many parts of the Islamic world, from Istanbul to Cairo, seals were used at all levels of society, from sultans to slaves. In the Malay world however, seals were a royal prerogative and the use of seals was restricted to court circles. The clearest proof of this accepted convention was that even the famous writer Munsyi Abdullah (born Abdullah bin Abdul Kadir), who was renowned as a seal designer, did not have his own seal. His last will and testament, drawn up before he embarked on his Haj pilgrimage in 1856 – and recently exhibited in the National Library of Singapore’s exhibition ["On Paper: Singapore Before 1867"](https://exhibitions.nlb.gov.sg/onpaper/about/) – is not sealed. Thus, the story of Malay seals from Singapore is essentially a study of the seals of Sultan Husain Syah and his short-lived line, until superseded in the second half of the 19th century by the seals 
 of the British colonial government.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-1/malay-seals/sultan-hussain.png">
 
 Seal of Sultan Husain Syah in a letter to William Farquhar in Singapore, undated. Library of Congress, MS Jawi 12, no. 41 (cat. 983 in Gallop 2019).
@@ -86,7 +86,7 @@ Among the seals of Sultan Husain Syah’s descendants, that of his oldest son, T
 The seal is round, with the inscription in the middle – *Menyatakan surat Tengku Abdul Jalil sanat 1249*, which means “Signifying a document from Tengku Abdul Jalil, the year 1249” (1833/4) – surmounted by a crown and framed by a shield-shaped looped cord; such borrowings from the iconographic vocabulary of European heraldry can be seen in some Malay seals since the 17th century. 
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-1/malay-seals/abdul-jalil.png">
 
 The seal of Tengku Abdul Jalil, lithographed on a typeset printed Malay letter from Thomas Church, Resident Councillor of Singapore, 1838. The British Library, 14629.c.42 (3) (cat. 985 in Gallop 2019).
@@ -100,7 +100,7 @@ Another seal in the catalogue from the line of Sultan Husain Syah is that of his
 Sultan Ali Iskandar Syah’s red ink seal, dating from 1840, is inscribed thus: *al-wāthiq billāh al-Malik al-Mannān al-Sultan Ali Iskandar Syah ibn al-Sultan Husain Syah al-malik Johor sanat 1256*, which means “He who trusts in God, the King, the Ever-Bestowing One, the Sultan Ali Iskandar Syah, son of the Sultan Husain Syah, the king of Johor, the year 1256” (1840/1).
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-1/malay-seals/sultan-ali.png">
 
 Red ink seal impression of Sultan Ali Iskandar Syah, from a letter to Orfeur Cavenagh, Governor of the Straits Settlements, 30 May 1861. The British Library, MSS Eur. G.38/III, f. 115c (cat. 984 in Gallop 2019).
@@ -110,7 +110,7 @@ Red ink seal impression of Sultan Ali Iskandar Syah, from a letter to Orfeur Cav
 Although Sultan Ali Iskandar’s seal inscription grandiloquently describes him as “the king of Johor”, this claim was short-lived for in 1855, he agreed to relinquish sovereign power to Temenggung Daeng Ibrahim of Johor in return for a pension as well as jurisdiction over the small district of Kesang-Muar. The seal he issued to his senior minister in Muar, Encik Bujal, bears the inscription *al-wakil wa-al-wazir al-Sultan Ali Bujal bin Saadat sanat 1275*, or “The deputy and the vizier of the Sultan Ali, Bujal, son of Saadat, the year 1275” (1858/9). The use of the term *al-wakil* recalls the seals granted by Sultan Ali’s grandfather, Sultan Mahmud Syah III, to his own officers of state.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-1/malay-seals/silver-seal.jpg">
 
 The silver seal matrix of Encik Bujal, official of Sultan Ali, exhibited
@@ -155,7 +155,7 @@ In the course of a series of rhetorical questions defending the claims of the li
 Although Tengku Perabu is not mentioned in Baboo Ramasamy’s letter to the Bendahara of Pahang, he evidently had access to her seal which he used to support his claim of acting in the name of her son and grandson. In view of the unconventional wording and spelling on her seal, Tengku Perabu’s “adopted son for ever and ever” and his personal motivations may indeed have been the driving force behind its very creation.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-1/malay-seals/tengku-perabu.png">
 
 Seal of Tengku Perabu, wife of Sultan Husain Syah and mother of Sultan Ali Iskandar Syah, stamped on a letter from Baboo Ramasamy to the Bendahara of Pahang, ca. 1871. Leiden University Library, KITLV Or. 171 (1) (cat. 988 in Gallop 2019).
@@ -184,7 +184,7 @@ The first Ottoman consul in Singapore was Syed Abdullah bin Omar Aljunied, a Had
 It is possible that in the period following Syed Abdullah’s death, there may have been some jockeying among Hadhrami notables in Singapore for the post of consul with Syed Safi being one of the contenders. However there is no mention of Syed Safi in official Ottoman documents and the only known mention of him appears in *The Straits Times* on 2 February 1861. The newspaper reported that Syed Safi, the owner of the ship *Kangaroo* that was used to transport pilgrims to the Hijaz, had tried to circumvent official limits on capacity by sending numerous extra passengers by *tongkang* (small cargo boats) to Karimun island, from where they could embark the ship lying outside of British jurisdiction.[^10] In any case, it seems as if Syed Safi’s ambitions of representing the Ottoman government in Singapore, as embodied in the beautiful seals he pre-emptively commissioned, were not to be realised.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-1/malay-seals/safi.png">
 
 Seal of Syed Safi bin Ali al-Habshi, on a letter to Yang Dipertuan Muda Raja Muhammad Yusuf in Pulau Penyengat, 6 January 1866; at 100 mm in diameter, this is the largest Malay seal in the catalogue. Arsip Nasional Republik Indonesia, Riouw 119 (cat. 1001 in Gallop 2019).
@@ -198,10 +198,10 @@ The earliest known of these British Malay seals is that of Francis Light (1740�
 
 In 1811, Raffles had a Malay seal made for Lord Minto, Governor-General of Bengal. There is no evidence, though, that Raffles himself ever used a Malay seal. A point of difference in usage can be noted: while traditional Malay seals can be characterised as personal official seals – each seal was issued in the name of an individual post holder – British Malay seals were seals of office and could be used by any incumbent. 
 
-At least four Malay seals used from 1883 to 1927 by British governors of the Straits Settlements in Singapore are documented in the catalogue. Shown below is the seal used by at least three governors – Arthur Young (1911–20), Laurence Guillemard (1920–7) and Hugh Clifford (1927–30) – inscribed in Malay and English: *Yang terutama Gabenor dan Komandar in Cif Singapura Pulau Pinang dan Melaka serta Labuan dan Hai Komisyiner bagi negeri2 Melayu // Governor & Commander-in-Chief, S.S. & Labuan, High Commisioner for the Malay States*.
+At least four Malay seals used from 1883 to 1927 by British governors of the Straits Settlements in Singapore are documented in the catalogue. Shown below is the seal used by at least three governors – Arthur Young (1911–20), Laurence Guillemard (1920–7) and Hugh Clifford (1927–30) – inscribed in Malay and English: *Yang terutama Gabenor dan Komandar in Cif Singapura Pulau Pinang dan Melaka serta Labuan dan Hai Komisyiner bagi negeri2 Melayu // Governor &amp; Commander-in-Chief, S.S. &amp; Labuan, High Commisioner for the Malay States*.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-1/malay-seals/british-seal.png">
 
 Malay seal of the British Governor of the Straits Settlements, on a letter from the Acting Governor to Sultan Sulaiman of Terengganu, 11 June 1925. Arkib Negara Malaysia Terengganu [1985] (cat. 998 in Gallop 2019).
@@ -211,14 +211,14 @@ Malay seal of the British Governor of the Straits Settlements, on a letter from 
 Traditional Malay seals were generally personal official seals. Behind the office of state named on each seal was an individual, whose predilections might be glimpsed in the form of name, family pedigree, date of accession to office and religious sentiment that they chose to have inscribed, as well as in the aesthetic choices affecting shape and decoration. However, with the introduction around the beginning of the 20th century of European-style seals of office – designed to be used by successive incumbents of a post – personal preferences began receding from view and we are merely left with the anonymising cloak of administrative authority.
 
 
-|<img src="/images/Vol-16-issue-1/malay-seals/Malay-Seals-mockup.png" style="width: 300px; height: 250px;" />|
+|<img src="/images/Vol-16-issue-1/malay-seals/Malay-Seals-mockup.png" style="width: 300px; height: 250px;">|
 
 |Annabel Teh Gallop’s *Malay Seals from the Islamic World of Southeast Asia* (2019) is published in Singapore by NUS Press in association with The British Library. The catalogue is available for reference at the Lee Kong Chian Reference Library ([Call no.: RSING 737.60959 GAL](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203922496)). It also retails at major bookshops in Singapore and overseas. |
 
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-1/authors/Annabel_Teh_Gallop.png" style="width: 100px; height: 100px;" />
+<br>
+<img src="/images/Vol-16-issue-1/authors/Annabel_Teh_Gallop.png" style="width: 100px; height: 100px;">
 
 <b> Dr Annabel Teh Gallop</b> is head of the Southeast Asian Collection at The British Library. She works on Malay and Indonesian manuscripts and has a particular interest in letters, documents, seals, and the illumination of Qur’ans and other Islamic manuscripts from Southeast Asia.
 </div>
@@ -229,16 +229,16 @@ Traditional Malay seals were generally personal official seals. Behind the offic
 
 Buckley, C.B. (1984). [*An anecdotal history of old times in Singapore 1819–1867*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082239). Singapore: Oxford University Press. (Call no.: RSING 959.57 BUC-[HIS])
 
-Ismail Hakki Kadi & Peacock, A.C.S. (2020). *Ottoman-Southeast Asian relations: Sources from the Ottoman archives*. Leiden: Brill. (2 vols.). (Not available in NLB holdings)
+Ismail Hakki Kadi &amp; Peacock, A.C.S. (2020). *Ottoman-Southeast Asian relations: Sources from the Ottoman archives*. Leiden: Brill. (2 vols.). (Not available in NLB holdings)
 
 Taner, S.H. (2015). [*The first Turkish representatives in Singapore and Consul General Ahmed Ataullah Efendi*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202777287). Singapore: Embassy of the Republic of Turkey in Singapore. (Available via Publication SG) 
 
-Winstedt, R.O., Khoo, K.K., & Ismail Hussein. (1992). *[A history of Johore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6453077) (1365–1941)*. Kuala Lumpur: Printed for the Malaysian Branch of the Royal Asiatic Society by Academe Art & Printing Services Sdn. Bhd. (Call no.: RSING 959.511903 WIN)
+Winstedt, R.O., Khoo, K.K., &amp; Ismail Hussein. (1992). *[A history of Johore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6453077) (1365–1941)*. Kuala Lumpur: Printed for the Malaysian Branch of the Royal Asiatic Society by Academe Art &amp; Printing Services Sdn. Bhd. (Call no.: RSING 959.511903 WIN)
 
 ##### NOTES
 [^1]: Gallop, A.T. (2019). [*Malay seals from the Islamic world of Southeast Asia: Content, form, context, catalogue*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203922496). Singapore: NUS Press in association with The British Library. (Call no.: RSING 737.60959 GAL)
 [^2]: Jawi is the modified Arabic script used to write the Malay language before it became displaced in popular use by a romanised script known as Rumi.
-[^3]: Buckley, C.B. (1902). *[An anecdotal history of old times in Singapore (Vol. I, Frontispiece)](https://eresources.nlb.gov.sg/printheritage/detail/303beefb-31d7-4dad-83fb-593054096717.aspx)*. Singapore: Fraser & Neave, Limited. (Accession no.: B02966444B). Retrieved from BookSG. 
+[^3]: Buckley, C.B. (1902). *[An anecdotal history of old times in Singapore (Vol. I, Frontispiece)](https://eresources.nlb.gov.sg/printheritage/detail/303beefb-31d7-4dad-83fb-593054096717.aspx)*. Singapore: Fraser &amp; Neave, Limited. (Accession no.: B02966444B). Retrieved from BookSG. 
 [^4]: [How Singapore was founded: Signing of the treaty on February 6, 1819](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19371025-1.2.46). (1937, October 25). *The Straits Times*, p. 10. Retrieved from NewspaperSG. 
 [^5]: [Buckley](https://eresources.nlb.gov.sg/printheritage/detail/303beefb-31d7-4dad-83fb-593054096717.aspx), 1902, p. 132.
 [^6]: [The Johore claimant](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk18970928-1.2.23). (1897, September 28). *The Singapore Free Press and Mercantile Advertiser (Weekly)*, p. 4. Retrieved from NewspaperSG. 
@@ -246,5 +246,3 @@ Winstedt, R.O., Khoo, K.K., & Ismail Hussein. (1992). *[A history of Johore](htt
 [^8]: National Archives of Indonesia, Riouw 119. Letter in Malay from al-Sayyid al-Safi bin 'Ali al-Habshi to Yang Dipertuan Muda Raja Muhammad Yusuf ibn al-marhum Raja Ali in Riau, 14 Rejab 1282 (3 December 1865).
 [^9]: [Gallop](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203922496), 2019, p. 341. 
 [^10]: [Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18610202-1.2.4). (1861, February 2). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
-
-
