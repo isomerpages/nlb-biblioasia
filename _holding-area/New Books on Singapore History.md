@@ -79,7 +79,7 @@ This is an English translation of 达哥打, winner of the 2020 Singapore Litera
 
 
 
-#### **[Keng Teck Whay: 200 Years of Brotherhood ](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300045968)**
+#### **[Keng Teck Whay: 200 Years of Brotherhood ](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300056090)**
 Edited by Ronney Tan Koon Siang, Kua Bak Lim and Lim How Seng
 
 Keng Teck Whay (2023), 509 pages
@@ -91,3 +91,35 @@ Call no. RSING 369.25957 KEN
 
  
 Keng Teck Whay, an exclusive and secretive mutual-aid society in Singapore, was founded in 1831 by 36 wealthy Hokkien-Peranakan businessmen from Melaka. It is a “Chinese brotherhood” society, and descendants of the founders are still considered blood brothers today. Membership is passed on only to the eldest son of the founders. The society continues to provide financial aid to members till today.
+
+
+
+#### **[Drama Box and the Social Theatre of Singapore: Cultural Intervention and Artistic Autonomy, 1990–2006](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300060744)**
+
+By Ng How Wee
+
+Drama Box Ltd and Pagesetters Services Pte Ltd (2024)
+
+[Ebook from NLB OverDrive](https://nlb.overdrive.com/media/10555679)
+
+
+![](/images/Vol%2019%20Issue%204/New%20Books/chaptersonasia4.jpg)
+
+
+Drama Box has emerged as a leading Chinese-language theatre company in Singapore, a prominent force in the field of theatre for social intervention and amplifying the voices of marginalised communities. The writer examines Drama Box’s most influential works between 1990 and 2006, and looks at how the company has managed to balance government policy, censorship and financial imperatives with artistic autonomy.
+
+
+
+#### **[Rainbow After Dusk: Lim Tze Peng Remembers ](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300062932)**
+
+By Woon Tai Ho
+
+World Scientific Publishing (2023), 178 pages
+
+Call no.: RSING 759.95957 WOO
+
+
+
+![](/images/Vol%2019%20Issue%204/New%20Books/chaptersonasia4.jpg)
+
+_Rainbow After Dusk_ tells the story of Singaporean artist Lim Tze Peng, focusing on his important works – the Kampong series, Chinatown and his works on the Singapore River. Lim’s art acts as a record of the life and time of a Singapore that no longer exists. Through honest and poignant interviews, the artist tells his own life story through his artworks.
