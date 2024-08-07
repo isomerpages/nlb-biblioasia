@@ -217,4 +217,4 @@ https://letterpresscommons.com
 Melbourne Museum of Printing<br>
 https://www.mmop.org.au/showroom/show03.htm
 
-<i>Straits Times</i>, “[The New Malay Linotype](https://eresources.nlb.gov.shttps:/eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19240710-1.2.58g/newspapers/digitised/article/straitstimes19240710-1.2.58).” 10 July 1924, 9. (From NewspaperSG)
+<i>Straits Times</i>, “[The New Malay Linotype](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19240710-1.2.58).” 10 July 1924, 9. (From NewspaperSG)

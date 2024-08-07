@@ -176,7 +176,7 @@ Harun passed away on 9 November 1986. He was posthumously awarded the "Anumerta 
 
 Source:
 Harun Aminurrashid: Biography
-<a href="https://exhibitions.nlb.gov.sg/exhibitions/past-exhibitions/singaporeliterarypioneers/gallery/">https://exhibitions.nlb.gov.sg/exhibitions/past-exhibitions/singaporeliterarypioneers/gallery/</a>
+<a href="https://exhibitions.nlb.gov.sg/singaporeliterarypioneers/gallery/">https://exhibitions.nlb.gov.sg/singaporeliterarypioneers/gallery/</a>
 </div>
 
 <br>

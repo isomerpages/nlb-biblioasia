@@ -1,12 +1,12 @@
 ---
-title: 30 Years of The Great Singapore Workout
+title: 30 Years of the Great Singapore Workout
 permalink: /vol-20/issue-3/oct-dec-2024/great-singapore-workout/
 variant: markdown
 description: Launched in 1993, the Great Singapore Workout has spawned
   variations and helped to make Singaporeans lead a more physically active life.
 image: /images/Vol 20 Issue 3/Singapore Workout/workout_img5a.jpg
 ---
-#### Launched in 1993, the Great Singapore Workout has spawned variations and helped to make Singaporeans lead a more physically active life.&nbsp;
+#### Launched in 1993, the Great Singapore Workout helped spread the message that being physically active was important.
 
 By Lim Tin Seng
 

@@ -6,7 +6,7 @@ variant: markdown
 ---
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/great-singapore-workout/">30 Years of The Great Singapore Workout</a>
 
-Launched in 1993, the Great Singapore Workout has spawned variations and helped to make Singaporeans lead a more physically active life.
+Launched in 1993, the Great Singapore Workout helped spread the message that being physically active was important.
 
 <img src="/images/Vol%2020%20Issue%203/Singapore%20Workout/workout_img5a.jpg" style="width:90%;">
 <hr>
