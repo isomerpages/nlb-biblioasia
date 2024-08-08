@@ -44,8 +44,7 @@ Call no. RSING 369.25957 KEN
 
 ![](/images/Vol%2020%20Issue%203/New%20Books/books_keng.jpg)
 
- 
-Keng Teck Whay, an exclusive and secretive mutual-aid society in Singapore, was founded in 1831 by 36 wealthy Hokkien-Peranakan businessmen from Melaka. It is a “Chinese brotherhood” society, and descendants of the founders are still considered blood brothers today. Membership is passed on only to the eldest son of the founders. The society continues to provide financial aid to members till today.
+This is the never-been-told story of Keng Teck Whay, an exclusive and secretive mutual-aid society founded in 1831 in Singapore by 36 wealthy Hokkien-Peranakan businessmen from Melaka. It is a “Chinese brotherhood” society, and descendants of the founders are still considered blood brothers today. The society continues to provide financial aid to members till today.
 
 
 
@@ -65,7 +64,7 @@ This biography of Lee Kong Chian is a complete account of his life, from his chi
 
 
 
-#### **[Rainbow After Dusk: Lim Tze Peng Remembers ](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300062932)**
+#### **[Rainbow After Dusk: Lim Tze Peng Remembers ](https://eservice.nlb.gov.sg/redir/itemdetails?bid=206005549)**
 
 By Woon Tai Ho
 
@@ -94,19 +93,19 @@ S. Rajaratnam – one of Singapore’s founding fathers and its first and longes
 
 
 
-#### **[Singapore’s Orchid Diplomacy](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3000039725)**
+#### **[Singapore’s Orchid Diplomacy](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300039725)**
 By Koh Buck Song
 
 Ministry of Foreign Affairs Singapore and National Parks Board (2024), 205 pages
 
-Call no.: RSING 
+Call no.: RSING 327.5957 KOH
 
 
 ![](/images/Vol%2020%20Issue%203/New%20Books/books_orchid.jpg)
 
  
 
-Commemorating Singapore’s 60th birthday in 2025, _Singapore’s Orchid Diplomacy_ showcases 60 orchid hybrids named after foreign dignitaries and international organisations and events as gestures of goodwill and friendship. These include the _Holttumara_ Indira Gandhi in honour of  Prime Minister of India Mrs Indira Gandhi who visited Singapore in 1968; the _Papilionanda_ Xi Jinping-Peng Liyaun named after President of the People’s Republic of China Xi Jinping and his wife during their state visit to Singapore in 2015; the _Papilionanda_ ASEAN Golden Jubilee to mark the 50th anniversary of ASEAN in 2017; and the _Dendrobium_ Mahathir Siti Hasmah named after Tun Dr Mahathir Mohamad, Prime Minister of Malaysia, and his wife Tun Dr Siti Hasmah Mohd Ali, during their visit to Singapore in 2018.
+Commemorating Singapore’s 60th birthday in 2025, _Singapore’s Orchid Diplomacy_ showcases 60 orchid hybrids named after foreign dignitaries and international organisations and events as gestures of goodwill and friendship. These include the _Holttumara_ Indira Gandhi in honour of  Prime Minister of India Mrs Indira Gandhi who visited Singapore in 1968; the _Papilionanda_ Xi Jinping-Peng Liyuan named after President of the People’s Republic of China Xi Jinping and his wife during their state visit to Singapore in 2015; the _Papilionanda_ ASEAN Golden Jubilee to mark the 50th anniversary of ASEAN in 2017; and the _Dendrobium_ Mahathir Siti Hasmah named after Tun Dr Mahathir Mohamad, Prime Minister of Malaysia, and his wife Tun Dr Siti Hasmah Mohd Ali, during their visit to Singapore in 2018.
 
 
 
@@ -125,6 +124,3 @@ Call no.: RSEA 959.57 TIN-[HIS]
 
 
 For some 2,000 years, port cities have been centres of global trade and the exchange of goods, peoples, cultures and ideas. They developed into cosmopolitan and multicultural societies, with their own distinct styles of art, architecture, fashion, food, innovation, popular culture and lifestyles. _The Great Port Cities of Asia_ travels across maritime Asia and the Indian Ocean, and looks at 60 port cities along the coasts and rivers of China, the Indian subcontinent, Southeast Asia, Japan, Korea, the Middle East and Africa. These include Singapore, Guangzhou (Canton), Nagasaki, Aden, Jeddah, Kolkata (Calcutta), Colombo, Batavia (Jakarta) and Manila.
-
-
-
