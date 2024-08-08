@@ -82,7 +82,7 @@ _Rainbow After Dusk_ tells the story of Singaporean artist Lim Tze Peng, focusi
 #### **[S. Rajaratnam: The Authorised Biography, Volume Two: The Lion’s Roar](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300059306)**
 By Irene Ng 
 
-ISEAS - Yusof Ishak Institute, (2024), 776 pages
+ISEAS - Yusof Ishak Institute (2024), 776 pages
 
 Call no.: RSING 327.59570092 NG 
  
