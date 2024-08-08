@@ -8,9 +8,11 @@ description: ""
 By Irene Ng 
 
 ISEAS - Yusof Ishak Institute, (2024), 776 pages
+
 Call no.: RSING 327.59570092 NG 
  
-![](/images/Vol%2019%20Issue%204/New%20Books/chaptersonasia4.jpg)
+
+![](/images/Vol%2020%20Issue%203/New%20Books/books_rajaratnam.jpg)
 
 S. Rajaratnam – one of Singapore’s founding fathers and its first and longest-serving foreign minister – was a man of ideas, ideals and action. This second volume of his biography covers the period from Singapore’s merger with Malaya to form Malaysia in 1963 to his death in 2006. Rajaratnam fought for more than a decade for Singapore’s independence, and to build a non-communal and meritocratic Singapore. As foreign minister, he transformed Singapore’s relations with its neighbours and co-founded ASEAN. As labour minister, he laid the foundation for Singapore’s unique model of tripartism between unions, employers and the government. One of Rajaratnam’s enduring legacies is the national pledge that he drafted in 1966, affirming his belief in a multiracial Singapore regardless of race, language or religion.
 
@@ -24,7 +26,7 @@ Ministry of Foreign Affairs Singapore and National Parks Board (2024), 205 pages
 Call no.: RSING 
 
 
-![](/images/Vol%2019%20Issue%204/New%20Books/chaptersonasia4.jpg)
+![](/images/Vol%2020%20Issue%203/New%20Books/books_orchid.jpg)
 
  
 
@@ -41,7 +43,7 @@ Call no.: RSING 338.04095957 LYE
 
 
 
-![](/images/Vol%2019%20Issue%204/New%20Books/chaptersonasia4.jpg)
+![](/images/Vol%2020%20Issue%203/New%20Books/books_lee.jpg)
 
 
 This biography of Lee Kong Chian is a complete account of his life, from his childhood to his death in 1967. Lee was born to a poor family but became a highly successful businessman and entrepreneur who founded several companies, including Lee Rubber and the Oversea-Chinese Banking Corporation. He was the first chancellor of the University of Singapore. Although one of the richest men in Southeast Asia in the 1950s to 1960s, Lee lived a simple and frugal life. The Lee Foundation that he established in 1952 continues to donate to charitable causes today.
@@ -57,7 +59,7 @@ Call no.: RSEA 959.57 TIN-[HIS]
 
 
 
-![](/images/Vol%2019%20Issue%204/New%20Books/chaptersonasia4.jpg)
+![](/images/Vol%2020%20Issue%203/New%20Books/books_port.jpg)
 
 
 For some 2,000 years, port cities have been centres of global trade and the exchange of goods, peoples, cultures and ideas. They developed into cosmopolitan and multicultural societies, with their own distinct styles of art, architecture, fashion, food, innovation, popular culture and lifestyles. _The Great Port Cities of Asia_ travels across maritime Asia and the Indian Ocean, and looks at 60 port cities along the coasts and rivers of China, the Indian subcontinent, Southeast Asia, Japan, Korea, the Middle East and Africa. These include Singapore, Guangzhou (Canton), Nagasaki, Aden, Jeddah, Kolkata (Calcutta), Colombo, Batavia (Jakarta) and Manila.
@@ -72,7 +74,7 @@ City Book Room (2024), 260 pages
 Call no.: RSING 959.57 WON  
 
 
-![](/images/Vol%2019%20Issue%204/New%20Books/chaptersonasia4.jpg)
+![](/images/Vol%2020%20Issue%203/New%20Books/books_dakota.jpg)
 
 
 This is an English translation of 达哥打, winner of the 2020 Singapore Literature Prize (Chinese Creative Non-fiction). Set in the 1970s and 1980s, it tells the story of an iconic Singapore neighbourhood called Dakota Crescent that was lost to urban renewal.
@@ -87,7 +89,7 @@ Keng Teck Whay (2023), 509 pages
 Call no. RSING 369.25957 KEN 
 
 
-![](/images/Vol%2019%20Issue%204/New%20Books/chaptersonasia4.jpg)
+![](/images/Vol%2020%20Issue%203/New%20Books/books_keng.jpg)
 
  
 Keng Teck Whay, an exclusive and secretive mutual-aid society in Singapore, was founded in 1831 by 36 wealthy Hokkien-Peranakan businessmen from Melaka. It is a “Chinese brotherhood” society, and descendants of the founders are still considered blood brothers today. Membership is passed on only to the eldest son of the founders. The society continues to provide financial aid to members till today.
@@ -103,7 +105,7 @@ Drama Box Ltd and Pagesetters Services Pte Ltd (2024)
 [Ebook from NLB OverDrive](https://nlb.overdrive.com/media/10555679)
 
 
-![](/images/Vol%2019%20Issue%204/New%20Books/chaptersonasia4.jpg)
+![](/images/Vol%2020%20Issue%203/New%20Books/books_drama.jpg)
 
 
 Drama Box has emerged as a leading Chinese-language theatre company in Singapore, a prominent force in the field of theatre for social intervention and amplifying the voices of marginalised communities. The writer examines Drama Box’s most influential works between 1990 and 2006, and looks at how the company has managed to balance government policy, censorship and financial imperatives with artistic autonomy.
@@ -120,6 +122,6 @@ Call no.: RSING 759.95957 WOO
 
 
 
-![](/images/Vol%2019%20Issue%204/New%20Books/chaptersonasia4.jpg)
+![](/images/Vol%2020%20Issue%203/New%20Books/books_rainbow.jpg)
 
 _Rainbow After Dusk_ tells the story of Singaporean artist Lim Tze Peng, focusing on his important works – the Kampong series, Chinatown and his works on the Singapore River. Lim’s art acts as a record of the life and time of a Singapore that no longer exists. Through honest and poignant interviews, the artist tells his own life story through his artworks.
