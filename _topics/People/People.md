@@ -441,12 +441,14 @@ European families in colonial Singapore had a retinue of servants – cook, chau
 <img src="/images/Vol-12-issue-2/dont-mess-with-the-cook/01-dontmesswiththecook.jpg" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-2/jul-sep-2016/dontmesswiththecook/">**Mem, Don’t Mess with the Cook**</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-1/apr-jun-2016/gaston-melies/">**Gaston Mèliès and His Lost Films of Singapore**</a>
 
-European families in colonial Singapore had a retinue of servants – cook, chauffeur, nanny, gardener and houseboy – but this did not guarantee a life of ease, as&nbsp;**Janice Loo**&nbsp;tells us.
+Gaston Méliès may be the first filmmaker to have directed fiction films in Singapore. Unfortunately, none have survived the ravages of time.&nbsp;**Raphaël Millet**&nbsp;tells you why.
 
-<img src="/images/Vol-12-issue-2/dont-mess-with-the-cook/01-dontmesswiththecook.jpg" style="width:80%;">
+<img src="/images/Vol-12-issue-1/gaston-melies/01-gastonmelies.jpg" style="width:80%;">
 <hr>
+
+
 
 
 
