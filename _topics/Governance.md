@@ -205,4 +205,14 @@ A permanent exhibition on Singapore’s constitutional history – from its foun
 <img src="/images/Vol-12-issue-3/law-of-the-land/01-lawofland.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="vol-12/issue-2/jul-sep-2016/index-singapore-info/"> **Index to Singapore Information**</a>
+
+This useful index serves as the gateway to Singapore-related articles published in periodicals.&nbsp;**Leong Hui Chuan**&nbsp;and&nbsp;**Chris Tang**&nbsp;explain its value.
+
+<img src="/images/Vol-12-issue-2/index-to-singapore-information/01-indextosingapore.jpg" style="width:100%;">
+<hr>
+
+
+
+
 
