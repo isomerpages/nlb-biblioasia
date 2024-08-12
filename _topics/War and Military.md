@@ -220,3 +220,12 @@ Christian POWs interned during the Japanese Occupation found ingenious ways to w
 <img src="/images/Vol-12-issue-3/building-faith/01-building_faith.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="vol-12/issue-2/jul-sep-2016/bahau/">**Bahau: A Utopia That Went Awry**</a>
+
+The resettlement of Eurasian and Chinese Catholics in the jungles of Malaysia during World War II has been largely forgotten.&nbsp;**Fiona Hodgkins**&nbsp;chronicles its painful history.
+
+<img src="/images/Vol-12-issue-2/bahau/01-bahau.jpg" style="width:80%;">
+<hr>
+
+
+
