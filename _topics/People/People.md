@@ -420,6 +420,12 @@ In the 1820s, some “nurses” in Singapore were actually chained convicts.&nbs
 <img src="/images/Vol-12-issue-2/angels-in-white/02-angelsinwhite.jpg" style="width:100%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-2/jul-sep-2016/david-marshall/">**The Fruit of His Labour: David Marshall’s Old Apple Tree**</a>
+
+Singapore’s fiery Chief Minister used to hold court under an apple tree at Empress Place. But was it really an apple tree?&nbsp;**Marcus Ng**&nbsp;separates fact from fiction.
+
+<img src="/images/Vol-12-issue-2/david-marshall/01-davidmarshall.jpg" style="width:80%;">
+<hr>
 
 
 <hr>
