@@ -417,9 +417,7 @@ The Koh Seow Chuan Collection at the National Library includes documents from th
 
 In the 1820s, some “nurses” in Singapore were actually chained convicts.&nbsp;**Pattarin Kusolpalin**&nbsp;chronicles the history of nursing from 1819 until Independence.
 
-e2-angelsinwhite.jpg)
-
-<img src="/images/Vol-12-issue-2/angels-in-white/02" style="width:80%;">
+<img src="/images/Vol-12-issue-2/angels-in-white/02-angelsinwhite.jpg" style="width:100%;">
 <hr>
 
 
