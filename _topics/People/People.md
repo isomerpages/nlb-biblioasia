@@ -413,5 +413,15 @@ The Koh Seow Chuan Collection at the National Library includes documents from th
 <img src="/images/Vol-12-issue-2/eu-tong-sen/01-eutongsen.jpg" style="width:60%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-2/jul-sep-2016/angels-in-white/">**Angels in White: Early Nursing in Singapore**</a>
+
+In the 1820s, some “nurses” in Singapore were actually chained convicts.&nbsp;**Pattarin Kusolpalin**&nbsp;chronicles the history of nursing from 1819 until Independence.
+
+e2-angelsinwhite.jpg)
+
+<img src="/images/Vol-12-issue-2/angels-in-white/02" style="width:80%;">
+<hr>
+
+
 
 <hr>
