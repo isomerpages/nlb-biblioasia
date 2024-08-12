@@ -427,5 +427,19 @@ Singapore’s fiery Chief Minister used to hold court under an apple tree at Emp
 <img src="/images/Vol-12-issue-2/david-marshall/01-davidmarshall.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-2/jul-sep-2016/yamamoto-otokichi/">**Singapore’s First Japanese Resident: Yamamoto Otokichi**</a>
+
+A sailor travels halfway around the world in his attempt to return home, and becomes the first Japanese resident in Singapore in the process.&nbsp;**Bonny Tan**&nbsp;tells the story.
+
+<img src="/images/Vol-12-issue-2/yamamoto-otokichi/02-yamamoto-otokichi.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-2/jul-sep-2016/yamamoto-otokichi/">**Singapore’s First Japanese Resident: Yamamoto Otokichi**</a>
+
+A sailor travels halfway around the world in his attempt to return home, and becomes the first Japanese resident in Singapore in the process.&nbsp;**Bonny Tan**&nbsp;tells the story.
+
+<img src="/images/Vol-12-issue-2/yamamoto-otokichi/02-yamamoto-otokichi.jpg" style="width:80%;">
+<hr>
+
 
 <hr>
