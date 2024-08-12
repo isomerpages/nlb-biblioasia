@@ -399,6 +399,19 @@ Tan Swie Hian, whose paintings have fetched record prices, was in fact better kn
 <img src="/images/Vol-12-issue-3/tan-swie-han/The-Squirrel-Dance.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-3/oct-dec-2016/baring-mind-soul/">**Baring Mind and Soul – Tan Swie Han**</a>
+
+After a long absence of 43 years, Singapore’s celebrated multi-hyphenate artist returns to the National Library with a new solo exhibition.&nbsp;**Chung Sang Hong**&nbsp;tells you more.
+
+<img src="/images/Vol-12-issue-3/baring-mind-and-soul/01-baring-mind-soul.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-2/jul-sep-2016/eu-tong-sen/">**Eu Tong Sen and His Business Empire 余东旋与他的商业帝国**</a>
+
+The Koh Seow Chuan Collection at the National Library includes documents from the illustrious businessman Eu Tong Sen.&nbsp;**Seow Peck Ngiam**&nbsp;describes some of its highlights.
+
+<img src="/images/Vol-12-issue-2/eu-tong-sen/01-eutongsen.jpg" style="width:60%;">
+<hr>
 
 
 <hr>
