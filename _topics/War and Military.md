@@ -213,6 +213,10 @@ February 15 marks the 75th anniversary of the fall of Singapore.&nbsp;**Goh Sin 
 <img src="/images/Vol-12-issue-4/the-sook-ching/1-sook-ching.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-3/oct-dec-2016/building-faith/">**Building Faith: Wartime Churches in Syonan-to**</a>
 
+Christian POWs interned during the Japanese Occupation found ingenious ways to worship.&nbsp;**Gracie Lee**&nbsp;looks at a book documenting these makeshift churches in war-torn Singapore.
 
+<img src="/images/Vol-12-issue-3/building-faith/01-building_faith.jpg" style="width:80%;">
 <hr>
+
