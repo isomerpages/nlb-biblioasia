@@ -374,9 +374,18 @@ Danish missionary Claudius Henry Thomsen produced some of the earliest Malay-lan
 
 **Sue-Ann Chia**&nbsp;traces the classic rags-to-riches story of a vegetable seller turned land speculator who left a hospital named after him in Singapore.
 
-
 <img src="/images/Vol-12-issue-4/from-pauper-to-philanthropist/1-from_pauper_to_philanthropist.jpg" style="width:60%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-3/oct-dec-2016/sr-nathan/">**S R Nathan: 50 Stories from My Life**</a>
+
+The late S R Nathan published seven books in his lifetime, but his most accessible is probably&nbsp;_50 Stories from My Life_. These two selections offer contrasting glimpses of the man who was President of Singapore from 1999–2011.
+
+<img src="/images/Vol-12-issue-3/s-r-nathan/01_sr_nathan.jpg" style="width:80%;">
+<hr>
+
+
+
 
 
 <hr>
