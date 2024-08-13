@@ -65,5 +65,10 @@ Incredibly, people living in some of the first one-room flats had to share their
 <img src="/images/Vol-12-issue-3/public-housing-private-lives/02-publichousing-privatelives.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-2/jul-sep-2016/dontmesswiththecook/">**Mem, Don’t Mess with the Cook**</a>
 
+European families in colonial Singapore had a retinue of servants – cook, chauffeur, nanny, gardener and houseboy – but this did not guarantee a life of ease, as&nbsp;**Janice Loo**&nbsp;tells us.
+
+<img src="/images/Vol-12-issue-2/dont-mess-with-the-cook/01-dontmesswiththecook.jpg" style="width:80%;">
+<hr>
 
