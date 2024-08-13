@@ -56,3 +56,11 @@ A new exhibition on Singapore theatre traces its growth from its nascent days in
 
 <img src="/images/Vol-12-issue-4/glitz-and-glamour/3-beneath_glitz_glamour.jpg" style="width:80%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-1/apr-jun-2016/seni-persembahan/">**Seni Persembahan Bangsawan**</a>
+
+<img src="/images/Vol-12-issue-1/seni-persembahan-bangsawan/01-seni.jpg" style="width:80%;">
+<hr>
+
+
+
