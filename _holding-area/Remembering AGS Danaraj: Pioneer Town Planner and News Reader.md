@@ -31,9 +31,26 @@ As a newsreader, Danaraj presented more than 38 broadcasts on radio and televisi
 
 Danaraj was born in Pahang, Malaysia in 1931. His family moved to Singapore in 1940, where he studied at St. Andrew’s School from 1947–49.[^7] In 1950, when he was 19, he joined the Singapore Improvement Trust (SIT) as an officer and was a draughtsman of Sir George Pepler’s Diagnostic Survey Team, whose work involved the preparation of the 20-year Master Plan for Singapore. (Pepler was the Town Planning Consultant to the Singapore government).[^8] Danaraj was also part of the team that organised the exhibition “Homes of Singapore” that was held at the Victoria Concert Hall in 1951.[^9]
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/Homes_of_Singapore.png" style="width: 80%;">From left to right) Robert Gardner-Medwin (UN Tropical Mission), Danaraj and Earnest P. (SIT) at the “Homes of Singapore” exhibition at the Victoria Memorial Hall, 9 January 1951. <i>Courtesy of the Danaraj Family Collection.</i></div>
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/preparing_Masterplan.png" style="width: 80%;">Danaraj preparing the Master Plan for the 1956 Master Plan exhibition. <i>Courtesy of the Danaraj Family Collection.</i></div> 
+
+The objective of the Master Plan and survey was to propose land use on the island and act as a guide for its physical growth. Danaraj was part of the team that conducted an island-wide diagnostic survey of Singapore, surveying land and building use of both city and rural areas, as well as traffic flow. It provided detailed zoning and density parameters to guide the country’s physical development.[^10] The survey offered a summary of rural areas requiring improvement, identifying issues such as overcrowding, high congestion, housing, recreation for the growing population, sufficient land reserves, eliminating slums, and establishing a green belt around the city to limit urban sprawl.[^11]
+
+After eight years at SIT, Danaraj received a two-year scholarship to the University of Durham King’s College in Britain in 1958.[^12] There, he completed his Diploma in Town Planning. During that time, he was influenced by modern town planning in other European countries such as France, Italy, Belgium, and Germany.[^13] Upon his graduation in 1960, he joined the Planning Department within the Prime Minister’s Office[^14] and took on the role of central planning and commenced work to rebuild the city.[^15]
+
   
 
 * * *
+
+
+  
+
+
 
 
 
@@ -68,3 +85,15 @@ Danaraj was born in Pahang, Malaysia in 1931. His family moved to Singapore in 1
 [^8]:  “[Pepler Faced with Two Big Questions](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19510110-1.2.77),” _Singapore Standard_, 10 January 1951, 5. (From NewspaperSG)
 
 [^9]:  “[S’pore to Hold Show on Housing](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19501224-1.2.37),” _Straits Times_, 24 December 1950, 3. (From NewspaperSG)
+
+[^10]:  “[Future Design for Better Living,”](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19560104-1.2.36) _Singapore Standard_, 4 January 1956, 3. (From NewspaperSG)
+
+[^11]:  “[Future Design for Better Living.”](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19560104-1.2.36); “Colony of Singapore: Master Plan: Written Statement,” December 1955 (Singapore: Government Printing Office), accessed 2 July 2024, digitalgems.nus.edu.sg/shared/colls/hisher/files/MasCol\_v02.pdf
+
+[^12]:  “[The Many Facets of Danaraj’s Life](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19800328-1.2.31).”
+
+[^13]:  “[They Say We Go About in Bullock Carts…And Danaraj is So Shocked](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19600730-1.2.48),” _Singapore Free Press_, 30 July 1960, 5. (From NewspaperSG)
+
+[^14]:  “[Mr A.G.S. Danaraj](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19610113-1.2.65.9),” _Singapore Free Press_, 13 January 1961, 7. (From NewspaperSG)
+
+[^15]:  “Student Has Big Plan for Singapore,” _Evening Chronicle_, 9 July 1960.
