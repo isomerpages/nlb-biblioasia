@@ -275,12 +275,3 @@ The SVC was the precursor of the first organised military service in Singapore a
 <img src="/images/Vol-12-issue-2/singapore-volunteer-corps/01-volunteercorps.jpg" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-2/jul-sep-2016/beach-road-camp/">**Beach Road Camp and the Singapore Volunteer Corps**</a>
-
-The SVC was the precursor of the first organised military service in Singapore and marked the beginning of a volunteer movement that would last for over a century.&nbsp;**Francis Dorai**&nbsp;has the story.
-
-<img src="/images/Vol-12-issue-2/singapore-volunteer-corps/01-volunteercorps.jpg" style="width:80%;">
-<hr>
-
-
-
