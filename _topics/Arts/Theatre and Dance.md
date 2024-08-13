@@ -66,6 +66,5 @@ A new exhibition on Singapore theatre traces its growth from its nascent days in
 
  _Emily of Emerald Hill_&nbsp;is one of Singapore’s most iconic single-person plays.&nbsp;**Corrie Tan**&nbsp;tells you more about the history of the monodrama on the Singapore stage.
  
-<img src="/images/Vol-12-issue-1/one-small-voice/04_onesmallvoice.jpg" style="width:80%;">
+<img src="/images/Vol-12-issue-1/one-small-voice/onesmallvoice_topics.jpg" style="width:80%;">
 <hr>
-
