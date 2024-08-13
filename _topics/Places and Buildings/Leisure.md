@@ -81,5 +81,10 @@ St John’s Island was once home to new migrants, opium addicts and political de
 <img src="/images/Vol-14-issue-1/st-johns-island/StJohn1.JPG" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-1/apr-jun-2016/old-world-amusement/">**Old-world Amusement Parks**</a>
 
+Theme parks in Singapore had their heyday from the 1920s to 50s.&nbsp;**Lim Tin Seng**&nbsp;charts their glory days and subsequent decline.
+
+<img src="/images/Vol-12-issue-1/old-world-amusement-parks/01a_amusementpark.jpg" style="width:80%;">
 <hr>
+
