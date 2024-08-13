@@ -43,9 +43,24 @@ The objective of the Master Plan and survey was to propose land use on the islan
 
 After eight years at SIT, Danaraj received a two-year scholarship to the University of Durham King’s College in Britain in 1958.[^12] There, he completed his Diploma in Town Planning. During that time, he was influenced by modern town planning in other European countries such as France, Italy, Belgium, and Germany.[^13] Upon his graduation in 1960, he joined the Planning Department within the Prime Minister’s Office[^14] and took on the role of central planning and commenced work to rebuild the city.[^15]
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/letter.png" style="width: 60%;">Letter from DH Komlosy (Planning Advisor, SIT) to WA Geenty (Country Planning Officer, Durham, England) commending Danaraj on his work on the Master Plan and recommending him for further training. <i>Courtesy of the Danaraj Family Collection.</i></div> 
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/1951_Master_plan.png" style="width: 80%;"> Danaraj (fifth from left) and DH Komlosy &nbsp;(sixth from right) with staff from SIT at the 1951 Master Plan Exhibition. <i>Courtesy of the Danaraj Family Collection.</i></div> 
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/presented_1960_Master_plan.png" style="width: 80%;">Danaraj with the Master Plan presented in 1960. <i>Courtesy of the Danaraj Family Collection.</i></div> 
+
+<div style="background-color: white;">
+<br>
+<img src="![](/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/Diploma.png)/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/presented_1960_Master_plan.png" style="width: 80%;">Danaraj with the Master Plan presented in 1960. <i>Courtesy of the Danaraj Family Collection.</i></div> 
+
   
 
-* * *
 
 
   
