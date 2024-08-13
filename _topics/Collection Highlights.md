@@ -198,3 +198,11 @@ This valuable collection at the National Library is significant for a number of 
 
 <img src="/images/Vol-12-issue-1/cover-to-cover/01_covertocover.jpg" style="width:90%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-1/apr-jun-2016/raffleslibrary-museum/">**Collecting the Scattered Remains: The Raffles Library and Museum**</a>
+
+**Gracie Lee**&nbsp;charts the history of the Raffles Library – precursor of the National Library – and its enigmatically named “Q” Collection.
+
+<img src="/images/Vol-12-issue-1/raffles-library-and-museum/06a_raffleslibrary.jpg" style="width:80%;">
+<hr>
+
