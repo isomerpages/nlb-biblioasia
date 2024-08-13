@@ -171,3 +171,12 @@ The National Library’s collection of menu cards from Raffles Hotel provides an
 
 <img src="/images/Vol-12-issue-4/party-time-with-raffles/postcard-view.jpg" style="width:80%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-2/jul-sep-2016/eu-tong-sen/">**Eu Tong Sen and His Business Empire 余东旋与他的商业帝国**</a>
+
+The Koh Seow Chuan Collection at the National Library includes documents from the illustrious businessman Eu Tong Sen.&nbsp;**Seow Peck Ngiam**&nbsp;describes some of its highlights.
+
+<img src="/images/Vol-12-issue-2/eu-tong-sen/01-eutongsen.jpg" style="width:60%;">
+<hr>
+
+
