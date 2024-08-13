@@ -260,7 +260,11 @@ Danish missionary Claudius Henry Thomsen produced some of the earliest Malay-lan
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-2/jul-sep-2016/best-nonfiction-book/">**Best Non-Fiction Book of the Year**</a>
 
-
 <img src="/images/Vol-12-issue-2/best-non-fiction-book/01b-nonfictionbook.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-1/apr-jun-2016/spinal-guide/">**Spinal Guide: The Anatomy of a Book**</a>
+
+<img src="/images/Vol-12-issue-1/spinal_guide.jpg" style="width:70%;">
 <hr>
 
