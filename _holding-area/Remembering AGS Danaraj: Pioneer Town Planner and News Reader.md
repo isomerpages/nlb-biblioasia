@@ -57,7 +57,7 @@ After eight years at SIT, Danaraj received a two-year scholarship to the Univers
 
 <div style="background-color: white;">
 <br>
-<img src="![](/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/Diploma.png)/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/presented_1960_Master_plan.png" style="width: 80%;">Danaraj with the Master Plan presented in 1960. <i>Courtesy of the Danaraj Family Collection.</i></div> 
+<img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/Diploma.png" style="width: 50%;">Diploma according Danaraj the title of Fellow of the Royal Town Planning Institute, 1972. <i>Courtesy of the Danaraj Family Collection.</i></div> 
 
   
 
