@@ -242,11 +242,18 @@ The SVC was the precursor of the first organised military service in Singapore a
 <img src="/images/Vol-12-issue-2/singapore-volunteer-corps/01-volunteercorps.jpg" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-2/jul-sep-2016/beach-road-camp/">**Beach Road Camp and the Singapore Volunteer Corps**</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-2/jul-sep-2016/bygone-brands/">**Bygone Brands: Five Names That Are No More**</a>
 
-The SVC was the precursor of the first organised military service in Singapore and marked the beginning of a volunteer movement that would last for over a century.&nbsp;**Francis Dorai**&nbsp;has the story.
+**Sue-Ann Chia**&nbsp;traces the birth and death of five companies, reliving the forgotten stories of some of Singapore’s biggest brand names.
 
-<img src="/images/Vol-12-issue-2/singapore-volunteer-corps/01-volunteercorps.jpg" style="width:80%;">
+<img src="/images/Vol-12-issue-2/bygone-brands/01-bygonebrands.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-1/apr-jun-2016/raffleslibrary-museum/">**Collecting the Scattered Remains: The Raffles Library and Museum**</a>
+
+**Gracie Lee**&nbsp;charts the history of the Raffles Library – precursor of the National Library – and its enigmatically named “Q” Collection.
+
+<img src="/images/Vol-12-issue-1/raffles-library-and-museum/06a_raffleslibrary.jpg" style="width:80%;">
 <hr>
 
 
