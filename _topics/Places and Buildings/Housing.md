@@ -50,4 +50,12 @@ Public housing is a Singapore success story, but the early years of high-rise li
 <img src="/images/Vol-14-issue-2/our-home-sweet-home/Home1.JPG" style="width:60%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-3/oct-dec-2016/publichouse-pvtlives/">**Public Housing, Private Lives**</a>
+
+Incredibly, people living in some of the first one-room flats had to share their toilets and kitchens with strangers.&nbsp;**Yu-Mei Balasingamchow**&nbsp;tells you how far public housing has come since 1960.
+
+<img src="/images/Vol-12-issue-3/public-housing-private-lives/02-publichousing-privatelives.jpg" style="width:80%;">
+<hr>
+
+
 
