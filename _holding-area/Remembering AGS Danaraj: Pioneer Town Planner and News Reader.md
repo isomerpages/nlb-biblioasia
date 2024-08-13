@@ -27,14 +27,17 @@ Being a part-time newsreader could occasionally be harrowing. Once, he was so la
 
 As a newsreader, Danaraj presented more than 38 broadcasts on radio and television. He covered a diverse range of topics, from “Redeveloping Toa Payoh”[^3] and “Rebuilding the City”[^4] to “Batik-Making”[^5] and “Keeping Birds as a Hobby”.[^6]
 
+#### **Career: Planning a Nation**
+
+Danaraj was born in Pahang, Malaysia in 1931. His family moved to Singapore in 1940, where he studied at St. Andrew’s School from 1947–49.[^7] In 1950, when he was 19, he joined the Singapore Improvement Trust (SIT) as an officer and was a draughtsman of Sir George Pepler’s Diagnostic Survey Team, whose work involved the preparation of the 20-year Master Plan for Singapore. (Pepler was the Town Planning Consultant to the Singapore government).[^8] Danaraj was also part of the team that organised the exhibition “Homes of Singapore” that was held at the Victoria Concert Hall in 1951.[^9]
+
   
 
 * * *
 
 
-  
 
-* * *
+
 
 
 
@@ -59,3 +62,9 @@ As a newsreader, Danaraj presented more than 38 broadcasts on radio and televisi
 [^5]:  “[Batik-making](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/c9713194-3c1d-11ee-9776-0050569c7836),” 1974, audio recording, 0.00-3.19. (From National Archives of Singapore accession no. 2023014228)
 
 [^6]:  “[Keeping Birds as a Hobby](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/c9713194-3c1d-11ee-9776-0050569c7836),” 1974, audio recording, 3:20-7:07. (From National Archives of Singapore accession no. 2023014228)
+
+[^7]:  Based on Danaraj’s personal documents such as birth and citizen certificates and school records.
+
+[^8]:  “[Pepler Faced with Two Big Questions](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19510110-1.2.77),” _Singapore Standard_, 10 January 1951, 5. (From NewspaperSG)
+
+[^9]:  “[S’pore to Hold Show on Housing](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19501224-1.2.37),” _Straits Times_, 24 December 1950, 3. (From NewspaperSG)
