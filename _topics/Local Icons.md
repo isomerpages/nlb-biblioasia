@@ -262,7 +262,3 @@ Theme parks in Singapore had their heyday from the 1920s to 50s.&nbsp;**Lim Tin 
 
 <img src="/images/Vol-12-issue-1/old-world-amusement-parks/01a_amusementpark.jpg" style="width:80%;">
 <hr>
-
-
-
-
