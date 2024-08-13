@@ -157,11 +157,14 @@ These fanged beasts are by turns both captivating as they are terrifying.&nbsp;*
 <img src="/images/Vol-12-issue-3/the-tiger-within/tiger_within_topic.png" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-2/jul-sep-2016/best-nonfiction-book/">**Best Non-Fiction Book of the Year**</a>
+
+<img src="/images/Vol-12-issue-2/best-non-fiction-book/01b-nonfictionbook.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-1/apr-jun-2016/remembrance-reading">**In Remembrance of Reading**</a>
 
 Our memories of reading are inextricably linked to the joy we derive from reading books and the places where we read them.&nbsp;**Loh Chin Ee**&nbsp;explains why.
 
 <img src="/images/Vol-12-issue-1/in-remembrance-of-reading/01_reading.jpg" style="width:80%;">
 <hr>
-
-
