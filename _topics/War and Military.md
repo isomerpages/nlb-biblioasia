@@ -233,5 +233,3 @@ An unexpected recollection by her grandmother about her experience of the Japane
 
 <img src="/images/Vol-12-issue-2/my-grandmother-story/01-mygrandmotherstory.jpg" style="width:60%;">
 <hr>
-
-
