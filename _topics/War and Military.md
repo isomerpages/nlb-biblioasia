@@ -227,5 +227,11 @@ The resettlement of Eurasian and Chinese Catholics in the jungles of Malaysia du
 <img src="/images/Vol-12-issue-2/bahau/01-bahau.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-2/jul-sep-2016/my-grandmother-story/">**My Grandmother’s Story**</a>
+
+An unexpected recollection by her grandmother about her experience of the Japanese Occupation sets&nbsp;**Yu-Mei Balasingamchow**&nbsp;thinking about unspoken memories and the stories that haven’t been told.
+
+<img src="/images/Vol-12-issue-2/my-grandmother-story/01-mygrandmotherstory.jpg" style="width:60%;">
+<hr>
 
 
