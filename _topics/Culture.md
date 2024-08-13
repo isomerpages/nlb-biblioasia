@@ -240,8 +240,6 @@ The changing face of fashion in Singapore is the subject of a new book called&nb
 
 The advent of wireless broadcasting created the same ripples that the Internet unleashed in more recent times.&nbsp;**Chua Ai Lin**&nbsp;traces its development in colonial Singapore.
 
-![](/images/Vol-12-issue-1/story-of-singapore-radio/01_singaporeradio.jpg)
-
 <img src="/images/Vol-12-issue-1/story-of-singapore-radio/01_singaporeradio.jpg" style="width:80%;">
 <hr>
 
