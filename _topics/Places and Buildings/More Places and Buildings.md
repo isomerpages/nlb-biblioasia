@@ -246,3 +246,32 @@ The much-loved NCO Club on Beach Road was a favourite downtown R &amp; R spot fo
 
 <img src="/images/Vol-12-issue-4/from-britannia-to-nco-club/1-britannia-nco.jpg" style="width:80%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-3/oct-dec-2016/the-padang/">**The Padang: Centrepiece of Colonial Design**</a>
+
+This expanse of green fringed by grand colonial edifices in the city centre is a statement of British might, as&nbsp;**Lai Chee Kien**&nbsp;tells us.
+
+<img src="/images/Vol-12-issue-3/the-padang/03-The-Padang.jpg" style="width:100%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-3/oct-dec-2016/as-good-as-gold/">**As Good As Gold: The Making of a Financial Centre**</a>
+
+Singapore’s Central Business District didn’t happen by accident.&nbsp;**Lim Tin Seng**&nbsp;recounts how a piece of prime land dubbed as “Golden Shoe” was transformed into a glittering financial hub.
+
+<img src="/images/Vol-12-issue-3/as-good-as-gold/10-as-good-as-gold.jpg" style="width:100%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-3/oct-dec-2016/saving-pearl-bank-apt/">**Saving Pearl Bank Apartments**</a>
+
+Architectural conservation or real estate investment?&nbsp;**Justin Zhuang**&nbsp;ponders over the fate of a 1970s style icon that has seen better times.
+
+<img src="/images/Vol-12-issue-3/saving-pearl-bank-apartments/02-savingpearlbank.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-2/jul-sep-2016/beach-road-camp/">**Beach Road Camp and the Singapore Volunteer Corps**</a>
+
+The SVC was the precursor of the first organised military service in Singapore and marked the beginning of a volunteer movement that would last for over a century.&nbsp;**Francis Dorai**&nbsp;has the story.
+
+<img src="/images/Vol-12-issue-2/singapore-volunteer-corps/01-volunteercorps.jpg" style="width:80%;">
+<hr>
+

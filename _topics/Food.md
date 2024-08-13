@@ -153,6 +153,13 @@ Eric Khoo tells us how the Japanese Occupation,&nbsp; _ramen_&nbsp;noodles and&n
 From cooking, cleaning and becoming a good mother to outsourcing housework as careers for women took off.&nbsp;**Sheere Ng**&nbsp;charts how home economics lessons have evolved over the years.
 
 <img src="/images/Vol-13-issue-4/ideal-singaporean-female/01_idealsgfemale.png" style="width:80%;">
+<hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-2/jul-sep-2016/forgottenfoodmemories/">**Forgotten Foods &amp; Mealtime Memories**</a>
+
+Food writer&nbsp;**Sylvia Tan**&nbsp;remembers the foods and flavours she grew up with and the less than sanitary practices made for stomachs cast in iron.
+
+<img src="/images/Vol-12-issue-2/forgotten-food/01-forgottenfood-mealtimememories.jpg" style="width:60%;">
+<hr>
 
 <hr>

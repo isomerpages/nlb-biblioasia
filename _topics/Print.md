@@ -61,7 +61,6 @@ Malay seals of the 19th century hold important information, says **Annabel Teh G
 There is more to news than meets the eye.&nbsp; **Mazelan Anuar** &nbsp;and&nbsp;**Faridah Ibrahim**&nbsp;give us the scoop on the National Library’s latest exhibition.
 
 <img src="/images/Vol-16-issue-1/News/behind_every_story.jpg" style="width:80%;">
-
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-4/jan-mar-2020/from-lat-pau-zaobao/">From Lat Pau to Zaobao: A History of Chinese Newspapers</a>
@@ -258,3 +257,35 @@ Danish missionary Claudius Henry Thomsen produced some of the earliest Malay-lan
   
 <img src="/images/Vol-12-issue-4/claudius-henry-thomsen/2b_claudies_henry_thomsen_topic.png" style="width:80%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-2/jul-sep-2016/best-nonfiction-book/">**Best Non-Fiction Book of the Year**</a>
+
+<img src="/images/Vol-12-issue-2/best-non-fiction-book/01b-nonfictionbook.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-1/apr-jun-2016/spinal-guide/">**Spinal Guide: The Anatomy of a Book**</a>
+
+<img src="/images/Vol-12-issue-1/spinal_guide.jpg" style="width:70%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-1/apr-jun-2016/collection-on-raffles/">**The Bastin Collection on Raffles**</a>
+
+The National Library recently acquired a treasured collection of letters and books of Sir Stamford Raffles.&nbsp;**J. B. Stanley**&nbsp;describes some of the highlights.
+
+<img src="/images/Vol-12-issue-1/bastin-collection-on-raffles/01a_collectionraffles.jpg" style="width:60%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-1/apr-jun-2016/george-hicks/">**The George Hicks Collection**</a>
+
+This valuable collection at the National Library is significant for a number of reasons.&nbsp;**Eunice Low**&nbsp;explains why.
+
+<img src="/images/Vol-12-issue-1/george-hicks-collection/01_georgehicks.bmp" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-1/apr-jun-2016/cover-to-cover/">**Cover to Cover**</a>
+
+**Barbara Quek**&nbsp;and&nbsp;**Zoe Yeo**&nbsp;highlight entertainment magazine covers of yesteryear from the collections of the National Library.
+
+<img src="/images/Vol-12-issue-1/cover-to-cover/01_covertocover.jpg" style="width:90%;">
+<hr>
+

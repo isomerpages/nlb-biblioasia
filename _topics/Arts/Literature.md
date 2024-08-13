@@ -96,6 +96,7 @@ Classical and Modern Chinese education in Mainland China and Taiwan has been deb
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-2/jul-sep-2017/talesofmalayworld/">Tales of the Malay World: Manuscripts and Early Books</a>
+
 Literary works in the ancient Malay-speaking world were not enjoyed silently but read aloud to an audience, as&nbsp;**Tan Huism**&nbsp;tells us in this latest exhibition by the National Library.
 
 <img src="/images/Vol-13-issue-2/tales-of-malay-world/01_malayworld.jpg" style="width:80%;">
@@ -148,4 +149,23 @@ An American Studies scholar unravels a decades-old mystery surrounding a bone fr
 Students in pre-1970s Singapore had to learn the correct way of writing the Chinese script.&nbsp;**Ho Phang Phow**&nbsp;describes the painstaking process of mastering this craft.
 
 <img src="/images/Vol-12-issue-4/writing-chinese-script/01-writing_chinese_script.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-3/oct-dec-2016/the-tiger-within">**The Tiger Within**</a>
+
+These fanged beasts are by turns both captivating as they are terrifying.&nbsp;**Patricia Bjaaland Welch**&nbsp;explores the tiger motif in the art and literature of Asia.
+
+<img src="/images/Vol-12-issue-3/the-tiger-within/tiger_within_topic.png" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-2/jul-sep-2016/best-nonfiction-book/">**Best Non-Fiction Book of the Year**</a>
+
+<img src="/images/Vol-12-issue-2/best-non-fiction-book/01b-nonfictionbook.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-1/apr-jun-2016/remembrance-reading">**In Remembrance of Reading**</a>
+
+Our memories of reading are inextricably linked to the joy we derive from reading books and the places where we read them.&nbsp;**Loh Chin Ee**&nbsp;explains why.
+
+<img src="/images/Vol-12-issue-1/in-remembrance-of-reading/01_reading.jpg" style="width:80%;">
 <hr>

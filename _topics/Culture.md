@@ -229,7 +229,19 @@ The changing face of fashion in Singapore is the subject of a new book called&nb
 <img src="/images/Vol-12-issue-4/1960s-fashion/01-1960s-fashion.png" style="width:60%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-1/apr-jun-2016/singapore-tv/">**Singapore TV: From Local to Global**</a>
 
+**Lau Joon-Nie**&nbsp;charts the rise of Singaporean television from the first test transmissions to the advent of foreign competition posed by the arrival of cable.
+
+<img src="/images/Vol-12-issue-1/singapore-tv/01-singaporetv.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-1/apr-jun-2016/story-of-sg-radio/">**The Story of Singapore Radio (1924–41)**</a>
+
+The advent of wireless broadcasting created the same ripples that the Internet unleashed in more recent times.&nbsp;**Chua Ai Lin**&nbsp;traces its development in colonial Singapore.
+
+<img src="/images/Vol-12-issue-1/story-of-singapore-radio/01_singaporeradio.jpg" style="width:80%;">
+<hr>
 
 
 <hr>

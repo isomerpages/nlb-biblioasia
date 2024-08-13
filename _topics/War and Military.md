@@ -213,6 +213,23 @@ February 15 marks the 75th anniversary of the fall of Singapore.&nbsp;**Goh Sin 
 <img src="/images/Vol-12-issue-4/the-sook-ching/1-sook-ching.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-3/oct-dec-2016/building-faith/">**Building Faith: Wartime Churches in Syonan-to**</a>
 
+Christian POWs interned during the Japanese Occupation found ingenious ways to worship.&nbsp;**Gracie Lee**&nbsp;looks at a book documenting these makeshift churches in war-torn Singapore.
 
+<img src="/images/Vol-12-issue-3/building-faith/01-building_faith.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="vol-12/issue-2/jul-sep-2016/bahau/">**Bahau: A Utopia That Went Awry**</a>
+
+The resettlement of Eurasian and Chinese Catholics in the jungles of Malaysia during World War II has been largely forgotten.&nbsp;**Fiona Hodgkins**&nbsp;chronicles its painful history.
+
+<img src="/images/Vol-12-issue-2/bahau/01-bahau.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-2/jul-sep-2016/my-grandmother-story/">**My Grandmother’s Story**</a>
+
+An unexpected recollection by her grandmother about her experience of the Japanese Occupation sets&nbsp;**Yu-Mei Balasingamchow**&nbsp;thinking about unspoken memories and the stories that haven’t been told.
+
+<img src="/images/Vol-12-issue-2/my-grandmother-story/01-mygrandmotherstory.jpg" style="width:60%;">
 <hr>

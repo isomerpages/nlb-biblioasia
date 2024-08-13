@@ -26,6 +26,16 @@ sections:
       image: /images/edm_strip_survey_homepage.jpg
       alt: Image alt text
   - infopic:
+      title: New Books on Singapore History (Oct 2024)
+      subtitle: Literature
+      id: infopic
+      description: A quick look at eight new books available in the National Library’s
+        collection.
+      button: New Reads
+      url: /vol-20/issue-3/oct-dec-2024/new-books-on-singapore-history/
+      image: /images/Vol 20 Issue 3/New Books/newbooks_rajaratnam.jpg
+      alt: Image alt text
+  - infopic:
       title: Singapore’s Armenian Church Survived Close to 180 Years
       subtitle: Worship
       id: infopic

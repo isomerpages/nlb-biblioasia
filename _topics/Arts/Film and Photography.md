@@ -120,9 +120,9 @@ One of history’s greatest comic actors, Charlie Chaplin, stops over in Singapo
 <img src="/images/Vol-13-issue-1/chaplin-in-singapore/01_charliechaplin.jpg" style="width:40%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-1/apr-jun-2016/gaston-melies/">**Gaston Mèliès and His Lost Films of Singapore**</a>
 
+Gaston Méliès may be the first filmmaker to have directed fiction films in Singapore. Unfortunately, none have survived the ravages of time.&nbsp;**Raphaël Millet**&nbsp;tells you why.
 
-
-
-
+<img src="/images/Vol-12-issue-1/gaston-melies/01-gastonmelies.jpg" style="width:80%;">
 <hr>

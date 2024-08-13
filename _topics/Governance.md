@@ -197,3 +197,22 @@ Thanks to land reclamation, the tiny red dot has broadened its shores substantia
 
 <img src="/images/Vol-13-issue-1/land-from-sand/01_landfromsand.jpg" style="width:80%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-3/oct-dec-2016/law-of-the-land/">**Law of the Land**</a>
+
+A permanent exhibition on Singapore’s constitutional history – from its founding in 1819 to Independence in 1965 – opens at the National Gallery Singapore.&nbsp;**Kevin Khoo**&nbsp;details some of its highlights.
+
+<img src="/images/Vol-12-issue-3/law-of-the-land/01-lawofland.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="vol-12/issue-2/jul-sep-2016/index-singapore-info/"> **Index to Singapore Information**</a>
+
+This useful index serves as the gateway to Singapore-related articles published in periodicals.&nbsp;**Leong Hui Chuan**&nbsp;and&nbsp;**Chris Tang**&nbsp;explain its value.
+
+<img src="/images/Vol-12-issue-2/index-to-singapore-information/01-indextosingapore.jpg" style="width:100%;">
+<hr>
+
+
+
+
+

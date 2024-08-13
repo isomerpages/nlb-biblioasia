@@ -84,6 +84,7 @@ The late architect William Lim did more than shape Singapore’s skyline. He was
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/qing-ambassadors-guo-song-tao/">The Curious Visit of Qing Ambassadors to Singapore</a>
+
 The visit by Qing officials to Singapore in 1876 led to the establishment of the first Chinese consulate here a year later.
 
 <img src="/images/Vol%2019%20Issue%204/1%20%20%20Qing%20Ambassadors/qing_topic.png" style="width:80%;">
@@ -96,6 +97,7 @@ Uncle Choo masterminded Singapore’s famous Malaysia Cup victory in 1977.  Four
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-2/jul-sep-2023/tok-sumang-english/">Tok Sumang: A Translation</a>
+
 A story about Wak Sumang, a man of great wisdom and many talents, and the founder of Kampong Punggol.
 
 <img src="/images/Vol%2019%20Issue%202/Tok%20Sumang/toksumang_topic.png" style="width:80%;">
@@ -145,11 +147,11 @@ Celebrations during a royal wedding in Tanjung Pinang in 1819 led to a terrible 
 <img src="/images/Vol%2018%20Issue%202/A%20Royal%20Wedding%20Gone%20Wrong/wedding_gone_wrong_topic.png" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/chao-tzee-cheng-forensic-pathologist/">Giving a Voice to the Dead: Remembering Chao Tzee Cheng</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/chao-tzee-cheng-forensic-pathologist/">**Giving a Voice to the Dead: Remembering Chao Tzee Cheng**</a>
 
 As a forensic pathologist, Chao Tzee Cheng helped bring murderers to justice.
 
-<img src="/images/Vol%2018%20Issue%202/Giving%20A%20Voice%20To%20The%20Dead/chaotzeecheng_topic.png" style="width:80%;">
+<img src="/images/Vol%2018%20Issue%202/Giving%20A%20Voice%20To%20The%20Dead/Giving%20A%20Voice%20To%20The%20Dead%20-%20Image%204.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/orang-seletar-changing-tides//">The Orang Seletar: Rowing Across Changing Tides</a>
@@ -374,9 +376,81 @@ Danish missionary Claudius Henry Thomsen produced some of the earliest Malay-lan
 
 **Sue-Ann Chia**&nbsp;traces the classic rags-to-riches story of a vegetable seller turned land speculator who left a hospital named after him in Singapore.
 
-
 <img src="/images/Vol-12-issue-4/from-pauper-to-philanthropist/1-from_pauper_to_philanthropist.jpg" style="width:60%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-3/oct-dec-2016/sr-nathan/">**S R Nathan: 50 Stories from My Life**</a>
+
+The late S R Nathan published seven books in his lifetime, but his most accessible is probably&nbsp;_50 Stories from My Life_. These two selections offer contrasting glimpses of the man who was President of Singapore from 1999–2011.
+
+<img src="/images/Vol-12-issue-3/s-r-nathan/01_sr_nathan.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-3/oct-dec-2016/softhands-steelyheart/">**Soft Hands But Steely Hearts: Women and Their Art**</a>
+
+A coterie of women sculptors in Singapore has successfully redefined this once male-dominated art form.&nbsp;**Nadia Arianna Bte Ramli**&nbsp;tells you more.
+
+<img src="/images/Vol-12-issue-3/soft-hands-but-steely-hearts/03-softhands-steelyhearts.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-3/oct-dec-2016/tansiewhian-painting/">**悲悯人生: 陈瑞献的文艺创作 (The Works of Tan Swie Hian)**</a>
+
+Tan Swie Hian, whose paintings have fetched record prices, was in fact better known for his literary prowess when he first emerged in the arts scene.&nbsp;**Jessie Yak**&nbsp;highlights some of his poems, short stories and fables.
+
+<img src="/images/Vol-12-issue-3/tan-swie-han/The-Squirrel-Dance.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-3/oct-dec-2016/baring-mind-soul/">**Baring Mind and Soul – Tan Swie Han**</a>
+
+After a long absence of 43 years, Singapore’s celebrated multi-hyphenate artist returns to the National Library with a new solo exhibition.&nbsp;**Chung Sang Hong**&nbsp;tells you more.
+
+<img src="/images/Vol-12-issue-3/baring-mind-and-soul/01-baring-mind-soul.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-2/jul-sep-2016/eu-tong-sen/">**Eu Tong Sen and His Business Empire 余东旋与他的商业帝国**</a>
+
+The Koh Seow Chuan Collection at the National Library includes documents from the illustrious businessman Eu Tong Sen.&nbsp;**Seow Peck Ngiam**&nbsp;describes some of its highlights.
+
+<img src="/images/Vol-12-issue-2/eu-tong-sen/01-eutongsen.jpg" style="width:60%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-2/jul-sep-2016/angels-in-white/">**Angels in White: Early Nursing in Singapore**</a>
+
+In the 1820s, some “nurses” in Singapore were actually chained convicts.&nbsp;**Pattarin Kusolpalin**&nbsp;chronicles the history of nursing from 1819 until Independence.
+
+<img src="/images/Vol-12-issue-2/angels-in-white/02-angelsinwhite.jpg" style="width:100%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-2/jul-sep-2016/david-marshall/">**The Fruit of His Labour: David Marshall’s Old Apple Tree**</a>
+
+Singapore’s fiery Chief Minister used to hold court under an apple tree at Empress Place. But was it really an apple tree?&nbsp;**Marcus Ng**&nbsp;separates fact from fiction.
+
+<img src="/images/Vol-12-issue-2/david-marshall/01-davidmarshall.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-2/jul-sep-2016/yamamoto-otokichi/">**Singapore’s First Japanese Resident: Yamamoto Otokichi**</a>
+
+A sailor travels halfway around the world in his attempt to return home, and becomes the first Japanese resident in Singapore in the process.&nbsp;**Bonny Tan**&nbsp;tells the story.
+
+<img src="/images/Vol-12-issue-2/yamamoto-otokichi/02-yamamoto-otokichi.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-2/jul-sep-2016/dontmesswiththecook/">**Mem, Don’t Mess with the Cook**</a>
+
+European families in colonial Singapore had a retinue of servants – cook, chauffeur, nanny, gardener and houseboy – but this did not guarantee a life of ease, as&nbsp;**Janice Loo**&nbsp;tells us.
+
+<img src="/images/Vol-12-issue-2/dont-mess-with-the-cook/01-dontmesswiththecook.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-1/apr-jun-2016/gaston-melies/">**Gaston Mèliès and His Lost Films of Singapore**</a>
+
+Gaston Méliès may be the first filmmaker to have directed fiction films in Singapore. Unfortunately, none have survived the ravages of time.&nbsp;**Raphaël Millet**&nbsp;tells you why.
+
+<img src="/images/Vol-12-issue-1/gaston-melies/01-gastonmelies.jpg" style="width:80%;">
+<hr>
+
+
+
 
 
 <hr>

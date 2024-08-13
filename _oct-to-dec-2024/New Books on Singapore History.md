@@ -1,6 +1,6 @@
 ---
 title: New Books on Singapore History
-permalink: /new-books-on-singapore-history/
+permalink: /vol-20/issue-3/oct-dec-2024/new-books-on-singapore-history/
 variant: markdown
 description: ""
 ---

@@ -220,3 +220,45 @@ The much-loved NCO Club on Beach Road was a favourite downtown R &amp; R spot fo
 
 <img src="/images/Vol-12-issue-4/from-britannia-to-nco-club/1-britannia-nco.jpg" style="width:80%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-3/oct-dec-2016/the-padang/">**The Padang: Centrepiece of Colonial Design**</a>
+
+This expanse of green fringed by grand colonial edifices in the city centre is a statement of British might, as&nbsp;**Lai Chee Kien**&nbsp;tells us.
+
+<img src="/images/Vol-12-issue-3/the-padang/03-The-Padang.jpg" style="width:100%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-3/oct-dec-2016/saving-pearl-bank-apt/">**Saving Pearl Bank Apartments**</a>
+
+Architectural conservation or real estate investment?&nbsp;**Justin Zhuang**&nbsp;ponders over the fate of a 1970s style icon that has seen better times.
+
+<img src="/images/Vol-12-issue-3/saving-pearl-bank-apartments/02-savingpearlbank.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-2/jul-sep-2016/beach-road-camp/">**Beach Road Camp and the Singapore Volunteer Corps**</a>
+
+The SVC was the precursor of the first organised military service in Singapore and marked the beginning of a volunteer movement that would last for over a century.&nbsp;**Francis Dorai**&nbsp;has the story.
+
+<img src="/images/Vol-12-issue-2/singapore-volunteer-corps/01-volunteercorps.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-2/jul-sep-2016/bygone-brands/">**Bygone Brands: Five Names That Are No More**</a>
+
+**Sue-Ann Chia**&nbsp;traces the birth and death of five companies, reliving the forgotten stories of some of Singapore’s biggest brand names.
+
+<img src="/images/Vol-12-issue-2/bygone-brands/01-bygonebrands.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-1/apr-jun-2016/raffleslibrary-museum/">**Collecting the Scattered Remains: The Raffles Library and Museum**</a>
+
+**Gracie Lee**&nbsp;charts the history of the Raffles Library – precursor of the National Library – and its enigmatically named “Q” Collection.
+
+<img src="/images/Vol-12-issue-1/raffles-library-and-museum/06a_raffleslibrary.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-1/apr-jun-2016/old-world-amusement/">**Old-world Amusement Parks**</a>
+
+Theme parks in Singapore had their heyday from the 1920s to 50s.&nbsp;**Lim Tin Seng**&nbsp;charts their glory days and subsequent decline.
+
+<img src="/images/Vol-12-issue-1/old-world-amusement-parks/01a_amusementpark.jpg" style="width:80%;">
+<hr>
