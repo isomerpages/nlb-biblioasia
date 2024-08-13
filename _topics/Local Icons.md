@@ -256,5 +256,13 @@ The SVC was the precursor of the first organised military service in Singapore a
 <img src="/images/Vol-12-issue-1/raffles-library-and-museum/06a_raffleslibrary.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-1/apr-jun-2016/old-world-amusement/">**Old-world Amusement Parks**</a>
+
+Theme parks in Singapore had their heyday from the 1920s to 50s.&nbsp;**Lim Tin Seng**&nbsp;charts their glory days and subsequent decline.
+
+<img src="/images/Vol-12-issue-1/old-world-amusement-parks/01a_amusementpark.jpg" style="width:80%;">
+<hr>
+
+
 
 
