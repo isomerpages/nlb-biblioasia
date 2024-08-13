@@ -126,7 +126,3 @@ Gaston Méliès may be the first filmmaker to have directed fiction films in Sin
 
 <img src="/images/Vol-12-issue-1/gaston-melies/01-gastonmelies.jpg" style="width:80%;">
 <hr>
-
-
-
-
