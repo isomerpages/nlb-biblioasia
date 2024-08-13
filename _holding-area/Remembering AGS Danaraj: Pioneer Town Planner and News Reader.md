@@ -59,6 +59,16 @@ After eight years at SIT, Danaraj received a two-year scholarship to the Univers
 <br>
 <img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/Diploma.png" style="width: 50%;">Diploma according Danaraj the title of Fellow of the Royal Town Planning Institute, 1972. <i>Courtesy of the Danaraj Family Collection.</i></div> 
 
+In 1960, Danaraj joined the Ministry of National Development as an executive planner. The Ministry was responsible for shaping the physical development of urban areas, ensuring a balance between economic growth, social progress, and environmental sustainability. He worked his way up to become a Senior Planner and later, Principal Planner. In 1972, the Singapore Institute of Planners (SIP) and Royal Town Planning Institute (UK) made Danaraj a Fellow in recognition of his contributions to the profession.[^16] In 1977, he was elected president of SIP,[^17] after serving as its council member (1975)[^18] and vice-president (1976).[^19] After two terms as president of SIP, he continued as chairman of its Practice, Membership and Education Committee for 1979/80.[^20] Danaraj was also involved in the formation of the ASEAN Association for Planning and Housing.
+
+Danaraj was also deeply committed to growing and boosting the pool of town planners in Singapore. He was a part-time lecturer at the Faculty of Architecture at the University of Singapore.[^21] In his speech at the SIP’s seventh annual dinner, Danaraj highlighted the role that town planners had in the proper development of the nation and thought that town planners could also work with other relevant professionals, such as architects, and offer their expertise and knowledge.[^22]
+
+  
+
+* * *
+
+
+
   
 
 
@@ -112,3 +122,17 @@ After eight years at SIT, Danaraj received a two-year scholarship to the Univers
 [^14]:  “[Mr A.G.S. Danaraj](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19610113-1.2.65.9),” _Singapore Free Press_, 13 January 1961, 7. (From NewspaperSG)
 
 [^15]:  “Student Has Big Plan for Singapore,” _Evening Chronicle_, 9 July 1960.
+
+[^16]:  Some of these contributions include publications such as _Country Report paper of Singapore for the Rehovot Conference on "Urbanization and Development in Developing Countries” 16-24 June 1971_ (Israel: Weizmann Institute of Science, Hebrew university of Jerusalem), 1-12.; “Development Control in Singapore – How Does it Work?” _[Singapore Institute of Planners Journal](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4584524)_ 5, no. 1 (1975/76): 5-10 (From National Library, Singapore, call no. RSING q711.4095957 SIPSIP) and “Planning for the Disabled,” _[Singapore Institute of Planners Journal](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4584524)_ 7, no. 1 (1977/78): 5-12. (From National Library, Singapore, call no. q711.4095957 SIPSIP)
+
+[^17]:  “Singapore Institute of Planners Council Members 1977/78,” _[Singapore Institute of Planners Journal](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4584524)_ 7 (1977/78): 1. (From National Library, Singapore, call no. q711.4095957 SIPSIP); See also _[Planews](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4829413)_ 5, no.1 (Oct 1977): 2. (From PublicationSG, call. no. R SING 711.405 P@CR v. 5 n. 1. 1/10/1977). &nbsp;He was re-elected president for the 1978/79 term, see _[Planews](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4829413)_ 5, no. 3 (1978): 17. (From PublicationSG, call no. R SING 711.405 P@CR v. 5 n. 3. 1/5/1978)
+
+[^18]:  “Singapore Institute of Planners Council Members 1975/76,” _[Singapore Institute of Planners Journal](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4584524)_ 5 (1975/76): 1. (From National Library, Singapore, call no. RSING q711.4095957 SIPSIP)
+
+[^19]:  “Singapore Institute of Panners Council Members 1976/77,” _[Singapore Institute of Planners Journal](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4584524)_ 6 (1976/77): 4. (From National Library, Singapore, call no. q711.4095957 SIPSIP \[year\]1974-1978)
+
+[^20]:  _[Planews](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4829413)_ 7, no. 1 (Dec 1979): 40. (From National Library, Singapore, call no. 711.405 P \[issue\]Dec 1979, \[v.\]7 no. 1)
+
+[^21]:  “[Wedding After Meeting Seven Years Ago](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19710527-1.2.47),” _Straits Times_, 27 May 1971, 5. (From NewspaperSG)
+
+[^22]:  Fong Mew Leng, “[A Call to Assess Our Own Future Town Planning Needs](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19790331-1.2.11.1),” _Business Times_, 31 March 1979, 2. (From NewspaperSG)
