@@ -79,4 +79,3 @@ Sri Mariamman Temple is Singapore’s oldest Hindu shrine.&nbsp;**Anasuya Sounda
 
 <img src="/images/Vol-12-issue-3/time-honoured-temple-design/02_temple_design.jpg" style="width:80%;">
 <hr>
-
