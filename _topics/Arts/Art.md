@@ -141,3 +141,19 @@ A coterie of women sculptors in Singapore has successfully redefined this once m
 <img src="/images/Vol-12-issue-3/soft-hands-but-steely-hearts/03-softhands-steelyhearts.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-3/oct-dec-2016/tansiewhian-painting/">**悲悯人生: 陈瑞献的文艺创作 (The Works of Tan Swie Hian)**</a>
+
+Tan Swie Hian, whose paintings have fetched record prices, was in fact better known for his literary prowess when he first emerged in the arts scene.&nbsp;**Jessie Yak**&nbsp;highlights some of his poems, short stories and fables.
+
+<img src="/images/Vol-12-issue-3/tan-swie-han/The-Squirrel-Dance.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-3/oct-dec-2016/baring-mind-soul/">**Baring Mind and Soul – Tan Swie Han**</a>
+
+After a long absence of 43 years, Singapore’s celebrated multi-hyphenate artist returns to the National Library with a new solo exhibition.&nbsp;**Chung Sang Hong**&nbsp;tells you more.
+
+<img src="/images/Vol-12-issue-3/baring-mind-and-soul/01-baring-mind-soul.jpg" style="width:80%;">
+<hr>
+
+
+
