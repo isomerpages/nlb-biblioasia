@@ -91,7 +91,7 @@ Danaraj was also deeply committed to growing and boosting the pool of town plann
 <br>
 <br>
 
-* * *
+#### **Notes**
 
 [^1]:  “[The Many Facets of Danaraj’s Life](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19800328-1.2.31),” _New Nation_, 28 March 1980, 6. (From NewspaperSG)
 
