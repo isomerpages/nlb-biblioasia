@@ -228,7 +228,26 @@ This expanse of green fringed by grand colonial edifices in the city centre is a
 <img src="/images/Vol-12-issue-3/the-padang/03-The-Padang.jpg" style="width:100%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-3/oct-dec-2016/saving-pearl-bank-apt/">**Saving Pearl Bank Apartments**</a>
 
+Architectural conservation or real estate investment?&nbsp;**Justin Zhuang**&nbsp;ponders over the fate of a 1970s style icon that has seen better times.
+
+<img src="/images/Vol-12-issue-3/saving-pearl-bank-apartments/02-savingpearlbank.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-2/jul-sep-2016/beach-road-camp/">**Beach Road Camp and the Singapore Volunteer Corps**</a>
+
+The SVC was the precursor of the first organised military service in Singapore and marked the beginning of a volunteer movement that would last for over a century.&nbsp;**Francis Dorai**&nbsp;has the story.
+
+<img src="/images/Vol-12-issue-2/singapore-volunteer-corps/01-volunteercorps.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-2/jul-sep-2016/beach-road-camp/">**Beach Road Camp and the Singapore Volunteer Corps**</a>
+
+The SVC was the precursor of the first organised military service in Singapore and marked the beginning of a volunteer movement that would last for over a century.&nbsp;**Francis Dorai**&nbsp;has the story.
+
+<img src="/images/Vol-12-issue-2/singapore-volunteer-corps/01-volunteercorps.jpg" style="width:80%;">
+<hr>
 
 
 
