@@ -268,3 +268,24 @@ Danish missionary Claudius Henry Thomsen produced some of the earliest Malay-lan
 <img src="/images/Vol-12-issue-1/spinal_guide.jpg" style="width:70%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-1/apr-jun-2016/collection-on-raffles/">**The Bastin Collection on Raffles**</a>
+
+The National Library recently acquired a treasured collection of letters and books of Sir Stamford Raffles.&nbsp;**J. B. Stanley**&nbsp;describes some of the highlights.
+
+<img src="/images/Vol-12-issue-1/bastin-collection-on-raffles/01a_collectionraffles.jpg" style="width:60%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-1/apr-jun-2016/george-hicks/">**The George Hicks Collection**</a>
+
+This valuable collection at the National Library is significant for a number of reasons.&nbsp;**Eunice Low**&nbsp;explains why.
+
+<img src="/images/Vol-12-issue-1/george-hicks-collection/01_georgehicks.bmp" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-1/apr-jun-2016/cover-to-cover/">**Cover to Cover**</a>
+
+**Barbara Quek**&nbsp;and&nbsp;**Zoe Yeo**&nbsp;highlight entertainment magazine covers of yesteryear from the collections of the National Library.
+
+<img src="/images/Vol-12-issue-1/cover-to-cover/01_covertocover.jpg" style="width:90%;">
+<hr>
+
