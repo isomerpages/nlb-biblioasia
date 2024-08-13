@@ -25,6 +25,13 @@ When Danaraj returned to Singapore, he spoke with a British accent, commonly kno
 
 Being a part-time newsreader could occasionally be harrowing. Once, he was so late for a news-reading session because of a traffic jam that he abandoned his car at Mount Alvernia and hailed a passing police car. He asked them for a ride to the broadcasting station and the police not only gave him a lift, they even sounded their sirens to get him there.[^2]&nbsp;
 
+As a newsreader, Danaraj presented more than 38 broadcasts on radio and television. He covered a diverse range of topics, from “Redeveloping Toa Payoh”[^3] and “Rebuilding the City”[^4] to “Batik-Making”[^5] and “Keeping Birds as a Hobby”.[^6]
+
+  
+
+* * *
+
+
   
 
 * * *
@@ -44,3 +51,11 @@ Being a part-time newsreader could occasionally be harrowing. Once, he was so la
 [^1]:  “[The Many Facets of Danaraj’s Life](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19800328-1.2.31),” _New Nation_, 28 March 1980, 6. (From NewspaperSG)
 
 [^2]:  “[The Many Facets of Danaraj’s Life](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19800328-1.2.31).”
+
+[^3]:  National Archives of Singapore, “Redeveloping Toa Payong,” Mewatch, uploaded 2021, https://www.mewatch.sg/watch/Stories-of-Yesteryear-Singapore-in-the-1960s-S2-E6-Redeveloping-Toa-Payoh-248819
+
+[^4]:  National Archives of Singapore, “Rebuilding the City,” Mewatch, uploaded 2021, https://www.mewatch.sg/watch/Stories-of-Yesteryear-Singapore-in-the-1960s-S2-E26-Rebuilding-the-City-253178
+
+[^5]:  “[Batik-making](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/c9713194-3c1d-11ee-9776-0050569c7836),” 1974, audio recording, 0.00-3.19. (From National Archives of Singapore accession no. 2023014228)
+
+[^6]:  “[Keeping Birds as a Hobby](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/c9713194-3c1d-11ee-9776-0050569c7836),” 1974, audio recording, 3:20-7:07. (From National Archives of Singapore accession no. 2023014228)
