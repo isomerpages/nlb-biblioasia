@@ -220,3 +220,15 @@ The much-loved NCO Club on Beach Road was a favourite downtown R &amp; R spot fo
 
 <img src="/images/Vol-12-issue-4/from-britannia-to-nco-club/1-britannia-nco.jpg" style="width:80%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-3/oct-dec-2016/the-padang/">**The Padang: Centrepiece of Colonial Design**</a>
+
+This expanse of green fringed by grand colonial edifices in the city centre is a statement of British might, as&nbsp;**Lai Chee Kien**&nbsp;tells us.
+
+<img src="/images/Vol-12-issue-3/the-padang/03-The-Padang.jpg" style="width:100%;">
+<hr>
+
+
+
+
+
