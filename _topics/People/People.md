@@ -84,6 +84,7 @@ The late architect William Lim did more than shape Singapore’s skyline. He was
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/qing-ambassadors-guo-song-tao/">The Curious Visit of Qing Ambassadors to Singapore</a>
+
 The visit by Qing officials to Singapore in 1876 led to the establishment of the first Chinese consulate here a year later.
 
 <img src="/images/Vol%2019%20Issue%204/1%20%20%20Qing%20Ambassadors/qing_topic.png" style="width:80%;">
@@ -96,6 +97,7 @@ Uncle Choo masterminded Singapore’s famous Malaysia Cup victory in 1977.  Four
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-2/jul-sep-2023/tok-sumang-english/">Tok Sumang: A Translation</a>
+
 A story about Wak Sumang, a man of great wisdom and many talents, and the founder of Kampong Punggol.
 
 <img src="/images/Vol%2019%20Issue%202/Tok%20Sumang/toksumang_topic.png" style="width:80%;">
@@ -145,11 +147,11 @@ Celebrations during a royal wedding in Tanjung Pinang in 1819 led to a terrible 
 <img src="/images/Vol%2018%20Issue%202/A%20Royal%20Wedding%20Gone%20Wrong/wedding_gone_wrong_topic.png" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/chao-tzee-cheng-forensic-pathologist/">Giving a Voice to the Dead: Remembering Chao Tzee Cheng</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-2/jul-sep-2022/chao-tzee-cheng-forensic-pathologist/">**Giving a Voice to the Dead: Remembering Chao Tzee Cheng**</a>
 
 As a forensic pathologist, Chao Tzee Cheng helped bring murderers to justice.
 
-<img src="/images/Vol%2018%20Issue%202/Giving%20A%20Voice%20To%20The%20Dead/chaotzeecheng_topic.png" style="width:80%;">
+<img src="/images/Vol%2018%20Issue%202/Giving%20A%20Voice%20To%20The%20Dead/Giving%20A%20Voice%20To%20The%20Dead%20-%20Image%204.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-18/issue-1/apr-to-jun-2022/orang-seletar-changing-tides//">The Orang Seletar: Rowing Across Changing Tides</a>
