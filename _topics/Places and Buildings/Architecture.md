@@ -115,3 +115,18 @@ Drawings discovered in a Belgian archive help fill gaps in the history of staine
 
 <img src="/images/Vol-12-issue-4/windows-into-history/4_windows_into_history_topic.png" style="width:80%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-3/oct-dec-2016/time-honoured-temple/">**Time-honoured Temple Design**</a>
+
+Sri Mariamman Temple is Singapore’s oldest Hindu shrine.&nbsp;**Anasuya Soundararajan**&nbsp;and&nbsp;**Sri Asrina Tanuri**&nbsp;describe the architectural features of this landmark.
+
+<img src="/images/Vol-12-issue-3/time-honoured-temple-design/02_temple_design.jpg" style="width:80%;">
+<hr>
+
+
+
+
+
+
+
+
