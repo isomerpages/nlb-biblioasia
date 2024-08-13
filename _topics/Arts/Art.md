@@ -133,8 +133,7 @@ These fanged beasts are by turns both captivating as they are terrifying. Patric
 <img src="/images/Vol-12-issue-3/the-tiger-within/tiger_within_topic.png" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-3/oct-dec-2016/softhands-steelyheart/">**Soft Hands But Steely Hearts: Women and Their Art**
-</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-3/oct-dec-2016/softhands-steelyheart/">**Soft Hands But Steely Hearts: Women and Their Art**</a>
 
 A coterie of women sculptors in Singapore has successfully redefined this once male-dominated art form.&nbsp;**Nadia Arianna Bte Ramli**&nbsp;tells you more.
 
@@ -154,6 +153,3 @@ After a long absence of 43 years, Singapore’s celebrated multi-hyphenate artis
 
 <img src="/images/Vol-12-issue-3/baring-mind-and-soul/01-baring-mind-soul.jpg" style="width:80%;">
 <hr>
-
-
-
