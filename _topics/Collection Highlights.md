@@ -179,4 +179,12 @@ The Koh Seow Chuan Collection at the National Library includes documents from th
 <img src="/images/Vol-12-issue-2/eu-tong-sen/01-eutongsen.jpg" style="width:60%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-1/apr-jun-2016/collection-on-raffles/">**The Bastin Collection on Raffles**</a>
+
+The National Library recently acquired a treasured collection of letters and books of Sir Stamford Raffles.&nbsp;**J. B. Stanley**&nbsp;describes some of the highlights.
+
+<img src="/images/Vol-12-issue-1/bastin-collection-on-raffles/01a_collectionraffles.jpg" style="width:60%;">
+<hr>
+
+
 
