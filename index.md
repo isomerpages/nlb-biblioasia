@@ -1209,7 +1209,7 @@ sections:
       title: New Books on Singapore History (Oct 2024)
       subtitle: Literature
       id: infopic
-      description: A quick look at five new books available in the National Library’s
+      description: A quick look at eight new books available in the National Library’s
         collection.
       button: New Reads
       url: /vol-20/issue-3/oct-dec-2024/new-books-on-singapore-history/
