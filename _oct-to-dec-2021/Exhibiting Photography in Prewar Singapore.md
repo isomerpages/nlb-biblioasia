@@ -1,9 +1,11 @@
 ---
-title: Exhibiting Photography In Pre-war Singapore
+title: Exhibiting Photography in Prewar Singapore
 permalink: /vol-17/issue-3/oct-dec-2021/prewarphotography/
 image: /images/vol-17-issue-3/photo-in-pre-war-singapore/Malayborneo%20exhibition.jpg
+variant: markdown
+description: ""
 ---
-#### The founding of two camera clubs in 1921 created more opportunities to exhibit photographs in Malaya. **Zhuang Wubin** revisits three significant photo exhibitions in pre-war Singapore and examines their implications.
+#### The founding of two camera clubs in 1921 created more opportunities to exhibit photographs in Malaya. **Zhuang Wubin** revisits three significant photo exhibitions in prewar Singapore and examines their implications.
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/photo-in-pre-war-singapore/MalayBorneo%20Guide.jpg)
 <div style="background-color: white;">A souvenir guide produced for the Malaya Borneo Exhibition held in Singapore from 31 March to 17 April 1922. <i>Image reproduced from Guide to the Malaya Borneo Exhibition 1922 and Souvenir of Malaya (Singapore: Malaya Borneo Exhibition, 1922). (From National Library, Singapore, call no. RRARE 607.34595 MAL; accession no. B02935804I).</i></div>
@@ -126,8 +128,8 @@ After the war, nationalist and anti-colonial sentiments continued to rise. What 
 In revisiting these three photo exhibitions – held in 1922, 1935 and 1939–40 respectively – in pre-war Singapore, we see a definite shift in patronage and political affiliations that facilitated these events. To an extent, these exhibitions enabled participating photographers and visitors to visualise and imagine a sense of place and loyalty, whether it was directed at Britain, China or Malaya. What remained unchanged, however, was the involvement of political and cultural elites in organising and mobilising these exhibitions for their own motivations and desires.
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/vol-17-issue-3/authors/Profile%20-%20Zhuang%20Wubin.png" style="width: 100px; height: 100px;" />
+<br>
+<img src="/images/vol-17-issue-3/authors/Profile%20-%20Zhuang%20Wubin.png" style="width: 100px; height: 100px;">
 	<b>Zhuang Wubin</b> is a writer, curator and artist. He has a PhD from the University of Westminster (London) and was a Lee Kong Chian Research Fellow (2017–18). Wubin is interested in photography’s entanglements with modernity, colonialism, nationalism, the Cold War and “Chineseness”.</div>
 
 #### **NOTES**

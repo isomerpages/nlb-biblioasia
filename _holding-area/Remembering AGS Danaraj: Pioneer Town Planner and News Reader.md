@@ -63,31 +63,36 @@ In 1960, Danaraj joined the Ministry of National Development as an executive pla
 
 Danaraj was also deeply committed to growing and boosting the pool of town planners in Singapore. He was a part-time lecturer at the Faculty of Architecture at the University of Singapore.[^21] In his speech at the SIP’s seventh annual dinner, Danaraj highlighted the role that town planners had in the proper development of the nation and thought that town planners could also work with other relevant professionals, such as architects, and offer their expertise and knowledge.[^22]
 
-  
-
-
-
-  
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
+<div style="background-color: white;">
 <br>
+<img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/speaking_at_SIP.jpg" style="width: 80%;">Danaraj speaking at the Singapore Institute of Planners’ seventh annual dinner. <i>Ministry of Information and the Arts Collection. Courtesy of National Archives of Singapore.</i></div> 
+
+#### **Beyond the Call of Duty**
+
+Despite his busy professional life, Danaraj made time to give back to society. [^23] He was an active and dedicated volunteer of the Singapore Red Cross Society, serving as chairman of its Property and Estates Committee since 1965.[^24] Danaraj also deployed his trained voice to good use as a master of ceremonies at numerous Red Cross functions and events.[^25] In appreciation of Danaraj’s contributions, the Singapore Red Cross awarded him its Meritorious Service Award in 1979.[^26]&nbsp;
+
+His work with the Red Cross also gave him the opportunity to work closely with then President Yusof Ishak and First Lady Puan Noor Aishah. Danaraj and Puan Noor Aishah were involved in events such as a variety show raising funds for the Red Cross Children’s Home (1966) and Handicapped Children’s Club Christmas Party at the Red Cross House (1969).[^27]
+
+<div style="background-color: white;">
 <br>
+<img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/red_cross_awards.png" style="width: 60%;">     The Singapore Red Cross presented Danaraj with its Meritorious Service Award in 1979. <i>Courtesy of the Danaraj Family Collection.</i></div> 
+
+<div style="background-color: white;">
 <br>
+<img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/Red_Cross_Variety_Show_committee.jpg" style="width: 80%;">Danaraj (top row, second from right) with Puan Noor Aishah and the Red Cross Variety Show committee at the Istana, 15 March 1966. <i>Yusof Ishak Collection, courtesy of National Archives of Singapore.</i></div> 
+
+<div style="background-color: white;">
 <br>
-<br>
+<img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/Puan_Noor_Aishah_at_the_Red_Cross.jpg" style="width: 80%;">Danaraj (far left) and Puan Noor Aishah at the Red Cross Society’s “Creative Hobbies” exhibition at the Conference Hall, 8 October 1966. <i>Yusof Ishak Collection, courtesy of National Archives of Singapore.</i></div> 
+
+Danaraj died in July 1981, at the age of 49, leaving behind his wife Lily Teo and two children, his daughter, Felicity, and son, Edgar.[^28]
+
+My late father was a truly loving man who always prioritized spending quality time with me and my elder sister, Felicity. He had an incredible sense of humour and never failed to make us laugh, filling our home with joy and warmth. His kindness and playful spirit are deeply missed, and the cherished memories of his smiling face will forever remain in our hearts.
+
+<i>This article is dedicated, with the deepest gratitude and heartfelt remembrance, to the memory of the late Dr. Malone-Lee Lai Choo, whose unwavering support was instrumental in shaping this work.</i>
+
+<div style="background-color: white;">
+<img style="width: 100px; height: 100px;" src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/author_photo.png"><b>Edgar J. Danaraj</b> is currently a Chartered Engineer (UK) and Research Fellow at the National University of Singapore. He graduated from Nanyang Technological University (Mechanical &amp; Aerospace Engineering) and is first author of a few scientific journals. Edgar received the RSAF Long Service Award in 2008. He spent 15 years in the aviation industry and won the US and APAC leadership award on water sustainability.</div>  
 
 #### **Notes**
 
@@ -134,3 +139,15 @@ Danaraj was also deeply committed to growing and boosting the pool of town plann
 [^21]:  “[Wedding After Meeting Seven Years Ago](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19710527-1.2.47),” _Straits Times_, 27 May 1971, 5. (From NewspaperSG)
 
 [^22]:  Fong Mew Leng, “[A Call to Assess Our Own Future Town Planning Needs](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19790331-1.2.11.1),” _Business Times_, 31 March 1979, 2. (From NewspaperSG)
+
+[^23]:  “[The Many Facets of Danaraj’s Life](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19800328-1.2.31).”
+
+[^24]:  _[Planews](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4829413)_ 6, no. 2 (April 1979): 18. (From National Library, Singapore, call no. 711.405 P \[issue\]Apr 1979, \[v.\]6 no.2)
+
+[^25]:  “[Grand Old Party for Old Folks by Red Cross Society](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19730129-1.2.25.1),” _New Nation_, 29 January 1973, 4. (From NewspaperSG)
+
+[^26]:  “[Volunteer Social Worker Danaraj Dies at 49](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19810729-1.2.49),” _Straits Times_, 29 July 1981, 10. (From NewspaperSG)
+
+[^27]:  “[Variety Show to Aid Red Cross Children’s Home](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19660318-1.2.47),” _Straits Times_, 18 March 1966, 6. (From NewspaperSG)
+
+[^28]:  “[Volunteer Social Worker Danaraj Dies at 49](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19810729-1.2.49).”
