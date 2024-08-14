@@ -79,7 +79,7 @@ His work with the Red Cross also gave him the opportunity to work closely with t
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/Red_Cross_Variety_Show_committee.jpg" style="width: 80%;">     The Singapore Red Cross presented Danaraj with its Meritorious Service Award in 1979. <i>Courtesy of the Danaraj Family Collection.</i></div> 
+<img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/Red_Cross_Variety_Show_committee.jpg" style="width: 80%;">Danaraj (top row, second from right) with Puan Noor Aishah and the Red Cross Variety Show committee at the Istana, 15 March 1966. <i>Yusof Ishak Collection, courtesy of National Archives of Singapore.</i></div> 
 
   
 
