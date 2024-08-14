@@ -418,7 +418,7 @@ The Koh Seow Chuan Collection at the National Library includes documents from th
 
 In the 1820s, some “nurses” in Singapore were actually chained convicts.&nbsp;**Pattarin Kusolpalin**&nbsp;chronicles the history of nursing from 1819 until Independence.
 
-<img src="/images/Vol-12-issue-2/angels-in-white/02-angelsinwhite.jpg" style="width:100%;">
+<img src="/images/Vol-12-issue-2/angels-in-white/02-angelsinwhite.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-2/jul-sep-2016/david-marshall/">**The Fruit of His Labour: David Marshall’s Old Apple Tree**</a>
