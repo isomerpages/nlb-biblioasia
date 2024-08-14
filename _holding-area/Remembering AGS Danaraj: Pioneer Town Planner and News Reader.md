@@ -91,6 +91,9 @@ My late father was a truly loving man who always prioritized spending quality ti
 
 <i>This article is dedicated, with the deepest gratitude and heartfelt remembrance, to the memory of the late Dr. Malone-Lee Lai Choo, whose unwavering support was instrumental in shaping this work.</i>
 
+<div style="background-color: white;">
+<img style="width: 100px; height: 100px;" src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/author_photo.png"><b>Edgar J. Danaraj</b> is currently a Chartered Engineer (UK) and Research Fellow at the National University of Singapore. He graduated from Nanyang Technological University (Mechanical &amp; Aerospace Engineering) and is first author of a few scientific journals. Edgar received the RSAF Long Service Award in 2008. He spent 15 years in the aviation industry and won the US and APAC leadership award on water sustainability.</div>  
+
   
 
 * * *
