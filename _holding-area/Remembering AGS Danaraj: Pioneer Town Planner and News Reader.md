@@ -81,15 +81,7 @@ His work with the Red Cross also gave him the opportunity to work closely with t
 
 * * *
 
-[\[1\]](#_ftnref1) “[The Many Facets of Danaraj’s Life](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19800328-1.2.31).”
 
-[\[2\]](#_ftnref2) _[Planews](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4829413)_ 6, no. 2 (April 1979): 18. (From National Library, Singapore, call no. 711.405 P \[issue\]Apr 1979, \[v.\]6 no.2)
-
-[\[3\]](#_ftnref3) “[Grand Old Party for Old Folks by Red Cross Society](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19730129-1.2.25.1),” _New Nation_, 29 January 1973, 4. (From NewspaperSG)
-
-[\[4\]](#_ftnref4) “[Volunteer Social Worker Danaraj Dies at 49](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19810729-1.2.49),” _Straits Times_, 29 July 1981, 10. (From NewspaperSG)
-
-[\[5\]](#_ftnref5) “[Variety Show to Aid Red Cross Children’s Home](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19660318-1.2.47),” _Straits Times_, 18 March 1966, 6. (From NewspaperSG)
   
 
 
@@ -161,3 +153,13 @@ His work with the Red Cross also gave him the opportunity to work closely with t
 [^21]:  “[Wedding After Meeting Seven Years Ago](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19710527-1.2.47),” _Straits Times_, 27 May 1971, 5. (From NewspaperSG)
 
 [^22]:  Fong Mew Leng, “[A Call to Assess Our Own Future Town Planning Needs](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19790331-1.2.11.1),” _Business Times_, 31 March 1979, 2. (From NewspaperSG)
+
+[^23]:  “[The Many Facets of Danaraj’s Life](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19800328-1.2.31).”
+
+[^24]:  _[Planews](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4829413)_ 6, no. 2 (April 1979): 18. (From National Library, Singapore, call no. 711.405 P \[issue\]Apr 1979, \[v.\]6 no.2)
+
+[^25]:  “[Grand Old Party for Old Folks by Red Cross Society](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19730129-1.2.25.1),” _New Nation_, 29 January 1973, 4. (From NewspaperSG)
+
+[^26]:  “[Volunteer Social Worker Danaraj Dies at 49](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19810729-1.2.49),” _Straits Times_, 29 July 1981, 10. (From NewspaperSG)
+
+[^27]:  “[Variety Show to Aid Red Cross Children’s Home](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19660318-1.2.47),” _Straits Times_, 18 March 1966, 6. (From NewspaperSG)
