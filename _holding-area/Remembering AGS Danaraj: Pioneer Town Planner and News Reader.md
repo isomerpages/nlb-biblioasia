@@ -95,7 +95,7 @@ My late father was a truly loving man who always prioritized spending quality ti
 
 * * *
 
-[\[1\]](#_ftnref1) “[Volunteer Social Worker Danaraj Dies at 49](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19810729-1.2.49).”
+
 
   
 
@@ -182,3 +182,5 @@ My late father was a truly loving man who always prioritized spending quality ti
 [^26]:  “[Volunteer Social Worker Danaraj Dies at 49](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19810729-1.2.49),” _Straits Times_, 29 July 1981, 10. (From NewspaperSG)
 
 [^27]:  “[Variety Show to Aid Red Cross Children’s Home](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19660318-1.2.47),” _Straits Times_, 18 March 1966, 6. (From NewspaperSG)
+
+[^28]:  “[Volunteer Social Worker Danaraj Dies at 49](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19810729-1.2.49).”
