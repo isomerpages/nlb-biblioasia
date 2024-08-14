@@ -81,6 +81,22 @@ His work with the Red Cross also gave him the opportunity to work closely with t
 <br>
 <img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/Red_Cross_Variety_Show_committee.jpg" style="width: 80%;">Danaraj (top row, second from right) with Puan Noor Aishah and the Red Cross Variety Show committee at the Istana, 15 March 1966. <i>Yusof Ishak Collection, courtesy of National Archives of Singapore.</i></div> 
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/Puan_Noor_Aishah_at_the_Red_Cross.jpg" style="width: 80%;">Danaraj (far left) and Puan Noor Aishah at the Red Cross Society’s “Creative Hobbies” exhibition at the Conference Hall, 8 October 1966. <i>Yusof Ishak Collection, courtesy of National Archives of Singapore.</i></div> 
+
+Danaraj died in July 1981, at the age of 49, leaving behind his wife Lily Teo and two children, his daughter, Felicity, and son, Edgar.[^28]
+
+My late father was a truly loving man who always prioritized spending quality time with me and my elder sister, Felicity. He had an incredible sense of humour and never failed to make us laugh, filling our home with joy and warmth. His kindness and playful spirit are deeply missed, and the cherished memories of his smiling face will forever remain in our hearts.
+
+<i>This article is dedicated, with the deepest gratitude and heartfelt remembrance, to the memory of the late Dr. Malone-Lee Lai Choo, whose unwavering support was instrumental in shaping this work.</i>
+
+  
+
+* * *
+
+[\[1\]](#_ftnref1) “[Volunteer Social Worker Danaraj Dies at 49](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19810729-1.2.49).”
+
   
 
 
