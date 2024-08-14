@@ -33,7 +33,7 @@ Danaraj was born in Pahang, Malaysia in 1931. His family moved to Singapore in 1
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/Homes_of_Singapore.png" style="width: 80%;">From left to right) Robert Gardner-Medwin (UN Tropical Mission), Danaraj and Earnest P. (SIT) at the “Homes of Singapore” exhibition at the Victoria Memorial Hall, 9 January 1951. <i>Courtesy of the Danaraj Family Collection.</i></div>
+<img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/Homes_of_Singapore.png" style="width: 80%;">(From left to right) Robert Gardner-Medwin (UN Tropical Mission), Danaraj and Earnest P. (SIT) at the “Homes of Singapore” exhibition at the Victoria Memorial Hall, 9 January 1951. <i>Courtesy of the Danaraj Family Collection.</i></div>
 
 <div style="background-color: white;">
 <br>
@@ -49,7 +49,7 @@ After eight years at SIT, Danaraj received a two-year scholarship to the Univers
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/1951_Master_plan.png" style="width: 80%;"> Danaraj (fifth from left) and DH Komlosy &nbsp;(sixth from right) with staff from SIT at the 1951 Master Plan Exhibition. <i>Courtesy of the Danaraj Family Collection.</i></div> 
+<img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/1951_Master_plan.png" style="width: 80%;"> Danaraj (fifth from left) and DH Komlosy (sixth from right) with staff from SIT at the 1951 Master Plan Exhibition. <i>Courtesy of the Danaraj Family Collection.</i></div> 
 
 <div style="background-color: white;">
 <br>
