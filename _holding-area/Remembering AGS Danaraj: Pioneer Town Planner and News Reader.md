@@ -73,6 +73,10 @@ Despite his busy professional life, Danaraj made time to give back to society. [
 
 His work with the Red Cross also gave him the opportunity to work closely with then President Yusof Ishak and First Lady Puan Noor Aishah. Danaraj and Puan Noor Aishah were involved in events such as a variety show raising funds for the Red Cross Children’s Home (1966) and Handicapped Children’s Club Christmas Party at the Red Cross House (1969).[^27]
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/red_cross_awards.png" style="width: 50%;">     The Singapore Red Cross presented Danaraj with its Meritorious Service Award in 1979. <i>Courtesy of the Danaraj Family Collection.</i></div> 
+
   
 
 * * *
