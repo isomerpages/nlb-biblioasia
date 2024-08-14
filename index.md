@@ -33,7 +33,7 @@ sections:
         collection.
       button: New Reads
       url: /vol-20/issue-3/oct-dec-2024/new-books-on-singapore-history/
-      image: /images/Vol 20 Issue 3/New Books/newbooks_rajaratnam.jpg
+      image: /images/Vol 20 Issue 3/New Books/NEW_BOOKS.png
       alt: Image alt text
   - infopic:
       title: Singapore’s Armenian Church Survived Close to 180 Years
