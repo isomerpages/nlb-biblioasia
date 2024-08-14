@@ -67,8 +67,25 @@ Danaraj was also deeply committed to growing and boosting the pool of town plann
 <br>
 <img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/speaking_at_SIP.jpg" style="width: 80%;">Danaraj speaking at the Singapore Institute of Planners’ seventh annual dinner. <i>Ministry of Information and the Arts Collection. Courtesy of National Archives of Singapore.</i></div> 
 
+#### **Beyond the Call of Duty**
 
+Despite his busy professional life, Danaraj made time to give back to society. [^23] He was an active and dedicated volunteer of the Singapore Red Cross Society, serving as chairman of its Property and Estates Committee since 1965.[^24] Danaraj also deployed his trained voice to good use as a master of ceremonies at numerous Red Cross functions and events.[^25] In appreciation of Danaraj’s contributions, the Singapore Red Cross awarded him its Meritorious Service Award in 1979.[^26]&nbsp;
 
+His work with the Red Cross also gave him the opportunity to work closely with then President Yusof Ishak and First Lady Puan Noor Aishah. Danaraj and Puan Noor Aishah were involved in events such as a variety show raising funds for the Red Cross Children’s Home (1966) and Handicapped Children’s Club Christmas Party at the Red Cross House (1969).[^27]
+
+  
+
+* * *
+
+[\[1\]](#_ftnref1) “[The Many Facets of Danaraj’s Life](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19800328-1.2.31).”
+
+[\[2\]](#_ftnref2) _[Planews](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4829413)_ 6, no. 2 (April 1979): 18. (From National Library, Singapore, call no. 711.405 P \[issue\]Apr 1979, \[v.\]6 no.2)
+
+[\[3\]](#_ftnref3) “[Grand Old Party for Old Folks by Red Cross Society](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19730129-1.2.25.1),” _New Nation_, 29 January 1973, 4. (From NewspaperSG)
+
+[\[4\]](#_ftnref4) “[Volunteer Social Worker Danaraj Dies at 49](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19810729-1.2.49),” _Straits Times_, 29 July 1981, 10. (From NewspaperSG)
+
+[\[5\]](#_ftnref5) “[Variety Show to Aid Red Cross Children’s Home](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19660318-1.2.47),” _Straits Times_, 18 March 1966, 6. (From NewspaperSG)
   
 
 
