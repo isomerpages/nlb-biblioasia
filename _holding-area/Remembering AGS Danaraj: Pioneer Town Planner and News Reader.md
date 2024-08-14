@@ -75,11 +75,14 @@ His work with the Red Cross also gave him the opportunity to work closely with t
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/red_cross_awards.png" style="width: 50%;">     The Singapore Red Cross presented Danaraj with its Meritorious Service Award in 1979. <i>Courtesy of the Danaraj Family Collection.</i></div> 
+<img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/red_cross_awards.png" style="width: 60%;">     The Singapore Red Cross presented Danaraj with its Meritorious Service Award in 1979. <i>Courtesy of the Danaraj Family Collection.</i></div> 
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/Red_Cross_Variety_Show_committee.jpg" style="width: 80%;">     The Singapore Red Cross presented Danaraj with its Meritorious Service Award in 1979. <i>Courtesy of the Danaraj Family Collection.</i></div> 
 
   
 
-* * *
 
 
   
