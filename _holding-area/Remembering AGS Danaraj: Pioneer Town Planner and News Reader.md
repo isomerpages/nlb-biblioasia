@@ -63,6 +63,12 @@ In 1960, Danaraj joined the Ministry of National Development as an executive pla
 
 Danaraj was also deeply committed to growing and boosting the pool of town planners in Singapore. He was a part-time lecturer at the Faculty of Architecture at the University of Singapore.[^21] In his speech at the SIP’s seventh annual dinner, Danaraj highlighted the role that town planners had in the proper development of the nation and thought that town planners could also work with other relevant professionals, such as architects, and offer their expertise and knowledge.[^22]
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/speaking_at_SIP.jpg" style="width: 80%;">Danaraj speaking at the Singapore Institute of Planners’ seventh annual dinner. <i>Ministry of Information and the Arts Collection. Courtesy of National Archives of Singapore.</i></div> 
+
+
+
   
 
 
