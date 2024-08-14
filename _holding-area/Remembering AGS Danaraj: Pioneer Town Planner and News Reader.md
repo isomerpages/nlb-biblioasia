@@ -12,7 +12,7 @@ Some people might remember AGS Danaraj as a newsreader on radio and television i
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/Danaraj_1960s.png" style="width: 55%;">AGS Danaraj in the 1960s. <i>Courtesy of the Danaraj Family Collection.</i></div>
+<img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/Danaraj_1960s.png" style="width: 45%;">AGS Danaraj in the 1960s. <i>Courtesy of the Danaraj Family Collection.</i></div>
 
 #### **On the News**
 
