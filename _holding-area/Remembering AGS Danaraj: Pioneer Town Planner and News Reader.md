@@ -65,7 +65,7 @@ Danaraj was also deeply committed to growing and boosting the pool of town plann
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/speaking_at_SIP.jpg" style="width: 80%;">Danaraj speaking at the Singapore Institute of Planners’ seventh annual dinner. <i>Ministry of Information and the Arts Collection. Courtesy of National Archives of Singapore.</i></div> 
+<img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/speaking_at_SIP.jpg" style="width: 80%;">Danaraj speaking at the Singapore Institute of Planners’ seventh annual dinner. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div> 
 
 #### **Beyond the Call of Duty**
 
