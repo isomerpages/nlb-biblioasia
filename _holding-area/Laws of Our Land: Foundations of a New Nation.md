@@ -43,6 +43,9 @@ The ordinance was officially repealed in 1963 and replaced by new citizenship la
 
 The Women’s Charter, passed in 1961, was a pioneering legislation that introduced a unitary monogamous law governing civil marriages, and consolidated previous legislation pertaining to the protection of girls and women. It remains the core of non-Muslim family law in Singapore regarding civil marriages, divorces, and spousal and parental responsibilities.[^6] (Muslim marriages are governed by the Administration of Muslim Law Act 1966.)&nbsp;
 
+![](/images/Vol%2020%20Issue%203/Laws/laws_rights.jpg)
+<div style="background-color: white;">The patriarchal structure of Singapore’s colonial society made it difficult for women to administer their own property, and they had to legally depend on their husbands or male relatives. This applied even to Muslim women who retained property rights in marriage under Muslim law. This power of attorney, dated 20 July 1906, was created by Slamah binte Abdulla Albali and it authorised Omar bin Hadi bin Ali bin Ahmad Altui Baslamah to act on her behalf and administer her property. <i>Koh Seow Chuan Collection, National Library, Singapore (accession no. B26057119I). </i></div>
+
 Prior to the introduction of the Women’s Charter, there were diverse marriage practices governed by different laws. These included the Muslim Marriage Ordinance No. 25 of 1957, which had its roots in the Mahomedan Marriage Ordinance No. 5 of 1880; the Christian Marriage Ordinance No. 10 of 1940, which could be traced back to Ordinance No. 3 of 1880; and the Civil Marriage Ordinance No. 9 of 1940.[^7]
 
 However, all these preceding legislations addressed specific types of marriages where registration was not mandatory. This led to uncertainty in matters of inheritance and maintenance in cases of divorce, and colonial judges had to navigate between local customs and colonial law when such disputes were brought to the courts.&nbsp;
