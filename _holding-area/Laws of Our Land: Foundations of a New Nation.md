@@ -112,17 +112,17 @@ The exhibition will enable visitors to develop a new appreciation for Singaporeâ
 			
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/Boon_Lai.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/KevinKhoo.png">
 	<b>Kevin Khoo</b> is an Assistant Director/Senior Archivist (Documentation) with the Oral History Centre at the National Archives of Singapore. His responsibilities include documenting and contextualising the oral history collection, archival research and content development. </div>
 			
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/Boon_Lai.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/mark wong.png">
 	<b>Mark Wong</b> is an Assistant Director/Senior Specialist (Oral History) with the Oral History Centre at the National Archives of Singapore, where he leads oral history projects on Singaporeâ€™s political developments and experiences with COVID-19. He is a Council Member and Regional Representative (Asia) of the International Oral History Association. </div>
 			
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/Boon_Lai.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/FionaTan.png">
 	<b>Fiona Tan</b> was formerly a Senior Archivist (Records Management) with the National Archives of Singapore. She was part of the team that advises government agencies on records management, facilitating the processes of transfer, digitisation and access of government records transferred to the National Archives of Singapore. She is presently on secondment to the Ministry of Digital Development and Information. </div>
 	
 
