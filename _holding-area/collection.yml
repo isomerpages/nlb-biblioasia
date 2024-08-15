@@ -2,6 +2,7 @@ collections:
   holding-area:
     output: true
     order:
+      - "Laws of Our Land: Foundations of a New Nation.md"
       - "Remembering AGS Danaraj: Pioneer Town Planner and News Reader.md"
       - Example Title.md
       - Test2.md
