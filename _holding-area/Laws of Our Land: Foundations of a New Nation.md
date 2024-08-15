@@ -82,7 +82,7 @@ Many labourers were deceived about their work terms and were mistreated. Work co
 
 The early laws were specific to different ethnic communities. The Indian Immigrants’ Protection Ordinance of 1876 dealt only with Indian workers. This law allowed Indian migrants below 45 years old and in good health to come here for work. Similarly, the Chinese Immigrants Ordinance of 1877 sought to regulate and protect Chinese immigrants through the establishment of the Chinese Protectorate.[^16] The legislation also required Chinese immigrants to land at designated ports and depots where they were screened to ensure their fare had been paid. Following this, an official would examine the terms of any labour agreements the immigrant had made before they were allowed to leave the depot. &nbsp;
 
-![](/images/Vol%2020%20Issue%203/Laws/laws_indenture.jpg)
+![](/images/Vol%2020%20Issue%203/Laws/laws_settlements.jpg)
 <div style="background-color: white;">The Indian Immigrants’ Protection Ordinance of 1876 saw the appointment of a Protector of Immigrants. It stipulated forms of labour contracts and regulated who could come to Singapore from India to work. <i>Collection of the National Library, Singapore (accession no. B02969451B). </i></div>
 
 The Trade Unions Ordinance of 1940 formalised the establishment of trade unions, with the aim to foster better relations between employers and employees.[^17] The labour movement, intertwined with political shifts, gained momentum after the Japanese Occupation, with unions advocating for both workers’ rights and political causes.
