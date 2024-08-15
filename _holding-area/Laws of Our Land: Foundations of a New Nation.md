@@ -49,6 +49,9 @@ However, all these preceding legislations addressed specific types of marriages 
 
 In the 1950s, there were increasing calls from the public for greater protection of women, the wider participation of women in public spheres, as well as the enactment of a monogamous marriage law. These efforts were largely led by the Singapore Council of Women, and in 1953, the council drafted the Prevention of Bigamous Marriages Bill, which was distributed to the Legislative Assembly.[^8]
 
+![](/images/Vol%2020%20Issue%203/Laws/laws_poster.jpg)
+<div style="background-color: white;">A poster from the 1959 Legislative Assembly General Election showing the 51 members of the first fully elected assembly. <i>Ministry of Culture Collection, courtesy of National Archives of Singapore.</i></div>
+
 However, these efforts faced resistance from the Chinese, Malay and Indian communities who were concerned about the validity of existing polygamous marriages. They also saw the bill as a challenge to the practice adopted by the colonial authorities in avoiding interference with local customs and religious laws. It was only when the People’s Action Party came into power in 1959 that a legislation for monogamous marriages became possible.[^9]
 
 The introduction of the Women’s Charter Bill in the Legislative Assembly in March 1960 had the support of both the ruling party and opposition members.[^10] However, specific clauses in the bill were debated intensely in the Assembly and the bill passed through two Select Committees and some redrafting before the act came into force on 15 September 1961.[^11]
