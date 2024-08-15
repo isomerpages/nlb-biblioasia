@@ -20,7 +20,7 @@ Danaraj, who was my father, was a part-time radio and television newsreader with
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/in_recording_studio.png" style="width: 80%;">   Danaraj in a recording studio reading the news. <i>Courtesy of the Danaraj Family Collection.</i></div>  
+<img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/in_recording_studio.png" style="width: 80%;">   AGS Danaraj in a recording studio reading the news. <i>Courtesy of the Danaraj Family Collection.</i></div>  
 When Danaraj returned to Singapore, he spoke with a British accent, commonly known as pure “received pronunciation” or “The Queen’s English”. This made his voice distinctive and easily recognised. After six months of training, he went on air.
 
 Being a part-time newsreader could occasionally be harrowing. Once, he was so late for a news-reading session because of a traffic jam that he abandoned his car at Mount Alvernia and hailed a passing police car. He asked them for a ride to the broadcasting station and the police not only gave him a lift, they even sounded their sirens to get him there.[^2]&nbsp;
@@ -29,7 +29,7 @@ As a newsreader, Danaraj presented more than 38 broadcasts on radio and televisi
 
 #### **Career: Planning a Nation**
 
-Danaraj was born in Pahang, Malaysia in 1931. His family moved to Singapore in 1940, where he studied at St. Andrew’s School from 1947–49.[^7] In 1950, when he was 19, he joined the Singapore Improvement Trust (SIT) as an officer and was a draughtsman of Sir George Pepler’s Diagnostic Survey Team, whose work involved the preparation of the 20-year Master Plan for Singapore. (Pepler was the Town Planning Consultant to the Singapore government).[^8] Danaraj was also part of the team that organised the exhibition “Homes of Singapore” that was held at the Victoria Concert Hall in 1951.[^9]
+Danaraj was born in Pahang, Malaysia in 1931. His family moved to Singapore in 1940, where he studied at St Andrew’s School from 1947–49.[^7] In 1950, when he was 19, he joined the Singapore Improvement Trust (SIT) as an officer and was a draughtsman of Sir George Pepler’s Diagnostic Survey Team, whose work involved the preparation of the 20-year Master Plan for Singapore. (Pepler was the Town Planning Consultant to the Singapore government).[^8] Danaraj was also part of the team that organised the exhibition “Homes of Singapore” held at the Victoria Concert Hall in 1951.[^9]
 
 <div style="background-color: white;">
 <br>
