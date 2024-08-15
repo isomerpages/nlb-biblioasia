@@ -33,7 +33,7 @@ Danaraj was born in Pahang, Malaysia in 1931. His family moved to Singapore in 1
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/Homes_of_Singapore.png" style="width: 80%;">(From left to right) Robert Gardner-Medwin (UN Tropical Mission), Danaraj and Earnest P. (SIT) at the “Homes of Singapore” exhibition at the Victoria Memorial Hall, 9 January 1951. <i>Courtesy of the Danaraj Family Collection.</i></div>
+<img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/Homes_of_Singapore.png" style="width: 80%;">(From left to right) Robert Gardner-Medwin (UN Tropical Mission), AGS Danaraj and Earnest P. (SIT) at the “Homes of Singapore” exhibition at the Victoria Memorial Hall, 9 January 1951. <i>Courtesy of the Danaraj Family Collection.</i></div>
 
 <div style="background-color: white;">
 <br>
@@ -41,7 +41,7 @@ Danaraj was born in Pahang, Malaysia in 1931. His family moved to Singapore in 1
 
 The objective of the Master Plan and survey was to propose land use on the island and act as a guide for its physical growth. Danaraj was part of the team that conducted an island-wide diagnostic survey of Singapore, surveying land and building use of both city and rural areas, as well as traffic flow. It provided detailed zoning and density parameters to guide the country’s physical development.[^10] The survey offered a summary of rural areas requiring improvement, identifying issues such as overcrowding, high congestion, housing, recreation for the growing population, sufficient land reserves, eliminating slums, and establishing a green belt around the city to limit urban sprawl.[^11]
 
-After eight years at SIT, Danaraj received a two-year scholarship to the University of Durham King’s College in Britain in 1958.[^12] There, he completed his Diploma in Town Planning. During that time, he was influenced by modern town planning in other European countries such as France, Italy, Belgium, and Germany.[^13] Upon his graduation in 1960, he joined the Planning Department within the Prime Minister’s Office[^14] and took on the role of central planning and commenced work to rebuild the city.[^15]
+After eight years at SIT, Danaraj received a two-year scholarship to the University of Durham King’s College in Britain in 1958.[^12] There, he completed his Diploma in Town Planning. During that time, he was influenced by modern town planning in other European countries such as France, Italy, Belgium and Germany.[^13] Upon his graduation in 1960, he joined the Planning Department within the Prime Minister’s Office[^14] and took on the role of central planning and commenced work to rebuild the city.[^15]
 
 <div style="background-color: white;">
 <br>
