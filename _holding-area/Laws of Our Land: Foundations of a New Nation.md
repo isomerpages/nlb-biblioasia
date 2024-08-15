@@ -83,7 +83,7 @@ The Employment Act has since undergone a number of revisions and amendments, wit
 The collections of the National Archives of Singapore and National Library originate from government and authoritative sources. The curators – Kevin Khoo, Mark Wong and Fiona Tan – were mindful to present a balanced narrative, and to include personal documents like marriage certificates and identity cards, as well as oral history interviews and audiovisual recordings, so that people’s voices and personal stories could be heard. In addition to physical displays, the exhibition features several multimedia interactives, including augmented reality experiences, where visitors can interact with composite characters inspired by historical sources.&nbsp;
 <br><br>
 The exhibition will enable visitors to develop a new appreciation for Singapore’s legal history, and take a deeper dive into the topic by perusing other related materials at the National Archives and National Library.<br><br>
-<img src="/images/Vol%2020%20Issue%201/Vietnam%20War/Image_book.png"></div>
+</div>
 			
 <div style="background-color: white;">
 <br>
