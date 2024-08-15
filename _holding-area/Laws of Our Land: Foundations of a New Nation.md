@@ -133,41 +133,41 @@ The exhibition will enable visitors to develop a new appreciation for Singapore�
 
 [^2]: C.M. Turnbull, _A History of Modern Singapore_, 1819–2005 (Singapore: NUS Press, 2017), 268. (From National Library, Singapore, call no. RSING 959.57 TUR)
 
-[^3]: Yeo Kim Wah, _Political Development in Singapore, 1945–1955_ (Singapore: Singapore University Press, 1973), 135–72. (From National Library Online)
+[^3]: Yeo Kim Wah, [_Political Development in Singapore, 1945–1955_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=10c87456-cbbb-43a8-8e85-36481432bed2) (Singapore: Singapore University Press, 1973), 135–72. (From National Library Online)
 
-[^4]: “Citizenship Bill Approved by the Assembly,” _Straits Times_, 17 October 1957, 1; “321,453 New Citizens,” _Straits Times_, 2 February 1958, 1. (From NewspaperSG)&nbsp;
+[^4]: “[Citizenship Bill Approved by the Assembly](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19571017-1.2.12),” _Straits Times_, 17 October 1957, 1; “[321,453 New Citizens](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19580202-1.2.15),” _Straits Times_, 2 February 1958, 1. (From NewspaperSG)&nbsp;
 
-[^5]: S.C. Chua, _Report on the Census of Population 1957_ (Singapore: Department of Statistics, Government Printer, 1964), 43, 46. (From National Library Online)
+[^5]: S.C. Chua, [_Report on the Census of Population 1957_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=7b306d60-16c1-458d-a9ef-6be4cb6b1821) (Singapore: Department of Statistics, Government Printer, 1964), 43, 46. (From National Library Online)
 
-[^6]: “The New Women's Charter,” _Straits Times_, 23 March 1961, 16; “One Man One Wife,” _Straits Times_, 25 March 1961, 8. (From NewspaperSG)
+[^6]: “[The New Women's Charter](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19610323-1.2.136),” _Straits Times_, 23 March 1961, 16; “[One Man One Wife](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19610325-1.2.87.1),” _Straits Times_, 25 March 1961, 8. (From NewspaperSG)
 
-[^7]: Ann Wee, “The Women's Charter, 1961: Where We Were Coming From and How We Got There,” in _Singapore Women's Charter: Roles and Responsibilities and Rights in Marriage_, ed. Theresa W. Devasahayam. (Singapore: Institute of Southeast Asian Studies, 2011) 44–45. (From National Library, Singapore, call no. RSING 305.42095957 SIN)&nbsp;
+[^7]: Ann Wee, “The Women's Charter, 1961: Where We Were Coming From and How We Got There,” in [_Singapore Women's Charter: Roles and Responsibilities and Rights in Marriage_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13845427), ed. Theresa W. Devasahayam. (Singapore: Institute of Southeast Asian Studies, 2011) 44–45. (From National Library, Singapore, call no. RSING 305.42095957 SIN)&nbsp;
 
-[^8]: Phyllis Chew, “Blazing a Trail: The Fight for Women’s Rights in Singapore,” _BiblioAsia_ 14, no. 3 (October–December 2018): 32–37.
+[^8]: Phyllis Chew, “[Blazing a Trail: The Fight for Women’s Rights in Singapore](https://biblioasia.nlb.gov.sg/vol-14/issue-3/oct-dec-2018/blazing-a-trail/),” _BiblioAsia_ 14, no. 3 (October–December 2018): 32–37.
 
-[^9]: Chew, “Blazing a Trail”; “We Have Created a New Awakening in Malaya,” _Straits Times_, 11 July 1959, 8. (From NewspaperSG)
+[^9]: Chew, “[Blazing a Trail](https://biblioasia.nlb.gov.sg/vol-14/issue-3/oct-dec-2018/blazing-a-trail/)”; “[We Have Created a New Awakening in Malaya](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19590711-1.2.76.1),” _Straits Times_, 11 July 1959, 8. (From NewspaperSG)
 
-[^10]: Leong Wai Kum, “Fifty Years and More of the ‘Women’s Charter’ of Singapore,” _Singapore Journal of Legal Studies_ (July 2008): 4. (From JSTOR via NLB’s eResources website)
+[^10]: Leong Wai Kum, “Fifty Years and More of the ‘Women’s Charter’ of Singapore,” _Singapore Journal of Legal Studies_ (July 2008): 4. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
 
-[^11]: Evelyn Tu, “Women’s Charter,” _Straits Times_, 14 September 1961, 10. (From NewspaperSG)
+[^11]: Evelyn Tu, “[Women’s Charter](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19610914-1.2.86),” _Straits Times_, 14 September 1961, 10. (From NewspaperSG)
 
-[^12]: “New Bill Makes Muslims Happy,” _Straits Times_, 8 October 1956, 7. (From NewspaperSG); M. Siraj, “The Syariah Court of Singapore and Its Control of the Divorce Rate,” _Malaya Law Review_ 5, no. 1 (July 1963): 154. (From JSTOR via NLB’s eResources website)
+[^12]: “[New Bill Makes Muslims Happy](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19561008-1.2.125.aspx),” _Straits Times_, 8 October 1956, 7. (From NewspaperSG); M. Siraj, “The Syariah Court of Singapore and Its Control of the Divorce Rate,” _Malaya Law Review_ 5, no. 1 (July 1963): 154. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
 
-[^13]: M. Siraj, “Recent Changes in the Administration of Muslim Family Law in Malaysia and Singapore,” _International and Comparative Law Quarterly_ 17, no. 1 (January 1968): 228. (From JSTOR via NLB’s eResources website)
+[^13]: M. Siraj, “Recent Changes in the Administration of Muslim Family Law in Malaysia and Singapore,” _International and Comparative Law Quarterly_ 17, no. 1 (January 1968): 228. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
 
-[^14]: “Pinang Gazette. Tuesday, 11th January, 1887,” _Pinang Gazette and Straits Chronicle_, 11 January 1887, 6. (From NewspaerSG)
+[^14]: “[Pinang Gazette. Tuesday, 11th January, 1887](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette18870111-1.2.12),” _Pinang Gazette and Straits Chronicle_, 11 January 1887, 6. (From NewspaerSG)
 
-[^15]: “Abolition of Mui Tsai,” _Singapore Free Press and Mercantile Advertiser_ (1884–1942), 27 January 1932, 10; “The Mui Tsai Reform,” _Straits Times_, 6 February 1932, 10. (From NewspaperSG)
-
-
-[^16]: Straits Settlements, _Ordinances Enacted by the Governor of the Straits Settlements with the Advice and Consent of the Legislative Council Thereof in the Year…_ (Singapore: Printed at the Government Printing Office, 1877), 6–8. (From National Library, Singapore, call no. RCLOS 348.5957 SGGAS-HWE\])
-
-[^17]: “Trade Unionism in Malaya,” _Malaya Tribune_, 21 October 1941, 6. (From NewspaperSG)&nbsp;
-
-[^18]: “Pull-Out in Middle 1970’s,” _Straits Times_, 19 July 1967, 1; “All Out by 1971,” _Straits Times_, 17 January 1968, 1 (From NewspaperSG); Parliament of Singapore, First Session of the Second Parliament, vol. 27 of _Parliamentary Debates: Official Report_, 15 July 1968, col. 647, https://sprs.parl.gov.sg/search/#/topic?reportid=004\_19680715\_S0002\_T0002.&nbsp;
+[^15]: “[Abolition of Mui Tsai](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19320127-1.2.54),” _Singapore Free Press and Mercantile Advertiser_ (1884–1942), 27 January 1932, 10; “[The Mui Tsai Reform](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19320206-1.2.40),” _Straits Times_, 6 February 1932, 10. (From NewspaperSG)
 
 
-[^19]: “Only 14 Strikes in S’pore–The Lowest Ever,” _Straits Times_, 5 January 1967, 7; “Strikes Here Fizzle Out,” _New Nation_, 19 March 1975, 4. (From NewspaperSG) &nbsp;
+[^16]: Straits Settlements, [_Ordinances Enacted by the Governor of the Straits Settlements with the Advice and Consent of the Legislative Council Thereof in the Year…_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4817037) (Singapore: Printed at the Government Printing Office, 1877), 6–8. (From National Library, Singapore, call no. RCLOS 348.5957 SGGAS-HWE\])
+
+[^17]: “[Trade Unionism in Malaya](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19411021-1.2.65),” _Malaya Tribune_, 21 October 1941, 6. (From NewspaperSG)&nbsp;
+
+[^18]: “[Pull-Out in Middle 1970’s](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19670719-1.2.2.aspx),” _Straits Times_, 19 July 1967, 1; “[All Out by 1971](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19680117-1.2.3.aspx),” _Straits Times_, 17 January 1968, 1 (From NewspaperSG); Parliament of Singapore, First Session of the Second Parliament, vol. 27 of _Parliamentary Debates: Official Report_, 15 July 1968, col. 647, https://sprs.parl.gov.sg/search/#/topic?reportid=004\_19680715\_S0002\_T0002.&nbsp;
+
+
+[^19]: “[Only 14 Strikes in S’pore–The Lowest Ever](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19670105-1.2.53),” _Straits Times_, 5 January 1967, 7; “[Strikes Here Fizzle Out](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19750319-1.2.9.13),” _New Nation_, 19 March 1975, 4. (From NewspaperSG) &nbsp;
 
 
 [^20]: World Bank Group, “GDP Growth (Annual %) – Singapore,” accessed 12 July 2024. https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?end=1972&amp;locations=SG&amp;start=1968.
