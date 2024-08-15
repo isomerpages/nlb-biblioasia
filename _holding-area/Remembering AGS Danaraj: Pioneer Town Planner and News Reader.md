@@ -116,11 +116,11 @@ My late father was a truly loving man who always prioritised spending quality ti
 
 [^10]:  “[Future Design for Better Living,”](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19560104-1.2.36) _Singapore Standard_, 4 January 1956, 3. (From NewspaperSG)
 
-[^11]:  “[Future Design for Better Living.”](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19560104-1.2.36); “Colony of Singapore: Master Plan: Written Statement,” December 1955 (Singapore: Government Printing Office), accessed 2 July 2024, digitalgems.nus.edu.sg/shared/colls/hisher/files/MasCol\_v02.pdf
+[^11]:  “[Future Design for Better Living.”](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19560104-1.2.36); “Colony of Singapore: Master Plan: Written Statement,” December 1955 (Singapore: Government Printing Office), accessed 2 July 2024, digitalgems.nus.edu.sg/shared/colls/hisher/files/MasCol\_v02.pdf.
 
 [^12]:  “[The Many Facets of Danaraj’s Life](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19800328-1.2.31).”
 
-[^13]:  “[They Say We Go About in Bullock Carts…And Danaraj is So Shocked](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19600730-1.2.48),” _Singapore Free Press_, 30 July 1960, 5. (From NewspaperSG)
+[^13]:  “[They Say We Go About in Bullock Carts… And Danaraj Is So Shocked](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19600730-1.2.48),” _Singapore Free Press_, 30 July 1960, 5. (From NewspaperSG)
 
 [^14]:  “[Mr A.G.S. Danaraj](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19610113-1.2.65.9),” _Singapore Free Press_, 13 January 1961, 7. (From NewspaperSG)
 
