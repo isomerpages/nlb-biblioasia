@@ -134,7 +134,7 @@ My late father was a truly loving man who always prioritised spending quality ti
 
 [^19]:  “Singapore Institute of Planners Council Members 1976/77,” _[Singapore Institute of Planners Journal](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4584524)_ 6 (1976/77): 4. (From National Library, Singapore, call no. q711.4095957 SIPSIP \[year\]1974-1978)
 
-[^20]:  _[Planews](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4829413)_ 7, no. 1 (Dec 1979): 40. (From National Library, Singapore, call no. 711.405 P \[issue\]Dec 1979, \[v.\]7 no. 1); “[The Man Behind ASEAN Planners Assn](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19800326-1.2.76),”&nbsp;_Straits Times_, 26 March 1980, 14.; “[Planners Bid to Set Up Asean Institute](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19781010-1.2.28),”&nbsp;_Straits Times_, 10 October 1978, 7. (From NewspaperSG)
+[^20]:  _[Planews](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4829413)_ 7, no. 1 (Dec 1979): 40. (From National Library, Singapore, call no. 711.405 P \[issue\]Dec 1979, \[v.\]7 no. 1); “[The Man Behind ASEAN Planners Assn](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19800326-1.2.76),”&nbsp;_Straits Times_, 26 March 1980, 14; “[Planners Bid to Set Up Asean Institute](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19781010-1.2.28),”&nbsp;_Straits Times_, 10 October 1978, 7. (From NewspaperSG)
 
 [^21]:  “[Wedding After Meeting Seven Years Ago](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19710527-1.2.47),” _Straits Times_, 27 May 1971, 5. (From NewspaperSG)
 
