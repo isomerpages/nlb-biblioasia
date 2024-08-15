@@ -55,41 +55,41 @@ After eight years at SIT, Danaraj received a two-year scholarship to the Univers
 <br>
 <img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/presented_1960_Master_plan.png" style="width: 80%;">AGS Danaraj with the Master Plan presented in 1960. <i>Courtesy of the Danaraj Family Collection.</i></div> 
 
-In 1960, Danaraj joined the Ministry of National Development as an executive planner. The Ministry was responsible for shaping the physical development of urban areas, ensuring a balance between economic growth, social progress, and environmental sustainability. He worked his way up to become a Senior Planner and later, Principal Planner. In 1972, the Singapore Institute of Planners (SIP) and Royal Town Planning Institute (UK) made Danaraj a Fellow in recognition of his contributions to the profession.[^16] In 1977, he was elected president of SIP,[^17] after serving as its council member (1975)[^18] and vice-president (1976).[^19] After two terms as president of SIP, he continued as chairman of its Practice, Membership and Education Committee in 1979/80. Danaraj was also involved in the formation of the ASEAN Association for Planning and Housing.[^20]
+In 1960, Danaraj joined the Ministry of National Development as an executive planner. The ministry was responsible for shaping the physical development of urban areas, ensuring a balance between economic growth, social progress and environmental sustainability. He worked his way up to become a Senior Planner and later, Principal Planner. In 1972, the Singapore Institute of Planners (SIP) and Royal Town Planning Institute (UK) made Danaraj a Fellow in recognition of his contributions to the profession.[^16] In 1977, he was elected president of SIP,[^17] after serving as its council member (1975)[^18] and vice-president (1976).[^19] After two terms as president of SIP, he continued as chairman of its Practice, Membership and Education Committee in 1979/80. Danaraj was also involved in the formation of the ASEAN Association for Planning and Housing.[^20]
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/Diploma.png" style="width: 50%;">Diploma according Danaraj the title of Fellow of the Royal Town Planning Institute, 1972. <i>Courtesy of the Danaraj Family Collection.</i></div> 
+<img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/Diploma.png" style="width: 50%;">Diploma according AGS Danaraj the title of Fellow of the Royal Town Planning Institute, 1972. <i>Courtesy of the Danaraj Family Collection.</i></div> 
 
 Danaraj was also deeply committed to growing and boosting the pool of town planners in Singapore. He was a part-time lecturer at the Faculty of Architecture at the University of Singapore.[^21] In his speech at SIP’s seventh annual dinner, Danaraj highlighted the role that town planners had in the proper development of the nation and thought that town planners could also work with other relevant professionals, such as architects, and offer their expertise and knowledge.[^22]
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/speaking_at_SIP.jpg" style="width: 80%;">Danaraj speaking at the Singapore Institute of Planners’ seventh annual dinner. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div> 
+<img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/speaking_at_SIP.jpg" style="width: 80%;">AGS Danaraj speaking at the Singapore Institute of Planners’ seventh annual dinner. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div> 
 
 #### **Beyond the Call of Duty**
 
 Despite his busy professional life, Danaraj made time to give back to society. [^23] He was an active and dedicated volunteer of the Singapore Red Cross Society, serving as chairman of its Property and Estates Committee since 1965.[^24] Danaraj also deployed his trained voice to good use as a master of ceremonies at numerous Red Cross functions and events.[^25] In appreciation of Danaraj’s contributions, the Singapore Red Cross awarded him its Meritorious Service Award in 1979.[^26]&nbsp;
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/red_cross_awards.png" style="width: 60%;">     The Singapore Red Cross presented AGS Danaraj with its Meritorious Service Award in 1979. <i>Courtesy of the Danaraj Family Collection.</i></div> 
+
 His work with the Red Cross also gave him the opportunity to work closely with then President Yusof Ishak and First Lady Puan Noor Aishah. Danaraj and Puan Noor Aishah were involved in events such as a variety show raising funds for the Red Cross Children’s Home (1966) and Handicapped Children’s Club Christmas Party at the Red Cross House (1969).[^27]
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/red_cross_awards.png" style="width: 60%;">     The Singapore Red Cross presented Danaraj with its Meritorious Service Award in 1979. <i>Courtesy of the Danaraj Family Collection.</i></div> 
+<img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/Red_Cross_Variety_Show_committee.jpg" style="width: 80%;">AGS Danaraj (top row, second from right) with Puan Noor Aishah and the Red Cross Variety Show committee at the Istana, 15 March 1966. <i>Yusof Ishak Collection, courtesy of National Archives of Singapore.</i></div> 
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/Red_Cross_Variety_Show_committee.jpg" style="width: 80%;">Danaraj (top row, second from right) with Puan Noor Aishah and the Red Cross Variety Show committee at the Istana, 15 March 1966. <i>Yusof Ishak Collection, courtesy of National Archives of Singapore.</i></div> 
+<img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/Puan_Noor_Aishah_at_the_Red_Cross.jpg" style="width: 80%;">AGS Danaraj (far left) and Puan Noor Aishah at the Red Cross Society’s “Creative Hobbies” exhibition at the Conference Hall, 8 October 1966. <i>Yusof Ishak Collection, courtesy of National Archives of Singapore.</i></div> 
 
-<div style="background-color: white;">
-<br>
-<img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/Puan_Noor_Aishah_at_the_Red_Cross.jpg" style="width: 80%;">Danaraj (far left) and Puan Noor Aishah at the Red Cross Society’s “Creative Hobbies” exhibition at the Conference Hall, 8 October 1966. <i>Yusof Ishak Collection, courtesy of National Archives of Singapore.</i></div> 
+Danaraj died in July 1981, at age 49, leaving behind his wife Lily Teo and two children, daughter Felicity and son, Edgar.[^28]
 
-Danaraj died in July 1981, at the age of 49, leaving behind his wife Lily Teo and two children, his daughter, Felicity, and son, Edgar.[^28]
+My late father was a truly loving man who always prioritised spending quality time with me and my elder sister, Felicity. He had an incredible sense of humour and never failed to make us laugh, filling our home with joy and warmth. His kindness and playful spirit are deeply missed, and the cherished memories of his smiling face will forever remain in our hearts.
 
-My late father was a truly loving man who always prioritized spending quality time with me and my elder sister, Felicity. He had an incredible sense of humour and never failed to make us laugh, filling our home with joy and warmth. His kindness and playful spirit are deeply missed, and the cherished memories of his smiling face will forever remain in our hearts.
-
-<i>This article is dedicated, with the deepest gratitude and heartfelt remembrance, to the memory of the late Dr. Malone-Lee Lai Choo, whose unwavering support was instrumental in shaping this work.</i>
+<i>This article is dedicated, with the deepest gratitude and heartfelt remembrance, to the memory of the late Dr Malone-Lee Lai Choo, whose unwavering support was instrumental in shaping this work.</i>
 
 <div style="background-color: white;">
 <img style="width: 100px; height: 100px;" src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/author_photo.png"><b>Edgar J. Danaraj</b> is currently a Chartered Engineer (UK) and Research Fellow at the National University of Singapore. He graduated from Nanyang Technological University (Mechanical &amp; Aerospace Engineering) and is first author of a few scientific journals. Edgar received the RSAF Long Service Award in 2008. He spent 15 years in the aviation industry and won the US and APAC leadership award on water sustainability.</div>  
