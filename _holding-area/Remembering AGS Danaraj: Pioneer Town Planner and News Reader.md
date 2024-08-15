@@ -45,7 +45,7 @@ After eight years at SIT, Danaraj received a two-year scholarship to the Univers
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/letter.png" style="width: 60%;">Letter from DH Komlosy (Planning Advisor, SIT) to WA Geenty (Country Planning Officer, Durham, England) commending Danaraj on his work on the Master Plan and recommending him for further training. <i>Courtesy of the Danaraj Family Collection.</i></div> 
+<img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/letter.png" style="width: 60%;">Letter from DH Komlosy (Planning Advisor, SIT) to WA Geenty (Country Planning Officer, Durham, England) commending AGS Danaraj on his work on the Master Plan and recommending him for further training. <i>Courtesy of the Danaraj Family Collection.</i></div> 
 
 <div style="background-color: white;">
 <br>
