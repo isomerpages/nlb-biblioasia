@@ -100,9 +100,9 @@ My late father was a truly loving man who always prioritised spending quality ti
 
 [^2]:  “[The Many Facets of Danaraj’s Life](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19800328-1.2.31).”
 
-[^3]:  National Archives of Singapore, “Redeveloping Toa Payong,” Mewatch, uploaded 2021, https://www.mewatch.sg/watch/Stories-of-Yesteryear-Singapore-in-the-1960s-S2-E6-Redeveloping-Toa-Payoh-248819
+[^3]:  National Archives of Singapore, “Redeveloping Toa Payoh,” meWatch, uploaded 2021, https://www.mewatch.sg/watch/Stories-of-Yesteryear-Singapore-in-the-1960s-S2-E6-Redeveloping-Toa-Payoh-248819.
 
-[^4]:  National Archives of Singapore, “Rebuilding the City,” Mewatch, uploaded 2021, https://www.mewatch.sg/watch/Stories-of-Yesteryear-Singapore-in-the-1960s-S2-E26-Rebuilding-the-City-253178
+[^4]:  National Archives of Singapore, “Rebuilding the City,” meWatch, uploaded 2021, https://www.mewatch.sg/watch/Stories-of-Yesteryear-Singapore-in-the-1960s-S2-E26-Rebuilding-the-City-253178.
 
 [^5]:  “[Batik-making](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/c9713194-3c1d-11ee-9776-0050569c7836),” 1974, audio recording, 0.00-3.19. (From National Archives of Singapore accession no. 2023014228)
 
