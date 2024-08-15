@@ -91,7 +91,13 @@ The Employment Act was introduced to respond to specific challenges faced by the
 
 Another factor was the toll on the economy resulting from frequent strikes starting from the 1950s. In 1961 alone, there were 116 recorded strikes involving 43,584 workers and causing the loss of 410,889 workdays.[^19]
 
+![](/images/Vol%2020%20Issue%203/Laws/laws_stceu.jpg)
+<div style="background-color: white;">The Singapore Traction Company Employees’ Union newsletter, <i>Suara</i> (Malay for “Voice”), featured content in English, Malay, Chinese and Tamil. The STC operated the tram, trolleybus and motor bus services in Singapore from 1925 to 1971. In 1955, STC bus workers carried out what became the longest strike in postwar Singapore, lasting 142 days. This was the culmination of union demands since the late 1930s. <i>Francis Thomas Collection, courtesy of National Archives of Singapore. </i></div>
+
 With the Employment Act, the government aimed to balance employer and employee rights. Employees enjoyed standardised work conditions like fixed working hours, rest days and holidays, while employers were protected by the reduction of excessive overtime claims. Despite criticisms at the time, the act fostered industrial harmony and supported Singapore’s economic growth. Between 1968 and 1972, Singapore’s gross domestic product grew by an average of 13.4 percent.[^20]
+
+![](/images/Vol%2020%20Issue%203/Laws/laws_book.jpg)
+<div style="background-color: white;">The Shop Assistants Employment Ordinance of 1957 established statutory rights for this large group of workers who had been excluded from the Labour Ordinance of 1955. This handbook was published to help employers and employees navigate the new laws, including requirements such as the closure of shops to give workers a weekly rest day and standardising the number of hours in a work week. <i>Francis Thomas Collection, courtesy of National Archives of Singapore. </i></div>
 
 The Employment Act has since undergone a number of revisions and amendments, with the most recent 2020 Revised Edition taking effect on 31 December 2021.
 
