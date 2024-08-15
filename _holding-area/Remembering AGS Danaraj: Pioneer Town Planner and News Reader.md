@@ -8,7 +8,7 @@ image: /images/Online Only Articles/Remembering AGS Danaraj/Danaraj_1960s.png
 #### The former newsreader AGS Danaraj was also a pioneering town planner, who always made time to help the less fortunate.
 By Edgar J. Danaraj
 
-Some people might remember AGS Danaraj as a newsreader on radio and television in the 1960s and 70s. But many might not know that beyond reading the news, Danaraj was an important figure in the development of Singapore’s urban landscape as one of the nation’s pioneering town planners.
+Some people might remember AGS Danaraj as a newsreader on radio and television in the 1960s and 1970s. But many might not know that beyond reading the news, Danaraj was an important figure in the development of Singapore’s urban landscape as one of the nation’s pioneering town planners.
 
 <div style="background-color: white;">
 <br>
@@ -16,7 +16,7 @@ Some people might remember AGS Danaraj as a newsreader on radio and television i
 
 #### **On the News**
 
-Danaraj, who was my father, was a part-time radio and television newsreader with the Radio Television Singapura and Singapore Broadcasting Cooperation for 19 years in the 1960s and 1970s.&nbsp; He spent two years on a government scholarship at Durham University in Britain from 1958 to 1960 to study town planning. His interest and love for journalism blossomed while he was there and he would freelance for newspapers during term breaks. He recalled, "I risked my life when I covered the Nottingham racial riots back in the 60s, but I loved every minute of it. I was paid about $50 to $200 for an article.”[^1]
+Danaraj, who was my father, was a part-time radio and television newsreader with Radio Television Singapura and Singapore Broadcasting Cooperation for 19 years in the 1960s and 1970s.&nbsp; He spent two years on a government scholarship at Durham University in Britain from 1958 to 1960 to study town planning. His interest and love for journalism blossomed while he was there and he would freelance for newspapers during term breaks. He recalled, "I risked my life when I covered the Nottingham racial riots back in the 60s, but I loved every minute of it. I was paid about $50 to $200 for an article.”[^1]
 
 <div style="background-color: white;">
 <br>
