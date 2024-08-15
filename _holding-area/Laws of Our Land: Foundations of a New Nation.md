@@ -67,6 +67,9 @@ In addition to being a foundational law governing non-Muslim marriages, the Wome
 
 Some of the displays in the exhibition highlight such laws targeted at the protection of girls and women. These include the 1932 Mui Tsai Ordinance that prohibited the buying of young Chinese girls as domestic servants, known as _mui-tsai_, or “little sister” in Cantonese.[^15]
 
+![](/images/Vol%2020%20Issue%203/Laws/laws_indenture.jpg)
+<div style="background-color: white;">The traditional Chinese practice of buying and selling young girls as child brides is documented in this indenture dated 8 September 1939. It stipulates the parties to the betrothal and the matchmaker, and states that the female child was handed over to the contracting family for a dowry of $88. Such a customary contract was drawn up to bind both parties to the betrothal until the girl reached puberty. <i>Tan Boon Chong Collection, courtesy of National Archives of Singapore. </i></div>
+
 As the only legislation in Singapore statutes that has the word “Charter” in its title, the Women’s Charter symbolised the new nation’s commitment to gender equality. It has undergone numerous amendments over the decades, with the latest amendment taking effect on 1 July 2024, allowing divorce by mutual agreement.
 
 #### **The Employment Act (1968)**
