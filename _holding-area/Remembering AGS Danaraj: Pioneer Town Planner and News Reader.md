@@ -49,17 +49,17 @@ After eight years at SIT, Danaraj received a two-year scholarship to the Univers
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/1951_Master_plan.png" style="width: 80%;"> Danaraj (fifth from left) and DH Komlosy (sixth from right) with staff from SIT at the 1951 Master Plan Exhibition. <i>Courtesy of the Danaraj Family Collection.</i></div> 
+<img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/1951_Master_plan.png" style="width: 80%;"> AGS Danaraj (fifth from left) and DH Komlosy (sixth from right) with staff from SIT at the 1951 Master Plan Exhibition. <i>Courtesy of the Danaraj Family Collection.</i></div> 
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/presented_1960_Master_plan.png" style="width: 80%;">Danaraj with the Master Plan presented in 1960. <i>Courtesy of the Danaraj Family Collection.</i></div> 
+<img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/presented_1960_Master_plan.png" style="width: 80%;">AGS Danaraj with the Master Plan presented in 1960. <i>Courtesy of the Danaraj Family Collection.</i></div> 
+
+In 1960, Danaraj joined the Ministry of National Development as an executive planner. The Ministry was responsible for shaping the physical development of urban areas, ensuring a balance between economic growth, social progress, and environmental sustainability. He worked his way up to become a Senior Planner and later, Principal Planner. In 1972, the Singapore Institute of Planners (SIP) and Royal Town Planning Institute (UK) made Danaraj a Fellow in recognition of his contributions to the profession.[^16] In 1977, he was elected president of SIP,[^17] after serving as its council member (1975)[^18] and vice-president (1976).[^19] After two terms as president of SIP, he continued as chairman of its Practice, Membership and Education Committee in 1979/80. Danaraj was also involved in the formation of the ASEAN Association for Planning and Housing.[^20]
 
 <div style="background-color: white;">
 <br>
 <img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/Diploma.png" style="width: 50%;">Diploma according Danaraj the title of Fellow of the Royal Town Planning Institute, 1972. <i>Courtesy of the Danaraj Family Collection.</i></div> 
-
-In 1960, Danaraj joined the Ministry of National Development as an executive planner. The Ministry was responsible for shaping the physical development of urban areas, ensuring a balance between economic growth, social progress, and environmental sustainability. He worked his way up to become a Senior Planner and later, Principal Planner. In 1972, the Singapore Institute of Planners (SIP) and Royal Town Planning Institute (UK) made Danaraj a Fellow in recognition of his contributions to the profession.[^16] In 1977, he was elected president of SIP,[^17] after serving as its council member (1975)[^18] and vice-president (1976).[^19] After two terms as president of SIP, he continued as chairman of its Practice, Membership and Education Committee in 1979/80. Danaraj was also involved in the formation of the ASEAN Association for Planning and Housing.[^20]
 
 Danaraj was also deeply committed to growing and boosting the pool of town planners in Singapore. He was a part-time lecturer at the Faculty of Architecture at the University of Singapore.[^21] In his speech at SIP’s seventh annual dinner, Danaraj highlighted the role that town planners had in the proper development of the nation and thought that town planners could also work with other relevant professionals, such as architects, and offer their expertise and knowledge.[^22]
 
