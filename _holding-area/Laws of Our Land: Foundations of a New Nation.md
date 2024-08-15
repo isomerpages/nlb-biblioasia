@@ -9,6 +9,9 @@ description: The Singapore Citizenship Ordinance (1957), the Women’s Charter
 #### The Singapore Citizenship Ordinance (1957), the Women’s Charter (1961) and the Employment Act (1968) are three important pieces of legislation that have shaped modern Singapore.
 By Kevin Khoo, Mark Wong and Fiona Tan
 
+![](/images/Vol%2020%20Issue%203/Laws/laws_facing.jpg)
+<div style="background-color: white;">Citizenship registration under the Singapore Citizenship Ordinance took place from 1957 to 1963 prior to the merger to form Malaysia. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 
 Not so long ago, the identity and legal status of Singapore citizens did not exist, wives in Singapore were not treated as equal partners in marriage, and Singapore’s archaic employment laws were unsuited for a modern industrial economy. But these changed with the introduction of three laws which are featured in a refreshed exhibition by the National Library Board (NLB).
 
@@ -17,6 +20,10 @@ The Singapore Citizenship Ordinance (1957), the Women’s Charter (1961) and the
 Featuring 37 artefacts and reproductions, mainly from the collections of the National Archives of Singapore, National Library and Supreme Court Singapore, the exhibition examines the antecedents and significance of these three landmark legislations at the foundation of independent Singapore. By examining the origins of these laws, the exhibition illuminates a pivotal period in Singapore’s nation-building history, highlighting the country’s transition from a British Crown colony to an independent and sovereign nation.
 
 #### **The Singapore Citizenship Ordinance (1957)**
+
+![](/images/Vol%2020%20Issue%203/Laws/laws_ordinance.jpg)
+<div style="background-color: white;">The Singapore Citizenship Ordinance (1957) was signed off by Governor Robert Brown Black and stamped with the seal of the coat of arms of the Colony of Singapore. <i>On loan from Supreme Court of Singapore.
+</i></div>
 
 The Singapore Citizenship Ordinance of 1957 had its roots in the mid-19th century when the British first introduced nationality laws to Singapore that allowed migrants to be naturalised as British subjects, and for people born in British territories – such as Singapore – to automatically become British citizens regardless of ethnicity. This laid the ground for a multiethnic society to settle and develop in Singapore.
 
