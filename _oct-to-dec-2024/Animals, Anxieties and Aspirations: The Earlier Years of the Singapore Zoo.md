@@ -6,7 +6,7 @@ description: The zoo was able to overcome major setbacks in its formative years
   to become the well-loved tourist attraction it is today.
 image: /images/Vol 20 Issue 3/Zoo/zoo_img11.jpg
 ---
-#### The zoo was able to overcome major setbacks in its formative years to become the well-loved tourist attraction it is today.
+#### **The zoo was able to overcome major setbacks in its formative years to become the well-loved tourist attraction it is today.**
 By Choo Ruizhi
 
 
@@ -71,7 +71,7 @@ Reports of the runaway panther provoked widespread fear and excitement among Sin
 
 The hunt for Twiggy reached its finale nearly 11 months later, when a clerk with the Singapore Turf Club spotted a strange animal entering a monsoon drain in the area on 30 January 1974. Policemen, Reserve Unit troopers, firemen and zoo staff rushed to the scene, bringing with them “tranquiliser guns, traps and special cages”. Petrol was poured into the drain and set ablaze with flare guns. Despite efforts to smoke out the panther, the animal did not budge.[^24] Two days later, the authorities flooded the underground drain while policemen stood ready with submachine guns. Soon after, a feline carcass floated out of the drain.[^25]
 
-Many citizens responded with outrage and grief for the “panther that harmed no one”.[^26] Others expressed their disgust at the “callous’ and “ghastly way” in which a “young, probably sickly panther” had to be killed and likely “suffered a very painful death”.[^27]
+Many citizens responded with outrage and grief for the “panther that harmed no one”.[^26] Others expressed their disgust at the “callous” and “ghastly way” in which a “young, probably sickly panther” had to be killed and likely “suffered a very painful death”.[^27]
 
 Despite additional security precautions, the zoo would suffer a few more animal escapes in 1974. In the early hours of 14 January that year, just weeks before Twiggy’s untimely end, Congo the Nile hippopotamus broke out of his enclosure and plodded into the placid reaches of the Seletar Reservoir. The massive animal would remain in the water body for 47 days before zookeepers unexpectedly succeeded in coaxing him back into his enclosure in early March with a bunch of bananas.[^28]
 
@@ -90,7 +90,7 @@ In subsequent decades, the zoo (and Singaporeans themselves) would witness signi
 
 Thanks to collaborations with zoos in China and North America, Singaporeans were exposed to a wider diversity of exotic animals – from white tigers to golden monkeys – expanding the ways they could imagine and experience wild animals.[^33]
 
-Under Harrison, the zoo pioneered “Breakfast with an Orangutan” in 1982, where paying visitors could dine with orangutans. The concept found great traction with tourists, facilitating the meteoric rise of Ah Meng, a female orangutan that many people would come to develop a deep affection for. The zoo had initially groomed Susie (the orangutan Goh Keng Swee had shaken hands with) to be a zoo mascot, but she had died of pregnancy toxemia in 1974. (The zoo no longer has a programme forcing orangutans or other animals to dine with people.)&nbsp;
+Under Harrison, the zoo pioneered “Breakfast with an Orangutan” in 1982, where paying visitors could dine with orangutans. The concept found great traction with tourists, facilitating the meteoric rise of Ah Meng, a female orangutan that many people would come to develop a deep affection for. The zoo had initially trained Susie (the orangutan Goh Keng Swee had shaken hands with) to be a zoo mascot, but she had died of pregnancy toxemia in 1974. (The zoo no longer has a programme forcing orangutans or other animals to dine with people.)&nbsp;
 
 Ah Meng was chosen as a replacement because she was photogenic, “well-groomed” and comfortable with humans, having been raised as a household pet before being given to the zoo. Docile and personable, Ah Meng was photographed with many visiting celebrities and foreign dignitaries, and grew to become a household name among Singaporeans. According to Harrison, Singapore’s third president Devan Nair supposedly once remarked that “After Lee Kuan Yew, \[Ah Meng is\] the most well-known Singaporean in the world”.[^34] In 1992, Ah Meng became the first only non-human recipient of the Special Tourism Ambassador award by the then Singapore Tourist Promotion Board.[^35]
 

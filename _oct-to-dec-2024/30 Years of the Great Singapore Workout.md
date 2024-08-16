@@ -75,7 +75,7 @@ On 30 September and 1 October 1993, during ACES (All Children Exercising Simulta
 
 Between 1993 and 1998, the Great Singapore Workout was a mass event. However, from 1999, the workout was decentralised. It was also used by schools and the community as a warm-up programme before any sports events.[^15]&nbsp;
 
-Over the years, there have been variations to the original routine to suit different fitness levels and purposes. In 1994, for Prisons Healthy Lifestyle Day, Changi Prison inmates performed a _taiji_ version of the workout in a slower beat followed by the actual workout. “By doing two versions of the workout, we are mixing Eastern and Western styles. The _taiji_ style also helps us to warm up first before exerting ourselves for the actual workout,” said an inmate.[^16] &nbsp;
+Over the years, there have been variations to the original routine to suit different fitness levels and purposes. In 1994, for Prisons Healthy Lifestyle Day, Changi Prison inmates performed a _taiji_ version of the workout in a slower beat followed by the actual workout. “By doing two versions of the workout, we are mixing Eastern and Western styles. The _taiji_ style also helps us to warm up first before exerting ourselves for the actual workout,” said an inmate.[^16] (<i>Taiji</i> is an ancient Chinese martial art developed for combat and self-defence, but has since evolved into a sport and form of exercise.) 
 
 
 In 1996, schools adopted the Fun and Fitness Workout, a more energetic and upbeat version estimated to be three times more vigorous than the original workout. The 15-minute routine, choreographed by the Singapore Fitness Instructors’ Association, consisted of three parts – warm-up, an aerobic segment and a cool-down.[^17]&nbsp;
@@ -84,7 +84,8 @@ Private companies also introduced their own workout such as the Great Motorola W
 
 In 2001, the Health Promotion Board (HPB) introduced a new workout to complement the original version. Called “Work Fit”, the 20-minute routine targeted the body’s major muscle groups by combining movements from different sports and games, including bowling, boxing, tennis and even golf. Developed by fitness consultants from the private sector and the Singapore Sports Council, the workout could be done “by almost anyone, anywhere” or “as a quick exercise fix in the office”.[^19] &nbsp;
 
-Eight years later, in 2009, the HPB created the New Great Singapore Workout which incorporated “strength training and aerobic movements which were better suited to Singapore’s multiracial culture”. These included resistance band exercises and moves inspired by _qigong_, hip-hop, Malay dance, Indian dance and Chinese _taiji_.[^20] &nbsp;
+Eight years later, in 2009, the HPB created the New Great Singapore Workout which incorporated “strength training and aerobic movements which were better suited to Singapore’s multiracial culture”. These included resistance band exercises and moves inspired by hip-hop, Malay dance, Indian dance, and Chinese _taiji_ and _qigong_ (an ancient Chinese system of physical&nbsp;exercise&nbsp; and&nbsp;meditation
+that&nbsp;combines&nbsp;movement, breathing and mental concentration).[^20] 
 
 Local bank POSB put its own spin on things. In 2015, it rolled out “The Neighbourhood Workout” consisting of six moves “synonymous with Singapore”: “selfie snap”, “prata flip”, “kaya spread”, “shopping bag drag”, “MRT squeeze” and “bus balance”. The video showed people performing the moves in different parts of Singapore such as at a lift landing, in a corridor and at a hawker centre. Within two weeks of the video being uploaded on POSB’s Facebook page, it had received more than 100,000 views.[^21]&nbsp;
 

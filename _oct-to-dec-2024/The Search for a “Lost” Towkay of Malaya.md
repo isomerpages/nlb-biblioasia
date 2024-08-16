@@ -15,7 +15,7 @@ By Phan Ming Yen
 <div style="background-color: white;"> A portrait of Phan Kim Sam used at the time of his death in 1939. <i>Courtesy of the Family of Phan Kim Sam and Choo Yang Yung. </i></div>
 
 
-It all started with a name on a torn envelope postmarked 15 March 1928: 潘锦三.[^1] My brother and I came across the envelope in the breast pocket of what appeared to be workman’s clothes, which I was about to discard until my brother thought it wise to check the pockets first. Imprinted on the clothes, too, were the initials “P K S”.&nbsp;
+It all started with a name on a torn envelope postmarked 15 March 1928: 潘锦三 (Phan Kim San).[^1] My brother and I came across the envelope in the breast pocket of what appeared to be workman’s clothes, which I was about to discard until my brother thought it wise to check the pockets first. Imprinted on the clothes, too, were the initials “P K S”.&nbsp;
 
 ![](/images/Vol%2020%20Issue%203/Lost%20Towkay/towkay_img2.jpg)
 <div style="background-color: white;"> A torn envelope postmarked 15 March 1928 with the name 潘锦三 on it. <i>Courtesy of the Family of Phan Kim Sam and Choo Yang Yung. </i></div>
@@ -37,7 +37,7 @@ The family name on the envelope was ours: 潘. But we did not recognise the give
 
 He had died from an aneurysm two years before the outbreak of the war, so we had been told. He had plans to bring the family of nine children back to China, having built a huge house in his birthplace, Meixian (梅县) in Guangdong province, with the money he made in Malaya.
 
-Our grandfather’s name was 潘扬昌. That was the name on the ancestral tablet at home and on his tombstone. It was the name our mother knew him by and it was also the name whom our cousin, who had lived in the shophouse in the late 1950s, was familiar with. None of them had ever heard of the name 潘锦三. Our aunt, now 94, is stricken with dementia.&nbsp;
+Our grandfather’s name was 潘扬昌 (Fong Kum Sam). That was the name on the ancestral tablet at home and on his tombstone. It was the name our mother knew him by and it was also the name whom our cousin, who had lived in the shophouse in the late 1950s, was familiar with. None of them had ever heard of the name 潘锦三. Our aunt, now 94, is stricken with dementia.&nbsp;
 
 The family business was subsequently passed on to our grandmother, Choo Yang Yung, and managed by our uncle and aunt. Our father, the youngest in the family, worked as a forensics document examiner with the Malaysian civil service in Petaling Jaya, Selangor.&nbsp; With the passing of our grandmother in 1995, the business was managed by our uncle. After he died in 2003 and given the falling tin prices in Malaysia since the 1980s, the business licence was given up.&nbsp;
 

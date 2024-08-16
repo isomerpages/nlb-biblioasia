@@ -46,7 +46,7 @@ Finally, on 26 March 1836, the Armenian Apostolic Church of St Gregory the Illum
 
 The church was an important part of Armenian life in Singapore. It was where the Sunday service – known as the Divine Liturgy – was celebrated, where major feast days were observed, and where life events such as baptisms and weddings were held. &nbsp;
 
-The church was also important for fostering a sense of community. Unlike the other immigrants such as the Chinese and the Indians, the Armenians tended to come to Singapore as a family. Weekly church services would have allowed the men, their wives and their children to meet others of the same cultural and religious background on a regular basis. Friendships were formed, children grew up together and business opportunities were discussed. Run and maintained by the community and volunteers, the church was where community ties were strengthened.
+The church was also important for fostering a sense of community. Unlike the other immigrants such as the Chinese and the Indians, the Armenians tended to come to Singapore in family groups. Weekly church services would have allowed the men, their wives and their children to meet others of the same cultural and religious background on a regular basis. Friendships were formed, children grew up together and business opportunities were discussed. Run and maintained by the community and volunteers, the church was where community ties were strengthened.
 
 Historian Nadia Wright noted that various members of the congregation raised money to pay for modifications to the roof and dome in the 1840s and 1850s: “Over the years, generous individuals further contributed to improvements and additions. For example, in 1861, Peter Seth donated the bell in the steeple, although this was not hung until the 1880s. In that same decade, Catchick Moses paid for the back porch and a new fence around the compound.”[^10]
 
@@ -83,7 +83,7 @@ Because of the small numbers, the community found it hard to maintain the church
 
 Official compensation for war damage was paltry and church funds had to be used for repairs. Eventually, the parsonage was repaired with personal contributions from Walter, Robert and Looleen Martin.[^21]
 
-The small numbers also made it harder to keep regular church services going. In 1953, the _Straits Budget_ noted: “Walking into the Armenian Church of St. Gregory, the Illuminator in Coleman Street you will find every Sunday that the altar candles are lighted and the liturgy stands open. But there is no service. At nine every morning, the Churchwarden, ex-Japanese P.O.W. Mr Joannes, reads players \[sic\] to the steadfast remanant \[sic\] of the faithful.”[^22]
+The small numbers also made it harder to keep regular church services going. In 1953, the _Straits Budget_ noted: “Walking into the Armenian Church of St Gregory, the Illuminator in Coleman Street you will find every Sunday that the altar candles are lighted and the liturgy stands open. But there is no service. At nine every morning, the Churchwarden, ex-Japanese P.O.W. Mr Joannes, reads players \[sic\] to the steadfast remanant \[sic\] of the faithful.”[^22]
 
 The first Divine Liturgy to be served after the war was on 9 May 1954. It was an important moment for the Armenian community because the last time the Liturgy had been celebrated in Singapore was some 16 years earlier. “Armenians have bought a new altar cloth (the one old having rotted away). They have scrubbed the floor and whitewashed the walls,” reported the _Straits Times_. “The church is fragrant with fresh flowers, candles are lighted and a choir of seven have been practising hymns unsung here since 1938.”[^23]
 
@@ -97,7 +97,7 @@ Although the Armenian community in Singapore was small and the church suffered b
 
 In May 1954, a local group began to advocate publicly for its conservation. The _Straits Times_ reported that the “Friends of Singapore, a cultural society, plans to rescue the old Armenian Church in Coleman Street because of its historical interest. It also plans to save the house of its architect Mr. Coleman… the society will make local Armenians an offer of help in the rehabilitation of the building”.[^25]
 
-The church was indeed fixed up, though apparently without using funds from outside. This, meant that it was done on a relatively small budget. The results of the restoration did not please everyone. In a commentary in April 1956, _Straits Times_ contributor Stanley Street criticised the community’s restoration efforts that had left the church, in his opinion, unrecognisable.&nbsp;
+The church was indeed fixed up, though apparently without using funds from outside. This meant that it was done on a relatively small budget. The results of the restoration did not please everyone. In a commentary in April 1956, _Straits Times_ contributor Stanley Street criticised the community’s restoration efforts that had left the church, in his opinion, unrecognisable.&nbsp;
 
 Street wrote: “Had they possessed the means to carry out the long-delayed repairs while still preserving the charm and irreplaceable craftsmanship that has been lost, be sure they would have done so. But the community wished to restore their church from the slender funds at their disposal. Offer from other sources to help in this endeavour were declined, and for that we must respect the Singapore community of perhaps the oldest church in Christendom.”[^26] &nbsp;
 
@@ -115,7 +115,7 @@ The grounds, he wrote, “could be opened more to the public, mainly for passive
 
 Church trustee Art Baghramian pushed back against these well-meaning suggestions. “First, I would like to point out that the Armenian Church is and has always been supported and maintained solely by private sources,” he wrote. “Therefore, the use of the church and its grounds is not open to public debate. Second, and more important, is the fact that though religious services are not held at the church on a regular basis, it maintains a sacred and holy place. As such, it is not maintained for profane or secular use.”[^32]
 
-In the quest to maintain the church as a sacred space and also allow it to be enjoyed as part of Singapore’s heritage, the church accepted a proposal from the Singapore Tourist Promotion Board (now Singapore Tourism Board) in 1985 to allow the premises to be used a wedding venue for Japanese tourists.&nbsp;
+In the quest to maintain the church as a sacred space and also allow it to be enjoyed as part of Singapore’s heritage, the church accepted a proposal from the Singapore Tourist Promotion Board (now Singapore Tourism Board) in 1985 to allow the premises to be used as a wedding venue for Japanese tourists.&nbsp;
 
 “Wedding bells will ring again at the Armenian church next month when visiting Japanese couples walk down the aisle as part of a newly launched holiday package for Japanese honeymooners,” the _Straits Times_ reported. “The couples will go through a simple ceremony at Singapore’s oldest Christian church, which is celebrating its 150th anniversary this year.”[^33] At that point, the church served about 20 Armenians still living in Singapore.
 

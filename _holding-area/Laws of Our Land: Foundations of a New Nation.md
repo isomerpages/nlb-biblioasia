@@ -17,7 +17,7 @@ Not so long ago, the identity and legal status of Singapore citizens did not exi
 
 The Singapore Citizenship Ordinance (1957), the Women’s Charter (1961) and the Employment Act (1968) are showcased in “Laws of Our Land: Foundations of a New Nation”. The exhibition, which opened to the public on 5 July 2024, is hosted at the National Gallery Singapore, in the former Chief Justice’s Chamber and Office at the Supreme Court Wing.&nbsp;
 
-Featuring 37 artefacts and reproductions, mainly from the collections of the National Archives of Singapore, National Library and Supreme Court Singapore, the exhibition examines the antecedents and significance of these three landmark legislations at the foundation of independent Singapore. By examining the origins of these laws, the exhibition illuminates a pivotal period in Singapore’s nation-building history, highlighting the country’s transition from a British Crown colony to an independent and sovereign nation.
+Featuring 37 artefacts and reproductions, mainly from the collections of the National Archives of Singapore, National Library and Supreme Court Singapore, the exhibition examines the antecedents and significance of these three landmark legislations at the founding of independent Singapore. By examining the origins of these laws, the exhibition illuminates a pivotal period in Singapore’s nation-building history, highlighting the country’s transition from a British Crown colony to an independent and sovereign nation.
 
 #### **The Singapore Citizenship Ordinance (1957)**
 
