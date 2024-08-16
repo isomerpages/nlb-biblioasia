@@ -37,7 +37,7 @@ The family name on the envelope was ours: 潘. But we did not recognise the give
 
 He had died from an aneurysm two years before the outbreak of the war, so we had been told. He had plans to bring the family of nine children back to China, having built a huge house in his birthplace, Meixian (梅县) in Guangdong province, with the money he made in Malaya.
 
-Our grandfather’s name was 潘扬昌 (Fong Kum Sum). That was the name on the ancestral tablet at home and on his tombstone. It was the name our mother knew him by and it was also the name whom our cousin, who had lived in the shophouse in the late 1950s, was familiar with. None of them had ever heard of the name 潘锦三. Our aunt, now 94, is stricken with dementia.&nbsp;
+Our grandfather’s name was 潘扬昌 (Fong Kam Sum). That was the name on the ancestral tablet at home and on his tombstone. It was the name our mother knew him by and it was also the name whom our cousin, who had lived in the shophouse in the late 1950s, was familiar with. None of them had ever heard of the name 潘锦三. Our aunt, now 94, is stricken with dementia.&nbsp;
 
 The family business was subsequently passed on to our grandmother, Choo Yang Yung, and managed by our uncle and aunt. Our father, the youngest in the family, worked as a forensics document examiner with the Malaysian civil service in Petaling Jaya, Selangor.&nbsp; With the passing of our grandmother in 1995, the business was managed by our uncle. After he died in 2003 and given the falling tin prices in Malaysia since the 1980s, the business licence was given up.&nbsp;
 
