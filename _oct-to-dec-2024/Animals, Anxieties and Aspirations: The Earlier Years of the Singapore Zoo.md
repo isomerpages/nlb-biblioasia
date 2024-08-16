@@ -71,7 +71,7 @@ Reports of the runaway panther provoked widespread fear and excitement among Sin
 
 The hunt for Twiggy reached its finale nearly 11 months later, when a clerk with the Singapore Turf Club spotted a strange animal entering a monsoon drain in the area on 30 January 1974. Policemen, Reserve Unit troopers, firemen and zoo staff rushed to the scene, bringing with them “tranquiliser guns, traps and special cages”. Petrol was poured into the drain and set ablaze with flare guns. Despite efforts to smoke out the panther, the animal did not budge.[^24] Two days later, the authorities flooded the underground drain while policemen stood ready with submachine guns. Soon after, a feline carcass floated out of the drain.[^25]
 
-Many citizens responded with outrage and grief for the “panther that harmed no one”.[^26] Others expressed their disgust at the “callous’ and “ghastly way” in which a “young, probably sickly panther” had to be killed and likely “suffered a very painful death”.[^27]
+Many citizens responded with outrage and grief for the “panther that harmed no one”.[^26] Others expressed their disgust at the “callous” and “ghastly way” in which a “young, probably sickly panther” had to be killed and likely “suffered a very painful death”.[^27]
 
 Despite additional security precautions, the zoo would suffer a few more animal escapes in 1974. In the early hours of 14 January that year, just weeks before Twiggy’s untimely end, Congo the Nile hippopotamus broke out of his enclosure and plodded into the placid reaches of the Seletar Reservoir. The massive animal would remain in the water body for 47 days before zookeepers unexpectedly succeeded in coaxing him back into his enclosure in early March with a bunch of bananas.[^28]
 
