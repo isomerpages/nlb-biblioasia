@@ -115,7 +115,7 @@ The grounds, he wrote, “could be opened more to the public, mainly for passive
 
 Church trustee Art Baghramian pushed back against these well-meaning suggestions. “First, I would like to point out that the Armenian Church is and has always been supported and maintained solely by private sources,” he wrote. “Therefore, the use of the church and its grounds is not open to public debate. Second, and more important, is the fact that though religious services are not held at the church on a regular basis, it maintains a sacred and holy place. As such, it is not maintained for profane or secular use.”[^32]
 
-In the quest to maintain the church as a sacred space and also allow it to be enjoyed as part of Singapore’s heritage, the church accepted a proposal from the Singapore Tourist Promotion Board (now Singapore Tourism Board) in 1985 to allow the premises to be used a wedding venue for Japanese tourists.&nbsp;
+In the quest to maintain the church as a sacred space and also allow it to be enjoyed as part of Singapore’s heritage, the church accepted a proposal from the Singapore Tourist Promotion Board (now Singapore Tourism Board) in 1985 to allow the premises to be used as a wedding venue for Japanese tourists.&nbsp;
 
 “Wedding bells will ring again at the Armenian church next month when visiting Japanese couples walk down the aisle as part of a newly launched holiday package for Japanese honeymooners,” the _Straits Times_ reported. “The couples will go through a simple ceremony at Singapore’s oldest Christian church, which is celebrating its 150th anniversary this year.”[^33] At that point, the church served about 20 Armenians still living in Singapore.
 
