@@ -16,7 +16,7 @@ Some people might remember AGS Danaraj as a newsreader on radio and television i
 
 #### **On the News**
 
-Danaraj, who was my father, was a part-time radio and television newsreader with Radio Television Singapura and Singapore Broadcasting Cooperation for 19 years in the 1960s and 1970s.&nbsp; He spent two years on a government scholarship at Durham University in Britain from 1958 to 1960 to study town planning. His interest and love for journalism blossomed while he was there and he would freelance for newspapers during term breaks. He recalled, "I risked my life when I covered the Nottingham racial riots back in the 60s, but I loved every minute of it. I was paid about $50 to $200 for an article.”[^1]
+Danaraj, who was my father, was a part-time radio and television newsreader with Radio Television Singapura and Singapore Broadcasting Cooperation for 19 years in the 1960s and 1970s.&nbsp; He spent two years on a government scholarship at Durham University in Britain from 1958 to 1960 to study town planning. His interest and love for journalism blossomed while he was there and he would freelance for newspapers during term breaks. He recalled, "I risked my life when I covered the Nottingham racial riots back in the 1960s, but I loved every minute of it. I was paid about $50 to $200 for an article.”[^1]
 
 <div style="background-color: white;">
 <br>
@@ -37,7 +37,7 @@ Danaraj was born in Pahang, Malaysia in 1931. His family moved to Singapore in 1
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/preparing_Masterplan.png" style="width: 80%;">Danaraj preparing the Master Plan for the 1956 Master Plan exhibition. <i>Courtesy of the Danaraj Family Collection.</i></div> 
+<img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/preparing_Masterplan.png" style="width: 80%;">AGS Danaraj preparing the Master Plan for the 1956 Master Plan exhibition. <i>Courtesy of the Danaraj Family Collection.</i></div> 
 
 The objective of the Master Plan and survey was to propose land use on the island and act as a guide for its physical growth. Danaraj was part of the team that conducted an island-wide diagnostic survey of Singapore, surveying land and building use of both city and rural areas, as well as traffic flow. It provided detailed zoning and density parameters to guide the country’s physical development.[^10] The survey offered a summary of rural areas requiring improvement, identifying issues such as overcrowding, high congestion, housing, recreation for the growing population, sufficient land reserves, eliminating slums, and establishing a green belt around the city to limit urban sprawl.[^11]
 
@@ -85,14 +85,14 @@ His work with the Red Cross also gave him the opportunity to work closely with t
 <br>
 <img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/Puan_Noor_Aishah_at_the_Red_Cross.jpg" style="width: 80%;">AGS Danaraj (far left) and Puan Noor Aishah at the Red Cross Society’s “Creative Hobbies” exhibition at the Conference Hall, 8 October 1966. <i>Yusof Ishak Collection, courtesy of National Archives of Singapore.</i></div> 
 
-Danaraj died in July 1981, at age 49, leaving behind his wife Lily Teo and two children, daughter Felicity and son, Edgar.[^28]
+Danaraj died in July 1981, at age 49, leaving behind his wife Lily Teo and two children, daughter Felicity and son Edgar.[^28]
 
 My late father was a truly loving man who always prioritised spending quality time with me and my elder sister, Felicity. He had an incredible sense of humour and never failed to make us laugh, filling our home with joy and warmth. His kindness and playful spirit are deeply missed, and the cherished memories of his smiling face will forever remain in our hearts.
 
 <i>This article is dedicated, with the deepest gratitude and heartfelt remembrance, to the memory of the late Dr Malone-Lee Lai Choo, whose unwavering support was instrumental in shaping this work.</i>
 
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/author_photo.png"><b>Edgar J. Danaraj</b> is currently a Chartered Engineer (UK) and Research Fellow at the National University of Singapore. He graduated from Nanyang Technological University (Mechanical &amp; Aerospace Engineering) and is first author of a few scientific journals. Edgar received the RSAF Long Service Award in 2008. He spent 15 years in the aviation industry and won the US and APAC leadership award on water sustainability.</div>  
+<img style="width: 100px; height: 100px;" src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/author_photo.png"><b>Edgar J. Danaraj</b> is currently a Chartered Engineer (UK) and Research Fellow at the National University of Singapore. He graduated from Nanyang Technological University (Mechanical &amp; Aerospace Engineering) and is first author of a few scientific journals. Edgar received the RSAF Long Service Award in 2008. He spent 15 years in the aviation industry and won the US leadership award on water sustainability.</div>  
 
 #### **Notes**
 
