@@ -6,7 +6,7 @@ description: The zoo was able to overcome major setbacks in its formative years
   to become the well-loved tourist attraction it is today.
 image: /images/Vol 20 Issue 3/Zoo/zoo_img11.jpg
 ---
-#### The zoo was able to overcome major setbacks in its formative years to become the well-loved tourist attraction it is today.
+#### **The zoo was able to overcome major setbacks in its formative years to become the well-loved tourist attraction it is today.**
 By Choo Ruizhi
 
 
