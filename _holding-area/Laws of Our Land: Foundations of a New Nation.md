@@ -103,11 +103,11 @@ The Employment Act has since undergone a number of revisions and amendments, wit
 
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
-<b>Displaying Singapore’s Legal Histories Through Collections Of The National Archives And National Library</b>
+<b>DISPLAYING SINGAPORE'S LEGAL HISTORIES THROUGH COLLECTIONS OF THE NATIONAL ARCHIVES AND NATIONAL LIBRARY</b>
 <br><br>
 The collections of the National Archives of Singapore and National Library originate from government and authoritative sources. The curators – Kevin Khoo, Mark Wong and Fiona Tan – were mindful to present a balanced narrative, and to include personal documents like marriage certificates and identity cards, as well as oral history interviews and audiovisual recordings, so that people’s voices and personal stories could be heard. In addition to physical displays, the exhibition features several multimedia interactives, including augmented reality experiences, where visitors can interact with composite characters inspired by historical sources.&nbsp;
 <br><br>
-The exhibition will enable visitors to develop a new appreciation for Singapore’s legal history, and take a deeper dive into the topic by perusing other related materials at the National Archives and National Library.<br><br>
+The exhibition will enable visitors to develop a new appreciation for Singapore’s legal history, and take a deeper dive into the topic by perusing other related materials at the National Archives and National Library.<br>
 </div>
 			
 <div style="background-color: white;">
@@ -131,7 +131,7 @@ The exhibition will enable visitors to develop a new appreciation for Singapore�
 [^1]: Low Choo Chin, _Report on Citizenship Law in Malaysia and Singapore_ (Italy: Global Citizenship Observatory, Robert Schuman Centre for Advanced Studies, European University Institute, 2017), 1–15, https://www.ecoi.net/en/document/2106108.html.
 
 
-[^2]: C.M. Turnbull, _A History of Modern Singapore_, 1819–2005 (Singapore: NUS Press, 2017), 268. (From National Library, Singapore, call no. RSING 959.57 TUR)
+[^2]: C.M. Turnbull, [_A History of Modern Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13206047), 1819–2005 (Singapore: NUS Press, 2017), 268. (From National Library, Singapore, call no. RSING 959.57 TUR)
 
 [^3]: Yeo Kim Wah, [_Political Development in Singapore, 1945–1955_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=10c87456-cbbb-43a8-8e85-36481432bed2) (Singapore: Singapore University Press, 1973), 135–72. (From National Library Online)
 
