@@ -75,7 +75,7 @@ On 30 September and 1 October 1993, during ACES (All Children Exercising Simulta
 
 Between 1993 and 1998, the Great Singapore Workout was a mass event. However, from 1999, the workout was decentralised. It was also used by schools and the community as a warm-up programme before any sports events.[^15]&nbsp;
 
-Over the years, there have been variations to the original routine to suit different fitness levels and purposes. In 1994, for Prisons Healthy Lifestyle Day, Changi Prison inmates performed a _taiji_ version of the workout in a slower beat followed by the actual workout. “By doing two versions of the workout, we are mixing Eastern and Western styles. The _taiji_ style also helps us to warm up first before exerting ourselves for the actual workout,” said an inmate.[^16] &nbsp;
+Over the years, there have been variations to the original routine to suit different fitness levels and purposes. In 1994, for Prisons Healthy Lifestyle Day, Changi Prison inmates performed a _taiji_ version of the workout in a slower beat followed by the actual workout. “By doing two versions of the workout, we are mixing Eastern and Western styles. The _taiji_ style also helps us to warm up first before exerting ourselves for the actual workout,” said an inmate.[^16] (<i>Taiji</i> is an ancient Chinese martial art developed for combat and self-defence, but has since evolved into a sport and form of exercise.) 
 
 
 In 1996, schools adopted the Fun and Fitness Workout, a more energetic and upbeat version estimated to be three times more vigorous than the original workout. The 15-minute routine, choreographed by the Singapore Fitness Instructors’ Association, consisted of three parts – warm-up, an aerobic segment and a cool-down.[^17]&nbsp;
