@@ -83,7 +83,7 @@ Because of the small numbers, the community found it hard to maintain the church
 
 Official compensation for war damage was paltry and church funds had to be used for repairs. Eventually, the parsonage was repaired with personal contributions from Walter, Robert and Looleen Martin.[^21]
 
-The small numbers also made it harder to keep regular church services going. In 1953, the _Straits Budget_ noted: “Walking into the Armenian Church of St. Gregory, the Illuminator in Coleman Street you will find every Sunday that the altar candles are lighted and the liturgy stands open. But there is no service. At nine every morning, the Churchwarden, ex-Japanese P.O.W. Mr Joannes, reads players \[sic\] to the steadfast remanant \[sic\] of the faithful.”[^22]
+The small numbers also made it harder to keep regular church services going. In 1953, the _Straits Budget_ noted: “Walking into the Armenian Church of St Gregory, the Illuminator in Coleman Street you will find every Sunday that the altar candles are lighted and the liturgy stands open. But there is no service. At nine every morning, the Churchwarden, ex-Japanese P.O.W. Mr Joannes, reads players \[sic\] to the steadfast remanant \[sic\] of the faithful.”[^22]
 
 The first Divine Liturgy to be served after the war was on 9 May 1954. It was an important moment for the Armenian community because the last time the Liturgy had been celebrated in Singapore was some 16 years earlier. “Armenians have bought a new altar cloth (the one old having rotted away). They have scrubbed the floor and whitewashed the walls,” reported the _Straits Times_. “The church is fragrant with fresh flowers, candles are lighted and a choir of seven have been practising hymns unsung here since 1938.”[^23]
 
