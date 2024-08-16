@@ -124,7 +124,7 @@ Koeh Sia Yong can be considered a second-generation artist in Singapore, but suc
 Unlike his social realist works (woodcuts, paintings) in the 1950s and 1960s when he was a member and later the last president of the Equator Art Society, Koeh’s cartoons for Chinese newspapers in the 1970s focused on foreign politics rather than local events. This illustrates the difficulty of drawing political cartoons in that decade when maintaining national consensus in the mass media was required of writers and artists.&nbsp;
 
 ![](/images/Vol%2020%20Issue%203/Cartoonist/cartoonist_worker.jpg)
-<div style="background-color:white;"> 探望慰问罢工的工友 (Visiting the Injured Worker), 1958, woodcut print, by Koeh Sia Yong. Private collection of Jason Koh. <i>Image reproduced from The Old Dream Maker: Koeh Sia Yong (Singapore: Straits Gallery, 2022), 45. ((From National Library, Singapore, call no. RSING 759.95957 KOE). </i></div>
+<div style="background-color:white;"> 探望慰问罢工的工友 (Visiting the Injured Worker), 1958, woodcut print, by Koeh Sia Yong. Private collection of Jason Koh. <i>Image reproduced from The Old Dream Maker: Koeh Sia Yong (Singapore: Straits Gallery, 2022), 45. (From National Library, Singapore, call no. RSING 759.95957 KOE). </i></div>
 
 **Morgan Chua (1949–2018)**&nbsp;
 
