@@ -97,7 +97,7 @@ Although the Armenian community in Singapore was small and the church suffered b
 
 In May 1954, a local group began to advocate publicly for its conservation. The _Straits Times_ reported that the “Friends of Singapore, a cultural society, plans to rescue the old Armenian Church in Coleman Street because of its historical interest. It also plans to save the house of its architect Mr. Coleman… the society will make local Armenians an offer of help in the rehabilitation of the building”.[^25]
 
-The church was indeed fixed up, though apparently without using funds from outside. This, meant that it was done on a relatively small budget. The results of the restoration did not please everyone. In a commentary in April 1956, _Straits Times_ contributor Stanley Street criticised the community’s restoration efforts that had left the church, in his opinion, unrecognisable.&nbsp;
+The church was indeed fixed up, though apparently without using funds from outside. This meant that it was done on a relatively small budget. The results of the restoration did not please everyone. In a commentary in April 1956, _Straits Times_ contributor Stanley Street criticised the community’s restoration efforts that had left the church, in his opinion, unrecognisable.&nbsp;
 
 Street wrote: “Had they possessed the means to carry out the long-delayed repairs while still preserving the charm and irreplaceable craftsmanship that has been lost, be sure they would have done so. But the community wished to restore their church from the slender funds at their disposal. Offer from other sources to help in this endeavour were declined, and for that we must respect the Singapore community of perhaps the oldest church in Christendom.”[^26] &nbsp;
 
