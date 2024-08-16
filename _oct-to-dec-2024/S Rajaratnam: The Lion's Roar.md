@@ -28,7 +28,7 @@ My first volume of Raja’s biography, [_The Singapore Lion_](https://eservice.n
 ![](/images/Vol%2020%20Issue%203/Rajaratnam/rajaratnam_london.jpg)
 <div style="background-color:white;">S. Rajaratnam outside his flat in London. <i> Image reproduced from Irene Ng, The Singapore Lion: A Biography of S. Rajaratnam (Singapore: Institute of Southeast Asian Studies, 2010). (From National Library of Singapore, call no. RSING 327.59570092 NG).</i></div>
 
-At the age of 32, Raja returned to Malaya in 1947 with a new wife, Piroska, and a resolve to shape his own fate as well as that of his country, Malaya, of which Singapore was an inextricable part. He had found his calling: to fight for independence for his own country, and to usher in the post-colonial society to come.
+At the age of 32, Raja returned to Malaya in 1947 with his new wife, Piroska, and a resolve to shape his own fate as well as that of his country, Malaya, of which Singapore was an inextricable part. He had found his calling: to fight for independence for his own country, and to usher in the post-colonial society to come.
 
 ![](/images/Vol%2020%20Issue%203/Rajaratnam/rajaratnam_wife.jpg)
 <div style="background-color:white;">S. Rajaratnam and wife Piroska in London, 1943–47. <i>S. Rajaratnam Collection, courtesy of National Archives of Singapore.</i></div>
