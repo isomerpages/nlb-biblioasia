@@ -15,7 +15,7 @@ By Phan Ming Yen
 <div style="background-color: white;"> A portrait of Phan Kim Sam used at the time of his death in 1939. <i>Courtesy of the Family of Phan Kim Sam and Choo Yang Yung. </i></div>
 
 
-It all started with a name on a torn envelope postmarked 15 March 1928: 潘锦三 (Phan Kim San).[^1] My brother and I came across the envelope in the breast pocket of what appeared to be workman’s clothes, which I was about to discard until my brother thought it wise to check the pockets first. Imprinted on the clothes, too, were the initials “P K S”.&nbsp;
+It all started with a name on a torn envelope postmarked 15 March 1928: 潘锦三 (Phan Kim Sam).[^1] My brother and I came across the envelope in the breast pocket of what appeared to be workman’s clothes, which I was about to discard until my brother thought it wise to check the pockets first. Imprinted on the clothes, too, were the initials “P K S”.&nbsp;
 
 ![](/images/Vol%2020%20Issue%203/Lost%20Towkay/towkay_img2.jpg)
 <div style="background-color: white;"> A torn envelope postmarked 15 March 1928 with the name 潘锦三 on it. <i>Courtesy of the Family of Phan Kim Sam and Choo Yang Yung. </i></div>
