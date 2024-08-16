@@ -139,7 +139,7 @@ Just outside the space where rows of urns are kept is a space for ancestral tabl
 
 #### **A Place for All**
 
-Wat Ananda commemorated its centenary in 2018, and its celebration lunch on 13 May was attended by Prime Minister Lee Hsien Loong, along with a delegation of some 630 Buddhist monks from Asia, Europe and America who were in Singapore for a monks’ conference.[^17]
+Wat Ananda commemorated its centenary in 2018, and its celebration lunch on 13 May was attended by then Prime Minister Lee Hsien Loong, along with a delegation of some 630 Buddhist monks from Asia, Europe and America who were in Singapore for a monks’ conference.[^17]
 
 Today, both Thais and Singaporeans visit the temple to learn about Theravada Buddhism and participate in its activities. “I’ve been to Wat Ananda several times participating in religious activities, Thai cultural events and community events organised by the temple,” said Panalee Choosri, a Thai resident of Singapore and Counsellor at the Royal Thai Embassy. “It made me feel that Thai temples are an integral part of the local community in Singapore, benefiting and playing a role in uplifting the spirits and developing the Singaporean society,” she said.
 
