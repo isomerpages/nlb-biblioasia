@@ -21,11 +21,11 @@ Featuring 37 artefacts and reproductions, mainly from the collections of the Nat
 
 #### **The Singapore Citizenship Ordinance (1957)**
 
+The Singapore Citizenship Ordinance of 1957 had its roots in the mid-19th century when the British first introduced nationality laws to Singapore that allowed migrants to be naturalised as British subjects, and for people born in British territories – such as Singapore – to automatically become British citizens regardless of ethnicity. This laid the ground for a multiethnic society to settle and develop in Singapore.
+
 ![](/images/Vol%2020%20Issue%203/Laws/laws_ordinance.jpg)
 <div style="background-color: white;">The Singapore Citizenship Ordinance (1957) was signed off by Governor Robert Brown Black and stamped with the seal of the coat of arms of the Colony of Singapore. <i>On loan from Supreme Court of Singapore.
 </i></div>
-
-The Singapore Citizenship Ordinance of 1957 had its roots in the mid-19th century when the British first introduced nationality laws to Singapore that allowed migrants to be naturalised as British subjects, and for people born in British territories – such as Singapore – to automatically become British citizens regardless of ethnicity. This laid the ground for a multiethnic society to settle and develop in Singapore.
 
 The ordinance introduced the legal status of Singapore citizens. Being a British colony, Singapore’s settled population was split between the local born who were mostly Asian, British subjects and long-staying immigrants who were citizens of other countries.&nbsp;
 
@@ -52,12 +52,12 @@ However, all these preceding legislations addressed specific types of marriages 
 
 In the 1950s, there were increasing calls from the public for greater protection of women, the wider participation of women in public spheres, as well as the enactment of a monogamous marriage law. These efforts were largely led by the Singapore Council of Women, and in 1953, the council drafted the Prevention of Bigamous Marriages Bill, which was distributed to the Legislative Assembly.[^8]
 
-![](/images/Vol%2020%20Issue%203/Laws/laws_poster.jpg)
-<div style="background-color: white;">A poster from the 1959 Legislative Assembly General Election showing the 51 members of the first fully elected assembly. <i>Ministry of Culture Collection, courtesy of National Archives of Singapore.</i></div>
-
 However, these efforts faced resistance from the Chinese, Malay and Indian communities who were concerned about the validity of existing polygamous marriages. They also saw the bill as a challenge to the practice adopted by the colonial authorities in avoiding interference with local customs and religious laws. It was only when the People’s Action Party came into power in 1959 that a legislation for monogamous marriages became possible.[^9]
 
 The introduction of the Women’s Charter Bill in the Legislative Assembly in March 1960 had the support of both the ruling party and opposition members.[^10] However, specific clauses in the bill were debated intensely in the Assembly and the bill passed through two Select Committees and some redrafting before the act came into force on 15 September 1961.[^11]
+
+![](/images/Vol%2020%20Issue%203/Laws/laws_poster.jpg)
+<div style="background-color: white;">A poster from the 1959 Legislative Assembly General Election showing the 51 members of the first fully elected assembly. <i>Ministry of Culture Collection, courtesy of National Archives of Singapore.</i></div>
 
 While the clauses relating to marriages in the Women’s Charter did not apply to Muslim marriages, which were governed by Muslim law, the increased public debates on protecting women’s welfare in polygamous marriages also led to gradual reforms. These included the establishment of a Syariah Court in 1958, which was empowered to settle disputes relating to Muslim marriages, divorces, separation and payment of alimony. The Muslims (Amendment) Ordinance, 1960 (No. 40 of 1960) required a man who sought to marry another wife to seek the Chief Kathi’s consent.[^12]
 
@@ -103,11 +103,10 @@ The Employment Act has since undergone a number of revisions and amendments, wit
 
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
-<b>Displaying Singapore’s Legal Histories Through Collections Of The National Archives And National Library</b>
-<br><br>
+<b>DISPLAYING SINGAPORE'S LEGAL HISTORIES THROUGH COLLECTIONS OF THE NATIONAL ARCHIVES AND NATIONAL LIBRARY</b><br><br>
 The collections of the National Archives of Singapore and National Library originate from government and authoritative sources. The curators – Kevin Khoo, Mark Wong and Fiona Tan – were mindful to present a balanced narrative, and to include personal documents like marriage certificates and identity cards, as well as oral history interviews and audiovisual recordings, so that people’s voices and personal stories could be heard. In addition to physical displays, the exhibition features several multimedia interactives, including augmented reality experiences, where visitors can interact with composite characters inspired by historical sources.&nbsp;
 <br><br>
-The exhibition will enable visitors to develop a new appreciation for Singapore’s legal history, and take a deeper dive into the topic by perusing other related materials at the National Archives and National Library.<br><br>
+The exhibition will enable visitors to develop a new appreciation for Singapore’s legal history, and take a deeper dive into the topic by perusing other related materials at the National Archives and National Library.<br>
 </div>
 			
 <div style="background-color: white;">
@@ -131,7 +130,7 @@ The exhibition will enable visitors to develop a new appreciation for Singapore�
 [^1]: Low Choo Chin, _Report on Citizenship Law in Malaysia and Singapore_ (Italy: Global Citizenship Observatory, Robert Schuman Centre for Advanced Studies, European University Institute, 2017), 1–15, https://www.ecoi.net/en/document/2106108.html.
 
 
-[^2]: C.M. Turnbull, _A History of Modern Singapore_, 1819–2005 (Singapore: NUS Press, 2017), 268. (From National Library, Singapore, call no. RSING 959.57 TUR)
+[^2]: C.M. Turnbull, [_A History of Modern Singapore_, 1819–2005 ](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13206047)(Singapore: NUS Press, 2017), 268. (From National Library, Singapore, call no. RSING 959.57 TUR)
 
 [^3]: Yeo Kim Wah, [_Political Development in Singapore, 1945–1955_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=10c87456-cbbb-43a8-8e85-36481432bed2) (Singapore: Singapore University Press, 1973), 135–72. (From National Library Online)
 
