@@ -4,3 +4,6 @@ permalink: /eu-tong-sen-s-pearl-under-the-burning-tropical-sun/
 variant: markdown
 description: ""
 ---
+#### The grandeur and opulence of Eu Villa on Mount Sophia was unrivalled in its heyday.
+By Patricia Lin
+
