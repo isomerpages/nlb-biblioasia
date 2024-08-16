@@ -60,7 +60,7 @@ Staff who did not have the opportunity to attend overseas courses were trained b
 
 Besides engineers and technicians, staff of the camera unit had to acquire additional expertise and technical knowledge to operate the new colour equipment.&nbsp; “For black and white you don’t have to worry about colour temperature,” said cameraman Mun Chor Seng in an oral history interview. “Whether you’re filming indoor or outdoor, it come\[s\] out monochrome. Whereas if you use colour, you have to think of the artificial light and the normal sunlight, because both have different colour temperature\[s\]. So if you were \[to\] use the colour film, you have to do colour conversion in order to maintain the uniformity on your final finish\[ed\] product. That is the main thing that one has to remember.”[^16]
 
-In August 1974, RETAS organised the 10-day Colourvision &amp; Sound Exhibition at the National Stadium that showcased $2.5 million worth of colour and sound equipment from more than 30 booths and 20 exhibitors. “Demonstrators and trained technical personnel will show visitors what to look when adjusting and aligning their TV sets,” said Roland Yeo of RETAS. This was one of the highlights of the exhibition.[^17]
+In August 1974, RETAS organised the 10-day Colourvision &amp; Sound Exhibition at the National Stadium that showcased $2.5 million worth of colour and sound equipment from more than 30 booths and 20 exhibitors. “Demonstrators and trained technical personnel will show visitors what to look for when adjusting and aligning their TV sets,” said Roland Yeo of RETAS. This was one of the highlights of the exhibition.[^17]
 
 #### **Launch of Colour TV**
 
