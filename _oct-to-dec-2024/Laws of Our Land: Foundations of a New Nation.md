@@ -1,6 +1,6 @@
 ---
 title: "Laws of Our Land: Foundations of a New Nation"
-permalink: /laws-of-our-land-foundations-of-a-new-nation/
+permalink: /vol-20/issue-3/oct-dec-2024/laws-of-our-land/
 variant: markdown
 description: The Singapore Citizenship Ordinance (1957), the Women’s Charter
   (1961) and the Employment Act (1968) are three important pieces of legislation
@@ -131,7 +131,7 @@ The exhibition will enable visitors to develop a new appreciation for Singapore�
 [^1]: Low Choo Chin, _Report on Citizenship Law in Malaysia and Singapore_ (Italy: Global Citizenship Observatory, Robert Schuman Centre for Advanced Studies, European University Institute, 2017), 1–15, https://www.ecoi.net/en/document/2106108.html.
 
 
-[^2]: C.M. Turnbull, [_A History of Modern Singapore_, 1819–2005](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13206047) (Singapore: NUS Press, 2017), 268. (From National Library, Singapore, call no. RSING 959.57 TUR)
+[^2]: C.M. Turnbull, [_A History of Modern Singapore, 1819–2005_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13206047) (Singapore: NUS Press, 2017), 268. (From National Library, Singapore, call no. RSING 959.57 TUR)
 
 [^3]: Yeo Kim Wah, [_Political Development in Singapore, 1945–1955_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=10c87456-cbbb-43a8-8e85-36481432bed2) (Singapore: Singapore University Press, 1973), 135–72. (From National Library Online)
 
