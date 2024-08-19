@@ -2,6 +2,7 @@ collections:
   oct-to-dec-2024:
     output: true
     order:
+      - "Laws of Our Land: Foundations of a New Nation.md"
       - "The Awakening of the Modern Television Era: 50 Years of Colour TV in
         Singapore.md"
       - A Select List of Colour TV Programmes on Archives Online.md
