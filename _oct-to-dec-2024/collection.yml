@@ -2,7 +2,6 @@ collections:
   oct-to-dec-2024:
     output: true
     order:
-      - "Laws of Our Land: Foundations of a New Nation.md"
       - "The Awakening of the Modern Television Era: 50 Years of Colour TV in
         Singapore.md"
       - A Select List of Colour TV Programmes on Archives Online.md
@@ -14,5 +13,6 @@ collections:
       - S'pore’s Armenian Church Survived Close to 180 Years, S'pore’s Original
         Armenian Community Did Not.md
       - "S Rajaratnam: The Lion's Roar.md"
+      - "Laws of Our Land: Foundations of a New Nation.md"
       - The Search for a “Lost” Towkay of Malaya.md
       - New Books on Singapore History.md
