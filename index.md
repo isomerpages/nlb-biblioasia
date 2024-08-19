@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-20/issue-2/jul-sep-2024/charles-darwin-library/
-      button: Reconstructing Charles Darwin’s Lost Library
+      url: /vol-20/issue-3/oct-dec-2024/rajaratnam-biography-lions-roar/
+      button: "S. Rajaratnam: The Lion’s Roar"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 20 Issue 2/Darwin/HeroImage_darwin.jpg
+      background: /images/Vol 20 Issue 3/Rajaratnam/HeroImage_rajaratnam.jpg
   - infopic:
       title: Have Your Say
       subtitle: Readership Survey
