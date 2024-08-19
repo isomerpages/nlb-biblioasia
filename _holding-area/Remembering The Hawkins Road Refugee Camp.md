@@ -91,69 +91,131 @@ Singapore’s experience taking in the Vietnamese refugees came to shape its pol
 			
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/Boon_Lai.png">
-	<b>Boon Lai</b> is a content creator, author, illustrator and filmmaker based in Singapore. Inspired by the true accounts of the rockers who toured the Vietnam War, he created the three-book graphic novel series, <i>The Once &amp; Marvellous DKD</i> (dkdgraphicnovel.com). </div>
+<img style="width: 100px; height: 100px;" src="/images/Authors/rebecca_tan.png">
+	<b>Rebecca Tan</b> is a Children and Teens Librarian at Toa Payoh Public Library. She develops content and services for children and teens, and works with schools to promote a culture of reading. She was previously a Digital Heritage Librarian at the National Library.  </div>
 
 #### **Notes**
 
-[^1]:
+[^1]:     p.p1 {margin: 0.0px 0.0px 0.0px 9.9px; text-indent: -9.9px; line-height: 8.5px; font: 7.0px Calibri} span.s1 {letter-spacing: -0.3px} span.s2 {letter-spacing: -0.7px} span.s3 {letter-spacing: -0.4px}
 
-[^2]:
+Linda Agerbak, “A Price for War,” _Straits Times_, 24 October 1981, 1. (From NewspaperSG)
 
-[^3]:
+“Boat People of Vietnam and What Could Happen to Singapore,” _Straits Times_, 24 August 1997, 24. (From NewspaperSG)
 
-[^4]:
+Agerbak, “A Price for War.”&nbsp;
 
-[^5]:
+Agerbak, “A Price for War.”
 
-[^6]:
+Chan Tho, interview, 11 June 2024.
 
-[^7]:
+Thao Dinh, interview, 11 June 2024.
 
-[^8]:
+Chua Ngeng Choo, “A Little Viet Refuge,” _Straits Times_, 1 November 1980, 1. (From NewspaperSG)
 
-[^9]:
+Chua, “A Little Viet Refuge.”
 
-[^10]:
+Chua, “A Little Viet Refuge.”
 
-[^11]:
+Thao Dinh, interview, 11 June 2024.&nbsp;
 
-[^12]:
+Paul Jansen, “Viet Refugee Camp Model of Harmony,” _Straits Times_, 22 January 1979, 25. (From NewspaperSG)
 
-[^13]:
+“Committee Makes Life Pleasant, Meaningful,” _Straits Times_, 22 January 1979, 25. (From NewspaperSG)
 
-[^14]:
+Gabriel Tan, interview, 8 July 2024.&nbsp;
 
-[^15]:
+Note from Kaye McArthur, 8 July 2024.&nbsp;
 
-[^16]:
+“Boat People’s Horror Mag,” _New Nation_, 6 December 1979, 4. (From NewspaperSG)
 
-[^17]:
+“Boat People’s Horror Mag.”
 
-[^18]:
+“Govt Gives the Nod to Refugee Mag,” _New Nation_, 15 February 1980, 2. (From NewspaperSG)
 
-[^19]:
+“Govt Gives the Nod to Refugee Mag.”
 
-[^20]:
+“Refugee Magazine Folds Up,” _New Nation_, 20 May 1980, 3. (From NewspaperSG)
 
-[^21]:
+“Govt Asked to Extend Lease on Refugee Camp,” _Straits Times_, 24 March 1982, 8. (From NewspaperSG)
 
-[^22]:
+Tan Lian Choo, “Loc Gets Green Light to Resettle in US,” _Straits Times_, 31 May 1983, 40. (From NewspaperSG)
 
-[^23]:
+“16 Refugees on Hunger Strike Here Fall Ill,” _Straits Times_, 23 November 1992, 1; “West’s Broken Promises Provide Bitter Lesson,” _Straits Times_, 28 March 1998, 62. (From NewspaperSG)
 
-[^24]:
+“Vietnamese Refugee Attempts Suicide After Bid to Resettle Fails,” _Straits Times_, 21 November 1992, 27. (From NewspaperSG)
 
-[^25]:
+“West’s Broken Promises Provide Bitter Lesson.”
 
-[^26]:
+“West's Broken Promises Provide Bitter Lesson”; “Last 99 Boat People in Singapore Leave,” _Straits Times_, 28 June 1996, 3. (From NewspaperSG)
 
-[^27]:
+“Last 99 Boat People in Singapore Leave.”
 
-[^28]:
+“Last 99 Boat People in Singapore Leave”; “West’s Broken Promises Provide Bitter Lesson.”
 
-[^29]:
+“Vietnamese Boat People Refugee Camp, 25 Hawkins Road, Sembawang, Singapore,” Facebook, accessed 28 March 2024, http://www.facebook.com/groups/25hawkins.
 
-[^30]:
+Yuen Sin, “36 Years On, Ex-Refugee Meets One of Her Rescuers,” _Straits Times_, 23 October 2016, 7. (From NewspaperSG); Former Vietnamese Refugee Meets One of Her Rescuers 36 Years Later,” Stomp, 23 October 2016, https://stomp.straitstimes.com/singapore-seen/singapore/former-vietnamese-refugee-meets-one-of-her-rescuers-36-years-later.&nbsp;
 
-[^31]:
+Vinny Nguyen, interview, 5 July 2024.
+
+“Govt taking tough stance on illegal immigrants,” _Business Times_, 14 March 1998, 2. (From NewspaperSG)
+
+[^2]: 
+
+[^3]: 
+
+[^4]: 
+
+[^5]: 
+
+[^6]: 
+
+[^7]: 
+
+[^8]:  
+
+[^9]: 
+
+[^10]: 
+
+[^11]: 
+
+[^12]: 
+
+[^13]: 
+
+[^14]:  
+
+[^15]: 
+ 
+[^16]: 
+
+[^17]: 
+
+[^18]: 
+
+[^19]: 
+
+[^20]: 
+
+[^21]: 
+
+[^22]: 
+
+[^23]: 
+
+[^24]: 
+
+[^25]: 
+                   
+[^26]: 
+
+[^27]: 
+
+[^28]: 
+
+[^29]: 
+
+[^30]: 
+
+[^31]:  
