@@ -96,9 +96,7 @@ Singapore’s experience taking in the Vietnamese refugees came to shape its pol
 
 #### **Notes**
 
-[^1]:     p.p1 {margin: 0.0px 0.0px 0.0px 9.9px; text-indent: -9.9px; line-height: 8.5px; font: 7.0px Calibri} span.s1 {letter-spacing: -0.3px} span.s2 {letter-spacing: -0.7px} span.s3 {letter-spacing: -0.4px}
-
-Linda Agerbak, “A Price for War,” _Straits Times_, 24 October 1981, 1. (From NewspaperSG)
+[^1]:   Linda Agerbak, “A Price for War,” _Straits Times_, 24 October 1981, 1. (From NewspaperSG)
 
 “Boat People of Vietnam and What Could Happen to Singapore,” _Straits Times_, 24 August 1997, 24. (From NewspaperSG)
 
@@ -154,11 +152,7 @@ Tan Lian Choo, “Loc Gets Green Light to Resettle in US,” _Straits Times_, 31
 
 “Vietnamese Boat People Refugee Camp, 25 Hawkins Road, Sembawang, Singapore,” Facebook, accessed 28 March 2024, http://www.facebook.com/groups/25hawkins.
 
-Yuen Sin, “36 Years On, Ex-Refugee Meets One of Her Rescuers,” _Straits Times_, 23 October 2016, 7. (From NewspaperSG); Former Vietnamese Refugee Meets One of Her Rescuers 36 Years Later,” Stomp, 23 October 2016, https://stomp.straitstimes.com/singapore-seen/singapore/former-vietnamese-refugee-meets-one-of-her-rescuers-36-years-later.&nbsp;
 
-Vinny Nguyen, interview, 5 July 2024.
-
-“Govt taking tough stance on illegal immigrants,” _Business Times_, 14 March 1998, 2. (From NewspaperSG)
 
 [^2]: 
 
@@ -214,8 +208,10 @@ Vinny Nguyen, interview, 5 July 2024.
 
 [^28]: 
 
-[^29]: 
+[^29]: Yuen Sin, “36 Years On, Ex-Refugee Meets One of Her Rescuers,” _Straits Times_, 23 October 2016, 7. (From NewspaperSG); Former Vietnamese Refugee Meets One of Her Rescuers 36 Years Later,” Stomp, 23 October 2016, https://stomp.straitstimes.com/singapore-seen/singapore/former-vietnamese-refugee-meets-one-of-her-rescuers-36-years-later.&nbsp;
 
-[^30]: 
 
-[^31]:  
+[^30]: Vinny Nguyen, interview, 5 July 2024.
+
+
+[^31]: “Govt taking tough stance on illegal immigrants,” _Business Times_, 14 March 1998, 2. (From NewspaperSG)
