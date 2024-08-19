@@ -4,6 +4,12 @@ permalink: /topics/governance/
 description: ""
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/laws-of-our-land/">Laws of Our Land: Foundations of a New Nation</a>
+The Singapore Citizenship Ordinance (1957), the Women’s Charter (1961) and the Employment Act (1968) are three important pieces of legislation that have shaped modern Singapore.
+
+<img src="/images/Vol%2020%20Issue%203/Laws/Laws_topics.jpg" style="width:90%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/hippies-operation-snip-snip-long-hair/">Singapore's Hippie Hysteria and the Ban on Long Hair</a>
 
 Hippie culture was seen as a risk to Singaporean society in the 1960s and 1970s, and efforts made to reduce its influence eventually led to a campaign against men with long hair.
@@ -211,8 +217,3 @@ This useful index serves as the gateway to Singapore-related articles published 
 
 <img src="/images/Vol-12-issue-2/index-to-singapore-information/01-indextosingapore.jpg" style="width:100%;">
 <hr>
-
-
-
-
-
