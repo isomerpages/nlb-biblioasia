@@ -26,6 +26,17 @@ sections:
       image: /images/edm_strip_survey_homepage.jpg
       alt: Image alt text
   - infopic:
+      title: "Laws of Our Land: Foundations of a New Nation"
+      subtitle: Governance
+      id: infopic
+      description: The Singapore Citizenship Ordinance (1957), the Women’s Charter
+        (1961) and the Employment Act (1968) are three legislations that have
+        shaped modern Singapore.
+      button: THREE LANDMARK LEGISLATIONS
+      url: /vol-20/issue-3/oct-dec-2024/laws-of-our-land/
+      image: /images/Vol 20 Issue 3/Laws/Laws_topics.jpg
+      alt: Image alt text
+  - infopic:
       title: New Books on Singapore History (Oct 2024)
       subtitle: Literature
       id: infopic
@@ -1215,15 +1226,4 @@ sections:
       url: https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08
       alt: Greeting Card
       image: /images/Hari Raya Cards/hari raya greeting card.jpg
-  - infopic:
-      title: "Laws of Our Land: Foundations of a New Nation"
-      subtitle: Governance
-      id: infopic
-      description: The Singapore Citizenship Ordinance (1957), the Women’s Charter
-        (1961) and the Employment Act (1968) are three legislations that have
-        shaped modern Singapore.
-      button: THREE LANDMARK LEGISLATIONS
-      url: /vol-20/issue-3/oct-dec-2024/laws-of-our-land/
-      image: /images/Vol 20 Issue 3/Laws/Laws_topics.jpg
-      alt: Image alt text
 ---
