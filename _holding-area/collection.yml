@@ -2,6 +2,7 @@ collections:
   holding-area:
     output: true
     order:
+      - Remembering The Hawkins Road Refugee Camp.md
       - Eu Tong Sen’s “Pearl Under the Burning Tropical Sun”.md
       - "Remembering AGS Danaraj: Pioneer Town Planner and News Reader.md"
       - Example Title.md
