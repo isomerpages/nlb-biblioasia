@@ -89,7 +89,7 @@ The refugees even took their protest to the UNHCR office at International Plaza.
 
 The last of the refugees only left Singapore on 27 June 1996 after the UNHCR decided to shut down all camps in the region. The 99 of them were met by the police, brought to an immigration depot where they were held for two weeks, and then finally boarded a Vietnam Airlines plane at Changi Airport bound for Ho Chi Minh City.[^25]
 
-![](/images/Vol%2020%20Issue%203/Refugee/refugee_kaye.jpg)
+![](/images/Vol%2020%20Issue%203/Refugee/refugee_plane.jpg)
 <div style="background-color: white;">Vietnamese refugees boarding a special Vietnam Airlines flight bound for Ho Chi Minh City at Changi Airport after the closure of the Hawkins Road Refugee Camp in 1996. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Lu Cheng Yang, the Controller of Immigration, said at a press conference on the day of their departure that the refugees “had been allowed to enter Singapore because of unconditional written guarantees by seven countries to resettle them within three months of their arrival”. However, these countries did not honour their commitments and so the Vietnamese were “stranded in Singapore, many since the early 1990s”. He added that Singapore had worked with the UNHCR and the Vietnamese government to arrange for their return.[^26]
