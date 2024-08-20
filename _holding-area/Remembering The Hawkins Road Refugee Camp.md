@@ -31,6 +31,10 @@ Among those who spent time in Singapore was Chan Tho, now 70. He stayed in the c
 
 For unaccompanied children, arrangements were made for them to live in special houses with others like them. Thao Dinh stayed in the camp from August 1981 to March 1982 when he was 11 years old and remembers that the house was crowded when he first entered. His father and three younger sisters escaped Vietnam separately and were sent to a refugee camp in Malaysia instead. He was eventually reunited with his family and they resettled in Australia where he worked as a business franchisee. The 53-year-old currently lives in Brisbane.[^6]
 
+![](/images/Vol%2020%20Issue%203/Refugee/refugee_childrenhouse.jpg)
+<div style="background-color: white;">A house for children at the Hawkins Road Refugee Camp, 1983. <i>Courtesy of Kaye McArthur.</i></div>
+
+
 #### **Life in Singapore**
 
 As the refugees were allowed outside the camp after 12 pm each day for shopping or other recreational activities, they would visit nearby towns like Chong Pang, which took on a “bustling rhythm” reported the _Straits Times_ in 1980.[^7]
