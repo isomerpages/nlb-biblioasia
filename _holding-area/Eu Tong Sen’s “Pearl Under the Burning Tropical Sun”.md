@@ -37,10 +37,15 @@ In 1903, the house was purchased by Nissim N. Adis, the Calcutta barrister and b
 The Adis family occupied their lodge for less than 10 years before the property was purchased by Eu Tong Sen. Evidently unimpressed by the elegance and opulence of Adis Lodge, he proceeded to demolish the building and built the villa that would be unrivaled for decades.[^5] Eu Villa would be only one of a string of luxurious mansions that he commissioned to be built in Singapore, Hong Kong (where he had two palatial homes), Gopeng and Kuala Lumpur.[^6] Rumour has it that Eu had been told by a seer that he had to keep building if he wished to live a long life, and build he did.
 
 Eu Villa, which commanded a panoramic view of the town and harbour, was designed by the architectural firm of Swan &amp; Maclaren for a million dollars and completed in 1913. “Eu Villa has the mark of a millionaire in all its commodious premises. It is built like a chateau – the French influence is strong – and its dull-white exterior shines like a pearl under the burning tropical sun” reported the _Straits Times_ in 1934.[^7]
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol-16-issue-3/building/planningbuilding-bnwbuilding.jpg" style="width: 80%;">
+An aerial view of Eu Villa on Mount Sophia, 1940s. <i>Courtesy of National Archives of Singapore.</i></div>
+
 
   
 
-* * *
+
 
 
 
