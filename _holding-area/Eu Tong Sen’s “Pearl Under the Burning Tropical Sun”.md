@@ -142,9 +142,9 @@ In 1973, as various family members and their different business enterprises ran 
 
 Besides Eu Villa, there were a number of other palatial mansions built for the wealthy Straits Chinese in the first quarter of the 20th century. However, neither the personalities of their owners nor the opulence of the houses themselves came close to rivaling the likes of Eu Tong Sen or his villa on Adis Road.
 
-***
 
-**Dr Patricia Lin** has a PhD in Comparative Literature and Critical Theory from the University of Southern California. She is retired Professor Emeritus in the Department of Gender, Ethnicity, and Multicultural Studies at California State Polytechnic University.  
+<div style="background-color: white;">
+<img style="width: 100px; height: 100px;" src=""><b>Dr Patricia Lin</b> has a PhD in Comparative Literature and Critical Theory from the University of Southern California. She is retired Professor Emeritus in the Department of Gender, Ethnicity, and Multicultural Studies at California State Polytechnic University.</div>   
 
 #### **Notes**
 
