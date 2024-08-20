@@ -2,6 +2,7 @@ collections:
   online-exclusive:
     output: true
     order:
+      - Eu Tong Sen’s “Pearl Under the Burning Tropical Sun”.md
       - "A Scientific Adventure: The Life and Legacy of Dr Lee Kum Tatt.md"
       - Singapore’s National Souvenir The Gold plated Past of RISIS.md
       - "Tools of the Trade: Letterpress Printing in Singapore.md"
