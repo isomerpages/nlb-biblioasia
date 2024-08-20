@@ -21,7 +21,7 @@ Eu was born in Penang on 23 July 1877 but received his early education in Foshan
 <img src="/images/Vol-16-issue-3/building/planningbuilding-eutongsenportrait.jpg" style="width: 100%;">
 Portrait of Eu Tong Sen. <i>Image reproduced from Song Ong Siang, One Hundred Years’ History of the Chinese in Singapore (London: John Murray, 1923), 332. Collection of the National Library, Singapore (Accession no. B20048226B).</i></div>
 
-He took over his father’s business at the relative early age of 21 following the latter’s untimely death in 1890. He parlayed his father’s concerns into mining, rubber, banking, traditional Chinese medicine, entertainment and hotels. Like many of the Chinese entrepreneurs of his time, Eu’s wealth was also accrued through the acquisition of British monopolies for opium, alcohol and gambling.[^2]&nbsp;
+Eu' took over his father’s business at the relative early age of 21 following the latter’s untimely death in 1890. He parlayed his father’s concerns into mining, rubber, banking, traditional Chinese medicine, entertainment and hotels. Like many of the Chinese entrepreneurs of his time, Eu’s wealth was also accrued through the acquisition of British monopolies for opium, alcohol and gambling.[^2]&nbsp;
 
 #### **An Opulent Mansion**
 
