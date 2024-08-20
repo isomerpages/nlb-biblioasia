@@ -94,6 +94,11 @@ The stained glass windows above the doors. <i>Lee Kip Lin&nbsp;Collection, Natio
 
 At least nine other pairs of stained glass windows in the Art Nouveau style, made by the stained glass artist H.V. McGoldrik, were also installed in other parts of the villa. The ones in the ballroom were of “Dawn” and “Night”, while others throughout the villa depicted Greek mythological figures such as Orpheus, Pan, Bacchus, Neptune and Psyche. The estimated cost for each of these stained glass windows at the time was around £700.[^17]
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/EU%20Villa/ceiling_stained_glass.jpg" style="width: 80%;">
+The ceiling with the stained glass windows, 1975. <i>Lee Kip Lin&nbsp;Collection, National Library Singapore.</i></div>
+
   
 
 
