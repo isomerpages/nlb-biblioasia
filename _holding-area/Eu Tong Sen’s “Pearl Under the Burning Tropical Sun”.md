@@ -96,21 +96,6 @@ At least nine other pairs of stained glass windows in the Art Nouveau style, mad
 
   
 
-* * *
-
-
-
-
-  
-
-* * *
-
-
-
-  
-
-* * *
-
 
 
   
