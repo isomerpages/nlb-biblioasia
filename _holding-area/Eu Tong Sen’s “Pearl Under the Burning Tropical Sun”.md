@@ -23,7 +23,7 @@ Portrait of Eu Tong Sen. <i>Image reproduced from Song Ong Siang, One Hundred Ye
 
 He took over his father’s business at the relative early age of 21 following the latter’s untimely death in 1890. He parlayed his father’s concerns into mining, rubber, banking, traditional Chinese medicine, entertainment and hotels. Like many of the Chinese entrepreneurs of his time, Eu’s wealth was also accrued through the acquisition of British monopolies for opium, alcohol and gambling.[^2]&nbsp;
 
-**An Opulent Mansion**
+#### **An Opulent Mansion**
 
 Eu Villa on Adis Road was the third mansion to be built at the site on Mount Sophia. The first home belonged to Municipal Engineer W.T. Carrington, who had purchased the two-acre property from merchant Charles Robert Prinsep and built Carrington House sometime around 1873 (by 1840, Prinsep had established a huge nutmeg and coffee plantation on the hill and in the surrounding areas). Little is known as to who owned the property following Carington’s death in 1878.[^3]
 
@@ -37,6 +37,7 @@ In 1903, the house was purchased by Nissim N. Adis, the Calcutta barrister and b
 The Adis family occupied their lodge for less than 10 years before the property was purchased by Eu Tong Sen. Evidently unimpressed by the elegance and opulence of Adis Lodge, he proceeded to demolish the building and built the villa that would be unrivaled for decades.[^5] Eu Villa would be only one of a string of luxurious mansions that he commissioned to be built in Singapore, Hong Kong (where he had two palatial homes), Gopeng and Kuala Lumpur.[^6] Rumour has it that Eu had been told by a seer that he had to keep building if he wished to live a long life, and build he did.
 
 Eu Villa, which commanded a panoramic view of the town and harbour, was designed by the architectural firm of Swan &amp; Maclaren for a million dollars and completed in 1913. “Eu Villa has the mark of a millionaire in all its commodious premises. It is built like a chateau – the French influence is strong – and its dull-white exterior shines like a pearl under the burning tropical sun” reported the _Straits Times_ in 1934.[^7]
+
 <div style="background-color: white;">
 <br>
 <img src="/images/Vol-16-issue-3/building/planningbuilding-bnwbuilding.jpg" style="width: 80%;">
@@ -44,23 +45,32 @@ An aerial view of Eu Villa on Mount Sophia, 1940s. <i>Courtesy of National Archi
 
 The villa’s main building was five storeys high and had a dome. The villa also had a basement and wine cellar, and in addition to the stairs, it had “an electric passenger-controlled lift” said to be “the first of its kind in this part of the world”. Eu had installed the lift for his mother to take to the top floor to enjoy the view.[^8]&nbsp; In early 1916, a telephone with the number 44 was installed in the villa.[^9]
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol-12-issue-2/eu-tong-sen/06a-eutongsen.jpg" style="width: 80%;">
+ A bill from United Engineers Limited dated 31 October 1933 for the maintenance fee of $25 for the electric lift in Eu Villa. <i>Koh Seow Chuan Collection, National Library Singapore.</i></div>
+ 
+Although described as being built along the lines of a French chateau, Eu Villa’s design was more in keeping with the Edwardian Baroque style with its eclectic integration of Florentine and other embellishments which its owner apparently favoured. These included the dome that would become the signature feature of the villa.
+
+According to architect Lee Kip Lin, Eu Villa’s drum and lantern dome was probably one of the earliest seen in Singapore’s private homes, and that similar domes would later appear on the homes of Chinese businessmen Low Teng Lin and Teo Hoo Lye.[^10]
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol-16-issue-3/building/planningbuilding-mountsophia.jpg" style="width: 80%;">
+The 1913 building plan of Eu Tong Sen’s Eu Villa showing the east and north elevations (1413–7/1913). <i>Building Control Division Collection, courtesy of National Archives of Singapore.</i></div>
+
+#### **Marble and Statues**
+
+Another feature that came to be unique to Eu Villa was the copious use of marble. Eu loved marble and the villa was a veritable celebration in marble. There were sea-green marble pillars, floors with marble of every color possible and marble statues in the garden as well as in the villa itself.&nbsp;
+
+The statues depicting mythological figures such as Phrine, Eve, Bacchante, the hunteress Dinah, Apollo and Venus were all provided by Raoul Bigazzi from Florence. The company, which specialised in marble statues, mosaics, bronze work and floors, was also responsible for the work done on Chartered Bank, the Municipal Building, the Supreme Court, Hong Kong Bank and the Union Insurance Building in Singapore before the World War II. &nbsp;After the war, the company provided and installed the marble for Bank of China, the Lim Bo Seng Memorial and Finlayson House in Singapore, among the many other buildings throughout Asia.[^11]
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/EU%20Villa/fresco.jpg" style="width: 60%;">
+One of the frescoes in Eu Villa, 1979. <i>Courtesy of National Archives of Singapore.</i></div>
+
   
-
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-
-
 
 
 
@@ -86,3 +96,7 @@ The villa’s main building was five storeys high and had a dome. The villa also
 [^8]:  “[This Week’s News](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19171018-1.2.10.1),” _Singapore Free Press and Mercantile Advertiser_ (1884–1942), 18 October 1917, 241. (From NewspaperSG); Seow Peck Ngiam, “[Eu Tong Sen and His Business Empire](https://biblioasia.nlb.gov.sg/vol-12/issue-2/jul-sep-2016/eu-tong-sen/),” _BiblioAsia_ 12, no. 2 (July–September 2016): 58–64.
 
 [^9]:  “[Telephone Directory](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19160209-1.2.83.1),” _Singapore Free Press and Mercantile Advertiser_ (1884–1942), 9 February 1916, 12. (From NewspaperSG)
+
+[^10]:  Lee Kip Lin, [The Singapore House 1819–1942](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5087274) (Singapore: Times Editions \[for\] Preservation of Monuments Board, 1988), 130. (From National Library, Singapore, call no. RSING 728.095957 LEE)
+
+[^11]:  York Lo, “Raoul Bigazzi (卞根基) – Leading Specialist in Marbles, Bronzes and Mosaics in the Far East From the 1920s to the 1960s,” The Industrial History of Hong Kong Group, 10 June 2019, https://industrialhistoryhk.org/raoul-bigazzi-%E5%8D%9E%E6%A0%B9%E5%9F%BA-leading-specialist-in-marbles-bronzes-and-mosaics-in-the-far-east-from-the-1920s-to-the-1960s/; “[It’s Rich With Italian Marble](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19550119-1.2.115.38),” _Singapore Free Press_, 19 January 1955, 21. (From NewspaperSG)
