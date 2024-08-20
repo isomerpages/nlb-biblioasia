@@ -39,8 +39,7 @@ Excursions were specially organised for the children. Dinh recalls visiting the 
 
 #### **Days in the Camp**
 
-In November 1978, a Hawkins Road camp committee was formed by the refugees themselves following a  
-UNHCR official’s suggestion. The committee comprised positions such as an overall camp leader, an internal affairs head, a head of education, a head librarian, a deputy medical officer, a head of carpentry, a chief musician and an officer in charge of films and slides.[^11]
+In November 1978, a Hawkins Road camp committee was formed by the refugees themselves following a   UNHCR official’s suggestion. The committee comprised positions such as an overall camp leader, an internal affairs head, a head of education, a head librarian, a deputy medical officer, a head of carpentry, a chief musician and an officer in charge of films and slides.[^11]
 
 The refugees also took English language classes in the camp. The teaching volunteers concentrated on topics like “how to find jobs, what kind of atmosphere to expect in different types of work, how to handle life in the country the refugees will be resettled in, and the changes in diet, climate and clothing they will face”.[^12]
 
@@ -48,7 +47,7 @@ Gabriel Tan, a Singaporean, volunteered at the camp from 1980 to 1991. Initially
 
 To share stories of their lives, a magazine was produced by the refugees. Titled _Nhan Chung_ (Witness), 10,000 copies of the first issue came out in December 1979. It was written in Vietnamese, with English translations done by the refugees themselves.[^15]
 
-“_Nhan Chung_ (Witness) comes to life with two aims – to speak out the thoughts of refugees and sentiments to those left behind,” explained camp leader Nguyen Duy Tien. Le Tuyet Ngoc, who translated the articles, said that the magazine was produced with the refugees’ own money[^16].
+“_Nhan Chung_ (Witness) comes to life with two aims – to speak out the thoughts of refugees and sentiments to those left behind,” explained camp leader Nguyen Duy Tien. Le Tuyet Ngoc, who translated the articles, said that the magazine was produced with the refugees’ own money.[^16]
 
 The second issue was planned for publication in early 1980, after Singapore’s Ministry of Culture had given approval.[^17]
 
@@ -71,8 +70,7 @@ The refugees even took their protest to the UNHCR office at International Plaza.
 
 #### **Moving Out and On**
 
-The last of the refugees only left Singapore on  
-27 June 1996 after the UNHCR decided to shut down all camps in the region. The 99 of them were met by the police, brought to an immigration depot where they were held for two weeks, and then finally boarded a Vietnam Airlines plane at Changi Airport bound for Ho Chi Minh City.[^25]
+The last of the refugees only left Singapore on 27 June 1996 after the UNHCR decided to shut down all camps in the region. The 99 of them were met by the police, brought to an immigration depot where they were held for two weeks, and then finally boarded a Vietnam Airlines plane at Changi Airport bound for Ho Chi Minh City.[^25]
 
 Lu Cheng Yang, the Controller of Immigration, said at a press conference on the day of their departure that the refugees “had been allowed to enter Singapore because of unconditional written guarantees by seven countries to resettle them within three months of their arrival”. However, these countries did not honour their commitments and so the Vietnamese were “stranded in Singapore, many since the early 1990s”. He added that Singapore had worked with the UNHCR and the Vietnamese government to arrange for their return.[^26]
 
