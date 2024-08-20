@@ -148,9 +148,9 @@ Besides Eu Villa, there were a number of other palatial mansions built for the w
 
 #### **Notes**
 
-[^1]:  Alex Chow, “[Eu Tong Sen](https://www.nlb.gov.sg/main/article-detail?cmsuuid=17c9227b-e74e-4abd-b89e-89dd64abe842),” in _Singapore_ _Infopedia_. National Library Board Singapore. Article published 15 September 2014; Arnold Wright and H.A. Cartwright, eds., [Twentieth Century Impressions of British Malaya: Its History, People, Commerce, Industries, and Resources](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4125591) (London: Lloyd's Greater Britain Publishing Company, 1908), 534–36. (From National Library, Singapore, call no. RSEA 959.3 TWE)
+[^1]:  Alex Chow, “[Eu Tong Sen](https://www.nlb.gov.sg/main/article-detail?cmsuuid=17c9227b-e74e-4abd-b89e-89dd64abe842),” in _Singapore_ _Infopedia_. National Library Board Singapore. Article published 15 September 2014; Arnold Wright and H.A. Cartwright, eds., [_Twentieth Century Impressions of British Malaya: Its History, People, Commerce, Industries, and Resources_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4125591) (London: Lloyd's Greater Britain Publishing Company, 1908), 534–36. (From National Library, Singapore, call no. RSEA 959.3 TWE)
 
-[^2]:  Wright and Cartwright, [Twentieth Century Impressions of British Malaya](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4125591), 534–36.
+[^2]:  Wright and Cartwright, [_Twentieth Century Impressions of British Malaya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4125591), 534–36.
 
 [^3]:  Jerome Lim, “Sophia, Caroline and Emily, and the Spiced Up Hills of&nbsp;Babylon,” _The Long and Winding Road_, 18 August 2016, https://thelongnwindingroad.wordpress.com/2016/08/18/sophia-caroline-and-emily-and-the-spiced-up-hills-of-babylon/; Jerome Lim, “Adis Lodge – Another Crazy-Rich-Asian Mansion Near Dhoby Ghaut,” _The Long and Winding Road_, 10 December 2020, https://thelongnwindingroad.wordpress.com/tag/adis-road/.
 
@@ -166,7 +166,7 @@ Besides Eu Villa, there were a number of other palatial mansions built for the w
 
 [^9]:  “[Telephone Directory](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19160209-1.2.83.1),” _Singapore Free Press and Mercantile Advertiser_ (1884–1942), 9 February 1916, 12. (From NewspaperSG)
 
-[^10]:  Lee Kip Lin, [The Singapore House 1819–1942](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5087274) (Singapore: Times Editions \[for\] Preservation of Monuments Board, 1988), 130. (From National Library, Singapore, call no. RSING 728.095957 LEE)
+[^10]:  Lee Kip Lin, [_The Singapore House 1819–1942_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5087274) (Singapore: Times Editions \[for\] Preservation of Monuments Board, 1988), 130. (From National Library, Singapore, call no. RSING 728.095957 LEE)
 
 [^11]:  York Lo, “Raoul Bigazzi (卞根基) – Leading Specialist in Marbles, Bronzes and Mosaics in the Far East From the 1920s to the 1960s,” The Industrial History of Hong Kong Group, 10 June 2019, https://industrialhistoryhk.org/raoul-bigazzi-%E5%8D%9E%E6%A0%B9%E5%9F%BA-leading-specialist-in-marbles-bronzes-and-mosaics-in-the-far-east-from-the-1920s-to-the-1960s/; “[It’s Rich With Italian Marble](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19550119-1.2.115.38),” _Singapore Free Press_, 19 January 1955, 21. (From NewspaperSG)
 
@@ -180,7 +180,7 @@ Besides Eu Villa, there were a number of other palatial mansions built for the w
 
 [^16]:  “[Mr Eu Tong Sen’s Million Dollar Villa](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340909-1.2.23).”
 
-[^17]:  “[Mr Eu Tong Sen’s Million Dollar Villa](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340909-1.2.23)”; “[**Wedding Gift That’s Worth a ‘Fortune’**](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740507-1.2.41),” _S__traits Times_, 7 May 1974, 8. (From NewspaperSG)
+[^17]:  “[Mr Eu Tong Sen’s Million Dollar Villa](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340909-1.2.23)”; “[Wedding Gift That’s Worth a ‘Fortune’](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740507-1.2.41),” _Straits Times_, 7 May 1974, 8. (From NewspaperSG)
 
 [^18]:  “[Mr Eu Tong Sen’s Million Dollar Villa](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340909-1.2.23).”
 
@@ -190,7 +190,7 @@ Besides Eu Villa, there were a number of other palatial mansions built for the w
 
 [^21]:  “[Mr Eu Tong Sen’s Million Dollar Villa](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340909-1.2.23).”
 
-[^22]:  Violet Oon, “[Our Heritage the ‘Dream House’ Will Soon Be Only a Memory](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19730713-1.2.53),” New Nation, 13 July, 1973, 9. (From NewspaperSG)
+[^22]:  Violet Oon, “[Our Heritage the ‘Dream House’ Will Soon Be Only a Memory](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19730713-1.2.53),” _New Nation_, 13 July, 1973, 9. (From NewspaperSG)
 
 [^23]:  “[Mr Eu Tong Sen’s Million Dollar Villa](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340909-1.2.23).”
 
@@ -201,11 +201,11 @@ Besides Eu Villa, there were a number of other palatial mansions built for the w
 [^26]:  “[Malaya’s ‘Tank](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19170327-1.2.29.7),” _Pinang Gazette and Straits Chronicle_, 27 March 1917, 5. (From NewspaperSG)
 
 
-[^27]:  “[The ‘Eu Tong Sen’ Tanks](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19180805-1.2.10),” Singapore Free Press and Mercantile Advertiser (1884–1942), 5 August 1918, 2; “[Tank from Malaya](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19191006-1.2.6),” Singapore Free Press and Mercantile Advertiser (1884–1942), 6 October 1919, 2. (From NewspaperSG)
+[^27]:  “[The ‘Eu Tong Sen’ Tanks](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19180805-1.2.10),” _Singapore Free Press and Mercantile Advertiser_ (1884–1942), 5 August 1918, 2; “[Tank from Malaya](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19191006-1.2.6),” _Singapore Free Press and Mercantile Advertiser_ (1884–1942), 6 October 1919, 2. (From NewspaperSG)
 
-[^28]:  “[Malayan Multimillionaire Dies Suddenly in HongKong](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19410512-1.2.62),” Pinang Gazette and Straits Chronicle, 12 May 1941, 7; “[Eu Tong Sen Is Domiciled in HK](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19520430-1.2.25),” Straits Times, 30 April 1952, 2. (From NewspaperSG)
+[^28]:  “[Malayan Multimillionaire Dies Suddenly in HongKong](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19410512-1.2.62),” _Pinang Gazette and Straits Chronicle_, 12 May 1941, 7; “[Eu Tong Sen Is Domiciled in HK](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19520430-1.2.25),” Straits Times, 30 April 1952, 2. (From NewspaperSG)
 
-[^29]:  Violet Oon, “[Our Heritage the ‘Dream House’ Will Soon Be Only a Memory](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19730713-1.2.53),” New Nation, 13 July, 1973, 9. (From NewspaperSG)
+[^29]:  Violet Oon, “[Our Heritage the ‘Dream House’ Will Soon Be Only a Memory](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19730713-1.2.53),” _New Nation_, 13 July, 1973, 9. (From NewspaperSG)
 
 [^30]:  “[Mr Eu Tong Sen’s Million Dollar Villa](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340909-1.2.23).”
 
