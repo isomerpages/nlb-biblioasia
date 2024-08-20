@@ -42,6 +42,14 @@ Eu Villa, which commanded a panoramic view of the town and harbour, was designed
 <img src="/images/Vol-16-issue-3/building/planningbuilding-bnwbuilding.jpg" style="width: 80%;">
 An aerial view of Eu Villa on Mount Sophia, 1940s. <i>Courtesy of National Archives of Singapore.</i></div>
 
+The villa’s main building was five storeys high and had a dome. The villa also had a basement and wine cellar, and in addition to the stairs, it had “an electric passenger-controlled lift” said to be “the first of its kind in this part of the world”. Eu had installed the lift for his mother to take to the top floor to enjoy the view.[^8]&nbsp; In early 1916, a telephone with the number 44 was installed in the villa.[^9]
+
+  
+
+
+
+
+
 
   
 
@@ -74,3 +82,7 @@ An aerial view of Eu Villa on Mount Sophia, 1940s. <i>Courtesy of National Archi
 [^6]:  Wright and Cartwright, [Twentieth Century Impressions of British Malaya](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4125591), 534–36.
 
 [^7]:  “[Mr Eu Tong Sen’s Million Dollar Villa](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340909-1.2.23),” _Straits Times_, 9 September 1934, 4. (From NewspaperSG)
+
+[^8]:  “[This Week’s News](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19171018-1.2.10.1),” _Singapore Free Press and Mercantile Advertiser_ (1884–1942), 18 October 1917, 241. (From NewspaperSG); Seow Peck Ngiam, “[Eu Tong Sen and His Business Empire](https://biblioasia.nlb.gov.sg/vol-12/issue-2/jul-sep-2016/eu-tong-sen/),” _BiblioAsia_ 12, no. 2 (July–September 2016): 58–64.
+
+[^9]:  “[Telephone Directory](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19160209-1.2.83.1),” _Singapore Free Press and Mercantile Advertiser_ (1884–1942), 9 February 1916, 12. (From NewspaperSG)
