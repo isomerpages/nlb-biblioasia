@@ -138,6 +138,16 @@ Throughout the 1950s, Eu Villa went on to be a place where parties, fundraisers 
 <img src="/images/Online%20Only%20Articles/EU%20Villa/children_perform.jpg" style="width: 80%;">
 A children’s performance at Eu Villa, 1962. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
+In 1973, as various family members and their different business enterprises ran into difficulties, Eu Villa was sold after competitive bidding by several companies, including realty companies from Hong Kong. They were eventually outbid by Joiner Enterprises Pte. Ltd. of Cecil Street, Singapore, who paid $8.19 million for the venerable villa. The villa was demolished in the early 1980s to make way for condominium project, Sophia Court.[^32] (Sophia Court was sold in 2006 and on the site today is Sophia Residence.)
+
+Besides Eu Villa, there were a number of other palatial mansions built for the wealthy Straits Chinese in the first quarter of the 20th century. However, neither the personalities of their owners nor the opulence of the houses themselves came close to rivaling the likes of Eu Tong Sen or his villa on Adis Road.
+
+  
+
+* * *
+
+
+
 
 
   
@@ -215,3 +225,5 @@ A children’s performance at Eu Villa, 1962. <i>Ministry of Information and the
 [^30]:  “[Mr Eu Tong Sen’s Million Dollar Villa](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340909-1.2.23).”
 
 [^31]:  [Portrait of Mrs. Diana Eu, Vice-President of Singapore Girl Guides Association](https://www.nlb.gov.sg/main/image-detail?cmsuuid=899dc06f-7024-4f51-922f-bbf8534a4f5d), 1967, photograph, National Library Board. (From National Library Online)
+
+[^32]:  T.F. Hwang, “[Eu Tong Sen Mansion Is Sold for $8.19 Mil](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730216-1.2.87),” _Straits Times_, 16 February 1973, 17; Lee Yew Meng, “[Eu Villa Gives Way…](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19810620-1.2.60),” _New Nation_, 20 June 1981, 12; Bernard Koh, “[Postcards from the Past](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20080224-1.2.61.1.7),” _Straits Times_, 24 February 2008, 58. (From NewspaperSG)
