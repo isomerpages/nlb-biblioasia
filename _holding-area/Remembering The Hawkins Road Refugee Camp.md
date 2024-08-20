@@ -58,6 +58,9 @@ Gabriel Tan, a Singaporean, volunteered at the camp from 1980 to 1991. Initially
 
 To share stories of their lives, a magazine was produced by the refugees. Titled _Nhan Chung_ (Witness), 10,000 copies of the first issue came out in December 1979. It was written in Vietnamese, with English translations done by the refugees themselves.[^15]
 
+![](/images/Vol%2020%20Issue%203/Refugee/refugee_magazine.jpg)
+<div style="background-color: white;">Refugees at the Hawkins Road Refugee Camp produced a magazine titled <i>Nhan Chung</i> to “describe the horrific tales of escape from their motherland”. <i>Image reproduced from “Boat People's Horror Mag,” New Nation, 6 December 1979, 4. (From NewspaperSG).</i></div>
+
 “_Nhan Chung_ (Witness) comes to life with two aims – to speak out the thoughts of refugees and sentiments to those left behind,” explained camp leader Nguyen Duy Tien. Le Tuyet Ngoc, who translated the articles, said that the magazine was produced with the refugees’ own money.[^16]
 
 The second issue was planned for publication in early 1980, after Singapore’s Ministry of Culture had given approval.[^17]
