@@ -83,6 +83,16 @@ Within the first few years of his occupancy, Eu deemed his dining room too small
 <img src="/images/Online%20Only%20Articles/EU%20Villa/interior_of_EU_Villa.jpg" style="width: 90%;">
 The interior of Eu Villa, 1979. <i>Courtesy of National Archives of Singapore.</i></div>
 
+As a member of “the King’s Chinese”,[^14] Eu was mindful to hang an oil painting of King George V and Queen Mary prominently overlooking the dining room. Two massive gongs in the shape of bells summoned guests to dinner in the dining room lit by three huge chandeliers.[^15]&nbsp;
+
+The staircase leading up to the ballroom was flanked by a pair of Florentine nudes in white marble, and the stairs themselves were carpeted in red plush. In its heyday, the ballroom was said to have been the scene of many a glittering event. A key feature of the ballroom was the large stained glass window.[^16]&nbsp;
+
+  
+
+* * *
+
+
+
   
 
 * * *
@@ -123,3 +133,9 @@ The interior of Eu Villa, 1979. <i>Courtesy of National Archives of Singapore.</
 [^12]:  “[Mr Eu Tong Sen’s Million Dollar Villa](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340909-1.2.23).”
 
 [^13]:  “[Mr Eu Tong Sen’s Million Dollar Villa](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340909-1.2.23).”
+
+[^14]:  The Straits Chinese were loyal to the British Crown and became known as the “King’s Chinese”, distinct from the rest of their Chinese kin in their dress, language and attitudes.
+
+[^15]:  “[Mr Eu Tong Sen’s Million Dollar Villa](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340909-1.2.23).”
+
+[^16]:  “[Mr Eu Tong Sen’s Million Dollar Villa](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340909-1.2.23).”
