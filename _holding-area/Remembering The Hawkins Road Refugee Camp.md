@@ -98,115 +98,65 @@ Singapore’s experience taking in the Vietnamese refugees came to shape its pol
 
 [^1]:   Linda Agerbak, “A Price for War,” _Straits Times_, 24 October 1981, 1. (From NewspaperSG)
 
-“Boat People of Vietnam and What Could Happen to Singapore,” _Straits Times_, 24 August 1997, 24. (From NewspaperSG)
+[^2]: “Boat People of Vietnam and What Could Happen to Singapore,” _Straits Times_, 24 August 1997, 24. (From NewspaperSG)
 
-Agerbak, “A Price for War.”&nbsp;
+[^3]: Agerbak, “A Price for War.”&nbsp;
 
-Agerbak, “A Price for War.”
+[^4]: Agerbak, “A Price for War.”
 
-Chan Tho, interview, 11 June 2024.
+[^5]: Chan Tho, interview, 11 June 2024.
 
-Thao Dinh, interview, 11 June 2024.
+[^6]: Thao Dinh, interview, 11 June 2024.
 
-Chua Ngeng Choo, “A Little Viet Refuge,” _Straits Times_, 1 November 1980, 1. (From NewspaperSG)
+[^7]: Chua Ngeng Choo, “A Little Viet Refuge,” _Straits Times_, 1 November 1980, 1. (From NewspaperSG)
 
-Chua, “A Little Viet Refuge.”
+[^8]:  Chua, “A Little Viet Refuge.”
 
-Chua, “A Little Viet Refuge.”
+[^9]: Chua, “A Little Viet Refuge.”
 
-Thao Dinh, interview, 11 June 2024.&nbsp;
+[^10]: Thao Dinh, interview, 11 June 2024.&nbsp;
 
-Paul Jansen, “Viet Refugee Camp Model of Harmony,” _Straits Times_, 22 January 1979, 25. (From NewspaperSG)
+[^11]: Paul Jansen, “Viet Refugee Camp Model of Harmony,” _Straits Times_, 22 January 1979, 25. (From NewspaperSG)
 
-“Committee Makes Life Pleasant, Meaningful,” _Straits Times_, 22 January 1979, 25. (From NewspaperSG)
+[^12]: “Committee Makes Life Pleasant, Meaningful,” _Straits Times_, 22 January 1979, 25. (From NewspaperSG)
 
-Gabriel Tan, interview, 8 July 2024.&nbsp;
+[^13]: Gabriel Tan, interview, 8 July 2024.&nbsp;
 
-Note from Kaye McArthur, 8 July 2024.&nbsp;
+[^14]:  Note from Kaye McArthur, 8 July 2024.&nbsp;
 
-“Boat People’s Horror Mag,” _New Nation_, 6 December 1979, 4. (From NewspaperSG)
-
-“Boat People’s Horror Mag.”
-
-“Govt Gives the Nod to Refugee Mag,” _New Nation_, 15 February 1980, 2. (From NewspaperSG)
-
-“Govt Gives the Nod to Refugee Mag.”
-
-“Refugee Magazine Folds Up,” _New Nation_, 20 May 1980, 3. (From NewspaperSG)
-
-“Govt Asked to Extend Lease on Refugee Camp,” _Straits Times_, 24 March 1982, 8. (From NewspaperSG)
-
-Tan Lian Choo, “Loc Gets Green Light to Resettle in US,” _Straits Times_, 31 May 1983, 40. (From NewspaperSG)
-
-“16 Refugees on Hunger Strike Here Fall Ill,” _Straits Times_, 23 November 1992, 1; “West’s Broken Promises Provide Bitter Lesson,” _Straits Times_, 28 March 1998, 62. (From NewspaperSG)
-
-“Vietnamese Refugee Attempts Suicide After Bid to Resettle Fails,” _Straits Times_, 21 November 1992, 27. (From NewspaperSG)
-
-“West’s Broken Promises Provide Bitter Lesson.”
-
-“West's Broken Promises Provide Bitter Lesson”; “Last 99 Boat People in Singapore Leave,” _Straits Times_, 28 June 1996, 3. (From NewspaperSG)
-
-“Last 99 Boat People in Singapore Leave.”
-
-“Last 99 Boat People in Singapore Leave”; “West’s Broken Promises Provide Bitter Lesson.”
-
-“Vietnamese Boat People Refugee Camp, 25 Hawkins Road, Sembawang, Singapore,” Facebook, accessed 28 March 2024, http://www.facebook.com/groups/25hawkins.
-
-
-
-[^2]: 
-
-[^3]: 
-
-[^4]: 
-
-[^5]: 
-
-[^6]: 
-
-[^7]: 
-
-[^8]:  
-
-[^9]: 
-
-[^10]: 
-
-[^11]: 
-
-[^12]: 
-
-[^13]: 
-
-[^14]:  
-
-[^15]: 
+[^15]: “Boat People’s Horror Mag,” _New Nation_, 6 December 1979, 4. (From NewspaperSG)
  
-[^16]: 
+[^16]: “Boat People’s Horror Mag.”
 
-[^17]: 
+[^17]: “Govt Gives the Nod to Refugee Mag,” _New Nation_, 15 February 1980, 2. (From NewspaperSG)
 
-[^18]: 
+[^18]: “Govt Gives the Nod to Refugee Mag.”
 
-[^19]: 
+[^19]: “Refugee Magazine Folds Up,” _New Nation_, 20 May 1980, 3. (From NewspaperSG)
 
-[^20]: 
+[^20]: “Govt Asked to Extend Lease on Refugee Camp,” _Straits Times_, 24 March 1982, 8. (From NewspaperSG)
 
-[^21]: 
+[^21]: Tan Lian Choo, “Loc Gets Green Light to Resettle in US,” _Straits Times_, 31 May 1983, 40. (From NewspaperSG)
 
-[^22]: 
+[^22]: “16 Refugees on Hunger Strike Here Fall Ill,” _Straits Times_, 23 November 1992, 1; “West’s Broken Promises Provide Bitter Lesson,” _Straits Times_, 28 March 1998, 62. (From NewspaperSG)
 
-[^23]: 
+[^23]: “Vietnamese Refugee Attempts Suicide After Bid to Resettle Fails,” _Straits Times_, 21 November 1992, 27. (From NewspaperSG)
 
-[^24]: 
 
-[^25]: 
+[^24]: “West’s Broken Promises Provide Bitter Lesson.”
+
+
+[^25]: “West's Broken Promises Provide Bitter Lesson”; “Last 99 Boat People in Singapore Leave,” _Straits Times_, 28 June 1996, 3. (From NewspaperSG)
+
                    
-[^26]: 
+[^26]: “Last 99 Boat People in Singapore Leave.”
 
-[^27]: 
 
-[^28]: 
+[^27]: “Last 99 Boat People in Singapore Leave”; “West’s Broken Promises Provide Bitter Lesson.”
+
+
+[^28]: “Vietnamese Boat People Refugee Camp, 25 Hawkins Road, Sembawang, Singapore,” Facebook, accessed 28 March 2024, http://www.facebook.com/groups/25hawkins.
+
 
 [^29]: Yuen Sin, “36 Years On, Ex-Refugee Meets One of Her Rescuers,” _Straits Times_, 23 October 2016, 7. (From NewspaperSG); Former Vietnamese Refugee Meets One of Her Rescuers 36 Years Later,” Stomp, 23 October 2016, https://stomp.straitstimes.com/singapore-seen/singapore/former-vietnamese-refugee-meets-one-of-her-rescuers-36-years-later.&nbsp;
 
