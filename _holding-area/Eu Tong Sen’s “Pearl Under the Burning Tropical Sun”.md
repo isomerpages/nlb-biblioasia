@@ -21,7 +21,7 @@ Eu was born in Penang on 23 July 1877 but received his early education in Foshan
 <img src="/images/Vol-16-issue-3/building/planningbuilding-eutongsenportrait.jpg" style="width: 100%;">
 Portrait of Eu Tong Sen. <i>Image reproduced from Song Ong Siang, One Hundred Years’ History of the Chinese in Singapore (London: John Murray, 1923), 332. Collection of the National Library, Singapore (Accession no. B20048226B).</i></div>
 
-Eu' took over his father’s business at the relative early age of 21 following the latter’s untimely death in 1890. He parlayed his father’s concerns into mining, rubber, banking, traditional Chinese medicine, entertainment and hotels. Like many of the Chinese entrepreneurs of his time, Eu’s wealth was also accrued through the acquisition of British monopolies for opium, alcohol and gambling.[^2]&nbsp;
+Eu took over his father’s business at the relative early age of 21 following the latter’s untimely death in 1890. He parlayed his father’s concerns into mining, rubber, banking, traditional Chinese medicine, entertainment and hotels. Like many of the Chinese entrepreneurs of his time, Eu’s wealth was also accrued through the acquisition of British monopolies for opium, alcohol and gambling.[^2]&nbsp;
 
 #### **An Opulent Mansion**
 
@@ -158,7 +158,7 @@ Besides Eu Villa, there were a number of other palatial mansions built for the w
 
 [^5]:  Lim, “Adis Lodge.”
 
-[^6]:  Wright and Cartwright, [Twentieth Century Impressions of British Malaya](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4125591), 534–36.
+[^6]:  Wright and Cartwright, [_Twentieth Century Impressions of British Malaya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4125591), 534–36.
 
 [^7]:  “[Mr Eu Tong Sen’s Million Dollar Villa](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340909-1.2.23),” _Straits Times_, 9 September 1934, 4. (From NewspaperSG)
 
@@ -196,14 +196,14 @@ Besides Eu Villa, there were a number of other palatial mansions built for the w
 
 [^24]:  “[Mr Eu Tong Sen’s Million Dollar Villa](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340909-1.2.23).”
 
-[^25]:  “[The Eu Tong Sen Craft](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19151109-1.2.31),” Pinang Gazette and Straits Chronicle, 9 November 1915, 4; C. Alma Baker, “[Malayan Gifts of Aeroplanes](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19150922-1.2.61.1),” Straits Times, 22 September, 1915, 10. (From NewspaperSG)
+[^25]:  “[The Eu Tong Sen Craft](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19151109-1.2.31),” _Pinang Gazette and Straits Chronicle_, 9 November 1915, 4; C. Alma Baker, “[Malayan Gifts of Aeroplanes](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19150922-1.2.61.1),” _Straits Times_, 22 September, 1915, 10. (From NewspaperSG)
 
 [^26]:  “[Malaya’s ‘Tank](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19170327-1.2.29.7),” _Pinang Gazette and Straits Chronicle_, 27 March 1917, 5. (From NewspaperSG)
 
 
 [^27]:  “[The ‘Eu Tong Sen’ Tanks](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19180805-1.2.10),” _Singapore Free Press and Mercantile Advertiser_ (1884–1942), 5 August 1918, 2; “[Tank from Malaya](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19191006-1.2.6),” _Singapore Free Press and Mercantile Advertiser_ (1884–1942), 6 October 1919, 2. (From NewspaperSG)
 
-[^28]:  “[Malayan Multimillionaire Dies Suddenly in HongKong](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19410512-1.2.62),” _Pinang Gazette and Straits Chronicle_, 12 May 1941, 7; “[Eu Tong Sen Is Domiciled in HK](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19520430-1.2.25),” Straits Times, 30 April 1952, 2. (From NewspaperSG)
+[^28]:  “[Malayan Multimillionaire Dies Suddenly in HongKong](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19410512-1.2.62),” _Pinang Gazette and Straits Chronicle_, 12 May 1941, 7; “[Eu Tong Sen Is Domiciled in HK](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19520430-1.2.25),” _Straits Times_, 30 April 1952, 2. (From NewspaperSG)
 
 [^29]:  Violet Oon, “[Our Heritage the ‘Dream House’ Will Soon Be Only a Memory](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19730713-1.2.53),” _New Nation_, 13 July, 1973, 9. (From NewspaperSG)
 
