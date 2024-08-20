@@ -99,6 +99,73 @@ At least nine other pairs of stained glass windows in the Art Nouveau style, mad
 <img src="/images/Online%20Only%20Articles/EU%20Villa/ceiling_stained_glass.jpg" style="width: 80%;">
 The ceiling with the stained glass windows, 1975. <i>Lee Kip Lin&nbsp;Collection, National Library Singapore.</i></div>
 
+#### **Bedrooms and Bathrooms**
+
+There were at least 10 bedrooms, attached bathrooms and boudoirs on all three floors of the villa. Eu’s personal suite on the second floor included a sitting room with inlaid walnut and a bedroom in mahogany. His bathroom, described as being as “large as a normal bedroom and is handsome” was tiled with oak.[\[1\]](#_ftn1)
+
+The second floor also had two other bedrooms, a small ballroom and an enormous veranda with its own marble fountain. Placed on one side of the verandah was an electric violina and on the other side an electric organ.[\[2\]](#_ftn2)
+
+More bedrooms and bathrooms were found on the third floor, which also boasted a supper room and card room, both richly furnished.[\[3\]](#_ftn3)
+
+**Other Amenities**
+
+The sheer size of Eu Villa according necessitated a large kennel of dogs to patrol and guard the property.[\[4\]](#_ftn4) The security staff included five watchmen and a pack of Alsatians, Mastiffs and Great Danes.
+
+With the huge amount of expensive jade, statues, paintings, jewellery and other precious artifacts in the villa, security was a major concern for the household. All in all, it was estimated that there were about a hundred servants, chauffeurs, gardeners, dog handlers, amahs and cooks who attended to and served the Eu family.[\[5\]](#_ftn5)
+
+Eu had 11 wives who variously provided him with 13 sons and nine daughters. To accommodate the enormous family, an annex that came to be called, “The Spanish House” was built to house the sons.[\[6\]](#_ftn6)&nbsp;
+
+Eu owned a fleet of six cars, including a Rolls Royce and a 44 hp super charged seven-seater Bentley.[\[7\]](#_ftn7)
+
+**Philanthropic Endeavours**
+
+Eu’s’s interest in modern machines was not restricted to his personal effects. As a committed “King’s Chinese”, he contributed one of the planes that formed part of the World War I “Malaya Squadron”. The aircraft, a B.E.2c named “Malaya 1”, was flown overseas by a member of the Royal Flying Corps in November 1915. It was part of a five-plane squadron – one fighter plane and four reconnaissance planes – of which the “Malaya 1” was the lead plane. &nbsp;Each plane cost £2,250.[\[8\]](#_ftn8)&nbsp;
+
+In addition to his donation of an airplane, Eu also gave the British military £6,000 for the purchase of a tank in 1917.[\[9\]](#_ftn9) The tank, which saw action at the Battle of Cambrai, was unique in that following the Chinese tradition of painting boats and other vessels with eyes, the tank went into battle with a large eye painted on each side of its bow.
+
+Dubbed the “bus” by Captain Thurston who was charged with the six tanks involved in the Battle of Cambrai, Eu’s tank was said to be still going strong in 1918 and ready to “knock out anything Bochelike \[i.e. German made\] that comes in her vicinity”.[\[10\]](#_ftn10)
+
+Eu’s wide range of business interests invariably took him to locations where he had built other palatial homes. By the time of his death in 1941, his heirs were establishing his legal residency in order to settle his estate. Eu had lived mainly in Hong Kong since 1929, except for a period of about six months in 1933 when he returned to Singapore.[\[11\]](#_ftn11)&nbsp;
+
+After his departure from Singapore, Eu Villa continued to be home to his various wives, children and extended family.[\[12\]](#_ftn12) Eu’s widowed mother lived in Eu Villa until the end of her days.[\[13\]](#_ftn13)
+
+**End of an Era**
+
+Throughout the 1950s, Eu Villa went on to be a place where parties, fundraisers and society events were held. Under the auspices of Mrs Diana Eu, wife of Richard Eu Keng Mun (a son of Eu Tong Sen), the villa was frequently the setting for bridge and mahjong drives by the Chinese Ladies Association in aid of different charities, including St Andrews Hospital, the Singapore Anti-Tuberculosis Association and the Singapore Boys’ Scouts.[\[14\]](#_ftn14)&nbsp;
+
+  
+
+* * *
+
+[\[1\]](#_ftnref1) “[Mr Eu Tong Sen’s Million Dollar Villa](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340909-1.2.23).”
+
+[\[2\]](#_ftnref2) “[Mr Eu Tong Sen’s Million Dollar Villa](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340909-1.2.23).”
+
+[\[3\]](#_ftnref3) “[Mr Eu Tong Sen’s Million Dollar Villa](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340909-1.2.23).”
+
+[\[4\]](#_ftnref4) “[Mr Eu Tong Sen’s Million Dollar Villa](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340909-1.2.23).”
+
+[\[5\]](#_ftnref5) &nbsp;Violet Oon, “[Our Heritage the ‘Dream House’ Will Soon Be Only a Memory](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19730713-1.2.53),” New Nation, 13 July, 1973, 9. (From NewspaperSG)
+
+[\[6\]](#_ftnref6) “[Mr Eu Tong Sen’s Million Dollar Villa](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340909-1.2.23).”
+
+[\[7\]](#_ftnref7) “[Mr Eu Tong Sen’s Million Dollar Villa](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340909-1.2.23).”
+
+[\[8\]](#_ftnref8) “[The Eu Tong Sen Craft](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19151109-1.2.31),” Pinang Gazette and Straits Chronicle, 9 November 1915, 4; C. Alma Baker, “[Malayan Gifts of Aeroplanes](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19150922-1.2.61.1),” Straits Times, 22 September, 1915, 10. (From NewspaperSG)
+
+[\[9\]](#_ftnref9) “[**Malaya’s ‘Tank’**](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19170327-1.2.29.7),” _Pinang Gazette and Straits Chronicle_, 27 March 1917, 5. (From NewspaperSG)
+
+
+[\[10\]](#_ftnref10) “[The ‘Eu Tong Sen’ Tanks](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19180805-1.2.10),” Singapore Free Press and Mercantile Advertiser (1884–1942), 5 August 1918, 2; “[Tank from Malaya](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19191006-1.2.6),” Singapore Free Press and Mercantile Advertiser (1884–1942), 6 October 1919, 2. (From NewspaperSG)
+
+[\[11\]](#_ftnref11) “[Malayan Multimillionaire Dies Suddenly in HongKong](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19410512-1.2.62),” Pinang Gazette and Straits Chronicle, 12 May 1941, 7; “[Eu Tong Sen Is Domiciled in HK](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19520430-1.2.25),” Straits Times, 30 April 1952, 2. (From NewspaperSG)
+
+[\[12\]](#_ftnref12) Violet Oon, “[Our Heritage the ‘Dream House’ Will Soon Be Only a Memory](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19730713-1.2.53),” New Nation, 13 July, 1973, 9. (From NewspaperSG)
+
+[\[13\]](#_ftnref13) “[Mr Eu Tong Sen’s Million Dollar Villa](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340909-1.2.23).”
+
+[\[14\]](#_ftnref14) [Portrait of Mrs. Diana Eu, Vice-President of Singapore Girl Guides Association](https://www.nlb.gov.sg/main/image-detail?cmsuuid=899dc06f-7024-4f51-922f-bbf8534a4f5d), 1967, photograph, National Library Board. (From National Library Online)
+
   
 
 
