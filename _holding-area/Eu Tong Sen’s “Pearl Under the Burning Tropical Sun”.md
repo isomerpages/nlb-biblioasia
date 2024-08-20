@@ -67,8 +67,22 @@ The statues depicting mythological figures such as Phrine, Eve, Bacchante, the h
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/EU%20Villa/fresco.jpg" style="width: 60%;">
+<img src="/images/Online%20Only%20Articles/EU%20Villa/fresco.jpg" style="width: 55%;">
 One of the frescoes in Eu Villa, 1979. <i>Courtesy of National Archives of Singapore.</i></div>
+
+Murals and artworks by Italian painter Egisto Ferroni, Austrian Impressionist and artist Franz Hofer, and British artists John Sargent Noble and Alexander Mark Rossi were scattered throughout Eu Villa. A full-length portrait of Eu painted in 1928 graced the billiard room, while a life-sized bronze statue was placed in the living room.
+
+The furnishings throughout the mansion were an eclectic mix: the drawing room featured gilt furniture in the style of Louis XIV, while Chinese chairs adorned the dining room. Most of the furniture was supplied by the finest stores in London and Paris, while Chinese and Persian carpets lined the floors.[^12]
+
+#### **Building an Annex**
+
+Within the first few years of his occupancy, Eu deemed his dining room too small to accommodate the ever-growing numbers at his dinner parties. An annex was built to the main house with a dining room that could comfortably seat one hundred guests on the ground floor, while the second floor housed a ballroom that was the same size as the one in Raffles Hotel.[^13]&nbsp;
+
+  
+
+* * *
+
+
 
   
 
@@ -100,3 +114,7 @@ One of the frescoes in Eu Villa, 1979. <i>Courtesy of National Archives of Singa
 [^10]:  Lee Kip Lin, [The Singapore House 1819–1942](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5087274) (Singapore: Times Editions \[for\] Preservation of Monuments Board, 1988), 130. (From National Library, Singapore, call no. RSING 728.095957 LEE)
 
 [^11]:  York Lo, “Raoul Bigazzi (卞根基) – Leading Specialist in Marbles, Bronzes and Mosaics in the Far East From the 1920s to the 1960s,” The Industrial History of Hong Kong Group, 10 June 2019, https://industrialhistoryhk.org/raoul-bigazzi-%E5%8D%9E%E6%A0%B9%E5%9F%BA-leading-specialist-in-marbles-bronzes-and-mosaics-in-the-far-east-from-the-1920s-to-the-1960s/; “[It’s Rich With Italian Marble](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19550119-1.2.115.38),” _Singapore Free Press_, 19 January 1955, 21. (From NewspaperSG)
+
+[^12]:  “[Mr Eu Tong Sen’s Million Dollar Villa](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340909-1.2.23).”
+
+[^13]:  “[Mr Eu Tong Sen’s Million Dollar Villa](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340909-1.2.23).”
