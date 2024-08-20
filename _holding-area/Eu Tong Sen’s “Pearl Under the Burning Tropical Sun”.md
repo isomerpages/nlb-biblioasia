@@ -81,7 +81,7 @@ Within the first few years of his occupancy, Eu deemed his dining room too small
 <div style="background-color: white;">
 <br>
 <img src="/images/Online%20Only%20Articles/EU%20Villa/interior_of_EU_Villa.jpg" style="width: 80%;">
-One of the frescoes in Eu Villa, 1979. <i>Courtesy of National Archives of Singapore.</i></div>
+The interior of Eu Villa, 1979. <i>Courtesy of National Archives of Singapore.</i></div>
 
   
 
