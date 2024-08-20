@@ -127,44 +127,13 @@ Dubbed the “bus” by Captain Thurston who was charged with the six tanks invo
 
 Eu’s wide range of business interests invariably took him to locations where he had built other palatial homes. By the time of his death in 1941, his heirs were establishing his legal residency in order to settle his estate. Eu had lived mainly in Hong Kong since 1929, except for a period of about six months in 1933 when he returned to Singapore.[^28]
 
-After his departure from Singapore, Eu Villa continued to be home to his various wives, children and extended family.[\[12\]](#_ftn12) Eu’s widowed mother lived in Eu Villa until the end of her days.[\[13\]](#_ftn13)
+After his departure from Singapore, Eu Villa continued to be home to his various wives, children and extended family.[^29] Eu’s widowed mother lived in Eu Villa until the end of her days.[^30]
 
-**End of an Era**
+#### **End of an Era**
 
-Throughout the 1950s, Eu Villa went on to be a place where parties, fundraisers and society events were held. Under the auspices of Mrs Diana Eu, wife of Richard Eu Keng Mun (a son of Eu Tong Sen), the villa was frequently the setting for bridge and mahjong drives by the Chinese Ladies Association in aid of different charities, including St Andrews Hospital, the Singapore Anti-Tuberculosis Association and the Singapore Boys’ Scouts.[\[14\]](#_ftn14)&nbsp;
-
-  
-
-* * *
-
-[\[1\]](#_ftnref1) “[Mr Eu Tong Sen’s Million Dollar Villa](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340909-1.2.23).”
-
-[\[2\]](#_ftnref2) “[Mr Eu Tong Sen’s Million Dollar Villa](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340909-1.2.23).”
-
-[\[3\]](#_ftnref3) “[Mr Eu Tong Sen’s Million Dollar Villa](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340909-1.2.23).”
-
-[\[4\]](#_ftnref4) “[Mr Eu Tong Sen’s Million Dollar Villa](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340909-1.2.23).”
-
-[\[5\]](#_ftnref5) &nbsp;Violet Oon, “[Our Heritage the ‘Dream House’ Will Soon Be Only a Memory](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19730713-1.2.53),” New Nation, 13 July, 1973, 9. (From NewspaperSG)
-
-[\[6\]](#_ftnref6) “[Mr Eu Tong Sen’s Million Dollar Villa](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340909-1.2.23).”
-
-[\[7\]](#_ftnref7) “[Mr Eu Tong Sen’s Million Dollar Villa](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340909-1.2.23).”
-
-[\[8\]](#_ftnref8) “[The Eu Tong Sen Craft](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19151109-1.2.31),” Pinang Gazette and Straits Chronicle, 9 November 1915, 4; C. Alma Baker, “[Malayan Gifts of Aeroplanes](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19150922-1.2.61.1),” Straits Times, 22 September, 1915, 10. (From NewspaperSG)
-
-[\[9\]](#_ftnref9) “[**Malaya’s ‘Tank’**](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19170327-1.2.29.7),” _Pinang Gazette and Straits Chronicle_, 27 March 1917, 5. (From NewspaperSG)
+Throughout the 1950s, Eu Villa went on to be a place where parties, fundraisers and society events were held. Under the auspices of Mrs Diana Eu, wife of Richard Eu Keng Mun (a son of Eu Tong Sen), the villa was frequently the setting for bridge and mahjong drives by the Chinese Ladies Association in aid of different charities, including St Andrews Hospital, the Singapore Anti-Tuberculosis Association and the Singapore Boys’ Scouts.[^31]
 
 
-[\[10\]](#_ftnref10) “[The ‘Eu Tong Sen’ Tanks](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19180805-1.2.10),” Singapore Free Press and Mercantile Advertiser (1884–1942), 5 August 1918, 2; “[Tank from Malaya](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19191006-1.2.6),” Singapore Free Press and Mercantile Advertiser (1884–1942), 6 October 1919, 2. (From NewspaperSG)
-
-[\[11\]](#_ftnref11) “[Malayan Multimillionaire Dies Suddenly in HongKong](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19410512-1.2.62),” Pinang Gazette and Straits Chronicle, 12 May 1941, 7; “[Eu Tong Sen Is Domiciled in HK](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19520430-1.2.25),” Straits Times, 30 April 1952, 2. (From NewspaperSG)
-
-[\[12\]](#_ftnref12) Violet Oon, “[Our Heritage the ‘Dream House’ Will Soon Be Only a Memory](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19730713-1.2.53),” New Nation, 13 July, 1973, 9. (From NewspaperSG)
-
-[\[13\]](#_ftnref13) “[Mr Eu Tong Sen’s Million Dollar Villa](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340909-1.2.23).”
-
-[\[14\]](#_ftnref14) [Portrait of Mrs. Diana Eu, Vice-President of Singapore Girl Guides Association](https://www.nlb.gov.sg/main/image-detail?cmsuuid=899dc06f-7024-4f51-922f-bbf8534a4f5d), 1967, photograph, National Library Board. (From National Library Online)
 
   
 
@@ -212,3 +181,32 @@ Throughout the 1950s, Eu Villa went on to be a place where parties, fundraisers 
 [^16]:  “[Mr Eu Tong Sen’s Million Dollar Villa](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340909-1.2.23).”
 
 [^17]:  “[Mr Eu Tong Sen’s Million Dollar Villa](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340909-1.2.23)”; “[**Wedding Gift That’s Worth a ‘Fortune’**](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740507-1.2.41),” _S__traits Times_, 7 May 1974, 8. (From NewspaperSG)
+
+[^18]:  “[Mr Eu Tong Sen’s Million Dollar Villa](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340909-1.2.23).”
+
+[^19]:  “[Mr Eu Tong Sen’s Million Dollar Villa](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340909-1.2.23).”
+
+[^20]:  “[Mr Eu Tong Sen’s Million Dollar Villa](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340909-1.2.23).”
+
+[^21]:  “[Mr Eu Tong Sen’s Million Dollar Villa](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340909-1.2.23).”
+
+[^22]:  Violet Oon, “[Our Heritage the ‘Dream House’ Will Soon Be Only a Memory](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19730713-1.2.53),” New Nation, 13 July, 1973, 9. (From NewspaperSG)
+
+[^23]:  “[Mr Eu Tong Sen’s Million Dollar Villa](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340909-1.2.23).”
+
+[^24]:  “[Mr Eu Tong Sen’s Million Dollar Villa](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340909-1.2.23).”
+
+[^25]:  “[The Eu Tong Sen Craft](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19151109-1.2.31),” Pinang Gazette and Straits Chronicle, 9 November 1915, 4; C. Alma Baker, “[Malayan Gifts of Aeroplanes](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19150922-1.2.61.1),” Straits Times, 22 September, 1915, 10. (From NewspaperSG)
+
+[^26]:  “[Malaya’s ‘Tank](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19170327-1.2.29.7),” _Pinang Gazette and Straits Chronicle_, 27 March 1917, 5. (From NewspaperSG)
+
+
+[^27]:  “[The ‘Eu Tong Sen’ Tanks](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19180805-1.2.10),” Singapore Free Press and Mercantile Advertiser (1884–1942), 5 August 1918, 2; “[Tank from Malaya](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19191006-1.2.6),” Singapore Free Press and Mercantile Advertiser (1884–1942), 6 October 1919, 2. (From NewspaperSG)
+
+[^28]:  “[Malayan Multimillionaire Dies Suddenly in HongKong](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19410512-1.2.62),” Pinang Gazette and Straits Chronicle, 12 May 1941, 7; “[Eu Tong Sen Is Domiciled in HK](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19520430-1.2.25),” Straits Times, 30 April 1952, 2. (From NewspaperSG)
+
+[^29]:  Violet Oon, “[Our Heritage the ‘Dream House’ Will Soon Be Only a Memory](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19730713-1.2.53),” New Nation, 13 July, 1973, 9. (From NewspaperSG)
+
+[^30]:  “[Mr Eu Tong Sen’s Million Dollar Villa](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340909-1.2.23).”
+
+[^31]:  [Portrait of Mrs. Diana Eu, Vice-President of Singapore Girl Guides Association](https://www.nlb.gov.sg/main/image-detail?cmsuuid=899dc06f-7024-4f51-922f-bbf8534a4f5d), 1967, photograph, National Library Board. (From National Library Online)
