@@ -9,6 +9,10 @@ description: A temporary home for Vietnamese refugees over nearly two decades,
 #### A temporary home for Vietnamese refugees over nearly two decades, the Hawkins Road camp received thousands who experienced daily life within its boundaries and around Singapore prior to resettlement.
 By Rebecca Tan
 
+![](/images/Vol%2020%20Issue%203/Refugee/refugee_facing.jpg)
+<div style="background-color: white;">The entrance to Hawkins Road Refugee Camp, 1986. <i>Registered Tourist Guides Association of Singapore Collection, courtesy of National Archives of Singapore.</i></div>
+
+
 Mention Hawkins Road and most people will return a blank look, even if they live in Sembawang where the now-expunged Hawkins Road was once located. However, back in the late 1970s and up until the mid-1990s, the Hawkins Road Refugee Camp was home to Vietnamese refugees in Singapore.&nbsp;
 
 The camp at 25 Hawkins Road was set up in 1978, occupying the former barracks of the British Army. The fall of Saigon in 1975 had triggered a massive exodus of Vietnamese who escaped from South Vietnam. Most fled by sea and sought refuge in neighbouring countries such as Hong Kong, Malaysia, the Philippines, Indonesia and Singapore. Referred to as the Vietnamese boat people, they numbered in the hundreds of thousands.
