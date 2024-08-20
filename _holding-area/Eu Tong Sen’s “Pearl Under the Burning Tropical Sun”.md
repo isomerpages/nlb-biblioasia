@@ -87,6 +87,20 @@ As a member of “the King’s Chinese”,[^14] Eu was mindful to hang an oil pa
 
 The staircase leading up to the ballroom was flanked by a pair of Florentine nudes in white marble, and the stairs themselves were carpeted in red plush. In its heyday, the ballroom was said to have been the scene of many a glittering event. A key feature of the ballroom was the large stained glass window.[^16]&nbsp;
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/EU%20Villa/stained_glass_windows.jpg" style="width: 60%;">
+The stained glass windows above the doors. <i>Lee Kip Lin&nbsp;Collection, National Library Singapore.</i></div>
+
+At least nine other pairs of stained glass windows in the Art Nouveau style, made by the stained glass artist H.V. McGoldrik, were also installed in other parts of the villa. The ones in the ballroom were of “Dawn” and “Night”, while others throughout the villa depicted Greek mythological figures such as Orpheus, Pan, Bacchus, Neptune and Psyche. The estimated cost for each of these stained glass windows at the time was around £700.[^17]
+
+  
+
+* * *
+
+
+
+
   
 
 * * *
@@ -139,3 +153,5 @@ The staircase leading up to the ballroom was flanked by a pair of Florentine nud
 [^15]:  “[Mr Eu Tong Sen’s Million Dollar Villa](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340909-1.2.23).”
 
 [^16]:  “[Mr Eu Tong Sen’s Million Dollar Villa](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340909-1.2.23).”
+
+[^17]:  “[Mr Eu Tong Sen’s Million Dollar Villa](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340909-1.2.23)”; “[**Wedding Gift That’s Worth a ‘Fortune’**](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740507-1.2.41),” _S__traits Times_, 7 May 1974, 8. (From NewspaperSG)
