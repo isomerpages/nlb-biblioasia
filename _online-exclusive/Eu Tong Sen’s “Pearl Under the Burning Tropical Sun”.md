@@ -4,7 +4,7 @@ permalink: /places-and-buildings/2024/8/eu-tong-sen-villa/
 variant: markdown
 description: ""
 ---
-#### The grandeur and opulence of Eu Villa on Mount Sophia was unrivalled in its heyday.
+#### **The grandeur and opulence of Eu Villa on Mount Sophia was unrivalled in its heyday.**
 By Patricia Lin
 
 Eu Villa, the home of Eu Tong Sen (1877–1941), was perhaps the most spectacular mansion to be built in Singapore in the early years of the 20th century that was owned by a Straits Chinese. Nicknamed “the King of Tin”, Eu was also the man behind traditional Chinese medicine retailer Eu Yan Sang.
