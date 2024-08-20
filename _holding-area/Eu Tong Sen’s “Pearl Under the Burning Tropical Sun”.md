@@ -72,7 +72,7 @@ One of the frescoes in Eu Villa, 1979. <i>Courtesy of National Archives of Singa
 
 Murals and artworks by Italian painter Egisto Ferroni, Austrian Impressionist and artist Franz Hofer, and British artists John Sargent Noble and Alexander Mark Rossi were scattered throughout Eu Villa. A full-length portrait of Eu painted in 1928 graced the billiard room, while a life-sized bronze statue was placed in the living room.
 
-The furnishings throughout the mansion were an eclectic mix: the drawing room featured gilt furniture in the style of Louis XIV, while Chinese chairs adorned the dining room. Most of the furniture was supplied by the finest stores in London and Paris, while Chinese and Persian carpets lined the floors.[^12]
+The furnishings throughout the mansion were an eclectic mix, with most of the furniture supplied by the finest stores in London and Paris. The drawing room featured gilt furniture in the style of Louis XIV, while Chinese chairs adorned the dining room. The floors were lined with Chinese and Persian carpets.[^12]
 
 #### **Building an Annex**
 
@@ -119,7 +119,7 @@ Eu owned a fleet of six cars, including a Rolls Royce and a 44 hp super charged 
 
 #### **Philanthropic Endeavours**
 
-Eu’s’s interest in modern machines was not restricted to his personal effects. As a committed “King’s Chinese”, he contributed one of the planes that formed part of the World War I “Malaya Squadron”. The aircraft, a B.E.2c named “Malaya 1”, was flown overseas by a member of the Royal Flying Corps in November 1915. It was part of a five-plane squadron – one fighter plane and four reconnaissance planes – of which the “Malaya 1” was the lead plane. &nbsp;Each plane cost £2,250.[^25]
+Eu’s interest in modern machines was not restricted to his personal effects. As a committed “King’s Chinese”, he contributed one of the planes that formed part of the World War I “Malaya Squadron”. The aircraft, a B.E.2c named “Malaya 1”, was flown overseas by a member of the Royal Flying Corps in November 1915. It was part of a five-plane squadron – one fighter plane and four reconnaissance planes – of which the “Malaya 1” was the lead plane. &nbsp;Each plane cost £2,250.[^25]
 
 In addition to his donation of an airplane, Eu also gave the British military £6,000 for the purchase of a tank in 1917.[^26] The tank, which saw action at the Battle of Cambrai, was unique in that following the Chinese tradition of painting boats and other vessels with eyes, the tank went into battle with a large eye painted on each side of its bow.
 
