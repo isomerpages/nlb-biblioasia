@@ -101,31 +101,31 @@ The ceiling with the stained glass windows, 1975. <i>Lee Kip Lin&nbsp;Collection
 
 #### **Bedrooms and Bathrooms**
 
-There were at least 10 bedrooms, attached bathrooms and boudoirs on all three floors of the villa. Eu’s personal suite on the second floor included a sitting room with inlaid walnut and a bedroom in mahogany. His bathroom, described as being as “large as a normal bedroom and is handsome” was tiled with oak.[\[1\]](#_ftn1)
+There were at least 10 bedrooms, attached bathrooms and boudoirs on all three floors of the villa. Eu’s personal suite on the second floor included a sitting room with inlaid walnut and a bedroom in mahogany. His bathroom, described as being as “large as a normal bedroom and is handsome” was tiled with oak.[^18]
 
-The second floor also had two other bedrooms, a small ballroom and an enormous veranda with its own marble fountain. Placed on one side of the verandah was an electric violina and on the other side an electric organ.[\[2\]](#_ftn2)
+The second floor also had two other bedrooms, a small ballroom and an enormous veranda with its own marble fountain. Placed on one side of the verandah was an electric violina and on the other side an electric organ.[^19]
 
-More bedrooms and bathrooms were found on the third floor, which also boasted a supper room and card room, both richly furnished.[\[3\]](#_ftn3)
+More bedrooms and bathrooms were found on the third floor, which also boasted a supper room and card room, both richly furnished.[^20]
 
-**Other Amenities**
+#### **Other Amenities**
 
-The sheer size of Eu Villa according necessitated a large kennel of dogs to patrol and guard the property.[\[4\]](#_ftn4) The security staff included five watchmen and a pack of Alsatians, Mastiffs and Great Danes.
+The sheer size of Eu Villa according necessitated a large kennel of dogs to patrol and guard the property.[^21] The security staff included five watchmen and a pack of Alsatians, Mastiffs and Great Danes.
 
-With the huge amount of expensive jade, statues, paintings, jewellery and other precious artifacts in the villa, security was a major concern for the household. All in all, it was estimated that there were about a hundred servants, chauffeurs, gardeners, dog handlers, amahs and cooks who attended to and served the Eu family.[\[5\]](#_ftn5)
+With the huge amount of expensive jade, statues, paintings, jewellery and other precious artifacts in the villa, security was a major concern for the household. All in all, it was estimated that there were about a hundred servants, chauffeurs, gardeners, dog handlers, amahs and cooks who attended to and served the Eu family.[^22]
 
-Eu had 11 wives who variously provided him with 13 sons and nine daughters. To accommodate the enormous family, an annex that came to be called, “The Spanish House” was built to house the sons.[\[6\]](#_ftn6)&nbsp;
+Eu had 11 wives who variously provided him with 13 sons and nine daughters. To accommodate the enormous family, an annex that came to be called, “The Spanish House” was built to house the sons.[^23]
 
-Eu owned a fleet of six cars, including a Rolls Royce and a 44 hp super charged seven-seater Bentley.[\[7\]](#_ftn7)
+Eu owned a fleet of six cars, including a Rolls Royce and a 44 hp super charged seven-seater Bentley.[^24]
 
-**Philanthropic Endeavours**
+#### **Philanthropic Endeavours**
 
-Eu’s’s interest in modern machines was not restricted to his personal effects. As a committed “King’s Chinese”, he contributed one of the planes that formed part of the World War I “Malaya Squadron”. The aircraft, a B.E.2c named “Malaya 1”, was flown overseas by a member of the Royal Flying Corps in November 1915. It was part of a five-plane squadron – one fighter plane and four reconnaissance planes – of which the “Malaya 1” was the lead plane. &nbsp;Each plane cost £2,250.[\[8\]](#_ftn8)&nbsp;
+Eu’s’s interest in modern machines was not restricted to his personal effects. As a committed “King’s Chinese”, he contributed one of the planes that formed part of the World War I “Malaya Squadron”. The aircraft, a B.E.2c named “Malaya 1”, was flown overseas by a member of the Royal Flying Corps in November 1915. It was part of a five-plane squadron – one fighter plane and four reconnaissance planes – of which the “Malaya 1” was the lead plane. &nbsp;Each plane cost £2,250.[^25]
 
-In addition to his donation of an airplane, Eu also gave the British military £6,000 for the purchase of a tank in 1917.[\[9\]](#_ftn9) The tank, which saw action at the Battle of Cambrai, was unique in that following the Chinese tradition of painting boats and other vessels with eyes, the tank went into battle with a large eye painted on each side of its bow.
+In addition to his donation of an airplane, Eu also gave the British military £6,000 for the purchase of a tank in 1917.[^26] The tank, which saw action at the Battle of Cambrai, was unique in that following the Chinese tradition of painting boats and other vessels with eyes, the tank went into battle with a large eye painted on each side of its bow.
 
-Dubbed the “bus” by Captain Thurston who was charged with the six tanks involved in the Battle of Cambrai, Eu’s tank was said to be still going strong in 1918 and ready to “knock out anything Bochelike \[i.e. German made\] that comes in her vicinity”.[\[10\]](#_ftn10)
+Dubbed the “bus” by Captain Thurston who was charged with the six tanks involved in the Battle of Cambrai, Eu’s tank was said to be still going strong in 1918 and ready to “knock out anything Bochelike \[i.e. German made\] that comes in her vicinity”.[^27]
 
-Eu’s wide range of business interests invariably took him to locations where he had built other palatial homes. By the time of his death in 1941, his heirs were establishing his legal residency in order to settle his estate. Eu had lived mainly in Hong Kong since 1929, except for a period of about six months in 1933 when he returned to Singapore.[\[11\]](#_ftn11)&nbsp;
+Eu’s wide range of business interests invariably took him to locations where he had built other palatial homes. By the time of his death in 1941, his heirs were establishing his legal residency in order to settle his estate. Eu had lived mainly in Hong Kong since 1929, except for a period of about six months in 1933 when he returned to Singapore.[^28]
 
 After his departure from Singapore, Eu Villa continued to be home to his various wives, children and extended family.[\[12\]](#_ftn12) Eu’s widowed mother lived in Eu Villa until the end of her days.[\[13\]](#_ftn13)
 
