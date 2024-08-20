@@ -56,6 +56,9 @@ Gabriel Tan, a Singaporean, volunteered at the camp from 1980 to 1991. Initially
 ![](/images/Vol%2020%20Issue%203/Refugee/refugee_children.jpg)
 <div style="background-color: white;">Singaporean volunteer Gabriel Tan with some of the children at the Hawkins Road Refugee Camp, 1982. <i>Courtesy of Gabriel Tan.</i></div>
 
+![](/images/Vol%2020%20Issue%203/Refugee/refugee_kaye.jpg)
+<div style="background-color: white;">Kaye McArthur, an expatriate volunteer, teaching children English at the Hawkins Road Refugee Camp, 1981. <i>Courtesy of Kaye McArthur.</i></div>
+
 To share stories of their lives, a magazine was produced by the refugees. Titled _Nhan Chung_ (Witness), 10,000 copies of the first issue came out in December 1979. It was written in Vietnamese, with English translations done by the refugees themselves.[^15]
 
 ![](/images/Vol%2020%20Issue%203/Refugee/refugee_magazine.jpg)
@@ -85,6 +88,9 @@ The refugees even took their protest to the UNHCR office at International Plaza.
 #### **Moving Out and On**
 
 The last of the refugees only left Singapore on 27 June 1996 after the UNHCR decided to shut down all camps in the region. The 99 of them were met by the police, brought to an immigration depot where they were held for two weeks, and then finally boarded a Vietnam Airlines plane at Changi Airport bound for Ho Chi Minh City.[^25]
+
+![](/images/Vol%2020%20Issue%203/Refugee/refugee_kaye.jpg)
+<div style="background-color: white;">Vietnamese refugees boarding a special Vietnam Airlines flight bound for Ho Chi Minh City at Changi Airport after the closure of the Hawkins Road Refugee Camp in 1996. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Lu Cheng Yang, the Controller of Immigration, said at a press conference on the day of their departure that the refugees “had been allowed to enter Singapore because of unconditional written guarantees by seven countries to resettle them within three months of their arrival”. However, these countries did not honour their commitments and so the Vietnamese were “stranded in Singapore, many since the early 1990s”. He added that Singapore had worked with the UNHCR and the Vietnamese government to arrange for their return.[^26]
 
