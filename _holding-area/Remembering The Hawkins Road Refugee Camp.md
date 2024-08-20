@@ -96,41 +96,41 @@ Singapore’s experience taking in the Vietnamese refugees came to shape its pol
 
 #### **Notes**
 
-[^1]:   Linda Agerbak, “A Price for War,” _Straits Times_, 24 October 1981, 1. (From NewspaperSG)
+[^1]:   Linda Agerbak, “[A Price for War](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19811024-1.2.138.2),” _Straits Times_, 24 October 1981, 1. (From NewspaperSG)
 
-[^2]: “Boat People of Vietnam and What Could Happen to Singapore,” _Straits Times_, 24 August 1997, 24. (From NewspaperSG)
+[^2]: “[Boat People of Vietnam and What Could Happen to Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19970824-1.2.34.8),” _Straits Times_, 24 August 1997, 24. (From NewspaperSG)
 
-[^3]: Agerbak, “A Price for War.”&nbsp;
+[^3]: Agerbak, “[A Price for War](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19811024-1.2.138.2).”&nbsp;
 
-[^4]: Agerbak, “A Price for War.”
+[^4]: Agerbak, “[A Price for War](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19811024-1.2.138.2).”
 
 [^5]: Chan Tho, interview, 11 June 2024.
 
 [^6]: Thao Dinh, interview, 11 June 2024.
 
-[^7]: Chua Ngeng Choo, “A Little Viet Refuge,” _Straits Times_, 1 November 1980, 1. (From NewspaperSG)
+[^7]: Chua Ngeng Choo, “[A Little Viet Refuge](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19801101-1.2.120.2),” _Straits Times_, 1 November 1980, 1. (From NewspaperSG)
 
-[^8]:  Chua, “A Little Viet Refuge.”
+[^8]:  Chua, “[A Little Viet Refuge](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19801101-1.2.120.2).”
 
-[^9]: Chua, “A Little Viet Refuge.”
+[^9]: Chua, “[A Little Viet Refuge](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19801101-1.2.120.2).”
 
 [^10]: Thao Dinh, interview, 11 June 2024.&nbsp;
 
-[^11]: Paul Jansen, “Viet Refugee Camp Model of Harmony,” _Straits Times_, 22 January 1979, 25. (From NewspaperSG)
+[^11]: Paul Jansen, “[Viet Refugee Camp Model of Harmony](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19790122-1.2.95),” _Straits Times_, 22 January 1979, 25. (From NewspaperSG)
 
-[^12]: “Committee Makes Life Pleasant, Meaningful,” _Straits Times_, 22 January 1979, 25. (From NewspaperSG)
+[^12]: “[Committee Makes Life Pleasant, Meaningful](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19790122-1.2.97),” _Straits Times_, 22 January 1979, 25. (From NewspaperSG)
 
 [^13]: Gabriel Tan, interview, 8 July 2024.&nbsp;
 
 [^14]:  Note from Kaye McArthur, 8 July 2024.&nbsp;
 
-[^15]: “Boat People’s Horror Mag,” _New Nation_, 6 December 1979, 4. (From NewspaperSG)
+[^15]: “[Boat People’s Horror Mag](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19791206-1.2.26),” _New Nation_, 6 December 1979, 4. (From NewspaperSG)
  
-[^16]: “Boat People’s Horror Mag.”
+[^16]: “[Boat People’s Horror Mag](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19791206-1.2.26).”
 
-[^17]: “Govt Gives the Nod to Refugee Mag,” _New Nation_, 15 February 1980, 2. (From NewspaperSG)
+[^17]: “[Govt Gives the Nod to Refugee Mag](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19800215-1.2.10),” _New Nation_, 15 February 1980, 2. (From NewspaperSG)
 
-[^18]: “Govt Gives the Nod to Refugee Mag.”
+[^18]: “[Govt Gives the Nod to Refugee Mag](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19800215-1.2.10).”
 
 [^19]: “Refugee Magazine Folds Up,” _New Nation_, 20 May 1980, 3. (From NewspaperSG)
 
