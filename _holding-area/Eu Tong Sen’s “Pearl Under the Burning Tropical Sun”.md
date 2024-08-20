@@ -78,6 +78,11 @@ The furnishings throughout the mansion were an eclectic mix: the drawing room fe
 
 Within the first few years of his occupancy, Eu deemed his dining room too small to accommodate the ever-growing numbers at his dinner parties. An annex was built to the main house with a dining room that could comfortably seat one hundred guests on the ground floor, while the second floor housed a ballroom that was the same size as the one in Raffles Hotel.[^13]&nbsp;
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/EU%20Villa/interior_of_EU_Villa.jpg" style="width: 80%;">
+One of the frescoes in Eu Villa, 1979. <i>Courtesy of National Archives of Singapore.</i></div>
+
   
 
 * * *
