@@ -144,9 +144,6 @@ Besides Eu Villa, there were a number of other palatial mansions built for the w
 
 **Dr Patricia Lin** has a PhD in Comparative Literature and Critical Theory from the University of Southern California. She is retired Professor Emeritus in the Department of Gender, Ethnicity, and Multicultural Studies at California State Polytechnic University.  
 
-  
-
-
 #### **Notes**
 
 [^1]:  Alex Chow, “[Eu Tong Sen](https://www.nlb.gov.sg/main/article-detail?cmsuuid=17c9227b-e74e-4abd-b89e-89dd64abe842),” in _Singapore_ _Infopedia_. National Library Board Singapore. Article published 15 September 2014; Arnold Wright and H.A. Cartwright, eds., [Twentieth Century Impressions of British Malaya: Its History, People, Commerce, Industries, and Resources](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4125591) (London: Lloyd's Greater Britain Publishing Company, 1908), 534–36. (From National Library, Singapore, call no. RSEA 959.3 TWE)
