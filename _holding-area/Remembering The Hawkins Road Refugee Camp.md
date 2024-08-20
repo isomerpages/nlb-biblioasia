@@ -143,25 +143,25 @@ Singapore’s experience taking in the Vietnamese refugees came to shape its pol
 [^23]: “[Vietnamese Refugee Attempts Suicide After Bid to Resettle Fails](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19921121-1.2.34.7),” _Straits Times_, 21 November 1992, 27. (From NewspaperSG)
 
 
-[^24]: “West’s Broken Promises Provide Bitter Lesson.”
+[^24]: “[West’s Broken Promises Provide Bitter Lesson](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19980328-1.2.78.2).”
 
 
-[^25]: “West's Broken Promises Provide Bitter Lesson”; “Last 99 Boat People in Singapore Leave,” _Straits Times_, 28 June 1996, 3. (From NewspaperSG)
+[^25]: “[West's Broken Promises Provide Bitter Lesson](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19980328-1.2.78.2)”; “[Last 99 Boat People in Singapore Leave](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19960628-1.2.8.6),” _Straits Times_, 28 June 1996, 3. (From NewspaperSG)
 
                    
-[^26]: “Last 99 Boat People in Singapore Leave.”
+[^26]: “[Last 99 Boat People in Singapore Leave](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19960628-1.2.8.6).”
 
 
-[^27]: “Last 99 Boat People in Singapore Leave”; “West’s Broken Promises Provide Bitter Lesson.”
+[^27]: “[Last 99 Boat People in Singapore Leave](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19960628-1.2.8.6)”; “[West’s Broken Promises Provide Bitter Lesson](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19980328-1.2.78.2).”
 
 
 [^28]: “Vietnamese Boat People Refugee Camp, 25 Hawkins Road, Sembawang, Singapore,” Facebook, accessed 28 March 2024, http://www.facebook.com/groups/25hawkins.
 
 
-[^29]: Yuen Sin, “36 Years On, Ex-Refugee Meets One of Her Rescuers,” _Straits Times_, 23 October 2016, 7. (From NewspaperSG); Former Vietnamese Refugee Meets One of Her Rescuers 36 Years Later,” Stomp, 23 October 2016, https://stomp.straitstimes.com/singapore-seen/singapore/former-vietnamese-refugee-meets-one-of-her-rescuers-36-years-later.&nbsp;
+[^29]: Yuen Sin, “[36 Years On, Ex-Refugee Meets One of Her Rescuers](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20161023-1.2.4.13),” _Straits Times_, 23 October 2016, 7. (From NewspaperSG); Former Vietnamese Refugee Meets One of Her Rescuers 36 Years Later,” Stomp, 23 October 2016, https://stomp.straitstimes.com/singapore-seen/singapore/former-vietnamese-refugee-meets-one-of-her-rescuers-36-years-later.&nbsp;
 
 
 [^30]: Vinny Nguyen, interview, 5 July 2024.
 
 
-[^31]: “Govt taking tough stance on illegal immigrants,” _Business Times_, 14 March 1998, 2. (From NewspaperSG)
+[^31]: “[Govt taking tough stance on illegal immigrants](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19980314-1.2.9.5),” _Business Times_, 14 March 1998, 2. (From NewspaperSG)
