@@ -132,15 +132,15 @@ Singapore’s experience taking in the Vietnamese refugees came to shape its pol
 
 [^18]: “[Govt Gives the Nod to Refugee Mag](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19800215-1.2.10).”
 
-[^19]: “Refugee Magazine Folds Up,” _New Nation_, 20 May 1980, 3. (From NewspaperSG)
+[^19]: “[Refugee Magazine Folds Up](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19800520-1.2.13),” _New Nation_, 20 May 1980, 3. (From NewspaperSG)
 
-[^20]: “Govt Asked to Extend Lease on Refugee Camp,” _Straits Times_, 24 March 1982, 8. (From NewspaperSG)
+[^20]: “[Govt Asked to Extend Lease on Refugee Camp](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19820324-1.2.30),” _Straits Times_, 24 March 1982, 8. (From NewspaperSG)
 
-[^21]: Tan Lian Choo, “Loc Gets Green Light to Resettle in US,” _Straits Times_, 31 May 1983, 40. (From NewspaperSG)
+[^21]: Tan Lian Choo, “[Loc Gets Green Light to Resettle in US](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19830531-1.2.147),” _Straits Times_, 31 May 1983, 40. (From NewspaperSG)
 
-[^22]: “16 Refugees on Hunger Strike Here Fall Ill,” _Straits Times_, 23 November 1992, 1; “West’s Broken Promises Provide Bitter Lesson,” _Straits Times_, 28 March 1998, 62. (From NewspaperSG)
+[^22]: “[16 Refugees on Hunger Strike Here Fall Ill](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19921123-1.2.4),” _Straits Times_, 23 November 1992, 1; “[West’s Broken Promises Provide Bitter Lesson](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19980328-1.2.78.2),” _Straits Times_, 28 March 1998, 62. (From NewspaperSG)
 
-[^23]: “Vietnamese Refugee Attempts Suicide After Bid to Resettle Fails,” _Straits Times_, 21 November 1992, 27. (From NewspaperSG)
+[^23]: “[Vietnamese Refugee Attempts Suicide After Bid to Resettle Fails](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19921121-1.2.34.7),” _Straits Times_, 21 November 1992, 27. (From NewspaperSG)
 
 
 [^24]: “West’s Broken Promises Provide Bitter Lesson.”
