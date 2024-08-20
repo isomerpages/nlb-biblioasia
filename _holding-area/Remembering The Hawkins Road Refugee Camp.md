@@ -109,7 +109,7 @@ Singapore’s experience taking in the Vietnamese refugees came to shape its pol
 			
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/rebecca_tan.png">
+<img style="width: 100px; height: 100px;" src="/images/vol-17-issue-3/authors/Rebecca%20Tan--.png">
 	<b>Rebecca Tan</b> is a Children and Teens Librarian at Toa Payoh Public Library. She develops content and services for children and teens, and works with schools to promote a culture of reading. She was previously a Digital Heritage Librarian at the National Library.  </div>
 
 #### **Notes**
