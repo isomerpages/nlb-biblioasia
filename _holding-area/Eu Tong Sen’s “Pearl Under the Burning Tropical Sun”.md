@@ -131,7 +131,7 @@ After his departure from Singapore, Eu Villa continued to be home to his various
 
 #### **End of an Era**
 
-Throughout the 1950s, Eu Villa went on to be a place where parties, fundraisers and society events were held. Under the auspices of Mrs Diana Eu, wife of Richard Eu Keng Mun (a son of Eu Tong Sen), the villa was frequently the setting for bridge and mahjong drives by the Chinese Ladies Association in aid of different charities, including St Andrews Hospital, the Singapore Anti-Tuberculosis Association and the Singapore Boys’ Scouts.[^31]
+Throughout the 1950s, Eu Villa went on to be a place where parties, fundraisers and society events were held. Under the auspices of Mrs Diana Eu, wife of Richard Eu Keng Mun (a son of Eu Tong Sen), the villa was frequently the setting for bridge and mahjong drives by the Chinese Ladies Association in aid of different charities, including St Andrews Hospital, the Singapore Anti-Tuberculosis Association and the Singapore Boys’ Scouts Association.[^31]
 
 <div style="background-color: white;">
 <br>
