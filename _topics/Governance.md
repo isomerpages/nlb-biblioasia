@@ -7,7 +7,7 @@ variant: markdown
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/laws-of-our-land/">Laws of Our Land: Foundations of a New Nation</a>
 The Singapore Citizenship Ordinance (1957), the Women’s Charter (1961) and the Employment Act (1968) are three important pieces of legislation that have shaped modern Singapore.
 
-<img src="/images/Vol%2020%20Issue%203/Laws/Laws_topics.jpg" style="width:90%;">
+<img src="/images/Vol%2020%20Issue%203/Laws/Laws_topics.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/hippies-operation-snip-snip-long-hair/">Singapore's Hippie Hysteria and the Ban on Long Hair</a>
