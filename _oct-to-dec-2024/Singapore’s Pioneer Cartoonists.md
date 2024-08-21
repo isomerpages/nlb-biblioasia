@@ -117,7 +117,7 @@ Lim’s innovative approaches extended to the cartoons he drew in the 1970s: his
 <div style="background-color: white;">
 <br>
 <img src="/images/Vol%2020%20Issue%203/Cartoonist/Lim_Mu_Hue_web.png" style="width: 85%;">
-这下包中&nbsp;(1958) by Lim Mu Hue.&nbsp;<i>Images reproduced from Lin Mu Hua,&nbsp;林木化正华画集(新加坡:&nbsp;林木化, 1990).(From National Library, Singapore, call no. RDTSH 759.95957 LMH).</i></div>
+这下包中&nbsp;(1958) by Lim Mu Hue.&nbsp;<i>Images reproduced from Lin Mu Hua,&nbsp;林木化正华画集(新加坡:&nbsp;林木化, 1990). (From National Library, Singapore, call no. RDTSH 759.95957 LMH).</i></div>
 
 **Koeh Sia Yong (b. 1938)**
 

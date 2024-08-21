@@ -1,6 +1,6 @@
 ---
 title: Remembering the Hawkins Road Refugee Camp
-permalink: /remembering-the-hawkins-road-refugee-camp/
+permalink: /vol-20/issue-3/oct-dec-2024/hawkins-road-refugee-camp/
 variant: markdown
 description: A temporary home for Vietnamese refugees over nearly two decades,
   the Hawkins Road camp received thousands who experienced daily life within its

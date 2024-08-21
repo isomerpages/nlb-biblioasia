@@ -2,7 +2,6 @@ collections:
   holding-area:
     output: true
     order:
-      - Remembering the Hawkins Road Refugee Camp.md
       - "Remembering AGS Danaraj: Pioneer Town Planner and News Reader.md"
       - Example Title.md
       - Test2.md
