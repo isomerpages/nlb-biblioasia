@@ -4,6 +4,13 @@ permalink: /topics/collection-highlights/
 variant: markdown
 description: ""
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/phan-kim-sam-thye-seng/">The Search for a “Lost” Towkay of Malaya</a>
+
+A man looks at his grandfather with new eyes after a mysterious envelope is found in an old workman’s outfit that was about to be thrown away.
+
+<img src="/images/Vol%2020%20Issue%203/Lost%20Towkay/lost_towkay.png" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/singapore-hokkien-huay-kuan-tian-hock-keng-temple/">The Singapore Hokkien Huay Kuan Collection: A Treasure Trove of Information</a>
 
 Materials donated by the Singapore Hokkien Huay Kuan offer unique perspectives into the history of the Hokkien community here and the association’s contributions to the nation’s social and cultural landscape.
@@ -205,4 +212,3 @@ This valuable collection at the National Library is significant for a number of 
 
 <img src="/images/Vol-12-issue-1/raffles-library-and-museum/06a_raffleslibrary.jpg" style="width:80%;">
 <hr>
-
