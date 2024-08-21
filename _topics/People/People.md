@@ -26,7 +26,7 @@ Dr Lee Kum Tatt was instrumental in the development of Singapore’s scientific 
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/phan-kim-sam-thye-seng/">The Search for a “Lost” Towkay of Malaya</a>
 
-The writer’s attempt to trace the contours of his grandfather’s life was complicated by the fact that, unknown to him, his grandfather had more than one name.
+A man looks at his grandfather with new eyes after a mysterious envelope is found in an old workman’s outfit that was about to be thrown away.
 
 <img src="/images/Vol%2020%20Issue%203/Lost%20Towkay/lost_towkay.png" style="width:80%;">
 <hr>
