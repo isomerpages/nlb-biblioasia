@@ -114,7 +114,9 @@ Lim can be considered a pioneer of conceptual art in Singapore. For one of his e
 
 Lim’s innovative approaches extended to the cartoons he drew in the 1970s: his protagonist (who is the artist himself) breaks the fourth wall constantly and makes fun of himself. He makes us laugh at his own expense, so we can learn, understand and empathise.&nbsp;
 
-![](/images/Vol%2020%20Issue%203/Cartoonist/cartoonist_teochew.jpg)
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol%2020%20Issue%203/Cartoonist/Lim_Mu_Hue_web.png" style="width: 85%;">
 <div style="background-color:white;"> 清音班 (Teochew Opera Singing), 1964, woodcut print, by Lim Mu Hue. <i>Image reproduced from Lim Mu Hue: An Inventive Life (Singapore: Nanyang Academy of Fine Arts, 2014), 77. (From National Library, Singapore, call no. RSING 709.2 LIM). </i></div>
 
 **Koeh Sia Yong (b. 1938)**&nbsp;
@@ -215,4 +217,4 @@ Cartoonists are drawn to satire. Long may they run.
 [^15]: Lim Cheng Tju, “Stories by Female Comic Artists in Southeast Asia,” Academia, 2015, https://www.academia.edu/15829886/Stories\_by\_Female\_Comic\_Artists\_in\_Southeast\_Asia.
 
 
-[^16]: Lim, [_Drawn to Satire: Sketches of Cartoonists_ in Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300002735), 140.
+[^16]: Lim, [_Drawn to Satire: Sketches of Cartoonists_ in Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300002735), 140.</div>
