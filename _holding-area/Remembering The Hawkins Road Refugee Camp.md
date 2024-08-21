@@ -51,7 +51,9 @@ In November 1978, a Hawkins Road camp committee was formed by the refugees thems
 
 The refugees also took English language classes in the camp. The teaching volunteers concentrated on topics like “how to find jobs, what kind of atmosphere to expect in different types of work, how to handle life in the country the refugees will be resettled in, and the changes in diet, climate and clothing they will face”.[^12]
 
-Gabriel Tan, a Singaporean, volunteered at the camp from 1980 to 1991. Initially he only taught English, but he later got to know the refugees better and even took them on field trips during the weekends.[^13] Expatriate volunteer Kaye McArthur recalls that classes were held in makeshift buildings with dirt floors. “As a teacher you soon forgot the dust, the dirt, the insects and the feeling your clothes were sticking to you from perspiration,” she said. “Any physical discomfort was overtaken by the task in hand and the refugee’s extraordinary enthusiasm and appreciation.”[^14]
+Gabriel Tan, a Singaporean, volunteered at the camp from 1980 to 1991. Initially he only taught English, but he later got to know the refugees better and even took them on field trips during the weekends.[^13] 
+
+Expatriate volunteer Kaye McArthur recalls that classes were held in makeshift buildings with dirt floors. “As a teacher you soon forgot the dust, the dirt, the insects and the feeling your clothes were sticking to you from perspiration,” she said. “Any physical discomfort was overtaken by the task in hand and the refugee’s extraordinary enthusiasm and appreciation.”[^14]
 
 ![](/images/Vol%2020%20Issue%203/Refugee/refugee_children.jpg)
 <div style="background-color: white;">Singaporean volunteer Gabriel Tan with some of the children at the Hawkins Road Refugee Camp, 1982. <i>Courtesy of Gabriel Tan.</i></div>
