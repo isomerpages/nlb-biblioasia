@@ -102,9 +102,9 @@ sections:
       title: The Search for a “Lost” Towkay of Malaya
       subtitle: People
       id: infopic
-      description: The writer’s attempt to trace the contours of his grandfather’s
-        life was complicated by the fact that, unknown to him, his grandfather
-        had more than one name.
+      description: A man looks at his grandfather with new eyes after a mysterious
+        envelope is found in an old workman’s outfit that was about to be thrown
+        away.
       button: A grandfather by any other name
       url: /vol-20/issue-3/oct-dec-2024/phan-kim-sam-thye-seng/
       image: /images/Vol 20 Issue 3/Lost Towkay/lost_towkay.png
