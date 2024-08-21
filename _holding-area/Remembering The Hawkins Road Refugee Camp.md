@@ -53,7 +53,7 @@ The refugees also took English language classes in the camp. The teaching volunt
 
 Gabriel Tan, a Singaporean, volunteered at the camp from 1980 to 1991. Initially he only taught English, but he later got to know the refugees better and even took them on field trips during the weekends.[^13] 
 
-![](/images/Vol%2020%20Issue%203/Refugee/refugee_children.jpg)
+![](/images/Vol%2020%20Issue%203/Refugee/refugee_children2.jpg)
 <div style="background-color: white;">Singaporean volunteer Gabriel Tan with some of the children at the Hawkins Road Refugee Camp, 1982. <i>Courtesy of Gabriel Tan.</i></div>
 
 Expatriate volunteer Kaye McArthur recalls that classes were held in makeshift buildings with dirt floors. “As a teacher you soon forgot the dust, the dirt, the insects and the feeling your clothes were sticking to you from perspiration,” she said. “Any physical discomfort was overtaken by the task in hand and the refugee’s extraordinary enthusiasm and appreciation.”[^14]
