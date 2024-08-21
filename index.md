@@ -61,7 +61,7 @@ sections:
       subtitle: Film and Photography
       id: infopic
       description: People weren’t particularly interested in upgrading their
-        black-and-white TV to a colour TV. Then came the World Cup.
+        black-and-white TVs to a colour TVs. Then came the World Cup.
       button: A Colour Extravaganza
       url: /vol-20/issue-3/oct-dec-2024/colour-tv-history-singapore/
       image: /images/Vol 20 Issue 3/Colour TV/awkening.jpg
