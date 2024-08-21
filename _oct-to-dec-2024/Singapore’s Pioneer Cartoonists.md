@@ -117,7 +117,7 @@ Lim’s innovative approaches extended to the cartoons he drew in the 1970s: his
 <div style="background-color: white;">
 <br>
 <img src="/images/Vol%2020%20Issue%203/Cartoonist/Lim_Mu_Hue_web.png" style="width: 85%;">
-<div style="background-color:white;">这下包中&nbsp;(1958) by Lim Mu Hue.&nbsp;<i>Images reproduced from Lin Mu Hua,&nbsp;林木化正华画集(新加坡:&nbsp;林木化, 1990).(From National Library, Singapore, call no. RDTSH 759.95957 LMH).</i></div>
+这下包中&nbsp;(1958) by Lim Mu Hue.&nbsp;<i>Images reproduced from Lin Mu Hua,&nbsp;林木化正华画集(新加坡:&nbsp;林木化, 1990).(From National Library, Singapore, call no. RDTSH 759.95957 LMH).</i></div>
 
 **Koeh Sia Yong (b. 1938)**
 
@@ -128,7 +128,7 @@ Unlike his social realist works (woodcuts, paintings) in the 1950s and 1960s whe
 <div style="background-color: white;">
 <br>
 <img src="/images/Vol%2020%20Issue%203/Cartoonist/Koeh_Sia_Yong_s_cartoon_web.jpg" style="width: 85%;">
-<div style="background-color:white;">A cartoon about increasing oil prices by Koeh Sia Yong, 1979– 80.&nbsp;<i>Image reproduced from Koh Sia Yong, A Mirror of Our Times 1979–19 80: A Story in Cartoon (Singapore: K.S. Yong, 1995). (From National Library, Singapore, call no. RSING 741.595957 KOH).</i></div>
+A cartoon about increasing oil prices by Koeh Sia Yong, 1979– 80.&nbsp;<i>Image reproduced from Koh Sia Yong, A Mirror of Our Times 1979–19 80: A Story in Cartoon (Singapore: K.S. Yong, 1995). (From National Library, Singapore, call no. RSING 741.595957 KOH).</i></div>
 
 **Morgan Chua (1949–2018)**&nbsp;
 
@@ -219,4 +219,4 @@ Cartoonists are drawn to satire. Long may they run.
 [^15]: Lim Cheng Tju, “Stories by Female Comic Artists in Southeast Asia,” Academia, 2015, https://www.academia.edu/15829886/Stories\_by\_Female\_Comic\_Artists\_in\_Southeast\_Asia.
 
 
-[^16]: Lim, [_Drawn to Satire: Sketches of Cartoonists_ in Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300002735), 140.</div></div>
+[^16]: Lim, [_Drawn to Satire: Sketches of Cartoonists_ in Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300002735), 140.
