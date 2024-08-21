@@ -7,7 +7,7 @@ description: People weren’t particularly interested in  upgrading their
   black-and-white TV to a colour TV. Then came the World Cup.
 image: /images/Vol 20 Issue 3/Colour TV/tv_awakening.jpg
 ---
-#### People weren’t particularly interested in&nbsp;upgrading their black-and-white TV to a colour TV. Then came the World Cup.
+#### People weren’t particularly interested in&nbsp;upgrading their black-and-white TVs to a colour TVs. Then came the World Cup.
 By Mohamad Karazie and Tan Jie Ling
 
 ![](/images/Vol%2020%20Issue%203/Colour%20TV/tv_awakening.jpg)
