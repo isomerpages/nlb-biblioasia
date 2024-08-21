@@ -72,7 +72,7 @@ The second issue was planned for publication in early 1980, after Singapore’s 
 
 While the first issue focused on the refugees’ tales of escape from Vietnam, Ha Van Ky, a former high school teacher who served as the magazine’s editor, planned for the second issue to contain 21 articles about the refugees’ search for new homes, life in Vietnam as well as the Christmas celebration held at the camp. “How we fled from Vietnam, our encounters with sea pirates, and the experiences of Vietnamese women sold to slavery will be some of the stories told in the magazine,” said Ha.[^18]
 
-The second issue was never published though. “After discussions with the Culture Ministry, it was decided that the magazine should be discontinued because the refugees were too enthusiastic about it,” said UNHCR official Luise DrÜke. “There were too many contributions and the volume got too big to handle.”[^19]
+The second issue was never published though. “After discussions with the Culture Ministry, it was decided that the magazine should be discontinued because the refugees were too enthusiastic about it,” said UNHCR official Luise Drüke. “There were too many contributions and the volume got too big to handle.”[^19]
 
 #### **Unfulfilled Promises**
 
@@ -80,8 +80,7 @@ The camp received multiple lease extensions before eventually closing in 1996. T
 
 Among the resettled was Nguyen Van Loc, the former South Vietnamese prime minister. Originally in a category which “disqualified him from \[resettlement in\] the US”, his association with the South Vietnamese government was evaluated and later “accepted as grounds for his resettlement in the US”.[^21]
 
-Not all refugees were so fortunate though. Some countries did not fulfil their resettlement guarantees, leading about 60 camp inhabitants to go on a hunger strike in November 1992. The refugees protested the failure of seven Western countries – the United States, Britain, the Netherlands, Norway, Sweden, Denmark and Germany – to accept them. During the strike, two men “swallowed an overdose of anti-stress pills”, another man “poured kerosene down his throat”, while 16 others became unconscious and were taken to  
-Tan Tock Seng Hospital.[^22]
+Not all refugees were so fortunate though. Some countries did not fulfil their resettlement guarantees, leading about 60 camp inhabitants to go on a hunger strike in November 1992. The refugees protested the failure of seven Western countries – the United States, Britain, the Netherlands, Norway, Sweden, Denmark and Germany – to accept them. During the strike, two men “swallowed an overdose of anti-stress pills”, another man “poured kerosene down his throat”, while 16 others became unconscious and were taken to Tan Tock Seng Hospital.[^22]
 
 A few months prior to the strike, a 14-year-old girl of mixed Vietnamese and American parentage attempted suicide after she was told she would have to return to Vietnam. “I cannot go back. I was treated very badly because my father was an American soldier. I have no future in Vietnam,” Ngoc Nguyen Hiau told the _Straits Times_.[^23]
 
@@ -184,4 +183,4 @@ Singapore’s experience taking in the Vietnamese refugees came to shape its pol
 [^30]: Vinny Nguyen, interview, 5 July 2024.
 
 
-[^31]: “[Govt taking tough stance on illegal immigrants](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19980314-1.2.9.5),” _Business Times_, 14 March 1998, 2. (From NewspaperSG)
+[^31]: “[Govt&nbsp;Taking Tough Stance&nbsp;on&nbsp;Illegal Immigrants](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19980314-1.2.9.5),”&nbsp;_Business Times_, 14 March 1998, 2. (From NewspaperSG)
