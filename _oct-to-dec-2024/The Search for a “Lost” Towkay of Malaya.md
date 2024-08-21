@@ -7,7 +7,7 @@ description: The writer’s attempt to trace the contours of his grandfather’s
   more than one name.
 image: /images/Vol 20 Issue 3/Lost Towkay/towkay_img1b.jpg
 ---
-#### The writer’s attempt to trace the contours of his grandfather’s life was complicated by the fact that, unknown to him, his grandfather had more than one name.
+#### A man looks at his grandfather with new eyes after a mysterious envelope is found in an old workman’s outfit that was about to be thrown away.
 
 By Phan Ming Yen
 
