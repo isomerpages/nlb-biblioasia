@@ -6,7 +6,7 @@ third_nav_title: Arts
 variant: markdown
 ---
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/singapore-pioneer-cartoonists/">Singapore’s Pioneer Cartoonists</a>
- <p>Cartoons today may be seen as kids’ stuff but many of the early cartoonists were ideologically motivated, and they drew cartoons to bring about social and political change.</p> 
+ <p>Many of the early cartoonists were ideologically motivated and their drawings aimed to bring about social and political change.</p> 
 <img src="/images/Vol%2020%20Issue%203/Cartoonist/comic.jpg">
 <hr>
 
