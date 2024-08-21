@@ -6,7 +6,7 @@ third_nav_title: Arts
 variant: markdown
 ---
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/colour-tv-history-singapore/">The Awakening of the Modern Television Era</a>
- <p>People weren’t particularly interested in&nbsp;upgrading their black-and-white TVs to a colour TVs. Then came the World Cup.</p> 
+ <p>People weren’t particularly interested in&nbsp;upgrading their black-and-white TVs to colour TVs. Then came the World Cup.</p> 
 <img src="/images/Vol%2020%20Issue%203/Colour%20TV/awkening.jpg">
 <hr>
 
