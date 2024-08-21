@@ -70,9 +70,8 @@ sections:
       title: Singapore’s Pioneer Cartoonists
       subtitle: Art
       id: infopic
-      description: Cartoons today may be seen as kids’ stuff but some early
-        cartoonists were ideologically motivated, and drew cartoons to bring
-        about social and political change.
+      description: Many of the early cartoonists were ideologically motivated and
+        their drawings aimed to bring about social and political change.
       button: Drawn to Satire
       url: /vol-20/issue-3/oct-dec-2024/singapore-pioneer-cartoonists/
       image: /images/Vol 20 Issue 3/Cartoonist/comic.jpg

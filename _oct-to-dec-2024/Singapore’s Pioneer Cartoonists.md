@@ -6,7 +6,7 @@ description: Cartoons today may be seen as kids’ stuff but many of the early
   cartoonists were ideologically motivated, and they drew cartoons to bring
   about social and political change.
 ---
-#### Cartoons today may be seen as kids’ stuff but many of the early cartoonists were ideologically motivated, and they drew cartoons to bring about social and political change.
+#### Many of the early cartoonists were ideologically motivated and their drawings aimed to bring about social and political change.
 By CT Lim 
 
 ![](/images/Vol%2020%20Issue%203/Cartoonist/cartoonist_facing.jpg)
