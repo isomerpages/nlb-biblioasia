@@ -7,7 +7,7 @@ description: A temporary home for Vietnamese refugees over nearly two decades,
   boundaries and around Singapore prior to resettlement.
 image: /images/Vol 20 Issue 3/Refugee/refugee_facing.jpg
 ---
-#### A temporary home for Vietnamese refugees over nearly two decades, the Hawkins Road camp received thousands who experienced daily life within its boundaries and around Singapore prior to resettlement.
+#### A temporary home for Vietnamese refugees for nearly two decades, the Hawkins Road camp received thousands who experienced daily life within its boundaries and around Singapore prior to resettlement.
 By Rebecca Tan
 
 ![](/images/Vol%2020%20Issue%203/Refugee/refugee_facing.jpg)
