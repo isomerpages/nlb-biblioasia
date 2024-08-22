@@ -25,12 +25,14 @@ The zoo had to overcome major setbacks in its formative years. *Choo Ruizhi*.
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/wat-ananda-metyarama-thai-buddhist-temple/">At Wat Ananda, Thai Buddhism with a Singaporean Twist </a><br>
-The golden stupa and ornate roofs indicate that this is a Thai Buddhist temple. The Singaporean influences, though, are not hard to spot. *Thammika Songkaeo*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia OCT-DEC2024-Watnanda.pdf)
+The golden stupa and ornate roofs indicate that this is a Thai Buddhist temple. The Singaporean influences, though, are not hard to spot. *Thammika Songkaeo*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_OCT_DEC2024_Watnanda.pdf)
 
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/singapore-pioneer-cartoonists/">Singapore’s Pioneer Cartoonists </a><br>
-Many of the early cartoonists were ideologically motivated and their drawings aimed to bring about social and political change. *CT Lim*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia OCT-DEC2024-Cartoonist.pdf)
+Many of the early cartoonists were ideologically motivated and their drawings aimed to bring about social and political change. *CT Lim*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_OCT_DEC2024_Cartoonist.pdf)
+
+[(PDF)](/files/pdf/Vol%2020/BiblioAsia OCT-DEC2024-Cartoonist.pdf)
 
 
 
