@@ -32,7 +32,6 @@ The golden stupa and ornate roofs indicate that this is a Thai Buddhist temple. 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/singapore-pioneer-cartoonists/">Singapore’s Pioneer Cartoonists </a><br>
 Many of the early cartoonists were ideologically motivated and their drawings aimed to bring about social and political change. *CT Lim*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_OCT_DEC2024_Cartoonist.pdf)
 
-[(PDF)](/files/pdf/Vol%2020/BiblioAsia OCT-DEC2024-Cartoonist.pdf)
 
 
 
