@@ -144,7 +144,7 @@ Besides Eu Villa, there were a number of other palatial mansions built for the w
 
 
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src=""><b>Dr Patricia Lin</b> has a PhD in Comparative Literature and Critical Theory from the University of Southern California. She is retired Professor Emeritus in the Department of Gender, Ethnicity, and Multicultural Studies at California State Polytechnic University.</div>   
+<img style="width: 100px; height: 100px;" src="/images/Online%20Only%20Articles/EU%20Villa/Patricia_photo.png"><b>Dr Patricia Lin</b> has a PhD in Comparative Literature and Critical Theory from the University of Southern California. She is retired Professor Emeritus in the Department of Gender, Ethnicity, and Multicultural Studies at California State Polytechnic University.</div>   
 
 #### **Notes**
 
