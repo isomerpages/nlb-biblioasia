@@ -16,15 +16,12 @@ People weren’t particularly interested in upgrading their black-and-white TVs 
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/great-singapore-workout/">30 Years of the Great Singapore Workout</a><br>
-Launched in 1993, the Great Singapore Workout helped spread the message that being physically active was important. *Lim Tin Seng*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia OCT-DEC2024-GreatSGWorkout.pdf)
-
+Launched in 1993, the Great Singapore Workout helped spread the message that being physically active was important. *Lim Tin Seng*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_OCT_DEC2024_GreatSGWorkout.pdf)
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/singapore-zoo-animals/">Animals, Anxieties and Aspirations: The Earlier Years of the Singapore Zoo</a><br>
 The zoo had to overcome major setbacks in its formative years. *Choo Ruizhi*.
-[(PDF)](/files/pdf/Vol%2020/BiblioAsia OCT-DEC2024-SGZoo.pdf)
-
-
+[(PDF)](/files/pdf/Vol%2020/BiblioAsia_OCT_DEC2024_SGZoo.pdf)
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/wat-ananda-metyarama-thai-buddhist-temple/">At Wat Ananda, Thai Buddhism with a Singaporean Twist </a><br>
