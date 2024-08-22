@@ -11,57 +11,57 @@ variant: markdown
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/director-note/">Director's Note</a>
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/emily-of-emerald-hill-stella-kon/">The Awakening of the Modern Television Era: 50 Years of Colour TV in Singapore</a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/colour-tv-history-singapore/">The Awakening of the Modern Television Era: 50 Years of Colour TV in Singapore</a><br>
 People weren’t particularly interested in upgrading their black-and-white TVs to colour TVs. Then came the World Cup. *Mohamad Karazie and Tan Jie Ling*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_JUL_SEP2024_EmilyofEmeraldHill.pdf)
 
 
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/sentosa-mount-faber-cable-cars/">30 Years of the Great Singapore Workout</a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/great-singapore-workout/">30 Years of the Great Singapore Workout</a><br>
 Launched in 1993, the Great Singapore Workout helped spread the message that being physically active was important. *Lim Tin Seng*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_JUL_SEP2024_CableCar.pdf)
 
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/singapore-malaysia-johor-causeway/">Animals, Anxieties and Aspirations: The Earlier Years of the Singapore Zoo</a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/singapore-zoo-animals/">Animals, Anxieties and Aspirations: The Earlier Years of the Singapore Zoo</a><br>
 The zoo had to overcome major setbacks in its formative years. *Choo Ruizhi*.
 [(PDF)](/files/pdf/Vol%2020/BiblioAsia_JUL_SEP2024_Causeway.pdf)
 
 
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/singapore-boxing-battling-key-yeo-choon-song/">At Wat Ananda, Thai Buddhism with a Singaporean Twist </a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/wat-ananda-metyarama-thai-buddhist-temple/">At Wat Ananda, Thai Buddhism with a Singaporean Twist </a><br>
 The golden stupa and ornate roofs indicate that this is a Thai Buddhist temple. The Singaporean influences, though, are not hard to spot. *Thammika Songkaeo*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_JUL_SEP2024_GlovedGods.pdf)
 
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/charles-darwin-library/">Singapore’s Pioneer Cartoonists </a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/singapore-pioneer-cartoonists/">Singapore’s Pioneer Cartoonists </a><br>
 Many of the early cartoonists were ideologically motivated and their drawings aimed to bring about social and political change. *CT Lim*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_JUL_SEP2024_Darwin.pdf)
 
 
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/history-ice-making-singapore/">Remembering the Hawkins Road Refugee Camp</a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/hawkins-road-refugee-camp/">Remembering the Hawkins Road Refugee Camp</a><br>
 A temporary home for Vietnamese refugees, the Hawkins Road camp received thousands of “boat people” over nearly two decades. *Rebecca Tan*.
 [(PDF)](/files/pdf/Vol%2020/BiblioAsia_JUL_SEP2024_IceMaking.pdf)
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/singapore-hokkien-huay-kuan-tian-hock-keng-temple/">The Singapore Hokkien Huay Kuan Collection: A Treasure Trove of Information About a Unique Institution  </a><br>
-Materials donated by the Singapore Hokkien Huay Kuan offer unique perspectives into the history of the Hokkien community here. *Ang Seow Leng and Seow Peck Ngiam*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_JUL_SEP2024_HokkienHuayKuanCollection.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/armenians-church-saint-gregory/">Singapore’s Armenian Church Survived Close to 180 Years. Singapore’s Original Armenian Community Did Not </a><br>
+Singapore’s Persian Armenian community barely survived the war. Then came the demographic collapse. *Alvin Tan*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_JUL_SEP2024_HokkienHuayKuanCollection.pdf)
 
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/asfiah-abdullah-cookbook/">Cikgu Asfiah Abdullah: A Cultural Luminary </a><br>
-*Hidangan Warisan Kita* allowed Hajah Asfiah to achieve her dream of preserving traditional Malay recipes for posterity. *Toffa Abdul Wahed*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_JUL_SEP2024_Asfiah.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/laws-of-our-land/">Laws of Our Land: Foundations of a New Nation </a><br>
+The Singapore Citizenship Ordinance (1957), the Women’s Charter (1961) and the Employment Act (1968) have shaped modern Singapore.  *Kevin Khoo, Mark Wong and Fiona Tan*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_JUL_SEP2024_Asfiah.pdf)
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/men-surrender-singapore-japanese-occupation/">The Other Men Who Surrendered Singapore </a><br>
-The finger has often been pointed at Arthur E. Percival for the decision to surrender on 15 February 1942. However, he did not make the decision alone. *Phan Ming Yen*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_JUL_SEP2024_MenWhoSurrenderedSingapore.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/rajaratnam-biography-lions-roar/">S. Rajaratnam: The Lion’s Roar</a><br>
+The second volume of S. Rajaratnam’s authorised biography – <i>The Lion’s Roar</i> – was launched in July 2024. The journalist-turned-politician was a critical figure in Singapore’s early years. *Irene Ng*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_JUL_SEP2024_MenWhoSurrenderedSingapore.pdf)
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/singapore-journalist-newspaper-rb-ooi/">Pioneering Local Journalist R.B. Ooi</a><br>
-As a reporter and editor, R.B. Ooi had numerous close brushes with death. *Linda Lim*.
+<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/phan-kim-sam-thye-seng/">The Search for a “Lost” Towkay of Malaya</a><br>
+A man looks at his grandfather with new eyes after a mysterious envelope is found in an old workman’s outfit that was about to be thrown away. *Phan Ming Yen*.
 [(PDF)](/files/pdf/Vol%2020/BiblioAsia_JUL_SEP2024_RBOoi.pdf)
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/new-books-singapore-history/">New Books on Singapore History</a><br>
-*An Unfinished Canvas, Singaporean Creatures* and *Knowing Singapore* are some of the new books available   at the National Library. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_JUL_SEP2024_NewBooks.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/new-books-on-singapore-history/">New Books on Singapore History</a><br>
+*Singapore’s Orchid Diplomacy*, *The Great Port Cities of Asia* and *Dakota* 达哥打 are some of the new books available at the National Library.  [(PDF)](/files/pdf/Vol%2020/BiblioAsia_JUL_SEP2024_NewBooks.pdf)
