@@ -14,10 +14,6 @@ variant: markdown
 <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/colour-tv-history-singapore/">The Awakening of the Modern Television Era: 50 Years of Colour TV in Singapore</a><br>
 People weren’t particularly interested in upgrading their black-and-white TVs to colour TVs. Then came the World Cup. *Mohamad Karazie and Tan Jie Ling*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_OCT_DEC2024_ColourTVs.pdf)
 
-[(PDF)](/files/pdf/Vol%2020/BiblioAsia_OCT_DEC2024_ColourTVs.pdf)
-
-[(PDF)](/files/pdf/Vol%2020/BiblioAsia_APR_JUN2024_YipYewChong_8May.pdf)
-
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/great-singapore-workout/">30 Years of the Great Singapore Workout</a><br>
 Launched in 1993, the Great Singapore Workout helped spread the message that being physically active was important. *Lim Tin Seng*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia OCT-DEC2024-GreatSGWorkout.pdf)
