@@ -18,6 +18,11 @@ Mention Hawkins Road and most people will return a blank look, even if they live
 
 The camp at 25 Hawkins Road was set up in 1978, occupying the former barracks of the British Army. The fall of Saigon in 1975 had triggered a massive exodus of Vietnamese who escaped from South Vietnam. Most fled by sea and sought refuge in neighbouring countries such as Hong Kong, Malaysia, the Philippines, Indonesia and Singapore. Referred to as the Vietnamese boat people, they numbered in the hundreds of thousands.
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol%2020%20Issue%203/Refugee/refugee_camp_compound.jpg" style="width: 80%;">
+Compound of the Hawkins Road Refugee Camp, 1986. <i>Registered Tourist Guides Association of Singapore Collection, courtesy of National Archives of Singapore.</i></div>
+
 #### **Arrival in Singapore**
 
 Singapore, being a small country, did not allow all Vietnamese refugees to come ashore. “The agreement worked out with the Singapore Government is that the camp may hold up to 1,000 people, who must be out within three months,” the _Straits Times_ reported in October 1981. Refugees were “allowed ashore only on the condition that they have been picked up by ships flying the flag of a nation which guarantees to take them if no other nation makes an offer”.[^1]
