@@ -33,6 +33,11 @@ Once a refugee was deemed eligible for the camp, a host of procedures had to be 
 
 “For the first few days, \[the refugees\] would do little but rest, eat and attempt to take in their new situation,” said the _Straits Times_. Once the refugees were more rested, they underwent interviews and had their case histories and x-rays taken. They could utilise amenities like a medical and dental clinic, as well as take up vocational training or language classes offered in the camp.[^4]
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol%2020%20Issue%203/Refugee/refugee_camp_dental_clinic.jpg" style="width: 80%;">
+The Seventh Day Adventist World Service Dental Clinic for the refugees at Hawkins Road Refugee Camp, 1986. <i>Registered Tourist Guides Association of Singapore Collection, courtesy of National Archives of Singapore.</i></div>
+
 Among those who spent time in Singapore was Chan Tho, now 70. He stayed in the camp for about three months in 1979 when he was 26. “We finally made it, we got rescued,” he recalled. “You risk your life, you make it and you say ok, I don’t have to be scared anymore.” He was resettled in the United States and later worked as a civil engineer in Kansas City, Missouri.[^5]
 
 For unaccompanied children, arrangements were made for them to live in special houses with others like them. Thao Dinh stayed in the camp from August 1981 to March 1982 when he was 11 years old and remembers that the house was crowded when he first entered. His father and three younger sisters escaped Vietnam separately and were sent to a refugee camp in Malaysia instead. He was eventually reunited with his family and they resettled in Australia where he worked as a business franchisee. The 53-year-old currently lives in Brisbane.[^6]
