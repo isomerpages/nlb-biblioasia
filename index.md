@@ -9,13 +9,14 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-20/issue-3/oct-dec-2024/rajaratnam-biography-lions-roar/
-      button: "S. Rajaratnam: The Lion’s Roar"
+      url: /vol-20/issue-2/jul-sep-2024/singapore-hokkien-huay-kuan-tian-hock-keng-temple/
+      button: "The Singapore Hokkien Huay Kuan Collection: A Treasure Trove of
+        Information"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 20 Issue 3/Rajaratnam/HeroImage_rajaratnam.jpg
+      background: /images/Vol 20 Issue 2/Hokkien/HeroImage_hokkien_.jpg
   - infopic:
       title: Have Your Say
       subtitle: Readership Survey
@@ -24,6 +25,16 @@ sections:
       button: Count Me In
       url: https://go.gov.sg/web-survey
       image: /images/edm_strip_survey_homepage.jpg
+      alt: Image alt text
+  - infopic:
+      title: Remembering the Hawkins Road Refugee Camp
+      subtitle: More Places and Buildings
+      id: infopic
+      description: A temporary home for Vietnamese refugees, the Hawkins Road camp
+        received thousands of “boat people” over nearly two decades.
+      button: A SAFE REFUGE
+      url: /vol-20/issue-3/oct-dec-2024/hawkins-road-refugee-camp/
+      image: /images/Vol 20 Issue 3/Refugee/hawkins_refugee_camp_topics.jpg
       alt: Image alt text
   - infopic:
       title: "Laws of Our Land: Foundations of a New Nation"

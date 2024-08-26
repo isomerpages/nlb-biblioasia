@@ -18,6 +18,11 @@ Mention Hawkins Road and most people will return a blank look, even if they live
 
 The camp at 25 Hawkins Road was set up in 1978, occupying the former barracks of the British Army. The fall of Saigon in 1975 had triggered a massive exodus of Vietnamese who escaped from South Vietnam. Most fled by sea and sought refuge in neighbouring countries such as Hong Kong, Malaysia, the Philippines, Indonesia and Singapore. Referred to as the Vietnamese boat people, they numbered in the hundreds of thousands.
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol%2020%20Issue%203/Refugee/refugee_camp_compound.jpg" style="width: 80%;">
+Compound of the Hawkins Road Refugee Camp, 1986. <i>Registered Tourist Guides Association of Singapore Collection, courtesy of National Archives of Singapore.</i></div>
+
 #### **Arrival in Singapore**
 
 Singapore, being a small country, did not allow all Vietnamese refugees to come ashore. “The agreement worked out with the Singapore Government is that the camp may hold up to 1,000 people, who must be out within three months,” the _Straits Times_ reported in October 1981. Refugees were “allowed ashore only on the condition that they have been picked up by ships flying the flag of a nation which guarantees to take them if no other nation makes an offer”.[^1]
@@ -27,6 +32,11 @@ At the Raffles Girls’ School speech day in August 1997, then Deputy Prime Mini
 Once a refugee was deemed eligible for the camp, a host of procedures had to be followed. Staffers from the United Nations High Commissioner for Refugees (UNHCR) would proceed to the harbour. The refugees would first undergo a health examination, receive vaccinations and be sent to the hospital if needed. It could take as long as “seven hours after coming in to port” before the refugees were welcomed into the camp. Upon entry, they would receive bowls of hot noodle soup as well as welcome packs containing blankets, sleeping mats and cooking pots.[^3]
 
 “For the first few days, \[the refugees\] would do little but rest, eat and attempt to take in their new situation,” said the _Straits Times_. Once the refugees were more rested, they underwent interviews and had their case histories and x-rays taken. They could utilise amenities like a medical and dental clinic, as well as take up vocational training or language classes offered in the camp.[^4]
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol%2020%20Issue%203/Refugee/refugee_camp_dental_clinic.jpg" style="width: 80%;">
+The Seventh Day Adventist World Service Dental Clinic for the refugees at Hawkins Road Refugee Camp, 1986. <i>Registered Tourist Guides Association of Singapore Collection, courtesy of National Archives of Singapore.</i></div>
 
 Among those who spent time in Singapore was Chan Tho, now 70. He stayed in the camp for about three months in 1979 when he was 26. “We finally made it, we got rescued,” he recalled. “You risk your life, you make it and you say ok, I don’t have to be scared anymore.” He was resettled in the United States and later worked as a civil engineer in Kansas City, Missouri.[^5]
 
