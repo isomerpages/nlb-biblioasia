@@ -9,13 +9,14 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-20/issue-3/oct-dec-2024/rajaratnam-biography-lions-roar/
-      button: "S. Rajaratnam: The Lion’s Roar"
+      url: /vol-20/issue-2/jul-sep-2024/singapore-hokkien-huay-kuan-tian-hock-keng-temple/
+      button: "The Singapore Hokkien Huay Kuan Collection: A Treasure Trove of
+        Information"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 20 Issue 3/Rajaratnam/HeroImage_rajaratnam.jpg
+      background: /images/Vol 20 Issue 2/Hokkien/HeroImage_hokkien_.jpg
   - infopic:
       title: Have Your Say
       subtitle: Readership Survey
