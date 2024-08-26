@@ -5,6 +5,13 @@ description: ""
 third_nav_title: Places and Buildings
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/hawkins-road-refugee-camp/">Remembering the Hawkins Road Refugee Camp</a>
+
+A temporary home for Vietnamese refugees, the Hawkins Road camp received thousands of “boat people” over nearly two decades.
+
+<img src="/images/Vol%2020%20Issue%203/Refugee/hawkins_refugee_camp_topics.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/singapore-malaysia-johor-causeway">The Making of the Causeway</a>
 
 The Causeway was built 100 years ago, being the largest engineering project to be undertaken in Malaya. 
@@ -274,4 +281,3 @@ The SVC was the precursor of the first organised military service in Singapore a
 
 <img src="/images/Vol-12-issue-2/singapore-volunteer-corps/01-volunteercorps.jpg" style="width:80%;">
 <hr>
-
