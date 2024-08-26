@@ -1225,4 +1225,14 @@ sections:
       url: https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08
       alt: Greeting Card
       image: /images/Hari Raya Cards/hari raya greeting card.jpg
+  - infopic:
+      title: Remembering the Hawkins Road Refugee Camp
+      subtitle: More Places and Buildings
+      id: infopic
+      description: A temporary home for Vietnamese refugees, the Hawkins Road camp
+        received thousands of “boat people” over nearly two decades.
+      button: A SAFE REFUGE
+      url: /vol-20/issue-3/oct-dec-2024/hawkins-road-refugee-camp/
+      image: /images/Vol 20 Issue 3/Refugee/hawkins_refugee_camp_topics.jpg
+      alt: Image alt text
 ---
