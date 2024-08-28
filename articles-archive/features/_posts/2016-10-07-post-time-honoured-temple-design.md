@@ -4,6 +4,7 @@ date: 2016-10-07
 permalink: /vol-12/issue-3/oct-dec-2016/time-honoured-temple/
 image: /images/Vol-12-issue-3/time-honoured-temple-design/02_temple_design.jpg
 layout: post
+variant: markdown
 ---
 #### Sri Mariamman Temple is Singapore’s oldest Hindu shrine. **Anasuya Soundararajan** and **Sri Asrina Tanuri** describe the architectural features of this landmark.
 
@@ -94,7 +95,7 @@ The entire temple complex is surrounded by a high boundary wall surmounted by fi
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba"><b>TEMPLE MILESTONES</b>
 <br><br>
-<b>1827</b> - Opens as a small wood-and-*attap* structure.
+	<b>1827</b> - Opens as a small wood-and-<i>attap</i> structure.
 <br><br>
 	<b>1843</b> - Brick building replaces the wood-and-<i>attap</i> structure.
 <br><br>
@@ -138,7 +139,7 @@ The entire temple complex is surrounded by a high boundary wall surmounted by fi
 [^6]:Uma Devi, G. (2009). *[Resonance: Songs of our forefathers](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13236488)* (p. 49). Singapore: Preservation of Monuments Board. Call no.: RSING 725.94095957 RES
 [^7]:Sanmugam, E., et al. (Eds.). (2009). *[Sacred sanctuary: The Sri Mariamman Temple](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201018233)* (p. 10). Singapore: Sri Mariamman Temple. Call no.: RSING 294.535095957 SAC
 [^8]:[Sanmugam](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201018233), 2009, p. 10
-[^9]:Lee, G. B. (2002). *[The religious monuments of Singapore: Faiths of our forefathers](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11471938)* (p. 72). *Singapore: Preservation of Monuments Board & Landmark Books.* Call no.: RSING 726.095957 LEE; Ong, C. S. (1971, September 11). [Discovering Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19710911-1.2.47.1.aspx). *The New Nation*, p. 7. Retrieved from NewspaperSG.
+[^9]:Lee, G. B. (2002). *[The religious monuments of Singapore: Faiths of our forefathers](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11471938)* (p. 72). *Singapore: Preservation of Monuments Board &amp; Landmark Books.* Call no.: RSING 726.095957 LEE; Ong, C. S. (1971, September 11). [Discovering Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19710911-1.2.47.1.aspx). *The New Nation*, p. 7. Retrieved from NewspaperSG.
 [^10]:[Lee](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11471938), 2002, p. 72; *[The New Nation](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19710911-1.2.47.1.aspx)*, 11 Sep 1971.
 [^11]:The term “kling” or “keling”, first mentioned in the *Sejarah Melayu or Malay Annals* written between the 15th and 16th centuries, was used in colonial Malaya to describe people from the Indian subcontinent. Over time, the term has taken on derogatory connotations and is today regarded by Indians as offensive.
 [^12]:[Uma Devi](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13236488), 2009, p. 49.
