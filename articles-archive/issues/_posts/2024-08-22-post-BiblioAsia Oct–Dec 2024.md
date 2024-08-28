@@ -1,6 +1,6 @@
 ---
 title: BiblioAsia Oct–Dec 2024
-permalink: /biblioasia-oct-dec-2024/
+permalink: /vol-20/issue-3/oct-dec-2024/
 date: 2024-08-22
 layout: post
 description: ""
@@ -9,7 +9,7 @@ variant: markdown
 ---
 <img src="/images/Vol%2020%20Issue%203/vol203cover.jpg">
 
-<a style="text-decoration: none; font-weight: bold;" href="/director-s-note/">Director's Note</a>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/director-note/">Director's Note</a>
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/colour-tv-history-singapore/">The Awakening of the Modern Television Era: 50 Years of Colour TV in Singapore</a><br>
 People weren’t particularly interested in upgrading their black-and-white TVs to colour TVs. Then came the World Cup. *Mohamad Karazie and Tan Jie Ling*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_OCT_DEC2024_ColourTVs.pdf)
