@@ -68,8 +68,10 @@ As factories traditionally sold ice in large blocks, consumers who required smal
 
 There were many of such small-time ice sellers in the 1950s and 1960s, but the numbers had dwindled by the 1980s. “There used to be three of us selling ice all within sight of one another. But that was in the fifties and sixties when Bukit Timah Road at the seventh mile was packed with drink carts,” ice seller Lim Lian Heng, 71, told the <i>New Nation</i> in 1980. “It’s [now] almost impossible for anyone to want to do such work. How many young men want to lug 70 katis of freezing ice with their bare arms 30 to 40 times a day?”[^21]
 
-![](/images/Vol%2020%20Issue%202/IceMaking/image5.jpg)
-<div style="background-color: white;">An Indian ice seller, 1900s. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol%2020%20Issue%202/IceMaking/ice_kacang_stall.jpg" style="width: 80%;">
+An Indian ice seller, 1900s. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
 
 Ice manufacturing was a very competitive business though. Even before Cold Storage opened its plant in 1916, there were already five ice factories in Singapore: Straits Ice Company (arguably the largest factory then), New Singapore Ice Works, Kallang Ice Works, Singapore Ice Factory and Chan Ngo Bee Ice Factory.[^22] By the 1920s, the industry had consolidated into three main players: New Singapore Ice Works, Cold Storage and Atlas Ice Company of Malacca, which opened in 1925.[^23]
 
@@ -86,7 +88,7 @@ Ice was such an integral component of the fishing industry that when local ice f
 In a joint letter issued by the Singapore Fish Merchants’ Association and Singapore Wholesale Merchants’ Association, they wrote that “we have now decided that it will no longer be possible to bring into Singapore second and third grade fish, for fear of incurring financial losses”. The ice manufacturers backed down, at least, at that point.[^30] Over time though, the price of ice continued to climb – reaching $34.20 per ton in June 1979 – impacting the cost of fish for residents.[^31]
 
 ![](/images/Vol%2020%20Issue%202/IceMaking/image6.jpg)
-<div style="background-color: white;">Workers loading large ice blocks, meant for fishing companies, onto a lorry using sharp hooks, 1960s. The ice helped to keep catches fresh while out at sea <i>Primary Production Department Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;">Workers loading large ice blocks, meant for fishing companies, onto a lorry using sharp hooks, 1960s. The ice helped to keep catches fresh while out at sea. <i>Primary Production Department Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **A Cool Business**
 
