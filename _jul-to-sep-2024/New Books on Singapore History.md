@@ -6,7 +6,7 @@ description: ""
 ---
 #### **[An Unfinished Canvas: Life of Koh Seow Chuan](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300029371)**
 
-By Tai Ho Woon
+By Woon Tai Ho
 
 World Scientific Publishing (2024), 352 pages <br>
 Call no.: RSING 720.92 WOO
