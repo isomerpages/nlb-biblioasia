@@ -177,7 +177,7 @@ Over the last five decades, Sentosa’s cable cars have established themselves a
 
 [^25]:  Yong Li Xuan, “Sentosa Cable Car Tragedy: Helicopter Co-pilot in Rescue Mission was Only 19,” _Straits Times_, 29 January 2023, https://www.straitstimes.com/singapore/sentosa-cable-car-tragedy-helicopter-co-pilot-in-rescue-mission-was-only-19.
 
-[^26]: Philip Lee, et al., “[PM Orders Full Inquiry](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19830131-1.2.5),” _Straits Times_, 31 January 1983, 1. (From NewspaperSG); Marine Department (Singapore), _Report of the Commission of Inquiry into the Collision of the Drillship Eniwetok with the Sentosa Cableway on 29 January 1983_, 1; “[The Straits Times Says Thundering But Fair Report](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19840116-1.2.28),” _Straits Times_, 16 January 1984, 16. (From NewspaperSG)
+[^26]: Philip Lee, et al., “[PM Orders Full Inquiry](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19830131-1.2.5),” _Straits Times_, 31 January 1983, 1. (From NewspaperSG); Marine Department (Singapore), [_Report of the Commission of Inquiry into the Collision of the Drillship Eniwetok with the Sentosa Cableway on 29 January 1983_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=cc879855-d090-42b3-95e6-14119d5375ed), 1; “[The Straits Times Says Thundering But Fair Report](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19840116-1.2.28),” _Straits Times_, 16 January 1984, 16. (From NewspaperSG)
 
 [^27]:  Tsang So-Yin, “[Cable Cars Roll Again](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19830816-1.2.5),” _Straits Times_, 16 August 1983, 1. (From NewspaperSG)
 
