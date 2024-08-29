@@ -88,7 +88,7 @@ Ice was such an integral component of the fishing industry that when local ice f
 In a joint letter issued by the Singapore Fish Merchants’ Association and Singapore Wholesale Merchants’ Association, they wrote that “we have now decided that it will no longer be possible to bring into Singapore second and third grade fish, for fear of incurring financial losses”. The ice manufacturers backed down, at least, at that point.[^30] Over time though, the price of ice continued to climb – reaching $34.20 per ton in June 1979 – impacting the cost of fish for residents.[^31]
 
 ![](/images/Vol%2020%20Issue%202/IceMaking/image6.jpg)
-<div style="background-color: white;">Workers loading large ice blocks, meant for fishing companies, onto a lorry using sharp hooks, 1960s. The ice helped to keep catches fresh while out at sea <i>Primary Production Department Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;">Workers loading large ice blocks, meant for fishing companies, onto a lorry using sharp hooks, 1960s. The ice helped to keep catches fresh while out at sea. <i>Primary Production Department Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **A Cool Business**
 
