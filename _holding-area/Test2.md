@@ -90,3 +90,7 @@ Hyperlink here: (see coding below)
 
 #### **Create oval Author's photo**
 <img style="width:auto;height:110px;margin-bottom:-30px; border-radius:100%; box-shadow: 2px 3px 1px #424242;" src="/images/Authors/Samuel%20Sng.jpg">
+
+
+#### **Create oval Author's photo**
+<img style="width:auto;height:110px;margin-bottom:-30px; border-radius:100%; box-shadow: 2px 3px 1px #424242;" src="/images/Authors/Samuel%20Sng.jpg">

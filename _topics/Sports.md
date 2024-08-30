@@ -4,7 +4,7 @@ permalink: /topics/sports/
 description: ""
 variant: markdown
 ---
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/great-singapore-workout/">30 Years of The Great Singapore Workout</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/great-singapore-workout/">30 Years of the Great Singapore Workout</a>
 
 Launched in 1993, the Great Singapore Workout helped spread the message that being physically active was important.
 
