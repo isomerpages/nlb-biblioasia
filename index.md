@@ -172,7 +172,7 @@ sections:
       image: "/images/Videos: BiblioAsia Reels/Letterpress_standfirst.png"
       alt: Image alt text
   - infopic:
-      title: 30 Years of The Great Singapore Workout
+      title: 30 Years of the Great Singapore Workout
       subtitle: Sports
       id: infopic
       description: Launched in 1993, the Great Singapore Workout helped spread the
