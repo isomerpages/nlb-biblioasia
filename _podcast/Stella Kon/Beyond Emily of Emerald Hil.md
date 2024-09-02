@@ -49,9 +49,38 @@ and other plays, and librettos for several musicals with composer Desmond
 Moey. In 2006 she helped to found the arts charity Musical Theatre Ltd,
 and was its chairperson for 14 years.</p>
 <p></p>
-<h4><strong>Resources</strong></h4>
-<p>Stella Kon,</p>
+<h4></h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About the Guest</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Resources</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Credits</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh
+Gek Han. Sound engineering was done by One Dash. The background music "Di
+Tanjong Katong" was composed by Osman Ahmad and performed by&nbsp;<a href="https://www.youtube.com/watch?v=uA2v7ka5TAI" rel="noopener noreferrer nofollow" target="_blank"><u>Chords Haven</u></a>.
+Special thanks to Stella for coming on the show.</p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>About the Podcast</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>BiblioAsia+ is a podcast about Singapore history by the National Library
+of Singapore.</p>
+</div>
+</details>
+</div>
 <h4><strong>Credits</strong></h4>
 <p>This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh
 Gek Han. Sound engineering was done by One Dash. The background music "Di
@@ -59,6 +88,5 @@ Tanjong Katong" was composed by Osman Ahmad and performed by&nbsp;<a href="https
 Special thanks to Stella for coming on the show.</p>
 <p>BiblioAsia+ is a podcast about Singapore history by the National Library
 of Singapore.
-<br>
 <br>
 </p>
