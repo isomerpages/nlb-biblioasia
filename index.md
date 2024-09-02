@@ -27,6 +27,17 @@ sections:
       image: /images/edm_strip_survey_homepage.jpg
       alt: Image alt text
   - infopic:
+      title: "Remembering AGS Danaraj: Pioneer Town Planner & News Reader"
+      subtitle: People
+      id: infopic
+      description: The former newsreader AGS Danaraj was also a pioneering town
+        planner, who always made time to help the less fortunate.
+      button: A colourful life
+      url: /people/2024/8/ags-danaraj-town-planner-radio-broadcast-news-reader/
+      image: /images/Online Only Articles/Remembering AGS
+        Danaraj/topics_in_recording_studio.png
+      alt: Image alt text
+  - infopic:
       title: Remembering the Hawkins Road Refugee Camp
       subtitle: More Places and Buildings
       id: infopic
@@ -1236,15 +1247,4 @@ sections:
       url: https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08
       alt: Greeting Card
       image: /images/Hari Raya Cards/hari raya greeting card.jpg
-  - infopic:
-      title: "Remembering AGS Danaraj: Pioneer Town Planner & News Reader"
-      subtitle: People
-      id: infopic
-      description: The former newsreader AGS Danaraj was also a pioneering town
-        planner, who always made time to help the less fortunate.
-      button: A colourful life
-      url: /people/2024/8/ags-danaraj-town-planner-radio-broadcast-news-reader/
-      image: /images/Online Only Articles/Remembering AGS
-        Danaraj/topics_in_recording_studio.png
-      alt: Image alt text
 ---
