@@ -5,6 +5,13 @@ description: ""
 third_nav_title: People
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/people/2024/8/ags-danaraj-town-planner-radio-broadcast-news-reader/">Remembering AGS Danaraj: Pioneer Town Planner and News Reader</a>
+
+The former newsreader AGS Danaraj was also a pioneering town planner, who always made time to help the less fortunate.
+
+<img src="/images/Online%20Only%20Articles/Remembering%20AGS%20Danaraj/topics_in_recording_studio.png" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/singapore-pioneer-cartoonists/">Singapore’s Pioneer Cartoonists</a>
  <p>Cartoons today may be seen as kids’ stuff but many of the early cartoonists were ideologically motivated, and they drew cartoons to bring about social and political change.</p> 
 <img src="/images/Vol%2020%20Issue%203/Cartoonist/comic.jpg">
