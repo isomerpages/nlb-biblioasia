@@ -56,7 +56,14 @@ and was its chairperson for 14 years.</p>
 <details class="isomer-details">
 <summary>Resources</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Stella Kon, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=206064640" rel="noopener noreferrer" target="_blank"><u>4 Pax to Emptiness</u></a></em> (Singapore:
+Penguin Random House SEA, 2023).
+<br>
+<br>Stella Kon, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=5314894" rel="noopener nofollow" target="_blank">Emily of Emerald Hill: A Monodrama</a> </em>(London:
+Macmillan Publishers, 1989).</p>
 <p></p>
+<p>Eriko Ogihara-Schuck, "<a href="https://biblioasia.nlb.gov.sg/vol-20/issue-2/jul-sep-2024/emily-of-emerald-hill-stella-kon/" rel="noopener nofollow" target="_blank">From Betty of Balmoral Road to Emily of Emerald Hill: A New Look At Stella Kon’s Classic Play</a>," <em>BiblioAsia </em>20,
+no. 2 (July–September 2024).</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -77,6 +84,16 @@ of Singapore.</p>
 </div>
 </details>
 </div>
+<p></p>
+<h4><strong>Resources</strong></h4>
+<p>Stella Kon, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=206064640" rel="noopener noreferrer" target="_blank"><u>4 Pax to Emptiness</u></a></em> (Singapore:
+Penguin Random House SEA, 2023).
+<br>
+<br>Stella Kon, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=5314894" rel="noopener nofollow" target="_blank">Emily of Emerald Hill: A Monodrama</a> </em>(London:
+Macmillan Publishers, 1989).</p>
+<p>
+<br>Eriko Ogihara-Schuck, "<a href="https://biblioasia.nlb.gov.sg/vol-20/issue-2/jul-sep-2024/emily-of-emerald-hill-stella-kon/" rel="noopener nofollow" target="_blank">From Betty of Balmoral Road to Emily of Emerald Hill: A New Look At Stella Kon’s Classic Play</a>," <em>BiblioAsia </em>20,
+no. 2 (July–September 2024).</p>
 <p></p>
 <h4><strong>About the Guest</strong></h4>
 <p>Stella Kon’s best-known work is the monodrama <em>Emily of Emerald Hill</em>,
