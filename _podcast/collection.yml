@@ -2,6 +2,9 @@ collections:
   podcast:
     output: true
     order:
+      - Stella Kon/Beyond Emily of Emerald Hill.md
+      - Stella Kon/Transcript.md
+      - Stella Kon/.keep
       - Eurasian Cuisine/.keep
       - Eurasian Cuisine/Seaside Foraging and Eurasian Cuisine.md
       - Eurasian Cuisine/Transcript.md

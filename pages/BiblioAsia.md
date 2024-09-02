@@ -14,6 +14,21 @@ boxing superstar?</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Podcast/ad_banner_biblioasia.jpg">
 </div>
 <p></p>
+<h4><strong>Season 3</strong></h4>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/stella-kon-beyond-emily-of-emerald-hill/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Stella Kon: Beyond Emily of Emerald Hill" src="/images/Podcast/Stella_600_400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Stella Kon: Beyond Emily of Emerald Hill</div><div class="isomer-card-description">Stella Kon is known for creating the beloved Emily of Emerald Hill – possibly the most frequently staged play in Singapore. Also a musical theatre writer, Stella talks about the difference between writing plays and musicals, her favourite actor who played Emily, and her writing process.</div><div class="isomer-card-link">Listen to the episode</div></div></a>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="S. Rajaratnam: The Lion's Roar" src="/images/Podcast/Irene_600_400.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">S. Rajaratnam: The Lion's Roar</div>
+<div class="isomer-card-description">Coming soon</div>
+</div>
+</div>
+</div>
+<p></p>
 <h4><strong>Season 2</strong></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/sea-foraging-eurasian-cuisine/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Seaside Foraging and Eurasian Cuisine" src="/images/Podcast/damian_600_400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Seaside Foraging and Eurasian Cuisine</div><div class="isomer-card-description">MasterChef Singapore judge Damian D’Silva talks about how his childhood and grandfather influenced his cooking philosophy, when he found his calling in the kitchen (later than you'd expect), and what's left for him after winning the prestigious culinary award La Liste.</div><div class="isomer-card-link">Listen to the episode</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/food-peranakan-indians/" class="isomer-card">
