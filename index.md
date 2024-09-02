@@ -9,14 +9,14 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-20/issue-2/jul-sep-2024/singapore-hokkien-huay-kuan-tian-hock-keng-temple/
-      button: "The Singapore Hokkien Huay Kuan Collection: A Treasure Trove of
-        Information"
+      url: /culture/2024/6/dragon-dance-chinese-temple-vanishing-trade/
+      button: Fire Dragon Blazes Trail for Cantonese Temple in Geylang
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 20 Issue 2/Hokkien/HeroImage_hokkien_.jpg
+      background: /images/Online Only Articles/Cantonese Fire
+        Dragon/hero_image_fire_dragon.jpg
   - infopic:
       title: Have Your Say
       subtitle: Readership Survey
@@ -25,6 +25,17 @@ sections:
       button: Count Me In
       url: https://go.gov.sg/web-survey
       image: /images/edm_strip_survey_homepage.jpg
+      alt: Image alt text
+  - infopic:
+      title: "Remembering AGS Danaraj: Pioneer Town Planner & News Reader"
+      subtitle: People
+      id: infopic
+      description: The former newsreader AGS Danaraj was also a pioneering town
+        planner, who always made time to help the less fortunate.
+      button: A colourful life
+      url: /people/2024/8/ags-danaraj-town-planner-radio-broadcast-news-reader/
+      image: /images/Online Only Articles/Remembering AGS
+        Danaraj/topics_in_recording_studio.png
       alt: Image alt text
   - infopic:
       title: Remembering the Hawkins Road Refugee Camp
