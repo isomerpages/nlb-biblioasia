@@ -49,7 +49,8 @@ and other plays, and librettos for several musicals with composer Desmond
 Moey. In 2006 she helped to found the arts charity Musical Theatre Ltd,
 and was its chairperson for 14 years.</p>
 <p></p>
-<p>Resources</p>
+<h4><strong>Resources</strong></h4>
+<p>Stella Kon,</p>
 <p></p>
 <h4><strong>Credits</strong></h4>
 <p>This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh
