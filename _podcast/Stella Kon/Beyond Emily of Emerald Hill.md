@@ -19,27 +19,24 @@ get notified when the next episode drops.</p>
 <p></p>
 <h4><strong>What Stella Talked About</strong></h4>
 <p>02:15 – How Stella felt watching the first version of the play&nbsp;<em>Emily of Emerald Hill</em>&nbsp;come
-to life</p>
-<p>04:13 – Why the character of Emily resonated with many and inspired countless
-adaptations</p>
-<p>05:25 – Her favourite portrayal of Emily</p>
-<p>06:10 – How the play evolved <a href="https://biblioasia.nlb.gov.sg/vol-20/issue-2/jul-sep-2024/emily-of-emerald-hill-stella-kon/" rel="noopener noreferrer" target="_blank"><u>from draft to final product</u></a>&nbsp;</p>
-<p>07:07 – About creating&nbsp;<em>Emily the Musical</em>
-</p>
-<p>08:26 – How Stella wrote “Love Was All I Wanted” for&nbsp;<em>Emily the Musical</em>
-</p>
-<p>09:19 – What draws Stella to the musical genre</p>
-<p>11:21 – Her musical&nbsp;<em>Lim Boon Keng</em>, which is based on the
-life of her great–grandfather&nbsp;</p>
-<p>13:03 – Her new novel,&nbsp;<em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=206064640" rel="noopener noreferrer" target="_blank"><u>4 Pax to Emptiness</u></a></em>
-</p>
-<p>14:37 – Common themes in her work</p>
-<p>16:33 – Her writing process, practices and rituals</p>
-<p>18:45 – Her writing influences</p>
-<p>20:10 – What’s next for Stella Kon</p>
-<p>20:49 – Her advice to writers</p>
-<p>22:17 – Writing is…</p>
-<p>22:39 – Stella’s proudest moments</p>
+to life
+<br>04:13 – Why the character of Emily resonated with many and inspired countless
+adaptations
+<br>05:25 – Her favourite portrayal of Emily
+<br>06:10 – How the play evolved <a href="https://biblioasia.nlb.gov.sg/vol-20/issue-2/jul-sep-2024/emily-of-emerald-hill-stella-kon/" rel="noopener noreferrer" target="_blank"><u>from draft to final product</u></a>&nbsp;
+<br>07:07 – About creating&nbsp;<em>Emily the Musical</em>
+<br>08:26 – How Stella wrote “Love Was All I Wanted” for&nbsp;<em>Emily the Musical</em>
+<br>09:19 – What draws Stella to the musical genre
+<br>11:21 – Her musical&nbsp;<em>Lim Boon Keng</em>, which is based on the
+life of her great–grandfather&nbsp;
+<br>13:03 – Her new novel,&nbsp;<em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=206064640" rel="noopener noreferrer" target="_blank"><u>4 Pax to Emptiness</u></a></em>
+<br>14:37 – Common themes in her work
+<br>16:33 – Her writing process, practices and rituals
+<br>18:45 – Her writing influences
+<br>20:10 – What’s next for Stella Kon
+<br>20:49 – Her advice to writers
+<br>22:17 – Writing is…
+<br>22:39 – Stella’s proudest moments</p>
 <h4></h4>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -60,8 +57,9 @@ and was its chairperson for 14 years.</p>
 Penguin Random House SEA, 2023).
 <br>
 <br>Stella Kon, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=5314894" rel="noopener nofollow" target="_blank">Emily of Emerald Hill: A Monodrama</a> </em>(London:
-Macmillan Publishers, 1989).</p>
-<p></p>
+Macmillan Publishers, 1989).
+<br>
+</p>
 <p>Eriko Ogihara-Schuck, "<a href="https://biblioasia.nlb.gov.sg/vol-20/issue-2/jul-sep-2024/emily-of-emerald-hill-stella-kon/" rel="noopener nofollow" target="_blank">From Betty of Balmoral Road to Emily of Emerald Hill: A New Look At Stella Kon’s Classic Play</a>," <em>BiblioAsia </em>20,
 no. 2 (July–September 2024).</p>
 </div>
@@ -90,8 +88,8 @@ of Singapore.</p>
 Penguin Random House SEA, 2023).
 <br>
 <br>Stella Kon, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=5314894" rel="noopener nofollow" target="_blank">Emily of Emerald Hill: A Monodrama</a> </em>(London:
-Macmillan Publishers, 1989).</p>
-<p>
+Macmillan Publishers, 1989).
+<br>
 <br>Eriko Ogihara-Schuck, "<a href="https://biblioasia.nlb.gov.sg/vol-20/issue-2/jul-sep-2024/emily-of-emerald-hill-stella-kon/" rel="noopener nofollow" target="_blank">From Betty of Balmoral Road to Emily of Emerald Hill: A New Look At Stella Kon’s Classic Play</a>," <em>BiblioAsia </em>20,
 no. 2 (July–September 2024).</p>
 <p></p>
