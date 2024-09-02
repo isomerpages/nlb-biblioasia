@@ -17,7 +17,7 @@ who played Emily, and her writing process.</p>
 <p><a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener noreferrer nofollow" target="_blank"><u>Subscribe</u></a> to
 get notified when the next episode drops.</p>
 <p></p>
-<h4><strong>What Stella Talked About  </strong></h4>
+<h4><strong>What Stella Talked About</strong></h4>
 <p>02:15 – How Stella felt watching the first version of the play&nbsp;<em>Emily of Emerald Hill</em>&nbsp;come
 to life</p>
 <p>04:13 – Why the character of Emily resonated with many and inspired countless
