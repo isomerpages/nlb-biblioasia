@@ -40,21 +40,17 @@ life of her great–grandfather&nbsp;</p>
 <p>20:49 – Her advice to writers</p>
 <p>22:17 – Writing is…</p>
 <p>22:39 – Stella’s proudest moments</p>
-<p></p>
-<h4><strong>About the Guest</strong></h4>
+<h4></h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About the Guest</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Stella Kon’s best-known work is the monodrama <em>Emily of Emerald Hill</em>,
 which appeared in 1982 and has since been performed almost a thousand times
 in Singapore, Malaysia and elsewhere. She has also written poems, novels
 and other plays, and librettos for several musicals with composer Desmond
 Moey. In 2006 she helped to found the arts charity Musical Theatre Ltd,
 and was its chairperson for 14 years.</p>
-<p></p>
-<h4></h4>
-<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
-<details class="isomer-details">
-<summary>About the Guest</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -81,12 +77,20 @@ of Singapore.</p>
 </div>
 </details>
 </div>
+<p></p>
+<h4><strong>About the Guest</strong></h4>
+<p>Stella Kon’s best-known work is the monodrama <em>Emily of Emerald Hill</em>,
+which appeared in 1982 and has since been performed almost a thousand times
+in Singapore, Malaysia and elsewhere. She has also written poems, novels
+and other plays, and librettos for several musicals with composer Desmond
+Moey. In 2006 she helped to found the arts charity Musical Theatre Ltd,
+and was its chairperson for 14 years.</p>
+<p></p>
 <h4><strong>Credits</strong></h4>
 <p>This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh
 Gek Han. Sound engineering was done by One Dash. The background music "Di
 Tanjong Katong" was composed by Osman Ahmad and performed by&nbsp;<a href="https://www.youtube.com/watch?v=uA2v7ka5TAI" rel="noopener noreferrer nofollow" target="_blank"><u>Chords Haven</u></a>.
 Special thanks to Stella for coming on the show.</p>
 <p>BiblioAsia+ is a podcast about Singapore history by the National Library
-of Singapore.
-<br>
-</p>
+of Singapore.</p>
+<p></p>
