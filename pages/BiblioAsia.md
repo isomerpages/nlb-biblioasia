@@ -15,9 +15,7 @@ boxing superstar?</p>
 </div>
 <p></p>
 <h4><strong>Season 3</strong></h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/stella-kon/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Stella Kon: Beyond Emily of Emerald Hill" src="/images/Podcast/Stella_600_400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Stella Kon: Beyond Emily of Emerald Hill</div><div class="isomer-card-description">Stella Kon is known for creating the beloved &lt;i&gt;Emily of Emerald Hill&lt;/i&gt; – possibly the most frequently staged play in Singapore. Also a musical theatre writer, Stella talks about the difference between writing plays and musicals, her favourite actor who played Emily, and her writing process.
-
-</div><div class="isomer-card-link">Listen to the episode</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/stella-kon/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Stella Kon: Beyond Emily of Emerald Hill" src="/images/Podcast/Stella_600_400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Stella Kon: Beyond Emily of Emerald Hill</div><div class="isomer-card-description">Stella Kon is known for creating the beloved &lt;i&gt;Emily of Emerald Hill&lt;/i&gt; – possibly the most frequently staged play in Singapore. Also a musical theatre writer, Stella talks about the difference between writing plays and musicals, her favourite actor who played Emily, and her writing process.</div><div class="isomer-card-link">Listen to the episode</div></div></a>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
