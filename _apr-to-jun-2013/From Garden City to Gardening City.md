@@ -4,6 +4,7 @@ permalink: /vol-9/issue-1/apr-jun-2013/garden-city-gardening/
 description: What started five decades ago as a government-led project to build
   Singapore into a clean and green city, has today become a dialogue between the
   state and its citizens.
+variant: markdown
 ---
 #### What started five decades ago as a government-led project to build Singapore into a clean and green city has today become a dialogue between the state and its citizens.
 
@@ -12,7 +13,7 @@ description: What started five decades ago as a government-led project to build
  <div style="background-color: white;">Chek Jawa wetlands located off the southeastern tip of Pulau Ubin. <i>Wikimedia Commons.</i></div>
 	
 
-A *Straits Times* photo of former Prime Minister Lee Kuan Yew launching Singapore’s first-ever tree-planting campaign in 1963 best depicts how the idea of building Singapore into a Garden City first took root. As Mr Lee bent over to dig a hole with a *changkol* to plan a Mempat tree at Farrer Circus, Singaporeans stood around and watched – none of them offering a helping hand.
+A *Straits Times* photo of former Prime Minister Lee Kuan Yew launching Singapore’s first-ever tree-planting campaign in 1963 best depicts how the idea of building Singapore into a Garden City first took root. As Mr Lee bent over to dig a hole with a *changkol* to plant a Mempat tree at Farrer Circus, Singaporeans stood around and watched – none of them offering a helping hand.
 
 <img style="width:90%;" src="/images/Vol%209%20Issue%201/Garden%20City/Annual%20Tree%20Planting%20Day.jpg">
  <div style="background-color: white;">Former Prime Minister Lee Kuan Yew planting a Yellow Flame tree on Tree Planting Day in 1971. <i>Courtesy of National Archives of Singapore.</i></div>
