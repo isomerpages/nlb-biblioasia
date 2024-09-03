@@ -29,7 +29,7 @@ a publication of the National Library of Singapore. With me in the studio
 is Stella herself. While best known for Emily of Emerald Hill, Stella has
 written something like 30 plays, at least 15 scripts for musical theatre,
 and a whole bunch of short stories and novels. In fact, her most recent
-novel is called <em>4 Pax to Emptiness</em> 
+novel is called <em>4 Pax to Emptiness</em>
 </p>
 <p><strong>Stella</strong>
 <br>Thank you for having me, Jimmy. This is very exciting.&nbsp;</p>
