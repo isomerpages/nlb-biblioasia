@@ -4,7 +4,7 @@ permalink: /sam-testing/
 variant: tiptap
 description: ""
 ---
-<h4>From Desker Road to Xilin Avenue, street signs around Singapore recall the lives of people whose stories are a part of the nation’s history.&nbsp;&nbsp;&nbsp;</h4>
+<h4><strong>From Desker Road to Xilin Avenue, street signs around Singapore recall the lives of people whose stories are a part of the nation’s history.&nbsp;&nbsp;&nbsp;</strong></h4>
 <hr>
 <p>Being in a war zone is always dangerous, even for non-combatants, as R.B.
 Ooi, the former editor for the <em>Singapore Standard</em> and the <em>Eastern Sun</em> could
