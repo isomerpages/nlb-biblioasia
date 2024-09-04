@@ -169,3 +169,27 @@ Our memories of reading are inextricably linked to the joy we derive from readin
 
 <img src="/images/Vol-12-issue-1/in-remembrance-of-reading/01_reading.jpg" style="width:80%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-3/oct-dec-2015/payitforward/">**Pay It Forward: The Tamil Digital Heritage Project**</a>
+
+**Chitra Sankaran**&nbsp;charts the history of a community-driven project that has seen the digitisation of 350 homegrown Tamil literary works.
+
+<img src="/images/Vol-11-issue-3/payitforward/TamilDigitalProj.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-3/oct-dec-2015/pintu">**Di Balik Pintu: Seksualiti di dalam Sastera Melayu**</a>
+
+This article examines the treatment of sex and sexuality in Malay literature and how these subjects are represented in both traditional and modern literary texts.
+
+<img src="/images/Vol-11-issue-3/Pintu/malayliterature.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-3/oct-dec-2015/pintu">**Di Balik Pintu: Seksualiti di dalam Sastera Melayu**</a>
+
+This article examines the treatment of sex and sexuality in Malay literature and how these subjects are represented in both traditional and modern literary texts.
+
+<img src="/images/Vol-11-issue-3/Pintu/malayliterature.jpg" style="width:80%;">
+<hr>
+
+
+
