@@ -184,12 +184,18 @@ This article examines the treatment of sex and sexuality in Malay literature and
 <img src="/images/Vol-11-issue-3/Pintu/malayliterature.jpg" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-3/oct-dec-2015/pintu">**Di Balik Pintu: Seksualiti di dalam Sastera Melayu**</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-2/jul-sep-2015/read-fest-poetry">**Poetry 101: It Does Not Have to Rhyme**</a>
 
-This article examines the treatment of sex and sexuality in Malay literature and how these subjects are represented in both traditional and modern literary texts.
+One of this year’s Read! Fest initiatives is a celebration of Singapore poetry.&nbsp;**Sharon Lim**&nbsp;tells you what to expect.
 
-<img src="/images/Vol-11-issue-3/Pintu/malayliterature.jpg" style="width:80%;">
+<img src="/images/vol-11-issue-2/poetry/background.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-2/jul-sep-2015/stories">**Stories We Can Call Our Own**</a>
+
+**Han Fook Kwang**&nbsp;shares some of his favourite stories from Singaporeans as told in&nbsp;_Living The Singapore Story_, a book commemorating the nation’s golden jubilee.
+
+<img src="/images/vol-11-issue-2/stories/sg50_bookss.jpg" style="width:80%;">
+<hr>
 
 
