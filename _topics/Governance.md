@@ -217,3 +217,10 @@ This useful index serves as the gateway to Singapore-related articles published 
 
 <img src="/images/Vol-12-issue-2/index-to-singapore-information/01-indextosingapore.jpg" style="width:100%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-3/oct-dec-2015/payitforward/">**Pay It Forward: The Tamil Digital Heritage Project**</a>
+
+**Chitra Sankaran**&nbsp;charts the history of a community-driven project that has seen the digitisation of 350 homegrown Tamil literary works.
+
+<img src="/images/Vol-11-issue-3/payitforward/TamilDigitalProj.jpg" style="width:80%;">
+
