@@ -223,4 +223,21 @@ This useful index serves as the gateway to Singapore-related articles published 
 **Chitra Sankaran**&nbsp;charts the history of a community-driven project that has seen the digitisation of 350 homegrown Tamil literary works.
 
 <img src="/images/Vol-11-issue-3/payitforward/TamilDigitalProj.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/life-stories/">**Life Stories**</a>
+
+The Singapore Memory Project launches a new exhibition to honour our pioneer generation at Woodlands Regional Library.
+
+<img src="/images/vol-11-issue-1/lifestories/nurse.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/moving-journey">**A Moving Journey: Film, Archiving and Curatorship**</a>
+
+As the Asian Film Archive celebrates its 10th anniversary,&nbsp;**Karen Chan**&nbsp;takes a look back at the genesis of the organisation, the work it does and its plans for the future.
+
+<img src="/images/vol-11-issue-1/movingjourney/OXY9173.jpg" style="width:80%;">
+<hr>
+
+
 
