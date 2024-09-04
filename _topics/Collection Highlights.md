@@ -212,3 +212,10 @@ This valuable collection at the National Library is significant for a number of 
 
 <img src="/images/Vol-12-issue-1/raffles-library-and-museum/06a_raffleslibrary.jpg" style="width:80%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-3/oct-dec-2015/sbg/">**NL Collections: Singapore Botanic Gardens**</a>
+
+<img src="/images/Vol-11-issue-3/NLcollections/SBG.jpg" style="width:80%;">
+<hr>
+
+
