@@ -29,8 +29,9 @@ a publication of the National Library of Singapore. With me in the studio
 is Stella herself. While best known for Emily of Emerald Hill, Stella has
 written something like 30 plays, at least 15 scripts for musical theatre,
 and a whole bunch of short stories and novels. In fact, her most recent
-novel is called <em>4 Pax to Emptiness</em>
-</p>
+novel is called <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=206064640" rel="noopener nofollow" target="_blank">4 Pax to Emptiness</a> </em>and
+was published by Penguin Southeast Asia in 2023. Welcome to BiblioAsia+,
+Stella. Thank you for coming on this podcast.</p>
 <p><strong>Stella</strong>
 <br>Thank you for having me, Jimmy. This is very exciting.&nbsp;</p>
 <p><strong>Jimmy</strong>
@@ -56,15 +57,15 @@ It really was. Margaret Chan came to Edinburgh. She visited me and did
 the play to an audience of the Commonwealth Festival, which means these
 are not just random off the street people, but people selected to, self-selected
 to be involved in foreign literature, foreign tropes, and so on.&nbsp;</p>
-<p>It was, for me, really marvellous. I had the opportunity then to see,
-as every playwright wants to, to see how you are affecting the audience.
-And these are people who are not like our Singapore audience, sensitised
-to the Peranakan, that they're going to laugh whenever the matriarch comes
-on stage and opens her mouth. They are really following the story. They
-are open minded to the dialect that they hear, which at that time, Margaret
-wanted to turn down the Peranakan talk. You give it to them just as it
-is, which they were, as a foreign audience, they were totally ready to
-accept. So you, I watch, I watch, will they laugh in the right places?
+<p>It was, for me, really <em>marvellous</em>. I had the opportunity then
+to see, as every playwright wants to, to see how you are affecting the
+audience. And these are people who are not like our Singapore audience,
+sensitised to the Peranakan, that they're going to laugh whenever the matriarch
+comes on stage and opens her mouth. They are really following the story.
+They are open minded to the dialect that they hear, which at that time,
+Margaret wanted to turn down the Peranakan talk. You give it to them just
+as it is, which they were, as a foreign audience, they were totally ready
+to accept. So you, I watch, I watch, will they laugh in the right places?
 Do they look very absorbed? Do they smile when they're just a small little
 joke? Do they seem to feel the sorrow and the emotion? And yes, they did.
 And that is the most satisfying thing ever for a writer of plays.&nbsp;</p>
@@ -79,7 +80,7 @@ was?&nbsp;</p>
 landscape. It has inspired at least one poem, Theodore Lim's <em>Emily of Emerald Hill</em>,
 and another play on this Emerald Hill, which is a monologue by Jonathan
 Lim.</p>
-<p>And we also have a character in <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=12794467" rel="noopener noreferrer nofollow" target="_blank">Harish Sharma's </a><em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=12794467" rel="noopener noreferrer nofollow" target="_blank">Off Centre</a></em> who
+<p>And we also have a character in<strong> </strong>Harish Sharma's <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=12794467" rel="noopener nofollow" target="_blank">Off Centre</a> </em>who
 thinks that she is Emily Gan. So, now did you have an inkling that Emily
 would become so popular? You know, why do you think it's become so beloved?&nbsp;</p>
 <p><strong>Stella</strong>
@@ -455,9 +456,7 @@ Thank you again, Stella for coming.&nbsp;</p>
 <p><strong>Jimmy</strong>
 <br>It is a pleasure and a privilege to have you. I would like to leave all
 our listeners with the very moving song from<em> Emily the Musical.</em> And
-the song is "Love was All I Wanted".and was published by Penguin Southeast
-Asia in 2023. Welcome to BiblioAsia+, Stella. Thank you for coming on this
-podcast.</p>
+the song is "Love was All I Wanted".</p>
 <p></p>
 <p></p>
 <p></p>
