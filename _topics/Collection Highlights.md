@@ -225,3 +225,19 @@ This valuable collection at the National Library is significant for a number of 
 <img src="/images/Vol-11-issue-3/wartime/lefthandrighthand.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-4/jan-march-2015/travelog-melayu">**Travelog Melayu**</a>
+
+<img src="/images/vol-10-issue-4/travelogmelayu/background.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-4/jan-march-2015/map-collection/">**Lay of the Land: The National Archives of Singapore’s Map Collection**</a>
+
+From Singapore’s days as a colony to modern times, maps have been an integral part of the nation’s development.&nbsp;**Kevin Khoo**&nbsp;highlights the National Archives of Singapore’s 10,000-strong map collection.
+
+<img src="/images/vol-10-issue-4/layoftheland/backgrounds_res.jpg" style="width:80%;">
+<hr>
+
+
+
+
+
