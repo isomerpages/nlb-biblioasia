@@ -203,3 +203,10 @@ One of this year’s Read! Fest initiatives is a celebration of Singapore poetry
 <img src="/images/vol-10-issue-4/travelogmelayu/background.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-4/jan-march-2015/on-the-trail">**On the Trail of Francis P. Ng: Author of F.M.S.R.**</a>
+
+In her effort to republish one of our unknown literary treasures,&nbsp;**Dr Eriko Ogihara-Schuck**&nbsp;tracks down the elusive Francis P. Ng, author of possibly the first notable work of poetry in English by a Singapore writer.
+
+<img src="/images/vol-10-issue-4/francispng/FMSR_train.jpg" style="width:80%;">
+<hr>
+
