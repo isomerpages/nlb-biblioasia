@@ -169,3 +169,44 @@ Our memories of reading are inextricably linked to the joy we derive from readin
 
 <img src="/images/Vol-12-issue-1/in-remembrance-of-reading/01_reading.jpg" style="width:80%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-3/oct-dec-2015/payitforward/">**Pay It Forward: The Tamil Digital Heritage Project**</a>
+
+**Chitra Sankaran**&nbsp;charts the history of a community-driven project that has seen the digitisation of 350 homegrown Tamil literary works.
+
+<img src="/images/Vol-11-issue-3/payitforward/TamilDigitalProj.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-3/oct-dec-2015/pintu">**Di Balik Pintu: Seksualiti di dalam Sastera Melayu**</a>
+
+This article examines the treatment of sex and sexuality in Malay literature and how these subjects are represented in both traditional and modern literary texts.
+
+<img src="/images/Vol-11-issue-3/Pintu/malayliterature.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-2/jul-sep-2015/read-fest-poetry">**Poetry 101: It Does Not Have to Rhyme**</a>
+
+One of this year’s Read! Fest initiatives is a celebration of Singapore poetry.&nbsp;**Sharon Lim**&nbsp;tells you what to expect.
+
+<img src="/images/vol-11-issue-2/poetry/background.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-2/jul-sep-2015/stories">**Stories We Can Call Our Own**</a>
+
+**Han Fook Kwang**&nbsp;shares some of his favourite stories from Singaporeans as told in&nbsp;_Living The Singapore Story_, a book commemorating the nation’s golden jubilee.
+
+<img src="/images/vol-11-issue-2/stories/sg50_bookss.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-4/jan-march-2015/travelog-melayu">**Travelog Melayu**</a>
+
+<img src="/images/vol-10-issue-4/travelogmelayu/background.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-4/jan-march-2015/on-the-trail">**On the Trail of Francis P. Ng: Author of F.M.S.R.**</a>
+
+In her effort to republish one of our unknown literary treasures,&nbsp;**Dr Eriko Ogihara-Schuck**&nbsp;tracks down the elusive Francis P. Ng, author of possibly the first notable work of poetry in English by a Singapore writer.
+
+<img src="/images/vol-10-issue-4/francispng/FMSR_train.jpg" style="width:80%;">
+<hr>
+

@@ -1,5 +1,5 @@
 ---
-title: Adventure
+title: Adventure and Travel
 permalink: /topics/adventure/
 variant: markdown
 description: ""
@@ -17,7 +17,3 @@ Rudyard Kipling coined the phrase “East of Suez” to describe the exotic land
 
 <img src="/images/Vol-13-issue-2/east-of-suez/01_suez.png" style="width: 80%; height: 100%;">  
 <hr>
-
-
-
-

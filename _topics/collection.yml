@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Editor's Picks.md
-      - Adventure.md
+      - Adventure and Travel.md
       - Archaeology.md
       - Arts/.keep
       - Arts/Art.md
@@ -13,7 +13,7 @@ collections:
       - Arts/Theatre and Dance.md
       - Collection Highlights.md
       - Culture.md
-      - "Op-Ed.md"
+      - Op-Ed.md
       - Food.md
       - Governance.md
       - History.md
