@@ -25,7 +25,7 @@ sections:
       button: Count Me In
       url: https://go.gov.sg/web-survey
       image: /images/survey_sep24.jpg
-      alt: Image alt text
+      alt: Readership Survey
   - infopic:
       title: "AGS Danaraj: Pioneer Town Planner and News Reader"
       subtitle: People
@@ -36,7 +36,7 @@ sections:
       url: /people/2024/8/ags-danaraj-town-planner-radio-broadcast-news-reader/
       image: /images/Online Only Articles/Remembering AGS
         Danaraj/topics_in_recording_studio.png
-      alt: Image alt text
+      alt: AGS Danaraj
   - infopic:
       title: Remembering the Hawkins Road Refugee Camp
       subtitle: More Places and Buildings
@@ -77,7 +77,7 @@ sections:
       button: A BEACON FOR ALL
       url: /vol-20/issue-3/oct-dec-2024/armenians-church-saint-gregory/
       image: /images/Vol 20 Issue 3/Armenian Church/Armenian_Church_topics.jpg
-      alt: Image alt text
+      alt: Singapore’s Armenian Church
   - infopic:
       title: The Awakening of the Modern Television Era
       subtitle: Film and Photography
@@ -87,7 +87,7 @@ sections:
       button: A Colour Extravaganza
       url: /vol-20/issue-3/oct-dec-2024/colour-tv-history-singapore/
       image: /images/Vol 20 Issue 3/Colour TV/awkening.jpg
-      alt: Image alt text
+      alt: Modern Television Era
   - infopic:
       title: Singapore’s Pioneer Cartoonists
       subtitle: Art
@@ -97,7 +97,7 @@ sections:
       button: Drawn to Satire
       url: /vol-20/issue-3/oct-dec-2024/singapore-pioneer-cartoonists/
       image: /images/Vol 20 Issue 3/Cartoonist/comic.jpg
-      alt: Image alt text
+      alt: Pioneer Cartoonists
   - infopic:
       title: "S. Rajaratnam: The Lion’s Roar"
       subtitle: People
@@ -108,7 +108,7 @@ sections:
       button: A Political Giant
       url: /vol-20/issue-3/oct-dec-2024/rajaratnam-biography-lions-roar/
       image: /images/Vol 20 Issue 3/Rajaratnam/rajaratnam_frontfacing1.jpg
-      alt: Image alt text
+      alt: S. Rajaratnam
   - infopic:
       title: The Life and Legacy of Dr Lee Kum Tatt
       subtitle: People
@@ -118,7 +118,7 @@ sections:
       button: A man of Science
       url: /people/2024/7/lee-kum-tatt-science-pioneer/
       image: /images/Online Only Articles/Dr Lee Kum Tatt/dr_lee_kum_tatt_homepage.png
-      alt: Image alt text
+      alt: Dr Lee Kum Tatt
   - infopic:
       title: The Search for a “Lost” Towkay of Malaya
       subtitle: People
@@ -129,7 +129,7 @@ sections:
       button: A grandfather by any other name
       url: /vol-20/issue-3/oct-dec-2024/phan-kim-sam-thye-seng/
       image: /images/Vol 20 Issue 3/Lost Towkay/lost_towkay.png
-      alt: Image alt text
+      alt: “Lost” Towkay of Malaya
   - infopic:
       title: "Singapore’s National Souvenir: The Gold-plated Past of RISIS"
       subtitle: Local Icons
@@ -138,7 +138,7 @@ sections:
         orchids were a triumph of grit and branding.
       button: A touch of Gold
       url: /localicons/2024/6/risis-gold-orchid-tourism-souvenir/
-      alt: Image alt text
+      alt: gold-plated RISIS orchids
       image: /images/Online Only Articles/RISIS Singapore/IMG0077.jpg
   - infopic:
       title: The Early Years of the Singapore Zoo
@@ -149,7 +149,7 @@ sections:
       button: AN ANIMAL MENAGERIE
       url: /vol-20/issue-3/oct-dec-2024/singapore-zoo-animals/
       image: /images/Vol 20 Issue 3/Zoo/zoo_primate_topics.jpg
-      alt: Image alt text
+      alt: Singapore Zoo
   - infopic:
       title: "Tools of the Trade: Letterpress Printing in Singapore"
       subtitle: Print
