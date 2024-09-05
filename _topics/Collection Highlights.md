@@ -237,7 +237,10 @@ From Singapore’s days as a colony to modern times, maps have been an integral 
 <img src="/images/vol-10-issue-4/layoftheland/backgrounds_res.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-4/jan-march-2015/rare-map/">**The National Library's Rare Maps Collection**</a>
 
+The National Library has a collection of rare maps dating back to the 15th century.&nbsp;**Makeswary Periasamy**&nbsp;shares the significance and history of these maps and their makers.
 
-
+<img src="/images/vol-10-issue-4/raremap/wallmap_topic.png" style="width:80%;">
+<hr>
 
