@@ -24,10 +24,10 @@ sections:
       description: Help us improve BiblioAsia. Take part in our readership survey!
       button: Count Me In
       url: https://go.gov.sg/web-survey
-      image: /images/edm_strip_survey_homepage.jpg
+      image: /images/survey_sep24.jpg
       alt: Image alt text
   - infopic:
-      title: "Remembering AGS Danaraj: Pioneer Town Planner & News Reader"
+      title: "AGS Danaraj: Pioneer Town Planner and News Reader"
       subtitle: People
       id: infopic
       description: The former newsreader AGS Danaraj was also a pioneering town
