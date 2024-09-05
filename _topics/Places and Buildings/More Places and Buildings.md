@@ -303,12 +303,17 @@ The Eunos area in the east of Singapore is named after the pioneer, Mohamed Euno
 <img src="/images/vol-11-issue-2/malayjournalism/Mohamed_Eunos_Abdullah.jpg" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-2/jul-sep-2015/mohamed-eunos/">**Mohamed Eunos Abdullah: The Father of Malay Journalism**</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-4/jan-march-2015/nation-of-island/">**A Nation of Islands**
+</a>
 
-The Eunos area in the east of Singapore is named after the pioneer, Mohamed Eunos Abdullah.&nbsp;**Mazelan Anuar**&nbsp;traces his legacy.
-
-<img src="/images/vol-11-issue-2/malayjournalism/Mohamed_Eunos_Abdullah.jpg" style="width:80%;">
+<img src="/images/vol-10-issue-4/nationofisland/StJohn_KenanganManis_CA34821.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-4/jan-march-2015/secretmap/">**The Secret Maps of Singapore**</a>
 
+Hidden temples and food haunts are just some of the things found in two psychedelic maps published in the 1980s.&nbsp;**Bonny Tan**&nbsp;explores the origins of these one-of-a-kind maps.
+
+
+<img src="/images/vol-10-issue-4/thesecretmap/combined_sm.jpg" style="width:80%;">
+<hr>
 
