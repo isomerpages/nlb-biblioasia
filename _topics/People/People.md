@@ -463,7 +463,14 @@ Singapore was once a penal colony for convicts shipped in from overseas.&nbsp;**
 <img src="/images/Vol-11-issue-3/convict/labourers.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-3/oct-dec-2015/blue/">**Men in Blue: A History of the Singapore Police Force**</a>
 
+The Singapore Police Force has made great strides – along with several changes in uniform – since its inception in 1819.&nbsp;**Ang Seow Leng**&nbsp;traces its history.
+
+![](/images/Vol-11-issue-3/blue/SikhsfromPunjab.jpg)
+
+<img src="/images/Vol-11-issue-3/blue/SikhsfromPunjab.jpg" style="width:80%;">
+<hr>
 
 
 
