@@ -498,7 +498,25 @@ The “Mad Chinaman” was probably the first to push the boundaries of popular 
 <img src="/images/vol-11-issue-2/sgsportgreat/LLOYD_VALBERG.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-4/jan-march-2015/nation-of-island/">**A Nation of Islands**
+</a>
 
+<img src="/images/vol-10-issue-4/nationofisland/StJohn_KenanganManis_CA34821.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-4/jan-march-2015/darwin-and-wallace/">**Darwin in Cambridge &amp; Wallace in the Malay Archipelago**</a>
+
+Research is still turning up new findings about the lives and science of Charles Darwin and Alfred Russel Wallace. Among other things,&nbsp;**Dr John van Wyhe**&nbsp;addresses the misconception that Darwin cheated Wallace of his rightful place in history.
+
+<img src="/images/vol-10-issue-4/darwinandwallace/Charles_Darwin.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-4/jan-march-2015/on-the-trail">**On the Trail of Francis P. Ng: Author of F.M.S.R.**</a>
+
+In her effort to republish one of our unknown literary treasures,&nbsp;**Dr Eriko Ogihara-Schuck**&nbsp;tracks down the elusive Francis P. Ng, author of possibly the first notable work of poetry in English by a Singapore writer.
+
+<img src="/images/vol-10-issue-4/francispng/FMSR_train.jpg" style="width:80%;">
+<hr>
 
 
 
