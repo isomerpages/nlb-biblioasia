@@ -470,11 +470,18 @@ The Singapore Police Force has made great strides – along with several changes
 <img src="/images/Vol-11-issue-3/blue/SikhsfromPunjab.jpg" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-3/oct-dec-2015/coolies/">**Triads, Coolies and Pimps: Chinatown in Former Times**</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-2/jul-sep-2015/ayam-brand-singapore/">**The French Can: Pineapples, Sardines and the Gallic Connection**</a>
 
-The Chinatown of yesteryear was a thriving hotbed of crime and secret societies.&nbsp;**Lim Tin Seng**&nbsp;unveils its less glamorous history.
+The Ayam brand of canned sardines was the brainchild of Frenchman Alfred Clouët.&nbsp;**Timothy Pwee**&nbsp;reveals its history and that of the pineapple canning industry in Singapore.
 
-<img src="/images/Vol-11-issue-3/Coolies/chinatown_Shopfront.jpg" style="width:80%;">
+<img src="/images/vol-11-issue-2/frenchcan/titles.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-2/jul-sep-2015/ayam-brand-singapore/">**The French Can: Pineapples, Sardines and the Gallic Connection**</a>
+
+The Ayam brand of canned sardines was the brainchild of Frenchman Alfred Clouët.&nbsp;**Timothy Pwee**&nbsp;reveals its history and that of the pineapple canning industry in Singapore.
+
+<img src="/images/vol-11-issue-2/frenchcan/titles.jpg" style="width:80%;">
 <hr>
 
 
