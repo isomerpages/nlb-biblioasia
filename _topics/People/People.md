@@ -456,6 +456,14 @@ Gaston Méliès may be the first filmmaker to have directed fiction films in Sin
 <img src="/images/Vol-12-issue-1/gaston-melies/01-gastonmelies.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-3/oct-dec-2015/convict/">**Convict Labour in Colonial Singapore**</a>
+
+Singapore was once a penal colony for convicts shipped in from overseas.&nbsp;**Bonny Tan**&nbsp;documents how their humble service raised some of its famous buildings.
+
+<img src="/images/Vol-11-issue-3/convict/labourers.jpg" style="width:80%;">
+<hr>
+
+
 
 
 
