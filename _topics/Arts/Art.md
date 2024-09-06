@@ -153,3 +153,15 @@ After a long absence of 43 years, Singapore’s celebrated multi-hyphenate artis
 
 <img src="/images/Vol-12-issue-3/baring-mind-and-soul/01-baring-mind-soul.jpg" style="width:80%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-2/jul-sep-2015/sketches-of-singapore/">**Sketches of Singapore**</a>
+
+Doodlings and drawings of the cityscape by the community of artists who make up Singapore’s Urban Sketchers find expression in a new book.
+
+<img src="/images/vol-11-issue-2/sketches/fort_canning_park.jpg" style="width:80%;">
+<hr>
+
+
+
+
+<hr>
