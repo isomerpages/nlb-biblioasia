@@ -491,6 +491,15 @@ The “Mad Chinaman” was probably the first to push the boundaries of popular 
 <img src="/images/vol-11-issue-2/dicklee/dicklees.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-2/jul-sep-2015/sg-sporting-greats/">**Singapore's Sporting Greats**</a>
+
+**Chua Chong Jin**&nbsp;recalls the glory and achievements of some of Singapore’s greatest athletes.
+
+<img src="/images/vol-11-issue-2/sgsportgreat/LLOYD_VALBERG.jpg" style="width:80%;">
+<hr>
+
+
+
 
 
 <hr>
