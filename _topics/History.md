@@ -72,6 +72,13 @@ European families in colonial Singapore had a retinue of servants – cook, chau
 <img src="/images/Vol-12-issue-2/dont-mess-with-the-cook/01-dontmesswiththecook.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-3/oct-dec-2015/coolies/">**Triads, Coolies and Pimps: Chinatown in Former Times**</a>
+
+The Chinatown of yesteryear was a thriving hotbed of crime and secret societies.&nbsp;**Lim Tin Seng**&nbsp;unveils its less glamorous history.
+
+<img src="/images/Vol-11-issue-3/Coolies/chinatown_Shopfront.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-3/oct-dec-2015/convict/">**Convict Labour in Colonial Singapore**</a>
 
 Singapore was once a penal colony for convicts shipped in from overseas.&nbsp;**Bonny Tan**&nbsp;documents how their humble service raised some of its famous buildings.
