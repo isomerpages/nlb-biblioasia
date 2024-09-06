@@ -107,3 +107,29 @@ The oldest profession in the world took on a different complexion in Southeast A
 
 <img src="/images/Vol-11-issue-3/bodies/ThreeMalaywomen.jpg" style="width:80%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-2/jul-sep-2015/ayam-brand-singapore/">**The French Can: Pineapples, Sardines and the Gallic Connection**</a>
+
+The Ayam brand of canned sardines was the brainchild of Frenchman Alfred Clouët.&nbsp;**Timothy Pwee**&nbsp;reveals its history and that of the pineapple canning industry in Singapore.
+
+<img src="/images/vol-11-issue-2/frenchcan/titles.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-2/jul-sep-2015/stories">**Stories We Can Call Our Own**</a>
+
+**Han Fook Kwang**&nbsp;shares some of his favourite stories from Singaporeans as told in&nbsp;_Living The Singapore Story_, a book commemorating the nation’s golden jubilee.
+
+<img src="/images/vol-11-issue-2/stories/sg50_bookss.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/search-sg-old-map/">**Searching for Singapore in Old Maps and Sea Charts**
+</a>
+
+**Kwa Chong Guan**&nbsp;dissects the history of maps and tells us how Singapore was perceived and located in early modern European maps of the region.
+
+
+<img src="/images/vol-11-issue-1/searchingforsg/CantinoChart_topic.png" style="width:80%;">
+<hr>
+
+
+
