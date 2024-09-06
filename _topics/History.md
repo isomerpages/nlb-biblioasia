@@ -98,11 +98,5 @@ The opium trade was a lucrative business in colonial Singapore.&nbsp;**Gracie Le
 
 The oldest profession in the world took on a different complexion in Southeast Asia when the European colonial powers arrived.&nbsp;**Farish Noor**&nbsp;puts the pieces together.
 
-The opium trade was a lucrative business in colonial Singapore.&nbsp;**Gracie Lee**&nbsp;examines its deleterious effects on the economic and social life of the city.
-
 <img src="/images/Vol-11-issue-3/bodies/ThreeMalaywomen.jpg" style="width:80%;">
 <hr>
-
-
-
-
