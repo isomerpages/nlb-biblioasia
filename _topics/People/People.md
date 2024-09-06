@@ -477,11 +477,18 @@ The Ayam brand of canned sardines was the brainchild of Frenchman Alfred Clouët
 <img src="/images/vol-11-issue-2/frenchcan/titles.jpg" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-2/jul-sep-2015/ayam-brand-singapore/">**The French Can: Pineapples, Sardines and the Gallic Connection**</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-2/jul-sep-2015/mohamed-eunos/">**Mohamed Eunos Abdullah: The Father of Malay Journalism**</a>
 
-The Ayam brand of canned sardines was the brainchild of Frenchman Alfred Clouët.&nbsp;**Timothy Pwee**&nbsp;reveals its history and that of the pineapple canning industry in Singapore.
+The Eunos area in the east of Singapore is named after the pioneer, Mohamed Eunos Abdullah.&nbsp;**Mazelan Anuar**&nbsp;traces his legacy.
 
-<img src="/images/vol-11-issue-2/frenchcan/titles.jpg" style="width:80%;">
+<img src="/images/vol-11-issue-2/malayjournalism/Mohamed_Eunos_Abdullah.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-2/jul-sep-2015/dick-lee/">**The Music, Madness and Magic of Dick Lee**</a>
+
+The “Mad Chinaman” was probably the first to push the boundaries of popular music in Singapore.&nbsp;**Joy Loh**&nbsp;profiles the enfant terrible of entertainment.
+
+<img src="/images/vol-11-issue-2/dicklee/dicklees.jpg" style="width:80%;">
 <hr>
 
 
