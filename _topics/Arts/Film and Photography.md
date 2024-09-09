@@ -176,10 +176,13 @@ Few people are aware that Singapore was once the hub for Malay filmmaking in Sou
 <img src="/images/vol-11-issue-1/malaycinema/bg3_re.jpg" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/ga-malay-cinema/">**The Golden Age of Malay Cinema: 1947–1972**</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/early-sg-cinema/">**From Tents to Picture Palaces: Early Singapore Cinema**</a>
 
-Few people are aware that Singapore was once the hub for Malay filmmaking in Southeast Asia.&nbsp;**Nor Afidah Bte Abd Rahman**&nbsp;and&nbsp;**Michelle Heng**&nbsp;recount its fabled history.
+Few people are aware that Singapore’s cinema history dates back to as early as 1896.&nbsp;**Bonny Tan**&nbsp;traces its development, from the days of the Magic Lantern projector to the first locally made films.
 
-<img src="/images/vol-11-issue-1/malaycinema/bg3_re.jpg" style="width:80%;">
+<img src="/images/vol-11-issue-1/earlysgcinema/bg2.jpg" style="width:80%;">
 <hr>
+
+images/vol-11-issue-1/earlysgcinema/bg2.jpg
+
 
