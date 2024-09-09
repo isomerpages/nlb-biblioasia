@@ -127,9 +127,13 @@ The Ayam brand of canned sardines was the brainchild of Frenchman Alfred Clouët
 
 **Kwa Chong Guan**&nbsp;dissects the history of maps and tells us how Singapore was perceived and located in early modern European maps of the region.
 
-
 <img src="/images/vol-11-issue-1/searchingforsg/CantinoChart_topic.png" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/ga-malay-cinema/">**The Golden Age of Malay Cinema: 1947–1972**</a>
 
+Few people are aware that Singapore was once the hub for Malay filmmaking in Southeast Asia.&nbsp;**Nor Afidah Bte Abd Rahman**&nbsp;and&nbsp;**Michelle Heng**&nbsp;recount its fabled history.
+
+<img src="/images/vol-11-issue-1/malaycinema/bg3_re.jpg" style="width:80%;">
+<hr>
 
