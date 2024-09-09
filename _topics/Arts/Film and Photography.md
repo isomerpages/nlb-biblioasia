@@ -169,10 +169,17 @@ Western filmmakers have always had a fascination for Singapore.&nbsp;**Ben Slate
 <img src="/images/vol-11-issue-1/spiesvirginspimps/half_singapore_styleA_HP05668_L.jpg" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/svph/">**Spies, Virgins, Pimps and Hitmen: Singapore Through the Western Lens**</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/ga-malay-cinema/">**The Golden Age of Malay Cinema: 1947–1972**</a>
 
-Western filmmakers have always had a fascination for Singapore.&nbsp;**Ben Slater**&nbsp;tells you why.
+Few people are aware that Singapore was once the hub for Malay filmmaking in Southeast Asia.&nbsp;**Nor Afidah Bte Abd Rahman**&nbsp;and&nbsp;**Michelle Heng**&nbsp;recount its fabled history.
 
-<img src="/images/vol-11-issue-1/spiesvirginspimps/half_singapore_styleA_HP05668_L.jpg" style="width:80%;">
+<img src="/images/vol-11-issue-1/malaycinema/bg3_re.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/ga-malay-cinema/">**The Golden Age of Malay Cinema: 1947–1972**</a>
+
+Few people are aware that Singapore was once the hub for Malay filmmaking in Southeast Asia.&nbsp;**Nor Afidah Bte Abd Rahman**&nbsp;and&nbsp;**Michelle Heng**&nbsp;recount its fabled history.
+
+<img src="/images/vol-11-issue-1/malaycinema/bg3_re.jpg" style="width:80%;">
 <hr>
 
