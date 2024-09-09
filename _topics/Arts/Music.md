@@ -67,5 +67,3 @@ The “Mad Chinaman” was probably the first to push the boundaries of popular 
 
 <img src="/images/vol-11-issue-2/dicklee/dicklees.jpg" style="width:80%;">
 <hr>
-
-
