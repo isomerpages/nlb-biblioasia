@@ -33,7 +33,7 @@ sections:
         unrivalled in its heyday.
       button: A Not-So-Humble Abode
       url: /places-and-buildings/2024/8/eu-tong-sen-villa/
-      image: /images/Online Only Articles/EU Villa/aerial_view_topics.png
+      image: /images/Online Only Articles/EU Villa/EU_Villa_colour_homepage.jpg
       alt: Image alt text
   - infopic:
       title: "AGS Danaraj: Pioneer Town Planner and News Reader"
