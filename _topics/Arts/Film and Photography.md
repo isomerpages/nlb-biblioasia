@@ -126,3 +126,25 @@ Gaston Méliès may be the first filmmaker to have directed fiction films in Sin
 
 <img src="/images/Vol-12-issue-1/gaston-melies/01-gastonmelies.jpg" style="width:80%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/director-chair/">**From the Director's Chair**</a>
+
+In candid, off-the-cuff conversations, four young auteurs talk about their upcoming works for the Singapore Memory Project film festival.
+
+<img src="/images/vol-11-issue-1/directorchair/scene.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/moving-journey">**A Moving Journey: Film, Archiving and Curatorship**</a>
+
+As the Asian Film Archive celebrates its 10th anniversary,&nbsp;**Karen Chan**&nbsp;takes a look back at the genesis of the organisation, the work it does and its plans for the future.
+
+<img src="/images/vol-11-issue-1/movingjourney/OXY9173.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/moving-journey">**A Moving Journey: Film, Archiving and Curatorship**</a>
+
+As the Asian Film Archive celebrates its 10th anniversary,&nbsp;**Karen Chan**&nbsp;takes a look back at the genesis of the organisation, the work it does and its plans for the future.
+
+<img src="/images/vol-11-issue-1/movingjourney/OXY9173.jpg" style="width:80%;">
+<hr>
+
