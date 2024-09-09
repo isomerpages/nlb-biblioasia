@@ -67,3 +67,9 @@ The “Mad Chinaman” was probably the first to push the boundaries of popular 
 
 <img src="/images/vol-11-issue-2/dicklee/dicklees.jpg" style="width:80%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-4/jan-march-2015/musical/">**MusicSG: A Repository of Singapore’s Musical Heritage**</a>
+
+<img src="/images/vol-10-issue-4/music/local_singer.jpg" style="width:80%;">
+<hr>
+
