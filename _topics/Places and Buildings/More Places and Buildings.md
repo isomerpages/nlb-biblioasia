@@ -319,6 +319,21 @@ The Eunos area in the east of Singapore is named after the pioneer, Mohamed Euno
 
 Hidden temples and food haunts are just some of the things found in two psychedelic maps published in the 1980s.&nbsp;**Bonny Tan**&nbsp;explores the origins of these one-of-a-kind maps.
 
-
 <img src="/images/vol-10-issue-4/thesecretmap/combined_sm.jpg" style="width:80%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-3/oct-dec-2014/singapore-orchard-library/">**Designed for Use: library@orchard Makes a Comeback**</a>
+
+<img src="/images/vol-10-issue-3/library/cover.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-3/oct-dec-2014/singapore-orchard-road-history/">**Over Orchard**</a>
+
+Orchard Road as we know it today is a far cry from its quiet beginnings as a plantation and residential area.&nbsp;**Fiona Tan**&nbsp;takes us back in time to revisit some of Orchard’s most distinctive landmarks.
+
+<img src="/images/vol-10-issue-3/overorchard/orchard_road.jpg" style="width:80%;">
+<hr>
+
+
+
+
