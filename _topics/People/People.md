@@ -5,6 +5,13 @@ description: ""
 third_nav_title: People
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/places-and-buildings/2024/8/eu-tong-sen-villa/">Eu Tong Sen’s “Pearl Under the Burning Tropical Sun”</a>
+
+The grandeur and opulence of Eu Villa on Mount Sophia was unrivalled in its heyday.
+
+<img src="/images/Online%20Only%20Articles/EU%20Villa/EU_Villa_colour_homepage.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/people/2024/8/ags-danaraj-town-planner-radio-broadcast-news-reader/">Remembering AGS Danaraj: Pioneer Town Planner and News Reader</a>
 
 The former newsreader AGS Danaraj was also a pioneering town planner, who always made time to help the less fortunate.

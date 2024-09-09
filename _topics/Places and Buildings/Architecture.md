@@ -5,6 +5,13 @@ description: ""
 third_nav_title: Places and Buildings
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/places-and-buildings/2024/8/eu-tong-sen-villa/">Eu Tong Sen’s “Pearl Under the Burning Tropical Sun”</a>
+
+The grandeur and opulence of Eu Villa on Mount Sophia was unrivalled in its heyday.
+
+<img src="/images/Online%20Only%20Articles/EU%20Villa/EU_Villa_colour_homepage.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/william-lim-archictect-w-associates/">Remembering William Lim</a>
 The late architect William Lim did more than shape Singapore’s skyline. He was also deeply passionate about urban planning, culture, the arts and engaging the next generation.
 
@@ -129,5 +136,3 @@ Architectural conservation or real estate investment?&nbsp;**Justin Zhuang**&nbs
 
 <img src="/images/Vol-12-issue-3/saving-pearl-bank-apartments/02-savingpearlbank.jpg" style="width:80%;">
 <hr>
-
-
