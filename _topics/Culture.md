@@ -265,7 +265,11 @@ The oldest profession in the world took on a different complexion in Southeast A
  <img src="/images/Vol-11-issue-3/Housewives/12chapjikeetiles.jpg" style="width:80%;">
 <hr>
  
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/culture-on-celluloid/">**Culture on Celluloid: Alternative Films in Singapore**</a>
+Intellectual and art house films have a long history in Singapore but the issues the genre faces have changed little over the years.&nbsp;**Gracie Lee**&nbsp;charts the challenges of alternative cinema in our city.
 
+<img src="/images/vol-11-issue-1/cultureoncelluloid/French_Film_Festival_re.jpg" style="width:80%;">
+<hr>
 
 
 
