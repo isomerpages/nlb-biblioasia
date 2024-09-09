@@ -25,6 +25,11 @@ Our memories of reading are inextricably linked to the joy we derive from readin
 <img src="/images/Vol-12-issue-1/in-remembrance-of-reading/01_reading.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-2/jul-sep-2015/parag-khanna-opinion/">**Seizing the Singapore Dream**</a>
 
+What does it take to achieve the Singapore Dream?&nbsp;**Parag Khanna**&nbsp;identifies three important pillars – diplomacy, demography and technology.
+
+<img src="/images/vol-11-issue-2/seizingthedream/PK-Brussels-March-2012-David-Plas1.jpg" style="width:80%;">
+<hr>
 
 
