@@ -26,6 +26,16 @@ sections:
       image: /images/survey_sep24.jpg
       alt: Readership Survey
   - infopic:
+      title: Eu Tong Sen’s “Pearl Under the Burning Tropical Sun”
+      subtitle: Architecture
+      id: infopic
+      description: The grandeur and opulence of Eu Villa on Mount Sophia was
+        unrivalled in its heyday.
+      button: Eu Villa on Mount Sophia
+      url: /places-and-buildings/2024/8/eu-tong-sen-villa/
+      image: /images/Online Only Articles/EU Villa/aerial_view_topics.png
+      alt: Image alt text
+  - infopic:
       title: "AGS Danaraj: Pioneer Town Planner and News Reader"
       subtitle: People
       id: infopic
@@ -1246,14 +1256,4 @@ sections:
       url: https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08
       alt: Greeting Card
       image: /images/Hari Raya Cards/hari raya greeting card.jpg
-  - infopic:
-      title: Eu Tong Sen’s “Pearl Under the Burning Tropical Sun”
-      subtitle: Architecture
-      id: infopic
-      description: The grandeur and opulence of Eu Villa on Mount Sophia was
-        unrivalled in its heyday.
-      button: Eu Villa on Mount Sophia
-      url: /places-and-buildings/2024/8/eu-tong-sen-villa/
-      image: /images/Online Only Articles/EU Villa/aerial_view_topics.png
-      alt: Image alt text
 ---
