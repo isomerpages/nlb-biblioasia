@@ -126,3 +126,61 @@ Gaston Méliès may be the first filmmaker to have directed fiction films in Sin
 
 <img src="/images/Vol-12-issue-1/gaston-melies/01-gastonmelies.jpg" style="width:80%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/director-chair/">**From the Director's Chair**</a>
+
+In candid, off-the-cuff conversations, four young auteurs talk about their upcoming works for the Singapore Memory Project film festival.
+
+<img src="/images/vol-11-issue-1/directorchair/scene.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/moving-journey">**A Moving Journey: Film, Archiving and Curatorship**</a>
+
+As the Asian Film Archive celebrates its 10th anniversary,&nbsp;**Karen Chan**&nbsp;takes a look back at the genesis of the organisation, the work it does and its plans for the future.
+
+<img src="/images/vol-11-issue-1/movingjourney/OXY9173.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/culture-on-celluloid/">**Culture on Celluloid: Alternative Films in Singapore**</a>
+Intellectual and art house films have a long history in Singapore but the issues the genre faces have changed little over the years.&nbsp;**Gracie Lee**&nbsp;charts the challenges of alternative cinema in our city.
+
+<img src="/images/vol-11-issue-1/cultureoncelluloid/French_Film_Festival_re.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/movie-memorabilia/">**My Movie Memorabilia**
+</a>
+
+**Wong Han Min**’s treasure trove of film memorabilia – collected over three decades – provides a glimpse of Singapore’s rich cinematic past.
+
+<img src="/images/vol-11-issue-1/moviememorabilia/Venus_Theatre.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/revival-sg-cinema/">**The Revival of Singapore Cinema: 1995–2014**</a>
+
+Singapore’s film industry gets a reboot as it enters a new phase of its development.&nbsp;**Raphaël Millet**&nbsp;explains how this resurgence came about.
+
+<img src="/images/vol-11-issue-1/revivalofsgcinema/bg4_topic.png" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/svph/">**Spies, Virgins, Pimps and Hitmen: Singapore Through the Western Lens**</a>
+
+Western filmmakers have always had a fascination for Singapore.&nbsp;**Ben Slater**&nbsp;tells you why.
+
+<img src="/images/vol-11-issue-1/spiesvirginspimps/half_singapore_styleA_HP05668_L.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/ga-malay-cinema/">**The Golden Age of Malay Cinema: 1947–1972**</a>
+
+Few people are aware that Singapore was once the hub for Malay filmmaking in Southeast Asia.&nbsp;**Nor Afidah Bte Abd Rahman**&nbsp;and&nbsp;**Michelle Heng**&nbsp;recount its fabled history.
+
+<img src="/images/vol-11-issue-1/malaycinema/bg3_re.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/early-sg-cinema/">**From Tents to Picture Palaces: Early Singapore Cinema**</a>
+
+Few people are aware that Singapore’s cinema history dates back to as early as 1896.&nbsp;**Bonny Tan**&nbsp;traces its development, from the days of the Magic Lantern projector to the first locally made films.
+
+<img src="/images/vol-11-issue-1/earlysgcinema/bg2.jpg" style="width:80%;">
+<hr>
+
+images/vol-11-issue-1/earlysgcinema/bg2.jpg

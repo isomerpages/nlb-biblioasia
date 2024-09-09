@@ -456,7 +456,75 @@ Gaston Méliès may be the first filmmaker to have directed fiction films in Sin
 <img src="/images/Vol-12-issue-1/gaston-melies/01-gastonmelies.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-3/oct-dec-2015/convict/">**Convict Labour in Colonial Singapore**</a>
 
+Singapore was once a penal colony for convicts shipped in from overseas.&nbsp;**Bonny Tan**&nbsp;documents how their humble service raised some of its famous buildings.
+
+<img src="/images/Vol-11-issue-3/convict/labourers.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-3/oct-dec-2015/coolies/">**Triads, Coolies and Pimps: Chinatown in Former Times**</a>
+
+The Chinatown of yesteryear was a thriving hotbed of crime and secret societies.&nbsp;**Lim Tin Seng**&nbsp;unveils its less glamorous history.
+
+<img src="/images/Vol-11-issue-3/Coolies/chinatown_Shopfront.jpg" style="width:80%;">
+<hr>
+
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-3/oct-dec-2015/blue/">**Men in Blue: A History of the Singapore Police Force**</a>
+
+The Singapore Police Force has made great strides – along with several changes in uniform – since its inception in 1819.&nbsp;**Ang Seow Leng**&nbsp;traces its history.
+
+<img src="/images/Vol-11-issue-3/blue/SikhsfromPunjab.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-2/jul-sep-2015/ayam-brand-singapore/">**The French Can: Pineapples, Sardines and the Gallic Connection**</a>
+
+The Ayam brand of canned sardines was the brainchild of Frenchman Alfred Clouët.&nbsp;**Timothy Pwee**&nbsp;reveals its history and that of the pineapple canning industry in Singapore.
+
+<img src="/images/vol-11-issue-2/frenchcan/titles.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-2/jul-sep-2015/mohamed-eunos/">**Mohamed Eunos Abdullah: The Father of Malay Journalism**</a>
+
+The Eunos area in the east of Singapore is named after the pioneer, Mohamed Eunos Abdullah.&nbsp;**Mazelan Anuar**&nbsp;traces his legacy.
+
+<img src="/images/vol-11-issue-2/malayjournalism/Mohamed_Eunos_Abdullah.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-2/jul-sep-2015/dick-lee/">**The Music, Madness and Magic of Dick Lee**</a>
+
+The “Mad Chinaman” was probably the first to push the boundaries of popular music in Singapore.&nbsp;**Joy Loh**&nbsp;profiles the enfant terrible of entertainment.
+
+<img src="/images/vol-11-issue-2/dicklee/dicklees.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-2/jul-sep-2015/sg-sporting-greats/">**Singapore's Sporting Greats**</a>
+
+**Chua Chong Jin**&nbsp;recalls the glory and achievements of some of Singapore’s greatest athletes.
+
+<img src="/images/vol-11-issue-2/sgsportgreat/LLOYD_VALBERG.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-4/jan-march-2015/nation-of-island/">**A Nation of Islands**
+</a>
+
+<img src="/images/vol-10-issue-4/nationofisland/StJohn_KenanganManis_CA34821.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-4/jan-march-2015/darwin-and-wallace/">**Darwin in Cambridge &amp; Wallace in the Malay Archipelago**</a>
+
+Research is still turning up new findings about the lives and science of Charles Darwin and Alfred Russel Wallace. Among other things,&nbsp;**Dr John van Wyhe**&nbsp;addresses the misconception that Darwin cheated Wallace of his rightful place in history.
+
+<img src="/images/vol-10-issue-4/darwinandwallace/Charles_Darwin.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-4/jan-march-2015/on-the-trail">**On the Trail of Francis P. Ng: Author of F.M.S.R.**</a>
+
+In her effort to republish one of our unknown literary treasures,&nbsp;**Dr Eriko Ogihara-Schuck**&nbsp;tracks down the elusive Francis P. Ng, author of possibly the first notable work of poetry in English by a Singapore writer.
+
+<img src="/images/vol-10-issue-4/francispng/FMSR_train.jpg" style="width:80%;">
+<hr>
 
 
 

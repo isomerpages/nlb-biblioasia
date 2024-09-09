@@ -72,3 +72,64 @@ European families in colonial Singapore had a retinue of servants – cook, chau
 <img src="/images/Vol-12-issue-2/dont-mess-with-the-cook/01-dontmesswiththecook.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-3/oct-dec-2015/coolies/">**Triads, Coolies and Pimps: Chinatown in Former Times**</a>
+
+The Chinatown of yesteryear was a thriving hotbed of crime and secret societies.&nbsp;**Lim Tin Seng**&nbsp;unveils its less glamorous history.
+
+<img src="/images/Vol-11-issue-3/Coolies/chinatown_Shopfront.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-3/oct-dec-2015/convict/">**Convict Labour in Colonial Singapore**</a>
+
+Singapore was once a penal colony for convicts shipped in from overseas.&nbsp;**Bonny Tan**&nbsp;documents how their humble service raised some of its famous buildings.
+
+<img src="/images/Vol-11-issue-3/convict/labourers.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-3/oct-dec-2015/blue/">**Men in Blue: A History of the Singapore Police Force**</a>
+
+The Singapore Police Force has made great strides – along with several changes in uniform – since its inception in 1819.&nbsp;**Ang Seow Leng**&nbsp;traces its history.
+
+<img src="/images/Vol-11-issue-3/blue/SikhsfromPunjab.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-3/oct-dec-2015/dragon/">**Chasing the Dragon: The Scourge of Opium**</a>
+
+The opium trade was a lucrative business in colonial Singapore.&nbsp;**Gracie Lee**&nbsp;examines its deleterious effects on the economic and social life of the city.
+
+<img src="/images/Vol-11-issue-3/dragon/AChinesemansmokingopium.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-3/oct-dec-2015/bodies/">**Money-making Bodies: Prostitution in Colonial Southeast Asia**
+</a>
+
+The oldest profession in the world took on a different complexion in Southeast Asia when the European colonial powers arrived.&nbsp;**Farish Noor**&nbsp;puts the pieces together.
+
+<img src="/images/Vol-11-issue-3/bodies/ThreeMalaywomen.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-2/jul-sep-2015/ayam-brand-singapore/">**The French Can: Pineapples, Sardines and the Gallic Connection**</a>
+
+The Ayam brand of canned sardines was the brainchild of Frenchman Alfred Clouët.&nbsp;**Timothy Pwee**&nbsp;reveals its history and that of the pineapple canning industry in Singapore.
+
+<img src="/images/vol-11-issue-2/frenchcan/titles.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-2/jul-sep-2015/stories">**Stories We Can Call Our Own**</a>
+
+**Han Fook Kwang**&nbsp;shares some of his favourite stories from Singaporeans as told in&nbsp;_Living The Singapore Story_, a book commemorating the nation’s golden jubilee.
+
+<img src="/images/vol-11-issue-2/stories/sg50_bookss.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/search-sg-old-map/">**Searching for Singapore in Old Maps and Sea Charts**
+</a>
+
+**Kwa Chong Guan**&nbsp;dissects the history of maps and tells us how Singapore was perceived and located in early modern European maps of the region.
+
+
+<img src="/images/vol-11-issue-1/searchingforsg/CantinoChart_topic.png" style="width:80%;">
+<hr>
+
+
+

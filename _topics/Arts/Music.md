@@ -61,6 +61,15 @@ Hailed as the “Father of the Guitar”, Alex Abisheganaden, who died on 17 Mar
 <img src="/images/Vol-13-issue-1/the-guitar-man/alex%20and%20boy%20(from%20nac).jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-2/jul-sep-2015/dick-lee/">**The Music, Madness and Magic of Dick Lee**</a>
 
+The “Mad Chinaman” was probably the first to push the boundaries of popular music in Singapore.&nbsp;**Joy Loh**&nbsp;profiles the enfant terrible of entertainment.
 
+<img src="/images/vol-11-issue-2/dicklee/dicklees.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-4/jan-march-2015/musical/">**MusicSG: A Repository of Singapore’s Musical Heritage**</a>
+
+<img src="/images/vol-10-issue-4/music/local_singer.jpg" style="width:80%;">
+<hr>
 

@@ -262,3 +262,12 @@ Theme parks in Singapore had their heyday from the 1920s to 50s.&nbsp;**Lim Tin 
 
 <img src="/images/Vol-12-issue-1/old-world-amusement-parks/01a_amusementpark.jpg" style="width:80%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-2/jul-sep-2015/sg-first-zoo/">**All Creatures Great and Small: Singapore's First Zoos**</a>
+
+Few people are aware that the island’s first public zoo was set up in 1875.&nbsp;**Lim Tin Seng**&nbsp;traces the history of wildlife parks in Singapore.
+
+<img src="/images/vol-11-issue-2/zoo/Entrance_of_zoo.jpg" style="width:80%;">
+<hr>
+
+

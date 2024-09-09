@@ -243,5 +243,30 @@ The advent of wireless broadcasting created the same ripples that the Internet u
 <img src="/images/Vol-12-issue-1/story-of-singapore-radio/01_singaporeradio.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-3/oct-dec-2015/dragon/">**Chasing the Dragon: The Scourge of Opium**</a>
+
+The opium trade was a lucrative business in colonial Singapore.&nbsp;**Gracie Lee**&nbsp;examines its deleterious effects on the economic and social life of the city.
+
+<img src="/images/Vol-11-issue-3/dragon/AChinesemansmokingopium.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-3/oct-dec-2015/bodies/">**Money-making Bodies: Prostitution in Colonial Southeast Asia**
+</a>
+
+The oldest profession in the world took on a different complexion in Southeast Asia when the European colonial powers arrived.&nbsp;**Farish Noor**&nbsp;puts the pieces together.
+
+<img src="/images/Vol-11-issue-3/bodies/ThreeMalaywomen.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/ol-11/issue-3/oct-dec-2015/housewives/">**Desperate Housewives: The Lure of Chap Ji Kee**</a>
+
+ _Chap ji kee_&nbsp;has been famously called the “housewives’ opium”.&nbsp;**Janice Loo**&nbsp;traces its rise and subsequent decline.
+ 
+ <img src="/images/Vol-11-issue-3/Housewives/12chapjikeetiles.jpg" style="width:80%;">
+<hr>
+ 
+
+
+
 
 <hr>

@@ -87,3 +87,12 @@ Theme parks in Singapore had their heyday from the 1920s to 50s.&nbsp;**Lim Tin 
 
 <img src="/images/Vol-12-issue-1/old-world-amusement-parks/01a_amusementpark.jpg" style="width:80%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-3/oct-dec-2015/circus/vol-12/issue-1/apr-jun-2016/old-world-amusement/">**The Circus Comes to Town**</a>
+
+The story of a homegrown circus finds expression in a new book called&nbsp;_Life Beyond the Big Top: Stories of the Tai Thean Kew Circus_, by&nbsp;**Adele Wong**.
+
+<img src="/images/Vol-11-issue-3/circus/Dancers.jpg" style="width:80%;">
+<hr>
+
+
