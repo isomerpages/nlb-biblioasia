@@ -121,8 +121,7 @@ The Ayam brand of canned sardines was the brainchild of Frenchman Alfred Clouët
 <img src="/images/vol-11-issue-2/stories/sg50_bookss.jpg" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/search-sg-old-map/">**Searching for Singapore in Old Maps and Sea Charts**
-</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/search-sg-old-map/">**Searching for Singapore in Old Maps and Sea Charts**</a>
 
 **Kwa Chong Guan**&nbsp;dissects the history of maps and tells us how Singapore was perceived and located in early modern European maps of the region.
 
