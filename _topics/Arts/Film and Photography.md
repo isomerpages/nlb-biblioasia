@@ -155,11 +155,18 @@ Intellectual and art house films have a long history in Singapore but the issues
 <img src="/images/vol-11-issue-1/moviememorabilia/Venus_Theatre.jpg" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/movie-memorabilia/">**My Movie Memorabilia**
-</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/revival-sg-cinema/">**The Revival of Singapore Cinema: 1995–2014**</a>
 
-**Wong Han Min**’s treasure trove of film memorabilia – collected over three decades – provides a glimpse of Singapore’s rich cinematic past.
+Singapore’s film industry gets a reboot as it enters a new phase of its development.&nbsp;**Raphaël Millet**&nbsp;explains how this resurgence came about.
 
-<img src="/images/vol-11-issue-1/moviememorabilia/Venus_Theatre.jpg" style="width:80%;">
+<img src="/images/vol-11-issue-1/revivalofsgcinema/bg4_topic.png" style="width:80%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/revival-sg-cinema/">**The Revival of Singapore Cinema: 1995–2014**</a>
+
+Singapore’s film industry gets a reboot as it enters a new phase of its development.&nbsp;**Raphaël Millet**&nbsp;explains how this resurgence came about.
+
+<img src="/images/vol-11-issue-1/revivalofsgcinema/bg4_topic.png" style="width:80%;">
+<hr>
+
 
