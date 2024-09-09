@@ -250,8 +250,7 @@ The opium trade was a lucrative business in colonial Singapore.&nbsp;**Gracie Le
 <img src="/images/Vol-11-issue-3/dragon/AChinesemansmokingopium.jpg" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-3/oct-dec-2015/bodies/">**Money-making Bodies: Prostitution in Colonial Southeast Asia**
-</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-3/oct-dec-2015/bodies/">**Money-making Bodies: Prostitution in Colonial Southeast Asia**</a>
 
 The oldest profession in the world took on a different complexion in Southeast Asia when the European colonial powers arrived.&nbsp;**Farish Noor**&nbsp;puts the pieces together.
 
