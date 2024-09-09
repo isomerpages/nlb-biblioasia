@@ -5,6 +5,13 @@ description: ""
 third_nav_title: Places and Buildings
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/places-and-buildings/2024/8/eu-tong-sen-villa/">Eu Tong Sen’s “Pearl Under the Burning Tropical Sun”</a>
+
+The grandeur and opulence of Eu Villa on Mount Sophia was unrivalled in its heyday.
+
+<img src="/images/Online%20Only%20Articles/EU%20Villa/EU_Villa_colour_homepage.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/hawkins-road-refugee-camp/">Remembering the Hawkins Road Refugee Camp</a>
 
 A temporary home for Vietnamese refugees, the Hawkins Road camp received thousands of “boat people” over nearly two decades.
@@ -316,4 +323,3 @@ Hidden temples and food haunts are just some of the things found in two psychede
 
 <img src="/images/vol-10-issue-4/thesecretmap/combined_sm.jpg" style="width:80%;">
 <hr>
-
