@@ -275,11 +275,21 @@ Intellectual and art house films have a long history in Singapore but the issues
 <img src="/images/vol-10-issue-3/sgfashion/hw_nov_1967.jpg" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-3/oct-dec-2014/singapore-fashion-trends-1960s-1990s/">**In Vogue: Singapore Fashion Trends from 1960s to 1990s**</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-2/jul-sep-2014/chinese-clan-sg/">**Chinese Clan Associations in Singapore: Then and Now**</a>
 
-<img src="/images/vol-10-issue-3/sgfashion/hw_nov_1967.jpg" style="width:80%;">
+Chinese clan associations in Singapore date back to the time of Stamford Raffles.&nbsp;**Lee Meiyu**&nbsp;shows us how the functions of clan associations have changed over the years according to the needs of the local Chinese community as well as changes in state policy.
+
+<img src="/images/vol-10-issue-2/chineseclan/Chinese_migrants.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-2/jul-sep-2014/chinese-clan-sg/">**Chinese Clan Associations in Singapore: Then and Now**</a>
+
+Chinese clan associations in Singapore date back to the time of Stamford Raffles.&nbsp;**Lee Meiyu**&nbsp;shows us how the functions of clan associations have changed over the years according to the needs of the local Chinese community as well as changes in state policy.
+
+<img src="/images/vol-10-issue-2/chineseclan/Chinese_migrants.jpg" style="width:80%;">
 <hr>
+
+
+
 
 <hr>
