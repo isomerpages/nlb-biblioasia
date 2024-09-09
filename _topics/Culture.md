@@ -289,6 +289,12 @@ Chinese clan associations in Singapore date back to the time of Stamford Raffles
 <img src="/images/vol-10-issue-2/belacanandcurrypuff/belacan_used.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-4/jan-march-2014/jiapu-chinese-family-lineage/">**The Jiapu Chronicles: What’s in a Name?**</a>
+
+Records of family lineage were important in traditional Chinese society.&nbsp;**Lee Meiyu**&nbsp;charts the history of these documents, or&nbsp;_jiapu_, which track not only family roots but also the social norms and cultural values of China at the time.
+
+<img src="/images/vol-9-issue-4/jiapu/bg.jpg" style="width:80%;">
+<hr>
 
 
 
