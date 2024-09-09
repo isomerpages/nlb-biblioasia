@@ -310,8 +310,7 @@ The Eunos area in the east of Singapore is named after the pioneer, Mohamed Euno
 <img src="/images/vol-11-issue-2/malayjournalism/Mohamed_Eunos_Abdullah.jpg" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-4/jan-march-2015/nation-of-island/">**A Nation of Islands**
-</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-4/jan-march-2015/nation-of-island/">**A Nation of Islands**</a>
 
 <img src="/images/vol-10-issue-4/nationofisland/StJohn_KenanganManis_CA34821.jpg" style="width:80%;">
 <hr>
