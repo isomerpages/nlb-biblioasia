@@ -6,4 +6,3 @@ description: ""
 ---
 #### **Due to development and urbanisation, Lim Boon Keng’s last home at Paterson Hill no longer exists today.**
 By Patrica Lin
-
