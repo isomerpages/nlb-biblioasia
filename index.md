@@ -9,14 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /culture/2024/6/dragon-dance-chinese-temple-vanishing-trade/
-      button: Fire Dragon Blazes Trail for Cantonese Temple in Geylang
+      url: /history/2024/4/beer-brewing-production-brewery-singapore/
+      button: "A Long Time Brewing: The Story of Singapore’s Beer Industry"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Online Only Articles/Cantonese Fire
-        Dragon/hero_image_fire_dragon.jpg
+      background: /images/Online Only Articles/Beer/Hero_tiger_beer.png
   - infopic:
       title: Have Your Say
       subtitle: Readership Survey
