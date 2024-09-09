@@ -68,3 +68,12 @@ A new exhibition on Singapore theatre traces its growth from its nascent days in
  
 <img src="/images/Vol-12-issue-1/one-small-voice/onesmallvoice_topics.jpg" style="width:80%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-2/jul-sep-2015/singapore-dance/">**The Art of Movement: Dance on the Singapore Stage**</a>
+
+**Tara Tan**&nbsp;profiles five trailblazers of the Singapore dance scene who have pushed the envelope and created a unique Singaporean dance identity.
+
+
+<img src="/images/vol-11-issue-2/artofmovement/glow_stop.jpg" style="width:80%;">
+<hr>
+
