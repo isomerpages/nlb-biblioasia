@@ -162,11 +162,17 @@ Singapore’s film industry gets a reboot as it enters a new phase of its develo
 <img src="/images/vol-11-issue-1/revivalofsgcinema/bg4_topic.png" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/revival-sg-cinema/">**The Revival of Singapore Cinema: 1995–2014**</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/svph/">**Spies, Virgins, Pimps and Hitmen: Singapore Through the Western Lens**</a>
 
-Singapore’s film industry gets a reboot as it enters a new phase of its development.&nbsp;**Raphaël Millet**&nbsp;explains how this resurgence came about.
+Western filmmakers have always had a fascination for Singapore.&nbsp;**Ben Slater**&nbsp;tells you why.
 
-<img src="/images/vol-11-issue-1/revivalofsgcinema/bg4_topic.png" style="width:80%;">
+<img src="/images/vol-11-issue-1/spiesvirginspimps/half_singapore_styleA_HP05668_L.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/svph/">**Spies, Virgins, Pimps and Hitmen: Singapore Through the Western Lens**</a>
+
+Western filmmakers have always had a fascination for Singapore.&nbsp;**Ben Slater**&nbsp;tells you why.
+
+<img src="/images/vol-11-issue-1/spiesvirginspimps/half_singapore_styleA_HP05668_L.jpg" style="width:80%;">
+<hr>
 
