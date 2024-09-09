@@ -270,6 +270,16 @@ Intellectual and art house films have a long history in Singapore but the issues
 <img src="/images/vol-11-issue-1/cultureoncelluloid/French_Film_Festival_re.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-3/oct-dec-2014/singapore-fashion-trends-1960s-1990s/">**In Vogue: Singapore Fashion Trends from 1960s to 1990s**</a>
 
+<img src="/images/vol-10-issue-3/sgfashion/hw_nov_1967.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-3/oct-dec-2014/singapore-fashion-trends-1960s-1990s/">**In Vogue: Singapore Fashion Trends from 1960s to 1990s**</a>
+
+<img src="/images/vol-10-issue-3/sgfashion/hw_nov_1967.jpg" style="width:80%;">
+<hr>
+
+<hr>
 
 <hr>
