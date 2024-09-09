@@ -1254,6 +1254,6 @@ sections:
         unrivalled in its heyday.
       button: Eu Villa on Mount Sophia
       url: /places-and-buildings/2024/8/eu-tong-sen-villa/
-      image: /images/Online Only Articles/EU Villa/aerial_view.png
+      image: /images/Online Only Articles/EU Villa/aerial_view_topics.png
       alt: Image alt text
 ---
