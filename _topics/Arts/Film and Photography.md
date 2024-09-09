@@ -141,10 +141,12 @@ As the Asian Film Archive celebrates its 10th anniversary,&nbsp;**Karen Chan**&n
 <img src="/images/vol-11-issue-1/movingjourney/OXY9173.jpg" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/moving-journey">**A Moving Journey: Film, Archiving and Curatorship**</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/culture-on-celluloid/">**Culture on Celluloid: Alternative Films in Singapore**</a>
+Intellectual and art house films have a long history in Singapore but the issues the genre faces have changed little over the years.&nbsp;**Gracie Lee**&nbsp;charts the challenges of alternative cinema in our city.
 
-As the Asian Film Archive celebrates its 10th anniversary,&nbsp;**Karen Chan**&nbsp;takes a look back at the genesis of the organisation, the work it does and its plans for the future.
 
-<img src="/images/vol-11-issue-1/movingjourney/OXY9173.jpg" style="width:80%;">
+<img src="/images/vol-11-issue-1/cultureoncelluloid/French_Film_Festival_re.jpg" style="width:80%;">
 <hr>
+
+
 
