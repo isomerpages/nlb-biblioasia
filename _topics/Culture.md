@@ -282,11 +282,11 @@ Chinese clan associations in Singapore date back to the time of Stamford Raffles
 <img src="/images/vol-10-issue-2/chineseclan/Chinese_migrants.jpg" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-2/jul-sep-2014/chinese-clan-sg/">**Chinese Clan Associations in Singapore: Then and Now**</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-2/jul-sep-2014/belachan-curry-puff-singapore-food-heritage/">**Of Belacan and Curry Puffs: A Taste of Singapore’s Past**</a>
 
-Chinese clan associations in Singapore date back to the time of Stamford Raffles.&nbsp;**Lee Meiyu**&nbsp;shows us how the functions of clan associations have changed over the years according to the needs of the local Chinese community as well as changes in state policy.
+**Bonny Tan**&nbsp;pores through the rich archives of Malayan newspapers and shows how disparate communities have come together to create a food culture that is truly emblematic of Singapore’s multicultural character.
 
-<img src="/images/vol-10-issue-2/chineseclan/Chinese_migrants.jpg" style="width:80%;">
+<img src="/images/vol-10-issue-2/belacanandcurrypuff/belacan_used.jpg" style="width:80%;">
 <hr>
 
 
