@@ -184,5 +184,3 @@ Few people are aware that Singapore’s cinema history dates back to as early as
 <hr>
 
 images/vol-11-issue-1/earlysgcinema/bg2.jpg
-
-
