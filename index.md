@@ -27,11 +27,11 @@ sections:
       alt: Readership Survey
   - infopic:
       title: Eu Tong Sen’s “Pearl Under the Burning Tropical Sun”
-      subtitle: Architecture
+      subtitle: More places and buildings
       id: infopic
       description: The grandeur and opulence of Eu Villa on Mount Sophia was
         unrivalled in its heyday.
-      button: Eu Villa on Mount Sophia
+      button: A Not-So-Humble Abode
       url: /places-and-buildings/2024/8/eu-tong-sen-villa/
       image: /images/Online Only Articles/EU Villa/aerial_view_topics.png
       alt: Image alt text
