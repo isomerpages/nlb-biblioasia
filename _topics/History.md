@@ -148,6 +148,3 @@ National Day parades have been a ubiquitous part of Singapore’s National Day c
 
 <img src="/images/vol-10-issue-2/nationalday/National_Day_Parade.jpg" style="width:80%;">
 <hr>
-
-
-
