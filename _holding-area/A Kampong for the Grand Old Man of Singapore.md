@@ -94,6 +94,10 @@ Several times during the week, and accompanied by his grandson, Lim would be dri
 
 With her husband at the City Club, which served as his daycare centre, Mrs Lim had free reign to oversee the running of the mansion and kampong residents as well as engage in the numerous charities and organisations to which she belonged. She supervised the collection of rents, and managed the wages and chores of the various servants, gardeners and handymen.&nbsp; She not only oversaw the health and well-being of her immediate family members, but also that of the children and families who were part of the kampong, going as far as to ensure that their schooling needs are met and arranging for jobs and suitable marriages as they grew up. In effect, Mrs Lim was the kampong’s affectionately remembered châtelaine (mistress of a large household).[^19]
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Lim%20Boon%20Keng%20Mansion/Paterson_Hill7.jpg" style="width: 60%;">        Lim Boon Keng’s wife Grace Yin Pek Ha, 1950s. <i>Courtesy of Lim Kok Lian.</i></div>
+
   
 
 
