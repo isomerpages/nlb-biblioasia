@@ -125,17 +125,9 @@ Curriculum Development Institute of Singapore, <a href="https://www.nas.gov.sg/a
 <img src="/images/Vol%2020%20Issue%202/Cable%20Cars/2nd_gen_cable_cars.png" style="width: 60%;"><br><br>
 Singapore Broadcasting Corporation, <a href="https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/469e471f-1164-11e3-83d5-0050568939ad">“News Report on Launch of Second-generation Cable Cars</a>,” 10 April 1994, video, 30:00. (From National Archives of Singapore, accession no. 1994000200)<br><br>
 <img src="/images/Vol%2020%20Issue%202/Cable%20Cars/Mediacorp.png" style="width: 60%;"><br><br>
-Mediacorp Pte Ltd, “[News Report on Reopening of Cable Cars](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/69d06dd7-1164-11e3-83d5-0050568939ad),” 20 July 2010, video, 30:00.&nbsp;(From National Archives of Singapore, accession no. 2010006569)<br><br>
-<img src="/images/Vol%2020%20Issue%202/Cable%20Cars/reopening_cable_car_rides.png" style="width: 60%;"><br><br>
-	
-	
-	
-	
-	
+Mediacorp Pte Ltd, <a href="https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/69d06dd7-1164-11e3-83d5-0050568939ad">“News Report on Reopening of Cable Cars</a>,” 20 July 2010, video, 30:00.&nbsp;(From National Archives of Singapore, accession no. 2010006569)<br><br>
+<img src="/images/Vol%2020%20Issue%202/Cable%20Cars/reopening_cable_car_rides.png" style="width: 60%;"><br><br>	
 </div>
-
-
-
 
 <div style="background-color: white;">
 <br>
