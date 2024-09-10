@@ -45,6 +45,17 @@ Chong Joo Beng, whose family was Lim’s tenant, was born in an annexed portion 
 <img src="/images/Online%20Only%20Articles/Lim%20Boon%20Keng%20Mansion/LBK_Attap_Roof.jpg" style="width: 80%;">
 Lim Boon Keng and family in an upstairs porch of the house with the attap roof, 1935.<i>Courtesy of Lim Kok Lian.</i></div>
 
+Both Chong and Lim’s grandson, Lim Kok Lian, who spent a great deal of his childhood years in the Paterson Hill mansion, recall that there were several long-term Chinese families as well as Punjabi, Malay and Eurasian families living in huts on the compound and in the mansion itself.&nbsp; Members of the Royal Air Force and Royal Navy also rented rooms in the main house from Mrs Lim Boon Keng nee Grace Yin Pek Ha. In residence too were Lim Kok Lian’s father, the legendary auto racer Lim Peng Han, his mother and his two siblings.[^8]
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Lim%20Boon%20Keng%20Mansion/Paterson_Hill6.jpg" style="width: 80%;">
+Lim Boon Keng and his wife with their son Lim Peng Han and grandson Lim Kok Lian, 1930s–40s. <i>Courtesy of Lim Kok Lian.</i></div>
+
+  
+
+
+
   
 
 
@@ -76,3 +87,5 @@ Lim Boon Keng and family in an upstairs porch of the house with the attap roof, 
 [^6]:  Chong Joo Beng, interview, 2019; Lim Kok Lian, private memoir on Lim Boon Keng and his family, 2019.
 
 [^7]:  Chong Joo Beng, interview, 2019.
+
+[^8]:  Lim Kok Lian, private memoir on Lim Boon Keng and his family, 2019.
