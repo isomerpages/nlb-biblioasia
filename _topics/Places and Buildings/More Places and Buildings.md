@@ -355,3 +355,17 @@ Apart from being an escape from the hubbub of city life, Pulau Ubin is home to a
 <img src="/images/vol-10-issue-1/library/old_National_Library.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-4/jan-march-2014/old-singapore-buildings-photos/">**Old Singapore: Places in Pictures and Oral History**</a>
+
+Grand Hotel de l’Europe, National Theatre and National Stadium are just some of the places in Singapore that have might have been forgotten if not for the National Archives of Singapore. Rediscover these buildings of old with Oral History Specialist&nbsp;**Lu Wenshi**.
+
+<img src="/images/vol-9-issue-4/oldsg/national_theatre.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-4/jan-march-2014/kampung-living-singapore/">**Kampung Living: A–Z**</a>
+
+It’s hard to believe that Singapore was once a sleepy village outpost. Re-live those nostalgic kampung days with this laundry list of life as it once was.
+
+<img src="/images/vol-9-issue-4/kampong/malay_house.jpg" style="width:80%;">
+<hr>
+
