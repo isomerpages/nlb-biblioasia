@@ -571,41 +571,49 @@ In her effort to republish one of our unknown literary treasures,&nbsp;**Dr Erik
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-1/apr-jun-2014/heat-and-rain/">**Heat and Rain in the Poetry of Khoo Seok Wan**</a>
 
-<img src="/images/vol-10-issue-1/heatandrain/Khoo_Seok_Wan.jpg" style="width:100%;">
+<img src="/images/vol-10-issue-1/heatandrain/Khoo_Seok_Wan.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-1/apr-jun-2014/suratman/">**Suratman Markasan: Malay Literature and Social Memory**</a>
 
 **Azhar Ibrahim**&nbsp;examines how the illustrious Malay writer Suratman Markasan uses literature as a means to propagate ideas and mark signposts in our social memory.
 
-<img src="/images/vol-10-issue-1/suratman/suratman.jpg" style="width:100%;">
+<img src="/images/vol-10-issue-1/suratman/suratman.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-4/jan-march-2014/khoo-seok-wan-kang-you-wei/">**邱菽园与康有为的友谊与交往 — 再读邱菽园后人王清建先生珍藏历史文献**</a>
 
 Based on letters exchanged by Khoo Seok Wan and Kang You Wei,&nbsp;**Professor Zhang Renfeng**&nbsp;debunks myths about their friendship and provides insight into historical events during the late Qing Dynasty.
 
-<img src="/images/vol-9-issue-4/ch/Khoo_Seok_Wan_Collection.jpg" style="width:100%;">
+<img src="/images/vol-9-issue-4/ch/Khoo_Seok_Wan_Collection.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-4/jan-march-2014/forgotten-trades-singapore/">**Time–forgotten Trades**</a>
 
 Unable to keep pace with Singapore’s economic progress and development, many of Singapore’s early crafts and trades have disappeared.&nbsp;**Sharon Teng**&nbsp;tells us about these trades and what is being done to remember them.
 
-<img src="/images/vol-9-issue-4/forgottentrades/bg.jpg" style="width:100%;">
+<img src="/images/vol-9-issue-4/forgottentrades/bg.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-4/jan-march-2014/tsao-chieh-singapore-composer/">**The Unlikely Composer: Tsao Chieh**</a>
 
 Despite his untimely death at the age of 43, Singaporean composer Tsao Chieh’s legacy lives on — immortalised through his small but significant body of experimental works.&nbsp;**Jun Zubillaga-Pow**&nbsp;traces the life of this underrated artist.
 
-<img src="/images/vol-9-issue-4/tsaochieh/tsaochieh.jpg" style="width:100%;">
+<img src="/images/vol-9-issue-4/tsaochieh/tsaochieh.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-4/jan-march-2014/nlb-hands-exhibition/">**A Tale of Many Hands**</a>
 
 There’s more to the hand than meets the eye, as&nbsp;**Tan Huism**&nbsp;found out when she curated an exhibition using the motif of hands for the National Library recently.
 
-<img src="/images/vol-9-issue-4/hands/santhan_baskar.jpg" style="width:100%;">
+<img src="/images/vol-9-issue-4/hands/santhan_baskar.jpg" style="width:80%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-4/jan-march-2014/overseas-chinese/">**Singapore Men of Science and Medicine in China (1911–1949)**</a>
+
+**Wayne Soon**&nbsp;sheds light on the enduring and underrated legacy of Overseas Chinese doctors such as Lim Boon Keng and Robert Lim on China’s medical institutions.
+
+<img src="/images/vol-9-issue-4/sgmanofscienceandmedicine/group_of_chinese.jpg" style="width:80%;">
+<hr>
+
 
