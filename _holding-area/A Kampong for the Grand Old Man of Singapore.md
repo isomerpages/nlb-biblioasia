@@ -54,6 +54,11 @@ Lim Boon Keng and his wife with their son Lim Peng Han and grandson Lim Kok Lian
 
 Chong and Lim Kok Lian remember that the sprawling compound had a front garden that “was reasonably maintained”, although “the hedges on the perimeter of the compound facing Paterson Hill were hardly ever trimmed”. Chong also remembers that around the area of the mansion occupied by Lim Peng Han and his family, “disemboweled motor car bodies and engine parts were everywhere to be seen”. The grounds were covered with duck and chicken droppings; the latter being the by-product of the fighting cocks that the ace race car driver bred along with the exotic Siamese fighting fish he kept in rows of earthenware and glass jars.[^9]
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Lim%20Boon%20Keng%20Mansion/racing_cock_fighting.png" style="width: 80%;">
+Lim Kok Lian was a racing car enthusiast and also kept fighting cocks, 1953.<i>Courtesy of Lim Kok Lian.</i></div>
+
   
 
 
