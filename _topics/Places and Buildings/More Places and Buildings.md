@@ -368,4 +368,3 @@ It’s hard to believe that Singapore was once a sleepy village outpost. Re-live
 
 <img src="/images/vol-9-issue-4/kampong/malay_house.jpg" style="width:80%;">
 <hr>
-
