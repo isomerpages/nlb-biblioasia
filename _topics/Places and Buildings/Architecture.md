@@ -136,3 +136,10 @@ Architectural conservation or real estate investment?&nbsp;**Justin Zhuang**&nbs
 
 <img src="/images/Vol-12-issue-3/saving-pearl-bank-apartments/02-savingpearlbank.jpg" style="width:80%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-3/oct-dec-2014/lee-kip-lin/">**Lee Kip Lin: Kampung Boy Conservateur**</a>
+
+<img src="/mages/vol-10-issue-3/leekiplin/Lee_Kip_Lin.jpg" style="width:80%;">
+<hr>
+
+
