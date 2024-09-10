@@ -552,16 +552,18 @@ In her effort to republish one of our unknown literary treasures,&nbsp;**Dr Erik
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-2/jul-sep-2014/fu-jian-gao-guan/">**邱菽园与晚清政府四位福建籍高官的交往**</a>
 
-**Professor Zhang Renfeng**&nbsp;pieces together the lives of the Fujian people and the helping hand offered by the Overseas Chinese to their homeland through letters between poet Khoo Seok Wan and Chinese officials from Fujian, China.****
+**Professor Zhang Renfeng**&nbsp;pieces together the lives of the Fujian people and the helping hand offered by the Overseas Chinese to their homeland through letters between poet Khoo Seok Wan and Chinese officials from Fujian, China.
 
 <img src="/images/vol-10-issue-2/ch/second_lettter.jpg" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-2/jul-sep-2014/fu-jian-gao-guan/">**邱菽园与晚清政府四位福建籍高官的交往**</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-2/jul-sep-2014/john-turnbull-thomson/">**Remembering John Turnbull Thomson**</a>
 
-**Professor Zhang Renfeng**&nbsp;pieces together the lives of the Fujian people and the helping hand offered by the Overseas Chinese to their homeland through letters between poet Khoo Seok Wan and Chinese officials from Fujian, China.****
+**Timothy Pwee**&nbsp;introduces the life, times and works of John Turnbull Thomson, engineer, painter, Government Surveyor and Superintendent of Public Works of Singapore.
 
-<img src="/images/vol-10-issue-2/ch/second_lettter.jpg" style="width:80%;">
+<img src="/images/vol-10-issue-2/thomson/john_turnbull_thomson.jpg" style="width:80%;">
 <hr>
+
+images/vol-10-issue-2/thomson/john_turnbull_thomson.jpg
 
 <hr>
