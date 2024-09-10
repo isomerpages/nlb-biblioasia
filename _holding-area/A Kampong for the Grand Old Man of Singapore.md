@@ -78,6 +78,17 @@ In all likelihood, the “gift” had been made by Tan Chay Yan’s wife, Chua W
 <br>
 <img src="/images/Online%20Only%20Articles/Lim%20Boon%20Keng%20Mansion/1_Paterson_Hill_transactions.jpg" style="width: 80%;">Deed showing sale of 1 Paterson Hill by Mrs Tan Chay Yan to Mrs Lim Boon Keng, 1939. <i>Courtesy of Lim Kok Lian.</i></div>
 
+#### **Matriarch of the Mansion**
+
+Aside for a period in 1942 when Lim and his wife were interned in a concentration camp on Arab Street during the Japanese Occupation of Singapore (1942–45), the man who came to be known as “the Grand Old Man”, or “the Sage of Singapore”, would spend the remaining years of his life in the mansion with the attap roof surrounded by his kampong as its “Sen-si kung” (“venerable sage”).[^15]
+
+Despite the reverence and respect accorded him, family and former residents of the mansion and surrounding kampong recall that it was Mrs Lim Boon Keng who quietly presided over the often chaotic and unorthodox household. Over the years, 1 Paterson Hill became something of a halfway house for various progeny or relatives in need of temporary lodgings before they moved to more permanent places of domicile.[^16]
+
+Lim, as his grandson Lim Kok Lian recalls, lived the life not unlike any other retiree. On any given day, residents nearby would be greeted by the sight of a small, elderly man with a wispy goatee taking his walk along Paterson Hill. Immaculately attired in his tropical whites, he would often make the somewhat precarious crossing across the road to visit his friend and fellow physician Hu Tsai Kuen who resided in the _Crazy Rich Asians_ mansion. Conversations between the two doctors were purportedly extended over more beers than probably what Mrs Lim would have permitted above the daily swig of Johnny Walker that the old man prescribed for himself.[^17]
+
+  
+
+
   
 
 
@@ -133,3 +144,9 @@ In all likelihood, the “gift” had been made by Tan Chay Yan’s wife, Chua W
 [^13]:  Lim Kok Lian, private memoir on Lim Boon Keng and his family, 2019.
 
 [^14]:  Lim Kok Lian, private memoir on Lim Boon Keng and his family, 2019.
+
+[^15]:  Tan Kok Guan, Chong Joo Beng and Lim Kok Lian, interview, 2019.
+
+[^16]:  Lim Kok Lian, private memoir on Lim Boon Keng and his family, 2019.
+
+[^17]:  Lim Kok Lian, private memoir on Lim Boon Keng and his family, 2019.
