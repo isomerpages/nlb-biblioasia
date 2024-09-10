@@ -587,4 +587,15 @@ Based on letters exchanged by Khoo Seok Wan and Kang You Wei,&nbsp;**Professor Z
 
 <img src="/images/vol-9-issue-4/ch/Khoo_Seok_Wan_Collection.jpg" style="width:100%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-4/jan-march-2014/forgotten-trades-singapore/">**Time–forgotten Trades**</a>
+
+Unable to keep pace with Singapore’s economic progress and development, many of Singapore’s early crafts and trades have disappeared.&nbsp;**Sharon Teng**&nbsp;tells us about these trades and what is being done to remember them.
+
+<img src="/images/vol-9-issue-4/forgottentrades/bg.jpg" style="width:100%;">
 <hr>
+
+
+
+
+
