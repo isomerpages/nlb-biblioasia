@@ -289,3 +289,8 @@ This valuable collection at the National Library is significant for a number of 
 <img src="/images/Vol-12-issue-1/cover-to-cover/01_covertocover.jpg" style="width:90%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-3/oct-dec-2014/aw-boon-haw-tiger-balm-ads/">**Aw Boon Haw and His Tiger Balm Newspaper Advertisements 1916–1954**</a>
+
+<img src="/images/vol-10-issue-3/tigerbalm/Aw_Boon_Haw.jpg" style="width:80%;">
+<hr>
+
