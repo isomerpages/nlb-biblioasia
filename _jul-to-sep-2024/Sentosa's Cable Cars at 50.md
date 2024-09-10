@@ -121,7 +121,7 @@ Over the last five decades, Sentosa’s cable cars have established themselves a
 
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba; font-size=larger"><b>AUDIO-VISUAL RESOURCES</b><br><br>
 Curriculum Development Institute of Singapore, "<a href="https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/6b2f6b65-1164-11e3-83d5-0050568939ad">Hidup Bersama: Negara-ku Permai</a>,” 30 April 1975, video, 19:44. (From National Archives of Singapore, accession no. 2010010617)<br><br>
-	“Negara-ku Permai” (My Country Is Lovely) is part of the&nbsp;<i>Hidup Bersama</i> (Living Together) series for Primary 2 students. In this programme, the teacher brings the students to a few places of interest in Singapore such as Sentosa, Mount Faber, the Singapore Zoo and the Jurong Bird Park.<br><br>
+	“Negara-ku Permai” ("My Country Is Lovely") is part of the&nbsp;<i>Hidup Bersama</i> ("Living Together") series for Primary 2 students. In this programme, the teacher brings the students to a few places of interest in Singapore such as Sentosa, Mount Faber, the Singapore Zoo and the Jurong Bird Park.<br><br>
 <img src="/images/Vol%2020%20Issue%202/Cable%20Cars/2nd_gen_cable_cars.png" style="width: 60%;"><br><br>
 Singapore Broadcasting Corporation, "<a href="https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/469e471f-1164-11e3-83d5-0050568939ad">News Report on Launch of Second-generation Cable Cars</a>,” 10 April 1994, video, 30:00. (From National Archives of Singapore, accession no. 1994000200)<br><br>
 <img src="/images/Vol%2020%20Issue%202/Cable%20Cars/Mediacorp.png" style="width: 60%;"><br><br>
