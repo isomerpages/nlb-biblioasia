@@ -86,6 +86,9 @@ Despite the reverence and respect accorded him, family and former residents of t
 
 Lim, as his grandson Lim Kok Lian recalls, lived the life not unlike any other retiree. On any given day, residents nearby would be greeted by the sight of a small, elderly man with a wispy goatee taking his walk along Paterson Hill. Immaculately attired in his tropical whites, he would often make the somewhat precarious crossing across the road to visit his friend and fellow physician Hu Tsai Kuen who resided in the _Crazy Rich Asians_ mansion. Conversations between the two doctors were purportedly extended over more beers than probably what Mrs Lim would have permitted above the daily swig of Johnny Walker that the old man prescribed for himself.[^17]
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Lim%20Boon%20Keng%20Mansion/LimBoon_Keng_HuTsaiKuen.jpg" style="width: 60%;">Lim Boon Keng with his friend and colleague Hu Tsai Kuen, 1948. <i>Courtesy of Lim Kok Lian.</i></div>
   
 
 
