@@ -244,4 +244,10 @@ As the Asian Film Archive celebrates its 10th anniversary,&nbsp;**Karen Chan**&n
 <img src="/images/vol-10-issue-4/music/local_singer.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-3/oct-dec-2014/singapore-concept-plan/">**Planning a Nation: The Concept Plan**</a>
+
+Singapore’s towering skyscrapers and its evolving landscape is by no means accidental.&nbsp;**Lim Tin Seng**&nbsp;walks us through the country’s various Concept Plans, each carefully put together in response to the city’s changing needs.
+
+<img src="/images/vol-10-issue-3/conceptplan/Plan_of_the_Town_of_Singapore.jpg" style="width:80%;">
+<hr>
 
