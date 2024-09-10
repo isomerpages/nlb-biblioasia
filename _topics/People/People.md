@@ -538,4 +538,14 @@ In her effort to republish one of our unknown literary treasures,&nbsp;**Dr Erik
 <img src="/images/vol-10-issue-3/leekiplin/Lee_Kip_Lin.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-3/oct-dec-2014/aw-boon-haw-tiger-balm-ads/">**Aw Boon Haw and His Tiger Balm Newspaper Advertisements 1916–1954**</a>
+
+<img src="/images/vol-10-issue-3/tigerbalm/Aw_Boon_Haw.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-3/oct-dec-2014/aw-boon-haw-tiger-balm-ads/">**Aw Boon Haw and His Tiger Balm Newspaper Advertisements 1916–1954**</a>
+
+<img src="/images/vol-10-issue-3/tigerbalm/Aw_Boon_Haw.jpg" style="width:80%;">
+<hr>
+
 <hr>
