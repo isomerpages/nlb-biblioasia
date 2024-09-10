@@ -341,5 +341,10 @@ Orchard Road as we know it today is a far cry from its quiet beginnings as a pla
 <img src="/images/vol-10-issue-3/raffles/raffles_cover.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-2/jul-sep-2014/stories-of-ubin/">**Standing Firm: Stories of Ubin**</a>
 
+Apart from being an escape from the hubbub of city life, Pulau Ubin is home to a small but dwindling number of Singaporeans.&nbsp;**Ang Seow Leng**&nbsp;sheds some light on life on the island.
+
+<img src="/images/vol-10-issue-2/ubin/Pulau_Ubin.jpg" style="width:80%;">
+<hr>
 
