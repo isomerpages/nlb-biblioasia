@@ -513,8 +513,7 @@ The “Mad Chinaman” was probably the first to push the boundaries of popular 
 <img src="/images/vol-11-issue-2/sgsportgreat/LLOYD_VALBERG.jpg" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-4/jan-march-2015/nation-of-island/">**A Nation of Islands**
-</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-4/jan-march-2015/nation-of-island/">**A Nation of Islands**</a>
 
 <img src="/images/vol-10-issue-4/nationofisland/StJohn_KenanganManis_CA34821.jpg" style="width:80%;">
 <hr>
@@ -615,5 +614,3 @@ There’s more to the hand than meets the eye, as&nbsp;**Tan Huism**&nbsp;found 
 
 <img src="/images/vol-9-issue-4/sgmanofscienceandmedicine/group_of_chinese.jpg" style="width:80%;">
 <hr>
-
-
