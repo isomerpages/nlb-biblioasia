@@ -57,7 +57,7 @@ Chong and Lim Kok Lian remember that the sprawling compound had a front garden t
 <div style="background-color: white;">
 <br>
 <img src="/images/Online%20Only%20Articles/Lim%20Boon%20Keng%20Mansion/racing_cock_fighting.png" style="width: 80%;">
-Lim Kok Lian was a racing car enthusiast and also kept fighting cocks, 1953.<i>Courtesy of Lim Kok Lian.</i></div>
+Lim Kok Lian was a racing car enthusiast and also kept fighting cocks, 1953. <i>Courtesy of Lim Kok Lian.</i></div>
 
 Surrounded by newer stately mansions with manicured lawns and a stone’s throw from the glitzy businesses along Orchard Road, Lim’s property leaned precariously into the category of an urban slum. Incidentally, one of the newer and elegant properties across from Lim’s compound, at 2 Paterson Hill, would be featured decades later in the Hollywood movie, <i>Crazy Rich Asians</i>.
 
@@ -73,6 +73,10 @@ In 1937, after serving as president of Amoy University (now Xiamen University) f
 According to his grandson Lim Kok Lian, his grandmother once told him that the house on 1 Paterson Hill had been managed since the 1930s by Tan Hoon Siang, son of Tan Chay Yan. In recognition of the close friendship between his father and Lim, Tan Hoon Siang had “given” the attap-roofed mansion to Lim when he returned to Singapore and found himself depleted of financial resources.[^13]
 
 In all likelihood, the “gift” had been made by Tan Chay Yan’s wife, Chua Wan Neo, as the property was at the time listed under her name (Tan Chay Yan died in 1916).&nbsp; Chua was a woman well-known for her business acumen, not only in the management of the rubber plantations left to her upon her husband’s demise, but also for her real estate holdings. Later, official records reveal the official sale of the property by Chua to Mrs Lim Boon Keng in 1939.[^14]
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Lim%20Boon%20Keng%20Mansion/1_Paterson_Hill_transactions.jpg" style="width: 80%;">Deed showing sale of 1 Paterson Hill by Mrs Tan Chay Yan to Mrs Lim Boon Keng, 1939. <i>Courtesy of Lim Kok Lian.</i></div>
 
   
 
