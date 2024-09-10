@@ -52,6 +52,11 @@ Both Chong and Lim’s grandson, Lim Kok Lian, who spent a great deal of his chi
 <img src="/images/Online%20Only%20Articles/Lim%20Boon%20Keng%20Mansion/Paterson_Hill6.jpg" style="width: 80%;">
 Lim Boon Keng and his wife with their son Lim Peng Han and grandson Lim Kok Lian, 1930s–40s. <i>Courtesy of Lim Kok Lian.</i></div>
 
+Chong and Lim Kok Lian remember that the sprawling compound had a front garden that “was reasonably maintained”, although “the hedges on the perimeter of the compound facing Paterson Hill were hardly ever trimmed”. Chong also remembers that around the area of the mansion occupied by Lim Peng Han and his family, “disemboweled motor car bodies and engine parts were everywhere to be seen”. The grounds were covered with duck and chicken droppings; the latter being the by-product of the fighting cocks that the ace race car driver bred along with the exotic Siamese fighting fish he kept in rows of earthenware and glass jars.[^9]
+
+  
+
+
   
 
 
@@ -89,3 +94,5 @@ Lim Boon Keng and his wife with their son Lim Peng Han and grandson Lim Kok Lian
 [^7]:  Chong Joo Beng, interview, 2019.
 
 [^8]:  Lim Kok Lian, private memoir on Lim Boon Keng and his family, 2019.
+
+[^9]:  Chong Joo Beng and Lim Kok Lian, interview, 2019.
