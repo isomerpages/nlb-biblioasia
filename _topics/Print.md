@@ -53,7 +53,6 @@ Malay seals of the 19th century hold important information, says **Annabel Teh G
 <p>One postcard may not say much, but a collection of postcards can speak volumes.&nbsp;<b>Stephanie Pee</b>&nbsp;tells us what&nbsp;_Postcard Impressions of Early 20th-century Singapore_&nbsp;has to say.</p>
 
 <img src="/images/Vol-16-issue-1/Postcards/malay_village.png" style="width:80%;">
-
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/the-news-gallery/"> The News Gallery: Beyond Headlines</a>
@@ -307,6 +306,14 @@ Based on letters exchanged by Khoo Seok Wan and Kang You Wei,&nbsp;**Professor Z
 
 <img src="/images/vol-9-issue-4/ch/Khoo_Seok_Wan_Collection.jpg" style="width:80%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-4/jan-march-2014/sg-anglican-archives/">**A Colonial Heritage: Collections of the Anglican Diocese of Singapore**</a>
+
+**Bonny Tan** explores the rich collections of the Anglican Diocese of Singapore, which holds materials such as birth and death records, publications and other documents.
+
+<img src="images/vol-9-issue-4/colonial/IMG_2166-edit.jpg" style="width:80%;">
+<hr>
+
 
 
 
