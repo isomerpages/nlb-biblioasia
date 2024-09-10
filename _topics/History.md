@@ -100,8 +100,7 @@ The opium trade was a lucrative business in colonial Singapore.&nbsp;**Gracie Le
 <img src="/images/Vol-11-issue-3/dragon/AChinesemansmokingopium.jpg" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-3/oct-dec-2015/bodies/">**Money-making Bodies: Prostitution in Colonial Southeast Asia**
-</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-3/oct-dec-2015/bodies/">**Money-making Bodies: Prostitution in Colonial Southeast Asia**</a>
 
 The oldest profession in the world took on a different complexion in Southeast Asia when the European colonial powers arrived.&nbsp;**Farish Noor**&nbsp;puts the pieces together.
 
@@ -122,14 +121,16 @@ The Ayam brand of canned sardines was the brainchild of Frenchman Alfred Clouët
 <img src="/images/vol-11-issue-2/stories/sg50_bookss.jpg" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/search-sg-old-map/">**Searching for Singapore in Old Maps and Sea Charts**
-</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/search-sg-old-map/">**Searching for Singapore in Old Maps and Sea Charts**</a>
 
 **Kwa Chong Guan**&nbsp;dissects the history of maps and tells us how Singapore was perceived and located in early modern European maps of the region.
-
 
 <img src="/images/vol-11-issue-1/searchingforsg/CantinoChart_topic.png" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/ga-malay-cinema/">**The Golden Age of Malay Cinema: 1947–1972**</a>
 
+Few people are aware that Singapore was once the hub for Malay filmmaking in Southeast Asia.&nbsp;**Nor Afidah Bte Abd Rahman**&nbsp;and&nbsp;**Michelle Heng**&nbsp;recount its fabled history.
 
+<img src="/images/vol-11-issue-1/malaycinema/bg3_re.jpg" style="width:80%;">
+<hr>

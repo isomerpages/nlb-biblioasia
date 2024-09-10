@@ -250,8 +250,7 @@ The opium trade was a lucrative business in colonial Singapore.&nbsp;**Gracie Le
 <img src="/images/Vol-11-issue-3/dragon/AChinesemansmokingopium.jpg" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-3/oct-dec-2015/bodies/">**Money-making Bodies: Prostitution in Colonial Southeast Asia**
-</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-3/oct-dec-2015/bodies/">**Money-making Bodies: Prostitution in Colonial Southeast Asia**</a>
 
 The oldest profession in the world took on a different complexion in Southeast Asia when the European colonial powers arrived.&nbsp;**Farish Noor**&nbsp;puts the pieces together.
 
@@ -265,7 +264,37 @@ The oldest profession in the world took on a different complexion in Southeast A
  <img src="/images/Vol-11-issue-3/Housewives/12chapjikeetiles.jpg" style="width:80%;">
 <hr>
  
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/culture-on-celluloid/">**Culture on Celluloid: Alternative Films in Singapore**</a>
+Intellectual and art house films have a long history in Singapore but the issues the genre faces have changed little over the years.&nbsp;**Gracie Lee**&nbsp;charts the challenges of alternative cinema in our city.
 
+<img src="/images/vol-11-issue-1/cultureoncelluloid/French_Film_Festival_re.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-3/oct-dec-2014/singapore-fashion-trends-1960s-1990s/">**In Vogue: Singapore Fashion Trends from 1960s to 1990s**</a>
+
+<img src="/images/vol-10-issue-3/sgfashion/hw_nov_1967.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-2/jul-sep-2014/chinese-clan-sg/">**Chinese Clan Associations in Singapore: Then and Now**</a>
+
+Chinese clan associations in Singapore date back to the time of Stamford Raffles.&nbsp;**Lee Meiyu**&nbsp;shows us how the functions of clan associations have changed over the years according to the needs of the local Chinese community as well as changes in state policy.
+
+<img src="/images/vol-10-issue-2/chineseclan/Chinese_migrants.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-2/jul-sep-2014/belachan-curry-puff-singapore-food-heritage/">**Of Belacan and Curry Puffs: A Taste of Singapore’s Past**</a>
+
+**Bonny Tan**&nbsp;pores through the rich archives of Malayan newspapers and shows how disparate communities have come together to create a food culture that is truly emblematic of Singapore’s multicultural character.
+
+<img src="/images/vol-10-issue-2/belacanandcurrypuff/belacan_used.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-4/jan-march-2014/jiapu-chinese-family-lineage/">**The Jiapu Chronicles: What’s in a Name?**</a>
+
+Records of family lineage were important in traditional Chinese society.&nbsp;**Lee Meiyu**&nbsp;charts the history of these documents, or&nbsp;_jiapu_, which track not only family roots but also the social norms and cultural values of China at the time.
+
+<img src="/images/vol-9-issue-4/jiapu/bg.jpg" style="width:80%;">
+<hr>
 
 
 

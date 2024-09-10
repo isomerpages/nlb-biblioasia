@@ -310,8 +310,7 @@ The Eunos area in the east of Singapore is named after the pioneer, Mohamed Euno
 <img src="/images/vol-11-issue-2/malayjournalism/Mohamed_Eunos_Abdullah.jpg" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-4/jan-march-2015/nation-of-island/">**A Nation of Islands**
-</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-4/jan-march-2015/nation-of-island/">**A Nation of Islands**</a>
 
 <img src="/images/vol-10-issue-4/nationofisland/StJohn_KenanganManis_CA34821.jpg" style="width:80%;">
 <hr>
@@ -320,6 +319,27 @@ The Eunos area in the east of Singapore is named after the pioneer, Mohamed Euno
 
 Hidden temples and food haunts are just some of the things found in two psychedelic maps published in the 1980s.&nbsp;**Bonny Tan**&nbsp;explores the origins of these one-of-a-kind maps.
 
-
 <img src="/images/vol-10-issue-4/thesecretmap/combined_sm.jpg" style="width:80%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-3/oct-dec-2014/singapore-orchard-library/">**Designed for Use: library@orchard Makes a Comeback**</a>
+
+<img src="/images/vol-10-issue-3/library/cover.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-3/oct-dec-2014/singapore-orchard-road-history/">**Over Orchard**</a>
+
+Orchard Road as we know it today is a far cry from its quiet beginnings as a plantation and residential area.&nbsp;**Fiona Tan**&nbsp;takes us back in time to revisit some of Orchard’s most distinctive landmarks.
+
+<img src="/images/vol-10-issue-3/overorchard/orchard_road.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-3/oct-dec-2014/raffles-hotel-singapore-history/">**Raffles Hotel &amp; the Romance of Travel**</a>
+
+**Gretchen Liu**&nbsp;traces the history of this grand hotel, from its heyday of glitz and glamour to near ruin and its subsequent reincarnation into the heritage icon it is today.
+
+<img src="/images/vol-10-issue-3/raffles/raffles_cover.jpg" style="width:80%;">
+<hr>
+
+
+

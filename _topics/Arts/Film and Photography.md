@@ -147,8 +147,7 @@ Intellectual and art house films have a long history in Singapore but the issues
 <img src="/images/vol-11-issue-1/cultureoncelluloid/French_Film_Festival_re.jpg" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/movie-memorabilia/">**My Movie Memorabilia**
-</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/movie-memorabilia/">**My Movie Memorabilia**</a>
 
 **Wong Han Min**’s treasure trove of film memorabilia – collected over three decades – provides a glimpse of Singapore’s rich cinematic past.
 
@@ -183,4 +182,14 @@ Few people are aware that Singapore’s cinema history dates back to as early as
 <img src="/images/vol-11-issue-1/earlysgcinema/bg2.jpg" style="width:80%;">
 <hr>
 
-images/vol-11-issue-1/earlysgcinema/bg2.jpg
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-1/apr-jun-2015/leap-into-movie/">**My Leap Into Movies**</a>
+
+Theatre thespian and film director&nbsp;**Glen Goei**&nbsp;reflects on his transition from the stage to cinema screen.
+
+<img src="/images/vol-11-issue-1/myleapintomovies/Glen_Goei_profile1.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-4/jan-march-2015/points-of-departure/">**Points of Departure: Charting Memories Through Collective Imaginations**</a>
+
+<img src="/images/vol-10-issue-4/pointsofdeparture/ChangiTriptych_1_FP2_re.jpg" style="width:80%;">
+<hr>

@@ -53,7 +53,6 @@ Malay seals of the 19th century hold important information, says **Annabel Teh G
 <p>One postcard may not say much, but a collection of postcards can speak volumes.&nbsp;<b>Stephanie Pee</b>&nbsp;tells us what&nbsp;_Postcard Impressions of Early 20th-century Singapore_&nbsp;has to say.</p>
 
 <img src="/images/Vol-16-issue-1/Postcards/malay_village.png" style="width:80%;">
-
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-16/issue-1/apr-jun-2020/the-news-gallery/"> The News Gallery: Beyond Headlines</a>
@@ -288,4 +287,38 @@ This valuable collection at the National Library is significant for a number of 
 
 <img src="/images/Vol-12-issue-1/cover-to-cover/01_covertocover.jpg" style="width:90%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-3/oct-dec-2014/aw-boon-haw-tiger-balm-ads/">**Aw Boon Haw and His Tiger Balm Newspaper Advertisements 1916–1954**</a>
+
+<img src="/images/vol-10-issue-3/tigerbalm/Aw_Boon_Haw.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-2/jul-sep-2014/fu-jian-gao-guan/">**邱菽园与晚清政府四位福建籍高官的交往**</a>
+
+**Professor Zhang Renfeng**&nbsp;pieces together the lives of the Fujian people and the helping hand offered by the Overseas Chinese to their homeland through letters between poet Khoo Seok Wan and Chinese officials from Fujian, China.
+
+<img src="/images/vol-10-issue-2/ch/second_lettter.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-4/jan-march-2014/khoo-seok-wan-kang-you-wei/">**邱菽园与康有为的友谊与交往 — 再读邱菽园后人王清建先生珍藏历史文献**</a>
+
+Based on letters exchanged by Khoo Seok Wan and Kang You Wei,&nbsp;**Professor Zhang Renfeng**&nbsp;debunks myths about their friendship and provides insight into historical events during the late Qing Dynasty.
+
+<img src="/images/vol-9-issue-4/ch/Khoo_Seok_Wan_Collection.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-4/jan-march-2014/sg-anglican-archives/">**A Colonial Heritage: Collections of the Anglican Diocese of Singapore**</a>
+
+**Bonny Tan** explores the rich collections of the Anglican Diocese of Singapore, which holds materials such as birth and death records, publications and other documents.
+
+<img src="images/vol-9-issue-4/colonial/IMG_2166-edit.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-4/jan-march-2014/jiapu-chinese-family-lineage/">**The Jiapu Chronicles: What’s in a Name?**</a>
+
+Records of family lineage were important in traditional Chinese society.&nbsp;**Lee Meiyu**&nbsp;charts the history of these documents, or&nbsp;_jiapu_, which track not only family roots but also the social norms and cultural values of China at the time.
+
+<img src="/images/vol-9-issue-4/jiapu/bg.jpg" style="width:80%;">
+<hr>
+
 

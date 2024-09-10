@@ -21,14 +21,12 @@ Chia Jie Lin highlights interesting cartographic efforts from the National Libra
 <i>India Tercera Nuova Tavola</i> is one of the first early modern maps of Southeast Asia. It is also the National Library’s oldest map that makes reference to a C. Cinca Pula, which scholars believe refers to either the town of Singapore, one of several straits on which Singapore sits, or the southern tip of the Malay Peninsula. 
 
 <img src="/images/vol-11-issue-4/India_Tercera_topic.png" style="width:80%;">
-
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-4/jan-mar-2016/portuguese-map-sincapura-janssen">A Portuguese Map of Sincapura</a>
 <p>The title page of Malaca, l’Inde Méridionale et le Cathay has a floral border and bears the distinct red vertical stamp of the Syonan Library (Syonan Tosyokan) – the name the National Library was known as during the Japanese Occupation.</p>
 
 <img src="/images/vol-11-issue-4/portuguese-map-of-sincapura/portugesemap_topic.png" style="width:80%;">
-
 <hr>
 
 
@@ -51,17 +49,6 @@ This 1606 engraved map by the de Bry family is one of the earliest in the Nation
 <img src="/images/vol-11-issue-1/searchingforsg/CantinoChart_topic.png" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-4/jan-march-2015/rare-map"> The National Library's Rare Maps Collection</a>
-<p>The National Library has a collection of rare maps dating back to the 15th century. Makeswary Periasamy shares the significance and history of these maps and their makers.</p> 
-
-<img src="/images/vol-10-issue-4/raremap/wallmap_topic.png" style="width:80%;">
-<hr>
-
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-4/jan-march-2015/map-as-statement"> Maps as Statements of Power and Domination</a>
-<p>Drawing from his personal collection of maps amassed over three decades, Dr Farish A. Noor invites us to truly read maps and look beyond their geographical boundaries.</p> 
-
-<img src="/images/vol-10-issue-4/statementsofpoweranddomination/batik.jpg" style="width:80%;">
-<hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-4/jan-march-2015/secretmap">The Secret Maps of Singapore</a>
 <p>Hidden temples and food haunts are just some of the things found in two psychedelic maps published in the 1980s. Bonny Tan explores the origins of these one-of-a-kind maps.</p> 
@@ -73,4 +60,25 @@ This 1606 engraved map by the de Bry family is one of the earliest in the Nation
 <p>From Singapore’s days as a colony to modern times, maps have been an integral part of the nation’s development. Kevin Khoo highlights the National Archives of Singapore’s 10,000-strong map collection.</p> 
 
 <img src="/images/vol-10-issue-4/layoftheland/1971MapSGIsland_topic.png" style="width:70%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-4/jan-march-2015/rare-map/">**The National Library's Rare Maps Collection**</a>
+
+The National Library has a collection of rare maps dating back to the 15th century.&nbsp;**Makeswary Periasamy**&nbsp;shares the significance and history of these maps and their makers.
+
+<img src="/images/vol-10-issue-4/raremap/wallmap_topic.png" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-4/jan-march-2015/map-as-statement/">**Maps as Statements of Power and Domination**</a>
+
+Drawing from his personal collection of maps amassed over three decades,&nbsp;**Dr Farish A. Noor**&nbsp;invites us to truly read maps and look beyond their geographical boundaries.
+
+<img src="/images/vol-10-issue-4/statementsofpoweranddomination/batik.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-4/jan-march-2015/geographic/">**GeolGraphic: Celebrating Maps and Their Stories**</a>
+
+“GeolGraphic”, a multi-disciplinary festival of exhibitions, installation artworks and lectures on the subject of maps takes place at the National Library from 16 January to 19 July 2015.&nbsp;**Tan Huism**&nbsp;explains why you should not miss this event.
+
+<img src="/images/vol-10-issue-4/geo-geographic/Itinerarium_Sacrae_Scripturae.jpg" style="width:80%;">
 <hr>
