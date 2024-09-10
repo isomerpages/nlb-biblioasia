@@ -142,3 +142,12 @@ Orchard Road as we know it today is a far cry from its quiet beginnings as a pla
 <img src="/images/vol-10-issue-3/overorchard/orchard_road.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-2/jul-sep-2014/singapore-national-day-parades/">**Parades, Flags and Rallies: Celebrating Singapore’s National Day**</a>
+
+National Day parades have been a ubiquitous part of Singapore’s National Day celebrations since Independence.&nbsp;**Lim Tin Seng**&nbsp;delves into its history, its significance and its evolution.
+
+<img src="/images/vol-10-issue-2/nationalday/National_Day_Parade.jpg" style="width:80%;">
+<hr>
+
+
+
