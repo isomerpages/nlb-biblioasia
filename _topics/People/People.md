@@ -550,11 +550,18 @@ In her effort to republish one of our unknown literary treasures,&nbsp;**Dr Erik
 <img src="/images/vol-10-issue-3/tales/cover.jpg" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-3/oct-dec-2014/dragons-tooth-strait/">**Tales of the Dragon’s Tooth Strait**</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-2/jul-sep-2014/fu-jian-gao-guan/">**邱菽园与晚清政府四位福建籍高官的交往**</a>
 
-**Lee Meiyu**&nbsp;offers us a glimpse of pre-colonial Singapore as seen through the eyes of the 14th-century Chinese traveller Wang Dayuan.
+**Professor Zhang Renfeng**&nbsp;pieces together the lives of the Fujian people and the helping hand offered by the Overseas Chinese to their homeland through letters between poet Khoo Seok Wan and Chinese officials from Fujian, China.****
 
-<img src="/images/vol-10-issue-3/tales/cover.jpg" style="width:80%;">
+<img src="/images/vol-10-issue-2/ch/second_lettter.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-2/jul-sep-2014/fu-jian-gao-guan/">**邱菽园与晚清政府四位福建籍高官的交往**</a>
+
+**Professor Zhang Renfeng**&nbsp;pieces together the lives of the Fujian people and the helping hand offered by the Overseas Chinese to their homeland through letters between poet Khoo Seok Wan and Chinese officials from Fujian, China.****
+
+<img src="/images/vol-10-issue-2/ch/second_lettter.jpg" style="width:80%;">
 <hr>
 
 <hr>
