@@ -108,7 +108,7 @@ As sections of the attap roof disintegrated, the holes were patched haphazardly 
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Lim%20Boon%20Keng%20Mansion/Paterson_Hill5.jpg" style="width: 60%;">           Lim Boon Keng and his wife with their large and extended family in this picture taken at the garden of 1 Paterson Hill, 1938–39. In the background is 2 Paterson Hill, home of Dr Hu Tsai Kuen whose family was the subject of the movie <i>Crazy Rich Asians.</i> <i>Courtesy of Lim Kok Lian.</i></div>
+<img src="/images/Online%20Only%20Articles/Lim%20Boon%20Keng%20Mansion/Paterson_Hill5.jpg" style="width: 80%;">           Lim Boon Keng and his wife with their large and extended family in this picture taken at the garden of 1 Paterson Hill, 1938–39. In the background is 2 Paterson Hill, home of Dr Hu Tsai Kuen whose family was the subject of the movie <i>Crazy Rich Asians.</i> <i>Courtesy of Lim Kok Lian.</i></div>
 
 In the main dining room upstairs, Lim occupied pride of place at dinners and family gatherings. When he died on 1 January 1957, his body was laid in the reception room on the ground floor of the mansion where hundreds came to pay their last respects.[^22]
 
