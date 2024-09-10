@@ -148,3 +148,14 @@ National Day parades have been a ubiquitous part of Singapore’s National Day c
 
 <img src="/images/vol-10-issue-2/nationalday/National_Day_Parade.jpg" style="width:80%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-4/jan-march-2014/old-singapore-buildings-photos/">**Old Singapore: Places in Pictures and Oral History**</a>
+
+Grand Hotel de l’Europe, National Theatre and National Stadium are just some of the places in Singapore that have might have been forgotten if not for the National Archives of Singapore. Rediscover these buildings of old with Oral History Specialist&nbsp;**Lu Wenshi**.
+
+<img src="/images/vol-9-issue-4/oldsg/national_theatre.jpg" style="width:80%;">
+<hr>
+
+
+
+
