@@ -116,6 +116,14 @@ In the main dining room upstairs, Lim occupied pride of place at dinners and fam
 <br>
 <img src="/images/Online%20Only%20Articles/Lim%20Boon%20Keng%20Mansion/LBK_dinner.jpg" style="width: 80%;">                 Lim Boon Keng’s family celebrating his birthday, 1952. <i>Courtesy of Lim Kok Lian.</i></div>
 
+The old man and the mansion were products of the same era, and with his death, the mansion fell into further disrepair.&nbsp; The ground floor was successively partitioned, and leased to a florist and veterinary clinic.[^23] An extension to the main building became a rented workshop.[^24] Various renters cycled in and out of the premises. When the last family members and tenants moved out at around 1976, the property was sold and the venerable wooden building with the attap roof demolished.[^25] The site is presently occupied by a number of condominium projects.&nbsp;
+
+Today, no markers identify the site as the final home of one of Singapore’s greatest citizens.&nbsp; Oddly enough, when the decision was made to honour him with a place name, a street and a Mass Rapid Transit station in an area with no known direct association with him were named instead.[^26]
+
+  
+
+
+
   
 
 
@@ -196,3 +204,11 @@ In the main dining room upstairs, Lim occupied pride of place at dinners and fam
 [^21]:  Chong Joo Beng, interview, 2019.
 
 [^22]:  Lim, private memoir on Lim Boon Keng and his family, 2019; “[Tribute by Governor as Dr. Lim Is Buried](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19570110-1.2.60).”
+
+[^23]:  Chong Joo Beng, interview, 2019.
+
+[^24]:  Chong Joo Beng, interview, 2019.
+
+[^25]:  Chong, “Dr Lim Boon Keng's Kampong @ Paterson Hill.”
+
+[^26]:  In 1920, Lim Boon Keng applied for access to an approach road to his property in “Ayer Jerneh” in the Woodleigh area. Family members cannot recall a residence at this location or whether Lim ever lived there. By the 1950s, toward the end of his life, the only property the family owned from derived rentals were in Woodlands and Pasir Panjang.
