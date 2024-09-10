@@ -595,7 +595,10 @@ Unable to keep pace with Singapore’s economic progress and development, many o
 <img src="/images/vol-9-issue-4/forgottentrades/bg.jpg" style="width:100%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-4/jan-march-2014/tsao-chieh-singapore-composer/">**The Unlikely Composer: Tsao Chieh**</a>
 
+Despite his untimely death at the age of 43, Singaporean composer Tsao Chieh’s legacy lives on — immortalised through his small but significant body of experimental works.&nbsp;**Jun Zubillaga-Pow**&nbsp;traces the life of this underrated artist.
 
-
+<img src="/images/vol-9-issue-4/tsaochieh/tsaochieh.jpg" style="width:100%;">
+<hr>
 
