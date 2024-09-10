@@ -251,3 +251,19 @@ Singapore’s towering skyscrapers and its evolving landscape is by no means acc
 <img src="/images/vol-10-issue-3/conceptplan/Plan_of_the_Town_of_Singapore.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-2/jul-sep-2014/chinese-clan-sg/">**Chinese Clan Associations in Singapore: Then and Now**</a>
+
+Chinese clan associations in Singapore date back to the time of Stamford Raffles.&nbsp;**Lee Meiyu**&nbsp;shows us how the functions of clan associations have changed over the years according to the needs of the local Chinese community as well as changes in state policy.
+
+<img src="/images/vol-10-issue-2/chineseclan/Chinese_migrants.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-4/jan-march-2014/national-archives-singapore/">**From Here to Eternity: Archiving and Immortality**</a>
+
+**Kevin Khoo** considers the link between memory, immortality and archiving, and what this means for the National Archives of Singapore.
+
+<img src="/images/vol-9-issue-4/enternity/Farquhar_Raffles_re.jpg" style="width:80%;">
+<hr>
+
+
+
