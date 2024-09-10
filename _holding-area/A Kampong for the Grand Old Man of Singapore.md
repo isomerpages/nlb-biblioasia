@@ -98,6 +98,19 @@ With her husband at the City Club, which served as his daycare centre, Mrs Lim h
 <br>
 <img src="/images/Online%20Only%20Articles/Lim%20Boon%20Keng%20Mansion/Paterson_Hill7.jpg" style="width: 60%;">        Lim Boon Keng’s wife Grace Yin Pek Ha, 1950s. <i>Courtesy of Lim Kok Lian.</i></div>
 
+#### **A Chapter Closes**
+
+Over time, the old building with its labyrinth of dark corridors and numerous rooms began to show signs of deterioration. Built on a gradient, the mansion had a split-level section nearer the lower end of the incline.
+
+“The walls on the upper floor were of wood whilst those on the ground floor were of concrete,” said Chong Joo Beng. Over the years, the concrete walls of the ground floor that were painted with a limestone-based whitewash had become cracked, flaky and peeling. Likewise, the putty-like paint used to coat and weather-proof the wooden doors, windows and support beams suffered the same fate due to exposure to the elements and age. The upper storied wood structures were painted brown, while the lower parts were white-washed.”[^20]
+
+As sections of the attap roof disintegrated, the holes were patched haphazardly with corrugated zinc sheets. The whole property was edged by expanses of waist-high lalang, and huge trees partially obscured the house from the street.[^21]&nbsp; Nevertheless, it was home for Lim in his last years where his clan came to celebrate his birthdays and pay their respects during the Lunar New Year.
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Lim%20Boon%20Keng%20Mansion/Paterson_Hill5.jpg" style="width: 60%;">           Lim Boon Keng and his wife with their large and extended family in this picture taken at the garden of 1 Paterson Hill, 1938–39. In the background is 2 Paterson Hill, home of Dr Hu Tsai Kuen whose family was the subject of the movie <i>Crazy Rich Asians.</i> <i>Courtesy of Lim Kok Lian.</i></div>
+
+
   
 
 
@@ -167,3 +180,7 @@ With her husband at the City Club, which served as his daycare centre, Mrs Lim h
 [^18]:  Lim Kok Lian, private memoir on Lim Boon Keng and his family, 2019.
 
 [^19]:  Tan Kok Guan, interview, 2019.
+
+[^20]:  Chong Joo Beng, interview, 2019.
+
+[^21]:  Chong Joo Beng, interview, 2019.
