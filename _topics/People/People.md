@@ -602,3 +602,10 @@ Despite his untimely death at the age of 43, Singaporean composer Tsao Chieh’s
 <img src="/images/vol-9-issue-4/tsaochieh/tsaochieh.jpg" style="width:100%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-4/jan-march-2014/nlb-hands-exhibition/">**A Tale of Many Hands**</a>
+
+There’s more to the hand than meets the eye, as&nbsp;**Tan Huism**&nbsp;found out when she curated an exhibition using the motif of hands for the National Library recently.
+
+<img src="/images/vol-9-issue-4/hands/santhan_baskar.jpg" style="width:100%;">
+<hr>
+
