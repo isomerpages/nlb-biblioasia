@@ -581,10 +581,10 @@ In her effort to republish one of our unknown literary treasures,&nbsp;**Dr Erik
 <img src="/images/vol-10-issue-1/suratman/suratman.jpg" style="width:100%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-1/apr-jun-2014/suratman/">**Suratman Markasan: Malay Literature and Social Memory**</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-4/jan-march-2014/khoo-seok-wan-kang-you-wei/">**邱菽园与康有为的友谊与交往 — 再读邱菽园后人王清建先生珍藏历史文献**</a>
 
-**Azhar Ibrahim**&nbsp;examines how the illustrious Malay writer Suratman Markasan uses literature as a means to propagate ideas and mark signposts in our social memory.
+Based on letters exchanged by Khoo Seok Wan and Kang You Wei,&nbsp;**Professor Zhang Renfeng**&nbsp;debunks myths about their friendship and provides insight into historical events during the late Qing Dynasty.
 
-<img src="/images/vol-10-issue-1/suratman/suratman.jpg" style="width:100%;">
+<img src="/images/vol-9-issue-4/ch/Khoo_Seok_Wan_Collection.jpg" style="width:100%;">
 <hr>
 <hr>
