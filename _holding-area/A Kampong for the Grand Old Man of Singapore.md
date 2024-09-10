@@ -89,7 +89,13 @@ Lim, as his grandson Lim Kok Lian recalls, lived the life not unlike any other r
 <div style="background-color: white;">
 <br>
 <img src="/images/Online%20Only%20Articles/Lim%20Boon%20Keng%20Mansion/LimBoon_Keng_HuTsaiKuen.jpg" style="width: 60%;">Lim Boon Keng with his friend and colleague Hu Tsai Kuen, 1948. <i>Courtesy of Lim Kok Lian.</i></div>
+
+Several times during the week, and accompanied by his grandson, Lim would be driven in his Humpback Dodge by a Malay chauffeur to the City Club on Cecil Street. His grandson’s role was to help him in and out of the car, and ride the antiquated lift up to the second floor of the club where he would spend the day reading the daily papers and various periodicals, meet with old friends over lunch and then nap before being taken home.[^18]
+
+With her husband at the City Club, which served as his daycare centre, Mrs Lim had free reign to oversee the running of the mansion and kampong residents as well as engage in the numerous charities and organisations to which she belonged. She supervised the collection of rents, and managed the wages and chores of the various servants, gardeners and handymen.&nbsp; She not only oversaw the health and well-being of her immediate family members, but also that of the children and families who were part of the kampong, going as far as to ensure that their schooling needs are met and arranging for jobs and suitable marriages as they grew up. In effect, Mrs Lim was the kampong’s affectionately remembered châtelaine (mistress of a large household).[^19]
+
   
+
 
 
   
@@ -153,3 +159,7 @@ Lim, as his grandson Lim Kok Lian recalls, lived the life not unlike any other r
 [^16]:  Lim Kok Lian, private memoir on Lim Boon Keng and his family, 2019.
 
 [^17]:  Lim Kok Lian, private memoir on Lim Boon Keng and his family, 2019.
+
+[^18]:  Lim Kok Lian, private memoir on Lim Boon Keng and his family, 2019.
+
+[^19]:  Tan Kok Guan, interview, 2019.
