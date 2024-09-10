@@ -59,6 +59,24 @@ Chong and Lim Kok Lian remember that the sprawling compound had a front garden t
 <img src="/images/Online%20Only%20Articles/Lim%20Boon%20Keng%20Mansion/racing_cock_fighting.png" style="width: 80%;">
 Lim Kok Lian was a racing car enthusiast and also kept fighting cocks, 1953.<i>Courtesy of Lim Kok Lian.</i></div>
 
+Surrounded by newer stately mansions with manicured lawns and a stone’s throw from the glitzy businesses along Orchard Road, Lim’s property leaned precariously into the category of an urban slum. Incidentally, one of the newer and elegant properties across from Lim’s compound, at 2 Paterson Hill, would be featured decades later in the Hollywood movie, <i>Crazy Rich Asians</i>.
+
+  
+#### **Previous Owners**
+
+Paterson Hill itself was probably developed around 1866 and named for William R. Paterson, co-founder of Paterson, Simons &amp; Co., a trading house. As it was common practice in those early days for roads to be named after the persons whose homes stood along the said roads, it is highly possible that Lim’s mansion was once owned by Paterson himself, just as Thomas Oxley’s home stood on Oxley Road, and Coleman Street was where George D. Coleman built his home.[^10]
+
+The property changed hands several times between the end of the 19th century and the early part of the 20th century. Previous owners included the Little brothers, John and Matthew, who established John Little &amp; Co. department store. By the end of World War II, it had passed on to Tan Chay Yan, the rubber magnate with whom Lim had pioneered large-scale rubber planting.[^11]
+
+In 1937, after serving as president of Amoy University (now Xiamen University) for 16 years, Lim returned to Singapore to face another chapter in his life. Despite his connections with the banking establishment and pioneering role in the rubber industry, the worldwide Great Depression (1929–39) had left him, as it did many of his contemporaries, in deep financial difficulties.[^12]
+
+According to his grandson Lim Kok Lian, his grandmother once told him that the house on 1 Paterson Hill had been managed since the 1930s by Tan Hoon Siang, son of Tan Chay Yan. In recognition of the close friendship between his father and Lim, Tan Hoon Siang had “given” the attap-roofed mansion to Lim when he returned to Singapore and found himself depleted of financial resources.[^13]
+
+In all likelihood, the “gift” had been made by Tan Chay Yan’s wife, Chua Wan Neo, as the property was at the time listed under her name (Tan Chay Yan died in 1916).&nbsp; Chua was a woman well-known for her business acumen, not only in the management of the rubber plantations left to her upon her husband’s demise, but also for her real estate holdings. Later, official records reveal the official sale of the property by Chua to Mrs Lim Boon Keng in 1939.[^14]
+
+  
+
+
   
 
 
@@ -101,3 +119,13 @@ Lim Kok Lian was a racing car enthusiast and also kept fighting cocks, 1953.<i>C
 [^8]:  Lim Kok Lian, private memoir on Lim Boon Keng and his family, 2019.
 
 [^9]:  Chong Joo Beng and Lim Kok Lian, interview, 2019.
+
+[^10]:  Survey Department, Singapore, [Map of the Town and Environs of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f98c5272-115c-11e3-83d5-0050568939ad), 1836, map. (From National Archives of Singapore, accession no. TM000037); “[Mr. Paterson and Col. Collyer](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk18980118-1.2.52),” <i>Singapore Free Press</i>, 18 January 1898, 37. (From NewspaperSG)
+
+[^11]:  Duncan Sutherland, “[Tan Chay Yan](https://www.nlb.gov.sg/main/article-detail?cmsuuid=7b121204-db63-4f02-a125-ac99b14128fb),” _Singapore Infopedia_. National Library Board Singapore. Article published August 2023.
+
+[^12]:  Lim Kok Lian, private memoir on Lim Boon Keng and his family, 2019.
+
+[^13]:  Lim Kok Lian, private memoir on Lim Boon Keng and his family, 2019.
+
+[^14]:  Lim Kok Lian, private memoir on Lim Boon Keng and his family, 2019.
