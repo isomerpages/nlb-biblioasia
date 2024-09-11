@@ -240,11 +240,13 @@ In her effort to republish one of our unknown literary treasures,&nbsp;**Dr Erik
 <img src="/images/vol-10-issue-1/tamil/Mathangi.jpg" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-1/apr-jun-2014/singapore-tamil-literature/">**சிங்கப்பூர் பெண் எழுத்தாளர்கள் – ஒரு பார்வை**
-</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-1/apr-jun-2014/sg-children/">**1980年代儿童小说中的"新加坡儿童"**</a>
 
-<img src="/images/vol-10-issue-1/tamil/Mathangi.jpg" style="width:80%;">
+**叶若诗**为李光前参考图书馆之参考咨询馆员，专责中文艺术类馆藏。她毕业于北京大学中文系，后赴英国剑桥大学东方学系专攻中国现代文学，考获硕士学位。身为土生土长新加坡人的她，自小喜爱中华文学。
+
+<img src="/images/vol-10-issue-1/1980/children_read.jpg" style="width:80%;">
 <hr>
+
 
 
 
