@@ -165,6 +165,12 @@ Female missionaries in colonial Singapore have made their mark in areas such as 
 <img src="/images/Vol-12-issue-4/glitz-and-glamour/3-beneath_glitz_glamour.jpg" style="width:100%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-3/oct-dec-2014/dorothy-cator/">**Writing from the Periphery: Dorothy Cator in British North Borneo**</a>
+
+**Janice Loo**&nbsp;explains how the travel writings by women such as Dorothy Cator reveal the complex relationships between colonisers and the colonised.
+
+<img src="/images/vol-10-issue-3/dorothycator/cover.jpg" style="width:80%;">
+<hr>
 
 
 
