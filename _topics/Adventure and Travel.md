@@ -46,6 +46,12 @@ Travel writer&nbsp;**Desiree Koh**&nbsp;shares her wanderlust and love for South
 <img src="/images/vol-10-issue-3/backyard/temple_trotting.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-3/oct-dec-2014/isabella-bird-travel-singapore/">**Punkahs Everywhere**</a>
+
+One of the great travel writers of the 19th century, Isabella Bird was 47 when she visited Singapore. She had just spent several months exploring Japan and was about to embark on a journey through the Malay Peninsula. In between, she made a brief stop in Singapore and wrote about it in a letter to her sister in Edinburgh.
+
+<img src="/images/vol-10-issue-3/punkahs/Isabella_Bird.jpg" style="width:80%;">
+<hr>
 
 
 
