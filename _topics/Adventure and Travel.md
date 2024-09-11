@@ -32,5 +32,11 @@ Rudyard Kipling coined the phrase “East of Suez” to describe the exotic land
 <img src="/images/vol-10-issue-3/19thcentury/Wallich_image.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-3/oct-dec-2014/raffles-hotel-singapore-history/">**Raffles Hotel &amp; the Romance of Travel**</a>
+
+**Gretchen Liu**&nbsp;traces the history of this grand hotel, from its heyday of glitz and glamour to near ruin and its subsequent reincarnation into the heritage icon it is today.
+
+<img src="/images/vol-10-issue-3/raffles/raffles_cover.jpg" style="width:80%;">
+<hr>
 
 
