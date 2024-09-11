@@ -255,7 +255,7 @@ The Asian Children’s Literature collection at Woodlands Regional Library has s
 
 **Bonny Tan** explores the rich collections of the Anglican Diocese of Singapore, which holds materials such as birth and death records, publications and other documents.
 
-<img src="images/vol-9-issue-4/colonial/IMG_2166-edit.jpg" style="width:80%;">
+<img src="/images/vol-9-issue-4/colonial/IMG_2166-edit.jpg" style="width:80%;">
 <hr>
 
 
