@@ -251,4 +251,11 @@ The Asian Children’s Literature collection at Woodlands Regional Library has s
 <img src="/images/vol-10-issue-1/folktales/acl_collection.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-4/jan-march-2014/sg-anglican-archives/">**A Colonial Heritage: Collections of the Anglican Diocese of Singapore**</a>
+
+**Bonny Tan** explores the rich collections of the Anglican Diocese of Singapore, which holds materials such as birth and death records, publications and other documents.
+
+<img src="images/vol-9-issue-4/colonial/IMG_2166-edit.jpg" style="width:80%;">
+<hr>
+
 
