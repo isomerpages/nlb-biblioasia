@@ -17,3 +17,13 @@ Rudyard Kipling coined the phrase “East of Suez” to describe the exotic land
 
 <img src="/images/Vol-13-issue-2/east-of-suez/01_suez.png" style="width: 80%; height: 100%;">  
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-3/oct-dec-2014/dragons-tooth-strait/">**Tales of the Dragon’s Tooth Strait**</a>
+
+**Lee Meiyu**&nbsp;offers us a glimpse of pre-colonial Singapore as seen through the eyes of the 14th-century Chinese traveller Wang Dayuan.
+
+<img src="/images/vol-10-issue-3/tales/cover.jpg" style="width:80%;">
+<hr>
+
+
+
