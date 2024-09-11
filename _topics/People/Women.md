@@ -32,7 +32,6 @@ Wong Din Haan, who founded a girls’ school in Singapore, was also a champion f
 <img src="/images/vol-17-issue-4/Wong-Din-Haan/wongdinhaan_topic.jpg" style="width:80%;">
 <hr>
 
-
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/siti-radhiah-cookbooks/">Siti Radhiah’s Cookbooks for the Modern Malay Woman</a>
 A number of cookbooks written in the 1940s and 1950s helped expand the traditional Malay culinary repertoire, as **Toffa Abdul Wahed** tells us. 
 
@@ -172,5 +171,10 @@ Female missionaries in colonial Singapore have made their mark in areas such as 
 <img src="/images/vol-10-issue-3/dorothycator/cover.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-3/oct-dec-2014/dorothy-cator/">**Writing from the Periphery: Dorothy Cator in British North Borneo**</a>
 
+**Janice Loo**&nbsp;explains how the travel writings by women such as Dorothy Cator reveal the complex relationships between colonisers and the colonised.
+
+<img src="/images/vol-10-issue-3/dorothycator/cover.jpg" style="width:80%;">
+<hr>
 
