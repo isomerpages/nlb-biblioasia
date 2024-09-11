@@ -39,4 +39,13 @@ Rudyard Kipling coined the phrase “East of Suez” to describe the exotic land
 <img src="/images/vol-10-issue-3/raffles/raffles_cover.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-3/oct-dec-2014/desiree-koh-travel-southeast-asia-memories/">**Exploring My Own Backyard**</a>
+
+Travel writer&nbsp;**Desiree Koh**&nbsp;shares her wanderlust and love for Southeast Asia and remembers the places that have impacted her life and the way she sees the world.
+
+<img src="/images/vol-10-issue-3/backyard/temple_trotting.jpg" style="width:80%;">
+<hr>
+
+
+
 
