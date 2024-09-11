@@ -199,11 +199,20 @@ Poems written by Singapore’s women writers in the 1950s to 1970s depict both t
 <img src="/images/vol-10-issue-1/womenpoets/Hedwig_Anuar.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-1/apr-jun-2014/meira-chand-opinion/">**A Journey into Memory**</a>
+
+**Meira Chand**&nbsp;shares with us her experience writing&nbsp;_A Different Sky_&nbsp;; what it was like to study the memories of others – and what it was like to make them hers.
+
+<img src="/images/vol-10-issue-1/journey/A_Different_Sky.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-1/apr-jun-2014/claire-tham-opinion/">**My Memories of Reading**</a>
 
 Each book is a memory, a reminder of the person we were when we read it. Here,&nbsp;**Claire Tham**&nbsp;shares with us the books she remembers – the ones that shaped her thoughts and her writing, and ultimately the person she became.
 
 <img src="/images/vol-10-issue-1/memory/The_Catcher_in_the_Rye.jpg" style="width:80%;">
 <hr>
+
+
 
 
