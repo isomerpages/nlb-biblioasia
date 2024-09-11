@@ -210,5 +210,14 @@ In her effort to republish one of our unknown literary treasures,&nbsp;**Dr Erik
 <img src="/images/vol-10-issue-4/francispng/FMSR_train.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-3/oct-dec-2014/dorothy-cator/">**Writing from the Periphery: Dorothy Cator in British North Borneo**</a>
+
+**Janice Loo**&nbsp;explains how the travel writings by women such as Dorothy Cator reveal the complex relationships between colonisers and the colonised.
+
+<img src="/images/vol-10-issue-3/dorothycator/cover.jpg" style="width:80%;">
+<hr>
+
+
+
 
 
