@@ -29,7 +29,6 @@ Rudyard Kipling coined the phrase “East of Suez” to describe the exotic land
 
 **Nor Afidah Abd Rahman**&nbsp;shares how the impressions the first Western travellers held of colonial Singapore were influenced by their preconceived perceptions of the exotic East.
 
-
 <img src="/images/vol-10-issue-3/19thcentury/Wallich_image.jpg" style="width:80%;">
 <hr>
 
