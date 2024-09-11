@@ -247,6 +247,12 @@ In her effort to republish one of our unknown literary treasures,&nbsp;**Dr Erik
 <img src="/images/vol-10-issue-1/1980/children_read.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-1/apr-jun-2014/suratman/">**Suratman Markasan: Malay Literature and Social Memory**</a>
+
+**Azhar Ibrahim**&nbsp;examines how the illustrious Malay writer Suratman Markasan uses literature as a means to propagate ideas and mark signposts in our social memory.
+
+<img src="/images/vol-10-issue-1/suratman/suratman.jpg" style="width:80%;">
+<hr>
 
 
 
