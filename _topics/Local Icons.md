@@ -270,4 +270,11 @@ Few people are aware that the island’s first public zoo was set up in 1875.&nb
 <img src="/images/vol-11-issue-2/zoo/Entrance_of_zoo.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-1/apr-jun-2014/boey-kim-cheng-opinion/">**The Library of Memory**</a>
+
+**Boey Kim Cheng**’s memories of Singapore are closely tied to his recollections of reading and the old red-bricked National Library. Here, he remembers his love affair with the library, with words and with books.
+
+<img src="/images/vol-10-issue-1/library/old_National_Library.jpg" style="width:80%;">
+<hr>
+
 
