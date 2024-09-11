@@ -46,6 +46,10 @@ Travel writer&nbsp;**Desiree Koh**&nbsp;shares her wanderlust and love for South
 <img src="/images/vol-10-issue-2/drcarl/sure_diagram.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-2/jul-sep-2014/singapore-identity-kishore-mahbubani/">**So, What is a Singaporean?**</a>
+
+<img src="/images/vol-10-issue-2/singaporean/outside_City_Hall.jpg" style="width:80%;">
+<hr>
 
 
 
