@@ -229,5 +229,10 @@ In her effort to republish one of our unknown literary treasures,&nbsp;**Dr Erik
 <img src="/images/vol-10-issue-1/goingplace/bg.jpg" style="width:100%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-1/apr-jun-2014/heat-and-rain/">**Heat and Rain in the Poetry of Khoo Seok Wan**</a>
+
+<img src="/images/vol-10-issue-1/heatandrain/Khoo_Seok_Wan.jpg" style="width:80%;">
+<hr>
+
 
 
