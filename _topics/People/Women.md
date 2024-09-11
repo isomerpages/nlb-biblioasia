@@ -185,11 +185,18 @@ One of the great travel writers of the 19th century, Isabella Bird was 47 when s
 <img src="/images/vol-10-issue-3/punkahs/Isabella_Bird.jpg" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-3/oct-dec-2014/isabella-bird-travel-singapore/">**Punkahs Everywhere**</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-2/jul-sep-2014/nation-building-women-singapore/">**A Quiet Revolution: Women and Work in Industrialising Singapore**</a>
 
-One of the great travel writers of the 19th century, Isabella Bird was 47 when she visited Singapore. She had just spent several months exploring Japan and was about to embark on a journey through the Malay Peninsula. In between, she made a brief stop in Singapore and wrote about it in a letter to her sister in Edinburgh.
+The role of women in Singapore’s nation-building efforts in the post-Independence years is sometimes overlooked.&nbsp;**Janice Loo**&nbsp;examines the impact that women have had on the nation’s development.
 
-<img src="/images/vol-10-issue-3/punkahs/Isabella_Bird.jpg" style="width:80%;">
+<img src="/images/vol-10-issue-2/women/washing.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-2/jul-sep-2014/nation-building-women-singapore/">**A Quiet Revolution: Women and Work in Industrialising Singapore**</a>
+
+The role of women in Singapore’s nation-building efforts in the post-Independence years is sometimes overlooked.&nbsp;**Janice Loo**&nbsp;examines the impact that women have had on the nation’s development.
+
+<img src="/images/vol-10-issue-2/women/washing.jpg" style="width:80%;">
 <hr>
 
 
