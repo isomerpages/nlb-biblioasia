@@ -254,5 +254,19 @@ In her effort to republish one of our unknown literary treasures,&nbsp;**Dr Erik
 <img src="/images/vol-10-issue-1/suratman/suratman.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-1/apr-jun-2014/first-women-poets/">**First Words: Women Poets from Singapore**</a>
+
+Poems written by Singapore’s women writers in the 1950s to 1970s depict both their personal and national struggles.&nbsp;**Gracie Lee**&nbsp;highlights these poets and the literary works that captured the sentiment of the times.
+
+<img src="/images/vol-10-issue-1/womenpoets/Hedwig_Anuar.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-1/apr-jun-2014/meira-chand-opinion/">**A Journey into Memory**</a>
+
+**Meira Chand**&nbsp;shares with us her experience writing&nbsp;_A Different Sky_&nbsp;; what it was like to study the memories of others – and what it was like to make them hers.
+
+<img src="/images/vol-10-issue-1/journey/A_Different_Sky.jpg" style="width:80%;">
+<hr>
+
 
 
