@@ -614,3 +614,5 @@ There’s more to the hand than meets the eye, as&nbsp;**Tan Huism**&nbsp;found 
 
 <img src="/images/vol-9-issue-4/sgmanofscienceandmedicine/group_of_chinese.jpg" style="width:80%;">
 <hr>
+
+
