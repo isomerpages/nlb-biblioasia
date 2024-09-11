@@ -192,11 +192,13 @@ The role of women in Singapore’s nation-building efforts in the post-Independe
 <img src="/images/vol-10-issue-2/women/washing.jpg" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-2/jul-sep-2014/nation-building-women-singapore/">**A Quiet Revolution: Women and Work in Industrialising Singapore**</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-1/apr-jun-2014/first-women-poets/">**First Words: Women Poets from Singapore**</a>
 
-The role of women in Singapore’s nation-building efforts in the post-Independence years is sometimes overlooked.&nbsp;**Janice Loo**&nbsp;examines the impact that women have had on the nation’s development.
+Poems written by Singapore’s women writers in the 1950s to 1970s depict both their personal and national struggles.&nbsp;**Gracie Lee**&nbsp;highlights these poets and the literary works that captured the sentiment of the times.
 
-<img src="/images/vol-10-issue-2/women/washing.jpg" style="width:80%;">
+<img src="/images/vol-10-issue-1/womenpoets/Hedwig_Anuar.jpg" style="width:80%;">
 <hr>
+
+
 
 
