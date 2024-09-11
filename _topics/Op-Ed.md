@@ -32,4 +32,20 @@ What does it take to achieve the Singapore Dream?&nbsp;**Parag Khanna**&nbsp;ide
 <img src="/images/vol-11-issue-2/seizingthedream/PK-Brussels-March-2012-David-Plas1.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-3/oct-dec-2014/desiree-koh-travel-southeast-asia-memories/">**Exploring My Own Backyard**</a>
+
+Travel writer&nbsp;**Desiree Koh**&nbsp;shares her wanderlust and love for Southeast Asia and remembers the places that have impacted her life and the way she sees the world.
+
+<img src="/images/vol-10-issue-3/backyard/temple_trotting.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-2/jul-sep-2014/carl-schoonover-nlb-info-literacy/">**Dr Carl Schoonover on Being SURE**</a>
+
+ In this exclusive interview,&nbsp;**Dr Carl Schoonover**&nbsp;shares how the brain processes information and the importance of Information Literacy and the S.U.R.E. ways in the corroboration of information and data.
+
+<img src="/images/vol-10-issue-2/drcarl/sure_diagram.jpg" style="width:80%;">
+<hr>
+
+
+
 
