@@ -212,7 +212,3 @@ Each book is a memory, a reminder of the person we were when we read it. Here,&n
 
 <img src="/images/vol-10-issue-1/memory/The_Catcher_in_the_Rye.jpg" style="width:80%;">
 <hr>
-
-
-
-
