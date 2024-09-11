@@ -244,3 +244,18 @@ The National Library has a collection of rare maps dating back to the 15th centu
 <img src="/images/vol-10-issue-4/raremap/wallmap_topic.png" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-1/apr-jun-2014/folk-tales/">**Folk Tales from Asia**</a>
+
+The Asian Children’s Literature collection at Woodlands Regional Library has some of the oldest and rarest children’s books from Asia.&nbsp;**Lynn Chua**&nbsp;highlights these treasures.
+
+<img src="/images/vol-10-issue-1/folktales/acl_collection.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-4/jan-march-2014/sg-anglican-archives/">**A Colonial Heritage: Collections of the Anglican Diocese of Singapore**</a>
+
+**Bonny Tan** explores the rich collections of the Anglican Diocese of Singapore, which holds materials such as birth and death records, publications and other documents.
+
+<img src="/images/vol-9-issue-4/colonial/IMG_2166-edit.jpg" style="width:80%;">
+<hr>
+
+

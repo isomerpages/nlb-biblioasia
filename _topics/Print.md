@@ -311,7 +311,7 @@ Based on letters exchanged by Khoo Seok Wan and Kang You Wei,&nbsp;**Professor Z
 
 **Bonny Tan** explores the rich collections of the Anglican Diocese of Singapore, which holds materials such as birth and death records, publications and other documents.
 
-<img src="images/vol-9-issue-4/colonial/IMG_2166-edit.jpg" style="width:80%;">
+<img src="/images/vol-9-issue-4/colonial/IMG_2166-edit.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-4/jan-march-2014/jiapu-chinese-family-lineage/">**The Jiapu Chronicles: What’s in a Name?**</a>

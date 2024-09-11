@@ -341,5 +341,30 @@ Orchard Road as we know it today is a far cry from its quiet beginnings as a pla
 <img src="/images/vol-10-issue-3/raffles/raffles_cover.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-2/jul-sep-2014/stories-of-ubin/">**Standing Firm: Stories of Ubin**</a>
 
+Apart from being an escape from the hubbub of city life, Pulau Ubin is home to a small but dwindling number of Singaporeans.&nbsp;**Ang Seow Leng**&nbsp;sheds some light on life on the island.
 
+<img src="/images/vol-10-issue-2/ubin/Pulau_Ubin.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-1/apr-jun-2014/boey-kim-cheng-opinion/">**The Library of Memory**</a>
+
+**Boey Kim Cheng**’s memories of Singapore are closely tied to his recollections of reading and the old red-bricked National Library. Here, he remembers his love affair with the library, with words and with books.
+
+<img src="/images/vol-10-issue-1/library/old_National_Library.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-4/jan-march-2014/old-singapore-buildings-photos/">**Old Singapore: Places in Pictures and Oral History**</a>
+
+Grand Hotel de l’Europe, National Theatre and National Stadium are just some of the places in Singapore that have might have been forgotten if not for the National Archives of Singapore. Rediscover these buildings of old with Oral History Specialist&nbsp;**Lu Wenshi**.
+
+<img src="/images/vol-9-issue-4/oldsg/national_theatre.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-4/jan-march-2014/kampung-living-singapore/">**Kampung Living: A–Z**</a>
+
+It’s hard to believe that Singapore was once a sleepy village outpost. Re-live those nostalgic kampung days with this laundry list of life as it once was.
+
+<img src="/images/vol-9-issue-4/kampong/malay_house.jpg" style="width:80%;">
+<hr>

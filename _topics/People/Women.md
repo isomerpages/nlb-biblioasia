@@ -32,7 +32,6 @@ Wong Din Haan, who founded a girls’ school in Singapore, was also a champion f
 <img src="/images/vol-17-issue-4/Wong-Din-Haan/wongdinhaan_topic.jpg" style="width:80%;">
 <hr>
 
-
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/siti-radhiah-cookbooks/">Siti Radhiah’s Cookbooks for the Modern Malay Woman</a>
 A number of cookbooks written in the 1940s and 1950s helped expand the traditional Malay culinary repertoire, as **Toffa Abdul Wahed** tells us. 
 
@@ -165,6 +164,51 @@ Female missionaries in colonial Singapore have made their mark in areas such as 
 <img src="/images/Vol-12-issue-4/glitz-and-glamour/3-beneath_glitz_glamour.jpg" style="width:100%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-3/oct-dec-2014/dorothy-cator/">**Writing from the Periphery: Dorothy Cator in British North Borneo**</a>
 
+**Janice Loo**&nbsp;explains how the travel writings by women such as Dorothy Cator reveal the complex relationships between colonisers and the colonised.
 
+<img src="/images/vol-10-issue-3/dorothycator/cover.jpg" style="width:80%;">
+<hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-3/oct-dec-2014/dorothy-cator/">**Writing from the Periphery: Dorothy Cator in British North Borneo**</a>
+
+**Janice Loo**&nbsp;explains how the travel writings by women such as Dorothy Cator reveal the complex relationships between colonisers and the colonised.
+
+<img src="/images/vol-10-issue-3/dorothycator/cover.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-3/oct-dec-2014/isabella-bird-travel-singapore/">**Punkahs Everywhere**</a>
+
+One of the great travel writers of the 19th century, Isabella Bird was 47 when she visited Singapore. She had just spent several months exploring Japan and was about to embark on a journey through the Malay Peninsula. In between, she made a brief stop in Singapore and wrote about it in a letter to her sister in Edinburgh.
+
+<img src="/images/vol-10-issue-3/punkahs/Isabella_Bird.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-2/jul-sep-2014/nation-building-women-singapore/">**A Quiet Revolution: Women and Work in Industrialising Singapore**</a>
+
+The role of women in Singapore’s nation-building efforts in the post-Independence years is sometimes overlooked.&nbsp;**Janice Loo**&nbsp;examines the impact that women have had on the nation’s development.
+
+<img src="/images/vol-10-issue-2/women/washing.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-1/apr-jun-2014/first-women-poets/">**First Words: Women Poets from Singapore**</a>
+
+Poems written by Singapore’s women writers in the 1950s to 1970s depict both their personal and national struggles.&nbsp;**Gracie Lee**&nbsp;highlights these poets and the literary works that captured the sentiment of the times.
+
+<img src="/images/vol-10-issue-1/womenpoets/Hedwig_Anuar.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-1/apr-jun-2014/meira-chand-opinion/">**A Journey into Memory**</a>
+
+**Meira Chand**&nbsp;shares with us her experience writing&nbsp;_A Different Sky_&nbsp;; what it was like to study the memories of others – and what it was like to make them hers.
+
+<img src="/images/vol-10-issue-1/journey/A_Different_Sky.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-1/apr-jun-2014/claire-tham-opinion/">**My Memories of Reading**</a>
+
+Each book is a memory, a reminder of the person we were when we read it. Here,&nbsp;**Claire Tham**&nbsp;shares with us the books she remembers – the ones that shaped her thoughts and her writing, and ultimately the person she became.
+
+<img src="/images/vol-10-issue-1/memory/The_Catcher_in_the_Rye.jpg" style="width:80%;">
+<hr>

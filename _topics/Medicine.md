@@ -93,5 +93,7 @@ Traditional Chinese medicine in Singapore has a history that goes back to more t
 <p>Wayne Soon sheds light on the enduring and underrated legacy of Overseas Chinese doctors such as Lim Boon Keng and Robert Lim on China’s medical institutions.</p> 
 
 <img style="width:80%;" src="/images/vol-9-issue-4/sgmanofscienceandmedicine/group_of_chinese.jpg">
-
 <hr>
+
+
+

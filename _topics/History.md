@@ -134,3 +134,45 @@ Few people are aware that Singapore was once the hub for Malay filmmaking in Sou
 
 <img src="/images/vol-11-issue-1/malaycinema/bg3_re.jpg" style="width:80%;">
 <hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-3/oct-dec-2014/singapore-orchard-road-history/">**Over Orchard**</a>
+
+Orchard Road as we know it today is a far cry from its quiet beginnings as a plantation and residential area.&nbsp;**Fiona Tan**&nbsp;takes us back in time to revisit some of Orchard’s most distinctive landmarks.
+
+<img src="/images/vol-10-issue-3/overorchard/orchard_road.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-2/jul-sep-2014/singapore-national-day-parades/">**Parades, Flags and Rallies: Celebrating Singapore’s National Day**</a>
+
+National Day parades have been a ubiquitous part of Singapore’s National Day celebrations since Independence.&nbsp;**Lim Tin Seng**&nbsp;delves into its history, its significance and its evolution.
+
+<img src="/images/vol-10-issue-2/nationalday/National_Day_Parade.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-4/jan-march-2014/old-singapore-buildings-photos/">**Old Singapore: Places in Pictures and Oral History**</a>
+
+Grand Hotel de l’Europe, National Theatre and National Stadium are just some of the places in Singapore that have might have been forgotten if not for the National Archives of Singapore. Rediscover these buildings of old with Oral History Specialist&nbsp;**Lu Wenshi**.
+
+<img src="/images/vol-9-issue-4/oldsg/national_theatre.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-4/jan-march-2014/jiapu-chinese-family-lineage/">**The Jiapu Chronicles: What’s in a Name?**</a>
+
+Records of family lineage were important in traditional Chinese society.&nbsp;**Lee Meiyu**&nbsp;charts the history of these documents, or&nbsp;_jiapu_, which track not only family roots but also the social norms and cultural values of China at the time.
+
+<img src="/images/vol-9-issue-4/jiapu/bg.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-4/jan-march-2014/forgotten-trades-singapore/">**Time–forgotten Trades**</a>
+
+Unable to keep pace with Singapore’s economic progress and development, many of Singapore’s early crafts and trades have disappeared.&nbsp;**Sharon Teng**&nbsp;tells us about these trades and what is being done to remember them.
+
+<img src="/images/vol-9-issue-4/forgottentrades/bg.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-9/issue-4/jan-march-2014/kampung-living-singapore/">**Kampung Living: A–Z**</a>
+
+It’s hard to believe that Singapore was once a sleepy village outpost. Re-live those nostalgic kampung days with this laundry list of life as it once was.
+
+<img src="/images/vol-9-issue-4/kampong/malay_house.jpg" style="width:80%;">
+<hr>

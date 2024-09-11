@@ -162,4 +162,15 @@ Food writer&nbsp;**Sylvia Tan**&nbsp;remembers the foods and flavours she grew u
 <img src="/images/Vol-12-issue-2/forgotten-food/01-forgottenfood-mealtimememories.jpg" style="width:60%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-2/jul-sep-2014/belachan-curry-puff-singapore-food-heritage/">**Of Belacan and Curry Puffs: A Taste of Singapore’s Past**</a>
+
+**Bonny Tan**&nbsp;pores through the rich archives of Malayan newspapers and shows how disparate communities have come together to create a food culture that is truly emblematic of Singapore’s multicultural character.
+
+<img src="/images/vol-10-issue-2/belacanandcurrypuff/belacan_used.jpg" style="width:80%;">
+<hr>
+
+
+
+
+
 <hr>

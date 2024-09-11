@@ -58,10 +58,10 @@ M.W.F. Tweedie (Michael Wilmer Forbes Tweedie), former director of the Raffles M
 ![](/images/Vol%2018%20Issue%204/Stone%20Tools/image7.png)
 <div style="background-color: white;">Neolithic type tools and flakes from Tanjong Bunga in Johor. <i>Images reproduced from M.W.F. Tweedie, “The Stone Age in Malaya,” Journal of the Malayan Branch of the Royal Asiatic Society 26, no. 2 (162) (October 1953): plate 10. (From JSTOR via NLB’s eResources website).</i></div>
 
-H.D. Collings (Hubert Dennis Collings), who later became the Curator of Anthropology at the Raffles Museum, visited Tanjong Bunga in 1934 and 1935, and upon finding more implements, conducted an excavation at the site in 1938. This was the first archaeological excavation undertaken at the southern end of the Malay Peninsula. At Tanjong Bunga, Collings found more “small ground neolithic axes, flakes, pieces of haematite, resin and quartz microliths” approximately 90 cm below the surface.[^24] 
+H.D. Collings (Herbert Dennis Collings), who later became the Curator of Anthropology at the Raffles Museum, visited Tanjong Bunga in 1934 and 1935, and upon finding more implements, conducted an excavation at the site in 1938. This was the first archaeological excavation undertaken at the southern end of the Malay Peninsula. At Tanjong Bunga, Collings found more “small ground neolithic axes, flakes, pieces of haematite, resin and quartz microliths” approximately 90 cm below the surface.[^24] 
 
 ![](/images/Vol%2018%20Issue%204/Stone%20Tools/image9.png)
-<div style="background-color: white;">Side profile of the excavation site at Tanjong Bunga in Johor from a drawing by Hubert Dennis Collings. <i>Image reproduced from M.W.F. Tweedie, “The Stone Age in Malaya,” Journal of the Malayan Branch of the Royal Asiatic Society 26, no. 2 (162) (October 1953): 85. (From JSTOR via NLB’s eResources website). </i></div>
+<div style="background-color: white;">Side profile of the excavation site at Tanjong Bunga in Johor from a drawing by Herbert Dennis Collings. <i>Image reproduced from M.W.F. Tweedie, “The Stone Age in Malaya,” Journal of the Malayan Branch of the Royal Asiatic Society 26, no. 2 (162) (October 1953): 85. (From JSTOR via NLB’s eResources website). </i></div>
 
 The excavated artefacts at the site were described as being found in a stratigraphic layer between two layers of mangrove peat, and it was suggested that this soil layer might have been formed “during a slight temporary advance of the sea”. 
 

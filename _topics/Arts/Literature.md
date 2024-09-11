@@ -210,5 +210,66 @@ In her effort to republish one of our unknown literary treasures,&nbsp;**Dr Erik
 <img src="/images/vol-10-issue-4/francispng/FMSR_train.jpg" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-3/oct-dec-2014/dorothy-cator/">**Writing from the Periphery: Dorothy Cator in British North Borneo**</a>
 
+**Janice Loo**&nbsp;explains how the travel writings by women such as Dorothy Cator reveal the complex relationships between colonisers and the colonised.
 
+<img src="/images/vol-10-issue-3/dorothycator/cover.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-2/jul-sep-2014/singapore-literature-identity-history/">**Home and Away: Literary Reflections on Nation and Identity**</a>
+
+**Michelle Heng**&nbsp;meanders through Singapore’s post-Independence literary landscape and discovers diasporic works that display a quiet strength even as they explore refreshingly dissonant views on nation and one’s identity.
+
+<img src="/images/vol-10-issue-2/homeandaway/bg.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-1/apr-jun-2014/going-places/">**Going Places: The Place Poetry of Singapore**</a>
+
+<img src="/images/vol-10-issue-1/goingplace/bg.jpg" style="width:100%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-1/apr-jun-2014/heat-and-rain/">**Heat and Rain in the Poetry of Khoo Seok Wan**</a>
+
+<img src="/images/vol-10-issue-1/heatandrain/Khoo_Seok_Wan.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-1/apr-jun-2014/singapore-tamil-literature/">**சிங்கப்பூர் பெண் எழுத்தாளர்கள் – ஒரு பார்வை**</a>
+
+<img src="/images/vol-10-issue-1/tamil/Mathangi.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-1/apr-jun-2014/sg-children/">**1980年代儿童小说中的"新加坡儿童"**</a>
+
+**叶若诗**为李光前参考图书馆之参考咨询馆员，专责中文艺术类馆藏。她毕业于北京大学中文系，后赴英国剑桥大学东方学系专攻中国现代文学，考获硕士学位。身为土生土长新加坡人的她，自小喜爱中华文学。
+
+<img src="/images/vol-10-issue-1/1980/children_read.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-1/apr-jun-2014/suratman/">**Suratman Markasan: Malay Literature and Social Memory**</a>
+
+**Azhar Ibrahim**&nbsp;examines how the illustrious Malay writer Suratman Markasan uses literature as a means to propagate ideas and mark signposts in our social memory.
+
+<img src="/images/vol-10-issue-1/suratman/suratman.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-1/apr-jun-2014/first-women-poets/">**First Words: Women Poets from Singapore**</a>
+
+Poems written by Singapore’s women writers in the 1950s to 1970s depict both their personal and national struggles.&nbsp;**Gracie Lee**&nbsp;highlights these poets and the literary works that captured the sentiment of the times.
+
+<img src="/images/vol-10-issue-1/womenpoets/Hedwig_Anuar.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-1/apr-jun-2014/meira-chand-opinion/">**A Journey into Memory**</a>
+
+**Meira Chand**&nbsp;shares with us her experience writing&nbsp;_A Different Sky_&nbsp;; what it was like to study the memories of others – and what it was like to make them hers.
+
+<img src="/images/vol-10-issue-1/journey/A_Different_Sky.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-10/issue-1/apr-jun-2014/claire-tham-opinion/">**My Memories of Reading**</a>
+
+Each book is a memory, a reminder of the person we were when we read it. Here,&nbsp;**Claire Tham**&nbsp;shares with us the books she remembers – the ones that shaped her thoughts and her writing, and ultimately the person she became.
+
+<img src="/images/vol-10-issue-1/memory/The_Catcher_in_the_Rye.jpg" style="width:80%;">
+<hr>
