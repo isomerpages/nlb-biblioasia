@@ -143,9 +143,9 @@ Today, no markers identify the site as the final home of one of Singapore’s gr
 
 [^9]:  Chong Joo Beng and Lim Kok Lian, interview, 2019.
 
-[^10]:  Survey Department, Singapore, [Map of the Town and Environs of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f98c5272-115c-11e3-83d5-0050568939ad), 1836, map. (From National Archives of Singapore, accession no. TM000037); “[Mr. Paterson and Col. Collyer](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk18980118-1.2.52),” <i>Singapore Free Press</i>, 18 January 1898, 37. (From NewspaperSG)
+[^10]:  Survey Department, Singapore, <i>[Map of the Town and Environs of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f98c5272-115c-11e3-83d5-0050568939ad)</i>, 1836, map. (From National Archives of Singapore, accession no. TM000037); “[Mr. Paterson and Col. Collyer](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk18980118-1.2.52),” <i>Singapore Free Press</i>, 18 January 1898, 37. (From NewspaperSG)
 
-[^11]:  Duncan Sutherland, “[Tan Chay Yan](https://www.nlb.gov.sg/main/article-detail?cmsuuid=7b121204-db63-4f02-a125-ac99b14128fb),” _Singapore Infopedia_. National Library Board Singapore. Article published August 2023.
+[^11]:  Duncan Sutherland, “[Tan Chay Yan](https://www.nlb.gov.sg/main/article-detail?cmsuuid=7b121204-db63-4f02-a125-ac99b14128fb),” in _Singapore Infopedia_. National Library Board Singapore. Article published August 2023.
 
 [^12]:  Lim Kok Lian, private memoir on Lim Boon Keng and his family, 2019.
 
