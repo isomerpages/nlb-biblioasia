@@ -1,5 +1,5 @@
 ---
-title: A Kampong for the Grand Old Man of Singapore
+title: A Kampong for the "Grand Old Man of Singapore"
 permalink: /places-and-buildings/2024/9/lim-boon-keng-mansion-kampong/
 variant: markdown
 description: ""
