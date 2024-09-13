@@ -23,7 +23,7 @@ What has become known recently from close members of his family, however, is tha
 <div style="background-color: white;">
 <br>
 <img src="/images/Online%20Only%20Articles/Lim%20Boon%20Keng%20Mansion/Paterson_Hill1.jpg" style="width: 80%;">
-Lim Boon Keng’s mansion with the attap roof. This is a still from a home movie by Lim Kok Lian, 1972.<i>Courtesy of Lim Kok Lian.</i></div>
+Lim Boon Keng’s mansion with the attap roof. This is a still from a home movie by Lim Kok Lian, 1972. <i>Courtesy of Lim Kok Lian.</i></div>
 
 #### **An Attap-roofed Mansion**
 
@@ -36,14 +36,14 @@ Central to what eventually morphed into Lim’s village between 1946 and 1975 wa
 <div style="background-color: white;">
 <br>
 <img src="/images/Online%20Only%20Articles/Lim%20Boon%20Keng%20Mansion/1Paterson_Hill8.jpg" style="width: 80%;">
-Lim Boon Keng’s mansion at 1 Paterson Hill, 1970.<i>Courtesy of Lim Kok Lian.</i></div>
+Lim Boon Keng’s mansion at 1 Paterson Hill, 1970. <i>Courtesy of Lim Kok Lian.</i></div>
 
 Chong Joo Beng, whose family was Lim’s tenant, was born in an annexed portion of the main house in 1947. According to Chong, there were some smaller houses, mostly wooden and of random design, built within the compound and sited closer to the Paterson Road side. Some of the houses were shack-like with corrugated zinc roofs”.[^7]
 
 <div style="background-color: white;">
 <br>
 <img src="/images/Online%20Only%20Articles/Lim%20Boon%20Keng%20Mansion/LBK_Attap_Roof.jpg" style="width: 80%;">
-Lim Boon Keng and family in an upstairs porch of the house with the attap roof, 1935.<i>Courtesy of Lim Kok Lian.</i></div>
+Lim Boon Keng and family in an upstairs porch of the house with the attap roof, 1935.<i> Courtesy of Lim Kok Lian.</i></div>
 
 Both Chong and Lim’s grandson, Lim Kok Lian, who spent a great deal of his childhood years in the Paterson Hill mansion, recall that there were several long-term Chinese families as well as Punjabi, Malay and Eurasian families living in huts on the compound and in the mansion itself.&nbsp; Members of the Royal Air Force and Royal Navy also rented rooms in the main house from Mrs Lim Boon Keng nee Grace Yin Pek Ha. In residence too were Lim Kok Lian’s father, the legendary auto racer Lim Peng Han, his mother and his two siblings.[^8]
 
@@ -108,7 +108,7 @@ As sections of the attap roof disintegrated, the holes were patched haphazardly 
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Lim%20Boon%20Keng%20Mansion/Paterson_Hill5.jpg" style="width: 80%;">           Lim Boon Keng and his wife with their large and extended family in this picture taken at the garden of 1 Paterson Hill, 1938–39. In the background is 2 Paterson Hill, home of Dr Hu Tsai Kuen whose family was the subject of the movie <i>Crazy Rich Asians.</i> <i>Courtesy of Lim Kok Lian.</i></div>
+<img src="/images/Online%20Only%20Articles/Lim%20Boon%20Keng%20Mansion/Paterson_Hill5.jpg" style="width: 80%;">           Lim Boon Keng and his wife with their large and extended family in this picture taken at the garden of 1 Paterson Hill, 1938–39. In the background is 2 Paterson Hill, home of Dr Hu Tsai Kuen whose home was featured in the movie <i>Crazy Rich Asians.</i> <i>Courtesy of Lim Kok Lian.</i></div>
 
 In the main dining room upstairs, Lim occupied pride of place at dinners and family gatherings. When he died on 1 January 1957, his body was laid in the reception room on the ground floor of the mansion where hundreds came to pay their last respects.[^22]
 
