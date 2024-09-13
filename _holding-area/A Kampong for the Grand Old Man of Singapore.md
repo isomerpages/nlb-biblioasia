@@ -56,7 +56,7 @@ Chong and Lim Kok Lian remember that the sprawling compound had a front garden t
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Lim%20Boon%20Keng%20Mansion/racing_cock_fighting.png" style="width: 95%;">
+<img src="/images/Online%20Only%20Articles/Lim%20Boon%20Keng%20Mansion/racing_cock_fightingv1.png" style="width: 95%;">
 Lim Kok Lian was a racing car enthusiast and also kept fighting cocks, 1953. <i>Courtesy of Lim Kok Lian.</i></div>
 
 Surrounded by newer stately mansions with manicured lawns and a stone’s throw from the glitzy businesses along Orchard Road, Lim’s property leaned precariously into the category of an urban slum. Incidentally, one of the newer and elegant properties across from Lim’s compound, at 2 Paterson Hill, would be featured decades later in the Hollywood movie, <i>Crazy Rich Asians</i>.
