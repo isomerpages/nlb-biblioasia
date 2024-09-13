@@ -2,6 +2,7 @@ collections:
   online-exclusive:
     output: true
     order:
+      - A Kampong for the Grand Old Man of Singapore.md
       - "Remembering AGS Danaraj: Pioneer Town Planner and News Reader.md"
       - Eu Tong Sen’s “Pearl Under the Burning Tropical Sun”.md
       - "A Scientific Adventure: The Life and Legacy of Dr Lee Kum Tatt.md"

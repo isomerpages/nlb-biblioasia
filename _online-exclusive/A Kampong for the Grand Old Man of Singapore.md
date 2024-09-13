@@ -1,6 +1,6 @@
 ---
 title: A Kampong for the Grand Old Man of Singapore
-permalink: /a-kampong-for-the-grand-old-man-of-singapore/
+permalink: /places-and-buildings/2024/9/lim-boon-keng-mansion-kampong/
 variant: markdown
 description: ""
 ---
@@ -12,9 +12,9 @@ Lim Boon Keng (1869–1957) was undoubtedly one of the most iconic figures in th
 <div style="background-color: white;">
 <br>
 <img src="/images/Online%20Only%20Articles/Lim%20Boon%20Keng%20Mansion/PatersonHill8.jpg" style="width: 75%;">
-Lim Boon Keng and his wife Grace Yin Pek Ha, 1950s.<i>Courtesy of Lim Kok Lian.</i></div>
+Lim Boon Keng and his wife Grace Yin Pek Ha, 1950s. <i>Courtesy of Lim Kok Lian.</i></div>
 
-Much has been studied and written about Lim’s contributions in the diverse fields he was involved in and mainly served in a leadership position. He was a Chinese member of the Straits Settlements Legislative Council (1895–1903; 1915–21) and a municipal commissioner (1905–1906). He also co-founded the _Straits Chinese Magazine_ (1897), Singapore Chinese Girls’ School (1899), Straits Chinese British Association (1900) and Singapore Chinese Chamber of Commerce (1906) as well as a number of banks.[^2]
+Much has been studied and written about Lim’s contributions in the diverse fields he was involved in and mainly served in a leadership position. He was a Chinese member of the Straits Settlements Legislative Council (1895–1903; 1915–21) and a municipal commissioner (1905–06). He also co-founded the _Straits Chinese Magazine_ (1897), Singapore Chinese Girls’ School (1899), Straits Chinese British Association (1900) and Singapore Chinese Chamber of Commerce (1906) as well as a number of banks.[^2]
 
 However, the remaining years of Lim’s life between 1946 and his death in 1957 are essentially a blank. Curiously, for an individual with so much in the way of experience in legislative affairs, social organisation and public education, Lim was virtually invisible during Singapore’s birth travails toward independence and nationhood.
 
@@ -23,7 +23,7 @@ What has become known recently from close members of his family, however, is tha
 <div style="background-color: white;">
 <br>
 <img src="/images/Online%20Only%20Articles/Lim%20Boon%20Keng%20Mansion/Paterson_Hill1.jpg" style="width: 80%;">
-Lim Boon Keng’s mansion with the attap roof. This is a still from a home movie by Lim Kok Lian, 1972.<i>Courtesy of Lim Kok Lian.</i></div>
+Lim Boon Keng’s mansion with the attap roof. This is a still from a home movie by Lim Kok Lian, 1972. <i>Courtesy of Lim Kok Lian.</i></div>
 
 #### **An Attap-roofed Mansion**
 
@@ -36,14 +36,14 @@ Central to what eventually morphed into Lim’s village between 1946 and 1975 wa
 <div style="background-color: white;">
 <br>
 <img src="/images/Online%20Only%20Articles/Lim%20Boon%20Keng%20Mansion/1Paterson_Hill8.jpg" style="width: 80%;">
-Lim Boon Keng’s mansion at 1 Paterson Hill, 1970.<i>Courtesy of Lim Kok Lian.</i></div>
+Lim Boon Keng’s mansion at 1 Paterson Hill, 1970. <i>Courtesy of Lim Kok Lian.</i></div>
 
 Chong Joo Beng, whose family was Lim’s tenant, was born in an annexed portion of the main house in 1947. According to Chong, there were some smaller houses, mostly wooden and of random design, built within the compound and sited closer to the Paterson Road side. Some of the houses were shack-like with corrugated zinc roofs”.[^7]
 
 <div style="background-color: white;">
 <br>
 <img src="/images/Online%20Only%20Articles/Lim%20Boon%20Keng%20Mansion/LBK_Attap_Roof.jpg" style="width: 80%;">
-Lim Boon Keng and family in an upstairs porch of the house with the attap roof, 1935.<i>Courtesy of Lim Kok Lian.</i></div>
+Lim Boon Keng and family in an upstairs porch of the house with the attap roof, 1935.<i> Courtesy of Lim Kok Lian.</i></div>
 
 Both Chong and Lim’s grandson, Lim Kok Lian, who spent a great deal of his childhood years in the Paterson Hill mansion, recall that there were several long-term Chinese families as well as Punjabi, Malay and Eurasian families living in huts on the compound and in the mansion itself.&nbsp; Members of the Royal Air Force and Royal Navy also rented rooms in the main house from Mrs Lim Boon Keng nee Grace Yin Pek Ha. In residence too were Lim Kok Lian’s father, the legendary auto racer Lim Peng Han, his mother and his two siblings.[^8]
 
@@ -56,7 +56,7 @@ Chong and Lim Kok Lian remember that the sprawling compound had a front garden t
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Lim%20Boon%20Keng%20Mansion/racing_cock_fighting.png" style="width: 80%;">
+<img src="/images/Online%20Only%20Articles/Lim%20Boon%20Keng%20Mansion/racing_cock_fightingv1.png" style="width: 95%;">
 Lim Kok Lian was a racing car enthusiast and also kept fighting cocks, 1953. <i>Courtesy of Lim Kok Lian.</i></div>
 
 Surrounded by newer stately mansions with manicured lawns and a stone’s throw from the glitzy businesses along Orchard Road, Lim’s property leaned precariously into the category of an urban slum. Incidentally, one of the newer and elegant properties across from Lim’s compound, at 2 Paterson Hill, would be featured decades later in the Hollywood movie, <i>Crazy Rich Asians</i>.
@@ -108,7 +108,7 @@ As sections of the attap roof disintegrated, the holes were patched haphazardly 
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Lim%20Boon%20Keng%20Mansion/Paterson_Hill5.jpg" style="width: 80%;">           Lim Boon Keng and his wife with their large and extended family in this picture taken at the garden of 1 Paterson Hill, 1938–39. In the background is 2 Paterson Hill, home of Dr Hu Tsai Kuen whose family was the subject of the movie <i>Crazy Rich Asians.</i> <i>Courtesy of Lim Kok Lian.</i></div>
+<img src="/images/Online%20Only%20Articles/Lim%20Boon%20Keng%20Mansion/Paterson_Hill5.jpg" style="width: 80%;">           Lim Boon Keng and his wife with their large and extended family in this picture taken at the garden of 1 Paterson Hill, 1938–39. In the background is 2 Paterson Hill, home of Dr Hu Tsai Kuen whose home was featured in the movie <i>Crazy Rich Asians.</i> <i>Courtesy of Lim Kok Lian.</i></div>
 
 In the main dining room upstairs, Lim occupied pride of place at dinners and family gatherings. When he died on 1 January 1957, his body was laid in the reception room on the ground floor of the mansion where hundreds came to pay their last respects.[^22]
 
@@ -143,9 +143,9 @@ Today, no markers identify the site as the final home of one of Singapore’s gr
 
 [^9]:  Chong Joo Beng and Lim Kok Lian, interview, 2019.
 
-[^10]:  Survey Department, Singapore, [Map of the Town and Environs of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f98c5272-115c-11e3-83d5-0050568939ad), 1836, map. (From National Archives of Singapore, accession no. TM000037); “[Mr. Paterson and Col. Collyer](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk18980118-1.2.52),” <i>Singapore Free Press</i>, 18 January 1898, 37. (From NewspaperSG)
+[^10]:  Survey Department, Singapore, <i>[Map of the Town and Environs of Singapore](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f98c5272-115c-11e3-83d5-0050568939ad)</i>, 1836, map. (From National Archives of Singapore, accession no. TM000037); “[Mr. Paterson and Col. Collyer](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk18980118-1.2.52),” <i>Singapore Free Press</i>, 18 January 1898, 37. (From NewspaperSG)
 
-[^11]:  Duncan Sutherland, “[Tan Chay Yan](https://www.nlb.gov.sg/main/article-detail?cmsuuid=7b121204-db63-4f02-a125-ac99b14128fb),” _Singapore Infopedia_. National Library Board Singapore. Article published August 2023.
+[^11]:  Duncan Sutherland, “[Tan Chay Yan](https://www.nlb.gov.sg/main/article-detail?cmsuuid=7b121204-db63-4f02-a125-ac99b14128fb),” in _Singapore Infopedia_. National Library Board Singapore. Article published August 2023.
 
 [^12]:  Lim Kok Lian, private memoir on Lim Boon Keng and his family, 2019.
 
