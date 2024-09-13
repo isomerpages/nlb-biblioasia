@@ -12,9 +12,9 @@ Lim Boon Keng (1869–1957) was undoubtedly one of the most iconic figures in th
 <div style="background-color: white;">
 <br>
 <img src="/images/Online%20Only%20Articles/Lim%20Boon%20Keng%20Mansion/PatersonHill8.jpg" style="width: 75%;">
-Lim Boon Keng and his wife Grace Yin Pek Ha, 1950s.<i>Courtesy of Lim Kok Lian.</i></div>
+Lim Boon Keng and his wife Grace Yin Pek Ha, 1950s. <i>Courtesy of Lim Kok Lian.</i></div>
 
-Much has been studied and written about Lim’s contributions in the diverse fields he was involved in and mainly served in a leadership position. He was a Chinese member of the Straits Settlements Legislative Council (1895–1903; 1915–21) and a municipal commissioner (1905–1906). He also co-founded the _Straits Chinese Magazine_ (1897), Singapore Chinese Girls’ School (1899), Straits Chinese British Association (1900) and Singapore Chinese Chamber of Commerce (1906) as well as a number of banks.[^2]
+Much has been studied and written about Lim’s contributions in the diverse fields he was involved in and mainly served in a leadership position. He was a Chinese member of the Straits Settlements Legislative Council (1895–1903; 1915–21) and a municipal commissioner (1905–06). He also co-founded the _Straits Chinese Magazine_ (1897), Singapore Chinese Girls’ School (1899), Straits Chinese British Association (1900) and Singapore Chinese Chamber of Commerce (1906) as well as a number of banks.[^2]
 
 However, the remaining years of Lim’s life between 1946 and his death in 1957 are essentially a blank. Curiously, for an individual with so much in the way of experience in legislative affairs, social organisation and public education, Lim was virtually invisible during Singapore’s birth travails toward independence and nationhood.
 
