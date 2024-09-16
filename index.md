@@ -26,6 +26,16 @@ sections:
       image: /images/survey_sep24.jpg
       alt: Readership Survey
   - infopic:
+      title: "Stella Kon: Beyond Emily of Emerald Hill"
+      subtitle: podcast
+      id: infopic
+      description: Playwright Stella Kon talks about the difference between writing
+        plays and musicals, her actor to play Emily, and her writing process.
+      button: Listen to the episode
+      url: https://biblioasia.nlb.gov.sg/podcast/stella-kon-beyond-emily-of-emerald-hill/
+      image: /images/Podcast/Stella_600_400.jpg
+      alt: Emily of Emerald Hill
+  - infopic:
       title: Eu Tong Sen’s “Pearl Under the Burning Tropical Sun”
       subtitle: More places and buildings
       id: infopic
