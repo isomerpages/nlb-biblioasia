@@ -1267,15 +1267,4 @@ sections:
       url: https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08
       alt: Greeting Card
       image: /images/Hari Raya Cards/hari raya greeting card.jpg
-  - infopic:
-      title: "Stella Kon: Beyond Emily of Emerald Hill"
-      subtitle: Podcast
-      id: infopic
-      description: Playwright Stella Kon talks about the difference between writing
-        plays and musicals, her favourite actor who played Emily, and her
-        writing process.
-      button: Listen to BiblioAsia+
-      url: /podcast/stella-kon-beyond-emily-of-emerald-hill/
-      image: /images/Podcast/Stella_600_400.jpg
-      alt: Image alt text
 ---
