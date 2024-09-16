@@ -26,11 +26,12 @@ sections:
       image: /images/survey_sep24.jpg
       alt: Readership Survey
   - infopic:
-      title: "Stella Kon: Beyond Emily of Emerald Hill"
+      title: "Stella Kon: Beyond <i>Emily of Emerald Hill</i>"
       subtitle: podcast
       id: infopic
       description: Playwright Stella Kon talks about the difference between writing
-        plays and musicals, her actor to play Emily, and her writing process.
+        plays and musicals, her favourite actor to play Emily, and her writing
+        process.
       button: Listen to the episode
       url: https://biblioasia.nlb.gov.sg/podcast/stella-kon-beyond-emily-of-emerald-hill/
       image: /images/Podcast/Stella_600_400.jpg
