@@ -26,7 +26,7 @@ sections:
       image: /images/survey_sep24.jpg
       alt: Readership Survey
   - infopic:
-      title: "Stella Kon: Beyond <i>Emily of Emerald Hill</i>"
+      title: "Stella Kon: Beyond Emily of Emerald Hill"
       subtitle: podcast
       id: infopic
       description: Playwright Stella Kon talks about the difference between writing
