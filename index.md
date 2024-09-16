@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /history/2024/4/beer-brewing-production-brewery-singapore/
-      button: "A Long Time Brewing: The Story of Singapore’s Beer Industry"
+      url: /vol-20/issue-3/oct-dec-2024/laws-of-our-land/
+      button: "Laws of Our Land: Foundations of a New Nation"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Online Only Articles/Beer/Hero_tiger_beer.png
+      background: /images/Vol 20 Issue 3/Laws/HeroImage_laws_2.jpg
   - infopic:
       title: Have Your Say
       subtitle: Readership Survey
@@ -26,7 +26,7 @@ sections:
       image: /images/survey_sep24.jpg
       alt: Readership Survey
   - infopic:
-      title: "Stella Kon: Beyond <i>Emily of Emerald Hill</i>"
+      title: "Stella Kon: Beyond Emily of Emerald Hill"
       subtitle: podcast
       id: infopic
       description: Playwright Stella Kon talks about the difference between writing
