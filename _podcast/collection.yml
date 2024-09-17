@@ -2,6 +2,7 @@ collections:
   podcast:
     output: true
     order:
+      - SG's First Foreign Minister/20 Years of Researching S Rajaratnam.md
       - SG's First Foreign Minister/.keep
       - Stella Kon/Beyond Emily of Emerald Hill.md
       - Stella Kon/Transcript.md
