@@ -16,8 +16,7 @@ video. Take five to learn interesting things about Singapore history.</p>
 Born Ooi Chor Hooi (1905–72), he was one of the earliest local Malayan
 journalists writing in English and had worked for newspapers like the <em>Straits Echo</em> and
 the <em>Malayan Times</em>.</p>
-<p></p>
-<p></p>
+<hr>
 <h4><strong>Traditional Letterpress Printing in Singapore</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/GYvONtxJFeo?si=PBBLlpCbvVh2o3Kx"></iframe>
