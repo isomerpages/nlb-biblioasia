@@ -12,10 +12,10 @@ video. Take five to learn interesting things about Singapore history.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/J2EPQPWskds?list=PLJlLW0qKYHTPnbGAYPZtpahewt6xRgUzc"></iframe>
 </div>
-<p>96-year-old Irene Ooi shares about her father, R.B. Ooi, and his work.
-Born Ooi Chor Hooi (1905–72), he was one of the earliest local Malayan
-journalists writing in English and had worked for newspapers like the <em>Straits Echo</em> and
-the <em>Malayan Times</em>.</p>
+<p>R.B. Ooi (1905-72) was one of the earliest Malayan journalists writing
+in English and had worked for newspapers like the&nbsp;<em>Straits Echo</em>&nbsp;and
+the&nbsp;<em>Malayan Times</em>. Irene Ooi, 96, shares her memories of
+her father and his work.</p>
 <hr>
 <h4><strong>Traditional Letterpress Printing in Singapore</strong></h4>
 <div class="iframe-wrapper">
