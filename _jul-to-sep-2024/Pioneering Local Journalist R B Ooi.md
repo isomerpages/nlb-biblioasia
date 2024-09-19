@@ -16,6 +16,9 @@ During the Malayan Emergency (1948–60), Ooi worked as a press officer to Gener
 
 Ooi also had to worry about being shot by the British. “Once I was sent to the jungle to study the morale of British troops. Those young soldiers were scared stiff when they entered a rubber estate. One of them tripped over a wire and set off an alarm in a hill. The soldiers ran up the hill firing like mad and so we had to run with them or else we might be fired upon by both sides… Those were dangerous years for me and two of my cameramen colleagues. I should have got an OBE [The Most Excellent Order of the British Empire] for that.”[^2]
 
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/J2EPQPWskds?list=PLJlLW0qKYHTPnbGAYPZtpahewt6xRgUzc" frameborder="0" allowfullscreen=""></iframe></div>
+<div style="background-color: white;"><i></i></div>
+
 R.B. Ooi, born Ooi Chor Hooi (1905–72), was my maternal grandfather. He was one of the earliest local Malayan journalists writing in English and had worked for newspapers ranging from the <i>Straits Echo</i> to the <i>Malayan Times</i>. In 2023, Irene Lim – his daughter and my mother – donated his personal papers and photos to the National Library of Singapore. These are now held in the R.B. Ooi and Edna Kung Collection. His writings give us a window into discourses – such as multiculturalism and the Malayan identity – that
 publicly preoccupied the English-educated in the colonial and immediate post-colonial periods in Singapore and Malaysia.
 
