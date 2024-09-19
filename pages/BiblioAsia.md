@@ -16,17 +16,23 @@ boxing superstar?</p>
 <p></p>
 <h4><strong>Season 3</strong></h4>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/stella-kon-beyond-emily-of-emerald-hill/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Stella Kon: Beyond Emily of Emerald Hill" src="/images/Podcast/Stella_600_400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Stella Kon: Beyond Emily of Emerald Hill</div><div class="isomer-card-description">Stella Kon is known for creating the beloved Emily of Emerald Hill – possibly the most frequently staged play in Singapore. Also a musical theatre writer, Stella talks about the difference between writing plays and musicals, her favourite actor who played Emily, and her writing process.</div><div class="isomer-card-link">Listen to the episode</div></div></a>
-<div class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/s-rajaratnam-singapores-first-foreign-minister/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="S. Rajaratnam: The Lion's Roar" src="/images/Podcast/Irene_600_400.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="20 Years of Researching S. Rajaratnam, S’pore’s First Foreign Minister Who Wrote the National Pledge" src="/images/Podcast/Irene_600_400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">S. Rajaratnam: The Lion's Roar</div>
-<div class="isomer-card-description">Coming soon</div>
+<div class="isomer-card-title">He Wrote the National Pledge: S. Rajaratnam, Singapore’s First Foreign
+Minister</div>
+<div class="isomer-card-description">S. Rajaratnam's contribution to Singapore is so great that to cover his
+life adequately required 20 years of research. Irene Ng, his authorised
+biographer, tells us little-known facets of the man, his legacy as Singapore’s
+first foreign and culture minister, and his relationship with Lee Kuan
+Yew.</div>
+<div class="isomer-card-link">Coming soon</div>
 </div>
-</div>
+</a>
 </div>
 <p></p>
 <h4><strong>Season 2</strong></h4>
