@@ -19,7 +19,7 @@ reveals fascinating choices and paths not taken. *Eriko Ogihara-Schuck*. [(PDF)]
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/sentosa-mount-faber-cable-cars/">Sentosa’s Cable Cars at 50</a><br>
-As Singapore’s cable car system commemorates 50 years of service, we look back at the journey of this iconic attraction. *Joanna Tan*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_JUL_SEP2024_CableCar.pdf)
+As Singapore’s cable car system commemorates 50 years of service, we look back at the journey of this iconic attraction. *Joanna Tan*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_Jul_Sep2024_CableCar_v2.pdf)
 
 
 
@@ -46,7 +46,7 @@ The early ice importing companies saw their profits melt away swiftly. An ice ma
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/singapore-hokkien-huay-kuan-tian-hock-keng-temple/">The Singapore Hokkien Huay Kuan Collection: A Treasure Trove of Information About a Unique Institution  </a><br>
-Materials donated by the Singapore Hokkien Huay Kuan offer unique perspectives into the history of the Hokkien community here. *Ang Seow Leng and Seow Peck Ngiam*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_JUL_SEP2024_HokkienHuayKuanCollection.pdf)
+Materials donated by the Singapore Hokkien Huay Kuan offer unique perspectives into the history of the Hokkien community here. *Ang Seow Leng and Seow Peck Ngiam*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_Jul_Sep2024_HokkienHuayKuanCollection_v2.pdf)
 
 
 
