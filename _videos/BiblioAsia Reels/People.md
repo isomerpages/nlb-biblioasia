@@ -12,6 +12,6 @@ third_nav_title: BiblioAsia Reels
 R.B. Ooi (1905-72) was one of the earliest Malayan journalists writing in English and had worked for newspapers like the&nbsp;_Straits Echo_&nbsp;and the&nbsp;_Malayan Times_. Irene Ooi, 96, shares her memories of her father and his work.
 
 **Related article** <br>
-* [Pioneering Journalist R.B. Ooi]([/vol-20/issue-2/jul-sep-2024/singapore-journalist-newspaper-rb-ooi/)<br>
+* [Pioneering Journalist R.B. Ooi](/vol-20/issue-2/jul-sep-2024/singapore-journalist-newspaper-rb-ooi/)<br>
 
 <hr>
