@@ -65,9 +65,6 @@ Gabriel Tan, a Singaporean, volunteered at the camp from 1980 to 1991. Initially
 
 In unpublished manuscript by Jill Saunders, a teacher at the camp, and Kaye McArthur, a coordinator of the children’s programme, they wrote that “you soon forgot the dust, the dirt, the insects and the feeling your clothes were sticking to you from perspiration. Any physical discomfort was overtaken by the task in hand and the refugee’s extraordinary enthusiasm and appreciation”.[^14]
 
-![](/images/Vol%2020%20Issue%203/Refugee/refugee_kaye.jpg)
-<div style="background-color: white;">Kaye McArthur, an expatriate volunteer, teaching children English at the Hawkins Road Refugee Camp, 1981. <i>Courtesy of Kaye McArthur.</i></div>
-
 To share stories of their lives, a magazine was produced by the refugees. Titled _Nhan Chung_ (Witness), 10,000 copies of the first issue came out in December 1979. It was written in Vietnamese, with English translations done by the refugees themselves.[^15]
 
 ![](/images/Vol%2020%20Issue%203/Refugee/refugee_magazine.jpg)
@@ -148,7 +145,7 @@ Singapore’s experience taking in the Vietnamese refugees came to shape its pol
 
 [^13]: Gabriel Tan, interview, 8 July 2024.&nbsp;
 
-[^14]:  Note from Kaye McArthur, 8 July 2024.&nbsp;
+[^14]:  Jill Saunders and Kaye McArthur, “Hawkins Road and Gelang Refugee Camps 1981–1983: Volunteers Memories” (unpublished manuscript, 18 July 2024).
 
 [^15]: “[Boat People’s Horror Mag](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19791206-1.2.26),” _New Nation_, 6 December 1979, 4. (From NewspaperSG)
  
