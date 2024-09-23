@@ -26,6 +26,17 @@ sections:
       image: /images/survey_sep24.jpg
       alt: Readership Survey
   - infopic:
+      title: Pioneering Journalist R.B. Ooi
+      subtitle: People
+      id: infopic
+      description: Malayan journalist R.B. Ooi (1905–72) worked for newspapers like
+        the Straits Echo and the Malayan Times. Irene Lim, 96, shares her
+        memories of her father.
+      button: A veteran newsman
+      url: https://www.youtube.com/embed/J2EPQPWskds?list=PLJlLW0qKYHTPnbGAYPZtpahewt6xRgUzc
+      image: "/images/Videos: BiblioAsia Reels/BiblioAsia_Reels___Irene_Lim.png"
+      alt: Image alt text
+  - infopic:
       title: "Stella Kon: Beyond Emily of Emerald Hill"
       subtitle: podcast
       id: infopic
@@ -1267,15 +1278,4 @@ sections:
       url: https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08
       alt: Greeting Card
       image: /images/Hari Raya Cards/hari raya greeting card.jpg
-  - infopic:
-      title: Pioneering Journalist R.B. Ooi
-      subtitle: People
-      id: infopic
-      description: Malayan journalist R.B. Ooi (1905–72) worked for newspapers like
-        the Straits Echo and the Malayan Times. Irene Lim, 96, shares her
-        memories of her father.
-      button: A veteran newsman
-      url: https://www.youtube.com/embed/J2EPQPWskds?list=PLJlLW0qKYHTPnbGAYPZtpahewt6xRgUzc
-      image: "/images/Videos: BiblioAsia Reels/BiblioAsia_Reels___Irene_Lim.png"
-      alt: Image alt text
 ---
