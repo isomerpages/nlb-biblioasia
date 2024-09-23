@@ -63,7 +63,7 @@ Gabriel Tan, a Singaporean, volunteered at the camp from 1980 to 1991. Initially
 ![](/images/Vol%2020%20Issue%203/Refugee/refugee_children2.jpg)
 <div style="background-color: white;">Singaporean volunteer Gabriel Tan with some of the children at the Hawkins Road Refugee Camp, 1982. <i>Courtesy of Gabriel Tan.</i></div>
 
-In unpublished manuscript by Jill Saunders, a teacher at the camp, and Kaye McArthur, a coordinator of the children’s programme, they wrote that “you soon forgot the dust, the dirt, the insects and the feeling your clothes were sticking to you from perspiration. Any physical discomfort was overtaken by the task in hand and the refugee’s extraordinary enthusiasm and appreciation”.[^14]
+In an unpublished manuscript by Jill Saunders, a teacher at the camp, and Kaye McArthur, a coordinator of the children’s programme, they wrote that “you soon forgot the dust, the dirt, the insects and the feeling your clothes were sticking to you from perspiration. Any physical discomfort was overtaken by the task in hand and the refugee’s extraordinary enthusiasm and appreciation”.[^14]
 
 To share stories of their lives, a magazine was produced by the refugees. Titled _Nhan Chung_ (Witness), 10,000 copies of the first issue came out in December 1979. It was written in Vietnamese, with English translations done by the refugees themselves.[^15]
 
