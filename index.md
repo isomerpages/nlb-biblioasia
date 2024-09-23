@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-20/issue-3/oct-dec-2024/laws-of-our-land/
-      button: "Laws of Our Land: Foundations of a New Nation"
+      url: /vol-20/issue-3/oct-dec-2024/great-singapore-workout/
+      button: 30 Years of the Great Singapore Workout
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 20 Issue 3/Laws/HeroImage_laws_2.jpg
+      background: /images/Vol 20 Issue 3/Singapore Workout/HeroImage_workout.jpg
   - infopic:
       title: Have Your Say
       subtitle: Readership Survey
