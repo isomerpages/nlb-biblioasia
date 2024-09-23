@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-20/issue-3/oct-dec-2024/laws-of-our-land/
-      button: "Laws of Our Land: Foundations of a New Nation"
+      url: /vol-20/issue-3/oct-dec-2024/great-singapore-workout/
+      button: 30 Years of the Great Singapore Workout
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 20 Issue 3/Laws/HeroImage_laws_2.jpg
+      background: /images/Vol 20 Issue 3/Singapore Workout/HeroImage_workout.jpg
   - infopic:
       title: Have Your Say
       subtitle: Readership Survey
@@ -25,6 +25,17 @@ sections:
       url: https://go.gov.sg/web-survey
       image: /images/survey_sep24.jpg
       alt: Readership Survey
+  - infopic:
+      title: Pioneering Journalist R.B. Ooi
+      subtitle: People
+      id: infopic
+      description: Malayan journalist R.B. Ooi (1905–72) worked for newspapers like
+        the Straits Echo and the Malayan Times. Irene Lim, 96, shares her
+        memories of her father.
+      button: A veteran newsman
+      url: https://www.youtube.com/embed/J2EPQPWskds?list=PLJlLW0qKYHTPnbGAYPZtpahewt6xRgUzc
+      image: "/images/Videos: BiblioAsia Reels/BiblioAsia_Reels___Irene_Lim.png"
+      alt: Image alt text
   - infopic:
       title: "Stella Kon: Beyond Emily of Emerald Hill"
       subtitle: podcast

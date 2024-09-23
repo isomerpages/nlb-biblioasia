@@ -14,7 +14,7 @@ video. Take five to learn interesting things about Singapore history.</p>
 </div>
 <p>R.B. Ooi (1905-72) was one of the earliest Malayan journalists writing
 in English and had worked for newspapers like the&nbsp;<em>Straits Echo</em>&nbsp;and
-the&nbsp;<em>Malayan Times</em>. Irene Ooi, 96, shares her memories of
+the&nbsp;<em>Malayan Times</em>. Irene Lim, 96, shares her memories of
 her father and his work.</p>
 <hr>
 <h4><strong>Traditional Letterpress Printing in Singapore</strong></h4>

@@ -42,10 +42,6 @@ Among those who spent time in Singapore was Chan Tho, now 70. He stayed in the c
 
 For unaccompanied children, arrangements were made for them to live in special houses with others like them. Thao Dinh stayed in the camp from August 1981 to March 1982 when he was 11 years old and remembers that the house was crowded when he first entered. His father and three younger sisters escaped Vietnam separately and were sent to a refugee camp in Malaysia instead. He was eventually reunited with his family and they resettled in Australia where he worked as a business franchisee. The 53-year-old currently lives in Brisbane.[^6]
 
-![](/images/Vol%2020%20Issue%203/Refugee/refugee_childrenhouse.jpg)
-<div style="background-color: white;">A house for children at the Hawkins Road Refugee Camp, 1983. <i>Courtesy of Kaye McArthur.</i></div>
-
-
 #### **Life in Singapore**
 
 As the refugees were allowed outside the camp after 12 pm each day for shopping or other recreational activities, they would visit nearby towns like Chong Pang, which took on a “bustling rhythm” reported the _Straits Times_ in 1980.[^7]
@@ -67,10 +63,7 @@ Gabriel Tan, a Singaporean, volunteered at the camp from 1980 to 1991. Initially
 ![](/images/Vol%2020%20Issue%203/Refugee/refugee_children2.jpg)
 <div style="background-color: white;">Singaporean volunteer Gabriel Tan with some of the children at the Hawkins Road Refugee Camp, 1982. <i>Courtesy of Gabriel Tan.</i></div>
 
-Expatriate volunteer Kaye McArthur recalls that classes were held in makeshift buildings with dirt floors. “As a teacher you soon forgot the dust, the dirt, the insects and the feeling your clothes were sticking to you from perspiration,” she said. “Any physical discomfort was overtaken by the task in hand and the refugee’s extraordinary enthusiasm and appreciation.”[^14]
-
-![](/images/Vol%2020%20Issue%203/Refugee/refugee_kaye.jpg)
-<div style="background-color: white;">Kaye McArthur, an expatriate volunteer, teaching children English at the Hawkins Road Refugee Camp, 1981. <i>Courtesy of Kaye McArthur.</i></div>
+In unpublished manuscript by Jill Saunders, a teacher at the camp, and Kaye McArthur, a coordinator of the children’s programme, they wrote that “you soon forgot the dust, the dirt, the insects and the feeling your clothes were sticking to you from perspiration. Any physical discomfort was overtaken by the task in hand and the refugee’s extraordinary enthusiasm and appreciation”.[^14]
 
 To share stories of their lives, a magazine was produced by the refugees. Titled _Nhan Chung_ (Witness), 10,000 copies of the first issue came out in December 1979. It was written in Vietnamese, with English translations done by the refugees themselves.[^15]
 
@@ -152,7 +145,7 @@ Singapore’s experience taking in the Vietnamese refugees came to shape its pol
 
 [^13]: Gabriel Tan, interview, 8 July 2024.&nbsp;
 
-[^14]:  Note from Kaye McArthur, 8 July 2024.&nbsp;
+[^14]:  Jill Saunders and Kaye McArthur, “Hawkins Road and Gelang Refugee Camps 1981–1983: Volunteers Memories” (unpublished manuscript, 18 July 2024).
 
 [^15]: “[Boat People’s Horror Mag](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19791206-1.2.26),” _New Nation_, 6 December 1979, 4. (From NewspaperSG)
  
