@@ -68,7 +68,7 @@ Sakurai himself led a group that struggled to rejoin the main Japanese forces in
 
 Sakurai’s experience in Burma was imprinted in his mind for the rest of his life, underlining his sense of the futility of war. In his will, he asked for some of his ashes to be scattered in the Sittang River after his death.
 
-Reverend Tadashi Matsumoto – Military Interpreter
+#### **Reverend Tadashi Matsumoto – Military Interpreter**
 
 The third Japanese Anglican, Reverend Tadashi Matsumoto, came to Singapore in 1943. He was fluent in English and was therefore recruited as a military interpreter. In his spare time, he attended church services and did his best to encourage the local Christians whom he encountered.
 
@@ -84,7 +84,7 @@ Matsumoto was so impressed by the book that he translated it into Japanese. Of t
 
 Matsumoto was eventually released from detention and found his way back to Japan where he resumed his career as a parish priest.
 
-Chiyokichi Ariga – Schoolteacher and Orphanage Warden
+#### **Chiyokichi Ariga – Schoolteacher and Orphanage Warden**
 
 Chiyokichi Ariga was the fourth Japanese Anglican in Singapore of whom we have definite knowledge. Unlike the others, he was a civilian rather than a military official. Being part of the same network of Rikkyo alumni, he made contact with Sakurai soon after arriving in Singapore in August 1943. 
 
