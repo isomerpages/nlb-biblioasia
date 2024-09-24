@@ -94,7 +94,7 @@ After the outbreak of war, Ariga was interned in a detention centre in the Rocky
 
 According to Ariga’s memoirs, his wife was appointed to head an orphanage at York Hill, whose children included those of foreign detainees. Ariga became a teacher at the orphanage, and the couple worked there together until the end of the war, making a small but important humanitarian contribution in difficult times.32 
 
-Postwar Reconstruction in Japan
+#### **Postwar Reconstruction in Japan**
 
 After the war, all four men contributed to the rebuilding of the NSKK in Japan. Ogawa became a professor in Rikkyo. In 1953, Bishop Wilson invited him to the annual meeting in the UK of the Society for the Propagation of the Gospel where he presented on “Christian Work in Japan Today”, noting that there was still a role for foreign missionaries.33  
 
