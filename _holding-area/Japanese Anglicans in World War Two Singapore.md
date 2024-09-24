@@ -50,7 +50,7 @@ Ogawa might have had his own problems with the Kempeitai. He had become a firm f
 
 Much later, in an interview with the British Broadcasting Corporation in 1969, Ogawa commented that senior officers were “always eyeing me down and trying to get some\[thing\] nasty over me”.13 However, he added that there were quite a few friends who had a similar faith in Christ, and they had also helped him.
 
-Lieutenant Taka Sakurai – Military Propaganda Department
+#### **Lieutenant Taka Sakurai – Military Propaganda Department**
 
 One of those friends whom Ogawa mentioned would have been Lieutenant Taka Sakurai. In his role in the Military Propaganda Department, Sakurai had less formal contact with the churches than Ogawa. However, in his personal capacity, he attended services at St Andrew’s Cathedral. Local Christians evidently regarded him as a “friend in high places”, noting his eventual transfer away from Singapore with regret.14 
 
