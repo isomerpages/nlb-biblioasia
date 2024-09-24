@@ -24,7 +24,7 @@ Once in Singapore, the Armenians quickly established various businesses and made
 <div style="background-color: white;"> (From left) Jacob Constantine (manager), Arshak Sarkies (founder and owner), Martin Sarkies (founder and owner) and Martyrose Arathoon (accountant) of the Raffles Hotel, 1906. <i>Image reproduced from Nadia H. Wright, The Armenians of Singapore: A Short History (George Town, Penang: Entrepot Publishing, 2019), 86. (From National Library, Singapore, call no. RSING 305.89199205957 WRI).</i></div>
 
 ![](/images/Vol%2020%20Issue%203/Armenian%20Church/church_agnes.jpg)
-<div style="background-color: white;">Photo of Agnes Joaquim on a locket that once belonged to her, with an inscription of her name on the reverse side. She cultivated the hybrid orchid <i>Vanda</i> Miss Joaquim in 1893, which became Singapore’s national flower. <i>Courtesy of Linda Locke.</i></div>
+<div style="background-color: white;">Photo of Agnes Joaquim on a locket that once belonged to her, with an inscription of her name on the reverse side. She cultivated the hybrid orchid <i>Vanda</i> Miss Joaquim in 1893, which became Singapore’s national flower. These images are courtesy of Linda Locke, a great grand-niece of Agnes Joaquim. Linda is also a descendant of Isaiah Zechariah, one of the founders of the Armenian Church.</div>
 
 
 #### **Founding of the Armenian Church**
