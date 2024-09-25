@@ -112,7 +112,7 @@ Ariga had previously worked in Canada, first as a journalist and then as a teach
 After the outbreak of war, Ariga was interned in a detention centre in the Rocky Mountains.[^30] However, together with his wife and daughter, he was among a group of Japanese who were repatriated in exchange for Canadian prisoners. They travelled by sea via Mozambique to Singapore. Ariga decided to stay on in Singapore as he believed that there might be more opportunities for Japanese speakers of English. He also felt that the Japanese mainland would be more militaristic.[^31]
 
 ![](/images/Vol%2020%20Issue%204/Japanese%20Anglican/anglican_arigafamily.jpg)
-<div style="background-color:white;"> Andrew Tokuji Ogawa as a young man in Japan, c. 1930. <i>Courtesy of Rikkyo University Archives. </i></div>
+<div style="background-color:white;"> Chiyokichi Ariga (standing) with his wife and daughter and George Suzuki at Jurong Camp in Singapore, 1945. <i>George Metcalf Archival Collection, Canadian War Museum (CWM 19830626-001_14a).</i></div>
 
 
 According to Ariga’s memoirs, his wife was appointed to head an orphanage at York Hill, whose children included those of foreign detainees. Ariga became a teacher at the orphanage, and the couple worked there together until the end of the war, making a small but important humanitarian contribution in difficult times.[^32]
@@ -126,7 +126,7 @@ At the end of the presentation, Ogawa briefly commented on his own role in Singa
 Ariga became the principal of Rikkyo Elementary School, working alongside Sakurai as the chaplain. On a more personal note, Ariga introduced Sakurai to Matsumoto’s sister Fusae, and they got married in 1948. In retirement, Ariga returned to North America.
 
 ![](/images/Vol%2020%20Issue%204/Japanese%20Anglican/anglican_wedding.jpg)
-<div style="background-color:white;"> Andrew Tokuji Ogawa as a young man in Japan, c. 1930. <i>Courtesy of Rikkyo University Archives. </i></div>
+<div style="background-color:white;"> Taka Sakurai’s wedding to Tadashi Matsumoto’s sister Fusae, 8 April 1948. Chiyokichi Ariga (with white hair) is standing next to the groom. He was the one who introduced Sakurai to Fusae. Matsumoto is standing on the extreme left of the back row. <i>Courtesy of Mrs Hiroko Ito.</i></div>
 
 
 Matsumoto returned to parish ministry at St Mary’s Church in Ichikawa, Chiba prefecture, while also serving as a lecturer in the NSKK’s Central Theological College in Tokyo. He died in 1966, aged 58.
