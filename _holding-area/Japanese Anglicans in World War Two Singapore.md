@@ -115,3 +115,28 @@ I thank Sharon Lim, producer of the video <i>Unity of Faith: The Story of St And
 In Japan, I am grateful for the support of Jean Ogawa (Andrew Tokuji Ogawa’s daughter), Mrs Hiroko Ito (Tadashi Matsumoto’s youngest daughter), Reverend Isao Uematsu (nephew to both Tadashi Matsumoto and Taka Sakurai), Hidekazu Miyagawa (Rikkyo University Archives) and Thomas Takao Nagai (Church of the Resurrection, Chiba).&nbsp;
 
 Yusuke Tanaka helped with background information on the Japanese in Canada. My wife Miyoko Kobayashi provided linguistic and much other support throughout.<br><br></div>
+
+
+
+#### **Notes**
+
+[^1]: 
+
+[^2]: 
+
+[^3]: 
+
+[^4]: 
+
+[^5]: 
+
+[^6]: 
+
+[^7]: 
+
+[^8]: 
+
+[^9]: 
+
+[^10]: 
+
