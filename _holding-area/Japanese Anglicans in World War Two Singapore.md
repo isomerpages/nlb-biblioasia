@@ -146,12 +146,12 @@ Yusuke Tanaka helped with background information on the Japanese in Canada. My w
 [^7]: D.D. Chelliah, interview, 1973, 2n.
 
 
-[^8]: Joseph Thambiah, _Providence in Adversity: World War 2 and the Anglican Church in Singapore_ (Singapore: Joseph Thambiah, 2022), 82. (From National Library, Singapore, call no. RSING 283.5957 THA)
+[^8]: Joseph Thambiah, [_Providence in Adversity: World War 2 and the Anglican Church in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205717144) (Singapore: Joseph Thambiah, 2022), 82. (From National Library, Singapore, call no. RSING 283.5957 THA)
 
-[^9]: Thambiah, _Providence in Adversity_, 83.
+[^9]: Thambiah, [_Providence in Adversity_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205717144), 83.
 
 
-[^10]: “Christian Bodies Must Abandon Dependence on Missionaries,” _Syonan Times_, 1 November 1942, 4. (From NewspaperSG). The _Syonan Times_ or _Syonan Shimbun_ was produced on the presses of the _Straits Times_ during the Japanese Occupation. The name of the paper varied during the occupation.
+[^10]: “[Christian Bodies Must Abandon Dependence on Missionaries](https://eresources.nlb.gov.sg/newspapers/digitised/article/syonantimes19421101-1.2.32),” _Syonan Times_, 1 November 1942, 4. (From NewspaperSG). The _Syonan Times_ or _Syonan Shimbun_ was produced on the presses of the _Straits Times_ during the Japanese Occupation. The name of the paper varied during the occupation.
 
 [^11]: Hayter, _Priest in Prison_, 77.
 
