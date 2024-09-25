@@ -148,25 +148,34 @@ Yusuke Tanaka helped with background information on the Japanese in Canada. My w
 
 [^10]: “Christian Bodies Must Abandon Dependence on Missionaries,” _Syonan Times_, 1 November 1942, 4. (From NewspaperSG). The _Syonan Times_ or _Syonan Shimbun_ was produced on the presses of the _Straits Times_ during the Japanese Occupation. The name of the paper varied during the occupation.
 
-[^11]: 
+[^11]: Hayter, _Priest in Prison_, 77.
 
-[^12]: 
+[^12]: Hayter, _Priest in Prison_, 85. &nbsp;
 
-[^13]: 
 
-[^14]: 
+[^13]: “Return to Hell,” BBC, 1969. The clip where Ogawa makes this comment is included in the St Andrew’s Cathedral _Unity of Faith_ video.
 
-[^15]: 
 
-[^16]: 
+[^14]: Diocese of Singapore, _Report for the Period from 1941 to 1949_, 21.&nbsp;
 
-[^17]: 
 
-[^18]: 
+[^15]: The biographical details come from the postscript to: Taka Sakurai, _Biruma Sensen to Watashi_ \[Burmese Frontline and I\] (Tokyo: Shugengaisa Sei Ko Kai Shuppan, 2012)
 
-[^19]: 
 
-[^20]:
+[^16]: Taka Sakurai, “Hito-wa Shinko Naku Shite Ikirarenai” \[“We cannot live without faith” based on an interview with Mr/Ms Asada, 29 January 2003.\]. Nakama: Rikkyo Shogakko Dosokai 50-shunen kinenshi 1954–2003 \[Rikkyo Primary School Alumni 50th anniversary commemorative magazine: 2003\].
+
+
+[^17]: Sakurai, “Hito-wa Shinko Naku Shite Ikirarenai.”
+
+
+[^18]: Taka Sakurai, oral history interview by Stella Wee, 30 June 2006, transcript and MP3 audio, Reel/Disc 1 of 3, National Archives of Singapore (accession no. 003068), 9–10, 13.
+
+
+[^19]: Taka Sakurai, oral history interview by Claire Yeo, 30 June 2006, transcript and MP3 audio, Reel/Disc 3 of 3, National Archives of Singapore (accession no. 003068), 61–74.
+
+
+[^20]: Kohei Mororama, et al., _Victory into Defeat: Japan’s Disastrous Road to Burma (Myanmar)_ and India, trans. Myanma Ahthan Kyaw Oo, H. Tanabe and Tin Hlaing. (Yangon: Thu Ri Ya Publishing House, 2007), 152–54.
+
 
 [^21]: 
 
