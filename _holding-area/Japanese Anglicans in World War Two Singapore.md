@@ -10,16 +10,11 @@ description: During the Japanese Occupation, four Japanese Anglicans – two
 
 By John Bray
 
-![](/images/Vol%2020%20Issue%204/Japanese%20Anglican/anglican_facing.jpg)
+![](/images/Vol%2020%20Issue%204/Japanese%20Anglican/anglican_facing1.jpg)
 
 In February 1942, a week after the fall of Singapore, Reverend John B.H. Lee, the vicar of the Holy Trinity Anglican Church on Hamiliton Road, was surprised – and probably more than a little alarmed – to receive a visit from a Japanese military officer.[^1] The officer, Taka Sakurai (1914–2010), did his best to put the vicar at ease. He explained that he too was an Anglican Christian and that, like Holy Trinity, his home church in Japan was affiliated with a London-based Anglican missionary group, the Society for the Propagation of the Gospel.&nbsp;
 
 A week later, Sakurai returned with another Japanese Anglican officer, Andrew Tokuji Ogawa (1905–2001). The two men said that the vicar need&nbsp; not fear: the churches were to leave their doors open, and services could continue.&nbsp;
-
-
-![](/images/Vol%2020%20Issue%204/Japanese%20Anglican/anglican_andrew.jpg)
-<div style="background-color:white;"> Andrew Tokuji Ogawa as a young man in Japan, c. 1930. <i>Courtesy of Rikkyo University Archives. </i></div>
-
 
 In addition to Sakurai and Ogawa, we know of at least two more Japanese Anglicans who were in Singapore during the Japanese Occupation. The third was Reverend Tadashi Matsumoto (1907–66), who arrived in 1943 and served as a military interpreter. A fourth, Chiyokichi Ariga (1895–1987), likewise arrived in 1943, having been released from internment in Canada. He spent the last two years of the war as a civilian teacher in an orphanage in Singapore.&nbsp;
 
@@ -36,6 +31,11 @@ Against this background, Japanese Christians needed to tread carefully lest they
 #### **Lieutenant Andrew Tokuji Ogawa – Director of Education and Religion**
 
 As Director of Education and Religion in Singapore, Lieutenant (later Captain) Ogawa was responsible for liaising with the churches. He served in this post for a relatively short period and was posted to Sumatra, Indonesia, in May 1943. However, his initial cooperation with the churches set the tone for the administration’s policy for the duration of the occupation. The churches in Singapore were treated much more favourably than their counterparts elsewhere in Southeast Asia.
+
+
+![](/images/Vol%2020%20Issue%204/Japanese%20Anglican/anglican_andrew.jpg)
+<div style="background-color:white;"> Andrew Tokuji Ogawa as a young man in Japan, c. 1930. <i>Courtesy of Rikkyo University Archives. </i></div>
+
 
 Ogawa had been educated at Rikkyo and then earned his master’s degree at the Wharton School of the University of Pennsylvania in 1932. After returning to Tokyo, he taught economics at Rikkyo before being drafted into the army.&nbsp;
 
