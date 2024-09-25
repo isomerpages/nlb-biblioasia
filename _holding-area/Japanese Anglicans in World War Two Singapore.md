@@ -107,6 +107,11 @@ Matsumoto was eventually released from detention and found his way back to Japan
 
 Chiyokichi Ariga was the fourth Japanese Anglican in Singapore of whom we have definite knowledge. Unlike the others, he was a civilian rather than a military official. Being part of the same network of Rikkyo alumni, he made contact with Sakurai soon after arriving in Singapore in August 1943.&nbsp;
 
+
+![](/images/Vol%2020%20Issue%204/Japanese%20Anglican/anglican_wedding.jpg)
+<div style="background-color:white;"> Taka Sakurai’s wedding to Tadashi Matsumoto’s sister Fusae, 8 April 1948. Chiyokichi Ariga (with white hair) is standing next to the groom. He was the one who introduced Sakurai to Fusae. Matsumoto is standing on the extreme left of the back row. <i>Courtesy of Mrs Hiroko Ito.</i></div>
+
+
 Ariga had previously worked in Canada, first as a journalist and then as a teacher in a school for children of Japanese migrants. He kept in close contact with both the Canadian and the Japanese branches of the Anglican church, and he had been instrumental in encouraging Matsumoto to go to Canada.[^29]
 
 After the outbreak of war, Ariga was interned in a detention centre in the Rocky Mountains.[^30] However, together with his wife and daughter, he was among a group of Japanese who were repatriated in exchange for Canadian prisoners. They travelled by sea via Mozambique to Singapore. Ariga decided to stay on in Singapore as he believed that there might be more opportunities for Japanese speakers of English. He also felt that the Japanese mainland would be more militaristic.[^31]
@@ -124,10 +129,6 @@ After the war, all four men contributed to the rebuilding of the NSKK in Japan. 
 At the end of the presentation, Ogawa briefly commented on his own role in Singapore during the war, stating that he had not done anything beyond what Christians had been taught to do. “I certainly did not want to disappoint the prayers that our friends had been offering for our work,” he said. While in Britain, Ogawa joined the crowds outside Westminster Abbey for the coronation of Queen Elizabeth II.[^34] He met Wilson once more when both men returned to Singapore in 1969 for a BBC documentary on wartime Singapore. Ogawa died in 2001.
 
 Ariga became the principal of Rikkyo Elementary School, working alongside Sakurai as the chaplain. On a more personal note, Ariga introduced Sakurai to Matsumoto’s sister Fusae, and they got married in 1948. In retirement, Ariga returned to North America.
-
-![](/images/Vol%2020%20Issue%204/Japanese%20Anglican/anglican_wedding.jpg)
-<div style="background-color:white;"> Taka Sakurai’s wedding to Tadashi Matsumoto’s sister Fusae, 8 April 1948. Chiyokichi Ariga (with white hair) is standing next to the groom. He was the one who introduced Sakurai to Fusae. Matsumoto is standing on the extreme left of the back row. <i>Courtesy of Mrs Hiroko Ito.</i></div>
-
 
 Matsumoto returned to parish ministry at St Mary’s Church in Ichikawa, Chiba prefecture, while also serving as a lecturer in the NSKK’s Central Theological College in Tokyo. He died in 1966, aged 58.
 
