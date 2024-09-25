@@ -153,9 +153,9 @@ Yusuke Tanaka helped with background information on the Japanese in Canada. My w
 
 [^10]: “[Christian Bodies Must Abandon Dependence on Missionaries](https://eresources.nlb.gov.sg/newspapers/digitised/article/syonantimes19421101-1.2.32),” _Syonan Times_, 1 November 1942, 4. (From NewspaperSG). The _Syonan Times_ or _Syonan Shimbun_ was produced on the presses of the _Straits Times_ during the Japanese Occupation. The name of the paper varied during the occupation.
 
-[^11]: Hayter, _Priest in Prison_, 77.
+[^11]: Hayter, [_Priest in Prison_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8678457), 77.
 
-[^12]: Hayter, _Priest in Prison_, 85. &nbsp;
+[^12]: Hayter, [_Priest in Prison_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8678457), 85. &nbsp;
 
 
 [^13]: “Return to Hell,” BBC, 1969. The clip where Ogawa makes this comment is included in the St Andrew’s Cathedral _Unity of Faith_ video.
@@ -173,10 +173,10 @@ Yusuke Tanaka helped with background information on the Japanese in Canada. My w
 [^17]: Sakurai, “Hito-wa Shinko Naku Shite Ikirarenai.”
 
 
-[^18]: Taka Sakurai, oral history interview by Stella Wee, 30 June 2006, transcript and MP3 audio, Reel/Disc 1 of 3, National Archives of Singapore (accession no. 003068), 9–10, 13.
+[^18]: Taka Sakurai, oral history interview by Stella Wee, 30 June 2006, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e7acbba1-115f-11e3-83d5-0050568939ad-OHC003068_001/web/html5/index.html) and MP3 audio, Reel/Disc 1 of 3, National Archives of Singapore ([accession no. 003068](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/003068)), 9–10, 13.
 
 
-[^19]: Taka Sakurai, oral history interview by Claire Yeo, 30 June 2006, transcript and MP3 audio, Reel/Disc 3 of 3, National Archives of Singapore (accession no. 003068), 61–74.
+[^19]: Taka Sakurai, oral history interview by Claire Yeo, 30 June 2006, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/d/d95211d7-1160-11e3-83d5-0050568939ad-OHC003068_003/web/html5/index.html) and MP3 audio, Reel/Disc 3 of 3, National Archives of Singapore ([accession no. 003068](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/003068)), 61–74.
 
 
 [^20]: Kohei Mororama, et al., _Victory into Defeat: Japan’s Disastrous Road to Burma (Myanmar)_ and India, trans. Myanma Ahthan Kyaw Oo, H. Tanabe and Tin Hlaing. (Yangon: Thu Ri Ya Publishing House, 2007), 152–54.
