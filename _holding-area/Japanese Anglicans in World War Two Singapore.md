@@ -120,25 +120,33 @@ Yusuke Tanaka helped with background information on the Japanese in Canada. My w
 
 #### **Notes**
 
-[^1]: 
+[^1]: Diocese of Singapore, _Report for the Period from 1941 to 1949_ (Singapore: Diocesan Synod of Singapore, 1951). I thank Sharon Lim for sharing this source.
 
-[^2]: 
 
-[^3]: 
+[^2]: A. Hamish Ion, “The Cross Under an Imperial Sun: Imperialism, Nationalism, and Japanese Christianity,” in _Handbook of Christianity in Japan_, ed. Mark R. Mullins (Leiden: Brill, 2003), 69–100, https://brill.com/edcollbook/title/8295.
 
-[^4]: 
 
-[^5]: 
+[^3]: See John Leonard Wilson’s Biography: Roy McKay, _John Leonard Wilson: Confessor of the Faith_ (London: Hodder and Stoughton, 1973), 19–24. (From National Library, Singapore, call no. RCLOS 283.0924 WIL.M)
 
-[^6]: 
 
-[^7]: 
+[^4]: McKay, _John Leonard Wilson_, 24–25.
 
-[^8]: 
 
-[^9]: 
+[^5]: John Hayter, _Priest in Prison: Four Years of Life in a Japanese-occupied Singapore_ (Worthing: Churchman Publishing, 1989), 86. (From National Library, Singapore, call no. RSING 940.547252092 HAY-\[JSB\])
 
-[^10]:
+
+[^6]: D.D. Chelliah, oral history interview by Lim Yoon Lin, 1973, Institute of Southeast Asian Studies, Japanese Occupation Project (accession no. OH\_1973\_002), 2n.
+
+
+[^7]: D.D. Chelliah, interview, 1973, 2n.
+
+
+[^8]: Joseph Thambiah, _Providence in Adversity: World War 2 and the Anglican Church in Singapore_ (Singapore: Joseph Thambiah, 2022), 82. (From National Library, Singapore, call no. RSING 283.5957 THA)
+
+[^9]: Thambiah, _Providence in Adversity_, 83.
+
+
+[^10]: “Christian Bodies Must Abandon Dependence on Missionaries,” _Syonan Times_, 1 November 1942, 4. (From NewspaperSG). The _Syonan Times_ or _Syonan Shimbun_ was produced on the presses of the _Straits Times_ during the Japanese Occupation. The name of the paper varied during the occupation.
 
 [^11]: 
 
