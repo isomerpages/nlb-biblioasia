@@ -88,7 +88,7 @@ Sakurai’s experience in Burma was imprinted in his mind for the rest of his li
 The third Japanese Anglican, Reverend Tadashi Matsumoto, came to Singapore in 1943. He was fluent in English and was therefore recruited as a military interpreter. In his spare time, he attended church services and did his best to encourage the local Christians whom he encountered.
 
 ![](/images/Vol%2020%20Issue%204/Japanese%20Anglican/anglican_matsumoto1.jpg)
-<div style="background-color:white;"> Andrew Tokuji Ogawa as a young man in Japan, c. 1930. <i>Courtesy of Rikkyo University Archives. </i></div>
+<div style="background-color:white;"> Reverend Tadashi Matsumoto in Singapore, c. 1943. <i>Courtesy of his daughter, Mrs Hiroko Ito.</i></div>
 
 
 Matsumoto had graduated from Rikkyo and the NSKK seminary in 1930. He then went to Prince Edward Island in Canada to serve in a church for Japanese migrants, some 500 miles (800 km) north of Vancouver.[^23] Subsequently, he embarked on postgraduate theological studies, first in Chicago in the United States and then in Toronto in Canada. After returning to Japan, he served in churches in the Narita area and in Kanagawa prefecture before being drafted into the Imperial Japanese Army. On his arrival in Singapore, he contacted Sakurai, having been alerted to his presence by another Anglican priest in Japan.[^24]
