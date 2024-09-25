@@ -177,23 +177,32 @@ Yusuke Tanaka helped with background information on the Japanese in Canada. My w
 [^20]: Kohei Mororama, et al., _Victory into Defeat: Japan’s Disastrous Road to Burma (Myanmar)_ and India, trans. Myanma Ahthan Kyaw Oo, H. Tanabe and Tin Hlaing. (Yangon: Thu Ri Ya Publishing House, 2007), 152–54.
 
 
-[^21]: 
+[^21]:  Sakurai, _Biruma Sensen to Watashi_.
 
-[^22]: 
 
-[^23]: 
+[^22]: Sakurai, _Biruma Sensen to Watashi_.
 
-[^24]: 
 
-[^25]: 
+[^23]: For accounts of the Anglican Church of Canada’s Japanese-language churches, see Patricia E. Roy, “An Ambiguous Relationship: Anglicans and the Japanese in British Columbia, 1902–1949,” _BC Studies_, no. 192 (Winter 2016–2017): 105–24. (From ProQuest via NLB’s eResources website); Timothy M. Nakayama, “Anglican Missions to the Japanese in Canada,” _Journal of the Canadian Church Historical Society_ 8, no. 1 (June 1966, rev. ed. 2003): 26–88, https://anglicanhistory.org/academic/nakayama2003.pdf.&nbsp;
 
-[^26]: 
 
-[^27]: 
+[^24]: Sakurai, “Hito-wa Shinko Naku Shite Ikirarenai.”
 
-[^28]: 
 
-[^29]: 
+[^25]: Hayter, _Priest in Prison_, 267. &nbsp;
+
+
+[^26]: Hayter, _Priest in Prison_, 267.
+
+
+[^27]: Albert Edward Baker, _Prophets for a Day of Judgment_, with an Introduction by the Archbishop of Canterbury (London: Eyre &amp; Spottiswoode, 1944).&nbsp;
+
+
+[^28]: Tadashi Matsumoto, _Kunan No Yogensha: Dosutoehusukii Sonota_ (Tokyo: Shunkosha, 1949).
+
+
+[^29]: Chiyokichi Ariga wrote several books, including a biography of a Canadian missionary which was translated into English in 1998. See Chiyokichi Ariga, _The Rev. Frank Cassillis-Kennedy: Elder to the Japanese Canadians_, Japanese Canadian Christian Churches Historical Project. (Scarborough, Ontario: Japanese Canadian Christian Churches Historical Project, 1998)
+
 
 [^30]:
 
