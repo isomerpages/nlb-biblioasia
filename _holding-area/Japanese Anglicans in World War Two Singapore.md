@@ -14,6 +14,11 @@ In February 1942, a week after the fall of Singapore, Reverend John B.H. Lee, th
 
 A week later, Sakurai returned with another Japanese Anglican officer, Andrew Tokuji Ogawa (1905–2001). The two men said that the vicar need&nbsp; not fear: the churches were to leave their doors open, and services could continue.&nbsp;
 
+
+![](/images/Vol%2020%20Issue%202/0.jpg)
+<div style="background-color:white;"> Andrew Tokuji Ogawa as a young man in Japan, c. 1930. <i>Courtesy of Rikkyo University Archives. </i></div>
+
+
 In addition to Sakurai and Ogawa, we know of at least two more Japanese Anglicans who were in Singapore during the Japanese Occupation. The third was Reverend Tadashi Matsumoto (1907–66), who arrived in 1943 and served as a military interpreter. A fourth, Chiyokichi Ariga (1895–1987), likewise arrived in 1943, having been released from internment in Canada. He spent the last two years of the war as a civilian teacher in an orphanage in Singapore.&nbsp;
 
 All four men lived through a particularly difficult period of Japanese and Southeast Asian history. In their home country, the mood of the times was intensely nationalistic but many of their friends and teachers were foreigners, and they belonged to a faith whose claims are universal. Although they were relatively junior in rank, they were able to use their influence to ease the difficulties of the churches here at a time of crisis. Their interconnected personal stories offer a distinctive angle on the complexities of life in Japanese-occupied Singapore.&nbsp;
