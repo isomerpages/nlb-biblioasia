@@ -131,13 +131,13 @@ Yusuke Tanaka helped with background information on the Japanese in Canada. My w
 [^2]: A. Hamish Ion, “The Cross Under an Imperial Sun: Imperialism, Nationalism, and Japanese Christianity,” in _Handbook of Christianity in Japan_, ed. Mark R. Mullins (Leiden: Brill, 2003), 69–100, https://brill.com/edcollbook/title/8295.
 
 
-[^3]: See John Leonard Wilson’s Biography: Roy McKay, _John Leonard Wilson: Confessor of the Faith_ (London: Hodder and Stoughton, 1973), 19–24. (From National Library, Singapore, call no. RCLOS 283.0924 WIL.M)
+[^3]: See John Leonard Wilson’s Biography: Roy McKay, [_John Leonard Wilson: Confessor of the Faith_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=403904) (London: Hodder and Stoughton, 1973), 19–24. (From National Library, Singapore, call no. RCLOS 283.0924 WIL.M)
 
 
-[^4]: McKay, _John Leonard Wilson_, 24–25.
+[^4]: McKay, [_John Leonard Wilson_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=403904), 24–25.
 
 
-[^5]: John Hayter, _Priest in Prison: Four Years of Life in a Japanese-occupied Singapore_ (Worthing: Churchman Publishing, 1989), 86. (From National Library, Singapore, call no. RSING 940.547252092 HAY-\[JSB\])
+[^5]: John Hayter, [_Priest in Prison: Four Years of Life in a Japanese-occupied Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8678457) (Worthing: Churchman Publishing, 1989), 86. (From National Library, Singapore, call no. RSING 940.547252092 HAY-\[JSB\])
 
 
 [^6]: D.D. Chelliah, oral history interview by Lim Yoon Lin, 1973, Institute of Southeast Asian Studies, Japanese Occupation Project (accession no. OH\_1973\_002), 2n.
