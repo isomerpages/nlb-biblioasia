@@ -10,12 +10,14 @@ description: During the Japanese Occupation, four Japanese Anglicans – two
 
 By John Bray
 
+![](/images/Vol%2020%20Issue%204/Japanese%20Anglican/anglican_facing.jpg)
+
 In February 1942, a week after the fall of Singapore, Reverend John B.H. Lee, the vicar of the Holy Trinity Anglican Church on Hamiliton Road, was surprised – and probably more than a little alarmed – to receive a visit from a Japanese military officer.[^1] The officer, Taka Sakurai (1914–2010), did his best to put the vicar at ease. He explained that he too was an Anglican Christian and that, like Holy Trinity, his home church in Japan was affiliated with a London-based Anglican missionary group, the Society for the Propagation of the Gospel.&nbsp;
 
 A week later, Sakurai returned with another Japanese Anglican officer, Andrew Tokuji Ogawa (1905–2001). The two men said that the vicar need&nbsp; not fear: the churches were to leave their doors open, and services could continue.&nbsp;
 
 
-![](/images/Vol%2020%20Issue%202/0.jpg)
+![](/images/Vol%2020%20Issue%204/Japanese%20Anglican/anglican_andrew.jpg)
 <div style="background-color:white;"> Andrew Tokuji Ogawa as a young man in Japan, c. 1930. <i>Courtesy of Rikkyo University Archives. </i></div>
 
 
@@ -38,6 +40,10 @@ As Director of Education and Religion in Singapore, Lieutenant (later Captain) O
 Ogawa had been educated at Rikkyo and then earned his master’s degree at the Wharton School of the University of Pennsylvania in 1932. After returning to Tokyo, he taught economics at Rikkyo before being drafted into the army.&nbsp;
 
 Once in Singapore, Ogawa soon made contact with the Right Reverend John Leonard Wilson (1897–1970), the Anglican Bishop of Singapore.[^3] Almost all Europeans in Singapore were interned in the prisoner-of-war camp in Changi. However, Ogawa was able to arrange for Wilson to return to his residence, together with Reverend John Hayter, the Assistant Chaplain at St Andrew’s Cathedral, and Reverend Reginald Keith Sorby Adams of St Andrew’s School. Ogawa also provided Wilson with a Japanese-language pass permitting him to visit Changi for confirmation services to prisoners-of-war. Until March 1943, when they were again interned, these three were the only European Anglican priests to operate freely in Singapore.&nbsp;
+
+![](/images/Vol%2020%20Issue%204/Japanese%20Anglican/anglican_tokujijohn.jpg)
+<div style="background-color:white;"> Andrew Tokuji Ogawa and Bishop John Leonard Wilson, c. 1942.  <i>Image reproduced from John Hayter and Jack Bennitt, Singapore, The War and After series, no. 2. (London: Society for the Propagation of the Gospel, 1946). (From National Library, Singapore, call no. RSING 275.957 HAY-[JSB]).</i></div>
+
 
 They made full use of the opportunity to continue their ministry in the churches and to build up the Asian church leadership in preparation for the time when they might again be detained. Their access to prisoner-of-war camps meant that they were also able to maintain an illicit “postal service” connecting the inmates with civilian detainees held elsewhere on the island.[^4]
 
@@ -71,11 +77,19 @@ In 1944, Sakurai was redeployed to the military frontline in the Japanese invasi
 
 Sakurai himself led a group that struggled to rejoin the main Japanese forces in central Burma.[^21] Their route led them to the Sittang River at a point where it was some 250 yards (230 m) wide and in full flood because of the rainy season. Shortly before attempting to cross the river on crudely assembled rafts, Sakurai realised that Noguchi, one of his comrades, was missing. Leaving his men at the riverbank, Sakurai went back to look for him but to no avail. As he later recalled, it was his Christian faith that had given him the courage to continue. Finally, Sakurai managed to cross the river as one of the few survivors from his original group.[^22]
 
+![](/images/Vol%2020%20Issue%204/Japanese%20Anglican/anglican_plane.jpg)
+<div style="background-color:white;"> “Fighter Plane W8155 at Kallang Airport” by Saburo Miyamoto, 1942. <i>Taka Sakurai Collection, courtesy of National Archives of Singapore. </i></div>
+
+
 Sakurai’s experience in Burma was imprinted in his mind for the rest of his life, underlining his sense of the futility of war. In his will, he asked for some of his ashes to be scattered in the Sittang River after his death.
 
 #### **Reverend Tadashi Matsumoto – Military Interpreter**
 
 The third Japanese Anglican, Reverend Tadashi Matsumoto, came to Singapore in 1943. He was fluent in English and was therefore recruited as a military interpreter. In his spare time, he attended church services and did his best to encourage the local Christians whom he encountered.
+
+![](/images/Vol%2020%20Issue%204/Japanese%20Anglican/anglican_matsumoto1.jpg)
+<div style="background-color:white;"> Andrew Tokuji Ogawa as a young man in Japan, c. 1930. <i>Courtesy of Rikkyo University Archives. </i></div>
+
 
 Matsumoto had graduated from Rikkyo and the NSKK seminary in 1930. He then went to Prince Edward Island in Canada to serve in a church for Japanese migrants, some 500 miles (800 km) north of Vancouver.[^23] Subsequently, he embarked on postgraduate theological studies, first in Chicago in the United States and then in Toronto in Canada. After returning to Japan, he served in churches in the Narita area and in Kanagawa prefecture before being drafted into the Imperial Japanese Army. On his arrival in Singapore, he contacted Sakurai, having been alerted to his presence by another Anglican priest in Japan.[^24]
 
@@ -97,6 +111,10 @@ Ariga had previously worked in Canada, first as a journalist and then as a teach
 
 After the outbreak of war, Ariga was interned in a detention centre in the Rocky Mountains.[^30] However, together with his wife and daughter, he was among a group of Japanese who were repatriated in exchange for Canadian prisoners. They travelled by sea via Mozambique to Singapore. Ariga decided to stay on in Singapore as he believed that there might be more opportunities for Japanese speakers of English. He also felt that the Japanese mainland would be more militaristic.[^31]
 
+![](/images/Vol%2020%20Issue%204/Japanese%20Anglican/anglican_arigafamily.jpg)
+<div style="background-color:white;"> Andrew Tokuji Ogawa as a young man in Japan, c. 1930. <i>Courtesy of Rikkyo University Archives. </i></div>
+
+
 According to Ariga’s memoirs, his wife was appointed to head an orphanage at York Hill, whose children included those of foreign detainees. Ariga became a teacher at the orphanage, and the couple worked there together until the end of the war, making a small but important humanitarian contribution in difficult times.[^32]
 
 #### **Postwar Reconstruction in Japan**
@@ -106,6 +124,10 @@ After the war, all four men contributed to the rebuilding of the NSKK in Japan. 
 At the end of the presentation, Ogawa briefly commented on his own role in Singapore during the war, stating that he had not done anything beyond what Christians had been taught to do. “I certainly did not want to disappoint the prayers that our friends had been offering for our work,” he said. While in Britain, Ogawa joined the crowds outside Westminster Abbey for the coronation of Queen Elizabeth II.[^34] He met Wilson once more when both men returned to Singapore in 1969 for a BBC documentary on wartime Singapore. Ogawa died in 2001.
 
 Ariga became the principal of Rikkyo Elementary School, working alongside Sakurai as the chaplain. On a more personal note, Ariga introduced Sakurai to Matsumoto’s sister Fusae, and they got married in 1948. In retirement, Ariga returned to North America.
+
+![](/images/Vol%2020%20Issue%204/Japanese%20Anglican/anglican_wedding.jpg)
+<div style="background-color:white;"> Andrew Tokuji Ogawa as a young man in Japan, c. 1930. <i>Courtesy of Rikkyo University Archives. </i></div>
+
 
 Matsumoto returned to parish ministry at St Mary’s Church in Ichikawa, Chiba prefecture, while also serving as a lecturer in the NSKK’s Central Theological College in Tokyo. He died in 1966, aged 58.
 
