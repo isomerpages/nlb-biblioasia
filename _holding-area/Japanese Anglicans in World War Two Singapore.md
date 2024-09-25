@@ -188,16 +188,16 @@ Yusuke Tanaka helped with background information on the Japanese in Canada. My w
 [^22]: Sakurai, _Biruma Sensen to Watashi_.
 
 
-[^23]: For accounts of the Anglican Church of Canada’s Japanese-language churches, see Patricia E. Roy, “An Ambiguous Relationship: Anglicans and the Japanese in British Columbia, 1902–1949,” _BC Studies_, no. 192 (Winter 2016–2017): 105–24. (From ProQuest via NLB’s eResources website); Timothy M. Nakayama, “Anglican Missions to the Japanese in Canada,” _Journal of the Canadian Church Historical Society_ 8, no. 1 (June 1966, rev. ed. 2003): 26–88, https://anglicanhistory.org/academic/nakayama2003.pdf.&nbsp;
+[^23]: For accounts of the Anglican Church of Canada’s Japanese-language churches, see Patricia E. Roy, “An Ambiguous Relationship: Anglicans and the Japanese in British Columbia, 1902–1949,” _BC Studies_, no. 192 (Winter 2016–2017): 105–24. (From ProQuest via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website); Timothy M. Nakayama, “Anglican Missions to the Japanese in Canada,” _Journal of the Canadian Church Historical Society_ 8, no. 1 (June 1966, rev. ed. 2003): 26–88, https://anglicanhistory.org/academic/nakayama2003.pdf.&nbsp;
 
 
 [^24]: Sakurai, “Hito-wa Shinko Naku Shite Ikirarenai.”
 
 
-[^25]: Hayter, _Priest in Prison_, 267. &nbsp;
+[^25]: Hayter, [_Priest in Prison_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8678457), 267. &nbsp;
 
 
-[^26]: Hayter, _Priest in Prison_, 267.
+[^26]: Hayter, [_Priest in Prison_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8678457), 267.
 
 
 [^27]: Albert Edward Baker, _Prophets for a Day of Judgment_, with an Introduction by the Archbishop of Canterbury (London: Eyre &amp; Spottiswoode, 1944).&nbsp;
@@ -228,4 +228,4 @@ Yusuke Tanaka helped with background information on the Japanese in Canada. My w
 [^35]: Correspondence with Reverend Isao Uematsu (Sakurai’s nephew), April 2022.
 
 
-[^36]: Taka Sakurai, oral history interview, 30 June 2006, Reel/Disc 3, 69–74.
+[^36]: [Taka Sakurai](https://www.nas.gov.sg/archivesonline/flipviewer/publish/d/d95211d7-1160-11e3-83d5-0050568939ad-OHC003068_003/web/html5/index.html), oral history interview, 30 June 2006, Reel/Disc 3, 69–74.
