@@ -95,23 +95,23 @@ They were both asked to leave immediately and Schutzman lost his membership at t
 [^1]:  Klaus W. Jonas, ed., _The World of Somerset Maugham: An Anthology_ (London: Owen, 1959), 97, Internet Archive, https://archive.org/details/worldofsomersetm0000jona.
 
 
-[^2]: “Untitled,” _Malaya Tribune_, 26 April 1921, 4. (From NewspaperSG)
+[^2]: “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19210426-1.2.14),” _Malaya Tribune_, 26 April 1921, 4. (From NewspaperSG)
 
 [^3]: Jonas, _The World of Somerset Maugham_, 101.
 
-[^4]: “Untitled,” _Singapore Free Press and Mercantile Advertiser_, 14 May 1921, 6. (From NewspaperSG)
+[^4]: “[Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19210514-1.2.11.2),” _Singapore Free Press and Mercantile Advertiser_, 14 May 1921, 6. (From NewspaperSG)
 
-[^5]: “Planter’s Tragic Death,” _Malaya Tribune_, November 13, 1916, 9 (From NewspaperSG)
+[^5]: “[Planter’s Tragic Death](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19161113-1.2.95),” _Malaya Tribune_, November 13, 1916, 9 (From NewspaperSG)
 
-[^6]: “Planter Murdered,” _Straits Times_, 24 November 1916, 9. (From NewspaperSG)
+[^6]: “[Planter Murdered](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19161124-1.2.44),” _Straits Times_, 24 November 1916, 9. (From NewspaperSG)
 
-[^7]: William Somerset Maugham, _More Far Eastern Tales_ (Vintage Random House, 2000), 252. NLB has the 2010 version. See William Somerset Maugham, _More Far Eastern Tales_ (Vintage Random House, 2010). (From NLB OverDrive)
+[^7]: William Somerset Maugham, _More Far Eastern Tales_ (Vintage Random House, 2000), 252. NLB has the 2010 version. See William Somerset Maugham, [_More Far Eastern Tales_](https://nlb.overdrive.com/media/344556) (Vintage Random House, 2010). (From NLB OverDrive)
 
 [^8]: Maugham, _More Far Eastern Tales_, 166.&nbsp;
 
-[^9]: William Somerset Maugham, _Far Eastern Tales_ (Vintage Random House, 2000), 247. NLB has the 2010 version. See William Somerset Maugham, _Far Eastern Tales_ (Vintage Random House, 2010). (From NLB OverDrive)
+[^9]: William Somerset Maugham, _Far Eastern Tales_ (Vintage Random House, 2000), 247. NLB has the 2010 version. See William Somerset Maugham, [_Far Eastern Tales_](https://nlb.overdrive.com/media/344444) (Vintage Random House, 2010). (From NLB OverDrive)
 
-[^10]: Selina Hastings, _The Secret Lives of Somerset Maugham: A Biography_ (New York: Arcade Publishing, 2012), 281. NLB has the 2009 edition. See Selina Hastings, _The Secret Lives of Somerset Maugham_ (London: John Murray, 2009). (From National Library, Singapore, R 823.912 HAS)&nbsp;
+[^10]: Selina Hastings, _The Secret Lives of Somerset Maugham: A Biography_ (New York: Arcade Publishing, 2012), 281. NLB has the 2009 edition. See Selina Hastings, [_The Secret Lives of Somerset Maugham_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13232799) (London: John Murray, 2009). (From National Library, Singapore, R 823.912 HAS)&nbsp;
 
 [^11]: Maugham, _Far Eastern Tales_, 1.
 
@@ -119,7 +119,7 @@ They were both asked to leave immediately and Schutzman lost his membership at t
 
 [^13]: Maugham, _Far Eastern Tales_, 13.
 
-[^14]:  “Somerset Maugham Interviewed by ‘Malay Mail’,” _Pinang Gazette and Straits Chronicle_, 25 November 1925, 14. (From NewspaperSG)
+[^14]:  “[Somerset Maugham Interviewed by ‘Malay Mail’](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19251125-1.2.76),” _Pinang Gazette and Straits Chronicle_, 25 November 1925, 14. (From NewspaperSG)
 
 [^15]: Maugham, _More Far Eastern Tales_, 1.&nbsp;
 
