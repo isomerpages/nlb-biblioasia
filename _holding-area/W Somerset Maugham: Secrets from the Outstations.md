@@ -92,50 +92,51 @@ They were both asked to leave immediately and Schutzman lost his membership at t
 
 #### **Notes**
 
-[^1]: 
+[^1]:  Klaus W. Jonas, ed., _The World of Somerset Maugham: An Anthology_ (London: Owen, 1959), 97, Internet Archive, https://archive.org/details/worldofsomersetm0000jona.
 
-[^2]: 
 
-[^3]: 
+[^2]: “Untitled,” _Malaya Tribune_, 26 April 1921, 4. (From NewspaperSG)
 
-[^4]: 
+[^3]: Jonas, _The World of Somerset Maugham_, 101.
 
-[^5]: 
+[^4]: “Untitled,” _Singapore Free Press and Mercantile Advertiser_, 14 May 1921, 6. (From NewspaperSG)
 
-[^6]: 
+[^5]: “Planter’s Tragic Death,” _Malaya Tribune_, November 13, 1916, 9 (From NewspaperSG)
 
-[^7]: 
+[^6]: “Planter Murdered,” _Straits Times_, 24 November 1916, 9. (From NewspaperSG)
 
-[^8]: 
+[^7]: William Somerset Maugham, _More Far Eastern Tales_ (Vintage Random House, 2000), 252. NLB has the 2010 version. See William Somerset Maugham, _More Far Eastern Tales_ (Vintage Random House, 2010). (From NLB OverDrive)
 
-[^9]: 
+[^8]: Maugham, _More Far Eastern Tales_, 166.&nbsp;
 
-[^10]: 
+[^9]: William Somerset Maugham, _Far Eastern Tales_ (Vintage Random House, 2000), 247. NLB has the 2010 version. See William Somerset Maugham, _Far Eastern Tales_ (Vintage Random House, 2010). (From NLB OverDrive)
 
-[^11]: 
+[^10]: Selina Hastings, _The Secret Lives of Somerset Maugham: A Biography_ (New York: Arcade Publishing, 2012), 281. NLB has the 2009 edition. See Selina Hastings, _The Secret Lives of Somerset Maugham_ (London: John Murray, 2009). (From National Library, Singapore, R 823.912 HAS)&nbsp;
 
-[^12]: 
+[^11]: Maugham, _Far Eastern Tales_, 1.
 
-[^13]: 
+[^12]: Jonas, _The World of Somerset Maugham_, 107. &nbsp;
 
-[^14]: 
+[^13]: Maugham, _Far Eastern Tales_, 13.
 
-[^15]: 
+[^14]:  “Somerset Maugham Interviewed by ‘Malay Mail’,” _Pinang Gazette and Straits Chronicle_, 25 November 1925, 14. (From NewspaperSG)
 
-[^16]: 
+[^15]: Maugham, _More Far Eastern Tales_, 1.&nbsp;
 
-[^17]: 
+[^16]: “Kuala Lumpur Tragedy: Trial of Mrs. Proudlock,” _Pinang Gazette and Straits Chronicle_, 9 June 1911, 4. (From NewspaperSG)
 
-[^18]: 
+[^17]: “Mrs. Proudlock Pardoned,” _Pinang Gazette and Straits Chronicle_, 10 July 1911, 5. (From NewspaperSG)
 
-[^19]: 
+[^18]: “Sparkles,” _Malayan Saturday Post_, 25 July 1931, 5. (From NewspaperSG).
 
-[^20]: 
+[^19]: Hastings, _The Secret Lives of Somerset Maugham_, 280.
 
-[^21]: 
+[^20]: “Anti-Maughamism,” _Straits Budget_, 9 June 1938, 5. (From NewspaperSG)&nbsp;
 
-[^22]: 
+[^21]: Noël Coward, _The Letters of Noël Coward_, ed. Barry Day (Knopf Doubleday Publishing House, 2008), 381. (From NLB OverDrive)
 
-[^23]: 
+[^22]: Ilsa Sharp, _There Is Only One Raffles: The Story of a Grand Hotel_ (London: Souvenir Press, 1981), 106. (From National Library, Singapore, RSING 647.945957 SHA)&nbsp;
 
-[^24]: 
+[^23]: “An Old Man Gives the Bookstore Crowd a Pleasant Surprise,” _Straits Times_, 12 February 1960, 11. (From NewspaperSG)
+
+[^24]: Sharp, _There Is Only One Raffles_, 108.
