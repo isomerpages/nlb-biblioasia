@@ -2,6 +2,7 @@ collections:
   holding-area:
     output: true
     order:
+      - "W Somerset Maugham: Secrets from the Outstations.md"
       - Japanese Anglicans in World War Two Singapore.md
       - Sample Test2.md
       - Sample Test.md
