@@ -146,7 +146,7 @@ Yusuke Tanaka helped with background information on the Japanese in Canada. My w
 
 	
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src="/images/Authors/DrJohnBray.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/DrJohnBray2.png">
 <b>Dr John Bray</b> is a risk consultant and policy specialist currently based in Singapore. He has a PhD in History from the University of Cambridge and has published a number of academic research articles on the history of Christianity in the Himalayan border regions of northern India. He is a former member of the St Andrew’s Cathedral Heritage Committee. </div>
 
 #### **Notes**
