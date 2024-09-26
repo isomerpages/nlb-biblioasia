@@ -123,20 +123,20 @@ They were both asked to leave immediately and Schutzman lost his membership at t
 
 [^15]: Maugham, _More Far Eastern Tales_, 1.&nbsp;
 
-[^16]: “Kuala Lumpur Tragedy: Trial of Mrs. Proudlock,” _Pinang Gazette and Straits Chronicle_, 9 June 1911, 4. (From NewspaperSG)
+[^16]: “[Kuala Lumpur Tragedy: Trial of Mrs. Proudlock](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19110609-1.2.20),” _Pinang Gazette and Straits Chronicle_, 9 June 1911, 4. (From NewspaperSG)
 
-[^17]: “Mrs. Proudlock Pardoned,” _Pinang Gazette and Straits Chronicle_, 10 July 1911, 5. (From NewspaperSG)
+[^17]: “[Mrs. Proudlock Pardoned](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19110710-1.2.42),” _Pinang Gazette and Straits Chronicle_, 10 July 1911, 5. (From NewspaperSG)
 
-[^18]: “Sparkles,” _Malayan Saturday Post_, 25 July 1931, 5. (From NewspaperSG).
+[^18]: “[Sparkles](https://eresources.nlb.gov.sg/newspapers/digitised/article/malayansatpost19310725-1.2.11),” _Malayan Saturday Post_, 25 July 1931, 5. (From NewspaperSG).
 
-[^19]: Hastings, _The Secret Lives of Somerset Maugham_, 280.
+[^19]: Hastings, [_The Secret Lives of Somerset Maugham_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13232799), 280.
 
-[^20]: “Anti-Maughamism,” _Straits Budget_, 9 June 1938, 5. (From NewspaperSG)&nbsp;
+[^20]: “[Anti-Maughamism](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19380609-1.2.8.3),” _Straits Budget_, 9 June 1938, 5. (From NewspaperSG)&nbsp;
 
-[^21]: Noël Coward, _The Letters of Noël Coward_, ed. Barry Day (Knopf Doubleday Publishing House, 2008), 381. (From NLB OverDrive)
+[^21]: Noël Coward, [_The Letters of Noël Coward](https://nlb.overdrive.com/media/351841)_, ed. Barry Day (Knopf Doubleday Publishing House, 2008), 381. (From NLB OverDrive)
 
-[^22]: Ilsa Sharp, _There Is Only One Raffles: The Story of a Grand Hotel_ (London: Souvenir Press, 1981), 106. (From National Library, Singapore, RSING 647.945957 SHA)&nbsp;
+[^22]: Ilsa Sharp, [_There Is Only One Raffles: The Story of a Grand Hotel_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2962283) (London: Souvenir Press, 1981), 106. (From National Library, Singapore, RSING 647.945957 SHA)&nbsp;
 
-[^23]: “An Old Man Gives the Bookstore Crowd a Pleasant Surprise,” _Straits Times_, 12 February 1960, 11. (From NewspaperSG)
+[^23]: “[An Old Man Gives the Bookstore Crowd a Pleasant Surprise](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19600212-1.2.88),” _Straits Times_, 12 February 1960, 11. (From NewspaperSG)
 
-[^24]: Sharp, _There Is Only One Raffles_, 108.
+[^24]: Sharp, [_There Is Only One Raffles_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2962283), 108.
