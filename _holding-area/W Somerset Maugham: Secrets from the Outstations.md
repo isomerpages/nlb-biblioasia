@@ -75,7 +75,7 @@ Maugham’s books were deemed notorious enough that Lady Clementi, wife of the G
 
 This backlash in the East did not appear to bother Maugham. Back in Europe, he did not show any sign of remorse or apology. Instead, he did what he did best: he went in search of more stories. 
 
-Maugham Returns
+#### **Maugham Returns**
 
 About 30 years later, in 1959, Maugham, returned to Singapore and found the city altered. “The Raffles I knew then was nothing like it is today. The East is a very different world from the one I knew. The people are different. The planters, the government officials and the businessmen who stayed very long stretches here and who, except for infrequent trips, lived the rest of their lives in the East, have all gone. Today, I feel very much a stranger here.”22
 
