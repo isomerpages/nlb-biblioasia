@@ -102,6 +102,9 @@ About 30 years later, in 1959, Maugham, returned to Singapore and found the city
 
 People apparently lined up to meet him, inviting him to parties, but Maugham suffered greatly from the heat and reportedly spent most of his time inside the Raffles Hotel in the air-conditioning. He made a surprise visit to a bookshop on Orchard Road and signed his books for a few lucky patrons present.[^23]
 
+![](/images/Vol%2020%20Issue%204/Somerset/somerset_raffles.jpg)
+<div style="background-color:white;">Somerset Maugham stayed at the Raffles Hotel when he visited Singapore, c. 1955.  <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
+
 Yet, even at the age of 85, Maugham still had the capability to shock and annoy the expatriate community here. Apparently, Maugham and Raffles Hotel manager Frans Schutzman went to the Tanglin Club for lunch one day. Because of their improper attire, they were denied entry. But Schutzman, due to his close relationship with the club’s management and staff, talked his way into the bar. Maugham, provoked and annoyed at not being able to dine, looked around and announced loudly: “Observing these people, I am no longer surprised that there is such a scarcity of domestic servants back home in England.”[^24]
 
 They were both asked to leave immediately and Schutzman lost his membership at the club. It was as if Maugham had to have one more gibe at the expatriate society of Singapore. Maugham left Singapore in 1960. He died in Nice, France, in 1965 at the age of 91.
