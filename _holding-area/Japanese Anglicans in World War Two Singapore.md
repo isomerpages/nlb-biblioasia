@@ -86,11 +86,11 @@ Interestingly, one of Sakurai’s assignments in Singapore was to liaise with fi
 
 
 ![](/images/Vol%2020%20Issue%204/Japanese%20Anglican/anglican_.jpg)
-<div style="background-color:white;"> “The Road at Bukit Timah” by Shin Kurihara, 1942. <i>Taka Sakurai Collection, courtesy of National Archives of Singapore. </i></div>
+<div style="background-color:white;">“The Fortification at Keppel (Near Kota Bahru)” by Kenichi Nakamura, 1942. <i>Taka Sakurai Collection, courtesy of National Archives of Singapore. </i></div>
 
 
 ![](/images/Vol%2020%20Issue%204/Japanese%20Anglican/anglican_plane.jpg)
-<div style="background-color:white;"> “Fighter Plane W8155 at Kallang Airport” by Saburo Miyamoto, 1942. <i>Taka Sakurai Collection, courtesy of National Archives of Singapore. </i></div>
+<div style="background-color:white;"> “The Road at Bukit Timah” by Shin Kurihara, 1942. <i>Taka Sakurai Collection, courtesy of National Archives of Singapore. </i></div>
 
 
 In 1944, Sakurai was redeployed to the military frontline in the Japanese invasion of northeastern India. By July 1944, the Japanese forces had been defeated at the battles of Imphal and Kohima – which together formed one of the turning points of World War II – and they were forced to retreat into Burma (now Myanmar). By this time, their supply lines were over-extended and soldiers had to rely on their own resources to find their way back to central Burma. Many more died from sickness and starvation than from actual fighting.[^20]
