@@ -97,7 +97,7 @@ This backlash in the East did not appear to bother Maugham. Back in Europe, he d
 
 About 30 years later, in 1959, Maugham, returned to Singapore and found the city altered. “The Raffles I knew then was nothing like it is today. The East is a very different world from the one I knew. The people are different. The planters, the government officials and the businessmen who stayed very long stretches here and who, except for infrequent trips, lived the rest of their lives in the East, have all gone. Today, I feel very much a stranger here.”[^22]
 
-![](/images/Vol%2020%20Issue%204/Somerset/somerset_somerset.jpg)
+![](/images/Vol%2020%20Issue%204/Somerset/somerset_somerset2.jpg)
 <div style="background-color:white;">Somerset Maugham at the Raffles Hotel, 1960.  <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i></div>
 
 People apparently lined up to meet him, inviting him to parties, but Maugham suffered greatly from the heat and reportedly spent most of his time inside the Raffles Hotel in the air-conditioning. He made a surprise visit to a bookshop on Orchard Road and signed his books for a few lucky patrons present.[^23]
