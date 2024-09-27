@@ -65,6 +65,11 @@ Much later, in an interview with the British Broadcasting Corporation in 1969, O
 
 One of those friends whom Ogawa mentioned would have been Lieutenant Taka Sakurai. In his role in the Military Propaganda Department, Sakurai had less formal contact with the churches than Ogawa. However, in his personal capacity, he attended services at St Andrew’s Cathedral. Local Christians evidently regarded him as a “friend in high places”, noting his eventual transfer away from Singapore with regret.[^14]
 
+
+![](/images/Vol%2020%20Issue%204/Japanese%20Anglican/anglican_wedding.jpg)
+<div style="background-color:white;"> Taka Sakurai’s wedding to Tadashi Matsumoto’s sister Fusae, 8 April 1948. Chiyokichi Ariga (with white hair) is standing next to the groom. He was the one who introduced Sakurai to Fusae. Matsumoto is standing on the extreme left of the back row. <i>Courtesy of Mrs Hiroko Ito.</i></div>
+
+
 Sakurai was born in Yokosuka, Kanagawa prefecture, in 1914. He became a Christian while in junior high school and discovered a vocation to the priesthood. In June 1938, he graduated from the NSKK seminary, which was affiliated with Rikkyo.[^15] However, in November that year, he was drafted into the Imperial Japanese Army and in early 1942, he was part of the Japanese military expedition that captured Singapore.&nbsp;
 
 Sakurai’s office was on the fifth floor of the Cathay Building (renamed Dai Toa Gekijo; Greater Eastern Asian Theatre), which also housed the Japanese Broadcasting Department and the Military Information Bureau.[^16] There he met Ogawa for the first time in five years, and they went to the officers' club to exchange stories. According to Sakurai, there were as many as 15 or 16 Rikkyo graduates in Singapore, perhaps including both Christians and non-Christians, and they later held a reunion dinner.[^17]
@@ -123,11 +128,6 @@ Matsumoto was eventually released from detention and found his way back to Japan
 
 Chiyokichi Ariga was the fourth Japanese Anglican in Singapore of whom we have definite knowledge. Unlike the others, he was a civilian rather than a military official. Being part of the same network of Rikkyo alumni, he made contact with Sakurai soon after arriving in Singapore in August 1943.&nbsp;
 
-
-![](/images/Vol%2020%20Issue%204/Japanese%20Anglican/anglican_wedding.jpg)
-<div style="background-color:white;"> Taka Sakurai’s wedding to Tadashi Matsumoto’s sister Fusae, 8 April 1948. Chiyokichi Ariga (with white hair) is standing next to the groom. He was the one who introduced Sakurai to Fusae. Matsumoto is standing on the extreme left of the back row. <i>Courtesy of Mrs Hiroko Ito.</i></div>
-
-
 Ariga had previously worked in Canada, first as a journalist and then as a teacher in a school for children of Japanese migrants. He kept in close contact with both the Canadian and the Japanese branches of the Anglican church, and he had been instrumental in encouraging Matsumoto to go to Canada.[^29]
 
 After the outbreak of war, Ariga was interned in a detention centre in the Rocky Mountains.[^30] However, together with his wife and daughter, he was among a group of Japanese who were repatriated in exchange for Canadian prisoners. They travelled by sea via Mozambique to Singapore. Ariga decided to stay on in Singapore as he believed that there might be more opportunities for Japanese speakers of English. He also felt that the Japanese mainland would be more militaristic.[^31]
@@ -142,7 +142,7 @@ According to Ariga’s memoirs, his wife was appointed to head an orphanage at Y
 
 After the war, all four men contributed to the rebuilding of the NSKK in Japan. Ogawa became a professor in Rikkyo. In 1953, Bishop Wilson invited him to the annual meeting in the UK of the Society for the Propagation of the Gospel where he presented on “Christian Work in Japan Today”, noting that there was still a role for foreign missionaries.[^33]
 
-At the end of the presentation, Ogawa briefly commented on his own role in Singapore during the war, stating that he had not done anything beyond what Christians had been taught to do. “I certainly did not want to disappoint the prayers that our friends had been offering for our work,” he said. While in Britain, Ogawa joined the crowds outside Westminster Abbey for the coronation of Queen Elizabeth II.[^34] He met Wilson once more when both men returned to Singapore in 1969 for a BBC documentary on wartime Singapore. Ogawa died in 2001.
+At the end of the presentation, Ogawa briefly commented on his own role in Singapore during the war, stating that he had not done anything beyond what Christians had been taught to do. “I certainly did not want to disappoint the prayers that our friends had been offering for our work,” he said. While in Britain, Ogawa joined the crowds outside Westminster Abbey for the coronation of Queen Elizabeth II.[^34] He met Wilson once more when both men returned to Singapore in 1969 for a&nbsp;documentary by the British Broadcasting Corporation&nbsp;on wartime Singapore. Ogawa died in 2001.
 
 Ariga became the principal of Rikkyo Elementary School, working alongside Sakurai as the chaplain. On a more personal note, Ariga introduced Sakurai to Matsumoto’s sister Fusae, and they got married in 1948. In retirement, Ariga returned to North America.
 
@@ -155,9 +155,9 @@ Sakurai visited Singapore for the last time in 2006. He had learnt of the openin
 
 <div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
 I thank Sharon Lim, producer of the video <i>Unity of Faith: The Story of St Andrew's Cathedral During World War II</i> (https://www.youtube.com/watch?v=5J8q1zD48GY), who provided the initial impetus for this research by inviting me to contribute to the St Andrew’s Cathedral project. Joseph Thambiah recently wrote a book on the Anglican Church in the war, <i>Providence in Adversity: World War 2 and the Anglican Church in Singapore</i> (2022). This article builds on both projects by providing more details on the Japanese Anglicans and their motivations.&nbsp;
-
+<br>
 In Japan, I am grateful for the support of Jean Ogawa (Andrew Tokuji Ogawa’s daughter), Mrs Hiroko Ito (Tadashi Matsumoto’s youngest daughter), Reverend Isao Uematsu (nephew to both Tadashi Matsumoto and Taka Sakurai), Hidekazu Miyagawa (Rikkyo University Archives) and Thomas Takao Nagai (Church of the Resurrection, Chiba).&nbsp;
-
+<br>
 Yusuke Tanaka helped with background information on the Japanese in Canada. My wife Miyoko Kobayashi provided linguistic and much other support throughout.<br></div>
 
 	
