@@ -38,6 +38,9 @@ These stories provided Maugham with material and the “Eastern colour” he was
 
 It was during these occasions that Maugham first heard about the incestuous affair of the brother and sister he wrote about in “The Book Bag”, a short story in the anthology _Ah King_.[^8] A trader staying in the same residence as Maugham and Haxton had apparently told them the story of an English wife’s discovery of her husband’s “half-caste” children, which Maugham wrote about in “The Force of Circumstance”.[^9]
 
+![](/images/Vol%2020%20Issue%204/Somerset/somerset_ahking.jpg)
+<div style="background-color:white;">The anthology <i>Ah King: Six Stories</i> contains the short stories “The Book-Bag” and “Footprints in the Jungle”. This edition was published by William Heinemann, 1936. <i> (From National Library, Singapore, call no. RCLOS 823.91 MAU).</i></div>
+
 One evening in Sumatra, Maugham and Haxton had agreed to dine but Haxton was running late. Maugham waited and was then forced to eat alone. He was furious after dinner; it was then that Haxton, drunk, rushed in apologising and saying, “But I’ve got a corking good story for you!”[^10] He went on to relay the story that became “Footprints in the Jungle”, about the death of Mrs Cartwright’s first husband, Reggie Bronson, shot dead by her lover after she became pregnant with the lover’s child. Owing to the lack of evidence to convict, the body had to be removed quickly from the jungle due to the heat.[^11]
 
 Murder was a common theme in Maugham’s Far Eastern stories. He referred to a “murderous heat”, which caused his characters to become mad and commit murder.
