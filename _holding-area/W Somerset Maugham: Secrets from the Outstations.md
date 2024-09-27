@@ -107,11 +107,17 @@ People apparently lined up to meet him, inviting him to parties, but Maugham suf
 
 Yet, even at the age of 85, Maugham still had the capability to shock and annoy the expatriate community here. Apparently, Maugham and Raffles Hotel manager Frans Schutzman went to the Tanglin Club for lunch one day. Because of their improper attire, they were denied entry. But Schutzman, due to his close relationship with the club’s management and staff, talked his way into the bar. Maugham, provoked and annoyed at not being able to dine, looked around and announced loudly: “Observing these people, I am no longer surprised that there is such a scarcity of domestic servants back home in England.”[^24]
 
+![](/images/Vol%2020%20Issue%204/Somerset/somerset_matchbox.jpg)
+<div style="background-color:white;">A matchbox from the Raffles Hotel, mid-20th century. Printed on it is Somerset Maugham’s quote: “Raffles Hotel Singapore stands for all the fables of the exotic East.” <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
+
 They were both asked to leave immediately and Schutzman lost his membership at the club. It was as if Maugham had to have one more gibe at the expatriate society of Singapore. Maugham left Singapore in 1960. He died in Nice, France, in 1965 at the age of 91.
+
+![](/images/Vol%2020%20Issue%204/Somerset/somerset_bookshop.jpg)
+<div style="background-color:white;">Somerset Maugham visiting a bookshop on Orchard Road, 1960.  <i>Source: The Straits Times, 12 February 1960 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 	
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src="/images/Authors/Eriko.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/TracyMorton.png">
 <b>T.A. Morton</b> is a Singapore-based Irish/Australian writer and a Cambridge graduate. She is co-host of the podcast, <i>The Asian Bookshelf</i>, and author of the upcoming novel, <i>The Coffee Shop Masquerade</i>. In 2020, she was shortlisted for the Bridport Prize for her short work, “Faded Ink”, and the Virginia Prize for Fiction for <i>The Queen, The Soldier and The Girl</i>. Her novel, <i>Someone Is Coming</i>, based on plantation murders in Malaya in the 1900s, was published by Monsoon Books in 2022 and has been optioned for television. </div>
 
 #### **Notes**
