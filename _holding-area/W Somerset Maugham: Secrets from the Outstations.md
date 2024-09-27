@@ -32,6 +32,11 @@ Maugham and his partner Haxton journeyed throughout Southeast Asia during the 19
 
 Maugham was greatly inspired by the life of a plantation manager. Most of his Far Eastern tales, short stories based in Malaya, take place in and around plantations, and when looking at old articles of that time, it is evident what inspired him. The deaths of plantation manager were avidly reported by the local papers.&nbsp;
 
+
+![](/images/Vol%2020%20Issue%204/Somerset/somerset_rubber.jpg)
+<div style="background-color:white;">A rubber plantation in Singapore, c. 1900. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
+
+
 In November 1916, the _Malaya Tribune_ reported that “Mr Gilbert Goundry was found dead on Monday morning with a deep wound in the temple, and with one hand clutching the trigger of a double-barrelled shot gun”.[^5] Just over a week later, the _Straits Times_ reported that the manager of the rubber estate in Johor had been killed. “Mr Wilson was shot dead at nine this morning… the assailant escaped and got into the jungle and so far has not been captured.”[^6]
 
 These stories provided Maugham with material and the “Eastern colour” he was in search of. Maugham wrote that “\[o\]ften in some lonely post in the jungle or in a stiff, grand house, solitary in the midst of a teeming Chinese city, a man has told me stories about himself that I was sure he had never told to a living soul. I was a stray acquaintance whom he had never seen before and would never see again, a wanderer for a moment through his monotonous life, and some starved impulse led him to lay bare his soul”.[^7]&nbsp;
