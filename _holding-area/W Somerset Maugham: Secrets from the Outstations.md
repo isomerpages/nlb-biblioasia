@@ -54,7 +54,7 @@ Maugham engaged his readers by creating very entertaining stories based on what 
 
 Maugham’s Englishwomen in the East exclude themselves from all foreign influences. In the short story, “Door of Opportunity,” he wrote, “they make a circle that was more provincial than any in the smallest town in England”.[^13]&nbsp;
 
-During his time here, Maugham was interviewed by the _Malay Mail_. The journalist wrote: “The interview ended with some appreciative remarks from Mr. Maugham on the beauty of Malaya, where, he complained, people ‘grumbled at the hardships of exile’ when they had more of the ‘conveniences of civilisation’ than in England.”[^14]This astute remark from Maugham about the expatriates heralded a warning of what Maugham was going to write about the people he encountered here.&nbsp;
+During his time here, Maugham was interviewed by the _Malay Mail_. The journalist wrote: “The interview ended with some appreciative remarks from Mr. Maugham on the beauty of Malaya, where, he complained, people ‘grumbled at the hardships of exile’ when they had more of the ‘conveniences of civilisation’ than in England.”[^14] This astute remark from Maugham about the expatriates heralded a warning of what Maugham was going to write about the people he encountered here.&nbsp;
 
 #### **The Letter/The Proudlock Case&nbsp;**
 
@@ -163,7 +163,7 @@ They were both asked to leave immediately and Schutzman lost his membership at t
 
 [^20]: “[Anti-Maughamism](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19380609-1.2.8.3),” _Straits Budget_, 9 June 1938, 5. (From NewspaperSG)&nbsp;
 
-[^21]: Noël Coward, [_The Letters of Noël Coward](https://nlb.overdrive.com/media/351841)_, ed. Barry Day (Knopf Doubleday Publishing House, 2008), 381. (From NLB OverDrive)
+[^21]: Noël Coward, [_The Letters of Noël Coward_](https://nlb.overdrive.com/media/351841), ed. Barry Day (Knopf Doubleday Publishing House, 2008), 381. (From NLB OverDrive)
 
 [^22]: Ilsa Sharp, [_There Is Only One Raffles: The Story of a Grand Hotel_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2962283) (London: Souvenir Press, 1981), 106. (From National Library, Singapore, RSING 647.945957 SHA)&nbsp;
 
