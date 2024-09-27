@@ -71,6 +71,10 @@ Mrs Proudlock then summoned the police to her residence, who searched the ground
 
 Ethel Proudlock confessed to shooting Steward, claiming that he had attacked her and she was acting in self-defence. Her husband testified in court that he believed her and that she had become mentally distressed. In giving her account of the evening, Mrs Proudlock said that Steward had come to visit and found her alone. She had gotten up to get a book when Steward rose, kissed her, and told her: “You’re a lovely girl and I love you.” She claimed that she remonstrated him, tried to call for her servants and switch on the lights; that is when her hand found the gun and she shot him twice as he ran towards the veranda.[^16]
 
+![](/images/Vol%2020%20Issue%204/Somerset/somerset_article.jpg)
+<div style="background-color:white;">One of the first articles to be published about the  murder case of Mrs Ethel Proudlock. <i>Image reproduced from “A Painful Tragedy,” Pinang Gazette and Straits Chronicle, 25 April 1911, 5. (From NewspaperSG).</i></div>
+
+
 Those who knew Mrs Proudlock referred to her as a quiet woman and noted that she and her husband never quarrelled. Although she claimed self-defence, she was found guilty and sentenced to death by hanging. However, Mrs Proudlock was subsequently given a free and unconditional pardon as the State Council felt that the effect of having her modesty outraged caused hysteria and made her unconscious of what she was doing, and therefore she was not responsible for her actions.[^17] &nbsp;
 
 Maugham may have changed the location from Kuala Lumpur to Singapore and the names from Proudlock to Crosbie, but many similarities remained. Maugham met a lawyer who was involved in the case and took the facts from the trial. He listened to the gossip that Ethel Proudlock had been having an affair with Steward and shot him in a jealous rage after he tried to call it off. Maugham had extracted the juiciest details and written a scandalous fictional account.&nbsp;
