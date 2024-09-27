@@ -73,13 +73,29 @@ In an oral history interview with the National Archives of Singapore in 2006, Sa
 
 Interestingly, one of Sakurai’s assignments in Singapore was to liaise with five Japanese artists to produce paintings of Singapore. These were Tsuguharu Fujita (1886–1968), Goro Tsuruta (1890–1969), Saburo Miyamoto (1905–74), Kenichi Nakamura (1895–1967) and Shin Kurihara (1894–1966). Sakurai used the paintings to create postcards celebrating Japan's victory in the war that soldiers could send back home to their families. Sakurai donated the five original drawings as well as postcards to the National Archives in 2006 and the paintings are currently on display at the Former Ford Factory museum in Bukit Timah.[^19]
 
-In 1944, Sakurai was redeployed to the military frontline in the Japanese invasion of northeastern India. By July 1944, the Japanese forces had been defeated at the battles of Imphal and Kohima – which together formed one of the turning points of World War II – and they were forced to retreat into Burma (now Myanmar). By this time, their supply lines were over-extended and soldiers had to rely on their own resources to find their way back to central Burma. Many more died from sickness and starvation than from actual fighting.[^20]
+![](/images/Vol%2020%20Issue%204/Japanese%20Anglican/anglican_plane.jpg)
+<div style="background-color:white;"> “Fighter Plane W8155 at Kallang Airport” by Saburo Miyamoto, 1942. <i>Taka Sakurai Collection, courtesy of National Archives of Singapore. </i></div>
 
-Sakurai himself led a group that struggled to rejoin the main Japanese forces in central Burma.[^21] Their route led them to the Sittang River at a point where it was some 250 yards (230 m) wide and in full flood because of the rainy season. Shortly before attempting to cross the river on crudely assembled rafts, Sakurai realised that Noguchi, one of his comrades, was missing. Leaving his men at the riverbank, Sakurai went back to look for him but to no avail. As he later recalled, it was his Christian faith that had given him the courage to continue. Finally, Sakurai managed to cross the river as one of the few survivors from his original group.[^22]
+
+![](/images/Vol%2020%20Issue%204/Japanese%20Anglican/anglican_.jpg)
+<div style="background-color:white;"> “Overhaul of Combat Plane ‘Hayabusa’ Under the Flaming Sun” by Goro Tsuruta, 1942. <i>Taka Sakurai Collection, courtesy of National Archives of Singapore.</i></div>
+
+
+![](/images/Vol%2020%20Issue%204/Japanese%20Anglican/anglican_.jpg)
+<div style="background-color:white;"> T-junction at Bukit Timah” by Tsuguharu Fujita, 1942. <i>Taka Sakurai Collection, courtesy of National Archives of Singapore.</i></div>
+
+
+![](/images/Vol%2020%20Issue%204/Japanese%20Anglican/anglican_.jpg)
+<div style="background-color:white;"> “The Road at Bukit Timah” by Shin Kurihara, 1942. <i>Taka Sakurai Collection, courtesy of National Archives of Singapore. </i></div>
+
 
 ![](/images/Vol%2020%20Issue%204/Japanese%20Anglican/anglican_plane.jpg)
 <div style="background-color:white;"> “Fighter Plane W8155 at Kallang Airport” by Saburo Miyamoto, 1942. <i>Taka Sakurai Collection, courtesy of National Archives of Singapore. </i></div>
 
+
+In 1944, Sakurai was redeployed to the military frontline in the Japanese invasion of northeastern India. By July 1944, the Japanese forces had been defeated at the battles of Imphal and Kohima – which together formed one of the turning points of World War II – and they were forced to retreat into Burma (now Myanmar). By this time, their supply lines were over-extended and soldiers had to rely on their own resources to find their way back to central Burma. Many more died from sickness and starvation than from actual fighting.[^20]
+
+Sakurai himself led a group that struggled to rejoin the main Japanese forces in central Burma.[^21] Their route led them to the Sittang River at a point where it was some 250 yards (230 m) wide and in full flood because of the rainy season. Shortly before attempting to cross the river on crudely assembled rafts, Sakurai realised that Noguchi, one of his comrades, was missing. Leaving his men at the riverbank, Sakurai went back to look for him but to no avail. As he later recalled, it was his Christian faith that had given him the courage to continue. Finally, Sakurai managed to cross the river as one of the few survivors from his original group.[^22]
 
 Sakurai’s experience in Burma was imprinted in his mind for the rest of his life, underlining his sense of the futility of war. In his will, he asked for some of his ashes to be scattered in the Sittang River after his death.
 
