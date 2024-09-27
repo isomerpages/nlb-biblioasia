@@ -82,19 +82,19 @@ Interestingly, one of Sakurai’s assignments in Singapore was to liaise with fi
 <div style="background-color:white;"> “Fighter Plane W8155 at Kallang Airport” by Saburo Miyamoto, 1942. <i>Taka Sakurai Collection, courtesy of National Archives of Singapore. </i></div>
 
 
-![](/images/Vol%2020%20Issue%204/Japanese%20Anglican/anglican_.jpg)
+![](/images/Vol%2020%20Issue%204/Japanese%20Anglican/anglican_painting2.jpg)
 <div style="background-color:white;"> “Overhaul of Combat Plane ‘Hayabusa’ Under the Flaming Sun” by Goro Tsuruta, 1942. <i>Taka Sakurai Collection, courtesy of National Archives of Singapore.</i></div>
 
 
-![](/images/Vol%2020%20Issue%204/Japanese%20Anglican/anglican_.jpg)
+![](/images/Vol%2020%20Issue%204/Japanese%20Anglican/anglican_painting3.jpg)
 <div style="background-color:white;"> T-junction at Bukit Timah” by Tsuguharu Fujita, 1942. <i>Taka Sakurai Collection, courtesy of National Archives of Singapore.</i></div>
 
 
-![](/images/Vol%2020%20Issue%204/Japanese%20Anglican/anglican_.jpg)
+![](/images/Vol%2020%20Issue%204/Japanese%20Anglican/anglican_painting4.jpg)
 <div style="background-color:white;">“The Fortification at Keppel (Near Kota Bahru)” by Kenichi Nakamura, 1942. <i>Taka Sakurai Collection, courtesy of National Archives of Singapore. </i></div>
 
 
-![](/images/Vol%2020%20Issue%204/Japanese%20Anglican/anglican_plane.jpg)
+![](/images/Vol%2020%20Issue%204/Japanese%20Anglican/anglican_painting5.jpg)
 <div style="background-color:white;"> “The Road at Bukit Timah” by Shin Kurihara, 1942. <i>Taka Sakurai Collection, courtesy of National Archives of Singapore. </i></div>
 
 
