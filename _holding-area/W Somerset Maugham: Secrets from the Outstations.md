@@ -117,7 +117,7 @@ They were both asked to leave immediately and Schutzman lost his membership at t
 
 	
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src="/images/Authors/TracyMorton.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/TraceyMorton.png">
 <b>T.A. Morton</b> is a Singapore-based Irish/Australian writer and a Cambridge graduate. She is co-host of the podcast, <i>The Asian Bookshelf</i>, and author of the upcoming novel, <i>The Coffee Shop Masquerade</i>. In 2020, she was shortlisted for the Bridport Prize for her short work, “Faded Ink”, and the Virginia Prize for Fiction for <i>The Queen, The Soldier and The Girl</i>. Her novel, <i>Someone Is Coming</i>, based on plantation murders in Malaya in the 1900s, was published by Monsoon Books in 2022 and has been optioned for television. </div>
 
 #### **Notes**
