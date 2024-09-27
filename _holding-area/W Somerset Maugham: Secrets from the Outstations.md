@@ -9,6 +9,9 @@ description: W. Somerset Maugham’s visits to Singapore in the 1920s inspired
 #### W. Somerset Maugham’s visits to Singapore in the 1920s inspired some of his greatest fictions, but these stories also triggered a fierce backlash against him throughout British Malaya.
 By T.A. Morton
 
+![](/images/Vol%2020%20Issue%204/Somerset/somerset_facing.jpg)
+<div style="background-color:white;"> Portrait of Somerset Maugham, undated. <i>CPA Media Pte Ltd/Alamy Stock Photo.</i></div>
+
 In April 1921, William Somerset Maugham – the bestselling novelist, famed playwright and master of short stories – landed in Singapore. At the age of 47, Maugham was one of the most well-known writers in the world. During his lifetime, he would go on to write 20 novels, fill nine volumes of short stories, write 31 plays and publish several volumes of non-fiction.&nbsp;
 
 However, it was his arrival in Singapore that marked a turning point in Maugham’s career. Encountering locals, empire builders, missionaries and the earliest cosmopolitan travellers, Maugham discovered a treasure trove of “new types” that appealed to his imagination.[^1] Yet, as a former doctor and an avid note-taker, he quite literally took these individuals at their word. This approach led to some of his most celebrated short stories, but it also damaged his reputation due to the insensitivity in publicly airing secrets for his own benefit.
@@ -48,6 +51,9 @@ During his time here, Maugham was interviewed by the _Malay Mail_. The journalis
 #### **The Letter/The Proudlock Case&nbsp;**
 
 Maugham’s travels through Southeast Asia resulted in his short story collection, _The Casuarina Tree_, published in 1926. The collection consists of six stories, all of which feature characters based in the region. One story in particular riled up the expatriate community – “The Letter”.[^15] This is probably one of Maugham’s most famous stories and is based on a true event: the arrest and conviction of Ethel Proudlock in 1911, in Kuala Lumpur, for killing a man.&nbsp;
+
+![](/images/Vol%2020%20Issue%204/Somerset/somerset_casuarina.jpg)
+<div style="background-color:white;">The title page of <i>The Casuarina Tree</i> published by William Collins, Sons &amp; Co. in 1936. The short story, “The Letter”, is featured in this anthology. <i>(From National Library, Singapore, call no. RCLOS 823.912 MAU-[JSB]).</i></div>
 
 On 23 April 1911, William Steward, the former manager of the Salak South Tin mines, was dining at the Empire Hotel with friends when he abruptly got up and announced that he had an appointment at 9 pm that evening. Steward went to call on the Proudlocks, friends of his, and found Mrs Ethel Proudlock home alone. Her husband, William Proudlock, acting headmaster of the Victoria Institution House, was out dining with a friend. Steward arrived by rickshaw and told the driver to wait for him outside. Mrs Proudlock welcomed him into the house.&nbsp;
 
