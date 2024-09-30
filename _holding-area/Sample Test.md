@@ -1,6 +1,6 @@
 ---
 title: Sample Test
-permalink: /permalink/sampletest/
+permalink: /holding-area/sampletest/
 variant: markdown
 description: ""
 ---

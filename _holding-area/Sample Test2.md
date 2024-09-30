@@ -1,7 +1,7 @@
 ---
 title: Sample Test2
-permalink: /permalink/sampletest2/
-variant: tiptap
+permalink: /holding-area/sampletest2/
+variant: markdown
 description: ""
 ---
 <p></p>

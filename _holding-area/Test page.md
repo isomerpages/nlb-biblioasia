@@ -1,10 +1,9 @@
 ---
 title: Test page
-permalink: /testpage3/
+permalink: /holding-area/testpage3/
 description: ""
+variant: markdown
 ---
-
-
 # This is a main header.
 ## This is a subhead 
 ### This is a smaller subhead

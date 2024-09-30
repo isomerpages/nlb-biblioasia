@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-20/issue-3/oct-dec-2024/great-singapore-workout/
-      button: 30 Years of the Great Singapore Workout
+      url: /vol-15/issue-3/oct-dec-2019/navaratri-golu/
+      button: "Navaratri Golu: The Hindu Festival of Dolls"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 20 Issue 3/Singapore Workout/HeroImage_workout.jpg
+      background: /images/Vol-15-issue-3/navaratri-golu/navaratri hero image.jpg
   - infopic:
       title: Have Your Say
       subtitle: Readership Survey
@@ -25,6 +25,16 @@ sections:
       url: https://go.gov.sg/web-survey
       image: /images/survey_sep24.jpg
       alt: Readership Survey
+  - infopic:
+      title: A Kampong for the “Grand Old Man of Singapore”
+      subtitle: More Places and Buildings
+      id: infopic
+      description: Due to development and urbanisation, Lim Boon Keng’s last home at
+        Paterson Hill no longer exists today.
+      button: A Lost Kampong
+      url: /places-and-buildings/2024/9/lim-boon-keng-mansion-kampong/
+      image: /images/Online Only Articles/Lim Boon Keng Mansion/1Paterson_Hill8.jpg
+      alt: Image alt text
   - infopic:
       title: Pioneering Journalist R.B. Ooi
       subtitle: People
