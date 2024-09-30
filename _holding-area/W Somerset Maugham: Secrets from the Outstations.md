@@ -13,7 +13,7 @@ By T.A. Morton
 ![](/images/Vol%2020%20Issue%204/Somerset/somerset_facing.jpg)
 <div style="background-color:white;"> Portrait of Somerset Maugham, undated. <i>CPA Media Pte Ltd/Alamy Stock Photo.</i></div>
 
-In April 1921, William Somerset Maugham – the bestselling novelist, famed playwright and master of short stories – landed in Singapore. At the age of 47, Maugham was one of the most well-known writers in the world. During his lifetime, he would go on to write 20 novels, fill nine volumes of short stories, write 31 plays and publish several volumes of non-fiction.&nbsp;
+In April 1921, William Somerset Maugham – the bestselling novelist, famed playwright and master of short stories – landed in Singapore. At the age of 47, Maugham was one of the most well-known writers in the world. During his lifetime, he penned 20 novels, filled nine volumes of short stories, wrote 31 plays and published several volumes of non-fiction.
 
 However, it was his arrival in Singapore that marked a turning point in Maugham’s career. Encountering locals, empire builders, missionaries and the earliest cosmopolitan travellers, Maugham discovered a treasure trove of “new types” that appealed to his imagination.[^1] Yet, as a former doctor and an avid note-taker, he quite literally took these individuals at their word. This approach led to some of his most celebrated short stories, but it also damaged his reputation due to the insensitivity in publicly airing secrets for his own benefit.
 
@@ -45,7 +45,7 @@ These stories provided Maugham with material and the “Eastern colour” he was
 It was during these occasions that Maugham first heard about the incestuous affair of the brother and sister he wrote about in “The Book Bag”, a short story in the anthology _Ah King_.[^8] A trader staying in the same residence as Maugham and Haxton had apparently told them the story of an English wife’s discovery of her husband’s “half-caste” children, which Maugham wrote about in “The Force of Circumstance”.[^9]
 
 ![](/images/Vol%2020%20Issue%204/Somerset/somerset_ahking.jpg)
-<div style="background-color:white;">The anthology <i>Ah King: Six Stories</i> contains the short stories “The Book-Bag” and “Footprints in the Jungle”. This edition was published by William Heinemann, 1936. <i> (From National Library, Singapore, call no. RCLOS 823.91 MAU).</i></div>
+<div style="background-color:white;">The anthology, <i>Ah King: Six Stories</i>, contains the short stories “The Book-Bag” and “Footprints in the Jungle”. This edition was published by William Heinemann, 1936. <i> (From National Library, Singapore, call no. RCLOS 823.91 MAU).</i></div>
 
 One evening in Sumatra, Maugham and Haxton had agreed to dine but Haxton was running late. Maugham waited and was then forced to eat alone. He was furious after dinner; it was then that Haxton, drunk, rushed in apologising and saying, “But I’ve got a corking good story for you!”[^10] He went on to relay the story that became “Footprints in the Jungle”, about the death of Mrs Cartwright’s first husband, Reggie Bronson, shot dead by her lover after she became pregnant with the lover’s child. Owing to the lack of evidence to convict, the body had to be removed quickly from the jungle due to the heat.[^11]
 
