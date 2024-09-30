@@ -5,6 +5,13 @@ description: ""
 third_nav_title: Places and Buildings
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/places-and-buildings/2024/9/lim-boon-keng-mansion-kampong/">A Kampong for the “Grand Old Man of Singapore”</a>
+
+Due to development and urbanisation, Lim Boon Keng’s last home at Paterson Hill no longer exists today.
+
+<img src="/images/Online%20Only%20Articles/Lim%20Boon%20Keng%20Mansion/1Paterson_Hill8.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/places-and-buildings/2024/8/eu-tong-sen-villa/">Eu Tong Sen’s “Pearl Under the Burning Tropical Sun”</a>
 
 The grandeur and opulence of Eu Villa on Mount Sophia was unrivalled in its heyday.
