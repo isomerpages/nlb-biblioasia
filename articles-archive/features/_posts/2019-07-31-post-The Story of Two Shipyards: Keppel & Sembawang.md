@@ -5,8 +5,8 @@ permalink: /vol-15/issue-2/jul-sep-2019/shipyards-keppel-sembawang/
 image: /images/Vol-15-issue-2/the-story-of-two-shipyards/Ship1.JPG
 layout: post
 description: ""
+variant: markdown
 ---
-
 #### Keppel and Sembawang shipyards are major players in Singapore’s maritime and shipping industry. **Wee Beng Geok** traces the colonial origins of these two companies.
 
 <img src="/images/Vol-15-issue-2/the-story-of-two-shipyards/Ship1.JPG">
@@ -24,7 +24,7 @@ The advent of steamships for sea transportation in the 19th century drew entrepr
 
 The use of steamships also required new logistical arrangements. Coal, the energy source of steamships, had to be first transferred from coal-carrying ships anchored at the mouth of the Singapore River onto small lighters, which in turn transported the coal to warehouses situated along the river bank for storage. Lighters then transported the coal out to the arriving steamships. It was a laborious process, made all the worse during stormy weather and choppy seas when the lighters would sometimes capsize, resulting in tons of lost coal. Furthermore, stored damp coal combusted easily and became a constant fire hazard.
 
-In 1845, the Peninsular and Oriental Steam Navigation Company (P&O) in London began monthly sailings to the Far East, including a stop in Singapore. In 1852, P&O became the first shipping company to move its coaling stations from the Singapore River to New Harbour (now Keppel Harbour[^3]) where it built its own wharf. The new location had a sheltered anchorage, a pier for bunkering, as well as space for coal storage and godowns (warehouses). Other shipping firms followed suit and New Harbour, with its deep waters, soon became the preferred berthing location for ships calling at Singapore.
+In 1845, the Peninsular and Oriental Steam Navigation Company (P&amp;O) in London began monthly sailings to the Far East, including a stop in Singapore. In 1852, P&amp;O became the first shipping company to move its coaling stations from the Singapore River to New Harbour (now Keppel Harbour[^3]) where it built its own wharf. The new location had a sheltered anchorage, a pier for bunkering, as well as space for coal storage and godowns (warehouses). Other shipping firms followed suit and New Harbour, with its deep waters, soon became the preferred berthing location for ships calling at Singapore.
 
 With increased steamship traffic, several Singapore-based British and European companies as well as residents became keen to invest in the construction of drydocks for ship repair. Although considerable start-up capital was needed, the returns were projected to be good and several companies were willing to take the risk.
 
@@ -49,7 +49,7 @@ With the opening of the Suez Canal in 1869, more steamships called at Singapore 
 <img style="width: 650px; height: 400px;" src="/images/Vol-15-issue-2/the-story-of-two-shipyards/Ship3.JPG">
 <div style="background-color: white;">Albert Dock was built by the Tanjong Pagar Dock Company in Tanjong Pagar in 1879. It was located to the east of Victoria Dock, the company’s first drydock which began operations in 1868. <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore.</i></div>
 
-Finally, in 1899, TPDC merged with its main rival, the New Harbour Dock Company (in 1875, Patent Slip and Dock Company had incorporated itself into a public company bearing this name). With this acquisition, TPDC came to control the entire shipping, dockyard and wharf business at New Harbour, except for the P&O wharf. Singapore’s port and its future prosperity rested heavily on TPDC’s shoulders.
+Finally, in 1899, TPDC merged with its main rival, the New Harbour Dock Company (in 1875, Patent Slip and Dock Company had incorporated itself into a public company bearing this name). With this acquisition, TPDC came to control the entire shipping, dockyard and wharf business at New Harbour, except for the P&amp;O wharf. Singapore’s port and its future prosperity rested heavily on TPDC’s shoulders.
 
 Singapore’s port was the seventh largest in the world in 1904 but faced strong overseas competition, especially from the port in Hong Kong. TPDC’s port facilities became increasingly inadequate to compete internationally and the company’s wharf system was under severe strain as no major improvements to its facilities had been carried out since 1885.
 
@@ -127,8 +127,7 @@ Before Swan Hunter’s managing contract with Keppel ended in 1972, a group of K
 Keppel’s new management built a 150,000-dwt drydock on reclaimed land in Tuas, and the new yard commenced business in June 1977 when the dock was completed. In 1979, work on another drydock for ultra-large crude carriers of up to 330,000 dwt began at the Tuas shipyard.
 
 <img style="width: 410px; height: 500px;" src="/images/Vol-15-issue-2/the-story-of-two-shipyards/Ship8.JPG">
-<div style="background-color: white;">A ship undergoing repair in Keppel Shipyard
-A ship undergoing repair in Keppel Shipyard, c. early 1990s. <i>Image reproduced from Lim, R. (1993).Tough Men, Bold Visions: The Story of Keppel (p. 65). Singapore: Keppel Corporation Limited. (Call no.: RSING 338.76238309 LIM).</i></div>
+<div style="background-color: white;">A ship undergoing repair in Keppel Shipyard, c. early 1990s. <i>Image reproduced from Lim, R. (1993).Tough Men, Bold Visions: The Story of Keppel (p. 65). Singapore: Keppel Corporation Limited. (Call no.: RSING 338.76238309 LIM).</i></div>
 
 In 1980, Keppel Shipyard Limited (KSL) shares were listed and traded on the Stock Exchange of Singapore, with the launch of an initial public offering of 30 million shares at $3.30 each. Besides the Singapore government, KSL shareholders included institutional investors and private individuals.
 
@@ -140,7 +139,7 @@ By the time Swan Hunter personnel left in 1978, almost all the managers in Semba
 
 Over the next three decades, Keppel and Sembawang would emerge as major players in Singapore’s maritime and shipping industry as well as leaders in the global offshore rig construction business.
 
-Today, Keppel Shipyard is a division of Keppel Offshore & Marine, one of the core businesses of conglomerate Keppel Corporation. Keppel Shipyard has three yards in Singapore – Tuas, Benoi and Gul – which together operate five drydocks.
+Today, Keppel Shipyard is a division of Keppel Offshore &amp; Marine, one of the core businesses of conglomerate Keppel Corporation. Keppel Shipyard has three yards in Singapore – Tuas, Benoi and Gul – which together operate five drydocks.
 
 Sembawang Shipyard was renamed Sembcorp Marine Admiralty Yard in 2015. Today, it has five docks, the largest being the 400,000-dwt Premier Dock, as well as KG VI Dock, which is one of the deepest in Southeast Asia. Admiralty Yard is one of the four major yards in Singapore operated by Sembcorp Marine Limited.
 
