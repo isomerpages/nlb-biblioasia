@@ -15,7 +15,7 @@ sections:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 20 Issue 3/Singapore Workout/HeroImage_workout_20240930.jpg
+      background: /images/Vol-15-issue-3/navaratri-golu/Navaratri_Hero_Banner.jpg
   - infopic:
       title: Have Your Say
       subtitle: Readership Survey
