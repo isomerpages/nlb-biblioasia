@@ -26,6 +26,16 @@ sections:
       image: /images/survey_sep24.jpg
       alt: Readership Survey
   - infopic:
+      title: A Kampong for the “Grand Old Man of Singapore”
+      subtitle: More Places and Buildings
+      id: infopic
+      description: Due to development and urbanisation, Lim Boon Keng’s last home at
+        Paterson Hill no longer exists today.
+      button: A Lost Kampong
+      url: /places-and-buildings/2024/9/lim-boon-keng-mansion-kampong/
+      image: /images/Online Only Articles/Lim Boon Keng Mansion/1Paterson_Hill8.jpg
+      alt: Image alt text
+  - infopic:
       title: Pioneering Journalist R.B. Ooi
       subtitle: People
       id: infopic
@@ -1278,14 +1288,4 @@ sections:
       url: https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08
       alt: Greeting Card
       image: /images/Hari Raya Cards/hari raya greeting card.jpg
-  - infopic:
-      title: A Kampong for the “Grand Old Man of Singapore”
-      subtitle: More Places and Buildings
-      id: infopic
-      description: Due to development and urbanisation, Lim Boon Keng’s last home at
-        Paterson Hill no longer exists today.
-      button: A Lost Kampong
-      url: /places-and-buildings/2024/9/lim-boon-keng-mansion-kampong/
-      image: /images/Online Only Articles/Lim Boon Keng Mansion/1Paterson_Hill8.jpg
-      alt: Image alt text
 ---
