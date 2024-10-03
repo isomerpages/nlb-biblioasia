@@ -21,24 +21,23 @@ foreign and culture minister, and his relationship with Lee Kuan Yew.</p>
 get notified when the next episode drops.</p>
 <p></p>
 <h4><strong>What Irene Talked About</strong></h4>
-<p>06:10 – Rajaratnam's personality</p>
-<p>07:55 – Main themes of the second volume of Rajaratnam biography, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300059306" rel="noopener nofollow" target="_blank">The Lion's Roar</a></em>
-</p>
-<p>10:24 – Why young Singaporeans should read the biography</p>
-<p>14:49 – How Singapore’s pledge evolved from Rajaratnam’s ideals</p>
-<p>19:07 – Rajaratnam's relationship with Lee Kuan Yew</p>
-<p>24:41 – Rajaratnam’s legacy in shaping Singapore’s foreign policy</p>
-<p>26:11 – Qualities that made Rajaratnam the ideal founding foreign minister</p>
-<p>28:04 – Rajaratnam’s impact as culture minister</p>
-<p>30:51 – His forgotten achievements as the labour minister</p>
-<p>35:10 – What inspired Irene to write Rajaratnam’s biography</p>
-<p>37:30 – Challenges in writing the second volume of the biography</p>
-<p>39:40 – Irene’s take on criticisms about the book based on her history
-as a politician</p>
-<p>44:58 – What Irene reads for leisure</p>
-<p>46:06 – Biographies that inspired Irene</p>
-<p>49:00 – What’s next for Irene</p>
-<p>49:38 – Irene’s Singapore dream</p>
+<p>06:10 – Rajaratnam's personality
+<br>07:55 – Main themes of the second volume of Rajaratnam biography, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300059306" rel="noopener nofollow" target="_blank">The Lion's Roar</a></em>
+<br>10:24 – Why young Singaporeans should read the biography
+<br>14:49 – How Singapore’s pledge evolved from Rajaratnam’s ideals
+<br>19:07 – Rajaratnam's relationship with Lee Kuan Yew
+<br>24:41 – Rajaratnam’s legacy in shaping Singapore’s foreign policy
+<br>26:11 – Qualities that made Rajaratnam the ideal founding foreign minister
+<br>28:04 – Rajaratnam’s impact as culture minister
+<br>30:51 – His forgotten achievements as the labour minister
+<br>35:10 – What inspired Irene to write Rajaratnam’s biography
+<br>37:30 – Challenges in writing the second volume of the biography
+<br>39:40 – Irene’s take on criticisms about the book based on her history
+as a politician
+<br>44:58 – What Irene reads for leisure
+<br>46:06 – Biographies that inspired Irene
+<br>49:00 – What’s next for Irene
+<br>49:38 – Irene’s Singapore dream</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
