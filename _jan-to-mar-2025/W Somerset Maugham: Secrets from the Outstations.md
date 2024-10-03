@@ -1,6 +1,6 @@
 ---
-title: "W Somerset Maugham: Secrets from the Outstations"
-permalink: /holding-area/w-somerset-maugham-secrets-from-the-outstations/
+title: "W. Somerset Maugham: Secrets from the Outstations"
+permalink: /vol-20/issue-4/jan-mar-2025/william-somerset-maugham-secrets/
 variant: markdown
 description: W. Somerset Maugham’s visits to Singapore in the 1920s inspired
   some of his greatest fictions, but these stories also triggered a fierce
