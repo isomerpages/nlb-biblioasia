@@ -78,7 +78,6 @@ as a politician</p>
 <details class="isomer-details">
 <summary>About the Guest</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <p>Irene Ng&nbsp;is the authorised biographer of S. Rajaratnam and writer-in-residence
 at the Institute of ISEAS–Yusof Ishak Institute. She was formerly an award-winning
 senior political correspondent and a Member of Parliament in Singapore.</p>
@@ -88,7 +87,6 @@ senior political correspondent and a Member of Parliament in Singapore.</p>
 <details class="isomer-details">
 <summary>Resources</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <p>Irene Ng, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300059306" rel="noopener nofollow" target="_blank">The Lion's Roar</a></em>,
 vol. 2 of<em> S. Rajaratnam, The Authorised Biography</em> (Singapore: ISEAS–Yusof
 Ishak Institute, 2024).</p>
@@ -107,7 +105,6 @@ no. 1 (April–June 2019).</p>
 <details class="isomer-details">
 <summary>Credits</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <p>This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh
 Gek Han. Sound engineering was done by Doppler Soundlab. The background
 music "Di Tanjong Katong" was composed by Osman Ahmad and performed by&nbsp;
@@ -118,7 +115,6 @@ music "Di Tanjong Katong" was composed by Osman Ahmad and performed by&nbsp;
 <details class="isomer-details">
 <summary>About the Podcast</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <p>BiblioAsia+ is a podcast about Singapore history by the National Library
 of Singapore.</p>
 </div>
