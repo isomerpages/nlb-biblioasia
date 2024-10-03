@@ -100,6 +100,9 @@ no. 3 (October–December 2024).</p>
 <p></p>
 <p>Irene Ng, “<a href="https://biblioasia.nlb.gov.sg/vol-15/issue-1/apr-jun-2019/s-rajaratnam/" rel="noopener nofollow" target="_blank">Researching S. Rajaratnam</a>,” <em>BiblioAsia </em>15,
 no. 1 (April–June 2019).</p>
+<p></p>
+<p>S. Rajaratnam, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=13792223" rel="noopener nofollow" target="_blank">The Short Stories and Radio Plays of S. Rajaratnam</a></em> (Singapore:
+Epigram, 2011).</p>
 </div>
 </details>
 <details class="isomer-details">
