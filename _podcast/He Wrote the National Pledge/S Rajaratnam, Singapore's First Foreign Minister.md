@@ -12,9 +12,6 @@ is so great that to cover his life adequately required 20 years of research
 and over 1,200 pages of writing.&nbsp;Irene&nbsp;Ng, his authorised biographer,
 tells us little-known facets of the man, his legacy as Singapore’s founding
 foreign and culture minister, and his relationship with Lee Kuan Yew.</p>
-<p>Irene Ng&nbsp;is the authorised biographer of S. Rajaratnam and writer-in-residence
-at the Institute of ISEAS–Yusof Ishak Institute. She was formerly an award-winning
-senior political correspondent and a Member of Parliament in Singapore.</p>
 <p></p>
 <h4><strong>Listen to the Full Episode</strong></h4>
 <p>Available on: <a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener nofollow" target="_blank"><u>Spotify</u></a>,
@@ -29,7 +26,7 @@ get notified when the next episode drops.</p>
 <p>06:10 – Rajaratnam's personality</p>
 </li>
 <li>
-<p>07:55 – Main themes of the second volume of Rajaratnam biography, <em>The Lion</em>’<em>s Roar</em>
+<p>07:55 – Main themes of the second volume of Rajaratnam biography, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300059306" rel="noopener nofollow" target="_blank">The Lion's Roar</a></em>
 </p>
 </li>
 <li>
@@ -76,4 +73,39 @@ as a politician</p>
 <p>49:38 – Irene’s Singapore dream</p>
 </li>
 </ul>
+<p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About the Guest</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Irene Ng&nbsp;is the authorised biographer of S. Rajaratnam and writer-in-residence
+at the Institute of ISEAS–Yusof Ishak Institute. She was formerly an award-winning
+senior political correspondent and a Member of Parliament in Singapore.</p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Resources</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Credits</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh
+Gek Han. Sound engineering was done by Doppler Soundlab. The background
+music "Di Tanjong Katong" was composed by Osman Ahmad and performed by&nbsp;
+<a href="https://www.youtube.com/watch?v=uA2v7ka5TAI" rel="noopener noreferrer" target="_blank"><u>Chords Haven</u>
+</a>. Special thanks to Irene for coming on the show.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>About the Podcast</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>BiblioAsia+ is a podcast about Singapore history by the National Library
+of Singapore.</p>
+</div>
+</details>
+</div>
 <p></p>
