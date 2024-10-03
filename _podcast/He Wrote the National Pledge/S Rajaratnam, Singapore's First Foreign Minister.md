@@ -78,6 +78,7 @@ as a politician</p>
 <details class="isomer-details">
 <summary>About the Guest</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p>Irene Ng&nbsp;is the authorised biographer of S. Rajaratnam and writer-in-residence
 at the Institute of ISEAS–Yusof Ishak Institute. She was formerly an award-winning
 senior political correspondent and a Member of Parliament in Singapore.</p>
@@ -88,11 +89,25 @@ senior political correspondent and a Member of Parliament in Singapore.</p>
 <summary>Resources</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
+<p>Irene Ng, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300059306" rel="noopener nofollow" target="_blank">The Lion's Roar</a></em>,
+vol. 2 of<em> S. Rajaratnam, The Authorised Biography</em> (Singapore: ISEAS–Yusof
+Ishak Institute, 2024).</p>
+<p></p>
+<p>Irene Ng, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300055076" rel="noopener nofollow" target="_blank">The Singapore Lion</a></em>,
+vol. 1 of <em>S. Rajaratnam, The Authorised Biography</em> (Singapore: ISEAS–Yusof
+Ishak Institute, 2024).</p>
+<p></p>
+<p>Irene Ng, “<a href="https://biblioasia.nlb.gov.sg/vol-20/issue-3/oct-dec-2024/rajaratnam-biography-lions-roar/" rel="noopener nofollow" target="_blank">S. Rajaratnam: The Lion’s Roar</a>,” <em>BiblioAsia </em>20,
+no. 3 (October–December 2024).</p>
+<p></p>
+<p>Irene Ng, “<a href="https://biblioasia.nlb.gov.sg/vol-15/issue-1/apr-jun-2019/s-rajaratnam/" rel="noopener nofollow" target="_blank">Researching S. Rajaratnam</a>,” <em>BiblioAsia </em>15,
+no. 1 (April–June 2019).</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Credits</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p>This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh
 Gek Han. Sound engineering was done by Doppler Soundlab. The background
 music "Di Tanjong Katong" was composed by Osman Ahmad and performed by&nbsp;
@@ -103,6 +118,7 @@ music "Di Tanjong Katong" was composed by Osman Ahmad and performed by&nbsp;
 <details class="isomer-details">
 <summary>About the Podcast</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p>BiblioAsia+ is a podcast about Singapore history by the National Library
 of Singapore.</p>
 </div>
