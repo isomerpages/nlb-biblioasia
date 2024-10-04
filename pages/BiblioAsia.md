@@ -30,7 +30,7 @@ life adequately required 20 years of research. Irene Ng, his authorised
 biographer, tells us little-known facets of the man, his legacy as Singapore’s
 first foreign and culture minister, and his relationship with Lee Kuan
 Yew.</div>
-<div class="isomer-card-link">Coming soon</div>
+<div class="isomer-card-link">Listen to the episode</div>
 </div>
 </a>
 </div>
