@@ -28,8 +28,8 @@ its substance, which I think served Singapore well.</p>
 <p>[Music playing]</p>
 <p><strong>Jimmy</strong> 
 <br>You’re listening to BiblioAsia+, a podcast produced by the National Library
-of Singapore. At BiblioAsia, we tell stories about Singapore’s past, some
-familiar, others forgotten, all fascinating.</p>
+of Singapore. At <em>BiblioAsia</em>, we tell stories about Singapore’s
+past, some familiar, others forgotten, all fascinating.</p>
 <p>The National Pledge that generations of school kids recite every morning
 – that’s because of Rajaratnam. Singapore’s entry into the United Nations
 – that’s Rajaratnam too. Singapore’s longest serving foreign minister –
@@ -846,8 +846,9 @@ but tomorrow.</p>
 us on BiblioAsia+. I do want to urge everyone to read Irene’s latest book,<em> <a href="https://catalogue.nlb.gov.sg/search/card?recordId=300059306" rel="noopener noreferrer nofollow" target="_blank">The Lion’s Roar</a>,</em> the
 second volume of her authorised biography on Rajaratnam. It’s available,
 of course, in bookstores and in libraries. So you can buy it or borrow
-it. For a taste of what’s in the book, BiblioAsia has published an <a href="https://biblioasia.nlb.gov.sg/vol-20/issue-3/oct-dec-2024/rajaratnam-biography-lions-roar/" rel="noopener noreferrer nofollow" target="_blank">extract</a> from
-that book, and you can find it on the BiblioAsia website at biblioasia.nlb.gov.sg.</p>
+it. For a taste of what’s in the book, <em>BiblioAsia </em>has published
+an <a href="https://biblioasia.nlb.gov.sg/vol-20/issue-3/oct-dec-2024/rajaratnam-biography-lions-roar/" rel="noopener noreferrer nofollow" target="_blank">extract</a> from
+that book, and you can find it on the <em>BiblioAsia </em>website at biblioasia.nlb.gov.sg.</p>
 <p>Irene, once again, thank you very much for being here, and I know it’s
 a very hot day, and you had to walk from the Istana. So she’s that kind
 of person who will walk from the Istana all the way to the National Archives
