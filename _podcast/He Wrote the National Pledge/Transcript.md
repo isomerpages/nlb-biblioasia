@@ -847,7 +847,7 @@ us on BiblioAsia+. I do want to urge everyone to read Irene’s latest book,<em>
 second volume of her authorised biography on Rajaratnam. It’s available,
 of course, in bookstores and in libraries. So you can buy it or borrow
 it. For a taste of what’s in the book, BiblioAsia has published an <a href="https://biblioasia.nlb.gov.sg/vol-20/issue-3/oct-dec-2024/rajaratnam-biography-lions-roar/" rel="noopener noreferrer nofollow" target="_blank">extract</a> from
-that book, and you can find it on the BiblioAsia website at <a rel="noopener noreferrer nofollow" target="_blank">biblioasia.nlb.gov.sg</a>.</p>
+that book, and you can find it on the BiblioAsia website at biblioasia.nlb.gov.sg.</p>
 <p>Irene, once again, thank you very much for being here, and I know it’s
 a very hot day, and you had to walk from the Istana. So she’s that kind
 of person who will walk from the Istana all the way to the National Archives
