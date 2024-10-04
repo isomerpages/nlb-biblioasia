@@ -15,7 +15,7 @@ foreign and culture minister, and his relationship with Lee Kuan Yew.</p>
 <p></p>
 <h4><strong>Listen to the Full Episode</strong></h4>
 <p>Available on: <a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener nofollow" target="_blank"><u>Spotify</u></a>,
-<a href="https://podcasts.apple.com/us/podcast/biblioasia/id1688142751" rel="noopener nofollow" target="_blank"><u>Apple Podcasts</u>
+<a href="https://podcasts.apple.com/us/podcast/he-wrote-the-national-pledge-s-rajaratnam-singapores/id1688142751?i=1000671762671" rel="noopener nofollow" target="_blank"><u>Apple Podcasts</u>
 </a>, <a href="https://www.melisten.sg/podcast/playlist/BiblioAsia+-2115156" rel="noopener nofollow" target="_blank"><u>melisten</u></a>.</p>
 <p><a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener noreferrer nofollow" target="_blank"><u>Subscribe</u></a> to
 get notified when the next episode drops.</p>
