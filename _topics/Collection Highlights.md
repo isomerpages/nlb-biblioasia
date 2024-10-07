@@ -218,7 +218,7 @@ This valuable collection at the National Library is significant for a number of 
 <img src="/images/Vol-11-issue-3/NLcollections/SBG.jpg" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="//vol-11/issue-3/oct-dec-2015/wartime/">**Wartime Propaganda: The Battle for Minds and Hearts**</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-3/oct-dec-2015/wartime/">**Wartime Propaganda: The Battle for Minds and Hearts**</a>
 
 **Benjamin Seet**&nbsp;shares highlights from his collection of World War II Ieaflets air-dropped by Allied Forces over Japanese-occupied Southeast Asia between 1942 and 45.
 
@@ -257,5 +257,3 @@ The Asian Children’s Literature collection at Woodlands Regional Library has s
 
 <img src="/images/vol-9-issue-4/colonial/IMG_2166-edit.jpg" style="width:80%;">
 <hr>
-
-
