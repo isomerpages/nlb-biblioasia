@@ -67,7 +67,7 @@ The board’s vote of affirmation resulted in Smith’s relocation to Singapore 
 
 [^2]:  Creighton Lacy, “The Missionary Exodus from China,” _Pacific Affairs,_ Vol. 28, No. 4 (Dec, 1955): 301-314.
 
-[^3] Lee Kam Hing, “A Neglected Story: Christian Missionaries, Chinese New Villagers, and Communists in the Battle for the ‘hearts and minds’ in Malaya, 1948–1960.” _Modern Asian Studies__,_ Vol. 47, Issue 6 (Nov 2013):1977–2006. See also, Clemens Six, _[Secularism, Decolonization and the Cold War in South and Southeast Asia](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203113775)_ (New York: Routledge, 2018) (From National Library, Singapore, call no. 201.72095 SIX).
+[^3]:  Lee Kam Hing, “A Neglected Story: Christian Missionaries, Chinese New Villagers, and Communists in the Battle for the ‘hearts and minds’ in Malaya, 1948–1960.” _Modern Asian Studies__,_ Vol. 47, Issue 6 (Nov 2013):1977–2006. See also, Clemens Six, _[Secularism, Decolonization and the Cold War in South and Southeast Asia](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203113775)_ (New York: Routledge, 2018) (From National Library, Singapore, call no. 201.72095 SIX).
 
 [^4]:  Lee, “A Neglected Story,” 1977–2006.
 
