@@ -5,6 +5,13 @@ description: ""
 third_nav_title: People
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-4/jan-mar-2025/william-somerset-maugham-secrets/">W. Somerset Maugham: Secrets from the Outstations</a>
+
+The former newsreader AGS Danaraj was also a pioneering town planner, who always made time to help the less fortunate.
+
+<img src="/images/Vol%2020%20Issue%204/Somerset/somerset_facing.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/places-and-buildings/2024/8/eu-tong-sen-villa/">Eu Tong Sen’s “Pearl Under the Burning Tropical Sun”</a>
 
 The grandeur and opulence of Eu Villa on Mount Sophia was unrivalled in its heyday.
@@ -614,5 +621,3 @@ There’s more to the hand than meets the eye, as&nbsp;**Tan Huism**&nbsp;found 
 
 <img src="/images/vol-9-issue-4/sgmanofscienceandmedicine/group_of_chinese.jpg" style="width:80%;">
 <hr>
-
-
