@@ -257,7 +257,7 @@ The oldest profession in the world took on a different complexion in Southeast A
 <img src="/images/Vol-11-issue-3/bodies/ThreeMalaywomen.jpg" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/ol-11/issue-3/oct-dec-2015/housewives/">**Desperate Housewives: The Lure of Chap Ji Kee**</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-11/issue-3/oct-dec-2015/housewives/">**Desperate Housewives: The Lure of Chap Ji Kee**</a>
 
  _Chap ji kee_&nbsp;has been famously called the “housewives’ opium”.&nbsp;**Janice Loo**&nbsp;traces its rise and subsequent decline.
  
