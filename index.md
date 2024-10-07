@@ -1289,4 +1289,15 @@ sections:
       url: https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08
       alt: Greeting Card
       image: /images/Hari Raya Cards/hari raya greeting card.jpg
+  - infopic:
+      title: "W. Somerset Maugham: Secrets from the Outstations"
+      subtitle: People
+      id: infopic
+      description: Somerset Maugham’s visits to Singapore in the 1920s inspired some
+        of his greatest stories, but these also triggered a fierce backlash
+        against him.
+      button: A LITERARY LUMINARY
+      url: /vol-20/issue-4/jan-mar-2025/william-somerset-maugham-secrets/
+      image: /images/Vol 20 Issue 4/Somerset/somerset_facing.jpg
+      alt: Image alt text
 ---
