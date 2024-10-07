@@ -2,7 +2,8 @@ collections:
   holding-area:
     output: true
     order:
-      - Nanjing.md
+      - "Nanjing to Nanyang: Missionary Sojourns to Singapore and Christian
+        Educational Missions in the 1950s.md"
       - Sample Test2.md
       - Sample Test.md
       - Example Title.md
