@@ -10,8 +10,7 @@ notification: ""
 sections:
   - hero:
       url: /vol-20/issue-3/oct-dec-2024/singapore-zoo-animals/
-      button: "Animals, Anxieties and Aspirations: The Earlier Years of the Singapore
-        Zoo"
+      button: The Earlier Years of the Singapore Zoo
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
