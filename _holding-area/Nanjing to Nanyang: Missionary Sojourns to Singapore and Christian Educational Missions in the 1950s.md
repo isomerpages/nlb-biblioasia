@@ -38,7 +38,9 @@ Trinity College was formally founded in 1948 as a Union College and Training Sch
 
 Trinity College in the early 1950s was not focused solely on religious education; it was also a training school for teachers. Many of the early graduates of Trinity College believed their mission fields to be middle schools and were often already working part-time as middle school teachers when studying at the college.[^7] At Trinity’s Chinese Department for instance, which was inaugurated in 1951, only six of 27 students were registered in regular courses in theology – the rest were studying secular subjects, possibly on track to careers as middle school teachers as well.[^8]
 
-
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Nanjing%20to%20Nanyang/Opening_of_TTC.jpg" style="width: 80%;">Founding of Trinity College at No. 7 Mount Sophia. <i>Courtesy of Trinity Theological College.</i></div>
 
 
 
