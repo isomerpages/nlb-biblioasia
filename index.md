@@ -9,13 +9,14 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-15/issue-3/oct-dec-2019/navaratri-golu/
-      button: "Navaratri Golu: The Hindu Festival of Dolls"
+      url: /vol-20/issue-3/oct-dec-2024/singapore-zoo-animals/
+      button: "Animals, Anxieties and Aspirations: The Earlier Years of the Singapore
+        Zoo"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol-15-issue-3/navaratri-golu/Navaratri_Hero_Banner.jpg
+      background: /images/Vol 20 Issue 3/Zoo/HeroImage_zoo.jpg
   - infopic:
       title: Have Your Say
       subtitle: Readership Survey
@@ -25,6 +26,17 @@ sections:
       url: https://go.gov.sg/web-survey
       image: /images/survey_sep24.jpg
       alt: Readership Survey
+  - infopic:
+      title: "W. Somerset Maugham: Secrets from the Outstations"
+      subtitle: People
+      id: infopic
+      description: Somerset Maugham’s visits to Singapore in the 1920s inspired some
+        of his greatest stories, but these also triggered a fierce backlash
+        against him.
+      button: A LITERARY LUMINARY
+      url: /vol-20/issue-4/jan-mar-2025/william-somerset-maugham-secrets/
+      image: /images/Vol 20 Issue 4/Somerset/somerset_facing.jpg
+      alt: Image alt text
   - infopic:
       title: A Kampong for the “Grand Old Man of Singapore”
       subtitle: More Places and Buildings
