@@ -2,7 +2,6 @@ collections:
   holding-area:
     output: true
     order:
-      - Japanese Anglicans in World War Two Singapore.md
       - Sample Test2.md
       - Sample Test.md
       - Example Title.md
