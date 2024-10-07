@@ -33,7 +33,7 @@ Against this background, Japanese Christians needed to tread carefully lest they
 As Director of Education and Religion in Singapore, Lieutenant (later Captain) Ogawa was responsible for liaising with the churches. He served in this post for a relatively short period and was posted to Sumatra, Indonesia, in May 1943. However, his initial cooperation with the churches set the tone for the administration’s policy for the duration of the occupation. The churches in Singapore were treated much more favourably than their counterparts elsewhere in Southeast Asia.
 
 
-![](/images/Vol%2020%20Issue%204/Japanese%20Anglican/anglican_andrew2.jpg)
+![](/images/Vol%2020%20Issue%204/Japanese%20Anglican/anglican_andrew3.jpg)
 <div style="background-color:white;"> Andrew Tokuji Ogawa as a young man in Japan, c. 1930. <i>Courtesy of Rikkyo University Archives. </i></div>
 
 
