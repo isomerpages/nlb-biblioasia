@@ -42,6 +42,16 @@ Trinity College in the early 1950s was not focused solely on religious education
 <br>
 <img src="/images/Online%20Only%20Articles/Nanjing%20to%20Nanyang/Opening_of_TTC.jpg" style="width: 80%;">Founding of Trinity College at No. 7 Mount Sophia. <i>Courtesy of Trinity Theological College.</i></div>
 
+Correspondence between the College’s Principal Theodore Runyan and the Conference of British Missionary Societies in London reveal that its poor finances in its early years necessitated a search for aid from both American and British mission societies, which had surplus resources from China. Accepting these funds meant that the College’s direction and objectives would be diluted by the various agendas of these organisations, depending on their definition of what Christian higher education entailed.[^9]&nbsp;
+
+In 1952, local educational leaders of the Methodist Board of Education, Ho Seng Ong and Ralph Kesselring, made a serious proposal to inaugurate a Christian University College in Malaya, which would see a College of Arts _within_ Trinity College as the possible locus to expand educational offerings for Chinese-educated students with limited tertiary options.[^10] These records (archived at NAS) – of a proposal which ultimately did not come to pass – reflect the ways in which Trinity College was at the outset implicated in much broader debates about access to higher education locally, beyond the scope of clergy-training. &nbsp;
+
+That same year, the American Nanking Theological Seminary’s Board of Founders voted in favour of Trinity College’s expansion and administration. The board was founded in New York in the 1920s to administer the multimillion-dollar estate of the Swope-Wendel Fund that was aimed at supporting theological education in China. China’s changing political context of 1949 led to changes in its original charter, and it sought recommendations for new expenditure elsewhere. The arrival of the board’s representatives, C. Stanley Smith and S.R. Anderson, in Singapore in 1952 were part of a broader push to expend the board’s funds in Southeast Asia as it related to the training of Chinese for Christian ministry.
+
+The board’s vote of affirmation resulted in Smith’s relocation to Singapore as the newly appointed principal of the College, while the steady influx of personnel and financial support reshaped the institution’s direction. For comparison, the reluctant one-time grant of $4,000 from the British Christian Universities Board for the salary of one professor (Frank Balachin of the London Missionary Society) was completely eclipsed by the Nanking Theological Seminary Board of Founders’ $50,000 capital grant for the renovation of the College’s Chinese Department (No. 6 Sophia Road), as well as continued support for student scholarships, faculty aid and more.[^11] 
+
+
+
 
 
   
@@ -68,3 +78,9 @@ Trinity College in the early 1950s was not focused solely on religious education
 [^7]:  S.R. Anderson and C. Stanley Smith, _The Anderson-Smith Report on Theological Education in Southeast Asia: Especially As It Relates to the Training of Chinese for the Christian Ministry: The Report of a Survey Commission, 1951–1952_ (New York: Board of Founders, Nanking Theological Seminary, 1952), 25, from Internet Archive, https://archive.org/details/andersonsmithrep0000ande/page/n3/mode/2up.
 
 [^8]:  Trinity Theological College (Singapore), _[Progress Report From Trinity Theological College, Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200039371)_ (Singapore: Trinity Theological College, 1966). (From PublicationSG)
+
+[^9]:  Conference of British Missionary Societies, “[Conference of British Missionary Societies: Malaya Christian Council \[a\] Correspondence, Rev. J. Fleming, 1951–1958](https://www.nas.gov.sg/archivesonline/private_records/record-details/e16c2777-115b-11e3-83d5-0050568939ad),” Noel Slater to Rev Stanley Dixon, 15 October 1951, private records. (From National Archives of Singapore, microfilm NAF 00020 /1); Conference of British Missionary Societies, “[Conference of British Missionary Societies: Malaya Christian Council \[a\] Correspondence, Rev. J. Fleming, 1951–1958](https://www.nas.gov.sg/archivesonline/private_records/record-details/e16c2777-115b-11e3-83d5-0050568939ad),” T. Runyan to the Rev. Stanley Dixon, 9 February, 1952, private records. (From National Archives of Singapore, microfilm NAF 00020 /1). F.S. Drake, missionary Sinologist of the Baptist Missions Board eventually took up the position of Chair in Chinese at Hong Kong University.
+
+[^10]:  Conference of British Missionary Societies, “[Conference of British Missionary Societies: Malaya Christian Council \[a\] Correspondence, Rev. J. Fleming, 1951–1958](https://www.nas.gov.sg/archivesonline/private_records/record-details/e16c2777-115b-11e3-83d5-0050568939ad).”
+
+[^11]:  _At The Crossroads_, 154. Subsequently, what inaugural President Runyan termed an “affiliated relationship” with the Nanking Board helped Trinity College realise the possibilities of its strategic situation in Southeast Asia.
