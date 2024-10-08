@@ -153,4 +153,4 @@ Revisiting the sojourns of these two missionaries from Nanjing to Singapore, and
 
 [^24]:  Thio, “The People Whom We Met and General Impressions.”
 
-[^25]:  Sng, _[In His Good Time](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12253210), 210.&nbsp;
+[^25]:  Sng, <i>[In His Good Time](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12253210)</i>, 210.&nbsp;
