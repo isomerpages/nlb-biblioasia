@@ -74,7 +74,9 @@ In 1954, the Students Christian Centre was approved by the University Council to
 
 Between 1954 and 1958, 9 Adam Road was used as a community centre and 11 Adam Road as a hostel for 12 female students. As noted in a 1955 publicity brochure, the Students Christian Centre (referred to now as a University Christian Centre)&nbsp;was envisaged as a space where students were welcome to share in the programme of Christian fellowship, study and worship. Although not officially part of the university, its proximity to the University of Malaya and close participation of the university’s faculty, made a deeper engagement with the university possible. This close relationship was exemplified by the Centre’s dedication ceremony, which was hosted by Anglican Bishop of Singapore Henry Baines, and where Vice-Chancellor Sir Sydney Caine gave the opening address to students of the university’s SCM.[^18] Two faculty members, T.H. Silcock and T.A. Lloyd Davies, Professor of Economics and Professor of Social Medicine and Public Health respectively, were appointed to the Board.
 
-
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Nanjing%20to%20Nanyang/dedication.png" style="width: 80%;">Dedication of the University of Malaya’s Students Christian Centre. Present are the Rev Hobart Amstutz, Chair of the Board, and Sir Sydney Caine, Vice-Chancellor of the university. <i>Source: The Straits Times, 25 February 1955 © SPH Media Limited. Permission required for reproduction.</i></div>
 
   
 
