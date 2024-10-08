@@ -58,6 +58,30 @@ Smith’s leadership and the Nanking Theological Seminary Board of Founders’ a
 
 Trinity Theological College’s rapid development to becoming the pre-eminent theological seminary in Southeast Asia was notable. However, a renewed focus on clergy training and theological education, foreclosed participation on contemporaneous debates surrounding the question of secular higher education in the colony, particularly, the rapid development of the University of Malaya as the only degree-granting institution in Singapore. A decade later, a senior member of the Trinity’s staff would lament the total lack of contact between the college and the parallel worlds of (secular) higher education in Singapore, to an extent that the theological college was like “living in a ghetto” intellectually, which was most undesirable.[^12]
 
+#### William P. Fenn, the University of Malaya’s Students Christian Centre and Christians on University Campuses
+
+The case of William P. Fenn and the United Board for Christian Colleges in China’s (United Board) expansion of its China missions into Singapore and elsewhere in Asia, represents a variation on the same theme – of competing visions of how missionaries could contribute to local educational interests. The crucial difference, however, lay in the educational emphasis of these two New York-based mission boards, who defined their missions differently. Where the Nanking Theological Seminary’s Board of Founders aimed explicitly to train ministers and church workers, the United Board’s charter adopted a much more expansive definition of missions – “for any purpose contributing to Christian higher education…or for educational assistance to Chinese and other Far Eastern students.”[^13]
+
+In fact, Fenn’s first trip to Malaya was not as a missionary, but as an educational consultant to the Federation Government. As he noted in correspondences with missionaries in London concerned about opportunities for missions work among the Chinese in Malaya, Fenn was “sorely tempted” to advise the government on the need for expanded Chinese higher education, but it was beyond the purview of his assigned work.[^14]
+
+One of the immediate products of Fenn’s brief sojourn in Singapore and Malaya, is the oft-forgotten Students Christian Centre at the University of Malaya’s Bukit Timah Campus. For Fenn, an expansive vision of Christian missions was best enacted through spaces of community building, residential living and educational exchange not confined to university curriculum or church walls. On 6 May 1952, the United Board provided an initial appropriation of US$50,000 to be administered by the Malayan Christian Council (MCC) and university authorities. Articulated to Vice-Chancellor Sydney Caine in an initial memorandum:
+
+“Residence would not be confined to students from Christian homes, and it was _not_ a Christian hostel in any narrow sectarian or denominational sense, but it would aim to be a centre where the Christian faith would be upheld, discussed, presented in a way suitable to a university environment, with due consideration of the fact that the University exists or will exist in a Muslim state.”[^15]
+
+In addition, Fenn proposed to leverage the intellectual resources of the Christian faculty to create a non-credit educational centre where residents and students could “share in the challenges of our time and the cultural riches of east and west.”[^16]
+
+In 1954, the Students Christian Centre was approved by the University Council to provide a meeting place for Christians and other students, along with hostel accommodations for women. Two bungalow properties close to the university (9-11 Adam Road) were purchased with the United Board’s funds by the MCC with the intention to fully participate in university life. Staffers at the institute included Australian educator Jean Waller, assistant librarian at the University of Malaya and representative of the Student Christian Movement (SCM), and later, Fred Karat, a missionary professor from Madras Christian College also associated with the SCM. Khoo Oon Teik, a distinguished graduate and tutor at the medical school, was appointed as coordinator with local churches. At least some members of the student body of the university recalled the Students Christian Centre as “university chaplains,” reflecting their officially sanctioned presence within the university.[^17]
+
+Between 1954 and 1958, 9 Adam Road was used as a community centre and 11 Adam Road as a hostel for 12 female students. As noted in a 1955 publicity brochure, the Students Christian Centre (referred to now as a University Christian Centre)&nbsp;was envisaged as a space where students were welcome to share in the programme of Christian fellowship, study and worship. Although not officially part of the university, its proximity to the University of Malaya and close participation of the university’s faculty, made a deeper engagement with the university possible. This close relationship was exemplified by the Centre’s dedication ceremony, which was hosted by Anglican Bishop of Singapore Henry Baines, and where Vice-Chancellor Sir Sydney Caine gave the opening address to students of the university’s SCM.[^18] Two faculty members, T.H. Silcock and T.A. Lloyd Davies, Professor of Economics and Professor of Social Medicine and Public Health respectively, were appointed to the Board.
+
+
+
+  
+
+
+
+
+
   
 
 
@@ -93,3 +117,15 @@ Trinity Theological College’s rapid development to becoming the pre-eminent th
 [^11]:  _At The Crossroads_, 154. Subsequently, what inaugural President Runyan termed an “affiliated relationship” with the Nanking Board helped Trinity College realise the possibilities of its strategic situation in Southeast Asia.
 
 [^12]:  Thio Chan Bee. “The People Whom We Met and General Impressions,” in _“__Collected Materials, Malaya/Singapore, 1966-1967__.”_ Yale Divinity Library, Records of the United Board for Christian Higher Education in Asia, New Haven, CT. (RG 11A, Box 65A Folder 869.)
+
+[^13]:  William P. Fenn, _Ever New Horizons: The Story of the United Board for Christian Higher Education in Asia_ (New York: Mennonite Press, 1980)_,_ 68.
+
+[^14]:  The National Archives (United Kingdom), “[Colonial Office - Federated Malay States: Original Correspondence: Education Policy. Fenn Wu Report](https://www.nas.gov.sg/archivesonline/private_records/record-details/e592737a-115b-11e3-83d5-0050568939ad),” 1 January 1950–31 December 1951, private records. (From National Archives of Singapore, accession no. CO 717/191/52336/3; microfilm NAB 1064)
+
+[^15]:  William Fleming (Malaya Christian Council) to Sidney Caine (Vice-Chancellor of the University of Malaya), 25 September 1952, see University of Malaya (UM), “[Christian Hostel Centre From Malayan Christian Council](https://www.nas.gov.sg/archivesonline/government_records/record-details/10161878-115a-11e3-83d5-0050568939ad),” (1952–1957). (From National Archives of Singapore, reference no. U.M.154/52; microfilm AM 052)
+
+[^16]:  University of Malaya (UM), “[Christian Hostel Centre From Malayan Christian Council](https://www.nas.gov.sg/archivesonline/government_records/record-details/10161878-115a-11e3-83d5-0050568939ad).”
+
+[^17]:  Interview with Professor Lee Soo Ann, 25 September 2024.
+
+[^18]:  “[Christian Centre](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19550211-1.2.101),” _Straits Times,_ 11 February 1955, 4. (From NewspaperSG)
