@@ -7,14 +7,13 @@ image: /images/Podcast/Irene_600_400.jpg
 third_nav_title: He Wrote the National Pledge
 ---
 <p><strong>Irene</strong> 
-<br>When he became foreign minister in ’65, he was actually in Malaysia on
-the 8th of August. The appointment was made. He only arrived back in Singapore
-on the ninth. And so when he arrived in the airport, the questions were
-being fired by the reporter. What is Singapore’s foreign policy? He had
-to literally make it up on the fly. He was unbriefed. He didn’t even have
-a chance to meet the Prime Minister Lee Kuan Yew yet. He had no discussion
-with his cabinet colleagues about what should be Singapore’s foreign policy.
-He formed it right from the get-go.</p>
+<br>When he became foreign minister in ’65, he was actually in Malaysia. And
+so when he arrived at the airport, the questions were being fired by the
+reporter. What is Singapore’s foreign policy? He had to literally make
+it up on the fly. He was unbriefed. He didn’t even have a chance to meet
+the Prime Minister Lee Kuan Yew yet. He had no discussion with his cabinet
+colleagues about what should be Singapore’s foreign policy. He formed it
+right from the get-go.</p>
 <p><strong>Jimmy</strong> 
 <br>On the fly, as it were.</p>
 <p><strong>Irene</strong> 
@@ -389,14 +388,13 @@ what do you think is his main legacy in Singapore’s foreign policy? And
 I know it’s a hard question to answer because he was there for so long,
 and he was there at a very critical moment when there was no MFA.</p>
 <p><strong>Irene</strong> 
-<br>When he became foreign minister in ’65, he was actually in Malaysia, on
-the 8 August. The appointment was made. He only arrived back in Singapore
-on the ninth. And so when he arrived in the airport, the questions were
-being fired by the reporter. What is Singapore’s foreign policy? He had
-to literally make it up on the fly. He was unbriefed. He didn’t even have
-a chance to meet the Prime Minister Lee Kuan Yew yet. He had no discussion
-with his cabinet colleagues about what should be Singapore’s foreign policy.
-He formed it right from the get-go.</p>
+<br>When he became foreign minister in ’65, he was actually in Malaysia. And
+so when he arrived at the airport, the questions were being fired by the
+reporter. What is Singapore’s foreign policy? He had to literally make
+it up on the fly. He was unbriefed. He didn’t even have a chance to meet
+the Prime Minister Lee Kuan Yew yet. He had no discussion with his cabinet
+colleagues about what should be Singapore’s foreign policy. He formed it
+right from the get-go.</p>
 <p><strong>Jimmy</strong> 
 <br>On the fly, as it were.</p>
 <p><strong>Irene</strong> 
