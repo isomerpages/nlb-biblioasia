@@ -5,7 +5,7 @@ permalink: /holding-area/nanjing/
 variant: markdown
 description: ""
 ---
-#### Upheaval in China saw missionaries shifting their sights and resources to Singapore and the region, establishing related institutions and reaching the masses through education.
+#### **Upheaval in China saw missionaries shifting their sights and resources to Singapore and the region, establishing related institutions and reaching the masses through education.**
 By Joshua Tan
 
 In January 1955, two American missionaries, C. Stanley Smith and William P. Fenn, serendipitously met each other in Singapore. Both were previously Protestant missionary professors in Nanjing, the capital city of Republican China – Fenn at Nanking University (Jinling Daxue) and Smith at Nanking Theological Seminary. Having been exiled from the original “mission fields” in China, they found themselves in Singapore, working on new missions among Chinese students in the diaspora.
@@ -50,8 +50,15 @@ That same year, the American Nanking Theological Seminary’s Board of Founders 
 
 The board’s vote of affirmation resulted in Smith’s relocation to Singapore as the newly appointed principal of the College, while the steady influx of personnel and financial support reshaped the institution’s direction. For comparison, the reluctant one-time grant of $4,000 from the British Christian Universities Board for the salary of one professor (Frank Balachin of the London Missionary Society) was completely eclipsed by the Nanking Theological Seminary Board of Founders’ $50,000 capital grant for the renovation of the College’s Chinese Department (No. 6 Sophia Road), as well as continued support for student scholarships, faculty aid and more.[^11] 
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Nanjing%20to%20Nanyang/diploma_TC_Nga.jpg" style="width: 80%;">C. Stanley Smith presenting a graduation diploma to T.C. Nga (left). She was the sole recipient of the diploma in kindergarten science at Trinity College in 1954, as Trinity’s identity as a training school was phased out in favour of theological education and clergy-training. <i>Source: The Straits Times © SPH Media Limited. Reprinted with permission.</i></div>
 
+Smith’s leadership and the Nanking Theological Seminary Board of Founders’ aid saw the College making significant changes. First, it was renamed Trinity Theological College, with the foremost priority of staffing the church. Second, academic programmes in non-theological subjects were phased out by 1956, while two degree-tracks in theological studies (in English and Chinese) were offered. Third, the College’s faculty was bolstered by an influx of veteran former China missionaries, such as John Fleming and Olin Stockwell. The students of such missionaries who were educated in pre-1949 China, like Anna Ling (graduate of Nanking Theological Seminary) and Enid Liu (Liu Bao-Ying, graduate of Ginling Women’s College in Nanjing) also subsequently joined Trinity’s faculty.
 
+Trinity Theological College’s rapid development to becoming the pre-eminent theological seminary in Southeast Asia was notable. However, a renewed focus on clergy training and theological education, foreclosed participation on contemporaneous debates surrounding the question of secular higher education in the colony, particularly, the rapid development of the University of Malaya as the only degree-granting institution in Singapore. A decade later, a senior member of the Trinity’s staff would lament the total lack of contact between the college and the parallel worlds of (secular) higher education in Singapore, to an extent that the theological college was like “living in a ghetto” intellectually, which was most undesirable.[^12]
+
+  
 
 
   
@@ -84,3 +91,5 @@ The board’s vote of affirmation resulted in Smith’s relocation to Singapore 
 [^10]:  Conference of British Missionary Societies, “[Conference of British Missionary Societies: Malaya Christian Council \[a\] Correspondence, Rev. J. Fleming, 1951–1958](https://www.nas.gov.sg/archivesonline/private_records/record-details/e16c2777-115b-11e3-83d5-0050568939ad).”
 
 [^11]:  _At The Crossroads_, 154. Subsequently, what inaugural President Runyan termed an “affiliated relationship” with the Nanking Board helped Trinity College realise the possibilities of its strategic situation in Southeast Asia.
+
+[^12]:  Thio Chan Bee. “The People Whom We Met and General Impressions,” in _“__Collected Materials, Malaya/Singapore, 1966-1967__.”_ Yale Divinity Library, Records of the United Board for Christian Higher Education in Asia, New Haven, CT. (RG 11A, Box 65A Folder 869.)
