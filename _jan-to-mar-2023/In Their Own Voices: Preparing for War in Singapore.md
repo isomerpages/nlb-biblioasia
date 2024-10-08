@@ -5,6 +5,7 @@ description: Before the fall of Singapore in 1942, people prepared for the
   imminent war by stockpiling food, building air raid shelters and volunteering
   in civil defence units.
 image: /images/Vol 18 Issue 4/War in Singapore/1e.png
+variant: markdown
 ---
 #### Before the fall of Singapore in 1942, people prepared for the imminent war by stockpiling food, building air raid shelters and volunteering in civil defence units.
 By Christabel Khoo and Mark Wong
@@ -147,10 +148,10 @@ This destruction of records during wartime, both deliberate and accidental, unde
 [^1]: Lee Geok Boi, [*The Syonan Years: Singapore under Japanese Rule 1942–1945*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12661517) (Singapore: National Archives of Singapore and Epigram Pte Ltd, 2005), 44. (From National Library, Singapore, call no. RSING q940.53957 LEE-[WAR])
 
 
-[^2]: Toh Mah Keong, oral history interview by Lim How Seng, 27 December 1979, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/c/caf843a2-1160-11e3-83d5-0050568939ad-OHC000001_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=5) and MP3 audio, Reel/Disc of 2 of 10, National Archives of Singapore ([accession no. 000001](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/caf843a2-1160-11e3-83d5-0050568939ad), 18.
+[^2]: Toh Mah Keong, oral history interview by Lim How Seng, 27 December 1979, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/c/caf843a2-1160-11e3-83d5-0050568939ad-OHC000001_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=5) and MP3 audio, Reel/Disc of 2 of 10, National Archives of Singapore ([accession no. 000001](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/caf843a2-1160-11e3-83d5-0050568939ad)), 18.
 
 
-[^3]: Soh Guan Bee, oral history interview by Low Lay Leng, 17 August 1983, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e685a37a-115d-11e3-83d5-0050568939ad-OHC000310_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=13) and MP3 audio, Reel/Disc 1 of 10, National Archives of Singapore ([accession no. 000310](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/e685a37a-115d-11e3-83d5-0050568939ad), 8–9.
+[^3]: Soh Guan Bee, oral history interview by Low Lay Leng, 17 August 1983, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e685a37a-115d-11e3-83d5-0050568939ad-OHC000310_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=13) and MP3 audio, Reel/Disc 1 of 10, National Archives of Singapore ([accession no. 000310](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/e685a37a-115d-11e3-83d5-0050568939ad)), 8–9.
 
 [^4]: Tan Ban Cheng, oral history interview by Low Lay Leng, 25 January 1979,&nbsp;[transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e7e9ea71-115d-11e3-83d5-0050568939ad-OHC000392_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=5)&nbsp;and MP3 audio Reel/Disc 1 of 9, National Archives of Singapore ([accession no. 000392](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000392)), 7.
 
@@ -182,7 +183,7 @@ This destruction of records during wartime, both deliberate and accidental, unde
 
 [^18]: [Rajabali Jumabhoy](https://www.nas.gov.sg/archivesonline/flipviewer/publish/2/2c06d5d4-115f-11e3-83d5-0050568939ad-OHC000074_011/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=3), oral history interview, 15 July 1981, Reel/Disc 11 of 37, 73–74.
 
-[^19]: Isa Ibrahim, oral history interview by Low Lay Leng, 6 January 1983,&nbsp;[transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e4e19c80-115d-11e3-83d5-0050568939ad-OHC000242_011/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=5)&nbsp;and MP3 audio, Reel/Disc 11 of 28, National Archives of Singapore ([accession no. 000242](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/e4e19c80-115d-11e3-83d5-0050568939ad), 137.
+[^19]: Isa Ibrahim, oral history interview by Low Lay Leng, 6 January 1983,&nbsp;[transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e4e19c80-115d-11e3-83d5-0050568939ad-OHC000242_011/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=5)&nbsp;and MP3 audio, Reel/Disc 11 of 28, National Archives of Singapore ([accession no. 000242](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/e4e19c80-115d-11e3-83d5-0050568939ad)), 137.
 
 [^20]: Lee, [*The Syonan Years*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12661517), 44.
 
