@@ -100,31 +100,10 @@ Indeed, institutions founded in the early 1950s – such as Trinity Theological 
 
 Revisiting the sojourns of these two missionaries from Nanjing to Singapore, and their separate trajectories, reveals the unexpected travails for contemporary spaces and institutions, possibilities for blurring divisions between secular and religious spaces, and the narrowing of those possibilities. They provide context to diverse forms of educational activism amid Singapore’s decolonisation of the 1950s, while offering alternative exemples of Christian missions and community engagement in the present.
 
-  
+<div style="background-color: white;">
+<img style="width: 100px; height: 100px;" src="/images/Online%20Only%20Articles/Nanjing%20to%20Nanyang/author_profile_photo.png"><b>Joshua Tan</b>is a historian of modern China and the Chinese diaspora, with an interest in the religious and educational politics in Cold War Asia. He is currently a postdoctoral fellow in the department of history at the National University of Singapore and is working on a book about American-Asian educational partnerships during the Cold War.</div>  
 
-
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-
-  
-
-
-
-
-
-
-#### Notes
+#### **Notes**
 
 [^1]:  A broader discussion is drawn from Joshua Tan’s “Schooling Free Asia: Diasporic Chinese and Educational Activism in the Transpacific Cold War.” Ph.D. Dissertation, University of California, Santa Cruz.
 
