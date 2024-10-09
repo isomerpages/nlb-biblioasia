@@ -156,7 +156,7 @@ Sakurai visited Singapore for the last time in 2006. He had learnt of the openin
 <div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
 I thank Sharon Lim, producer of the video <i>Unity of Faith: The Story of St Andrew's Cathedral During World War II</i> (https://www.youtube.com/watch?v=5J8q1zD48GY), who provided the initial impetus for this research by inviting me to contribute to the St Andrew’s Cathedral project. Joseph Thambiah recently wrote a book on the Anglican Church in the war, <i>Providence in Adversity: World War 2 and the Anglican Church in Singapore</i> (2022). This article builds on both projects by providing more details on the Japanese Anglicans and their motivations.&nbsp;
 <br><br>
-In Japan, I am grateful for the support of Jean Ogawa (Andrew Tokuji Ogawa’s daughter), Mrs Hiroko Ito (Tadashi Matsumoto’s youngest daughter), Reverend Isao Uematsu (nephew to both Tadashi Matsumoto and Taka Sakurai), Hidekazu Miyagawa (Rikkyo University Archives) and Thomas Takao Nagai (Church of the Resurrection, Chiba).&nbsp;
+In Japan, I am grateful for the support of Jean Ogawa (Andrew Tokuji Ogawa’s daughter), Mrs Hiroko Ito (Tadashi Matsumoto’s youngest daughter), Reverend Isao Uematsu (nephew to both Tadashi Matsumoto and Taka Sakurai), Hidekazu Miyagawa and Masaaki Miyamoto (Rikkyo University Archives), and Thomas Takao Nagai (Church of the Resurrection, Chiba).&nbsp;
 <br><br>
 Yusuke Tanaka helped with background information on the Japanese in Canada. My wife Miyoko Kobayashi provided linguistic and much other support throughout.<br></div>
 
