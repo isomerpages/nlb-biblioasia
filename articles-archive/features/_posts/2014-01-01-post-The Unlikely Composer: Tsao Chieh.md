@@ -166,7 +166,7 @@ Phang, M.Y. (1994, March 23). [Music notes](http://eresources.nlb.gov.sg/newspap
 
 Sasitharan, T. (1989, January 9). [Local composers merit patronage](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890109-1.2.61.9.1).  <i>The Straits Times</i>, p. 5. Retrieved from NewspaperSG.
 
-Sng, S. (Interviewer). (2006, March 28). *[Oral history interview with Tan Kim Swee](https://www.nas.gov.sg/archivesonline/flipviewer/publish/a/afdec841-1160-11e3-83d5-0050568939ad-OHC002992_027/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=11)* (Transcript of MP3 recording no. 002992/34/27, pp. 713–738). Retrieved from National Archives of Singapore website. 
+Sng, S. (Interviewer). (2006, March 28). *[Oral history interview with Tan Kim Swee](https://www.nas.gov.sg/archivesonline/flipviewer/publish/a/afdec841-1160-11e3-83d5-0050568939ad-OHC002992_027/web/html5/index.html)* (Transcript of MP3 recording no. 002992/34/27, pp. 713–738). Retrieved from National Archives of Singapore website. 
 
 Stanford University. (1985, April 24). <i>Campus report</i>. Retrieved from Stanford University website. 
 
