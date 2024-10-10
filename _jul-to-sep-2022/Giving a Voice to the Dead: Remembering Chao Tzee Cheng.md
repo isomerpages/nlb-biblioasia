@@ -108,15 +108,15 @@ In his eulogy, Chao’s nephew Dr Wong Chiang Yin, who was also the Honorary Sec
 
 [^1]: Sng Ewe Hui Jimmy, [*The Science of Medical Detection: 100 Years of Pathology, 1903–2003*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=12280384) (Singapore: Department of Pathology, Singapore General Hospital, 2003), 52, 85. (From National Library, Singapore, call no. RSING q616.0095957 SNG)
 
-[^2]: [Chao Tzee Cheng](https://www.nas.gov.sg/archivesonline/flipviewer/publish/c/c14b64ac-115f-11e3-83d5-0050568939ad-OHC001573_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=11), oral history interview by Lee Liang Chian, 14 October 1995, transcript and MP3 audio, Reel/Disc 1 of 7, National Archives of Singapore (accession no. 001573), 1–5.
+[^2]: [Chao Tzee Cheng](https://www.nas.gov.sg/archivesonline/flipviewer/publish/c/c14b64ac-115f-11e3-83d5-0050568939ad-OHC001573_001/web/html5/index.html), oral history interview by Lee Liang Chian, 14 October 1995, transcript and MP3 audio, Reel/Disc 1 of 7, National Archives of Singapore (accession no. 001573), 1–5.
 
-[^3]: [Chao Tzee Cheng](https://www.nas.gov.sg/archivesonline/flipviewer/publish/c/c14b64ac-115f-11e3-83d5-0050568939ad-OHC001573_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=11), oral history interview, 14 Oct 1995, Reel/Disc 1 of 7, 8–10.
+[^3]: [Chao Tzee Cheng](https://www.nas.gov.sg/archivesonline/flipviewer/publish/c/c14b64ac-115f-11e3-83d5-0050568939ad-OHC001573_001/web/html5/index.html), oral history interview, 14 Oct 1995, Reel/Disc 1 of 7, 8–10.
 
-[^4]: [Chao Tzee Cheng](https://www.nas.gov.sg/archivesonline/flipviewer/publish/c/c14b64ac-115f-11e3-83d5-0050568939ad-OHC001573_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=11), interview, 14 Oct 1995, Reel/Disc 1 of 7, 13–14.
+[^4]: [Chao Tzee Cheng](https://www.nas.gov.sg/archivesonline/flipviewer/publish/c/c14b64ac-115f-11e3-83d5-0050568939ad-OHC001573_001/web/html5/index.html), interview, 14 Oct 1995, Reel/Disc 1 of 7, 13–14.
 
 [^5]: Gregory Vijayendran, “Dead Men do Tell Tales,” *Law Gazette: An Official Publication of the Law Society of Singapore*, June 2000, https://v1.lawgazette.com.sg/2000-6/focus2.htm.
 
-[^6]: [Chao Tzee Cheng](https://www.nas.gov.sg/archivesonline/flipviewer/publish/3/3b10ccf8-115e-11e3-83d5-0050568939ad-OHC001573_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), interview, 14 Oct 1995, Reel/Disc 2 of 7, 27.
+[^6]: [Chao Tzee Cheng](https://www.nas.gov.sg/archivesonline/flipviewer/publish/3/3b10ccf8-115e-11e3-83d5-0050568939ad-OHC001573_002/web/html5/index.html), interview, 14 Oct 1995, Reel/Disc 2 of 7, 27.
 
 [^7]: Chao Tzee Cheng and Audrey Perera, [*Murder Is My Business: Medical Investigations into Crime*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=9857807) (Singapore: Landmark Books, 1999), 17–26. (From National Library, Singapore, call no. RSING 364.152095957 CHA); T.F. Hwang, “[Fiancee Murder Trial: Defence Surprised](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19700321-1.2.31),” *Straits Times*, 21 March 1970, 4; “[The Case of the ‘Butterfly’ Death](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20000305-1.2.6.5),” *New Paper*, 5 March 2000, 9. (From NewspaperSG)
 
@@ -144,7 +144,7 @@ In his eulogy, Chao’s nephew Dr Wong Chiang Yin, who was also the Honorary Sec
 
 [^19]: “[Spyros Last Major Tanker Blast CID Investigated](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19900316-1.2.7.2),” *New Paper*, 16 March 1990, 4. (From NewspaperSG)
 
-[^20]: [Chao Tzee Cheng](https://www.nas.gov.sg/archivesonline/flipviewer/publish/3/32753d24-115e-11e3-83d5-0050568939ad-OHC001573_006/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), interview, 14 Nov 1995, Reel/Disc 6 of 7, 88.
+[^20]: [Chao Tzee Cheng](https://www.nas.gov.sg/archivesonline/flipviewer/publish/3/32753d24-115e-11e3-83d5-0050568939ad-OHC001573_006/web/html5/index.html), interview, 14 Nov 1995, Reel/Disc 6 of 7, 88.
 
 [^21]: “[Beware the Killers in Your Home](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19750830-1.2.27.1),” *New Nation*, 30 August 1975, 18/19. (From NewspaperSG); National Safety First Council of Singapore, [*10th Anniversary Souvenir Magazine, 1966–1976*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=4980773) (Singapore: The Council, 1976), 87–100. (From National Library, Singapore, call no. RCLOS 614.80605957 NAT)
 
@@ -160,7 +160,7 @@ In his eulogy, Chao’s nephew Dr Wong Chiang Yin, who was also the Honorary Sec
 
 [^27]: Leslie Fong, “[Move to Curb Drunken Driving](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19741108-1.2.6),” *Straits Times*, 8 November 1974, 1; “[Drinking and Driving: The Real Danger](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750811-1.2.60),” *Straits Times*, 11 August 1975, 11; “[Drunken Driving Arrests: Now Blood Test Is Obligatory](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19760326-1.2.47.1),” *Straits Times*, 26 March 1976, 9. (From NewspaperSG)
 
-[^28]: [Chao Tzee Cheng](https://www.nas.gov.sg/archivesonline/flipviewer/publish/c/c14b64ac-115f-11e3-83d5-0050568939ad-OHC001573_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=11), 14 Oct 1995, Reel/Disc 1 of 7; Christina Cheang, “[Move to Form a Society for Lawyers, Doctors](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720519-1.2.112),” *Straits Times*, 19 May 1972, 19. (From NewspaperSG)
+[^28]: [Chao Tzee Cheng](https://www.nas.gov.sg/archivesonline/flipviewer/publish/c/c14b64ac-115f-11e3-83d5-0050568939ad-OHC001573_001/web/html5/index.html), 14 Oct 1995, Reel/Disc 1 of 7; Christina Cheang, “[Move to Form a Society for Lawyers, Doctors](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720519-1.2.112),” *Straits Times*, 19 May 1972, 19. (From NewspaperSG)
 
 [^29]: Chee, “Citation of 1998 SMA Honorary Membership, Prof Chao Tzee Cheng.”
 
