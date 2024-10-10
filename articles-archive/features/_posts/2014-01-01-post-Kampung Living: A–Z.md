@@ -373,7 +373,7 @@ Ye Ye Orh…sajer. (2009, April 16). <i>Zero point</i>. Retrieved from Percicila
 
 [^25]: <i>Tengok tu macam tak ada pape</i>. (2012, October 16). Retrieved from Facebook.com website. 
 
-[^26]: Chew, D. (Interviewer). (1984, January 17). *[Oral history interview with Mabel Martens](https://www.nas.gov.sg/archivesonline/flipviewer/publish/5/50af28e8-115f-11e3-83d5-0050568939ad-OHC000388_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=7)*. [Transcript of MP3 recording no. 000388/06/02, p. 20]. Retrieved from National Archives of Singapore website. 
+[^26]: Chew, D. (Interviewer). (1984, January 17). *[Oral history interview with Mabel Martens](https://www.nas.gov.sg/archivesonline/flipviewer/publish/5/50af28e8-115f-11e3-83d5-0050568939ad-OHC000388_002/web/html5/index.html)*. [Transcript of MP3 recording no. 000388/06/02, p. 20]. Retrieved from National Archives of Singapore website. 
 
 [^27]: [An upcountry tourist in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19491231-1.2.95.1). (1949, December 31). <i>The Straits Times</i>, p. 9. Retrieved from NewspaperSG.
 
