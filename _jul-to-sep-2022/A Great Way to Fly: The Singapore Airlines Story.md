@@ -173,15 +173,15 @@ The opening of SIA’s new flagship SilverKris and KrisFlyer Gold lounges at Cha
 
 [^21]: “World's Best Economy Class Airlines 2021,” Skytrax World Airline Awards, accessed 16 June 2022, https://www.worldairlineawards.com/worlds-best-economy-class-airlines-2021/.
 
-[^22]: [Lim](https://www.nas.gov.sg/archivesonline/flipviewer/publish/9/949e2139-1160-11e3-83d5-0050568939ad-OHC002358_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), interview, 5 Sep 2000, 15–16.
+[^22]: [Lim](https://www.nas.gov.sg/archivesonline/flipviewer/publish/9/949e2139-1160-11e3-83d5-0050568939ad-OHC002358_002/web/html5/index.html), interview, 5 Sep 2000, 15–16.
 
-[^23]: [Lim](https://www.nas.gov.sg/archivesonline/flipviewer/publish/9/949e2139-1160-11e3-83d5-0050568939ad-OHC002358_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), interview, 5 Sep 2000, 16.
+[^23]: [Lim](https://www.nas.gov.sg/archivesonline/flipviewer/publish/9/949e2139-1160-11e3-83d5-0050568939ad-OHC002358_002/web/html5/index.html), interview, 5 Sep 2000, 16.
 
 [^24]: Lee Kuan Yew, [*From Third World to First: The Singapore Story, 1965–2000: Memoirs of Lee Kuan Yew*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=9981172) (Singapore: Times Editions: Singapore Press Holdings, 2000), 229. (From National Library, Singapore, call no. RSING 959.57092 LEE); [Lim](https://www.nas.gov.sg/archivesonline/flipviewer/publish/9/949e2139-1160-11e3-83d5-0050568939ad-OHC002358_002/web/html5/index.html), interview, 5 Sep 2000, 16.
 
 [^25]: Ken Hickson, [*Mr SIA: Fly Past*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=201057444) (Singapore: World Scientific Publishing, 2014), 83–84; [Lim](https://www.nas.gov.sg/archivesonline/flipviewer/publish/9/949e2139-1160-11e3-83d5-0050568939ad-OHC002358_002/web/html5/index.html), interview, 5 Sep 2000, 17.
 
-[^26]: [Lim](https://www.nas.gov.sg/archivesonline/flipviewer/publish/9/949e2139-1160-11e3-83d5-0050568939ad-OHC002358_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), interview, 5 Sep 2000, 18; Agnes Wee, “[Germany Accuses SIA of Undercutting](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19811113-1.2.4),” *Business Times*, 13 November 1981, 1; “[An End to the Turbulence](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19811212-1.2.92),” *Straits Times*, 12 December 1981, 16. (From NewspaperSG)
+[^26]: [Lim](https://www.nas.gov.sg/archivesonline/flipviewer/publish/9/949e2139-1160-11e3-83d5-0050568939ad-OHC002358_002/web/html5/index.html), interview, 5 Sep 2000, 18; Agnes Wee, “[Germany Accuses SIA of Undercutting](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19811113-1.2.4),” *Business Times*, 13 November 1981, 1; “[An End to the Turbulence](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19811212-1.2.92),” *Straits Times*, 12 December 1981, 16. (From NewspaperSG)
 
 [^27]: “[Time to Cool Frayed Nerves](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19801202-1.2.21),” *Business Times*, 2 December 1980, 6; “[Troubled Sky](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19801105-1.2.78.1),” *Straits Times*, 5 November 1980, 14. (From NewspaperSG)
 
