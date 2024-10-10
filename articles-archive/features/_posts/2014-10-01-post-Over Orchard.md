@@ -174,7 +174,7 @@ Braddell, R. (1947, April 19). [Memories of ©16 Singapore: Fun and games in sti
 
 [Check in, check out](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20050716-1.2.101.7.2). (2005, July 16). <i>The Straits Times</i>, p. 5. Retrieved from NewspaperSG.
 
-Chew, H.M. (Interviewer). (2006, June 9). *[Oral history interview with Tan Wee Him](https://www.nas.gov.sg/archivesonline/flipviewer/publish/c/c5b8d5ce-1160-11e3-83d5-0050568939ad-OHC003058_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=34)* [Transcript of MP3 recording no. 003058/07/02, pp. 31–64]. Retrieved from National Archives of Singapore.
+Chew, H.M. (Interviewer). (2006, June 9). *[Oral history interview with Tan Wee Him](https://www.nas.gov.sg/archivesonline/flipviewer/publish/c/c5b8d5ce-1160-11e3-83d5-0050568939ad-OHC003058_002/web/html5/index.html)* [Transcript of MP3 recording no. 003058/07/02, pp. 31–64]. Retrieved from National Archives of Singapore.
 
 [Cold storage depot](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19050406-1.2.35.2). (1905, April 6). <i>The Straits Times</i>, p. 5. Retrieved from NewspaperSG.
 
