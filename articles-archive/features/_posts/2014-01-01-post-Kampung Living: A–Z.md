@@ -278,7 +278,7 @@ Lee, A. (1985, October 13). [From kampong girl to a flat-dweller](http://eresour
 
 [Local](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18500809-1.2.5). (1850, August 9). <i>The Singapore Free Press and Mercantile Advertiser</i>, p. 4. Retrieved from NewspaperSG.
 
-Mohd Yussoff Ahmad (Interviewer). (1990, February 7). *[Oral history with Mydeen Kutty Mydeen](https://www.nas.gov.sg/archivesonline/flipviewer/publish/5/5171a952-115e-11e3-83d5-0050568939ad-OHC001117_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=7)* [Transcript of MP3 recording no. 001177/05/02, p. 19]. Retrieved from National Archives of Singapore website.
+Mohd Yussoff Ahmad (Interviewer). (1990, February 7). *[Oral history with Mydeen Kutty Mydeen](https://www.nas.gov.sg/archivesonline/flipviewer/publish/5/5171a952-115e-11e3-83d5-0050568939ad-OHC001117_002/web/html5/index.html)* [Transcript of MP3 recording no. 001177/05/02, p. 19]. Retrieved from National Archives of Singapore website.
 
 Nazerin Harun. (2012, June 7). <i>Pemenggal kepala</i>. Retrieved from nazerihn.blogspot.sg website.
 
