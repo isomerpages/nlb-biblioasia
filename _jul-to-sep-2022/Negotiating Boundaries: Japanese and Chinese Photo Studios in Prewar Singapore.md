@@ -150,9 +150,9 @@ By the end of 1941, the famous Nakajima &amp; Co. in Singapore was forced to clo
 
 [^2]: Mitsuharu Tsukuda, [馬來に於ける邦人活動の現況](https://eresources.nlb.gov.sg/printheritage/detail/95c78961-3249-4f29-869e-72afa0339bbf.aspx) (*Marai ni okeru hōjin katsudō no genkyō*) [*Current Status of the Activities of the Japanese in Malaya*] (Singapore: Nan'yō oyobi Nihonjinsha,1917), 37–48. (From Book SG; accession no. B29262852C). [Note: I would like to thank Mizuka Kimura and Miho Odaka for verifying my understanding of this source. This publication is part of the Lim Shao Bin Collection in the National Library, Singapore.]
 
-[^3]: [Rudy William Mosbergen](https://www.nas.gov.sg/archivesonline/flipviewer/publish/0/03e78fcc-115f-11e3-83d5-0050568939ad-OHC002983_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), oral history interview by Pitt Kuan Wah, 19 September 2005, transcript and MP3 audio, Reel/Disc 1 of 7, 28:25, National Archives of Singapore (accession no. 002983), 3.
+[^3]: [Rudy William Mosbergen](https://www.nas.gov.sg/archivesonline/flipviewer/publish/0/03e78fcc-115f-11e3-83d5-0050568939ad-OHC002983_001/web/html5/index.html), oral history interview by Pitt Kuan Wah, 19 September 2005, transcript and MP3 audio, Reel/Disc 1 of 7, 28:25, National Archives of Singapore (accession no. 002983), 3.
 
-[^4]: [Rudy William Mosbergen](https://www.nas.gov.sg/archivesonline/flipviewer/publish/0/03e78fcc-115f-11e3-83d5-0050568939ad-OHC002983_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), interview, 19 Sep 2005, Reel/Disc 1 of 7, 2, 6. 
+[^4]: [Rudy William Mosbergen](https://www.nas.gov.sg/archivesonline/flipviewer/publish/0/03e78fcc-115f-11e3-83d5-0050568939ad-OHC002983_001/web/html5/index.html), interview, 19 Sep 2005, Reel/Disc 1 of 7, 2, 6. 
 
 [^5]: “[Japanese Go Out of Business](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19411206-1.2.30),” *Malaya Tribune*, 6 December 1941, 3. (From NewspaperSG); Daphne Ang Ming Li, "Constructing Singapore Art History: Portraiture and the Development of Painting and Photography in Colonial Singapore (1819–1959)" (PhD thesis, London, SOAS, University of London, 2017), 316, 393, https://eprints.soas.ac.uk/id/eprint/26662.
 
@@ -174,7 +174,7 @@ By the end of 1941, the famous Nakajima &amp; Co. in Singapore was forced to clo
 
 [^14]: Zhuang, “[From the Archives: The Work of Photographer K.F. Wong](https://biblioasia.nlb.gov.sg/vol-15/issue-2/jul-sep-2019/wong-ken-foo).”
 
-[^15]: [David Ng Shin Chong](https://www.nas.gov.sg/archivesonline/flipviewer/publish/f/f6118535-115d-11e3-83d5-0050568939ad-OHC000670_013/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=5), oral history interview by Ang Siew Ghim, 11 June 1986, transcript and MP3 audio, Reel/Disc 13 of 13, 28:50, National Archives of Singapore (accession no. 000670), 136.
+[^15]: [David Ng Shin Chong](https://www.nas.gov.sg/archivesonline/flipviewer/publish/f/f6118535-115d-11e3-83d5-0050568939ad-OHC000670_013/web/html5/index.html), oral history interview by Ang Siew Ghim, 11 June 1986, transcript and MP3 audio, Reel/Disc 13 of 13, 28:50, National Archives of Singapore (accession no. 000670), 136.
 
 [^16]: For a history of Lee Brothers Studio, see Gretchen Liu, “[Portraits from the Lee Brothers Studio](https://biblioasia.nlb.gov.sg/vol-14/issue-1/apr-jun-2018/portrait-lee-bro-std/),” *BiblioAsia* 14, no. 1 (April–June 2018). [Note: In 1994, more than 2,500 excess or uncollected prints from Lee Brothers were donated to the National Archives of Singapore by Lee Hin Ming, the eldest son of Lee Poh Yan.]
 
@@ -188,37 +188,37 @@ By the end of 1941, the famous Nakajima &amp; Co. in Singapore was forced to clo
 
 [^21]: [Lee Hin Meng](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/3754c339-115f-11e3-83d5-0050568939ad), interview, 17 May 1984, Reel/Disc 1 of 3.  
 
-[^22]: [Wong Kum Fatt](https://www.nas.gov.sg/archivesonline/flipviewer/publish/f/f0fa15ad-115d-11e3-83d5-0050568939ad-OHC000474_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=9), oral history interview by Yao Souchou, 6 October 1984, transcript and MP3 audio, Reel/Disc 1 of 6, 27:56, National Archives of Singapore (accession no. 000474), 7.
+[^22]: [Wong Kum Fatt](https://www.nas.gov.sg/archivesonline/flipviewer/publish/f/f0fa15ad-115d-11e3-83d5-0050568939ad-OHC000474_001/web/html5/index.html), oral history interview by Yao Souchou, 6 October 1984, transcript and MP3 audio, Reel/Disc 1 of 6, 27:56, National Archives of Singapore (accession no. 000474), 7.
 
 [^23]: Elaine Chiew Peck Leng, “Self-Fashioning towards Modernity: Early Chinese Studio Photography of Chinese Women” (unpublished manuscript, 2021), PDF file. This manuscript is prepared for the fulfilment of the Singapore Chinese Cultural Centre grant. 
 
-[^24]: [David Ng Shin Chong](https://www.nas.gov.sg/archivesonline/flipviewer/publish/f/f95e4eaf-115d-11e3-83d5-0050568939ad-OHC000670_004/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), oral history interview by Ang Siew Ghim, 27 May 1986, transcript and MP3 audio, Reel/Disc 4 of 13, 29:26, National Archives of Singapore (accession no. 000670), 37–38.
+[^24]: [David Ng Shin Chong](https://www.nas.gov.sg/archivesonline/flipviewer/publish/f/f95e4eaf-115d-11e3-83d5-0050568939ad-OHC000670_004/web/html5/index.html), oral history interview by Ang Siew Ghim, 27 May 1986, transcript and MP3 audio, Reel/Disc 4 of 13, 29:26, National Archives of Singapore (accession no. 000670), 37–38.
 
 [^25]: 韩山元 [Han Tan Juan], [如何为三千人拍照](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19860818-1.2.21.1.1) [“How to Take a Photograph for Three Thousand People”], 联合晚报 [*Lianhe Wanbao*], 18 August 1986, 8. (From NewspaperSG)
 
-[^26]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e2c7eca4-115d-11e3-83d5-0050568939ad-OHC000334_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=13), oral history interview by Tan Beng Luan, 23 September 1983, transcript and MP3 audio, Reel/Disc 2 of 7, 28:07, National Archives of Singapore (accession no. 000334), 24–28; [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e2c8dfba-115d-11e3-83d5-0050568939ad-OHC000334_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), interview, 23 Sep 1983, Reel/Disc 3 of 7, 30–31.
+[^26]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e2c7eca4-115d-11e3-83d5-0050568939ad-OHC000334_002/web/html5/index.html), oral history interview by Tan Beng Luan, 23 September 1983, transcript and MP3 audio, Reel/Disc 2 of 7, 28:07, National Archives of Singapore (accession no. 000334), 24–28; [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e2c8dfba-115d-11e3-83d5-0050568939ad-OHC000334_003/web/html5/index.html), interview, 23 Sep 1983, Reel/Disc 3 of 7, 30–31.
 
-[^27]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e2c8dfba-115d-11e3-83d5-0050568939ad-OHC000334_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), interview, 23 Sep 1983, Reel/Disc 3 of 7, 34.
+[^27]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e2c8dfba-115d-11e3-83d5-0050568939ad-OHC000334_003/web/html5/index.html), interview, 23 Sep 1983, Reel/Disc 3 of 7, 34.
 
-[^28]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/flipviewer/publish/4/462ce10c-115f-11e3-83d5-0050568939ad-OHC000334_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=9), oral history interview by Tan Beng Luan, 30 September 1983, transcript and MP3 audio, Reel/Disc 1 of 7, 27:54, National Archives of Singapore (accession no. 000333), 5.
+[^28]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/flipviewer/publish/4/462ce10c-115f-11e3-83d5-0050568939ad-OHC000334_001/web/html5/index.html), oral history interview by Tan Beng Luan, 30 September 1983, transcript and MP3 audio, Reel/Disc 1 of 7, 27:54, National Archives of Singapore (accession no. 000333), 5.
 
 [^29]: Song Chin Sing, ed., [*Passage of Time: Singapore Bookstore Stories 1881–2016*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=202743110) (Singapore: Chou Sing Chu Foundation, 2016), 162–65. (From National Library, Singapore, call no. RSING 070.5095957 CHO)
 
-[^30]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e2c8dfba-115d-11e3-83d5-0050568939ad-OHC000334_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), interview, 23 Sep 1983, Reel/Disc 3 of 7, 35. 
+[^30]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e2c8dfba-115d-11e3-83d5-0050568939ad-OHC000334_003/web/html5/index.html), interview, 23 Sep 1983, Reel/Disc 3 of 7, 35. 
 
-[^31]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/flipviewer/publish/4/4635e4e9-115f-11e3-83d5-0050568939ad-OHC000334_004/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), interview 23 Sep 1983, Reel/Disc 4 of 7, 44.
+[^31]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/flipviewer/publish/4/4635e4e9-115f-11e3-83d5-0050568939ad-OHC000334_004/web/html5/index.html), interview 23 Sep 1983, Reel/Disc 4 of 7, 44.
 
-[^32]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/flipviewer/publish/4/4635e4e9-115f-11e3-83d5-0050568939ad-OHC000334_004/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), oral history interview by Tan Beng Luan, 14 October 1983, transcript and MP3 audio, Reel/Disc 4 of 7, 27:38, National Archives of Singapore (accession no. 000333), 49.
+[^32]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/flipviewer/publish/4/4635e4e9-115f-11e3-83d5-0050568939ad-OHC000334_004/web/html5/index.html), oral history interview by Tan Beng Luan, 14 October 1983, transcript and MP3 audio, Reel/Disc 4 of 7, 27:38, National Archives of Singapore (accession no. 000333), 49.
 
-[^33]: [Lim Seng @ Lim Tow Tuan](https://www.nas.gov.sg/archivesonline/flipviewer/publish/2/27a25577-115f-11e3-83d5-0050568939ad-OHC000089_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=8), oral history interview by Tan Beng Luan, 28 December 1983, transcript and MP3 audio, Reel/Disc 2 of 8, 27:53, National Archives of Singapore (accession no. 000089), 12–15.
+[^33]: [Lim Seng @ Lim Tow Tuan](https://www.nas.gov.sg/archivesonline/flipviewer/publish/2/27a25577-115f-11e3-83d5-0050568939ad-OHC000089_002/web/html5/index.html), oral history interview by Tan Beng Luan, 28 December 1983, transcript and MP3 audio, Reel/Disc 2 of 8, 27:53, National Archives of Singapore (accession no. 000089), 12–15.
 
-[^34]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e48669d3-115d-11e3-83d5-0050568939ad-OHC000334_007/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), oral history interview by Tan Beng Luan, 11 November 1983, transcript and MP3 audio, Reel/Disc 7 of 7, 26:58, National Archives of Singapore (accession no. 000334), 82–84.
+[^34]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e48669d3-115d-11e3-83d5-0050568939ad-OHC000334_007/web/html5/index.html), oral history interview by Tan Beng Luan, 11 November 1983, transcript and MP3 audio, Reel/Disc 7 of 7, 26:58, National Archives of Singapore (accession no. 000334), 82–84.
 
 [^35]: 莫美颜 [Mok Mei Ngan], [海南人最早的照相馆](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19980215-1.2.61.1) [“The First Photo Studio of the Hainanese”], 联合早报 [*Lianhe Zaobao*], 15 February 1998, 42. (From NewspaperSG)
 
-[^36]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e2c8dfba-115d-11e3-83d5-0050568939ad-OHC000334_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), interview, 23 Sep 1983, Reel/Disc 3 of 7, 36–38, 40-41.
+[^36]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e2c8dfba-115d-11e3-83d5-0050568939ad-OHC000334_003/web/html5/index.html), interview, 23 Sep 1983, Reel/Disc 3 of 7, 36–38, 40-41.
 
-[^37]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e2c8dfba-115d-11e3-83d5-0050568939ad-OHC000334_003/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), interview, 23 Sep 1983, Reel/Disc 3 of 7, 36.
+[^37]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e2c8dfba-115d-11e3-83d5-0050568939ad-OHC000334_003/web/html5/index.html), interview, 23 Sep 1983, Reel/Disc 3 of 7, 36.
 
 [^38]: 王振春 [Wang Zhenchun], [话说密驼路](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205402192) [*Speaking of Middle Road*] (Singapore: Xinhua Cultural Enterprises, 2021), 103. (From National Library, Singapore, call no. Chinese RSING 959.57 WZC-[HIS]); Han, [如何为三千人拍照](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19860818-1.2.21.1.1).  
 
@@ -226,8 +226,8 @@ By the end of 1941, the famous Nakajima &amp; Co. in Singapore was forced to clo
 
 [^40]: [到敌人照相馆拍照 立卑一对男女几遭痛惩](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/nysp19380626-1.2.69) 		[“A Couple at Lipis was Almost Severely Punished for Having Their Portrait Taken at the Enemy’s Photo Studio”], 	南洋商报 [*Nanyang Siang Pau*], 26 June 1938, 10. (From NewspaperSG)
 
-[^41]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/flipviewer/publish/4/462ce10c-115f-11e3-83d5-0050568939ad-OHC000334_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=9), interview, 30 Sep 1983, Reel/Disc 1 of 7, 9.
+[^41]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/flipviewer/publish/4/462ce10c-115f-11e3-83d5-0050568939ad-OHC000334_001/web/html5/index.html), interview, 30 Sep 1983, Reel/Disc 1 of 7, 9.
 
-[^42]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/flipviewer/publish/4/462ce10c-115f-11e3-83d5-0050568939ad-OHC000334_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=9), interview, 30 Sep 1983, Reel/Disc 1 of 7, 5.
+[^42]: [Lim Ming Joon](https://www.nas.gov.sg/archivesonline/flipviewer/publish/4/462ce10c-115f-11e3-83d5-0050568939ad-OHC000334_001/web/html5/index.html), interview, 30 Sep 1983, Reel/Disc 1 of 7, 5.
 
 [^43]: “[Japanese Go Out of Business](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19411206-1.2.30).”

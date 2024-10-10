@@ -152,9 +152,9 @@ Chia, C. (2016). *The interaction of oral and literate practices in Singaporean 
 
 **Oral history interviews**
 
-Chiang, C. (Interviewer). (1982, February). *[Oral history interview with Ng Yew Kian](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e083290c-115d-11e3-83d5-0050568939ad-OHC000158_004/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=3)* [Transcript of MP3 recording no. 000158/10/04, p. 43]. Retrieved from National Archives of Singapore website.
+Chiang, C. (Interviewer). (1982, February). *[Oral history interview with Ng Yew Kian](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e083290c-115d-11e3-83d5-0050568939ad-OHC000158_004/web/html5/index.html)* [Transcript of MP3 recording no. 000158/10/04, p. 43]. Retrieved from National Archives of Singapore website.
 
-Chua, C.H. (Interviewer). (1988, January 19). *[Oral history interview with Ng Yew Kian](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e081dbe0-115d-11e3-83d5-0050568939ad-OHC000158_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=15)* [Transcript of  MP3 recording No. 000874/04/01, pp. 3–8]. Retrieved from National Archives of Singapore website.
+Chua, C.H. (Interviewer). (1988, January 19). *[Oral history interview with Ng Yew Kian](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e081dbe0-115d-11e3-83d5-0050568939ad-OHC000158_001/web/html5/index.html)* [Transcript of  MP3 recording No. 000874/04/01, pp. 3–8]. Retrieved from National Archives of Singapore website.
 
 Chua, C.H. (Interviewer). (1988, May 28). *[Oral history interview with Tay Lee Huat](https://www.nas.gov.sg/archivesonline/flipviewer/publish/8/85962698-115f-11e3-83d5-0050568939ad-OHC000893_001/web/html5/index.html)* [Transcript of MP3 recording no. 000893/09/01, pp. 5–6]. Retrieved from National Archives of Singapore website.
 
