@@ -151,7 +151,7 @@ The opening of SIA’s new flagship SilverKris and KrisFlyer Gold lounges at Cha
 
 [^10]: Goh Yong Kiat, [*Where Lions Fly: 100 Years of Aviation in Singapore (1911–2011)*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=14273872) (Singapore: Straits Times Press Reference, 2012), 95. (From National Library, Singapore, call no. RSING 387.7095957 GOH); “[MSA It Is!](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720129-1.2.2)”
 
-[^11]: [Lim](https://www.nas.gov.sg/archivesonline/flipviewer/publish/9/949e2139-1160-11e3-83d5-0050568939ad-OHC002358_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), interview, 5 Sep 2000, 21.
+[^11]: [Lim](https://www.nas.gov.sg/archivesonline/flipviewer/publish/9/949e2139-1160-11e3-83d5-0050568939ad-OHC002358_002/web/html5/index.html), interview, 5 Sep 2000, 21.
 
 [^12]: “[SIA-Garuda Air Rights Signing Today](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720914-1.2.125),” *Straits Times*, 14 September 1972, 28; “[SIA Will Fly to Karachi This Month](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19721010-1.2.53),” *Straits Times*, 10 October 1972, 10. (From NewspaperSG)
 
