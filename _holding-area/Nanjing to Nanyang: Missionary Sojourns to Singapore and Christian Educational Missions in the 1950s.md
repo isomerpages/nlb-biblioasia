@@ -109,7 +109,7 @@ Revisiting the sojourns of these two missionaries from Nanjing to Singapore, and
 
 [^2]:  Creighton Lacy, “The Missionary Exodus from China,” _Pacific Affairs,_ Vol. 28, No. 4 (Dec, 1955): 301-314.
 
-[^3]:  Lee Kam Hing, “A Neglected Story: Christian Missionaries, Chinese New Villagers, and Communists in the Battle for the ‘hearts and minds’ in Malaya, 1948–1960.” _Modern Asian Studies__,_ Vol. 47, Issue 6 (Nov 2013):1977–2006. See also, Clemens Six, _[Secularism, Decolonization and the Cold War in South and Southeast Asia](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203113775)_ (New York: Routledge, 2018) (From National Library, Singapore, call no. 201.72095 SIX).
+[^3]:  Lee Kam Hing, “A Neglected Story: Christian Missionaries, Chinese New Villagers, and Communists in the Battle for the ‘hearts and minds’ in Malaya, 1948–1960.” _Modern Asian Studies,_ Vol. 47, Issue 6 (Nov 2013):1977–2006. See also, Clemens Six, _[Secularism, Decolonization and the Cold War in South and Southeast Asia](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203113775)_ (New York: Routledge, 2018) (From National Library, Singapore, call no. 201.72095 SIX).
 
 [^4]:  Lee, “A Neglected Story,” 1977–2006.
 
@@ -127,7 +127,7 @@ Revisiting the sojourns of these two missionaries from Nanjing to Singapore, and
 
 [^11]:  _At The Crossroads_, 154. Subsequently, what inaugural President Runyan termed an “affiliated relationship” with the Nanking Board helped Trinity College realise the possibilities of its strategic situation in Southeast Asia.
 
-[^12]:  Thio Chan Bee. “The People Whom We Met and General Impressions,” in _“__Collected Materials, Malaya/Singapore, 1966-1967__.”_ Yale Divinity Library, Records of the United Board for Christian Higher Education in Asia, New Haven, CT. (RG 11A, Box 65A Folder 869.)
+[^12]:  Thio Chan Bee. “The People Whom We Met and General Impressions,” in _Collected Materials, Malaya/Singapore, 1966-1967._ Yale Divinity Library, Records of the United Board for Christian Higher Education in Asia, New Haven, CT. (RG 11A, Box 65A Folder 869.)
 
 [^13]:  William P. Fenn, _Ever New Horizons: The Story of the United Board for Christian Higher Education in Asia_ (New York: Mennonite Press, 1980)_,_ 68.
 
