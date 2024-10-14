@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-20/issue-3/oct-dec-2024/singapore-zoo-animals/
-      button: The Earlier Years of the Singapore Zoo
+      url: /vol-20/issue-3/oct-dec-2024/phan-kim-sam-thye-seng/
+      button: The Search for a “Lost” Towkay of Malaya
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 20 Issue 3/Zoo/HeroImage_zoo.jpg
+      background: /images/Vol 20 Issue 3/Lost Towkay/HeroImage_losttowkay.jpg
   - infopic:
       title: Have Your Say
       subtitle: Readership Survey
@@ -25,6 +25,16 @@ sections:
       url: https://go.gov.sg/web-survey
       image: /images/survey_sep24.jpg
       alt: Readership Survey
+  - infopic:
+      title: Japanese Anglicans in World War II Singapore
+      subtitle: People
+      id: infopic
+      description: During the Japanese Occupation, four Japanese Anglicans were a sign
+        of hope for the locals during a dark chapter in Singapore’s history.
+      button: A BEACON OF LIGHT
+      url: /vol-20/issue-4/jan-mar-2025/japanese-anglicans-world-war-two-singapore/
+      image: /images/Vol 20 Issue 4/Japanese Anglican/anglican_facing2.jpg
+      alt: Image alt text
   - infopic:
       title: "W. Somerset Maugham: Secrets from the Outstations"
       subtitle: People

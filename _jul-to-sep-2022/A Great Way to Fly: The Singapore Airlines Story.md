@@ -133,7 +133,7 @@ The opening of SIA’s new flagship SilverKris and KrisFlyer Gold lounges at Cha
 
 [^1]: “Business Traveller Asia-Pacific Awards 2020 Results,” Business Traveller Asia-Pacific, 13 October 2020. https://www.businesstraveller.com/awards/business-traveller-asia-pacific-awards-2020-results/; “World’s Best Airline Cabin Crew,” Skytrax World Airline Awards, accessed 16 June 2022, https://www.worldairlineawards.com/worlds-best-airline-cabin-crew-2021/.
 
-[^2]: [Lim Chin Beng](https://www.nas.gov.sg/archivesonline/flipviewer/publish/9/949e2139-1160-11e3-83d5-0050568939ad-OHC002358_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), oral history interview by Patricia Lee, 5 September 2000, transcript and MP3 audio, Reel/Disc 2 of 3, National Archives of Singapore (accession no. 002358), 20.
+[^2]: [Lim Chin Beng](https://www.nas.gov.sg/archivesonline/flipviewer/publish/9/949e2139-1160-11e3-83d5-0050568939ad-OHC002358_002/web/html5/index.html), oral history interview by Patricia Lee, 5 September 2000, transcript and MP3 audio, Reel/Disc 2 of 3, National Archives of Singapore (accession no. 002358), 20.
 
 [^3]: Allen, [*SIA: Take-off to Success*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=5526825), 21–22; Christopher Fyfe, [*Wheels in Malaya: The Wearne Brothers and Their Company*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=11406555) (Claremont, W. Aust.: Lana Press, 2002), 121–30. (From National Library, Singapore, call no. RSING q629.2220922 FYF)
 
@@ -151,7 +151,7 @@ The opening of SIA’s new flagship SilverKris and KrisFlyer Gold lounges at Cha
 
 [^10]: Goh Yong Kiat, [*Where Lions Fly: 100 Years of Aviation in Singapore (1911–2011)*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=14273872) (Singapore: Straits Times Press Reference, 2012), 95. (From National Library, Singapore, call no. RSING 387.7095957 GOH); “[MSA It Is!](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720129-1.2.2)”
 
-[^11]: [Lim](https://www.nas.gov.sg/archivesonline/flipviewer/publish/9/949e2139-1160-11e3-83d5-0050568939ad-OHC002358_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), interview, 5 Sep 2000, 21.
+[^11]: [Lim](https://www.nas.gov.sg/archivesonline/flipviewer/publish/9/949e2139-1160-11e3-83d5-0050568939ad-OHC002358_002/web/html5/index.html), interview, 5 Sep 2000, 21.
 
 [^12]: “[SIA-Garuda Air Rights Signing Today](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19720914-1.2.125),” *Straits Times*, 14 September 1972, 28; “[SIA Will Fly to Karachi This Month](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19721010-1.2.53),” *Straits Times*, 10 October 1972, 10. (From NewspaperSG)
 
@@ -173,15 +173,15 @@ The opening of SIA’s new flagship SilverKris and KrisFlyer Gold lounges at Cha
 
 [^21]: “World's Best Economy Class Airlines 2021,” Skytrax World Airline Awards, accessed 16 June 2022, https://www.worldairlineawards.com/worlds-best-economy-class-airlines-2021/.
 
-[^22]: [Lim](https://www.nas.gov.sg/archivesonline/flipviewer/publish/9/949e2139-1160-11e3-83d5-0050568939ad-OHC002358_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), interview, 5 Sep 2000, 15–16.
+[^22]: [Lim](https://www.nas.gov.sg/archivesonline/flipviewer/publish/9/949e2139-1160-11e3-83d5-0050568939ad-OHC002358_002/web/html5/index.html), interview, 5 Sep 2000, 15–16.
 
-[^23]: [Lim](https://www.nas.gov.sg/archivesonline/flipviewer/publish/9/949e2139-1160-11e3-83d5-0050568939ad-OHC002358_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), interview, 5 Sep 2000, 16.
+[^23]: [Lim](https://www.nas.gov.sg/archivesonline/flipviewer/publish/9/949e2139-1160-11e3-83d5-0050568939ad-OHC002358_002/web/html5/index.html), interview, 5 Sep 2000, 16.
 
 [^24]: Lee Kuan Yew, [*From Third World to First: The Singapore Story, 1965–2000: Memoirs of Lee Kuan Yew*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=9981172) (Singapore: Times Editions: Singapore Press Holdings, 2000), 229. (From National Library, Singapore, call no. RSING 959.57092 LEE); [Lim](https://www.nas.gov.sg/archivesonline/flipviewer/publish/9/949e2139-1160-11e3-83d5-0050568939ad-OHC002358_002/web/html5/index.html), interview, 5 Sep 2000, 16.
 
 [^25]: Ken Hickson, [*Mr SIA: Fly Past*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=201057444) (Singapore: World Scientific Publishing, 2014), 83–84; [Lim](https://www.nas.gov.sg/archivesonline/flipviewer/publish/9/949e2139-1160-11e3-83d5-0050568939ad-OHC002358_002/web/html5/index.html), interview, 5 Sep 2000, 17.
 
-[^26]: [Lim](https://www.nas.gov.sg/archivesonline/flipviewer/publish/9/949e2139-1160-11e3-83d5-0050568939ad-OHC002358_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png), interview, 5 Sep 2000, 18; Agnes Wee, “[Germany Accuses SIA of Undercutting](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19811113-1.2.4),” *Business Times*, 13 November 1981, 1; “[An End to the Turbulence](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19811212-1.2.92),” *Straits Times*, 12 December 1981, 16. (From NewspaperSG)
+[^26]: [Lim](https://www.nas.gov.sg/archivesonline/flipviewer/publish/9/949e2139-1160-11e3-83d5-0050568939ad-OHC002358_002/web/html5/index.html), interview, 5 Sep 2000, 18; Agnes Wee, “[Germany Accuses SIA of Undercutting](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19811113-1.2.4),” *Business Times*, 13 November 1981, 1; “[An End to the Turbulence](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19811212-1.2.92),” *Straits Times*, 12 December 1981, 16. (From NewspaperSG)
 
 [^27]: “[Time to Cool Frayed Nerves](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19801202-1.2.21),” *Business Times*, 2 December 1980, 6; “[Troubled Sky](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19801105-1.2.78.1),” *Straits Times*, 5 November 1980, 14. (From NewspaperSG)
 
