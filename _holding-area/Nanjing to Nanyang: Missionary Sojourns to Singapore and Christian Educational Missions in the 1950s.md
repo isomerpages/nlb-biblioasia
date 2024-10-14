@@ -24,7 +24,7 @@ Beyond supporting churches, some missionary-funded institutions were deliberatel
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Nanjing%20to%20Nanyang/Rev_Patrick_Joy.jpg" style="width: 80%;">The Rev Father Patrick Joy (standing) was the supervisor of Kingsmead Hall, a student hostel built by the Jesuit Fathers, located near the Teachers’ Training College. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+<img src="/images/Online%20Only%20Articles/Nanjing%20to%20Nanyang/Rev_Patrick_Joy.jpg" style="width: 80%;">The Reverend Father Patrick Joy (standing) was the supervisor of Kingsmead Hall, a student hostel built by the Jesuit Fathers, located near the Teachers’ Training College. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 <div style="background-color: white;">
 <br>
@@ -98,10 +98,10 @@ Today, it is not uncommon to hear Christians in Singapore claim that Singapore�
 
 Indeed, institutions founded in the early 1950s – such as Trinity Theological College and Singapore Bible College – still remain central in cultivating Protestant leadership in Singapore today. While their achievements are notable, it is also worth considering what other possibilities for Christian engagement with secular higher education and learning more broadly were foreclosed in the same period – results of the anti-communist Emergency, the shape of decolonisation, agendas of foreign mission boards, delimiting what kinds of mission work were possible.
 
-Revisiting the sojourns of these two missionaries from Nanjing to Singapore, and their separate trajectories, reveals the unexpected travails for contemporary spaces and institutions, possibilities for blurring divisions between secular and religious spaces, and the narrowing of those possibilities. They provide context to diverse forms of educational activism amid Singapore’s decolonisation of the 1950s, while offering alternative exemples of Christian missions and community engagement in the present.
+Revisiting the sojourns of these two missionaries from Nanjing to Singapore, and their separate trajectories, reveals the unexpected travails for contemporary spaces and institutions, possibilities for blurring divisions between secular and religious spaces, and the narrowing of those possibilities. They provide context to diverse forms of educational activism amid Singapore’s decolonisation of the 1950s, while offering alternative examples of Christian missions and community engagement in the present.
 
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src="/images/Online%20Only%20Articles/Nanjing%20to%20Nanyang/author_profile_photo.png"><b>Joshua Tan</b>is a historian of modern China and the Chinese diaspora, with an interest in the religious and educational politics in Cold War Asia. He is currently a postdoctoral fellow in the department of history at the National University of Singapore and is working on a book about American-Asian educational partnerships during the Cold War.</div>  
+<img style="width: 100px; height: 100px;" src="/images/Online%20Only%20Articles/Nanjing%20to%20Nanyang/author_profile_photo.png"><b>Joshua Tan </b>is a historian of modern China and the Chinese diaspora, with an interest in the religious and educational politics in Cold War Asia. He is currently a postdoctoral fellow in the department of history at the National University of Singapore and is working on a book about American-Asian educational partnerships during the Cold War.</div>  
 
 #### **Notes**
 
@@ -109,7 +109,7 @@ Revisiting the sojourns of these two missionaries from Nanjing to Singapore, and
 
 [^2]:  Creighton Lacy, “The Missionary Exodus from China,” _Pacific Affairs,_ Vol. 28, No. 4 (Dec, 1955): 301-314.
 
-[^3]:  Lee Kam Hing, “A Neglected Story: Christian Missionaries, Chinese New Villagers, and Communists in the Battle for the ‘hearts and minds’ in Malaya, 1948–1960.” _Modern Asian Studies__,_ Vol. 47, Issue 6 (Nov 2013):1977–2006. See also, Clemens Six, _[Secularism, Decolonization and the Cold War in South and Southeast Asia](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203113775)_ (New York: Routledge, 2018) (From National Library, Singapore, call no. 201.72095 SIX).
+[^3]:  Lee Kam Hing, “A Neglected Story: Christian Missionaries, Chinese New Villagers, and Communists in the Battle for the ‘hearts and minds’ in Malaya, 1948–1960.” _Modern Asian Studies,_ Vol. 47, Issue 6 (Nov 2013):1977–2006. See also, Clemens Six, _[Secularism, Decolonization and the Cold War in South and Southeast Asia](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203113775)_ (New York: Routledge, 2018) (From National Library, Singapore, call no. 201.72095 SIX).
 
 [^4]:  Lee, “A Neglected Story,” 1977–2006.
 
@@ -127,7 +127,7 @@ Revisiting the sojourns of these two missionaries from Nanjing to Singapore, and
 
 [^11]:  _At The Crossroads_, 154. Subsequently, what inaugural President Runyan termed an “affiliated relationship” with the Nanking Board helped Trinity College realise the possibilities of its strategic situation in Southeast Asia.
 
-[^12]:  Thio Chan Bee. “The People Whom We Met and General Impressions,” in _“__Collected Materials, Malaya/Singapore, 1966-1967__.”_ Yale Divinity Library, Records of the United Board for Christian Higher Education in Asia, New Haven, CT. (RG 11A, Box 65A Folder 869.)
+[^12]:  Thio Chan Bee. “The People Whom We Met and General Impressions,” in _Collected Materials, Malaya/Singapore, 1966-1967._ Yale Divinity Library, Records of the United Board for Christian Higher Education in Asia, New Haven, CT. (RG 11A, Box 65A Folder 869.)
 
 [^13]:  William P. Fenn, _Ever New Horizons: The Story of the United Board for Christian Higher Education in Asia_ (New York: Mennonite Press, 1980)_,_ 68.
 
@@ -149,7 +149,7 @@ Revisiting the sojourns of these two missionaries from Nanjing to Singapore, and
 
 [^22]:  Comparatively, only two congregations – the Straits Chinese Presbyterian churches of Orchard Road and Prinsep Street – were actively supporting the short-lived student centre, whose vaguely defined vision of interreligious dialogue and ecumenical fellowship did not gain sufficient traction.
 
-[^23]:  For example, the libraries at Singapore Bible College (still located at 9-15 Adam Road) still retain an extensive collection of what Chinese evangelical publications published and circulated from Hong Kong, Taiwan, and the United States. These include: _Shengming Yuekan_ (Life Monthly) published by China Evangelical Fellowship in Hong Kong, _Dengta_ (Lighthouse) published in Hong Kong by the China Inland Mission / Overseas Missionary Fellowship_, Zhongxin Yuekan_ (China Christian Monthly)_,_ published by the Chinese Christian Mission in Petaluma, California. For an elaboration of Chinese evangelical networks in the mid-20th century, see: Joshua Dao-Wei Sim, “Bringing Chinese Christianity to Southeast Asia: Constructing Transnational Chinese Evangelicalism across China and Southeast Asia, 1930s to 1960s,” _religions 13,_ No. 9 (2002): 773.
+[^23]:  For example, the libraries at Singapore Bible College (still located at 9-15 Adam Road) still retain an extensive collection of what Chinese evangelical publications published and circulated from Hong Kong, Taiwan, and the United States. These include: _Shengming Yuekan_ (Life Monthly) published by China Evangelical Fellowship in Hong Kong, _Dengta_ (Lighthouse) published in Hong Kong by the China Inland Mission / Overseas Missionary Fellowship, <i>"Zhongxin Yuekan"</i> (China Christian Monthly)_,_ published by the Chinese Christian Mission in Petaluma, California. For an elaboration of Chinese evangelical networks in the mid-20th century, see: Joshua Dao-Wei Sim, “Bringing Chinese Christianity to Southeast Asia: Constructing Transnational Chinese Evangelicalism across China and Southeast Asia, 1930s to 1960s,” _religions 13,_ No. 9 (2002): 773.
 
 [^24]:  Thio, “The People Whom We Met and General Impressions.”
 
