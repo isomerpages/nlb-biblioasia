@@ -1299,4 +1299,14 @@ sections:
       url: https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08
       alt: Greeting Card
       image: /images/Hari Raya Cards/hari raya greeting card.jpg
+  - infopic:
+      title: Japanese Anglicans in World War II Singapore
+      subtitle: People
+      id: infopic
+      description: During the Japanese Occupation, four Japanese Anglicans were a sign
+        of hope for the locals during a dark chapter in Singapore’s history.
+      button: A BEACON OF LIGHT
+      url: /vol-20/issue-4/jan-mar-2025/japanese-anglicans-world-war-two-singapore/
+      image: /images/Vol 20 Issue 4/Japanese Anglican/anglican_facing2.jpg
+      alt: Image alt text
 ---
