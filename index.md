@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-20/issue-3/oct-dec-2024/singapore-zoo-animals/
-      button: The Earlier Years of the Singapore Zoo
+      url: /vol-20/issue-3/oct-dec-2024/phan-kim-sam-thye-seng/
+      button: The Search for a “Lost” Towkay of Malaya
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 20 Issue 3/Zoo/HeroImage_zoo.jpg
+      background: /images/Vol 20 Issue 3/Lost Towkay/HeroImage_losttowkay.jpg
   - infopic:
       title: Have Your Say
       subtitle: Readership Survey
