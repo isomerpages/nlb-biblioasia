@@ -24,7 +24,7 @@ Beyond supporting churches, some missionary-funded institutions were deliberatel
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Nanjing%20to%20Nanyang/Rev_Patrick_Joy.jpg" style="width: 80%;">The Rev Father Patrick Joy (standing) was the supervisor of Kingsmead Hall, a student hostel built by the Jesuit Fathers, located near the Teachers’ Training College. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+<img src="/images/Online%20Only%20Articles/Nanjing%20to%20Nanyang/Rev_Patrick_Joy.jpg" style="width: 80%;">The Reverend Father Patrick Joy (standing) was the supervisor of Kingsmead Hall, a student hostel built by the Jesuit Fathers, located near the Teachers’ Training College. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 <div style="background-color: white;">
 <br>
