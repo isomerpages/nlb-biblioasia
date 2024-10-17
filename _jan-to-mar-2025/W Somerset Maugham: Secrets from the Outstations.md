@@ -25,7 +25,7 @@ The expatriate society of British Malaya was thrilled by the arrival of such a p
 
 Singapore was then, like now, one of the great ports of the East. It was the bustling heart of Southeast Asia and a jewel of the British Empire. When Maugham docked, it was going through a period of prosperity with the boom of the rubber trade due to the expansion of the motor trade in the United States.&nbsp;
 
-After the First World War, tin and rubber prices soared and fortunes were to be made in the Southeast. An influx of British expatriates, who referred to themselves as “Empire builders”, consisted of people migrating for work, either as government officials to uphold British rule or people moving away for monetary gain. Maugham found these “new” types intriguing, and often in some bar or club, Maugham and Haxton would hear extraordinary tales from people who were living seemingly ordinary lives. Maugham wrote: “\[I\]n those parts of the world where civilisation is worn thinner. I found the unique man far easier to see.”[^3] This could be due to the lack of social constraints and ties from home, the new climate; people were living differently and had stories to tell.
+After the First World War, tin and rubber prices soared and fortunes were to be made in Southeast Asia. An influx of British expatriates, who referred to themselves as “Empire builders”, consisted of people migrating for work, either as government officials to uphold British rule or people moving away for monetary gain. Maugham found these “new” types intriguing, and often in some bar or club, Maugham and Haxton would hear extraordinary tales from people who were living seemingly ordinary lives. Maugham wrote: “\[I\]n those parts of the world where civilisation is worn thinner. I found the unique man far easier to see.”[^3] This could be due to the lack of social constraints and ties from home, the new climate; people were living differently and had stories to tell.
 
 #### **Inspiration for Stories**
 
@@ -59,7 +59,7 @@ During his time here, Maugham was interviewed by the _Malay Mail_. The journalis
 
 #### **The Letter/The Proudlock Case&nbsp;**
 
-Maugham’s travels through Southeast Asia resulted in his short story collection, _The Casuarina Tree_, published in 1926. The collection consists of six stories, all of which feature characters based in the region. One story in particular mriled up the expatriate community – “The Letter”.[^15] This is probably one of Maugham’s most famous stories and is based on a true event: the arrest and conviction of Ethel Proudlock in 1911, in Kuala Lumpur, for killing a man.&nbsp;
+Maugham’s travels through Southeast Asia resulted in his short story collection, _The Casuarina Tree_, published in 1926. The collection consists of six stories, all of which feature characters based in the region. One story in particular riled up the expatriate community – “The Letter”.[^15] This is probably one of Maugham’s most famous stories and is based on a true event: the arrest and conviction of Ethel Proudlock in 1911, in Kuala Lumpur, for killing a man.&nbsp;
 
 ![](/images/Vol%2020%20Issue%204/Somerset/somerset_casuarina.jpg)
 <div style="background-color:white;">The title page of <i>The Casuarina Tree</i> published by William Collins, Sons &amp; Co. in 1936. The short story, “The Letter”, is featured in this anthology. <i>(From National Library, Singapore, call no. RCLOS 823.912 MAU-[JSB]).</i></div>
