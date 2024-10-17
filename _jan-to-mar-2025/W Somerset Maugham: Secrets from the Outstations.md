@@ -59,7 +59,7 @@ During his time here, Maugham was interviewed by the _Malay Mail_. The journalis
 
 #### **The Letter/The Proudlock Case&nbsp;**
 
-Maugham’s travels through Southeast Asia resulted in his short story collection, _The Casuarina Tree_, published in 1926. The collection consists of six stories, all of which feature characters based in the region. One story in particular mriled up the expatriate community – “The Letter”.[^15] This is probably one of Maugham’s most famous stories and is based on a true event: the arrest and conviction of Ethel Proudlock in 1911, in Kuala Lumpur, for killing a man.&nbsp;
+Maugham’s travels through Southeast Asia resulted in his short story collection, _The Casuarina Tree_, published in 1926. The collection consists of six stories, all of which feature characters based in the region. One story in particular riled up the expatriate community – “The Letter”.[^15] This is probably one of Maugham’s most famous stories and is based on a true event: the arrest and conviction of Ethel Proudlock in 1911, in Kuala Lumpur, for killing a man.&nbsp;
 
 ![](/images/Vol%2020%20Issue%204/Somerset/somerset_casuarina.jpg)
 <div style="background-color:white;">The title page of <i>The Casuarina Tree</i> published by William Collins, Sons &amp; Co. in 1936. The short story, “The Letter”, is featured in this anthology. <i>(From National Library, Singapore, call no. RCLOS 823.912 MAU-[JSB]).</i></div>
