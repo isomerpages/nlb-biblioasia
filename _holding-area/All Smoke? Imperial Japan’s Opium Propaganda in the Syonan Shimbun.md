@@ -70,7 +70,7 @@ On 30 August, the newspaper carried reports on the comments by Tomokazu Hori, he
 
 
 ![](/images/Vol%2020%20Issue%204/Opium/opium_statement.jpg)
-<div style="background-color:white;">A statement by Tomokazu Hori, head and spokesperson of Japan's Board of Information, on the 100th anniversary of the Treaty of Nanking.  <i>Image reproduced from Syonan Shimbun, 30 August 1942, 1. (From NewspaperSG)</i></div>
+<div style="background-color:white;">A statement by Tomokazu Hori, head and spokesperson of Japan's Board of Information, on the 100th anniversary of the Treaty of Nanking.  <i>Image reproduced from Syonan Shimbun, 30 August 1942, 1. (From NewspaperSG).</i></div>
 
 Hirota presented Japan’s alternative to British imperialism. He said that Japan’s New Order in East Asia would be “characterised by peace and love of humanity” with “genuine mutual assistance among the various races, instead of the conception of power and supremacy based on power”.[^17]&nbsp;
 
