@@ -84,8 +84,8 @@ In the end, it was not only Japan’s promises of an opium-free New Order, but t
 
 
 <div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
-戒烟歌 (QUIT SMOKING SONG) <br>
-Sung by Li Xianglan
+<b>戒烟歌 (QUIT SMOKING SONG) <br>
+Sung by Li Xianglan</b>
 <br><br>
 Da, oh Da, won’t you wake up.<br>
 Why do you still think about opium?<br>
