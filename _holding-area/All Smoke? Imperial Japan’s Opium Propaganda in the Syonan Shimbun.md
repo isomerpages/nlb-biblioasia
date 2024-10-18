@@ -119,87 +119,53 @@ Source: “戒煙歌 - 李香蘭 Li Xiang Lan (山口淑子 Yoshiko Yamaguchi),�
 
 #### **Notes**
 
-[^1]:     p.p1 {margin: 0.0px 0.0px 0.0px 9.9px; text-indent: -9.9px; line-height: 8.5px; font: 7.0px Calibri} span.s1 {letter-spacing: -0.5px} span.s2 {letter-spacing: -0.4px} span.s3 {letter-spacing: -0.6px} span.s4 {letter-spacing: -0.7px} span.s5 {font: 7.0px 'DFPHeiW3-GB'; letter-spacing: -0.3px} span.s6 {letter-spacing: -0.3px} span.s7 {letter-spacing: -0.8px}
+[^1]:  “The Anti-opium Crusade,” _Pinang Gazette and Straits Chronicle_, 9 March 1907, 4; “Anti-opium Conference,” _Straits Echo (Mail Edition)_, 15 March 1907, 211. (From NewspaperSG)
 
-“The Anti-opium Crusade,” _Pinang Gazette and Straits Chronicle_, 9 March 1907, 4; “Anti-opium Conference,” _Straits Echo (Mail Edition)_, 15 March 1907, 211. (From NewspaperSG)
 
-Jayakumary Marimuthu and Mohd Firdaus Abdullah, “Opium Smoking Suppression Campaigns and the role of Anti-Opium Movements in the Federated Malay States, 1906–1910,” _Jebat: Malaysian Journal of History, Politics &amp; Strategic_ Studies 47, no.3 (2020): 41–42, https://journalarticle.ukm.my/17094/1/44772-144085-1-SM.pdf.
+[^2]: Jayakumary Marimuthu and Mohd Firdaus Abdullah, “Opium Smoking Suppression Campaigns and the role of Anti-Opium Movements in the Federated Malay States, 1906–1910,” _Jebat: Malaysian Journal of History, Politics &amp; Strategic_ Studies 47, no.3 (2020): 41–42, https://journalarticle.ukm.my/17094/1/44772-144085-1-SM.pdf.
 
-On average, the Straits Settlements of Singapore, Penang and Melaka generated 49 percent of their annual revenue from opium farming between 1898 and 1906 at least. See Song Ong Siang, _One Hundred Years' History of the Chinese in Singapore: The Annotated Edition_ (Singapore: National Library Board and World Scientific Publishing Co. Pte. Ltd., 2020), 629. (From NLB OverDrive); Carl A. Trocki, _Opium and Empire: Chinese Society in Colonial Singapore_, _1800–1910_ (Ithaca and London: Cornell University Press, 1990), 2. (From National Library, Singapore, call no. RCLOS 305.895105957 TRO)
 
-Lim Boon Keng, “The Attitude of the State Towards the Opium Habit,” _The Straits Chinese Magazine: A Quarterly Journal of Oriental and Occidental Culture_ 2, no. 6 (June 1898): 47. (From National Library, Singapore, call no. RRARE 959.5 STR; microfilm no. NL267). Lim Boon Keng, Song Ong Siang and Wu Lien-Teh were the editors of the magazine.&nbsp;
+[^3]: On average, the Straits Settlements of Singapore, Penang and Melaka generated 49 percent of their annual revenue from opium farming between 1898 and 1906 at least. See Song Ong Siang, _One Hundred Years' History of the Chinese in Singapore: The Annotated Edition_ (Singapore: National Library Board and World Scientific Publishing Co. Pte. Ltd., 2020), 629. (From NLB OverDrive); Carl A. Trocki, _Opium and Empire: Chinese Society in Colonial Singapore_, _1800–1910_ (Ithaca and London: Cornell University Press, 1990), 2. (From National Library, Singapore, call no. RCLOS 305.895105957 TRO)
 
-Wu Lien-Teh, _Plague Fighter: The Autobiography of a Modern Chinese Physician_ (Penang: Areca Books, 2014), 245–46. (From National Library, Singapore, call no. RSEA 610.92 WU); Song Ong Siang, _One Hundred Years' History of the Chinese in Singapore_ (Singapore: University of Malaya Press, 1967), 438. (From National Library, Singapore, call no. RSING 959.57 SON)
 
-Harumi Goto-Shibata, “The International Opium Conference of 1924–25 and Japan,” _Modern Asian Studies_ 36, no. 4 (October 2002): 976–77. (From JSTOR via NLB’s eResources website); John Collins, “Drug Diplomacy from the Opium Wars through the League of Nations, 1839–1939,” Cambridge University Press, 25 November 2021, https://doi.org/10.1017/9781009058278.002; William B. McAllister, _Drug Diplomacy in the Twentieth Century: An International History_ (London; New York: Routledge, 2000), https://archive.org/details/drugdiplomacyint0000mcal.
+[^4]: Lim Boon Keng, “The Attitude of the State Towards the Opium Habit,” _The Straits Chinese Magazine: A Quarterly Journal of Oriental and Occidental Culture_ 2, no. 6 (June 1898): 47. (From National Library, Singapore, call no. RRARE 959.5 STR; microfilm no. NL267). Lim Boon Keng, Song Ong Siang and Wu Lien-Teh were the editors of the magazine.&nbsp;
 
-Derek Mackay, _Eastern Customs: The Customs Service in British Malaya and the Opium Trade_ (London; New York: Radcliffe Press, 2005), 150. (From National Library, Singapore, call no. RSEA 352.44809595109041 MAC)
 
-Chen Su Lan, _The Opium Problem in British Malaya_ (Singapore: Singapore Anti-Opium Society, 1935), 1.&nbsp; (From National Library, Singapore, call no. RRARE 178.8 CHE; microfilm no. NL7461)&nbsp;
+[^5]: Wu Lien-Teh, _Plague Fighter: The Autobiography of a Modern Chinese Physician_ (Penang: Areca Books, 2014), 245–46. (From National Library, Singapore, call no. RSEA 610.92 WU); Song Ong Siang, _One Hundred Years' History of the Chinese in Singapore_ (Singapore: University of Malaya Press, 1967), 438. (From National Library, Singapore, call no. RSING 959.57 SON)
 
-Chen Su Lan, _Opium Is a Deadly Poison: An Ad Interim Report May 8th to December_, 1933 (Singapore: The Anti-Opium Clinic, 1934), 1. (From NUS Libraries)
 
-The first issue of the paper, published on 20 February 1942, was called _The Shonan Times_. It was renamed _The Syonan Times_ the next day. On 8 December 1942, it was renamed _The Syonan Sinbun_. On 8 December 1943, the paper was renamed _The Syonan Shimbun_ and retained this name until its last issue on 4 September 1945. A Chinese edition, _Zhao Nan Ri Bao_ (萊켓휑괩), was introduced on 21 February 1942. See Lee Meiyu, “Propaganda Paper,” _BiblioAsia_ 11, no. 4 (January–March 2016): 40–41.
+[^6]: Harumi Goto-Shibata, “The International Opium Conference of 1924–25 and Japan,” _Modern Asian Studies_ 36, no. 4 (October 2002): 976–77. (From JSTOR via NLB’s eResources website); John Collins, “Drug Diplomacy from the Opium Wars through the League of Nations, 1839–1939,” Cambridge University Press, 25 November 2021, https://doi.org/10.1017/9781009058278.002; William B. McAllister, _Drug Diplomacy in the Twentieth Century: An International History_ (London; New York: Routledge, 2000), https://archive.org/details/drugdiplomacyint0000mcal.
 
-“Britain's Opium Policy in China Condemned,” _Syonan Shimbun_, 29 August 1942, 4; “Opium War Most Disgraceful Chapter in British History: Our Spokesman Points Out Enemy's ‘Trait of Ruthless Exploitation’,” _Syonan Shimbun_, 30 August 1942, 1. (From NewspaperSG)
 
-The New Order, later known as the Greater East Asia Co-Prosperity Sphere, was Imperial Japan’s empty promise to unite territories in East and Southeast Asia under justice, peace and economic cooperation. In reality, it enabled Japan to advance their wartime interests under the guise of mutual benefit. &nbsp;
+[^7]: Derek Mackay, _Eastern Customs: The Customs Service in British Malaya and the Opium Trade_ (London; New York: Radcliffe Press, 2005), 150. (From National Library, Singapore, call no. RSEA 352.44809595109041 MAC)
 
-“Present East Asia War Due Entirely to British and American Encroachments,” _Syonan Shimbun_, 12 May 1942, 2. (From NewspaperSG)&nbsp;
 
-Julia Lovell, _The Opium War: Drugs, Dreams and the Making of China_ (London: Picador, 2012), 238–40. (From National Library, Singapore, call no. R 951.033 LOV)
+[^8]: Chen Su Lan, _The Opium Problem in British Malaya_ (Singapore: Singapore Anti-Opium Society, 1935), 1.&nbsp; (From National Library, Singapore, call no. RRARE 178.8 CHE; microfilm no. NL7461)&nbsp;
 
-“Nanking Launches Anti-British And Development of East Asia Week,” _Syonan Shimbun_, 26 August 1942, 2. (From NewspaperSG)&nbsp;
 
-“Opium War Most Disgraceful Chapter in British History”; “Tomokazu Hori Passes Away,” _Syonan Shimbun_, 27 March 1944, 1. (From NewspaperSG)&nbsp;
+[^9]: Chen Su Lan, _Opium Is a Deadly Poison: An Ad Interim Report May 8th to December_, 1933 (Singapore: The Anti-Opium Clinic, 1934), 1. (From NUS Libraries)
+
+
+[^10]: The first issue of the paper, published on 20 February 1942, was called _The Shonan Times_. It was renamed _The Syonan Times_ the next day. On 8 December 1942, it was renamed _The Syonan Sinbun_. On 8 December 1943, the paper was renamed _The Syonan Shimbun_ and retained this name until its last issue on 4 September 1945. A Chinese edition, _Zhao Nan Ri Bao_ (萊켓휑괩), was introduced on 21 February 1942. See Lee Meiyu, “Propaganda Paper,” _BiblioAsia_ 11, no. 4 (January–March 2016): 40–41.
 
 
 
-
-[^2]: 
-
-
-[^3]: 
+[^11]: “Britain's Opium Policy in China Condemned,” _Syonan Shimbun_, 29 August 1942, 4; “Opium War Most Disgraceful Chapter in British History: Our Spokesman Points Out Enemy's ‘Trait of Ruthless Exploitation’,” _Syonan Shimbun_, 30 August 1942, 1. (From NewspaperSG)
 
 
-[^4]: 
+[^12]: The New Order, later known as the Greater East Asia Co-Prosperity Sphere, was Imperial Japan’s empty promise to unite territories in East and Southeast Asia under justice, peace and economic cooperation. In reality, it enabled Japan to advance their wartime interests under the guise of mutual benefit. &nbsp;
 
 
-[^5]: 
+[^13]: “Present East Asia War Due Entirely to British and American Encroachments,” _Syonan Shimbun_, 12 May 1942, 2. (From NewspaperSG)&nbsp;
 
 
-[^6]: 
+[^14]: Julia Lovell, _The Opium War: Drugs, Dreams and the Making of China_ (London: Picador, 2012), 238–40. (From National Library, Singapore, call no. R 951.033 LOV)
 
 
-[^7]: 
+[^15]: “Nanking Launches Anti-British And Development of East Asia Week,” _Syonan Shimbun_, 26 August 1942, 2. (From NewspaperSG)&nbsp;
 
 
-[^8]: 
-
-
-[^9]: 
-
-
-[^10]: 
-
-
-
-[^11]: 
-
-
-[^12]: 
-
-
-[^13]: 
-
-
-[^14]: 
-
-
-[^15]: 
-
-
-[^16]: 
+[^16]: “Opium War Most Disgraceful Chapter in British History”; “Tomokazu Hori Passes Away,” _Syonan Shimbun_, 27 March 1944, 1. (From NewspaperSG)&nbsp;
 
 
 [^17]: Domei Tokyo, “Mr. Hirota Sees New Era of Peace And Prosperity For East Asia,” _Syonan Shimbun_, 30 August 1942, 1. (From NewspaperSG)&nbsp;
