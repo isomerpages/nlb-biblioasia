@@ -146,7 +146,7 @@ Source: “戒煙歌 - 李香蘭 Li Xiang Lan (山口淑子 Yoshiko Yamaguchi),�
 [^9]: Chen Su Lan, _Opium Is a Deadly Poison: An Ad Interim Report May 8th to December_, 1933 (Singapore: The Anti-Opium Clinic, 1934), 1. (From NUS Libraries)
 
 
-[^10]: The first issue of the paper, published on 20 February 1942, was called _The Shonan Times_. It was renamed _The Syonan Times_ the next day. On 8 December 1942, it was renamed _The Syonan Sinbun_. On 8 December 1943, the paper was renamed _The Syonan Shimbun_ and retained this name until its last issue on 4 September 1945. A Chinese edition, _Zhao Nan Ri Bao_ (萊켓휑괩), was introduced on 21 February 1942. See Lee Meiyu, “Propaganda Paper,” _BiblioAsia_ 11, no. 4 (January–March 2016): 40–41.
+[^10]: The first issue of the paper, published on 20 February 1942, was called _The Shonan Times_. It was renamed _The Syonan Times_ the next day. On 8 December 1942, it was renamed _The Syonan Sinbun_. On 8 December 1943, the paper was renamed _The Syonan Shimbun_ and retained this name until its last issue on 4 September 1945. A Chinese edition, _Zhao Nan Ri Bao_ (昭南日报), was introduced on 21 February 1942. See Lee Meiyu, “Propaganda Paper,” _BiblioAsia_ 11, no. 4 (January–March 2016): 40–41.
 
 
 
