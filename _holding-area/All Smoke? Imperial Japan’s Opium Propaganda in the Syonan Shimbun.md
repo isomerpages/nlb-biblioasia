@@ -102,11 +102,13 @@ If you really love me, listen to me, don’t think about opium from now on.<br><
 达呀达，你醒醒吧，你为什还想着它，<br>
 它耗尽了你的精神，断送了你的年华，<br>
 你把一生事业作烟霞，这牺牲未免可怕， <br>
-你把一生心血换泥沙，这代价未免太大。
-它就是你的情人，你也该把它放下， 			何况是你的冤家，也是我的冤家。
-达呀达，达呀达，你为什还想着它，
+你把一生心血换泥沙，这代价未免太大。<br>
+它就是你的情人，你也该把它放下， 	<br>
+何况是你的冤家，也是我的冤家。<br>
+达呀达，达呀达，你为什还想着它，<br>
 你要真爱我，要听我的话，从今以后别再想着它。
-Source: “戒煙歌 - 李香蘭 Li Xiang Lan (山口淑子 Yoshiko Yamaguchi),” YouTube, 3 April 2020, https://www.youtube.com/watch?v=3DzRMDKXEm8. 
+<br><br>
+Source: “戒煙歌 - 李香蘭 Li Xiang Lan (山口淑子 Yoshiko Yamaguchi),” YouTube, 3 April 2020, https://www.youtube.com/watch?v=3DzRMDKXEm8. <br>
 [Transcribed and translated by Hannah Yeo]
 </div>
 
@@ -117,4 +119,4 @@ Source: “戒煙歌 - 李香蘭 Li Xiang Lan (山口淑子 Yoshiko Yamaguchi),�
 
 #### **Notes**
 
-[^1]:  
+[^1]:
