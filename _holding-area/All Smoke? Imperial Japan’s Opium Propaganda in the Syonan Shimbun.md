@@ -146,11 +146,11 @@ Source: “戒煙歌 - 李香蘭 Li Xiang Lan (山口淑子 Yoshiko Yamaguchi),�
 [^9]: Chen Su Lan, _Opium Is a Deadly Poison: An Ad Interim Report May 8th to December_, 1933 (Singapore: The Anti-Opium Clinic, 1934), 1. (From NUS Libraries)
 
 
-[^10]: The first issue of the paper, published on 20 February 1942, was called _The Shonan Times_. It was renamed _The Syonan Times_ the next day. On 8 December 1942, it was renamed _The Syonan Sinbun_. On 8 December 1943, the paper was renamed _The Syonan Shimbun_ and retained this name until its last issue on 4 September 1945. A Chinese edition, _Zhao Nan Ri Bao_ (昭南日报), was introduced on 21 February 1942. See Lee Meiyu, “Propaganda Paper,” _BiblioAsia_ 11, no. 4 (January–March 2016): 40–41.
+[^10]: The first issue of the paper, published on 20 February 1942, was called _The Shonan Times_. It was renamed _The Syonan Times_ the next day. On 8 December 1942, it was renamed _The Syonan Sinbun_. On 8 December 1943, the paper was renamed _The Syonan Shimbun_ and retained this name until its last issue on 4 September 1945. A Chinese edition, _Zhao Nan Ri Bao_ (昭南日报), was introduced on 21 February 1942. See Lee Meiyu, “[Propaganda Paper](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/syonan-shimbun/),” _BiblioAsia_ 11, no. 4 (January–March 2016): 40–41.
 
 
 
-[^11]: “Britain's Opium Policy in China Condemned,” _Syonan Shimbun_, 29 August 1942, 4; “Opium War Most Disgraceful Chapter in British History: Our Spokesman Points Out Enemy's ‘Trait of Ruthless Exploitation’,” _Syonan Shimbun_, 30 August 1942, 1. (From NewspaperSG)
+[^11]: “[Britain's Opium Policy in China Condemned](https://eresources.nlb.gov.sg/newspapers/digitised/article/syonantimes19420829-1.2.47),” _Syonan Shimbun_, 29 August 1942, 4; “[Opium War Most Disgraceful Chapter in British History: Our Spokesman Points Out Enemy's ‘Trait of Ruthless Exploitation](https://eresources.nlb.gov.sg/newspapers/digitised/article/syonantimes19420830-1.2.7)’,” _Syonan Shimbun_, 30 August 1942, 1. (From NewspaperSG)
 
 
 [^12]: The New Order, later known as the Greater East Asia Co-Prosperity Sphere, was Imperial Japan’s empty promise to unite territories in East and Southeast Asia under justice, peace and economic cooperation. In reality, it enabled Japan to advance their wartime interests under the guise of mutual benefit. &nbsp;
