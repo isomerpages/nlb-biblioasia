@@ -156,22 +156,22 @@ Source: “戒煙歌 - 李香蘭 Li Xiang Lan (山口淑子 Yoshiko Yamaguchi),�
 [^12]: The New Order, later known as the Greater East Asia Co-Prosperity Sphere, was Imperial Japan’s empty promise to unite territories in East and Southeast Asia under justice, peace and economic cooperation. In reality, it enabled Japan to advance their wartime interests under the guise of mutual benefit. &nbsp;
 
 
-[^13]: “Present East Asia War Due Entirely to British and American Encroachments,” _Syonan Shimbun_, 12 May 1942, 2. (From NewspaperSG)&nbsp;
+[^13]: “[Present East Asia War Due Entirely to British and American Encroachments](https://eresources.nlb.gov.sg/newspapers/digitised/article/syonantimes19420512-1.2.12),” _Syonan Shimbun_, 12 May 1942, 2. (From NewspaperSG)&nbsp;
 
 
-[^14]: Julia Lovell, _The Opium War: Drugs, Dreams and the Making of China_ (London: Picador, 2012), 238–40. (From National Library, Singapore, call no. R 951.033 LOV)
+[^14]: Julia Lovell, [_The Opium War: Drugs, Dreams and the Making of China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200934927) (London: Picador, 2012), 238–40. (From National Library, Singapore, call no. R 951.033 LOV)
 
 
-[^15]: “Nanking Launches Anti-British And Development of East Asia Week,” _Syonan Shimbun_, 26 August 1942, 2. (From NewspaperSG)&nbsp;
+[^15]: “[Nanking Launches Anti-British And Development of East Asia Week](https://eresources.nlb.gov.sg/newspapers/digitised/article/syonantimes19420826-1.2.19),” _Syonan Shimbun_, 26 August 1942, 2. (From NewspaperSG)&nbsp;
 
 
-[^16]: “Opium War Most Disgraceful Chapter in British History”; “Tomokazu Hori Passes Away,” _Syonan Shimbun_, 27 March 1944, 1. (From NewspaperSG)&nbsp;
+[^16]: “[Opium War Most Disgraceful Chapter in British History](https://eresources.nlb.gov.sg/newspapers/digitised/article/syonantimes19420830-1.2.7)”; “[Tomokazu Hori Passes Away](https://eresources.nlb.gov.sg/newspapers/digitised/article/syonantimes19440327-1.2.11),” _Syonan Shimbun_, 27 March 1944, 1. (From NewspaperSG)&nbsp;
 
 
-[^17]: Domei Tokyo, “Mr. Hirota Sees New Era of Peace And Prosperity For East Asia,” _Syonan Shimbun_, 30 August 1942, 1. (From NewspaperSG)&nbsp;
+[^17]: Domei Tokyo, “[Mr. Hirota Sees New Era of Peace And Prosperity For East Asia](https://eresources.nlb.gov.sg/newspapers/digitised/article/syonantimes19420830-1.2.5),” _Syonan Shimbun_, 30 August 1942, 1. (From NewspaperSG)&nbsp;
 
 
-[^18]: “Opium As an Aid to British Exploitation,” _Syonan Shumbun_, 3 September 1942, 2. (From NewspaperSG)&nbsp;
+[^18]: “[Opium As an Aid to British Exploitation](https://eresources.nlb.gov.sg/newspapers/digitised/article/syonantimes19420903-1.2.15),” _Syonan Shumbun_, 3 September 1942, 2. (From NewspaperSG)&nbsp;
 
 
 [^19]: Charles Neil, “The New Order,” _Syonan Shimbun_, 1 April 1942, 3. (From NewspaperSG)
