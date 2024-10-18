@@ -26,6 +26,10 @@ A postwar report estimated there were still 16,500 active smokers on government 
 
 In his 1935 study, President of the Singapore Anti-Opium Society Chen Su Lan put conservative estimates at one in four Chinese adults in Malaya being opium addicts.[^8] Chen, a medical doctor and third-generation Methodist, described addicts as slaves of opium in need of salvation:&nbsp;
 
+![](/images/Vol%2020%20Issue%204/Opium/opium_publication.jpg)
+<div style="background-color:white;">An anti-opium publication by Chen Su Lan, president of the Singapore Anti-Opium Society <i>Image reproduced from Chen Su Lan, The Opium Problem in British Malaya (Singapore: Singapore Anti-Opium Society, 1935), 1. (From National Library, Singapore, call no. RRARE 178.8 CHE; microfilm no. NL7461). </i></div>
+
+
 Day by day we hear of wives, mothers and children being left to starve while the bread-winners of the family spend their time smoking opium… \[The Anti-Opium Clinic\] is the only place where they can rid themselves of the opium poison and gain their liberty and freedom from their cruel master… OPIUM.[^9] 
 
 #### **Peddling Propaganda**
