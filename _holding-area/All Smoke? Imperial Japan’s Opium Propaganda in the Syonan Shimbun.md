@@ -96,6 +96,9 @@ Naturally, these endorsements cannot be taken at face value as prominent men lik
 
 Articles in the _Syonan Shimbun_ reveal that Japan knew the seriousness of the opium problem and held it as an emotive point on which loyalties could turn. Besides news articles, propaganda films about the Opium War were screened at the Kyoei Gekkyo (the former Capitol Theatre) from 1943 to 1944.[^24] Advertisements for《阿片戦争》(The Opium War) and《万世流芳》(Eternity) appeared in the _Syonan Shimbun_ and _Zhao Nan Ri Bao_. The Chinese-language 《万世流芳 》told the story of the First Opium War and was well received.[^25] Retired teacher Wong Hiong Boon, who was 11 at the time, remembers it was one of the most popular films. Lead actress Li Xianglan (also known as Yoshiko “Shirley” Yamaguchi) was a “very good singer, her songs were very popular and everyone [was] singing her song about giving up opium smoking”, he said in an oral history interview.[^26]  
 
+![](/images/Vol%2020%20Issue%204/Opium/opium_poster.jpg)
+<div style="background-color:white;">Poster for《万世流芳》(Eternity), a 1943 Chinese film about the First Opium War. Li Xianglan (left) portrays Feng Gu, a candy seller who helps her lover overcome opium addiction with medicine from Zhang Jingxian, a role played by Chen Yunshang (right). <i> Image from Wikimedia Commons </i></div>
+
 #### **Unveiling the Smokescreen**
 
 In reality, however, opium was too lucrative a business to stop. The Japanese administration continued the British policy of selling opium under a monopoly in government retail shops and repaired the opium factory at the foot of Bukit Chandu in Singapore.[^27]&nbsp; Although the Japanese permit for opium was easily attainable, public access to the drug was restricted by supply and demand.[^28] &nbsp;
