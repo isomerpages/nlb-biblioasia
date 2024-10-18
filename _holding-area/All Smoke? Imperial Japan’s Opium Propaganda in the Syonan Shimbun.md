@@ -45,6 +45,9 @@ Across the 43 months of occupation, the _Syonan Shimbun_ carried over 80 article
 
 The Chinese edition, _Zhao Nan Ri Bao_ (昭南日报), carried similar articles, often syndicating them from the state-controlled Domei News Agency in Shanghai, Nanjing and Tokyo. Examples include《南京条约百年纪念–反英与亚运动强烈展开》(Nanjing Treaty Centennial – Pan-Asian Anti-British Campaign Intensifies) published on 25 August 1942,《南京条约百年纪念–英国侵略·中国百年痛史》(Nanjing Treaty Centennial – China’s 100 Years of Pain from Britain’s Aggression) on 27 August 1942 and《与帝国协力打倒英美–雪南京条约之耻辱》(Join Forces with the Empire to Defeat the Anglo-Americans and Erase the Shame of the Nanjing Treaty) on 28 August 1942. 
 
+![](/images/Vol%2020%20Issue%204/Opium/opium_clinic.jpg)
+<div style="background-color:white;">Headlines of <i>Zhao Nan Ri Bao</i> articles on the 100th anniversary of the Treaty of Nanking. (From left) “Nanjing Treaty Centennial – China’s 100 Years of Pain from Britain’s Aggression” and “Join Forces with the Empire to Defeat the Anglo-Americans and Erase the Shame of the Nanjing Treaty”. <i>Images reproduced from Zhao Nan Ri Bao, 28 August 1942, 1. </i></div>
+
 To win over the community in Singapore, two opium propaganda strategies were implemented. First, an anti-Anglo-American campaign timed with the centennial of the Treaty of Nanking was launched a few months after Japan’s takeover. Having established Britain as the villain, Japan positioned itself as the forerunner of Asian emancipation through success stories of opium suppression and treatment in its colonies. Its goal was to justify Japan’s aggression as a war of liberation and convince subjugated populations to work with Imperial Japan as part of the New Order, later known as the Greater East Asia Co-Prosperity Sphere.[^12] &nbsp;
 
 #### **Campaign Centennial**
