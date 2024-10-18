@@ -153,28 +153,6 @@ Julia Lovell, _The Opium War: Drugs, Dreams and the Making of China_ (London: Pi
 
 “Opium War Most Disgraceful Chapter in British History”; “Tomokazu Hori Passes Away,” _Syonan Shimbun_, 27 March 1944, 1. (From NewspaperSG)&nbsp;
 
-Domei Tokyo, “Mr. Hirota Sees New Era of Peace And Prosperity For East Asia,” _Syonan Shimbun_, 30 August 1942, 1. (From NewspaperSG)&nbsp;
-
-“Opium As an Aid to British Exploitation,” _Syonan Shumbun_, 3 September 1942, 2. (From NewspaperSG)&nbsp;
-
-Charles Neil, “The New Order,” _Syonan Shimbun_, 1 April 1942, 3. (From NewspaperSG)
-
-“Considerably Fewer Opium Smokers in Manchoukuo,” _Syonan Shimbun_, 30 August 1942, 2. (From NewspaperSG)
-
-“Nippon Opium Policy in Malaya Contradicts Anglo-American Lies,” _Syonan Shimbun_, 26 September 1942, 4. (From NewspaperSG)
-
-“Community Leaders Praise Authorities’ Opium Policy: Evil to Be Stamped Out by Gradual Curing of Addicts,” _Syonan Shimbun_, 27 September, 1942, 4. (From NewspaperSG)
-
-Mamoru Shinozaki, _Syonan, My Story: The Japanese Occupation of Singapore_ (Singapore: Times Books International, 1982), 152. (From National Library, Singapore, call no. RCLOS 959.57023 SHI-\[JSB\]). These messages were read out in praise of the Japanese Emperor during his birthday celebrations.
-
-Chan Kwee Sung, “Capitol Screened Japanese Movies,” _Straits Times_, 8 January 1999, 66. (From NewspaperSG)
-
-Lee Kip Lee, oral history interview by Cindy Chou, 20 July 1994, transcript and MP3 audio, Reel/Disc 4 of 6, National Archives of Singapore (accession no. 001532), 52; Lim Choo Sye, oral history interview by Low Lay Leng, 14 September 1983, transcript and MP3 audio, Reel/Disc 3 of 16, National Archives of Singapore (accession no. 000330), 15. &nbsp;
-
-Wong Hiong Boon, oral history interview by Mark Wong, 8 June 2010, MP3 audio, 3:00–3:25, Reel/Disc 2 of 9, National Archives of Singapore (accession no. 003526). &nbsp;
-
-
-
 
 
 
@@ -224,35 +202,42 @@ Wong Hiong Boon, oral history interview by Mark Wong, 8 June 2010, MP3 audio, 3:
 [^16]: 
 
 
-[^17]: 
+[^17]: Domei Tokyo, “Mr. Hirota Sees New Era of Peace And Prosperity For East Asia,” _Syonan Shimbun_, 30 August 1942, 1. (From NewspaperSG)&nbsp;
 
 
-[^18]: 
+[^18]: “Opium As an Aid to British Exploitation,” _Syonan Shumbun_, 3 September 1942, 2. (From NewspaperSG)&nbsp;
 
 
-[^19]: 
-
-
-[^20]: 
+[^19]: Charles Neil, “The New Order,” _Syonan Shimbun_, 1 April 1942, 3. (From NewspaperSG)
 
 
 
-[^21]: 
+[^20]: “Considerably Fewer Opium Smokers in Manchoukuo,” _Syonan Shimbun_, 30 August 1942, 2. (From NewspaperSG)
 
 
-[^22]: 
+
+[^21]: “Nippon Opium Policy in Malaya Contradicts Anglo-American Lies,” _Syonan Shimbun_, 26 September 1942, 4. (From NewspaperSG)
 
 
-[^23]: 
+
+[^22]: “Community Leaders Praise Authorities’ Opium Policy: Evil to Be Stamped Out by Gradual Curing of Addicts,” _Syonan Shimbun_, 27 September, 1942, 4. (From NewspaperSG)
 
 
-[^24]: 
+
+[^23]: Mamoru Shinozaki, _Syonan, My Story: The Japanese Occupation of Singapore_ (Singapore: Times Books International, 1982), 152. (From National Library, Singapore, call no. RCLOS 959.57023 SHI-\[JSB\]). These messages were read out in praise of the Japanese Emperor during his birthday celebrations.
 
 
-[^25]: 
+
+[^24]: Chan Kwee Sung, “Capitol Screened Japanese Movies,” _Straits Times_, 8 January 1999, 66. (From NewspaperSG)
 
 
-[^26]: 
+
+[^25]: Lee Kip Lee, oral history interview by Cindy Chou, 20 July 1994, transcript and MP3 audio, Reel/Disc 4 of 6, National Archives of Singapore (accession no. 001532), 52; Lim Choo Sye, oral history interview by Low Lay Leng, 14 September 1983, transcript and MP3 audio, Reel/Disc 3 of 16, National Archives of Singapore (accession no. 000330), 15. &nbsp;
+
+
+
+[^26]: Wong Hiong Boon, oral history interview by Mark Wong, 8 June 2010, MP3 audio, 3:00–3:25, Reel/Disc 2 of 9, National Archives of Singapore (accession no. 003526). &nbsp;
+
 
 
 [^27]: Diana S. Kim, _Empires of Vice: The Rise of Opium Prohibition Across Southeast Asia_ (Princeton: Princeton University Press, 2020), 189. (From National Library, Singapore, call no. RSING 364.1770959 KIM). The factory had been partially destroyed during bombings in December 1941.
