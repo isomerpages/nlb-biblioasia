@@ -2,6 +2,7 @@ collections:
   holding-area:
     output: true
     order:
+      - All Smoke? Imperial Japan’s Opium Propaganda in the Syonan Shimbun.md
       - "Nanjing to Nanyang: Missionary Sojourns to Singapore and Christian
         Educational Missions in the 1950s.md"
       - Sample Test2.md
