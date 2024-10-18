@@ -119,19 +119,19 @@ Source: “戒煙歌 - 李香蘭 Li Xiang Lan (山口淑子 Yoshiko Yamaguchi),�
 
 #### **Notes**
 
-[^1]:  “The Anti-opium Crusade,” _Pinang Gazette and Straits Chronicle_, 9 March 1907, 4; “Anti-opium Conference,” _Straits Echo (Mail Edition)_, 15 March 1907, 211. (From NewspaperSG)
+[^1]:  “[The Anti-opium Crusade](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19070309-1.2.13),” _Pinang Gazette and Straits Chronicle_, 9 March 1907, 4; “[Anti-opium Conference](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsechomail19070315-1.2.40),” _Straits Echo (Mail Edition)_, 15 March 1907, 211. (From NewspaperSG)
 
 
 [^2]: Jayakumary Marimuthu and Mohd Firdaus Abdullah, “Opium Smoking Suppression Campaigns and the role of Anti-Opium Movements in the Federated Malay States, 1906–1910,” _Jebat: Malaysian Journal of History, Politics &amp; Strategic_ Studies 47, no.3 (2020): 41–42, https://journalarticle.ukm.my/17094/1/44772-144085-1-SM.pdf.
 
 
-[^3]: On average, the Straits Settlements of Singapore, Penang and Melaka generated 49 percent of their annual revenue from opium farming between 1898 and 1906 at least. See Song Ong Siang, _One Hundred Years' History of the Chinese in Singapore: The Annotated Edition_ (Singapore: National Library Board and World Scientific Publishing Co. Pte. Ltd., 2020), 629. (From NLB OverDrive); Carl A. Trocki, _Opium and Empire: Chinese Society in Colonial Singapore_, _1800–1910_ (Ithaca and London: Cornell University Press, 1990), 2. (From National Library, Singapore, call no. RCLOS 305.895105957 TRO)
+[^3]: On average, the Straits Settlements of Singapore, Penang and Melaka generated 49 percent of their annual revenue from opium farming between 1898 and 1906 at least. See Song Ong Siang, [_One Hundred Years' History of the Chinese in Singapore: The Annotated Edition_](https://nlb.overdrive.com/media/5400193) (Singapore: National Library Board and World Scientific Publishing Co. Pte. Ltd., 2020), 629. (From NLB OverDrive); Carl A. Trocki, [_Opium and Empire: Chinese Society in Colonial Singapore_, _1800–1910_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5587400) (Ithaca and London: Cornell University Press, 1990), 2. (From National Library, Singapore, call no. RCLOS 305.895105957 TRO)
 
 
-[^4]: Lim Boon Keng, “The Attitude of the State Towards the Opium Habit,” _The Straits Chinese Magazine: A Quarterly Journal of Oriental and Occidental Culture_ 2, no. 6 (June 1898): 47. (From National Library, Singapore, call no. RRARE 959.5 STR; microfilm no. NL267). Lim Boon Keng, Song Ong Siang and Wu Lien-Teh were the editors of the magazine.&nbsp;
+[^4]: Lim Boon Keng, “The Attitude of the State Towards the Opium Habit,” [_The Straits Chinese Magazine: A Quarterly Journal of Oriental and Occidental Culture_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5813779) 2, no. 6 (June 1898): 47. (From National Library, Singapore, call no. RRARE 959.5 STR; microfilm no. NL267). Lim Boon Keng, Song Ong Siang and Wu Lien-Teh were the editors of the magazine.&nbsp;
 
 
-[^5]: Wu Lien-Teh, _Plague Fighter: The Autobiography of a Modern Chinese Physician_ (Penang: Areca Books, 2014), 245–46. (From National Library, Singapore, call no. RSEA 610.92 WU); Song Ong Siang, _One Hundred Years' History of the Chinese in Singapore_ (Singapore: University of Malaya Press, 1967), 438. (From National Library, Singapore, call no. RSING 959.57 SON)
+[^5]: Wu Lien-Teh, [_Plague Fighter: The Autobiography of a Modern Chinese Physician_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200944787) (Penang: Areca Books, 2014), 245–46. (From National Library, Singapore, call no. RSEA 610.92 WU); Song Ong Siang, _One Hundred Years' History of the Chinese in Singapore_ (Singapore: University of Malaya Press, 1967), 438. (From National Library, Singapore, call no. RSING 959.57 SON)
 
 
 [^6]: Harumi Goto-Shibata, “The International Opium Conference of 1924–25 and Japan,” _Modern Asian Studies_ 36, no. 4 (October 2002): 976–77. (From JSTOR via NLB’s eResources website); John Collins, “Drug Diplomacy from the Opium Wars through the League of Nations, 1839–1939,” Cambridge University Press, 25 November 2021, https://doi.org/10.1017/9781009058278.002; William B. McAllister, _Drug Diplomacy in the Twentieth Century: An International History_ (London; New York: Routledge, 2000), https://archive.org/details/drugdiplomacyint0000mcal.
