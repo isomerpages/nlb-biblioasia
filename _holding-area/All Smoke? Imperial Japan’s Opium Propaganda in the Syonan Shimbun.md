@@ -194,11 +194,11 @@ Source: “戒煙歌 - 李香蘭 Li Xiang Lan (山口淑子 Yoshiko Yamaguchi),�
 
 
 
-[^24]: Chan Kwee Sung, “Capitol Screened Japanese Movies,” _Straits Times_, 8 January 1999, 66. (From NewspaperSG)
+[^24]: Chan Kwee Sung, “[Capitol Screened Japanese Movies](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19990108-1.2.84.3),” _Straits Times_, 8 January 1999, 66. (From NewspaperSG)
 
 
 
-[^25]: Lee Kip Lee, oral history interview by Cindy Chou, 20 July 1994, transcript and MP3 audio, Reel/Disc 4 of 6, National Archives of Singapore (accession no. 001532), 52; Lim Choo Sye, oral history interview by Low Lay Leng, 14 September 1983, transcript and MP3 audio, Reel/Disc 3 of 16, National Archives of Singapore (accession no. 000330), 15. &nbsp;
+[^25]: Lee Kip Lee, oral history interview by Cindy Chou, 20 July 1994, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/2/2d90b26a-115e-11e3-83d5-0050568939ad-OHC001532_004/web/html5/index.html) and MP3 audio, Reel/Disc 4 of 6, National Archives of Singapore ([accession no. 001532](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/001532)), 52; Lim Choo Sye, oral history interview by Low Lay Leng, 14 September 1983, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/6/6f19ca76-1160-11e3-83d5-0050568939ad-OHC000330_003/web/html5/index.html) and MP3 audio, Reel/Disc 3 of 16, National Archives of Singapore ([accession no. 000330](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000330)), 15. &nbsp;
 
 
 
