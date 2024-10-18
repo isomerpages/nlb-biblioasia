@@ -56,6 +56,11 @@ To win over the community in Singapore, two opium propaganda strategies were imp
 
 His speech set the tone for a rapid series of articles on opium timed with the 100th anniversary of the Treaty of Nanking. Signed on 29 August 1842 between Great Britain and the Qing dynasty, the treaty gave British subjects the right to live and trade in five Chinese port cities (Canton, Amoy, Fuzhou, Ningbo and Shanghai), ceded Hong Kong to Britain and demanded 21 million dollars from China as war compensation, in return for Britain ending hostilities in what is now known as the First Opium War.[^14]&nbsp;
 
+![](/images/Vol%2020%20Issue%204/Opium/opium_headliness1.jpg)
+![](/images/Vol%2020%20Issue%204/Opium/opium_headliness2.jpg)
+![](/images/Vol%2020%20Issue%204/Opium/opium_headliness3.jpg)
+<div style="background-color:white;">Headlines of <i>Syonan Shimbun</i> articles on the 100th anniversary of the Treaty of Nanking. <i>Images reproduced from Syonan Shimbun, 1 September 1942, 3, and 3 September 1942, 2 and 4. (From NewspaperSG). </i></div>
+
 Between 26 August and 3 September 1942, 13 more articles zeroed in on the Opium War and Treaty of Nanking as part of the “Anti-British and East Asia Development Week” commemorating the treaty’s centenary.[^15] The articles drew battle lines between the East and the West. &nbsp;
 
 On 30 August, the newspaper carried reports on the comments by Tomokazu Hori, head and spokesperson of the Board of Information, and former premier Koki Hirota on the occasion of the 100th anniversary of the Treaty of Nanking. Hori called the Opium War and the treaty the most “disgraceful and ugly chapters in British history”. Rousing “the people of China, India and other countries exploited by Britain” to “meet them squarely”, he argued that British exploitation would never end otherwise. “Is it really possible for the British who for the past 100 years have regarded the Chinese people as uncivilised people regard the Chinese as equal to themselves and respect Chinese cultural equality? Nonsense! All their lip services will disappear instantly when the necessities cease.”[^16] &nbsp;
