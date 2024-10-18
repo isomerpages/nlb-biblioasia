@@ -8,7 +8,7 @@ description: Imperial Japan justified its occupation of Singapore with opium
 #### Imperial Japan justified its occupation of Singapore with opium propaganda and prohibition promises.
 By Hannah Yeo
 
-![](/images/Vol%2020%20Issue%204/Opium/opium_facing.jpg)
+![](/images/Vol%2020%20Issue%204/Opium/opium_facing2.jpg)
 <div style="background-color:white;">From a postcard of an opium smoker, c. 1920.  <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore. </i></div>
 
 
