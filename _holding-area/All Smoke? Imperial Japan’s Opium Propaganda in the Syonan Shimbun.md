@@ -84,8 +84,8 @@ The _Syonan Shimbun_ cited Japan’s puppet state of Manchukuo in Manchuria as a
 In Malaya, the Japanese authorities aimed to gradually reduce opium smoking by limiting the amount of opium people could buy, “supplying just sufficient quantities to keep addicts from resorting to faked drugs which are more poisonous”.[^21] The _Syonan Shimbun_ carried reports of local leaders praising Japan for solving the opium problem.&nbsp;
 
 ![](/images/Vol%2020%20Issue%204/Opium/opium_headlines42871.jpg)
-![](/images/Vol%2020%20Issue%204/Opium/opium_headliness42872.jpg)
-![](/images/Vol%2020%20Issue%204/Opium/opium_headliness42873.jpg)
+![](/images/Vol%2020%20Issue%204/Opium/opium_headlines42872.jpg)
+![](/images/Vol%2020%20Issue%204/Opium/opium_headlines42873.jpg)
 <div style="background-color:white;">Headlines of <i>Syonan Shimbun</i> articles covering Imperial Japan’s anti-opium efforts. <i>Images reproduced from Syonan Shimbun, 27 August 1942, 4; 23 September 1942, 1; and 26 September 1942, 4. (From NewspaperSG). </i></div>
 
 “Everybody welcomes the policy of the Nippon authorities,” were the words of Lim Boon Keng, who was also a leader of the Chinese community. Eurasian leader Charles Paglar said: “It will take some time to cure addicts without injurious results. Nippon-xin can safely do it in the most efficient manner.” “Even if \[the policy\] causes… some loss in the revenue, no good Government could possibly enrich itself at the expense of the health of the people whom they are to govern,” said S.C. Goho, leader of the Indian community.[^22]&nbsp; &nbsp;
