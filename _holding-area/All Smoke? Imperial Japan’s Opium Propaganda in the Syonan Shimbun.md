@@ -206,15 +206,15 @@ Source: “戒煙歌 - 李香蘭 Li Xiang Lan (山口淑子 Yoshiko Yamaguchi),�
 
 
 
-[^27]: Diana S. Kim, _Empires of Vice: The Rise of Opium Prohibition Across Southeast Asia_ (Princeton: Princeton University Press, 2020), 189. (From National Library, Singapore, call no. RSING 364.1770959 KIM). The factory had been partially destroyed during bombings in December 1941.
+[^27]: Diana S. Kim, [_Empires of Vice: The Rise of Opium Prohibition Across Southeast Asia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=204335456) (Princeton: Princeton University Press, 2020), 189. (From National Library, Singapore, call no. RSING 364.1770959 KIM). The factory had been partially destroyed during bombings in December 1941.
 
 
 
-[^28]: Mackay, _Eastern Customs: The Customs Service in British Malaya and the Opium Trade_, 152;&nbsp; Pung Eng Huat, “A Research Paper on the Opium Addict: The Nature and Extent of Opium Addiction in Singapore and the Measures in Force to Rehabilitate the Addict” (Thesis, University of Malaya, Social Studies Course, 1957), 29. &nbsp;
+[^28]: Mackay, [_Eastern Customs: The Customs Service in British Malaya and the Opium Trade_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12590723), 152;&nbsp; Pung Eng Huat, “A Research Paper on the Opium Addict: The Nature and Extent of Opium Addiction in Singapore and the Measures in Force to Rehabilitate the Addict” (Thesis, University of Malaya, Social Studies Course, 1957), 29. &nbsp;
 
 
 
-[^29]: This conversion from _hoon_ to gram is based on Chen Su Lan’s book, _The Opium Problem in British Malaya_, where 4 _chi_ (40 _hoons_) is given as 8/15 ounce.
+[^29]: This conversion from _hoon_ to gram is based on Chen Su Lan’s book, [_The Opium Problem in British Malaya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980015), where 4 _chi_ (40 _hoons_) is given as 8/15 ounce.
 
 
 
