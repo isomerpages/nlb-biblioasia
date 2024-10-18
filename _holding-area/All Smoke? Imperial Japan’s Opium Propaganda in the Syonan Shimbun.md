@@ -12,6 +12,9 @@ By Hannah Yeo
 <div style="background-color:white;">From a postcard of an opium smoker, c. 1920.  <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore. </i></div>
 
 
+![](/images/Vol%2020%20Issue%204/Opium/opium_chinaman.jpg)
+<div style="background-color:white;">Postcard of an opium smoker, early-mid 20th century.  <i>Collection of the National Museum of Singapore, National Heritage Board. </i></div>
+
 The date: 8 March 1907. The location: Ipoh. A parade of enormous lanterns shaped as opium beds, pipes and lamps snaked through the town by torchlight, along with effigies of opium smokers. Nearly 40 former opium smokers who had broken free of their habit took part in the procession, shouting their gratitude for the anti-opium movement. Hundreds of real opium pipes surrendered by former smokers and two 70-year-old former addicts brought up the rear.[^1]
 
 This theatrical display was part of the first Conference of Anti-Opium Societies in the Straits Settlements and Federated Malay States – the largest ever recorded in the world at the time – with the participation of some 3,000 delegates from Penang, Singapore, Melaka, Selangor and Negeri Sembilan.[^2]
@@ -102,6 +105,9 @@ Articles in the _Syonan Shimbun_ reveal that Japan knew the seriousness of the o
 #### **Unveiling the Smokescreen**
 
 In reality, however, opium was too lucrative a business to stop. The Japanese administration continued the British policy of selling opium under a monopoly in government retail shops and repaired the opium factory at the foot of Bukit Chandu in Singapore.[^27]&nbsp; Although the Japanese permit for opium was easily attainable, public access to the drug was restricted by supply and demand.[^28] &nbsp;
+
+![](/images/Vol%2020%20Issue%204/Opium/opium_permit.jpg)
+<div style="background-color:white;">A 1942 Japanese-issued opium permit for one tube of chandu per day. <i>Chew Chang Lang Collection, courtesy of National Archives of Singapore. </i></div>
 
 ![](/images/Vol%2020%20Issue%204/Opium/opium_shop.jpg)
 <div style="background-color:white;">A government chandu (smokable opium) retail shop in Singapore, c. 1941. Photo by Harrison Forman. <i>From the American Geographical Society Library, University of Wisconsin-Milwaukee Libraries. </i></div>
