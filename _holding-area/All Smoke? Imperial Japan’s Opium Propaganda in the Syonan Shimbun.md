@@ -218,16 +218,16 @@ Source: “戒煙歌 - 李香蘭 Li Xiang Lan (山口淑子 Yoshiko Yamaguchi),�
 
 
 
-[^30]: Lim Thean Soo, Sukumaran Nair and S. Mohd. Razak, _The Impact of Customs_ (Singapore: Singapore National Printers, 1974), 11. (From National Library, Singapore, call no. RCLOS 336.26095957 LIM); Leong Hon Koon, “The Opium Problem in Singapore,” United Nations Office on Drugs and Crime, January 1958, https://www.unodc.org/unodc/en/data-and-analysis/bulletin/bulletin\_1958-01-01\_4\_page003.html. &nbsp;
+[^30]: Lim Thean Soo, Sukumaran Nair and S. Mohd. Razak, [_The Impact of Customs_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4081739) (Singapore: Singapore National Printers, 1974), 11. (From National Library, Singapore, call no. RCLOS 336.26095957 LIM); Leong Hon Koon, “The Opium Problem in Singapore,” United Nations Office on Drugs and Crime, January 1958, https://www.unodc.org/unodc/en/data-and-analysis/bulletin/bulletin\_1958-01-01\_4\_page003.html. &nbsp;
 
 
 
 
-[^31]: Carl A. Trocki, _Opium, Empire, and the Global Political Economy: A Study of the Asian Opium Trade, 1750–1950_ (London: Routledge, 1999), 88–89. (From National Library, Singapore, call no. R 363.45095 TRO); Hans Derks, _History of the Opium Problem, The Assault on the East, ca. 1600–1950_ (Leiden: Brill, 2012), 495. (From National Library, Singapore, call no. RSEA 363.450950903 DER)
+[^31]: Carl A. Trocki, [_Opium, Empire, and the Global Political Economy: A Study of the Asian Opium Trade, 1750–1950_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9432950) (London: Routledge, 1999), 88–89. (From National Library, Singapore, call no. R 363.45095 TRO); Hans Derks, [_History of the Opium Problem, The Assault on the East, ca. 1600–1950_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202079145) (Leiden: Brill, 2012), 495. (From National Library, Singapore, call no. RSEA 363.450950903 DER)
 
 
 
-[^32]: Neil Boister, “Colonialism, Anti-Colonialism and Neo-Colonialism in China: The Opium Question at the Tokyo War Crimes Tribunal,” in _War Crimes Trials in the Wake of Decolonization and Cold War in Asia, 1945–1956_, ed. Kerstin von Lingen (London: Palgrave Macmillan, 2016), 32. (From National Library, Singapore, call no. RSEA 345.01 WAR)
+[^32]: Neil Boister, “Colonialism, Anti-Colonialism and Neo-Colonialism in China: The Opium Question at the Tokyo War Crimes Tribunal,” in [_War Crimes Trials in the Wake of Decolonization and Cold War in Asia, 1945–1956_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202743564), ed. Kerstin von Lingen (London: Palgrave Macmillan, 2016), 32. (From National Library, Singapore, call no. RSEA 345.01 WAR)
 
 
 
@@ -235,4 +235,4 @@ Source: “戒煙歌 - 李香蘭 Li Xiang Lan (山口淑子 Yoshiko Yamaguchi),�
 
 
 
-[^34]: “Notice: Opium and Chandu Proclamation,” _Straits Chronicle_, 11 February 1946, 2; “Suppressing Opium Smoking,” _Straits Times_, 4 February 1946, 3. (From NewspaperSG)
+[^34]: “[Notice: Opium and Chandu Proclamation](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitschronicle19460211-1.2.13.2),” _Straits Chronicle_, 11 February 1946, 2; “[Suppressing Opium Smoking](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19460204-1.2.28),” _Straits Times_, 4 February 1946, 3. (From NewspaperSG)
