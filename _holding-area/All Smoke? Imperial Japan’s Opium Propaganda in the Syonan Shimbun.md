@@ -24,7 +24,7 @@ In his 1935 study, President of the Singapore Anti-Opium Society Chen Su Lan put
 
 Day by day we hear of wives, mothers and children being left to starve while the bread-winners of the family spend their time smoking opium… \[The Anti-Opium Clinic\] is the only place where they can rid themselves of the opium poison and gain their liberty and freedom from their cruel master… OPIUM.9  
 
-Peddling Propaganda
+#### **Peddling Propaganda**
 
 The problem of opium addiction in Malaya was well known internationally by the time the Imperial Japanese Army crossed the causeway into Singapore. Long aware of the problem of opium addiction in Asia, Japan used this to their advantage as well as to justify their invasion of China and Malaya as one of emancipation from Western oppression. In Singapore, this same narrative was communicated through newspapers. 
 
@@ -36,7 +36,7 @@ The Chinese edition, _Zhao Nan Ri Bao_ (昭南日报), carried similar articles,
 
 To win over the community in Singapore, two opium propaganda strategies were implemented. First, an anti-Anglo-American campaign timed with the centennial of the Treaty of Nanking was launched a few months after Japan’s takeover. Having established Britain as the villain, Japan positioned itself as the forerunner of Asian emancipation through success stories of opium suppression and treatment in its colonies. Its goal was to justify Japan’s aggression as a war of liberation and convince subjugated populations to work with Imperial Japan as part of the New Order, later known as the Greater East Asia Co-Prosperity Sphere.12  
 
-Campaign Centennial
+#### **Campaign Centennial**
 
 “\[T\]he primary cause for the outbreak of the present war ‘can be traced directly to the rampant encroachments by Britain and the United States upon East Asia these past decades’,” said Japanese Foreign Minister Shigenori Togo in a speech before the Institute of Pacific Relations, as reported by the _Syonan Shimbun_ on 12 May 1942. He recalled that “Britain following the shameful Opium War extensively exploited China with Hong Kong as its stronghold”.13  
 
@@ -52,7 +52,7 @@ On 3 September, the paper published a scathing report on the Opium War and wrote
 
 In the crucible of war, Japan linked its occupation of Malaya to the historical struggle against British imperialism, framing the Pacific War as a continuation of the Opium War.
 
-Prohibition Promises
+#### **Prohibition Promises**
 
 When the tirade against the Opium War ended, a new narrative emerged – promises that Japan would eradicate opium addiction by setting up opium clinics and creating antidotes in the territories they had seized. 
 
@@ -64,11 +64,11 @@ In Malaya, the Japanese authorities aimed to gradually reduce opium smoking by l
 
 Naturally, these endorsements cannot be taken at face value as prominent men like Lim and Paglar were forced to serve as Japanese mouthpieces. Mamoru Shinozaki, who was the chief education officer and chief welfare officer during the Japanese Occupation of Singapore, noted that he had, on one occasion, given each community leader “a slightly different version of \[a\] message which \[he\] wrote \[himself\]. The leaders had to read these messages to carry out \[his\] orders”.23  
 
-Opium on the Big Screen
+#### **Opium on the Big Screen**
 
 Articles in the _Syonan Shimbun_ reveal that Japan knew the seriousness of the opium problem and held it as an emotive point on which loyalties could turn. Besides news articles, propaganda films about the Opium War were screened at the Kyoei Gekkyo (the former Capitol Theatre) from 1943 to 1944.24 Advertisements for《阿片戦争》(The Opium War) and《万世流芳》(Eternity) appeared in the _Syonan Shimbun_ and _Zhao Nan Ri Bao_. The Chinese-language 《万世流芳 》told the story of the First Opium War and was well received.25 Retired teacher Wong Hiong Boon, who was 11 at the time, remembers it was one of the most popular films. Lead actress Li Xianglan (also known as Yoshiko “Shirley” Yamaguchi) was a “very good singer, her songs were very popular and everyone [was] singing her song about giving up opium smoking”, he said in an oral history interview.26  
 
-Unveiling the Smokescreen
+#### **Unveiling the Smokescreen**
 
 In reality, however, opium was too lucrative a business to stop. The Japanese administration continued the British policy of selling opium under a monopoly in government retail shops and repaired the opium factory at the foot of Bukit Chandu in Singapore.27  Although the Japanese permit for opium was easily attainable, public access to the drug was restricted by supply and demand.28  
 
