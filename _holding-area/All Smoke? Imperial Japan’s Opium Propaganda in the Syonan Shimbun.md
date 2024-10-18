@@ -202,7 +202,7 @@ Source: “戒煙歌 - 李香蘭 Li Xiang Lan (山口淑子 Yoshiko Yamaguchi),�
 
 
 
-[^26]: Wong Hiong Boon, oral history interview by Mark Wong, 8 June 2010, MP3 audio, 3:00–3:25, Reel/Disc 2 of 9, National Archives of Singapore (accession no. 003526). &nbsp;
+[^26]: [Wong Hiong Boon](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/f3ddf2c5-1161-11e3-83d5-0050568939ad), oral history interview by Mark Wong, 8 June 2010, MP3 audio, 3:00–3:25, Reel/Disc 2 of 9, National Archives of Singapore ([accession no. 003526](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/003526)). &nbsp;
 
 
 
