@@ -56,12 +56,12 @@ To win over the community in Singapore, two opium propaganda strategies were imp
 
 His speech set the tone for a rapid series of articles on opium timed with the 100th anniversary of the Treaty of Nanking. Signed on 29 August 1842 between Great Britain and the Qing dynasty, the treaty gave British subjects the right to live and trade in five Chinese port cities (Canton, Amoy, Fuzhou, Ningbo and Shanghai), ceded Hong Kong to Britain and demanded 21 million dollars from China as war compensation, in return for Britain ending hostilities in what is now known as the First Opium War.[^14]&nbsp;
 
+Between 26 August and 3 September 1942, 13 more articles zeroed in on the Opium War and Treaty of Nanking as part of the “Anti-British and East Asia Development Week” commemorating the treaty’s centenary.[^15] The articles drew battle lines between the East and the West. &nbsp;
+
 ![](/images/Vol%2020%20Issue%204/Opium/opium_headliness1.jpg)
 ![](/images/Vol%2020%20Issue%204/Opium/opium_headliness2.jpg)
 ![](/images/Vol%2020%20Issue%204/Opium/opium_headliness3.jpg)
 <div style="background-color:white;">Headlines of <i>Syonan Shimbun</i> articles on the 100th anniversary of the Treaty of Nanking. <i>Images reproduced from Syonan Shimbun, 1 September 1942, 3, and 3 September 1942, 2 and 4. (From NewspaperSG). </i></div>
-
-Between 26 August and 3 September 1942, 13 more articles zeroed in on the Opium War and Treaty of Nanking as part of the “Anti-British and East Asia Development Week” commemorating the treaty’s centenary.[^15] The articles drew battle lines between the East and the West. &nbsp;
 
 On 30 August, the newspaper carried reports on the comments by Tomokazu Hori, head and spokesperson of the Board of Information, and former premier Koki Hirota on the occasion of the 100th anniversary of the Treaty of Nanking. Hori called the Opium War and the treaty the most “disgraceful and ugly chapters in British history”. Rousing “the people of China, India and other countries exploited by Britain” to “meet them squarely”, he argued that British exploitation would never end otherwise. “Is it really possible for the British who for the past 100 years have regarded the Chinese people as uncivilised people regard the Chinese as equal to themselves and respect Chinese cultural equality? Nonsense! All their lip services will disappear instantly when the necessities cease.”[^16] &nbsp;
 
@@ -82,6 +82,11 @@ When the tirade against the Opium War ended, a new narrative emerged – promise
 The _Syonan Shimbun_ cited Japan’s puppet state of Manchukuo in Manchuria as a model example of how the government had taken gradual steps to prohibit opium smoking. “All habitual smokers have been registered and nearly 40 clinics to cure addicts have been established,” the paper reported.[^19] Through the efforts of the Opium Prohibition Bureau and the Opium Law, the paper wrote that the number of opium smokers in Manchukuo had dropped from 1.3 million in 1937 to 508,000 in 1942.[^20] &nbsp;
 
 In Malaya, the Japanese authorities aimed to gradually reduce opium smoking by limiting the amount of opium people could buy, “supplying just sufficient quantities to keep addicts from resorting to faked drugs which are more poisonous”.[^21] The _Syonan Shimbun_ carried reports of local leaders praising Japan for solving the opium problem.&nbsp;
+
+![](/images/Vol%2020%20Issue%204/Opium/opium_headliness1.jpg)
+![](/images/Vol%2020%20Issue%204/Opium/opium_headliness2.jpg)
+![](/images/Vol%2020%20Issue%204/Opium/opium_headliness3.jpg)
+<div style="background-color:white;">Headlines of <i>Syonan Shimbun</i> articles covering Imperial Japan’s anti-opium efforts. <i>Images reproduced from Syonan Shimbun, 27 August 1942, 4; 23 September 1942, 1; and 26 September 1942, 4. (From NewspaperSG). </i></div>
 
 “Everybody welcomes the policy of the Nippon authorities,” were the words of Lim Boon Keng, who was also a leader of the Chinese community. Eurasian leader Charles Paglar said: “It will take some time to cure addicts without injurious results. Nippon-xin can safely do it in the most efficient manner.” “Even if \[the policy\] causes… some loss in the revenue, no good Government could possibly enrich itself at the expense of the health of the people whom they are to govern,” said S.C. Goho, leader of the Indian community.[^22]&nbsp; &nbsp;
 
