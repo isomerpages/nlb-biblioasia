@@ -174,23 +174,23 @@ Source: “戒煙歌 - 李香蘭 Li Xiang Lan (山口淑子 Yoshiko Yamaguchi),�
 [^18]: “[Opium As an Aid to British Exploitation](https://eresources.nlb.gov.sg/newspapers/digitised/article/syonantimes19420903-1.2.15),” _Syonan Shumbun_, 3 September 1942, 2. (From NewspaperSG)&nbsp;
 
 
-[^19]: Charles Neil, “The New Order,” _Syonan Shimbun_, 1 April 1942, 3. (From NewspaperSG)
+[^19]: Charles Neil, “[The New Order,](https://eresources.nlb.gov.sg/newspapers/digitised/article/syonantimes19420401-1.2.12)” _Syonan Shimbun_, 1 April 1942, 3. (From NewspaperSG)
 
 
 
-[^20]: “Considerably Fewer Opium Smokers in Manchoukuo,” _Syonan Shimbun_, 30 August 1942, 2. (From NewspaperSG)
+[^20]: “[Considerably Fewer Opium Smokers in Manchoukuo](https://eresources.nlb.gov.sg/newspapers/digitised/article/syonantimes19420830-1.2.18),” _Syonan Shimbun_, 30 August 1942, 2. (From NewspaperSG)
 
 
 
-[^21]: “Nippon Opium Policy in Malaya Contradicts Anglo-American Lies,” _Syonan Shimbun_, 26 September 1942, 4. (From NewspaperSG)
+[^21]: “[Nippon Opium Policy in Malaya Contradicts Anglo-American Lies](https://eresources.nlb.gov.sg/newspapers/digitised/article/syonantimes19420926-1.2.32),” _Syonan Shimbun_, 26 September 1942, 4. (From NewspaperSG)
 
 
 
-[^22]: “Community Leaders Praise Authorities’ Opium Policy: Evil to Be Stamped Out by Gradual Curing of Addicts,” _Syonan Shimbun_, 27 September, 1942, 4. (From NewspaperSG)
+[^22]: “[Community Leaders Praise Authorities’ Opium Policy: Evil to Be Stamped Out by Gradual Curing of Addicts](https://eresources.nlb.gov.sg/newspapers/digitised/article/syonantimes19420927-1.2.38),” _Syonan Shimbun_, 27 September, 1942, 4. (From NewspaperSG)
 
 
 
-[^23]: Mamoru Shinozaki, _Syonan, My Story: The Japanese Occupation of Singapore_ (Singapore: Times Books International, 1982), 152. (From National Library, Singapore, call no. RCLOS 959.57023 SHI-\[JSB\]). These messages were read out in praise of the Japanese Emperor during his birthday celebrations.
+[^23]: Mamoru Shinozaki, [_Syonan, My Story: The Japanese Occupation of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4081273) (Singapore: Times Books International, 1982), 152. (From National Library, Singapore, call no. RCLOS 959.57023 SHI-\[JSB\]). These messages were read out in praise of the Japanese Emperor during his birthday celebrations.
 
 
 
