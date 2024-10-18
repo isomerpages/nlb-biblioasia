@@ -12,14 +12,14 @@ By Hannah Yeo
 <div style="background-color:white;">From a postcard of an opium smoker, c. 1920.  <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore. </i></div>
 
 
-![](/images/Vol%2020%20Issue%204/Opium/opium_chinaman.jpg)
-<div style="background-color:white;">Postcard of an opium smoker, early-mid 20th century.  <i>Collection of the National Museum of Singapore, National Heritage Board. </i></div>
-
 The date: 8 March 1907. The location: Ipoh. A parade of enormous lanterns shaped as opium beds, pipes and lamps snaked through the town by torchlight, along with effigies of opium smokers. Nearly 40 former opium smokers who had broken free of their habit took part in the procession, shouting their gratitude for the anti-opium movement. Hundreds of real opium pipes surrendered by former smokers and two 70-year-old former addicts brought up the rear.[^1]
 
 This theatrical display was part of the first Conference of Anti-Opium Societies in the Straits Settlements and Federated Malay States – the largest ever recorded in the world at the time – with the participation of some 3,000 delegates from Penang, Singapore, Melaka, Selangor and Negeri Sembilan.[^2]
 
 By the turn of the 20th century, anti-opium sentiment was gaining ground in Malaya and on the world stage. As early as 1898, medical doctor Lim Boon Keng and lawyer Song Ong Siang had criticised the colonial government for drawing over half of its revenue from opium sales.[^3] “\[W\]e wish to call the attention of the Straits Government to its position in regard to the baneful habit of opium smoking, to the revenue which it derives from this luxury and to the duties which it morally owes to the poor and helpless victims of the opium habit,” Lim wrote in the _Straits Chinese Magazine_.[^4] &nbsp;
+
+![](/images/Vol%2020%20Issue%204/Opium/opium_chinaman.jpg)
+<div style="background-color:white;">Postcard of an opium smoker, early-mid 20th century.  <i>Collection of the National Museum of Singapore, National Heritage Board. </i></div>
 
 When it was clear that the colonial government was not listening, Lim’s medical partner Wu Lien-Teh raised the issue at an anti-opium meeting in London in 1907. There, to his surprise, “speaker after speaker railed at its \[the opium trade’s\] iniquities and demanded stoppage of further traffic between India and China,” he wrote in his memoir. “I gave up my notes and spoke impromptu when describing conditions in the Straits Settlements… \[and\] received continued ovation from the 500 persons assembled.” Wu’s petition was brought before Winston Churchill, then Under-Secretary of State for the Colonies. Churchill assured him that the “Home Government was not indifferent, but that it was only possible to move step by step in the Colonies in view of the vast interests involved”.[^5]&nbsp;
 
@@ -115,7 +115,7 @@ In reality, however, opium was too lucrative a business to stop. The Japanese ad
 
 Between 1942 and 1944, opium rations were halved from 60 tubes (each containing two _hoon_ or 0.77 g of opium) to 30 tubes per month because stock had run out.[^29] This drove even more addicts to the booming wartime black market, where they could buy opium from smugglers, dealers working with Japanese soldier-carriers, or those who would trade their drug ration for food.&nbsp;
 
-A 1958 study by medical doctor Joseph Leong Hon Koon for the United Nations reported that the “addict population at the end of the war was approximately 16,000 in Singapore alone”. But taking into account the unrecorded illicit drug trade, others estimate this figure to be almost as high as 30,000.[^30] For all its propaganda, Japan’s New Order was little different from the self-interested spectre it had painted of Britain’s Empire. In fact, Imperial Japan had long been raising opium revenue through farms in their colonies of Formosa (now Taiwan) and Manchuria before the war.[^31] &nbsp;
+A 1958 study by medical doctor Joseph Leong Hon Koon for the United Nations reported that the “addict population at the end of the war was approximately 16,000 in Singapore alone”. But taking into account the unrecorded illicit drug trade, others estimate this figure to be almost as high as 30,000.[^30] For all its propaganda, Japan’s New Order was little different from the self-interested spectre it had painted of Britain’s Empire. In fact, Imperial Japan had long been raising opium revenue through farms in their colonies of Formosa (now Taiwan) and Manchuria before the war.[^31] 
 
 Ironically, the accusations Japan had levelled against Britain for encouraging opium-smoking were levelled at Japan by the victors of war.[^32] At the Tokyo War Crimes Tribunal, the United States called out opium dealing as imperial exploitation, an intentional means of financing wars of aggression and enforcing servility in occupied territories.[^33] &nbsp;
 
