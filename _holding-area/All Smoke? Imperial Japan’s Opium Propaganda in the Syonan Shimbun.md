@@ -155,7 +155,7 @@ Source: “戒煙歌 - 李香蘭 Li Xiang Lan (山口淑子 Yoshiko Yamaguchi),�
 
 
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src="/images/Authors/ToffaAbdulWahed2.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/HannahYeo.png">
 <b>Hannah Yeo</b> is a Librarian with the National Library, Singapore. Her responsibilities include collection development and research on topics relating to Singapore and Southeast Asia.  </div>
 
 #### **Notes**
