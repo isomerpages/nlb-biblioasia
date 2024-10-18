@@ -65,6 +65,10 @@ Between 26 August and 3 September 1942, 13 more articles zeroed in on the Opium 
 
 On 30 August, the newspaper carried reports on the comments by Tomokazu Hori, head and spokesperson of the Board of Information, and former premier Koki Hirota on the occasion of the 100th anniversary of the Treaty of Nanking. Hori called the Opium War and the treaty the most “disgraceful and ugly chapters in British history”. Rousing “the people of China, India and other countries exploited by Britain” to “meet them squarely”, he argued that British exploitation would never end otherwise. “Is it really possible for the British who for the past 100 years have regarded the Chinese people as uncivilised people regard the Chinese as equal to themselves and respect Chinese cultural equality? Nonsense! All their lip services will disappear instantly when the necessities cease.”[^16] &nbsp;
 
+
+![](/images/Vol%2020%20Issue%204/Opium/opium_statement.jpg)
+<div style="background-color:white;">A statement by Tomokazu Hori, head and spokesperson of Japan's Board of Information, on the 100th anniversary of the Treaty of Nanking.  <i>Image reproduced from Syonan Shimbun, 30 August 1942, 1. (From NewspaperSG)</i></div>
+
 Hirota presented Japan’s alternative to British imperialism. He said that Japan’s New Order in East Asia would be “characterised by peace and love of humanity” with “genuine mutual assistance among the various races, instead of the conception of power and supremacy based on power”.[^17]&nbsp;
 
 On 3 September, the paper published a scathing report on the Opium War and wrote that the Nanking Treaty had “brought China down from an Empire to a third class nation dominated and controlled by Britain, which condition lasted until the China Incident when Nippon started her war of liberation, which would ensure that never again would any Asian nation be so humiliated”. The paper added that “millions of opium sodden Chinese have paid the price demanded by Britain in her policy of drugging the people of a nation into senselessness in order to render them helpless against her methods of exploitation”.[^18]
