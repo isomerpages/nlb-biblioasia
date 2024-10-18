@@ -76,6 +76,10 @@ Articles in the _Syonan Shimbun_ reveal that Japan knew the seriousness of the o
 
 In reality, however, opium was too lucrative a business to stop. The Japanese administration continued the British policy of selling opium under a monopoly in government retail shops and repaired the opium factory at the foot of Bukit Chandu in Singapore.[^27]&nbsp; Although the Japanese permit for opium was easily attainable, public access to the drug was restricted by supply and demand.[^28] &nbsp;
 
+![](/images/Vol%2020%20Issue%204/Opium/opium_shop.jpg)
+<div style="background-color:white;">A government chandu (smokable opium) retail shop in Singapore, c. 1941. Photo by Harrison Forman. <i>From the American Geographical Society Library, University of Wisconsin-Milwaukee Libraries. </i></div>
+
+
 Between 1942 and 1944, opium rations were halved from 60 tubes (each containing two _hoon_ or 0.77 g of opium) to 30 tubes per month because stock had run out.[^29] This drove even more addicts to the booming wartime black market, where they could buy opium from smugglers, dealers working with Japanese soldier-carriers, or those who would trade their drug ration for food.&nbsp;
 
 A 1958 study by medical doctor Joseph Leong Hon Koon for the United Nations reported that the “addict population at the end of the war was approximately 16,000 in Singapore alone”. But taking into account the unrecorded illicit drug trade, others estimate this figure to be almost as high as 30,000.[^30] For all its propaganda, Japan’s New Order was little different from the self-interested spectre it had painted of Britain’s Empire. In fact, Imperial Japan had long been raising opium revenue through farms in their colonies of Formosa (now Taiwan) and Manchuria before the war.[^31] &nbsp;
