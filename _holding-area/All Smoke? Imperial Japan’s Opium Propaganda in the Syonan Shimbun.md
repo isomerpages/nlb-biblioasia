@@ -114,8 +114,8 @@ Source: “戒煙歌 - 李香蘭 Li Xiang Lan (山口淑子 Yoshiko Yamaguchi),�
 
 
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src="/images/Authors/ToffaAbdulWahed.png">
-<b>Toffa Abdul Wahed</b>  is a Librarian with the National Library, Singapore. She works with the Singapore and Southeast Asia Collection.</div>
+<img style="width: 100px; height: 100px;" src="/images/Authors/ToffaAbdulWahed2.png">
+<b>Hannah Yeo</b> is a Librarian with the National Library, Singapore. Her responsibilities include collection development and research on topics relating to Singapore and Southeast Asia.  </div>
 
 #### **Notes**
 
