@@ -137,10 +137,10 @@ Source: “戒煙歌 - 李香蘭 Li Xiang Lan (山口淑子 Yoshiko Yamaguchi),�
 [^6]: Harumi Goto-Shibata, “The International Opium Conference of 1924–25 and Japan,” _Modern Asian Studies_ 36, no. 4 (October 2002): 976–77. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website); John Collins, “Drug Diplomacy from the Opium Wars through the League of Nations, 1839–1939,” Cambridge University Press, 25 November 2021, [https://doi.org/10.1017/9781009058278.002](https://doi.org/10.1017/9781009058278.002); William B. McAllister, _Drug Diplomacy in the Twentieth Century: An International History_ (London; New York: Routledge, 2000), [https://archive.org/details/drugdiplomacyint0000mcal](https://archive.org/details/drugdiplomacyint0000mcal).
 
 
-[^7]: Derek Mackay, _Eastern Customs: The Customs Service in British Malaya and the Opium Trade_ (London; New York: Radcliffe Press, 2005), 150. (From National Library, Singapore, call no. RSEA 352.44809595109041 MAC)
+[^7]: Derek Mackay, [_Eastern Customs: The Customs Service in British Malaya and the Opium Trade_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12590723) (London; New York: Radcliffe Press, 2005), 150. (From National Library, Singapore, call no. RSEA 352.44809595109041 MAC)
 
 
-[^8]: Chen Su Lan, _The Opium Problem in British Malaya_ (Singapore: Singapore Anti-Opium Society, 1935), 1.&nbsp; (From National Library, Singapore, call no. RRARE 178.8 CHE; microfilm no. NL7461)&nbsp;
+[^8]: Chen Su Lan, [_The Opium Problem in British Malaya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980015) (Singapore: Singapore Anti-Opium Society, 1935), 1.&nbsp; (From National Library, Singapore, call no. RRARE 178.8 CHE; microfilm no. NL7461)&nbsp;
 
 
 [^9]: Chen Su Lan, _Opium Is a Deadly Poison: An Ad Interim Report May 8th to December_, 1933 (Singapore: The Anti-Opium Clinic, 1934), 1. (From NUS Libraries)
