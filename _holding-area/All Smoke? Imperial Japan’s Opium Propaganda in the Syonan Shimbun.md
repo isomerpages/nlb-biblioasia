@@ -8,6 +8,10 @@ description: Imperial Japan justified its occupation of Singapore with opium
 #### Imperial Japan justified its occupation of Singapore with opium propaganda and prohibition promises.
 By Hannah Yeo
 
+![](/images/Vol%2020%20Issue%204/Opium/opium_facing.jpg)
+<div style="background-color:white;">From a postcard of an opium smoker, c. 1920.  <i>Lim Kheng Chye Collection, courtesy of National Archives of Singapore. </i></div>
+
+
 The date: 8 March 1907. The location: Ipoh. A parade of enormous lanterns shaped as opium beds, pipes and lamps snaked through the town by torchlight, along with effigies of opium smokers. Nearly 40 former opium smokers who had broken free of their habit took part in the procession, shouting their gratitude for the anti-opium movement. Hundreds of real opium pipes surrendered by former smokers and two 70-year-old former addicts brought up the rear.[^1]
 
 This theatrical display was part of the first Conference of Anti-Opium Societies in the Straits Settlements and Federated Malay States – the largest ever recorded in the world at the time – with the participation of some 3,000 delegates from Penang, Singapore, Melaka, Selangor and Negeri Sembilan.[^2]
