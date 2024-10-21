@@ -170,7 +170,7 @@ Yusuke Tanaka helped with background information on the Japanese in Canada. My w
 [^1]: Diocese of Singapore, _Report for the Period from 1941 to 1949_ (Singapore: Diocesan Synod of Singapore, 1951). I thank Sharon Lim for sharing this source.
 
 
-[^2]: A. Hamish Ion, “The Cross Under an Imperial Sun: Imperialism, Nationalism, and Japanese Christianity,” in _Handbook of Christianity in Japan_, ed. Mark R. Mullins (Leiden: Brill, 2003), 69–100, https://brill.com/edcollbook/title/8295.
+[^2]: A. Hamish Ion, “The Cross Under an Imperial Sun: Imperialism, Nationalism, and Japanese Christianity,” in _Handbook of Christianity in Japan_, ed. Mark R. Mullins (Leiden: Brill, 2003), 69–100, [https://brill.com/edcollbook/title/8295](https://brill.com/edcollbook/title/8295).
 
 
 [^3]: See John Leonard Wilson’s Biography: Roy McKay, [_John Leonard Wilson: Confessor of the Faith_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=403904) (London: Hodder and Stoughton, 1973), 19–24. (From National Library, Singapore, call no. RCLOS 283.0924 WIL.M)
@@ -230,7 +230,7 @@ Yusuke Tanaka helped with background information on the Japanese in Canada. My w
 [^22]: Sakurai, _Biruma Sensen to Watashi_.
 
 
-[^23]: For accounts of the Anglican Church of Canada’s Japanese-language churches, see Patricia E. Roy, “An Ambiguous Relationship: Anglicans and the Japanese in British Columbia, 1902–1949,” _BC Studies_, no. 192 (Winter 2016–2017): 105–24. (From ProQuest via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website); Timothy M. Nakayama, “Anglican Missions to the Japanese in Canada,” _Journal of the Canadian Church Historical Society_ 8, no. 1 (June 1966, rev. ed. 2003): 26–88, https://anglicanhistory.org/academic/nakayama2003.pdf.&nbsp;
+[^23]: For accounts of the Anglican Church of Canada’s Japanese-language churches, see Patricia E. Roy, “An Ambiguous Relationship: Anglicans and the Japanese in British Columbia, 1902–1949,” _BC Studies_, no. 192 (Winter 2016–2017): 105–24. (From ProQuest via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website); Timothy M. Nakayama, “Anglican Missions to the Japanese in Canada,” _Journal of the Canadian Church Historical Society_ 8, no. 1 (June 1966, rev. ed. 2003): 26–88, [https://anglicanhistory.org/academic/nakayama2003.pdf](https://anglicanhistory.org/academic/nakayama2003.pdf).
 
 
 [^24]: Sakurai, “Hito-wa Shinko Naku Shite Ikirarenai.”
@@ -251,7 +251,7 @@ Yusuke Tanaka helped with background information on the Japanese in Canada. My w
 [^29]: Chiyokichi Ariga wrote several books, including a biography of a Canadian missionary which was translated into English in 1998. See Chiyokichi Ariga, _The Rev. Frank Cassillis-Kennedy: Elder to the Japanese Canadians_, Japanese Canadian Christian Churches Historical Project. (Scarborough, Ontario: Japanese Canadian Christian Churches Historical Project, 1998)
 
 
-[^30]:  Yusuke Tanaka, “80 Years Since the Internment of Japanese Canadians. Part 1: How the Nikkei Were Dragged into War,” _Discover Nikkei_, 25 April 2002, https://discovernikkei.org/en/journal/2022/4/25/japanese-canadajin-80-1/; Yusuke Tanaka, “Trans-Pacific Voyage: Kawabata Family’s 125 Years – Part 2,” _Nikkei Images_ 22, no. 2 (2017), 19–23, https://centre.nikkeiplace.org/wp-content/uploads/2018/03/NI2017\_Vol22No02\_Web.pdf.
+[^30]:  Yusuke Tanaka, “80 Years Since the Internment of Japanese Canadians. Part 1: How the Nikkei Were Dragged into War,” _Discover Nikkei_, 25 April 2002, [https://discovernikkei.org/en/journal/2022/4/25/japanese-canadajin-80-1/](https://discovernikkei.org/en/journal/2022/4/25/japanese-canadajin-80-1/); Yusuke Tanaka, “Trans-Pacific Voyage: Kawabata Family’s 125 Years – Part 2,” _Nikkei Images_ 22, no. 2 (2017), 19–23, [https://centre.nikkeiplace.org/wp-content/uploads/2018/03/NI2017_Vol22No02_Web.pdf](https://centre.nikkeiplace.org/wp-content/uploads/2018/03/NI2017_Vol22No02_Web.pdf).
 
 
 
