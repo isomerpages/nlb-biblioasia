@@ -6,7 +6,7 @@ description: During the Japanese Occupation, four Japanese Anglicans – two
   officers and two civilians – were a sign of hope for the locals during a dark
   chapter in Singapore’s history.
 ---
-#### During the Japanese Occupation, four Japanese Anglicans – two officers and two civilians – were a sign of hope for the locals during a dark chapter in Singapore’s history.&nbsp;
+#### During the Japanese Occupation, four Japanese Anglicans were a sign of hope for the locals during a dark chapter in Singapore’s history.&nbsp;
 
 By John Bray
 
@@ -130,7 +130,7 @@ Chiyokichi Ariga was the fourth Japanese Anglican in Singapore of whom we have d
 
 Ariga had previously worked in Canada, first as a journalist and then as a teacher in a school for children of Japanese migrants. He kept in close contact with both the Canadian and the Japanese branches of the Anglican church, and he had been instrumental in encouraging Matsumoto to go to Canada.[^29]
 
-After the outbreak of war, Ariga was interned in a detention centre in the Rocky Mountains.[^30] However, together with his wife and daughter, he was among a group of Japanese who were repatriated in exchange for Canadian prisoners. They travelled by sea via Mozambique to Singapore. Ariga decided to stay on in Singapore as he believed that there might be more opportunities for Japanese speakers of English. He also felt that the Japanese mainland would be more militaristic.[^31]
+After the outbreak of war, Ariga was detained in a prisoner-of-war camp in Ontaria.[^30] However, together with his wife and daughter, he was among a group of Japanese who were repatriated in exchange for Canadian prisoners. They travelled by sea via Mozambique to Singapore. Ariga decided to stay on in Singapore as he believed that there might be more opportunities for Japanese speakers of English. He also felt that the Japanese mainland would be more militaristic.[^31]
 
 ![](/images/Vol%2020%20Issue%204/Japanese%20Anglican/anglican_arigafamily.jpg)
 <div style="background-color:white;"> Chiyokichi Ariga (standing) with his wife and daughter and George Suzuki at Jurong Camp in Singapore, 1945. <i>George Metcalf Archival Collection, Canadian War Museum (CWM 19830626-001_14a).</i></div>

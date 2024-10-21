@@ -9,13 +9,14 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-20/issue-3/oct-dec-2024/phan-kim-sam-thye-seng/
-      button: The Search for a “Lost” Towkay of Malaya
+      url: /vol-18/issue-3/oct-dec-2022/theemithi-firewalking-festival/
+      button: "Theemithi: A Look at the Full Cycle of Rituals Behind the Festival of
+        Firewalking"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 20 Issue 3/Lost Towkay/HeroImage_losttowkay.jpg
+      background: /images/Vol 18 Issue 3/Theemithi/hero_img_theemithi.jpg
   - infopic:
       title: Have Your Say
       subtitle: Readership Survey
@@ -25,6 +26,17 @@ sections:
       url: https://go.gov.sg/web-survey
       image: /images/survey_sep24.jpg
       alt: Readership Survey
+  - infopic:
+      title: He Wrote the National Pledge
+      subtitle: Podcast
+      id: infopic
+      description: Irene Ng, the authorised biographer of S. Rajaratnam, tells us the
+        legacy of Singapore’s first foreign minister, and his relationship with
+        Lee Kuan Yew.
+      button: Listen to the episode
+      url: /podcast/s-rajaratnam-singapores-first-foreign-minister/
+      image: /images/Podcast/Irene_600_400.jpg
+      alt: Image alt text
   - infopic:
       title: Japanese Anglicans in World War II Singapore
       subtitle: People
