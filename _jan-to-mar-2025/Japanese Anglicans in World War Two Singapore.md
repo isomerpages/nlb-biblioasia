@@ -251,7 +251,7 @@ Yusuke Tanaka helped with background information on the Japanese in Canada. My w
 [^29]: Chiyokichi Ariga wrote several books, including a biography of a Canadian missionary which was translated into English in 1998. See Chiyokichi Ariga, _The Rev. Frank Cassillis-Kennedy: Elder to the Japanese Canadians_, Japanese Canadian Christian Churches Historical Project. (Scarborough, Ontario: Japanese Canadian Christian Churches Historical Project, 1998)
 
 
-[^30]:  Yusuke Tanaka, “80 Years Since the Internment of Japanese Canadians. Part 1: How the Nikkei Were Dragged into War,” _Discover Nikkei_, 25 April 2002, [https://discovernikkei.org/en/journal/2022/4/25/japanese-canadajin-80-1/](https://discovernikkei.org/en/journal/2022/4/25/japanese-canadajin-80-1/); Yusuke Tanaka, “Trans-Pacific Voyage: Kawabata Family’s 125 Years – Part 2,” _Nikkei Images_ 22, no. 2 (2017), 19–23, [https://centre.nikkeiplace.org/wp-content/uploads/2018/03/NI2017\_Vol22No02\_Web.pdf](https://centre.nikkeiplace.org/wp-content/uploads/2018/03/NI2017\_Vol22No02\_Web.pdf).
+[^30]:  Yusuke Tanaka, “80 Years Since the Internment of Japanese Canadians. Part 1: How the Nikkei Were Dragged into War,” _Discover Nikkei_, 25 April 2002, [https://discovernikkei.org/en/journal/2022/4/25/japanese-canadajin-80-1/](https://discovernikkei.org/en/journal/2022/4/25/japanese-canadajin-80-1/); Yusuke Tanaka, “Trans-Pacific Voyage: Kawabata Family’s 125 Years – Part 2,” _Nikkei Images_ 22, no. 2 (2017), 19–23, [https://centre.nikkeiplace.org/wp-content/uploads/2018/03/NI2017_Vol22No02_Web.pdf](https://centre.nikkeiplace.org/wp-content/uploads/2018/03/NI2017_Vol22No02_Web.pdf).
 
 
 
