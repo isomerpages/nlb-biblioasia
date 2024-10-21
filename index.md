@@ -27,6 +27,17 @@ sections:
       image: /images/survey_sep24.jpg
       alt: Readership Survey
   - infopic:
+      title: He Wrote the National Pledge
+      subtitle: Podcast
+      id: infopic
+      description: Irene Ng, the authorised biographer of S. Rajaratnam, tells us the
+        legacy of Singapore’s first foreign minister, and his relationship with
+        Lee Kuan Yew.
+      button: Listen to the episode
+      url: /podcast/s-rajaratnam-singapores-first-foreign-minister/
+      image: /images/Podcast/Irene_600_400.jpg
+      alt: Image alt text
+  - infopic:
       title: Japanese Anglicans in World War II Singapore
       subtitle: People
       id: infopic
@@ -1310,15 +1321,4 @@ sections:
       url: https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08
       alt: Greeting Card
       image: /images/Hari Raya Cards/hari raya greeting card.jpg
-  - infopic:
-      title: He Wrote the National Pledge
-      subtitle: Podcast
-      id: infopic
-      description: Irene Ng, the authorised biographer of S. Rajaratnam, tells us the
-        legacy of Singapore’s first foreign minister, and his relationship with
-        Lee Kuan Yew.
-      button: Listen to the episode
-      url: /podcast/s-rajaratnam-singapores-first-foreign-minister/
-      image: /images/Podcast/Irene_600_400.jpg
-      alt: Image alt text
 ---
