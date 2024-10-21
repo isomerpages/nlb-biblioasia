@@ -42,6 +42,9 @@ In his 1935 study, President of the Singapore Anti-Opium Society Chen Su Lan put
 
 The problem of opium addiction in Malaya was well known internationally by the time the Imperial Japanese Army crossed the causeway into Singapore. Long aware of the problem of opium addiction in Asia, Japan used this to their advantage as well as to justify their invasion of China and Malaya as one of emancipation from Western oppression. In Singapore, this same narrative was communicated through newspapers.&nbsp;
 
+![](/images/Vol%2020%20Issue%204/Opium/opium_set.jpg)
+<div style="background-color:white;">An opium set comprising pipes, bowls, lamps and other smoking accessories.  <i>Collection of the National Museum of Singapore, National Heritage Board. Gift of Linda Wong. </i></div>
+
 The _Syonan Shimbun_ (published from 20 February 1942 to 4 September 1945) was the only English-language newspaper available in Singapore during the Japanese Occupation.[^10] Although known to be a propaganda paper, the Japanese authorities’ tight ban on listening to the radio and the ban on Western broadcasts meant that people in Malaya turned to the newspaper to get a sense of how the war was unfolding.&nbsp;
 
 Across the 43 months of occupation, the _Syonan Shimbun_ carried over 80 articles with titles such as “Britain’s Opium Policy in China Condemned” and “Opium War Most Disgraceful Chapter in British History”.[^11] &nbsp;
