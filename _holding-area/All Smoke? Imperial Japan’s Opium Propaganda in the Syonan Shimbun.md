@@ -106,14 +106,14 @@ Articles in the _Syonan Shimbun_ reveal that Japan knew the seriousness of the o
 
 In reality, however, opium was too lucrative a business to stop. The Japanese administration continued the British policy of selling opium under a monopoly in government retail shops and repaired the opium factory at the foot of Bukit Chandu in Singapore.[^27]&nbsp; Although the Japanese permit for opium was easily attainable, public access to the drug was restricted by supply and demand.[^28] &nbsp;
 
-![](/images/Vol%2020%20Issue%204/Opium/opium_permit.jpg)
-<div style="background-color:white;">A 1942 Japanese-issued opium permit for one tube of chandu per day. <i>Chew Chang Lang Collection, courtesy of National Archives of Singapore. </i></div>
-
 ![](/images/Vol%2020%20Issue%204/Opium/opium_shop.jpg)
 <div style="background-color:white;">A government chandu (smokable opium) retail shop in Singapore, c. 1941. Photo by Harrison Forman. <i>From the American Geographical Society Library, University of Wisconsin-Milwaukee Libraries. </i></div>
 
 
 Between 1942 and 1944, opium rations were halved from 60 tubes (each containing two _hoon_ or 0.77 g of opium) to 30 tubes per month because stock had run out.[^29] This drove even more addicts to the booming wartime black market, where they could buy opium from smugglers, dealers working with Japanese soldier-carriers, or those who would trade their drug ration for food.&nbsp;
+
+![](/images/Vol%2020%20Issue%204/Opium/opium_permit.jpg)
+<div style="background-color:white;">A 1942 Japanese-issued opium permit for one tube of chandu per day. <i>Chew Chang Lang Collection, courtesy of National Archives of Singapore. </i></div>
 
 A 1958 study by medical doctor Joseph Leong Hon Koon for the United Nations reported that the “addict population at the end of the war was approximately 16,000 in Singapore alone”. But taking into account the unrecorded illicit drug trade, others estimate this figure to be almost as high as 30,000.[^30] For all its propaganda, Japan’s New Order was little different from the self-interested spectre it had painted of Britain’s Empire. In fact, Imperial Japan had long been raising opium revenue through farms in their colonies of Formosa (now Taiwan) and Manchuria before the war.[^31] 
 
@@ -262,7 +262,7 @@ Source: “戒煙歌 - 李香蘭 Li Xiang Lan (山口淑子 Yoshiko Yamaguchi),�
 
 
 
-[^30]: Lim Thean Soo, Sukumaran Nair and S. Mohd. Razak, [_The Impact of Customs_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4081739) (Singapore: Singapore National Printers, 1974), 11. (From National Library, Singapore, call no. RCLOS 336.26095957 LIM); Leong Hon Koon, “The Opium Problem in Singapore,” United Nations Office on Drugs and Crime, January 1958, https://www.unodc.org/unodc/en/data-and-analysis/bulletin/bulletin\_1958-01-01\_4\_page003.html. &nbsp;
+[^30]: Lim Thean Soo, Sukumaran Nair and S. Mohd. Razak, [_The Impact of Customs_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4081739) (Singapore: Singapore National Printers, 1974), 11. (From National Library, Singapore, call no. RCLOS 336.26095957 LIM); Leong Hon Koon, “The Opium Problem in Singapore,” United Nations Office on Drugs and Crime, January 1958, [https://www.unodc.org/unodc/en/data-and-analysis/bulletin/bulletin\_1958-01-01\_4\_page003.html](https://www.unodc.org/unodc/en/data-and-analysis/bulletin/bulletin\_1958-01-01_4_page003.html). &nbsp;
 
 
 
@@ -275,7 +275,7 @@ Source: “戒煙歌 - 李香蘭 Li Xiang Lan (山口淑子 Yoshiko Yamaguchi),�
 
 
 
-[^33]: Noorman Abdullah, “Exploring Constructions of the ‘Drug Problem’ in Historical and Contemporary Singapore,” _New Zealand Journal of Asian Studies_ 7, no. 2 (December 2005): 48, [https://www.nzasia.org.nz/uploads/1/3/2/1/132180707/7\_2\_4.pdf](https://www.nzasia.org.nz/uploads/1/3/2/1/132180707/7\_2\_4.pdf); Reiji Yoshida, “Japan Profited as Opium Dealer in Wartime China,” _Japan Times_, 30 August 2007, [https://www.japantimes.co.jp/news/2007/08/30/national/japan-profited-as-opium-dealer-in-wartime-china/](https://www.japantimes.co.jp/news/2007/08/30/national/japan-profited-as-opium-dealer-in-wartime-china/). The International Military Tribunal for the Far East, also known as the Tokyo War Crimes Tribunal, convened on 29 April 1946 and lasted until 12 November 1948. It was created to prosecute the leaders of Japan for their war crimes, crimes against peace and crimes against humanity leading up to and during World War II.
+[^33]: Noorman Abdullah, “Exploring Constructions of the ‘Drug Problem’ in Historical and Contemporary Singapore,” _New Zealand Journal of Asian Studies_ 7, no. 2 (December 2005): 48, [https://www.nzasia.org.nz/uploads/1/3/2/1/132180707/7\_2\_4.pdf](https://www.nzasia.org.nz/uploads/1/3/2/1/132180707/7_2_4.pdf); Reiji Yoshida, “Japan Profited as Opium Dealer in Wartime China,” _Japan Times_, 30 August 2007, [https://www.japantimes.co.jp/news/2007/08/30/national/japan-profited-as-opium-dealer-in-wartime-china/](https://www.japantimes.co.jp/news/2007/08/30/national/japan-profited-as-opium-dealer-in-wartime-china/). The International Military Tribunal for the Far East, also known as the Tokyo War Crimes Tribunal, convened on 29 April 1946 and lasted until 12 November 1948. It was created to prosecute the leaders of Japan for their war crimes, crimes against peace and crimes against humanity leading up to and during World War II.
 
 
 
