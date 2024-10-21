@@ -123,7 +123,7 @@ They were both asked to leave immediately and Schutzman lost his membership at t
 
 #### **Notes**
 
-[^1]:  Klaus W. Jonas, ed., _The World of Somerset Maugham: An Anthology_ (London: Owen, 1959), 97, Internet Archive, https://archive.org/details/worldofsomersetm0000jona.
+[^1]:  Klaus W. Jonas, ed., _The World of Somerset Maugham: An Anthology_ (London: Owen, 1959), 97, Internet Archive, [https://archive.org/details/worldofsomersetm0000jona](https://archive.org/details/worldofsomersetm0000jona).
 
 
 [^2]: “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19210426-1.2.14),” _Malaya Tribune_, 26 April 1921, 4. (From NewspaperSG)
