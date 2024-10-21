@@ -170,7 +170,7 @@ Yusuke Tanaka helped with background information on the Japanese in Canada. My w
 [^1]: Diocese of Singapore, _Report for the Period from 1941 to 1949_ (Singapore: Diocesan Synod of Singapore, 1951). I thank Sharon Lim for sharing this source.
 
 
-[^2]: A. Hamish Ion, “The Cross Under an Imperial Sun: Imperialism, Nationalism, and Japanese Christianity,” in _Handbook of Christianity in Japan_, ed. Mark R. Mullins (Leiden: Brill, 2003), 69–100, https://brill.com/edcollbook/title/8295.
+[^2]: A. Hamish Ion, “The Cross Under an Imperial Sun: Imperialism, Nationalism, and Japanese Christianity,” in _Handbook of Christianity in Japan_, ed. Mark R. Mullins (Leiden: Brill, 2003), 69–100, [https://brill.com/edcollbook/title/8295](https://brill.com/edcollbook/title/8295).
 
 
 [^3]: See John Leonard Wilson’s Biography: Roy McKay, [_John Leonard Wilson: Confessor of the Faith_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=403904) (London: Hodder and Stoughton, 1973), 19–24. (From National Library, Singapore, call no. RCLOS 283.0924 WIL.M)
