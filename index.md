@@ -70,12 +70,12 @@ sections:
       alt: Image alt text
   - infopic:
       title: Pioneering Journalist R.B. Ooi
-      subtitle: People
+      subtitle: BiblioAsia Reels
       id: infopic
       description: Malayan journalist R.B. Ooi (1905–72) worked for newspapers like
         the Straits Echo and the Malayan Times. Irene Lim, 96, shares her
         memories of her father.
-      button: A veteran newsman
+      button: Watch the Video
       url: https://www.youtube.com/embed/J2EPQPWskds?list=PLJlLW0qKYHTPnbGAYPZtpahewt6xRgUzc
       image: "/images/Videos: BiblioAsia Reels/BiblioAsia_Reels___Irene_Lim.png"
       alt: Image alt text
