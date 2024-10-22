@@ -1,6 +1,6 @@
 ---
-title: All Smoke? Imperial Japan’s Opium Propaganda in the Syonan Shimbun
-permalink: /holding-area/opium/
+title: All Smoke? Opium Propaganda in the Syonan Shimbun
+permalink: /vol-20/issue-4/jan-mar-2025/japanese-opium-propaganda-syonan-shimbun/
 variant: markdown
 description: Imperial Japan justified its occupation of Singapore with opium
   propaganda and prohibition promises.
@@ -18,8 +18,8 @@ This theatrical display was part of the first Conference of Anti-Opium Societies
 
 By the turn of the 20th century, anti-opium sentiment was gaining ground in Malaya and on the world stage. As early as 1898, medical doctor Lim Boon Keng and lawyer Song Ong Siang had criticised the colonial government for drawing over half of its revenue from opium sales.[^3] “\[W\]e wish to call the attention of the Straits Government to its position in regard to the baneful habit of opium smoking, to the revenue which it derives from this luxury and to the duties which it morally owes to the poor and helpless victims of the opium habit,” Lim wrote in the _Straits Chinese Magazine_.[^4] &nbsp;
 
-![](/images/Vol%2020%20Issue%204/Opium/opium_chinaman.jpg)
-<div style="background-color:white;">Postcard of an opium smoker, early-mid 20th century.  <i>Collection of the National Museum of Singapore, National Heritage Board. </i></div>
+![](/images/vol-11-issue-4/a-magazine-straits-chinese/C1.JPG)
+<div style="background-color:white;">Prominent members of the Chinese community, Song Ong Siang (left), Wu Lien-Teh (centre) and Lim Boon Keng (right), aimed to eradicate opium addiction in Singapore in the late 19th and early 20th centuries. <i>Courtesy of National Archives of Singapore.</i></div>
 
 When it was clear that the colonial government was not listening, Lim’s medical partner Wu Lien-Teh raised the issue at an anti-opium meeting in London in 1907. There, to his surprise, “speaker after speaker railed at its \[the opium trade’s\] iniquities and demanded stoppage of further traffic between India and China,” he wrote in his memoir. “I gave up my notes and spoke impromptu when describing conditions in the Straits Settlements… \[and\] received continued ovation from the 500 persons assembled.” Wu’s petition was brought before Winston Churchill, then Under-Secretary of State for the Colonies. Churchill assured him that the “Home Government was not indifferent, but that it was only possible to move step by step in the Colonies in view of the vast interests involved”.[^5]&nbsp;
 
@@ -29,18 +29,21 @@ A postwar report estimated there were still 16,500 active smokers on government 
 
 In his 1935 study, President of the Singapore Anti-Opium Society Chen Su Lan put conservative estimates at one in four Chinese adults in Malaya being opium addicts.[^8] Chen, a medical doctor and third-generation Methodist, described addicts as slaves of opium in need of salvation:&nbsp;
 
-![](/images/Vol%2020%20Issue%204/Opium/opium_publication.jpg)
-<div style="background-color:white;">An anti-opium publication by Chen Su Lan, president of the Singapore Anti-Opium Society. <i>Image reproduced from Chen Su Lan, The Opium Problem in British Malaya (Singapore: Singapore Anti-Opium Society, 1935), 1. (From National Library, Singapore, call no. RRARE 178.8 CHE; microfilm no. NL7461). </i></div>
 
-
-Day by day we hear of wives, mothers and children being left to starve while the bread-winners of the family spend their time smoking opium… \[The Anti-Opium Clinic\] is the only place where they can rid themselves of the opium poison and gain their liberty and freedom from their cruel master… OPIUM.[^9] 
+“Day by day we hear of wives, mothers and children being left to starve while the bread-winners of the family spend their time smoking opium… \[The Anti-Opium Clinic\] is the only place where they can rid themselves of the opium poison and gain their liberty and freedom from their cruel master… OPIUM.”[^9] 
 
 ![](/images/Vol%2020%20Issue%204/Opium/opium_clinic.jpg)
 <div style="background-color:white;">The Anti-Opium Clinic on Kampong Java Road founded by Chen Su Lan, president of the Singapore Anti-Opium Society, which operated from 1933 to 1937.  <i>Collection of the National Library, Singapore. </i></div>
 
+![](/images/Vol%2020%20Issue%204/Opium/opium_publication.jpg)
+<div style="background-color:white;">An anti-opium publication by Chen Su Lan, president of the Singapore Anti-Opium Society. <i>Image reproduced from Chen Su Lan, The Opium Problem in British Malaya (Singapore: Singapore Anti-Opium Society, 1935), 1. (From National Library, Singapore, call no. RRARE 178.8 CHE; microfilm no. NL7461). </i></div>
+
 #### **Peddling Propaganda**
 
 The problem of opium addiction in Malaya was well known internationally by the time the Imperial Japanese Army crossed the causeway into Singapore. Long aware of the problem of opium addiction in Asia, Japan used this to their advantage as well as to justify their invasion of China and Malaya as one of emancipation from Western oppression. In Singapore, this same narrative was communicated through newspapers.&nbsp;
+
+![](/images/Vol%2020%20Issue%204/Opium/opium_set.jpg)
+<div style="background-color:white;">An opium set comprising pipes, bowls, lamps and other smoking accessories.  <i>Collection of the National Museum of Singapore, National Heritage Board. Gift of Linda Wong. </i></div>
 
 The _Syonan Shimbun_ (published from 20 February 1942 to 4 September 1945) was the only English-language newspaper available in Singapore during the Japanese Occupation.[^10] Although known to be a propaganda paper, the Japanese authorities’ tight ban on listening to the radio and the ban on Western broadcasts meant that people in Malaya turned to the newspaper to get a sense of how the war was unfolding.&nbsp;
 
@@ -87,7 +90,7 @@ The _Syonan Shimbun_ cited Japan’s puppet state of Manchukuo in Manchuria as a
 In Malaya, the Japanese authorities aimed to gradually reduce opium smoking by limiting the amount of opium people could buy, “supplying just sufficient quantities to keep addicts from resorting to faked drugs which are more poisonous”.[^21] The _Syonan Shimbun_ carried reports of local leaders praising Japan for solving the opium problem.&nbsp;
 
 ![](/images/Vol%2020%20Issue%204/Opium/opium_headlines42871.jpg)
-![](/images/Vol%2020%20Issue%204/Opium/opium_headlines42872.jpg)
+![](/images/Vol%2020%20Issue%204/Opium/opium_headlines42872b.jpg)
 ![](/images/Vol%2020%20Issue%204/Opium/opium_headlines42873.jpg)
 <div style="background-color:white;">Headlines of <i>Syonan Shimbun</i> articles covering Imperial Japan’s anti-opium efforts. <i>Images reproduced from Syonan Shimbun, 27 August 1942, 4; 23 September 1942, 1; and 26 September 1942, 4. (From NewspaperSG). </i></div>
 
@@ -106,16 +109,19 @@ Articles in the _Syonan Shimbun_ reveal that Japan knew the seriousness of the o
 
 In reality, however, opium was too lucrative a business to stop. The Japanese administration continued the British policy of selling opium under a monopoly in government retail shops and repaired the opium factory at the foot of Bukit Chandu in Singapore.[^27]&nbsp; Although the Japanese permit for opium was easily attainable, public access to the drug was restricted by supply and demand.[^28] &nbsp;
 
-![](/images/Vol%2020%20Issue%204/Opium/opium_permit.jpg)
-<div style="background-color:white;">A 1942 Japanese-issued opium permit for one tube of chandu per day. <i>Chew Chang Lang Collection, courtesy of National Archives of Singapore. </i></div>
-
 ![](/images/Vol%2020%20Issue%204/Opium/opium_shop.jpg)
 <div style="background-color:white;">A government chandu (smokable opium) retail shop in Singapore, c. 1941. Photo by Harrison Forman. <i>From the American Geographical Society Library, University of Wisconsin-Milwaukee Libraries. </i></div>
 
 
 Between 1942 and 1944, opium rations were halved from 60 tubes (each containing two _hoon_ or 0.77 g of opium) to 30 tubes per month because stock had run out.[^29] This drove even more addicts to the booming wartime black market, where they could buy opium from smugglers, dealers working with Japanese soldier-carriers, or those who would trade their drug ration for food.&nbsp;
 
+![](/images/Vol%2020%20Issue%204/Opium/opium_permit.jpg)
+<div style="background-color:white;">A 1942 Japanese-issued opium permit for one tube of chandu per day. <i>Chew Chang Lang Collection, courtesy of National Archives of Singapore. </i></div>
+
 A 1958 study by medical doctor Joseph Leong Hon Koon for the United Nations reported that the “addict population at the end of the war was approximately 16,000 in Singapore alone”. But taking into account the unrecorded illicit drug trade, others estimate this figure to be almost as high as 30,000.[^30] For all its propaganda, Japan’s New Order was little different from the self-interested spectre it had painted of Britain’s Empire. In fact, Imperial Japan had long been raising opium revenue through farms in their colonies of Formosa (now Taiwan) and Manchuria before the war.[^31] 
+
+![](/images/Vol%2020%20Issue%204/Opium/opium_chinaman2.jpg)
+<div style="background-color:white;">Postcard of an opium smoker, early-mid 20th century.  <i>Collection of the National Museum of Singapore, National Heritage Board. </i></div>
 
 Ironically, the accusations Japan had levelled against Britain for encouraging opium-smoking were levelled at Japan by the victors of war.[^32] At the Tokyo War Crimes Tribunal, the United States called out opium dealing as imperial exploitation, an intentional means of financing wars of aggression and enforcing servility in occupied territories.[^33] &nbsp;
 
@@ -149,7 +155,7 @@ If you really love me, listen to me, don’t think about opium from now on.<br><
 达呀达，达呀达，你为什还想着它，<br>
 你要真爱我，要听我的话，从今以后别再想着它。
 <br><br>
-Source: “戒煙歌 - 李香蘭 Li Xiang Lan (山口淑子 Yoshiko Yamaguchi),” YouTube, 3 April 2020, https://www.youtube.com/watch?v=3DzRMDKXEm8. <br>
+Source: “戒煙歌 - 李香蘭 Li Xiang Lan (山口淑子 Yoshiko Yamaguchi),” YouTube, 3 April 2020, <a href="https://www.youtube.com/watch?v=3DzRMDKXEm8">https://www.youtube.com/watch?v=3DzRMDKXEm8</a>. <br>
 [Transcribed and translated by Hannah Yeo]
 </div>
 
@@ -259,7 +265,7 @@ Source: “戒煙歌 - 李香蘭 Li Xiang Lan (山口淑子 Yoshiko Yamaguchi),�
 
 
 
-[^30]: Lim Thean Soo, Sukumaran Nair and S. Mohd. Razak, [_The Impact of Customs_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4081739) (Singapore: Singapore National Printers, 1974), 11. (From National Library, Singapore, call no. RCLOS 336.26095957 LIM); Leong Hon Koon, “The Opium Problem in Singapore,” United Nations Office on Drugs and Crime, January 1958, https://www.unodc.org/unodc/en/data-and-analysis/bulletin/bulletin\_1958-01-01\_4\_page003.html. &nbsp;
+[^30]: Lim Thean Soo, Sukumaran Nair and S. Mohd. Razak, [_The Impact of Customs_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4081739) (Singapore: Singapore National Printers, 1974), 11. (From National Library, Singapore, call no. RCLOS 336.26095957 LIM); Leong Hon Koon, “The Opium Problem in Singapore,” United Nations Office on Drugs and Crime, January 1958, [https://www.unodc.org/unodc/en/data-and-analysis/bulletin/bulletin\_1958-01-01\_4\_page003.html](https://www.unodc.org/unodc/en/data-and-analysis/bulletin/bulletin_1958-01-01_4_page003.html). &nbsp;
 
 
 
@@ -272,7 +278,7 @@ Source: “戒煙歌 - 李香蘭 Li Xiang Lan (山口淑子 Yoshiko Yamaguchi),�
 
 
 
-[^33]: Noorman Abdullah, “Exploring Constructions of the ‘Drug Problem’ in Historical and Contemporary Singapore,” _New Zealand Journal of Asian Studies_ 7, no. 2 (December 2005): 48, [https://www.nzasia.org.nz/uploads/1/3/2/1/132180707/7\_2\_4.pdf](https://www.nzasia.org.nz/uploads/1/3/2/1/132180707/7\_2\_4.pdf); Reiji Yoshida, “Japan Profited as Opium Dealer in Wartime China,” _Japan Times_, 30 August 2007, [https://www.japantimes.co.jp/news/2007/08/30/national/japan-profited-as-opium-dealer-in-wartime-china/](https://www.japantimes.co.jp/news/2007/08/30/national/japan-profited-as-opium-dealer-in-wartime-china/). The International Military Tribunal for the Far East, also known as the Tokyo War Crimes Tribunal, convened on 29 April 1946 and lasted until 12 November 1948. It was created to prosecute the leaders of Japan for their war crimes, crimes against peace and crimes against humanity leading up to and during World War II.
+[^33]: Noorman Abdullah, “Exploring Constructions of the ‘Drug Problem’ in Historical and Contemporary Singapore,” _New Zealand Journal of Asian Studies_ 7, no. 2 (December 2005): 48, [https://www.nzasia.org.nz/uploads/1/3/2/1/132180707/7\_2\_4.pdf](https://www.nzasia.org.nz/uploads/1/3/2/1/132180707/7_2_4.pdf); Reiji Yoshida, “Japan Profited as Opium Dealer in Wartime China,” _Japan Times_, 30 August 2007, [https://www.japantimes.co.jp/news/2007/08/30/national/japan-profited-as-opium-dealer-in-wartime-china/](https://www.japantimes.co.jp/news/2007/08/30/national/japan-profited-as-opium-dealer-in-wartime-china/). The International Military Tribunal for the Far East, also known as the Tokyo War Crimes Tribunal, convened on 29 April 1946 and lasted until 12 November 1948. It was created to prosecute the leaders of Japan for their war crimes, crimes against peace and crimes against humanity leading up to and during World War II.
 
 
 
