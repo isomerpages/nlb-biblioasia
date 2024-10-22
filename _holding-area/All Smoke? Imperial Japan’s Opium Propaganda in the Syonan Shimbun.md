@@ -120,7 +120,7 @@ Between 1942 and 1944, opium rations were halved from 60 tubes (each containing 
 
 A 1958 study by medical doctor Joseph Leong Hon Koon for the United Nations reported that the “addict population at the end of the war was approximately 16,000 in Singapore alone”. But taking into account the unrecorded illicit drug trade, others estimate this figure to be almost as high as 30,000.[^30] For all its propaganda, Japan’s New Order was little different from the self-interested spectre it had painted of Britain’s Empire. In fact, Imperial Japan had long been raising opium revenue through farms in their colonies of Formosa (now Taiwan) and Manchuria before the war.[^31] 
 
-![](/images/Vol%2020%20Issue%204/Opium/opium_chinaman.jpg)
+![](/images/Vol%2020%20Issue%204/Opium/opium_chinaman2.jpg)
 <div style="background-color:white;">Postcard of an opium smoker, early-mid 20th century.  <i>Collection of the National Museum of Singapore, National Heritage Board. </i></div>
 
 Ironically, the accusations Japan had levelled against Britain for encouraging opium-smoking were levelled at Japan by the victors of war.[^32] At the Tokyo War Crimes Tribunal, the United States called out opium dealing as imperial exploitation, an intentional means of financing wars of aggression and enforcing servility in occupied territories.[^33] &nbsp;
