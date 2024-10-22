@@ -265,7 +265,7 @@ Source: “戒煙歌 - 李香蘭 Li Xiang Lan (山口淑子 Yoshiko Yamaguchi),�
 
 
 
-[^30]: Lim Thean Soo, Sukumaran Nair and S. Mohd. Razak, [_The Impact of Customs_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4081739) (Singapore: Singapore National Printers, 1974), 11. (From National Library, Singapore, call no. RCLOS 336.26095957 LIM); Leong Hon Koon, “The Opium Problem in Singapore,” United Nations Office on Drugs and Crime, January 1958, [https://www.unodc.org/unodc/en/data-and-analysis/bulletin/bulletin\_1958-01-01\_4\_page003.html](https://www.unodc.org/unodc/en/data-and-analysis/bulletin/bulletin\_1958-01-01_4_page003.html). &nbsp;
+[^30]: Lim Thean Soo, Sukumaran Nair and S. Mohd. Razak, [_The Impact of Customs_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4081739) (Singapore: Singapore National Printers, 1974), 11. (From National Library, Singapore, call no. RCLOS 336.26095957 LIM); Leong Hon Koon, “The Opium Problem in Singapore,” United Nations Office on Drugs and Crime, January 1958, [https://www.unodc.org/unodc/en/data-and-analysis/bulletin/bulletin\_1958-01-01\_4\_page003.html](https://www.unodc.org/unodc/en/data-and-analysis/bulletin/bulletin_1958-01-01_4_page003.html). &nbsp;
 
 
 
