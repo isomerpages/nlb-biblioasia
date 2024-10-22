@@ -155,7 +155,7 @@ If you really love me, listen to me, don’t think about opium from now on.<br><
 达呀达，达呀达，你为什还想着它，<br>
 你要真爱我，要听我的话，从今以后别再想着它。
 <br><br>
-Source: “戒煙歌 - 李香蘭 Li Xiang Lan (山口淑子 Yoshiko Yamaguchi),” YouTube, 3 April 2020, https://www.youtube.com/watch?v=3DzRMDKXEm8. <br>
+Source: “戒煙歌 - 李香蘭 Li Xiang Lan (山口淑子 Yoshiko Yamaguchi),” YouTube, 3 April 2020, <a href="https://www.youtube.com/watch?v=3DzRMDKXEm8">https://www.youtube.com/watch?v=3DzRMDKXEm8</a>. <br>
 [Transcribed and translated by Hannah Yeo]
 </div>
 
