@@ -141,7 +141,7 @@ Gibson-Hill, C.A. (1954, May). Singapore: Notes on the history of the Old Strait
 
 Lee, K.L. (1995). *[Amber sands: A boyhood memoir](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7481472)*. Singapore: Federal Publications. (Call no.: RSING 920.71 LEE)
 
-Low, L.L. (Interviewer). (1984, May 29). *[Oral history interview with Lee Kip Lin](https://www.nas.gov.sg/archivesonline/flipviewer/publish/d/decabba1-115d-11e3-83d5-0050568939ad-OHC000016_001/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png)* (Transcript of MP3 recording no. 000016/16/01, p. 1). Retrieved from National Archives of Singapore website.
+Low, L.L. (Interviewer). (1984, May 29). *[Oral history interview with Lee Kip Lin](https://www.nas.gov.sg/archivesonline/flipviewer/publish/d/decabba1-115d-11e3-83d5-0050568939ad-OHC000016_001/web/html5/index.html)* (Transcript of MP3 recording no. 000016/16/01, p. 1). Retrieved from National Archives of Singapore website.
 
 NUS Department of Architecture. (2011). *[NUS design](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13765047)* (p. 322). Singapore: Department of Architecture, School of Design and Environment, National University of Singapore. (Call no.: RSING 720.7115957 NUSDA)
 
