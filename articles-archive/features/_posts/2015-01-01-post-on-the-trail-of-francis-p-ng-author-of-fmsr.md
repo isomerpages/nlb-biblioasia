@@ -236,7 +236,7 @@ Teo, P.L. (1936, January). Time is past. <i>The London Mercury</i>, 33 (95), 275
 
 [^23]: Teo, P.L. (1941, November). The spider. *[Chorus: The Journal of the Singapore Teacher’s Association,](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4980045)* 7, 90.
 
-[^24]: Chua, J.C.H. (Interviewer). (1993, March 9). *[Oral history interview with Paul Abisheganaden.](https://www.nas.gov.sg/archivesonline/flipviewer/publish/1/1a8c8a1f-115e-11e3-83d5-0050568939ad-OHC001415_002/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=7)* Transcript of recording no. 001415/48/02, p. 22. Retrieved from National Archives of Singapore website.
+[^24]: Chua, J.C.H. (Interviewer). (1993, March 9). *[Oral history interview with Paul Abisheganaden.](https://www.nas.gov.sg/archivesonline/flipviewer/publish/1/1a8c8a1f-115e-11e3-83d5-0050568939ad-OHC001415_002/web/html5/index.html)* Transcript of recording no. 001415/48/02, p. 22. Retrieved from National Archives of Singapore website.
 
 [^25]: Teo, P.L. (1931, September 14). Letter to Harriet Monroe, Poetry. <i>Guide to the poetry: A magazine of verse records 1895–1961.</i> Administrative files, series 1, box 25, folder 11. The special collections research center, University of Chicago.
 
