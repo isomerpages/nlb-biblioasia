@@ -212,7 +212,7 @@ Willis, A.C. (1936). *[Willis’ Singapore guide](https://eresources.nlb.gov.sg/
 
 [^31]: [Scenes at Singapore's Zoo](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19380925-1.2.245). (1938, September 25). <i>The Straits Times</i>, p. 32. Retrieved from NewspaperSG.
 
-[^32]: Pitt, K.W. (1985, September 16). *[Oral history interview with Mohinder Singh](https://www.nas.gov.sg/archivesonline/flipviewer/publish/f/f431d9a8-115d-11e3-83d5-0050568939ad-OHC000546_058/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=7)* [Transcript of MP3 recording no. 000546/65/58, p. 583]. Retrieved from National Archives of Singapore website.
+[^32]: Pitt, K.W. (1985, September 16). *[Oral history interview with Mohinder Singh](https://www.nas.gov.sg/archivesonline/flipviewer/publish/f/f431d9a8-115d-11e3-83d5-0050568939ad-OHC000546_058/web/html5/index.html)* [Transcript of MP3 recording no. 000546/65/58, p. 583]. Retrieved from National Archives of Singapore website.
 
 [^33]: Braddell, R. (1934). *[The lights of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5850129)* (pp. 124–125). London: Methuen &amp; Co. (Call no.: RRARE 959.57 BRA; Microfilm: NL25437; Accession no.: B29033830F)
 
