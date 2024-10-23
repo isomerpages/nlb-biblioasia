@@ -80,7 +80,7 @@ The section in the papers that were probably of most interest to local readers w
 
 [^5]:*[The Syonan Shimbun](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5891656).* (1943, December 8); *[The Syonan Shimbun](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5891656)*. (1945, September 4).
 
-[^6]:*[Zhaonan ri bao](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84571423).* (1942, February 21); Lim, L.H. (Interviewer). (2006, March 20). *[Oral history interview with Chua Kian Aik](https://www.nas.gov.sg/archivesonline/flipviewer/publish/1/117691ec-1161-11e3-83d5-0050568939ad-OHC003033_007/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=15)* [Transcript of MP4 recording no. 003033/10/07, p. 146]. Retrieved from National Archives of Singapore website.
+[^6]:*[Zhaonan ri bao](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84571423).* (1942, February 21); Lim, L.H. (Interviewer). (2006, March 20). *[Oral history interview with Chua Kian Aik](https://www.nas.gov.sg/archivesonline/flipviewer/publish/1/117691ec-1161-11e3-83d5-0050568939ad-OHC003033_007/web/html5/index.html)* [Transcript of MP4 recording no. 003033/10/07, p. 146]. Retrieved from National Archives of Singapore website.
 
 [^7]:*[Zhaonan ri bao](https://eservice.nlb.gov.sg/item_holding.aspx?bid=84571423).* (21 February 1942–31 May 1944).
 
