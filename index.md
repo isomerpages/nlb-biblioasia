@@ -27,6 +27,16 @@ sections:
       image: /images/survey_sep24.jpg
       alt: Readership Survey
   - infopic:
+      title: Singapore’s Early Zoos
+      subtitle: BiblioAsia Reels
+      id: infopic
+      description: Before the Singapore Zoo in Mandai, there were early zoos in the
+        Botanic Gardens, Punggol, Pasir Panjang and on East Coast Road.
+      button: Watch the video
+      url: https://youtu.be/BAJrXPFgw7Y
+      image: "/images/Videos: BiblioAsia Reels/First_Zoos_in_Singapore.png"
+      alt: Image alt text
+  - infopic:
       title: He Wrote the National Pledge
       subtitle: Podcast
       id: infopic
@@ -1321,14 +1331,4 @@ sections:
       url: https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08
       alt: Greeting Card
       image: /images/Hari Raya Cards/hari raya greeting card.jpg
-  - infopic:
-      title: Singapore’s Early Zoos
-      subtitle: BiblioAsia Reels
-      id: infopic
-      description: Before the Singapore Zoo in Mandai, there were early zoos in the
-        Botanic Gardens, Punggol, Pasir Panjang and on East Coast Road.
-      button: Watch the video
-      url: https://youtu.be/BAJrXPFgw7Y
-      image: "/images/Videos: BiblioAsia Reels/First_Zoos_in_Singapore.png"
-      alt: Image alt text
 ---
