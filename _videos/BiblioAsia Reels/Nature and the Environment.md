@@ -9,7 +9,7 @@ third_nav_title: BiblioAsia Reels
  
 <style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/BAJrXPFgw7Y" frameborder="0" allowfullscreen=""></iframe></div>
 
-The Singapore Zoo was set up in 1973, but few people are aware that smaller animal enclosures and private zoos have existed on the island since colonial times. Such menageries, or collections of wild animals kept in captivity, were established by wealthy early settlers in Singapore. Learn about these lesser known zoos, why they were shut down, and how the Singapore Zoo at Mandai came about.
+Before the Singapore Zoo in Mandai, there were early zoos in the Botanic Gardens, Punggol, Pasir Panjang and on East Coast Road.
 
 **Related article** <br>
 * [Animals, Anxieties and Aspirations: The Earlier Years of the Singapore Zoo](/vol-20/issue-3/oct-dec-2024/singapore-zoo-animals/)
