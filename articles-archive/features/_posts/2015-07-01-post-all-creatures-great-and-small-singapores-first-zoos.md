@@ -26,6 +26,8 @@ William Farquhar, the first resident of Singapore (1819–22), was also deeply i
 
 Some prominent and well-off early settlers in Singapore, such as Chinese merchant Hoo Ah Kay, or Whampoa, were similarly interested in the wildlife of the region. In the 1850s, Whampoa established a private menagerie in the expansive gardens of his mansion along Serangoon Road.[^7] The menagerie was often cited by travellers as a must-see and comprised many rare birds and animals such as rhinoceroses, tapirs, giraffes and a bear.[^8] Whampoa had a pet orangutan that not only preferred cognac over water, but also possessed “manlike propensities” that could “win over some of his visitors to the Darwinian Theory”.[^9] Whampoa sent the remains of the orangutan to the Raffles Museum to be preserved after its death in 1878.[^10]
 
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/BAJrXPFgw7Y" frameborder="0" allowfullscreen=""></iframe></div>
+
 #### **The First Public Zoo**
 
 In 1867, Harry St George Ord, governor of the Straits Settlements (1867–73), suggested to the Agri-Horticultural Society that a zoological garden be established within the Botanic Gardens on Cluny Road for educational purposes.[^11] To encourage the effort, Ord offered the society two elephants, two tapirs, a leopard and a black panther in 1870, and a government grant to defray the cost of upkeeping them. The society declined Ord’s offer as it felt that it did not have the means to manage a zoo.[^12] In fact, the zoo that Ord envisioned did not materialise until after the society, overcome by debt, handed the gardens to the Gardens Committee appointed by the colonial government in January 1875. Henry James Murton, a botanist with Britain’s Royal Botanic Gardens at Kew, England, was hired as the superintendent of the Botanic Gardens. Murton immediately expanded the gardens and concurrently established the zoo.[^13]
@@ -212,7 +214,7 @@ Willis, A.C. (1936). *[Willis’ Singapore guide](https://eresources.nlb.gov.sg/
 
 [^31]: [Scenes at Singapore's Zoo](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19380925-1.2.245). (1938, September 25). <i>The Straits Times</i>, p. 32. Retrieved from NewspaperSG.
 
-[^32]: Pitt, K.W. (1985, September 16). *[Oral history interview with Mohinder Singh](https://www.nas.gov.sg/archivesonline/flipviewer/publish/f/f431d9a8-115d-11e3-83d5-0050568939ad-OHC000546_058/web/html5/index.html?launchlogo=tablet/OralHistoryInterviews_brandingLogo_.png&amp;pn=7)* [Transcript of MP3 recording no. 000546/65/58, p. 583]. Retrieved from National Archives of Singapore website.
+[^32]: Pitt, K.W. (1985, September 16). *[Oral history interview with Mohinder Singh](https://www.nas.gov.sg/archivesonline/flipviewer/publish/f/f431d9a8-115d-11e3-83d5-0050568939ad-OHC000546_058/web/html5/index.html)* [Transcript of MP3 recording no. 000546/65/58, p. 583]. Retrieved from National Archives of Singapore website.
 
 [^33]: Braddell, R. (1934). *[The lights of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5850129)* (pp. 124–125). London: Methuen &amp; Co. (Call no.: RRARE 959.57 BRA; Microfilm: NL25437; Accession no.: B29033830F)
 
