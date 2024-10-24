@@ -8,6 +8,13 @@ variant: tiptap
 <h3><strong>A Reel-ly Good Story: History in Five Minutes</strong></h3>
 <p><em>BiblioAsia Reels</em> turns a <em>BiblioAsia</em> story into a short
 video. Take five to learn interesting things about Singapore history.</p>
+<h4><strong>Singapore’s Early Zoos</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BAJrXPFgw7Y"></iframe>
+</div>
+<p>Before the Singapore Zoo in Mandai, there were early zoos in the Botanic
+Gardens, Punggol, Pasir Panjang and on East Coast Road.</p>
+<hr>
 <h4><strong>Pioneering Journalist R.B. Ooi</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/J2EPQPWskds?list=PLJlLW0qKYHTPnbGAYPZtpahewt6xRgUzc"></iframe>
