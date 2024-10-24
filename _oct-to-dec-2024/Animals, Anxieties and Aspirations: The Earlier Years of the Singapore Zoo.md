@@ -40,6 +40,9 @@ In postwar Singapore, private ventures showcasing wild animals remained highly p
 
 Although many of these private zoos did not survive for long due to high financial expenses, their continued reappearance suggests that keeping, exhibiting and viewing exotic animals had become relatively commonplace activities in Singapore by this period, and that animal displays were spaces of persistent fascination for many residents.[^10]
 
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/BAJrXPFgw7Y" frameborder="0" allowfullscreen=""></iframe></div>
+
+
 #### **A Zoo in the City**
 
 In 1967, the Public Utilities Board (PUB) began to explore ways to better utilise the water bodies under its management for recreational purposes. Several thousand acres of land in the Seletar, Peirce and MacRitchie catchments were still closed off to the public. “One of the things considered was a zoo,” recalled PUB chairman Ong Swee Law.[^11]
