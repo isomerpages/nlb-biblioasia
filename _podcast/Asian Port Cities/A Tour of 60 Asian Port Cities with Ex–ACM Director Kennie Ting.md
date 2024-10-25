@@ -38,10 +38,9 @@ get notified when the next episode drops.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>A writer and museum professional fascinated by the history, heritage and
 culture of Asian port cities, Kennie Ting is the former director of the
-Asian Civilisations Museum and Peranakan Museum in Singapore. He has written
-<a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=201300611" rel="noopener nofollow" target="_blank">The Romance of the Grand Tour: 100 Years of Travel in South East Asia</a>(2015)
-and <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=203225412" rel="noopener nofollow" target="_blank">Singapore 1819: A Living Legacy</a> (2019).
-His recent book, <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300037595" rel="noopener nofollow" target="_blank">The Great Port Cities of Asia In History</a> (2024),
+Asian Civilisations Museum and Peranakan Museum in Singapore. He has written <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=201300611" rel="noopener nofollow" target="_blank">The Romance of the Grand Tour: 100 Years of Travel in South East Asia</a></em> (2015)
+and <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=203225412" rel="noopener nofollow" target="_blank">Singapore 1819: A Living Legacy</a></em> (2019).
+His recent book, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300037595" rel="noopener nofollow" target="_blank">The Great Port Cities of Asia in History</a> </em>(2024),
 re-examines Asian history from the perspective of 60 port cities across
 the region.</p>
 </div>
