@@ -59,3 +59,33 @@ Call no.: RSING 381.18095957 KUE
 ![](/images/Vol%2020%20Issue%203/New%20Books/books_.jpg)
 
 _From Streets to Stalls_ traces the history of hawking in Singapore, from its origins in the 9th century to its present-day sociocultural importance. It also delves into hawker reform and regulation, and the transformation of hawker centres into spaces that promote social mingling and multiculturalism.
+
+
+
+#### **[Keramat, Sacred Relics and Forbidden Idols in Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300038279)**
+By William L. Gibson
+
+
+Routledge (2025), 230 pages
+
+Call no.: RSING 63.69095957 GIB  
+
+
+![](/images/Vol%2020%20Issue%203/New%20Books/books_.jpg)
+
+William L. Gibson examines how _keramat_ – holy graves and shrines – serve as physical markers of cultural identity and collective memory, intertwining local beliefs with broader religious practices. Gibson highlights the complexities surrounding these relics, including the often tense relationship between _keramat_ and authority, both secular and religious, from colonial to modern times.
+
+
+
+#### **[Tapping Words, Bridging Cultures: 	Memoir of Yang Quee Yee  ](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300038279)**
+By Yang Quee Yee 
+
+
+Pagesetters Services (2024), 464 pages 
+
+From PublicationSG  
+
+
+![](/images/Vol%2020%20Issue%203/New%20Books/books_.jpg)
+
+Yang Quee Yee has been acknowledged as the expert in compiling Malay-Chinese dictionaries. His memoir provides a historical perspective of British colonial rule in Malaya and Singapore. This English edition is based on the 2021 Chinese edition.
