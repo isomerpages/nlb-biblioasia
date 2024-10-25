@@ -18,13 +18,14 @@ cities and his favourite ACM artefacts are.</p>
 get notified when the next episode drops.</p>
 <p></p>
 <h4><strong>What Kennie Talked About</strong></h4>
-<p>02:00 – How Kennie found time to write his book <em>The Great Port Cities of Asia in History</em>
+<p>02:00 – How Kennie found time to write his book <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300037595" rel="noopener noreferrer nofollow" target="_blank">The Great Port Cities of Asia in History</a> </em>while
+heading two museums
 <br>04:17 – Kennie’s travel experiences
 <br>05:37 – How his fascination with port cities began
 <br>06:57 – His writing approach and themes of the book
 <br>10:09 – How he categorised port cities into six eras in his book
 <br>13:18 – The hardest thing about writing this book
-<br>14:36 – His favourite artefacts from the Asian Civilisations Museum (ACM)
+<br>14:36 – His favourite artefacts in the Asian Civilisations Museum (ACM)
 <br>16:00 – Wuhan’s significance as a historic port city &nbsp;
 <br>18:23 – Kennie’s research process
 <br>18:59 – His “eat, pray, love”<em> </em>port cities
