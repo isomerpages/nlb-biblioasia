@@ -19,6 +19,9 @@ foreign and culture minister, and his relationship with Lee Kuan Yew.</p>
 </a>, <a href="https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/He-Wrote-the-National-Pledge--S.-Rajaratnam--Singapore-s-First-Foreign-Minister-2717456" rel="noopener nofollow" target="_blank"><u>melisten</u></a>.</p>
 <p><a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener noreferrer nofollow" target="_blank"><u>Subscribe</u></a> to
 get notified when the next episode drops.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tgk61Vrd_3U"></iframe>
+</div>
 <p></p>
 <h4><strong>What Irene Talked About</strong></h4>
 <p>06:10 – Rajaratnam's personality
