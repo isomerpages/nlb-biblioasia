@@ -29,9 +29,8 @@ get notified when the next episode drops.</p>
 <br>18:23 – Kennie’s research process
 <br>18:59 – His “eat, pray, love”<em> </em>port cities
 <br>22:19 – The port cities Kennie would pick to live in
-<br>2</p>
+<br>26:32 – What he misses about ACM
+<br>27:14 – What’s next for Kennie Ting</p>
 <p></p>
-<p>6:32 – What he misses about ACM
-<br>27:14 – What’s next for Kennie Ting
-<br>
-</p>
+<p>Aabout</p>
+<p></p>
