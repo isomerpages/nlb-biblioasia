@@ -19,18 +19,19 @@ get notified when the next episode drops.</p>
 <p></p>
 <h4><strong>What Kennie Talked About</strong></h4>
 <p>02:00 – How Kennie found time to write his book <em>The Great Port Cities of Asia in History</em>
-<br>04:17 – Kennie’s travel experiences</p>
-<p>05:37 – How his fascination with port cities began</p>
-<p>06:57 – His writing approach and themes of the book</p>
-<p>10:09 – How he categorised port cities into six eras in his book</p>
-<p>12:04 – His storytelling style</p>
-<p>13:18 – The hardest thing about writing his book</p>
-<p>14:36 – His favourite artefacts from the Asian Civilisations Museum (ACM)</p>
-<p>16:00 – Wuhan’s significance as a historic port city &nbsp;</p>
-<p>18:23 – Kennie’s research process</p>
-<p>18:59 – His “eat, pray, love”<em> </em>port cities</p>
-<p>22:19 – The port cities Kennie would pick to live in for the six eras</p>
-<p>26:32 – What he misses about ACM</p>
-<p>27:14 – What’s next for Kennie Ting
+<br>04:17 – Kennie’s travel experiences
+<br>05:37 – How his fascination with port cities began
+<br>06:57 – His writing approach and themes of the book
+<br>10:09 – How he categorised port cities into six eras in his book
+<br>13:18 – The hardest thing about writing this book
+<br>14:36 – His favourite artefacts from the Asian Civilisations Museum (ACM)
+<br>16:00 – Wuhan’s significance as a historic port city &nbsp;
+<br>18:23 – Kennie’s research process
+<br>18:59 – His “eat, pray, love”<em> </em>port cities
+<br>22:19 – The port cities Kennie would pick to live in
+<br>2</p>
+<p></p>
+<p>6:32 – What he misses about ACM
+<br>27:14 – What’s next for Kennie Ting
 <br>
 </p>
