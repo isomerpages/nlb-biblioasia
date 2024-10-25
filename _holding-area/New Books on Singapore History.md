@@ -29,3 +29,18 @@ Call no.: RSING 746.662 LEE
 ![](/images/Vol%2020%20Issue%203/New%20Books/books_.jpg)
 
 _Batik: Makers and Wearers_ explores the rich history and culture of batik and batik making, from its traditional roots to contemporary designs. Besides batik innovations, textile scholars also examine how batik charts the evolution of new identities in Indonesia, Malaysia and Singapore.
+
+
+
+#### **[Enigmas: 		Tay Seow Huah, My Father, Singapore’s Pioneer Spy Chief](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300055348)**
+By Simon Tay 
+
+
+Landmark Books (2024), 360 pages
+
+Call no.: RSING 327.12092 TAY
+
+
+![](/images/Vol%2020%20Issue%203/New%20Books/books_.jpg)
+
+The memoir explores the life and legacy of Tay Seow Huah, Singapore’s first director of the Security and Intelligence Division, including his role during events like the Laju incident and his contributions to national security.
