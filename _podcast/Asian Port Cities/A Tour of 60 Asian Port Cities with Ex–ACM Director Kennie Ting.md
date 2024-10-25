@@ -32,5 +32,22 @@ get notified when the next episode drops.</p>
 <br>26:32 – What he misses about ACM
 <br>27:14 – What’s next for Kennie Ting</p>
 <p></p>
-<p>Aabout</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About the Guest</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>A writer and museum professional fascinated by the history, heritage and
+culture of Asian port cities, Kennie Ting is the former director of the
+Asian Civilisations Museum and Peranakan Museum in Singapore. He has written
+<a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=201300611" rel="noopener nofollow" target="_blank">The Romance of the Grand Tour: 100 Years of Travel in South East Asia</a>(2015)
+and <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=203225412" rel="noopener nofollow" target="_blank">Singapore 1819: A Living Legacy</a> (2019).
+His recent book, <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300037595" rel="noopener nofollow" target="_blank">The Great Port Cities of Asia In History</a> (2024),
+re-examines Asian history from the perspective of 60 port cities across
+the region.</p>
+</div>
+</details>
+</div>
+<p>
+<br>
+</p>
 <p></p>
