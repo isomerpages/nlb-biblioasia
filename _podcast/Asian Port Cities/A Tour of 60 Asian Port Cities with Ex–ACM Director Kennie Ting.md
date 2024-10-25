@@ -46,6 +46,29 @@ re-examines Asian history from the perspective of 60 port cities across
 the region.</p>
 </div>
 </details>
+<details class="isomer-details">
+<summary>Resources</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Credits</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh
+Gek Han. Sound engineering was done by Doppler Soundlab. The background
+music "Di Tanjong Katong" was composed by Osman Ahmad and performed by&nbsp;
+<a href="https://www.youtube.com/watch?v=uA2v7ka5TAI" rel="noopener noreferrer" target="_blank"><u>Chords Haven</u> 
+</a>. Special thanks to Kennie for coming on the show.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>About the Podcast</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>BiblioAsia+ is a podcast about Singapore history by the National Library
+of Singapore.</p>
+</div>
+</details>
 </div>
 <p>
 <br>
