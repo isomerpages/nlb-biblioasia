@@ -2,6 +2,8 @@ collections:
   podcast:
     output: true
     order:
+      - Asian Port Cities/A Tour of 60 Asian Port Cities with Ex–ACM Director
+        Kennie Ting.md
       - Asian Port Cities/.keep
       - He Wrote the National Pledge/.keep
       - He Wrote the National Pledge/S Rajaratnam, Singapore's First Foreign
