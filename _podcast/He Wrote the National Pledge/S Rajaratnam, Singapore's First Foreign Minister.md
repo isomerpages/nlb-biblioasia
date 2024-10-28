@@ -12,6 +12,9 @@ is so great that to cover his life adequately required 20 years of research
 and over 1,200 pages of writing.&nbsp;Irene&nbsp;Ng, his authorised biographer,
 tells us little-known facets of the man, his legacy as Singapore’s founding
 foreign and culture minister, and his relationship with Lee Kuan Yew.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tgk61Vrd_3U"></iframe>
+</div>
 <p></p>
 <h4><strong>Listen to the Full Episode</strong></h4>
 <p>Available on: <a href="https://open.spotify.com/episode/6yfpuQPQLt7SQgIBzsggQP" rel="noopener nofollow" target="_blank"><u>Spotify</u></a>,

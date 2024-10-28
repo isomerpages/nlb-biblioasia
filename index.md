@@ -9,14 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-18/issue-3/oct-dec-2022/theemithi-firewalking-festival/
-      button: "Theemithi: A Look at the Full Cycle of Rituals Behind the Festival of
-        Firewalking"
+      url: /vol-12/issue-3/oct-dec-2016/time-honoured-temple/
+      button: Time-honoured Temple Design
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 18 Issue 3/Theemithi/hero_img_theemithi.jpg
+      background: /images/Vol-12-issue-3/time-honoured-temple-design/heroimage_temple_designv4.png
   - infopic:
       title: Have Your Say
       subtitle: Readership Survey
@@ -26,6 +25,16 @@ sections:
       url: https://go.gov.sg/web-survey
       image: /images/survey_sep24.jpg
       alt: Readership Survey
+  - infopic:
+      title: All Smoke? Opium Propaganda in the Syonan Shimbun
+      subtitle: War and Military
+      id: infopic
+      description: Imperial Japan justified its occupation of Singapore with opium
+        propaganda and prohibition promises.
+      button: THE SCOURGE OF OPIUM
+      url: /vol-20/issue-4/jan-mar-2025/japanese-opium-propaganda-syonan-shimbun/
+      image: /images/Vol 20 Issue 4/Opium/opium_topics.jpg
+      alt: Image alt text
   - infopic:
       title: Singapore’s Early Zoos
       subtitle: BiblioAsia Reels
