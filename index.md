@@ -26,6 +26,16 @@ sections:
       image: /images/survey_sep24.jpg
       alt: Readership Survey
   - infopic:
+      title: All Smoke? Opium Propaganda in the Syonan Shimbun
+      subtitle: War and Military
+      id: infopic
+      description: Imperial Japan justified its occupation of Singapore with opium
+        propaganda and prohibition promises.
+      button: THE SCOURGE OF OPIUM
+      url: /vol-20/issue-4/jan-mar-2025/japanese-opium-propaganda-syonan-shimbun/
+      image: /images/Vol 20 Issue 4/Opium/opium_topics.jpg
+      alt: Image alt text
+  - infopic:
       title: Singapore’s Early Zoos
       subtitle: BiblioAsia Reels
       id: infopic
@@ -1330,14 +1340,4 @@ sections:
       url: https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08
       alt: Greeting Card
       image: /images/Hari Raya Cards/hari raya greeting card.jpg
-  - infopic:
-      title: All Smoke? Opium Propaganda in the Syonan Shimbun
-      subtitle: War and Military
-      id: infopic
-      description: Imperial Japan justified its occupation of Singapore with opium
-        propaganda and prohibition promises.
-      button: THE SCOURGE OF OPIUM
-      url: /vol-20/issue-4/jan-mar-2025/japanese-opium-propaganda-syonan-shimbun/
-      image: /images/Vol 20 Issue 4/Opium/opium_topics.jpg
-      alt: Image alt text
 ---
