@@ -15,7 +15,7 @@ sections:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol-12-issue-3/time-honoured-temple-design/heroimage_temple_designv2.png
+      background: /images/Vol-12-issue-3/time-honoured-temple-design/heroimage_temple_designv3.png
   - infopic:
       title: Have Your Say
       subtitle: Readership Survey
