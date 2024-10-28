@@ -47,7 +47,7 @@ The memoir explores the life and legacy of Tay Seow Huah, Singapore’s first di
 
 
 
-#### **[From Streets to Stalls: The History and Evolution of Hawking and Hawker Centres in Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300038279)**
+#### **[From Streets to Stalls: The History and Evolution of Hawking and Hawker Centres in Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300064010)**
 By Ryan Kueh
 
 
@@ -62,7 +62,7 @@ _From Streets to Stalls_ traces the history of hawking in Singapore, from its or
 
 
 
-#### **[Keramat, Sacred Relics and Forbidden Idols in Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300038279)**
+#### **[Keramat, Sacred Relics and Forbidden Idols in Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300071320)**
 By William L. Gibson
 
 
@@ -77,7 +77,7 @@ William L. Gibson examines how _keramat_ – holy graves and shrines – serve a
 
 
 
-#### **[Tapping Words, Bridging Cultures: 	Memoir of Yang Quee Yee  ](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300038279)**
+#### **[Tapping Words, Bridging Cultures: 	Memoir of Yang Quee Yee  ](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300072925)**
 By Yang Quee Yee 
 
 
