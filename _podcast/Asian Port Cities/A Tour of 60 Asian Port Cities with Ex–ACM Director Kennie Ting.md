@@ -49,12 +49,14 @@ the region.</p>
 <details class="isomer-details">
 <summary>Resources</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Kennie Ting, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=201300611" rel="noopener noreferrer nofollow" target="_blank">The Romance of the Grand Tour: 100 Years of Travel in South East Asia</a></em> (<em>Singapore: Talisman, </em>2015)</p>
+<p>Kennie Ting, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=201300611" rel="noopener noreferrer nofollow" target="_blank">The Romance of the Grand Tour: 100 Years of Travel in South East Asia</a></em> (Singapore:
+Talisman, 2015).</p>
 <p></p>
-<p>Kennie Ting, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=203225412" rel="noopener noreferrer nofollow" target="_blank">Singapore 1819: A Living Legacy</a></em> (<em>Singapore: Talisman, </em>2019).</p>
+<p>Kennie Ting, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=203225412" rel="noopener noreferrer nofollow" target="_blank">Singapore 1819: A Living Legacy</a></em> (Singapore:
+Talisman, 2019).</p>
 <p></p>
-<p>Kennie Ting, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300037595" rel="noopener noreferrer nofollow" target="_blank">The Great Port Cities of Asia in History</a> (Singapore: Talisman, 2024).</em>
-</p>
+<p>Kennie Ting, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300037595" rel="noopener noreferrer nofollow" target="_blank">The Great Port Cities of Asia in History</a> </em>(Singapore:
+Talisman, 2024).</p>
 <p></p>
 <p>John Darwin, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=205697760" rel="noopener nofollow" target="_blank">Unlocking the World: Port Cities and Globalization in the Age of Steam, 1830–1930</a></em> (London:
 Penguin Books, 2021).</p>
