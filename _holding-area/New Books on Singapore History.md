@@ -11,8 +11,8 @@ Lee Kong Chian Natural History Museum (2024), 238 pages
 
 Call no.: RSING 761 TEO 
 
+![](/images/Vol%2020%20Issue%204/New%20Books/books_perspective2.jpg)
 
-![](/images/Vol%2020%20Issue%203/New%20Books/books_.jpg)
 
 During his fleeting eight-and-a-half hours in Singapore, Kubota Beisen, a renowned Japanese artist from the Meiji period, produced 12 woodblock prints that capture scenes of wildlife and the people of Singapore. These present a glimpse of the island’s cultural, historical and environmental landscapes at the turn of the century.
 
@@ -26,7 +26,7 @@ Asian Civilisations Museum (2024), 460 pages
 Call no.: RSING 746.662 LEE
 
 
-![](/images/Vol%2020%20Issue%203/New%20Books/books_.jpg)
+![](/images/Vol%2020%20Issue%204/New%20Books/books_batik.jpg)
 
 _Batik: Makers and Wearers_ explores the rich history and culture of batik and batik making, from its traditional roots to contemporary designs. Besides batik innovations, textile scholars also examine how batik charts the evolution of new identities in Indonesia, Malaysia and Singapore.
 
@@ -41,7 +41,8 @@ Landmark Books (2024), 360 pages
 Call no.: RSING 327.12092 TAY
 
 
-![](/images/Vol%2020%20Issue%203/New%20Books/books_.jpg)
+![](/images/Vol%2020%20Issue%204/New%20Books/books_enigma.jpg)
+
 
 The memoir explores the life and legacy of Tay Seow Huah, Singapore’s first director of the Security and Intelligence Division, including his role during events like the Laju incident and his contributions to national security.
 
@@ -56,7 +57,8 @@ World Scientific Publishing (2024), 174 pages
 Call no.: RSING 381.18095957 KUE
 
 
-![](/images/Vol%2020%20Issue%203/New%20Books/books_.jpg)
+![](/images/Vol%2020%20Issue%204/New%20Books/books_hawker.jpg)
+
 
 _From Streets to Stalls_ traces the history of hawking in Singapore, from its origins in the 9th century to its present-day sociocultural importance. It also delves into hawker reform and regulation, and the transformation of hawker centres into spaces that promote social mingling and multiculturalism.
 
@@ -71,7 +73,8 @@ Routledge (2025), 230 pages
 Call no.: RSING 63.69095957 GIB  
 
 
-![](/images/Vol%2020%20Issue%203/New%20Books/books_.jpg)
+![](/images/Vol%2020%20Issue%204/New%20Books/books_keramat.jpg)
+
 
 William L. Gibson examines how _keramat_ – holy graves and shrines – serve as physical markers of cultural identity and collective memory, intertwining local beliefs with broader religious practices. Gibson highlights the complexities surrounding these relics, including the often tense relationship between _keramat_ and authority, both secular and religious, from colonial to modern times.
 
@@ -86,6 +89,7 @@ Pagesetters Services (2024), 464 pages
 From PublicationSG  
 
 
-![](/images/Vol%2020%20Issue%203/New%20Books/books_.jpg)
+![](/images/Vol%2020%20Issue%204/New%20Books/books_memoir.jpg)
+
 
 Yang Quee Yee has been acknowledged as the expert in compiling Malay-Chinese dictionaries. His memoir provides a historical perspective of British colonial rule in Malaya and Singapore. This English edition is based on the 2021 Chinese edition.
