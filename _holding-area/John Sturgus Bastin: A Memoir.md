@@ -123,9 +123,9 @@ Bastin passed away peacefully in his home in Eastbourne on 7 August 2024, aged 9
 <br><br>
 • Bastin, John Sturgus and Robin W. Winks, comps. <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4178198"><i>Malaysia: Selected Historical Readings</i></a>. Kuala Lumpur: Oxford University Press, 1966. (From National Library, Singapore, call no. RSING 959.5 BAS-[JSB])
 <br><br>
-• Bastin, John Sturgus, ed. <i>The Emergence of Modern Southeast Asia, 1511–1957</i>. Englewood Cliffs, N.J., Prentice-Hall, 1967. (From National Library, Singapore, call no. RCLOS 959 BAS-[JSB])
+• Bastin, John Sturgus, ed. <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4095007"><i>The Emergence of Modern Southeast Asia, 1511–1957</i></a>. Englewood Cliffs, N.J., Prentice-Hall, 1967. (From National Library, Singapore, call no. RCLOS 959 BAS-[JSB])
 <br><br>
-• Bastin, John Sturgus and Harry J. Benda. <i>A History of Modern Southeast Asia: Colonialism, Nationalism, and Decolonization</i>. Singapore: Federal Publications, 1968. (From National Library, Singapore, call no. RCLOS 959 BAS-[JSB])
+• Bastin, John Sturgus and Harry J. Benda. <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=704148"><i>A History of Modern Southeast Asia: Colonialism, Nationalism, and Decolonization</i></a>. Singapore: Federal Publications, 1968. (From National Library, Singapore, call no. RCLOS 959 BAS-[JSB])
 <br><br>
 • Bastin, John Sturgus and Mildred Archer. <i>The Raffles Drawings in the India Office Library, London</i>. Kuala Lumpur: Oxford University Press, 1978. (From National Library, Singapore, call no. RCLOS 741.959 ARC-[JSB])
 <br><br>
