@@ -135,21 +135,21 @@ Bastin passed away peacefully in his home in Eastbourne on 7 August 2024, aged 9
 <br><br>
 • Bastin, John Sturgus, comp. <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=7062675"><i>Travellers’ Singapore: An Anthology</i></a>. Kuala Lumpur: Oxford University Press, 1994. (From National Library, Singapore, call no. RSING 959.5705 TRA-[JSB])
 <br><br>
-• Bastin, John Sturgus. <i>Olivia Mariamne Raffles</i>. Singapore: Landmark Books, 2002. (From National Library, Singapore, call no. RSING 959.5703092 BAS-[HIS]) &nbsp;
+• Bastin, John Sturgus. <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=11721404"><i>Olivia Mariamne Raffles</i></a>. Singapore: Landmark Books, 2002. (From National Library, Singapore, call no. RSING 959.5703092 BAS-[HIS]) &nbsp;
 <br><br>
-• Bastin, John Sturgus. <i>Sophia Raffles</i>. Singapore: Landmark Books, 2002. (From National Library, Singapore, call no. RSING 959.5703092 BAS-[HIS]) &nbsp;
+• Bastin, John Sturgus. <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=11721448"><i>Sophia Raffles</i></a>. Singapore: Landmark Books, 2002. (From National Library, Singapore, call no. RSING 959.5703092 BAS-[HIS]) &nbsp;
 <br><br>
-• Bastin, John Sturgus. <i>Letters and Books of Sir Stamford Raffles and Lady Raffles: The Tang Holdings Collection of Autograph Letters and Books of Sir Stamford Raffles and Lady Raffles</i>. Singapore: Editions Didier Millet, 2009. (From National Library, Singapore, call no. RSING 959.5703092 BAS-[JSB])
+• Bastin, John Sturgus. <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=13142840"><i>Letters and Books of Sir Stamford Raffles and Lady Raffles: The Tang Holdings Collection of Autograph Letters and Books of Sir Stamford Raffles and Lady Raffles</i></a>. Singapore: Editions Didier Millet, 2009. (From National Library, Singapore, call no. RSING 959.5703092 BAS-[JSB])
 <br><br>
-• Bastin, John Sturgus. <i>The Founding of Singapore 1819: Based on the Private Letters of Sir Stamford Raffles to the Governor-General and Commander-in-Chief in India, the Marguess of Hastings, Preserved in the Bute Collection at Mount Stuart, Isle of Bute, Scotland</i>. Singapore: National Library Board, 2012. (From National Library, Singapore, call no. RSING 959.5703 BAS-[JSB])
+• Bastin, John Sturgus. <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=14404109"><i>The Founding of Singapore 1819: Based on the Private Letters of Sir Stamford Raffles to the Governor-General and Commander-in-Chief in India, the Marguess of Hastings, Preserved in the Bute Collection at Mount Stuart, Isle of Bute, Scotland</i></a>. Singapore: National Library Board, 2012. (From National Library, Singapore, call no. RSING 959.5703 BAS-[JSB])
 <br><br>
-• Bastin, John Sturgus. <i>Raffles and Hastings: Private Exchanges Behind the Founding of Singapore.</i> Singapore: National Library Board Singapore and Marshall Cavendish Editions, 2014. (From National Library, Singapore, call no. RSING 959.5703 BAS-[JSB])
+• Bastin, John Sturgus. <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=200867141"><i>Raffles and Hastings: Private Exchanges Behind the Founding of Singapore.</i></a> Singapore: National Library Board Singapore and Marshall Cavendish Editions, 2014. (From National Library, Singapore, call no. RSING 959.5703 BAS-[JSB])
 <br><br>
-• Bastin, John Sturgus and Julie Weizenegger. <i>The Family of Sir Stamford Raffles</i>. Singapore: National Library Board Singapore and Marshall Cavendish Editions, 2016. (From National Library, Singapore, call no. RSING 959.57030922 BAS-[HIS])
+• Bastin, John Sturgus and Julie Weizenegger. <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=201924754"><i>The Family of Sir Stamford Raffles</i></a> . Singapore: National Library Board Singapore and Marshall Cavendish Editions, 2016. (From National Library, Singapore, call no. RSING 959.57030922 BAS-[HIS])
 <br><br>
-• Bastin, John Sturgus. <i>Sir Stamford Raffles and Some of His Friends and Contemporaries: A Memoir of the Founder of Singapore</i>. Singapore: World Scientific Publishing Co. Pte Ltd, 2019. (From National Library, Singapore, call no. RSING 959.5703092 BAS-[HIS])
+• Bastin, John Sturgus. <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=203823402"><i>Sir Stamford Raffles and Some of His Friends and Contemporaries: A Memoir of the Founder of Singapore</i></a>. Singapore: World Scientific Publishing Co. Pte Ltd, 2019. (From National Library, Singapore, call no. RSING 959.5703092 BAS-[HIS])
 <br><br>
-• Bastin, John Sturgus. <i>The Letters of Sir Stamford Raffles to His Sister Mary Anne Flint: Together With the Letters of Lady Raffles</i>. Singapore: National Museum of Singapore, 2021. (From National Library, Singapore, call no. RSING 959.5703092 BAS-[HIS])</div>
+• Bastin, John Sturgus. <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=205491286"><i>The Letters of Sir Stamford Raffles to His Sister Mary Anne Flint: Together With the Letters of Lady Raffles</i></a>. Singapore: National Museum of Singapore, 2021. (From National Library, Singapore, call no. RSING 959.5703092 BAS-[HIS])</div>
 
 </div>
 
