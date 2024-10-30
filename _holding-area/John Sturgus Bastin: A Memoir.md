@@ -14,6 +14,9 @@ The eminent historian Dr John Sturgus Bastin (1927–2024) lived much, if not mo
 ![](/images/Vol%2020%20Issue%204/John%20Sturgus%20Bastin/bastin_facing.jpg)
 <div style="background-color: white;">Dr John Bastin at the launch of “Raffles’ Letters: Intrigues Behind the Founding of Singapore” exhibition at the National Library on 28 August 2012. <i>Courtesy of the National Library Board. </i></div>
 
+![](/images/Vol%2020%20Issue%204/John%20Sturgus%20Bastin/bastin_latest.jpg)
+<div style="background-color: white;">Dr John Bastin’s latest book.  <i>Image from John Sturgus Bastin, The Letters of Sir Stamford Raffles to His Sister Mary Anne Flint: Together With the Letters of Lady Raffles (Singapore: National Museum of Singapore, 2021). (From National Library, Singapore, call no. RSING 959.5703092 BAS-[HIS]). </i></div>
+
 In addition to being a historian, Bastin was a bibliophile. He systematically collected anything and everything on Raffles and his wide interests that ranged from antiquities to natural history. The National Library of Singapore is proud and privileged to have acquired Bastin’s library of over 5,000 books relating to Raffles and Singapore/Southeast Asia in 2015. These items form part of the John Bastin Collection at the National Library.
 
 #### **Foundation Professor of History at the University of Malaya**
@@ -95,6 +98,9 @@ Bastin never wrote the definitive biography of Raffles which many of us expected
 
 Bastin passed away peacefully in his home in Eastbourne on 7 August 2024, aged 97. He is survived by his wife Rita, and four children, Christopher, Jennifer, Mark and Marianne.
 
+
+![](/images/Vol%2020%20Issue%204/John%20Sturgus%20Bastin/bastin_familyphoto.jpg)
+<div style="background-color: white;">Dr John Bastin with his wife Rita and their two granddaughters, c. 2001.  <i>Courtesy of Rita Bastin.</i></div>
 
 
 <div style="background-color: #fff6ba; padding:15px; margin: 10px; font-size=120%"><b>SELECTED PUBLICATIONS OF JOHN BASTIN</b><br>
