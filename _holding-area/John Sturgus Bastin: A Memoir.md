@@ -83,6 +83,9 @@ In 2016, the library was given the opportunity to publish Bastin’s book, _The 
 ![](/images/Vol%2020%20Issue%204/John%20Sturgus%20Bastin/bastin_transcript.jpg)
 <div style="background-color: white;"><i>The Family of Sir Stamford Raffles</i>, co-authored with Julie Weizenegger.<i>Image from John Sturgus Bastin and Julie Weizenegger, The Family of Sir Stamford Raffles (Singapore: National Library Board Singapore and Marshall Cavendish Editions, 2016). (From National Library, Singapore, call no. RSING 959.57030922 BAS-[HIS]). </i></div>
 
+![](/images/Vol%2020%20Issue%204/John%20Sturgus%20Bastin/bastin_transcript.jpg)
+<div style="background-color: white;"><i>Dr John Bastin’s transcription of the correspondences between Stamford Raffles and the Governor-General of India, the Marquess of Hastings. <i>Image from John Sturgus Bastin, Raffles and Hastings: Private Exchanges Behind the Founding of Singapore (Singapore: National Library Board Singapore and Marshall Cavendish Editions, 2014). (From National Library, Singapore, call no. RSING 959.5703 BAS-[JSB]). </i></i></div><i>
+
 Those of us at the National Museum and National Library who had the occasion to work with Bastin, as I had, found him a precise and exacting writer. He knew exactly what he wanted to say and how to say it. Editing Bastin was always a challenge.
 
 Bastin never wrote the definitive biography of Raffles which many of us expected. Instead, what Bastin left us was what he termed “an ‘alternative’ biographical account of Raffles, as seen through the lives of his friends and contemporaries”.[^20] We are delighted that Bastin chose to publish this “alternative” biography of Raffles, _Sir Stamford Raffles and Some of His Friends and Contemporaries: A Memoir of the Founder of Singapore_, in the bicentenary year of Raffles’ arrival in Singapore. &nbsp;
@@ -204,4 +207,4 @@ Bastin passed away peacefully in his home in Eastbourne on 7 August 2024, aged 9
 [^19]: John Sturgus Bastin, [_The Founding of Singapore 1819: Based on the Private Letters of Sir Stamford Raffles to the Governor-General and Commander-in-Chief in India, the Marguess of Hastings, Preserved in the Bute Collection at Mount Stuart, Isle of Bute, Scotland_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14404109) (Singapore: National Library Board, 2012). (From National Library, Singapore, call no. RSING 959.5703 BAS-\[JSB\])
 
 	
-[^20]: Bastin, [_Sir Stamford Raffles and Some of His Friends and Contemporaries_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203823402), vi.
+[^20]: Bastin, [_Sir Stamford Raffles and Some of His Friends and Contemporaries_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203823402), vi.</i>
