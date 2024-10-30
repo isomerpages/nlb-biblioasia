@@ -131,9 +131,9 @@ Bastin passed away peacefully in his home in Eastbourne on 7 August 2024, aged 9
 <br><br>
 • Bastin, John Sturgus and Pauline Rothagi. <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=2416396"><i>Prints of Southeast Asia in the India Office Library: The East India Company in Malaysia and Indonesia, 1786–1824</i></a>. London: Her Majesty's Stationery Office, 1979. (From National Library, Singapore, call no. RDLKL 769.49959503 BAS-[JSB])
 <br><br>
-• Bastin, John Sturgus and Bea Brommer. <i>Nineteenth Century Prints and Illustrated Books of Indonesia With Particular Reference to the Print Collection of the Tropenmuseum, Amsterdam</i>. Utrecht: Spectrum Publishers, 1979. (From National Library, Singapore, call no. RSEA 769.49959802 BAS-[JSB])
+• Bastin, John Sturgus and Bea Brommer. <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=1856524"><i>Nineteenth Century Prints and Illustrated Books of Indonesia With Particular Reference to the Print Collection of the Tropenmuseum, Amsterdam</i></a>. Utrecht: Spectrum Publishers, 1979. (From National Library, Singapore, call no. RSEA 769.49959802 BAS-[JSB])
 <br><br>
-• Bastin, John Sturgus, comp. <i>Travellers’ Singapore: An Anthology</i>. Kuala Lumpur: Oxford University Press, 1994. (From National Library, Singapore, call no. RSING 959.5705 TRA-[JSB])
+• Bastin, John Sturgus, comp. <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=7062675"><i>Travellers’ Singapore: An Anthology</i></a>. Kuala Lumpur: Oxford University Press, 1994. (From National Library, Singapore, call no. RSING 959.5705 TRA-[JSB])
 <br><br>
 • Bastin, John Sturgus. <i>Olivia Mariamne Raffles</i>. Singapore: Landmark Books, 2002. (From National Library, Singapore, call no. RSING 959.5703092 BAS-[HIS]) &nbsp;
 <br><br>
