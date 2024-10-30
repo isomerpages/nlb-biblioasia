@@ -90,7 +90,7 @@ Those of us at the National Museum and National Library who had the occasion to 
 
 Bastin never wrote the definitive biography of Raffles which many of us expected. Instead, what Bastin left us was what he termed “an ‘alternative’ biographical account of Raffles, as seen through the lives of his friends and contemporaries”.[^20] We are delighted that Bastin chose to publish this “alternative” biography of Raffles, _Sir Stamford Raffles and Some of His Friends and Contemporaries: A Memoir of the Founder of Singapore_, in the bicentenary year of Raffles’ arrival in Singapore. &nbsp;
 
-![](/images/Vol%2020%20Issue%204/John%20Sturgus%20Bastin/bastin_facing.jpg)
+![](/images/Vol%2020%20Issue%204/John%20Sturgus%20Bastin/bastin_bio.jpg)
 <div style="background-color: white;">Dr John Bastin’s “alternative” biography of Stamford Raffles. <i>Image from John Sturgus Bastin, Sir Stamford Raffles and Some of His Friends and Contemporaries: A Memoir of the Founder of Singapore (Singapore: World Scientific Publishing Co. Pte Ltd, 2019). (From National Library, Singapore, call no. RSING 959.5703092 BAS-[HIS]). </i></div>
 
 Bastin passed away peacefully in his home in Eastbourne on 7 August 2024, aged 97. He is survived by his wife Rita, and four children, Christopher, Jennifer, Mark and Marianne.
