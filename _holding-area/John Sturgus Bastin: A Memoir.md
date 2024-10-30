@@ -162,7 +162,7 @@ Bastin passed away peacefully in his home in Eastbourne on 7 August 2024, aged 9
 [^9]: Bastin, “Problems of Personality in the Reinterpretation of Modern Malayan History,” 141–51.
 
 	
-[^10]: Thomas Stamford Raffles, _The History of Java_, vol. 1 and vol. 2 (London: John Murray, 1830). (From National Library Online)
+[^10]: Thomas Stamford Raffles, _The History of Java_, [vol. 1](https://www.nlb.gov.sg/main/Book-Detail-Page?cmsUuID=6d15e65a-d692-4496-b15f-58bb9db11a11) and [vol. 2](https://www.nlb.gov.sg/main/Book-Detail-Page?cmsUuID=160111b1-4e0f-4a49-806e-1b565679415f) (London: John Murray, 1830). (From National Library Online)
 
 	
 [^11]: J.B. Stanley, “The Bastin Collection on Raffles,” _Biblioasia_ 12, no. 1 (April–June 2016): 60–64. &nbsp;
