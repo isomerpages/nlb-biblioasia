@@ -119,9 +119,9 @@ Bastin passed away peacefully in his home in Eastbourne on 7 August 2024, aged 9
 <br><br>
 • Bastin, John Sturgus and R. Roolvink, eds. <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4085918"><i>Malayan and Indonesian Studies: Essays Presented to Sir Richard Winstedt on His Eighty-fifth Birthday</i></a>. Oxford: Clarendon Press, 1964. (From National Library, Singapore, call no. RCLOS 959.5 BAS)
 <br><br>
-• Bastin, John Sturgus. <i>The British in West Sumatra (1685–1825): A Selection of Documents, Mainly from the EIC Records Preserved in the India Office Library, Commonwealth Relations Office</i>. Kuala Lumpur: University of Malaya Press, 1965. (From National Library, Singapore, call no. RCLOS 325.921 BAS-[JSB])
+• Bastin, John Sturgus. <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4095004"><i>The British in West Sumatra (1685–1825): A Selection of Documents, Mainly from the EIC Records Preserved in the India Office Library, Commonwealth Relations Office</i></a>. Kuala Lumpur: University of Malaya Press, 1965. (From National Library, Singapore, call no. RCLOS 325.921 BAS-[JSB])
 <br><br>
-• Bastin, John Sturgus and Robin W. Winks, comps. <i>Malaysia: Selected Historical Readings</i>. Kuala Lumpur: Oxford University Press, 1966. (From National Library, Singapore, call no. RSING 959.5 BAS-[JSB])
+• Bastin, John Sturgus and Robin W. Winks, comps. <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4178198"><i>Malaysia: Selected Historical Readings</i></a>. Kuala Lumpur: Oxford University Press, 1966. (From National Library, Singapore, call no. RSING 959.5 BAS-[JSB])
 <br><br>
 • Bastin, John Sturgus, ed. <i>The Emergence of Modern Southeast Asia, 1511–1957</i>. Englewood Cliffs, N.J., Prentice-Hall, 1967. (From National Library, Singapore, call no. RCLOS 959 BAS-[JSB])
 <br><br>
