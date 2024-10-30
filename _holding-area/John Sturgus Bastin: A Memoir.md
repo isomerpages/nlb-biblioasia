@@ -144,7 +144,7 @@ Bastin passed away peacefully in his home in Eastbourne on 7 August 2024, aged 9
 [^3]: John Sturgus Bastin, “[The Native Policy of Sir Stamford Raffles: A Thesis Submitted for the Degree of Philosophy](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202838679)” (PhD diss., Oxford University, 1955). (From National Library, Singapore, call no. RCLOS 959.8022 BAS-\[JSB\]); John Sturgus Bastin, [_The Native Policies of Sir Stamford Raffles in Java and Sumatra: An Economic Interpretation_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4085919) (Oxford: Clarendon Press, 1957). (From National Library, Singapore, call no. RCLOS 325.342 BAS-\[JSB\])
 
 	
-[^4]: Jacob Cornelis van Leur, _Indonesian Trade and Society: Essays in Asian Social and Economic History; Selected Studies on Indonesia_ (The Hague: Published for the Royal Tropical Institute, Amsterdam, by W. van Hoeve, 1955), 261. (From National Library, Singapore, call no. RCLOS 959.8 LEU)
+[^4]: Jacob Cornelis van Leur, [_Indonesian Trade and Society: Essays in Asian Social and Economic History; Selected Studies on Indonesia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4095644) (The Hague: Published for the Royal Tropical Institute, Amsterdam, by W. van Hoeve, 1955), 261. (From National Library, Singapore, call no. RCLOS 959.8 LEU)
 
 	
 [^5]: K.G. Tregonning, “A New Approach to Malayan History,” _Straits Times_, 21 November 1958, 8; K.G. Tregonning, “Look At Our Story From the Inside, Not From Outside,” _Straits Times_, 24 November 1958, 6. (From NewspaperSG)
