@@ -249,7 +249,7 @@ Source: “戒煙歌 - 李香蘭 Li Xiang Lan (山口淑子 Yoshiko Yamaguchi),�
 
 
 
-[^25]: Lee Kip Lee, oral history interview by Cindy Chou, 20 July 1994, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/2/2d90b26a-115e-11e3-83d5-0050568939ad-OHC001532_004/web/html5/index.html) and MP3 audio, Reel/Disc 4 of 6, National Archives of Singapore ([accession no. 001532](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/001532)), 52; Lim Choo Sye, oral history interview by Low Lay Leng, 14 September 1983, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/6/6f19ca76-1160-11e3-83d5-0050568939ad-OHC000330_003/web/html5/index.html) and MP3 audio, Reel/Disc 3 of 16, National Archives of Singapore ([accession no. 000330](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000330)), 15. &nbsp;
+[^25]: Jie Li, “A National Cinema for a Puppet State: The Manchurian Motion Picture Association,” in&nbsp;_[The Oxford Handbook of Chinese Cinemas](https://eservice.nlb.gov.sg/redir/itemdetails?bid=206005148)_, ed. Carlos Rojas and Eileen Cheng-yin Chow (New York: Oxford University Press, 2019), 79, 89. (From National Library, Singapore, call no. RSING 791.430951 OXF-ART\]); “[Film Shows Chinese Revolt Against British Imperialism](https://eresources.nlb.gov.sg/newspapers/digitised/article/syonantimes19430513-1.2.19),”&nbsp;_Syonan Shimbun_, 13 May 1943, 2; “[Story of Britain's Introduction of Opium into China](https://eresources.nlb.gov.sg/newspapers/digitised/article/syonantimes19440803-1.2.16),”&nbsp;_Syonan Shimbun_, 3 August 1944, 2. (From NewspaperSG)
 
 
 
