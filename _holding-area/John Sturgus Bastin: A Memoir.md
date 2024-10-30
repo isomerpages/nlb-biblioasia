@@ -92,39 +92,39 @@ Bastin, John Sturgus. _The Native Policies of Sir Stamford Raffles in Java and S
 Bastin, John Sturgus, ed. _The Journal of Thomas Otho Travers 1813–1820_. Memoirs of the Raffles Museum no. 4, May 1957. Singapore: Authority; Printed by A.C. Banfield, Government Printer, 1960. (From National Library, Singapore, call no. RCLOS 920.009034 TRA-\[JSB\])
 <br>
 Bastin, John Sturgus.&nbsp; _Essays on Indonesian and Malayan History_. Monographs on Southeast Asian Subjects no. 2. Singapore: Eastern Universities Press, 1961. (From National Library, Singapore, call no. RDTYS 991 BAS)
-
+<br>
 Bastin, John Sturgus and R. Roolvink, eds. _Malayan and Indonesian Studies: Essays Presented to Sir Richard Winstedt on His Eighty-fifth Birthday_. Oxford: Clarendon Press, 1964. (From National Library, Singapore, call no. RCLOS 959.5 BAS)
-
+<br>
 Bastin, John Sturgus. _The British in West Sumatra (1685–1825): A Selection of Documents, Mainly from the EIC Records Preserved in the India Office Library, Commonwealth Relations Office_. Kuala Lumpur: University of Malaya Press, 1965. (From National Library, Singapore, call no. RCLOS 325.921 BAS-\[JSB\])
-
+<br><br>
 Bastin, John Sturgus and Robin W. Winks, comps. _Malaysia: Selected Historical Readings_. Kuala Lumpur: Oxford University Press, 1966. (From National Library, Singapore, call no. RSING 959.5 BAS-\[JSB\])
-
+<br>
 Bastin, John Sturgus, ed. _The Emergence of Modern Southeast Asia, 1511–1957_. Englewood Cliffs, N.J., Prentice-Hall, 1967. (From National Library, Singapore, call no. RCLOS 959 BAS-\[JSB\])
-
+<br>
 Bastin, John Sturgus and Harry J. Benda. _A History of Modern Southeast Asia: Colonialism, Nationalism, and Decolonization_. Singapore: Federal Publications, 1968. (From National Library, Singapore, call no. RCLOS 959 BAS-\[JSB\])
-
+<br>
 Bastin, John Sturgus and Mildred Archer. _The Raffles Drawings in the India Office Library, London_. Kuala Lumpur: Oxford University Press, 1978. (From National Library, Singapore, call no. RCLOS 741.959 ARC-\[JSB\])
-
+<br>
 Bastin, John Sturgus and Pauline Rothagi. _Prints of Southeast Asia in the India Office Library: The East India Company in Malaysia and Indonesia, 1786–1824_. London: Her Majesty's Stationery Office, 1979. (From National Library, Singapore, call no. RDLKL 769.49959503 BAS-\[JSB\])
-
+<br>
 Bastin, John Sturgus and Bea Brommer. _Nineteenth Century Prints and Illustrated Books of Indonesia With Particular Reference to the Print Collection of the Tropenmuseum, Amsterdam_. Utrecht: Spectrum Publishers, 1979. (From National Library, Singapore, call no. RSEA 769.49959802 BAS-\[JSB\])
-
+<br>
 Bastin, John Sturgus, comp. _Travellers’ Singapore: An Anthology_. Kuala Lumpur: Oxford University Press, 1994. (From National Library, Singapore, call no. RSING 959.5705 TRA-\[JSB\])
-
+<br>
 Bastin, John Sturgus. _Olivia Mariamne Raffles_. Singapore: Landmark Books, 2002. (From National Library, Singapore, call no. RSING 959.5703092 BAS-\[HIS\]) &nbsp;
-
+<br>
 Bastin, John Sturgus. _Sophia Raffles_. Singapore: Landmark Books, 2002. (From National Library, Singapore, call no. RSING 959.5703092 BAS-\[HIS\]) &nbsp;
-
+<br>
 Bastin, John Sturgus. _Letters and Books of Sir Stamford Raffles and Lady Raffles: The Tang Holdings Collection of Autograph Letters and Books of Sir Stamford Raffles and Lady Raffles_. Singapore: Editions Didier Millet, 2009. (From National Library, Singapore, call no. RSING 959.5703092 BAS-\[JSB\])
-
+<br>
 Bastin, John Sturgus. _The Founding of Singapore 1819: Based on the Private Letters of Sir Stamford Raffles to the Governor-General and Commander-in-Chief in India, the Marguess of Hastings, Preserved in the Bute Collection at Mount Stuart, Isle of Bute, Scotland_. Singapore: National Library Board, 2012. (From National Library, Singapore, call no. RSING 959.5703 BAS-\[JSB\])
-
+<br>
 Bastin, John Sturgus. _Raffles and Hastings: Private Exchanges Behind the Founding of Singapore_. Singapore: National Library Board Singapore and Marshall Cavendish Editions, 2014. (From National Library, Singapore, call no. RSING 959.5703 BAS-\[JSB\])
-
+<br>
 Bastin, John Sturgus and Julie Weizenegger. _The Family of Sir Stamford Raffles_. Singapore: National Library Board Singapore and Marshall Cavendish Editions, 2016. (From National Library, Singapore, call no. RSING 959.57030922 BAS-\[HIS\])
-
+<br>
 Bastin, John Sturgus. _Sir Stamford Raffles and Some of His Friends and Contemporaries: A Memoir of the Founder of Singapore_. Singapore: World Scientific Publishing Co. Pte Ltd, 2019. (From National Library, Singapore, call no. RSING 959.5703092 BAS-\[HIS\])
-
+<br>
 Bastin, John Sturgus. _The Letters of Sir Stamford Raffles to His Sister Mary Anne Flint: Together With the Letters of Lady Raffles_. Singapore: National Museum of Singapore, 2021. (From National Library, Singapore, call no. RSING 959.5703092 BAS-\[HIS\])</div>
 
 </div>
