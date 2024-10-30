@@ -119,13 +119,13 @@ Bastin, John Sturgus. _Letters and Books of Sir Stamford Raffles and Lady Raffle
 <br><br>
 Bastin, John Sturgus. _The Founding of Singapore 1819: Based on the Private Letters of Sir Stamford Raffles to the Governor-General and Commander-in-Chief in India, the Marguess of Hastings, Preserved in the Bute Collection at Mount Stuart, Isle of Bute, Scotland_. Singapore: National Library Board, 2012. (From National Library, Singapore, call no. RSING 959.5703 BAS-\[JSB\])
 <br><br>
-Bastin, John Sturgus. _Raffles and Hastings: Private Exchanges Behind the Founding of Singapore_. Singapore: National Library Board Singapore and Marshall Cavendish Editions, 2014. (From National Library, Singapore, call no. RSING 959.5703 BAS-\[JSB\])
+• Bastin, John Sturgus. _Raffles and Hastings: Private Exchanges Behind the Founding of Singapore_. Singapore: National Library Board Singapore and Marshall Cavendish Editions, 2014. (From National Library, Singapore, call no. RSING 959.5703 BAS-\[JSB\])
 <br><br>
-Bastin, John Sturgus and Julie Weizenegger. _The Family of Sir Stamford Raffles_. Singapore: National Library Board Singapore and Marshall Cavendish Editions, 2016. (From National Library, Singapore, call no. RSING 959.57030922 BAS-\[HIS\])
+• Bastin, John Sturgus and Julie Weizenegger. _The Family of Sir Stamford Raffles_. Singapore: National Library Board Singapore and Marshall Cavendish Editions, 2016. (From National Library, Singapore, call no. RSING 959.57030922 BAS-\[HIS\])
 <br><br>
-Bastin, John Sturgus. _Sir Stamford Raffles and Some of His Friends and Contemporaries: A Memoir of the Founder of Singapore_. Singapore: World Scientific Publishing Co. Pte Ltd, 2019. (From National Library, Singapore, call no. RSING 959.5703092 BAS-\[HIS\])
+• Bastin, John Sturgus. _Sir Stamford Raffles and Some of His Friends and Contemporaries: A Memoir of the Founder of Singapore_. Singapore: World Scientific Publishing Co. Pte Ltd, 2019. (From National Library, Singapore, call no. RSING 959.5703092 BAS-\[HIS\])
 <br><br>
-Bastin, John Sturgus. _The Letters of Sir Stamford Raffles to His Sister Mary Anne Flint: Together With the Letters of Lady Raffles_. Singapore: National Museum of Singapore, 2021. (From National Library, Singapore, call no. RSING 959.5703092 BAS-\[HIS\])</div>
+• Bastin, John Sturgus. _The Letters of Sir Stamford Raffles to His Sister Mary Anne Flint: Together With the Letters of Lady Raffles_. Singapore: National Museum of Singapore, 2021. (From National Library, Singapore, call no. RSING 959.5703092 BAS-\[HIS\])</div>
 
 </div>
 
