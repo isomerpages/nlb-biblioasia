@@ -135,7 +135,7 @@ Bastin passed away peacefully in his home in Eastbourne on 7 August 2024, aged 9
 
 #### **NOTES**
 	
-[^1]:  John Sturgus Bastin, “Raffles’ Ideas on the Land Rent System in Java and the Work of the Mackenzie Land Tenure Commission,” _Verhandelingen van het Koninklijk Instituut voor Taal, Land- en Volkenkunde_ 14 (‘s-Gravenhage: Martinus Nijhoff, 1954). (From JSTOR via NLB’s eResources website)
+[^1]:  John Sturgus Bastin, “Raffles’ Ideas on the Land Rent System in Java and the Work of the Mackenzie Land Tenure Commission,” _Verhandelingen van het Koninklijk Instituut voor Taal, Land- en Volkenkunde_ 14 (‘s-Gravenhage: Martinus Nijhoff, 1954). (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
 
 [^2]: John Sturgus Bastin, _The Letters of Sir Stamford Raffles to His Sister Mary Anne Flint: Together With the Letters of Lady Raffles_ (Singapore: National Museum of Singapore, 2021). (From National Library, Singapore, call no. RSING 959.5703092 BAS-\[HIS\])
