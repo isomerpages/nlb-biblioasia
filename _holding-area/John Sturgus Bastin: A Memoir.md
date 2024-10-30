@@ -153,10 +153,10 @@ Bastin passed away peacefully in his home in Eastbourne on 7 August 2024, aged 9
 [^6]: John Sturgus Bastin, “The Western Element in Modern Southeast Asian History,” in [_Essays on Indonesian and Malayan History_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4077926) (Singapore, Eastern Universities Press, 1961), 18. (From National Library, Singapore, call no. RDTYS 991 BAS)
 
 	
-[^7]: John Sturgus Bastin, “Problems of Personality in the Reinterpretation of Modern Malayan History,” in _Malayan and Indonesian Studies; Essays Presented to Sir Richard Winstedt on His Eighty-Fifth Birthday_, ed. John Sturgus Bastin and R. Roolvink (Oxford: Clarendon Press, 1964), 144. (From National Library, Singapore, call no. RCLOS 959.5 BAS)
+[^7]: John Sturgus Bastin, “Problems of Personality in the Reinterpretation of Modern Malayan History,” in [_Malayan and Indonesian Studies; Essays Presented to Sir Richard Winstedt on His Eighty-Fifth Birthday_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4085918), ed. John Sturgus Bastin and R. Roolvink (Oxford: Clarendon Press, 1964), 144. (From National Library, Singapore, call no. RCLOS 959.5 BAS)
 
 	
-[^8]: Benjamin J.Q. Khoo, “A Royal Wedding Gone Wrong: The 1820 Uprising in Riau That Brought the Bugis to Singapore,” _BiblioAsia_ 18, no. 2 (July–September 2022): 4–9.
+[^8]: Benjamin J.Q. Khoo, “[A Royal Wedding Gone Wrong: The 1820 Uprising in Riau That Brought the Bugis to Singapore](https://biblioasia.nlb.gov.sg/vol-18/issue-2/jul-sep-2022/wedding-bugis-uprising-singapore-riau/),” _BiblioAsia_ 18, no. 2 (July–September 2022): 4–9.
 
 	
 [^9]: Bastin, “Problems of Personality in the Reinterpretation of Modern Malayan History,” 141–51.
