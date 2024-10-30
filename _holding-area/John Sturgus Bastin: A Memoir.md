@@ -107,11 +107,11 @@ Bastin passed away peacefully in his home in Eastbourne on 7 August 2024, aged 9
 
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
 <br>
-• Bastin, John Sturgus. “Raffles’ Ideas on the Land Rent System in Java and the Work of the Mackenzie Land Tenure Commission.” <i>Verhandelingen van het Koninklijk Instituut voor Taal, Land- en Volkenkunde</i> 14. ‘s-Gravenhage: Martinus Nijhoff, 1954. (From JSTOR via NLB’s eResources website)
+• Bastin, John Sturgus. “Raffles’ Ideas on the Land Rent System in Java and the Work of the Mackenzie Land Tenure Commission.” <i>Verhandelingen van het Koninklijk Instituut voor Taal, Land- en Volkenkunde</i> 14. ‘s-Gravenhage: Martinus Nijhoff, 1954. (From JSTOR via NLB’s <a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19471213-1.2.42.1">eResources</a> website)
 <br><br>
-• Bastin, John Sturgus. “The Native Policy of Sir Stamford Raffles” (PhD diss., Oxford University, 1955). (From National Library, Singapore, call no. RCLOS 959.8022 BAS-[JSB])&nbsp;
+• Bastin, John Sturgus. “<a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=202838679">The Native Policy of Sir Stamford Raffles</a>” (PhD diss., Oxford University, 1955). (From National Library, Singapore, call no. RCLOS 959.8022 BAS-[JSB])&nbsp;
 <br><br>
-• Bastin, John Sturgus. <i>The Native Policies of Sir Stamford Raffles in Java and Sumatra; An Economic Interpretation</i>. Oxford: Clarendon Press, 1957. (From National Library, Singapore, call no. RCLOS 325.342 BAS-[JSB])
+• Bastin, John Sturgus. <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4085919"><i>The Native Policies of Sir Stamford Raffles in Java and Sumatra; An Economic Interpretation</i></a>. Oxford: Clarendon Press, 1957. (From National Library, Singapore, call no. RCLOS 325.342 BAS-[JSB])
 <br><br>
 • Bastin, John Sturgus, ed. <i>The Journal of Thomas Otho Travers 1813–1820</i>. Memoirs of the Raffles Museum no. 4, May 1957. Singapore: Authority; Printed by A.C. Banfield, Government Printer, 1960. (From National Library, Singapore, call no. RCLOS 920.009034 TRA-[JSB])
 <br><br>
