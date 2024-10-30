@@ -84,13 +84,13 @@ Bastin passed away peacefully in his home in Eastbourne on 7 August 2024, aged 9
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
 <br>
 Bastin, John Sturgus. “Raffles’ Ideas on the Land Rent System in Java and the Work of the Mackenzie Land Tenure Commission.” _Verhandelingen van het Koninklijk Instituut voor Taal, Land- en Volkenkunde_ 14. ‘s-Gravenhage: Martinus Nijhoff, 1954. (From JSTOR via NLB’s eResources website)
-
+<br>
 Bastin, John Sturgus. “The Native Policy of Sir Stamford Raffles” (PhD diss., Oxford University, 1955). (From National Library, Singapore, call no. RCLOS 959.8022 BAS-\[JSB\])&nbsp;
-
+<br>
 Bastin, John Sturgus. _The Native Policies of Sir Stamford Raffles in Java and Sumatra; An Economic Interpretation_. Oxford: Clarendon Press, 1957. (From National Library, Singapore, call no. RCLOS 325.342 BAS-\[JSB\])
-
+<br>
 Bastin, John Sturgus, ed. _The Journal of Thomas Otho Travers 1813–1820_. Memoirs of the Raffles Museum no. 4, May 1957. Singapore: Authority; Printed by A.C. Banfield, Government Printer, 1960. (From National Library, Singapore, call no. RCLOS 920.009034 TRA-\[JSB\])
-
+<br>
 Bastin, John Sturgus.&nbsp; _Essays on Indonesian and Malayan History_. Monographs on Southeast Asian Subjects no. 2. Singapore: Eastern Universities Press, 1961. (From National Library, Singapore, call no. RDTYS 991 BAS)
 
 Bastin, John Sturgus and R. Roolvink, eds. _Malayan and Indonesian Studies: Essays Presented to Sir Richard Winstedt on His Eighty-fifth Birthday_. Oxford: Clarendon Press, 1964. (From National Library, Singapore, call no. RCLOS 959.5 BAS)
