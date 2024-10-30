@@ -135,61 +135,61 @@ Bastin, John Sturgus. _The Letters of Sir Stamford Raffles to His Sister Mary An
 
 #### **NOTES**
 	
-[^1]: 
+[^1]:  John Sturgus Bastin, “Raffles’ Ideas on the Land Rent System in Java and the Work of the Mackenzie Land Tenure Commission,” _Verhandelingen van het Koninklijk Instituut voor Taal, Land- en Volkenkunde_ 14 (‘s-Gravenhage: Martinus Nijhoff, 1954). (From JSTOR via NLB’s eResources website)
+
+
+[^2]: John Sturgus Bastin, _The Letters of Sir Stamford Raffles to His Sister Mary Anne Flint: Together With the Letters of Lady Raffles_ (Singapore: National Museum of Singapore, 2021). (From National Library, Singapore, call no. RSING 959.5703092 BAS-\[HIS\])
 
 	
-[^2]: 
+[^3]: John Sturgus Bastin, “The Native Policy of Sir Stamford Raffles: A Thesis Submitted for the Degree of Philosophy” (PhD diss., Oxford University, 1955). (From National Library, Singapore, call no. RCLOS 959.8022 BAS-\[JSB\]); John Sturgus Bastin, _The Native Policies of Sir Stamford Raffles in Java and Sumatra: An Economic Interpretation_ (Oxford: Clarendon Press, 1957). (From National Library, Singapore, call no. RCLOS 325.342 BAS-\[JSB\])
 
 	
-[^3]: 
+[^4]: Jacob Cornelis van Leur, _Indonesian Trade and Society: Essays in Asian Social and Economic History; Selected Studies on Indonesia_ (The Hague: Published for the Royal Tropical Institute, Amsterdam, by W. van Hoeve, 1955), 261. (From National Library, Singapore, call no. RCLOS 959.8 LEU)
 
 	
-[^4]: 
+[^5]: K.G. Tregonning, “A New Approach to Malayan History,” _Straits Times_, 21 November 1958, 8; K.G. Tregonning, “Look At Our Story From the Inside, Not From Outside,” _Straits Times_, 24 November 1958, 6. (From NewspaperSG)
 
 	
-[^5]: 
+[^6]: John Sturgus Bastin, “The Western Element in Modern Southeast Asian History,” in _Essays on Indonesian and Malayan History_ (Singapore, Eastern Universities Press, 1961), 18. (From National Library, Singapore, call no. RDTYS 991 BAS)
 
 	
-[^6]: 
+[^7]: John Sturgus Bastin, “Problems of Personality in the Reinterpretation of Modern Malayan History,” in _Malayan and Indonesian Studies; Essays Presented to Sir Richard Winstedt on His Eighty-Fifth Birthday_, ed. John Sturgus Bastin and R. Roolvink (Oxford: Clarendon Press, 1964), 144. (From National Library, Singapore, call no. RCLOS 959.5 BAS)
 
 	
-[^7]: 
+[^8]: Benjamin J.Q. Khoo, “A Royal Wedding Gone Wrong: The 1820 Uprising in Riau That Brought the Bugis to Singapore,” _BiblioAsia_ 18, no. 2 (July–September 2022): 4–9.
 
 	
-[^8]: 
+[^9]: Bastin, “Problems of Personality in the Reinterpretation of Modern Malayan History,” 141–51.
 
 	
-[^9]: 
+[^10]: Thomas Stamford Raffles, _The History of Java_, vol. 1 and vol. 2 (London: John Murray, 1830). (From National Library Online)
 
 	
-[^10]: 
+[^11]: J.B. Stanley, “The Bastin Collection on Raffles,” _Biblioasia_ 12, no. 1 (April–June 2016): 60–64. &nbsp;
 
 	
-[^11]: 
+[^12]: Sophia Raffles, _Memoir of the Life and Public Services of Sir Thomas Stamford Raffles_ (Singapore: Oxford University Press, 1991). (From National Library Online); William Marsden, _The History of Sumatra_ (Singapore: Oxford University Press, 1986). (From National Library, Singapore, call no. RSING 959.81 MAR)
 
 	
-[^12]: 
+[^13]: John Sturgus Bastin, _Letters and Books of Sir Stamford Raffles and Lady Raffles: The Tang Holdings Collection of Autograph Letters and Books of Sir Stamford Raffles and Lady Raffles_ (Singapore: Editions Didier Millet 2009). (From National Library, Singapore, call no. RSING 959.5703092 BAS-\[JSB\])
 
 	
-[^13]: 
+[^14]: John Sturgus Bastin, _Raffles and Hastings: Private Exchanges Behind the Founding of Singapore_ (Singapore: National Library Board Singapore and Marshall Cavendish Editions, 2014). (From National Library, Singapore, call no. RSING 959.5703 BAS-\[JSB\])
 
 	
-[^14]: 
+[^15]: Robin George Collingwood, _The Idea of History_, rev. ed. W.J. van der Dussen (Oxford: University Press, 1993), 214, 283.&nbsp;
 
 	
-[^15]: 
+[^16]: John Sturgus Bastin, _Sir Stamford Raffles and Some of His Friends and Contemporaries: A Memoir of the Founder of Singapore_ (Singapore: World Scientific Publishing Co. Pte Ltd, 2019). (From National Library, Singapore, call no. RSING 959.5703092 BAS-\[HIS\])
 
 	
-[^16]: 
+[^17]: William Farquhar, _Natural History Drawings: The Complete William Farquhar Collection: Malay Peninsula, 1803–1818_ (Singapore: Editions Didier Millet: National Museum of Singapore, repr. 2015, 2010). (From National Library, Singapore, call no. RCLOS 508.0222 FAR-\[JSB\])
 
 	
-[^17]: 
+[^18]: John Sturgus Bastin and Julie Weizenegger, _The Family of Sir Stamford Raffles_ (Singapore: National Library Board Singapore and Marshall Cavendish Editions, 2016). (From National Library, Singapore, call no. RSING 959.57030922 BAS-\[HIS\])
 
 	
-[^18]: 
+[^19]: John Sturgus Bastin, _The Founding of Singapore 1819: Based on the Private Letters of Sir Stamford Raffles to the Governor-General and Commander-in-Chief in India, the Marguess of Hastings, Preserved in the Bute Collection at Mount Stuart, Isle of Bute, Scotland_ (Singapore: National Library Board, 2012). (From National Library, Singapore, call no. RSING 959.5703 BAS-\[JSB\])
 
 	
-[^19]: 
-
-	
-[^20]:
+[^20]: Bastin, _Sir Stamford Raffles and Some of His Friends and Contemporaries_, vi.
