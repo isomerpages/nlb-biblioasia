@@ -147,10 +147,10 @@ Bastin passed away peacefully in his home in Eastbourne on 7 August 2024, aged 9
 [^4]: Jacob Cornelis van Leur, [_Indonesian Trade and Society: Essays in Asian Social and Economic History; Selected Studies on Indonesia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4095644) (The Hague: Published for the Royal Tropical Institute, Amsterdam, by W. van Hoeve, 1955), 261. (From National Library, Singapore, call no. RCLOS 959.8 LEU)
 
 	
-[^5]: K.G. Tregonning, “A New Approach to Malayan History,” _Straits Times_, 21 November 1958, 8; K.G. Tregonning, “Look At Our Story From the Inside, Not From Outside,” _Straits Times_, 24 November 1958, 6. (From NewspaperSG)
+[^5]: K.G. Tregonning, “[A New Approach to Malayan History](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19581121-1.2.92),” _Straits Times_, 21 November 1958, 8; K.G. Tregonning, “[Look At Our Story From the Inside, Not From Outside](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19581124-1.2.85),” _Straits Times_, 24 November 1958, 6. (From NewspaperSG)
 
 	
-[^6]: John Sturgus Bastin, “The Western Element in Modern Southeast Asian History,” in _Essays on Indonesian and Malayan History_ (Singapore, Eastern Universities Press, 1961), 18. (From National Library, Singapore, call no. RDTYS 991 BAS)
+[^6]: John Sturgus Bastin, “The Western Element in Modern Southeast Asian History,” in [_Essays on Indonesian and Malayan History_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4077926) (Singapore, Eastern Universities Press, 1961), 18. (From National Library, Singapore, call no. RDTYS 991 BAS)
 
 	
 [^7]: John Sturgus Bastin, “Problems of Personality in the Reinterpretation of Modern Malayan History,” in _Malayan and Indonesian Studies; Essays Presented to Sir Richard Winstedt on His Eighty-Fifth Birthday_, ed. John Sturgus Bastin and R. Roolvink (Oxford: Clarendon Press, 1964), 144. (From National Library, Singapore, call no. RCLOS 959.5 BAS)
