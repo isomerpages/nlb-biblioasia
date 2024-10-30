@@ -113,9 +113,9 @@ Bastin passed away peacefully in his home in Eastbourne on 7 August 2024, aged 9
 <br><br>
 • Bastin, John Sturgus. <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4085919"><i>The Native Policies of Sir Stamford Raffles in Java and Sumatra; An Economic Interpretation</i></a>. Oxford: Clarendon Press, 1957. (From National Library, Singapore, call no. RCLOS 325.342 BAS-[JSB])
 <br><br>
-• Bastin, John Sturgus, ed. <i>The Journal of Thomas Otho Travers 1813–1820</i>. Memoirs of the Raffles Museum no. 4, May 1957. Singapore: Authority; Printed by A.C. Banfield, Government Printer, 1960. (From National Library, Singapore, call no. RCLOS 920.009034 TRA-[JSB])
+• Bastin, John Sturgus, ed. <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=202827446"><i>The Journal of Thomas Otho Travers 1813–1820</i></a>. Memoirs of the Raffles Museum no. 4, May 1957. Singapore: Authority; Printed by A.C. Banfield, Government Printer, 1960. (From National Library, Singapore, call no. RCLOS 920.009034 TRA-[JSB])
 <br><br>
-• Bastin, John Sturgus.&nbsp; <i>Essays on Indonesian and Malayan History</i>. Monographs on Southeast Asian Subjects no. 2. Singapore: Eastern Universities Press, 1961. (From National Library, Singapore, call no. RDTYS 991 BAS)
+• Bastin, John Sturgus.&nbsp; <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4077926"><i>Essays on Indonesian and Malayan History</i></a>. Monographs on Southeast Asian Subjects no. 2. Singapore: Eastern Universities Press, 1961. (From National Library, Singapore, call no. RDTYS 991 BAS)
 <br><br>
 • Bastin, John Sturgus and R. Roolvink, eds. <i>Malayan and Indonesian Studies: Essays Presented to Sir Richard Winstedt on His Eighty-fifth Birthday</i>. Oxford: Clarendon Press, 1964. (From National Library, Singapore, call no. RCLOS 959.5 BAS)
 <br><br>
