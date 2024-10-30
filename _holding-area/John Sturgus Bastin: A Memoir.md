@@ -129,10 +129,10 @@ Bastin, John Sturgus. _The Letters of Sir Stamford Raffles to His Sister Mary An
 
 </div>
 
-<div style="background-color: white;"><br><b>Dr Nick Aplin</b> is the Deputy Director (Sport Heritage) at Sport Singapore. He is the author of <i>Sport in Singapore: The Colonial Legacy</i> (2019) and <i>Sport in Singapore: The Rocky Road to Kallang Park</i> (2023).</div>
+<div style="background-color: white;"><br><b>Kwa Chong Guan</b> is a former member of the National Library Board and chair of its National Library Acquisition Committee. For his services to the National Library, he was awarded a Public Service Medal in the National Day Awards 2020. He was earlier a member of the National Heritage Board and chair of the National Archives Advisory Committee. He was the last director of the old National Museum which he led through a strategic planning process that expanded the museum into the Singapore History Museum (now the National Museum of Singapore), the Asian Civilisations Museum and the Singapore Art Museum.</div>
 	
 	
 
 #### **NOTES**
 	
-[^1]: 
+[^1]:
