@@ -138,10 +138,10 @@ Bastin passed away peacefully in his home in Eastbourne on 7 August 2024, aged 9
 [^1]:  John Sturgus Bastin, “Raffles’ Ideas on the Land Rent System in Java and the Work of the Mackenzie Land Tenure Commission,” _Verhandelingen van het Koninklijk Instituut voor Taal, Land- en Volkenkunde_ 14 (‘s-Gravenhage: Martinus Nijhoff, 1954). (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
 
-[^2]: John Sturgus Bastin, _The Letters of Sir Stamford Raffles to His Sister Mary Anne Flint: Together With the Letters of Lady Raffles_ (Singapore: National Museum of Singapore, 2021). (From National Library, Singapore, call no. RSING 959.5703092 BAS-\[HIS\])
+[^2]: John Sturgus Bastin, [_The Letters of Sir Stamford Raffles to His Sister Mary Anne Flint: Together With the Letters of Lady Raffles_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205491286) (Singapore: National Museum of Singapore, 2021). (From National Library, Singapore, call no. RSING 959.5703092 BAS-\[HIS\])
 
 	
-[^3]: John Sturgus Bastin, “The Native Policy of Sir Stamford Raffles: A Thesis Submitted for the Degree of Philosophy” (PhD diss., Oxford University, 1955). (From National Library, Singapore, call no. RCLOS 959.8022 BAS-\[JSB\]); John Sturgus Bastin, _The Native Policies of Sir Stamford Raffles in Java and Sumatra: An Economic Interpretation_ (Oxford: Clarendon Press, 1957). (From National Library, Singapore, call no. RCLOS 325.342 BAS-\[JSB\])
+[^3]: John Sturgus Bastin, “[The Native Policy of Sir Stamford Raffles: A Thesis Submitted for the Degree of Philosophy](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202838679)” (PhD diss., Oxford University, 1955). (From National Library, Singapore, call no. RCLOS 959.8022 BAS-\[JSB\]); John Sturgus Bastin, [_The Native Policies of Sir Stamford Raffles in Java and Sumatra: An Economic Interpretation_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4085919) (Oxford: Clarendon Press, 1957). (From National Library, Singapore, call no. RCLOS 325.342 BAS-\[JSB\])
 
 	
 [^4]: Jacob Cornelis van Leur, _Indonesian Trade and Society: Essays in Asian Social and Economic History; Selected Studies on Indonesia_ (The Hague: Published for the Royal Tropical Institute, Amsterdam, by W. van Hoeve, 1955), 261. (From National Library, Singapore, call no. RCLOS 959.8 LEU)
