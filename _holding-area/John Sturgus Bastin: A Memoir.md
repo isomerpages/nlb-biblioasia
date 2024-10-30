@@ -127,9 +127,9 @@ Bastin passed away peacefully in his home in Eastbourne on 7 August 2024, aged 9
 <br><br>
 • Bastin, John Sturgus and Harry J. Benda. <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=704148"><i>A History of Modern Southeast Asia: Colonialism, Nationalism, and Decolonization</i></a>. Singapore: Federal Publications, 1968. (From National Library, Singapore, call no. RCLOS 959 BAS-[JSB])
 <br><br>
-• Bastin, John Sturgus and Mildred Archer. <i>The Raffles Drawings in the India Office Library, London</i>. Kuala Lumpur: Oxford University Press, 1978. (From National Library, Singapore, call no. RCLOS 741.959 ARC-[JSB])
+• Bastin, John Sturgus and Mildred Archer. <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4243656"><i>The Raffles Drawings in the India Office Library, London</i></a>. Kuala Lumpur: Oxford University Press, 1978. (From National Library, Singapore, call no. RCLOS 741.959 ARC-[JSB])
 <br><br>
-• Bastin, John Sturgus and Pauline Rothagi. <i>Prints of Southeast Asia in the India Office Library: The East India Company in Malaysia and Indonesia, 1786–1824</i>. London: Her Majesty's Stationery Office, 1979. (From National Library, Singapore, call no. RDLKL 769.49959503 BAS-[JSB])
+• Bastin, John Sturgus and Pauline Rothagi. <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=2416396"><i>Prints of Southeast Asia in the India Office Library: The East India Company in Malaysia and Indonesia, 1786–1824</i></a>. London: Her Majesty's Stationery Office, 1979. (From National Library, Singapore, call no. RDLKL 769.49959503 BAS-[JSB])
 <br><br>
 • Bastin, John Sturgus and Bea Brommer. <i>Nineteenth Century Prints and Illustrated Books of Indonesia With Particular Reference to the Print Collection of the Tropenmuseum, Amsterdam</i>. Utrecht: Spectrum Publishers, 1979. (From National Library, Singapore, call no. RSEA 769.49959802 BAS-[JSB])
 <br><br>
