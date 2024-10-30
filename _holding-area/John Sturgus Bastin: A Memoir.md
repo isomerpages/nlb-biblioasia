@@ -95,21 +95,21 @@ Bastin, John Sturgus.&nbsp; <i>Essays on Indonesian and Malayan History</i>. Mon
 <br><br>
 Bastin, John Sturgus and R. Roolvink, eds. <i>Malayan and Indonesian Studies: Essays Presented to Sir Richard Winstedt on His Eighty-fifth Birthday</i>. Oxford: Clarendon Press, 1964. (From National Library, Singapore, call no. RCLOS 959.5 BAS)
 <br><br>
-Bastin, John Sturgus. _The British in West Sumatra (1685–1825): A Selection of Documents, Mainly from the EIC Records Preserved in the India Office Library, Commonwealth Relations Office_. Kuala Lumpur: University of Malaya Press, 1965. (From National Library, Singapore, call no. RCLOS 325.921 BAS-\[JSB\])
+Bastin, John Sturgus. <i>The British in West Sumatra (1685–1825): A Selection of Documents, Mainly from the EIC Records Preserved in the India Office Library, Commonwealth Relations Office</i>. Kuala Lumpur: University of Malaya Press, 1965. (From National Library, Singapore, call no. RCLOS 325.921 BAS-\[JSB\])
 <br><br>
-Bastin, John Sturgus and Robin W. Winks, comps. _Malaysia: Selected Historical Readings_. Kuala Lumpur: Oxford University Press, 1966. (From National Library, Singapore, call no. RSING 959.5 BAS-\[JSB\])
+Bastin, John Sturgus and Robin W. Winks, comps. <i>Malaysia: Selected Historical Readings</i>. Kuala Lumpur: Oxford University Press, 1966. (From National Library, Singapore, call no. RSING 959.5 BAS-\[JSB\])
 <br><br>
-Bastin, John Sturgus, ed. _The Emergence of Modern Southeast Asia, 1511–1957_. Englewood Cliffs, N.J., Prentice-Hall, 1967. (From National Library, Singapore, call no. RCLOS 959 BAS-\[JSB\])
+Bastin, John Sturgus, ed. <i>The Emergence of Modern Southeast Asia, 1511–1957</i>. Englewood Cliffs, N.J., Prentice-Hall, 1967. (From National Library, Singapore, call no. RCLOS 959 BAS-\[JSB\])
 <br><br>
-Bastin, John Sturgus and Harry J. Benda. _A History of Modern Southeast Asia: Colonialism, Nationalism, and Decolonization_. Singapore: Federal Publications, 1968. (From National Library, Singapore, call no. RCLOS 959 BAS-\[JSB\])
+Bastin, John Sturgus and Harry J. Benda. <i>A History of Modern Southeast Asia: Colonialism, Nationalism, and Decolonization</i>. Singapore: Federal Publications, 1968. (From National Library, Singapore, call no. RCLOS 959 BAS-\[JSB\])
 <br><br>
-Bastin, John Sturgus and Mildred Archer. _The Raffles Drawings in the India Office Library, London_. Kuala Lumpur: Oxford University Press, 1978. (From National Library, Singapore, call no. RCLOS 741.959 ARC-\[JSB\])
+Bastin, John Sturgus and Mildred Archer. <i>The Raffles Drawings in the India Office Library, London</i>. Kuala Lumpur: Oxford University Press, 1978. (From National Library, Singapore, call no. RCLOS 741.959 ARC-\[JSB\])
 <br><br>
-Bastin, John Sturgus and Pauline Rothagi. _Prints of Southeast Asia in the India Office Library: The East India Company in Malaysia and Indonesia, 1786–1824_. London: Her Majesty's Stationery Office, 1979. (From National Library, Singapore, call no. RDLKL 769.49959503 BAS-\[JSB\])
+Bastin, John Sturgus and Pauline Rothagi. <i>Prints of Southeast Asia in the India Office Library: The East India Company in Malaysia and Indonesia, 1786–1824</i>. London: Her Majesty's Stationery Office, 1979. (From National Library, Singapore, call no. RDLKL 769.49959503 BAS-\[JSB\])
 <br><br>
-Bastin, John Sturgus and Bea Brommer. _Nineteenth Century Prints and Illustrated Books of Indonesia With Particular Reference to the Print Collection of the Tropenmuseum, Amsterdam_. Utrecht: Spectrum Publishers, 1979. (From National Library, Singapore, call no. RSEA 769.49959802 BAS-\[JSB\])
+Bastin, John Sturgus and Bea Brommer. <i>Nineteenth Century Prints and Illustrated Books of Indonesia With Particular Reference to the Print Collection of the Tropenmuseum, Amsterdam</i>. Utrecht: Spectrum Publishers, 1979. (From National Library, Singapore, call no. RSEA 769.49959802 BAS-\[JSB\])
 <br><br>
-Bastin, John Sturgus, comp. _Travellers’ Singapore: An Anthology_. Kuala Lumpur: Oxford University Press, 1994. (From National Library, Singapore, call no. RSING 959.5705 TRA-\[JSB\])
+Bastin, John Sturgus, comp. <i>Travellers’ Singapore: An Anthology</i>. Kuala Lumpur: Oxford University Press, 1994. (From National Library, Singapore, call no. RSING 959.5705 TRA-\[JSB\])
 <br><br>
 Bastin, John Sturgus. _Olivia Mariamne Raffles_. Singapore: Landmark Books, 2002. (From National Library, Singapore, call no. RSING 959.5703092 BAS-\[HIS\]) &nbsp;
 <br><br>
