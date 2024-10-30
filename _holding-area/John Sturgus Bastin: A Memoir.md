@@ -107,7 +107,7 @@ Bastin passed away peacefully in his home in Eastbourne on 7 August 2024, aged 9
 
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
 <br>
-• Bastin, John Sturgus. “Raffles’ Ideas on the Land Rent System in Java and the Work of the Mackenzie Land Tenure Commission.” <i>Verhandelingen van het Koninklijk Instituut voor Taal, Land- en Volkenkunde</i> 14. ‘s-Gravenhage: Martinus Nijhoff, 1954. (From JSTOR via NLB’s <a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19471213-1.2.42.1">eResources</a> website)
+• Bastin, John Sturgus. “Raffles’ Ideas on the Land Rent System in Java and the Work of the Mackenzie Land Tenure Commission.” <i>Verhandelingen van het Koninklijk Instituut voor Taal, Land- en Volkenkunde</i> 14. ‘s-Gravenhage: Martinus Nijhoff, 1954. (From JSTOR via NLB’s <a href="http://eresources.nlb.gov.sg/">eResources</a> website)
 <br><br>
 • Bastin, John Sturgus. “<a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=202838679">The Native Policy of Sir Stamford Raffles</a>” (PhD diss., Oxford University, 1955). (From National Library, Singapore, call no. RCLOS 959.8022 BAS-[JSB])&nbsp;
 <br><br>
@@ -145,7 +145,7 @@ Bastin passed away peacefully in his home in Eastbourne on 7 August 2024, aged 9
 <br><br>
 • Bastin, John Sturgus. <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=200867141"><i>Raffles and Hastings: Private Exchanges Behind the Founding of Singapore.</i></a> Singapore: National Library Board Singapore and Marshall Cavendish Editions, 2014. (From National Library, Singapore, call no. RSING 959.5703 BAS-[JSB])
 <br><br>
-• Bastin, John Sturgus and Julie Weizenegger. <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=201924754"><i>The Family of Sir Stamford Raffles</i></a> . Singapore: National Library Board Singapore and Marshall Cavendish Editions, 2016. (From National Library, Singapore, call no. RSING 959.57030922 BAS-[HIS])
+• Bastin, John Sturgus and Julie Weizenegger. <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=201924754"><i>The Family of Sir Stamford Raffles</i></a>. Singapore: National Library Board Singapore and Marshall Cavendish Editions, 2016. (From National Library, Singapore, call no. RSING 959.57030922 BAS-[HIS])
 <br><br>
 • Bastin, John Sturgus. <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=203823402"><i>Sir Stamford Raffles and Some of His Friends and Contemporaries: A Memoir of the Founder of Singapore</i></a>. Singapore: World Scientific Publishing Co. Pte Ltd, 2019. (From National Library, Singapore, call no. RSING 959.5703092 BAS-[HIS])
 <br><br>
