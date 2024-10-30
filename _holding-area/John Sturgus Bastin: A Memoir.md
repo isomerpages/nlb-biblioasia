@@ -165,31 +165,31 @@ Bastin passed away peacefully in his home in Eastbourne on 7 August 2024, aged 9
 [^10]: Thomas Stamford Raffles, _The History of Java_, [vol. 1](https://www.nlb.gov.sg/main/Book-Detail-Page?cmsUuID=6d15e65a-d692-4496-b15f-58bb9db11a11) and [vol. 2](https://www.nlb.gov.sg/main/Book-Detail-Page?cmsUuID=160111b1-4e0f-4a49-806e-1b565679415f) (London: John Murray, 1830). (From National Library Online)
 
 	
-[^11]: J.B. Stanley, “The Bastin Collection on Raffles,” _Biblioasia_ 12, no. 1 (April–June 2016): 60–64. &nbsp;
+[^11]: J.B. Stanley, “[The Bastin Collection on Raffles](https://biblioasia.nlb.gov.sg/vol-12/issue-1/apr-jun-2016/collection-on-raffles/),” _Biblioasia_ 12, no. 1 (April–June 2016): 60–64. &nbsp;
 
 	
-[^12]: Sophia Raffles, _Memoir of the Life and Public Services of Sir Thomas Stamford Raffles_ (Singapore: Oxford University Press, 1991). (From National Library Online); William Marsden, _The History of Sumatra_ (Singapore: Oxford University Press, 1986). (From National Library, Singapore, call no. RSING 959.81 MAR)
+[^12]: Sophia Raffles, [_Memoir of the Life and Public Services of Sir Thomas Stamford Raffles_](https://www.nlb.gov.sg/main/Book-Detail-Page?cmsUuID=37eb213f-43cb-48b5-9f2f-101a3cda6e17) (Singapore: Oxford University Press, 1991). (From National Library Online); William Marsden, [_The History of Sumatra_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4452190) (Singapore: Oxford University Press, 1986). (From National Library, Singapore, call no. RSING 959.81 MAR)
 
 	
-[^13]: John Sturgus Bastin, _Letters and Books of Sir Stamford Raffles and Lady Raffles: The Tang Holdings Collection of Autograph Letters and Books of Sir Stamford Raffles and Lady Raffles_ (Singapore: Editions Didier Millet 2009). (From National Library, Singapore, call no. RSING 959.5703092 BAS-\[JSB\])
+[^13]: John Sturgus Bastin, [_Letters and Books of Sir Stamford Raffles and Lady Raffles: The Tang Holdings Collection of Autograph Letters and Books of Sir Stamford Raffles and Lady Raffles_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13142840) (Singapore: Editions Didier Millet 2009). (From National Library, Singapore, call no. RSING 959.5703092 BAS-\[JSB\])
 
 	
-[^14]: John Sturgus Bastin, _Raffles and Hastings: Private Exchanges Behind the Founding of Singapore_ (Singapore: National Library Board Singapore and Marshall Cavendish Editions, 2014). (From National Library, Singapore, call no. RSING 959.5703 BAS-\[JSB\])
+[^14]: John Sturgus Bastin, [_Raffles and Hastings: Private Exchanges Behind the Founding of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200867141) (Singapore: National Library Board Singapore and Marshall Cavendish Editions, 2014). (From National Library, Singapore, call no. RSING 959.5703 BAS-\[JSB\])
 
 	
 [^15]: Robin George Collingwood, _The Idea of History_, rev. ed. W.J. van der Dussen (Oxford: University Press, 1993), 214, 283.&nbsp;
 
 	
-[^16]: John Sturgus Bastin, _Sir Stamford Raffles and Some of His Friends and Contemporaries: A Memoir of the Founder of Singapore_ (Singapore: World Scientific Publishing Co. Pte Ltd, 2019). (From National Library, Singapore, call no. RSING 959.5703092 BAS-\[HIS\])
+[^16]: John Sturgus Bastin, [_Sir Stamford Raffles and Some of His Friends and Contemporaries: A Memoir of the Founder of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203823402) (Singapore: World Scientific Publishing Co. Pte Ltd, 2019). (From National Library, Singapore, call no. RSING 959.5703092 BAS-\[HIS\])
 
 	
-[^17]: William Farquhar, _Natural History Drawings: The Complete William Farquhar Collection: Malay Peninsula, 1803–1818_ (Singapore: Editions Didier Millet: National Museum of Singapore, repr. 2015, 2010). (From National Library, Singapore, call no. RCLOS 508.0222 FAR-\[JSB\])
+[^17]: William Farquhar, [_Natural History Drawings: The Complete William Farquhar Collection: Malay Peninsula, 1803–1818_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202850438) (Singapore: Editions Didier Millet: National Museum of Singapore, repr. 2015, 2010). (From National Library, Singapore, call no. RCLOS 508.0222 FAR-\[JSB\])
 
 	
-[^18]: John Sturgus Bastin and Julie Weizenegger, _The Family of Sir Stamford Raffles_ (Singapore: National Library Board Singapore and Marshall Cavendish Editions, 2016). (From National Library, Singapore, call no. RSING 959.57030922 BAS-\[HIS\])
+[^18]: John Sturgus Bastin and Julie Weizenegger, [_The Family of Sir Stamford Raffles_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201924754) (Singapore: National Library Board Singapore and Marshall Cavendish Editions, 2016). (From National Library, Singapore, call no. RSING 959.57030922 BAS-\[HIS\])
 
 	
-[^19]: John Sturgus Bastin, _The Founding of Singapore 1819: Based on the Private Letters of Sir Stamford Raffles to the Governor-General and Commander-in-Chief in India, the Marguess of Hastings, Preserved in the Bute Collection at Mount Stuart, Isle of Bute, Scotland_ (Singapore: National Library Board, 2012). (From National Library, Singapore, call no. RSING 959.5703 BAS-\[JSB\])
+[^19]: John Sturgus Bastin, [_The Founding of Singapore 1819: Based on the Private Letters of Sir Stamford Raffles to the Governor-General and Commander-in-Chief in India, the Marguess of Hastings, Preserved in the Bute Collection at Mount Stuart, Isle of Bute, Scotland_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14404109) (Singapore: National Library Board, 2012). (From National Library, Singapore, call no. RSING 959.5703 BAS-\[JSB\])
 
 	
-[^20]: Bastin, _Sir Stamford Raffles and Some of His Friends and Contemporaries_, vi.
+[^20]: Bastin, [_Sir Stamford Raffles and Some of His Friends and Contemporaries_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203823402), vi.
