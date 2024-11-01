@@ -135,13 +135,13 @@ The first Chingay Parade with the float procession as we know it was staged on 4
 [^12]: “[Pinang](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18630129-1.2.6),” _Singapore Free Press and Mercantile Advertiser_, 29 January 1863, 3. (From NewspaperSG)
 
 
-[^13]: “Penang News,” _Straits Times Weekly Issue_, 20 September 1883, 1; “News of the Week,” _Straits Times Weekly Issue_, 20 September 1883, 2. (From NewspaperSG)
+[^13]: “[Penang News](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18830920-1.2.7.7),” _Straits Times Weekly Issue_, 20 September 1883, 1; “[News of the Week](),” _Straits Times Weekly Issue_, 20 September 1883, 2. (From NewspaperSG)
 
 
-[^14]: “Local and General,” _Pinang Gazette and Straits Chronicle_, 4 February 1890, 4. (From NewspaperSG)
+[^14]: “[Local and General](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette18900204-1.2.16),” _Pinang Gazette and Straits Chronicle_, 4 February 1890, 4. (From NewspaperSG)
 
 
-[^15]: “Local and General,” _Pinang Gazette and Straits Chronicle_, 17 March 1897, 2. (From NewspaperSG)
+[^15]: “[Local and General](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette18970317-1.2.10),” _Pinang Gazette and Straits Chronicle_, 17 March 1897, 2. (From NewspaperSG)
 
 
 [^16]: “Second Moon Festivals,” _Straits Echo_, 30 March 1904, 5. (From NewspaperSG)
