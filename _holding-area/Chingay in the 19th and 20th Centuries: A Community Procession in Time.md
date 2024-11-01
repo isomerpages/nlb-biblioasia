@@ -99,25 +99,25 @@ The first Chingay Parade with the float procession as we know it was staged on 4
 
 #### **Notes**
 
-[^1]: Carstairs Douglas, _Chinese-English Dictionary of the Vernacular or Spoken Language of Amoy, with the Principal Variations of the Chang-Chew and Chin-Chew Dialects_, (London: Trubner, 1873), 104–105, 579. (From National Library, Singapore, call no. RCLOS 495.17321 DOU-\[LYF\])
+[^1]: Carstairs Douglas, [_Chinese-English Dictionary of the Vernacular or Spoken Language of Amoy, with the Principal Variations of the Chang-Chew and Chin-Chew Dialects_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4346061), (London: Trubner, 1873), 104–105, 579. (From National Library, Singapore, call no. RCLOS 495.17321 DOU-\[LYF\])
 
 
-[^2]: Lu Xun, 朝花夕拾\= _Dawn Blossoms Plucked at Dusk_, trans. Yang Xianyi and Gladys Yang (Beijing: Foreign Languages Press, 2000), 79. (From National Library, Singapore, call no. C814.3 LX) (eBook editions are available on NLB OverDrive)
+[^2]: Lu Xun, [朝花夕拾\= _Dawn Blossoms Plucked at Dusk](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202698087)_, trans. Yang Xianyi and Gladys Yang (Beijing: Foreign Languages Press, 2000), 79. (From National Library, Singapore, call no. C814.3 LX) (eBook editions are available on NLB OverDrive)
 
 
-[^3]: John Livingston Nevius, _China and the Chinese: A General Description of the Country and Its Inhabitants_ (New York: Harper &amp; Brothers, 1869), 267, Internet Archive, https://archive.org/details/chinaandchinese00nevigoog.
+[^3]: John Livingston Nevius, _China and the Chinese: A General Description of the Country and Its Inhabitants_ (New York: Harper &amp; Brothers, 1869), 267, Internet Archive, [https://archive.org/details/chinaandchinese00nevigoog](https://archive.org/details/chinaandchinese00nevigoog).
 
 
-[^4]: “Chinese Processions,” _Singapore Free Press and Daily Advertiser_, 23 April 1840, 3. (From NewspaperSG)
+[^4]: “[Chinese Processions](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18400423-1.2.11),” _Singapore Free Press and Daily Advertiser_, 23 April 1840, 3. (From NewspaperSG)
 
 
-[^5]: _Guardian of the South Seas: Thian Hock Keng and the Hokkien Huay Kuan_ (Singapore: Singapore Hokkien Huay Kuan, 2006), 42. (From National Library, Singapore, call no. RSING 369.25957 GUA)
+[^5]: [_Guardian of the South Seas: Thian Hock Keng and the Hokkien Huay Kuan_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12806839) (Singapore: Singapore Hokkien Huay Kuan, 2006), 42. (From National Library, Singapore, call no. RSING 369.25957 GUA)
 
 
-[^6]: Lim How Seng, “Social Structure and Bang Interactions,” in _A General History of the Chinese in Singapore_, ed. Kwa Chong Guan and Kua Bak Lim, (Singapore: Singapore Federation of Chinese Clan Associations &amp; World Scientific, 2019), 122. (From National Library, Singapore, call no. RSING 305.895105957 GEN)
+[^6]: Lim How Seng, “Social Structure and Bang Interactions,” in [_A General History of the Chinese in Singapore_](), ed. Kwa Chong Guan and Kua Bak Lim, (Singapore: Singapore Federation of Chinese Clan Associations &amp; World Scientific, 2019), 122. (From National Library, Singapore, call no. RSING 305.895105957 GEN)
 
 
-[^7]: “A Huge Chinese Procession,” _Mid-Day Herald and Daily Advertiser_, 22 November 1897, 3. (From NewspaperSG)
+[^7]: “[A Huge Chinese Procession](https://eresources.nlb.gov.sg/newspapers/digitised/article/middayherald18971122-1.2.22),” _Mid-Day Herald and Daily Advertiser_, 22 November 1897, 3. (From NewspaperSG)
 
 
 [^8]: “The Great Annual Religious Procession,” _Straits Times Weekly Issue_, 19 December 1887, 3. (From NewspaperSG)
