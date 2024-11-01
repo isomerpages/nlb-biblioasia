@@ -144,30 +144,30 @@ The first Chingay Parade with the float procession as we know it was staged on 4
 [^15]: “[Local and General](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette18970317-1.2.10),” _Pinang Gazette and Straits Chronicle_, 17 March 1897, 2. (From NewspaperSG)
 
 
-[^16]: “Second Moon Festivals,” _Straits Echo_, 30 March 1904, 5. (From NewspaperSG)
+[^16]: “[Second Moon Festivals](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsecho19040330-1.2.25),” _Straits Echo_, 30 March 1904, 5. (From NewspaperSG)
 
 
-[^17]: “Further Festivities,” _Straits Budget_, 29 June 1911, 6. (From NewspaperSG)
+[^17]: “[Further Festivities](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19110629-1.2.6),” _Straits Budget_, 29 June 1911, 6. (From NewspaperSG)
 
 
-[^18]: “Coronation Chingay Procession,” _Straits Echo Mail Edition_, 19 May 1911, 408. (From NewspaperSG)
+[^18]: “[Coronation Chingay Procession](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsechomail19110519-1.2.40),” _Straits Echo Mail Edition_, 19 May 1911, 408. (From NewspaperSG)
 
 
-[^19]: “Penang in 1899,” _Pinang Gazette and Straits Chronicle_, 26 May 1900, 2; “Grand Chingay Procession in Penang,” _Pinang Gazette and Straits Chronicle_, 5 June 1900, 3. (From NewspaperSG)
+[^19]: “[Penang in 1899](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19000526-1.2.5),” _Pinang Gazette and Straits Chronicle_, 26 May 1900, 2; “[Grand Chingay Procession in Penang](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19000605-1.2.21),” _Pinang Gazette and Straits Chronicle_, 5 June 1900, 3. (From NewspaperSG)
 
 
-[^20]: “Chingay Procession in Penang,” _Pinang Gazette and Straits Chronicle_, 24 August 1928, 12. (From NewspaperSG)
+[^20]: “[Chingay Procession in Penang](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19280824-1.2.65),” _Pinang Gazette and Straits Chronicle_, 24 August 1928, 12. (From NewspaperSG)
 
 
-[^21]: Jean DeBernardi, _Penang: Rites of Belonging in a Malaysian Chinese Community_ (Singapore: NUS Press, 2009),151–54. (From National Library, Singapore, call no. RSEA 305.895105951 DEB)
+[^21]: Jean DeBernardi, [_Penang: Rites of Belonging in a Malaysian Chinese Community_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13050569) (Singapore: NUS Press, 2009),151–54. (From National Library, Singapore, call no. RSEA 305.895105951 DEB)
 
 
-[^22]: Tan Kim Hong, _The Chinese in Penang: A Pictorial History_ (Penang: Areca Books, 2007), 206. (From National Library, Singapore, call no. RSEA 959.51004951 TAN)
+[^22]: Tan Kim Hong, [_The Chinese in Penang: A Pictorial History_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12973731) (Penang: Areca Books, 2007), 206. (From National Library, Singapore, call no. RSEA 959.51004951 TAN)
 
-[^23]: “Town Decorations,” _Straits Echo Mail Edition_, 3 July 1911, 537; “Chingay Festival: Recognition of Merit,” _Straits Echo Mail Edition_, 19 November 1919, 1883. (From NewspaperSG)
+[^23]: “[Town Decorations](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsechomail19110703-1.2.17),” _Straits Echo Mail Edition_, 3 July 1911, 537; “[Chingay Festival: Recognition of Merit](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsechomail19191119-1.2.109),” _Straits Echo Mail Edition_, 19 November 1919, 1883. (From NewspaperSG)
 
 
-[^24]: “The Chingay: An Impression,” _Straits Echo Mail Edition_, 26 February 1924, 148. (From NewspaperSG)
+[^24]: “[The Chingay: An Impression](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsechomail19240226-1.2.7),” _Straits Echo Mail Edition_, 26 February 1924, 148. (From NewspaperSG)
 
 
 [^25]: Yeoh Oon Chuan, “1928 Procession Pictures”, in 槟榔屿广福宫庆祝建庙188周年暨观音菩萨出游纪念特刊 \[Commemorative publication of the 188th anniversary celebration and chingay procession in honour of boddhisatva Guanyin, Kong Hock Keong, Penang\]. (Penang: Kong Hock Keong Publishing Department, 1989), 431–63. (From National Library, Singapore, call no. RSEA 294.3435095951 COM)
