@@ -125,26 +125,6 @@ _Guardian of the South Seas_, 66.&nbsp;
 
 “Pinang,” _Singapore Free Press and Mercantile Advertiser_, 29 January 1863, 3. (From NewspaperSG)
 
-“Penang News,” _Straits Times Weekly Issue_, 20 September 1883, 1; “News of the Week,” _Straits Times Weekly Issue_, 20 September 1883, 2. (From NewspaperSG)
-
-“Local and General,” _Pinang Gazette and Straits Chronicle_, 4 February 1890, 4. (From NewspaperSG)
-
-“Local and General,” _Pinang Gazette and Straits Chronicle_, 17 March 1897, 2. (From NewspaperSG)
-
-“Second Moon Festivals,” _Straits Echo_, 30 March 1904, 5. (From NewspaperSG)
-
-“Further Festivities,” _Straits Budget_, 29 June 1911, 6. (From NewspaperSG)
-
-“Coronation Chingay Procession,” _Straits Echo Mail Edition_, 19 May 1911, 408. (From NewspaperSG)
-
-“Penang in 1899,” _Pinang Gazette and Straits Chronicle_, 26 May 1900, 2; “Grand Chingay Procession in Penang,” _Pinang Gazette and Straits Chronicle_, 5 June 1900, 3. (From NewspaperSG)
-
-“Chingay Procession in Penang,” _Pinang Gazette and Straits Chronicle_, 24 August 1928, 12. (From NewspaperSG)
-
-Jean DeBernardi, _Penang: Rites of Belonging in a Malaysian Chinese Community_ (Singapore: NUS Press, 2009),151–54. (From National Library, Singapore, call no. RSEA 305.895105951 DEB)
-
-
-
 
 [^2]: 
 
@@ -179,31 +159,31 @@ Jean DeBernardi, _Penang: Rites of Belonging in a Malaysian Chinese Community_ (
 [^12]: 
 
 
-[^13]: 
+[^13]: “Penang News,” _Straits Times Weekly Issue_, 20 September 1883, 1; “News of the Week,” _Straits Times Weekly Issue_, 20 September 1883, 2. (From NewspaperSG)
 
 
-[^14]: 
+[^14]: “Local and General,” _Pinang Gazette and Straits Chronicle_, 4 February 1890, 4. (From NewspaperSG)
 
 
-[^15]: 
+[^15]: “Local and General,” _Pinang Gazette and Straits Chronicle_, 17 March 1897, 2. (From NewspaperSG)
 
 
-[^16]: 
+[^16]: “Second Moon Festivals,” _Straits Echo_, 30 March 1904, 5. (From NewspaperSG)
 
 
-[^17]: 
+[^17]: “Further Festivities,” _Straits Budget_, 29 June 1911, 6. (From NewspaperSG)
 
 
-[^18]: 
+[^18]: “Coronation Chingay Procession,” _Straits Echo Mail Edition_, 19 May 1911, 408. (From NewspaperSG)
 
 
-[^19]: 
+[^19]: “Penang in 1899,” _Pinang Gazette and Straits Chronicle_, 26 May 1900, 2; “Grand Chingay Procession in Penang,” _Pinang Gazette and Straits Chronicle_, 5 June 1900, 3. (From NewspaperSG)
 
 
-[^20]: 
+[^20]: “Chingay Procession in Penang,” _Pinang Gazette and Straits Chronicle_, 24 August 1928, 12. (From NewspaperSG)
 
 
-[^21]: 
+[^21]: Jean DeBernardi, _Penang: Rites of Belonging in a Malaysian Chinese Community_ (Singapore: NUS Press, 2009),151–54. (From National Library, Singapore, call no. RSEA 305.895105951 DEB)
 
 
 [^22]: Tan Kim Hong, _The Chinese in Penang: A Pictorial History_ (Penang: Areca Books, 2007), 206. (From National Library, Singapore, call no. RSEA 959.51004951 TAN)
