@@ -120,19 +120,19 @@ The first Chingay Parade with the float procession as we know it was staged on 4
 [^7]: “[A Huge Chinese Procession](https://eresources.nlb.gov.sg/newspapers/digitised/article/middayherald18971122-1.2.22),” _Mid-Day Herald and Daily Advertiser_, 22 November 1897, 3. (From NewspaperSG)
 
 
-[^8]: “The Great Annual Religious Procession,” _Straits Times Weekly Issue_, 19 December 1887, 3. (From NewspaperSG)
+[^8]: “[The Great Annual Religious Procession](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18871219-1.2.11),” _Straits Times Weekly Issue_, 19 December 1887, 3. (From NewspaperSG)
 
 
-[^9]: “Singapore’s First Autocar,” _Singapore Free Press and Mercantile Advertiser_, 13 August 1896, 2. (From NewspaperSG)
+[^9]: “[Singapore’s First Autocar](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18960813-1.2.6),” _Singapore Free Press and Mercantile Advertiser_, 13 August 1896, 2. (From NewspaperSG)
 
 
-[^10]: “Chinese Reform,” _Pinang Gazette and Straits Chronicle_, 18 December 1906, 5. (From NewspaperSG)
+[^10]: “[Chinese Reform](),” _Pinang Gazette and Straits Chronicle_, 18 December 1906, 5. (From NewspaperSG)
 
 
-[^11]: _Guardian of the South Seas_, 66.&nbsp;
+[^11]: [_Guardian of the South Seas_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12806839), 66.&nbsp;
 
 
-[^12]: “Pinang,” _Singapore Free Press and Mercantile Advertiser_, 29 January 1863, 3. (From NewspaperSG)
+[^12]: “[Pinang](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18630129-1.2.6),” _Singapore Free Press and Mercantile Advertiser_, 29 January 1863, 3. (From NewspaperSG)
 
 
 [^13]: “Penang News,” _Straits Times Weekly Issue_, 20 September 1883, 1; “News of the Week,” _Straits Times Weekly Issue_, 20 September 1883, 2. (From NewspaperSG)
