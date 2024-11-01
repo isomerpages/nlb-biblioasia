@@ -170,22 +170,22 @@ The first Chingay Parade with the float procession as we know it was staged on 4
 [^24]: “[The Chingay: An Impression](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsechomail19240226-1.2.7),” _Straits Echo Mail Edition_, 26 February 1924, 148. (From NewspaperSG)
 
 
-[^25]: Yeoh Oon Chuan, “1928 Procession Pictures”, in 槟榔屿广福宫庆祝建庙188周年暨观音菩萨出游纪念特刊 \[Commemorative publication of the 188th anniversary celebration and chingay procession in honour of boddhisatva Guanyin, Kong Hock Keong, Penang\]. (Penang: Kong Hock Keong Publishing Department, 1989), 431–63. (From National Library, Singapore, call no. RSEA 294.3435095951 COM)
+[^25]: Yeoh Oon Chuan, “1928 Procession Pictures”, in [槟榔屿广福宫庆祝建庙188周年暨观音菩萨出游纪念特刊](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12529365) \[Commemorative publication of the 188th anniversary celebration and chingay procession in honour of boddhisatva Guanyin, Kong Hock Keong, Penang\]. (Penang: Kong Hock Keong Publishing Department, 1989), 431–63. (From National Library, Singapore, call no. RSEA 294.3435095951 COM)
 
 
-[^26]: “Chingay Procession: Imposing Spectacle,” _Pinang Gazette and Daily Chronicle_, 19 February 1924, 7. (From NewspaperSG)
+[^26]: “[Chingay Procession: Imposing Spectacle](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19240219-1.2.46),” _Pinang Gazette and Daily Chronicle_, 19 February 1924, 7. (From NewspaperSG)
 
 
-[^27]: “M.A.P.,” _The Straits Echo Weekly Edition_, 19 February 1927, 155. (From NewspaperSG)
+[^27]: “[M.A.P.](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsechomail19270219-1.2.35),” _The Straits Echo Weekly Edition_, 19 February 1927, 155. (From NewspaperSG)
 
 
-[^28]: “A Dreary Prospect,” _Singapore Free Press_, 19 February 1927, 10. (From NewspaperSG)
+[^28]: “[A Dreary Prospect](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19270219-1.2.39),” _Singapore Free Press_, 19 February 1927, 10. (From NewspaperSG)
 
 
-[^29]: “Total Ban on Crackers,” _Straits Times_, 2 March 1972, 1. (From NewspaperSG)
+[^29]: “[Total Ban on Crackers](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19720302-1.2.2),” _Straits Times_, 2 March 1972, 1. (From NewspaperSG)
 
 
-[^30]: People’s Association, _The People’s Parade: 45 Years of Chingay_ (Singapore: People’s Association, 2017), 11. (From National Library, Singapore, call no. RSING 394.5095957 PEO)
+[^30]: People’s Association, [_The People’s Parade: 45 Years of Chingay_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202804212) (Singapore: People’s Association, 2017), 11. (From National Library, Singapore, call no. RSING 394.5095957 PEO)
 
 
-[^31]: “Chingay Parade a Success, So an Encore Is Planned Next Chinese New Year,” _Straits Times_, 5 April 1973, 13. (From NewspaperSG)
+[^31]: “[Chingay Parade a Success, So an Encore Is Planned Next Chinese New Year](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730405-1.2.88),” _Straits Times_, 5 April 1973, 13. (From NewspaperSG)
