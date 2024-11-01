@@ -143,13 +143,6 @@ _Guardian of the South Seas_, 66.&nbsp;
 
 Jean DeBernardi, _Penang: Rites of Belonging in a Malaysian Chinese Community_ (Singapore: NUS Press, 2009),151–54. (From National Library, Singapore, call no. RSEA 305.895105951 DEB)
 
-Tan Kim Hong, _The Chinese in Penang: A Pictorial History_ (Penang: Areca Books, 2007), 206. (From National Library, Singapore, call no. RSEA 959.51004951 TAN)
-
-“Town Decorations,” _Straits Echo Mail Edition_, 3 July 1911, 537; “Chingay Festival: Recognition of Merit,” _Straits Echo Mail Edition_, 19 November 1919, 1883. (From NewspaperSG)
-
-“The Chingay: An Impression,” _Straits Echo Mail Edition_, 26 February 1924, 148. (From NewspaperSG)
-
-Yeoh Oon Chuan, “1928 Procession Pictures”, in 槟榔屿广福宫庆祝建庙188周年暨观音菩萨出游纪念特刊 \[Commemorative publication of the 188th anniversary celebration and chingay procession in honour of boddhisatva Guanyin, Kong Hock Keong, Penang\]. (Penang: Kong Hock Keong Publishing Department, 1989), 431–63. (From National Library, Singapore, call no. RSEA 294.3435095951 COM)
 
 
 
@@ -213,16 +206,15 @@ Yeoh Oon Chuan, “1928 Procession Pictures”, in 槟榔屿广福宫庆祝建�
 [^21]: 
 
 
-[^22]: 
+[^22]: Tan Kim Hong, _The Chinese in Penang: A Pictorial History_ (Penang: Areca Books, 2007), 206. (From National Library, Singapore, call no. RSEA 959.51004951 TAN)
+
+[^23]: “Town Decorations,” _Straits Echo Mail Edition_, 3 July 1911, 537; “Chingay Festival: Recognition of Merit,” _Straits Echo Mail Edition_, 19 November 1919, 1883. (From NewspaperSG)
 
 
-[^23]: 
+[^24]: “The Chingay: An Impression,” _Straits Echo Mail Edition_, 26 February 1924, 148. (From NewspaperSG)
 
 
-[^24]: 
-
-
-[^25]: 
+[^25]: Yeoh Oon Chuan, “1928 Procession Pictures”, in 槟榔屿广福宫庆祝建庙188周年暨观音菩萨出游纪念特刊 \[Commemorative publication of the 188th anniversary celebration and chingay procession in honour of boddhisatva Guanyin, Kong Hock Keong, Penang\]. (Penang: Kong Hock Keong Publishing Department, 1989), 431–63. (From National Library, Singapore, call no. RSEA 294.3435095951 COM)
 
 
 [^26]: “Chingay Procession: Imposing Spectacle,” _Pinang Gazette and Daily Chronicle_, 19 February 1924, 7. (From NewspaperSG)
