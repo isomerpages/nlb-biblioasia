@@ -38,13 +38,13 @@ Several municipalities across China have listed _tai ge_ as part of their local 
 
 The earliest _tai ge_ procession in Singapore is possibly the one held in 1840 to welcome the statue of Mazu (Goddess of the Sea) to the Thian Hock Keng temple. The _Singapore Free Press and Daily Advertiser_ reported on 23 April 1840:
 
-But what particularly engaged the attention of spectators, and was the chief feature of the procession, was the little girls from 5 to 8 years age, carried aloft in groups on gayly ornamented platforms, and dressed in every variety of Tartar and Chinese costume. The little creatures were supported in their place by iron rods, or some such contrivance, which were concealed under their clothes, and their infant charms were shewn off to the greatest advantage by the rich and peculiar dresses in which they were arrayed – every care being taken to shield them from the effects of the sun’s rays, which shone out in full brightness during the whole time the procession lasted.[^4]
+"But what particularly engaged the attention of spectators, and was the chief feature of the procession, was the little girls from 5 to 8 years age, carried aloft in groups on gayly ornamented platforms, and dressed in every variety of Tartar and Chinese costume. The little creatures were supported in their place by iron rods, or some such contrivance, which were concealed under their clothes, and their infant charms were shewn off to the greatest advantage by the rich and peculiar dresses in which they were arrayed – every care being taken to shield them from the effects of the sun’s rays, which shone out in full brightness during the whole time the procession lasted."[^4]
 
 This Hokkien _chingay_ seemed to have developed into an event held every three years, with processions in the 10th and 12th lunar months. The initial procession would take place in the 10th lunar month (generally November in the Gregorian calendar) followed by a return procession in the 12th month (typically in January).&nbsp;
 
 In the 2006 book about Thian Hock Keng, _The Guardian of the South Seas_, there is an excellent description of the 1901 procession inviting the Tua Pek Kong (大伯公) of Heng San Ting, Guangze Zunwang (广泽尊王) of Hong San See and Qingshui Zushi (清水祖师) of Kim Lan Beo (all Hokkien temples) to Thian Hock Keng for Chinese opera on the 8th day of the 10th lunar month and the return to their respective temples on the 4th day of the 12th lunar month:
 
-The invitational procession began from the back of the Thian Hock Keng, and followed a designated route to the sounds of drums and gongs to Heng San Ting on Silat Road, Hong San See on Peck Seah Street, and Kim Lan Beo Temple on Narcis Street to pick up the three deities. After being “guests” for nearly two months at the Thian Hock Keng, the three gods were escorted back to their temples... The various representatives of the five streets prepared pavilions, drums and gongs, cavalry, and flags to enliven the atmosphere. There were lion dances as well. Groups also acted out various characters in folk tales such as The Eight Immortals Crossing the Ocean, Flooding of Jinshan Temple, and Wang Zhaojun's Mission to the Frontier.[^5]
+"The invitational procession began from the back of the Thian Hock Keng, and followed a designated route to the sounds of drums and gongs to Heng San Ting on Silat Road, Hong San See on Peck Seah Street, and Kim Lan Beo Temple on Narcis Street to pick up the three deities. After being “guests” for nearly two months at the Thian Hock Keng, the three gods were escorted back to their temples... The various representatives of the five streets prepared pavilions, drums and gongs, cavalry, and flags to enliven the atmosphere. There were lion dances as well. Groups also acted out various characters in folk tales such as The Eight Immortals Crossing the Ocean, Flooding of Jinshan Temple, and Wang Zhaojun's Mission to the Frontier."[^5]
 
 #### **Rival Chingay Processions**
 
@@ -54,7 +54,7 @@ Lim How Seng discusses this rivalry in his chapter, “Social Structure and Bang
 
 The press picked up on the procession’s role as a uniting mechanism. In November 1897, the _Mid-Day Herald and Daily Advertiser_ observed:
 
-The occasion has been termed “chingay day,” in rough parlance, but otherwise it is known as the celebration attending the removal of one patron saint from one temple to another. It consists of usual feasting and rejoicing, and organising a huge procession through the town. It is said moreover, to be a cementing of old friendships, the patching up of those little disaffections which usually accompany caste differences in the East. It is the meeting of the clans, and a time when the Teochews, Kehs, Cantonese and Hylams, assemble together and congratulate each other.[^7]
+"The occasion has been termed “chingay day,” in rough parlance, but otherwise it is known as the celebration attending the removal of one patron saint from one temple to another. It consists of usual feasting and rejoicing, and organising a huge procession through the town. It is said moreover, to be a cementing of old friendships, the patching up of those little disaffections which usually accompany caste differences in the East. It is the meeting of the clans, and a time when the Teochews, Kehs, Cantonese and Hylams, assemble together and congratulate each other."[^7]
 
 It is also one of those occasions where “processional cars” were first used, as described by the _Straits Times Weekly Issue_ in 1887: “The procession was fortunate in getting magnificent weather, and there was no fear of rain coming down, so that the most gorgeous of silk banners and silk embroidered dresses and splendid processional cars were brought out to enhance the grandeur of the procession.”[^8] In this context, “cars” meant a wheeled vehicle. (The first motor car arrived in Singapore only in 1896,[^9] and the contraction of “motor car” to just “car” happened much later when the motor car became an everyday occurrence.)
 
@@ -68,7 +68,7 @@ Singapore is not the only city in the region to have _chingay_. Johor Bahru’s 
 
 The earliest _chingay_ in Penang is likely a procession for the reopening of the Kong Hock Keong (广福宫) temple on Pitt Street in December 1862. It was first reported by the _Pinang Argus_ on 1 January 1863 and republished in the _Singapore Free Press_ on 29 January. The paper wrote:
 
-The strange spectacle, so wild and fantastic to the European imagination, was curious in the extreme, and was, no doubt, immediately relished by the Celestial portion of the spectators, familiar with the meaning of the motley groups – perhaps a mile in length – that paraded the streets with a dreadful din of gongs, trumpets and crackers. Doubtless each _tableau_, rendered so charming to the eye by a diversity of brightly coloured habiliments and flaunting pennants, had some occult significance, but why… poor little children were perched dangling… and forced to remain there for hours in one fixed position.[^12]
+"The strange spectacle, so wild and fantastic to the European imagination, was curious in the extreme, and was, no doubt, immediately relished by the Celestial portion of the spectators, familiar with the meaning of the motley groups – perhaps a mile in length – that paraded the streets with a dreadful din of gongs, trumpets and crackers. Doubtless each _tableau_, rendered so charming to the eye by a diversity of brightly coloured habiliments and flaunting pennants, had some occult significance, but why… poor little children were perched dangling… and forced to remain there for hours in one fixed position."[^12]
 
 By the last decade of the 19th century, there appeared to be several different processions in Penang. In September 1883, the _Straits Times Weekly Issue_ reported on the Poh Choo Siah-Tua Pek Kong procession that attracted the Chinese from the whole of the Straits as well as Burma and Sumatra. Described as a procession “on a scale of magnificence hitherto unequalled”, it had “36 stages or platforms in the shape of an immense centipede – 15 ornamental stages containing paper dolls and animals representing theatrical scenes, fish and fruit lanterns”.[^13] (This was a form of _tai ge_ still seen in Taiwan today. It is apparently a variant of the _chingay_ called the 蜈蚣阵, or “centipede parade”.)&nbsp;
 
@@ -88,7 +88,7 @@ Press reports of Penang’s _chingay_ show how these processions have progressed
 
 Electric lamps made their appearance on the “cars” for musicians in the 1911 coronation procession. It is only at the 1919 thanksgiving processions for the Goddess of Mercy that there was mention of a silver cup being awarded to the “best decorated Ch’ng Peh (ornamental car)”.[^23] The press reports, unfortunately, did not specify how these _chingay_ “cars” were carried or drawn along. For the Chap Goh Meh Tua Pek Kong procession in 1924, the _Straits Echo_ reported that “\[o\]nly one section had the Chingay pulled by men; the others were either drawn by bullocks or motor”.[^24]
 
-Photographs of the 1928 Penang _chingay_ were taken by Yeoh Oon Chuan and they appear in the 188th anniversary commemorative publication for the Kong Hock Keong Guanyin temple on Pitt Street.[^25] While many of the _chinga_y “cars” were mounted on motor vehicles, some appeared to be hand-drawn.
+Photographs of the 1928 Penang _chingay_ were taken by Yeoh Oon Chuan and they appear in the 188th anniversary commemorative publication for the Kong Hock Keong Guanyin temple on Pitt Street.[^25] While many of the _chingay_ “cars” were mounted on motor vehicles, some appeared to be hand-drawn.
 
 Although _chingay_ “cars” were organised around deities and temples, these were not necessarily religious in nature. Aside from tableaux depicting stories of deities, the Penang _chingay_ featured scenes from _wayang_ (Chinese operas) and Chinese legends as well.&nbsp;
 
@@ -112,7 +112,7 @@ The first Chingay Parade with the float procession as we know it was staged on 4
 
 	
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src="/images/Authors/DrJohnBray2.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/TimothyPwee.png">
 <b>Timothy Pwee</b> is a Senior Librarian with the National Library, Singapore. His interests range from Singapore’s business and natural history to its daily life and religion. These are among the areas he is developing the library’s collections in. </div>
 
 #### **Notes**
@@ -120,7 +120,7 @@ The first Chingay Parade with the float procession as we know it was staged on 4
 [^1]: Carstairs Douglas, [_Chinese-English Dictionary of the Vernacular or Spoken Language of Amoy, with the Principal Variations of the Chang-Chew and Chin-Chew Dialects_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4346061), (London: Trubner, 1873), 104–105, 579. (From National Library, Singapore, call no. RCLOS 495.17321 DOU-\[LYF\])
 
 
-[^2]: Lu Xun, [朝花夕拾\= _Dawn Blossoms Plucked at Dusk](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202698087)_, trans. Yang Xianyi and Gladys Yang (Beijing: Foreign Languages Press, 2000), 79. (From National Library, Singapore, call no. C814.3 LX) (eBook editions are available on NLB OverDrive)
+[^2]: Lu Xun, [朝花夕拾= _Dawn Blossoms Plucked at Dusk](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202698087)_, trans. Yang Xianyi and Gladys Yang (Beijing: Foreign Languages Press, 2000), 79. (From National Library, Singapore, call no. C814.3 LX) (eBook editions are available on NLB OverDrive)
 
 
 [^3]: John Livingston Nevius, _China and the Chinese: A General Description of the Country and Its Inhabitants_ (New York: Harper &amp; Brothers, 1869), 267, Internet Archive, [https://archive.org/details/chinaandchinese00nevigoog](https://archive.org/details/chinaandchinese00nevigoog).
