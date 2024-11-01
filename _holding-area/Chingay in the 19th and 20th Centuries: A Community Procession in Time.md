@@ -99,45 +99,28 @@ The first Chingay Parade with the float procession as we know it was staged on 4
 
 #### **Notes**
 
-[^1]:     p.p1 {margin: 0.0px 0.0px 0.0px 9.9px; text-indent: -9.9px; line-height: 8.5px; font: 7.0px Calibri} span.s1 {letter-spacing: -0.3px} span.s2 {letter-spacing: -0.6px} span.s3 {font: 7.0px 'DFPHeiW3-GB'; letter-spacing: -0.6px} span.s4 {letter-spacing: -0.5px} span.s5 {font: 7.0px 'DFPHeiW3-GB'; letter-spacing: -0.3px}
-
-Carstairs Douglas, _Chinese-English Dictionary of the Vernacular or Spoken Language of Amoy, with the Principal Variations of the Chang-Chew and Chin-Chew Dialects_, (London: Trubner, 1873), 104–105, 579. (From National Library, Singapore, call no. RCLOS 495.17321 DOU-\[LYF\])
-
-Lu Xun, 朝花夕拾\= _Dawn Blossoms Plucked at Dusk_, trans. Yang Xianyi and Gladys Yang (Beijing: Foreign Languages Press, 2000), 79. (From National Library, Singapore, call no. C814.3 LX) (eBook editions are available on NLB OverDrive)
-
-John Livingston Nevius, _China and the Chinese: A General Description of the Country and Its Inhabitants_ (New York: Harper &amp; Brothers, 1869), 267, Internet Archive, https://archive.org/details/chinaandchinese00nevigoog.
-
-“Chinese Processions,” _Singapore Free Press and Daily Advertiser_, 23 April 1840, 3. (From NewspaperSG)
-
-_Guardian of the South Seas: Thian Hock Keng and the Hokkien Huay Kuan_ (Singapore: Singapore Hokkien Huay Kuan, 2006), 42. (From National Library, Singapore, call no. RSING 369.25957 GUA)
-
-Lim How Seng, “Social Structure and Bang Interactions,” in _A General History of the Chinese in Singapore_, ed. Kwa Chong Guan and Kua Bak Lim, (Singapore: Singapore Federation of Chinese Clan Associations &amp; World Scientific, 2019), 122. (From National Library, Singapore, call no. RSING 305.895105957 GEN)
-
-“A Huge Chinese Procession,” _Mid-Day Herald and Daily Advertiser_, 22 November 1897, 3. (From NewspaperSG)
-
-“The Great Annual Religious Procession,” _Straits Times Weekly Issue_, 19 December 1887, 3. (From NewspaperSG)
+[^1]: Carstairs Douglas, _Chinese-English Dictionary of the Vernacular or Spoken Language of Amoy, with the Principal Variations of the Chang-Chew and Chin-Chew Dialects_, (London: Trubner, 1873), 104–105, 579. (From National Library, Singapore, call no. RCLOS 495.17321 DOU-\[LYF\])
 
 
-
-[^2]: 
-
-
-[^3]: 
+[^2]: Lu Xun, 朝花夕拾\= _Dawn Blossoms Plucked at Dusk_, trans. Yang Xianyi and Gladys Yang (Beijing: Foreign Languages Press, 2000), 79. (From National Library, Singapore, call no. C814.3 LX) (eBook editions are available on NLB OverDrive)
 
 
-[^4]: 
+[^3]: John Livingston Nevius, _China and the Chinese: A General Description of the Country and Its Inhabitants_ (New York: Harper &amp; Brothers, 1869), 267, Internet Archive, https://archive.org/details/chinaandchinese00nevigoog.
 
 
-[^5]: 
+[^4]: “Chinese Processions,” _Singapore Free Press and Daily Advertiser_, 23 April 1840, 3. (From NewspaperSG)
 
 
-[^6]: 
+[^5]: _Guardian of the South Seas: Thian Hock Keng and the Hokkien Huay Kuan_ (Singapore: Singapore Hokkien Huay Kuan, 2006), 42. (From National Library, Singapore, call no. RSING 369.25957 GUA)
 
 
-[^7]: 
+[^6]: Lim How Seng, “Social Structure and Bang Interactions,” in _A General History of the Chinese in Singapore_, ed. Kwa Chong Guan and Kua Bak Lim, (Singapore: Singapore Federation of Chinese Clan Associations &amp; World Scientific, 2019), 122. (From National Library, Singapore, call no. RSING 305.895105957 GEN)
 
 
-[^8]: 
+[^7]: “A Huge Chinese Procession,” _Mid-Day Herald and Daily Advertiser_, 22 November 1897, 3. (From NewspaperSG)
+
+
+[^8]: “The Great Annual Religious Procession,” _Straits Times Weekly Issue_, 19 December 1887, 3. (From NewspaperSG)
 
 
 [^9]: “Singapore’s First Autocar,” _Singapore Free Press and Mercantile Advertiser_, 13 August 1896, 2. (From NewspaperSG)
