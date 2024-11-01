@@ -117,13 +117,6 @@ Lim How Seng, “Social Structure and Bang Interactions,” in _A General Histor
 
 “The Great Annual Religious Procession,” _Straits Times Weekly Issue_, 19 December 1887, 3. (From NewspaperSG)
 
-“Singapore’s First Autocar,” _Singapore Free Press and Mercantile Advertiser_, 13 August 1896, 2. (From NewspaperSG)
-
-“Chinese Reform,” _Pinang Gazette and Straits Chronicle_, 18 December 1906, 5. (From NewspaperSG)
-
-_Guardian of the South Seas_, 66.&nbsp;
-
-“Pinang,” _Singapore Free Press and Mercantile Advertiser_, 29 January 1863, 3. (From NewspaperSG)
 
 
 [^2]: 
@@ -147,16 +140,16 @@ _Guardian of the South Seas_, 66.&nbsp;
 [^8]: 
 
 
-[^9]: 
+[^9]: “Singapore’s First Autocar,” _Singapore Free Press and Mercantile Advertiser_, 13 August 1896, 2. (From NewspaperSG)
 
 
-[^10]: 
+[^10]: “Chinese Reform,” _Pinang Gazette and Straits Chronicle_, 18 December 1906, 5. (From NewspaperSG)
 
 
-[^11]: 
+[^11]: _Guardian of the South Seas_, 66.&nbsp;
 
 
-[^12]: 
+[^12]: “Pinang,” _Singapore Free Press and Mercantile Advertiser_, 29 January 1863, 3. (From NewspaperSG)
 
 
 [^13]: “Penang News,” _Straits Times Weekly Issue_, 20 September 1883, 1; “News of the Week,” _Straits Times Weekly Issue_, 20 September 1883, 2. (From NewspaperSG)
