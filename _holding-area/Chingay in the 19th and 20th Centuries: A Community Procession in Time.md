@@ -120,7 +120,7 @@ The first Chingay Parade with the float procession as we know it was staged on 4
 [^1]: Carstairs Douglas, [_Chinese-English Dictionary of the Vernacular or Spoken Language of Amoy, with the Principal Variations of the Chang-Chew and Chin-Chew Dialects_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4346061), (London: Trubner, 1873), 104–105, 579. (From National Library, Singapore, call no. RCLOS 495.17321 DOU-\[LYF\])
 
 
-[^2]: Lu Xun, [朝花夕拾= _Dawn Blossoms Plucked at Dusk](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202698087)_, trans. Yang Xianyi and Gladys Yang (Beijing: Foreign Languages Press, 2000), 79. (From National Library, Singapore, call no. C814.3 LX) (eBook editions are available on NLB OverDrive)
+[^2]: Lu Xun, [朝花夕拾= _Dawn Blossoms Plucked at Dusk_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202698087), trans. Yang Xianyi and Gladys Yang (Beijing: Foreign Languages Press, 2000), 79. (From National Library, Singapore, call no. C814.3 LX) (eBook editions are available on NLB OverDrive)
 
 
 [^3]: John Livingston Nevius, _China and the Chinese: A General Description of the Country and Its Inhabitants_ (New York: Harper &amp; Brothers, 1869), 267, Internet Archive, [https://archive.org/details/chinaandchinese00nevigoog](https://archive.org/details/chinaandchinese00nevigoog).
