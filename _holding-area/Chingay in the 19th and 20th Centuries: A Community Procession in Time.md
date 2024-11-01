@@ -26,7 +26,7 @@ However, _chingay_ originally had nothing to do with the Lunar New Year. _Chinga
 
 
 ![](/images/Vol%2020%20Issue%204/Chingay/chingay_procession.jpg)
-<div style="background-color:white;"> A <i>chingay</i> procession in Singapore, 1900s. The “car” is being carried by coolies. <i>Photo by Timothy Pwee.  </i></div>
+<div style="background-color:white;"> A <i>chingay</i> procession in Singapore, 1900s. The “car” is being carried by coolies. <i>Lee Kip Lin Collection, courtesy of National Archives of Singapore.  </i></div>
 
 The procession of dressed-up children held aloft on poles or on platforms is more commonly known as 抬阁 (_tai ge_) in China, and is frequently seen in various festival processions across the country (抬 meaning “carry”).
 
@@ -100,9 +100,15 @@ This did not go down well with some. A strongly worded editorial by the _Singapo
 
 While the traditional _chingay_ of the 19th and 20th centuries has its roots in the _tai ge_ from China where dressed-up children are held aloft on poles or platforms, the Chingay Parade we are familiar with today – a stage mounted on a motor vehicle with dressed actors comfortably displayed within – is similar to the Western idea of parade floats.&nbsp;
 
+![](/images/Vol%2020%20Issue%204/Chingay/chingay_performance.jpg)
+<div style="background-color:white;"> A dance performance at Chingay 2015.  <i>Photo by Danny Santos. Courtesy of Singapore Tourism Board.  </i></div>
+
 After firecrackers were banned in 1972,[^29] Lunar New Year celebrations became less lively and boisterous. Being familiar with the annual Penang _chingay_, then Prime Minister Lee Kuan Yew, who was also chairman of the People’s Association, suggested holding a similar _chingay_ to enliven new year festivities.[^30]
 
 The first Chingay Parade with the float procession as we know it was staged on 4 February 1973.[^31] The parade has been held annually since then, evolving over the years into a multicultural event involving participants of different ethnicities and nationalities.
+
+![](/images/Vol%2020%20Issue%204/Chingay/chingay_float.jpg)
+<div style="background-color:white;"> The People’s Association float at the first Chingay Parade held on 4 February 1973.  <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore. </i></div>
 
 	
 <div style="background-color: white;">
