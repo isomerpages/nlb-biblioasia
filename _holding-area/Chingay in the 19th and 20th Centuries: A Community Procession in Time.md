@@ -24,6 +24,10 @@ However, _chingay_ originally had nothing to do with the Lunar New Year. _Chinga
 
 #### **Tai Ge Processions**
 
+
+![](/images/Vol%2020%20Issue%204/Chingay/chingay_procession.jpg)
+<div style="background-color:white;"> A <i>chingay</i> procession in Singapore, 1900s. The “car” is being carried by coolies. <i>Photo by Timothy Pwee.  </i></div>
+
 The procession of dressed-up children held aloft on poles or on platforms is more commonly known as 抬阁 (_tai ge_) in China, and is frequently seen in various festival processions across the country (抬 meaning “carry”).
 
 A well-known _tai ge_ takes place annually at Hong Kong’s Cheung Chau Bun Festival in the fourth lunar month (April–May) called 飄色 (_piu sik_ in Cantonese or “floating” colours). There is also a reference to _tai ge_ by the famous author Lu Xun (1881–1936) in a collection of essays about his childhood in Shaoxing, Zhejiang, where he grew up at the end of the 19th century.[^2]
