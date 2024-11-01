@@ -7,13 +7,13 @@ image: /images/Podcast/Kennie_600_400.jpg
 third_nav_title: Asian Port Cities
 ---
 <p>To write a book about 60 Asian port cities, ex–ACM director Kennie Ting
-travelled to as far as the Middle East and Africa. He tells us how port
-cities can tell a different history of Asia, and what his "eat pray love"
-cities and his favourite ACM artefacts are.</p>
+travelled as far as the Middle East and Africa. He tells us how port cities
+can tell a different history of Asia, and what his "eat, pray, love" cities
+and his favourite ACM artefacts are.</p>
 <p></p>
-<h4><strong>Listen to the Full Episode (coming soon)</strong></h4>
-<p>Available on: <a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener nofollow" target="_blank">Spotify</a>,
-<a href="https://podcasts.apple.com/us/podcast/biblioasia/id1688142751" rel="noopener nofollow" target="_blank">Apple Podcasts</a>, <a href="https://www.melisten.sg/podcast/playlist/BiblioAsia+-2115156" rel="noopener nofollow" target="_blank">melisten</a>.</p>
+<h4><strong>Listen to the Full Episode </strong></h4>
+<p>Available on: <a href="https://open.spotify.com/episode/2FqUWRztKoh3aPVvmQz9kz" rel="noopener nofollow" target="_blank">Spotify</a>,
+<a href="https://podcasts.apple.com/us/podcast/a-tour-of-60-asian-port-cities-with-ex-acm/id1688142751?i=1000675263403" rel="noopener nofollow" target="_blank">Apple Podcasts</a>, <a href="https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/A-Tour-of-60-Asian-Port-Cities-with-Ex%E2%80%93ACM-Director-Kennie-Ting-2734461" rel="noopener nofollow" target="_blank">melisten</a>.</p>
 <p><a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener noreferrer nofollow" target="_blank"><u>Subscribe</u></a> to
 get notified when the next episode drops.</p>
 <p></p>
