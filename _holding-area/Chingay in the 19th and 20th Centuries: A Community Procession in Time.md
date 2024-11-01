@@ -18,6 +18,10 @@ Most people in Singapore today associate the Chingay Parade with the Lunar New Y
 
 However, _chingay_ originally had nothing to do with the Lunar New Year. _Chingay_, or _tsng gē_ in Hokkien, is derived from the Chinese term, 裝藝 (_zhuang yi_). In his 1873 Chinese-English Amoy dictionary, Carstairs Douglas says the&nbsp; _gē_ (藝) is “a large frame with incense and boys dressed as girls carried in processions”, and _tsng_ (裝) refers to the children dressed up as characters on that mobile stage to form a tableaux.[^1] \[A colleague pointed out that Douglas may have meant the traditional Chinese character 妝 (妆; meaning to adorn or to dress up) rather than 裝 (装; meaning dress or attire). Although they are two different words, both have the same pronunciation in Hokkien, Cantonese and Mandarin.\]
 
+
+![](/images/Vol%2020%20Issue%204/Chingay/chingay_postcard.jpg)
+<div style="background-color:white;"> A postcard of a  <i>chingay </i> tableau, 1900s. You can see the umbrellas used to shade the “actors” from the sun. <i>Photo by Timothy Pwee.  </i></div>
+
 #### **Tai Ge Processions**
 
 The procession of dressed-up children held aloft on poles or on platforms is more commonly known as 抬阁 (_tai ge_) in China, and is frequently seen in various festival processions across the country (抬 meaning “carry”).
