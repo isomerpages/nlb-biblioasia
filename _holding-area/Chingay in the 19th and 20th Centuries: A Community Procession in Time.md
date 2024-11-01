@@ -99,7 +99,58 @@ The first Chingay Parade with the float procession as we know it was staged on 4
 
 #### **Notes**
 
-[^1]: 
+[^1]:     p.p1 {margin: 0.0px 0.0px 0.0px 9.9px; text-indent: -9.9px; line-height: 8.5px; font: 7.0px Calibri} span.s1 {letter-spacing: -0.3px} span.s2 {letter-spacing: -0.6px} span.s3 {font: 7.0px 'DFPHeiW3-GB'; letter-spacing: -0.6px} span.s4 {letter-spacing: -0.5px} span.s5 {font: 7.0px 'DFPHeiW3-GB'; letter-spacing: -0.3px}
+
+Carstairs Douglas, _Chinese-English Dictionary of the Vernacular or Spoken Language of Amoy, with the Principal Variations of the Chang-Chew and Chin-Chew Dialects_, (London: Trubner, 1873), 104–105, 579. (From National Library, Singapore, call no. RCLOS 495.17321 DOU-\[LYF\])
+
+Lu Xun, 朝花夕拾\= _Dawn Blossoms Plucked at Dusk_, trans. Yang Xianyi and Gladys Yang (Beijing: Foreign Languages Press, 2000), 79. (From National Library, Singapore, call no. C814.3 LX) (eBook editions are available on NLB OverDrive)
+
+John Livingston Nevius, _China and the Chinese: A General Description of the Country and Its Inhabitants_ (New York: Harper &amp; Brothers, 1869), 267, Internet Archive, https://archive.org/details/chinaandchinese00nevigoog.
+
+“Chinese Processions,” _Singapore Free Press and Daily Advertiser_, 23 April 1840, 3. (From NewspaperSG)
+
+_Guardian of the South Seas: Thian Hock Keng and the Hokkien Huay Kuan_ (Singapore: Singapore Hokkien Huay Kuan, 2006), 42. (From National Library, Singapore, call no. RSING 369.25957 GUA)
+
+Lim How Seng, “Social Structure and Bang Interactions,” in _A General History of the Chinese in Singapore_, ed. Kwa Chong Guan and Kua Bak Lim, (Singapore: Singapore Federation of Chinese Clan Associations &amp; World Scientific, 2019), 122. (From National Library, Singapore, call no. RSING 305.895105957 GEN)
+
+“A Huge Chinese Procession,” _Mid-Day Herald and Daily Advertiser_, 22 November 1897, 3. (From NewspaperSG)
+
+“The Great Annual Religious Procession,” _Straits Times Weekly Issue_, 19 December 1887, 3. (From NewspaperSG)
+
+“Singapore’s First Autocar,” _Singapore Free Press and Mercantile Advertiser_, 13 August 1896, 2. (From NewspaperSG)
+
+“Chinese Reform,” _Pinang Gazette and Straits Chronicle_, 18 December 1906, 5. (From NewspaperSG)
+
+_Guardian of the South Seas_, 66.&nbsp;
+
+“Pinang,” _Singapore Free Press and Mercantile Advertiser_, 29 January 1863, 3. (From NewspaperSG)
+
+“Penang News,” _Straits Times Weekly Issue_, 20 September 1883, 1; “News of the Week,” _Straits Times Weekly Issue_, 20 September 1883, 2. (From NewspaperSG)
+
+“Local and General,” _Pinang Gazette and Straits Chronicle_, 4 February 1890, 4. (From NewspaperSG)
+
+“Local and General,” _Pinang Gazette and Straits Chronicle_, 17 March 1897, 2. (From NewspaperSG)
+
+“Second Moon Festivals,” _Straits Echo_, 30 March 1904, 5. (From NewspaperSG)
+
+“Further Festivities,” _Straits Budget_, 29 June 1911, 6. (From NewspaperSG)
+
+“Coronation Chingay Procession,” _Straits Echo Mail Edition_, 19 May 1911, 408. (From NewspaperSG)
+
+“Penang in 1899,” _Pinang Gazette and Straits Chronicle_, 26 May 1900, 2; “Grand Chingay Procession in Penang,” _Pinang Gazette and Straits Chronicle_, 5 June 1900, 3. (From NewspaperSG)
+
+“Chingay Procession in Penang,” _Pinang Gazette and Straits Chronicle_, 24 August 1928, 12. (From NewspaperSG)
+
+Jean DeBernardi, _Penang: Rites of Belonging in a Malaysian Chinese Community_ (Singapore: NUS Press, 2009),151–54. (From National Library, Singapore, call no. RSEA 305.895105951 DEB)
+
+Tan Kim Hong, _The Chinese in Penang: A Pictorial History_ (Penang: Areca Books, 2007), 206. (From National Library, Singapore, call no. RSEA 959.51004951 TAN)
+
+“Town Decorations,” _Straits Echo Mail Edition_, 3 July 1911, 537; “Chingay Festival: Recognition of Merit,” _Straits Echo Mail Edition_, 19 November 1919, 1883. (From NewspaperSG)
+
+“The Chingay: An Impression,” _Straits Echo Mail Edition_, 26 February 1924, 148. (From NewspaperSG)
+
+Yeoh Oon Chuan, “1928 Procession Pictures”, in 槟榔屿广福宫庆祝建庙188周年暨观音菩萨出游纪念特刊 \[Commemorative publication of the 188th anniversary celebration and chingay procession in honour of boddhisatva Guanyin, Kong Hock Keong, Penang\]. (Penang: Kong Hock Keong Publishing Department, 1989), 431–63. (From National Library, Singapore, call no. RSEA 294.3435095951 COM)
+
 
 
 [^2]: 
@@ -174,20 +225,19 @@ The first Chingay Parade with the float procession as we know it was staged on 4
 [^25]: 
 
 
-[^26]: 
+[^26]: “Chingay Procession: Imposing Spectacle,” _Pinang Gazette and Daily Chronicle_, 19 February 1924, 7. (From NewspaperSG)
 
 
-[^27]: 
+[^27]: “M.A.P.,” _The Straits Echo Weekly Edition_, 19 February 1927, 155. (From NewspaperSG)
 
 
-[^28]: 
+[^28]: “A Dreary Prospect,” _Singapore Free Press_, 19 February 1927, 10. (From NewspaperSG)
 
 
-[^29]: 
+[^29]: “Total Ban on Crackers,” _Straits Times_, 2 March 1972, 1. (From NewspaperSG)
 
 
-[^30]: 
+[^30]: People’s Association, _The People’s Parade: 45 Years of Chingay_ (Singapore: People’s Association, 2017), 11. (From National Library, Singapore, call no. RSING 394.5095957 PEO)
 
 
-[^31]: 
-
+[^31]: “Chingay Parade a Success, So an Encore Is Planned Next Chinese New Year,” _Straits Times_, 5 April 1973, 13. (From NewspaperSG)
