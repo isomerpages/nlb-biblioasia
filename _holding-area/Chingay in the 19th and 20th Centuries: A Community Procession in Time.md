@@ -9,6 +9,10 @@ description: The Chingay Parade held annually in Singapore during the Lunar New
 
 By Timothy Pwee
 
+![](/images/Vol%2020%20Issue%204/Chingay/chingay_facing.jpg)
+<div style="background-color:white;">  In 2017, visual artist Yip Yew Chong was commissioned to paint a mural along the back wall of Thian Hock Keng temple. Part of the mural is this chingay scene showing the arrival of the Mazu statue from China in 1840. <i>Photo by Timothy Pwee.  </i></div>
+
+
 
 Most people in Singapore today associate the Chingay Parade with the Lunar New Year, which is not surprising because since the early 1970s, the People’s Association has been organising the annual Chingay Parade to celebrate the new year.&nbsp;
 
