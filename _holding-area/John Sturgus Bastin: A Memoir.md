@@ -11,7 +11,7 @@ By Kwa Chong Guan
 
 The eminent historian Dr John Sturgus Bastin (1927–2024) lived much, if not most of his life, with Thomas Stamford Raffles. His first book was based on his 1954 Leiden University doctoral dissertation on Raffles’ ideas on the land rent system in Java.[^1] His last book was on the letters that Raffles wrote to his sister Mary Ann Flint published in 2021.[^2]  Within the span of those 67 years, Bastin published some 20 other books and dozens of essays, all in one way or another relating to Raffles and his world in the British East India Company.&nbsp;
 
-![](/images/Vol%2020%20Issue%204/John%20Sturgus%20Bastin/bastin_facing.jpg)
+![](/images/Vol%2020%20Issue%204/John%20Sturgus%20Bastin/bastin_facing2.jpg)
 <div style="background-color: white;">Dr John Bastin at the launch of “Raffles’ Letters: Intrigues Behind the Founding of Singapore” exhibition at the National Library on 28 August 2012. <i>Courtesy of the National Library Board. </i></div>
 
 In addition to being a historian, Bastin was a bibliophile. He systematically collected anything and everything on Raffles and his wide interests that ranged from antiquities to natural history. The National Library of Singapore is proud and privileged to have acquired Bastin’s library of over 5,000 books relating to Raffles and Singapore/Southeast Asia in 2015. These items form part of the John Bastin Collection at the National Library.
