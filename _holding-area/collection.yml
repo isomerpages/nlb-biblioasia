@@ -2,6 +2,8 @@ collections:
   holding-area:
     output: true
     order:
+      - "Chingay in the 19th and 20th Centuries: A Community Procession in
+        Time.md"
       - "John Sturgus Bastin: A Memoir.md"
       - "Nanjing to Nanyang: Missionary Sojourns to Singapore and Christian
         Educational Missions in the 1950s.md"
