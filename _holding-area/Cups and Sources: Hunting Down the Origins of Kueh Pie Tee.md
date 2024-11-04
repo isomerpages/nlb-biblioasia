@@ -81,7 +81,7 @@ New applications for them are being explored, such as the trend that Francisco M
 
 Inspired by his grandaunt, Law Jia Jun puts his own stamp on _pie tee_ by blending dehydrated kombu (kelp) powder and squid ink into his batter to boost its flavour. “The theme of Province’s summer menu this year is to showcase my own heritage… my generation of cooks, I feel, is trying to define what Singaporean cuisine can be, might be, or will be in the future,” he explained. After frying the jet-black shells, Law further dehydrates them for 12 hours to bestow upon them a denser, cracklier crunch.[^39]
 
-Their intense umami savour hums a deep oceanic bass note under the bamboo lobster meat, fried broccoli sprig, wild pepper leaf and lime gel that Law fills them with at point of service. Not his grandaunt’s _kueh pie tee_ for sure, but one day, perhaps his grandchild’s.\
+Their intense umami savour hums a deep oceanic bass note under the bamboo lobster meat, fried broccoli sprig, wild pepper leaf and lime gel that Law fills them with at point of service. Not his grandaunt’s _kueh pie tee_ for sure, but one day, perhaps his grandchild’s.
 
 
 <div style="background-color: white;">
