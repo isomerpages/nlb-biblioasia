@@ -44,7 +44,7 @@ sections:
       button: THE SCOURGE OF OPIUM
       url: /vol-20/issue-4/jan-mar-2025/japanese-opium-propaganda-syonan-shimbun/
       image: /images/Vol 20 Issue 4/Opium/opium_topics.jpg
-      alt: Image alt text
+      alt: THE SCOURGE OF OPIUM
   - infopic:
       title: Singapore’s Early Zoos
       subtitle: BiblioAsia Reels
@@ -54,7 +54,7 @@ sections:
       button: Watch the video
       url: https://youtu.be/BAJrXPFgw7Y
       image: "/images/Videos: BiblioAsia Reels/First_Zoos_in_Singapore.png"
-      alt: Image alt text
+      alt: Singapore’s Early Zoos
   - infopic:
       title: He Wrote the National Pledge
       subtitle: Podcast
@@ -65,7 +65,7 @@ sections:
       button: Listen to the episode
       url: /podcast/s-rajaratnam-singapores-first-foreign-minister/
       image: /images/Podcast/Irene_600_400.jpg
-      alt: Image alt text
+      alt: He Wrote the National Pledge
   - infopic:
       title: Japanese Anglicans in World War II Singapore
       subtitle: People
