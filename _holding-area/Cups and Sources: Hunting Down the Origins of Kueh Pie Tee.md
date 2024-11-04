@@ -130,21 +130,21 @@ Their intense umami savour hums a deep oceanic bass note under the bamboo lobste
 [^12]: “[The Gourmet Club...](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19580401-1.2.98.7),” _Singapore Free Press_, 1 April 1958, 2. (From NewspaperSG)
 
 
-[^13]: “Poh Piah Skin Surprise,” _New Nation_, 19 January 1978, 13. (From NewspaperSG)
+[^13]: “[Poh Piah Skin Surprise](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19780119-1.2.73.2),” _New Nation_, 19 January 1978, 13. (From NewspaperSG)
 
 
-[^14]: “The Y.W.C.A.” _Straits Times_, 11 October 1913, 8. (From NewspaperSG)
+[^14]: “[The Y.W.C.A.](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19131011-1.2.39)” _Straits Times_, 11 October 1913, 8. (From NewspaperSG)
 
 
-[^15]: A.E. Llewellyn, ed., _The Y.W.C.A. International Cookery Book of Malaya_ (Singapore: Malayan Committee of the Y.W.C.A., 1948), 178. (From National Library, Singapore, call no. RCLOS 641.59595 YWC). The pattie shell recipe appeared in the 1932 first edition and several editions thereafter.
+[^15]: A.E. Llewellyn, ed., [_The Y.W.C.A. International Cookery Book of Malaya_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12773589) (Singapore: Malayan Committee of the Y.W.C.A., 1948), 178. (From National Library, Singapore, call no. RCLOS 641.59595 YWC). The pattie shell recipe appeared in the 1932 first edition and several editions thereafter.
 
 
-[^16]: “Serve Fish Dishes for the Family Luncheons,” _Morning Tribune_, 6 January 1937, 16. (From NewspaperSG)
+[^16]: “[Serve Fish Dishes for the Family Luncheons](https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19370106-1.2.66),” _Morning Tribune_, 6 January 1937, 16. (From NewspaperSG)
 
 
 [^17]: Sealtest Inc., _Sealtest Kitchen Recipes: World’s Fair Edition_ (New York: Sealtest Inc., 1939), 37. &nbsp;
 
-[^18]: “Roti John, Our Burger Version,” _Straits Times_, 10 April 1983, 10; “Page 19 Advertisements Column 1: Our U.S. Chicken Specials Are Really Something to Crow About,” _Straits Times_, 16 October 1992, 19. (From NewspaperSG)
+[^18]: “[Roti John, Our Burger Version](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19830410-1.2.113.7.2),” _Straits Times_, 10 April 1983, 10; “[Page 19 Advertisements Column 1: Our U.S. Chicken Specials Are Really Something to Crow About](),” _Straits Times_, 16 October 1992, 19. (From NewspaperSG)
 
 
 [^19]: Khir Johari, interview, 14 May 2024.
@@ -162,7 +162,7 @@ Their intense umami savour hums a deep oceanic bass note under the bamboo lobste
 [^23]: Nyonya Rumah (Julie Sutardjana), _Pandai Masak Book 1_, 16th ed. (Djakarta: P.T. Kinta, 1975), 66. The most famous of Sutardjana’s many books, _Pandai Masak_ volumes 1 and 2 are compilations of over a decade’s worth of recipes from her newspaper cookery columns.&nbsp;
 
 
-[^24]: Susie Hing, _In a Malayan Kitchen_, 83. Hing’s Kwei Patti filling is quite similar to what Hainanese-style chicken pies are stuffed with in Singapore and Malaysia, but this speaks to the ubiquity of white-sauced meat and vegetable collations in American and British cookery rather than to any kinship linked to the syllable “pie”.
+[^24]: Susie Hing, [_In a Malayan Kitchen_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4078437), 83. Hing’s Kwei Patti filling is quite similar to what Hainanese-style chicken pies are stuffed with in Singapore and Malaysia, but this speaks to the ubiquity of white-sauced meat and vegetable collations in American and British cookery rather than to any kinship linked to the syllable “pie”.
 
 
 [^25]: Siti Mukmin and Dahniar Jatim, _Buku Masakan Thursina_, 22nd ed. (Jakarta: Esbe Publishers, 1982), 116–18.
@@ -177,32 +177,32 @@ Their intense umami savour hums a deep oceanic bass note under the bamboo lobste
 [^28]: Law Jia Jun, interview, 18 July 2024.
 
 
-[^29]: Ellice Handy, _My Favourite Recipes_ (Singapore: Malaya Publishing House, 1952). (From National Library, Singapore, call no. RSING 641.595 HAN-\[JK\])
+[^29]: Ellice Handy, [_My Favourite Recipes_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4181819) (Singapore: Malaya Publishing House, 1952). (From National Library, Singapore, call no. RSING 641.595 HAN-\[JK\])
 
 
-[^30]:Leong Yee Soo, _Singaporean Cooking_, vol. 2. (Singapore: Eastern Universities Press, 1981). (From National Library, Singapore, call no. RSING 641.595957 LEO)
+[^30]:Leong Yee Soo, [_Singaporean Cooking_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4081873), vol. 2. (Singapore: Eastern Universities Press, 1981). (From National Library, Singapore, call no. RSING 641.595957 LEO)
 
 
 
-[^31]: Yu Yoon Gee, _Nyonya Food, Satay and Padang Curry Cooking_ (Singapore: Tiger Press, 1976). (From National Library, Singapore, call no. RCLOS 641.8653 YU)
+[^31]: Yu Yoon Gee, [_Nyonya Food, Satay and Padang Curry Cooking_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4182614) (Singapore: Tiger Press, 1976). (From National Library, Singapore, call no. RCLOS 641.8653 YU)
 
 
-[^32]: Dorothy Ng, _Dorothy Ng’s Entertaining Cookbook_ (Singapore: MPH Distributors, 1979). (From National Library, Singapore, call no. RSING q641.595957 NG)
+[^32]: Dorothy Ng, [_Dorothy Ng’s Entertaining Cookbook_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6561166) (Singapore: MPH Distributors, 1979). (From National Library, Singapore, call no. RSING q641.595957 NG)
 
 
-[^33]: Terry Tan, _Her World Cookbook of Singapore Recipes_ (Singapore: Times Periodicals, 1982). (From National Library, Singapore, call no. RSING 641.595957 TAN)
+[^33]: Terry Tan, [_Her World Cookbook of Singapore Recipes_](http://eservice.nlb.gov.sg/item_holding.aspx?bid=3310328) (Singapore: Times Periodicals, 1982). (From National Library, Singapore, call no. RSING 641.595957 TAN)
 
 
-[^34]: “As Good as Home Cooked Nonya Food,” _New Nation_, 17 February 1978, 10–11. (From NewspaperSG)
+[^34]: “[As Good as Home Cooked Nonya Food](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19780217-1.2.62.5),” _New Nation_, 17 February 1978, 10–11. (From NewspaperSG)
 
 
-[^35]: Lawrence Low and Loh Tuan Lee, “What’s Our National Dish?” _New Paper_, 8 August 1988, 16. (From NewspaperSG)
+[^35]: Lawrence Low and Loh Tuan Lee, “[What’s Our National Dish?](https://eresources.nlb.gov.sg/newspapers/digitised/article/newpaper19880808-1.2.16.1)” _New Paper_, 8 August 1988, 16. (From NewspaperSG)
 
 
-[^36]: Cúán Greene, “I Dropped the Croustade, _Omos Digest #87_, 19 March 2023, https://omos.substack.com/p/omos-digest-coustade-pastry.
+[^36]: Cúán Greene, “I Dropped the Croustade, _Omos Digest #87_, 19 March 2023, [https://omos.substack.com/p/omos-digest-coustade-pastry](https://omos.substack.com/p/omos-digest-coustade-pastry).
 
 
-[^37]: “Bunuelos/Pie Tee Moulds,” MoldBrothers, last accessed 29 September 2024, https://shop.moldbrothers.com/product-category/bunuelos-pie-tee/.
+[^37]: “Bunuelos/Pie Tee Moulds,” MoldBrothers, last accessed 29 September 2024, [https://shop.moldbrothers.com/product-category/bunuelos-pie-tee/](https://shop.moldbrothers.com/product-category/bunuelos-pie-tee/).
 
 
 [^38]: Francisco Migoya, correspondence, 20 August 2024.
