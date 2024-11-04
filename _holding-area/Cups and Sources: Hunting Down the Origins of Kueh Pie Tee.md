@@ -92,7 +92,7 @@ Their intense umami savour hums a deep oceanic bass note under the bamboo lobste
 #### **Notes**
 
 
-[^1]:  Violet Oon, “[Real Nonya-Style Fare – from a True Artist of the Wok…,](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19800127-1.2.64.5.1)” _Straits Times_, 27 January 1980, 15. (From NewspaperSG)
+[^1]:  Violet Oon, “[Real Nonya-Style Fare – from a True Artist of the Wok…](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19800127-1.2.64.5.1),” _Straits Times_, 27 January 1980, 15. (From NewspaperSG)
 
 
 [^2]: Francis Wong, “[Battle of the 28-Dish Makan](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19540307-1.2.33),” _Straits Times_, 7 March 1954, 3. (From NewspaperSG)
@@ -107,19 +107,19 @@ Their intense umami savour hums a deep oceanic bass note under the bamboo lobste
 [^5]: “[Page 18 Advertisements Column 1: On the Second Day of Christmas, Have a Merry Cooking Spree!](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19801128-1.2.92.1)” _Straits Times_, 28 November 1980, 18. (From NewspaperSG)
 
 
-[^6]: Marc McWilliams, ed., _Food and Material Culture: Proceedings of the Oxford Symposium on Food and Cookery 2013_ (Great Britain: Prospect Books, 2014), 184; Bartolomeo Scappi, _Opera Dell’arte Del Cucinare 1570_ (Canada: University of Toronto Press, 2008), 390, http://www.ilvaresotto.it/Biblioteca/Opera\_di\_Bartolomeo\_Scappi\_M\_dell\_arte\_d.pdf.
+[^6]: Marc McWilliams, ed., _Food and Material Culture: Proceedings of the Oxford Symposium on Food and Cookery 2013_ (Great Britain: Prospect Books, 2014), 184; Bartolomeo Scappi, _Opera Dell’arte Del Cucinare 1570_ (Canada: University of Toronto Press, 2008), 390, [http://www.ilvaresotto.it/Biblioteca/Opera\_di\_Bartolomeo\_Scappi\_M\_dell\_arte\_d.pdf](http://www.ilvaresotto.it/Biblioteca/Opera_di_Bartolomeo_Scappi_M_dell_arte_d.pdf).
 
 
 [^7]: Scappi, _Opera Dell’arte Del Cucinare 1570_, 372.&nbsp;
 
 
-[^8]: Priscilla Mary Işın, “Moulds for Shaping and Decorating Food in Turkey,” in _Food and Material Culture: Proceedings of the Oxford Symposium on Food and Cookery 2013_, ed. Marc McWilliams (Great Britain: Prospect Books, 2014), 184, https://books.google.com.sg/books?id=yj8QDgAAQBAJ. In this essay, Işın also remarks on the moulds’ “remarkable resemblance” to livestock branding irons, unique to each family too.
+[^8]: Priscilla Mary Işın, “Moulds for Shaping and Decorating Food in Turkey,” in _Food and Material Culture: Proceedings of the Oxford Symposium on Food and Cookery 2013_, ed. Marc McWilliams (Great Britain: Prospect Books, 2014), 184, [https://books.google.com.sg/books?id=yj8QDgAAQBAJ](https://books.google.com.sg/books?id=yj8QDgAAQBAJ). In this essay, Işın also remarks on the moulds’ “remarkable resemblance” to livestock branding irons, unique to each family too.
 
 
-[^9]: Mahmud Nedim bin Tosun, _Aşçıbaşı – Bir Osmanlı Subayının Yemek Kitabı_ (Istanbul: Yapi Kredi Yayinlari, 1900), 163, https://www.yapikrediyayinlari.com.tr/yazarlar/mahmud-nedim-bin-tosun.
+[^9]: Mahmud Nedim bin Tosun, _Aşçıbaşı – Bir Osmanlı Subayının Yemek Kitabı_ (Istanbul: Yapi Kredi Yayinlari, 1900), 163, [https://www.yapikrediyayinlari.com.tr/yazarlar/mahmud-nedim-bin-tosun](https://www.yapikrediyayinlari.com.tr/yazarlar/mahmud-nedim-bin-tosun).
 
 
-[^10]: “Krustadjärn,” Mölndals stadsmuseum, last updated 21 November 2017, https://digitaltmuseum.se/011024607964/krustadjarn.
+[^10]: “Krustadjärn,” Mölndals stadsmuseum, last updated 21 November 2017, [https://digitaltmuseum.se/011024607964/krustadjarn](https://digitaltmuseum.se/011024607964/krustadjarn).
 
 
 
@@ -127,7 +127,7 @@ Their intense umami savour hums a deep oceanic bass note under the bamboo lobste
 [^11]: Fannie Merritt Farmer, _The Boston Cooking-School Cookbook_ (United States: Little, Brown and Company, 1896), 314, Michigan State University,&nbsp; https://n2t.net/ark:/85335/m5fn15277.
 
 
-[^12]: “The Gourmet Club...,” _Singapore Free Press_, 1 April 1958, 2. (From NewspaperSG)
+[^12]: “[The Gourmet Club...](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19580401-1.2.98.7),” _Singapore Free Press_, 1 April 1958, 2. (From NewspaperSG)
 
 
 [^13]: “Poh Piah Skin Surprise,” _New Nation_, 19 January 1978, 13. (From NewspaperSG)
