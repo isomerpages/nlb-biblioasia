@@ -19,6 +19,9 @@ Its earliest mention in local media was in the _Straits Times_ on 7 March 1954. 
 
 Its name was certainly not yet standardised – variant spellings like “paitee”, “pieti” and “paiti” appeared in local media until well into the 2000s – but one particular variant was common. Susie Hing’s 1956 cookbook, _In a Malayan Kitchen_, bears her recipe for “Kroket Tjanker (Java Kwei Patti)”.[^3] Local cooking teacher Chan Sow Lin gave the dish no fewer than four names in her 1960 _Chinese Party Book_, titling her recipe “Top Hats – Chinese Meat Puffs (Hokkien cocktail party dish) (Kueh Patty)”.[^4] As late as November 1980, a _Straits Times_ advertisement for C.K. Tang department store featured a “Kueh Patti Maker” costing a princely $4.20.[^5]
 
+![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kueh_malayankitchen.jpg)
+<div style="background-color: white;">Susie Hing’s 1956 cookbook, <i>In a Malayan Kitchen</i>, includes her recipe for “Kroket Tjanker <i>(Java Kwei Patti)</i>”. <i> Image reproduced from Susie Hing, In a Malayan Kitchen (Singapore: Mun Seong Press, 1956), 83. (From National Library, Singapore, call no. RCLOS 641.59595 HIN-[RFL]). </i></div>
+
 ![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kueh_meatpuffs.jpg)
 <div style="background-color: white;"> Chan Sow Lin’s recipe, “Top Hats – Chinese Meat Puffs (Hokkien cocktail party dish) (Kueh Patty)”, uses a wheat-free batter and a simple stir-fried filling. <i> Image reproduced from Chan Sow Lin, Chinese Party Book, 2nd ed.&nbsp; (S.l.: s.n., 1960), 27. Courtesy of Christopher Tan. </i></div>
 
