@@ -73,6 +73,10 @@ In a booklet dating back to the 1939 New York World’s Fair published by the Se
 
 Similarly archetypal renditions did survive in some of Singapore’s Western restaurants up until the 1990s. For instance, patty shells filled with chicken and mushrooms in white wine sauce were offered at Novotel Orchid Inn Hotel’s Wienerwald restaurant in 1983, while in 1992, The Ship served shells cradling chicken à la King.[^18]
 
+![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kueh_creamedshrimp.jpg)
+<div style="background-color: white;">  <i>Kueh pie tee</i> shells stored in a biscuit tin, as they traditionally would be.  <i>Courtesy of Christopher Tan. </i></div>
+
+
 #### **A Vase Difference**
 
 However, as is often the case in food heritage, there is another side to the story. Khir Johari, food scholar and author of the award-winning book, _The Food of Singapore Malays_, schooled me about the Malay incarnation of _pie tee_ – _kuih jambang_ (flower vase _kuih_). According to him, Malay _kuih jambang_ “filling was always _daging_ \[beef\], which was reserved for special occasions, as people were mostly pescatarian then”. It was spiced with garlic, ginger, galangal and coriander seeds, and the filled shell decorated with “celery, carrot, pennywort, chives, spring onions and red chilli ‘flowers’, so it really looked like a vase. This is what I remember”.[^19]
@@ -89,8 +93,13 @@ Khir remembers a 78-year-old Malay doyenne telling him about her grandma making 
 
 His conclusion is borne out by recipes in vintage cookery texts from Indonesia. In the iconic cookbook _Pandai Masak 1_ by hallowed Javanese cookery writer and restaurateur Julie Sutardjana, also known as “Nyonya Rumah”, there is a chapter titled “Masakan Eropah” (European Cooking).[^23] It contains Dutch-named recipes for “frituurtjes” (fritters) filled with “ragout” (stew) – _pie tee_ shells holding chicken, prawn and beef tongue in a cream sauce. A similar ragout fills Susie Hing’s Java Kwei Patti.[^24]
 
-![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kueh_swedish.jpg)
+![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kueh_pandaimasak.jpg)
 <div style="background-color: white;"> The iconic cookbook <i>Pandai Masak 1</i> by Julie Sutardjana contains Dutch-named recipes for pie tee shells containing chicken, prawn and beef tongue in a cream sauce.  <i>Courtesy of Chrisopher Tan.</i></div>
+
+
+![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kueh_frituurtjes.jpg)
+<div style="background-color: white;">  Julie Sutardjana’s recipes for “frituurtjes” (fritters) filled with “ragout” (stew) – <i>pie tee</i> shells holding chicken, prawn and beef tongue in a cream sauce.  <i> Image reproduced from Nyonya Rumah (Julie Sutardjana), Pandai Masak Book 1, 16th ed. (Djakarta: P.T. Kinta, 1975), 66. Courtesy of Chrisopher Tan.
+</i></div>
 
 From illustrations in a later edition by Sutardjana and in Hing’s book, we can deduce that they both used the same type of mould – a fluted thin metal cup with a thin rod handle. Much lighter than American irons, this would have been easier and less expensive to manufacture and thus more accessible to Indonesian home cooks.&nbsp;
 
