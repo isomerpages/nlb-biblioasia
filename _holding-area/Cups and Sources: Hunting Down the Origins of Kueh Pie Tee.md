@@ -45,7 +45,7 @@ Cup shapes also evolved, and here is our first link to _kueh pie tee_: antique _
 <div style="background-color: white;"> Fannie Farmer’s “Swedish timbale irons” with fluted cups in round, oval, heart and diamond shapes.  <i>Image reproduced from Fannie Merritt Farmer, The Boston Cooking-School Cookbook (United States: Little, Brown and Company, 1896), 314. Courtesy of Christopher Tan.</i></div>
 
 ![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kueh_antiquemould.jpg)
-<div style="background-color: white;">  An antique local kueh pie tee mould. <i>Courtesy of Christopher Tan. </i></div>
+<div style="background-color: white;">  An antique local <i>kueh pie tee</i> mould. <i>Courtesy of Christopher Tan. </i></div>
 
 #### **American Pie… Tee?**
 
@@ -175,7 +175,7 @@ Their intense umami savour hums a deep oceanic bass note under the bamboo lobste
 
 
 
-[^11]: Fannie Merritt Farmer, _The Boston Cooking-School Cookbook_ (United States: Little, Brown and Company, 1896), 314, Michigan State University,&nbsp; https://n2t.net/ark:/85335/m5fn15277.
+[^11]: Fannie Merritt Farmer, _The Boston Cooking-School Cookbook_ (United States: Little, Brown and Company, 1896), 314, Michigan State University,&nbsp; [https://n2t.net/ark:/85335/m5fn15277](https://n2t.net/ark:/85335/m5fn15277).
 
 
 [^12]: “[The Gourmet Club...](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19580401-1.2.98.7),” _Singapore Free Press_, 1 April 1958, 2. (From NewspaperSG)
