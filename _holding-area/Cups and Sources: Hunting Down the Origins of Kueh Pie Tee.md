@@ -6,3 +6,6 @@ description: Kueh pie tee is a fixture of classic Singaporean cooking, yet its
   identity has the shape of an enigma, filled with mystery and garnished with
   riddles.
 ---
+#### _Kueh pie tee_ is a fixture of classic Singaporean cooking, yet its identity has the shape of an enigma, filled with mystery and garnished with riddles. 
+
+By Christopher Tan
