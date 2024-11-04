@@ -19,7 +19,7 @@ Its name was certainly not yet standardised – variant spellings like “paitee
 
 As it turns out, this alternative moniker – “patti” or “patty” – is a major clue to _kueh pie tee_’s origin.
 
-World Cups
+#### **World Cups**
 
 The technique of dipping preheated metal moulds in batter and then into hot oil, so that the adhered batter firms up into a defined shape and eventually releases to float free, is both very old and very widespread. Its earliest mention in any cookery text dates to 1570, in chef Bartolomeo Scappi’s _Opera dell'arte del cucinare_.6 &nbsp; &nbsp;
 
@@ -33,7 +33,7 @@ Along the way, flower shapes became the most popular motifs, as seen in many loc
 
 Cup shapes also evolved, and here is our first link to _kueh pie tee_: antique _krustadjärn_ fritter irons found in Swedish museums are identical to vintage _pie tee_ moulds in all respects, being heavy fluted round metal cups mounted on steel rods with wooden handles.10
 
-American Pie… Tee?
+#### **American Pie… Tee?**
 
 In the US, such moulds were widely sold from the late 19th century onwards. A basic set typically paired a flower or geometric motif with a cup shape and a removable handle, while fancier sets ranged across a huge variety of decorative shapes. Fannie Farmer’s famous _Boston Cooking-School Cookbook_ features “Swedish timbale irons” with fluted cups in round, oval, heart and diamond shapes.11 Timbale irons later came to be more commonly called “patty irons” or “patty molds”, and the cups they fried up, “patty shells”.&nbsp;
 
@@ -209,7 +209,4 @@ Their intense umami savour hums a deep oceanic bass note under the bamboo lobste
 [^38]: 
 
 
-[^39]: 
-
-
-
+[^39]:
