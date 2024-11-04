@@ -92,19 +92,19 @@ Their intense umami savour hums a deep oceanic bass note under the bamboo lobste
 #### **Notes**
 
 
-[^1]:  Violet Oon, “Real Nonya-Style Fare – from a True Artist of the Wok…,” _Straits Times_, 27 January 1980, 15. (From NewspaperSG)
+[^1]:  Violet Oon, “[Real Nonya-Style Fare – from a True Artist of the Wok…,](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19800127-1.2.64.5.1)” _Straits Times_, 27 January 1980, 15. (From NewspaperSG)
 
 
-[^2]: Francis Wong, “Battle of the 28-Dish Makan,” _Straits Times_, 7 March 1954, 3. (From NewspaperSG)
+[^2]: Francis Wong, “[Battle of the 28-Dish Makan](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19540307-1.2.33),” _Straits Times_, 7 March 1954, 3. (From NewspaperSG)
 
 
-[^3]: Susie Hing, _In a Malayan Kitchen_ (Singapore: Mun Seong Press, 1956), 83. (From National Library, Singapore, call no. RCLOS 641.59595 HIN-\[RFL\])
+[^3]: Susie Hing, [_In a Malayan Kitchen_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4078437) (Singapore: Mun Seong Press, 1956), 83. (From National Library, Singapore, call no. RCLOS 641.59595 HIN-\[RFL\])
 
 
 [^4]: Chan Sow Lin, _Chinese Party Book_, 2nd ed.&nbsp; (S.l.: s.n., 1960), 27. Chan fries the shells in orthodox fashion, but unusually calls for a wheat-free batter and a simple stir-fried filling.&nbsp;
 
 
-[^5]: “Page 18 Advertisements Column 1: On the Second Day of Christmas, Have a Merry Cooking Spree!” _Straits Times_, 28 November 1980, 18. (From NewspaperSG)
+[^5]: “[Page 18 Advertisements Column 1: On the Second Day of Christmas, Have a Merry Cooking Spree!](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19801128-1.2.92.1)” _Straits Times_, 28 November 1980, 18. (From NewspaperSG)
 
 
 [^6]: Marc McWilliams, ed., _Food and Material Culture: Proceedings of the Oxford Symposium on Food and Cookery 2013_ (Great Britain: Prospect Books, 2014), 184; Bartolomeo Scappi, _Opera Dell’arte Del Cucinare 1570_ (Canada: University of Toronto Press, 2008), 390, http://www.ilvaresotto.it/Biblioteca/Opera\_di\_Bartolomeo\_Scappi\_M\_dell\_arte\_d.pdf.
