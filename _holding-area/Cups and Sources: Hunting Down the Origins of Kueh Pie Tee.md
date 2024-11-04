@@ -53,6 +53,9 @@ Our local newspapers also featured American-style recipes for patty shell savour
 
 In a booklet dating back to the 1939 New York World’s Fair published by the Sealtest Kitchen, a food research body serving the US dairy industry, I came across a recipe for “Creamed Shrimp and Peas in Timbale Cases”.[^17] I was able to source the same vintage patty iron pictured in the recipe photo, forged by American ironware firm Griswold. Once cleaned of rust, it flawlessly turned out pretty fluted heart cups with which I recreated the dish. The milk-based sauce bathing the shrimp and peas is textbook-typical of American patty shell fillings.
 
+![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kueh_heart.jpg)
+<div style="background-color: white;"> Frying a heart timbale case using the Griswold heart-shaped patty iron <i>Courtesy of Christopher Tan. </i></div>
+
 Similarly archetypal renditions did survive in some of Singapore’s Western restaurants up until the 1990s. For instance, patty shells filled with chicken and mushrooms in white wine sauce were offered at Novotel Orchid Inn Hotel’s Wienerwald restaurant in 1983, while in 1992, The Ship served shells cradling chicken à la King.[^18]
 
 #### **A Vase Difference**
