@@ -140,29 +140,9 @@ Khir Johari, interview, 14 May 2024.
 
 Nyonya Rumah (Julie Sutardjana), _Pandai Masak Book 1_, 16th ed. (Djakarta: P.T. Kinta, 1975), 66. The most famous of Sutardjana’s many books, _Pandai Masak_ volumes 1 and 2 are compilations of over a decade’s worth of recipes from her newspaper cookery columns.&nbsp;
 
-Susie Hing, _In a Malayan Kitchen_, 83. Hing’s Kwei Patti filling is quite similar to what Hainanese-style chicken pies are stuffed with in Singapore and Malaysia, but this speaks to the ubiquity of white-sauced meat and vegetable collations in American and British cookery rather than to any kinship linked to the syllable “pie”.
 
-Siti Mukmin and Dahniar Jatim, _Buku Masakan Thursina_, 22nd ed. (Jakarta: Esbe Publishers, 1982), 116–18.
 
-Khir Johari, interview, 14 May 2024.
 
-Perak Catholic Centre, _The Malayan Cookbook_, 88. The book is undated but was published before 1964.
-
-Law Jia Jun, interview, 18 July 2024.
-
-Ellice Handy, _My Favourite Recipes_ (Singapore: Malaya Publishing House, 1952). (From National Library, Singapore, call no. RSING 641.595 HAN-\[JK\])
-
-Leong Yee Soo, _Singaporean Cooking_, vol. 2. (Singapore: Eastern Universities Press, 1981). (From National Library, Singapore, call no. RSING 641.595957 LEO)
-
-Yu Yoon Gee, _Nyonya Food, Satay and Padang Curry Cooking_ (Singapore: Tiger Press, 1976). (From National Library, Singapore, call no. RCLOS 641.8653 YU)
-
-Dorothy Ng, _Dorothy Ng’s Entertaining Cookbook_ (Singapore: MPH Distributors, 1979). (From National Library, Singapore, call no. RSING q641.595957 NG)
-
-Terry Tan, _Her World Cookbook of Singapore Recipes_ (Singapore: Times Periodicals, 1982). (From National Library, Singapore, call no. RSING 641.595957 TAN)
-
-“As Good as Home Cooked Nonya Food,” _New Nation_, 17 February 1978, 10–11. (From NewspaperSG)
-
-Lawrence Low and Loh Tuan Lee, “What’s Our National Dish?” _New Paper_, 8 August 1988, 16. (From NewspaperSG)
 
 
 
@@ -235,41 +215,41 @@ Lawrence Low and Loh Tuan Lee, “What’s Our National Dish?” _New Paper_, 8 
 [^23]: 
 
 
-[^24]: 
+[^24]: Susie Hing, _In a Malayan Kitchen_, 83. Hing’s Kwei Patti filling is quite similar to what Hainanese-style chicken pies are stuffed with in Singapore and Malaysia, but this speaks to the ubiquity of white-sauced meat and vegetable collations in American and British cookery rather than to any kinship linked to the syllable “pie”.
 
 
-[^25]: 
+[^25]: Siti Mukmin and Dahniar Jatim, _Buku Masakan Thursina_, 22nd ed. (Jakarta: Esbe Publishers, 1982), 116–18.
 
 
-[^26]: 
+[^26]: Khir Johari, interview, 14 May 2024.
 
 
-[^27]: 
+[^27]: Perak Catholic Centre, _The Malayan Cookbook_, 88. The book is undated but was published before 1964.
 
 
-[^28]: 
+[^28]: Law Jia Jun, interview, 18 July 2024.
 
 
-[^29]: 
+[^29]: Ellice Handy, _My Favourite Recipes_ (Singapore: Malaya Publishing House, 1952). (From National Library, Singapore, call no. RSING 641.595 HAN-\[JK\])
 
 
-[^30]:
+[^30]:Leong Yee Soo, _Singaporean Cooking_, vol. 2. (Singapore: Eastern Universities Press, 1981). (From National Library, Singapore, call no. RSING 641.595957 LEO)
 
 
 
-[^31]: 
+[^31]: Yu Yoon Gee, _Nyonya Food, Satay and Padang Curry Cooking_ (Singapore: Tiger Press, 1976). (From National Library, Singapore, call no. RCLOS 641.8653 YU)
 
 
-[^32]: 
+[^32]: Dorothy Ng, _Dorothy Ng’s Entertaining Cookbook_ (Singapore: MPH Distributors, 1979). (From National Library, Singapore, call no. RSING q641.595957 NG)
 
 
-[^33]: 
+[^33]: Terry Tan, _Her World Cookbook of Singapore Recipes_ (Singapore: Times Periodicals, 1982). (From National Library, Singapore, call no. RSING 641.595957 TAN)
 
 
-[^34]: 
+[^34]: “As Good as Home Cooked Nonya Food,” _New Nation_, 17 February 1978, 10–11. (From NewspaperSG)
 
 
-[^35]: 
+[^35]: Lawrence Low and Loh Tuan Lee, “What’s Our National Dish?” _New Paper_, 8 August 1988, 16. (From NewspaperSG)
 
 
 [^36]: Cúán Greene, “I Dropped the Croustade, _Omos Digest #87_, 19 March 2023, https://omos.substack.com/p/omos-digest-coustade-pastry.
