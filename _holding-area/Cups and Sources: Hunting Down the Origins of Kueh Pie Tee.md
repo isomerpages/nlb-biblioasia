@@ -92,127 +92,74 @@ Their intense umami savour hums a deep oceanic bass note under the bamboo lobste
 #### **Notes**
 
 
-[^1]:     p.p1 {margin: 0.0px 0.0px 0.0px 9.9px; text-indent: -9.9px; line-height: 8.5px; font: 7.0px Calibri} span.s1 {letter-spacing: -0.3px} span.s2 {letter-spacing: -0.1px} span.s3 {letter-spacing: -0.5px} span.s4 {letter-spacing: -0.4px}
+[^1]:  Violet Oon, “Real Nonya-Style Fare – from a True Artist of the Wok…,” _Straits Times_, 27 January 1980, 15. (From NewspaperSG)
 
-Violet Oon, “Real Nonya-Style Fare – from a True Artist of the Wok…,” _Straits Times_, 27 January 1980, 15. (From NewspaperSG)
 
-Francis Wong, “Battle of the 28-Dish Makan,” _Straits Times_, 7 March 1954, 3. (From NewspaperSG)
+[^2]: Francis Wong, “Battle of the 28-Dish Makan,” _Straits Times_, 7 March 1954, 3. (From NewspaperSG)
 
-Susie Hing, _In a Malayan Kitchen_ (Singapore: Mun Seong Press, 1956), 83. (From National Library, Singapore, call no. RCLOS 641.59595 HIN-\[RFL\])
 
-Chan Sow Lin, _Chinese Party Book_, 2nd ed.&nbsp; (S.l.: s.n., 1960), 27. Chan fries the shells in orthodox fashion, but unusually calls for a wheat-free batter and a simple stir-fried filling.&nbsp;
+[^3]: Susie Hing, _In a Malayan Kitchen_ (Singapore: Mun Seong Press, 1956), 83. (From National Library, Singapore, call no. RCLOS 641.59595 HIN-\[RFL\])
 
-“Page 18 Advertisements Column 1: On the Second Day of Christmas, Have a Merry Cooking Spree!” _Straits Times_, 28 November 1980, 18. (From NewspaperSG)
 
-Marc McWilliams, ed., _Food and Material Culture: Proceedings of the Oxford Symposium on Food and Cookery 2013_ (Great Britain: Prospect Books, 2014), 184; Bartolomeo Scappi, _Opera Dell’arte Del Cucinare 1570_ (Canada: University of Toronto Press, 2008), 390, http://www.ilvaresotto.it/Biblioteca/Opera\_di\_Bartolomeo\_Scappi\_M\_dell\_arte\_d.pdf.
+[^4]: Chan Sow Lin, _Chinese Party Book_, 2nd ed.&nbsp; (S.l.: s.n., 1960), 27. Chan fries the shells in orthodox fashion, but unusually calls for a wheat-free batter and a simple stir-fried filling.&nbsp;
 
-Scappi, _Opera Dell’arte Del Cucinare 1570_, 372.&nbsp;
 
-Priscilla Mary Işın, “Moulds for Shaping and Decorating Food in Turkey,” in _Food and Material Culture: Proceedings of the Oxford Symposium on Food and Cookery 2013_, ed. Marc McWilliams (Great Britain: Prospect Books, 2014), 184, https://books.google.com.sg/books?id=yj8QDgAAQBAJ. In this essay, Işın also remarks on the moulds’ “remarkable resemblance” to livestock branding irons, unique to each family too.
+[^5]: “Page 18 Advertisements Column 1: On the Second Day of Christmas, Have a Merry Cooking Spree!” _Straits Times_, 28 November 1980, 18. (From NewspaperSG)
 
-Mahmud Nedim bin Tosun, _Aşçıbaşı – Bir Osmanlı Subayının Yemek Kitabı_ (Istanbul: Yapi Kredi Yayinlari, 1900), 163, https://www.yapikrediyayinlari.com.tr/yazarlar/mahmud-nedim-bin-tosun.
 
-“Krustadjärn,” Mölndals stadsmuseum, last updated 21 November 2017, https://digitaltmuseum.se/011024607964/krustadjarn.
+[^6]: Marc McWilliams, ed., _Food and Material Culture: Proceedings of the Oxford Symposium on Food and Cookery 2013_ (Great Britain: Prospect Books, 2014), 184; Bartolomeo Scappi, _Opera Dell’arte Del Cucinare 1570_ (Canada: University of Toronto Press, 2008), 390, http://www.ilvaresotto.it/Biblioteca/Opera\_di\_Bartolomeo\_Scappi\_M\_dell\_arte\_d.pdf.
 
-Fannie Merritt Farmer, _The Boston Cooking-School Cookbook_ (United States: Little, Brown and Company, 1896), 314, Michigan State University,&nbsp; https://n2t.net/ark:/85335/m5fn15277.
 
-“The Gourmet Club...,” _Singapore Free Press_, 1 April 1958, 2. (From NewspaperSG)
+[^7]: Scappi, _Opera Dell’arte Del Cucinare 1570_, 372.&nbsp;
 
-“Poh Piah Skin Surprise,” _New Nation_, 19 January 1978, 13. (From NewspaperSG)
 
-“The Y.W.C.A.” _Straits Times_, 11 October 1913, 8. (From NewspaperSG)
+[^8]: Priscilla Mary Işın, “Moulds for Shaping and Decorating Food in Turkey,” in _Food and Material Culture: Proceedings of the Oxford Symposium on Food and Cookery 2013_, ed. Marc McWilliams (Great Britain: Prospect Books, 2014), 184, https://books.google.com.sg/books?id=yj8QDgAAQBAJ. In this essay, Işın also remarks on the moulds’ “remarkable resemblance” to livestock branding irons, unique to each family too.
 
-A.E. Llewellyn, ed., _The Y.W.C.A. International Cookery Book of Malaya_ (Singapore: Malayan Committee of the Y.W.C.A., 1948), 178. (From National Library, Singapore, call no. RCLOS 641.59595 YWC). The pattie shell recipe appeared in the 1932 first edition and several editions thereafter.
 
-“Serve Fish Dishes for the Family Luncheons,” _Morning Tribune_, 6 January 1937, 16. (From NewspaperSG)
+[^9]: Mahmud Nedim bin Tosun, _Aşçıbaşı – Bir Osmanlı Subayının Yemek Kitabı_ (Istanbul: Yapi Kredi Yayinlari, 1900), 163, https://www.yapikrediyayinlari.com.tr/yazarlar/mahmud-nedim-bin-tosun.
 
-Sealtest Inc., _Sealtest Kitchen Recipes: World’s Fair Edition_ (New York: Sealtest Inc., 1939), 37. &nbsp;
 
-“Roti John, Our Burger Version,” _Straits Times_, 10 April 1983, 10; “Page 19 Advertisements Column 1: Our U.S. Chicken Specials Are Really Something to Crow About,” _Straits Times_, 16 October 1992, 19. (From NewspaperSG)
+[^10]: “Krustadjärn,” Mölndals stadsmuseum, last updated 21 November 2017, https://digitaltmuseum.se/011024607964/krustadjarn.
 
-Khir Johari, interview, 14 May 2024.
 
-Khir Johari, interview, 14 May 2024.
 
-Khir Johari, interview, 14 May 2024.
 
-Khir Johari, interview, 14 May 2024.
+[^11]: Fannie Merritt Farmer, _The Boston Cooking-School Cookbook_ (United States: Little, Brown and Company, 1896), 314, Michigan State University,&nbsp; https://n2t.net/ark:/85335/m5fn15277.
 
-Nyonya Rumah (Julie Sutardjana), _Pandai Masak Book 1_, 16th ed. (Djakarta: P.T. Kinta, 1975), 66. The most famous of Sutardjana’s many books, _Pandai Masak_ volumes 1 and 2 are compilations of over a decade’s worth of recipes from her newspaper cookery columns.&nbsp;
 
+[^12]: “The Gourmet Club...,” _Singapore Free Press_, 1 April 1958, 2. (From NewspaperSG)
 
 
+[^13]: “Poh Piah Skin Surprise,” _New Nation_, 19 January 1978, 13. (From NewspaperSG)
 
 
+[^14]: “The Y.W.C.A.” _Straits Times_, 11 October 1913, 8. (From NewspaperSG)
 
 
+[^15]: A.E. Llewellyn, ed., _The Y.W.C.A. International Cookery Book of Malaya_ (Singapore: Malayan Committee of the Y.W.C.A., 1948), 178. (From National Library, Singapore, call no. RCLOS 641.59595 YWC). The pattie shell recipe appeared in the 1932 first edition and several editions thereafter.
 
-[^2]: 
 
+[^16]: “Serve Fish Dishes for the Family Luncheons,” _Morning Tribune_, 6 January 1937, 16. (From NewspaperSG)
 
-[^3]: 
 
+[^17]: Sealtest Inc., _Sealtest Kitchen Recipes: World’s Fair Edition_ (New York: Sealtest Inc., 1939), 37. &nbsp;
 
-[^4]: 
+[^18]: “Roti John, Our Burger Version,” _Straits Times_, 10 April 1983, 10; “Page 19 Advertisements Column 1: Our U.S. Chicken Specials Are Really Something to Crow About,” _Straits Times_, 16 October 1992, 19. (From NewspaperSG)
 
 
-[^5]: 
+[^19]: Khir Johari, interview, 14 May 2024.
 
 
-[^6]: 
+[^20]: Khir Johari, interview, 14 May 2024.
 
 
-[^7]: 
+[^21]: Khir Johari, interview, 14 May 2024.
 
 
-[^8]: 
+[^22]: Khir Johari, interview, 14 May 2024.
 
 
-[^9]: 
-
-
-[^10]: 
-
-
-
-[^11]: 
-
-
-[^12]: 
-
-
-[^13]: 
-
-
-[^14]: 
-
-
-[^15]: 
-
-
-[^16]: 
-
-
-[^17]: 
-
-
-[^18]: 
-
-
-[^19]: 
-
-
-[^20]: 
-
-
-
-[^21]: 
-
-
-[^22]: 
-
-
-[^23]: 
+[^23]: Nyonya Rumah (Julie Sutardjana), _Pandai Masak Book 1_, 16th ed. (Djakarta: P.T. Kinta, 1975), 66. The most famous of Sutardjana’s many books, _Pandai Masak_ volumes 1 and 2 are compilations of over a decade’s worth of recipes from her newspaper cookery columns.&nbsp;
 
 
 [^24]: Susie Hing, _In a Malayan Kitchen_, 83. Hing’s Kwei Patti filling is quite similar to what Hainanese-style chicken pies are stuffed with in Singapore and Malaysia, but this speaks to the ubiquity of white-sauced meat and vegetable collations in American and British cookery rather than to any kinship linked to the syllable “pie”.
