@@ -45,7 +45,7 @@ This Hokkien _chingay_ seemed to have developed into an event held every three y
 
 In the 2006 book about Thian Hock Keng, _The Guardian of the South Seas_, there is an excellent description of the 1901 procession inviting the Tua Pek Kong (大伯公) of Heng San Ting, Guangze Zunwang (广泽尊王) of Hong San See and Qingshui Zushi (清水祖师) of Kim Lan Beo (all Hokkien temples) to Thian Hock Keng for Chinese opera on the 8th day of the 10th lunar month and the return to their respective temples on the 4th day of the 12th lunar month:
 
-"The invitational procession began from the back of the Thian Hock Keng, and followed a designated route to the sounds of drums and gongs to Heng San Ting on Silat Road, Hong San See on Peck Seah Street, and Kim Lan Beo Temple on Narcis Street to pick up the three deities. After being “guests” for nearly two months at the Thian Hock Keng, the three gods were escorted back to their temples... The various representatives of the five streets prepared pavilions, drums and gongs, cavalry, and flags to enliven the atmosphere. There were lion dances as well. Groups also acted out various characters in folk tales such as The Eight Immortals Crossing the Ocean, Flooding of Jinshan Temple, and Wang Zhaojun's Mission to the Frontier."[^5]
+"The invitational procession began from the back of the Thian Hock Keng, and followed a designated route to the sounds of drums and gongs to Heng San Ting on Silat Road, Hong San See on Peck Seah Street, and Kim Lan Beo Temple on Narcis Street to pick up the three deities. After being 'guests' for nearly two months at the Thian Hock Keng, the three gods were escorted back to their temples... The various representatives of the five streets prepared pavilions, drums and gongs, cavalry, and flags to enliven the atmosphere. There were lion dances as well. Groups also acted out various characters in folk tales such as The Eight Immortals Crossing the Ocean, Flooding of Jinshan Temple, and Wang Zhaojun's Mission to the Frontier."[^5]
 
 #### **Rival Chingay Processions**
 
@@ -55,7 +55,7 @@ Lim How Seng discusses this rivalry in his chapter, “Social Structure and Bang
 
 The press picked up on the procession’s role as a uniting mechanism. In November 1897, the _Mid-Day Herald and Daily Advertiser_ observed:
 
-"The occasion has been termed “chingay day,” in rough parlance, but otherwise it is known as the celebration attending the removal of one patron saint from one temple to another. It consists of usual feasting and rejoicing, and organising a huge procession through the town. It is said moreover, to be a cementing of old friendships, the patching up of those little disaffections which usually accompany caste differences in the East. It is the meeting of the clans, and a time when the Teochews, Kehs, Cantonese and Hylams, assemble together and congratulate each other."[^7]
+"The occasion has been termed 'chingay day,' in rough parlance, but otherwise it is known as the celebration attending the removal of one patron saint from one temple to another. It consists of usual feasting and rejoicing, and organising a huge procession through the town. It is said moreover, to be a cementing of old friendships, the patching up of those little disaffections which usually accompany caste differences in the East. It is the meeting of the clans, and a time when the Teochews, Kehs, Cantonese and Hylams, assemble together and congratulate each other."[^7]
 
 It is also one of those occasions where “processional cars” were first used, as described by the _Straits Times Weekly Issue_ in 1887: “The procession was fortunate in getting magnificent weather, and there was no fear of rain coming down, so that the most gorgeous of silk banners and silk embroidered dresses and splendid processional cars were brought out to enhance the grandeur of the procession.”[^8] In this context, “cars” meant a wheeled vehicle. (The first motor car arrived in Singapore only in 1896,[^9] and the contraction of “motor car” to just “car” happened much later when the motor car became an everyday occurrence.)
 
@@ -118,7 +118,7 @@ The first Chingay Parade with the float procession as we know it was staged on 4
 
 #### **Notes**
 
-[^1]: Carstairs Douglas, [_Chinese-English Dictionary of the Vernacular or Spoken Language of Amoy, with the Principal Variations of the Chang-Chew and Chin-Chew Dialects_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4346061), (London: Trubner, 1873), 104–105, 579. (From National Library, Singapore, call no. RCLOS 495.17321 DOU-\[LYF\])
+[^1]: Carstairs Douglas, [_Chinese-English Dictionary of the Vernacular or Spoken Language of Amoy, with the Principal Variations of the Chang-Chew and Chin-Chew Dialects_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4346061) (London: Trubner, 1873), 104–105, 579. (From National Library, Singapore, call no. RCLOS 495.17321 DOU-\[LYF\])
 
 
 [^2]: Lu Xun, [朝花夕拾= _Dawn Blossoms Plucked at Dusk_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202698087), trans. Yang Xianyi and Gladys Yang (Beijing: Foreign Languages Press, 2000), 79. (From National Library, Singapore, call no. C814.3 LX) (eBook editions are available on NLB OverDrive)
@@ -133,7 +133,7 @@ The first Chingay Parade with the float procession as we know it was staged on 4
 [^5]: [_Guardian of the South Seas: Thian Hock Keng and the Hokkien Huay Kuan_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12806839) (Singapore: Singapore Hokkien Huay Kuan, 2006), 42. (From National Library, Singapore, call no. RSING 369.25957 GUA)
 
 
-[^6]: Lim How Seng, “Social Structure and Bang Interactions,” in [_A General History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203868804), ed. Kwa Chong Guan and Kua Bak Lim, (Singapore: Singapore Federation of Chinese Clan Associations &amp; World Scientific, 2019), 122. (From National Library, Singapore, call no. RSING 305.895105957 GEN)
+[^6]: Lim How Seng, “Social Structure and Bang Interactions,” in [_A General History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203868804) ed. Kwa Chong Guan and Kua Bak Lim, (Singapore: Singapore Federation of Chinese Clan Associations &amp; World Scientific, 2019), 122. (From National Library, Singapore, call no. RSING 305.895105957 GEN)
 
 
 [^7]: “[A Huge Chinese Procession](https://eresources.nlb.gov.sg/newspapers/digitised/article/middayherald18971122-1.2.22),” _Mid-Day Herald and Daily Advertiser_, 22 November 1897, 3. (From NewspaperSG)
@@ -195,7 +195,7 @@ The first Chingay Parade with the float procession as we know it was staged on 4
 [^26]: “[Chingay Procession: Imposing Spectacle](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19240219-1.2.46),” _Pinang Gazette and Daily Chronicle_, 19 February 1924, 7. (From NewspaperSG)
 
 
-[^27]: “[M.A.P.](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsechomail19270219-1.2.35),” _The Straits Echo Weekly Edition_, 19 February 1927, 155. (From NewspaperSG)
+[^27]: “[M.A.P.](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsechomail19270219-1.2.35),” _Straits Echo Weekly Edition_, 19 February 1927, 155. (From NewspaperSG)
 
 
 [^28]: “[A Dreary Prospect](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19270219-1.2.39),” _Singapore Free Press_, 19 February 1927, 10. (From NewspaperSG)
