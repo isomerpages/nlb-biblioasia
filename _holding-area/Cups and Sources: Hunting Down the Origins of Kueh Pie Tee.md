@@ -47,7 +47,7 @@ In a booklet dating back to the 1939 New York World’s Fair published by the Se
 
 Similarly archetypal renditions did survive in some of Singapore’s Western restaurants up until the 1990s. For instance, patty shells filled with chicken and mushrooms in white wine sauce were offered at Novotel Orchid Inn Hotel’s Wienerwald restaurant in 1983, while in 1992, The Ship served shells cradling chicken à la King.18
 
-A Vase Difference
+#### **A Vase Difference**
 
 However, as is often the case in food heritage, there is another side to the story. Khir Johari, food scholar and author of the award-winning book, _The Food of Singapore Malays_, schooled me about the Malay incarnation of _pie tee_ – _kuih jambang_ (flower vase _kuih_). According to him, Malay _kuih jambang_ “filling was always _daging_ \[beef\], which was reserved for special occasions, as people were mostly pescatarian then”. It was spiced with garlic, ginger, galangal and coriander seeds, and the filled shell decorated with “celery, carrot, pennywort, chives, spring onions and red chilli ‘flowers’, so it really looked like a vase. This is what I remember”.19
 
@@ -65,7 +65,7 @@ Another popular 1950s cookbook, _Buku Masakan Thursina_ by domestic science teac
 
 Asian cooks also tweaked the fritter batter. To help the shells stay crispy in Southeast Asia’s humid weather, cooks would add rice flour, said Khir.26 As did other vintage formulas, a 1960s recipe in the Ipoh-published _The Malayan Cookbook_ further adds “a pinch of chunam”, which in heritage architecture jargon often means “plaster” but here refers to slaked lime paste, or _kapur sirih_; its alkalinity gives the shells more colour and crunch.27 For this same reason, Sutardjana makes her batter with _air belanda_ – “tonic water”.
 
-Peranakan Perfusion&nbsp;
+#### **Peranakan Perfusion&nbsp;**
 
 As the fillings of the two dishes are nigh identical, _kueh pie tee_ may well be a riff on, or extension of, Peranakan-style _popiah_. Law Jia Jun, the young chef-founder of Province restaurant in Joo Chiat, remembers his Teochew Peranakan grandaunt making _pie tee_ for special occasions like Chinese New Year. “She’d start by frying garlic, _haybee_ \[dried shrimp\], shallots, and then she added _taucheo_ \[salted fermented soybeans\] to fry and really intensify it before throwing in the _bangkuang_. If you don’t, she told me, ‘_bu gou wei dao_’ \[it won’t be fragrant enough\].” She garnished the _pie tee_ with coriander leaves, prawns, a vinegar chilli sauce and sweet flour sauce. “It was super fun to eat,” Law fondly described.28
 
@@ -73,7 +73,7 @@ From the 1950s to the 1980s, _pie tee_ appeared in many seminal local cookbooks 
 
 A 1978 restaurant review in the _New Nation_ describes _kueh pie tee_ as “a dish hardly ever found outside the home, and even then rarely… this is not an everyday Nonya dish”.34 Times do change, though. A decade later, when the _New Paper_ asked local chefs to nominate candidates for a “national dish”, then vice-president of the Singapore Chefs’ Association Joe Yap chose Peranakan _kueh pie tee_.35 Today, one can find the dish at Peranakan restaurants and private-dining enterprises of every stripe – from quotidian to ultra-posh – and perhaps even topped with abalone, lobster or microgreens.&nbsp;
 
-Top Shells
+#### **Top Shells**
 
 Croustade (pie crust) cups and rosettes have recently been enjoying a renaissance in fine dining in the West.36 Professional chef equipment makers in Europe are reviving old shapes and inventing new ones. While some call the cups _croustades_, a translation of the Swedish _krustad_ into kitchen French, some dub them “pie tee” outright,37 a testament to the currently modish intermingling of Nordic and Asian culinary influences – and also to how the mould genre has boomeranged around the world and back.
 
