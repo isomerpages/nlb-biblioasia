@@ -42,7 +42,7 @@ Along the way, flower shapes became the most popular motifs, as seen in many loc
 Cup shapes also evolved, and here is our first link to _kueh pie tee_: antique _krustadjärn_ fritter irons found in Swedish museums are identical to vintage _pie tee_ moulds in all respects, being heavy fluted round metal cups mounted on steel rods with wooden handles.[^10]
 
 ![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kueh_swedish.jpg)
-<div style="background-color: white;"> Fannie Farmer’s “Swedish timbale irons” with fluted cups in round, oval, heart and diamond shapes.  <i>Image reproduced from Fannie Merritt Farmer, The Boston Cooking-School Cookbook (United States: Little, Brown and Company, 1896), 314. Courtesy of Chrisopher Tan.</i></div>
+<div style="background-color: white;"> Fannie Farmer’s “Swedish timbale irons” with fluted cups in round, oval, heart and diamond shapes.  <i>Image reproduced from Fannie Merritt Farmer, The Boston Cooking-School Cookbook (United States: Little, Brown and Company, 1896), 314. Courtesy of Christopher Tan.</i></div>
 
 ![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kueh_antiquemould.jpg)
 <div style="background-color: white;">  An antique local kueh pie tee mould. <i>Courtesy of Christopher Tan. </i></div>
@@ -97,11 +97,11 @@ Khir remembers a 78-year-old Malay doyenne telling him about her grandma making 
 His conclusion is borne out by recipes in vintage cookery texts from Indonesia. In the iconic cookbook _Pandai Masak 1_ by hallowed Javanese cookery writer and restaurateur Julie Sutardjana, also known as “Nyonya Rumah”, there is a chapter titled “Masakan Eropah” (European Cooking).[^23] It contains Dutch-named recipes for “frituurtjes” (fritters) filled with “ragout” (stew) – _pie tee_ shells holding chicken, prawn and beef tongue in a cream sauce. A similar ragout fills Susie Hing’s Java Kwei Patti.[^24]
 
 ![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kueh_pandaimasak.jpg)
-<div style="background-color: white;"> The iconic cookbook <i>Pandai Masak 1</i> by Julie Sutardjana contains Dutch-named recipes for pie tee shells containing chicken, prawn and beef tongue in a cream sauce.  <i>Courtesy of Chrisopher Tan.</i></div>
+<div style="background-color: white;"> The iconic cookbook <i>Pandai Masak 1</i> by Julie Sutardjana contains Dutch-named recipes for pie tee shells containing chicken, prawn and beef tongue in a cream sauce.  <i>Courtesy of Christopher Tan.</i></div>
 
 
 ![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kueh_frituurtjes.jpg)
-<div style="background-color: white;">  Julie Sutardjana’s recipes for “frituurtjes” (fritters) filled with “ragout” (stew) – <i>pie tee</i> shells holding chicken, prawn and beef tongue in a cream sauce.  <i> Image reproduced from Nyonya Rumah (Julie Sutardjana), Pandai Masak Book 1, 16th ed. (Djakarta: P.T. Kinta, 1975), 66. Courtesy of Chrisopher Tan.
+<div style="background-color: white;">  Julie Sutardjana’s recipes for “frituurtjes” (fritters) filled with “ragout” (stew) – <i>pie tee</i> shells holding chicken, prawn and beef tongue in a cream sauce.  <i> Image reproduced from Nyonya Rumah (Julie Sutardjana), Pandai Masak Book 1, 16th ed. (Djakarta: P.T. Kinta, 1975), 66. Courtesy of Christopher Tan.
 </i></div>
 
 From illustrations in a later edition by Sutardjana and in Hing’s book, we can deduce that they both used the same type of mould – a fluted thin metal cup with a thin rod handle. Much lighter than American irons, this would have been easier and less expensive to manufacture and thus more accessible to Indonesian home cooks.&nbsp;
