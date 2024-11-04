@@ -133,7 +133,7 @@ The first Chingay Parade with the float procession as we know it was staged on 4
 [^5]: [_Guardian of the South Seas: Thian Hock Keng and the Hokkien Huay Kuan_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12806839) (Singapore: Singapore Hokkien Huay Kuan, 2006), 42. (From National Library, Singapore, call no. RSING 369.25957 GUA)
 
 
-[^6]: Lim How Seng, “Social Structure and Bang Interactions,” in [_A General History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203868804) ed. Kwa Chong Guan and Kua Bak Lim, (Singapore: Singapore Federation of Chinese Clan Associations &amp; World Scientific, 2019), 122. (From National Library, Singapore, call no. RSING 305.895105957 GEN)
+[^6]: Lim How Seng, “Social Structure and Bang Interactions,” in [_A General History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203868804) ed. Kwa Chong Guan and Kua Bak Lim (Singapore: Singapore Federation of Chinese Clan Associations &amp; World Scientific, 2019), 122. (From National Library, Singapore, call no. RSING 305.895105957 GEN)
 
 
 [^7]: “[A Huge Chinese Procession](https://eresources.nlb.gov.sg/newspapers/digitised/article/middayherald18971122-1.2.22),” _Mid-Day Herald and Daily Advertiser_, 22 November 1897, 3. (From NewspaperSG)
