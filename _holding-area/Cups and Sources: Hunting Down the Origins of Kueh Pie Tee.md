@@ -65,6 +65,9 @@ In a booklet dating back to the 1939 New York World’s Fair published by the Se
 ![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kueh_heart.jpg)
 <div style="background-color: white;"> Frying a heart timbale case using the Griswold heart-shaped patty iron. <i>Courtesy of Christopher Tan. </i></div>
 
+![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kueh_creamedshrimp.jpg)
+<div style="background-color: white;"> Christopher Tan’s recreation of Sealtest Kitchen’s creamed shrimp and peas in timbale case <i>Courtesy of Christopher Tan. </i></div>
+
 Similarly archetypal renditions did survive in some of Singapore’s Western restaurants up until the 1990s. For instance, patty shells filled with chicken and mushrooms in white wine sauce were offered at Novotel Orchid Inn Hotel’s Wienerwald restaurant in 1983, while in 1992, The Ship served shells cradling chicken à la King.[^18]
 
 #### **A Vase Difference**
