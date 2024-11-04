@@ -195,7 +195,7 @@ Their intense umami savour hums a deep oceanic bass note under the bamboo lobste
 
 [^17]: Sealtest Inc., _Sealtest Kitchen Recipes: World’s Fair Edition_ (New York: Sealtest Inc., 1939), 37. &nbsp;
 
-[^18]: “[Roti John, Our Burger Version](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19830410-1.2.113.7.2),” _Straits Times_, 10 April 1983, 10; “[Page 19 Advertisements Column 1: Our U.S. Chicken Specials Are Really Something to Crow About](),” _Straits Times_, 16 October 1992, 19. (From NewspaperSG)
+[^18]: “[Roti John, Our Burger Version](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19830410-1.2.113.7.2),” _Straits Times_, 10 April 1983, 10; “[Page 19 Advertisements Column 1: Our U.S. Chicken Specials Are Really Something to Crow About](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19921016-1.2.86.1),” _Straits Times_, 16 October 1992, 19. (From NewspaperSG)
 
 
 [^19]: Khir Johari, interview, 14 May 2024.
