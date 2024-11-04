@@ -111,9 +111,15 @@ Asian cooks also tweaked the fritter batter. To help the shells stay crispy in S
 
 As the fillings of the two dishes are nigh identical, _kueh pie tee_ may well be a riff on, or extension of, Peranakan-style _popiah_. Law Jia Jun, the young chef-founder of Province restaurant in Joo Chiat, remembers his Teochew Peranakan grandaunt making _pie tee_ for special occasions like Chinese New Year. “She’d start by frying garlic, _haybee_ \[dried shrimp\], shallots, and then she added _taucheo_ \[salted fermented soybeans\] to fry and really intensify it before throwing in the _bangkuang_. If you don’t, she told me, ‘_bu gou wei dao_’ \[it won’t be fragrant enough\].” She garnished the _pie tee_ with coriander leaves, prawns, a vinegar chilli sauce and sweet flour sauce. “It was super fun to eat,” Law fondly described.[^28]
 
+![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kueh_lawjia.jpg)
+<div style="background-color: white;">  Law Jia Jun, chef-founder of Province restaurant, plating his lobster croustade cups. <i>Courtesy of Christopher Tan. </i></div>
+
 From the 1950s to the 1980s, _pie tee_ appeared in many seminal local cookbooks featuring Peranakan recipes as well as Western-influenced local dishes. Among these are Ellice Handy’s _My Favourite Recipes_,[^29] Mrs Leong Yee Soo’s _Singaporean Cooking_,[^30] Yu Yoon Gee’s _Nyonya Food, Satay and Padang Curry Cooking_,[^31] Dorothy Ng’s _Entertaining Cookbook_[^32] and Terry Tan’s _Her World Cookbook of Singapore Recipes_.[^33] Their _pie tee_ recipes all adhere to a classic filling template of _bangkuang_ and bamboo shoots braised with garlic, _taucheo_, and a pork and seafood stock.
 
 A 1978 restaurant review in the _New Nation_ describes _kueh pie tee_ as “a dish hardly ever found outside the home, and even then rarely… this is not an everyday Nonya dish”.[^34] Times do change, though. A decade later, when the _New Paper_ asked local chefs to nominate candidates for a “national dish”, then vice-president of the Singapore Chefs’ Association Joe Yap chose Peranakan _kueh pie tee_.[^35] Today, one can find the dish at Peranakan restaurants and private-dining enterprises of every stripe – from quotidian to ultra-posh – and perhaps even topped with abalone, lobster or microgreens.&nbsp;
+
+![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kueh_croustade.jpg)
+<div style="background-color: white;">  Law Jia Jun’s lobster croustade cup. The jet-black shell is the result of adding dehydrated kombu (kelp) powder and squid ink to the batter. <i>Courtesy of Christopher Tan. </i></div>
 
 #### **Top Shells**
 
