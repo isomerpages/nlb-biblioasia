@@ -23,7 +23,7 @@ Its name was certainly not yet standardised – variant spellings like “paitee
 <div style="background-color: white;">Susie Hing’s 1956 cookbook, <i>In a Malayan Kitchen</i>, includes her recipe for “Kroket Tjanker <i>(Java Kwei Patti)</i>”. <i> Image reproduced from Susie Hing, In a Malayan Kitchen (Singapore: Mun Seong Press, 1956), 83. (From National Library, Singapore, call no. RCLOS 641.59595 HIN-[RFL]). </i></div>
 
 ![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kueh_meatpuffs.jpg)
-<div style="background-color: white;"> Chan Sow Lin’s recipe, “Top Hats – Chinese Meat Puffs (Hokkien cocktail party dish) (Kueh Patty)”, uses a wheat-free batter and a simple stir-fried filling. <i> Image reproduced from Chan Sow Lin, Chinese Party Book, 2nd ed.&nbsp; (S.l.: s.n., 1960), 27. Courtesy of Christopher Tan. </i></div>
+<div style="background-color: white;"> Chan Sow Lin’s recipe, “Top Hats – Chinese Meat Puffs (Hokkien cocktail party dish) (Kueh Patty)”, uses a wheat-free batter and a simple stir-fried filling. <i> Image reproduced from Chan Sow Lin, Chinese Party Book, 2nd ed. (S.l.: s.n., 1960), 27. Courtesy of Christopher Tan. </i></div>
 
 As it turns out, this alternative moniker – “patti” or “patty” – is a major clue to _kueh pie tee_’s origin.
 
@@ -72,11 +72,11 @@ In a booklet dating back to the 1939 New York World’s Fair published by the Se
 <div style="background-color: white;"> Frying a heart timbale case using the Griswold heart-shaped patty iron. <i>Courtesy of Christopher Tan. </i></div>
 
 ![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kueh_creamedshrimp.jpg)
-<div style="background-color: white;"> Christopher Tan’s recreation of Sealtest Kitchen’s creamed shrimp and peas in timbale case. <i>Courtesy of Christopher Tan. </i></div>
+<div style="background-color: white;"> Christopher Tan’s recreation of Sealtest Kitchen’s creamed shrimp and peas in timbale cases. <i>Courtesy of Christopher Tan. </i></div>
 
 Similarly archetypal renditions did survive in some of Singapore’s Western restaurants up until the 1990s. For instance, patty shells filled with chicken and mushrooms in white wine sauce were offered at Novotel Orchid Inn Hotel’s Wienerwald restaurant in 1983, while in 1992, The Ship served shells cradling chicken à la King.[^18]
 
-![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kueh_creamedshrimp.jpg)
+![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kueh_shells.jpg)
 <div style="background-color: white;">  <i>Kueh pie tee</i> shells stored in a biscuit tin, as they traditionally would be.  <i>Courtesy of Christopher Tan. </i></div>
 
 
