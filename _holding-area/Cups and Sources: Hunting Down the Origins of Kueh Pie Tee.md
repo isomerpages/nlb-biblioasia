@@ -66,7 +66,7 @@ In a booklet dating back to the 1939 New York World’s Fair published by the Se
 <div style="background-color: white;"> Frying a heart timbale case using the Griswold heart-shaped patty iron. <i>Courtesy of Christopher Tan. </i></div>
 
 ![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kueh_creamedshrimp.jpg)
-<div style="background-color: white;"> Christopher Tan’s recreation of Sealtest Kitchen’s creamed shrimp and peas in timbale case <i>Courtesy of Christopher Tan. </i></div>
+<div style="background-color: white;"> Christopher Tan’s recreation of Sealtest Kitchen’s creamed shrimp and peas in timbale case. <i>Courtesy of Christopher Tan. </i></div>
 
 Similarly archetypal renditions did survive in some of Singapore’s Western restaurants up until the 1990s. For instance, patty shells filled with chicken and mushrooms in white wine sauce were offered at Novotel Orchid Inn Hotel’s Wienerwald restaurant in 1983, while in 1992, The Ship served shells cradling chicken à la King.[^18]
 
@@ -75,6 +75,10 @@ Similarly archetypal renditions did survive in some of Singapore’s Western res
 However, as is often the case in food heritage, there is another side to the story. Khir Johari, food scholar and author of the award-winning book, _The Food of Singapore Malays_, schooled me about the Malay incarnation of _pie tee_ – _kuih jambang_ (flower vase _kuih_). According to him, Malay _kuih jambang_ “filling was always _daging_ \[beef\], which was reserved for special occasions, as people were mostly pescatarian then”. It was spiced with garlic, ginger, galangal and coriander seeds, and the filled shell decorated with “celery, carrot, pennywort, chives, spring onions and red chilli ‘flowers’, so it really looked like a vase. This is what I remember”.[^19]
 
 Showing me his family _kuih jambang_ moulds, Khir cited Kampong Glam and Joo Chiat as two of Singapore’s established metalsmith hubs, where many cooks sought and bought tools and kitchenware for making _kuih_ and cakes. His own smallest mould makes shells barely bigger than walnuts, which would be served to children with a chicken filling. Two larger and much heavier heart-shaped moulds are not in fact “hearts”: in Malay culture this shape is called _sirih_, after betel leaves. Another mould has a _wajik_ (diamond) shape. “So much of Malay geometry is based on rhombuses… and _wajik_ also tessellate into stars,” as evidenced in Islamic mosaic, textile and embroidery design, noted Khir, who is also a trained mathematician.[^20] Fascinatingly, his _sirih_ and _wajik_ moulds are twins of Fannie Farmer’s timbale irons.
+
+![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kueh_joharimould.jpg)
+<div style="background-color: white;"> Khir Johari’s <i>kuih jambang</i> moulds. <i>Courtesy of Christopher Tan. </i></div>
+
 
 _Kuih jambang_, a celebratory dish, was also a prized _kuih hantaran_ (betrothal _kuih_) exchanged between the families of engaged couples. Khir recalled a story shared with him by the late local singer, Kartina Dahari. When she got married, her grandmother ordered two showpiece _kuih_ for the wedding feast, one of which was _kuih jambang_. Making the filling was tasked solely to a cook locally esteemed for it, while on _jambang_ duty were a few ladies known to be “expert at _menghadap api_, or facing the fire, and at frying perfect shells without breaking them”.[^21]
 
