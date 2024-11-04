@@ -1,9 +1,9 @@
 ---
 title: "John Sturgus Bastin: A Memoir"
-permalink: /holding-area/john-sturgus-bastin-a-memoir/
+permalink: /vol-20/issue-4/jan-mar-2025/john-sturgus-bastin-a-memoir/
 variant: markdown
-description: The late Dr John Bastin was the leading authority on Stamford
-  Raffles, having published more than 20 books and many essays on Raffles.
+description: "John Sturgus Bastin: A Memoir"
+image: /images/Vol 20 Issue 4/John Sturgus Bastin/bastin_facing.jpg
 ---
 #### The late Dr John Bastin was the leading authority on Stamford Raffles, having published more than 20 books and many essays on Raffles.
 
@@ -11,13 +11,13 @@ By Kwa Chong Guan
 
 The eminent historian Dr John Sturgus Bastin (1927–2024) lived much, if not most of his life, with Thomas Stamford Raffles. His first book was based on his 1954 Leiden University doctoral dissertation on Raffles’ ideas on the land rent system in Java.[^1] His last book was on the letters that Raffles wrote to his sister Mary Ann Flint published in 2021.[^2]  Within the span of those 67 years, Bastin published some 20 other books and dozens of essays, all in one way or another relating to Raffles and his world in the British East India Company.&nbsp;
 
-![](/images/Vol%2020%20Issue%204/John%20Sturgus%20Bastin/bastin_facing.jpg)
+![](/images/Vol%2020%20Issue%204/John%20Sturgus%20Bastin/bastin_facing2.jpg)
 <div style="background-color: white;">Dr John Bastin at the launch of “Raffles’ Letters: Intrigues Behind the Founding of Singapore” exhibition at the National Library on 28 August 2012. <i>Courtesy of the National Library Board. </i></div>
+
+In addition to being a historian, Bastin was a bibliophile. He systematically collected anything and everything on Raffles and his wide interests that ranged from antiquities to natural history. The National Library of Singapore is proud and privileged to have acquired Bastin’s library of over 5,000 books relating to Raffles and Singapore/Southeast Asia in 2015. These items form part of the John Bastin Collection at the National Library.
 
 ![](/images/Vol%2020%20Issue%204/John%20Sturgus%20Bastin/bastin_latest.jpg)
 <div style="background-color: white;">Dr John Bastin’s latest book.  <i>Image from John Sturgus Bastin, The Letters of Sir Stamford Raffles to His Sister Mary Anne Flint: Together With the Letters of Lady Raffles (Singapore: National Museum of Singapore, 2021). (From National Library, Singapore, call no. RSING 959.5703092 BAS-[HIS]). </i></div>
-
-In addition to being a historian, Bastin was a bibliophile. He systematically collected anything and everything on Raffles and his wide interests that ranged from antiquities to natural history. The National Library of Singapore is proud and privileged to have acquired Bastin’s library of over 5,000 books relating to Raffles and Singapore/Southeast Asia in 2015. These items form part of the John Bastin Collection at the National Library.
 
 #### **Foundation Professor of History at the University of Malaya**
 
@@ -71,6 +71,9 @@ It would appear that for Bastin, the study of history is not about great men and
 
 Bastin’s careful transcription and editing of archival records and historical publications have helped us to achieve a deep understanding of what was in the minds of Raffles and his superiors, friends and colleagues. In these endeavours, Bastin was thoroughly objective, but not necessarily neutral as can be seen in his treatment of William Farquhar, the first resident of Singapore (1819–23), and John Crawfurd, who succeeded Farquhar as Resident (1823–26), in Bastin’s 2019 book, _Sir Stamford Raffles and Some of His Friends and Contemporaries_.[^16]
 
+![](/images/Vol%2020%20Issue%204/John%20Sturgus%20Bastin/bastin_bio.jpg)
+<div style="background-color: white;">Dr John Bastin’s “alternative” biography of Stamford Raffles. <i>Image from John Sturgus Bastin, Sir Stamford Raffles and Some of His Friends and Contemporaries: A Memoir of the Founder of Singapore (Singapore: World Scientific Publishing Co. Pte Ltd, 2019). (From National Library, Singapore, call no. RSING 959.5703092 BAS-[HIS]). </i></div>
+
 When Bastin showed me a draft of this manuscript, I looked at the contents of the book and noticed that it mentioned the Scottish poet and Orientalist John Leyden, the Danish surgeon and naturalist Nathaniel Wallich, and even Raffles’ Malay clerk John Leyden Siami. I asked Bastin why he did not include Farquhar and Crawfurd as they were contemporaries of Raffles and had worked closely with him. Bastin’s short and sharp reply to me was “they were not friends of Raffles”.&nbsp;
 
 #### **Working with Bastin**
@@ -92,9 +95,6 @@ In 2016, the library was given the opportunity to publish Bastin’s book, _The 
 Those of us at the National Museum and National Library who had the occasion to work with Bastin, as I had, found him a precise and exacting writer. He knew exactly what he wanted to say and how to say it. Editing Bastin was always a challenge.
 
 Bastin never wrote the definitive biography of Raffles which many of us expected. Instead, what Bastin left us was what he termed “an ‘alternative’ biographical account of Raffles, as seen through the lives of his friends and contemporaries”.[^20] We are delighted that Bastin chose to publish this “alternative” biography of Raffles, _Sir Stamford Raffles and Some of His Friends and Contemporaries: A Memoir of the Founder of Singapore_, in the bicentenary year of Raffles’ arrival in Singapore. &nbsp;
-
-![](/images/Vol%2020%20Issue%204/John%20Sturgus%20Bastin/bastin_bio.jpg)
-<div style="background-color: white;">Dr John Bastin’s “alternative” biography of Stamford Raffles. <i>Image from John Sturgus Bastin, Sir Stamford Raffles and Some of His Friends and Contemporaries: A Memoir of the Founder of Singapore (Singapore: World Scientific Publishing Co. Pte Ltd, 2019). (From National Library, Singapore, call no. RSING 959.5703092 BAS-[HIS]). </i></div>
 
 Bastin passed away peacefully in his home in Eastbourne on 7 August 2024, aged 97. He is survived by his wife Rita, and four children, Christopher, Jennifer, Mark and Marianne.
 
@@ -171,7 +171,7 @@ Bastin passed away peacefully in his home in Eastbourne on 7 August 2024, aged 9
 [^4]: Jacob Cornelis van Leur, [_Indonesian Trade and Society: Essays in Asian Social and Economic History; Selected Studies on Indonesia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4095644) (The Hague: Published for the Royal Tropical Institute, Amsterdam, by W. van Hoeve, 1955), 261. (From National Library, Singapore, call no. RCLOS 959.8 LEU)
 
 	
-[^5]: K.G. Tregonning, “[A New Approach to Malayan History](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19581121-1.2.92),” _Straits Times_, 21 November 1958, 8; K.G. Tregonning, “[Look At Our Story From the Inside, Not From Outside](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19581124-1.2.85),” _Straits Times_, 24 November 1958, 6. (From NewspaperSG)
+[^5]: K.G. Tregonning, “[A New Approach to Malayan History](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19581121-1.2.92),” _Straits Times_, 21 November 1958, 8; K.G. Tregonning, “[Look at Our Story from the Inside, Not from Outside](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19581124-1.2.85),” _Straits Times_, 24 November 1958, 6. (From NewspaperSG)
 
 	
 [^6]: John Sturgus Bastin, “The Western Element in Modern Southeast Asian History,” in [_Essays on Indonesian and Malayan History_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4077926) (Singapore, Eastern Universities Press, 1961), 18. (From National Library, Singapore, call no. RDTYS 991 BAS)
@@ -213,7 +213,7 @@ Bastin passed away peacefully in his home in Eastbourne on 7 August 2024, aged 9
 [^18]: John Sturgus Bastin and Julie Weizenegger, [_The Family of Sir Stamford Raffles_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201924754) (Singapore: National Library Board Singapore and Marshall Cavendish Editions, 2016). (From National Library, Singapore, call no. RSING 959.57030922 BAS-\[HIS\])
 
 	
-[^19]: John Sturgus Bastin, [_The Founding of Singapore 1819: Based on the Private Letters of Sir Stamford Raffles to the Governor-General and Commander-in-Chief in India, the Marguess of Hastings, Preserved in the Bute Collection at Mount Stuart, Isle of Bute, Scotland_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14404109) (Singapore: National Library Board, 2012). (From National Library, Singapore, call no. RSING 959.5703 BAS-\[JSB\])
+[^19]: John Sturgus Bastin, [_The Founding of Singapore 1819: Based on the Private Letters of Sir Stamford Raffles to the Governor-General and Commander-in-Chief in India, the Marguess of Hastings, Preserved in the Bute Collection at Mount Stuart, Isle of Bute, Scotland_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14404109) (Singapore: National Library Board, 2012). (From National Library, Singapore, call no. RSING 959.5703 BAS-[JSB])
 
 	
 [^20]: Bastin, [_Sir Stamford Raffles and Some of His Friends and Contemporaries_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203823402), vi.

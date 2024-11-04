@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-12/issue-3/oct-dec-2016/time-honoured-temple/
-      button: Time-honoured Temple Design
+      url: /vol-20/issue-3/oct-dec-2024/singapore-pioneer-cartoonists/
+      button: Singapore’s Pioneer Cartoonists
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol-12-issue-3/time-honoured-temple-design/heroimage_temple_designv4.png
+      background: /images/Vol 20 Issue 3/Cartoonist/HeroImage_cartoonist.jpg
   - infopic:
       title: Have Your Say
       subtitle: Readership Survey
@@ -26,6 +26,16 @@ sections:
       image: /images/survey_sep24.jpg
       alt: Readership Survey
   - infopic:
+      title: New Books on Singapore History (Jan 2025)
+      subtitle: Literature
+      id: infopic
+      description: A quick look at the new books available in the National Library’s
+        collection.
+      button: new reads
+      url: /vol-20/issue-4/jan-mar-2025/new-books-on-singapore-history/
+      image: /images/Vol 20 Issue 4/NEW_BOOKS_Jan_25.png
+      alt: Image alt text
+  - infopic:
       title: All Smoke? Opium Propaganda in the Syonan Shimbun
       subtitle: War and Military
       id: infopic
@@ -34,7 +44,7 @@ sections:
       button: THE SCOURGE OF OPIUM
       url: /vol-20/issue-4/jan-mar-2025/japanese-opium-propaganda-syonan-shimbun/
       image: /images/Vol 20 Issue 4/Opium/opium_topics.jpg
-      alt: Image alt text
+      alt: THE SCOURGE OF OPIUM
   - infopic:
       title: Singapore’s Early Zoos
       subtitle: BiblioAsia Reels
@@ -44,7 +54,7 @@ sections:
       button: Watch the video
       url: https://youtu.be/BAJrXPFgw7Y
       image: "/images/Videos: BiblioAsia Reels/First_Zoos_in_Singapore.png"
-      alt: Image alt text
+      alt: Singapore’s Early Zoos
   - infopic:
       title: He Wrote the National Pledge
       subtitle: Podcast
@@ -55,7 +65,7 @@ sections:
       button: Listen to the episode
       url: /podcast/s-rajaratnam-singapores-first-foreign-minister/
       image: /images/Podcast/Irene_600_400.jpg
-      alt: Image alt text
+      alt: He Wrote the National Pledge
   - infopic:
       title: Japanese Anglicans in World War II Singapore
       subtitle: People
