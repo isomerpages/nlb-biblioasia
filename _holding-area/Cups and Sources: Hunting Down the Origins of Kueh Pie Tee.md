@@ -89,6 +89,9 @@ Khir remembers a 78-year-old Malay doyenne telling him about her grandma making 
 
 His conclusion is borne out by recipes in vintage cookery texts from Indonesia. In the iconic cookbook _Pandai Masak 1_ by hallowed Javanese cookery writer and restaurateur Julie Sutardjana, also known as “Nyonya Rumah”, there is a chapter titled “Masakan Eropah” (European Cooking).[^23] It contains Dutch-named recipes for “frituurtjes” (fritters) filled with “ragout” (stew) – _pie tee_ shells holding chicken, prawn and beef tongue in a cream sauce. A similar ragout fills Susie Hing’s Java Kwei Patti.[^24]
 
+![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kueh_swedish.jpg)
+<div style="background-color: white;"> The iconic cookbook <i>Pandai Masak 1</i> by Julie Sutardjana contains Dutch-named recipes for pie tee shells containing chicken, prawn and beef tongue in a cream sauce.  <i>Courtesy of Chrisopher Tan.</i></div>
+
 From illustrations in a later edition by Sutardjana and in Hing’s book, we can deduce that they both used the same type of mould – a fluted thin metal cup with a thin rod handle. Much lighter than American irons, this would have been easier and less expensive to manufacture and thus more accessible to Indonesian home cooks.&nbsp;
 
 Another popular 1950s cookbook, _Buku Masakan Thursina_ by domestic science teacher Siti Mukmin, presents equivalent recipes for “fritures” (fritters).[^25] Mukmin’s milk, egg and wheat flour “friture” batter formula is close to Sealtest’s, but her milk-free filling options are distinctly different – one features diced chicken and the other beef liver plus fatty beef, and both are bound with egg yolk-thickened broth. A third filling cloaks cooked diced vegetables with mayonnaise, a classic combination known as “Russian salad” in Europe.
