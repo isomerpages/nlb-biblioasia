@@ -137,7 +137,7 @@ Their intense umami savour hums a deep oceanic bass note under the bamboo lobste
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/Andrea_Kee.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/ChristopherTan.png">
 	<b>Christopher Tan</b> is a food writer, author, educator and photographer. His most recent books are <i>The Way of Kueh: Savouring &amp; Saving Singapore’s Heritage Desserts</i> (Epigram Books, 2019), a celebration of local kueh culture, and <i>NerdBaker 2: Tales from the Yeast Indies</i> (Epigram Books, 2024), about yeast cookery.</div>
 
 #### **Notes**
