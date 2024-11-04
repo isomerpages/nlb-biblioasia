@@ -10,6 +10,8 @@ description: Kueh pie tee is a fixture of classic Singaporean cooking, yet its
 
 By Christopher Tan
 
+![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kueh_facing.jpg)
+<div style="background-color: white;"> Also known as “top hats”, <i>kueh pie tee</i> contain <i>popiah</i> filling. <i>Courtesy of Christopher Tan. </i></div>
 
 When I was growing up, family parties were often graced with _kueh pie tee_ – crispy batter cups filled with savoury braised _bangkuang_ (yambean or jicama), and garnished with toppings and sauces. Like many others, we called them “top hats” for their resemblance to Fred Astaire’s famous headgear.[^1] This Western nickname, plus the fact that “pie tee” has no meaning in any local dialect, always made me wonder about its heritage.&nbsp;
 
