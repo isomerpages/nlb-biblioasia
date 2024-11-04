@@ -212,7 +212,7 @@ Bastin passed away peacefully in his home in Eastbourne on 7 August 2024, aged 9
 [^18]: John Sturgus Bastin and Julie Weizenegger, [_The Family of Sir Stamford Raffles_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201924754) (Singapore: National Library Board Singapore and Marshall Cavendish Editions, 2016). (From National Library, Singapore, call no. RSING 959.57030922 BAS-\[HIS\])
 
 	
-[^19]: John Sturgus Bastin, [_The Founding of Singapore 1819: Based on the Private Letters of Sir Stamford Raffles to the Governor-General and Commander-in-Chief in India, the Marguess of Hastings, Preserved in the Bute Collection at Mount Stuart, Isle of Bute, Scotland_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14404109) (Singapore: National Library Board, 2012). (From National Library, Singapore, call no. RSING 959.5703 BAS-\[JSB\])
+[^19]: John Sturgus Bastin, [_The Founding of Singapore 1819: Based on the Private Letters of Sir Stamford Raffles to the Governor-General and Commander-in-Chief in India, the Marguess of Hastings, Preserved in the Bute Collection at Mount Stuart, Isle of Bute, Scotland_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14404109) (Singapore: National Library Board, 2012). (From National Library, Singapore, call no. RSING 959.5703 BAS-[JSB])
 
 	
 [^20]: Bastin, [_Sir Stamford Raffles and Some of His Friends and Contemporaries_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203823402), vi.
