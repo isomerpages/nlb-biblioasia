@@ -45,6 +45,9 @@ Cup shapes also evolved, and here is our first link to _kueh pie tee_: antique _
 
 In the US, such moulds were widely sold from the late 19th century onwards. A basic set typically paired a flower or geometric motif with a cup shape and a removable handle, while fancier sets ranged across a huge variety of decorative shapes. Fannie Farmer’s famous _Boston Cooking-School Cookbook_ features “Swedish timbale irons” with fluted cups in round, oval, heart and diamond shapes.[^11] Timbale irons later came to be more commonly called “patty irons” or “patty molds”, and the cups they fried up, “patty shells”.&nbsp;
 
+![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kueh_moulds.jpg)
+<div style="background-color: white;"> A set of vintage American patty iron moulds in a variety of decorative shapes such as leaf, flower, shell, fish and bell.  <i> Courtesy of Christopher Tan. </i></div>
+
 And here is our second link: on 1 April 1958, “The Gourmet Club” column of the _Singapore Free Press_ cited “a kwei patty iron for frying batter”.[^12] Subsequently, a _New Nation_ eatery review on 19 January 1978 expressly equated Singaporean and American fritters, noting that besides _popiah_ skins, Joo Chiat’s Kway Guan Huat – an 80-year-old business still thriving today – “sells… ‘kway pie tee’ cups (crispy patty shells)”.[^13] &nbsp; &nbsp;
 
 We know that Singapore’s YWCA (Young Women’s Christian Association) conducted Western cuisine cookery lessons from at least 1913 onwards.[^14] _The International Cookery Book of Malaya_ published by the association includes a classic “pattie shell” recipe using eggs, sugar, salt, milk and flour.[^15]
