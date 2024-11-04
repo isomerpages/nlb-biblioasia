@@ -26,6 +26,16 @@ sections:
       image: /images/survey_sep24.jpg
       alt: Readership Survey
   - infopic:
+      title: New Books on Singapore History (Jan 2025)
+      subtitle: Literature
+      id: infopic
+      description: A quick look at the new books available in the National Library’s
+        collection.
+      button: new reads
+      url: /vol-20/issue-4/jan-mar-2025/new-books-on-singapore-history/
+      image: /images/Vol 20 Issue 4/NEW_BOOKS_Jan_25.png
+      alt: Image alt text
+  - infopic:
       title: All Smoke? Opium Propaganda in the Syonan Shimbun
       subtitle: War and Military
       id: infopic
