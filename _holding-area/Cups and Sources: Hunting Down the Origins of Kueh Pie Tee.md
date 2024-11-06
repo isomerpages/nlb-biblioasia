@@ -25,7 +25,7 @@ Its earliest mention in local media was in the _Straits Times_ on 7 March 1954. 
 Its name was certainly not yet standardised – variant spellings like “paitee”, “pieti” and “paiti” appeared in local media until well into the 2000s – but one particular variant was common. Susie Hing’s 1956 cookbook, _In a Malayan Kitchen_, bears her recipe for “Kroket Tjanker (Java Kwei Patti)”.[^3] Local cooking teacher Chan Sow Lin gave the dish no fewer than four names in her 1960 _Chinese Party Book_, titling her recipe “Top Hats – Chinese Meat Puffs (Hokkien cocktail party dish) (Kueh Patty)”.[^4] As late as November 1980, a _Straits Times_ advertisement for C.K. Tang department store featured a “Kueh Patti Maker” costing a princely $4.20.[^5]
 
 As it turns out, this alternative moniker – “patti” or “patty” – is a major clue to _kueh pie tee_’s origin.
-![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kueh_malayankitchen.jpg)
+![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kueh_malayankitchen_2.jpg)
 <div style="background-color: white;">Susie Hing’s 1956 cookbook, <i>In a Malayan Kitchen</i>, includes her recipe for “Kroket Tjanker <i>(Java Kwei Patti)</i>”. <i> Image reproduced from Susie Hing, In a Malayan Kitchen (Singapore: Mun Seong Press, 1956), 83. (From National Library, Singapore, call no. RCLOS 641.59595 HIN-[RFL]). </i></div>
 
 ![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kueh_meatpuffs.jpg)
@@ -115,12 +115,12 @@ From illustrations in a later edition by Sutardjana and in Hing’s book, we can
 
 Another popular 1950s cookbook, _Buku Masakan Thursina_ by domestic science teacher Siti Mukmin, presents equivalent recipes for “fritures” (fritters).[^25] Mukmin’s milk, egg and wheat flour “friture” batter formula is close to Sealtest’s, but her milk-free filling options are distinctly different – one features diced chicken and the other beef liver plus fatty beef, and both are bound with egg yolk-thickened broth. A third filling cloaks cooked diced vegetables with mayonnaise, a classic combination known as “Russian salad” in Europe.
 
-![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kueh_thursina.jpg)
+![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kueh_thursina2.jpg)
 <div style="background-color: white;"> <i>Buku Masakan Thursina</i>&nbsp;has&nbsp;recipes for “fritures” (fritters). <i>Image reproduced from Siti Mukmin and Dahniar Jatim, Buku Masakan Thursina, 22nd ed. (Jakarta: Esbe Publishers, 1982). Courtesy of Christopher Tan.</i></div>
 
 Asian cooks also tweaked the fritter batter. To help the shells stay crispy in Southeast Asia’s humid weather, cooks would add rice flour, said Khir.[^26] As did other vintage formulas, a 1960s recipe in the Ipoh-published _The Malayan Cookbook_ further adds “a pinch of chunam”, which in heritage architecture jargon often means “plaster” but here refers to slaked lime paste, or _kapur sirih_; its alkalinity gives the shells more colour and crunch.[^27] For this same reason, Sutardjana makes her batter with _air belanda_ – “tonic water”.
 
-![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kueh_malayancookbook.jpg)
+![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kueh_malayancookbook_2.jpg)
 ![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kueh_recipe.jpg)
 <div style="background-color: white;"> The recipe for <i>kuay pie tee</i> in <i>The Malayan Cookbook</i>. The book is undated but was published before 1964. <i>Courtesy of Christopher Tan. </i></div>
 
