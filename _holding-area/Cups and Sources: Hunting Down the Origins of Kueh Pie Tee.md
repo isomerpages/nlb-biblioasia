@@ -135,6 +135,8 @@ From the 1950s to the 1980s, _pie tee_ appeared in many seminal local cookbooks 
 
 A 1978 restaurant review in the _New Nation_ describes _kueh pie tee_ as “a dish hardly ever found outside the home, and even then rarely… this is not an everyday Nonya dish”.[^34] Times do change, though. A decade later, when the _New Paper_ asked local chefs to nominate candidates for a “national dish”, then vice-president of the Singapore Chefs’ Association Joe Yap chose Peranakan _kueh pie tee_.[^35] Today, one can find the dish at Peranakan restaurants and private-dining enterprises of every stripe – from quotidian to ultra-posh – and perhaps even topped with abalone, lobster or microgreens.&nbsp;
 
+![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kueh_pietee.jpg)
+<div style="background-color: white;"> Traditional Peranakan <i>kueh pie tee</i> has the same filling as the <i>popiah</i>.  <i>Courtesy of Christopher Tan. </i></div>
 
 #### **Top Shells**
 
