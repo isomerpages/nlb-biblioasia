@@ -85,7 +85,7 @@ This article is written with the assistance of Ustaz Nasrullah Refa’ie, Ustaza
 
 
 
-[^2]: Faridah Che Husain, “Seni Kaligrafi Islam Di Malaysia Sebagai Pencetus Tamadun Melayu Islam” (Master’s thesis, Universiti Malaya, 2000), 65–66, http://ir.upm.edu.my/find/Record/u502336.
+[^2]: Faridah Che Husain, “Seni Kaligrafi Islam Di Malaysia Sebagai Pencetus Tamadun Melayu Islam” (Master’s thesis, Universiti Malaya, 2000), 65–66, [http://ir.upm.edu.my/find/Record/u502336](http://ir.upm.edu.my/find/Record/u502336).
 
 
 
@@ -97,7 +97,7 @@ This article is written with the assistance of Ustaz Nasrullah Refa’ie, Ustaza
 
 
 
-[^5]: Abdullah Abdul Kadir, Munshi, _Hikayat Abdullah_ (Singapore: Mission Press, 1849). (From National Library Online); Bernice Ang, Siti Harizah Abu Bakar and Noorashikin Zulkifli, “Writing to Print: The Shifting Roles of Malay Scribes in the 19th Century,” _BiblioAsia_ 9, no. 1 (April–June 2013): 40–44; Gracie Lee, “The Early History of Printing in Singapore,” _BiblioAsia_ 19, no. 3 (October–December 2023): 30–37.&nbsp;
+[^5]: Abdullah Abdul Kadir, Munshi, [_Hikayat Abdullah_]() (Singapore: Mission Press, 1849). (From National Library Online); Bernice Ang, Siti Harizah Abu Bakar and Noorashikin Zulkifli, “[Writing to Print: The Shifting Roles of Malay Scribes in the 19th Century](https://biblioasia.nlb.gov.sg/vol-9/issue-1/apr-jun-2013/writing-malay-scribes/),” _BiblioAsia_ 9, no. 1 (April–June 2013): 40–44; Gracie Lee, “[The Early History of Printing in Singapore](https://biblioasia.nlb.gov.sg/vol-19/issue-3/oct-dec-2023/singapore-early-printing/),” _BiblioAsia_ 19, no. 3 (October–December 2023): 30–37.&nbsp;
 
 
 
