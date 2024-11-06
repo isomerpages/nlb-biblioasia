@@ -81,6 +81,9 @@ Abdul Rahman Al-Attas also designed the titles and mastheads for a number of Mal
 
 The master calligrapher’s penmanship also decorates the graduation certificate of Madrasah Aljunied Al-Islamiah. Neatly written in Jawi amid the swirling green vegetal border at the bottom right corner of the certificate is the text “Ditulis dan dilukis oleh Abdul Rahman Hassan Al-Attas” (Written and drawn by Abdul Rahman Hassan Al-Attas), which indicates that he was responsible for both the calligraphy and the design of the decorative border.&nbsp;
 
+![](/images/Vol%2020%20Issue%204/Caligraphy/caligraphy_certificate.jpg)
+<div style="background-color: white;"> Abdul Rahman Al-Attas designed the graduation certificate of Madrasah Aljunied Al-Islamiah, which is still in use today.&nbsp; Written in Jawi at the bottom right corner of the border are the words “Ditulis dan dilukis oleh Abdul Rahman Hassan Al-Attas” (Written and drawn by Abdul Rahman Hassan Al-Attas). <i> Courtesy of Ustaz Nasrullah Refa’ie from Bustan Khat.  </i></div>
+
 Abdul Rahman Al-Attas’s calligraphy is not just limited to buildings and print publications. His calligraphy can also be found in a series of commemorative glass cups produced in 1957 after the Federation of Malaya gained independence from the British. Printed on the cups is “Merdeka” written in Jawi, and just below the Arabic letter “**م**” (_mim_) is his signature.&nbsp;
 
 Abdul Rahman Al-Attas also produced his own calligraphy reference book, _Tulisan Cantik_. (Unfortunately, the date and place of publication are unknown.) The publication showcases his handwriting in the Thuluth, Naskh and Riq’ah styles, a section on how calligraphers may create and prepare their own calligraphy pen for writing, and instructions such as writing in a well-lit place.&nbsp;
