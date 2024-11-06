@@ -46,21 +46,23 @@ Cup shapes also evolved, and here is our first link to _kueh pie tee_: antique _
 ![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kueh_antiquemould2.jpg)
 <div style="background-color: white;">  An antique local <i>kueh pie tee</i> mould. <i>Courtesy of Christopher Tan. </i></div>
 
-![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kueh_swedish.jpg)
-<div style="background-color: white;"> Fannie Farmer’s “Swedish timbale irons” with fluted cups in round, oval, heart and diamond shapes.  <i>Image reproduced from Fannie Merritt Farmer, The Boston Cooking-School Cookbook (United States: Little, Brown and Company, 1896), 314. Courtesy of Christopher Tan.</i></div>
 
 #### **American Pie… Tee?**
 
 In the US, such moulds were widely sold from the late 19th century onwards. A basic set typically paired a flower or geometric motif with a cup shape and a removable handle, while fancier sets ranged across a huge variety of decorative shapes. Fannie Farmer’s famous _Boston Cooking-School Cookbook_ features “Swedish timbale irons” with fluted cups in round, oval, heart and diamond shapes.[^11] Timbale irons later came to be more commonly called “patty irons” or “patty molds”, and the cups they fried up, “patty shells”.&nbsp;
 
-![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kueh_moulds.jpg)
-<div style="background-color: white;"> A set of vintage American patty iron moulds in a variety of decorative shapes such as leaf, flower, shell, fish and bell.  <i> Courtesy of Christopher Tan. </i></div>
+![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kueh_swedish.jpg)
+<div style="background-color: white;"> Fannie Farmer’s “Swedish timbale irons” with fluted cups in round, oval, heart and diamond shapes.  <i>Image reproduced from Fannie Merritt Farmer, The Boston Cooking-School Cookbook (United States: Little, Brown and Company, 1896), 314. Courtesy of Christopher Tan.</i></div>
 
 And here is our second link: on 1 April 1958, “The Gourmet Club” column of the _Singapore Free Press_ cited “a kwei patty iron for frying batter”.[^12] Subsequently, a _New Nation_ eatery review on 19 January 1978 expressly equated Singaporean and American fritters, noting that besides _popiah_ skins, Joo Chiat’s Kway Guan Huat – an 80-year-old business still thriving today – “sells… ‘kway pie tee’ cups (crispy patty shells)”.[^13] &nbsp; &nbsp;
 
 We know that Singapore’s YWCA (Young Women’s Christian Association) conducted Western cuisine cookery lessons from at least 1913 onwards.[^14] _The International Cookery Book of Malaya_ published by the association includes a classic “pattie shell” recipe using eggs, sugar, salt, milk and flour.[^15]
 
 Our local newspapers also featured American-style recipes for patty shell savouries in the 1930s.[^16] Hence it seems eminently plausible that patty irons came to Singapore via the American expatriate community around the early 1900s, and that “patty” slowly elided to “pie tee” on local tongues. While their fluted pattern remains, the cast iron and aluminium of American moulds were eventually supplanted by the solid brass most common here today.&nbsp;
+
+
+![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kueh_moulds.jpg)
+<div style="background-color: white;"> A set of vintage American patty iron moulds in a variety of decorative shapes such as leaf, flower, shell, fish and bell.  <i> Courtesy of Christopher Tan. </i></div>
 
 In a booklet dating back to the 1939 New York World’s Fair published by the Sealtest Kitchen, a food research body serving the US dairy industry, I came across a recipe for “Creamed Shrimp and Peas in Timbale Cases”.[^17] I was able to source the same vintage patty iron pictured in the recipe photo, forged by American ironware firm Griswold. Once cleaned of rust, it flawlessly turned out pretty fluted heart cups with which I recreated the dish. The milk-based sauce bathing the shrimp and peas is textbook-typical of American patty shell fillings.
 
