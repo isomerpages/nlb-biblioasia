@@ -14,6 +14,9 @@ If you visit Sultan Mosque, you are likely to hear stories about its history and
 
 But if you enter Sultan Mosque and walk up to the _mihrab_ (the pulpit or prayer niche that indicates the direction of Mecca), you will notice the work of another hand. Above the _mihrab_, right at the top of the middle panel is the Arabic word “Allah”, written in the Thuluth calligraphy style noted for its curvilinear features. Encircling the word is the text from “Surah Al-Ikhlas”, the 112th chapter of the Qur’an. The name and salutations for Prophet Muhammad flank the left and right sides of this circle. Below the circle is verse 18 of “Surah At-Tawbah”, the 9th chapter of the Qur’an. Both the text and verse are written in Thuluth Jali, a decorative form of Thuluth calligraphy used in Islamic architecture.&nbsp;
 
+![](/images/Vol%2020%20Issue%204/Caligraphy/caligraphy_mihrab.jpg)
+<div style="background-color: white;">The calligraphy by Abdul Rahman Al-Attas above the&nbsp;_mihrab_&nbsp;(prayer niche) of Sultan Mosque. His name is seen at the bottom right corner of the middle panel. <i>Courtesy of Sheikh Belaid Hamidi and Bustan Khat. </i></div>
+
 If you squint a little bit more, you will see on the bottom right corner of the central panel the Arabic words “Katabahu Abdul Rahman Al-Attas” (Written by Abdul Rahman Al-Attas) in Diwani calligraphy, a cursive style which traces its history to the 16th-century Ottoman court. On the bottom left corner is the date “6 Rabi’ulawal Sanat 1368” in the Hijri (Islamic) calendar, or 5 January 1949, indicating the completion date of the calligraphy. The man behind the calligraphy is Abdul Rahman Al-Attas.
 
 ![](/images/Vol%2020%20Issue%204/Caligraphy/caligraphy_filmraya48.jpg)
@@ -85,6 +88,8 @@ Abdul Rahman Al-Attas also designed the titles and mastheads for a number of Mal
 
 The master calligrapher’s penmanship also decorates the graduation certificate of Madrasah Aljunied Al-Islamiah. Neatly written in Jawi amid the swirling green vegetal border at the bottom right corner of the certificate is the text “Ditulis dan dilukis oleh Abdul Rahman Hassan Al-Attas” (Written and drawn by Abdul Rahman Hassan Al-Attas), which indicates that he was responsible for both the calligraphy and the design of the decorative border.&nbsp;
 
+![](/images/Vol%2020%20Issue%204/Caligraphy/caligraphy_certificate1.jpg)
+
 ![](/images/Vol%2020%20Issue%204/Caligraphy/caligraphy_certificate.jpg)
 <div style="background-color: white;"> Abdul Rahman Al-Attas designed the graduation certificate of Madrasah Aljunied Al-Islamiah, which is still in use today.&nbsp; Written in Jawi at the bottom right corner of the border are the words “Ditulis dan dilukis oleh Abdul Rahman Hassan Al-Attas” (Written and drawn by Abdul Rahman Hassan Al-Attas). <i> Courtesy of Ustaz Nasrullah Refa’ie from Bustan Khat.  </i></div>
 
@@ -119,7 +124,7 @@ This article is written with the assistance of Ustaz Nasrullah Refa’ie, Ustaza
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/ChristopherTan.png">
+
 	<b>Nurul Wahidah Mohd Tambee</b>  is a Manager/Librarian at Resource Discovery, National Library Board. She works closely with Malay- language materials.</div>
 
 #### **Notes**
