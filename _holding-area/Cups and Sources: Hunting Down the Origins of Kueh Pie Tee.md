@@ -139,6 +139,12 @@ Inspired by his grandaunt, Law Jia Jun puts his own stamp on _pie tee_ by blendi
 Their intense umami savour hums a deep oceanic bass note under the bamboo lobster meat, fried broccoli sprig, wild pepper leaf and lime gel that Law fills them with at point of service. Not his grandaunt’s _kueh pie tee_ for sure, but one day, perhaps his grandchild’s.
 
 
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
+To watch a video of Christopher Tan making kueh pie tee using vintage moulds, click <a href="https://biblioasia.nlb.gov.sg/videos/kueh-pie-tee/">here</a>.
+<br>
+To listen to his podcast discussing the origins of the dish, click <a href="https://biblioasia.nlb.gov.sg/podcast/kueh-pie-tee/">here</a>. </div>
+	
+
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/ChristopherTan.png">
