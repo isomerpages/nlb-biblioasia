@@ -121,7 +121,7 @@ Another popular 1950s cookbook, _Buku Masakan Thursina_ by domestic science teac
 Asian cooks also tweaked the fritter batter. To help the shells stay crispy in Southeast Asia’s humid weather, cooks would add rice flour, said Khir.[^26] As did other vintage formulas, a 1960s recipe in the Ipoh-published _The Malayan Cookbook_ further adds “a pinch of chunam”, which in heritage architecture jargon often means “plaster” but here refers to slaked lime paste, or _kapur sirih_; its alkalinity gives the shells more colour and crunch.[^27] For this same reason, Sutardjana makes her batter with _air belanda_ – “tonic water”.
 
 ![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kueh_malayancookbook.jpg)
-![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kuehrecipe.jpg)
+![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kueh_recipe.jpg)
 <div style="background-color: white;"> The recipe for <i>kuay pie tee</i> in <i>The Malayan Cookbook</i>. The book is undated but was published before 1964. <i>Courtesy of Christopher Tan. </i></div>
 
 #### **Peranakan Perfusion&nbsp;**
