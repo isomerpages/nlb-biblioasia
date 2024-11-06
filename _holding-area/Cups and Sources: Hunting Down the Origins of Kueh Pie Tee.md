@@ -43,11 +43,11 @@ Along the way, flower shapes became the most popular motifs, as seen in many loc
 
 Cup shapes also evolved, and here is our first link to _kueh pie tee_: antique _krustadjärn_ fritter irons found in Swedish museums are identical to vintage _pie tee_ moulds in all respects, being heavy fluted round metal cups mounted on steel rods with wooden handles.[^10]
 
+![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kueh_antiquemould2.jpg)
+<div style="background-color: white;">  An antique local <i>kueh pie tee</i> mould. <i>Courtesy of Christopher Tan. </i></div>
+
 ![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kueh_swedish.jpg)
 <div style="background-color: white;"> Fannie Farmer’s “Swedish timbale irons” with fluted cups in round, oval, heart and diamond shapes.  <i>Image reproduced from Fannie Merritt Farmer, The Boston Cooking-School Cookbook (United States: Little, Brown and Company, 1896), 314. Courtesy of Christopher Tan.</i></div>
-
-![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kueh_antiquemould.jpg)
-<div style="background-color: white;">  An antique local <i>kueh pie tee</i> mould. <i>Courtesy of Christopher Tan. </i></div>
 
 #### **American Pie… Tee?**
 
