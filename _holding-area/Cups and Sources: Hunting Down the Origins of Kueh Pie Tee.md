@@ -120,6 +120,10 @@ Another popular 1950s cookbook, _Buku Masakan Thursina_ by domestic science teac
 
 Asian cooks also tweaked the fritter batter. To help the shells stay crispy in Southeast Asia’s humid weather, cooks would add rice flour, said Khir.[^26] As did other vintage formulas, a 1960s recipe in the Ipoh-published _The Malayan Cookbook_ further adds “a pinch of chunam”, which in heritage architecture jargon often means “plaster” but here refers to slaked lime paste, or _kapur sirih_; its alkalinity gives the shells more colour and crunch.[^27] For this same reason, Sutardjana makes her batter with _air belanda_ – “tonic water”.
 
+![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kueh_malayancookbook.jpg)
+![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kuehrecipe.jpg)
+<div style="background-color: white;"> The recipe for <i>kuay pie tee</i> in <i>The Malayan Cookbook</i>. The book is undated but was published before 1964. <i>Courtesy of Christopher Tan. </i></div>
+
 #### **Peranakan Perfusion&nbsp;**
 
 As the fillings of the two dishes are nigh identical, _kueh pie tee_ may well be a riff on, or extension of, Peranakan-style _popiah_. Law Jia Jun, the young chef-founder of Province restaurant in Joo Chiat, remembers his Teochew Peranakan grandaunt making _pie tee_ for special occasions like Chinese New Year. “She’d start by frying garlic, _haybee_ \[dried shrimp\], shallots, and then she added _taucheo_ \[salted fermented soybeans\] to fry and really intensify it before throwing in the _bangkuang_. If you don’t, she told me, ‘_bu gou wei dao_’ \[it won’t be fragrant enough\].” She garnished the _pie tee_ with coriander leaves, prawns, a vinegar chilli sauce and sweet flour sauce. “It was super fun to eat,” Law fondly described.[^28]
