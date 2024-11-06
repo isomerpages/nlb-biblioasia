@@ -28,6 +28,9 @@ To understand why his Jawi calligraphy endured and why it was a significant mark
 
 The romanisation of Malay print materials only came about in the latter half of the 20th century, after World War II. Before the romanisation of the Malay language, the predominant way of conveying knowledge, information and stories in print was in Jawi – a means of visually representing or encoding the Malay language using a modified Arabic script.[^3]
 
+![](/images/Vol%2020%20Issue%204/Caligraphy/caligraphy_filmraya.jpg)
+<div style="background-color: white;">The design for the masthead of <i>Film Raya</i> incorporates ornate lettering in both Jawi and romanised Malay. In this example we see Abdul Rahman Attas’s signature in both Arabic and romanised Malay. <i> Image reproduced from Film Raya, no. 5, May 1951. (From National Library, Singapore, call no. RCLOS 793.43095957 FR).  </i></div>
+
 Although book printing and production in the Western world changed with the arrival of the printing press and the moveable type, much of the world that relied on Arabic characters in their means of communication – such as Ottoman Turkey, Northwestern Africa and India – found the moveable type restrictive and stilted; it could not quite capture the fluidity of the handwritten Arabic script.&nbsp;
 
 It was not until the invention of lithography that the reproduction of texts in Arabic characters flourished since lithography was able to reproduce handwritten text. Handwritten Arabic made for much easier reading and was visually more acceptable to the readerly eye than Arabic typography.[^4] A notable example of a lithographed text in Singapore is the famous _Hikayat Abdullah_ (Stories of Abdullah) by the Malay teacher and scribe Abdullah Abdul Kadir (better known as Munsyi Abdullah) lithographed by the Mission Press in 1849.[^5]
