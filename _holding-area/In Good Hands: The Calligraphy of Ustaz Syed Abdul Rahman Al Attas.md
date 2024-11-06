@@ -58,6 +58,9 @@ Whether it was the more compact and sturdy Riq’ah, the rounded curls of Diwani
 <div style="background-color: white;"> Abdul Rahman Al-Attas used the Nasta’liq calligraphy style for the title of the book, <i>Rumah Itu Dunia Aku</i> (The Home is My World), written by Hamzah Abdul Majid bin Hussin. <i> Image reproduced from Rumah Itu Dunia Aku, 1951. (From National Library, Singapore, call no. RCLOS 899.283 HAM).
   </i></div>
 
+![](/images/Vol%2020%20Issue%204/Caligraphy/caligraphy_shortstory.jpg)
+<div style="background-color: white;"> This short story in <i>Majalah Bintang</i> showcases Abdul Rahman Al-Attas’s calligraphy in different styles. The title of the story, “Jalan Begitu Panjang” (The Long Road), is written in the Nasta’liq style, whereas the byline, “Oleh Salim Manja” (By Salim Manja), is in the Naskh style. <i> Image reproduced from Majalah Bintang, no. 65, January 1958, 26. (From National Library, Singapore, call no. RCLOS 793.43095957 MB).  </i></div>
+
 #### **Calligraphy in Singapore and Southeast Asia&nbsp;**
 
 Other than Sultan Mosque, Abdul Rahman Al-Attas’s calligraphy also adorns the shrine of Muslim saint Habib Noh bin Muhammad Al-Habsyi on Palmer Road in Tanjong Pagar.[^8] Across Southeast Asia, Abdul Rahman Al-Attas’s calligraphy can be found in places such as the tomb of Sultan Zainal Abidin in Kuala Terengganu, the Malaysian parliament building and Masjid Jame’ in Bandar Seri Begawan. His works are also preserved in collections owned by the Sultan of Johor, the Museum of Asian Art in the University of Malaya as well as the National University of Malaysia.[^9]
