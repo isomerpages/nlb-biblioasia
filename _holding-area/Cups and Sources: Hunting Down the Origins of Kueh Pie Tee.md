@@ -62,6 +62,9 @@ And here is our second link: on 1 April 1958, “The Gourmet Club” column of t
 
 We know that Singapore’s YWCA (Young Women’s Christian Association) conducted Western cuisine cookery lessons from at least 1913 onwards.[^14] _The International Cookery Book of Malaya_ published by the association includes a classic “pattie shell” recipe using eggs, sugar, salt, milk and flour.[^15]
 
+![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kueh_ywca.jpg)
+<div style="background-color: white;"> The “pattie shell” recipe appeared in the 1932 first edition and several editions thereafter.  <i>Image reproduced from A.E. Llewellyn, ed., The Y.W.C.A. International Cookery Book of Malaya (Singapore: Malayan Committee of the Y.W.C.A., 1948). (From National Library, Singapore, call no. RCLOS 641.59595 YWC).</i></div>
+
 Our local newspapers also featured American-style recipes for patty shell savouries in the 1930s.[^16] Hence it seems eminently plausible that patty irons came to Singapore via the American expatriate community around the early 1900s, and that “patty” slowly elided to “pie tee” on local tongues. While their fluted pattern remains, the cast iron and aluminium of American moulds were eventually supplanted by the solid brass most common here today.&nbsp;
 
 
