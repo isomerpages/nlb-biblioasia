@@ -101,7 +101,7 @@ Khir remembers a 78-year-old Malay doyenne telling him about her grandma making 
 His conclusion is borne out by recipes in vintage cookery texts from Indonesia. In the iconic cookbook _Pandai Masak 1_ by hallowed Javanese cookery writer and restaurateur Julie Sutardjana, also known as “Nyonya Rumah”, there is a chapter titled “Masakan Eropah” (European Cooking).[^23] It contains Dutch-named recipes for “frituurtjes” (fritters) filled with “ragout” (stew) – _pie tee_ shells holding chicken, prawn and beef tongue in a cream sauce. A similar ragout fills Susie Hing’s Java Kwei Patti.[^24]
 
 ![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kueh_pandaimasak.jpg)
-<div style="background-color: white;"> The iconic cookbook <i>Pandai Masak 1</i> by Julie Sutardjana contains Dutch-named recipes for pie tee shells containing chicken, prawn and beef tongue in a cream sauce.  <i>Image reproduced from Nyonya Rumah (Julie Sutardjana), Pandai Masak Book 1, 16th ed. (Djakarta: P.T. Kinta, 1975). Courtesy of Christopher Tan.</i></div>
+<div style="background-color: white;"> The iconic cookbook <i>Pandai Masak 1</i> by Julie Sutardjana contains Dutch-named recipes for pie tee shells containing chicken, prawn and beef tongue in a cream sauce.  <i>Image reproduced from Nyonya Rumah (Julie Sutardjana), Pandai Masak 1, 16th ed. (Djakarta: P.T. Kinta, 1975). Courtesy of Christopher Tan.</i></div>
 
 
 ![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kueh_frituurtjes.jpg)
