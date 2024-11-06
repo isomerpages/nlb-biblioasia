@@ -85,6 +85,9 @@ Abdul Rahman Al-Attas’s calligraphy is not just limited to buildings and print
 
 Abdul Rahman Al-Attas also produced his own calligraphy reference book, _Tulisan Cantik_. (Unfortunately, the date and place of publication are unknown.) The publication showcases his handwriting in the Thuluth, Naskh and Riq’ah styles, a section on how calligraphers may create and prepare their own calligraphy pen for writing, and instructions such as writing in a well-lit place.&nbsp;
 
+![](/images/Vol%2020%20Issue%204/Caligraphy/caligraphy_tulisancantik.jpg)
+<div style="background-color: white;">Abdul Rahman Al-Attas’s calligraphy reference book, <i>Tulisan Cantik</i> (date and place of publication unknown). <i>Courtesy of Ustazah A’tii Qah Suhaimi from Bustan Khat. </i></div>
+
 #### **Other Calligraphers and Calligraphy Styles**
 
 According to Ustaz Syed Agil Othman Al-Yahya, the former principal of Madrasah Aljunied Al-Islamiah in Singapore (who is himself a prolific calligrapher), some of the other calligraphers who were active in Singapore in the 1940s up to the 1990s include Al Ustaz Al-Fadhil As-Sayyid Abu Bakar bin Abdul Qadir Al-Yahya, Al-Ustaz Al-Fadhil Abdur Rashid Junied, Al-Ustaz Al-Fadhil Mustajab Che’ Onn, Al-Ustaz Al-Fadhil Muhammad Tarmidzi Hj Hassan, Al-Ustaz Al-Fadhil Ameen Muslim and Al-Ustaz Al-Fadhil Mahmood Abdul Majid.[^10]
