@@ -41,6 +41,10 @@ Although book printing and production in the Western world changed with the arri
 
 It was not until the invention of lithography that the reproduction of texts in Arabic characters flourished since lithography was able to reproduce handwritten text. Handwritten Arabic made for much easier reading and was visually more acceptable to the readerly eye than Arabic typography.[^4] A notable example of a lithographed text in Singapore is the famous _Hikayat Abdullah_ (Stories of Abdullah) by the Malay teacher and scribe Abdullah Abdul Kadir (better known as Munsyi Abdullah) lithographed by the Mission Press in 1849.[^5]
 
+![](/images/Vol%2020%20Issue%204/Caligraphy/caligraphy_hati.jpg)
+<div style="background-color: white;">The text “Dari hati ke hati” (Heart to heart), read from top to bottom, is yet another demonstration of the creativity that can be incorporated into Jawi lettering. <i>Image reproduced from Fashion, no. 20, June 1966, 1. (From National Library, Singapore, call no. RCLOS 059.9928 F-[UAS]).
+</i></div>
+
 Nevertheless, many of the printing presses in Southeast Asia eventually adopted the moveable type due to the speed, ease and volume of reproduction. The bulk of Jawi texts, books, newspapers and periodicals eventually began to be printed using compositions of Arabic characters in a moveable type.[^6] &nbsp;
 
 However, many Malay books and magazines still preferred to use Jawi calligraphy for their titles and masthead on the cover instead of the romanised script for aesthetic reasons. These illustrated words would require a reproduction – via lithography, other methods of relief printing, customised plates or customised metal type – of a skilled calligrapher’s work. One would assume that it was because calligraphy offered these printed Malay books and magazines what the moveable type could not provide – aesthetic variety, style and flexibility. And this was where the handwritten work of Abdul Rahman Al-Attas came in.
