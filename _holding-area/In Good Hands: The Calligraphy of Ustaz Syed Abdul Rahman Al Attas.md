@@ -46,6 +46,9 @@ However, many Malay books and magazines still preferred to use Jawi calligraphy 
 
 A unique feature of Arabic calligraphy, and thus Jawi calligraphy – which lends itself to the aesthetics of Malay print materials – is its ability for words and sentences to be compressed in a prescribed space by way of artfully stacking letters. Abdul Rahman Al-Attas used this aspect of calligraphy to his advantage such as when creating variations of the title of entertainment magazine _Majalah Bintang_ on the cover and first page.
 
+![](/images/Vol%2020%20Issue%204/Caligraphy/caligraphy_saleh.jpg)
+<div style="background-color: white;">The masthead of <i>Majalah Bintang</i>_ magazine showing a variation of the word “Majalah” written in the Thuluth style by Abdul Rahman Al-Attas. On the front cover is an illustration of the actor Salleh Kamil and his name in the Diwani style. Some lines from Salleh Kamil’s interview appear on the top left rendered in the Khat Ijazah style, which combines both the Naskh and Thuluth styles. <i>Image reproduced from Majalah Bintang, no. 70, March 1958. (From National Library, Singapore, call no. RCLOS 793.43095957 MB).</i></div>
+
 Whether it was the more compact and sturdy Riq’ah, the rounded curls of Diwani, the romantic Nasta’liq, or the precision and perfection of Naskh and Thuluth, Abdul Rahman Al-Attas’s calligraphic proficiency was well demonstrated on the page. Because he had learnt these styles while studying in Egypt, his calligraphy carries a distinctive Egyptian influence that is slightly different from the Ottoman Turkish or Baghdadi variants of the same style.[^7]
 
 ![](/images/Vol%2020%20Issue%204/Caligraphy/caligraphy_rumah.jpg)
