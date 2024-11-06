@@ -18,6 +18,10 @@ When I was growing up, family parties were often graced with _kueh pie tee_ – 
 
 Its earliest mention in local media was in the _Straits Times_ on 7 March 1954. “‘Pie tee’… consists of bits of meat and vegetable packed in a tiny pastry cup and bathed in two delicate sauces. Once you start eating, you can’t stop,” wrote Francis Wong, covering a fundraising food fair at Wesley Methodist Church.[^2] The quote marks and description are telling – was the dish then still unfamiliar to the average reader?&nbsp;
 
+![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kueh_shells.jpg)
+<div style="background-color: white;">  <i>Kueh pie tee</i> shells stored in a biscuit tin, as they traditionally would be.  <i>Courtesy of Christopher Tan. </i></div>
+
+
 Its name was certainly not yet standardised – variant spellings like “paitee”, “pieti” and “paiti” appeared in local media until well into the 2000s – but one particular variant was common. Susie Hing’s 1956 cookbook, _In a Malayan Kitchen_, bears her recipe for “Kroket Tjanker (Java Kwei Patti)”.[^3] Local cooking teacher Chan Sow Lin gave the dish no fewer than four names in her 1960 _Chinese Party Book_, titling her recipe “Top Hats – Chinese Meat Puffs (Hokkien cocktail party dish) (Kueh Patty)”.[^4] As late as November 1980, a _Straits Times_ advertisement for C.K. Tang department store featured a “Kueh Patti Maker” costing a princely $4.20.[^5]
 
 As it turns out, this alternative moniker – “patti” or “patty” – is a major clue to _kueh pie tee_’s origin.
@@ -79,10 +83,6 @@ In a booklet dating back to the 1939 New York World’s Fair published by the Se
 <div style="background-color: white;"> Christopher Tan’s recreation of Sealtest Kitchen’s creamed shrimp and peas in timbale cases. <i>Courtesy of Christopher Tan. </i></div>
 
 Similarly archetypal renditions did survive in some of Singapore’s Western restaurants up until the 1990s. For instance, patty shells filled with chicken and mushrooms in white wine sauce were offered at Novotel Orchid Inn Hotel’s Wienerwald restaurant in 1983, while in 1992, The Ship served shells cradling chicken à la King.[^18]
-
-![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kueh_shells.jpg)
-<div style="background-color: white;">  <i>Kueh pie tee</i> shells stored in a biscuit tin, as they traditionally would be.  <i>Courtesy of Christopher Tan. </i></div>
-
 
 #### **A Vase Difference**
 
