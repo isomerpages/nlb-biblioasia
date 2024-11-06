@@ -52,7 +52,7 @@ A unique feature of Arabic calligraphy, and thus Jawi calligraphy – which lend
 Whether it was the more compact and sturdy Riq’ah, the rounded curls of Diwani, the romantic Nasta’liq, or the precision and perfection of Naskh and Thuluth, Abdul Rahman Al-Attas’s calligraphic proficiency was well demonstrated on the page. Because he had learnt these styles while studying in Egypt, his calligraphy carries a distinctive Egyptian influence that is slightly different from the Ottoman Turkish or Baghdadi variants of the same style.[^7]
 
 ![](/images/Vol%2020%20Issue%204/Caligraphy/caligraphy_majalah.jpg)
-<div style="background-color: white;">In this masthead of <i>Majalah Bintang</i>, Abdul Rahman Al-Attas wrote “Majalah” in the Nasta’liq calligraphy style. <i>Image reproduced from Majalah Bintang, no. 70, March 1958. (From National Library, Singapore, call no. RCLOS 793.43095957 MB).</i></div>
+<div style="background-color: white;">In this masthead of <i>Majalah Bintang</i>, Abdul Rahman Al-Attas wrote “Majalah” in the Nasta’liq calligraphy style. <i> Image reproduced from Majalah Bintang, no. 1, May 1955, reverse page of front cover. (From National Library, Singapore, call no. RCLOS 793.43095957 MB).</i></div>
 
 ![](/images/Vol%2020%20Issue%204/Caligraphy/caligraphy_rumah.jpg)
 <div style="background-color: white;"> Abdul Rahman Al-Attas used the Nasta’liq calligraphy style for the title of the book, <i>Rumah Itu Dunia Aku</i> (The Home is My World), written by Hamzah Abdul Majid bin Hussin. <i> Image reproduced from Rumah Itu Dunia Aku, 1951. (From National Library, Singapore, call no. RCLOS 899.283 HAM).
