@@ -19,6 +19,9 @@ If you squint a little bit more, you will see on the bottom right corner of the 
 ![](/images/Vol%2020%20Issue%204/Caligraphy/caligraphy_filmraya48.jpg)
 <div style="background-color: white;">In subsequent designs for the masthead of <i>Film Raya</i>, Abdul Rahman Al-Attas also included the description “Majalah film bulanan yang terkemuka di Malaya” (Leading film monthly in Malaya) in the Diwani calligraphy style. <i>Image reproduced from Film Raya, no. 48, May 1952. (From National Library, Singapore, call no. RCLOS 793.43095957 FR).</i></div>
 
+![](/images/Vol%2020%20Issue%204/Caligraphy/caligraphy_melayuraya.jpg)
+<div style="background-color: white;">Abdul Rahman Al-Attas demonstrates his proficiency in the Diwani Jali calligraphy style in the Jawi version of the company logo of Melayu Raya Press. This style allows for greater stacking and compression of Arabic letters in the Diwani calligraphy style. <i>Image reproduced from Alam Perempuan, published in 1951 by Melayu Raya Press. (From National Library, Singapore, call no. RCLOS 305.4 MUH). </i></div>
+
 #### **A Prolific Calligrapher**
 
 Abdul Rahman Al-Attas, or Al-Ustaz Syed Abdul Rahman bin Hassan Al-Attas Al-Azhari, was a prolific calligrapher who was born in Johor Bahru in 1898. Not much is known about his life beyond that he studied calligraphy in Cairo, Egypt, first at Madrasah Tahsin Al-Khuttut and subsequently at Al-Azhar University, earning him the epithet “Al-Azhari”.[^2] Indeed, the Egyptian influence would pervade the calligraphic works that he would later produce.
