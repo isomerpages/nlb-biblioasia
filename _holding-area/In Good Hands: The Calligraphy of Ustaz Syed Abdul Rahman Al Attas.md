@@ -48,6 +48,9 @@ Other than Sultan Mosque, Abdul Rahman Al-Attas’s calligraphy also adorns the 
 
 Abdul Rahman Al-Attas also designed the titles and mastheads for a number of Malay print publications. Easily identified by his signature, his calligraphy is found in the works published by various Malay publishing houses in Singapore in the 1950s and 1960s, including Qalam Press, Melayu Raya Press, Pustaka H.M. Ali and Matba’ah Sulaiman Mar’ie. For instance, for the title of _Film Raya_, a magazine published bv Melayu Raya Press, his signature is found just beneath the letter “F”.&nbsp;
 
+![](/images/Vol%2020%20Issue%204/Caligraphy/caligraphy_signature.jpg)
+<div style="background-color: white;">Abdul Rahman Al-Attas’s calligraphy is easily identified by his signature bearing his family name, Al-Attas. The title of this article in entertainment magazine <i>Majalah Bintang</i>, written in both the Diwani and Thuluth calligraphy styles, wishes its readers “Selamat Berhari Raya Aidil Adha” (Happy Eid al-Adha). <i>Courtesy of Christopher Tan. </i></div>
+
 The master calligrapher’s penmanship also decorates the graduation certificate of Madrasah Aljunied Al-Islamiah. Neatly written in Jawi amid the swirling green vegetal border at the bottom right corner of the certificate is the text “Ditulis dan dilukis oleh Abdul Rahman Hassan Al-Attas” (Written and drawn by Abdul Rahman Hassan Al-Attas), which indicates that he was responsible for both the calligraphy and the design of the decorative border.&nbsp;
 
 Abdul Rahman Al-Attas’s calligraphy is not just limited to buildings and print publications. His calligraphy can also be found in a series of commemorative glass cups produced in 1957 after the Federation of Malaya gained independence from the British. Printed on the cups is “Merdeka” written in Jawi, and just below the Arabic letter “**م**” (_mim_) is his signature.&nbsp;
