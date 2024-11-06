@@ -81,45 +81,44 @@ This article is written with the assistance of Ustaz Nasrullah Refa’ie, Ustaza
 #### **Notes**
 
 
-[^1]:
+[^1]: Ten Leu-Jiun, “The Invention of a Tradition: Indo-Saracenic Domes on Mosques in Singapore,” _BiblioAsia_ 9, no. 1 (April–June 2013): 16–23; National Heritage Board, “Sultan Mosque,” Roots, last updated 1 July 2022, https://www.roots.gov.sg/places/places-landing/Places/national-monuments/sultan-mosque.
 
 
 
-[^2]:
+[^2]: Faridah Che Husain, “Seni Kaligrafi Islam Di Malaysia Sebagai Pencetus Tamadun Melayu Islam” (Master’s thesis, Universiti Malaya, 2000), 65–66, http://ir.upm.edu.my/find/Record/u502336.
 
 
 
-[^3]:
+[^3]: Jawi includes additional characters that do not exist in the Arabic alphabet to encompass the “ny”, “ng”, “p”, “v” and “ch” sounds present in the Malay language.
 
 
 
-[^4]:
+[^4]: Ian Proudfoot, “Mass Producing Houri’s Moles or Aesthetics and Choice of Technology in Early Muslim Book Printing,” in _Islam: Essays on Scripture, Thought and Society_. _A Festschrift in Honour of Anthony H. Johns_, ed. Peter G. Riddell and Tony Street (New York: Brill, 1997), 170–77.&nbsp;
 
 
 
-[^5]:
+[^5]: Abdullah Abdul Kadir, Munshi, _Hikayat Abdullah_ (Singapore: Mission Press, 1849). (From National Library Online); Bernice Ang, Siti Harizah Abu Bakar and Noorashikin Zulkifli, “Writing to Print: The Shifting Roles of Malay Scribes in the 19th Century,” _BiblioAsia_ 9, no. 1 (April–June 2013): 40–44; Gracie Lee, “The Early History of Printing in Singapore,” _BiblioAsia_ 19, no. 3 (October–December 2023): 30–37.&nbsp;
 
 
 
-[^6]:
+[^6]: A Jawi moveable type has additional characters that do not exist in the Arabic alphabet to encompass the “ny”, “ng”, “p”, “v” and “ch” sounds in the Malay language.
 
 
 
-[^7]:
+[^7]: Hasan Abu Afash, “Tamyīzul Furuqāti al-Asāsiyah fī Asālībi Katābati al-Khaṭ al-Dīwānī” تمييز الفروقات الأساسية في أساليب كتابة الخط الديواني \[Distinguishing the Basic Differences in the Methods of Writing Diwani Calligraphy\], Hiba Studio, 1 January 2014, https://hibastudio.com/diwany-differance/.
 
 
 
-[^8]:
+[^8]: Bonny Tan, “Habib Noh,” in _Singapore Infopedia_, National Library Board Singapore. Article published 19 August 2016; Syed Agil Othman Al-Yahya, _Arabic Calligraphy_ (Singapore: S. Agil Othman Alyahya, 2022), 3. (From PublicationSG)
 
 
 
-[^9]:
+[^9]: Faridah Che Husain, “Seni Kaligrafi Islam di Malaysia Sebagai Pencetus Tamadun Melayu Islam,” 65–66.
 
 
 
-[^10]:
+[^10]: Syed Agil Othman Al-Yahya, _Arabic Calligraphy_, 21–22.
 
 
 
-[^11]:
-
+[^11]: Dr Hirman Khamis, a former Malay-language teacher and an expert in Jawi, once shared that he had encountered almost 13 ways in which the word for “humans”, i.e., “manusia”, was spelt in Jawi orthography.
