@@ -15,7 +15,7 @@ If you visit Sultan Mosque, you are likely to hear stories about its history and
 But if you enter Sultan Mosque and walk up to the _mihrab_ (the pulpit or prayer niche that indicates the direction of Mecca), you will notice the work of another hand. Above the _mihrab_, right at the top of the middle panel is the Arabic word “Allah”, written in the Thuluth calligraphy style noted for its curvilinear features. Encircling the word is the text from “Surah Al-Ikhlas”, the 112th chapter of the Qur’an. The name and salutations for Prophet Muhammad flank the left and right sides of this circle. Below the circle is verse 18 of “Surah At-Tawbah”, the 9th chapter of the Qur’an. Both the text and verse are written in Thuluth Jali, a decorative form of Thuluth calligraphy used in Islamic architecture.&nbsp;
 
 ![](/images/Vol%2020%20Issue%204/Caligraphy/caligraphy_mihrab.jpg)
-<div style="background-color: white;">The calligraphy by Abdul Rahman Al-Attas above the&nbsp;_mihrab_&nbsp;(prayer niche) of Sultan Mosque. His name is seen at the bottom right corner of the middle panel. <i>Courtesy of Sheikh Belaid Hamidi and Bustan Khat. </i></div>
+<div style="background-color: white;">The calligraphy by Abdul Rahman Al-Attas above the <i>mihrab</i> (prayer niche) of Sultan Mosque. His name is seen at the bottom right corner of the middle panel. <i>Courtesy of Sheikh Belaid Hamidi and Bustan Khat. </i></div>
 
 If you squint a little bit more, you will see on the bottom right corner of the central panel the Arabic words “Katabahu Abdul Rahman Al-Attas” (Written by Abdul Rahman Al-Attas) in Diwani calligraphy, a cursive style which traces its history to the 16th-century Ottoman court. On the bottom left corner is the date “6 Rabi’ulawal Sanat 1368” in the Hijri (Islamic) calendar, or 5 January 1949, indicating the completion date of the calligraphy. The man behind the calligraphy is Abdul Rahman Al-Attas.
 
@@ -146,7 +146,7 @@ This article is written with the assistance of Ustaz Nasrullah Refa’ie, Ustaza
 
 
 
-[^5]: Abdullah Abdul Kadir, Munshi, [_Hikayat Abdullah_]() (Singapore: Mission Press, 1849). (From National Library Online); Bernice Ang, Siti Harizah Abu Bakar and Noorashikin Zulkifli, “[Writing to Print: The Shifting Roles of Malay Scribes in the 19th Century](https://biblioasia.nlb.gov.sg/vol-9/issue-1/apr-jun-2013/writing-malay-scribes/),” _BiblioAsia_ 9, no. 1 (April–June 2013): 40–44; Gracie Lee, “[The Early History of Printing in Singapore](https://biblioasia.nlb.gov.sg/vol-19/issue-3/oct-dec-2023/singapore-early-printing/),” _BiblioAsia_ 19, no. 3 (October–December 2023): 30–37.&nbsp;
+[^5]: Abdullah Abdul Kadir, Munshi, [_Hikayat Abdullah_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=81c0b1e2-807f-433b-b9d1-500ab4d06e62) (Singapore: Mission Press, 1849). (From National Library Online); Bernice Ang, Siti Harizah Abu Bakar and Noorashikin Zulkifli, “[Writing to Print: The Shifting Roles of Malay Scribes in the 19th Century](https://biblioasia.nlb.gov.sg/vol-9/issue-1/apr-jun-2013/writing-malay-scribes/),” _BiblioAsia_ 9, no. 1 (April–June 2013): 40–44; Gracie Lee, “[The Early History of Printing in Singapore](https://biblioasia.nlb.gov.sg/vol-19/issue-3/oct-dec-2023/singapore-early-printing/),” _BiblioAsia_ 19, no. 3 (October–December 2023): 30–37.&nbsp;
 
 
 
