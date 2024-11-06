@@ -108,7 +108,7 @@ His conclusion is borne out by recipes in vintage cookery texts from Indonesia. 
 
 
 ![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kueh_frituurtjes.jpg)
-<div style="background-color: white;">  Julie Sutardjana’s recipes for “frituurtjes” (fritters) filled with “ragout” (stew) – <i>pie tee</i> shells holding chicken, prawn and beef tongue in a cream sauce.  <i> Image reproduced from Nyonya Rumah (Julie Sutardjana), Pandai Masak Book 1, 16th ed. (Djakarta: P.T. Kinta, 1975), 66. Courtesy of Christopher Tan.
+<div style="background-color: white;">  Julie Sutardjana’s recipes for “frituurtjes” (fritters) filled with “ragout” (stew) – <i>pie tee</i> shells holding chicken, prawn and beef tongue in a cream sauce.  <i> Image reproduced from Nyonya Rumah (Julie Sutardjana), Pandai Masak 1, 16th ed. (Djakarta: P.T. Kinta, 1975), 66. Courtesy of Christopher Tan.
 </i></div>
 
 From illustrations in a later edition by Sutardjana and in Hing’s book, we can deduce that they both used the same type of mould – a fluted thin metal cup with a thin rod handle. Much lighter than American irons, this would have been easier and less expensive to manufacture and thus more accessible to Indonesian home cooks.&nbsp;
