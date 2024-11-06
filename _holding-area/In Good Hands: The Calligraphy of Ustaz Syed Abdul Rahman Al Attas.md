@@ -81,7 +81,7 @@ This article is written with the assistance of Ustaz Nasrullah Refa’ie, Ustaza
 #### **Notes**
 
 
-[^1]: Ten Leu-Jiun, “The Invention of a Tradition: Indo-Saracenic Domes on Mosques in Singapore,” _BiblioAsia_ 9, no. 1 (April–June 2013): 16–23; National Heritage Board, “Sultan Mosque,” Roots, last updated 1 July 2022, https://www.roots.gov.sg/places/places-landing/Places/national-monuments/sultan-mosque.
+[^1]: Ten Leu-Jiun, “[The Invention of a Tradition: Indo-Saracenic Domes on Mosques in Singapore](https://biblioasia.nlb.gov.sg/vol-9/issue-1/apr-jun-2013/tradition-indo-saracenic/),” _BiblioAsia_ 9, no. 1 (April–June 2013): 16–23; National Heritage Board, “Sultan Mosque,” Roots, last updated 1 July 2022, [https://www.roots.gov.sg/places/places-landing/Places/national-monuments/sultan-mosque](https://www.roots.gov.sg/places/places-landing/Places/national-monuments/sultan-mosque).
 
 
 
