@@ -105,11 +105,11 @@ This article is written with the assistance of Ustaz Nasrullah Refa’ie, Ustaza
 
 
 
-[^7]: Hasan Abu Afash, “Tamyīzul Furuqāti al-Asāsiyah fī Asālībi Katābati al-Khaṭ al-Dīwānī” تمييز الفروقات الأساسية في أساليب كتابة الخط الديواني \[Distinguishing the Basic Differences in the Methods of Writing Diwani Calligraphy\], Hiba Studio, 1 January 2014, https://hibastudio.com/diwany-differance/.
+[^7]: Hasan Abu Afash, “Tamyīzul Furuqāti al-Asāsiyah fī Asālībi Katābati al-Khaṭ al-Dīwānī” تمييز الفروقات الأساسية في أساليب كتابة الخط الديواني \[Distinguishing the Basic Differences in the Methods of Writing Diwani Calligraphy\], Hiba Studio, 1 January 2014, [https://hibastudio.com/diwany-differance/](https://hibastudio.com/diwany-differance/).
 
 
 
-[^8]: Bonny Tan, “Habib Noh,” in _Singapore Infopedia_, National Library Board Singapore. Article published 19 August 2016; Syed Agil Othman Al-Yahya, _Arabic Calligraphy_ (Singapore: S. Agil Othman Alyahya, 2022), 3. (From PublicationSG)
+[^8]: Bonny Tan, “[Habib Noh](https://www.nlb.gov.sg/main/article-detail?cmsuuid=d464e640-b732-44f4-a32f-56920531994c),” in _Singapore Infopedia_, National Library Board Singapore. Article published 19 August 2016; Syed Agil Othman Al-Yahya, [_Arabic Calligraphy_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=206062731) (Singapore: S. Agil Othman Alyahya, 2022), 3. (From PublicationSG)
 
 
 
@@ -117,7 +117,7 @@ This article is written with the assistance of Ustaz Nasrullah Refa’ie, Ustaza
 
 
 
-[^10]: Syed Agil Othman Al-Yahya, _Arabic Calligraphy_, 21–22.
+[^10]: Syed Agil Othman Al-Yahya, [_Arabic Calligraphy_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=206062731), 21–22.
 
 
 
