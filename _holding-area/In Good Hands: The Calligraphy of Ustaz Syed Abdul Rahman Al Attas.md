@@ -16,7 +16,7 @@ But if you enter Sultan Mosque and walk up to the _mihrab_ (the pulpit or prayer
 
 If you squint a little bit more, you will see on the bottom right corner of the central panel the Arabic words “Katabahu Abdul Rahman Al-Attas” (Written by Abdul Rahman Al-Attas) in Diwani calligraphy, a cursive style which traces its history to the 16th-century Ottoman court. On the bottom left corner is the date “6 Rabi’ulawal Sanat 1368” in the Hijri (Islamic) calendar, or 5 January 1949, indicating the completion date of the calligraphy. The man behind the calligraphy is Abdul Rahman Al-Attas.
 
-A Prolific Calligrapher
+#### **A Prolific Calligrapher**
 
 Abdul Rahman Al-Attas, or Al-Ustaz Syed Abdul Rahman bin Hassan Al-Attas Al-Azhari, was a prolific calligrapher who was born in Johor Bahru in 1898. Not much is known about his life beyond that he studied calligraphy in Cairo, Egypt, first at Madrasah Tahsin Al-Khuttut and subsequently at Al-Azhar University, earning him the epithet “Al-Azhari”.2 Indeed, the Egyptian influence would pervade the calligraphic works that he would later produce.
 
@@ -24,7 +24,7 @@ Although the more enduring calligraphy artworks by Abdul Rahman Al-Attas still e
 
 To understand why his Jawi calligraphy endured and why it was a significant marker of printed Malay materials in the period before Singapore’s separation from Malaysia and independence, we need to understand the means of producing these materials.
 
-Jawi Calligraphy in Malay Print Materials
+#### **Jawi Calligraphy in Malay Print Materials**
 
 The romanisation of Malay print materials only came about in the latter half of the 20th century, after World War II. Before the romanisation of the Malay language, the predominant way of conveying knowledge, information and stories in print was in Jawi – a means of visually representing or encoding the Malay language using a modified Arabic script.3
 
@@ -36,13 +36,13 @@ Nevertheless, many of the printing presses in Southeast Asia eventually adopted 
 
 However, many Malay books and magazines still preferred to use Jawi calligraphy for their titles and masthead on the cover instead of the romanised script for aesthetic reasons. These illustrated words would require a reproduction – via lithography, other methods of relief printing, customised plates or customised metal type – of a skilled calligrapher’s work. One would assume that it was because calligraphy offered these printed Malay books and magazines what the moveable type could not provide – aesthetic variety, style and flexibility. And this was where the handwritten work of Abdul Rahman Al-Attas came in.
 
-A Master of All Styles 
+#### **A Master of All Styles **
 
 A unique feature of Arabic calligraphy, and thus Jawi calligraphy – which lends itself to the aesthetics of Malay print materials – is its ability for words and sentences to be compressed in a prescribed space by way of artfully stacking letters. Abdul Rahman Al-Attas used this aspect of calligraphy to his advantage such as when creating variations of the title of entertainment magazine _Majalah Bintang_ on the cover and first page.
 
 Whether it was the more compact and sturdy Riq’ah, the rounded curls of Diwani, the romantic Nasta’liq, or the precision and perfection of Naskh and Thuluth, Abdul Rahman Al-Attas’s calligraphic proficiency was well demonstrated on the page. Because he had learnt these styles while studying in Egypt, his calligraphy carries a distinctive Egyptian influence that is slightly different from the Ottoman Turkish or Baghdadi variants of the same style.7
 
-Calligraphy in Singapore and Southeast Asia 
+#### **Calligraphy in Singapore and Southeast Asia **
 
 Other than Sultan Mosque, Abdul Rahman Al-Attas’s calligraphy also adorns the shrine of Muslim saint Habib Noh bin Muhammad Al-Habsyi on Palmer Road in Tanjong Pagar.8 Across Southeast Asia, Abdul Rahman Al-Attas’s calligraphy can be found in places such as the tomb of Sultan Zainal Abidin in Kuala Terengganu, the Malaysian parliament building and Masjid Jame’ in Bandar Seri Begawan. His works are also preserved in collections owned by the Sultan of Johor, the Museum of Asian Art in the University of Malaya as well as the National University of Malaysia.9
 
@@ -54,13 +54,13 @@ Abdul Rahman Al-Attas’s calligraphy is not just limited to buildings and print
 
 Abdul Rahman Al-Attas also produced his own calligraphy reference book, _Tulisan Cantik_. (Unfortunately, the date and place of publication are unknown.) The publication showcases his handwriting in the Thuluth, Naskh and Riq’ah styles, a section on how calligraphers may create and prepare their own calligraphy pen for writing, and instructions such as writing in a well-lit place. 
 
-Other Calligraphers and Calligraphy Styles
+#### **Other Calligraphers and Calligraphy Styles**
 
 According to Ustaz Syed Agil Othman Al-Yahya, the former principal of Madrasah Aljunied Al-Islamiah in Singapore (who is himself a prolific calligrapher), some of the other calligraphers who were active in Singapore in the 1940s up to the 1990s include Al Ustaz Al-Fadhil As-Sayyid Abu Bakar bin Abdul Qadir Al-Yahya, Al-Ustaz Al-Fadhil Abdur Rashid Junied, Al-Ustaz Al-Fadhil Mustajab Che’ Onn, Al-Ustaz Al-Fadhil Muhammad Tarmidzi Hj Hassan, Al-Ustaz Al-Fadhil Ameen Muslim and Al-Ustaz Al-Fadhil Mahmood Abdul Majid.10
 
 While perusing Jawi print materials in the collections of the National Library, I came across the works of other calligraphers that bear their signatures. However, for the moment, the identity of these calligraphers remains a mystery to me until more research is done.
 
-Decoding Jawi Texts
+#### **Decoding Jawi Texts**
 
 While Arabic and Jawi calligraphy may have limited use in the Malay print and publishing industry in the 21st century, Jawi texts – such as handwritten manuscripts, lithographed materials and print publications – should nonetheless be studied and referenced as a point of access to the wealth of knowledge and perspectives across the Malay Archipelago. 
 
