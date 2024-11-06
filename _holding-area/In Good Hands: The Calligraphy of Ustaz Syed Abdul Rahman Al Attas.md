@@ -90,6 +90,9 @@ The master calligrapher’s penmanship also decorates the graduation certificate
 
 Abdul Rahman Al-Attas’s calligraphy is not just limited to buildings and print publications. His calligraphy can also be found in a series of commemorative glass cups produced in 1957 after the Federation of Malaya gained independence from the British. Printed on the cups is “Merdeka” written in Jawi, and just below the Arabic letter “**م**” (_mim_) is his signature.&nbsp;
 
+![](/images/Vol%2020%20Issue%204/Caligraphy/caligraphy_jayawaras.jpg)
+<div style="background-color: white;">An advertisement by Jaya Waras. Abdul Rahman Al-Attas’s identifiable signature is seen beneath the Arabic letter “م” (<i>mim</i>) in the Jawi word “Merdeka” printed on the glass cup commemorating the independence of the <i>Federation of Malaya in 1957</i>. <i>Image reproduced from Fashion, no. 170, May 1957. (From National Library, Singapore, call no. RCLOS 059.9928 F-[UAS]). </i></div>
+
 Abdul Rahman Al-Attas also produced his own calligraphy reference book, _Tulisan Cantik_. (Unfortunately, the date and place of publication are unknown.) The publication showcases his handwriting in the Thuluth, Naskh and Riq’ah styles, a section on how calligraphers may create and prepare their own calligraphy pen for writing, and instructions such as writing in a well-lit place.&nbsp;
 
 ![](/images/Vol%2020%20Issue%204/Caligraphy/caligraphy_tulisancantik.jpg)
