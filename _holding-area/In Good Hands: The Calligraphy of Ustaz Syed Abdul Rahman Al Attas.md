@@ -45,9 +45,6 @@ It was not until the invention of lithography that the reproduction of texts in 
 ![](/images/vol-11-issue-4/stories-of-abdullah/Ab2.JPG)
 <div style="background-color: white;">The fine calligraphy and beautifully coloured double frontispiece of <i>Hikayat Abdullah</i>&nbsp;lithographed by the Mission Press in 1849. <i>Collection of the National Library, Singapore (accession no. B03014389F). </i></div>
 
-![](/images/Vol%2020%20Issue%204/Caligraphy/caligraphy_hati.jpg)
-<div style="background-color: white;">The text “Dari hati ke hati” (Heart to heart), read from top to bottom, is yet another demonstration of the creativity that can be incorporated into Jawi lettering. <i>Image reproduced from Fashion, no. 20, June 1966, 1. (From National Library, Singapore, call no. RCLOS 059.9928 F-[UAS]).
-</i></div>
 
 Nevertheless, many of the printing presses in Southeast Asia eventually adopted the moveable type due to the speed, ease and volume of reproduction. The bulk of Jawi texts, books, newspapers and periodicals eventually began to be printed using compositions of Arabic characters in a moveable type.[^6] &nbsp;
 
@@ -114,6 +111,10 @@ Abdul Rahman Al-Attas also produced his own calligraphy reference book, _Tulisan
 According to Ustaz Syed Agil Othman Al-Yahya, the former principal of Madrasah Aljunied Al-Islamiah in Singapore (who is himself a prolific calligrapher), some of the other calligraphers who were active in Singapore in the 1940s up to the 1990s include Al Ustaz Al-Fadhil As-Sayyid Abu Bakar bin Abdul Qadir Al-Yahya, Al-Ustaz Al-Fadhil Abdur Rashid Junied, Al-Ustaz Al-Fadhil Mustajab Che’ Onn, Al-Ustaz Al-Fadhil Muhammad Tarmidzi Hj Hassan, Al-Ustaz Al-Fadhil Ameen Muslim and Al-Ustaz Al-Fadhil Mahmood Abdul Majid.[^10]
 
 While perusing Jawi print materials in the collections of the National Library, I came across the works of other calligraphers that bear their signatures. However, for the moment, the identity of these calligraphers remains a mystery to me until more research is done.
+
+![](/images/Vol%2020%20Issue%204/Caligraphy/caligraphy_hati.jpg)
+<div style="background-color: white;">The text “Dari hati ke hati” (Heart to heart), read from top to bottom, is yet another demonstration of the creativity that can be incorporated into Jawi lettering. <i>Image reproduced from Fashion, no. 20, June 1966, 1. (From National Library, Singapore, call no. RCLOS 059.9928 F-[UAS]).
+</i></div>
 
 #### **Decoding Jawi Texts**
 
