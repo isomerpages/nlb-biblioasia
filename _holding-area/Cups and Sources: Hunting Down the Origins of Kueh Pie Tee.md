@@ -115,7 +115,7 @@ From illustrations in a later edition by Sutardjana and in Hing’s book, we can
 
 Another popular 1950s cookbook, _Buku Masakan Thursina_ by domestic science teacher Siti Mukmin, presents equivalent recipes for “fritures” (fritters).[^25] Mukmin’s milk, egg and wheat flour “friture” batter formula is close to Sealtest’s, but her milk-free filling options are distinctly different – one features diced chicken and the other beef liver plus fatty beef, and both are bound with egg yolk-thickened broth. A third filling cloaks cooked diced vegetables with mayonnaise, a classic combination known as “Russian salad” in Europe.
 
-![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kueh_thursina2.jpg)
+![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/kueh_thursina3.jpg)
 <div style="background-color: white;"> <i>Buku Masakan Thursina</i>&nbsp;has&nbsp;recipes for “fritures” (fritters). <i>Image reproduced from Siti Mukmin and Dahniar Jatim, Buku Masakan Thursina, 22nd ed. (Jakarta: Esbe Publishers, 1982). Courtesy of Christopher Tan.</i></div>
 
 Asian cooks also tweaked the fritter batter. To help the shells stay crispy in Southeast Asia’s humid weather, cooks would add rice flour, said Khir.[^26] As did other vintage formulas, a 1960s recipe in the Ipoh-published _The Malayan Cookbook_ further adds “a pinch of chunam”, which in heritage architecture jargon often means “plaster” but here refers to slaked lime paste, or _kapur sirih_; its alkalinity gives the shells more colour and crunch.[^27] For this same reason, Sutardjana makes her batter with _air belanda_ – “tonic water”.
