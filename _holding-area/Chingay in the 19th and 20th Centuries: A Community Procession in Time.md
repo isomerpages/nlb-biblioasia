@@ -17,7 +17,7 @@ By Timothy Pwee
 
 Most people in Singapore today associate the Chingay Parade with the Lunar New Year, which is not surprising because since the early 1970s, the People’s Association has been organising the annual Chingay Parade to celebrate the new year.&nbsp;
 
-However, _chingay_ originally had nothing to do with the Lunar New Year. _Chingay_, or _tsng gē_ in Hokkien, is derived from the Chinese term, 裝藝 (_zhuang yi_). In his 1873 Chinese-English Amoy dictionary, Carstairs Douglas says the&nbsp; _gē_ (藝) is “a large frame with incense and boys dressed as girls carried in processions”, and _tsng_ (裝) refers to the children dressed up as characters on that mobile stage to form a tableaux.[^1] \[A colleague pointed out that Douglas may have meant the traditional Chinese character 妝 (妆; meaning to adorn or to dress up) rather than 裝 (装; meaning dress or attire). Although they are two different words, both have the same pronunciation in Hokkien, Cantonese and Mandarin.\]
+However, _chingay_ originally had nothing to do with the Lunar New Year. According to Carstairs Douglas, who was a missionary in Amoy (now Xiamen) for more than 20 years,&nbsp;_chingay_ or _tsng gē_ in Hokkien, is derived from the Chinese term, 裝藝 (_zhuang yi_). In his 1873 Chinese-English Amoy dictionary, Carstairs Douglas says the&nbsp; _gē_ (藝) is “a large frame with incense and boys dressed as girls carried in processions”, and _tsng_ (裝) refers to the children dressed up as characters on that mobile stage to form a tableaux.[^1] \[A colleague pointed out that Douglas may have meant the traditional Chinese character 妝 (妆; meaning to adorn or to dress up) rather than 裝 (装; meaning dress or attire). Although they are two different words, both have the same pronunciation in Hokkien, Cantonese and Mandarin.\]
 
 
 ![](/images/Vol%2020%20Issue%204/Chingay/chingay_postcard.jpg)
@@ -118,7 +118,7 @@ The first Chingay Parade with the float procession as we know it was staged on 4
 
 #### **Notes**
 
-[^1]: Carstairs Douglas, [_Chinese-English Dictionary of the Vernacular or Spoken Language of Amoy, with the Principal Variations of the Chang-Chew and Chin-Chew Dialects_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4346061) (London: Trubner, 1873), 104–105, 579. (From National Library, Singapore, call no. RCLOS 495.17321 DOU-\[LYF\])
+[^1]: Carstairs Douglas, [_Chinese-English Dictionary of the Vernacular or Spoken Language of Amoy, with the Principal Variations of the Chang-Chew and Chin-Chew Dialects_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4346061) (London: Trubner, 1873), 104–105, 579. (From National Library, Singapore, call no. RCLOS 495.17321 DOU-\[LYF\]) \[Hokkien is a variety of the Southern Min language spoken in the coastal region of southeastern Fujian, China.\]
 
 
 [^2]: Lu Xun, [朝花夕拾= _Dawn Blossoms Plucked at Dusk_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202698087), trans. Yang Xianyi and Gladys Yang (Beijing: Foreign Languages Press, 2000), 79. (From National Library, Singapore, call no. C814.3 LX) (eBook editions are available on NLB OverDrive)
