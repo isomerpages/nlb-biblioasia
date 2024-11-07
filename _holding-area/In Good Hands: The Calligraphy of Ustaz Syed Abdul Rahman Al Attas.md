@@ -19,9 +19,6 @@ But if you enter Sultan Mosque and walk up to the _mihrab_ (the pulpit or prayer
 
 If you squint a little bit more, you will see on the bottom right corner of the central panel the Arabic words “Katabahu Abdul Rahman Al-Attas” (Written by Abdul Rahman Al-Attas) in Diwani calligraphy, a cursive style which traces its history to the 16th-century Ottoman court. On the bottom left corner is the date “6 Rabi’ulawal Sanat 1368” in the Hijri (Islamic) calendar, or 5 January 1949, indicating the completion date of the calligraphy. The man behind the calligraphy is Abdul Rahman Al-Attas.
 
-![](/images/Vol%2020%20Issue%204/Caligraphy/caligraphy_filmraya48.jpg)
-<div style="background-color: white;">In subsequent designs for the masthead of <i>Film Raya</i>, Abdul Rahman Al-Attas also included the description “Majalah film bulanan yang terkemuka di Malaya” (Leading film monthly in Malaya) in the Diwani calligraphy style. <i>Image reproduced from Film Raya, no. 48, May 1952. (From National Library, Singapore, call no. RCLOS 793.43095957 FR).</i></div>
-
 ![](/images/Vol%2020%20Issue%204/Caligraphy/caligraphy_melayuraya.jpg)
 <div style="background-color: white;">Abdul Rahman Al-Attas demonstrates his proficiency in the Diwani Jali calligraphy style in the Jawi version of the company logo of Melayu Raya Press. This style allows for greater stacking and compression of Arabic letters in the Diwani calligraphy style. <i>Image reproduced from Alam Perempuan, published in 1951 by Melayu Raya Press. (From National Library, Singapore, call no. RCLOS 305.4 MUH). </i></div>
 
@@ -39,6 +36,9 @@ The romanisation of Malay print materials only came about in the latter half of 
 
 ![](/images/Vol%2020%20Issue%204/Caligraphy/caligraphy_filmraya.jpg)
 <div style="background-color: white;">The design for the masthead of <i>Film Raya</i> incorporates ornate lettering in both Jawi and romanised Malay. In this example we see Abdul Rahman Attas’s signature in both Arabic and romanised Malay. <i> Image reproduced from Film Raya, no. 5, May 1951. (From National Library, Singapore, call no. RCLOS 793.43095957 FR).  </i></div>
+
+![](/images/Vol%2020%20Issue%204/Caligraphy/caligraphy_filmraya48.jpg)
+<div style="background-color: white;">In subsequent designs for the masthead of <i>Film Raya</i>, Abdul Rahman Al-Attas also included the description “Majalah film bulanan yang terkemuka di Malaya” (Leading film monthly in Malaya) in the Diwani calligraphy style. <i>Image reproduced from Film Raya, no. 48, May 1952. (From National Library, Singapore, call no. RCLOS 793.43095957 FR).</i></div>
 
 Although book printing and production in the Western world changed with the arrival of the printing press and the moveable type, much of the world that relied on Arabic characters in their means of communication – such as Ottoman Turkey, Northwestern Africa and India – found the moveable type restrictive and stilted; it could not quite capture the fluidity of the handwritten Arabic script.&nbsp;
 
