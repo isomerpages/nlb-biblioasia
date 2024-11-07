@@ -50,9 +50,6 @@ Nevertheless, many of the printing presses in Southeast Asia eventually adopted 
 
 However, many Malay books and magazines still preferred to use Jawi calligraphy for their titles and masthead on the cover instead of the romanised script for aesthetic reasons. These illustrated words would require a reproduction – via lithography, other methods of relief printing, customised plates or customised metal type – of a skilled calligrapher’s work. One would assume that it was because calligraphy offered these printed Malay books and magazines what the moveable type could not provide – aesthetic variety, style and flexibility. And this was where the handwritten work of Abdul Rahman Al-Attas came in.
 
-![](/images/Vol%2020%20Issue%204/Caligraphy/caligraphy_advertisement.jpg)
-<div style="background-color: white;">While most of the advertisement for the <i>Film Raya</i> magazine was done using a letterpress, the ornate lettering for the title of the magazine was designed by Abdul Rahman Al-Attas in both Jawi and romanised Malay. <i>Image reproduced from Alam Perempuan, published in 1951 by Melayu Raya Press. (From National Library, Singapore, call no. RCLOS 305.4 MUH). </i></div>
-
 #### **A Master of All Styles&nbsp;**
 
 A unique feature of Arabic calligraphy, and thus Jawi calligraphy – which lends itself to the aesthetics of Malay print materials – is its ability for words and sentences to be compressed in a prescribed space by way of artfully stacking letters. Abdul Rahman Al-Attas used this aspect of calligraphy to his advantage such as when creating variations of the title of entertainment magazine _Majalah Bintang_ on the cover and first page.
@@ -88,6 +85,9 @@ Abdul Rahman Al-Attas also designed the titles and mastheads for a number of Mal
 
 ![](/images/Vol%2020%20Issue%204/Caligraphy/caligraphy_signature.jpg)
 <div style="background-color: white;">Abdul Rahman Al-Attas’s calligraphy is easily identified by his signature bearing his family name, Al-Attas. The title of this article in entertainment magazine <i>Majalah Bintang</i>, written in both the Diwani and Thuluth calligraphy styles, wishes its readers “Selamat Berhari Raya Aidil Adha” (Happy Eid al-Adha). <i> Image reproduced from Majalah Bintang, no. 100, June 1959, 19–20. (From National Library, Singapore, call no. RCLOS 793.43095957 MB).  </i></div>
+
+![](/images/Vol%2020%20Issue%204/Caligraphy/caligraphy_advertisement.jpg)
+<div style="background-color: white;">While most of the advertisement for the <i>Film Raya</i> magazine was done using a letterpress, the ornate lettering for the title of the magazine was designed by Abdul Rahman Al-Attas in both Jawi and romanised Malay. <i>Image reproduced from Alam Perempuan, published in 1951 by Melayu Raya Press. (From National Library, Singapore, call no. RCLOS 305.4 MUH). </i></div>
 
 The master calligrapher’s penmanship also decorates the graduation certificate of Madrasah Aljunied Al-Islamiah. Neatly written in Jawi amid the swirling green vegetal border at the bottom right corner of the certificate is the text “Ditulis dan dilukis oleh Abdul Rahman Hassan Al-Attas” (Written and drawn by Abdul Rahman Hassan Al-Attas), which indicates that he was responsible for both the calligraphy and the design of the decorative border.&nbsp;
 
