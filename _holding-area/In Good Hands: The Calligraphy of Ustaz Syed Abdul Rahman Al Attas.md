@@ -19,8 +19,6 @@ But if you enter Sultan Mosque and walk up to the _mihrab_ (the pulpit or prayer
 
 If you squint a little bit more, you will see on the bottom right corner of the central panel the Arabic words “Katabahu Abdul Rahman Al-Attas” (Written by Abdul Rahman Al-Attas) in Diwani calligraphy, a cursive style which traces its history to the 16th-century Ottoman court. On the bottom left corner is the date “6 Rabi’ulawal Sanat 1368” in the Hijri (Islamic) calendar, or 5 January 1949, indicating the completion date of the calligraphy. The man behind the calligraphy is Abdul Rahman Al-Attas.
 
-![](/images/Vol%2020%20Issue%204/Caligraphy/caligraphy_melayuraya.jpg)
-<div style="background-color: white;">Abdul Rahman Al-Attas demonstrates his proficiency in the Diwani Jali calligraphy style in the Jawi version of the company logo of Melayu Raya Press. This style allows for greater stacking and compression of Arabic letters in the Diwani calligraphy style. <i>Image reproduced from Alam Perempuan, published in 1951 by Melayu Raya Press. (From National Library, Singapore, call no. RCLOS 305.4 MUH). </i></div>
 
 #### **A Prolific Calligrapher**
 
@@ -58,6 +56,11 @@ However, many Malay books and magazines still preferred to use Jawi calligraphy 
 #### **A Master of All Styles&nbsp;**
 
 A unique feature of Arabic calligraphy, and thus Jawi calligraphy – which lends itself to the aesthetics of Malay print materials – is its ability for words and sentences to be compressed in a prescribed space by way of artfully stacking letters. Abdul Rahman Al-Attas used this aspect of calligraphy to his advantage such as when creating variations of the title of entertainment magazine _Majalah Bintang_ on the cover and first page.
+
+
+![](/images/Vol%2020%20Issue%204/Caligraphy/caligraphy_melayuraya.jpg)
+<div style="background-color: white;">Abdul Rahman Al-Attas demonstrates his proficiency in the Diwani Jali calligraphy style in the Jawi version of the company logo of Melayu Raya Press. This style allows for greater stacking and compression of Arabic letters in the Diwani calligraphy style. <i>Image reproduced from Alam Perempuan, published in 1951 by Melayu Raya Press. (From National Library, Singapore, call no. RCLOS 305.4 MUH). </i></div>
+
 
 ![](/images/Vol%2020%20Issue%204/Caligraphy/caligraphy_variations.jpg)
 <div style="background-color: white;">Abdul Rahman Al-Attas designed a few variations of the masthead for the <i>Majalah Bintang</i> magazine. In this version, the words “Majalah” and “Bintang” are stacked one above the other. <i>Image reproduced from Majalah Bintang, no. 100, June 1959, 3. (From National Library, Singapore, call no. RCLOS 793.43095957 MB).</i></div>
