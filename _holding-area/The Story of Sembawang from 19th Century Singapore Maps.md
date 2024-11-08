@@ -69,8 +69,12 @@ In November 1968, the _Sin Chew Jit Poh_ Chinese newspaper reported that Nám T�
 
 The present Sembawang town is bounded by the Strait of Johor to the north, Simpang to the east, Woodlands to the west, and Mandai and Yishun to the south. However, early maps of Singapore reveal that Sembawang covered a much larger area than now, which included parts of Woodlands and Mandai. In the present day, Sembawang occupies a smaller area although it stretches beyond Sembawang Road into parts of Simpang and Seletar.&nbsp;
 
-&nbsp;One of the earliest maps to name the area as “Sambawang” is the 1873 _Map of the Island of Singapore and Its Dependencies_ prepared by the Surveyor-General’s Office of the Federated Malay States and Straits Settlements. An area occupying about two-thirds in the north – stretching from Sembawang Road to Bukit Timah Road – is indicated as “Mandai and Sambawang”.[^28] Prior to this, maps did not name the places on the island but featured the _kang_ and rivers only.
+One of the earliest maps to name the area as “Sambawang” is the 1873 _Map of the Island of Singapore and Its Dependencies_ prepared by the Surveyor-General’s Office of the Federated Malay States and Straits Settlements. An area occupying about two-thirds in the north – stretching from Sembawang Road to Bukit Timah Road – is indicated as “Mandai and Sambawang”.[^28] Prior to this, maps did not name the places on the island but featured the _kang_ and rivers only.
  
+![](/images/Vol%2020%20Issue%204/Sembawang/sembawang_1873.jpg)
+<div style="background-color: white;">Detail from <i>Map of the Island of Singapore and Its Dependencies</i>. This 1873 map is one of the earliest to name the area as “Sambawang”. It also shows the locations of the police stations across the island. The nearest police stations to Sembawang were in Chan Chu Kang (Police Station No. 7) and Seletar (Police Station No. 8). <i>Singapore Land Authority Collection, courtesy of National Archives of Singapore (accession no. GM000297_1).
+ </i></div>
+
 From the mid-1880s, maps began to indicate Mandai and Sembawang as separate areas. An 1886 map, originally enclosed with the _Annual Report of the Forest Department, Straits Settlements_, is one of the first to feature “Sembawang” in its current spelling. It shows the location of the forest reserve more accurately, which occupied both the Mandai and Sembawang areas, and is today part of Mandai Wildlife Reserve.[^29]
 
 When the third population census was conducted in 1891, the report featured a map showing the different census districts. A large area in the north is referred to as “Sembawang”, with “Mandai” and “Upper Mandai” as separate districts situated to the west.[^30]
