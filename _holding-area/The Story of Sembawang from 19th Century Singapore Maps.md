@@ -108,6 +108,9 @@ When Chinese coolies cleared the forests for plantations, pathways were also cut
 
 Works to build a new road, most likely in Sembawang, began sometime around March 1849, and was probably supervised by Thomson who oversaw public works at the time. By the middle of the year, the carriage road had extended to the northern coast facing the Johor Strait. The new road that ran between Sungei Sembawang and Sungei Simpang is clearly depicted on an 1849 map by Thomson titled _Map of Singapore Island and Its Dependencies_.[^37]
 
+![](/images/Vol%2020%20Issue%204/Sembawang/sembawang_1849.jpg)
+<div style="background-color: white;">Detail from <i>Map of Singapore Island and Its Dependencies</i> by John Turnbull Thomson. This 1849 map is one of the earliest to show Sembawang Road extending to the sea coast. <i>National Archives of India Collection, courtesy of National Archives of Singapore (accession no. SP007229).</i></div>
+
 News articles from mid-1849 began referring to the new road as “Thomson’s new road”, and subsequently as “Thomson Road”, “Thomson’s Road” and “Thomsons Road”. The name appears slightly later on maps. On an 1851 British chart titled _Straits of Singapore, Durian and Rhio_, the road is depicted as “Thompsons Road” and on another 1850s _Map of the Island of Singapore and Its Dependencies_, the road is called “Thomsons Road”.[^38]
 
 By the 1870s, the road was shown as a major road on maps, with newspapers calling the upper half of the road (from the junction of Mandai Road to the sea) “Seletar Road” and the lower half “Thomsons Road”.[^39]
