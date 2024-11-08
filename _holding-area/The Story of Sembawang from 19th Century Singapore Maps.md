@@ -110,7 +110,7 @@ By the beginning of the 20th century, the rubber trade had begun to replace the 
 
 
 
-[^2]: For various names given to the Johor Strait, see the Infopedia article: Vernon Cornelius-Takahama, “Strait of Johor,” in _Singapore Infopedia_. National Library Board Singapore. Article published April 2018.
+[^2]: For various names given to the Johor Strait, see the Infopedia article: Vernon Cornelius-Takahama, “[Strait of Johor](https://www.nlb.gov.sg/main/article-detail?cmsuuid=1ea6fa8a-43de-40c0-bbb5-73cdb614a6fe),” in _Singapore Infopedia_. National Library Board Singapore. Article published April 2018.
 
 
 
@@ -118,15 +118,15 @@ By the beginning of the 20th century, the rubber trade had begun to replace the 
 
 
 
-[^4]: “Mesua singaporiana,” The Wallich Catalogue: Recreating a 19th Century Herbarium, last accessed 17 October 2024, https://wallich.rbge.org.uk/index.php?section=entries&amp;id=4836.
+[^4]: “Mesua singaporiana,” The Wallich Catalogue: Recreating a 19th Century Herbarium, last accessed 17 October 2024, [https://wallich.rbge.org.uk/index.php?section=entries&amp;id=4836](https://wallich.rbge.org.uk/index.php?section=entries&amp;id=4836).
 
 
 
-[^5]: H.N. Ridley, “Malay Plant Names,” _Journal of the Straits Branch of the Royal Asiatic Society_ no. 30 (July 1897): 34, 256. (From JSTOR via NLB’s eResources website)
+[^5]: H.N. Ridley, “Malay Plant Names,” _Journal of the Straits Branch of the Royal Asiatic Society_ no. 30 (July 1897): 34, 256. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
 
 
-[^6]: In Malay, _buah_ means “fruit” and _pokok_ means “tree” or “shrub”. _Kayea ferruginea_ was first recorded in 1885 in Vietnam by French botanist J.B. Pierre, and has been called _Mesua ferruginea_ since 1969. The tree grows in wet tropical areas and is native to Borneo, Cambodia, Singapore, Malaysia (including Johor), Thailand and Vietnam, and can also be found in the Andaman Islands. See Henry Nicholas Ridley, _The Flora of the Malay Peninsula_ (London: L. Reeve &amp; Co., 1922), 189–90. (From National Library, Singapore, call no. RSING &nbsp; 581.9595 RID); “Kayea Ferruginea Pierre,” Royal Botanic Gardens of Kew, last accessed 17 October 2024, https://powo.science.kew.org/results?q=kayea%20ferruginea. In a 1955 newspaper article, it is noted that the tree is also called “Sembawang” in Riau and Johor, while it is called “senawang” in Kedah. See S. “Ramachandra”, “What’s in a Name: Trees Were the Fad in Singapore,” _Straits Times_, 16 January 1955, 21. (From NewspaperSG)
+[^6]: In Malay, _buah_ means “fruit” and _pokok_ means “tree” or “shrub”. _Kayea ferruginea_ was first recorded in 1885 in Vietnam by French botanist J.B. Pierre, and has been called _Mesua ferruginea_ since 1969. The tree grows in wet tropical areas and is native to Borneo, Cambodia, Singapore, Malaysia (including Johor), Thailand and Vietnam, and can also be found in the Andaman Islands. See Henry Nicholas Ridley, [_The Flora of the Malay Peninsula_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3586524) (London: L. Reeve &amp; Co., 1922), 189–90. (From National Library, Singapore, call no. RSING &nbsp; 581.9595 RID); “Kayea Ferruginea Pierre,” Royal Botanic Gardens of Kew, last accessed 17 October 2024, https://powo.science.kew.org/results?q=kayea%20ferruginea. In a 1955 newspaper article, it is noted that the tree is also called “Sembawang” in Riau and Johor, while it is called “senawang” in Kedah. See S. “Ramachandra”, “What’s in a Name: Trees Were the Fad in Singapore,” _Straits Times_, 16 January 1955, 21. (From NewspaperSG)
 
 
 
