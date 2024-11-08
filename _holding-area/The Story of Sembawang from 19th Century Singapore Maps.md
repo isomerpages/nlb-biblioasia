@@ -212,19 +212,19 @@ By the beginning of the 20th century, the rubber trade had begun to replace the 
 
 
 
-[^28]: Survey Department Singapore, _Map of the Island of Singapore and Its Dependencies_, 1873, map. (From National Archives of Singapore, accession no. GM000297\_1)&nbsp;
+[^28]: Survey Department Singapore, [_Map of the Island of Singapore and Its Dependencies_](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f9700d7b-115c-11e3-83d5-0050568939ad), 1873, map. (From National Archives of Singapore, accession no. GM000297\_1)&nbsp;
 
 
 
-[^29]: The National Archives, United Kingdom, _Map of the Island of Singapore_, 1886, map. (From National Archives of Singapore, accession no. D2016\_000204)
+[^29]: The National Archives, United Kingdom, [_Map of the Island of Singapore_](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/b638d537-57a3-11e6-b4c5-0050568939ad), 1886, map. (From National Archives of Singapore, accession no. D2016\_000204)
 
 
 
-[^30]: _Map no. II – Map of the Island of Singapore and Its Dependencies: Shewing Census Divisions – 1891_ in E.M. Mereweather, _Report on the Census of the Straits Settlements, Taken on the 5th April 1891_ (Singapore: Printed at the Government Printing Office, 1892). (From National Library Online, accession no. B18976509A)
+[^30]: _Map no. II – Map of the Island of Singapore and Its Dependencies: Shewing Census Divisions – 1891_ in E.M. Mereweather, [_Report on the Census of the Straits Settlements, Taken on the 5th April 1891_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=7f8d9880-0b46-4457-9f37-2d3a0883dee9) (Singapore: Printed at the Government Printing Office, 1892). (From National Library Online, accession no. B18976509A)
 
 
 
-[^31]: National Archives of Singapore, “Singapore, Mileages Along Roads, 1936,” 11 December 2015, https://corporate.nas.gov.sg/media/collections-and-research/singapore-mileages/; Melody Zaccheus, “In Singapore, All Roads Lead to the General Post Office,” _Straits Times_, 22 June 2015, 3. (From NewspaperSG)
+[^31]: National Archives of Singapore, “[Singapore, Mileages Along Roads, 1936](https://corporate.nas.gov.sg/media/collections-and-research/singapore-mileages/),” 11 December 2015, [https://corporate.nas.gov.sg/media/collections-and-research/singapore-mileages/](https://corporate.nas.gov.sg/media/collections-and-research/singapore-mileages/); Melody Zaccheus, “[In Singapore, All Roads Lead to the General Post Office](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20150622-1.2.26.5),” _Straits Times_, 22 June 2015, 3. (From NewspaperSG)
 
 
 
@@ -232,32 +232,32 @@ By the beginning of the 20th century, the rubber trade had begun to replace the 
 
 
 
-[^33]: Royal Geographical Society, London, _Map of the Island of Singapore and Its Dependencies, 1911_, 1912, map. (From National Archives of Singapore, accession no. D2018\_000214\_RGS); “Municipal Commission,” _Singapore Free Press and Mercantile Advertiser_, 6 June 1908, 12. (From NewspaperSG)&nbsp;
+[^33]: Royal Geographical Society, London, [_Map of the Island of Singapore and Its Dependencies, 1911_](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/32231569-035e-11e9-9481-001a4a5ba61b), 1912, map. (From National Archives of Singapore, accession no. D2018\_000214\_RGS); “[Municipal Commission](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19080606-1.2.78),” _Singapore Free Press and Mercantile Advertiser_, 6 June 1908, 12. (From NewspaperSG)&nbsp;
 
 
 
-[^34]: Thulaja Naidu Ratnala, “Sembawang Road,” in _Singapore Infopedia_. National Library Board Singapore. Article published September 2020.
+[^34]: Thulaja Naidu Ratnala, “[Sembawang Road](https://www.nlb.gov.sg/main/article-detail?cmsuuid=7ba964c6-87a1-4b42-bf3f-47e2ee053613),” in _Singapore Infopedia_. National Library Board Singapore. Article published September 2020.
 
 
 
-[^35]: John Turnbull Thomson and John Arrowsmith, _Singapore Island Surveyed and Drawn By J.T. Thomson, Government Surveyor, Singapore 20th Dec 1844_, 1844, map. (From National Library Online).&nbsp;
+[^35]: John Turnbull Thomson and John Arrowsmith, [_Singapore Island Surveyed and Drawn By J.T. Thomson, Government Surveyor, Singapore 20th Dec 1844_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=16447179-827b-4bc5-8053-61e5fff9f03e), 1844, map. (From National Library Online).&nbsp;
 
 
 
-[^36]: Lim, “Gambier and Early Development of Singapore,” 49; Thomson, _Map of the Old Straits or Silat Tambrau and the Creeks to the North of Singapore Island_.&nbsp;
+[^36]: Lim, “[Gambier and Early Development of Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203868804),” 49; Thomson, [_Map of the Old Straits or Silat Tambrau and the Creeks to the North of Singapore Island_](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb865de0-115c-11e3-83d5-0050568939ad).&nbsp;
 
 
 
-[^37]: “Page 1 Advertisements Column 3: Disbursements,” _Singapore Free Press and Mercantile Advertiser_, 1 March 1849, 1. (From NewspaperSG); John Turnbull Thomson, _Map of Singapore Island and Its Dependencies_, 1849, map. (From National Archives of Singapore, accession no. SP007229)&nbsp;
+[^37]: “[Page 1 Advertisements Column 3: Disbursements](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18490301-1.2.2.3),” _Singapore Free Press and Mercantile Advertiser_, 1 March 1849, 1. (From NewspaperSG); John Turnbull Thomson, [_Map of Singapore Island and Its Dependencies_](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fbbb2770-115c-11e3-83d5-0050568939ad), 1849, map. (From National Archives of Singapore, accession no. SP007229)&nbsp;
 
 
 
-[^38]: See for example, “Gang Robbery and Murder,” _Straits Time_s, 26 June 1849, 4; “Local”, _Singapore Free Press and Mercantile Advertiser_, 3 May 1850, 2;&nbsp; “Page 1 Advertisements Column 2,” _Singapore Free Press and Mercantile Advertiser_ , 12 February 1857, 1. (From NewspaperSG). For the maps, see Great Britain Hydrographic Office, _Straits of Singapore, Durian and Rhio_ (London: Hydrographic Office of Admiralty, 1851). (From National Library, Singapore, accession no. B20124033D); The National Archives, United Kingdom, _Map of the Island of Singapore and Its Dependencies_, c. 1854, map. (From National Archives of Singapore, accession no. SP006818)
+[^38]: See for example, “[Gang Robbery and Murder](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18490626-1.2.9),” _Straits Times_, 26 June 1849, 4; “[Local](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18500503-1.2.3)”, _Singapore Free Press and Mercantile Advertiser_, 3 May 1850, 2;&nbsp; “[Page 1 Advertisements Column 2](),” _Singapore Free Press and Mercantile Advertiser_ , 12 February 1857, 1. (From NewspaperSG). For the maps, see Great Britain Hydrographic Office, [_Straits of Singapore, Durian and Rhio_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202254231) (London: Hydrographic Office of Admiralty, 1851). (From National Library, Singapore, accession no. B20124033D); The National Archives, United Kingdom, [_Map of the Island of Singapore and Its Dependencies_](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb42878b-115c-11e3-83d5-0050568939ad), c. 1854, map. (From National Archives of Singapore, accession no. SP006818)
 
 
 
-[^39]: “Monday 1st November,” _Straits Times_, 6 November 1875, 4; “The Municipality,” _Straits Times Overland Journal_, 12 April 1879, 3; “New Names for Roads,” _Straits Times_, 14 February 1939, 14. (From NewspaperSG)
+[^39]: “[Monday 1st November](),” _Straits Times_, 6 November 1875, 4; “[The Municipality](https://eresources.nlb.gov.sg/newspapers/digitised/article/stoverland18790412-1.2.12),” _Straits Times Overland Journal_, 12 April 1879, 3; “[New Names for Roads](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19390214-1.2.88),” _Straits Times_, 14 February 1939, 14. (From NewspaperSG)
 
 
 
-[^40]: “New Names for Roads.” The name “Seletar Road” originated from the Malay word _Seletar_, which was also used for Sungei Seletar (Seletar River) and the Orang Seletar living along the river. It was most likely a name used by the locals to refer to the new road.
+[^40]: “[New Names for Roads](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19390214-1.2.88).” The name “Seletar Road” originated from the Malay word _Seletar_, which was also used for Sungei Seletar (Seletar River) and the Orang Seletar living along the river. It was most likely a name used by the locals to refer to the new road.
