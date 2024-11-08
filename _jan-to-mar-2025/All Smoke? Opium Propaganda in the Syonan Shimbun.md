@@ -249,7 +249,7 @@ Source: “戒煙歌 - 李香蘭 Li Xiang Lan (山口淑子 Yoshiko Yamaguchi),�
 
 
 
-[^25]: Jie Li, “A National Cinema for a Puppet State: The Manchurian Motion Picture Association,” in&nbsp;_[The Oxford Handbook of Chinese Cinemas](https://eservice.nlb.gov.sg/redir/itemdetails?bid=206005148)_, ed. Carlos Rojas and Eileen Cheng-yin Chow (New York: Oxford University Press, 2019), 79, 89. (From National Library, Singapore, call no. RSING 791.430951 OXF-ART\]); “[Film Shows Chinese Revolt Against British Imperialism](https://eresources.nlb.gov.sg/newspapers/digitised/article/syonantimes19430513-1.2.19),”&nbsp;_Syonan Shimbun_, 13 May 1943, 2; “[Story of Britain's Introduction of Opium into China](https://eresources.nlb.gov.sg/newspapers/digitised/article/syonantimes19440803-1.2.16),”&nbsp;_Syonan Shimbun_, 3 August 1944, 2. (From NewspaperSG)
+[^25]: Jie Li, “A National Cinema for a Puppet State: The Manchurian Motion Picture Association,” in&nbsp;_[The Oxford Handbook of Chinese Cinemas](https://eservice.nlb.gov.sg/redir/itemdetails?bid=206005148)_, ed. Carlos Rojas and Eileen Cheng-yin Chow (New York: Oxford University Press, 2019), 79, 89. (From Central Public Library, library@chinatown and Punggol Regional Library, call no. 791.430951 OXF-ART\]); “[Film Shows Chinese Revolt Against British Imperialism](https://eresources.nlb.gov.sg/newspapers/digitised/article/syonantimes19430513-1.2.19),”&nbsp;_Syonan Shimbun_, 13 May 1943, 2; “[Story of Britain's Introduction of Opium into China](https://eresources.nlb.gov.sg/newspapers/digitised/article/syonantimes19440803-1.2.16),”&nbsp;_Syonan Shimbun_, 3 August 1944, 2. (From NewspaperSG)
 
 
 
