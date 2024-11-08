@@ -182,43 +182,42 @@ By the beginning of the 20th century, the rubber trade had begun to replace the 
 
 
 
-[^20]: 
+[^20]:  John Turnbull Thomson, _Map of the Old Straits or Silat Tambrau and the Creeks to the North of Singapore Island_, 1848, map. (From National Archives of Singapore, accession no. HC000870)&nbsp;
+
+
+[^21]: The _kang_ were usually named after the surname of the headmen, but researcher Lim Guan Hock speculates that Nam To Kang was likely named after a geographical feature. It is also known that the _kang_ had links to Chinese secret societies, with Nam To Kang being affiliated to the Ngee Heng Kongsi.
 
 
 
-[^21]: 
+[^22]: “Untitled,” _Straits Times_, 15 May 1855, 5. (From NewspaperSG); O’Dempsey and Chew, “The Freshwater Swamp Forests of Sungei Seletar Catchment: A Status Report,” 121, 124–25.
 
 
 
-[^22]: 
+[^23]: Nathaniel Cantley, “Report on the Forests of the Straits Settlements,” in _Proceedings of the Legislative Council of the Straits Settlements for the Year 1883_ (Singapore: Government Printing Office, 1883). (From National Library, Singapore, call no. RRARE 328.5957 SSLCPL; accession no. B20048240I)
 
 
 
-[^23]: 
+[^24]: H.M. Burkill, “The Botanic Gardens and Conservation in Malaya,” _The Gardens’ Bulletin Singapore_ 17 (1958): 201–02, https://www.nparks.gov.sg/sbg/research/publications/gardens'-bulletin-singapore/-/media/sbg/gardens-bulletin/4-4-17-2-13-y1959-v17p2-gbs-pg-201.pdf; Lim Tin Seng, “Saving Singapore’s Forests,” in National Library Board, _Stories From the Stacks: Selections From the Rare Materials Collection National Library_ (Singapore: National Library Board, 2020), 93. (From National Library, Singapore, call no. RSING 016.95957 SIN-\[LIB\])
 
 
 
-[^24]: 
+[^25]: “Gang Robbery,” _Straits Times_, 3 March 1903, 5. (From NewspaperSG)
 
 
 
-[^25]: 
+[^26]: For further information on the villages, see the manuscript notes of Lee Kip Lin in his report, _Villages in the Rural District Areas_ \[circa 1960s\]. (From National Library, Singapore, call no. RDLKL 307.72095957 VIL)
 
 
 
-[^26]: 
+[^27]: “Cong lan tu gang dao shuichí cun,” 從爛土港到水池村 \[From Lang Tu Port to Pool Village\], 星洲日报_Sin Chew Jit Poh_, 11 November 1968, 20. (From NewspaperSG)&nbsp;
 
 
 
-[^27]: 
+[^28]: Survey Department Singapore, _Map of the Island of Singapore and Its Dependencies_, 1873, map. (From National Archives of Singapore, accession no. GM000297\_1)&nbsp;
 
 
 
-[^28]: 
-
-
-
-[^29]: 
+[^29]: The National Archives, United Kingdom, _Map of the Island of Singapore_, 1886, map. (From National Archives of Singapore, accession no. D2016\_000204)
 
 
 
