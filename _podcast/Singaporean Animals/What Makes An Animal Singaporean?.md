@@ -1,0 +1,8 @@
+---
+title: What Makes An Animal Singaporean?
+permalink: /what-makes-an-animal-singaporean/
+variant: tiptap
+description: What Makes An Animal Singaporean?
+image: /images/Podcast/Tim_600_400.jpg
+third_nav_title: Singaporean Animals
+---
