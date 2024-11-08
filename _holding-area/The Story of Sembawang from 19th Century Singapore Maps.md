@@ -106,4 +106,4 @@ By the beginning of the 20th century, the rubber trade had begun to replace the 
 #### **Notes**
 
 
-[^1]:  
+[^1]:
