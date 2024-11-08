@@ -126,26 +126,26 @@ By the beginning of the 20th century, the rubber trade had begun to replace the 
 
 
 
-[^6]: In Malay, _buah_ means “fruit” and _pokok_ means “tree” or “shrub”. _Kayea ferruginea_ was first recorded in 1885 in Vietnam by French botanist J.B. Pierre, and has been called _Mesua ferruginea_ since 1969. The tree grows in wet tropical areas and is native to Borneo, Cambodia, Singapore, Malaysia (including Johor), Thailand and Vietnam, and can also be found in the Andaman Islands. See Henry Nicholas Ridley, [_The Flora of the Malay Peninsula_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3586524) (London: L. Reeve &amp; Co., 1922), 189–90. (From National Library, Singapore, call no. RSING &nbsp; 581.9595 RID); “Kayea Ferruginea Pierre,” Royal Botanic Gardens of Kew, last accessed 17 October 2024, https://powo.science.kew.org/results?q=kayea%20ferruginea. In a 1955 newspaper article, it is noted that the tree is also called “Sembawang” in Riau and Johor, while it is called “senawang” in Kedah. See S. “Ramachandra”, “What’s in a Name: Trees Were the Fad in Singapore,” _Straits Times_, 16 January 1955, 21. (From NewspaperSG)
+[^6]: In Malay, _buah_ means “fruit” and _pokok_ means “tree” or “shrub”. _Kayea ferruginea_ was first recorded in 1885 in Vietnam by French botanist J.B. Pierre, and has been called _Mesua ferruginea_ since 1969. The tree grows in wet tropical areas and is native to Borneo, Cambodia, Singapore, Malaysia (including Johor), Thailand and Vietnam, and can also be found in the Andaman Islands. See Henry Nicholas Ridley, [_The Flora of the Malay Peninsula_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3586524) (London: L. Reeve &amp; Co., 1922), 189–90. (From National Library, Singapore, call no. RSING &nbsp; 581.9595 RID); “Kayea Ferruginea Pierre,” Royal Botanic Gardens of Kew, last accessed 17 October 2024, [https://powo.science.kew.org/results?q=kayea%20ferruginea](https://powo.science.kew.org/results?q=kayea%20ferruginea). In a 1955 newspaper article, it is noted that the tree is also called “Sembawang” in Riau and Johor, while it is called “senawang” in Kedah. See S. “Ramachandra”, “[What’s in a Name: Trees Were the Fad in Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19550116-1.2.151),” _Straits Times_, 16 January 1955, 21. (From NewspaperSG)
 
 
 
-[^7]: Yen Ching-Hwang, _A Social History of the Chinese in Singapore and Malaya 1800–1911_ (Singapore: Oxford University Pres, 1986), 120 (From National Library, Singapore, call no. RSING 301.45195105957 YEN); Carl A. Trocki, _Prince of Pirates: The Temenggongs and the Development of Johor and Singapore 1784–1885_ (Singapore: Singapore University Press, 1979), 92. (From National Library, Singapore, call no. RSING 959.5142 TRO)
+[^7]: Yen Ching-Hwang, [_A Social History of the Chinese in Singapore and Malaya 1800–1911_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4182822) (Singapore: Oxford University Pres, 1986), 120 (From National Library, Singapore, call no. RSING 301.45195105957 YEN); Carl A. Trocki, [_Prince of Pirates: The Temenggongs and the Development of Johor and Singapore 1784–1885_](https://catalogue.nlb.gov.sg/search/card?recordId=4082016) (Singapore: Singapore University Press, 1979), 92. (From National Library, Singapore, call no. RSING 959.5142 TRO)
 
 
 
-[^8]: Timothy Pwee, “From Gambier to Pepper: Plantation Agriculture in Singapore,” _BiblioAsia_ 17, no. 1 (April–June 2021): 50–55.
+[^8]: Timothy Pwee, “[From Gambier to Pepper: Plantation Agriculture in Singapore](https://biblioasia.nlb.gov.sg/vol-17/issue-1/apr-jun-2021/agriculture/),” _BiblioAsia_ 17, no. 1 (April–June 2021): 50–55.
 
 
 
-[^9]: Tony O’Dempsey and Chew Ping Ting, “The Freshwater Swamp Forests of Sungei Seletar Catchment: A Status Report,” _Proceedings of Nature Society, Singapore’s Conference on “Nature Conservation for a Sustainable Singapore_, 16 October 2011, 121, https://www.academia.edu/11820463/the\_freshwater\_swamp\_forests\_of\_sungei\_seletar\_catchment\_a\_status\_report.
+[^9]: Tony O’Dempsey and Chew Ping Ting, “The Freshwater Swamp Forests of Sungei Seletar Catchment: A Status Report,” _Proceedings of Nature Society, Singapore’s Conference on “Nature Conservation for a Sustainable Singapore_, 16 October 2011, 121, [https://www.academia.edu/11820463/the\_freshwater\_swamp\_forests\_of\_sungei\_seletar\_catchment\_a\_status\_report](https://www.academia.edu/11820463/THE_FRESHWATER_SWAMP_FORESTS_OF_SUNGEI_SELETAR_CATCHMENT_A_STATUS_REPORT).
 
 
 
-[^10]: Mok, “Mapping Singapore 1819–2014,” 88; William Farquhar, _Plan of the Island of Singapore Including the New British Settlements and Adjacent Islands_, 1822, map. (From National Library Online)
+[^10]: Mok, “[Mapping Singapore 1819–2014](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201116198),” 88; William Farquhar, [_Plan of the Island of Singapore Including the New British Settlements and Adjacent Islands_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=e60e3d92-2da5-4d6d-a02e-44da321e6684), 1822, map. (From National Library Online)
 
 
-[^11]: William Marsden, _Map of the Island of Sumatra Constructed Chiefly from Surveys Taken by Order of the Late Sir Thomas Stamford Raffles_, 1829, map. (From National Library Online, accession no. B29029422H)&nbsp;
+[^11]: William Marsden, [_Map of the Island of Sumatra Constructed Chiefly from Surveys Taken by Order of the Late Sir Thomas Stamford Raffles_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=6ac8dcf7-cc74-40fd-9c47-6c20169d3191), 1829, map. (From National Library Online, accession no. B29029422H)&nbsp;
 
 
 
@@ -153,27 +153,27 @@ By the beginning of the 20th century, the rubber trade had begun to replace the 
 
 
 
-[^13]: Kwek Yan Chong, Hugh T.W. Tan and Richard T. Corlett, “A Checklist of the Total Vascular Plant Flora of Singapore: Native, Naturalised and Cultivated Species,” ResearchGate, January 2009, https://www.researchgate.net/publication/256094053\_A\_checklist\_of\_the\_total\_vascular\_plant\_flora\_of\_Singapore\_native\_naturalised\_and\_cultivated\_species.
+[^13]: Kwek Yan Chong, Hugh T.W. Tan and Richard T. Corlett, “A Checklist of the Total Vascular Plant Flora of Singapore: Native, Naturalised and Cultivated Species,” ResearchGate, January 2009, [https://www.researchgate.net/publication/256094053\_A\_checklist\_of\_the\_total\_vascular\_plant\_flora\_of\_Singapore\_native\_naturalised\_and\_cultivated\_species](https://www.researchgate.net/publication/256094053_A_checklist_of_the_total_vascular_plant_flora_of_Singapore_native_naturalised_and_cultivated_species).
 
 
 
-[^14]: Coconuts were first planted in 1823 and these flourished mostly along seashores. For more details, see Pwee, “From Gambier to Pepper: Plantation Agriculture in Singapore,” 50–55.
+[^14]: Coconuts were first planted in 1823 and these flourished mostly along seashores. For more details, see Pwee, “[From Gambier to Pepper: Plantation Agriculture in Singapore](https://biblioasia.nlb.gov.sg/vol-17/issue-1/apr-jun-2021/agriculture/),” 50–55.
 
 
 
-[^15]: _Plan of the British Settlement of Singapore by Captain Franklin and Lieut. Jackson_ in John Crawfurd, _Journal of an Embassy from the Governor-General of India to the Courts of Siam and Cochin-China_ (London: Henry Colburn, 1828), facing page 529. (From National Library Online, accession no. B20116740J); “Mapping Singapore 1819–2014,” in National Library Board, _Visualising Space: Maps of Singapore and the Region_ (Singapore: National Library Board, 2015), 90. (From National Library, Singapore, call no. RSING 911.5957 SIN)
+[^15]: _Plan of the British Settlement of Singapore by Captain Franklin and Lieut. Jackson_ in John Crawfurd, [_Journal of an Embassy from the Governor-General of India to the Courts of Siam and Cochin-China_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=78831281-b72c-4981-afd0-7a448179e707) (London: Henry Colburn, 1828), facing page 529. (From National Library Online, accession no. B20116740J); “Mapping Singapore 1819–2014,” in National Library Board, [_Visualising Space: Maps of Singapore and the Region_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201116198) (Singapore: National Library Board, 2015), 90. (From National Library, Singapore, call no. RSING 911.5957 SIN)
 
 
 
-[^16]: _Sketch of the Island of Singapore_ in Sophia Raffles, _Memoir of the Life and Public Services of Sir Thomas Stamford Raffles, F. R. S._ (London: John Murray, 1830). (From National Library Online); _Chart of Singapore Strait the Neighbouring Islands and Part of Malay Peninsula_ drawn by J.B. Tassin in 1836 and printed in J.H. Moor, _Notices of the Indian Archipelago, and Adjacent Countries_ (Singapore, 1837). (From National Library Online, accession no. B03013554J)
+[^16]: _Sketch of the Island of Singapore_ in Sophia Raffles, [_Memoir of the Life and Public Services of Sir Thomas Stamford Raffles, F. R. S._]() (London: John Murray, 1830). (From National Library Online); _Chart of Singapore Strait the Neighbouring Islands and Part of Malay Peninsula_ drawn by J.B. Tassin in 1836 and printed in J.H. Moor, [_Notices of the Indian Archipelago, and Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=f9d3332f-3612-46d3-b134-b254d106aaf9) (Singapore, 1837). (From National Library Online, accession no. B03013554J)
 
 
 
-[^17]: Carl A. Trocki, “The Origins of the Kangchu System 1740–1860,” _Journal of the Malaysian Branch of the Royal Asiatic Society_ 49, no. 2 (230) (1976), 132. (From JSTOR via NLB’s eResources website)
+[^17]: Carl A. Trocki, “The Origins of the Kangchu System 1740–1860,” _Journal of the Malaysian Branch of the Royal Asiatic Society_ 49, no. 2 (230) (1976), 132. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
 
 
 
-[^18]: Lim Guan Hock, “Gambier and Early Development of Singapore,” in _A General History of the Chinese in Singapore_, ed. Kwa Chong Guan and Kua Bak Lim (Singapore: Singapore Federation of Chinese Clan Associations: World Scientific, 2019), 38–39, 46, 48–49. (From National Library, Singapore, call no. RSING 305.895105957 GEN); John Turnbull Thomson, _Letters: J.T. Thomson_, vol. 1. (n.p.: n.p., 1847–1853), 50. (From National Library, Singapore, call no. RDLKL 526.9092 THO). The 1848 report can be found in this volume. In his report, Thomson does not mention any other settlements along Sungei Sembawang.&nbsp;
+[^18]: Lim Guan Hock, “Gambier and Early Development of Singapore,” in [_A General History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203868804), ed. Kwa Chong Guan and Kua Bak Lim (Singapore: Singapore Federation of Chinese Clan Associations: World Scientific, 2019), 38–39, 46, 48–49. (From National Library, Singapore, call no. RSING 305.895105957 GEN); John Turnbull Thomson, [_Letters: J.T. Thomson_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13223950), vol. 1. (n.p.: n.p., 1847–1853), 50. (From National Library, Singapore, call no. RDLKL 526.9092 THO). The 1848 report can be found in this volume. In his report, Thomson does not mention any other settlements along Sungei Sembawang.&nbsp;
 
 
 
