@@ -142,43 +142,42 @@ By the beginning of the 20th century, the rubber trade had begun to replace the 
 
 
 
-[^10]: 
+[^10]: Mok, “Mapping Singapore 1819–2014,” 88; William Farquhar, _Plan of the Island of Singapore Including the New British Settlements and Adjacent Islands_, 1822, map. (From National Library Online)
+
+
+[^11]: William Marsden, _Map of the Island of Sumatra Constructed Chiefly from Surveys Taken by Order of the Late Sir Thomas Stamford Raffles_, 1829, map. (From National Library Online, accession no. B29029422H)&nbsp;
 
 
 
-[^11]: 
+[^12]: Gambier and pepper were usually cultivated together. The more lucrative pepper was seasonal while gambier could be grown throughout the year, which kept the plantation coolies gainfully employed. The waste produced from the processing of gambier also served as fertiliser for pepper vines.&nbsp;
 
 
 
-[^12]: 
+[^13]: Kwek Yan Chong, Hugh T.W. Tan and Richard T. Corlett, “A Checklist of the Total Vascular Plant Flora of Singapore: Native, Naturalised and Cultivated Species,” ResearchGate, January 2009, https://www.researchgate.net/publication/256094053\_A\_checklist\_of\_the\_total\_vascular\_plant\_flora\_of\_Singapore\_native\_naturalised\_and\_cultivated\_species.
 
 
 
-[^13]: 
+[^14]: Coconuts were first planted in 1823 and these flourished mostly along seashores. For more details, see Pwee, “From Gambier to Pepper: Plantation Agriculture in Singapore,” 50–55.
 
 
 
-[^14]: 
+[^15]: _Plan of the British Settlement of Singapore by Captain Franklin and Lieut. Jackson_ in John Crawfurd, _Journal of an Embassy from the Governor-General of India to the Courts of Siam and Cochin-China_ (London: Henry Colburn, 1828), facing page 529. (From National Library Online, accession no. B20116740J); “Mapping Singapore 1819–2014,” in National Library Board, _Visualising Space: Maps of Singapore and the Region_ (Singapore: National Library Board, 2015), 90. (From National Library, Singapore, call no. RSING 911.5957 SIN)
 
 
 
-[^15]: 
+[^16]: _Sketch of the Island of Singapore_ in Sophia Raffles, _Memoir of the Life and Public Services of Sir Thomas Stamford Raffles, F. R. S._ (London: John Murray, 1830). (From National Library Online); _Chart of Singapore Strait the Neighbouring Islands and Part of Malay Peninsula_ drawn by J.B. Tassin in 1836 and printed in J.H. Moor, _Notices of the Indian Archipelago, and Adjacent Countries_ (Singapore, 1837). (From National Library Online, accession no. B03013554J)
 
 
 
-[^16]: 
+[^17]: Carl A. Trocki, “The Origins of the Kangchu System 1740–1860,” _Journal of the Malaysian Branch of the Royal Asiatic Society_ 49, no. 2 (230) (1976), 132. (From JSTOR via NLB’s eResources website)
 
 
 
-[^17]: 
+[^18]: Lim Guan Hock, “Gambier and Early Development of Singapore,” in _A General History of the Chinese in Singapore_, ed. Kwa Chong Guan and Kua Bak Lim (Singapore: Singapore Federation of Chinese Clan Associations: World Scientific, 2019), 38–39, 46, 48–49. (From National Library, Singapore, call no. RSING 305.895105957 GEN); John Turnbull Thomson, _Letters: J.T. Thomson_, vol. 1. (n.p.: n.p., 1847–1853), 50. (From National Library, Singapore, call no. RDLKL 526.9092 THO). The 1848 report can be found in this volume. In his report, Thomson does not mention any other settlements along Sungei Sembawang.&nbsp;
 
 
 
-[^18]: 
-
-
-
-[^19]: 
+[^19]: Thomson, _Letters: J. T. Thomson_, 52. Thomson states that the Chinese were unwilling to reveal the names of the headmen because they did not speak the “Malayan language” and misconstrued Thomson’s motives. Instead, the names were provided by Thomas Duncan, the Superintendent of Police at the time.
 
 
 
