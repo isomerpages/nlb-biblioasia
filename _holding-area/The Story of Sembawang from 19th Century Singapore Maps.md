@@ -9,6 +9,9 @@ description: Sembawang’s history can be told through the many maps that have
 
 By Makeswary Periasamy
 
+![](/images/Vol%2020%20Issue%204/Sembawang/sembawang_facing.jpg)
+<div style="background-color: white;">This map, <i>Sketch of the Island of Singapore</i>, was based on earlier surveys of the island by James Franklin and William Farquhar. It features vegetation by the coasts as well as soundings (sea depth) along the southern coast and the Singapore Strait. It was printed as an inset within the 1829 <i>Map of the Island of Sumatra</i> by William Marsden.  <i>Image reproduced from William Marsden, Map of the Island of Sumatra Constructed Chiefly from Surveys Taken by Order of the Late Sir Thomas Stamford Raffles. (From National Library Online, accession no. B29029422H).</i></div>
+
 Today, people are attracted to Sembawang for a number of reasons. Families visit the beach there to have a picnic or barbeque, and fishing enthusiasts congregate at the jetty hoping to score a good catch. Sembawang is also well known for its hot spring – with supposed health properties – that brings people from all over Singapore to the north to enjoy a leisurely foot bath.[^1] &nbsp; &nbsp;
 
 In the 19th century, however, Sembawang looked very different. Located at the northernmost tip of Singapore facing the narrow Selat Tebrau, or Strait of Johor (erroneously labelled as Old Straits of Singapore on some early maps),[^2] Sembawang once had vast swathes of dense forest before these were cleared for the cultivation of cash crops like pepper, gambier (_pale catechu_), coconut and rubber in the early 19th century. The plantations subsequently gave way to Chinese and Malay villages.&nbsp;
