@@ -82,6 +82,10 @@ From the mid-1880s, maps began to indicate Mandai and Sembawang as separate area
 
 When the third population census was conducted in 1891, the report featured a map showing the different census districts. A large area in the north is referred to as “Sembawang”, with “Mandai” and “Upper Mandai” as separate districts situated to the west.[^30]
 
+ 
+![](/images/Vol%2020%20Issue%204/Sembawang/sembawang_1891.jpg)
+<div style="background-color: white;">A map in the 1891 <i>Report on the Census of the Straits Settlements</i> shows the different census districts. A large area in the north is referred to as "Sembawang".  <i>Image reproduced from "Map No. ll - Map of the Island of Singapore and Its Dependencies: Shewing Census Divisions - 1891," in E.M. Mereweather, Report on the Census of the Straits Settlements, Taken on the 5th April 1891 (Singapore: Printed at the Government Printing Office, 1892). (From National Library Online, accession no. B18976509A).</i></div>
+
 #### **Milestone Markers**
 
 In the early days, Singapore lacked prominent landmarks or a proper address system especially in the rural areas. Before the implementation of postal codes, places were identified by milestones, which were tall stone markers labelled with numbers and placed at key locations along roads, a mile apart (about 1.6 km). &nbsp;
