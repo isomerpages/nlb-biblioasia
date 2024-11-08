@@ -11,7 +11,7 @@ image: /images/Vol 20 Issue 4/Chingay/chingay_facing.jpg
 By Timothy Pwee
 
 ![](/images/Vol%2020%20Issue%204/Chingay/chingay_facing.jpg)
-<div style="background-color:white;">  In 2017, visual artist Yip Yew Chong was commissioned to paint a mural along the back wall of Thian Hock Keng temple. Part of the mural is this chingay scene showing the arrival of the Mazu statue from China in 1840. <i>Photo by Timothy Pwee.  </i></div>
+<div style="background-color:white;">  In 2017, visual artist Yip Yew Chong was commissioned to paint a mural along the back wall of Thian Hock Keng temple. Part of the mural is this <i>chingay</i> scene showing the arrival of the Mazu statue from China in 1840. <i>Photo by Timothy Pwee.  </i></div>
 
 
 
