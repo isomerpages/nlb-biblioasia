@@ -77,6 +77,9 @@ One of the earliest maps to name the area as “Sambawang” is the 1873 _Map of
 
 From the mid-1880s, maps began to indicate Mandai and Sembawang as separate areas. An 1886 map, originally enclosed with the _Annual Report of the Forest Department, Straits Settlements_, is one of the first to feature “Sembawang” in its current spelling. It shows the location of the forest reserve more accurately, which occupied both the Mandai and Sembawang areas, and is today part of Mandai Wildlife Reserve.[^29]
 
+![](/images/Vol%2020%20Issue%204/Sembawang/sembawang_1886.jpg)
+<div style="background-color: white;">Detail from Map of the Island of Singapore. This 1886 map is one of the first to feature “Sembawang” in its current spelling. It also shows the forest reserve in Mandai and Sembawang. <i>The National Archives of the UK, ref. MPG1/857 (1).</i></div>
+
 When the third population census was conducted in 1891, the report featured a map showing the different census districts. A large area in the north is referred to as “Sembawang”, with “Mandai” and “Upper Mandai” as separate districts situated to the west.[^30]
 
 #### **Milestone Markers**
