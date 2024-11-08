@@ -2,6 +2,8 @@ collections:
   jan-to-mar-2025:
     output: true
     order:
+      - "Chingay in the 19th and 20th Centuries: A Community Procession in
+        Time.md"
       - "In Good Hands: The Calligraphy of Ustaz Syed Abdul Rahman Al Attas.md"
       - "Cups and Sources: Hunting Down the Origins of Kueh Pie Tee.md"
       - "John Sturgus Bastin: A Memoir.md"
