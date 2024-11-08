@@ -190,7 +190,7 @@ By the beginning of the 20th century, the rubber trade had begun to replace the 
 
 
 
-[^16]: _Sketch of the Island of Singapore_ in Sophia Raffles, [_Memoir of the Life and Public Services of Sir Thomas Stamford Raffles, F. R. S._]() (London: John Murray, 1830). (From National Library Online); _Chart of Singapore Strait the Neighbouring Islands and Part of Malay Peninsula_ drawn by J.B. Tassin in 1836 and printed in J.H. Moor, [_Notices of the Indian Archipelago, and Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=f9d3332f-3612-46d3-b134-b254d106aaf9) (Singapore, 1837). (From National Library Online, accession no. B03013554J)
+[^16]: _Sketch of the Island of Singapore_ in Sophia Raffles, [_Memoir of the Life and Public Services of Sir Thomas Stamford Raffles, F. R. S._](https://www.nlb.gov.sg/main/book-detail?cmsuuid=6dd159de-811f-4012-9b43-01676a9c49a7) (London: John Murray, 1830). (From National Library Online); _Chart of Singapore Strait the Neighbouring Islands and Part of Malay Peninsula_ drawn by J.B. Tassin in 1836 and printed in J.H. Moor, [_Notices of the Indian Archipelago, and Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=f9d3332f-3612-46d3-b134-b254d106aaf9) (Singapore, 1837). (From National Library Online, accession no. B03013554J)
 
 
 
@@ -277,11 +277,11 @@ By the beginning of the 20th century, the rubber trade had begun to replace the 
 
 
 
-[^38]: See for example, “[Gang Robbery and Murder](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18490626-1.2.9),” _Straits Times_, 26 June 1849, 4; “[Local](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18500503-1.2.3)”, _Singapore Free Press and Mercantile Advertiser_, 3 May 1850, 2;&nbsp; “[Page 1 Advertisements Column 2](),” _Singapore Free Press and Mercantile Advertiser_ , 12 February 1857, 1. (From NewspaperSG). For the maps, see Great Britain Hydrographic Office, [_Straits of Singapore, Durian and Rhio_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202254231) (London: Hydrographic Office of Admiralty, 1851). (From National Library, Singapore, accession no. B20124033D); The National Archives, United Kingdom, [_Map of the Island of Singapore and Its Dependencies_](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb42878b-115c-11e3-83d5-0050568939ad), c. 1854, map. (From National Archives of Singapore, accession no. SP006818)
+[^38]: See for example, “[Gang Robbery and Murder](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18490626-1.2.9),” _Straits Times_, 26 June 1849, 4; “[Local](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18500503-1.2.3)”, _Singapore Free Press and Mercantile Advertiser_, 3 May 1850, 2;&nbsp; “[Page 1 Advertisements Column 2](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18570212-1.2.2.2),” _Singapore Free Press and Mercantile Advertiser_ , 12 February 1857, 1. (From NewspaperSG). For the maps, see Great Britain Hydrographic Office, [_Straits of Singapore, Durian and Rhio_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202254231) (London: Hydrographic Office of Admiralty, 1851). (From National Library, Singapore, accession no. B20124033D); The National Archives, United Kingdom, [_Map of the Island of Singapore and Its Dependencies_](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb42878b-115c-11e3-83d5-0050568939ad), c. 1854, map. (From National Archives of Singapore, accession no. SP006818)
 
 
 
-[^39]: “[Monday 1st November](),” _Straits Times_, 6 November 1875, 4; “[The Municipality](https://eresources.nlb.gov.sg/newspapers/digitised/article/stoverland18790412-1.2.12),” _Straits Times Overland Journal_, 12 April 1879, 3; “[New Names for Roads](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19390214-1.2.88),” _Straits Times_, 14 February 1939, 14. (From NewspaperSG)
+[^39]: “[Monday 1st November](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18751106-1.2.17.1),” _Straits Times_, 6 November 1875, 4; “[The Municipality](https://eresources.nlb.gov.sg/newspapers/digitised/article/stoverland18790412-1.2.12),” _Straits Times Overland Journal_, 12 April 1879, 3; “[New Names for Roads](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19390214-1.2.88),” _Straits Times_, 14 February 1939, 14. (From NewspaperSG)
 
 
 
