@@ -113,6 +113,9 @@ Works to build a new road, most likely in Sembawang, began sometime around March
 
 News articles from mid-1849 began referring to the new road as “Thomson’s new road”, and subsequently as “Thomson Road”, “Thomson’s Road” and “Thomsons Road”. The name appears slightly later on maps. On an 1851 British chart titled _Straits of Singapore, Durian and Rhio_, the road is depicted as “Thompsons Road” and on another 1850s _Map of the Island of Singapore and Its Dependencies_, the road is called “Thomsons Road”.[^38]
 
+![](/images/Vol%2020%20Issue%204/Sembawang/sembawang_navigational.jpg)
+<div style="background-color: white;"> Detail from a navigational chart of the Straits of Singapore, including nearby islands and the Malacca Strait. Based on earlier surveys, the chart was first printed by the British Admiralty’s Hydrographic Office in 1840. This 1851 edition was revised and corrected by John Turnbull Thomson. Unlike the earlier editions, this chart includes details of Singapore’s interior and identifies “Thompsons Road”. <i>Image reproduced from Great Britain Hydrographic Office, Straits of Singapore, Durian and Rhio (London: Hydrographic Office of Admiralty, 1851). (From National Library, Singapore, accession no. B20124033D).</i></div>
+
 By the 1870s, the road was shown as a major road on maps, with newspapers calling the upper half of the road (from the junction of Mandai Road to the sea) “Seletar Road” and the lower half “Thomsons Road”.[^39]
 
 The _Straits Times_ reported in February 1939 that Seletar Road and parts of Thomson Road would be renamed to avoid confusion. “In future \[Seletar Road\] is to be called Thomson Road as far at the Yio Chu Kang junction, where it will become Upper Thomson Road, and from the Mandai Road junction to the sea it will be called Sembawang Road.”[^40]
@@ -230,7 +233,7 @@ By the beginning of the 20th century, the rubber trade had begun to replace the 
 
 
 
-[^27]: “Cong lan tu gang dao shuichí cun,” [從爛土港到水池村](https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19681111-1.2.74.2) \[From Lang Tu Port to Pool Village\], 星洲日报_Sin Chew Jit Poh_, 11 November 1968, 20. (From NewspaperSG)&nbsp;
+[^27]: “Cong lan tu gang dao shuichí cun,” [從爛土港到水池村](https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19681111-1.2.74.2) \[From Lang Tu Port to Pool Village\], 星洲日报<i>Sin Chew Jit Poh</i>, 11 November 1968, 20. (From NewspaperSG)&nbsp;
 
 
 
