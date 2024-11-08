@@ -26,6 +26,16 @@ sections:
       image: /images/survey_sep24.jpg
       alt: Readership Survey
   - infopic:
+      title: "John Sturgus Bastin: A Memoir"
+      subtitle: People
+      id: infopic
+      description: The late Dr John Bastin was the leading authority on Stamford
+        Raffles, having published more than 20 books and many essays on Raffles.
+      button: An eminent historian
+      url: /vol-20/issue-4/jan-mar-2025/john-sturgus-bastin-a-memoir/
+      image: /images/Vol 20 Issue 4/John Sturgus Bastin/bastin_facing2.jpg
+      alt: "John Sturgus Bastin: A Memoir"
+  - infopic:
       title: New Books on Singapore History (Jan 2025)
       subtitle: Literature
       id: infopic
