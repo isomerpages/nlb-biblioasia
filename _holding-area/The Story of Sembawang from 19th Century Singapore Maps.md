@@ -90,6 +90,9 @@ First introduced in the 1840s, these milestone markers (about 2 m in height, wit
 
 An 1898 map produced by the Straits Settlements Forest Department is one of the earliest to feature the milestone markers erected throughout the island. As shown on the map, five milestones from the 10th to 14th miles were placed along Sembawang Road.[^32]
 
+![](/images/Vol%2020%20Issue%204/Sembawang/sembawang_19th.jpg)
+<div style="background-color: white;">By the late 19th century, primary forests in Singapore had begun to diminish due to the indiscriminate clearing of land for cash crops. To save the primary forests and to also provide sustainable wood supply for the plantations, nature reserves were established in each district, as shown on this 1898 map. The five milestones on Sembawang Road are also indicated. <i>Image reproduced from Map of the Island of Singapore and Its Dependencies, Executed by the Colonial Engineer and Surveyor General of the Straits Settlements in 1898, to Accompany Report on the Forest Administration in the Straits Settlements by H.C. Hill Esquire, Conservator of Forests. (From National Library, Singapore, accession no. B20124024D).</i></div>
+
 However, maps produced after 1910 show an extra milestone, the 15th mile, added at the end of Sembawang Road. In 1908, the Municipal Commission had embarked on a project to re-measure main roads and reset milestones. The 15th milestone was most likely added at the time.[^33]
 
 By the early 20th century, the 13th to 15th milestones became synonymous with Sembawang, and people began referring to the area as 13th mile, 14th mile and 15th mile.
