@@ -177,38 +177,38 @@ By the beginning of the 20th century, the rubber trade had begun to replace the 
 
 
 
-[^19]: Thomson, _Letters: J. T. Thomson_, 52. Thomson states that the Chinese were unwilling to reveal the names of the headmen because they did not speak the “Malayan language” and misconstrued Thomson’s motives. Instead, the names were provided by Thomas Duncan, the Superintendent of Police at the time.
+[^19]: Thomson, [_Letters: J. T. Thomson_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13223950), 52. Thomson states that the Chinese were unwilling to reveal the names of the headmen because they did not speak the “Malayan language” and misconstrued Thomson’s motives. Instead, the names were provided by Thomas Duncan, the Superintendent of Police at the time.
 
 
 
-[^20]:  John Turnbull Thomson, _Map of the Old Straits or Silat Tambrau and the Creeks to the North of Singapore Island_, 1848, map. (From National Archives of Singapore, accession no. HC000870)&nbsp;
+[^20]:  John Turnbull Thomson, [_Map of the Old Straits or Silat Tambrau and the Creeks to the North of Singapore Island_](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb865de0-115c-11e3-83d5-0050568939ad), 1848, map. (From National Archives of Singapore, accession no. HC000870)&nbsp;
 
 
 [^21]: The _kang_ were usually named after the surname of the headmen, but researcher Lim Guan Hock speculates that Nam To Kang was likely named after a geographical feature. It is also known that the _kang_ had links to Chinese secret societies, with Nam To Kang being affiliated to the Ngee Heng Kongsi.
 
 
 
-[^22]: “Untitled,” _Straits Times_, 15 May 1855, 5. (From NewspaperSG); O’Dempsey and Chew, “The Freshwater Swamp Forests of Sungei Seletar Catchment: A Status Report,” 121, 124–25.
+[^22]: “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18550515-1.2.19),” _Straits Times_, 15 May 1855, 5. (From NewspaperSG); O’Dempsey and Chew, “The Freshwater Swamp Forests of Sungei Seletar Catchment: A Status Report,” 121, 124–25.
 
 
 
-[^23]: Nathaniel Cantley, “Report on the Forests of the Straits Settlements,” in _Proceedings of the Legislative Council of the Straits Settlements for the Year 1883_ (Singapore: Government Printing Office, 1883). (From National Library, Singapore, call no. RRARE 328.5957 SSLCPL; accession no. B20048240I)
+[^23]: Nathaniel Cantley, “Report on the Forests of the Straits Settlements,” in [_Proceedings of the Legislative Council of the Straits Settlements for the Year 1883_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5276150) (Singapore: Government Printing Office, 1883). (From National Library, Singapore, call no. RRARE 328.5957 SSLCPL; accession no. B20048240I)
 
 
 
-[^24]: H.M. Burkill, “The Botanic Gardens and Conservation in Malaya,” _The Gardens’ Bulletin Singapore_ 17 (1958): 201–02, https://www.nparks.gov.sg/sbg/research/publications/gardens'-bulletin-singapore/-/media/sbg/gardens-bulletin/4-4-17-2-13-y1959-v17p2-gbs-pg-201.pdf; Lim Tin Seng, “Saving Singapore’s Forests,” in National Library Board, _Stories From the Stacks: Selections From the Rare Materials Collection National Library_ (Singapore: National Library Board, 2020), 93. (From National Library, Singapore, call no. RSING 016.95957 SIN-\[LIB\])
+[^24]: H.M. Burkill, “The Botanic Gardens and Conservation in Malaya,” _The Gardens’ Bulletin Singapore_ 17 (1958): 201–02, [https://www.nparks.gov.sg/sbg/research/publications/gardens'-bulletin-singapore/-/media/sbg/gardens-bulletin/4-4-17-2-13-y1959-v17p2-gbs-pg-201.pdf](https://www.nparks.gov.sg/sbg/research/publications/gardens'-bulletin-singapore/-/media/sbg/gardens-bulletin/4-4-17-2-13-y1959-v17p2-gbs-pg-201.pdf); Lim Tin Seng, “Saving Singapore’s Forests,” in National Library Board, [_Stories From the Stacks: Selections From the Rare Materials Collection National Library_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205258180) (Singapore: National Library Board, 2020), 93. (From National Library, Singapore, call no. RSING 016.95957 SIN-\[LIB\])
 
 
 
-[^25]: “Gang Robbery,” _Straits Times_, 3 March 1903, 5. (From NewspaperSG)
+[^25]: “[Gang Robbery](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19030303-1.2.57),” _Straits Times_, 3 March 1903, 5. (From NewspaperSG)
 
 
 
-[^26]: For further information on the villages, see the manuscript notes of Lee Kip Lin in his report, _Villages in the Rural District Areas_ \[circa 1960s\]. (From National Library, Singapore, call no. RDLKL 307.72095957 VIL)
+[^26]: For further information on the villages, see the manuscript notes of Lee Kip Lin in his report, [_Villages in the Rural District Areas_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202268832) \[circa 1960s\]. (From National Library, Singapore, call no. RDLKL 307.72095957 VIL)
 
 
 
-[^27]: “Cong lan tu gang dao shuichí cun,” 從爛土港到水池村 \[From Lang Tu Port to Pool Village\], 星洲日报_Sin Chew Jit Poh_, 11 November 1968, 20. (From NewspaperSG)&nbsp;
+[^27]: “Cong lan tu gang dao shuichí cun,” [從爛土港到水池村](https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19681111-1.2.74.2) \[From Lang Tu Port to Pool Village\], 星洲日报_Sin Chew Jit Poh_, 11 November 1968, 20. (From NewspaperSG)&nbsp;
 
 
 
