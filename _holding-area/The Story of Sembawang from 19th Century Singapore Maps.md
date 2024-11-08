@@ -106,39 +106,39 @@ By the beginning of the 20th century, the rubber trade had begun to replace the 
 #### **Notes**
 
 
-[^1]: 
+[^1]:  Sembawang Hot Spring is the only natural hot spring on mainland Singapore. The other is on Pulau Tekong which is not publicly accessible.
 
 
 
-[^2]: 
+[^2]: For various names given to the Johor Strait, see the Infopedia article: Vernon Cornelius-Takahama, “Strait of Johor,” in _Singapore Infopedia_. National Library Board Singapore. Article published April 2018.
 
 
 
-[^3]: 
+[^3]: Based on email conversations with the Singapore Botanic Gardens (SBG), there is not much information or records on the distribution of the Sembawang tree in Singapore, so it is difficult to say where these trees could have been found in the past. The SBG confirms that the tree is a native species of Singapore but nationally extinct.&nbsp;
 
 
 
-[^4]: 
+[^4]: “Mesua singaporiana,” The Wallich Catalogue: Recreating a 19th Century Herbarium, last accessed 17 October 2024, https://wallich.rbge.org.uk/index.php?section=entries&amp;id=4836.
 
 
 
-[^5]: 
+[^5]: H.N. Ridley, “Malay Plant Names,” _Journal of the Straits Branch of the Royal Asiatic Society_ no. 30 (July 1897): 34, 256. (From JSTOR via NLB’s eResources website)
 
 
 
-[^6]: 
+[^6]: In Malay, _buah_ means “fruit” and _pokok_ means “tree” or “shrub”. _Kayea ferruginea_ was first recorded in 1885 in Vietnam by French botanist J.B. Pierre, and has been called _Mesua ferruginea_ since 1969. The tree grows in wet tropical areas and is native to Borneo, Cambodia, Singapore, Malaysia (including Johor), Thailand and Vietnam, and can also be found in the Andaman Islands. See Henry Nicholas Ridley, _The Flora of the Malay Peninsula_ (London: L. Reeve &amp; Co., 1922), 189–90. (From National Library, Singapore, call no. RSING &nbsp; 581.9595 RID); “Kayea Ferruginea Pierre,” Royal Botanic Gardens of Kew, last accessed 17 October 2024, https://powo.science.kew.org/results?q=kayea%20ferruginea. In a 1955 newspaper article, it is noted that the tree is also called “Sembawang” in Riau and Johor, while it is called “senawang” in Kedah. See S. “Ramachandra”, “What’s in a Name: Trees Were the Fad in Singapore,” _Straits Times_, 16 January 1955, 21. (From NewspaperSG)
 
 
 
-[^7]: 
+[^7]: Yen Ching-Hwang, _A Social History of the Chinese in Singapore and Malaya 1800–1911_ (Singapore: Oxford University Pres, 1986), 120 (From National Library, Singapore, call no. RSING 301.45195105957 YEN); Carl A. Trocki, _Prince of Pirates: The Temenggongs and the Development of Johor and Singapore 1784–1885_ (Singapore: Singapore University Press, 1979), 92. (From National Library, Singapore, call no. RSING 959.5142 TRO)
 
 
 
-[^8]: 
+[^8]: Timothy Pwee, “From Gambier to Pepper: Plantation Agriculture in Singapore,” _BiblioAsia_ 17, no. 1 (April–June 2021): 50–55.
 
 
 
-[^9]: 
+[^9]: Tony O’Dempsey and Chew Ping Ting, “The Freshwater Swamp Forests of Sungei Seletar Catchment: A Status Report,” _Proceedings of Nature Society, Singapore’s Conference on “Nature Conservation for a Sustainable Singapore_, 16 October 2011, 121, https://www.academia.edu/11820463/the\_freshwater\_swamp\_forests\_of\_sungei\_seletar\_catchment\_a\_status\_report.
 
 
 
