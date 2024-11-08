@@ -42,7 +42,7 @@ Although book printing and production in the Western world changed with the arri
 
 It was not until the invention of lithography that the reproduction of texts in Arabic characters flourished since lithography was able to reproduce handwritten text. Handwritten Arabic made for much easier reading and was visually more acceptable to the readerly eye than Arabic typography.[^4] A notable example of a lithographed text in Singapore is the famous _Hikayat Abdullah_ (Stories of Abdullah) by the Malay teacher and scribe Abdullah Abdul Kadir (better known as Munsyi Abdullah) lithographed by the Mission Press in 1849.[^5]
 
-![](/images/vol-11-issue-4/stories-of-abdullah/Ab2.JPG)
+![](/images/Vol%2020%20Issue%204/Caligraphy/caligraphy_frontispiece.jpg)
 <div style="background-color: white;">The fine calligraphy and beautifully coloured double frontispiece of <i>Hikayat Abdullah</i>&nbsp;lithographed by the Mission Press in 1849. <i>Collection of the National Library, Singapore (accession no. B03014389F). </i></div>
 
 
