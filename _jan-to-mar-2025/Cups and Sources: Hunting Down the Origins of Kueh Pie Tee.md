@@ -1,11 +1,9 @@
 ---
 title: "Cups and Sources: Hunting Down the Origins of Kueh Pie Tee"
-permalink: /holding-area/cups-and-sources-hunting-down-the-origins-of-kueh-pie-tee/
+permalink: /vol-20/issue-4/jan-mar-2025/origins-of-kueh-pie-tee/
 variant: markdown
-description: Kueh pie tee is a fixture of classic Singaporean cooking, yet its
-  identity has the shape of an enigma, filled with mystery and garnished with
-  riddles.
-image: /images/Vol 20 Issue 4/Kueh Pie Tee/kueh_facing.jpg
+description: "Cups and Sources: Hunting Down the Origins of Kueh Pie Tee"
+image: /images/Vol 20 Issue 4/Kueh Pie Tee/kueh_pietee.jpg
 ---
 #### _Kueh pie tee_ is a fixture of classic Singaporean cooking, yet its identity has the shape of an enigma, filled with mystery and garnished with riddles.&nbsp;
 

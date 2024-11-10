@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-20/issue-3/oct-dec-2024/singapore-pioneer-cartoonists/
-      button: Singapore’s Pioneer Cartoonists
+      url: /vol-20/issue-3/oct-dec-2024/colour-tv-history-singapore/
+      button: Colour TV in Singapore
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 20 Issue 3/Cartoonist/HeroImage_cartoonist.jpg
+      background: /images/Vol 20 Issue 3/Colour TV/HeroImage_tv.jpg
   - infopic:
       title: Have Your Say
       subtitle: Readership Survey
@@ -25,6 +25,16 @@ sections:
       url: https://go.gov.sg/web-survey
       image: /images/survey_sep24.jpg
       alt: Readership Survey
+  - infopic:
+      title: "John Sturgus Bastin: A Memoir"
+      subtitle: People
+      id: infopic
+      description: The late Dr John Bastin was the leading authority on Stamford
+        Raffles, having published more than 20 books and many essays on Raffles.
+      button: An eminent historian
+      url: /vol-20/issue-4/jan-mar-2025/john-sturgus-bastin-a-memoir/
+      image: /images/Vol 20 Issue 4/John Sturgus Bastin/bastin_facing2.jpg
+      alt: "John Sturgus Bastin: A Memoir"
   - infopic:
       title: New Books on Singapore History (Jan 2025)
       subtitle: Literature
