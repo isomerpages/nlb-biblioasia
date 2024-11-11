@@ -28,7 +28,6 @@ and the editor of <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId
 <details class="isomer-details">
 <summary>Resources</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
 <p>Timothy Barnard, ed., <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=300023913" rel="noopener nofollow" target="_blank">Singaporean Creatures: Histories of Humans and Other Animals in the Garden City</a></em> (Singapore:
 NUS Press, 2024).</p>
 <p></p>
