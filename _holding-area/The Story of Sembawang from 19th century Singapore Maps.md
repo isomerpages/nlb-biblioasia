@@ -130,7 +130,7 @@ By the beginning of the 20th century, the rubber trade had begun to replace the 
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/ChristopherTan.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/MakeswaryPeriasamy.png">
 	<b>Makeswary Periasamy</b> is a Senior Librarian with the Rare Collections team at the National Library, Singapore. As the maps librarian, she co-curated “Land of Gold and Spices: Early Maps of Southeast Asia and Singapore” exhibition in 2015, and co-authored <i>Visualising Space: Maps of Singapore and the Region</i> (2015).</div>
 
 #### **Notes**
