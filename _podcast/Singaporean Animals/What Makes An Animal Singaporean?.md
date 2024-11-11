@@ -6,12 +6,11 @@ description: What Makes An Animal Singaporean?
 image: /images/Podcast/Tim_600_400.jpg
 third_nav_title: Singaporean Animals
 ---
-<p>Singaporeans love animals, but only selectively. Otters, Ah Meng the orangutan,
-and Inuka the polar bear are among the beloved. Less favoured are monkeys
-in the Botanic Gardens, many of which were culled before WWII, and pesky
-Aedes mosquitoes. Environment historian Timothy Barnard tells us how some
-of these migrant animals came to be here, how they’ve been treated, and
-what makes them <a href="https://catalogue.nlb.gov.sg/search/card?recordId=300023913" rel="noopener nofollow" target="_blank">Singaporean</a>.</p>
+<p>Singaporeans love animals, but only selectively. Otters, <a href="https://biblioasia.nlb.gov.sg/vol-20/issue-3/oct-dec-2024/singapore-zoo-animals/" rel="noopener nofollow" target="_blank">Ah Meng the orangutan, and Inuka the polar bear</a> are
+among the beloved. Less favoured are monkeys in the Botanic Gardens, many
+of which were culled before WWII, and pesky Aedes mosquitoes. Environment
+historian Timothy Barnard tells us how some of these migrant animals came
+to be here, how they’ve been treated, and what makes them <a href="https://catalogue.nlb.gov.sg/search/card?recordId=300023913" rel="noopener nofollow" target="_blank">Singaporean</a>.</p>
 <p></p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
