@@ -121,6 +121,9 @@ Instead of a welfare state, Lee believed that the CPF could encourage self-relia
 
 Lee also said that the CPF system “needed time to build up” before it could prove its worth, including allowing CPF savings to be used for important social needs such as home ownership. “Only then,” he wrote, “would people not want their individual savings put into a common pool for everyone to have the same welfare ‘entitlement’.”[^39]
 
+![](/images/Vol%2020%20Issue%204/CPF/balloting.jpg)
+<div style="background-color:white;"> SBalloting ceremony for the sale of new flats in Toa Payoh under the Home Ownership for the People Scheme, 1967. In September 1968, the government launched the Public Housing Scheme to allow CPF members to use their savings to buy public housing. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore. </i></div>
+
 #### **The Central Provident Fund Today**
 
 The CPF scheme has undergone numerous changes in the decades following its establishment. Beyond retirement, today Singaporeans can also use the money in their CPF accounts for housing, insurance, investment and education. However, even as the CPF scheme has expanded, the system has also not deviated from its original goal, i.e., to ensure that Singaporeans have funds for their retirement.&nbsp;
