@@ -219,7 +219,7 @@ In 2025, the ERS will be $426,000, up from $308,700. According to the CPF Board,
 [^33]: [_Committee of Officials Established to Examine the Recommendations of the Brocklehurst and Caine Committee Reports_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4981034), 45; “[Social Security Scheme for All in Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19590319-1.2.41),” _Singapore Standard_, 19 March 1959, 4. (From NewspaperSG)
 
 
-[^34]: “Social Security: ‘Not for 2 More Years’,” _Straits Times_, 22 October 1959, 16. (From NewspaperSG); _Report of the Central Provident Fund Study Group_, 6–7; Chia, _Central Provident Fund_, 14–15; Low and Aw, _Housing a Healthy, Educated and Wealthy Nation Through the CPF_, 20.
+[^34]: “[Social Security: ‘Not for 2 More Years’](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19591022-1.2.137),” _Straits Times_, 22 October 1959, 16. (From NewspaperSG); [_Report of the Central Provident Fund Study Group_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5156458), 6–7; Chia, [_Central Provident Fund_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202686032), 14–15; Low and Aw, [_Housing a Healthy, Educated and Wealthy Nation Through the CPF_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8465920), 20.
 
 [^35]: “C.P.F. – A Savings Scheme: Ahmad.” _Straits Times_, 18 November 1961, 4.&nbsp; (From NewspaperSG)
 
