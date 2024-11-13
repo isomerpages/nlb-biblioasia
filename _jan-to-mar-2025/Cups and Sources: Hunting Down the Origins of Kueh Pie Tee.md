@@ -5,7 +5,7 @@ variant: markdown
 description: "Cups and Sources: Hunting Down the Origins of Kueh Pie Tee"
 image: /images/Vol 20 Issue 4/Kueh Pie Tee/kueh_pietee.jpg
 ---
-#### _Kueh pie tee_ is a fixture in classic Singaporean cooking, yet its identity has the shape of an enigma, filled with mystery and garnished with riddles.&nbsp;
+#### _Kueh pie tee_ is a fixture of classic Singaporean cooking, yet its identity has the shape of an enigma, filled with mystery and garnished with riddles.&nbsp;
 
 By Christopher Tan
 
