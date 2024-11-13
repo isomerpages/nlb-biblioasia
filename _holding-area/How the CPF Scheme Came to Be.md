@@ -210,13 +210,13 @@ In 2025, the ERS will be $426,000, up from $308,700. According to the CPF Board,
 
 
 
-[^31]: _Committee of Officials Established to Examine the Recommendations of the Brocklehurst and Caine Committee Reports_, 42.
+[^31]: [_Committee of Officials Established to Examine the Recommendations of the Brocklehurst and Caine Committee Reports_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4981034), 42.
 
 
-[^32]: _Committee of Officials Established to Examine the Recommendations of the Brocklehurst and Caine Committee Reports_, 42.
+[^32]: [_Committee of Officials Established to Examine the Recommendations of the Brocklehurst and Caine Committee Reports_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4981034), 42.
 
 
-[^33]: _Committee of Officials Established to Examine the Recommendations of the Brocklehurst and Caine Committee Reports_, 45; “Social Security Scheme for All in Singapore,” _Singapore Standard_, 19 March 1959, 4. (From NewspaperSG)
+[^33]: [_Committee of Officials Established to Examine the Recommendations of the Brocklehurst and Caine Committee Reports_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4981034), 45; “[Social Security Scheme for All in Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19590319-1.2.41),” _Singapore Standard_, 19 March 1959, 4. (From NewspaperSG)
 
 
 [^34]: “Social Security: ‘Not for 2 More Years’,” _Straits Times_, 22 October 1959, 16. (From NewspaperSG); _Report of the Central Provident Fund Study Group_, 6–7; Chia, _Central Provident Fund_, 14–15; Low and Aw, _Housing a Healthy, Educated and Wealthy Nation Through the CPF_, 20.
