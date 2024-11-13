@@ -54,6 +54,10 @@ While the CPF Bill was being introduced, a separate Retirement Benefits Commissi
 
 When the commission submitted its report to the government in February 1952, it recommended a pension scheme instead of a provident fund. The proposed pension scheme would require employees to make a weekly contribution of 60 cents until retirement. This amount would be matched by their employers. Upon retirement at age 55, the employee would receive a monthly pension of $30 till death.[^12] The commission felt that the pension scheme would require a shorter timeframe of “a few years” to be ready, whereas the provident fund scheme “would not be able to provide adequate amounts for retirement until about 1970”, and those who were middle-aged or older at the time could “never truly benefit under it”.[^13]
 
+
+![](/images/Vol%2020%20Issue%204/CPF/report.jpg)
+<div style="background-color:white;"> The Retirement Benefits Commission was convened to “investigate the best possible retirement benefits scheme for Singapore workers”. Its report was presented to the government in February 1952. <i> Image reproduced from Report of the Retirement Benefits Commission (Singapore: Government Printing Office, 1951). (From National Library, Singapore, call no. RCLOS 368.43095957 SIN). </i></div>
+
 #### **Adopting the Provident Fund Scheme**
 
 When the Retirement Benefits Commission’s recommendations were presented to the Legislative Council during the second reading of the CPF Bill on 17 June 1952, the pension scheme was rejected in favour of the central provident fund scheme.[^14] The Legislative Council believed that a provident fund was a more suitable and sufficient retirement mechanism. “From the views gathered by me, employees prefer to receive a lump sum on retirement instead of a paltry $25 or $35 per month,” said Tan, who had introduced the CPF Bill in 1951. S. Jaganathan, general secretary of the Singapore Trade Union Congress, commented that the $30 monthly pension was “not enough for a family to live on”.&nbsp;
