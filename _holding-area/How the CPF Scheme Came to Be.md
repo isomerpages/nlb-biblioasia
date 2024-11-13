@@ -8,6 +8,10 @@ description: How the CPF Scheme Came to Be
 
 By Lim Tin Seng
 
+![](/images/Vol%2020%20Issue%204/CPF/cpf_facing.jpg)
+<div style="background-color:white;"> The CPF Jurong Building, 2024.  <i>Photo by Jimmy Yap.  </i></div>
+
+
 The Central Provident Fund (CPF) scheme is a key part of Singapore’s social security system today. For most Singaporeans, the money in their CPF account allows them to buy a home, pay for health care expenses and plan for their retirement. As a result, the CPF scheme is deeply embedded into the fabric of life in Singapore today.&nbsp;
 
 However, the CPF scheme was only established on 1 July 1955. Before then, life for the majority of workers in Singapore was much more uncertain as the social security net was considerably more threadbare.&nbsp;
