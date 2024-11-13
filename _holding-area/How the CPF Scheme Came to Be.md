@@ -159,19 +159,19 @@ In 2025, the ERS will be $426,000, up from $308,700. According to the CPF Board,
 [^14]: “[Govt Backs Progs’ ‘Funds Bill](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19520618-1.2.24)’,” _Singapore Standard_, 18 June 1952, 2. (From NewspaperSG); “[Central Provident Fund Bill: 2nd Reading](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4981156),” B198.
 
 
-[^15]: “Trade Unions ‘In the Dark’,” _Straits Time_s, 30 May 1951, 4. (From NewspaperSG)
+[^15]: “[Trade Unions ‘In the Dark’](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19510530-1.2.65),” _Straits Time_s, 30 May 1951, 4. (From NewspaperSG)
 
 
-[^16]: “Central Provident Fund Bill: 2nd Reading,” B199.
+[^16]: “[Central Provident Fund Bill: 2nd Reading](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4981156),” B199.
 
 
-[^17]: “Provident Fund Plan Is Tabled,” _Singapore Standard_, 21 October 1953, Page 9. (From NewspaperSG)
+[^17]: “[Provident Fund Plan Is Tabled](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19531021-1.2.119),” _Singapore Standard_, 21 October 1953, Page 9. (From NewspaperSG)
 
 
-[^18]: G.T. Boon, “Provident Fund Gets a Big Welcome,” _Singapore Free Press_, 1 December 1953, 12. (From NewspaperSG)
+[^18]: G.T. Boon, “[Provident Fund Gets a Big Welcome](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19531201-1.2.55),” _Singapore Free Press_, 1 December 1953, 12. (From NewspaperSG)
 
 
-[^19]: “Provident Fund Gets a Big Welcome.”&nbsp;
+[^19]: “[Provident Fund Gets a Big Welcome](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19531201-1.2.55).”&nbsp;
 
 
 [^20]: “Hurry Along Those Forms, Firms Urged,” _Straits Times_, 30 March 1955, 2; “They Will Run the Big Fund,” _Straits Times_, 29 January 1954, 4. (From NewspaperSG)
