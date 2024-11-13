@@ -117,25 +117,25 @@ In 2025, the ERS will be $426,000, up from $308,700. According to the CPF Board,
 #### **Notes**
 
 
-[^1]: Chia Ngee-Choon, _Central Provident Fund_ (Singapore: Institute of Policy Studies: Straits Times Press Pte Ltd, 2016), 1. (From National Library, Singapore, call no. RSING 368.40095957 CHI); Linda Low and T.C. Aw, _Housing a Healthy, Educated and Wealthy Nation Through the CPF_ (Singapore: Times Academic Press for the Institute of Policy Studies, 1997), 5–8. (From National Library, Singapore, call no. RSING 368.4095957 LOW)
+[^1]: Chia Ngee-Choon, [_Central Provident Fund_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202686032) (Singapore: Institute of Policy Studies: Straits Times Press Pte Ltd, 2016), 1. (From National Library, Singapore, call no. RSING 368.40095957 CHI); Linda Low and T.C. Aw, [_Housing a Healthy, Educated and Wealthy Nation Through the CPF_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8465920) (Singapore: Times Academic Press for the Institute of Policy Studies, 1997), 5–8. (From National Library, Singapore, call no. RSING 368.4095957 LOW)
 
 
-[^2]: Chia, _Central Provident Fund_, 1; “Municipal Provident Fund,” _Straits Budget_, 17 March 1896, 2; “Provident Funds,” _Straits Times_, 16 November 1940, 10. (From NewspaperSG)
+[^2]: Chia,[ _Central Provident Fund_](), 1; “[Municipal Provident Fund](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget18960317-1.2.7.4),” _Straits Budget_, 17 March 1896, 2; “[Provident Funds](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19401116-1.2.61),” _Straits Times_, 16 November 1940, 10. (From NewspaperSG)
 
 
-[^3]: “Central Provident Fund Bill: 2nd Reading,” _Proceedings of the Legislative Council, Colony of Singapore_, 17 June 1952, B194. (From National Library, Singapore, call no. RCLOS 328.5957 SIN)
+[^3]: “Central Provident Fund Bill: 2nd Reading,” [_Proceedings of the Legislative Council, Colony of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4981156), 17 June 1952, B194. (From National Library, Singapore, call no. RCLOS 328.5957 SIN)
 
 
-[^4]: “Fear of Old Age,” _Singapore Standard_, 20 April 1951, 6. (From NewspaperSG)
+[^4]: “[Fear of Old Age](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19510420-1.2.92),” _Singapore Standard_, 20 April 1951, 6. (From NewspaperSG)
 
 
-[^5]: “Social Security Move in Colony,” _Straits Times_, 16 March 1949, 1. (From NewspaperSG)
+[^5]: “[Social Security Move in Colony](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19490316-1.2.3),” _Straits Times_, 16 March 1949, 1. (From NewspaperSG)
 
 
-[^6]: “S’pore Social Security Plan Sought,” _Straits Times_, 14 March 1949, 5. (From NewspaperSG)
+[^6]: “[S’pore Social Security Plan Sought](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19490314-1.2.69),” _Straits Times_, 14 March 1949, 5. (From NewspaperSG)
 
 
-[^7]: “Social Security Move in Colony.”&nbsp;
+[^7]: “[Social Security Move in Colony](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19490316-1.2.3).”&nbsp;
 
 
 [^8]: “Laycock Seeks India’s Aid,” _Sunday Tribune_, 19 March 1950, 3; “Workers Fund Bill for Council,” _Straits Times_, 24 October 1950, 5; “Benefit Bill for Committee,” _Straits Times_, 23 May 1951, 5. (From NewspaperSG); “Central Provident Fund Bill: 1st Reading,” _Proceedings of the Legislative Council, Colony of Singapore_, 22 May 1951, B79. (From National Library, Singapore, call no. RCLOS 328.5957 SIN); “Central Provident Fund Bill: 2nd Reading,” B194.&nbsp;
