@@ -16,6 +16,10 @@ The Central Provident Fund (CPF) scheme is a key part of Singapore’s social se
 
 However, the CPF scheme was only established on 1 July 1955. Before then, life for the majority of workers in Singapore was much more uncertain as the social security net was considerably more threadbare.&nbsp;
 
+![](/images/Vol%2020%20Issue%204/CPF/171955.jpg)
+<div style="background-color:white;"> The Central Provident Fund commenced on 1 July 1955. <i>Image reproduced from Indian Daily Mail, 12 May 1955, 4. (From NewspaperSG).  </i></div>
+
+
 #### **Retirement Benefits for Workers**
 
 Before the CPF scheme was set up, only a few employees had retirement benefits. Some workers were on a pension scheme (also known as a defined benefit scheme). This is a retirement plan where employees and/or employers contribute to a collective fund and, upon retirement, employees receive a predetermined monthly payment until death.[^1] This scheme was mostly offered in the civil service or by large foreign companies in Singapore at the time.
