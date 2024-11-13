@@ -170,19 +170,7 @@ Committee on Minimum Standards of Livelihood, _Report of the Committee on Minimu
 
 International Labour Office, _Report to the Government of Singapore on Social Security Measures_ (Singapore: Government Printing Office, 1957), 33. (From National Library, Singapore, call no. RCLOS 368.40095957 INT)&nbsp;
 
-_Committee of Officials Established to Examine the Recommendations of the Brocklehurst and Caine Committee Reports_ (Singapore: Government Printing Office, 1959), 42. (From National Library, Singapore, call no. RCLOS 362.95951 SIN-\[RFL\])
 
-_Committee of Officials Established to Examine the Recommendations of the Brocklehurst and Caine Committee Reports_, 42; “Plan for Illness, Maternity, Old Age Benefits,” _Straits Budget_, 25 March 1959, 10. (From NewspaperSG)
-
-“Hands Off the Provident Fund Say Unionists,” _Singapore Free Press_, 27 September 1958, 5; “TUC Will Urge Govt. to Tax Luxury Goods,” _Singapore Free Press_, 5 March 1958, 5. (From NewspaperSG)
-
-“Social Security Plan for S’pore,” _Singapore Standard_, 1 May 1958, 7; “Experts to Draft Welfare Scheme,” _Straits Budget_, 15 January 1958, 9; “Plan for Illness, Maternity and Age Benefits,” _Straits Times_, 19 March 1959, 1. (From NewspaperSG); _Report of the Central Provident Fund Study Group,_ 6; Low and Aw, _Housing a Healthy, Educated and Wealthy Nation Through the CPF_, 18–19.
-
-_Committee of Officials Established to Examine the Recommendations of the Brocklehurst and Caine Committee Reports_, 42.
-
-_Committee of Officials Established to Examine the Recommendations of the Brocklehurst and Caine Committee Reports_, 42.
-
-_Committee of Officials Established to Examine the Recommendations of the Brocklehurst and Caine Committee Reports_, 45; “Social Security Scheme for All in Singapore,” _Singapore Standard_, 19 March 1959, 4. (From NewspaperSG)
 
 
 
@@ -266,26 +254,27 @@ _Committee of Officials Established to Examine the Recommendations of the Brockl
 [^26]: 
 
 
-[^27]: 
-
-
-[^28]: 
-
-
-[^29]: 
-
-
-[^30]: 
+[^27]: _Committee of Officials Established to Examine the Recommendations of the Brocklehurst and Caine Committee Reports_ (Singapore: Government Printing Office, 1959), 42. (From National Library, Singapore, call no. RCLOS 362.95951 SIN-\[RFL\])
 
 
 
-[^31]: 
+[^28]: _Committee of Officials Established to Examine the Recommendations of the Brocklehurst and Caine Committee Reports_, 42; “Plan for Illness, Maternity, Old Age Benefits,” _Straits Budget_, 25 March 1959, 10. (From NewspaperSG)
 
 
-[^32]: 
+[^29]: “Hands Off the Provident Fund Say Unionists,” _Singapore Free Press_, 27 September 1958, 5; “TUC Will Urge Govt. to Tax Luxury Goods,” _Singapore Free Press_, 5 March 1958, 5. (From NewspaperSG)
 
 
-[^33]: 
+[^30]: “Social Security Plan for S’pore,” _Singapore Standard_, 1 May 1958, 7; “Experts to Draft Welfare Scheme,” _Straits Budget_, 15 January 1958, 9; “Plan for Illness, Maternity and Age Benefits,” _Straits Times_, 19 March 1959, 1. (From NewspaperSG); _Report of the Central Provident Fund Study Group,_ 6; Low and Aw, _Housing a Healthy, Educated and Wealthy Nation Through the CPF_, 18–19.
+
+
+
+[^31]: _Committee of Officials Established to Examine the Recommendations of the Brocklehurst and Caine Committee Reports_, 42.
+
+
+[^32]: _Committee of Officials Established to Examine the Recommendations of the Brocklehurst and Caine Committee Reports_, 42.
+
+
+[^33]: _Committee of Officials Established to Examine the Recommendations of the Brocklehurst and Caine Committee Reports_, 45; “Social Security Scheme for All in Singapore,” _Singapore Standard_, 19 March 1959, 4. (From NewspaperSG)
 
 
 [^34]: “Social Security: ‘Not for 2 More Years’,” _Straits Times_, 22 October 1959, 16. (From NewspaperSG); _Report of the Central Provident Fund Study Group_, 6–7; Chia, _Central Provident Fund_, 14–15; Low and Aw, _Housing a Healthy, Educated and Wealthy Nation Through the CPF_, 20.
