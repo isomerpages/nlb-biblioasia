@@ -206,7 +206,7 @@ In 2025, the ERS will be $426,000, up from $308,700. According to the CPF Board,
 [^29]: “[Hands Off the Provident Fund Say Unionists](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19580927-1.2.39),” _Singapore Free Press_, 27 September 1958, 5; “[TUC Will Urge Govt. to Tax Luxury Goods](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19580305-1.2.23),” _Singapore Free Press_, 5 March 1958, 5. (From NewspaperSG)
 
 
-[^30]: “Social Security Plan for S’pore,” _Singapore Standard_, 1 May 1958, 7; “Experts to Draft Welfare Scheme,” _Straits Budget_, 15 January 1958, 9; “Plan for Illness, Maternity and Age Benefits,” _Straits Times_, 19 March 1959, 1. (From NewspaperSG); _Report of the Central Provident Fund Study Group,_ 6; Low and Aw, _Housing a Healthy, Educated and Wealthy Nation Through the CPF_, 18–19.
+[^30]: “[Social Security Plan for S’pore](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19580501-1.2.59),” _Singapore Standard_, 1 May 1958, 7; “[Experts to Draft Welfare Scheme](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19580115-1.2.31),” _Straits Budget_, 15 January 1958, 9; “[Plan for Illness, Maternity and Age Benefits](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19590319-1.2.4),” _Straits Times_, 19 March 1959, 1. (From NewspaperSG); [_Report of the Central Provident Fund Study Group,_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5156458) 6; Low and Aw, [_Housing a Healthy, Educated and Wealthy Nation Through the CPF_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8465920), 18–19.
 
 
 
