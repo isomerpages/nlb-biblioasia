@@ -193,38 +193,22 @@ Colony of Singapore, _Report of the Retirement Benefits Commission_ (Singapore: 
 [^14]: 
 
 
-[^15]: 
-“Trade Unions ‘In the Dark’,” _Straits Time_s, 30 May 1951, 4. (From NewspaperSG)
-
-“Central Provident Fund Bill: 2nd Reading,” B199.
-
-“Provident Fund Plan Is Tabled,” _Singapore Standard_, 21 October 1953, Page 9. (From NewspaperSG)
-
-G.T. Boon, “Provident Fund Gets a Big Welcome,” _Singapore Free Press_, 1 December 1953, 12. (From NewspaperSG)
-
-“Provident Fund Gets a Big Welcome.”&nbsp;
-
-“Hurry Along Those Forms, Firms Urged,” _Straits Times_, 30 March 1955, 2; “They Will Run the Big Fund,” _Straits Times_, 29 January 1954, 4. (From NewspaperSG)
+[^15]: “Trade Unions ‘In the Dark’,” _Straits Time_s, 30 May 1951, 4. (From NewspaperSG)
 
 
+[^16]: “Central Provident Fund Bill: 2nd Reading,” B199.
 
 
+[^17]: “Provident Fund Plan Is Tabled,” _Singapore Standard_, 21 October 1953, Page 9. (From NewspaperSG)
 
 
-
-[^16]: 
-
-
-[^17]: 
+[^18]: G.T. Boon, “Provident Fund Gets a Big Welcome,” _Singapore Free Press_, 1 December 1953, 12. (From NewspaperSG)
 
 
-[^18]: 
+[^19]: “Provident Fund Gets a Big Welcome.”&nbsp;
 
 
-[^19]: 
-
-
-[^20]: 
+[^20]: “Hurry Along Those Forms, Firms Urged,” _Straits Times_, 30 March 1955, 2; “They Will Run the Big Fund,” _Straits Times_, 29 January 1954, 4. (From NewspaperSG)
 
 
 
