@@ -181,10 +181,10 @@ In 2025, the ERS will be $426,000, up from $308,700. According to the CPF Board,
 [^21]: “[Provident Fund Is Put Off](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19550429-1.2.86),” _Straits Times_, 29 April 1955, 5; “[Scheme Hold Up Affects 15,000](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19550513-1.2.122),” _The Straits Times_, 13 May 1955, 12. (From NewspaperSG); Colin Cheong, [_Saving for Our Retirement: 50 Years of CPF_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12563207) (Singapore: SNP Editions, 2005), 22–23. (From National Library, Singapore, call no. RSING 368.40095957 CHE)
 
 
-[^22]: “Provident Fund Will Commence on July 1,” _Indian Daily Mail_, 12 May 1955, 4. (From NewspaperSG)
+[^22]: “[Provident Fund Will Commence on July 1](https://eresources.nlb.gov.sg/newspapers/digitised/article/indiandailymail19550512-1.2.64),” _Indian Daily Mail_, 12 May 1955, 4. (From NewspaperSG)
 
 
-[^23]: “Sir Sydney Will Explore Welfare State,” _Straits Times_, 22 November 1955, 7. (From NewspaperSG); _Report of the Central Provident Fund Study Group_, 4–5; Low and Aw, _Housing a Healthy, Educated and Wealthy Nation Through the CPF_, 15–16.
+[^23]: “[Sir Sydney Will Explore Welfare State](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19551122-1.2.69),” _Straits Times_, 22 November 1955, 7. (From NewspaperSG); _Report of the Central Provident Fund Study Group_, 4–5; Low and Aw, _Housing a Healthy, Educated and Wealthy Nation Through the CPF_, 15–16.
 
 
 [^24]: “Dole and Health Service Planned for Workers,” _Straits Budget_, 27 October 1955, 17. (From NewspaperSG); _Report of the Central Provident Fund Study Group_, 5–6; Low and Aw, _Housing a Healthy, Educated and Wealthy Nation Through the CPF_, 16–17.
