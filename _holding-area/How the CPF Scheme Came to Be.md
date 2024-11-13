@@ -147,7 +147,7 @@ In 2025, the ERS will be $426,000, up from $308,700. According to the CPF Board,
 [^10]: George Rasiah, “[Employers Welcome Proposed Compulsory Provident Fund](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19510118-1.2.31),” _Singapore Standard_, 18 January 1951, 2. (From NewspaperSG)
 
 
-[^11]: Colony of Singapore, _Report of the Retirement Benefits Commission_ (Singapore: Government Printing Office, 1951), 1. (From National Library, Singapore, call no. RCLOS 368.43095957 SIN); “Retirement Commission,” _Straits Times_, 29 June 1951, 5; “‘Choose Benefit Scheme First’,” _Singapore Free Press_, 20 May 1952, 5. (From NewspaperSG)
+[^11]: Colony of Singapore, [_Report of the Retirement Benefits Commission_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=204188116) (Singapore: Government Printing Office, 1951), 1. (From National Library, Singapore, call no. RCLOS 368.43095957 SIN); “Retirement Commission,” _Straits Times_, 29 June 1951, 5; “‘Choose Benefit Scheme First’,” _Singapore Free Press_, 20 May 1952, 5. (From NewspaperSG)
 
 
 [^12]: “Pension Plan Urged for S’pore,” _Straits Times_, 28 February 1952, 7; Trade Unionist, “Workers Are Still Waiting,” _Straits Times_, 17 October 1953, 10. (From NewspaperSG)
