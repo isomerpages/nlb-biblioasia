@@ -146,30 +146,6 @@ Colony of Singapore, _Report of the Retirement Benefits Commission_ (Singapore: 
 
 “Govt Backs Progs’ ‘Funds Bill’,” _Singapore Standard_, 18 June 1952, 2. (From NewspaperSG); “Central Provident Fund Bill: 2nd Reading,” B198.
 
-“Trade Unions ‘In the Dark’,” _Straits Time_s, 30 May 1951, 4. (From NewspaperSG)
-
-“Central Provident Fund Bill: 2nd Reading,” B199.
-
-“Provident Fund Plan Is Tabled,” _Singapore Standard_, 21 October 1953, Page 9. (From NewspaperSG)
-
-G.T. Boon, “Provident Fund Gets a Big Welcome,” _Singapore Free Press_, 1 December 1953, 12. (From NewspaperSG)
-
-“Provident Fund Gets a Big Welcome.”&nbsp;
-
-“Hurry Along Those Forms, Firms Urged,” _Straits Times_, 30 March 1955, 2; “They Will Run the Big Fund,” _Straits Times_, 29 January 1954, 4. (From NewspaperSG)
-
-“Provident Fund Is Put Off,” _Straits Times_, 29 April 1955, 5; “Scheme Hold Up Affects 15,000,” _The Straits Times_, 13 May 1955, 12. (From NewspaperSG); Colin Cheong, _Saving for Our Retirement: 50 Years of CPF_ (Singapore: SNP Editions, 2005), 22–23. (From National Library, Singapore, call no. RSING 368.40095957 CHE)
-
-“Provident Fund Will Commence on July 1,” _Indian Daily Mail_, 12 May 1955, 4. (From NewspaperSG)
-
-“Sir Sydney Will Explore Welfare State,” _Straits Times_, 22 November 1955, 7. (From NewspaperSG); _Report of the Central Provident Fund Study Group_, 4–5; Low and Aw, _Housing a Healthy, Educated and Wealthy Nation Through the CPF_, 15–16.
-
-“Dole and Health Service Planned for Workers,” _Straits Budget_, 27 October 1955, 17. (From NewspaperSG); _Report of the Central Provident Fund Study Group_, 5–6; Low and Aw, _Housing a Healthy, Educated and Wealthy Nation Through the CPF_, 16–17.
-
-Committee on Minimum Standards of Livelihood, _Report of the Committee on Minimum Standards of Livelihood_ (Singapore: Government Printing Office, 1957), 43. (From National Library, Singapore, call no. RCLOS 331.2 SIN \[RFL\])&nbsp;
-
-International Labour Office, _Report to the Government of Singapore on Social Security Measures_ (Singapore: Government Printing Office, 1957), 33. (From National Library, Singapore, call no. RCLOS 368.40095957 INT)&nbsp;
-
 
 
 
@@ -218,6 +194,22 @@ International Labour Office, _Report to the Government of Singapore on Social Se
 
 
 [^15]: 
+“Trade Unions ‘In the Dark’,” _Straits Time_s, 30 May 1951, 4. (From NewspaperSG)
+
+“Central Provident Fund Bill: 2nd Reading,” B199.
+
+“Provident Fund Plan Is Tabled,” _Singapore Standard_, 21 October 1953, Page 9. (From NewspaperSG)
+
+G.T. Boon, “Provident Fund Gets a Big Welcome,” _Singapore Free Press_, 1 December 1953, 12. (From NewspaperSG)
+
+“Provident Fund Gets a Big Welcome.”&nbsp;
+
+“Hurry Along Those Forms, Firms Urged,” _Straits Times_, 30 March 1955, 2; “They Will Run the Big Fund,” _Straits Times_, 29 January 1954, 4. (From NewspaperSG)
+
+
+
+
+
 
 
 [^16]: 
@@ -236,22 +228,22 @@ International Labour Office, _Report to the Government of Singapore on Social Se
 
 
 
-[^21]: 
+[^21]: “Provident Fund Is Put Off,” _Straits Times_, 29 April 1955, 5; “Scheme Hold Up Affects 15,000,” _The Straits Times_, 13 May 1955, 12. (From NewspaperSG); Colin Cheong, _Saving for Our Retirement: 50 Years of CPF_ (Singapore: SNP Editions, 2005), 22–23. (From National Library, Singapore, call no. RSING 368.40095957 CHE)
 
 
-[^22]: 
+[^22]: “Provident Fund Will Commence on July 1,” _Indian Daily Mail_, 12 May 1955, 4. (From NewspaperSG)
 
 
-[^23]: 
+[^23]: “Sir Sydney Will Explore Welfare State,” _Straits Times_, 22 November 1955, 7. (From NewspaperSG); _Report of the Central Provident Fund Study Group_, 4–5; Low and Aw, _Housing a Healthy, Educated and Wealthy Nation Through the CPF_, 15–16.
 
 
-[^24]: 
+[^24]: “Dole and Health Service Planned for Workers,” _Straits Budget_, 27 October 1955, 17. (From NewspaperSG); _Report of the Central Provident Fund Study Group_, 5–6; Low and Aw, _Housing a Healthy, Educated and Wealthy Nation Through the CPF_, 16–17.
 
 
-[^25]: 
+[^25]: Committee on Minimum Standards of Livelihood, _Report of the Committee on Minimum Standards of Livelihood_ (Singapore: Government Printing Office, 1957), 43. (From National Library, Singapore, call no. RCLOS 331.2 SIN \[RFL\])&nbsp;
 
 
-[^26]: 
+[^26]: International Labour Office, _Report to the Government of Singapore on Social Security Measures_ (Singapore: Government Printing Office, 1957), 33. (From National Library, Singapore, call no. RCLOS 368.40095957 INT)&nbsp;
 
 
 [^27]: _Committee of Officials Established to Examine the Recommendations of the Brocklehurst and Caine Committee Reports_ (Singapore: Government Printing Office, 1959), 42. (From National Library, Singapore, call no. RCLOS 362.95951 SIN-\[RFL\])
