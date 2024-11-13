@@ -148,7 +148,7 @@ In 2025, the ERS will be $426,000, up from $308,700. According to the CPF Board,
 [^1]: Chia Ngee-Choon, [_Central Provident Fund_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202686032) (Singapore: Institute of Policy Studies: Straits Times Press Pte Ltd, 2016), 1. (From National Library, Singapore, call no. RSING 368.40095957 CHI); Linda Low and T.C. Aw, [_Housing a Healthy, Educated and Wealthy Nation Through the CPF_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8465920) (Singapore: Times Academic Press for the Institute of Policy Studies, 1997), 5–8. (From National Library, Singapore, call no. RSING 368.4095957 LOW)
 
 
-[^2]: Chia,[ _Central Provident Fund_](), 1; “[Municipal Provident Fund](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget18960317-1.2.7.4),” _Straits Budget_, 17 March 1896, 2; “[Provident Funds](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19401116-1.2.61),” _Straits Times_, 16 November 1940, 10. (From NewspaperSG)
+[^2]: Chia,[ _Central Provident Fund_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202686032), 1; “[Municipal Provident Fund](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget18960317-1.2.7.4),” _Straits Budget_, 17 March 1896, 2; “[Provident Funds](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19401116-1.2.61),” _Straits Times_, 16 November 1940, 10. (From NewspaperSG)
 
 
 [^3]: “Central Provident Fund Bill: 2nd Reading,” [_Proceedings of the Legislative Council, Colony of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4981156), 17 June 1952, B194. (From National Library, Singapore, call no. RCLOS 328.5957 SIN)
