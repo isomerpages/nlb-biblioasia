@@ -116,5 +116,207 @@ In 2025, the ERS will be $426,000, up from $308,700. According to the CPF Board,
 
 #### **Notes**
 
+    p.p1 {margin: 0.0px 0.0px 0.0px 9.9px; text-indent: -9.9px; line-height: 8.5px; font: 7.0px Calibri} span.s1 {letter-spacing: -0.4px} span.s2 {letter-spacing: -0.3px} span.s3 {letter-spacing: -0.5px} span.s4 {letter-spacing: -0.7px} span.s5 {letter-spacing: -0.6px}
 
-[^1]:  
+Chia Ngee-Choon, _Central Provident Fund_ (Singapore: Institute of Policy Studies: Straits Times Press Pte Ltd, 2016), 1. (From National Library, Singapore, call no. RSING 368.40095957 CHI); Linda Low and T.C. Aw, _Housing a Healthy, Educated and Wealthy Nation Through the CPF_ (Singapore: Times Academic Press for the Institute of Policy Studies, 1997), 5–8. (From National Library, Singapore, call no. RSING 368.4095957 LOW)
+
+Chia, _Central Provident Fund_, 1; “Municipal Provident Fund,” _Straits Budget_, 17 March 1896, 2; “Provident Funds,” _Straits Times_, 16 November 1940, 10. (From NewspaperSG)
+
+“Central Provident Fund Bill: 2nd Reading,” _Proceedings of the Legislative Council, Colony of Singapore_, 17 June 1952, B194. (From National Library, Singapore, call no. RCLOS 328.5957 SIN)
+
+“Fear of Old Age,” _Singapore Standard_, 20 April 1951, 6. (From NewspaperSG)
+
+“Social Security Move in Colony,” _Straits Times_, 16 March 1949, 1. (From NewspaperSG)
+
+“S’pore Social Security Plan Sought,” _Straits Times_, 14 March 1949, 5. (From NewspaperSG)
+
+“Social Security Move in Colony.”&nbsp;
+
+“Laycock Seeks India’s Aid,” _Sunday Tribune_, 19 March 1950, 3; “Workers Fund Bill for Council,” _Straits Times_, 24 October 1950, 5; “Benefit Bill for Committee,” _Straits Times_, 23 May 1951, 5. (From NewspaperSG); “Central Provident Fund Bill: 1st Reading,” _Proceedings of the Legislative Council, Colony of Singapore_, 22 May 1951, B79. (From National Library, Singapore, call no. RCLOS 328.5957 SIN); “Central Provident Fund Bill: 2nd Reading,” B194.&nbsp;
+
+“Provident Fund for All Workers Proposed,” _Straits Times_, 17 January 1951, 4; “Provident Fund to Be Made Compulsory,” _Indian Daily Mail_, 21 January 1951, 4; “Text of Progressive Party's Provident Fund Bill,” _Indian Daily Mail_, 22 January 1951, 4. (From NewspaperSG)
+
+George Rasiah, “Employers Welcome Proposed Compulsory Provident Fund,” _Singapore Standard_, 18 January 1951, 2. (From NewspaperSG)
+
+Colony of Singapore, _Report of the Retirement Benefits Commission_ (Singapore: Government Printing Office, 1951), 1. (From National Library, Singapore, call no. RCLOS 368.43095957 SIN); “Retirement Commission,” _Straits Times_, 29 June 1951, 5; “‘Choose Benefit Scheme First’,” _Singapore Free Press_, 20 May 1952, 5. (From NewspaperSG)
+
+“Pension Plan Urged for S’pore,” _Straits Times_, 28 February 1952, 7; Trade Unionist, “Workers Are Still Waiting,” _Straits Times_, 17 October 1953, 10. (From NewspaperSG)
+
+“Pension Plan Urged for S’pore”; _Report of the Central Provident Fund Study Group_ (Singapore: National University of Singapore, Dept. of Economics and Statistics, 1985), 1–4. (From National Library Singapore, call no. RSING 368.40095957 CEN)&nbsp;
+
+“Govt Backs Progs’ ‘Funds Bill’,” _Singapore Standard_, 18 June 1952, 2. (From NewspaperSG); “Central Provident Fund Bill: 2nd Reading,” B198.
+
+“Trade Unions ‘In the Dark’,” _Straits Time_s, 30 May 1951, 4. (From NewspaperSG)
+
+“Central Provident Fund Bill: 2nd Reading,” B199.
+
+“Provident Fund Plan Is Tabled,” _Singapore Standard_, 21 October 1953, Page 9. (From NewspaperSG)
+
+G.T. Boon, “Provident Fund Gets a Big Welcome,” _Singapore Free Press_, 1 December 1953, 12. (From NewspaperSG)
+
+“Provident Fund Gets a Big Welcome.”&nbsp;
+
+“Hurry Along Those Forms, Firms Urged,” _Straits Times_, 30 March 1955, 2; “They Will Run the Big Fund,” _Straits Times_, 29 January 1954, 4. (From NewspaperSG)
+
+“Provident Fund Is Put Off,” _Straits Times_, 29 April 1955, 5; “Scheme Hold Up Affects 15,000,” _The Straits Times_, 13 May 1955, 12. (From NewspaperSG); Colin Cheong, _Saving for Our Retirement: 50 Years of CPF_ (Singapore: SNP Editions, 2005), 22–23. (From National Library, Singapore, call no. RSING 368.40095957 CHE)
+
+“Provident Fund Will Commence on July 1,” _Indian Daily Mail_, 12 May 1955, 4. (From NewspaperSG)
+
+“Sir Sydney Will Explore Welfare State,” _Straits Times_, 22 November 1955, 7. (From NewspaperSG); _Report of the Central Provident Fund Study Group_, 4–5; Low and Aw, _Housing a Healthy, Educated and Wealthy Nation Through the CPF_, 15–16.
+
+“Dole and Health Service Planned for Workers,” _Straits Budget_, 27 October 1955, 17. (From NewspaperSG); _Report of the Central Provident Fund Study Group_, 5–6; Low and Aw, _Housing a Healthy, Educated and Wealthy Nation Through the CPF_, 16–17.
+
+Committee on Minimum Standards of Livelihood, _Report of the Committee on Minimum Standards of Livelihood_ (Singapore: Government Printing Office, 1957), 43. (From National Library, Singapore, call no. RCLOS 331.2 SIN \[RFL\])&nbsp;
+
+International Labour Office, _Report to the Government of Singapore on Social Security Measures_ (Singapore: Government Printing Office, 1957), 33. (From National Library, Singapore, call no. RCLOS 368.40095957 INT)&nbsp;
+
+_Committee of Officials Established to Examine the Recommendations of the Brocklehurst and Caine Committee Reports_ (Singapore: Government Printing Office, 1959), 42. (From National Library, Singapore, call no. RCLOS 362.95951 SIN-\[RFL\])
+
+_Committee of Officials Established to Examine the Recommendations of the Brocklehurst and Caine Committee Reports_, 42; “Plan for Illness, Maternity, Old Age Benefits,” _Straits Budget_, 25 March 1959, 10. (From NewspaperSG)
+
+“Hands Off the Provident Fund Say Unionists,” _Singapore Free Press_, 27 September 1958, 5; “TUC Will Urge Govt. to Tax Luxury Goods,” _Singapore Free Press_, 5 March 1958, 5. (From NewspaperSG)
+
+“Social Security Plan for S’pore,” _Singapore Standard_, 1 May 1958, 7; “Experts to Draft Welfare Scheme,” _Straits Budget_, 15 January 1958, 9; “Plan for Illness, Maternity and Age Benefits,” _Straits Times_, 19 March 1959, 1. (From NewspaperSG); _Report of the Central Provident Fund Study Group,_ 6; Low and Aw, _Housing a Healthy, Educated and Wealthy Nation Through the CPF_, 18–19.
+
+_Committee of Officials Established to Examine the Recommendations of the Brocklehurst and Caine Committee Reports_, 42.
+
+_Committee of Officials Established to Examine the Recommendations of the Brocklehurst and Caine Committee Reports_, 42.
+
+_Committee of Officials Established to Examine the Recommendations of the Brocklehurst and Caine Committee Reports_, 45; “Social Security Scheme for All in Singapore,” _Singapore Standard_, 19 March 1959, 4. (From NewspaperSG)
+
+“Social Security: ‘Not for 2 More Years’,” _Straits Times_, 22 October 1959, 16. (From NewspaperSG); _Report of the Central Provident Fund Study Group_, 6–7; Chia, _Central Provident Fund_, 14–15; Low and Aw, _Housing a Healthy, Educated and Wealthy Nation Through the CPF_, 20.
+
+“C.P.F. – A Savings Scheme: Ahmad.” _Straits Times_, 18 November 1961, 4.&nbsp; (From NewspaperSG)
+
+Chia, _Central Provident Fund_, 14–15; Low and Aw, _Housing a Healthy, Educated and Wealthy Nation Through the CPF_, 20–21.
+
+Lee Kuan Yew, _From Third World to First: The Singapore Story, 1965–2000: Memoirs of Lee Kuan Yew_ (Singapore: Marshall Cavendish Editions, 2015), 126. (From National Library, Singapore, call no. RSING 959.5705092 LEE)
+
+Lee, _From Third World to First_, 127.
+
+Lee, _From Third World to First_, 126–27.
+
+“What Is the Change to the Enhanced Retirement Sum in 2025?” Central Provident Fund Board, last updated 18 October 2024, https://www.cpf.gov.sg/service/article/what-is-the-change-to-the-enhanced-retirement-sum-in-2025.
+
+
+[^1]: 
+
+
+[^2]: 
+
+
+[^3]: 
+
+
+[^4]: 
+
+
+[^5]: 
+
+
+[^6]: 
+
+
+[^7]: 
+
+
+[^8]: 
+
+
+[^9]: 
+
+
+[^10]: 
+
+
+[^11]: 
+
+
+[^12]: 
+
+
+[^13]: 
+
+
+[^14]: 
+
+
+[^15]: 
+
+
+[^16]: 
+
+
+[^17]: 
+
+
+[^18]: 
+
+
+[^19]: 
+
+
+[^20]: 
+
+
+
+[^21]: 
+
+
+[^22]: 
+
+
+[^23]: 
+
+
+[^24]: 
+
+
+[^25]: 
+
+
+[^26]: 
+
+
+[^27]: 
+
+
+[^28]: 
+
+
+[^29]: 
+
+
+[^30]: 
+
+
+
+[^31]: 
+
+
+[^32]: 
+
+
+[^33]: 
+
+
+[^34]: 
+
+
+[^35]: 
+
+
+[^36]: 
+
+
+[^37]: 
+
+
+[^38]: 
+
+
+[^39]: 
+
+
+[^40]: 
+
