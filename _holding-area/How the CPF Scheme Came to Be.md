@@ -86,7 +86,14 @@ An amending bill was quickly drafted and rushed through the Legislative Assembly
 
 The colonial government continued to seek alternative views on how the CPF should be expanded to cover not only the entire population, including casual workers and the self-employed, but also others in need such as the unemployed and the sick. On 21 November 1955, Chief Minister David Marshall announced the formation of the Committee on Minimum Standards of Livelihood headed by Sydney Caine, Economic Adviser to the Government and Vice-Chancellor of the University of Malaya. This committee was tasked with “establishing a minimum living standard in Singapore” by providing a basic wage and unemployment insurance, as well as improving the adequacy of existing social security programmes, including the CPF.[^23]
 
+![](/images/Vol%2020%20Issue%204/CPF/sirsidney.jpg)
+<div style="background-color:white;"> Sydney Caine, Economic Adviser to the Government and Vice-Chancellor of the University of Malaya, was appointed to head the Committee on Minimum Standards of Livelihood on 21 November 1955. <i>Source: The Straits Times, 22 November 1955. © SPH Media Limited. Permission required for reproduction.</i></div>
+
 Concurrently, a study led by International Labour Organization expert, G.J. Brocklehurst, was initiated in October 1955 to assess the feasibility of introducing “contributory health and unemployment benefit schemes affecting the Colony’s 300,000 workers”. This was later expanded to evaluate the overall effectiveness of existing social security initiatives including the CPF.[^24]
+
+
+![](/images/Vol%2020%20Issue%204/CPF/brocklehurst.jpg)
+<div style="background-color:white;"> G.J. Brocklehurst of the International Labour Organization was appointed to assess the feasibility of contributory health and unemployment benefit schemes for workers in October 1955. <i>Image reproduced from the Straits Budget, 27 October 1955, 17. (From NewspaperSG).</i></div>
 
 &nbsp;In their findings, both Caine and Brocklehurst found shortcomings with the CPF scheme. Caine felt that the provident fund was “in essence one of compulsory saving, not of social insurance”,[^25] while Brocklehurst concluded that it was “not adequate as a social security measure”.[^26] They recommended replacing the CPF with a new integrated social security system governed by a department of social security. This system would include a contributory pension scheme and a public assistance scheme, providing coverage not only for retirees but also for widows, the sick and those on maternity leave. However, unemployment benefits would be introduced at a later stage.[^27]
 
