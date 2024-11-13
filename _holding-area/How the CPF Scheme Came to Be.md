@@ -221,19 +221,19 @@ In 2025, the ERS will be $426,000, up from $308,700. According to the CPF Board,
 
 [^34]: “[Social Security: ‘Not for 2 More Years’](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19591022-1.2.137),” _Straits Times_, 22 October 1959, 16. (From NewspaperSG); [_Report of the Central Provident Fund Study Group_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5156458), 6–7; Chia, [_Central Provident Fund_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202686032), 14–15; Low and Aw, [_Housing a Healthy, Educated and Wealthy Nation Through the CPF_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8465920), 20.
 
-[^35]: “C.P.F. – A Savings Scheme: Ahmad.” _Straits Times_, 18 November 1961, 4.&nbsp; (From NewspaperSG)
+[^35]: “[C.P.F. – A Savings Scheme: Ahmad](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19611118-1.2.41).” _Straits Times_, 18 November 1961, 4.&nbsp; (From NewspaperSG)
 
 
-[^36]: Chia, _Central Provident Fund_, 14–15; Low and Aw, _Housing a Healthy, Educated and Wealthy Nation Through the CPF_, 20–21.
+[^36]: Chia, [_Central Provident Fund_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202686032), 14–15; Low and Aw, [_Housing a Healthy, Educated and Wealthy Nation Through the CPF_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8465920), 20–21.
 
 
-[^37]: Lee Kuan Yew, _From Third World to First: The Singapore Story, 1965–2000: Memoirs of Lee Kuan Yew_ (Singapore: Marshall Cavendish Editions, 2015), 126. (From National Library, Singapore, call no. RSING 959.5705092 LEE)
+[^37]: Lee Kuan Yew, [_From Third World to First: The Singapore Story, 1965–2000: Memoirs of Lee Kuan Yew_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14299472) (Singapore: Marshall Cavendish Editions, 2015), 126. (From National Library, Singapore, call no. RSING 959.5705092 LEE)
 
 
-[^38]: Lee, _From Third World to First_, 127.
+[^38]: Lee,[ _From Third World to First_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14299472), 127.
 
 
-[^39]: Lee, _From Third World to First_, 126–27.
+[^39]: Lee, [_From Third World to First_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14299472), 126–27.
 
 
-[^40]: “What Is the Change to the Enhanced Retirement Sum in 2025?” Central Provident Fund Board, last updated 18 October 2024, https://www.cpf.gov.sg/service/article/what-is-the-change-to-the-enhanced-retirement-sum-in-2025.
+[^40]: “What Is the Change to the Enhanced Retirement Sum in 2025?” Central Provident Fund Board, last updated 18 October 2024, [https://www.cpf.gov.sg/service/article/what-is-the-change-to-the-enhanced-retirement-sum-in-2025](https://www.cpf.gov.sg/service/article/what-is-the-change-to-the-enhanced-retirement-sum-in-2025).
