@@ -2,6 +2,7 @@ collections:
   holding-area:
     output: true
     order:
+      - How the CPF Scheme Came to Be.md
       - The Story of Sembawang from 19th century Singapore Maps.md
       - "Nanjing to Nanyang: Missionary Sojourns to Singapore and Christian
         Educational Missions in the 1950s.md"
