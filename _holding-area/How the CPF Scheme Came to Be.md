@@ -181,7 +181,7 @@ In 2025, the ERS will be $426,000, up from $308,700. According to the CPF Board,
 [^12]: “[Pension Plan Urged for S’pore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19520228-1.2.116),” _Straits Times_, 28 February 1952, 7; Trade Unionist, “[Workers Are Still Waiting](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19531017-1.2.154.7),” _Straits Times_, 17 October 1953, 10. (From NewspaperSG)
 
 
-[^13]: “[Pension Plan Urged for S’pore”; _Report of the Central Provident Fund Study Group_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5156458) (Singapore: National University of Singapore, Dept. of Economics and Statistics, 1985), 1–4. (From National Library Singapore, call no. RSING 368.40095957 CEN)&nbsp;
+[^13]: “[Pension Plan Urged for S’pore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19520228-1.2.116)”; [_Report of the Central Provident Fund Study Group_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5156458) (Singapore: National University of Singapore, Dept. of Economics and Statistics, 1985), 1–4. (From National Library Singapore, call no. RSING 368.40095957 CEN)&nbsp;
 
 
 [^14]: “[Govt Backs Progs’ ‘Funds Bill](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19520618-1.2.24)’,” _Singapore Standard_, 18 June 1952, 2. (From NewspaperSG); “[Central Provident Fund Bill: 2nd Reading](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4981156),” B198.
