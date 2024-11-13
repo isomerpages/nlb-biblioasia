@@ -184,19 +184,7 @@ _Committee of Officials Established to Examine the Recommendations of the Brockl
 
 _Committee of Officials Established to Examine the Recommendations of the Brocklehurst and Caine Committee Reports_, 45; “Social Security Scheme for All in Singapore,” _Singapore Standard_, 19 March 1959, 4. (From NewspaperSG)
 
-“Social Security: ‘Not for 2 More Years’,” _Straits Times_, 22 October 1959, 16. (From NewspaperSG); _Report of the Central Provident Fund Study Group_, 6–7; Chia, _Central Provident Fund_, 14–15; Low and Aw, _Housing a Healthy, Educated and Wealthy Nation Through the CPF_, 20.
 
-“C.P.F. – A Savings Scheme: Ahmad.” _Straits Times_, 18 November 1961, 4.&nbsp; (From NewspaperSG)
-
-Chia, _Central Provident Fund_, 14–15; Low and Aw, _Housing a Healthy, Educated and Wealthy Nation Through the CPF_, 20–21.
-
-Lee Kuan Yew, _From Third World to First: The Singapore Story, 1965–2000: Memoirs of Lee Kuan Yew_ (Singapore: Marshall Cavendish Editions, 2015), 126. (From National Library, Singapore, call no. RSING 959.5705092 LEE)
-
-Lee, _From Third World to First_, 127.
-
-Lee, _From Third World to First_, 126–27.
-
-“What Is the Change to the Enhanced Retirement Sum in 2025?” Central Provident Fund Board, last updated 18 October 2024, https://www.cpf.gov.sg/service/article/what-is-the-change-to-the-enhanced-retirement-sum-in-2025.
 
 
 [^1]: 
@@ -300,23 +288,21 @@ Lee, _From Third World to First_, 126–27.
 [^33]: 
 
 
-[^34]: 
+[^34]: “Social Security: ‘Not for 2 More Years’,” _Straits Times_, 22 October 1959, 16. (From NewspaperSG); _Report of the Central Provident Fund Study Group_, 6–7; Chia, _Central Provident Fund_, 14–15; Low and Aw, _Housing a Healthy, Educated and Wealthy Nation Through the CPF_, 20.
+
+[^35]: “C.P.F. – A Savings Scheme: Ahmad.” _Straits Times_, 18 November 1961, 4.&nbsp; (From NewspaperSG)
 
 
-[^35]: 
+[^36]: Chia, _Central Provident Fund_, 14–15; Low and Aw, _Housing a Healthy, Educated and Wealthy Nation Through the CPF_, 20–21.
 
 
-[^36]: 
+[^37]: Lee Kuan Yew, _From Third World to First: The Singapore Story, 1965–2000: Memoirs of Lee Kuan Yew_ (Singapore: Marshall Cavendish Editions, 2015), 126. (From National Library, Singapore, call no. RSING 959.5705092 LEE)
 
 
-[^37]: 
+[^38]: Lee, _From Third World to First_, 127.
 
 
-[^38]: 
+[^39]: Lee, _From Third World to First_, 126–27.
 
 
-[^39]: 
-
-
-[^40]: 
-
+[^40]: “What Is the Change to the Enhanced Retirement Sum in 2025?” Central Provident Fund Board, last updated 18 October 2024, https://www.cpf.gov.sg/service/article/what-is-the-change-to-the-enhanced-retirement-sum-in-2025.
