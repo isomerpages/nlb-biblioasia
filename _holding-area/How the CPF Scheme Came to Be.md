@@ -116,81 +116,47 @@ In 2025, the ERS will be $426,000, up from $308,700. According to the CPF Board,
 
 #### **Notes**
 
-    p.p1 {margin: 0.0px 0.0px 0.0px 9.9px; text-indent: -9.9px; line-height: 8.5px; font: 7.0px Calibri} span.s1 {letter-spacing: -0.4px} span.s2 {letter-spacing: -0.3px} span.s3 {letter-spacing: -0.5px} span.s4 {letter-spacing: -0.7px} span.s5 {letter-spacing: -0.6px}
 
-Chia Ngee-Choon, _Central Provident Fund_ (Singapore: Institute of Policy Studies: Straits Times Press Pte Ltd, 2016), 1. (From National Library, Singapore, call no. RSING 368.40095957 CHI); Linda Low and T.C. Aw, _Housing a Healthy, Educated and Wealthy Nation Through the CPF_ (Singapore: Times Academic Press for the Institute of Policy Studies, 1997), 5–8. (From National Library, Singapore, call no. RSING 368.4095957 LOW)
-
-Chia, _Central Provident Fund_, 1; “Municipal Provident Fund,” _Straits Budget_, 17 March 1896, 2; “Provident Funds,” _Straits Times_, 16 November 1940, 10. (From NewspaperSG)
-
-“Central Provident Fund Bill: 2nd Reading,” _Proceedings of the Legislative Council, Colony of Singapore_, 17 June 1952, B194. (From National Library, Singapore, call no. RCLOS 328.5957 SIN)
-
-“Fear of Old Age,” _Singapore Standard_, 20 April 1951, 6. (From NewspaperSG)
-
-“Social Security Move in Colony,” _Straits Times_, 16 March 1949, 1. (From NewspaperSG)
-
-“S’pore Social Security Plan Sought,” _Straits Times_, 14 March 1949, 5. (From NewspaperSG)
-
-“Social Security Move in Colony.”&nbsp;
-
-“Laycock Seeks India’s Aid,” _Sunday Tribune_, 19 March 1950, 3; “Workers Fund Bill for Council,” _Straits Times_, 24 October 1950, 5; “Benefit Bill for Committee,” _Straits Times_, 23 May 1951, 5. (From NewspaperSG); “Central Provident Fund Bill: 1st Reading,” _Proceedings of the Legislative Council, Colony of Singapore_, 22 May 1951, B79. (From National Library, Singapore, call no. RCLOS 328.5957 SIN); “Central Provident Fund Bill: 2nd Reading,” B194.&nbsp;
-
-“Provident Fund for All Workers Proposed,” _Straits Times_, 17 January 1951, 4; “Provident Fund to Be Made Compulsory,” _Indian Daily Mail_, 21 January 1951, 4; “Text of Progressive Party's Provident Fund Bill,” _Indian Daily Mail_, 22 January 1951, 4. (From NewspaperSG)
-
-George Rasiah, “Employers Welcome Proposed Compulsory Provident Fund,” _Singapore Standard_, 18 January 1951, 2. (From NewspaperSG)
-
-Colony of Singapore, _Report of the Retirement Benefits Commission_ (Singapore: Government Printing Office, 1951), 1. (From National Library, Singapore, call no. RCLOS 368.43095957 SIN); “Retirement Commission,” _Straits Times_, 29 June 1951, 5; “‘Choose Benefit Scheme First’,” _Singapore Free Press_, 20 May 1952, 5. (From NewspaperSG)
-
-“Pension Plan Urged for S’pore,” _Straits Times_, 28 February 1952, 7; Trade Unionist, “Workers Are Still Waiting,” _Straits Times_, 17 October 1953, 10. (From NewspaperSG)
-
-“Pension Plan Urged for S’pore”; _Report of the Central Provident Fund Study Group_ (Singapore: National University of Singapore, Dept. of Economics and Statistics, 1985), 1–4. (From National Library Singapore, call no. RSING 368.40095957 CEN)&nbsp;
-
-“Govt Backs Progs’ ‘Funds Bill’,” _Singapore Standard_, 18 June 1952, 2. (From NewspaperSG); “Central Provident Fund Bill: 2nd Reading,” B198.
+[^1]: Chia Ngee-Choon, _Central Provident Fund_ (Singapore: Institute of Policy Studies: Straits Times Press Pte Ltd, 2016), 1. (From National Library, Singapore, call no. RSING 368.40095957 CHI); Linda Low and T.C. Aw, _Housing a Healthy, Educated and Wealthy Nation Through the CPF_ (Singapore: Times Academic Press for the Institute of Policy Studies, 1997), 5–8. (From National Library, Singapore, call no. RSING 368.4095957 LOW)
 
 
+[^2]: Chia, _Central Provident Fund_, 1; “Municipal Provident Fund,” _Straits Budget_, 17 March 1896, 2; “Provident Funds,” _Straits Times_, 16 November 1940, 10. (From NewspaperSG)
 
 
+[^3]: “Central Provident Fund Bill: 2nd Reading,” _Proceedings of the Legislative Council, Colony of Singapore_, 17 June 1952, B194. (From National Library, Singapore, call no. RCLOS 328.5957 SIN)
 
 
-[^1]: 
+[^4]: “Fear of Old Age,” _Singapore Standard_, 20 April 1951, 6. (From NewspaperSG)
 
 
-[^2]: 
+[^5]: “Social Security Move in Colony,” _Straits Times_, 16 March 1949, 1. (From NewspaperSG)
 
 
-[^3]: 
+[^6]: “S’pore Social Security Plan Sought,” _Straits Times_, 14 March 1949, 5. (From NewspaperSG)
 
 
-[^4]: 
+[^7]: “Social Security Move in Colony.”&nbsp;
 
 
-[^5]: 
+[^8]: “Laycock Seeks India’s Aid,” _Sunday Tribune_, 19 March 1950, 3; “Workers Fund Bill for Council,” _Straits Times_, 24 October 1950, 5; “Benefit Bill for Committee,” _Straits Times_, 23 May 1951, 5. (From NewspaperSG); “Central Provident Fund Bill: 1st Reading,” _Proceedings of the Legislative Council, Colony of Singapore_, 22 May 1951, B79. (From National Library, Singapore, call no. RCLOS 328.5957 SIN); “Central Provident Fund Bill: 2nd Reading,” B194.&nbsp;
 
 
-[^6]: 
+[^9]: “Provident Fund for All Workers Proposed,” _Straits Times_, 17 January 1951, 4; “Provident Fund to Be Made Compulsory,” _Indian Daily Mail_, 21 January 1951, 4; “Text of Progressive Party's Provident Fund Bill,” _Indian Daily Mail_, 22 January 1951, 4. (From NewspaperSG)
 
 
-[^7]: 
+[^10]: George Rasiah, “Employers Welcome Proposed Compulsory Provident Fund,” _Singapore Standard_, 18 January 1951, 2. (From NewspaperSG)
 
 
-[^8]: 
+[^11]: Colony of Singapore, _Report of the Retirement Benefits Commission_ (Singapore: Government Printing Office, 1951), 1. (From National Library, Singapore, call no. RCLOS 368.43095957 SIN); “Retirement Commission,” _Straits Times_, 29 June 1951, 5; “‘Choose Benefit Scheme First’,” _Singapore Free Press_, 20 May 1952, 5. (From NewspaperSG)
 
 
-[^9]: 
+[^12]: “Pension Plan Urged for S’pore,” _Straits Times_, 28 February 1952, 7; Trade Unionist, “Workers Are Still Waiting,” _Straits Times_, 17 October 1953, 10. (From NewspaperSG)
 
 
-[^10]: 
+[^13]: “Pension Plan Urged for S’pore”; _Report of the Central Provident Fund Study Group_ (Singapore: National University of Singapore, Dept. of Economics and Statistics, 1985), 1–4. (From National Library Singapore, call no. RSING 368.40095957 CEN)&nbsp;
 
 
-[^11]: 
-
-
-[^12]: 
-
-
-[^13]: 
-
-
-[^14]: 
+[^14]: “Govt Backs Progs’ ‘Funds Bill’,” _Singapore Standard_, 18 June 1952, 2. (From NewspaperSG); “Central Provident Fund Bill: 2nd Reading,” B198.
 
 
 [^15]: “Trade Unions ‘In the Dark’,” _Straits Time_s, 30 May 1951, 4. (From NewspaperSG)
