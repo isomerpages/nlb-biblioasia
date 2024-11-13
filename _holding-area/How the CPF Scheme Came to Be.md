@@ -34,6 +34,12 @@ Although the Legislative Council fully supported the motion, Colonial Secretary 
 
 It took two years before Tan Chye Cheng of the Progressive Party introduced the Central Provident Fund (CPF) Bill at the Singapore Legislative Council on 22 May 1951. The delay sparked criticism and was even viewed by some political parties as “a publicity stunt” by the Progressive Party. However, the real reason for the delay was the party’s struggle to draft the CPF Bill as “there was no precedent which could be found in the English Statute Books”.
 
+
+![](/images/Vol%2020%20Issue%204/CPF/tanchye.jpg)
+<div style="background-color:white;"> Tan Chye Cheng of the Singapore Progressive Party tabled the Central Provident Fund Bill at the Legislative Council on 22 May 1951. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.  </i></div>
+
+
+
 Although the Progressive Party was aware that India and the government of the Federation of Malaya were introducing their own provident funds at the time, it felt those versions were “not a suitable precedent”. Consequently, lawyers in the United Kingdom were sought to draft the CPF Bill “on instructions of the Progressive Party” before it was presented to the Singapore Legislative Council in May 1951. The bill aimed to “establish a compulsory central provident fund for all employees except those whose employers have already provided comparable or better retiring benefits”.[^8]
 
 The proposed legislation called for workers who were earning at least $100 per month and not covered by any retirement benefit scheme to make a monthly 5 percent contribution of their salary to a central provident fund. The contribution would be matched by employers, and the accumulated amount would then draw an interest rate of 3 percent. Once the worker reached the age of 55, he or she would be able to withdraw the accumulated amount.[^9]
