@@ -190,20 +190,20 @@ In 2025, the ERS will be $426,000, up from $308,700. According to the CPF Board,
 [^24]: “[Dole and Health Service Planned for Workers](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19551027-1.2.109),” _Straits Budget_, 27 October 1955, 17. (From NewspaperSG); [_Report of the Central Provident Fund Study Group_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5156458), 5–6; Low and Aw, [_Housing a Healthy, Educated and Wealthy Nation Through the CPF_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8465920), 16–17.
 
 
-[^25]: Committee on Minimum Standards of Livelihood, _Report of the Committee on Minimum Standards of Livelihood_ (Singapore: Government Printing Office, 1957), 43. (From National Library, Singapore, call no. RCLOS 331.2 SIN \[RFL\])&nbsp;
+[^25]: Committee on Minimum Standards of Livelihood, [_Report of the Committee on Minimum Standards of Livelihood_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4812956) (Singapore: Government Printing Office, 1957), 43. (From National Library, Singapore, call no. RCLOS 331.2 SIN \[RFL\])&nbsp;
 
 
-[^26]: International Labour Office, _Report to the Government of Singapore on Social Security Measures_ (Singapore: Government Printing Office, 1957), 33. (From National Library, Singapore, call no. RCLOS 368.40095957 INT)&nbsp;
+[^26]: International Labour Office, [_Report to the Government of Singapore on Social Security Measures_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4078264) (Singapore: Government Printing Office, 1957), 33. (From National Library, Singapore, call no. RCLOS 368.40095957 INT)&nbsp;
 
 
-[^27]: _Committee of Officials Established to Examine the Recommendations of the Brocklehurst and Caine Committee Reports_ (Singapore: Government Printing Office, 1959), 42. (From National Library, Singapore, call no. RCLOS 362.95951 SIN-\[RFL\])
+[^27]: [_Committee of Officials Established to Examine the Recommendations of the Brocklehurst and Caine Committee Reports_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4981034) (Singapore: Government Printing Office, 1959), 42. (From National Library, Singapore, call no. RCLOS 362.95951 SIN-\[RFL\])
 
 
 
-[^28]: _Committee of Officials Established to Examine the Recommendations of the Brocklehurst and Caine Committee Reports_, 42; “Plan for Illness, Maternity, Old Age Benefits,” _Straits Budget_, 25 March 1959, 10. (From NewspaperSG)
+[^28]: [_Committee of Officials Established to Examine the Recommendations of the Brocklehurst and Caine Committee Reports_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4981034), 42; “[Plan for Illness, Maternity, Old Age Benefits](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19590325-1.2.35),” _Straits Budget_, 25 March 1959, 10. (From NewspaperSG)
 
 
-[^29]: “Hands Off the Provident Fund Say Unionists,” _Singapore Free Press_, 27 September 1958, 5; “TUC Will Urge Govt. to Tax Luxury Goods,” _Singapore Free Press_, 5 March 1958, 5. (From NewspaperSG)
+[^29]: “[Hands Off the Provident Fund Say Unionists](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19580927-1.2.39),” _Singapore Free Press_, 27 September 1958, 5; “[TUC Will Urge Govt. to Tax Luxury Goods](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19580305-1.2.23),” _Singapore Free Press_, 5 March 1958, 5. (From NewspaperSG)
 
 
 [^30]: “Social Security Plan for S’pore,” _Singapore Standard_, 1 May 1958, 7; “Experts to Draft Welfare Scheme,” _Straits Budget_, 15 January 1958, 9; “Plan for Illness, Maternity and Age Benefits,” _Straits Times_, 19 March 1959, 1. (From NewspaperSG); _Report of the Central Provident Fund Study Group,_ 6; Low and Aw, _Housing a Healthy, Educated and Wealthy Nation Through the CPF_, 18–19.
