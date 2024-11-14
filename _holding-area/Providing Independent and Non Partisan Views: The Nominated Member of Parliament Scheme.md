@@ -126,34 +126,34 @@ Available on Archives Online (<a href="www.nas.gov.sg/archivesonline/oral\_histo
 
 #### **Notes**
 
-[^1]: 
+[^1]: “Top Executive, Heart Specialist Picked As NMPs,” _Straits Times_, 21 November 1990, 1. (From NewspaperSG)
 
 
-[^2]: 
+[^2]: “Seats for the Universities?” _Straits Times_, 4 September 1972, 1. (From NewspaperSG)&nbsp;
 
 
-[^3]: 
+[^3]: “Clean Sweep for the PAP,” _Straits Times_, 3 September 1972, 1. (From NewspaperSG)
 
 
-[^4]: 
+[^4]: “Seats for the Universities?”&nbsp;
 
 
-[^5]: 
+[^5]: Tan Wang Joo, “In Quest of an Opposition,” _Straits Times_, 9 September 1972, 14. (From NewspaperSG)
 
 
-[^6]: 
+[^6]: “3 Reasons for Opposition MPs,” _Straits Times_, 25 July 1984, 1. (From NewspaperSG)
 
 
-[^7]: 
+[^7]: “3 Reasons for Opposition MPs”; “PAP Will Govern, With or Without an Opposition,” _Straits Times_, 25 July 1984, 10. (From NewspaperSG)
 
 
-[^8]: 
+[^8]: “3 Reasons for Opposition MPs.”
 
 
-[^9]: 
+[^9]: Parliament of Singapore, Constitution of the Republic of Singapore (Amendment) Bill, vol. 44 of _Parliamentary Debates: Official Report_, 24 July 1984, col. 1722, https://sprs.parl.gov.sg/search/#/report?sittingdate=24-07-1984; Parliament of Singapore, Parliamentary Elections (Amendment) Bill, vol. 44 of _Parliamentary Debates: Official Report_, 25 July 1984, col. 1835–46, https://sprs.parl.gov.sg/search/#/topic?reportid=004\_19840725\_S0002\_T0004; Parliament of Singapore, Parliamentary Debates: Official Report, vol. 44, 24 August 1984, col. 1975, https://sprs.parl.gov.sg/search/#/report?sittingdate=24-08-1984.
 
 
-[^10]: 
+[^10]: “PAP Wins All But Two,” _Straits Times_, 23 December 1984, 1; “Nair Yet to Decide on Non-constituency MP Seat,” _Business T_
 
 
 [^11]: 
