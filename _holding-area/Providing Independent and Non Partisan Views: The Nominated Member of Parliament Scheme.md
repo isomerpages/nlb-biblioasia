@@ -57,7 +57,7 @@ Concluding the end of the contentious debate, Goh offered a possibility of a “
 
 Eventually, a clause was included in the bill to give each Parliament the discretion to decide whether it wants NMPs during its term.21 After the bill was passed into law on 31 March 1990 and the NMP scheme came into effect on 10 September that year, there was still little clarity on the roles and expectations of NMPs. In fact, the scheme remained an experiment even when the first two NMPs – Maurice Choo and Leong Chee Whye – were appointed on 22 November 1990.22
 
-Getting Buy-In
+#### **Getting Buy-In**
 
 With the scheme in place, a basic question of implementation arose: Who would serve as these NMPs? Few members of the public who fulfilled the criteria stipulated in clause 3(2) of the new Fourth Schedule of the Constitution volunteered themselves. The clause states that “The persons to be nominated shall be persons who have rendered distinguished public service, or who have brought honour to the Republic, or who have distinguished themselves in the field of arts and letters, culture, the sciences, business, industry, the professions, social or community service or the labour movement.”23
 
@@ -71,7 +71,7 @@ In his contribution to the 2023 book, _The Nominated Member of Parliament Scheme
 
 The appeal of the NMP role varied from person to person. For someone like businessman Chuang Shaw Peng, who served from 1997–1999, accepting the offer was something of a compromise position, having previously turned down earlier invitations to join the PAP. Describing why he was reluctant to be a party member, he recalled: “Once you’re a member of a party, you have to at least align with them. You cannot say something different, something contrary to what the majority of the PAP members want to do or what they have proposed to do. And then, I cannot say anything anymore. Maybe that led to the view that maybe I’m suitable to be an NMP.”28
 
-Feeling the Ground
+#### **Feeling the Ground**
 
 Beyond merely being able to contribute to issues on a personal basis, some of the early NMPs saw the scheme as a way to represent the interest of particular groups. Chuang Shaw Peng described his presence as being a loose form of sectoral representation, complementing the system of electoral representation. “If I represent the construction industry, I’ve got a few hundred thousand people with me, you know what I mean?… Construction industry is a big industry; the financial one is a very big industry; education is another big industry. So we bring in… the trade viewpoint or the industry viewpoint, which can be more constructive in formulating policy. Because policies are based on industries, not based on constituencies.”29
 
@@ -85,7 +85,7 @@ It was then Leader of the House Wong Kan Seng who had proposed in Parliament on 
 
 In July 1997, the three “proposal panels” (business and industry, the professions and the labour movement) were officially formed to “fine-tune and improve the selection process”. “We hope they will come up with the best people, because the whole idea of this new feature in the selection process must be ultimately to enhance the NMP scheme,” said then Speaker of Parliament Tan Soo Khoon.32
 
-Making History
+#### **Making History**
 
 On 23 May 1994, Walter Woon, then vice-dean of the Faculty of Law, National University of Singapore, made history by becoming the first NMP (he served for three terms from 1992–96) to introduce a private member’s bill, the Maintenance of Parents Bill, in Parliament.33 The bill was passed without debate at its third reading on 2 November 1995.34
 
@@ -93,7 +93,7 @@ The Maintenance of Parents Act came into force on 1 June 1996, along with the es
 
 The passing of Woon’s Maintenance of Parents Bill gave other NMPs the confidence to table their own bills. Kanwaljit Soin’s Family Violence Bill introduced on 27 September 1995 did not succeed, but many of its proposals were later incorporated into amendments to the Women’s Charter on 1 May 1997.36 Following consultation with then Minister for Health George Yeo, Imram Mohamed withdrew his motion to introduce the Human Organ Transplant (Amendment) Bill on 10 October 1996.37
 
-Changes to the NMP Scheme
+#### **Changes to the NMP Scheme**
 
 On 5 June 1997, Wong Kan Seng moved a motion in Parliament to increase the maximum number of NMPs from six to nine. In his speech, he assessed that the NMPs had performed well and wanted Parliament to allow views that “may not be canvassed by the PAP or opposition members” and help to fill the void left by the loss of two elected opposition MPs.38
 
