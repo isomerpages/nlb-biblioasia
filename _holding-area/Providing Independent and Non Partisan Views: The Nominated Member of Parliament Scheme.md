@@ -6,7 +6,7 @@ variant: markdown
 description: "Providing Independent and Non-Partisan Views: The Nominated Member
   of Parliament Scheme"
 ---
-#### The Nominated Member of Parliament Scheme was set up to present more opportunities for Singaporeans to participate in politics. But its implementation in 1990 was not without controversy. 
+#### The Nominated Member of Parliament Scheme was set up to present more opportunities for Singaporeans to participate in politics. But its implementation in 1990 was not without controversy.&nbsp;
 
 By Benjamin Ho and John Choo
 
@@ -15,11 +15,11 @@ On Thursday, 20 December 1990, Maurice Choo Hock Heng, a cardiologist, and Leong
 
 Unlike elected members of Parliament (MPs), NMPs are appointed by the president of Singapore on the recommendation of a Special Select Committee appointed by Parliament, and do not belong to any political party nor represent any constituency. The role of NMPs is to bring more independent voices into Parliament.
 
-Even though they were first appointed in 1990, the idea of having non-elected MPs was actually proposed by founding Prime Minister Lee Kuan Yew as far back as the early 1970s. 
+Even though they were first appointed in 1990, the idea of having non-elected MPs was actually proposed by founding Prime Minister Lee Kuan Yew as far back as the early 1970s.&nbsp;
 
-“Seats for the Universities?” was the headline that greeted the readers of the _Straits Times_ on the morning of 4 September 1972.2 Two days earlier, the barely seven-year-old nation had witnessed its second general election as an independent state. The ruling People’s Action Party (PAP) made a “clean sweep” at the polls, winning all 57 contested seats and 69.02 percent of the 760,472 votes cast.3 
+“Seats for the Universities?” was the headline that greeted the readers of the _Straits Times_ on the morning of 4 September 1972.2 Two days earlier, the barely seven-year-old nation had witnessed its second general election as an independent state. The ruling People’s Action Party (PAP) made a “clean sweep” at the polls, winning all 57 contested seats and 69.02 percent of the 760,472 votes cast.3&nbsp;
 
-At the post-election press conference on 3 September, Lee publicly floated the idea of having parliamentary seats set aside for higher institutions of learning to promote the growth of an intelligent and constructive opposition. These could be graduates of the then University of Singapore, Nanyang University, Teachers’ Training College, Singapore Polytechnic and Ngee Ann Technical College. “I think the problem of getting an intelligent, constructive Opposition has got to be solved. Singapore has not got the kind of people going into politics who are likely ever to develop into a coherent, constructive Opposition,” he said. “They should be intelligent enough to point out where the Government was wrong.” However, he stressed that the government needed more time to mull over it before coming to a decision.4 
+At the post-election press conference on 3 September, Lee publicly floated the idea of having parliamentary seats set aside for higher institutions of learning to promote the growth of an intelligent and constructive opposition. These could be graduates of the then University of Singapore, Nanyang University, Teachers’ Training College, Singapore Polytechnic and Ngee Ann Technical College. “I think the problem of getting an intelligent, constructive Opposition has got to be solved. Singapore has not got the kind of people going into politics who are likely ever to develop into a coherent, constructive Opposition,” he said. “They should be intelligent enough to point out where the Government was wrong.” However, he stressed that the government needed more time to mull over it before coming to a decision.4&nbsp;
 
 The idea possibly stemmed from a three-century-old system in Britain, which saw as many as 15 parliamentary seats reserved for English, Scottish, Irish and Welsh universities in the 1930s. Although this practice was abolished in 1948, the idea was the catalyst for key changes in Singapore’s parliamentary system in the subsequent decade.5
 
@@ -43,7 +43,7 @@ At the second reading of the bill in Parliament on 29 November 1989, Goh said th
 
 The bill sought to provide for the appointment of a maximum of six NMPs. They would be appointed by the president of Singapore on the nomination of a Special Select Committee that is in turn appointed by Parliament. Nominated persons are subject to the same stringent qualifications and requirements as those standing for election. NMPs are politically non-partisan and should not belong to any political party.14
 
-PAP MP for Pasir Panjang GRC Bernard Chen lent support to the bill but gave a hint on the tone of the debate that is to come. “On this note, I would like to support the First Deputy Prime Minister although I know there will be many others whose support may not be so forthcoming,” he said.15 
+PAP MP for Pasir Panjang GRC Bernard Chen lent support to the bill but gave a hint on the tone of the debate that is to come. “On this note, I would like to support the First Deputy Prime Minister although I know there will be many others whose support may not be so forthcoming,” he said.15&nbsp;
 
 Several PAP MPs spoke in strong terms against the bill, even lamenting their inability to vote against it under the Party’s Whip. PAP MP for Siglap Abdullah Tarmugi cautioned that this change would create the perception that the proposal was “tantamount to an indictment of the existing system and of the elected MPs we now have, especially the backbenchers in the House”. He asked: “Are we not creating the impression that MPs are not really bringing up enough solid and diverse views in this Parliament that we need to bring in others to this Chamber to provide such views?”16
 
@@ -61,13 +61,13 @@ Eventually, a clause was included in the bill to give each Parliament the discre
 
 With the scheme in place, a basic question of implementation arose: Who would serve as these NMPs? Few members of the public who fulfilled the criteria stipulated in clause 3(2) of the new Fourth Schedule of the Constitution volunteered themselves. The clause states that “The persons to be nominated shall be persons who have rendered distinguished public service, or who have brought honour to the Republic, or who have distinguished themselves in the field of arts and letters, culture, the sciences, business, industry, the professions, social or community service or the labour movement.”23
 
-Not many were like Toh Keng Kiat, a haematologist in private practice, who was an NMP from 1992–94. “If you’re looking for someone who can be meaningful in giving an input in, say, medical problems, I’m ready to serve,” the physician shared in an oral history interview.24 “I have always been conscious of the fact that everyone should make a contribution to the country,” he told the _Business Times_ in 1992.25  
+Not many were like Toh Keng Kiat, a haematologist in private practice, who was an NMP from 1992–94. “If you’re looking for someone who can be meaningful in giving an input in, say, medical problems, I’m ready to serve,” the physician shared in an oral history interview.24 “I have always been conscious of the fact that everyone should make a contribution to the country,” he told the _Business Times_ in 1992.25 &nbsp;
 
 His contemporary, orthopaedic surgeon Kanwaljit Soin, an NMP for three terms from 1992–96, “solicited support from friends because she decided that there should be more women’s voices in Parliament”. However, she was quick to add that she did not want “women’s issues to be seen as women against men, or to be seen as extreme advocate of women’s rights”. “But I do think that we need more female representation in organisations,” she said.26
 
-Many of the early NMPs were approached by PAP leaders to apply for the role. They were frequently caught off-guard, being people for whom participation in formal politics was the furthest from their minds. Some of them even had to read up on the scheme, not having followed the parliamentary debates closely, if at all. 
+Many of the early NMPs were approached by PAP leaders to apply for the role. They were frequently caught off-guard, being people for whom participation in formal politics was the furthest from their minds. Some of them even had to read up on the scheme, not having followed the parliamentary debates closely, if at all.&nbsp;
 
-In his contribution to the 2023 book, _The Nominated Member of Parliament Scheme_, Maurice Choo wrote that he was approached by a government minister and asked if he would consider serving as an NMP. “Not knowing much about what was involved, I asked for time to study the scheme…  Among the arguments, the one I felt was the most important was about modifying the perception that Singapore was a ‘one-party parliament’ with an excessively autocratic government.”27 Choo served as an NMP from 1990–91. 
+In his contribution to the 2023 book, _The Nominated Member of Parliament Scheme_, Maurice Choo wrote that he was approached by a government minister and asked if he would consider serving as an NMP. “Not knowing much about what was involved, I asked for time to study the scheme…&nbsp; Among the arguments, the one I felt was the most important was about modifying the perception that Singapore was a ‘one-party parliament’ with an excessively autocratic government.”27 Choo served as an NMP from 1990–91.&nbsp;
 
 The appeal of the NMP role varied from person to person. For someone like businessman Chuang Shaw Peng, who served from 1997–1999, accepting the offer was something of a compromise position, having previously turned down earlier invitations to join the PAP. Describing why he was reluctant to be a party member, he recalled: “Once you’re a member of a party, you have to at least align with them. You cannot say something different, something contrary to what the majority of the PAP members want to do or what they have proposed to do. And then, I cannot say anything anymore. Maybe that led to the view that maybe I’m suitable to be an NMP.”28
 
@@ -75,9 +75,9 @@ The appeal of the NMP role varied from person to person. For someone like busine
 
 Beyond merely being able to contribute to issues on a personal basis, some of the early NMPs saw the scheme as a way to represent the interest of particular groups. Chuang Shaw Peng described his presence as being a loose form of sectoral representation, complementing the system of electoral representation. “If I represent the construction industry, I’ve got a few hundred thousand people with me, you know what I mean?… Construction industry is a big industry; the financial one is a very big industry; education is another big industry. So we bring in… the trade viewpoint or the industry viewpoint, which can be more constructive in formulating policy. Because policies are based on industries, not based on constituencies.”29
 
-That said, prior to his entry into Parliament, Chuang stepped down as president of the Singapore Contractors Association Limited to avoid a perceived conflict of interest. 
+That said, prior to his entry into Parliament, Chuang stepped down as president of the Singapore Contractors Association Limited to avoid a perceived conflict of interest.&nbsp;
 
-Imram Mohamed, the first Malay-Muslim NMP, similarly resigned from his committee position in the newly established Association of Muslim Professionals.30 He went on to serve for two terms as an NMP, from 1994–96 and briefly from 1996–97. 
+Imram Mohamed, the first Malay-Muslim NMP, similarly resigned from his committee position in the newly established Association of Muslim Professionals.30 He went on to serve for two terms as an NMP, from 1994–96 and briefly from 1996–97.&nbsp;
 
 The ambiguity of whether NMPs represented themselves or a specific sector was gradually resolved over time, beginning with the introduction of “proposal panels” in 1997 representing three functional groups: business and industry, the professions and the labour movement.
 
@@ -97,10 +97,32 @@ The passing of Woon’s Maintenance of Parents Bill gave other NMPs the confiden
 
 On 5 June 1997, Wong Kan Seng moved a motion in Parliament to increase the maximum number of NMPs from six to nine. In his speech, he assessed that the NMPs had performed well and wanted Parliament to allow views that “may not be canvassed by the PAP or opposition members” and help to fill the void left by the loss of two elected opposition MPs.38
 
-In July the same year, the Constitution of the Republic of Singapore (Amendment) Act 1997 was passed to raise the maximum number of NMPs to nine.39 Among the first batch of nine NMPs was lawyer Shriniwas Rai, who was sworn in on 1 October 1997.40 In his oral history interview, he reflected on the importance of an NMP being an independent voice to “articulate the feeling of the nation, the concern of the community”.41 He served one term and said that “one term is enough, let’s give others an opportunity”.42 
+In July the same year, the Constitution of the Republic of Singapore (Amendment) Act 1997 was passed to raise the maximum number of NMPs to nine.39 Among the first batch of nine NMPs was lawyer Shriniwas Rai, who was sworn in on 1 October 1997.40 In his oral history interview, he reflected on the importance of an NMP being an independent voice to “articulate the feeling of the nation, the concern of the community”.41 He served one term and said that “one term is enough, let’s give others an opportunity”.42&nbsp;
 
 In August 2002, the Constitution of the Republic of Singapore (Amendment) Act 2002 was passed in Parliament to extend the NMP term of service from two to two-and-a-half years.43 This administrative change was to avoid going through the NMP nomination process three times for a full five-year term of Parliament. For instance, in the ninth term of Parliament from 1997–2001, there were NMPs who served around a month before Parliament was dissolved.44
 
 In 2010, two decades after the scheme was introduced, NMPs had become more comfortable in their role and the public also had a better understanding of what NMPs do. In the same year, the Constitution of the Republic of Singapore (Amendment) Act 2010 was enforced, abolishing the requirement for a resolution to be passed before NMPs may be appointed.45
 
 NMPs have now been entrenched as permanent fixtures in Singapore politics. The current serving NMPs are Usha Chandradas, Keith Chua, Mark Lee, Ong Hua Han, Neil Parekh Nimil Rajnikant, Razwana Begum Abdul Rahim, Jean See Jinli, Syed Harun Alhabsyi and Raj Joshua Thomas.46
+
+
+
+<div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
+<b>ORAL HISTORY PROJECT ON THE POLITICAL HISTORY OF SINGAPORE</b><br>
+This was one of the earliest and longest-continuous running projects undertaken by the then Oral History Unit (renamed Oral History Centre in 1993). The first oral history interview by the unit was conducted in January 1981 with Peter Low Por Tuck, former PAP assemblyman for Havelock and parliamentary secretary (Finance) who was part of the group of 13 that broke away to form the Barisan Sosialis.&nbsp;
+	This was one of the earliest and longest-continuous running projects undertaken by the then Oral History Unit (renamed Oral History Centre in 1993). The first oral history interview by the unit was conducted in January 1981 with Peter Low Por Tuck, former PAP assemblyman for Havelock and parliamentary secretary (Finance) who was part of the group of 13 that broke away to form the Barisan Sosialis.&nbsp;
+<br><br>
+Available on Archives Online (<a href="www.nas.gov.sg/archivesonline/oral\_history\_interviews/">www.nas.gov.sg/archivesonline/oral\_history\_interviews/</a>), the project is organised by time periods: 1945 to 1965, 1965 to 1985, 1985 to 2005 and 2005 to 2025. There are around 890 hours of such interviews publicly available. Among the former Nominated Members of Parliament whose interviews are accessible online are Chuang Shaw Peng (accession no. 004889), Imram Mohamed (accession no. 004884) and Shriniwas Rai (accession no. 004898).
+</div>
+
+<div style="background-color: white;">
+<img style="width: 100px; height: 100px;" src="/images/Authors/DrJohnBray-.png">
+<b>Benjamin Ho</b> is a Senior Specialist with the Oral History Centre, National Archives of Singapore. He has interviewed people from all walks of life covering the social, economic and political history of Singapore, and hopes to share these stories with a wider audience. </div>
+<br>
+<div style="background-color: white;">
+<img style="width: 100px; height: 100px;" src="/images/Authors/DrJohnBray-.png">
+<b>John Choo</b>  is a Specialist with the Oral History Centre, National Archives of Singapore. He started his journey recording the experiences of individuals during the COVID-19 pandemic. Since then, he has sought to capture the life stories of other people who have contributed to society.  </div>
+
+#### **Notes**
+
+[^1]: 
