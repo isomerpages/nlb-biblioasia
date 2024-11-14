@@ -23,7 +23,7 @@ At the post-election press conference on 3 September, Lee publicly floated the i
 
 The idea possibly stemmed from a three-century-old system in Britain, which saw as many as 15 parliamentary seats reserved for English, Scottish, Irish and Welsh universities in the 1930s. Although this practice was abolished in 1948, the idea was the catalyst for key changes in Singapore’s parliamentary system in the subsequent decade.5
 
-Seeding a Constitutional Change
+#### **Seeding a Constitutional Change**
 
 The idea gained traction 12 years later, although in a different form when the ruling party introduced the concept of non-constituency members of Parliament (NCMPs). These would be “defeated Opposition candidates who have polled the highest votes nationwide in a general election, subject to a minimum of 15 percent of ballots cast”.6 Under the proposed amendment to the constitution, at least three Opposition MPs would enter Parliament, if not as full MPs, then as NCMPs.
 
@@ -35,7 +35,7 @@ Legislative changes to the Constitution and the Parliamentary Elections Act were
 
 After the general election in September 1988, two NCMP seats were accepted by Lee Siew Choh and Francis Seow from the Workers’ Party. However, Seow was disqualified in December the same year after he was fined for tax evasion.11
 
-A Prickly Beginning
+#### **A Prickly Beginning**
 
 In 1989, then First Deputy Prime Minister Goh Chok Tong introduced the Constitution of the Republic of Singapore (Amendment No. 2) Bill that would allow for the appointment of NMPs. The timing of this move was to align with the PAP government’s vision in 1984 to strengthen the political system by offering more opportunities for political participation among Singaporeans.12
 
