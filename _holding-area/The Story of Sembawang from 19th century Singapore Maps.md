@@ -1,5 +1,5 @@
 ---
-title: "The Story of Sembawang from 19th-century Singapore Maps"
+title: The Story of Sembawang from 19th-century Singapore Maps
 permalink: /holding-area/the-story-of-sembawang-from-19th-century-singapore-maps/
 variant: markdown
 description: Sembawang’s history can be told through the many maps that have
@@ -11,7 +11,7 @@ image: /images/Vol 20 Issue 4/Sembawang/sembawang_facing2.jpg
 By Makeswary Periasamy
 
 ![](/images/Vol%2020%20Issue%204/Sembawang/sembawang_facing2.jpg)
-<div style="background-color: white;">This map, Sketch of the Island of Singapore, was based on earlier surveys of the island by James Franklin and William Farquhar. It features vegetation by the coasts as well as soundings (sea depth) along the southern coast and the Singapore Strait. It was printed as an inset within the 1829 Map of the Island of Sumatra by William Marsden.  <i>Image reproduced from William Marsden, Map of the Island of Sumatra Constructed Chiefly from Surveys Taken by Order of the Late Sir Thomas Stamford Raffles. The British Library [Maps 88725.(3.)].</i> [Note: As the map was folded, over time it has come apart along its fold lines.]</div>
+<div style="background-color: white;">This map, Sketch of the Island of Singapore, was based on earlier surveys of the island by James Franklin and William Farquhar. It features vegetation by the coasts as well as soundings (sea depth) along the southern coast and the Singapore Strait. It was printed as an inset within the 1829 Map of the Island of Sumatra by William Marsden.  <i>Image reproduced from William Marsden, Map of the Island of Sumatra Constructed Chiefly from Surveys Taken by Order of the Late Sir Thomas Stamford Raffles. The British Library [Maps 88725.(3.)].</i> [Note: The fold separations are inherent in the map.]</div>
 
 Today, people are attracted to Sembawang for a number of reasons. Families visit the beach there to have a picnic or barbeque, and fishing enthusiasts congregate at the jetty hoping to score a good catch. Sembawang is also well known for its hot spring – with supposed health properties – that brings people from all over Singapore to the north to enjoy a leisurely foot bath.[^1] &nbsp; &nbsp;
 
