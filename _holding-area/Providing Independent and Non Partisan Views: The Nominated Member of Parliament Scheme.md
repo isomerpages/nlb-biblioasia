@@ -69,6 +69,9 @@ Concluding the end of the contentious debate, Goh offered a possibility of a “
 
 Eventually, a clause was included in the bill to give each Parliament the discretion to decide whether it wants NMPs during its term.[^21] After the bill was passed into law on 31 March 1990 and the NMP scheme came into effect on 10 September that year, there was still little clarity on the roles and expectations of NMPs. In fact, the scheme remained an experiment even when the first two NMPs – Maurice Choo and Leong Chee Whye – were appointed on 22 November 1990.[^22]
 
+![Providing Independent and Non Partisan Views: The Nominated Member of Parliament Scheme](/images/Vol%2020%20Issue%204/Independent%20and%20Non%20Partisan/image2.jpg)
+<div style="background-color:white;"> Leong Chee Whye being sworn in as a nominated member of Parliament at Parliament House on 20 December 1990.  <i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore. </i></div>
+
 #### **Getting Buy-In**
 
 With the scheme in place, a basic question of implementation arose: Who would serve as these NMPs? Few members of the public who fulfilled the criteria stipulated in clause 3(2) of the new Fourth Schedule of the Constitution volunteered themselves. The clause states that “The persons to be nominated shall be persons who have rendered distinguished public service, or who have brought honour to the Republic, or who have distinguished themselves in the field of arts and letters, culture, the sciences, business, industry, the professions, social or community service or the labour movement.”[^23]
@@ -90,6 +93,9 @@ Beyond merely being able to contribute to issues on a personal basis, some of th
 That said, prior to his entry into Parliament, Chuang stepped down as president of the Singapore Contractors Association Limited to avoid a perceived conflict of interest.&nbsp;
 
 Imram Mohamed, the first Malay-Muslim NMP, similarly resigned from his committee position in the newly established Association of Muslim Professionals.[^30] He went on to serve for two terms as an NMP, from 1994–96 and briefly from 1996–97.&nbsp;
+
+![Providing Independent and Non Partisan Views: The Nominated Member of Parliament Scheme](/images/Vol%2020%20Issue%204/Independent%20and%20Non%20Partisan/image3.jpg)
+<div style="background-color:white;"> Newly appointed nominated members of Parliament after the presentation of the instruments of appointment by President Ong Teng Cheong at Command House on 6 September 1996. (From left) Stephen Lee Ching Yen, Walter Woon, Lee Tsao Yuan, Kanwaljit Soin, John de Payva and Imram Mohamed. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 The ambiguity of whether NMPs represented themselves or a specific sector was gradually resolved over time, beginning with the introduction of “proposal panels” in 1997 representing three functional groups: business and industry, the professions and the labour movement.
 
