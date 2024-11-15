@@ -128,7 +128,7 @@ NMPs have now been entrenched as permanent fixtures in Singapore politics. The c
 <b>ORAL HISTORY PROJECT ON THE POLITICAL HISTORY OF SINGAPORE</b><br>
 This was one of the earliest and longest-continuous running projects undertaken by the then Oral History Unit (renamed Oral History Centre in 1993). The first oral history interview by the unit was conducted in January 1981 with Peter Low Por Tuck, former PAP assemblyman for Havelock and parliamentary secretary (Finance) who was part of the group of 13 that broke away to form the Barisan Sosialis. 
 <br><br>
-Available on Archives Online (<a href="www.nas.gov.sg/archivesonline/oral\_history\_interviews/">www.nas.gov.sg/archivesonline/oral_history_interviews/</a>), the project is organised by time periods: 1945 to 1965, 1965 to 1985, 1985 to 2005 and 2005 to 2025. There are around 890 hours of such interviews publicly available. Among the former Nominated Members of Parliament whose interviews are accessible online are Chuang Shaw Peng (accession no. 004889), Imram Mohamed (accession no. 004884) and Shriniwas Rai (accession no. 004898).
+Available on Archives Online (<a href="www.nas.gov.sg/archivesonline/oral_history_interviews/">www.nas.gov.sg/archivesonline/oral_history_interviews/</a>), the project is organised by time periods: 1945 to 1965, 1965 to 1985, 1985 to 2005 and 2005 to 2025. There are around 890 hours of such interviews publicly available. Among the former Nominated Members of Parliament whose interviews are accessible online are Chuang Shaw Peng (accession no. 004889), Imram Mohamed (accession no. 004884) and Shriniwas Rai (accession no. 004898).
 </div>
 
 <div style="background-color: white;">
