@@ -19,8 +19,7 @@ Unlike elected members of Parliament (MPs), NMPs are appointed by the president 
 
 Even though they were first appointed in 1990, the idea of having non-elected MPs was actually proposed by founding Prime Minister Lee Kuan Yew as far back as the early 1970s.&nbsp;
 
-“Seats for the Universities?” was the headline that greeted the readers of the _Straits Times_ on the morning of 4 September 1972.[^2] Two days earlier, the barely seven-year-old nation had witnessed its second general election as an independent state. The ruling People’s Action Par
-ty (PAP) made a “clean sweep” at the polls, winning all 57 contested seats and 69.02 percent of the 760,472 votes cast.[^3]
+“Seats for the Universities?” was the headline that greeted the readers of the _Straits Times_ on the morning of 4 September 1972.[^2] Two days earlier, the barely seven-year-old nation had witnessed its second general election as an independent state. The ruling People’s Action Party (PAP) made a “clean sweep” at the polls, winning all 57 contested seats and 69.02 percent of the 760,472 votes cast.[^3]
 
 ![Providing Independent and Non Partisan Views: The Nominated Member of Parliament Scheme](/images/Vol%2020%20Issue%204/Independent%20and%20Non%20Partisan/image6.jpg)
 <div style="background-color:white;">Prime Minister Lee Kuan Yew first broached the idea of having non-elected members of parliament in 1972. <i> Source: The Straits Times, 4 September 1972. © SPH Media Limited. Permission required for reproduction. </i></div>
