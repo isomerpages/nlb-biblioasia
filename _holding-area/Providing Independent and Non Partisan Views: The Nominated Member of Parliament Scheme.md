@@ -22,9 +22,15 @@ Even though they were first appointed in 1990, the idea of having non-elected MP
 “Seats for the Universities?” was the headline that greeted the readers of the _Straits Times_ on the morning of 4 September 1972.[^2] Two days earlier, the barely seven-year-old nation had witnessed its second general election as an independent state. The ruling People’s Action Par
 ty (PAP) made a “clean sweep” at the polls, winning all 57 contested seats and 69.02 percent of the 760,472 votes cast.[^3]
 
+![Providing Independent and Non Partisan Views: The Nominated Member of Parliament Scheme](/images/Vol%2020%20Issue%204/Independent%20and%20Non%20Partisan/image6.jpg)
+<div style="background-color:white;">Prime Minister Lee Kuan Yew first broached the idea of having non-elected members of parliament in 1972. <i> Source: The Straits Times, 4 September 1972. © SPH Media Limited. Permission required for reproduction. </i></div>
+
 At the post-election press conference on 3 September, Lee publicly floated the idea of having parliamentary seats set aside for higher institutions of learning to promote the growth of an intelligent and constructive opposition. These could be graduates of the then University of Singapore, Nanyang University, Teachers’ Training College, Singapore Polytechnic and Ngee Ann Technical College. “I think the problem of getting an intelligent, constructive Opposition has got to be solved. Singapore has not got the kind of people going into politics who are likely ever to develop into a coherent, constructive Opposition,” he said. “They should be intelligent enough to point out where the Government was wrong.” However, he stressed that the government needed more time to mull over it before coming to a decision.[^4]
 
 The idea possibly stemmed from a three-century-old system in Britain, which saw as many as 15 parliamentary seats reserved for English, Scottish, Irish and Welsh universities in the 1930s. Although this practice was abolished in 1948, the idea was the catalyst for key changes in Singapore’s parliamentary system in the subsequent decade.[^5]
+
+![Providing Independent and Non Partisan Views: The Nominated Member of Parliament Scheme](/images/Vol%2020%20Issue%204/Independent%20and%20Non%20Partisan/image5.jpg)
+<div style="background-color:white;"> Prime Minister Lee Kuan Yew gave three reasons for having non-constituency members of Parliament. <i> Source: The Straits Times, 25 July 1984. © SPH Media Limited. Permission required for reproduction. </i></div>
 
 #### **Seeding a Constitutional Change**
 
@@ -55,6 +61,9 @@ Dixie Tan, PAP MP for Ulu Pandan, evoked the spirit of the Constitution, which i
 PAP MP for Fengshan Arthur Beng’s concluding remarks summed up the tone of the two-day debate: “Sir, I cannot support this Bill. However, as a PAP Backbencher, I say this again, like my colleagues, well realising that I will be subjected to the Party Whip. This is the constraint upon us, and I guess we will have to continue to live a ‘schizophrenic’ political life – speaking against yet voting for a Bill.”[^18]
 
 Chiam See Tong, the MP for Potong Pasir and the sole Opposition MP, opposed the amendments to the constitution. “I would say that when nominated MPs are installed in our Parliament, they are just like fish out of water. They should not be in our Parliament. They should be tossed back to the universities or statutory bodies or businesses or other work places where they came from. If these people want to be in Parliament, then let them do so by the proper means. Come forward and put themselves through the electoral process. I do not think it is right for anyone to enjoy the privileges and prestige of being a Member of Parliament without earning that right in a parliamentary election.”[^19]
+
+![Providing Independent and Non Partisan Views: The Nominated Member of Parliament Scheme](/images/Vol%2020%20Issue%204/Independent%20and%20Non%20Partisan/image4.jpg)
+<div style="background-color:white;"> Nine nominated members of Parliament taking their oath of allegiance at Parliament House before Parliament sitting on 20 July 2009.<i>  Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore. </i></div>
 
 Concluding the end of the contentious debate, Goh offered a possibility of a “sunset” or “self-destruct” clause to allay the concerns of MPs. He said: “After a certain time, maybe four or five years from now, either before the next general elections or soon after, if the Bill, which if it is enacted becomes law, does not bring us the benefits which I expect, and if Members of Parliament are still not convinced by the wisdom of having such people in Parliament, that law will self-destruct unless it is renewed again by Members in this House.” His final words to the MPs were: “Give this a try. We lose nothing by trying.”[^20]
 
