@@ -227,10 +227,10 @@ Available on Archives Online (<a href="www.nas.gov.sg/archivesonline/oral_histor
 [^28]: [Chuang Shaw Peng](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/012d956f-13ed-11ee-9776-0050569c7836), oral history interview by John Choo, 25 April 2023, MP3 audio, Reel/Disc 1 of 2, National Archives of Singapore ([accession no. 004889](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/004889)), 2:18–2:57. 
 
 
-[^29]: Chuang Shaw Peng, interview, 25 April 2023, Reel/Disc 1 of 2, 10:39–11:18. 
+[^29]: [Chuang Shaw Peng](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/012d956f-13ed-11ee-9776-0050569c7836), interview, 25 April 2023, Reel/Disc 1 of 2, 10:39–11:18. 
 
 
-[^30]: Imram Mohamed, oral history interview by John Choo, 3 April 2023, MP3 audio, Reel/Disc 1 of 2, National Archives of Singapore (accession no. 004884), 28:46–29:18.
+[^30]: [Imram Mohamed](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/0552f0c7-0e81-11ee-9776-0050569c7836), oral history interview by John Choo, 3 April 2023, MP3 audio, Reel/Disc 1 of 2, National Archives of Singapore ([accession no. 004884](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/004884)), 28:46–29:18.
 
 
 [^31]: Parliament of Singapore, Nominated Members of Parliament, vol. 67 of _Parliamentary Debates: Official Report_, 5 June 1997, cols. 415–18, [https://sprs.parl.gov.sg/search/#/report?sittingdate=05-06-1997](https://sprs.parl.gov.sg/search/#/report?sittingdate=05-06-1997).
