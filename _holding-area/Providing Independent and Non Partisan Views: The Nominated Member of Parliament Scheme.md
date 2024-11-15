@@ -10,6 +10,8 @@ description: "Providing Independent and Non-Partisan Views: The Nominated Member
 
 By Benjamin Ho and John Choo
 
+![Providing Independent and Non Partisan Views: The Nominated Member of Parliament Scheme](/images/Vol%2020%20Issue%204/Independent%20and%20Non%20Partisan/image1.jpg)
+<div style="background-color:white;"> Assoc Prof Maurice Choo Hock Heng being sworn in as a nominated member of Parliament at Parliament House on 20 December 1990. <i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore. </i></div>
 
 On Thursday, 20 December 1990, Maurice Choo Hock Heng, a cardiologist, and Leong Chee Whye, a businessman and former senior civil servant, were sworn into Parliament. What made this particular swearing ceremony historic is that the two men were Singapore’s first nominated members of Parliament (NMPs).[^1]
 
