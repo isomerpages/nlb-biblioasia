@@ -126,25 +126,25 @@ Available on Archives Online (<a href="www.nas.gov.sg/archivesonline/oral\_histo
 
 #### **Notes**
 
-[^1]: “Top Executive, Heart Specialist Picked As NMPs,” _Straits Times_, 21 November 1990, 1. (From NewspaperSG)
+[^1]: “[Top Executive, Heart Specialist Picked As NMPs](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19901121-1.2.2),” _Straits Times_, 21 November 1990, 1. (From NewspaperSG)
 
 
-[^2]: “Seats for the Universities?” _Straits Times_, 4 September 1972, 1. (From NewspaperSG)&nbsp;
+[^2]: “[Seats for the Universities?](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19720904-1.2.2)” _Straits Times_, 4 September 1972, 1. (From NewspaperSG)
 
 
-[^3]: “Clean Sweep for the PAP,” _Straits Times_, 3 September 1972, 1. (From NewspaperSG)
+[^3]: “[Clean Sweep for the PAP](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19720903-1.2.2),” _Straits Times_, 3 September 1972, 1. (From NewspaperSG)
 
 
-[^4]: “Seats for the Universities?”&nbsp;
+[^4]: “[Seats for the Universities?](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19720904-1.2.2)”
 
 
-[^5]: Tan Wang Joo, “In Quest of an Opposition,” _Straits Times_, 9 September 1972, 14. (From NewspaperSG)
+[^5]: Tan Wang Joo, “[In Quest of an Opposition](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19720909-1.2.96),” _Straits Times_, 9 September 1972, 14. (From NewspaperSG)
 
 
-[^6]: “3 Reasons for Opposition MPs,” _Straits Times_, 25 July 1984, 1. (From NewspaperSG)
+[^6]: “[3 Reasons for Opposition MPs](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19840725-1.2.2),” _Straits Times_, 25 July 1984, 1. (From NewspaperSG)
 
 
-[^7]: “3 Reasons for Opposition MPs”; “PAP Will Govern, With or Without an Opposition,” _Straits Times_, 25 July 1984, 10. (From NewspaperSG)
+[^7]: “[3 Reasons for Opposition MPs](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19840725-1.2.2)”; “PAP Will Govern, With or Without an Opposition,” _Straits Times_, 25 July 1984, 10. (From NewspaperSG)
 
 
 [^8]: “3 Reasons for Opposition MPs.”
