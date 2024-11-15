@@ -273,7 +273,7 @@ Available on Archives Online (<a href="www.nas.gov.sg/archivesonline/oral\_histo
 [^43]: Republic of Singapore, Constitution of the Republic of Singapore (Amendment) Act 2002, No. 24 of 2002, _Government Gazette Acts Supplement_, [https://sso.agc.gov.sg/Acts-Supp/24-2002/Published/20020910?DocDate=20020910](https://sso.agc.gov.sg/Acts-Supp/24-2002/Published/20020910?DocDate=20020910). 
 
 
-[^44]: Parliament of Singapore, Nominated Members of Parliament Motion, vol. 74 of _Parliamentary Debates: Official Report_, 5 Apil 2002 col. 629, https://sprs.parl.gov.sg/search/#/report?sittingdate=05-04-2002.
+[^44]: Parliament of Singapore, Nominated Members of Parliament Motion, vol. 74 of _Parliamentary Debates: Official Report_, 5 Apil 2002 col. 629, [https://sprs.parl.gov.sg/search/#/report?sittingdate=05-04-2002](https://sprs.parl.gov.sg/search/#/report?sittingdate=05-04-2002).
 
 
 [^45]: Republic of Singapore, Constitution of the Republic of Singapore (Amendment) Act 2010, No. 9 of 2010, _Government Gazette Acts Supplement_, [https://sso.agc.gov.sg/Acts-Supp/9-2010/Published/20100628170000?DocDate=20100628170000](https://sso.agc.gov.sg/Acts-Supp/9-2010/Published/20100628170000?DocDate=20100628170000).
