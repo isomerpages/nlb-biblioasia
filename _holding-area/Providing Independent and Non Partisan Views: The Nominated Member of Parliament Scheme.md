@@ -159,7 +159,7 @@ Available on Archives Online (<a href="www.nas.gov.sg/archivesonline/oral\_histo
 [^11]: “Conviction Disqualifies Seow as NCMP,” _Straits Times_, 10 January 1989, 1. (From NewspaperSG)
 
 
-[^12]: Parliament of Singapore, Constitution of the Republic of Singapore (Amendment No. 2) Bill, vol. 54 of Parliamentary Debates: Official Report, 29 November 1989, col. 695, https://sprs.parl.gov.sg/search/#/report?sittingdate=29-11-1989.
+[^12]: Parliament of Singapore, Constitution of the Republic of Singapore (Amendment No. 2) Bill, vol. 54 of _Parliamentary Debates: Official Report_, 29 November 1989, col. 695, https://sprs.parl.gov.sg/search/#/report?sittingdate=29-11-1989.
 
 
 [^13]: Parliament of Singapore, Constitution of the Republic of Singapore (Amendment No. 2) Bill, col. 695.
@@ -183,13 +183,13 @@ Available on Archives Online (<a href="www.nas.gov.sg/archivesonline/oral\_histo
 [^19]: Parliament of Singapore, Constitution of the Republic of Singapore (Amendment No. 2) Bill, cols. 734–35.
 
 
-[^20]: Parliament of Singapore, Constitution of the Republic of Singapore (Amendment No. 2) Bill, vol. 54 of Parliamentary Debates: Official Report, 30 November 1989, col. 852, https://sprs.parl.gov.sg/search/#/report?sittingdate=30-11-1989.
+[^20]: Parliament of Singapore, Constitution of the Republic of Singapore (Amendment No. 2) Bill, vol. 54 of _Parliamentary Debates: Official Report_, 30 November 1989, col. 852, https://sprs.parl.gov.sg/search/#/report?sittingdate=30-11-1989.
 
 
-[^21]: “Chok Tong’s Variation of His Original ‘Sunset’ Clause Adopted,” Straits Times, 18 March 1990, 20. (From NewspaperSG)
+[^21]: “Chok Tong’s Variation of His Original ‘Sunset’ Clause Adopted,” _Straits Times_, 18 March 1990, 20. (From NewspaperSG)
 
 
-[^22]: Republic of Singapore, Constitution of the Republic of Singapore (Amendment) Act 1990, No. 11 of 1990, Government Gazette Acts Supplement, https://sso.agc.gov.sg/Acts-Supp/11-1990/Published/19900407; “Novel: A Parliamentary Experiment,”  in The Nominated Member of Parliament Scheme: Are Unelected Voices Still Necessary in Parliament? ed. Anthea Ong (Singapore: World Scientific Publishing Co Pte Ltd, 2023). (From NLB OverDrive)
+[^22]: Republic of Singapore, Constitution of the Republic of Singapore (Amendment) Act 1990, No. 11 of 1990, _Government Gazette Acts Supplement_, https://sso.agc.gov.sg/Acts-Supp/11-1990/Published/19900407; “Novel: A Parliamentary Experiment,”  in _The Nominated Member of Parliament Scheme: Are Unelected Voices Still Necessary in Parliament?_ ed. Anthea Ong (Singapore: World Scientific Publishing Co Pte Ltd, 2023). (From NLB OverDrive)
 
 
 [^23]: Republic of Singapore, Constitution of the Republic of Singapore (Amendment) Act 1990, Clause 3(2). 
@@ -198,14 +198,14 @@ Available on Archives Online (<a href="www.nas.gov.sg/archivesonline/oral\_histo
 [^24]: Toh Keng Kiat, oral history interview by John Choo, 23 June 2023, MP3 audio, Reel/Disc 1 of 3, National Archives of Singapore (accession no. 004886), 24:31–24:48. 
 
 
-[^25]: “Dr Toh to Give Unbiased Views,” Business Times, 2 September 1992, 2. (From NewspaperSG)
+[^25]: “Dr Toh to Give Unbiased Views,” _Business Times_, 2 September 1992, 2. (From NewspaperSG)
 
 
 [^26]: “Group Made Up of Diverse Individuals and Ideas,” Straits Times, 2 September 1992, 25. (From NewspaperSG)
 
 
 
-[^27]: Maurice Choo, “One Way,” in The Nominated Member of Parliament Scheme.
+[^27]: Maurice Choo, “One Way,” in _The Nominated Member of Parliament Scheme_.
 
 
 [^28]: Chuang Shaw Peng, oral history interview by John Choo, 25 April 2023, MP3 audio, Reel/Disc 1 of 2, National Archives of Singapore (accession no. 004889), 2:18–2:57. 
@@ -217,34 +217,34 @@ Available on Archives Online (<a href="www.nas.gov.sg/archivesonline/oral\_histo
 [^30]: Imram Mohamed, oral history interview by John Choo, 3 April 2023, MP3 audio, Reel/Disc 1 of 2, National Archives of Singapore (accession no. 004884), 28:46–29:18.
 
 
-[^31]: Parliament of Singapore, Nominated Members of Parliament, vol. 67 of Parliamentary Debates: Official Report, 5 June 1997, cols. 415–18, https://sprs.parl.gov.sg/search/#/report?sittingdate=05-06-1997.
+[^31]: Parliament of Singapore, Nominated Members of Parliament, vol. 67 of _Parliamentary Debates: Official Report_, 5 June 1997, cols. 415–18, https://sprs.parl.gov.sg/search/#/report?sittingdate=05-06-1997.
 
 
-[^32]: Tan Hsueh Yun, “Three Panels Formed to Propose NMP Candidates,” Straits Times Weekly Overseas Edition, 12 July 1997, 4. (From NewspaperSG).
+[^32]: Tan Hsueh Yun, “Three Panels Formed to Propose NMP Candidates,” _Straits Times Weekly Overseas Edition_, 12 July 1997, 4. (From NewspaperSG).
 
 
-[^33]: Warren Fernandez, “Woon's Parents Bill: Easiest Part Is Over,” Straits Times, 24 May 1994, 23. (From NewspaperSG); Parliament of Singapore, Maintenance of Parents Bill – Introduction and First Reading, vol. 63 of Parliamentary Debates: Official Report, 23 May 1994, col. 37, https://sprs.parl.gov.sg/search/#/topic?reportid=025_19940523_S0003_T0006.
+[^33]: Warren Fernandez, “Woon's Parents Bill: Easiest Part Is Over,” _Straits Times_, 24 May 1994, 23. (From NewspaperSG); Parliament of Singapore, Maintenance of Parents Bill – Introduction and First Reading, vol. 63 of _Parliamentary Debates: Official Report_, 23 May 1994, col. 37, https://sprs.parl.gov.sg/search/#/topic?reportid=025_19940523_S0003_T0006.
 
 
-[^34]: Parliament of Singapore, Maintenance of Parents Bill (As Reported from Select Committee), vol. 65 of Parliamentary Debates: Official Report, 2 November 1995, cols. 210–13, https://sprs.parl.gov.sg/search/#/report?sittingdate=02-11-1995.
+[^34]: Parliament of Singapore, Maintenance of Parents Bill (As Reported from Select Committee), vol. 65 of _Parliamentary Debates: Official Report_, 2 November 1995, cols. 210–13, https://sprs.parl.gov.sg/search/#/report?sittingdate=02-11-1995.
 
 
 [^35]: Republic of Singapore, Maintenance of Parents Act 1995, 2020 rev ed, https://sso.agc.gov.sg//Act/MPA1995.
 
 
-[^36]: Parliament of Singapore, Family Violence Bill – Introduction and First Reading, vol. 64 of Parliamentary Debates: Official Report, 27 September 1995, cols. 1536–38, https://sprs.parl.gov.sg/search/#/report?sittingdate=27-09-1995; Republic of Singapore, Women’s Charter (Amendment) Act 1996, No. 30 of 1996, Government Gazette Acts Supplement, https://sso.agc.gov.sg/Acts-Supp/30-1996/Published/19961011?DocDate=19961011.
+[^36]: Parliament of Singapore, Family Violence Bill – Introduction and First Reading, vol. 64 of _Parliamentary Debates: Official Report_, 27 September 1995, cols. 1536–38, https://sprs.parl.gov.sg/search/#/report?sittingdate=27-09-1995; Republic of Singapore, Women’s Charter (Amendment) Act 1996, No. 30 of 1996, Government Gazette Acts Supplement, https://sso.agc.gov.sg/Acts-Supp/30-1996/Published/19961011?DocDate=19961011.
 
 
-[^37]: Parliament of Singapore, Human Organ Transplant (Amendment) Bill – Introduction and First Reading, vol. 66 of Parliamentary Debates: Official Report, 10 October 1996, cols. 627–28, https://sprs.parl.gov.sg/search/#/report?sittingdate=10-10-1996.
+[^37]: Parliament of Singapore, Human Organ Transplant (Amendment) Bill – Introduction and First Reading, vol. 66 of _Parliamentary Debates: Official Report_, 10 October 1996, cols. 627–28, https://sprs.parl.gov.sg/search/#/report?sittingdate=10-10-1996.
 
 
-[^38]: Parliament of Singapore, Nominated Members of Parliament Motion, vol. 67 of Parliamentary Debates: Official Report, 5 June 1997 col. 417, https://sprs.parl.gov.sg/search/#/report?sittingdate=05-06-1997.
+[^38]: Parliament of Singapore, Nominated Members of Parliament Motion, vol. 67 of _Parliamentary Debates: Official Report_, 5 June 1997 col. 417, https://sprs.parl.gov.sg/search/#/report?sittingdate=05-06-1997.
 
 
-[^39]: Republic of Singapore, Constitution of the Republic of Singapore (Amendment) Act 1997, No. 1 of 1997, Government Gazette Acts Supplement, https://sso.agc.gov.sg/Acts-Supp/1-1997/Published/19970822?DocDate=19970822.
+[^39]: Republic of Singapore, Constitution of the Republic of Singapore (Amendment) Act 1997, No. 1 of 1997, _Government Gazette Acts Supplement_, https://sso.agc.gov.sg/Acts-Supp/1-1997/Published/19970822?DocDate=19970822.
 
 
-[^40]: “New Batch of NMPs Poised to Make Debut,” Straits Times, 2 October 1997, 3. (From NewspaperSG)
+[^40]: “New Batch of NMPs Poised to Make Debut,” _Straits Times_, 2 October 1997, 3. (From NewspaperSG)
 
 
 [^41]: Shriniwas Rai, oral history interview by Benjamin Ho, 30 June 2023, MP3 audio, Reel/Disc 5 of 5,National Archives of Singapore (accession no. 004898), 43:51–44:03.
@@ -253,13 +253,13 @@ Available on Archives Online (<a href="www.nas.gov.sg/archivesonline/oral\_histo
 [^42]: Shriniwas Rai, interview, 30 June 2023, Reel/Disc 5 of 5, 43:00–43:30
 
 
-[^43]: Republic of Singapore, Constitution of the Republic of Singapore (Amendment) Act 2002, No. 24 of 2002, Government Gazette Acts Supplement, https://sso.agc.gov.sg/Acts-Supp/24-2002/Published/20020910?DocDate=20020910. 
+[^43]: Republic of Singapore, Constitution of the Republic of Singapore (Amendment) Act 2002, No. 24 of 2002, _Government Gazette Acts Supplement_, https://sso.agc.gov.sg/Acts-Supp/24-2002/Published/20020910?DocDate=20020910. 
 
 
-[^44]: Parliament of Singapore, Nominated Members of Parliament Motion, vol. 74 of Parliamentary Debates: Official Report, 5 Apil 2002 col. 629, https://sprs.parl.gov.sg/search/#/report?sittingdate=05-04-2002.
+[^44]: Parliament of Singapore, Nominated Members of Parliament Motion, vol. 74 of _Parliamentary Debates: Official Report_, 5 Apil 2002 col. 629, https://sprs.parl.gov.sg/search/#/report?sittingdate=05-04-2002.
 
 
-[^45]: Republic of Singapore, Constitution of the Republic of Singapore (Amendment) Act 2010, No. 9 of 2010, Government Gazette Acts Supplement, https://sso.agc.gov.sg/Acts-Supp/9-2010/Published/20100628170000?DocDate=20100628170000.
+[^45]: Republic of Singapore, Constitution of the Republic of Singapore (Amendment) Act 2010, No. 9 of 2010, _Government Gazette Acts Supplement_, https://sso.agc.gov.sg/Acts-Supp/9-2010/Published/20100628170000?DocDate=20100628170000.
 
 
 [^46]:“List of Current MPs,” Parliament of Singapore, last updated 13 March 2024, https://www.parliament.gov.sg/mps/list-of-current-mps.
