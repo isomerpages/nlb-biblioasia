@@ -4,6 +4,13 @@ permalink: /topics/food/
 description: ""
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-4/jan-mar-2025/origins-of-kueh-pie-tee/">Cups and Sources: Hunting Down the Origins of Kueh Pie Tee</a>
+
+_Kueh pie tee_&nbsp;is a fixture of classic Singaporean cooking, yet its identity has the shape of an enigma, filled with mystery and garnished with riddles.
+
+<img src="/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/Kueh_pie_tee_topic.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/videos/otak-blangah/">The Scoop on Otak Blangah</a>
 
 Cracking fish bones and throwing fish patties – making&nbsp;_otak blangah_&nbsp;is a workout! How does this uncommon Peranakan dish taste in comparison to the all-familiar&nbsp;_otak-otak_? Tanya Pillay-Nair from the Peranakan Indian Association of Singapore revives this old recipe with her aunt.
