@@ -7,6 +7,7 @@ description: ""
 ---
 #### **Upheaval in China saw missionaries shifting their sights and resources to Singapore and the region, establishing related institutions and reaching the masses through education.**
 By Joshua Tan
+<br><small>8 November 2024</small>
 
 In January 1955, two American missionaries, C. Stanley Smith and William P. Fenn, serendipitously met each other in Singapore. Both were previously Protestant missionary professors in Nanjing, the capital city of Republican China – Fenn at Nanking University (Jinling Daxue) and Smith at Nanking Theological Seminary. Having been exiled from the original “mission fields” in China, they found themselves in Singapore, working on new missions among Chinese students in the diaspora.
 
@@ -105,15 +106,15 @@ Revisiting the sojourns of these two missionaries from Nanjing to Singapore, and
 
 #### **Notes**
 
-[^1]:  A broader discussion is drawn from Joshua Tan’s “Schooling Free Asia: Diasporic Chinese and Educational Activism in the Transpacific Cold War.” Ph.D. Dissertation, University of California, Santa Cruz.
+[^1]:  A broader discussion is drawn from Joshua Tan’s PhD dissertation. See Joshua Tan Hong Yi, “Schooling Free Asia: Diasporic Chinese and Educational Activism in the Transpacific Cold War” (PhD diss., University of California Santa Cruz, 2024), https://escholarship.org/uc/item/4np3k5fb.
 
-[^2]:  Creighton Lacy, “The Missionary Exodus from China,” _Pacific Affairs,_ Vol. 28, No. 4 (Dec, 1955): 301-314.
+[^2]:  Creighton Lacy, “The Missionary Exodus from China,”&nbsp;_Pacific Affairs_&nbsp;28, no. 4 (December 1955): 301–314. (From JSTOR via NLB’s&nbsp;[eResources](https://eresources.nlb.gov.sg/newspapers/digitised/article/syonantimes19440803-1.2.16)&nbsp;website)
 
-[^3]:  Lee Kam Hing, “A Neglected Story: Christian Missionaries, Chinese New Villagers, and Communists in the Battle for the ‘hearts and minds’ in Malaya, 1948–1960.” _Modern Asian Studies,_ Vol. 47, Issue 6 (Nov 2013):1977–2006. See also, Clemens Six, _[Secularism, Decolonization and the Cold War in South and Southeast Asia](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203113775)_ (New York: Routledge, 2018) (From National Library, Singapore, call no. 201.72095 SIX).
+[^3]:  Lee Kam Hing, “A Neglected Story: Christian Missionaries, Chinese New Villagers, and Communists in the Battle for the ‘Hearts and Minds’ in Malaya, 1948–1960,”&nbsp;_Modern Asian Studies_&nbsp;47, no. 6 (November 2013): 1977–2006. See also, Clemens Six,&nbsp;_[Secularism, Decolonization and the Cold War in South and Southeast Asia](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203113775)_&nbsp;(New York: Routledge, 2018). (From National Library, Singapore, call no. 201.72095 SIX)
 
 [^4]:  Lee, “A Neglected Story,” 1977–2006.
 
-[^5]:  For the list of inaugural professors at Nanyang University, including a number of missionaries in the Department of Foreign Languages, see: _Nanyang da xue chuang xiao shi zhou nian ji nian te kan 1966_ [南洋大学创校十周年纪念特刊1966](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200026402) \[Nanyang University tenth anniversary souvenir 1966\] (Xinjiapo 新加坡: \[Nanyang da xue\] \[南洋大学\], 1966) (From National Library, Singapore, call no. RCLOS 378.5951 NAN). See also Paul Contento, _A Maverick Missionary on Asian Campuses: Story of the Founding of the Iner-Varsity Christian Student Movement in China, Singapore and Vietnam by Paul and Maida Contento_ (Shangkuan Press, 1993) for how one missionary specifically conducted his missionary work on Asian campuses.
+[^5]:  For the list of inaugural professors at Nanyang University, including a number of missionaries in the Department of Foreign Languages, see: _Nanyang da xue chuang xiao shi zhou nian ji nian te kan 1966_ [南洋大学创校十周年纪念特刊1966](https://eservice.nlb.gov.sg/redir/item_holding.aspx?bid=200026402) \[Nanyang University tenth anniversary souvenir 1966\] (Xinjiapo 新加坡: \[Nanyang da xue\] \[南洋大学\], 1966) (From National Library, Singapore, call no. RCLOS 378.5951 NAN). See also Paul Contento, _A Maverick Missionary on Asian Campuses: Story of the Founding of the Iner-Varsity Christian Student Movement in China, Singapore and Vietnam by Paul and Maida Contento_ (Shangkuan Press, 1993) for how one missionary specifically conducted his missionary work on Asian campuses.
 
 [^6]:  _At the Crossroads,_ 150–54. The first graduating cohort of four students in 1951 saw only two studying for the licentiate in theology, while two others studied Kindergarten Sciences and Home Economics (Wong Shuk-Moy and Ang Jiak-Woon respectively); a balance which was increasingly skewed in favor of the training in secular subjects or preparation to being middle school teachers. In this regard, continuing the earlier work of the Methodist extension and training school.
 
