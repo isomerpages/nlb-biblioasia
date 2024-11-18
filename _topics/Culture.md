@@ -4,6 +4,13 @@ permalink: /topics/culture/
 description: ""
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-4/jan-mar-2025/origins-of-kueh-pie-tee/">Cups and Sources: Hunting Down the Origins of Kueh Pie Tee</a>
+
+_Kueh pie tee_&nbsp;is a fixture of classic Singaporean cooking, yet its identity has the shape of an enigma, filled with mystery and garnished with riddles.
+
+<img src="/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/Kueh_pie_tee_topic.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/culture/2024/6/dragon-dance-chinese-temple-vanishing-trade/">Fire Dragon Blazes Trail for Cantonese Temple in Geylang</a>
 
 Mun San Fook Tuck Chee Temple is the home of the Fire Dragon in Singapore.
