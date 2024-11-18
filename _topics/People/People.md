@@ -5,6 +5,13 @@ description: ""
 third_nav_title: People
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-4/jan-mar-2025/ustaz-syed-abdul-rahman-al-attas-calligraphy/">In Good Hands: The Calligraphy of Ustaz Syed Abdul Rahman Al Attas</a>
+
+The master calligrapher’s artworks not only adorn physical spaces but are also found in Malay print publications.
+
+<img src="/images/Vol%2020%20Issue%204/Caligraphy/Calligraphy_Mihrab_Masjid_Sultan.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-4/jan-mar-2025/john-sturgus-bastin-a-memoir/">John Sturgus Bastin: A Memoir</a>
 
 The late Dr John Bastin was the leading authority on Stamford Raffles, having published more than 20 books and many essays on Raffles.
