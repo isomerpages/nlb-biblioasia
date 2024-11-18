@@ -15,7 +15,7 @@ sections:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 20 Issue 3/Refugee/Hero_Imagev2_Refugee_Camp.png
+      background: /images/Vol 20 Issue 3/Refugee/Hero_Imagev3Refugee_Camp.png
   - infopic:
       title: Have Your Say
       subtitle: Readership Survey
