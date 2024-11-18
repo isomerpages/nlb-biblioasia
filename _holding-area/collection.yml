@@ -2,6 +2,8 @@ collections:
   holding-area:
     output: true
     order:
+      - "Providing Independent and Non Partisan Views: The Nominated Member of
+        Parliament Scheme.md"
       - How the CPF Scheme Came to Be.md
       - The Story of Sembawang from 19th century Singapore Maps.md
       - "Nanjing to Nanyang: Missionary Sojourns to Singapore and Christian

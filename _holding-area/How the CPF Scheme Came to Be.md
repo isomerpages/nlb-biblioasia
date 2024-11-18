@@ -16,7 +16,7 @@ The Central Provident Fund (CPF) scheme is a key part of Singapore’s social se
 
 However, the CPF scheme was only established on 1 July 1955. Before then, life for the majority of workers in Singapore was much more uncertain as the social security net was considerably more threadbare.&nbsp;
 
-![](/images/Vol%2020%20Issue%204/CPF/171955.jpg)
+![](/images/Vol%2020%20Issue%204/CPF/171955b.jpg)
 <div style="background-color:white;"> The Central Provident Fund commenced on 1 July 1955. <i>Image reproduced from Indian Daily Mail, 12 May 1955, 4. (From NewspaperSG).  </i></div>
 
 
@@ -166,7 +166,7 @@ In 2025, the ERS will be $426,000, up from $308,700. According to the CPF Board,
 [^7]: “[Social Security Move in Colony](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19490316-1.2.3).”&nbsp;
 
 
-[^8]: “[Laycock Seeks India’s Aid,” _Sunday Tribune_](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaytribune19500319-1.2.33), 19 March 1950, 3; “[Workers Fund Bill for Council](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19501024-1.2.74),” _Straits Times_, 24 October 1950, 5; “[Benefit Bill for Committee](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19510523-1.2.91),” _Straits Times_, 23 May 1951, 5. (From NewspaperSG); “Central Provident Fund Bill: 1st Reading,” [_Proceedings of the Legislative Council, Colony of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4981156), 22 May 1951, B79. (From National Library, Singapore, call no. RCLOS 328.5957 SIN); “[Central Provident Fund Bill: 2nd Reading](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4981156),” B194.&nbsp;
+[^8]: “[Laycock Seeks India’s Aid](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaytribune19500319-1.2.33),” _Sunday Tribune_, 19 March 1950, 3; “[Workers Fund Bill for Council](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19501024-1.2.74),” _Straits Times_, 24 October 1950, 5; “[Benefit Bill for Committee](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19510523-1.2.91),” _Straits Times_, 23 May 1951, 5. (From NewspaperSG); “Central Provident Fund Bill: 1st Reading,” [_Proceedings of the Legislative Council, Colony of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4981156), 22 May 1951, B79. (From National Library, Singapore, call no. RCLOS 328.5957 SIN); “[Central Provident Fund Bill: 2nd Reading](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4981156),” B194.&nbsp;
 
 
 [^9]: “[Provident Fund for All Workers Proposed](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19510117-1.2.54),” _Straits Times_, 17 January 1951, 4; “[Provident Fund to Be Made Compulsory,](https://eresources.nlb.gov.sg/newspapers/digitised/article/indiandailymail19510121-1.2.47)” _Indian Daily Mail_, 21 January 1951, 4; “[Text of Progressive Party's Provident Fund Bill](https://eresources.nlb.gov.sg/newspapers/digitised/article/indiandailymail19510122-1.2.47),” _Indian Daily Mail_, 22 January 1951, 4. (From NewspaperSG)
@@ -206,7 +206,7 @@ In 2025, the ERS will be $426,000, up from $308,700. According to the CPF Board,
 
 
 
-[^21]: “[Provident Fund Is Put Off](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19550429-1.2.86),” _Straits Times_, 29 April 1955, 5; “[Scheme Hold Up Affects 15,000](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19550513-1.2.122),” _The Straits Times_, 13 May 1955, 12. (From NewspaperSG); Colin Cheong, [_Saving for Our Retirement: 50 Years of CPF_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12563207) (Singapore: SNP Editions, 2005), 22–23. (From National Library, Singapore, call no. RSING 368.40095957 CHE)
+[^21]: “[Provident Fund Is Put Off](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19550429-1.2.86),” _Straits Times_, 29 April 1955, 5; “[Scheme Hold Up Affects 15,000](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19550513-1.2.122),” _Straits Times_, 13 May 1955, 12. (From NewspaperSG); Colin Cheong, [_Saving for Our Retirement: 50 Years of CPF_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12563207) (Singapore: SNP Editions, 2005), 22–23. (From National Library, Singapore, call no. RSING 368.40095957 CHE)
 
 
 [^22]: “[Provident Fund Will Commence on July 1](https://eresources.nlb.gov.sg/newspapers/digitised/article/indiandailymail19550512-1.2.64),” _Indian Daily Mail_, 12 May 1955, 4. (From NewspaperSG)
