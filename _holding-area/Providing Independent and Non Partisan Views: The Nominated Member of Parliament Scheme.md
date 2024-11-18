@@ -134,7 +134,6 @@ Available on Archives Online (<a href="www.nas.gov.sg/archivesonline/oral_histor
 <div style="background-color: white;">
 <img style="width: 100px; height: 100px;" src="/images/Authors/benjamin.png">
 <b>Benjamin Ho</b> is a Senior Specialist with the Oral History Centre, National Archives of Singapore. He has interviewed people from all walks of life covering the social, economic and political history of Singapore, and hopes to share these stories with a wider audience. </div>
-<br>
 <div style="background-color: white;">
 <img style="width: 100px; height: 100px;" src="/images/Authors/john.png">
 <b>John Choo</b>  is a Specialist with the Oral History Centre, National Archives of Singapore. He started his journey recording the experiences of individuals during the COVID-19 pandemic. Since then, he has sought to capture the life stories of other people who have contributed to society.  </div>
