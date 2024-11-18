@@ -4,6 +4,13 @@ permalink: /topics/culture/
 description: ""
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-4/jan-mar-2025/chingay-tai-ge-procession-singapore-penang/">Chingay in the 19th and 20th Centuries: A Community Procession in Time</a>
+
+The Chingay Parade held annually in Singapore during the Lunar New Year has its roots in the&nbsp;_tai ge_&nbsp;from China.
+
+<img src="/images/Vol%2020%20Issue%204/Chingay/Chingay.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-4/jan-mar-2025/origins-of-kueh-pie-tee/">Cups and Sources: Hunting Down the Origins of Kueh Pie Tee</a>
 
 _Kueh pie tee_&nbsp;is a fixture of classic Singaporean cooking, yet its identity has the shape of an enigma, filled with mystery and garnished with riddles.
