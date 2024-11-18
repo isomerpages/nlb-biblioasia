@@ -1360,4 +1360,15 @@ sections:
       url: https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08
       alt: Greeting Card
       image: /images/Hari Raya Cards/hari raya greeting card.jpg
+  - infopic:
+      title: "Cups and Sources: Hunting Down the Origins of Kueh Pie Tee"
+      subtitle: Food
+      id: infopic
+      description: Kueh pie tee is a fixture of classic Singaporean cooking, yet its
+        identity has the shape of an enigma, filled with mystery and garnished
+        with riddles.
+      button: A local favourite
+      url: vol-20/issue-4/jan-mar-2025/origins-of-kueh-pie-tee/
+      image: /images/Vol 20 Issue 4/Kueh Pie Tee/Kueh_pie_tee_topic.jpg
+      alt: Kueh pie tee
 ---
