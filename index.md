@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-20/issue-3/oct-dec-2024/colour-tv-history-singapore/
-      button: Colour TV in Singapore
+      url: /vol-20/issue-3/oct-dec-2024/hawkins-road-refugee-camp/
+      button: Remembering the Hawkins Road Refugee Camp
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 20 Issue 3/Colour TV/HeroImage_tv.jpg
+      background: /images/Vol 20 Issue 3/Refugee/Hero_Image_Refugee_Camp.png
   - infopic:
       title: Have Your Say
       subtitle: Readership Survey
