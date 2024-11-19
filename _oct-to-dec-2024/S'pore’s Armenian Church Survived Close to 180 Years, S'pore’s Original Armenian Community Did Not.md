@@ -63,13 +63,10 @@ With the generous support of Seth Paul, the church and parsonage became the firs
 
 Of course, the volunteers did more than build up the physical infrastructure. They were involved in other ways as well. Among her many talents, Agnes Joaquim was also skilled in needlework and she embroidered a beautiful altar cloth for the church.[^15]
 
-The tight-knit Armenian community also organised non-religious activities. The tragic events of the Armenian genocide in 1915 galvanised the community. Church trustees H.S. Arathoon and M.C. Johannes launched an appeal for funds on 16 October 1915 to relieve the plight of the Armenians. (They themselves donated $500 each.)[^16]
+The tight-knit Armenian community also organised non-religious activities. The tragic events of the Armenian genocide in 1915 galvanised the community. Church trustees H.S. Arathoon and M.C. Johannes launched an appeal for funds on 16 October 1915 to relieve the plight of the Armenians. (They themselves donated $500 each.)[^16] The last full service at the church was in 1938 before the resident priest left Singapore for reasons unknown.
 
 ![](/images/Vol%2020%20Issue%203/Armenian%20Church/church_community.jpg)
 <div style="background-color: white;">The Armenian community during Bishop Thorgom Gushakian’s visit to Singapore in 1917. <i>Image reproduced from Nadia H. Wright, The Armenians of Singapore: A Short History (George Town, Penang: Entrepot Publishing, 2019), 4. (From National Library, Singapore, call no. RSING 305.89199205957 WRI).</i></div>
-
-
-By 1931, there were 81 Armenians in Singapore, the highest figure reported by the census. But some time after this, the numbers appeared to decline. One indication was the last full service by a resident priest in 1938, which suggests that the community was too small to support a full-time resident priest by then.
 
 #### **Dwindling Population**
 
@@ -89,9 +86,7 @@ Official compensation for war damage was paltry and church funds had to be used 
 
 The small numbers also made it harder to keep regular church services going. In 1953, the _Straits Budget_ noted: “Walking into the Armenian Church of St Gregory, the Illuminator in Coleman Street you will find every Sunday that the altar candles are lighted and the liturgy stands open. But there is no service. At nine every morning, the Churchwarden, ex-Japanese P.O.W. Mr Joannes, reads players \[sic\] to the steadfast remanant \[sic\] of the faithful.”[^24]
 
-The first Divine Liturgy to be served after the war was on 9 May 1954. It was an important moment for the Armenian community because the last time the Liturgy had been celebrated in Singapore was some 16 years earlier. “Armenians have bought a new altar cloth (the one old having rotted away). They have scrubbed the floor and whitewashed the walls,” reported the _Straits Times_. “The church is fragrant with fresh flowers, candles are lighted and a choir of seven have been practising hymns unsung here since 1938.”[^25]
-
-This was not the start of regular services though. In fact, the priest who came, the Surabaya-based Father Aristakes Mirzaian, was only able to be in Singapore after an Armenian woman in Surabaya established a fund to enable him to travel outside his parish to serve Armenians in the region.
+The first Divine Liturgy to be served after the war was on 9 May 1954. It was an important moment for the Armenian community because the last time the Liturgy had been celebrated in Singapore was some 16 years earlier. “Armenians have bought a new altar cloth (the one old having rotted away). They have scrubbed the floor and whitewashed the walls,” reported the _Straits Times_. “The church is fragrant with fresh flowers, candles are lighted and a choir of seven have been practising hymns unsung here since 1938.”[^25] This, however, was not the start of regular services as the priest was a visiting clergyman.
 
 Three years later, in May 1957, the _Straits Times_ reported that the first Divine Liturgy in 30 years to be celebrated by a bishop would take place. Monsignor Tereniz Poladian flew in from Beirut to do so. “On Sunday, the Colony’s community of about 70 will attend a long-awaited pontifical service. The church which has been renovated at the cost of about $20,000, has just been completely refurnished. A choir of eight has been practising for the past two weeks for the big occasion.”[^26]
 
@@ -133,7 +128,7 @@ Helen Catchatoor Metes, the last Persian Armenian in Singapore, died in 2007. Af
 
 Among them was Loretta Sarkies, who was profiled in the _Straits Times_ in September 2015.&nbsp; Then 74, she was the oldest daughter of James Arathoon Sarkies, who ran the Happy World Cabaret in the 1940s, and Mae Didier. Her granduncle was Tigran Sarkies, one of the four brothers who set up the Raffles Hotel. One of Loretta’s daughters, Debra, eventually decided to change her last name from Aroozoo (Loretta had married Dutch-Eurasian civil servant Simon Aroozoo) to Sarkies at the suggestion of a visiting Armenian priest in an effort to keep the Sarkies name alive.[^39]
 
-Although the Persian Armenian community was shrinking, it was somehow able to find the funds to restore the church in the mid-1990s. The roof was waterproofed, the electrical system upgraded and the termite-infested windows replaced. The walls were also replastered and treated to prevent dampness. The building was restored in 1994, just in time for a service by visiting Armenian Orthodox Bishop, Oshagan Choloyan. According to the news report, the conservation project had been financed by the church.[^40]
+In 1994, the church embarked on a conservation project. The roof was waterproofed, the electrical system upgraded and the termite-infested windows replaced. The walls were also replastered and treated to prevent dampness.&nbsp;The building was restored just in time for a service by visiting Armenian Orthodox Bishop, Oshagan Choloyan.[^40]
 
 The restoration of the church came just in time because even though the number of Persian Armenians was getting smaller, the community of Armenian expatriates was growing. There were Americans and Australians of Armenian descent in Singapore. There were also Armenians from Armenia, especially after the dissolution of the Soviet Union in 1991. (Armenia had come under Soviet domination after World War II.)&nbsp;
 
