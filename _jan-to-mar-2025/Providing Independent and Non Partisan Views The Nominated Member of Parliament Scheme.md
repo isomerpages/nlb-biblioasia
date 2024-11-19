@@ -1,7 +1,7 @@
 ---
-title: "Providing Independent and Non-Partisan Views: The Nominated Member of
-  Parliament Scheme"
-permalink: /holding-area/providing-independent-and-non-partisan-views/
+title: Providing Independent and Non Partisan Views The Nominated Member of
+  Parliament Scheme
+permalink: /vol-20/issue-4/jan-mar-2025/nominated-member-of-parliament-nmp/
 variant: markdown
 description: "Providing Independent and Non-Partisan Views: The Nominated Member
   of Parliament Scheme"

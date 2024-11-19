@@ -1,6 +1,6 @@
 ---
 title: How the CPF Scheme Came to Be
-permalink: /how-the-cpf-scheme-came-to-be/
+permalink: /vol-20/issue-4/jan-mar-2025/central-provident-fund-cpf/
 variant: markdown
 description: How the CPF Scheme Came to Be
 ---
