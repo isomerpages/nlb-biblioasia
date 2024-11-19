@@ -293,7 +293,7 @@ _Note: This article has been updated since it was first published. Corrections a
 [^41]: Jessie Sarkies, oral history interview by Nur Azlin bte Salem, 28 July 2011, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/7/73c164fb-1162-11e3-83d5-0050568939ad-OHC003479_008/web/html5/index.html) and MP3 audio, Reel/Disc 8 of 9, National Archives of Singapore ([accession no. 003479](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/003479)), 242–45. For an interview with Jessie and Loretta Sarkies, see also Jamie Ee Wen Wei, “[Sisters Are the Last of Sarkies Clan in S’pore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20090719-1.2.13.13),” _Straits Times_, 19 July 2009, 14. (From NewspaperSG)
 
 
-[^42: Cheong Suk-Wai, “‘A Night Out Is Not About the Food, But Music or Theatre’,” _Straits Times_, 17 September 2015, https://www.straitstimes.com/singapore/a-night-out-is-not-about-the-food-but-music-or-theatre.
+[^42]: Cheong Suk-Wai, “‘A Night Out Is Not About the Food, But Music or Theatre’,” _Straits Times_, 17 September 2015, https://www.straitstimes.com/singapore/a-night-out-is-not-about-the-food-but-music-or-theatre.
 
 
 [^43]:  “Armenian Church of Singapore Celebrates Major Anniversary,” Orthodoxy Cognate Page, 24 May 2011, https://ocpsociety.org/news/armenian-church-of-singapore-celebrates-major-anniversary/.&nbsp;
