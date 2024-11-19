@@ -2,6 +2,7 @@ collections:
   jan-to-mar-2025:
     output: true
     order:
+      - How the CPF Scheme Came to Be.md
       - "Providing Independent and Non Partisan Views: The Nominated Member of
         Parliament Scheme.md"
       - "Cups and Sources: Hunting Down the Origins of Kueh Pie Tee.md"
