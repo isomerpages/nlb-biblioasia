@@ -163,8 +163,7 @@ According to church trustee Pierre Hennes, the church is now committed to the co
 
 Hennes added that he saw the role of the church as being a “beacon for all Armenians and Singaporeans – whether visitors or residents – that serves as a platform to expose, maintain and advance the Armenian religion, culture and heritage”. Not just a religious centre, the church was also a physical space for "connecting with each other and reinforcing the culture, highlighting our contributions to Singapore’s past and present, and to be a part of the fabric of Singapore’s future”.[^45]
 
-
-
+_Note: This article has been updated since it was first published. Corrections and clarifications have been made._
 
 <div style="background-color: white;">
 <br>
