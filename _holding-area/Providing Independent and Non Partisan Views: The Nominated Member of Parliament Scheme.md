@@ -1,5 +1,5 @@
 ---
-title: "Providing Independent and Non Partisan Views: The Nominated Member of
+title: "Providing Independent and Non-Partisan Views: The Nominated Member of
   Parliament Scheme"
 permalink: /holding-area/providing-independent-and-non-partisan-views/
 variant: markdown
