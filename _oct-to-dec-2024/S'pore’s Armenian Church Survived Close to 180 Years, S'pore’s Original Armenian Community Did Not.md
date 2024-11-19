@@ -40,7 +40,7 @@ When they first came here, the small community was served by Reverend Eleazor In
 ![](/images/Vol%2020%20Issue%203/Armenian%20Church/church_print.jpg)
 <div style="background-color: white;"><i>A carte de visite</i> albumen print of an Armenian by August Sachtler, 1860s. <i>Collection of the Family of Mr and Mrs Lee Kip Lee.</i></div>
 
-Two years later, the Reverend Gregory ter Johannes arrived and the first services were held in a backroom at John Little &amp; Co. in Raffles Place. The services were subsequently held in a small rented room at Powell &amp; Co. located at what was known as "the Merchant's Square". The cost of supporting the priest, renting the premises and staff wages amounted to $63 a month.[^8]
+Two years later, the Reverend Gregory ter Johannes arrived and the first services were held in a backroom at John Little &amp; Co. in Raffles Place. The services were subsequently held in a small, rented room in “Merchant’s Square”. The cost of supporting the priest, renting the premises and staff wages amounted to $63 a month.[^8]
 
 Eventually, though, the community wanted their own dedicated building. In 1833, they wrote to Samuel Bonham, the Resident Councillor in Singapore, for the piece of land “lying at the Botanical Gardens facing the public road called ‘the Hill Street’”. Approval was given in July 1834 and George D. Coleman was commissioned to design the building. The foundation stone was laid in January 1835 by the Very Reverend Thomas Gregorian, who had come from Persia for the event, and the local priest Reverend Johannes Catchick. The cost of the building came up to $5,058.30 (of which Coleman received $400 as architect and engineer.)[^9]
 
