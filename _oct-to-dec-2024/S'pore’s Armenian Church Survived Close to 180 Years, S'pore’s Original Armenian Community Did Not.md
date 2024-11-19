@@ -187,7 +187,7 @@ _Note: This article has been updated since it was first published. Corrections a
 [^6]: Nadia Wright, Linda Locke and Harold Johnson, “[Blooming Lies: The Vanda Miss Joaquim Story](https://biblioasia.nlb.gov.sg/vol-14/issue-1/apr-jun-2018/blooming-lies-vandaj/),” _BiblioAsia_ 14, no 1 (April–June 2018): 62–69.&nbsp;
 
 
-[^7]: The signatories were Johannes Simeon, Carapiet Phanos, Gregory Zechariah, Isaiah Zechariah, Mackertich M. Moses and Paul Stephens. Charles Burton Buckley,&nbsp;<i>[An Anecdotal History of Old Times in Singapore](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717)</i>, vol. 1 (Singapore: Fraser &amp; Neave, 1902), 283. (From National Library Online)
+[^7]: The signatories were Johannes Simeon, Carapiet Phanos, Gregory Zechariah, Isaiah Zechariah, Mackertich M. Moses and Paul Stephens. See Buckley,&nbsp;<i>[An Anecdotal History of Old Times in Singapore](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717)</i>, 283.
 
 
 [^8]: Buckley, [_An Anecdotal History of Old Times in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717), 283.
