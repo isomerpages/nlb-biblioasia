@@ -1,6 +1,5 @@
 ---
-title: Providing Independent and Non Partisan Views The Nominated Member of
-  Parliament Scheme
+title: "Providing Independent and Non-Partisan Views: The Nominated Member of Parliament Scheme"
 permalink: /vol-20/issue-4/jan-mar-2025/nominated-member-of-parliament-nmp/
 variant: markdown
 description: "Providing Independent and Non-Partisan Views: The Nominated Member
