@@ -9,16 +9,30 @@ third_nav_title: Singaporean Animals
 <p>Singaporeans love animals, but only selectively. Otters, Ah Meng the orangutan,
 and Inuka the polar bear are among the beloved. Less favoured are monkeys
 in the Botanic Gardens, many of which were culled before WWII, and pesky
-Aedes mosquitoes. Environment historian Timothy Barnard tells us how some
-of these migrant animals came to be here, how they’ve been treated, and
-what makes them Singaporean.</p>
+Aedes mosquitoes. Environmental historian Timothy Barnard tells us how
+some of these migrant animals came to be here, how they’ve been treated,
+and what makes them Singaporean.</p>
 <p></p>
+<h4><strong>What Tim Talked About</strong></h4>
+<p>02:26 – Monkeys in the Botanic Gardens before WWII
+<br>07:15 – Understanding Singapore’s history through its animals
+<br>08:41 – What makes a creature Singaporean?
+<br>10:10 – How the Garden City concept shaped human-animal relationships
+in Singapore
+<br>12:34 – Why some recognisable Singaporean animals were left out of the
+book
+<br>14:31 – Otters as returning migrants
+<br>16:33 – Singaporeans’ fondness for the zoo and its creatures
+<br>20:31 – How Tim came to be interested in environmental history
+<br>23:37 – Challenges in teaching environmental history in Singapore
+<br>26:01 – The animal he would like to interview &nbsp;
+<br>27:13 – The profession he would pick if he weren't a historian</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>About the Guest</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Timothy P. Barnard is an associate professor in the Department of History
+<p>Timothy P. Barnard is an associate professor in the department of history
 at the National University of Singapore, where he specialises in the environmental
 and cultural history of island Southeast Asia. He is the author of <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=203934084" rel="noopener nofollow" target="_blank">Imperial Creatures</a> </em>and <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=202468295" rel="noopener nofollow" target="_blank">Nature's Colony</a></em>,
 and the editor of <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=200148897" rel="noopener nofollow" target="_blank">Nature Contained</a></em> and <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=300023913" rel="noopener nofollow" target="_blank">Singaporean Creatures</a></em>.</p>
