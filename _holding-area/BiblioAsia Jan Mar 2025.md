@@ -26,7 +26,7 @@ W. Somerset Maugham’s visits to Singapore in the 1920s inspired some of his gr
 <a style="text-decoration: none; font-weight: bold;" href="">All Smoke? Opium Propaganda in the Syonan Shimbun</a><br>
 Imperial Japan justified its occupation of Singapore with opium propaganda and prohibition promises. *Hannah Yeo*. [(PDF)]()
 
-<a style="text-decoration: none; font-weight: bold;" href="">The Story of Sembawang from 19th-century Singapore Maps </a> Sembawang’s history can be told through the many maps that have charted its changes over the years. *Makeswary Periasamy*. [(PDF)]()
+<a style="text-decoration: none; font-weight: bold;" href="">The Story of Sembawang from 19th-century Singapore Maps </a><br> Sembawang’s history can be told through the many maps that have charted its changes over the years. *Makeswary Periasamy*. [(PDF)]()
 
 <a style="text-decoration: none; font-weight: bold;" href="">Providing Independent and Non-Partisan Views: 	The Nominated Member of Parliament Scheme</a><br>
 The Nominated Member of Parliament Scheme was set up to present more opportunities for Singaporeans to participate in politics. But its implementation in 1990 was not without controversy. *Benjamin Ho and John Choo*. [(PDF)]()
