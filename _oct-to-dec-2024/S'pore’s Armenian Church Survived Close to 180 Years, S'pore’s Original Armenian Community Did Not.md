@@ -63,7 +63,7 @@ With the generous support of Seth Paul, the church and parsonage became the firs
 
 Of course, the volunteers did more than build up the physical infrastructure. They were involved in other ways as well. Among her many talents, Agnes Joaquim was also skilled in needlework and she embroidered a beautiful altar cloth for the church.[^15]
 
-The tight-knit Armenian community also organised non-religious activities. The tragic events of the Armenian genocide in 1915 galvanised the community. Church trustees H.S. Arathoon and M.C. Johannes launched an appeal for funds on 16 October 1915 to relieve the plight of the Armenians. (They themselves donated $500 each.)[^16] The last full service at the church was in 1938 before the resident priest left Singapore for reasons unknown.
+The tight-knit Armenian community also organised non-religious activities. The tragic events of the Armenian genocide in 1915 galvanised the community. Church trustees H.S. Arathoon and M.C. Johannes launched an appeal for funds on 16 October 1915 to relieve the plight of the Armenians. (They themselves donated $500 each.)[^16] Services were held regularly until the resident priest left Singapore in 1938.
 
 ![](/images/Vol%2020%20Issue%203/Armenian%20Church/church_community.jpg)
 <div style="background-color: white;">The Armenian community during Bishop Thorgom Gushakian’s visit to Singapore in 1917. <i>Image reproduced from Nadia H. Wright, The Armenians of Singapore: A Short History (George Town, Penang: Entrepot Publishing, 2019), 4. (From National Library, Singapore, call no. RSING 305.89199205957 WRI).</i></div>
