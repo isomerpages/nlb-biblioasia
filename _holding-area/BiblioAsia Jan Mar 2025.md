@@ -38,4 +38,4 @@ The Chingay Parade held annually in Singapore during the Lunar New Year has its 
 The late Dr John Bastin was the leading authority on Stamford Raffles, having published more than 20 books and many essays on Raffles. *Kwa Chong Guan*. [(PDF)]()
 
 <a style="text-decoration: none; font-weight: bold;" href="">New Books on Singapore History</a><br>
-_Batik: Makers and Wearers; From Streets to Stalls: The History and Evolution of Hawking and Hawker Centres in Singapore;_ and _Keramat, Sacred Relics and Forbidden Idols in Singapore_ are some of the new books available at the National Library. [(PDF)](/)
+_Batik: Makers and Wearers_; _From Streets to Stalls: The History and Evolution of Hawking and Hawker Centres in Singapore_; and _Keramat, Sacred Relics and Forbidden Idols in Singapore_ are some of the new books available at the National Library. [(PDF)](/)
