@@ -4,7 +4,7 @@ permalink: /biblioasia-jan-mar-2025/
 variant: markdown
 description: BiblioAsia Jan Mar 2025
 ---
-<img src="/images/Vol%2020%20Issue%204/Biblioasia_20_4_cover.png">
+<img src="/images/Vol%2020%20Issue%204/biblioasia_20_4_cover.png">
 
 <a style="text-decoration: none; font-weight: bold;" href="">Director's Note</a><br>
 
