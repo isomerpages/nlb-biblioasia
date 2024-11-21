@@ -1,5 +1,5 @@
 ---
-title: "The Story of Sembawang from 19th-century Singapore Maps"
+title: "The Story of Sembawang from 19th-Century Singapore Maps"
 permalink: /vol-20/issue-4/jan-mar-2025/sembawang-maps-singapore/
 variant: markdown
 description: Sembawang’s history can be told through the many maps that have
