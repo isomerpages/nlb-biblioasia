@@ -18,7 +18,7 @@ and what makes them Singaporean.</p>
 <details class="isomer-details">
 <summary>About the Guest</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Timothy P. Barnard is an associate professor in the Department of History
+<p>Timothy P. Barnard is an associate professor in the department of history
 at the National University of Singapore, where he specialises in the environmental
 and cultural history of island Southeast Asia. He is the author of <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=203934084" rel="noopener nofollow" target="_blank">Imperial Creatures</a> </em>and <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=202468295" rel="noopener nofollow" target="_blank">Nature's Colony</a></em>,
 and the editor of <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=200148897" rel="noopener nofollow" target="_blank">Nature Contained</a></em> and <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=300023913" rel="noopener nofollow" target="_blank">Singaporean Creatures</a></em>.</p>
