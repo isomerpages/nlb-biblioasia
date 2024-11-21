@@ -9,9 +9,9 @@ third_nav_title: Singaporean Animals
 <p>Singaporeans love animals, but only selectively. Otters, Ah Meng the orangutan,
 and Inuka the polar bear are among the beloved. Less favoured are monkeys
 in the Botanic Gardens, many of which were culled before WWII, and pesky
-Aedes mosquitoes. Environment historian Timothy Barnard tells us how some
-of these migrant animals came to be here, how they’ve been treated, and
-what makes them Singaporean.</p>
+Aedes mosquitoes. Environmental historian Timothy Barnard tells us how
+some of these migrant animals came to be here, how they’ve been treated,
+and what makes them Singaporean.</p>
 <p></p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
