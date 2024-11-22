@@ -114,7 +114,7 @@ Yet, even at the age of 85, Maugham still had the capability to shock and annoy 
 ![](/images/Vol%2020%20Issue%204/Somerset/somerset_matchbox3.jpg)
 <div style="background-color:white;">A matchbox from the Raffles Hotel, mid-20th century. Printed on it is Somerset Maugham’s quote: “Raffles Hotel Singapore stands for all the fables of the exotic East.” <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
 
-They were both asked to leave immediately and Schutzman lost his membership at the club. It was as if Maugham had to have one more gibe at the expatriate society of Singapore. Maugham left Singapore in 1960. He died in Nice, France, in 1965 at the age of 91.
+They were both asked to leave immediately and Schutzman lost his membership at the club. It was as if Maugham had to make one more gibe at the expatriate society of Singapore. Maugham left Singapore in 1960. He died in Nice, France, in 1965 at the age of 91.
 
 	
 <div style="background-color: white;">
