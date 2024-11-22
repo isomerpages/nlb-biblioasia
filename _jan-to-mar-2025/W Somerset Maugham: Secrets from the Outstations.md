@@ -15,7 +15,7 @@ By T.A. Morton
 
 In April 1921, William Somerset Maugham – the bestselling novelist, famed playwright and master of short stories – landed in Singapore. Then aged 47, Maugham was already considered one of the world's most well-known writers. During his lifetime, he penned 20 novels, filled nine volumes of short stories, wrote 31 plays and published several volumes of non-fiction.
 
-However, it was his arrival in Singapore that marked a turning point in Maugham’s career. Encountering locals, empire builders, missionaries and the earliest cosmopolitan travellers, Maugham discovered a treasure trove of “new types” that appealed to his imagination.[^1] Yet, as a former doctor and an avid note-taker, he quite literally took these individuals at their word. This approach led to some of his most celebrated short stories, but it also damaged his reputation due to the insensitivity in publicly airing secrets for his own benefit.
+However, it was his arrival in Singapore that marked a turning point in Maugham’s career. Encountering locals, empire builders, missionaries and the earliest cosmopolitan travellers, Maugham discovered a treasure trove of “new types” that appealed to his imagination.[^1] Yet, as a former doctor and an avid note-taker, he quite literally took these individuals at their word. This approach led to some of his most celebrated short stories, but it also damaged his reputation due to the insensitivity of publicly airing secrets for his own benefit.
 
 Upon his arrival, the _Malaya Tribune_ reported that “Mr W. Somerset Maugham, famous British playwright, some of whose productions are well-known here, is at present staying at the Van Wijk Hotel. He is seeking some Eastern Colour for some of his future work”.[^2]&nbsp;
 
