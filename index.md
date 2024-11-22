@@ -26,6 +26,16 @@ sections:
       image: /images/survey_sep24.jpg
       alt: Readership Survey
   - infopic:
+      title: A Tour of 60 Asian Port Cities
+      subtitle: Podcast
+      id: infopic
+      description: Ex–ACM director Kennie Ting tells us how port cities can reveal a
+        different history of Asia, and what his "eat, pray, love" cities are.
+      button: Listen to the episode
+      url: /podcast/asian-port-cities-with-ex-acm-director-kennie-ting/
+      image: /images/Podcast/Kennie_600_400.jpg
+      alt: A Tour of 60 Asian Port Cities
+  - infopic:
       title: "Cups and Sources: Hunting Down the Origins of Kueh Pie Tee"
       subtitle: Food
       id: infopic
