@@ -31,7 +31,7 @@ After the First World War, tin and rubber prices soared and fortunes were to be 
 
 Maugham and his partner Haxton journeyed throughout Southeast Asia during the 1920s. In 1921, he spent six months in the region and another four months in 1925. Maugham and Haxton travelled extensively through British Malaya, the Dutch East Indies, French Indochina and Siam. Being a celebrity, his movement in these parts of the world did not go unnoticed. As the _Singapore Free Press_ noted in May 1921: “Mr W. Somerset Maugham has been taking the opportunity during his visit to Kuala Lumpur to acquaint himself with the routine of a planter’s life.”[^4]&nbsp;
 
-Maugham was greatly inspired by the life of a plantation manager. Most of his Far Eastern tales, short stories based in Malaya, take place in and around plantations, and when looking at old articles of that time, it is evident what inspired him. The deaths of plantation manager were avidly reported by the local papers.&nbsp;
+Maugham was greatly inspired by the life of a plantation manager. Most of his Far Eastern tales, short stories based in Malaya, take place in and around plantations, and when looking at old articles of that time, it is evident what inspired him. The deaths of plantation managers were avidly reported by the local papers.&nbsp;
 
 
 ![](/images/Vol%2020%20Issue%204/Somerset/somerset_rubber.jpg)
