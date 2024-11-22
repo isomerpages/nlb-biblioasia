@@ -1371,4 +1371,15 @@ sections:
       url: https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08
       alt: Greeting Card
       image: /images/Hari Raya Cards/hari raya greeting card.jpg
+  - infopic:
+      title: A Tour of 60 Asian Port Cities
+      subtitle: Podcast
+      id: infopic
+      description: Ex–ACM director Kennie tells us how port cities can reveal a
+        different history of Asia, and what his "eat, pray, love" cities and
+        favourite ACM artefacts are.
+      button: Listen to the episode
+      url: /podcast/asian-port-cities-with-ex-acm-director-kennie-ting/
+      image: /images/Podcast/Kennie_600_400.jpg
+      alt: Image alt text
 ---
