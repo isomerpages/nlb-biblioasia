@@ -1381,5 +1381,5 @@ sections:
       button: Listen to the episode
       url: /podcast/asian-port-cities-with-ex-acm-director-kennie-ting/
       image: /images/Podcast/Kennie_600_400.jpg
-      alt: Image alt text
+      alt: A Tour of 60 Asian Port Cities
 ---
