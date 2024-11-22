@@ -29,9 +29,8 @@ sections:
       title: A Tour of 60 Asian Port Cities
       subtitle: Podcast
       id: infopic
-      description: Ex–ACM director Kennie tells us how port cities can reveal a
-        different history of Asia, and what his "eat, pray, love" cities and
-        favourite ACM artefacts are.
+      description: Ex–ACM director Kennie Ting tells us how port cities can reveal a
+        different history of Asia, and what his "eat, pray, love" cities are.
       button: Listen to the episode
       url: /podcast/asian-port-cities-with-ex-acm-director-kennie-ting/
       image: /images/Podcast/Kennie_600_400.jpg
