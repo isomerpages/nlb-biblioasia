@@ -177,4 +177,4 @@ This article is written with the assistance of Ustaz Nasrullah Refa’ie, Ustaza
 
 
 
-[^11]: Dr Hirman Khamis, a former Malay-language teacher and an expert in Jawi, once shared that he had encountered almost 13 ways in which the word for “humans”, i.e., “manusia”, was spelt in Jawi orthography.
+[^11]: Dr Hirman Khamis, a Malay-language teacher and an expert in Jawi, once shared that he had encountered almost 13 ways in which the word for “humans”, i.e., “manusia”, was spelt in Jawi orthography.
