@@ -7,7 +7,7 @@ description: W. Somerset Maugham’s visits to Singapore in the 1920s inspired
   backlash against him throughout British Malaya.
 image: /images/Vol 20 Issue 4/Somerset/somerset_facing.jpg
 ---
-#### W. Somerset Maugham’s visits to Singapore in the 1920s inspired some of his greatest fictions, but these stories also triggered a fierce backlash against him throughout British Malaya.
+#### W. Somerset Maugham’s visits to Singapore in the 1920s inspired some of his greatest fictional works, but these stories also triggered a fierce backlash against him throughout British Malaya.
 By T.A. Morton
 
 ![](/images/Vol%2020%20Issue%204/Somerset/somerset_facing.jpg)
