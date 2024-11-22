@@ -7,15 +7,15 @@ description: W. Somerset Maugham’s visits to Singapore in the 1920s inspired
   backlash against him throughout British Malaya.
 image: /images/Vol 20 Issue 4/Somerset/somerset_facing.jpg
 ---
-#### W. Somerset Maugham’s visits to Singapore in the 1920s inspired some of his greatest fictions, but these stories also triggered a fierce backlash against him throughout British Malaya.
+#### W. Somerset Maugham’s visits to Singapore in the 1920s inspired some of his greatest fictional works, but these stories also triggered a fierce backlash against him throughout British Malaya.
 By T.A. Morton
 
 ![](/images/Vol%2020%20Issue%204/Somerset/somerset_facing.jpg)
 <div style="background-color:white;"> Portrait of Somerset Maugham, undated. <i>CPA Media Pte Ltd/Alamy Stock Photo.</i></div>
 
-In April 1921, William Somerset Maugham – the bestselling novelist, famed playwright and master of short stories – landed in Singapore. At the age of 47, Maugham was one of the most well-known writers in the world. During his lifetime, he penned 20 novels, filled nine volumes of short stories, wrote 31 plays and published several volumes of non-fiction.
+In April 1921, William Somerset Maugham – the bestselling novelist, famed playwright and master of short stories – landed in Singapore. Then aged 47, Maugham was already considered one of the world's most well-known writers. During his lifetime, he penned 20 novels, filled nine volumes of short stories, wrote 31 plays and published several volumes of non-fiction.
 
-However, it was his arrival in Singapore that marked a turning point in Maugham’s career. Encountering locals, empire builders, missionaries and the earliest cosmopolitan travellers, Maugham discovered a treasure trove of “new types” that appealed to his imagination.[^1] Yet, as a former doctor and an avid note-taker, he quite literally took these individuals at their word. This approach led to some of his most celebrated short stories, but it also damaged his reputation due to the insensitivity in publicly airing secrets for his own benefit.
+However, it was his arrival in Singapore that marked a turning point in Maugham’s career. Encountering locals, empire builders, missionaries and the earliest cosmopolitan travellers, Maugham discovered a treasure trove of “new types” that appealed to his imagination.[^1] Yet, as a former doctor and an avid note-taker, he quite literally took these individuals at their word. This approach led to some of his most celebrated short stories, but it also damaged his reputation due to the insensitivity of publicly airing secrets for his own benefit.
 
 Upon his arrival, the _Malaya Tribune_ reported that “Mr W. Somerset Maugham, famous British playwright, some of whose productions are well-known here, is at present staying at the Van Wijk Hotel. He is seeking some Eastern Colour for some of his future work”.[^2]&nbsp;
 
@@ -31,7 +31,7 @@ After the First World War, tin and rubber prices soared and fortunes were to be 
 
 Maugham and his partner Haxton journeyed throughout Southeast Asia during the 1920s. In 1921, he spent six months in the region and another four months in 1925. Maugham and Haxton travelled extensively through British Malaya, the Dutch East Indies, French Indochina and Siam. Being a celebrity, his movement in these parts of the world did not go unnoticed. As the _Singapore Free Press_ noted in May 1921: “Mr W. Somerset Maugham has been taking the opportunity during his visit to Kuala Lumpur to acquaint himself with the routine of a planter’s life.”[^4]&nbsp;
 
-Maugham was greatly inspired by the life of a plantation manager. Most of his Far Eastern tales, short stories based in Malaya, take place in and around plantations, and when looking at old articles of that time, it is evident what inspired him. The deaths of plantation manager were avidly reported by the local papers.&nbsp;
+Maugham was greatly inspired by the life of a plantation manager. Most of his Far Eastern tales, short stories based in Malaya, take place in and around plantations, and when looking at old articles of that time, it is evident what inspired him. The deaths of plantation managers were avidly reported by the local papers.&nbsp;
 
 
 ![](/images/Vol%2020%20Issue%204/Somerset/somerset_rubber.jpg)
@@ -51,7 +51,7 @@ One evening in Sumatra, Maugham and Haxton had agreed to dine but Haxton was run
 
 Murder was a common theme in Maugham’s Far Eastern stories. He referred to a “murderous heat”, which caused his characters to become mad and commit murder.
 
-Maugham engaged his readers by creating very entertaining stories based on what he came across here, and even though the murderers sometimes confess their sins, they live on freely keeping that stiff upper lip. Their social manners and customs are embedded within their club life; they meet to play bridge and dress for dinner despite the heat. His characters came to the East on the promises of a better life at home. However, once here, they are forced to battle against the terrain, customs and themselves. Their mask quickly slips, revealing deeply flawed people. Klaus W. Jonas writes that Maugham’s society in the East represents some sort of “micro-England” in that those who live here try to maintain their customs despite the environment they now dwell in.[^12] &nbsp;
+Maugham engaged his readers by creating very entertaining stories based on what he came across here, and even though the murderers sometimes confess their sins, they live on freely keeping that stiff upper lip. Their social manners and customs are embedded within their club life; they meet to play bridge and dress for dinner despite the heat. His characters came out to the East on the promises of a better life for the future. However, once here, they are forced to battle against the terrain, customs and themselves. Their mask quickly slips, revealing deeply flawed people. Klaus W. Jonas writes that Maugham’s society in the East represents some sort of “micro-England” in that those who live here try to maintain their customs despite the environment they now dwell in.[^12] &nbsp;
 
 Maugham’s Englishwomen in the East exclude themselves from all foreign influences. In the short story, “Door of Opportunity,” he wrote, “they make a circle that was more provincial than any in the smallest town in England”.[^13]&nbsp;
 
@@ -114,7 +114,7 @@ Yet, even at the age of 85, Maugham still had the capability to shock and annoy 
 ![](/images/Vol%2020%20Issue%204/Somerset/somerset_matchbox3.jpg)
 <div style="background-color:white;">A matchbox from the Raffles Hotel, mid-20th century. Printed on it is Somerset Maugham’s quote: “Raffles Hotel Singapore stands for all the fables of the exotic East.” <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
 
-They were both asked to leave immediately and Schutzman lost his membership at the club. It was as if Maugham had to have one more gibe at the expatriate society of Singapore. Maugham left Singapore in 1960. He died in Nice, France, in 1965 at the age of 91.
+They were both asked to leave immediately and Schutzman lost his membership at the club. It was as if Maugham had to make one more gibe at the expatriate society of Singapore. Maugham left Singapore in 1960. He died in Nice, France, in 1965 at the age of 91.
 
 	
 <div style="background-color: white;">
