@@ -13,7 +13,7 @@ By T.A. Morton
 ![](/images/Vol%2020%20Issue%204/Somerset/somerset_facing.jpg)
 <div style="background-color:white;"> Portrait of Somerset Maugham, undated. <i>CPA Media Pte Ltd/Alamy Stock Photo.</i></div>
 
-In April 1921, William Somerset Maugham – the bestselling novelist, famed playwright and master of short stories – landed in Singapore. At the age of 47, Maugham was one of the most well-known writers in the world. During his lifetime, he penned 20 novels, filled nine volumes of short stories, wrote 31 plays and published several volumes of non-fiction.
+In April 1921, William Somerset Maugham – the bestselling novelist, famed playwright and master of short stories – landed in Singapore. Then aged 47, Maugham was already considered one of the world's most well-known writers. During his lifetime, he penned 20 novels, filled nine volumes of short stories, wrote 31 plays and published several volumes of non-fiction.
 
 However, it was his arrival in Singapore that marked a turning point in Maugham’s career. Encountering locals, empire builders, missionaries and the earliest cosmopolitan travellers, Maugham discovered a treasure trove of “new types” that appealed to his imagination.[^1] Yet, as a former doctor and an avid note-taker, he quite literally took these individuals at their word. This approach led to some of his most celebrated short stories, but it also damaged his reputation due to the insensitivity in publicly airing secrets for his own benefit.
 
