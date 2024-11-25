@@ -26,6 +26,16 @@ sections:
       image: /images/survey_sep24.jpg
       alt: Readership Survey
   - infopic:
+      title: Chingay in the 19th and 20th Centuries
+      subtitle: Culture
+      id: infopic
+      description: The Chingay Parade held annually in Singapore during the Lunar New
+        Year has its roots in the tai ge from China.
+      button: A colourful spectacle
+      url: /vol-20/issue-4/jan-mar-2025/chingay-tai-ge-procession-singapore-penang/
+      image: /images/Vol 20 Issue 4/Chingay/Chingay_topic.jpg
+      alt: Chingay in 19th & 20th Century
+  - infopic:
       title: A Tour of 60 Asian Port Cities
       subtitle: Podcast
       id: infopic
@@ -1381,14 +1391,4 @@ sections:
       url: https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08
       alt: Greeting Card
       image: /images/Hari Raya Cards/hari raya greeting card.jpg
-  - infopic:
-      title: Chingay in the 19th and 20th Centuries
-      subtitle: Culture
-      id: infopic
-      description: The Chingay Parade held annually in Singapore during the Lunar New
-        Year has its roots in the tai ge from China.
-      button: A colourful spectacle
-      url: /vol-20/issue-4/jan-mar-2025/chingay-tai-ge-procession-singapore-penang/
-      image: /images/Vol 20 Issue 4/Chingay/Chingay_topic.jpg
-      alt: Chingay in 19th & 20th Century
 ---
