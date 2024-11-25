@@ -5,7 +5,7 @@ description: ""
 third_nav_title: People
 variant: markdown
 ---
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-4/jan-mar-2025/ustaz-syed-abdul-rahman-al-attas-calligraphy/">In Good Hands: The Calligraphy of Ustaz Syed Abdul Rahman Al Attas</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-4/jan-mar-2025/ustaz-syed-abdul-rahman-al-attas-calligraphy/">In Good Hands: The Calligraphy of Ustaz Syed Abdul Rahman Al-Attas</a>
 
 The master calligrapher’s artworks not only adorn physical spaces but are also found in Malay print publications.
 
