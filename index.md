@@ -9,13 +9,14 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-20/issue-3/oct-dec-2024/hawkins-road-refugee-camp/
-      button: Remembering the Hawkins Road Refugee Camp
+      url: /vol-20/issue-3/oct-dec-2024/armenians-church-saint-gregory/
+      button: S'pore’s Armenian Church Survived Close to 180 Years, S'pore’s Original
+        Armenian Community Did Not
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 20 Issue 3/Refugee/Hero_Imagev3Refugee_Camp.png
+      background: /images/Vol 20 Issue 3/Armenian Church/HeroImage_church.jpg
   - infopic:
       title: Have Your Say
       subtitle: Readership Survey
