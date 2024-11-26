@@ -10,7 +10,7 @@ variant: markdown
 |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | ![BiblioAsia 20-1 cover](/images/covers/ba20_1_cover5.png)[Apr–Jun 2024](https://biblioasia.nlb.gov.sg/vol-20/issue-1/apr-jun-2024/)<br>[Apr–Jun 2024 (PDF)](/files/pdf/BiblioAsia_APR_JUN2024_lowres_spread_5mb.pdf)|![BiblioAsia 20-2 cover](/images/covers/ba20_2_cover.png)[Jul-Sep 2024](https://biblioasia.nlb.gov.sg/vol-20/issue-2/jul-sep-2024/)<br>[Jul-Sep 2024 (PDF)](/files/pdf/BiblioAsia_Jul_Sep2024_FA_Spread_Lowres.pdf)|
-|![BiblioAsia 20-3 cover](/images/covers/BA_20_3_cover.png)[Oct–Dec 2024](https://biblioasia.nlb.gov.sg/vol-20/issue-3/oct-dec-2024/)<br>[Oct–Dec 2024 (PDF)](/files/pdf/BiblioAsia_OCT_DEC2024_LowRes___5MB.pdf)|![](/images/covers/placeholdercover-v2.jpg)
+|![BiblioAsia 20-3 cover](/images/covers/BA_20_3_cover.png)[Oct–Dec 2024](https://biblioasia.nlb.gov.sg/vol-20/issue-3/oct-dec-2024/)<br>[Oct–Dec 2024 (PDF)](/files/pdf/BiblioAsia_OCT_DEC2024_LowRes___5MB.pdf)|![BiblioAsia 19-4 cover](/images/Vol%2019%20Issue%204/ba_19_4_cover1.png)[Jan-Mar 2024](https://biblioasia.nlb.gov.sg/vol-19/issue-4/jan-mar-2024/)<br>[Jan-Mar 2024 (PDF)](/files/pdf/biblioAsia_Jan_Mar2024_lowres_5mb.pdf) |
 
 #### Volume 19
 
