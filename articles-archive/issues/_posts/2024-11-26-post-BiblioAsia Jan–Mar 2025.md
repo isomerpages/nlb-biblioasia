@@ -9,7 +9,7 @@ variant: markdown
 ---
 <img src="/images/Vol%2020%20Issue%204/biblioasia_20_4_cover.png">
 
-<a style="text-decoration: none; font-weight: bold;" href="https://staging-lite.d3lqsdaf68v737.amplifyapp.com/director-s-note/">Director's Note</a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-4/jan-mar-2025/director-note/">Director's Note</a><br>
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-4/jan-mar-2025/origins-of-kueh-pie-tee/">Cups and Sources: Hunting Down the Origins of Kueh Pie Tee </a><br>
 _Kueh pie tee_ is a fixture of classic Singaporean cooking, yet its identity has the shape of an enigma, filled with mystery and garnished with riddles. *Christopher Tan*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_JAN_MAR2025_KuehPieTee.pdf)
