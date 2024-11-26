@@ -5,6 +5,8 @@ permalink: /holding-area/nanjing/
 variant: markdown
 description: ""
 ---
+
+
 #### **Upheaval in China saw missionaries shifting their sights and resources to Singapore and the region, establishing related institutions and reaching the masses through education.**
 By Joshua Tan
 <br><small>28 November 2024</small>
