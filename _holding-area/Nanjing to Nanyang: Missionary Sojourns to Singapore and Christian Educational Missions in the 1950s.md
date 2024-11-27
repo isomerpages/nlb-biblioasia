@@ -5,8 +5,6 @@ permalink: /holding-area/nanjing/
 variant: markdown
 description: ""
 ---
-
-
 #### **Upheaval in China saw missionaries shifting their sights and resources to Singapore and the region, establishing related institutions and reaching the masses through education.**
 By Joshua Tan
 <br><small>28 November 2024</small>
@@ -51,7 +49,7 @@ The board’s vote of affirmation resulted in Smith’s relocation to Singapore 
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Nanjing%20to%20Nanyang/diploma_TC_Nga.jpg" style="width: 80%;">C. Stanley Smith presenting a graduation diploma to T.C. Nga (left). She was the sole recipient of the diploma in kindergarten science at Trinity College in 1954, as Trinity’s identity as a training school was phased out in favour of theological education and clergy-training. <i>Source: The Straits Times Image reproduced from “Theology Students Will Get an Extra Year,” Straits Budget, 24 June 1954, 17. (From NewspaperSG). © SPH Media Limited. Permission required for reproduction.</i></div>
+<img src="/images/Online%20Only%20Articles/Nanjing%20to%20Nanyang/diploma_TC_Nga.jpg" style="width: 80%;">C. Stanley Smith presenting a graduation diploma to T.C. Nga (left). She was the sole recipient of the diploma in kindergarten science at Trinity College in 1954, as Trinity’s identity as a training school was phased out in favour of theological education and clergy-training. <i>Image reproduced from “Theology Students Will Get an Extra Year,” Straits Budget, 24 June 1954, 17. (From NewspaperSG).</i></div>
 
 Smith’s leadership and financial aid from the Nanking Theological Seminary Board of Founders saw the college undergoing significant changes. First, it was renamed Trinity Theological College, with the foremost priority of staffing the church. Second, academic programmes in non-theological subjects were phased out by 1956, while two degree tracks in theological studies (in English and Chinese) were offered. Third, the college’s faculty was bolstered by an influx of veteran former China missionaries, such as John Fleming and Olin Stockwell. The students of such missionaries who were educated in pre-1949 China, like Anna Ling (graduate of Nanking Theological Seminary) and Enid Liu (Liu Bao-Ying, graduate of Ginling Women’s College in Nanjing), also subsequently joined Trinity’s faculty.
 
