@@ -27,6 +27,10 @@ Beyond supporting churches, some missionary-funded institutions were deliberatel
 <br>
 <img src="/images/Online%20Only%20Articles/Nanjing%20to%20Nanyang/Rev_Patrick_Joy.jpg" style="width: 80%;">The Reverend Father Patrick Joy (standing) was the supervisor of Kingsmead Hall, a student hostel built by the Jesuit Fathers, located near the Teachers’ Training College. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Nanjing%20to%20Nanyang/Elisabeth_PaulContento_PrfKhooOonTeik.png" style="width: 80%;">Missionaries Elisabeth and Paul Contento (left and centre) with University of Malaya Medical Professor Khoo Oon Teik (right). The Contentos, members of the British Evangelical China Inland Mission, are best remembered best for their evangelical affiliations. They lived on the Nanyang University campus in the early 1950s, which they saw as a good way to reach Chinese students overseas. <i>Courtesy of Scripture Union Singapore.</i></div>
+
 ####  **C. Stanley Smith and Trinity College**
 
 C. Stanley Smith was a veteran American missionary and representative of the Board of Founders of Nanking Theological Seminary. As principal of Trinity (Theological) College (1954–56), Smith had an instrumental role in shaping the college into Singapore’s premier ecumenical Protestant seminary.
@@ -78,10 +82,6 @@ Between 1954 and 1958, 9 Adam Road was used as a community centre and 11 Adam Ro
 By all accounts, the Students Christian Centre at 9–11 Adam Road served a broad range of Protestant, Catholic, and non-Christian or non-religious undergraduates between 1954 and 1959. Its activities included social events, book discussions and talks attended mostly by members of the ecumenical Student Christian Movement. However, very little has been written about the centre, simply because its ambitious initial hopes and aspirations to be a hub of Christian discourse for students proved to be short-lived. The availability of alternative halls of residence at the university, the relative disinterest of local churches and university administration, and an untimely disintegration of the building’s roof due to termite infestation led to its premature sale and closure in 1958.
 
 Christian activities on the university campus, however, continued to flourish in the centre’s absence via the Varsity Christian Fellowship (VCF) and Graduate Christian Fellowship.[^19] Founded in 1952 by conservative evangelical students under the mentorship of CIM missionary Paul Contento, they rejected the Students Christian Centre’s approach to ecumenical and interfaith relations. Instead, they stressed a more evangelical approach to proselytizing Christianity among university students. Indeed, it is worth contrasting Fenn’s cautious approach when corresponding with Vice-Chancellor Sydney Caine, with that of Paul Contento’s. An avowed anticommunist who railed against the liberal ecumenism of the MCC, Trinity College and the SCM, Contento – a self-proclaimed “maverick missionary on Asian campuses” – was, in fact, biding his time as a lecturer of English at Nanyang University, where all of his students were Chinese and there was no anxiety of Muslim reprisal to his aggressive evangelism.[^20]
-
-<div style="background-color: white;">
-<br>
-<img src="/images/Online%20Only%20Articles/Nanjing%20to%20Nanyang/Elisabeth_PaulContento_PrfKhooOonTeik.png" style="width: 80%;">Missionaries Elisabeth and Paul Contento (left and centre) with University of Malaya Medical Professor Khoo Oon Teik (right). The Contentos, members of the British Evangelical China Inland Mission, are best remembered best for their evangelical affiliations. They lived on the Nanyang University campus in the early 1950s, which they saw as a good way to reach Chinese students overseas. <i>Courtesy of Scripture Union Singapore.</i></div>
 
 Contento's personal acquaintance with Nanyang’s Dean of Arts Chang Tien-Tse, and his personal relationships with local Chinese evangelicals (through CIM and the Graduate Christian Fellowship), provided him an extensive network through which to conduct this evangelistic work, which resulted in the strengthening of the VCF among Christian students on the university campuses.
 
