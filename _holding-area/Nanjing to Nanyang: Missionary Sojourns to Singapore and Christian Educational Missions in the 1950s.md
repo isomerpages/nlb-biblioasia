@@ -73,7 +73,7 @@ Between 1954 and 1958, 9 Adam Road was used as a community centre and 11 Adam Ro
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Nanjing%20to%20Nanyang/dedication.png" style="width: 80%;">Dedication of the University of Malaya’s Students Christian Centre. Present are the Rev Hobart Amstutz, Chair of the Board, and Sir Sydney Caine, Vice-Chancellor of the university. <i>Source: The Straits Times, 25 February 1955 © SPH Media Limited. Permission required for reproduction.</i></div>
+<img src="/images/Online%20Only%20Articles/Nanjing%20to%20Nanyang/dedication.png" style="width: 80%;">Dedication of the University of Malaya’s Students Christian Centre. Present are the Rev Hobart Amstutz, Chair of the Board, and Sydney Caine, Vice-Chancellor of the university. <i>Source: The Straits Times, 25 February 1955. © SPH Media Limited. Permission required for reproduction.</i></div>
 
 By all accounts, the Students Christian Centre at 9–11 Adam Road served a broad range of Protestant, Catholic, and non-Christian or non-religious undergraduates between 1954 and 1959. Its activities included social events, book discussions and talks attended mostly by members of the ecumenical Student Christian Movement. However, very little has been written about the centre, simply because its ambitious initial hopes and aspirations to be a hub of Christian discourse for students proved to be short-lived. The availability of alternative halls of residence at the university, the relative disinterest of local churches and university administration, and an untimely disintegration of the building’s roof due to termite infestation led to its premature sale and closure in 1958.
 
