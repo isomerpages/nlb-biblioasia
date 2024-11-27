@@ -42,7 +42,7 @@ A temporary home for Vietnamese refugees, the Hawkins Road camp received thousan
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/armenians-church-saint-gregory/">Singapore’s Armenian Church Survived Close to 180 Years. Singapore’s Original Armenian Community Did Not </a><br>
-Singapore’s Persian Armenian community barely survived the war. Then came the demographic collapse. *Alvin Tan*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_OCT_DEC2024_Amernians.pdf)
+Singapore’s Persian Armenian community barely survived the war. Then came the demographic collapse. *Alvin Tan*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_OCT_DEC2024_Amernian_Nov15_PM2.pdf)
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/laws-of-our-land/">Laws of Our Land: Foundations of a New Nation </a><br>
