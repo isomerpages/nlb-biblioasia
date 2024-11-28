@@ -108,7 +108,7 @@ Like Koeh, Sham drew cartoons for newspapers in the 1970s, focusing on local eve
 
 **Lim Mu Hue (1936–2008)**&nbsp;
 
-Lim Mu Hue has been described as the eccentric artist of the Singapore art scene in the 1970s. He once published a blank book titled 无字天书(“Wordless Book”). But beneath the gruff exterior of a stubborn old man who loved his drinks and cigarettes lay a critical mind and generous spirit.&nbsp;
+Lim Mu Hue has been described as the eccentric artist of the Singapore art scene in the 1970s. He once published a blank book titled 无字天书 (“Wordless Book”). But beneath the gruff exterior of a stubborn old man who loved his drinks and cigarettes lay a critical mind and generous spirit.&nbsp;
 
 Lim can be considered a pioneer of conceptual art in Singapore. For one of his exhibitions in the 1970s, he took down all the works on the last day and visitors entered an empty gallery. But he was there to sign on the shirts of guests, and they became part of the artwork.
 
