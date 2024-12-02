@@ -1400,5 +1400,5 @@ sections:
       button: Different calligraphy styles
       url: /vol-20/issue-4/jan-mar-2025/ustaz-syed-abdul-rahman-al-attas-calligraphy/
       image: /images/Vol 20 Issue 4/Caligraphy/Calligraphy_Mihrab_Masjid_Sultan.jpg
-      alt: Image alt text
+      alt: Ustaz Syed Abdul Rahman
 ---
