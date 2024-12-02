@@ -9,14 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-20/issue-3/oct-dec-2024/armenians-church-saint-gregory/
-      button: S'pore’s Armenian Church Survived Close to 180 Years, S'pore’s Original
-        Armenian Community Did Not
+      url: /localicons/2024/6/risis-gold-orchid-tourism-souvenir/
+      button: "Singapore’s National Souvenir: The Gold-plated Past of RISIS"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 20 Issue 3/Armenian Church/HeroImage_church.jpg
+      background: /images/Online Only Articles/RISIS Singapore/RISIS_hero_image.jpg
   - infopic:
       title: Have Your Say
       subtitle: Readership Survey
@@ -26,6 +25,16 @@ sections:
       url: https://go.gov.sg/web-survey
       image: /images/survey_sep24.jpg
       alt: Readership Survey
+  - infopic:
+      title: "In Good Hands: The Calligraphy of Ustaz Syed Abdul Rahman"
+      subtitle: People
+      id: infopic
+      description: The master calligrapher’s artworks not only adorn physical spaces
+        but are also found in Malay print publications.
+      button: Different calligraphy styles
+      url: /vol-20/issue-4/jan-mar-2025/ustaz-syed-abdul-rahman-al-attas-calligraphy/
+      image: /images/Vol 20 Issue 4/Caligraphy/Calligraphy_Mihrab_Masjid_Sultan.jpg
+      alt: Ustaz Syed Abdul Rahman
   - infopic:
       title: Chingay in the 19th and 20th Centuries
       subtitle: Culture
