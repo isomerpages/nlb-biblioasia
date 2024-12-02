@@ -9,14 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-20/issue-3/oct-dec-2024/armenians-church-saint-gregory/
-      button: S'pore’s Armenian Church Survived Close to 180 Years, S'pore’s Original
-        Armenian Community Did Not
+      url: /localicons/2024/6/risis-gold-orchid-tourism-souvenir/
+      button: "Singapore’s National Souvenir: The Gold-plated Past of RISIS"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 20 Issue 3/Armenian Church/HeroImage_church.jpg
+      background: /images/Online Only Articles/RISIS Singapore/RISIS_hero_image.jpg
   - infopic:
       title: Have Your Say
       subtitle: Readership Survey
