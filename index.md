@@ -1391,4 +1391,14 @@ sections:
       url: https://medium.com/the-national-library-blog/the-hari-raya-puasa-greeting-cards-collection-of-muhammad-ariff-ahmad-a40f91dc1e08
       alt: Greeting Card
       image: /images/Hari Raya Cards/hari raya greeting card.jpg
+  - infopic:
+      title: "In Good Hands: The Calligraphy of Ustaz Syed Abdul Rahman"
+      subtitle: People
+      id: infopic
+      description: The master calligrapher’s artworks not only adorn physical spaces
+        but are also found in Malay print publications.
+      button: Different calligraphy styles
+      url: /vol-20/issue-4/jan-mar-2025/ustaz-syed-abdul-rahman-al-attas-calligraphy/
+      image: /images/Vol 20 Issue 4/Caligraphy/Calligraphy_Mihrab_Masjid_Sultan.jpg
+      alt: Image alt text
 ---
