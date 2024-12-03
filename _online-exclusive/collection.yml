@@ -2,6 +2,8 @@ collections:
   online-exclusive:
     output: true
     order:
+      - "Nanjing to Nanyang: Missionary Sojourns to Singapore and Christian
+        Educational Missions in the 1950s.md"
       - A Kampong for the Grand Old Man of Singapore.md
       - "Remembering AGS Danaraj: Pioneer Town Planner and News Reader.md"
       - Eu Tong Sen’s “Pearl Under the Burning Tropical Sun”.md

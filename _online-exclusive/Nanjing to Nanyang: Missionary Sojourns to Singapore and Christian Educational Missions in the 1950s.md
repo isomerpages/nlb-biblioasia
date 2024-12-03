@@ -1,13 +1,13 @@
 ---
 title: "Nanjing to Nanyang: Missionary Sojourns to Singapore and Christian
   Educational Missions in the 1950s"
-permalink: /holding-area/nanjing/
+permalink: /history/2024/9/christianity-china-singapore-missions-education/
 variant: markdown
 description: ""
 ---
 #### **Upheaval in China saw missionaries shifting their sights and resources to Singapore and the region, establishing related institutions and reaching the masses through education.**
 By Joshua Tan
-<br><small>28 November 2024</small>
+<br><small>3 December 2024</small>
 
 In January 1955, two American missionaries, C. Stanley Smith and William P. Fenn, serendipitously met each other in Singapore. Both were previously Protestant missionary professors in Nanjing, the capital city of the Republic of China – Fenn at Nanking University (Jinling Daxue) and Smith at Nanking Theological Seminary. Having been exiled from the original “mission fields” in China, they found themselves in Singapore, working on new missions among Chinese students in the diaspora.
 

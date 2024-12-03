@@ -4,9 +4,18 @@ permalink: /topics/history/
 variant: markdown
 description: ""
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/history/2024/9/christianity-china-singapore-missions-education/">**From Nanjing to Nanyang: Missionary Sojourns to Singapore and Christian Educational Missions in the Early 1950s**</a>
+
+Upheaval in China saw missionaries shifting their sights and resources to Singapore and the region, establishing related institutions and reaching the masses through education.
+
+<img src="/images/Online%20Only%20Articles/Nanjing%20to%20Nanyang/Opening_of_TTC_topic.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/colour-tv-history-singapore/">The Awakening of the Modern Television Era</a>
+
  <p>People weren’t particularly interested in&nbsp;upgrading their black-and-white TV to a colour TV. Then came the World Cup.</p> 
-<img src="/images/Vol%2020%20Issue%203/Colour%20TV/awkening.jpg">
+ 
+<img src="/images/Vol%2020%20Issue%203/Colour%20TV/awkening.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/history/2024/4/beer-brewing-production-brewery-singapore/">**A Long Time Brewing: The Story of Singapore’s Beer Industry**</a>
