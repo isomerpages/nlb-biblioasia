@@ -480,5 +480,5 @@ to volume two of <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=
 me.</p>
 <p><strong>Jimmy<br></strong>Thanks, Tim.</p>
 <p><strong>Jimmy</strong>
-<br>If you’ve enjoyed this episode, subscribe to this podcast and the <em><a href="https://form.gov.sg/616799db4d9b61001398f79b" rel="noopener nofollow" target="_blank">BiblioAsia </a></em>
+<br>If you’ve enjoyed this episode, subscribe to this podcast and the <em>BiblioAsia </em>
 <a href="https://form.gov.sg/616799db4d9b61001398f79b" rel="noopener nofollow" target="_blank">newsletter</a>. Thanks for joining us on <em>BiblioAsia+</em>.</p>
