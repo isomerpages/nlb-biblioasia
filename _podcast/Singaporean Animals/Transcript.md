@@ -474,10 +474,10 @@ Tim, thank you very much for joining us, and I’m really looking forward
 to volume two of <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=300023913" rel="noopener noreferrer nofollow" target="_blank">Singaporean Creatures</a></em>.</p>
 <p><strong>Tim<br></strong>Well, thank you very much. I appreciate you having
 me.</p>
-<p><strong>Jimmy<br></strong>Thanks, Tim.</p>
 <p>[Music playing]</p>
-<p>You’re listening to&nbsp;<em>BiblioAsia+</em>, a podcast produced by the
+<p><strong>Jimmy<br></strong>Thanks, Tim.
+<br>You’re listening to&nbsp;<em>BiblioAsia+</em>, a podcast produced by the
 National Library of Singapore. At&nbsp;<em>BiblioAsia</em>, we tell stories
-about Singapore’s past. Some familiar, others forgotten, all fascinating.</p>
-<p>If you’ve enjoyed this episode, subscribe to this podcast and the <em><a href="https://form.gov.sg/616799db4d9b61001398f79b" rel="noopener noreferrer nofollow" target="_blank">BiblioAsia </a></em>
+about Singapore’s past. Some familiar, others forgotten, all fascinating.
+<br>If you’ve enjoyed this episode, subscribe to this podcast and the <em><a href="https://form.gov.sg/616799db4d9b61001398f79b" rel="noopener noreferrer nofollow" target="_blank">BiblioAsia </a></em>
 <a href="https://form.gov.sg/616799db4d9b61001398f79b" rel="noopener noreferrer nofollow" target="_blank">newsletter</a>. Thanks for joining us on <em>BiblioAsia+</em>.</p>
