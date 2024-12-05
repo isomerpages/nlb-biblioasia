@@ -480,5 +480,5 @@ me.</p>
 <br>You’re listening to&nbsp;<em>BiblioAsia+</em>, a podcast produced by the
 National Library of Singapore. At&nbsp;<em>BiblioAsia</em>, we tell stories
 about Singapore’s past. Some familiar, others forgotten, all fascinating.
-<br>If you’ve enjoyed this episode, subscribe to this podcast and the <em><a href="https://form.gov.sg/616799db4d9b61001398f79b" rel="noopener noreferrer nofollow" target="_blank">BiblioAsia </a></em>
-<a href="https://form.gov.sg/616799db4d9b61001398f79b" rel="noopener noreferrer nofollow" target="_blank">newsletter</a>. Thanks for joining us on <em>BiblioAsia+</em>.</p>
+<br>If you’ve enjoyed this episode, subscribe to this podcast and the <a href="https://form.gov.sg/616799db4d9b61001398f79b" rel="noopener nofollow" target="_blank">BiblioAsia newsletter</a>.
+Thanks for joining us on <em>BiblioAsia+</em>.</p>
