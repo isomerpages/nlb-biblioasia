@@ -27,7 +27,11 @@ was born in Singapore.</p>
 <p><strong>Tim</strong> 
 <br>It was a polar bear. It’s interesting how you have migrant animals and
 how they adapt. You know, and it’s almost hard to determine which ones
-will be the popular ones in this regard.</p>
+will be the popular ones in this regard.
+<br>
+</p>
+<p>[Music playing]</p>
+<p></p>
 <p><strong>Jimmy</strong> 
 <br>You’re listening to <em>BiblioAsia+</em>, a podcast produced by the National
 Library of Singapore. At <em>BiblioAsia</em>, we tell stories about Singapore’s
@@ -475,10 +479,6 @@ to volume two of <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=
 <p><strong>Tim<br></strong>Well, thank you very much. I appreciate you having
 me.</p>
 <p><strong>Jimmy<br></strong>Thanks, Tim.</p>
-<p>[Music playing]</p>
 <p><strong>Jimmy</strong>
-<br>You’re listening to&nbsp;<em>BiblioAsia+</em>, a podcast produced by the
-National Library of Singapore. At&nbsp;<em>BiblioAsia</em>, we tell stories
-about Singapore’s past. Some familiar, others forgotten, all fascinating.
-<br>If you’ve enjoyed this episode, subscribe to this podcast and the <a href="https://form.gov.sg/616799db4d9b61001398f79b" rel="noopener nofollow" target="_blank">BiblioAsia newsletter</a>.
-Thanks for joining us on <em>BiblioAsia+</em>.</p>
+<br>If you’ve enjoyed this episode, subscribe to this podcast and the <em><a href="https://form.gov.sg/616799db4d9b61001398f79b" rel="noopener nofollow" target="_blank">BiblioAsia</a></em>
+<a href="https://form.gov.sg/616799db4d9b61001398f79b" rel="noopener nofollow" target="_blank">newsletter</a>. Thanks for joining us on <em>BiblioAsia+</em>.</p>
