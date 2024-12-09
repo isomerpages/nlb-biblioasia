@@ -36,7 +36,7 @@ sections:
       image: /images/Vol 20 Issue 4/Sembawang/sembawang_map_topic.png
       alt: Sembawang Maps
   - infopic:
-      title: "In Good Hands: The Calligraphy of Ustaz Syed Abdul Rahman"
+      title: The Calligraphy of Ustaz Syed Abdul Rahman
       subtitle: People
       id: infopic
       description: The master calligrapher’s artworks not only adorn physical spaces
