@@ -1083,4 +1083,14 @@ sections:
       image: /images/Vol 19 Issue 4/An Interview with Rachel Heng/book
         cover_homepage3.jpg
       alt: The Great Reclamation
+  - infopic:
+      title: The Story of Sembawang from 19th-Century Singapore Maps
+      subtitle: Maps
+      id: infopic
+      description: Sembawang’s history can be told through the many maps that have
+        charted its changes over the years.
+      button: “SEMBAWANG”, “SAMBAWANG”, “SUMBAWANG”
+      url: /vol-20/issue-4/jan-mar-2025/sembawang-maps-singapore/
+      image: /images/Vol 20 Issue 4/Sembawang/sembawang_map_topic.png
+      alt: Image alt text
 ---
