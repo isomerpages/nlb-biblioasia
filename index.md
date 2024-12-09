@@ -9,13 +9,14 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /localicons/2024/6/risis-gold-orchid-tourism-souvenir/
-      button: "Singapore’s National Souvenir: The Gold-plated Past of RISIS"
+      url: /people/2024/7/lee-kum-tatt-science-pioneer/
+      button: "A Scientific Adventure: The Life and Legacy of Dr Lee Kum Tatt"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Online Only Articles/RISIS Singapore/RISIS_hero_image.jpg
+      background: /images/Online Only Articles/Dr Lee Kum
+        Tatt/dr_lee_kum_tatt_hero_image.png
   - infopic:
       title: Have Your Say
       subtitle: Readership Survey
