@@ -13,6 +13,13 @@ Aedes mosquitoes. Environmental historian Timothy Barnard tells us how
 some of these migrant animals came to be here, how they’ve been treated,
 and what makes them Singaporean.</p>
 <p></p>
+<h4><strong>Listen to the Full Episode</strong></h4>
+<p>Available on: <a href="https://open.spotify.com/episode/7gGf8AHwQTChBbcZ01gsuz" rel="noopener nofollow" target="_blank"><u>Spotify</u></a>,
+<a href="https://podcasts.apple.com/us/podcast/what-makes-an-animal-singaporean/id1688142751?i=1000679403283" rel="noopener nofollow" target="_blank"><u>Apple Podcasts</u>
+</a>, <a href="https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/What-Makes-An-Animal-Singaporean--2757616" rel="noopener nofollow" target="_blank"><u>melisten</u></a>.</p>
+<p><a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener noreferrer nofollow" target="_blank"><u>Subscribe</u></a> to
+get notified when the next episode drops.</p>
+<p></p>
 <h4><strong>What Timothy Talked About</strong></h4>
 <p>02:26 – Monkeys in the Botanic Gardens before WWII
 <br>07:15 – Understanding Singapore’s history through its animals

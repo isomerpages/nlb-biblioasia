@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /localicons/2024/6/risis-gold-orchid-tourism-souvenir/
-      button: "Singapore’s National Souvenir: The Gold-plated Past of RISIS"
+      url: /people/2024/7/lee-kum-tatt-science-pioneer/
+      button: "A Scientific Adventure: The Life and Legacy of Dr Lee Kum Tatt"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Online Only Articles/RISIS Singapore/RISIS_hero_image.jpg
+      background: /images/Online Only Articles/Dr Lee Kum Tatt/Lee_Kum_Tatt_heroimage.png
   - infopic:
       title: Have Your Say
       subtitle: Readership Survey
@@ -25,6 +25,16 @@ sections:
       url: https://go.gov.sg/web-survey
       image: /images/survey_sep24.jpg
       alt: Readership Survey
+  - infopic:
+      title: The Story of Sembawang from 19th-Century Singapore Maps
+      subtitle: Maps
+      id: infopic
+      description: Sembawang’s history can be told through the many maps that have
+        charted its changes over the years.
+      button: “SEMBAWANG”, “SAMBAWANG”, “SUMBAWANG”
+      url: /vol-20/issue-4/jan-mar-2025/sembawang-maps-singapore/
+      image: /images/Vol 20 Issue 4/Sembawang/sembawang_map_topic.png
+      alt: Sembawang Maps
   - infopic:
       title: "In Good Hands: The Calligraphy of Ustaz Syed Abdul Rahman"
       subtitle: People
