@@ -4,6 +4,13 @@ permalink: /topics/maps/
 description: ""
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-4/jan-mar-2025/sembawang-maps-singapore/">The Story of Sembawang from 19th-century Singapore Maps</a>
+<p>Sembawang’s history can be told through the many maps that have charted its changes over the years.</p>
+
+<img src="/images/Vol%2020%20Issue%204/Sembawang/sembawang_map_topic.png" style="width:80%;">
+
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-17/issue-4/jan-to-mar-2022/asia-maps-cartography">Cartography and the Rise of Colonial Empires in Asia</a>
 Chia Jie Lin highlights interesting cartographic efforts from the National Library’s latest exhibition on Asian maps.
 
