@@ -26,6 +26,16 @@ sections:
       image: /images/survey_sep24.jpg
       alt: Readership Survey
   - infopic:
+      title: The Story of Sembawang from 19th-Century Singapore Maps
+      subtitle: Maps
+      id: infopic
+      description: Sembawang’s history can be told through the many maps that have
+        charted its changes over the years.
+      button: “SEMBAWANG”, “SAMBAWANG”, “SUMBAWANG”
+      url: /vol-20/issue-4/jan-mar-2025/sembawang-maps-singapore/
+      image: /images/Vol 20 Issue 4/Sembawang/sembawang_map_topic.png
+      alt: Sembawang Maps
+  - infopic:
       title: "In Good Hands: The Calligraphy of Ustaz Syed Abdul Rahman"
       subtitle: People
       id: infopic
@@ -1083,14 +1093,4 @@ sections:
       image: /images/Vol 19 Issue 4/An Interview with Rachel Heng/book
         cover_homepage3.jpg
       alt: The Great Reclamation
-  - infopic:
-      title: The Story of Sembawang from 19th-Century Singapore Maps
-      subtitle: Maps
-      id: infopic
-      description: Sembawang’s history can be told through the many maps that have
-        charted its changes over the years.
-      button: “SEMBAWANG”, “SAMBAWANG”, “SUMBAWANG”
-      url: /vol-20/issue-4/jan-mar-2025/sembawang-maps-singapore/
-      image: /images/Vol 20 Issue 4/Sembawang/sembawang_map_topic.png
-      alt: Sembawang Maps
 ---
