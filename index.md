@@ -1092,5 +1092,5 @@ sections:
       button: “SEMBAWANG”, “SAMBAWANG”, “SUMBAWANG”
       url: /vol-20/issue-4/jan-mar-2025/sembawang-maps-singapore/
       image: /images/Vol 20 Issue 4/Sembawang/sembawang_map_topic.png
-      alt: Image alt text
+      alt: Sembawang Maps
 ---
