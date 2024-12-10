@@ -8,7 +8,7 @@ image: /images/Online Only Articles/Growing Food in a Garden City/kim_tian.png
 ####  Urban edible gardening in Singapore might be all the rage now, but the movement has roots that date back to the early 20th century.
 By Fiona Williamson and Joshua Goh
 
-In June 2020, the National Parks Board (NParks) launched Gardening with Edibles, an initiative that saw the distribution of nearly 460,000 seed packs to interested households. Each pack contained approximately 1,000 vegetable seeds, allowing Singaporeans to grow a few rounds of crops ranging from tomatoes to leafy vegetables like *kalian*.[^1] The initiative’s main purpose was to drive home the importance of food security as part of a wider national campaign, Our Singapore Food Story.[^2]  
+In June 2020, the National Parks Board (NParks) launched Gardening with Edibles, an initiative that saw the distribution of nearly 460,000 seed packs to interested households. Each pack contained approximately 1,000 vegetable seeds, allowing Singaporeans to grow a few rounds of crops ranging from tomatoes to leafy vegetables like *kailan*.[^1] The initiative’s main purpose was to drive home the importance of food security as part of a wider national campaign, Our Singapore Food Story.[^2]  
 
 Due to Singapore’s heavy reliance on imported food, most locals rarely have a hand in producing the food they eat. In 2020, fewer than 3,100 Singapore residents (or 0.14 percent of the labour force) were involved in industries such as agriculture and fishing.[^3]  Gardening with Edibles bridges this wide disconnect between farm and table by providing Singaporeans with the experience of growing their own food.
 
