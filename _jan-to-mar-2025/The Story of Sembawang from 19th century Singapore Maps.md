@@ -1,5 +1,5 @@
 ---
-title: "The Story of Sembawang from 19th-Century Singapore Maps"
+title: The Story of Sembawang from 19th-Century Singapore Maps
 permalink: /vol-20/issue-4/jan-mar-2025/sembawang-maps-singapore/
 variant: markdown
 description: Sembawang’s history can be told through the many maps that have
@@ -172,7 +172,7 @@ By the beginning of the 20th century, the rubber trade had begun to replace the 
 
 
 
-[^10]: Mok, “[Mapping Singapore 1819–2014](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201116198),” 88; William Farquhar, [_Plan of the Island of Singapore Including the New British Settlements and Adjacent Islands_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=e60e3d92-2da5-4d6d-a02e-44da321e6684), 1822, map. (From National Library Online)
+[^10]: “Mapping Singapore 1819–2014,” in National Library Board,&nbsp;[_Visualising Space: Maps of Singapore and the Region_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201116198)&nbsp;(Singapore: National Library Board, 2015), 88. (From National Library, Singapore, call no. RSING 911.5957 SIN); William Farquhar, [_Plan of the Island of Singapore Including the New British Settlements and Adjacent Islands_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=e60e3d92-2da5-4d6d-a02e-44da321e6684), 1822, map. (From National Library Online)
 
 
 [^11]: William Marsden, [_Map of the Island of Sumatra Constructed Chiefly from Surveys Taken by Order of the Late Sir Thomas Stamford Raffles_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=6ac8dcf7-cc74-40fd-9c47-6c20169d3191), 1829, map. (From National Library Online, accession no. B29029422H)&nbsp;
@@ -191,7 +191,7 @@ By the beginning of the 20th century, the rubber trade had begun to replace the 
 
 
 
-[^15]: _Plan of the British Settlement of Singapore by Captain Franklin and Lieut. Jackson_ in John Crawfurd, [_Journal of an Embassy from the Governor-General of India to the Courts of Siam and Cochin-China_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=78831281-b72c-4981-afd0-7a448179e707) (London: Henry Colburn, 1828), facing page 529. (From National Library Online, accession no. B20116740J); “Mapping Singapore 1819–2014,” in National Library Board, [_Visualising Space: Maps of Singapore and the Region_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201116198) (Singapore: National Library Board, 2015), 90. (From National Library, Singapore, call no. RSING 911.5957 SIN)
+[^15]: _Plan of the British Settlement of Singapore by Captain Franklin and Lieut. Jackson_ in John Crawfurd, [_Journal of an Embassy from the Governor-General of India to the Courts of Siam and Cochin-China_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=78831281-b72c-4981-afd0-7a448179e707) (London: Henry Colburn, 1828), facing page 529. (From National Library Online, accession no. B20116740J); Mok, “[Mapping Singapore 1819–2014](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201116198),” 90.
 
 
 
