@@ -37,7 +37,7 @@ Many of the early cartoonists were ideologically motivated and their drawings ai
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/hawkins-road-refugee-camp/">Remembering the Hawkins Road Refugee Camp</a><br>
-A temporary home for Vietnamese refugees, the Hawkins Road camp received thousands of “boat people” over nearly two decades. *Rebecca Tan*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_OCT_DEC2024_HawkinsRoad.pdf)
+A temporary home for Vietnamese refugees, the Hawkins Road camp received thousands of “boat people” over nearly two decades. *Rebecca Tan*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_OCT_DEC2024_HawkinsRoadv2.pdf)
 
 
 
