@@ -8,6 +8,12 @@ variant: tiptap
 <h3><strong>A Reel-ly Good Story: History in Five Minutes</strong></h3>
 <p><em>BiblioAsia Reels</em> turns a <em>BiblioAsia</em> story into a short
 video. Take five to learn interesting things about Singapore history.</p>
+<h4><strong>Thai Buddhist Temple Wat Ananda</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/bFZM2C5XXBw"></iframe>
+</div>
+<p>As Singapore's oldest Thai Buddhist temple, you'll discover elements that
+would not normally be found in a Buddhist temple in Thailand.</p>
 <h4><strong>Singapore’s Early Zoos</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BAJrXPFgw7Y"></iframe>
