@@ -9,13 +9,14 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /people/2024/7/lee-kum-tatt-science-pioneer/
-      button: "A Scientific Adventure: The Life and Legacy of Dr Lee Kum Tatt"
+      url: /people/2024/8/ags-danaraj-town-planner-radio-broadcast-news-reader/
+      button: "Remembering AGS Danaraj: Pioneer Town Planner and News Reader"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Online Only Articles/Dr Lee Kum Tatt/Lee_Kum_Tatt_heroimage.png
+      background: /images/Online Only Articles/Remembering AGS
+        Danaraj/ACSDanaraj_Heroimagev2.png
   - infopic:
       title: Have Your Say
       subtitle: Readership Survey
@@ -25,6 +26,17 @@ sections:
       url: https://go.gov.sg/web-survey
       image: /images/survey_sep24.jpg
       alt: Readership Survey
+  - infopic:
+      title: Thai Buddhist Temple Wat Ananda
+      subtitle: BiblioAsia Reels
+      id: infopic
+      description: As Singapore's oldest Thai Buddhist temple, you'll discover
+        elements that would not normally be found in a Buddhist temple in
+        Thailand.
+      button: WATCH THE VIDEO
+      url: /videos/reels/worship/
+      image: "/images/Videos: BiblioAsia Reels/BiblioAsia_Reels_Wat_Ananda.png"
+      alt: Wat Ananda
   - infopic:
       title: The Story of Sembawang from 19th-Century Singapore Maps
       subtitle: Maps
