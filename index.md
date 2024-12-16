@@ -9,8 +9,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /people/2024/7/lee-kum-tatt-science-pioneer/
-      button: "A Scientific Adventure: The Life and Legacy of Dr Lee Kum Tatt"
+      url: /people/2024/8/ags-danaraj-town-planner-radio-broadcast-news-reader/
+      button: "Remembering AGS Danaraj: Pioneer Town Planner and News Reader"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
