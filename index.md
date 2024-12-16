@@ -26,6 +26,17 @@ sections:
       image: /images/survey_sep24.jpg
       alt: Readership Survey
   - infopic:
+      title: Thai Buddhist Temple Wat Ananda
+      subtitle: BiblioAsia Reels
+      id: infopic
+      description: As Singapore's oldest Thai Buddhist temple, you'll discover
+        elements that would not normally be found in a Buddhist temple in
+        Thailand.
+      button: WATCH THE VIDEO
+      url: /videos/reels/worship/
+      image: "/images/Videos: BiblioAsia Reels/BiblioAsia_Reels_Wat_Ananda.png"
+      alt: Image alt text
+  - infopic:
       title: The Story of Sembawang from 19th-Century Singapore Maps
       subtitle: Maps
       id: infopic
@@ -1093,15 +1104,4 @@ sections:
       image: /images/Vol 19 Issue 4/An Interview with Rachel Heng/book
         cover_homepage3.jpg
       alt: The Great Reclamation
-  - infopic:
-      title: Thai Buddhist Temple Wat Ananda
-      subtitle: BiblioAsia Reels
-      id: infopic
-      description: As Singapore's oldest Thai Buddhist temple, you'll discover
-        elements that would not normally be found in a Buddhist temple in
-        Thailand.
-      button: WATCH THE VIDEO
-      url: /videos/reels/worship/
-      image: "/images/Videos: BiblioAsia Reels/BiblioAsia_Reels_Wat_Ananda.png"
-      alt: Image alt text
 ---
