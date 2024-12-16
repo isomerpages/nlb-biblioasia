@@ -36,7 +36,7 @@ sections:
       button: WATCH THE VIDEO
       url: /videos/reels/worship/
       image: "/images/Videos: BiblioAsia Reels/BiblioAsia_Reels_Wat_Ananda.png"
-      alt: Image alt text
+      alt: Wat Ananda
   - infopic:
       title: The Story of Sembawang from 19th-Century Singapore Maps
       subtitle: Maps
