@@ -4,6 +4,13 @@ permalink: /topics/governance/
 description: ""
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-4/jan-mar-2025/central-provident-fund-cpf/">How the CPF Scheme Came to Be</a>
+
+If things had turned out differently, Singapore would now be using a national pension scheme instead of the Central Provident Fund scheme.
+
+<img src="/images/Vol%2020%20Issue%204/CPF/CPF_Jurong_topic.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/laws-of-our-land/">Laws of Our Land: Foundations of a New Nation</a>
 The Singapore Citizenship Ordinance (1957), the Women’s Charter (1961) and the Employment Act (1968) are three important pieces of legislation that have shaped modern Singapore.
 
@@ -264,6 +271,3 @@ Chinese clan associations in Singapore date back to the time of Stamford Raffles
 
 <img src="/images/vol-9-issue-4/enternity/Farquhar_Raffles_re.jpg" style="width:80%;">
 <hr>
-
-
-
