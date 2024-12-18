@@ -4,6 +4,13 @@ permalink: /topics/governance/
 description: ""
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-4/jan-mar-2025/nominated-member-of-parliament-nmp/">Providing Independent and Non-Partisan Views: The Nominated Member of Parliament Scheme</a>
+
+The NMP Scheme was set up to present more opportunities for Singaporeans to participate in politics. But its implementation in 1990 was not without controversy.
+
+<img src="/images/Vol%2020%20Issue%204/Independent%20and%20Non%20Partisan/NMPs_topic.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-4/jan-mar-2025/central-provident-fund-cpf/">How the CPF Scheme Came to Be</a>
 
 If things had turned out differently, Singapore would now be using a national pension scheme instead of the Central Provident Fund scheme.
