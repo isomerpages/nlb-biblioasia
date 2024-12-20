@@ -30,7 +30,7 @@ sections:
       title: Thai Buddhist Temple Wat Ananda
       subtitle: BiblioAsia Reels
       id: infopic
-      description: As Singapore's oldest Thai Buddhist temple, you'll discover
+      description: At Singapore's oldest Thai Buddhist temple, you'll discover
         elements that would not normally be found in a Buddhist temple in
         Thailand.
       button: WATCH THE VIDEO
