@@ -9,14 +9,14 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /people/2024/8/ags-danaraj-town-planner-radio-broadcast-news-reader/
-      button: "Remembering AGS Danaraj: Pioneer Town Planner and News Reader"
+      url: /vol-17/issue-3/oct-dec-2021/stjosephchurch/
+      button: "Making the Invisible Visible: Restoring the Statues of St Joseph’s
+        Church on Victoria Street"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Online Only Articles/Remembering AGS
-        Danaraj/ACSDanaraj_Heroimagev2.png
+      background: /images/vol-17-issue-3/st-joseph/St_Joseph_heroimagev2.png
   - infopic:
       title: Have Your Say
       subtitle: Readership Survey
@@ -26,6 +26,16 @@ sections:
       url: https://go.gov.sg/web-survey
       image: /images/survey_sep24.jpg
       alt: Readership Survey
+  - infopic:
+      title: How the CPF Scheme Came to Be
+      subtitle: Governance
+      id: infopic
+      description: If things had turned out differently, Singapore would now be using
+        a national pension scheme instead of the Central Provident Fund scheme.
+      button: A RETIREMENT NEST EGG
+      url: /vol-20/issue-4/jan-mar-2025/central-provident-fund-cpf/
+      image: /images/Vol 20 Issue 4/CPF/CPF_Jurong_topic.jpg
+      alt: CPF Scheme
   - infopic:
       title: Thai Buddhist Temple Wat Ananda
       subtitle: BiblioAsia Reels
