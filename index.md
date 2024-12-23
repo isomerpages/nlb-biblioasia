@@ -1114,5 +1114,5 @@ sections:
       button: A RETIREMENT NEST EGG
       url: /vol-20/issue-4/jan-mar-2025/central-provident-fund-cpf/
       image: /images/Vol 20 Issue 4/CPF/CPF_Jurong_topic.jpg
-      alt: Image alt text
+      alt: CPF Scheme
 ---
