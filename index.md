@@ -27,6 +27,16 @@ sections:
       image: /images/survey_sep24.jpg
       alt: Readership Survey
   - infopic:
+      title: How the CPF Scheme Came to Be
+      subtitle: Governance
+      id: infopic
+      description: If things had turned out differently, Singapore would now be using
+        a national pension scheme instead of the Central Provident Fund scheme.
+      button: A RETIREMENT NEST EGG
+      url: /vol-20/issue-4/jan-mar-2025/central-provident-fund-cpf/
+      image: /images/Vol 20 Issue 4/CPF/CPF_Jurong_topic.jpg
+      alt: CPF Scheme
+  - infopic:
       title: Thai Buddhist Temple Wat Ananda
       subtitle: BiblioAsia Reels
       id: infopic
@@ -1105,14 +1115,4 @@ sections:
       image: /images/Vol 19 Issue 4/An Interview with Rachel Heng/book
         cover_homepage3.jpg
       alt: The Great Reclamation
-  - infopic:
-      title: How the CPF Scheme Came to Be
-      subtitle: Governance
-      id: infopic
-      description: If things had turned out differently, Singapore would now be using
-        a national pension scheme instead of the Central Provident Fund scheme.
-      button: A RETIREMENT NEST EGG
-      url: /vol-20/issue-4/jan-mar-2025/central-provident-fund-cpf/
-      image: /images/Vol 20 Issue 4/CPF/CPF_Jurong_topic.jpg
-      alt: CPF Scheme
 ---
