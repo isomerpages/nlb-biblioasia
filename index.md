@@ -1123,5 +1123,5 @@ sections:
       button: MORE VOICES IN PARLIAMENT
       url: /vol-20/issue-4/jan-mar-2025/nominated-member-of-parliament-nmp/
       image: /images/Vol 20 Issue 4/Independent and Non Partisan/NMPs_topic.jpg
-      alt: NMP
+      alt: Nominated Member of Parliament
 ---
