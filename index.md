@@ -9,14 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-17/issue-3/oct-dec-2021/stjosephchurch/
-      button: "Making the Invisible Visible: Restoring the Statues of St Joseph’s
-        Church on Victoria Street"
+      url: /places-and-buildings/2024/8/eu-tong-sen-villa/
+      button: Eu Tong Sen’s “Pearl Under the Burning Tropical Sun”
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/vol-17-issue-3/st-joseph/St_Joseph_heroimagev2.png
+      background: /images/Online Only Articles/EU Villa/EU_villa_heroimagev2.png
   - infopic:
       title: Have Your Say
       subtitle: Readership Survey
@@ -26,6 +25,16 @@ sections:
       url: https://go.gov.sg/web-survey
       image: /images/survey_sep24.jpg
       alt: Readership Survey
+  - infopic:
+      title: The Nominated Member of Parliament Scheme
+      subtitle: Governance
+      id: infopic
+      description: The NMP Scheme was set up to present more opportunities for
+        Singaporeans to participate in politics.
+      button: MORE VOICES IN PARLIAMENT
+      url: /vol-20/issue-4/jan-mar-2025/nominated-member-of-parliament-nmp/
+      image: /images/Vol 20 Issue 4/Independent and Non Partisan/NMPs_topic.jpg
+      alt: Nominated Member of Parliament
   - infopic:
       title: How the CPF Scheme Came to Be
       subtitle: Governance
