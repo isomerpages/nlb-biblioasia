@@ -26,6 +26,16 @@ sections:
       image: /images/survey_sep24.jpg
       alt: Readership Survey
   - infopic:
+      title: The Nominated Member of Parliament Scheme
+      subtitle: Governance
+      id: infopic
+      description: The NMP Scheme was set up to present more opportunities for
+        Singaporeans to participate in politics.
+      button: MORE VOICES IN PARLIAMENT
+      url: /vol-20/issue-4/jan-mar-2025/nominated-member-of-parliament-nmp/
+      image: /images/Vol 20 Issue 4/Independent and Non Partisan/NMPs_topic.jpg
+      alt: Nominated Member of Parliament
+  - infopic:
       title: How the CPF Scheme Came to Be
       subtitle: Governance
       id: infopic
@@ -1114,14 +1124,4 @@ sections:
       image: /images/Vol 19 Issue 4/An Interview with Rachel Heng/book
         cover_homepage3.jpg
       alt: The Great Reclamation
-  - infopic:
-      title: The Nominated Member of Parliament Scheme
-      subtitle: Governance
-      id: infopic
-      description: The NMP Scheme was set up to present more opportunities for
-        Singaporeans to participate in politics.
-      button: MORE VOICES IN PARLIAMENT
-      url: /vol-20/issue-4/jan-mar-2025/nominated-member-of-parliament-nmp/
-      image: /images/Vol 20 Issue 4/Independent and Non Partisan/NMPs_topic.jpg
-      alt: Nominated Member of Parliament
 ---
