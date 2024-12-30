@@ -9,14 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-17/issue-3/oct-dec-2021/stjosephchurch/
-      button: "Making the Invisible Visible: Restoring the Statues of St Joseph’s
-        Church on Victoria Street"
+      url: /places-and-buildings/2024/8/eu-tong-sen-villa/
+      button: Eu Tong Sen’s “Pearl Under the Burning Tropical Sun”
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/vol-17-issue-3/st-joseph/St_Joseph_heroimagev2.png
+      background: /images/Online Only Articles/EU Villa/EU_villa_heroimagev2.png
   - infopic:
       title: Have Your Say
       subtitle: Readership Survey
