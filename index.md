@@ -17,15 +17,6 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Online Only Articles/EU Villa/EU_villa_heroimagev2.png
   - infopic:
-      title: Have Your Say
-      subtitle: Readership Survey
-      id: infopic
-      description: Help us improve BiblioAsia. Take part in our readership survey!
-      button: Count Me In
-      url: https://go.gov.sg/web-survey
-      image: /images/survey_sep24.jpg
-      alt: Readership Survey
-  - infopic:
       title: The Nominated Member of Parliament Scheme
       subtitle: Governance
       id: infopic
