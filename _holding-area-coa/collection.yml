@@ -1,0 +1,4 @@
+collections:
+  holding-area-coa:
+    output: true
+    order: []
