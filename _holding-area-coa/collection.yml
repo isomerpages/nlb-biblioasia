@@ -1,4 +1,5 @@
 collections:
   holding-area-coa:
     output: true
-    order: []
+    order:
+      - Chapters of Asia 2024.md
