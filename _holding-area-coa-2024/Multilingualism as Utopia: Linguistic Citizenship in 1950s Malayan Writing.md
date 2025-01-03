@@ -33,6 +33,204 @@ Second, in a matter of years, the Overseas-Chinese School had all but disappeare
 
 And Clause 3(1) in the second set of Regulations uses a parallel wording in respect of the sale and circulation of material deemed politically sensitive. For the purposes of both Regulations, literary books and magazines from China would have counted as “prejudicial publications” that could potentially indoctrinate values detrimental to colonial interests. The upshot of the implementation of these Regulations was the creation of a vacuum in Chinese-language literature,[\[4\]](#_ftn4) compelling Malayan-Chinese writers to “seek their genius in themselves”.[\[5\]](#_ftn5) Hence the rise of Chinese-language writing speaks to locale-specific sensibilities in Malaya, partaking “a consolidation of localisation efforts to become ‘more Nanyang’.”[\[6\]](#_ftn6)
 
+#### **Vernacular Voices in Chinese-Language Fiction**
+
+   
+
+It is against this ideological background that a linguistic phenomenon of interest emerged among a new generation of Malayan-Chinese writers in the 1950s, namely the representation of Chinese dialects, and to a lesser extent colloquial Malay (also known as Bazaar Malay), in fictional works that are predominantly composed in standard written Chinese.
+
+One of the most prolific writers in this period who put this technique into practice was Miao Xiu (1920–80). Born in Singapore, Miao Xiu participated in the Great Debate, contributing an article in _Sin Chew Jit Poh_ on 28 February 1948 under the nom de plume Wen Renjun. In his article, Miao Xiu clearly expressed his support for the Malayan-Chinese Literature School.[\[1\]](#_ftn1) It is thus no surprise that his writing offers abundant traces of Chinese dialects and colloquial expressions (including vulgarities), for the use of place-based idiolects is one of the principal means through which the locale-specificity of Malayan Chinese literature was manifested. The expletive 丟那媽 (_diu na ma_, a condensed transliteration of a Cantonese expletive), for instance, often appears in the utterances of Miao Xiu’s working-class characters in his fiction and features as one of the “signature” terms in his linguistic repertoire.
+
+   
+
+Miao Xiu was not alone in this enterprise. He was joined by several contemporaries, notably Zhao Rong (1920–88), who also contributed to the Great Debate, under the pseudonym Xi Qiao. A strong advocate of the uniqueness of Malayan Chinese literature, Zhao published two articles in the _Xing Chen_ supplement of _Sin Chew Jit Poh_ in early 1948, one on 26 January[\[1\]](#_ftn1) and the other on 16 February.[\[2\]](#_ftn2) Like Miao Xiu, Zhao Rong was relatively liberal in his linguistic use from the vernaculars. A spectacular example is his 1958 short story “Old Stone Mountain”,[\[3\]](#_ftn3) the plot driven primarily by Cantonese-based dialogues, as represented by Cantonese characters that are graphically similar to but vary from standard Chinese characters. Here the overall proportion of Cantonese used is so high that readers unfamiliar with the Cantonese script and sound would conceivably have difficulty understanding the story based on the narrative segments (written in standard Chinese characters) alone.
+
+By and large, however, the dialect segments in Chinese fiction from this period appear in dialogues, in apparent mimicry of the parole of ordinary folks on the streets, although traces of dialects occasionally found their way into the narrative. The most frequently featured dialect is Cantonese. Cantonese was one of the most widely spoken dialects among the ethnic Chinese in Malaya. Miao Xiu’s family, for instance, was from Guangdong (Canton) and so he was almost certainly conversant in Cantonese.
+
+Another reason might be that Cantonese is more readily transmutable into writing as it has its own unique script corresponding to its sounds, used alongside standard characters. Hokkien, in contrast, is relatively less amenable to written representation as a good proportion of its lexis has no graphic representation. Cantonese words often appear in sprinklings, although it was not uncommon for entire stretches of dialogue to be couched in Cantonese, particularly when the characters are from the working class (in contrast, characters who are intellectuals generally did not converse in dialect). In addition to Cantonese, Hokkien and colloquial Malay also comes up occasionally, albeit in smaller doses, hence contributing to the rich linguistic texture of the literary prose.
+
+To take an example from Miao Xiu’s well-known novella _Under Singapore’s Roof_ (1951), consider the following sentence:
+
+這鬼是「**七****0****七**」的「**草鞋**」（私會黨的總務），每逢禮拜晚就來黑巷向她賽賽討「**包爺費**」，為了免得別的私會黨的三星**臭卡**「**卡周**」（馬來語：欺凌），她賽賽不得不忍痛付給這鬼一筆保護費；可是這**臭卡**一開口就是**一巴掌**（**五扣**錢），講到口乾才減到**三扣**。[\[4\]](#_ftn4)
+
+Here we see a succession of terms (in bold) that would surely baffle the non-local Chinese reader and, for that matter, even a contemporary Chinese reader with no access to Singapore’s sociocultural context in the 1940s and 1950s. These include the name of a triad society (七0七, or “707”), the informal term for someone who runs errands for triad societies (草鞋, literally, “straw sandal”), the slang for “protection money” (包爺費, literally, “fee for reserving the master”), the Hokkien term for runner (臭卡, literally “smelly leg”); the Malay term for “bully”(卡周 or _kacau_), the colloquial word for “five dollars” (**一**巴掌**,** literally “one slap”), and the term 扣 in Hokkien/Teochew for counting cash.
+
+        
+On occasion, Cantonese and Hokkien are mingled within a single utterance, increasing its heterogeneity. In some scenes characters interact using different dialects in alternation, for example, when one person speaks in Cantonese and the interlocutor responds in Hokkien. This technique of code-switching creates a complex weave of different voices on the page, even though it also produces a contrived linguistic style peculiar to the literary prose of this period.
+
+English words figure sparingly in Chinese-transliterated form; and as with Chinese dialects and colloquial Malay, they are always marked by scare quotes to signal that the Chinese characters representing the English sounds are not to be read literally. To cite an example from Zhao Rong’s novella _In Love with the Sea_, the narrator says early in the story 尤其惹他厭惡的是那些旅客們，都穿上厚厚的「**遮結**」和絨衫 (“he particularly dislikes those tourists who put on thick jackets and velvet tops”). The two characters 遮結do not form a Chinese word but rather translates the syllabic sounds of the word _jacket_. Note that there is also a Cantonese inflection here: the two characters need to be pronounced in Cantonese to derive a sound akin to _jacket_; reading them in Mandarin, for instance, would produce an incomprehensible word.
+
+Annotations are often provided for terms transliterated from Chinese dialects or colloquial Malay. This suggests that fiction writers like Miao Xiu were not taking for granted that their readers would understand the non-Mandarin terms without assistance. For although Chinese dialects and colloquial Malay must have been readily heard on the streets during the 1950s, their representation in writing was a marked practice.
+
+There is evidence to indicate that some readers of the day might have been alienated by the generous sprinkling of Chinese dialects words, in particular Cantonese. In a forum article published in _Nanyang Siang Pau_ on 7 July 1954, one reader expressed frustration with a story written “entirely in Cantonese” published in the paper. The reader complained that Hokkien speakers like himself struggle to understand the plot and maintained that literary authors should write in standard Chinese.[\[1\]](#_ftn1) Hence, while the use of dialects (and colloquial Malay) in Chinese writing instantiated the “uniqueness of Malayan Chinese literature”, it was ultimately still experimental in nature.
+
+#### **“Champurisation”: EngMalChin and Malayan English Poetry**
+
+      
+
+Chinese writers were not alone in experimenting with the linguistic medium of the literary arts. A similar development was taking place in Malaya during the same period among local writers and intellectuals working in English. Amid the rise of Malayan consciousness, a group of young students at the University of Malaya came up with the idea of amalgamating the various languages spoken in the region to create a synthetic medium for English-language poetry. Most prominent among these young advocates was Wang Gungwu (1930−), who would later become one of the most influential historians of Chinese diaspora. _Pulse_, a volume of Wang’s poems published in 1950, is today widely considered the first collection of English poetry by a Malayan writer.
+
+The initiative championed by Wang and other kindred spirits was dubbed EngMalChin. It was an ambitious attempt to establish a new literary register based on English but specifically Malayan in constitution. A portmanteau conflating the first syllable of the words English, Malay and Chinese, EngMalChin “alludes to the way in which the English of a poem made room for Malay and Chinese words and phrases”.[\[1\]](#_ftn1) Paradigmatic of this linguistic style is Wang’s 1950 poem “Ahmad”, in particular its last two stanzas featuring codeswitching into Malay:
+
+His wife with child again.
+
+Three times had he fasted,
+
+And puasa was coming round once more.
+
+One hundred to start with – a good scheme;
+
+Quarters too,
+
+With a room for his two little girls.
+
+Kampong Batu was dirty!
+
+Thoughts of Camford fading,
+
+Contentment creeping in.
+
+Allah has been kind;
+
+Orang puteh has been kind.
+
+Only yesterday his brother said,
+
+“Can get lagi satu wife lah!”[\[2\]](#_ftn2)
+
+As far as the notion of English poetry is concerned, the presence of Malay – _puasa_ (Muslim fasting period), _kampong_ (village), Allah (God in Islam), _orang puteh_ (white men) and “Can get _lagi satu_ wife lah!” (Can get another wife!) – would have been highly unusual for Wang’s readers at the time. Another example of Wang’s writing that highlights EngMalChin is “Three Faces of Night”, which explores different facets of life in Malayan Singapore. One of these is the familiar scene of roadside hawkers:
+
+The crowds wait their share of the steaming fun
+
+At the kuey teow stalls of the kerosene glare
+
+And in the shadowed, rubbish lined malls,
+
+The whisperings have just begun.
+
+By the drains, sandalled squats
+
+Lick their durian seeds;
+
+Near the lanes the night-soil workers
+
+Wipe their stinking beads;
+
+And urchins at the car park do their good deeds.
+
+The herbal cool-tea colours the bowls;
+
+Mango skins attract the flies.
+
+Oh watch the chee-kee woman cense the skies,
+
+Crying,
+
+“This is our progressive Paradise.”[\[3\]](#_ftn3)
+
+Apart from obvious evidence of codemixing like _kuey teow_ (Chinese rice noodles), the poem experiments with the intersections of English and Chinese. “Fun” in “their share of the steaming fun” cleverly puns the English word for delight and the sound of the Cantonese word for “rice noodles”. Similarly, “chee-kee” in “watch the chee-kee woman” gives rise to two readings: while calling up the word “cheeky”, it transliterates a Chinese dialect term possibly referencing the incense sticks used in Chinese folk rituals. These double-entendres capture the palimpsestic sensibilities in colonial Malaya at a time when the lingering British influence and emergent local consciousness interfaced as co-existing social forces-in-tension.
+
+Wang also has a penchant for coming up with his own hyphenated compounds in English, as in “cool-tea”, calqued from the Chinese words for “herbal tea”. Uncanny terms such as these give English words a Malayan inflection, “highlight\[ing\] a simultaneous normalisation of Chinese dialects in daily parlance, but also a sense of linguistic estrangement”.[\[4\]](#_ftn4) In modern sociolinguistic parlance, such new morphologies would be described as a translanguaging practice, where translanguaging refers to the creative and critical use of diverse resources (both linguistic and non-linguistic) in multilingual communication, pointing to a creative hybridization of identities.[\[5\]](#_ftn5)
+
+Therein lies the motivation for EngMalChin, specifically designed to invoke “plural imaginings of Malaya”,[\[6\]](#_ftn6) to promote a multivocality that simultaneously dwells within and pushes against the colonial imaginary. From a purely literary standpoint the results are mixed; while the mixing of vernaculars gives rise to a grassroots aesthetic, there is a certain dissonance in EngMalChin formulations that render them a tad contrived. What is pertinent, however, is the language ideological thrust of the campaign. As Philip Holden comments with regard to Wang’s experiments in _Pulse_,  
+
+“If some of the phrasing at times seems awkward, and the references obscure, we should remember that _Pulse_ is one of the first efforts to produce a distinctively Malayan voice in English-language poetry. As such, the poems collected in the volume attempts to wrest English-language poetry from ‘the implicit body of assumptions to which \[it\] was attached, its aesthetic and social values, the formal and historically limited constraints of genre’ \[Ashcroft et. al. 10-11\] and put it to use in a new context.”[\[7\]](#_ftn7)
+
+    
+
+Whereas the mixing of languages, as demonstrated in “Ahmad” and “Three Faces of Night” would be most unextraordinary today, in the postwar decade, it was a refreshing and radical idea. In a 1958 essay reflecting the spirit of EngMalChin, Wang reminisced that he and other student poets were “self-consciously Malayan” and were invested in the distinctiveness of English as it was used in Malaya: “What floored us was the illegitimate mixing of various languages; our stock example of this was ‘Itu stamp ta’ ada gum ta’ boleh stick-lah’ \[meaning ‘the stamp has no glue so it can’t stick’\]. What can we make of that? We could not even decide whether that was Malay with a few English words or English with a Malay syntax”.[\[1\]](#_ftn1)
+
+EngMalChin therefore thrived on an ambivalence that came from the fusion of different tongues. It branded itself as a linguistic signature that distinguished Malayan English from British English. In a 1950 article published in the journal _Young Malayans_, Beda Lim, a contemporary of Wang’s, described Malayan English as a “champurised language” –  “champurised” taking reference from the Malay word _champur,_ meaning “to mix”, creatively inflected into a past perfect form as if it were an English word. In making a case for Malayan English as a “solution for Malaya”, Lim strongly advocates for the idea of a register of English attuned to local “speech rhythms”. Lim’s argument, iconoclastic in 1950s Malaya, is worth quoting at length:
+
+“What can be done in Malaya is an ironing out of the different speech rhythms into a standard speech. The conditions of living under which we have lived from generation to generation are quite different from those in England. Our speech rhythms must therefore be different... Although we use English words, the way we juxtapose them must necessarily be different from the way the English people do it. These are facts that we have to face squarely... Champurisation should not be frowned upon but rather should be regarded as a healthy development. Some local words will stick and others will fall off. Time will decide... The creative writer must live in a climate of spoken language, and as long as the climate is not formulated his medium will be one that is purely experimental and will eventually die out. When the standard Malayan speech has been fixed to some degree it will be possible for creative writing in Malaya to get out of its experimental stage and get down to business.”[\[2\]](#_ftn2)
+
+The term EngMalChin does not appear in Lim’s article, but the word _champur_ in its various forms (“champurised”, “champurisation”) itself already embodies the multilingual ethos of EngMalChin. The term is, therefore, metalinguistic in this usage: it is an EngMalChin word about the nature of EngMalChin. And while EngMalChin manifests primarily in poetry, it was not purely or even primarily a literary or aesthetic project; its sociopolitical agenda was clear from the outset. As Wang recalled: “We persisted, however, not so much for the art of poetry as for the ideal of the new Malayan consciousness. The emphasis in our search for ‘Malayan poetry’ was in the word, ‘Malayan’”.[\[3\]](#_ftn3)
+
+ 
+
+Lim, while championing the cause of a Malayan brand of English, inadvertently foreshadowed EngMalChin’s destiny: the movement did eventually die out, as Lim had portended. Before the close of the decade, it was already clear that EngMalChin had become a floundered mission. There was no “get\[ting\] down to business”, as Lim would have hoped for. In his 1958 essay Wang conceded that there was an inherent paradox of seeking a Malayan identity through an English-language matrix: “the most serious error was... the contradiction between our search for Malayan poetry and our decision to base that search on the English verse forms”.[\[1\]](#_ftn1)
+
+The assumption here is that Malayan and English are incongruous, even oppositional in a colonial context. Yet language and identity are not coterminous. The apparent contradiction identified by Wang is inherent in other discursive instantiations of locale-based identity. Attesting to this are well-known examples of postcolonial literature in English – think Nigerian writer Chinua Achebe (1930–2013) and Kenyan writer Ngũgĩ wa Thiong’o (1938–), for instance – and the vibrant varieties of World Englishes (in the plural) spawned throughout the former Anglo-American colonies and beyond, say, Nigerian English, Caribbean English, and so forth. In this vein, one might argue against Wang to the effect that there is no necessary tension in searching for a Malayan identity through English-language writing.
+
+To my mind, the visions of EngMalChin were a little too idealistic to start with. It endeavoured to cross the registers of speech and writing, as Beda Lim envisioned, “\[t\]he creative writer must live in a climate of spoken language. . . When the standard Malayan speech has been fixed to some degree it will be possible for creative writing in Malaya to get out of its experimental stage and get down to business”.[\[2\]](#_ftn2) But the young minds behind _The New Cauldron_, a literary magazine in the 1950s edited by students, including Wang, from the University of Malaya, were classically trained in English literature. This is evidenced by many of the poems published by Wang and his contemporaries, which were reminiscent of the work of canonical writers à la T.S. Eliot.
+
+    
+
+[_The New Cauldron_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4551118) was a literary journal edited by students at the University of Malaya. _Published by Raffles Society, University of Malaya, 1952. (From National Library, Singapore, call no. RCLOS 052 NC)_
+
+For these persons to embrace the practice of code-mixing in poetry would have been tantamount to subverting the monumental tradition that undergirded their English-language education, a move that would hardly be easy to execute at a time when Malaya was still couching beneath the shadow of imperialism.
+
+The crucial reason for EngMalChin’s failure, however, was its lack of exemplification. In contrast to the practice of using dialects in Chinese-language fiction discussed earlier, EngMalChin was very much a theoretical enterprise without a substantial empirical basis.[\[1\]](#_ftn1) There were just too few authors actually experimenting with EngMalChin to render it meaningful, much less sustain it for a sufficient period to make an impact on literature and society.
+
+The primary ground where EngMalChin was practised was _The New Cauldron_. But a survey of all the issues of the magazine published in the decade shows scant evidence of EngMalChin. Save for a small handful of Wang’s poems like “Ahmad”, the works published in _The New Cauldron_ were hardly experimental in the sense envisioned by Lim. In other words, what Lim called _champurisation_ very much subsisted on the level of discourse, and relatively briefly. Because it never really took off in practice, EngMalChin remained very much an aspirational notion.
+
+
+
+  
+
+* * *
+
+[\[1\]](#_ftnref1) The author is grateful to Philip Holden for raising this point.
+
+  
+
+* * *
+
+[\[1\]](#_ftnref1) Wang, “[Trial and Error](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200108967)”, 6.
+
+[\[2\]](#_ftnref2) Beda Lim, “[Malayan English](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5055850)”, 202.
+
+  
+
+* * *
+
+[\[1\]](#_ftnref1) Wang Gungwu, “Trial and Error in Malayan Poetry,” [_Malayan Undergrad_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200108967) 9, no. 5 (1958): 6. (From PublicationSG)
+
+[\[2\]](#_ftnref2) Beda Lim, “Malayan English: A ‘Champurised’ Language!” [_Young Malayans_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5055850) 6, no. 91 (5 July 1950): 202. (From National Library, Singapore, call no. RDTYK 079.595 YM)
+
+[\[3\]](#_ftnref3) Wang, “[Trial and Error](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200108967)”, 6.
+
+  
+
+* * *
+
+[\[1\]](#_ftnref1) Rajeev S. Patke and Philip Holden, [_The Routledge Concise History of Southeast Asian Writing in English_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13215147) (London: Routledge, 2010), 51 (From National Library, Singapore, call no. RSING 895.9 PAT)
+
+[\[2\]](#_ftnref2) Wang Gungwu, “Ahmad,” Pulau Ujong, accessed 27 October 2023, [https://www.pulauujong.org/8-2/ahmad/](https://www.pulauujong.org/8-2/ahmad/). Originally published in Wang Gungwu, [_Pulse_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5030873) (Singapore: B. Lim, 1950). (From National Library, Singapore, call no. RSING 828.99595 WAN)
+
+[\[3\]](#_ftnref3) Wang Gungwu, “Three Faces of Night,” Pulau Ujong, accessed 27 October 2023, [https://www.pulauujong.org/8-2/three-faces-of-night/](https://www.pulauujong.org/8-2/three-faces-of-night/).
+
+[\[4\]](#_ftnref4) Jonathan Chan, “Critical Introduction”, poetry.sg, published 11 June 2021, [http://www.poetry.sg/wang-gungwu-intro](http://www.poetry.sg/wang-gungwu-intro).
+
+[\[5\]](#_ftnref5) Li Wei, “Translanguaging as a Practical Theory of Language”, _Applied Linguistics_ 39 (2018): 9–30.
+
+[\[6\]](#_ftnref6) Brandon Liew, “Engmalchin and the Plural Imaginings of Malaysia; Or, the ‘Arty-Crafty Dodgers of Reality’,” _Exclamat!on: An Interdisciplinary Journal_, issue 2 (2018): 65.
+
+[\[7\]](#_ftnref7) Philip Holden, Introduction to “Wang Gungwu, _Pulse_,” accessed 6 May 2024, [https://www.pulauujong.org/8-2/](https://www.pulauujong.org/8-2/).
+  
+
+* * *
+
+[_**\[1\]**_](#_ftnref1) Li Wen 李文_,_ “Guanyu fangyan wenxue,” [關於方言文學](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19540707-1.2.35.2.1) \[About dialect literature\], _南洋商报_ _Nanyang Siang Pau,_ 7 July 1954, 8. (From NewspaperSG)_._ This point was mentioned by former Lee Kong Chian Research Fellow Seah Cheng Ta in his online presentation “[Singapore Chinese Literature and Literary Supplements in the 1950s](https://www.youtube.com/watch?v=_zD0ne1uupE),” 26 March 2021, video, 26:27, (From NLB Singapore YouTube channel).
+
+  
+
+* * *
+
+[\[1\]](#_ftnref1) Xi Qiao (Zhao Rong), “A Concise Discussion of Immigrant Literature and Art,” _Sin Chew Jit Poh_ (Xing Chen supplement), 26 January 1948. (National Library, Singapore Microfilm, reel no. A01597329C).
+
+[\[2\]](#_ftnref2) Xi Qiao (Zhao Rong), “A Resolution of the Problem,” _Sin Chew Jit Poh_ (Xing Chen supplement), 16 February 1948. (National Library, Singapore Microfilm, reel no. A01597329C).
+
+[\[3\]](#_ftnref3) Zhao Rong, 古老石山 (Old Stone Mountain), [芭洋上](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12716354)  (On the Sea of Villages), (Singapore:  Qingnian shuju, 1958), 43–52. (From National Library, Singapore, call no. Chinese 813.4 ZR)
+
+[\[4\]](#_ftnref4) Emphasis added. Miao Xiu, _Xinjiapo wuding xia_ [新加坡屋頂下](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13985821) \[Under Singapore’s roof\] (Singapore: Nanyang Printing Press, 1951,) 6. (From National Library, Singapore, call no. Chinese C813.4 MX)
+
+  
+
+* * *
+
+[\[1\]](#_ftnref1) Wen Renjun (Miao Xiu), “On Overseas Chinese Consciousness and the Uniqueness of Malayan Chinese,” _Sin Chew Jit Poh_, 28 February 1948. (From National Library, Singapore Microfilm, reel no. A01597329C)
+
 
 
   
