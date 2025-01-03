@@ -164,6 +164,44 @@ The crucial reason for EngMalChin’s failure, however, was its lack of exemplif
 
 The primary ground where EngMalChin was practised was _The New Cauldron_. But a survey of all the issues of the magazine published in the decade shows scant evidence of EngMalChin. Save for a small handful of Wang’s poems like “Ahmad”, the works published in _The New Cauldron_ were hardly experimental in the sense envisioned by Lim. In other words, what Lim called _champurisation_ very much subsisted on the level of discourse, and relatively briefly. Because it never really took off in practice, EngMalChin remained very much an aspirational notion.
 
+#### **Rearticulating Identity: The Sinophone and Anglophone as Expressions of Linguistic Citizenship**
+        
+
+It is no coincidence that the Chinese-language and English-language writers in Malaya experimented with the medium of expression in their respective literary spheres within the same period, engendering the possibility of a distinctive multilingual voice, or multivocality, for Malayan writing. This is especially so because, as Han Suyin observed, there was little communication between the two communities.[\[1\]](#_ftn1) It was the effervescent ambience of Malayan society in the 1950s that encouraged linguistic experimentations with a view to fostering a distinct sense of locality in writing.
+
+In effect, Chinese-language and English-language writing were pivoting toward what may be called Sinophone and Anglophone writing. The latter two descriptive labels bear a different connotation than their conventional dictionary-level meanings. In comparative literary theory, the term Sinophone is not co-extensive with “Chinese-speaking” or “written in Chinese”. Rather, it gestures toward a _Chineseness-beyond-China_ with a view to
+
+“disrupt\[ing\] the chain of equivalence established, since the rise of nation-states, among language, culture, ethnicity, and nationality and \[explores\] the protean, kaleidoscopic, creative, and overlapping margins of China and Chineseness, America and Americanness, Malaysia and Malaysianness, Taiwan and Taiwanness, and so on, by a consideration of specific, local Sinophone texts, cultures, and practices produced in and from these margins.”[\[2\]](#_ftn2)
+
+Hence, to invoke the _Sinophone_ (with a capital S) is to say something more than speaking or writing in Chinese (with mainland China as the point of reference), which might be described as the _sinophone_ (with a lowercase s). It is to signal a peripheral as well as politicised perspective on the act of enunciating Chinese, not necessarily – indeed, very often not – in its standardised forms. In the same vein, the Anglophone might be posited as an identity construct exceeding the usual sense of “English-speaking” or “written in English” (the “anglophone”, with Britain as the point of reference) to encompasses myriad Englishes. Applying this to the case at hand, the Malayan writers and intellectuals of the 1950s rearticulated – the phonetic connection here is significant – Chinese and English into locally-inflected voices. These voices, namely the Sinophone and the Anglophone, were decidedly heterogeneous, with local writers breaking with their respective literary sources to invent an “adulterated” discourse constituted by the plethora of tongues in Malaya.
+
+To use dialects in Chinese-language fiction, otherwise written in the standard vernacular, is to perform marginal identities by way of the Sinophone. Similarly, to propose a new method of writing English poetry comprising a cocktail of English, Malay, and Chinese is to espouse an alternative poetics around the Anglophone refracted through the lens of Malaya.
+
+It is through this thrown-togetherness of tongues that writers in the 1950s jointly articulated an imagined utopia in Malaya. Multivocal writing, as it were, is not simply about language and literature; it is the symptom of a burgeoning _linguistic citizenship_. Linguistic citizenship refers to a condition where “representing languages in particular ways becomes crucial to, becomes the very dynamic through which, acts of agency and participation, and reconceptualizations of self in matrices of power occur”.[\[3\]](#_ftn3)
+
+It is a richly political concept designed to capture the idea that language falls firmly within citizenship discourses, and that it is, in fact, the very medium whereby politics is enacted and performed. . . an important dimension of the political is the potential for political action to bring about alternative worlds, what \[Ben Anderson\] has referred to as the “utopian surplus” in the notion of citizenship.[\[4\]](#_ftn4)
+
+Where national identity is under contention, as it was in 1950s Malaya, language conjoins with citizenship as “an acknowledgement of the deeply entangled dependencies between language and politics”; here, language may be subjected to alternative construal to “open up for new political scenographies”, with a view to advocating for “a more encompassing and inclusive forms of citizenship agency and participation”.[\[5\]](#_ftn5) This insight on the intersection of language and citizenship allows us to understand how, as a modality of expression, literary composition is tied to the fervent sociopolitics of 1950s Malaya.
+
+In other words, the experimental impulse of Malayan writers toward multivocal writing did not come out of the blue. Rather, such an impulse speaks to negotiations of identity in the midst and immediate aftermath of Malaya’s geopolitical transition from colonialism to nationalism. Through their experimentation with plural voices, writers in both Chinese and English endeavoured to “capture the utopic experience of thinking language otherwise”,[\[6\]](#_ftn6) hence articulating Sinophone and Anglophone (in uppercase) sensibilities out of sinophone and anglophone (in lowercase) literary traditions respectively.
+
+In other words, multilingualism embodies a utopian vision. Writers, on this view, were not ivory-tower purveyors of literary aesthetics, but engaged agents of sociopolitical change; and, as a corollary, language is as much (if not more) a vehicle for identity work as it is a tool for composition. In signalling resistance against a monolithic imagining of Malaya, literary multivocality underscored codemixing, which connoted heterogeneous identity formations in the wake of postcolonialism. Linguistic citizenship as consummated in experimental writing thus precedes and lays the conceptual grounds for the making of a geopolitical citizenship for Malaya, which was realised toward the end of the 1950s.
+
+  
+
+* * *
+
+[\[1\]](#_ftnref1) Han, “Outline of Malayan-Chinese Literature”, 16.
+
+[\[2\]](#_ftnref2) Shih Shu-mei,“The Concept of the Sinophone,” _PMLA_ 126, no. 3 (2011): 710–11.
+
+[\[3\]](#_ftnref3) Christopher Stroud and Quentin Williams, “Multilingualism as Utopia: Fashioning Non-Racial Selves,” _AILA Review_, issue 30 (2017): 185.
+
+[\[4\]](#_ftnref4) Christopher Stroud, “Linguistic Citizenship as Utopia,” _Multilingual Margins_ 2, no. 2 (2015): 23.
+
+[\[5\]](#_ftnref5) Stroud, “Linguistic Citizenship as Utopia,” 24.
+
+[\[6\]](#_ftnref6) Stroud and Williams, “Multilingualism as Utopia,” 186.
 
 
   
