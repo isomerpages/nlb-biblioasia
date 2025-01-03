@@ -42,7 +42,7 @@ It is against this ideological background that a linguistic phenomenon of intere
 One of the most prolific writers in this period who put this technique into practice was Miao Xiu (1920–80). Born in Singapore, Miao Xiu participated in the Great Debate, contributing an article in _Sin Chew Jit Poh_ on 28 February 1948 under the nom de plume Wen Renjun. In his article, Miao Xiu clearly expressed his support for the Malayan-Chinese Literature School.[\[1\]](#_ftn1) It is thus no surprise that his writing offers abundant traces of Chinese dialects and colloquial expressions (including vulgarities), for the use of place-based idiolects is one of the principal means through which the locale-specificity of Malayan Chinese literature was manifested. The expletive 丟那媽 (_diu na ma_, a condensed transliteration of a Cantonese expletive), for instance, often appears in the utterances of Miao Xiu’s working-class characters in his fiction and features as one of the “signature” terms in his linguistic repertoire.
 
 
-<img src="/images/COA%202024/Multilingualism%20as%20Utopia/pg_270_Aug11005_crop.jpg" style="width:80%;">
+<img src="/images/COA%202024/Multilingualism%20as%20Utopia/pg_270_Aug11005_crop.jpg" style="width:100%;">
 
 <div style="background-color: white;">In this article by Miao Xiu, he explores Anglophone and Sinophone literary writing in 1950s Malaya, with a focus on how the phenomenon of language mixing arose in response to the socio-political exigencies of the period. It reveals the inextricable relationship between language, literature&nbsp;and society. <i>Reproduced from《論__僑民意識與馬華獨特性》,《星洲日報》\[Xing Zhou Re Bao\]，28 February 1948. Microfilm no. A01597333I.(From National Library, Singapore)</i></div>
    
@@ -59,8 +59,7 @@ To take an example from Miao Xiu’s well-known novella _Under Singapore’s Roo
 
 Here we see a succession of terms (in bold) that would surely baffle the non-local Chinese reader and, for that matter, even a contemporary Chinese reader with no access to Singapore’s sociocultural context in the 1940s and 1950s. These include the name of a triad society (七0七, or “707”), the informal term for someone who runs errands for triad societies (草鞋, literally, “straw sandal”), the slang for “protection money” (包爺費, literally, “fee for reserving the master”), the Hokkien term for runner (臭卡, literally “smelly leg”); the Malay term for “bully”(卡周 or _kacau_), the colloquial word for “five dollars” (**一**巴掌**,** literally “one slap”), and the term 扣 in Hokkien/Teochew for counting cash.
 
-
-<img src="/images/COA%202024/Multilingualism%20as%20Utopia/IMG_4118_cp.jpg">
+<img src="/images/COA%202024/Multilingualism%20as%20Utopia/IMG_4118_cp.jpg" style="width: 650px; height: 400px;">
 
 <div style="background-color: white;">Cover of《新加坡屋顶下》<i>(Xinjiapo Wuding Xia; Under Singapore's Roof) by Miao Xiu (1951). (From National Library, Singapore, call no. Chinese C813.4 MX).</i></div>
 
@@ -164,9 +163,9 @@ The assumption here is that Malayan and English are incongruous, even opposition
 
 To my mind, the visions of EngMalChin were a little too idealistic to start with. It endeavoured to cross the registers of speech and writing, as Beda Lim envisioned, “\[t\]he creative writer must live in a climate of spoken language. . . When the standard Malayan speech has been fixed to some degree it will be possible for creative writing in Malaya to get out of its experimental stage and get down to business”.[\[2\]](#_ftn2) But the young minds behind _The New Cauldron_, a literary magazine in the 1950s edited by students, including Wang, from the University of Malaya, were classically trained in English literature. This is evidenced by many of the poems published by Wang and his contemporaries, which were reminiscent of the work of canonical writers à la T.S. Eliot.
 
-<img src="/images/COA%202024/Multilingualism%20as%20Utopia/the_new_cauldron.jpg">
+<img src="/images/COA%202024/Multilingualism%20as%20Utopia/the_new_cauldron.jpg" style="width: 650px; height: 400px;">
 
-<div style="background-color: white;"><i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4551118">The New Cauldron</a></i> was a literary journal edited by students at the University of Malaya. <i>Published by Raffles Society, University of Malaya, 1952. (From National Library, Singapore, call no. RCLOS 052 NC).</i></div>    
+<div style="background-color: white;"><i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4551118">The New Cauldron</a></i>  was a literary journal edited by students at the University of Malaya. <i>Published by Raffles Society, University of Malaya, 1952. (From National Library, Singapore, call no. RCLOS 052 NC).</i></div>    
 
 For these persons to embrace the practice of code-mixing in poetry would have been tantamount to subverting the monumental tradition that undergirded their English-language education, a move that would hardly be easy to execute at a time when Malaya was still couching beneath the shadow of imperialism.
 
