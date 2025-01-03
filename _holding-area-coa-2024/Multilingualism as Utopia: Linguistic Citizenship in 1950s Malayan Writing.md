@@ -222,9 +222,9 @@ In other words, multilingualism embodies a utopian vision. Writers, on this view
 
 [^7]: Low Choo Chin, “The Repatriation of the Chinese as a Counter-Insurgency Policy During the Malayan Emergency”, [_Journal of Southeast Asian Studies_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=895491) 45, no. 3 (October 2014): 363−392. (From National Library, Singapore, call no. RSING 959.005 JSA)
 
-[^8]: Regulations Made Under the Emergency Regulations, 1948_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202546159) (F. of M. Ord. No. 10 of 1948) incorporating all amendments made up to the 31st March, 1953 (From National Library Singapore, call no. RCLOS 348.595 MAL)
+[^8]: [_Regulations Made Under the Emergency Regulations, 1948_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202546159) (F. of M. Ord. No. 10 of 1948) incorporating all amendments made up to the 31st March, 1953 (From National Library Singapore, call no. RCLOS 348.595 MAL)
 
-[^9]: Regulations Made Under the Emergency Regulations, 1948_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202546159).
+[^9]: [_Regulations Made Under the Emergency Regulations, 1948_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202546159).
 
 [^10]: Jeremey E. Taylor, “‘Not a Particularly Happy Expression’: ‘Malayanization’ and the China Threat in Britain’s Late-Colonial Southeast Asian Territories,” [_Journal of Asian Studies_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1066786) 78, no. 4 (November 2019): 792. (National Library, Singapore, call no. 950.05 FEQ)
 
