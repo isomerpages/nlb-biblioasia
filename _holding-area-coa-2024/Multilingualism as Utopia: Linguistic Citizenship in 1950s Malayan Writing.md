@@ -232,53 +232,53 @@ In other words, multilingualism embodies a utopian vision. Writers, on this view
 
 [^13]: Wen Renjun (Miao Xiu), “On Overseas Chinese Consciousness and the Uniqueness of Malayan Chinese,” _Sin Chew Jit Poh_, 28 February 1948. (From National Library, Singapore Microfilm, reel no. A01597329C)
 
-\[1\] Xi Qiao (Zhao Rong), “A Concise Discussion of Immigrant Literature and Art,” _Sin Chew Jit Poh_ (Xing Chen supplement), 26 January 1948. (National Library, Singapore Microfilm, reel no. A01597329C).
+[^14]: Xi Qiao (Zhao Rong), “A Concise Discussion of Immigrant Literature and Art,” _Sin Chew Jit Poh_ (Xing Chen supplement), 26 January 1948. (National Library, Singapore Microfilm, reel no. A01597329C).
 
-\[1\] Xi Qiao (Zhao Rong), “A Resolution of the Problem,” _Sin Chew Jit Poh_ (Xing Chen supplement), 16 February 1948. (National Library, Singapore Microfilm, reel no. A01597329C).
+[^15]: Xi Qiao (Zhao Rong), “A Resolution of the Problem,” _Sin Chew Jit Poh_ (Xing Chen supplement), 16 February 1948. (National Library, Singapore Microfilm, reel no. A01597329C).
 
-\[1\] Zhao Rong, 古老石山 (Old Stone Mountain), [芭洋上](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12716354)&nbsp; (On the Sea of Villages), (Singapore:&nbsp; Qingnian shuju, 1958), 43–52. (From National Library, Singapore, call no. Chinese 813.4 ZR)
+[^16]: Zhao Rong, 古老石山 (Old Stone Mountain), [芭洋上](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12716354)&nbsp; (On the Sea of Villages), (Singapore:&nbsp; Qingnian shuju, 1958), 43–52. (From National Library, Singapore, call no. Chinese 813.4 ZR)
 
-\[1\] Emphasis added. Miao Xiu, _Xinjiapo wuding xia_ [新加坡屋頂下](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13985821) \[Under Singapore’s roof\] (Singapore: Nanyang Printing Press, 1951,) 6. (From National Library, Singapore, call no. Chinese C813.4 MX)
+[^17]: Emphasis added. Miao Xiu, _Xinjiapo wuding xia_ [新加坡屋頂下](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13985821) \[Under Singapore’s roof\] (Singapore: Nanyang Printing Press, 1951,) 6. (From National Library, Singapore, call no. Chinese C813.4 MX)
 
-_**\[1\]**_ Li Wen 李文_,_ “Guanyu fangyan wenxue,” [關於方言文學](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19540707-1.2.35.2.1) \[About dialect literature\], _南洋商报_ _Nanyang Siang Pau,_ 7 July 1954, 8. (From NewspaperSG)_._ This point was mentioned by former Lee Kong Chian Research Fellow Seah Cheng Ta in his online presentation “[Singapore Chinese Literature and Literary Supplements in the 1950s](https://www.youtube.com/watch?v=_zD0ne1uupE),” 26 March 2021, video, 26:27, (From NLB Singapore YouTube channel).
+[^18]: Li Wen 李文_,_ “Guanyu fangyan wenxue,” [關於方言文學](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19540707-1.2.35.2.1) \[About dialect literature\], _南洋商报_ _Nanyang Siang Pau,_ 7 July 1954, 8. (From NewspaperSG)_._ This point was mentioned by former Lee Kong Chian Research Fellow Seah Cheng Ta in his online presentation “[Singapore Chinese Literature and Literary Supplements in the 1950s](https://www.youtube.com/watch?v=_zD0ne1uupE),” 26 March 2021, video, 26:27, (From NLB Singapore YouTube channel).
 
-\[1\] Rajeev S. Patke and Philip Holden, [_The Routledge Concise History of Southeast Asian Writing in English_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13215147) (London: Routledge, 2010), 51 (From National Library, Singapore, call no. RSING 895.9 PAT)
+[^19]: Rajeev S. Patke and Philip Holden, [_The Routledge Concise History of Southeast Asian Writing in English_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13215147) (London: Routledge, 2010), 51 (From National Library, Singapore, call no. RSING 895.9 PAT)
 
-\[1\] Wang Gungwu, “Ahmad,” Pulau Ujong, accessed 27 October 2023, [https://www.pulauujong.org/8-2/ahmad/](https://www.pulauujong.org/8-2/ahmad/). Originally published in Wang Gungwu, [_Pulse_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5030873) (Singapore: B. Lim, 1950). (From National Library, Singapore, call no. RSING 828.99595 WAN)
+[^20]: Wang Gungwu, “Ahmad,” Pulau Ujong, accessed 27 October 2023, [https://www.pulauujong.org/8-2/ahmad/](https://www.pulauujong.org/8-2/ahmad/). Originally published in Wang Gungwu, [_Pulse_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5030873) (Singapore: B. Lim, 1950). (From National Library, Singapore, call no. RSING 828.99595 WAN)
 
-\[1\] Wang Gungwu, “Three Faces of Night,” Pulau Ujong, accessed 27 October 2023, [https://www.pulauujong.org/8-2/three-faces-of-night/](https://www.pulauujong.org/8-2/three-faces-of-night/).
+[^21]: Wang Gungwu, “Three Faces of Night,” Pulau Ujong, accessed 27 October 2023, [https://www.pulauujong.org/8-2/three-faces-of-night/](https://www.pulauujong.org/8-2/three-faces-of-night/).
 
-\[1\] Jonathan Chan, “Critical Introduction”, poetry.sg, published 11 June 2021, [http://www.poetry.sg/wang-gungwu-intro](http://www.poetry.sg/wang-gungwu-intro).
+[^22]: Jonathan Chan, “Critical Introduction”, poetry.sg, published 11 June 2021, [http://www.poetry.sg/wang-gungwu-intro](http://www.poetry.sg/wang-gungwu-intro).
 
-\[1\] Li Wei, “Translanguaging as a Practical Theory of Language”, _Applied Linguistics_ 39 (2018): 9–30.
+[^23]: Li Wei, “Translanguaging as a Practical Theory of Language”, _Applied Linguistics_ 39 (2018): 9–30.
 
-\[1\] Brandon Liew, “Engmalchin and the Plural Imaginings of Malaysia; Or, the ‘Arty-Crafty Dodgers of Reality’,” _Exclamat!on: An Interdisciplinary Journal_, issue 2 (2018): 65.
+[^24]: Brandon Liew, “Engmalchin and the Plural Imaginings of Malaysia; Or, the ‘Arty-Crafty Dodgers of Reality’,” _Exclamat!on: An Interdisciplinary Journal_, issue 2 (2018): 65.
 
-\[1\] Philip Holden, Introduction to “Wang Gungwu, _Pulse_,” accessed 6 May 2024, [https://www.pulauujong.org/8-2/](https://www.pulauujong.org/8-2/).
+[^25]: Philip Holden, Introduction to “Wang Gungwu, _Pulse_,” accessed 6 May 2024, [https://www.pulauujong.org/8-2/](https://www.pulauujong.org/8-2/).
 
-\[1\] Wang Gungwu, “Trial and Error in Malayan Poetry,” [_Malayan Undergrad_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200108967) 9, no. 5 (1958): 6. (From PublicationSG)
+[^26]: Wang Gungwu, “Trial and Error in Malayan Poetry,” [_Malayan Undergrad_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200108967) 9, no. 5 (1958): 6. (From PublicationSG)
 
-\[1\] Beda Lim, “Malayan English: A ‘Champurised’ Language!” [_Young Malayans_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5055850) 6, no. 91 (5 July 1950): 202. (From National Library, Singapore, call no. RDTYK 079.595 YM)
+[^27]: Beda Lim, “Malayan English: A ‘Champurised’ Language!” [_Young Malayans_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5055850) 6, no. 91 (5 July 1950): 202. (From National Library, Singapore, call no. RDTYK 079.595 YM)
 
-\[1\] Wang, “[Trial and Error](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200108967)”, 6.
+[^28]: Wang, “[Trial and Error](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200108967)”, 6.
 
-\[1\] Wang, “[Trial and Error](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200108967)”, 6.
+[^29]: Wang, “[Trial and Error](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200108967)”, 6.
 
-\[1\] Beda Lim, “[Malayan English](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5055850)”, 202.
+[^30]: Beda Lim, “[Malayan English](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5055850)”, 202.
 
-\[1\] The author is grateful to Philip Holden for raising this point.
+[^31]: The author is grateful to Philip Holden for raising this point.
 
-\[1\] Han, “Outline of Malayan-Chinese Literature”, 16.
+[^32]: Han, “Outline of Malayan-Chinese Literature”, 16.
 
-\[1\] Shih Shu-mei,“The Concept of the Sinophone,” _PMLA_ 126, no. 3 (2011): 710–11.
+[^33]: Shih Shu-mei,“The Concept of the Sinophone,” _PMLA_ 126, no. 3 (2011): 710–11.
 
-\[1\] Christopher Stroud and Quentin Williams, “Multilingualism as Utopia: Fashioning Non-Racial Selves,” _AILA Review_, issue 30 (2017): 185.
+[^34]: Christopher Stroud and Quentin Williams, “Multilingualism as Utopia: Fashioning Non-Racial Selves,” _AILA Review_, issue 30 (2017): 185.
 
-\[1\] Christopher Stroud, “Linguistic Citizenship as Utopia,” _Multilingual Margins_ 2, no. 2 (2015): 23.
+[^35]: Christopher Stroud, “Linguistic Citizenship as Utopia,” _Multilingual Margins_ 2, no. 2 (2015): 23.
 
-\[1\] Stroud, “Linguistic Citizenship as Utopia,” 24.
+[^36]: Stroud, “Linguistic Citizenship as Utopia,” 24.
 
-\[1\] Stroud and Williams, “Multilingualism as Utopia,” 186.
+[^37]: Stroud and Williams, “Multilingualism as Utopia,” 186.
 
 
 
