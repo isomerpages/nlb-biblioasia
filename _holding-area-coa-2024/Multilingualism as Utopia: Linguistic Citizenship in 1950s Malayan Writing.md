@@ -166,13 +166,7 @@ To my mind, the visions of EngMalChin were a little too idealistic to start with
 
 <img src="/images/COA%202024/Multilingualism%20as%20Utopia/the_new_cauldron.jpg">
 
-<div style="background-color: white;">[_*Malayan Undergrad*_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4551118)
-	
-	
-
-<i>Published by Raffles Society, University of Malaya, 1952. (From National Library, Singapore, call no. RCLOS 052 NC).</i></div>    
-
-[_The New Cauldron_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4551118) was a literary journal edited by students at the University of Malaya. _Published by Raffles Society, University of Malaya, 1952. (From National Library, Singapore, call no. RCLOS 052 NC)_
+<div style="background-color: white;"><i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4551118">The New Cauldron</a></i> was a literary journal edited by students at the University of Malaya. <i>Published by Raffles Society, University of Malaya, 1952. (From National Library, Singapore, call no. RCLOS 052 NC).</i></div>    
 
 For these persons to embrace the practice of code-mixing in poetry would have been tantamount to subverting the monumental tradition that undergirded their English-language education, a move that would hardly be easy to execute at a time when Malaya was still couching beneath the shadow of imperialism.
 
