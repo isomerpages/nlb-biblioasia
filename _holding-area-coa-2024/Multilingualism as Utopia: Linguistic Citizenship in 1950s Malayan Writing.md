@@ -41,13 +41,10 @@ It is against this ideological background that a linguistic phenomenon of intere
 
 One of the most prolific writers in this period who put this technique into practice was Miao Xiu (1920–80). Born in Singapore, Miao Xiu participated in the Great Debate, contributing an article in _Sin Chew Jit Poh_ on 28 February 1948 under the nom de plume Wen Renjun. In his article, Miao Xiu clearly expressed his support for the Malayan-Chinese Literature School.[\[1\]](#_ftn1) It is thus no surprise that his writing offers abundant traces of Chinese dialects and colloquial expressions (including vulgarities), for the use of place-based idiolects is one of the principal means through which the locale-specificity of Malayan Chinese literature was manifested. The expletive 丟那媽 (_diu na ma_, a condensed transliteration of a Cantonese expletive), for instance, often appears in the utterances of Miao Xiu’s working-class characters in his fiction and features as one of the “signature” terms in his linguistic repertoire.
 
-![](/images/COA%202024/Multilingualism%20as%20Utopia/pg_270_Aug11005_crop.jpg)
 
 <img src="/images/COA%202024/Multilingualism%20as%20Utopia/pg_270_Aug11005_crop.jpg" style="width:80%;">
 
-<div style="background-color: white;">         
-
-In this article by Miao Xiu, he explores Anglophone and Sinophone literary writing in 1950s Malaya, with a focus on how the phenomenon of language mixing arose in response to the socio-political exigencies of the period. It reveals the inextricable relationship between language, literature&nbsp;and society. <i>        Reproduced from《論__僑民意識與馬華獨特性》,《星洲日報》\[Xing Zhou Re Bao\]，28 February 1948. Microfilm no. A01597333I.(From National Library, Singapore)</i></div>
+<div style="background-color: white;">In this article by Miao Xiu, he explores Anglophone and Sinophone literary writing in 1950s Malaya, with a focus on how the phenomenon of language mixing arose in response to the socio-political exigencies of the period. It reveals the inextricable relationship between language, literature&nbsp;and society. <i>Reproduced from《論__僑民意識與馬華獨特性》,《星洲日報》\[Xing Zhou Re Bao\]，28 February 1948. Microfilm no. A01597333I.(From National Library, Singapore)</i></div>
    
 
 Miao Xiu was not alone in this enterprise. He was joined by several contemporaries, notably Zhao Rong (1920–88), who also contributed to the Great Debate, under the pseudonym Xi Qiao. A strong advocate of the uniqueness of Malayan Chinese literature, Zhao published two articles in the _Xing Chen_ supplement of _Sin Chew Jit Poh_ in early 1948, one on 26 January[\[1\]](#_ftn1) and the other on 16 February.[\[2\]](#_ftn2) Like Miao Xiu, Zhao Rong was relatively liberal in his linguistic use from the vernaculars. A spectacular example is his 1958 short story “Old Stone Mountain”,[\[3\]](#_ftn3) the plot driven primarily by Cantonese-based dialogues, as represented by Cantonese characters that are graphically similar to but vary from standard Chinese characters. Here the overall proportion of Cantonese used is so high that readers unfamiliar with the Cantonese script and sound would conceivably have difficulty understanding the story based on the narrative segments (written in standard Chinese characters) alone.
@@ -62,7 +59,13 @@ To take an example from Miao Xiu’s well-known novella _Under Singapore’s Roo
 
 Here we see a succession of terms (in bold) that would surely baffle the non-local Chinese reader and, for that matter, even a contemporary Chinese reader with no access to Singapore’s sociocultural context in the 1940s and 1950s. These include the name of a triad society (七0七, or “707”), the informal term for someone who runs errands for triad societies (草鞋, literally, “straw sandal”), the slang for “protection money” (包爺費, literally, “fee for reserving the master”), the Hokkien term for runner (臭卡, literally “smelly leg”); the Malay term for “bully”(卡周 or _kacau_), the colloquial word for “five dollars” (**一**巴掌**,** literally “one slap”), and the term 扣 in Hokkien/Teochew for counting cash.
 
-        
+
+<img src="/images/COA%202024/Multilingualism%20as%20Utopia/IMG_4118_cp.jpg">
+
+<div style="background-color: white;">Cover of《新加坡屋顶下》<i>(Xinjiapo Wuding Xia; Under Singapore's Roof) by Miao Xiu (1951). (From National Library, Singapore, call no. Chinese C813.4 MX).</i></div>
+
+
+       
 On occasion, Cantonese and Hokkien are mingled within a single utterance, increasing its heterogeneity. In some scenes characters interact using different dialects in alternation, for example, when one person speaks in Cantonese and the interlocutor responds in Hokkien. This technique of code-switching creates a complex weave of different voices on the page, even though it also produces a contrived linguistic style peculiar to the literary prose of this period.
 
 English words figure sparingly in Chinese-transliterated form; and as with Chinese dialects and colloquial Malay, they are always marked by scare quotes to signal that the Chinese characters representing the English sounds are not to be read literally. To cite an example from Zhao Rong’s novella _In Love with the Sea_, the narrator says early in the story 尤其惹他厭惡的是那些旅客們，都穿上厚厚的「**遮結**」和絨衫 (“he particularly dislikes those tourists who put on thick jackets and velvet tops”). The two characters 遮結do not form a Chinese word but rather translates the syllabic sounds of the word _jacket_. Note that there is also a Cantonese inflection here: the two characters need to be pronounced in Cantonese to derive a sound akin to _jacket_; reading them in Mandarin, for instance, would produce an incomprehensible word.
