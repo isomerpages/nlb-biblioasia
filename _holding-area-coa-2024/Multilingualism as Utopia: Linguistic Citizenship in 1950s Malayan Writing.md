@@ -164,7 +164,13 @@ The assumption here is that Malayan and English are incongruous, even opposition
 
 To my mind, the visions of EngMalChin were a little too idealistic to start with. It endeavoured to cross the registers of speech and writing, as Beda Lim envisioned, “\[t\]he creative writer must live in a climate of spoken language. . . When the standard Malayan speech has been fixed to some degree it will be possible for creative writing in Malaya to get out of its experimental stage and get down to business”.[\[2\]](#_ftn2) But the young minds behind _The New Cauldron_, a literary magazine in the 1950s edited by students, including Wang, from the University of Malaya, were classically trained in English literature. This is evidenced by many of the poems published by Wang and his contemporaries, which were reminiscent of the work of canonical writers à la T.S. Eliot.
 
-    
+<img src="/images/COA%202024/Multilingualism%20as%20Utopia/the_new_cauldron.jpg">
+
+<div style="background-color: white;">[_*Malayan Undergrad*_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4551118)
+	
+	
+
+<i>Published by Raffles Society, University of Malaya, 1952. (From National Library, Singapore, call no. RCLOS 052 NC).</i></div>    
 
 [_The New Cauldron_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4551118) was a literary journal edited by students at the University of Malaya. _Published by Raffles Society, University of Malaya, 1952. (From National Library, Singapore, call no. RCLOS 052 NC)_
 
