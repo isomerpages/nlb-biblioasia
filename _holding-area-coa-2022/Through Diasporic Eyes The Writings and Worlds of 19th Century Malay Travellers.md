@@ -227,8 +227,121 @@ elite families together with their Asian servants “at a discreet distance”.2
 The public life of mixed-gender seating, traffic congestion and outdoor
 symphonies diverged from the segregated and cloistered living of VOC
 Batavia.28 Despite its geographical proximity to Riau, colonial Batavia felt
-more foreign than Mecca, which is described in the <i>Tuhfat</i>’s account of Raja
+more foreign than Mecca, which is described in the <i>Tuhfat</i>’s account of aja
 Ahmad’s pilgrimage.
+
+#### **Organised Society: Production and Improvement**
+Such cities inspired Malay elites to think about reorganising their
+own societies, as they assimilated European notions of administrative
+government, productivity and capital, and identified against traditional
+forms of social and political organisation. For Munshi Abdullah and his
+son Muhammed Ibrahim Munshi, the British Straits Settlements formed
+a dimension apart from the neighbouring Malay kingdoms that were
+still independent. But capital, production and bureaucracy would not be
+confined there for long. The father’s and son’s travels through the Malay
+Peninsula recorded the emanation of those commercial and political forces,
+displacing a traditional feudal order.
+Munshi Abdullah had much in common with Ahmad Rijaluddin, both
+being Malay-speaking townsfolk of Tamil ancestry. Their mixed cultural
+pedigree as Peranakan Negeri (local-born) resulted from established patterns
+of migration and assimilation into Malay society through foreign–local
+unions. They also shared elite parentage: Abdullah’s father was an
+interpreter and secretary for Melaka’s Dutch governor. When the British
+took over Melaka following the Napoleonic Wars, and later Singapore,
+Abdullah also became a secretary and Malay tutor for the Straits’ new
+European power.
+
+Generations of scholars emphasised Abdullah’s realism and individuality
+in making him the first modern Malay writer. Despite his strong personal
+voice and style, commentators like Amin Sweeney have complicated
+this image by arguing that Abdullah drew extensively on traditional
+Malay literary conventions. Furthermore, intellectual biographies akin to
+Abdullah’s were numerous in Islamic letters, and the individual as narrative
+subject predates Abdullah: he himself extolled an 18th-century (Britishcommissioned)
+biography, <i>Hikayat Nakhoda Muda</i> (The Tale of the Young
+Mariner) as an exemplary piece of Malay literature.29 What Abdullah
+introduced was the ethos and outlook of Enlightenment modernity, with its
+subjection of human society to order, reason and progress.
+
+Consequently, he subjected the places he visited to those standards,
+becoming the progenitor of an enduring discourse on retrograde Malay
+ideas and their need for reform. His 1838 journey to the east coast kingdoms
+of Kelantan, Terengganu and Pahang was recounted in <i>Kisah Pelayaran Abdullah Ke Kelantan</i> (The Tale of Abdullah’s Voyage to Kelantan).
+Abdullah was an interpreter negotiating the release of a Singapore vessel
+and its merchandise from the ruler of Kelantan, then in civil strife. These
+were not isolated areas, although the peninsula’s central dividing mountains
+prevented overland journeys from the Straits towns. Abdullah’s account
+records the merchandise shipped from their ports, suggesting active trade
+links. Nevertheless, he described the east coast as alien and dangerous:
+pirate-infested, untamed and closed off from European contact.
+
+The apparently squalid and lawless east coast states were a far cry from
+the organised life Abdullah knew in British Singapore. Pahang, which had
+“no shops or marketplaces”, was so badly governed it was being reclaimed
+by the wilderness.30 Kelantan’s poor sanitation and cleanliness reflected its
+primitivity.31 Abdullah made ordinary Malays, whom he called “negligent
+and idle”,32 the target of his industrial bias. In Terengganu, he chastised
+children left to play all day “without education or work”.33 To him, these
+exemplified aristocratic misrule, undisciplined and unorganised around
+productive activity.
+
+Abdullah’s own mention of Malays in these parts enjoying luxuries,
+like fine clothes, however, makes us question his generalisations. As an
+interpretive account, the travelogue is perhaps more insightfully read as
+his evaluation of two distinct political systems. On the east coast were
+courtly <i>negeri</i> where authority was given meaning and form through the
+enactment of difference according to rank and lineage. In Singapore, the
+state functioned as lawmaker and civic administrator, setting the realm in
+order and stimulating trade. In ridiculing the sumptuary laws Malay rulers
+imposed on commoners – while their towns were disorderly, overgrown and
+filthy – Abdullah asserted good administration as the agenda and moral
+purpose of political authority.
+
+Despite being a messenger of British and Eurocentric modernity,
+however, Abdullah’s liberal critique is innovative for its articulation in
+Islamic terms. Malay nationalists excoriated Abdullah for identifying
+himself with “the customs of the English”.34 Nevertheless, Abdullah performed these “customs”, by which he meant having “the license to
+criticise the improper conduct of kings without being executed or seized”,35
+using arguments from the familiar Islamic political tradition. Abdullah
+modelled his counsel for the Malay kings after the “mirrors for princes”,
+manuals for statecraft common across the Islamic world. The 11th-century
+<i>Siyasatnama</i> of Nizam al-Mulk was an especially famous example.
+Abdullah staged his expositions through interactions with locals.
+He boasted of an “easy and free” life under egalitarian British rule to a
+Kelantan commoner, where one “lived like a king, and we can sit with
+kings”.36 An exchange with an official, Tengku Temena, allowed Abdullah
+to give sermons on the merits of liberal government in line with Islamic
+injunctions. “Evil customs” bedevilling Malay society, such as smoking
+opium, were “forbidden in Islam”.37 When the Tengku told him to ignore
+the commoners’ complaints about Malay tyranny, Abdullah reminded the
+Tengku that unjust kings would be the first to enter Hell.38 He implored
+all rulers to read the <i>Taj as-Salatin</i> (Crown of Kings), a 17th-century Malay
+“mirror for princes” from Aceh, to cultivate themselves as righteous leaders
+who earn God’s mandate.39
+
+Abdullah’s rhetoric set a crucial precedent in Malay thought, combining
+Enlightenment liberalism with Islamic statecraft to produce a modernist
+Islamic politics. He shared much in common with other 19th-century
+Muslim scholars who encountered European modernity such as Rifa’a
+at-Tahtawi and Ahmad Faris al-Shidyaq, widening the field of Islamic
+reformism in this period beyond the Nahda (Awakening) movement,
+which saw Muslim societies receiving modernist inspiration primarily
+through Arab-European connections. Abdullah’s ideas about what gave
+Europeans their power – the responsible government consistent with Islamic
+teachings – would be echoed by the Kaum Muda, a later generation of
+Malay religious literati calling for political and social reform in the early
+20th century.
+
+Abdullah’s son Ibrahim Munshi in many ways continued his father’s
+ideological legacy. Ibrahim was an official of Johor, a Malay kingdom neighbouring Singapore that, with its plantation economy and efficient
+administration, was the last to accept British protection. Abdullah himself
+taught numerous Johor ministers educated in Singapore’s Anglo-Malay
+missionary school, where the state’s reformist ruler Abu Bakar studied.
+British reports praised Abu Bakar’s capital Johor Bahru as a tidy little town
+with clean streets. Its 1893 constitution, and adoption of the Ottoman civil
+code that same year, represented the formalisation of government and Islam
+within the state machinery. It would have won Abdullah’s approval.
+
 
 
 
