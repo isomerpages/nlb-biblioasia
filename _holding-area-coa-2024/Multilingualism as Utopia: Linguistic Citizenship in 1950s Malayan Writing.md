@@ -9,7 +9,7 @@ of the Japanese Occupation (1942–45) and before the idea of political independ
 from colonial rule became reality, Malaya, including Singapore, was embroiled
 in the rise of anti-colonial sentiments and British suppression of communist
 insurgencies. This culminated in the promulgation of the Emergency Act
-in June 1948, which remained in effect till July 1960.[^1]</p>
+in June 1948, which remained in effect till July 1960.[^1]1</p>
 <p>In the intervening years, Malaya’s sociopolitical landscape was mired
 in ideological tensions and armed conflict. Precisely due to these tensions,
 a nascent Malayan consciousness began to take shape, with important implications
