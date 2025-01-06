@@ -342,7 +342,80 @@ with clean streets. Its 1893 constitution, and adoption of the Ottoman civil
 code that same year, represented the formalisation of government and Islam
 within the state machinery. It would have won Abdullah’s approval.
 
+Ibrahim’s journeys between 1871 and 1872 intersected with more direct
+colonial intervention in the Native States, whose internal conflicts disturbed
+British economic interests. He travelled to manage Johor’s outlying
+territories and to interpret for British delegations, reflecting his capacity
+to inhabit multiple worlds. Tim Harper called his account “a quietly
+troubled picture of an old world on the turn”, with Ibrahim describing
+Malaya’s integration into a global capitalist network, “a tale of tin, tax
+and land title”.40 Roads and police stations disciplined the landscape,
+while Singapore’s comfortable amenities ranked it first in Ibrahim’s list of
+exemplary towns.41 Penang’s exciting street entertainment recalled Ahmad
+Rijaluddin’s descriptions of Calcutta, precursors to the Asian mass culture
+industries of the 20th century.42 Yet the more light-hearted scenes – of
+Ibrahim’s companions spinning narrative yarns, or of his father’s old friends
+reminiscing happier days – anchor these sweeping changes to the quotidian
+as well.43
 
+Ibrahim clearly inherited Abdullah’s capitalist bias against the Malays
+as “lazy natives”. Even the Malays of Melaka, commercial cultivators
+participating in the town’s economy, were “the noblest” of their race only
+because of their industriousness.44 Elsewhere, local resistance to “the white
+man’s custom” of having land grants was a sign of Malay “stupidity”,45 even
+though the tenure system subjecting them to regular taxation disrupted
+the mobile pattern that afforded Malay planters flexibility and freedom.
+He likewise recorded the flows of produce in and out of ports along the Malayan west coast, albeit now in volumetric units. Unlike his father,
+however, Ibrahim was actively remaking this landscape, through his
+political position. In resolving disputes and drawing up contracts between
+Chinese planters, his scribal procedures diverged from those of Malay court
+penmen.46 Instead of producing ceremonial documents signifying the royal
+person, Ibrahim made and stored copies, part of the paperwork bureaucracy
+defining Johor as a new Malay polity. This created a depersonalised,
+bureaucratic government detached from the raja’s charismatic power.
+
+Visiting Klang in 1872, the headquarters of chiefs Syed Zain and Tengku
+Ziauddin engaged in the wider Selangor Civil War, Ibrahim described a
+Malay government bent on public improvement. A town plan was drawn up
+for roads and civic buildings including assembly houses, police stations and
+hospitals.47 As revenues poured in from the thriving tin trade with Melaka
+that Tengku Ziauddin helped develop under his rule, this local polity set
+itself in order, unlike the “messy” Terengganu that Abdullah saw decades
+earlier. Ibrahim’s uniform, which Abu Bakar commanded he wore to display
+his position as a member of “our government”, was noticed by Syed Zain,
+who was also designing a seal and uniform to be made in Europe.48 The
+Malay elites, therefore, were conscious of adopting the official trappings that
+enabled them to lay claim to “modern” government.
+
+Yet the effort must have seemed to Ibrahim a pale attempt to pursue
+those Europeanising reforms that earned his state recognition. He was
+unimpressed by the English names Syed Zain adopted for Klang’s streets,
+imitating the Straits Settlements.49 More importantly, Syed Zain and
+Tengku Ziauddin’s undisciplined military, commanded by European
+drifters who failed to obtain Singapore appointments, revealed their
+inability to organise a formidable challenge to British intervention.50
+However, Ibrahim had a less adversarial relationship with these Malay
+chiefs, unlike his father. Despite representing a progressive Malay leadership,
+as Fadzil Othman observed, Ibrahim enjoyed the company of Malays with
+refined traditional manners, such as Tengku Ziauddin.51 Ibrahim’s expansive belonging, encompassing multiple modes of kinship and community,
+was not circumscribed by strict membership in either an “old” or “new”
+Malay world.
+
+Difference, however, came also in non-human forms, as travel
+introduced Malays to new physical landscapes. This time of change was
+also related to the environment: Ibrahim’s account can be read as the story
+of an urbanised Malay for whom jungles were exotic, and who struggled
+with drinking from silty streams and sleeping through mosquito-infested
+evenings. His description of a geothermal spring52 is part of a proliferation
+of Malay science-writing in the 19th century, mostly educational texts by
+his father Abdullah intended for missionary schools, such as a geography
+entitled <i>Hikayat Dunia</i> (The Tale of the World), a zoological guide called
+<i>Hikayat Binatang</i> (The Tale of Animals) and <i>Chermin-mata Bagi Segala
+Orang Yang Menuntut Pengetahuan</i> (An Eye Glass for All Who Seek
+Knowledge), a quarterly magazine featuring subjects from economics to hotair
+balloons. The next section focuses on two travelogues that paid particular
+attention to the environment as a site of inquiry, reflecting an empirical view
+of the world as a site of observation, description and measurement.
 
 
 
