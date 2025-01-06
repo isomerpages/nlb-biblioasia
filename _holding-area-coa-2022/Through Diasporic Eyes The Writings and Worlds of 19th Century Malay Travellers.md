@@ -44,12 +44,21 @@ Far from being mere spectators and students of Eurocentric modernity, these Mala
 literature. Ibrahim’s <i>Kisah Pelayaran</i> (Story of a Voyage), written in 1871–72, painted the old Malay world in twilight: mines and plantations opening it further to global capitalism, and displacing an entrepot-based economic pattern dominated by locally assimilated communities. His capacity to move between these worlds contrasts against his father’s caustic rancour towards the old Malay order. Salleh Bin Perang’s <i>Tarikh Dato Bentara Luar</i> (History of the Dato Bentara Luar) chronicled his 1883 journey with Abu Bakar to Japan. While crossing the South China Sea, Salleh conceived the ocean space as a site of observation in line with Victorian empiricism, but retained
 Islamic cosmologies presenting natural phenomena as manifestations of divine will.
 
+These continuities upset the canonical periodisation of Malay
+intellectual history into the deceptively neat categories of “traditional”, “transitional” and “modern”. Instead of finding departure points or  clear delineations, this essay explores how the Malay world’s endogenous knowledge systems interacted with imperial modalities to create an embedded modernity. That the authors drew on a confluence of traditions to talk about their place in this new interconnected world reflects what Tim Harper termed “many traditions of thinking and acting globally” that
+coexisted in the 19th century.8 Their journeys, both within and beyond the Malay world, defied the parameters that Europeans attempted to set, not just in surveys, maps and museums, but in travel writing as well: the idea of Malaya as a fixed territory, a destination to be visited rather than a dynamic node making autonomous links to the outside world.9
 
-
-
-
-
-
+This essay by no means catalogues all 19th-century Malay travel writing. Among the unexplored works are major poetic travelogues: <i>Syair Peri Tuan Raffles Pergi Ke Minangkabau</i> (Ballad of Sir Raffles Going to Minangkabau;
+1818), recounting Stamford Raffles’s expedition to the Minangkabau
+Highlands; <i>Syair Kisah Engku Puteri</i> (Ballad of the Story of Engku Puteri;
+1831), concerning the voyages of the Riau queen-consort Engku Puteri
+Raja Hamidah; and <i>Syair Perjalanan Sultan Lingga Dan Yang Dipertuan
+Riau Pergi Ke Singapura</i> (Ballad of the Journey of the Sultan of Lingga and
+Viceroy of Riau to Singapore; 1891), which records a visit by the last Sultan
+of Riau-Lingga to Singapore by Khalid Hitam Bin Raja Hasan al-Haji. All
+these <i>syair</i>, written at different junctures of the 19th century, were of the
+so-called “traditional” style, which again complicates a neat narrative of
+literary “modernisation”.
 
 
 
