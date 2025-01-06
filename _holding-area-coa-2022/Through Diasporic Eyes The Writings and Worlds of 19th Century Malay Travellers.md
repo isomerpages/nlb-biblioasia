@@ -157,5 +157,33 @@ erudition. While <i>Tuhfat al-Nafis</i> seems “modern” for its presentation 
 verifiable narrative, it resembles earlier Islamic histories, which were full of
 dates and sources.
 
+The Batavia account was likely supplied by Raja Ali Haji’s father,
+Raja Ahmad, who led the mission together with other Riau officials.
+After nearly two centuries of rule by the Dutch East India Company
+(Vereenigde Oostindische Compagnie; VOC), and futile attempts by past
+governors to transplant the culture and values of the Netherlands to a
+locally assimilated port-city, the old capital of Dutch Java entered a different
+phase of European rule. The British Interregnum (1811–16) initiated reforms
+sharpening distinctions between Dutch, part-Asian and Asian residents, and
+diminished the city’s isolation with European emigration. This new concept of administration, based on the racist ideas of post-Napoleonic Europe, was
+continued by the returning Dutch government of Herman Daendels. By
+the time of Raja Ali Haji’s account, Batavia’s “Indies style” had given way to
+features of European bourgeois society.
+
+It posed a significant culture shock to the Malay embassy. At a banquet,
+the <i>Tuhfat</i> emphasised how all the Dutch dignitaries sat on chairs as they
+ate. Its narrator marvelled at the sheer gastronomic variety, not knowing
+“how many times the plates were replaced or how many times foods
+of different types and taste appeared!”19 The foreignness of “beautiful”
+European music played on Waterlooplein was evident in the effort with
+which the author described it for a Malay audience. He relied on visual
+resemblances, comparing the wind instruments to their closest Malay
+siblings: the <i>seruling</i> (bamboo flute), <i>serunai</i> (reed-pipe) and <i>nafiri</i> (royal
+trumpet).20 While a contemporary reader may quickly identify what
+“pushed and pulled” as likely a trombone, it is harder to confirm what
+looked “like quivering rice hanging and rattling, ringing when beaten”.21
+
+
+
 
 
