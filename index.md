@@ -9,13 +9,23 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /places-and-buildings/2024/8/eu-tong-sen-villa/
-      button: Eu Tong Sen’s “Pearl Under the Burning Tropical Sun”
+      url: /vol-20/issue-4/jan-mar-2025/john-sturgus-bastin-a-memoir/
+      button: "John Sturgus Bastin: A Memoir"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Online Only Articles/EU Villa/EU_villa_heroimagev2.png
+      background: /images/Vol 20 Issue 4/John Sturgus Bastin/HeroImage_bastin_2.jpg
+  - infopic:
+      title: From Nanjing to Nanyang
+      subtitle: History
+      id: infopic
+      description: Upheaval in China saw missionaries shifting their sights and
+        resources to Singapore and the region.
+      button: Mission work in Singapore
+      url: /history/2024/9/christianity-china-singapore-missions-education/
+      image: /images/Online Only Articles/Nanjing to Nanyang/Opening_of_TTC_topic.jpg
+      alt: From Nanjing to Nanyang
   - infopic:
       title: The Nominated Member of Parliament Scheme
       subtitle: Governance
