@@ -512,7 +512,158 @@ network. Infrastructures of communication, like a “telegraph station”
 Salleh saw in the Shanghai harbour,67 signified their integration into an
 electrified, global space. As at other international oases of imperialist
 control, the Maharaja and his aides had access to familiar comforts and
-elite pastimes: a succession of banquets at governors’ houses and billiards at
-gentlemen’s clubs.
+elite pastimes: a succession of banquets at governors’ houses and billiard at gentlemen's clubs.
+
+In expressive prose, Salleh painted lush seascapes: in the South China
+Sea, distant “mountains on the mainland… loomed up and disappeared
+one after another in the mist which pervaded everywhere”.68 Nigel
+Philips argued that Salleh introduced a “picturesque” sensibility to Malay
+nature writing, an appreciation of which he likely obtained from learning
+Chinese ink painting.69 Much like a tourist, Salleh admired the “extremely
+beautiful” scenery surrounding the Seto Inland Sea, with its high hills
+above “narrow channels edged with white sand, interspersed with islands,
+which are green and verdant”.70 But beyond aestheticising these physical
+environments, Salleh also juxtaposed them with sites back home, making
+the Malay world’s natural formations the standard of comparison. The
+Nagasaki harbour, with its “beautiful green” hills, was “twice the size of
+the Teluk Belanga channel”,71 thus accommodating what his Malay readers
+knew first-hand as a guide.
+
+On 20 May, the delegation arrived in Kobe and began their tour of
+Japan’s cities, each bustling with jinrikishas, crowds and entertainment venues. The account takes us through the temples, theatres and boulevards
+of Kyoto, Nara, Nagoya, Yokohama and finally Tokyo, where the Meiji
+Emperor received Abu Bakar for a brief (and rather uneventful) audience
+on 26 June. Salleh often summarised events in cursory sentences, and some
+days are unreported altogether. On 30 August, the party departed Nagasaki
+for the Pacific, and a week-long excursion up the Huangpu.
+
+When a typhoon hit the party’s vessel, the P&amp;O steamer <i>Sutlej</i>, on their
+return leg from Hong Kong, Salleh gave man-made technology a divine
+origin, thus also subjecting it to divine whims and disposal: “All-Pure God,
+who created a ship of this size, did not exempt it from being tossed about
+by the waters.”72 The weather abated in the days leading to their arrival in
+Singapore, and Salleh used the exact same phrase as his teacher Abdullah
+to describe the calm sea: “placid as water in a tray”.73 With mathematical
+precision, Salleh provided the <i>Sutlej</i>’s bearings at “8 degrees, 17 minutes
+latitude by 108 degrees, 54 minutes longitude”.74 They berthed in Singapore
+on 5 November to a welcome crowd of thousands.
+
+As a Malay text, Salleh’s account is innovative in its presentation of
+a measurable world. Space and time were experienced in legible units:
+distances, dates, hours and observable natural phenomena. In addition, the
+maritime world it depicts was no longer the dynastic space of traditional
+Malay sagas, where courtly norms of hospitality governed relations between
+port kingdoms and the voyagers who called at them. It was an imperial
+space where European-ruled ocean-ports provided safe haven for princely
+cosmopolitans like Abu Bakar and his retinue, given their adoption of
+“civilised” government, law and culture. The <i>Hikayat Hang Tuah</i> is again
+useful for comparison, as the eponymous hero in the traditional maritime
+Malay world successfully forged Melaka’s alliances with foreign powers by
+speaking the latter’s languages and participating in their local customs.75
+In contrast, Malay travellers of the high colonial period established
+their legibility through universalised norms that signified proximity to
+Eurocentric modernity, including the requisite scientific knowledge to move
+through the technologised space of steam and electricity. Even so, as Charles Forsdick pointed out, mechanised movement did not inexorably result in
+abstraction from one’s surroundings or disembodiment, but also sometimes
+“deceleration” that “subverted the speed of mechanised transport” and
+“disrupt[ed] the anticipated progress of the journey”.76
+
+Both Abdullah’s and Salleh’s travelogues prefigure the remapping of the
+Malay world onto a global order where Japan and the Ottomans emerged
+as the vanguard against growing European imperialism. The old route to
+Mecca that Abdullah undertook was on the eve of subjection to a regime
+of passports and visas that territorialised a historically fluid Islamic world.
+Nevertheless, Mecca and Istanbul, which Abdullah did not survive to visit
+despite his plans to, would become ever more central in the imaginary of
+a growing solidarity spanning the global <i>ummah</i> (Islamic community).
+Salleh’s journey in the opposite direction to Tokyo reflected a nascent
+“Asian” regionalism under Japanese leadership, which Malay elites began
+to see as another strategic bloc with which to identify themselves.77 These
+routes were incipient connections that multiplied and solidified into the
+pan-Islamic and pan-Asian awakenings of the early 20th century, through
+which Malays contested the meanings of community and modernity. It is to
+those notions that we now turn.
+
+#### **Conclusion**
+
+The travelogues discussed expand the meanings of being Malay through
+changing times. As a mechanised period, the 19th century opened up the
+world to Malays who ventured farther and faster away from home. Yet these
+authors destabilised the teleological outcomes presupposed by dominant
+narratives of Malay modernity, such as liberalism, rationalism, mass politics
+and eventual nationhood. The colonial city was still viewed through the
+lens of fantastical imagery and the topos of wonder. Political reform was
+still advocated by appealing to Islamic doctrine, and with appreciation for
+some traditional Malay modes of cultural and social interaction. Even an
+empirical view of the world found room for older spirits, guardian entities
+and divine intervention.
+
+That local intellectual labour through translation and adaptation was
+key to forging a modernity embedded in local circumstance is not news
+to Southeast Asianists. Barbara Andaya, for instance, considers these
+societies’ selective adoption of outside influences over centuries to express an
+innately “modern” sensibility.78 The paradigm is echoed by Oliver Wolters:
+Southeast Asia’s penchant for “making sense” – by organising its reality
+with reference to past experience – helped it understand its place in wider
+worlds.79 Travelogues have been studied as part of the field’s call to write
+“autonomous history”, going back to the 1930s. Far from being “monologic”,
+as Ben Murtagh argues in relation to Malay literature’s tendency to obscure
+differences between locals and foreigners,80 Malay belonging was capacious
+and expansive. Between the mid-19th and early 20th centuries, a regional
+cosmopolitanism was fostered by the accelerated movement of Malay-speaking
+peoples despite imperial control, as Joel Kahn noted. It defied the
+notion of “a pre-modern Eastern society into which an already fully formed
+Western modernity was inserted”.81
+
+These Malay travel accounts also subvert narratives of Islamic
+modernity that highlight journeys by Arab thinkers to Europe as central
+to the Nahda. In contrast to those metropolitan routes, Malay travelogues
+recorded impressions of other colonised spaces, and engaged in a tradition
+of selective stylistic adaptation reaching back well before the 19th century.
+Like the earlier  <i>rihla </i> tales, they contained what Nabil Matar called “the
+happy combination of piety and curiosity”.82 They expose our depleted
+contemporary notions of the “Islamic”, understood now as a  <i>religious </i>
+category taxonomised apart from its social entanglements, therefore
+frequently associated in Malay literature with theological or ritual texts
+but not “secular” narrative. The aesthetic and intellectual dimensions of
+these travelogues were Islamic insofar as Islam exists, beyond prescriptive orthodoxy, as a system of “explorative meaning-making” that is made by
+and consequential to the subjects who engage in it (i.e., Muslims).83
+
+While some of these writers, like Ibrahim Munshi, expressed their
+sheer excitement at experiencing foreign destinations, the tone of the works
+suggests they were not writing for pleasure or profit. As influential figures
+in their respective societies, these authors had clear political and intellectual
+agenda, which inflected their works. Contrary to colonial travel-writers,
+they were not writing for a mass European public for whom the prospect of
+commercial tourism increasingly became routine as the 19th century wore
+on. Each of the Malay authors had a different audience in mind: Munshi
+Abdullah was clearly prefiguring an emergent Malay literati and future mass
+readership; Ahmad Rijaluddin produced a royal panegyric for his English
+employers, just as Ibrahim and Salleh sought to proclaim Johor’s dramatic
+transformation as the future of Malay society and government; Raja Ali
+Haji’s  <i>Tuhfat </i> was likely meant for circulation within the Riau aristocracy
+whose adherence to Malay customs and Islamic ethics – as his other works
+also reflected – he was anxious to maintain.
+
+These divergent audiences and objectives resonated down to the early
+20th century, when Malayness came to be contested between the triple
+axes of  <i>bangsa </i> (national community), royal subjecthood and membership
+in the  <i>ummah </i>.84 The Ottoman collapse, which ended dreams of pan-
+Islamic rejuvenation, further strengthened the  <i>bangsa </i> cause. Yet while the
+racial nationalism of the 1920s may have circumscribed the range of Malay
+identity, the world remained an arena to affirm its shape-shifting meanings.
+Henk Maier, in reading  <i>Hang Tuah </i>, dwelt on its notion of “playing
+relatives”, where “conversations rather than conclusions” maintain the
+fluidity of Malayness.85 Performances of kinship held together an internally
+diverse society distributed over a wide geographical span, making personal
+negotiation between insiders and outsiders an enduring feature of Malay
+life. Thus, even in the postwar period, when the  <i>bangsa </i> ideologue Harun
+Aminurrashid wrote his prolific series of travelogues on Europe, the Middle East and Asia, his attempt to form a “post-imperial voice” through travel86
+resorted once more to locating difference and commonality at the level of
+personal interaction and impressions. As Maier argued, the elusiveness of a
+fixed and definite Malayness through foreign encounters endures.87 It was,
+and is, as large and varied as the worlds it already contains.
+
+
 
 
