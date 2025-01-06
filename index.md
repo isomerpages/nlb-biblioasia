@@ -17,6 +17,16 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 20 Issue 4/John Sturgus Bastin/HeroImage_bastin_2.jpg
   - infopic:
+      title: From Nanjing to Nanyang
+      subtitle: History
+      id: infopic
+      description: Upheaval in China saw missionaries shifting their sights and
+        resources to Singapore and the region.
+      button: Mission work in Singapore
+      url: /history/2024/9/christianity-china-singapore-missions-education/
+      image: /images/Online Only Articles/Nanjing to Nanyang/Opening_of_TTC_topic.jpg
+      alt: From Nanjing to Nanyang
+  - infopic:
       title: The Nominated Member of Parliament Scheme
       subtitle: Governance
       id: infopic
@@ -1115,14 +1125,4 @@ sections:
       image: /images/Vol 19 Issue 4/An Interview with Rachel Heng/book
         cover_homepage3.jpg
       alt: The Great Reclamation
-  - infopic:
-      title: From Nanjing to Nanyang
-      subtitle: History
-      id: infopic
-      description: Upheaval in China saw missionaries shifting their sights and
-        resources to Singapore and the region.
-      button: Mission work in Singapore
-      url: /history/2024/9/christianity-china-singapore-missions-education/
-      image: /images/Online Only Articles/Nanjing to Nanyang/Opening_of_TTC_topic.jpg
-      alt: From Nanjing to Nanyang
 ---
