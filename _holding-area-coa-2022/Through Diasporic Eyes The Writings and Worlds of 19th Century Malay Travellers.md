@@ -60,5 +60,102 @@ these <i>syair</i>, written at different junctures of the 19th century, were of 
 so-called “traditional” style, which again complicates a neat narrative of
 literary “modernisation”.
 
+That said, this essay’s study of the five authors mentioned – Ahmad
+Rijaluddin, Raja Ali Haji, Munshi Abdullah and his son Muhammed
+Ibrahim Munshi, and Salleh Bin Perang – nonetheless explores how the
+Malayo-Islamic world’s local modes and meanings of travel did change. It is structured around three main themes. The first is the colonial city, a site
+of new forms of social and cultural interaction, and which constituted the
+centre of different networks of trade and politics displacing those of the
+royal <i>negeri</i>. Introducing a temporal dimension to travel is the organised
+society, which Malays living in cities representing a modernist future began
+to identify with, against the “old” Malay regimes. Lastly, I examine the
+authors’ adoption of a scientific gaze over physical environments, especially
+the ocean, which had become a much busier arena of movement in the 19th
+century than ever before.
+
+#### **The City: Pleasure Gardens and Street Shows**
+The colonial city redefined the maritime ecology of the Indian Ocean realm
+with its commercial reach and military capacity. A sophisticated urban
+culture had thrived for centuries in the Malay world by the 18th century,
+comprising local port-polities, called <i>negeri</i>, and European castle-towns.
+While these were economic and cultural centres, few matched the colonial
+city in size, population and activity. This section explores accounts of two
+such sites: British Calcutta and Dutch Batavia, where Ahmad Rijaluddin
+and Raja Ali Haji wrote about the strangeness, disorientation and
+fascination they experienced.
+
+When Ahmad Rijaluddin was born in 1770, European-ruled ports
+participated in the indigenous state system, adopting Malay codes of
+diplomacy and commerce to engage local powers. As penmanship was an
+uncommon skill, scribes and interpreters occupied a privileged position
+as political intermediaries. Ahmad had access to literacy as his father, the
+trader and judge Long Fakir Kandu, was an influential Tamil Muslim with
+ties to the court of Kedah.10 This elite pedigree made possible Ahmad’s and
+his brother Ibrahim Kandu’s employment as scribes to Penang’s leading
+officials and merchants.
+
+Raja Ali Haji, on the other hand, had a different vocation: he was
+a prince of the Malay principality Riau, rather than a member of the
+mercantile elite. His Bugis ancestors had migrated from Sulawesi to the
+Melaka Straits in the 17th century, becoming traders and kingmakers of
+the negeri there. Riau’s eminence as an economic and intellectual centre
+enabled his frequent interaction with European and Malay statesmen from neighbouring polities, as well as scholars from the Islamic heartlands. Like
+Ahmad Rijaluddin, he was well versed in the conventions of Islamic letters
+likely imparted by the traditional education that men of their class received.
+
+The <i>Hikayat Perintah Negeri Benggala</i> (Tale of the Government of
+Bengal) was a product of such learning. Completed in 1811, it followed
+Ahmad’s visit to Calcutta together with his employer, Robert Scott of the
+Penang trading firm Forbes and Scott. Like earlier Malay romances, Ahmad
+did not describe the voyage across the Bay of Bengal, but his impressions
+upon arrival were colourful and evocative. He captured the bustle of
+Calcutta’s harbour, the ships “without stopping in the day and night, come
+and go in their thousands… too many to count”.11 From there he described
+the settlements along the great Hooghly, which was so long that the journey
+to its source would take years, and “nobody has ever reached it or knows
+how far it is”.12 Ahmad’s Calcutta was bigger, busier and noisier than the
+towns his audience in the Malay ports would have known, a city with
+thousands of streets and fine mansions.
+
+Displaying familiarity with the Malayo-Javanese epic tradition, Ahmad
+made his characters recite <i>pantun</i>13 and compared Calcutta’s pleasure
+gardens and stylish residents to figures and places from the Panji tales.14
+More noteworthy, however, are his inspirations from the <i>rihla</i>, typically
+set in Islamic lands but also occasionally the exotic heathen realms beyond
+it. A classic example was produced by the renowned 14th-century traveller
+Ibn Battuta. <i>Rihla</i> encompassed “the believable and incredible”, balancing
+“the niceties of everyday life” with “the Adja’ib or marvels”.15 Ahmad’s
+descriptions likewise documented a wide range of activity, both banal and
+unusual, elevated through the <i>rihla</i>’s aesthetic preoccupation with wonder.
+He turned the gaze back to more than just Europeans: Arab <i>rihla</i> accounts
+of Southeast Asia had presented it as a strange and exotic place as well.
+Among the “various marvellous sights” (<i>serba termasa yang ajaib-ajaib</i>) that
+Ahmad saw were Calcutta’s grand bazaars and their curious wares, as well as public performers executing fabulous displays: puppeteers, conjurers and
+acrobatic dancers.16
+
+While Cyril Skinner has considered Ahmad’s repetitiveness as evidence
+of a lack of creative talent, repetition was key in evoking the sense of
+excess associated with the <i>rihla</i> convention. This mode of enumerating
+myriad spectacles (<i>termasa</i>, from the Persian <i>tamasha</i>, “to behold”) was well
+established in Malay palace literature, notably in the <i>Hikayat Hang Tuah</i>.
+The protagonist of this 17th-century hero epic travelled to Constantinople
+as a diplomatic emissary of Melaka. Yet, as Hang Tuah declared, the trip
+also involved “the duty of bringing back news of the peculiar and exotic
+to Melaka”,17 with the embassy encountering an inexhaustible series of
+extraordinary sights, each lavishly described for the tale’s listeners.
+
+Raja Ali Haji similarly emphasised the “peculiar and exotic” in his
+account of a separate diplomatic mission, to Batavia in 1823. The account
+forms a small episode in the encyclopaedic history that Raja Ali Haji
+composed, entitled <i>Tuhfat Al-Nafis</i> (The Precious Gift), encompassing two
+centuries of events centred on Riau. Virginia Hooker positioned Raja Ali
+Haji as a Malay chronicler concerned with factual accuracy, synthesising
+and evaluating sources, and supplying dates to events.18 However, the work
+conforms to the courtly style of Malay (and Islamic) historiography in its
+structure and language. Arabisms scattered in the text display his Arabic
+erudition. While <i>Tuhfat al-Nafis</i> seems “modern” for its presentation of a
+verifiable narrative, it resembles earlier Islamic histories, which were full of
+dates and sources.
+
 
 
