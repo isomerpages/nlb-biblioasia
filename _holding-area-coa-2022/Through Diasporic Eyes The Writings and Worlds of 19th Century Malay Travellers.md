@@ -417,5 +417,102 @@ balloons. The next section focuses on two travelogues that paid particular
 attention to the environment as a site of inquiry, reflecting an empirical view
 of the world as a site of observation, description and measurement.
 
+#### **Science Adventures: Crossing the Open Ocean**
+
+While the maritime space featured prominently in the old Malay sagas,
+the experience of being at sea itself was usually undescribed. The trope of
+voyaging predominated in a society where wealth and state power depended
+on maritime trade and control of vital sea lanes. But scribes and storytellers
+often timed the characters’ journeys across water with approximate numbers
+of days, or formulaic estimations like “seven days and seven nights”.53 Rare
+descriptions of the ocean’s materiality were often accompanied by mystical
+encounters. In the <i>Hikayat Hang Tuah</i>, for instance, sudden storms and
+high waves attended the appearance of Nabi Khidir, an Islamic guardian
+saint of the sea.54 The contraction of time and space typically associated
+with the age of steam undergoes a reversal in the works of Munshi Abdullah
+and Salleh Bin Perang, whose material conception of the world produced
+slow and detailed observation.
+
+Munshi Abdullah’s <i>Kisah Pelayaran Abdullah Ke Jeddah</i> (The Tale of
+Abdullah’s Voyage to Jeddah) is an account of his pilgrimage to Mecca, but
+as he died in the Holy City before the journey was completed, the voyage
+from Singapore to Jeddah takes centre stage. Abdullah travelled on the
+<i>Sabil al-Islam</i>, one of many Arab sailing vessels plying the Indian Ocean
+between the Red Sea and the Malay Archipelago at the time, noting the
+stark difference between the archipelago’s shallow and tranquil seas and
+the tempestuous oceans beyond. Abdullah’s uneventful trip up the Melaka
+Straits ended when they passed Penang and entered the Bay of Bengal,
+where “the waves and swells were immense”.55 Like a mere “coconut husk”,
+the <i>Sabil al-Islam</i> was “thrown about by the waves, floating and sinking”.56
+
+Abdullah introduced not only an enlarged sense of oceanic space,
+phenomenal and frightening, but also a new temporality that contrasts
+with the old sagas’ <i>beberapa lama</i> (“after some time”). He logged the hour
+whenever a weather event occurred or a new sight appeared, lending a
+predictability to journeying itself. This clock-based chronology reflected
+the enfolding of the Malay world into a universal regime of timekeeping.
+A European time-structure, in standardising schedules for work and travel,
+was central to the stability and homogenisation that facilitated imperial
+commerce and administration across vast distances. Abdullah might have
+seen shipping tables in the Singapore newspapers, which foreshadowed the
+arrival of railway schedules in Malaya in the early 20th century.
+
+As the <i>Sabil al-Islam</i> travelled from Ceylon to the Malabar coast and
+on to the Hejaz, Abdullah described the ocean space with a meteorological
+gaze. Torrential winds gushed “as if they were being poured down on us”.57
+The colour of the water changed from “white as white can be” in the storms
+off Ceylon to “green with corals visible underneath” in the Red Sea.58 The
+air in some places was “clear and bright, and sometimes we would see the
+rays of the sun”, despite the “unspeakable” strong waves and winds.59
+
+Yet these elemental terrors were not for Abdullah entirely rational
+processes, as they inspired reverence for the divine. Despite his diatribes
+against “stupid” Malays whose superstition he blamed for their technological backwardness, his invocations of God upon witnessing the high waves off
+Cape Comorin60 still suggest belief in an Islamic cosmological order wherein
+a divine power governed natural events. Abdullah’s naturalistic observations
+are replete with the topos of <i>aja’ib</i>, seen in his description of the island of
+Socotra, whose “appearance was made by God as a wonder”, with “neither
+a single blade of grass, let alone trees nor anything else upon it”.61 Like his
+political beliefs, Abdullah’s approach to science reconciled Enlightenment
+ideals with Islamic theology. Indeed, the mythical sea of Hang Tuah existed
+still in traces of Abdullah’s account. Mentions of sacred sites to which
+the passengers and crew paid tribute along the way, from Adam’s Peak to
+mystics’ tombs, cast this maritime passage as an active spiritscape.
+
+This diaristic, chronological and naturalistic approach to writing the
+sea was adopted and developed further by Salleh Bin Perang, Abdullah’s
+student. A Johor minister in Ibrahim’s cohort, Salleh’s tenure as chief
+surveyor and cartographer was apparent in his keen eye for physical terrain.
+Invited by his master Abu Bakar, Salleh joined a delegation bound for Meiji
+Japan. This official diplomatic trip, consistent with the Maharaja’s pursuit of
+international legitimacy, also satisfied Salleh’s fondness for travel.
+
+The party left Singapore on the French steamer <i>Oxus</i> on 28 April 1883.62
+Along the way, Salleh recorded the names of islands the ship passed, their
+shape, terrain and position in relation to the ship, as well as the people
+who inhabited them (if any) and their principal occupations. In addition
+to landmarks and weather, Salleh noted the date and time the ship passed
+through specific channels, and its arrival at and departure from their stops
+en route. Three hundred miles from Saigon, “the temperature changed and
+it felt cool”, and “the sky also changed colour and took on a misty aspect”.63
+A “deliciously refreshing” rain quickly turned into a violent thunderstorm
+inducing seasickness.64 Here, in contrast to summarised itineraries of
+activities on shore, time at sea is marked by daily weather reports. The entry
+for Tuesday, 8 May, two days after the <i>Oxus</i> left Hong Kong, documents
+the changing wind speeds that led from cold swells in the morning to calmer breezes in the sunny afternoon.65 The following day’s entry records
+the ship’s slow advance due to poor visibility in the fog from morning to
+night, making the approach to Shanghai, with its sandbanks, especially
+treacherous. Salleh still operated across calendrical systems, however, with
+the appearance of the new moon that evening a reminder that it was “the
+first day of the month of Rejab, 1300”.66
+
+Like Singapore, the three transit cities – Saigon, Hong Kong and
+Shanghai – were now colonial ocean ports of the international steam
+network. Infrastructures of communication, like a “telegraph station”
+Salleh saw in the Shanghai harbour,67 signified their integration into an
+electrified, global space. As at other international oases of imperialist
+control, the Maharaja and his aides had access to familiar comforts and
+elite pastimes: a succession of banquets at governors’ houses and billiards at
+gentlemen’s clubs.
 
 
