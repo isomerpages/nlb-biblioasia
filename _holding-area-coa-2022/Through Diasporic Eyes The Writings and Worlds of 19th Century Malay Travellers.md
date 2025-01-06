@@ -664,6 +664,18 @@ personal interaction and impressions. As Maier argued, the elusiveness of a
 fixed and definite Malayness through foreign encounters endures.87 It was,
 and is, as large and varied as the worlds it already contains.
 
+#### **Acknowledgements**
+<i> I wish to thank Drs Sai Siew Min and Mulaika Hijjas for reading drafts of this
+essay and providing helpful and constructive comments. I also record my gratitude to
+Enche’ Juffri Supa’at, my research assistant at the Lee Kong Chian Reference Library,
+as well as all staff at the National Library for their kindness and generosity during my
+fellowship there.</i> 
+
+<div>
+<b>Faris Joraimi </b>is pursuing his PhD in history, specialising in the Malay world.
+His research interests include concepts of time, narrative and Islam in the early
+modern period.
+</div>
 
 
 
