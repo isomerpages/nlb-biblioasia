@@ -183,6 +183,52 @@ trumpet).20 While a contemporary reader may quickly identify what
 “pushed and pulled” as likely a trombone, it is harder to confirm what
 looked “like quivering rice hanging and rattling, ringing when beaten”.21
 
+What the <i>Tuhfat</i> shares with the colonial travelogue is an emphasis on
+foreignness, by focusing on the peculiarity of everyday objects and practices.
+In defamiliarising European life, the <i>Tuhfat</i> can be read as countering the
+Othering voice of the colonial author. Raja Ali Haji’s attunement to cultural
+difference often served to glorify Malayo-Islamic kingship and customs,
+most prominently in his romanticisation of Raja Haji Fisabilillah (1727–84),
+the fourth Yang Dipertuan Muda (viceroy) of Johor famously martyred in
+battle against the Dutch. Yet in the Batavia episode, difference is approached
+not with derision but curiosity and often amazement.
+
+The <i>aja’ib</i> (wonder) topos recurs, for just as Calcutta’s entertainments
+impressed Ahmad Rijaluddin, so did Dutch theatre in Batavia dazzle
+the Malay envoys. However, <i>aja’ib</i> was also a vehicle for exploration
+and learning. As Lara Harb notes, <i>aja’ib</i> was at once emotional but also
+cognitive.22 Inherent in the feeling of awe at God’s creations was the desire
+to know and understand them, through which the observer came closer to piety.23 The <i>Tuhfat</i> simultaneously marvelled at the sheer mass of people
+arriving in “hundreds of carriages”, but also came upon an alternate social
+reality where “men and women were seen sitting together”.24 It documented
+the architecture of the playhouse where “<i>wayang komidi</i>” was performed,
+with its tiered and fixed seating. The special effects of “ships entering, rain,
+thunder, battles and other wonders [<i>aja’ib</i>]” were “marvellous”, but so too
+were the lush stage sets which depicted nature so accurately that “they
+appeared real”.25
+
+In drawing on an Islamic aesthetic tradition of wonder to capture the
+variety and excitement of the colonial city, Ahmad Rijaluddin and Raja Ali
+Haji embodied the encounter between two patterns of life in the Malay
+world that became increasingly contentious in the 19th century. Coded
+in their writing was a <i>negeri</i>-centred Malay cosmopolitanism, connected
+to Islamic networks of culture and learning, which brushed against a
+burgeoning network of European imperialism, centred on ocean portcities
+like Calcutta and Batavia. The former had become the capital of
+British India with a large subcontinental hinterland, while the latter, now
+occupied by a colonial regime no longer playing by indigenous terms of
+engagement, would have felt different to Riau embassies used to dealing
+with the VOC old hands. Public entertainment was, in fact, a microcosm
+for this social restructuring in space: theatre, as a European entertainment
+supposing equality between audiences and performers, had far-reaching
+consequences for Indies life.26 According to Jean Gelman Taylor, it differed
+from the traditional amusements of “Indies households”, performed for
+elite families together with their Asian servants “at a discreet distance”.27
+The public life of mixed-gender seating, traffic congestion and outdoor
+symphonies diverged from the segregated and cloistered living of VOC
+Batavia.28 Despite its geographical proximity to Riau, colonial Batavia felt
+more foreign than Mecca, which is described in the <i>Tuhfat</i>’s account of Raja
+Ahmad’s pilgrimage.
 
 
 
