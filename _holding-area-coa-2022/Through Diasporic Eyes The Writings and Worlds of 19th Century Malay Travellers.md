@@ -914,6 +914,3 @@ Wolters, O. W. [_History, Culture and Region in Southeast Asian Perspectives_](h
 [^86]: See Claire Lindsay, “Travel Writing and Postcolonial Studies,” in _The Routledge Companion to Travel Writing_, ed. Carl Thompson (New York: Routledge, 2016), 25.
 
 [^87]: Maier, [_Survey of Malay Writing_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202997388), 34.
-
-         
-
