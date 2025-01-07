@@ -49,6 +49,7 @@ for 1,783.04 Straits dollars.7 A few years later, a new system was installed; th
 machines were considered a marvel:
 
 &emsp;&emsp;&emsp;&emsp;&emsp;Special cards are punched for each
+
 &emsp;&emsp;&emsp;&emsp;&emsp;consumer, showing
 consumer names and addresses together with their dealings
 
