@@ -6,10 +6,11 @@ description: ""
 ---
 When we reached the bottom of the ship, I looked around me astonished, astonished, astonished, and no words will suffice, for I saw the magic [<i>hikmat</i>] of those steam machines [<i>pesawat asap</i>]. Six to seven fathoms of space were taken up by them alone! And I saw several people wiping, sweeping, oiling and polishing the iron and brasswork until they gleamed like mirrors. I saw nothing rusty, rough or dented, everything was smooth and shiny.[^1]
 
-                              — Munshi Abdullah, 1841                        
+---Munshi Abdullah, 1841
 
-
-#### **Introduction**
+#### **Introduction**                   
+										
+								
 When Munshi Abdullah (1796–1849) wrote the first Malay account of a steamship in 1841, he rendered a strange metal contraption of pipes, boilers and engines for his audience in terms and imagery they could understand. As the first Malay-authored work to be printed and commercially sold, <i>Cerita Kapal Asap</i> (The Tale of the Steamship) was part of a wider turning point in Malay history: from an era of sail and scribes, into the industrial
 civilisation of steam and print.
 
@@ -915,4 +916,3 @@ Taylor, Jean Gelman. [_The Social World of Batavia: European and Eurasian in Dut
 [_The Epic of Hang Tuah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13585137). Translated by Muhammad Haji Salleh. Kuala Lumpur: Institut Terjemahan Negara Malaysia, 2011. (Call no. RSEA 398.2209595 HIK)
 
 Wolters, O. W. [_History, Culture and Region in Southeast Asian Perspectives_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9397283)_._ Rev. ed. Cornell: Southeast Asia Program Publications, 1999. (Call no. RSING 959 WOL)
-
