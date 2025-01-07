@@ -181,7 +181,7 @@ resemblances, comparing the wind instruments to their closest Malay
 siblings: the <i>seruling</i> (bamboo flute), <i>serunai</i> (reed-pipe) and <i>nafiri</i> (royal
 trumpet).[^20] While a contemporary reader may quickly identify what
 “pushed and pulled” as likely a trombone, it is harder to confirm what
-looked “like quivering rice hanging and rattling, ringing when beaten”.21
+looked “like quivering rice hanging and rattling, ringing when beaten”.[^21]
 
 What the <i>Tuhfat</i> shares with the colonial travelogue is an emphasis on
 foreignness, by focusing on the peculiarity of everyday objects and practices.
@@ -197,15 +197,15 @@ The <i>aja’ib</i> (wonder) topos recurs, for just as Calcutta’s entertainmen
 impressed Ahmad Rijaluddin, so did Dutch theatre in Batavia dazzle
 the Malay envoys. However, <i>aja’ib</i> was also a vehicle for exploration
 and learning. As Lara Harb notes, <i>aja’ib</i> was at once emotional but also
-cognitive.22 Inherent in the feeling of awe at God’s creations was the desire
-to know and understand them, through which the observer came closer to piety.23 The <i>Tuhfat</i> simultaneously marvelled at the sheer mass of people
+cognitive.[^22] Inherent in the feeling of awe at God’s creations was the desire
+to know and understand them, through which the observer came closer to piety.[^23] The <i>Tuhfat</i> simultaneously marvelled at the sheer mass of people
 arriving in “hundreds of carriages”, but also came upon an alternate social
-reality where “men and women were seen sitting together”.24 It documented
+reality where “men and women were seen sitting together”.[^24] It documented
 the architecture of the playhouse where “<i>wayang komidi</i>” was performed,
 with its tiered and fixed seating. The special effects of “ships entering, rain,
 thunder, battles and other wonders [<i>aja’ib</i>]” were “marvellous”, but so too
 were the lush stage sets which depicted nature so accurately that “they
-appeared real”.25
+appeared real”.[^25]
 
 In drawing on an Islamic aesthetic tradition of wonder to capture the
 variety and excitement of the colonial city, Ahmad Rijaluddin and Raja Ali
@@ -221,12 +221,12 @@ engagement, would have felt different to Riau embassies used to dealing
 with the VOC old hands. Public entertainment was, in fact, a microcosm
 for this social restructuring in space: theatre, as a European entertainment
 supposing equality between audiences and performers, had far-reaching
-consequences for Indies life.26 According to Jean Gelman Taylor, it differed
+consequences for Indies life.[^26] According to Jean Gelman Taylor, it differed
 from the traditional amusements of “Indies households”, performed for
-elite families together with their Asian servants “at a discreet distance”.27
+elite families together with their Asian servants “at a discreet distance”.[^27]
 The public life of mixed-gender seating, traffic congestion and outdoor
 symphonies diverged from the segregated and cloistered living of VOC
-Batavia.28 Despite its geographical proximity to Riau, colonial Batavia felt
+Batavia.[^28] Despite its geographical proximity to Riau, colonial Batavia felt
 more foreign than Mecca, which is described in the <i>Tuhfat</i>’s account of aja
 Ahmad’s pilgrimage.
 
@@ -259,7 +259,7 @@ Malay literary conventions. Furthermore, intellectual biographies akin to
 Abdullah’s were numerous in Islamic letters, and the individual as narrative
 subject predates Abdullah: he himself extolled an 18th-century (Britishcommissioned)
 biography, <i>Hikayat Nakhoda Muda</i> (The Tale of the Young
-Mariner) as an exemplary piece of Malay literature.29 What Abdullah
+Mariner) as an exemplary piece of Malay literature.[^29] What Abdullah
 introduced was the ethos and outlook of Enlightenment modernity, with its
 subjection of human society to order, reason and progress.
 
@@ -278,10 +278,10 @@ pirate-infested, untamed and closed off from European contact.
 The apparently squalid and lawless east coast states were a far cry from
 the organised life Abdullah knew in British Singapore. Pahang, which had
 “no shops or marketplaces”, was so badly governed it was being reclaimed
-by the wilderness.30 Kelantan’s poor sanitation and cleanliness reflected its
-primitivity.31 Abdullah made ordinary Malays, whom he called “negligent
-and idle”,32 the target of his industrial bias. In Terengganu, he chastised
-children left to play all day “without education or work”.33 To him, these
+by the wilderness.[^30] Kelantan’s poor sanitation and cleanliness reflected its
+primitivity.[^31] Abdullah made ordinary Malays, whom he called “negligent
+and idle”,[^32] the target of his industrial bias. In Terengganu, he chastised
+children left to play all day “without education or work”.[^33] To him, these
 exemplified aristocratic misrule, undisciplined and unorganised around
 productive activity.
 
@@ -300,8 +300,8 @@ purpose of political authority.
 Despite being a messenger of British and Eurocentric modernity,
 however, Abdullah’s liberal critique is innovative for its articulation in
 Islamic terms. Malay nationalists excoriated Abdullah for identifying
-himself with “the customs of the English”.34 Nevertheless, Abdullah performed these “customs”, by which he meant having “the license to
-criticise the improper conduct of kings without being executed or seized”,35
+himself with “the customs of the English”.[^34] Nevertheless, Abdullah performed these “customs”, by which he meant having “the license to
+criticise the improper conduct of kings without being executed or seized”,[^35]
 using arguments from the familiar Islamic political tradition. Abdullah
 modelled his counsel for the Malay kings after the “mirrors for princes”,
 manuals for statecraft common across the Islamic world. The 11th-century
@@ -309,15 +309,15 @@ manuals for statecraft common across the Islamic world. The 11th-century
 Abdullah staged his expositions through interactions with locals.
 He boasted of an “easy and free” life under egalitarian British rule to a
 Kelantan commoner, where one “lived like a king, and we can sit with
-kings”.36 An exchange with an official, Tengku Temena, allowed Abdullah
+kings”.[^36] An exchange with an official, Tengku Temena, allowed Abdullah
 to give sermons on the merits of liberal government in line with Islamic
 injunctions. “Evil customs” bedevilling Malay society, such as smoking
-opium, were “forbidden in Islam”.37 When the Tengku told him to ignore
+opium, were “forbidden in Islam”.[^37] When the Tengku told him to ignore
 the commoners’ complaints about Malay tyranny, Abdullah reminded the
-Tengku that unjust kings would be the first to enter Hell.38 He implored
+Tengku that unjust kings would be the first to enter Hell.[^38] He implored
 all rulers to read the <i>Taj as-Salatin</i> (Crown of Kings), a 17th-century Malay
 “mirror for princes” from Aceh, to cultivate themselves as righteous leaders
-who earn God’s mandate.39
+who earn God’s mandate.[^39]
 
 Abdullah’s rhetoric set a crucial precedent in Malay thought, combining
 Enlightenment liberalism with Islamic statecraft to produce a modernist
@@ -349,7 +349,7 @@ territories and to interpret for British delegations, reflecting his capacity
 to inhabit multiple worlds. Tim Harper called his account “a quietly
 troubled picture of an old world on the turn”, with Ibrahim describing
 Malaya’s integration into a global capitalist network, “a tale of tin, tax
-and land title”.40 Roads and police stations disciplined the landscape,
+and land title”.[^40] Roads and police stations disciplined the landscape,
 while Singapore’s comfortable amenities ranked it first in Ibrahim’s list of
 exemplary towns.41 Penang’s exciting street entertainment recalled Ahmad
 Rijaluddin’s descriptions of Calcutta, precursors to the Asian mass culture
