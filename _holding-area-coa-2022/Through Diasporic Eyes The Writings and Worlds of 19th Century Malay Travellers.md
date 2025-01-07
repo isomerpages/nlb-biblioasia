@@ -784,7 +784,7 @@ modern period.
 
 [^52]: Muhammad Ibrahim Munsyi, [_Kisah Pelayaran_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2663702), 50–51.
 
-[^53]: [_*Epic of Hang Tuah*_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13585137), 128.
+[^53]: [_Epic of Hang Tuah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13585137), 128.
 
 [^54]: [_Epic of Hang Tuah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13585137), 376–77.
 
