@@ -740,65 +740,65 @@ modern period.
 
 [^30]: Abdullah Abdul Kadir, [_Kisah Pelayaran Abdullah Ke Kelantan Dan Ke Judah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5527101), annotated Kassim Ahmad (Kuala Lumpur: Oxford University Press, 1964), 30–31. (Call no. Malay RUR 959.5 ABD)
 
-31 Abdullah Abdul Kadir, [_Kisah Pelayaran Abdullah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5527101), 105.
+[^31]: Abdullah Abdul Kadir, [_Kisah Pelayaran Abdullah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5527101), 105.
 
-32 Abdullah Abdul Kadir, [_Kisah Pelayaran Abdullah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5527101), 30.
+[^32]: Abdullah Abdul Kadir, [_Kisah Pelayaran Abdullah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5527101), 30.
 
-33 Abdullah Abdul Kadir, [_Kisah Pelayaran Abdullah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5527101), 45.
+[^33]: Abdullah Abdul Kadir, [_Kisah Pelayaran Abdullah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5527101), 45.
 
-34 Abdullah Abdul Kadir, [_Kisah Pelayaran Abdullah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5527101), 100.
+[^34]: Abdullah Abdul Kadir, [_Kisah Pelayaran Abdullah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5527101), 100.
 
-35 Abdullah Abdul Kadir, [_Kisah Pelayaran Abdullah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5527101), 100.
+[^35]: Abdullah Abdul Kadir, [_Kisah Pelayaran Abdullah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5527101), 100.
 
-36 Abdullah Abdul Kadir, [_Kisah Pelayaran Abdullah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5527101), 102.
+[^36]: Abdullah Abdul Kadir, [_Kisah Pelayaran Abdullah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5527101), 102.
 
-37 Abdullah Abdul Kadir, [_Kisah Pelayaran Abdullah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5527101), 100.
+[^37]: Abdullah Abdul Kadir, [_Kisah Pelayaran Abdullah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5527101), 100.
 
-38 Abdullah Abdul Kadir, [_Kisah Pelayaran Abdullah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5527101)_,_ 103.
+[^38]: Abdullah Abdul Kadir, [_Kisah Pelayaran Abdullah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5527101)_,_ 103.
 
-39 Abdullah Abdul Kadir, [_Kisah Pelayaran Abdullah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5527101), 104.
+[^39]: Abdullah Abdul Kadir, [_Kisah Pelayaran Abdullah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5527101), 104.
 
-40 Harper, “Afterword,” 275.
+[^40]: Harper, “Afterword,” 275.
 
-41 Harper, “Afterword,” 275.
+[^41]: Harper, “Afterword,” 275.
 
-42 Harper, “Afterword,” 281.
+[^42]: Harper, “Afterword,” 281.
 
-43 Harper, “Afterword,” 280.
+[^43]: Harper, “Afterword,” 280.
 
-44 Muhammad Ibrahim Munsyi, [_Kisah Pelayaran Muhammad Ibrahim Munsyi_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2663702), annotated Mohd. Fadzil Othman (Kuala Lumpur: Dewan Bahasa dan Pustaka, 1980), 39. (Call no. R 959.5 MUH)
+[^44]: Muhammad Ibrahim Munsyi, [_Kisah Pelayaran Muhammad Ibrahim Munsyi_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2663702), annotated Mohd. Fadzil Othman (Kuala Lumpur: Dewan Bahasa dan Pustaka, 1980), 39. (Call no. R 959.5 MUH)
 
-45 Muhammad Ibrahim Munsyi, [_Kisah Pelayaran_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2663702), 45–46.
+[^45]: Muhammad Ibrahim Munsyi, [_Kisah Pelayaran_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2663702), 45–46.
 
-46 Muhammad Ibrahim Munsyi, [_Kisah Pelayaran_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2663702), 35.
+[^46]: Muhammad Ibrahim Munsyi, [_Kisah Pelayaran_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2663702), 35.
 
-47 Muhammad Ibrahim Munsyi, [_Kisah Pelayaran_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2663702), 82.
+[^47]: Muhammad Ibrahim Munsyi, [_Kisah Pelayaran_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2663702), 82.
 
-48 Muhammad Ibrahim Munsyi, [_Kisah Pelayaran_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2663702), 82.
+[^48]: Muhammad Ibrahim Munsyi, [_Kisah Pelayaran_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2663702), 82.
 
-49 Muhammad Ibrahim Munsyi, [_Kisah Pelayaran_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2663702), 87.
+[^49]: Muhammad Ibrahim Munsyi, [_Kisah Pelayaran_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2663702), 87.
 
-50 Muhammad Ibrahim Munsyi, [_Kisah Pelayaran_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2663702), 86.
+[^50]: Muhammad Ibrahim Munsyi, [_Kisah Pelayaran_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2663702), 86.
 
-51 Muhammad Ibrahim Munsyi, [_Kisah Pelayaran_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2663702), xxiv.
+[^51]: Muhammad Ibrahim Munsyi, [_Kisah Pelayaran_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2663702), xxiv.
 
-52 Muhammad Ibrahim Munsyi, [_Kisah Pelayaran_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2663702), 50–51.
+[^52]: Muhammad Ibrahim Munsyi, [_Kisah Pelayaran_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2663702), 50–51.
 
-53 [_Epic of Hang Tuah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13585137), 128.
+[^53]: [_*Epic of Hang Tuah*_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13585137), 128.
 
-54 [_Epic of Hang Tuah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13585137), 376–77.
+[^54]: [_Epic of Hang Tuah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13585137), 376–77.
 
-55 [_Epic of Hang Tuah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13585137), 127.
+[^55]: [_Epic of Hang Tuah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13585137), 127.
 
-56 [_Epic of Hang Tuah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13585137), 127.
+[^56]: [_Epic of Hang Tuah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13585137), 127.
 
-57 [_Epic of Hang Tuah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13585137), 129.
+[^57]: [_Epic of Hang Tuah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13585137), 129.
 
-58 [_Epic of Hang Tuah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13585137), 129, 149.
+[^58]: [_Epic of Hang Tuah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13585137), 129, 149.
 
-59 [_Epic of Hang Tuah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13585137), 129.
+[^59]: [_Epic of Hang Tuah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13585137), 129.
 
-60 [_Epic of Hang Tuah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13585137), 129.
+[^60]: [_Epic of Hang Tuah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13585137), 129.
 
 61 [_Epic of Hang Tuah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13585137), 139.
 
