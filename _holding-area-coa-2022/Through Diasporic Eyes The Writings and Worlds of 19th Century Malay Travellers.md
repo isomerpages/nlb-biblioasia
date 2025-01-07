@@ -800,25 +800,25 @@ modern period.
 
 [^60]: [_Epic of Hang Tuah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13585137), 129.
 
-61 [_Epic of Hang Tuah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13585137), 139.
+[^61]: [_Epic of Hang Tuah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13585137), 139.
 
-62 Sweeney, [_Reputations Live On_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1681387), 98.
+[^62]: Sweeney, [_Reputations Live On_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1681387), 98.
 
-63 Sweeney, [_Reputations Live On_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1681387), 100.
+[^63]: Sweeney, [_Reputations Live On_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1681387), 100.
 
-64 Sweeney, [_Reputations Live On_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1681387), 101.
+[^64]: Sweeney, [_Reputations Live On_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1681387), 101.
 
-65 Sweeney, [_Reputations Live On_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1681387), 102.
+[^65]: Sweeney, [_Reputations Live On_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1681387), 102.
 
-66 Sweeney, [_Reputations Live On_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1681387), 102.
+[^66]: Sweeney, [_Reputations Live On_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1681387), 102.
 
-67 Sweeney, [_Reputations Live On_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1681387), 103.
+[^67]: Sweeney, [_Reputations Live On_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1681387), 103.
 
-68 Sweeney, [_Reputations Live On_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1681387), 102.
+[^68]: Sweeney, [_Reputations Live On_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1681387), 102.
 
-69 Sweeney, [_Reputations Live On_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1681387), 24.
+[^69]: Sweeney, [_Reputations Live On_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1681387), 24.
 
-70 Sweeney, [_Reputations Live On_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1681387), 107.
+[^70]: Sweeney, [_Reputations Live On_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1681387), 107.
 
 71 Sweeney, [_Reputations Live On_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1681387), 104.
 
