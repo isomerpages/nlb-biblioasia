@@ -48,9 +48,11 @@ Straits dollars, together with punch cards (an annually recurring purchase)
 for 1,783.04 Straits dollars.7 A few years later, a new system was installed; the
 machines were considered a marvel:
 
-     Special cards are punched for each consumer, 
-showing consumer names and addresses together with their dealings
-with the department. These are automatically sorted and then
+     Special cards are punched for each consumer, showing 
+
+     consumer names and addresses together with their dealings
+
+     with the department. These are automatically sorted and then
 
      run through a tabulating machine which prints the bills, with
 
@@ -281,8 +283,6 @@ Coming into its place: Rows and rows of girls punching holes
      the building for processing accounts and statistics of the
 
      Finance Ministry.41
-
-
 
 
 
