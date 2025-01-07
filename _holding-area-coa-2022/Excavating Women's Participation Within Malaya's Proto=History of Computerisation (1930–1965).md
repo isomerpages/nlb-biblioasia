@@ -48,11 +48,12 @@ Straits dollars, together with punch cards (an annually recurring purchase)
 for 1,783.04 Straits dollars.7 A few years later, a new system was installed; the
 machines were considered a marvel:
 
-&emsp;&emsp;&emsp;&emsp;&emsp;Special cards are punched for each &emsp;&emsp;&emsp;&emsp;&emsp;consumer, showing
+&emsp;&emsp;&emsp;&emsp;&emsp;Special cards are punched for each
+&emsp;&emsp;&emsp;&emsp;&emsp;consumer, showing
 consumer names and addresses together with their dealings
+
 &emsp;&emsp;&emsp;&emsp;&emsp;with the department. These are automatically sorted and then
+
 &emsp;&emsp;&emsp;&emsp;&emsp;run through a tabulating machine which prints the bills, with
+
 &emsp;&emsp;&emsp;&emsp;&emsp;duplicates which are bound to form a ledger.8
-
-
-
