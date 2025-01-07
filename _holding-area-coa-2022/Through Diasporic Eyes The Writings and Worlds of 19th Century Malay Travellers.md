@@ -351,25 +351,25 @@ troubled picture of an old world on the turn”, with Ibrahim describing
 Malaya’s integration into a global capitalist network, “a tale of tin, tax
 and land title”.[^40] Roads and police stations disciplined the landscape,
 while Singapore’s comfortable amenities ranked it first in Ibrahim’s list of
-exemplary towns.41 Penang’s exciting street entertainment recalled Ahmad
+exemplary towns.[^41] Penang’s exciting street entertainment recalled Ahmad
 Rijaluddin’s descriptions of Calcutta, precursors to the Asian mass culture
-industries of the 20th century.42 Yet the more light-hearted scenes – of
+industries of the 20th century.[^42] Yet the more light-hearted scenes – of
 Ibrahim’s companions spinning narrative yarns, or of his father’s old friends
 reminiscing happier days – anchor these sweeping changes to the quotidian
-as well.43
+as well.[^43] 
 
 Ibrahim clearly inherited Abdullah’s capitalist bias against the Malays
 as “lazy natives”. Even the Malays of Melaka, commercial cultivators
 participating in the town’s economy, were “the noblest” of their race only
-because of their industriousness.44 Elsewhere, local resistance to “the white
-man’s custom” of having land grants was a sign of Malay “stupidity”,45 even
+because of their industriousness.[^44] Elsewhere, local resistance to “the white
+man’s custom” of having land grants was a sign of Malay “stupidity”,[^45] even
 though the tenure system subjecting them to regular taxation disrupted
 the mobile pattern that afforded Malay planters flexibility and freedom.
 He likewise recorded the flows of produce in and out of ports along the Malayan west coast, albeit now in volumetric units. Unlike his father,
 however, Ibrahim was actively remaking this landscape, through his
 political position. In resolving disputes and drawing up contracts between
 Chinese planters, his scribal procedures diverged from those of Malay court
-penmen.46 Instead of producing ceremonial documents signifying the royal
+penmen.[^46] Instead of producing ceremonial documents signifying the royal
 person, Ibrahim made and stored copies, part of the paperwork bureaucracy
 defining Johor as a new Malay polity. This created a depersonalised,
 bureaucratic government detached from the raja’s charismatic power.
@@ -378,26 +378,26 @@ Visiting Klang in 1872, the headquarters of chiefs Syed Zain and Tengku
 Ziauddin engaged in the wider Selangor Civil War, Ibrahim described a
 Malay government bent on public improvement. A town plan was drawn up
 for roads and civic buildings including assembly houses, police stations and
-hospitals.47 As revenues poured in from the thriving tin trade with Melaka
+hospitals.[^47] As revenues poured in from the thriving tin trade with Melaka
 that Tengku Ziauddin helped develop under his rule, this local polity set
 itself in order, unlike the “messy” Terengganu that Abdullah saw decades
 earlier. Ibrahim’s uniform, which Abu Bakar commanded he wore to display
 his position as a member of “our government”, was noticed by Syed Zain,
-who was also designing a seal and uniform to be made in Europe.48 The
+who was also designing a seal and uniform to be made in Europe.[^48] The
 Malay elites, therefore, were conscious of adopting the official trappings that
 enabled them to lay claim to “modern” government.
 
 Yet the effort must have seemed to Ibrahim a pale attempt to pursue
 those Europeanising reforms that earned his state recognition. He was
 unimpressed by the English names Syed Zain adopted for Klang’s streets,
-imitating the Straits Settlements.49 More importantly, Syed Zain and
+imitating the Straits Settlements.[^49] More importantly, Syed Zain and
 Tengku Ziauddin’s undisciplined military, commanded by European
 drifters who failed to obtain Singapore appointments, revealed their
-inability to organise a formidable challenge to British intervention.50
+inability to organise a formidable challenge to British intervention.[^50] 
 However, Ibrahim had a less adversarial relationship with these Malay
 chiefs, unlike his father. Despite representing a progressive Malay leadership,
 as Fadzil Othman observed, Ibrahim enjoyed the company of Malays with
-refined traditional manners, such as Tengku Ziauddin.51 Ibrahim’s expansive belonging, encompassing multiple modes of kinship and community,
+refined traditional manners, such as Tengku Ziauddin.[^51] Ibrahim’s expansive belonging, encompassing multiple modes of kinship and community,
 was not circumscribed by strict membership in either an “old” or “new”
 Malay world.
 
@@ -406,7 +406,7 @@ introduced Malays to new physical landscapes. This time of change was
 also related to the environment: Ibrahim’s account can be read as the story
 of an urbanised Malay for whom jungles were exotic, and who struggled
 with drinking from silty streams and sleeping through mosquito-infested
-evenings. His description of a geothermal spring52 is part of a proliferation
+evenings. His description of a geothermal spring[^52] is part of a proliferation
 of Malay science-writing in the 19th century, mostly educational texts by
 his father Abdullah intended for missionary schools, such as a geography
 entitled <i>Hikayat Dunia</i> (The Tale of the World), a zoological guide called
@@ -424,11 +424,11 @@ the experience of being at sea itself was usually undescribed. The trope of
 voyaging predominated in a society where wealth and state power depended
 on maritime trade and control of vital sea lanes. But scribes and storytellers
 often timed the characters’ journeys across water with approximate numbers
-of days, or formulaic estimations like “seven days and seven nights”.53 Rare
+of days, or formulaic estimations like “seven days and seven nights”.[^53] Rare
 descriptions of the ocean’s materiality were often accompanied by mystical
 encounters. In the <i>Hikayat Hang Tuah</i>, for instance, sudden storms and
 high waves attended the appearance of Nabi Khidir, an Islamic guardian
-saint of the sea.54 The contraction of time and space typically associated
+saint of the sea.[^54] The contraction of time and space typically associated
 with the age of steam undergoes a reversal in the works of Munshi Abdullah
 and Salleh Bin Perang, whose material conception of the world produced
 slow and detailed observation.
@@ -442,8 +442,8 @@ between the Red Sea and the Malay Archipelago at the time, noting the
 stark difference between the archipelago’s shallow and tranquil seas and
 the tempestuous oceans beyond. Abdullah’s uneventful trip up the Melaka
 Straits ended when they passed Penang and entered the Bay of Bengal,
-where “the waves and swells were immense”.55 Like a mere “coconut husk”,
-the <i>Sabil al-Islam</i> was “thrown about by the waves, floating and sinking”.56
+where “the waves and swells were immense”.[^55] Like a mere “coconut husk”,
+the <i>Sabil al-Islam</i> was “thrown about by the waves, floating and sinking”.[^56] 
 
 Abdullah introduced not only an enlarged sense of oceanic space,
 phenomenal and frightening, but also a new temporality that contrasts
@@ -459,16 +459,16 @@ arrival of railway schedules in Malaya in the early 20th century.
 
 As the <i>Sabil al-Islam</i> travelled from Ceylon to the Malabar coast and
 on to the Hejaz, Abdullah described the ocean space with a meteorological
-gaze. Torrential winds gushed “as if they were being poured down on us”.57
+gaze. Torrential winds gushed “as if they were being poured down on us”.[^57] 
 The colour of the water changed from “white as white can be” in the storms
-off Ceylon to “green with corals visible underneath” in the Red Sea.58 The
+off Ceylon to “green with corals visible underneath” in the Red Sea.[^58] The
 air in some places was “clear and bright, and sometimes we would see the
-rays of the sun”, despite the “unspeakable” strong waves and winds.59
+rays of the sun”, despite the “unspeakable” strong waves and winds.[^59] 
 
 Yet these elemental terrors were not for Abdullah entirely rational
 processes, as they inspired reverence for the divine. Despite his diatribes
 against “stupid” Malays whose superstition he blamed for their technological backwardness, his invocations of God upon witnessing the high waves off
-Cape Comorin60 still suggest belief in an Islamic cosmological order wherein
+Cape Comorin[^60] still suggest belief in an Islamic cosmological order wherein
 a divine power governed natural events. Abdullah’s naturalistic observations
 are replete with the topos of <i>aja’ib</i>, seen in his description of the island of
 Socotra, whose “appearance was made by God as a wonder”, with “neither
