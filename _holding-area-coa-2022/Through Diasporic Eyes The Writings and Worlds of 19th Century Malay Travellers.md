@@ -678,6 +678,66 @@ His research interests include concepts of time, narrative and Islam in the earl
 modern period.
 </div>
 
+#### **Bibliography**
+
+Abdullah Abdul Kadir. [_Kisah Pelayaran Abdullah Ke Kelantan Dan Ke Jedah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2663702). Annotated by Kassim Ahmad. Kuala Lumpur: Oxford University Press, 1964. (Call no. RUR Malay 959.5 ABD)
+
+Andaya, Barbara Watson. “From Rum to Tokyo: The Search for Anticolonial Allies by the Rulers of Riau, 1899–1914.” _Indonesia_ 24, no. 24 (October 1977): 123–56. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+—. “Historicising ‘Modernity’ in Southeast Asia.” _Journal of the Economic and Social History of the Orient_ 40, no. 4 (1997).
+
+Arnold, David. _The Tropics and the Traveling Gaze: India, Landscape, and Science, 1800–1856_. Seattle: University of Washington Press, 2006.
+
+Candranegara. [_The Javanese Travels of Purwalelana: A Nobleman’s Account of His Journeys Across the Island of Java, 1860–1875_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205562571). Edited by Frans X. Koot and Judith Ernestine Bosnak. New York: Routledge, 2020. (Call no. RSEA 959.820223 CAN)
+
+Farish A. Noor. “The Hero We Need: Hang Tuah the ‘Model’ South-east Asian.” _Straits Times,_ 28 August 2018. Accessed 11 June 2023.
+
+Forsdick, C. “Travel and the Body: Corporeality, Speed and Technology.” In _The Routledge Companion to Travel Writing_. Edited by Carl Thompson. New York: Routledge, 2016.
+
+Frost, Mark Ravinder. “Asia’s Maritime Networks and the Colonial Public Sphere, 1840–1920.” _New Zealand Journal of Asian Studies_ 6, no. 2 (December 2004).
+
+Gelvin, James and Nile Green, eds. [_Global Muslims in the Age of Steam and Print_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202966647). Berkeley: University of California Press, 2013. (Call no. R 909.09767081 GLO)
+
+Goh, Daniel P. S. “Imperialism and ‘Medieval’ Natives: The Malay Image in Anglo- American Travelogues and Colonialism in Malaya and the Philippines.” _International Journal of Cultural Studies_ 10, no. 3 (September 2007): 323–41.
+
+Han, Mui Ling. “From Travelogues to Guidebooks: Imagining Colonial Singapore, 1819–1940.” _Sojourn: Journal of Social Issues in Southeast Asia_ 18, no. 2 (2003): 257–78. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Harb, Lara. _Arabic Poetics: Aesthetic Experience in Classical Arabic Literature._ Cambridge: Cambridge University Press, 2020.
+
+Harper, Timothy. “Afterword: The Malay World, Beside Empire and Nation.” _Indonesia and the Malay World_ 41, no. 120 (2013): 273–9.
+
+Hooker, Virginia Matheson. “Ali Haji, Raja.” In _Encyclopaedia of Islam, Three_, edited by Kate Fleet, Gudrum Kramer, Denis Matringer, John Nawas and Devin J. Stewart. Accessed 2 May 2023.
+
+Kahn, Joel. [_Other Malays: Nationalism and Cosmopolitanism in the Modern Malay World_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12728340)_._ Singapore: NUS Press, 2006. (Call no. RSING 307.76209595 KAH)
+
+Kong, Lily and Victor R. Savage. “The Malay World in Colonial Fiction.” _Singapore Journal of Tropical Geography_ 7, no. 1 (June 1986): 40–52.
+
+Matar, Nabil. “Arabic Travel Writing, to 1916.” In _The Routledge Companion to Travel Writing_, edited by Carl Thompson. London and New York: Routledge, 2016.
+
+Muhammad Ibrahim Munsyi. [_Kisah Pelayaran Muhammad Ibrahim Munsyi_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2663702)_._ Annotated by Mohd. Fadzil Othman. Kuala Lumpur: Dewan Bahasa dan Pustaka, 1980. (Call no. R 959.5 MUH)
+
+Murtagh, Ben and Vladimir Braginsky, eds. [_The Portrayal of Foreigners in Indonesian and Malay Literatures: Essays on the Ethnic “Other”_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12969944). Lewiston: Edwin Mellen Press, 2007. (Call no. RSEA 899.28 POR)
+
+Netton, I. R. “Rihla.” In _Encyclopaedia of Islam_, 2nd ed., edited by P. Bearman, Th. Bianquis, C. E. Bosworth, E. van Donzel and W. P. Heinrichs. Accessed 3 January 2022.
+
+Raja Ali Haji ibn Ahmad. [_Tuhfat al-Nafis_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4527555)_._ Translated by Virginia Hooker and Barbara Andaya. Oxford: Oxford University Press, 1982. (Call no. RSING 959.5142 ALI)
+
+Said, Edward W. _Orientalism_. New York: Pantheon Books, 1978.
+
+Shahab Ahmad. [_What Is Islam?: The Importance of Being Islamic_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202630152). Oxford: Princeton University Press, 2016. (Call no. R 297 AHM)
+
+Skinner, Cyril. [_Ahmad Rijaluddin’s Hikayat Perintah Negeri Benggala_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4119524)_._ Leiden: KITLV Press, 1982. (Call no. RCLOS 910.4 AHM)
+
+Spurr, David. [_The Rhetoric of Empire: Colonial Discourse in Journalism, Travel Writing, and Imperial Administration_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202563379). Durham: Duke University Press, 1993. (Call no. RCLOS 809.93358 SPU-\[ET\])
+
+Sweeney, Amin. [_Reputations Live On: An Early Malay Autobiography_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1681387)_._ Berkeley: University of California Press, 1980. (Call no. RSING 959.5142 SWE)
+
+Taylor, Jean Gelman. [_The Social World of Batavia: European and Eurasian in Dutch Asia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2822861)_._ Madison: University of Wisconsin Press, 1983. (Call no. RSEA 959.82 TAY)
+
+[_The Epic of Hang Tuah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13585137). Translated by Muhammad Haji Salleh. Kuala Lumpur: Institut Terjemahan Negara Malaysia, 2011. (Call no. RSEA 398.2209595 HIK)
+
+Wolters, O. W. [_History, Culture and Region in Southeast Asian Perspectives_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9397283)_._ Rev. ed. Cornell: Southeast Asia Program Publications, 1999. (Call no. RSING 959 WOL)
+
 #### **NOTES**
      
 
@@ -857,62 +917,3 @@ modern period.
 
          
 
-#### **Bibliography**
-
-Abdullah Abdul Kadir. [_Kisah Pelayaran Abdullah Ke Kelantan Dan Ke Jedah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2663702). Annotated by Kassim Ahmad. Kuala Lumpur: Oxford University Press, 1964. (Call no. RUR Malay 959.5 ABD)
-
-Andaya, Barbara Watson. “From Rum to Tokyo: The Search for Anticolonial Allies by the Rulers of Riau, 1899–1914.” _Indonesia_ 24, no. 24 (October 1977): 123–56. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
-
-—. “Historicising ‘Modernity’ in Southeast Asia.” _Journal of the Economic and Social History of the Orient_ 40, no. 4 (1997).
-
-Arnold, David. _The Tropics and the Traveling Gaze: India, Landscape, and Science, 1800–1856_. Seattle: University of Washington Press, 2006.
-
-Candranegara. [_The Javanese Travels of Purwalelana: A Nobleman’s Account of His Journeys Across the Island of Java, 1860–1875_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205562571). Edited by Frans X. Koot and Judith Ernestine Bosnak. New York: Routledge, 2020. (Call no. RSEA 959.820223 CAN)
-
-Farish A. Noor. “The Hero We Need: Hang Tuah the ‘Model’ South-east Asian.” _Straits Times,_ 28 August 2018. Accessed 11 June 2023.
-
-Forsdick, C. “Travel and the Body: Corporeality, Speed and Technology.” In _The Routledge Companion to Travel Writing_. Edited by Carl Thompson. New York: Routledge, 2016.
-
-Frost, Mark Ravinder. “Asia’s Maritime Networks and the Colonial Public Sphere, 1840–1920.” _New Zealand Journal of Asian Studies_ 6, no. 2 (December 2004).
-
-Gelvin, James and Nile Green, eds. [_Global Muslims in the Age of Steam and Print_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202966647). Berkeley: University of California Press, 2013. (Call no. R 909.09767081 GLO)
-
-Goh, Daniel P. S. “Imperialism and ‘Medieval’ Natives: The Malay Image in Anglo- American Travelogues and Colonialism in Malaya and the Philippines.” _International Journal of Cultural Studies_ 10, no. 3 (September 2007): 323–41.
-
-Han, Mui Ling. “From Travelogues to Guidebooks: Imagining Colonial Singapore, 1819–1940.” _Sojourn: Journal of Social Issues in Southeast Asia_ 18, no. 2 (2003): 257–78. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
-
-Harb, Lara. _Arabic Poetics: Aesthetic Experience in Classical Arabic Literature._ Cambridge: Cambridge University Press, 2020.
-
-Harper, Timothy. “Afterword: The Malay World, Beside Empire and Nation.” _Indonesia and the Malay World_ 41, no. 120 (2013): 273–9.
-
-Hooker, Virginia Matheson. “Ali Haji, Raja.” In _Encyclopaedia of Islam, Three_, edited by Kate Fleet, Gudrum Kramer, Denis Matringer, John Nawas and Devin J. Stewart. Accessed 2 May 2023.
-
-Kahn, Joel. [_Other Malays: Nationalism and Cosmopolitanism in the Modern Malay World_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12728340)_._ Singapore: NUS Press, 2006. (Call no. RSING 307.76209595 KAH)
-
-Kong, Lily and Victor R. Savage. “The Malay World in Colonial Fiction.” _Singapore Journal of Tropical Geography_ 7, no. 1 (June 1986): 40–52.
-
-Matar, Nabil. “Arabic Travel Writing, to 1916.” In _The Routledge Companion to Travel Writing_, edited by Carl Thompson. London and New York: Routledge, 2016.
-
-Muhammad Ibrahim Munsyi. [_Kisah Pelayaran Muhammad Ibrahim Munsyi_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2663702)_._ Annotated by Mohd. Fadzil Othman. Kuala Lumpur: Dewan Bahasa dan Pustaka, 1980. (Call no. R 959.5 MUH)
-
-Murtagh, Ben and Vladimir Braginsky, eds. [_The Portrayal of Foreigners in Indonesian and Malay Literatures: Essays on the Ethnic “Other”_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12969944). Lewiston: Edwin Mellen Press, 2007. (Call no. RSEA 899.28 POR)
-
-Netton, I. R. “Rihla.” In _Encyclopaedia of Islam_, 2nd ed., edited by P. Bearman, Th. Bianquis, C. E. Bosworth, E. van Donzel and W. P. Heinrichs. Accessed 3 January 2022.
-
-Raja Ali Haji ibn Ahmad. [_Tuhfat al-Nafis_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4527555)_._ Translated by Virginia Hooker and Barbara Andaya. Oxford: Oxford University Press, 1982. (Call no. RSING 959.5142 ALI)
-
-Said, Edward W. _Orientalism_. New York: Pantheon Books, 1978.
-
-Shahab Ahmad. [_What Is Islam?: The Importance of Being Islamic_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202630152). Oxford: Princeton University Press, 2016. (Call no. R 297 AHM)
-
-Skinner, Cyril. [_Ahmad Rijaluddin’s Hikayat Perintah Negeri Benggala_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4119524)_._ Leiden: KITLV Press, 1982. (Call no. RCLOS 910.4 AHM)
-
-Spurr, David. [_The Rhetoric of Empire: Colonial Discourse in Journalism, Travel Writing, and Imperial Administration_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202563379). Durham: Duke University Press, 1993. (Call no. RCLOS 809.93358 SPU-\[ET\])
-
-Sweeney, Amin. [_Reputations Live On: An Early Malay Autobiography_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1681387)_._ Berkeley: University of California Press, 1980. (Call no. RSING 959.5142 SWE)
-
-Taylor, Jean Gelman. [_The Social World of Batavia: European and Eurasian in Dutch Asia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2822861)_._ Madison: University of Wisconsin Press, 1983. (Call no. RSEA 959.82 TAY)
-
-[_The Epic of Hang Tuah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13585137). Translated by Muhammad Haji Salleh. Kuala Lumpur: Institut Terjemahan Negara Malaysia, 2011. (Call no. RSEA 398.2209595 HIK)
-
-Wolters, O. W. [_History, Culture and Region in Southeast Asian Perspectives_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9397283)_._ Rev. ed. Cornell: Southeast Asia Program Publications, 1999. (Call no. RSING 959 WOL)
