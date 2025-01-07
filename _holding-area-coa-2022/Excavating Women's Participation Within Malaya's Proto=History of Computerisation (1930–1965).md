@@ -48,13 +48,51 @@ Straits dollars, together with punch cards (an annually recurring purchase)
 for 1,783.04 Straits dollars.7 A few years later, a new system was installed; the
 machines were considered a marvel:
 
-&emsp;&emsp;&emsp;&emsp;&emsp;Special cards are punched for each
+     Special cards are punched for each consumer, 
+showing
 
-&emsp;&emsp;&emsp;&emsp;&emsp;consumer, showing
-consumer names and addresses together with their dealings
+     consumer names and addresses together with their dealings
 
-&emsp;&emsp;&emsp;&emsp;&emsp;with the department. These are automatically sorted and then
+     with the department. These are automatically sorted and then
 
-&emsp;&emsp;&emsp;&emsp;&emsp;run through a tabulating machine which prints the bills, with
+     run through a tabulating machine which prints the bills, with
 
-&emsp;&emsp;&emsp;&emsp;&emsp;duplicates which are bound to form a ledger.8
+     duplicates which are bound to form a ledger.8
+
+At that point in the late 1930s, 2,000 out of 40,000 of the Municipal
+accounts had been mechanised; a full changeover was expected to be
+completed within a year.9
+
+This initiative was disrupted by the Second World War, and the system
+reportedly suffered from neglect during the Japanese Occupation (1942–45).10
+After the war, the machines were in poor condition. Data collected for the
+1947 Pan-Malayan Census had to be reconfigured in Ipoh and sent to be
+tabulated by the British Tabulating Machine Company in Britain under
+the control of the Treasury, with the Malayan authorities bearing the
+cost.11 By 1950, the colony had received a consignment of 15 new machines, valued at £12,000, from the United Kingdom.12 These were to be used –
+initially alongside their reconditioned older counterparts – to process trade,
+financial, salary and demographic statistics.13
+
+The new accounting machines were from the Powers-Samas
+organisation, which was part of the Vickers group of companies that was
+expanding its operations in Asia through its district office in Calcutta, with
+a sales and technical service office in Singapore under Henry Waugh and
+Co. Ltd.14 Following the merger with British Tabulating Machine to form
+International Computers and Tabulators (ICT) in 1959, the organisation
+was further committed to the region. In August 1964, ICT installed the
+Federation of Malaysia’s fourth computer – an ICT 1301 system – in the
+Public Utilities Board at Singapore’s City Hall, starting the transition out of
+the old punch card system to a more automated computerised system.15
+
+From the start, the accounting machines did not just facilitate
+bookkeeping and reports, but also provided new employment opportunities,
+particularly for women. The participation of this new labour force was
+initially not welcomed. In 1932, the <i>Singapore Free Press</i> reported on plans
+to install the Powers-Samas machines in three years’ time. The paper’s
+comments reflected an underlying anxiety over the accounting machines,
+and their women operators:
+
+
+
+
+
