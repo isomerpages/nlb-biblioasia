@@ -98,3 +98,19 @@ and their women operators:
      States] Railways. The idea, apparently, is to do away with the
 
      majority of the present staff and train girls for employment.16
+
+Nonetheless, the employment of women proceeded as planned. The
+Asian women operators, known as clerk-operators, were supervised by Mrs
+Marjorie Ainger, a European.17 Ainger was the section supervisor from 1935
+to 1952, and her principal task was generating the monthly Malayan statistics
+report.18 Given the general absence of women in public institutions in
+1930s Singapore, the mention of Ainger in not only official reports but also
+newspaper accounts shows the novelty of women in administrative positions.
+
+One of the department’s productions, prepared with the aid of
+accounting machines, was the  <i> Malayan Statistics of Imports and Exports </i> , a
+500-page volume with detailed data on diverse categories of transactions.
+In the 1950s, the machines were operated by 13 women clerk-operators
+processing close to 50,000 cards each month at a rate of 3,000 cards per
+hour as part of unit “accounting”.19 As the  <i> Singapore Free Press </i>  reported,
+
