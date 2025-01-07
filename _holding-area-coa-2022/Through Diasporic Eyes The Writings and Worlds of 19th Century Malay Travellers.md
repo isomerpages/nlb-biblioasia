@@ -820,36 +820,36 @@ modern period.
 
 [^70]: Sweeney, [_Reputations Live On_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1681387), 107.
 
-71 Sweeney, [_Reputations Live On_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1681387), 104.
+[^71]: Sweeney, [_Reputations Live On_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1681387), 104.
 
-72 Sweeney, [_Reputations Live On_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1681387), 128.
+[^72]: Sweeney, [_Reputations Live On_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1681387), 128.
 
-73 Sweeney, [_Reputations Live On_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1681387), 129.
+[^73]: Sweeney, [_Reputations Live On_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1681387), 129.
 
-74 Sweeney, [_Reputations Live On_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1681387), 129.
+[^74]: Sweeney, [_Reputations Live On_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1681387), 129.
 
-75 Farish A. Noor, “The Hero We Need: Hang Tuah the ‘Model’ South-east Asian,” _Straits Times,_ 28 August 2018, accessed 11 June 2023.
+[^75]: Farish A. Noor, “The Hero We Need: Hang Tuah the ‘Model’ South-east Asian,” _Straits Times,_ 28 August 2018, accessed 11 June 2023.
 
-76 C. Forsdick, “Travel and the Body: Corporeality, Speed and Technology,” in _The Routledge Companion to Travel Writing_, ed. Carl Thompson (New York: Routledge, 2016), 71.
+[^76]: C. Forsdick, “Travel and the Body: Corporeality, Speed and Technology,” in _The Routledge Companion to Travel Writing_, ed. Carl Thompson (New York: Routledge, 2016), 71.
 
-77 Barbara Watson Andaya, “From Rum to Tokyo: The Search for Anticolonial Allies by the Rulers of Riau, 1899–1914,” _Indonesia_ 24, no. 24 (October 1977): 141. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^77]: Barbara Watson Andaya, “From Rum to Tokyo: The Search for Anticolonial Allies by the Rulers of Riau, 1899–1914,” _Indonesia_ 24, no. 24 (October 1977): 141. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-78 See Barbara Watson Andaya, “Historicising ‘Modernity’ in Southeast Asia,” _Journal of the Economic and Social History of the Orient_ 40, no. 4 (1997): 391–409.
+[^78]: See Barbara Watson Andaya, “Historicising ‘Modernity’ in Southeast Asia,” _Journal of the Economic and Social History of the Orient_ 40, no. 4 (1997): 391–409.
 
-79 O. W. Wolters, [_History, Culture and Region in Southeast Asian Perspectives_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9397283), rev. ed. (Singapore: Institute of Southeast Asian Studies, 1999), 109. (Call no. RSING 959 WOL)
+[^79]: O. W. Wolters, [_History, Culture and Region in Southeast Asian Perspectives_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9397283), rev. ed. (Singapore: Institute of Southeast Asian Studies, 1999), 109. (Call no. RSING 959 WOL)
 
-80 See Vladimir Braginsky and Ben Murtagh, eds., [_The Portrayal of Foreigners in Indonesian and Malay Literatures: Essays on the Ethnic “Other”_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12969944) (Lewiston: Edwin Mellen Press, 2007). (Call no. RSEA 899.28 POR)
+[^80]: See Vladimir Braginsky and Ben Murtagh, eds., [_The Portrayal of Foreigners in Indonesian and Malay Literatures: Essays on the Ethnic “Other”_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12969944) (Lewiston: Edwin Mellen Press, 2007). (Call no. RSEA 899.28 POR)
 
-81 Joel S. Kahn, [_Other Malays: Nationalism and Cosmopolitanism in the Modern Malay World_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12728340) (Singapore: NUS Press, 2006), xiv. (Call no. RSING 307.76209595 KAH)
+[^81]: Joel S. Kahn, [_Other Malays: Nationalism and Cosmopolitanism in the Modern Malay World_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12728340) (Singapore: NUS Press, 2006), xiv. (Call no. RSING 307.76209595 KAH)
 
-82 Nabil Matar, “Arabic Travel Writing, to 1916,” in _The Routledge Companion to Travel Writing_, ed. Carl Thompson (New York: Routledge, 2016), 148.
+[^82]: Nabil Matar, “Arabic Travel Writing, to 1916,” in _The Routledge Companion to Travel Writing_, ed. Carl Thompson (New York: Routledge, 2016), 148.
 
-83 Shahab Ahmed, [_What is Islam?: The Importance of Being Islamic_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202630152) (Oxford: Princeton University Press, 2016), 322–29. (Call no. R 297 AHM)
+[^83]: Shahab Ahmed, [_What is Islam?: The Importance of Being Islamic_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202630152) (Oxford: Princeton University Press, 2016), 322–29. (Call no. R 297 AHM)
 
-84 Anthony Milner, [_The Invention of Politics in Colonial Malaya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=10408470) (Cambridge: Cambridge University Press, 2002), 285. (Call no. RSEA 959.5 MIL)
+[^84]: Anthony Milner, [_The Invention of Politics in Colonial Malaya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=10408470) (Cambridge: Cambridge University Press, 2002), 285. (Call no. RSEA 959.5 MIL)
 
-85 Henk Maier, [_We Are Playing Relatives: A Survey of Malay Writing_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202997388) (Leiden: KITLV Press, 2004), 34. (Call no. 899.2809 MAI)
+[^85]: Henk Maier, [_We Are Playing Relatives: A Survey of Malay Writing_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202997388) (Leiden: KITLV Press, 2004), 34. (Call no. 899.2809 MAI)
 
-86 See Claire Lindsay, “Travel Writing and Postcolonial Studies,” in _The Routledge Companion to Travel Writing_, ed. Carl Thompson (New York: Routledge, 2016), 25.
+[^86]: See Claire Lindsay, “Travel Writing and Postcolonial Studies,” in _The Routledge Companion to Travel Writing_, ed. Carl Thompson (New York: Routledge, 2016), 25.
 
-87 Maier, [_Survey of Malay Writing_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202997388), 34.
+[^87]: aier, [_Survey of Malay Writing_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202997388), 34.
