@@ -683,61 +683,62 @@ modern period.
 [^1]: Abdullah Bin Abdul Kadir and Annabel Gallop, “Cerita Kapal Asap,” _Indonesia Circle_ 17, no. 47–48 (1989): 3–4.
 
 [^2]: See: David Spurr, [_The Rhetoric of Empire: Colonial Discourse in Journalism, Travel Writing, and Imperial Administration_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202563379) (Durham: Duke University Press, 1993) (Call no. RCLOS 809.93358 SPU-\[ET\]); Han Mui Ling, “From Travelogues to Guidebooks: Imagining Colonial Singapore, 1819–1940,” _Sojourn: Journal of Social Issues in Southeast Asia_ 18, no. 2 (October 2003): 257–78 (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website); Daniel P. S. Goh, “Imperialism and ‘Medieval’ Natives: The Malay Image in Anglo-American Travelogues and Colonialism in Malaya and the Philippines,” _International Journal of Cultural Studies_ 10, no. 3 (September 2007): 323–41.  
-3 See: Lily Kong and Victor R. Savage, “The Malay World in Colonial Fiction,” _Singapore Journal of Tropical Geography_ 7, no. 1 (June 1986): 40–52; Edward W. Said, _Orientalism_ (New York: Pantheon Books, 1978); David Arnold, _The Tropics and the Traveling Gaze: India, Landscape, and Science, 1800–1856_ (Seattle: University of Washington Press, 2006).
 
-4 James L. Gelvin and Nile Green, eds., [_Global Muslims in the Age of Steam and Print_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202966647) (Berkeley: University of California Press, 2013), 2–3. (Call no. R 909.09767081 GLO)
+[^3]:  See: Lily Kong and Victor R. Savage, “The Malay World in Colonial Fiction,” _Singapore Journal of Tropical Geography_ 7, no. 1 (June 1986): 40–52; Edward W. Said, _Orientalism_ (New York: Pantheon Books, 1978); David Arnold, _The Tropics and the Traveling Gaze: India, Landscape, and Science, 1800–1856_ (Seattle: University of Washington Press, 2006).
 
-5 Mark Ravinder Frost, “Asia’s Maritime Networks and the Colonial Public Sphere, 1840–1920,” _New Zealand Journal of Asian Studies_ 6, no. 2 (December 2004): 94.
+[^4]: James L. Gelvin and Nile Green, eds., [_Global Muslims in the Age of Steam and Print_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202966647) (Berkeley: University of California Press, 2013), 2–3. (Call no. R 909.09767081 GLO)
 
-6 Candranegara, [_The Javanese Travels of Purwalelana: A Nobleman’s Account of His Journeys Across the Island of Java, 1860–1875_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205562571), ed. Frans X. Koot and Judith Ernestine Bosnak (New York: Routledge, 2020). (Call no. RSEA 959.820223 CAN)
+[^5]: Mark Ravinder Frost, “Asia’s Maritime Networks and the Colonial Public Sphere, 1840–1920,” _New Zealand Journal of Asian Studies_ 6, no. 2 (December 2004): 94.
 
-7 Much has been made of Abdullah’s individualist authorial voice, and how his descriptions of “real” events, instead of fantastic elements, set him apart from traditional writers. His legacy is visible in the works of Ibrahim and Salleh, whose works reflected the formal education they received from Abdullah and his employers, the Protestant missionaries in British Singapore. At the same time, the prevailing trope of literary innovation based largely on these authors’ “realist” bent has been perhaps overplayed: the 18th-century texts _Hikayat Nakhoda Muda_ (Tale of the Young Mariner) and _Hikayat Tanah Hitu_ (Tale of the Land of Hitu), and going back slightly further, the 17th-century _Syair Perang Mengkasar_ (Ballad of the Makassar War), were all based on “factual” reports.
+[^6]: Candranegara, [_The Javanese Travels of Purwalelana: A Nobleman’s Account of His Journeys Across the Island of Java, 1860–1875_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205562571), ed. Frans X. Koot and Judith Ernestine Bosnak (New York: Routledge, 2020). (Call no. RSEA 959.820223 CAN)
 
-8 Timothy Harper, “Afterword: The Malay World, Beside Empire and Nation,” _Indonesia and the Malay World_ 41, no. 120 (2013): 273–90.
+[^7]: Much has been made of Abdullah’s individualist authorial voice, and how his descriptions of “real” events, instead of fantastic elements, set him apart from traditional writers. His legacy is visible in the works of Ibrahim and Salleh, whose works reflected the formal education they received from Abdullah and his employers, the Protestant missionaries in British Singapore. At the same time, the prevailing trope of literary innovation based largely on these authors’ “realist” bent has been perhaps overplayed: the 18th-century texts _Hikayat Nakhoda Muda_ (Tale of the Young Mariner) and _Hikayat Tanah Hitu_ (Tale of the Land of Hitu), and going back slightly further, the 17th-century _Syair Perang Mengkasar_ (Ballad of the Makassar War), were all based on “factual” reports.
 
-9 See Sumit K. Mandal, “Global Conjunctions in the Indian Ocean World: Malay Textual Trajectories,” _Indonesia and the Malay World_ 41 no. 120 (July 2013): 143–45.
+[^8]: Timothy Harper, “Afterword: The Malay World, Beside Empire and Nation,” _Indonesia and the Malay World_ 41, no. 120 (2013): 273–90.
 
-10 Cyril Skinner, [_Ahmad Rijaluddin’s Hikayat Perintah Negeri Benggala_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4119524) (Leiden: KITLV Press, 1982), 9. (Call no. RCLOS 910.4 AHM)
+[^9]: See Sumit K. Mandal, “Global Conjunctions in the Indian Ocean World: Malay Textual Trajectories,” _Indonesia and the Malay World_ 41 no. 120 (July 2013): 143–45.
 
-11 Skinner, [_Hikayat Perintah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4119524), 28.
+[^10]: Cyril Skinner, [_Ahmad Rijaluddin’s Hikayat Perintah Negeri Benggala_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4119524) (Leiden: KITLV Press, 1982), 9. (Call no. RCLOS 910.4 AHM)
 
-12 Skinner, [_Hikayat Perintah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4119524), 30.
+[^11]: Skinner, [_Hikayat Perintah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4119524), 28.
 
-13 Skinner, [_Hikayat Perintah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4119524), 64–67.
+[^12]: Skinner, [_Hikayat Perintah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4119524), 30.
 
-14 Skinner, [_Hikayat Perintah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4119524), 76, 96, 134, 142.
+[^13]: Skinner, [_Hikayat Perintah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4119524), 64–67.
 
-15 I. R. Netton, “Rihla,” in _Encyclopaedia of Islam,_ 2nd ed., ed. P. Bearman et al., accessed 3 January 2022.
+[^14]: Skinner, [_Hikayat Perintah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4119524), 76, 96, 134, 142.
 
-16 Netton, “Rihla,” 50.
+[^15]: I. R. Netton, “Rihla,” in _Encyclopaedia of Islam,_ 2nd ed., ed. P. Bearman et al., accessed 3 January 2022.
 
-17 [_The Epic of Hang Tuah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13585137), trans. Muhammad Haji Salleh (Kuala Lumpur: Institut Terjemahan Negara Malaysia, 2010), 503. (Call no. RSEA 398.2209595 HIK)
+[^16]: Netton, “Rihla,” 50.
 
-18 Virginia Matheson Hooker, “Ali Haji, Raja,” in _Encyclopaedia of Islam, Three_, ed. Kate Fleet et al., accessed 2 May 2023.
+[^17]: [_The Epic of Hang Tuah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13585137), trans. Muhammad Haji Salleh (Kuala Lumpur: Institut Terjemahan Negara Malaysia, 2010), 503. (Call no. RSEA 398.2209595 HIK)
 
-19 Raja Haji Ahmad and Raja Ali Haji, [_Tuhfat Al-Nafis_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4527555)_,_ trans. Virginia Hooker and Barbara Andaya (Oxford: Oxford University Press, 1982), 234. (Call no. RSING 959.5142 ALI)
+[^18]: Virginia Matheson Hooker, “Ali Haji, Raja,” in _Encyclopaedia of Islam, Three_, ed. Kate Fleet et al., accessed 2 May 2023.
 
-20 Raja and Raja, [_Tuhfat Al-Nafis_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4527555), 235.
+[^19]: Raja Haji Ahmad and Raja Ali Haji, [_Tuhfat Al-Nafis_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4527555)_,_ trans. Virginia Hooker and Barbara Andaya (Oxford: Oxford University Press, 1982), 234. (Call no. RSING 959.5142 ALI)
 
-21 Raja and Raja, [_Tuhfat Al-Nafis_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4527555), 235. Hooker suggested a tambourine.
+[^20]: Raja and Raja, [_Tuhfat Al-Nafis_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4527555), 235.
 
-22 Lara Harb, _Arabic Poetics: Aesthetic Experience in Classical Arabic Literature_ (Cambridge: Cambridge University Press, 2020), 8.
+[^21]: Raja and Raja, [_Tuhfat Al-Nafis_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4527555), 235. Hooker suggested a tambourine.
 
-23 Harb, _Arabic Poetics_, 8.
+[^22]: Lara Harb, _Arabic Poetics: Aesthetic Experience in Classical Arabic Literature_ (Cambridge: Cambridge University Press, 2020), 8.
 
-24 Raja and Raja, [_Tuhfat Al-Nafis_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4527555), 235.
+[^23]: Harb, _Arabic Poetics_, 8.
 
-25 Raja and Raja, [_Tuhfat Al-Nafis_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4527555), 235.
+[^24]: Raja and Raja, [_Tuhfat Al-Nafis_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4527555), 235.
 
-26 Jean Gelman Taylor, [_The Social World of Batavia: European and Eurasian in Dutch Asia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2822861) (Madison: University of Wisconsin Press, 1983), 100–101. (Call no. RSEA 959.82 TAY)
+[^25]: Raja and Raja, [_Tuhfat Al-Nafis_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4527555), 235.
 
-27 Taylor, [_Social World of Batavia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2822861), 100–101.
+[^26]: Jean Gelman Taylor, [_The Social World of Batavia: European and Eurasian in Dutch Asia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2822861) (Madison: University of Wisconsin Press, 1983), 100–101. (Call no. RSEA 959.82 TAY)
 
-28 Taylor, [_Social World of Batavia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2822861), 99.
+[^27]: Taylor, [_Social World of Batavia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2822861), 100–101.
 
-29 Amin Sweeney, [_Reputations Live On: An Early Malay Autobiography_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1681387) (Berkeley: University of California Press, 1980), 13. (Call no. RSING 959.5142 SWE)
+[^28]: Taylor, [_Social World of Batavia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2822861), 99.
 
-30 Abdullah Abdul Kadir, [_Kisah Pelayaran Abdullah Ke Kelantan Dan Ke Judah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5527101), annotated Kassim Ahmad (Kuala Lumpur: Oxford University Press, 1964), 30–31. (Call no. Malay RUR 959.5 ABD)
+[^29]: Amin Sweeney, [_Reputations Live On: An Early Malay Autobiography_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1681387) (Berkeley: University of California Press, 1980), 13. (Call no. RSING 959.5142 SWE)
+
+[^30]: Abdullah Abdul Kadir, [_Kisah Pelayaran Abdullah Ke Kelantan Dan Ke Judah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5527101), annotated Kassim Ahmad (Kuala Lumpur: Oxford University Press, 1964), 30–31. (Call no. Malay RUR 959.5 ABD)
 
 31 Abdullah Abdul Kadir, [_Kisah Pelayaran Abdullah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5527101), 105.
 
@@ -852,4 +853,3 @@ modern period.
 86 See Claire Lindsay, “Travel Writing and Postcolonial Studies,” in _The Routledge Companion to Travel Writing_, ed. Carl Thompson (New York: Routledge, 2016), 25.
 
 87 Maier, [_Survey of Malay Writing_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202997388), 34.
-
