@@ -169,8 +169,52 @@ of knowledge transfer, with more locals being trained and taking on
 managerial positions as these corporations deepened their engagement with
 the region.
 
+#### **NCR’s Machine-Conscious Cashiers and Models**
 
+The National Cash Register Company was formally incorporated in
+Dayton, Ohio, in 1884. Its first advertisement in the broadsheets of British
+Malaya appeared some two decades later, warning of the problem of
+inefficiency and theft in manual accounting systems, and promising that “a
+National cash register stops leaks”.25 This 1905 advertisement in the <i>Straits
+Times</i> heralded the start of NCR’s marketing and publicity campaign in the
+region, conducted through the media and public exhibitions.
 
+Up to the Second World War, NCR’s cash registers and accounting
+machines were distributed by local companies serving as representatives.26
+The first NCR branch in Malaya was established in 1950,27 and by 1967,
+there were 12 offices and service depots in Malaysia and Singapore.28
+Recognising Southeast Asia’s potential, the multinational positioned Singapore as its regional headquarters.29 NCR attributed the popularity
+of its products – sales in Malaya quadrupled between 1953 and 1959 – to
+customers’ new business practices and expectations: “People in Malaya and
+other Eastern countries are becoming increasingly office machine-conscious.
+In this atomic age, they want efficiency, speed and accuracy.”30
 
+NCR was active in staging exhibitions to promote both its own
+machines as well as products that it marketed in its role as the designated
+local agent.31 Public personalities who visited its exhibitions included
+Singapore’s first Chief Minister, David Marshall, who was briefed by the
+corporation’s representatives.32
+
+During this period, NCR machines were installed in some of the
+city’s major businesses, like Fitzpatrick’s supermarket and the ethnic
+Chinese-operated Lee Wah Bank,33 heralding a new era of transaction and
+accounting practices in Singapore. In 1958, the corporation showcased its
+latest cash register, installed at Fitzpatrick’s, to the <i>Singapore Free Press</i>.
+Describing it as “speedy and error-free” and a “machine that thinks”, the
+paper highlighted the convenience of the new registers:
+
+     Ordinarily the clerk would be forced to do some swift mental
+
+     arithmetic or more likely, use a pencil and paper to figure the
+
+     customers’ change […] The latest triumph of the National cash
+
+     register over man will relieve operator fatigue and protect the
+
+     cashier, who is responsible for the balance in her machine, as
+
+     well as the customer. And the cash register, unlike either of
+
+     them, is always right.34
 
 
