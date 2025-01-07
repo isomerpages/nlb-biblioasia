@@ -133,8 +133,7 @@ men as clerk-operators.21
 
 An insight into the early operations of the Powers-Samas accounting
 machines at the Federated Malay States Railways (FMSR) offices was
-documented by the Kuala Lumpur correspondent of the <i>Straits Times</i> in
-1935.  Consisting of five key punching machines, a sorter and a tabulator, the
+documented by the Kuala Lumpur correspondent of the <i>Straits Times</i> in 1935.  Consisting of five key punching machines, a sorter and a tabulator, the
 installation was operated by a staff of locally recruited women whom the
 paper described as “clever girls” who had attained considerable “skill and
 speed” with only a month’s training. The process generated statistics such
