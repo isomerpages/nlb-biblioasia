@@ -49,11 +49,8 @@ for 1,783.04 Straits dollars.7 A few years later, a new system was installed; th
 machines were considered a marvel:
 
      Special cards are punched for each consumer, 
-showing
-
-     consumer names and addresses together with their dealings
-
-     with the department. These are automatically sorted and then
+showing consumer names and addresses together with their dealings
+with the department. These are automatically sorted and then
 
      run through a tabulating machine which prints the bills, with
 
@@ -101,6 +98,3 @@ and their women operators:
      States] Railways. The idea, apparently, is to do away with the
 
      majority of the present staff and train girls for employment.16
-
-
-
