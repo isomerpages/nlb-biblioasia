@@ -124,6 +124,53 @@ clicking noises all day long, these girls do perhaps one
      of the queerest jobs in town. But, their job is not only queer; it
 
      is highly responsible.20
+		 
+	
+The belief was that women were temperamentally more suitable than
+men as clerk-operators.21	 
+
+An insight into the early operations of the Powers-Samas accounting
+machines at the Federated Malay States Railways (FMSR) offices was
+documented by the Kuala Lumpur correspondent of the <i>Straits Times</i> in
+1935. Consisting of five key punching machines, a sorter and a tabulator, the
+installation was operated by a staff of locally recruited women whom the
+paper described as “clever girls” who had attained considerable “skill and
+speed” with only a month’s training. The process generated statistics such
+as engine types, wagon miles, cargo weight, distance travelled, punctuality,
+performance, journeys taken by passengers, and storage of goods.
+
+Figure 1 offers a glimpse of the operations of the Powers-Samas
+accounting machines at the Singapore Statistics Department, which appears
+to have been staffed entirely by women. In the photo, two operators, with
+their backs to the camera, have their hands pressed against the machines as
+they look intently at the paper reels in front of them. Facing them are two
+other women focused on their machines. Owing to their being featured
+in local newspaper stories for their work in compiling census data, women
+became increasingly associated with mechanised data processing in the 1950s
+and 1960s.22
+
+The supervisory roles in such departments were dominated by European
+women, even into the 1960s. Like her predecessor Ainger, Joan Talalla
+started with the Department of Statistics after the Second World War, with
+20 non-European operators of accounting machines under her. By 1960, the
+number had grown to 85, constituting the biggest all-women section within
+the government.23
+
+The perception of locals being sidelined by colonial racial hierarchies
+did not go unchallenged, with the tensions being part of the acrimonious
+industrial relations in Singapore in the 1950s and 1960s. ICT became one
+of the battlegrounds. On 20 December 1961, 15 workers of ICT who were
+members of the Singapore Business Houses Employees Union began a sitdown
+strike to protest against the management’s alleged refusal to negotiate
+over pay and working conditions, and its deployment of expatriate British
+staff to maintain operations during the strike.24 As the subsequent case
+studies of NCR and IBM also show, there was now a growing momentum
+of knowledge transfer, with more locals being trained and taking on
+managerial positions as these corporations deepened their engagement with
+the region.
+
+
+
 
 
 
