@@ -114,3 +114,16 @@ In the 1950s, the machines were operated by 13 women clerk-operators
 processing close to 50,000 cards each month at a rate of 3,000 cards per
 hour as part of unit “accounting”.19 As the  <i> Singapore Free Press </i>  reported,
 
+     Surrounded by an array of intricate electrical machines and
+
+     working to the accompaniment of weird-pitched, high-
+
+     sounding
+clicking noises all day long, these girls do perhaps one
+
+     of the queerest jobs in town. But, their job is not only queer; it
+
+     is highly responsible.20
+
+
+
