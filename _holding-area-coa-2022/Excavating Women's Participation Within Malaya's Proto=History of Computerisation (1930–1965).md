@@ -283,6 +283,3 @@ Coming into its place: Rows and rows of girls punching holes
      the building for processing accounts and statistics of the
 
      Finance Ministry.41
-
-
-
