@@ -216,5 +216,73 @@ paper highlighted the convenience of the new registers:
      well as the customer. And the cash register, unlike either of
 
      them, is always right.34
+		 
+Accompanying the story was a photograph of a female Fitzpatrick’s
+employee seated behind a cash register.	 
+On the media front, NCR was perhaps the pioneer in glamorising
+and feminising accounting machines in colonial Singapore, as exemplified
+by a 1957 print advertisement featuring an endorsement of its products
+by the Sheaffer Pen Co. (Figure 3). The text endorsement was, however,
+secondary to the image of a Caucasian woman with a broad smile, striking
+red blouse and neatly permed hair, pulling a printed bill from an NCR
+accounting machine.
+
+The use of mostly female models in NCR’s advertising campaigns
+suggests that women dominated the role of operators of its machines. NCR’s
+advertising momentum continued into its early computer products in the
+1960s, with the introduction of its first desk-size computer business system,
+the NCR 395, to Malaysia and Singapore.35 However, as the next section
+illustrates, it would be another company, IBM, that truly ushered in the
+computer age in the region.
+
+#### **From the Beginning: Women and IBM in Singapore**
+
+Founded in 1911 as the Computing-Tabulating-Recording Company,
+IBM took on its present name in 1924. It arrived in colonial Malaya and
+Singapore in 1952 with a staff of three.36 Within a decade, IBM became
+associated with the first computers installed in the region.37
+
+The use of IBM computers in government departments started in April
+1963, probably with the intent of symbolically heralding the formation of
+the new Malaysian federation comprising Singapore, Sarawak, Sabah and
+the Federation of Malaya in September.38 A year later, an IBM 1440 was
+installed at the Lee Rubber Company in Singapore, then the largest exporter
+of rubber in the world. The company’s extensive regional network of rubber
+plantations, mills, factories and warehouses was managed by its Singapore
+headquarters.39
+
+Technological milestones became part of both national pride and
+industry achievements. Formally launching the Electronic Data Processing
+unit of the Finance Ministry in 1964, Singapore’s Deputy Prime Minister
+Dr Toh Chin Chye cited the time savings with the new computer. It reduced
+the time taken to compile data on voters in the electoral roll from 600 hours
+to 60 hours. The number of days taken to prepare the payroll of 39,000
+monthly rated government employees was also reduced, from 26 days to 8.40
+
+A Straits Times correspondent had earlier described the setup in celebratory
+and futuristic tones:
+
+     
+In a big air-conditioned office in Fullerton Building, a modern
+
+     office is taking shape. An office common to giant commercial
+
+     complexes of New York and London. Gone from this office,
+
+     eventually will be the normal complement of clerks and typists.
+
+     
+Coming into its place: Rows and rows of girls punching holes
+
+     on automatic machines-and serving the “brain.” The brain
+
+     is an electronic computer just installed in the third floor of
+
+     the building for processing accounts and statistics of the
+
+     Finance Ministry.41
+
+
+
 
 
