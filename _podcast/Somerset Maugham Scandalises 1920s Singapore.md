@@ -51,10 +51,12 @@ been optioned for television.</p>
 <details class="isomer-details">
 <summary>Resources</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>T.A. Morton, "<a href="https://biblioasia.nlb.gov.sg/vol-20/issue-4/jan-mar-2025/william-somerset-maugham-secrets/" rel="noopener nofollow" target="_blank">W. Somerset Maugham: Secrets from the Outstations</a>,"
-BiblioAsia 20, no. 4 (January–March 2025).</p>
+<p>T.A. Morton, "<a href="https://biblioasia.nlb.gov.sg/vol-20/issue-4/jan-mar-2025/william-somerset-maugham-secrets/" rel="noopener nofollow" target="_blank">W. Somerset Maugham: Secrets from the Outstations</a>," <em>BiblioAsia </em>20,
+no. 4 (January–March 2025).</p>
 <p></p>
-<p></p>
+<p>W. Somerset Maugham, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=203553635" rel="noopener nofollow" target="_blank">The Razor's Edge</a></em> (Vintage
+International, 2011; first published 1944 by Doubleday, Doran &amp; Co.,
+Inc.).</p>
 </div>
 </details>
 <details class="isomer-details">
