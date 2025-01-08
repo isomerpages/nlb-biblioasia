@@ -2,6 +2,7 @@ collections:
   podcast:
     output: true
     order:
+      - Set in 1920s Singapore/Somerset Maugham Scandalises 1920s Singapore.md
       - Set in 1920s Singapore/.keep
       - Singaporean Animals/.keep
       - Singaporean Animals/What Makes An Animal Singaporean?.md
