@@ -97,6 +97,9 @@ By June 1920, Kerr had resigned as principal and accompanied her husband to Mela
 #### **Subsequent Shooting Competitions**
 As part of his police work, Kerr’s husband was posted to different locations within the FMS and Singapore. After stints in Melaka, Penang, Ipoh and Selangor, he became Chief Police Officer of Singapore in 1939.[^32] Kerr accompanied him on his different postings, and had the opportunity to join various shooting and other sports clubs. 
 
+![](/images/Vol%2020%20Issue%205/Barbara%20Kerr/image6.jpg)
+<div style="background-color: white;">Barbara Kerr (back row, third from right), Commissioner of Girl Guides in Malaya, with guiders at the All-Malayan guides camp held at Tanjong Bruas, Melaka, in September 1938. <i>Source: The Sunday Times, 4 September 1938. © SPH Media Limited. Permission required for reproduction.</i></div>
+
 In 1932, Kerr, then 45, was living in Kuala Lumpur. At the FMS Championships in March that year, she recorded noteworthy scores in two competitions. She was the only woman competing and took second place in the championship. “The runner-up for the Championship was Mrs L.A. Thomas, the only lady to compete. Mrs Thomas was awarded a special prize, a bronze medal for her score of 350, which was only ten behind that of the champion,” reported the _Straits Times_.[^33]
 
 A lasting ambition was fulfilled in 1933 when Kerr took part in rifle competitions in Bisley, in Surrey, England. (Bisley is one of the major international shooting competitions, the equivalent of Wimbledon for tennis.) A write-up in London’s _Evening Standard_ (which was reproduced in the _Straits Times_ on 15 August 1933) noted: 
