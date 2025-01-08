@@ -140,4 +140,12 @@ It is not known when Kerr returned to the United Kingdom for good. She died in K
 
 [^15]: “[Raffles Girls’ School](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19050330-1.2.42),” _Straits Budget_, 30 March 1905, 7. (From NewspaperSG)
 
-[^16]: “At Raffles Girls’ School,” _Straits Times_, 25 May 1905, 5. (From NewspaperSG)
+[^16]: “[At Raffles Girls’ School](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19050525-1.2.58),” _Straits Times_, 25 May 1905, 5. (From NewspaperSG)
+
+[^17]: “[For Charity’s Sake](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19061128-1.2.68),” _Straits Times_, 28 November 1906, 8. (From NewspaperSG)
+
+[^18]: Kevin Tan, [_Doing Our Best: A History of the Girl Guides in Singapore 1914–2022_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=206122077) (Singapore: Girl Guides Singapore, 2023), 17, 62, 186. (From National Library Singapore, call no. RSING 369.463095957 TAN); “[Girl Guides Association](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340104-1.2.29),” _Straits Times_, 4 January 1934, 7. (From NewspaperSG)
+
+[^19]: “[Letters to the Editor](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19280629-1.2.46),” _Singapore Free Press and Mercantile Advertiser_, 29 June 1928, 8; “[Malayan Girl Guides’ Leader](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19360716-1.2.160.5),” _Straits Times_, 16 July 1936, 1. (From NewspaperSG)
+
+[^20]: “[Marriage](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19160908-1.2.71),” _Straits Budget_, 8 September 1916, 16; “[New Chief Police Officer](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19390117-1.2.72),” _Straits Times_, 17 January 1939, 14. (From NewspaperSG)
