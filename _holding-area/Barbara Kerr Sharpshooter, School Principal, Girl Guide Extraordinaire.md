@@ -149,3 +149,27 @@ It is not known when Kerr returned to the United Kingdom for good. She died in K
 [^19]: “[Letters to the Editor](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19280629-1.2.46),” _Singapore Free Press and Mercantile Advertiser_, 29 June 1928, 8; “[Malayan Girl Guides’ Leader](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19360716-1.2.160.5),” _Straits Times_, 16 July 1936, 1. (From NewspaperSG)
 
 [^20]: “[Marriage](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19160908-1.2.71),” _Straits Budget_, 8 September 1916, 16; “[New Chief Police Officer](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19390117-1.2.72),” _Straits Times_, 17 January 1939, 14. (From NewspaperSG)
+
+[^21]: Hall Romney, “[Ladies at the Butts](https://eresources.nlb.gov.sg/newspapers/digitised/article/stannual19560101-1.2.59),” _Straits Times Annual_, 1 January 1956, 66–67. (From NewspaperSG)
+
+[^22]: “[Rifle Match](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19040224-1.2.25),” _Straits Budget_, 24 February 1904, 7. (From NewspaperSG)
+
+[^23]: “[Ladies Rifle Association](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19070927-1.2.54),” _Singapore Free Press and Mercantile Advertiser_, 27 September 1907, 8; “[Singapore Rifle Association](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19090309-1.2.76),” _Straits Times_, 9 March 1909, 7. (From NewspaperSG)
+
+[^24]: “[Singapore Bisley](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19080504-1.2.33),” _Singapore Free Press and Mercantile Advertiser_, 4 May 1908, 5. (From NewspaperSG)
+
+[^25]: _“[Singapore Rifle Association](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk19081001-1.2.23),” Singapore Free Press and Mercantile Advertiser_ (Weekly), 1 October 1908, 213. (From NewspaperSG)
+
+[^26]: Ooi Yu-lin, _[Pieces of Jade and Gold: An Anecdotal History of the Singapore Chinese Girls’ School 1899–1999](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9654045)_ (Singapore: Singapore Chinese Girls’ School, 1999), 11. (From National Library Singapore, call no. RCLOS 373.5957 OOI)
+
+[^27]: “[Singapore Philharmonic Society](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19120401-1.2.29),” _Singapore Free Press and Mercantile Advertiser_, 1 April 1912, 6. (From NewspaperSG)
+
+[^28]: “[Variety Concert for St. Mary’s Home](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19140626-1.2.75),” _Malaya Tribune_, 26 June 1914, 12. (From NewspaperSG)
+
+[^29]: “[Sporting News: Ladies Lawn Tennis Club](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19200217-1.2.55),” _Singapore Free Press and Mercantile Advertiser_, 17 February 1920, 12; “[Rifle Shooting](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19181011-1.2.44.2),” _Straits Budget_, 11 October 1918, 17. (From NewspaperSG)
+
+[^30]: “[Social and Personal](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19200601-1.2.36),” _Straits Times_, 1 June 1920, 8. (From NewspaperSG)
+
+[^31]: “[Chinese Girls School](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19200214-1.2.41),” _Singapore Free Press and Mercantile Advertiser_, 14 February 1920, 12; “[Chinese Girls School](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19200214-1.2.71),” _Straits Times_, 14 February 1920, 10. (From NewspaperSG)
+
+[^32]: “[New Chief Police Officer](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19390117-1.2.72).”
