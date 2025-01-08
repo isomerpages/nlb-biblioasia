@@ -99,6 +99,10 @@ Mrs. Barbara Thomas has travelled 9,000 miles from Kuala Lumpur in the Malay Sta
 
 In December 1935, Kerr represented the Kinta District team in Ipoh in the Cornwell Cup presented by the FMS Volunteer Force Rifle Association. At age 48, and the only woman in the competition, Kerr scored well over the longer distances, performing better than most of the men. She was placed eighth out of 20 competitors. The _Pinang Gazette and Straits Chronicle_ described her as “a clever shot”.[^35] 
 
+![](/images/Vol%2020%20Issue%205/Barbara%20Kerr/image5.jpg)
+<div style="background-color: white;">Barbara Kerr (second row, second from right) represented the Kinta District team from Ipoh in the Cornwell Cup competition in December 1935. She was the only female competitor. <i>Image reproduced from The Straits Budget, 26 December 1935, 16. (From NewspaperSG).</i></div>
+
+
 #### **Contributions to the Girl Guides**
 Kerr was also closely involved with the Girl Guide movement in Malaya and Singapore. It is not clear when she first joined the Girl Guides, though it was likely during her time as principal of SCGS between 1918 and 1920. 
 
