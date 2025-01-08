@@ -322,7 +322,15 @@ coupled with the new push by American corporations NCR and IBM into
 the colony’s emerging computer markets.
 
 The proto-history of computerisation in Malaya and Singapore – namely
-the transition from manual accounting practices to accounting machines to mainframe computers – has yet to be given detailed scholarly coverage.
+the transition from manual accounting practices to accounting machines
+
+
+<img src="/images/COA%202022/Excavating%20Women%20Participation/Toh_Chin_Chye__6_March_1964.jpg" style="width:80%;">
+ <div style="background-color: white;">Deputy Prime Minister Dr Toh Chin Chye (third from left) at the inauguration of the
+Computer Service Department at the Treasury, 6 March 1964. <i>Courtesy of National Archives of
+Singapore (media image no. 19980000360-0005).</i></div>
+
+to mainframe computers – has yet to be given detailed scholarly coverage.
 In this gap lies a hidden history of women operators as frontliners of these
 new technologies. Gendered perceptions of computer cultures as male
 undertakings have also been projected onto technological historiographies
