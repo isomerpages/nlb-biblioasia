@@ -112,6 +112,11 @@ Later in the same year, there were requests to start Malay Brownie Packs in Joho
 
 It is not known when Kerr returned to the United Kingdom for good. She died in Kingston upon Thames, London, on 6 January 1973, age 86.
 
+<div style="background-color: white;">
+<br>
+<img src="/images/vol-17-issue-4/authors/" style="width: 100px; height: 100px;">
+	<b>Dr Nick Aplin</b> is the Deputy Director (Sport Heritage) at Sport Singapore. He is the author of the <i>Sport in Singapore</i> trilogy of books: <i>The Colonial Legacy</i> (2019), <i>The Rocky Road to Kallang Park</i> (2023) and <i>Visions for Change</i> (2023).</div>
+
 #### **Notes**
 [^1]: “[Interport Shoot](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19140525-1.2.51),” _Malaya Tribune_, 25 May 1914, 10. (From NewspaperSG)
 
