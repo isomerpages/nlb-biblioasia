@@ -6,9 +6,9 @@ variant: markdown
 description: ""
 ---
 #### **Introduction: The Machine Age**
-The introduction of mechanised accounting machines in the late 19th century marked a radical break from manual accounting practices. Ranging from punch card readers to cash registers,1 these accounting machines were the ancestors of the modern computer, and constituted a crucial transition stage in Malaya’s technological history.2
+The introduction of mechanised accounting machines in the late 19th century marked a radical break from manual accounting practices. Ranging from punch card readers to cash registers,[^1] these accounting machines were the ancestors of the modern computer, and constituted a crucial transition stage in Malaya’s technological history.[^2]
 
-From the 1930s to the 1960s, the accounting machine industry in Malaya was dominated by three multinationals, namely the British-based International Computers and Tabulators (ICT) and its American counterparts, National Cash Register (NCR) and International Business Machines (IBM).3 Each of these companies will be examined from three angles: the introduction of their machines, their impact in commerce and
+From the 1930s to the 1960s, the accounting machine industry in Malaya was dominated by three multinationals, namely the British-based International Computers and Tabulators (ICT) and its American counterparts, National Cash Register (NCR) and International Business Machines (IBM).[^3] Each of these companies will be examined from three angles: the introduction of their machines, their impact in commerce and
 government administration, and their employment and representation
 of women. Collectively, a study of these trends helps to reveal Malaya’s
 otherwise buried computer proto-history, including a group of unsung
@@ -23,7 +23,7 @@ marginalised. For example, their non-involvement in technological
 developments was assumed in a Straits Budget report on a talk on post office
 accounts in 1937: “bookkeeping machines and other electronic accounting
 devices were demonstrated to the audience, which included non-accountants
-and women”.4 In published reports, except for a few European women
+and women”.[^4] In published reports, except for a few European women
 supervisors, the women were nameless. In official photographs, women
 operators were mostly shown with their backs to the camera or looking
 away. Such peripheral representations reflected the perceived status of
@@ -40,12 +40,12 @@ In 1922, replying to open criticisms of the administrative inadequacies of
 the Municipality of Singapore by its contracted accountant Major Gooding
 Field, the Municipal Commission asserted that “cash registers, Burroughs
 Machines, Amco Adders and Merchant Calculators are in daily use in the
-Municipal Offices”.5 A decade later, recognising that the bigger and more
+Municipal Offices”.[^5] A decade later, recognising that the bigger and more
 sophisticated punch card readers could compile and sort larger volumes of data, the Registrar General announced his intention to purchase the “most
-modern accounting machines”.6 Official records from 1935 show the purchase
+modern accounting machines”.[^6] Official records from 1935 show the purchase
 and installation of a set of mechanised accounting machines for 32,048.07
 Straits dollars, together with punch cards (an annually recurring purchase)
-for 1,783.04 Straits dollars.7 A few years later, a new system was installed; the
+for 1,783.04 Straits dollars.[^7] A few years later, a new system was installed; the
 machines were considered a marvel:
 
      Special cards are punched for each consumer, showing 
@@ -56,19 +56,18 @@ machines were considered a marvel:
 
      run through a tabulating machine which prints the bills, with
 
-     duplicates which are bound to form a ledger.8
+     duplicates which are bound to form a ledger.[^8]
 
 At that point in the late 1930s, 2,000 out of 40,000 of the Municipal
 accounts had been mechanised; a full changeover was expected to be
-completed within a year.9
-
+completed within a year.[^9]
 This initiative was disrupted by the Second World War, and the system
-reportedly suffered from neglect during the Japanese Occupation (1942–45).10
+reportedly suffered from neglect during the Japanese Occupation (1942–45).[^10]
 After the war, the machines were in poor condition. Data collected for the
 1947 Pan-Malayan Census had to be reconfigured in Ipoh and sent to be
 tabulated by the British Tabulating Machine Company in Britain under
 the control of the Treasury, with the Malayan authorities bearing the
-cost.11 By 1950, the colony had received a consignment of 15 new machines, valued at £12,000, from the United Kingdom.12 These were to be used –
+cost.[^11] By 1950, the colony had received a consignment of 15 new machines, valued at £12,000, from the United Kingdom.[^12] These were to be used –
 initially alongside their reconditioned older counterparts – to process trade,
 financial, salary and demographic statistics.13
 
@@ -497,4 +496,91 @@ _Straits Times_. “[Page 4 Advertisements Column 1](https://eresources.nlb.gov.
 _Straits Times Annual_. “[Page 64/65 Advertisements Column 1](https://eresources.nlb.gov.sg/newspapers/digitised/article/stannual19060101-1.2.56.1).” 1 January 1906, 64.
 
 _Sunday Tribune._ “[Savings Banks Officials Ready to Handle Any Amount of Business: $30,000 Accounting Machines Arrive](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaytribune19470810-1.2.34).” 10 August 1947, 2.
+
+
+#### **NOTES**
+         
+ Arthur Norberg, “High-Technology Calculation in the Early 20th Century: Punched Card Machinery in Business and Government,” _Technology and Culture_ 31, no. 4 (October 1990): 753–79. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+2 The only recognisable form of the chronology of data processing technologies came during the installation of the first modern computer systems at the Central Provident Fund offices to compute pension statistics in 1963. See James Ang and P. H. Soh, “The Singapore Government’s Role in National Computerization Efforts,” _Behaviour &amp; Information Technology_ 14, no. 6 (1995): 361–69.
+
+3 Peter Lim, “[Enter Mr. Superthink](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19641011-1.2.2),” _Straits Times_, 11 October 1964, 1. (From NewspaperSG)
+
+4 “[$9 Million in F.M.S. Savings Bank: Intricacies of Post Office Accounts](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19371125-1.2.37),” _Straits Budget_, 25 November 1937, 10. (From NewspaperSG)
+
+5 “[Municipal Accounts: Replies to the Statement Made by Major Field](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19220826-1.2.36),” _Malaya Tribune_, 26 August 1922, 7. (From NewspaperSG)
+
+6 “[Colonial Secretary: Change in Budget Procedure](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19340925-1.2.35),” _Singapore Free Press and Mercantile Advertiser_, 25 September 1934, 3 (From NewspaperSG). See also Straits Settlements, _Annual Departmental Reports_, I.D./74 (Singapore: Printed at the Government Printing Office,1934), 38 (Call no. RRARE 354.595 SSADR). However, Chief Accountant P. H. Forbes stated that accounting machines were introduced into the Chief Accountant’s department in 1933. “[Mechanised Accountancy in Malayan Offices](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19350908-1.2.74),” _Straits Times_, 8 September 1935, 18. (From NewspaperSG)
+
+7 Straits Settlements, _Blue Book of the Year_ (Singapore: Government of the Colony of Singapore, 1935), 100. (Microfilm NL3144)
+
+8 “[New Machine System for Municipal Accounts](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19390724-1.2.102),” _Straits Times_, 24 July 1939, 13 (From NewspaperSG). The maintenance fees for the accounting machines were 1,285 Straits dollars a year. The purchase of cards (including freight) for these machines in 1927 cost 3,072.26 Straits dollars. Straits Settlements, _Blue Book_, I.F. 68 (Singapore: Government Printing Office, 1937), 106. (Call no. RRARE 315.957 SSBB)
+
+9 “[Municipal Accounts Now Compiled by Machinery](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19390724-1.2.80),” _Singapore Free Press and the Mercantile Advertiser_, 24 July 1939, 7. (From NewspaperSG)
+
+10 “[Savings Banks Officials Ready to Handle Any Amount of Business: $30,000 Accounting Machines Arrive](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaytribune19470810-1.2.34),” _Sunday Tribune_, 10 August 1947, 2. (From NewspaperSG)
+
+11 “[Machines Will Check Census](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19470220-1.2.115),” _Straits Budget_, 20 February 1947, 16. (From NewspaperSG)
+
+12 “[Statistics Work to Be Speeded Up](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19500703-1.2.65),” _Singapore Free Press_, 3 July 1950, 5. (From NewspaperSG)
+
+13 Until the North Borneo Census in 1951, the Malayan Department of Statistics at Singapore’s Fullerton Building did not have sufficient accounting machines after the Second World War to process the information, and the data had to be sent to London for analysis and compilation. “[Machines Step Up Work](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19510824-1.2.53),” _Straits Times_, 24 August 1951, 4. (From NewspaperSG)
+
+14 “[Accounting Machines Sales Drive](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19541119-1.2.149.3),” _Straits Times_, 19 November 1954, 12 (From NewspaperSG). Powers- Samas Accounting Machines Limited (1929) was the renamed British company, Power Tabulating Machine Company, formed in 1915. It subsequently merged with its competitor, British Tabulating Machine Company (BTM), to form International Computers and Tabulators (ICT) in 1959. “International Computers and Tabulators, LTD. (ICT),” Computer History Museum, accessed 20 July 2022.
+
+15 Lim, “[Enter Mr. Superthink](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19641011-1.2.2).”
+
+16 “[Brighter Accounting: Girls for F.M.S. Railways Department](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19320111-1.2.48),” _Singapore Free Press and Mercantile Advertiser_, 11 January 1932, 8. (From NewspaperSG)
+
+17 Ainger was appointed on 5 October 1935 as Lady Supervisor, Powers-Samas Installation, Department of Statistics, Straits Settlements and Federated Malay States. “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19351023-1.2.114),” _Singapore Free Press and Mercantile Advertiser_, 23 October 1935, 11. (From NewspaperSG)
+
+18 Following Ainger’s retirement in 1952, a job advertisement was placed for a replacement with the responsibility of supervising the preparation of reports by the Powers-Samas punch card systems as well as the operation of the machines. With a salary range of $420–$620 per month, the advertisements also stated a preference for “females between the ages of 30 and 40 years” and “satisfactory educational background”. “[Page 8 Advertisements Column 1](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19520229-1.2.100.1),” _Straits Times_, 29 February 1952, 8. (From NewspaperSG)
+
+19 “[13 Girls Record Singapore’s Trade](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19470415-1.2.34.4),” _Singapore Free Press_, 15 April 1947, 5 (From NewspaperSG). Details on these operators were available in job advertisements after the Second World War, which indicated significant increases in the qualifications of candidates, the scope of responsibilities and the remuneration. A short paragraph in an advertisement in 1950 only mentioned the salary of $70 per month as well as preferably Cambridge certification. “[Page 11 Advertisements Column 4](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19500331-1.2.109.4),” _Malaya Tribune_, 31 March 1950, 11 (From NewspaperSG). Six years later, a lengthier paragraph detailed the requirements of residency status as British subjects, prior experience operating the Powers-Samas machines, as well as possessing a “Standard VII” educational background. The salary range had also increased to $137–$197 per month. What remained unchanged was the requirement for applicants to be females below the age of 25. “[Page 14 Advertisements Column 1](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19560218-1.2.183.1),” _Straits Times,_ 18 February 1956, 14. (From NewspaperSG)
+
+20 “[13 Girls Record Singapore Trade](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19470415-1.2.34.4).”
+
+21 “[Mechanised Accountancy in Malayan Offices](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19350908-1.2.74),” _Straits Times_, 8 September 1935, 18 (From NewspaperSG). The _Straits Times_ feature on these operators revealed their allocations in several areas: receiving cheques and forms, punching cards, verifying and sorting printed bills. Liau Nyuk Oi, “[Personalities Behind the Machines](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19510716-1.2.122),” _Straits Times_, 16 July 1951, 8. (From NewspaperSG)
+
+22 See: David Gabriel, “[These S’pore Women Can Tell You Plenty](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaystandard19570707-1.2.90),” _Sunday Standard_, 7 July 1957, 4; “[What Mr. Statistics Said Was: Women Are Better Than Men Only at Monotonous Work](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19600203-1.2.35),” _Straits Budget_, 3 February 1960, 3; “[She Rules Kindly in Women-Only Domain](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19611005-1.2.135.1),” _Straits Times_, 5 October 1961, 16. (From NewspaperSG)
+
+23 “[She Rules Kindly](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19611005-1.2.135.1)”; Joan Talalla was the wife of the war-time flying ace Jimmy Talalla. “[On the Feminine Front](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19570526-1.2.122.6.1),” _Singapore Standard_, 26 May 1957, 15. (From NewspaperSG)
+
+24 “[A New Sit-Down Strike Begins](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19611221-1.2.32),” _Straits Times_, 21 December 1961, 4. (From NewspaperSG)
+
+25 “[Page 4 Advertisements Column 1](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19050324-1.2.30.1),” _Straits Times_, 24 March 1905, 4. (From NewspaperSG)
+
+26 NCR cash registers were first marketed together with other American products under Ellis &amp; Co. in the 1900s. “[Page 64/65 Advertisements Column 1](https://eresources.nlb.gov.sg/newspapers/digitised/article/stannual19060101-1.2.56.1),” _Straits Times Annual_, 1 January 1906, 64 (From NewspaperSG). One of the distribution agents in the 1910s was the Wadleigh Company, set up in 1914 to “deal principally between rubber planters in Malaya and the consumers in New York”. This suggests that there was demand in the rubber industry for such machines. “[National Cash Register Agency](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19140511-1.2.60),” _Malaya Tribune_, 11 May 1914, 10. (From NewspaperSG)
+
+27 “[Company Quadruples Sales in 6 Years](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19591030-1.2.90.5),” _Straits Times_, 30 October 1959, 10. (From NewspaperSG)
+
+28 “[Page 1 Advertisements Column 2](https://eresources.nlb.gov.sg/newspapers/digitised/article/easternsun19671114-1.2.11.2),” _Eastern Sun_, 14 November 1967, 1. (From NewspaperSG)
+
+29 NCR had already set up a data processing centre in Singapore in 1964; at the time of the announcement, it was awaiting the arrival of its NCR 315 computer for the new computer centre. “[NCR Makes Singapore Southeast Asia Headquarters](https://eresources.nlb.gov.sg/newspapers/digitised/article/easternsun19660929-1.2.10.19),” _Eastern Sun_, 29 September 1966, 3. (From NewspaperSG)
+
+30 “[Company Quadruples Sales in 6 Years](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19591030-1.2.90.5).”
+
+31 “[Company Quadruples Sales in 6 Years](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19591030-1.2.90.5)”; “[National Cash Register Display](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19581010-1.2.121),” _Straits Times_, 10 October 1958, 4. (From NewspaperSG)
+
+32 “[Marshall Sees New Machines](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19551005-1.2.144.4),” _Singapore Standard_, 5 October 1955, 10. (From NewspaperSG)
+
+33 “[Two More Ultra-Modern Buildings Going Up in Malaya](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19600523-1.2.86),” _Singapore Free Press_, 23 May 1960, 9. (From NewspaperSG)
+
+34 “[Enter the Mechanical Brain](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19580811-1.2.99.44),” _Singapore Free Press_, 11 August 1958, 20. (From NewspaperSG)
+
+35 Costing $250,000, the NCR 395 was claimed to be able to perform multiple computer functions and print 40 percent faster than conventional electronic machines. “[NCR’s Latest in Electronic Accounts](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19640707-1.2.100),” _Straits Times_, 7 July 1964, 12. (From NewspaperSG)
+
+36 “Singapore Chronology,” IBM, accessed 25 July 2022.  
+  
+37 “[Company Has New Colony Offices](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19550308-1.2.156),” _Straits Times_, 8 March 1955, 12. (From NewspaperSG)
+
+38 With the installation of the IBM 1401 computer, and subsequently the ICL 1903A, came the creation of a new Computer Services Department under the Ministry of Finance. Known initially as Electronic Data Processing, the department provided statistical data processing facilities to the Statistics Department and related units in various government ministries. “[Singapore Efficiency Admired, Says Dr. Toh](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19640307-1.2.20),” _Straits Times_, 7 March 1964, 4 (From NewspaperSG). Such machines in turn generated a larger volume of reports and official publications, including monthly and annual reports on national statistics. In addition, the department also provided accounting services on projects on payrolls, registers, school examination results and recruitment. Singapore Trade and Industry, “Government Statistics,” January 1973 (Singapore: Singapore Department of Statistics, 1973), 54–55. See also: “[Statistics Department to Use Computers](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19630426-1.2.142.1),” _Straits Times_, 26 April 1963, 14; “[IBM Units in CPF Office](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19631008-1.2.122),” _Straits Times_, 8 October 1963, 12. (From NewspaperSG)
+
+39 Weighing 10 pounds (4.5 kg), the 14-inch (36 cm) portable “discpack magnetic memory device” was able to store several million characters with information retrievable and compiled from typing the required items from a linked typewriter. “[IBM High Speed Computer Coming](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19621228-1.2.116.8),” _Straits Times_, 28 December 1962, 16 (From NewspaperSG). (I would like to thank Dr Loh Kah Seng for posting this reference publicly on his Facebook account.) The corporation revealed that the rental and maintenance cost of the system alone amounted to around $10,000 a month. This did not include expenses from electricity charges and salaries. Lim, “[Enter Mr. Superthink](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19641011-1.2.2).”
+
+40 “[Singapore Efficiency Admired](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19640307-1.2.20).”
+
+41 “[Mighty ‘Brain’ Goes to Work](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19640120-1.2.21),” _Straits Times_, 20 January 1964, 4. (From NewspaperSG)
+
+42 “[Mighty ‘Brain’ Goes to Work](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19640120-1.2.21).”
 
