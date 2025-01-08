@@ -282,3 +282,19 @@ Coming into its place: Rows and rows of girls punching holes
      the building for processing accounts and statistics of the
 
      Finance Ministry.41
+
+Around 20 of the unit’s 60 female clerk-operators were already trained
+to turn “facts and figures into codes” using the new computers, punching
+around 10,000 holes a day – more than twice as fast as on the dated
+accounting machines.42 Like their predecessors deployed on the Powers-
+Samas accounting machines three decades earlier, these women operators
+were similarly on the frontline of data modernisation.
+
+Figure 4 shows a woman operator demonstrating the IBM computer to
+Dr Toh at the Treasury in Singapore. The only woman in the photograph,
+she was probably the lowest-ranked in the group, but her photographic
+presence gives critical visibility to her generation of computer operators in
+the region.
+
+
+
