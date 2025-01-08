@@ -176,6 +176,10 @@ of knowledge transfer, with more locals being trained and taking on
 managerial positions as these corporations deepened their engagement with
 the region.
 
+<img src="/images/COA%202022/Excavating%20Women%20Participation/Straits_Times__24_march_1905.jpg" style="width:80%;">
+ <div style="background-color: white;">One of NCR’s print advertisements in the  <i>Straits Times, 24 March 1905, 4. (From NewspaperSG).</i></div>
+	
+
 #### **NCR’s Machine-Conscious Cashiers and Models**
 
 The National Cash Register Company was formally incorporated in
@@ -226,6 +230,9 @@ paper highlighted the convenience of the new registers:
 		 
 Accompanying the story was a photograph of a female Fitzpatrick’s
 employee seated behind a cash register.	 
+
+<img src="/images/COA%202022/Excavating%20Women%20Participation/Straits_Times__24_march_1905.jpg" style="width:80%;">
+ <div style="background-color: white;">One of NCR’s print advertisements in the  <i>Straits Times, 24 March 1905, 4. (From NewspaperSG).</i></div>
 On the media front, NCR was perhaps the pioneer in glamorising
 and feminising accounting machines in colonial Singapore, as exemplified
 by a 1957 print advertisement featuring an endorsement of its products
