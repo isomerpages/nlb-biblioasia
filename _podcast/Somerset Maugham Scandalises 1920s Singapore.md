@@ -51,6 +51,7 @@ been optioned for television.</p>
 <details class="isomer-details">
 <summary>Resources</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p></p>
 <p>T.A. Morton, "<a href="https://biblioasia.nlb.gov.sg/vol-20/issue-4/jan-mar-2025/william-somerset-maugham-secrets/" rel="noopener nofollow" target="_blank">W. Somerset Maugham: Secrets from the Outstations</a>," <em>BiblioAsia </em>20,
 no. 4 (January–March 2025).</p>
 <p></p>
