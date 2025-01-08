@@ -30,13 +30,15 @@ Miss Kerr was most heartily congratulated on her strong finish, and she well des
 | -------- | -------- | -------- | -------- | -------- |
 |R.E. de Silva|31|34|33|98|
 |Lt. W. L. Kemp|33|33|32|98|
-Johore (1923–41)|12|12 wins|69|8|
-Malaya Command (1932–34)|3|2 wins &amp; 1 draw|6|3|
-Combined Services (1935–39)|6|4 wins &amp; 2 draw|12|6|
-Royal Air Force (1940–41)|2|2 wins|4|0|
-Army (1940–41)|2|0 wins &amp; 2 draws|4|4|
-Selangor (1925–38)|6|3 wins, 1 draw, &amp; 2 losses|15|7|
-||52|43 wins, 7 draws &amp; 2 losses|210|41|
+|Sapper J. Flanagan|32|34|30|96|
+|C. Sergeant-Major Chater|31|32|32|95|
+|Gunner Neubronner|31|35|29|95|
+|Miss Barbara Kerr|27|32|34|93|
+|Sapper E.J. Potter|28|34|31|93|
+|Sergeant Tan Chow Kim|32|31|30|93|
+|Lt. Song Ong Siang|28|32|31|91|
+|Sapper R. Pash|29|29|32|90|
+||302|326|314|942|
 
 The final score for Singapore was 942, which tied it with Shanghai. One point less from Kerr and Shanghai would have won the competition. One of her teammates, Song Ong Siang, acknowledged her contributions to the team effort: 
 
