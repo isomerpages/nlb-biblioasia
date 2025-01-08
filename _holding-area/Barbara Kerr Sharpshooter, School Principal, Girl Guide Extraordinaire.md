@@ -7,6 +7,9 @@ description: Barbara Kerr Sharpshooter, School Principal, Girl Guide Extraordina
 #### Barbara Kerr Sharpshooter, School Principal, Girl Guide Extraordinaire 
 By Nick Aplin
 
+![](/images/Vol%2018%20Issue%204/Asian%20Film/image14.png)
+<div style="background-color: white;">Neng Yatimah and P. Ramlee in&nbsp;<i>Patah Hati</i>&nbsp;by K.M. Basker.&nbsp;<i>Courtesy of Shaw Organisation Pte Ltd.</i></div>
+
 In early 20th-century Singapore, there were not many occasions when a woman was expected to stand her ground against men in a representative international sporting event. There was, however, one notable exception: when a 26-year-old school principal stunned her male rivals, not in golf or tennis, but in rifle shooting.
 
 The school principal was none other than Barbara Kerr, principal of the Singapore Chinese Girls’ School (SCGS). The occasion for her amazing display of “markswomanship” was the 25th Interport Rifle Match in 1914 between the teams from Singapore, Shanghai, Hong Kong and Penang.[^1 ]
