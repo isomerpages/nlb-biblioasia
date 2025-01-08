@@ -2,9 +2,9 @@ collections:
   podcast:
     output: true
     order:
-      - Set in 1920s Singapore/Transcript.md
-      - Set in 1920s Singapore/Somerset Maugham Scandalises 1920s Singapore.md
       - Set in 1920s Singapore/.keep
+      - Set in 1920s Singapore/Somerset Maugham Scandalises 1920s Singapore.md
+      - Set in 1920s Singapore/Transcript.md
       - Singaporean Animals/.keep
       - Singaporean Animals/What Makes An Animal Singaporean?.md
       - Singaporean Animals/Transcript.md
