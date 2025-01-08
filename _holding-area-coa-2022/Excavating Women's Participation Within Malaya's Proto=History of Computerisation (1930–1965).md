@@ -296,5 +296,41 @@ she was probably the lowest-ranked in the group, but her photographic
 presence gives critical visibility to her generation of computer operators in
 the region.
 
+#### **Conclusion: Finding the Keypuncher Generation**
+
+Beginning as a trickle in the early 1900s with NCR’s cash registers, the
+diffusion and adoption of mechanised accounting systems in British Malaya
+gained momentum in the 1930s with the installation of ICT’s Powers-Samas
+machines. Disrupted by the Japanese Occupation, the pace picked up again
+in the late 1940s, given the urgent need to restore administration functions,
+coupled with the new push by American corporations NCR and IBM into
+the colony’s emerging computer markets.
+
+The proto-history of computerisation in Malaya and Singapore – namely
+the transition from manual accounting practices to accounting machines to mainframe computers – has yet to be given detailed scholarly coverage.
+In this gap lies a hidden history of women operators as frontliners of these
+new technologies. Gendered perceptions of computer cultures as male
+undertakings have also been projected onto technological historiographies
+to assume women’s absence in the field. This paper has shown that women
+in fact actively participated in Malaya’s proto-history of computers. As
+operators in each of the successive waves of technological advancement, they
+may be considered part of the pioneering keypuncher generation – the first
+data proletariats.
+
+#### **Acknowledgements**
+<i>I would like to thank Professor Crystal Abidin, A/P Peter Borschberg and A/P Natalie
+Pang, as well as staff of the National Library</i>.
+
+
+<br>
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/Liew_kai_khiun.png">
+<b>Liew Kai Khiun</b> is a scholar of media and cultural studies. This paper is part of
+his research on Singapore’s computer history under the Lee Kong Chian Fellowship. His
+publications cover historical and heritage studies in Singapore as well as media and
+cultural flows in the Asia-Pacific. He is currently an Assistant Professor at Hong Kong
+Metropolitan University.</div>
+
 
 
