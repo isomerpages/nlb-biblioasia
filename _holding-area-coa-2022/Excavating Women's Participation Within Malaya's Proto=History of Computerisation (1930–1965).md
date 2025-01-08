@@ -69,18 +69,18 @@ tabulated by the British Tabulating Machine Company in Britain under
 the control of the Treasury, with the Malayan authorities bearing the
 cost.[^11] By 1950, the colony had received a consignment of 15 new machines, valued at £12,000, from the United Kingdom.[^12] These were to be used –
 initially alongside their reconditioned older counterparts – to process trade,
-financial, salary and demographic statistics.13
+financial, salary and demographic statistics.[^13]
 
 The new accounting machines were from the Powers-Samas
 organisation, which was part of the Vickers group of companies that was
 expanding its operations in Asia through its district office in Calcutta, with
 a sales and technical service office in Singapore under Henry Waugh and
-Co. Ltd.14 Following the merger with British Tabulating Machine to form
+Co. Ltd.[^14] Following the merger with British Tabulating Machine to form
 International Computers and Tabulators (ICT) in 1959, the organisation
 was further committed to the region. In August 1964, ICT installed the
 Federation of Malaysia’s fourth computer – an ICT 1301 system – in the
 Public Utilities Board at Singapore’s City Hall, starting the transition out of
-the old punch card system to a more automated computerised system.15
+the old punch card system to a more automated computerised system.[^15]
 
 From the start, the accounting machines did not just facilitate
 bookkeeping and reports, but also provided new employment opportunities,
@@ -98,13 +98,13 @@ and their women operators:
 
      States] Railways. The idea, apparently, is to do away with the
 
-     majority of the present staff and train girls for employment.16
+     majority of the present staff and train girls for employment.[^16]
 
 Nonetheless, the employment of women proceeded as planned. The
 Asian women operators, known as clerk-operators, were supervised by Mrs
-Marjorie Ainger, a European.17 Ainger was the section supervisor from 1935
+Marjorie Ainger, a European.[^17] Ainger was the section supervisor from 1935
 to 1952, and her principal task was generating the monthly Malayan statistics
-report.18 Given the general absence of women in public institutions in
+report.[^18] Given the general absence of women in public institutions in
 1930s Singapore, the mention of Ainger in not only official reports but also
 newspaper accounts shows the novelty of women in administrative positions.
 
@@ -113,7 +113,7 @@ accounting machines, was the  <i> Malayan Statistics of Imports and Exports </i>
 500-page volume with detailed data on diverse categories of transactions.
 In the 1950s, the machines were operated by 13 women clerk-operators
 processing close to 50,000 cards each month at a rate of 3,000 cards per
-hour as part of unit “accounting”.19 As the  <i> Singapore Free Press </i>  reported,
+hour as part of unit “accounting”.[^19] As the  <i> Singapore Free Press </i>  reported,
 
      Surrounded by an array of intricate electrical machines and
 
@@ -124,11 +124,11 @@ clicking noises all day long, these girls do perhaps one
 
      of the queerest jobs in town. But, their job is not only queer; it
 
-     is highly responsible.20
+     is highly responsible.[^20]
 		 
 	
 The belief was that women were temperamentally more suitable than
-men as clerk-operators.21	 
+men as clerk-operators.[^21]	 
 
 An insight into the early operations of the Powers-Samas accounting
 machines at the Federated Malay States Railways (FMSR) offices was
@@ -153,14 +153,14 @@ they look intently at the paper reels in front of them. Facing them are two
 other women focused on their machines. Owing to their being featured
 in local newspaper stories for their work in compiling census data, women
 became increasingly associated with mechanised data processing in the 1950s
-and 1960s.22
+and 1960s.[^22]
 
 The supervisory roles in such departments were dominated by European
 women, even into the 1960s. Like her predecessor Ainger, Joan Talalla
 started with the Department of Statistics after the Second World War, with
 20 non-European operators of accounting machines under her. By 1960, the
 number had grown to 85, constituting the biggest all-women section within
-the government.23
+the government.[^23]
 
 The perception of locals being sidelined by colonial racial hierarchies
 did not go unchallenged, with the tensions being part of the acrimonious
@@ -169,7 +169,7 @@ of the battlegrounds. On 20 December 1961, 15 workers of ICT who were
 members of the Singapore Business Houses Employees Union began a sitdown
 strike to protest against the management’s alleged refusal to negotiate
 over pay and working conditions, and its deployment of expatriate British
-staff to maintain operations during the strike.24 As the subsequent case
+staff to maintain operations during the strike.[^24] As the subsequent case
 studies of NCR and IBM also show, there was now a growing momentum
 of knowledge transfer, with more locals being trained and taking on
 managerial positions as these corporations deepened their engagement with
@@ -185,15 +185,15 @@ The National Cash Register Company was formally incorporated in
 Dayton, Ohio, in 1884. Its first advertisement in the broadsheets of British
 Malaya appeared some two decades later, warning of the problem of
 inefficiency and theft in manual accounting systems, and promising that “a
-National cash register stops leaks”.25 This 1905 advertisement in the <i>Straits
+National cash register stops leaks”.[^25] This 1905 advertisement in the <i>Straits
 Times</i> heralded the start of NCR’s marketing and publicity campaign in the
 region, conducted through the media and public exhibitions.
 
 Up to the Second World War, NCR’s cash registers and accounting
-machines were distributed by local companies serving as representatives.26
-The first NCR branch in Malaya was established in 1950,27 and by 1967,
-there were 12 offices and service depots in Malaysia and Singapore.28
-Recognising Southeast Asia’s potential, the multinational positioned Singapore as its regional headquarters.29 NCR attributed the popularity
+machines were distributed by local companies serving as representatives.[^26]
+The first NCR branch in Malaya was established in 1950,[^27]and by 1967,
+there were 12 offices and service depots in Malaysia and Singapore.[^28]
+Recognising Southeast Asia’s potential, the multinational positioned Singapore as its regional headquarters.[^29] NCR attributed the popularity
 of its products – sales in Malaya quadrupled between 1953 and 1959 – to
 customers’ new business practices and expectations: “People in Malaya and
 other Eastern countries are becoming increasingly office machine-conscious.
