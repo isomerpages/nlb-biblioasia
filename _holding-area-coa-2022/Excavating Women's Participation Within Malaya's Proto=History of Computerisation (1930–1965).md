@@ -177,7 +177,7 @@ managerial positions as these corporations deepened their engagement with
 the region.
 
 <img src="/images/COA%202022/Excavating%20Women%20Participation/Straits_Times__24_march_1905.jpg" style="width:80%;">
- <div style="background-color: white;">One of NCR’s print advertisements in the  <i>Straits Times, 24 March 1905, 4. (From NewspaperSG).</i></div>
+ <div style="background-color: white;">One of NCR’s print advertisements. <i>Straits Times, 24 March 1905, 4. (From NewspaperSG).</i></div>
 	
 
 #### **NCR’s Machine-Conscious Cashiers and Models**
@@ -230,8 +230,6 @@ paper highlighted the convenience of the new registers:
 		 
 Accompanying the story was a photograph of a female Fitzpatrick’s
 employee seated behind a cash register.	 
-
-
 
 <img src="/images/COA%202022/Excavating%20Women%20Participation/Straits_Times__1_January_1958.jpg" style="width:80%;">
  <div style="background-color: white;">NCR advertisement. <i>Straits Times, 1 January 1958, 14/15. (From NewspaperSG).</i></div>
