@@ -231,7 +231,7 @@ paper highlighted the convenience of the new registers:
 Accompanying the story was a photograph of a female Fitzpatrick’s
 employee seated behind a cash register.	 
 
-<img src="/images/COA%202022/Excavating%20Women%20Participation/Straits_Times__1_January_1958.jpg" style="width:80%;">
+<img src="/images/COA%202022/Excavating%20Women%20Participation/Straits_Times__1_January_1958.jpg" style="width:50%;">
  <div style="background-color: white;">NCR advertisement. <i>Straits Times, 1 January 1958, 14/15. (From NewspaperSG).</i></div>
  
  
