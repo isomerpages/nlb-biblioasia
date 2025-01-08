@@ -17,7 +17,6 @@ The school principal was none other than Barbara Kerr, principal of the Singapor
 ![](/images/Vol%2020%20Issue%205/Barbara%20Kerr/image4.jpg)
 <div style="background-color: white;">Singapore’s competition for the 1914 Interport Rifle Match took place at Balestier Rifle Range, on the north side of Balestier Road. <i>Illustration by Nick Aplin.</i></div>
 
-
 This was also the first time that women were allowed to participate in the match; prior to 1914, this had been an exclusively male preserve. What made the competition even more historic is that Kerr was the only woman on the Singapore team, and most likely the other teams as well. 
 
 #### **A Dramatic Win**
@@ -85,6 +84,9 @@ Kerr most likely joined the association upon the introduction of the older ladie
 
 #### **Principal of Singapore Chinese Girls’ School**
 In February 1912, Kerr became the principal of SCGS at the age of 25. It was a challenging job as the school suffered from a lack of funding between 1899 and 1919.[^26] By 1912, the school was overcrowded with 240 students. 
+
+![](/images/Vol%2020%20Issue%205/Barbara%20Kerr/image2.jpg)
+<div style="background-color: white;">Students of the Singapore Chinese Girls’ School having lessons outside the school, c. 1900. Image is reproduced from a postcard published by G.R. Lambert &amp; Co.<i> Courtesy of National Archives of Singapore.</i></div>
 
 Amid her professional developments, Kerr retained her interest in singing. The Singapore Philharmonic Society hosted a concert at the Teutonia Club on 30 March 1912 where Kerr performed two songs.[^27] In June 1914, she sang in the concert for St Mary’s Home and School for Eurasian Girls.[^28]
 
