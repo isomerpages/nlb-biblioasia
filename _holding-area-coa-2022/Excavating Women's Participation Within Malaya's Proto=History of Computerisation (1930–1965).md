@@ -331,6 +331,3 @@ his research on Singapore’s computer history under the Lee Kong Chian Fellowsh
 publications cover historical and heritage studies in Singapore as well as media and
 cultural flows in the Asia-Pacific. He is currently an Assistant Professor at Hong Kong
 Metropolitan University.</div>
-
-
-
