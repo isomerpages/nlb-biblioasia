@@ -583,4 +583,3 @@ _Sunday Tribune._ “[Savings Banks Officials Ready to Handle Any Amount of Busi
 41 “[Mighty ‘Brain’ Goes to Work](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19640120-1.2.21),” _Straits Times_, 20 January 1964, 4. (From NewspaperSG)
 
 42 “[Mighty ‘Brain’ Goes to Work](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19640120-1.2.21).”
-
