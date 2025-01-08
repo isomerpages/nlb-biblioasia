@@ -140,6 +140,12 @@ speed” with only a month’s training. The process generated statistics such
 as engine types, wagon miles, cargo weight, distance travelled, punctuality,
 performance, journeys taken by passengers, and storage of goods.
 
+
+<img src="/images/COA%202022/Excavating%20Women%20Participation/Statistics_Department_of_the_Powers.jpg" style="width:80%;">
+ <div style="background-color: white;">A file photograph from the Statistics Department of the Powers-Samas accounting
+machines, 4 December 1956. <i>Courtesy of National Archives of Singapore (media image no. 19980001292–0008).</i></div>
+
+
 Figure 1 offers a glimpse of the operations of the Powers-Samas
 accounting machines at the Singapore Statistics Department, which appears
 to have been staffed entirely by women. In the photo, two operators, with
