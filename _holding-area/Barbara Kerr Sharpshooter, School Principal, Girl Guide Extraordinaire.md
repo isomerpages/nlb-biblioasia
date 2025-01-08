@@ -7,8 +7,8 @@ description: Barbara Kerr Sharpshooter, School Principal, Girl Guide Extraordina
 #### Barbara Kerr Sharpshooter, School Principal, Girl Guide Extraordinaire 
 By Nick Aplin
 
-![](/images/Vol%2018%20Issue%204/Asian%20Film/image14.png)
-<div style="background-color: white;">Neng Yatimah and P. Ramlee in&nbsp;<i>Patah Hati</i>&nbsp;by K.M. Basker.&nbsp;<i>Courtesy of Shaw Organisation Pte Ltd.</i></div>
+![](/images/Vol%2020%20Issue%205/Barbara%20Kerr/image3.jpg)
+<div style="background-color: white;">Barbara Kerr when she was District Commissioner for Singapore (1927–35). <i>Image reproduced from Kevin Tan, Doing Our Best: A History of the Girl Guides in Singapore 1914–2022 (Singapore: Girl Guides Singapore, 2023), 17. (From National Library Singapore, call no. RSING 369.463095957 TAN).</i></div>
 
 In early 20th-century Singapore, there were not many occasions when a woman was expected to stand her ground against men in a representative international sporting event. There was, however, one notable exception: when a 26-year-old school principal stunned her male rivals, not in golf or tennis, but in rifle shooting.
 
