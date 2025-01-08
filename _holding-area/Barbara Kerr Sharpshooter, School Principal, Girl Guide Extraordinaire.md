@@ -60,6 +60,3 @@ On the professional front, Kerr was the principal of SCGS from 1912 to 1916, and
 Kerr was also known for her work as honorary secretary of the Society for the Prevention of Cruelty to Animals and the Child Welfare Society.[^19]
 
 In 1916, she married Leslie Arding Thomas, who would be appointed Chief Police Officer of Singapore in 1939. After her marriage, she became known as Mrs L.A. Thomas.[^20]
-
-
-
