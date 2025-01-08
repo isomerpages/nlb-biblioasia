@@ -36,7 +36,7 @@ Miss Kerr was most heartily congratulated on her strong finish, and she well des
 |Sapper J. Flanagan|32|34|30|96|
 |C. Sergeant-Major Chater|31|32|32|95|
 |Gunner Neubronner|31|35|29|95|
-|Miss Barbara Kerr|27|32|34|93|
+|<b>Miss Barbara Kerr</b>|<b>27</b>|<b>32</b>|<b>34</b>|<b>93</b>|
 |Sapper E.J. Potter|28|34|31|93|
 |Sergeant Tan Chow Kim|32|31|30|93|
 |Lt. Song Ong Siang|28|32|31|91|
