@@ -116,6 +116,9 @@ She rose through the ranks. In August 1921, when Kerr was living in Penang, she 
 
 Just four years later, in 1927, Kerr became District Commissioner for Singapore. In May 1931, she formed the first pack of Malay Brownies in Kuala Lumpur. She recalled: “After the scheme had been carefully explained to the parents and the teachers, and with some misgivings, we chose a number of the younger pupils at the Malay Girls’ School, Kampong Bahru, Kuala Lumpur, to be our first Malay Brownies. But we need have had no fears. It succeeded far beyond our expectations.”[^38]
 
+![](/images/Vol%2020%20Issue%205/Barbara%20Kerr/image1.jpg)
+<div style="background-color: white;">The first all-Malay Brownie Pack at the Kampong Bahru Malay Girls’ School in Kuala Lumpur, April 1931. The Brownie uniform was adapted from the traditional <i>baju</i> and <i>sarong</i>. <i>Image reproduced from Kevin Tan, Doing Our Best: A History of the Girl Guides in Singapore 1914–2022 (Singapore: Girl Guides Singapore, 2023), 21. (From National Library, Singapore, RSING 369.463095957 TAN).</i></div>
+
 The Brownie investiture ceremony on 15 May 1931 was held in the presence of the sultan of Selangor, who “pointed out that the boys had had an organisation for some time and now the Malay girls were being given their opportunity” and “hoped that other packs would be formed in Selangor”.[^39]
 
 Later in the same year, there were requests to start Malay Brownie Packs in Johor and Klang. To cope with increasing demand, in February 1932, Kerr was appointed Commissioner in charge of all Malay Brownie Packs in Malaya.[^40] In January 1934, she assumed the highest position in the Girl Guide movement in Malaya and Singapore – Commissioner for Malay Guides and Brownies, Girl Guides Association, Malaya.[^41] For her long and outstanding service, she received the Beaver Award – the second-highest award in the Girl Guides – in 1947.[^42] 
