@@ -62,3 +62,49 @@ On the professional front, Kerr was the principal of SCGS from 1912 to 1916, and
 Kerr was also known for her work as honorary secretary of the Society for the Prevention of Cruelty to Animals and the Child Welfare Society.[^19]
 
 In 1916, she married Leslie Arding Thomas, who would be appointed Chief Police Officer of Singapore in 1939. After her marriage, she became known as Mrs L.A. Thomas.[^20]
+
+#### **Taking up Rifle Shooting**
+It is not possible to state categorically when Kerr began to take up sports as a meaningful pastime or even as a ruling passion. Tennis and golf were popular with ladies when Kerr was growing up, as there were no modesty concerns with these sports. Rifle shooting was a different story. 
+
+In 1956, the _Straits Times Annual_ described the following, which was a common scenario in the Federated Malay States (FMS) in the early 20th century:
+
+The ladies lowered themselves decorously to the ground, lay flat on their stomachs, arranged their full ankle-length black skirts modestly to their fullest extent, and raised their rifles tentatively to their shoulders. Their white blouses were fastened up to their necks. Their hats were strange affairs, very large and of a white straw for the most part and adorned with a wealth of ribbon and bows.[^21]
+
+The first decade of the 20th century saw the rapid growth of shooting in the Malayan states, though less so in Singapore. The _Straits Budget_ reported a rifle contest between men and women in Taiping, Perak, in February 1904: “The ladies were armed with the .360 rook rifle and fired from a distance of 100 yards, while the gentlemen were provided with service rifles at double the distance.” The ladies managed to beat the men by 19 points.[^22]
+
+In September 1907, there were calls for a ladies’ branch of the Singapore Rifle Association. By March 1909, the Singapore Ladies’ Rifle Association had been formed with 28 members. The idea of regular competition was an important objective.[^23]
+
+Kerr most likely joined the association upon the introduction of the older ladies. Her name as a participant in a rifle shooting competition first appeared in newspapers in May 1908 when she was 21 years old, shooting at 100 yards (91 m), 150 yards (137 m) and 200 yards (183 m), and finished in eighth place out of 11 women.[^24] By October, she had made significant improvements to her scores, notably in the two longer distances.[^25] 
+
+#### **Principal of Singapore Chinese Girls’ School**
+In February 1912, Kerr became the principal of SCGS at the age of 25. It was a challenging job as the school suffered from a lack of funding between 1899 and 1919.[^26] By 1912, the school was overcrowded with 240 students. 
+
+Amid her professional developments, Kerr retained her interest in singing. The Singapore Philharmonic Society hosted a concert at the Teutonia Club on 30 March 1912 where Kerr performed two songs.[^27] In June 1914, she sang in the concert for St Mary’s Home and School for Eurasian Girls.[^28]
+
+Kerr left her post in 1916, the same year she married. Two years later, as Mrs L.A. Thomas, she returned as principal of SCGS. During the next three years, she focused on playing tennis and an occasional shoot at the monthly “spoon competitions” (where spoons were awarded as prizes at these shooting competitions).[^29] 
+
+By June 1920, Kerr had resigned as principal and accompanied her husband to Melaka.[^30] In her last annual school prizegiving ceremony a few months earlier, Lim Boon Keng, on behalf of the trustees of the school, “expressed the gratitude of the committee to Mrs Thomas, and the staff, for the work they had already done for the pupils and, indirectly, for the Chinese community”. The _Straits Times_ wrote that “SCGS was an institution so ably conducted under the principalship of Mrs Thomas”.[^31]
+
+#### **Subsequent Shooting Competitions**
+As part of his police work, Kerr’s husband was posted to different locations within the FMS and Singapore. After stints in Melaka, Penang, Ipoh and Selangor, he became Chief Police Officer of Singapore in 1939.[^32] Kerr accompanied him on his different postings, and had the opportunity to join various shooting and other sports clubs. 
+
+In 1932, Kerr, then 45, was living in Kuala Lumpur. At the FMS Championships in March that year, she recorded noteworthy scores in two competitions. She was the only woman competing and took second place in the championship. “The runner-up for the Championship was Mrs L.A. Thomas, the only lady to compete. Mrs Thomas was awarded a special prize, a bronze medal for her score of 350, which was only ten behind that of the champion,” reported the _Straits Times_.[^33]
+
+A lasting ambition was fulfilled in 1933 when Kerr took part in rifle competitions in Bisley, in Surrey, England. (Bisley is one of the major international shooting competitions, the equivalent of Wimbledon for tennis.) A write-up in London’s _Evening Standard_ (which was reproduced in the _Straits Times_ on 15 August 1933) noted: 
+
+Mrs. Barbara Thomas has travelled 9,000 miles from Kuala Lumpur in the Malay States, where her husband is a police official, to shoot at Bisley this year. She is the only woman member of the Rifle Club in Kuala Lumpur, and it is only two years ago that she took up shooting with the Service rifle, although she had shot considerably with a small-bore rifle recently. Now she is an accomplished shot and already at Bisley she has won five prizes.[^34]
+
+In December 1935, Kerr represented the Kinta District team in Ipoh in the Cornwell Cup presented by the FMS Volunteer Force Rifle Association. At age 48, and the only woman in the competition, Kerr scored well over the longer distances, performing better than most of the men. She was placed eighth out of 20 competitors. The _Pinang Gazette and Straits Chronicle_ described her as “a clever shot”.[^35] 
+
+#### **Contributions to the Girl Guides**
+Kerr was also closely involved with the Girl Guide movement in Malaya and Singapore. It is not clear when she first joined the Girl Guides, though it was likely during her time as principal of SCGS between 1918 and 1920. 
+
+She rose through the ranks. In August 1921, when Kerr was living in Penang, she was presented with a Captain’s badge during an inspection of the Penang Branch of the Girl Guides by Lady Guillemard.36 In January 1923, she was appointed Division Secretary for Penang and Province Wellesley.[^37] 
+
+Just four years later, in 1927, Kerr became District Commissioner for Singapore. In May 1931, she formed the first pack of Malay Brownies in Kuala Lumpur. She recalled: “After the scheme had been carefully explained to the parents and the teachers, and with some misgivings, we chose a number of the younger pupils at the Malay Girls’ School, Kampong Bahru, Kuala Lumpur, to be our first Malay Brownies. But we need have had no fears. It succeeded far beyond our expectations.”[^38]
+
+The Brownie investiture ceremony on 15 May 1931 was held in the presence of the sultan of Selangor, who “pointed out that the boys had had an organisation for some time and now the Malay girls were being given their opportunity” and “hoped that other packs would be formed in Selangor”.[^39]
+
+Later in the same year, there were requests to start Malay Brownie Packs in Johor and Klang. To cope with increasing demand, in February 1932, Kerr was appointed Commissioner in charge of all Malay Brownie Packs in Malaya.[^40] In January 1934, she assumed the highest position in the Girl Guide movement in Malaya and Singapore – Commissioner for Malay Guides and Brownies, Girl Guides Association, Malaya.[^41] For her long and outstanding service, she received the Beaver Award – the second-highest award in the Girl Guides – in 1947.[^42] 
+
+It is not known when Kerr returned to the United Kingdom for good. She died in Kingston upon Thames, London, on 6 January 1973, age 86. 
