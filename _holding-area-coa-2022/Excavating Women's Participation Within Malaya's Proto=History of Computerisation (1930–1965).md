@@ -197,17 +197,17 @@ Recognising Southeast Asia’s potential, the multinational positioned Singapore
 of its products – sales in Malaya quadrupled between 1953 and 1959 – to
 customers’ new business practices and expectations: “People in Malaya and
 other Eastern countries are becoming increasingly office machine-conscious.
-In this atomic age, they want efficiency, speed and accuracy.”30
+In this atomic age, they want efficiency, speed and accuracy.”[^30]
 
 NCR was active in staging exhibitions to promote both its own
 machines as well as products that it marketed in its role as the designated
-local agent.31 Public personalities who visited its exhibitions included
+local agent.[^31] Public personalities who visited its exhibitions included
 Singapore’s first Chief Minister, David Marshall, who was briefed by the
-corporation’s representatives.32
+corporation’s representatives.[^32]
 
 During this period, NCR machines were installed in some of the
 city’s major businesses, like Fitzpatrick’s supermarket and the ethnic
-Chinese-operated Lee Wah Bank,33 heralding a new era of transaction and
+Chinese-operated Lee Wah Bank,[^33] heralding a new era of transaction and
 accounting practices in Singapore. In 1958, the corporation showcased its
 latest cash register, installed at Fitzpatrick’s, to the <i>Singapore Free Press</i>.
 Describing it as “speedy and error-free” and a “machine that thinks”, the
@@ -225,7 +225,7 @@ paper highlighted the convenience of the new registers:
 
      well as the customer. And the cash register, unlike either of
 
-     them, is always right.34
+     them, is always right.[^34]
 		 
 Accompanying the story was a photograph of a female Fitzpatrick’s
 employee seated behind a cash register.	 
@@ -246,7 +246,7 @@ The use of mostly female models in NCR’s advertising campaigns
 suggests that women dominated the role of operators of its machines. NCR’s
 advertising momentum continued into its early computer products in the
 1960s, with the introduction of its first desk-size computer business system,
-the NCR 395, to Malaysia and Singapore.35 However, as the next section
+the NCR 395, to Malaysia and Singapore.[^35] However, as the next section
 illustrates, it would be another company, IBM, that truly ushered in the
 computer age in the region.
 
@@ -254,17 +254,17 @@ computer age in the region.
 
 Founded in 1911 as the Computing-Tabulating-Recording Company,
 IBM took on its present name in 1924. It arrived in colonial Malaya and
-Singapore in 1952 with a staff of three.36 Within a decade, IBM became
-associated with the first computers installed in the region.37
+Singapore in 1952 with a staff of three.[^36] Within a decade, IBM became
+associated with the first computers installed in the region.[^37]
 
 The use of IBM computers in government departments started in April
 1963, probably with the intent of symbolically heralding the formation of
 the new Malaysian federation comprising Singapore, Sarawak, Sabah and
-the Federation of Malaya in September.38 A year later, an IBM 1440 was
+the Federation of Malaya in September.[^38] A year later, an IBM 1440 was
 installed at the Lee Rubber Company in Singapore, then the largest exporter
 of rubber in the world. The company’s extensive regional network of rubber
 plantations, mills, factories and warehouses was managed by its Singapore
-headquarters.39
+headquarters.[^39]
 
 Technological milestones became part of both national pride and
 industry achievements. Formally launching the Electronic Data Processing
@@ -272,7 +272,7 @@ unit of the Finance Ministry in 1964, Singapore’s Deputy Prime Minister
 Dr Toh Chin Chye cited the time savings with the new computer. It reduced
 the time taken to compile data on voters in the electoral roll from 600 hours
 to 60 hours. The number of days taken to prepare the payroll of 39,000
-monthly rated government employees was also reduced, from 26 days to 8.40
+monthly rated government employees was also reduced, from 26 days to 8.[^40]
 
 A Straits Times correspondent had earlier described the setup in celebratory
 and futuristic tones:
@@ -295,12 +295,12 @@ Coming into its place: Rows and rows of girls punching holes
 
      the building for processing accounts and statistics of the
 
-     Finance Ministry.41
+     Finance Ministry.[^41]
 
 Around 20 of the unit’s 60 female clerk-operators were already trained
 to turn “facts and figures into codes” using the new computers, punching
 around 10,000 holes a day – more than twice as fast as on the dated
-accounting machines.42 Like their predecessors deployed on the Powers-
+accounting machines.[^42] Like their predecessors deployed on the Powers-
 Samas accounting machines three decades earlier, these women operators
 were similarly on the frontline of data modernisation.
 
