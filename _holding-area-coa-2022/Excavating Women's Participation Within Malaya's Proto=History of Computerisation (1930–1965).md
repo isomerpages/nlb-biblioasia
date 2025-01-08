@@ -354,3 +354,147 @@ his research on Singapore’s computer history under the Lee Kong Chian Fellowsh
 publications cover historical and heritage studies in Singapore as well as media and
 cultural flows in the Asia-Pacific. He is currently an Assistant Professor at Hong Kong
 Metropolitan University.</div>
+
+     
+
+#### **Bibliography**
+
+
+Ang, James and Soh P. H. “The Singapore Government’s Role in National Computerization Efforts.” _Behaviour &amp; Information Technology_ 14 no. 6 (1995): 361–69.
+
+Computer History Museum. “International Computers and Tabulators, LTD. (ICT).” Accessed 20 July 2022.
+
+Goh, Chor Boon. [_Technology and Entrepôt Colonialism in Singapore, 1819–1940_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200130222)_._ Singapore: Institute of Southeast Asian Studies, 2013. (Call no. RSING 338.064095957 GOH)
+
+Holt, Natalia. _Rise of the Rocket Girls: The Women Who Propelled US, from Missiles to the Moon to Mars_. New York: Little, Brown and Company, 2016.
+
+IBM. “IBM Archives.” Accessed 29 July 2022.
+
+—. “Singapore Chronology.” Accessed 25 July 2022.
+
+“IBM Hursley Museum.” Accessed 29 July 2022.  
+  
+Norberg, Arthur L. “High-Technology Calculation in the Early 20th Century: Punched Card Machinery in Business and Government.” _Technology and Culture_ 31, no. 4 (October 1990): 753–79.  
+  
+
+Singapore Trade and Industry. _Government Statistics_. January 1973. Singapore: Singapore Department of Statistics, 1973.
+
+Straits Settlements. _Annual Departmental Reports_. I.D./74. Singapore: Printed at the Government Printing Office, 1934. (Call no. RRARE 354.595 SSADR)
+
+—. _Blue Book of the Year_. Singapore: Government of the Colony of Singapore, 1935. (Microfilm NL3144)
+
+—. _Blue Book_, I.F. 68_._ Singapore: Government Printing Office, 1937. (Call no. RRARE 315.957 SSBB)
+
+
+#### **Newspaper Articles** _(From NewspaperSG)_
+
+_Business Times_. “[ICL Wants to Make an Impression First](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19780405-1.2.10.9).” 5 April 1978, 2.
+
+_Eastern Sun_. “[NCR Makes Singapore Southeast Asia Headquarters](https://eresources.nlb.gov.sg/newspapers/digitised/article/easternsun19660929-1.2.10.19).” 29 September 1966, 3.
+
+—. “[Page 1 Advertisements Column 2](https://eresources.nlb.gov.sg/newspapers/digitised/article/easternsun19671114-1.2.11.2).” 14 November 1967, 1.
+
+_Malaya Tribune._ “[National Cash Register Agency](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19140511-1.2.60).” 11 May 1914, 10.
+
+—. “[Municipal Accounts: Replies to the Statement Made by Major Field](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19220826-1.2.36).” 26 August 1922, 7.
+
+—. “[Page 11 Advertisements Column 4](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19500331-1.2.109.4).” 31 March 1950, 11.
+
+_Singapore Free Press_. “[13 Girls Record Singapore’s Trade](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19470415-1.2.34.4).” 15 April 1947, 5.
+
+—. “[100 European Women Hold Government Posts](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19480522-1.2.20).” 22 May 1948, 1.
+
+—. “[More Know How to Read, Write](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19491010-1.2.48).” 10 October 1949, 5.
+
+—. “[Statistics Work to Be Speeded Up](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19500703-1.2.65).” 3 July 1950, 5.
+
+—. “[Cash Register Checks All the Book Work](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19550930-1.2.113.6).” 30 September 1955, 3.
+
+—. “[Enter the Mechanical Brain](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19580811-1.2.99.44).” 11 August 1958, 20.
+
+—. “[Mechanisation](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19591105-1.2.109.7).” 5 November 1959, 10.
+
+—. “[Lee Wah Bank – The First to Bring You the Wonder of Electronic Banking](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19600523-1.2.85).” 23 May 1960, 9.
+
+—. “[Two More Ultra-Modern Buildings Going Up in Malaya](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19600523-1.2.86).” 23 May 1960, 9.
+
+_Singapore Free Press and Mercantile Advertiser_. “[Brighter Accounting: Girls for F.M.S. Railways Department](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19320111-1.2.48).” 11 January 1932, 8.
+
+—. “[Colonial Secretary: Change in Budget Procedure](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19340925-1.2.35).” 25 September 1934, 3.
+
+—. [Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19351023-1.2.114). 23 October 1935, 11.
+
+—. “[Municipal Accounts Now Compiled by Machinery](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19390724-1.2.80).” 24 July 1939, 7.
+
+_Singapore Standard_. “[Marshall Sees New Machines](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19551005-1.2.144.4).” 5 October 1955, 10.
+
+—. “[On the Feminine Front](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19570526-1.2.122.6.1).” 26 May 1957, 15.
+
+—. “[These S’pore Women Can Tell You Plenty](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaystandard19570707-1.2.90).” 7 July 1957, 4.
+
+_Straits Budget._ “[$9 Million in F.M.S. Savings Bank: Intricacies of Post Office Accounts](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19371125-1.2.37).” 25 November 1937, 10.
+
+—. “[Machines Will Check Census](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19470220-1.2.115),” 20 February 1947, 16.
+
+—. “[What Mr. Statistics Said Was: Women Are Better Than Men Only at Monotonous Work](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19600203-1.2.35).” 3 February 1960, 3.
+
+_Straits Times_. “[Page 4 Advertisements Column 1](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19050324-1.2.30.1),” 24 March 1905, 4.
+
+—. “[Mechanised Accountancy in Malayan Offices](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19350908-1.2.74).” 8 September 1935, 18.
+
+—. “[New Machine System for Municipal Accounts](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19390724-1.2.102).” 24 July 1939, 13
+
+—. “[The Municipality in the Machine Age](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19480918-1.2.94.1).” 18 September 1948, 9.
+
+—. Koh, Philip, “[The Machine Age Replies](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19480925-1.2.88.4).” 25 September 1948, 9.
+
+—. “‘[Back Room Girl’ for U.K](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19510516-1.2.108).” 16 May 1951, 7.
+
+—. Liau, Nyuk Oi. “[Personalities Behind the Machines](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19510716-1.2.122).” 16 July 1951, 8.
+
+—. “[Machines Step Up Work](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19510824-1.2.53).” 24 August 1951, 4.
+
+—. “[Page 8 Advertisements Column 1](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19520229-1.2.100.1).” 29 February 1952, 8.
+
+—. “[Business Statistics in Minutes on New Accounting Machine](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19530925-1.2.142.4).” 25 September 1953, 10.
+
+—. “[Accounting Machines Sales Drive](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19541119-1.2.149.3).” 19 November 1954, 12.
+
+—. “[Company Has New Colony Offices](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19550308-1.2.156).” 8 March 1955, 12.
+
+—. “[Page 14 Advertisements Column 1](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19560218-1.2.183.1).” 18 February 1956, 14.
+
+—. “[National Cash Register Display](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19581010-1.2.121).” 10 October 1958, 4.
+
+—. “[Company Quadruples Sales in 6 Years](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19591030-1.2.90.5).” 30 October 1959, 10.
+
+—. “[She Rules Kindly in Women-Only Domain](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19611005-1.2.135.1).” 5 October 1961, 16.
+
+—. “[A New Sit-Down Strike Begins](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19611221-1.2.32).” 21 December 1961, 4.
+
+—. “[End to 82 Days Strike](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19620315-1.2.37).” 15 March 1962, 5.
+
+—. “[IBM High Speed Computer Coming](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19621228-1.2.116.8).” 28 December 1962, 16.
+
+—. “[Statistics Department to Use Computers](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19630426-1.2.142.1).” 26 April 1963, 14.
+
+—. “[IBM Units in CPF Office](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19631008-1.2.122).” 8 October 1963, 12.
+
+—. “[Mighty ‘Brain’ Goes to Work](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19640120-1.2.21).” 20 January 1964, 4.
+
+—. “[Singapore Efficiency Admired, Says Dr. Toh](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19640307-1.2.20).” 7 March 1964, 4.
+
+—. “[NCR’s Latest in Electronic Accounts](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19640707-1.2.100).” 7 July 1964, 12.
+
+—. Lim, Peter. “[Enter Mr. Superthink](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19641011-1.2.2).” 11 October 1964, 1.
+
+—. “[ICT Forms Far East Region H.Q](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19660805-1.2.115).” 5 August 1966, 12.
+
+—. Kwee, Masie. “[About Brains That Drain and Those That Remain](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19710625-1.2.107).” 25 July 1971, 18.
+
+—. “[A Monument of Local Business Success](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19711127-1.2.167).” 27 November 1971, 32.
+
+_Straits Times Annual_. “[Page 64/65 Advertisements Column 1](https://eresources.nlb.gov.sg/newspapers/digitised/article/stannual19060101-1.2.56.1).” 1 January 1906, 64.
+
+_Sunday Tribune._ “[Savings Banks Officials Ready to Handle Any Amount of Business: $30,000 Accounting Machines Arrive](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaytribune19470810-1.2.34).” 10 August 1947, 2.
+
