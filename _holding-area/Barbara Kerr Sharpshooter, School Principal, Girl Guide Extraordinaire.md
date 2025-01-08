@@ -173,3 +173,23 @@ It is not known when Kerr returned to the United Kingdom for good. She died in K
 [^31]: “[Chinese Girls School](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19200214-1.2.41),” _Singapore Free Press and Mercantile Advertiser_, 14 February 1920, 12; “[Chinese Girls School](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19200214-1.2.71),” _Straits Times_, 14 February 1920, 10. (From NewspaperSG)
 
 [^32]: “[New Chief Police Officer](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19390117-1.2.72).”
+
+[^33]: “[Fine Shooting by a Woman](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19320329-1.2.68),” _Straits Times_, 29 March 1932, 13. (From NewspaperSG)
+
+[^34]: “[F.M.S. Woman Shoots at Bisley](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19330815-1.2.72),” _Straits Times_, 15 August 1933, 12. (From NewspaperSG)
+
+[^35]: “[Rifle Shoot in Ipoh](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19351203-1.2.45),” _Pinang Gazette and Straits Chronicle_, 3 December 1935, 8. (From NewspaperSG)
+
+[^36]: “[The Girl Guides](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19210901-1.2.10),” _Pinang Gazette and Straits Chronicle_, 1 September 1921, 4. (From NewspaperSG)
+
+[^37]: “[The Girl Guides](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19230103-1.2.29),” _Pinang Gazette and Straits Chronicle_, 3 January 1923, 7. (From NewspaperSG)
+
+[^38]: Tan, [_Doing Our Best_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=206122077), 20.
+
+[^39]: “[First Malay Brownies](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19310521-1.2.52),” _Straits Budget_, 21 May 1931, 12. (From NewspaperSG)
+
+[^40]: “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19320203-1.2.55),” _Malaya Tribune_, 3 February 1932, 8. (From NewspaperSG)
+
+[^41]: “[Girl Guides Association](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340104-1.2.29),” _Straits Times_, 4 January 1934, 7. (From NewspaperSG)
+
+[^42]: Girl Guides Singapore, _Milestones and Achievements: History of Girl Guides Singapore_ (Singapore: Girl Guides Singapore, 2010), 18, [https://girlguides.org.sg/about-ggs/history-of-ggs/](https://girlguides.org.sg/about-ggs/history-of-ggs/).
