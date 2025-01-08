@@ -34,3 +34,44 @@ get notified when the next episode drops.</p>
 <br>28:45 – What the Singapore literary scene lacks
 <br>35:07 – Crime writing is…</p>
 <p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About the Guest</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Tracey A. Morton&nbsp;is a Singapore-based Irish/Australian writer and
+a Cambridge graduate. She is co-host of the podcast,&nbsp;<em>The Asian Bookshelf</em>,
+and author of the upcoming novel,&nbsp;<em>The Coffee Shop Masquerade</em>.
+In 2020, she was shortlisted for the Bridport Prize for her short work,
+“Faded Ink”, and the Virginia Prize for Fiction for&nbsp;<em>The Queen, The Soldier and The Girl</em>.
+Her novel,&nbsp;<em>Someone Is Coming</em>, based on plantation murders
+in Malaya in the 1900s, was published by Monsoon Books in 2022 and has
+been optioned for television.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Resources</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>T.A. Morton, "<a href="https://biblioasia.nlb.gov.sg/vol-20/issue-4/jan-mar-2025/william-somerset-maugham-secrets/" rel="noopener nofollow" target="_blank">W. Somerset Maugham: Secrets from the Outstations</a>,"
+BiblioAsia 20, no. 4 (January–March 2025).</p>
+<p></p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Credits</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh
+Gek Han. Sound engineering was done by Doppler Soundlab. The background
+music "Di Tanjong Katong" was composed by Osman Ahmad and performed by&nbsp;
+<a href="https://www.youtube.com/watch?v=uA2v7ka5TAI" rel="noopener noreferrer nofollow" target="_blank">Chords Haven</a>. Special thanks to Tracey for coming on the show.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>About the Podcast</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>BiblioAsia+ is a podcast about Singapore history by the National Library
+of Singapore.</p>
+</div>
+</details>
+</div>
+<p></p>
