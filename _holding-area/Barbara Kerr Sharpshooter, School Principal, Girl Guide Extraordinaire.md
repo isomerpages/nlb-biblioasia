@@ -107,4 +107,37 @@ The Brownie investiture ceremony on 15 May 1931 was held in the presence of the 
 
 Later in the same year, there were requests to start Malay Brownie Packs in Johor and Klang. To cope with increasing demand, in February 1932, Kerr was appointed Commissioner in charge of all Malay Brownie Packs in Malaya.[^40] In January 1934, she assumed the highest position in the Girl Guide movement in Malaya and Singapore – Commissioner for Malay Guides and Brownies, Girl Guides Association, Malaya.[^41] For her long and outstanding service, she received the Beaver Award – the second-highest award in the Girl Guides – in 1947.[^42] 
 
-It is not known when Kerr returned to the United Kingdom for good. She died in Kingston upon Thames, London, on 6 January 1973, age 86. 
+It is not known when Kerr returned to the United Kingdom for good. She died in Kingston upon Thames, London, on 6 January 1973, age 86.
+
+#### **Notes**
+[^1]: “[Interport Shoot](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19140525-1.2.51),” _Malaya Tribune_, 25 May 1914, 10. (From NewspaperSG)
+
+[^2]: “[Rifle Shooting](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19140331-1.2.71.3),” _Straits Times_, 31 March 1914, 10; “[The Interport Match](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19140330-1.2.13.7),” _Pinang Gazette and Straits Chronicle_, 30 March 1914, 4. (From NewspaperSG) 
+
+[^3]: “[The Interport Match](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19140330-1.2.13.7).”
+
+[^4]: “[The Interport Match](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19140330-1.2.13.7)”; “[Interport Shoot](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19140525-1.2.51).”
+
+[^5]: “[Interport Shoot](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19140525-1.2.51).” 
+
+[^6]: “[Interport Shoot](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19140525-1.2.51).”
+
+[^7]: _Song Ong Siang,_ [_One Hundred Years’ History of the Chinese in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=f8082431-1c7b-460e-b59c-bbc5793035a3) (London: John Murray, 1923), 506. (From National Library Online)
+
+[^8]: “[“Interport Shoot](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19140525-1.2.51).”
+
+[^9]: “[Raffles Girls’ School](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19000208-1.2.42),” _Straits Times_, 8 February 1900, 3. (From NewspaperSG)
+
+[^10]: “[Wednesday, November 21, 1900](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk19001122-1.2.93),” _Singapore Free Press and Mercantile Advertiser_, 22 November 1900, 13. (From NewspaperSG)
+
+[^11]: “[Page 1 Advertisements Column 2](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19031019-1.2.2.2),” _Straits Times_, 19 October 1903, 1. (From NewspaperSG)
+
+[^12]: “[Raffles Girls’ School](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk19021211-1.2.70),” _Singapore Free Press and Mercantile Advertiser_, 11 December 1902, 377. (From NewspaperSG)
+
+[^13]: “[Raffles Girls’ School](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19031207-1.2.33),” _Straits Times_, 7 December 1903, 5. (From NewspaperSG)
+
+[^14]: “[Distribution of Prizes](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19050223-1.2.44),” _Straits Budget_, 23 February 1905, 8. (From NewspaperSG)
+
+[^15]: “[Raffles Girls’ School](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19050330-1.2.42),” _Straits Budget_, 30 March 1905, 7. (From NewspaperSG)
+
+[^16]: “At Raffles Girls’ School,” _Straits Times_, 25 May 1905, 5. (From NewspaperSG)
