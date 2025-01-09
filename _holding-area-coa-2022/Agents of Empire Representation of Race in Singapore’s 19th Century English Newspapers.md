@@ -408,9 +408,9 @@ SEA was vexed:
 
      servants would sooner follow the bent of their inclinations and
 
-     turn rogues and thieves than<i> take service except on their own
+     turn rogues and thieves than<i> take service except on their own terms</i> 
 
-     terms</i> [emphasis added].44
+     [emphasis added].44
 
 The recommended antidote to this intransigence was to dump them
 forcefully into “gharries” and drive them to the relevant office to be
