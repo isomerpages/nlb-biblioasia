@@ -106,6 +106,20 @@ The Zhenkongjiao persisted in its secular and charitable initiatives, which were
 <br>
 <img src="/images/Online%20Only%20Articles/Rites%20of%20Rehabilitation/19980005070___0069.jpg" style="width: 80%;">Ling Kuang Toh Tong of Zhen Kong Religion, the temple closed after their land lease expired and their ancestral tablets moved to Hean Thuan Toh Tong at 89 Tampines Link. <i>Courtesy of National Archives of Singapore.</i></div>
 
+Additionally, Thian Ling Toh Tong, then located in Mandai, was a crucial centre for the care of the intellectually disabled and abandoned children since the 1970s. In 1990, the oldest resident under the temple’s care was 60 years old, and 20 children called the temple home.[^38]
+
+The Zhenkongjiao also responded to significant events and tragedies in Singapore. On 12 October 1978, an explosion onboard the Greek oil tanker _S.T. Spyros_ (docked at Jurong shipyard) resulted in what was described as the “most tragic disaster since the end of World War II” in terms of lives lost.[^39] The Zhenkongjiao was a crucial support for affected families, holding a three-day ritual for the souls of the deceased, with expenses covered by Thian Ling Chong Toh Tong temple. Rituals to offer spiritual solace to the deceased were also organised, including a ceremony known as the “showering of holy rain and sweet dew”.[^40]
+
+**Moving Towards the Future**
+
+Although Zhenkongjiao temples no longer run drug rehabilitation programmes, they remain significant centres for religious practice. Apart from observing traditional Chinese festivals like Qing Ming (tomb sweeping) and the Seventh Lunar Month, they also commemorate the birthdays of their five patriarchs. These elaborate celebrations include the recitation of the movement’s religious texts from morning to afternoon. The culmination of each event is marked by the Repayment of Gratitude, a solemn ceremony where believers express their appreciation to various elements of existence, including the state, family and their own good fortune. A highlight of this ceremony is the presentation of the Five Mountains and Five Seas, a lavish array of meat and seafood dishes, symbolising profound gratitude.[^41] The dishes are blessed and shared with devotees and participants to symbolise sharing the grace of the Zhenkongjiao’s patriarchs.
+
+  
+
+* * *
+
+
+
   
 
 * * *
@@ -205,3 +219,11 @@ The Zhenkongjiao persisted in its secular and charitable initiatives, which were
 [^36]:  “Tianling Laoren Yuan jianjun [天灵老人院建竣](https://eresources.nlb.gov.sg/newspapers/digitised/article/lhwb19891124-1.2.6.19) \[Completion of Tianling Elderly Home\],” _Lianhe Wanbao_ 联合晚报, 24 November 24 1989, 6. (From NewspaperSG)
 
 [^37]:  “Zhenkongjiao lingguang daotang jiaozhu shengdan Huang Shuren zan gai tang fuwu jingshen peihe shehui xuyao zuochu gongxian[真空教灵光道堂教主圣诞 黄树⼈赞该 堂服务精神 配合社会需求作出贡献](https://eresources.nlb.gov.sg/newspapers/digitised/article/lhwb19830528-1.2.23.1) \[The celebration of the birthday of the spiritual leader of the Lingguang Temple of the Zhenkongjiao, praised by Huang Shuren for the spirit of service of the temple, contributing to the needs of society\],” _Lianhe Wanbao_ 联合晚报, 28 May 1983, 9. (From NewspaperSG)
+
+[^38]:  “Baichi zhi jia Tangshen you dao tang shouyang ershi ren [白痴之家汤申有道堂收养二十人](https://eresources.nlb.gov.sg/newspapers/digitised/article/lhwb19900212-1.2.10.8) \[Thompson Road Temple is Home to 20 Intellectually disabled people\],” _Lianhe Wanbao_ 联合晚报, 12 February 1990, 4. (From NewspaperSG)
+
+[^39]:  Gillian Pow Chong, “[Singapore’s History Book of Disasters](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19840117-1.2.20.24),” _Straits Times_, 17 January 1984, 15. (From NewspaperSG)
+
+[^40]:  “Xingma zhen ma Zhenkongjiao lian he ding qi wei you chuan li nan zhe ju xing chao jian fa hui [星马眞空敎联合订期 为油船罹难者 举 ⾏超荐法会](https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19781105-1.2.66.2) \[The Singapore-Malaysia Zhenkongjiao Alliance schedules a memorial service for the victims of the oil tanker accident\],” _Sin Chew Jit Poh_ 星洲⽇報, 5 November 1978, 30. (From NewspaperSG); “Xingma Zhenkongjiao ge dao tang wei can huo li nan zhe zhu ban chao jian fa hui [星马眞空敎各道堂 为惨祸罹难者 主办 超荐法会](https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19781125-1.2.38.2) \[Various Zhenkongjiao temples in Singapore and Malaysia host memorial services for the victims of the tragic accident\],” _Sin Chew Jit Poh_ 星洲⽇報, 25 November 1978, 10 (From NewspaperSG); “Zhenkongjiao Tian Ling Zong Dao Tang lian he Xinma liangdi daotang wei chuan nan si zhe juxing chao jian fahui ji gong ji [真空教天灵总道堂联合新⻢两地道堂为船难死者举行超荐法会及公祭](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19781125-1.2.84.3) \[The Zhenkongjiao Tian Ling Zong Daotang, in conjunction with temples in Singapore and Malaysia, holds memorial services and public ceremonies for the victims of the maritime disaster\],” _Nanyang Siang Pau_ 南洋商报, 25 November 1978, 39. (From NewspaperSG)
+
+[^41]:  Esmond Chuah Meng Soh, “[Article Sneak Peeks: May 2022](https://chinesereligions.org/node/214),” Society for the Study of Chinese Religions, last accessed 20 April 2024.
