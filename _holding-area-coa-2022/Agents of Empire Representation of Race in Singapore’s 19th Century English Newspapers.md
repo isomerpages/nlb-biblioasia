@@ -42,8 +42,3 @@ to these ideas. Raffles himself, until so recently considered a progressive
 administrator, believed in a metaphorical racial ladder, the highest rungs of
 which were occupied by Europeans, followed by those natives who adopted
 Western modes of behaviour, lifestyle and clothing.5
-
-
-
-
-
