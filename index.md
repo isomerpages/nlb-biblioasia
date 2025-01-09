@@ -1125,4 +1125,14 @@ sections:
       image: /images/Vol 19 Issue 4/An Interview with Rachel Heng/book
         cover_homepage3.jpg
       alt: The Great Reclamation
+  - infopic:
+      title: What Makes An Animal Singaporean?
+      subtitle: Podcast
+      id: infopic
+      description: Environmental historian Timothy Barnard tells us what makes migrant
+        animals, like otters and Aedes mosquitoes, Singaporean.
+      button: Listen to the episode
+      url: /podcast/what-makes-an-animal-singaporean-timothy-barnard/
+      image: /images/Podcast/Tim_600_400.jpg
+      alt: Image alt text
 ---
