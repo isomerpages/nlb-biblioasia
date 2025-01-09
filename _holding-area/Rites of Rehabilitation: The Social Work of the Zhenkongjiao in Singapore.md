@@ -42,9 +42,33 @@ By the 1960s, the number of Zhenkongjiao temples in Singapore had increased to 2
 
 Singapore, as the proverbial entrepot of Southeast Asia, was greatly affected by the shrinking trade quantities during the Great Depression, and the consequent fall in the trade of commodities such as rubber, rice and tin on the international markets had an adverse impact on the lives of ordinary workers.[^11] Many of them were frequent traffickers and consumers of opium – for both medical purposes and as an escape from the drudgery of their lives. With the rising cost of opium, it became increasingly necessary for them to break the habit. This may have provided the initial impetus for the growth of Zhenkongjiao in Singapore before the Second World War (1942–45) as addicts sought to quit opium smoking.[^12]
 
+#### **Curing Opium Addiction in Postwar Singapore**
+
+After the Japanese Occupation ended in 1945, British authorities took notice of the Zhenkongjiao’s efforts to stamp out opium smoking, which aligned with the Opium and Chandu Proclamation that made the use and possession of opium and smoking tools illegal as of 1 February 1946.[^13] However, an intriguing narrative from _Supplementary Histories_, a commemorative volume published by the Zhenkongjiao in British Malaya in 1965, recounts the tale of Huang Shengfa, who was said to have received official authorisation in 1912 to disseminate the movement’s teachings in Singapore and Malaya after successfully treating terminally ill patients referred by British authorities.[^14]
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Rites%20of%20Rehabilitation/19980005535_IMG0102.jpg" style="width: 80%;">Authorisation card to purchase opium from an opium shop on Queen Street, Syonan-to (Singapore), during the Japanese Occupation, 1942. <i>Chew Chang Lang Collection, courtesy of National Archives of Singapore.</i></div>
+
+However, not everyone was convinced of the Zhenkongjiao’s methods. Throughout the 1950s, the Zhenkongjiao and medical professionals clashed in newspaper forums and editorials, with the latter denouncing their rituals as “nonsense.” The Thian Ling Chong Toh Tong temple responded by issuing a challenge, which went unanswered, to detractors to prove their methods did not work.[^15] Despite scepticism from some quarters, the judiciary sentenced convicted addicts to the Zhenkongjiao’s opium rehabilitation programme, underscoring the relationship between colonial interests and the Zhenkongjiao.[^16]
+
+By 1956, there was growing acceptance by the government, with Thian Ling Chong Toh Tong temple being interchangeably referred to in the English press as the secular-sounding “Opium Addicts Treatment Association” and “Faith Healing and Opium Curative Centre”.[^17] A Dr Leong Hon Koon, representing the authorities, praised the temple’s methods, contrasting them with the relatively higher relapse rates of those who had been treated at the Opium Treatment Centre on St John’s Island, where similar cold turkey methods were used but with less success.[^18]
+
   
 
 * * *
+
+
+
+
+  
+
+
+
+
+
+  
+
 
 
 
@@ -84,3 +108,15 @@ Singapore, as the proverbial entrepot of Southeast Asia, was greatly affected by
 [^11]:  Loh Kah Seng, “Beyond Rubber Prices: Negotiating the Great Depression in Singapore,” _South East Asia Research_ 14, no. 1 (2006): 5–31 (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website); and W. G. Huff, “Entitlements, Destitution, and Emigration in the 1930s Singapore Great Depression,” _The Economic History Review_ 54, no. 2 (2001): 290–323. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
 [^12]:  Shi and Ouyang, “Xinjiapo Zhenkongjiao fazhanshi chutan,” 92-93.
+
+[^13]:  “[Suppressing Opium Smoking](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19460204-1.2.28),” _Straits Times_, 4 February 1946, 3. (From NewspaperSG)
+
+[^14]:  Huang, _Kongzhongjiao Fazhan Shilue_, 34.
+
+[^15]:  “[Doctors Debunk Prayer Cures](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19520814-1.2.45),” _Singapore Standard_, August 14, 1952, 2; Lim Siew Kok, [“‘Debunkers’ Challenged](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19520825-1.2.53.4),” _Singapore Standard_, August 25, 1952, 4. (From NewspaperSG)
+
+[^16]:  “[Court Upset by Woman](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19560613-1.2.76),” _Straits Times_, June 13, 1956, 5. (From NewspaperSG)
+
+[^17]:  “[Dope faith men get promise from Mr. Lim](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19560923-1.2.45),” _Straits Times_ September 23, 1956, 4. (From NewspaperSG)
+
+[^18]:  “[Cures with a Tea!](https://eresources.nlb.gov.sg/newspapers/digitised/page/freepress19560511-1.1.14)“ _Singapore Free Press_, May 11, 1956, 14. (From NewspaperSG)
