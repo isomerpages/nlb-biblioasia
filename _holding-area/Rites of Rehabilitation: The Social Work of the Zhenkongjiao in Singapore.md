@@ -80,6 +80,10 @@ Animal sacrifice was also a central component of the Zhenkongjiao's historical o
 
 Interestingly, the concept of sacrificial transference mirrors the lives of Zhenkongjiao’s patriarchs, who are described in hagiographies as embodying self-sacrifice for the benefit of their devotees. When followers petitioned the patriarchs for good health, their burdens were believed to be absorbed and taken on by the patriarchs themselves, often resulting in immense personal suffering. This practice, known as “crossing the way”, involved enduring prolonged illness and hardship as a means of alleviating the physical and spiritual burdens of their devotees.[^27]
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Rites%20of%20Rehabilitation/19980001276___0014.jpg" style="width: 80%;">Chief Minister of Singapore Lim Yew Hock with guests and teachers of the Opium Addicts’ Treatment Association Singapore at special thanksgiving service at Thian Ling Chong Toh Tong Temple at 5½ milestone Changi Road. A man (squatting) prepares a chicken for ritual sacrifice, 1956. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
   
 
 * * *
