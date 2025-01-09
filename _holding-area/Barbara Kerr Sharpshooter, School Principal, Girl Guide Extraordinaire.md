@@ -30,7 +30,7 @@ Singapore’s match took place on 23 May 1914 at Balestier Rifle Range, on the n
 
 Kerr had a poor start but recovered in a spectacular way to score a total of 93 points for Singapore, putting her in sixth position. The _Malaya Tribune_ wrote:
 
-"Miss Kerr was most heartily congratulated on her strong finish, and she well deserved it. Coming from the 200 yds. position a bad fire of 27, she did not become disheartened in the least, and secured 32 from the 500 distance. The last firing began at 4.35 from the 600 yards mound, and Miss Kerr rose a few minutes later after making the highest score of any of the competitors from that distance – 34, bringing her name up to 6th on the score sheet.[^6]"
+"Miss Kerr was most heartily congratulated on her strong finish, and she well deserved it. Coming from the 200 yds. position a bad fire of 27, she did not become disheartened in the least, and secured 32 from the 500 distance. The last firing began at 4.35 from the 600 yards mound, and Miss Kerr rose a few minutes later after making the highest score of any of the competitors from that distance – 34, bringing her name up to 6th on the score sheet."[^6]
 
 |Singapore Team|200 yards|500 yards|600 yards|Total
 | -------- | -------- | -------- | -------- | -------- |
@@ -48,7 +48,7 @@ Kerr had a poor start but recovered in a spectacular way to score a total of 93 
 
 The final score for Singapore was 942, which tied it with Shanghai. One point less from Kerr and Shanghai would have won the competition. One of her teammates, Song Ong Siang, acknowledged her contributions to the team effort: 
 
-"The novel feature in the match was the inclusion in the Singapore team of a lady, Miss Kerr (the well-known and popular vocalist, then Principal of the Singapore Chinese Girls’ School, and now Mrs Thomas). By her coolness and steady shooting at the longer ranges, she finished by taking sixth place with a score of 93.[^7]"
+"The novel feature in the match was the inclusion in the Singapore team of a lady, Miss Kerr (the well-known and popular vocalist, then Principal of the Singapore Chinese Girls’ School, and now Mrs Thomas). By her coolness and steady shooting at the longer ranges, she finished by taking sixth place with a score of 93."[^7]
 
 When asked by a _Malaya Tribune_ reporter if nerves had affected her score after the 200 yards round, Kerr replied that she had been very nervous then. She added, “I did not care after that, as I was out of it.”[^8] Kerr had left her stamp on the history of rifle shooting in Singapore.
 
@@ -65,6 +65,9 @@ Beyond her academic achievements, Kerr was a soprano of considerable repute. She
 
 On the professional front, Kerr was the principal of SCGS from 1912 to 1916, and again from 1918 to 1920 after her marriage. She also made significant contributions to the Girl Guide movement, and was District Commissioner for Singapore from 1927 to 1935. Between 1934 and 1941, she was Commissioner for Malay Guides and Brownies, Girl Guides Association, Malaya.[^18]
 
+![](/images/Vol%2020%20Issue%205/Barbara%20Kerr/image6.jpg)
+<div style="background-color: white;">Barbara Kerr (back row, third from right), Commissioner of Girl Guides in Malaya, with guiders at the All-Malayan guides camp held at Tanjong Bruas, Melaka, in September 1938. <i>Source: The Sunday Times, 4 September 1938. © SPH Media Limited. Permission required for reproduction.</i></div>
+
 Kerr was also known for her work as honorary secretary of the Society for the Prevention of Cruelty to Animals and the Child Welfare Society.[^19]
 
 In 1916, she married Leslie Arding Thomas, who would be appointed Chief Police Officer of Singapore in 1939. After her marriage, she became known as Mrs L.A. Thomas.[^20]
@@ -74,7 +77,7 @@ It is not possible to state categorically when Kerr began to take up sports as a
 
 In 1956, the _Straits Times Annual_ described the following, which was a common scenario in the Federated Malay States (FMS) in the early 20th century:
 
-"The ladies lowered themselves decorously to the ground, lay flat on their stomachs, arranged their full ankle-length black skirts modestly to their fullest extent, and raised their rifles tentatively to their shoulders. Their white blouses were fastened up to their necks. Their hats were strange affairs, very large and of a white straw for the most part and adorned with a wealth of ribbon and bows.[^21]"
+"The ladies lowered themselves decorously to the ground, lay flat on their stomachs, arranged their full ankle-length black skirts modestly to their fullest extent, and raised their rifles tentatively to their shoulders. Their white blouses were fastened up to their necks. Their hats were strange affairs, very large and of a white straw for the most part and adorned with a wealth of ribbon and bows."[^21]
 
 The first decade of the 20th century saw the rapid growth of shooting in the Malayan states, though less so in Singapore. The _Straits Budget_ reported a rifle contest between men and women in Taiping, Perak, in February 1904: “The ladies were armed with the .360 rook rifle and fired from a distance of 100 yards, while the gentlemen were provided with service rifles at double the distance.” The ladies managed to beat the men by 19 points.[^22]
 
@@ -96,9 +99,6 @@ By June 1920, Kerr had resigned as principal and accompanied her husband to Mela
 
 #### **Subsequent Shooting Competitions**
 As part of his police work, Kerr’s husband was posted to different locations within the FMS and Singapore. After stints in Melaka, Penang, Ipoh and Selangor, he became Chief Police Officer of Singapore in 1939.[^32] Kerr accompanied him on his different postings, and had the opportunity to join various shooting and other sports clubs. 
-
-![](/images/Vol%2020%20Issue%205/Barbara%20Kerr/image6.jpg)
-<div style="background-color: white;">Barbara Kerr (back row, third from right), Commissioner of Girl Guides in Malaya, with guiders at the All-Malayan guides camp held at Tanjong Bruas, Melaka, in September 1938. <i>Source: The Sunday Times, 4 September 1938. © SPH Media Limited. Permission required for reproduction.</i></div>
 
 In 1932, Kerr, then 45, was living in Kuala Lumpur. At the FMS Championships in March that year, she recorded noteworthy scores in two competitions. She was the only woman competing and took second place in the championship. “The runner-up for the Championship was Mrs L.A. Thomas, the only lady to compete. Mrs Thomas was awarded a special prize, a bronze medal for her score of 350, which was only ten behind that of the champion,” reported the _Straits Times_.[^33]
 
