@@ -314,6 +314,50 @@ Founded by a group of miffed Eurasians when they were denied entry to the
 differences.33 In 1887, a peeved reader wrote in to the ST complaining of the
 treatment meted out to SRC members at an SCC event:
 
+     Some such courtesy might have been shown to the <i> Committee</i> 
+
+     [emphasis in original] of the S.R.C. if not to all the
+
+     members, and as respectable as any of the S.C.C. members,
+
+     although not born in Europe. But the usual class distinction
+
+     prevailed… – a distinction which is as unworthy of those
+
+     who are responsible for making it, as it is humiliating to those
+
+     against whom the line is drawn.34
+
+The Eurasians were a deeply insecure community at the time. Ease
+of transportation had brought not just ideas, but also more and more
+pure-blooded European men and women to Singapore’s shores. Whatever
+porosity had existed – it was not uncommon for European men to take
+up with local women across Malaya, for instance – disappeared; ideas of
+racial purity became more stringent, and social contact with the locals was
+increasingly frowned upon.35
+
+The Eurasians found themselves far removed from the upper echelons
+of European society, lumped with the natives. This insecurity, and its
+attendant anger, played itself out in various newspapers that emerged to
+support the Eurasian cause in Singapore. They did so by heaping contempt
+on the Chinese, Malays and Indians – inflicting on them the same
+humiliation that they accused the Europeans of perpetrating. The SEA was
+one such paper.
+
+Started in 1887 as a Saturday weekly by a Eurasian named John
+Nicholson, the SEA was the community’s second attempt at a propaganda
+organ when it saw itself “being gradually isolated” from the mainstream
+life on the island.36 The SEA lasted three years, of which only four months’
+issues survive (March–June 1888).
+
+The paper’s fundamental objective was to impress upon its readers that
+Eurasians were distinct from, and superior to, the native population and
+as intelligent, meritorious and eminent as their European brethren.37 One
+of the ways in which it did so was by recasting Eurasians’ native halves as “Aryan”. While the Chinese were Chinese, and the Klings, Klings, the
+Eurasians were half-European,  half-<i>Aryan</i>.
+
+
+
 
 
 .
