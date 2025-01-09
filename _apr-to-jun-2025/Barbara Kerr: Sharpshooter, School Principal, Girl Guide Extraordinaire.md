@@ -1,6 +1,6 @@
 ---
-title: Barbara Kerr Sharpshooter, School Principal, Girl Guide Extraordinaire
-permalink: /barbara-kerr-sharpshooter-school-principal-girl-guide-extraordinaire/
+title: "Barbara Kerr: Sharpshooter, School Principal, Girl Guide Extraordinaire"
+permalink: /vol-21/issue-1/apr-jun-2025/barbara-kerr-sharpshooter-school-principal-girl-guide/
 variant: markdown
 description: Barbara Kerr Sharpshooter, School Principal, Girl Guide Extraordinaire
 ---
@@ -14,9 +14,6 @@ In early 20th-century Singapore, there were not many occasions when a woman was 
 
 The school principal was none other than Barbara Kerr, principal of the Singapore Chinese Girls’ School (SCGS). The occasion for her amazing display of “markswomanship” was the 25th Interport Rifle Match in 1914 between the teams from Singapore, Shanghai, Hong Kong and Penang.[^1]
 
-![](/images/Vol%2020%20Issue%205/Barbara%20Kerr/image4.jpg)
-<div style="background-color: white;">Singapore’s competition for the 1914 Interport Rifle Match took place at Balestier Rifle Range, on the north side of Balestier Road. <i>Illustration by Nick Aplin.</i></div>
-
 This was also the first time that women were allowed to participate in the match; prior to 1914, this had been an exclusively male preserve. What made the competition even more historic is that Kerr was the only woman on the Singapore team, and most likely the other teams as well. 
 
 #### **A Dramatic Win**
@@ -28,27 +25,18 @@ Only the 10 best scores from each team were taken into account. The Singapore te
 
 Singapore’s match took place on 23 May 1914 at Balestier Rifle Range, on the north side of Balestier Road. It was a day “almost perfect for firing”. “There was practically no breeze,” reported the _Malaya Tribune_, “and the few misty clouds, tempered the glare, making a light hard to be bettered for such an affair”.[^5]
 
+![](/images/Vol%2020%20Issue%205/Barbara%20Kerr/image4.jpg)
+<div style="background-color: white;">Singapore’s competition for the 1914 Interport Rifle Match took place at Balestier Rifle Range, on the north side of Balestier Road. <i>Illustration by Nick Aplin.</i></div>
+
 Kerr had a poor start but recovered in a spectacular way to score a total of 93 points for Singapore, putting her in sixth position. The _Malaya Tribune_ wrote:
 
-"Miss Kerr was most heartily congratulated on her strong finish, and she well deserved it. Coming from the 200 yds. position a bad fire of 27, she did not become disheartened in the least, and secured 32 from the 500 distance. The last firing began at 4.35 from the 600 yards mound, and Miss Kerr rose a few minutes later after making the highest score of any of the competitors from that distance – 34, bringing her name up to 6th on the score sheet.[^6]"
+"Miss Kerr was most heartily congratulated on her strong finish, and she well deserved it. Coming from the 200 yds. position a bad fire of 27, she did not become disheartened in the least, and secured 32 from the 500 distance. The last firing began at 4.35 from the 600 yards mound, and Miss Kerr rose a few minutes later after making the highest score of any of the competitors from that distance – 34, bringing her name up to 6th on the score sheet."[^6]
 
-|Singapore Team|200 yards|500 yards|600 yards|Total
-| -------- | -------- | -------- | -------- | -------- |
-|R.E. de Silva|31|34|33|98|
-|Lt. W. L. Kemp|33|33|32|98|
-|Sapper J. Flanagan|32|34|30|96|
-|C. Sergeant-Major Chater|31|32|32|95|
-|Gunner Neubronner|31|35|29|95|
-|<b>Miss Barbara Kerr</b>|<b>27</b>|<b>32</b>|<b>34</b>|<b>93</b>|
-|Sapper E.J. Potter|28|34|31|93|
-|Sergeant Tan Chow Kim|32|31|30|93|
-|Lt. Song Ong Siang|28|32|31|91|
-|Sapper R. Pash|29|29|32|90|
-||302|326|314|942|
+![](/images/Vol%2020%20Issue%205/Barbara%20Kerr/p3.jpg)
 
 The final score for Singapore was 942, which tied it with Shanghai. One point less from Kerr and Shanghai would have won the competition. One of her teammates, Song Ong Siang, acknowledged her contributions to the team effort: 
 
-"The novel feature in the match was the inclusion in the Singapore team of a lady, Miss Kerr (the well-known and popular vocalist, then Principal of the Singapore Chinese Girls’ School, and now Mrs Thomas). By her coolness and steady shooting at the longer ranges, she finished by taking sixth place with a score of 93.[^7]"
+"The novel feature in the match was the inclusion in the Singapore team of a lady, Miss Kerr (the well-known and popular vocalist, then Principal of the Singapore Chinese Girls’ School, and now Mrs Thomas). By her coolness and steady shooting at the longer ranges, she finished by taking sixth place with a score of 93."[^7]
 
 When asked by a _Malaya Tribune_ reporter if nerves had affected her score after the 200 yards round, Kerr replied that she had been very nervous then. She added, “I did not care after that, as I was out of it.”[^8] Kerr had left her stamp on the history of rifle shooting in Singapore.
 
@@ -65,6 +53,9 @@ Beyond her academic achievements, Kerr was a soprano of considerable repute. She
 
 On the professional front, Kerr was the principal of SCGS from 1912 to 1916, and again from 1918 to 1920 after her marriage. She also made significant contributions to the Girl Guide movement, and was District Commissioner for Singapore from 1927 to 1935. Between 1934 and 1941, she was Commissioner for Malay Guides and Brownies, Girl Guides Association, Malaya.[^18]
 
+![](/images/Vol%2020%20Issue%205/Barbara%20Kerr/image6.jpg)
+<div style="background-color: white;">Barbara Kerr (back row, third from right), Commissioner of Girl Guides in Malaya, with guiders at the All-Malayan guides camp held at Tanjong Bruas, Melaka, in September 1938. <i>Source: The Sunday Times, 4 September 1938. © SPH Media Limited. Permission required for reproduction.</i></div>
+
 Kerr was also known for her work as honorary secretary of the Society for the Prevention of Cruelty to Animals and the Child Welfare Society.[^19]
 
 In 1916, she married Leslie Arding Thomas, who would be appointed Chief Police Officer of Singapore in 1939. After her marriage, she became known as Mrs L.A. Thomas.[^20]
@@ -74,7 +65,7 @@ It is not possible to state categorically when Kerr began to take up sports as a
 
 In 1956, the _Straits Times Annual_ described the following, which was a common scenario in the Federated Malay States (FMS) in the early 20th century:
 
-"The ladies lowered themselves decorously to the ground, lay flat on their stomachs, arranged their full ankle-length black skirts modestly to their fullest extent, and raised their rifles tentatively to their shoulders. Their white blouses were fastened up to their necks. Their hats were strange affairs, very large and of a white straw for the most part and adorned with a wealth of ribbon and bows.[^21]"
+"The ladies lowered themselves decorously to the ground, lay flat on their stomachs, arranged their full ankle-length black skirts modestly to their fullest extent, and raised their rifles tentatively to their shoulders. Their white blouses were fastened up to their necks. Their hats were strange affairs, very large and of a white straw for the most part and adorned with a wealth of ribbon and bows."[^21]
 
 The first decade of the 20th century saw the rapid growth of shooting in the Malayan states, though less so in Singapore. The _Straits Budget_ reported a rifle contest between men and women in Taiping, Perak, in February 1904: “The ladies were armed with the .360 rook rifle and fired from a distance of 100 yards, while the gentlemen were provided with service rifles at double the distance.” The ladies managed to beat the men by 19 points.[^22]
 
@@ -97,14 +88,11 @@ By June 1920, Kerr had resigned as principal and accompanied her husband to Mela
 #### **Subsequent Shooting Competitions**
 As part of his police work, Kerr’s husband was posted to different locations within the FMS and Singapore. After stints in Melaka, Penang, Ipoh and Selangor, he became Chief Police Officer of Singapore in 1939.[^32] Kerr accompanied him on his different postings, and had the opportunity to join various shooting and other sports clubs. 
 
-![](/images/Vol%2020%20Issue%205/Barbara%20Kerr/image6.jpg)
-<div style="background-color: white;">Barbara Kerr (back row, third from right), Commissioner of Girl Guides in Malaya, with guiders at the All-Malayan guides camp held at Tanjong Bruas, Melaka, in September 1938. <i>Source: The Sunday Times, 4 September 1938. © SPH Media Limited. Permission required for reproduction.</i></div>
-
 In 1932, Kerr, then 45, was living in Kuala Lumpur. At the FMS Championships in March that year, she recorded noteworthy scores in two competitions. She was the only woman competing and took second place in the championship. “The runner-up for the Championship was Mrs L.A. Thomas, the only lady to compete. Mrs Thomas was awarded a special prize, a bronze medal for her score of 350, which was only ten behind that of the champion,” reported the _Straits Times_.[^33]
 
 A lasting ambition was fulfilled in 1933 when Kerr took part in rifle competitions in Bisley, in Surrey, England. (Bisley is one of the major international shooting competitions, the equivalent of Wimbledon for tennis.) A write-up in London’s _Evening Standard_ (which was reproduced in the _Straits Times_ on 15 August 1933) noted: 
 
-"Mrs. Barbara Thomas has travelled 9,000 miles from Kuala Lumpur in the Malay States, where her husband is a police official, to shoot at Bisley this year. She is the only woman member of the Rifle Club in Kuala Lumpur, and it is only two years ago that she took up shooting with the Service rifle, although she had shot considerably with a small-bore rifle recently. Now she is an accomplished shot and already at Bisley she has won five prizes.[^34]"
+"Mrs. Barbara Thomas has travelled 9,000 miles from Kuala Lumpur in the Malay States, where her husband is a police official, to shoot at Bisley this year. She is the only woman member of the Rifle Club in Kuala Lumpur, and it is only two years ago that she took up shooting with the Service rifle, although she had shot considerably with a small-bore rifle recently. Now she is an accomplished shot and already at Bisley she has won five prizes."[^34]
 
 In December 1935, Kerr represented the Kinta District team in Ipoh in the Cornwell Cup presented by the FMS Volunteer Force Rifle Association. At age 48, and the only woman in the competition, Kerr scored well over the longer distances, performing better than most of the men. She was placed eighth out of 20 competitors. The _Pinang Gazette and Straits Chronicle_ described her as “a clever shot”.[^35] 
 
@@ -120,7 +108,7 @@ She rose through the ranks. In August 1921, when Kerr was living in Penang, she 
 Just four years later, in 1927, Kerr became District Commissioner for Singapore. In May 1931, she formed the first pack of Malay Brownies in Kuala Lumpur. She recalled: “After the scheme had been carefully explained to the parents and the teachers, and with some misgivings, we chose a number of the younger pupils at the Malay Girls’ School, Kampong Bahru, Kuala Lumpur, to be our first Malay Brownies. But we need have had no fears. It succeeded far beyond our expectations.”[^38]
 
 ![](/images/Vol%2020%20Issue%205/Barbara%20Kerr/image1.jpg)
-<div style="background-color: white;">The first all-Malay Brownie Pack at the Kampong Bahru Malay Girls’ School in Kuala Lumpur, April 1931. The Brownie uniform was adapted from the traditional <i>baju</i> and <i>sarong</i>. <i>Image reproduced from Kevin Tan, Doing Our Best: A History of the Girl Guides in Singapore 1914–2022 (Singapore: Girl Guides Singapore, 2023), 21. (From National Library, Singapore, RSING 369.463095957 TAN).</i></div>
+<div style="background-color: white;">The first all-Malay Brownie Pack at the Kampong Bahru Malay Girls’ School in Kuala Lumpur, April 1931. The Brownie uniform was adapted from the traditional <i>baju</i> and <i>sarong</i>. <i>Image reproduced from Kevin Tan, Doing Our Best: A History of the Girl Guides in Singapore 1914–2022 (Singapore: Girl Guides Singapore, 2023), 21. (From National Library Singapore, RSING 369.463095957 TAN).</i></div>
 
 The Brownie investiture ceremony on 15 May 1931 was held in the presence of the sultan of Selangor, who “pointed out that the boys had had an organisation for some time and now the Malay girls were being given their opportunity” and “hoped that other packs would be formed in Selangor”.[^39]
 
@@ -130,7 +118,6 @@ It is not known when Kerr returned to the United Kingdom for good. She died in K
 
 <div style="background-color: white;">
 <br>
-<img src="/images/vol-17-issue-4/authors/" style="width: 100px; height: 100px;">
 	<b>Dr Nick Aplin</b> is the Deputy Director (Sport Heritage) at Sport Singapore. He is the author of the <i>Sport in Singapore</i> trilogy of books: <i>The Colonial Legacy</i> (2019), <i>The Rocky Road to Kallang Park</i> (2023) and <i>Visions for Change</i> (2023).</div>
 
 #### **Notes**
@@ -216,4 +203,4 @@ It is not known when Kerr returned to the United Kingdom for good. She died in K
 
 [^41]: “[Girl Guides Association](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340104-1.2.29),” _Straits Times_, 4 January 1934, 7. (From NewspaperSG)
 
-[^42]: Girl Guides Singapore, _Milestones and Achievements: History of Girl Guides Singapore_ (Singapore: Girl Guides Singapore, 2010), 18, [https://girlguides.org.sg/about-ggs/history-of-ggs/](https://girlguides.org.sg/about-ggs/history-of-ggs/).
+[^42]: Girl Guides Singapore, _Milestones and Achievements: History of Girl Guides Singapore_ (Singapore: Girl Guides Singapore, 2010), 18, accessed 9 January 2025, [https://girlguides.org.sg/about-ggs/history-of-ggs/](https://girlguides.org.sg/about-ggs/history-of-ggs/).
