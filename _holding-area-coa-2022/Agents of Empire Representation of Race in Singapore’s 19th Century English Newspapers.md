@@ -179,6 +179,53 @@ Malays during a short-lived but acute crisis in Perak in 1876. These papers
 were accessed via NewspaperSG, the newspaper archive of Singapore’s
 National Library.19
 
+#### **How They Make Us Laugh**
+
+     In the boxing match, a Chinaman while in the pursuit of
+
+     defending himself from his antagonist, dropped his nether
+
+     garment; his hands being bound with his gloves, was at a loss
+
+     to brush himself up, which caused not a little laughter and
+
+     merriment.20
+
+The festive season in Singapore – a fortnight that included Christmas
+and the New Year – usually ended with a full day of sporting activities at
+the Padang on the first or second day of the year. By all accounts it was a
+joyous, raucous occasion with thousands lining the carriage track around
+the ground; men, women and children of all races dressed in their finery to
+witness the sporting prowess of the best that the island had to offer. It was
+the one day when the ruling and the ruled occupied the same public space,
+and enjoyed the same entertainment, albeit with the natives segregated from
+the Europeans. In a rare instance when the two were forced to mingle, the
+ST was quick to point out that “it would be better if on a future occasion
+the arrangements for the comfort of Europeans were amplified. There were
+many Europeans who were standing all afternoon among the natives, and
+that is not altogether pleasant”.21
+
+Since the English could not afford to be seen being beaten by the locals,
+the competition was segregated too. What was more, the sports themselves differed. Europeans participated in “foot races and athletic exercises; and in
+the sack race, three legged race, boxing match, and race with water buckets
+poised on the head”.22 The natives walked a greasy tongkang boom to pluck
+a twig or a flag from the end, vied to eat the most number of hard biscuits
+and dunked their heads into buckets of treacle in search of a half-dollar
+coin.23 By the close of the century, “rikisha pulling” – in which Chinese and
+Indians raced rickshaws carrying a European passenger over a distance of
+220 yards – had been introduced to the programme.
+
+Of the biscuit-eating, the ST intoned thus:
+
+     Most of the eaters evidently entered for the sake of the feed,
+
+     as their leisurely mastication did not suggest that they were in
+
+     for a prize. Two or three, however, made <i>little beasts</i> [emphasis
+added] of themselves and were accordingly awarded $2.25
+
+     between them.24
+
 
 
 
