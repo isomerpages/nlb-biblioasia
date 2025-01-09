@@ -357,6 +357,53 @@ of the ways in which it did so was by recasting Eurasians’ native halves as �
 Eurasians were half-European,  half-<i>Aryan</i>.
 
 
+     Do not disparage yourselves because of your Aryan half.
+
+     Through this half you inherit the intelligence, brain power and
+
+     chivalry of an ancient civilization, a civilization from which
+
+     Europe has borrowed its learning, and the best part of its
+
+     laws and literature and much of its arts and sciences. It is the
+
+     infusion of Aryan blood that has made the British what it is.38
+
+This semantic sleight of hand helped insecure Eurasians view themselves
+as part of the ruling race, while allowing wriggle room to shower contempt
+on those outside it. The Chinese, who by now were immigrating to
+Singapore in large numbers and whose ways of life were increasingly
+becoming more Western, found themselves in the crosshairs more often
+than not.39
+
+Articulating immigration concerns that would continue to echo in
+Singapore more than a century later, the SEA screeched that “Singapore
+is being flooded with all sorts of villains from China, and owing to these
+importations Crime is becoming more and more frequent by the day”, so
+much so that “nothing short of flogging would make night-disturbers take
+the right path”.40
+
+Jail was pointless, because according to the SEA, it did not serve as
+a strong-enough deterrent. “They are much too pampered and well-fed”
+there, with the cost of keeping them in far more than the income they
+could generate by pursuing various vocations during incarceration.41 Could
+not, one SEA reporter wondered, “something more be squeezed [out of the
+inmates] so as to not allow them to eat the bread of idleness so cheaply?”42
+
+It escaped the SEA that the manpower needed to lug cargo, construct
+new roads and bridges, look after plantations and ferry Europeans (and
+undoubtedly some Eurasians) around a rapidly expanding town was drawn from the same pool as the “villains” and “blackguards” causing it so much
+consternation. Most importantly, this pool contributed to the opium tax
+that formed the bulk of the colonial government’s revenue. But once again
+foreshadowing modern-day discussions on the desire for foreign labour to
+do essential but unsavoury work and yet be invisible, the SEA expressed its
+distaste at being “jostled by a half-nude Chinaman” pulling a rickshaw or at
+the sight of Chinese coolies bathing at public wells.43
+Any kind of agency by these other races was frowned upon. When the
+Domestic Servants Registration Ordinance encouraging employers to hire
+only registered individuals as servants came into force on 1 January 1888, the
+SEA was vexed:
+
 
 
 
