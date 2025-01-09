@@ -4,7 +4,7 @@ permalink: /barbara-kerr-sharpshooter-school-principal-girl-guide-extraordinaire
 variant: markdown
 description: Barbara Kerr Sharpshooter, School Principal, Girl Guide Extraordinaire
 ---
-#### Barbara Kerr Sharpshooter, School Principal, Girl Guide Extraordinaire 
+#### The multifaceted Barbara Kerr made contributions to the Girl Guides, sport, education, children and animals. She was also a talented soprano singer.
 By Nick Aplin
 
 ![](/images/Vol%2020%20Issue%205/Barbara%20Kerr/image3.jpg)
