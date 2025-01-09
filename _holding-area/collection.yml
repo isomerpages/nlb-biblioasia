@@ -2,6 +2,8 @@ collections:
   holding-area:
     output: true
     order:
+      - "Rites of Rehabilitation: The Social Work of the Zhenkongjiao in
+        Singapore.md"
       - Sample Test2.md
       - Sample Test.md
       - Example Title.md
