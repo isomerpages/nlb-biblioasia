@@ -126,27 +126,8 @@ Today, Zhenkongjiao temples in Singapore continue to offer healing services to t
 
 _This article was partially developed from my MA (History) thesis,_ Sages, Smokers, and Sojourners: The Religion of the Void in China and Southeast Asia, _which was supported by a Nanyang Technological University Research Scholarship. I am grateful to the various Zhenkongjiao temples in Singapore and Malaysia for generously hosting my field research._
 
-  
-
-* * *
-
-
-
-  
-
-
-
-  
-
-
-
-
-
-
-
-  
-
-
+<div style="background-color: white;">
+<img style="width: 100px; height: 100px;" src="/images/Online%20Only%20Articles/Rites%20of%20Rehabilitation/Profile_photo.jpg"><b>Esmond Soh </b>is pursuing his PhD with the Faculty of Asian and Middle Eastern Studies at the University of Cambridge. He holds a Master of Arts from the School of Humanities at Nanyang Technological University, Singapore, where he was also a lecturer following the completion of his studies.</div>  
 
 #### **Notes**
 
