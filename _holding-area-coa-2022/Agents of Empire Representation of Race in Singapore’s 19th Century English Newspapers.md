@@ -227,8 +227,71 @@ Of the biscuit-eating, the ST intoned thus:
 
      between them.24
 
+Treacle-dipping did not escape the paper’s lampooning either:
 
+     Imagine, good folks at home, enthusiasts for the small sum
 
+     of fifty cents plunging their heads into a tub of golden syrup
+
+     – or its prototype – and groping about for the melancholy
+
+     coin…  <i> they ran amok </i> , afterwards, all dripping and half
+
+     blind with treacle, and the  <i> wild stampede of the Asiatics </i>  in
+
+     their Sunday clothes, as each competitor made a beeline for
+
+     the sea, was probably  <i> the most comical part of the business </i> 
+
+     [emphases added].25
+	
+Such reportage reduced the natives to caricature, clowns in a
+circus conducted by English ringmasters. In Singapore, as elsewhere,
+infantilisation of the colonised populations was key to perpetuating the
+notion of English superiority.26 One newspaper gleefully narrated events from Bangalore, India, where “rather a novel mode of amusement has been
+introduced by the officers of the 21st Hussars”.27 The soldiers pitted their
+Indian servants – syces (horse carers) against cooks – in a cricket match.
+Not being familiar with the sport, the servants’ clumsy attempts at playing
+it caused much merriment among their masters, “more especially at the
+fielding in which not a few in their eagerness to join in a leather hunt often
+came into collision and cannoned against each other rather roughly”.28
+	
+Overlordship could be justified if one bought into the idea that the
+wild Asiatic races – uncultured children masquerading as adults – needed a
+guiding hand, a paterfamilias, to look after their well-being. Depictions of
+natives as clumsy cartoon figures helped build that image.
+
+Often, what was left out was almost as significant as what was reported.
+For instance, papers usually listed all the winners of European sports while
+making no mention whatsoever of those from local sports. The natives were
+just that – “the natives” – an entertaining agglomeration, the individual
+members of which did not matter.29
+
+There is remarkable uniformity in how the New Year sports activities
+were described over the years. In 1875, the ST reported that  <i> “among the
+most amusing of the races </i>  was one of a hundred yards with tubs of treacle,
+which placed on their heads, so besmeared the contestants with the sweet
+liquid that they were glad to rid themselves by a plunge off the Government
+pier”.30 A quarter-century later, in 1899, the paper was similarly tickled:
+“possibly, however, the  <i> funniest thing of all </i>  [emphasis added] was the treacle
+dipping competition. The spectacle presented by a number of natives
+endeavouring to pick up half dollars with their teeth out of tub of treacle is
+better imagined than described.”31
+
+The images of the natives were relentlessly recycled over the years: little 
+Malay ruffians always got themselves a good meal out of the biscuit-eating competition, clueless Chinamen always struggled with the science of
+boxing, and the Klings were always prone to taking things easy, even
+in competition.
+
+In sharp contrast to this, European sports were accorded the respect
+and gravitas in keeping with the colonial power’s opinion of itself. Once
+the native games were out of the way in the morning, the Europeans took
+over with fare that was generally “more attractive” than what had preceded
+it. Distances jumped, heights leaped and race times were reported in
+admiring terms, closely fought contests were “capital” and participants
+invariably acquitted themselves creditably. In this way, the newspaper served
+to degrade the native and enhance the European, further entrenching
+racial differences.
 
 
 
