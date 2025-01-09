@@ -453,6 +453,112 @@ violence (half-naked Chinaman; demoniac Malay; Shylock-like Chetty) and
 advocated physical violence (flogging, harsher conditions in jails) – both of
 which served to further reify racialised hierarchies in Singapore.
 
+#### **Barbarians, the Lot of Them**
+
+     
+It is absurd that such a wealthy country should be left in the
+
+     hands of blood-thirsty treacherous savages.52
+
+Times of crisis serve as an interesting counterpoint to the breezy news
+coverage of the New Year’s Day sports. While the latter painted a picture of
+child-like native behaviour, the former instigated reportage that represented
+them in almost bestial terms.
+
+Part of this was down to fear. Singapore’s European population, rapidly
+though it had grown in the latter half of the 19th century, was small compared to the rest; it rippled with fear at any hint of disquiet among
+the locals.53
+
+The November 1875 murder of the Perak Resident James Birch was
+one such crisis that reverberated up and down Malaya. Birch, a long-term
+colonial officer, was the Straits Settlements’ Colonial Secretary before being
+transferred to the native state of Perak as its first Resident. The position was
+in theory an advisory one, but this was, in the words of Frederick Weld,
+“one of those fictions in which we seem to delight, as not a penny of money
+can be spent out of the State revenues without the assent of the Governor,
+and, under him, the military or police force is entirely in the hands of
+the Resident”.54
+Birch, invested thus with immense power, was not well liked by the
+ruling chiefs, who thought him unduly meddlesome. They approached the
+Straits Settlements’ Governor Andrew Clarke with a petition to prevent
+Birch from interfering in local customs, including the right to levy taxes
+on their people and maintain slaves. After receiving a tepid response, a few
+chiefs conspired to murder the Resident in cold blood. It is beyond the
+scope of this paper to analyse this incident.55 It shall instead focus on local
+developments in the immediate aftermath of the murder and the reaction
+the murder elicited in Singapore’s English-language media.
+
+Within days, the Straits Settlements’ Legislative Council, now headed by
+Governor Sir William Jervois (1875–77), passed a slew of ordinances to curb
+the chances of any violent outbreak on the island. Sale or purchase of arms,
+including bayonets, swords, daggers, krisses, spears and all other “weapons
+of offence”, was immediately banned; they could be procured only when a
+licence was issued by an officer appointed with the Governor’s sanction.56
+In discussions over how the crisis should be handled, one member of the
+Legislative Council invoked his long experience of having dealt with the Malays to suggest that the best way to teach them a lesson would be by
+hanging them.57
+
+As British troops from Singapore, Melaka and Penang left for Perak,
+a tremor of fear went through the defenceless settlements. The SO called
+upon the Volunteer Defence Force to band together as one in front of the
+native public, in case the latter was harbouring any treacherous ideas, and
+published numerous letters from members of the public who were baffled at
+the force’s inaction after the troops’ departure.58
+
+Meanwhile, the newspaper continued to publish regular, detailed reports
+of the action unfolding in Perak and surrounding areas. Speaking about
+one recalcitrant chief’s desire to surrender in the face of the relentless British
+assault, a correspondent wrote in with a comment that revealed colonial
+beliefs and desires:
+
+     With the <i>true instinct of the ignoble savage</i>, he wishes to sneak
+
+     out of the consequences of his treachery as soon as he finds
+
+     out we are in earnest… There is no equal stretch of land under
+
+     the tropics so rich in minerals. <i>These the Malays do not work</i>
+
+     [emphases added] and the Chinaman will sink no money in
+
+     unless the British occupy it.59
+
+The mercantile class in Singapore, Penang and Melaka had been eyeing
+the fecund Perak land at least since the Straits Settlements became a Crown
+Colony, run directly from London instead of India. To this end, they had
+pressured every governor since Harry Ord to entrench British commercial
+interests in the region, ramping up the pressure after the 1874 Treaty of
+Pangkor recognised British suzerainty on the Malay Peninsula.60 Some had invoked England’s moral duty to civilise the land, others the desire to save
+the oppressed peasants from feckless chiefs.
+
+Birch’s brutal murder convinced the authorities that action had to
+be taken. The SO egged them on. In response to a letter expressing rare
+dissent towards British policy in peninsular Malaya, the paper fumed that
+“barbarous horde of savages such as these Malays of Perak have proved
+themselves” deserved no mercy and even if the Straits colonists had to
+submit to income tax in order to fund the revenge mission, they would do
+so. The Straits merchants loathed any public expenditure, so this showed
+the strength of feeling that prevailed in this matter. Of course, the prospect
+of being able to mine, strip and cultivate Perak was attractive too. Any
+tax imposed could be recouped, because not only was the region awash
+in minerals, its soil was also hospitable to cash crops like tea, coffee and
+tobacco, and its forests rich in timber.61
+
+Months later, when the war was won and the deposed chief’s regalia
+put on public display at the Legislative Council, the SO was dismayed at its
+impoverished nature – “one small gold kris, two passable sword hilts, and a
+large piece of glass enclosed in filagree work” and other things that looked
+like they belonged in a pantomime. The paper mourned that if this “be
+the most we are to get from Perak, that much vaunted country will not be
+worth annexing”.62
+
+However, there was another, more critical reason for invasion that the
+paper itself expressed: Britain could not afford to lose face. “British prestige”
+was paramount, “whatever may be the cause of a dispute” because it would
+affect their standing among the natives through the entire region. Thus,
+as the war got bloodier and British losses mounted, venomous frustration
+spilled over on the SO’s pages.
+
 
 
 
