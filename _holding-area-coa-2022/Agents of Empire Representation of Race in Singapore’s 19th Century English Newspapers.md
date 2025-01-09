@@ -42,3 +42,65 @@ to these ideas. Raffles himself, until so recently considered a progressive
 administrator, believed in a metaphorical racial ladder, the highest rungs of
 which were occupied by Europeans, followed by those natives who adopted
 Western modes of behaviour, lifestyle and clothing.5
+
+Four decades after leaving Singapore, its second Resident, the inveterate
+traveller and writer John Crawfurd, observed:
+
+     In understanding, in judgment, in taste, in invention, in reach
+
+     of imagination, in enterprise, in perseverance, and in the
+
+     moral sense, the European, placed under equally favourable
+
+     conditions, is greatly superior to the Asiatic.6
+
+Sir Frederick Weld, Governor of the Straits Settlements (1880–87),
+echoed similar sentiments: “I think that capacity for governing is a
+characteristic of our race, and it is wonderful to see in a country like the
+Straits.”7 The Chinese, in Weld’s estimation, depended on the British to look
+after them much as “a groom looks after a horse”, and the Malays were in
+awe of British probity even in the face of the most alluring 
+temptations.8
+
+In the second half of the 19th century, both the opening of the Suez
+Canal and the long-distance steamship’s increasing dominance of the ocean
+enabled “scientific” theories concocted in London to quickly make their way
+to the empire’s outposts, while observations made in far-flung places like
+Malaya travelled swiftly to the metropole. This created a circle of knowledge
+that endlessly reproduced the same ideas, tropes and stereotypes until they
+took on the veneer of truth.
+
+One of the more obvious ways in which newspapers perpetuated
+racial hierarchies was by giving voice to new-fangled theories and books.
+In December 1853, for example, the <i>Singapore Free Press and Mercantile
+Advertiser</i> published a report on a phrenology lecture given by a Mr Sargent
+to a “numerous audience”; decades later, the <i>Mid-Day Herald</i> excitedly
+announced the arrival of Mrs Josepha North, a sculptor turned renowned
+phrenologist, on the island’s shores.9 Phrenology, a now discredited science, claimed a relationship between various races’ skull shapes and intelligence,
+and the race it deemed the most intelligent was obvious.
+
+Occasionally, the  <i> Free Press </i>  printed chapters from new books in
+serialised form. One chapter titled “The Chinese Towkay” from a book
+called  <i> People in a Native State </i> , published on 2 December 1893, is illustrative:
+
+     Many Towkays I know are perfectly at home with a knife and
+
+     fork, indeed some of them give capital dinners. As they have
+
+     educated themselves so far towards civilized society, it is to be
+
+     hoped that they will continue to progress and thereby in time
+
+     cultivate a correct palate for champagne and other wines, so
+
+     that “Comet” and other wonderful but undrinkable beverages
+
+     may no longer adorn (?) their hospitable tables.10
+
+But the newspapers’ role extended beyond mere conduits of information;
+they must be situated within a suitable theoretical framework.
+
+
+
+
+
