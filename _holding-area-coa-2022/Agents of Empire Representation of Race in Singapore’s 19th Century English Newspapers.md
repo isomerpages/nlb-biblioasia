@@ -293,6 +293,27 @@ invariably acquitted themselves creditably. In this way, the newspaper served
 to degrade the native and enhance the European, further entrenching
 racial differences.
 
+#### **Native? Who, Me?**
+
+     [P]ure natives are as distinct from Eurasians as chalk and
+
+     cheese, and it is well that this should be known; for owing to
+
+     this very common mistake, the Eurasian body has suffered
+
+     considerably.32
+
+In the late 19th century, the Padang was a curious site: a quasi-democratic
+venue to which all races descended for New Year festivities, and also a place
+where racial and class differences were starkly visible thanks to segregated
+seating areas and competitions. By 1885, these differences had become
+starker with the erection of the Singapore Recreation Club’s (SRC) pavilion
+at the other end of the ground from the Singapore Cricket Club (SCC).
+Founded by a group of miffed Eurasians when they were denied entry to the
+“pure-white” SCC, the pavilion was a weighty reminder of the extant racial
+differences.33 In 1887, a peeved reader wrote in to the ST complaining of the
+treatment meted out to SRC members at an SCC event:
+
 
 
 .
