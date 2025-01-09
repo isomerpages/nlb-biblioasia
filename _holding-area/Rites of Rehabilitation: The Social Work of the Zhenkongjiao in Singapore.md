@@ -100,6 +100,20 @@ The number of Zhenkongjiao temples in Singapore has fallen since 1970. Many of t
 <br>
 <img src="/images/Online%20Only%20Articles/Rites%20of%20Rehabilitation/DSC05922.png" style="width: 80%;">One of the oldest Zhenkongjiao altars in Singapore, the Fubenyuan Daotang, is currently housed in a private residence, 2023. <i>Photograph by Esmond Soh.</i></div>
 
+The Zhenkongjiao persisted in its secular and charitable initiatives, which were overseen by the Zhenkongjiao Federations. Various Zhenkongjiao institutions and temples in the region came together to fund the construction of Tianling Nursing Home (completed in 1989) behind Thian Ling Chong Toh Tong temple.[^36] Zhenkongjiao temples also frequently functioned as shelters and support centres for the elderly and those without family. In 1983, then-Member of Parliament Hwang Soo Jin commended Lingguang Daotang temple in Amoy Quee for providing housing for the elderly who did not have family. That same year, Zhuo Jincai, then-chairman of the Singapore Federation of the Zhenkongjiao, announced plans to equip the renovated Poon Guan San Toh Tong with similar facilities, besides establishing a centre for drug rehabilitation.[^37]
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Rites%20of%20Rehabilitation/19980005070___0069.jpg" style="width: 80%;">Ling Kuang Toh Tong of Zhen Kong Religion, the temple closed after their land lease expired and their ancestral tablets moved to Hean Thuan Toh Tong at 89 Tampines Link. <i>Courtesy of National Archives of Singapore.</i></div>
+
+  
+
+* * *
+
+[\[1\]](#_ftnref1)“Tianling Laoren Yuan jianjun [天灵老人院建竣](https://eresources.nlb.gov.sg/newspapers/digitised/article/lhwb19891124-1.2.6.19) \[Completion of Tianling Elderly Home\],” _Lianhe Wanbao_ 联合晚报, 24 November 24 1989, 6. (From NewspaperSG)
+
+[\[2\]](#_ftnref2) “Zhenkongjiao lingguang daotang jiaozhu shengdan Huang Shuren zan gai tang fuwu jingshen peihe shehui xuyao zuochu gongxian[真空教灵光道堂教主圣诞 黄树⼈赞该 堂服务精神 配合社会需求作出贡献](https://eresources.nlb.gov.sg/newspapers/digitised/article/lhwb19830528-1.2.23.1) \[The celebration of the birthday of the spiritual leader of the Lingguang Temple of the Zhenkongjiao, praised by Huang Shuren for the spirit of service of the temple, contributing to the needs of society\],” _Lianhe Wanbao_ 联合晚报, 28 May 1983, 9. (From NewspaperSG)
+
   
 
 
