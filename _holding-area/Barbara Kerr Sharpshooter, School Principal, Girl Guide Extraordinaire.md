@@ -48,7 +48,7 @@ Kerr had a poor start but recovered in a spectacular way to score a total of 93 
 
 The final score for Singapore was 942, which tied it with Shanghai. One point less from Kerr and Shanghai would have won the competition. One of her teammates, Song Ong Siang, acknowledged her contributions to the team effort: 
 
-The novel feature in the match was the inclusion in the Singapore team of a lady, Miss Kerr (the well-known and popular vocalist, then Principal of the Singapore Chinese Girls’ School, and now Mrs Thomas). By her coolness and steady shooting at the longer ranges, she finished by taking sixth place with a score of 93.[^7]
+"The novel feature in the match was the inclusion in the Singapore team of a lady, Miss Kerr (the well-known and popular vocalist, then Principal of the Singapore Chinese Girls’ School, and now Mrs Thomas). By her coolness and steady shooting at the longer ranges, she finished by taking sixth place with a score of 93.[^7]"
 
 When asked by a _Malaya Tribune_ reporter if nerves had affected her score after the 200 yards round, Kerr replied that she had been very nervous then. She added, “I did not care after that, as I was out of it.”[^8] Kerr had left her stamp on the history of rifle shooting in Singapore.
 
