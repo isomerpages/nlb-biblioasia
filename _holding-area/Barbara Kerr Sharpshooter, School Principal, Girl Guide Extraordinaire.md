@@ -104,7 +104,7 @@ In 1932, Kerr, then 45, was living in Kuala Lumpur. At the FMS Championships in 
 
 A lasting ambition was fulfilled in 1933 when Kerr took part in rifle competitions in Bisley, in Surrey, England. (Bisley is one of the major international shooting competitions, the equivalent of Wimbledon for tennis.) A write-up in London’s _Evening Standard_ (which was reproduced in the _Straits Times_ on 15 August 1933) noted: 
 
-Mrs. Barbara Thomas has travelled 9,000 miles from Kuala Lumpur in the Malay States, where her husband is a police official, to shoot at Bisley this year. She is the only woman member of the Rifle Club in Kuala Lumpur, and it is only two years ago that she took up shooting with the Service rifle, although she had shot considerably with a small-bore rifle recently. Now she is an accomplished shot and already at Bisley she has won five prizes.[^34]
+"Mrs. Barbara Thomas has travelled 9,000 miles from Kuala Lumpur in the Malay States, where her husband is a police official, to shoot at Bisley this year. She is the only woman member of the Rifle Club in Kuala Lumpur, and it is only two years ago that she took up shooting with the Service rifle, although she had shot considerably with a small-bore rifle recently. Now she is an accomplished shot and already at Bisley she has won five prizes.[^34]"
 
 In December 1935, Kerr represented the Kinta District team in Ipoh in the Cornwell Cup presented by the FMS Volunteer Force Rifle Association. At age 48, and the only woman in the competition, Kerr scored well over the longer distances, performing better than most of the men. She was placed eighth out of 20 competitors. The _Pinang Gazette and Straits Chronicle_ described her as “a clever shot”.[^35] 
 
