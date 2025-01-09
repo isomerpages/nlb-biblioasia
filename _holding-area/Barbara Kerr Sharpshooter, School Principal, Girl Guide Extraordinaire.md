@@ -74,7 +74,7 @@ It is not possible to state categorically when Kerr began to take up sports as a
 
 In 1956, the _Straits Times Annual_ described the following, which was a common scenario in the Federated Malay States (FMS) in the early 20th century:
 
-The ladies lowered themselves decorously to the ground, lay flat on their stomachs, arranged their full ankle-length black skirts modestly to their fullest extent, and raised their rifles tentatively to their shoulders. Their white blouses were fastened up to their necks. Their hats were strange affairs, very large and of a white straw for the most part and adorned with a wealth of ribbon and bows.[^21]
+"The ladies lowered themselves decorously to the ground, lay flat on their stomachs, arranged their full ankle-length black skirts modestly to their fullest extent, and raised their rifles tentatively to their shoulders. Their white blouses were fastened up to their necks. Their hats were strange affairs, very large and of a white straw for the most part and adorned with a wealth of ribbon and bows.[^21]"
 
 The first decade of the 20th century saw the rapid growth of shooting in the Malayan states, though less so in Singapore. The _Straits Budget_ reported a rifle contest between men and women in Taiping, Perak, in February 1904: “The ladies were armed with the .360 rook rifle and fired from a distance of 100 yards, while the gentlemen were provided with service rifles at double the distance.” The ladies managed to beat the men by 19 points.[^22]
 
