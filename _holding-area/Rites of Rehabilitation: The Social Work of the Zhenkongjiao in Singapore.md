@@ -4,7 +4,6 @@ permalink: /holding-area/zhenkongjiao-chinese-religion-opium-addiction-rites-rit
 variant: markdown
 description: ""
 ---
-
 #### **With its sometime unconventional treatments, the Zhenkongjiao worked together with local authorities to remove the scourge of opium addiction in Singapore.**
 By Esmond Soh
 <br><small>10 January 2025</small>
@@ -35,6 +34,21 @@ The inaugural Zhenkongjiao temple in Southeast Asia, Pili Hongmaodan Zhenkong Zu
 <br>
 <img src="/images/Online%20Only%20Articles/Rites%20of%20Rehabilitation/DSC02267.png" style="width: 80%;">A banner owned by Huang Shengfa advertising Fook Poon Yuen Temple’s service of treating opium addicts and curing illnesses. It was hung from the temple’s second floor when it operated out of a shophouse. The banner is held by Huang’s grandson, 2019. <i>Photograph by Esmond Soh.</i></div>
 
+Aside from Huang Daoyun and Huang Shengfa, four other practitioners (along with their disciples) can be credited with growing the movement’s presence and renown in Southeast Asia: Xu Rukan (1874–1910), Su Wenlong (1876–1963), Huang Dazhong (1885–1950) and Lin Huawen (most active in 1925).[^7]
+
+When Xu’s disciple Zhu Wenxiu cured the rubber magnate Li Xiujiao of an ailment, his grateful Peranakan wife, Ruan Yang, became Zhu’s disciple. She gifted a seaside villa to the Zhenkongjiao, which is where Poon Guan San Thoh Tong temple stands today in Pasir Panjang.[^8] Su Wenlong, another key figure, established temples in Hat Yai, Thailand and Malaya. He served as the resident master in Fook Poon Tong (then in Admiralty in Singapore) until his death in 1963.
+
+By the 1960s, the number of Zhenkongjiao temples in Singapore had increased to 25, from five in 1929.[^9] The reasons for the boom in temple construction during this period are uncertain and difficult to trace. However, one interesting hypothesis proposed by researchers Ouyang Banyi and Shi Cangjin suggests that the boom in the movement’s popularity from the 1930s could be traced to the Great Depression (1929–39).[^10]
+
+Singapore, as the proverbial entrepot of Southeast Asia, was greatly affected by the shrinking trade quantities during the Great Depression, and the consequent fall in the trade of commodities such as rubber, rice and tin on the international markets had an adverse impact on the lives of ordinary workers.[^11] Many of them were frequent traffickers and consumers of opium – for both medical purposes and as an escape from the drudgery of their lives. With the rising cost of opium, it became increasingly necessary for them to break the habit. This may have provided the initial impetus for the growth of Zhenkongjiao in Singapore before the Second World War (1942–45) as addicts sought to quit opium smoking.[^12]
+
+  
+
+* * *
+
+
+
+
   
 
 
@@ -58,3 +72,15 @@ The inaugural Zhenkongjiao temple in Southeast Asia, Pili Hongmaodan Zhenkong Zu
 [^5]:  Liao Jingcai 廖经才, comp., _Dong nan Ya zhen kong jiao dao tang tu kan_ [东南亚真空教道堂图刊](https://catalogue.nlb.gov.sg/search/card?id=42baef41-f737-5f55-ab8d-07b2f376976a&amp;entityType=FormatGroup) \[Southeast Asian Illustrated Magazine of the Zhenkongjiao Temples\] (Xianggang 香港 : Zhenkong Ji Nian Tang Chubanshe 真空纪念堂出版社, 1968), unpaginated. (From National Library, Singapore, call no.: 299.514 LJC -\[HYT\]).
 
 [^6]: Huang Ziwen 黄子文, comp. _Kongzhongjiao Fazhan Shilue_ [空中教发展史略](https://catalogue.nlb.gov.sg/search/card?id=916f520c-1b93-561d-a66c-aff7646810b8&amp;entityType=FormatGroup) \[Supplementary Histories of the Kongzhongjiao\] (Yibao 怡宝: Pili Kongzhong Jiao Hui霹雳空中教会, 1965), 38. (From National Library, Singapore, call no. 299.51 HTW)
+
+[^7]:  For an introduction to the lives and religious careers of these individuals, see Shi Cangjin石沧金, _Hai wai Hua ren min jian zong jiao xin yang yan jiu_ [海外华人民间宗教信仰研究](https://catalogue.nlb.gov.sg/search/card?id=ce2cc75d-3cf5-5aa1-8d92-7d6a1888f946&amp;entityType=FormatGroup) \[Overseas Chinese folk religion research\] (Kuala Lumpur: Xuelin Shuju 学林书局, 2014), 44-48. (From National Library, Singapore, call no.: 299.51 SCJ).
+
+[^8]:  _Xinjiapo zhen kong jiao lian he hui ji ben yuan shan dao tang xin sha luo cheng kai mu ji nian ce_ [新加坡真空教联合会暨本元山道堂新厦落成开幕纪念册](https://catalogue.nlb.gov.sg/search/card?id=012ddc88-abc5-52f9-8968-d042db12686a&amp;entityType=FormatGroup) (Xinjiapo 新加坡: Xinjiapo Zhenkongjiao Lian He Hui 新加坡真空教联合会, 1992), 126. (From PublicationSG, call no. 299.51)
+
+[^9]:  Shi Cangjin 石沧金 and Ouyang Banyi 欧阳班铱, “Xinjiapo Zhenkongjiao fazhanshi chutan 新加坡真空教发展史初探 \[A Preliminary Study of the History of Zhenkong Religion in Singapore\],” _Huaren yanjiu guoji xuebao_ 华人研究国际学报 \[International Journal of Diasporic Chinese Studies\] 4, no. 2 (2012): 92.
+
+[^10]:  One of the classical studies include Lionel Robbins, _The Great Depression_ (Freeport, N.Y.: Books for Libraries Press, 1971) (From National Library, Singapore, call no. 330.904 ROB).
+
+[^11]:  Loh Kah Seng, “Beyond Rubber Prices: Negotiating the Great Depression in Singapore,” _South East Asia Research_ 14, no. 1 (2006): 5–31 (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website); and W. G. Huff, “Entitlements, Destitution, and Emigration in the 1930s Singapore Great Depression,” _The Economic History Review_ 54, no. 2 (2001): 290–323. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
+
+[^12]:  Shi and Ouyang, “Xinjiapo Zhenkongjiao fazhanshi chutan,” 92-93.
