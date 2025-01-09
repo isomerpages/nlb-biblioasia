@@ -62,6 +62,30 @@ By 1956, there was growing acceptance by the government, with Thian Ling Chong T
 <br>
 <img src="/images/Online%20Only%20Articles/Rites%20of%20Rehabilitation/19980001319_IMG0013.jpg" style="width: 80%;">Recovering addicts learned skills such as sewing at the Opium Treatment Centre at St John’s Island, 1957. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
+The Zhenkongjiao’s leaders saw opium addiction and its presence in the form of a physical taint that could be metaphysically removed from one’s body through rituals. Thian Ling Chong Toh Tong temple reportedly told addicts that “there is opium in your bones, there is opium in your teeth, now it is leaving you,” before serving tea that had been prayed over.[^19]
+
+Temples in Singapore and Malaysia also provided charcoal beds covered with a layer of sand for recovering addicts to sleep on. Known as “sleeping or laying in emptiness”, it was believed that the charcoal would draw out and absorb the opium residue from the addicts, along with other illnesses within the body. In the 1950s, Thian Ling Chong Toh Tong temple integrated sand beds into its courtyard and provided pillows and blankets for patients to use.[^20] In Singapore, the last remaining sand bed for the practice of “laying in emptiness” as a form of health and bodily therapy is located at Fook Poon Tong Temple in Yishun and remains in use today.
+
+Other unconventional treatments included massage. In 1930, it was reported that a Zhenkongjiao temple on Tras Street in Singapore had blind masseuses massaging the atrophic limbs of these addicts while they participated in tea-drinking and exercise-worship sessions every night.[^21]
+
+In addition to massage, tea drinking and “laying in emptiness”, the addicts also underwent a combination of going cold turkey, cold water baths and generous meals, as it was believed that they were typically ravenous and needed sustenance during their recovery.[^22] However, earlier articles reported that recovering addicts instead lost their appetites.[^23]
+
+#### **Animal Sacrifice and Embodied Sacrifice in Zhenkongjiao**
+
+The Zhenkongjiao distinguishes itself from other Chinese religious traditions, which typically prioritise the preservation of animal lives as an expression of compassion, by incorporating animal sacrifice into its rituals. These sacrifices are integral to the salvation of its devotees, with rituals such as the “releasing of flowers” or “sacrificing animals to honour the way” believed to alleviate this-worldly illnesses and misfortunes. Larger “flowers” refer to animals like pigs and sheep, while smaller ones include chickens.
+
+The ritual, developed by Zhenkongjiao’s founder Liao Dipin, is intended to address physical ailments, provide blessings and express gratitude. Within the movement’s cosmology, animal souls are believed to take on the karmic burdens, illnesses and misfortunes of their sponsors through their ritual offering. This act is seen as bringing relief and improvement to the sponsors’ lives in exchange for the animals’ own. Through the invocation and spiritual intervention of the patriarchs, the sacrificed animals’ souls are believed to transcend their current existence and achieve reincarnation into a more favourable state.[^24]
+
+Animal sacrifice was also a central component of the Zhenkongjiao's historical opium treatment programmes, where addiction was addressed as both a spiritual and physical condition. In 1960, Xu Rukan, who led opium rehabilitation efforts at Ben Yuan Dao Tang Bukit Ho Swee (later merged into Poon Guan San Thoh Tong), instructed addicts to “prepare a rooster” when they came to the temple.[^25] This was likely part of the ritual offering, symbolically transferring the spiritual and physical taint of addiction to the animal. By participating in this ritual, addicts sought to rid themselves of their addiction’s burdens, supported by the sacrificial act. While such practices persisted in Singapore until 2003, they ceased following stricter livestock management regulations introduced after the SARS outbreak. However, these rituals are still practised in Malaysia. [^26]
+
+Interestingly, the concept of sacrificial transference mirrors the lives of Zhenkongjiao’s patriarchs, who are described in hagiographies as embodying self-sacrifice for the benefit of their devotees. When followers petitioned the patriarchs for good health, their burdens were believed to be absorbed and taken on by the patriarchs themselves, often resulting in immense personal suffering. This practice, known as “crossing the way”, involved enduring prolonged illness and hardship as a means of alleviating the physical and spiritual burdens of their devotees.[^27]
+
+  
+
+* * *
+
+
+
   
 
 
@@ -128,3 +152,21 @@ By 1956, there was growing acceptance by the government, with Thian Ling Chong T
 [^17]:  “[Dope faith men get promise from Mr. Lim](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19560923-1.2.45),” _Straits Times_ September 23, 1956, 4. (From NewspaperSG)
 
 [^18]:  “[Cures with a Tea!](https://eresources.nlb.gov.sg/newspapers/digitised/page/freepress19560511-1.1.14)“ _Singapore Free Press_, May 11, 1956, 14. (From NewspaperSG)
+
+[^19]:  William Fish, “[Opium—a temple of hope](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19560306-1.2.25),” _Straits Times_, 6 March 1956, 2. (From NewspaperSG)
+
+[^20]:  “[Cures with as Tea](https://eresources.nlb.gov.sg/newspapers/digitised/page/freepress19560511-1.1.14)!”
+
+[^21]:  “[Some Odd Corners &amp; Customs of Malaya](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaytribune19330806-1.2.36),” _Sunday Tribune_, 6 August 1933, 10. (From NewspaperSG)
+
+[^22]:  “[Temple Ruse by Opium Addicts is Denied](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19560701-1.2.72),” _Straits Times_, 1 July 1956, 9. (From NewspaperSG)
+
+[^23]:  “[Some Odd Corners &amp; Customs of Malaya](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaytribune19330806-1.2.36).”
+
+[^24]:  Soh, “Practicing Salvation,” 100-107.
+
+[^25]:  "[眞空敎本元道堂實行義務戒煙](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19600315-1.2.24.10) \[The Zhenkongjiao Ben Yuan Dao Tang Implements Free Smoking Cessation\]," _Nanyang Siang Pau_ 南洋商报, 15 March 1960, 8. (From NewspaperSG)
+
+[^26]:  谭文熙 Tham Wen Xi, 新加坡宗教个案研究: 新加坡真空教在近年的发展 \[A Case Study of Singapore Religion: The Development of Chin Kong Religion in Singapore\] (Hons. Thesis, Department of Chinese Studies, National University of Singapore, 2011), 48–49.
+
+[^27]:  Soh, “Practicing Salvation,” 105–107.
