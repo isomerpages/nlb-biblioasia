@@ -222,7 +222,8 @@ Of the biscuit-eating, the ST intoned thus:
      as their leisurely mastication did not suggest that they were in
 
      for a prize. Two or three, however, made <i>little beasts</i> [emphasis
-added] of themselves and were accordingly awarded $2.25
+
+     added] of themselves and were accordingly awarded $2.25
 
      between them.24
 
