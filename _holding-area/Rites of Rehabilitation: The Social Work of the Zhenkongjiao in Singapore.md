@@ -84,6 +84,18 @@ Interestingly, the concept of sacrificial transference mirrors the lives of Zhen
 <br>
 <img src="/images/Online%20Only%20Articles/Rites%20of%20Rehabilitation/19980001276___0014.jpg" style="width: 80%;">Chief Minister of Singapore Lim Yew Hock with guests and teachers of the Opium Addicts’ Treatment Association Singapore at special thanksgiving service at Thian Ling Chong Toh Tong Temple at 5½ milestone Changi Road. A man (squatting) prepares a chicken for ritual sacrifice, 1956. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
+#### **Beyond Treating Opium Addiction**
+
+The movement also recognised the need to address other illnesses among its followers. A commentary in _Supplementary Histories_ in 1965 considered the efficacy of their methods in appealing to an increasingly educated and modern-minded audience in the long run. It argued that the movement’s approaches were too simplistic, especially considering the advancements in medical and cultural understanding.[^28]
+
+In 1976, in the wake of the Anti-Yellow Culture Campaigns, the Zhenkongjiao Federation of Singapore publicly expressed its support for the government’s campaign against drug abuse.[^29] They emphasised their past efforts in helping opium addicts and highlighted plans dating back to 1974, including ones for orphan care, nursing homes and fundraising for a drug rehabilitation centre. Individuals grappling with drug addiction could seek sanctuary in Zhenkongjiao temples and stay there temporarily under the supervision of temple masters and caretakers.[^30] They proposed adaptations to their addiction treatment methods to address rising recreational drug use among younger Singaporeans.[^31]
+
+Despite efforts to move towards drug rehabilitation, the Zhenkongjiao’s endeavours in this area did not bear fruit in the long run. Following Singapore’s independence, the state and the Central Narcotics Bureau (CNB), including rehabilitation centres and law enforcement, adopted a strict zero-tolerance stance towards drug abuse, which proved more effective than the Zhenkongjiao’s rehabilitation programmes.[^32]
+
+#### **Zhenkongjiao in the 1970s**
+
+The number of Zhenkongjiao temples in Singapore has fallen since 1970. Many of the temples had to make way for nation-building projects, infrastructure and public amenities. Some temples pooled resources to combine their temple facilities, such as Thian Ling Toh Tong (now part of Hock Thong Combined Temple in Bukit Batok) and Fook Poon Tong (part of Chong Pang Combined Temple).[^33] Others relocated to Malaysia or merged, as seen in the cases of Lingxiao and Zhenhe Daotang temples, which both merged and relocated to Johor.[^34] According to one estimate, only 11 Zhenkongjiao temples were in Singapore by 1998.[^35]
+
   
 
 * * *
@@ -93,23 +105,6 @@ Interestingly, the concept of sacrificial transference mirrors the lives of Zhen
   
 
 
-
-
-
-
-  
-
-
-
-
-
-  
-
-
-
-
-
-  
 
 
 
@@ -174,3 +169,19 @@ Interestingly, the concept of sacrificial transference mirrors the lives of Zhen
 [^26]:  谭文熙 Tham Wen Xi, 新加坡宗教个案研究: 新加坡真空教在近年的发展 \[A Case Study of Singapore Religion: The Development of Chin Kong Religion in Singapore\] (Hons. Thesis, Department of Chinese Studies, National University of Singapore, 2011), 48–49.
 
 [^27]:  Soh, “Practicing Salvation,” 105–107.
+
+[^28]:  Huang, _Kongzhongjiao Fazhan Shilue,_ 72-75.
+
+[^29]:  Seow Peck Ngiam, “[Anti-yellow Culture Campaign](https://www.nlb.gov.sg/main/article-detail?cmsuuid=8e493ee4-1832-4fec-96ee-a0a6b3efab87),” Singapore Infopedia.
+
+[^30]:  [Xingzhou zhen kong jiao lian he hui cheng li nian er zhou nian ji nian te kan](https://catalogue.nlb.gov.sg/search/card?id=71a2aa09-1781-5bb6-8b85-8d8d90060b01&amp;entityType=FormatGroup) 星洲真空教联合会成立廿二周年纪念特刊 \[Commemorative Volume Marking the 20th Anniversary of the Federation of the Zhenkongjiao in Singapore\]. Singapore: Federation of the Zhenkongjiao in Singapore (Xin jia po: 星洲真空教联合会 Xingzhou Zhenkongjiao lian he hui, 1976), 1-8. (From National Library, Singapore, call no.: 294.39 SEN)
+
+[^31]:  “Kongjiao lianhehui qingzhu Zhenkong zushi danchen choujian huishi zuowei jiedu zhongxin[眞空敎聯合會慶祝眞空祖師誕辰籌建會所作爲戒毒中心](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19760511-1.2.34.4) \[The Zhenkongjiao Association celebrates the birthday of Zhenkong Patriarch by raising funds to establish a center for drug rehabilitation\],” _Nanyang Siang Pau_南洋商报, 11 May 1976, 17. (From NewspaperSG); “Kongjiao lianhe hui zutuan jin qicheng fangwen gedi yanjiu you xiao jiedu fa [眞空敎聯合會組團今启程访问各地研究有効戒毒法](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19770107-1.2.24.4) \[The Zhenkongjiao Association organizes a group to embark on visits to various places to research effective methods of drug rehabilitation\],” _Nanyang Siang Pau_南洋商报, 7 January 1977, 8. (From NewspaperSG)
+
+[^32]:  Ng Ser Song, “Toward a Drug-Free Society: The Singapore Approach,” _Brown Journal of World Affairs_ 26 (2019-20): 245–252.
+
+[^33]:  Hue Guan Thye, “[The Evolution of the Singapore United Temple: The Transformation of Chinese Temples in the Chinese Southern Diaspora](https://chl-archive.anu.edu.au/sites/default/files/publications/csds/csds2012/csds2012_07.pdf),” _Chinese Southern Diaspora Studies_ 5 (2012): 157–174.
+
+[^34]:  Shi and Ouyang, “Xinjiapo Zhenkongjiao fazhanshi chutan,” 98.
+
+[^35]:  Shi and Ouyang, “Xinjiapo Zhenkongjiao fazhanshi chutan,” 94.
