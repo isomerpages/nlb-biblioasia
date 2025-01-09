@@ -30,7 +30,7 @@ Singapore’s match took place on 23 May 1914 at Balestier Rifle Range, on the n
 
 Kerr had a poor start but recovered in a spectacular way to score a total of 93 points for Singapore, putting her in sixth position. The _Malaya Tribune_ wrote:
 
-Miss Kerr was most heartily congratulated on her strong finish, and she well deserved it. Coming from the 200 yds. position a bad fire of 27, she did not become disheartened in the least, and secured 32 from the 500 distance. The last firing began at 4.35 from the 600 yards mound, and Miss Kerr rose a few minutes later after making the highest score of any of the competitors from that distance – 34, bringing her name up to 6th on the score sheet.[^6]
+"Miss Kerr was most heartily congratulated on her strong finish, and she well deserved it. Coming from the 200 yds. position a bad fire of 27, she did not become disheartened in the least, and secured 32 from the 500 distance. The last firing began at 4.35 from the 600 yards mound, and Miss Kerr rose a few minutes later after making the highest score of any of the competitors from that distance – 34, bringing her name up to 6th on the score sheet.[^6]"
 
 |Singapore Team|200 yards|500 yards|600 yards|Total
 | -------- | -------- | -------- | -------- | -------- |
