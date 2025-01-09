@@ -404,6 +404,56 @@ Domestic Servants Registration Ordinance encouraging employers to hire
 only registered individuals as servants came into force on 1 January 1888, the
 SEA was vexed:
 
+     The lower classes of Chinese from which we procure our
+
+     servants would sooner follow the bent of their inclinations and
+
+     turn rogues and thieves than<i> take service except on their own
+
+     terms</i> [emphasis added].44
+
+The recommended antidote to this intransigence was to dump them
+forcefully into “gharries” and drive them to the relevant office to be
+registered, which the Chinese refused to do “for want of a good kicking”.45
+
+Another suggestion was to import servants from India – Calcutta or
+Madras – who were cheaper, more efficient and more pliable. This was fine
+as long as the Indians stuck to servitude and did not stuff themselves into
+trousers and coats, so as to deceive outsiders into thinking that “every black
+man with a coat is a Eurasian”.46
+
+Any non-European who wielded even a modicum of power was to be
+viewed suspiciously. The Tamil Chettiars, most of whom came to Singapore
+as money lenders, were to be avoided because their usury practices often
+trapped unsuspecting Eurasians into a vicious cycle of poverty and debt.
+The Indian money lender, warned the SEA, was not “behind in his virtues
+to ‘Shylock’”.47 The native constable was nothing but a dummy on the street who needed constant monitoring by his European peers – surprise visits to
+the area of his beat were highly recommended.48
+
+Relative to the Chinese and the Indians, the Malays were far removed
+from the colonial enterprise and thus from Singapore’s public life. This was
+reflected in their absence from the SEA’s pages. The few times they did
+appear, it was as part of gangs that indulged in brutish violence against the
+Indians and the Chinese and as singers of obscene songs that disturbed
+the public peace at night.49 Occasionally, calls were made to replace
+“outlandish” native road names with “decent ones”.50
+
+Relative to the Chinese and the Indians, the Malays were far removed
+from the colonial enterprise and thus from Singapore’s public life. This was
+reflected in their absence from the SEA’s pages. The few times they did
+appear, it was as part of gangs that indulged in brutish violence against the
+Indians and the Chinese and as singers of obscene songs that disturbed
+the public peace at night.49 Occasionally, calls were made to replace
+“outlandish” native road names with “decent ones”.50
+
+The paper tried to acquire this currency for its audience not just by
+highlighting their achievements but by using language that debased
+the native populace’s habits, culture and tradition. It inflicted linguistic
+violence (half-naked Chinaman; demoniac Malay; Shylock-like Chetty) and
+advocated physical violence (flogging, harsher conditions in jails) – both of
+which served to further reify racialised hierarchies in Singapore.
+
+
 
 
 
