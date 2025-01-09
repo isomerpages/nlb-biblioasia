@@ -1134,5 +1134,5 @@ sections:
       button: Listen to the episode
       url: /podcast/what-makes-an-animal-singaporean-timothy-barnard/
       image: /images/Podcast/Tim_600_400.jpg
-      alt: Image alt text
+      alt: A Singaporean Animal
 ---
