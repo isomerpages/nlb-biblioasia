@@ -54,9 +54,17 @@ However, not everyone was convinced of the Zhenkongjiao’s methods. Throughout 
 
 By 1956, there was growing acceptance by the government, with Thian Ling Chong Toh Tong temple being interchangeably referred to in the English press as the secular-sounding “Opium Addicts Treatment Association” and “Faith Healing and Opium Curative Centre”.[^17] A Dr Leong Hon Koon, representing the authorities, praised the temple’s methods, contrasting them with the relatively higher relapse rates of those who had been treated at the Opium Treatment Centre on St John’s Island, where similar cold turkey methods were used but with less success.[^18]
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Rites%20of%20Rehabilitation/19980001288_IMG0020.jpg" style="width: 80%;">Group photograph taken with Chief Minister Lim Yew Hock during opening of Opium Addicts' Treatment Association's Chinese temple at Changi Road, 1956. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Rites%20of%20Rehabilitation/19980001319_IMG0013.jpg" style="width: 80%;">Recovering addicts learned skills such as sewing at the Opium Treatment Centre at St John’s Island, 1957. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
   
 
-* * *
+
 
 
 
