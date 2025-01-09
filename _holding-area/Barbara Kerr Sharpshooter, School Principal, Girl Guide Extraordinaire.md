@@ -32,19 +32,7 @@ Kerr had a poor start but recovered in a spectacular way to score a total of 93 
 
 "Miss Kerr was most heartily congratulated on her strong finish, and she well deserved it. Coming from the 200 yds. position a bad fire of 27, she did not become disheartened in the least, and secured 32 from the 500 distance. The last firing began at 4.35 from the 600 yards mound, and Miss Kerr rose a few minutes later after making the highest score of any of the competitors from that distance – 34, bringing her name up to 6th on the score sheet."[^6]
 
-|Singapore Team|200 yards|500 yards|600 yards|Total
-| -------- | -------- | -------- | -------- | -------- |
-|R.E. de Silva|31|34|33|98|
-|Lt. W. L. Kemp|33|33|32|98|
-|Sapper J. Flanagan|32|34|30|96|
-|C. Sergeant-Major Chater|31|32|32|95|
-|Gunner Neubronner|31|35|29|95|
-|<b>Miss Barbara Kerr</b>|<b>27</b>|<b>32</b>|<b>34</b>|<b>93</b>|
-|Sapper E.J. Potter|28|34|31|93|
-|Sergeant Tan Chow Kim|32|31|30|93|
-|Lt. Song Ong Siang|28|32|31|91|
-|Sapper R. Pash|29|29|32|90|
-||302|326|314|942|
+![](/images/Vol%2020%20Issue%205/Barbara%20Kerr/p3.jpg)
 
 The final score for Singapore was 942, which tied it with Shanghai. One point less from Kerr and Shanghai would have won the competition. One of her teammates, Song Ong Siang, acknowledged her contributions to the team effort: 
 
