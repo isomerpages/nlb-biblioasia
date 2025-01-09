@@ -10,9 +10,9 @@ third_nav_title: Set in 1920s Singapore
 and Virginia Woolf, W. Somerset Maugham (1874–1965) travelled to Singapore
 in 1921. Though he was already well-known as a writer then, it was his
 stay in Singapore that inspired some of his most celebrated short stories.
-Crime fiction writer&nbsp;Tracey&nbsp;Morton tells us why Maugham's works
-remain relevant, how Singapore inspired his works, and whether the Menendez
-brothers deserve their sentence.</p>
+Crime fiction writer&nbsp;Tracey&nbsp;Morton tells us how Singapore inspired
+his works, why they remain relevant, and whether the Menendez brothers
+deserve their sentence.</p>
 <h4><br><strong>Listen to the Full Episode</strong></h4>
 <p>Available on: <a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener nofollow" target="_blank"><u>Spotify</u></a>,
 <a href="https://podcasts.apple.com/us/podcast/biblioasia/id1688142751" rel="noopener nofollow" target="_blank"><u>Apple Podcasts</u>
