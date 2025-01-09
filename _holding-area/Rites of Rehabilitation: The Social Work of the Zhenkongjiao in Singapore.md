@@ -26,9 +26,13 @@ The Zhenkongjiao was founded in Jiangxi, China, by Liao Dipin (1827–93) and po
 
 The inaugural Zhenkongjiao temple in Southeast Asia, Pili Hongmaodan Zhenkong Zushi Daotang, was founded in Ipoh in 1906 by Huang Shengfa and his teacher, Master Huang Daoyun. After struggling with opium addiction in Malaya, Huang Shengfa returned to Jiaoling, where Master Huang Daoyun treated him before accepting his invitation to Malaya. From Ipoh, the duo extended the influence of Zhenkongjiao in Malaya, each embarking on divergent paths. Huang Daoyun travelled southward to Singapore, where he founded the second-oldest temple in the region, Xingzhou Fubenyuan Daotang, in 1910.[^6] By 1929, five other Zhenkongjiao temples had been established across the island, founded by other masters of the movement who had travelled to Southeast Asia to proselytise. Later in his life, Huang Shengfa established Fook Poon Yuen Temple on Penang Island in Malaysia, which is still managed by his descendants today.
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Rites%20of%20Rehabilitation/DSC02227.png" style="width: 80%;">Fook Poon Yuen Temple on Penang Island is still managed by the descendants of Huang Shengfa, 2019. <i>Photograph by Esmond Soh.</i></div>
+
   
 
-* * *
+
 
 
 
