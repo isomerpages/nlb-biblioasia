@@ -17,6 +17,16 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 20 Issue 4/John Sturgus Bastin/HeroImage_bastin_2.jpg
   - infopic:
+      title: What Makes An Animal Singaporean?
+      subtitle: Podcast
+      id: infopic
+      description: Environmental historian Timothy Barnard tells us what makes migrant
+        animals, like otters and Aedes mosquitoes, Singaporean.
+      button: Listen to the episode
+      url: /podcast/what-makes-an-animal-singaporean-timothy-barnard/
+      image: /images/Podcast/Tim_600_400.jpg
+      alt: A Singaporean Animal
+  - infopic:
       title: From Nanjing to Nanyang
       subtitle: History
       id: infopic
