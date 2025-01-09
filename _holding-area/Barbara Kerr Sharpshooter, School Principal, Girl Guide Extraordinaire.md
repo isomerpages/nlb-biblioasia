@@ -148,7 +148,7 @@ It is not known when Kerr returned to the United Kingdom for good. She died in K
 
 [^7]: _Song Ong Siang,_ [_One Hundred Years’ History of the Chinese in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=f8082431-1c7b-460e-b59c-bbc5793035a3) (London: John Murray, 1923), 506. (From National Library Online)
 
-[^8]: “[“Interport Shoot](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19140525-1.2.51).”
+[^8]: “[Interport Shoot](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19140525-1.2.51).”
 
 [^9]: “[Raffles Girls’ School](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19000208-1.2.42),” _Straits Times_, 8 February 1900, 3. (From NewspaperSG)
 
