@@ -96,9 +96,13 @@ Despite efforts to move towards drug rehabilitation, the Zhenkongjiao’s endeav
 
 The number of Zhenkongjiao temples in Singapore has fallen since 1970. Many of the temples had to make way for nation-building projects, infrastructure and public amenities. Some temples pooled resources to combine their temple facilities, such as Thian Ling Toh Tong (now part of Hock Thong Combined Temple in Bukit Batok) and Fook Poon Tong (part of Chong Pang Combined Temple).[^33] Others relocated to Malaysia or merged, as seen in the cases of Lingxiao and Zhenhe Daotang temples, which both merged and relocated to Johor.[^34] According to one estimate, only 11 Zhenkongjiao temples were in Singapore by 1998.[^35]
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Rites%20of%20Rehabilitation/DSC05922.png" style="width: 80%;">One of the oldest Zhenkongjiao altars in Singapore, the Fubenyuan Daotang, is currently housed in a private residence, 2023. <i>Photograph by Esmond Soh.</i></div>
+
   
 
-* * *
+
 
 
 
