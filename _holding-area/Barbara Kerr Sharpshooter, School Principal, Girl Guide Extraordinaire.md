@@ -115,7 +115,7 @@ In December 1935, Kerr represented the Kinta District team in Ipoh in the Cornwe
 #### **Contributions to the Girl Guides**
 Kerr was also closely involved with the Girl Guide movement in Malaya and Singapore. It is not clear when she first joined the Girl Guides, though it was likely during her time as principal of SCGS between 1918 and 1920. 
 
-She rose through the ranks. In August 1921, when Kerr was living in Penang, she was presented with a Captain’s badge during an inspection of the Penang Branch of the Girl Guides by Lady Guillemard.36 In January 1923, she was appointed Division Secretary for Penang and Province Wellesley.[^37] 
+She rose through the ranks. In August 1921, when Kerr was living in Penang, she was presented with a Captain’s badge during an inspection of the Penang Branch of the Girl Guides by Lady Guillemard.[^36] In January 1923, she was appointed Division Secretary for Penang and Province Wellesley.[^37] 
 
 Just four years later, in 1927, Kerr became District Commissioner for Singapore. In May 1931, she formed the first pack of Malay Brownies in Kuala Lumpur. She recalled: “After the scheme had been carefully explained to the parents and the teachers, and with some misgivings, we chose a number of the younger pupils at the Malay Girls’ School, Kampong Bahru, Kuala Lumpur, to be our first Malay Brownies. But we need have had no fears. It succeeded far beyond our expectations.”[^38]
 
