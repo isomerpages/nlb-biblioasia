@@ -2,7 +2,6 @@ collections:
   holding-area:
     output: true
     order:
-      - Barbara Kerr Sharpshooter, School Principal, Girl Guide Extraordinaire.md
       - Sample Test2.md
       - Sample Test.md
       - Example Title.md
