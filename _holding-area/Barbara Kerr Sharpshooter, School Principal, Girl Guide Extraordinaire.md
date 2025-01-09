@@ -12,7 +12,7 @@ By Nick Aplin
 
 In early 20th-century Singapore, there were not many occasions when a woman was expected to stand her ground against men in a representative international sporting event. There was, however, one notable exception: when a 26-year-old school principal stunned her male rivals, not in golf or tennis, but in rifle shooting.
 
-The school principal was none other than Barbara Kerr, principal of the Singapore Chinese Girls’ School (SCGS). The occasion for her amazing display of “markswomanship” was the 25th Interport Rifle Match in 1914 between the teams from Singapore, Shanghai, Hong Kong and Penang.[^1 ]
+The school principal was none other than Barbara Kerr, principal of the Singapore Chinese Girls’ School (SCGS). The occasion for her amazing display of “markswomanship” was the 25th Interport Rifle Match in 1914 between the teams from Singapore, Shanghai, Hong Kong and Penang.[^1]
 
 ![](/images/Vol%2020%20Issue%205/Barbara%20Kerr/image4.jpg)
 <div style="background-color: white;">Singapore’s competition for the 1914 Interport Rifle Match took place at Balestier Rifle Range, on the north side of Balestier Road. <i>Illustration by Nick Aplin.</i></div>
