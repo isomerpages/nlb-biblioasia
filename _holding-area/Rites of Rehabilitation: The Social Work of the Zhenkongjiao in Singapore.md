@@ -4,6 +4,7 @@ permalink: /holding-area/zhenkongjiao-chinese-religion-opium-addiction-rites-rit
 variant: markdown
 description: ""
 ---
+
 #### **With its sometime unconventional treatments, the Zhenkongjiao worked together with local authorities to remove the scourge of opium addiction in Singapore.**
 By Esmond Soh
 <br><small>10 January 2025</small>
@@ -29,6 +30,10 @@ The inaugural Zhenkongjiao temple in Southeast Asia, Pili Hongmaodan Zhenkong Zu
 <div style="background-color: white;">
 <br>
 <img src="/images/Online%20Only%20Articles/Rites%20of%20Rehabilitation/DSC02227.png" style="width: 80%;">Fook Poon Yuen Temple on Penang Island is still managed by the descendants of Huang Shengfa, 2019. <i>Photograph by Esmond Soh.</i></div>
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Rites%20of%20Rehabilitation/DSC02267.png" style="width: 80%;">A banner owned by Huang Shengfa advertising Fook Poon Yuen Temple’s service of treating opium addicts and curing illnesses. It was hung from the temple’s second floor when it operated out of a shophouse. The banner is held by Huang’s grandson, 2019. <i>Photograph by Esmond Soh.</i></div>
 
   
 
