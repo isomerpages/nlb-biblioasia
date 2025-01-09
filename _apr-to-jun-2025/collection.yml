@@ -1,4 +1,5 @@
 collections:
   apr-to-jun-2025:
     output: true
-    order: []
+    order:
+      - Barbara Kerr Sharpshooter, School Principal, Girl Guide Extraordinaire.md
