@@ -26,7 +26,9 @@ him, and he’s okay. But that really did a lot of… I can imagine that would
 have been quite traumatic. And then also in Bangkok, in Thailand, he got
 malaria and he nearly died. So, yeah, I definitely think these trips definitely
 changed him. They also gave him a great insight and perception into life
-here.</p>
+here.
+<br>
+<br>[Music playing]</p>
 <p><strong>Jimmy<br></strong>You are listening to <em>BiblioAsia+</em>, a
 podcast produced by the National Library of Singapore. At <em>BiblioAsia</em>,
 we tell stories about Singapore’s past. Some familiar, others forgotten,
@@ -44,7 +46,7 @@ fan of Maugham. She has written short stories, as well as a radio play
 about him. She has also written about Maugham in <em>BiblioAsia</em>, and
 she is here today to share with us about Maugham and about his relationship
 with Singapore.</p>
-<p>Welcome to BiblioAsia+, Tracey. How have you been?</p>
+<p>Welcome to <em>BiblioAsia</em>+, Tracey. How have you been?</p>
 <p><strong>Tracey<br></strong>I’m really good. Thank you, Jimmy. Thanks so
 much for having me.</p>
 <p><strong>Jimmy<br></strong>Thank you for coming down. It’s really a pleasure.
@@ -818,8 +820,11 @@ To learn more about Maugham, do check out the <em>BiblioAsia</em> article
 “<a href="https://biblioasia.nlb.gov.sg/vol-20/issue-4/jan-mar-2025/william-somerset-maugham-secrets/" rel="noopener noreferrer nofollow" target="_blank">W. Somerset Maugham: Secrets from the Outstations</a>”
 on the <em>BiblioAsia</em> website. Of course, you have to buy or borrow
 Tracey’s book <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=205876388" rel="noopener noreferrer nofollow" target="_blank">Someone Is Coming</a>.</em> And
-watch out for her upcoming novel <em>The Coffee Shop Masquerade</em>.</p>
-<p>Tracey, once again, thank you for coming and good luck on <em>The Coffee Shop Masquerade</em>.</p>
+watch out for her upcoming novel <em>The Coffee Shop Masquerade</em>. Tracey,
+once again, thank you for coming and good luck on <em>The Coffee Shop Masquerade</em>.</p>
 <p><strong>Tracey<br></strong>Thank you so much, Jimmy. Thanks so much for
-having me. If you’ve enjoyed this episode, subscribe to this podcast and
-the <em>BiblioAsia</em> newsletter. Thanks for joining us on <em>BiblioAsia</em>+.</p>
+having me.
+<br>
+<br><strong>Jimmy</strong>
+<br>If you’ve enjoyed this episode, subscribe to this podcast and the <em>BiblioAsia</em> newsletter.
+Thanks for joining us on <em>BiblioAsia</em>+.</p>
