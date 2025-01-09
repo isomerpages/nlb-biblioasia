@@ -110,10 +110,22 @@ Additionally, Thian Ling Toh Tong, then located in Mandai, was a crucial centre 
 
 The Zhenkongjiao also responded to significant events and tragedies in Singapore. On 12 October 1978, an explosion onboard the Greek oil tanker _S.T. Spyros_ (docked at Jurong shipyard) resulted in what was described as the “most tragic disaster since the end of World War II” in terms of lives lost.[^39] The Zhenkongjiao was a crucial support for affected families, holding a three-day ritual for the souls of the deceased, with expenses covered by Thian Ling Chong Toh Tong temple. Rituals to offer spiritual solace to the deceased were also organised, including a ceremony known as the “showering of holy rain and sweet dew”.[^40]
 
-**Moving Towards the Future**
+#### **Moving Towards the Future**
 
 Although Zhenkongjiao temples no longer run drug rehabilitation programmes, they remain significant centres for religious practice. Apart from observing traditional Chinese festivals like Qing Ming (tomb sweeping) and the Seventh Lunar Month, they also commemorate the birthdays of their five patriarchs. These elaborate celebrations include the recitation of the movement’s religious texts from morning to afternoon. The culmination of each event is marked by the Repayment of Gratitude, a solemn ceremony where believers express their appreciation to various elements of existence, including the state, family and their own good fortune. A highlight of this ceremony is the presentation of the Five Mountains and Five Seas, a lavish array of meat and seafood dishes, symbolising profound gratitude.[^41] The dishes are blessed and shared with devotees and participants to symbolise sharing the grace of the Zhenkongjiao’s patriarchs.
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Rites%20of%20Rehabilitation/DSC06208.png" style="width: 80%;">Rituals performed by the specialists of Thian Ling Toh Tong temple at Poon Guan San Thoh Tong’s Seventh Lunar month observation, 2023. <i>Photograph by Esmond Soh.</i></div>
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Rites%20of%20Rehabilitation/Meat_Offerings.png" style="width: 80%;">Meat offerings of the 'Five Mountains and Five Seas' prepared and offered to Zhenkongjiao's five patriarchs ahead of the 'Repayment of Gratitude' ceremony by devotees of the Chin Kong Religion Fook Poon Tong temple, 2022. <i>Photograph by Esmond Soh.</i></div>
+
+Today, Zhenkongjiao temples in Singapore continue to offer healing services to those in need. Some temples, such as Fook Poon Tong and Poon Guan Sam Thoh Tong, provide weekend meditation and scripture-reciting classes, reflecting a shift towards promoting health and mental discipline. The scriptures, meditational techniques and cosmology of Zhenkongjiao have been reworked to meet modern needs such as stress relief, mental wellness and spiritual fulfilment.[^42] To increase awareness of its ideals, the movement has produced easy-to-read materials aimed at a broader audience, and regularly organises lectures by Zhenkongjiao leaders.[^43] Although their numbers have diminished, the leaders of the remaining temples continue to adapt their practices and teachings to remain meaningful and accessible in contemporary Singapore.
+
+_This article was partially developed from my MA (History) thesis,_ Sages, Smokers, and Sojourners: The Religion of the Void in China and Southeast Asia, _which was supported by a Nanyang Technological University Research Scholarship. I am grateful to the various Zhenkongjiao temples in Singapore and Malaysia for generously hosting my field research._
+
   
 
 * * *
@@ -121,14 +133,6 @@ Although Zhenkongjiao temples no longer run drug rehabilitation programmes, they
 
 
   
-
-* * *
-
-
-
-  
-
-
 
 
 
@@ -227,3 +231,7 @@ Although Zhenkongjiao temples no longer run drug rehabilitation programmes, they
 [^40]:  “Xingma zhen ma Zhenkongjiao lian he ding qi wei you chuan li nan zhe ju xing chao jian fa hui [星马眞空敎联合订期 为油船罹难者 举 ⾏超荐法会](https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19781105-1.2.66.2) \[The Singapore-Malaysia Zhenkongjiao Alliance schedules a memorial service for the victims of the oil tanker accident\],” _Sin Chew Jit Poh_ 星洲⽇報, 5 November 1978, 30. (From NewspaperSG); “Xingma Zhenkongjiao ge dao tang wei can huo li nan zhe zhu ban chao jian fa hui [星马眞空敎各道堂 为惨祸罹难者 主办 超荐法会](https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19781125-1.2.38.2) \[Various Zhenkongjiao temples in Singapore and Malaysia host memorial services for the victims of the tragic accident\],” _Sin Chew Jit Poh_ 星洲⽇報, 25 November 1978, 10 (From NewspaperSG); “Zhenkongjiao Tian Ling Zong Dao Tang lian he Xinma liangdi daotang wei chuan nan si zhe juxing chao jian fahui ji gong ji [真空教天灵总道堂联合新⻢两地道堂为船难死者举行超荐法会及公祭](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19781125-1.2.84.3) \[The Zhenkongjiao Tian Ling Zong Daotang, in conjunction with temples in Singapore and Malaysia, holds memorial services and public ceremonies for the victims of the maritime disaster\],” _Nanyang Siang Pau_ 南洋商报, 25 November 1978, 39. (From NewspaperSG)
 
 [^41]:  Esmond Chuah Meng Soh, “[Article Sneak Peeks: May 2022](https://chinesereligions.org/node/214),” Society for the Study of Chinese Religions, last accessed 20 April 2024.
+
+[^42]:  Esmond Chuah Meng Soh, “Sectarians, Smokers, and Science: The Zhenkongjiao in Malaysia and Singapore,” _Asian Ethnology_ 81, no. 1/2 (2022): 35-42. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
+
+[^43]:  黄嘉伟 Huang Jia Wei,[《空道流行》入微](https://catalogue.nlb.gov.sg/search/card?id=3e87492b-7d33-5e8d-9536-730065b2ae92&amp;entityType=FormatGroup) [“Kong dao liu xing” ru wei](https://catalogue.nlb.gov.sg/search/card?id=3e87492b-7d33-5e8d-9536-730065b2ae92&amp;entityType=FormatGroup) \[Delving into the Way of Emptiness\] (Xinjiapo 新加坡: Xinjiapo Zhenkongjiao Lian He Hui 新加坡真空教联合会, 2016) (From PublicationSG, call no. 299.51)
