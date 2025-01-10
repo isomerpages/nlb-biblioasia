@@ -93,3 +93,68 @@ Beyond the stone in Singapore, there were also other stones associated with Bada
 In 1826, a voyager up the Johor River was told that a “a convex ripple” near a sharp bend at Tanjong Putus, near Kota Tinggi, was the “remains of the weir”, or small dam, made by Badang.[^30] _Putus_ means to sever or break up – this _tanjong_ breaks up the flow of the river – and the toponym appears in versions of the Badang story in variants of the Annals that are less well known than Leyden’s translation or the _Raffles MS No. 18_ recension.[^31]
 
 While the Batu Belah and other markers of Badang in Johor appear to be gone today, his peregrinating grave remains a source of authenticity and reification for people in the region. As Virginia Matheson (an internationally recognised authority on traditional Malay literature and historiography) pointed out the early 1980s, having the monument to such an illustrious hero on Pulau Buru created a sense of ancestral legitimacy for the ruling elite of Riau and a sense of empowerment for the residents of the islands.[^32] The Singapore Stone can be seen functioning in a similar fashion, as a totem of legitimacy, for the city-state of Singapore.
+
+#### **NOTES**
+[^1] Nor-Afidah Abdul Rahman, “[Legends of the Malay Kings](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/sejarah-malayu-malay-annals/),” _BiblioAsia_ 11, no. 4 (January–March 2016): 47–49.
+
+[^2] Recent research suggests that the inscription is in the Kawi script and is probably in Sanskrit rather than Old Javanese. See Kelvin C. Yap, Tony Jiao and Francesco Perono Cacciafoco, “The Singapore Stone: Documenting the Origins, Destruction, Journey and Legacy of an Undeciphered Stone Monolith,” _Histories_ 3, no. 3 (2023): 271–87, [https://doi.org/10.3390/histories3030019](https://doi.org/10.3390/histories3030019).
+
+[^3] For a discussion of the variants of the _Sejarah Melayu_, see R. Roolvink, “The Variant Versions of the Malay Annals,” _Bijdragen tot de Taal-, Land- en Volkenkunde_ 123, no. 3 (1967): 301–24. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website) 
+
+[^4] Written in Jawi between 1840 and 1843 and published in 1849, the _Hikayat Abdullah_ is considered the most renowned of Munsyi Abdullah’s works. A.H. Hill, trans. “The Hikayat Abdullah,” _Journal of the Malayan Branch of the Royal Asiatic Society_ 28, no. 3 (171) (June 1955): 130. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+[^5] Yap, Jiao and Cacciafoco, “The Singapore Stone,” 271–87.
+
+[^6] Peter James Begbie, [_The Malayan Peninsula: Embracing Its History, Manners and Customs of the Inhabitants, Politics, Natural History, Etc. from Its Earliest Records_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=f723409c-95e3-47d1-aeb3-cb2dbc568b8a) (Madras: Vepery Mission Press, 1834), 358. (From National Library Online). Yet another version that links Badang to the stone is found in John Cameron, [_Our Tropical Possessions in Malayan India_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=7658c549-f1c5-47c7-b8b6-831f7eb90c58) (London: Smith, Elder, 1865), 49–51. (From National Library Online)
+
+[^7] John Leyden, [_Malay Annals: Translated from the Malay Language by the Late Dr. John Leyden With an Introduction by Sir Thomas Stamford Raffles_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=403dde58-c3c4-4a53-ba21-f11e813f434f) (London: Longman, Hurst, Rees, Orme and Brown, 1821), 63. (From National Library Online)
+
+[^8] R.O. Winstedt, “The Malay Annals or Sejarah Melayu: The Earliest Recension from MS. No. 18 of the Raffles Collection, in the Library of the Royal Asiatic Society, London,” _Journal of the Malayan Branch of the Royal Asiatic Society_ 16, no. 3 (132) (December 1938): 1–226. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
+
+[^9] Adil Buyong, [_Sejarah Singapura: Rujukan Khas Mengenai Peristiwa2 Sebelum Tahun 1824_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4090822) (Kuala Lumpur: Dewan Bahasa dan Pustaka, 1972), 37. (From National Library Singapore, call no. RSING 959.57 BUY-[HIS])
+
+[^10] Dewi Saptiani and Amesih Amesih, “Eksistensi Makam Badang Sebagai Wisata Religi di Pulau Buru, Tanjung Balai Karimun,” _Historia: Jurnal Program Studi Pendidikan Sejarah_ 2, no. 1 (2017): 25–39, [https://www.journal.unrika.ac.id/index.php/journalhistoria/article/view/1572](https://www.journal.unrika.ac.id/index.php/journalhistoria/article/view/1572). In the version related here, Badang was said to be a native of Pulau Buru.
+
+[^11] Thomas Braddell, “Abstract of the Sijara Malayu or Malayan Annals with Notes,” [_The Journal of the Indian Archipelago and Eastern Asia_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=96e662cb-55ca-48bd-af98-a0a9b5d4eaa5) 5 (1851), 249, n. 7. (From National Library Online)
+
+[^12] This is a record of John Crawfurd’s commercial and diplomatic mission to the courts of Siam (now Thailand) and Cochin China (present-day South Vietnam) from 1821–22. See John Crawfurd, [_Journal of an Embassy from the Governor-General of India to the Courts of Siam and Cochin China_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=78831281-b72c-4981-afd0-7a448179e707) (London: Printed by S. and R. Bentley, 1828), 41. (From National Library Online)
+
+[^13] [_Sejarah Melayu or The Malay Annals_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4183882) (Singapura: Malaya Publishing House, 1960), 34, 44. (From National Library Singapore, call no. RCLOS 959.5 SEJ)
+
+[^14] R.O. Winstedt, “A History of Johore (1365–1895 A.D.),” _Journal of the Malayan Branch of the Royal Asiatic Society_ 10, no. 3 (115) (December 1932): 4. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+[^15] R.O. Winstedt, “The Malay Annals or Sejarah Melayu,” _Journal of the Malayan Branch of the Royal Asiatic Society_ 16, no. 3 (132) (December 1938): 134. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+[^16] Winstedt, “The Malay Annals or Sejarah Melayu,” 65.
+
+[^17] R.O. Winstedt, “The Early Muhammadan Missionaries,” _Journal of the Straits Branch of the Royal Asiatic Society_, no. 81 (March 1920): 5–6. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+[^18] Tomé Pires, [_The Suma Oriental of Tomé Pires: An Account of the East, From the Red Sea to Japan, Written in Malacca and India in 1512–1515_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2818205) (London: The Hakluyt Society, 1944), 144. (From National Library Singapore, call no. RRARE 910.8 HAK)
+
+[^19] Ian Caldwell and Ann Appleby Hazlewood, “‘The Holy Footprints of the Venerable Gautama’: A New Translation of the Pasir Panjang Inscription,” _Bijdragen Tot de Taal-, Land- En Volkenkunde_ 150, no. 3 (1994): 457–80. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website). The Badang footprint story dates at least to the early 1980s and is still told today. See Virginia Matheson, “Kisah pelayaran ke Riau: Journey to Riau, 1984,” _Indonesia Circle_ 13, no. 36 (1985): 3–22, [https://doi.org/10.1080/03062848508729602](https://doi.org/10.1080/03062848508729602). Matheson was told of the existence of supposed Buddhist inscriptions on Pulau Buru, but our guides did not know of them in 2023. A story related to us by local guides is that in the 1990s, an “Indian” man from Malaysia read the “Hindu” inscription on the Badang tombstone then built a shelter over the _keramat_ that was later replaced with the current concrete structure. A variation of this story is mentioned by Carole Faucher. In this version, the strong man is not the Badang of the Annals but a man who lived during the time of Sultan Abdul Rahman Muazzam Shah of Johor (1818–32). See Carole Faucher, “Territory, Boundaries and Ethnic Consciousness Among the Malays of the Riau Archipelago” in _Géopolitique et Mondialisation: La Relation Asie du Sud-Est – Europe_, ed. P. Lagayette (Presses de l’Université de Paris-Sorbonne, 2003), 87–106. The _batu nisan_ on site today are natural rocks without any carvings or inscriptions.
+
+[^20] Caldwell and Hazlewood, “‘The Holy Footprints of the Venerable Gautama’,” 477.
+
+[^21] James Richardson Logan, “The Binua of Johore,” _The Journal of the Indian Archipelago and Eastern Asia_ 1 (1847): 246, [https://archive.org/details/in.ernet.dli.2015.107692/page/n285/mode/2up](https://archive.org/details/in.ernet.dli.2015.107692/page/n285/mode/2up).
+
+[^22] W.E. Maxwell, [_Straits Branch of the Royal Asiatic Society: Notes and Queries Nos. 1–2 Edited by the Honorary Secretary_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4411211) (No. 1 Issued with No. 14 of the Journal of the Society) (Singapore: Printed at the Govt. Print. Off., 1885), 47–48. (From National Library Singapore, call no. RRARE 959.5 ROY)
+
+[^23] W.E. Maxwell, “The History of Perak from Native Sources,” _Journal of the Straits Branch of the Royal Asiatic Society_ no. 14 (December 1884): 309. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+[^24] Jnanadabhiram Barooah, _Folktales of Assam_, 2nd ed. (Howrah, 1954), 94–96. 
+
+[^25] Barooah, _Folktales of Assam_, 94–96.
+
+[^26] Iain Sinclair, “Traces of the Cholas in Old Singapura,” in [_Sojourners to Settlers – Tamils in Southeast Asia and Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=204343146), vol. 1, ed. Arun Mahizhnan and Nalina Gopal (Singapore: Indian Heritage Centre and Institute of Policy Studies, Lee Kuan Yew School of Public Policy, National University of Singapore, 2019), 48–58. (From National Library Singapore, call no. RSING 305.8948110959 SOJ)
+
+[^27] Quoted in Charles Burton Buckley, [_An Anecdotal History of Old Times Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717), vol. 1. (Singapore: Fraser &amp; Neave, 1902), 94. (From National Library Online)
+
+[^28] Logan, “The Binua of Johore,” 279.
+
+[^29] Winstedt, “A History of Johore (1365–1895 A.D.),” 4. There is a Kuala Sayong in Perak as well, yet another connection between Badang and Perak.
+
+[^30] “Trip to the Johore River,” _Singapore Chronicle_, August 1826, reprinted in John Henry Moor, [_Notices of the Indian Archipelago and Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=f9d3332f-3612-46d3-b134-b254d106aaf9) (Singapore: Printed in Singapore by the Mission Press of the American Board of Commissioners for Foreign Missions, 1837), 264–68. (From National Library Online)
+
+[^31] A. Samad Ahmad, ed., [_Sulatatus Salatin = Sejarah Melayu_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4182831) (Kuala Lumpur: Dewan Bahasa dan Pustaka, 1979), 49. (From National Library Singapore, call no. RCLOS 959.5 SEJ)
+
+[^32] Virginia Matheson, “Strategies of Survival: The Malay Royal Line of Lingga-Riau,” _Journal of Southeast Asian Studies_ 17, no. 1 (March 1986): 24, n. 38. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
