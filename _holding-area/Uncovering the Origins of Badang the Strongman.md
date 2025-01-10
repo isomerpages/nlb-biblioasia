@@ -117,7 +117,7 @@ While the Batu Belah and other markers of Badang in Johor appear to be gone toda
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol%2018%20Issue%201/Authors/william_gibson.png" style="width: 100px; height: 100px;">
+<img src="/images/Authors/william_gibson.png" style="width: 100px; height: 100px;">
 	<b>Dr William L. Gibson</b> is an author and researcher based in Southeast Asia since 2005. A former Lee Kong Chian Research Fellow of the National Library, Singapore, his most recent book is <i>Keramat, Sacred Relics and Forbidden Idols in Singapore</i> (2024), published by Routledge as part of their Contemporary Southeast Asia series. His book <i>Alfred Raquez and the French Experience of the Far East, 1898–1906</i> (2021) was published by Routledge as part of its Studies in the Modern History of Asia series. Gibson’s articles have appeared in <i>Signal</i> to Noise, PopMatters.com, <i>The Mekong Review, Archipel, History and Anthropology</i>, the <i>Bulletin de l’École française d’Extrême-Orient</i> and <i>BiblioAsia</i>, among others.</div>
 
 #### **NOTES**
