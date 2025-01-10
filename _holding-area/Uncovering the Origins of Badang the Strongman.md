@@ -113,6 +113,8 @@ In 1826, a voyager up the Johor River was told that a “a convex ripple” near
 
 While the Batu Belah and other markers of Badang in Johor appear to be gone today, his peregrinating grave remains a source of authenticity and reification for people in the region. As Virginia Matheson (an internationally recognised authority on traditional Malay literature and historiography) pointed out the early 1980s, having the monument to such an illustrious hero on Pulau Buru created a sense of ancestral legitimacy for the ruling elite of Riau and a sense of empowerment for the residents of the islands.[^32] The Singapore Stone can be seen functioning in a similar fashion, as a totem of legitimacy, for the city-state of Singapore.
 
+<div style="background-color: #fff6ba; padding:15px; margin: 10px; font-size=120%">This is an edited version of “Legendary Figures”, a chapter from <i>Keramat, Sacred Relics and Forbidden Idols in Singapore</i> by William L. Gibson (Routledge, 2024). The book is available for reference at the Lee Kong Chian Reference Library (call no. RSING 363.69095957 GIB). </div>
+
 #### **NOTES**
 [^1] Nor-Afidah Abdul Rahman, “[Legends of the Malay Kings](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/sejarah-malayu-malay-annals/),” _BiblioAsia_ 11, no. 4 (January–March 2016): 47–49.
 
