@@ -59,7 +59,7 @@ However, the exact location of Buru in the Annals is a mystery. There are a numb
 
 Leyden named the _tanjong_ “Barus”. Thomas Braddell (attorney-general of the Straits Settlements, 1867–82), in his 1851 annotated version of Leyden’s translation, wrote: “The champion was buried at Tanjong Buru, the extreme south west point of the Peninsula, opposite Point Macalister, or closer, Tanjong Gool in Singapore Island, but I cannot say if any traces remain of the monument erected by the Indian King.”[^11]
 
-In his 1828 travelogue, _Journal of an Embassy from the Governor-General of India to the Courts of Siam and Cochin China_, John Crawfurd (second Resident of Singapore, 1823–26) referred to the tanjong as “Tanjung Bulus, (correctly, Buros,) the most southern extremity of the continent, of Asia”.[^12]
+In his 1828 travelogue, _Journal of an Embassy from the Governor-General of India to the Courts of Siam and Cochin China_, John Crawfurd (second Resident of Singapore, 1823–26) referred to the _tanjong_ as “Tanjung Bulus, (correctly, Buros,) the most southern extremity of the continent, of Asia”.[^12]
 
 The Methodist missionary William G. Shellabear – in his second Rumi (Romanised Malay) translation of the _Sejarah Melayu_ (first edition in 1898) – called this _tanjong_ “Bulus” but claimed that Badang was buried in Buru.[^13]
 
