@@ -5,7 +5,7 @@ variant: markdown
 description: Uncovering the Origins of Badang the Strongman
 image: /images/Vol 21 Issue 1/Badang/img2.jpg
 ---
-#### Relics of Badang the Strongman can be found throughout the region. But who was this enigmatic figure?????
+#### Relics of Badang the Strongman can be found throughout the region. But who was this enigmatic figure?
 By William L. Gibson
 
 ![](/images/Vol%2021%20Issue%201/Badang/img2.jpg)
