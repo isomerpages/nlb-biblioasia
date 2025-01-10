@@ -8,8 +8,8 @@ image: /images/Vol 21 Issue 1/Badang/img2.jpg
 #### Relics of Badang the Strongman can be found throughout the region. But who was this enigmatic figure?
 By William L. Gibson
 
-![](/images/Vol%2019%20Issue%204%2F7%20Talentime/photo1.png)
-<div style="background-color: white;">The Tidbits clinched the top prize with their rendition of “I Believe” at the 1968 Talentime. They were one of the local bands to have recorded with RCA. <i>Jean Dabel Collection, courtesy of National Archives of Singapore.</i></div>
+![](/images/Vol%2021%20Issue%201/Badang/img2.jpg)
+<div style="background-color: white;">Badang the Strongman lifting a symbolically oversized “Singapore Stone” in a performance at the 2016 National Day Parade. <i>Photo by Choo Yut Shing. From Flickr.</i></div>
 
 On a lonely hill in a rubber plantation on the tiny island of Pulau Buru in the Riau Archipelago, there is a shrine above a grave said to be that of Badang the Strongman, whose exploits are recorded in the _Sulalat al-Salatin_ (Genealogy of Kings), popularly known as the _Sejarah Melayu_ or Malay Annals. This is an important literary work composed around the 17th century by Tun Seri Lanang, the _bendahara_ (prime minister) of the royal court of Johor, on the history and genealogy of the Malay kings of the Melaka Sultanate (1400–1511).[^1] 
 
