@@ -24,8 +24,15 @@ Eventually, Badang caught a _hantu_ (a spirit or demon) stealing his fish. In ex
 
 In a feat of strength, Badang tossed a massive stone from the king’s palace, atop what is today’s Fort Canning Hill, all the way to the mouth of the Singapore River, roughly 850 m away. Known variously as Tanjong Singhapura and Rocky Point, the accomplished Malay scholar and teacher Abdullah Abdul Kadir (better known as Munsyi Abdullah) described in his autobiography, _Hikayat Abdullah_ (Stories of Abdullah), the location as having “many large rocks, with little rivulets running between the fissures, moving like a snake that has been struck”. He reported that one of these stones, which resembled a garfish, was worshipped by the Orang Laut, or sea people: “To this rock they all made offerings in their fear of it, placing bunting on it treating it with reverence. ‘If we do not pay our respects to it,’ they said, ‘when we go in and out of the shallows it will send us to destruction’.”[^4]
 
+![](/images/Vol%2021%20Issue%201/Badang/img1.jpg)
+<div style="background-color: white;">An illustration of Badang lifting the rock by Khuzae Mohamed. <i>Image reproduced from Adi Alhadi, Badang (Kuala Lumpur: Edusystem, 1993). (From National Library, Singapore, call no. RSING 398.2 ADI-[ACL]).</i></div>
+
+
 #### **The Singapore Stone**
 The slab of rock with the illegible text was discovered in 1819. The rock was blown up in 1843 to enlarge the mouth of the Singapore River for the construction of Fort Canning and a fragment of it (estimated to be about 3 m tall, 2.7 m wide and 60–150 cm thick), known as the Singapore Stone today, is currently on display at the National Museum of Singapore.[^5]
+
+![](/images/Vol%2021%20Issue%201/Badang/img6.jpg)
+<div style="background-color: white;">The slab of rock with the illegible text was discovered in 1819. It was blown up in 1843 to enlarge the mouth of the Singapore River. This fragment, called the Singapore Stone, is on display at the National Museum of Singapore. <i>Collection of the National Museum of Singapore, National Heritage Board.</i></div>
 
 However, in the _Sejarah Melayu_, there is no mention of writing on the rock either before or after Badang had hurled it. The Annals merely note that Badang’s rock is located at the mouth of the river – but this may have been the garfish stone that Munsyi Abdullah had described in his autobiography. Nonetheless, the Singapore Stone and the story of Badang have been intertwined in the popular imagination of Singapore for almost as long as the colony itself. 
 
@@ -37,6 +44,12 @@ The _Raffles MS No. 18_ or _Raffles Manuscript 18_ version dated 1612 (named thu
 
 #### **Badang’s Grave**
 Most versions of the Annals mention that Badang is buried in a place called Buru (بورو). Today, on Pulau Buru, a small island south of Pulau Karimun in the Riau Archipelago, there is a shrine above a _makam_, or grave, believed to belong to Badang. Located on a remote hill in an old rubber plantation, the grave was likely the location of a nature shrine before the associations with Badang were made.
+
+![](/images/Vol%2021%20Issue%201/Badang/img3.jpg)
+<div style="background-color: white;">A map showing location of key sites in 2024.</div>
+
+![](/images/Vol%2021%20Issue%201/Badang/img5.jpg)
+<div style="background-color: white;">The grave believed to belong to Badang on Pulau Buru, December 2023. It is a long grave (<i>kubor panjang</i>) measuring 3.25 m, a sign of divine power. The gaharu tree is to the left. The grave was declared an official cultural site in 2010. <i>Photo by William L. Gibson.</i></div>
 
 There are three large trees inside the enclosure. The middle tree, marked as sacred with a yellow cloth, is most likely a _gaharu_, or agarwood tree (_Aquilaria malaccensis_), whose fragrant wood has long been prized for making incense, prayer beads, and Hindu and Buddhist idols. When I visited the place in 2023, the locals told me that the Badang grave had been there since the 1960s. The oldest reference in print that I could locate dates to 1972.[^9]
 
@@ -62,6 +75,9 @@ Could these gravestones at Bruas have been what inspired the story of the raja o
 
 There are carved stone pillars inscribed in Tamil (one is dated 1088) found at Barus, on the west coast of north Sumatra, offering a different trajectory for the story. Bruas is phonemically close to both Barus (باروس) and Buru, suggesting that the Buru in the Annals presents a localisation of Hindu stories to a peninsular context (or perhaps a copyist error that was repeated in subsequent editions). The trade and royal conflicts between Aceh, on the northwest tip of Sumatra, and the Malay Peninsula account for this cross-fertilisation of folktales.
 
+![](/images/Vol%2021%20Issue%201/Badang/img4.jpg)
+<div style="background-color: white;">The Lobu Tua Inscription on this stone (also called Barus Inscription) is in Tamil and dates to 1088. It was discovered in 1873 in North Sumatra, Indonesia. The description of Badang’s gravestone in the Malay Annals closely matches this inscription and similar Tamil-engraved stones found in Sumatra. This stone can be found in the collection of the National Museum of Jakarta. <i>Image reproduced from Histoire de Barus, Sumatra. II, Etudes Archéologique et Documents: Le Site de Lobu Tua (Paris: Association Archipel, 2003), 299. (From National Library, Singapore, call no. RSEA 959.81 HIS).</i></div>
+
 Yet another possibility is the well-known Sanskrit inscription carved into the side of a granite promontory facing the sea along the stretch of coast known as Pasir Panjang on the northwest coast of Pulau Karimun Besar, an island in the Riau Archipelago only a few kilometres from both Pulau Buru and Tanjong Buru/Bulus/Piai. The inscription, believed to date to the late Srivijaya period, describes indentations running down the sloping cliff as Buddha’s footprints. But legend has it that these indentations are the footprints of Badang.[^19]
 
 Not far from the inscription is a freshwater spring that was “regarded as _keramat_ (miracle-working) by local people, who would have come to take its water for ritual and medicinal purposes”.[^20] When I visited the site in 2023, the inscription had been converted into a shrine with Taoist and Hindu elements erected over the inscription.
@@ -76,6 +92,9 @@ Maxwell recalled a similar account in a Perak folktale. An old woman by the name
 These stories have clear resonances with the Badang tale in the Annals, but there are others from further afield than Perak.
 
 There is a version recorded in the _Folktales of Assam_ (1916) by Jnanadabhiram Barooah (a variant spelling of Barua) – a notable Indian Assamese writer, dramatist and barrister – and told by the Barua (or Baru) people from Chittagong in Assam titled “The Tale of a Singara Fish”. The singara or singhara (_Sperata seenghala_) is a type of large catfish commonly found in India and frequently featured in Bengali folktales (and makes for a flavourful curry dish). In this version, a poor fisherman catches the king of the singara fish, who, while riding a cow belonging to the fisherman, encounters a monster. The fish-king manages to subdue the monster who, to ensure its release, vomits a ring that becomes a house of gold for the fisherman. In the end, the fish-king reveals himself to be a human in disguise and the two agree to live together in the gold mansion.[^24]
+
+![](/images/Vol%2021%20Issue%201/Badang/img_7.jpg)
+<div style="background-color: white;">The singara, or catfish (<i>Sperata seenghala</i>). <i>Image reproduced from W.H. Syxes, “On the Fishes of the Dukhun,” in Transactions of the Zoological Society of London (Vol. 2), 1841, Biodiversity Heritage Library.</i></div>
 
 The image of a king riding a cow, a _vahana_ or animal mount, indicates the Hindu origins of the tale, which suggests that it may predate the Malay versions. The names Barua/Baru may also be indicators of the links to Barus/Buru in the Badang tale in the Annals. Another tale in the Barooah collection tells of a contest arranged by a king between a strong man and a trickster, which also carries elements of the Badang tale in which the champion fights another strong man sent by the sultan of Perlak, Aceh.[^25] 
 
