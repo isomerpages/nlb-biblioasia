@@ -107,5 +107,29 @@ However, the case spun on whether SISIR’s laboratory test was equivalent to re
 
 This instructive example shows the importance and limits of SISIR’s mediation. On one hand, SISIR could not end controversy through the imposition of a single uncontested interpretation of scientific facts. On the other hand, it displays SISIR’s scientific credibility – after all, neither party contested the credibility of SISIR or its testing, only what the correct interpretation of SISIR’s findings were.
 
+To commemorate the launch of the campaign, William Lee also designed a set of four stamps. He explained that each stamp’s design was carefully chosen for strategic messaging: the 15 cents stamp used giant cutouts of the three major sponsors of PQR – SISIR, SMA, and NTUC – to emphasise how the united striving of “hardworking Singaporeans make the PQR concept a reality;” the rainbow colouring on the text of the 35 cents stamp was meant to “[project] scientific precision and cleanliness” while the rosette shape evokes “an approval effect;” the repetitious and colourful layout of the 75 cents stamp and the $1 stamp’s gold logo against a white background were intended to associate the Singapore brand with prestige and quality. 
+
+In all, industrialisation was seen as the way to prosperity, and quality-consciousness seen as necessary for industrialisation – as Hon pithily put it, “If Singapore is to succeed as a manufacturing nation, we must all be proud of the made-in-Singapore as being synonymous with quality and reliability, and ensure it remains so.”  SISIR was understood to have a key role in this quest for quality – at the inauguration of the campaign, Hon announced that SISIR was going to be turned into an autonomous statutory board, with expanded powers and duties.  This transformation was accomplished a few months later through the Singapore Institute of Standards and Industrial Research Bill in July 1973.
+
+***The Standardised Consumer***
+
+As vital as overseas customers were, Singapore’s relative prosperity in the region meant that local consumers were also an important potential market. At the launch of the PQR campaign, the Executive Secretary of the newly minted CASE, Ivan Baptist, proclaimed that “CASE firmly believes that this Campaign will serve to eradicate once and for all the prejudices and suspicions about locally made products and reverse the current trend of purchasing more expensive imported products.” 
+
+Of the numerous approaches SISIR took to woo consumers, the most visually striking by far were the comics drawn by noted cartoonist Tan Huay Peng. Tan had been chief artist with the Straits Times, until the newspaper dropped political cartoons in August 1961.  He subsequently joined the EDB, where he continued his cartooning – SISIR periodically published pamphlets illustrated by him such as the 1976 Better Value for Money and the 1986 Buying for Specifications. A close reading of these pamphlets lets us trace how SISIR made a case for its importance in protecting consumer interests.
+
+To build a case for customers to avail its services, SISIR first constructed an image of the vulnerable consumer. Customers apparently used heuristics like attractive packaging, cost and advertisements, to help them make their choices in a crowded marketplace.
+
+Unfortunately, these heuristics were fallible, as consumers could not be certain about the provenance and quality of products. As the 1978 booklet Standards in Your Life pointed out, in an open economy like Singapore, “it is impossible for the consumer to judge visually whether paints are poisonous, the wiring of an electrical appliance is safe, a food product meets the health claims, and which brand gives better value for money.” 
+
+Standards, however, could cut through this cloud of uncertainty by letting consumers know whether a product’s essential requirements had been met, allowing them to avoid both unsafe and overpriced alternatives.
+
+Apart from cartoons, another medium for publicising SISIR and standards was through educational television programmes. For instance, an episode of the 1976 programme Home Economics - A Vital Force aimed at Secondary 3 students was “Stretch Your Dollar” – an attempt at helping young people become responsible consumers. The episode imparts general advice such as being financially prudent, checking the authenticity of products, and comparing prices. 
+
+The show urges viewers to buy good-quality goods since “products of good quality last longer and require less repair” and then informs them that in Singapore, SISIR certifies the quality of various products. Clips of SISIR technicians testing various consumer goods were shown, ranging from checking for excessive radiation in television sets to testing for bacteria in sweetened condensed milk. By bringing to attention the potential harms of low-quality products, SISIR could position itself as safeguarding consumers from those dangers. The show ends by asking “Don’t you think it is wiser to buy local products with the SISIR label?”
+
+The dangers that viewers were informed about, whether radiation or bacteria, were detectable only through scientific instruments. As the show makes clear, the promotion of quality-consciousness was never simply about sensitising people to the value of standards in the abstract – it was also about making people recognise and submit to the authority of a new set of professional actors who claimed expertise over standards and their appropriate deployment. The new export-oriented marketplace was a standardised space, coproduced alongside experts to educate, guide and authoritatively take charge. Both manufacturers and consumers benefited, as long as they participated in SISIR’s cycle of ever-improving standards and expectations.
 
 
+
+
+       
