@@ -129,7 +129,28 @@ The show urges viewers to buy good-quality goods since “products of good quali
 
 The dangers that viewers were informed about, whether radiation or bacteria, were detectable only through scientific instruments. As the show makes clear, the promotion of quality-consciousness was never simply about sensitising people to the value of standards in the abstract – it was also about making people recognise and submit to the authority of a new set of professional actors who claimed expertise over standards and their appropriate deployment. The new export-oriented marketplace was a standardised space, coproduced alongside experts to educate, guide and authoritatively take charge. Both manufacturers and consumers benefited, as long as they participated in SISIR’s cycle of ever-improving standards and expectations.
 
+#### **How Successful Was SISIR?**
+
+
+Evaluating SISIR’s “success” is a complex task – even for a straightforward goal like economic growth, it is impossible to specify what portion of Singapore’s success is attributable to SISIR’s activities. However, the very heterogeneity of SISIR’s aims and projects can be studied to gauge the institution’s efforts in a range of ways.
+
+One sign is the success of SISIR’s schemes. By 1974, the UN Industrial Development Organisation recognised the SISIR’s certification scheme as “well advanced and could serve as a model for most countries to follow”.  Even stronger evidence was the willingness of an increasing number of manufacturers to adopt SISIR’s various schemes. By the end of the 1980s, SISIR boasted that a total of 102 companies, manufacturing 972 products, held licences to use the SISIR quality mark.  In 1990 alone, 3,290 companies availed of its services.  The recognition of other standardisation bodies abroad of SISIR’s testing and certificates also speaks to the regard with which the institution was held. For example, SISIR was the first foreign agency in the world authorised to conduct inspection checks and award the Japan Industrial Standard mark.  
+
+Another approach is to consider the lack of open contestation about SISIR’s scientific authority – as the Body Shop bags example shows, even in the rare case when people chose to disagree with SISIR’s findings, they took issue with a particular test’s interpretation, not SISIR’s general authority or competence. SISIR’s decision not to mandate standards and to only incentivise their use seems to have rendered the institution largely unobjectionable. In his oral history account, Lee took pride in this fact:
+
+“I can boast for my 17 years in SISIR, not one single letter has been written to the press complaining about SISIR. Not one. Because it’s voluntary. I never passed any rules or forced anybody to come to me. You came out of your own free will. You think that we are useful. You pay on something we agreed on. So where is room for you to complain?” 
+
+A final dimension to be considered is advertising. As goods began acquiring quality certification from SISIR, advertisers featured this quality endorsement in their advertisements. Government-issued publicity material can be expected to sing the praises of government services regardless of sentiment on the ground. However, advertisers pay money for advertising and so have an interest in putting forward the strongest case they can for their products. Thus, it is telling that they regarded the association with SISIR as positive and valuable.
+
+For instance, a when JOVEN heater advertisement highlighted that it was “tested by SISIR”, it did not expand on what SISIR stood for or what its tests represented. Clearly advertisers thought SISIR and its role were established and authoritative enough to warrant consumer attention. The graph below tracks the frequency of advertising mentioning “SISIR” in English-language newspapers.
+
+The popularity of such advertisements was particularly pronounced from the late 1980s, reaching a peak in 1994. The cause of this spike was the launch of SISIR’s certification scheme for the ISO 9000 standards for quality management in 1988.  The scheme received special impetus when it was understood that ISO certification would be mandatory for exporting into the newly forming European Union.  By 1993, 400 different companies had obtained ISO 9000 certification from SISIR. 
+
+Advertisements highlighting testing by SISIR continued after 1996 – the year SISIR merged with the National Productivity Board to form the Productivity and Standards Board (PSB), bringing a close to SISIR. The stickiness of the SISIR label can be explained in part as advertisers using SISIR’s brand for credibility even after the institute ceased to exist – after all its reputation did not disappear overnight. It was also because SISIR’s labels were literally stuck onto merchandise, and therefore continued to be advertised and circulated with those goods on which they were pasted.
+
+Certainly none of these measures, not even all of them taken together, indicate that SISIR was universally known, let alone beloved. But they make a compelling case that SISIR was taken seriously in its time and granted importance and authority in its domain. Now the question is whether SISIR will be given its well-deserved due in Singapore’s historical record.
 
 
 
-       
+
+
