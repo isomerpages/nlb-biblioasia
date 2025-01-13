@@ -41,7 +41,7 @@ Singapore had its fair share of colonial administrators who subscribed
 to these ideas. Raffles himself, until so recently considered a progressive
 administrator, believed in a metaphorical racial ladder, the highest rungs of
 which were occupied by Europeans, followed by those natives who adopted
-Western modes of behaviour, lifestyle and clothing.5
+Western modes of behaviour, lifestyle and clothing.[^5]
 
 Four decades after leaving Singapore, its second Resident, the inveterate
 traveller and writer John Crawfurd, observed:
@@ -52,15 +52,14 @@ traveller and writer John Crawfurd, observed:
 
      moral sense, the European, placed under equally favourable
 
-     conditions, is greatly superior to the Asiatic.6
-
+     conditions, is greatly superior to the Asiatic.[^6]
 Sir Frederick Weld, Governor of the Straits Settlements (1880–87),
 echoed similar sentiments: “I think that capacity for governing is a
 characteristic of our race, and it is wonderful to see in a country like the
-Straits.”7 The Chinese, in Weld’s estimation, depended on the British to look
+Straits.”[^7] The Chinese, in Weld’s estimation, depended on the British to look
 after them much as “a groom looks after a horse”, and the Malays were in
 awe of British probity even in the face of the most alluring 
-temptations.8
+temptations.[^8]
 
 In the second half of the 19th century, both the opening of the Suez
 Canal and the long-distance steamship’s increasing dominance of the ocean
