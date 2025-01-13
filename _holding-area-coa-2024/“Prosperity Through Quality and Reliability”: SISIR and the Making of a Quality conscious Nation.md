@@ -281,7 +281,7 @@ Certainly none of these measures, not even all of them taken together, indicate 
 
 [^53]: Hon Sui Sen, “[The Singapore Manufacturers' Association Dinner](https://www.nas.gov.sg/archivesonline/speeches/record-details/7c852cc8-115d-11e3-83d5-0050568939ad),” speech, Mandarin Court Restaurant, 30 June 1972, transcript, Ministry of Culture. (From National Archives of Singapore, document no. Pressr19720630)
 
-[^54]: _Why Labour Must Go Modern! The NTUC Case for a Modernized Labour Movement_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4081659) (Singapore: National Trades Union Congress, 1970) (From National Library, Singapore, call no. RCLOS 331.88 SEM)
+[^54]: [_Why Labour Must Go Modern! The NTUC Case for a Modernized Labour Movement_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4081659) (Singapore: National Trades Union Congress, 1970) (From National Library, Singapore, call no. RCLOS 331.88 SEM)
 
 [^55]: [_Prosperity Through Quality and Reliability Campaign (Under the Distinguished Patronage of Mr Hon Sui Sen, Minister of Finance):_ _Commemorative Programme 23 February 1973_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200111515) (Singapore: PQR Campaign Organising Committee, 1973) (From PublicationSG)
 
