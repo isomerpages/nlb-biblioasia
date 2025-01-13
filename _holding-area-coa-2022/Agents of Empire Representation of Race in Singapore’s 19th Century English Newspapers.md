@@ -75,7 +75,7 @@ In December 1853, for example, the <i>Singapore Free Press and Mercantile
 Advertiser</i> published a report on a phrenology lecture given by a Mr Sargent
 to a “numerous audience”; decades later, the <i>Mid-Day Herald</i> excitedly
 announced the arrival of Mrs Josepha North, a sculptor turned renowned
-phrenologist, on the island’s shores.9 Phrenology, a now discredited science, claimed a relationship between various races’ skull shapes and intelligence,
+phrenologist, on the island’s shores.[^9] Phrenology, a now discredited science, claimed a relationship between various races’ skull shapes and intelligence,
 and the race it deemed the most intelligent was obvious.
 
 Occasionally, the  <i> Free Press </i>  printed chapters from new books in
@@ -94,7 +94,7 @@ called  <i> People in a Native State </i> , published on 2 December 1893, is ill
 
      that “Comet” and other wonderful but undrinkable beverages
 
-     may no longer adorn (?) their hospitable tables.10
+     may no longer adorn (?) their hospitable tables.[^10]
 
 But the newspapers’ role extended beyond mere conduits of information;
 they must be situated within a suitable theoretical framework.
@@ -104,7 +104,7 @@ In the late 19th century, the national newspaper, along with the telegraph,
 was critical to empire and empire-building (and eventually, to those who
 opposed empire). Various British governments sought to control information
 flow, shape the interpretation of events and form “symbiotic” relationships
-with newswires like Reuters for their own political ends.11
+with newswires like Reuters for their own political ends.[^11]
 
 Papers in imperial outposts like the Straits Settlements with their
 insignificant English-reading population could not bring down governments
@@ -133,16 +133,16 @@ In critiquing colonial knowledge structures, Edward Said defined
 Orientalism as “a library or archive of information commonly and, in some
 of its aspects, unanimously held. What bound the archive together was a
 family of ideas and a unifying set of values proven in various ways to be
-effective”.12 English newspapers in 19th-century Singapore belonged to
+effective”.[^12] English newspapers in 19th-century Singapore belonged to
 this archive.
 
 An important element in this family of ideas was the colonial power’s
 imagination of itself. The British saw themselves as superior not just
 economically and militarily but also politically and ethically – a unique
-people destined to bring progress to the non-white world.13 Superiority was
+people destined to bring progress to the non-white world.[^13] Superiority was
 possible only by being separate, by creating an identity distinct from that of
 the natives. When the British first landed on Indian shores as mere traders,
-for example, they carved out residential enclaves away from the natives.14
+for example, they carved out residential enclaves away from the natives.[^14]
 At home, in offices or out hunting in the field, they maintained a studied
 aloofness from local customs, traditions and populations. This tendency
 intensified when they became the dominant political and military force
@@ -150,22 +150,22 @@ in South and Southeast Asia. By 1867, expression of this separateness had
 become the norm.
 
 “Don’t admit that you’re living in an Oriental country, live nearly as
-possible as you would in Europe,” was Roland Braddell’s advice to his countrymen in Singapore.15 Broadsheets helped in this endeavour by
+possible as you would in Europe,” was Roland Braddell’s advice to his countrymen in Singapore.[^15] Broadsheets helped in this endeavour by
 carrying in-depth reports on quintessentially English sports like cricket
 and drag hunting and by publishing wistful memories of Christmas “back
-home”, among other things.16 In fact, in elucidating its aims and objectives,
+home”, among other things.[^16] In fact, in elucidating its aims and objectives,
 the first-ever issue of the Straits Times indicated a desire to engender British
 nationalism among the Straits Englishmen who found themselves so far
-away from home.17
+away from home.[^17]
 
 Such reporting created a variation of Benedict Anderson’s concept of the
 nation as an “imagined community” – an imagined <i>imperial</i> community
 that connected one Englishman to another, separate from the traditions
 of the place that they physically inhabited and superior to the races of
-the region.18 News from London, commodity prices, ship arrivals and
+the region.[^18]  News from London, commodity prices, ship arrivals and
 departures, colonial appointments, births and deaths all connected the
 empire’s frontiers to its hub. The English were <i>in</i> Singapore, but often
-not <i>of</i> it.
+not <i>of</i>  it.
 
 English newspapers in the 19th century can thus be analysed under
 the rich theoretical tradition of postcolonial studies. It is to three such
@@ -176,7 +176,7 @@ Advocate</i> (SEA) emphasised Eurasian identity and represented Indian and
 Chinese immigrants in 1888, and how the <i>Straits Observer</i> (SO) depicted the
 Malays during a short-lived but acute crisis in Perak in 1876. These papers
 were accessed via NewspaperSG, the newspaper archive of Singapore’s
-National Library.19
+National Library.[^19]
 
 #### **How They Make Us Laugh**
 
@@ -188,7 +188,7 @@ National Library.19
 
      to brush himself up, which caused not a little laughter and
 
-     merriment.20
+     merriment.[^20]
 
 The festive season in Singapore – a fortnight that included Christmas
 and the New Year – usually ended with a full day of sporting activities at
@@ -202,15 +202,15 @@ the Europeans. In a rare instance when the two were forced to mingle, the
 ST was quick to point out that “it would be better if on a future occasion
 the arrangements for the comfort of Europeans were amplified. There were
 many Europeans who were standing all afternoon among the natives, and
-that is not altogether pleasant”.21
+that is not altogether pleasant”.[^21]
 
 Since the English could not afford to be seen being beaten by the locals,
 the competition was segregated too. What was more, the sports themselves differed. Europeans participated in “foot races and athletic exercises; and in
 the sack race, three legged race, boxing match, and race with water buckets
-poised on the head”.22 The natives walked a greasy tongkang boom to pluck
+poised on the head”.[^22] The natives walked a greasy tongkang boom to pluck
 a twig or a flag from the end, vied to eat the most number of hard biscuits
 and dunked their heads into buckets of treacle in search of a half-dollar
-coin.23 By the close of the century, “rikisha pulling” – in which Chinese and
+coin.[^23] By the close of the century, “rikisha pulling” – in which Chinese and
 Indians raced rickshaws carrying a European passenger over a distance of
 220 yards – had been introduced to the programme.
 
