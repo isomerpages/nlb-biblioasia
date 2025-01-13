@@ -250,23 +250,23 @@ Oral Answers to Questions, 2 September 1970, col. 181, [https://sprs.parl.gov.sg
 
 [^36]: Singapore Institute of Standards and Industrial Research Bill 1973, Bill 43 of 1973, [provision 36](https://sso.agc.gov.sg/Bills-Supp/43-1973/Published/19730716?DocDate=19730716).
 
-\[1\] Singapore Institute of Standards and Industrial Research Bill 1973, Bill 43 of 1973, [provision 17](https://sso.agc.gov.sg/Bills-Supp/43-1973/Published/19730716?DocDate=19730716&amp;WholeDoc=1#pr17-).
+[^37]: Singapore Institute of Standards and Industrial Research Bill 1973, Bill 43 of 1973, [provision 17](https://sso.agc.gov.sg/Bills-Supp/43-1973/Published/19730716?DocDate=19730716&amp;WholeDoc=1#pr17-).
 
-\[1\] Singapore Institute of Standards and Industrial Research Bill 1973, Bill 43 of 1973, [provision 17](https://sso.agc.gov.sg/Bills-Supp/43-1973/Published/19730716?DocDate=19730716&amp;WholeDoc=1#pr17-).
+[^38]:Singapore Institute of Standards and Industrial Research Bill 1973, Bill 43 of 1973, [provision 17](https://sso.agc.gov.sg/Bills-Supp/43-1973/Published/19730716?DocDate=19730716&amp;WholeDoc=1#pr17-).
 
-\[1\] Singapore Institute of Standards and Industrial Research, [_Annual Report 1973/74_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308) (Singapore: Singapore Institute of Standards and Industrial Research, 1974), 14. (From National Library, Singapore, call no. RCLOS 354.5957093 SISIRA)
+[^39]: Singapore Institute of Standards and Industrial Research, [_Annual Report 1973/74_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308) (Singapore: Singapore Institute of Standards and Industrial Research, 1974), 14. (From National Library, Singapore, call no. RCLOS 354.5957093 SISIRA)
 
-\[1\] Singapore Institute of Standards and Industrial Research, [_Annual Report 1974/75_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308) (Singapore: Singapore Institute of Standards and Industrial Research, 1975), 8. (From National Library, Singapore, call no. RCLOS 354.5957093 SISIRA)
+[^40]: Singapore Institute of Standards and Industrial Research, [_Annual Report 1974/75_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308) (Singapore: Singapore Institute of Standards and Industrial Research, 1975), 8. (From National Library, Singapore, call no. RCLOS 354.5957093 SISIRA)
 
-\[1\] Sandra Davie, “[Baby, Have We Got News for You](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19890904-1.2.28.16),” _Straits Times_, 4 September 1989, 15. (From NewspaperSG)
+[^41]: Sandra Davie, “[Baby, Have We Got News for You](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19890904-1.2.28.16),” _Straits Times_, 4 September 1989, 15. (From NewspaperSG)
 
-\[1\] “[Environment-Friendly Bags Available in S’pore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19900101-1.2.23.13),” _Straits Times_, 1 January 1990, 20. (From NewspaperSG)
+[^42]: “[Environment-Friendly Bags Available in S’pore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19900101-1.2.23.13),” _Straits Times_, 1 January 1990, 20. (From NewspaperSG)
 
-\[1\] Lim Phay-Ling, “[Carrier Bags With a Big Difference](https://eresources.nlb.gov.sg/newspapers/digitised/article/newpaper19900312-1.2.6.9),” _New Paper_, 12 March 1990, 6. (From NewspaperSG)
+[^43]: im Phay-Ling, “[Carrier Bags With a Big Difference](https://eresources.nlb.gov.sg/newspapers/digitised/article/newpaper19900312-1.2.6.9),” _New Paper_, 12 March 1990, 6. (From NewspaperSG)
 
-\[1\] “SAS Observes Earth Day 1990,” [_Singapore American_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4184528), 34, no. 5 (May 1990): 20. (From National Library, Singapore, call no. RCLOS 051 SA)
+[^44]: “SAS Observes Earth Day 1990,” [_Singapore American_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4184528), 34, no. 5 (May 1990): 20. (From National Library, Singapore, call no. RCLOS 051 SA)
 
-\[1\] “SAS Earth Day Update,” in [_Singapore American_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4184528), 34, no, 5 (June 1990): 19. (From National Library, Singapore, call no. RCLOS 051 SA)
+[^45]: “SAS Earth Day Update,” in [_Singapore American_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4184528), 34, no, 5 (June 1990): 19. (From National Library, Singapore, call no. RCLOS 051 SA)
 
 \[1\] “[Bagging the Claim](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19900616-1.2.42.1.4),” _Business Times_, 16 June 1990, 17. (From NewspaperSG)
 
