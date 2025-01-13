@@ -48,12 +48,21 @@ The _Raffles MS No. 18_ or _Raffles Manuscript 18_ version dated 1612 (named thu
 #### **Badang’s Grave**
 Most versions of the Annals mention that Badang is buried in a place called Buru (بورو). Today, on Pulau Buru, a small island south of Pulau Karimun in the Riau Archipelago, there is a shrine above a _makam_, or grave, believed to belong to Badang. Located on a remote hill in an old rubber plantation, the grave was likely the location of a nature shrine before the associations with Badang were made.
 
-![](/images/Vol%2021%20Issue%201/Badang/img5.jpg)
+![](/images/Vol%2021%20Issue%201/Badang/img5a.jpg)
 <div style="background-color: white;">The grave believed to belong to Badang on Pulau Buru, December 2023. It is a long grave (<i>kubor panjang</i>) measuring 3.25 m, a sign of divine power. The <i>gaharu</i> tree is to the left. The grave was declared an official cultural site in 2010. <i>Photo by William L. Gibson.</i></div>
+
+![](/images/Vol%2021%20Issue%201/Badang/img8.jpg)
+<div style="background-color: white;">An aerial view of Badang’s grave.&nbsp;<i>Photo by William L. Gibson.</i></div>
 
 There are three large trees inside the enclosure. The middle tree, marked as sacred with a yellow cloth, is most likely a _gaharu_, or agarwood tree (_Aquilaria malaccensis_), whose fragrant wood has long been prized for making incense, prayer beads, and Hindu and Buddhist idols. When I visited the place in 2023, the locals told me that the Badang grave had been there since the 1960s. The oldest reference in print that I could locate dates to 1972.[^9]
 
 It is a long grave, measuring 3.25 m, with natural, uncarved stones for the _batu nisan_ (gravestone). An engraved plaque dedicated in 2006, with a poem titled “Hikayat Datok Sibadang”, is embedded in the wall of the concrete structure above the grave. A sign reminds visitors that the grave is an officially protected monument that cannot be disturbed. The site has been managed by the Tanjung Balai Karimun Tourism Office since 2010.[^10]
+
+![](/images/Vol%2021%20Issue%201/Badang/img9.jpg)
+<div style="background-color: white;">The plaque with the poem can be seen embedded in the wall at the head.&nbsp;<i>Photo by William L. Gibson.</i></div>
+
+![](/images/Vol%2021%20Issue%201/Badang/img10.jpg)
+<div style="background-color: white;">The <i>batu nisan</i> or marker at the head of the grave. It appears to be an unusually shaped natural stone, although older descriptions of the site claim the <i>batu nisan</i> was once engraved. <i>Photo by William L. Gibson.</i></div>
 
 However, the exact location of Buru in the Annals is a mystery. There are a number of possible places around the region that could be the location of Buru. Nineteenth-century British commentators took it to mean Tanjong Buru, also known as Tanjong Bulus, located at the mouth of the Selat Tebrau, or the entrance to what period maps refer to as the “Old Straits of Singapore”, where Leyden said the monument could be found. This point is now known as Tanjong Piai in Johor, Malaysia. Seventeenth- and eighteenth-century European maps show the name of the _tanjong_ (“cape” or “promontory” in Malay) as “Buro”, “Baro”, “Boro”, “Boulas” and “Bouro”. The spelling “Buru” did not appear until the 19th century, although “Boulus” and “Peie” (modern Piai) are found in mid-19th-century maps. Some European maps from this period used all three names.
 
@@ -81,6 +90,9 @@ There are carved stone pillars inscribed in Tamil (one is dated 1088) found at B
 Yet another possibility is the well-known Sanskrit inscription carved into the side of a granite promontory facing the sea along the stretch of coast known as Pasir Panjang on the northwest coast of Pulau Karimun Besar, an island in the Riau Archipelago only a few kilometres from both Pulau Buru and Tanjong Buru/Bulus/Piai. The inscription, believed to date to the late Srivijaya period, describes indentations running down the sloping cliff as Buddha’s footprints. But legend has it that these indentations are the footprints of Badang.[^19]
 
 Not far from the inscription is a freshwater spring that was “regarded as _keramat_ (miracle-working) by local people, who would have come to take its water for ritual and medicinal purposes”.[^20] When I visited the site in 2023, the inscription had been converted into a shrine with Taoist and Hindu elements erected over the inscription.
+
+![](/images/Vol%2021%20Issue%201/Badang/img11.jpg)
+<div style="background-color: white;">The shrine with Hindu and Taoist elements erected near the promontory along Pasir Panjang on Pulau Karimun Besar, December 2023. <i>Photo by William L. Gibson.</i></div>
 
 #### **Folk Hero**
 Badang’s Orang Benua origin is a significant part of his local identity. In 1847, J.R. Logan, founder and editor of the _Journal of the Indian Archipelago and Eastern Asia_, noted that the Malays called the Orang Benua living around Sayong both _orang utan_ (“men of the forest”) and _orang dalat liar_ (“wild men of the interior”). In the Annals, Badang’s power bestowed by the river spirit is linked to this Malay interpretation of Orang Benua as being similar to orangutans (great apes native to Borneo and Sumatra).[^21] However, the supernatural element of the tale was not limited to Johor.
@@ -118,7 +130,7 @@ While the Batu Belah and other markers of Badang in Johor appear to be gone toda
 <div style="background-color: white;">
 <br>
 <img src="/images/Authors/william_gibson.png" style="width: 100px; height: 100px;">
-	<b>Dr William L. Gibson</b> is an author and researcher based in Southeast Asia since 2005. A former Lee Kong Chian Research Fellow of the National Library, Singapore, his most recent book is <i>Keramat, Sacred Relics and Forbidden Idols in Singapore</i> (2024), published by Routledge as part of their Contemporary Southeast Asia series. His book <i>Alfred Raquez and the French Experience of the Far East, 1898–1906</i> (2021) was published by Routledge as part of its Studies in the Modern History of Asia series. Gibson’s articles have appeared in <i>Signal to Noise</i>, PopMatters.com, <i>The Mekong Review, Archipel, History and Anthropology</i>, the <i>Bulletin de l’École française d’Extrême-Orient</i> and <i>BiblioAsia</i>, among others.</div>
+	<b>Dr William L. Gibson</b> is an author and researcher based in Southeast Asia since 2005. A former Lee Kong Chian Research Fellow of the National Library Singapore, his most recent book is <i>Keramat, Sacred Relics and Forbidden Idols in Singapore</i> (2024), published by Routledge as part of their Contemporary Southeast Asia series. His book <i>Alfred Raquez and the French Experience of the Far East, 1898–1906</i> (2021) was published by Routledge as part of its Studies in the Modern History of Asia series. Gibson’s articles have appeared in <i>Signal to Noise</i>, PopMatters.com, <i>The Mekong Review, Archipel, History and Anthropology</i>, the <i>Bulletin de l’École française d’Extrême-Orient</i> and <i>BiblioAsia</i>, among others.</div>
 
 #### **NOTES**
 [^1]: Nor-Afidah Abdul Rahman, “[Legends of the Malay Kings](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/sejarah-malayu-malay-annals/),” _BiblioAsia_ 11, no. 4 (January–March 2016): 47–49.
@@ -133,7 +145,7 @@ While the Batu Belah and other markers of Badang in Johor appear to be gone toda
 
 [^6]: Peter James Begbie, [_The Malayan Peninsula: Embracing Its History, Manners and Customs of the Inhabitants, Politics, Natural History, Etc. from Its Earliest Records_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=f723409c-95e3-47d1-aeb3-cb2dbc568b8a) (Madras: Vepery Mission Press, 1834), 358. (From National Library Online). Yet another version that links Badang to the stone is found in John Cameron, [_Our Tropical Possessions in Malayan India_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=7658c549-f1c5-47c7-b8b6-831f7eb90c58) (London: Smith, Elder, 1865), 49–51. (From National Library Online)
 
-[^7]: John Leyden, [_Malay Annals: Translated from the Malay Language by the Late Dr. John Leyden With an Introduction by Sir Thomas Stamford Raffles_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=403dde58-c3c4-4a53-ba21-f11e813f434f) (London: Longman, Hurst, Rees, Orme and Brown, 1821), 63. (From National Library Online)
+[^7]: John Leyden, [_Malay Annals: Translated from the Malay Language by the Late Dr. John Leyden with an Introduction by Sir Thomas Stamford Raffles_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=403dde58-c3c4-4a53-ba21-f11e813f434f) (London: Longman, Hurst, Rees, Orme and Brown, 1821), 63. (From National Library Online)
 
 [^8]: R.O. Winstedt, “The Malay Annals or Sejarah Melayu: The Earliest Recension from MS. No. 18 of the Raffles Collection, in the Library of the Royal Asiatic Society, London,” _Journal of the Malayan Branch of the Royal Asiatic Society_ 16, no. 3 (132) (December 1938): 1–226. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
@@ -141,7 +153,7 @@ While the Batu Belah and other markers of Badang in Johor appear to be gone toda
 
 [^10]: Dewi Saptiani and Amesih Amesih, “Eksistensi Makam Badang Sebagai Wisata Religi di Pulau Buru, Tanjung Balai Karimun,” _Historia: Jurnal Program Studi Pendidikan Sejarah_ 2, no. 1 (2017): 25–39, [https://www.journal.unrika.ac.id/index.php/journalhistoria/article/view/1572](https://www.journal.unrika.ac.id/index.php/journalhistoria/article/view/1572). In the version related here, Badang was said to be a native of Pulau Buru.
 
-[^11]: Thomas Braddell, “Abstract of the Sijara Malayu or Malayan Annals with Notes,” [_The Journal of the Indian Archipelago and Eastern Asia_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=96e662cb-55ca-48bd-af98-a0a9b5d4eaa5) 5 (1851), 249, n. 7. (From National Library Online)
+[^11]: Thomas Braddell, “Abstract of the Sijara Malayu or Malayan Annals with Notes,” [_The Journal of the Indian Archipelago and Eastern Asia_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=96e662cb-55ca-48bd-af98-a0a9b5d4eaa5) 5 (1851): 249, n. 7. (From National Library Online)
 
 [^12]: This is a record of John Crawfurd’s commercial and diplomatic mission to the courts of Siam (now Thailand) and Cochin China (present-day South Vietnam) from 1821–22. See John Crawfurd, [_Journal of an Embassy from the Governor-General of India to the Courts of Siam and Cochin China_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=78831281-b72c-4981-afd0-7a448179e707) (London: Printed by S. and R. Bentley, 1828), 41. (From National Library Online)
 
