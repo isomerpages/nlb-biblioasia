@@ -224,7 +224,7 @@ Of the biscuit-eating, the ST intoned thus:
 
      added] of themselves and were accordingly awarded $2.25
 
-     between them.24
+     between them.[^24]
 
 Treacle-dipping did not escape the paper’s lampooning either:
 
@@ -242,12 +242,12 @@ Treacle-dipping did not escape the paper’s lampooning either:
 
      the sea, was probably  <i> the most comical part of the business </i> 
 
-     [emphases added].25
+     [emphases added].[^25]
 	
 Such reportage reduced the natives to caricature, clowns in a
 circus conducted by English ringmasters. In Singapore, as elsewhere,
 infantilisation of the colonised populations was key to perpetuating the
-notion of English superiority.26 One newspaper gleefully narrated events from Bangalore, India, where “rather a novel mode of amusement has been
+notion of English superiority.[^26] One newspaper gleefully narrated events from Bangalore, India, where “rather a novel mode of amusement has been
 introduced by the officers of the 21st Hussars”.27 The soldiers pitted their
 Indian servants – syces (horse carers) against cooks – in a cricket match.
 Not being familiar with the sport, the servants’ clumsy attempts at playing
