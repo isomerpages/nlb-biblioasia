@@ -559,7 +559,63 @@ affect their standing among the natives through the entire region. Thus,
 as the war got bloodier and British losses mounted, venomous frustration
 spilled over on the SO’s pages.
 
+     There would be a great deal of moral suasion in placing a
 
+     hobnailed boot on the bare back of a Malay. Another moral
+
+     suasion project is to have some gun practice. How the Malays
+
+     would stare to see an extempore butt, a target in mid stream
+
+     smashed to atoms.63
+
+As the tide began to turn in Britain’s favour, attention switched to what
+should be done with Perak. Leaving it to the “Chiefs and Chinamen” to
+fight it out was out of the question. One newspaper thought of installing
+a “native puppet” whose strings would be in English hands, while the SO
+suggested that “as we shall have to govern it in any case, we may as well
+govern it openly, without the inconvenient hypocrisy of using a native
+speaking-trumpet”.64 As it turned out, one such puppet and trumpet by
+the name of Raja Yusof was installed with a new Resident, Hugh Low, in
+tow, thus entrenching British dominance in the Malay states for a long time
+to come.
+
+#### **Conclusion**
+
+Newspapers were alchemical agents that repackaged “scientific theories” of
+racial superiority into nuggets that could be easily internalised. Depending
+on the context, representations of local races swung between cartoonish
+and exotic, childish and brutish. *Naturally*, the native on the sports field
+was a buffoon; *obviously* one did not want to associate with a black man
+just because he had shoved himself into coat and trousers; *was there any
+doubt* that the mutinous Malay was nothing but a treacherous savage? By
+monotonous repetition, newspapers hammered home these ideas until they
+became as real as the ink in which they were printed.
+
+The same held true for the British self-image. *Undeniably*, British sports
+were more attractive and the competition more palatable; of course the
+British mission was to civilise the locals for their own good. As Charles
+Hirschman noted, “Racism provided a rationale for the ‘white man’s burden’
+of leading, ruling, or conquering peoples at ‘lower evolutionary stages’
+throughout the world. This ideology fitted well with the British need to
+justify its empire.”65
+
+The empire casts a long shadow, and old stereotypes continue to
+infiltrate modern popular culture. A study conducted in 2020 on football
+commentary concluded that it “hardens the view of black athletes being their ‘God-given’ physical and athletic attributes”.66 Closer to home, the
+“*lepak* Malay guy” is a trope that has endured ever since Malays were
+characterised as a lazy, uncivilised race for their refusal to be a part of
+colonial capitalism.67 None of this is new, but by making newspapers the
+foci of analysis, it becomes apparent that 19th-century newspapers that
+framed their concerns in starkly racial terms foreshadowed the racially
+tinged immigration debates occurring in Singapore today.68
+
+#### **Acknowledgements**
+
+*I would like to thank Professor Alan Chong of Nanyang Technological University for
+his unstinting support and guidance in the writing of this paper. The National Library’s
+Joanna Tan was extremely helpful and prompt in responding to the umpteen enquiries I
+sent her way. She is the backbone of the Lee Kong Chian Fellowship programme.*
 
 
 
