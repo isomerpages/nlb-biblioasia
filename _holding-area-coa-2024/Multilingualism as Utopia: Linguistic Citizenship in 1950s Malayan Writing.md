@@ -17,7 +17,8 @@ a nascent Malayan consciousness began to take shape, with important implications
 for literary and cultural activities. More specifically, this period of
 extraordinary flux in identity incubated the notion of a distinctive Malayan
 literature and culture, a hitherto nonexistent category, thereby opening
-the way to a vibrant tradition of creative writing in the region.<p></p>
+the way to a vibrant tradition of creative writing in the region.
+
 This article looks at two parallel developments in the Chinese-language
 and English-language literary circles during this period. Both involved
 multilingual innovation in the written language, namely the infusion of
