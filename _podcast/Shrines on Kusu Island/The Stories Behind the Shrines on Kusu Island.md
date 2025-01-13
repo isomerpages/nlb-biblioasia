@@ -18,12 +18,12 @@ Available on: [Spotify](https://open.spotify.com/episode/12nHrDUKtxEF8F5zup9xK3)
 [Subscribe](https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN) to get notified when the next episode drops.
 
 #### **About the Guest** ####
-Dr William L. Gibson is an author and researcher based in Southeast Asia since 2005. His research topic for the Lee Kong Chian Research Fellowship, awarded by the National Library Board in 2021, was an in-depth study of [<i>keramat</i> in Singapore](https://www.academia.edu/88697484/Complete_Catalog_of_Keramat_in_Singapore). His book [*Alfred Raquez and the French Experience of the Far East, 1898–1906*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205464044) (2021) was published by Routledge as part of its Studies in the Modern History of Asia series. Gibson’s articles have appeared in *Signal to Noise*, PopMatters.com, *The Mekong Review*, *Archipel*, *History and Anthropology*, *Bulletin de l’École française d’Extrême-Orient* and *BiblioAsia*, among others.
+Dr William L. Gibson is an author and researcher based in Southeast Asia since 2005. His research topic for the Lee Kong Chian Research Fellowship, awarded by the National Library Board in 2021, was an in-depth study of [<i>keramat</i> in Singapore](https://catalogue.nlb.gov.sg/search/card?recordId=67da757c-ef09-4a4a-ae7a-05ca7afa8185:oaipmh/Complete_Catalog_of_Keramat_in_Singapore). His book [*Alfred Raquez and the French Experience of the Far East, 1898–1906*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205464044) (2021) was published by Routledge as part of its Studies in the Modern History of Asia series. Gibson’s articles have appeared in *Signal to Noise*, PopMatters.com, *The Mekong Review*, *Archipel*, *History and Anthropology*, *Bulletin de l’École française d’Extrême-Orient* and *BiblioAsia*, among others.
 
 #### **Resources** ####
 William Gibson, “[The Origin Stories of Keramat Kusu](https://biblioasia.nlb.gov.sg/vol-18/issue-4/jan-mar-2023/shrines-keramat-kusu/),” *BiblioAsia* 18, no. 4 (2023). 
 
-William Gibson, *[Complete Catalog of Keramat in Singapore](https://www.academia.edu/88697484/Complete_Catalog_of_Keramat_in_Singapore)*, Academia, 2022. 
+William Gibson, *[Complete Catalog of Keramat in Singapore](https://catalogue.nlb.gov.sg/search/card?recordId=67da757c-ef09-4a4a-ae7a-05ca7afa8185:oaipmh)*, Academia, 2022. 
 
 Jack Chia Meng-Tat, “Who Is Tua Pek Kong? The Cult of Grand Uncle in Malaysia and Singapore,” *Archiv Orientální* 85, no. 3 (2017): 437–60. (From ProQuest via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website) 
 
