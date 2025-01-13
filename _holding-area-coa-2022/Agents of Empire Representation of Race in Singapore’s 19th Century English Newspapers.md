@@ -618,5 +618,142 @@ Joanna Tan was extremely helpful and prompt in responding to the umpteen enquiri
 sent her way. She is the backbone of the Lee Kong Chian Fellowship programme.*
 
 
+<br>
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/Abhishek_Mehrotra.png">
+<b>Abhishek Mehrotra</b> is a researcher, editor and writer with more than a decade’s
+experience covering history, society, culture and sports in South and Southeast Asia.
+He has been an editor with ESPNstar.com and Newscorp Singapore, and a journalist
+and history researcher at The Confluence Media, New Delhi. Abhishek holds a master’s
+degree in international relations from the S. Rajaratnam School of International
+Studies, Nanyang Technological University.</div>
+
+
+#### **BIBLIOGRAPHY**
+
+         
+
+**Primary Sources**
+
+Cameron, John. [_Our Tropical Possessions in Malayan India: Being a Descriptive Account of Singapore, Penang, Province Wellesley and Malacca: Their Peoples, Products, Commerce and Government_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=7658c549-f1c5-47c7-b8b6-831f7eb90c58). Facsimile reprint, 2015. London: Smith Elder and Co., 1865. (From National Library Online; Call no. RRARE 959.5 CAM; Accession no. B29032445G)
+
+Crawfurd, John. “On the Physical and Mental Characteristics of the European and Asiatic Races of Man.” _Transactions of the Ethnological Society of London_, 5 (1866): 58–81. (From EBSCOhost via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Makepeace, Walter. “Institutions and Clubs.” In [_One Hundred Years of Singapore: Being Some Account of the Capital of the Straits Settlements From Its Foundation by Sir Stamford Raffles on the 6th February 1819 to the 6th February 1919_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4183132), vol. 2, edited by Walter Makepeace, Gilbert E. Brooke and Roland St. J. Braddell. Facsimile reprint, 2016. Singapore: Oxford University Press, 1921. (Call no. RSING 959.57 ONE-\[HIS\])
+
+Weld, Frederick A. “[The Straits Settlements and British Malaya](https://www.nlb.gov.sg/main/book-detail?cmsuuid=e16ae115-e10d-4619-bcc4-0e1d97672b71).” Transcript of speech given to the Royal Colonial Institute in London, 23 June 1884. (From BookSG; Call no. RRARE 959.503 WEL-\[JSB\]; Accession no. B29268823G)
+
+**Newspaper Articles** _(From NewspaperSG)_
+
+_Daily Advertiser_. “[The Land Sports](https://eresources.nlb.gov.sg/newspapers/digitised/article/dailyadvertiser18930103-1.2.8).” 3 January 1893, 3.
+
+_Singapore Free Press and Mercantile Advertiser (1835–1869)_. “[The Free Press](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18531223-1.2.4).” 23 December 1853, 2.
+
+_Straits Budget_. “[The Lady Phrenologist](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget18980225-1.2.97).” 25 February 1898, 10.
+
+_Straits Eurasian Advocate._ “[Extracts](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880317-1.2.10).” 17 March 1888, 4.
+
+—. “[Stray Notes](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880317-1.2.12).” 17 March 1888, 5.
+
+—. “[Random Shots by Our Facetious Correspondent](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880331-1.2.15).” 31 March 1888, 6.
+
+—. “[The Domestic Servants Ordinance](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880331-1.2.6).” 31 March 1888, 2.
+
+—. “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880331-1.2.9).” 31 March 1888, 3.
+
+—. “[Local and General](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880331-1.2.14).” 31 March 1888, 5.
+
+—. “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880407-1.2.11.1).” 7 April 1888, 4.
+
+—. “[Local and General](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880412-1.2.13).” 12 April 1888, 5.
+
+—. “[Random Shots by Our Facetious Correspondent](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880412-1.2.12).” 12 April 1888, 4.
+
+—. “[Local and General](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880414-1.2.14).” 14 April 1888, 4.
+
+—. “[Correspondence](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880421-1.2.8).” 21 April 1888, 3.
+
+—. “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880630-1.2.8.1).” 30 June 1888, 3.
+
+_Straits Observer (Singapore)_. “Untitled.” 5 November 1875, 2.
+
+—. “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751112-1.2.3).” 12 November 1875, 2.
+
+—. “[Volunteers to the Front](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751119-1.2.4.1).” 19 November 1875, 2.
+
+—. “[The Perak War](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751214-1.2.7).” 14 December 1875, 2.
+
+—. “[The Perak Expedition](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751214-1.2.7).” 14 December 1875, 24.
+
+—. “[The Perak War](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751214-1.2.7).” 14 December 1875, 24.
+
+—. “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751228-1.2.3).” 28 December 1875, 2.
+
+—. “[The Perak Expedition](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751231-1.2.6).” 31 December 1875, 2.
+
+—. “[New Year’s Day](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18750102-1.2.10).” 2 January 1875, 2.
+
+—. “[Where, and Oh Where, Are Our Island Laddies Gone!](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751119-1.2.4.2)” 13 January 1876, 3.
+
+—. “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18760407-1.2.4).” 7 April 1876, 2.
+
+_Straits Times._ “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18450715-1.2.5).” 15 July 1845, 2.
+
+—. “[New Year’s Day](New%20Year’s%20Day).” 2 January 1875, 3.
+
+—. “[The New Year Sports](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18950102-1.2.34).” 2 January 1895, 2.
+
+—. “[The New Year Sports](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18970102-1.2.38).” 2 January 1897, 3.
+
+—. “[The New Year](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18990103-1.2.65).” 3 January 1899, 3.
+
+_Straits Times Overland Journal_. “[What Shall We Do With It](https://eresources.nlb.gov.sg/newspapers/digitised/article/stoverland18760113-1.2.9).” 13 January 1876, 2.
+
+—. “[Outside Opinion on Perak](https://eresources.nlb.gov.sg/newspapers/digitised/article/stoverland18760224-1.2.10).” 24 February 1876, 3.
+
+_Straits Times Weekly Issue_. “[The Tyersall Hounds](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18830305-1.2.4.22).” 5 March 1883, 11.
+
+—. “[A Complaint](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18870629-1.2.43.1).” 29 June 1887, 11.
+
+**Secondary Sources**
+
+Alatas, Syed Hussein. [_The Myth of the Lazy Native: A Study of the Image of the Malays, Filipinos and Javanese from the 16th to the 20th Century and Its Function in the Ideology of Colonial Capitalism_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201110013). New York: Routledge, 2010. (Call no. RSING 305.800959 ALA)
+
+Cheah, Boon Kheng. “Malay Politics and the Murder of J. W-W. Birch, British Resident in Perak, in 1875: The Humiliation and Revenge of the Maharaja Lela.” _Journal of the Malaysian Branch of the Royal Asiatic Society_ 71, no. 1 (1998): 74–105. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Cohn, Bernard S. [_Colonialism and Its Forms of Knowledge: The British in India_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7758745). Princeton: Princeton University Press, 1996. (Call no. R 954 COH)
+
+Cornelius, Vernon. “[Singapore Chronicle](https://www.nlb.gov.sg/main/article-detail?cmsuuid=1d54f41e-a792-4b39-bd6c-8e4a72f30a11).” Singapore Infopedia, published 2017.
+
+Hirschman, Charles. “The Making of Race in Colonial Malaya: Political Economy and Racial Ideology.” _Sociological Forum_ 1, no. 2 (Spring 1986): 330–61. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+—. “The Meaning and Measurement of Ethnicity in Malaysia.” _The Journal of Asian Studies_ 46, no. 3 (1987): 555–82. (From ProQuest Central via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Kaul, Chandrika. _Reporting the Raj: The British Press and India, c. 1880–1922._ Manchester: Manchester University Press, 2003.
+
+Lee, Edwin. [_The British as Rulers Governing Multi-Racial Singapore 1867–1914_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5678026). Singapore: Singapore University Press, 1991. (Call no. RSING 959.57022 LEE-\[HIS\])
+
+Luyt, Brendan. “The Importance of Fiction to the Raffles Library, Singapore, During the Long Nineteenth-Century.” _Library &amp; Information History_ 25, no. 2 (2009): 117–31.
+
+Nakrani, Sachin. “Groundbreaking Report Reveals Racial Bias in English Football Commentary.” _The Guardian_, 29 June 2020.
+
+Noor, Farish. “[Money-Making Bodies: Prostitution in Colonial Southeast Asia](https://biblioasia.nlb.gov.sg/vol-11/issue-3/oct-dec-2015/bodies).” _BiblioAsia_ 11, no. 3 (2015).
+
+Pan, Jie. “A Brief, Dark History of ‘Lepak One Corner’.” _Rice Media_, 23 July 2018.
+
+Pillai, Manu. _False Allies: India’s Maharajas in the Age of Ravi Verma_. New Delhi: Juggernaut, 2021.
+
+Potter, Simon. “Webs, Networks, and Systems: Globalization and the Mass Media in the Nineteenth- and Twentieth-Century British Empire.” _Journal of British Studies_ 46, no. 3 (2007): 621–46. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Rai, Rajesh. “The 1857 Panic and the Fabrication of an Indian ‘Menace’ in Singapore.” _Modern Asian Studies_ 47, no. 2 (2013): 365–405. (From EBSCOhost via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Said, Edward. [_Orientalism_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12254159)_._ London: Penguin, 2003. (Call no. 950.07 SAI)
+
+Seeley, John Robert. _The Expansion of England: Two Courses of Lectures_. Boston: Roberts Brothers, 1883.
+
+#### **NOTES**
+
+
 
 .
