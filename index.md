@@ -17,6 +17,17 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 20 Issue 4/Kueh Pie Tee/HeroImage_kueh_4.jpg
   - infopic:
+      title: "Barbara Kerr: Girl Guide Extraordinaire"
+      subtitle: People
+      id: infopic
+      description: The multifaceted Barbara Kerr made contributions to the Girl
+        Guides, sport, education, children and animals. She was also a talented
+        soprano singer.
+      button: A woman of many talents
+      url: /vol-21/issue-1/apr-jun-2025/barbara-kerr-sharpshooter-school-principal-girl-guide/
+      image: /images/Vol 21 Issue 1/Barbara Kerr/Barbara_Kerr_Topics.jpg
+      alt: Barbara Kerr
+  - infopic:
       title: What Makes An Animal Singaporean?
       subtitle: Podcast
       id: infopic
@@ -1135,15 +1146,4 @@ sections:
       image: /images/Vol 19 Issue 4/An Interview with Rachel Heng/book
         cover_homepage3.jpg
       alt: The Great Reclamation
-  - infopic:
-      title: "Barbara Kerr: Girl Guide Extraordinaire"
-      subtitle: People
-      id: infopic
-      description: The multifaceted Barbara Kerr made contributions to the Girl
-        Guides, sport, education, children and animals. She was also a talented
-        soprano singer.
-      button: A woman of many talents
-      url: /vol-21/issue-1/apr-jun-2025/barbara-kerr-sharpshooter-school-principal-girl-guide/
-      image: /images/Vol 21 Issue 1/Barbara Kerr/Barbara_Kerr_Topics.jpg
-      alt: Barbara Kerr
 ---
