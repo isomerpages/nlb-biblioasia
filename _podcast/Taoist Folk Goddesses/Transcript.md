@@ -3,6 +3,7 @@ title: Transcript
 permalink: /podcast/taoist-folk-goddesses/transcript/
 description: ""
 third_nav_title: Taoist Folk Goddesses
+variant: markdown
 ---
 [Music playing]
 
@@ -174,7 +175,7 @@ Jimmy  <br>
 What book is on your nightstand at the moment? 
 
 Yi-Sheng  <br>
-I'm reading [<i>African Psycho</i>](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204032021) by the Congolese writer, Alain Mbanckou. I'm probably mispronouncing his name. I have an iPad in my bag because I'm getting my way through all of [William L. Gibson's 1156-page PDF about <i>keramat</i>](https://www.academia.edu/88697484/Complete_Catalog_of_Keramat_in_Singapore) in Singapore. Luckily a lot of it is pictures.
+I'm reading [<i>African Psycho</i>](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204032021) by the Congolese writer, Alain Mbanckou. I'm probably mispronouncing his name. I have an iPad in my bag because I'm getting my way through all of [William L. Gibson's 1156-page PDF about <i>keramat</i>](https://eservice.nlb.gov.sg/item_holding.aspx?bid=67da757c-ef09-4a4a-ae7a-05ca7afa8185:oaipmh) in Singapore. Luckily a lot of it is pictures.
 
 Jimmy<br>
 Complete the sentence: history is...
