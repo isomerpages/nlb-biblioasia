@@ -2,7 +2,6 @@ collections:
   holding-area:
     output: true
     order:
-      - Uncovering the Origins of Badang the Strongman.md
       - "Rites of Rehabilitation: The Social Work of the Zhenkongjiao in
         Singapore.md"
       - Sample Test2.md
