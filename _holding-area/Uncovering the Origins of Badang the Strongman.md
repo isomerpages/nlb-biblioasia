@@ -17,6 +17,9 @@ The legendary story of Badang throwing an enigmatic engraved rock from the top o
 
 However, the Malay Annals does not mention any inscriptions on the rock that Badang hurled, and colonial accounts confused this stone with Badang’s gravestone, which some 19th-century accounts place in Johor. Where did the story of Badang come from? What does it have to do with the Singapore Stone? And where was the strongman buried?
 
+![](/images/Vol%2021%20Issue%201/Badang/img3.jpg)
+<div style="background-color: white;">A map showing location of key sites in 2024.</div>
+
 #### **A Herculean Feat**
 Badang’s story varies across different versions of the _Sejarah Melayu_ (more than 30 manuscripts are known, some fragmentary), although certain details are consistent.[^3] He was an Orang Benua (an aboriginal people) and a slave of a man of Sayong, a 15th-century settlement on an upper tributary of the Johor River. The story goes that Badang had set fish traps in the Besisek River, but the next day all he found were bones and scales (hence the name “the river of scales”; known today as Sungai Sisek).
 
@@ -25,7 +28,7 @@ Eventually, Badang caught a _hantu_ (a spirit or demon) stealing his fish. In ex
 In a feat of strength, Badang tossed a massive stone from the king’s palace, atop what is today’s Fort Canning Hill, all the way to the mouth of the Singapore River, roughly 850 m away. Known variously as Tanjong Singhapura and Rocky Point, the accomplished Malay scholar and teacher Abdullah Abdul Kadir (better known as Munsyi Abdullah) described in his autobiography, _Hikayat Abdullah_ (Stories of Abdullah), the location as having “many large rocks, with little rivulets running between the fissures, moving like a snake that has been struck”. He reported that one of these stones, which resembled a garfish, was worshipped by the Orang Laut, or sea people: “To this rock they all made offerings in their fear of it, placing bunting on it treating it with reverence. ‘If we do not pay our respects to it,’ they said, ‘when we go in and out of the shallows it will send us to destruction’.”[^4]
 
 ![](/images/Vol%2021%20Issue%201/Badang/img1.jpg)
-<div style="background-color: white;">An illustration of Badang lifting the rock by Khuzae Mohamed. <i>Image reproduced from Adi Alhadi, Badang (Kuala Lumpur: Edusystem, 1993). (From National Library, Singapore, call no. RSING 398.2 ADI-[ACL]).</i></div>
+<div style="background-color: white;">An illustration of Badang lifting the rock by Khuzae Mohamed. <i>Image reproduced from Adi Alhadi, Badang (Kuala Lumpur: Edusystem, 1993). (From National Library Singapore, call no. RSING 398.2 ADI-[ACL]).</i></div>
 
 
 #### **The Singapore Stone**
@@ -44,9 +47,6 @@ The _Raffles MS No. 18_ or _Raffles Manuscript 18_ version dated 1612 (named thu
 
 #### **Badang’s Grave**
 Most versions of the Annals mention that Badang is buried in a place called Buru (بورو). Today, on Pulau Buru, a small island south of Pulau Karimun in the Riau Archipelago, there is a shrine above a _makam_, or grave, believed to belong to Badang. Located on a remote hill in an old rubber plantation, the grave was likely the location of a nature shrine before the associations with Badang were made.
-
-![](/images/Vol%2021%20Issue%201/Badang/img3.jpg)
-<div style="background-color: white;">A map showing location of key sites in 2024.</div>
 
 ![](/images/Vol%2021%20Issue%201/Badang/img5.jpg)
 <div style="background-color: white;">The grave believed to belong to Badang on Pulau Buru, December 2023. It is a long grave (<i>kubor panjang</i>) measuring 3.25 m, a sign of divine power. The <i>gaharu</i> tree is to the left. The grave was declared an official cultural site in 2010. <i>Photo by William L. Gibson.</i></div>
