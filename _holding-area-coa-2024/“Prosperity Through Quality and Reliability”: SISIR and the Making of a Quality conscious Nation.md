@@ -195,61 +195,60 @@ Certainly none of these measures, not even all of them taken together, indicate 
 
 [^9]: Whang Tar Liang, “Mr Whang Tar Liang’s Address at the Opening Ceremony,” in [Summary of Proceedings: Singapore Conference Hall 23rd to 26th October, 1968: National Conference on Scientific and Technical Co-operation between Industries and Governmental Bodies](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759) (Singapore: Singapore Science Council, 1968), 23. (From National Library, Singapore, call no. RSING 338.095951 NAT)
 
-[^8]: Ernest Wong, “Technical Co-operation Between Industries and the Economic Development Board,” 3rd Working Paper, in [Summary of Proceedings: Singapore Conference Hall 23rd to 26th October, 1968: National Conference on Scientific and Technical Co-operation between Industries and Governmental Bodies](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759) (Singapore: Singapore Science Council, 1968), 64\. (From National Library, Singapore, call no. RSING 338.095951 NAT)
+[^10]: Ernest Wong, “Technical Co-operation Between Industries and the Economic Development Board,” 3rd Working Paper, in [Summary of Proceedings: Singapore Conference Hall 23rd to 26th October, 1968: National Conference on Scientific and Technical Co-operation between Industries and Governmental Bodies](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759) (Singapore: Singapore Science Council, 1968), 64\. (From National Library, Singapore, call no. RSING 338.095951 NAT)
 
-[^9]: Wong, “[Technical Co-operation Between Industries and the Economic Development Board](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759),” 64.
+[^11]: Wong, “[Technical Co-operation Between Industries and the Economic Development Board](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759),” 64.
 
-[^10]: G.A. Baker and Woo Tihsien, “Government and Industrial Participation on Standards, Patents and Information and Consultative Services”, 2nd Working Paper, in [_Summary of Proceedings: Singapore Conference Hall 23rd to 26th October, 1968: National Conference on Scientific and Technical Co-operation between Industries and Governmental Bodies_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759) (Singapore: Singapore Science Council, 1968), 37. (From National Library, Singapore, call no. RSING 338.095951 NAT)
+[^12]: G.A. Baker and Woo Tihsien, “Government and Industrial Participation on Standards, Patents and Information and Consultative Services”, 2nd Working Paper, in [_Summary of Proceedings: Singapore Conference Hall 23rd to 26th October, 1968: National Conference on Scientific and Technical Co-operation between Industries and Governmental Bodies_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759) (Singapore: Singapore Science Council, 1968), 37. (From National Library, Singapore, call no. RSING 338.095951 NAT)
 
-[^11]: Baker and Woo, “[Government and Industrial Participation,](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759)” 37.
+[^13]: Baker and Woo, “[Government and Industrial Participation,](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759)” 37.
 
-[^12]: Baker and Woo, “[Government and Industrial Participation](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759),” 38.
+[^14]: Baker and Woo, “[Government and Industrial Participation](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759),” 38.
 
-[^13]: Baker and Woo, “[Government and Industrial Participation](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759),” 40.
+[^15]: Baker and Woo, “[Government and Industrial Participation](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759),” 40.
 
-[^14]: Baker and Woo, “[Government and Industrial Participation](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759),” 40.
+[^16]: Baker and Woo, “[Government and Industrial Participation](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759),” 40.
 
-[^15]: Baker and Woo, “[Government and Industrial Participation](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759),” 50.
+[^17]: Baker and Woo, “[Government and Industrial Participation](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759),” 50.
 
-[^16]: T. R. Pollard, “[Standards Association and Physical Standards for Singapore](https://www.nas.gov.sg/archivesonline/government_records/record-details/975ba9f7-1159-11e3-83d5-0050568939ad),” 1960. (From National Archives of Singapore, record reference no. 0051/60)
+[^18]: T. R. Pollard, “[Standards Association and Physical Standards for Singapore](https://www.nas.gov.sg/archivesonline/government_records/record-details/975ba9f7-1159-11e3-83d5-0050568939ad),” 1960. (From National Archives of Singapore, record reference no. 0051/60)
 
-[^17]: Singapore. Public Works Department, “[Advisory Council of the Industrial Research Unit](https://www.nas.gov.sg/archivesonline/government_records/record-details/ca7d8233-a651-11eb-b92a-005056a7c0ea),” 1965, 2. (From National Archives of Singapore, record reference no. 93/63)
+[^19]: Singapore. Public Works Department, “[Advisory Council of the Industrial Research Unit](https://www.nas.gov.sg/archivesonline/government_records/record-details/ca7d8233-a651-11eb-b92a-005056a7c0ea),” 1965, 2. (From National Archives of Singapore, record reference no. 93/63)
 
-[^18]: Economic Development Board (EDB), “Appendix A: Recommendations for the Future,” [_Industrial Research Unit Annual Report 1964_](https://www.nas.gov.sg/archivesonline/government_records/record-details/46d0398c-bd17-11eb-a6b9-005056a7c0ea), 1964, A2. (From National Archives of Singapore, record reference no. B4/22) Online)
+[^20]: Economic Development Board (EDB), “Appendix A: Recommendations for the Future,” [_Industrial Research Unit Annual Report 1964_](https://www.nas.gov.sg/archivesonline/government_records/record-details/46d0398c-bd17-11eb-a6b9-005056a7c0ea), 1964, A2. (From National Archives of Singapore, record reference no. B4/22) Online)
 
-[^19]: “[Appendix A: Recommendations for the Future](https://www.nas.gov.sg/archivesonline/government_records/record-details/46d0398c-bd17-11eb-a6b9-005056a7c0ea),” A2.
+[^21]: “[Appendix A: Recommendations for the Future](https://www.nas.gov.sg/archivesonline/government_records/record-details/46d0398c-bd17-11eb-a6b9-005056a7c0ea),” A2.
 
-[^20]: Economic Development Board, [_Annual Report 1968_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4182067) (Singapore: Malaya Publishing House, 1968), 30. (From National Library, Singapore, call no. RCLOS 338.95957 SIN)
+[^22]: Economic Development Board, [_Annual Report 1968_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4182067) (Singapore: Malaya Publishing House, 1968), 30. (From National Library, Singapore, call no. RCLOS 338.95957 SIN)
 
-[^21]:  “A Record of the Discussion on the 3rd Working Paper” in [Summary of Proceedings: Singapore Conference Hall 23rd to 26th October, 1968: National Conference on Scientific and Technical Co-operation between Industries and Governmental Bodies](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759) (Singapore: Singapore Science Council, 1968), 68. (From National Library, Singapore, call no. RSING 338.095951 NAT)
+[^23]:  “A Record of the Discussion on the 3rd Working Paper” in [Summary of Proceedings: Singapore Conference Hall 23rd to 26th October, 1968: National Conference on Scientific and Technical Co-operation between Industries and Governmental Bodies](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759) (Singapore: Singapore Science Council, 1968), 68. (From National Library, Singapore, call no. RSING 338.095951 NAT)
 
-[^22]: “A Record of the Discussion on 1st Working Paper,” in [Summary of Proceedings: Singapore Conference Hall 23rd to 26th October, 1968: National Conference on Scientific and Technical Co-operation between Industries and Governmental Bodies](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759) (Singapore: Singapore Science Council, 1968), 33. (From National Library, Singapore, call no. RSING 338.095951 NAT)
+[^24]: “A Record of the Discussion on 1st Working Paper,” in [Summary of Proceedings: Singapore Conference Hall 23rd to 26th October, 1968: National Conference on Scientific and Technical Co-operation between Industries and Governmental Bodies](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759) (Singapore: Singapore Science Council, 1968), 33. (From National Library, Singapore, call no. RSING 338.095951 NAT)
 
-[^23]: “A Record of the Discussion on the 2nd Working Paper, in [Summary of Proceedings: Singapore Conference Hall 23rd to 26th October, 1968: National Conference on Scientific and Technical Co-operation between Industries and Governmental Bodies](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759) (Singapore: Singapore Science Council, 1968), 49. (From National Library, Singapore, call no. RSING 338.095951 NAT)
+[^25]: “A Record of the Discussion on the 2nd Working Paper, in [Summary of Proceedings: Singapore Conference Hall 23rd to 26th October, 1968: National Conference on Scientific and Technical Co-operation between Industries and Governmental Bodies](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759) (Singapore: Singapore Science Council, 1968), 49. (From National Library, Singapore, call no. RSING 338.095951 NAT)
 
-[^24]: “[A Record of the Discussion on 1st Working Paper](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759),” 33.
+[^26]: “[A Record of the Discussion on 1st Working Paper](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759),” 33.
 
-[^25]: Economic Development Board, [_Annual Report 1969_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4182067) (Singapore: Malaya Publishing House, 1969), 32. (From National Library, Singapore, call no. RCLOS 338.95957 SIN)
+[^27]: Economic Development Board, [_Annual Report 1969_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4182067) (Singapore: Malaya Publishing House, 1969), 32. (From National Library, Singapore, call no. RCLOS 338.95957 SIN)
 
-[^26]: Baker and Woo, “[Government and Industrial Participation](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759),” 39.
-
-[^27]: “[A Record of the Discussion on the 2nd Working Paper](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759),” 51.
-
-[^28]: “A Record of the Discussion by Group E – Electrical and Electronics,” in [Summary of Proceedings: Singapore Conference Hall 23rd to 26th October, 1968: National Conference on Scientific and Technical Co-operation between Industries and Governmental Bodies](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759) (Singapore: Singapore Science Council, 1968), 107. (From National Library, Singapore, call no. RSING 338.095951 NAT)
+[^28]: Baker and Woo, “[Government and Industrial Participation](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759),” 39.
 
 [^29]: “[A Record of the Discussion on the 2nd Working Paper](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759),” 51.
 
-[^30]: “[A Record of the Discussion on the 2nd Working Paper](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759),” 50.
+[^30]: “A Record of the Discussion by Group E – Electrical and Electronics,” in [Summary of Proceedings: Singapore Conference Hall 23rd to 26th October, 1968: National Conference on Scientific and Technical Co-operation between Industries and Governmental Bodies](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759) (Singapore: Singapore Science Council, 1968), 107. (From National Library, Singapore, call no. RSING 338.095951 NAT)
 
-[^31]: Parliament of Singapore, _Economic Development Board (Amendment) Bill_, vol. 29 of _Parliamentary Debates: Official Report_, 11 June 1969, cols. 21–25,[https://sprs.parl.gov.sg/search/#/report?sittingdate=11-06-1969](https://sprs.parl.gov.sg/search/#/report?sittingdate=11-06-1969).
+[^31]: “[A Record of the Discussion on the 2nd Working Paper](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759),” 51.
 
-[^32]: Singapore Institute of Standards and Industrial Research Bill 1973, Bill 43 of 1973, provision 36, _Statues Online_, [https://sso.agc.gov.sg/Bills-Supp/43-1973/Published/19730716?DocDate=19730716&amp;WholeDoc=1#pr34-](https://sso.agc.gov.sg/Bills-Supp/43-1973/Published/19730716?DocDate=19730716&amp;WholeDoc=1#pr34-).
+[^32]: “[A Record of the Discussion on the 2nd Working Paper](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759),” 50.
 
-[^33]: Parliament of Singapore, _Oral Answers to Questions: Singapore Institute of Standards and Industrial Research_, vol. 30 of _Parliamentary Debates: Official Report_, 2 September 1970
+[^33]: Parliament of Singapore, _Economic Development Board (Amendment) Bill_, vol. 29 of _Parliamentary Debates: Official Report_, 11 June 1969, cols. 21–25,[https://sprs.parl.gov.sg/search/#/report?sittingdate=11-06-1969](https://sprs.parl.gov.sg/search/#/report?sittingdate=11-06-1969).
 
+[^34]: Singapore Institute of Standards and Industrial Research Bill 1973, Bill 43 of 1973, provision 36, _Statues Online_, [https://sso.agc.gov.sg/Bills-Supp/43-1973/Published/19730716?DocDate=19730716&amp;WholeDoc=1#pr34-](https://sso.agc.gov.sg/Bills-Supp/43-1973/Published/19730716?DocDate=19730716&amp;WholeDoc=1#pr34-).
+
+[^35]: Parliament of Singapore, _Oral Answers to Questions: Singapore Institute of Standards and Industrial Research_, vol. 30 of _Parliamentary Debates: Official Report_, 2 September 1970
 Oral Answers to Questions, 2 September 1970, col. 181, [https://sprs.parl.gov.sg/search/#/topic?reportid=014\_19700902\_S0006\_T0029](https://sprs.parl.gov.sg/search/#/topic?reportid=014_19700902_S0006_T0029).
 
-\[1\] &nbsp;Singapore Institute of Standards and Industrial Research Bill 1973, Bill 43 of 1973, [provision 36](https://sso.agc.gov.sg/Bills-Supp/43-1973/Published/19730716?DocDate=19730716).
+[^36]: Singapore Institute of Standards and Industrial Research Bill 1973, Bill 43 of 1973, [provision 36](https://sso.agc.gov.sg/Bills-Supp/43-1973/Published/19730716?DocDate=19730716).
 
 \[1\] Singapore Institute of Standards and Industrial Research Bill 1973, Bill 43 of 1973, [provision 17](https://sso.agc.gov.sg/Bills-Supp/43-1973/Published/19730716?DocDate=19730716&amp;WholeDoc=1#pr17-).
 
