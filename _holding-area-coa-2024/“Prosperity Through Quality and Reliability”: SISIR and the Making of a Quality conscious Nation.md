@@ -201,23 +201,23 @@ Certainly none of these measures, not even all of them taken together, indicate 
 
 [^10]: G.A. Baker and Woo Tihsien, “Government and Industrial Participation on Standards, Patents and Information and Consultative Services”, 2nd Working Paper, in [_Summary of Proceedings: Singapore Conference Hall 23rd to 26th October, 1968: National Conference on Scientific and Technical Co-operation between Industries and Governmental Bodies_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759) (Singapore: Singapore Science Council, 1968), 37. (From National Library, Singapore, call no. RSING 338.095951 NAT)
 
-\[1\] Baker and Woo, “[Government and Industrial Participation,](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759)” 37.
+[^11]: Baker and Woo, “[Government and Industrial Participation,](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759)” 37.
 
-\[1\] Baker and Woo, “[Government and Industrial Participation](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759),” 38.
+[^12]: Baker and Woo, “[Government and Industrial Participation](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759),” 38.
 
-\[1\] Baker and Woo, “[Government and Industrial Participation](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759),” 40.
+[^13]: Baker and Woo, “[Government and Industrial Participation](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759),” 40.
 
-\[1\] Baker and Woo, “[Government and Industrial Participation](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759),” 40.
+[^14]: Baker and Woo, “[Government and Industrial Participation](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759),” 40.
 
-\[1\] Baker and Woo, “[Government and Industrial Participation](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759),” 50.
+[^15]: Baker and Woo, “[Government and Industrial Participation](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759),” 50.
 
-\[1\] T. R. Pollard, “[Standards Association and Physical Standards for Singapore](https://www.nas.gov.sg/archivesonline/government_records/record-details/975ba9f7-1159-11e3-83d5-0050568939ad),” 1960. (From National Archives of Singapore, record reference no. 0051/60)
+[^16]: T. R. Pollard, “[Standards Association and Physical Standards for Singapore](https://www.nas.gov.sg/archivesonline/government_records/record-details/975ba9f7-1159-11e3-83d5-0050568939ad),” 1960. (From National Archives of Singapore, record reference no. 0051/60)
 
-\[1\] Singapore. Public Works Department, “[Advisory Council of the Industrial Research Unit](https://www.nas.gov.sg/archivesonline/government_records/record-details/ca7d8233-a651-11eb-b92a-005056a7c0ea),” 1965, 2. (From National Archives of Singapore, record reference no. 93/63)
+[^17]: Singapore. Public Works Department, “[Advisory Council of the Industrial Research Unit](https://www.nas.gov.sg/archivesonline/government_records/record-details/ca7d8233-a651-11eb-b92a-005056a7c0ea),” 1965, 2. (From National Archives of Singapore, record reference no. 93/63)
 
-\[1\] Economic Development Board (EDB), “Appendix A: Recommendations for the Future,” [_Industrial Research Unit Annual Report 1964_](https://www.nas.gov.sg/archivesonline/government_records/record-details/46d0398c-bd17-11eb-a6b9-005056a7c0ea), 1964, A2. (From National Archives of Singapore, record reference no. B4/22) Online)
+[^18]: Economic Development Board (EDB), “Appendix A: Recommendations for the Future,” [_Industrial Research Unit Annual Report 1964_](https://www.nas.gov.sg/archivesonline/government_records/record-details/46d0398c-bd17-11eb-a6b9-005056a7c0ea), 1964, A2. (From National Archives of Singapore, record reference no. B4/22) Online)
 
-\[1\] “[Appendix A: Recommendations for the Future](https://www.nas.gov.sg/archivesonline/government_records/record-details/46d0398c-bd17-11eb-a6b9-005056a7c0ea),” A2.
+[^10]:\[1\] “[Appendix A: Recommendations for the Future](https://www.nas.gov.sg/archivesonline/government_records/record-details/46d0398c-bd17-11eb-a6b9-005056a7c0ea),” A2.
 
 \[1\] Economic Development Board, [_Annual Report 1968_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4182067) (Singapore: Malaya Publishing House, 1968), 30. (From National Library, Singapore, call no. RCLOS 338.95957 SIN)
 
