@@ -3,11 +3,12 @@ title: "Barbara Kerr: Sharpshooter, School Principal, Girl Guide Extraordinaire"
 permalink: /vol-21/issue-1/apr-jun-2025/barbara-kerr-sharpshooter-school-principal-girl-guide/
 variant: markdown
 description: Barbara Kerr Sharpshooter, School Principal, Girl Guide Extraordinaire
+image: /images/Vol 21 Issue 1/Barbara Kerr/image3.jpg
 ---
 #### The multifaceted Barbara Kerr made contributions to the Girl Guides, sport, education, children and animals. She was also a talented soprano singer.
 By Nick Aplin
 
-![](/images/Vol%2020%20Issue%205/Barbara%20Kerr/image3.jpg)
+![](/images/Vol%2021%20Issue%201/Barbara%20Kerr/image3.jpg)
 <div style="background-color: white;">Barbara Kerr when she was District Commissioner for Singapore (1927–35). <i>Image reproduced from Kevin Tan, Doing Our Best: A History of the Girl Guides in Singapore 1914–2022 (Singapore: Girl Guides Singapore, 2023), 17. (From National Library Singapore, call no. RSING 369.463095957 TAN).</i></div>
 
 In early 20th-century Singapore, there were not many occasions when a woman was expected to stand her ground against men in a representative international sporting event. There was, however, one notable exception: when a 26-year-old school principal stunned her male rivals, not in golf or tennis, but in rifle shooting.
@@ -25,14 +26,14 @@ Only the 10 best scores from each team were taken into account. The Singapore te
 
 Singapore’s match took place on 23 May 1914 at Balestier Rifle Range, on the north side of Balestier Road. It was a day “almost perfect for firing”. “There was practically no breeze,” reported the _Malaya Tribune_, “and the few misty clouds, tempered the glare, making a light hard to be bettered for such an affair”.[^5]
 
-![](/images/Vol%2020%20Issue%205/Barbara%20Kerr/image4.jpg)
+![](/images/Vol%2021%20Issue%201/Barbara%20Kerr/image4.jpg)
 <div style="background-color: white;">Singapore’s competition for the 1914 Interport Rifle Match took place at Balestier Rifle Range, on the north side of Balestier Road. <i>Illustration by Nick Aplin.</i></div>
 
 Kerr had a poor start but recovered in a spectacular way to score a total of 93 points for Singapore, putting her in sixth position. The _Malaya Tribune_ wrote:
 
 "Miss Kerr was most heartily congratulated on her strong finish, and she well deserved it. Coming from the 200 yds. position a bad fire of 27, she did not become disheartened in the least, and secured 32 from the 500 distance. The last firing began at 4.35 from the 600 yards mound, and Miss Kerr rose a few minutes later after making the highest score of any of the competitors from that distance – 34, bringing her name up to 6th on the score sheet."[^6]
 
-![](/images/Vol%2020%20Issue%205/Barbara%20Kerr/p3.jpg)
+![](/images/Vol%2021%20Issue%201/Barbara%20Kerr/p3.jpg)
 
 The final score for Singapore was 942, which tied it with Shanghai. One point less from Kerr and Shanghai would have won the competition. One of her teammates, Song Ong Siang, acknowledged her contributions to the team effort: 
 
@@ -53,7 +54,7 @@ Beyond her academic achievements, Kerr was a soprano of considerable repute. She
 
 On the professional front, Kerr was the principal of SCGS from 1912 to 1916, and again from 1918 to 1920 after her marriage. She also made significant contributions to the Girl Guide movement, and was District Commissioner for Singapore from 1927 to 1935. Between 1934 and 1941, she was Commissioner for Malay Guides and Brownies, Girl Guides Association, Malaya.[^18]
 
-![](/images/Vol%2020%20Issue%205/Barbara%20Kerr/image6.jpg)
+![](/images/Vol%2021%20Issue%201/Barbara%20Kerr/image6.jpg)
 <div style="background-color: white;">Barbara Kerr (back row, third from right), Commissioner of Girl Guides in Malaya, with guiders at the All-Malayan guides camp held at Tanjong Bruas, Melaka, in September 1938. <i>Source: The Sunday Times, 4 September 1938. © SPH Media Limited. Permission required for reproduction.</i></div>
 
 Kerr was also known for her work as honorary secretary of the Society for the Prevention of Cruelty to Animals and the Child Welfare Society.[^19]
@@ -76,7 +77,7 @@ Kerr most likely joined the association upon the introduction of the older ladie
 #### **Principal of Singapore Chinese Girls’ School**
 In February 1912, Kerr became the principal of SCGS at the age of 25. It was a challenging job as the school suffered from a lack of funding between 1899 and 1919.[^26] By 1912, the school was overcrowded with 240 students. 
 
-![](/images/Vol%2020%20Issue%205/Barbara%20Kerr/image2.jpg)
+![](/images/Vol%2021%20Issue%201/Barbara%20Kerr/image2.jpg)
 <div style="background-color: white;">Students of the Singapore Chinese Girls’ School having lessons outside the school, c. 1900. Image is reproduced from a postcard published by G.R. Lambert &amp; Co.<i> Courtesy of National Archives of Singapore.</i></div>
 
 Amid her professional developments, Kerr retained her interest in singing. The Singapore Philharmonic Society hosted a concert at the Teutonia Club on 30 March 1912 where Kerr performed two songs.[^27] In June 1914, she sang in the concert for St Mary’s Home and School for Eurasian Girls.[^28]
@@ -96,7 +97,7 @@ A lasting ambition was fulfilled in 1933 when Kerr took part in rifle competitio
 
 In December 1935, Kerr represented the Kinta District team in Ipoh in the Cornwell Cup presented by the FMS Volunteer Force Rifle Association. At age 48, and the only woman in the competition, Kerr scored well over the longer distances, performing better than most of the men. She was placed eighth out of 20 competitors. The _Pinang Gazette and Straits Chronicle_ described her as “a clever shot”.[^35] 
 
-![](/images/Vol%2020%20Issue%205/Barbara%20Kerr/image5.jpg)
+![](/images/Vol%2021%20Issue%201/Barbara%20Kerr/image5.jpg)
 <div style="background-color: white;">Barbara Kerr (second row, second from right) represented the Kinta District team from Ipoh in the Cornwell Cup competition in December 1935. She was the only female competitor. <i>Image reproduced from The Straits Budget, 26 December 1935, 16. (From NewspaperSG).</i></div>
 
 
@@ -107,7 +108,7 @@ She rose through the ranks. In August 1921, when Kerr was living in Penang, she 
 
 Just four years later, in 1927, Kerr became District Commissioner for Singapore. In May 1931, she formed the first pack of Malay Brownies in Kuala Lumpur. She recalled: “After the scheme had been carefully explained to the parents and the teachers, and with some misgivings, we chose a number of the younger pupils at the Malay Girls’ School, Kampong Bahru, Kuala Lumpur, to be our first Malay Brownies. But we need have had no fears. It succeeded far beyond our expectations.”[^38]
 
-![](/images/Vol%2020%20Issue%205/Barbara%20Kerr/image1.jpg)
+![](/images/Vol%2021%20Issue%201/Barbara%20Kerr/image1.jpg)
 <div style="background-color: white;">The first all-Malay Brownie Pack at the Kampong Bahru Malay Girls’ School in Kuala Lumpur, April 1931. The Brownie uniform was adapted from the traditional <i>baju</i> and <i>sarong</i>. <i>Image reproduced from Kevin Tan, Doing Our Best: A History of the Girl Guides in Singapore 1914–2022 (Singapore: Girl Guides Singapore, 2023), 21. (From National Library Singapore, RSING 369.463095957 TAN).</i></div>
 
 The Brownie investiture ceremony on 15 May 1931 was held in the presence of the sultan of Selangor, who “pointed out that the boys had had an organisation for some time and now the Malay girls were being given their opportunity” and “hoped that other packs would be formed in Selangor”.[^39]

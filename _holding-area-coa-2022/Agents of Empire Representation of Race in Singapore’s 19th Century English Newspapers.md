@@ -314,6 +314,253 @@ Founded by a group of miffed Eurasians when they were denied entry to the
 differences.33 In 1887, a peeved reader wrote in to the ST complaining of the
 treatment meted out to SRC members at an SCC event:
 
+     Some such courtesy might have been shown to the <i> Committee</i> 
+
+     [emphasis in original] of the S.R.C. if not to all the
+
+     members, and as respectable as any of the S.C.C. members,
+
+     although not born in Europe. But the usual class distinction
+
+     prevailed… – a distinction which is as unworthy of those
+
+     who are responsible for making it, as it is humiliating to those
+
+     against whom the line is drawn.34
+
+The Eurasians were a deeply insecure community at the time. Ease
+of transportation had brought not just ideas, but also more and more
+pure-blooded European men and women to Singapore’s shores. Whatever
+porosity had existed – it was not uncommon for European men to take
+up with local women across Malaya, for instance – disappeared; ideas of
+racial purity became more stringent, and social contact with the locals was
+increasingly frowned upon.35
+
+The Eurasians found themselves far removed from the upper echelons
+of European society, lumped with the natives. This insecurity, and its
+attendant anger, played itself out in various newspapers that emerged to
+support the Eurasian cause in Singapore. They did so by heaping contempt
+on the Chinese, Malays and Indians – inflicting on them the same
+humiliation that they accused the Europeans of perpetrating. The SEA was
+one such paper.
+
+Started in 1887 as a Saturday weekly by a Eurasian named John
+Nicholson, the SEA was the community’s second attempt at a propaganda
+organ when it saw itself “being gradually isolated” from the mainstream
+life on the island.36 The SEA lasted three years, of which only four months’
+issues survive (March–June 1888).
+
+The paper’s fundamental objective was to impress upon its readers that
+Eurasians were distinct from, and superior to, the native population and
+as intelligent, meritorious and eminent as their European brethren.37 One
+of the ways in which it did so was by recasting Eurasians’ native halves as “Aryan”. While the Chinese were Chinese, and the Klings, Klings, the
+Eurasians were half-European,  half-<i>Aryan</i>.
+
+
+     Do not disparage yourselves because of your Aryan half.
+
+     Through this half you inherit the intelligence, brain power and
+
+     chivalry of an ancient civilization, a civilization from which
+
+     Europe has borrowed its learning, and the best part of its
+
+     laws and literature and much of its arts and sciences. It is the
+
+     infusion of Aryan blood that has made the British what it is.38
+
+This semantic sleight of hand helped insecure Eurasians view themselves
+as part of the ruling race, while allowing wriggle room to shower contempt
+on those outside it. The Chinese, who by now were immigrating to
+Singapore in large numbers and whose ways of life were increasingly
+becoming more Western, found themselves in the crosshairs more often
+than not.39
+
+Articulating immigration concerns that would continue to echo in
+Singapore more than a century later, the SEA screeched that “Singapore
+is being flooded with all sorts of villains from China, and owing to these
+importations Crime is becoming more and more frequent by the day”, so
+much so that “nothing short of flogging would make night-disturbers take
+the right path”.40
+
+Jail was pointless, because according to the SEA, it did not serve as
+a strong-enough deterrent. “They are much too pampered and well-fed”
+there, with the cost of keeping them in far more than the income they
+could generate by pursuing various vocations during incarceration.41 Could
+not, one SEA reporter wondered, “something more be squeezed [out of the
+inmates] so as to not allow them to eat the bread of idleness so cheaply?”42
+
+It escaped the SEA that the manpower needed to lug cargo, construct
+new roads and bridges, look after plantations and ferry Europeans (and
+undoubtedly some Eurasians) around a rapidly expanding town was drawn from the same pool as the “villains” and “blackguards” causing it so much
+consternation. Most importantly, this pool contributed to the opium tax
+that formed the bulk of the colonial government’s revenue. But once again
+foreshadowing modern-day discussions on the desire for foreign labour to
+do essential but unsavoury work and yet be invisible, the SEA expressed its
+distaste at being “jostled by a half-nude Chinaman” pulling a rickshaw or at
+the sight of Chinese coolies bathing at public wells.43
+Any kind of agency by these other races was frowned upon. When the
+Domestic Servants Registration Ordinance encouraging employers to hire
+only registered individuals as servants came into force on 1 January 1888, the
+SEA was vexed:
+
+     The lower classes of Chinese from which we procure our
+
+     servants would sooner follow the bent of their inclinations and
+
+     turn rogues and thieves than<i> take service except on their own terms</i> 
+
+     [emphasis added].44
+
+The recommended antidote to this intransigence was to dump them
+forcefully into “gharries” and drive them to the relevant office to be
+registered, which the Chinese refused to do “for want of a good kicking”.45
+
+Another suggestion was to import servants from India – Calcutta or
+Madras – who were cheaper, more efficient and more pliable. This was fine
+as long as the Indians stuck to servitude and did not stuff themselves into
+trousers and coats, so as to deceive outsiders into thinking that “every black
+man with a coat is a Eurasian”.46
+
+Any non-European who wielded even a modicum of power was to be
+viewed suspiciously. The Tamil Chettiars, most of whom came to Singapore
+as money lenders, were to be avoided because their usury practices often
+trapped unsuspecting Eurasians into a vicious cycle of poverty and debt.
+The Indian money lender, warned the SEA, was not “behind in his virtues
+to ‘Shylock’”.47 The native constable was nothing but a dummy on the street who needed constant monitoring by his European peers – surprise visits to
+the area of his beat were highly recommended.48
+
+Relative to the Chinese and the Indians, the Malays were far removed
+from the colonial enterprise and thus from Singapore’s public life. This was
+reflected in their absence from the SEA’s pages. The few times they did
+appear, it was as part of gangs that indulged in brutish violence against the
+Indians and the Chinese and as singers of obscene songs that disturbed
+the public peace at night.49 Occasionally, calls were made to replace
+“outlandish” native road names with “decent ones”.50
+
+Relative to the Chinese and the Indians, the Malays were far removed
+from the colonial enterprise and thus from Singapore’s public life. This was
+reflected in their absence from the SEA’s pages. The few times they did
+appear, it was as part of gangs that indulged in brutish violence against the
+Indians and the Chinese and as singers of obscene songs that disturbed
+the public peace at night.49 Occasionally, calls were made to replace
+“outlandish” native road names with “decent ones”.50
+
+The paper tried to acquire this currency for its audience not just by
+highlighting their achievements but by using language that debased
+the native populace’s habits, culture and tradition. It inflicted linguistic
+violence (half-naked Chinaman; demoniac Malay; Shylock-like Chetty) and
+advocated physical violence (flogging, harsher conditions in jails) – both of
+which served to further reify racialised hierarchies in Singapore.
+
+#### **Barbarians, the Lot of Them**
+
+     
+It is absurd that such a wealthy country should be left in the
+
+     hands of blood-thirsty treacherous savages.52
+
+Times of crisis serve as an interesting counterpoint to the breezy news
+coverage of the New Year’s Day sports. While the latter painted a picture of
+child-like native behaviour, the former instigated reportage that represented
+them in almost bestial terms.
+
+Part of this was down to fear. Singapore’s European population, rapidly
+though it had grown in the latter half of the 19th century, was small compared to the rest; it rippled with fear at any hint of disquiet among
+the locals.53
+
+The November 1875 murder of the Perak Resident James Birch was
+one such crisis that reverberated up and down Malaya. Birch, a long-term
+colonial officer, was the Straits Settlements’ Colonial Secretary before being
+transferred to the native state of Perak as its first Resident. The position was
+in theory an advisory one, but this was, in the words of Frederick Weld,
+“one of those fictions in which we seem to delight, as not a penny of money
+can be spent out of the State revenues without the assent of the Governor,
+and, under him, the military or police force is entirely in the hands of
+the Resident”.54
+Birch, invested thus with immense power, was not well liked by the
+ruling chiefs, who thought him unduly meddlesome. They approached the
+Straits Settlements’ Governor Andrew Clarke with a petition to prevent
+Birch from interfering in local customs, including the right to levy taxes
+on their people and maintain slaves. After receiving a tepid response, a few
+chiefs conspired to murder the Resident in cold blood. It is beyond the
+scope of this paper to analyse this incident.55 It shall instead focus on local
+developments in the immediate aftermath of the murder and the reaction
+the murder elicited in Singapore’s English-language media.
+
+Within days, the Straits Settlements’ Legislative Council, now headed by
+Governor Sir William Jervois (1875–77), passed a slew of ordinances to curb
+the chances of any violent outbreak on the island. Sale or purchase of arms,
+including bayonets, swords, daggers, krisses, spears and all other “weapons
+of offence”, was immediately banned; they could be procured only when a
+licence was issued by an officer appointed with the Governor’s sanction.56
+In discussions over how the crisis should be handled, one member of the
+Legislative Council invoked his long experience of having dealt with the Malays to suggest that the best way to teach them a lesson would be by
+hanging them.57
+
+As British troops from Singapore, Melaka and Penang left for Perak,
+a tremor of fear went through the defenceless settlements. The SO called
+upon the Volunteer Defence Force to band together as one in front of the
+native public, in case the latter was harbouring any treacherous ideas, and
+published numerous letters from members of the public who were baffled at
+the force’s inaction after the troops’ departure.58
+
+Meanwhile, the newspaper continued to publish regular, detailed reports
+of the action unfolding in Perak and surrounding areas. Speaking about
+one recalcitrant chief’s desire to surrender in the face of the relentless British
+assault, a correspondent wrote in with a comment that revealed colonial
+beliefs and desires:
+
+     With the <i>true instinct of the ignoble savage</i>, he wishes to sneak
+
+     out of the consequences of his treachery as soon as he finds
+
+     out we are in earnest… There is no equal stretch of land under
+
+     the tropics so rich in minerals. <i>These the Malays do not work</i>
+
+     [emphases added] and the Chinaman will sink no money in
+
+     unless the British occupy it.59
+
+The mercantile class in Singapore, Penang and Melaka had been eyeing
+the fecund Perak land at least since the Straits Settlements became a Crown
+Colony, run directly from London instead of India. To this end, they had
+pressured every governor since Harry Ord to entrench British commercial
+interests in the region, ramping up the pressure after the 1874 Treaty of
+Pangkor recognised British suzerainty on the Malay Peninsula.60 Some had invoked England’s moral duty to civilise the land, others the desire to save
+the oppressed peasants from feckless chiefs.
+
+Birch’s brutal murder convinced the authorities that action had to
+be taken. The SO egged them on. In response to a letter expressing rare
+dissent towards British policy in peninsular Malaya, the paper fumed that
+“barbarous horde of savages such as these Malays of Perak have proved
+themselves” deserved no mercy and even if the Straits colonists had to
+submit to income tax in order to fund the revenge mission, they would do
+so. The Straits merchants loathed any public expenditure, so this showed
+the strength of feeling that prevailed in this matter. Of course, the prospect
+of being able to mine, strip and cultivate Perak was attractive too. Any
+tax imposed could be recouped, because not only was the region awash
+in minerals, its soil was also hospitable to cash crops like tea, coffee and
+tobacco, and its forests rich in timber.61
+
+Months later, when the war was won and the deposed chief’s regalia
+put on public display at the Legislative Council, the SO was dismayed at its
+impoverished nature – “one small gold kris, two passable sword hilts, and a
+large piece of glass enclosed in filagree work” and other things that looked
+like they belonged in a pantomime. The paper mourned that if this “be
+the most we are to get from Perak, that much vaunted country will not be
+worth annexing”.62
+
+However, there was another, more critical reason for invasion that the
+paper itself expressed: Britain could not afford to lose face. “British prestige”
+was paramount, “whatever may be the cause of a dispute” because it would
+affect their standing among the natives through the entire region. Thus,
+as the war got bloodier and British losses mounted, venomous frustration
+spilled over on the SO’s pages.
+
+
+
 
 
 .

@@ -9,13 +9,24 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-20/issue-4/jan-mar-2025/john-sturgus-bastin-a-memoir/
-      button: "John Sturgus Bastin: A Memoir"
+      url: /vol-20/issue-4/jan-mar-2025/origins-of-kueh-pie-tee/
+      button: "Cups and Sources: Hunting Down the Origins of Kueh Pie Tee"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 20 Issue 4/John Sturgus Bastin/HeroImage_bastin_2.jpg
+      background: /images/Vol 20 Issue 4/Kueh Pie Tee/HeroImage_kueh_4.jpg
+  - infopic:
+      title: "Barbara Kerr: Girl Guide Extraordinaire"
+      subtitle: People
+      id: infopic
+      description: The multifaceted Barbara Kerr made contributions to the Girl
+        Guides, sport, education, children and animals. She was also a talented
+        soprano singer.
+      button: A woman of many talents
+      url: /vol-21/issue-1/apr-jun-2025/barbara-kerr-sharpshooter-school-principal-girl-guide/
+      image: /images/Vol 21 Issue 1/Barbara Kerr/Barbara_Kerr_Topics.jpg
+      alt: Barbara Kerr
   - infopic:
       title: What Makes An Animal Singaporean?
       subtitle: Podcast
