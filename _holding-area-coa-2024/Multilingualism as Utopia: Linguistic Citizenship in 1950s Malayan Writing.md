@@ -4,29 +4,32 @@ permalink: /holding-area/chapters-of-asia-2024/multilingualism-as-utopia/
 variant: markdown
 description: ""
 ---
-<p>The 1950s was a decade of radical transformation in Malaya. In the aftermath
+The 1950s was a decade of radical transformation in Malaya. In the aftermath
 of the Japanese Occupation (1942–45) and before the idea of political independence
 from colonial rule became reality, Malaya, including Singapore, was embroiled
 in the rise of anti-colonial sentiments and British suppression of communist
 insurgencies. This culminated in the promulgation of the Emergency Act
-in June 1948, which remained in effect till July 1960.[^1]</p>
-<p>In the intervening years, Malaya’s sociopolitical landscape was mired
+in June 1948, which remained in effect till July 1960.[^1]
+
+In the intervening years, Malaya’s sociopolitical landscape was mired
 in ideological tensions and armed conflict. Precisely due to these tensions,
 a nascent Malayan consciousness began to take shape, with important implications
 for literary and cultural activities. More specifically, this period of
 extraordinary flux in identity incubated the notion of a distinctive Malayan
 literature and culture, a hitherto nonexistent category, thereby opening
-the way to a vibrant tradition of creative writing in the region.</p>
-<p>This article looks at two parallel developments in the Chinese-language
+the way to a vibrant tradition of creative writing in the region.<p></p>
+This article looks at two parallel developments in the Chinese-language
 and English-language literary circles during this period. Both involved
 multilingual innovation in the written language, namely the infusion of
 Chinese dialects in Sinophone fiction and the mixing of resources from
 English, Malay, and Chinese in Anglophone poetry. The article traces the
 ideological circumstances behind these developments and examines the historical
 significance of these multilingual experiments in terms of how they articulate
-the sociopolitical aspirations of intellectuals in those turbulent times.</p>
-<h4><strong>Uniqueness of Malayan Chinese Literature</strong></h4>
-<p>As an important conduit of expression, literature bloomed in postwar Malaya,
+the sociopolitical aspirations of intellectuals in those turbulent times.
+
+#### **Uniqueness of Malayan Chinese Literature**
+
+As an important conduit of expression, literature bloomed in postwar Malaya,
 at a time when people were seeking to invent an imagined geopolitical community[^2]
 in which to position themselves beyond the colonial grid. It is unsurprising,
 therefore, that literary writing proliferated in the 1950s, in contrast
@@ -35,26 +38,28 @@ literature was concerned at least, the 1950s was a more spirited period
 than the 1960s.[^3] This was the decade when Chinese fiction writers in
 Malaya became increasingly experimental with their language medium, which
 was by convention a standard written Chinese based on the Mandarin vernacular
-hailing from the 1919 May Fourth Movement in China.</p>
-<p>As we will see, instead of featuring only the standard language, Chinese
+hailing from the 1919 May Fourth Movement in China.
+
+As we will see, instead of featuring only the standard language, Chinese
 fiction of this period was marked by bits and pieces of Chinese dialects
 and colloquial Malay. Prior to this, these latter tongues belonged to the
 streets and were not seen as legitimate registers for literary writing
 among Malayan Chinese authors. The backdrop to such experimentation was
 a polemic, dubbed as the Great Debate, that occurred between December 1947
 and April 1948. This took the form of a “paper war” across literary supplements
-of several major Chinese newspapers of the time, such as <em>Sin Chew Jit Poh</em>, <em>Nan Chiau Jit Pao</em>,
-and <em>Min Sheng Pau</em>. Two camps of writers, the Malayan-Chinese Literature
+of several major Chinese newspapers of the time, such as *Sin Chew Jit Poh* *Nan Chiau Jit Pao*,
+and *Min Sheng Pau*. Two camps of writers, the Malayan-Chinese Literature
 School and the Overseas-Chinese Literature School,[^4] expressed opposing
 stances around the contentious idea of the “uniqueness of Malayan Chinese
-literature”.</p>
-<p>The first group believed that the Chinese literature of Malaya should
+literature”.
+
+The first group believed that the Chinese literature of Malaya should
 be distinct from that of China, as each developed under very different
 sociopolitical circumstances. The latter group, comprising the so-called
 immigrant writers (writers from China who sojourned in Malaya), sometimes
 derogatorily called refugee writers, insisted that Malayan Chinese literature
 was but a diasporic offshoot of Chinese literature from China and thus
-was not fundamentally unique.[^5]</p>
+was not fundamentally unique.[^5]<p></p>
 <p>Twenty-five articles were exchanged in this debate, including some by
 a minority of contributors who sat on the fence. The jury is out as to
 which camp “won” the debate – though there seems to be a degree of consensus
