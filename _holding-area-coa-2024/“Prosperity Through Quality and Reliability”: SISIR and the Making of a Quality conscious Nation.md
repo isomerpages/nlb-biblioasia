@@ -179,27 +179,27 @@ Certainly none of these measures, not even all of them taken together, indicate 
 
 [^1]: Abhijit V. Banerjee and Esther Duflo, [_Good Economics for Hard Times: Better Answers to Our Biggest Problems_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205256074) (UK: Penguin Books, 2020), 84–85. (From National Library, Singapore call no. 330 BAN-\[BIZ\])
 
-\[1\] Banerjee &amp; Duflo, [_Good Economics for Hard Times_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205256074), 91–94.
+[^2]: Banerjee &amp; Duflo, [_Good Economics for Hard Times_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205256074), 91–94.
 
-\[1\] Chang Chieh Hang, Teck Seng Low and Raj Thampuran, eds., [_The Singapore Research Story_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202459577) (Singapore: World Scientific, 2016), 16–18 (From National Library, Singapore, call no. RSING 330.95957 SIN); Loh Kah Seng et al., [_Theatres of Memory: Industrial Heritage of 20th Century Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205458434) (Singapore: Pagesetters Services, 2021), 161, 173. (From National Library, Singapore, call no. 338.095957 LOH)
+[^3]: Chang Chieh Hang, Teck Seng Low and Raj Thampuran, eds., [_The Singapore Research Story_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202459577) (Singapore: World Scientific, 2016), 16–18 (From National Library, Singapore, call no. RSING 330.95957 SIN); Loh Kah Seng et al., [_Theatres of Memory: Industrial Heritage of 20th Century Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205458434) (Singapore: Pagesetters Services, 2021), 161, 173. (From National Library, Singapore, call no. 338.095957 LOH)
 
-\[1\] Parliament of Singapore, _Second Reading of the Science Council of Singapore Bill_, vol. 26 of _Parliamentary Debates: Official Report_, 29 June 1967, cols. 47–48, [https://sprs.parl.gov.sg/search/#/topic?reportid=031\_19670629\_S0003\_T0013](https://sprs.parl.gov.sg/search/#/topic?reportid=031_19670629_S0003_T0013).
+[^4]: Parliament of Singapore, _Second Reading of the Science Council of Singapore Bill_, vol. 26 of _Parliamentary Debates: Official Report_, 29 June 1967, cols. 47–48, [https://sprs.parl.gov.sg/search/#/topic?reportid=031\_19670629\_S0003\_T0013](https://sprs.parl.gov.sg/search/#/topic?reportid=031_19670629_S0003_T0013).
 
-\[1\] “[New Science Council](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19671114-1.2.35),” _Straits Times_, 14 November 1967, 4. (From NewspaperSG)
+[^5]: “[New Science Council](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19671114-1.2.35),” _Straits Times_, 14 November 1967, 4. (From NewspaperSG)
 
-\[1\] Science Council of Singapore, [_Annual Report of the Science Council of Singapore 1968_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=865be0ab-5929-4d9e-a6ba-4dd880dba3b8) (Singapore: Science Council of Singapore, 1968), 1. (From National Library, Singapore)
+[^6]: Science Council of Singapore, [_Annual Report of the Science Council of Singapore 1968_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=865be0ab-5929-4d9e-a6ba-4dd880dba3b8) (Singapore: Science Council of Singapore, 1968), 1. (From National Library, Singapore)
 
-\[1\] Science Council of Singapore, [_Annual Report of the Science Council of Singapore 1968_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=865be0ab-5929-4d9e-a6ba-4dd880dba3b8), 1.
+[^6]: Science Council of Singapore, [_Annual Report of the Science Council of Singapore 1968_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=865be0ab-5929-4d9e-a6ba-4dd880dba3b8), 1.
 
-\[1\] Science Council of Singapore, [_Annual Report of the Science Council of Singapore 1968_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=865be0ab-5929-4d9e-a6ba-4dd880dba3b8), 1.
+[^7]: Science Council of Singapore, [_Annual Report of the Science Council of Singapore 1968_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=865be0ab-5929-4d9e-a6ba-4dd880dba3b8), 1.
 
-\[1\] Whang Tar Liang, “Mr Whang Tar Liang’s Address at the Opening Ceremony,” in [Summary of Proceedings: Singapore Conference Hall 23rd to 26th October, 1968: National Conference on Scientific and Technical Co-operation between Industries and Governmental Bodies](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759) (Singapore: Singapore Science Council, 1968), 23. (From National Library, Singapore, call no. RSING 338.095951 NAT)
+[^7]: Whang Tar Liang, “Mr Whang Tar Liang’s Address at the Opening Ceremony,” in [Summary of Proceedings: Singapore Conference Hall 23rd to 26th October, 1968: National Conference on Scientific and Technical Co-operation between Industries and Governmental Bodies](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759) (Singapore: Singapore Science Council, 1968), 23. (From National Library, Singapore, call no. RSING 338.095951 NAT)
 
-\[1\] Ernest Wong, “Technical Co-operation Between Industries and the Economic Development Board,” 3rd Working Paper, in [Summary of Proceedings: Singapore Conference Hall 23rd to 26th October, 1968: National Conference on Scientific and Technical Co-operation between Industries and Governmental Bodies](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759) (Singapore: Singapore Science Council, 1968), 64\. (From National Library, Singapore, call no. RSING 338.095951 NAT)
+[^8]: Ernest Wong, “Technical Co-operation Between Industries and the Economic Development Board,” 3rd Working Paper, in [Summary of Proceedings: Singapore Conference Hall 23rd to 26th October, 1968: National Conference on Scientific and Technical Co-operation between Industries and Governmental Bodies](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759) (Singapore: Singapore Science Council, 1968), 64\. (From National Library, Singapore, call no. RSING 338.095951 NAT)
 
-\[1\] Wong, “[Technical Co-operation Between Industries and the Economic Development Board](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759),” 64.
+[^9]: Wong, “[Technical Co-operation Between Industries and the Economic Development Board](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759),” 64.
 
-\[1\] G.A. Baker and Woo Tihsien, “Government and Industrial Participation on Standards, Patents and Information and Consultative Services”, 2nd Working Paper, in [_Summary of Proceedings: Singapore Conference Hall 23rd to 26th October, 1968: National Conference on Scientific and Technical Co-operation between Industries and Governmental Bodies_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759) (Singapore: Singapore Science Council, 1968), 37. (From National Library, Singapore, call no. RSING 338.095951 NAT)
+[^10]: G.A. Baker and Woo Tihsien, “Government and Industrial Participation on Standards, Patents and Information and Consultative Services”, 2nd Working Paper, in [_Summary of Proceedings: Singapore Conference Hall 23rd to 26th October, 1968: National Conference on Scientific and Technical Co-operation between Industries and Governmental Bodies_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759) (Singapore: Singapore Science Council, 1968), 37. (From National Library, Singapore, call no. RSING 338.095951 NAT)
 
 \[1\] Baker and Woo, “[Government and Industrial Participation,](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759)” 37.
 
