@@ -268,60 +268,60 @@ Oral Answers to Questions, 2 September 1970, col. 181, [https://sprs.parl.gov.sg
 
 [^45]: “SAS Earth Day Update,” in [_Singapore American_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4184528), 34, no, 5 (June 1990): 19. (From National Library, Singapore, call no. RCLOS 051 SA)
 
-\[1\] “[Bagging the Claim](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19900616-1.2.42.1.4),” _Business Times_, 16 June 1990, 17. (From NewspaperSG)
+[^46]: “[Bagging the Claim](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19900616-1.2.42.1.4),” _Business Times_, 16 June 1990, 17. (From NewspaperSG)
 
-\[1\] Cephah Tan, “[Plastic Bag Failed to Disintegrate, Says Body Shop](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19900620-1.2.36.4),” _Straits Times_, 20 June 1990, 25. (From NewspaperSG)
+[^47]: Cephah Tan, “[Plastic Bag Failed to Disintegrate, Says Body Shop](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19900620-1.2.36.4),” _Straits Times_, 20 June 1990, 25. (From NewspaperSG)
 
-\[1\] “[Plastic Bag Failed to Disintegrate, Says Body Shop](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19900620-1.2.36.4)”
+[^48]: “[Plastic Bag Failed to Disintegrate, Says Body Shop](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19900620-1.2.36.4)”
 
-\[1\] “[Many Supermarts Drop Plans to Use Self-destruct Bags](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19900714-1.2.33.1),” _Straits Times_, 14 July 1990, 21. (From NewspaperSG)
+[^49]: “[Many Supermarts Drop Plans to Use Self-destruct Bags](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19900714-1.2.33.1),” _Straits Times_, 14 July 1990, 21. (From NewspaperSG)
 
-\[1\] Dominic Nathan, “[Self-Destruct Bags Do Break Down](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19900922-1.2.32.13),” _Straits Times_, 22 September 1990, 27. (From NewspaperSG)
+[^50]: Dominic Nathan, “[Self-Destruct Bags Do Break Down](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19900922-1.2.32.13),” _Straits Times_, 22 September 1990, 27. (From NewspaperSG)
 
-\[1\] Huda Finn, “[Self-destruct Bags: Some More Light](https://eresources.nlb.gov.sg/newspapers/digitised/article/newpaper19901015-1.2.10.2),” _New Paper_, 15 October 1990, 6. (From NewspaperSG)
+[^51]: Huda Finn, “[Self-destruct Bags: Some More Light](https://eresources.nlb.gov.sg/newspapers/digitised/article/newpaper19901015-1.2.10.2),” _New Paper_, 15 October 1990, 6. (From NewspaperSG)
 
-\[1\] Percy Seneviratne, “[PQR Shows What It Really Means to Think Quality in the Work You Do](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730517-1.2.81),” _Straits Times_, 17 May 1973, 12. (From NewspaperSG)
+[^52]: Percy Seneviratne, “[PQR Shows What It Really Means to Think Quality in the Work You Do](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730517-1.2.81),” _Straits Times_, 17 May 1973, 12. (From NewspaperSG)
 
-\[1\] Hon Sui Sen, “[The Singapore Manufacturers' Association Dinner](https://www.nas.gov.sg/archivesonline/speeches/record-details/7c852cc8-115d-11e3-83d5-0050568939ad),” speech, Mandarin Court Restaurant, 30 June 1972, transcript, Ministry of Culture. (From National Archives of Singapore, document no. Pressr19720630)
+[^53]: Hon Sui Sen, “[The Singapore Manufacturers' Association Dinner](https://www.nas.gov.sg/archivesonline/speeches/record-details/7c852cc8-115d-11e3-83d5-0050568939ad),” speech, Mandarin Court Restaurant, 30 June 1972, transcript, Ministry of Culture. (From National Archives of Singapore, document no. Pressr19720630)
 
-\[1\] [_Why Labour Must Go Modern! The NTUC Case for a Modernized Labour Movement_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4081659) (Singapore: National Trades Union Congress, 1970) (From National Library, Singapore, call no. RCLOS 331.88 SEM)
+[^54]: _Why Labour Must Go Modern! The NTUC Case for a Modernized Labour Movement_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4081659) (Singapore: National Trades Union Congress, 1970) (From National Library, Singapore, call no. RCLOS 331.88 SEM)
 
-\[1\] [_Prosperity Through Quality and Reliability Campaign (Under the Distinguished Patronage of Mr Hon Sui Sen, Minister of Finance):_ _Commemorative Programme 23 February 1973_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200111515) (Singapore: PQR Campaign Organising Committee, 1973) (From PublicationSG)
+[^55]: [_Prosperity Through Quality and Reliability Campaign (Under the Distinguished Patronage of Mr Hon Sui Sen, Minister of Finance):_ _Commemorative Programme 23 February 1973_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200111515) (Singapore: PQR Campaign Organising Committee, 1973) (From PublicationSG)
 
-\[1\] [_Prosperity Through Quality and Reliability Campaign_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200111515).
+[^56]: [_Prosperity Through Quality and Reliability Campaign_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200111515).
 
-\[1\] [_Prosperity Through Quality and Reliability Campaign_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200111515).
+[^57]: [_Prosperity Through Quality and Reliability Campaign_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200111515).
 
-\[1\] Singapore Institute of Standards and Industrial Research, [_Industrial News and Research_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4821366), 2, no. 4 (October 1972): 8–9. (From National Library, Singapore, call no. RCLOS 607.25957 INR)
+[^58]: Singapore Institute of Standards and Industrial Research, [_Industrial News and Research_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4821366), 2, no. 4 (October 1972): 8–9. (From National Library, Singapore, call no. RCLOS 607.25957 INR)
 
-\[1\] Singapore Institute of Standards and Industrial Research, [_Industrial News and Research_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4821366), 3, no. 4 (December 1973): 9. (From National Library, Singapore, call no. RCLOS 607.25957 INR)
+[^59]: Singapore Institute of Standards and Industrial Research, [_Industrial News and Research_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4821366), 3, no. 4 (December 1973): 9. (From National Library, Singapore, call no. RCLOS 607.25957 INR)
 
-\[1\] [_Industrial News and Research_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4821366), October 1972, 5.
+[^60]: [_Industrial News and Research_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4821366), October 1972, 5.
 
-\[1\] Andrew Lau, “[PQR Issues Will Be Out Tomorrow](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19730224-1.2.51.15),” _New Nation_, 24 February 1973, 10. (From NewspaperSG)
+[^61]: Andrew Lau, “[PQR Issues Will Be Out Tomorrow](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19730224-1.2.51.15),” _New Nation_, 24 February 1973, 10. (From NewspaperSG)
 
-\[1\] [_Industrial News and Research_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4821366), October 1972, 3.
+[^62]: [_Industrial News and Research_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4821366), October 1972, 3.
 
-\[1\] R. Chandran, “[Wider Power, Bigger Role for SISIR](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730224-1.2.21),” _Straits Times_, 24 February 1973, 5. (From NewspaperSG)
+[^63]: R. Chandran, “[Wider Power, Bigger Role for SISIR](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730224-1.2.21),” _Straits Times_, 24 February 1973, 5. (From NewspaperSG)
 
-\[1\] [_Prosperity Through Quality and Reliability Campaign_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200111515).
+[^64]: [_Prosperity Through Quality and Reliability Campaign_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200111515).
 
-\[1\] Lim Cheng Tju, “Singapore Political Cartooning,” [_Southeast Asian Journal of Social Science_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5053584) 25, no.1 (1997): 131–35. (From National Library, Singapore, call no. RSING 300.5 SAJSS)
+[^65]: Lim Cheng Tju, “Singapore Political Cartooning,” [_Southeast Asian Journal of Social Science_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5053584) 25, no.1 (1997): 131–35. (From National Library, Singapore, call no. RSING 300.5 SAJSS)
 
-\[1\] [_Standards in Your Life_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4699022) (Singapore: SISIR, 1978), 14. (From National Library, Singapore, call no. RSING 602.12 SIN)
+[^66]: [_Standards in Your Life_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4699022) (Singapore: SISIR, 1978), 14. (From National Library, Singapore, call no. RSING 602.12 SIN)
 
-\[1\] “[SISIR Scheme to Check Safety of Local Goods](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740629-1.2.38),” _Straits Times_, 29 June 1974, 7. (From NewspaperSG)
+[^67]: “[SISIR Scheme to Check Safety of Local Goods](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740629-1.2.38),” _Straits Times_, 29 June 1974, 7. (From NewspaperSG)
 
-\[1\] Singapore Institute of Standards and Industrial Research, [_Annual Report 1989_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308) (Singapore: Singapore Institute of Standards and Industrial Research), 25. (From National Library, Singapore, call no. RCLOS 354.5957093 SISIRA -\[AR\])
+[^68]: Singapore Institute of Standards and Industrial Research, [_Annual Report 1989_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308) (Singapore: Singapore Institute of Standards and Industrial Research), 25. (From National Library, Singapore, call no. RCLOS 354.5957093 SISIRA -\[AR\])
 
-\[1\]&nbsp;Singapore Institute of Standards and Industrial Research, [_Annual Report 1990_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308) (Singapore: Singapore Institute of Standards and Industrial Research), 8. (From National Library, Singapore, call no. RCLOS 354.5957093 SISIRA -\[AR\])
+[^69]: Singapore Institute of Standards and Industrial Research, [_Annual Report 1990_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308) (Singapore: Singapore Institute of Standards and Industrial Research), 8. (From National Library, Singapore, call no. RCLOS 354.5957093 SISIRA -\[AR\])
 
-\[1\] “[SISIR Becomes First Foreign Agent for JIS](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19860913-1.2.13.12),” _Business Times_, 13 September 1986, 2. (From NewspaperSG)
+[^70]: “[SISIR Becomes First Foreign Agent for JIS](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19860913-1.2.13.12),” _Business Times_, 13 September 1986, 2. (From NewspaperSG)
 
-\[1\] [Lee Kum Tatt](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/096b9a00-115e-11e3-83d5-0050568939adl), oral history interview by Dr Daniel Chew, 13 August 1993, transcript and MP3 audio, 29:33, Reel/Disc 6 of 10, National Archives of Singapore (accession no. 000821), 64.
+[^71]: [Lee Kum Tatt](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/096b9a00-115e-11e3-83d5-0050568939adl), oral history interview by Dr Daniel Chew, 13 August 1993, transcript and MP3 audio, 29:33, Reel/Disc 6 of 10, National Archives of Singapore (accession no. 000821), 64.
 
-\[1\] “[ISO 9000 – Ticket to Global Export Markets](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19921110-1.2.110.2.5),” _Straits Times_, 10 November 1992, 6. (From NewspaperSG)
+[^72]: “[ISO 9000 – Ticket to Global Export Markets](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19921110-1.2.110.2.5),” _Straits Times_, 10 November 1992, 6. (From NewspaperSG)
 
-\[1\] “[ISO 9000 — Licence to Export](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19911023-1.2.64.13.1.2),” _Straits Times_, 23 October 1991, 10. (From NewspaperSG)
+[^73]: “[ISO 9000 — Licence to Export](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19911023-1.2.64.13.1.2),” _Straits Times_, 23 October 1991, 10. (From NewspaperSG)
 
-\[1\] Singapore Institute of Standards and Industrial Research, [_Annual Report 1993_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308) (Singapore: Singapore Institute of Standards and Industrial Research), 4. (From National Library, Singapore, call no. RCLOS 354.5957093 SISIRA-\[AR\])
+[^74]: Singapore Institute of Standards and Industrial Research, [_Annual Report 1993_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308) (Singapore: Singapore Institute of Standards and Industrial Research), 4. (From National Library, Singapore, call no. RCLOS 354.5957093 SISIRA-\[AR\])
