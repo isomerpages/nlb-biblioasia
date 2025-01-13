@@ -11,7 +11,7 @@ description: ""
 
 A reputation for making quality products is essential, especially if a company wants to break into new markets. In their 2019 book _Good Economics for Hard Times_, Nobel prize-winning economists Abhijit Banerjee and Esther Duflo present a case study that illustrates this. Aid to Artisans (ATA), an American non-governmental organisation, sought to help artisans in developing countries reach international markets. In 2009, ATA received funding to implement a programme in Egypt and decided to promote handmade rugs from the town of Fowa. Even with ATA’s contacts and funding, it took 1.5 years to secure the first significant export order, and more than five years to reach orders totalling $150,000. Without the aid of ATA, this would probably have not been possible.
 
-Banerjee and Duflo suggest that the difficulty stems from the fact that from the perspective of a foreign buyer, a new supplier is always a gamble. The buyer – in this case, large retailers or online stores – has customers who expect both products of quality and regularity in supply. If there are delays or shoddy products, the reputational loss for the established foreign retailer would be too significant, even if the new supplier offered cheaper goods.  
+Banerjee and Duflo suggest that the difficulty stems from the fact that from the perspective of a foreign buyer, a new supplier is always a gamble. The buyer – in this case, large retailers or online stores – has customers who expect both products of quality and regularity in supply. If there are delays or shoddy products, the reputational loss for the established foreign retailer would be too significant, even if the new supplier offered cheaper goods.[^1]  
 
 A crucial problem for new entrants therefore concerns trustworthiness and credibility – of products, the manufacturer’s capability and commitment, and even their country’s situation. After all, it is not only the reputation of individual manufacturers that matters, but also that of the larger social entities they are associated with. National reputations can colour how a product is received – for example, a new Japanese entrant like Mitsubishi benefited from the reputation of older Japanese car brands for being well-made. The flip side is that a car made in a country without an existing reputation for producing quality cars would unfortunately seem like a riskier wildcard. 
 
@@ -150,13 +150,166 @@ Advertisements highlighting testing by SISIR continued after 1996 – the year S
 
 Certainly none of these measures, not even all of them taken together, indicate that SISIR was universally known, let alone beloved. But they make a compelling case that SISIR was taken seriously in its time and granted importance and authority in its domain. Now the question is whether SISIR will be given its well-deserved due in Singapore’s historical record.
 
-![](/images/Authors/sharad_pandian.png)
-
 <br>
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/sharad_pandian.png">
 <b>Sharad Pandian</b> graduated from Nanyang Technological University with a degree in physics before pursuing a Master of Philosophy in history and philosophy of science at the University of Cambridge as a Gates-Cambridge Scholar. Sharad is interested in the history of science and standardisation in Asia. He is a former Lee Kong Chian Research Fellow with the National Library, Singapore (2022–23). </div>
+
+#### **NOTES**
+       
+
+[^1]: Abhijit V. Banerjee and Esther Duflo, [_Good Economics for Hard Times: Better Answers to Our Biggest Problems_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205256074) (UK: Penguin Books, 2020), 84–85. (From National Library, Singapore call no. 330 BAN-\[BIZ\])
+
+\[1\] Banerjee &amp; Duflo, [_Good Economics for Hard Times_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205256074), 91–94.
+
+\[1\] Chang Chieh Hang, Teck Seng Low and Raj Thampuran, eds., [_The Singapore Research Story_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202459577) (Singapore: World Scientific, 2016), 16–18 (From National Library, Singapore, call no. RSING 330.95957 SIN); Loh Kah Seng et al., [_Theatres of Memory: Industrial Heritage of 20th Century Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205458434) (Singapore: Pagesetters Services, 2021), 161, 173. (From National Library, Singapore, call no. 338.095957 LOH)
+
+\[1\] Parliament of Singapore, _Second Reading of the Science Council of Singapore Bill_, vol. 26 of _Parliamentary Debates: Official Report_, 29 June 1967, cols. 47–48, [https://sprs.parl.gov.sg/search/#/topic?reportid=031\_19670629\_S0003\_T0013](https://sprs.parl.gov.sg/search/#/topic?reportid=031_19670629_S0003_T0013).
+
+\[1\] “[New Science Council](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19671114-1.2.35),” _Straits Times_, 14 November 1967, 4. (From NewspaperSG)
+
+\[1\] Science Council of Singapore, [_Annual Report of the Science Council of Singapore 1968_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=865be0ab-5929-4d9e-a6ba-4dd880dba3b8) (Singapore: Science Council of Singapore, 1968), 1. (From National Library, Singapore)
+
+\[1\] Science Council of Singapore, [_Annual Report of the Science Council of Singapore 1968_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=865be0ab-5929-4d9e-a6ba-4dd880dba3b8), 1.
+
+\[1\] Science Council of Singapore, [_Annual Report of the Science Council of Singapore 1968_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=865be0ab-5929-4d9e-a6ba-4dd880dba3b8), 1.
+
+\[1\] Whang Tar Liang, “Mr Whang Tar Liang’s Address at the Opening Ceremony,” in [Summary of Proceedings: Singapore Conference Hall 23rd to 26th October, 1968: National Conference on Scientific and Technical Co-operation between Industries and Governmental Bodies](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759) (Singapore: Singapore Science Council, 1968), 23. (From National Library, Singapore, call no. RSING 338.095951 NAT)
+
+\[1\] Ernest Wong, “Technical Co-operation Between Industries and the Economic Development Board,” 3rd Working Paper, in [Summary of Proceedings: Singapore Conference Hall 23rd to 26th October, 1968: National Conference on Scientific and Technical Co-operation between Industries and Governmental Bodies](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759) (Singapore: Singapore Science Council, 1968), 64\. (From National Library, Singapore, call no. RSING 338.095951 NAT)
+
+\[1\] Wong, “[Technical Co-operation Between Industries and the Economic Development Board](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759),” 64.
+
+\[1\] G.A. Baker and Woo Tihsien, “Government and Industrial Participation on Standards, Patents and Information and Consultative Services”, 2nd Working Paper, in [_Summary of Proceedings: Singapore Conference Hall 23rd to 26th October, 1968: National Conference on Scientific and Technical Co-operation between Industries and Governmental Bodies_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759) (Singapore: Singapore Science Council, 1968), 37. (From National Library, Singapore, call no. RSING 338.095951 NAT)
+
+\[1\] Baker and Woo, “[Government and Industrial Participation,](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759)” 37.
+
+\[1\] Baker and Woo, “[Government and Industrial Participation](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759),” 38.
+
+\[1\] Baker and Woo, “[Government and Industrial Participation](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759),” 40.
+
+\[1\] Baker and Woo, “[Government and Industrial Participation](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759),” 40.
+
+\[1\] Baker and Woo, “[Government and Industrial Participation](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759),” 50.
+
+\[1\] T. R. Pollard, “[Standards Association and Physical Standards for Singapore](https://www.nas.gov.sg/archivesonline/government_records/record-details/975ba9f7-1159-11e3-83d5-0050568939ad),” 1960. (From National Archives of Singapore, record reference no. 0051/60)
+
+\[1\] Singapore. Public Works Department, “[Advisory Council of the Industrial Research Unit](https://www.nas.gov.sg/archivesonline/government_records/record-details/ca7d8233-a651-11eb-b92a-005056a7c0ea),” 1965, 2. (From National Archives of Singapore, record reference no. 93/63)
+
+\[1\] Economic Development Board (EDB), “Appendix A: Recommendations for the Future,” [_Industrial Research Unit Annual Report 1964_](https://www.nas.gov.sg/archivesonline/government_records/record-details/46d0398c-bd17-11eb-a6b9-005056a7c0ea), 1964, A2. (From National Archives of Singapore, record reference no. B4/22) Online)
+
+\[1\] “[Appendix A: Recommendations for the Future](https://www.nas.gov.sg/archivesonline/government_records/record-details/46d0398c-bd17-11eb-a6b9-005056a7c0ea),” A2.
+
+\[1\] Economic Development Board, [_Annual Report 1968_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4182067) (Singapore: Malaya Publishing House, 1968), 30. (From National Library, Singapore, call no. RCLOS 338.95957 SIN)
+
+\[1\] “A Record of the Discussion on the 3rd Working Paper” in [Summary of Proceedings: Singapore Conference Hall 23rd to 26th October, 1968: National Conference on Scientific and Technical Co-operation between Industries and Governmental Bodies](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759) (Singapore: Singapore Science Council, 1968), 68. (From National Library, Singapore, call no. RSING 338.095951 NAT)
+
+\[1\] “A Record of the Discussion on 1st Working Paper,” in [Summary of Proceedings: Singapore Conference Hall 23rd to 26th October, 1968: National Conference on Scientific and Technical Co-operation between Industries and Governmental Bodies](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759) (Singapore: Singapore Science Council, 1968), 33. (From National Library, Singapore, call no. RSING 338.095951 NAT)
+
+\[1\] “A Record of the Discussion on the 2nd Working Paper, in [Summary of Proceedings: Singapore Conference Hall 23rd to 26th October, 1968: National Conference on Scientific and Technical Co-operation between Industries and Governmental Bodies](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759) (Singapore: Singapore Science Council, 1968), 49. (From National Library, Singapore, call no. RSING 338.095951 NAT)
+
+\[1\] “[A Record of the Discussion on 1st Working Paper](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759),” 33.
+
+\[1\] Economic Development Board, [_Annual Report 1969_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4182067) (Singapore: Malaya Publishing House, 1969), 32. (From National Library, Singapore, call no. RCLOS 338.95957 SIN)
+
+\[1\] Baker and Woo, “[Government and Industrial Participation](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759),” 39.
+
+\[1\] “[A Record of the Discussion on the 2nd Working Paper](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759),” 51.
+
+\[1\] “A Record of the Discussion by Group E – Electrical and Electronics,” in [Summary of Proceedings: Singapore Conference Hall 23rd to 26th October, 1968: National Conference on Scientific and Technical Co-operation between Industries and Governmental Bodies](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759) (Singapore: Singapore Science Council, 1968), 107. (From National Library, Singapore, call no. RSING 338.095951 NAT)
+
+\[1\] “[A Record of the Discussion on the 2nd Working Paper](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759),” 51.
+
+\[1\] “[A Record of the Discussion on the 2nd Working Paper](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759),” 50.
+
+\[1\] Parliament of Singapore, _Economic Development Board (Amendment) Bill_, vol. 29 of _Parliamentary Debates: Official Report_, 11 June 1969, cols. 21–25,
+
+[https://sprs.parl.gov.sg/search/#/report?sittingdate=11-06-1969](https://sprs.parl.gov.sg/search/#/report?sittingdate=11-06-1969).
+
+\[1\] Singapore Institute of Standards and Industrial Research Bill 1973, Bill 43 of 1973, provision 36, _Statues Online_, [https://sso.agc.gov.sg/Bills-Supp/43-1973/Published/19730716?DocDate=19730716&amp;WholeDoc=1#pr34-](https://sso.agc.gov.sg/Bills-Supp/43-1973/Published/19730716?DocDate=19730716&amp;WholeDoc=1#pr34-).
+
+\[1\] Parliament of Singapore, _Oral Answers to Questions: Singapore Institute of Standards and Industrial Research_, vol. 30 of _Parliamentary Debates: Official Report_, 2 September 1970
+
+Oral Answers to Questions, 2 September 1970, col. 181, [https://sprs.parl.gov.sg/search/#/topic?reportid=014\_19700902\_S0006\_T0029](https://sprs.parl.gov.sg/search/#/topic?reportid=014_19700902_S0006_T0029).
+
+\[1\] &nbsp;Singapore Institute of Standards and Industrial Research Bill 1973, Bill 43 of 1973, [provision 36](https://sso.agc.gov.sg/Bills-Supp/43-1973/Published/19730716?DocDate=19730716).
+
+\[1\] Singapore Institute of Standards and Industrial Research Bill 1973, Bill 43 of 1973, [provision 17](https://sso.agc.gov.sg/Bills-Supp/43-1973/Published/19730716?DocDate=19730716&amp;WholeDoc=1#pr17-).
+
+\[1\] Singapore Institute of Standards and Industrial Research Bill 1973, Bill 43 of 1973, [provision 17](https://sso.agc.gov.sg/Bills-Supp/43-1973/Published/19730716?DocDate=19730716&amp;WholeDoc=1#pr17-).
+
+\[1\] Singapore Institute of Standards and Industrial Research, [_Annual Report 1973/74_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308) (Singapore: Singapore Institute of Standards and Industrial Research, 1974), 14. (From National Library, Singapore, call no. RCLOS 354.5957093 SISIRA)
+
+\[1\] Singapore Institute of Standards and Industrial Research, [_Annual Report 1974/75_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308) (Singapore: Singapore Institute of Standards and Industrial Research, 1975), 8. (From National Library, Singapore, call no. RCLOS 354.5957093 SISIRA)
+
+\[1\] Sandra Davie, “[Baby, Have We Got News for You](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19890904-1.2.28.16),” _Straits Times_, 4 September 1989, 15. (From NewspaperSG)
+
+\[1\] “[Environment-Friendly Bags Available in S’pore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19900101-1.2.23.13),” _Straits Times_, 1 January 1990, 20. (From NewspaperSG)
+
+\[1\] Lim Phay-Ling, “[Carrier Bags With a Big Difference](https://eresources.nlb.gov.sg/newspapers/digitised/article/newpaper19900312-1.2.6.9),” _New Paper_, 12 March 1990, 6. (From NewspaperSG)
+
+\[1\] “SAS Observes Earth Day 1990,” [_Singapore American_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4184528), 34, no. 5 (May 1990): 20. (From National Library, Singapore, call no. RCLOS 051 SA)
+
+\[1\] “SAS Earth Day Update,” in [_Singapore American_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4184528), 34, no, 5 (June 1990): 19. (From National Library, Singapore, call no. RCLOS 051 SA)
+
+\[1\] “[Bagging the Claim](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19900616-1.2.42.1.4),” _Business Times_, 16 June 1990, 17. (From NewspaperSG)
+
+\[1\] Cephah Tan, “[Plastic Bag Failed to Disintegrate, Says Body Shop](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19900620-1.2.36.4),” _Straits Times_, 20 June 1990, 25. (From NewspaperSG)
+
+\[1\] “[Plastic Bag Failed to Disintegrate, Says Body Shop](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19900620-1.2.36.4)”
+
+\[1\] “[Many Supermarts Drop Plans to Use Self-destruct Bags](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19900714-1.2.33.1),” _Straits Times_, 14 July 1990, 21. (From NewspaperSG)
+
+\[1\] Dominic Nathan, “[Self-Destruct Bags Do Break Down](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19900922-1.2.32.13),” _Straits Times_, 22 September 1990, 27. (From NewspaperSG)
+
+\[1\] Huda Finn, “[Self-destruct Bags: Some More Light](https://eresources.nlb.gov.sg/newspapers/digitised/article/newpaper19901015-1.2.10.2),” _New Paper_, 15 October 1990, 6. (From NewspaperSG)
+
+\[1\] Percy Seneviratne, “[PQR Shows What It Really Means to Think Quality in the Work You Do](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730517-1.2.81),” _Straits Times_, 17 May 1973, 12. (From NewspaperSG)
+
+\[1\] Hon Sui Sen, “[The Singapore Manufacturers' Association Dinner](https://www.nas.gov.sg/archivesonline/speeches/record-details/7c852cc8-115d-11e3-83d5-0050568939ad),” speech, Mandarin Court Restaurant, 30 June 1972, transcript, Ministry of Culture. (From National Archives of Singapore, document no. Pressr19720630)
+
+\[1\] [_Why Labour Must Go Modern! The NTUC Case for a Modernized Labour Movement_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4081659) (Singapore: National Trades Union Congress, 1970) (From National Library, Singapore, call no. RCLOS 331.88 SEM)
+
+\[1\] [_Prosperity Through Quality and Reliability Campaign (Under the Distinguished Patronage of Mr Hon Sui Sen, Minister of Finance):_ _Commemorative Programme 23 February 1973_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200111515) (Singapore: PQR Campaign Organising Committee, 1973) (From PublicationSG)
+
+\[1\] [_Prosperity Through Quality and Reliability Campaign_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200111515).
+
+\[1\] [_Prosperity Through Quality and Reliability Campaign_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200111515).
+
+\[1\] Singapore Institute of Standards and Industrial Research, [_Industrial News and Research_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4821366), 2, no. 4 (October 1972): 8–9. (From National Library, Singapore, call no. RCLOS 607.25957 INR)
+
+\[1\] Singapore Institute of Standards and Industrial Research, [_Industrial News and Research_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4821366), 3, no. 4 (December 1973): 9. (From National Library, Singapore, call no. RCLOS 607.25957 INR)
+
+\[1\] [_Industrial News and Research_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4821366), October 1972, 5.
+
+\[1\] Andrew Lau, “[PQR Issues Will Be Out Tomorrow](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19730224-1.2.51.15),” _New Nation_, 24 February 1973, 10. (From NewspaperSG)
+
+\[1\] [_Industrial News and Research_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4821366), October 1972, 3.
+
+\[1\] R. Chandran, “[Wider Power, Bigger Role for SISIR](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730224-1.2.21),” _Straits Times_, 24 February 1973, 5. (From NewspaperSG)
+
+\[1\] [_Prosperity Through Quality and Reliability Campaign_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200111515).
+
+\[1\] Lim Cheng Tju, “Singapore Political Cartooning,” [_Southeast Asian Journal of Social Science_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5053584) 25, no.1 (1997): 131–35. (From National Library, Singapore, call no. RSING 300.5 SAJSS)
+
+\[1\] [_Standards in Your Life_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4699022) (Singapore: SISIR, 1978), 14. (From National Library, Singapore, call no. RSING 602.12 SIN)
+
+\[1\] “[SISIR Scheme to Check Safety of Local Goods](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740629-1.2.38),” _Straits Times_, 29 June 1974, 7. (From NewspaperSG)
+
+\[1\] Singapore Institute of Standards and Industrial Research, [_Annual Report 1989_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308) (Singapore: Singapore Institute of Standards and Industrial Research), 25. (From National Library, Singapore, call no. RCLOS 354.5957093 SISIRA -\[AR\])
+
+\[1\]&nbsp;Singapore Institute of Standards and Industrial Research, [_Annual Report 1990_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308) (Singapore: Singapore Institute of Standards and Industrial Research), 8. (From National Library, Singapore, call no. RCLOS 354.5957093 SISIRA -\[AR\])
+
+\[1\] “[SISIR Becomes First Foreign Agent for JIS](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19860913-1.2.13.12),” _Business Times_, 13 September 1986, 2. (From NewspaperSG)
+
+\[1\] [Lee Kum Tatt](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/096b9a00-115e-11e3-83d5-0050568939adl), oral history interview by Dr Daniel Chew, 13 August 1993, transcript and MP3 audio, 29:33, Reel/Disc 6 of 10, National Archives of Singapore (accession no. 000821), 64.
+
+\[1\] “[ISO 9000 – Ticket to Global Export Markets](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19921110-1.2.110.2.5),” _Straits Times_, 10 November 1992, 6. (From NewspaperSG)
+
+\[1\] “[ISO 9000 — Licence to Export](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19911023-1.2.64.13.1.2),” _Straits Times_, 23 October 1991, 10. (From NewspaperSG)
+
+\[1\] Singapore Institute of Standards and Industrial Research, [_Annual Report 1993_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308) (Singapore: Singapore Institute of Standards and Industrial Research), 4. (From National Library, Singapore, call no. RCLOS 354.5957093 SISIRA-\[AR\])
 
 
 
