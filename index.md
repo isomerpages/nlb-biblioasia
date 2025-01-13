@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-20/issue-4/jan-mar-2025/john-sturgus-bastin-a-memoir/
-      button: "John Sturgus Bastin: A Memoir"
+      url: /vol-20/issue-4/jan-mar-2025/origins-of-kueh-pie-tee/
+      button: "Cups and Sources: Hunting Down the Origins of Kueh Pie Tee"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 20 Issue 4/John Sturgus Bastin/HeroImage_bastin_2.jpg
+      background: /images/Vol 20 Issue 4/Kueh Pie Tee/HeroImage_kueh_4.jpg
   - infopic:
       title: What Makes An Animal Singaporean?
       subtitle: Podcast
