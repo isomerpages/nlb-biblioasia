@@ -217,9 +217,9 @@ Certainly none of these measures, not even all of them taken together, indicate 
 
 [^18]: Economic Development Board (EDB), “Appendix A: Recommendations for the Future,” [_Industrial Research Unit Annual Report 1964_](https://www.nas.gov.sg/archivesonline/government_records/record-details/46d0398c-bd17-11eb-a6b9-005056a7c0ea), 1964, A2. (From National Archives of Singapore, record reference no. B4/22) Online)
 
-[^10]:\[1\] “[Appendix A: Recommendations for the Future](https://www.nas.gov.sg/archivesonline/government_records/record-details/46d0398c-bd17-11eb-a6b9-005056a7c0ea),” A2.
+[^19]: “[Appendix A: Recommendations for the Future](https://www.nas.gov.sg/archivesonline/government_records/record-details/46d0398c-bd17-11eb-a6b9-005056a7c0ea),” A2.
 
-\[1\] Economic Development Board, [_Annual Report 1968_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4182067) (Singapore: Malaya Publishing House, 1968), 30. (From National Library, Singapore, call no. RCLOS 338.95957 SIN)
+[^20]: Economic Development Board, [_Annual Report 1968_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4182067) (Singapore: Malaya Publishing House, 1968), 30. (From National Library, Singapore, call no. RCLOS 338.95957 SIN)
 
 \[1\] “A Record of the Discussion on the 3rd Working Paper” in [Summary of Proceedings: Singapore Conference Hall 23rd to 26th October, 1968: National Conference on Scientific and Technical Co-operation between Industries and Governmental Bodies](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759) (Singapore: Singapore Science Council, 1968), 68. (From National Library, Singapore, call no. RSING 338.095951 NAT)
 
