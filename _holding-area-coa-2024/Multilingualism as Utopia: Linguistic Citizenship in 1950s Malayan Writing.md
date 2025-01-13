@@ -1,32 +1,36 @@
 ---
 title: "Multilingualism as Utopia: Linguistic Citizenship in 1950s Malayan Writing"
 permalink: /holding-area/chapters-of-asia-2024/multilingualism-as-utopia/
-variant: tiptap
+variant: markdown
 description: ""
 ---
-<p>The 1950s was a decade of radical transformation in Malaya. In the aftermath
+The 1950s was a decade of radical transformation in Malaya. In the aftermath
 of the Japanese Occupation (1942–45) and before the idea of political independence
 from colonial rule became reality, Malaya, including Singapore, was embroiled
 in the rise of anti-colonial sentiments and British suppression of communist
 insurgencies. This culminated in the promulgation of the Emergency Act
-in June 1948, which remained in effect till July 1960.[^1]</p>
-<p>In the intervening years, Malaya’s sociopolitical landscape was mired
+in June 1948, which remained in effect till July 1960.[^1]
+
+In the intervening years, Malaya’s sociopolitical landscape was mired
 in ideological tensions and armed conflict. Precisely due to these tensions,
 a nascent Malayan consciousness began to take shape, with important implications
 for literary and cultural activities. More specifically, this period of
 extraordinary flux in identity incubated the notion of a distinctive Malayan
 literature and culture, a hitherto nonexistent category, thereby opening
-the way to a vibrant tradition of creative writing in the region.</p>
-<p>This article looks at two parallel developments in the Chinese-language
+the way to a vibrant tradition of creative writing in the region.
+
+This article looks at two parallel developments in the Chinese-language
 and English-language literary circles during this period. Both involved
 multilingual innovation in the written language, namely the infusion of
 Chinese dialects in Sinophone fiction and the mixing of resources from
 English, Malay, and Chinese in Anglophone poetry. The article traces the
 ideological circumstances behind these developments and examines the historical
 significance of these multilingual experiments in terms of how they articulate
-the sociopolitical aspirations of intellectuals in those turbulent times.</p>
-<h4><strong>Uniqueness of Malayan Chinese Literature</strong></h4>
-<p>As an important conduit of expression, literature bloomed in postwar Malaya,
+the sociopolitical aspirations of intellectuals in those turbulent times.
+
+#### **Uniqueness of Malayan Chinese Literature**
+
+As an important conduit of expression, literature bloomed in postwar Malaya,
 at a time when people were seeking to invent an imagined geopolitical community[^2]
 in which to position themselves beyond the colonial grid. It is unsurprising,
 therefore, that literary writing proliferated in the 1950s, in contrast
@@ -35,27 +39,30 @@ literature was concerned at least, the 1950s was a more spirited period
 than the 1960s.[^3] This was the decade when Chinese fiction writers in
 Malaya became increasingly experimental with their language medium, which
 was by convention a standard written Chinese based on the Mandarin vernacular
-hailing from the 1919 May Fourth Movement in China.</p>
-<p>As we will see, instead of featuring only the standard language, Chinese
+hailing from the 1919 May Fourth Movement in China.
+
+As we will see, instead of featuring only the standard language, Chinese
 fiction of this period was marked by bits and pieces of Chinese dialects
 and colloquial Malay. Prior to this, these latter tongues belonged to the
 streets and were not seen as legitimate registers for literary writing
 among Malayan Chinese authors. The backdrop to such experimentation was
 a polemic, dubbed as the Great Debate, that occurred between December 1947
 and April 1948. This took the form of a “paper war” across literary supplements
-of several major Chinese newspapers of the time, such as <em>Sin Chew Jit Poh</em>, <em>Nan Chiau Jit Pao</em>,
-and <em>Min Sheng Pau</em>. Two camps of writers, the Malayan-Chinese Literature
+of several major Chinese newspapers of the time, such as *Sin Chew Jit Poh* *Nan Chiau Jit Pao*,
+and *Min Sheng Pau*. Two camps of writers, the Malayan-Chinese Literature
 School and the Overseas-Chinese Literature School,[^4] expressed opposing
 stances around the contentious idea of the “uniqueness of Malayan Chinese
-literature”.</p>
-<p>The first group believed that the Chinese literature of Malaya should
+literature”.
+
+The first group believed that the Chinese literature of Malaya should
 be distinct from that of China, as each developed under very different
 sociopolitical circumstances. The latter group, comprising the so-called
 immigrant writers (writers from China who sojourned in Malaya), sometimes
 derogatorily called refugee writers, insisted that Malayan Chinese literature
 was but a diasporic offshoot of Chinese literature from China and thus
-was not fundamentally unique.[^5]</p>
-<p>Twenty-five articles were exchanged in this debate, including some by
+was not fundamentally unique.[^5]
+
+Twenty-five articles were exchanged in this debate, including some by
 a minority of contributors who sat on the fence. The jury is out as to
 which camp “won” the debate – though there seems to be a degree of consensus
 among scholars that the Malayan School took dominance, although renowned
@@ -64,16 +71,18 @@ victorious. Wang felt that the Malayan-Chinese School lost out “not because
 of lack of support among writers – in fact, the young, the local-born,
 supported them wholeheartedly. But they lost because the newspapers and
 publishers were dominated by men who insisted that all their writing should
-be seen as tributaries of the main river of literature of China”.[^6]</p>
-<p>This divergence in opinion may be attributed to the fact that precisely
+be seen as tributaries of the main river of literature of China”.[^6]
+
+This divergence in opinion may be attributed to the fact that precisely
 what counts as winning or losing is far from clear. On the face of the
 evidence, however, Wang’s retrospective assessment is slightly curious
 for two reasons. First, as mentioned earlier, the articles constituting
 the Great Debate were published in the literary supplements of leading
 Chinese newspapers, which means the Malayan-Chinese School was not at all
 deprived of media space to communicate their position, notwithstanding
-the stance of the newspaper editors.</p>
-<p>Second, in a matter of years, the Overseas-Chinese School had all but
+the stance of the newspaper editors.
+
+Second, in a matter of years, the Overseas-Chinese School had all but
 disappeared from the local literary scene. The advocates of the “uniqueness
 of Malayan Chinese literature” eventually prevailed due to historical contingencies.
 After the British declared a state of emergency in Malaya in June 1948,
@@ -82,16 +91,18 @@ China.[^7] Strict controls over imported reading material from China were
 imposed under the Emergency Regulations Ordinance (1948). The Ordinance
 entailed the Emergency (Publications–Import Control) Regulations and the
 Emergency (Publications–Control of Sale and Circulation) Regulations.[^8]
-Clause 5(1) in the first set of Regulations declared that</p>
-<p>“[t]he Controller and an authorised officer shall have power to detain,
+Clause 5(1) in the first set of Regulations declared that
+
+“[t]he Controller and an authorised officer shall have power to detain,
 open and examine any article coming into the Federation [of Malaya] in
 any manner whatsoever from any place outside the Federation which a Controller
 or an authorised officer has reason to believe contains or consists of
-a publication (hereinafter in these Regulations called a “prejudicial publication”)–</p>
-<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the importation
+a publication (hereinafter in these Regulations called a “prejudicial publication”)–
+
+(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the importation
 of which is by reason of the existence of the state of emergency prejudicial
 to the successful prosecution of measures taken in the Federation [of Malaya]
-or in the Colony [of Singapore] to terminate the emergency[.]”[^9]</p>
+or in the Colony [of Singapore] to terminate the emergency[.]”[^9]<p></p>
 <p>And Clause 3(1) in the second set of Regulations uses a parallel wording
 in respect of the sale and circulation of material deemed politically sensitive.
 For the purposes of both Regulations, literary books and magazines from
@@ -496,8 +507,9 @@ toward the end of the 1950s.</p>
 in the School of English, University of Hong Kong. He was a National Library
 Singapore Lee Kong Chian Research Fellow in 2022–23.</p>
 <h4><strong>NOTES</strong></h4>
-<p>[^1]: Liviniyah P., “<a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=5896ad6b-03ab-4d31-80a7-dbebb2bb17d7" rel="noopener noreferrer nofollow" target="_blank">Malayan Emergency</a>”,
-Singapore Infopedia, published May 2019.</p>
+[^1]: Liviniyah P., “[Malayan Emergency](https://www.nlb.gov.sg/main/article-detail?cmsuuid=5896ad6b-03ab-4d31-80a7-dbebb2bb17d7)”, Singapore Infopedia, published May 2019.
+Liviniyah P., nofollow" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=5896ad6b-03ab-4d31-80a7-dbebb2bb17d7"&gt;Malayan Emergency”
+Singapore Infopedia, published May 2019.
 <p>[^2]: Benedict Anderson, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=12799969" rel="noopener noreferrer nofollow" target="_blank">Imagined Communities: Reflections on the Origins and Spread of Nationalism</a></em> (London:
 Verso, 1991). (From National Library, Singapore, call no. RSING 320.54
 AND)</p>
