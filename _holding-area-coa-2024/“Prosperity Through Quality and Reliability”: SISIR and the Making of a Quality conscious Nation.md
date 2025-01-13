@@ -150,7 +150,13 @@ Advertisements highlighting testing by SISIR continued after 1996 – the year S
 
 Certainly none of these measures, not even all of them taken together, indicate that SISIR was universally known, let alone beloved. But they make a compelling case that SISIR was taken seriously in its time and granted importance and authority in its domain. Now the question is whether SISIR will be given its well-deserved due in Singapore’s historical record.
 
+![](/images/Authors/sharad_pandian.png)
 
+<br>
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/sharad_pandian.png">
+<b>Sharad Pandian</b> graduated from Nanyang Technological University with a degree in physics before pursuing a Master of Philosophy in history and philosophy of science at the University of Cambridge as a Gates-Cambridge Scholar. Sharad is interested in the history of science and standardisation in Asia. He is a former Lee Kong Chian Research Fellow with the National Library, Singapore (2022–23). </div>
 
 
 
