@@ -114,43 +114,43 @@ I would therefore appeal to Singaporeans to receive each new National Day song w
 #### **NOTES**
      
 
-[^1]:     
+[^1]:  “Mary’s Solo Effort Hits the Top Note,” _Straits Times_, 6 May 1975, 13. (From NewspaperSG)
 
-[^2]:     
+[^2]:  “20 for Song Writing Contest,” _New Nation_, 1 June 1977, 3. (From NewspaperSG)   
 
-[^3]:     
+[^3]: Judith Holmberg, “‘Put the Sing into S’pore’ N-Day Shows,” _New Nation_, 30 July 1979, 19. (From NewspaperSG)&nbsp;    
 
-[^4]:     
+[^4]: “13 Pool Talents to Write Songs on S’pore,” _Straits Times_, 5 September 1979, 7; “28 Chinese Songs Given Music Scores,” _Straits Times_, 3 December 1979, 7; “12 More of Our Songs to Keep in Tune With,” _Straits Times_, 15 June 1980, 11. (From NewspaperSG)    
 
-[^5]:     
+[^5]: Khng Eu Meng, “Composers’ Circle Holds Its Third Presentation of Local Works,” _New Nation_, 30 January 1981, 12–13. (From NewspaperSG)    
 
-[^6]:     
+[^6]: “Debut of 17 Chinese Songs,” _New Nation_, 17 February 1981, 23. (From NewspaperSG)    
 
-[^7]:     
+[^7]: Cynthia Wee, “‘Singapura’ to Be One of Our National Songs?” _Straits Times_, 23 May 1980, 1. (From NewspaperSG)   
 
-[^8]:     
+[^8]: Bridget Tan, “Quest for Old Local Hit Songs,” _Straits Times_, 17 November 1981, 36. (From NewspaperSG)   
 
-[^9]:     
+[^9]: “Looking for the S’pore Flavour in Local Songs,” _Straits Times_, 29 March 1982, 9. (From NewspaperSG)       
 
-[^10]:      
+[^10]: “Pick Your Own Songs,” _Singapore Monitor_, 12 January 1983, 4. (From NewspaperSG)
 
-[^11]:     
+[^11]: Chan Eng Cheng, “You Will Pick the Songs of Singapore,” _Straits Times_, 12 January 1983, 9. (From NewspaperSG)    
 
-[^12]:     
+[^12]: “Looking for the S’pore Flavour in Local Songs.”   
 
-[^13]:     
+[^13]: Scott Anthony and Lynelle Tan, “Last Night of the Proms in Singapore,” London Review of Books blog, 8 September 2018, https://www.lrb.co.uk/blog/2018/september/last-night-of-the-proms-in-singapore.    
 
-[^14]:     
+[^14]:  “‘Stand Up for Singapore’ Makes Its Debut on Saturday’,” _Singapore Monitor_, 30 May 1984, 2. (From NewspaperSG)   
 
-[^15]:     
+[^15]: “Really, a Canadian?” _New Paper_, 27 July 2013, 2–3. (From NewspaperSG)    
 
-[^16]:     
+[^16]: “The McCann-Erikson Campaign That Set Them Singing,” _Business Times_, 18 August 1986, 3. (From NewspaperSG)    
 
-[^17]:     
+[^17]: Paul Jacob and Juliana Ng, “Wanted: More Songs With That Singapore Flavour,” _Straits Times_, 1 December 1986, 34; “‘We Are Singapore’ Nets Chest $140,000’,” _Straits Times_, 9 October 1987, 19. (From NewspaperSG)&nbsp;    
 
-[^18]:     
+[^18]: Jennifer Koh and K.F. Seetoh, “A Rousing Start to Singing Campaign,” _Straits Times_, 31 January 1988, 3. (From NewspaperSG)    
 
-[^19]:     
+[^19]: “Get Ready to Put Some ‘Sing’ into Singapore,” _Straits Times_, 13 January 1988, 28. (From NewspaperSG)     
 
 [^20]:  “Get Ready to Put Some ‘Sing’ into Singapore.”
 
