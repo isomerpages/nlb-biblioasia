@@ -152,43 +152,43 @@ I would therefore appeal to Singaporeans to receive each new National Day song w
 
 [^19]:     
 
-[^20]:
-     
+[^20]:  “Get Ready to Put Some ‘Sing’ into Singapore.”
 
-[^21]:     
+[^21]: “2,300 Civil Servants in Singing Contest,” _Straits Times_, 15 March 1988, 14. (From NewspaperSG)    
 
-[^22]:     
+[^22]: “Gardeners, Soldiers, Policemen, But Singers All,” _Straits Times_, 8 June 1988, 19. (From NewspaperSG)    
 
-[^23]:     
+[^23]: “Gardeners, Soldiers, Policemen, But Singers All.”    
 
-[^24]:     
+[^24]: “They Are Fantastic,” _Straits Times_, 24 July 1988, 1. (From NewspaperSG)    
 
-[^25]:     
+[^25]:  Sharon Simon, “Swinging End to Sing Singapore Programme,” _Straits Times_, 1 September 1988, 19. (From NewspaperSG)   
 
-[^26]:     
+[^26]: Dominic Nathan, “Rousing Start to Sing Singapore ’90,” _Straits Times_, 30 December 1989, 1. (From NewspaperSG)    
 
-[^27]:     
+[^27]: “20 Choirs to Compete in Finals of Community Song Contest,” _Straits Times_, 12 July 1990, 20. (From NewspaperSG)
+   
+[^28]: “Alumni Group Bags 3 Prizes in Sing Singapore,” _Straits Times_, 16 August 1992. (From NewspaperSG)
+    
+[^29]: “S’pore Song,” _New Paper_, 10 July 1991, 4; Brian Miller, “Singapore Song Duo,” _New Pape_r, 13 July 1991, 20. (From NewspaperSG)
+    
+[^30]: “Sing Singapore ’94: A Festival of Songs,” _Straits Times_, 18 October 1993, 14; “Sing Singapore ’94 Contest Begins,” _Straits Times_, 29 May 1994, 21. (From NewspaperSG)
 
-[^28]:     
+[^31]: Phan Ming Yen, “This Year’s Song Fest Will Reach Out to Wider Audience,” _Straits Times_, 6 April 1996, 4. (From NewspaperSG)    
 
-[^29]:     
+[^32]: Ministry of Information and the Arts, “Search for a New National Song,” press release, March 1997.&nbsp;    
 
-[^30]:      
+[^33]: National Arts Council, “Agenda for Sing Singapore 98 Committee Meeting,” 12 January 1998.    
 
-[^31]:     
+[^34]: Ainslyn Lim, “5 of the Best ‘Home’ Covers You Can Listen to on Repeat on National Day,” Today, 9 August 2023, https://www.todayonline.com/8days/5-best-home-covers-you-can-listen-repeat-national-day-2229216.
 
-[^32]:     
+[^35]: “Weezer’s Lead Singer Covers Singapore National Day Parade Song Home,” CNA, 10 October 2023, https://cnalifestyle.channelnewsasia.com/entertainment/weezer-rivers-cuomo-covers-kit-chan-home-372891; Lee Wei Lin, “K-Pop Group Mamamoo’s Solar Sings ‘Home’ During S’pore Concert,” mothership, 28 July 2024, https://mothership.sg/2024/07/mamamoo-solar-sg-home-singlish/.    
 
-[^33]:     
+[^36]: Jason Leow, “Lyricist Says Bonds Today Are Stronger,” _Straits Times_, 31 July 1998, 49. (From NewspaerSG)    
 
-[^34]:     
+[^37]: Letter from Leen Kim Swee to Bernard Tan, 21 January 2004, National Arts Council.&nbsp;    
 
-[^35]:     
+[^38]: “Singapore Symphony Choruses Present: We Will Get There,” Youtube, 16 June 2020, https://youtu.be/yo6tCVJ-PdA?si=izrxqbx\_5J2u3UYp.
+    
 
-[^36]:     
-
-[^37]:     
-
-[^38]:     
-
-[^39]:
+[^39]: Eddino Abdul Hadi, “The 5 Best NDP Theme Songs, From the Road Ahead to Home,” _Straits Times_, 27 July 2023, https://www.straitstimes.com/life/entertainment/the-5-best-ndp-theme-songs-from-the-road-ahead-to-home.
