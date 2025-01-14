@@ -62,7 +62,7 @@ Here we see a succession of terms (in bold) that would surely baffle the non-loc
 
 
 <img src="/images/COA%202024/Multilingualism%20as%20Utopia/IMG_4118_cp.jpg" style="width:50%;">
-<div style="background-color: white;">    Cover of《新加坡屋顶下》<i> (_Xinjiapo Wuding Xia_;&nbsp;_Under Singapore's Roof_) by Miao Xiu (1951). (_From National Library, Singapore, call no. Chinese C813.4 MX_).  </i></div>
+<div style="background-color: white;">    Cover of《新加坡屋顶下》<i>(Xinjiapo Wuding Xia;Under Singapore's Roof by Miao Xiu (1951). (From National Library, Singapore, call no. Chinese C813.4 MX).  </i></div>
 
 On occasion, Cantonese and Hokkien are mingled within a single utterance, increasing its heterogeneity. In some scenes characters interact using different dialects in alternation, for example, when one person speaks in Cantonese and the interlocutor responds in Hokkien. This technique of code-switching creates a complex weave of different voices on the page, even though it also produces a contrived linguistic style peculiar to the literary prose of this period. 
 
