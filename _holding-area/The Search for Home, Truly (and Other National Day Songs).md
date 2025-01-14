@@ -114,29 +114,29 @@ I would therefore appeal to Singaporeans to receive each new National Day song w
 #### **NOTES**
      
 
-[^1]:  “Mary’s Solo Effort Hits the Top Note,” _Straits Times_, 6 May 1975, 13. (From NewspaperSG)
+[^1]:  “[Mary’s Solo Effort Hits the Top Note](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19750506-1.2.89),” _Straits Times_, 6 May 1975, 13. (From NewspaperSG)
 
-[^2]:  “20 for Song Writing Contest,” _New Nation_, 1 June 1977, 3. (From NewspaperSG)   
+[^2]:  “[20 for Song Writing Contest](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19770601-1.2.24),” _New Nation_, 1 June 1977, 3. (From NewspaperSG)   
 
-[^3]: Judith Holmberg, “‘Put the Sing into S’pore’ N-Day Shows,” _New Nation_, 30 July 1979, 19. (From NewspaperSG)&nbsp;    
+[^3]: Judith Holmberg, “‘[Put the Sing into S’pore’ N-Day Shows](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19790730-1.2.59.1),” _New Nation_, 30 July 1979, 19. (From NewspaperSG)&nbsp;    
 
-[^4]: “13 Pool Talents to Write Songs on S’pore,” _Straits Times_, 5 September 1979, 7; “28 Chinese Songs Given Music Scores,” _Straits Times_, 3 December 1979, 7; “12 More of Our Songs to Keep in Tune With,” _Straits Times_, 15 June 1980, 11. (From NewspaperSG)    
+[^4]: “[13 Pool Talents to Write Songs on S’pore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19790905-1.2.28),” _Straits Times_, 5 September 1979, 7; “[28 Chinese Songs Given Music Scores](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19791203-1.2.26),” _Straits Times_, 3 December 1979, 7; “[12 More of Our Songs to Keep in Tune With](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19800615-1.2.59),” _Straits Times_, 15 June 1980, 11. (From NewspaperSG)    
 
-[^5]: Khng Eu Meng, “Composers’ Circle Holds Its Third Presentation of Local Works,” _New Nation_, 30 January 1981, 12–13. (From NewspaperSG)    
+[^5]: Khng Eu Meng, “[Composers’ Circle Holds Its Third Presentation of Local Works](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19810130-1.2.57.3),” _New Nation_, 30 January 1981, 12–13. (From NewspaperSG)    
 
-[^6]: “Debut of 17 Chinese Songs,” _New Nation_, 17 February 1981, 23. (From NewspaperSG)    
+[^6]: “[Debut of 17 Chinese Songs](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19810217-1.2.74.1),” _New Nation_, 17 February 1981, 23. (From NewspaperSG)    
 
-[^7]: Cynthia Wee, “‘Singapura’ to Be One of Our National Songs?” _Straits Times_, 23 May 1980, 1. (From NewspaperSG)   
+[^7]: Cynthia Wee, “‘[Singapura’ to Be One of Our National Songs?](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19800523-1.2.3)” _Straits Times_, 23 May 1980, 1. (From NewspaperSG)   
 
-[^8]: Bridget Tan, “Quest for Old Local Hit Songs,” _Straits Times_, 17 November 1981, 36. (From NewspaperSG)   
+[^8]: Bridget Tan, “[Quest for Old Local Hit Songs](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19811117-1.2.118),” _Straits Times_, 17 November 1981, 36. (From NewspaperSG)   
 
-[^9]: “Looking for the S’pore Flavour in Local Songs,” _Straits Times_, 29 March 1982, 9. (From NewspaperSG)       
+[^9]: “[Looking for the S’pore Flavour in Local Songs](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19820328-1.2.54),” _Straits Times_, 29 March 1982, 9. (From NewspaperSG)       
 
-[^10]: “Pick Your Own Songs,” _Singapore Monitor_, 12 January 1983, 4. (From NewspaperSG)
+[^10]: “[Pick Your Own Songs](https://eresources.nlb.gov.sg/newspapers/digitised/article/singmonitor19830112-2.2.8.5.2),” _Singapore Monitor_, 12 January 1983, 4. (From NewspaperSG)
 
-[^11]: Chan Eng Cheng, “You Will Pick the Songs of Singapore,” _Straits Times_, 12 January 1983, 9. (From NewspaperSG)    
+[^11]: Chan Eng Cheng, “[You Will Pick the Songs of Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19830112-1.2.25),” _Straits Times_, 12 January 1983, 9. (From NewspaperSG)    
 
-[^12]: “Looking for the S’pore Flavour in Local Songs.”   
+[^12]: “[Looking for the S’pore Flavour in Local Songs](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19820328-1.2.54).”   
 
 [^13]: Scott Anthony and Lynelle Tan, “Last Night of the Proms in Singapore,” London Review of Books blog, 8 September 2018, https://www.lrb.co.uk/blog/2018/september/last-night-of-the-proms-in-singapore.    
 
