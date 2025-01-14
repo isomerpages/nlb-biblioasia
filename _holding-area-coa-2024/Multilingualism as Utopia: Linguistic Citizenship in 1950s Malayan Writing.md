@@ -27,13 +27,13 @@ Second, in a matter of years, the Overseas-Chinese School had all but disappeare
 
 “[t]he Controller and an authorised officer shall have power to detain, open and examine any article coming into the Federation [of Malaya] in any manner whatsoever from any place outside the Federation which a Controller or an authorised officer has reason to believe contains or consists of a publication (hereinafter in these Regulations called a “prejudicial publication”)–
 
-&emsp;&emsp;&emsp;(a)&emsp;&emsp;&emsp;the importation of which is by reason of the existence of the state of 
+   (a)   the importation of which is by reason of the existence of the state of 
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;emergency prejudicial to the successful prosecution of measures taken in 
+       emergency prejudicial to the successful prosecution of measures taken in 
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;the Federation [of Malaya] or in the Colony [of Singapore] to terminate the 
+       the Federation [of Malaya] or in the Colony [of Singapore] to terminate the 
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;emergency[.]” [^9]
+       emergency[.]” [^9]
 
 And Clause 3(1) in the second set of Regulations uses a parallel wording in respect of the sale and circulation of material deemed politically sensitive. For the purposes of both Regulations, literary books and magazines from China would have counted as “prejudicial publications” that could potentially indoctrinate values detrimental to colonial interests. The upshot of the implementation of these Regulations was the creation of a vacuum in Chinese-language literature,[^10]  compelling Malayan-Chinese writers to “seek their genius in themselves”.[^11]  Hence the rise of Chinese-language writing speaks to locale-specific sensibilities in Malaya, partaking “a consolidation of localisation efforts to become ‘more Nanyang’.”[^12] 
 
@@ -176,6 +176,15 @@ In other words, the experimental impulse of Malayan writers toward multivocal wr
 
 In other words, multilingualism embodies a utopian vision. Writers, on this view, were not ivory-tower purveyors of literary aesthetics, but engaged agents of sociopolitical change; and, as a corollary, language is as much (if not more) a vehicle for identity work as it is a tool for composition. In signalling resistance against a monolithic imagining of Malaya, literary multivocality underscored codemixing, which connoted heterogeneous identity formations in the wake of postcolonialism. Linguistic citizenship as consummated in experimental writing thus precedes and lays the conceptual grounds for the making of a geopolitical citizenship for Malaya, which was realised toward the end of the 1950s.
 
+![](/images/Authors/leetongking_profile.jpg)
+<br>
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/leetongking_profile.jpg">
+<b>Lee Tong King</b>is a Professor of Language and Communication in the School of English, University of Hong Kong. He was a National Library Singapore Lee Kong Chian Research Fellow in 2022–23. </div>
+
+
+
 #### **NOTES**
        
 
@@ -209,7 +218,7 @@ In other words, multilingualism embodies a utopian vision. Writers, on this view
 
 [^15]: Xi Qiao (Zhao Rong), “A Resolution of the Problem,” _Sin Chew Jit Poh_ (Xing Chen supplement), 16 February 1948. (National Library, Singapore Microfilm, reel no. A01597329C).
 
-[^16]: Zhao Rong, 古老石山 (Old Stone Mountain), [芭洋上](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12716354)  (On the Sea of Villages), (Singapore:  Qingnian shuju, 1958), 43–52. (From National Library, Singapore, call no. Chinese 813.4 ZR)
+[^16]: Zhao Rong, 古老石山 (Old Stone Mountain), [芭洋上](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12716354)&nbsp; (On the Sea of Villages), (Singapore:&nbsp; Qingnian shuju, 1958), 43–52. (From National Library, Singapore, call no. Chinese 813.4 ZR)
 
 [^17]: Emphasis added. Miao Xiu, _Xinjiapo wuding xia_ [新加坡屋頂下](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13985821) \[Under Singapore’s roof\] (Singapore: Nanyang Printing Press, 1951,) 6. (From National Library, Singapore, call no. Chinese C813.4 MX)
 
@@ -252,5 +261,3 @@ In other words, multilingualism embodies a utopian vision. Writers, on this view
 [^36]: Stroud, “Linguistic Citizenship as Utopia,” 24.
 
 [^37]: Stroud and Williams, “Multilingualism as Utopia,” 186.
-
-
