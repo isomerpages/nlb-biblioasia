@@ -176,12 +176,11 @@ In other words, the experimental impulse of Malayan writers toward multivocal wr
 
 In other words, multilingualism embodies a utopian vision. Writers, on this view, were not ivory-tower purveyors of literary aesthetics, but engaged agents of sociopolitical change; and, as a corollary, language is as much (if not more) a vehicle for identity work as it is a tool for composition. In signalling resistance against a monolithic imagining of Malaya, literary multivocality underscored codemixing, which connoted heterogeneous identity formations in the wake of postcolonialism. Linguistic citizenship as consummated in experimental writing thus precedes and lays the conceptual grounds for the making of a geopolitical citizenship for Malaya, which was realised toward the end of the 1950s.
 
-![](/images/Authors/leetongking_profile.jpg)
 <br>
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/leetongking_profile.jpg">
-<b>Lee Tong King</b>is a Professor of Language and Communication in the School of English, University of Hong Kong. He was a National Library Singapore Lee Kong Chian Research Fellow in 2022–23. </div>
+<b>Lee Tong King</b> is a Professor of Language and Communication in the School of English, University of Hong Kong. He was a National Library Singapore Lee Kong Chian Research Fellow in 2022–23. </div>
 
 
 
