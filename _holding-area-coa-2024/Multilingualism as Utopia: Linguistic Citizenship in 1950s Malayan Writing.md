@@ -183,41 +183,41 @@ In other words, multilingualism embodies a utopian vision. Writers, on this view
 
 [^2]: Benedict Anderson, [_Imagined Communities: Reflections on the Origins and Spread of Nationalism_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12799969) (London: Verso, 1991). (From National Library, Singapore, call no. RSING 320.54 AND)
 
-\[1\] [Sean Khok Chua@Xie Ke](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/002761), oral history interview by Lye Soo Choon, 20 May 2003, transcript and MP3 audio, 00:29:35, National Archives of Singapore (accession no. 002761), reel 1, disc 71.
+[^3]: [Sean Khok Chua@Xie Ke](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/002761), oral history interview by Lye Soo Choon, 20 May 2003, transcript and MP3 audio, 00:29:35, National Archives of Singapore (accession no. 002761), reel 1, disc 71.
 
-\[1\] Han Suyin, “An Outline of Malayan-Chinese Literature”, [_Eastern Horizon_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4125524) 3, no. 6 (June 1964): 10. (From National Library, Singapore, call no. 950.05 EHMR)
+[^4]: Han Suyin, “An Outline of Malayan-Chinese Literature”, [_Eastern Horizon_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4125524) 3, no. 6 (June 1964): 10. (From National Library, Singapore, call no. 950.05 EHMR)
 
-\[1\] Tang Eng Teik, “Uniqueness of Malayan Chinese Literature: Literary Polemic in the Forties”, [_Asian Culture_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7317634) 12 (December 1988): 102–15\. (From National Library, Singapore, call no. RSING q950.05 AC)
+[^5]: Tang Eng Teik, “Uniqueness of Malayan Chinese Literature: Literary Polemic in the Forties”, [_Asian Culture_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7317634) 12 (December 1988): 102–15\. (From National Library, Singapore, call no. RSING q950.05 AC)
 
-\[1\] Wang Gungwu, “A Short Introduction to Chinese Writing in Malaya,” in [_Bunga Emas: An Anthology of Contemporary Malaysian Literature (1930__–__1963)_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4092184), ed. T. Wignesan (Malaysia: Rayirath Publications, 1964), 251. (From National Library, Singapore, call no. RSING 828.99595 BUN)
+[^6]: Wang Gungwu, “A Short Introduction to Chinese Writing in Malaya,” in [_Bunga Emas: An Anthology of Contemporary Malaysian Literature (1930__–1963)_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4092184), ed. T. Wignesan (Malaysia: Rayirath Publications, 1964), 251. (From National Library, Singapore, call no. RSING 828.99595 BUN)
 
-\[1\] Low Choo Chin, “The Repatriation of the Chinese as a Counter-Insurgency Policy During the Malayan Emergency”, [_Journal of Southeast Asian Studies_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=895491) 45, no. 3 (October 2014): 363−392. (From National Library, Singapore, call no. RSING 959.005 JSA)
+[^7]: Low Choo Chin, “The Repatriation of the Chinese as a Counter-Insurgency Policy During the Malayan Emergency”, [_Journal of Southeast Asian Studies_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=895491) 45, no. 3 (October 2014): 363−392. (From National Library, Singapore, call no. RSING 959.005 JSA)
 
-\[1\] [_Regulations Made Under the Emergency Regulations, 1948_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202546159) (F. of M. Ord. No. 10 of 1948) incorporating all amendments made up to the 31st March, 1953 (From National Library Singapore, call no. RCLOS 348.595 MAL)
+[^8]: [_Regulations Made Under the Emergency Regulations, 1948_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202546159) (F. of M. Ord. No. 10 of 1948) incorporating all amendments made up to the 31st March, 1953 (From National Library Singapore, call no. RCLOS 348.595 MAL)
 
-\[1\]  [_Regulations Made Under the Emergency Regulations, 1948_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202546159).
+[^9]: [_Regulations Made Under the Emergency Regulations, 1948_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202546159).
 
-\[1\] Jeremey E. Taylor, “‘Not a Particularly Happy Expression’: ‘Malayanization’ and the China Threat in Britain’s Late-Colonial Southeast Asian Territories,” [_Journal of Asian Studies_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1066786) 78, no. 4 (November 2019): 792. (National Library, Singapore, call no. 950.05 FEQ)
+[^10]: eremey E. Taylor, “‘Not a Particularly Happy Expression’: ‘Malayanization’ and the China Threat in Britain’s Late-Colonial Southeast Asian Territories,” [_Journal of Asian Studies_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1066786) 78, no. 4 (November 2019): 792. (National Library, Singapore, call no. 950.05 FEQ)
 
-\[1\] Wang, “[A Short Introduction to Chinese Writing in Malaya](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4092184),” 252.
+[^11]: Wang, “[A Short Introduction to Chinese Writing in Malaya](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4092184),” 252.
 
-\[1\] Tan Chee Lay, “Chinese Literature: From Nanyang to Multiculturalism,” in _Literature_, ed. Koh T. A., Singapore Chronicles series (Singapore: Institute of Policy Studies, NUS, and Straits Times Press, 2018), 46.
+[^12]: Tan Chee Lay, “Chinese Literature: From Nanyang to Multiculturalism,” in _Literature_, ed. Koh T. A., Singapore Chronicles series (Singapore: Institute of Policy Studies, NUS, and Straits Times Press, 2018), 46.
 
-\[1\] Wen Renjun (Miao Xiu), “On Overseas Chinese Consciousness and the Uniqueness of Malayan Chinese,” _Sin Chew Jit Poh_, 28 February 1948. (From National Library, Singapore Microfilm, reel no. A01597329C)
+[^13]: Wen Renjun (Miao Xiu), “On Overseas Chinese Consciousness and the Uniqueness of Malayan Chinese,” _Sin Chew Jit Poh_, 28 February 1948. (From National Library, Singapore Microfilm, reel no. A01597329C)
 
-\[1\] Xi Qiao (Zhao Rong), “A Concise Discussion of Immigrant Literature and Art,” _Sin Chew Jit Poh_ (Xing Chen supplement), 26 January 1948. (National Library, Singapore Microfilm, reel no. A01597329C).
+[^14]: Xi Qiao (Zhao Rong), “A Concise Discussion of Immigrant Literature and Art,” _Sin Chew Jit Poh_ (Xing Chen supplement), 26 January 1948. (National Library, Singapore Microfilm, reel no. A01597329C).
 
-\[1\] Xi Qiao (Zhao Rong), “A Resolution of the Problem,” _Sin Chew Jit Poh_ (Xing Chen supplement), 16 February 1948. (National Library, Singapore Microfilm, reel no. A01597329C).
+[^15]: Xi Qiao (Zhao Rong), “A Resolution of the Problem,” _Sin Chew Jit Poh_ (Xing Chen supplement), 16 February 1948. (National Library, Singapore Microfilm, reel no. A01597329C).
 
-\[1\] Zhao Rong, 古老石山 (Old Stone Mountain), [芭洋上](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12716354)  (On the Sea of Villages), (Singapore:  Qingnian shuju, 1958), 43–52. (From National Library, Singapore, call no. Chinese 813.4 ZR)
+[^16]: Zhao Rong, 古老石山 (Old Stone Mountain), [芭洋上](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12716354)  (On the Sea of Villages), (Singapore:  Qingnian shuju, 1958), 43–52. (From National Library, Singapore, call no. Chinese 813.4 ZR)
 
-\[1\] Emphasis added. Miao Xiu, _Xinjiapo wuding xia_ [新加坡屋頂下](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13985821) \[Under Singapore’s roof\] (Singapore: Nanyang Printing Press, 1951,) 6. (From National Library, Singapore, call no. Chinese C813.4 MX)
+[^17]: Emphasis added. Miao Xiu, _Xinjiapo wuding xia_ [新加坡屋頂下](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13985821) \[Under Singapore’s roof\] (Singapore: Nanyang Printing Press, 1951,) 6. (From National Library, Singapore, call no. Chinese C813.4 MX)
 
-_**\[1\]**_ Li Wen 李文_,_ “Guanyu fangyan wenxue,” [關於方言文學](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19540707-1.2.35.2.1) \[About dialect literature\], _南洋商报_ _Nanyang Siang Pau,_ 7 July 1954, 8. (From NewspaperSG)_._ This point was mentioned by former Lee Kong Chian Research Fellow Seah Cheng Ta in his online presentation “[Singapore Chinese Literature and Literary Supplements in the 1950s](https://www.youtube.com/watch?v=_zD0ne1uupE),” 26 March 2021, video, 26:27, (From NLB Singapore YouTube channel).
+[^18]: _ Li Wen 李文_,_ “Guanyu fangyan wenxue,” [關於方言文學](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19540707-1.2.35.2.1) \[About dialect literature\], _南洋商报_ _Nanyang Siang Pau,_ 7 July 1954, 8. (From NewspaperSG)_._ This point was mentioned by former Lee Kong Chian Research Fellow Seah Cheng Ta in his online presentation “[Singapore Chinese Literature and Literary Supplements in the 1950s](https://www.youtube.com/watch?v=_zD0ne1uupE),” 26 March 2021, video, 26:27, (From NLB Singapore YouTube channel).
 
-\[1\] Rajeev S. Patke and Philip Holden, [_The Routledge Concise History of Southeast Asian Writing in English_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13215147) (London: Routledge, 2010), 51 (From National Library, Singapore, call no. RSING 895.9 PAT)
+[^19]: Rajeev S. Patke and Philip Holden, [_The Routledge Concise History of Southeast Asian Writing in English_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13215147) (London: Routledge, 2010), 51 (From National Library, Singapore, call no. RSING 895.9 PAT)
 
-\[1\] Wang Gungwu, “Ahmad,” Pulau Ujong, accessed 27 October 2023, [https://www.pulauujong.org/8-2/ahmad/](https://www.pulauujong.org/8-2/ahmad/). Originally published in Wang Gungwu, [_Pulse_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5030873) (Singapore: B. Lim, 1950). (From National Library, Singapore, call no. RSING 828.99595 WAN)
+[^20]: Wang Gungwu, “Ahmad,” Pulau Ujong, accessed 27 October 2023, [https://www.pulauujong.org/8-2/ahmad/](https://www.pulauujong.org/8-2/ahmad/). Originally published in Wang Gungwu, [_Pulse_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5030873) (Singapore: B. Lim, 1950). (From National Library, Singapore, call no. RSING 828.99595 WAN)
 
 \[1\] Wang Gungwu, “Three Faces of Night,” Pulau Ujong, accessed 27 October 2023, [https://www.pulauujong.org/8-2/three-faces-of-night/](https://www.pulauujong.org/8-2/three-faces-of-night/).
 
@@ -252,4 +252,3 @@ _**\[1\]**_ Li Wen 李文_,_ “Guanyu fangyan wenxue,” [關於方言文學](h
 \[1\] Stroud, “Linguistic Citizenship as Utopia,” 24.
 
 \[1\] Stroud and Williams, “Multilingualism as Utopia,” 186.
-
