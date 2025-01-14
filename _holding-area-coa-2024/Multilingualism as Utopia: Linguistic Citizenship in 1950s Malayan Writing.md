@@ -78,31 +78,10 @@ Chinese writers were not alone in experimenting with the linguistic medium of th
 
 The initiative championed by Wang and other kindred spirits was dubbed EngMalChin. It was an ambitious attempt to establish a new literary register based on English but specifically Malayan in constitution. A portmanteau conflating the first syllable of the words English, Malay and Chinese, EngMalChin “alludes to the way in which the English of a poem made room for Malay and Chinese words and phrases”.[^19]  Paradigmatic of this linguistic style is Wang’s 1950 poem “Ahmad”, in particular its last two stanzas featuring codeswitching into Malay:
 
-His wife with child again.
-
-Three times had he fasted,
-
-And puasa was coming round once more.
-
-One hundred to start with – a good scheme;
-
-Quarters too,
-
-With a room for his two little girls.
-
+His wife with child again./Three times had he fasted,/And puasa was coming round once more./One hundred to start with – a good scheme;/Quarters too,/With a room for his two little girls./
 Kampong Batu was dirty!
 
-Thoughts of Camford fading,
-
-Contentment creeping in.
-
-Allah has been kind;
-
-Orang puteh has been kind.
-
-Only yesterday his brother said,
-
-“Can get lagi satu wife lah!”[^20] 
+Thoughts of Camford fading,/Contentment creeping in./Allah has been kind;/Orang puteh has been kind./Only yesterday his brother said,/“Can get lagi satu wife lah!”[^20] 
 
 As far as the notion of English poetry is concerned, the presence of Malay – *puasa* (Muslim fasting period), *kampong* (village), Allah (God in Islam), *orang puteh* (white men) and “Can get *lagi satu* wife lah!” (Can get another wife!) – would have been highly unusual for Wang’s readers at the time. Another example of Wang’s writing that highlights EngMalChin is “Three Faces of Night”, which explores different facets of life in Malayan Singapore. One of these is the familiar scene of roadside hawkers: 
 
