@@ -7,7 +7,7 @@ description: ""
 ---
 #### **Introduction**
 
-Singapore’s first newspaper, the  <i> Singapore Chronicle </i> , was published a mere five years after Stamford Raffles stepped ashore in 1819.1 Soon, the printed word took such a hold of the public mind that busy merchants in Commercial Square (now Raffles Place) were spending a half hour daily discussing the news, including commodity prices and the arrival and departure of cargo-laden ships.2
+Singapore’s first newspaper, the  <i> Singapore Chronicle </i> , was published a mere five years after Stamford Raffles stepped ashore in 1819.[^1] Soon, the printed word took such a hold of the public mind that busy merchants in Commercial Square (now Raffles Place) were spending a half hour daily discussing the news, including commodity prices and the arrival and departure of cargo-laden ships.[^2]
 
 A plethora of newspapers were launched during the 19th century, though most sank rather quickly. Some, like the <i>Singapore Free Press</i>, survived well into the 20th century, while the <i>Straits Times</i> is in circulation to this day. Virtually all newspapers then perpetuated ideas of race, civilisation, progress and development that subordinated the native and immigrant populations to white colonisers. This essay will show how they did so, by drawing examples from local English-language newspapers across a quarter of a century – from 1875, when Singapore was still a young Crown Colony following its administrative reconstitution into the Straits Settlements, to
 the close of the century. The newspapers propped up the imperial edifice,
@@ -26,7 +26,7 @@ could an island of 17 million establish sovereignty over territories thousands
 of miles away and many times greater in size and population? The English
 historian John Robert Seeley captured this sense of disbelief, writing in 1883:
 “We seem, as it were, to have conquered and peopled half the world in a fit
-of absence of mind.”3
+of absence of mind.”[^3]
 There was no dearth of (pseudo) scientific theories to explain the
 impossible. Most of these coalesced under social Darwinism. Seizing upon
 Darwin’s 1838 theory of biological evolution, academics like Herbert Spencer
@@ -35,13 +35,13 @@ competing for limited resources. And given that Europeans in general and
 the English in particular were winning the competition, the academics
 concluded that the European civilisation was the apex of human evolution,
 with others – Hindu, Islamic, Chinese, African, Malay – competing for a
-distant second place.4
+distant second place.[^4]
 
 Singapore had its fair share of colonial administrators who subscribed
 to these ideas. Raffles himself, until so recently considered a progressive
 administrator, believed in a metaphorical racial ladder, the highest rungs of
 which were occupied by Europeans, followed by those natives who adopted
-Western modes of behaviour, lifestyle and clothing.5
+Western modes of behaviour, lifestyle and clothing.[^5]
 
 Four decades after leaving Singapore, its second Resident, the inveterate
 traveller and writer John Crawfurd, observed:
@@ -52,15 +52,14 @@ traveller and writer John Crawfurd, observed:
 
      moral sense, the European, placed under equally favourable
 
-     conditions, is greatly superior to the Asiatic.6
-
+     conditions, is greatly superior to the Asiatic.[^6]
 Sir Frederick Weld, Governor of the Straits Settlements (1880–87),
 echoed similar sentiments: “I think that capacity for governing is a
 characteristic of our race, and it is wonderful to see in a country like the
-Straits.”7 The Chinese, in Weld’s estimation, depended on the British to look
+Straits.”[^7] The Chinese, in Weld’s estimation, depended on the British to look
 after them much as “a groom looks after a horse”, and the Malays were in
 awe of British probity even in the face of the most alluring 
-temptations.8
+temptations.[^8]
 
 In the second half of the 19th century, both the opening of the Suez
 Canal and the long-distance steamship’s increasing dominance of the ocean
@@ -76,7 +75,7 @@ In December 1853, for example, the <i>Singapore Free Press and Mercantile
 Advertiser</i> published a report on a phrenology lecture given by a Mr Sargent
 to a “numerous audience”; decades later, the <i>Mid-Day Herald</i> excitedly
 announced the arrival of Mrs Josepha North, a sculptor turned renowned
-phrenologist, on the island’s shores.9 Phrenology, a now discredited science, claimed a relationship between various races’ skull shapes and intelligence,
+phrenologist, on the island’s shores.[^9] Phrenology, a now discredited science, claimed a relationship between various races’ skull shapes and intelligence,
 and the race it deemed the most intelligent was obvious.
 
 Occasionally, the  <i> Free Press </i>  printed chapters from new books in
@@ -95,7 +94,7 @@ called  <i> People in a Native State </i> , published on 2 December 1893, is ill
 
      that “Comet” and other wonderful but undrinkable beverages
 
-     may no longer adorn (?) their hospitable tables.10
+     may no longer adorn (?) their hospitable tables.[^10]
 
 But the newspapers’ role extended beyond mere conduits of information;
 they must be situated within a suitable theoretical framework.
@@ -105,7 +104,7 @@ In the late 19th century, the national newspaper, along with the telegraph,
 was critical to empire and empire-building (and eventually, to those who
 opposed empire). Various British governments sought to control information
 flow, shape the interpretation of events and form “symbiotic” relationships
-with newswires like Reuters for their own political ends.11
+with newswires like Reuters for their own political ends.[^11]
 
 Papers in imperial outposts like the Straits Settlements with their
 insignificant English-reading population could not bring down governments
@@ -134,16 +133,16 @@ In critiquing colonial knowledge structures, Edward Said defined
 Orientalism as “a library or archive of information commonly and, in some
 of its aspects, unanimously held. What bound the archive together was a
 family of ideas and a unifying set of values proven in various ways to be
-effective”.12 English newspapers in 19th-century Singapore belonged to
+effective”.[^12] English newspapers in 19th-century Singapore belonged to
 this archive.
 
 An important element in this family of ideas was the colonial power’s
 imagination of itself. The British saw themselves as superior not just
 economically and militarily but also politically and ethically – a unique
-people destined to bring progress to the non-white world.13 Superiority was
+people destined to bring progress to the non-white world.[^13] Superiority was
 possible only by being separate, by creating an identity distinct from that of
 the natives. When the British first landed on Indian shores as mere traders,
-for example, they carved out residential enclaves away from the natives.14
+for example, they carved out residential enclaves away from the natives.[^14]
 At home, in offices or out hunting in the field, they maintained a studied
 aloofness from local customs, traditions and populations. This tendency
 intensified when they became the dominant political and military force
@@ -151,22 +150,22 @@ in South and Southeast Asia. By 1867, expression of this separateness had
 become the norm.
 
 “Don’t admit that you’re living in an Oriental country, live nearly as
-possible as you would in Europe,” was Roland Braddell’s advice to his countrymen in Singapore.15 Broadsheets helped in this endeavour by
+possible as you would in Europe,” was Roland Braddell’s advice to his countrymen in Singapore.[^15] Broadsheets helped in this endeavour by
 carrying in-depth reports on quintessentially English sports like cricket
 and drag hunting and by publishing wistful memories of Christmas “back
-home”, among other things.16 In fact, in elucidating its aims and objectives,
+home”, among other things.[^16] In fact, in elucidating its aims and objectives,
 the first-ever issue of the Straits Times indicated a desire to engender British
 nationalism among the Straits Englishmen who found themselves so far
-away from home.17
+away from home.[^17]
 
 Such reporting created a variation of Benedict Anderson’s concept of the
 nation as an “imagined community” – an imagined <i>imperial</i> community
 that connected one Englishman to another, separate from the traditions
 of the place that they physically inhabited and superior to the races of
-the region.18 News from London, commodity prices, ship arrivals and
+the region.[^18]  News from London, commodity prices, ship arrivals and
 departures, colonial appointments, births and deaths all connected the
 empire’s frontiers to its hub. The English were <i>in</i> Singapore, but often
-not <i>of</i> it.
+not <i>of</i>  it.
 
 English newspapers in the 19th century can thus be analysed under
 the rich theoretical tradition of postcolonial studies. It is to three such
@@ -177,7 +176,7 @@ Advocate</i> (SEA) emphasised Eurasian identity and represented Indian and
 Chinese immigrants in 1888, and how the <i>Straits Observer</i> (SO) depicted the
 Malays during a short-lived but acute crisis in Perak in 1876. These papers
 were accessed via NewspaperSG, the newspaper archive of Singapore’s
-National Library.19
+National Library.[^19]
 
 #### **How They Make Us Laugh**
 
@@ -189,7 +188,7 @@ National Library.19
 
      to brush himself up, which caused not a little laughter and
 
-     merriment.20
+     merriment.[^20]
 
 The festive season in Singapore – a fortnight that included Christmas
 and the New Year – usually ended with a full day of sporting activities at
@@ -203,15 +202,15 @@ the Europeans. In a rare instance when the two were forced to mingle, the
 ST was quick to point out that “it would be better if on a future occasion
 the arrangements for the comfort of Europeans were amplified. There were
 many Europeans who were standing all afternoon among the natives, and
-that is not altogether pleasant”.21
+that is not altogether pleasant”.[^21]
 
 Since the English could not afford to be seen being beaten by the locals,
 the competition was segregated too. What was more, the sports themselves differed. Europeans participated in “foot races and athletic exercises; and in
 the sack race, three legged race, boxing match, and race with water buckets
-poised on the head”.22 The natives walked a greasy tongkang boom to pluck
+poised on the head”.[^22] The natives walked a greasy tongkang boom to pluck
 a twig or a flag from the end, vied to eat the most number of hard biscuits
 and dunked their heads into buckets of treacle in search of a half-dollar
-coin.23 By the close of the century, “rikisha pulling” – in which Chinese and
+coin.[^23] By the close of the century, “rikisha pulling” – in which Chinese and
 Indians raced rickshaws carrying a European passenger over a distance of
 220 yards – had been introduced to the programme.
 
@@ -225,7 +224,7 @@ Of the biscuit-eating, the ST intoned thus:
 
      added] of themselves and were accordingly awarded $2.25
 
-     between them.24
+     between them.[^24]
 
 Treacle-dipping did not escape the paper’s lampooning either:
 
@@ -243,12 +242,12 @@ Treacle-dipping did not escape the paper’s lampooning either:
 
      the sea, was probably  <i> the most comical part of the business </i> 
 
-     [emphases added].25
+     [emphases added].[^25]
 	
 Such reportage reduced the natives to caricature, clowns in a
 circus conducted by English ringmasters. In Singapore, as elsewhere,
 infantilisation of the colonised populations was key to perpetuating the
-notion of English superiority.26 One newspaper gleefully narrated events from Bangalore, India, where “rather a novel mode of amusement has been
+notion of English superiority.[^26] One newspaper gleefully narrated events from Bangalore, India, where “rather a novel mode of amusement has been
 introduced by the officers of the 21st Hussars”.27 The soldiers pitted their
 Indian servants – syces (horse carers) against cooks – in a cricket match.
 Not being familiar with the sport, the servants’ clumsy attempts at playing
@@ -559,8 +558,336 @@ affect their standing among the natives through the entire region. Thus,
 as the war got bloodier and British losses mounted, venomous frustration
 spilled over on the SO’s pages.
 
+     There would be a great deal of moral suasion in placing a
+
+     hobnailed boot on the bare back of a Malay. Another moral
+
+     suasion project is to have some gun practice. How the Malays
+
+     would stare to see an extempore butt, a target in mid stream
+
+     smashed to atoms.63
+
+As the tide began to turn in Britain’s favour, attention switched to what
+should be done with Perak. Leaving it to the “Chiefs and Chinamen” to
+fight it out was out of the question. One newspaper thought of installing
+a “native puppet” whose strings would be in English hands, while the SO
+suggested that “as we shall have to govern it in any case, we may as well
+govern it openly, without the inconvenient hypocrisy of using a native
+speaking-trumpet”.64 As it turned out, one such puppet and trumpet by
+the name of Raja Yusof was installed with a new Resident, Hugh Low, in
+tow, thus entrenching British dominance in the Malay states for a long time
+to come.
+
+#### **Conclusion**
+
+Newspapers were alchemical agents that repackaged “scientific theories” of
+racial superiority into nuggets that could be easily internalised. Depending
+on the context, representations of local races swung between cartoonish
+and exotic, childish and brutish. *Naturally*, the native on the sports field
+was a buffoon; *obviously* one did not want to associate with a black man
+just because he had shoved himself into coat and trousers; *was there any
+doubt* that the mutinous Malay was nothing but a treacherous savage? By
+monotonous repetition, newspapers hammered home these ideas until they
+became as real as the ink in which they were printed.
+
+The same held true for the British self-image. *Undeniably*, British sports
+were more attractive and the competition more palatable; of course the
+British mission was to civilise the locals for their own good. As Charles
+Hirschman noted, “Racism provided a rationale for the ‘white man’s burden’
+of leading, ruling, or conquering peoples at ‘lower evolutionary stages’
+throughout the world. This ideology fitted well with the British need to
+justify its empire.”65
+
+The empire casts a long shadow, and old stereotypes continue to
+infiltrate modern popular culture. A study conducted in 2020 on football
+commentary concluded that it “hardens the view of black athletes being their ‘God-given’ physical and athletic attributes”.66 Closer to home, the
+“*lepak* Malay guy” is a trope that has endured ever since Malays were
+characterised as a lazy, uncivilised race for their refusal to be a part of
+colonial capitalism.67 None of this is new, but by making newspapers the
+foci of analysis, it becomes apparent that 19th-century newspapers that
+framed their concerns in starkly racial terms foreshadowed the racially
+tinged immigration debates occurring in Singapore today.68
+
+#### **Acknowledgements**
+
+*I would like to thank Professor Alan Chong of Nanyang Technological University for
+his unstinting support and guidance in the writing of this paper. The National Library’s
+Joanna Tan was extremely helpful and prompt in responding to the umpteen enquiries I
+sent her way. She is the backbone of the Lee Kong Chian Fellowship programme.*
 
 
+<br>
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/Abhishek_Mehrotra.png">
+<b>Abhishek Mehrotra</b> is a researcher, editor and writer with more than a decade’s
+experience covering history, society, culture and sports in South and Southeast Asia.
+He has been an editor with ESPNstar.com and Newscorp Singapore, and a journalist
+and history researcher at The Confluence Media, New Delhi. Abhishek holds a master’s
+degree in international relations from the S. Rajaratnam School of International
+Studies, Nanyang Technological University.</div>
+
+
+#### **BIBLIOGRAPHY**
+
+         
+
+**Primary Sources**
+
+Cameron, John. [_Our Tropical Possessions in Malayan India: Being a Descriptive Account of Singapore, Penang, Province Wellesley and Malacca: Their Peoples, Products, Commerce and Government_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=7658c549-f1c5-47c7-b8b6-831f7eb90c58). Facsimile reprint, 2015. London: Smith Elder and Co., 1865. (From National Library Online; Call no. RRARE 959.5 CAM; Accession no. B29032445G)
+
+Crawfurd, John. “On the Physical and Mental Characteristics of the European and Asiatic Races of Man.” _Transactions of the Ethnological Society of London_, 5 (1866): 58–81. (From EBSCOhost via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Makepeace, Walter. “Institutions and Clubs.” In [_One Hundred Years of Singapore: Being Some Account of the Capital of the Straits Settlements From Its Foundation by Sir Stamford Raffles on the 6th February 1819 to the 6th February 1919_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4183132), vol. 2, edited by Walter Makepeace, Gilbert E. Brooke and Roland St. J. Braddell. Facsimile reprint, 2016. Singapore: Oxford University Press, 1921. (Call no. RSING 959.57 ONE-\[HIS\])
+
+Weld, Frederick A. “[The Straits Settlements and British Malaya](https://www.nlb.gov.sg/main/book-detail?cmsuuid=e16ae115-e10d-4619-bcc4-0e1d97672b71).” Transcript of speech given to the Royal Colonial Institute in London, 23 June 1884. (From BookSG; Call no. RRARE 959.503 WEL-\[JSB\]; Accession no. B29268823G)
+
+**Newspaper Articles** _(From NewspaperSG)_
+
+_Daily Advertiser_. “[The Land Sports](https://eresources.nlb.gov.sg/newspapers/digitised/article/dailyadvertiser18930103-1.2.8).” 3 January 1893, 3.
+
+_Singapore Free Press and Mercantile Advertiser (1835–1869)_. “[The Free Press](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18531223-1.2.4).” 23 December 1853, 2.
+
+_Straits Budget_. “[The Lady Phrenologist](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget18980225-1.2.97).” 25 February 1898, 10.
+
+_Straits Eurasian Advocate._ “[Extracts](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880317-1.2.10).” 17 March 1888, 4.
+
+—. “[Stray Notes](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880317-1.2.12).” 17 March 1888, 5.
+
+—. “[Random Shots by Our Facetious Correspondent](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880331-1.2.15).” 31 March 1888, 6.
+
+—. “[The Domestic Servants Ordinance](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880331-1.2.6).” 31 March 1888, 2.
+
+—. “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880331-1.2.9).” 31 March 1888, 3.
+
+—. “[Local and General](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880331-1.2.14).” 31 March 1888, 5.
+
+—. “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880407-1.2.11.1).” 7 April 1888, 4.
+
+—. “[Local and General](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880412-1.2.13).” 12 April 1888, 5.
+
+—. “[Random Shots by Our Facetious Correspondent](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880412-1.2.12).” 12 April 1888, 4.
+
+—. “[Local and General](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880414-1.2.14).” 14 April 1888, 4.
+
+—. “[Correspondence](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880421-1.2.8).” 21 April 1888, 3.
+
+—. “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880630-1.2.8.1).” 30 June 1888, 3.
+
+_Straits Observer (Singapore)_. “Untitled.” 5 November 1875, 2.
+
+—. “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751112-1.2.3).” 12 November 1875, 2.
+
+—. “[Volunteers to the Front](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751119-1.2.4.1).” 19 November 1875, 2.
+
+—. “[The Perak War](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751214-1.2.7).” 14 December 1875, 2.
+
+—. “[The Perak Expedition](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751214-1.2.7).” 14 December 1875, 24.
+
+—. “[The Perak War](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751214-1.2.7).” 14 December 1875, 24.
+
+—. “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751228-1.2.3).” 28 December 1875, 2.
+
+—. “[The Perak Expedition](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751231-1.2.6).” 31 December 1875, 2.
+
+—. “[New Year’s Day](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18750102-1.2.10).” 2 January 1875, 2.
+
+—. “[Where, and Oh Where, Are Our Island Laddies Gone!](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751119-1.2.4.2)” 13 January 1876, 3.
+
+—. “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18760407-1.2.4).” 7 April 1876, 2.
+
+_Straits Times._ “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18450715-1.2.5).” 15 July 1845, 2.
+
+—. “[New Year’s Day](New%20Year’s%20Day).” 2 January 1875, 3.
+
+—. “[The New Year Sports](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18950102-1.2.34).” 2 January 1895, 2.
+
+—. “[The New Year Sports](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18970102-1.2.38).” 2 January 1897, 3.
+
+—. “[The New Year](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18990103-1.2.65).” 3 January 1899, 3.
+
+_Straits Times Overland Journal_. “[What Shall We Do With It](https://eresources.nlb.gov.sg/newspapers/digitised/article/stoverland18760113-1.2.9).” 13 January 1876, 2.
+
+—. “[Outside Opinion on Perak](https://eresources.nlb.gov.sg/newspapers/digitised/article/stoverland18760224-1.2.10).” 24 February 1876, 3.
+
+_Straits Times Weekly Issue_. “[The Tyersall Hounds](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18830305-1.2.4.22).” 5 March 1883, 11.
+
+—. “[A Complaint](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18870629-1.2.43.1).” 29 June 1887, 11.
+
+**Secondary Sources**
+
+Alatas, Syed Hussein. [_The Myth of the Lazy Native: A Study of the Image of the Malays, Filipinos and Javanese from the 16th to the 20th Century and Its Function in the Ideology of Colonial Capitalism_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201110013). New York: Routledge, 2010. (Call no. RSING 305.800959 ALA)
+
+Cheah, Boon Kheng. “Malay Politics and the Murder of J. W-W. Birch, British Resident in Perak, in 1875: The Humiliation and Revenge of the Maharaja Lela.” _Journal of the Malaysian Branch of the Royal Asiatic Society_ 71, no. 1 (1998): 74–105. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Cohn, Bernard S. [_Colonialism and Its Forms of Knowledge: The British in India_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7758745). Princeton: Princeton University Press, 1996. (Call no. R 954 COH)
+
+Cornelius, Vernon. “[Singapore Chronicle](https://www.nlb.gov.sg/main/article-detail?cmsuuid=1d54f41e-a792-4b39-bd6c-8e4a72f30a11).” Singapore Infopedia, published 2017.
+
+Hirschman, Charles. “The Making of Race in Colonial Malaya: Political Economy and Racial Ideology.” _Sociological Forum_ 1, no. 2 (Spring 1986): 330–61. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+—. “The Meaning and Measurement of Ethnicity in Malaysia.” _The Journal of Asian Studies_ 46, no. 3 (1987): 555–82. (From ProQuest Central via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Kaul, Chandrika. _Reporting the Raj: The British Press and India, c. 1880–1922._ Manchester: Manchester University Press, 2003.
+
+Lee, Edwin. [_The British as Rulers Governing Multi-Racial Singapore 1867–1914_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5678026). Singapore: Singapore University Press, 1991. (Call no. RSING 959.57022 LEE-\[HIS\])
+
+Luyt, Brendan. “The Importance of Fiction to the Raffles Library, Singapore, During the Long Nineteenth-Century.” _Library &amp; Information History_ 25, no. 2 (2009): 117–31.
+
+Nakrani, Sachin. “Groundbreaking Report Reveals Racial Bias in English Football Commentary.” _The Guardian_, 29 June 2020.
+
+Noor, Farish. “[Money-Making Bodies: Prostitution in Colonial Southeast Asia](https://biblioasia.nlb.gov.sg/vol-11/issue-3/oct-dec-2015/bodies).” _BiblioAsia_ 11, no. 3 (2015).
+
+Pan, Jie. “A Brief, Dark History of ‘Lepak One Corner’.” _Rice Media_, 23 July 2018.
+
+Pillai, Manu. _False Allies: India’s Maharajas in the Age of Ravi Verma_. New Delhi: Juggernaut, 2021.
+
+Potter, Simon. “Webs, Networks, and Systems: Globalization and the Mass Media in the Nineteenth- and Twentieth-Century British Empire.” _Journal of British Studies_ 46, no. 3 (2007): 621–46. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Rai, Rajesh. “The 1857 Panic and the Fabrication of an Indian ‘Menace’ in Singapore.” _Modern Asian Studies_ 47, no. 2 (2013): 365–405. (From EBSCOhost via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Said, Edward. [_Orientalism_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12254159)_._ London: Penguin, 2003. (Call no. 950.07 SAI)
+
+Seeley, John Robert. _The Expansion of England: Two Courses of Lectures_. Boston: Roberts Brothers, 1883.
+
+#### **NOTES**
+         
+1 Vernon Cornelius, “[Singapore Chronicle](https://www.nlb.gov.sg/main/article-detail?cmsuuid=1d54f41e-a792-4b39-bd6c-8e4a72f30a11),” Singapore Infopedia, published 2017.
+
+2 John Cameron, [_Our Tropical Possessions in Malayan India: Being a Descriptive Account of Singapore, Penang, Province Wellesley and Malacca: Their Peoples, Products, Commerce and Government_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=7658c549-f1c5-47c7-b8b6-831f7eb90c58) (London: Smith Elder and Co., 1865), 297. (From BookSG; Call no. RRARE 959.5 CAM; Accession no. B29032445G)
+
+3 John Robert Seeley, _The Expansion of England: Two Courses of Lectures_ (Boston: Roberts Brothers, 1883), 8.
+
+4 Edwin Lee, [_The British as Rulers Governing Multi-Racial Singapore 1867–1914_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5678026) (Singapore: Singapore University Press, 1991), 281. (Call no. RSING 959.57022 LEE-\[HIS\])
+
+5 Ellen C. Cangi, “Civilizing the People of Southeast Asia: Sir Stamford Raffles’ Town Plan for Singapore, 1819–23,” _Planning Perspectives_ 8, no. 2 (1993): 167.
+
+6 John Crawfurd, “On the Physical and Mental Characteristics of the European and Asiatic Races of Man,” _Transactions of the Ethnological Society of London_ 5 (1866): 69. (From EBSCOhost via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+7 Frederick A. Weld, “[The Straits Settlements and British Malaya](https://www.nlb.gov.sg/main/book-detail?cmsuuid=e16ae115-e10d-4619-bcc4-0e1d97672b71),” transcript of speech given to the Royal Colonial Institute in London, 1884. (From National Library Online; Call no. RRARE 959.503 WEL-\[JSB\]; Accession no. B29268823G)
+
+8 Weld, “[Straits Settlements and British Malaya](https://www.nlb.gov.sg/main/book-detail?cmsuuid=e16ae115-e10d-4619-bcc4-0e1d97672b71).”
+
+9 “[The Free Press](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18531223-1.2.4),” _Singapore Free Press and Mercantile Advertiser_, 23 December 1853, 2; “[Page 3 Advertisements Column 2](https://eresources.nlb.gov.sg/newspapers/digitised/article/middayherald18980219-1.2.21.2),” _Mid-Day Herald_, 19 February 1898, 3 (From NewspaperSG). In addition, the visit was advertised in the _Straits Times_ and _Straits Budget_. The latter’s correspondent was convinced “there was something more in phrenology than is generally credited by the great unbelieving mass of humanity”. For more details, see “[The Lady Phrenologist](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget18980225-1.2.97),” _Straits Budget_, 25 February 1898, 10. (From NewspaperSG)
+
+10 “[People in a Native State](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18931223-1.2.14),” _Singapore Free Press and Mercantile Advertiser_, 2 December 1893, 3. (From NewspaperSG)
+
+11 Chandrika Kaul, _Reporting the Raj: The British Press and India, c. 1880–1922_ (Manchester: Manchester University Press, 2003), 258.
+
+12 Edward Said, [_Orientalism_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12254159) (London: Penguin, 2003), 41. (Call no. 950.07 SAI)
+
+13 Charles Hirschman, “The Making of Race in Colonial Malaya: Political Economy and Racial Ideology,” _Sociological Forum_ 1, no. 2 (Spring 1986): 347. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+14 Bernard S. Cohn, [_Colonialism and Its Forms of Knowledge: The British in India_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7758745) (Princeton: Princeton University Press, 1996), 111–12. (Call no. R 954 COH)
+
+15 Brendan Luyt, “The Importance of Fiction to the Raffles Library, Singapore, During the Long Nineteenth-Century,” _Library &amp; Information History_ 25, no. 2 (2009): 130.
+
+16 Horse riders would gallop behind hounds in pursuit of an artificially laid scent. The _Straits Times Weekly Issue_ of 5 March 1883 reported on one such drag hunt spanning Balestier Road, Bukit Timah Road, Grange Road and Tyersall Avenue. For details, see “[The Tyersall Hounds](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18830305-1.2.4.22),” _Straits Times Weekly Issue_, 5 March 1883, 11. (From NewspaperSG)
+
+17 “In Colonial Settlements, far removed from the mother country, much of the spirit of nationality is apt to be lost or forgotten, arising, in most cases, from different associations which other circumstances than those to which we have become accustomed are wont to engender, as well as from the influence which removal from the place of their constant exercise occasions.” “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18450715-1.2.5),” _Straits Times_, 15 July 1845, 2. (From NewspaperSG)
+
+18 Simon Potter, “Webs, Networks, and Systems: Globalization and the Mass Media in the Nineteenth-and Twentieth-Century British Empire,” _Journal of British Studies_ 46, no. 3 (2007): 624. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+19 The NewspaperSG site is a virtually inexhaustible treasure trove of information about early colonial Singapore. Forming an almost unbroken chain of information that depicts mores, norms and social the origins of some of its deepest fissures. No scholar hoping to understand modern-day Singapore can afford to ignore this vital resource. attitudes from the 1820s to the current era, it provides a deep insight into the country’s evolution and
+
+20 “[The Land Sports](https://eresources.nlb.gov.sg/newspapers/digitised/article/dailyadvertiser18930103-1.2.8),” _Daily Advertiser,_ 3 January 1893, 3. (From NewspaperSG)
+
+21 “[The New Year Sports](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18970102-1.2.38),” _Straits Times_, 2 January 1897, 3. (From NewspaperSG)
+
+22 “[New Year’s Day](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18750102-1.2.10),” _Straits Times_, 2 January 1875, 3. (From NewspaperSG)
+
+23 “[New Year’s Day](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18750102-1.2.10).”
+
+24 “[The New Year Sports](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18950102-1.2.34),” _Straits Times,_ 2 January 1895, 2. (From NewspaperSG)
+
+25 “[New Year Sports](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18950102-1.2.34).”
+
+26 The Indian historian Manu Pillai makes the same point in the context of how the English treated the subcontinent’s Bacchanalian royalty. “As with stereotypes generally,” he says, “while there was a measure of truth to this talk of excess, its circulation also served more insidious purposes. For the British, it conveniently infantilized Indian rulers and cemented the claim that natives were simply incapable of serious government.” For details, see Manu Pillai, _False Allies: India’s Maharajas in the Age of Ravi Verma_ (New Delhi: Juggernaut, 2021).
+
+27 “[Local and General](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880412-1.2.13),” _Straits Eurasian Advocate_, 12 April 1888, 5. (From NewspaperSG)
+
+28 “[Local and General](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880412-1.2.13).”
+
+29 This gradually started to change towards the end of the century when some winners were named – Eusop Patel for the one-lap race, Tan Heng Moh and Lim Yan Choa for the two-lap. For details, see “[The New Year](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18990103-1.2.65),” _Straits Times_, 3 January 1899, 3. Determining whether this was an anomaly or the beginning of a new trend of naming some native winners will require further study of early 20th-century papers.
+
+30 “[New Year’s Day](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18750102-1.2.10),” _Straits Times_, 2 January 1875, 2. (From NewspaperSG)
+
+31 “[The New Year](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18990103-1.2.65).”
+
+32 “[Extracts](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880317-1.2.10),” _Straits Eurasian Advocate_, 17 March 1888, 4. (From NewspaperSG)
+
+33 The SCC would open its gates to other ethnicities in early 1950s, almost a decade before the SRC.
+
+34 “[A Complaint](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18870629-1.2.43.1),” _Straits Times Weekly Issue_, 29 June 1887, 11. (From NewspaperSG)
+
+35 Farish Noor, “[Money-Making Bodies: Prostitution in Colonial Southeast Asia](https://biblioasia.nlb.gov.sg/vol-11/issue-3/oct-dec-2015/bodies/),” _BiblioAsia_ 11, no. 3 (2015).
+
+36 The first newspaper by the Eurasians was _Straits Intelligence_. It was started by a piano tuner named John Hansen in the early 1870s and sank rather swiftly. Walter Makepeace, “Institutions and Clubs,” in [_One Hundred Years of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4183132), vol. 2, ed. Walter Makepeace, Gilbert E. Brooke and Roland St. J. Braddell, facsimile reprint 2016 (Singapore: Oxford University Press, 1921), 294. (Call no. RSING 959.57 ONE-\[HIS\])
+
+37 An interesting exchange occurred between the SEA and a correspondent who took objection to the paper naming meritorious Eurasians in its pages. The correspondent claimed that some of those named may have wanted to hide the fact that they were Eurasian “for reasons best known to themselves”. It is not difficult to guess what those reasons would have been. The paper’s spirited response was that “we do not hold any very exalted view of the man who is ashamed of his origin”. For the full discussion, see [Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880331-1.2.9), _Straits Eurasian Advocate_, 31 March 1888, 3. (From NewspaperSG)
+
+38 “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880407-1.2.11.1),” _Straits Eurasian Advocate_, 7 April 1888, 4. (From NewspaperSG)
+
+39 Makepeace, Brooke and Braddell, [_One Hundred Years of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4183132), 294.
+
+40 “[Stray Notes](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880317-1.2.12),” _Straits Eurasian Advocate_, 17 March 1888, 5. (From NewspaperSG)
+
+41 “[Random Shots by Our Facetious Correspondent](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880412-1.2.12),” _Straits Eurasian Advocate_, 12 April 1888, 4. (From NewspaperSG)
+
+42 “[Random Shots by Our Facetious Correspondent](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880331-1.2.15),” _Straits Eurasian Advocate_, 31 March 1888, 6. (From NewspaperSG)
+
+43 “[Local and General](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880414-1.2.14),” _Straits Eurasian Advocate_, 14 April 1888, 4. (From NewspaperSG)
+
+44 “[The Domestic Servants Ordinance](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880331-1.2.6),” _Straits Eurasian Advocate_, 31 March 1888, 2. (From NewspaperSG)
+
+45 “[Domestic Servants Ordinance](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880331-1.2.6).”
+
+46 “[Extracts](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880317-1.2.10),” _Straits Eurasian Advocate_, 17 March 1888, 4. (From NewspaperSG)
+
+47 [Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880630-1.2.8.1), _Straits Eurasian Advocate_, 30 June 1888, 3. (From NewspaperSG)
+
+48 “[Local and General](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880331-1.2.14),” _Straits Eurasian Advocate_, 31 March 1888, 5. (From NewspaperSG)
+
+49 “[Correspondence](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880421-1.2.8),” _Straits Eurasian Advocate_, 21 April 1888, 3. (From NewspaperSG)
+
+50 “[Local and General](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880414-1.2.14).”
+
+51 “[The Word ‘Eurasian’](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880331-1.2.11),” _Straits Eurasian Advocate,_ 31 March, 1888, 3. (From NewspaperSG).
+
+52 “[The Perak War](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751214-1.2.7),” _Straits Observer (Singapore),_ 14 December 1875, 24. (From NewspaperSG)
+
+53 The 1857 Indian Rebellion, for example, caused the Europeans to become inordinately afraid of the Indians in Singapore, so much so that the Straits Settlements began agitating against Indian convicts being transported to the island. This fear may have worsened relations between the broader European and Indian communities and contributed to lower migration rates of the latter to Singapore in the subsequent decades. For a detailed discussion on this, see Rajesh Rai, “The 1857 Panic and the Fabrication of an Indian ‘Menace’ in Singapore,” _Modern Asian Studies_ 47, no. 2 (2013): 365–405. (From EBSCOhost via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+54 Weld, “[Straits Settlements and British Malaya](https://www.nlb.gov.sg/main/book-detail?cmsuuid=e16ae115-e10d-4619-bcc4-0e1d97672b71).”
+
+55 A comprehensive analysis is Cheah Boon Kheng, “Malay Politics and the Murder of J. W-W. Birch, British Resident in Perak, in 1875: The Humiliation and Revenge of the Maharaja Lela,” _Journal of the Malaysian Branch of the Royal Asiatic Society_ 71, no. 1 (1998): 74–105. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+56 “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751112-1.2.3),” _Straits Observer (Singapore)_, 12 November 1875, 2. (From NewspaperSG)
+
+57 “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751105-1.2.3),” _Straits Observer (Singapore)_, 5 November 1875, 2 (From NewspaperSG)
+
+58 “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751112-1.2.3),” _Straits Observer (Singapore)_, 12 November 1875, 2; “[Volunteers to the Front](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751119-1.2.4.1),” _Straits Observer (Singapore)_, 19 November 1875, 2; “[Where, and Oh Where, Are Our Island Laddies Gone!](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751119-1.2.4.2)” _Straits Observer (Singapore)_, 19 November 1875, 3 January 1876, 3. (From NewspaperSG)
+
+59 “[The Perak Expedition](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751214-1.2.7),” _Straits Observer (Singapore)_, 14 December 1875, 24 (From NewspaperSG). Syed Hussein Alatas deals extensively with why the Malays did not “work” the land. Simply put, they did not need to. For this excellent discussion, see Syed Hussein Alatas, [_The Myth of the Lazy Native: A Study of the Image of the Malays, Filipinos and Javanese from the 16th to the 20th Century and Its Function in the Ideology of Colonial_ _Capitalism_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201110013) (New York: Routledge, 2010). (Call no. RSING 305.800959 ALA)
+
+60 Sir Harry Ord was Governor from 1867 to 1871, during which time he tried to abide by the policy of non-intervention in native states – a legacy of the 1857 Indian Mutiny. Sir Andrew Clarke’s gradual reversal of this policy culminated in the Pangkor Treaty of 1874; propelled by mercantile fervour and angered by Birch’s assassination, Clarke’s successor Sir William Jervois was even more forceful in his thrust up and into the Peninsula.
+
+61 “[The Perak War](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751214-1.2.7),” _Straits Observer (Singapore)_, 14 December 1875, 2. (From NewspaperSG)
+
+62 “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18760407-1.2.4),” _Straits Observer (Singapore)_, 7 April 1876, 2. (From NewspaperSG)
+
+63 “[The Perak Expedition](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751231-1.2.6),” _Straits Observer (Singapore)_, 31 December 1875, 2. (From NewspaperSG)
+
+64 “[What Shall We Do with It](https://eresources.nlb.gov.sg/newspapers/digitised/article/stoverland18760113-1.2.9),” _Straits Times Overland Journal (Singapore)_, 13 January 1876, 2; “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751228-1.2.3),” _Straits Observer (Singapore)_, 28 December 1875, 2; “[Outside Opinion on Perak](https://eresources.nlb.gov.sg/newspapers/digitised/article/stoverland18760224-1.2.10),” _Straits Times Overland Journal,_ 24 February 1876, 3. (From NewspaperSG)
+
+65 Charles Hirschman, “The Meaning and Measurement of Ethnicity in Malaysia,” _Journal of Asian Studies_ 46, no. 3 (August 1987): 568. (From ProQuest Central via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+66 Sachin Nakrani, “Groundbreaking Report Reveals Racial Bias in English Football Commentary,” _The Guardian_, 29 June 2020.
+
+67 Pan Jie, “A Brief, Dark History of ‘Lepak One Corner’,” _Rice Media_, 23 July 2018.
+
+68 A more comprehensive research project would contrast the English media’s representations of race with early Chinese, Tamil and Malay media, and examine how the ruled viewed the rulers and how newspapers created an imagined imperial community.
 
 
 .
