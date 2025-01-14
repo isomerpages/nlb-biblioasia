@@ -156,6 +156,10 @@ The assumption here is that Malayan and English are incongruous, even opposition
 
 To my mind, the visions of EngMalChin were a little too idealistic to start with. It endeavoured to cross the registers of speech and writing, as Beda Lim envisioned, “[t]he creative writer must live in a climate of spoken language. . . When the standard Malayan speech has been fixed to some degree it will be possible for creative writing in Malaya to get out of its experimental stage and get down to business”.[^30] But the young minds behind *The New Cauldron*, a literary magazine in the 1950s edited by students, including Wang, from the University of Malaya, were classically trained in English literature. This is evidenced by many of the poems published by Wang and his contemporaries, which were reminiscent of the work of canonical writers à la T.S. Eliot. 
 
+<img src="/images/COA%202024/Multilingualism%20as%20Utopia/New_cauldron.jpg" style="width:50%;">
+														
+<div style="background-color: white;">          [_The New Cauldron_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4551118) was a literary journal edited by students at the University of Malaya. <i>Published by Raffles Society, University of Malaya, 1952. (From National Library, Singapore, call no. RCLOS 052 NC)</i></div>
+
 For these persons to embrace the practice of code-mixing in poetry would have been tantamount to subverting the monumental tradition that undergirded their English-language education, a move that would hardly be easy to execute at a time when Malaya was still couching beneath the shadow of imperialism.
 
 The crucial reason for EngMalChin’s failure, however, was its lack of exemplification. In contrast to the practice of using dialects in Chinese-language fiction discussed earlier, EngMalChin was very much a theoretical enterprise without a substantial empirical basis.[^31]  There were just too few authors actually experimenting with EngMalChin to render it meaningful, much less sustain it for a sufficient period to make an impact on literature and society. 
