@@ -74,15 +74,15 @@ Dick wrote one verse based on the notion of Singapore as “our home”, but we 
 
 Although the committee knew that Dick had produced an outstanding song in consonance with the national mood, we wondered if the song’s slow tempo would be acceptable to the NDP organisers. I made a simple choral arrangement of the song and pitched it to the NDP committee, explaining why the song was not the usual upbeat “rah-rah” song. The committee immediately understood and readily agreed that “Home” would be the National Day song for 1998.
 
-The musical arrangement for “Home” was placed in the very capable hands of Sydney Tan, and the choice of Kit Chan to sing it was an inspired one. They made a memorable recording of the song, which was immediately embraced and warmly received by Singaporeans. Since then, “Home” has become a permanent feature of all subsequent National Day celebrations. Kit has even adopted the song as a personal theme song, often singing it at her concerts. Other local singers such as JJ Lin and pop group The Sam Willows have put their spin on the song.34
+The musical arrangement for “Home” was placed in the very capable hands of Sydney Tan, and the choice of Kit Chan to sing it was an inspired one. They made a memorable recording of the song, which was immediately embraced and warmly received by Singaporeans. Since then, “Home” has become a permanent feature of all subsequent National Day celebrations. Kit has even adopted the song as a personal theme song, often singing it at her concerts. Other local singers such as JJ Lin and pop group The Sam Willows have put their spin on the song.[^34]
 
-The song has also been performed by foreign artists during their concerts in Singapore. In October 2023, American rock band Weezer, led by Rivers Cuomo, performed the song. More recently, in July 2024, South Korean artist Solar (the leader and vocalist of girl group Mamamoo and its sub-unit Mamamoo+) sang “Home” at her concert.35&nbsp;
+The song has also been performed by foreign artists during their concerts in Singapore. In October 2023, American rock band Weezer, led by Rivers Cuomo, performed the song. More recently, in July 2024, South Korean artist Solar (the leader and vocalist of girl group Mamamoo and its sub-unit Mamamoo+) sang “Home” at her concert.[^35]
 
-It should be mentioned that for 1998, there appears to have been two other National Day songs: “My People, My Home” with lyrics by Cultural Medallion poet Lee Tzu Pheng and music by Phoon Yew Tien, and “City for the World” by Roger Jenkins (lyrics) and Iskandar Ismail (music).36
+It should be mentioned that for 1998, there appears to have been two other National Day songs: “My People, My Home” with lyrics by Cultural Medallion poet Lee Tzu Pheng and music by Phoon Yew Tien, and “City for the World” by Roger Jenkins (lyrics) and Iskandar Ismail (music).[^36]
 
 While “Home” was a very hard act to follow, the two subsequent National Day songs – “Together” by Ken Lim for 1999 and “Shine on Me” by Jim Lim for 2000 – were creditable efforts. In 2001, singer-songwriter Tanya Chua’s “Where I Belong” was the National Day song and it quickly became a firm favourite of many Singaporeans. The following year, another song written and composed by Dick, “We Will Get There”, and sung by Stefanie Sun, became another much-loved National Day song and is my personal favourite National Day song.
 
-In 2003, the Sing Singapore committee selected its last National Day song – “One United People” by Joshua Wan – which was sung by Stefanie Sun. I decided to step down from the committee soon after, and as it turned out, the committee was subsequently disbanded.37 The responsibility for National Day songs was then passed on to the National Day organisers themselves.&nbsp;
+In 2003, the Sing Singapore committee selected its last National Day song – “One United People” by Joshua Wan – which was sung by Stefanie Sun. I decided to step down from the committee soon after, and as it turned out, the committee was subsequently disbanded.[^37] The responsibility for National Day songs was then passed on to the National Day organisers themselves.&nbsp;
 
 Looking back, I believe the Sing Singapore committee can take pride in the fact that it had fulfilled its duties, having produced some landmark and beloved songs that resonated with Singaporeans like “Home”, “Where I Belong” and “We Will Get There”.
 
@@ -92,9 +92,9 @@ The National Day songs since 2003 have varied in style and genre as well in thei
 
 In 2020, the Covid-19 pandemic shut down Singapore and most of the world, and as a result, a new form of musical performance took shape – the Zoom performance – where musicians recorded their own parts separately which were then combined into a single performance.&nbsp;
 
-In June 2020, as the circuit breaker was lifted, singer Joanna Dong – with members of the Singapore Symphony Chorus, Youth and Children’s Choir as well as musicians from the Singapore Symphony Orchestra – recorded Dick Lee’s “We Will Get There” from home. The version featured a highly effective arrangement by Gabriel Hoe and the performance undoubtedly helped to raise the spirits of Singaporeans during the dark days of the pandemic.38
+In June 2020, as the circuit breaker was lifted, singer Joanna Dong – with members of the Singapore Symphony Chorus, Youth and Children’s Choir as well as musicians from the Singapore Symphony Orchestra – recorded Dick Lee’s “We Will Get There” from home. The version featured a highly effective arrangement by Gabriel Hoe and the performance undoubtedly helped to raise the spirits of Singaporeans during the dark days of the pandemic.[^38]
 
-Post-pandemic, my favourite NDP song is “The Road Ahead” by singer-songwriter Linying in 2021. The song looks beyond the dark days of the pandemic to a brighter future.39&nbsp;
+Post-pandemic, my favourite NDP song is “The Road Ahead” by singer-songwriter Linying in 2021. The song looks beyond the dark days of the pandemic to a brighter future.[^39]
 
 #### **An Appeal**
 
