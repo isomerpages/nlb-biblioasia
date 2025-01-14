@@ -138,57 +138,57 @@ I would therefore appeal to Singaporeans to receive each new National Day song w
 
 [^12]: “[Looking for the S’pore Flavour in Local Songs](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19820328-1.2.54).”   
 
-[^13]: Scott Anthony and Lynelle Tan, “Last Night of the Proms in Singapore,” London Review of Books blog, 8 September 2018, https://www.lrb.co.uk/blog/2018/september/last-night-of-the-proms-in-singapore.    
+[^13]: Scott Anthony and Lynelle Tan, “Last Night of the Proms in Singapore,” London Review of Books blog, 8 September 2018, [https://www.lrb.co.uk/blog/2018/september/last-night-of-the-proms-in-singapore.](https://www.lrb.co.uk/blog/2018/september/last-night-of-the-proms-in-singapore)    
 
-[^14]:  “‘Stand Up for Singapore’ Makes Its Debut on Saturday’,” _Singapore Monitor_, 30 May 1984, 2. (From NewspaperSG)   
+[^14]:  “[‘Stand Up for Singapore’ Makes Its Debut on Saturday’](https://eresources.nlb.gov.sg/newspapers/digitised/article/singmonitor19840530-2.2.5.1),” _Singapore Monitor_, 30 May 1984, 2. (From NewspaperSG)   
 
-[^15]: “Really, a Canadian?” _New Paper_, 27 July 2013, 2–3. (From NewspaperSG)    
+[^15]: “[Really, a Canadian?](https://eresources.nlb.gov.sg/newspapers/digitised/article/newpaper20130727-1.2.3.2)” _New Paper_, 27 July 2013, 2–3. (From NewspaperSG)    
 
-[^16]: “The McCann-Erikson Campaign That Set Them Singing,” _Business Times_, 18 August 1986, 3. (From NewspaperSG)    
+[^16]: “[The McCann-Erikson Campaign That Set Them Singing](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19860818-1.2.11.1),” _Business Times_, 18 August 1986, 3. (From NewspaperSG)    
 
-[^17]: Paul Jacob and Juliana Ng, “Wanted: More Songs With That Singapore Flavour,” _Straits Times_, 1 December 1986, 34; “‘We Are Singapore’ Nets Chest $140,000’,” _Straits Times_, 9 October 1987, 19. (From NewspaperSG)&nbsp;    
+[^17]: Paul Jacob and Juliana Ng, “[Wanted: More Songs With That Singapore Flavour](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19861201-1.2.59),” _Straits Times_, 1 December 1986, 34; “[‘We Are Singapore’ Nets Chest $140,000’](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19871009-1.2.39.35),” _Straits Times_, 9 October 1987, 19. (From NewspaperSG)&nbsp;    
 
-[^18]: Jennifer Koh and K.F. Seetoh, “A Rousing Start to Singing Campaign,” _Straits Times_, 31 January 1988, 3. (From NewspaperSG)    
+[^18]: Jennifer Koh and K.F. Seetoh, “[A Rousing Start to Singing Campaign](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19880131-1.2.10.7),” _Straits Times_, 31 January 1988, 3. (From NewspaperSG)    
 
-[^19]: “Get Ready to Put Some ‘Sing’ into Singapore,” _Straits Times_, 13 January 1988, 28. (From NewspaperSG)     
+[^19]: “[Get Ready to Put Some ‘Sing’ into Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19880113-1.2.62),” _Straits Times_, 13 January 1988, 28. (From NewspaperSG)     
 
-[^20]:  “Get Ready to Put Some ‘Sing’ into Singapore.”
+[^20]:  “[Get Ready to Put Some ‘Sing’ into Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19880113-1.2.62).”
 
-[^21]: “2,300 Civil Servants in Singing Contest,” _Straits Times_, 15 March 1988, 14. (From NewspaperSG)    
+[^21]: “[2,300 Civil Servants in Singing Contest](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19880315-1.2.25.15),” _Straits Times_, 15 March 1988, 14. (From NewspaperSG)    
 
-[^22]: “Gardeners, Soldiers, Policemen, But Singers All,” _Straits Times_, 8 June 1988, 19. (From NewspaperSG)    
+[^22]: “[Gardeners, Soldiers, Policemen, But Singers All](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19880608-1.2.29.7.1),” _Straits Times_, 8 June 1988, 19. (From NewspaperSG)    
 
-[^23]: “Gardeners, Soldiers, Policemen, But Singers All.”    
+[^23]: “[Gardeners, Soldiers, Policemen, But Singers All](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19880608-1.2.29.7.1).”    
 
-[^24]: “They Are Fantastic,” _Straits Times_, 24 July 1988, 1. (From NewspaperSG)    
+[^24]: “[They Are Fantastic](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19880724-1.2.4),” _Straits Times_, 24 July 1988, 1. (From NewspaperSG)    
 
-[^25]:  Sharon Simon, “Swinging End to Sing Singapore Programme,” _Straits Times_, 1 September 1988, 19. (From NewspaperSG)   
+[^25]:  Sharon Simon, “[Swinging End to Sing Singapore Programme](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19880901-1.2.28.13),” _Straits Times_, 1 September 1988, 19. (From NewspaperSG)   
 
-[^26]: Dominic Nathan, “Rousing Start to Sing Singapore ’90,” _Straits Times_, 30 December 1989, 1. (From NewspaperSG)    
+[^26]: Dominic Nathan, “[Rousing Start to Sing Singapore ’90](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19891230-1.2.5),” _Straits Times_, 30 December 1989, 1. (From NewspaperSG)    
 
-[^27]: “20 Choirs to Compete in Finals of Community Song Contest,” _Straits Times_, 12 July 1990, 20. (From NewspaperSG)
+[^27]: “[20 Choirs to Compete in Finals of Community Song Contest](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19900712-1.2.32.4),” _Straits Times_, 12 July 1990, 20. (From NewspaperSG)
    
-[^28]: “Alumni Group Bags 3 Prizes in Sing Singapore,” _Straits Times_, 16 August 1992. (From NewspaperSG)
+[^28]: “[Alumni Group Bags 3 Prizes in Sing Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19920816-1.2.24.11),” _Straits Times_, 16 August 1992. (From NewspaperSG)
     
-[^29]: “S’pore Song,” _New Paper_, 10 July 1991, 4; Brian Miller, “Singapore Song Duo,” _New Pape_r, 13 July 1991, 20. (From NewspaperSG)
+[^29]: “[S’pore Song](https://eresources.nlb.gov.sg/newspapers/digitised/article/newpaper19910710-1.2.6.1),” _New Paper_, 10 July 1991, 4; Brian Miller, “[Singapore Song Duo](https://eresources.nlb.gov.sg/newspapers/digitised/article/newpaper19910713-1.2.28),” _New Paper_, 13 July 1991, 20. (From NewspaperSG)
     
-[^30]: “Sing Singapore ’94: A Festival of Songs,” _Straits Times_, 18 October 1993, 14; “Sing Singapore ’94 Contest Begins,” _Straits Times_, 29 May 1994, 21. (From NewspaperSG)
+[^30]: “[Sing Singapore ’94: A Festival of Songs](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19931018-1.2.77.2),” _Straits Times_, 18 October 1993, 14; “[Sing Singapore ’94 Contest Begins](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19940529-1.2.41.1),” _Straits Times_, 29 May 1994, 21. (From NewspaperSG)
 
-[^31]: Phan Ming Yen, “This Year’s Song Fest Will Reach Out to Wider Audience,” _Straits Times_, 6 April 1996, 4. (From NewspaperSG)    
+[^31]: Phan Ming Yen, “[This Year’s Song Fest Will Reach Out to Wider Audience](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19960406-1.2.66.3.4),” _Straits Times_, 6 April 1996, 4. (From NewspaperSG)    
 
 [^32]: Ministry of Information and the Arts, “Search for a New National Song,” press release, March 1997.&nbsp;    
 
 [^33]: National Arts Council, “Agenda for Sing Singapore 98 Committee Meeting,” 12 January 1998.    
 
-[^34]: Ainslyn Lim, “5 of the Best ‘Home’ Covers You Can Listen to on Repeat on National Day,” Today, 9 August 2023, https://www.todayonline.com/8days/5-best-home-covers-you-can-listen-repeat-national-day-2229216.
+[^34]: Ainslyn Lim, “5 of the Best ‘Home’ Covers You Can Listen to on Repeat on National Day,” Today, 9 August 2023, [https://www.todayonline.com/8days/5-best-home-covers-you-can-listen-repeat-national-day-2229216](https://www.todayonline.com/8days/5-best-home-covers-you-can-listen-repeat-national-day-2229216).
 
-[^35]: “Weezer’s Lead Singer Covers Singapore National Day Parade Song Home,” CNA, 10 October 2023, https://cnalifestyle.channelnewsasia.com/entertainment/weezer-rivers-cuomo-covers-kit-chan-home-372891; Lee Wei Lin, “K-Pop Group Mamamoo’s Solar Sings ‘Home’ During S’pore Concert,” mothership, 28 July 2024, https://mothership.sg/2024/07/mamamoo-solar-sg-home-singlish/.    
+[^35]: “Weezer’s Lead Singer Covers Singapore National Day Parade Song Home,” CNA, 10 October 2023, [https://cnalifestyle.channelnewsasia.com/entertainment/weezer-rivers-cuomo-covers-kit-chan-home-372891](https://cnalifestyle.channelnewsasia.com/entertainment/weezer-rivers-cuomo-covers-kit-chan-home-372891); Lee Wei Lin, “K-Pop Group Mamamoo’s Solar Sings ‘Home’ During S’pore Concert,” mothership, 28 July 2024, [https://mothership.sg/2024/07/mamamoo-solar-sg-home-singlish/](https://mothership.sg/2024/07/mamamoo-solar-sg-home-singlish/).    
 
-[^36]: Jason Leow, “Lyricist Says Bonds Today Are Stronger,” _Straits Times_, 31 July 1998, 49. (From NewspaerSG)    
+[^36]: Jason Leow, “[Lyricist Says Bonds Today Are Stronger](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19980731-1.2.49.26),” _Straits Times_, 31 July 1998, 49. (From NewspaerSG)    
 
 [^37]: Letter from Leen Kim Swee to Bernard Tan, 21 January 2004, National Arts Council.&nbsp;    
 
-[^38]: “Singapore Symphony Choruses Present: We Will Get There,” Youtube, 16 June 2020, https://youtu.be/yo6tCVJ-PdA?si=izrxqbx\_5J2u3UYp.
+[^38]: “Singapore Symphony Choruses Present: We Will Get There,” Youtube, 16 June 2020, [https://youtu.be/yo6tCVJ-PdA?si=izrxqbx\_5J2u3UYp](https://youtu.be/yo6tCVJ-PdA?si=izrxqbx_5J2u3UYp).
     
 
-[^39]: Eddino Abdul Hadi, “The 5 Best NDP Theme Songs, From the Road Ahead to Home,” _Straits Times_, 27 July 2023, https://www.straitstimes.com/life/entertainment/the-5-best-ndp-theme-songs-from-the-road-ahead-to-home.
+[^39]: Eddino Abdul Hadi, “The 5 Best NDP Theme Songs, From the Road Ahead to Home,” _Straits Times_, 27 July 2023, [https://www.straitstimes.com/life/entertainment/the-5-best-ndp-theme-songs-from-the-road-ahead-to-home](https://www.straitstimes.com/life/entertainment/the-5-best-ndp-theme-songs-from-the-road-ahead-to-home).
