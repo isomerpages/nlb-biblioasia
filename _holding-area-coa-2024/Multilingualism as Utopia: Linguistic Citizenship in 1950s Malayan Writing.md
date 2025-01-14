@@ -4,31 +4,16 @@ permalink: /holding-area/chapters-on-asia-2024/multilingualism-as-utopia/
 variant: markdown
 description: ""
 ---
-The 1950s was a decade of radical transformation in Malaya. In the aftermath
-of the Japanese Occupation (1942–45) and before the idea of political independence
-from colonial rule became reality, Malaya, including Singapore, was embroiled
-in the rise of anti-colonial sentiments and British suppression of communist
-insurgencies. This culminated in the promulgation of the Emergency Act
-in June 1948, which remained in effect till July 1960.[^1]
+The 1950s was a decade of radical transformation in Malaya. In the aftermath of the Japanese Occupation (1942–45) and before the idea of political independence from colonial rule became reality, Malaya, including Singapore, was embroiled in the rise of anti-colonial sentiments and British suppression of communist insurgencies. This culminated in the promulgation of the Emergency Act in June 1948, which remained in effect till July 1960.[^1]  
 
-In the intervening years, Malaya’s sociopolitical landscape was mired
-in ideological tensions and armed conflict. Precisely due to these tensions,
-a nascent Malayan consciousness began to take shape, with important implications
-for literary and cultural activities. More specifically, this period of
-extraordinary flux in identity incubated the notion of a distinctive Malayan
-literature and culture, a hitherto nonexistent category, thereby opening
-the way to a vibrant tradition of creative writing in the region.
+In the intervening years, Malaya’s sociopolitical landscape was mired in ideological tensions and armed conflict. Precisely due to these tensions, a nascent Malayan consciousness began to take shape, with important implications for literary and cultural activities. More specifically, this period of extraordinary flux in identity incubated the notion of a distinctive Malayan literature and culture, a hitherto nonexistent category, thereby opening the way to a vibrant tradition of creative writing in the region. 
 
-This article looks at two parallel developments in the Chinese-language
-and English-language literary circles during this period. Both involved
-multilingual innovation in the written language, namely the infusion of
-Chinese dialects in Sinophone fiction and the mixing of resources from
-English, Malay, and Chinese in Anglophone poetry. The article traces the
-ideological circumstances behind these developments and examines the historical
-significance of these multilingual experiments in terms of how they articulate
-the sociopolitical aspirations of intellectuals in those turbulent times.
+This article looks at two parallel developments in the Chinese-language and English-language literary circles during this period. Both involved multilingual innovation in the written language, namely the infusion of Chinese dialects in Sinophone fiction and the mixing of resources from English, Malay, and Chinese in Anglophone poetry. The article traces the ideological circumstances behind these developments and examines the historical significance of these multilingual experiments in terms of how they articulate the sociopolitical aspirations of intellectuals in those turbulent times.
+
 
 #### **Uniqueness of Malayan Chinese Literature**
+
+   
 
 As an important conduit of expression, literature bloomed in postwar Malaya,
 at a time when people were seeking to invent an imagined geopolitical community[^2]
@@ -113,40 +98,43 @@ implementation of these Regulations was the creation of a vacuum in Chinese-lang
 literature,[^10] compelling Malayan-Chinese writers to “seek their genius
 in themselves”.[^11] Hence the rise of Chinese-language writing speaks
 to locale-specific sensibilities in Malaya, partaking “a consolidation
-of localisation efforts to become ‘more Nanyang’.”[^12]<p></p>
-<h4><strong>Vernacular Voices in Chinese-Language Fiction</strong></h4>
-<p>It is against this ideological background that a linguistic phenomenon
+of localisation efforts to become ‘more Nanyang’.”[^12]
+
+#### **Vernacular Voices in Chinese-Language Fiction**
+
+It is against this ideological background that a linguistic phenomenon
 of interest emerged among a new generation of Malayan-Chinese writers in
 the 1950s, namely the representation of Chinese dialects, and to a lesser
 extent colloquial Malay (also known as Bazaar Malay), in fictional works
-that are predominantly composed in standard written Chinese.</p>
-<p>One of the most prolific writers in this period who put this technique
+that are predominantly composed in standard written Chinese.
+
+One of the most prolific writers in this period who put this technique
 into practice was Miao Xiu (1920–80). Born in Singapore, Miao Xiu participated
-in the Great Debate, contributing an article in <em>Sin Chew Jit Poh</em> on
+in the Great Debate, contributing an article in *Sin Chew Jit Poh* on
 28 February 1948 under the nom de plume Wen Renjun. In his article, Miao
 Xiu clearly expressed his support for the Malayan-Chinese Literature School.[^13]
 It is thus no surprise that his writing offers abundant traces of Chinese
 dialects and colloquial expressions (including vulgarities), for the use
 of place-based idiolects is one of the principal means through which the
 locale-specificity of Malayan Chinese literature was manifested. The expletive
-丟那媽 (<em>diu na ma</em>, a condensed transliteration of a Cantonese expletive),
+丟那媽 (*diu na ma*, a condensed transliteration of a Cantonese expletive),
 for instance, often appears in the utterances of Miao Xiu’s working-class
 characters in his fiction and features as one of the “signature” terms
-in his linguistic repertoire.</p>
-<div class="isomer-image-wrapper">
+in his linguistic repertoire.
+
 <img style="width:100%;" height="auto" width="100%" src="/images/COA%202024/Multilingualism%20as%20Utopia/pg_270_Aug11005_crop.jpg">
-</div>
-<p>In this article by Miao Xiu, he explores Anglophone and Sinophone literary
+
+In this article by Miao Xiu, he explores Anglophone and Sinophone literary
 writing in 1950s Malaya, with a focus on how the phenomenon of language
 mixing arose in response to the socio-political exigencies of the period.
 It reveals the inextricable relationship between language, literature&nbsp;and
-society. <em>Reproduced from《論__僑民意識與馬華獨特性》,《星洲日報》\[Xing Zhou Re Bao\]，28 February 1948. Microfilm no. A01597333I.(From National Library, Singapore)</em>
-</p>
-<p>Miao Xiu was not alone in this enterprise. He was joined by several contemporaries,
+society. <i>Reproduced from《論__僑民意識與馬華獨特性》,《星洲日報》\[Xing Zhou Re Bao\]，28 February 1948. Microfilm no. A01597333I.(From National Library, Singapore)</i>
+
+Miao Xiu was not alone in this enterprise. He was joined by several contemporaries,
 notably Zhao Rong (1920–88), who also contributed to the Great Debate,
 under the pseudonym Xi Qiao. A strong advocate of the uniqueness of Malayan
-Chinese literature, Zhao published two articles in the <em>Xing Chen</em> supplement
-of <em>Sin Chew Jit Poh</em> in early 1948, one on 26 January[^14] and the
+Chinese literature, Zhao published two articles in the *Xing Chen* supplement
+of *Sin Chew Jit Poh* in early 1948, one on 26 January[^14] and the
 other on 16 February.[^15] Like Miao Xiu, Zhao Rong was relatively liberal
 in his linguistic use from the vernaculars. A spectacular example is his
 1958 short story “Old Stone Mountain”,[^16] the plot driven primarily by
@@ -155,15 +143,16 @@ are graphically similar to but vary from standard Chinese characters. Here
 the overall proportion of Cantonese used is so high that readers unfamiliar
 with the Cantonese script and sound would conceivably have difficulty understanding
 the story based on the narrative segments (written in standard Chinese
-characters) alone.</p>
+characters) alone.<p></p>
 <p>By and large, however, the dialect segments in Chinese fiction from this
 period appear in dialogues, in apparent mimicry of the parole of ordinary
 folks on the streets, although traces of dialects occasionally found their
 way into the narrative. The most frequently featured dialect is Cantonese.
 Cantonese was one of the most widely spoken dialects among the ethnic Chinese
 in Malaya. Miao Xiu’s family, for instance, was from Guangdong (Canton)
-and so he was almost certainly conversant in Cantonese.</p>
-<p>Another reason might be that Cantonese is more readily transmutable into
+and so he was almost certainly conversant in Cantonese.
+
+Another reason might be that Cantonese is more readily transmutable into
 writing as it has its own unique script corresponding to its sounds, used
 alongside standard characters. Hokkien, in contrast, is relatively less
 amenable to written representation as a good proportion of its lexis has
@@ -173,10 +162,22 @@ in Cantonese, particularly when the characters are from the working class
 (in contrast, characters who are intellectuals generally did not converse
 in dialect). In addition to Cantonese, Hokkien and colloquial Malay also
 comes up occasionally, albeit in smaller doses, hence contributing to the
-rich linguistic texture of the literary prose.</p>
-<p>To take an example from Miao Xiu’s well-known novella <em>Under Singapore’s Roof</em> (1951),
-consider the following sentence:</p>
-<p>這鬼是「<strong>七0七</strong>」的「<strong>草鞋</strong>」（私會黨的總務），每逢禮拜晚就來黑巷向她賽賽討「<strong>包爺費</strong>」，為了免得別的私會黨的三星<strong>臭卡</strong>「<strong>卡周</strong>」（馬來語：欺凌），她賽賽不得不忍痛付給這鬼一筆保護費；可是這<strong>臭卡</strong>一開口就是<strong>一巴掌</strong>（<strong>五扣</strong>錢），講到口乾才減到<strong>三扣</strong>.[^17]</p>
+rich linguistic texture of the literary prose.
+
+To take an example from Miao Xiu’s well-known novella *Under Singapore’s Roof* (1951),
+consider the following sentence:
+	
+      
+
+這鬼是「**七****0****七**」的「**草鞋**」（私會黨的總務），每逢禮拜晚就來黑巷向她賽賽討「**包爺費**」，為了免得別的私會黨的三星**臭卡**「**卡周**」（馬來語：欺凌），她賽賽不得不忍痛付給這鬼一筆保護費；可是這**臭卡**一開口就是**一巴掌**（**五扣**錢），講到口乾才減到**三扣**。[^17]
+
+  
+
+* * *
+
+[\[1\]](#_ftnref1) Emphasis added. Miao Xiu, _Xinjiapo wuding xia_ [新加坡屋頂下](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13985821) \[Under Singapore’s roof\] (Singapore: Nanyang Printing Press, 1951,) 6. (From National Library, Singapore, call no. Chinese C813.4 MX)
+
+	這鬼是「<strong>七0七</strong>」的「<strong>草鞋</strong>」（私會黨的總務），每逢禮拜晚就來黑巷向她賽賽討「<strong>包爺費</strong>」，為了免得別的私會黨的三星<strong>臭卡</strong>「<strong>卡周</strong>」（馬來語：欺凌），她賽賽不得不忍痛付給這鬼一筆保護費；可是這<strong>臭卡</strong>一開口就是<strong>一巴掌</strong>（<strong>五扣</strong>錢），講到口乾才減到<strong>三扣</strong>.[^17]</p>
 <p>Here we see a succession of terms (in bold) that would surely baffle the
 non-local Chinese reader and, for that matter, even a contemporary Chinese
 reader with no access to Singapore’s sociocultural context in the 1940s
