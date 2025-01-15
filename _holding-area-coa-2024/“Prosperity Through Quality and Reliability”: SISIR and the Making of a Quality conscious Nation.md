@@ -5,8 +5,8 @@ permalink: /holding-area/chapters-on-asia-2024/prosperity-through-quality-reliab
 variant: markdown
 description: ""
 ---
-<img src="/images/COA%202024/Prosperity%20Through%20Quality/SISIR_buying_to_specifications_p14.jpg" style="width:80%;">
- <div style="background-color: white;"><i>Image reproduced from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=203884291"><i>Buying&nbsp;to&nbsp;Specifications</i></a> (Singapore: Singapore Institute of Standards and Industrial Research, 1986), 14. (From National Library, Singapore, call no. 381.33).</i></div>
+<img src="/images/COA%202024/Prosperity%20Through%20Quality/SISIR_buying_to_specifications_p14.jpg" style="width:50%;">
+ <div style="background-color: white;"><i>Image reproduced from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=203884291"><i>Buying to Specifications</i></a> (Singapore: Singapore Institute of Standards and Industrial Research, 1986), 14. (From National Library, Singapore, call no. 381.33).</i></div>
 
 #### **Introduction: A Reputation for Trade**
 
@@ -33,6 +33,10 @@ Important as manufacturers are to this story, they were not the only relevant co
 Finally, I explore a variety of suggestive indicators of SISIR’s success – ranging from recognition from foreign standard bodies to its mention in local advertisements. In short, this essay does not aim for comprehensiveness; it aims instead to provide a broad overview of the institution and makes the case that it represents an important part of Singapore’s economic and cultural history.
   
 #### **Origins – The 1968 National Conference on Scientific and Technical Co-operation Between Industries and Governmental Bodies**	
+
+
+<img src="/images/COA%202024/Prosperity%20Through%20Quality/SISIR_buying_to_specifications_p14.jpg" style="width:80%;">
+ <div style="background-color: white;"><i>Buying to Specifications</i> (Singapore: Singapore Institute of Standards and Industrial Research, 1986), 14. (From National Library, Singapore, call no. 381.33).</div>
 
 The early days of the Republic were a time of economic anxiety, and the government decided the only way forward involved the rapid appropriation and deployment of Science and Technology. In February 1966, an Ad Hoc Scientific Committee was established to advise the government on scientific matters, but its non-official status meant it lacked funding and access to confidential data. To remedy these shortcomings, Deputy Prime Minister Dr Toh Chin Chye introduced the Science Council of Singapore Bill in 1967 to grant this advisory body official status. Among its envisioned functions were to investigate technical problems such as the effective deployment of utilities and the prevention of pollution, to establish relationships with other scientific bodies, and “to study how industrial development [could] be promoted by the effective training and utilisation of scientific and technological manpower”.[^4]  It would be headed by Dr Lee Kum Tatt, then a biochemist at the Ministry of Health.[^5] 
 
