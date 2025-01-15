@@ -27,12 +27,9 @@ Second, in a matter of years, the Overseas-Chinese School had all but disappeare
 
 “[t]he Controller and an authorised officer shall have power to detain, open and examine any article coming into the Federation [of Malaya] in any manner whatsoever from any place outside the Federation which a Controller or an authorised officer has reason to believe contains or consists of a publication (hereinafter in these Regulations called a “prejudicial publication”)–
 
-   (a)   the importation of which is by reason of the existence of the state of 
-
-       emergency prejudicial to the successful prosecution of measures taken in 
-
-       the Federation [of Malaya] or in the Colony [of Singapore] to terminate the 
-
+   (a)   the importation of which is by reason of the existence of the state of<br>
+       emergency prejudicial to the successful prosecution of measures taken in<br>
+       the Federation [of Malaya] or in the Colony [of Singapore] to terminate the<br>
        emergency[.]” [^9]
 
 And Clause 3(1) in the second set of Regulations uses a parallel wording in respect of the sale and circulation of material deemed politically sensitive. For the purposes of both Regulations, literary books and magazines from China would have counted as “prejudicial publications” that could potentially indoctrinate values detrimental to colonial interests. The upshot of the implementation of these Regulations was the creation of a vacuum in Chinese-language literature,[^10]  compelling Malayan-Chinese writers to “seek their genius in themselves”.[^11]  Hence the rise of Chinese-language writing speaks to locale-specific sensibilities in Malaya, partaking “a consolidation of localisation efforts to become ‘more Nanyang’.”[^12] 
@@ -86,7 +83,11 @@ Quarters too,<br>
 With a room for his two little girls.<br>
 Kampong Batu was dirty!
 
-Thoughts of Camford fading,/Contentment creeping in./Allah has been kind;/Orang puteh has been kind./Only yesterday his brother said,/“Can get lagi satu wife lah!”[^20] 
+Thoughts of Camford fading,<br>
+Contentment creeping in.<br>Allah has been kind;<br>
+Orang puteh has been kind.<br>
+Only yesterday his brother said,<br>
+“Can get lagi satu wife lah!”[^20] 
 
 As far as the notion of English poetry is concerned, the presence of Malay – *puasa* (Muslim fasting period), *kampong* (village), Allah (God in Islam), *orang puteh* (white men) and “Can get *lagi satu* wife lah!” (Can get another wife!) – would have been highly unusual for Wang’s readers at the time. Another example of Wang’s writing that highlights EngMalChin is “Three Faces of Night”, which explores different facets of life in Malayan Singapore. One of these is the familiar scene of roadside hawkers: 
 
