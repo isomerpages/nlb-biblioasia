@@ -34,7 +34,7 @@ Finally, I explore a variety of suggestive indicators of SISIR’s success – r
   
 #### **Origins – The 1968 National Conference on Scientific and Technical Co-operation Between Industries and Governmental Bodies**	
 
-<img src="/images/COA%202024/Prosperity%20Through%20Quality/Conferences_1_and_2.jpg" style="width:80%;">
+<img src="/images/COA%202024/Prosperity%20Through%20Quality/Conferences_1_and_2.jpg" style="width:100%;">
  <div style="background-color: white;"><i>Image reproduced from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759"><i> Summary of Proceedings: Singapore Conference Hall 23rd to 26th October, 1968: National Conference on Scientific and Technical Co-operation between Industries and Governmental Bodies</i></a>(Singapore: Singapore Institute of Standards and Industrial Research, 1986), 14. (From National Library, Singapore, call no. 381.33).</i></div>
 
 
@@ -92,8 +92,8 @@ The government’s recognition that export contracts had standards stipulated is
 
 On 1 January 1973, SISIR received a request from the Canadian Standards Association (CSA) to certify Canada-bound consumer electronics.[^39]  As a result, SISIR launched an Export Inspection Service in July 1974.[^40]  By 1987, SISIR reported that 22 overseas authorities had either appointed SISIR as their Singapore inspection agent or recognised its tests reports, an indication of widespread recognition of SISIR’s work.
 
-![](/images/COA%202024/Prosperity%20Through%20Quality/overseas_certification.jpg)
-<img src="/images/COA%202024/Prosperity%20Through%20Quality/overseas_certification.jpg" style="width:80%;">
+
+<img src="/images/COA%202024/Prosperity%20Through%20Quality/overseas_certification.jpg" style="width:50%;">
  <div style="background-color: white;"><i>Image reproduced from Singapore Institute of Standards and Industrial Research, <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308"><i> Singapore Institute of Standards and Industrial Research Annual Report 1986-87</i></a> (Singapore: The Institute), 14. (From National Library, Singapore, call no. RCLOS 354.5957093 SISIRA)</i></div>         
 
 
