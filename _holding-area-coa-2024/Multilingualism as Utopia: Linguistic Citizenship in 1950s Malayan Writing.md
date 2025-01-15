@@ -91,33 +91,20 @@ Only yesterday his brother said,<br>
 
 As far as the notion of English poetry is concerned, the presence of Malay – *puasa* (Muslim fasting period), *kampong* (village), Allah (God in Islam), *orang puteh* (white men) and “Can get *lagi satu* wife lah!” (Can get another wife!) – would have been highly unusual for Wang’s readers at the time. Another example of Wang’s writing that highlights EngMalChin is “Three Faces of Night”, which explores different facets of life in Malayan Singapore. One of these is the familiar scene of roadside hawkers: 
 
-The crowds wait their share of the steaming fun
-
-At the kuey teow stalls of the kerosene glare
-
-And in the shadowed, rubbish lined malls,
-
-The whisperings have just begun.
-
-By the drains, sandalled squats
-
-Lick their durian seeds;
-
-Near the lanes the night-soil workers
-
-Wipe their stinking beads;
-
-And urchins at the car park do their good deeds.
-
-The herbal cool-tea colours the bowls;
-
-Mango skins attract the flies.
-
-Oh watch the chee-kee woman cense the skies,
-
-Crying,
-
-“This is our progressive Paradise.”[^21] 
+The crowds wait their share of the steaming fun<br>
+At the kuey teow stalls of the kerosene glare<br>
+And in the shadowed, rubbish lined malls,<br>
+The whisperings have just begun.<br>
+By the drains, sandalled squats<br>
+Lick their durian seeds;<br>
+Near the lanes the night-soil workers<br>
+Wipe their stinking beads;<br>
+And urchins at the car park do their good deeds.<br>
+The herbal cool-tea colours the bowls;<br>
+Mango skins attract the flies.<br>
+Oh watch the chee-kee woman cense the skies,<br>
+Crying,<br>
+“This is our progressive Paradise.”[^21]<br> 
 
 Apart from obvious evidence of codemixing like *kuey teow* (Chinese rice noodles), the poem experiments with the intersections of English and Chinese. “Fun” in “their share of the steaming fun” cleverly puns the English word for delight and the sound of the Cantonese word for “rice noodles”. Similarly, “chee-kee” in “watch the chee-kee woman” gives rise to two readings: while calling up the word “cheeky”, it transliterates a Chinese dialect term possibly referencing the incense sticks used in Chinese folk rituals. These double-entendres capture the palimpsestic sensibilities in colonial Malaya at a time when the lingering British influence and emergent local consciousness interfaced as co-existing social forces-in-tension. 
 
