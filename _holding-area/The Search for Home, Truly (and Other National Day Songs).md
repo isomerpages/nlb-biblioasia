@@ -4,6 +4,9 @@ permalink: /holding-area/the-search-for-home-truly-and-other-national-day-songs/
 variant: markdown
 description: ""
 ---
+#### **The effort to find songs that express a national identity goes back to the 1970s.**
+By Bernard T.G. Tan
+
 Dick Lee’s “Home” is arguably one of the most well loved of all our National Day songs. While the song is indelibly associated with the voice of Kit Chan, who performed it at the National Day Parade (NDP) in 1998, it is also a song that is regularly sung in unison at subsequent NDPs.&nbsp;
 
 
