@@ -71,6 +71,10 @@ An initiative by NTUC Income in 1991 led to the national song, “It’s the Lit
 
 After the National Arts Council (NAC) was established in 1991, the new body took over the responsibility for the campaign. In 1993, the NAC brought back the creation and collection of Singapore songs into Sing Singapore. It also came up with a new branding – A Festival of Songs – for the 1994 campaign. In October 1993, the NAC invited Singaporeans to submit original songs. It attracted 48 groups that performed at the Ngee Ann City Civic Plaza in May and June the next year.[^30] The 1996 competition was called Song Fest, a catchier version of A Festival of Songs.[^31] Between 1991 and 1998, there seems to have been no new songs meant for National Day though.
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol%2021%20Issue%201/Sing%20Singapore/sing_festivalposter.jpg" style="width: 80%;">A poster for Sing Singapore: A Festival of Songs, 1994. <i>Courtesy of National Archives of Singapore.</i></div>
+
 It was around this time that I was appointed chairman of the Sing Singapore organising committee. One of the new committee’s first tasks was to find a National Day song for 1998.[^32] Instead of holding an open competition, we approached a number of established Singaporean songwriters and composers to submit songs for our consideration.[^33] Dick Lee was among those who responded, but unlike the others, he submitted a melody without lyrics.
 
 #### **This Is Home, Truly**
