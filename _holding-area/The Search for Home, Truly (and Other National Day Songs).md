@@ -124,6 +124,10 @@ In 2020, the Covid-19 pandemic shut down Singapore and most of the world, and as
 
 In June 2020, as the circuit breaker was lifted, singer Joanna Dong – with members of the Singapore Symphony Chorus, Youth and Children’s Choir as well as musicians from the Singapore Symphony Orchestra – recorded Dick Lee’s “We Will Get There” from home. The version featured a highly effective arrangement by Gabriel Hoe and the performance undoubtedly helped to raise the spirits of Singaporeans during the dark days of the pandemic.[^38]
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol%2021%20Issue%201/Sing%20Singapore/sing_cover.jpg" style="width: 80%;">Joanna Dong (top left), with members from the Singapore Symphony Chorus, Youth and Children’s Choir, as well as musicians from the Singapore Symphony Orchestra, recording Dick Lee’s “We Will Get There” from home in June 2020. <i>Image from “Singapore Symphony Choruses Present: We Will Get There,” 16 June 2020, YouTube video, 4:42.</i></div>
+
 Post-pandemic, my favourite NDP song is “The Road Ahead” by singer-songwriter Linying in 2021. The song looks beyond the dark days of the pandemic to a brighter future.[^39]
 
 #### **An Appeal**
