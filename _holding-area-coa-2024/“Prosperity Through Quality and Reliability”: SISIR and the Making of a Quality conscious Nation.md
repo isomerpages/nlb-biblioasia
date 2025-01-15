@@ -107,6 +107,12 @@ To test the credibility of a product, SISIR had to carry out a range of scientif
 
 The necessary tests varied greatly because of the nature and expectations of different products. For example, one simple test was for holes in condoms, which required suspending a number of condoms from each batch and ensuring there was no leakage. Larger objects like curtain walls required far more elaborate and sophisticated machinery to test for quality.
 
+![](/images/COA%202024/Prosperity%20Through%20Quality/Condon_testing_curtain_walls.jpg)
+
+<img src="/images/COA%202024/Prosperity%20Through%20Quality/Condon_testing_curtain_walls.jpg" style="width:100%;">
+<div style="background-color: white;">Goods tested by SISIR ranged from condoms (left) to curtain walls (right).
+<i>Images reproduced from Singapore Standards Council,<a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308"></a>(Singapore: The Institute, 1978), 20. (From National Library, Singapore, call no. RCLOS 602.12 SCSSCA);_</i></div>         
+
 While SISIR’s work in mediation mostly involved testing for specifications, it was also occasionally called to mediate scientific disagreements. The case of Kenwa’s plastic bags illustrate the workings of SISIR and the specific kinds of interventions it had the authority to stage.
 
 In the late 1980s, environmentalism surged across the world, and Singapore was no exception. Seeking to capitalise on this new trend, Singapore firm Kenwa Plastic Industries started advertising a photodegradable plastic bag.[^41]  The *Straits Times* featured the bag in its “Ailing Earth: The Singapore Perspective” series on 1 January 1990, reporting that Kenwa’s bag would disintegrate after 200 hours exposure to sunlight.[^42]  Seeking to position itself as progressive and environmentally conscious, The Body Shop ordered these bags and highlighted them in its publicity material.[^43] 
