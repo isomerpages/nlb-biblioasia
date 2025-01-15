@@ -10,9 +10,8 @@ By Bernard T.G. Tan
 Dick Lee’s “Home” is arguably one of the most well loved of all our National Day songs. While the song is indelibly associated with the voice of Kit Chan, who performed it at the National Day Parade (NDP) in 1998, it is also a song that is regularly sung in unison at subsequent NDPs.&nbsp;
 
 
-<div style="background-color: white;">
-<br>
-<img src="/images/Vol%2021%20Issue%201/Sing%20Singapore/sing_facing.jpg" style="width: 80%;">Kit Chan performing “Home” at the 1998 National Day Parade. This was the National Day song that year. <i>Lianhe Zaobao © SPH Media Limited. Permission required for reproduction.</i></div>
+![](/images/Vol%2021%20Issue%201/Sing%20Singapore/sing_facing.jpg)
+<div>Kit Chan performing “Home” at the 1998 National Day Parade. This was the National Day song that year. <i>Lianhe Zaobao © SPH Media Limited. Permission required for reproduction.</i></div>
 
 The popularity of National Day songs like “Home” and “Stand Up for Singapore” is the result of a decades-long effort to create national songs that can be sung communally. This effort to find a song that represents the nation (apart from “Majulah Singapura”, the national anthem) goes back at least to the 1970s.
 
@@ -22,9 +21,10 @@ In 1975, the National Theatre Trust and Radio and Television Singapore launched 
 
 The second competition in 1976 had a lyric writing competition followed by a songwriting competition using the winning lyrics.[^2] A total of 206 song lyrics in the four official languages were received, and three entries from each language were chosen for the songwriting competition launched in January 1977. The winning entry at the grand finals of the competition on 11 June that year was “Salute to Singapore” by Alex Abisheganaden (who would be conferred the Cultural Medallion in 1988). The third competition was launched in 1978 and had its grand finals on 31 May 1979. The winners were “It’s National Day”, “Mooncake Festival” and “City of Lights” (in English), “Happy New Year” and “Celebrating New Year” (in Chinese), “Sangeduthu Oothuvolam” (in Tamil) and “Gembira Di Hari Raya” and “Pesta Hari Nasional” (in Malay).[^3]
 
-<div style="background-color: white;">
-<br>
-<img src="/images/Vol%2021%20Issue%201/Sing%20Singapore/sing_oursongposter.jpg" style="width: 80%;">The poster for “Our Songs” songwriting competition in 1977. The winning entry was “Salute to Singapore” by Alex Abisheganaden. <i>Courtesy of Bernard G.T. Tan.</i></div>
+
+	
+![](/images/Vol%2021%20Issue%201/Sing%20Singapore/sing_oursongposter.jpg)
+<div>The poster for “Our Songs” songwriting competition in 1977. The winning entry was “Salute to Singapore” by Alex Abisheganaden. <i>Courtesy of Bernard G.T. Tan.</i></div>
 
 In 1979, the organisers invited seven composers and six poets to write Singapore songs. As the lyrics were written in Chinese (no English writers and poets responded to the project), the songs composed were in Chinese. Thirteen songs were showcased at the “Our Songs” concert on 15 March 1980, featuring composers Leong Yoon Pin, Samuel Ting, Goh Say Meng, Lee Tack Fah, Lim Tiap Guan, Sim Peng Kwang and Kam Kee Yong. This was followed by a second concert on 28 June with 12 songs. Some of the featured Singapore composers in this second concert were Shen Ping Kwang, Kam Kee Yong, Lim Tiap Guan, Lee Tack Fah, Samuel Ting, Leong Yoon Pin and Goh Say Meng.[^4]
 
@@ -73,6 +73,7 @@ The entire campaign came to a rousing end on 31 August 1988 at the National Stad
 The next edition of&nbsp; Sing Singapore was launched at the National Stadium on 29 December 1989.[^26] As 1990 was the 25th anniversary of Singapore’s independence, a new national song, “One People, One Nation, One Singapore”, was commissioned, with lyrics by Australian Jim Aitchison and music by Singaporean composer Jeremy Monteiro.&nbsp;
 
 The 1990 Sing Singapore competition was held on 21 July at the Indoor Stadium, and songbooks and music cassettes were produced for sale to the public.[^27] By this time, Sing Singapore had become more of a performance-oriented contest rather than a songwriting campaign, with the accent on encouraging community singing. In 1992, the competition returned to the Kallang Theatre, with the top prizes being won by the NUS Kent Ridge Alumni Singers.[^28]
+
 
 <div style="background-color: white;">
 <br>
