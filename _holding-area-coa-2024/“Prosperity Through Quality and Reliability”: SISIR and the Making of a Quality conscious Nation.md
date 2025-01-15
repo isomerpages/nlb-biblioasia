@@ -10,7 +10,7 @@ description: ""
 
 #### **Introduction: A Reputation for Trade**
 
-    
+  
 
 A reputation for making quality products is essential, especially if a company wants to break into new markets. In their 2019 book _Good Economics for Hard Times_, Nobel prize-winning economists Abhijit Banerjee and Esther Duflo present a case study that illustrates this. Aid to Artisans (ATA), an American non-governmental organisation, sought to help artisans in developing countries reach international markets. In 2009, ATA received funding to implement a programme in Egypt and decided to promote handmade rugs from the town of Fowa. Even with ATA’s contacts and funding, it took 1.5 years to secure the first significant export order, and more than five years to reach orders totalling $150,000. Without the aid of ATA, this would probably have not been possible.
 
@@ -92,14 +92,14 @@ The government’s recognition that export contracts had standards stipulated is
 
 On 1 January 1973, SISIR received a request from the Canadian Standards Association (CSA) to certify Canada-bound consumer electronics.[^39]  As a result, SISIR launched an Export Inspection Service in July 1974.[^40]  By 1987, SISIR reported that 22 overseas authorities had either appointed SISIR as their Singapore inspection agent or recognised its tests reports, an indication of widespread recognition of SISIR’s work.
 
-<img src="/images/COA%202024/Prosperity%20Through%20Quality/overseas_certification.jpg" style="width:80%;">
+<img src="/images/COA%202024/Prosperity%20Through%20Quality/overseas_certification.jpg" style="width:60%;">
  <div style="background-color: white;"><i>Image reproduced from Singapore Institute of Standards and Industrial Research, <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308"><i> Singapore Institute of Standards and Industrial Research Annual Report 1986-87</i></a> (Singapore: The Institute), 14. (From National Library, Singapore, call no. RCLOS 354.5957093 SISIRA)</i></div>    
 
 ***SISIR as Mediator***
 
 As the testing agency for standards, SISIR can be thought of as a mediator. It inserted itself between manufacturers and consumers (or between manufacturers and foreign standards bodies), using its own credibility as an independent institution to secure the credibility of the tested product. 
 
-<img src="/images/COA%202024/Prosperity%20Through%20Quality/buying_to_specifications_p25.jpg" style="width:100%;">
+<img src="/images/COA%202024/Prosperity%20Through%20Quality/buying_to_specifications_p25.jpg" style="width:80%;">
 <div style="background-color: white;">SISIR mediated the relationship between manufacturer and consumer
 <i>Image reproduced from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=203884291"><i>Buying&nbsp;to&nbsp;Specifications</i></a>         (Singapore: Singapore Institute of Standards and Industrial Research, 1986), 25. (From National Library, Singapore, call no. 381.33)</i></div>         
 
