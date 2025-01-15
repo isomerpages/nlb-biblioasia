@@ -81,6 +81,11 @@ After the National Arts Council (NAC) was established in 1991, the new body took
 
 It was around this time that I was appointed chairman of the Sing Singapore organising committee. One of the new committee’s first tasks was to find a National Day song for 1998.[^32] Instead of holding an open competition, we approached a number of established Singaporean songwriters and composers to submit songs for our consideration.[^33] Dick Lee was among those who responded, but unlike the others, he submitted a melody without lyrics.
 
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol%2021%20Issue%201/Sing%20Singapore/sing_cd.jpg" style="width: 80%;">“The Sing Singapore 1998 compact disc. Songs include “Singapore Town”, “Five Stars Arising”, “Home”, “Munnaeru Vaalibaa” and “Singapura”. <i>Courtesy of Bernard G.T. Tan.</i></div>
+
 #### **This Is Home, Truly**
 
 To understand how “Home” came about, we need to step back to look at Singapore that year. In 1998, the national mood in Singapore was not a happy one. The collapse of the Thai baht in July 1997 had plunged the region into the Asian financial crisis. In December 1997, the crash of a SilkAir plane in Indonesia deepened the gloom. We in the Sing Singapore committee realised that an upbeat National Day song in 1998 would be severely out of touch with the prevailing national mood.
