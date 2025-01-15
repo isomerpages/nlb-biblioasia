@@ -82,20 +82,19 @@ An initiative by NTUC Income in 1991 led to the national song, “It’s the Lit
 
 After the National Arts Council (NAC) was established in 1991, the new body took over the responsibility for the campaign. In 1993, the NAC brought back the creation and collection of Singapore songs into Sing Singapore. It also came up with a new branding – A Festival of Songs – for the 1994 campaign. In October 1993, the NAC invited Singaporeans to submit original songs. It attracted 48 groups that performed at the Ngee Ann City Civic Plaza in May and June the next year.[^30] The 1996 competition was called Song Fest, a catchier version of A Festival of Songs.[^31] Between 1991 and 1998, there seems to have been no new songs meant for National Day though.
 
-<div style="background-color: white;">
-<br>
-<img src="/images/Vol%2021%20Issue%201/Sing%20Singapore/sing_festivalposter.jpg" style="width: 80%;">A poster for Sing Singapore: A Festival of Songs, 1994. <i>Courtesy of National Archives of Singapore.</i></div>
 
-<div style="background-color: white;">
-<br>
-<img src="/images/Vol%2021%20Issue%201/Sing%20Singapore/sing_contest.jpg" style="width: 80%;">A contesting team performing at the finals of Sing Singapore: A Festival of Songs, 1994.<i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+![](/images/Vol%2021%20Issue%201/Sing%20Singapore/sing_festivalposter.jpg)
+<div>A poster for Sing Singapore: A Festival of Songs, 1994. <i>Courtesy of National Archives of Singapore.</i></div>
+
+
+![](/images/Vol%2021%20Issue%201/Sing%20Singapore/sing_contest.jpg)
+<div>A contesting team performing at the finals of Sing Singapore: A Festival of Songs, 1994. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 It was around this time that I was appointed chairman of the Sing Singapore organising committee. One of the new committee’s first tasks was to find a National Day song for 1998.[^32] Instead of holding an open competition, we approached a number of established Singaporean songwriters and composers to submit songs for our consideration.[^33] Dick Lee was among those who responded, but unlike the others, he submitted a melody without lyrics.
 
 
-<div style="background-color: white;">
-<br>
-<img src="/images/Vol%2021%20Issue%201/Sing%20Singapore/sing_cd.jpg" style="width: 80%;">The Sing Singapore 1998 compact disc. Songs include “Singapore Town”, “Five Stars Arising”, “Home”, “Munnaeru Vaalibaa” and “Singapura”. <i>Courtesy of Bernard G.T. Tan.</i></div>
+![](/images/Vol%2021%20Issue%201/Sing%20Singapore/sing_cd.jpg)
+<div>The Sing Singapore 1998 compact disc. Songs include “Singapore Town”, “Five Stars Arising”, “Home”, “Munnaeru Vaalibaa” and “Singapura”. <i>Courtesy of Bernard G.T. Tan.</i></div>
 
 #### **This Is Home, Truly**
 
@@ -127,9 +126,8 @@ In 2020, the Covid-19 pandemic shut down Singapore and most of the world, and as
 
 In June 2020, as the circuit breaker was lifted, singer Joanna Dong – with members of the Singapore Symphony Chorus, Youth and Children’s Choir as well as musicians from the Singapore Symphony Orchestra – recorded Dick Lee’s “We Will Get There” from home. The version featured a highly effective arrangement by Gabriel Hoe and the performance undoubtedly helped to raise the spirits of Singaporeans during the dark days of the pandemic.[^38]
 
-<div style="background-color: white;">
-<br>
-<img src="/images/Vol%2021%20Issue%201/Sing%20Singapore/sing_cover.jpg" style="width: 80%;">Joanna Dong (top left), with members from the Singapore Symphony Chorus, Youth and Children’s Choir, as well as musicians from the Singapore Symphony Orchestra, recording Dick Lee’s “We Will Get There” from home in June 2020. <i>Image from “Singapore Symphony Choruses Present: We Will Get There,” 16 June 2020, YouTube video, 4:42.</i></div>
+![](/images/Vol%2021%20Issue%201/Sing%20Singapore/sing_cover.jpg)
+<div>Joanna Dong (top left), with members from the Singapore Symphony Chorus, Youth and Children’s Choir, as well as musicians from the Singapore Symphony Orchestra, recording Dick Lee’s “We Will Get There” from home in June 2020. <i>Image from “Singapore Symphony Choruses Present: We Will Get There,” 16 June 2020, YouTube video, 4:42.</i></div>
 
 Post-pandemic, my favourite NDP song is “The Road Ahead” by singer-songwriter Linying in 2021. The song looks beyond the dark days of the pandemic to a brighter future.[^39]
 
@@ -139,9 +137,6 @@ The selectors of National Day songs have the difficult and near-impossible task 
 
 I would therefore appeal to Singaporeans to receive each new National Day song with open minds and show much appreciation for the hard work put in by the composers, lyricists, singers, musicians, arrangers and producers in creating the song and making it accessible to everyone. Please listen to each new National Day song with receptive ears and spare a thought for the tremendous efforts that have gone into bringing the song to you.
 
-
-
-<br>
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/BernardTan.png">
