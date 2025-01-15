@@ -6,6 +6,11 @@ description: ""
 ---
 Dick Lee’s “Home” is arguably one of the most well loved of all our National Day songs. While the song is indelibly associated with the voice of Kit Chan, who performed it at the National Day Parade (NDP) in 1998, it is also a song that is regularly sung in unison at subsequent NDPs.&nbsp;
 
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol%2021%20Issue%201/Sing%20Singapore/sing_facing.jpg" style="width: 80%;">Kit Chan performing “Home” at the 1998 National Day Parade. This was the National Day song that year. <i>Lianhe Zaobao © SPH Media Limited. Permission required for reproduction.</i></div>
+
 The popularity of National Day songs like “Home” and “Stand Up for Singapore” is the result of a decades-long effort to create national songs that can be sung communally. This effort to find a song that represents the nation (apart from “Majulah Singapura”, the national anthem) goes back at least to the 1970s.
 
 #### **The Early Years**
