@@ -144,7 +144,7 @@ It is no coincidence that the Chinese-language and English-language writers in M
 
 In effect, Chinese-language and English-language writing were pivoting toward what may be called Sinophone and Anglophone writing. The latter two descriptive labels bear a different connotation than their conventional dictionary-level meanings. In comparative literary theory, the term Sinophone is not co-extensive with “Chinese-speaking” or “written in Chinese”. Rather, it gestures toward a *Chineseness-beyond-China* with a view to
 
-“disrupt[ing] the chain of equivalence established, since the rise of nation-states, among language, culture, ethnicity, and nationality and [explores] the protean,kaleidoscopic, creative, and overlapping margins of China and Chineseness, America and Americanness, Malaysia and Malaysianness, Taiwan and Taiwanness, and so on, by a consideration of specific, local Sinophone texts, cultures, and practices produced in and from these margins.”[^33] 
+“disrupt[ing] the chain of equivalence established, since the rise of nation-states, among language, culture, ethnicity, and nationality and [explores] the protean, kaleidoscopic, creative, and overlapping margins of China and Chineseness, America and Americanness, Malaysia and Malaysianness, Taiwan and Taiwanness, and so on, by a consideration of specific, local Sinophone texts, cultures, and practices produced in and from these margins.”[^33] 
 
 Hence, to invoke the *Sinophone* (with a capital S) is to say something more than speaking or writing in Chinese (with mainland China as the point of reference), which might be described as the *sinophone* (with a lowercase s). It is to signal a peripheral as well as politicised perspective on the act of enunciating Chinese, not necessarily – indeed, very often not – in its standardised forms. In the same vein, the Anglophone might be posited as an identity construct exceeding the usual sense of “English-speaking” or “written in English” (the “anglophone”, with Britain as the point of reference) to encompasses myriad Englishes. Applying this to the case at hand, the Malayan writers and intellectuals of the 1950s rearticulated – the phonetic connection here is significant – Chinese and English into locally-inflected voices. These voices, namely the Sinophone and the Anglophone, were decidedly heterogeneous, with local writers breaking with their respective literary sources to invent an “adulterated” discourse constituted by the plethora of tongues in Malaya. 
 
@@ -189,7 +189,7 @@ In other words, multilingualism embodies a utopian vision. Writers, on this view
 
 [^9]: [_Regulations Made Under the Emergency Regulations, 1948_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202546159).
 
-[^10]: eremey E. Taylor, “‘Not a Particularly Happy Expression’: ‘Malayanization’ and the China Threat in Britain’s Late-Colonial Southeast Asian Territories,” [_Journal of Asian Studies_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1066786) 78, no. 4 (November 2019): 792. (National Library, Singapore, call no. 950.05 FEQ)
+[^10]: Jeremey E. Taylor, “‘Not a Particularly Happy Expression’: ‘Malayanization’ and the China Threat in Britain’s Late-Colonial Southeast Asian Territories,” [_Journal of Asian Studies_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1066786) 78, no. 4 (November 2019): 792. (National Library, Singapore, call no. 950.05 FEQ)
 
 [^11]: Wang, “[A Short Introduction to Chinese Writing in Malaya](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4092184),” 252.
 
@@ -229,7 +229,7 @@ In other words, multilingualism embodies a utopian vision. Writers, on this view
 
 [^29]: Wang, “[Trial and Error](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200108967)”, 6.
 
-[^30]: eda Lim, “[Malayan English](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5055850)”, 202.
+[^30]: Beda Lim, “[Malayan English](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5055850)”, 202.
 
 [^31]: The author is grateful to Philip Holden for raising this point.
 
