@@ -45,6 +45,10 @@ While public enthusiasm was high, songwriting skills were then at a fairly rudim
 
 By the mid-1980s, the search for national songs began to shift to a higher gear. Singapore had attained self-governance in 1959, which meant that 1984 was the 25th anniversary of that important milestone. As a result, the authorities were anxious to find a suitable song to mark the occasion. Richard Tan, the deputy director of the Psychological Defence Division in the Ministry of Communications and Information, drove the effort.[^13]
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol%2021%20Issue%201/Sing%20Singapore/sing_celebrateposter.jpg" style="width: 80%;">“A time to celebrate, a time to stand up for Singapore” – a poster for the 25th anniversary of nation-building, 1984. The National Day song that year was “Stand Up for Singapore”. <i>Courtesy of National Archives of Singapore. </i></div>
+
 The ministry put out a tender which was won by ad agency McCann Erickson and out of it came one of our most popular national songs, “Stand Up for Singapore”, which became the 1984 NDP theme song.[^14] It was not revealed at the time, though, that the lyricist and composer of the song was Hugh Harrison, a Canadian, who had been commissioned by the ad agency.[^15]
 
 Two years later, Tan led the search for a successor to “Stand Up for Singapore”. The next song chosen, “Count on Me, Singapore”, also by Harrison, became the NDP song in 1986.[^16] Harrison’s third song, “We Are Singapore”, was selected for NDP 1987.[^17] All three songs by Harrison have since become solid favourites of Singaporeans and are regularly featured at various NDPs.&nbsp;
