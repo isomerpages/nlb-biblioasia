@@ -71,6 +71,10 @@ The next edition of&nbsp; Sing Singapore was launched at the National Stadium on
 
 The 1990 Sing Singapore competition was held on 21 July at the Indoor Stadium, and songbooks and music cassettes were produced for sale to the public.[^27] By this time, Sing Singapore had become more of a performance-oriented contest rather than a songwriting campaign, with the accent on encouraging community singing. In 1992, the competition returned to the Kallang Theatre, with the top prizes being won by the NUS Kent Ridge Alumni Singers.[^28]
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol%2021%20Issue%201/Sing%20Singapore/sing_calendar.jpg" style="width: 80%;">The Sing Singapore 1990 calendar. Singapore celebrated its 25th anniversary of independence in 1990 and a new national song, “One People, One Nation, One Singapore”, was commissioned. <i>Courtesy of National Archives of Singapore.</i></div>
+
 An initiative by NTUC Income in 1991 led to the national song, “It’s the Little Things”, by Patrick Seet and Ivan Chua.[^29]
 
 After the National Arts Council (NAC) was established in 1991, the new body took over the responsibility for the campaign. In 1993, the NAC brought back the creation and collection of Singapore songs into Sing Singapore. It also came up with a new branding – A Festival of Songs – for the 1994 campaign. In October 1993, the NAC invited Singaporeans to submit original songs. It attracted 48 groups that performed at the Ngee Ann City Civic Plaza in May and June the next year.[^30] The 1996 competition was called Song Fest, a catchier version of A Festival of Songs.[^31] Between 1991 and 1998, there seems to have been no new songs meant for National Day though.
@@ -84,7 +88,7 @@ It was around this time that I was appointed chairman of the Sing Singapore orga
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol%2021%20Issue%201/Sing%20Singapore/sing_cd.jpg" style="width: 80%;">“The Sing Singapore 1998 compact disc. Songs include “Singapore Town”, “Five Stars Arising”, “Home”, “Munnaeru Vaalibaa” and “Singapura”. <i>Courtesy of Bernard G.T. Tan.</i></div>
+<img src="/images/Vol%2021%20Issue%201/Sing%20Singapore/sing_cd.jpg" style="width: 80%;">The Sing Singapore 1998 compact disc. Songs include “Singapore Town”, “Five Stars Arising”, “Home”, “Munnaeru Vaalibaa” and “Singapura”. <i>Courtesy of Bernard G.T. Tan.</i></div>
 
 #### **This Is Home, Truly**
 
