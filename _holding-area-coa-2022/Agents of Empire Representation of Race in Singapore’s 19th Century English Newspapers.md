@@ -223,12 +223,12 @@ Such reportage reduced the natives to caricature, clowns in a
 circus conducted by English ringmasters. In Singapore, as elsewhere,
 infantilisation of the colonised populations was key to perpetuating the
 notion of English superiority.[^26] One newspaper gleefully narrated events from Bangalore, India, where “rather a novel mode of amusement has been
-introduced by the officers of the 21st Hussars”.27 The soldiers pitted their
+introduced by the officers of the 21st Hussars”.[^27] The soldiers pitted their
 Indian servants – syces (horse carers) against cooks – in a cricket match.
 Not being familiar with the sport, the servants’ clumsy attempts at playing
 it caused much merriment among their masters, “more especially at the
 fielding in which not a few in their eagerness to join in a leather hunt often
-came into collision and cannoned against each other rather roughly”.28
+came into collision and cannoned against each other rather roughly”.[^28]
 	
 Overlordship could be justified if one bought into the idea that the
 wild Asiatic races – uncultured children masquerading as adults – needed a
@@ -239,18 +239,18 @@ Often, what was left out was almost as significant as what was reported.
 For instance, papers usually listed all the winners of European sports while
 making no mention whatsoever of those from local sports. The natives were
 just that – “the natives” – an entertaining agglomeration, the individual
-members of which did not matter.29
+members of which did not matter.[^29]
 
 There is remarkable uniformity in how the New Year sports activities
 were described over the years. In 1875, the ST reported that  <i> “among the
 most amusing of the races </i>  was one of a hundred yards with tubs of treacle,
 which placed on their heads, so besmeared the contestants with the sweet
 liquid that they were glad to rid themselves by a plunge off the Government
-pier”.30 A quarter-century later, in 1899, the paper was similarly tickled:
+pier”.[^30] A quarter-century later, in 1899, the paper was similarly tickled:
 “possibly, however, the  <i> funniest thing of all </i>  [emphasis added] was the treacle
 dipping competition. The spectacle presented by a number of natives
 endeavouring to pick up half dollars with their teeth out of tub of treacle is
-better imagined than described.”31
+better imagined than described.”[^31]
 
 The images of the natives were relentlessly recycled over the years: little 
 Malay ruffians always got themselves a good meal out of the biscuit-eating competition, clueless Chinamen always struggled with the science of
@@ -272,7 +272,7 @@ racial differences.
    [P]ure natives are as distinct from Eurasians as chalk and<br>
    cheese, and it is well that this should be known; for owing to<br> 
    this very common mistake, the Eurasian body has suffered<br>
-   considerably.32
+   considerably.[^32]
 
 In the late 19th century, the Padang was a curious site: a quasi-democratic
 venue to which all races descended for New Year festivities, and also a place
@@ -282,7 +282,7 @@ starker with the erection of the Singapore Recreation Club’s (SRC) pavilion
 at the other end of the ground from the Singapore Cricket Club (SCC).
 Founded by a group of miffed Eurasians when they were denied entry to the
 “pure-white” SCC, the pavilion was a weighty reminder of the extant racial
-differences.33 In 1887, a peeved reader wrote in to the ST complaining of the
+differences.[^33]In 1887, a peeved reader wrote in to the ST complaining of the
 treatment meted out to SRC members at an SCC event:
 
    Some such courtesy might have been shown to the <i> Committee</i><br>
@@ -291,7 +291,7 @@ treatment meted out to SRC members at an SCC event:
    although not born in Europe. But the usual class distinction<br> 
    prevailed… – a distinction which is as unworthy of those<br>
    who are responsible for making it, as it is humiliating to those<br>
-   against whom the line is drawn.34
+   against whom the line is drawn.[^34]
 
 The Eurasians were a deeply insecure community at the time. Ease
 of transportation had brought not just ideas, but also more and more
@@ -299,7 +299,7 @@ pure-blooded European men and women to Singapore’s shores. Whatever
 porosity had existed – it was not uncommon for European men to take
 up with local women across Malaya, for instance – disappeared; ideas of
 racial purity became more stringent, and social contact with the locals was
-increasingly frowned upon.35
+increasingly frowned upon.[^35]
 
 The Eurasians found themselves far removed from the upper echelons
 of European society, lumped with the natives. This insecurity, and its
@@ -312,12 +312,12 @@ one such paper.
 Started in 1887 as a Saturday weekly by a Eurasian named John
 Nicholson, the SEA was the community’s second attempt at a propaganda
 organ when it saw itself “being gradually isolated” from the mainstream
-life on the island.36 The SEA lasted three years, of which only four months’
+life on the island.[^36] The SEA lasted three years, of which only four months’
 issues survive (March–June 1888).
 
 The paper’s fundamental objective was to impress upon its readers that
 Eurasians were distinct from, and superior to, the native population and
-as intelligent, meritorious and eminent as their European brethren.37 One
+as intelligent, meritorious and eminent as their European brethren.[^37] One
 of the ways in which it did so was by recasting Eurasians’ native halves as “Aryan”. While the Chinese were Chinese, and the Klings, Klings, the
 Eurasians were half-European,  half-<i>Aryan</i>.
 
@@ -327,28 +327,28 @@ Eurasians were half-European,  half-<i>Aryan</i>.
    chivalry of an ancient civilization, a civilization from which<br> 
    Europe has borrowed its learning, and the best part of its<br>
     laws and literature and much of its arts and sciences. It is the<br>
-    infusion of Aryan blood that has made the British what it is.38
+    infusion of Aryan blood that has made the British what it is.[^38]
 
 This semantic sleight of hand helped insecure Eurasians view themselves
 as part of the ruling race, while allowing wriggle room to shower contempt
 on those outside it. The Chinese, who by now were immigrating to
 Singapore in large numbers and whose ways of life were increasingly
 becoming more Western, found themselves in the crosshairs more often
-than not.39
+than not.[^39]
 
 Articulating immigration concerns that would continue to echo in
 Singapore more than a century later, the SEA screeched that “Singapore
 is being flooded with all sorts of villains from China, and owing to these
 importations Crime is becoming more and more frequent by the day”, so
 much so that “nothing short of flogging would make night-disturbers take
-the right path”.40
+the right path”.[^40]
 
 Jail was pointless, because according to the SEA, it did not serve as
 a strong-enough deterrent. “They are much too pampered and well-fed”
 there, with the cost of keeping them in far more than the income they
-could generate by pursuing various vocations during incarceration.41 Could
+could generate by pursuing various vocations during incarceration.[^41] Could
 not, one SEA reporter wondered, “something more be squeezed [out of the
-inmates] so as to not allow them to eat the bread of idleness so cheaply?”42
+inmates] so as to not allow them to eat the bread of idleness so cheaply?”[^42]
 
 It escaped the SEA that the manpower needed to lug cargo, construct
 new roads and bridges, look after plantations and ferry Europeans (and
@@ -358,7 +358,7 @@ that formed the bulk of the colonial government’s revenue. But once again
 foreshadowing modern-day discussions on the desire for foreign labour to
 do essential but unsavoury work and yet be invisible, the SEA expressed its
 distaste at being “jostled by a half-nude Chinaman” pulling a rickshaw or at
-the sight of Chinese coolies bathing at public wells.43
+the sight of Chinese coolies bathing at public wells.[^43]
 Any kind of agency by these other races was frowned upon. When the
 Domestic Servants Registration Ordinance encouraging employers to hire
 only registered individuals as servants came into force on 1 January 1888, the
@@ -367,33 +367,40 @@ SEA was vexed:
    The lower classes of Chinese from which we procure our<br>
    servants would sooner follow the bent of their inclinations and<br> 
    turn rogues and thieves than<i> take service except on their own<br> 
-   terms</i> [emphasis added].44
+   terms</i> [emphasis added].[^44]
 
 The recommended antidote to this intransigence was to dump them
 forcefully into “gharries” and drive them to the relevant office to be
-registered, which the Chinese refused to do “for want of a good kicking”.45
+registered, which the Chinese refused to do “for want of a good kicking”.[^45]
 
 Another suggestion was to import servants from India – Calcutta or
 Madras – who were cheaper, more efficient and more pliable. This was fine
 as long as the Indians stuck to servitude and did not stuff themselves into
 trousers and coats, so as to deceive outsiders into thinking that “every black
-man with a coat is a Eurasian”.46
+man with a coat is a Eurasian”.[^46]
 
 Any non-European who wielded even a modicum of power was to be
 viewed suspiciously. The Tamil Chettiars, most of whom came to Singapore
 as money lenders, were to be avoided because their usury practices often
 trapped unsuspecting Eurasians into a vicious cycle of poverty and debt.
 The Indian money lender, warned the SEA, was not “behind in his virtues
-to ‘Shylock’”.47 The native constable was nothing but a dummy on the street who needed constant monitoring by his European peers – surprise visits to
-the area of his beat were highly recommended.48
+to ‘Shylock’”.[^47] The native constable was nothing but a dummy on the street who needed constant monitoring by his European peers – surprise visits to
+the area of his beat were highly recommended.[^48]
 
 Relative to the Chinese and the Indians, the Malays were far removed
 from the colonial enterprise and thus from Singapore’s public life. This was
 reflected in their absence from the SEA’s pages. The few times they did
 appear, it was as part of gangs that indulged in brutish violence against the
 Indians and the Chinese and as singers of obscene songs that disturbed
-the public peace at night.49 Occasionally, calls were made to replace
-“outlandish” native road names with “decent ones”.50
+the public peace at night.[^49] Occasionally, calls were made to replace
+“outlandish” native road names with “decent ones”.[^50]
+
+The SEA knew where the power lay in Singapore. “Everything in the
+country is measured by European standard, which obviously does not admit
+of depreciation of itself,” admitted an insightful editorial. “At present they
+[the Eurasians] have not the same social and official currency”,[^51] and until
+they did, distinctions between the two communities would continue to
+be made.
 
 The paper tried to acquire this currency for its audience not just by
 highlighting their achievements but by using language that debased
