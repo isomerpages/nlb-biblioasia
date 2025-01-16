@@ -101,7 +101,7 @@ As the testing agency for standards, SISIR can be thought of as a mediator. It i
 
 <img src="/images/COA%202024/Prosperity%20Through%20Quality/buying_to_specifications_p25.jpg" style="width:80%;">
 <div style="background-color: white;">SISIR mediated the relationship between manufacturer and consumer
-<i>Image reproduced from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=203884291"><i>Buying&nbsp;to&nbsp;Specifications</i></a>         (Singapore: Singapore Institute of Standards and Industrial Research, 1986), 25. (From National Library, Singapore, call no. 381.33)</i></div>         
+<i>Image reproduced from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=203884291"><i>Buying to Specifications</i></a>         (Singapore: Singapore Institute of Standards and Industrial Research, 1986), 25. (From National Library, Singapore, call no. 381.33)</i></div>         
 
 To test the credibility of a product, SISIR had to carry out a range of scientific tests for the sake of standardisation, and hence the same technical apparatus could be used for testing standards and for industrial research.
 
@@ -168,12 +168,14 @@ To build a case for customers to avail its services, SISIR first constructed an 
 
 Unfortunately, these heuristics were fallible, as consumers could not be certain about the provenance and quality of products. As the 1978 booklet *Standards in Your Life* pointed out, in an open economy like Singapore, “it is impossible for the consumer to judge visually whether paints are poisonous, the wiring of an electrical appliance is safe, a food product meets the health claims, and which brand gives better value for money.”[^66] 
 
-![](/images/COA%202024/Prosperity%20Through%20Quality/Buying_and_better_value.jpg)
-
 <img src="/images/COA%202024/Prosperity%20Through%20Quality/Buying_and_better_value.jpg" style="width:80%;">
 <div style="background-color: white;"><i>Images reproduced from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=203884291"><i>Buying to Specifications</i></a> (Singapore: Singapore Institute of Standards and Industrial Research, 1986), 4. (From National Library, Singapore, call no. 381.33) and <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4182364"><i> Better Value for Money: A Basic Guide for Consumers and Manufacturers</i></a>        (Singapore: SISIR, 1976), 29. (From National Library, Singapore, call no. RCLOS 640.73 SIN) </i></div>
 
 Standards, however, could cut through this cloud of uncertainty by letting consumers know whether a product’s essential requirements had been met, allowing them to avoid both unsafe and overpriced alternatives.
+
+![](/images/COA%202024/Prosperity%20Through%20Quality/better_value_for_money_p22.jpg)
+<img src="/images/COA%202024/Prosperity%20Through%20Quality/better_value_for_money_p22.jpg" style="width:50%;">
+<div style="background-color: white;"> Sticking to SISIR-approved products helped consumers avoid both regret and flatulence.<i> Image reproduced from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4182364"><i>  Better Value for Money: A Basic Guide for Consumers and Manufacturers</i></a>     (Singapore: SISIR, 1976), 22. (From National Library, Singapore, call no. RCLOS 640.73 SIN)</i></div>        
 
 Apart from cartoons, another medium for publicising SISIR and standards was through educational television programmes. For instance, an episode of the 1976 programme *Home Economics - A Vital Force* aimed at Secondary 3 students was “Stretch Your Dollar” – an attempt at helping young people become responsible consumers. The episode imparts general advice such as being financially prudent, checking the authenticity of products, and comparing prices. 
 
