@@ -286,7 +286,6 @@ differences.33 In 1887, a peeved reader wrote in to the ST complaining of the
 treatment meted out to SRC members at an SCC event:
 
    Some such courtesy might have been shown to the <i> Committee</i><br>
- 
    [emphasis in original] of the S.R.C. if not to all the<br> 
    members, and as respectable as any of the S.C.C. members,<br> 
    although not born in Europe. But the usual class distinction<br> 
