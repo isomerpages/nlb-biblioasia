@@ -174,13 +174,18 @@ Unfortunately, these heuristics were fallible, as consumers could not be certain
 
 Standards, however, could cut through this cloud of uncertainty by letting consumers know whether a product’s essential requirements had been met, allowing them to avoid both unsafe and overpriced alternatives.
 
-![](/images/COA%202024/Prosperity%20Through%20Quality/better_value_for_money_p22.jpg)
 <img src="/images/COA%202024/Prosperity%20Through%20Quality/better_value_for_money_p22.jpg" style="width:50%;">
 <div style="background-color: white;"> Sticking to SISIR-approved products helped consumers avoid both regret and flatulence.<i> Image reproduced from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4182364"><i>  Better Value for Money: A Basic Guide for Consumers and Manufacturers</i></a>     (Singapore: SISIR, 1976), 22. (From National Library, Singapore, call no. RCLOS 640.73 SIN)</i></div>        
 
 Apart from cartoons, another medium for publicising SISIR and standards was through educational television programmes. For instance, an episode of the 1976 programme *Home Economics - A Vital Force* aimed at Secondary 3 students was “Stretch Your Dollar” – an attempt at helping young people become responsible consumers. The episode imparts general advice such as being financially prudent, checking the authenticity of products, and comparing prices. 
 
 The show urges viewers to buy good-quality goods since “products of good quality last longer and require less repair” and then informs them that in Singapore, SISIR certifies the quality of various products. Clips of SISIR technicians testing various consumer goods were shown, ranging from checking for excessive radiation in television sets to testing for bacteria in sweetened condensed milk. By bringing to attention the potential harms of low-quality products, SISIR could position itself as safeguarding consumers from those dangers. The show ends by asking “Don’t you think it is wiser to buy local products with the SISIR label?”
+
+![](/images/COA%202024/Prosperity%20Through%20Quality/Home_Econs.jpg)
+<img src="/images/COA%202024/Prosperity%20Through%20Quality/Home_Econs.jpg" style="width:80%;">
+												
+<div style="background-color: white;"><i>Image reproduced from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4182364"><i>  Better Value for Money: A Basic Guide for Consumers and Manufacturers</i></a>       (Singapore: SISIR, 1976), 22. (From National Library, Singapore, call no. RCLOS 640.73 SIN)</i></div>
+
 
 The dangers that viewers were informed about, whether radiation or bacteria, were detectable only through scientific instruments. As the show makes clear, the promotion of quality-consciousness was never simply about sensitising people to the value of standards in the abstract – it was also about making people recognise and submit to the authority of a new set of professional actors who claimed expertise over standards and their appropriate deployment. The new export-oriented marketplace was a standardised space, coproduced alongside experts to educate, guide and authoritatively take charge. Both manufacturers and consumers benefited, as long as they participated in SISIR’s cycle of ever-improving standards and expectations.
 
