@@ -107,11 +107,14 @@ In 1993, the Raffles Hotel commissioned Liu Kang to create a collection of paste
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/BernardTan.png">
-<b>Emeritus Professor Bernard T.G. Tan</b> is a retired professor of physics from the National University of Singapore who also dabbles in music. Some of his compositions have been performed by the Singapore Symphony Orchestra.</div>
-
+<img style="width: 100px; height: 100px;" src="/images/Authors/BernardTana.png">
+<b>Goh Yu Mei</b> is a Librarian with the National Library Singapore, working with the Chinese Arts and Literary Collection. Her research interests lie in the intersection between society, and Chinese literature and arts.</div>
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/BernardTana.png">
+<b>Nadia Ramli</b> is a Senior Librarian (Outreach) with the National Library Singapore. She writes about the visual and literary arts, and has conducted numerous outreach programmes advocating information literacy.</div>
 
 #### **NOTES**
      
 
-[^1]: 
+[^1]:
