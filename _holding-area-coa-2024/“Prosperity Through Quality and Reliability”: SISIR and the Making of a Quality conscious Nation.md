@@ -126,7 +126,7 @@ However, the case spun on whether SISIR’s laboratory test was equivalent to re
 This instructive example shows the importance and limits of SISIR’s mediation. On one hand, SISIR could not end controversy through the imposition of a single uncontested interpretation of scientific facts. On the other hand, it displays SISIR’s scientific credibility – after all, neither party contested the credibility of SISIR or its testing, only what the correct *interpretation* of SISIR’s findings were.
 
  
- #### **Publicity**
+#### **Publicity**
 
  
  ***Publicising Standards and Standardisation***
