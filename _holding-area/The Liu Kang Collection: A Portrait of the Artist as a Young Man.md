@@ -117,34 +117,34 @@ In 1993, the Raffles Hotel commissioned Liu Kang to create a collection of paste
 #### **NOTES**
      
 
-[^1]: 
+[^1]:  T.K. Sabapathy, “The Nanyang Artists: Some General Remarks,” in _Pameran Retrospektif Pelukis-pelukis Nanyang_ (Kuala Lumpur: Muzium Seni Negara, 1979), 44. (From National Library Singapore, call no. RCLOS 759.959 PAM)
+
+
+[^2]: James Voorhies, “School of Paris,” Heilbrunn Timeline of Art History, October 2004, http://www.metmuseum.org/toah/hd/scpa/hd\_scpa.htm.
      
 
-[^2]: 
+[^3]: Yeo Wei Wei, “Introduction,” in _Liu Kang: Colourful Modernist_ (Singapore: National Art Gallery, Singapore, 2011), 15. (From National Library Singapore, call no. RSING 759.95957 LIU)
      
 
-[^3]: 
+[^4]: Jeffrey Say and Seng Yu Jin, “The Modern and Its Histories in Singapore Art,” in _Intersections, Innovations, Institutions: A Reader in Singapore Modern Art_ (Singapore: World Scientific Publishing Co. Pte. Ltd., 2023), 26. (From National Library Singapore, call no. RSING 709.595709034 INT)
      
 
-[^4]: 
+[^5]: “Bali – By 4 Chinese Artists,” _Straits Times_, 10 November 1953, 2. (From NewspaperSG)
      
 
-[^5]: 
+[^6]: 刘抗 Liu Kang,《刘抗文集》\[Essays by Liu Kang\] (新加坡: 教育出版社, 1981). (From National Library Singapore, call no. RCLOS 709.2 LK)
      
 
-[^6]: 
+[^7]: Lai Chee Kien, “Rambutans in the Picture: Han Wai Toon and the Articulation of Space by the Overseas Chinese in Singapore,” in _Singapore in Global History_, ed. Derek Heng and Syed Muhd Khairudin Aljunied (Amsterdam: Amsterdam University Press, 2011), 162, https://www.degruyter.com/document/doi/10.1515/9789048514373-010/html.
      
 
-[^7]: 
+[^8]: “India Tour for Local Artists,” _New Nation_, 12 March 1971, 2. (From NewspaperSG)
      
 
-[^8]: 
+[^9]: Ong Choo Suat, “Four-Nation Tour by Local Artists,” _New Nation_, 8 May 1971, 3. (From NewspaperSG)
      
 
-[^9]: 
+[^10]: Liu Kang, “I Love India,” in _Liu Kang: Essays on Art &amp; Culture_, ed. Sara Siew (Singapore: National Art Gallery, 2011), 197. (From National Library Singapore, call no. RSING 709.50904 LIU)
      
 
-[^10]: 
-     
-
-[^11]: 
+[^11]: “Liu Kang Puts Raffles’ Staff in Picture,” _Straits Times Weekly Overseas Edition_, 20 January 1994, 5. (From NewspaperSG)
