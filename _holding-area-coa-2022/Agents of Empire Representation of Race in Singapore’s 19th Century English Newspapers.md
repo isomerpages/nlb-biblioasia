@@ -210,21 +210,14 @@ Of the biscuit-eating, the ST intoned thus:
 
 Treacle-dipping did not escape the paper’s lampooning either:
 
-     Imagine, good folks at home, enthusiasts for the small sum
-
-     of fifty cents plunging their heads into a tub of golden syrup
-
-     – or its prototype – and groping about for the melancholy
-
-     coin…  <i> they ran amok </i> , afterwards, all dripping and half
-
-     blind with treacle, and the  <i> wild stampede of the Asiatics </i>  in
-
-     their Sunday clothes, as each competitor made a beeline for
-
-     the sea, was probably  <i> the most comical part of the business </i> 
-
-     [emphases added].[^25]
+   Imagine, good folks at home, enthusiasts for the small sum<br> 
+   of fifty cents plunging their heads into a tub of golden syrup<br>
+   – or its prototype – and groping about for the melancholy<br>
+   coin…  <i> they ran amok </i> , afterwards, all dripping and half<br> 
+   blind with treacle, and the  <i> wild stampede of the Asiatics </i>  in<br>
+   their Sunday clothes, as each competitor made a beeline for<br>
+   the sea, was probably  <i> the most comical part of the business<br>
+</i> [emphases added].[^25]
 	
 Such reportage reduced the natives to caricature, clowns in a
 circus conducted by English ringmasters. In Singapore, as elsewhere,
