@@ -157,7 +157,7 @@ of the place that they physically inhabited and superior to the races of
 the region.[^18]  News from London, commodity prices, ship arrivals and
 departures, colonial appointments, births and deaths all connected the
 empire’s frontiers to its hub. The English were <i>in</i> Singapore, but often
-not <i>of</i>  it.
+not <i>of</i> it.
 
 English newspapers in the 19th century can thus be analysed under
 the rich theoretical tradition of postcolonial studies. It is to three such
@@ -202,15 +202,11 @@ Indians raced rickshaws carrying a European passenger over a distance of
 
 Of the biscuit-eating, the ST intoned thus:
 
-     Most of the eaters evidently entered for the sake of the feed,
-
-     as their leisurely mastication did not suggest that they were in
-
-     for a prize. Two or three, however, made <i>little beasts</i> [emphasis
-
-     added] of themselves and were accordingly awarded $2.25
-
-     between them.[^24]
+   Most of the eaters evidently entered for the sake of the feed, <br>
+   as their leisurely mastication did not suggest that they were in<br>
+   for a prize. Two or three, however, made <i>little beasts</i> [emphasis<br>
+   added] of themselves and were accordingly awarded $2.25<br>
+   between them.[^24]
 
 Treacle-dipping did not escape the paper’s lampooning either:
 
