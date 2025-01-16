@@ -12,9 +12,9 @@ One of Singapore’s pioneering artists, Liu Kang (1911–2004) played a signifi
 
 Influenced by both Eastern and Western art traditions, these artists also experimented and developed new art forms. Art historians have noted this trend, now commonly known as Nanyang art or Nanyang style, as one of the most significant movements in the history of art in Singapore.&nbsp;
 
-“Nanyang” (南洋), literally the “South Seas”, was historically used to refer to the maritime region south of China, and more commonly to Southeast Asia in the early 20th century. In 1979, art historian T.K. Sabapathy remarked that the Nanyang artists “adopted an experimental approach by using styles and techniques derived from two sources: Chinese pictorial traditions and the School of Paris”.1 (The School of Paris refers to artists living and working in Paris in the early 20th century who employed a diversity of styles and techniques such as Fauvism, Cubism and Expressionism.2)&nbsp;
+“Nanyang” (南洋), literally the “South Seas”, was historically used to refer to the maritime region south of China, and more commonly to Southeast Asia in the early 20th century. In 1979, art historian T.K. Sabapathy remarked that the Nanyang artists “adopted an experimental approach by using styles and techniques derived from two sources: Chinese pictorial traditions and the School of Paris”.[^1] (The School of Paris refers to artists living and working in Paris in the early 20th century who employed a diversity of styles and techniques such as Fauvism, Cubism and Expressionism.[^2])&nbsp;
 
-Liu Kang was one of the artists closely associated with the development of this art trend in Singapore, what he termed “equatorial style”. He recognised the need for original expressions of art in colonial and post-colonial Malaya, and a new style of painting that captured the spirit of the tropics.3&nbsp;
+Liu Kang was one of the artists closely associated with the development of this art trend in Singapore, what he termed “equatorial style”. He recognised the need for original expressions of art in colonial and post-colonial Malaya, and a new style of painting that captured the spirit of the tropics.[^3]
 
 #### **The Liu Kang Collection**
 
@@ -44,9 +44,9 @@ The draft of Liu Kang’s first solo exhibition catalogue includes an introducti
 
 **Photographs of the exhibition, “Bali: Liu Kang, Chen Wen Hsi, Chen Chong Swee, Cheong Soo Pieng” held at the British Council in 1953**
 
-In 1952, Liu Kang, together with Chen Chong Swee, Chen Wen Hsi and Cheong Soo Pieng, went to Java and Bali in search of artistic inspiration. A year later, in November 1953, the four men held a seminal joint exhibition at the British Council. This exhibition has been viewed as a “turning point” for the history of modern art in Singapore. Art historians Jeffrey Say and Seng Yu Jin noted its “new visual language that was distinctly modern in the local context”.4 This new visual language refers to the experimentations in artistic styles that would retrospectively be viewed as exemplifying Nanyang art. &nbsp;
+In 1952, Liu Kang, together with Chen Chong Swee, Chen Wen Hsi and Cheong Soo Pieng, went to Java and Bali in search of artistic inspiration. A year later, in November 1953, the four men held a seminal joint exhibition at the British Council. This exhibition has been viewed as a “turning point” for the history of modern art in Singapore. Art historians Jeffrey Say and Seng Yu Jin noted its “new visual language that was distinctly modern in the local context”.[^4] This new visual language refers to the experimentations in artistic styles that would retrospectively be viewed as exemplifying Nanyang art. &nbsp;
 
-The exhibition, which showcased over 100 paintings and sketches, was well received and drew large crowds. Opened by Indonesian Consul-General Mohamed Razif, the exhibition was visited by prominent figures in Singapore, including Malcolm MacDonald, Commissioner-General in Southeast Asia; Carl Alexander Gibson-Hill, the last expatriate director of the Raffles Museum; and Loke Wan Tho, cinema magnate and founder of Cathay Organisation, and his wife.5
+The exhibition, which showcased over 100 paintings and sketches, was well received and drew large crowds. Opened by Indonesian Consul-General Mohamed Razif, the exhibition was visited by prominent figures in Singapore, including Malcolm MacDonald, Commissioner-General in Southeast Asia; Carl Alexander Gibson-Hill, the last expatriate director of the Raffles Museum; and Loke Wan Tho, cinema magnate and founder of Cathay Organisation, and his wife.[^5]
 
   
 
@@ -56,7 +56,7 @@ Liu Kang’s autobiographical article is titled《说自家》(On Myself). This 
 
 In the opening lines of the autobiographical article, Liu Kang offered a candid and revealing portrait of himself. He wrote that he saw himself more as a teacher than an artist, as he spent much of his time in the classrooms rather than on his own art. Liu Kang also recalled moments in his life that may have contributed to his art.&nbsp;
 
-Liu Kang was also known for writing on various topics in relation to the arts, beside articles on fine art and other artists. In particular, his anthology of essays,《刘抗文集》(Essays by Liu Kang), first published in 1981 in conjunction with his retrospective exhibition, covers music, dance, literature and medical science among others.6 Many of his manuscripts and clippings of his articles, which are not published in the anthology, form part of his collection donated to the National Library.
+Liu Kang was also known for writing on various topics in relation to the arts, beside articles on fine art and other artists. In particular, his anthology of essays,《刘抗文集》(Essays by Liu Kang), first published in 1981 in conjunction with his retrospective exhibition, covers music, dance, literature and medical science among others.[^6] Many of his manuscripts and clippings of his articles, which are not published in the anthology, form part of his collection donated to the National Library.
 
 **Notes of Liu Kang’s public lectures**
 
@@ -72,7 +72,7 @@ These notes provide us with a better understanding of Liu Kang’s views on art,
 
 Han Wai Toon, a collector and expert in antique ceramics, held frequent gatherings at his residence and rambutan orchard on Thomson Road – Yu Qu Yuan (愚趣园; Garden of Foolish Indulgence). The Chinese literati and scholars would meet to enjoy fresh rambutans and appreciate his collection of ceramics, and ink and calligraphic works. Liu Kang was one of the visitors to the orchard. Besides his knowledge on antique ceramics, Han was also known for his rambutans grown with special grafting techniques that he had experimented with.
 
-Other notable guests included the Chinese artist Xu Beihong (徐悲鸿), who dedicated a painting of rambutans to Han, and writer Yu Dafu (郁达夫), who wrote “不辞客路三千里，来啖红毛五月丹” (Travelling three thousand _li_ just to taste rambutans in May). When Han returned to China in 1962, his friends commissioned a work by the artist Lim Mu Hue titled _Han Rambutan Orchard_ as a farewell gift.7
+Other notable guests included the Chinese artist Xu Beihong (徐悲鸿), who dedicated a painting of rambutans to Han, and writer Yu Dafu (郁达夫), who wrote “不辞客路三千里，来啖红毛五月丹” (Travelling three thousand _li_ just to taste rambutans in May). When Han returned to China in 1962, his friends commissioned a work by the artist Lim Mu Hue titled _Han Rambutan Orchard_ as a farewell gift.[^7]
 
   
 
@@ -94,13 +94,13 @@ After Liu Kang left Shanghai in 1937, the two men remained in contact despite th
 
 Liu Kang was also an avid photographer and traveller. On his sketching trips, he often took photographs to capture the subjects and motifs that inspired him, and subsequently his paintings.
 
-The photographs taken during Liu Kang’s visit to India in 1971 with more than 20 other prominent Singapore artists capture the people and culture of the country.8 Led by Yeh Chi Wei, president of the Southeast Asia Art Society, the cultural trip was part of a month-long tour across 17 cities in India, Nepal, Thailand and Burma.9 “Besides visiting scenic spots and admiring great architecture, our greatest wish was to use its rich spirit and majestic styles as a source of inspiration and reference for our artistic creation,” Liu Kang wrote in his essay, “I Love India”.10
+The photographs taken during Liu Kang’s visit to India in 1971 with more than 20 other prominent Singapore artists capture the people and culture of the country.[^8] Led by Yeh Chi Wei, president of the Southeast Asia Art Society, the cultural trip was part of a month-long tour across 17 cities in India, Nepal, Thailand and Burma.[^9] “Besides visiting scenic spots and admiring great architecture, our greatest wish was to use its rich spirit and majestic styles as a source of inspiration and reference for our artistic creation,” Liu Kang wrote in his essay, “I Love India”.[^10]
 
   
 
 **Prints of Liu Kang’s commissioned sketches of Raffles Hotel staff**
 
-In 1993, the Raffles Hotel commissioned Liu Kang to create a collection of pastel portraits of its staff. He drew more than 20 sketches, eight of which were chosen to be exhibited at the hotel’s museum in 1994, along with some of Liu Kang’s artworks.11
+In 1993, the Raffles Hotel commissioned Liu Kang to create a collection of pastel portraits of its staff. He drew more than 20 sketches, eight of which were chosen to be exhibited at the hotel’s museum in 1994, along with some of Liu Kang’s artworks.[^11]
 
 
 
@@ -117,4 +117,34 @@ In 1993, the Raffles Hotel commissioned Liu Kang to create a collection of paste
 #### **NOTES**
      
 
-[^1]:
+[^1]: 
+     
+
+[^2]: 
+     
+
+[^3]: 
+     
+
+[^4]: 
+     
+
+[^5]: 
+     
+
+[^6]: 
+     
+
+[^7]: 
+     
+
+[^8]: 
+     
+
+[^9]: 
+     
+
+[^10]: 
+     
+
+[^11]: 
