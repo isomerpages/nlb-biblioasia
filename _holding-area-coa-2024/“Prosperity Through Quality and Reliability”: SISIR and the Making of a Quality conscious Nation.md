@@ -1,13 +1,16 @@
 ---
 title: "“Prosperity Through Quality and Reliability”: SISIR and the Making of a
   Quality conscious Nation"
-permalink: /holding-area/chapters-of-asia-2024/prosperity-through-quality-reliability/
+permalink: /holding-area/chapters-on-asia-2024/prosperity-through-quality-reliability/
 variant: markdown
 description: ""
 ---
+<img src="/images/COA%202024/Prosperity%20Through%20Quality/SISIR_buying_to_specifications_p14.jpg" style="width:80%;">
+ <div style="background-color: white;"><i>Image reproduced from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=203884291"><i>Buying to Specifications</i></a> (Singapore: Singapore Institute of Standards and Industrial Research, 1986), 14. (From National Library, Singapore, call no. 381.33).</i></div>
+
 #### **Introduction: A Reputation for Trade**
 
-    
+  
 
 A reputation for making quality products is essential, especially if a company wants to break into new markets. In their 2019 book _Good Economics for Hard Times_, Nobel prize-winning economists Abhijit Banerjee and Esther Duflo present a case study that illustrates this. Aid to Artisans (ATA), an American non-governmental organisation, sought to help artisans in developing countries reach international markets. In 2009, ATA received funding to implement a programme in Egypt and decided to promote handmade rugs from the town of Fowa. Even with ATA’s contacts and funding, it took 1.5 years to secure the first significant export order, and more than five years to reach orders totalling $150,000. Without the aid of ATA, this would probably have not been possible.
 
@@ -30,6 +33,10 @@ Important as manufacturers are to this story, they were not the only relevant co
 Finally, I explore a variety of suggestive indicators of SISIR’s success – ranging from recognition from foreign standard bodies to its mention in local advertisements. In short, this essay does not aim for comprehensiveness; it aims instead to provide a broad overview of the institution and makes the case that it represents an important part of Singapore’s economic and cultural history.
   
 #### **Origins – The 1968 National Conference on Scientific and Technical Co-operation Between Industries and Governmental Bodies**	
+
+<img src="/images/COA%202024/Prosperity%20Through%20Quality/Conferences_1_and_2.jpg" style="width:100%;">
+ <div style="background-color: white;"><i>Images reproduced from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759"><i> Summary of Proceedings: Singapore Conference Hall 23rd to 26th October, 1968: National Conference on Scientific and Technical Co-operation between Industries and Governmental Bodies</i></a>(Singapore: Singapore Institute of Standards and Industrial Research, 1986), 13-14. (From National Library, Singapore, call no. 381.33).</i></div>
+
 
 The early days of the Republic were a time of economic anxiety, and the government decided the only way forward involved the rapid appropriation and deployment of Science and Technology. In February 1966, an Ad Hoc Scientific Committee was established to advise the government on scientific matters, but its non-official status meant it lacked funding and access to confidential data. To remedy these shortcomings, Deputy Prime Minister Dr Toh Chin Chye introduced the Science Council of Singapore Bill in 1967 to grant this advisory body official status. Among its envisioned functions were to investigate technical problems such as the effective deployment of utilities and the prevention of pollution, to establish relationships with other scientific bodies, and “to study how industrial development [could] be promoted by the effective training and utilisation of scientific and technological manpower”.[^4]  It would be headed by Dr Lee Kum Tatt, then a biochemist at the Ministry of Health.[^5] 
 
@@ -85,13 +92,24 @@ The government’s recognition that export contracts had standards stipulated is
 
 On 1 January 1973, SISIR received a request from the Canadian Standards Association (CSA) to certify Canada-bound consumer electronics.[^39]  As a result, SISIR launched an Export Inspection Service in July 1974.[^40]  By 1987, SISIR reported that 22 overseas authorities had either appointed SISIR as their Singapore inspection agent or recognised its tests reports, an indication of widespread recognition of SISIR’s work.
 
+<img src="/images/COA%202024/Prosperity%20Through%20Quality/overseas_certification.jpg" style="width:60%;">
+ <div style="background-color: white;"><i>Image reproduced from Singapore Institute of Standards and Industrial Research, <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308"><i> Singapore Institute of Standards and Industrial Research Annual Report 1986-87</i></a> (Singapore: The Institute), 14. (From National Library, Singapore, call no. RCLOS 354.5957093 SISIRA)</i></div>    
+
 ***SISIR as Mediator***
 
 As the testing agency for standards, SISIR can be thought of as a mediator. It inserted itself between manufacturers and consumers (or between manufacturers and foreign standards bodies), using its own credibility as an independent institution to secure the credibility of the tested product. 
 
+<img src="/images/COA%202024/Prosperity%20Through%20Quality/buying_to_specifications_p25.jpg" style="width:80%;">
+<div style="background-color: white;">SISIR mediated the relationship between manufacturer and consumer
+<i>Image reproduced from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=203884291"><i>Buying to Specifications</i></a>         (Singapore: Singapore Institute of Standards and Industrial Research, 1986), 25. (From National Library, Singapore, call no. 381.33)</i></div>         
+
 To test the credibility of a product, SISIR had to carry out a range of scientific tests for the sake of standardisation, and hence the same technical apparatus could be used for testing standards and for industrial research.
 
 The necessary tests varied greatly because of the nature and expectations of different products. For example, one simple test was for holes in condoms, which required suspending a number of condoms from each batch and ensuring there was no leakage. Larger objects like curtain walls required far more elaborate and sophisticated machinery to test for quality.
+
+<img src="/images/COA%202024/Prosperity%20Through%20Quality/Condon_testing_curtain_walls.jpg" style="width:100%;">
+<div style="background-color: white;">Goods tested by SISIR ranged from condoms (left) to curtain walls (right).
+<i>Images reproduced from Singapore Standards Council,<a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308"> Singapore  Standards Council Annual Report 1978</a> (Singapore: The Institute, 1978), 20. (From National Library, Singapore, call no. RCLOS 602.12 SCSSCA)</i></div>         
 
 While SISIR’s work in mediation mostly involved testing for specifications, it was also occasionally called to mediate scientific disagreements. The case of Kenwa’s plastic bags illustrate the workings of SISIR and the specific kinds of interventions it had the authority to stage.
 
@@ -107,7 +125,9 @@ However, the case spun on whether SISIR’s laboratory test was equivalent to re
 
 This instructive example shows the importance and limits of SISIR’s mediation. On one hand, SISIR could not end controversy through the imposition of a single uncontested interpretation of scientific facts. On the other hand, it displays SISIR’s scientific credibility – after all, neither party contested the credibility of SISIR or its testing, only what the correct *interpretation* of SISIR’s findings were.
 
- #### **Publicity**
+ 
+#### **Publicity**
+
  
  ***Publicising Standards and Standardisation***
  
@@ -123,7 +143,14 @@ While the official campaign only ran between February and October of 1973, PQR Q
 
 Notable Singaporean designer William Lee designed a logo for the campaign. The “Q” was intentionally designed to resemble “a prize-winning rosette”, suggesting that carrying the PQR symbol was akin to a stamp of approval. Hundreds of manufacturers flew flags of the PQR logo at their factories to express their commitment to quality.[^60]   
 
+<img src="/images/COA%202024/Prosperity%20Through%20Quality/PQR_flag.jpg" style="width:80%;">
+<div style="background-color: white;">The PQR flag. <i>Image reproduced from<a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4821366">  Industrial News and Research</a>        (Singapore: Singapore Institute of Standards and Industrial Research, September 1972), 15. (From National Library, Singapore, call no. RSING 607.25957)</i></div>  
+
 To commemorate the launch of the campaign, William Lee also designed a set of four stamps. He explained that each stamp’s design was carefully chosen for strategic messaging: the 15 cents stamp used giant cutouts of the three major sponsors of PQR – SISIR, SMA, and NTUC – to emphasise how the united striving of “hardworking Singaporeans make the PQR concept a reality;” the rainbow colouring on the text of the 35 cents stamp was meant to “[project] scientific precision and cleanliness” while the rosette shape evokes “an approval effect;” the repetitious and colourful layout of the 75 cents stamp and the $1 stamp’s gold logo against a white background were intended to associate the Singapore brand with prestige and quality.[^61]  
+
+
+<img src="/images/COA%202024/Prosperity%20Through%20Quality/PQR_stamps.jpg" style="width:100%;">
+<div style="background-color: white;">     Stamps released to commemorate the PQR campaign. <i>  Photograph by Sharad Pandian.</i></div>  
 
 In all, industrialisation was seen as the way to prosperity, and quality-consciousness seen as necessary for industrialisation – as Hon pithily put it, “If Singapore is to succeed as a manufacturing nation, we must all be proud of the made-in-Singapore as being synonymous with quality and reliability, and ensure it remains so.”[^62]   SISIR was understood to have a key role in this quest for quality – at the inauguration of the campaign, Hon announced that SISIR was going to be turned into an autonomous statutory board, with expanded powers and duties.[^63] This transformation was accomplished a few months later through the Singapore Institute of Standards and Industrial Research Bill in July 1973.
 
@@ -135,13 +162,28 @@ Of the numerous approaches SISIR took to woo consumers, the most visually striki
 
 To build a case for customers to avail its services, SISIR first constructed an image of the vulnerable consumer. Customers apparently used heuristics like attractive packaging, cost and advertisements, to help them make their choices in a crowded marketplace.
 
+
+<img src="/images/COA%202024/Prosperity%20Through%20Quality/buying_to_specifications_p3.jpg" style="width:80%;">
+<div style="background-color: white;"><i>Image reproduced from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=203884291"><i>Buying to Specifications</i></a> (Singapore: Singapore Institute of Standards and Industrial Research, 1986), 3. (From National Library, Singapore, call no. 381.33).</i></div>
+
+
 Unfortunately, these heuristics were fallible, as consumers could not be certain about the provenance and quality of products. As the 1978 booklet *Standards in Your Life* pointed out, in an open economy like Singapore, “it is impossible for the consumer to judge visually whether paints are poisonous, the wiring of an electrical appliance is safe, a food product meets the health claims, and which brand gives better value for money.”[^66] 
 
+<img src="/images/COA%202024/Prosperity%20Through%20Quality/Buying_and_better_value.jpg" style="width:100%;">
+<div style="background-color: white;"><i>Images reproduced from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=203884291"><i>Buying to Specifications</i></a> (Singapore: Singapore Institute of Standards and Industrial Research, 1986), 4. (From National Library, Singapore, call no. 381.33) and <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4182364"><i> Better Value for Money: A Basic Guide for Consumers and Manufacturers</i></a>        (Singapore: SISIR, 1976), 29. (From National Library, Singapore, call no. RCLOS 640.73 SIN) </i></div>
+
 Standards, however, could cut through this cloud of uncertainty by letting consumers know whether a product’s essential requirements had been met, allowing them to avoid both unsafe and overpriced alternatives.
+
+<img src="/images/COA%202024/Prosperity%20Through%20Quality/better_value_for_money_p22.jpg" style="width:50%;">
+<div style="background-color: white;"> Sticking to SISIR-approved products helped consumers avoid both regret and flatulence.<i> Image reproduced from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4182364"><i>  Better Value for Money: A Basic Guide for Consumers and Manufacturers</i></a>     (Singapore: SISIR, 1976), 22. (From National Library, Singapore, call no. RCLOS 640.73 SIN)</i></div>        
 
 Apart from cartoons, another medium for publicising SISIR and standards was through educational television programmes. For instance, an episode of the 1976 programme *Home Economics - A Vital Force* aimed at Secondary 3 students was “Stretch Your Dollar” – an attempt at helping young people become responsible consumers. The episode imparts general advice such as being financially prudent, checking the authenticity of products, and comparing prices. 
 
 The show urges viewers to buy good-quality goods since “products of good quality last longer and require less repair” and then informs them that in Singapore, SISIR certifies the quality of various products. Clips of SISIR technicians testing various consumer goods were shown, ranging from checking for excessive radiation in television sets to testing for bacteria in sweetened condensed milk. By bringing to attention the potential harms of low-quality products, SISIR could position itself as safeguarding consumers from those dangers. The show ends by asking “Don’t you think it is wiser to buy local products with the SISIR label?”
+
+<img src="/images/COA%202024/Prosperity%20Through%20Quality/Home_Econs.jpg" style="width:100%;">
+<div style="background-color: white;">   Stills from TV show Home Economics – A Vital Source of SISIR technicians testing various consumer goods. (Left) Testing for excessive radiation in television sets. (Right) Testing for bacteria in condensed milk.<i>Images reproduced from <a href="https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/6b905a70-1164-11e3-83d5-0050568939ad"><i>"  Home Economics – A Vital Force: Stretch Your Dollar (II),"</i></a>   7 May 1976, video, 13:36, 16:11. (From National Archives of Singapore accession no. 2010011768)</i></div>
+
 
 The dangers that viewers were informed about, whether radiation or bacteria, were detectable only through scientific instruments. As the show makes clear, the promotion of quality-consciousness was never simply about sensitising people to the value of standards in the abstract – it was also about making people recognise and submit to the authority of a new set of professional actors who claimed expertise over standards and their appropriate deployment. The new export-oriented marketplace was a standardised space, coproduced alongside experts to educate, guide and authoritatively take charge. Both manufacturers and consumers benefited, as long as they participated in SISIR’s cycle of ever-improving standards and expectations.
 
@@ -158,6 +200,9 @@ Another approach is to consider the lack of open contestation about SISIR’s sc
 A final dimension to be considered is advertising. As goods began acquiring quality certification from SISIR, advertisers featured this quality endorsement in their advertisements. Government-issued publicity material can be expected to sing the praises of government services regardless of sentiment on the ground. However, advertisers pay money for advertising and so have an interest in putting forward the strongest case they can for their products. Thus, it is telling that they regarded the association with SISIR as positive and valuable.
 
 For instance, a when JOVEN heater advertisement highlighted that it was “tested by SISIR”, it did not expand on what SISIR stood for or what its tests represented. Clearly advertisers thought SISIR and its role were established and authoritative enough to warrant consumer attention. The graph below tracks the frequency of advertising mentioning “SISIR” in English-language newspapers.
+
+<img src="/images/COA%202024/Prosperity%20Through%20Quality/newspaper_mentions_of_SISIR.jpg" style="width:100%;">
+<div style="background-color: white;">  Source: Created by author, using data from NewspaperSG.</div> 
 
 The popularity of such advertisements was particularly pronounced from the late 1980s, reaching a peak in 1994. The cause of this spike was the launch of SISIR’s certification scheme for the ISO 9000 standards for quality management in 1988.[^72]  The scheme received special impetus when it was understood that ISO certification would be mandatory for exporting into the newly forming European Union.[^73]  By 1993, 400 different companies had obtained ISO 9000 certification from SISIR.[^74] 
 

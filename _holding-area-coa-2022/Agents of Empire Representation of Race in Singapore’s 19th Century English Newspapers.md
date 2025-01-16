@@ -1,7 +1,7 @@
 ---
 title: Agents of Empire Representation of Race in Singapore’s 19th Century
   English Newspapers
-permalink: /holding-area/chapters-of-asia-2022/agents-of-empire-representation/
+permalink: /holding-area/chapters-on-asia-2022/agents-of-empire-representation/
 variant: markdown
 description: ""
 ---
@@ -46,13 +46,11 @@ Western modes of behaviour, lifestyle and clothing.[^5]
 Four decades after leaving Singapore, its second Resident, the inveterate
 traveller and writer John Crawfurd, observed:
 
-     In understanding, in judgment, in taste, in invention, in reach
+   In understanding, in judgment, in taste, in invention, in reach <br> 
+   of imagination, in enterprise, in perseverance, and in the<br> 
+   moral sense, the European, placed under equally favourable<br> 
+   conditions, is greatly superior to the Asiatic.[^6]
 
-     of imagination, in enterprise, in perseverance, and in the
-
-     moral sense, the European, placed under equally favourable
-
-     conditions, is greatly superior to the Asiatic.[^6]
 Sir Frederick Weld, Governor of the Straits Settlements (1880–87),
 echoed similar sentiments: “I think that capacity for governing is a
 characteristic of our race, and it is wonderful to see in a country like the
@@ -82,19 +80,13 @@ Occasionally, the  <i> Free Press </i>  printed chapters from new books in
 serialised form. One chapter titled “The Chinese Towkay” from a book
 called  <i> People in a Native State </i> , published on 2 December 1893, is illustrative:
 
-     Many Towkays I know are perfectly at home with a knife and
-
-     fork, indeed some of them give capital dinners. As they have
-
-     educated themselves so far towards civilized society, it is to be
-
-     hoped that they will continue to progress and thereby in time
-
-     cultivate a correct palate for champagne and other wines, so
-
-     that “Comet” and other wonderful but undrinkable beverages
-
-     may no longer adorn (?) their hospitable tables.[^10]
+   Many Towkays I know are perfectly at home with a knife and<br> 
+   fork, indeed some of them give capital dinners. As they have<br> 
+   educated themselves so far towards civilized society, it is to be<br> 
+   hoped that they will continue to progress and thereby in time<br> 
+   cultivate a correct palate for champagne and other wines, so<br> 
+   that “Comet” and other wonderful but undrinkable beverages<br> 
+   may no longer adorn (?) their hospitable tables.[^10]
 
 But the newspapers’ role extended beyond mere conduits of information;
 they must be situated within a suitable theoretical framework.

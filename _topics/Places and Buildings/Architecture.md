@@ -9,13 +9,20 @@ variant: markdown
 
 The grandeur and opulence of Eu Villa on Mount Sophia was unrivalled in its heyday.
 
-<img src="/images/Online%20Only%20Articles/EU%20Villa/EU_Villa_colour_homepage.jpg" style="width:80%;">
+<img src="/images/Online%20Only%20Articles/EU%20Villa/aerial_view_topics.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/william-lim-archictect-w-associates/">Remembering William Lim</a>
 The late architect William Lim did more than shape Singapore’s skyline. He was also deeply passionate about urban planning, culture, the arts and engaging the next generation.
 
 <img src="/images/Vol%2019%20Issue%204/6%20William%20Lim/william-lim.png" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/places-and-buildings/2024/1/singapore-street-names-victor-savage/">An Interview with Victor Savage, Co-author of Singapore Street Names: A Study of Toponymics</a>
+
+From Desker Road to Xilin Avenue, street signs around Singapore recall the lives of people whose stories are a part of the nation’s history.
+
+<img src="/images/Online%20Only%20Articles/Interview%20with%20Victor%20Savage/victorsavage_topic.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-2/jul-sep-2023/golden-mile-complex">Golden Mile Complex: Five Decades of an Architectural Icon</a>
