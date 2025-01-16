@@ -18,6 +18,13 @@ The late architect William Lim did more than shape Singapore’s skyline. He was
 <img src="/images/Vol%2019%20Issue%204/6%20William%20Lim/william-lim.png" style="width:80%;">
 <hr>
 
+#### <a style="text-decoration: none; font-weight: bold;" href="/places-and-buildings/2024/1/singapore-street-names-victor-savage/">An Interview with Victor Savage, Co-author of Singapore Street Names: A Study of Toponymics</a>
+
+From Desker Road to Xilin Avenue, street signs around Singapore recall the lives of people whose stories are a part of the nation’s history.
+
+<img src="/images/Online%20Only%20Articles/Interview%20with%20Victor%20Savage/victorsavage_topic.png" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-2/jul-sep-2023/golden-mile-complex">Golden Mile Complex: Five Decades of an Architectural Icon</a>
 The collective sale and conservation of Golden Mile Complex will restore a visionary building designed for a “new look Singapore” 50 years ago. But it also means the loss of a unique community that had developed there.
 
