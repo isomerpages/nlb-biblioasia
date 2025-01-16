@@ -404,7 +404,6 @@ which served to further reify racialised hierarchies in Singapore.
 
 #### **Barbarians, the Lot of Them**
 
-     
    It is absurd that such a wealthy country should be left in the<br> 
    hands of blood-thirsty treacherous savages.52
 
