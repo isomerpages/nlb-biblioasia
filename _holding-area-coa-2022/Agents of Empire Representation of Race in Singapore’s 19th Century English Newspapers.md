@@ -502,15 +502,11 @@ affect their standing among the natives through the entire region. Thus,
 as the war got bloodier and British losses mounted, venomous frustration
 spilled over on the SO’s pages.
 
-     There would be a great deal of moral suasion in placing a
-
-     hobnailed boot on the bare back of a Malay. Another moral
-
-     suasion project is to have some gun practice. How the Malays
-
-     would stare to see an extempore butt, a target in mid stream
-
-     smashed to atoms.63
+   There would be a great deal of moral suasion in placing a<br>
+   hobnailed boot on the bare back of a Malay. Another moral<br> 
+   suasion project is to have some gun practice. How the Malays<br> 
+   would stare to see an extempore butt, a target in mid stream<br>
+   smashed to atoms.63
 
 As the tide began to turn in Britain’s favour, attention switched to what
 should be done with Perak. Leaving it to the “Chiefs and Chinamen” to
