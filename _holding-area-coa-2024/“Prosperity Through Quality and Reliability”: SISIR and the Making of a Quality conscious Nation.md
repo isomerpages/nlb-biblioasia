@@ -125,6 +125,7 @@ However, the case spun on whether SISIR’s laboratory test was equivalent to re
 
 This instructive example shows the importance and limits of SISIR’s mediation. On one hand, SISIR could not end controversy through the imposition of a single uncontested interpretation of scientific facts. On the other hand, it displays SISIR’s scientific credibility – after all, neither party contested the credibility of SISIR or its testing, only what the correct *interpretation* of SISIR’s findings were.
 
+ 
  #### **Publicity**
  
  ***Publicising Standards and Standardisation***
@@ -140,7 +141,6 @@ For Lim Hong Keat, chairman of the SMA, the campaign was “a typical example of
 While the official campaign only ran between February and October of 1973, PQR Quality Control courses had begun earlier: an eight-week course for workers and supervisors was held in September 1972 and a course for managers held in November. Two foreign Quality Control courses – one in the Netherlands and one in Japan – were also offered by the Public Services Commission. For the young, a “know-your-industries” quiz and an essay competition were organised to promote awareness of local manufacturers.[^58]   More than 400 workers received Worker-of-the-Month Certificates.[^59]  
 
 Notable Singaporean designer William Lee designed a logo for the campaign. The “Q” was intentionally designed to resemble “a prize-winning rosette”, suggesting that carrying the PQR symbol was akin to a stamp of approval. Hundreds of manufacturers flew flags of the PQR logo at their factories to express their commitment to quality.[^60]   
-![](/images/COA%202024/Prosperity%20Through%20Quality/PQR_flag.jpg)
 
 <img src="/images/COA%202024/Prosperity%20Through%20Quality/PQR_flag.jpg" style="width:100%;">
 <div style="background-color: white;">The PQR flag. <i>Image reproduced from<a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4821366">  Industrial News and Research</a>        (Singapore: Singapore Institute of Standards and Industrial Research, September 1972), 15. (From National Library, Singapore, call no. RSING 607.25957)
