@@ -140,6 +140,11 @@ For Lim Hong Keat, chairman of the SMA, the campaign was “a typical example of
 While the official campaign only ran between February and October of 1973, PQR Quality Control courses had begun earlier: an eight-week course for workers and supervisors was held in September 1972 and a course for managers held in November. Two foreign Quality Control courses – one in the Netherlands and one in Japan – were also offered by the Public Services Commission. For the young, a “know-your-industries” quiz and an essay competition were organised to promote awareness of local manufacturers.[^58]   More than 400 workers received Worker-of-the-Month Certificates.[^59]  
 
 Notable Singaporean designer William Lee designed a logo for the campaign. The “Q” was intentionally designed to resemble “a prize-winning rosette”, suggesting that carrying the PQR symbol was akin to a stamp of approval. Hundreds of manufacturers flew flags of the PQR logo at their factories to express their commitment to quality.[^60]   
+![](/images/COA%202024/Prosperity%20Through%20Quality/PQR_flag.jpg)
+
+<img src="/images/COA%202024/Prosperity%20Through%20Quality/PQR_flag.jpg" style="width:100%;">
+<div style="background-color: white;">The PQR flag. <i>Image reproduced from<a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4821366">  Industrial News and Research</a>        (Singapore: Singapore Institute of Standards and Industrial Research, September 1972), 15. (From National Library, Singapore, call no. RSING 607.25957)
+</i></div>  
 
 To commemorate the launch of the campaign, William Lee also designed a set of four stamps. He explained that each stamp’s design was carefully chosen for strategic messaging: the 15 cents stamp used giant cutouts of the three major sponsors of PQR – SISIR, SMA, and NTUC – to emphasise how the united striving of “hardworking Singaporeans make the PQR concept a reality;” the rainbow colouring on the text of the 35 cents stamp was meant to “[project] scientific precision and cleanliness” while the rosette shape evokes “an approval effect;” the repetitious and colourful layout of the 75 cents stamp and the $1 stamp’s gold logo against a white background were intended to associate the Singapore brand with prestige and quality.[^61]  
 
