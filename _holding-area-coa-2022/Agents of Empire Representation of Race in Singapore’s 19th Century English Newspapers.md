@@ -743,73 +743,73 @@ Seeley, John Robert. _The Expansion of England: Two Courses of Lectures_. Boston
 
 [^22]: “[New Year’s Day](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18750102-1.2.10),” _Straits Times_, 2 January 1875, 3. (From NewspaperSG)
 
-23 “[New Year’s Day](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18750102-1.2.10).”
+[^23]: “[New Year’s Day](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18750102-1.2.10).”
 
-24 “[The New Year Sports](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18950102-1.2.34),” _Straits Times,_ 2 January 1895, 2. (From NewspaperSG)
+[^24]: “[The New Year Sports](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18950102-1.2.34),” _Straits Times,_ 2 January 1895, 2. (From NewspaperSG)
 
-25 “[New Year Sports](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18950102-1.2.34).”
+[^25]: “[New Year Sports](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18950102-1.2.34).”
 
-26 The Indian historian Manu Pillai makes the same point in the context of how the English treated the subcontinent’s Bacchanalian royalty. “As with stereotypes generally,” he says, “while there was a measure of truth to this talk of excess, its circulation also served more insidious purposes. For the British, it conveniently infantilized Indian rulers and cemented the claim that natives were simply incapable of serious government.” For details, see Manu Pillai, _False Allies: India’s Maharajas in the Age of Ravi Verma_ (New Delhi: Juggernaut, 2021).
+[^26]: The Indian historian Manu Pillai makes the same point in the context of how the English treated the subcontinent’s Bacchanalian royalty. “As with stereotypes generally,” he says, “while there was a measure of truth to this talk of excess, its circulation also served more insidious purposes. For the British, it conveniently infantilized Indian rulers and cemented the claim that natives were simply incapable of serious government.” For details, see Manu Pillai, _False Allies: India’s Maharajas in the Age of Ravi Verma_ (New Delhi: Juggernaut, 2021).
 
-27 “[Local and General](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880412-1.2.13),” _Straits Eurasian Advocate_, 12 April 1888, 5. (From NewspaperSG)
+[^27]: “[Local and General](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880412-1.2.13),” _Straits Eurasian Advocate_, 12 April 1888, 5. (From NewspaperSG)
 
-28 “[Local and General](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880412-1.2.13).”
+[^28]: “[Local and General](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880412-1.2.13).”
 
-29 This gradually started to change towards the end of the century when some winners were named – Eusop Patel for the one-lap race, Tan Heng Moh and Lim Yan Choa for the two-lap. For details, see “[The New Year](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18990103-1.2.65),” _Straits Times_, 3 January 1899, 3. Determining whether this was an anomaly or the beginning of a new trend of naming some native winners will require further study of early 20th-century papers.
+[^29]: This gradually started to change towards the end of the century when some winners were named – Eusop Patel for the one-lap race, Tan Heng Moh and Lim Yan Choa for the two-lap. For details, see “[The New Year](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18990103-1.2.65),” _Straits Times_, 3 January 1899, 3. Determining whether this was an anomaly or the beginning of a new trend of naming some native winners will require further study of early 20th-century papers.
 
-30 “[New Year’s Day](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18750102-1.2.10),” _Straits Times_, 2 January 1875, 2. (From NewspaperSG)
+[^30]: “[New Year’s Day](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18750102-1.2.10),” _Straits Times_, 2 January 1875, 2. (From NewspaperSG)
 
-31 “[The New Year](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18990103-1.2.65).”
+[^31]: “[The New Year](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18990103-1.2.65).”
 
-32 “[Extracts](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880317-1.2.10),” _Straits Eurasian Advocate_, 17 March 1888, 4. (From NewspaperSG)
+[^32]: “[Extracts](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880317-1.2.10),” _Straits Eurasian Advocate_, 17 March 1888, 4. (From NewspaperSG)
 
-33 The SCC would open its gates to other ethnicities in early 1950s, almost a decade before the SRC.
+[^33]: The SCC would open its gates to other ethnicities in early 1950s, almost a decade before the SRC.
 
-34 “[A Complaint](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18870629-1.2.43.1),” _Straits Times Weekly Issue_, 29 June 1887, 11. (From NewspaperSG)
+[^34]: “[A Complaint](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18870629-1.2.43.1),” _Straits Times Weekly Issue_, 29 June 1887, 11. (From NewspaperSG)
 
-35 Farish Noor, “[Money-Making Bodies: Prostitution in Colonial Southeast Asia](https://biblioasia.nlb.gov.sg/vol-11/issue-3/oct-dec-2015/bodies/),” _BiblioAsia_ 11, no. 3 (2015).
+[^35]: Farish Noor, “[Money-Making Bodies: Prostitution in Colonial Southeast Asia](https://biblioasia.nlb.gov.sg/vol-11/issue-3/oct-dec-2015/bodies/),” _BiblioAsia_ 11, no. 3 (2015).
 
-36 The first newspaper by the Eurasians was _Straits Intelligence_. It was started by a piano tuner named John Hansen in the early 1870s and sank rather swiftly. Walter Makepeace, “Institutions and Clubs,” in [_One Hundred Years of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4183132), vol. 2, ed. Walter Makepeace, Gilbert E. Brooke and Roland St. J. Braddell, facsimile reprint 2016 (Singapore: Oxford University Press, 1921), 294. (Call no. RSING 959.57 ONE-\[HIS\])
+[^36]: The first newspaper by the Eurasians was _Straits Intelligence_. It was started by a piano tuner named John Hansen in the early 1870s and sank rather swiftly. Walter Makepeace, “Institutions and Clubs,” in [_One Hundred Years of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4183132), vol. 2, ed. Walter Makepeace, Gilbert E. Brooke and Roland St. J. Braddell, facsimile reprint 2016 (Singapore: Oxford University Press, 1921), 294. (Call no. RSING 959.57 ONE-\[HIS\])
 
-37 An interesting exchange occurred between the SEA and a correspondent who took objection to the paper naming meritorious Eurasians in its pages. The correspondent claimed that some of those named may have wanted to hide the fact that they were Eurasian “for reasons best known to themselves”. It is not difficult to guess what those reasons would have been. The paper’s spirited response was that “we do not hold any very exalted view of the man who is ashamed of his origin”. For the full discussion, see [Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880331-1.2.9), _Straits Eurasian Advocate_, 31 March 1888, 3. (From NewspaperSG)
+[^37]: An interesting exchange occurred between the SEA and a correspondent who took objection to the paper naming meritorious Eurasians in its pages. The correspondent claimed that some of those named may have wanted to hide the fact that they were Eurasian “for reasons best known to themselves”. It is not difficult to guess what those reasons would have been. The paper’s spirited response was that “we do not hold any very exalted view of the man who is ashamed of his origin”. For the full discussion, see [Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880331-1.2.9), _Straits Eurasian Advocate_, 31 March 1888, 3. (From NewspaperSG)
 
-38 “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880407-1.2.11.1),” _Straits Eurasian Advocate_, 7 April 1888, 4. (From NewspaperSG)
+[^38]: “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880407-1.2.11.1),” _Straits Eurasian Advocate_, 7 April 1888, 4. (From NewspaperSG)
 
-39 Makepeace, Brooke and Braddell, [_One Hundred Years of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4183132), 294.
+[^39]: Makepeace, Brooke and Braddell, [_One Hundred Years of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4183132), 294.
 
-40 “[Stray Notes](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880317-1.2.12),” _Straits Eurasian Advocate_, 17 March 1888, 5. (From NewspaperSG)
+[^40]: “[Stray Notes](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880317-1.2.12),” _Straits Eurasian Advocate_, 17 March 1888, 5. (From NewspaperSG)
 
-41 “[Random Shots by Our Facetious Correspondent](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880412-1.2.12),” _Straits Eurasian Advocate_, 12 April 1888, 4. (From NewspaperSG)
+[^41]: “[Random Shots by Our Facetious Correspondent](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880412-1.2.12),” _Straits Eurasian Advocate_, 12 April 1888, 4. (From NewspaperSG)
 
-42 “[Random Shots by Our Facetious Correspondent](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880331-1.2.15),” _Straits Eurasian Advocate_, 31 March 1888, 6. (From NewspaperSG)
+[^42]: “[Random Shots by Our Facetious Correspondent](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880331-1.2.15),” _Straits Eurasian Advocate_, 31 March 1888, 6. (From NewspaperSG)
 
-43 “[Local and General](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880414-1.2.14),” _Straits Eurasian Advocate_, 14 April 1888, 4. (From NewspaperSG)
+[^43]: “[Local and General](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880414-1.2.14),” _Straits Eurasian Advocate_, 14 April 1888, 4. (From NewspaperSG)
 
-44 “[The Domestic Servants Ordinance](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880331-1.2.6),” _Straits Eurasian Advocate_, 31 March 1888, 2. (From NewspaperSG)
+[^44]: “[The Domestic Servants Ordinance](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880331-1.2.6),” _Straits Eurasian Advocate_, 31 March 1888, 2. (From NewspaperSG)
 
-45 “[Domestic Servants Ordinance](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880331-1.2.6).”
+[^45]: [Domestic Servants Ordinance](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880331-1.2.6).”
 
-46 “[Extracts](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880317-1.2.10),” _Straits Eurasian Advocate_, 17 March 1888, 4. (From NewspaperSG)
+[^46]: “[Extracts](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880317-1.2.10),” _Straits Eurasian Advocate_, 17 March 1888, 4. (From NewspaperSG)
 
-47 [Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880630-1.2.8.1), _Straits Eurasian Advocate_, 30 June 1888, 3. (From NewspaperSG)
+[^47]: [Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880630-1.2.8.1), _Straits Eurasian Advocate_, 30 June 1888, 3. (From NewspaperSG)
 
-48 “[Local and General](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880331-1.2.14),” _Straits Eurasian Advocate_, 31 March 1888, 5. (From NewspaperSG)
+[^48]: [Local and General](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880331-1.2.14),” _Straits Eurasian Advocate_, 31 March 1888, 5. (From NewspaperSG)
 
-49 “[Correspondence](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880421-1.2.8),” _Straits Eurasian Advocate_, 21 April 1888, 3. (From NewspaperSG)
+[^49]: “[Correspondence](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880421-1.2.8),” _Straits Eurasian Advocate_, 21 April 1888, 3. (From NewspaperSG)
 
-50 “[Local and General](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880414-1.2.14).”
+[^50]: “[Local and General](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880414-1.2.14).”
 
-51 “[The Word ‘Eurasian’](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880331-1.2.11),” _Straits Eurasian Advocate,_ 31 March, 1888, 3. (From NewspaperSG).
+[^51]: “[The Word ‘Eurasian’](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880331-1.2.11),” _Straits Eurasian Advocate,_ 31 March, 1888, 3. (From NewspaperSG).
 
-52 “[The Perak War](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751214-1.2.7),” _Straits Observer (Singapore),_ 14 December 1875, 24. (From NewspaperSG)
+[^52]: “[The Perak War](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751214-1.2.7),” _Straits Observer (Singapore),_ 14 December 1875, 24. (From NewspaperSG)
 
-53 The 1857 Indian Rebellion, for example, caused the Europeans to become inordinately afraid of the Indians in Singapore, so much so that the Straits Settlements began agitating against Indian convicts being transported to the island. This fear may have worsened relations between the broader European and Indian communities and contributed to lower migration rates of the latter to Singapore in the subsequent decades. For a detailed discussion on this, see Rajesh Rai, “The 1857 Panic and the Fabrication of an Indian ‘Menace’ in Singapore,” _Modern Asian Studies_ 47, no. 2 (2013): 365–405. (From EBSCOhost via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^53]: The 1857 Indian Rebellion, for example, caused the Europeans to become inordinately afraid of the Indians in Singapore, so much so that the Straits Settlements began agitating against Indian convicts being transported to the island. This fear may have worsened relations between the broader European and Indian communities and contributed to lower migration rates of the latter to Singapore in the subsequent decades. For a detailed discussion on this, see Rajesh Rai, “The 1857 Panic and the Fabrication of an Indian ‘Menace’ in Singapore,” _Modern Asian Studies_ 47, no. 2 (2013): 365–405. (From EBSCOhost via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-54 Weld, “[Straits Settlements and British Malaya](https://www.nlb.gov.sg/main/book-detail?cmsuuid=e16ae115-e10d-4619-bcc4-0e1d97672b71).”
+[^54]: Weld, “[Straits Settlements and British Malaya](https://www.nlb.gov.sg/main/book-detail?cmsuuid=e16ae115-e10d-4619-bcc4-0e1d97672b71).”
 
-55 A comprehensive analysis is Cheah Boon Kheng, “Malay Politics and the Murder of J. W-W. Birch, British Resident in Perak, in 1875: The Humiliation and Revenge of the Maharaja Lela,” _Journal of the Malaysian Branch of the Royal Asiatic Society_ 71, no. 1 (1998): 74–105. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^55]: A comprehensive analysis is Cheah Boon Kheng, “Malay Politics and the Murder of J. W-W. Birch, British Resident in Perak, in 1875: The Humiliation and Revenge of the Maharaja Lela,” _Journal of the Malaysian Branch of the Royal Asiatic Society_ 71, no. 1 (1998): 74–105. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-56 “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751112-1.2.3),” _Straits Observer (Singapore)_, 12 November 1875, 2. (From NewspaperSG)
+[^56]: “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751112-1.2.3),” _Straits Observer (Singapore)_, 12 November 1875, 2. (From NewspaperSG)
 
 57 “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751105-1.2.3),” _Straits Observer (Singapore)_, 5 November 1875, 2 (From NewspaperSG)
 
