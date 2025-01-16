@@ -729,19 +729,19 @@ Seeley, John Robert. _The Expansion of England: Two Courses of Lectures_. Boston
 
 [^15]: Brendan Luyt, “The Importance of Fiction to the Raffles Library, Singapore, During the Long Nineteenth-Century,” _Library &amp; Information History_ 25, no. 2 (2009): 130.
 
-16 Horse riders would gallop behind hounds in pursuit of an artificially laid scent. The _Straits Times Weekly Issue_ of 5 March 1883 reported on one such drag hunt spanning Balestier Road, Bukit Timah Road, Grange Road and Tyersall Avenue. For details, see “[The Tyersall Hounds](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18830305-1.2.4.22),” _Straits Times Weekly Issue_, 5 March 1883, 11. (From NewspaperSG)
+[^16]: Horse riders would gallop behind hounds in pursuit of an artificially laid scent. The _Straits Times Weekly Issue_ of 5 March 1883 reported on one such drag hunt spanning Balestier Road, Bukit Timah Road, Grange Road and Tyersall Avenue. For details, see “[The Tyersall Hounds](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18830305-1.2.4.22),” _Straits Times Weekly Issue_, 5 March 1883, 11. (From NewspaperSG)
 
-17 “In Colonial Settlements, far removed from the mother country, much of the spirit of nationality is apt to be lost or forgotten, arising, in most cases, from different associations which other circumstances than those to which we have become accustomed are wont to engender, as well as from the influence which removal from the place of their constant exercise occasions.” “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18450715-1.2.5),” _Straits Times_, 15 July 1845, 2. (From NewspaperSG)
+[^17]: “In Colonial Settlements, far removed from the mother country, much of the spirit of nationality is apt to be lost or forgotten, arising, in most cases, from different associations which other circumstances than those to which we have become accustomed are wont to engender, as well as from the influence which removal from the place of their constant exercise occasions.” “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18450715-1.2.5),” _Straits Times_, 15 July 1845, 2. (From NewspaperSG)
 
-18 Simon Potter, “Webs, Networks, and Systems: Globalization and the Mass Media in the Nineteenth-and Twentieth-Century British Empire,” _Journal of British Studies_ 46, no. 3 (2007): 624. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^18]: Simon Potter, “Webs, Networks, and Systems: Globalization and the Mass Media in the Nineteenth-and Twentieth-Century British Empire,” _Journal of British Studies_ 46, no. 3 (2007): 624. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-19 The NewspaperSG site is a virtually inexhaustible treasure trove of information about early colonial Singapore. Forming an almost unbroken chain of information that depicts mores, norms and social the origins of some of its deepest fissures. No scholar hoping to understand modern-day Singapore can afford to ignore this vital resource. attitudes from the 1820s to the current era, it provides a deep insight into the country’s evolution and
+[^19]: The NewspaperSG site is a virtually inexhaustible treasure trove of information about early colonial Singapore. Forming an almost unbroken chain of information that depicts mores, norms and social the origins of some of its deepest fissures. No scholar hoping to understand modern-day Singapore can afford to ignore this vital resource. attitudes from the 1820s to the current era, it provides a deep insight into the country’s evolution and
 
-20 “[The Land Sports](https://eresources.nlb.gov.sg/newspapers/digitised/article/dailyadvertiser18930103-1.2.8),” _Daily Advertiser,_ 3 January 1893, 3. (From NewspaperSG)
+[^20]: “[The Land Sports](https://eresources.nlb.gov.sg/newspapers/digitised/article/dailyadvertiser18930103-1.2.8),” _Daily Advertiser,_ 3 January 1893, 3. (From NewspaperSG)
 
-21 “[The New Year Sports](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18970102-1.2.38),” _Straits Times_, 2 January 1897, 3. (From NewspaperSG)
+[^21]: “[The New Year Sports](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18970102-1.2.38),” _Straits Times_, 2 January 1897, 3. (From NewspaperSG)
 
-22 “[New Year’s Day](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18750102-1.2.10),” _Straits Times_, 2 January 1875, 3. (From NewspaperSG)
+[^22]: “[New Year’s Day](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18750102-1.2.10),” _Straits Times_, 2 January 1875, 3. (From NewspaperSG)
 
 23 “[New Year’s Day](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18750102-1.2.10).”
 
