@@ -693,9 +693,9 @@ Seeley, John Robert. _The Expansion of England: Two Courses of Lectures_. Boston
 
 #### **NOTES**
          
-1 Vernon Cornelius, “[Singapore Chronicle](https://www.nlb.gov.sg/main/article-detail?cmsuuid=1d54f41e-a792-4b39-bd6c-8e4a72f30a11),” Singapore Infopedia, published 2017.
+[^1]: Vernon Cornelius, “[Singapore Chronicle](https://www.nlb.gov.sg/main/article-detail?cmsuuid=1d54f41e-a792-4b39-bd6c-8e4a72f30a11),” Singapore Infopedia, published 2017.
 
-2 John Cameron, [_Our Tropical Possessions in Malayan India: Being a Descriptive Account of Singapore, Penang, Province Wellesley and Malacca: Their Peoples, Products, Commerce and Government_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=7658c549-f1c5-47c7-b8b6-831f7eb90c58) (London: Smith Elder and Co., 1865), 297. (From BookSG; Call no. RRARE 959.5 CAM; Accession no. B29032445G)
+[^2]: John Cameron, [_Our Tropical Possessions in Malayan India: Being a Descriptive Account of Singapore, Penang, Province Wellesley and Malacca: Their Peoples, Products, Commerce and Government_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=7658c549-f1c5-47c7-b8b6-831f7eb90c58) (London: Smith Elder and Co., 1865), 297. (From BookSG; Call no. RRARE 959.5 CAM; Accession no. B29032445G)
 
 3 John Robert Seeley, _The Expansion of England: Two Courses of Lectures_ (Boston: Roberts Brothers, 1883), 8.
 
