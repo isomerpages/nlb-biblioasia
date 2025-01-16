@@ -190,7 +190,7 @@ In other words, multilingualism embodies a utopian vision. Writers, on this view
 
 [^9]: [_Regulations Made Under the Emergency Regulations, 1948_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202546159).
 
-[^10]: Jeremey E. Taylor, “‘Not a Particularly Happy Expression’: ‘Malayanization’ and the China Threat in Britain’s Late-Colonial Southeast Asian Territories,” [_Journal of Asian Studies_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1066786) 78, no. 4 (November 2019): 792. (National Library, Singapore, call no. 950.05 FEQ)
+[^10]: Jeremy E. Taylor, “‘Not a Particularly Happy Expression’: ‘Malayanization’ and the China Threat in Britain’s Late-Colonial Southeast Asian Territories,” [_Journal of Asian Studies_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1066786) 78, no. 4 (November 2019): 792. (National Library, Singapore, call no. 950.05 FEQ)
 
 [^11]: Wang, “[A Short Introduction to Chinese Writing in Malaya](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4092184),” 252.
 
