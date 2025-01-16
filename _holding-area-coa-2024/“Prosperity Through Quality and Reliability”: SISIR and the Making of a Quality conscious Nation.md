@@ -181,7 +181,7 @@ Apart from cartoons, another medium for publicising SISIR and standards was thro
 
 The show urges viewers to buy good-quality goods since “products of good quality last longer and require less repair” and then informs them that in Singapore, SISIR certifies the quality of various products. Clips of SISIR technicians testing various consumer goods were shown, ranging from checking for excessive radiation in television sets to testing for bacteria in sweetened condensed milk. By bringing to attention the potential harms of low-quality products, SISIR could position itself as safeguarding consumers from those dangers. The show ends by asking “Don’t you think it is wiser to buy local products with the SISIR label?”
 
-<img src="/images/COA%202024/Prosperity%20Through%20Quality/Home_Econs.jpg" style="width:80%;">
+<img src="/images/COA%202024/Prosperity%20Through%20Quality/Home_Econs.jpg" style="width:100%;">
 <div style="background-color: white;">   Stills from TV show Home Economics – A Vital Source of SISIR technicians testing various consumer goods. (Left) Testing for excessive radiation in television sets. (Right) Testing for bacteria in condensed milk.<i>Images reproduced from <a href="https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/6b905a70-1164-11e3-83d5-0050568939ad"><i>"  Home Economics – A Vital Force: Stretch Your Dollar (II),"</i></a>   7 May 1976, video, 13:36, 16:11. (From National Archives of Singapore accession no. 2010011768)</i></div>
 
 
