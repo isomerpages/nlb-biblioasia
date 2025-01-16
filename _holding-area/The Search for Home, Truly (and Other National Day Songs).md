@@ -80,7 +80,7 @@ The 1990 Sing Singapore competition was held on 21 July at the Indoor Stadium, a
 
 
 ![](/images/Vol%2021%20Issue%201/Sing%20Singapore/sing_songbook.jpg)
-<div>The Sing Singapore 1990 songbook. <i>_Courtesy of Bernard G.T. Tan._</i></div>
+<div>The Sing Singapore 1990 songbook. <i>Courtesy of Bernard G.T. Tan.</i></div>
 
 An initiative by NTUC Income in 1991 led to the national song, “It’s the Little Things”, by Patrick Seet and Ivan Chua.[^29]
 
