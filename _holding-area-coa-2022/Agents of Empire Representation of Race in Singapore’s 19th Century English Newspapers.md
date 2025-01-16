@@ -717,17 +717,17 @@ Seeley, John Robert. _The Expansion of England: Two Courses of Lectures_. Boston
 
 [^9]: “[The Free Press](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18531223-1.2.4),” _Singapore Free Press and Mercantile Advertiser_, 23 December 1853, 2; “[Page 3 Advertisements Column 2](https://eresources.nlb.gov.sg/newspapers/digitised/article/middayherald18980219-1.2.21.2),” _Mid-Day Herald_, 19 February 1898, 3 (From NewspaperSG). In addition, the visit was advertised in the _Straits Times_ and _Straits Budget_. The latter’s correspondent was convinced “there was something more in phrenology than is generally credited by the great unbelieving mass of humanity”. For more details, see “[The Lady Phrenologist](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget18980225-1.2.97),” _Straits Budget_, 25 February 1898, 10. (From NewspaperSG)
 
-10 “[People in a Native State](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18931223-1.2.14),” _Singapore Free Press and Mercantile Advertiser_, 2 December 1893, 3. (From NewspaperSG)
+[^10]: “[People in a Native State](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18931223-1.2.14),” _Singapore Free Press and Mercantile Advertiser_, 2 December 1893, 3. (From NewspaperSG)
 
-11 Chandrika Kaul, _Reporting the Raj: The British Press and India, c. 1880–1922_ (Manchester: Manchester University Press, 2003), 258.
+[^11]: Chandrika Kaul, _Reporting the Raj: The British Press and India, c. 1880–1922_ (Manchester: Manchester University Press, 2003), 258.
 
-12 Edward Said, [_Orientalism_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12254159) (London: Penguin, 2003), 41. (Call no. 950.07 SAI)
+[^12]: Edward Said, [_Orientalism_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12254159) (London: Penguin, 2003), 41. (Call no. 950.07 SAI)
 
-13 Charles Hirschman, “The Making of Race in Colonial Malaya: Political Economy and Racial Ideology,” _Sociological Forum_ 1, no. 2 (Spring 1986): 347. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^13]: Charles Hirschman, “The Making of Race in Colonial Malaya: Political Economy and Racial Ideology,” _Sociological Forum_ 1, no. 2 (Spring 1986): 347. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-14 Bernard S. Cohn, [_Colonialism and Its Forms of Knowledge: The British in India_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7758745) (Princeton: Princeton University Press, 1996), 111–12. (Call no. R 954 COH)
+[^14]: Bernard S. Cohn, [_Colonialism and Its Forms of Knowledge: The British in India_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7758745) (Princeton: Princeton University Press, 1996), 111–12. (Call no. R 954 COH)
 
-15 Brendan Luyt, “The Importance of Fiction to the Raffles Library, Singapore, During the Long Nineteenth-Century,” _Library &amp; Information History_ 25, no. 2 (2009): 130.
+[^15]: Brendan Luyt, “The Importance of Fiction to the Raffles Library, Singapore, During the Long Nineteenth-Century,” _Library &amp; Information History_ 25, no. 2 (2009): 130.
 
 16 Horse riders would gallop behind hounds in pursuit of an artificially laid scent. The _Straits Times Weekly Issue_ of 5 March 1883 reported on one such drag hunt spanning Balestier Road, Bukit Timah Road, Grange Road and Tyersall Avenue. For details, see “[The Tyersall Hounds](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18830305-1.2.4.22),” _Straits Times Weekly Issue_, 5 March 1883, 11. (From NewspaperSG)
 
