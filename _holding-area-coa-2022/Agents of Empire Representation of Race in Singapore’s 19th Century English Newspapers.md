@@ -811,29 +811,29 @@ Seeley, John Robert. _The Expansion of England: Two Courses of Lectures_. Boston
 
 [^56]: “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751112-1.2.3),” _Straits Observer (Singapore)_, 12 November 1875, 2. (From NewspaperSG)
 
-57 “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751105-1.2.3),” _Straits Observer (Singapore)_, 5 November 1875, 2 (From NewspaperSG)
+[^57]: [Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751105-1.2.3),” _Straits Observer (Singapore)_, 5 November 1875, 2 (From NewspaperSG)
 
-58 “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751112-1.2.3),” _Straits Observer (Singapore)_, 12 November 1875, 2; “[Volunteers to the Front](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751119-1.2.4.1),” _Straits Observer (Singapore)_, 19 November 1875, 2; “[Where, and Oh Where, Are Our Island Laddies Gone!](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751119-1.2.4.2)” _Straits Observer (Singapore)_, 19 November 1875, 3 January 1876, 3. (From NewspaperSG)
+[^58]: “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751112-1.2.3),” _Straits Observer (Singapore)_, 12 November 1875, 2; “[Volunteers to the Front](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751119-1.2.4.1),” _Straits Observer (Singapore)_, 19 November 1875, 2; “[Where, and Oh Where, Are Our Island Laddies Gone!](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751119-1.2.4.2)” _Straits Observer (Singapore)_, 19 November 1875, 3 January 1876, 3. (From NewspaperSG)
 
-59 “[The Perak Expedition](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751214-1.2.7),” _Straits Observer (Singapore)_, 14 December 1875, 24 (From NewspaperSG). Syed Hussein Alatas deals extensively with why the Malays did not “work” the land. Simply put, they did not need to. For this excellent discussion, see Syed Hussein Alatas, [_The Myth of the Lazy Native: A Study of the Image of the Malays, Filipinos and Javanese from the 16th to the 20th Century and Its Function in the Ideology of Colonial_ _Capitalism_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201110013) (New York: Routledge, 2010). (Call no. RSING 305.800959 ALA)
+[^59]: “[The Perak Expedition](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751214-1.2.7),” _Straits Observer (Singapore)_, 14 December 1875, 24 (From NewspaperSG). Syed Hussein Alatas deals extensively with why the Malays did not “work” the land. Simply put, they did not need to. For this excellent discussion, see Syed Hussein Alatas, [_The Myth of the Lazy Native: A Study of the Image of the Malays, Filipinos and Javanese from the 16th to the 20th Century and Its Function in the Ideology of Colonial_ _Capitalism_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201110013) (New York: Routledge, 2010). (Call no. RSING 305.800959 ALA)
 
-60 Sir Harry Ord was Governor from 1867 to 1871, during which time he tried to abide by the policy of non-intervention in native states – a legacy of the 1857 Indian Mutiny. Sir Andrew Clarke’s gradual reversal of this policy culminated in the Pangkor Treaty of 1874; propelled by mercantile fervour and angered by Birch’s assassination, Clarke’s successor Sir William Jervois was even more forceful in his thrust up and into the Peninsula.
+[^60]: Sir Harry Ord was Governor from 1867 to 1871, during which time he tried to abide by the policy of non-intervention in native states – a legacy of the 1857 Indian Mutiny. Sir Andrew Clarke’s gradual reversal of this policy culminated in the Pangkor Treaty of 1874; propelled by mercantile fervour and angered by Birch’s assassination, Clarke’s successor Sir William Jervois was even more forceful in his thrust up and into the Peninsula.
 
-61 “[The Perak War](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751214-1.2.7),” _Straits Observer (Singapore)_, 14 December 1875, 2. (From NewspaperSG)
+[^61]: “[The Perak War](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751214-1.2.7),” _Straits Observer (Singapore)_, 14 December 1875, 2. (From NewspaperSG)
 
-62 “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18760407-1.2.4),” _Straits Observer (Singapore)_, 7 April 1876, 2. (From NewspaperSG)
+[^62]: “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18760407-1.2.4),” _Straits Observer (Singapore)_, 7 April 1876, 2. (From NewspaperSG)
 
-63 “[The Perak Expedition](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751231-1.2.6),” _Straits Observer (Singapore)_, 31 December 1875, 2. (From NewspaperSG)
+[^63]: “[The Perak Expedition](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751231-1.2.6),” _Straits Observer (Singapore)_, 31 December 1875, 2. (From NewspaperSG)
 
-64 “[What Shall We Do with It](https://eresources.nlb.gov.sg/newspapers/digitised/article/stoverland18760113-1.2.9),” _Straits Times Overland Journal (Singapore)_, 13 January 1876, 2; “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751228-1.2.3),” _Straits Observer (Singapore)_, 28 December 1875, 2; “[Outside Opinion on Perak](https://eresources.nlb.gov.sg/newspapers/digitised/article/stoverland18760224-1.2.10),” _Straits Times Overland Journal,_ 24 February 1876, 3. (From NewspaperSG)
+[^64]: “[What Shall We Do with It](https://eresources.nlb.gov.sg/newspapers/digitised/article/stoverland18760113-1.2.9),” _Straits Times Overland Journal (Singapore)_, 13 January 1876, 2; “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751228-1.2.3),” _Straits Observer (Singapore)_, 28 December 1875, 2; “[Outside Opinion on Perak](https://eresources.nlb.gov.sg/newspapers/digitised/article/stoverland18760224-1.2.10),” _Straits Times Overland Journal,_ 24 February 1876, 3. (From NewspaperSG)
 
-65 Charles Hirschman, “The Meaning and Measurement of Ethnicity in Malaysia,” _Journal of Asian Studies_ 46, no. 3 (August 1987): 568. (From ProQuest Central via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^65]: Charles Hirschman, “The Meaning and Measurement of Ethnicity in Malaysia,” _Journal of Asian Studies_ 46, no. 3 (August 1987): 568. (From ProQuest Central via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-66 Sachin Nakrani, “Groundbreaking Report Reveals Racial Bias in English Football Commentary,” _The Guardian_, 29 June 2020.
+[^66]: Sachin Nakrani, “Groundbreaking Report Reveals Racial Bias in English Football Commentary,” _The Guardian_, 29 June 2020.
 
-67 Pan Jie, “A Brief, Dark History of ‘Lepak One Corner’,” _Rice Media_, 23 July 2018.
+[^67]: Pan Jie, “A Brief, Dark History of ‘Lepak One Corner’,” _Rice Media_, 23 July 2018.
 
-68 A more comprehensive research project would contrast the English media’s representations of race with early Chinese, Tamil and Malay media, and examine how the ruled viewed the rulers and how newspapers created an imagined imperial community.
+[^68]: A more comprehensive research project would contrast the English media’s representations of race with early Chinese, Tamil and Malay media, and examine how the ruled viewed the rulers and how newspapers created an imagined imperial community.
 
 
 .
