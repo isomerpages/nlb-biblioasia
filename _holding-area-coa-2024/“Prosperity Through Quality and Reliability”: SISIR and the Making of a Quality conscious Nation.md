@@ -107,11 +107,9 @@ To test the credibility of a product, SISIR had to carry out a range of scientif
 
 The necessary tests varied greatly because of the nature and expectations of different products. For example, one simple test was for holes in condoms, which required suspending a number of condoms from each batch and ensuring there was no leakage. Larger objects like curtain walls required far more elaborate and sophisticated machinery to test for quality.
 
-![](/images/COA%202024/Prosperity%20Through%20Quality/Condon_testing_curtain_walls.jpg)
-
 <img src="/images/COA%202024/Prosperity%20Through%20Quality/Condon_testing_curtain_walls.jpg" style="width:100%;">
 <div style="background-color: white;">Goods tested by SISIR ranged from condoms (left) to curtain walls (right).
-<i>Images reproduced from Singapore Standards Council,<a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308"></a>(Singapore: The Institute, 1978), 20. (From National Library, Singapore, call no. RCLOS 602.12 SCSSCA);_</i></div>         
+<i>Images reproduced from Singapore Standards Council,<a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=5079308"> Singapore  Standards Council Annual Report 1978</a> (Singapore: The Institute, 1978), 20. (From National Library, Singapore, call no. RCLOS 602.12 SCSSCA)</i></div>         
 
 While SISIR’s work in mediation mostly involved testing for specifications, it was also occasionally called to mediate scientific disagreements. The case of Kenwa’s plastic bags illustrate the workings of SISIR and the specific kinds of interventions it had the authority to stage.
 
