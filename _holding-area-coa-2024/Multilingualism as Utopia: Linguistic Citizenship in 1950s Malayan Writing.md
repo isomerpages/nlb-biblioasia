@@ -43,7 +43,7 @@ One of the most prolific writers in this period who put this technique into prac
 
 
 <img src="/images/COA%202024/Multilingualism%20as%20Utopia/pg_270_Aug11005_crop.jpg" style="width:100%;">
-<div style="background-color: white;">In this article by Miao Xiu, he explores Anglophone and Sinophone literary writing in 1950s Malaya, with a focus on how the phenomenon of language mixing arose in response to the socio-political exigencies of the period. It reveals the inextricable relationship between language, literature&nbsp;and society.<i>      Reproduced from《論__僑民意識與馬華獨特性》,《星洲日報》[Xing Zhou Re Bao\]，28 February 1948. Microfilm no. A01597333I. (From National Library, Singapore).</i></div>
+<div style="background-color: white;">In this article by Miao Xiu, he explores Anglophone and Sinophone literary writing in 1950s Malaya, with a focus on how the phenomenon of language mixing arose in response to the socio-political exigencies of the period. It reveals the inextricable relationship between language, literature&nbsp;and society.<i>      Reproduced from《論僑民意識與馬華獨特性》,《星洲日報》[Xing Zhou Re Bao\]，28 February 1948. Microfilm no. A01597333I. (From National Library, Singapore).</i></div>
 
 Miao Xiu was not alone in this enterprise. He was joined by several contemporaries, notably Zhao Rong (1920–88), who also contributed to the Great Debate, under the pseudonym Xi Qiao. A strong advocate of the uniqueness of Malayan Chinese literature, Zhao published two articles in the *Xing Chen* supplement of *Sin Chew Jit Poh* in early 1948, one on 26 January[^14]  and the other on 16 February.[^15]  Like Miao Xiu, Zhao Rong was relatively liberal in his linguistic use from the vernaculars. A spectacular example is his 1958 short story “Old Stone Mountain”,[^16]  the plot driven primarily by Cantonese-based dialogues, as represented by Cantonese characters that are graphically similar to but vary from standard Chinese characters. Here the overall proportion of Cantonese used is so high that readers unfamiliar with the Cantonese script and sound would conceivably have difficulty understanding the story based on the narrative segments (written in standard Chinese characters) alone.
 
@@ -95,6 +95,7 @@ The crowds wait their share of the steaming fun<br>
 At the kuey teow stalls of the kerosene glare<br>
 And in the shadowed, rubbish lined malls,<br>
 The whisperings have just begun.<br>
+
 By the drains, sandalled squats<br>
 Lick their durian seeds;<br>
 Near the lanes the night-soil workers<br>
