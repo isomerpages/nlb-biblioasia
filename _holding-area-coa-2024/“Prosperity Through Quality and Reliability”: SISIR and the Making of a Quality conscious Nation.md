@@ -169,7 +169,7 @@ To build a case for customers to avail its services, SISIR first constructed an 
 
 Unfortunately, these heuristics were fallible, as consumers could not be certain about the provenance and quality of products. As the 1978 booklet *Standards in Your Life* pointed out, in an open economy like Singapore, “it is impossible for the consumer to judge visually whether paints are poisonous, the wiring of an electrical appliance is safe, a food product meets the health claims, and which brand gives better value for money.”[^66] 
 
-<img src="/images/COA%202024/Prosperity%20Through%20Quality/Buying_and_better_value.jpg" style="width:80%;">
+<img src="/images/COA%202024/Prosperity%20Through%20Quality/Buying_and_better_value.jpg" style="width:100%;">
 <div style="background-color: white;"><i>Images reproduced from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=203884291"><i>Buying to Specifications</i></a> (Singapore: Singapore Institute of Standards and Industrial Research, 1986), 4. (From National Library, Singapore, call no. 381.33) and <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4182364"><i> Better Value for Money: A Basic Guide for Consumers and Manufacturers</i></a>        (Singapore: SISIR, 1976), 29. (From National Library, Singapore, call no. RCLOS 640.73 SIN) </i></div>
 
 Standards, however, could cut through this cloud of uncertainty by letting consumers know whether a product’s essential requirements had been met, allowing them to avoid both unsafe and overpriced alternatives.
@@ -181,9 +181,7 @@ Apart from cartoons, another medium for publicising SISIR and standards was thro
 
 The show urges viewers to buy good-quality goods since “products of good quality last longer and require less repair” and then informs them that in Singapore, SISIR certifies the quality of various products. Clips of SISIR technicians testing various consumer goods were shown, ranging from checking for excessive radiation in television sets to testing for bacteria in sweetened condensed milk. By bringing to attention the potential harms of low-quality products, SISIR could position itself as safeguarding consumers from those dangers. The show ends by asking “Don’t you think it is wiser to buy local products with the SISIR label?”
 
-![](/images/COA%202024/Prosperity%20Through%20Quality/Home_Econs.jpg)
 <img src="/images/COA%202024/Prosperity%20Through%20Quality/Home_Econs.jpg" style="width:80%;">
-												
 <div style="background-color: white;"><i>Image reproduced from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4182364"><i>  Better Value for Money: A Basic Guide for Consumers and Manufacturers</i></a>       (Singapore: SISIR, 1976), 22. (From National Library, Singapore, call no. RCLOS 640.73 SIN)</i></div>
 
 
