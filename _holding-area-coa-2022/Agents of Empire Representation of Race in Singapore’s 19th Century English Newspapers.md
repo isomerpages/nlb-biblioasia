@@ -217,7 +217,7 @@ Treacle-dipping did not escape the paper’s lampooning either:
    blind with treacle, and the  <i> wild stampede of the Asiatics </i>  in<br>
    their Sunday clothes, as each competitor made a beeline for<br>
    the sea, was probably  <i> the most comical part of the business<br>
-</i> [emphases added].[^25]
+   </i> [emphases added].[^25]
 	
 Such reportage reduced the natives to caricature, clowns in a
 circus conducted by English ringmasters. In Singapore, as elsewhere,
@@ -285,19 +285,13 @@ Founded by a group of miffed Eurasians when they were denied entry to the
 differences.33 In 1887, a peeved reader wrote in to the ST complaining of the
 treatment meted out to SRC members at an SCC event:
 
-     Some such courtesy might have been shown to the <i> Committee</i> 
-
-     [emphasis in original] of the S.R.C. if not to all the
-
-     members, and as respectable as any of the S.C.C. members,
-
-     although not born in Europe. But the usual class distinction
-
-     prevailed… – a distinction which is as unworthy of those
-
-     who are responsible for making it, as it is humiliating to those
-
-     against whom the line is drawn.34
+   Some such courtesy might have been shown to the <i> Committee</i><br>  
+   [emphasis in original] of the S.R.C. if not to all the<br> 
+   members, and as respectable as any of the S.C.C. members,<br> 
+   although not born in Europe. But the usual class distinction<br> 
+   prevailed… – a distinction which is as unworthy of those<br>
+   who are responsible for making it, as it is humiliating to those<br>
+   against whom the line is drawn.34
 
 The Eurasians were a deeply insecure community at the time. Ease
 of transportation had brought not just ideas, but also more and more
