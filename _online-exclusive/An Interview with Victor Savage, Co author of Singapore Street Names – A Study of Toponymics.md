@@ -18,7 +18,7 @@ In this interview, which has been condensed and edited for clarity, Jimmy Yap sp
 <div style="background-color: white;"> Victor Savage. <i> Photo by Jimmy Yap. </i></div>
 
 <b>Jimmy</b><br>
-So, Victor, the first edition of the book was <i>Toponymics: A Study of Singapore Street Names[Toponymics: A Study of Singapore Street Names](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11800758)</i>, but the title and subtitle are switched around in the [fourth edition](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205854725). Why the change?
+So, Victor, the first edition of the book was <i>[Toponymics: A Study of Singapore Street Names](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11800758)</i>, but the title and subtitle are switched around in the [fourth edition](https://eservice.nlb.gov.sg/item_holding.aspx?bid=205854725). Why the change?
 
 <b>Victor</b><br>
 The original title was Toponymics. But the publisher said “Aiyoh, every time people ask what is toponymics.” They find it a strange word. And finally, the publisher said put “Singapore street names” as the title so people will know, and the subtitle as “a study of toponymics”. Topo means “place” and nymics means “name”. Streets only came about when cities developed; before that it was all place names, no such thing as street names. 
