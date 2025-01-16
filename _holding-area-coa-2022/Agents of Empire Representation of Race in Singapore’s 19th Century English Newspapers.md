@@ -52,7 +52,6 @@ of imagination, in enterprise, in perseverance, and in the<br>
 moral sense, the European, placed under equally favourable<br> 
 conditions, is greatly superior to the Asiatic.[^6]
 
-
 Sir Frederick Weld, Governor of the Straits Settlements (1880–87),
 echoed similar sentiments: “I think that capacity for governing is a
 characteristic of our race, and it is wonderful to see in a country like the
