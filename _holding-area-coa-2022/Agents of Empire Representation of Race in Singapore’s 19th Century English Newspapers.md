@@ -172,15 +172,9 @@ National Library.[^19]
 
 #### **How They Make Us Laugh**
 
-     In the boxing match, a Chinaman while in the pursuit of
-
-     defending himself from his antagonist, dropped his nether
-
-     garment; his hands being bound with his gloves, was at a loss
-
-     to brush himself up, which caused not a little laughter and
-
-     merriment.[^20]
+   In the boxing match, a Chinaman while in the pursuit of<br>    defending himself from his antagonist, dropped his nether <br>   garment; his hands being bound with his gloves, was at a loss<br>
+   to brush himself up, which caused not a little laughter and<br>
+   merriment.[^20]
 
 The festive season in Singapore – a fortnight that included Christmas
 and the New Year – usually ended with a full day of sporting activities at
