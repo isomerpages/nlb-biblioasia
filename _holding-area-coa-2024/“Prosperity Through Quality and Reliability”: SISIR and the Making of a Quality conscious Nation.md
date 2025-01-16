@@ -201,6 +201,9 @@ A final dimension to be considered is advertising. As goods began acquiring qual
 
 For instance, a when JOVEN heater advertisement highlighted that it was “tested by SISIR”, it did not expand on what SISIR stood for or what its tests represented. Clearly advertisers thought SISIR and its role were established and authoritative enough to warrant consumer attention. The graph below tracks the frequency of advertising mentioning “SISIR” in English-language newspapers.
 
+<img src="/images/COA%202024/Prosperity%20Through%20Quality/newspaper_mentions_of_SISIR.jpg" style="width:100%;">
+<div style="background-color: white;">  Source: Created by author, using data from NewspaperSG.</div> 
+
 The popularity of such advertisements was particularly pronounced from the late 1980s, reaching a peak in 1994. The cause of this spike was the launch of SISIR’s certification scheme for the ISO 9000 standards for quality management in 1988.[^72]  The scheme received special impetus when it was understood that ISO certification would be mandatory for exporting into the newly forming European Union.[^73]  By 1993, 400 different companies had obtained ISO 9000 certification from SISIR.[^74] 
 
 Advertisements highlighting testing by SISIR continued after 1996 – the year SISIR merged with the National Productivity Board to form the Productivity and Standards Board (PSB), bringing a close to SISIR. The stickiness of the SISIR label can be explained in part as advertisers using SISIR’s brand for credibility even after the institute ceased to exist – after all its reputation did not disappear overnight. It was also because SISIR’s labels were literally stuck onto merchandise, and therefore continued to be advertised and circulated with those goods on which they were pasted.
