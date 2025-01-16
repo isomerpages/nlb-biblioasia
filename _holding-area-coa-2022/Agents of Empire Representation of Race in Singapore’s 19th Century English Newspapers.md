@@ -697,19 +697,19 @@ Seeley, John Robert. _The Expansion of England: Two Courses of Lectures_. Boston
 
 [^2]: John Cameron, [_Our Tropical Possessions in Malayan India: Being a Descriptive Account of Singapore, Penang, Province Wellesley and Malacca: Their Peoples, Products, Commerce and Government_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=7658c549-f1c5-47c7-b8b6-831f7eb90c58) (London: Smith Elder and Co., 1865), 297. (From BookSG; Call no. RRARE 959.5 CAM; Accession no. B29032445G)
 
-3 John Robert Seeley, _The Expansion of England: Two Courses of Lectures_ (Boston: Roberts Brothers, 1883), 8.
+[^3]: John Robert Seeley, _The Expansion of England: Two Courses of Lectures_ (Boston: Roberts Brothers, 1883), 8.
 
-4 Edwin Lee, [_The British as Rulers Governing Multi-Racial Singapore 1867–1914_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5678026) (Singapore: Singapore University Press, 1991), 281. (Call no. RSING 959.57022 LEE-\[HIS\])
+[^4]: Edwin Lee, [_The British as Rulers Governing Multi-Racial Singapore 1867–1914_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5678026) (Singapore: Singapore University Press, 1991), 281. (Call no. RSING 959.57022 LEE-\[HIS\])
 
-5 Ellen C. Cangi, “Civilizing the People of Southeast Asia: Sir Stamford Raffles’ Town Plan for Singapore, 1819–23,” _Planning Perspectives_ 8, no. 2 (1993): 167.
+[^5]: Ellen C. Cangi, “Civilizing the People of Southeast Asia: Sir Stamford Raffles’ Town Plan for Singapore, 1819–23,” _Planning Perspectives_ 8, no. 2 (1993): 167.
 
-6 John Crawfurd, “On the Physical and Mental Characteristics of the European and Asiatic Races of Man,” _Transactions of the Ethnological Society of London_ 5 (1866): 69. (From EBSCOhost via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^6 ]: John Crawfurd, “On the Physical and Mental Characteristics of the European and Asiatic Races of Man,” _Transactions of the Ethnological Society of London_ 5 (1866): 69. (From EBSCOhost via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-7 Frederick A. Weld, “[The Straits Settlements and British Malaya](https://www.nlb.gov.sg/main/book-detail?cmsuuid=e16ae115-e10d-4619-bcc4-0e1d97672b71),” transcript of speech given to the Royal Colonial Institute in London, 1884. (From National Library Online; Call no. RRARE 959.503 WEL-\[JSB\]; Accession no. B29268823G)
+[^7]: Frederick A. Weld, “[The Straits Settlements and British Malaya](https://www.nlb.gov.sg/main/book-detail?cmsuuid=e16ae115-e10d-4619-bcc4-0e1d97672b71),” transcript of speech given to the Royal Colonial Institute in London, 1884. (From National Library Online; Call no. RRARE 959.503 WEL-\[JSB\]; Accession no. B29268823G)
 
-8 Weld, “[Straits Settlements and British Malaya](https://www.nlb.gov.sg/main/book-detail?cmsuuid=e16ae115-e10d-4619-bcc4-0e1d97672b71).”
+[^8]: Weld, “[Straits Settlements and British Malaya](https://www.nlb.gov.sg/main/book-detail?cmsuuid=e16ae115-e10d-4619-bcc4-0e1d97672b71).”
 
-9 “[The Free Press](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18531223-1.2.4),” _Singapore Free Press and Mercantile Advertiser_, 23 December 1853, 2; “[Page 3 Advertisements Column 2](https://eresources.nlb.gov.sg/newspapers/digitised/article/middayherald18980219-1.2.21.2),” _Mid-Day Herald_, 19 February 1898, 3 (From NewspaperSG). In addition, the visit was advertised in the _Straits Times_ and _Straits Budget_. The latter’s correspondent was convinced “there was something more in phrenology than is generally credited by the great unbelieving mass of humanity”. For more details, see “[The Lady Phrenologist](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget18980225-1.2.97),” _Straits Budget_, 25 February 1898, 10. (From NewspaperSG)
+[^9]: “[The Free Press](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18531223-1.2.4),” _Singapore Free Press and Mercantile Advertiser_, 23 December 1853, 2; “[Page 3 Advertisements Column 2](https://eresources.nlb.gov.sg/newspapers/digitised/article/middayherald18980219-1.2.21.2),” _Mid-Day Herald_, 19 February 1898, 3 (From NewspaperSG). In addition, the visit was advertised in the _Straits Times_ and _Straits Budget_. The latter’s correspondent was convinced “there was something more in phrenology than is generally credited by the great unbelieving mass of humanity”. For more details, see “[The Lady Phrenologist](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget18980225-1.2.97),” _Straits Budget_, 25 February 1898, 10. (From NewspaperSG)
 
 10 “[People in a Native State](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18931223-1.2.14),” _Singapore Free Press and Mercantile Advertiser_, 2 December 1893, 3. (From NewspaperSG)
 
