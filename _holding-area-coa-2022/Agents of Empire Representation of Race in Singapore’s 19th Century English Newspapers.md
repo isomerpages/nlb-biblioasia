@@ -322,17 +322,12 @@ of the ways in which it did so was by recasting Eurasians’ native halves as �
 Eurasians were half-European,  half-<i>Aryan</i>.
 
 
-     Do not disparage yourselves because of your Aryan half.
-
-     Through this half you inherit the intelligence, brain power and
-
-     chivalry of an ancient civilization, a civilization from which
-
-     Europe has borrowed its learning, and the best part of its
-
-     laws and literature and much of its arts and sciences. It is the
-
-     infusion of Aryan blood that has made the British what it is.38
+   Do not disparage yourselves because of your Aryan half<br>
+   Through this half you inherit the intelligence, brain power and<br> 
+   chivalry of an ancient civilization, a civilization from which<br> 
+   Europe has borrowed its learning, and the best part of its<br>
+    laws and literature and much of its arts and sciences. It is the<br>
+    infusion of Aryan blood that has made the British what it is.38
 
 This semantic sleight of hand helped insecure Eurasians view themselves
 as part of the ruling race, while allowing wriggle room to shower contempt
@@ -369,13 +364,10 @@ Domestic Servants Registration Ordinance encouraging employers to hire
 only registered individuals as servants came into force on 1 January 1888, the
 SEA was vexed:
 
-     The lower classes of Chinese from which we procure our
-
-     servants would sooner follow the bent of their inclinations and
-
-     turn rogues and thieves than<i> take service except on their own terms</i> 
-
-     [emphasis added].44
+   The lower classes of Chinese from which we procure our<br>
+   servants would sooner follow the bent of their inclinations and<br> 
+   turn rogues and thieves than<i> take service except on their own<br> 
+   terms</i> [emphasis added].44
 
 The recommended antidote to this intransigence was to dump them
 forcefully into “gharries” and drive them to the relevant office to be
