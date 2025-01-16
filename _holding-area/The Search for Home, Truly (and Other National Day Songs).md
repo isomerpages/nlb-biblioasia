@@ -78,6 +78,10 @@ The 1990 Sing Singapore competition was held on 21 July at the Indoor Stadium, a
 ![](/images/Vol%2021%20Issue%201/Sing%20Singapore/sing_calendar.jpg)
 <div>The Sing Singapore 1990 calendar. Singapore celebrated its 25th anniversary of independence in 1990 and a new national song, “One People, One Nation, One Singapore”, was commissioned. <i>Courtesy of National Archives of Singapore.</i></div>
 
+
+![](/images/Vol%2021%20Issue%201/Sing%20Singapore/sing_songbook.jpg)
+<div>The Sing Singapore 1990 songbook. <i>_Courtesy of Bernard G.T. Tan._</i></div>
+
 An initiative by NTUC Income in 1991 led to the national song, “It’s the Little Things”, by Patrick Seet and Ivan Chua.[^29]
 
 After the National Arts Council (NAC) was established in 1991, the new body took over the responsibility for the campaign. In 1993, the NAC brought back the creation and collection of Singapore songs into Sing Singapore. It also came up with a new branding – A Festival of Songs – for the 1994 campaign. In October 1993, the NAC invited Singaporeans to submit original songs. It attracted 48 groups that performed at the Ngee Ann City Civic Plaza in May and June the next year.[^30] The 1996 competition was called Song Fest, a catchier version of A Festival of Songs.[^31] Between 1991 and 1998, there seems to have been no new songs meant for National Day though.
