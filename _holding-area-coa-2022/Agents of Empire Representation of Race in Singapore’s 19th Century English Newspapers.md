@@ -46,10 +46,11 @@ Western modes of behaviour, lifestyle and clothing.[^5]
 Four decades after leaving Singapore, its second Resident, the inveterate
 traveller and writer John Crawfurd, observed:
 
+
 In understanding, in judgment, in taste, in invention, in reach<br> 
 of imagination, in enterprise, in perseverance, and in the<br> 
 moral sense, the European, placed under equally favourable<br> 
-conditions, is greatly superior to the Asiatic. [^6]
+conditions, is greatly superior to the Asiatic.[^6]
 
 
 Sir Frederick Weld, Governor of the Straits Settlements (1880–87),
