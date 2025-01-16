@@ -80,19 +80,19 @@ Occasionally, the  <i> Free Press </i>  printed chapters from new books in
 serialised form. One chapter titled “The Chinese Towkay” from a book
 called  <i> People in a Native State </i> , published on 2 December 1893, is illustrative:
 
-     Many Towkays I know are perfectly at home with a knife and
+Many Towkays I know are perfectly at home with a knife and
 
-     fork, indeed some of them give capital dinners. As they have
+fork, indeed some of them give capital dinners. As they have
 
-     educated themselves so far towards civilized society, it is to be
+educated themselves so far towards civilized society, it is to be
 
-     hoped that they will continue to progress and thereby in time
+hoped that they will continue to progress and thereby in time
 
-     cultivate a correct palate for champagne and other wines, so
+cultivate a correct palate for champagne and other wines, so
 
-     that “Comet” and other wonderful but undrinkable beverages
+that “Comet” and other wonderful but undrinkable beverages
 
-     may no longer adorn (?) their hospitable tables.[^10]
+may no longer adorn (?) their hospitable tables.[^10]
 
 But the newspapers’ role extended beyond mere conduits of information;
 they must be situated within a suitable theoretical framework.
