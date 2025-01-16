@@ -9,7 +9,7 @@ variant: markdown
 
 The grandeur and opulence of Eu Villa on Mount Sophia was unrivalled in its heyday.
 
-<img src="/images/Online%20Only%20Articles/EU%20Villa/EU_Villa_colour_homepage.jpg" style="width:80%;">
+<img src="/images/Online%20Only%20Articles/EU%20Villa/aerial_view_topics.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-4/jan-mar-2024/william-lim-archictect-w-associates/">Remembering William Lim</a>
