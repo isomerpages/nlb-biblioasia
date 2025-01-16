@@ -412,7 +412,7 @@ which served to further reify racialised hierarchies in Singapore.
 #### **Barbarians, the Lot of Them**
 
    It is absurd that such a wealthy country should be left in the<br> 
-   hands of blood-thirsty treacherous savages.52
+   hands of blood-thirsty treacherous savages.[^52]
 
 Times of crisis serve as an interesting counterpoint to the breezy news
 coverage of the New Year’s Day sports. While the latter painted a picture of
@@ -421,7 +421,7 @@ them in almost bestial terms.
 
 Part of this was down to fear. Singapore’s European population, rapidly
 though it had grown in the latter half of the 19th century, was small compared to the rest; it rippled with fear at any hint of disquiet among
-the locals.53
+the locals.[^53]
 
 The November 1875 murder of the Perak Resident James Birch was
 one such crisis that reverberated up and down Malaya. Birch, a long-term
@@ -431,14 +431,14 @@ in theory an advisory one, but this was, in the words of Frederick Weld,
 “one of those fictions in which we seem to delight, as not a penny of money
 can be spent out of the State revenues without the assent of the Governor,
 and, under him, the military or police force is entirely in the hands of
-the Resident”.54
+the Resident”.[^54]
 Birch, invested thus with immense power, was not well liked by the
 ruling chiefs, who thought him unduly meddlesome. They approached the
 Straits Settlements’ Governor Andrew Clarke with a petition to prevent
 Birch from interfering in local customs, including the right to levy taxes
 on their people and maintain slaves. After receiving a tepid response, a few
 chiefs conspired to murder the Resident in cold blood. It is beyond the
-scope of this paper to analyse this incident.55 It shall instead focus on local
+scope of this paper to analyse this incident.[^55] It shall instead focus on local
 developments in the immediate aftermath of the murder and the reaction
 the murder elicited in Singapore’s English-language media.
 
@@ -447,17 +447,17 @@ Governor Sir William Jervois (1875–77), passed a slew of ordinances to curb
 the chances of any violent outbreak on the island. Sale or purchase of arms,
 including bayonets, swords, daggers, krisses, spears and all other “weapons
 of offence”, was immediately banned; they could be procured only when a
-licence was issued by an officer appointed with the Governor’s sanction.56
+licence was issued by an officer appointed with the Governor’s sanction.[^56]
 In discussions over how the crisis should be handled, one member of the
 Legislative Council invoked his long experience of having dealt with the Malays to suggest that the best way to teach them a lesson would be by
-hanging them.57
+hanging them.[^57]
 
 As British troops from Singapore, Melaka and Penang left for Perak,
 a tremor of fear went through the defenceless settlements. The SO called
 upon the Volunteer Defence Force to band together as one in front of the
 native public, in case the latter was harbouring any treacherous ideas, and
 published numerous letters from members of the public who were baffled at
-the force’s inaction after the troops’ departure.58
+the force’s inaction after the troops’ departure.[^58]
 
 Meanwhile, the newspaper continued to publish regular, detailed reports
 of the action unfolding in Perak and surrounding areas. Speaking about
@@ -470,14 +470,14 @@ beliefs and desires:
    out we are in earnest… There is no equal stretch of land under<br>
    the tropics so rich in minerals. <i>These the Malays do not work</i><br>
    [emphases added] and the Chinaman will sink no money in<br>
-   unless the British occupy it.59
+   unless the British occupy it.[^59]
 
 The mercantile class in Singapore, Penang and Melaka had been eyeing
 the fecund Perak land at least since the Straits Settlements became a Crown
 Colony, run directly from London instead of India. To this end, they had
 pressured every governor since Harry Ord to entrench British commercial
 interests in the region, ramping up the pressure after the 1874 Treaty of
-Pangkor recognised British suzerainty on the Malay Peninsula.60 Some had invoked England’s moral duty to civilise the land, others the desire to save
+Pangkor recognised British suzerainty on the Malay Peninsula.[^60] Some had invoked England’s moral duty to civilise the land, others the desire to save
 the oppressed peasants from feckless chiefs.
 
 Birch’s brutal murder convinced the authorities that action had to
@@ -491,7 +491,7 @@ the strength of feeling that prevailed in this matter. Of course, the prospect
 of being able to mine, strip and cultivate Perak was attractive too. Any
 tax imposed could be recouped, because not only was the region awash
 in minerals, its soil was also hospitable to cash crops like tea, coffee and
-tobacco, and its forests rich in timber.61
+tobacco, and its forests rich in timber.[^61]
 
 Months later, when the war was won and the deposed chief’s regalia
 put on public display at the Legislative Council, the SO was dismayed at its
@@ -499,7 +499,7 @@ impoverished nature – “one small gold kris, two passable sword hilts, and a
 large piece of glass enclosed in filagree work” and other things that looked
 like they belonged in a pantomime. The paper mourned that if this “be
 the most we are to get from Perak, that much vaunted country will not be
-worth annexing”.62
+worth annexing”.[^62]
 
 However, there was another, more critical reason for invasion that the
 paper itself expressed: Britain could not afford to lose face. “British prestige”
@@ -512,7 +512,7 @@ spilled over on the SO’s pages.
    hobnailed boot on the bare back of a Malay. Another moral<br> 
    suasion project is to have some gun practice. How the Malays<br> 
    would stare to see an extempore butt, a target in mid stream<br>
-   smashed to atoms.63
+   smashed to atoms.[^63]
 
 As the tide began to turn in Britain’s favour, attention switched to what
 should be done with Perak. Leaving it to the “Chiefs and Chinamen” to
@@ -520,7 +520,7 @@ fight it out was out of the question. One newspaper thought of installing
 a “native puppet” whose strings would be in English hands, while the SO
 suggested that “as we shall have to govern it in any case, we may as well
 govern it openly, without the inconvenient hypocrisy of using a native
-speaking-trumpet”.64 As it turned out, one such puppet and trumpet by
+speaking-trumpet”.[^64] As it turned out, one such puppet and trumpet by
 the name of Raja Yusof was installed with a new Resident, Hugh Low, in
 tow, thus entrenching British dominance in the Malay states for a long time
 to come.
@@ -543,17 +543,17 @@ British mission was to civilise the locals for their own good. As Charles
 Hirschman noted, “Racism provided a rationale for the ‘white man’s burden’
 of leading, ruling, or conquering peoples at ‘lower evolutionary stages’
 throughout the world. This ideology fitted well with the British need to
-justify its empire.”65
+justify its empire.”[^65]
 
 The empire casts a long shadow, and old stereotypes continue to
 infiltrate modern popular culture. A study conducted in 2020 on football
-commentary concluded that it “hardens the view of black athletes being their ‘God-given’ physical and athletic attributes”.66 Closer to home, the
+commentary concluded that it “hardens the view of black athletes being their ‘God-given’ physical and athletic attributes”.[^66]Closer to home, the
 “*lepak* Malay guy” is a trope that has endured ever since Malays were
 characterised as a lazy, uncivilised race for their refusal to be a part of
-colonial capitalism.67 None of this is new, but by making newspapers the
+colonial capitalism.[^67] None of this is new, but by making newspapers the
 foci of analysis, it becomes apparent that 19th-century newspapers that
 framed their concerns in starkly racial terms foreshadowed the racially
-tinged immigration debates occurring in Singapore today.68
+tinged immigration debates occurring in Singapore today.[^68]
 
 #### **Acknowledgements**
 
