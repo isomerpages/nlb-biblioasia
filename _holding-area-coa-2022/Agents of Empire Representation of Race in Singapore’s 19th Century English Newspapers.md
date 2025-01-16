@@ -269,13 +269,10 @@ racial differences.
 
 #### **Native? Who, Me?**
 
-     [P]ure natives are as distinct from Eurasians as chalk and
-
-     cheese, and it is well that this should be known; for owing to
-
-     this very common mistake, the Eurasian body has suffered
-
-     considerably.32
+   [P]ure natives are as distinct from Eurasians as chalk and<br>
+   cheese, and it is well that this should be known; for owing to<br> 
+   this very common mistake, the Eurasian body has suffered<br>
+   considerably.32
 
 In the late 19th century, the Padang was a curious site: a quasi-democratic
 venue to which all races descended for New Year festivities, and also a place
