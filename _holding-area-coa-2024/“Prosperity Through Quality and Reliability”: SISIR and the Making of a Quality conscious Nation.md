@@ -35,7 +35,7 @@ Finally, I explore a variety of suggestive indicators of SISIR’s success – r
 #### **Origins – The 1968 National Conference on Scientific and Technical Co-operation Between Industries and Governmental Bodies**	
 
 <img src="/images/COA%202024/Prosperity%20Through%20Quality/Conferences_1_and_2.jpg" style="width:100%;">
- <div style="background-color: white;"><i>Image reproduced from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759"><i> Summary of Proceedings: Singapore Conference Hall 23rd to 26th October, 1968: National Conference on Scientific and Technical Co-operation between Industries and Governmental Bodies</i></a>(Singapore: Singapore Institute of Standards and Industrial Research, 1986), 14. (From National Library, Singapore, call no. 381.33).</i></div>
+ <div style="background-color: white;"><i>Images reproduced from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759"><i> Summary of Proceedings: Singapore Conference Hall 23rd to 26th October, 1968: National Conference on Scientific and Technical Co-operation between Industries and Governmental Bodies</i></a>(Singapore: Singapore Institute of Standards and Industrial Research, 1986), 13-14. (From National Library, Singapore, call no. 381.33).</i></div>
 
 
 The early days of the Republic were a time of economic anxiety, and the government decided the only way forward involved the rapid appropriation and deployment of Science and Technology. In February 1966, an Ad Hoc Scientific Committee was established to advise the government on scientific matters, but its non-official status meant it lacked funding and access to confidential data. To remedy these shortcomings, Deputy Prime Minister Dr Toh Chin Chye introduced the Science Council of Singapore Bill in 1967 to grant this advisory body official status. Among its envisioned functions were to investigate technical problems such as the effective deployment of utilities and the prevention of pollution, to establish relationships with other scientific bodies, and “to study how industrial development [could] be promoted by the effective training and utilisation of scientific and technological manpower”.[^4]  It would be headed by Dr Lee Kum Tatt, then a biochemist at the Ministry of Health.[^5] 
@@ -142,7 +142,7 @@ While the official campaign only ran between February and October of 1973, PQR Q
 
 Notable Singaporean designer William Lee designed a logo for the campaign. The “Q” was intentionally designed to resemble “a prize-winning rosette”, suggesting that carrying the PQR symbol was akin to a stamp of approval. Hundreds of manufacturers flew flags of the PQR logo at their factories to express their commitment to quality.[^60]   
 
-<img src="/images/COA%202024/Prosperity%20Through%20Quality/PQR_flag.jpg" style="width:100%;">
+<img src="/images/COA%202024/Prosperity%20Through%20Quality/PQR_flag.jpg" style="width:80%;">
 <div style="background-color: white;">The PQR flag. <i>Image reproduced from<a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4821366">  Industrial News and Research</a>        (Singapore: Singapore Institute of Standards and Industrial Research, September 1972), 15. (From National Library, Singapore, call no. RSING 607.25957)</i></div>  
 
 To commemorate the launch of the campaign, William Lee also designed a set of four stamps. He explained that each stamp’s design was carefully chosen for strategic messaging: the 15 cents stamp used giant cutouts of the three major sponsors of PQR – SISIR, SMA, and NTUC – to emphasise how the united striving of “hardworking Singaporeans make the PQR concept a reality;” the rainbow colouring on the text of the 35 cents stamp was meant to “[project] scientific precision and cleanliness” while the rosette shape evokes “an approval effect;” the repetitious and colourful layout of the 75 cents stamp and the $1 stamp’s gold logo against a white background were intended to associate the Singapore brand with prestige and quality.[^61]  
@@ -161,7 +161,17 @@ Of the numerous approaches SISIR took to woo consumers, the most visually striki
 
 To build a case for customers to avail its services, SISIR first constructed an image of the vulnerable consumer. Customers apparently used heuristics like attractive packaging, cost and advertisements, to help them make their choices in a crowded marketplace.
 
+
+<img src="/images/COA%202024/Prosperity%20Through%20Quality/buying_to_specifications_p3.jpg" style="width:80%;">
+<div style="background-color: white;"><i>Image reproduced from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=203884291"><i>Buying to Specifications</i></a> (Singapore: Singapore Institute of Standards and Industrial Research, 1986), 3. (From National Library, Singapore, call no. 381.33).</i></div>
+
+
 Unfortunately, these heuristics were fallible, as consumers could not be certain about the provenance and quality of products. As the 1978 booklet *Standards in Your Life* pointed out, in an open economy like Singapore, “it is impossible for the consumer to judge visually whether paints are poisonous, the wiring of an electrical appliance is safe, a food product meets the health claims, and which brand gives better value for money.”[^66] 
+
+![](/images/COA%202024/Prosperity%20Through%20Quality/Buying_and_better_value.jpg)
+
+<img src="/images/COA%202024/Prosperity%20Through%20Quality/Buying_and_better_value.jpg" style="width:80%;">
+<div style="background-color: white;"><i>Images reproduced from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=203884291"><i>Buying to Specifications</i></a> (Singapore: Singapore Institute of Standards and Industrial Research, 1986), 4. (From National Library, Singapore, call no. 381.33) and <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4182364"><i> Better Value for Money: A Basic Guide for Consumers and Manufacturers</i></a>        (Singapore: SISIR, 1976), 29. (From National Library, Singapore, call no. RCLOS 640.73 SIN) </i></div>
 
 Standards, however, could cut through this cloud of uncertainty by letting consumers know whether a product’s essential requirements had been met, allowing them to avoid both unsafe and overpriced alternatives.
 
