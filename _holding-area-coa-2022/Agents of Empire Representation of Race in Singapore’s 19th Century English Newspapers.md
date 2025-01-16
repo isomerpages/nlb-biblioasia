@@ -395,14 +395,6 @@ Indians and the Chinese and as singers of obscene songs that disturbed
 the public peace at night.49 Occasionally, calls were made to replace
 “outlandish” native road names with “decent ones”.50
 
-Relative to the Chinese and the Indians, the Malays were far removed
-from the colonial enterprise and thus from Singapore’s public life. This was
-reflected in their absence from the SEA’s pages. The few times they did
-appear, it was as part of gangs that indulged in brutish violence against the
-Indians and the Chinese and as singers of obscene songs that disturbed
-the public peace at night.49 Occasionally, calls were made to replace
-“outlandish” native road names with “decent ones”.50
-
 The paper tried to acquire this currency for its audience not just by
 highlighting their achievements but by using language that debased
 the native populace’s habits, culture and tradition. It inflicted linguistic
@@ -413,9 +405,8 @@ which served to further reify racialised hierarchies in Singapore.
 #### **Barbarians, the Lot of Them**
 
      
-It is absurd that such a wealthy country should be left in the
-
-     hands of blood-thirsty treacherous savages.52
+   It is absurd that such a wealthy country should be left in the<br> 
+   hands of blood-thirsty treacherous savages.52
 
 Times of crisis serve as an interesting counterpoint to the breezy news
 coverage of the New Year’s Day sports. While the latter painted a picture of
@@ -468,17 +459,12 @@ one recalcitrant chief’s desire to surrender in the face of the relentless Bri
 assault, a correspondent wrote in with a comment that revealed colonial
 beliefs and desires:
 
-     With the <i>true instinct of the ignoble savage</i>, he wishes to sneak
-
-     out of the consequences of his treachery as soon as he finds
-
-     out we are in earnest… There is no equal stretch of land under
-
-     the tropics so rich in minerals. <i>These the Malays do not work</i>
-
-     [emphases added] and the Chinaman will sink no money in
-
-     unless the British occupy it.59
+   With the <i>true instinct of the ignoble savage</i>, he wishes to sneak<br>
+   out of the consequences of his treachery as soon as he finds<br>
+   out we are in earnest… There is no equal stretch of land under<br>
+   the tropics so rich in minerals. <i>These the Malays do not work</i><br>
+   [emphases added] and the Chinaman will sink no money in<br>
+   unless the British occupy it.59
 
 The mercantile class in Singapore, Penang and Melaka had been eyeing
 the fecund Perak land at least since the Straits Settlements became a Crown
