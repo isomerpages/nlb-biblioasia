@@ -50,7 +50,7 @@ The exhibition, which showcased over 100 paintings and sketches, was well receiv
 
   
 
-说自家》**(On Myself), an autobiographical article by Liu Kang**
+**《说自家》(On Myself), an autobiographical article by Liu Kang**
 
 Liu Kang’s autobiographical article is titled《说自家》(On Myself). This 18-page manuscript offers a deeply personal and introspective look at the artist’s life as he shares his perspectives and recollections of his years in Paris. It was probably written in the early 1950s, making this the earliest known account by Liu Kang on the beginning of his art journey.
 
