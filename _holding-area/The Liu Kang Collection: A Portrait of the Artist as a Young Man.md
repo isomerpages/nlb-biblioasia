@@ -33,12 +33,15 @@ There are also items such as the catalogue, guest book and invitation card to hi
 
 Liu Kang held his first solo exhibition, 刘抗先生作画三十年纪念展览会, at the Victoria Memorial Hall from 7 to 15 December 1957, when he was 46 years old. The exhibition commemorated the 30th anniversary of his artistic journey.&nbsp;
 
+The invitation card to the exhibition’s opening featured a sketch of a sculptor at work, which is likely to be inspired by Liu Kang’s trip to Bali in 1952. It provided details on the date, time and venue of the opening ceremony, and the guest-of-honour – the well-known businessman and philanthropist Lee Kong Chian.
+
 ![](/images/Vol%2021%20Issue%201/Liu%20Kang/liukang_invitation.jpg)
 <div>The invitation card to Liu Kang’s solo exhibition, 刘抗先生作画三十年纪念展览会, held in 1957.  <i>Liu Kang Collection, National Library Singapore.</i></div>
 
-The invitation card to the exhibition’s opening featured a sketch of a sculptor at work, which is likely to be inspired by Liu Kang’s trip to Bali in 1952. It provided details on the date, time and venue of the opening ceremony, and the guest-of-honour – the well-known businessman and philanthropist Lee Kong Chian.
-
 Similar information on the opening ceremony was recorded on the first leaf of the guestbook. It is a red accordion-style book that has a fabric cover with dragon motifs. Many personalities from Singapore’s cultural sphere attended the event. The guests who signed the guestbook included artists such as Chen Chong Swee, Huang Pao Fang, Lim Tze Peng and Wee Beng Chong as well as other critics, historians, writers and art collectors.
+
+![](/images/Vol%2021%20Issue%201/Liu%20Kang/liukang_guestbook.jpg)
+<div>The guestbook of Liu Kang’s first solo exhibition, 刘抗先生作画三十年纪念展览会, held in 1957.  <i>Liu Kang Collection, National Library Singapore.</i></div>
 
   
 
