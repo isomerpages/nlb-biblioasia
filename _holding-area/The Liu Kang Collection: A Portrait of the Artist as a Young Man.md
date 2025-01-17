@@ -63,12 +63,14 @@ The exhibition, which showcased over 100 paintings and sketches, was well receiv
 ![](/images/Vol%2021%20Issue%201/Liu%20Kang/liukang_catalogue.jpg)
 <div> The title of the painting, “Scene in the street”, in the draft exhibition catalogue (bottom) was replaced with “Street scene. Bali” in the printed catalogue (top). This suggests that Liu Kang deliberated over the titles of his artworks. <i>Liu Kang Collection, National Library Singapore.</i></div>
 
-  
-  
 
 **《说自家》(On Myself), an autobiographical article by Liu Kang**
 
 Liu Kang’s autobiographical article is titled《说自家》(On Myself). This 18-page manuscript offers a deeply personal and introspective look at the artist’s life as he shares his perspectives and recollections of his years in Paris. It was probably written in the early 1950s, making this the earliest known account by Liu Kang on the beginning of his art journey.
+
+![](/images/Vol%2021%20Issue%201/Liu%20Kang/liukang_autobiographical.jpg)
+<div>Liu Kang’s autobiographical article, 1950s. <i>Liu Kang Collection, National Library Singapore.</i></div>
+
 
 In the opening lines of the autobiographical article, Liu Kang offered a candid and revealing portrait of himself. He wrote that he saw himself more as a teacher than an artist, as he spent much of his time in the classrooms rather than on his own art. Liu Kang also recalled moments in his life that may have contributed to his art.&nbsp;
 
@@ -79,6 +81,10 @@ Liu Kang was also known for writing on various topics in relation to the arts, b
 Liu Kang wrote notes for his public talks, some of which were published in newspapers and in the 1981 anthology. Not all the transcripts of his talks have been published. Fortunately, the notes for three of his talks have been donated to the National Library, providing insights into his thought process.&nbsp;
 
 These are notes for “A Good Piece of Painting” (Young Men’s Christian Association; 25 January 1972), “On Oil Painting” (National Library; 17 June 1972) and “How to Appreciate a Painting” (early 1980s). In the notes for “On Oil Painting”, Liu Kang wrote that copying the masterpieces of well-known artists as practice would help to improve one’s art skills and that one could start with sketching sculptures, still life, landscapes and portraits.
+
+![](/images/Vol%2021%20Issue%201/Liu%20Kang/liukang_talk.jpg)
+<div> “A Good Piece of Painting”, a talk given at the Young Men’s Christian Association on 25 January 1972. <i>Liu Kang Collection, National Library Singapore.</i></div>
+
 
 These notes provide us with a better understanding of Liu Kang’s views on art, and the guiding principles of his creative process.
 
