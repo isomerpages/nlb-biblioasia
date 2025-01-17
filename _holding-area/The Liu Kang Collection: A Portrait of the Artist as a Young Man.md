@@ -156,11 +156,11 @@ An exhibition titled “Untold Stories: Four Singapore Artists’ Quest for Insp
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/BernardTana.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/GohYuMei.png">
 <b>Goh Yu Mei</b> is a Librarian with the National Library Singapore, working with the Chinese Arts and Literary Collection. Her research interests lie in the intersection between society, and Chinese literature and arts.</div>
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/BernardTana.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/NadiaRamli.png">
 <b>Nadia Ramli</b> is a Senior Librarian (Outreach) with the National Library Singapore. She writes about the visual and literary arts, and has conducted numerous outreach programmes advocating information literacy.</div>
 
 #### **NOTES**
