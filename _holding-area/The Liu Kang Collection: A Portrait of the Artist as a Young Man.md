@@ -55,7 +55,7 @@ The draft of Liu Kang’s first solo exhibition catalogue includes an introducti
 
 In 1952, Liu Kang, together with Chen Chong Swee, Chen Wen Hsi and Cheong Soo Pieng, went to Java and Bali in search of artistic inspiration. A year later, in November 1953, the four men held a seminal joint exhibition at the British Council. This exhibition has been viewed as a “turning point” for the history of modern art in Singapore. Art historians Jeffrey Say and Seng Yu Jin noted its “new visual language that was distinctly modern in the local context”.[^4] This new visual language refers to the experimentations in artistic styles that would retrospectively be viewed as exemplifying Nanyang art. &nbsp;
 
-![](/images/Vol%2021%20Issue%201/Liu%20Kang/liukang_exhibition1953.jpg)
+![](/images/Vol%2021%20Issue%201/Liu%20Kang/liukang_exhibition1953b.jpg)
 <div>(From left) Mrs Loke Wan Tho, Indonesian Consul-General Mohamed Razif, Carl Alexander Gibson-Hill and Liu Kang at Liu Kang’s exhibition held at the British Council, 1953. <i>Liu Kang Collection, National Library Singapore.</i></div>
 
 The exhibition, which showcased over 100 paintings and sketches, was well received and drew large crowds. Opened by Indonesian Consul-General Mohamed Razif, the exhibition was visited by prominent figures in Singapore, including Malcolm MacDonald, Commissioner-General in Southeast Asia; Carl Alexander Gibson-Hill, the last expatriate director of the Raffles Museum; and Loke Wan Tho, cinema magnate and founder of Cathay Organisation, and his wife.[^5]
@@ -106,7 +106,7 @@ Other notable guests included the Chinese artist Xu Beihong (徐悲鸿), who ded
 
 Liu Kang taught art in schools for most of his working life in Singapore. In 1948, he led the graduating batch of senior high students from Chung Cheng High School on a three-week trip to the Malay Peninsula, visiting various towns and cities such as Muar, Melaka, Cameron Highlands, Ipoh and Penang. Several of the photos taken during the trip show Liu Kang with a sketchbook.&nbsp;
 
-![](/images/Vol%2021%20Issue%201/Liu%20Kang/liukang_students.jpg)
+![](/images/Vol%2021%20Issue%201/Liu%20Kang/liukang_students2.jpg)
 <div>Chung Cheng High School students in the Malay Peninsula, 1948. <i>Liu Kang Collection, National Library Singapore.</i></div>
 
 
@@ -130,7 +130,7 @@ Liu Kang was also an avid photographer and traveller. On his sketching trips, he
 
 The photographs taken during Liu Kang’s visit to India in 1971 with more than 20 other prominent Singapore artists capture the people and culture of the country.[^8] Led by Yeh Chi Wei, president of the Southeast Asia Art Society, the cultural trip was part of a month-long tour across 17 cities in India, Nepal, Thailand and Burma.[^9] “Besides visiting scenic spots and admiring great architecture, our greatest wish was to use its rich spirit and majestic styles as a source of inspiration and reference for our artistic creation,” Liu Kang wrote in his essay, “I Love India”.[^10]
 
-![](/images/Vol%2021%20Issue%201/Liu%20Kang/liukang_musicians.jpg)
+![](/images/Vol%2021%20Issue%201/Liu%20Kang/liukang_musicians2.jpg)
 <div>Indian musicians playing the tabla, sitar and harmonium, 1971.  <i>Liu Kang Collection, National Library Singapore.</i></div>
 
 ![](/images/Vol%2021%20Issue%201/Liu%20Kang/liukang_musicianspainting.jpg)
