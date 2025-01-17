@@ -55,6 +55,9 @@ The draft of Liu Kang’s first solo exhibition catalogue includes an introducti
 
 In 1952, Liu Kang, together with Chen Chong Swee, Chen Wen Hsi and Cheong Soo Pieng, went to Java and Bali in search of artistic inspiration. A year later, in November 1953, the four men held a seminal joint exhibition at the British Council. This exhibition has been viewed as a “turning point” for the history of modern art in Singapore. Art historians Jeffrey Say and Seng Yu Jin noted its “new visual language that was distinctly modern in the local context”.[^4] This new visual language refers to the experimentations in artistic styles that would retrospectively be viewed as exemplifying Nanyang art. &nbsp;
 
+![](/images/Vol%2021%20Issue%201/Liu%20Kang/liukang_exhibition1953.jpg)
+<div>(From left) Mrs Loke Wan Tho, Indonesian Consul-General Mohamed Razif, Carl Alexander Gibson-Hill and Liu Kang at Liu Kang’s exhibition held at the British Council, 1953. <i>Liu Kang Collection, National Library Singapore.</i></div>
+
 The exhibition, which showcased over 100 paintings and sketches, was well received and drew large crowds. Opened by Indonesian Consul-General Mohamed Razif, the exhibition was visited by prominent figures in Singapore, including Malcolm MacDonald, Commissioner-General in Southeast Asia; Carl Alexander Gibson-Hill, the last expatriate director of the Raffles Museum; and Loke Wan Tho, cinema magnate and founder of Cathay Organisation, and his wife.[^5]
 
 ![](/images/Vol%2021%20Issue%201/Liu%20Kang/liukang_catalogue.jpg)
