@@ -94,6 +94,10 @@ These notes provide us with a better understanding of Liu Kang’s views on art,
 
 Han Wai Toon, a collector and expert in antique ceramics, held frequent gatherings at his residence and rambutan orchard on Thomson Road – Yu Qu Yuan (愚趣园; Garden of Foolish Indulgence). The Chinese literati and scholars would meet to enjoy fresh rambutans and appreciate his collection of ceramics, and ink and calligraphic works. Liu Kang was one of the visitors to the orchard. Besides his knowledge on antique ceramics, Han was also known for his rambutans grown with special grafting techniques that he had experimented with.
 
+![](/images/Vol%2021%20Issue%201/Liu%20Kang/liukang_guests.jpg)
+<div> Guests at Yu Qu Yuan (Garden of Foolish Indulgence) along Thomson Road. The photo was likely taken between the late 1940s and early 1960s. <i>Liu Kang Collection, National Library Singapore.</i></div>
+
+
 Other notable guests included the Chinese artist Xu Beihong (徐悲鸿), who dedicated a painting of rambutans to Han, and writer Yu Dafu (郁达夫), who wrote “不辞客路三千里，来啖红毛五月丹” (Travelling three thousand _li_ just to taste rambutans in May). When Han returned to China in 1962, his friends commissioned a work by the artist Lim Mu Hue titled _Han Rambutan Orchard_ as a farewell gift.[^7]
 
   
@@ -101,6 +105,10 @@ Other notable guests included the Chinese artist Xu Beihong (徐悲鸿), who ded
 **Photographs of Chung Cheng High School graduation trip in 1948**
 
 Liu Kang taught art in schools for most of his working life in Singapore. In 1948, he led the graduating batch of senior high students from Chung Cheng High School on a three-week trip to the Malay Peninsula, visiting various towns and cities such as Muar, Melaka, Cameron Highlands, Ipoh and Penang. Several of the photos taken during the trip show Liu Kang with a sketchbook.&nbsp;
+
+![](/images/Vol%2021%20Issue%201/Liu%20Kang/liukang_students.jpg)
+<div>Chung Cheng High School students in the Malay Peninsula, 1948. <i>Liu Kang Collection, National Library Singapore.</i></div>
+
 
   
 
