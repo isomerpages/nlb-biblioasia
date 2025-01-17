@@ -57,6 +57,10 @@ In 1952, Liu Kang, together with Chen Chong Swee, Chen Wen Hsi and Cheong Soo Pi
 
 The exhibition, which showcased over 100 paintings and sketches, was well received and drew large crowds. Opened by Indonesian Consul-General Mohamed Razif, the exhibition was visited by prominent figures in Singapore, including Malcolm MacDonald, Commissioner-General in Southeast Asia; Carl Alexander Gibson-Hill, the last expatriate director of the Raffles Museum; and Loke Wan Tho, cinema magnate and founder of Cathay Organisation, and his wife.[^5]
 
+![](/images/Vol%2021%20Issue%201/Liu%20Kang/liukang_catalogue.jpg)
+<div> The title of the painting, “Scene in the street”, in the draft exhibition catalogue (bottom) was replaced with “Street scene. Bali” in the printed catalogue (top). This suggests that Liu Kang deliberated over the titles of his artworks. <i>Liu Kang Collection, National Library Singapore.</i></div>
+
+  
   
 
 **《说自家》(On Myself), an autobiographical article by Liu Kang**
