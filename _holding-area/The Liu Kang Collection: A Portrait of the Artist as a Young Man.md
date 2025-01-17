@@ -112,9 +112,13 @@ Liu Kang taught art in schools for most of his working life in Singapore. In 194
 
   
 
-**Photographs of Liu Kang painting Liu Haisu’s portrait in 1987**&nbsp;
+**Photographs of Liu Kang painting Liu Haisu’s portrait in 1987**
 
 Liu Haisu (刘海粟) was a prominent Chinese painter who became acquainted with Liu Kang in the 1920s when the latter was enrolled at the Shanghai Art Academy. Liu Haisu was then the principal of the academy. Later, when Liu Kang was studying art in Paris in 1928, Liu Haisu went on a study trip to Europe and asked Liu Kang along. In 1932, Liu Haisu invited Liu Kang to teach art at the academy.&nbsp;
+
+![](/images/Vol%2021%20Issue%201/Liu%20Kang/liukang_liukang2.jpg)
+<div>Liu Kang (left) showing Liu Haisu (right) his portrait, 1987. <i>Liu Kang Collection, National Library Singapore.</i></div>
+
 
 After Liu Kang left Shanghai in 1937, the two men remained in contact despite the political turmoil in Southeast Asia and China. In 1987, Liu Haisu visited Singapore for his exhibition that Liu Kang had helped coordinate. These photographs captured a private moment that was not reported in the newspapers. Liu Kang had painted a pastel portrait of Liu Haisu, and the latter in turn inscribed on the portrait the Chinese text “抗弟为画像至难得” (meaning that it was rare that Liu Kang had drawn a portrait of him).
 
@@ -126,12 +130,21 @@ Liu Kang was also an avid photographer and traveller. On his sketching trips, he
 
 The photographs taken during Liu Kang’s visit to India in 1971 with more than 20 other prominent Singapore artists capture the people and culture of the country.[^8] Led by Yeh Chi Wei, president of the Southeast Asia Art Society, the cultural trip was part of a month-long tour across 17 cities in India, Nepal, Thailand and Burma.[^9] “Besides visiting scenic spots and admiring great architecture, our greatest wish was to use its rich spirit and majestic styles as a source of inspiration and reference for our artistic creation,” Liu Kang wrote in his essay, “I Love India”.[^10]
 
+![](/images/Vol%2021%20Issue%201/Liu%20Kang/liukang_musicians.jpg)
+<div>Indian musicians playing the tabla, sitar and harmonium, 1971.  <i>Liu Kang Collection, National Library Singapore.</i></div>
+
+![](/images/Vol%2021%20Issue%201/Liu%20Kang/liukang_musicianspainting.jpg)
+<div><i>Indian Musicians</i> by Liu Kang (1972), oil on canvas, 73 × 94 cm. <i>Gift of the artist’s family. Collection of National Gallery Singapore.</i></div>
+
   
 
 **Prints of Liu Kang’s commissioned sketches of Raffles Hotel staff**
 
 In 1993, the Raffles Hotel commissioned Liu Kang to create a collection of pastel portraits of its staff. He drew more than 20 sketches, eight of which were chosen to be exhibited at the hotel’s museum in 1994, along with some of Liu Kang’s artworks.[^11]
 
+
+![](/images/Vol%2021%20Issue%201/Liu%20Kang/liukang_prints.jpg)
+<div>Prints of pastel portraits of Raffles Hotel staff, 1993.  <i>Liu Kang Collection, National Library Singapore.</i></div>
 
 
 
