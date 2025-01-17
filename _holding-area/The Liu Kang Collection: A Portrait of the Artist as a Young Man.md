@@ -8,6 +8,9 @@ description: ""
 By Goh Yu Mei and Nadia Ramli
 
 
+![](/images/Vol%2021%20Issue%201/Liu%20Kang/liukang_facing.jpg)
+<div>Liu Kang painting in Yu Qu Yuan (Garden of Foolish Indulgence), a 2.5-acre estate along Thomson Road belonging to Han Wai Toon. The photo was likely taken between the late 1940s and early 1960s. <i>Liu Kang Collection, National Library Singapore.</i></div>
+
 One of Singapore’s pioneering artists, Liu Kang (1911–2004) played a significant role in the development of the Singapore art scene. He, together with many of his contemporaries – such as Chen Chong Swee, Chen Wen Hsi and Cheong Soo Pieng – had turned to Southeast Asian subjects as inspiration for their artworks.&nbsp;
 
 Influenced by both Eastern and Western art traditions, these artists also experimented and developed new art forms. Art historians have noted this trend, now commonly known as Nanyang art or Nanyang style, as one of the most significant movements in the history of art in Singapore.&nbsp;
