@@ -17,6 +17,16 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 20 Issue 4/Japanese Anglican/HeroImage_anglican3.jpg
   - infopic:
+      title: Uncovering the Origins of Badang the Strongman
+      subtitle: People
+      id: infopic
+      description: Relics of Badang the Strongman can be found throughout the region.
+        But who was this enigmatic figure?
+      button: Badang’s Rocks
+      url: /vol-21/issue-1/apr-jun-2025/origins-badang-strongman-singapore-stone/
+      image: /images/Vol 21 Issue 1/Badang/Badang_Topics.jpg
+      alt: Badang
+  - infopic:
       title: "Barbara Kerr: Girl Guide Extraordinaire"
       subtitle: People
       id: infopic
@@ -1146,14 +1156,4 @@ sections:
       image: /images/Vol 19 Issue 4/An Interview with Rachel Heng/book
         cover_homepage3.jpg
       alt: The Great Reclamation
-  - infopic:
-      title: Uncovering the Origins of Badang the Strongman
-      subtitle: People
-      id: infopic
-      description: Relics of Badang the Strongman can be found throughout the region.
-        But who was this enigmatic figure?
-      button: Badang’s Rocks
-      url: /vol-21/issue-1/apr-jun-2025/origins-badang-strongman-singapore-stone/
-      image: /images/Vol 21 Issue 1/Badang/Badang_Topics.jpg
-      alt: Badang
 ---
