@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-20/issue-4/jan-mar-2025/origins-of-kueh-pie-tee/
-      button: "Cups and Sources: Hunting Down the Origins of Kueh Pie Tee"
+      url: /vol-20/issue-4/jan-mar-2025/japanese-anglicans-world-war-two-singapore/
+      button: Japanese Anglicans in World War Two Singapore
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 20 Issue 4/Kueh Pie Tee/HeroImage_kueh_4.jpg
+      background: /images/Vol 20 Issue 4/Japanese Anglican/HeroImage_anglican3.jpg
   - infopic:
       title: "Barbara Kerr: Girl Guide Extraordinaire"
       subtitle: People
