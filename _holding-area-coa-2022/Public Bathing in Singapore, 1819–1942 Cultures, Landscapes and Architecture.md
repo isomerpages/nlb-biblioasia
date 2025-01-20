@@ -180,5 +180,67 @@ later in the century.23 Though it was short-lived and quickly forgotten – late
 *pagar*, as a typology of leisure architecture, remained much the same for
 more than a century.24
 
+#### **A Series of Short-lived Establishments and Failed Plans**
+
+After the battery *pagar*, there were no immediate attempts to build new
+facilities for bathing. It was reported in 1846 that a committee was formed
+to build a new bathing *pagar* at the Esplanade, but it was not realised.25 A
+new enclosure was finally built in 1849, called Marine Villa, at the end of
+Telok Ayer Road.26 Throughout the 19th century, bathing places (as with
+any other recreational activity) were expected to be products of private
+interest, formed as social clubs or as businesses. Marine Villa was a business,
+charging ten cents for entry; it opened two days a week for families, and
+one day for single men. Marine Villa probably did not last long – it was last
+mentioned in the press in 1850.27
+
+In the mid-1860s, there were two further attempts to establish formal
+bathing sites. One was another business venture at Orchard Road, catering
+to nearby residents. For this, W. R. Scott had a freshwater pool, “a large
+swimming bath built of brick and stone, surrounded with a high brick wall”,
+built on his Abbotsford estate, which he opened to the European public in
+1866.28 However, according to C. B. Buckley, it was not used very much
+and only lasted a year.29 Around the same time, Singapore’s first swimming
+club was founded in Tanjong Rhu. After an initial meeting, Charles Crane
+was assigned to organise the place, overseeing the construction of a new
+pagar on the east coast. According to Buckley, the enclosure was built on a
+sandbank away from the shore.30 The club continued for a couple of years,
+but dissolved when the *pagar* was destroyed in a monsoon. In the 1870s and 1880s, a series of indoor bathhouses were opened. In the town, Gazzolo
+&amp; Co. was on North Bridge Road, and the Waterfall Club opened at the
+foot of Pearl’s Hill.31 For those who could spend a couple of days in the
+countryside, there was the Tivoli Bathhouse in Bukit Timah.32
+
+None of these sites were longstanding establishments, but the
+intermittent appearance of bathing places does show growing interest in
+public bathing. The number of bathing places grew after 1867, when the
+Straits Settlements became a colony separate from India. As Mary Turnbull
+described, this was a period of economic growth when European settlers
+began demanding something more from their place of residence – wanting
+to develop the town, making it physically more impressive, and providing
+greater recreational spaces.33 The problem faced by early bathing sites
+– the reason they closed so quickly – seems mostly to have been financial.
+Bathing architecture required significant upfront costs for construction,
+and the resulting attendance was just not enough to support the costs of
+maintenance.
+
+The lack of bathers to financially support bathing sites was not a sign
+of limited interest in the water, but rather a product of the social structures
+of bathing within British colonies. Generally, the mixing of races and
+sexes in bathing sites was not allowed – the majority of the formal bathing
+sites mentioned above were made for European men, which comprised a
+minuscule part of Singapore’s overall population. Furthermore, the places
+also had to compete for the men’s time with a range of other sporting
+and social clubs, which as John Butcher has shown, formed the primary
+setting for European social lives in the British colonies of Southeast Asia.34
+Marine Villa did offer family days, which meant that European women and
+children could also swim, and the Waterfall Club was one of the few sites
+that provided for both European and Asian bathers, with separate rooms and bathing tanks.35 Racial segregation in bathing continued into the 1960s,
+though in more popularly accessible places like the Young Men’s Christian
+Association (YMCA) Pool it had disappeared by the 1920s. Separated
+bathing based on sex continued well into the 20th century, and the Mount
+Emily Pool ran a schedule offering different times for men and women
+bathers up until the beginning of the Japanese Occupation (at which point,
+the Japanese authorities that reopened the pool in 1942 maintained a similar
+schedule).36
+
 
 
