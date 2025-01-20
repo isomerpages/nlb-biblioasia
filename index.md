@@ -30,8 +30,8 @@ sections:
       title: The Multifaceted Barbara Kerr
       subtitle: People
       id: infopic
-      description: Barbara Kerr made contributions to the Girl Guides, sport,
-        education, children and animals. She was also a talented soprano singer.
+      description: Barbara Kerr made contributions to the Girl Guides, sports and
+        animal welfare. She was also a talented soprano singer.
       button: A woman of many talents
       url: /vol-21/issue-1/apr-jun-2025/barbara-kerr-sharpshooter-school-principal-girl-guide/
       image: /images/Vol 21 Issue 1/Barbara Kerr/Barbara_Kerr_Topics.jpg

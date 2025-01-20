@@ -65,7 +65,7 @@ survey of the Singapore Botanic Gardens.</p>
 <p>So, it wasn’t in that other book, but it was always there. Plus, I knew
 Jennifer and Jennifer had written a piece on what had happened to monkeys
 and how they’re seen in Singapore and things like that. So I talked with
-her about combining my own knowledge of an antidote or a story about the
+her about combining my own knowledge of an anecdote or a story about the
 gardens and her work on monkeys and we kind of put it together and wrote
 the chapter. But the real origin of it is this interesting story is how
 you can label it a massacre, you can label it an attempt to rid the gardens
