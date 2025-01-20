@@ -49,6 +49,9 @@ Similar information on the opening ceremony was recorded on the first leaf of th
 
 The draft of Liu Kang’s first solo exhibition catalogue includes an introduction by Lee Siow Mong, president of the China Society, and an essay by Michael Sullivan, curator of the University of Malaya’s art museum. The draft offers a glimpse into Liu’s creative process and evolution of design ideas leading up to the printed exhibition catalogue.&nbsp;
 
+![](/images/Vol%2021%20Issue%201/Liu%20Kang/liukang_catalogue2.jpg)
+<div> The title of the painting, “Scene in the street”, in the draft exhibition catalogue (bottom) was replaced with “Street scene. Bali” in the printed catalogue (top). This suggests that Liu Kang deliberated over the titles of his artworks. <i>Liu Kang Collection, National Library Singapore.</i></div>
+
   
 
 **Photographs of the exhibition, “Bali: Liu Kang, Chen Wen Hsi, Chen Chong Swee, Cheong Soo Pieng” held at the British Council in 1953**
@@ -59,9 +62,6 @@ In 1952, Liu Kang, together with Chen Chong Swee, Chen Wen Hsi and Cheong Soo Pi
 <div>(From left) Mrs Loke Wan Tho, Indonesian Consul-General Mohamed Razif, Carl Alexander Gibson-Hill and Liu Kang at Liu Kang’s exhibition held at the British Council, 1953. <i>Liu Kang Collection, National Library Singapore.</i></div>
 
 The exhibition, which showcased over 100 paintings and sketches, was well received and drew large crowds. Opened by Indonesian Consul-General Mohamed Razif, the exhibition was visited by prominent figures in Singapore, including Malcolm MacDonald, Commissioner-General in Southeast Asia; Carl Alexander Gibson-Hill, the last expatriate director of the Raffles Museum; and Loke Wan Tho, cinema magnate and founder of Cathay Organisation, and his wife.[^5]
-
-![](/images/Vol%2021%20Issue%201/Liu%20Kang/liukang_catalogue2.jpg)
-<div> The title of the painting, “Scene in the street”, in the draft exhibition catalogue (bottom) was replaced with “Street scene. Bali” in the printed catalogue (top). This suggests that Liu Kang deliberated over the titles of his artworks. <i>Liu Kang Collection, National Library Singapore.</i></div>
 
 
 **《说自家》(On Myself), an autobiographical article by Liu Kang**
@@ -147,7 +147,7 @@ In 1993, the Raffles Hotel commissioned Liu Kang to create a collection of paste
 <div>Prints of pastel portraits of Raffles Hotel staff, 1993.  <i>Liu Kang Collection, National Library Singapore.</i></div>
 
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
+<div style="background-color: #fff6ba; padding:15px; margin: 10px; font-size=120%">
  Members of the public who wish to access the materials can enquire at Level 11 of the Lee Kong Chian Reference Library or visit 
 	<a href="https://reference.nlb.gov.sg/getting-started/accessing-reference-items/">https://reference.nlb.gov.sg/getting-started/accessing-reference-items/</a>. 
 </div>
