@@ -106,7 +106,7 @@ Other notable guests included the Chinese artist Xu Beihong (徐悲鸿), who ded
 
 Liu Kang taught art in schools for most of his working life in Singapore. In 1948, he led the graduating batch of senior high students from Chung Cheng High School on a three-week trip to the Malay Peninsula, visiting various towns and cities such as Muar, Melaka, Cameron Highlands, Ipoh and Penang. Several of the photos taken during the trip show Liu Kang with a sketchbook.&nbsp;
 
-![](/images/Vol%2021%20Issue%201/Liu%20Kang/liukang_students3.jpg)
+![](/images/Vol%2021%20Issue%201/Liu%20Kang/liukang_students4.jpg)
 <div>Chung Cheng High School students in the Malay Peninsula, 1948. <i>Liu Kang Collection, National Library Singapore.</i></div>
 
 
