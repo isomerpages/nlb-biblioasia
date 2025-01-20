@@ -242,5 +242,43 @@ bathers up until the beginning of the Japanese Occupation (at which point,
 the Japanese authorities that reopened the pool in 1942 maintained a similar
 schedule).36
 
+As people tried to establish swimming clubs and bathhouse businesses,
+particularly from the 1870s onwards, newspaper letter writers complained
+about the lack of recreational bathing options. Some insisted (contrary
+to the historical evidence) there had never been an established place for
+bathing in Singapore, and that if towns like Penang, Shanghai and Hong
+Kong had their own baths, then surely Singapore must as well.37 They also
+insisted that bathing would surely make a good business, calling on some
+enterprising resident to step forward. One writer, perhaps seeing little other
+option, even had the audacity to volunteer Cheang Hong Lim to extend his
+philanthropy and build a public bath.38
+
+These exaggerated remarks help prepare an image of the kinds of
+recreational bathing environments people wanted. These letter writers in
+the late 19th century were usually driven by concerns of safety and decency,
+much like the group who made the battery *pagar* in 1827. They wanted
+fenced enclosures to protect themselves from sharks, and changing rooms
+or a fenced screen to protect their modesty. Over time, they began asking
+for additional conveniences, like placing the *pagar* farther out to sea so
+tidal patterns would not dictate bathing times.39 They preferred an easily
+accessible central location, often proposing the beach at the Esplanade as the most ideal site.40 These suggestions centred around similar ideas for public
+bathing, shaping wider discussion and informing the more substantial
+proposals for swimming that emerged later in the century.
+
+What followed were defined proposals for ambitious popular bathing
+structures, which went unbuilt. In 1889, the Rowing Club developed
+plans for a large pool on the Raffles Reclamation ground, in front of the
+Raffles School.41 The plan fell apart because of its grand scale: it required
+excavation, construction of a concrete pool, and the creation of a sluice
+system that would allow the pool to be filled with seawater and drained
+for cleaning. Combined with their proposal for a clubhouse, the scheme
+just became too expensive for the club to pursue. As the Rowing Club gave
+up on its plans for swimming, in 1891 a private individual, W. A. Wafford,
+went to the Straits Legislative Assembly with two proposals for bathing
+sites: a floating bath moored off Johnston’s Pier, or a piled enclosure built
+off the Esplanade.42 The Assembly rejected both, because the former would
+interrupt boats, and the Assembly would not privatise the Esplanade – the
+most prominent public place in the town – or risk spoiling its views.
+
 
 
