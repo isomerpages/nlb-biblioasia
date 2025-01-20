@@ -60,7 +60,7 @@ In 1952, Liu Kang, together with Chen Chong Swee, Chen Wen Hsi and Cheong Soo Pi
 
 The exhibition, which showcased over 100 paintings and sketches, was well received and drew large crowds. Opened by Indonesian Consul-General Mohamed Razif, the exhibition was visited by prominent figures in Singapore, including Malcolm MacDonald, Commissioner-General in Southeast Asia; Carl Alexander Gibson-Hill, the last expatriate director of the Raffles Museum; and Loke Wan Tho, cinema magnate and founder of Cathay Organisation, and his wife.[^5]
 
-![](/images/Vol%2021%20Issue%201/Liu%20Kang/liukang_catalogue.jpg)
+![](/images/Vol%2021%20Issue%201/Liu%20Kang/liukang_catalogue2.jpg)
 <div> The title of the painting, “Scene in the street”, in the draft exhibition catalogue (bottom) was replaced with “Street scene. Bali” in the printed catalogue (top). This suggests that Liu Kang deliberated over the titles of his artworks. <i>Liu Kang Collection, National Library Singapore.</i></div>
 
 
@@ -82,7 +82,7 @@ Liu Kang wrote notes for his public talks, some of which were published in newsp
 
 These are notes for “A Good Piece of Painting” (Young Men’s Christian Association; 25 January 1972), “On Oil Painting” (National Library; 17 June 1972) and “How to Appreciate a Painting” (early 1980s). In the notes for “On Oil Painting”, Liu Kang wrote that copying the masterpieces of well-known artists as practice would help to improve one’s art skills and that one could start with sketching sculptures, still life, landscapes and portraits.
 
-![](/images/Vol%2021%20Issue%201/Liu%20Kang/liukang_talk.jpg)
+![](/images/Vol%2021%20Issue%201/Liu%20Kang/liukang_talk2.jpg)
 <div> “A Good Piece of Painting”, a talk given at the Young Men’s Christian Association on 25 January 1972. <i>Liu Kang Collection, National Library Singapore.</i></div>
 
 
@@ -106,7 +106,7 @@ Other notable guests included the Chinese artist Xu Beihong (徐悲鸿), who ded
 
 Liu Kang taught art in schools for most of his working life in Singapore. In 1948, he led the graduating batch of senior high students from Chung Cheng High School on a three-week trip to the Malay Peninsula, visiting various towns and cities such as Muar, Melaka, Cameron Highlands, Ipoh and Penang. Several of the photos taken during the trip show Liu Kang with a sketchbook.&nbsp;
 
-![](/images/Vol%2021%20Issue%201/Liu%20Kang/liukang_students2.jpg)
+![](/images/Vol%2021%20Issue%201/Liu%20Kang/liukang_students3.jpg)
 <div>Chung Cheng High School students in the Malay Peninsula, 1948. <i>Liu Kang Collection, National Library Singapore.</i></div>
 
 
@@ -133,7 +133,7 @@ The photographs taken during Liu Kang’s visit to India in 1971 with more than 
 ![](/images/Vol%2021%20Issue%201/Liu%20Kang/liukang_musicians2.jpg)
 <div>Indian musicians playing the tabla, sitar and harmonium, 1971.  <i>Liu Kang Collection, National Library Singapore.</i></div>
 
-![](/images/Vol%2021%20Issue%201/Liu%20Kang/liukang_musicianspainting.jpg)
+![](/images/Vol%2021%20Issue%201/Liu%20Kang/liukang_musicianspainting2.jpg)
 <div><i>Indian Musicians</i> by Liu Kang (1972), oil on canvas, 73 × 94 cm. <i>Gift of the artist’s family. Collection of National Gallery Singapore.</i></div>
 
   
