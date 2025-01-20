@@ -25,7 +25,7 @@ sections:
       button: Badang’s Rocks
       url: /vol-21/issue-1/apr-jun-2025/origins-badang-strongman-singapore-stone/
       image: /images/Vol 21 Issue 1/Badang/Badang_Topics.jpg
-      alt: Badang
+      alt: Badang the Strongman
   - infopic:
       title: "Barbara Kerr: Girl Guide Extraordinaire"
       subtitle: People
