@@ -9,13 +9,23 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-20/issue-4/jan-mar-2025/origins-of-kueh-pie-tee/
-      button: "Cups and Sources: Hunting Down the Origins of Kueh Pie Tee"
+      url: /vol-20/issue-4/jan-mar-2025/japanese-anglicans-world-war-two-singapore/
+      button: Japanese Anglicans in World War Two Singapore
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 20 Issue 4/Kueh Pie Tee/HeroImage_kueh_4.jpg
+      background: /images/Vol 20 Issue 4/Japanese Anglican/HeroImage_anglican3.jpg
+  - infopic:
+      title: Uncovering the Origins of Badang the Strongman
+      subtitle: People
+      id: infopic
+      description: Relics of Badang the Strongman can be found throughout the region.
+        But who was this enigmatic figure?
+      button: Badang’s Rocks
+      url: /vol-21/issue-1/apr-jun-2025/origins-badang-strongman-singapore-stone/
+      image: /images/Vol 21 Issue 1/Badang/Badang_Topics.jpg
+      alt: Badang the Strongman
   - infopic:
       title: "Barbara Kerr: Girl Guide Extraordinaire"
       subtitle: People

@@ -2,8 +2,8 @@ collections:
   holding-area:
     output: true
     order:
+      - "Signs of Progress: Deaf Education in Singapore.md"
       - "The Liu Kang Collection: A Portrait of the Artist as a Young Man.md"
-      - The Search for Home, Truly (and Other National Day Songs).md
       - "Rites of Rehabilitation: The Social Work of the Zhenkongjiao in
         Singapore.md"
       - Sample Test2.md

@@ -1,6 +1,6 @@
 ---
 title: The Search for Home, Truly (and Other National Day Songs)
-permalink: /holding-area/the-search-for-home-truly-and-other-national-day-songs/
+permalink: /vol-21/issue-1/apr-jun-2025/sing-singapore-national-day-songs/
 variant: markdown
 description: ""
 ---
@@ -10,7 +10,7 @@ By Bernard T.G. Tan
 Dick Lee’s “Home” is arguably one of the most well loved of all our National Day songs. While the song is indelibly associated with the voice of Kit Chan, who performed it at the National Day Parade (NDP) in 1998, it is also a song that is regularly sung in unison at subsequent NDPs.&nbsp;
 
 
-![](/images/Vol%2021%20Issue%201/Sing%20Singapore/sing_facing.jpg)
+![](/images/Vol%2021%20Issue%201/Sing%20Singapore/sing_facing2.jpg)
 <div>Kit Chan performing “Home” at the 1998 National Day Parade. This was the National Day song that year. <i>Lianhe Zaobao © SPH Media Limited. Permission required for reproduction.</i></div>
 
 The popularity of National Day songs like “Home” and “Stand Up for Singapore” is the result of a decades-long effort to create national songs that can be sung communally. This effort to find a song that represents the nation (apart from “Majulah Singapura”, the national anthem) goes back at least to the 1970s.
@@ -78,6 +78,10 @@ The 1990 Sing Singapore competition was held on 21 July at the Indoor Stadium, a
 ![](/images/Vol%2021%20Issue%201/Sing%20Singapore/sing_calendar.jpg)
 <div>The Sing Singapore 1990 calendar. Singapore celebrated its 25th anniversary of independence in 1990 and a new national song, “One People, One Nation, One Singapore”, was commissioned. <i>Courtesy of National Archives of Singapore.</i></div>
 
+
+![](/images/Vol%2021%20Issue%201/Sing%20Singapore/sing_songbook2.jpg)
+<div>The Sing Singapore 1990 songbook. <i>Courtesy of Bernard G.T. Tan.</i></div>
+
 An initiative by NTUC Income in 1991 led to the national song, “It’s the Little Things”, by Patrick Seet and Ivan Chua.[^29]
 
 After the National Arts Council (NAC) was established in 1991, the new body took over the responsibility for the campaign. In 1993, the NAC brought back the creation and collection of Singapore songs into Sing Singapore. It also came up with a new branding – A Festival of Songs – for the 1994 campaign. In October 1993, the NAC invited Singaporeans to submit original songs. It attracted 48 groups that performed at the Ngee Ann City Civic Plaza in May and June the next year.[^30] The 1996 competition was called Song Fest, a catchier version of A Festival of Songs.[^31] Between 1991 and 1998, there seems to have been no new songs meant for National Day though.
@@ -93,7 +97,7 @@ After the National Arts Council (NAC) was established in 1991, the new body took
 It was around this time that I was appointed chairman of the Sing Singapore organising committee. One of the new committee’s first tasks was to find a National Day song for 1998.[^32] Instead of holding an open competition, we approached a number of established Singaporean songwriters and composers to submit songs for our consideration.[^33] Dick Lee was among those who responded, but unlike the others, he submitted a melody without lyrics.
 
 
-![](/images/Vol%2021%20Issue%201/Sing%20Singapore/sing_cd.jpg)
+![](/images/Vol%2021%20Issue%201/Sing%20Singapore/sing_cd2.jpg)
 <div>The Sing Singapore 1998 compact disc. Songs include “Singapore Town”, “Five Stars Arising”, “Home”, “Munnaeru Vaalibaa” and “Singapura”. <i>Courtesy of Bernard G.T. Tan.</i></div>
 
 #### **This Is Home, Truly**
