@@ -4,7 +4,7 @@ permalink: /holding-area/chapters-on-asia-2022/public-bathing-in-singapore/
 variant: markdown
 description: ""
 ---
-The east is essentially a land of bathing. The white man tubs<br>    himself, the yellow man, the brown man and some of the black<br>    men rub themselves – with water. The remainder prefer oil.<br>   The first question a white man asks on arrival is “Have you a<br>    swimming bath?”1
+   The east is essentially a land of bathing. The white man tubs<br>    himself, the yellow man, the brown man and some of the black<br>    men rub themselves – with water. The remainder prefer oil.<br>   The first question a white man asks on arrival is “Have you a<br>    swimming bath?”1
 
 #### **Introduction**
 
@@ -279,6 +279,152 @@ sites: a floating bath moored off Johnston’s Pier, or a piled enclosure built
 off the Esplanade.42 The Assembly rejected both, because the former would
 interrupt boats, and the Assembly would not privatise the Esplanade – the
 most prominent public place in the town – or risk spoiling its views.
+
+In 1893, the Singapore Swimming Club was established in Tanjong
+Katong,43 largely putting an end to the ongoing discussion among European
+residents about the need for bathing sites. However, one further proposal for
+floating baths off the Esplanade was put to the Municipal Commissioners in
+1900.44 They refused to consider it as their jurisdiction did not cover the sea.
+
+The clubs, pools, *pagar* and bathhouses discussed in this section have
+been focused on European residents’ views of aquatic leisure, with most
+built and proposed examples seemingly created only for Europeans. So
+far, I focused on tracing the development of formal bathing sites built
+as commercial enterprises for leisure, none of which were particularly
+successful. But this was not the only way people engaged with the pleasures
+of bathing in the 19th century.
+
+
+#### **Practical Bathing for the Public**
+
+Running parallel to the history of European bathing ventures in colonial
+Singapore was an imposition on the poorer strata of society of the same
+values of security and modesty that were so important to the letter-writers
+and builders of early *pagar*. This occurred as Singapore’s municipality began
+developing its own plans for the uses of town waterscapes. Writers in the
+press launched attacks on people bathing publicly, protesting the sight of
+bodies in various states of undress, or that of men and women bathing
+together.45 Apart from some cases of naked European sailors at remote
+beaches,46 there was frequently a racial tone to such complaints.
+
+Given that the Singapore press of the time was primarily British, the
+key concern with public bathing was often that white women might happen
+to see degrees of exposed brown skin in public spaces. Writers complained
+about Chinese men washing in back lanes, Malays in canals, and Indian
+men in the Bras Basah River at Dhoby Ghaut.47 Dhoby Ghaut was
+especially a concern when the Ladies’ Lawn Tennis Club opened there in
+1884 as a venue for the wives of members of the Cricket Club, even though
+the place had long been known as a place for washing and working in the
+river.48 Just as earlier European bathers wanted to shield themselves from
+public view through screens and changing rooms that entered directly into
+the water, they hoped these public washing spaces might also be shielded
+from view, if not removed completely.
+
+The municipality responded by building attap screens and small
+enclosures around common bathing spots at public wells or riversides. One
+of the earliest was made in 1849 around a well in Telok Blangah, opposite
+the Temenggung’s palace, in what was reported as a great cleaning and beautification of that town.49 This approach continued (Figure 2), though
+as the Municipal Commissioners gained greater power to organise the
+urban environment, they could begin designating fixed bathing places,
+and making bathing in other places a chargeable offence.50 Through this
+came a process of classifying town water spaces, determining the allowable
+functions of urban water bodies.
+
+A moral concern over bodily exposure was partly what influenced the
+restricting of water sites, but the process was also part of the commissioners’
+broader concern for disentangling the town’s water and waste systems to
+improve public health. As the Municipal Commission worked to establish
+Singapore’s reservoir system in the 1860s and 1870s, they also classified water
+according to social and economic functions. Bathing needed to be restricted in places where water was used by commercial boats or was a drinking
+source. This eventually led to the municipality’s closing of contaminated
+public and domestic wells to prevent disease, but had the effect of further
+limiting people’s access to water.51 As part of limiting the “nuisance” of
+public bathing, the Municipal Commissioners also placed criminal charges
+on people found bathing naked in public sites, ensuring that bathing and
+washing would always be decent and modest activities.52
+
+Regulation created a classification of water spaces according to
+understood functions, but rules were often subverted by the public. The
+Impounding Reservoir (MacRitchie), which was obviously intended for
+piped town water, was where many people saw prime opportunity for
+bathing – a chargeable offence. One European man bathing there tried to
+escape the charge by claiming he was simply retrieving his hat that had
+blown into the water. The fact he was completely undressed and likely in the
+company of two Japanese prostitutes did not help his defence.53
+
+Gradually, these rules about recognised bathing places led to concerns
+in the Municipal Commission over the broader working-class public’s access
+to water and washing.54 And even where there was access, there remained
+problems with the water’s cleanliness. For example, in the mid-1870s there
+were reported to be 42 designated bathing places along the Singapore River
+and its adjacent canals, even though the river was the most polluted water
+body in the town.55 And so, the municipality tried a new strategy. Instead
+of just demarcating allowable bathing places in public water bodies, they
+would build their own new places with different water sources. These had
+an affordable one-cent entry fee, provided clean water, and encouraged good
+hygiene. A trial was built on the Singapore River behind the Ellenborough
+Market in 1874, and since this was before the reservoir was finished, clean
+water was brought in by water boat.56 Being placed at the market, it was hoped this bathhouse might become an established social centre for
+nearby residents.
+
+When the municipality’s Impounding Reservoir was completed in 1877,
+the new infrastructure allowed a rethinking of public bathing provisions.
+In 1880, the Ellenborough Market bathhouse was redesigned by Municipal
+Engineer Thomas Cargill to use cleaner municipal water.57 Cargill finished
+another bathhouse on Boat Quay in 1881.58 These places were enclosed
+wooden buildings, with tiled roofs, taps and iron tanks made to hold a
+communal bath, and as pieces of municipal architecture they received a
+positive reception:
+
+   If we may judge by the tasteful and convenient erection over<br>
+   the Singapore River beside Boat Quay, the movement of the<br>
+   Municipal Commissioners in putting up bathing houses<br>
+   in various parts of the town is not only a step in the right<br>
+   direction, but one calculated to provide ornaments to the place.<br>
+   The substitution of tastefully designed buildings for the former<br>
+   rough plank partitions, and the interior arrangement of a large<br>
+   oblong tank, supplied with water from the waterworks, is at<br>
+   once such a vast improvement upon former constructions as<br>
+   to awaken admiration of the taste and ability of the Municipal<br>
+   Engineer, and the public spirit of the Commissioners, in<br>
+providing such elegant public conveniences.59
+
+A third bathhouse was built at the Clyde Terrace Market on Beach
+Road, and a fourth negotiated with the Tanjong Pagar Dock Company
+(which then was not part of the Municipality60), but there is no reference to
+any finished structure in that place.61 The municipal bathhouse programme
+did not progress beyond this point, and those that were built disappeared
+by the mid-1890s, with declining attendance and rising maintenance costs.62 The growing acceptance of piped domestic water had changed social
+practices of gaining access to water, and by this point more people simply
+bathed at home. To some extent, the municipal bathhouses of the 1880s
+bridged the town’s attitudes to changing models of water supply, which
+placed central importance on the new reservoir. This is despite, as Brenda
+Yeoh has discussed in detail, the new reservoir system’s inability to produce
+enough water for the growing town, which among other responses, led the
+Municipal Commissioners to become particularly concerned with prospects
+of water wastage at their bathhouses, while continuing to close groundwater
+wells on grounds of contamination.63
+
+The municipal bathhouses provided popular access to freshwater
+bathing, but they were controversial: some residents rejected the idea of
+paying an entry fee to access a resource that had previously been free in
+domestic wells. Even so, many other sanctioned bathing places of the older
+model remained free, such as the popular Rochor Canal and Dhoby Ghaut.
+
+#### **Recreational Swimming at the Turn of the Century**
+
+Even if there could not be enough formal bathing venues to meet public
+demand, people still found places to go into the water. This was through
+sneaking nighttime swims at the Esplanade, visiting Beach Road, or
+travelling to rural beaches at Pasir Panjang, Tanjong Katong, Siglap or
+Changi.64 All of these were popular places without any of the architecture
+of bathing; and as places of recreation they appealed equally to European
+and Asian residents. The east coast, later a centre for swimming, was
+already known for bathing trips as early as the 1850s.65 Ultimately, bathing
+was an opportunistic activity – people bathed wherever they found water,
+whether in the sea, rivers, canals, ponds, quarries or, in a couple of accounts,
+monsoon-struck fields.66
+
 
 
 
