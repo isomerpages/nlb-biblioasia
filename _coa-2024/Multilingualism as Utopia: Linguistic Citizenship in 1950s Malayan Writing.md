@@ -1,6 +1,6 @@
 ---
 title: "Multilingualism as Utopia: Linguistic Citizenship in 1950s Malayan Writing"
-permalink: /holding-area/chapters-on-asia-2024/multilingualism-as-utopia/
+permalink: /chapters-on-asia-2024/multilingualism-as-utopia/
 variant: markdown
 description: ""
 ---
