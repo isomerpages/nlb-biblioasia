@@ -14,7 +14,7 @@ Relics of Badang the Strongman can be found throughout the region. But who was t
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/barbara-kerr-sharpshooter-school-principal-girl-guide/">Barbara Kerr: Sharpshooter, School Principal, Girl Guide Extraordinaire</a>
 
-The multifaceted Barbara Kerr made contributions to the Girl Guides, sport, education, children and animals. She was also a talented soprano singer.
+The Barbara Kerr made contributions to the Girl Guides, sport, education, children and animals. She was also a talented soprano.
 
 <img src="/images/Vol%2021%20Issue%201/Barbara%20Kerr/Barbara_Kerr_Topics.jpg" style="width:80%;">
 <hr>
