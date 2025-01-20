@@ -5,6 +5,13 @@ description: ""
 third_nav_title: People
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/origins-badang-strongman-singapore-stone/">Uncovering the Origins of Badang the Strongman</a>
+
+Relics of Badang the Strongman can be found throughout the region. But who was this enigmatic figure?
+
+<img src="/images/Vol%2021%20Issue%201/Badang/Badang_Topics.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/barbara-kerr-sharpshooter-school-principal-girl-guide/">Barbara Kerr: Sharpshooter, School Principal, Girl Guide Extraordinaire</a>
 
 The multifaceted Barbara Kerr made contributions to the Girl Guides, sport, education, children and animals. She was also a talented soprano singer.
