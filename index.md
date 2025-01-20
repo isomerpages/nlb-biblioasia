@@ -1146,4 +1146,14 @@ sections:
       image: /images/Vol 19 Issue 4/An Interview with Rachel Heng/book
         cover_homepage3.jpg
       alt: The Great Reclamation
+  - infopic:
+      title: Uncovering the Origins of Badang the Strongman
+      subtitle: People
+      id: infopic
+      description: Relics of Badang the Strongman can be found throughout the region.
+        But who was this enigmatic figure?
+      button: Badang’s Rocks
+      url: /vol-21/issue-1/apr-jun-2025/origins-badang-strongman-singapore-stone/
+      image: /images/Vol 21 Issue 1/Badang/Badang_Topics.jpg
+      alt: Badang
 ---
