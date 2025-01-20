@@ -106,7 +106,79 @@ through these designations that modern ideas of water use emerged, leading
 to new definitions of swimming and its separation from washing and
 domestic bathing.
 
+#### **An Imported Bathing Culture**
 
+The British arriving in Singapore from 1819 brought with them their own
+ideas about public bathing. It was only since the beginning of the 19th
+century that sea swimming became popular, as British culture turned away
+from older inland springs and spas and found the pleasures of the seashore.11
+As Ian Bradley demonstrates, European spas had developed as sites for
+healing, where people might take part in practices of balneotherapy and
+hydrotherapy,12 and later became spaces for leisure and indulgence.13 As
+bathing in the sea grew in prominence in British culture, it also adopted
+these mixed uses, being seen at times as a place for health, but also as a place
+for recreation and pleasure. Over time, the same mixed purposes transferred
+onto the pool, the tank and the tub.
+
+European sailors arriving in Singapore encountered a tropical and at
+times oppressive heat, as well as year-round warm waters, and they were
+clearly interested in bathing in the sea. From the 1820s, they often dove into
+the harbour waters beside their ships both to clean themselves and to enjoy
+the water, in a practice known as “bathing ship-side”. The early press advised
+against this activity given the potential dangers of drowning or being
+taken by a shark, and some did die while bathing ship-side.14 The warnings
+reduced the practice for a time, but it would return and the warnings
+resumed. From the recurring press warnings, it seems that bathing ship-side
+in open water continued throughout the 19th century.15
+
+But it was not only transient sailors who wanted to swim; European
+residents of the town also wanted to enjoy the seaside and began planning
+their own recreational space. Early in 1827, a group gathered to fund a
+beachside bathing enclosure. In May that year, the *Singapore Chronicle*
+reported on the newly finished *pagar* at the Esplanade, below what was
+then the town’s second battery, next to the mouth of the Bras Basah
+River.16 This was colonial Singapore’s first swimming structure, and its first
+designated recreational space, arriving two years before the formation of the
+Billiards Club in 1829, which Walter Makepeace regarded as the town’s first
+sporting club.17
+
+As described in the *Singapore Chronicle*, the battery *pagar* directly
+fronted the Esplanade beach. Along the shore, it comprised three walls of
+nibong palm poles enclosing a swimming area of 65 m by 65 m.18 Above
+the farthest wall from the shore were dressing rooms, suggesting a pier
+along one side allowing swimmers to access them. This approach of placing
+dressing rooms over the water followed contemporary European practices
+and resembled early “bathing machines” – portable cabins that could be
+wheeled into the water.19 This approach was defined by contemporary
+European concepts of morality and decency, where bathing clothes were
+viewed as a state of undress, and therefore no one wanted to be seen publicly
+in such an immodest state. Dressing rooms directly over the water allowed
+the least amount of time that a person could accidentally be seen improperly
+dressed. The location of this *pagar* would later be called Scandal Point,
+and while that name emerged for different reasons, we might imagine the
+original “scandal” of this place as the undressed bodies of bathers.
+
+The author of the original description of the battery *pagar* considered
+its architectural style to be “somewhat rude”, and thought the dressing
+rooms too high above the water.20 However, they otherwise considered
+the structure perfectly adequate, hoping its establishment would provide a
+place for public bathing for years to come. The “rudeness” of the enclosure
+most likely refers to its regional vernacular construction. The battery *pagar* appears to have used conventions of Malay and Orang Laut architecture,
+which remained the dominant architectural style for Singapore’s *pagar*
+over the following century. A very similar construction style was still used
+for enclosures of the 1920s and 1930s, shown in images of military bathing
+enclosures (Figure 1), and described by Bob Pattimore in recollections of the
+*pagar* at the tin smelting works on Pulau Brani.21 The key elements were a
+fence for protection, a place to dress, and a pier to access the water.
+
+The original *pagar* at the Esplanade did not last long. Only one further
+reference to it was made in the press, at the start of 1828, when a convict
+was accidentally killed by a police officer while bathing there.22 There is
+no record of how or why the battery *pagar* was removed, though it is quite
+possible that it collapsed in a monsoon, as happened with similar structures
+later in the century.23 Though it was short-lived and quickly forgotten – later discussion of early bathing made no mention of it – the structure of the
+*pagar*, as a typology of leisure architecture, remained much the same for
+more than a century.24
 
 
 
