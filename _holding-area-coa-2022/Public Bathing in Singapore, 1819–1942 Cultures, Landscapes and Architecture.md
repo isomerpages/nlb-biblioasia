@@ -688,3 +688,13 @@ bathing that were defined by British arrivals in the early 19th century, which
 resulted in early practices of ship-side bathing and the initial construction of
 the battery *pagar* in 1827.
 
+#### **Acknowledgements**
+
+<i>I would like to thank Professor Bruce Peter for his helpful comments on the manuscript,
+Tomris Tangaz for her support in conducting this research, and Nadia Wagner for
+encouraging me to study histories of swimming in the first place. Thanks also go to
+staff at NLB who supported me in this work, in particular Joanna Tan, Makeswary
+Periasamy and Soh Gek Han.</i>
+
+
+
