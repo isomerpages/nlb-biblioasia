@@ -1015,49 +1015,49 @@ _Straits Times Weekly Issue_. “[Another Growl](https://eresources.nlb.gov.sg/n
 
 [^8]: Early news articles using this meaning of the word “swimming” included “[Deserters from the Inglis](https://eresources.nlb.gov.sg/newspapers/digitised/article/singchronicle18280117-1.2.6),” _Singapore Chronicle_, 17 January 1828, 2; “[Piracy](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18360324-1.2.16),” _Singapore Free Press and Mercantile Advertiser_, 24 March 1836, 3; “[Batavia](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18460408-1.2.11),” _Straits Times_, 8 April 1846, 2. (From NewspaperSG)
 
-[^19]: Francoise de Bonneville, _The Book of the Bath_ (New York: Rizzoli, 1998), 6; Sigfried Giedion, _Mechanisation Takes Command_ (New York: Oxford University Press, 1948), 628–76.
+[^9]: Francoise de Bonneville, _The Book of the Bath_ (New York: Rizzoli, 1998), 6; Sigfried Giedion, _Mechanisation Takes Command_ (New York: Oxford University Press, 1948), 628–76.
 
 [^10]: “[Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/singchronicle18351031-1.2.13),” _Singapore Chronicle_, 31 October 1835, 3; “[Miscellaneous](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18430803-1.2.10.10),” _Singapore Free Press and Mercantile Advertiser_, 3 August 1843, 2; “[A Few Hints on Sea Bathing](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18500723-1.2.20),” _Straits Times_, 23 July 1850, 7; “[Sports at New Harbour Dock](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk18890904-1.2.43),” _Singapore Free Press and Mercantile Advertiser_, 4 September 1889, 300; “[New Year Sports](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18891224-1.2.11),” _Straits Times Weekly Issue_, 24 December 1889, 2. (From NewspaperSG)
 
-11 Ian Bradley, _Health, Hedonism and Hypochondria: The Hidden History of Spas_ (London: Tauris Parks, 2020), 126; Kenneth Lindley, _Seaside Architecture_ (London: Hugh Evelyn, 1973), 7.
+[^11]: Ian Bradley, _Health, Hedonism and Hypochondria: The Hidden History of Spas_ (London: Tauris Parks, 2020), 126; Kenneth Lindley, _Seaside Architecture_ (London: Hugh Evelyn, 1973), 7.
 
-12 Balneotherapy is the medical treatment of disorders through both drinking and bathing in thermal mineral waters from natural springs. Hydrotherapy, a later development, refers to the treatment of ailments through water from any source and through a variety of techniques that could involve exercise, bathing, and wrapping in wet cloths.
+[^12]: Balneotherapy is the medical treatment of disorders through both drinking and bathing in thermal mineral waters from natural springs. Hydrotherapy, a later development, refers to the treatment of ailments through water from any source and through a variety of techniques that could involve exercise, bathing, and wrapping in wet cloths.
 
-13 Bradley, _Health, Hedonism and Hypochondria_, 8–9.
+[^13]: Bradley, _Health, Hedonism and Hypochondria_, 8–9.
 
-14 “[Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/singchronicle18320809-1.2.19),” _Singapore Chronicle_, 9 August 1832, 3; “[Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/singchronicle18331114-1.2.15),” _Singapore Chronicle_, 14 November 1833, 3; “[Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/singchronicle18350214-1.2.10),” _Singapore Chronicle_, 14 February 1835, 3; “[The Straits Times](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18461230-1.2.4),” _Straits Times_, 30 December 1846, 3; “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18611130-1.2.33),” _Straits Times_, 30 November 1861, 2. (From NewspaperSG)
+[^14]: “[Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/singchronicle18320809-1.2.19),” _Singapore Chronicle_, 9 August 1832, 3; “[Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/singchronicle18331114-1.2.15),” _Singapore Chronicle_, 14 November 1833, 3; “[Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/singchronicle18350214-1.2.10),” _Singapore Chronicle_, 14 February 1835, 3; “[The Straits Times](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18461230-1.2.4),” _Straits Times_, 30 December 1846, 3; “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18611130-1.2.33),” _Straits Times_, 30 November 1861, 2. (From NewspaperSG)
 
-15 “[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18651109-1.2.3),” _Singapore Free Press and Mercantile Advertiser_, 9 November 1865, 2; “[Wednesday 26th April](https://eresources.nlb.gov.sg/newspapers/digitised/article/stoverland18760429-1.2.17),” _Straits Times_, 29 April 1876, 4; “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18830508-1.2.11),” _Straits Times_, 8 May 1883, 2. (From NewspaperSG)
+[^15]: “[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18651109-1.2.3),” _Singapore Free Press and Mercantile Advertiser_, 9 November 1865, 2; “[Wednesday 26th April](https://eresources.nlb.gov.sg/newspapers/digitised/article/stoverland18760429-1.2.17),” _Straits Times_, 29 April 1876, 4; “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18830508-1.2.11),” _Straits Times_, 8 May 1883, 2. (From NewspaperSG)
 
-16 “[Bathing Place](https://eresources.nlb.gov.sg/newspapers/digitised/article/singchronicle18270524-1.2.4),” _Singapore Chronicle_, 24 May 1827, 2. (From NewspaperSG)
+[^16]: “[Bathing Place](https://eresources.nlb.gov.sg/newspapers/digitised/article/singchronicle18270524-1.2.4),” _Singapore Chronicle_, 24 May 1827, 2. (From NewspaperSG)
 
-17 Walter Makepeace, Gilbert E. Brooke and Roland St. J. Braddell, eds., [_One Hundred Years of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6203718) (Singapore: Oxford University Press, 1991), 320. (Call no. RSING 959.57 ONE-\[HIS\])
+[^17]: Walter Makepeace, Gilbert E. Brooke and Roland St. J. Braddell, eds., [_One Hundred Years of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6203718) (Singapore: Oxford University Press, 1991), 320. (Call no. RSING 959.57 ONE-\[HIS\])
 
-18 “[Bathing Place](https://eresources.nlb.gov.sg/newspapers/digitised/article/singchronicle18270524-1.2.4).”
+[^18]: “[Bathing Place](https://eresources.nlb.gov.sg/newspapers/digitised/article/singchronicle18270524-1.2.4).”
 
-19 Fred Gray, [_Designing the Seaside: Architecture, Society and Nature_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12806976) (London: Reaktion, 2006), 147. (Call no. RART 720.941 GRA)
+[^19]: Fred Gray, [_Designing the Seaside: Architecture, Society and Nature_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12806976) (London: Reaktion, 2006), 147. (Call no. RART 720.941 GRA)
 
-20 “[Bathing Place](https://eresources.nlb.gov.sg/newspapers/digitised/article/singchronicle18270524-1.2.4).”
+[^20]: “[Bathing Place](https://eresources.nlb.gov.sg/newspapers/digitised/article/singchronicle18270524-1.2.4).”
 
-21 “The _pagar_ consisted of a fence with not more than two or three inches of space between the vertical palings. And with barbed wire nailed to that. \[…\] The _pagar_ also had a diving tower and a chute. Plus changing rooms and a covered area.” Lynne Copping, _Life on Pulau Brani_, letter from Bob Pattimore, Singapore Memory Project, accessed 15 June 2023.
+[^21]: “The _pagar_ consisted of a fence with not more than two or three inches of space between the vertical palings. And with barbed wire nailed to that. \[…\] The _pagar_ also had a diving tower and a chute. Plus changing rooms and a covered area.” Lynne Copping, _Life on Pulau Brani_, letter from Bob Pattimore, Singapore Memory Project, accessed 15 June 2023.
 
-22 “[The Ministry](https://eresources.nlb.gov.sg/newspapers/digitised/article/singchronicle18280131-1.2.4),” _Singapore Chronicle_, 31 January 1828, 2. (From NewspaperSG)
+[^22]: “[The Ministry](https://eresources.nlb.gov.sg/newspapers/digitised/article/singchronicle18280131-1.2.4),” _Singapore Chronicle_, 31 January 1828, 2. (From NewspaperSG)
 
-23 “[The Straits Observer](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18761104-1.2.4),” _Straits Observer_, 4 November 1876, 2. (From NewspaperSG)
+[^23]: “[The Straits Observer](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18761104-1.2.4),” _Straits Observer_, 4 November 1876, 2. (From NewspaperSG)
 
-24 “[The Straits Observer](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18761104-1.2.4)”; Charles Burton Buckley, [_An Anecdotal History of Old Times in Singapore 1819– 1967_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082239) (Singapore: Oxford University Press, 1984), 732. (Call no. RSING 959.57 BUC-\[HIS\])
+[^24]: “[The Straits Observer](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18761104-1.2.4)”; Charles Burton Buckley, [_An Anecdotal History of Old Times in Singapore 1819– 1967_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082239) (Singapore: Oxford University Press, 1984), 732. (Call no. RSING 959.57 BUC-\[HIS\])
 
-25 “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18461126-1.2.9),” _Singapore Free Press and Mercantile Advertiser_, 26 November 1846, 3. (From NewspaperSG)
+[^25]: “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18461126-1.2.9),” _Singapore Free Press and Mercantile Advertiser_, 26 November 1846, 3. (From NewspaperSG)
 
-26 “[Correspondence](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18491109-1.2.5),” _Singapore Free Press and Mercantile Advertiser_, 9 November 1849, 2. (From NewspaperSG)
+[^26]:  “[Correspondence](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18491109-1.2.5),” _Singapore Free Press and Mercantile Advertiser_, 9 November 1849, 2. (From NewspaperSG)
 
-27 “[Page 2 Advertisements Column 4](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18500108-1.2.3.4),” _Straits Times_, 8 January 1850, 2. (From NewspaperSG)
+[^27]: “[Page 2 Advertisements Column 4](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18500108-1.2.3.4),” _Straits Times_, 8 January 1850, 2. (From NewspaperSG)
 
-28 “[Building Sites on Mr Scott’s Estate, Tanglin \[Advertisement\]](https://eresources.nlb.gov.sg/newspapers/digitised/article/singdailytimes18780116-1.2.17.4),” _Singapore Daily Times_, 16 January 1878, 2. (From NewspaperSG)
+[^28]: “[Building Sites on Mr Scott’s Estate, Tanglin \[Advertisement\]](https://eresources.nlb.gov.sg/newspapers/digitised/article/singdailytimes18780116-1.2.17.4),” _Singapore Daily Times_, 16 January 1878, 2. (From NewspaperSG)
 
-29 Buckley, [_Anecdotal History_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082239), 732.
+[^29]: Buckley, [_Anecdotal History_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082239), 732.
 
-30 Buckley, [_Anecdotal History_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082239), 732.
+[^30]: Buckley, [_Anecdotal History_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082239), 732.
 
 31 “[Page 4 Advertisements Column 6](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18850321-1.2.34.6),” _Straits Times_, 21 March 1885, 4; “[Advertisement: The Singapore Waterfall](https://eresources.nlb.gov.sg/newspapers/digitised/article/singdailytimes18780610-1.2.15.1),” _Singapore Daily Times_, 10 June 1878, 2. (From NewspaperSG)
 
