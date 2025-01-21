@@ -332,7 +332,7 @@ enclosures around common bathing spots at public wells or riversides. One
 of the earliest was made in 1849 around a well in Telok Blangah, opposite
 the Temenggung’s palace, in what was reported as a great cleaning and 
 
-<img src="/images/COA%202022/Public%20Bathing%20in%20Singapore/Vernacular_bathing_place_in_Seletar__1869.jpg" style="width:100%;">
+<img src="/images/COA%202022/Public%20Bathing%20in%20Singapore/Vernacular_bathing_place_in_Seletar__1869.jpg" style="width:80%;">
 <div style="background-color: white;">Vernacular Bathing Place in Seletar, Near the Government Bungalow. Eugen Von
 Ransonnet, “Bathing Place Near Selita”, 1869. <i>Courtesy of the National Museum of Singapore.</i></div>
 
@@ -439,7 +439,7 @@ was an opportunistic activity – people bathed wherever they found water,
 whether in the sea, rivers, canals, ponds, quarries or, in a couple of accounts,
 monsoon-struck fields.[^66]
 
-<img src="/images/COA%202022/Public%20Bathing%20in%20Singapore/private_bathing_place_belonging_to_Ong_Siew_Kiam__1920.jpg" style="width:100%;">
+<img src="/images/COA%202022/Public%20Bathing%20in%20Singapore/private_bathing_place_belonging_to_Ong_Siew_Kiam__1920.jpg" style="width:80%;">
 <div style="background-color: white;">Design Drawing for a Private Bathing Place Belonging to Ong Siew Kiam. <i>Lee Kian Soo, Pagar in Kampong Beting Kusa, c. 1920s. National Library Board. (Call no. RRARE 346.59570438 IND).</i></div>
 
 Over time, people built holiday homes along the coasts, following the
@@ -492,7 +492,7 @@ proposals of the 1880s and 1890s, and arguably allowed both clubs to
 survive and gradually build membership. It took six years for the Singapore
 Swimming Club to invest in any form of bathing architecture, deciding 
 
-<img src="/images/COA%202022/Public%20Bathing%20in%20Singapore/European_bathers_at_a_private_structure_on_the_east_coast_.jpg" style="width:100%;">
+<img src="/images/COA%202022/Public%20Bathing%20in%20Singapore/European_bathers_at_a_private_structure_on_the_east_coast_.jpg" style="width:80%;">
 <div style="background-color: white;">European Bathers at a Private Structure on the East Coast, c. 1890s. <i>G. R. Lambert &amp; Co., Fotoalbum Singapur (Singapore: G. R. Lambert &amp; Co., c. 1887–1905). (From National Library, Singapore, call no. 959.5704 LAM).</i></div>
 
 in 1899 to build a sea platform for members’ aquatic play – providing a
@@ -587,7 +587,7 @@ swimming clubs were falling behind through their attachment to the
 sea. It was this pressure to keep up with other clubs and retain their
 premier position that led them to invest in their own pools. The Singapore 
 
-<img src="/images/COA%202022/Public%20Bathing%20in%20Singapore/Frank_Dowdeswell_s_1930s_design.jpg" style="width:100%;">
+<img src="/images/COA%202022/Public%20Bathing%20in%20Singapore/Frank_Dowdeswell_s_1930s_design.jpg" style="width:80%;">
 <div style="background-color: white;">Frank Dowdeswell’s 1930s Design for the Singapore Swimming Club’s New Clubhouse,
 Katong, c. 1950s. <i>Nelson Collection, courtesy of National Archives of Singapore (accession no. 20140000166-0055).</i></div>
 
