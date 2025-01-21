@@ -1,5 +1,5 @@
 ---
-title: A Qur'an Made in Singapore
+title: A Singapore-made Qur’an
 permalink: /vol-11/issue-4/jan-mar-2016/singapore-lithographed-quran/
 date: 2016-01-31
 layout: post
