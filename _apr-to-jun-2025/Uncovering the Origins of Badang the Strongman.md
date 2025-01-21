@@ -52,7 +52,7 @@ Most versions of the Annals mention that Badang is buried in a place called Buru
 <div style="background-color: white;">The grave believed to belong to Badang on Pulau Buru, December 2023. It is a long grave (<i>kubor panjang</i>) measuring 3.25 m, a sign of divine power. The <i>gaharu</i> tree is to the left. The grave was declared an official cultural site in 2010. <i>Photo by William L. Gibson.</i></div>
 
 ![](/images/Vol%2021%20Issue%201/Badang/img8.jpg)
-<div style="background-color: white;">An aerial view of Badang’s grave.&nbsp;<i>Photo by William L. Gibson.</i></div>
+<div style="background-color: white;">An aerial view of Badang’s grave.&nbsp;<i>Photo by Hikari Azyure.</i></div>
 
 There are three large trees inside the enclosure. The middle tree, marked as sacred with a yellow cloth, is most likely a _gaharu_, or agarwood tree (_Aquilaria malaccensis_), whose fragrant wood has long been prized for making incense, prayer beads, and Hindu and Buddhist idols. When I visited the place in 2023, the locals told me that the Badang grave had been there since the 1960s. The oldest reference in print that I could locate dates to 1972.[^9]
 
@@ -92,7 +92,7 @@ Yet another possibility is the well-known Sanskrit inscription carved into the s
 Not far from the inscription is a freshwater spring that was “regarded as _keramat_ (miracle-working) by local people, who would have come to take its water for ritual and medicinal purposes”.[^20] When I visited the site in 2023, the inscription had been converted into a shrine with Taoist and Hindu elements erected over the inscription.
 
 ![](/images/Vol%2021%20Issue%201/Badang/img11.jpg)
-<div style="background-color: white;">The shrine with Hindu and Taoist elements erected near the promontory along Pasir Panjang on Pulau Karimun Besar, December 2023. <i>Photo by William L. Gibson.</i></div>
+<div style="background-color: white;">The inscription with Hindu and Taoist elements erected near the promontory along Pasir Panjang on Pulau Karimun Besar, December 2023. <i>Photo by William L. Gibson.</i></div>
 
 #### **Folk Hero**
 Badang’s Orang Benua origin is a significant part of his local identity. In 1847, J.R. Logan, founder and editor of the _Journal of the Indian Archipelago and Eastern Asia_, noted that the Malays called the Orang Benua living around Sayong both _orang utan_ (“men of the forest”) and _orang dalat liar_ (“wild men of the interior”). In the Annals, Badang’s power bestowed by the river spirit is linked to this Malay interpretation of Orang Benua as being similar to orangutans (great apes native to Borneo and Sumatra).[^21] However, the supernatural element of the tale was not limited to Johor.
