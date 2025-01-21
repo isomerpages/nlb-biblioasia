@@ -1155,4 +1155,15 @@ sections:
       image: /images/Vol 19 Issue 4/An Interview with Rachel Heng/book
         cover_homepage3.jpg
       alt: The Great Reclamation
+  - infopic:
+      title: Somerset Maugham Scandalises 1920s Singapore
+      subtitle: Podcast
+      id: infopic
+      description: Though Somerset Maugham was already well-known as a writer when he
+        came to Singapore in 1921, his stay here inspired some of his most
+        celebrated short stories.
+      button: Listen to the episode
+      url: /podcast/somerset-maugham-scandalises-1920s-singapore-tracey-morton/
+      image: /images/Podcast/tracey_600_400.jpg
+      alt: Somerset Maugham
 ---
