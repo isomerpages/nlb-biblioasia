@@ -696,5 +696,12 @@ encouraging me to study histories of swimming in the first place. Thanks also go
 staff at NLB who supported me in this work, in particular Joanna Tan, Makeswary
 Periasamy and Soh Gek Han.</i>
 
+<div>
+<b>Jesse O’Neill</b> is a design historian and Senior Lecturer at the Chelsea College of Arts,
+University of the Arts London. He was previously coordinator of Design History and
+Theory at the Glasgow School of Art Singapore, in collaboration with the Singapore
+Institute of Technology. Jesse holds a PhD in design studies from the University of New
+South Wales, Australia.</div>
+
 
 
