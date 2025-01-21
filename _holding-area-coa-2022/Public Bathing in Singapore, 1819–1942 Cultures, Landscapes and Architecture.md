@@ -341,7 +341,7 @@ public and domestic wells to prevent disease, but had the effect of further
 limiting people’s access to water.[^51] As part of limiting the “nuisance” of
 public bathing, the Municipal Commissioners also placed criminal charges
 on people found bathing naked in public sites, ensuring that bathing and
-washing would always be decent and modest activities.52
+washing would always be decent and modest activities.[^52] 
 
 Regulation created a classification of water spaces according to
 understood functions, but rules were often subverted by the public. The
@@ -350,28 +350,28 @@ piped town water, was where many people saw prime opportunity for
 bathing – a chargeable offence. One European man bathing there tried to
 escape the charge by claiming he was simply retrieving his hat that had
 blown into the water. The fact he was completely undressed and likely in the
-company of two Japanese prostitutes did not help his defence.53
+company of two Japanese prostitutes did not help his defence.[^53] 
 
 Gradually, these rules about recognised bathing places led to concerns
 in the Municipal Commission over the broader working-class public’s access
-to water and washing.54 And even where there was access, there remained
+to water and washing.[^54] And even where there was access, there remained
 problems with the water’s cleanliness. For example, in the mid-1870s there
 were reported to be 42 designated bathing places along the Singapore River
 and its adjacent canals, even though the river was the most polluted water
-body in the town.55 And so, the municipality tried a new strategy. Instead
+body in the town.[^55] And so, the municipality tried a new strategy. Instead
 of just demarcating allowable bathing places in public water bodies, they
 would build their own new places with different water sources. These had
 an affordable one-cent entry fee, provided clean water, and encouraged good
 hygiene. A trial was built on the Singapore River behind the Ellenborough
 Market in 1874, and since this was before the reservoir was finished, clean
-water was brought in by water boat.56 Being placed at the market, it was hoped this bathhouse might become an established social centre for
+water was brought in by water boat.[^56] Being placed at the market, it was hoped this bathhouse might become an established social centre for
 nearby residents.
 
 When the municipality’s Impounding Reservoir was completed in 1877,
 the new infrastructure allowed a rethinking of public bathing provisions.
 In 1880, the Ellenborough Market bathhouse was redesigned by Municipal
-Engineer Thomas Cargill to use cleaner municipal water.57 Cargill finished
-another bathhouse on Boat Quay in 1881.58 These places were enclosed
+Engineer Thomas Cargill to use cleaner municipal water.[^57]  Cargill finished
+another bathhouse on Boat Quay in 1881.[^58] These places were enclosed
 wooden buildings, with tiled roofs, taps and iron tanks made to hold a
 communal bath, and as pieces of municipal architecture they received a
 positive reception:
@@ -387,14 +387,14 @@ positive reception:
    once such a vast improvement upon former constructions as<br>
    to awaken admiration of the taste and ability of the Municipal<br>
    Engineer, and the public spirit of the Commissioners, in<br>
-providing such elegant public conveniences.59
+   providing such elegant public conveniences.[^59] 
 
 A third bathhouse was built at the Clyde Terrace Market on Beach
 Road, and a fourth negotiated with the Tanjong Pagar Dock Company
-(which then was not part of the Municipality60), but there is no reference to
-any finished structure in that place.61 The municipal bathhouse programme
+(which then was not part of the Municipality[^60]), but there is no reference to
+any finished structure in that place.[^61] the municipal bathhouse programme
 did not progress beyond this point, and those that were built disappeared
-by the mid-1890s, with declining attendance and rising maintenance costs.62 The growing acceptance of piped domestic water had changed social
+by the mid-1890s, with declining attendance and rising maintenance costs.[^62] The growing acceptance of piped domestic water had changed social
 practices of gaining access to water, and by this point more people simply
 bathed at home. To some extent, the municipal bathhouses of the 1880s
 bridged the town’s attitudes to changing models of water supply, which
@@ -403,7 +403,7 @@ Yeoh has discussed in detail, the new reservoir system’s inability to produce
 enough water for the growing town, which among other responses, led the
 Municipal Commissioners to become particularly concerned with prospects
 of water wastage at their bathhouses, while continuing to close groundwater
-wells on grounds of contamination.63
+wells on grounds of contamination.[^63]
 
 The municipal bathhouses provided popular access to freshwater
 bathing, but they were controversial: some residents rejected the idea of
@@ -417,13 +417,13 @@ Even if there could not be enough formal bathing venues to meet public
 demand, people still found places to go into the water. This was through
 sneaking nighttime swims at the Esplanade, visiting Beach Road, or
 travelling to rural beaches at Pasir Panjang, Tanjong Katong, Siglap or
-Changi.64 All of these were popular places without any of the architecture
+Changi.[^64] All of these were popular places without any of the architecture
 of bathing; and as places of recreation they appealed equally to European
 and Asian residents. The east coast, later a centre for swimming, was
-already known for bathing trips as early as the 1850s.65 Ultimately, bathing
+already known for bathing trips as early as the 1850s.[^65] Ultimately, bathing
 was an opportunistic activity – people bathed wherever they found water,
 whether in the sea, rivers, canals, ponds, quarries or, in a couple of accounts,
-monsoon-struck fields.66
+monsoon-struck fields.[^66]
 
 Over time, people built holiday homes along the coasts, following the
 enjoyable places for beach swimming and defining the areas of Singapore’s
@@ -447,8 +447,8 @@ It was during this period, as ambitions of recreational bathing moved
 beyond town limits, that two new bathing clubs were established. Both
 managed to survive and become Singapore’s premier institutions for
 swimming: the Singapore Swimming Club, founded in 1893, and the Chinese Swimming Club, which was fully formed as a social club about 15
-years later.67 Both clubs have received substantial historical description from
-club historians, who discuss their individual developments,68 but what is
+years later.[^67] Both clubs have received substantial historical description from
+club historians, who discuss their individual developments,[^68]  but what is
 necessary here is to consider the significance of these lasting clubs within the
 larger history of Singapore’s bathing cultures. Arguably, the greatest success
 of these places, and what marks them as different from earlier clubs, is that
@@ -456,9 +456,9 @@ both embraced an open model that was rejected by earlier planners, thus
 avoiding the financial trap of older bathing places and ultimately allowing
 them to survive. Both avoided the expensive, complicated and yet preferred
 locations of the town, choosing instead to reside in the rural east coast. This
-drew criticism from some, who found accessing these places inconvenient,69
+drew criticism from some, who found accessing these places inconvenient,[^69]
 but they were nonetheless places already popular among swimmers for half
-a century.70
+a century.[^70]
 
 Both clubs were founded to enjoy the pleasures of sea bathing, and
 neither chose to build a *pagar*, deciding instead to make use of open beaches.
@@ -467,18 +467,18 @@ houses that were used for dressing rooms and dining areas. At first, their
 distance from the town meant that these places could only be used during
 weekends. The Singapore Swimming Club established a regular *sampan*
 launch from Johnston’s Pier on Sundays to help members reach their site,
-which was not accessible by road until 1907.71 The early Chinese Swimming
+which was not accessible by road until 1907.[^71] The early Chinese Swimming
 Club (then the Tanjong Katong Swimming Party) rented out its clubhouse
 through the week to families wanting a short retreat in the countryside, thus
-subsidising its rent.72 These approaches differed significantly from the largescale
+subsidising its rent.[^72] These approaches differed significantly from the largescale
 proposals of the 1880s and 1890s, and arguably allowed both clubs to
 survive and gradually build membership. It took six years for the Singapore
 Swimming Club to invest in any form of bathing architecture, deciding in 1899 to build a sea platform for members’ aquatic play – providing a
-chute, diving platform and swinging rope.73 The platform gave swimmers a
+chute, diving platform and swinging rope.[^73] The platform gave swimmers a
 destination, a capacity to exit the water and dive back in. The structure was
 the centrepiece in one of C. Jackson’s 1914 illustrations for *Our Singapore*,
 an image that presents the swimming club as a place of relaxed recreation:
-drinks by the sea, reclining in the sun and playing in the water.74 This sense
+drinks by the sea, reclining in the sun and playing in the water.[^74] This sense
 of pleasure was the image of coastal bathing at the start of the 20th century,
 and as the clubs grew in popularity, residents along the east coast built
 their own piers, bathing rooms and swimming structures, placing the clubs
@@ -487,7 +487,7 @@ within a rural landscape of beachside pleasure architecture (Figure 4).
 The Singapore Swimming Club catered only to Europeans, and the
 Chinese Swimming Club served Straits Chinese residents. These became the
 centres of popular swimming in the first two decades of the 20th century.
-And even if some complained about their distance from town,75 they largely ended the 19th-century press complaints about Singapore’s lack of
+And even if some complained about their distance from town,[^75]  they largely ended the 19th-century press complaints about Singapore’s lack of
 bathing places. The racial divide between the clubs also placed them as the
 last vestiges of Singapore’s colonial laissez-faire and communitarian model
 of recreation, where each social group was expected to establish its own
@@ -495,15 +495,15 @@ recreational organisations. But the clubs also began to represent changes
 in bathing practices, drawing attention to an emerging sporting element
 by holding swimming races and forming water polo teams. For some club
 members, bathing was starting to turn into an athletic and competitive
-activity, but this was still not the dominant paradigm.76 In the 1920s,
+activity, but this was still not the dominant paradigm.[^76] In the 1920s,
 bathing as a sport was to develop elsewhere.
 
 #### **Bathing for Recreation and Sport**
 
 In 1919, the YMCA received permission to take over one of the old reservoir
 tanks on Fort Canning, which they proceeded to turn into a 36-metre
-saltwater pool.77 This helped the club pursue its international ambition
-to promote physical education.78 The YMCA was, of course, just another
+saltwater pool.[^77] This helped the club pursue its international ambition
+to promote physical education.[^78] The YMCA was, of course, just another
 private club, but its wider social mission gave this pool a broader public
 reach. As a result, the YMCA’s Fort Canning Pool became Singapore’s
 most significant bathing place for establishing a modern and public
@@ -511,13 +511,13 @@ swimming culture.
 The YMCA was instrumental in teaching swimming skills to a wider
 population, as well as promoting sporting and competitive attitudes
 to bathing. From the early 1920s, the YMCA taught swimming to boy
-scouts, girl guides and local schoolchildren.79 Their Physical Director,
+scouts, girl guides and local schoolchildren.[^79] Their Physical Director,
 J. W. Jefferson, visited the Chinese Swimming Club, instructing swimmers
-in sporting strokes and setting the path for the club to produce some of the strongest competitive swimmers of the 1920s and 1930s.80 In 1920, the
+in sporting strokes and setting the path for the club to produce some of the strongest competitive swimmers of the 1920s and 1930s.[^80] In 1920, the
 YMCA established an annual swimming competition that was open to any
-member of the public,81 opened the Fort Canning pool to students during
-school holidays82 and organised events for the public to swim in designated
-social groups.83 These activities expanded public knowledge of swimming,
+member of the public,[^81] opened the Fort Canning pool to students during
+school holidays[^82] and organised events for the public to swim in designated
+social groups.[^83] These activities expanded public knowledge of swimming,
 and drove its popularity.
 
 The 1920s and 1930s then saw major growths in the creation of bathing
@@ -527,48 +527,48 @@ also a response to contemporary international fashions for swimming.
 Swimming was modern and desirable, as the fashionability of suntans
 among Europeans made sunbathing appealing, and new sartorial ideas
 drove interest in the parade of novel and glamorously designed bathing
-suits.84 Contributing to the social demand for swimming environments,
+suits.[^84] Contributing to the social demand for swimming environments,
 new methods in water engineering promised sanitary pools through
-oxidising filtration systems and chemical cleaning.85
+oxidising filtration systems and chemical cleaning.[^85]
 
 In Singapore, attitudes to open-sea bathing turned negative in 1925
 when Doris Bowyer-Smyth, a young socialite from Sydney, was killed by
-a shark at the Singapore Swimming Club.86 A wave of recognition about
+a shark at the Singapore Swimming Club.[^86] A wave of recognition about
 the dangers of open swimming followed, and people became hesitant
 about swimming without enclosures. While the successes of the Singapore
 Swimming Club and Chinese Swimming Club came from letting go of
 19th-century expectations of bathing in *pagar*, in public opinion this was no
-longer an option – an architecture of bathing was necessary. Quickly after Bowyer-Smyth’s death, the Singapore Swimming Club built an enclosure.87
+longer an option – an architecture of bathing was necessary. Quickly after Bowyer-Smyth’s death, the Singapore Swimming Club built an enclosure.[^87]
 In following years, others were built at the Chinese Swimming Club, the
-Sea View Hotel and private homes along the east coast.88 The military
+Sea View Hotel and private homes along the east coast.[^88] The military
 followed, building enclosures at their bases in Sembawang, Seletar and
 Changi (see Figure 1).
 
 As enclosed sea swimming continued to be seen as a necessity, the
 growing trend of swimming led some inland clubs to fund the construction
 of their own pools. The Swiss Club built its pool first, followed by the
-Tanglin Club.89 The new Golf Club that emerged from the municipality’s
-closure of the old Racecourse proposed to include a pool as well.90 These
+Tanglin Club.[^89] The new Golf Club that emerged from the municipality’s
+closure of the old Racecourse proposed to include a pool as well.[^90] These
 were European clubs, and Aw Boon Haw recognised the lack of equivalent
 recreational spaces for the Chinese middle classes. He decided to establish
 his own recreational club on the coast of Pasir Panjang in 1930, which
 included a saltwater swimming pool and *pagar* that could hold a thousand
-people.91 The military again followed suit, building pools on bases in the
+people.[^91] The military again followed suit, building pools on bases in the
 1930s, not long after having built their seaside enclosures. However, the
 military had long held interests in bathing for recreation, building tanks in
 forts as early as the 1860s as a healthy option for recreation that would deter
-soldiers from engaging in Singapore’s vices.92
+soldiers from engaging in Singapore’s vices.[^92]
 
 Possibilities for recreational bathing were growing rapidly; in certain
 respects it seemed like the old centres of bathing and the east coast
 swimming clubs were falling behind through their attachment to the
 sea. It was this pressure to keep up with other clubs and retain their
-premier position that led them to invest in their own pools. The Singapore Swimming Club considered building a pool from 1928,93 but also debated
-moving to a new site at Tanjong Berlayer on the west coast.94 Eventually
+premier position that led them to invest in their own pools. The Singapore Swimming Club considered building a pool from 1928,[^93] but also debated
+moving to a new site at Tanjong Berlayer on the west coast.[^94]  Eventually
 they decided to retain their Katong site and build an inland pool, which
-opened in 1931.95 Four years later, they added a modern clubhouse designed
+opened in 1931.[^95] Four years later, they added a modern clubhouse designed
 by the architect Frank Dowdeswell that proved to be a spectacular example
-of streamlined modernism (Figure 5).96 With graceful horizontal lines and
+of streamlined modernism (Figure 5).[^96] With graceful horizontal lines and
 curved corner balconies, this building was at the forefront of worldwide
 interest in fashionable leisure environments. In the 1930s, the club was at the
 height of fashion. As Bruce Lockhart wrote in 1936:
@@ -578,11 +578,11 @@ height of fashion. As Bruce Lockhart wrote in 1936:
    fenced off from the sea and said to be the largest in the world,<br>
    is an unforgettable sight. The costumes of the women lose<br>
    nothing by comparison with those of Paris Plage and Deauville,<br>
-   and iced-beer softens the rigours of sun-bathing.97
+   and iced-beer softens the rigours of sun-bathing.[^97]
 
 The Chinese Swimming Club followed this example, redeveloping
 their site to build a new clubhouse and a pool known as the Lee Kong
-Chian Swimming Pool in 1938.98 The new designs created by the swimming
+Chian Swimming Pool in 1938.[^98] The new designs created by the swimming
 clubs, as with the inland European social clubs, embraced the visual
 language of modern architecture. They left behind the old vernacular of
 Singapore’s swimming places, and established a new image of leisurely
@@ -595,12 +595,12 @@ clubs, the municipality took notice. At this time, the municipality was
 developing ideas about public provision of recreation that radically differed
 from their predecessors. They began seeing it as part of their remit to
 provide leisure and health spaces for the public, which included the creation
-of new sports fields.99 Public interest in swimming was obvious, and they
+of new sports fields.[^99] Public interest in swimming was obvious, and they
 made plans for municipal swimming places. This led to the Mount Emily
 Pool, which was modelled on the YMCA Pool at Fort Canning. To create
 this first public pool in 1931, the municipality used a similar strategy of
 repurposing old water infrastructure, converting one of the tanks of the
-Mount Emily Service Reservoir into a freshwater pool.100 Aside from the
+Mount Emily Service Reservoir into a freshwater pool.[^100] Aside from the
 YMCA Pool, this strategy was also used earlier in a private pool at Keppel
 Hill, owned by the Tanjong Pagar Dock Company, where a reservoir built
 in the 1890s was converted to a company pool sometime in the 1920s. At
@@ -620,17 +620,17 @@ element of private clubs and had become a service provided for the wider
 public. The surging interest in swimming, and the successes of the YMCA
 and the Chinese Swimming Club in international competitions, such as the
 Far Eastern Olympic Games in Shanghai in 1927 or inter-club competitions
-abroad,101 led to the foundation of the Singapore Amateur Swimming
-Association in 1939.102 This organisation brought together private and
+abroad,[^101] led to the foundation of the Singapore Amateur Swimming
+Association in 1939.[^102] This organisation brought together private and
 military clubs and began a process of regulating swimming as an athletic
 activity in Singapore, eventually leading to swimmers competing in the
-Olympics as “Singaporeans” after the Second World War.103
+Olympics as “Singaporeans” after the Second World War.[^103]
 
 The symbolic ending of this period of growth in bathing came in 1941.
 By the end of the 1930s, the east coast was dotted with piers and bathing
 structures. The British military demolished all bathing structures along the
 east coast as they mistakenly expected that this area would be the focus of
-Japanese invasion.104 In the early 20th century, the growing popularity of
+Japanese invasion.[^104] In the early 20th century, the growing popularity of
 bathing led to it becoming solidified in architectural interventions; in 1941,
 these physical demonstrations of new attitudes to leisure and hygiene were
 removed, but of course, the interest remained, and was ready to inform the
@@ -999,77 +999,77 @@ _Straits Times Weekly Issue_. “[Another Growl](https://eresources.nlb.gov.sg/n
 
          
 
-1 “[Selangor Notes](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18960615-1.2.22),” _Singapore Free Press and Mercantile Advertiser_, 15 June 1896, 3. (From NewspaperSG)
+[^1]: “[Selangor Notes](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18960615-1.2.22),” _Singapore Free Press and Mercantile Advertiser_, 15 June 1896, 3. (From NewspaperSG)
 
-2 “[A Big Splash](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19310112-1.2.111),” _Singapore Free Press and Mercantile Advertiser_, 12 January 1931, 20 (From NewspaperSG); Ying-Kit Chan, “‘Sports is Politics’: Swimming (and) Pools in Postcolonial Singapore,” _Asian Studies Review_ 40, no. 1 (2016): 21. From the mid-20th century, the public was increasingly given access to these modern leisure environments that supported a changing economy, military and popular lifestyle in Singapore, which is something I have written about elsewhere. See Jesse O’Neill and Nadia Wagner, “Leisure for the Modern Citizen: Swimming in Singapore,” in _Design and Modernity in Asia: National Identity and Transnational Exchange, 1945–1990_, ed. Yunah Lee and Megha Rajguru (London: Bloomsbury, 2022), 71–86.
+[^2]: “[A Big Splash](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19310112-1.2.111),” _Singapore Free Press and Mercantile Advertiser_, 12 January 1931, 20 (From NewspaperSG); Ying-Kit Chan, “‘Sports is Politics’: Swimming (and) Pools in Postcolonial Singapore,” _Asian Studies Review_ 40, no. 1 (2016): 21. From the mid-20th century, the public was increasingly given access to these modern leisure environments that supported a changing economy, military and popular lifestyle in Singapore, which is something I have written about elsewhere. See Jesse O’Neill and Nadia Wagner, “Leisure for the Modern Citizen: Swimming in Singapore,” in _Design and Modernity in Asia: National Identity and Transnational Exchange, 1945–1990_, ed. Yunah Lee and Megha Rajguru (London: Bloomsbury, 2022), 71–86.
 
-3 “[Open Spaces](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19301126-1.2.91),” _Straits Times_, 26 November 1930, 13. (From NewspaperSG)
+[^3]: “[Open Spaces](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19301126-1.2.91),” _Straits Times_, 26 November 1930, 13. (From NewspaperSG)
 
-4 Chan, “‘Sports is Politics’,” 21.
+[^4]: Chan, “‘Sports is Politics’,” 21.
 
-5 Jocelyn Lau and Lucien Low, eds., [_Great Lengths: Singapore’s Swimming Pools_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202710137), 2nd ed. (Singapore: Kucinta, 2017) (Call no. RSING 797.20095957 GRE); R. Yap, ed., [_Singapore Chinese Swimming Club: 88 Years and Beyond_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84567655) (Singapore: Chinese Swimming Club, 1998) (Call no. RSING q797.21095957 SIN); Yeo Toon Joo, ed., [_Singapore Swimming Club: The First 100 Years_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7401149) (Singapore: YTJ and Singapore Swimming Club, 1994) (Call no. RSING 797.210605957 TAN); Chinese Swimming Club (Singapore), [_The Chinese Swimming Club Souvenir 1951_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14313506) (Singapore: Chinese Swimming Club, 1951) (Call no. RUR 797.2106095957); J. A. Gagan, _The Singapore Swimming Club: An Illustrated History and Description of the Club_ (Singapore: Times Printers, 1968).
+[^5]: Jocelyn Lau and Lucien Low, eds., [_Great Lengths: Singapore’s Swimming Pools_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202710137), 2nd ed. (Singapore: Kucinta, 2017) (Call no. RSING 797.20095957 GRE); R. Yap, ed., [_Singapore Chinese Swimming Club: 88 Years and Beyond_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84567655) (Singapore: Chinese Swimming Club, 1998) (Call no. RSING q797.21095957 SIN); Yeo Toon Joo, ed., [_Singapore Swimming Club: The First 100 Years_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7401149) (Singapore: YTJ and Singapore Swimming Club, 1994) (Call no. RSING 797.210605957 TAN); Chinese Swimming Club (Singapore), [_The Chinese Swimming Club Souvenir 1951_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14313506) (Singapore: Chinese Swimming Club, 1951) (Call no. RUR 797.2106095957); J. A. Gagan, _The Singapore Swimming Club: An Illustrated History and Description of the Club_ (Singapore: Times Printers, 1968).
 
-6 John Saunders and Peter Horton, “Goodbye Renaissance Man: Globalised Concepts of Physical Education and Sport in Singapore,” _Sport in Society_ 15, no. 10 (2012): 1381–95; Peter Horton, “Singapore: Imperialism and Post-Imperialism, Athleticism, Sport, Nationhood and Nation-building,” _International Journal of the History of Sport_ 30, no. 11 (2013): 1221–34; Nick Aplin, “The Rise of Modern Sport in Colonial Singapore: The Singapore Cricket Club Leads the Way,” in [_The Routledge Handbook of Sport in Asia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=204518097), ed. Fan Hong and Lu Zhouxiang (New York: Routledge, 2021), 190–205. (Call no. RSING 796.095 ROU)
+[^6]: John Saunders and Peter Horton, “Goodbye Renaissance Man: Globalised Concepts of Physical Education and Sport in Singapore,” _Sport in Society_ 15, no. 10 (2012): 1381–95; Peter Horton, “Singapore: Imperialism and Post-Imperialism, Athleticism, Sport, Nationhood and Nation-building,” _International Journal of the History of Sport_ 30, no. 11 (2013): 1221–34; Nick Aplin, “The Rise of Modern Sport in Colonial Singapore: The Singapore Cricket Club Leads the Way,” in [_The Routledge Handbook of Sport in Asia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=204518097), ed. Fan Hong and Lu Zhouxiang (New York: Routledge, 2021), 190–205. (Call no. RSING 796.095 ROU)
 
-7 Nick Aplin, [_Sport in Singapore: The Colonial Legacy_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203990042) (Singapore: Straits Times Press, 2019), 23. (Call no. RSING 796.095957 APL)
+[^7]: Nick Aplin, [_Sport in Singapore: The Colonial Legacy_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203990042) (Singapore: Straits Times Press, 2019), 23. (Call no. RSING 796.095957 APL)
 
-8 Early news articles using this meaning of the word “swimming” included “[Deserters from the Inglis](https://eresources.nlb.gov.sg/newspapers/digitised/article/singchronicle18280117-1.2.6),” _Singapore Chronicle_, 17 January 1828, 2; “[Piracy](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18360324-1.2.16),” _Singapore Free Press and Mercantile Advertiser_, 24 March 1836, 3; “[Batavia](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18460408-1.2.11),” _Straits Times_, 8 April 1846, 2. (From NewspaperSG)
+[^8]: Early news articles using this meaning of the word “swimming” included “[Deserters from the Inglis](https://eresources.nlb.gov.sg/newspapers/digitised/article/singchronicle18280117-1.2.6),” _Singapore Chronicle_, 17 January 1828, 2; “[Piracy](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18360324-1.2.16),” _Singapore Free Press and Mercantile Advertiser_, 24 March 1836, 3; “[Batavia](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18460408-1.2.11),” _Straits Times_, 8 April 1846, 2. (From NewspaperSG)
 
-9 Francoise de Bonneville, _The Book of the Bath_ (New York: Rizzoli, 1998), 6; Sigfried Giedion, _Mechanisation Takes Command_ (New York: Oxford University Press, 1948), 628–76.
+[^9]: Francoise de Bonneville, _The Book of the Bath_ (New York: Rizzoli, 1998), 6; Sigfried Giedion, _Mechanisation Takes Command_ (New York: Oxford University Press, 1948), 628–76.
 
-10 “[Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/singchronicle18351031-1.2.13),” _Singapore Chronicle_, 31 October 1835, 3; “[Miscellaneous](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18430803-1.2.10.10),” _Singapore Free Press and Mercantile Advertiser_, 3 August 1843, 2; “[A Few Hints on Sea Bathing](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18500723-1.2.20),” _Straits Times_, 23 July 1850, 7; “[Sports at New Harbour Dock](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk18890904-1.2.43),” _Singapore Free Press and Mercantile Advertiser_, 4 September 1889, 300; “[New Year Sports](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18891224-1.2.11),” _Straits Times Weekly Issue_, 24 December 1889, 2. (From NewspaperSG)
+[^10]: “[Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/singchronicle18351031-1.2.13),” _Singapore Chronicle_, 31 October 1835, 3; “[Miscellaneous](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18430803-1.2.10.10),” _Singapore Free Press and Mercantile Advertiser_, 3 August 1843, 2; “[A Few Hints on Sea Bathing](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18500723-1.2.20),” _Straits Times_, 23 July 1850, 7; “[Sports at New Harbour Dock](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk18890904-1.2.43),” _Singapore Free Press and Mercantile Advertiser_, 4 September 1889, 300; “[New Year Sports](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18891224-1.2.11),” _Straits Times Weekly Issue_, 24 December 1889, 2. (From NewspaperSG)
 
-11 Ian Bradley, _Health, Hedonism and Hypochondria: The Hidden History of Spas_ (London: Tauris Parks, 2020), 126; Kenneth Lindley, _Seaside Architecture_ (London: Hugh Evelyn, 1973), 7.
+[^11]: Ian Bradley, _Health, Hedonism and Hypochondria: The Hidden History of Spas_ (London: Tauris Parks, 2020), 126; Kenneth Lindley, _Seaside Architecture_ (London: Hugh Evelyn, 1973), 7.
 
-12 Balneotherapy is the medical treatment of disorders through both drinking and bathing in thermal mineral waters from natural springs. Hydrotherapy, a later development, refers to the treatment of ailments through water from any source and through a variety of techniques that could involve exercise, bathing, and wrapping in wet cloths.
+[^12]: Balneotherapy is the medical treatment of disorders through both drinking and bathing in thermal mineral waters from natural springs. Hydrotherapy, a later development, refers to the treatment of ailments through water from any source and through a variety of techniques that could involve exercise, bathing, and wrapping in wet cloths.
 
-13 Bradley, _Health, Hedonism and Hypochondria_, 8–9.
+[^13]: Bradley, _Health, Hedonism and Hypochondria_, 8–9.
 
-14 “[Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/singchronicle18320809-1.2.19),” _Singapore Chronicle_, 9 August 1832, 3; “[Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/singchronicle18331114-1.2.15),” _Singapore Chronicle_, 14 November 1833, 3; “[Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/singchronicle18350214-1.2.10),” _Singapore Chronicle_, 14 February 1835, 3; “[The Straits Times](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18461230-1.2.4),” _Straits Times_, 30 December 1846, 3; “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18611130-1.2.33),” _Straits Times_, 30 November 1861, 2. (From NewspaperSG)
+[^14]: “[Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/singchronicle18320809-1.2.19),” _Singapore Chronicle_, 9 August 1832, 3; “[Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/singchronicle18331114-1.2.15),” _Singapore Chronicle_, 14 November 1833, 3; “[Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/singchronicle18350214-1.2.10),” _Singapore Chronicle_, 14 February 1835, 3; “[The Straits Times](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18461230-1.2.4),” _Straits Times_, 30 December 1846, 3; “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18611130-1.2.33),” _Straits Times_, 30 November 1861, 2. (From NewspaperSG)
 
-15 “[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18651109-1.2.3),” _Singapore Free Press and Mercantile Advertiser_, 9 November 1865, 2; “[Wednesday 26th April](https://eresources.nlb.gov.sg/newspapers/digitised/article/stoverland18760429-1.2.17),” _Straits Times_, 29 April 1876, 4; “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18830508-1.2.11),” _Straits Times_, 8 May 1883, 2. (From NewspaperSG)
+[^15]: “[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18651109-1.2.3),” _Singapore Free Press and Mercantile Advertiser_, 9 November 1865, 2; “[Wednesday 26th April](https://eresources.nlb.gov.sg/newspapers/digitised/article/stoverland18760429-1.2.17),” _Straits Times_, 29 April 1876, 4; “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18830508-1.2.11),” _Straits Times_, 8 May 1883, 2. (From NewspaperSG)
 
-16 “[Bathing Place](https://eresources.nlb.gov.sg/newspapers/digitised/article/singchronicle18270524-1.2.4),” _Singapore Chronicle_, 24 May 1827, 2. (From NewspaperSG)
+[^16]: “[Bathing Place](https://eresources.nlb.gov.sg/newspapers/digitised/article/singchronicle18270524-1.2.4),” _Singapore Chronicle_, 24 May 1827, 2. (From NewspaperSG)
 
-17 Walter Makepeace, Gilbert E. Brooke and Roland St. J. Braddell, eds., [_One Hundred Years of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6203718) (Singapore: Oxford University Press, 1991), 320. (Call no. RSING 959.57 ONE-\[HIS\])
+[^17]: Walter Makepeace, Gilbert E. Brooke and Roland St. J. Braddell, eds., [_One Hundred Years of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6203718) (Singapore: Oxford University Press, 1991), 320. (Call no. RSING 959.57 ONE-\[HIS\])
 
-18 “[Bathing Place](https://eresources.nlb.gov.sg/newspapers/digitised/article/singchronicle18270524-1.2.4).”
+[^18]: “[Bathing Place](https://eresources.nlb.gov.sg/newspapers/digitised/article/singchronicle18270524-1.2.4).”
 
-19 Fred Gray, [_Designing the Seaside: Architecture, Society and Nature_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12806976) (London: Reaktion, 2006), 147. (Call no. RART 720.941 GRA)
+[^19]: Fred Gray, [_Designing the Seaside: Architecture, Society and Nature_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12806976) (London: Reaktion, 2006), 147. (Call no. RART 720.941 GRA)
 
-20 “[Bathing Place](https://eresources.nlb.gov.sg/newspapers/digitised/article/singchronicle18270524-1.2.4).”
+[^20]: “[Bathing Place](https://eresources.nlb.gov.sg/newspapers/digitised/article/singchronicle18270524-1.2.4).”
 
-21 “The _pagar_ consisted of a fence with not more than two or three inches of space between the vertical palings. And with barbed wire nailed to that. \[…\] The _pagar_ also had a diving tower and a chute. Plus changing rooms and a covered area.” Lynne Copping, _Life on Pulau Brani_, letter from Bob Pattimore, Singapore Memory Project, accessed 15 June 2023.
+[^21]: “The _pagar_ consisted of a fence with not more than two or three inches of space between the vertical palings. And with barbed wire nailed to that. \[…\] The _pagar_ also had a diving tower and a chute. Plus changing rooms and a covered area.” Lynne Copping, _Life on Pulau Brani_, letter from Bob Pattimore, Singapore Memory Project, accessed 15 June 2023.
 
-22 “[The Ministry](https://eresources.nlb.gov.sg/newspapers/digitised/article/singchronicle18280131-1.2.4),” _Singapore Chronicle_, 31 January 1828, 2. (From NewspaperSG)
+[^22]: “[The Ministry](https://eresources.nlb.gov.sg/newspapers/digitised/article/singchronicle18280131-1.2.4),” _Singapore Chronicle_, 31 January 1828, 2. (From NewspaperSG)
 
-23 “[The Straits Observer](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18761104-1.2.4),” _Straits Observer_, 4 November 1876, 2. (From NewspaperSG)
+[^23]: “[The Straits Observer](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18761104-1.2.4),” _Straits Observer_, 4 November 1876, 2. (From NewspaperSG)
 
-24 “[The Straits Observer](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18761104-1.2.4)”; Charles Burton Buckley, [_An Anecdotal History of Old Times in Singapore 1819– 1967_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082239) (Singapore: Oxford University Press, 1984), 732. (Call no. RSING 959.57 BUC-\[HIS\])
+[^24]: “[The Straits Observer](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18761104-1.2.4)”; Charles Burton Buckley, [_An Anecdotal History of Old Times in Singapore 1819– 1967_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082239) (Singapore: Oxford University Press, 1984), 732. (Call no. RSING 959.57 BUC-\[HIS\])
 
-25 “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18461126-1.2.9),” _Singapore Free Press and Mercantile Advertiser_, 26 November 1846, 3. (From NewspaperSG)
+[^25]: “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18461126-1.2.9),” _Singapore Free Press and Mercantile Advertiser_, 26 November 1846, 3. (From NewspaperSG)
 
-26 “[Correspondence](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18491109-1.2.5),” _Singapore Free Press and Mercantile Advertiser_, 9 November 1849, 2. (From NewspaperSG)
+[^26]:  “[Correspondence](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18491109-1.2.5),” _Singapore Free Press and Mercantile Advertiser_, 9 November 1849, 2. (From NewspaperSG)
 
-27 “[Page 2 Advertisements Column 4](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18500108-1.2.3.4),” _Straits Times_, 8 January 1850, 2. (From NewspaperSG)
+[^27]: “[Page 2 Advertisements Column 4](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18500108-1.2.3.4),” _Straits Times_, 8 January 1850, 2. (From NewspaperSG)
 
-28 “[Building Sites on Mr Scott’s Estate, Tanglin \[Advertisement\]](https://eresources.nlb.gov.sg/newspapers/digitised/article/singdailytimes18780116-1.2.17.4),” _Singapore Daily Times_, 16 January 1878, 2. (From NewspaperSG)
+[^28]: “[Building Sites on Mr Scott’s Estate, Tanglin \[Advertisement\]](https://eresources.nlb.gov.sg/newspapers/digitised/article/singdailytimes18780116-1.2.17.4),” _Singapore Daily Times_, 16 January 1878, 2. (From NewspaperSG)
 
-29 Buckley, [_Anecdotal History_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082239), 732.
+[^29]: Buckley, [_Anecdotal History_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082239), 732.
 
-30 Buckley, [_Anecdotal History_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082239), 732.
+[^30]: Buckley, [_Anecdotal History_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082239), 732.
 
-31 “[Page 4 Advertisements Column 6](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18850321-1.2.34.6),” _Straits Times_, 21 March 1885, 4; “[Advertisement: The Singapore Waterfall](https://eresources.nlb.gov.sg/newspapers/digitised/article/singdailytimes18780610-1.2.15.1),” _Singapore Daily Times_, 10 June 1878, 2. (From NewspaperSG)
+[^31]: “[Page 4 Advertisements Column 6](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18850321-1.2.34.6),” _Straits Times_, 21 March 1885, 4; “[Advertisement: The Singapore Waterfall](https://eresources.nlb.gov.sg/newspapers/digitised/article/singdailytimes18780610-1.2.15.1),” _Singapore Daily Times_, 10 June 1878, 2. (From NewspaperSG)
 
-32 The Tivoli bathhouse was described in the 1870s as the “Tivoli Gardens and Refreshment Rooms”: “[Cartouche Sketches in Singapore No. 4](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18740314-1.2.15),” _Straits Times_, 14 March 1874, 4; “[Page 4 Advertisements Column 3](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18850421-1.2.36.3),” _Straits Times_, 21 April 1885, 4. (From NewspaperSG)
+[^32]: The Tivoli bathhouse was described in the 1870s as the “Tivoli Gardens and Refreshment Rooms”: “[Cartouche Sketches in Singapore No. 4](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18740314-1.2.15),” _Straits Times_, 14 March 1874, 4; “[Page 4 Advertisements Column 3](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18850421-1.2.36.3),” _Straits Times_, 21 April 1885, 4. (From NewspaperSG)
 
-33 C. M. Turnbull, [_A History of Modern Singapore 1819–2005_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13206047) (Singapore: NUS Press, 2009), 82. (Call no. RSING 959.57 TUR-\[HIS\])
+[^33]: C. M. Turnbull, [_A History of Modern Singapore 1819–2005_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13206047) (Singapore: NUS Press, 2009), 82. (Call no. RSING 959.57 TUR-\[HIS\])
 
-34 John G. Butcher, [_The British in Malaya 1880–1941: The Social History of a European Community in Colonial South-East Asia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1901870) (Kuala Lumpur: Oxford University Press, 1979), 157. (Call no. RSING 301.4512105951033 BUT)
+[^34]: John G. Butcher, [_The British in Malaya 1880–1941: The Social History of a European Community in Colonial South-East Asia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1901870) (Kuala Lumpur: Oxford University Press, 1979), 157. (Call no. RSING 301.4512105951033 BUT)
 
-35 “[An Unknown Club](https://eresources.nlb.gov.sg/newspapers/digitised/article/singdailytimes18780517-1.2.13.6.1),” _Singapore Daily Times_, 17 May 1878, 3. (From NewspaperSG)
+[^35]: “[An Unknown Club](https://eresources.nlb.gov.sg/newspapers/digitised/article/singdailytimes18780517-1.2.13.6.1),” _Singapore Daily Times_, 17 May 1878, 3. (From NewspaperSG)
 
-36 “[Page 9 Advertisements Column 5](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19310131-1.2.42.5),” _Singapore Free Press and Mercantile_ Advertiser, 31 January 1931, 9; Syonan Tokubetu-si, [_The Good Citizen’s Guide_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=08202d8b-1b30-4a2d-805d-4ed9f7d21b9b) (Singapore: Syonan Sinbun, 1943), 181. (From National Library Online; Call no. RRARE 348.5957026 SYO-\[LKL\]; Microfilm NL7400)
+[^36]:  “[Page 9 Advertisements Column 5](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19310131-1.2.42.5),” _Singapore Free Press and Mercantile_ Advertiser, 31 January 1931, 9; Syonan Tokubetu-si, [_The Good Citizen’s Guide_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=08202d8b-1b30-4a2d-805d-4ed9f7d21b9b) (Singapore: Syonan Sinbun, 1943), 181. (From National Library Online; Call no. RRARE 348.5957026 SYO-\[LKL\]; Microfilm NL7400)
 
 37 “[Swimming as Exercise](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18651026-1.2.4),” _Singapore Free Press and Mercantile Advertiser_, 26 October 1865, 2; “[Sea Bathing](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18651115-1.2.12),” _Straits Times_, 15 November 1865, 2; “[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18660621-1.2.4),” _Singapore Free Press and Mercantile Advertiser_, 21 June 1866, 2; “[Sea Bathing](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18740103-1.2.15),” _Straits Times_, 3 January 1874, 2; “[An European Bath House](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18871025-1.2.7),” _Straits Times_, 25 October 1887, 2; “[What a Newcomer Wants](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18890802-1.2.72),” _Straits Times Weekly Issue_, 2 August 1889, 3; “[No Facilities for Bathing in Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/dailyadvertiser18910115-1.2.3),” _Daily Advertiser_, 15 January 1891, 2; “[Thursday August 11, 1892](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18920811-1.2.4),” _Singapore Free Press and Mercantile Advertiser_, 11 August 1892, 2. (From NewspaperSG)
 
