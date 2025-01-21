@@ -7,15 +7,15 @@ description: ""
 #### The first school for the deaf in Singapore was established in 1954, paving the way for deaf education and the development of Singapore Sign Language.  
 By Rosxalynd Liu and Nathaniel Chew
 
-When pioneering deaf educator Peng Tsu Ying first came to Singapore from Shanghai in the late 1940s, the situation for the Deaf community left much to be desired. Deaf children had no schools and deaf individuals did not have an association to bring them together and represent their interests. In an interview with _The Deaf American_ magazine, Peng recalled that when he first came to Singapore, “I couldn’t find a single deaf person!”1
+When pioneering deaf educator Peng Tsu Ying first came to Singapore from Shanghai in the late 1940s, the situation for the Deaf community left much to be desired. Deaf children had no schools and deaf individuals did not have an association to bring them together and represent their interests. In an interview with _The Deaf American_ magazine, Peng recalled that when he first came to Singapore, “I couldn’t find a single deaf person!”[^1]
 
-Determined to change things, Peng would go on to found Singapore’s first school for the deaf in 1954. A pioneer activist for the deaf, the efforts of Peng, and others, eventually led to the formation of the Singapore Deaf and Dumb Association in 1955. This association would later open the Singapore School for the Deaf on Mountbatten Road in 1963 and a vocational institute for the deaf to acquire basic technical skills in 1975.2&nbsp;
+Determined to change things, Peng would go on to found Singapore’s first school for the deaf in 1954. A pioneer activist for the deaf, the efforts of Peng, and others, eventually led to the formation of the Singapore Deaf and Dumb Association in 1955. This association would later open the Singapore School for the Deaf on Mountbatten Road in 1963 and a vocational institute for the deaf to acquire basic technical skills in 1975.[^2]
 
-Peng Tsu Ying’s School for the Deaf&nbsp;
+#### **Peng Tsu Ying’s School for the Deaf**
 
-Peng and his mother came to Singapore in 1948 to join Peng’s father who was running a greeting card business here. Despite experience as a teacher, on top of book-keeping skills and the ability to correspond in both Chinese and English, Peng, then 21, struggled to find employment – simply because he was deaf.3
+Peng and his mother came to Singapore in 1948 to join Peng’s father who was running a greeting card business here. Despite experience as a teacher, on top of book-keeping skills and the ability to correspond in both Chinese and English, Peng, then 21, struggled to find employment – simply because he was deaf.[^3]
 
-Peng was born in Shanghai, China. When he lost his hearing at around age 5, his parents brought him to Hong Kong where he studied at the School for the Deaf and Dumb. During the Japanese Occupation, Peng returned to Shanghai and enrolled at the Chung Wah School for the Deaf for his secondary education. He became well versed in English, Chinese and American sign languages, and also taught briefly at the Hong Kong School for the Deaf and Dumb.4&nbsp;
+Peng was born in Shanghai, China. When he lost his hearing at around age 5, his parents brought him to Hong Kong where he studied at the School for the Deaf and Dumb. During the Japanese Occupation, Peng returned to Shanghai and enrolled at the Chung Wah School for the Deaf for his secondary education. He became well versed in English, Chinese and American sign languages, and also taught briefly at the Hong Kong School for the Deaf and Dumb.[^4]
 
 Intending to put his prior teaching experience to good use in Singapore, Peng enquired at the Department for Social Welfare but was told there was no school for the deaf yet in Singapore at the time. Undeterred, Peng decided to take on this effort himself. He began advertising his services in a local Chinese newspaper which garnered responses from several parents of deaf children. His first class comprised four students, the maximum that he could accommodate in a room in his parents’ home.5
 
@@ -31,7 +31,7 @@ Despite his deafness, in 1958, Peng participated in motor racing, winning a tota
 
 Peng died on 24 October 2018 from heart failure at age 92 and he was honoured with the Public Service Medal (Posthumous) at the National Day Awards the next year for his selfless dedication to deaf education in Singapore.11
 
-Efforts by the British Red Cross Society
+#### **Efforts by the British Red Cross Society**
 
 At around the same time that Peng was raising funds for his school, the Singapore Branch of the British Red Cross Society – with the support of the Education Department and Social Welfare Department – started a class for deaf children on Dunearn Road in January 1951, taught by the Manchester University-trained Mrs E.M. Goulden.12
 
@@ -41,7 +41,7 @@ Singapore now had two entities conducting classes for the deaf, but demand for p
 
 Apart from the lack of capacity, the school buildings themselves left much to be desired: the Red Cross classes were held in makeshift classrooms at a social welfare home and a child welfare centre, while the Singapore Sign School for the Deaf was no more than an attap hut. In May 1958, the _Straits Times_ wrote that the school founded by Peng was a “shabby, (but efficient and spotlessly clean) unpainted, clapboard building”. When a deafness expert from New Zealand visited the British Red Cross School for the Deaf in York Hill in August that year, he described the building as “most unsatisfactory”.14
 
-The Singapore Association for the Deaf and the School for the Deaf
+#### **The Singapore Association for the Deaf and the School for the Deaf**
 
 Recognising the need to provide better facilities and resources for the Deaf community, the government initiated the formation of the Singapore Deaf and Dumb Association (now known as Singapore Association for the Deaf \[SADeaf\]) in August 1955 to take charge of welfare for the deaf and address the educational challenges they faced, and Peng became a member of the association. Its foremost priority was the construction of a new school, for which the government had set aside land.15
 
@@ -55,7 +55,7 @@ After more than 50 years of supporting the Deaf community, the SSD closed in 201
 
 Today, the majority of deaf and hard-of-hearing students attend mainstream schools with support made available for accessible learning. Designated mainstream schools offer specialised approaches, such as Mayflower Primary School and Beatty Secondary School, where SgSL (Singapore Sign Language) is taught in addition to English. For a small number of students, special-education schools offer additional support. These include Canossian School, which started as a boarding school for deaf children in 1956.22&nbsp;
 
-Studying in Mainstream Schools and Tertiary Institutions
+#### **Studying in Mainstream Schools and Tertiary Institutions**
 
 A key policy shift in the 1970s saw deaf students begin to study in mainstream schools. The “open-education policy” sought to expand the number of places available to deaf children, provide more pathways to secondary education and facilitate greater social integration.23&nbsp;
 
@@ -69,7 +69,7 @@ The challenges facing the deaf and their families were many – the most compell
 
 In a letter to the _Straits Times_ in 2004, Emilyn Heng, a mother of two sons with severe-profound deafness, shared the obstacles her sons faced in a mainstream school. “Like all hearing-impaired students, they experienced innumerable difficulties: the inability to follow group discussions, or, on occasion, failing to hear what their teachers had been saying,” she wrote. Despite these challenges, her sons excelled academically. The elder was awarded the Defence Science and Technology Agency Overseas Merit Scholarship to study computer science at Carnegie Mellon University in the United States, and the younger took biology, chemistry and physics and two special papers at National Junior College, and also learnt to play the piano. “Against all odds, the hearing impaired, if they are focused and determined, and have strong parental support, can and will excel,” she added.28
 
-Communication Tools for the Deaf
+#### **Communication Tools for the Deaf**
 
 Before communication or interpretation devices for the deaf became available, communication between the Deaf community and the hearing relied almost solely on interpreters or notetakers, who could either be interpreters from SADeaf or a family member.29&nbsp; The need for professional interpreters was especially noticeable in the healthcare setting, where signing fluency and health literacy were of paramount importance for interpreting medical consultations accurately.30&nbsp;
 
@@ -83,7 +83,7 @@ In 2006, Singapore’s national broadcaster, Mediacorp, started having real-time
 
 A turning point came in July 2013 when the United Nations Convention on the Rights of Persons with Disabilities was ratified in Singapore. Singapore agreed to ensure that persons with disabilities enjoyed equal human rights and to prohibit discrimination based on disability, which included the Deaf community.36 Since then, the Deaf community has advocated for interpreters and subtitles to be provided in all national broadcasts. Selected theatre and orchestral performances also had sign language interpreters, an encouraging sign that Deaf accessibility was now more than just an afterthought.37
 
-Singapore Sign Language&nbsp;
+#### **Singapore Sign Language**
 
 Over the years, public sentiment towards Singapore’s Deaf community and sign language began to shift. The traditional emphasis on training the Deaf community to hear and speak has evolved into a more holistic appreciation of sign language as a key element of Deaf culture and identity. “Lend them a helping hand and communicate with them by methods they can understand. Let us help the deaf by not insisting that they speak to us,” said Jerry Goh Ewe Hong, president of the SADeaf.38&nbsp;
 
