@@ -387,7 +387,7 @@ positive reception:
    once such a vast improvement upon former constructions as<br>
    to awaken admiration of the taste and ability of the Municipal<br>
    Engineer, and the public spirit of the Commissioners, in<br>
-providing such elegant public conveniences.[^59] 
+   providing such elegant public conveniences.[^59] 
 
 A third bathhouse was built at the Clyde Terrace Market on Beach
 Road, and a fourth negotiated with the Tanjong Pagar Dock Company
