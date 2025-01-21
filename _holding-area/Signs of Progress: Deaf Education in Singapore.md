@@ -207,35 +207,34 @@ In Singapore, the journey of deaf education and&nbsp; accessibility (both physic
 [^29]: 
      
 
-[^30]: 
+[^30]: Jay M. Brenner, et al., “Use of Interpreter Services in the Emergency Department.” _Annals of Emergency Medicine_ 72, no. 4 (October 2018): 432–37, https://www.sciencedirect.com/science/article/abs/pii/S0196064418304311.
 
+
+[^31]: “FAQ on Sign Language Interpreters,” Singapore Association for the Deaf, accessed 26 November 2024, https://sadeaf.org.sg/faq-on-sadeaf-and-about-the-deaf-and-hard-of-hearing/faq-on-sign-language-interpreters/; “FAQ on Number of Deaf in Singapore,” Singapore Association for the Deaf, accessed 26 November 2024, https://sadeaf.org.sg/faq-on-sadeaf-and-about-the-deaf-and-hard-of-hearing/faq-on-number-of-deaf-in-singapore/; “Sign Language Interpretation,” Singapore Association for the Deaf, accessed 26 November 2024, https://sadeaf.org.sg/service/interpreting/.&nbsp;
      
 
-[^31]: 
+[^32]: Ong, “The Deaf Using Fax Machines to Communicate.”
+
+
+[^33]: “SMS Phone Deal for Deaf,” _Today_, 17 August 2001, 4; “Phones for the Deaf,” _Straits Times_, 15 December 2000, 20. (From NewspaperSG).&nbsp;
      
 
-[^32]: 
-
-
-[^33]: 
+[^34]: Phoebe Tay and Bee Chin Ng, “Revisiting the Past to Understand the Present: The Linguistic Ecology of the Singapore Deaf Community and the Historical Evolution of Singapore Sign Language (SgSL),” _Frontiers in Communication_ 6 (January 2022), https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2021.748578/full.
      
 
-[^34]: 
+[^35]: Goh Yan Han, “10th Consecutive National Day Rally to Have Sign Language Interpreter As S’pore Aims for More Accessible Content,” _Straits Times_, 23 August 2022, https://www.straitstimes.com/singapore/10th-consecutive-national-day-rally-to-have-sign-language-interpreter-as-spore-aims-for-more-accessible-content.
      
 
-[^35]: 
+[^36]: Hillary Chua, “Healthcare Access for the Deaf in Singapore: Overcoming Communication Barriers,” _Asian Bioethics Review_ 11, no. 4 (30 November 2019): 377–90, https://pmc.ncbi.nlm.nih.gov/articles/PMC7747252/.
+
+
+[^37]: Mayo Martin, “Loud and Clear,” _Today_, 25 May 2015, 34. (From NewspaperSG); Cheryl Lin, “Music for the Deaf, Theatre for the Blind: How the Arts Is Catering to People with Disabilities,” CNA, 30 December 2021, https://www.channelnewsasia.com/singapore/music-theatre-arts-catering-deaf-blind-people-disabilities-2378106.&nbsp;
      
 
-[^36]: 
-
-
-[^37]: 
+[^38]: “Why Many Deaf Children Are Denied Schooling,” _Straits Times_, 22 September 1976, 7. (From NewspaperSG)
      
 
-[^38]: 
-     
-
-[^39]: 
+[^39]: “Andrew Tay,” Equal Dreams, accessed September 2, 2024, https://equaldreams.sg/member/andrew-tay/.
      
 
 [^40]: “A Teacher for the Deaf,” _Singapore Standard_, 23 November 1955, 3. (From NewspaperSG)
