@@ -165,10 +165,9 @@ the structure perfectly adequate, hoping its establishment would provide a
 place for public bathing for years to come. The “rudeness” of the enclosure
 most likely refers to its regional vernacular construction. The battery *pagar* 
 
-<img src="/images/COA%202022/Public%20Bathing%20in%20Singapore/Royal_Air_Force_Seletar__1930.jpg" style="width:100%;">
-<div style="background-color: white;">Swimming <i>pagar</i> at Royal Air Force Seletar, c. 1930, one of a series of swimming enclosures built at military bases in the 1920s and 1930s. <i>Courtesy of National Archives of Singapore (accession
+<img src="/images/COA%202022/Public%20Bathing%20in%20Singapore/Royal_Air_Force_Seletar__1930.jpg" style="width:80%;">
+<div style="background-color: white;">Swimming <i>Pagar</i> at Royal Air Force Seletar, c. 1930, One of a Series of Swimming enclosures Built at Military Bases in the 1920s and 1930s. <i>Courtesy of National Archives of Singapore (accession
 no. 19980002873-0048).</i></div>
-
 
 
 appears to have used conventions of Malay and Orang Laut architecture,
@@ -334,7 +333,7 @@ of the earliest was made in 1849 around a well in Telok Blangah, opposite
 the Temenggung’s palace, in what was reported as a great cleaning and 
 
 <img src="/images/COA%202022/Public%20Bathing%20in%20Singapore/Vernacular_bathing_place_in_Seletar__1869.jpg" style="width:100%;">
-<div style="background-color: white;">Vernacular bathing place in Seletar, near the Government Bungalow. Eugen von
+<div style="background-color: white;">Vernacular Bathing Place in Seletar, Near the Government Bungalow. Eugen Von
 Ransonnet, “Bathing Place Near Selita”, 1869. <i>Courtesy of the National Museum of Singapore.</i></div>
 
 
@@ -441,7 +440,7 @@ whether in the sea, rivers, canals, ponds, quarries or, in a couple of accounts,
 monsoon-struck fields.[^66]
 
 <img src="/images/COA%202022/Public%20Bathing%20in%20Singapore/private_bathing_place_belonging_to_Ong_Siew_Kiam__1920.jpg" style="width:100%;">
-<div style="background-color: white;">Design drawing for a private bathing place belonging to Ong Siew Kiam. <i>Lee Kian Soo, Pagar in Kampong Beting Kusa, c. 1920s. National Library Board. (Call no. RRARE 346.59570438 IND).</i></div>
+<div style="background-color: white;">Design Drawing for a Private Bathing Place Belonging to Ong Siew Kiam. <i>Lee Kian Soo, Pagar in Kampong Beting Kusa, c. 1920s. National Library Board. (Call no. RRARE 346.59570438 IND).</i></div>
 
 Over time, people built holiday homes along the coasts, following the
 enjoyable places for beach swimming and defining the areas of Singapore’s
@@ -589,7 +588,7 @@ sea. It was this pressure to keep up with other clubs and retain their
 premier position that led them to invest in their own pools. The Singapore 
 
 <img src="/images/COA%202022/Public%20Bathing%20in%20Singapore/Frank_Dowdeswell_s_1930s_design.jpg" style="width:100%;">
-<div style="background-color: white;">Frank Dowdeswell’s 1930s design for the Singapore Swimming Club’s new clubhouse,
+<div style="background-color: white;">Frank Dowdeswell’s 1930s Design for the Singapore Swimming Club’s New Clubhouse,
 Katong, c. 1950s. <i>Nelson Collection, courtesy of National Archives of Singapore (accession no. 20140000166-0055).</i></div>
 
 Swimming Club considered building a pool from 1928,[^93] but also debated
@@ -710,7 +709,7 @@ was developing, and as provision of the municipal water supply expanded,
 public bathing focused in creasingly on recreational and sporting sites, since 
 
 <img src="/images/COA%202022/Public%20Bathing%20in%20Singapore/Locations_of_Bathing_Places1.jpg" style="width:60%;">
-<div style="background-color: white;">Locations of bathing places within the town of Singapore, 1819–1942.<i> Author, 2022.</i></div>
+<div style="background-color: white;">Locations of Bathing Places Within the Town of Singapore, 1819–1942.<i> Author, 2022.</i></div>
 
 personal washing was becoming a domestic activity. As interest in bathing
 solidified, a more refined architecture of seaside *pagar* and inland pools
