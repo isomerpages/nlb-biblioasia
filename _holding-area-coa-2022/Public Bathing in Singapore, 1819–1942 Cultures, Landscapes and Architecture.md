@@ -4,7 +4,7 @@ permalink: /holding-area/chapters-on-asia-2022/public-bathing-in-singapore/
 variant: markdown
 description: ""
 ---
-   The east is essentially a land of bathing. The white man tubs<br>    himself, the yellow man, the brown man and some of the black<br>    men rub themselves – with water. The remainder prefer oil.<br>   The first question a white man asks on arrival is “Have you a<br>    swimming bath?”[^1]
+The east is essentially a land of bathing. The white man tubs<br>    himself, the yellow man, the brown man and some of the black<br>    men rub themselves – with water. The remainder prefer oil.<br>   The first question a white man asks on arrival is “Have you a<br>    swimming bath?”[^1]
 
 #### **Introduction**
 
@@ -163,7 +163,15 @@ its architectural style to be “somewhat rude”, and thought the dressing
 rooms too high above the water.[^20] However, they otherwise considered
 the structure perfectly adequate, hoping its establishment would provide a
 place for public bathing for years to come. The “rudeness” of the enclosure
-most likely refers to its regional vernacular construction. The battery *pagar* appears to have used conventions of Malay and Orang Laut architecture,
+most likely refers to its regional vernacular construction. The battery *pagar* 
+
+<img src="/images/COA%202022/Public%20Bathing%20in%20Singapore/Royal_Air_Force_Seletar__1930.jpg" style="width:80%;">
+<div style="background-color: white;">Swimming <i>pagar</i> at Royal Air Force Seletar, c. 1930, one of a series of swimming enclosures built at military bases in the 1920s and 1930s. <i>Courtesy of National Archives of Singapore (accession
+no. 19980002873-0048).</i></div>
+
+
+
+appears to have used conventions of Malay and Orang Laut architecture,
 which remained the dominant architectural style for Singapore’s *pagar*
 over the following century. A very similar construction style was still used
 for enclosures of the 1920s and 1930s, shown in images of military bathing
