@@ -4,7 +4,7 @@ permalink: /holding-area/chapters-on-asia-2022/public-bathing-in-singapore/
 variant: markdown
 description: ""
 ---
-              The east is essentially a land of bathing. The white man tubs<br>    himself, the yellow man, the brown man and some of the black<br>    men rub themselves – with water. The remainder prefer oil.<br>   The first question a white man asks on arrival is “Have you a<br>    swimming bath?”[^1]
+The east is essentially a land of bathing. The white man tubs<br>    himself, the yellow man, the brown man and some of the black<br>    men rub themselves – with water. The remainder prefer oil.<br>   The first question a white man asks on arrival is “Have you a<br>    swimming bath?”[^1]
 
 #### **Introduction**
 
@@ -126,10 +126,10 @@ clearly interested in bathing in the sea. From the 1820s, they often dove into
 the harbour waters beside their ships both to clean themselves and to enjoy
 the water, in a practice known as “bathing ship-side”. The early press advised
 against this activity given the potential dangers of drowning or being
-taken by a shark, and some did die while bathing ship-side.14 The warnings
+taken by a shark, and some did die while bathing ship-side.[^14] The warnings
 reduced the practice for a time, but it would return and the warnings
 resumed. From the recurring press warnings, it seems that bathing ship-side
-in open water continued throughout the 19th century.15
+in open water continued throughout the 19th century.[^15]
 
 But it was not only transient sailors who wanted to swim; European
 residents of the town also wanted to enjoy the seaside and began planning
@@ -137,19 +137,19 @@ their own recreational space. Early in 1827, a group gathered to fund a
 beachside bathing enclosure. In May that year, the *Singapore Chronicle*
 reported on the newly finished *pagar* at the Esplanade, below what was
 then the town’s second battery, next to the mouth of the Bras Basah
-River.16 This was colonial Singapore’s first swimming structure, and its first
+River.[^16] This was colonial Singapore’s first swimming structure, and its first
 designated recreational space, arriving two years before the formation of the
 Billiards Club in 1829, which Walter Makepeace regarded as the town’s first
-sporting club.17
+sporting club.[^17]
 
 As described in the *Singapore Chronicle*, the battery *pagar* directly
 fronted the Esplanade beach. Along the shore, it comprised three walls of
-nibong palm poles enclosing a swimming area of 65 m by 65 m.18 Above
+nibong palm poles enclosing a swimming area of 65 m by 65 m.[^18] Above
 the farthest wall from the shore were dressing rooms, suggesting a pier
 along one side allowing swimmers to access them. This approach of placing
 dressing rooms over the water followed contemporary European practices
 and resembled early “bathing machines” – portable cabins that could be
-wheeled into the water.19 This approach was defined by contemporary
+wheeled into the water.[^19] This approach was defined by contemporary
 European concepts of morality and decency, where bathing clothes were
 viewed as a state of undress, and therefore no one wanted to be seen publicly
 in such an immodest state. Dressing rooms directly over the water allowed
@@ -160,7 +160,7 @@ original “scandal” of this place as the undressed bodies of bathers.
 
 The author of the original description of the battery *pagar* considered
 its architectural style to be “somewhat rude”, and thought the dressing
-rooms too high above the water.20 However, they otherwise considered
+rooms too high above the water.[^20] However, they otherwise considered
 the structure perfectly adequate, hoping its establishment would provide a
 place for public bathing for years to come. The “rudeness” of the enclosure
 most likely refers to its regional vernacular construction. The battery *pagar* appears to have used conventions of Malay and Orang Laut architecture,
@@ -168,46 +168,46 @@ which remained the dominant architectural style for Singapore’s *pagar*
 over the following century. A very similar construction style was still used
 for enclosures of the 1920s and 1930s, shown in images of military bathing
 enclosures (Figure 1), and described by Bob Pattimore in recollections of the
-*pagar* at the tin smelting works on Pulau Brani.21 The key elements were a
+*pagar* at the tin smelting works on Pulau Brani.[^21] The key elements were a
 fence for protection, a place to dress, and a pier to access the water.
 
 The original *pagar* at the Esplanade did not last long. Only one further
 reference to it was made in the press, at the start of 1828, when a convict
-was accidentally killed by a police officer while bathing there.22 There is
+was accidentally killed by a police officer while bathing there.[^22]  There is
 no record of how or why the battery *pagar* was removed, though it is quite
 possible that it collapsed in a monsoon, as happened with similar structures
-later in the century.23 Though it was short-lived and quickly forgotten – later discussion of early bathing made no mention of it – the structure of the
+later in the century.[^23] Though it was short-lived and quickly forgotten – later discussion of early bathing made no mention of it – the structure of the
 *pagar*, as a typology of leisure architecture, remained much the same for
-more than a century.24
+more than a century.[^24] 
 
 #### **A Series of Short-lived Establishments and Failed Plans**
 
 After the battery *pagar*, there were no immediate attempts to build new
 facilities for bathing. It was reported in 1846 that a committee was formed
-to build a new bathing *pagar* at the Esplanade, but it was not realised.25 A
+to build a new bathing *pagar* at the Esplanade, but it was not realised.[^25] A
 new enclosure was finally built in 1849, called Marine Villa, at the end of
-Telok Ayer Road.26 Throughout the 19th century, bathing places (as with
+Telok Ayer Road.[^26] Throughout the 19th century, bathing places (as with
 any other recreational activity) were expected to be products of private
 interest, formed as social clubs or as businesses. Marine Villa was a business,
 charging ten cents for entry; it opened two days a week for families, and
 one day for single men. Marine Villa probably did not last long – it was last
-mentioned in the press in 1850.27
+mentioned in the press in 1850.[^27] 
 
 In the mid-1860s, there were two further attempts to establish formal
 bathing sites. One was another business venture at Orchard Road, catering
 to nearby residents. For this, W. R. Scott had a freshwater pool, “a large
 swimming bath built of brick and stone, surrounded with a high brick wall”,
 built on his Abbotsford estate, which he opened to the European public in
-1866.28 However, according to C. B. Buckley, it was not used very much
-and only lasted a year.29 Around the same time, Singapore’s first swimming
+1866.[^28] However, according to C. B. Buckley, it was not used very much
+and only lasted a year.[^29] Around the same time, Singapore’s first swimming
 club was founded in Tanjong Rhu. After an initial meeting, Charles Crane
 was assigned to organise the place, overseeing the construction of a new
 pagar on the east coast. According to Buckley, the enclosure was built on a
-sandbank away from the shore.30 The club continued for a couple of years,
+sandbank away from the shore.[^30] The club continued for a couple of years,
 but dissolved when the *pagar* was destroyed in a monsoon. In the 1870s and 1880s, a series of indoor bathhouses were opened. In the town, Gazzolo
 &amp; Co. was on North Bridge Road, and the Waterfall Club opened at the
-foot of Pearl’s Hill.31 For those who could spend a couple of days in the
-countryside, there was the Tivoli Bathhouse in Bukit Timah.32
+foot of Pearl’s Hill.[^31] For those who could spend a couple of days in the
+countryside, there was the Tivoli Bathhouse in Bukit Timah.[^32]
 
 None of these sites were longstanding establishments, but the
 intermittent appearance of bathing places does show growing interest in
@@ -216,7 +216,7 @@ Straits Settlements became a colony separate from India. As Mary Turnbull
 described, this was a period of economic growth when European settlers
 began demanding something more from their place of residence – wanting
 to develop the town, making it physically more impressive, and providing
-greater recreational spaces.33 The problem faced by early bathing sites
+greater recreational spaces.[^33] The problem faced by early bathing sites
 – the reason they closed so quickly – seems mostly to have been financial.
 Bathing architecture required significant upfront costs for construction,
 and the resulting attendance was just not enough to support the costs of
@@ -230,17 +230,17 @@ sites mentioned above were made for European men, which comprised a
 minuscule part of Singapore’s overall population. Furthermore, the places
 also had to compete for the men’s time with a range of other sporting
 and social clubs, which as John Butcher has shown, formed the primary
-setting for European social lives in the British colonies of Southeast Asia.34
+setting for European social lives in the British colonies of Southeast Asia.[^34]
 Marine Villa did offer family days, which meant that European women and
 children could also swim, and the Waterfall Club was one of the few sites
-that provided for both European and Asian bathers, with separate rooms and bathing tanks.35 Racial segregation in bathing continued into the 1960s,
+that provided for both European and Asian bathers, with separate rooms and bathing tanks.[^35] Racial segregation in bathing continued into the 1960s,
 though in more popularly accessible places like the Young Men’s Christian
 Association (YMCA) Pool it had disappeared by the 1920s. Separated
 bathing based on sex continued well into the 20th century, and the Mount
 Emily Pool ran a schedule offering different times for men and women
 bathers up until the beginning of the Japanese Occupation (at which point,
 the Japanese authorities that reopened the pool in 1942 maintained a similar
-schedule).36
+schedule).[^36]
 
 As people tried to establish swimming clubs and bathhouse businesses,
 particularly from the 1870s onwards, newspaper letter writers complained
