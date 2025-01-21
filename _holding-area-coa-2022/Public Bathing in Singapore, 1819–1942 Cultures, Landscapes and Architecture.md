@@ -247,11 +247,11 @@ particularly from the 1870s onwards, newspaper letter writers complained
 about the lack of recreational bathing options. Some insisted (contrary
 to the historical evidence) there had never been an established place for
 bathing in Singapore, and that if towns like Penang, Shanghai and Hong
-Kong had their own baths, then surely Singapore must as well.37 They also
+Kong had their own baths, then surely Singapore must as well.[^37] They also
 insisted that bathing would surely make a good business, calling on some
 enterprising resident to step forward. One writer, perhaps seeing little other
 option, even had the audacity to volunteer Cheang Hong Lim to extend his
-philanthropy and build a public bath.38
+philanthropy and build a public bath.[^38]
 
 These exaggerated remarks help prepare an image of the kinds of
 recreational bathing environments people wanted. These letter writers in
@@ -260,15 +260,15 @@ much like the group who made the battery *pagar* in 1827. They wanted
 fenced enclosures to protect themselves from sharks, and changing rooms
 or a fenced screen to protect their modesty. Over time, they began asking
 for additional conveniences, like placing the *pagar* farther out to sea so
-tidal patterns would not dictate bathing times.39 They preferred an easily
-accessible central location, often proposing the beach at the Esplanade as the most ideal site.40 These suggestions centred around similar ideas for public
+tidal patterns would not dictate bathing times.[^39] They preferred an easily
+accessible central location, often proposing the beach at the Esplanade as the most ideal site.[^40] These suggestions centred around similar ideas for public
 bathing, shaping wider discussion and informing the more substantial
 proposals for swimming that emerged later in the century.
 
 What followed were defined proposals for ambitious popular bathing
 structures, which went unbuilt. In 1889, the Rowing Club developed
 plans for a large pool on the Raffles Reclamation ground, in front of the
-Raffles School.41 The plan fell apart because of its grand scale: it required
+Raffles School.[^41] The plan fell apart because of its grand scale: it required
 excavation, construction of a concrete pool, and the creation of a sluice
 system that would allow the pool to be filled with seawater and drained
 for cleaning. Combined with their proposal for a clubhouse, the scheme
@@ -276,15 +276,15 @@ just became too expensive for the club to pursue. As the Rowing Club gave
 up on its plans for swimming, in 1891 a private individual, W. A. Wafford,
 went to the Straits Legislative Assembly with two proposals for bathing
 sites: a floating bath moored off Johnston’s Pier, or a piled enclosure built
-off the Esplanade.42 The Assembly rejected both, because the former would
+off the Esplanade.[^42] The Assembly rejected both, because the former would
 interrupt boats, and the Assembly would not privatise the Esplanade – the
 most prominent public place in the town – or risk spoiling its views.
 
 In 1893, the Singapore Swimming Club was established in Tanjong
-Katong,43 largely putting an end to the ongoing discussion among European
+Katong,[^43] largely putting an end to the ongoing discussion among European
 residents about the need for bathing sites. However, one further proposal for
 floating baths off the Esplanade was put to the Municipal Commissioners in
-1900.44 They refused to consider it as their jurisdiction did not cover the sea.
+1900.[^44] They refused to consider it as their jurisdiction did not cover the sea.
 
 The clubs, pools, *pagar* and bathhouses discussed in this section have
 been focused on European residents’ views of aquatic leisure, with most
@@ -304,18 +304,18 @@ and builders of early *pagar*. This occurred as Singapore’s municipality began
 developing its own plans for the uses of town waterscapes. Writers in the
 press launched attacks on people bathing publicly, protesting the sight of
 bodies in various states of undress, or that of men and women bathing
-together.45 Apart from some cases of naked European sailors at remote
-beaches,46 there was frequently a racial tone to such complaints.
+together.[^45] Apart from some cases of naked European sailors at remote
+beaches,[^46] there was frequently a racial tone to such complaints.
 
 Given that the Singapore press of the time was primarily British, the
 key concern with public bathing was often that white women might happen
 to see degrees of exposed brown skin in public spaces. Writers complained
 about Chinese men washing in back lanes, Malays in canals, and Indian
-men in the Bras Basah River at Dhoby Ghaut.47 Dhoby Ghaut was
+men in the Bras Basah River at Dhoby Ghaut.[^47] Dhoby Ghaut was
 especially a concern when the Ladies’ Lawn Tennis Club opened there in
 1884 as a venue for the wives of members of the Cricket Club, even though
 the place had long been known as a place for washing and working in the
-river.48 Just as earlier European bathers wanted to shield themselves from
+river.[^48] Just as earlier European bathers wanted to shield themselves from
 public view through screens and changing rooms that entered directly into
 the water, they hoped these public washing spaces might also be shielded
 from view, if not removed completely.
@@ -323,10 +323,10 @@ from view, if not removed completely.
 The municipality responded by building attap screens and small
 enclosures around common bathing spots at public wells or riversides. One
 of the earliest was made in 1849 around a well in Telok Blangah, opposite
-the Temenggung’s palace, in what was reported as a great cleaning and beautification of that town.49 This approach continued (Figure 2), though
+the Temenggung’s palace, in what was reported as a great cleaning and beautification of that town.[^49] This approach continued (Figure 2), though
 as the Municipal Commissioners gained greater power to organise the
 urban environment, they could begin designating fixed bathing places,
-and making bathing in other places a chargeable offence.50 Through this
+and making bathing in other places a chargeable offence.[^50] Through this
 came a process of classifying town water spaces, determining the allowable
 functions of urban water bodies.
 
@@ -338,7 +338,7 @@ Singapore’s reservoir system in the 1860s and 1870s, they also classified wate
 according to social and economic functions. Bathing needed to be restricted in places where water was used by commercial boats or was a drinking
 source. This eventually led to the municipality’s closing of contaminated
 public and domestic wells to prevent disease, but had the effect of further
-limiting people’s access to water.51 As part of limiting the “nuisance” of
+limiting people’s access to water.[^51] As part of limiting the “nuisance” of
 public bathing, the Municipal Commissioners also placed criminal charges
 on people found bathing naked in public sites, ensuring that bathing and
 washing would always be decent and modest activities.52
