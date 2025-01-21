@@ -111,7 +111,11 @@ In Singapore, the journey of deaf education and&nbsp; accessibility (both physic
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/BernardTane.png">
-<b>Emeritus Professor Bernard T.G. Tan</b> is a retired professor of physics from the National University of Singapore who also dabbles in music. Some of his compositions have been performed by the Singapore Symphony Orchestra.</div>
+<b>Rosxalynd Liu</b>is Manager of the Central Public Library, Singapore. During her time as Librarian with the National Library, she worked with the General Reference Collection. Her research interests include language, heritage and culture.</div>
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/BernardTane.png">
+<b>Nathaniel Chew</b>is a Librarian with the National Library Singapore. He works with the Singapore and Southeast Asia Collection, and his research interests lie at the intersection of language and society. </div>
 
 
 #### **NOTES**
