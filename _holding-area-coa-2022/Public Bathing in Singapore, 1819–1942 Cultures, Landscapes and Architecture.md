@@ -1161,48 +1161,51 @@ _Straits Times Weekly Issue_. “[Another Growl](https://eresources.nlb.gov.sg/n
 
 [^81]: “[YMCA Swimming Carnival](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19201009-1.2.81.2),” _Straits Times_, 9 October 1920, 10. (From NewspaperSG)
 
-82 “[YMCA Swimming Pool](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19201221-1.2.65),” _Singapore Free Press and Mercantile Advertiser_, 21 December 1920, 12; “[Swimming Pool](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19210813-1.2.46.7),” _Singapore Free Press and Mercantile Advertiser_, 13 August 1921, 12. (From NewspaperSG)
+[^82]: “[YMCA Swimming Pool](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19201221-1.2.65),” _Singapore Free Press and Mercantile Advertiser_, 21 December 1920, 12; “[Swimming Pool](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19210813-1.2.46.7),” _Singapore Free Press and Mercantile Advertiser_, 13 August 1921, 12. (From NewspaperSG)
 
-83 “[YMCA Pool](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19200707-1.2.50)”; “[Singapore Girl Guides](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19210217-1.2.78),” _Straits Times_, 17 February1921, 8; “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19240310-1.2.30),” _Straits Times_, 10 March 1924, 8; “[Chinese Topics](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19300926-1.2.86),” _Malaya Tribune_, 26 September 1930, 12. (From NewspaperSG)
+[^83]: “[YMCA Pool](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19200707-1.2.50)”; “[Singapore Girl Guides](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19210217-1.2.78),” _Straits Times_, 17 February1921, 8; “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19240310-1.2.30),” _Straits Times_, 10 March 1924, 8; “[Chinese Topics](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19300926-1.2.86),” _Malaya Tribune_, 26 September 1930, 12. (From NewspaperSG)
 
-84 Bruce Peter, _Form Follows Fun: Modernism and Modernity in British Pleasure Architecture 1925–1940_ (London and New York: Routledge, 2007), 45–46.
+[^84]: Bruce Peter, _Form Follows Fun: Modernism and Modernity in British Pleasure Architecture 1925–1940_ (London and New York: Routledge, 2007), 45–46.
 
-85 “[New Public Park](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19290917-1.2.65),” _Singapore Free Press and Mercantile Advertiser_, 17 September 1929, 9; “[Swimming in Clean Water!](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19300502-1.2.50)” _Singapore Free Press and Mercantile Advertiser_, 2 May 1930, 10. (From NewspaperSG)
+[^85]: “[New Public Park](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19290917-1.2.65),” _Singapore Free Press and Mercantile Advertiser_, 17 September 1929, 9; “[Swimming in Clean Water!](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19300502-1.2.50)” _Singapore Free Press and Mercantile Advertiser_, 2 May 1930, 10. (From NewspaperSG)
 
-86 “[Bathing Fatality: Evidence at Coroner’s Inquest](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk19250722-1.2.22),” _Singapore Free Press and Mercantile Advertiser_, 22 July 1925, 52. (From NewspaperSG)
+[^86]: “[Bathing Fatality: Evidence at Coroner’s Inquest](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk19250722-1.2.22),” _Singapore Free Press and Mercantile Advertiser_, 22 July 1925, 52. (From NewspaperSG)
 
-87 “[Singapore Swimming Club](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19250810-1.2.79),” _Straits Times_, 10 August 1925, 10. (From NewspaperSG)
+[^87]: “[Singapore Swimming Club](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19250810-1.2.79),” _Straits Times_, 10 August 1925, 10. (From NewspaperSG)
 
-88 Lee C. Q. “25 Years of Progress and Expansion,” in [_The Chinese Swimming Club Souvenir 1951_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14313506) (Singapore: Chinese Swimming Club, 1951), 29 (Call no. RUR 797.2106095957); “[Advertisements](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19280716-1.2.90.2),” _Straits Times_, 16 July 1928, 11. (From NewspaperSG)
+[^88]: Lee C. Q. “25 Years of Progress and Expansion,” in [_The Chinese Swimming Club Souvenir 1951_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14313506) (Singapore: Chinese Swimming Club, 1951), 29 (Call no. RUR 797.2106095957); “[Advertisements](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19280716-1.2.90.2),” _Straits Times_, 16 July 1928, 11. (From NewspaperSG)
 
-89 “[New Swiss Club](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19271219-1.2.89),” _Straits Times,_ 19 December 1927, 11; “[Tanglin Club Swimming Pool](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19300501-1.2.41),” _Singapore Free Press and Mercantile Advertiser_, 1 May 1930, 10. (From NewspaperSG)
+[^89]: “[New Swiss Club](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19271219-1.2.89),” _Straits Times,_ 19 December 1927, 11; “[Tanglin Club Swimming Pool](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19300501-1.2.41),” _Singapore Free Press and Mercantile Advertiser_, 1 May 1930, 10. (From NewspaperSG)
 
-90 “[New Golf Course](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19290923-1.2.72),” _Straits Times_, 23 September 1929, 13. (From NewspaperSG)
+[^90]: “[New Golf Course](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19290923-1.2.72),” _Straits Times_, 23 September 1929, 13. (From NewspaperSG)
 
-91 “[A Chinese Recreation Ground](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19290925-1.2.33),” _Malaya Tribune_, 25 September 1929, 8; “[New Public Park at Pasir Panjang](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19300103-1.2.49),” _Straits Times_, 3 January 1930, 13. (From NewspaperSG)
+[^91]: “[A Chinese Recreation Ground](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19290925-1.2.33),” _Malaya Tribune_, 25 September 1929, 8; “[New Public Park at Pasir Panjang](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19300103-1.2.49),” _Straits Times_, 3 January 1930, 13. (From NewspaperSG)
 
-92 “[Legislative Council](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18741226-1.2.15),” _Straits Times_, 26 December 1874, 4 (From NewspaperSG); A. Ferguson, “Extracts from the Sanitary Report of the 2nd and 4th Batteries 17th Brigade Royal Artillery, Stationed at Singapore, from the 15th September to the End of the Year 1863,” _Army Medical Department. Statistical, Sanitary and Medical Reports for the Year 1863_, vol. 5 (London: n.p., 1863), 385.  
+[^92]: “[Legislative Council](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18741226-1.2.15),” _Straits Times_, 26 December 1874, 4 (From NewspaperSG); A. Ferguson, “Extracts from the Sanitary Report of the 2nd and 4th Batteries 17th Brigade Royal Artillery, Stationed at Singapore, from the 15th September to the End of the Year 1863,” _Army Medical Department. Statistical, Sanitary and Medical Reports for the Year 1863_, vol. 5 (London: n.p., 1863), 385.  
   
-93 “[Swimming Club Meeting](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19280402-1.2.39),” _Singapore Free Press and Mercantile Advertiser_, 2 April 1928, 8. (From NewspaperSG)
+[^93]: “[Swimming Club Meeting](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19280402-1.2.39),” _Singapore Free Press and Mercantile Advertiser_, 2 April 1928, 8. (From NewspaperSG)
 
-94 “[Swimming Club: The Alternative Site Problem](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19290408-1.2.91),” _Singapore Free Press and Mercantile Advertiser_, 8 April 1929, 16; “[Singapore Swimming Club’s Future](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19300404-1.2.102.1),” _Straits Times_, 4 April 1930, 15. (From NewspaperSG)
+[^94]: “[Swimming Club: The Alternative Site Problem](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19290408-1.2.91),” _Singapore Free Press and Mercantile Advertiser_, 8 April 1929, 16; “[Singapore Swimming Club’s Future](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19300404-1.2.102.1),” _Straits Times_, 4 April 1930, 15. (From NewspaperSG)
 
-95 “[Swimming Club Not to Move](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19300915-1.2.72),” _Singapore Free Press and Mercantile Advertiser_, 15 September 1930, 12. (From NewspaperSG)
+[^95]: “[Swimming Club Not to Move](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19300915-1.2.72),” _Singapore Free Press and Mercantile Advertiser_, 15 September 1930, 12. (From NewspaperSG)
 
-96 Singapore Swimming Club, [_Official Opening of New Club House_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4981547)_._
+[^96]: Singapore Swimming Club, [_Official Opening of New Club House_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4981547)_._
 
-97 R. H. Bruce Lockhart, [_Return to Malaya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1881681) (London: Putnam, 1936), 113. (Call no. RCLOS 959.5 LOC-\[ET\])
+[^97]: R. H. Bruce Lockhart, [_Return to Malaya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1881681) (London: Putnam, 1936), 113. (Call no. RCLOS 959.5 LOC-\[ET\])
 
-98 Lee, “[25 Years of Progress and Expansion](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14313506),” 29.
+[^98]: Lee, “[25 Years of Progress and Expansion](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14313506),” 29.
 
-99 “[Another Lung](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19290619-1.2.59),” _Malaya Tribune_, 19 June 1929, 10; “[Municipality and Sport](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19301028-1.2.106),” _Straits Times_, 28 October 1930, 15; “[Recreation Facilities](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19301222-1.2.76),” _Singapore Free Press and Mercantile Advertiser_, 22 December 1930, 13. (From NewspaperSG)
+[^99]: “[Another Lung](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19290619-1.2.59),” _Malaya Tribune_, 19 June 1929, 10; “[Municipality and Sport](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19301028-1.2.106),” _Straits Times_, 28 October 1930, 15; “[Recreation Facilities](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19301222-1.2.76),” _Singapore Free Press and Mercantile Advertiser_, 22 December 1930, 13. (From NewspaperSG)
 
-100 “[New Public Park](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19290917-1.2.65)”; “[More Amenities for Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19300423-1.2.67),” _Straits Times_, 23 April 1930, 12. (From NewspaperSG)
+[^100]: “[New Public Park](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19290917-1.2.65)”; “[More Amenities for Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19300423-1.2.67),” _Straits Times_, 23 April 1930, 12. (From NewspaperSG)
 
-101 In 1927, Mong Guan and Poh Cheng competed in Shanghai (representing China), with Mong Guan placing third overall. “[Swimming](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19270915-1.2.63.5),” _Straits Budget_, 15 September 1927, 27; “[Eastern Olympiad](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19270924-1.2.89),” _Straits Times_, 24 September 1927, 10. Overseas competitions also included exhibition competitions such as the Hong Kong Chinese Athletic Meeting in 1929, which was attended by Singaporean teams. “[Chinese Exhibition](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19290820-1.2.90),” _Malaya Tribune_, 20 August 1929, 10. (From NewspaperSG)
+[^101]: In 1927, Mong Guan and Poh Cheng competed in Shanghai (representing China), with Mong Guan placing third overall. “[Swimming](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19270915-1.2.63.5),” _Straits Budget_, 15 September 1927, 27; “[Eastern Olympiad](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19270924-1.2.89),” _Straits Times_, 24 September 1927, 10. Overseas competitions also included exhibition competitions such as the Hong Kong Chinese Athletic Meeting in 1929, which was attended by Singaporean teams. “[Chinese Exhibition](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19290820-1.2.90),” _Malaya Tribune_, 20 August 1929, 10. (From NewspaperSG)
 
-102 The initial meeting was between the YMCA, Chinese Swimming Club and Singapore Swimming Club. After its formation, the Singapore Amateur Swimming Association was joined by Tiger Swimming Club, Cantonese Swimming Union, Oversea Chinese Swimming Club and the British Armed Forces as affiliates. Singapore Amateur Swimming Association, [_Singapore Amateur Swimming Association, 1939–1989_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5490562) (Singapore: SASA, 1989), 10–12. (Call no. RSING 797.200605957 SIN)
+[^102]: The initial meeting was between the YMCA, Chinese Swimming Club and Singapore Swimming Club. After its formation, the Singapore Amateur Swimming Association was joined by Tiger Swimming Club, Cantonese Swimming Union, Oversea Chinese Swimming Club and the British Armed Forces as affiliates. Singapore Amateur Swimming Association, [_Singapore Amateur Swimming Association, 1939–1989_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5490562) (Singapore: SASA, 1989), 10–12. (Call no. RSING 797.200605957 SIN)
 
-103 Nick Aplin, “Sport in Singapore (1945–1948): From Rehabilitation to Olympic Status,” _International Journal of the History of Sport_ 33, no. 12 (2016): 1361–79.
+[^103]: Nick Aplin, “Sport in Singapore (1945–1948): From Rehabilitation to Olympic Status,” _International Journal of the History of Sport_ 33, no. 12 (2016): 1361–79.
 
-104 Lee, “[25 Years of Progress and Expansion](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14313506),” 31.
+[^104]: Lee, “[25 Years of Progress and Expansion](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14313506),” 31.
+
+
+
