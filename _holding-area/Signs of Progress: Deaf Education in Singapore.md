@@ -117,94 +117,93 @@ In Singapore, the journey of deaf education and&nbsp; accessibility (both physic
 #### **NOTES**
      
 
-[^1]: 
+[^1]:  Carl A. Argila, “Peng Tsu Ying – Singapore’s ‘Man for All Seasons’,” _The Deaf American_ 28, no. 4 (December, 1975), 10, Internet Archive, https://archive.org/details/TheDeafAmerican2804December1975/page/n9/mode/2up.
+
+
+[^2]: “Deaf and Dumb Society Formed,” _Singapore Standard_, 27 August 1955, 8. (From NewspaperSG); “History,” The Singapore Association for the Deaf, accessed 28 November 2024, https://sadeaf.org.sg/about-us/history/.
+
+
+[^3]: “‘2 Deaf-mutes Is My Limit’,” _Singapore Free Press_, 25 April 1949, 5. (From NewspaperSG)&nbsp;
      
 
-[^2]: 
-
-
-[^3]: 
+[^4]: Argila, “Peng Tsu Ying – Singapore’s ‘Man for All Seasons’,” 9; Lee Khoon Choy, “Chinese to Set Up School for the Deaf,” _Sunday Standard_, 8 July 1951, 3. (From NewspaperSG)
      
 
-[^4]: 
+[^5]: “‘2 Deaf-mutes Is My Limit’”; Argila, “Peng Tsu Ying – Singapore’s ‘Man for All Seasons’,” 9; “Two Nodded and They Became Man and Wife,” _Straits Times_, 31July 1952, 1. (From NewspaperSG)&nbsp;
      
 
-[^5]: 
+[^6]: “Two Nodded and They Became Man and Wife.”
+
+
+[^7]: “Founder Raises $3,000 for Start,” _Singapore Standard_, 15 October 1951, 2. (From NewspaperSG)
      
 
-[^6]: 
-
-
-[^7]: 
+[^8]: Lee Khoon Choy, “Chinese to Set Up School for the Deaf,” _Sunday Standard_, 8 July 1951, 3. (From NewspaperSG)&nbsp;
      
 
-[^8]: 
+[^9]: “First Deaf Recipient of the Public Service Medal (Posthumous),” The Singapore Association for the Deaf, accessed 20 November 2024, https://sadeaf.org.sg/news/%EF%BB%BFfirst-deaf-recipient-of-the-public-service-medal-posthumous/; Tan Tam Mei, “Pioneer Deaf Educator Peng Tsu Ying Dies, Aged 92,” _Straits Times_, 25 October 2018, https://www.straitstimes.com/singapore/pioneer-deaf-educator-peng-tsu-ying-dies-aged-92.
      
 
-[^9]: 
-     
-
-[^10]: 
+[^10]: Argila, “Peng Tsu Ying – Singapore’s ‘Man for All Seasons’,” 9; “First Deaf Recipient of the Public Service Medal (Posthumous).”
 
      
 
-[^11]: 
+[^11]: Tan, “Pioneer Deaf Educator Peng Tsu Ying Dies, Aged 92”; “First Deaf Recipient of the Public Service Medal (Posthumous).”
      
 
-[^12]: 
+[^12]: “Lip-Reading Class for Deaf,” _Singapore Free Press_, 17 January 1951, 5. (From NewspaperSG)
 
 
-[^13]: 
+[^13]: “Lip-Reading Class for Deaf.”&nbsp;
      
 
-[^14]: 
+[^14]: Christine Diemer, “The Best Is Still Pitifully Shabby,” _Sunday Standard_, 18 May 1958, 4; “School for the Deaf Shock,” _Straits Budget_, 20 August 1958, 9. (From NewspaperSG)
      
 
-[^15]: 
+[^15]: “Deaf and Dumb Society Formed,” _Singapore Standard_, 27 August 1955, 8. (From NewspaperSG)
      
 
-[^16]: 
+[^16]: “Deaf and Dumb Are Asked to Register,” _Singapore Standard_, 12 November 1955, 2. (From NewsppaerSG).
 
 
-[^17]: 
+[^17]: “Deaf Children Learn National Language,” _Straits Times_, 1 April 1960, 5; “They Will Now Teach Malay in School for the Deaf,” _Singapore Free Press_, 18 July 1961, 4. (From NewspaperSG)
      
 
-[^18]: 
+[^18]: “Modern Facilities for Teaching Deaf Children,” _Straits Times_, 24 November 1963, 14. (From NewspaperSG)&nbsp;
      
 
-[^19]: 
+[^19]: “Silent 3’s Secret: First Deaf Children for Exam,” _Straits Times_, 18 November 1967, 7. (From NewspaperSG)&nbsp;
      
 
-[^20]: 
+[^20]: “Courses for 50 Deaf Students,” _New Nation_, 28 February 1975, 4. (From NewspaperSG)&nbsp;
 
 
-    
-
-[^21]: 
+[^21]: Amelia Teng, “Singapore School for the Deaf to Close Due to Dwindling Enrolment,” _Straits Times_, 17 September 2017, https://www.straitstimes.com/singapore/education/singapore-school-for-the-deaf-to-close-due-to-dwindling-enrolment.&nbsp;
      
 
-[^22]: 
+[^22]: “Hearing Loss and Inclusive Education,” Ministry of Education, 8 November 2022, https://www.moe.gov.sg/news/parliamentary-replies/20221108-hearing-loss-and-inclusive-education; “Our Journey,” Canossian School, accessed 23 December 2024, https://canossian.edu.sg/about-us/our-journey.
 
 
-[^23]: 
+[^23]: Goh Ewe Hong, “Untitled,” _Straits Times_, 3 February 1972, 7. (From NewspaperSG)&nbsp;
      
 
-[^24]: 
+[^24]: Yeow Pei Lin, “Deaf Teacher Honoured for His Helping Hands,” _Straits Times_, 25 September 1995, 1. (From NewspaperSG)&nbsp;
      
 
-[^25]: 
+[^25]: Yeow, “Deaf Teacher Honoured for His Helping Hands.”
      
 
-[^26]: 
+[^26]: “Few Deaf Pupils Enter Universities,” _Straits Times_, 9 March 1999, 33. (From NewspaperSG); More Hearing-Impaired Students Enter Universities,” Singapore Management University, 4 September 2012, https://news.smu.edu.sg/news/2012/09/04/more-hearing-impaired-students-enter-universities.
 
 
-[^27]: 
+[^27]: Dorothy Ho, “The Mother Who Wouldn’t Give Up,” _Straits Times_, 9 March 1999, 33; Chang-Tang Siew Ngoh, “These Deaf Children Are Most at Risk,” _Straits Times_, 27 January 2004, 14. (From NewspaperSG)&nbsp;
+
      
 
-[^28]: 
+[^28]: Emilyn Heng-Sim Ai Tin, “Parents Can Help Deaf Children Excel,” _Straits Times_, 21 January 2004, 16. (From NewspaperSG)&nbsp;
      
 
-[^29]: 
+[^29]: Chua Hillary, “Healthcare Access for the Deaf in Singapore: Overcoming Communication Barriers,” _Asian Bioethics Review_ 11, no. 4 (30 November 2019): 377–90, https://link.springer.com/article/10.1007/s41649-019-00104-3.
      
 
 [^30]: Jay M. Brenner, et al., “Use of Interpreter Services in the Emergency Department.” _Annals of Emergency Medicine_ 72, no. 4 (October 2018): 432–37, https://www.sciencedirect.com/science/article/abs/pii/S0196064418304311.
