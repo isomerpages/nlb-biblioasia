@@ -165,7 +165,7 @@ the structure perfectly adequate, hoping its establishment would provide a
 place for public bathing for years to come. The “rudeness” of the enclosure
 most likely refers to its regional vernacular construction. The battery *pagar* 
 
-<img src="/images/COA%202022/Public%20Bathing%20in%20Singapore/Royal_Air_Force_Seletar__1930.jpg" style="width:80%;">
+<img src="/images/COA%202022/Public%20Bathing%20in%20Singapore/Royal_Air_Force_Seletar__1930.jpg" style="width:100%;">
 <div style="background-color: white;">Swimming <i>pagar</i> at Royal Air Force Seletar, c. 1930, one of a series of swimming enclosures built at military bases in the 1920s and 1930s. <i>Courtesy of National Archives of Singapore (accession
 no. 19980002873-0048).</i></div>
 
@@ -333,7 +333,7 @@ enclosures around common bathing spots at public wells or riversides. One
 of the earliest was made in 1849 around a well in Telok Blangah, opposite
 the Temenggung’s palace, in what was reported as a great cleaning and 
 
-<img src="/images/COA%202022/Public%20Bathing%20in%20Singapore/Vernacular_bathing_place_in_Seletar__1869.jpg" style="width:80%;">
+<img src="/images/COA%202022/Public%20Bathing%20in%20Singapore/Vernacular_bathing_place_in_Seletar__1869.jpg" style="width:100%;">
 <div style="background-color: white;">Vernacular bathing place in Seletar, near the Government Bungalow. Eugen von
 Ransonnet, “Bathing Place Near Selita”, 1869. <i>Courtesy of the National Museum of Singapore.</i></div>
 
