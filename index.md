@@ -38,7 +38,7 @@ sections:
       image: /images/Vol 21 Issue 1/Badang/Badang_Topics.jpg
       alt: Badang the Strongman
   - infopic:
-      title: The Multifaceted Barbara Kerr
+      title: "Barbara Kerr: Sharpshooter and Girl Guide Extraordinaire"
       subtitle: People
       id: infopic
       description: Barbara Kerr made contributions to the Girl Guides, sports and
