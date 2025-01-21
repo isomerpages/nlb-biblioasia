@@ -4,8 +4,7 @@ permalink: /holding-area/chapters-on-asia-2022/public-bathing-in-singapore/
 variant: markdown
 description: ""
 ---
-
-   The east is essentially a land of bathing. The white man tubs<br>    himself, the yellow man, the brown man and some of the black<br>    men rub themselves – with water. The remainder prefer oil.<br>   The first question a white man asks on arrival is “Have you a<br>    swimming bath?”[^1]
+              The east is essentially a land of bathing. The white man tubs<br>    himself, the yellow man, the brown man and some of the black<br>    men rub themselves – with water. The remainder prefer oil.<br>   The first question a white man asks on arrival is “Have you a<br>    swimming bath?”[^1]
 
 #### **Introduction**
 
@@ -115,7 +114,7 @@ century that sea swimming became popular, as British culture turned away
 from older inland springs and spas and found the pleasures of the seashore.[^11]
 As Ian Bradley demonstrates, European spas had developed as sites for
 healing, where people might take part in practices of balneotherapy and
-hydrotherapy,12 and later became spaces for leisure and indulgence.13 As
+hydrotherapy,[^12] and later became spaces for leisure and indulgence.[^13] As
 bathing in the sea grew in prominence in British culture, it also adopted
 these mixed uses, being seen at times as a place for health, but also as a place
 for recreation and pleasure. Over time, the same mixed purposes transferred
