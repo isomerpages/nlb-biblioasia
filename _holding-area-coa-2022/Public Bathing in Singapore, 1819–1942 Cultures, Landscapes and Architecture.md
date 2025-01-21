@@ -440,8 +440,6 @@ was an opportunistic activity – people bathed wherever they found water,
 whether in the sea, rivers, canals, ponds, quarries or, in a couple of accounts,
 monsoon-struck fields.[^66]
 
-![](/images/COA%202022/Public%20Bathing%20in%20Singapore/private_bathing_place_belonging_to_Ong_Siew_Kiam__1920.jpg)
-
 <img src="/images/COA%202022/Public%20Bathing%20in%20Singapore/private_bathing_place_belonging_to_Ong_Siew_Kiam__1920.jpg" style="width:100%;">
 <div style="background-color: white;">Design drawing for a private bathing place belonging to Ong Siew Kiam. <i>Lee Kian Soo, Pagar in Kampong Beting Kusa, c. 1920s. National Library Board. (Call no. RRARE 346.59570438 IND).</i></div>
 
@@ -493,7 +491,12 @@ through the week to families wanting a short retreat in the countryside, thus
 subsidising its rent.[^72] These approaches differed significantly from the largescale
 proposals of the 1880s and 1890s, and arguably allowed both clubs to
 survive and gradually build membership. It took six years for the Singapore
-Swimming Club to invest in any form of bathing architecture, deciding in 1899 to build a sea platform for members’ aquatic play – providing a
+Swimming Club to invest in any form of bathing architecture, deciding 
+
+<img src="/images/COA%202022/Public%20Bathing%20in%20Singapore/European_bathers_at_a_private_structure_on_the_east_coast_.jpg" style="width:100%;">
+<div style="background-color: white;">European Bathers at a Private Structure on the East Coast, c. 1890s. <i>G. R. Lambert &amp; Co., Fotoalbum Singapur (Singapore: G. R. Lambert &amp; Co., c. 1887–1905). (From National Library, Singapore, call no. 959.5704 LAM).</i></div>
+
+in 1899 to build a sea platform for members’ aquatic play – providing a
 chute, diving platform and swinging rope.[^73] The platform gave swimmers a
 destination, a capacity to exit the water and dive back in. The structure was
 the centrepiece in one of C. Jackson’s 1914 illustrations for *Our Singapore*,
