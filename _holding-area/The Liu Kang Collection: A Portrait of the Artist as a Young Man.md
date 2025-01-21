@@ -49,6 +49,9 @@ Similar information on the opening ceremony was recorded on the first leaf of th
 
 The draft of Liu Kang’s first solo exhibition catalogue includes an introduction by Lee Siow Mong, president of the China Society, and an essay by Michael Sullivan, curator of the University of Malaya’s art museum. The draft offers a glimpse into Liu’s creative process and evolution of design ideas leading up to the printed exhibition catalogue.&nbsp;
 
+![](/images/Vol%2021%20Issue%201/Liu%20Kang/liukang_catalogue2.jpg)
+<div> The title of the painting, “Scene in the street”, in the draft exhibition catalogue (bottom) was replaced with “Street scene. Bali” in the printed catalogue (top). This suggests that Liu Kang deliberated over the titles of his artworks. <i>Liu Kang Collection, National Library Singapore.</i></div>
+
   
 
 **Photographs of the exhibition, “Bali: Liu Kang, Chen Wen Hsi, Chen Chong Swee, Cheong Soo Pieng” held at the British Council in 1953**
@@ -59,9 +62,6 @@ In 1952, Liu Kang, together with Chen Chong Swee, Chen Wen Hsi and Cheong Soo Pi
 <div>(From left) Mrs Loke Wan Tho, Indonesian Consul-General Mohamed Razif, Carl Alexander Gibson-Hill and Liu Kang at Liu Kang’s exhibition held at the British Council, 1953. <i>Liu Kang Collection, National Library Singapore.</i></div>
 
 The exhibition, which showcased over 100 paintings and sketches, was well received and drew large crowds. Opened by Indonesian Consul-General Mohamed Razif, the exhibition was visited by prominent figures in Singapore, including Malcolm MacDonald, Commissioner-General in Southeast Asia; Carl Alexander Gibson-Hill, the last expatriate director of the Raffles Museum; and Loke Wan Tho, cinema magnate and founder of Cathay Organisation, and his wife.[^5]
-
-![](/images/Vol%2021%20Issue%201/Liu%20Kang/liukang_catalogue.jpg)
-<div> The title of the painting, “Scene in the street”, in the draft exhibition catalogue (bottom) was replaced with “Street scene. Bali” in the printed catalogue (top). This suggests that Liu Kang deliberated over the titles of his artworks. <i>Liu Kang Collection, National Library Singapore.</i></div>
 
 
 **《说自家》(On Myself), an autobiographical article by Liu Kang**
@@ -82,7 +82,7 @@ Liu Kang wrote notes for his public talks, some of which were published in newsp
 
 These are notes for “A Good Piece of Painting” (Young Men’s Christian Association; 25 January 1972), “On Oil Painting” (National Library; 17 June 1972) and “How to Appreciate a Painting” (early 1980s). In the notes for “On Oil Painting”, Liu Kang wrote that copying the masterpieces of well-known artists as practice would help to improve one’s art skills and that one could start with sketching sculptures, still life, landscapes and portraits.
 
-![](/images/Vol%2021%20Issue%201/Liu%20Kang/liukang_talk.jpg)
+![](/images/Vol%2021%20Issue%201/Liu%20Kang/liukang_talk2.jpg)
 <div> “A Good Piece of Painting”, a talk given at the Young Men’s Christian Association on 25 January 1972. <i>Liu Kang Collection, National Library Singapore.</i></div>
 
 
@@ -106,7 +106,7 @@ Other notable guests included the Chinese artist Xu Beihong (徐悲鸿), who ded
 
 Liu Kang taught art in schools for most of his working life in Singapore. In 1948, he led the graduating batch of senior high students from Chung Cheng High School on a three-week trip to the Malay Peninsula, visiting various towns and cities such as Muar, Melaka, Cameron Highlands, Ipoh and Penang. Several of the photos taken during the trip show Liu Kang with a sketchbook.&nbsp;
 
-![](/images/Vol%2021%20Issue%201/Liu%20Kang/liukang_students2.jpg)
+![](/images/Vol%2021%20Issue%201/Liu%20Kang/liukang_students4.jpg)
 <div>Chung Cheng High School students in the Malay Peninsula, 1948. <i>Liu Kang Collection, National Library Singapore.</i></div>
 
 
@@ -133,7 +133,7 @@ The photographs taken during Liu Kang’s visit to India in 1971 with more than 
 ![](/images/Vol%2021%20Issue%201/Liu%20Kang/liukang_musicians2.jpg)
 <div>Indian musicians playing the tabla, sitar and harmonium, 1971.  <i>Liu Kang Collection, National Library Singapore.</i></div>
 
-![](/images/Vol%2021%20Issue%201/Liu%20Kang/liukang_musicianspainting.jpg)
+![](/images/Vol%2021%20Issue%201/Liu%20Kang/liukang_musicianspainting2.jpg)
 <div><i>Indian Musicians</i> by Liu Kang (1972), oil on canvas, 73 × 94 cm. <i>Gift of the artist’s family. Collection of National Gallery Singapore.</i></div>
 
   
@@ -147,11 +147,10 @@ In 1993, the Raffles Hotel commissioned Liu Kang to create a collection of paste
 <div>Prints of pastel portraits of Raffles Hotel staff, 1993.  <i>Liu Kang Collection, National Library Singapore.</i></div>
 
 
-<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
+<div style="background-color: #fff6ba; padding:15px; margin: 10px; font-size=120%">
  Members of the public who wish to access the materials can enquire at Level 11 of the Lee Kong Chian Reference Library or visit 
 	<a href="https://reference.nlb.gov.sg/getting-started/accessing-reference-items/">https://reference.nlb.gov.sg/getting-started/accessing-reference-items/</a>. 
-<br><br>
-An exhibition titled “Untold Stories: Four Singapore Artists’ Quest for Inspiration in Bali 1952” will be held at Level 10 of the National Library Building from 14 February to 3 August 2025. It features a selection of the photographs that Liu Kang took on his trip to Bali with&nbsp;Chen Wen Hsi, Chen Chong Swee and Cheong Soo Pieng.</div>
+</div>
 		
 
 <div style="background-color: white;">

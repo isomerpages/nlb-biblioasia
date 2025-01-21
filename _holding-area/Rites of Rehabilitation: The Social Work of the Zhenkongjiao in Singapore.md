@@ -22,7 +22,7 @@ A survey of Zhenkongjiao temples on the island in 1968 found that there were as 
 
 #### **Early History of the Zhenkongjiao in Singapore**
 
-The Zhenkongjiao was founded in Jiangxi, China, by Liao Dipin (1827–93) and popularised by his family members and disciples. Its influence expanded to southeastern China, particularly the regions of Guangdong, Fujian and Chaoshan. When the Chinese from these regions migrated to Southeast Asia during the 19th century, they brought Zhenkongjiao with them.[^4] The early pioneers of Zhenkongjiao in Singapore were mostly Hakkas from southeastern China, particularly the Jiaoling and Meixian regions in Guangdong.[^5]
+Zhenkongjiao was founded in Jiangxi, China, by Liao Dipin (1827–93) and popularised by his family members and disciples. Its influence expanded to southeastern China, particularly the regions of Guangdong, Fujian and Chaoshan. When the Chinese from these regions migrated to Southeast Asia during the 19th century, they brought Zhenkongjiao with them.[^4] The early pioneers of Zhenkongjiao in Singapore were mostly Hakkas from southeastern China, particularly the Jiaoling and Meixian regions in Guangdong.[^5]
 
 The inaugural Zhenkongjiao temple in Southeast Asia, Pili Hongmaodan Zhenkong Zushi Daotang, was founded in Ipoh in 1906 by Huang Shengfa and his teacher, Master Huang Daoyun. After struggling with opium addiction in Malaya, Huang Shengfa returned to Jiaoling, where Master Huang Daoyun treated him before accepting his invitation to Malaya. From Ipoh, the duo extended the influence of Zhenkongjiao in Malaya, each embarking on divergent paths. Huang Daoyun travelled southward to Singapore, where he founded the second-oldest temple in the region, Xingzhou Fubenyuan Daotang, in 1910.[^6] By 1929, five other Zhenkongjiao temples had been established across the island, founded by other masters of the movement who had travelled to Southeast Asia to proselytise. Later in his life, Huang Shengfa established Fook Poon Yuen Temple on Penang Island in Malaysia, which is still managed by his descendants today.
 
@@ -82,7 +82,7 @@ Interestingly, the concept of sacrificial transference mirrors the lives of Zhen
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Rites%20of%20Rehabilitation/19980001276___0014.jpg" style="width: 80%;">Chief Minister of Singapore Lim Yew Hock with guests and teachers of the Opium Addicts’ Treatment Association Singapore at special thanksgiving service at Thian Ling Chong Toh Tong Temple at 5½ milestone Changi Road. A man (squatting) prepares a chicken for ritual sacrifice, 1956. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+<img src="/images/Online%20Only%20Articles/Rites%20of%20Rehabilitation/19980001276___0014.jpg" style="width: 80%;">Chief Minister of Singapore Lim Yew Hock with guests and teachers of the Opium Addicts’ Treatment Association Singapore at a special thanksgiving service at Thian Ling Chong Toh Tong Temple at 5½ milestone Changi Road. A man (squatting) prepares a chicken for ritual sacrifice, 1956. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Beyond Treating Opium Addiction**
 
@@ -104,7 +104,7 @@ The Zhenkongjiao persisted in its secular and charitable initiatives, which were
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Rites%20of%20Rehabilitation/19980005070___0069.jpg" style="width: 80%;">Ling Kuang Toh Tong of Zhen Kong Religion, the temple closed after their land lease expired and their ancestral tablets moved to Hean Thuan Toh Tong at 89 Tampines Link. <i>Courtesy of National Archives of Singapore.</i></div>
+<img src="/images/Online%20Only%20Articles/Rites%20of%20Rehabilitation/19980005070___0069.jpg" style="width: 80%;">Ling Kuang Toh closed after their land lease expired. Their ancestral tablets were moved to Hean Thuan Toh Tong at 89 Tampines Link. <i>Courtesy of National Archives of Singapore.</i></div>
 
 Additionally, Thian Ling Toh Tong, then located in Mandai, was a crucial centre for the care of the intellectually disabled and abandoned children since the 1970s. In 1990, the oldest resident under the temple’s care was 60 years old, and 20 children called the temple home.[^38]
 
@@ -131,9 +131,9 @@ _This article was partially developed from my MA (History) thesis,_ Sages, Smoke
 
 #### **Notes**
 
-[^1]:  Xu Yunqiao 许云樵, “Kongdaojiao gailun: yi ge xinxing de zongjiao空道教概论：一个新兴的宗教” \[The Religion of the Void: A New Religion\], _[Nanyang Xuebao 南洋学报](https://catalogue.nlb.gov.sg/search/card?recordId=84444489)_ \[Journal of the South Seas Society\] 10:4 (1954): 25-32. (From National Library, Singapore, call no. 959.005 JSSS).
+[^1]:  Xu Yunqiao 许云樵, “Kongdaojiao gailun: yi ge xinxing de zongjiao 空道教概论：一个新兴的宗教” \[The Religion of the Void: A New Religion\], _[Nanyang Xuebao 南洋学报](https://catalogue.nlb.gov.sg/search/card?recordId=84444489)_ \[Journal of the South Seas Society\] 10:4 (1954): 25-32. (From National Library, Singapore, call no. 959.005 JSSS).
 
-[^2]:  Luo Xianglin罗香林, _Liuxing yu ganminyue ji malaixiya zhi Zhenkongjiao_流行于赣闽粤及马来西亚之真空教 \[The Origins and Spread of the Zhenkongjiao from Ganzhou to Southeast China and Malaya\] (Xianggang香港: Zhongguo Xueshe中国学社, 1962), 39-64.
+[^2]:  Luo Xianglin罗香林, <i>Liuxing yu ganminyue ji malaixiya zhi Zhenkongjiao</i> 流行于赣闽粤及马来西亚之真空教 \[The Origins and Spread of the Zhenkongjiao from Ganzhou to Southeast China and Malaya\] (Xianggang香港: Zhongguo Xueshe中国学社, 1962), 39-64.
 
 [^3]:  Esmond Chuah Meng Soh, “[Practicing Salvation: Meat-Eating, Martyrdom, and Sacrifice as Religious Ideals in the Zhenkongjiao](https://www.academia.edu/80038178/Practicing_Salvation_Meat_Eating_Martyrdom_and_Sacrifice_as_Religious_Ideals_in_the_Zhenkongjiao),” _Journal of Chinese Religions_ 50, no. 1 (2022): 77-114.
 
@@ -141,7 +141,7 @@ _This article was partially developed from my MA (History) thesis,_ Sages, Smoke
 
 [^5]:  Liao Jingcai 廖经才, comp., _Dong nan Ya zhen kong jiao dao tang tu kan_ [东南亚真空教道堂图刊](https://catalogue.nlb.gov.sg/search/card?id=42baef41-f737-5f55-ab8d-07b2f376976a&amp;entityType=FormatGroup) \[Southeast Asian Illustrated Magazine of the Zhenkongjiao Temples\] (Xianggang 香港 : Zhenkong Ji Nian Tang Chubanshe 真空纪念堂出版社, 1968), unpaginated. (From National Library, Singapore, call no.: 299.514 LJC -\[HYT\]).
 
-[^6]: Huang Ziwen 黄子文, comp. _Kongzhongjiao Fazhan Shilue_ [空中教发展史略](https://catalogue.nlb.gov.sg/search/card?id=916f520c-1b93-561d-a66c-aff7646810b8&amp;entityType=FormatGroup) \[Supplementary Histories of the Kongzhongjiao\] (Yibao 怡宝: Pili Kongzhong Jiao Hui霹雳空中教会, 1965), 38. (From National Library, Singapore, call no. 299.51 HTW)
+[^6]: Huang Ziwen 黄子文, comp. _Kongzhongjiao Fazhan Shilue_ [空中教发展史略](https://catalogue.nlb.gov.sg/search/card?id=916f520c-1b93-561d-a66c-aff7646810b8&amp;entityType=FormatGroup) \[Supplementary Histories of the Kongzhongjiao\] (Yibao 怡宝: Pili Kongzhong Jiao Hui 霹雳空中教会, 1965), 38. (From National Library, Singapore, call no. 299.51 HTW)
 
 [^7]:  For an introduction to the lives and religious careers of these individuals, see Shi Cangjin石沧金, _Hai wai Hua ren min jian zong jiao xin yang yan jiu_ [海外华人民间宗教信仰研究](https://catalogue.nlb.gov.sg/search/card?id=ce2cc75d-3cf5-5aa1-8d92-7d6a1888f946&amp;entityType=FormatGroup) \[Overseas Chinese folk religion research\] (Kuala Lumpur: Xuelin Shuju 学林书局, 2014), 44-48. (From National Library, Singapore, call no.: 299.51 SCJ).
 
@@ -163,13 +163,13 @@ _This article was partially developed from my MA (History) thesis,_ Sages, Smoke
 
 [^16]:  “[Court Upset by Woman](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19560613-1.2.76),” _Straits Times_, June 13, 1956, 5. (From NewspaperSG)
 
-[^17]:  “[Dope faith men get promise from Mr. Lim](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19560923-1.2.45),” _Straits Times_ September 23, 1956, 4. (From NewspaperSG)
+[^17]:  “[Dope Faith Men Get Promise from Mr. Lim](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19560923-1.2.45),” _Straits Times_ September 23, 1956, 4. (From NewspaperSG)
 
 [^18]:  “[Cures with a Tea!](https://eresources.nlb.gov.sg/newspapers/digitised/page/freepress19560511-1.1.14)“ _Singapore Free Press_, May 11, 1956, 14. (From NewspaperSG)
 
-[^19]:  William Fish, “[Opium—a temple of hope](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19560306-1.2.25),” _Straits Times_, 6 March 1956, 2. (From NewspaperSG)
+[^19]:  William Fish, “[Opium—A Temple of Hope](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19560306-1.2.25),” _Straits Times_, 6 March 1956, 2. (From NewspaperSG)
 
-[^20]:  “[Cures with as Tea](https://eresources.nlb.gov.sg/newspapers/digitised/page/freepress19560511-1.1.14)!”
+[^20]:  “[Cures with a Tea](https://eresources.nlb.gov.sg/newspapers/digitised/page/freepress19560511-1.1.14)!”
 
 [^21]:  “[Some Odd Corners &amp; Customs of Malaya](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaytribune19330806-1.2.36),” _Sunday Tribune_, 6 August 1933, 10. (From NewspaperSG)
 
@@ -191,7 +191,7 @@ _This article was partially developed from my MA (History) thesis,_ Sages, Smoke
 
 [^30]:  [Xingzhou zhen kong jiao lian he hui cheng li nian er zhou nian ji nian te kan](https://catalogue.nlb.gov.sg/search/card?id=71a2aa09-1781-5bb6-8b85-8d8d90060b01&amp;entityType=FormatGroup) 星洲真空教联合会成立廿二周年纪念特刊 \[Commemorative Volume Marking the 20th Anniversary of the Federation of the Zhenkongjiao in Singapore\]. Singapore: Federation of the Zhenkongjiao in Singapore (Xin jia po: 星洲真空教联合会 Xingzhou Zhenkongjiao lian he hui, 1976), 1-8. (From National Library, Singapore, call no.: 294.39 SEN)
 
-[^31]:  “Kongjiao lianhehui qingzhu Zhenkong zushi danchen choujian huishi zuowei jiedu zhongxin[眞空敎聯合會慶祝眞空祖師誕辰籌建會所作爲戒毒中心](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19760511-1.2.34.4) \[The Zhenkongjiao Association celebrates the birthday of Zhenkong Patriarch by raising funds to establish a center for drug rehabilitation\],” _Nanyang Siang Pau_南洋商报, 11 May 1976, 17. (From NewspaperSG); “Kongjiao lianhe hui zutuan jin qicheng fangwen gedi yanjiu you xiao jiedu fa [眞空敎聯合會組團今启程访问各地研究有効戒毒法](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19770107-1.2.24.4) \[The Zhenkongjiao Association organizes a group to embark on visits to various places to research effective methods of drug rehabilitation\],” _Nanyang Siang Pau_南洋商报, 7 January 1977, 8. (From NewspaperSG)
+[^31]:  “Kongjiao lianhehui qingzhu Zhenkong zushi danchen choujian huishi zuowei jiedu zhongxin [眞空敎聯合會慶祝眞空祖師誕辰籌建會所作爲戒毒中心](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19760511-1.2.34.4) \[The Zhenkongjiao Association celebrates the birthday of Zhenkong Patriarch by raising funds to establish a center for drug rehabilitation\],” <i>Nanyang Siang Pau</i> 南洋商报, 11 May 1976, 17. (From NewspaperSG); “Kongjiao lianhe hui zutuan jin qicheng fangwen gedi yanjiu you xiao jiedu fa [眞空敎聯合會組團今启程访问各地研究有効戒毒法](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19770107-1.2.24.4) \[The Zhenkongjiao Association organizes a group to embark on visits to various places to research effective methods of drug rehabilitation\],” <i>Nanyang Siang Pau</i> 南洋商报, 7 January 1977, 8. (From NewspaperSG)
 
 [^32]:  Ng Ser Song, “Toward a Drug-Free Society: The Singapore Approach,” _Brown Journal of World Affairs_ 26 (2019-20): 245–252.
 

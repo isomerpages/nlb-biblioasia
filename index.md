@@ -17,6 +17,17 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 20 Issue 4/Japanese Anglican/HeroImage_anglican3.jpg
   - infopic:
+      title: Somerset Maugham Scandalises 1920s Singapore
+      subtitle: Podcast
+      id: infopic
+      description: Though Somerset Maugham was already well-known as a writer when he
+        came to Singapore in 1921, his stay here inspired some of his most
+        celebrated short stories.
+      button: Listen to the episode
+      url: /podcast/somerset-maugham-scandalises-1920s-singapore-tracey-morton/
+      image: /images/Podcast/tracey_600_400.jpg
+      alt: Somerset Maugham
+  - infopic:
       title: Uncovering the Origins of Badang the Strongman
       subtitle: People
       id: infopic
@@ -27,11 +38,11 @@ sections:
       image: /images/Vol 21 Issue 1/Badang/Badang_Topics.jpg
       alt: Badang the Strongman
   - infopic:
-      title: The Multifaceted Barbara Kerr
+      title: "Barbara Kerr: Sharpshooter and Girl Guide Extraordinaire"
       subtitle: People
       id: infopic
       description: Barbara Kerr made contributions to the Girl Guides, sports and
-        animal welfare. She was also a talented soprano singer.
+        animal welfare. She was also a talented soprano.
       button: A woman of many talents
       url: /vol-21/issue-1/apr-jun-2025/barbara-kerr-sharpshooter-school-principal-girl-guide/
       image: /images/Vol 21 Issue 1/Barbara Kerr/Barbara_Kerr_Topics.jpg
