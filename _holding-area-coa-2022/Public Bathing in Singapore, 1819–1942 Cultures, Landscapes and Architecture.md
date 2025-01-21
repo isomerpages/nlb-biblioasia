@@ -440,6 +440,11 @@ was an opportunistic activity – people bathed wherever they found water,
 whether in the sea, rivers, canals, ponds, quarries or, in a couple of accounts,
 monsoon-struck fields.[^66]
 
+![](/images/COA%202022/Public%20Bathing%20in%20Singapore/private_bathing_place_belonging_to_Ong_Siew_Kiam__1920.jpg)
+
+<img src="/images/COA%202022/Public%20Bathing%20in%20Singapore/private_bathing_place_belonging_to_Ong_Siew_Kiam__1920.jpg" style="width:100%;">
+<div style="background-color: white;">Design drawing for a private bathing place belonging to Ong Siew Kiam. <i>Lee Kian Soo, Pagar in Kampong Beting Kusa, c. 1920s. National Library Board. (Call no. RRARE 346.59570438 IND).</i></div>
+
 Over time, people built holiday homes along the coasts, following the
 enjoyable places for beach swimming and defining the areas of Singapore’s
 future suburban expansion. They moved to Pasir Panjang and Tanjong
