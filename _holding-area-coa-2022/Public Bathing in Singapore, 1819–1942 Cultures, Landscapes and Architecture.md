@@ -709,8 +709,8 @@ bathhouses. By the early 20th century, a more defined culture of bathing
 was developing, and as provision of the municipal water supply expanded,
 public bathing focused in creasingly on recreational and sporting sites, since 
 
-<img src="/images/COA%202022/Public%20Bathing%20in%20Singapore/Locations_of_bathing_places.jpg" style="width:80%;">
-<div style="background-color: white;">Locations of bathing places within the town of Singapore, 1819–1942.<i>Author, 2022.</i></div>
+<img src="/images/COA%202022/Public%20Bathing%20in%20Singapore/Locations_of_bathing_places.jpg" style="width:60%;">
+<div style="background-color: white;">Locations of bathing places within the town of Singapore, 1819–1942.<i> Author, 2022.</i></div>
 
 personal washing was becoming a domestic activity. As interest in bathing
 solidified, a more refined architecture of seaside *pagar* and inland pools
