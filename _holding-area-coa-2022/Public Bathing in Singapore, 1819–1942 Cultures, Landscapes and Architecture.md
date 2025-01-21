@@ -4,15 +4,15 @@ permalink: /holding-area/chapters-on-asia-2022/public-bathing-in-singapore/
 variant: markdown
 description: ""
 ---
-The east is essentially a land of bathing. The white man tubs<br>    himself, the yellow man, the brown man and some of the black<br>    men rub themselves – with water. The remainder prefer oil.<br>   The first question a white man asks on arrival is “Have you a<br>    swimming bath?”1
+The east is essentially a land of bathing. The white man tubs<br>    himself, the yellow man, the brown man and some of the black<br>    men rub themselves – with water. The remainder prefer oil.<br>   The first question a white man asks on arrival is “Have you a<br>    swimming bath?”[^1]
 
 #### **Introduction**
 
-With 26 public pools across the city, complemented by pools of private clubs and residences, Singapore residents today have no shortage of access to water for recreation and sport. This wider access to swimming is often traced back to the opening of Mount Emily Pool in 1931, placing Singapore’s history of leisure swimming as a phenomenon of the 20th century.2 The first municipally owned site for swimming, Mount Emily Pool arguably represents the point when swimming became truly public. It was part of a
+With 26 public pools across the city, complemented by pools of private clubs and residences, Singapore residents today have no shortage of access to water for recreation and sport. This wider access to swimming is often traced back to the opening of Mount Emily Pool in 1931, placing Singapore’s history of leisure swimming as a phenomenon of the 20th century.[^2] The first municipally owned site for swimming, Mount Emily Pool arguably represents the point when swimming became truly public. It was part of a
 wider programme of the Municipal Commissioners, who were beginning to
 see public recreation as part of their remit, thus representing an important
 transition from older laissez-faire models to a modern one of government
-provision.3 However, the attention given to Mount Emily Pool, which
+provision.[^3] However, the attention given to Mount Emily Pool, which
 highlights public swimming, also masks a longer history of popular
 swimming in Singapore that extends to the early 19th century.
 
@@ -27,13 +27,13 @@ the Japanese Occupation.
 
 Several histories have addressed swimming in Singapore, but none cover
 this extended period. Ying-Kit Chan wrote a significant study of swimming
-in relation to Singapore’s politics, though focused on a postcolonial setting.4
+in relation to Singapore’s politics, though focused on a postcolonial setting.[^4]
 Jocelyn Lau and Lucien Low recorded the popular memory of a large
 collection of pools, and other detailed histories have been written about
-individual swimming clubs.5 Most often, references to the local history
+individual swimming clubs.[^5] Most often, references to the local history
 of swimming are minor parts of wider sports histories, including those of
 writers such as Nick Aplin and Peter Horton, who reasonably focus more on
-the development of athletic sporting pursuits.6
+the development of athletic sporting pursuits.[^6]
 
 My intention, however, is to document a wider view of swimming, not
 just as sport or exercise, but as a series of interconnected social practices
@@ -69,9 +69,9 @@ in historical language, and the common practices and understandings then.
 What we today recognise as “swimming” – an athletic activity with fixed
 strokes and distances – did not exist for most of the 19th century. As Nick
 Aplin indicates, 19th-century swimming was more a social activity, which
-although allowing for community games, was not really a sport yet.7 The
+although allowing for community games, was not really a sport yet.[^7] The
 term “swimming” in its present sense was not even applicable then. Based on its use in 19th-century newspapers, people in Singapore only “swam”
-when fleeing sinking ships or escaping pirates.8 The word was not applied to
+when fleeing sinking ships or escaping pirates.[^8] The word was not applied to
 a leisurely dip in the water, instead suggesting emergency crossings of water,
 which were certainly not perceived as recreational. Leisurely forms of going
 into the water were understood as “bathing”.
@@ -81,14 +81,14 @@ for its association with hygienic forms of washing, which are very distinct
 from what we now consider “swimming”. However, these two approaches to
 entering the water share common historical roots that combine leisure and
 cleansing, and are described in several histories of bathing, including the
-classic work of architecture historian Sigfried Giedion.9 In the 19th century,
+classic work of architecture historian Sigfried Giedion.[^9] In the 19th century,
 swimming and washing were still largely unified activities; people bathed
 for many reasons: exercise, recreation, socialising, hygiene and sometimes
 even games or competition. Water-based competitions were launched at the
 New Year Sports Day and events such as the opening of the New Harbour
 (Keppel Bay), and public lectures and the popular press gave advice about
 the general health benefits of sea swimming, as well as warnings of the
-dangers of bathing as exercise.10
+dangers of bathing as exercise.[^10]
 
 This distinction of historical language is useful, as it helps to map a
 series of interconnected activities that sets the scope of this initial history.
@@ -111,7 +111,7 @@ domestic bathing.
 The British arriving in Singapore from 1819 brought with them their own
 ideas about public bathing. It was only since the beginning of the 19th
 century that sea swimming became popular, as British culture turned away
-from older inland springs and spas and found the pleasures of the seashore.11
+from older inland springs and spas and found the pleasures of the seashore.[^11]
 As Ian Bradley demonstrates, European spas had developed as sites for
 healing, where people might take part in practices of balneotherapy and
 hydrotherapy,12 and later became spaces for leisure and indulgence.13 As
@@ -1206,4 +1206,3 @@ _Straits Times Weekly Issue_. “[Another Growl](https://eresources.nlb.gov.sg/n
 103 Nick Aplin, “Sport in Singapore (1945–1948): From Rehabilitation to Olympic Status,” _International Journal of the History of Sport_ 33, no. 12 (2016): 1361–79.
 
 104 Lee, “[25 Years of Progress and Expansion](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14313506),” 31.
-
