@@ -467,18 +467,18 @@ houses that were used for dressing rooms and dining areas. At first, their
 distance from the town meant that these places could only be used during
 weekends. The Singapore Swimming Club established a regular *sampan*
 launch from Johnston’s Pier on Sundays to help members reach their site,
-which was not accessible by road until 1907.71 The early Chinese Swimming
+which was not accessible by road until 1907.[^71] The early Chinese Swimming
 Club (then the Tanjong Katong Swimming Party) rented out its clubhouse
 through the week to families wanting a short retreat in the countryside, thus
-subsidising its rent.72 These approaches differed significantly from the largescale
+subsidising its rent.[^72] These approaches differed significantly from the largescale
 proposals of the 1880s and 1890s, and arguably allowed both clubs to
 survive and gradually build membership. It took six years for the Singapore
 Swimming Club to invest in any form of bathing architecture, deciding in 1899 to build a sea platform for members’ aquatic play – providing a
-chute, diving platform and swinging rope.73 The platform gave swimmers a
+chute, diving platform and swinging rope.[^73] The platform gave swimmers a
 destination, a capacity to exit the water and dive back in. The structure was
 the centrepiece in one of C. Jackson’s 1914 illustrations for *Our Singapore*,
 an image that presents the swimming club as a place of relaxed recreation:
-drinks by the sea, reclining in the sun and playing in the water.74 This sense
+drinks by the sea, reclining in the sun and playing in the water.[^74] This sense
 of pleasure was the image of coastal bathing at the start of the 20th century,
 and as the clubs grew in popularity, residents along the east coast built
 their own piers, bathing rooms and swimming structures, placing the clubs
@@ -487,7 +487,7 @@ within a rural landscape of beachside pleasure architecture (Figure 4).
 The Singapore Swimming Club catered only to Europeans, and the
 Chinese Swimming Club served Straits Chinese residents. These became the
 centres of popular swimming in the first two decades of the 20th century.
-And even if some complained about their distance from town,75 they largely ended the 19th-century press complaints about Singapore’s lack of
+And even if some complained about their distance from town,[^75]  they largely ended the 19th-century press complaints about Singapore’s lack of
 bathing places. The racial divide between the clubs also placed them as the
 last vestiges of Singapore’s colonial laissez-faire and communitarian model
 of recreation, where each social group was expected to establish its own
@@ -495,15 +495,15 @@ recreational organisations. But the clubs also began to represent changes
 in bathing practices, drawing attention to an emerging sporting element
 by holding swimming races and forming water polo teams. For some club
 members, bathing was starting to turn into an athletic and competitive
-activity, but this was still not the dominant paradigm.76 In the 1920s,
+activity, but this was still not the dominant paradigm.[^76] In the 1920s,
 bathing as a sport was to develop elsewhere.
 
 #### **Bathing for Recreation and Sport**
 
 In 1919, the YMCA received permission to take over one of the old reservoir
 tanks on Fort Canning, which they proceeded to turn into a 36-metre
-saltwater pool.77 This helped the club pursue its international ambition
-to promote physical education.78 The YMCA was, of course, just another
+saltwater pool.[^77] This helped the club pursue its international ambition
+to promote physical education.[^78] The YMCA was, of course, just another
 private club, but its wider social mission gave this pool a broader public
 reach. As a result, the YMCA’s Fort Canning Pool became Singapore’s
 most significant bathing place for establishing a modern and public
@@ -511,13 +511,13 @@ swimming culture.
 The YMCA was instrumental in teaching swimming skills to a wider
 population, as well as promoting sporting and competitive attitudes
 to bathing. From the early 1920s, the YMCA taught swimming to boy
-scouts, girl guides and local schoolchildren.79 Their Physical Director,
+scouts, girl guides and local schoolchildren.[^79] Their Physical Director,
 J. W. Jefferson, visited the Chinese Swimming Club, instructing swimmers
-in sporting strokes and setting the path for the club to produce some of the strongest competitive swimmers of the 1920s and 1930s.80 In 1920, the
+in sporting strokes and setting the path for the club to produce some of the strongest competitive swimmers of the 1920s and 1930s.[^80] In 1920, the
 YMCA established an annual swimming competition that was open to any
-member of the public,81 opened the Fort Canning pool to students during
-school holidays82 and organised events for the public to swim in designated
-social groups.83 These activities expanded public knowledge of swimming,
+member of the public,[^81] opened the Fort Canning pool to students during
+school holidays[^82] and organised events for the public to swim in designated
+social groups.[^83] These activities expanded public knowledge of swimming,
 and drove its popularity.
 
 The 1920s and 1930s then saw major growths in the creation of bathing
@@ -527,48 +527,48 @@ also a response to contemporary international fashions for swimming.
 Swimming was modern and desirable, as the fashionability of suntans
 among Europeans made sunbathing appealing, and new sartorial ideas
 drove interest in the parade of novel and glamorously designed bathing
-suits.84 Contributing to the social demand for swimming environments,
+suits.[^84] Contributing to the social demand for swimming environments,
 new methods in water engineering promised sanitary pools through
-oxidising filtration systems and chemical cleaning.85
+oxidising filtration systems and chemical cleaning.[^85]
 
 In Singapore, attitudes to open-sea bathing turned negative in 1925
 when Doris Bowyer-Smyth, a young socialite from Sydney, was killed by
-a shark at the Singapore Swimming Club.86 A wave of recognition about
+a shark at the Singapore Swimming Club.[^86] A wave of recognition about
 the dangers of open swimming followed, and people became hesitant
 about swimming without enclosures. While the successes of the Singapore
 Swimming Club and Chinese Swimming Club came from letting go of
 19th-century expectations of bathing in *pagar*, in public opinion this was no
-longer an option – an architecture of bathing was necessary. Quickly after Bowyer-Smyth’s death, the Singapore Swimming Club built an enclosure.87
+longer an option – an architecture of bathing was necessary. Quickly after Bowyer-Smyth’s death, the Singapore Swimming Club built an enclosure.[^87]
 In following years, others were built at the Chinese Swimming Club, the
-Sea View Hotel and private homes along the east coast.88 The military
+Sea View Hotel and private homes along the east coast.[^88] The military
 followed, building enclosures at their bases in Sembawang, Seletar and
 Changi (see Figure 1).
 
 As enclosed sea swimming continued to be seen as a necessity, the
 growing trend of swimming led some inland clubs to fund the construction
 of their own pools. The Swiss Club built its pool first, followed by the
-Tanglin Club.89 The new Golf Club that emerged from the municipality’s
-closure of the old Racecourse proposed to include a pool as well.90 These
+Tanglin Club.[^89] The new Golf Club that emerged from the municipality’s
+closure of the old Racecourse proposed to include a pool as well.[^90] These
 were European clubs, and Aw Boon Haw recognised the lack of equivalent
 recreational spaces for the Chinese middle classes. He decided to establish
 his own recreational club on the coast of Pasir Panjang in 1930, which
 included a saltwater swimming pool and *pagar* that could hold a thousand
-people.91 The military again followed suit, building pools on bases in the
+people.[^91] The military again followed suit, building pools on bases in the
 1930s, not long after having built their seaside enclosures. However, the
 military had long held interests in bathing for recreation, building tanks in
 forts as early as the 1860s as a healthy option for recreation that would deter
-soldiers from engaging in Singapore’s vices.92
+soldiers from engaging in Singapore’s vices.[^92]
 
 Possibilities for recreational bathing were growing rapidly; in certain
 respects it seemed like the old centres of bathing and the east coast
 swimming clubs were falling behind through their attachment to the
 sea. It was this pressure to keep up with other clubs and retain their
-premier position that led them to invest in their own pools. The Singapore Swimming Club considered building a pool from 1928,93 but also debated
-moving to a new site at Tanjong Berlayer on the west coast.94 Eventually
+premier position that led them to invest in their own pools. The Singapore Swimming Club considered building a pool from 1928,[^93] but also debated
+moving to a new site at Tanjong Berlayer on the west coast.[^94]  Eventually
 they decided to retain their Katong site and build an inland pool, which
-opened in 1931.95 Four years later, they added a modern clubhouse designed
+opened in 1931.[^95] Four years later, they added a modern clubhouse designed
 by the architect Frank Dowdeswell that proved to be a spectacular example
-of streamlined modernism (Figure 5).96 With graceful horizontal lines and
+of streamlined modernism (Figure 5).[^96] With graceful horizontal lines and
 curved corner balconies, this building was at the forefront of worldwide
 interest in fashionable leisure environments. In the 1930s, the club was at the
 height of fashion. As Bruce Lockhart wrote in 1936:
@@ -578,11 +578,11 @@ height of fashion. As Bruce Lockhart wrote in 1936:
    fenced off from the sea and said to be the largest in the world,<br>
    is an unforgettable sight. The costumes of the women lose<br>
    nothing by comparison with those of Paris Plage and Deauville,<br>
-   and iced-beer softens the rigours of sun-bathing.97
+   and iced-beer softens the rigours of sun-bathing.[^97]
 
 The Chinese Swimming Club followed this example, redeveloping
 their site to build a new clubhouse and a pool known as the Lee Kong
-Chian Swimming Pool in 1938.98 The new designs created by the swimming
+Chian Swimming Pool in 1938.[^98] The new designs created by the swimming
 clubs, as with the inland European social clubs, embraced the visual
 language of modern architecture. They left behind the old vernacular of
 Singapore’s swimming places, and established a new image of leisurely
@@ -595,12 +595,12 @@ clubs, the municipality took notice. At this time, the municipality was
 developing ideas about public provision of recreation that radically differed
 from their predecessors. They began seeing it as part of their remit to
 provide leisure and health spaces for the public, which included the creation
-of new sports fields.99 Public interest in swimming was obvious, and they
+of new sports fields.[^99] Public interest in swimming was obvious, and they
 made plans for municipal swimming places. This led to the Mount Emily
 Pool, which was modelled on the YMCA Pool at Fort Canning. To create
 this first public pool in 1931, the municipality used a similar strategy of
 repurposing old water infrastructure, converting one of the tanks of the
-Mount Emily Service Reservoir into a freshwater pool.100 Aside from the
+Mount Emily Service Reservoir into a freshwater pool.[^100] Aside from the
 YMCA Pool, this strategy was also used earlier in a private pool at Keppel
 Hill, owned by the Tanjong Pagar Dock Company, where a reservoir built
 in the 1890s was converted to a company pool sometime in the 1920s. At
@@ -620,17 +620,17 @@ element of private clubs and had become a service provided for the wider
 public. The surging interest in swimming, and the successes of the YMCA
 and the Chinese Swimming Club in international competitions, such as the
 Far Eastern Olympic Games in Shanghai in 1927 or inter-club competitions
-abroad,101 led to the foundation of the Singapore Amateur Swimming
-Association in 1939.102 This organisation brought together private and
+abroad,[^101] led to the foundation of the Singapore Amateur Swimming
+Association in 1939.[^102] This organisation brought together private and
 military clubs and began a process of regulating swimming as an athletic
 activity in Singapore, eventually leading to swimmers competing in the
-Olympics as “Singaporeans” after the Second World War.103
+Olympics as “Singaporeans” after the Second World War.[^103]
 
 The symbolic ending of this period of growth in bathing came in 1941.
 By the end of the 1930s, the east coast was dotted with piers and bathing
 structures. The British military demolished all bathing structures along the
 east coast as they mistakenly expected that this area would be the focus of
-Japanese invasion.104 In the early 20th century, the growing popularity of
+Japanese invasion.[^104] In the early 20th century, the growing popularity of
 bathing led to it becoming solidified in architectural interventions; in 1941,
 these physical demonstrations of new attitudes to leisure and hygiene were
 removed, but of course, the interest remained, and was ready to inform the
