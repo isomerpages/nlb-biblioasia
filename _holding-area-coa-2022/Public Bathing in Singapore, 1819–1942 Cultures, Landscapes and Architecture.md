@@ -586,7 +586,13 @@ Possibilities for recreational bathing were growing rapidly; in certain
 respects it seemed like the old centres of bathing and the east coast
 swimming clubs were falling behind through their attachment to the
 sea. It was this pressure to keep up with other clubs and retain their
-premier position that led them to invest in their own pools. The Singapore Swimming Club considered building a pool from 1928,[^93] but also debated
+premier position that led them to invest in their own pools. The Singapore 
+
+<img src="/images/COA%202022/Public%20Bathing%20in%20Singapore/Frank_Dowdeswell_s_1930s_design.jpg" style="width:100%;">
+<div style="background-color: white;">Frank Dowdeswell’s 1930s design for the Singapore Swimming Club’s new clubhouse,
+Katong, c. 1950s. <i>Nelson Collection, courtesy of National Archives of Singapore (accession no. 20140000166-0055).</i></div>
+
+Swimming Club considered building a pool from 1928,[^93] but also debated
 moving to a new site at Tanjong Berlayer on the west coast.[^94]  Eventually
 they decided to retain their Katong site and build an inland pool, which
 opened in 1931.[^95] Four years later, they added a modern clubhouse designed
