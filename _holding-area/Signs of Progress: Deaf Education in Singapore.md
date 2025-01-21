@@ -117,4 +117,159 @@ In Singapore, the journey of deaf education and&nbsp; accessibility (both physic
 #### **NOTES**
      
 
-[^1]:  
+[^1]: 
+     
+
+[^2]: 
+
+
+[^3]: 
+     
+
+[^4]: 
+     
+
+[^5]: 
+     
+
+[^6]: 
+
+
+[^7]: 
+     
+
+[^8]: 
+     
+
+[^9]: 
+     
+
+[^10]: 
+
+     
+
+[^11]: 
+     
+
+[^12]: 
+
+
+[^13]: 
+     
+
+[^14]: 
+     
+
+[^15]: 
+     
+
+[^16]: 
+
+
+[^17]: 
+     
+
+[^18]: 
+     
+
+[^19]: 
+     
+
+[^20]: 
+
+
+    
+
+[^21]: 
+     
+
+[^22]: 
+
+
+[^23]: 
+     
+
+[^24]: 
+     
+
+[^25]: 
+     
+
+[^26]: 
+
+
+[^27]: 
+     
+
+[^28]: 
+     
+
+[^29]: 
+     
+
+[^30]: Jay M. Brenner, et al., “Use of Interpreter Services in the Emergency Department.” _Annals of Emergency Medicine_ 72, no. 4 (October 2018): 432–37, https://www.sciencedirect.com/science/article/abs/pii/S0196064418304311.
+
+
+[^31]: “FAQ on Sign Language Interpreters,” Singapore Association for the Deaf, accessed 26 November 2024, https://sadeaf.org.sg/faq-on-sadeaf-and-about-the-deaf-and-hard-of-hearing/faq-on-sign-language-interpreters/; “FAQ on Number of Deaf in Singapore,” Singapore Association for the Deaf, accessed 26 November 2024, https://sadeaf.org.sg/faq-on-sadeaf-and-about-the-deaf-and-hard-of-hearing/faq-on-number-of-deaf-in-singapore/; “Sign Language Interpretation,” Singapore Association for the Deaf, accessed 26 November 2024, https://sadeaf.org.sg/service/interpreting/.&nbsp;
+     
+
+[^32]: Ong, “The Deaf Using Fax Machines to Communicate.”
+
+
+[^33]: “SMS Phone Deal for Deaf,” _Today_, 17 August 2001, 4; “Phones for the Deaf,” _Straits Times_, 15 December 2000, 20. (From NewspaperSG).&nbsp;
+     
+
+[^34]: Phoebe Tay and Bee Chin Ng, “Revisiting the Past to Understand the Present: The Linguistic Ecology of the Singapore Deaf Community and the Historical Evolution of Singapore Sign Language (SgSL),” _Frontiers in Communication_ 6 (January 2022), https://www.frontiersin.org/journals/communication/articles/10.3389/fcomm.2021.748578/full.
+     
+
+[^35]: Goh Yan Han, “10th Consecutive National Day Rally to Have Sign Language Interpreter As S’pore Aims for More Accessible Content,” _Straits Times_, 23 August 2022, https://www.straitstimes.com/singapore/10th-consecutive-national-day-rally-to-have-sign-language-interpreter-as-spore-aims-for-more-accessible-content.
+     
+
+[^36]: Hillary Chua, “Healthcare Access for the Deaf in Singapore: Overcoming Communication Barriers,” _Asian Bioethics Review_ 11, no. 4 (30 November 2019): 377–90, https://pmc.ncbi.nlm.nih.gov/articles/PMC7747252/.
+
+
+[^37]: Mayo Martin, “Loud and Clear,” _Today_, 25 May 2015, 34. (From NewspaperSG); Cheryl Lin, “Music for the Deaf, Theatre for the Blind: How the Arts Is Catering to People with Disabilities,” CNA, 30 December 2021, https://www.channelnewsasia.com/singapore/music-theatre-arts-catering-deaf-blind-people-disabilities-2378106.&nbsp;
+     
+
+[^38]: “Why Many Deaf Children Are Denied Schooling,” _Straits Times_, 22 September 1976, 7. (From NewspaperSG)
+     
+
+[^39]: “Andrew Tay,” Equal Dreams, accessed September 2, 2024, https://equaldreams.sg/member/andrew-tay/.
+     
+
+[^40]: “A Teacher for the Deaf,” _Singapore Standard_, 23 November 1955, 3. (From NewspaperSG)
+
+
+[^41]: Chua Tee Tee, “Methods of Teaching Deaf Children in Singapore and Malaysia,” _Teaching and Learning_ 11, no. 2 (1991): 12–20, https://repository.nie.edu.sg/entities/publication/6c5765cd-44e7-45d9-bc85-01451bde46c2/details.
+     
+
+[^42]: “Sign Language Book to Hit Stands Soon,” _Straits Times_, 1 October 1990, 16. (From NewspaperSG); _Sign for Singapore_ (Singapore: Times Books International, 1990). (From National Library Singapore, call no. RSING 419 SIG)
+
+
+[^43]: Janet Ho, “Recognise Sign Language, Says Deaf Association,” _Straits Times_, 18 February 1994, 3. (From NewspaperSG)
+
+     
+
+[^44]: Leow Si Wan, “More Signing Up to Learn Sign Language,” _Straits Time_s, 3 October 2009, 48. (From NewspaperSG)
+     
+
+[^45]: Syarafana Shafeeq, “New E-book on Singapore Sign Language Among Latest Efforts to Raise Visibility of Local Signing,” _Straits Times_, 20 October 2024, https://www.straitstimes.com/singapore/new-e-book-on-singapore-sign-language-among-latest-efforts-to-raise-visibility-of-local-signing; “Singapore Sign Language Classes,” Nanyang Technological University, accessed 28 November 2024, https://www.ntu.edu.sg/cml/languages/singapore-sign-language/singapore-sign-language-classes.&nbsp;
+     
+
+[^46]: “Sign Language Module Offers Students Unique Learning Opportunity and Insight on Deaf Culture,” Yale NUS College, 31 March 2020, https://www.yale-nus.edu.sg/story/31-march-2020-sign-language-module-offers-students-unique-learning-opportunity-and-insight-on-deaf-culture/.&nbsp;
+
+
+[^47]: “SgSL Sign Bank Launched!,” The Singapore Association for the Deaf, accessed 28 November 2024, https://sadeaf.org.sg/sgsl-sign-bank-launched/.&nbsp;
+     
+
+[^48]: “FAQs,” SgSL Sign Bank, accessed 28 November 2024, https://blogs.ntu.edu.sg/sgslsignbank/faqs/.&nbsp;
+     
+
+[^49]: “List of Signs,” SgSL Sign Bank, accessed 28 November 2024, blogs.ntu.edu.sg/sgslsignbank/signs/.
+     
+
+[^50]: Syarafana Shafeeq, “New E-book on Singapore Sign Language Among Latest Efforts to Raise Visibility of Local Signing.”
+
+     
+
+[^51]: Darrelle Ng, “Deaf Community Welcomes Study on an Official Sign Language in Singapore, But Educational Challenges Remain,” CNA, 2 February 2024, http://channelnewsasia.com/singapore/deaf-sign-language-sgsl-national-education-school-challenges-4094101.
