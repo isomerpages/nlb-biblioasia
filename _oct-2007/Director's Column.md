@@ -1,0 +1,23 @@
+---
+title: Director's Column
+permalink: /vol-3/issue-3/oct-2007/director-column/
+description: ""
+---
+It has been two years since we moved to the new National Library Building at Victoria Street. In the last two years, the National Library had played host to several overseas distinguished guests. These include her Majesty Queen Elizabeth II; Japanese Emperor Akihito and Empress Michiko; the former Crown Prince of Bhutan, His Royal Highness, Trongsa Penlop Jigme Khesar Namgyel Wangchuck, and Mrs Laura Bush, First Lady of the United States.
+
+I am happy to say that we have done reasonably well in a short span of time. To commemorate the re-opening of the National Library, we first published the inaugural issue of *BiblioAsia* in August 2005 and this is now the 10th issue. We also launched two permanent exhibitions at the National Library in November 2005. The first exhibition, *The Singapore Literary Pioneers Gallery*, pays tribute to the literary achievements of prominent Singapore writers. The second exhibition, *From Books to Bytes: The Story of the National Library*, visually celebrates the history of the National Library from 1823 to the present. Do come and visit these exhibitions if you have not done so!
+
+In the same month, we also launched the Lee Kong Chian Research Fellowship to encourage research on Asian content and enrich the National Library’s Asia-centric collections and resources. The closing date for the next cycle of the Fellowship programme is 28 February 2008. We look forward to receiving your applications.
+
+Just recently, the National Library won the fi rst prize in the ASEAN Energy Effi cient Building Award (New and Existing Buildings Category). Acknowledged for its green features, energy saving devices, open spaces and sky gardens, the National Library Building was conferred the Platinum Green Mark Award by the Building and Construction Authority of Singapore (BCA) in 2005. Come November 2007, a book that showcases the National Library as an architectural icon will be published.
+
+To commemorate the 50th anniversary of the Raffl es National Library Ordinance that heralded the beginning of free public library services and to celebrate our 2nd anniversary, the National Library will be publishing a pictorial book that traces the growth and development of libraries in Singapore. The Heritage Road Show is back after a successful inaugural run last year and this year’s event promises to be more exciting. Do look out for the new e-Deposit online service whereby members of the public can submit digitised version of old photos or valuables online. In line with the heritage theme, a series of heritage-related exhibitions will be held at the Promenades of the National Library. The highlight is the *KaalaChakra* (Wheel of Time) exhibition, which chronicles the early Indian infl uences in Southeast Asia in the areas of culture, history and society.
+
+The National Library has always strived to acquire valuable and inaccessible content and make it accessible to the public. With this in mind, I am pleased to announce that we have just signed four Memoranda of Understanding (MOU). The first was with the Raffles Institution to make its collection of rare documents available to the public through digitisation. The second MOU was with the Singapore Press Holdings to digitise all back issues of The Straits Times and make it available online, in phases, to the public in all NLB libraries from the second half of 2008. The third MOU was with the S. Rajaratnam School of International Studies (RSIS), Nanyang Technological University (NTU) to preserve, archive and make accessible documents and information on international political violence and terrorism. The last MOU was with Encik Abdul Ghani Hamid, award winning Singapore writer, poet and artist. A selected collection of his rare books, manuscripts and personal artifacts on Malay literature and the arts in Singapore and Southeast Asia will be preserved and 
+archived.
+
+The National Library Board (NLB) recently launched the EnterpriseOne Business Information Services (EBIS) for Singapore-based small and medium sized enterprises. Led by the Singapore Business Federation (SBF), the multi-agency initiative includes NLB, SPRING Singapore and International Enterprise (IE) Singapore. EBIS aims to empower enterprises in Singapore to become more knowledge-enabled, innovative and information savvy. 
+
+We thank you for your support and look forward to seeing you at the National Library. Happy reading and do keep your comments and feedback coming!
+
+ <b>Ms Ngian Lek Choh </b><br> Director<br> National Library
