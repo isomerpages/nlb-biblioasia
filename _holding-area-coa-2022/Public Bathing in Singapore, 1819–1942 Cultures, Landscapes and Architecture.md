@@ -341,7 +341,7 @@ public and domestic wells to prevent disease, but had the effect of further
 limiting people’s access to water.[^51] As part of limiting the “nuisance” of
 public bathing, the Municipal Commissioners also placed criminal charges
 on people found bathing naked in public sites, ensuring that bathing and
-washing would always be decent and modest activities.52
+washing would always be decent and modest activities.[^52] 
 
 Regulation created a classification of water spaces according to
 understood functions, but rules were often subverted by the public. The
@@ -350,28 +350,28 @@ piped town water, was where many people saw prime opportunity for
 bathing – a chargeable offence. One European man bathing there tried to
 escape the charge by claiming he was simply retrieving his hat that had
 blown into the water. The fact he was completely undressed and likely in the
-company of two Japanese prostitutes did not help his defence.53
+company of two Japanese prostitutes did not help his defence.[^53] 
 
 Gradually, these rules about recognised bathing places led to concerns
 in the Municipal Commission over the broader working-class public’s access
-to water and washing.54 And even where there was access, there remained
+to water and washing.[^54] And even where there was access, there remained
 problems with the water’s cleanliness. For example, in the mid-1870s there
 were reported to be 42 designated bathing places along the Singapore River
 and its adjacent canals, even though the river was the most polluted water
-body in the town.55 And so, the municipality tried a new strategy. Instead
+body in the town.[^55] And so, the municipality tried a new strategy. Instead
 of just demarcating allowable bathing places in public water bodies, they
 would build their own new places with different water sources. These had
 an affordable one-cent entry fee, provided clean water, and encouraged good
 hygiene. A trial was built on the Singapore River behind the Ellenborough
 Market in 1874, and since this was before the reservoir was finished, clean
-water was brought in by water boat.56 Being placed at the market, it was hoped this bathhouse might become an established social centre for
+water was brought in by water boat.[^56] Being placed at the market, it was hoped this bathhouse might become an established social centre for
 nearby residents.
 
 When the municipality’s Impounding Reservoir was completed in 1877,
 the new infrastructure allowed a rethinking of public bathing provisions.
 In 1880, the Ellenborough Market bathhouse was redesigned by Municipal
-Engineer Thomas Cargill to use cleaner municipal water.57 Cargill finished
-another bathhouse on Boat Quay in 1881.58 These places were enclosed
+Engineer Thomas Cargill to use cleaner municipal water.[^57]  Cargill finished
+another bathhouse on Boat Quay in 1881.[^58] These places were enclosed
 wooden buildings, with tiled roofs, taps and iron tanks made to hold a
 communal bath, and as pieces of municipal architecture they received a
 positive reception:
@@ -387,14 +387,14 @@ positive reception:
    once such a vast improvement upon former constructions as<br>
    to awaken admiration of the taste and ability of the Municipal<br>
    Engineer, and the public spirit of the Commissioners, in<br>
-providing such elegant public conveniences.59
+providing such elegant public conveniences.[^59] 
 
 A third bathhouse was built at the Clyde Terrace Market on Beach
 Road, and a fourth negotiated with the Tanjong Pagar Dock Company
-(which then was not part of the Municipality60), but there is no reference to
-any finished structure in that place.61 The municipal bathhouse programme
+(which then was not part of the Municipality[^60]), but there is no reference to
+any finished structure in that place.[^61] the municipal bathhouse programme
 did not progress beyond this point, and those that were built disappeared
-by the mid-1890s, with declining attendance and rising maintenance costs.62 The growing acceptance of piped domestic water had changed social
+by the mid-1890s, with declining attendance and rising maintenance costs.[^62] The growing acceptance of piped domestic water had changed social
 practices of gaining access to water, and by this point more people simply
 bathed at home. To some extent, the municipal bathhouses of the 1880s
 bridged the town’s attitudes to changing models of water supply, which
@@ -403,7 +403,7 @@ Yeoh has discussed in detail, the new reservoir system’s inability to produce
 enough water for the growing town, which among other responses, led the
 Municipal Commissioners to become particularly concerned with prospects
 of water wastage at their bathhouses, while continuing to close groundwater
-wells on grounds of contamination.63
+wells on grounds of contamination.[^63]
 
 The municipal bathhouses provided popular access to freshwater
 bathing, but they were controversial: some residents rejected the idea of
@@ -417,13 +417,13 @@ Even if there could not be enough formal bathing venues to meet public
 demand, people still found places to go into the water. This was through
 sneaking nighttime swims at the Esplanade, visiting Beach Road, or
 travelling to rural beaches at Pasir Panjang, Tanjong Katong, Siglap or
-Changi.64 All of these were popular places without any of the architecture
+Changi.[^64] All of these were popular places without any of the architecture
 of bathing; and as places of recreation they appealed equally to European
 and Asian residents. The east coast, later a centre for swimming, was
-already known for bathing trips as early as the 1850s.65 Ultimately, bathing
+already known for bathing trips as early as the 1850s.[^65] Ultimately, bathing
 was an opportunistic activity – people bathed wherever they found water,
 whether in the sea, rivers, canals, ponds, quarries or, in a couple of accounts,
-monsoon-struck fields.66
+monsoon-struck fields.[^66]
 
 Over time, people built holiday homes along the coasts, following the
 enjoyable places for beach swimming and defining the areas of Singapore’s
@@ -447,8 +447,8 @@ It was during this period, as ambitions of recreational bathing moved
 beyond town limits, that two new bathing clubs were established. Both
 managed to survive and become Singapore’s premier institutions for
 swimming: the Singapore Swimming Club, founded in 1893, and the Chinese Swimming Club, which was fully formed as a social club about 15
-years later.67 Both clubs have received substantial historical description from
-club historians, who discuss their individual developments,68 but what is
+years later.[^67] Both clubs have received substantial historical description from
+club historians, who discuss their individual developments,[^68]  but what is
 necessary here is to consider the significance of these lasting clubs within the
 larger history of Singapore’s bathing cultures. Arguably, the greatest success
 of these places, and what marks them as different from earlier clubs, is that
@@ -456,9 +456,9 @@ both embraced an open model that was rejected by earlier planners, thus
 avoiding the financial trap of older bathing places and ultimately allowing
 them to survive. Both avoided the expensive, complicated and yet preferred
 locations of the town, choosing instead to reside in the rural east coast. This
-drew criticism from some, who found accessing these places inconvenient,69
+drew criticism from some, who found accessing these places inconvenient,[^69]
 but they were nonetheless places already popular among swimmers for half
-a century.70
+a century.[^70]
 
 Both clubs were founded to enjoy the pleasures of sea bathing, and
 neither chose to build a *pagar*, deciding instead to make use of open beaches.
