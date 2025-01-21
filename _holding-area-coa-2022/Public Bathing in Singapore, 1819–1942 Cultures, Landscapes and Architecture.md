@@ -331,7 +331,14 @@ from view, if not removed completely.
 The municipality responded by building attap screens and small
 enclosures around common bathing spots at public wells or riversides. One
 of the earliest was made in 1849 around a well in Telok Blangah, opposite
-the Temenggung’s palace, in what was reported as a great cleaning and beautification of that town.[^49] This approach continued (Figure 2), though
+the Temenggung’s palace, in what was reported as a great cleaning and 
+
+<img src="/images/COA%202022/Public%20Bathing%20in%20Singapore/Vernacular_bathing_place_in_Seletar__1869.jpg" style="width:80%;">
+<div style="background-color: white;">Vernacular bathing place in Seletar, near the Government Bungalow. Eugen von
+Ransonnet, “Bathing Place Near Selita”, 1869. <i>Courtesy of the National Museum of Singapore.</i></div>
+
+
+beautification of that town.[^49] This approach continued (Figure 2), though
 as the Municipal Commissioners gained greater power to organise the
 urban environment, they could begin designating fixed bathing places,
 and making bathing in other places a chargeable offence.[^50] Through this
