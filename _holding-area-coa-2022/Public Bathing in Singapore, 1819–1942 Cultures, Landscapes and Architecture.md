@@ -163,7 +163,15 @@ its architectural style to be “somewhat rude”, and thought the dressing
 rooms too high above the water.[^20] However, they otherwise considered
 the structure perfectly adequate, hoping its establishment would provide a
 place for public bathing for years to come. The “rudeness” of the enclosure
-most likely refers to its regional vernacular construction. The battery *pagar* appears to have used conventions of Malay and Orang Laut architecture,
+most likely refers to its regional vernacular construction. The battery *pagar* 
+
+<img src="/images/COA%202022/Public%20Bathing%20in%20Singapore/Royal_Air_Force_Seletar__1930.jpg" style="width:100%;">
+<div style="background-color: white;">Swimming <i>pagar</i> at Royal Air Force Seletar, c. 1930, one of a series of swimming enclosures built at military bases in the 1920s and 1930s. <i>Courtesy of National Archives of Singapore (accession
+no. 19980002873-0048).</i></div>
+
+
+
+appears to have used conventions of Malay and Orang Laut architecture,
 which remained the dominant architectural style for Singapore’s *pagar*
 over the following century. A very similar construction style was still used
 for enclosures of the 1920s and 1930s, shown in images of military bathing
@@ -323,7 +331,14 @@ from view, if not removed completely.
 The municipality responded by building attap screens and small
 enclosures around common bathing spots at public wells or riversides. One
 of the earliest was made in 1849 around a well in Telok Blangah, opposite
-the Temenggung’s palace, in what was reported as a great cleaning and beautification of that town.[^49] This approach continued (Figure 2), though
+the Temenggung’s palace, in what was reported as a great cleaning and 
+
+<img src="/images/COA%202022/Public%20Bathing%20in%20Singapore/Vernacular_bathing_place_in_Seletar__1869.jpg" style="width:100%;">
+<div style="background-color: white;">Vernacular bathing place in Seletar, near the Government Bungalow. Eugen von
+Ransonnet, “Bathing Place Near Selita”, 1869. <i>Courtesy of the National Museum of Singapore.</i></div>
+
+
+beautification of that town.[^49] This approach continued (Figure 2), though
 as the Municipal Commissioners gained greater power to organise the
 urban environment, they could begin designating fixed bathing places,
 and making bathing in other places a chargeable offence.[^50] Through this
@@ -425,6 +440,9 @@ was an opportunistic activity – people bathed wherever they found water,
 whether in the sea, rivers, canals, ponds, quarries or, in a couple of accounts,
 monsoon-struck fields.[^66]
 
+<img src="/images/COA%202022/Public%20Bathing%20in%20Singapore/private_bathing_place_belonging_to_Ong_Siew_Kiam__1920.jpg" style="width:100%;">
+<div style="background-color: white;">Design drawing for a private bathing place belonging to Ong Siew Kiam. <i>Lee Kian Soo, Pagar in Kampong Beting Kusa, c. 1920s. National Library Board. (Call no. RRARE 346.59570438 IND).</i></div>
+
 Over time, people built holiday homes along the coasts, following the
 enjoyable places for beach swimming and defining the areas of Singapore’s
 future suburban expansion. They moved to Pasir Panjang and Tanjong
@@ -473,7 +491,12 @@ through the week to families wanting a short retreat in the countryside, thus
 subsidising its rent.[^72] These approaches differed significantly from the largescale
 proposals of the 1880s and 1890s, and arguably allowed both clubs to
 survive and gradually build membership. It took six years for the Singapore
-Swimming Club to invest in any form of bathing architecture, deciding in 1899 to build a sea platform for members’ aquatic play – providing a
+Swimming Club to invest in any form of bathing architecture, deciding 
+
+<img src="/images/COA%202022/Public%20Bathing%20in%20Singapore/European_bathers_at_a_private_structure_on_the_east_coast_.jpg" style="width:100%;">
+<div style="background-color: white;">European Bathers at a Private Structure on the East Coast, c. 1890s. <i>G. R. Lambert &amp; Co., Fotoalbum Singapur (Singapore: G. R. Lambert &amp; Co., c. 1887–1905). (From National Library, Singapore, call no. 959.5704 LAM).</i></div>
+
+in 1899 to build a sea platform for members’ aquatic play – providing a
 chute, diving platform and swinging rope.[^73] The platform gave swimmers a
 destination, a capacity to exit the water and dive back in. The structure was
 the centrepiece in one of C. Jackson’s 1914 illustrations for *Our Singapore*,
@@ -1069,140 +1092,140 @@ _Straits Times Weekly Issue_. “[Another Growl](https://eresources.nlb.gov.sg/n
 
 [^35]: “[An Unknown Club](https://eresources.nlb.gov.sg/newspapers/digitised/article/singdailytimes18780517-1.2.13.6.1),” _Singapore Daily Times_, 17 May 1878, 3. (From NewspaperSG)
 
-[^36]:  “[Page 9 Advertisements Column 5](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19310131-1.2.42.5),” _Singapore Free Press and Mercantile_ Advertiser, 31 January 1931, 9; Syonan Tokubetu-si, [_The Good Citizen’s Guide_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=08202d8b-1b30-4a2d-805d-4ed9f7d21b9b) (Singapore: Syonan Sinbun, 1943), 181. (From National Library Online; Call no. RRARE 348.5957026 SYO-\[LKL\]; Microfilm NL7400)
+[^36]: “[Page 9 Advertisements Column 5](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19310131-1.2.42.5),” _Singapore Free Press and Mercantile_ Advertiser, 31 January 1931, 9; Syonan Tokubetu-si, [_The Good Citizen’s Guide_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=08202d8b-1b30-4a2d-805d-4ed9f7d21b9b) (Singapore: Syonan Sinbun, 1943), 181. (From National Library Online; Call no. RRARE 348.5957026 SYO-\[LKL\]; Microfilm NL7400)
 
-37 “[Swimming as Exercise](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18651026-1.2.4),” _Singapore Free Press and Mercantile Advertiser_, 26 October 1865, 2; “[Sea Bathing](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18651115-1.2.12),” _Straits Times_, 15 November 1865, 2; “[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18660621-1.2.4),” _Singapore Free Press and Mercantile Advertiser_, 21 June 1866, 2; “[Sea Bathing](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18740103-1.2.15),” _Straits Times_, 3 January 1874, 2; “[An European Bath House](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18871025-1.2.7),” _Straits Times_, 25 October 1887, 2; “[What a Newcomer Wants](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18890802-1.2.72),” _Straits Times Weekly Issue_, 2 August 1889, 3; “[No Facilities for Bathing in Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/dailyadvertiser18910115-1.2.3),” _Daily Advertiser_, 15 January 1891, 2; “[Thursday August 11, 1892](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18920811-1.2.4),” _Singapore Free Press and Mercantile Advertiser_, 11 August 1892, 2. (From NewspaperSG)
+[^37]: “[Swimming as Exercise](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18651026-1.2.4),” _Singapore Free Press and Mercantile Advertiser_, 26 October 1865, 2; “[Sea Bathing](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18651115-1.2.12),” _Straits Times_, 15 November 1865, 2; “[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18660621-1.2.4),” _Singapore Free Press and Mercantile Advertiser_, 21 June 1866, 2; “[Sea Bathing](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18740103-1.2.15),” _Straits Times_, 3 January 1874, 2; “[An European Bath House](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18871025-1.2.7),” _Straits Times_, 25 October 1887, 2; “[What a Newcomer Wants](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18890802-1.2.72),” _Straits Times Weekly Issue_, 2 August 1889, 3; “[No Facilities for Bathing in Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/dailyadvertiser18910115-1.2.3),” _Daily Advertiser_, 15 January 1891, 2; “[Thursday August 11, 1892](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18920811-1.2.4),” _Singapore Free Press and Mercantile Advertiser_, 11 August 1892, 2. (From NewspaperSG)
 
-38 “[A Growler](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18760711-1.2.4.2),” _Straits Observer_, 11 July 1876, 2. (From NewspaperSG)
+[^38]: “[A Growler](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18760711-1.2.4.2),” _Straits Observer_, 11 July 1876, 2. (From NewspaperSG)
 
-39 “[Sea Bathing](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18651115-1.2.12).”
+[^39]: “[Sea Bathing](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18651115-1.2.12).”
 
-40 “[Another Growl](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18841018-1.2.50),” _Straits Times Weekly Issue_, 18 October 1884, 16; “[Topics of the Week](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18920813-1.2.12),” _Singapore Free Press and Mercantile Advertiser_, 13 August 1892, 3. (From NewspaperSG)
+[^40]:  “[Another Growl](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18841018-1.2.50),” _Straits Times Weekly Issue_, 18 October 1884, 16; “[Topics of the Week](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18920813-1.2.12),” _Singapore Free Press and Mercantile Advertiser_, 13 August 1892, 3. (From NewspaperSG)
 
-41 “[Singapore Rowing Club](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18890930-1.2.51),” _Straits Times Weekly Issue_, 30 September 1889, 7. (From NewspaperSG)
+[^41]: “[Singapore Rowing Club](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18890930-1.2.51),” _Straits Times Weekly Issue_, 30 September 1889, 7. (From NewspaperSG)
 
-42 “[Thursday, August 11, 1892](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18920811-1.2.4).”
+[^42]: “[Thursday, August 11, 1892](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18920811-1.2.4).”
 
-43 “[A Singapore Swimming Club](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18931114-1.2.12),” _Straits Times Weekly Issue_, 14 November 1893, 2. (From NewspaperSG)
+[^43]: “[A Singapore Swimming Club](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18931114-1.2.12),” _Straits Times Weekly Issue_, 14 November 1893, 2. (From NewspaperSG)
 
-44 “[Municipal Commission](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19000525-1.2.14),” _Singapore Free Press and Mercantile Advertiser_, 25 May 1900, 3. (From NewspaperSG)
+[^44]: “[Municipal Commission](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19000525-1.2.14),” _Singapore Free Press and Mercantile Advertiser_, 25 May 1900, 3. (From NewspaperSG)
 
-45 “[To Correspondents](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18431019-1.2.8),” _Singapore Free Press and Mercantile Advertiser_, 19 October 1843, 2; “[The Grand Jury’s Presentment](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18490425-1.2.13),” _Straits Times_, 25 April 1849, 3; “[Correspondence](https://eresources.nlb.gov.sg/newspapers/digitised/article/dailyadvertiser18920810-1.2.7),” _Daily Advertiser_, 10 August 1892, 3; “[A Standing Nuisance](https://eresources.nlb.gov.sg/newspapers/digitised/article/middayherald18960331-1.2.4),” _Mid-Day Herald_, 31 March 1896, 2. (From NewspaperSG)
+[^45]: “[To Correspondents](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18431019-1.2.8),” _Singapore Free Press and Mercantile Advertiser_, 19 October 1843, 2; “[The Grand Jury’s Presentment](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18490425-1.2.13),” _Straits Times_, 25 April 1849, 3; “[Correspondence](https://eresources.nlb.gov.sg/newspapers/digitised/article/dailyadvertiser18920810-1.2.7),” _Daily Advertiser_, 10 August 1892, 3; “[A Standing Nuisance](https://eresources.nlb.gov.sg/newspapers/digitised/article/middayherald18960331-1.2.4),” _Mid-Day Herald_, 31 March 1896, 2. (From NewspaperSG)
 
-46 “[Indecent Bathing](https://eresources.nlb.gov.sg/newspapers/digitised/article/singdailytimes18770712-1.2.11.3.1),” _Singapore Daily Times_, 12 July 1877, 3; “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18860201-1.2.15),” _Straits Times_, 1 February 1886, 2. (From NewspaperSG)
+[^46]: “[Indecent Bathing](https://eresources.nlb.gov.sg/newspapers/digitised/article/singdailytimes18770712-1.2.11.3.1),” _Singapore Daily Times_, 12 July 1877, 3; “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18860201-1.2.15),” _Straits Times_, 1 February 1886, 2. (From NewspaperSG)
 
-47 “[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18660111-1.2.3),” _Singapore Free Press and Mercantile Advertiser_, 11 January 1866, 2; “[Tuesday 10th January](https://eresources.nlb.gov.sg/newspapers/digitised/article/stoverland18710118-1.2.10.5),” _Straits Times Overland Journal_, 18 January 1871, 5; “[Carelessness of Native Servants](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18760617-1.2.6),” _Straits Times_, 17 June 1876, 1; “[Correspondence](https://eresources.nlb.gov.sg/newspapers/digitised/article/singdailytimes18810511-1.2.8.6),” _Singapore Daily Times_, 11 May 1881, 3; “[Strange Sights](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18871031-1.2.41.1),” _Straits Times Weekly Issue_, 31 October 1887, 12; “[Local and General](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880428-1.2.12),” _Straits Eurasian Advocate_, 28 April 1888, 6. (From NewspaperSG)
+[^47]: “[The Singapore Free Press](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18660111-1.2.3),” _Singapore Free Press and Mercantile Advertiser_, 11 January 1866, 2; “[Tuesday 10th January](https://eresources.nlb.gov.sg/newspapers/digitised/article/stoverland18710118-1.2.10.5),” _Straits Times Overland Journal_, 18 January 1871, 5; “[Carelessness of Native Servants](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18760617-1.2.6),” _Straits Times_, 17 June 1876, 1; “[Correspondence](https://eresources.nlb.gov.sg/newspapers/digitised/article/singdailytimes18810511-1.2.8.6),” _Singapore Daily Times_, 11 May 1881, 3; “[Strange Sights](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18871031-1.2.41.1),” _Straits Times Weekly Issue_, 31 October 1887, 12; “[Local and General](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880428-1.2.12),” _Straits Eurasian Advocate_, 28 April 1888, 6. (From NewspaperSG)
 
-48 “[Local and General](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18860617-1.2.10),” _Straits Times Weekly Issue_, 17 June 1886, 2. (From NewspaperSG)
+[^48]: “[Local and General](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18860617-1.2.10),” _Straits Times Weekly Issue_, 17 June 1886, 2. (From NewspaperSG)
 
-49 “[The Free Press](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18490201-1.2.11),” _Singapore Free Press and Mercantile Advertiser_, 1 February 1849, 3. (From NewspaperSG)
+[^49]: “[The Free Press](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18490201-1.2.11),” _Singapore Free Press and Mercantile Advertiser_, 1 February 1849, 3. (From NewspaperSG)
 
-50 “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18530719-1.2.15),” _Straits Times_, 19 July 1853, 5; “[Municipal Commissioners](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18551017-1.2.7.2),” _Straits Times_, 17 October 1855, 5; “[The Police Court](https://eresources.nlb.gov.sg/newspapers/digitised/article/singdailytimes18770607-1.2.11.4),” _Singapore Daily Times_, 7 June 1877, 3; “[Municipal Ordinance Amendment](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18890820-1.2.26),” _Straits Times_, 20 August 1889, 3. (From NewspaperSG)
+[^50]: “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18530719-1.2.15),” _Straits Times_, 19 July 1853, 5; “[Municipal Commissioners](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18551017-1.2.7.2),” _Straits Times_, 17 October 1855, 5; “[The Police Court](https://eresources.nlb.gov.sg/newspapers/digitised/article/singdailytimes18770607-1.2.11.4),” _Singapore Daily Times_, 7 June 1877, 3; “[Municipal Ordinance Amendment](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18890820-1.2.26),” _Straits Times_, 20 August 1889, 3. (From NewspaperSG)
 
-51 Brenda S. A. Yeoh, [_Contesting Space in Colonial Singapore: Power Relations and the Urban Built Environment_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11827061) (Singapore: NUS Press, 2003), 183. (Call no. RSING 307.76095957 YEO)
+[^51]: Brenda S. A. Yeoh, [_Contesting Space in Colonial Singapore: Power Relations and the Urban Built Environment_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11827061) (Singapore: NUS Press, 2003), 183. (Call no. RSING 307.76095957 YEO)
 
-52 “[Local](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18521126-1.2.3),” _Singapore Free Press and Mercantile Advertiser_, 26 November 1852, 2; “[Local](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18521224-1.2.4),” _Singapore Free Press and Mercantile Advertiser_, 24 December 1852, 3. (From NewspaperSG)
+[^52]: “[Local](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18521126-1.2.3),” _Singapore Free Press and Mercantile Advertiser_, 26 November 1852, 2; “[Local](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18521224-1.2.4),” _Singapore Free Press and Mercantile Advertiser_, 24 December 1852, 3. (From NewspaperSG)
 
-53 “[Bathing in the Reservoir](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18960701-1.2.24),” _Straits Times_, 1 July 1896, 2. (From NewspaperSG)
+[^53]: “[Bathing in the Reservoir](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18960701-1.2.24),” _Straits Times_, 1 July 1896, 2. (From NewspaperSG)
 
-54 “[Municipal Commissioners](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18580401-1.2.5),” _Singapore Free Press and Mercantile Advertiser_, 1 April 1858, 3; “[Municipal Commissioners](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18580520-1.2.6),” _Singapore Free Press and Mercantile Advertiser_, 20 May 1858, 3. (From NewspaperSG)
+[^54]: “[Municipal Commissioners](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18580401-1.2.5),” _Singapore Free Press and Mercantile Advertiser_, 1 April 1858, 3; “[Municipal Commissioners](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18580520-1.2.6),” _Singapore Free Press and Mercantile Advertiser_, 20 May 1858, 3. (From NewspaperSG)
 
-55 “[Municipal Engineer’s Office](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751008-1.2.9),” _Straits Observer_, 8 October 1875, 3. (From NewspaperSG)
+[^55]: “[Municipal Engineer’s Office](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751008-1.2.9),” _Straits Observer_, 8 October 1875, 3. (From NewspaperSG)
 
-56 “[Municipal Commissioners](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18740221-1.2.13),” _Straits Times_, 21 February 1874, 2; “[Municipal Commissioners](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18740321-1.2.10),” _Straits Times_, 21 March 1874, 2. (From NewspaperSG)
+[^56]: “[Municipal Commissioners](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18740221-1.2.13),” _Straits Times_, 21 February 1874, 2; “[Municipal Commissioners](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18740321-1.2.10),” _Straits Times_, 21 March 1874, 2. (From NewspaperSG)
 
-57 “[The Municipality](https://eresources.nlb.gov.sg/newspapers/digitised/article/singdailytimes18800219-1.2.15.3),” _Singapore Daily Times_, 19 February 1880, 2. (From NewspaperSG)
+[^57]: “[The Municipality](https://eresources.nlb.gov.sg/newspapers/digitised/article/singdailytimes18800219-1.2.15.3),” _Singapore Daily Times_, 19 February 1880, 2. (From NewspaperSG)
 
-58 “[Municipal Engineer’s Office](https://eresources.nlb.gov.sg/newspapers/digitised/article/singdailytimes18800914-1.2.10.4),” _Singapore Daily Times_, 14 September 1880, 2. (From NewspaperSG)
+[^58]: “[Municipal Engineer’s Office](https://eresources.nlb.gov.sg/newspapers/digitised/article/singdailytimes18800914-1.2.10.4),” _Singapore Daily Times_, 14 September 1880, 2. (From NewspaperSG)
 
-59 “[Wednesday 2nd February](https://eresources.nlb.gov.sg/newspapers/digitised/article/stoverland18810209-1.2.25),” _Straits Times Overland Journal_, 9 February 1881, 7. (From NewspaperSG)
+[^59]: “[Wednesday 2nd February](https://eresources.nlb.gov.sg/newspapers/digitised/article/stoverland18810209-1.2.25),” _Straits Times Overland Journal_, 9 February 1881, 7. (From NewspaperSG)
 
-60 Tan Choon Kiat, “A History of Tanjong Pagar: 1823–1911” (BA (Hons) thesis, National University of Singapore, 1989), 2.
+[^60]: Tan Choon Kiat, “A History of Tanjong Pagar: 1823–1911” (BA (Hons) thesis, National University of Singapore, 1989), 2.
 
-61 “[The Municipality](https://eresources.nlb.gov.sg/newspapers/digitised/article/stoverland18811231-1.2.11),” _Straits Times Overland Journal_, 31 December 1881, 3; “[The Municipality](https://eresources.nlb.gov.sg/newspapers/digitised/article/stoverland18810915-1.2.9),” _Straits Times Overland Journal_, 15 September 1881, 2. (From NewspaperSG)
+[^61]: “[The Municipality](https://eresources.nlb.gov.sg/newspapers/digitised/article/stoverland18811231-1.2.11),” _Straits Times Overland Journal_, 31 December 1881, 3; “[The Municipality](https://eresources.nlb.gov.sg/newspapers/digitised/article/stoverland18810915-1.2.9),” _Straits Times Overland Journal_, 15 September 1881, 2. (From NewspaperSG)
 
-62 “[Municipal Commissioners](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18890509-1.2.26),” _Straits Times_, 9 May 1889, 3; “[Municipal President’s Progress Report for May 1889](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18890620-1.2.51),” _Straits Times Weekly Issue_, 20 June 1889, 5. (From NewspaperSG)
+[^62]: “[Municipal Commissioners](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18890509-1.2.26),” _Straits Times_, 9 May 1889, 3; “[Municipal President’s Progress Report for May 1889](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18890620-1.2.51),” _Straits Times Weekly Issue_, 20 June 1889, 5. (From NewspaperSG)
 
-63 Yeoh, [_Contesting Space in Colonial Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11827061), 178; “[Municipal Commission](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18970506-1.2.3),” _Singapore Free Press and Mercantile Advertiser,_ 6 May 1897, 2; “[Tuesday, August 17, 1897](https://eresources.nlb.gov.sg/newspapers/digitised/article/middayherald18970817-1.2.4),” _Mid-Day Herald and Daily_, 17 August 1897, 2. (From NewspaperSG)
+[^63]: Yeoh, [_Contesting Space in Colonial Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11827061), 178; “[Municipal Commission](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18970506-1.2.3),” _Singapore Free Press and Mercantile Advertiser,_ 6 May 1897, 2; “[Tuesday, August 17, 1897](https://eresources.nlb.gov.sg/newspapers/digitised/article/middayherald18970817-1.2.4),” _Mid-Day Herald and Daily_, 17 August 1897, 2. (From NewspaperSG)
 
-64 Buckley, [_Anecdotal History_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082239), 453; “[Tuesday 18th April](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18650422-1.2.11.2),” _Straits Times_, 22 April 1865, 2; “[The Free Press](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18530624-1.2.6),” _Singapore Free Press and Mercantile Advertiser_, 24 June 1853, 3; “[Saturday, 21st February](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18630221-1.2.15),” _Straits Times_, 21 February 1863, 3 (From NewspaperSG); “[Indecent Bathing](https://eresources.nlb.gov.sg/newspapers/digitised/article/singdailytimes18770712-1.2.11.3.1).”
+[^64]: Buckley, [_Anecdotal History_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082239), 453; “[Tuesday 18th April](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18650422-1.2.11.2),” _Straits Times_, 22 April 1865, 2; “[The Free Press](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18530624-1.2.6),” _Singapore Free Press and Mercantile Advertiser_, 24 June 1853, 3; “[Saturday, 21st February](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18630221-1.2.15),” _Straits Times_, 21 February 1863, 3 (From NewspaperSG); “[Indecent Bathing](https://eresources.nlb.gov.sg/newspapers/digitised/article/singdailytimes18770712-1.2.11.3.1).”
 
-65 “[The Free Press](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18530624-1.2.6).”
+[^65]: “[The Free Press](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18530624-1.2.6).”
 
-66 “[Thursday, 15th December](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18921220-1.2.22),” _Straits Times Weekly Issue_, 20 December 1892, 4; “[The Great Flood: A Day of Venetian Scenes in Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19250109-1.2.71),” _Straits Times_, 9 January 1925, 9. (From NewspaperSG)
+[^66]: “[Thursday, 15th December](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18921220-1.2.22),” _Straits Times Weekly Issue_, 20 December 1892, 4; “[The Great Flood: A Day of Venetian Scenes in Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19250109-1.2.71),” _Straits Times_, 9 January 1925, 9. (From NewspaperSG)
 
-67 “[The Swimming Club: A Flourishing Institution, Its Past and Present](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk19021030-1.2.102),” _Singapore Free Press and Mercantile Advertiser_, 30 October 1902, 14; Cheong K. L. and Chia K. Y., “Early Years,” in [_The Chinese Swimming Club Souvenir 1951_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14313506) (Singapore: Chinese Swimming Club, 1951), 15. (Call no. RUR 797.2106095957)
+[^67]: “[The Swimming Club: A Flourishing Institution, Its Past and Present](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk19021030-1.2.102),” _Singapore Free Press and Mercantile Advertiser_, 30 October 1902, 14; Cheong K. L. and Chia K. Y., “Early Years,” in [_The Chinese Swimming Club Souvenir 1951_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14313506) (Singapore: Chinese Swimming Club, 1951), 15. (Call no. RUR 797.2106095957)
 
-68 Yap, [_Singapore Chinese Swimming Club_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84567655).
+[^68]: Yap, [_Singapore Chinese Swimming Club_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84567655).
 
-69 “[On the Verandah](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18980507-1.2.23),” _Straits Times_, 7 May 1898, 2; “[Bathing and Swimming](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18980511-1.2.41),” _Straits Times_, 11 May 1898, 2. (From NewspaperSG)
+[^69]: “[On the Verandah](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18980507-1.2.23),” _Straits Times_, 7 May 1898, 2; “[Bathing and Swimming](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18980511-1.2.41),” _Straits Times_, 11 May 1898, 2. (From NewspaperSG)
 
-70 “[The Free Press](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18530624-1.2.6)”; “[Wednesday 26th April](https://eresources.nlb.gov.sg/newspapers/digitised/article/stoverland18760429-1.2.17)”; “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18530719-1.2.15).”
+[^70]: “[The Free Press](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18530624-1.2.6)”; “[Wednesday 26th April](https://eresources.nlb.gov.sg/newspapers/digitised/article/stoverland18760429-1.2.17)”; “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18530719-1.2.15).”
 
-71 “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19030423-1.2.34),” _Straits Times_, 23 April 1903, 4 (From NewspaperSG); Singapore Swimming Club, [_Official Opening of New Club House_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4981547) (Singapore: Straits Times Press, 1936), 2, 23. (Call no. RRARE 797.200605957 SIN; Microfilm NL9938)
+[^71]: “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19030423-1.2.34),” _Straits Times_, 23 April 1903, 4 (From NewspaperSG); Singapore Swimming Club, [_Official Opening of New Club House_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4981547) (Singapore: Straits Times Press, 1936), 2, 23. (Call no. RRARE 797.200605957 SIN; Microfilm NL9938)
 
-72 Cheong and Chia, “[Early Years](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14313506),” 15; “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19180731-1.2.21),” _Straits Times_, 31 July 1918, 8; [Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19181003-1.2.26), _Singapore Free Press and Mercantile Advertiser_, 3 October 1918, 4. (From NewspaperSG)
+[^72]: Cheong and Chia, “[Early Years](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14313506),” 15; “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19180731-1.2.21),” _Straits Times_, 31 July 1918, 8; [Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19181003-1.2.26), _Singapore Free Press and Mercantile Advertiser_, 3 October 1918, 4. (From NewspaperSG)
 
-73 “[Swimming Club](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk19021030-1.2.102).”
+[^73]: “[Swimming Club](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk19021030-1.2.102).”
 
-74 C. Jackson, [_Our Singapore: Sketches of Local Life_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205742123) (Singapore: n.p., 1914), 23. (Call no. RRARE 959.57 JAC)
+[^74]: C. Jackson, [_Our Singapore: Sketches of Local Life_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205742123) (Singapore: n.p., 1914), 23. (Call no. RRARE 959.57 JAC)
 
-75 “[On the Verandah](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18980507-1.2.23).”
+[^75]: “[On the Verandah](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18980507-1.2.23).”
 
-76 “[The Swimming Club: The President’s Prize](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk19021008-1.2.82),” _Singapore Free Press and Mercantile Advertiser_, 8 October 1902, 234; “[Drowned at Water Polo](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19030302-1.2.32),” _Straits Times_, 2 March 1903, 4; “[Swimming: Raffles Institution Contests](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19231012-1.2.46),” _Malaya Tribune_, 12 October 1923, 8. (From NewspaperSG)
+[^76]: “[The Swimming Club: The President’s Prize](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk19021008-1.2.82),” _Singapore Free Press and Mercantile Advertiser_, 8 October 1902, 234; “[Drowned at Water Polo](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19030302-1.2.32),” _Straits Times_, 2 March 1903, 4; “[Swimming: Raffles Institution Contests](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19231012-1.2.46),” _Malaya Tribune_, 12 October 1923, 8. (From NewspaperSG)
 
-77 “[YMCA Pool](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19200707-1.2.50),” _Singapore Free Press and Mercantile Advertiser_, 7 July 1920, 12; “[Singapore’s Water Supply: Fort Canning Negotiations](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19221130-1.2.9),” _Singapore Free Press and Mercantile Advertiser_, 30 November 1922, 3. (From NewspaperSG)
+[^77]:  “[YMCA Pool](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19200707-1.2.50),” _Singapore Free Press and Mercantile Advertiser_, 7 July 1920, 12; “[Singapore’s Water Supply: Fort Canning Negotiations](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19221130-1.2.9),” _Singapore Free Press and Mercantile Advertiser_, 30 November 1922, 3. (From NewspaperSG)
 
-78 Edward K. W. Ong, ed., [_The YMCA of Singapore: 90 Years of Service to the Community_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6377686) (Singapore: YMCA, 1992), 4 (Call no. RSING 267.395957 YMC); “[Lecture at the YMCA: Physical Culture in Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19180110-1.2.17),” _Singapore Free Press and Mercantile Advertiser_, 10 January 1918, 20. (From NewspaperSG)
+[^78]: Edward K. W. Ong, ed., [_The YMCA of Singapore: 90 Years of Service to the Community_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6377686) (Singapore: YMCA, 1992), 4 (Call no. RSING 267.395957 YMC); “[Lecture at the YMCA: Physical Culture in Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19180110-1.2.17),” _Singapore Free Press and Mercantile Advertiser_, 10 January 1918, 20. (From NewspaperSG)
 
-79 “[Education in 1921: Annual Report for the Straits Settlements](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19220824-1.2.59),” _Malaya Tribune_, 24 August 1922, 9. (From NewspaperSG)
+[^79]: “[Education in 1921: Annual Report for the Straits Settlements](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19220824-1.2.59),” _Malaya Tribune_, 24 August 1922, 9. (From NewspaperSG)
 
-80 Cheong and Chia, “[Early Years](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14313506),” 17; “[Far East Olympiad](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19250522-1.2.93),” _Straits Times_, 22 May 1925, 15; “[Swimming: The YMCA Carnival](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19251102-1.2.101),” _Singapore Free Press and Mercantile Advertiser_, 2 November 1925, 16. (From NewspaperSG)
+[^80]: Cheong and Chia, “[Early Years](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14313506),” 17; “[Far East Olympiad](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19250522-1.2.93),” _Straits Times_, 22 May 1925, 15; “[Swimming: The YMCA Carnival](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19251102-1.2.101),” _Singapore Free Press and Mercantile Advertiser_, 2 November 1925, 16. (From NewspaperSG)
 
-81 “[YMCA Swimming Carnival](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19201009-1.2.81.2),” _Straits Times_, 9 October 1920, 10. (From NewspaperSG)
+[^81]: “[YMCA Swimming Carnival](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19201009-1.2.81.2),” _Straits Times_, 9 October 1920, 10. (From NewspaperSG)
 
-82 “[YMCA Swimming Pool](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19201221-1.2.65),” _Singapore Free Press and Mercantile Advertiser_, 21 December 1920, 12; “[Swimming Pool](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19210813-1.2.46.7),” _Singapore Free Press and Mercantile Advertiser_, 13 August 1921, 12. (From NewspaperSG)
+[^82]: “[YMCA Swimming Pool](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19201221-1.2.65),” _Singapore Free Press and Mercantile Advertiser_, 21 December 1920, 12; “[Swimming Pool](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19210813-1.2.46.7),” _Singapore Free Press and Mercantile Advertiser_, 13 August 1921, 12. (From NewspaperSG)
 
-83 “[YMCA Pool](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19200707-1.2.50)”; “[Singapore Girl Guides](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19210217-1.2.78),” _Straits Times_, 17 February1921, 8; “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19240310-1.2.30),” _Straits Times_, 10 March 1924, 8; “[Chinese Topics](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19300926-1.2.86),” _Malaya Tribune_, 26 September 1930, 12. (From NewspaperSG)
+[^83]: “[YMCA Pool](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19200707-1.2.50)”; “[Singapore Girl Guides](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19210217-1.2.78),” _Straits Times_, 17 February1921, 8; “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19240310-1.2.30),” _Straits Times_, 10 March 1924, 8; “[Chinese Topics](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19300926-1.2.86),” _Malaya Tribune_, 26 September 1930, 12. (From NewspaperSG)
 
-84 Bruce Peter, _Form Follows Fun: Modernism and Modernity in British Pleasure Architecture 1925–1940_ (London and New York: Routledge, 2007), 45–46.
+[^84]: Bruce Peter, _Form Follows Fun: Modernism and Modernity in British Pleasure Architecture 1925–1940_ (London and New York: Routledge, 2007), 45–46.
 
-85 “[New Public Park](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19290917-1.2.65),” _Singapore Free Press and Mercantile Advertiser_, 17 September 1929, 9; “[Swimming in Clean Water!](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19300502-1.2.50)” _Singapore Free Press and Mercantile Advertiser_, 2 May 1930, 10. (From NewspaperSG)
+[^85]: “[New Public Park](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19290917-1.2.65),” _Singapore Free Press and Mercantile Advertiser_, 17 September 1929, 9; “[Swimming in Clean Water!](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19300502-1.2.50)” _Singapore Free Press and Mercantile Advertiser_, 2 May 1930, 10. (From NewspaperSG)
 
-86 “[Bathing Fatality: Evidence at Coroner’s Inquest](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk19250722-1.2.22),” _Singapore Free Press and Mercantile Advertiser_, 22 July 1925, 52. (From NewspaperSG)
+[^86]: “[Bathing Fatality: Evidence at Coroner’s Inquest](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk19250722-1.2.22),” _Singapore Free Press and Mercantile Advertiser_, 22 July 1925, 52. (From NewspaperSG)
 
-87 “[Singapore Swimming Club](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19250810-1.2.79),” _Straits Times_, 10 August 1925, 10. (From NewspaperSG)
+[^87]: “[Singapore Swimming Club](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19250810-1.2.79),” _Straits Times_, 10 August 1925, 10. (From NewspaperSG)
 
-88 Lee C. Q. “25 Years of Progress and Expansion,” in [_The Chinese Swimming Club Souvenir 1951_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14313506) (Singapore: Chinese Swimming Club, 1951), 29 (Call no. RUR 797.2106095957); “[Advertisements](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19280716-1.2.90.2),” _Straits Times_, 16 July 1928, 11. (From NewspaperSG)
+[^88]: Lee C. Q. “25 Years of Progress and Expansion,” in [_The Chinese Swimming Club Souvenir 1951_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14313506) (Singapore: Chinese Swimming Club, 1951), 29 (Call no. RUR 797.2106095957); “[Advertisements](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19280716-1.2.90.2),” _Straits Times_, 16 July 1928, 11. (From NewspaperSG)
 
-89 “[New Swiss Club](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19271219-1.2.89),” _Straits Times,_ 19 December 1927, 11; “[Tanglin Club Swimming Pool](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19300501-1.2.41),” _Singapore Free Press and Mercantile Advertiser_, 1 May 1930, 10. (From NewspaperSG)
+[^89]: “[New Swiss Club](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19271219-1.2.89),” _Straits Times,_ 19 December 1927, 11; “[Tanglin Club Swimming Pool](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19300501-1.2.41),” _Singapore Free Press and Mercantile Advertiser_, 1 May 1930, 10. (From NewspaperSG)
 
-90 “[New Golf Course](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19290923-1.2.72),” _Straits Times_, 23 September 1929, 13. (From NewspaperSG)
+[^90]: “[New Golf Course](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19290923-1.2.72),” _Straits Times_, 23 September 1929, 13. (From NewspaperSG)
 
-91 “[A Chinese Recreation Ground](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19290925-1.2.33),” _Malaya Tribune_, 25 September 1929, 8; “[New Public Park at Pasir Panjang](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19300103-1.2.49),” _Straits Times_, 3 January 1930, 13. (From NewspaperSG)
+[^91]: “[A Chinese Recreation Ground](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19290925-1.2.33),” _Malaya Tribune_, 25 September 1929, 8; “[New Public Park at Pasir Panjang](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19300103-1.2.49),” _Straits Times_, 3 January 1930, 13. (From NewspaperSG)
 
-92 “[Legislative Council](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18741226-1.2.15),” _Straits Times_, 26 December 1874, 4 (From NewspaperSG); A. Ferguson, “Extracts from the Sanitary Report of the 2nd and 4th Batteries 17th Brigade Royal Artillery, Stationed at Singapore, from the 15th September to the End of the Year 1863,” _Army Medical Department. Statistical, Sanitary and Medical Reports for the Year 1863_, vol. 5 (London: n.p., 1863), 385.  
+[^92]: “[Legislative Council](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18741226-1.2.15),” _Straits Times_, 26 December 1874, 4 (From NewspaperSG); A. Ferguson, “Extracts from the Sanitary Report of the 2nd and 4th Batteries 17th Brigade Royal Artillery, Stationed at Singapore, from the 15th September to the End of the Year 1863,” _Army Medical Department. Statistical, Sanitary and Medical Reports for the Year 1863_, vol. 5 (London: n.p., 1863), 385.  
   
-93 “[Swimming Club Meeting](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19280402-1.2.39),” _Singapore Free Press and Mercantile Advertiser_, 2 April 1928, 8. (From NewspaperSG)
+[^93]: “[Swimming Club Meeting](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19280402-1.2.39),” _Singapore Free Press and Mercantile Advertiser_, 2 April 1928, 8. (From NewspaperSG)
 
-94 “[Swimming Club: The Alternative Site Problem](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19290408-1.2.91),” _Singapore Free Press and Mercantile Advertiser_, 8 April 1929, 16; “[Singapore Swimming Club’s Future](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19300404-1.2.102.1),” _Straits Times_, 4 April 1930, 15. (From NewspaperSG)
+[^94]: “[Swimming Club: The Alternative Site Problem](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19290408-1.2.91),” _Singapore Free Press and Mercantile Advertiser_, 8 April 1929, 16; “[Singapore Swimming Club’s Future](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19300404-1.2.102.1),” _Straits Times_, 4 April 1930, 15. (From NewspaperSG)
 
-95 “[Swimming Club Not to Move](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19300915-1.2.72),” _Singapore Free Press and Mercantile Advertiser_, 15 September 1930, 12. (From NewspaperSG)
+[^95]: “[Swimming Club Not to Move](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19300915-1.2.72),” _Singapore Free Press and Mercantile Advertiser_, 15 September 1930, 12. (From NewspaperSG)
 
-96 Singapore Swimming Club, [_Official Opening of New Club House_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4981547)_._
+[^96]: Singapore Swimming Club, [_Official Opening of New Club House_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4981547)_._
 
-97 R. H. Bruce Lockhart, [_Return to Malaya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1881681) (London: Putnam, 1936), 113. (Call no. RCLOS 959.5 LOC-\[ET\])
+[^97]: R. H. Bruce Lockhart, [_Return to Malaya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1881681) (London: Putnam, 1936), 113. (Call no. RCLOS 959.5 LOC-\[ET\])
 
-98 Lee, “[25 Years of Progress and Expansion](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14313506),” 29.
+[^98]: Lee, “[25 Years of Progress and Expansion](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14313506),” 29.
 
-99 “[Another Lung](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19290619-1.2.59),” _Malaya Tribune_, 19 June 1929, 10; “[Municipality and Sport](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19301028-1.2.106),” _Straits Times_, 28 October 1930, 15; “[Recreation Facilities](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19301222-1.2.76),” _Singapore Free Press and Mercantile Advertiser_, 22 December 1930, 13. (From NewspaperSG)
+[^99]: “[Another Lung](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19290619-1.2.59),” _Malaya Tribune_, 19 June 1929, 10; “[Municipality and Sport](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19301028-1.2.106),” _Straits Times_, 28 October 1930, 15; “[Recreation Facilities](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19301222-1.2.76),” _Singapore Free Press and Mercantile Advertiser_, 22 December 1930, 13. (From NewspaperSG)
 
-100 “[New Public Park](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19290917-1.2.65)”; “[More Amenities for Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19300423-1.2.67),” _Straits Times_, 23 April 1930, 12. (From NewspaperSG)
+[^100]: “[New Public Park](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19290917-1.2.65)”; “[More Amenities for Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19300423-1.2.67),” _Straits Times_, 23 April 1930, 12. (From NewspaperSG)
 
-101 In 1927, Mong Guan and Poh Cheng competed in Shanghai (representing China), with Mong Guan placing third overall. “[Swimming](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19270915-1.2.63.5),” _Straits Budget_, 15 September 1927, 27; “[Eastern Olympiad](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19270924-1.2.89),” _Straits Times_, 24 September 1927, 10. Overseas competitions also included exhibition competitions such as the Hong Kong Chinese Athletic Meeting in 1929, which was attended by Singaporean teams. “[Chinese Exhibition](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19290820-1.2.90),” _Malaya Tribune_, 20 August 1929, 10. (From NewspaperSG)
+[^101]: In 1927, Mong Guan and Poh Cheng competed in Shanghai (representing China), with Mong Guan placing third overall. “[Swimming](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19270915-1.2.63.5),” _Straits Budget_, 15 September 1927, 27; “[Eastern Olympiad](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19270924-1.2.89),” _Straits Times_, 24 September 1927, 10. Overseas competitions also included exhibition competitions such as the Hong Kong Chinese Athletic Meeting in 1929, which was attended by Singaporean teams. “[Chinese Exhibition](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19290820-1.2.90),” _Malaya Tribune_, 20 August 1929, 10. (From NewspaperSG)
 
-102 The initial meeting was between the YMCA, Chinese Swimming Club and Singapore Swimming Club. After its formation, the Singapore Amateur Swimming Association was joined by Tiger Swimming Club, Cantonese Swimming Union, Oversea Chinese Swimming Club and the British Armed Forces as affiliates. Singapore Amateur Swimming Association, [_Singapore Amateur Swimming Association, 1939–1989_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5490562) (Singapore: SASA, 1989), 10–12. (Call no. RSING 797.200605957 SIN)
+[^102]: The initial meeting was between the YMCA, Chinese Swimming Club and Singapore Swimming Club. After its formation, the Singapore Amateur Swimming Association was joined by Tiger Swimming Club, Cantonese Swimming Union, Oversea Chinese Swimming Club and the British Armed Forces as affiliates. Singapore Amateur Swimming Association, [_Singapore Amateur Swimming Association, 1939–1989_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5490562) (Singapore: SASA, 1989), 10–12. (Call no. RSING 797.200605957 SIN)
 
-103 Nick Aplin, “Sport in Singapore (1945–1948): From Rehabilitation to Olympic Status,” _International Journal of the History of Sport_ 33, no. 12 (2016): 1361–79.
+[^103]: Nick Aplin, “Sport in Singapore (1945–1948): From Rehabilitation to Olympic Status,” _International Journal of the History of Sport_ 33, no. 12 (2016): 1361–79.
 
-104 Lee, “[25 Years of Progress and Expansion](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14313506),” 31.
+[^104]: Lee, “[25 Years of Progress and Expansion](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14313506),” 31.

@@ -5,7 +5,7 @@ variant: markdown
 description: Barbara Kerr Sharpshooter, School Principal, Girl Guide Extraordinaire
 image: /images/Vol 21 Issue 1/Barbara Kerr/image3.jpg
 ---
-#### The multifaceted Barbara Kerr made contributions to the Girl Guides, sport, education, children and animals. She was also a talented soprano singer.
+#### Barbara Kerr made contributions to the Girl Guides, sports and animal welfare. She was also a talented soprano.
 By Nick Aplin
 
 ![](/images/Vol%2021%20Issue%201/Barbara%20Kerr/image3.jpg)
