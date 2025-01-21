@@ -4,7 +4,7 @@ permalink: /holding-area/chapters-on-asia-2022/public-bathing-in-singapore/
 variant: markdown
 description: ""
 ---
-The east is essentially a land of bathing. The white man tubs<br>    himself, the yellow man, the brown man and some of the black<br>    men rub themselves – with water. The remainder prefer oil.<br>   The first question a white man asks on arrival is “Have you a<br>    swimming bath?”[^1]
+The east is essentially a land of bathing. The white man tubs<br>himself, the yellow man, the brown man and some of the black<br>men rub themselves – with water. The remainder prefer oil.<br>The first question a white man asks on arrival is “Have you a<br>swimming bath?”[^1]
 
 #### **Introduction**
 
@@ -586,7 +586,13 @@ Possibilities for recreational bathing were growing rapidly; in certain
 respects it seemed like the old centres of bathing and the east coast
 swimming clubs were falling behind through their attachment to the
 sea. It was this pressure to keep up with other clubs and retain their
-premier position that led them to invest in their own pools. The Singapore Swimming Club considered building a pool from 1928,[^93] but also debated
+premier position that led them to invest in their own pools. The Singapore 
+
+<img src="/images/COA%202022/Public%20Bathing%20in%20Singapore/Frank_Dowdeswell_s_1930s_design.jpg" style="width:100%;">
+<div style="background-color: white;">Frank Dowdeswell’s 1930s design for the Singapore Swimming Club’s new clubhouse,
+Katong, c. 1950s. <i>Nelson Collection, courtesy of National Archives of Singapore (accession no. 20140000166-0055).</i></div>
+
+Swimming Club considered building a pool from 1928,[^93] but also debated
 moving to a new site at Tanjong Berlayer on the west coast.[^94]  Eventually
 they decided to retain their Katong site and build an inland pool, which
 opened in 1931.[^95] Four years later, they added a modern clubhouse designed
@@ -701,7 +707,12 @@ for recreation, such as military swimming tanks or the earliest swimming
 clubs, as well as those sites designated for personal washing, like municipal
 bathhouses. By the early 20th century, a more defined culture of bathing
 was developing, and as provision of the municipal water supply expanded,
-public bathing focused in creasingly on recreational and sporting sites, since personal washing was becoming a domestic activity. As interest in bathing
+public bathing focused in creasingly on recreational and sporting sites, since 
+
+<img src="/images/COA%202022/Public%20Bathing%20in%20Singapore/Locations_of_bathing_places.jpg" style="width:60%;">
+<div style="background-color: white;">Locations of bathing places within the town of Singapore, 1819–1942.<i> Author, 2022.</i></div>
+
+personal washing was becoming a domestic activity. As interest in bathing
 solidified, a more refined architecture of seaside *pagar* and inland pools
 developed, establishing recreational and sporting cultures of swimming
 that, after the Second World War, became models for Singapore’s modern
