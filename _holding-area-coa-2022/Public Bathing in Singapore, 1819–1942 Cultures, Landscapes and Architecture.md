@@ -1206,6 +1206,3 @@ _Straits Times Weekly Issue_. “[Another Growl](https://eresources.nlb.gov.sg/n
 [^103]: Nick Aplin, “Sport in Singapore (1945–1948): From Rehabilitation to Olympic Status,” _International Journal of the History of Sport_ 33, no. 12 (2016): 1361–79.
 
 [^104]: Lee, “[25 Years of Progress and Expansion](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14313506),” 31.
-
-
-
