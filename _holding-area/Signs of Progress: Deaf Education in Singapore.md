@@ -121,28 +121,28 @@ In Singapore, the journey of deaf education and&nbsp; accessibility (both physic
 #### **NOTES**
      
 
-[^1]:  Carl A. Argila, “Peng Tsu Ying – Singapore’s ‘Man for All Seasons’,” _The Deaf American_ 28, no. 4 (December, 1975), 10, Internet Archive, https://archive.org/details/TheDeafAmerican2804December1975/page/n9/mode/2up.
+[^1]:  Carl A. Argila, “Peng Tsu Ying – Singapore’s ‘Man for All Seasons’,” _The Deaf American_ 28, no. 4 (December, 1975), 10, Internet Archive, [https://archive.org/details/TheDeafAmerican2804December1975/page/n9/mode/2up](https://archive.org/details/TheDeafAmerican2804December1975/page/n9/mode/2up).
 
 
-[^2]: “Deaf and Dumb Society Formed,” _Singapore Standard_, 27 August 1955, 8. (From NewspaperSG); “History,” The Singapore Association for the Deaf, accessed 28 November 2024, https://sadeaf.org.sg/about-us/history/.
+[^2]: “[Deaf and Dumb Society Formed](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19550827-1.2.130),” _Singapore Standard_, 27 August 1955, 8. (From NewspaperSG); “History,” The Singapore Association for the Deaf, accessed 28 November 2024, [https://sadeaf.org.sg/about-us/history/](https://sadeaf.org.sg/about-us/history/).
 
 
-[^3]: “‘2 Deaf-mutes Is My Limit’,” _Singapore Free Press_, 25 April 1949, 5. (From NewspaperSG)&nbsp;
+[^3]: “[‘2 Deaf-mutes Is My Limit’](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19490426-1.2.82),” _Singapore Free Press_, 25 April 1949, 5. (From NewspaperSG)&nbsp;
      
 
-[^4]: Argila, “Peng Tsu Ying – Singapore’s ‘Man for All Seasons’,” 9; Lee Khoon Choy, “Chinese to Set Up School for the Deaf,” _Sunday Standard_, 8 July 1951, 3. (From NewspaperSG)
+[^4]: Argila, “Peng Tsu Ying – Singapore’s ‘Man for All Seasons’,” 9; Lee Khoon Choy, “[Chinese to Set Up School for the Deaf](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaystandard19510708-1.2.37),” _Sunday Standard_, 8 July 1951, 3. (From NewspaperSG)
      
 
-[^5]: “‘2 Deaf-mutes Is My Limit’”; Argila, “Peng Tsu Ying – Singapore’s ‘Man for All Seasons’,” 9; “Two Nodded and They Became Man and Wife,” _Straits Times_, 31July 1952, 1. (From NewspaperSG)&nbsp;
+[^5]: “[‘2 Deaf-mutes Is My Limit’](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19490426-1.2.82)”; Argila, “Peng Tsu Ying – Singapore’s ‘Man for All Seasons’,” 9; “[Two Nodded and They Became Man and Wife](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19520731-1.2.18),” _Straits Times_, 31July 1952, 1. (From NewspaperSG)&nbsp;
      
 
-[^6]: “Two Nodded and They Became Man and Wife.”
+[^6]: “[Two Nodded and They Became Man and Wife](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19520731-1.2.18).”
 
 
-[^7]: “Founder Raises $3,000 for Start,” _Singapore Standard_, 15 October 1951, 2. (From NewspaperSG)
+[^7]: “[Founder Raises $3,000 for Start](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19511015-1.2.22),” _Singapore Standard_, 15 October 1951, 2. (From NewspaperSG)
      
 
-[^8]: Lee Khoon Choy, “Chinese to Set Up School for the Deaf,” _Sunday Standard_, 8 July 1951, 3. (From NewspaperSG)&nbsp;
+[^8]: Lee Khoon Choy, “[Chinese to Set Up School for the Deaf](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaystandard19510708-1.2.37),” _Sunday Standard_, 8 July 1951, 3. (From NewspaperSG)&nbsp;
      
 
 [^9]: “First Deaf Recipient of the Public Service Medal (Posthumous),” The Singapore Association for the Deaf, accessed 20 November 2024, https://sadeaf.org.sg/news/%EF%BB%BFfirst-deaf-recipient-of-the-public-service-medal-posthumous/; Tan Tam Mei, “Pioneer Deaf Educator Peng Tsu Ying Dies, Aged 92,” _Straits Times_, 25 October 2018, https://www.straitstimes.com/singapore/pioneer-deaf-educator-peng-tsu-ying-dies-aged-92.
