@@ -104,7 +104,7 @@ The Zhenkongjiao persisted in its secular and charitable initiatives, which were
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Rites%20of%20Rehabilitation/19980005070___0069.jpg" style="width: 80%;">Ling Kuang Toh closed after their land lease expired. Their ancestral tablets were moved to Hean Thuan Toh Tong at 89 Tampines Link. <i>Courtesy of National Archives of Singapore.</i></div>
+<img src="/images/Online%20Only%20Articles/Rites%20of%20Rehabilitation/19980005070___0069.jpg" style="width: 80%;">Ling Kuang Toh Tong closed after their land lease expired. Their ancestral tablets were moved to Hean Thuan Toh Tong at 89 Tampines Link. <i>Courtesy of National Archives of Singapore.</i></div>
 
 Additionally, Thian Ling Toh Tong, then located in Mandai, was a crucial centre for the care of the intellectually disabled and abandoned children since the 1970s. In 1990, the oldest resident under the temple’s care was 60 years old, and 20 children called the temple home.[^38]
 
@@ -143,7 +143,7 @@ _This article was partially developed from my MA (History) thesis,_ Sages, Smoke
 
 [^6]: Huang Ziwen 黄子文, comp. _Kongzhongjiao Fazhan Shilue_ [空中教发展史略](https://catalogue.nlb.gov.sg/search/card?id=916f520c-1b93-561d-a66c-aff7646810b8&amp;entityType=FormatGroup) \[Supplementary Histories of the Kongzhongjiao\] (Yibao 怡宝: Pili Kongzhong Jiao Hui 霹雳空中教会, 1965), 38. (From National Library, Singapore, call no. 299.51 HTW)
 
-[^7]:  For an introduction to the lives and religious careers of these individuals, see Shi Cangjin石沧金, _Hai wai Hua ren min jian zong jiao xin yang yan jiu_ [海外华人民间宗教信仰研究](https://catalogue.nlb.gov.sg/search/card?id=ce2cc75d-3cf5-5aa1-8d92-7d6a1888f946&amp;entityType=FormatGroup) \[Overseas Chinese folk religion research\] (Kuala Lumpur: Xuelin Shuju 学林书局, 2014), 44-48. (From National Library, Singapore, call no.: 299.51 SCJ).
+[^7]:  For an introduction to the lives and religious careers of these individuals, see Shi Cangjin 石沧金, _Hai wai Hua ren min jian zong jiao xin yang yan jiu_ [海外华人民间宗教信仰研究](https://catalogue.nlb.gov.sg/search/card?id=ce2cc75d-3cf5-5aa1-8d92-7d6a1888f946&amp;entityType=FormatGroup) \[Overseas Chinese folk religion research\] (Kuala Lumpur: Xuelin Shuju 学林书局, 2014), 44-48. (From National Library, Singapore, call no.: 299.51 SCJ).
 
 [^8]:  _Xinjiapo zhen kong jiao lian he hui ji ben yuan shan dao tang xin sha luo cheng kai mu ji nian ce_ [新加坡真空教联合会暨本元山道堂新厦落成开幕纪念册](https://catalogue.nlb.gov.sg/search/card?id=012ddc88-abc5-52f9-8968-d042db12686a&amp;entityType=FormatGroup) (Xinjiapo 新加坡: Xinjiapo Zhenkongjiao Lian He Hui 新加坡真空教联合会, 1992), 126. (From PublicationSG, call no. 299.51)
 
