@@ -64,6 +64,9 @@ Several milestones were achieved in deaf education in the following decades. In 
 ![](/images/Vol%2021%20Issue%201/Deaf%20Education/deaf_mountbatten.jpg)
 <div>The Singapore School for the Deaf on Mountbatten Road, 1963. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
+![](/images/Vol%2021%20Issue%201/Deaf%20Education/deaf_speech.jpg)
+<div>An official delivering a speech with concurrent translation into sign language during the opening of the Singapore School for the Deaf on Mountbatten Road, 1963. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 In 1971, the SADeaf began planning for a vocational institute for the deaf beside the SSD so that deaf students could learn basic technical skills. In February 1975, the Vocational Institute of the Singapore Association for the Deaf received its first batch of 50 students who learned skills such as metalwork, woodwork and basic electricity based on the same syllabus used in mainstream vocational institutes.[^20]
 
 After more than 50 years of supporting the Deaf community, the SSD closed in 2017 due to dwindling enrolment as medical advances in screening and the development of assistive devices saw a drop in the number of children with untreated serious hearing loss.[^21]
