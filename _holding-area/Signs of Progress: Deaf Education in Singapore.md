@@ -9,6 +9,9 @@ By Rosxalynd Liu and Nathaniel Chew
 
 When pioneering deaf educator Peng Tsu Ying first came to Singapore from Shanghai in the late 1940s, the situation for the Deaf community left much to be desired. Deaf children had no schools and deaf individuals did not have an association to bring them together and represent their interests. In an interview with _The Deaf American_ magazine, Peng recalled that when he first came to Singapore, “I couldn’t find a single deaf person!”[^1]
 
+![](/images/Vol%2021%20Issue%201/Deaf%20Education/deaf_facing.jpg)
+<div>Peng Tsu Ying (second from right) with teachers and students of the Singapore Chinese School for the Deaf, 1956. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 Determined to change things, Peng would go on to found Singapore’s first school for the deaf in 1954. A pioneer activist for the deaf, the efforts of Peng, and others, eventually led to the formation of the Singapore Deaf and Dumb Association in 1955. This association would later open the Singapore School for the Deaf on Mountbatten Road in 1963 and a vocational institute for the deaf to acquire basic technical skills in 1975.[^2]
 
 #### **Peng Tsu Ying’s School for the Deaf**
