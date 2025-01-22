@@ -30,6 +30,9 @@ As Peng continued to receive applications, he saw the need to make a far greater
 
 It took three years before the Singapore Chinese School for the Deaf opened in 1954 on Charlton Road in Upper Serangoon. Peng became the principal, and together with his wife, Ho Mei Soo, who was also deaf, taught Shanghainese Sign Language at the school.[^9] The school was renamed Singapore Sign School for the Deaf in 1957.
 
+![](/images/Vol%2021%20Issue%201/Deaf%20Education/deaf_principal.jpg)
+<div>Principal Peng Tsu Ying at the graduation ceremony of the Singapore Sign School for the Deaf, 1961. He wrote his speech on the blackboard. <i>Source: The Straits Times © SPH Media Limited. Permission required for reproduction.</i></div>
+
 Despite his deafness, in 1958, Peng participated in motor racing, winning a total of 36 trophies before giving up the sport in 1967 due to financial reasons. He told _The Deaf American_ in 1975: “I can tell you that my main reason for taking part in motor sports was to prove to the hearing world that being deaf is no handicap to being skillful.”[^10]
 
 Peng died on 24 October 2018 from heart failure at age 92 and he was honoured with the Public Service Medal (Posthumous) at the National Day Awards the next year for his selfless dedication to deaf education in Singapore.[^11]
