@@ -246,33 +246,33 @@ In Singapore, the journey of deaf education and&nbsp; accessibility (both physic
 [^41]: Chua Tee Tee, “Methods of Teaching Deaf Children in Singapore and Malaysia,” _Teaching and Learning_ 11, no. 2 (1991): 12–20, [https://repository.nie.edu.sg/entities/publication/6c5765cd-44e7-45d9-bc85-01451bde46c2/details](https://repository.nie.edu.sg/entities/publication/6c5765cd-44e7-45d9-bc85-01451bde46c2/details).
      
 
-[^42]: “Sign Language Book to Hit Stands Soon,” _Straits Times_, 1 October 1990, 16. (From NewspaperSG); _Sign for Singapore_ (Singapore: Times Books International, 1990). (From National Library Singapore, call no. RSING 419 SIG)
+[^42]: “[Sign Language Book to Hit Stands Soon](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19901001-1.2.25.5),” _Straits Times_, 1 October 1990, 16. (From NewspaperSG); [_Sign for Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5767221) (Singapore: Times Books International, 1990). (From National Library Singapore, call no. RSING 419 SIG)
 
 
-[^43]: Janet Ho, “Recognise Sign Language, Says Deaf Association,” _Straits Times_, 18 February 1994, 3. (From NewspaperSG)
+[^43]: Janet Ho, “[Recognise Sign Language, Says Deaf Association](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19940218-1.2.68.3.1),” _Straits Times_, 18 February 1994, 3. (From NewspaperSG)
 
      
 
-[^44]: Leow Si Wan, “More Signing Up to Learn Sign Language,” _Straits Times_, 3 October 2009, 48. (From NewspaperSG)
+[^44]: Leow Si Wan, “[More Signing Up to Learn Sign Language](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20091003-1.2.51.11.1),” _Straits Times_, 3 October 2009, 48. (From NewspaperSG)
      
 
-[^45]: Syarafana Shafeeq, “New E-book on Singapore Sign Language Among Latest Efforts to Raise Visibility of Local Signing,” _Straits Times_, 20 October 2024, https://www.straitstimes.com/singapore/new-e-book-on-singapore-sign-language-among-latest-efforts-to-raise-visibility-of-local-signing; “Singapore Sign Language Classes,” Nanyang Technological University, accessed 28 November 2024, https://www.ntu.edu.sg/cml/languages/singapore-sign-language/singapore-sign-language-classes.&nbsp;
+[^45]: Syarafana Shafeeq, “New E-book on Singapore Sign Language Among Latest Efforts to Raise Visibility of Local Signing,” _Straits Times_, 20 October 2024, [https://www.straitstimes.com/singapore/new-e-book-on-singapore-sign-language-among-latest-efforts-to-raise-visibility-of-local-signing](https://www.straitstimes.com/singapore/new-e-book-on-singapore-sign-language-among-latest-efforts-to-raise-visibility-of-local-signing); “Singapore Sign Language Classes,” Nanyang Technological University, accessed 28 November 2024, [https://www.ntu.edu.sg/cml/languages/singapore-sign-language/singapore-sign-language-classes](https://www.ntu.edu.sg/cml/languages/singapore-sign-language/singapore-sign-language-classes).
      
 
-[^46]: “Sign Language Module Offers Students Unique Learning Opportunity and Insight on Deaf Culture,” Yale NUS College, 31 March 2020, https://www.yale-nus.edu.sg/story/31-march-2020-sign-language-module-offers-students-unique-learning-opportunity-and-insight-on-deaf-culture/.&nbsp;
+[^46]: “Sign Language Module Offers Students Unique Learning Opportunity and Insight on Deaf Culture,” Yale NUS College, 31 March 2020, [https://www.yale-nus.edu.sg/story/31-march-2020-sign-language-module-offers-students-unique-learning-opportunity-and-insight-on-deaf-culture/](https://www.yale-nus.edu.sg/story/31-march-2020-sign-language-module-offers-students-unique-learning-opportunity-and-insight-on-deaf-culture/).
 
 
-[^47]: “SgSL Sign Bank Launched!,” The Singapore Association for the Deaf, accessed 28 November 2024, https://sadeaf.org.sg/sgsl-sign-bank-launched/.&nbsp;
+[^47]: “SgSL Sign Bank Launched!,” The Singapore Association for the Deaf, accessed 28 November 2024, [https://sadeaf.org.sg/sgsl-sign-bank-launched/](https://sadeaf.org.sg/sgsl-sign-bank-launched/).
      
 
-[^48]: “FAQs,” SgSL Sign Bank, accessed 28 November 2024, https://blogs.ntu.edu.sg/sgslsignbank/faqs/.&nbsp;
+[^48]: “FAQs,” SgSL Sign Bank, accessed 28 November 2024, [https://blogs.ntu.edu.sg/sgslsignbank/faqs/](https://blogs.ntu.edu.sg/sgslsignbank/faqs/).
      
 
-[^49]: “List of Signs,” SgSL Sign Bank, accessed 28 November 2024, blogs.ntu.edu.sg/sgslsignbank/signs/.
+[^49]: “List of Signs,” SgSL Sign Bank, accessed 28 November 2024, [blogs.ntu.edu.sg/sgslsignbank/signs/](https://blogs.ntu.edu.sg/sgslsignbank/signs/).
      
 
 [^50]: Syarafana Shafeeq, “New E-book on Singapore Sign Language Among Latest Efforts to Raise Visibility of Local Signing.”
 
      
 
-[^51]: Darrelle Ng, “Deaf Community Welcomes Study on an Official Sign Language in Singapore, But Educational Challenges Remain,” CNA, 2 February 2024, http://channelnewsasia.com/singapore/deaf-sign-language-sgsl-national-education-school-challenges-4094101.
+[^51]: Darrelle Ng, “Deaf Community Welcomes Study on an Official Sign Language in Singapore, But Educational Challenges Remain,” CNA, 2 February 2024, [http://channelnewsasia.com/singapore/deaf-sign-language-sgsl-national-education-school-challenges-4094101](http://channelnewsasia.com/singapore/deaf-sign-language-sgsl-national-education-school-challenges-4094101).
