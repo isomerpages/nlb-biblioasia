@@ -176,19 +176,19 @@ In Singapore, the journey of deaf education and&nbsp; accessibility (both physic
 [^18]: “[Modern Facilities for Teaching Deaf Children](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19631124-1.2.105),” _Straits Times_, 24 November 1963, 14. (From NewspaperSG)&nbsp;
      
 
-[^19]: “Silent 3’s Secret: First Deaf Children for Exam,” _Straits Times_, 18 November 1967, 7. (From NewspaperSG)&nbsp;
+[^19]: “[Silent 3’s Secret: First Deaf Children for Exam](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19671118-1.2.56),” _Straits Times_, 18 November 1967, 7. (From NewspaperSG)&nbsp;
      
 
-[^20]: “Courses for 50 Deaf Students,” _New Nation_, 28 February 1975, 4. (From NewspaperSG)&nbsp;
+[^20]: “[Courses for 50 Deaf Students](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19750228-1.2.8.17),” _New Nation_, 28 February 1975, 4. (From NewspaperSG)&nbsp;
 
 
-[^21]: Amelia Teng, “Singapore School for the Deaf to Close Due to Dwindling Enrolment,” _Straits Times_, 17 September 2017, https://www.straitstimes.com/singapore/education/singapore-school-for-the-deaf-to-close-due-to-dwindling-enrolment.&nbsp;
+[^21]: Amelia Teng, “Singapore School for the Deaf to Close Due to Dwindling Enrolment,” _Straits Times_, 17 September 2017, [https://www.straitstimes.com/singapore/education/singapore-school-for-the-deaf-to-close-due-to-dwindling-enrolment](https://www.straitstimes.com/singapore/education/singapore-school-for-the-deaf-to-close-due-to-dwindling-enrolment).
      
 
-[^22]: “Hearing Loss and Inclusive Education,” Ministry of Education, 8 November 2022, https://www.moe.gov.sg/news/parliamentary-replies/20221108-hearing-loss-and-inclusive-education; “Our Journey,” Canossian School, accessed 23 December 2024, https://canossian.edu.sg/about-us/our-journey.
+[^22]: “Hearing Loss and Inclusive Education,” Ministry of Education, 8 November 2022, [https://www.moe.gov.sg/news/parliamentary-replies/20221108-hearing-loss-and-inclusive-education](https://www.moe.gov.sg/news/parliamentary-replies/20221108-hearing-loss-and-inclusive-education); “Our Journey,” Canossian School, accessed 23 December 2024, [https://canossian.edu.sg/about-us/our-journey](https://canossian.edu.sg/about-us/our-journey).
 
 
-[^23]: Goh Ewe Hong, “Untitled,” _Straits Times_, 3 February 1972, 7. (From NewspaperSG)&nbsp;
+[^23]: Goh Ewe Hong, “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19720203-1.2.69.3),” _Straits Times_, 3 February 1972, 7. (From NewspaperSG)&nbsp;
      
 
 [^24]: Yeow Pei Lin, “Deaf Teacher Honoured for His Helping Hands,” _Straits Times_, 25 September 1995, 1. (From NewspaperSG)&nbsp;
