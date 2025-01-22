@@ -237,13 +237,13 @@ In Singapore, the journey of deaf education and&nbsp; accessibility (both physic
 [^38]: “[Why Many Deaf Children Are Denied Schooling](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19760922-1.2.29),” _Straits Times_, 22 September 1976, 7. (From NewspaperSG)
      
 
-[^39]: “Andrew Tay,” Equal Dreams, accessed September 2, 2024, https://equaldreams.sg/member/andrew-tay/.
+[^39]: “Andrew Tay,” Equal Dreams, accessed September 2, 2024, [https://equaldreams.sg/member/andrew-tay/](https://equaldreams.sg/member/andrew-tay/).
      
 
-[^40]: “A Teacher for the Deaf,” _Singapore Standard_, 23 November 1955, 3. (From NewspaperSG)
+[^40]: “[A Teacher for the Deaf](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19551123-1.2.39),” _Singapore Standard_, 23 November 1955, 3. (From NewspaperSG)
 
 
-[^41]: Chua Tee Tee, “Methods of Teaching Deaf Children in Singapore and Malaysia,” _Teaching and Learning_ 11, no. 2 (1991): 12–20, https://repository.nie.edu.sg/entities/publication/6c5765cd-44e7-45d9-bc85-01451bde46c2/details.
+[^41]: Chua Tee Tee, “Methods of Teaching Deaf Children in Singapore and Malaysia,” _Teaching and Learning_ 11, no. 2 (1991): 12–20, [https://repository.nie.edu.sg/entities/publication/6c5765cd-44e7-45d9-bc85-01451bde46c2/details](https://repository.nie.edu.sg/entities/publication/6c5765cd-44e7-45d9-bc85-01451bde46c2/details).
      
 
 [^42]: “Sign Language Book to Hit Stands Soon,” _Straits Times_, 1 October 1990, 16. (From NewspaperSG); _Sign for Singapore_ (Singapore: Times Books International, 1990). (From National Library Singapore, call no. RSING 419 SIG)
