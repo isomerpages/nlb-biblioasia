@@ -191,32 +191,32 @@ In Singapore, the journey of deaf education and&nbsp; accessibility (both physic
 [^23]: Goh Ewe Hong, “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19720203-1.2.69.3),” _Straits Times_, 3 February 1972, 7. (From NewspaperSG)&nbsp;
      
 
-[^24]: Yeow Pei Lin, “Deaf Teacher Honoured for His Helping Hands,” _Straits Times_, 25 September 1995, 1. (From NewspaperSG)&nbsp;
+[^24]: Yeow Pei Lin, “[Deaf Teacher Honoured for His Helping Hands](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19950925-1.2.2),” _Straits Times_, 25 September 1995, 1. (From NewspaperSG)&nbsp;
      
 
-[^25]: Yeow, “Deaf Teacher Honoured for His Helping Hands.”
+[^25]: Yeow, “[Deaf Teacher Honoured for His Helping Hands](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19950925-1.2.2).”
      
 
-[^26]: “Few Deaf Pupils Enter Universities,” _Straits Times_, 9 March 1999, 33. (From NewspaperSG); More Hearing-Impaired Students Enter Universities,” Singapore Management University, 4 September 2012, https://news.smu.edu.sg/news/2012/09/04/more-hearing-impaired-students-enter-universities.
+[^26]: “[Few Deaf Pupils Enter Universities](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19990309-1.2.48.2),” _Straits Times_, 9 March 1999, 33. (From NewspaperSG); More Hearing-Impaired Students Enter Universities,” Singapore Management University, 4 September 2012, [https://news.smu.edu.sg/news/2012/09/04/more-hearing-impaired-students-enter-universities](https://news.smu.edu.sg/news/2012/09/04/more-hearing-impaired-students-enter-universities).
 
 
-[^27]: Dorothy Ho, “The Mother Who Wouldn’t Give Up,” _Straits Times_, 9 March 1999, 33; Chang-Tang Siew Ngoh, “These Deaf Children Are Most at Risk,” _Straits Times_, 27 January 2004, 14. (From NewspaperSG)&nbsp;
+[^27]: Dorothy Ho, “[The Mother Who Wouldn’t Give Up](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19990309-1.2.48.1),” _Straits Times_, 9 March 1999, 33; Chang-Tang Siew Ngoh, “[These Deaf Children Are Most at Risk](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20040127-1.2.22.5),” _Straits Times_, 27 January 2004, 14. (From NewspaperSG)&nbsp;
 
      
 
-[^28]: Emilyn Heng-Sim Ai Tin, “Parents Can Help Deaf Children Excel,” _Straits Times_, 21 January 2004, 16. (From NewspaperSG)&nbsp;
+[^28]: Emilyn Heng-Sim Ai Tin, “[Parents Can Help Deaf Children Excel](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20040121-1.2.24.2),” _Straits Times_, 21 January 2004, 16. (From NewspaperSG)&nbsp;
      
 
-[^29]: Chua Hillary, “Healthcare Access for the Deaf in Singapore: Overcoming Communication Barriers,” _Asian Bioethics Review_ 11, no. 4 (30 November 2019): 377–90, https://link.springer.com/article/10.1007/s41649-019-00104-3.
+[^29]: Chua Hillary, “Healthcare Access for the Deaf in Singapore: Overcoming Communication Barriers,” _Asian Bioethics Review_ 11, no. 4 (30 November 2019): 377–90, [https://link.springer.com/article/10.1007/s41649-019-00104-3](https://link.springer.com/article/10.1007/s41649-019-00104-3).
      
 
-[^30]: Jay M. Brenner, et al., “Use of Interpreter Services in the Emergency Department.” _Annals of Emergency Medicine_ 72, no. 4 (October 2018): 432–37, https://www.sciencedirect.com/science/article/abs/pii/S0196064418304311.
+[^30]: Jay M. Brenner, et al., “Use of Interpreter Services in the Emergency Department.” _Annals of Emergency Medicine_ 72, no. 4 (October 2018): 432–37, [https://www.sciencedirect.com/science/article/abs/pii/S0196064418304311](https://www.sciencedirect.com/science/article/abs/pii/S0196064418304311).
 
 
-[^31]: “FAQ on Sign Language Interpreters,” Singapore Association for the Deaf, accessed 26 November 2024, https://sadeaf.org.sg/faq-on-sadeaf-and-about-the-deaf-and-hard-of-hearing/faq-on-sign-language-interpreters/; “FAQ on Number of Deaf in Singapore,” Singapore Association for the Deaf, accessed 26 November 2024, https://sadeaf.org.sg/faq-on-sadeaf-and-about-the-deaf-and-hard-of-hearing/faq-on-number-of-deaf-in-singapore/; “Sign Language Interpretation,” Singapore Association for the Deaf, accessed 26 November 2024, https://sadeaf.org.sg/service/interpreting/.&nbsp;
+[^31]: “FAQ on Sign Language Interpreters,” Singapore Association for the Deaf, accessed 26 November 2024, [https://sadeaf.org.sg/faq-on-sadeaf-and-about-the-deaf-and-hard-of-hearing/faq-on-sign-language-interpreters/](https://sadeaf.org.sg/faq-on-sadeaf-and-about-the-deaf-and-hard-of-hearing/faq-on-sign-language-interpreters/); “FAQ on Number of Deaf in Singapore,” Singapore Association for the Deaf, accessed 26 November 2024, [https://sadeaf.org.sg/faq-on-sadeaf-and-about-the-deaf-and-hard-of-hearing/faq-on-number-of-deaf-in-singapore/](https://sadeaf.org.sg/faq-on-sadeaf-and-about-the-deaf-and-hard-of-hearing/faq-on-number-of-deaf-in-singapore/); “Sign Language Interpretation,” Singapore Association for the Deaf, accessed 26 November 2024, [https://sadeaf.org.sg/service/interpreting/](https://sadeaf.org.sg/service/interpreting/).
      
 
-[^32]: Ong, “The Deaf Using Fax Machines to Communicate.”
+[^32]: Ong, “[The Deaf Using Fax Machines to Communicate](https://eresources.nlb.gov.sg/newspapers/digitised/page/straitstimes19940414-1.1.43).”
 
 
 [^33]: “SMS Phone Deal for Deaf,” _Today_, 17 August 2001, 4; “Phones for the Deaf,” _Straits Times_, 15 December 2000, 20. (From NewspaperSG).&nbsp;
