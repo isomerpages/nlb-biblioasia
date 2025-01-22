@@ -104,7 +104,7 @@ The Zhenkongjiao persisted in its secular and charitable initiatives, which were
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Rites%20of%20Rehabilitation/19980005070___0069.jpg" style="width: 80%;">Ling Kuang Toh Tong closed after their land lease expired. Their ancestral tablets were moved to Hean Thuan Toh Tong at 89 Tampines Link. <i>Courtesy of National Archives of Singapore.</i></div>
+<img src="/images/Online%20Only%20Articles/Rites%20of%20Rehabilitation/19980005070___0069.jpg" style="width: 80%;">Ling Kuang Toh Tong temple closed after their land lease expired. Their ancestral tablets were moved to Hean Thuan Toh Tong at 89 Tampines Link. <i>Courtesy of National Archives of Singapore.</i></div>
 
 Additionally, Thian Ling Toh Tong, then located in Mandai, was a crucial centre for the care of the intellectually disabled and abandoned children since the 1970s. In 1990, the oldest resident under the temple’s care was 60 years old, and 20 children called the temple home.[^38]
 
