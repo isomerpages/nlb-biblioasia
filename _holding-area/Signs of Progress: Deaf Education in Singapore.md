@@ -231,7 +231,7 @@ In Singapore, the journey of deaf education and&nbsp; accessibility (both physic
 [^36]: Hillary Chua, “Healthcare Access for the Deaf in Singapore: Overcoming Communication Barriers,” _Asian Bioethics Review_ 11, no. 4 (30 November 2019): 377–90, [https://pmc.ncbi.nlm.nih.gov/articles/PMC7747252/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7747252/).
 
 
-[^37]: Mayo Martin, “Loud and Clear,” _Today_, 25 May 2015, 34. (From NewspaperSG); Cheryl Lin, “Music for the Deaf, Theatre for the Blind: How the Arts Is Catering to People with Disabilities,” CNA, 30 December 2021, [https://www.channelnewsasia.com/singapore/music-theatre-arts-catering-deaf-blind-people-disabilities-2378106](https://www.channelnewsasia.com/singapore/music-theatre-arts-catering-deaf-blind-people-disabilities-2378106).
+[^37]: Mayo Martin, “[Loud and Clear](https://eresources.nlb.gov.sg/newspapers/digitised/article/today20150525-1.2.38.1.3),” _Today_, 25 May 2015, 34. (From NewspaperSG); Cheryl Lin, “Music for the Deaf, Theatre for the Blind: How the Arts Is Catering to People with Disabilities,” CNA, 30 December 2021, [https://www.channelnewsasia.com/singapore/music-theatre-arts-catering-deaf-blind-people-disabilities-2378106](https://www.channelnewsasia.com/singapore/music-theatre-arts-catering-deaf-blind-people-disabilities-2378106).
      
 
 [^38]: “[Why Many Deaf Children Are Denied Schooling](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19760922-1.2.29),” _Straits Times_, 22 September 1976, 7. (From NewspaperSG)
