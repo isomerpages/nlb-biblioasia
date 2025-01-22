@@ -145,7 +145,7 @@ In Singapore, the journey of deaf education and&nbsp; accessibility (both physic
 [^8]: Lee Khoon Choy, “[Chinese to Set Up School for the Deaf](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaystandard19510708-1.2.37),” _Sunday Standard_, 8 July 1951, 3. (From NewspaperSG)&nbsp;
      
 
-[^9]: “First Deaf Recipient of the Public Service Medal (Posthumous),” The Singapore Association for the Deaf, accessed 20 November 2024, https://sadeaf.org.sg/news/%EF%BB%BFfirst-deaf-recipient-of-the-public-service-medal-posthumous/; Tan Tam Mei, “Pioneer Deaf Educator Peng Tsu Ying Dies, Aged 92,” _Straits Times_, 25 October 2018, https://www.straitstimes.com/singapore/pioneer-deaf-educator-peng-tsu-ying-dies-aged-92.
+[^9]: “First Deaf Recipient of the Public Service Medal (Posthumous),” The Singapore Association for the Deaf, accessed 20 November 2024, [https://sadeaf.org.sg/news/%EF%BB%BFfirst-deaf-recipient-of-the-public-service-medal-posthumous/](https://sadeaf.org.sg/news/%EF%BB%BFfirst-deaf-recipient-of-the-public-service-medal-posthumous/); Tan Tam Mei, “Pioneer Deaf Educator Peng Tsu Ying Dies, Aged 92,” _Straits Times_, 25 October 2018, [https://www.straitstimes.com/singapore/pioneer-deaf-educator-peng-tsu-ying-dies-aged-92](https://www.straitstimes.com/singapore/pioneer-deaf-educator-peng-tsu-ying-dies-aged-92).
      
 
 [^10]: Argila, “Peng Tsu Ying – Singapore’s ‘Man for All Seasons’,” 9; “First Deaf Recipient of the Public Service Medal (Posthumous).”
@@ -155,25 +155,25 @@ In Singapore, the journey of deaf education and&nbsp; accessibility (both physic
 [^11]: Tan, “Pioneer Deaf Educator Peng Tsu Ying Dies, Aged 92”; “First Deaf Recipient of the Public Service Medal (Posthumous).”
      
 
-[^12]: “Lip-Reading Class for Deaf,” _Singapore Free Press_, 17 January 1951, 5. (From NewspaperSG)
+[^12]: “[Lip-Reading Class for Deaf](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19510117-1.2.61),” _Singapore Free Press_, 17 January 1951, 5. (From NewspaperSG)
 
 
-[^13]: “Lip-Reading Class for Deaf.”&nbsp;
+[^13]: “[Lip-Reading Class for Deaf](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19510117-1.2.61).”&nbsp;
      
 
-[^14]: Christine Diemer, “The Best Is Still Pitifully Shabby,” _Sunday Standard_, 18 May 1958, 4; “School for the Deaf Shock,” _Straits Budget_, 20 August 1958, 9. (From NewspaperSG)
+[^14]: Christine Diemer, “[The Best Is Still Pitifully Shabby](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaystandard19580518-1.2.48),” _Sunday Standard_, 18 May 1958, 4; “[School for the Deaf Shock](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19580820-1.2.52),” _Straits Budget_, 20 August 1958, 9. (From NewspaperSG)
      
 
-[^15]: “Deaf and Dumb Society Formed,” _Singapore Standard_, 27 August 1955, 8. (From NewspaperSG)
+[^15]: “[Deaf and Dumb Society Formed](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19550827-1.2.130),” _Singapore Standard_, 27 August 1955, 8. (From NewspaperSG)
      
 
-[^16]: “Deaf and Dumb Are Asked to Register,” _Singapore Standard_, 12 November 1955, 2. (From NewsppaerSG).
+[^16]: “[Deaf and Dumb Are Asked to Register](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19551112-1.2.32),” _Singapore Standard_, 12 November 1955, 2. (From NewsppaerSG).
 
 
-[^17]: “Deaf Children Learn National Language,” _Straits Times_, 1 April 1960, 5; “They Will Now Teach Malay in School for the Deaf,” _Singapore Free Press_, 18 July 1961, 4. (From NewspaperSG)
+[^17]: “[Deaf Children Learn National Language](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19600401-1.2.50),” _Straits Times_, 1 April 1960, 5; “[They Will Now Teach Malay in School for the Deaf](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19610718-1.2.56),” _Singapore Free Press_, 18 July 1961, 4. (From NewspaperSG)
      
 
-[^18]: “Modern Facilities for Teaching Deaf Children,” _Straits Times_, 24 November 1963, 14. (From NewspaperSG)&nbsp;
+[^18]: “[Modern Facilities for Teaching Deaf Children](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19631124-1.2.105),” _Straits Times_, 24 November 1963, 14. (From NewspaperSG)&nbsp;
      
 
 [^19]: “Silent 3’s Secret: First Deaf Children for Exam,” _Straits Times_, 18 November 1967, 7. (From NewspaperSG)&nbsp;
