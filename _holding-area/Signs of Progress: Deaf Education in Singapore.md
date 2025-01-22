@@ -99,6 +99,9 @@ Eventually, mobile phones and text messaging facilitated better communication be
 
 In 2006, Singapore’s national broadcaster, Mediacorp, started having real-time English subtitles accompanying the daily evening news on Channel 5, with the exception of the “live news report” section.[^34] Interpreters were, however, not seen on live national broadcasts until 2012 during the National Day Rally. The broadcast featured live sign language interpreters but without subtitles.[^35] Nevertheless, it was a step welcomed by the Deaf community, who had had to rely on webcasts for previous rallies and major broadcasts.&nbsp;
 
+![](/images/Vol%2021%20Issue%201/Deaf%20Education/deaf_pledge.jpg)
+<div>Reciting the pledge in sign language (extreme right) at the preview of the National Day Parade, 2004. <i>Ministry of Information, Communications and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 A turning point came in July 2013 when the United Nations Convention on the Rights of Persons with Disabilities was ratified in Singapore. Singapore agreed to ensure that persons with disabilities enjoyed equal human rights and to prohibit discrimination based on disability, which included the Deaf community.[^36] Since then, the Deaf community has advocated for interpreters and subtitles to be provided in all national broadcasts. Selected theatre and orchestral performances also had sign language interpreters, an encouraging sign that Deaf accessibility was now more than just an afterthought.[^37]
 
 #### **Singapore Sign Language**
