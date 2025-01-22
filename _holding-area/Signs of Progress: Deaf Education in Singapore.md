@@ -9,13 +9,13 @@ By Rosxalynd Liu and Nathaniel Chew
 
 When pioneering deaf educator Peng Tsu Ying first came to Singapore from Shanghai in the late 1940s, the situation for the Deaf community left much to be desired. Deaf children had no schools and deaf individuals did not have an association to bring them together and represent their interests. In an interview with _The Deaf American_ magazine, Peng recalled that when he first came to Singapore, “I couldn’t find a single deaf person!”[^1]
 
-![](/images/Vol%2021%20Issue%201/Deaf%20Education/deaf_facing.jpg)
+![](/images/Vol%2021%20Issue%201/Deaf%20Education/deaf_facing2.jpg)
 <div>Peng Tsu Ying (second from right) with teachers and students of the Singapore Chinese School for the Deaf, 1956. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
-![](/images/Vol%2021%20Issue%201/Deaf%20Education/deaf_lesson.jpg)
-<div>A lesson in progress at the Singapore Chinese School for the Deaf, 1956. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i></div>
-
 Determined to change things, Peng would go on to found Singapore’s first school for the deaf in 1954. A pioneer activist for the deaf, the efforts of Peng, and others, eventually led to the formation of the Singapore Deaf and Dumb Association in 1955. This association would later open the Singapore School for the Deaf on Mountbatten Road in 1963 and a vocational institute for the deaf to acquire basic technical skills in 1975.[^2]
+
+![](/images/Vol%2021%20Issue%201/Deaf%20Education/deaf_lesson2.jpg)
+<div>A lesson in progress at the Singapore Chinese School for the Deaf, 1956. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Peng Tsu Ying’s School for the Deaf**
 
@@ -61,7 +61,7 @@ A public call was also launched for deaf persons to register themselves with the
 
 Several milestones were achieved in deaf education in the following decades. In the 1960s, Malay was added as an option to the curriculum of English and Chinese in both Peng’s school and the Red Cross school.[^17] In November 1963, the two schools merged to form the Singapore School for the Deaf (SSD) at a new Mountbatten Road campus.[^18] Peng was appointed principal of the sign section. In 1967, three students from the school became the first deaf children to sit for the Primary School Leaving Examination, taking the same papers as everyone else, and they passed.[^19]
 
-![](/images/Vol%2021%20Issue%201/Deaf%20Education/deaf_mountbatten.jpg)
+![](/images/Vol%2021%20Issue%201/Deaf%20Education/deaf_mountbatten2.jpg)
 <div>The Singapore School for the Deaf on Mountbatten Road, 1963. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 ![](/images/Vol%2021%20Issue%201/Deaf%20Education/deaf_speech.jpg)
@@ -115,6 +115,9 @@ SgSL is a combination of Shanghainese Sign Language, American Sign Language, Sig
 From 1976, the SSD adopted the Total Communication approach (which integrates various communication methods such as speaking, hearing, fingerspelling, signing, reading, etc.) as an official policy of the SADeaf. But it was Total Communication along with Signing Exact English that made it possible for deaf students at the SSD to follow the regular school curriculum and sit for the Primary School Leaving Examination. This was the predominant language of instruction in the 1980s, used in conjunction with spoken English.[^41] Subsequently, unique local signs were invented by the Deaf community.
 
 In 1990, these local signs were included in _Sign for Singapore_, a pictorial guide by the SADeaf to familiarise users and learners with the language and consequently bridge the existing communication gap with the deaf. It contains some 700 signs frequently used in daily life in Singapore, as well as signs for common local references such as Changi Airport, the MRT (Mass Rapid Transit), satay, durian and Deepavali.[^42]
+
+![](/images/Vol%2021%20Issue%201/Deaf%20Education/deaf_sign.jpg)
+<div>Local signs in Singapore Sign Language. <i>Image reproduced from Sign for (Singapore: Time Books International, 1990), 105–109. (From National Library Singapore, call no. RSING 419 SIG).</i></div>
 
 In the 1990s, the SADeaf said it wanted to have sign language recognised as Singapore’s fifth official language. “Making sign language an official language is a long-term plan of the association,” Tan Hwee Bong, executive director of the SADeaf, told the _Straits Times_ in 1994. “The deaf community seeks official recognition for sign language to be on par with the four existing official languages.” It hoped to have “sign language used on television, in banks and other places, and at more public events”.[^43]
 
