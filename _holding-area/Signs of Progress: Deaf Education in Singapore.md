@@ -12,6 +12,9 @@ When pioneering deaf educator Peng Tsu Ying first came to Singapore from Shangha
 ![](/images/Vol%2021%20Issue%201/Deaf%20Education/deaf_facing.jpg)
 <div>Peng Tsu Ying (second from right) with teachers and students of the Singapore Chinese School for the Deaf, 1956. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
+![](/images/Vol%2021%20Issue%201/Deaf%20Education/deaf_lesson.jpg)
+<div>A lesson in progress at the Singapore Chinese School for the Deaf, 1956. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i></div>
+
 Determined to change things, Peng would go on to found Singapore’s first school for the deaf in 1954. A pioneer activist for the deaf, the efforts of Peng, and others, eventually led to the formation of the Singapore Deaf and Dumb Association in 1955. This association would later open the Singapore School for the Deaf on Mountbatten Road in 1963 and a vocational institute for the deaf to acquire basic technical skills in 1975.[^2]
 
 #### **Peng Tsu Ying’s School for the Deaf**
@@ -47,6 +50,9 @@ Singapore now had two entities conducting classes for the deaf, but demand for p
 
 Apart from the lack of capacity, the school buildings themselves left much to be desired: the Red Cross classes were held in makeshift classrooms at a social welfare home and a child welfare centre, while the Singapore Sign School for the Deaf was no more than an attap hut. In May 1958, the _Straits Times_ wrote that the school founded by Peng was a “shabby, (but efficient and spotlessly clean) unpainted, clapboard building”. When a deafness expert from New Zealand visited the British Red Cross School for the Deaf in York Hill in August that year, he described the building as “most unsatisfactory”.[^14]
 
+![](/images/Vol%2021%20Issue%201/Deaf%20Education/deaf_attap.jpg)
+<div> The Singapore Sign School for the Deaf in an attap hut, 1960. The school was formerly known as the Singapore Chinese School for the Deaf.  <i>David Ng Collection, courtesy of National Archives of Singapore. </i></div>
+
 #### **The Singapore Association for the Deaf and the School for the Deaf**
 
 Recognising the need to provide better facilities and resources for the Deaf community, the government initiated the formation of the Singapore Deaf and Dumb Association (now known as Singapore Association for the Deaf \[SADeaf\]) in August 1955 to take charge of welfare for the deaf and address the educational challenges they faced, and Peng became a member of the association. Its foremost priority was the construction of a new school, for which the government had set aside land.[^15]
@@ -54,6 +60,9 @@ Recognising the need to provide better facilities and resources for the Deaf com
 A public call was also launched for deaf persons to register themselves with the association – the first attempt to develop a database of Singapore’s deaf population and better understand the scale of services required.[^16]
 
 Several milestones were achieved in deaf education in the following decades. In the 1960s, Malay was added as an option to the curriculum of English and Chinese in both Peng’s school and the Red Cross school.[^17] In November 1963, the two schools merged to form the Singapore School for the Deaf (SSD) at a new Mountbatten Road campus.[^18] Peng was appointed principal of the sign section. In 1967, three students from the school became the first deaf children to sit for the Primary School Leaving Examination, taking the same papers as everyone else, and they passed.[^19]
+
+![](/images/Vol%2021%20Issue%201/Deaf%20Education/deaf_mountbatten.jpg)
+<div>The Singapore School for the Deaf on Mountbatten Road, 1963. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 In 1971, the SADeaf began planning for a vocational institute for the deaf beside the SSD so that deaf students could learn basic technical skills. In February 1975, the Vocational Institute of the Singapore Association for the Deaf received its first batch of 50 students who learned skills such as metalwork, woodwork and basic electricity based on the same syllabus used in mainstream vocational institutes.[^20]
 
