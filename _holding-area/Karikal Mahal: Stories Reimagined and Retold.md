@@ -40,7 +40,7 @@ Our writers and director drew extensively from these historical records to craft
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Karikal%20Mahal/image_Chettiar.png" style="width: 50%;"><a href="https://www.nas.gov.sg/archivesonline/photographs/record-details/27117714-1162-11e3-83d5-0050568939ad/">Image</a> of a Chettiar used as a reference for the series. Here, the Chettiar, likely a moneylender, sits at his low wooden table in his <i>kittangi</i>, c.1950–70. <i>Sharon Siddique, courtesy of National Archives of Singapore.</i></div>
+<img src="/images/Online%20Only%20Articles/Karikal%20Mahal/image_Chettiar.png" style="width: 50%;"><a href="https://www.nas.gov.sg/archivesonline/photographs/record-details/27117714-1162-11e3-83d5-0050568939ad">Image</a> of a Chettiar used as a reference for the series. Here, the Chettiar, likely a moneylender, sits at his low wooden table in his <i>kittangi</i>, c.1950–70. <i>Sharon Siddique, courtesy of National Archives of Singapore.</i></div>
 
 <div style="background-color: white;">
 <br>
