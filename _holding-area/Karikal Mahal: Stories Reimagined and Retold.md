@@ -68,6 +68,27 @@ The magazines also featured step-by-step guides to tricks, performed and written
 <br>
 <img src="/images/Online%20Only%20Articles/Karikal%20Mahal/The_Great_Wong.png" style="width: 80%;">Reenactment of The Great Wong’s Linking Rings act. <i>Courtesy of Ochre Pictures.</i></div>
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Karikal%20Mahal/AJ_Braga.png" style="width: 90%;">A.J. Braga’s exhilarating coffin act where he is straightjacketed and escapes from a sealed coffin. <i>Courtesy of Ochre Pictures.</i></div>
+
+#### **House of Horror**
+
+In the final episode, the once opulent and palatial Karikal Mahal is now an internment camp following the Japanese Occupation of Singapore (1942–45). It was a challenge to find interviewees who could give first-hand accounts of Karikal Mahal as an internment camp, so the diary of Thomas Kitching, former Chief Surveyor of Singapore, formed the main narrative arc of this story. Kitching was among the civilians interned at Karikal Mahal; his diary was published in 2002 as the book <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=11516912"><i>Life and Death in Changi</i></a>.
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Karikal%20Mahal/Thomas_Kitching.png" style="width: 90%;">Re-enactment of Thomas Kitching in Fullerton Building on the day Singapore was bombed (left) and writing in his diary while interned in Karikal Mahal (right). <i>Courtesy of Ochre Pictures.</i></div>
+
+By drawing on materials from NAS and NewspaperSG, we were able to enhance the experiences Kitching wrote about in his diary. While locating specific archival images to match his exact descriptions proved challenging, we managed to find similar visuals that effectively depicted scenes reminiscent of key moments, such as the atmosphere around Fullerton Building on the morning the Japanese forces invaded Singapore, or the journey of captured European civilians marching to Karikal Mahal. These elements helped convey the atmosphere and context of that time.
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Karikal%20Mahal/Katong_internees.png" style="width: 90%;">A.J. Braga’s exhilarating coffin act where he is straightjacketed and escapes from a sealed coffin. <i>Courtesy of Ochre Pictures.</i></div>
+
+
+
+
 
 
   
