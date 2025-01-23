@@ -52,7 +52,7 @@ Most versions of the Annals mention that Badang is buried in a place called Buru
 <div style="background-color: white;">The grave believed to belong to Badang on Pulau Buru, December 2023. It is a long grave (<i>kubor panjang</i>) measuring 3.25 m, a sign of divine power. The <i>gaharu</i> tree is to the left. The grave was declared an official cultural site in 2010. <i>Photo by William L. Gibson.</i></div>
 
 ![](/images/Vol%2021%20Issue%201/Badang/img8.jpg)
-<div style="background-color: white;">An aerial view of Badang’s grave.&nbsp;<i>Photo by Hikari Azyure.</i></div>
+<div style="background-color: white;">An aerial view of Badang’s grave.&nbsp;<i>Photo by Azyure D. Hikari.</i></div>
 
 There are three large trees inside the enclosure. The middle tree, marked as sacred with a yellow cloth, is most likely a _gaharu_, or agarwood tree (_Aquilaria malaccensis_), whose fragrant wood has long been prized for making incense, prayer beads, and Hindu and Buddhist idols. When I visited the place in 2023, the locals told me that the Badang grave had been there since the 1960s. The oldest reference in print that I could locate dates to 1972.[^9]
 
@@ -126,7 +126,7 @@ In 1826, a voyager up the Johor River was told that a “a convex ripple” near
 While the Batu Belah and other markers of Badang in Johor appear to be gone today, his peregrinating grave remains a source of authenticity and reification for people in the region. As Virginia Matheson (an internationally recognised authority on traditional Malay literature and historiography) pointed out the early 1980s, having the monument to such an illustrious hero on Pulau Buru created a sense of ancestral legitimacy for the ruling elite of Riau and a sense of empowerment for the residents of the islands.[^32] The Singapore Stone can be seen functioning in a similar fashion, as a totem of legitimacy, for the city-state of Singapore.
 
 <div style="background-color: #fff6ba; padding:15px; margin: 10px; font-size=120%">
-<img src="/images/Vol%2021%20Issue%201/Badang/keramat_small.jpg" style="width: 40%;">	This is an edited version of “Legendary Figures”, a chapter from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300071320"><i>Keramat, Sacred Relics and Forbidden Idols in Singapore</i></a> by William L. Gibson (Routledge, 2024). The book is available for reference at the Lee Kong Chian Reference Library (call no. RSING 363.69095957 GIB). </div>
+<img src="/images/Vol%2021%20Issue%201/Badang/keramat_small.jpg" style="width: 25%;"><br>	This is an edited version of “Legendary Figures”, a chapter from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300071320"><i>Keramat, Sacred Relics and Forbidden Idols in Singapore</i></a> by William L. Gibson (Routledge, 2024). The book is available for reference at the Lee Kong Chian Reference Library (call no. RSING 363.69095957 GIB). </div>
 
 <div style="background-color: white;">
 <br>
