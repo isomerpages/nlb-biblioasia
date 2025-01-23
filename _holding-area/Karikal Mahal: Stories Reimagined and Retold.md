@@ -46,6 +46,27 @@ Our writers and director drew extensively from these historical records to craft
 <br>
 <img src="/images/Online%20Only%20Articles/Karikal%20Mahal/Moona_Kader.png" style="width: 80%;">Reenactment of a young Moona Kader Sultan (sitting in the corner on the right) observing business dealings in the <i>kittangi</i>. <i>Courtesy of Ochre Pictures.</i></div>
 
+#### **Home of the Malayan Magic Circle**
+
+We also worked closely with Senior Librarian Gracie Lee from the National Library Singapore on the history of Singapore magic. Gracie generously bridged the gaps in our knowledge about the Malayan Magic Circle (MMC), sharing her deep understanding of its history and stories. Her expertise was instrumental in helping us uncover rare gems, including <i>The Magic Fan</i> – a magazine published by the MMC in the 1930s, which the library holds in its collection. This remarkable publication offers a fascinating glimpse into the MMC’s vibrant world. Its pages brim with accounts of the club’s lavish parties, members’ personal anecdotes, and even a dash of humour with funny quips and jokes.
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Karikal%20Mahal/Magic_Fan.jpg" style="width: 80%;">Copies of <i>The Magic Fan</i> are held in the National Library Singapore’s collection. <i>Courtesy of Ochre Pictures.</i></div>
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Karikal%20Mahal/episode_2.png" style="width: 80%;">Episode 2 features a reenactment of magician Tan Hock Chuan writing a column for <i>The Magic Fan</i> at the Malayan Magic Circle headquarters at Karikal Mahal. <i>Courtesy of Ochre Pictures.</i></div>
+
+The magazines also featured step-by-step guides to tricks, performed and written by renowned local magicians such as Tan Hock Chuan and A.J. Braga. To add more authenticity to our reenactments, our cast learnt actual magic tricks from Singapore magician Enrico Varella, Vice-President of IBM Ring 115 (The Great Wong Ring), who also very kindly undertook the role of Braga in our series. From tricks to costumes, the combination of archival photos and newspaper archives provided the colourful backdrop for the MMC’s spectacular performances in the show.
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Karikal%20Mahal/second_episode.png" style="width: 90%;">In the second episode, the Malayan Magic Circle performs their final show at Karikal Mahal. <i>Courtesy of Ochre Pictures.</i></div>
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Karikal%20Mahal/The_Great_Wong.png" style="width: 80%;">Reenactment of The Great Wong’s Linking Rings act. <i>Courtesy of Ochre Pictures.</i></div>
 
 
 
