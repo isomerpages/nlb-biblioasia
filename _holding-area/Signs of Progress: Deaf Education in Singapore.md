@@ -9,13 +9,13 @@ By Rosxalynd Liu and Nathaniel Chew
 
 When pioneering deaf educator Peng Tsu Ying first came to Singapore from Shanghai in the late 1940s, the situation for the Deaf community left much to be desired. Deaf children had no schools and deaf individuals did not have an association to bring them together and represent their interests. In an interview with _The Deaf American_ magazine, Peng recalled that when he first came to Singapore, “I couldn’t find a single deaf person!”[^1]
 
-![](/images/Vol%2021%20Issue%201/Deaf%20Education/deaf_facing2.jpg)
-<div>Peng Tsu Ying (second from right) with teachers and students of the Singapore Chinese School for the Deaf, 1956. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+![](/images/Vol%2021%20Issue%201/Deaf%20Education/deaf_principal.jpg)
+<div>Principal Peng Tsu Ying at the graduation ceremony of the Singapore Sign School for the Deaf, 1961. He wrote his speech on the blackboard. <i>Source: The Straits Times © SPH Media Limited. Permission required for reproduction.</i></div>
 
 Determined to change things, Peng would go on to found Singapore’s first school for the deaf in 1954. A pioneer activist for the deaf, the efforts of Peng, and others, eventually led to the formation of the Singapore Deaf and Dumb Association in 1955. This association would later open the Singapore School for the Deaf on Mountbatten Road in 1963 and a vocational institute for the deaf to acquire basic technical skills in 1975.[^2]
 
-![](/images/Vol%2021%20Issue%201/Deaf%20Education/deaf_lesson2.jpg)
-<div>A lesson in progress at the Singapore Chinese School for the Deaf, 1956. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+![](/images/Vol%2021%20Issue%201/Deaf%20Education/deaf_facing2.jpg)
+<div>Peng Tsu Ying (second from right) with teachers and students of the Singapore Chinese School for the Deaf, 1956. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Peng Tsu Ying’s School for the Deaf**
 
@@ -33,8 +33,8 @@ As Peng continued to receive applications, he saw the need to make a far greater
 
 It took three years before the Singapore Chinese School for the Deaf opened in 1954 on Charlton Road in Upper Serangoon. Peng became the principal, and together with his wife, Ho Mei Soo, who was also deaf, taught Shanghainese Sign Language at the school.[^9] The school was renamed Singapore Sign School for the Deaf in 1957.
 
-![](/images/Vol%2021%20Issue%201/Deaf%20Education/deaf_principal.jpg)
-<div>Principal Peng Tsu Ying at the graduation ceremony of the Singapore Sign School for the Deaf, 1961. He wrote his speech on the blackboard. <i>Source: The Straits Times © SPH Media Limited. Permission required for reproduction.</i></div>
+![](/images/Vol%2021%20Issue%201/Deaf%20Education/deaf_lesson2.jpg)
+<div>A lesson in progress at the Singapore Chinese School for the Deaf, 1956. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Despite his deafness, in 1958, Peng participated in motor racing, winning a total of 36 trophies before giving up the sport in 1967 due to financial reasons. He told _The Deaf American_ in 1975: “I can tell you that my main reason for taking part in motor sports was to prove to the hearing world that being deaf is no handicap to being skillful.”[^10]
 
