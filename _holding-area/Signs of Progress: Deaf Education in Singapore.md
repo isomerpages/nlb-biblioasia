@@ -116,7 +116,8 @@ From 1976, the SSD adopted the Total Communication approach (which integrates va
 
 In 1990, these local signs were included in _Sign for Singapore_, a pictorial guide by the SADeaf to familiarise users and learners with the language and consequently bridge the existing communication gap with the deaf. It contains some 700 signs frequently used in daily life in Singapore, as well as signs for common local references such as Changi Airport, the MRT (Mass Rapid Transit), satay, durian and Deepavali.[^42]
 
-![](/images/Vol%2021%20Issue%201/Deaf%20Education/deaf_sign.jpg)
+![](/images/Vol%2021%20Issue%201/Deaf%20Education/deaf_sign2.jpg)
+![](/images/Vol%2021%20Issue%201/Deaf%20Education/deaf_signb.jpg)
 <div>Local signs in Singapore Sign Language. <i>Image reproduced from Sign for (Singapore: Time Books International, 1990), 105–109. (From National Library Singapore, call no. RSING 419 SIG).</i></div>
 
 In the 1990s, the SADeaf said it wanted to have sign language recognised as Singapore’s fifth official language. “Making sign language an official language is a long-term plan of the association,” Tan Hwee Bong, executive director of the SADeaf, told the _Straits Times_ in 1994. “The deaf community seeks official recognition for sign language to be on par with the four existing official languages.” It hoped to have “sign language used on television, in banks and other places, and at more public events”.[^43]
