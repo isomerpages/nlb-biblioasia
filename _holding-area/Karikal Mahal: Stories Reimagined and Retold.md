@@ -86,11 +86,16 @@ By drawing on materials from NAS and NewspaperSG, we were able to enhance the ex
 <br>
 <img src="/images/Online%20Only%20Articles/Karikal%20Mahal/Katong_internees.png" style="width: 90%;">A.J. Braga’s exhilarating coffin act where he is straightjacketed and escapes from a sealed coffin. <i>Courtesy of Ochre Pictures.</i></div>
 
+The vast amount of research we did for this series transformed the way we approach storytelling. Unearthing historical details allowed us to ground our narrative in authenticity while weaving in layers of depth and nuance. These discoveries helped us create scenes that felt true to their time yet resonated with universal emotions, making the characters’ journeys relatable and compelling. By blending the factual rigour of history with the emotional resonance of drama, we turned dry facts into human-centered stories that transported viewers to another time and place.
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Karikal%20Mahal/bowing.png" style="width: 50%;">Re-enactment of civilian internees bowing to Japanese officers and cleaning the floors as part of daily camp duties in Karikal Mahal. <i>Courtesy of Ochre Pictures.</i></div>
 
+For us, Karikal Mahal wasn’t just a setting; she was a living, breathing character. Her walls held the echoes of triumph, tragedy and mystery, and it was our responsibility to give her a voice – one that honoured Singapore’s layered history as our nation marks 60 years of independence this year. Storytelling like this invites audiences to connect with our past, offering them a window into the struggles and humanity of a different time. Karikal Mahal’s tale is just one of many waiting to be rediscovered and brought to life. The next time you go past an “old building”, stop and listen – what secrets and stories do their walls hold?
 
-
-
+<div style="background-color: white;">
+<img style="width: 100px; height: 100px;" src="/images/Online%20Only%20Articles/Karikal%20Mahal/Photo_author.png"><b>Rowena Loh </b>is a Singapore-based director and producer whose works have reached audiences internationally. As a showrunner-director at Ochre Pictures, Rowena expands her directing and producing skills across various genres. Her notable television works include the award-winning series <i>Last Madame: Sisters of the Night</i>, which received multiple accolades, including Best Direction at the 2023 Asian Academy Creative Awards.</div>  
   
 
 #### **Notes**
