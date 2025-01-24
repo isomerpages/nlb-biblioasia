@@ -428,6 +428,91 @@ be out of place to read this entry on Singapore found in the *Encyclopaedia
 Perthensis*, published in 1816, just three years before the founding of a British
 trading post in Singapore.
 
+**Sincapora, Sincapoura, or Sincapura**. An island and
+cape, with its capital on the S[outh] coast of Melaka;
+opposite Sumatra.
+
+**Sincapura, Straits of**, a narrow channel between the above
+island, Melaka and Sumatra.59
+
+The three spellings of Singapore and four different definitions
+of Singapore – as a strait, an island, a cape and a capital – represent
+the wisdom and errors of three centuries of acquiring and circulating
+knowledge, which had swelled to the point of confusion and contradiction.
+These entries patently show that the European records of Singapore and
+its straits are not sequenced according to the internal developments of the
+region and its peoples, but have become jumbled up with other realities that
+have little to do with its past.
+
+***New ideas and old assumptions***
+
+Third, these references help us to generate new ideas and discard older
+assumptions about Singapore. The four impressions that a European reader
+would have had of Singapore and its straits do not support the idea that
+Singapore appears after 440 years of neglect as a knowable and distinct place
+in history.60 Singapore had always been a knowable place not only in the
+region but also to European audiences, despite British claims that Singapore
+was terra incognita. In addition, our current impressions of Singapore as a
+point of division, as a strategic location and a place of antiquity are shown
+here to have been in circulation for a long time and shaped by literary
+engagement. Beyond casting aside older views, these references can also
+help to illuminate older and forgotten connections. For example, references
+to Singapore as a city of Siam hint at a deeper relationship between ancient
+Singapore and Thailand. Comparing these references might also help
+produce connected histories that tell us more about Singapore’s past. In their travel accounts, Alonso Ramirez and William Dampier both noted passing
+Singapore around 1687. Dampier benefited from refreshments from the
+Orang Laut, while Ramirez attacked them.61 Seen separately, the accounts
+tell us little, but taken together, they point towards a period of intense
+activity in and around the Singapore region. The chances of finding other
+connections are small but not improbable. It must be cautioned, however,
+that these European references to Singapore and its straits cannot stand
+alone; they must be corroborated, too, with other Asian texts and evidence
+to produce a more complete picture.
+
+***The future of Singapore’s past***
+
+Finally, these references can serve as an oracle for the future of Singapore’s
+past(s). With increased digitisation of publications and greater online
+accessibility to these materials, more references of Singapore, if not of its
+straits and the wider straits region, are almost certain to be found. This is
+true not only of European literature but also other manuscripts, languages
+and archives, many of which are not covered here.62 Furthermore, references
+to Singapore might not always be found under this name. In the European
+records, it is not uncommon to find references to Lange Eilant (Long Island)
+or Pulau Panjang, designations which also appear on hydrographic charts
+before 1819. The Portuguese writers also used the term Ujantana (Ujong
+Tanah) to refer to the area around Singapore. With careful reading and
+sufficient contextual knowledge, these references can also be added to our
+knowledge of Singapore, or the Singapore region.63
+
+However, it is clear from these references that the European writers
+had a peripheral vision of Singapore and its straits and did not always tell
+us what we would like to know about its past. The published literature
+contains little about activity on the island, because the writers rarely visited
+it and had little interest or extended experience of the region at large. The
+Europeans wrote only about the things they knew and experienced and often repeated what was already known.64 This is why the four impressions
+stated above will likely continue to characterise other references to Singapore
+and its straits in European literature.
+
+#### **Conclusion**
+
+Ultimately, these references to Singapore reveal the current constructs
+for understanding its past. But the quest to make meaning is only just
+beginning. As Peter Preston reminds us, there is no one Singapore: context
+is key.65 If we define Singapore as just the island, then the historical record
+before 1819 is indeed scarce, fragmentary, vague and contradictory. But if
+we look for an idea of Singapore that goes beyond the island and ask more
+searching questions about the pieces that we find, then we might come to a
+better understanding of what Singapore is and can mean in the past.
+
+#### **Acknowledgements**
+
+*I would like to thank Professors Peter Borschberg and Kwa Chong Guan for their
+feedback and suggestions on an earlier draft and the library staff at the National
+Library of Singapore for facilitating access to materials. In particular, Joanna Tan,
+Timothy Pwee and Heirwin bin Mohd Nasir have been a great help during the course
+of my research. I would also like to thank Dr Seah Cheng Ta for the company and
+conversations throughout my fellowship stint at the library.*
 
 
 
