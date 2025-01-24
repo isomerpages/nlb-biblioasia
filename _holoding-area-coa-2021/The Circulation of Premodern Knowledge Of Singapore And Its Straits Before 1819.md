@@ -76,18 +76,18 @@ particular point in time.
 
 Singapore and its straits feature several times in fiction, such as in the
 novels of Daniel Defoe, and can be found in Spanish, Portuguese and
-Dutch poems as well.9 Despite the small number of such publications (about 16 so far), they point to creative imaginings of Singapore before the modern
-period.10 Another important genre of knowledge is the travel anthology.
+Dutch poems as well.[^9] Despite the small number of such publications (about 16 so far), they point to creative imaginings of Singapore before the modern
+period.[^10] Another important genre of knowledge is the travel anthology.
 Narratives and accounts were plucked from different sources spanning
 various languages, regions and periods, and compiled into volumes of
 collected travels. Europe has a long tradition of publishing collected travel
-accounts, which were often lavishly illustrated and extremely costly.11 By the
+accounts, which were often lavishly illustrated and extremely costly.[^11] By the
 18th century, the genre gained popularity and increased in circulation. For
 example, the four-volume travel compendium, A Collection of Voyages and
 Travels, first issued in 1704 by the brothers Awnsham and John Churchill,
 was reprinted with two additional volumes in 1732. A third edition appeared
 in 1744–46, followed by a fourth in 1752, published by the bookseller
-Thomas Osborne.12 Although this repackaging increased the spread of
+Thomas Osborne.[^12] Although this repackaging increased the spread of
 knowledge of Singapore and its straits, it also had the effect of recycling
 existing knowledge for new readers.
 
@@ -103,7 +103,7 @@ St. Francis Xavier (1506–52), a celebrated Jesuit who travelled to the Far
 East. His letters dispatched when he was anchored off Singapore (“ex freto
 Syncapurano”, Latin for “from the Straits of Singapore”) helped reinforce the
 knowledge in religious circles that Singapore was an important station up
-to the 19th century.13 After 1650, the Romance and Germanic vernaculars
+to the 19th century.[^13] After 1650, the Romance and Germanic vernaculars
 began to replace Latin, and more references to Singapore appeared in
 publications in Spanish, Italian, Portuguese, French, English, German and Dutch. At present, there are many collected publications in English and
 French, but larger-than-expected numbers in these languages might simply
@@ -117,7 +117,7 @@ French. Pierre d’Avity’s Le Monde (The World), a popular and widely read
 publication in the early 17th century, contains references to Singapore
 and the wider straits region. But a closer examination shows that this
 information was extensively compiled from the works of the Portuguese
-historian João de Barros and the French Jesuit Pierre du Jarric.14 This overreliance
+historian João de Barros and the French Jesuit Pierre du Jarric.[^14] This overreliance
 on a few transmitted sources perhaps testifies to how little was
 known in England and France about Singapore and its straits before 1819.
 
@@ -132,11 +132,11 @@ mirrored the broader curiosity and interest in the wider world. By the end
 of the 17th century, references that touch on Singapore and its straits had
 doubled in number. This growth was spurred by the increasing voyages to
 and writing of the East and also by the development of the book trade in
-major centres such as London, Paris and the Low Countries.15 As Daniel
+major centres such as London, Paris and the Low Countries.[^15] As Daniel
 Roche has shown, European printers published 1,566 travelogues in the
 17th century compared to 456 a century before. By the end of the 18th
 century, the number of travelogues had more than doubled to 3,540. This
-development added considerably to the knowledge base of Singapore and the wider straits region.16 The 18th century was the age when knowledge of
+development added considerably to the knowledge base of Singapore and the wider straits region.[^16] The 18th century was the age when knowledge of
 Singapore and its straits reached the growing masses. Technical innovations
 in publishing, increased mobility, the development of scientific societies,
 and an expanding base of readership meant that more references than before
@@ -162,20 +162,20 @@ storms, difficult seascape, and vulnerability to ambush led the area around
 Singapore, in particular its channel, to gain a certain notoriety. The
 Portuguese writers João de Barros and Brás de Albuquerque referred to
 Singapore as *falsa demora*, which meant a tricky place to interrupt one’s
-voyage or a place where ships were lost while waiting.17 Irregular and rapid
+voyage or a place where ships were lost while waiting.[^17]  Irregular and rapid
 tides, hidden sandbanks and treacherous rocks made navigation risky and
 caused many ships to meet with shipwreck. The ships carrying the Japanese
 Tenshō embassy to Rome in 1584 met with such a mishap, hitting a shallow rock in the Singapore straits and losing their valuable cargo, although the
-crew was thankfully saved from danger.18 Another account was penned
+crew was thankfully saved from danger.[^18] Another account was penned
 by the Spanish Dominican priest Domingo Navarrete, who crossed the
 straits of Singapore around the mid-17th century. Navarrete wrote, too,
 about how other sailors in Canton faced difficulties in sailing through the
 narrow passage and overdramatised the violent currents that “whirl’d a
-ship about with its sails abroad”.19 When the Italian priest Matteo Ripa
+ship about with its sails abroad”.[^19] When the Italian priest Matteo Ripa
 travelled from Melaka to Manila in 1708, the Armenian ship he was on
 hit submerged rocks in shallow waters and was about to founder off the
 island of Singapore. Matteo was said to have performed a miracle, and the
-ship eventually sailed on safely.20 These three incidents from three different
+ship eventually sailed on safely.[^20] These three incidents from three different
 centuries are some of the many incidents that made plain to readers the
 dangers of geography around Singapore.
 
