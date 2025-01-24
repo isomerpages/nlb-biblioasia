@@ -53,5 +53,110 @@ across three centuries, I argue that they should not be dismissed, because
 they offer us ways to rethink Singapore’s history and contain important
 clues for charting the future of Singapore’s pasts.
 
+#### **Quantifying Knowledge**
+
+Unlike what earlier historians have suggested, references to Singapore
+and its straits are both copious and varied. Today we can count close to
+400 published works that include a reference to either Singapore or its
+straits before 1819, sometimes both, and these works range from chronicles
+and travelogues to poetry and fiction. The large number of publications
+containing references shows that there was sufficient knowledge circulating
+in European literature. Several of these, like European travelogues, sailing
+rutters, and chronicles have been explored in detail and have been used
+to reconstruct Singapore’s past before 1819. Other references can be found
+in religious accounts, magazines, pamphlets, periodicals, journals, plays
+and anthologies, but not all have been studied in detail. The sheer number
+of references points to a widespread cognizance of Singapore, if not of
+the region. A very large number of references (about 153) are contained
+in compendia, a category that has escaped attention so far. Comprising
+publications such as geographies, cosmographies, dictionaries, lexicons and
+encyclopaedias, the compendia helped condense and transmit knowledge of
+Singapore and showed how the general reader understood “Singapore” at a
+particular point in time.
+
+Singapore and its straits feature several times in fiction, such as in the
+novels of Daniel Defoe, and can be found in Spanish, Portuguese and
+Dutch poems as well.9 Despite the small number of such publications (about 16 so far), they point to creative imaginings of Singapore before the modern
+period.10 Another important genre of knowledge is the travel anthology.
+Narratives and accounts were plucked from different sources spanning
+various languages, regions and periods, and compiled into volumes of
+collected travels. Europe has a long tradition of publishing collected travel
+accounts, which were often lavishly illustrated and extremely costly.11 By the
+18th century, the genre gained popularity and increased in circulation. For
+example, the four-volume travel compendium, A Collection of Voyages and
+Travels, first issued in 1704 by the brothers Awnsham and John Churchill,
+was reprinted with two additional volumes in 1732. A third edition appeared
+in 1744–46, followed by a fourth in 1752, published by the bookseller
+Thomas Osborne.12 Although this repackaging increased the spread of
+knowledge of Singapore and its straits, it also had the effect of recycling
+existing knowledge for new readers.
+
+These references are also found in different languages and point to a
+wide dispersion and transmission of knowledge across Europe. There is
+a substantial number of references to Singapore and its straits in Latin,
+especially in the 16th century, when Latin functioned as a scholarly language
+for learning. Latin publications with references to Singapore were often
+initially textual aids to cartographic material. Later Latin publications
+provided more detail, with many describing Singapore as a city within the
+Kingdom of Siam. An important work written in Latin were the letters of
+St. Francis Xavier (1506–52), a celebrated Jesuit who travelled to the Far
+East. His letters dispatched when he was anchored off Singapore (“ex freto
+Syncapurano”, Latin for “from the Straits of Singapore”) helped reinforce the
+knowledge in religious circles that Singapore was an important station up
+to the 19th century.13 After 1650, the Romance and Germanic vernaculars
+began to replace Latin, and more references to Singapore appeared in
+publications in Spanish, Italian, Portuguese, French, English, German and Dutch. At present, there are many collected publications in English and
+French, but larger-than-expected numbers in these languages might simply
+reflect current digitisation efforts. It is clear from tracing the circulation
+of information that these references were often drawn from a similar set
+of sources. For example, English descriptions of the Malay Peninsula,
+Singapore and its straits depended heavily on information provided by
+English travellers such as William Dampier and Alexander Hamilton. On
+the other hand, French publications relied on knowledge translated into
+French. Pierre d’Avity’s Le Monde (The World), a popular and widely read
+publication in the early 17th century, contains references to Singapore
+and the wider straits region. But a closer examination shows that this
+information was extensively compiled from the works of the Portuguese
+historian João de Barros and the French Jesuit Pierre du Jarric.14 This overreliance
+on a few transmitted sources perhaps testifies to how little was
+known in England and France about Singapore and its straits before 1819.
+
+Finally, references to Singapore and its straits increased from the 16th
+to 18th century, which reflected developments in the print industry and
+the growing demand for travel literature. In the 16th century, references
+to Singapore and its straits were still limited to the Portuguese chronicles,
+translated or otherwise, and a few religious accounts. This number increased
+with time. By the 1560s, an increasing number of cosmographies and
+geographies, mostly written in Latin, became popular, a development that
+mirrored the broader curiosity and interest in the wider world. By the end
+of the 17th century, references that touch on Singapore and its straits had
+doubled in number. This growth was spurred by the increasing voyages to
+and writing of the East and also by the development of the book trade in
+major centres such as London, Paris and the Low Countries.15 As Daniel
+Roche has shown, European printers published 1,566 travelogues in the
+17th century compared to 456 a century before. By the end of the 18th
+century, the number of travelogues had more than doubled to 3,540. This
+development added considerably to the knowledge base of Singapore and the wider straits region.16 The 18th century was the age when knowledge of
+Singapore and its straits reached the growing masses. Technical innovations
+in publishing, increased mobility, the development of scientific societies,
+and an expanding base of readership meant that more references than before
+reached curious audiences.
+
+#### **Qualifying Knowledge**
+
+However, the number of references to Singapore and/or its straits does not
+always mean that they contain a wealth of detail. Many publications contain
+no more than a name and tell us little about the island or its history. That
+said, regardless of length and detail, the reader of the literature would have
+possibly formed four impressions of Singapore. These impressions were
+consistent within European publications before 1819 and can be summed as
+such: Singapore was a place of danger, division, antiquity and concentration.
+The impressions occasionally overlap but hardly deviate from these patterns
+of description.
+
+
+
+
+
 
 
