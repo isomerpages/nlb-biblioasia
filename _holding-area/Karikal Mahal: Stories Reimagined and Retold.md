@@ -36,7 +36,7 @@ Once the mansion was “built”, we faced our next challenge – transporting v
 
 As one of the most successful businessmen of his time, these digitised records spanning the early 1900s were a treasure trove of insights. They chronicled his meteoric rise from humble beginnings to building his Straits Cattle Trading empire, revealed his role as a community pillar, the cutthroat nature of his business, his sensational court case, and his eventual bankruptcy, culminating in the heart-wrenching tragedy of his son Yusuf’s suicide. These newspaper reports became the backbone of our storytelling, allowing us to vividly portray Moona Kader Sultan’s legacy with authenticity and depth.
 
-Our writers and director drew extensively from these historical records to craft scenes that breathed life into the past. Newspaper articles not only shaped dialogue and timelines, but also the finer details of set design. For instance, archival photographs of 1930s street scenes inspired the bustling street market sequence, while images of Chettiars (a subgroup of the Tamil community often associated with moneylending) and _kittangis_ (Tamil for “warehouse”) guided the creation of props and backdrops. The numerous articles documenting Yusuf’s tragic suicide informed a key scene where the characters’ raw emotions mirrored real-life accounts. This made the story deeply poignant and relatable, and heightened the emotional resonance for viewers. These meticulous touches brought the era to life, immersing viewers in the world of Karikal Mahal.
+Our writers and director drew extensively from these historical records to craft scenes that breathed life into the past. Newspaper articles not only shaped dialogue and timelines, but also the finer details of set design. For instance, archival photographs of 1930s street scenes inspired the bustling street market sequence, while images of Chettiars (a subgroup of the Tamil community often associated with moneylending) and _kittangis_ (Tamil for “warehouse”) guided the creation of props and backdrops.[^3] The numerous articles documenting Yusuf’s tragic suicide informed a key scene where the characters’ raw emotions mirrored real-life accounts. This made the story deeply poignant and relatable, and heightened the emotional resonance for viewers. These meticulous touches brought the era to life, immersing viewers in the world of Karikal Mahal.
 
 <div style="background-color: white;">
 <br>
@@ -62,15 +62,15 @@ The magazines also featured step-by-step guides to tricks, performed and written
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Karikal%20Mahal/second_episode.png" style="width: 90%;">In the second episode, the Malayan Magic Circle performs their final show at Karikal Mahal. <i>Courtesy of Ochre Pictures.</i></div>
+<img src="/images/Online%20Only%20Articles/Karikal%20Mahal/second_episodev2.png" style="width: 60%;">In the second episode, the Malayan Magic Circle performs their final show at Karikal Mahal. <i>Courtesy of Ochre Pictures.</i></div>
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Karikal%20Mahal/The_Great_Wong.png" style="width: 80%;">Reenactment of The Great Wong’s Linking Rings act. <i>Courtesy of Ochre Pictures.</i></div>
+<img src="/images/Online%20Only%20Articles/Karikal%20Mahal/The_Great_Wongv2.png" style="width: 60%;">Reenactment of The Great Wong’s Linking Rings act. <i>Courtesy of Ochre Pictures.</i></div>
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Karikal%20Mahal/AJ_Braga.png" style="width: 90%;">A.J. Braga’s exhilarating coffin act where he is straightjacketed and escapes from a sealed coffin. <i>Courtesy of Ochre Pictures.</i></div>
+<img src="/images/Online%20Only%20Articles/Karikal%20Mahal/AJ_Bragav2.png" style="width: 60%;">A.J. Braga’s exhilarating coffin act where he is straightjacketed and escapes from a sealed coffin. <i>Courtesy of Ochre Pictures.</i></div>
 
 #### **House of Horror**
 
@@ -78,7 +78,7 @@ In the final episode, the once opulent and palatial Karikal Mahal is now an inte
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Karikal%20Mahal/Thomas_Kitching.png" style="width: 90%;">Re-enactment of Thomas Kitching in Fullerton Building on the day Singapore was bombed (left) and writing in his diary while interned in Karikal Mahal (right). <i>Courtesy of Ochre Pictures.</i></div>
+<img src="/images/Online%20Only%20Articles/Karikal%20Mahal/Thomas_Kitchingv2.png" style="width: 60%;">Re-enactment of Thomas Kitching in Fullerton Building on the day Singapore was bombed (top) and writing in his diary while interned in Karikal Mahal (bottom). <i>Courtesy of Ochre Pictures.</i></div>
 
 By drawing on materials from NAS and NewspaperSG, we were able to enhance the experiences Kitching wrote about in his diary. While locating specific archival images to match his exact descriptions proved challenging, we managed to find similar visuals that effectively depicted scenes reminiscent of key moments, such as the atmosphere around Fullerton Building on the morning the Japanese forces invaded Singapore, or the journey of captured European civilians marching to Karikal Mahal. These elements helped convey the atmosphere and context of that time.
 
@@ -103,3 +103,5 @@ For us, Karikal Mahal wasn’t just a setting; she was a living, breathing chara
 [^1]:  William L. Gibson also wrote “[Karikal Mahal: The Lost Palace of a Fallen Cattle King](https://biblioasia.nlb.gov.sg/vol-16/issue-3/oct-dec-2020/karikal/)” (2020), “[Unravelling the Mystery of Ubin’s German Girl Shrine](https://biblioasia.nlb.gov.sg/vol-17/issue-3/oct-dec-2021/ubinsgermangirlshrine/)” (2021) and “[The Origin Stories of Keramat Kusu](https://biblioasia.nlb.gov.sg/vol-18/issue-4/jan-mar-2023/shrines-keramat-kusu/)” (2023).
 
 [^2]:  William L. Gibson, “[Karikal Mahal: The Lost Palace of a Fallen Cattle King](https://biblioasia.nlb.gov.sg/vol-16/issue-3/oct-dec-2020/karikal/),” BiblioAsia, published October 2020.
+
+[^3]:  Jaime Koh, “[Chettiars](https://www.nlb.gov.sg/main/article-detail?cmsuuid=013561b0-95db-445e-b5f4-1aac8b04fdf1),” Singapore Infopedia, published 10 December 2013.
