@@ -40,7 +40,7 @@ Our writers and director drew extensively from these historical records to craft
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Karikal%20Mahal/Image_Chettiar_new.jpg" style="width: 50%;"><a href="https://www.nas.gov.sg/archivesonline/photographs/record-details/27117714-1162-11e3-83d5-0050568939ad">Image</a> of a Chettiar used as a reference for the series. Here, the Chettiar, likely a moneylender, sits at his low wooden table in his <i>kittangi</i>, c.1950–70. <i>Sharon Siddique, courtesy of National Archives of Singapore.</i></div>
+<img src="/images/Online%20Only%20Articles/Karikal%20Mahal/Image_Chettiar_new.jpg" style="width: 50%;">Image of a Chettiar used as a reference for the series. Here, the Chettiar, likely a moneylender, sits at his low wooden table in his <i>kittangi</i>, c.1950–70. <i>Sharon Siddique, courtesy of National Archives of Singapore.</i></div>
 
 <div style="background-color: white;">
 <br>
@@ -52,7 +52,7 @@ We also worked closely with Senior Librarian Gracie Lee from the National Librar
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Karikal%20Mahal/Magic_Fanv2.jpg" style="width: 80%;">Copies of <i>The Magic Fan</i> are held in the National Library Singapore’s collection.</div>
+<img src="/images/Online%20Only%20Articles/Karikal%20Mahal/Magic_Fanv2.jpg" style="width: 80%;">Copies of <i>The Magic Fan</i> are held in the National Library Singapore’s collection. <i>Courtesy of Ochre Pictures.</i></div>
 
 <div style="background-color: white;">
 <br>
@@ -90,7 +90,7 @@ The vast amount of research we did for this series transformed the way we approa
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Karikal%20Mahal/bowingv2.png" style="width: 60%;">Re-enactment of civilian internees bowing to Japanese officers and cleaning the floors as part of daily camp duties in Karikal Mahal. <i>Courtesy of Ochre Pictures.</i></div>
+<img src="/images/Online%20Only%20Articles/Karikal%20Mahal/bowingv2.png" style="width: 50%;">Re-enactment of civilian internees bowing to Japanese officers and cleaning the floors as part of daily camp duties in Karikal Mahal. <i>Courtesy of Ochre Pictures.</i></div>
 
 For us, Karikal Mahal wasn’t just a setting; she was a living, breathing character. Her walls held the echoes of triumph, tragedy and mystery, and it was our responsibility to give her a voice – one that honoured Singapore’s layered history as our nation marks 60 years of independence this year. Storytelling like this invites audiences to connect with our past, offering them a window into the struggles and humanity of a different time. Karikal Mahal’s tale is just one of many waiting to be rediscovered and brought to life. The next time you go past an “old building”, stop and listen – what secrets and stories do their walls hold?
 
