@@ -1,6 +1,6 @@
 ---
 title: "Signs of Progress: Deaf Education in Singapore"
-permalink: /holding-area/signs-of-progress-deaf-education-in-singapore/
+permalink: /vol-21/issue-1/apr-jun-2025/deaf-education-singapore-sign-language/
 variant: markdown
 description: ""
 ---
