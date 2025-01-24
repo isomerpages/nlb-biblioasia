@@ -1175,5 +1175,5 @@ sections:
       button: Forgotten stories brought to life
       url: /places-and-buildings/more/2025/1/karikal-mahal-cattle-king-malayan-magic-circle-internment-camp
       image: /images/Online Only Articles/Karikal Mahal/Karikal_Topic.jpg
-      alt: Image alt text
+      alt: Karikal Mahal
 ---
