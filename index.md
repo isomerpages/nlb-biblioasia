@@ -1166,4 +1166,14 @@ sections:
       image: /images/Vol 19 Issue 4/An Interview with Rachel Heng/book
         cover_homepage3.jpg
       alt: The Great Reclamation
+  - infopic:
+      title: "Karikal Mahal: Stories Reimagined and Retold"
+      subtitle: Places and Buildings
+      id: infopic
+      description: History, research and compelling storytelling come together to
+        bring the story of Karikal Mahal to life.
+      button: Forgotten stories brought to life
+      url: /places-and-buildings/more/2025/1/karikal-mahal-cattle-king-malayan-magic-circle-internment-camp
+      image: /images/Online Only Articles/Karikal Mahal/Karikal_Topic.jpg
+      alt: Image alt text
 ---
