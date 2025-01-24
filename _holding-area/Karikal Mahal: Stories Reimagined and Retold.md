@@ -90,7 +90,7 @@ The vast amount of research we did for this series transformed the way we approa
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Karikal%20Mahal/bowing.png" style="width: 50%;">Re-enactment of civilian internees bowing to Japanese officers and cleaning the floors as part of daily camp duties in Karikal Mahal. <i>Courtesy of Ochre Pictures.</i></div>
+<img src="/images/Online%20Only%20Articles/Karikal%20Mahal/bowingv2.png" style="width: 50%;">Re-enactment of civilian internees bowing to Japanese officers and cleaning the floors as part of daily camp duties in Karikal Mahal. <i>Courtesy of Ochre Pictures.</i></div>
 
 For us, Karikal Mahal wasn’t just a setting; she was a living, breathing character. Her walls held the echoes of triumph, tragedy and mystery, and it was our responsibility to give her a voice – one that honoured Singapore’s layered history as our nation marks 60 years of independence this year. Storytelling like this invites audiences to connect with our past, offering them a window into the struggles and humanity of a different time. Karikal Mahal’s tale is just one of many waiting to be rediscovered and brought to life. The next time you go past an “old building”, stop and listen – what secrets and stories do their walls hold?
 
