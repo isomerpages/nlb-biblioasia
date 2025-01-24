@@ -22,7 +22,7 @@ The National Archives of Singapore (NAS) was an invaluable resource in reimagini
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Karikal%20Mahal/20120000752_img0058.jpg" style="width: 80%;">A 1958 aerial view of Telok Kurau in eastern Singapore, with seaside bungalows along Marine Parade Road visible. This area is around today’s Kuo Chuan Avenue and Still Road South. The estate on the right by the sea is the former Karikal Mahal, through which Still Road South now runs through. <i>British Royal Air Force, courtesy of National Archives of Singapore.</i></div>
+<img src="/images/Online%20Only%20Articles/Karikal%20Mahal/20120000752_img0058.jpg" style="width: 80%;">A 1958 aerial view of Telok Kurau in eastern Singapore, with seaside bungalows along Marine Parade Road visible. This area is around today’s Kuo Chuan Avenue and Still Road South. The estate on the right by the sea is the former Karikal Mahal, through which Still Road South now runs through. <i>Aerial photographs by the British Royal Air Force between 1940 to 1970s, from a collection held by the National Archives of Singapore. Crown copyright.</i></div>
 
 From there, we were able to digitally recreate Karikal Mahal in all its glory. To provide a more immersive experience for the audience, CNA also commissioned a [website](https://cna.asia/history-unveiled) that allows visitors to explore Karikal Mahal. The flythrough offers a virtual tour of various physical spaces and items of interest within the compound, providing intriguing details we uncovered during our research but were not included in the main series.
 
