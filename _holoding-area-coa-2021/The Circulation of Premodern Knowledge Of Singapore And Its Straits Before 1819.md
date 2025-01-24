@@ -514,5 +514,16 @@ Timothy Pwee and Heirwin bin Mohd Nasir have been a great help during the course
 of my research. I would also like to thank Dr Seah Cheng Ta for the company and
 conversations throughout my fellowship stint at the library.*
 
+<br>
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/benjamin_khoo.png">
+<b>Benjamin J. Q. Khoo</b> is a research associate at the Asia Research Institute, National
+University of Singapore. He holds a BA in history and European studies from the
+National University of Singapore, and an MA in colonial and global history from
+Leiden University. A former Lee Kong Chian Research Fellow, Benjamin studies
+the histories of the early modern world, with a focus on networks of knowledge and
+diplomatic encounters in Asia.</div>
+
 
 
