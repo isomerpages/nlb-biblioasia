@@ -154,8 +154,92 @@ such: Singapore was a place of danger, division, antiquity and concentration.
 The impressions occasionally overlap but hardly deviate from these patterns
 of description.
 
+***A place of danger***
 
+The immediate impression a reader would have had of Singapore and its
+straits was that it was a place of great danger. A combination of fierce
+storms, difficult seascape, and vulnerability to ambush led the area around
+Singapore, in particular its channel, to gain a certain notoriety. The
+Portuguese writers João de Barros and Brás de Albuquerque referred to
+Singapore as *falsa demora*, which meant a tricky place to interrupt one’s
+voyage or a place where ships were lost while waiting.17 Irregular and rapid
+tides, hidden sandbanks and treacherous rocks made navigation risky and
+caused many ships to meet with shipwreck. The ships carrying the Japanese
+Tenshō embassy to Rome in 1584 met with such a mishap, hitting a shallow rock in the Singapore straits and losing their valuable cargo, although the
+crew was thankfully saved from danger.18 Another account was penned
+by the Spanish Dominican priest Domingo Navarrete, who crossed the
+straits of Singapore around the mid-17th century. Navarrete wrote, too,
+about how other sailors in Canton faced difficulties in sailing through the
+narrow passage and overdramatised the violent currents that “whirl’d a
+ship about with its sails abroad”.19 When the Italian priest Matteo Ripa
+travelled from Melaka to Manila in 1708, the Armenian ship he was on
+hit submerged rocks in shallow waters and was about to founder off the
+island of Singapore. Matteo was said to have performed a miracle, and the
+ship eventually sailed on safely.20 These three incidents from three different
+centuries are some of the many incidents that made plain to readers the
+dangers of geography around Singapore.
 
+There were also numerous instances of local attacks on Europeans in
+the Singapore region. Readers today would be familiar with the account
+of Jacques de Coutre (not published until the 20th century), who was
+ambushed by Orang Laut vessels off present-day Sentosa in the 17th
+century.21 Yet his account was not unique. European readers back then
+could read the account of Portuguese priest Melchior Barreto, who was
+attacked en route to Macao in the 16th century. When Barreto’s Portuguese
+caravel ran aground in the Singapore straits in April 1555, the party was
+attacked by 50 local Orang Laut perahu22 that fell upon them with loud
+screams.23 Occasionally, the area in and around Singapore was the setting
+for battles between Malay kingdoms and became perilous for Europeans
+caught in the crossfire. For example, the Spanish Friar Diego Aduarte witnessed 80 large galleys belonging to the Sultan of Aceh pitched for battle
+in the Singapore straits against those of Johor.24 The incoming Governor of
+Macao, Antonio de Albuquerque Coelho, who wintered in Johor in 1717,
+wrote his account of Raja Kecil of Siak, who assembled a large and powerful
+fleet at the mouth of the Singapore straits in preparation to conquer Johor.25
+These accounts in European literature undoubtedly helped to shape the
+perception of Singapore and its straits as a place of mortal danger.
+
+***A place of division***
+
+As geographical knowledge expanded with discovery and conquest,
+early European cartographers and geographers tried to reconcile the new
+information with existing knowledge from ancient Ptolemaic geography. As
+sailors relied on visual landmarks to navigate past the maze of islands at the
+tip of the Malay Peninsula, prominent outcroppings such as Batu Berlayar
+(Batu Berlayar Point, Labrador Park) and Pedra Branca, as well as hilly
+landforms such as Mount Berbukit (Bukit Pelali, Pengarang) and Romania
+Point (Tanjung Penyusop) in the region became important navigation
+markers. This information likely circulated back to Europe and created the
+misperception that one of the elevated landforms was Singapore, which
+agreed with Ptolemy’s 2nd-century description of a cape and city located at
+the southernmost tip of Asia. Singapore thus came to be referenced as a cape
+from the 16th century onwards.
+
+Singapore’s mistaken identification as a prominent promontory in texts
+and maps led to it being taken as a notional marker of division. Singapore
+was cited in the Portuguese poem, *Os Lusíadas* by Luís Vaz de Camões
+(1572), as a turning point, and João de Barros’s *Da Ásia* (1562) divided the
+sixth and the seventh part of the East Indies from “Cape Singapura”.26
+This divisional marker was adopted by later writers such as Faria y Sousa
+(1666–75) and the geographer Pierre Duval, the editor of François Pyrard’s travelogue (1679).27 Other writers made this distinction for practical
+reasons, since two maritime zones (the South China Sea and the Bay of
+Bengal) overlapped around the Singapore region.28 This idea of transition
+is memorably expressed in Albuquerque’s *Commentaries* (1576), which
+referenced Portuguese ships arriving at the “gate” (*porta*) of Singapore,
+demarcating a point of crossing.29 The repeated assertions created by
+cartography and writing reinforced the mental geography of Singapore
+and its straits as a dividing point between two different regions of Asia
+(Figure 1).
+
+Besides dividing the two maritime zones, the “cape” of Singapore
+was also seen as separating the Asian mainland from the island world
+of Southeast Asia, notably from Sumatra and Java. Thomas Herbert’s
+observation that Singapore was a former trading town that marked the
+southernly cape of the Asian continent and divided it from Sumatra was a
+common impression at the time. This statement would become the standard
+definition in most encyclopaedia and dictionary entries in the 18th century.30
+These assumptions of Singapore as a cape and dividing marker came to be
+deeply entrenched in European thought and proved resilient well into the
+19th century.
 
 
 
