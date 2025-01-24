@@ -84,7 +84,7 @@ By drawing on materials from NAS and NewspaperSG, we were able to enhance the ex
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Karikal%20Mahal/Katong_interneesv2.png" style="width: 60%;">A.J. Braga’s exhilarating coffin act where he is straightjacketed and escapes from a sealed coffin. <i>Courtesy of Ochre Pictures.</i></div>
+<img src="/images/Online%20Only%20Articles/Karikal%20Mahal/Katong_interneesv2.png" style="width: 60%;">Re-enactment of civilian internees marching to Katong and arriving at the gates of Karikal Mahal. <i>Courtesy of Ochre Pictures.</i></div>
 
 The vast amount of research we did for this series transformed the way we approach storytelling. Unearthing historical details allowed us to ground our narrative in authenticity while weaving in layers of depth and nuance. These discoveries helped us create scenes that felt true to their time yet resonated with universal emotions, making the characters’ journeys relatable and compelling. By blending the factual rigour of history with the emotional resonance of drama, we turned dry facts into human-centered stories that transported viewers to another time and place.
 
