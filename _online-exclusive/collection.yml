@@ -2,6 +2,7 @@ collections:
   online-exclusive:
     output: true
     order:
+      - "Karikal Mahal: Stories Reimagined and Retold.md"
       - "Nanjing to Nanyang: Missionary Sojourns to Singapore and Christian
         Educational Missions in the 1950s.md"
       - A Kampong for the Grand Old Man of Singapore.md
