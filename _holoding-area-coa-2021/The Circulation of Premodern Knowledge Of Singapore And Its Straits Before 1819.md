@@ -526,4 +526,98 @@ the histories of the early modern world, with a focus on networks of knowledge a
 diplomatic encounters in Asia.</div>
 
 
+#### **Bibliography**
+
+         
+
+Abreu, Antonio José Alvarez De. _Extracto Historial Del Expediente Que Pende En El Consejo Real, Y Supremo De Las Indias, a Instancia de la Ciudad De Manila, Y Demas De Las Islas Philipinas_ \[Historical Extract of the Record pending in the Royal and Supreme Council of the Indies, at the request of the City of Manila, and Others of the Philippine Islands\]. Madrid: Juan de Ariztia, 1736.
+
+Aduarte, Diego De. _Tomo Primero de la Historia de la Provincia Del Santo Rosario De Filipinas, Iapon Y China, de la Sagrada Orden De Predicadores_ \[First volume of the history of the province of Santo Rosario of the Philippines, Japan and China, of the Sacred Order of Preachers\]. Zaragoça: por Domingo Gasçon, 1693.
+
+Albuquerque, Brás De. [_Commentarios Do Grande Afonso Dalboquerque, Capitão Gerai Que Foi Das Indias Orientaes Em Tempo Do Muito Poderoso Rey D. Manuel, O Primeiro Deste Nome_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203982735)_,_ Parte III \[Commentaries of the Great Afonso Dalboquerque, who was Captain- General of the East Indies in the time of the very powerful King D. Manuel, the first of his name, part three\]. Lisboa: Na Regia Officina Typografica, 1774. (Call no. RRARE 946.902 ALB)
+
+Anonymous. _Diversi Avisi Particolari dall’Indie Di Portogallo Ricevuti, Dall’anno 1551 Fino Al 1558 Dalli Reverendi Padri Della Compagnia Di Giesu_ \[Various special reports from the Indies of Portugal received from the year 1551 to 1558 by the Reverend Fathers of the Company of Jesus\]. Vol. 1. Venice: Michele Tramezzino, 1565.
+
+Anonymous. _Encyclopedia Perthensis, etc._ 2nd ed. Vol. 21. Edinburgh: John Brown, etc, 1816.
+
+Anonymous. _The Modern Part of an Universal History, etc_. 44 vols. London: Printed for S. Richardson et al., 1759–66.
+
+Barros, Joao de. [_Da Asia De Joao De Barros, Dos Feitos, Que Os Portuguezes Fizeram No Descubrimento, E Conquista Dos Mares, E Terras Do Oriente. Decada Primeira, Parte Segunda_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12283902) \[Asia of João de Barros: The deeds of the Portuguese in the discovery and conquest of the seas and lands of the Orient, first decade, second part\]. Lisboa: Na Regia Officina Typografica, 1777. (Call no. RRARE 915.4042 BAR)
+
+—. _Dell’Asia la Seconda Deca del S. Giovanni di Barros_ \[Asia, the second decade of João de Barros\]. Venetia: Appreso Vincenzo Valgrisio, 1562.
+
+—. _Ongemeene scheeps-togten en manhafte krygs-bedryven te water en te land door Diego Lopez de Sequeira, als kapitein general en gouverneur ter voortzetting van der Portugyzen gebied en vryen koophandel in de Oost-Indien, met IX scheepen derwaarts gedaan, in ‘t jaar 1518, etc._ \[Remarkable naval excursions and military manoeuvres on water and land by Diego Lopez de Sequeira, as Captain General and Governor for the expansion of the Portuguese territory and free trade in the East Indies, with IX ships to the year 1518\]. Leiden: Pieter van der Aa, 1707. (Call no. RRARE 910.41 BAR-\[FAN\])
+
+—. [_Roemwaardige Scheeps-Togten En Dappere Krygs-Bedryven Ter Zee En Te Land, Onder ’T Bestuur Van Don Duarte De Menezes, Als Opperhoofd Van De Vloot En Gouverneur Van Oost-Indien, Ter Aflossing Van Den Heer Generaal Diego Lopez De Sequeira, Met XII Schepen Uit Portugaal Derwaarts Gedaan, in ’T Jaar 1521,etc_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13180907). \[Famous voyages and valiant war-forces at sea and on land, under the leadership of Don Duarte de Menezes, as chief of the fleet and governor of the East Indies, in replacement of the Lord General Diego Lopez de Sequeira, with XII ships from Portugal to the East Indies, in the year 1521, etc.\]. Leiden: Pieter van der Aa, 1706. (Call no. RRARE 954.025 MEN-\[KSC\].
+
+Bartoli, Daniello. _Compendio Della Vita, E Morte Del P. Marcello Mastrilli Della Compagnia Di Giesu, etc_. \[Compendium of the life, and death of Fr. Marcello Mastrilli of the Company of Jesus, etc.\]. Napoli: Luc’Antonio di Fusco, 1671.
+
+Borschberg, Peter. “European Records for the History of Singapore before 1819.” In [_An Old New World: From the East Indies to the Founding of Singapore, 1600s–1819_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203962935). Edited by Stephanie Yeo, 6–18. Singapore: National Museum of Singapore, 2019. (Call no. RSING 959.57 NAT-\[HIS\])
+
+—. [_The Memoirs and Memorials of Jacques de Coutre: Security, Trade and Society in 17th-Century Southeast Asia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200128111). Singapore: NUS Press, 2014. (Call no. RSING 959 COU)
+
+—. “Portuguese, Spanish and Dutch Plans to Construct a Fort in the Straits of Singapore, ca. 1584–1625.” [_Archipel_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=967127) 65 (2003): 55–88. (Call no. R 959.005 A)
+
+—. “Security, VOC Penetration and Luso-Spanish Co-operation: The Armada of Philippine Governor Juan de Silva in the Straits of Singapore, 1616.” In [_Iberians in the Singapore-Melaka Area and Adjacent Regions (16th to 18th Century)_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12493225), edited by Peter Borschberg, 35–62. Wiesbaden and Lisbon: Harrassowitz and Fundação Oriente, 2004. (Call no. RSING 959.50046 IBE)
+
+—. “The Seizure of the Sta. Catarina Revisited: The Portuguese Empire in Asia, VOC Politics and the Origins of the Dutch-Johor Alliance (1602–c.1616).” _Journal of Southeast Asian Studies_ 33, no. 1 (2002): 31–62.
+
+—. [_The Singapore and Melaka Straits: Violence, Security and Diplomacy in the 17th Century_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13218095). Singapore: NUS Press, 2010. (Call no. RSING 911.16472 BOR)
+
+Carvalho, Miguel Botelho de. _La Filis._ Madrid: Por Iuan Sanchez, 1641.
+
+Chardin, Jean_. Voyages De Monsieur Le Chevalier, En Perse, Et Autre Lieux De L’Orient. Tome Dixieme_ \[Travels of Sir Chevalier into Persia, and other places of the Orient\]. Amsterdam: Jean Louis de Lorme, 1711.
+
+Chong, Terence. “The Bicentennial Commemoration: Imagining and Re-imagining Singapore’s History.” [_Southeast Asian Affairs_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4183690) (2020): 323–33. (Call no. RSING 959 SAA)
+
+Churchill, Awnsham and John Churchill. [_A Collection of Voyages and Travels, Some Now First Printed from Original Manuscripts, Others Now First Published in English_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4403049), 6 vols. London: J. Walthoe, 1732. (Call no. RRARE 910.8 CHU)
+
+Commelin, Isaac_. Begin Ende Voortgangh Van De Vereenighde Nederlantsche Geoctroyeerde Oost-Indische Compagnie, etc., Vol. II_ \[Origin and progress of the Dutch East India Company\]. Amsterdam: n.p., 1646. (Call no. RRARE 910.9492 BEG)
+
+Dampier, William. [_Dampier’s Voyages: Consisting of a New Voyage Round the World \[…\]_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5640758). Edited by John Masefield. London: E Grant Richards, 1906. (Call no. RCLOS 910.41 DAM-\[GBH\])
+
+De Camoes, Luís. _Os Lusíadas_ \[The Lusiads\]. Translated by R. F. Burton. 2 vols. London: Bernard Quaritch, 1880.
+
+Defoe, Daniel. _The Life, Adventures, and Pyracies, of the Famous Captain Singleton._ London: Printed for J. Brotherton, 1720.
+
+—. _A New Voyage Round the World._ London: G. Read, 1730.
+
+Delmas, Adrien. “Writing History in the Age of Discovery, According to La Popelinière, 16th–17th Centuries.” In [_The Dutch Trading Companies as Knowledge Networks_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200872167), edited by Siegfried Huigen, Jan L. de Jong and Elmer Kolfin, 295–318. Leiden: Brill, 2010. (Call no. R 306.4 DUT)
+
+Lim, Arthur Joo-Jock. “Geographical Setting.” In [_A History of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5914108), edited by Ernest Chew and Edwin Lee, 3–14. Singapore: Oxford University Press, 1991. (Call no. RSING 959.57 HIS-\[HIS\])
+
+Lisle, Debbie. _The Global Politics of Contemporary Travel Writing_. Cambridge: Cambridge University Press, 2006.
+
+Maclean, Gerald. “Early Modern Travel Writing (I): Print and Early Modern European Travel Writing.” In _The Cambridge History of Travel Writing_, edited by Nandini Das and Tim Youngs, 52–76. Cambridge: Cambridge University Press, 2019.
+
+Marcocci, Giuseppe. _The Globe on Paper: Writing Histories of the World in Renaissance Europe and the Americas_. Oxford: Oxford University Press, 2020.
+
+Miksic, John, and Cheryl-Ann Low Mei Gek, eds. [_Early Singapore, 1300s-1819: Evidence in Maps, Text, and Artefacts_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12284523). Singapore: Singapore History Museum, 2005. (Call no. RSING 959.5703 EAR-\[HIS\])
+
+Münster, Sebastian_. Cosmographia Oder Beschreibung Der Gantzen Welt etc._ \[Cosmography or Description of the whole World, etc.\]. Facsimile reproduction of the Basel edition of 1628. Lindau: Antiqua Verlag, 1978.
+
+Parthesius, Robert_._ [_Dutch Ships in Tropical Waters: The Development of the Dutch East India Company (VOC) Shipping Network in Asia, 1595–1660_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202436665). Amsterdam: Amsterdam University Press, 2010. (Call no. RSEAS 387.509598 PAR)
+
+Pettegree, Andrew. “Centre and Periphery in the European Book World.” _Transactions of the Royal Historical Society_ 6, no. 18 (2008): 101–28. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Pettegree, Andrew and Arthur der Weduwen, [_The Bookshop of the World: Making and Trading Books in the Dutch Golden Age_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203909919). New Haven: Yale University Press, 2019. (Call no. RBUS 381.45002 PET-\[BIZ\])
+
+Pinkerton, John. _Modern Geography, etc_. London: Printed for T. Cadell and W. Davies, etc., 1807.
+
+Preston, Peter. [_Singapore in the Global System: Relationship, Structure and Change_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14641380). New York: Routledge, 2012. (Call no. RSING 306.095957 PRE)
+
+Pyrard, François. _Voyage de François Pyrard de Laval_. Paris: Chez Louis Billaine, 1679.
+
+—. [_The Voyage of Francois Pyrard of Laval to the East Indies, the Maldives, the Moluccas, and Brazil_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4402069). Edited by Albert Gray. London: Hakluyt Society, 1887. (Call no. RCLOS 910.8 HAK-\[GBH\])
+
+Schleck, Julia. “Forming Knowledge: Natural Philosophy and English Travel Writing.” In _Travel Narratives, the New Science, and Literary Discourse, 1569–1750_, edited by Judy A. Hayden, 53–70. New York: Routledge, 2012.
+
+Sheehan, J. J. [_Seventeenth-Century Visitors to the Malay Peninsula_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202762730). Singapore: Malayan Branch of the Royal Asiatic Society, 1934. (Call no. RCLOS 915.95 SEV-\[JSB\])
+
+Sim, Meijun Sophie. “Fishing Tales: Singapura Dilanggar Todak as Myth and History in Singapore’s Past.” Master’s thesis, National University of Singapore, 2005.
+
+Skott, Christina. “Imagined Centrality: Sir Stamford Raffles and the Birth of Modern Singapore.” In [_Singapore from Temasek to the 21st Century: Reinventing the Global_ City](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13598385), edited by Karl Hack, Jean-Louis Margolin and Karine Delaye, 155–84. Singapore: NUS Press, 2010. (Call no. RSING 959.57 SIN)
+
+Swettenham, Frank. [_British Malaya: An Account of the Origin and Progress of British Influence in Malaya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12630215). London: George Allen and Unwin, 1948. (Call no. RCLOS 959.5 SWE-\[GBH\])
+
 
