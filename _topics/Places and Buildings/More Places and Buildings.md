@@ -5,6 +5,13 @@ description: ""
 third_nav_title: Places and Buildings
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/places-and-buildings/more/2025/1/karikal-mahal-cattle-king-malayan-magic-circle-internment-camp/">Karikal Mahal: Stories Reimagined and Retold</a>
+
+History, research and compelling storytelling come together to bring the story of Karikal Mahal to life.
+
+<img src="/images/Online%20Only%20Articles/Karikal%20Mahal/Karikal_Topic.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/places-and-buildings/2024/9/lim-boon-keng-mansion-kampong/">A Kampong for the “Grand Old Man of Singapore”</a>
 
 Due to development and urbanisation, Lim Boon Keng’s last home at Paterson Hill no longer exists today.
