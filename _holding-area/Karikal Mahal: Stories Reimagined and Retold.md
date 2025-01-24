@@ -52,7 +52,7 @@ We also worked closely with Senior Librarian Gracie Lee from the National Librar
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Karikal%20Mahal/Magic_Fan.jpg" style="width: 80%;">Copies of <i>The Magic Fan</i> are held in the National Library Singapore’s collection. <i>Courtesy of Ochre Pictures.</i></div>
+<img src="/images/Online%20Only%20Articles/Karikal%20Mahal/Magic_Fanv2.jpg" style="width: 80%;">Copies of <i>The Magic Fan</i> are held in the National Library Singapore’s collection. <i>Courtesy of Ochre Pictures.</i></div>
 
 <div style="background-color: white;">
 <br>
