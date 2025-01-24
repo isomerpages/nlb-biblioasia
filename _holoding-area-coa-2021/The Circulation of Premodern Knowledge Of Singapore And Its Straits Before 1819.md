@@ -358,5 +358,76 @@ and always at risk of the Dutch.”51 This opinion of Dutch concentration
 of ships in the region is also prevalent in other European writings of the
 18th century.
 
+#### **Questioning Knowledge**
+
+Having examined the number and types of references to Singapore and its
+straits before 1819, and the four consistent impressions that a premodern
+European reader would have formed, we can now ask: what role do these
+references have to play in the context of Singapore’s history? There are four
+main ways that these references in European literature can still be useful for
+rethinking and writing about Singapore’s past.
+
+***A bridgehead***
+
+As suggested by other scholars, these references help us to connect
+Singapore’s pre-1819 past with its present and clarify its place in the
+region. Historians today are identifying and retrieving materials relevant
+to Singapore to build a longer 700-year history. Although the post-1819
+historical narrative is still more substantial, the more detailed references
+found in European literature help add more episodes and evidence
+that testify to Singapore’s precolonial past.52 The other smaller and less
+descriptive references might not always indicate settlement and activity on
+the island, but they nevertheless help us to better contextualise Singapore
+within the region and (re)consider its connections to other places in
+Southeast Asia.53 Furthermore, some scholars argue that Singapore can be
+seen to have repeatedly reinvented itself in response to the geographical
+and cultural changes, with notable up-and-down cycles.54 These references
+testify that in the three centuries before 1819, even though we know little
+about what was happening on the island, Singapore was far from forgotten
+and still made an impression in the thoughts of readers far away in Europe.
+
+***Formation of knowledge***
+
+These references also provide a first step towards understanding the
+formation of knowledge of Singapore and its straits. By looking at how
+knowledge was formed and circulated through these references, we better
+understand how we arrived at vague and contradictory descriptions of
+Singapore before 1819.
+
+The first reason has to do with the elasticity of the name. European
+travellers applied the name to a variety of landforms and seascapes in
+and around the Singapore region, which has led to confusion over what
+exactly is being referred to. A second reason has to do with the growth of
+different strands of knowledge. While in the early 16th century references
+to Singapore as a city and cape arose because writers attempted to reconcile
+newer discoveries with classical Ptolemaic knowledge,55 the Portuguese
+chronicles and later travel writing were responsible for putting into
+circulation knowledge about Singapore’s earlier incarnations as a strait,
+capital and kingdom. The result was several competing descriptions or
+definitions of Singapore, which led to significant confusion regarding
+Singapore as a place in time. It is sometimes possible to read these errors or
+inconsistencies within the same publication. For example, in the celebrated
+Dutch collection of voyages, *Begin en Voortgangh van de Oost-Indische
+Compagnie* (Origin and progress of the Dutch East India Company; 1646)
+by the Amsterdam publisher Isaac Commelin, Singapore appears in the
+course of 17 pages as a city (*stadt*), a cape (*cabo*), a strait (*strate*) and a village
+(*dorp*).56 It is clear that these references to Singapore and its straits reflect a
+mix of current, classical and historical knowledge – all in the same work. A
+third reason has to do with the transmission of knowledge, which increased
+confusion about Singapore over time. Writers who had never visited the
+East Indies wrote about these places based on the books that were at their
+disposal. Even though this demonstrated engagement with knowledge of
+Singapore and increased the number of references, they also multiplied the
+confusion already extant in publications.57
+And as dictionaries and encyclopaedias began to proliferate on the
+market in the 18th century, compilers began to draw information from
+various travel accounts and publications to produce standardised definitions
+of peoples, places and things.58 Because various definitions were repeatedly
+copied and rearranged in disregard of time and context, these entries lost touch with the realities they described. In many compendia, it would not
+be out of place to read this entry on Singapore found in the *Encyclopaedia
+Perthensis*, published in 1816, just three years before the founding of a British
+trading post in Singapore.
+
+
 
 
