@@ -2,7 +2,6 @@ collections:
   holding-area:
     output: true
     order:
-      - "Karikal Mahal: Stories Reimagined and Retold.md"
       - "Rites of Rehabilitation: The Social Work of the Zhenkongjiao in
         Singapore.md"
       - Sample Test2.md
