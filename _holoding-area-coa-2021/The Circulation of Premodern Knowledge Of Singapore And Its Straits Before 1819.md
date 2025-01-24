@@ -241,6 +241,122 @@ These assumptions of Singapore as a cape and dividing marker came to be
 deeply entrenched in European thought and proved resilient well into the
 19th century.
 
+***A place of antiquity***
+
+As Swettenham had surmised, Europeans had access to knowledge about
+Singapore’s antiquity. We can trace two strands of knowledge: from
+the Portuguese chronicles in the 16th century and through the Dutch
+minister François Valentijn’s writings in the early 18th century. Several
+Portuguese writers in the early 16th century, such as João de Barros and
+Brás de Albuquerque, had written parts of Singapore’s early history. This
+knowledge of Singapore’s antiquity did not arise from an intrinsic interest
+in Singapore’s past per se, but was prompted by concerns over administering
+Melaka as a new Portuguese colony after its capture in 1511. The broad
+outline of this story focuses on the exploits of Parameswara, particularly his
+flight from Palembang after his unsuccessful revolt, his arrival in Singapore,
+the subsequent murder of his host and usurpation of both the kingship
+and kingdom. After being driven out of Singapore, he went on to establish
+Melaka, which became famous as a trading emporium. This information
+likely stemmed from the oral accounts that the Portuguese collected after
+becoming masters of the port and town of Melaka. This knowledge sheds
+light on not only Singapore’s antiquity, but also its connections with the
+wider Malay world.31
+
+These Portuguese writings circulated throughout Europe, spreading
+knowledge of Singapore and the wider straits region to curious audiences. 
+
+One such circuit took it to 16th-century Italy, to humanist centres such as
+Florence and Venice.32 Barros’s account (1562) was translated into Italian
+within a year and was cited by the geographer Giovanni Battista Ramusio.33
+Ramusio was an avid collector and compiled his own set of travel writings,
+including an abridged extract of the Portuguese apothecary Tomé Pires’s
+*Suma Oriental* (1512–15), a work not published until 1944.34 Other snippets
+of the Singapore story found in Barros’s or Albuquerque’s accounts were
+cited in the celebrated *Cosmographia* (1628), attributed to the German
+geographer Sebastian Münster, bringing knowledge to German readership.35
+Another circuit of knowledge took it to France and England. The French
+traveller Vincent le Blanc’s account (1662), for example, mentioned “a certain
+tyrant who had wanted to seize the state of Singapore […] which was the
+entry to all the Orient and commanded the whole country”.36 Similarly,
+the third volume of the English cleric Peter Heylyn’s *Cosmographie* (1652)
+contained an account of Parameswara, which also explained how Singapore
+could be considered as the mother of Melaka.37 These three accounts of the
+17th century show how far knowledge originating from Portuguese writings
+of Singapore and its straits had circulated.
+
+
+In the 18th century, Barros’s and Albuquerque’s accounts found a
+new outlet and audience through reprinted travel collections. The most
+comprehensive anthologies were published by the Leiden publisher Van der
+Aa in the 1700s, with various other snippets and extracts republished in
+other popular collected volumes, such as the Churchill brothers’ *A Collection of Voyages and Travels* (1704) and *The Modern Part of an Universal History*
+(1759–66).38
+
+A second strand of knowledge came from Valentijn’s influential
+publication, *Oud en Nieuw Oost-Indiën* (Old and New East-Indies; 1724–26)
+(Figure 2). In composing his work, Valentijn acquired and referred to several
+Malay manuscripts, such as the *Hikayat Hang Tuah*(c. 1688–1710) and
+the *Sulalat-us Salatin* (c. 1612).39 By drawing on these sources, Valentijn
+conveyed to his readers that Singapore was not only the first city or town
+of the Malays that moreover lent its name to the nearby straits, but also the
+seat of several kings before its transfer to Melaka.40 This knowledge was later
+cited in several compendia of the late 18th century and consulted by several
+prominent writers.41 Through the knowledge distilled from acquired Malay
+manuscripts and the reprints of old Portuguese chronicles, the majority
+of readers came to know of or became familiar with the straits region and
+Singapore’s early history.
+
+***A place of concentration***
+
+Finally, Singapore and its straits have long been considered a place of
+strategic significance. Singapore’s position straddling two maritime zones has made it a key conduit for world shipping and a meeting place for
+cultures and societies. However, the area around Singapore was also a
+strategic bottleneck to concentrate military forces to harass competitors
+or jostle for influence. The importance of controlling the area around
+Singapore was not lost on the European powers. The Dutch, Portuguese and
+even the Spanish had considered establishing forts in the vicinity and had
+on various occasions gathered forces off Singapore.42
+
+Portuguese ships blockaded and fought around the Johor River in
+the 16th century. The Dutch gathered there and captured the richly laden
+Portuguese carrack *Santa Catarina* in 1603 off the coast of Singapore, where
+the Spanish armada also assembled in 1616. These exploits of large sea forces
+concentrated around Singapore could be read in the European literature of
+the day.43 (Figure 3)
+
+In the 17th century, the Dutch identified Singapore and its straits as a
+strategic chokepoint of world trade and sent *jachten*45 and sloops to cruise
+in and around the area. The high points of Dutch concentration were
+during the early years of the offensive (1602–09) and the period when they
+stepped up their attempts to capture Portuguese Melaka (1633–41). Dutch
+ships were instructed to secure their shipping lines, while disrupting those
+of the Portuguese.46 Because of the success of this operation, Singapore or the area around it became known, especially in Iberian travel literature,
+as a place where the Dutch concentrated their forces. A good number of
+travel accounts were written by priests harassed by Dutch ships while en
+route to China or Japan. For example, the Portuguese priest Gil de Abreu
+was captured in the Singapore straits and imprisoned in Batavia.47 The
+Italian Jesuit Marcello Mastril was more fortunate, narrowly escaping
+capture by three Dutch ships in the area in 1636.48 One such battle with
+the “Hollanders who fought with valiant spirits around Singapore” was
+memorialised by the Portuguese Miguel Botelho de Carvalho in the Spanish
+poem, *La Filis* (1641).49
+
+After the Dutch took Melaka in 1641 and gained ascendancy in the East
+Indies, references in the European literature of the 17th and 18th centuries
+continued to complain about Dutch concentration and control of the
+waters in and around Singapore. Jean Chardin, the French jeweller, wrote
+in his travelogue how Indian ships had to obtain passports from the Dutch
+“through favour, recommendations and presents” before they could pass
+through the Singapore straits.50 Spain and Portugal, which had colonial
+outposts in Manila and Macau and maintained trade with China, also
+opined negative views of Dutch control and their concentration of ships
+in the straits region. For example, the *Historical Extract* of Antonio José
+Alvarez de Abreu, a study of commercial relations between the Philippines
+and Spain published in 1736, states this plainly: “The commerce of these
+two cities [Manila and Macau] is sustained by the Strait of Singapore,
+and always at risk of the Dutch.”51 This opinion of Dutch concentration
+of ships in the region is also prevalent in other European writings of the
+18th century.
 
 
 
