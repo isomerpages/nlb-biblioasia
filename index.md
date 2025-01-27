@@ -9,13 +9,33 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-20/issue-4/jan-mar-2025/japanese-anglicans-world-war-two-singapore/
-      button: Japanese Anglicans in World War Two Singapore
+      url: /vol-20/issue-4/jan-mar-2025/chingay-tai-ge-procession-singapore-penang/
+      button: "Chingay in the 19th and 20th Centuries: A Community Procession in Time"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 20 Issue 4/Japanese Anglican/HeroImage_anglican3.jpg
+      background: /images/Vol 20 Issue 4/Chingay/HeroImage_chingay_3.jpg
+  - infopic:
+      title: The Search for Home, Truly (and Other National Day Songs)
+      subtitle: Music
+      id: infopic
+      description: The effort to find songs that express a national identity goes back
+        to the 1970s.
+      button: There'll always be Singapore
+      url: /vol-21/issue-1/apr-jun-2025/sing-singapore-national-day-songs/
+      image: /images/Vol 21 Issue 1/Sing Singapore/Kit_Chan_Topic.jpg
+      alt: Sing Singapore
+  - infopic:
+      title: "Karikal Mahal: Stories Reimagined and Retold"
+      subtitle: Places and Buildings
+      id: infopic
+      description: History, research and compelling storytelling come together to
+        bring the story of Karikal Mahal to life.
+      button: Forgotten stories brought to life
+      url: /places-and-buildings/more/2025/1/karikal-mahal-cattle-king-malayan-magic-circle-internment-camp
+      image: /images/Online Only Articles/Karikal Mahal/Karikal_Topic.jpg
+      alt: Karikal Mahal
   - infopic:
       title: Somerset Maugham Scandalises 1920s Singapore
       subtitle: Podcast

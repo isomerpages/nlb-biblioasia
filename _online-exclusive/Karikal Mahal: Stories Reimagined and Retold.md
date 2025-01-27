@@ -1,6 +1,6 @@
 ---
 title: "Karikal Mahal: Stories Reimagined and Retold"
-permalink: /holding-area/karikal-mahal-stories-reimagined-and-retold/
+permalink: /places-and-buildings/more/2025/1/karikal-mahal-cattle-king-malayan-magic-circle-internment-camp/
 variant: markdown
 description: ""
 ---

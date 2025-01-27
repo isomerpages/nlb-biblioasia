@@ -4,6 +4,13 @@ permalink: /topics/governance/
 description: ""
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/sing-singapore-national-day-songs/">The Search for Home, Truly (and Other National Day Songs)</a>
+
+The effort to find songs that express a national identity goes back to the 1970s.
+
+ <img src="/images/Vol%2021%20Issue%201/Sing%20Singapore/Kit_Chan_Topic.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-4/jan-mar-2025/nominated-member-of-parliament-nmp/">Providing Independent and Non-Partisan Views: The Nominated Member of Parliament Scheme</a>
 
 The NMP Scheme was set up to present more opportunities for Singaporeans to participate in politics. But its implementation in 1990 was not without controversy.

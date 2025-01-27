@@ -84,6 +84,10 @@ The 1973 Standards and Industrial Research Bill, which transformed SISIR into a 
 
 The first scheme, the Quality Certification Scheme, was rolled out in August 1969. To kickstart the scheme, the institute invited 20 manufacturers known to be adhering to international standards to participate. By 1986, 130 manufacturers were involved, with 960 distinct products being certified. A powerful incentive the government had put in place was for all government departments and statutory boards to give preference to goods certified by SISIR while making purchases.[^35] 
 
+<img src="/images/COA%202024/Prosperity%20Through%20Quality/Hallmark.jpg" style="width:50%;">
+ <div style="background-color: white;">SISIR Quality Certificate.<i> Image reproduced from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4821366"><i>Industrial News and Research</i></a> (Singapore: Singapore Institute of Standards and Industrial Research, September 1971), 6. (From National Library, Singapore, call no. RSING 607.25957).</i></div>
+
+
 Important as SISIR was in shaping the domestic market, its internationally oriented work was perhaps even more significant. The 1973 SISIR Bill also took up the question of export quality, authorising the minister-in-charge to establish schemes for quality control for export commodities, when it was necessary for the promotion of Singapore’s export trade. Commodities that fell under such schemes would be known as “notified commodities”, and each exporter had to inform SISIR of the particulars of each consignment so that it could be checked.[^36] 
 
 However, which standards were relevant to export commodities? Other countries had their own standards that exporters had to satisfy – standards that might not be identical to the relevant Singapore Standard. Therefore, under the SISIR Bill, it would be “the standard stipulated in the export contract”[^37]  that would be enforced, and only in the case that no such standard specified that the Singapore Standard would be applied instead. Successfully meeting the relevant standard would earn a certificate from SISIR for that particular consignment.[^38] 
@@ -114,6 +118,11 @@ The necessary tests varied greatly because of the nature and expectations of dif
 While SISIR’s work in mediation mostly involved testing for specifications, it was also occasionally called to mediate scientific disagreements. The case of Kenwa’s plastic bags illustrate the workings of SISIR and the specific kinds of interventions it had the authority to stage.
 
 In the late 1980s, environmentalism surged across the world, and Singapore was no exception. Seeking to capitalise on this new trend, Singapore firm Kenwa Plastic Industries started advertising a photodegradable plastic bag.[^41]  The *Straits Times* featured the bag in its “Ailing Earth: The Singapore Perspective” series on 1 January 1990, reporting that Kenwa’s bag would disintegrate after 200 hours exposure to sunlight.[^42]  Seeking to position itself as progressive and environmentally conscious, The Body Shop ordered these bags and highlighted them in its publicity material.[^43] 
+
+<img src="/images/COA%202024/Prosperity%20Through%20Quality/the_body_shop.jpg" style="width:50%;">
+<div style="background-color: white;">Kenwa Plastic’s allegedly photodegradable bag.
+<i>Image reproduced from <a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19900312-1.2.36.1"><i>"[Page 21 Advertisements Column 1],"</i></a> Straits Times, 12 March 1990, 21. (From NewspaperSG)</i></div> 
+
 
 However, the bag’s claim to sustainability was soon put to the test. For their Earth Day celebration, a class from the Singapore American School at Ulu Pandan decided to showcase the bag’s breakdown by hanging it up near their school’s swimming pool. The demonstration was timed carefully so that the bag would decompose by Earth Day on April 22.[^44]  Unfortunately, the expected change did not occur, and the school’s newsletter The Singapore American reported that the bag remained “as good as new”.[^45]  This story was then picked up by the Business Times in its humour column.[^46]
 
@@ -196,8 +205,10 @@ One sign is the success of SISIR’s schemes. By 1974, the UN Industrial Develop
 Another approach is to consider the lack of open contestation about SISIR’s scientific authority – as the Body Shop bags example shows, even in the rare case when people chose to disagree with SISIR’s findings, they took issue with a particular test’s interpretation, not SISIR’s general authority or competence. SISIR’s decision not to mandate standards and to only incentivise their use seems to have rendered the institution largely unobjectionable. In his oral history account, Lee took pride in this fact:
 
 “I can boast for my 17 years in SISIR, not one single letter has been written to the press complaining about SISIR. Not one. Because it’s voluntary. I never passed any rules or forced anybody to come to me. You came out of your own free will. You think that we are useful. You pay on something we agreed on. So where is room for you to complain?”[^71] 
-
 A final dimension to be considered is advertising. As goods began acquiring quality certification from SISIR, advertisers featured this quality endorsement in their advertisements. Government-issued publicity material can be expected to sing the praises of government services regardless of sentiment on the ground. However, advertisers pay money for advertising and so have an interest in putting forward the strongest case they can for their products. Thus, it is telling that they regarded the association with SISIR as positive and valuable.
+
+<img src="/images/COA%202024/Prosperity%20Through%20Quality/Joven3.jpg" style="width:80%;">
+ <div style="background-color: white;"> Advertisements highlighting testing by SISIR.<i> Images reproduced from <a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/weekendeast19880722-1.2.35.1"><i> “Advertisements Column 1,”</i></a> Weekend East, 22 July 1988, 16 and <a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19980508-1.2.83.2"><i> “Advertisements Column 2,”</i></a> Straits Times, 8 May 1998, 68. (From NewspaperSG).</i></div> 
 
 For instance, a when JOVEN heater advertisement highlighted that it was “tested by SISIR”, it did not expand on what SISIR stood for or what its tests represented. Clearly advertisers thought SISIR and its role were established and authoritative enough to warrant consumer attention. The graph below tracks the frequency of advertising mentioning “SISIR” in English-language newspapers.
 
