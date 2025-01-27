@@ -84,6 +84,10 @@ The 1973 Standards and Industrial Research Bill, which transformed SISIR into a 
 
 The first scheme, the Quality Certification Scheme, was rolled out in August 1969. To kickstart the scheme, the institute invited 20 manufacturers known to be adhering to international standards to participate. By 1986, 130 manufacturers were involved, with 960 distinct products being certified. A powerful incentive the government had put in place was for all government departments and statutory boards to give preference to goods certified by SISIR while making purchases.[^35] 
 
+<img src="/images/COA%202024/Prosperity%20Through%20Quality/Hallmark.jpg" style="width:50%;">
+ <div style="background-color: white;">SISIR Quality Certificate.<i> Image reproduced from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4821366"><i>Industrial News and Research</i></a> (Singapore: Singapore Institute of Standards and Industrial Research, September 1971), 6. (From National Library, Singapore, call no. RSING 607.25957).</i></div>
+
+
 Important as SISIR was in shaping the domestic market, its internationally oriented work was perhaps even more significant. The 1973 SISIR Bill also took up the question of export quality, authorising the minister-in-charge to establish schemes for quality control for export commodities, when it was necessary for the promotion of Singapore’s export trade. Commodities that fell under such schemes would be known as “notified commodities”, and each exporter had to inform SISIR of the particulars of each consignment so that it could be checked.[^36] 
 
 However, which standards were relevant to export commodities? Other countries had their own standards that exporters had to satisfy – standards that might not be identical to the relevant Singapore Standard. Therefore, under the SISIR Bill, it would be “the standard stipulated in the export contract”[^37]  that would be enforced, and only in the case that no such standard specified that the Singapore Standard would be applied instead. Successfully meeting the relevant standard would earn a certificate from SISIR for that particular consignment.[^38] 
