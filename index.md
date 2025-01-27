@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-20/issue-4/jan-mar-2025/japanese-anglicans-world-war-two-singapore/
-      button: Japanese Anglicans in World War Two Singapore
+      url: /vol-20/issue-4/jan-mar-2025/chingay-tai-ge-procession-singapore-penang/
+      button: "Chingay in the 19th and 20th Centuries: A Community Procession in Time"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 20 Issue 4/Japanese Anglican/HeroImage_anglican3.jpg
+      background: /images/Vol 20 Issue 4/Chingay/HeroImage_chingay_3.jpg
   - infopic:
       title: "Karikal Mahal: Stories Reimagined and Retold"
       subtitle: Places and Buildings
