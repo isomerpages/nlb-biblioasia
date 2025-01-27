@@ -205,12 +205,9 @@ One sign is the success of SISIR’s schemes. By 1974, the UN Industrial Develop
 Another approach is to consider the lack of open contestation about SISIR’s scientific authority – as the Body Shop bags example shows, even in the rare case when people chose to disagree with SISIR’s findings, they took issue with a particular test’s interpretation, not SISIR’s general authority or competence. SISIR’s decision not to mandate standards and to only incentivise their use seems to have rendered the institution largely unobjectionable. In his oral history account, Lee took pride in this fact:
 
 “I can boast for my 17 years in SISIR, not one single letter has been written to the press complaining about SISIR. Not one. Because it’s voluntary. I never passed any rules or forced anybody to come to me. You came out of your own free will. You think that we are useful. You pay on something we agreed on. So where is room for you to complain?”[^71] 
-![](/images/COA%202024/Prosperity%20Through%20Quality/joven1.jpg)
-
-
 A final dimension to be considered is advertising. As goods began acquiring quality certification from SISIR, advertisers featured this quality endorsement in their advertisements. Government-issued publicity material can be expected to sing the praises of government services regardless of sentiment on the ground. However, advertisers pay money for advertising and so have an interest in putting forward the strongest case they can for their products. Thus, it is telling that they regarded the association with SISIR as positive and valuable.
 
-<img src="/images/COA%202024/Prosperity%20Through%20Quality/joven1.jpg" style="width:100%;">
+<img src="/images/COA%202024/Prosperity%20Through%20Quality/Joven3.jpg" style="width:100%;">
  <div style="background-color: white;"> Advertisements highlighting testing by SISIR.<i> Images reproduced from <a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/weekendeast19880722-1.2.35.1"><i> “Advertisements Column 1,”</i></a> Weekend East, 22 July 1988, 16 and <a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19980508-1.2.83.2"><i> “Advertisements Column 2,”</i></a> Straits Times, 8 May 1998, 68. (From NewspaperSG).</i></div> 
 
 For instance, a when JOVEN heater advertisement highlighted that it was “tested by SISIR”, it did not expand on what SISIR stood for or what its tests represented. Clearly advertisers thought SISIR and its role were established and authoritative enough to warrant consumer attention. The graph below tracks the frequency of advertising mentioning “SISIR” in English-language newspapers.
