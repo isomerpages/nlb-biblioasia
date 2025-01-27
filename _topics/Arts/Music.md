@@ -5,6 +5,13 @@ description: ""
 third_nav_title: Arts
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/sing-singapore-national-day-songs/">The Search for Home, Truly (and Other National Day Songs)</a>
+
+The effort to find songs that express a national identity goes back to the 1970s.
+
+ <img src="/images/Vol%2021%20Issue%201/Sing%20Singapore/Kit_Chan_Topic.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/singapore-bands-vietnam-war/">American Troops. Singapore Bands. The Vietnam War</a>
 Lured by the prospects of money and adventure, local performers braved the dangers of the Vietnam War to provide entertainment to American troops.
 
@@ -79,8 +86,3 @@ Despite his untimely death at the age of 43, Singaporean composer Tsao Chieh’s
 
 <img src="/images/vol-9-issue-4/tsaochieh/tsaochieh.jpg" style="width:80%;">
 <hr>
-
-
-
-
-
