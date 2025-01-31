@@ -16,8 +16,9 @@ Singapura”, and its official Children’s Day song, “Semoga Bahagia”. Work
 with theatre company Wild Rice, musical director Julian Wong put together
 a critically acclaimed production on the life of Pak Zubir that mixed history,
 music and memory in a moving show that led to sold out performances in
-2022 and 2024. In this episode, Julian tells us the challenges of researching
-and performing those songs, and reveals if he’s a Swiftie.</p>
+2022 and 2024. In this episode, Julian tells us the challenges of putting
+up the show, including the research and transcribing processes, and reveals
+if he’s a Swiftie.</p>
 <h4><br><strong>Listen to the Full Episode</strong></h4>
 <p>Available on: <a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener nofollow" target="_blank"><u>Spotify</u></a>,
 <a href="https://podcasts.apple.com/us/podcast/biblioasia/id1688142751" rel="noopener nofollow" target="_blank"><u>Apple Podcasts</u> 
@@ -79,7 +80,9 @@ Singapore Infopedia, published 3 September 2014.</p>
 <p>This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh
 Gek Han. Sound engineering was done by Doppler Soundlab. The background
 music “Di Tanjong Katong” was composed by Osman Ahmad and performed by
-Chords Haven. Special thanks to Julian for coming on the show.</p>
+Chords Haven. This version of “Semoga Bahagia” was composed by Zubir Said,
+produced by Julian Wong and performed by Wild Rice. Special thanks to Julian
+for coming on the show.</p>
 <p></p>
 </div>
 </details>
