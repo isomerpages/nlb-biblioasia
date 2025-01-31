@@ -56,8 +56,8 @@ The Theatre Practice’s <em>If There’re Seasons. </em>Additionally, Julian
 has conducted and arranged for Joyful Strings, Ministry of Bellz, Orchestra
 of the Music Makers, Metropolitan Festival Orchestra, and many more. Julian
 graduated from Berklee College of Music, where he received the Professional
-Music Excellence Award and the Alex Ulanowski Award. In 2023, he received
-the Young Artist Award,&nbsp;Singapore’s highest award for young arts practitioners.</p>
+Music Excellence Award and Alex Ulanowski Award. In 2023, he received the
+Young Artist Award,&nbsp;Singapore’s highest award for young arts practitioners.</p>
 <p>
 <br>
 </p>
