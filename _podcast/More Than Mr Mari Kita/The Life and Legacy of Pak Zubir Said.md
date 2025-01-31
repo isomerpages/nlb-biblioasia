@@ -28,8 +28,8 @@ and performing those songs, and reveals if he’s a Swiftie.</p>
 <p>03:07 –  How the show <em>Don't Call Him Mr. Mari Kita </em>came about
 <br>05:17 – Julian’s research into the life of Pak Zubir Said
 <br>08:04 – Performing the show during Covid
-<br>10:13 – How Julian wrote his version of “Semoga Bahagia”
-<br>12:35 – Difficulties researching Pak Zubir’s life
+<br>10:13 – How Julian arranged his version of “Semoga Bahagia”
+<br>12:35 – Difficulties of researching Pak Zubir’s life
 <br>13:40 – The most interesting discovery about Pak Zubir
 <br>15:49 – A touching story about Pak Zubir
 <br>17:50 – Continuing the legacy of teacher-student collaborations
@@ -49,16 +49,15 @@ and performing those songs, and reveals if he’s a Swiftie.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Julian Wong is a composer, arranger, music director, educator and performer.
 He has composed for Wild Rice, including <em>An Inspector Calls</em>, <em>Pinocchio</em>, <em>Tartuffe: The Imposter</em>,
-etc. As music director, he has helmed overseas assignments such as Liao
-Zhai Rocks! (Shanghai) and <em>Spotlight Singapore </em>(Mexico City), as
-well as home-grown projects such as Hossan Leong’s <em>Hossan-AH! 50</em>,
-Pam Oei’s Faghag and The Theatre Practice’s <em>If There’re Seasons. </em>Additionally,
-Julian has conducted and arranged for Joyful Strings, Ministry of Bellz,
-Orchestra of the Music Makers, Metropolitan Festival Orchestra, and many
-more. Julian graduated from Berklee College of Music, where he received
-the Professional Music Excellence Award and the Alex Ulanowski Award. In
-2023, he received the Young Artist Award,&nbsp;Singapore’s highest award
-for young arts practitioners.</p>
+etc. As music director, he has helmed overseas assignments such as <em>Liao Zhai Rocks!</em> (Shanghai)
+and <em>Spotlight Singapore </em>(Mexico City), as well as home-grown projects
+such as Hossan Leong’s <em>Hossan-AH! 50</em>, Pam Oei’s <em>Faghag </em>and
+The Theatre Practice’s <em>If There’re Seasons. </em>Additionally, Julian
+has conducted and arranged for Joyful Strings, Ministry of Bellz, Orchestra
+of the Music Makers, Metropolitan Festival Orchestra, and many more. Julian
+graduated from Berklee College of Music, where he received the Professional
+Music Excellence Award and the Alex Ulanowski Award. In 2023, he received
+the Young Artist Award,&nbsp;Singapore’s highest award for young arts practitioners.</p>
 <p>
 <br>
 </p>
