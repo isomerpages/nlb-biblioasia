@@ -78,7 +78,7 @@ Singapore Infopedia, published 3 September 2014.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh
 Gek Han. Sound engineering was done by Doppler Soundlab. The background
-music "Di Tanjong Katong" was composed by Osman Ahmad and performed by
+music “Di Tanjong Katong” was composed by Osman Ahmad and performed by
 Chords Haven. Special thanks to Julian for coming on the show.</p>
 <p></p>
 </div>
