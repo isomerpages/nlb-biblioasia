@@ -79,8 +79,9 @@ Singapore Infopedia, published 3 September 2014.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh
 Gek Han. Sound engineering was done by Doppler Soundlab. The background
-music “Di Tanjong Katong” was composed by Osman Ahmad and performed by
-Chords Haven. This version of “<a href="https://www.youtube.com/watch?v=laRRqucJRME" rel="noopener nofollow" target="_blank">Semoga Bahagia</a>”
+music “<a href="https://www.youtube.com/watch?v=uA2v7ka5TAI" rel="noopener nofollow" target="_blank">Di Tanjong Katong</a>”
+was composed by Osman Ahmad and performed by Chords Haven. This version
+of “<a href="https://www.youtube.com/watch?v=laRRqucJRME" rel="noopener nofollow" target="_blank">Semoga Bahagia</a>”
 was composed by Zubir Said, produced by Julian Wong and performed by Wild
 Rice. Special thanks to Julian for coming on the show.</p>
 <p></p>
