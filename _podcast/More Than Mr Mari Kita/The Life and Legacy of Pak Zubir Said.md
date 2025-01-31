@@ -11,12 +11,12 @@ description: Pak Zubir Said (1907–87) gave Singapore its national anthem,
   researching and performing those songs, and reveals if he’s a Swiftie.
 third_nav_title: More Than Mr Mari Kita
 ---
-<p>Pak Zubir Said (1907–87) gave Singapore its national anthem, “Majulah
-Singapura”, and its official Children’s Day song, “Semoga Bahagia”. Working
-with theatre company Wild Rice, musical director Julian Wong put together
-a critically acclaimed production on the life of Pak Zubir that mixed history,
-music and memory in a moving show, <em>Don't Call Him Mr. Mari Kita</em>,
-that led to sold-out performances in 2022 and 2024. In this episode, Julian
+<p>Zubir Said (1907–87) gave Singapore its national anthem, “Majulah Singapura”,
+and its official Children’s Day song, “Semoga Bahagia”. Working with theatre
+company Wild Rice, musical director Julian Wong put together a critically
+acclaimed production on the life of Pak Zubir that mixed history, music
+and memory in a moving show, <em>Don't Call Him Mr. Mari Kita</em>, that
+led to sold-out performances in 2022 and 2024. In this episode, Julian
 tells us the challenges of putting up the show, including the research
 and transcription, and reveals if he’s a Swiftie.</p>
 <h4><br><strong>Listen to the Full Episode</strong></h4>
