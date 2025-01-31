@@ -25,8 +25,8 @@ and performing those songs, and reveals if he’s a Swiftie.</p>
 <p>Subscribe to get notified when the next episode drops.</p>
 <p></p>
 <h4><strong>What Julian Talked About</strong></h4>
-<p>03:07 –  How the play <em>Don't Call Him Mr. Mari Kita </em>came about
-<br>05:17 – Julian’s research into the life of Pak Zubir Sa
+<p>03:07 –  How the show <em>Don't Call Him Mr. Mari Kita </em>came about
+<br>05:17 – Julian’s research into the life of Pak Zubir Said
 <br>08:04 – Performing the show during Covid
 <br>10:13 – How Julian wrote his version of “Semoga Bahagia”
 <br>12:35 – Difficulties researching Pak Zubir’s life
