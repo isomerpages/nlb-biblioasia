@@ -43,3 +43,49 @@ and performing those songs, and reveals if he’s a Swiftie.</p>
 <br>32:54 – Julian’s favourite musician
 <br>34:06 – Is he a Swiftie?</p>
 <p></p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary>About the Guest</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Julian Wong is a composer, arranger, music director, educator and performer.
+He has composed for Wild Rice, including <em>An Inspector Calls</em>, <em>Pinocchio</em>, <em>Tartuffe: The Imposter</em>,
+etc. As music director, he has helmed overseas assignments such as Liao
+Zhai Rocks! (Shanghai) and <em>Spotlight Singapore </em>(Mexico City), as
+well as home-grown projects such as Hossan Leong’s <em>Hossan-AH! 50</em>,
+Pam Oei’s Faghag and The Theatre Practice’s <em>If There’re Seasons. </em>Additionally,
+Julian has conducted and arranged for Joyful Strings, Ministry of Bellz,
+Orchestra of the Music Makers, Metropolitan Festival Orchestra, and many
+more. Julian graduated from Berklee College of Music, where he received
+the Professional Music Excellence Award and the Alex Ulanowski Award. In
+2023, he received the Young Artist Award,&nbsp;Singapore’s highest award
+for young arts practitioners.</p>
+<p>
+<br>
+</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Resources</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Credits</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh
+Gek Han. Sound engineering was done by Doppler Soundlab. The background
+music "Di Tanjong Katong" was composed by Osman Ahmad and performed by
+Chords Haven. Special thanks to Julian for coming on the show.</p>
+<p></p>
+</div>
+</details>
+<details class="isomer-details">
+<summary>About the Podcast</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>BiblioAsia+ is a podcast about Singapore history by the National Library
+of Singapore.</p>
+</div>
+</details>
+</div>
+<p></p>
