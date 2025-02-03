@@ -120,11 +120,13 @@ Although Zhenkongjiao temples no longer run drug rehabilitation programmes today
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Rites%20of%20Rehabilitation/Meat_Offerings.png" style="width: 80%;">Meat offerings of the 'Five Mountains and Five Seas' prepared and offered to Zhenkongjiao's five patriarchs ahead of the 'Repayment of Gratitude' ceremony by devotees of the Chin Kong Religion Fook Poon Tong temple, 2022. <i>Photograph by Esmond Soh.</i></div>
+<img src="/images/Online%20Only%20Articles/Rites%20of%20Rehabilitation/Meat_Offerings.png" style="width: 80%;">Meat offerings of the "Five Mountains and Five Seas" prepared and offered to Zhenkongjiao's five patriarchs ahead of the "Repayment of Gratitude" ceremony by devotees of the Chin Kong Religion Fook Poon Tong temple, 2022. <i>Photograph by Esmond Soh.</i></div>
 
 Today, Zhenkongjiao temples in Singapore continue to offer healing services to those in need. Some temples, such as Fook Poon Tong and Poon Guan Sam Thoh Tong, provide weekend meditation and scripture-reciting classes, reflecting a shift towards promoting health and mental discipline. The scriptures, meditational techniques and cosmology of Zhenkongjiao have been reworked to meet modern needs such as stress relief, mental wellness and spiritual fulfilment.[^42] To increase awareness of its ideals, the movement has produced easy-to-read materials aimed at a broader audience, and regularly organises lectures by Zhenkongjiao leaders.[^43] Although their numbers have diminished, the leaders of the remaining temples continue to adapt their practices and teachings to remain meaningful and accessible in contemporary Singapore.
 
-_This article was partially developed from my MA (History) thesis,_ Sages, Smokers, and Sojourners: The Religion of the Void in China and Southeast Asia, _which was supported by a Nanyang Technological University Research Scholarship. I am grateful to the various Zhenkongjiao temples in Singapore and Malaysia for generously hosting my field research._
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba; font-size=larger">
+
+This article was partially developed from my MA (History) thesis, <i>Sages, Smokers, and Sojourners: The Religion of the Void in China and Southeast Asia</i>, which was supported by a Nanyang Technological University Research Scholarship. I am grateful to the various Zhenkongjiao temples in Singapore and Malaysia for generously hosting my field research.</div>
 
 <div style="background-color: white;">
 <img style="width: 100px; height: 100px;" src="/images/Online%20Only%20Articles/Rites%20of%20Rehabilitation/Profile_photo.jpg"><b>Esmond Soh </b>is pursuing his PhD with the Faculty of Asian and Middle Eastern Studies at the University of Cambridge. He holds a Master of Arts from the School of Humanities at Nanyang Technological University, Singapore, where he was also a lecturer following the completion of his studies.</div>  
