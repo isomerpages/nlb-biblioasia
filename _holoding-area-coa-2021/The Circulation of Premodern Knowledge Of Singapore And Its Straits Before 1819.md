@@ -767,6 +767,6 @@ Swettenham, Frank. [_British Malaya: An Account of the Origin and Progress of Br
 
 [^63]: Barros, _Ongemeene scheeps-togten_, 145–52. Ujantana is a corruption of “Ujong Tanah” and refers to the southern half of the Malay Peninsula, including Singapore.
 
-[^60]: Julia Schleck, “Forming Knowledge: Natural Philosophy and English Travel Writing,” in _Travel Narratives, the New Science, and Literary Discourse, 1569–1750_, ed. Judy A. Hayden (New York: Routledge, 2012), 57; Debbie Lisle, _The Global Politics of Contemporary Travel Writing_ (Cambridge: Cambridge University Press, 2006), 11.
+[^64]: Julia Schleck, “Forming Knowledge: Natural Philosophy and English Travel Writing,” in _Travel Narratives, the New Science, and Literary Discourse, 1569–1750_, ed. Judy A. Hayden (New York: Routledge, 2012), 57; Debbie Lisle, _The Global Politics of Contemporary Travel Writing_ (Cambridge: Cambridge University Press, 2006), 11.
 
 [^65]: This partial study is only confined to references in European literature. Peter Preston, [_Singapore in the Global System: Relationship, Structure and Change_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14641380) (New York: Routledge, 2012), 1–2. (Call no. RSING 306.095957 PRE)
