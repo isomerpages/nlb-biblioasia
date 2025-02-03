@@ -9,13 +9,23 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-20/issue-4/jan-mar-2025/chingay-tai-ge-procession-singapore-penang/
-      button: "Chingay in the 19th and 20th Centuries: A Community Procession in Time"
+      url: /vol-20/issue-4/jan-mar-2025/william-somerset-maugham-secrets/
+      button: "W. Somerset Maugham: Secrets from the Outstations"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 20 Issue 4/Chingay/HeroImage_chingay_3.jpg
+      background: /images/Vol 20 Issue 4/Somerset/HeroImage_somerset_2.jpg
+  - infopic:
+      title: "The Liu Kang Collection: A Portrait of an Artist"
+      subtitle: Art
+      id: infopic
+      description: The Liu Kang Collection at the National Library Singapore looks at
+        the creative process of one of Singapore’s most celebrated artists.
+      button: Explore the collection
+      url: /vol-21/issue-1/apr-jun-2025/liu-kang-collection/
+      image: /images/Vol 21 Issue 1/Liu Kang/Liu_Kang_collection_Topic2.jpg
+      alt: Liu Kang
   - infopic:
       title: The Search for Home, Truly (and Other National Day Songs)
       subtitle: Music

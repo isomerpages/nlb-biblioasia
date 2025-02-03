@@ -2,6 +2,9 @@ collections:
   podcast:
     output: true
     order:
+      - More Than Mr Mari Kita/The Life and Legacy of Zubir Said.md
+      - More Than Mr Mari Kita/Transcript.md
+      - More Than Mr Mari Kita/.keep
       - Set in 1920s Singapore/.keep
       - Set in 1920s Singapore/Somerset Maugham Scandalises 1920s Singapore.md
       - Set in 1920s Singapore/Transcript.md
