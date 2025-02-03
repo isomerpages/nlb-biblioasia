@@ -70,6 +70,10 @@ Located on Kitchener Road, Fut Sai Kai was aimed at a more price conscious clien
 
 Ko was known to wake up early in the morning to buy the freshest ingredients from the market, and she also personally served customers at the restaurant. It operated from 11 am to 9 pm daily, and was packed on the 1st and 15th days of the lunar month as well as during major Chinese festivals.[^20]
 
+<div style="background-colour:#fff6ba; padding:5px;font-size:120%; background: #fff6ba"><center>
+<b>Listen to the podcast episode "<a href="[https://biblioasia.nlb.gov.sg/podcast/chinese-vegetarian-foodscape/](https://biblioasia.nlb.gov.sg/podcast/chinese-vegetarian-foodscape/)">The Chinese Vegetarian Foodscape of the 1950s–60s</a>"</b><br>
+<img src="/images/Podcast/ad_banner_biblioasia.jpg" alt="singapore history podcast" style="width:95%"></center></div>
+
 Like Loke Woh Yuen, the restaurant was also popular among non-Chinese and non-Buddhists. Tourist buses were occasionally spotted nearby as well. According to Ko, her restaurant was frequented by Christians on Fridays, and by Hindus looking for vegetarian food after temple worship.[^21]
 
 The food at Fut Sai Kai often received good reviews. Writing for the *New Nation* in 1972, Wendy Hutton was all praise for the corn soup. “I found the rather nutty, cereal flavour most enjoyable, and filled my soup bowl several times,” she said. For her, the highlight of the meal were the sugar cane flowers. “We all speculated as to whether we were eating genuine flowers, but since I’ve eaten such things as banana flower and candied violets in the past, I imagine the sugar cane flowers were authentic. A rather soft, fleshy morsel was buried inside a thick ball of butter and deep fried. Eaten with a sweet sauce, it was marvellous,” she added.[^22]
@@ -78,10 +82,6 @@ The restaurant operated for 64 years before closing in 2017. Its closure was imp
 
 ![](/images/Vol%2018%20Issue%202/Chinese%20Buddhist%20Women/Chinese%20Buddhist%20Women%20-%20Image%205.png)
 <div style="background-color: white;">Vegetarian food blogger Luke Otter first broke the news of the closure of Fut Sai Kai Vegetarian Restaurant on 25 August 2017. <i>Image reproduced from “Zen Fut Sai Kai, One of Singapore’s Oldest Chinese Vegetarian Restaurants, Closes After 64 Years,” Straits Times, 4 September 2017.</i></div>
-
-<div style="background-colour:#fff6ba; padding:5px;font-size:120%; background: #fff6ba"><center>
-<b>Listen to the podcast episode "<a href="[https://biblioasia.nlb.gov.sg/podcast/chinese-vegetarian-foodscape/](https://biblioasia.nlb.gov.sg/podcast/chinese-vegetarian-foodscape/)">The Chinese Vegetarian Foodscape of the 1950s–60s</a>"</b><br>
-<img src="/images/Podcast/ad_banner_biblioasia.jpg" alt="singapore history podcast" style="width:85%"></center></div>
 
 #### **Spreading Vegetarianism 	Through Temples**
 
