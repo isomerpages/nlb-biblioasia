@@ -83,9 +83,7 @@ The restaurant operated for 64 years before closing in 2017. Its closure was imp
 
 <b>Listen to the podcast episode "<a href="[https://biblioasia.nlb.gov.sg/podcast/chinese-vegetarian-foodscape/](https://biblioasia.nlb.gov.sg/podcast/chinese-vegetarian-foodscape/)">The Chinese Vegetarian Foodscape of the 1950s–60s</a>"</b>
 <br>
-<img src="/images/Podcast/ad_banner_biblioasia.jpg" alt="singapore history podcast" style="width:85%"></center></div>
-
-
+<img src="/images/Podcast/ad_banner_biblioasia.jpg" alt="singapore history podcast" style="width:85%"></center></div><br>
 #### **Spreading Vegetarianism 	Through Temples**
 
 Restaurants were not the only way that these women promoted vegetarianism. At Choa Chu Kang’s 12-milestone (十二英里) lies the temple Hai Inn See (海印寺), which was established in 1928. Its second abbess, a vegetarian nun named Yang Qincai (杨芹菜),[^24] was well known for her vegetarian *soon kueh*. Like many temples, Hai Inn See grew vegetables and fruits on its grounds. In the 1950s, Yang Qincai discovered that bamboo plants grew well, and since the main ingredient for the *kueh* is bamboo shoots, she led the effort to make it regularly.[^25]
