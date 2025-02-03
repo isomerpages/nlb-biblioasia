@@ -56,7 +56,7 @@ By 1956, there was growing acceptance by the government, with Thian Ling Chong T
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Rites%20of%20Rehabilitation/19980001288_IMG0020.jpg" style="width: 80%;">Group photograph taken with Chief Minister Lim Yew Hock during opening of Opium Addicts' Treatment Association's Chinese temple at Changi Road, 1956. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+<img src="/images/Online%20Only%20Articles/Rites%20of%20Rehabilitation/19980001288_IMG0020.jpg" style="width: 80%;">Group photograph taken with Chief Minister Lim Yew Hock during the opening of the Opium Addicts' Treatment Association's Chinese temple on Changi Road, 1956. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 <div style="background-color: white;">
 <br>
