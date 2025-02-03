@@ -183,18 +183,18 @@ There were also numerous instances of local attacks on Europeans in
 the Singapore region. Readers today would be familiar with the account
 of Jacques de Coutre (not published until the 20th century), who was
 ambushed by Orang Laut vessels off present-day Sentosa in the 17th
-century.21 Yet his account was not unique. European readers back then
+century.[^21] Yet his account was not unique. European readers back then
 could read the account of Portuguese priest Melchior Barreto, who was
 attacked en route to Macao in the 16th century. When Barreto’s Portuguese
 caravel ran aground in the Singapore straits in April 1555, the party was
-attacked by 50 local Orang Laut perahu22 that fell upon them with loud
-screams.23 Occasionally, the area in and around Singapore was the setting
+attacked by 50 local Orang Laut perahu[^22] that fell upon them with loud
+screams.[^23] Occasionally, the area in and around Singapore was the setting
 for battles between Malay kingdoms and became perilous for Europeans
 caught in the crossfire. For example, the Spanish Friar Diego Aduarte witnessed 80 large galleys belonging to the Sultan of Aceh pitched for battle
-in the Singapore straits against those of Johor.24 The incoming Governor of
+in the Singapore straits against those of Johor.[^24] The incoming Governor of
 Macao, Antonio de Albuquerque Coelho, who wintered in Johor in 1717,
 wrote his account of Raja Kecil of Siak, who assembled a large and powerful
-fleet at the mouth of the Singapore straits in preparation to conquer Johor.25
+fleet at the mouth of the Singapore straits in preparation to conquer Johor.[^25]
 These accounts in European literature undoubtedly helped to shape the
 perception of Singapore and its straits as a place of mortal danger.
 
@@ -218,14 +218,14 @@ Singapore’s mistaken identification as a prominent promontory in texts
 and maps led to it being taken as a notional marker of division. Singapore
 was cited in the Portuguese poem, *Os Lusíadas* by Luís Vaz de Camões
 (1572), as a turning point, and João de Barros’s *Da Ásia* (1562) divided the
-sixth and the seventh part of the East Indies from “Cape Singapura”.26
+sixth and the seventh part of the East Indies from “Cape Singapura”.[^26]
 This divisional marker was adopted by later writers such as Faria y Sousa
-(1666–75) and the geographer Pierre Duval, the editor of François Pyrard’s travelogue (1679).27 Other writers made this distinction for practical
+(1666–75) and the geographer Pierre Duval, the editor of François Pyrard’s travelogue (1679).[^27] Other writers made this distinction for practical
 reasons, since two maritime zones (the South China Sea and the Bay of
-Bengal) overlapped around the Singapore region.28 This idea of transition
+Bengal) overlapped around the Singapore region.[^28] This idea of transition
 is memorably expressed in Albuquerque’s *Commentaries* (1576), which
 referenced Portuguese ships arriving at the “gate” (*porta*) of Singapore,
-demarcating a point of crossing.29 The repeated assertions created by
+demarcating a point of crossing.[^29] The repeated assertions created by
 cartography and writing reinforced the mental geography of Singapore
 and its straits as a dividing point between two different regions of Asia
 (Figure 1).
@@ -236,7 +236,7 @@ of Southeast Asia, notably from Sumatra and Java. Thomas Herbert’s
 observation that Singapore was a former trading town that marked the
 southernly cape of the Asian continent and divided it from Sumatra was a
 common impression at the time. This statement would become the standard
-definition in most encyclopaedia and dictionary entries in the 18th century.30
+definition in most encyclopaedia and dictionary entries in the 18th century.[^30]
 These assumptions of Singapore as a cape and dividing marker came to be
 deeply entrenched in European thought and proved resilient well into the
 19th century.
@@ -260,24 +260,24 @@ Melaka, which became famous as a trading emporium. This information
 likely stemmed from the oral accounts that the Portuguese collected after
 becoming masters of the port and town of Melaka. This knowledge sheds
 light on not only Singapore’s antiquity, but also its connections with the
-wider Malay world.31
+wider Malay world.[^31]
 
 These Portuguese writings circulated throughout Europe, spreading
 knowledge of Singapore and the wider straits region to curious audiences. 
 
 One such circuit took it to 16th-century Italy, to humanist centres such as
-Florence and Venice.32 Barros’s account (1562) was translated into Italian
-within a year and was cited by the geographer Giovanni Battista Ramusio.33
+Florence and Venice.[^32] Barros’s account (1562) was translated into Italian
+within a year and was cited by the geographer Giovanni Battista Ramusio.[^33]
 Ramusio was an avid collector and compiled his own set of travel writings,
 including an abridged extract of the Portuguese apothecary Tomé Pires’s
-*Suma Oriental* (1512–15), a work not published until 1944.34 Other snippets
+*Suma Oriental* (1512–15), a work not published until 1944.[^34] Other snippets
 of the Singapore story found in Barros’s or Albuquerque’s accounts were
 cited in the celebrated *Cosmographia* (1628), attributed to the German
-geographer Sebastian Münster, bringing knowledge to German readership.35
+geographer Sebastian Münster, bringing knowledge to German readership.[^35]
 Another circuit of knowledge took it to France and England. The French
 traveller Vincent le Blanc’s account (1662), for example, mentioned “a certain
 tyrant who had wanted to seize the state of Singapore […] which was the
-entry to all the Orient and commanded the whole country”.36 Similarly,
+entry to all the Orient and commanded the whole country”.[^36] Similarly,
 the third volume of the English cleric Peter Heylyn’s *Cosmographie* (1652)
 contained an account of Parameswara, which also explained how Singapore
 could be considered as the mother of Melaka.37 These three accounts of the
