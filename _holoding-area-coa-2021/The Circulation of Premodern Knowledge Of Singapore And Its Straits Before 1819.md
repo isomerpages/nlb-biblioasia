@@ -337,7 +337,13 @@ the 16th century. The Dutch gathered there and captured the richly laden
 Portuguese carrack *Santa Catarina* in 1603 off the coast of Singapore, where
 the Spanish armada also assembled in 1616. These exploits of large sea forces
 concentrated around Singapore could be read in the European literature of
-the day.[^43] (Figure 3)
+the day.[^43] (Figure 3)[^44]
+
+<img src="/images/COA%202021/Premodern%20Knowledge/Portuguese_ships_at_Johor.jpg" style="width:80%;">
+<div style="background-color: white;">Portuguese ships at Johor, off the coast of Singapore. Manoel Godinho de Éredia,
+<i>Historia de serviços com martirio de Luís Mont[eir]o Cout[inh]o, ordenada por Manoel Godinho de
+Erédia, Math[ematic]o. Anno 1615</i> [History of the services and martyrdom of Luís Monteiro Coutinho,
+arranged by Manuel Godinho de Éredia] (Goa, 1615), 49.</div>
 
 In the 17th century, the Dutch identified Singapore and its straits as a
 strategic chokepoint of world trade and sent *jachten*[^45] and sloops to cruise
