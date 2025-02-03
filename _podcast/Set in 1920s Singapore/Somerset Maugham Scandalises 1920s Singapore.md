@@ -13,7 +13,10 @@ stay in Singapore that inspired some of his most celebrated short stories.
 Crime fiction writer&nbsp;Tracey&nbsp;Morton tells us how Singapore inspired
 his works, why they remain relevant, and whether the Menendez brothers
 deserve their sentence.</p>
-<h4><br><strong>Listen to the Full Episode</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BXL1V_epslU"></iframe>
+</div>
+<h4><strong>Listen to the Full Episode</strong></h4>
 <p>Available on: <a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener nofollow" target="_blank"><u>Spotify</u></a>,
 <a href="https://podcasts.apple.com/us/podcast/biblioasia/id1688142751" rel="noopener nofollow" target="_blank"><u>Apple Podcasts</u>
 </a>, <a href="https://www.melisten.sg/podcast/playlist/BiblioAsia+-2115156" rel="noopener nofollow" target="_blank"><u>melisten</u></a>.</p>
