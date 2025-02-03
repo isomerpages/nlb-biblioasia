@@ -173,7 +173,7 @@ To build a case for customers to avail its services, SISIR first constructed an 
 
 
 <img src="/images/COA%202024/Prosperity%20Through%20Quality/buying_to_specifications_p3.jpg" style="width:60%;">
-<div style="background-color: white;"><i>Image reproduced from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=203884291"><i>Buying to Specifications</i></a> (Singapore: Singapore Institute of Standards and Industrial Research, 1986), 3. (From National Library, Singapore, call no. 381.33).</i></div>
+<div style="background-color: white;"><i>Image reproduced from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=203884291"><i>Buying to Specifications</i></a> (Singapore: Singapore Institute of Standards and Industrial Research, 1986), 3. (From National Library, Singapore, call no. RCLOS 381.33).</i></div>
 
 
 Unfortunately, these heuristics were fallible, as consumers could not be certain about the provenance and quality of products. As the 1978 booklet *Standards in Your Life* pointed out, in an open economy like Singapore, “it is impossible for the consumer to judge visually whether paints are poisonous, the wiring of an electrical appliance is safe, a food product meets the health claims, and which brand gives better value for money.”[^66] 
