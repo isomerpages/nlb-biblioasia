@@ -21,6 +21,8 @@ Most of the published cartoons touched on issues of independence and anti-coloni
 
 Interestingly, talented Malay writers and arts practitioners were drawn to this new art form that combined writing and art. They included writers like Abdul Jalil Haji Nor and the Indonesian artist and filmmaker Nas Achnas.
 
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/Pr1eklZNrB4" frameborder="0" allowfullscreen=""></iframe></div>
+
 #### **Malay Comics in Newspapers**
 
 One of the first Malay comics to appear came out in _Warta Jenaka_, which was launched in September 1936 as a weekly companion to _Warta Malaya_. _Warta Malaya_ was a daily produced in Jawi that was published by Anglo-Asiatic Press on North Bridge Road. The first full-time cartoonist at _Warta Jenaka_ was an artist by the name of S.B. Ally. Apart from Ally’s drawings, the newspaper also welcomed contributions from readers.[^2]
