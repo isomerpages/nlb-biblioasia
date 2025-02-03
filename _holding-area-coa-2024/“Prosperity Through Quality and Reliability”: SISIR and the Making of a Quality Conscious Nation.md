@@ -84,7 +84,7 @@ The 1973 Standards and Industrial Research Bill, which transformed SISIR into a 
 
 The first scheme, the Quality Certification Scheme, was rolled out in August 1969. To kickstart the scheme, the institute invited 20 manufacturers known to be adhering to international standards to participate. By 1986, 130 manufacturers were involved, with 960 distinct products being certified. A powerful incentive the government had put in place was for all government departments and statutory boards to give preference to goods certified by SISIR while making purchases.[^35] 
 
-<img src="/images/COA%202024/Prosperity%20Through%20Quality/Hallmark.jpg" style="width:50%;">
+<img src="/images/COA%202024/Prosperity%20Through%20Quality/Hallmark.jpg" style="width:40%;">
  <div style="background-color: white;">SISIR Quality Certificate.<i> Image reproduced from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4821366"><i>Industrial News and Research</i></a> (Singapore: Singapore Institute of Standards and Industrial Research, September 1971), 6. (From National Library, Singapore, call no. RSING 607.25957).</i></div>
 
 
