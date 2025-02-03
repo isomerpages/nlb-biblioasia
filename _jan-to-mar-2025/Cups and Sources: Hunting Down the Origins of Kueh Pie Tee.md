@@ -37,6 +37,11 @@ The technique of dipping preheated metal moulds in batter and then into hot oil,
 
 In Scappi’s recipe, moulds depicting lions, eagles and “fanciful shapes” are dipped in a batter of flour, water, white wine, oil, salt and saffron, and then into hot oil. A second recipe for a rose-scented goat’s milk batter fried in hot lard includes the pro tip of blotting excess fat off the preheated mould to obtain a shapelier fritter.[^7]
 
+<div style="background-colour:#fff6ba; padding:5px;font-size:120%; background: #fff6ba"><center>
+<b>Listen to the podcast episode "<a href="[https://biblioasia.nlb.gov.sg/podcast/kueh-pie-tee/](https://biblioasia.nlb.gov.sg/podcast/kueh-pie-tee/)\">Kueh Pie Tee: A Detective Story</a>"</b>
+<br>
+<img src="/images/Podcast/ad_banner_biblioasia.jpg" alt="singapore history podcast" style="width:95%"></center></div>
+
 Food scholar Priscilla Mary Işın traces the technique further back, probably more than five centuries, to Turkey. She notes that in Eastern Turkey, families traditionally each possessed unique bespoke iron moulds to make fritters called _demir tatlısı_.[^8] The Erzurum region’s blacksmiths were particularly famed for forging them: no other irons “hold the batter like an Erzurum iron” commented one author in 1900.[^9] That area lies on the Silk Road, along which Işın surmises the recipe and moulds could have spread to the rest of the globe.&nbsp;
 
 They ultimately did so along paths of migration and colonisation as well as trade routes. The Dutch brought them to Norway, India and Southeast Asia, while the Spanish and Portuguese took them to South America, and Scandinavian immigrants introduced them to the United States. &nbsp;
