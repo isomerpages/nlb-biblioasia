@@ -230,6 +230,14 @@ cartography and writing reinforced the mental geography of Singapore
 and its straits as a dividing point between two different regions of Asia
 (Figure 1).
 
+<img src="/images/COA%202021/Premodern%20Knowledge/Sixteenth_century_map.jpg" style="width:80%;">
+<div style="background-color: white;">Sixteenth-century map reproduced in Jan Huygens van Linschoten’s Itinerario. Singapore
+is marked here as a cape. <i>Exacta et accurata delineatio cùm orarum maritimarum tùm etiam locorum
+terrestrium quae in regionibus China, Cauchinchina, Camboja sive Champa, Sayao, Malacca, Arracan
+&amp; Pegu, etc..</i>[The true depiction or illustration of all the coasts and lands of China, Cochin China,
+Cambodia, Siam, Malacca, Arracan and Pegu, etc.], 1596.</div>
+
+
 Besides dividing the two maritime zones, the “cape” of Singapore
 was also seen as separating the Asian mainland from the island world
 of Southeast Asia, notably from Sumatra and Java. Thomas Herbert’s
@@ -309,7 +317,14 @@ Singapore’s early history.
 ***A place of concentration***
 
 Finally, Singapore and its straits have long been considered a place of
-strategic significance. Singapore’s position straddling two maritime zones has made it a key conduit for world shipping and a meeting place for
+strategic significance. Singapore’s position straddling two maritime zones 
+
+<img src="/images/COA%202021/Premodern%20Knowledge/Cover_page_of_Fran_ois.jpg" style="width:50%;">
+ <div style="background-color: white;">Cover page of François
+Valentijn’s<i> Oud en nieuw Oost Indiën</i> [Old and New East Indies] (Dordrecht and Amsterdam: Joannes van Braam and Gerard onder de Linden, 1724–26). </div>
+
+
+has made it a key conduit for world shipping and a meeting place for
 cultures and societies. However, the area around Singapore was also a
 strategic bottleneck to concentrate military forces to harass competitors
 or jostle for influence. The importance of controlling the area around
