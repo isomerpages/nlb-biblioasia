@@ -133,7 +133,7 @@ This article was partially developed from my MA (History) thesis, <i>Sages, Smok
 
 #### **Notes**
 
-[^1]:  Xu Yunqiao 许云樵, “Kongdaojiao gailun: yi ge xinxing de zongjiao 空道教概论：一个新兴的宗教” \[The Religion of the Void: A New Religion\], _[Nanyang Xuebao 南洋学报](https://catalogue.nlb.gov.sg/search/card?recordId=84444489)_ \[Journal of the South Seas Society\] 10:4 (1954): 25-32. (From National Library, Singapore, call no. 959.005 JSSS).
+[^1]:  Xu Yunqiao&nbsp;许云樵, “Kongdaojiao gailun: yi ge xinxing de zongjiao”&nbsp;空道教概论：一个新兴的宗教&nbsp;[The religion of the void: A new religion],&nbsp;[_Nanyang Xuebao_&nbsp;南洋学报](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84444489)&nbsp;[_Journal of the South Seas Society_] 10, no. 4 (1954): 25–32. (From National Library Singapore, call no. RCLOS 959.005 JSSS)
 
 [^2]:  Luo Xianglin罗香林, <i>Liuxing yu ganminyue ji malaixiya zhi Zhenkongjiao</i> 流行于赣闽粤及马来西亚之真空教 \[The Origins and Spread of the Zhenkongjiao from Ganzhou to Southeast China and Malaya\] (Xianggang香港: Zhongguo Xueshe中国学社, 1962), 39-64.
 
