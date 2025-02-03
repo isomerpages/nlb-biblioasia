@@ -74,7 +74,7 @@ _The Belle_ ’s techniques are also visible in _Portrait_ and _Emily_. In the o
 <div style="background-colour:#fff6ba; padding:5px;font-size:120%; background: #fff6ba"><center>
 <b>Listen to the podcast episode "<a href="https://biblioasia.nlb.gov.sg/podcast/stella-kon-beyond-emily-of-emerald-hill/">Stella Kon: Beyond Emily of Emerald Hill</a>"</b>
 <br>
-<img src="/images/Podcast/ad\_banner\_biblioasia.jpg" alt="singapore history podcast stella kon" style="width:95%"></center></div>
+<img src="/images/Podcast/ad_banner_biblioasia.jpg" alt="singapore history podcast stella kon" style="width:95%"></center></div>
 
 In the market scene, Emily breaks the fourth wall just as Dickinson does. At the very beginning, Dickinson turns the audience into fellow actors: by serving them a cake, she invites them as guests into her parlour.[^19] Likewise, Emily turns the audience into stall owners as she appears on an extension of the main stage, known as an “apron”,[^20] and moves closer to her audience. 
 
