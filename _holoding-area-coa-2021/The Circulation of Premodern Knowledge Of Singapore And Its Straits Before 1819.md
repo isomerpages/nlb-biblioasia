@@ -290,18 +290,18 @@ new outlet and audience through reprinted travel collections. The most
 comprehensive anthologies were published by the Leiden publisher Van der
 Aa in the 1700s, with various other snippets and extracts republished in
 other popular collected volumes, such as the Churchill brothers’ *A Collection of Voyages and Travels* (1704) and *The Modern Part of an Universal History*
-(1759–66).38
+(1759–66).[^38]
 
 A second strand of knowledge came from Valentijn’s influential
 publication, *Oud en Nieuw Oost-Indiën* (Old and New East-Indies; 1724–26)
 (Figure 2). In composing his work, Valentijn acquired and referred to several
 Malay manuscripts, such as the *Hikayat Hang Tuah*(c. 1688–1710) and
-the *Sulalat-us Salatin* (c. 1612).39 By drawing on these sources, Valentijn
+the *Sulalat-us Salatin* (c. 1612).[^39] By drawing on these sources, Valentijn
 conveyed to his readers that Singapore was not only the first city or town
 of the Malays that moreover lent its name to the nearby straits, but also the
-seat of several kings before its transfer to Melaka.40 This knowledge was later
+seat of several kings before its transfer to Melaka.[^40] This knowledge was later
 cited in several compendia of the late 18th century and consulted by several
-prominent writers.41 Through the knowledge distilled from acquired Malay
+prominent writers.[^41] Through the knowledge distilled from acquired Malay
 manuscripts and the reprints of old Portuguese chronicles, the majority
 of readers came to know of or became familiar with the straits region and
 Singapore’s early history.
@@ -315,31 +315,31 @@ strategic bottleneck to concentrate military forces to harass competitors
 or jostle for influence. The importance of controlling the area around
 Singapore was not lost on the European powers. The Dutch, Portuguese and
 even the Spanish had considered establishing forts in the vicinity and had
-on various occasions gathered forces off Singapore.42
+on various occasions gathered forces off Singapore.[^42] 
 
 Portuguese ships blockaded and fought around the Johor River in
 the 16th century. The Dutch gathered there and captured the richly laden
 Portuguese carrack *Santa Catarina* in 1603 off the coast of Singapore, where
 the Spanish armada also assembled in 1616. These exploits of large sea forces
 concentrated around Singapore could be read in the European literature of
-the day.43 (Figure 3)
+the day.[^43] (Figure 3)
 
 In the 17th century, the Dutch identified Singapore and its straits as a
-strategic chokepoint of world trade and sent *jachten*45 and sloops to cruise
+strategic chokepoint of world trade and sent *jachten*[^45] and sloops to cruise
 in and around the area. The high points of Dutch concentration were
 during the early years of the offensive (1602–09) and the period when they
 stepped up their attempts to capture Portuguese Melaka (1633–41). Dutch
 ships were instructed to secure their shipping lines, while disrupting those
-of the Portuguese.46 Because of the success of this operation, Singapore or the area around it became known, especially in Iberian travel literature,
+of the Portuguese.[^46] Because of the success of this operation, Singapore or the area around it became known, especially in Iberian travel literature,
 as a place where the Dutch concentrated their forces. A good number of
 travel accounts were written by priests harassed by Dutch ships while en
 route to China or Japan. For example, the Portuguese priest Gil de Abreu
-was captured in the Singapore straits and imprisoned in Batavia.47 The
+was captured in the Singapore straits and imprisoned in Batavia.[^47] The
 Italian Jesuit Marcello Mastril was more fortunate, narrowly escaping
-capture by three Dutch ships in the area in 1636.48 One such battle with
+capture by three Dutch ships in the area in 1636.[^48] One such battle with
 the “Hollanders who fought with valiant spirits around Singapore” was
 memorialised by the Portuguese Miguel Botelho de Carvalho in the Spanish
-poem, *La Filis* (1641).49
+poem, *La Filis* (1641).[^49] 
 
 After the Dutch took Melaka in 1641 and gained ascendancy in the East
 Indies, references in the European literature of the 17th and 18th centuries
@@ -347,14 +347,14 @@ continued to complain about Dutch concentration and control of the
 waters in and around Singapore. Jean Chardin, the French jeweller, wrote
 in his travelogue how Indian ships had to obtain passports from the Dutch
 “through favour, recommendations and presents” before they could pass
-through the Singapore straits.50 Spain and Portugal, which had colonial
+through the Singapore straits.[^50] Spain and Portugal, which had colonial
 outposts in Manila and Macau and maintained trade with China, also
 opined negative views of Dutch control and their concentration of ships
 in the straits region. For example, the *Historical Extract* of Antonio José
 Alvarez de Abreu, a study of commercial relations between the Philippines
 and Spain published in 1736, states this plainly: “The commerce of these
 two cities [Manila and Macau] is sustained by the Strait of Singapore,
-and always at risk of the Dutch.”51 This opinion of Dutch concentration
+and always at risk of the Dutch.”[^51] This opinion of Dutch concentration
 of ships in the region is also prevalent in other European writings of the
 18th century.
 
@@ -375,13 +375,13 @@ region. Historians today are identifying and retrieving materials relevant
 to Singapore to build a longer 700-year history. Although the post-1819
 historical narrative is still more substantial, the more detailed references
 found in European literature help add more episodes and evidence
-that testify to Singapore’s precolonial past.52 The other smaller and less
+that testify to Singapore’s precolonial past.[^52] The other smaller and less
 descriptive references might not always indicate settlement and activity on
 the island, but they nevertheless help us to better contextualise Singapore
 within the region and (re)consider its connections to other places in
-Southeast Asia.53 Furthermore, some scholars argue that Singapore can be
+Southeast Asia.[^53] Furthermore, some scholars argue that Singapore can be
 seen to have repeatedly reinvented itself in response to the geographical
-and cultural changes, with notable up-and-down cycles.54 These references
+and cultural changes, with notable up-and-down cycles.[^54] These references
 testify that in the three centuries before 1819, even though we know little
 about what was happening on the island, Singapore was far from forgotten
 and still made an impression in the thoughts of readers far away in Europe.
@@ -400,7 +400,7 @@ and around the Singapore region, which has led to confusion over what
 exactly is being referred to. A second reason has to do with the growth of
 different strands of knowledge. While in the early 16th century references
 to Singapore as a city and cape arose because writers attempted to reconcile
-newer discoveries with classical Ptolemaic knowledge,55 the Portuguese
+newer discoveries with classical Ptolemaic knowledge,[^55] the Portuguese
 chronicles and later travel writing were responsible for putting into
 circulation knowledge about Singapore’s earlier incarnations as a strait,
 capital and kingdom. The result was several competing descriptions or
@@ -411,18 +411,18 @@ Dutch collection of voyages, *Begin en Voortgangh van de Oost-Indische
 Compagnie* (Origin and progress of the Dutch East India Company; 1646)
 by the Amsterdam publisher Isaac Commelin, Singapore appears in the
 course of 17 pages as a city (*stadt*), a cape (*cabo*), a strait (*strate*) and a village
-(*dorp*).56 It is clear that these references to Singapore and its straits reflect a
+(*dorp*).[^56] It is clear that these references to Singapore and its straits reflect a
 mix of current, classical and historical knowledge – all in the same work. A
 third reason has to do with the transmission of knowledge, which increased
 confusion about Singapore over time. Writers who had never visited the
 East Indies wrote about these places based on the books that were at their
 disposal. Even though this demonstrated engagement with knowledge of
 Singapore and increased the number of references, they also multiplied the
-confusion already extant in publications.57
+confusion already extant in publications.[^57]
 And as dictionaries and encyclopaedias began to proliferate on the
 market in the 18th century, compilers began to draw information from
 various travel accounts and publications to produce standardised definitions
-of peoples, places and things.58 Because various definitions were repeatedly
+of peoples, places and things.[^58] Because various definitions were repeatedly
 copied and rearranged in disregard of time and context, these entries lost touch with the realities they described. In many compendia, it would not
 be out of place to read this entry on Singapore found in the *Encyclopaedia
 Perthensis*, published in 1816, just three years before the founding of a British
@@ -433,7 +433,7 @@ cape, with its capital on the S[outh] coast of Melaka;
 opposite Sumatra.
 
 **Sincapura, Straits of**, a narrow channel between the above
-island, Melaka and Sumatra.59
+island, Melaka and Sumatra.[^59]
 
 The three spellings of Singapore and four different definitions
 of Singapore – as a strait, an island, a cape and a capital – represent
@@ -450,7 +450,7 @@ Third, these references help us to generate new ideas and discard older
 assumptions about Singapore. The four impressions that a European reader
 would have had of Singapore and its straits do not support the idea that
 Singapore appears after 440 years of neglect as a knowable and distinct place
-in history.60 Singapore had always been a knowable place not only in the
+in history.[^60] Singapore had always been a knowable place not only in the
 region but also to European audiences, despite British claims that Singapore
 was terra incognita. In addition, our current impressions of Singapore as a
 point of division, as a strategic location and a place of antiquity are shown
@@ -461,7 +461,7 @@ to Singapore as a city of Siam hint at a deeper relationship between ancient
 Singapore and Thailand. Comparing these references might also help
 produce connected histories that tell us more about Singapore’s past. In their travel accounts, Alonso Ramirez and William Dampier both noted passing
 Singapore around 1687. Dampier benefited from refreshments from the
-Orang Laut, while Ramirez attacked them.61 Seen separately, the accounts
+Orang Laut, while Ramirez attacked them.[^61] Seen separately, the accounts
 tell us little, but taken together, they point towards a period of intense
 activity in and around the Singapore region. The chances of finding other
 connections are small but not improbable. It must be cautioned, however,
@@ -476,14 +476,14 @@ past(s). With increased digitisation of publications and greater online
 accessibility to these materials, more references of Singapore, if not of its
 straits and the wider straits region, are almost certain to be found. This is
 true not only of European literature but also other manuscripts, languages
-and archives, many of which are not covered here.62 Furthermore, references
+and archives, many of which are not covered here.[^62] Furthermore, references
 to Singapore might not always be found under this name. In the European
 records, it is not uncommon to find references to Lange Eilant (Long Island)
 or Pulau Panjang, designations which also appear on hydrographic charts
 before 1819. The Portuguese writers also used the term Ujantana (Ujong
 Tanah) to refer to the area around Singapore. With careful reading and
 sufficient contextual knowledge, these references can also be added to our
-knowledge of Singapore, or the Singapore region.63
+knowledge of Singapore, or the Singapore region.[^63]
 
 However, it is clear from these references that the European writers
 had a peripheral vision of Singapore and its straits and did not always tell
