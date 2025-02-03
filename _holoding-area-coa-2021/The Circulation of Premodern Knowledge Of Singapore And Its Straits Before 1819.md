@@ -743,30 +743,30 @@ Swettenham, Frank. [_British Malaya: An Account of the Origin and Progress of Br
 
 [^51]: Antonio José Alvarez de Abreu, _Extracto Historial Del Expediente Que Pende En El Consejo Real, Y Supremo De Las Indias, a Instancia de la Ciudad De Manila, Y Demas De Las Islas Philipinas_ \[Historical extract of the record pending in the Royal and Supreme Council of the Indies, at the request of the city of Manila, and others of the Philippine Islands\] (Madrid: Juan de Ariztia, 1736), 8.
 
-52 There is room to debate what is considered “substantial” and deserving of national interest and inclusion.
+[^52]: There is room to debate what is considered “substantial” and deserving of national interest and inclusion.
 
-53 Terence Chong, “The Bicentennial Commemoration: Imagining and Re-imagining Singapore’s History,” [_Southeast Asian Affairs_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4183690) (2020): 330–31. (Call no. RSING 959 SAA)
+[^53]: Terence Chong, “The Bicentennial Commemoration: Imagining and Re-imagining Singapore’s History,” [_Southeast Asian Affairs_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4183690) (2020): 330–31. (Call no. RSING 959 SAA)
 
-54 Kwa et al., [_Seven Hundred Years_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203868733)_,_ 8–11; Karl Hack and Jean-Louis Margolin, “Singapore: Reinventing the Global City,” in [_Singapore from Temasek to the 21st Century: Reinventing the Global_ City](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13598385), ed. Karl Hack, Jean-Louis Margolin and Karine Delaye (Singapore: NUS Press, 2010), 4. (Call no. RSING 959.57 SIN)&nbsp;
+[^54]: Kwa et al., [_Seven Hundred Years_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203868733)_,_ 8–11; Karl Hack and Jean-Louis Margolin, “Singapore: Reinventing the Global City,” in [_Singapore from Temasek to the 21st Century: Reinventing the Global_ City](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13598385), ed. Karl Hack, Jean-Louis Margolin and Karine Delaye (Singapore: NUS Press, 2010), 4. (Call no. RSING 959.57 SIN)&nbsp;
 
-55 Geoffrey Gunn, [_Overcoming Ptolemy: The Revelation of an Asian World Region_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203817857) (Lanham: Lexington Books, 2018), 191. (Call no. RSEAS 912.509 GUN)
+[^55]: Geoffrey Gunn, [_Overcoming Ptolemy: The Revelation of an Asian World Region_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203817857) (Lanham: Lexington Books, 2018), 191. (Call no. RSEAS 912.509 GUN)
 
-56 Isaac Commelin, [_Begin Ende Voortgangh Van De Vereenighde Nederlantsche Geoctroyeerde Oost-Indische Compagnie, etc_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=b4e0da57-bb44-4aaf-8094-7ae91be24bf3)., vol. 2 \[Origin and progress of the Dutch East India Company\] (Amsterdam: n.p., 1646), 21, 36, 38. (From National Library Online; call no. RRARE 910.9492 BEG)
+[^56]: Isaac Commelin, [_Begin Ende Voortgangh Van De Vereenighde Nederlantsche Geoctroyeerde Oost-Indische Compagnie, etc_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=b4e0da57-bb44-4aaf-8094-7ae91be24bf3)., vol. 2 \[Origin and progress of the Dutch East India Company\] (Amsterdam: n.p., 1646), 21, 36, 38. (From National Library Online; call no. RRARE 910.9492 BEG)
 
-57 Adrien Delmas, “Writing History in the Age of Discovery, According to La Popelinière, 16th–17th centuries,” in [_The Dutch Trading Companies as Knowledge Networks_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200872167), ed. Siegfried Huigen, Jan L. de Jong and Elmer Kolfin (Leiden: Brill, 2010), 301–4. (Call no. R 306.4 DUT)
+[^57]: Adrien Delmas, “Writing History in the Age of Discovery, According to La Popelinière, 16th–17th centuries,” in [_The Dutch Trading Companies as Knowledge Networks_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200872167), ed. Siegfried Huigen, Jan L. de Jong and Elmer Kolfin (Leiden: Brill, 2010), 301–4. (Call no. R 306.4 DUT)
 
-58 For a carefully researched study, see Richard Yeo, [_Encyclopaedic Visions: Scientific Dictionaries and Enlightenment Culture_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=10214638) (Cambridge: Cambridge University Press, 2001). (Call no. R 032.09033 YEO)
+[^58]: For a carefully researched study, see Richard Yeo, [_Encyclopaedic Visions: Scientific Dictionaries and Enlightenment Culture_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=10214638) (Cambridge: Cambridge University Press, 2001). (Call no. R 032.09033 YEO)
 
-59 Anonymous, _Encyclopedia Perthensis, etc._, 2nd ed., vol. 21 (Edinburgh: John Brown, etc., 1816), 3.
+[^59]: Anonymous, _Encyclopedia Perthensis, etc._, 2nd ed., vol. 21 (Edinburgh: John Brown, etc., 1816), 3.
 
-60 Selvaraj Velayutham, [_Responding to Globalization: National, Culture and Identity in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12924605) (Singapore: Institute of Southeast Asian Studies, 2007), 21–25. (Call no. RSING 305.80095957 VEL-\[LKY\])
+[^60]: Selvaraj Velayutham, [_Responding to Globalization: National, Culture and Identity in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12924605) (Singapore: Institute of Southeast Asian Studies, 2007), 21–25. (Call no. RSING 305.80095957 VEL-\[LKY\])
 
-61 Fabio López Lázaro, _The Misfortunes of Alonso Ramirez: The True Adventures of a Spanish American with 17th-century Pirates_ (Austin: University of Texas Press, 2011), 26–34, 121 Retrieved from OverDrive. (myLibrary ID is required to access this ebook); William Dampier, [_Dampier’s Voyages: Consisting of a New Voyage Round the World \[…\]_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5640758), ed. John Masefield (London: E Grant Richards, 1906), 559. (Call no. RCLOS 910.41 DAM-\[GBH\])
+[^61]: Fabio López Lázaro, _The Misfortunes of Alonso Ramirez: The True Adventures of a Spanish American with 17th-century Pirates_ (Austin: University of Texas Press, 2011), 26–34, 121 Retrieved from OverDrive. (myLibrary ID is required to access this ebook); William Dampier, [_Dampier’s Voyages: Consisting of a New Voyage Round the World \[…\]_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5640758), ed. John Masefield (London: E Grant Richards, 1906), 559. (Call no. RCLOS 910.41 DAM-\[GBH\])
 
-62 For an overview, see Peter Borschberg, “European Records for the History of Singapore before 1819,” in [_An Old New World: From the East Indies to the Founding of Singapore, 1600s–1819_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203962935), ed. Stephanie Yeo (Singapore: National Museum of Singapore, 2019), 6–18. (Call no. RSING 959.57 NAT-\[HIS\])
+[^62]: For an overview, see Peter Borschberg, “European Records for the History of Singapore before 1819,” in [_An Old New World: From the East Indies to the Founding of Singapore, 1600s–1819_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203962935), ed. Stephanie Yeo (Singapore: National Museum of Singapore, 2019), 6–18. (Call no. RSING 959.57 NAT-\[HIS\])
 
-63 Barros, _Ongemeene scheeps-togten_, 145–52. Ujantana is a corruption of “Ujong Tanah” and refers to the southern half of the Malay Peninsula, including Singapore.
+[^63]: Barros, _Ongemeene scheeps-togten_, 145–52. Ujantana is a corruption of “Ujong Tanah” and refers to the southern half of the Malay Peninsula, including Singapore.
 
-64 Julia Schleck, “Forming Knowledge: Natural Philosophy and English Travel Writing,” in _Travel Narratives, the New Science, and Literary Discourse, 1569–1750_, ed. Judy A. Hayden (New York: Routledge, 2012), 57; Debbie Lisle, _The Global Politics of Contemporary Travel Writing_ (Cambridge: Cambridge University Press, 2006), 11.
+[^60]: Julia Schleck, “Forming Knowledge: Natural Philosophy and English Travel Writing,” in _Travel Narratives, the New Science, and Literary Discourse, 1569–1750_, ed. Judy A. Hayden (New York: Routledge, 2012), 57; Debbie Lisle, _The Global Politics of Contemporary Travel Writing_ (Cambridge: Cambridge University Press, 2006), 11.
 
-65 This partial study is only confined to references in European literature. Peter Preston, [_Singapore in the Global System: Relationship, Structure and Change_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14641380) (New York: Routledge, 2012), 1–2. (Call no. RSING 306.095957 PRE)
+[^65]: This partial study is only confined to references in European literature. Peter Preston, [_Singapore in the Global System: Relationship, Structure and Change_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14641380) (New York: Routledge, 2012), 1–2. (Call no. RSING 306.095957 PRE)
