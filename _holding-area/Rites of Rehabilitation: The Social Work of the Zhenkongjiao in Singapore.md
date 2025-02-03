@@ -18,7 +18,7 @@ The Zhenkongjiao are guided by religious texts known as the Four Books in Five V
 
 The Zhenkongjiao’s scriptures and ethical systems were influenced by Mahayana Buddhist philosophies, but they also practised animal sacrifice through a ritual euphemistically termed the “scattering of flowers”. Livestock such as pigs and chickens were sacrificed to alleviate (the animals’) sponsors’ misfortunes and provide the sacrificed animals with a better afterlife.[^3] However, since the Severe Acute Respiratory Syndrome (SARS) outbreak in Singapore in 2003, these ceremonies have ceased. Besides scripture recitation, the Zhenkongjiao also practise meditation and other therapeutic rituals such as sleeping on charcoal beds covered with sand in a ritual known as “laying in the emptiness”, performed in the pursuit of good health.
 
-A survey of Zhenkongjiao temples on the island in 1968 found that there were as many as 25 of them in Singapore. Today, only six remain: Thian Ling Toh Tong in Bukit Batok, Poon Guan San Toh Tong in Pasir Panjang, Kong Leap Thiam Lim Tua in Geylang, Chin Kong Religion Fook Poon Tong in Yishun, Hean Thuan Toh Tong in Tampines Link, and Fubenyuan Daotang (now located in a private residence, having moved from its original location in Hougang).
+A survey of Zhenkongjiao temples on the island in 1968 found that there were as many as 25 of them in Singapore. Today, only six remain: Thian Ling Toh Tong in Bukit Batok, Poon Guan San Toh Tong in Pasir Panjang, Kong Leap Thiam Lim Tua in Geylang, Chin Kong Religion Fook Poon Tong in Yishun, Hean Thuan Toh Tong in Tampines Link and Fubenyuan Daotang (now located in a private residence, having moved from its original location in Hougang).
 
 #### **Early History of the Zhenkongjiao in Singapore**
 
