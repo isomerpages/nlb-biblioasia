@@ -60,7 +60,7 @@ By 1956, there was growing acceptance by the government, with Thian Ling Chong T
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Rites%20of%20Rehabilitation/19980001319_IMG0013.jpg" style="width: 80%;">Recovering addicts learned skills such as sewing at the Opium Treatment Centre at St John’s Island, 1957. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+<img src="/images/Online%20Only%20Articles/Rites%20of%20Rehabilitation/19980001319_IMG0013.jpg" style="width: 80%;">Recovering addicts learned skills such as sewing at the Opium Treatment Centre on St John’s Island, 1957. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 The Zhenkongjiao’s leaders saw opium addiction and its presence in the form of a physical taint that could be metaphysically removed from one’s body through rituals. Thian Ling Chong Toh Tong temple reportedly told addicts that “there is opium in your bones, there is opium in your teeth, now it is leaving you,” before serving tea that had been prayed over.[^19]
 
