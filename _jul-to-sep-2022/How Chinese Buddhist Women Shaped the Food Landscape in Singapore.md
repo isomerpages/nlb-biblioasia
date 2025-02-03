@@ -6,6 +6,7 @@ description: Women who practised a particular form of Buddhism set up popular
   Buddhists and also helped promote vegetarianism.
 image: /images/Vol 18 Issue 2/Chinese Buddhist Women/Chinese Buddhist Women -
   Image 1.png
+variant: markdown
 ---
 #### Women who practised a particular form of Buddhism set up popular vegetarian restaurants in the 1940s and 50s that met the needs of local Buddhists and also helped promote vegetarianism. 
 By Kelvin Tan
@@ -76,7 +77,14 @@ The food at Fut Sai Kai often received good reviews. Writing for the *New Nation
 The restaurant operated for 64 years before closing in 2017. Its closure was important enough to have warranted a news story in the *Straits Times*. According to the article, the owner of the restaurant had died earlier that year and the family decided to close the restaurant as there was no one to take over the cooking.[^23]
 
 ![](/images/Vol%2018%20Issue%202/Chinese%20Buddhist%20Women/Chinese%20Buddhist%20Women%20-%20Image%205.png)
-<div style="background-color: white;">Vegetarian food blogger Luke Otter first broke the news of the closure of Fut Sai Kai Vegetarian Restaurant on 25 August 2017. <i>Image reproduced from “Zen Fut Sai Kai, One of Singapore’s Oldest Chinese Vegetarian Restaurants, Closes After 64 Years,” Straits Times, 4 September 2017.</i></div>
+<div style="background-color: white;">Vegetarian food blogger Luke Otter first broke the news of the closure of Fut Sai Kai Vegetarian Restaurant on 25 August 2017. <i>Image reproduced from “Zen Fut Sai Kai, One of Singapore’s Oldest Chinese Vegetarian Restaurants, Closes After 64 Years,” Straits Times, 4 September 2017.</i></div><br>
+
+<div style="background-colour:#fff6ba; padding:5px;font-size:120%; background: #fff6ba"><center>
+
+<b>Listen to the podcast episode "<a href="[https://biblioasia.nlb.gov.sg/podcast/chinese-vegetarian-foodscape/](https://biblioasia.nlb.gov.sg/podcast/chinese-vegetarian-foodscape/)">The Chinese Vegetarian Foodscape of the 1950s–60s</a>"</b>
+<br>
+<img src="/images/Podcast/ad_banner_biblioasia.jpg" alt="singapore history podcast" style="width:85%"></center></div>
+
 
 #### **Spreading Vegetarianism 	Through Temples**
 
@@ -137,8 +145,8 @@ Half tablespoon sugar<br>
 <div style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;">Research for this essay was funded by the National Heritage Board’s Heritage Research Grant under the project titled “Mapping Female Religious Heritage in Singapore: Chinese Temples as Sites of Regional Socio-cultural Linkage” (A-0003245-00-00). The author wishes to thank the principal investigator of the project Dr Show Ying Ruo from the Asia Research Institute, National University of Singapore, for her guidance and comments on an early draft of this essay.</div>
 	
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol%2018%20Issue%202/Authors/Kelvin_Tan.png" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Vol%2018%20Issue%202/Authors/Kelvin_Tan.png" style="width: 100px; height: 100px;">
 	<b>Kelvin Tan</b> graduated with a Bachelor of Arts in history from the National University of Singapore. He was a research assistant for the project “Mapping Female Religious Heritage in Singapore: Chinese Temples as Sites of Regional Socio-cultural Linkage” funded by the National Heritage Board. </div>
 
 	
@@ -146,7 +154,7 @@ Half tablespoon sugar<br>
 
 [^1]: Show Ying Ruo, “Virtuous Women on the Move: Minnan Vegetarian Women (Caigu) and Chinese Buddhism in Twentieth-century Singapore,” 華人宗教研究 [*Studies in Chinese Religions*] 17 (2021): 138, 167–68, https://www.academia.edu/46956207/Virtuous_Women_on_the_Move_Minnan_Vegetarian_Women_caigu_and_Chinese_Buddhism_in_Twentieth_Century_Singapore.
 
-[^2]: 许源泰 [Xu Yuantai], [沿革与模式: 新加坡道教和佛教传播研究](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=200143459) [*Evolution and Model: The Propagation of Taoism and Buddhism in Singapore*] (Singapore: 新加坡国立大学中文系, 2013). (From National Library, Singapore, call no. RSING 294.3095957 XYT)
+[^2]: 许源泰 [Xu Yuantai], [沿革与模式: 新加坡道教和佛教传播研究](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=200143459) [*Evolution and Model: The Propagation of Taoism and Buddhism in Singapore*] (Singapore: 新加坡国立大学中文系, 2013). (From National Library, Singapore, call no. RSING 294.3095957 XYT)
 
 [^3]: Violet Oon, “[Vegetarian Food for All](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19840826-1.2.43.2),” *Singapore Monitor*, 26 August 1984, 1. (From NewspaperSG)
 
@@ -198,10 +206,10 @@ Half tablespoon sugar<br>
 
 [^27]: 陈爱玲 [Chen Ailing], [57岁出家 61岁创安老院 88老尼有个心愿 要开第二间安老院](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/shinmin19960930-1.2.13.16) [“Ordained at 57, Opened a Nursing Home at 61, an 88-year-old Nun Has a Wish to Open a Second Nursing Home”], 新明日报 [*Shinmin Daily News*], 30 September 1996, 5. (From NewspaperSG)
 
-[^28]: Shi Chin Yam, [*Top 100 Vegetarian Delights*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=8991558) (Singapore: Man Fut Tong Old People’s Home, 1998), preface. (From National Library, Singapore, call no. RSING 641.5636 SHI)
+[^28]: Shi Chin Yam, [*Top 100 Vegetarian Delights*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=8991558) (Singapore: Man Fut Tong Old People’s Home, 1998), preface. (From National Library, Singapore, call no. RSING 641.5636 SHI)
 
-[^29]: Uma Rajan and G. Uma Devi, [*A Life for Others*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=12833802) (Singapore: Man Fut Tong Nursing Home, 2007), 23. (From National Library, Singapore, call no. RSING 361.95957 RAJ)
+[^29]: Uma Rajan and G. Uma Devi, [*A Life for Others*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=12833802) (Singapore: Man Fut Tong Nursing Home, 2007), 23. (From National Library, Singapore, call no. RSING 361.95957 RAJ)
 
-[^30]: 许源泰 [Hue Guan Thye], [狮城佛光: 新加坡佛教发展百年史](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205584233) [*The Buddha Lights of Lion City: The Hundred-year Development of Buddhism in Singapore*] (Hong Kong: 香港中文大学人间佛教研究中心, 2020), 222–23. (From National Library, Singapore, call no. Chinese RSING 294.3095957 HGT)
+[^30]: 许源泰 [Hue Guan Thye], [狮城佛光: 新加坡佛教发展百年史](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205584233) [*The Buddha Lights of Lion City: The Hundred-year Development of Buddhism in Singapore*] (Hong Kong: 香港中文大学人间佛教研究中心, 2020), 222–23. (From National Library, Singapore, call no. Chinese RSING 294.3095957 HGT)
 
 [^31]: 李若莲与蔡成才 [*Li Ruolian and Cai Chengcai*], [自度庵的素菜](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhwb19840222-1.2.21.1.1) [“Vegetarian Dishes of Tse Tho Aum”], 联合晚报 [*Lianhe Wanbao*], 22 February 1984, 5. (From NewspaperSG)
