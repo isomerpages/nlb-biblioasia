@@ -1186,4 +1186,14 @@ sections:
       image: /images/Vol 19 Issue 4/An Interview with Rachel Heng/book
         cover_homepage3.jpg
       alt: The Great Reclamation
+  - infopic:
+      title: "The Liu Kang Collection: A Portrait of an Artist"
+      subtitle: Art
+      id: infopic
+      description: The Liu Kang Collection at the National Library Singapore looks at
+        the creative process of one of Singapore’s most celebrated artists.
+      button: Explore the collection
+      url: /vol-21/issue-1/apr-jun-2025/liu-kang-collection/
+      image: /images/Vol 21 Issue 1/Liu Kang/Liu_Kang_collection_Topic2.jpg
+      alt: Liu Kang
 ---
