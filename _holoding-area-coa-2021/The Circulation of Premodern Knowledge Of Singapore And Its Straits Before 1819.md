@@ -528,8 +528,6 @@ diplomatic encounters in Asia.</div>
 
 #### **Bibliography**
 
-         
-
 Abreu, Antonio José Alvarez De. _Extracto Historial Del Expediente Que Pende En El Consejo Real, Y Supremo De Las Indias, a Instancia de la Ciudad De Manila, Y Demas De Las Islas Philipinas_ \[Historical Extract of the Record pending in the Royal and Supreme Council of the Indies, at the request of the City of Manila, and Others of the Philippine Islands\]. Madrid: Juan de Ariztia, 1736.
 
 Aduarte, Diego De. _Tomo Primero de la Historia de la Provincia Del Santo Rosario De Filipinas, Iapon Y China, de la Sagrada Orden De Predicadores_ \[First volume of the history of the province of Santo Rosario of the Philippines, Japan and China, of the Sacred Order of Preachers\]. Zaragoça: por Domingo Gasçon, 1693.
@@ -622,9 +620,7 @@ Swettenham, Frank. [_British Malaya: An Account of the Origin and Progress of Br
 
 #### **NOTES**
 
-         
-
-1\. Frank Swettenham, [_British Malaya: An Account of the Origin and Progress of British Influence in Malaya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12630215) (London: George Allen and Unwin, 1948), 31. (Call no. RCLOS 959.5 SWE-\[GBH\])
+[^1]: Frank Swettenham, [_British Malaya: An Account of the Origin and Progress of British Influence in Malaya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12630215) (London: George Allen and Unwin, 1948), 31. (Call no. RCLOS 959.5 SWE-\[GBH\])
 
 2\. K. G. Tregonning, “The Historical Background,” in [_Modern Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4081919), ed. Ooi Jin-Bee and Chiang Hai Ding (Singapore: University of Singapore, 1969), 14 (Call no. RSING 959.57 OOI-\[HIS\]); Kwa Chong Guan, “Introduction,” in [_Studying Singapore before 1800_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203074612), ed. Kwa Chong Guan and Peter Borschberg (Singapore: NUS Press, 2018), 2. (Call no. RSING 959.57 STU-\[HIS\])
 
