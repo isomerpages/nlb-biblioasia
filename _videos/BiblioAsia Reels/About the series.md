@@ -8,6 +8,13 @@ variant: tiptap
 <h3><strong>A Reel-ly Good Story: History in Five Minutes</strong></h3>
 <p><em>BiblioAsia Reels</em> turns a <em>BiblioAsia</em> story into a short
 video. Take five to learn interesting things about Singapore history.</p>
+<h4><strong>Early Malay Comics</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Pr1eklZNrB4"></iframe>
+</div>
+<p>Malay comics first appeared as editorial cartoons in local newspapers
+such as <em>Warta Jenaka</em> and <em>Utusan Zaman</em> in the 1930s. These
+cartoons paved the way for Malay comic books in the 1950s.</p>
 <h4><strong>Thai Buddhist Temple Wat Ananda</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/bFZM2C5XXBw"></iframe>
