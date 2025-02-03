@@ -57,6 +57,11 @@ After a visit to the Dehiwala Zoo in Ceylon (Sri Lanka today), Ong invited its d
 
 The committee had envisioned that it would feature an “open concept” architecture with animals displayed in naturalistic, spacious enclosures. To allay Prime Minister Lee Kuan Yew’s concerns about having animals (and their waste) near a freshwater reservoir, stormwater drains would encircle the entire compound with a dedicated waste treatment plant to process zoological sewage.[^15]
 
+<div style="background-colour:#fff6ba; padding:5px;font-size:120%; background: #fff6ba"><center>
+<b>Listen to the podcast episode "<a href="https://biblioasia.nlb.gov.sg/podcast/what-makes-an-animal-singaporean-timothy-barnard/">What Makes an Animal Singaporean? </a>"</b>
+<br>
+<img src="/images/Podcast/ad_banner_biblioasia.jpg" alt="singapore history podcast environmental" style="width:95%"></center></div>
+
 By 1971, development work on the 28-hectare zoo, including the construction of a metalled access road and sewage facilities, was underway.[^16] Some 2,000 trees were specially selected to replace “less desired” vegetation and to provide better shade and attract birds.[^17] Construction took 18 months and cost the government about $9 million. But despite efforts to create a modern, “wonder world of animals set amid the sparkling reservoir waters”, gaps remained – in some cases literally.[^18] Three months before the new zoo was slated to open, a series of dramatic animal escapes made headline news.
 
 #### **Animal Escapees**
