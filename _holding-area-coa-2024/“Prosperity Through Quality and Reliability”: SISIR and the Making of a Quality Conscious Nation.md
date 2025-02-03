@@ -103,7 +103,7 @@ On 1 January 1973, SISIR received a request from the Canadian Standards Associat
 
 As the testing agency for standards, SISIR can be thought of as a mediator. It inserted itself between manufacturers and consumers (or between manufacturers and foreign standards bodies), using its own credibility as an independent institution to secure the credibility of the tested product. 
 
-<img src="/images/COA%202024/Prosperity%20Through%20Quality/buying_to_specifications_p25.jpg" style="width:80%;">
+<img src="/images/COA%202024/Prosperity%20Through%20Quality/buying_to_specifications_p25.jpg" style="width:60%;">
 <div style="background-color: white;">SISIR mediated the relationship between manufacturer and consumer
 <i>Image reproduced from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=203884291"><i>Buying to Specifications</i></a>         (Singapore: Singapore Institute of Standards and Industrial Research, 1986), 25. (From National Library, Singapore, call no. 381.33)</i></div>         
 
@@ -124,7 +124,7 @@ In the late 1980s, environmentalism surged across the world, and Singapore was n
 <i>Image reproduced from <a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19900312-1.2.36.1"><i>"[Page 21 Advertisements Column 1],"</i></a> Straits Times, 12 March 1990, 21. (From NewspaperSG)</i></div> 
 
 
-However, the bag’s claim to sustainability was soon put to the test. For their Earth Day celebration, a class from the Singapore American School at Ulu Pandan decided to showcase the bag’s breakdown by hanging it up near their school’s swimming pool. The demonstration was timed carefully so that the bag would decompose by Earth Day on April 22.[^44]  Unfortunately, the expected change did not occur, and the school’s newsletter The Singapore American reported that the bag remained “as good as new”.[^45]  This story was then picked up by the Business Times in its humour column.[^46]
+However, the bag’s claim to sustainability was soon put to the test. For their Earth Day celebration, a class from the Singapore American School at Ulu Pandan decided to showcase the bag’s breakdown by hanging it up near their school’s swimming pool. The demonstration was timed carefully so that the bag would decompose by Earth Day on April 22.[^44]  Unfortunately, the expected change did not occur, and the school’s newsletter *The Singapore American* reported that the bag remained “as good as new”.[^45]  This story was then picked up by the *Business Times* in its humour column.[^46]
 
 Embarrassed by the bad publicity, The Body Shop pointed fingers at Kenwa. In an open letter to Kenwa, The Body Shop said that “We have experimented with exposing the bags to direct sunlight since we took delivery of the bags from you on March 6, 1990. Nothing has happened since. They look as resilient as the day they were brought in to us. Surely one might reasonably expect some sign of disintegration after all this time?”[^47]  Kenwa replied that their bags comprised 3 percent ecolyte polymets, which start disintegrating after 200 hours of exposure to sunlight. This was a “gradual process and not instantaneous” and would result in a plastic bag so brittle that it would be broken up by the elements of nature.[^48]  This did not satisfy sceptics, and supermarket giants like Jasons and Cold Storage decided against adopting Kenwa’s bags.[^49]
 
@@ -172,7 +172,7 @@ Of the numerous approaches SISIR took to woo consumers, the most visually striki
 To build a case for customers to avail its services, SISIR first constructed an image of the vulnerable consumer. Customers apparently used heuristics like attractive packaging, cost and advertisements, to help them make their choices in a crowded marketplace.
 
 
-<img src="/images/COA%202024/Prosperity%20Through%20Quality/buying_to_specifications_p3.jpg" style="width:80%;">
+<img src="/images/COA%202024/Prosperity%20Through%20Quality/buying_to_specifications_p3.jpg" style="width:60%;">
 <div style="background-color: white;"><i>Image reproduced from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=203884291"><i>Buying to Specifications</i></a> (Singapore: Singapore Institute of Standards and Industrial Research, 1986), 3. (From National Library, Singapore, call no. 381.33).</i></div>
 
 
