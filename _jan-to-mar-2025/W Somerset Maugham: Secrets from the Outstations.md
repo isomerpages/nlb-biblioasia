@@ -23,6 +23,11 @@ Maugham was accompanied by his private secretary, Gerald Haxton, during his trip
 
 The expatriate society of British Malaya was thrilled by the arrival of such a popular writer, and Maugham was quickly inundated with invitations to parties and dinners. Their only mistake, perhaps, was that, during their cocktail hours, drinking sundowners before their lavish dinner parties, they revealed too much of themselves.&nbsp;
 
+<div style="background-colour:#fff6ba; padding:5px;font-size:120%; background: #fff6ba"><center>
+<b>Listen to the podcast episode "<a href="https://biblioasia.nlb.gov.sg/podcast/somerset-maugham-scandalises-1920s-singapore-tracey-morton/">Somerset Maugham Scandalises 1920s Singapore</a>"</b>
+<br>
+<img src="/images/Podcast/ad_banner_biblioasia.jpg" alt="singapore history podcast environmental" style="width:95%"></center></div>
+
 Singapore was then, like now, one of the great ports of the East. It was the bustling heart of Southeast Asia and a jewel of the British Empire. When Maugham docked, it was going through a period of prosperity with the boom of the rubber trade due to the expansion of the motor trade in the United States.&nbsp;
 
 After the First World War, tin and rubber prices soared and fortunes were to be made in Southeast Asia. An influx of British expatriates, who referred to themselves as “Empire builders”, consisted of people migrating for work, either as government officials to uphold British rule or people moving away for monetary gain. Maugham found these “new” types intriguing, and often in some bar or club, Maugham and Haxton would hear extraordinary tales from people who were living seemingly ordinary lives. Maugham wrote: “\[I\]n those parts of the world where civilisation is worn thinner. I found the unique man far easier to see.”[^3] This could be due to the lack of social constraints and ties from home, the new climate; people were living differently and had stories to tell.
