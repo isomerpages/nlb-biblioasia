@@ -490,7 +490,7 @@ had a peripheral vision of Singapore and its straits and did not always tell
 us what we would like to know about its past. The published literature
 contains little about activity on the island, because the writers rarely visited
 it and had little interest or extended experience of the region at large. The
-Europeans wrote only about the things they knew and experienced and often repeated what was already known.64 This is why the four impressions
+Europeans wrote only about the things they knew and experienced and often repeated what was already known.[^64] This is why the four impressions
 stated above will likely continue to characterise other references to Singapore
 and its straits in European literature.
 
@@ -499,7 +499,7 @@ and its straits in European literature.
 Ultimately, these references to Singapore reveal the current constructs
 for understanding its past. But the quest to make meaning is only just
 beginning. As Peter Preston reminds us, there is no one Singapore: context
-is key.65 If we define Singapore as just the island, then the historical record
+is key.[^65] If we define Singapore as just the island, then the historical record
 before 1819 is indeed scarce, fragmentary, vague and contradictory. But if
 we look for an idea of Singapore that goes beyond the island and ask more
 searching questions about the pieces that we find, then we might come to a
