@@ -71,6 +71,11 @@ However, both _Portrait_ and _Emily_ have interesting parallels with _The Belle_
 
 _The Belle_ ’s techniques are also visible in _Portrait_ and _Emily_. In the opening scene of _Emily_, Emily converses with invisible characters on the telephone. This technique is also used in _The Belle_, for instance, in the scene when young Dickinson’s father scolds her for staying up late, and she explains to him that she is writing poetry.[^17] Interestingly, Kon had not watched _The Belle_. It was her own “solution” to let the main character converse with invisible characters.[^18]
 
+<div style="background-colour:#fff6ba; padding:5px;font-size:120%; background: #fff6ba"><center>
+<b>Listen to the podcast episode "<a href="https://biblioasia.nlb.gov.sg/podcast/stella-kon-beyond-emily-of-emerald-hill/">Stella Kon: Beyond Emily of Emerald Hill</a>"</b>
+<br>
+<img src="/images/Podcast/ad_banner_biblioasia.jpg" alt="singapore history podcast stella kon" style="width:95%"></center></div>
+
 In the market scene, Emily breaks the fourth wall just as Dickinson does. At the very beginning, Dickinson turns the audience into fellow actors: by serving them a cake, she invites them as guests into her parlour.[^19] Likewise, Emily turns the audience into stall owners as she appears on an extension of the main stage, known as an “apron”,[^20] and moves closer to her audience. 
 
 Like the telephone scene, this original opening scene also vividly shows Emily’s ability to switch between Singlish and Queen’s English, and to speak in Hokkien and Malay. After speaking with Botak in Singlish, Emily turns to Ah Soh who sells vegetables and asks: “[H]ow are you, gou cha [so early]? Ya I'm fine, family is fine, chin ho, chin ho [very good, very good].” Later, she enters Cold Storage and speaks in a “posh accent”: “Morning, Mr Chai! Have you got my baked ham? I ordered it yesterday ­– yes in my name, Mrs Gan Swee Kheng, have you got it there?”[^21] But by additionally involving the audience in the play, this scene more powerfully illustrates both multiracial Singapore as well as Emily’s ability to straddle different worlds, a characteristic of the Peranakan Chinese.
