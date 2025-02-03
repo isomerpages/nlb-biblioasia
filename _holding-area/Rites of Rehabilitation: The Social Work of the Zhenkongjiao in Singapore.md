@@ -135,9 +135,9 @@ This article was partially developed from my MA (History) thesis, <i>Sages, Smok
 
 [^1]:  Xu Yunqiao&nbsp;许云樵, “Kongdaojiao gailun: yi ge xinxing de zongjiao”&nbsp;空道教概论：一个新兴的宗教&nbsp;[The religion of the void: A new religion],&nbsp;[_Nanyang Xuebao_&nbsp;南洋学报](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84444489)&nbsp;[_Journal of the South Seas Society_] 10, no. 4 (1954): 25–32. (From National Library Singapore, call no. RCLOS 959.005 JSSS)
 
-[^2]:  Luo Xianglin 罗香林, <i>Liuxing yu ganminyue ji malaixiya zhi Zhenkongjiao</i>  流行于赣闽粤及马来西亚之真空教 [The Origins and Spread of the Zhenkongjiao from Ganzhou to Southeast China and Malaya] (Xianggang 香港: Zhongguo Xueshe 中国学社, 1962), 39-64.
+[^2]:  Luo Xianglin 罗香林, <i>Liuxing yu ganminyue ji malaixiya zhi Zhenkongjiao</i>  流行于赣闽粤及马来西亚之真空教 [The Origins and Spread of the Zhenkongjiao from Ganzhou to Southeast China and Malaya] (Xianggang 香港: Zhongguo Xueshe 中国学社, 1962), 39–64.
 
-[^3]:  Esmond Chuah Meng Soh, “[Practicing Salvation: Meat-Eating, Martyrdom, and Sacrifice as Religious Ideals in the Zhenkongjiao](https://www.academia.edu/80038178/Practicing_Salvation_Meat_Eating_Martyrdom_and_Sacrifice_as_Religious_Ideals_in_the_Zhenkongjiao),” _Journal of Chinese Religions_ 50, no. 1 (2022): 77-114.
+[^3]:  Esmond Chuah Meng Soh, “[Practicing Salvation: Meat-Eating, Martyrdom, and Sacrifice as Religious Ideals in the Zhenkongjiao](https://www.academia.edu/80038178/Practicing_Salvation_Meat_Eating_Martyrdom_and_Sacrifice_as_Religious_Ideals_in_the_Zhenkongjiao),” _Journal of Chinese Religions_ 50, no. 1 (2022): 77–114.
 
 [^4]:  For general studies of the phenomenon, see Yan Qinghuang, _[A Social History of the Chinese in Singapore and Malaya: 1800-1911](https://catalogue.nlb.gov.sg/search/card?id=f014b7a5-5d0b-5bf2-8571-96ed334a4f15&amp;entityType=FormatGroup)_ (Singapore: Oxford University Press, 1986) (From National Library, Singapore, call no. 301.45195105957); and Wang Gungwu, _[China and the Chinese Overseas](https://catalogue.nlb.gov.sg/search/card?id=9a235ebb-6534-5bc1-ad0c-6f4b33a80a0e&amp;entityType=FormatGroup)_ (Singapore: Eastern Universities Press, 1991-2003) (From National Library, Singapore, call no. 909.04951).
 
