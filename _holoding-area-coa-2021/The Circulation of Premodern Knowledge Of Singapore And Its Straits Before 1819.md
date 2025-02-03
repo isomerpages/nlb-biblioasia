@@ -729,19 +729,19 @@ Swettenham, Frank. [_British Malaya: An Account of the Origin and Progress of Br
 
 [^44]: This manuscript is kept in the Biblioteca Nacional de Portugal and is yet to be published. Nevertheless, the sketch helps us to visualise ships gathering off Singapore. It can be accessed at [https://purl.pt/1275](https://purl.pt/1275).
 
-45 _Jacht_: Dutch light-sailing vessel.
+[^45]: _Jacht_: Dutch light-sailing vessel.
 
-46 Robert Parthesius, [_Dutch Ships in Tropical Waters: The Development of the Dutch East India Company (VOC) Shipping Network in Asia, 1595–1660_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202436665) (Amsterdam: Amsterdam University Press, 2010), 154–56. (Call no. RSEAS 387.509598 PAR)
+[^46]: Robert Parthesius, [_Dutch Ships in Tropical Waters: The Development of the Dutch East India Company (VOC) Shipping Network in Asia, 1595–1660_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202436665) (Amsterdam: Amsterdam University Press, 2010), 154–56. (Call no. RSEAS 387.509598 PAR)
 
-47 Antonio Franco, _Imagem da Virtude Em O Noviciado da Companhia De Jesus No Real Collegio De Jesus De Coimbra Em Portugal, etc_. \[Image of virtue in the novitiate of the Society of Jesus in the Real Collegio de Jesus de Coimbra in Portugal, etc.\] (Lisboa: Na Officina Real Deslandesiana, 1714), 275–76.
+[^47]: Antonio Franco, _Imagem da Virtude Em O Noviciado da Companhia De Jesus No Real Collegio De Jesus De Coimbra Em Portugal, etc_. \[Image of virtue in the novitiate of the Society of Jesus in the Real Collegio de Jesus de Coimbra in Portugal, etc.\] (Lisboa: Na Officina Real Deslandesiana, 1714), 275–76.
 
-48 Daniello Bartoli, _Compendio Della Vita, E Morte Del P. Marcello Mastrilli Della Compagnia Di Giesu, etc_. \[Compendium of the life, and death of Fr. Marcello Mastrilli of the Company of Jesus, etc.\] (Napoli: Luc’Antonio di Fusco, 1671), 86.
+[^48]: Daniello Bartoli, _Compendio Della Vita, E Morte Del P. Marcello Mastrilli Della Compagnia Di Giesu, etc_. \[Compendium of the life, and death of Fr. Marcello Mastrilli of the Company of Jesus, etc.\] (Napoli: Luc’Antonio di Fusco, 1671), 86.
 
-49 Carvalho, _La Filis,_ 47.
+[^49]: Carvalho, _La Filis,_ 47.
 
-50 Jean Chardin, _Voyages De Monsieur Le Chevalier, En Perse, Et Autre Lieux De L’Orient. Tome Dixieme_ \[Travels of Sir Chevalier into Persia, and other places of the Orient\] (Amsterdam: Jean Louis de Lorme, 1711), 129.
+[^50]: Jean Chardin, _Voyages De Monsieur Le Chevalier, En Perse, Et Autre Lieux De L’Orient. Tome Dixieme_ \[Travels of Sir Chevalier into Persia, and other places of the Orient\] (Amsterdam: Jean Louis de Lorme, 1711), 129.
 
-51 Antonio José Alvarez de Abreu, _Extracto Historial Del Expediente Que Pende En El Consejo Real, Y Supremo De Las Indias, a Instancia de la Ciudad De Manila, Y Demas De Las Islas Philipinas_ \[Historical extract of the record pending in the Royal and Supreme Council of the Indies, at the request of the city of Manila, and others of the Philippine Islands\] (Madrid: Juan de Ariztia, 1736), 8.
+[^51]: Antonio José Alvarez de Abreu, _Extracto Historial Del Expediente Que Pende En El Consejo Real, Y Supremo De Las Indias, a Instancia de la Ciudad De Manila, Y Demas De Las Islas Philipinas_ \[Historical extract of the record pending in the Royal and Supreme Council of the Indies, at the request of the city of Manila, and others of the Philippine Islands\] (Madrid: Juan de Ariztia, 1736), 8.
 
 52 There is room to debate what is considered “substantial” and deserving of national interest and inclusion.
 
