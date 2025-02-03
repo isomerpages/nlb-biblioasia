@@ -280,7 +280,7 @@ tyrant who had wanted to seize the state of Singapore […] which was the
 entry to all the Orient and commanded the whole country”.[^36] Similarly,
 the third volume of the English cleric Peter Heylyn’s *Cosmographie* (1652)
 contained an account of Parameswara, which also explained how Singapore
-could be considered as the mother of Melaka.37 These three accounts of the
+could be considered as the mother of Melaka.[^37] These three accounts of the
 17th century show how far knowledge originating from Portuguese writings
 of Singapore and its straits had circulated.
 
