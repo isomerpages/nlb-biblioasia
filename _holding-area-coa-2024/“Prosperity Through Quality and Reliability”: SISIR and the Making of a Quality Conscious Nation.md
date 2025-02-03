@@ -35,7 +35,7 @@ Finally, I explore a variety of suggestive indicators of SISIR’s success – r
 #### **Origins – The 1968 National Conference on Scientific and Technical Co-operation Between Industries and Governmental Bodies**	
 
 <img src="/images/COA%202024/Prosperity%20Through%20Quality/Conferences_1_and_2.jpg" style="width:100%;">
- <div style="background-color: white;"><i>Images reproduced from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759"><i> Summary of Proceedings: Singapore Conference Hall 23rd to 26th October, 1968: National Conference on Scientific and Technical Co-operation between Industries and Governmental Bodies</i></a>(Singapore: Singapore Institute of Standards and Industrial Research, 1986), 13-14. (From National Library, Singapore, call no. 381.33).</i></div>
+ <div style="background-color: white;"><i>Images reproduced from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759"><i> Summary of Proceedings: Singapore Conference Hall 23rd to 26th October, 1968: National Conference on Scientific and Technical Co-operation between Industries and Governmental Bodies</i></a> (Singapore: Singapore Institute of Standards and Industrial Research, 1986), 13-14. (From National Library, Singapore, call no. RCLOS 338.095951 NAT).</i></div>
 
 
 The early days of the Republic were a time of economic anxiety, and the government decided the only way forward involved the rapid appropriation and deployment of Science and Technology. In February 1966, an Ad Hoc Scientific Committee was established to advise the government on scientific matters, but its non-official status meant it lacked funding and access to confidential data. To remedy these shortcomings, Deputy Prime Minister Dr Toh Chin Chye introduced the Science Council of Singapore Bill in 1967 to grant this advisory body official status. Among its envisioned functions were to investigate technical problems such as the effective deployment of utilities and the prevention of pollution, to establish relationships with other scientific bodies, and “to study how industrial development [could] be promoted by the effective training and utilisation of scientific and technological manpower”.[^4]  It would be headed by Dr Lee Kum Tatt, then a biochemist at the Ministry of Health.[^5] 
@@ -52,7 +52,7 @@ Baker and Woo envisioned that this national standards body would concern itself 
 
 In addition, they wanted a distinct institution that would test products for compliance with standards and certify them accordingly.[^17]  With such a clear consensus from both industry and government representatives, standardisation was bound to take off. The only question was how best to implement this programme.
 
-#### ***From IRU to SISIR***
+#### **From IRU to SISIR**
 
 By 1968, modest efforts at standardisation were already underway at EDB’s Industrial Research Unit (IRU). T.R. Pollard, the Colombo Plan expert from New Zealand who had recommended establishing the IRU in 1960, had at the same time recommended establishing a standards bureau.[^18] Consequently, in 1963, EDB’s Technical Consultant Services Division announced the opening of the IRU and a separate Standards Unit. The relationship between the IRU and a standardisation programme continued to be openly discussed – for example, at the IRU Advisory Council’s second meeting on 18 October 1963, the setting up of a Standards Bureau for Malaysia was reviewed, and the council seemed to believe the IRU would be the natural choice as a testing authority for standards in Singapore.[^19]  
 
