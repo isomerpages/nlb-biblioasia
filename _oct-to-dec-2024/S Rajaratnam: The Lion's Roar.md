@@ -75,7 +75,12 @@ Besides Raja, the core leaders of the first-generation Cabinet were Lee, the cou
 ![](/images/Vol%2020%20Issue%203/Rajaratnam/rajaratnam_parliamentary.jpg)
 <div style="background-color:white;"> Then Foreign Affairs Minister S. Rajaratnam (extreme left) at a parliamentary session in 1967. To his left is Deputy Prime Minister Toh Chin Chye, Prime Minister Lee Kuan Yew and Finance Minister Goh Keng Swee. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
-But Raja had some qualities that set him apart. The depth of his convictions, the breadth of his interests, and the length of his vision made him an exceptional figure, as did the power of his prose and polemics. But he had something more than that – an almost limitless imagination paired with fearless audacity. It was these qualities that helped to infuse his dispirited colleagues, including Lee, and a doubting nation with a sense of optimism and self-confidence in the most dire hours of independence, when they did not know whether Singapore was going to survive.
+But Raja had some qualities that set him apart. The depth of his convictions, the breadth of his interests, and the length of his vision made him an exceptional figure, as did the power of his prose and polemics. But he had something more than that – an almost limitless imagination paired with fearless audacity. It was these qualities that helped to infuse his dispirited colleagues, including Lee, and a doubting nation with a sense of optimism and self-confidence in the most dire hours of independence, when they did not know whether Singapore was going to 
+
+<div style="background-colour:#fff6ba; padding:5px;font-size:120%; background: #fff6ba"><center>
+<b>Listen to the podcast episode "<a href="https://biblioasia.nlb.gov.sg/podcast/s-rajaratnam-singapores-first-foreign-minister/">He Wrote the National Pledge: S Rajaratnam, Singapore's First Foreign Minister</a>"</b>
+<br>
+<img src="/images/Podcast/ad_banner_biblioasia.jpg" alt="singapore history podcast Rajaratnam" style="width:95%"></center></div>
 
 Of all the varied chapters in Raja’s tumultuous life, the story of his struggle for a Malaysian Malaysia, and then a Singaporean Singapore, is one of the most insightful in terms of the clues it provides into his character and motivations.
 
