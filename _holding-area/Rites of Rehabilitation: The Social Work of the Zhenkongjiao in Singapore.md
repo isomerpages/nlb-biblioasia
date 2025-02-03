@@ -36,7 +36,7 @@ The inaugural Zhenkongjiao temple in Southeast Asia, Pili Hongmaodan Zhenkong Zu
 
 Aside from Huang Daoyun and Huang Shengfa, four other practitioners (along with their disciples) can be credited with growing the movement’s presence and renown in Southeast Asia: Xu Rukan (1874–1910), Su Wenlong (1876–1963), Huang Dazhong (1885–1950) and Lin Huawen (most active in 1925).[^7]
 
-When Xu’s disciple Zhu Wenxiu cured the rubber magnate Li Xiujiao of an ailment, his grateful Peranakan wife, Ruan Yang, became Zhu’s disciple. She gifted a seaside villa to the Zhenkongjiao, which is where Poon Guan San Thoh Tong temple stands today in Pasir Panjang.[^8] Su Wenlong, another key figure, established temples in Hat Yai, Thailand and Malaya. He served as the resident master in Fook Poon Tong (then in Admiralty in Singapore) until his death in 1963.
+When Xu’s disciple Zhu Wenxiu cured the rubber magnate Li Xiujiao of an ailment, his grateful Peranakan wife, Ruan Yang, became Zhu’s disciple. She gifted a seaside villa to the Zhenkongjiao, which is where Poon Guan San Thoh Tong temple stands today in Pasir Panjang in Singapore.[^8] Su Wenlong, another key figure, established temples in Hat Yai, Thailand and Malaya. He served as the resident master in Fook Poon Tong (then in Admiralty in Singapore) until his death in 1963.
 
 By the 1960s, the number of Zhenkongjiao temples in Singapore had increased to 25, from five in 1929.[^9] The reasons for the boom in temple construction during this period are uncertain and difficult to trace. However, one interesting hypothesis proposed by researchers Ouyang Banyi and Shi Cangjin suggests that the boom in the movement’s popularity from the 1930s could be traced to the Great Depression (1929–39).[^10]
 
@@ -50,7 +50,7 @@ After the Japanese Occupation ended in 1945, British authorities took notice of 
 <br>
 <img src="/images/Online%20Only%20Articles/Rites%20of%20Rehabilitation/19980005535_IMG0102.jpg" style="width: 80%;">Authorisation card to purchase opium from an opium shop on Queen Street, Syonan-to (Singapore), during the Japanese Occupation, 1942. <i>Chew Chang Lang Collection, courtesy of National Archives of Singapore.</i></div>
 
-However, not everyone was convinced of the Zhenkongjiao’s methods. Throughout the 1950s, the Zhenkongjiao and medical professionals clashed in newspaper forums and editorials, with the latter denouncing their rituals as “nonsense.” The Thian Ling Chong Toh Tong temple responded by issuing a challenge, which went unanswered, to detractors to prove their methods did not work.[^15] Despite scepticism from some quarters, the judiciary sentenced convicted addicts to the Zhenkongjiao’s opium rehabilitation programme, underscoring the relationship between colonial interests and the Zhenkongjiao.[^16]
+However, not everyone was convinced of the Zhenkongjiao’s methods. Throughout the 1950s, the Zhenkongjiao and medical professionals clashed in newspaper forums and editorials, with the latter denouncing their rituals as “nonsense”. The Thian Ling Chong Toh Tong temple responded by issuing a challenge, which went unanswered, to detractors to prove their methods did not work.[^15] Despite scepticism from some quarters, the judiciary sentenced convicted addicts to the Zhenkongjiao’s opium rehabilitation programme, underscoring the relationship between colonial interests and the Zhenkongjiao.[^16]
 
 By 1956, there was growing acceptance by the government, with Thian Ling Chong Toh Tong temple being interchangeably referred to in the English press as the secular-sounding “Opium Addicts Treatment Association” and “Faith Healing and Opium Curative Centre”.[^17] A Dr Leong Hon Koon, representing the authorities, praised the temple’s methods, contrasting them with the relatively higher relapse rates of those who had been treated at the Opium Treatment Centre on St John’s Island, where similar cold turkey methods were used but with less success.[^18]
 
@@ -82,7 +82,7 @@ Interestingly, the concept of sacrificial transference mirrors the lives of Zhen
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Rites%20of%20Rehabilitation/19980001276___0014.jpg" style="width: 80%;">Chief Minister of Singapore Lim Yew Hock with guests and teachers of the Opium Addicts’ Treatment Association Singapore at a special thanksgiving service at Thian Ling Chong Toh Tong Temple at 5½ milestone Changi Road. A man (squatting) prepares a chicken for ritual sacrifice, 1956. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+<img src="/images/Online%20Only%20Articles/Rites%20of%20Rehabilitation/19980001276___0014.jpg" style="width: 80%;">Chief Minister of Singapore Lim Yew Hock with guests and teachers of the Opium Addicts’ Treatment Association Singapore at a special thanksgiving service at Thian Ling Chong Toh Tong Temple at 5½ milestone Changi Road. A man prepares a chicken for ritual sacrifice, 1956. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Beyond Treating Opium Addiction**
 
