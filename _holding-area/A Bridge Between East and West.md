@@ -104,9 +104,12 @@ By the 1950s, the lively art scene and market in Singapore were supported by a g
 This led to considerable experimentations in both the ink and oil media. Artists like Chen Chong Swee incorporated Western fixed-point perspective and the use of shadows in their ink paintings – traits not usually found in traditional Chinese paintings. Others like Chen Wen Hsi adopted Western modern styles such as Cubism and Abstraction to create unconventional compositions for their ink paintings.&nbsp;
 
 ![](/images/Vol%2021%20Issue%201/Liu%20Kang%20The%20Artist/bridge_washing.jpg)
-<div><i>Washing by the River</i> (1950) by Chen Chong Swee, Chinese ink and colour on paper, 146 × 40 cm. Gift of the artist’s family. © Family of Chen Chong Swee. <i>Collection of National Gallery Singapore, courtesy of National Heritage Board.  </i></div>
+<div><i>Washing by the River</i> (1950) by Chen Chong Swee, Chinese ink and colour on paper, 146 × 40 cm. Gift of the artist’s family. © Family of Chen Chong Swee. <i>Collection of National Gallery Singapore, courtesy of National Heritage Board. </i></div>
 
 There were similarly innovative approaches in oil paintings. For instance, Cheong Soo Pieng favoured the prominent use of black lines and thin washes of colour to imbue his oil paintings with the atmospheric mood associated with “写意” (_xieyi_) landscapes. Others like Yeh Chi Wei incorporated archaic-style Chinese inscriptions in their oil paintings to convey the flavour of ancient ink rubbings. These artists demonstrated an openness to new ways of expression, and the ability to draw freely from diverse sources of art traditions and practices in their pursuit of modern art.&nbsp;
+
+![](/images/Vol%2021%20Issue%201/Liu%20Kang%20The%20Artist/bridge_dayak.jpg)
+<div><i>The Dayak Plays the Musical Instrument </i> (1975) by Yeh Chi Wei, oil on canvas, 158 × 49 cm. © Yeh Toh Yen. <i>Collection of National Gallery Singapore, courtesy of National Heritage Board. </i></div>
 
 The study of modern Asian art is complex. Artists like Liu grappled with the forces of tradition and modernity as they sought to create works that expressed the society they lived in during an era of unprecedented changes and opportunities. Hence, it is problematic to categorise their works in Western-centric terms. It is neither helpful nor illuminating to regard Liu as a “teacher” or “follower” of Matisse. Rather, such artworks need to be understood within their own specific socio-historical contexts. This is especially critical in throwing light on how Asian societies (of which artists form a part) assert their identities in an ongoing dialogue with Western modernity.
 
