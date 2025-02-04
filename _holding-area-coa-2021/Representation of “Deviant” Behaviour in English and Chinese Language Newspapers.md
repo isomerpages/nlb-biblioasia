@@ -295,3 +295,82 @@ inquests, reinforced perspectives of suicide as deviant and illustrated the
 importance of reputation and respectability to being “European”.
 
 #### ***Douglas Vincent Gibson***
+
+Douglas Vincent Gibson was the division manager of United Exporters
+Limited for Malaya, British North Borneo, Siam and Northern Sumatra.
+On the morning of 8 November 1930, he was reported missing by the
+assistant division manager, and his body was later found drifting in the
+waters off the beach at Changi. An inquest determined that Gibson had
+died of drowning, though the exact circumstances of his death remained
+unclear.41 Rumours ran rife that Gibson had taken his own life by shooting
+or poisoning himself. The circulation of such rumours and the authorities’
+efforts to disprove them during the inquest – especially considering Gibson’s
+prominence and high social status – attest to the categorising of suicide as unbecoming for “respectable” Europeans in colonial settings.42 That the
+efforts to counter the rumours were reported extensively in the newspapers
+illustrates not only that the circumstances of Gibson’s death were of interest
+to readers, but also that the press played a role in shaping the discourse
+surrounding Europeans’ deviant behaviour.
+
+According to the *Straits Times*, Gibson was a “well-known resident”
+of Singapore.43 His funeral was “well attended” by “a large number of
+mourners”, and many wreaths were sent by prominent companies and
+associations in Singapore.44 The coroner’s inquest was attended by a number
+of Europeans, demonstrating “unusual interest” in the case.45 The assistant
+superintendent conducting the inquest noted that “the tragedy had caused
+quite a lot of talk about town”.46 The question of whether Gibson had
+committed suicide was significant, as it potentially undermined the basis
+of racial superiority and colonial rule. The deviancy of suicide and its
+detriment to one’s reputation and respectability were best illustrated at the
+conclusion of the inquest, during which Mrs Gibson’s legal representative
+implored the jury not to “inflict… the stigma of suicide” on Gibson, an
+“honourable and highly respected man”.47
+
+The authorities sought to prove that Gibson had not taken his own life
+by establishing that he had no motives for doing so. They first posited that
+as Gibson was not “in any financial embarrassment but was as a matter of
+fact well off”, there appeared to be no possible reason for him to commit
+suicide.48 That the absence of financial embarrassment was equated to the
+absence of motive to commit suicide is telling of the significance of wealth
+for European men of higher social status in maintaining an appearance of respectability.49 The alleged shame from a lack of financial resources
+was presumably a sufficient impetus to take one’s own life. It also suggests
+that financial embarrassment was one of the few, if not the only, causes for
+suicide among European men of higher social status that could be publicly
+discussed. The authorities also relied on the medical evidence to counter
+rumours of Gibson having shot himself before entering the water, stating
+that “there were no external marks of violence either about the mouth
+or body”.50
+
+Mrs Gibson’s letters that were received after her husband’s death were
+also read out in open court. Her legal representative had asked for some
+parts of the letters be read out to “dispel some gossip that had been going
+about”.54 The two passages that were read out were “I really don’t care what
+happens till I come back to you once again” and “Oh, how I long for you.
+
+I shall never, never stop telling you all I have to tell you about how much
+I adore you, with all my heart, when we are together again”.55 By showing
+the affection between the couple in the letters, both the authorities and Mrs
+Gibson’s lawyer sought to demonstrate that his marital relations were not a
+possible motive for suicide. The newspapers subsequently published the first
+letter in its entirety and extracts of Mrs Gibson’s letters that were “written
+in very affectionate terms”, in an effort to counter the rumours circulating
+around town.56 *Nanyang Siang Pau*, which had been covering the inquest
+closely, similarly published the extracts and used one of them in an article
+headline – “I shall tell you that I love you with all my heart” (“我将告诉你,
+我整个的心儿爱你”).57
+
+The public constituted a space in which ideals of European respectability
+could be challenged, and transgressions of the private-public boundary
+brought about anxieties among European elites.58 Hence, making the
+private letters public showed the great extent of anxiety and consternation
+among Europeans elicited by the possibility of a European man of higher
+social status having committed suicide; the imperative to prove that
+Gibson had not committed suicide overrode potential anxieties that could
+have arisen from making the private public. The portrayal of Gibson as
+honourable, respectable and loving – thus determined to be impossible to
+have committed suicide – marked him as an ideal European in colonial
+settings and emphasised that suicide was considered by Europeans as
+deviant behaviour, especially for European men of prominence and higher
+social status.
+
+
+
