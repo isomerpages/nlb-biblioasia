@@ -105,7 +105,7 @@ As the testing agency for standards, SISIR can be thought of as a mediator. It i
 
 <img src="/images/COA%202024/Prosperity%20Through%20Quality/buying_to_specifications_p25.jpg" style="width:60%;">
 <div style="background-color: white;">SISIR mediated the relationship between manufacturer and consumer
-<i>Image reproduced from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=203884291"><i>Buying to Specifications</i></a>         (Singapore: Singapore Institute of Standards and Industrial Research, 1986), 25. (From National Library, Singapore, call no. 381.33)</i></div>         
+<i>Image reproduced from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=203884291"><i>Buying to Specifications</i></a>         (Singapore: Singapore Institute of Standards and Industrial Research, 1986), 25. (From National Library, Singapore, call no. RCLOS 381.33)</i></div>         
 
 To test the credibility of a product, SISIR had to carry out a range of scientific tests for the sake of standardisation, and hence the same technical apparatus could be used for testing standards and for industrial research.
 
