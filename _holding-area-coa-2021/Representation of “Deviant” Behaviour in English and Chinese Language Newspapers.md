@@ -251,5 +251,50 @@ and Indians:
    of these concoctions, and was rendered mad-drunk, it being<br>
    more than a week before he was again fit for duty.37
 
+In contrast, the type of alcohol McAlister had consumed prior to the
+assault was not mentioned in the Chinese papers, suggesting that the editors
+regarded such information as of little significance to their readers. It also
+suggests that the Chinese-speaking population did not perceive a link
+between cheap alcohol and European disorderliness.
+
+#### **Suicide as Deviant Behaviour**
+
+Even as both English and Chinese-language newspapers represented
+European deviance as a low-class European problem, deviance was not
+confined to those Europeans. We can examine the shifting parameters of
+European deviance by looking at another behaviour: suicide. This section
+examines the ways in which European suicide was articulated as deviant
+within the European population in colonial Singapore.
+
+Suicide has long been regarded in Western societies as deviant. By
+the early 19th century, with the rise of the medical profession, suicide was
+promulgated as the result of insanity.38 By the end of the century, suicide
+had become increasingly associated with degeneracy and immorality,
+and was regarded as representative of national decline.39 These tropes
+of European insanity, degeneracy, and immorality were at the heart of
+colonial anxieties surrounding the maintenance of racial superiority and
+the vulnerability of colonial rule. Rationality and morality were ostensibly characteristics that distinguished the coloniser from the colonised; European
+suicide thus potentially undermined racial superiority and colonial rule.
+Considering that reputation and respectability were closely intertwined,
+and that deviance was associated with lower social status, this section posits
+that European suicide elicited acute anxieties particularly when Europeans
+of higher social status took their own lives. Hence European deviance was
+not a static construct confined to specific groups of people, but rather an
+articulation of colonial expectations, manifest in the inclusion and exclusion
+of certain Europeans within the category of “European”.40
+
+This section examines the newspaper coverage of the coroner’s inquests
+into the deaths of two Europeans, Douglas Vincent Gibson and Olvard
+Wohl Schroeder, who were arguably of relatively high social status. As
+the respective inquests proceeded, it became apparent that the two men’s
+perceived social status contributed to the press coverage. Especially
+for European men of arguably higher social status, the boundaries of
+Europeanness were premised upon the financial resources to appear
+“respectable”. The newspaper articles, in reporting the proceedings of the
+inquests, reinforced perspectives of suicide as deviant and illustrated the
+importance of reputation and respectability to being “European”.
+
+#### ***Douglas Vincent Gibson***
+
 
 
