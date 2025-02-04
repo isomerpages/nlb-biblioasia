@@ -47,6 +47,11 @@ Liu readily acknowledged his influence by modern Western artists.[^10] “Art wa
 
 Works from Liu’s Paris period in the early 1930s – such as _Autumn Colours_ (1930), _Farmer’s House_ (1930) and _Breakfast_ (1932) – reflect the influence of the abovementioned artists in terms of the “expressiveness of brush strokes, imposing presence of forms, and flattening and merging of planes to construct colour blocks”.[^12] Among the Western artists, Liu admired Matisse greatly.[^13] He regarded the latter, along with Picasso, as the two key artists of 20th-century Western art.[^14] Liu said of Matisse: “My artistic career has been very much influenced by this leader of the Fauvist school. Matisse influenced me in many ways – the pursuit of innovation, the expansion of bold vision and the sublimation of images.”[^15]
 
+
+![](/images/Vol%2021%20Issue%201/Liu%20Kang%20The%20Artist/bridge_breakfast.jpg)
+<div><i>Breakfast</i> (1932) by Liu Kang, oil on canvas, 44.5 × 53.5 cm.   <i>Collection of National Gallery Singapore, courtesy of National Heritage Board. </i></div>
+
+
 Liu was impressed by Matisse’s paintings with their brilliant colour, fluid lines and emotional exuberance. Shading, modelling and perspective are secondary to colour, which is used to create mood and emotion.[^16] Although Matisse’s works are never fully non-representational, they often evoke the abstraction found in music, where a sense of rhythm and harmony is conveyed through the play of lines and colours.&nbsp;
 
 Matisse once wrote: “Expression, for me, does not reside in passions glowing in a human face or manifested by violent movement. The entire arrangement of my picture is expressive; the place occupied by the figures, the _empty spaces around them_, the proportions, everything has its share \[emphasis added\].”[^17] He further wrote: “I cannot copy nature in a servile way; I am forced to interpret nature and submit it to the _spirit of the picture_. From the relationship I have found in all the tones, there must result a living harmony of colours, a harmony analogous to that of a musical composition \[emphasis added\].”[^18]
