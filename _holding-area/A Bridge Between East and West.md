@@ -119,24 +119,24 @@ The study of modern Asian art is complex. Artists like Liu grappled with the for
 	
 [^9]: Chia, “[Introduction](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8726393),” 15.
 	
-[^10]: This has also been noted by other commentators such as the artist Pan Shou and art promoter Frank Sullivan, who mentioned Liu Kang’s admiration of Cézanne, Gauguin, Utrillo, Dufy and, particularly, Van Gogh and Matisse. See Liu Kang 刘抗, 刘抗画集 \[Collection of Liu Kang’s paintings\] (\[Singapore: n.p., 1957), x. (From National Library Singapore, call no. RCLOS 759.95957 LK-\[LK\])
+[^10]: This has also been noted by other commentators such as the artist Pan Shou and art promoter Frank Sullivan, who mentioned Liu Kang’s admiration of Cézanne, Gauguin, Utrillo, Dufy and, particularly, Van Gogh and Matisse. See Liu Kang 刘抗, [刘抗画集](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13066041) \[Collection of Liu Kang’s paintings\] (\[Singapore: n.p., 1957), x. (From National Library Singapore, call no. RCLOS 759.95957 LK-\[LK\])
 
 	
-[^11]: Richard Lim, ed., _Singapore Artists Speak_ (Singapore: C.H. Yeo, 1990), 68. (From National Library Singapore, call no. RSING 709.5957 SIN)
+[^11]: Richard Lim, ed., [_Singapore Artists Speak_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6805774) (Singapore: C.H. Yeo, 1990), 68. (From National Library Singapore, call no. RSING 709.5957 SIN)
 	
-[^12]: Kwok Kian Chow, _Channels and Confluences: A History of Singapore Art_ (Singapore: Singapore Art Museum, 1996), 52. (From National Library Singapore, call no. RSING 709.5957 KWO)
+[^12]: Kwok Kian Chow, [_Channels and Confluences: A History of Singapore Art_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7628104) (Singapore: Singapore Art Museum, 1996), 52. (From National Library Singapore, call no. RSING 709.5957 KWO)
 	
-[^13]: Liu wrote two articles on Matisse, one in 1951 (pp. 28–37) and the other in 1971 (pp. 122–132). See Liu, 刘抗文集, 28–37, 122–32.&nbsp;
+[^13]: Liu wrote two articles on Matisse, one in 1951 (pp. 28–37) and the other in 1971 (pp. 122–132). See Liu, [刘抗文集](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84492559), 28–37, 122–32.&nbsp;
 	
-[^14]: Liu, _Liu Kang at 87_, 30.
+[^14]: Liu, [_Liu Kang at 87_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8726393), 30.
 	
-[^15]: Liu, _Liu Kang at 87_, 26.
+[^15]: Liu, [_Liu Kang at 87_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8726393), 26.
 	
 [^16]: Matisse’s writings are illuminating in this aspect. He wrote: “The chief function of colour should be to serve expression as well as possible. I put down my tones without a preconceived plan. If at first, and perhaps without my having been conscious of it, one tone has particularly seduced or caught me, more often than not once the picture is finished, I will notice that I have respected this tone while I progressively altered and transformed all the others. The expressive aspect of colours imposes itself on me in a purely instinctive way. To paint an autumn landscape, I will not try to remember what colours suit this season, I will be inspired only by the sensation that the season arouses in me; the icy purity of the sour blue sky will express the season just as well as the nuances of foliage. My sensation itself may vary, the autumn may be soft and warm like a continuation of summer, or quite cool with a cold sky and lemon yellow trees that give a chilly impression and already announce winter. My choice of colours does not rest on any scientific theory; it is based on observation, on sensitivity, on felt experiences.” See Flam, _Matisse on Art_, 38.
 	
 [^17]: Flam, _Matisse on Art_, 36.
 	
-[^18]: Flam, _Matisse on Art_, 37. Liu Kang also quoted the same passage from Matisse’s “Notes of a Painter”. See Liu, _Liu Kang at 87_, 31–32.
+[^18]: Flam, _Matisse on Art_, 37. Liu Kang also quoted the same passage from Matisse’s “Notes of a Painter”. See Liu, [_Liu Kang at 87_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8726393), 31–32.
 	
 [^19]: Chen Wen Hsi, Liu Kang’s peer and one of the four artists in the joint exhibition, recalled: “People said that it \[Post-Impressionism\] was the school of ‘external appearance’. That is, they paid attention to light and air. So, while Impressionist works were fuzzy and did not have very clear lines, the Post-Impressionists had clearer and broader strokes. There was a lack of subjectivity in this. It is like painting something by referring to the lines of symmetry. After this, there were Fauvism and Cubism. Here, it is the application of subjectivity. You are gradually applying subjectivity to control the look of the picture.” See Chen Wen Hsi’s oral history interview transcript Part 2 in Chen Wenxi, _Convergences – Chen Wen Hsi Centennial Exhibition_ (Singapore: Singapore Art Museum, 2006), 20. (From National Library Singapore, call no. RSING 759.95957 CHE-\[LKY\])
 	
