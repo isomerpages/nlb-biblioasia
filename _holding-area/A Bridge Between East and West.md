@@ -115,9 +115,9 @@ The study of modern Asian art is complex. Artists like Liu grappled with the for
 	
 [^7]: Both Japan and France were sources of Western-style art education for early Chinese artists. By the late 19th century, Japan was already a modern nation-state with an education system based on the Western model. By 1876, the government had set up the first official institution of art education that aimed to apply modern European techniques to traditional Japanese methods with instructors hired from Italy. Similarly, Liu Kang recalled that the teachers in Western painting at the Shanghai Academy of Fine Arts in the late 1920s were highly interested in Impressionism as many had studied in France. Teachers such as Chen Hong, Wu Dayu and Gao Leyi frequently mentioned the importance of the fleeting effects of light, warm and cool colour relationships as well as dynamic brushwork, and admired artists like Manet, Monet and Degas. See Liu Kang, “An Artist in Art Education,” in Chen Renhao 陈人浩, [人浩书画: _The Collection of Chinese Calligraphy and Painting by the Late Mr Chen Jen Hao_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84446651) (新加坡: 新加坡中华书学协会, 1984), n.p. (From National Library Singapore, call no. RCLOS 759.95957 CJH)
 	
-[^8]: Chia, “Introduction,” 16.
+[^8]: Chia, “[Introduction](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8726393),” 16.
 	
-[^9]: Chia, “Introduction,” 15.
+[^9]: Chia, “[Introduction](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8726393),” 15.
 	
 [^10]: This has also been noted by other commentators such as the artist Pan Shou and art promoter Frank Sullivan, who mentioned Liu Kang’s admiration of Cézanne, Gauguin, Utrillo, Dufy and, particularly, Van Gogh and Matisse. See Liu Kang 刘抗, 刘抗画集 \[Collection of Liu Kang’s paintings\] (\[Singapore: n.p., 1957), x. (From National Library Singapore, call no. RCLOS 759.95957 LK-\[LK\])
 
