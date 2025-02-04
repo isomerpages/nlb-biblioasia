@@ -141,7 +141,7 @@ This article is written with the assistance of Ustaz Nasrullah Refa’ie, Ustaza
 
 
 
-[^2]: Faridah Che Husain, “Seni Kaligrafi Islam Di Malaysia Sebagai Pencetus Tamadun Melayu Islam” (Master’s thesis, Universiti Malaya, 2000), 65–66, [http://ir.upm.edu.my/find/Record/u502336](http://ir.upm.edu.my/find/Record/u502336).
+[^2]: Faridah Che Husain, “Seni Kaligrafi Islam Di Malaysia Sebagai Pencetus Tamadun Melayu Islam” (Master’s thesis, Universiti Malaya, 2000), 65–66, http://ir.upm.edu.my/find/Record/u502336.
 
 
 
