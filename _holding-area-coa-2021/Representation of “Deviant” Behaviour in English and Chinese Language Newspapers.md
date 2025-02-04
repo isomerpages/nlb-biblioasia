@@ -295,6 +295,3 @@ inquests, reinforced perspectives of suicide as deviant and illustrated the
 importance of reputation and respectability to being “European”.
 
 #### ***Douglas Vincent Gibson***
-
-
-
