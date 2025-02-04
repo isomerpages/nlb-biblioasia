@@ -10,7 +10,7 @@ notification: ""
 sections:
   - hero:
       url: /vol-20/issue-4/jan-mar-2025/william-somerset-maugham-secrets/
-      button: "W. Somerset Maugham: Secrets from the Outstations"
+      button: W. Somerset Maugham
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
