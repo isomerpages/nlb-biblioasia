@@ -100,8 +100,42 @@ The study of modern Asian art is complex. Artists like Liu grappled with the for
 	
 #### **NOTES**
 
-[^1]: 
-	
+[^1]:     p.p1 {margin: 0.0px 0.0px 0.0px 9.9px; text-indent: -9.9px; line-height: 8.5px; font: 7.0px Calibri} span.s1 {letter-spacing: -0.4px} span.s2 {font: 7.0px 'DFPHeiW3-GB'; letter-spacing: -0.4px} span.s3 {font: 7.0px 'Hiragino Sans'; letter-spacing: -0.4px} span.s4 {letter-spacing: -0.5px}
+
+“Bali – By 4 Chinese Artists,” _Straits Times_, 10 November 1953, 2. (From NewspaperSG)
+
+In Liu Kang’s oral history interview, he mentioned this incident twice, using slightly different phrases. In one account, Xu was supposed to have said, “This painting is truly the teacher of Matisse” (“这张画才是马諦斯的老师”). See Liu Kang, oral history interview by Tan Beng Luan, 7 December 1982, transcript and MP3 audio, Reel/Disc 21 of 74, National Archives of Singapore (accession no. 000171), 186–194; 刘抗 Liu Kang, “四十五年来新加坡的西洋画,” (Development of Western painting in Singapore in the past 45 years) in _Liu Kang: Essays on Art &amp; Culture_, ed. Sara Siew (Singapore: National Art Gallery, 2011), 232–33. (From National Library, Singapore, call no. RSING 709.50904 LIU); 刘抗 Liu Kang,刘抗文集 \[Essays by Liu Kang\] (新加坡: 教育出版社, 1981), 304. (From National Library Singapore, call no. RCLOS 709.2 LK)
+
+Liu Kang, interview, 7 December 1982, Reel/Disc 21 of 74, 186–94.
+
+Born in 1869 in France, Henri-Émile-Benoît Matisse moved to Paris to study art in 1891. He experimented with many styles and went on to create brightly coloured paintings, applied with a variety of brushwork styles, ranging from thick impasto to flat areas of pure pigment. Such paintings, when exhibited at the 1905 Salon d’Automne, gave rise to the first of the avant-garde art movements, Fauvism (from the French _fauves_, or “wild beasts”), named by a contemporary art critic who derided its arbitrary combinations of brilliant colours and energetic brushwork. Subsequently, although Matisse’s styles changed over the years, his underlying aim was always, as he had put it, to discover “the essential character” of things and to produce an art of “balance, purity and serenity”. He died in 1954. See Henri Matisse, “Notes of a Painter,” 1908, https://www.arthistoryproject.com/artists/henri-matisse/notes-of-a-painter/; Jack D. Flam, ed. _Matisse on Art_ (Oxford: Phaidon, 1978), 37.&nbsp;
+
+There is still some ambiguity over whether Liu Kang had instead attended École nationale supérieure des Beaux-arts since his brother-in-law Chen Jen Hao (with whom he travelled to Paris) was said to have studied at that art school. See Chen Jen Hao, _Painting and Calligraphy_ (Singapore: Siaw-Tao Chinese Seal Carving Calligraphy and Painting Society, 2006).&nbsp;
+
+Chia Wai Hon, “Introduction,” in Liu Kang, _Liu Kang at 87_ (Singapore: National Arts Council and National Heritage Board, 1997), 10–11. (From National Library Singapore, call no. RSING 759.95957 LIU)
+
+Both Japan and France were sources of Western-style art education for early Chinese artists. By the late 19th century, Japan was already a modern nation-state with an education system based on the Western model. By 1876, the government had set up the first official institution of art education that aimed to apply modern European techniques to traditional Japanese methods with instructors hired from Italy. Similarly, Liu Kang recalled that the teachers in Western painting at the Shanghai Academy of Fine Arts in the late 1920s were highly interested in Impressionism as many had studied in France. Teachers such as Chen Hong, Wu Dayu and Gao Leyi frequently mentioned the importance of the fleeting effects of light, warm and cool colour relationships as well as dynamic brushwork, and admired artists like Manet, Monet and Degas. See Liu Kang, “An Artist in Art Education,” in Chen Renhao 陈人浩, 人浩书画: _The Collection of Chinese Calligraphy and Painting by the Late Mr Chen Jen Hao_ (新加坡: 新加坡中华书学协会, 1984), n.p. (From National Library Singapore, call no. RCLOS 759.95957 CJH)
+
+Chia, “Introduction,” 16.
+
+Chia, “Introduction,” 15.
+
+This has also been noted by other commentators such as the artist Pan Shou and art promoter Frank Sullivan, who mentioned Liu Kang’s admiration of Cézanne, Gauguin, Utrillo, Dufy and, particularly, Van Gogh and Matisse. See Liu Kang 刘抗, 刘抗画集 \[Collection of Liu Kang’s paintings\] (\[Singapore: n.p., 1957), x. (From National Library Singapore, call no. RCLOS 759.95957 LK-\[LK\])
+
+Richard Lim, ed., _Singapore Artists Speak_ (Singapore: C.H. Yeo, 1990), 68. (From National Library Singapore, call no. RSING 709.5957 SIN)
+
+Kwok Kian Chow, _Channels and Confluences: A History of Singapore Art_ (Singapore: Singapore Art Museum, 1996), 52. (From National Library Singapore, call no. RSING 709.5957 KWO)
+
+Liu wrote two articles on Matisse, one in 1951 (pp. 28–37) and the other in 1971 (pp. 122–132). See Liu, 刘抗文集, 28–37, 122–32.&nbsp;
+
+Liu, _Liu Kang at 87_, 30.
+
+Liu, _Liu Kang at 87_, 26.
+
+
+
+
+
 [^2]: 
 	
 [^3]: 
@@ -131,43 +165,43 @@ The study of modern Asian art is complex. Artists like Liu grappled with the for
 	
 [^15]: 
 	
-[^16]: 
+[^16]: Matisse’s writings are illuminating in this aspect. He wrote: “The chief function of colour should be to serve expression as well as possible. I put down my tones without a preconceived plan. If at first, and perhaps without my having been conscious of it, one tone has particularly seduced or caught me, more often than not once the picture is finished, I will notice that I have respected this tone while I progressively altered and transformed all the others. The expressive aspect of colours imposes itself on me in a purely instinctive way. To paint an autumn landscape, I will not try to remember what colours suit this season, I will be inspired only by the sensation that the season arouses in me; the icy purity of the sour blue sky will express the season just as well as the nuances of foliage. My sensation itself may vary, the autumn may be soft and warm like a continuation of summer, or quite cool with a cold sky and lemon yellow trees that give a chilly impression and already announce winter. My choice of colours does not rest on any scientific theory; it is based on observation, on sensitivity, on felt experiences.” See Flam, _Matisse on Art_, 38.
 	
-[^17]: 
+[^17]: Flam, _Matisse on Art_, 36.
 	
-[^18]: 
+[^18]: Flam, _Matisse on Art_, 37. Liu Kang also quoted the same passage from Matisse’s “Notes of a Painter”. See Liu, _Liu Kang at 87_, 31–32.
 	
-[^19]: 
+[^19]: Chen Wen Hsi, Liu Kang’s peer and one of the four artists in the joint exhibition, recalled: “People said that it \[Post-Impressionism\] was the school of ‘external appearance’. That is, they paid attention to light and air. So, while Impressionist works were fuzzy and did not have very clear lines, the Post-Impressionists had clearer and broader strokes. There was a lack of subjectivity in this. It is like painting something by referring to the lines of symmetry. After this, there were Fauvism and Cubism. Here, it is the application of subjectivity. You are gradually applying subjectivity to control the look of the picture.” See Chen Wen Hsi’s oral history interview transcript Part 2 in Chen Wenxi, _Convergences – Chen Wen Hsi Centennial Exhibition_ (Singapore: Singapore Art Museum, 2006), 20. (From National Library Singapore, call no. RSING 759.95957 CHE-\[LKY\])
 	
-[^20]: 
+[^20]: Liu, _Liu Kang at 87_, 35.
 
 	
-[^21]: 
+[^21]: Quoting from Liu, 刘抗文集, 213, and cited by Kwok Kian Chow, _Journeys: Liu Kang and His Art_ (Singapore: National Arts Council and Singapore Art Museum, 2000), 14. (From National Library Singapore, call no. RSING 759.95957 LIU)&nbsp;
 	
-[^22]: 
+[^22]: Ralph Crozier, “Post Impressionists in Pre-War Shanghai: The Juelanshe (Storm Society) and the Fate of Modernism in Republican China,” in _Modernity in Asian Art_, ed. John Clark (Australia: Wild Peony Limited, 1993), 136. (From National Library Singapore, call no. RART 709.5 MOD)
 	
-[^23]: 
+[^23]: Mayching Kao, “The Quest for New Art,” in _Twentieth-Century Chinese Painting_, ed. Mayching Kao (Hong Kong; New York: Oxford University Press, 1988), 130.
 	
-[^24]: 
+[^24]: Ong Zhen Min, “A History of the Nanyang Academy of Fine Arts (1938–1990)” (Master’s thesis, National University of Singapore, 2006), 26–30, http://scholarbank.nus.edu.sg/handle/10635/15776.
 	
-[^25]: 
+[^25]: Liu Kang once said, “China has remained my artistic vision… I am always conscious of the vastness of the country, the sense of scale, the depth of vision, the inner strength and greatness which characterise Chinese culture and art.” Quoting from Gretchen Mahbubani, “Journey of a Pioneer Artist,” _Straits Times_, 1 December 1981, 1. (From NewspaperSG), in Liu, _Liu Kang at 87, x._
 	
-[^26]: 
+[^26]: Quoting from “Postscript,” in Liu Kang, _The Paintings of Liu Kang_ (Singapore: National Museum, Singapore, 1981), x. (From National Library Singapore, call no. RCLOS 759.95957 LIU); Chia, “Introduction,” 17. &nbsp;
 	
-[^27]: 
+[^27]: Liu, _Liu Kang at 87_, 27
 	
-[^28]: 
+[^28]: Chia, “Introduction,” 10.
 	
-[^29]: 
+[^29]: Quoting from “Preface III,” in Liu, _The Paintings of Liu Kang_; Chia, “Introduction,” 21.
 	
-[^30]: 
+[^30]: Chia, “Introduction,” 17.
 
 	
-[^31]: 
+[^31]: Kwok, _Channels and Confluences_, 52.
 	
-[^32]: 
+[^32]: Kwok Kian Chow, _From Ritual to Romance – Paintings Inspired by Bali_ (Singapore: Singapore Art Museum, 1994), 42. (From National Library Singapore, call no. RCLOS 759.9598 SI-\[LK\]). &nbsp;
 	
-[^33]: 
+[^33]: “Lee Siow Mong, “Introduction” in Liu, 刘抗画集, n.p.&nbsp;
 	
-[^34]: 
-	</div>
+[^34]: There were multiple players such as art promoters like Frank Sullivan, art historians like Michael Sullivan, collectors like Loke Wan Tho, and gallery and art supply shop owners like Tay Long. There was also a growing art market in the 1950s. For instance, paintings, worth a record $9,800, were sold at a joint show by Liu Kang, Chen Wen Hsi, Cheong Soo Pieng and Chen Chong Swee in 1951. See Kwok, _Channels and Confluences_, 40, 69.
+</div>
