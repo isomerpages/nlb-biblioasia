@@ -101,6 +101,11 @@ In their new home, these artists could continue their modernist pursuits without
 
 By the 1950s, the lively art scene and market in Singapore were supported by a growing network of collectors, exhibition venues, art societies, writers, curators and art supplies shops.[^34] The critical and commercial success of the 1953 _Bali_ exhibition is a reflection of the many opportunities given to Liu and his peers to integrate their understanding of Western and Chinese art, and the appreciation of their artistic innovations in Singapore.&nbsp;
 
+![](/images/Vol%2021%20Issue%201/Liu%20Kang%20The%20Artist/bridge_market.jpg)
+<div><i>At the Market</i>  (1964) by Cheong Soo Pieng, oil on canvas, 
+122 × 179 cm. <i>Collection of National Gallery Singapore, courtesy of National Heritage Board. </i></div>
+
+
 This led to considerable experimentations in both the ink and oil media. Artists like Chen Chong Swee incorporated Western fixed-point perspective and the use of shadows in their ink paintings – traits not usually found in traditional Chinese paintings. Others like Chen Wen Hsi adopted Western modern styles such as Cubism and Abstraction to create unconventional compositions for their ink paintings.&nbsp;
 
 ![](/images/Vol%2021%20Issue%201/Liu%20Kang%20The%20Artist/bridge_washing.jpg)
