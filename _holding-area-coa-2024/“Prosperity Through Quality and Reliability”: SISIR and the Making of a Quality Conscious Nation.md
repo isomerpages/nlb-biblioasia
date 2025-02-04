@@ -5,7 +5,8 @@ permalink: /holding-area/chapters-on-asia-2024/sisir-standards-quality-control/
 variant: markdown
 description: ""
 ---
-<img src="/images/COA%202024/Prosperity%20Through%20Quality/SISIR_buying_to_specifications_p14.jpg" style="width:60%;">
+
+<img src="/images/COA%202024/Prosperity%20Through%20Quality/SISIR_buying_to_specifications.jpg" style="width:60%;">
  <div style="background-color: white;"><i>Image reproduced from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=203884291"><i>Buying to Specifications</i></a> (Singapore: Singapore Institute of Standards and Industrial Research, 1986), 14. (From National Library, Singapore, call no. RCLOS 381.33).</i></div>
 
 #### **Introduction: A Reputation for Trade**
