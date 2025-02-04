@@ -56,8 +56,99 @@ order to cover the entire period. Other newspapers, such as the *Malaya
 Tribune*, the *Straits Times*, *SFPMA*, and *Sin Chew Jit Poh* (星洲日报),
 served as cross-references. Examining the press coverage of the inquests
 into the deaths of two Europeans, Douglas Vincent Gibson and Olvard
-Wohl Schroeder, reveals varied perceptions of deviance and its role in social
-categorisation.
+Wohl Schroeder, reveals varied perceptions of deviance and its role in social categorisation.
+
+#### **European Deviant Behaviour in Colonial Singapore**
+
+In colonial Singapore, whether a European’s behaviour was perceived as
+deviant depended on and marked one’s distance from the ideal “respectable”
+European. The boundaries of Europeanness, contingent and unfixed, were
+sensitive to racial tensions in colonial contexts, and were class- and genderspecific.
+6 Respectability was emphasised as a criterion of Europeanness,
+not only as a justification for colonial rule, but also to keep “potentially
+subversive” Europeans in check.7 In the early 20th century, the construction of Europeanness was closely intertwined with that of whiteness. In colonial
+settings, whiteness and its privileges were conferred when individuals
+exhibited a set of behaviour and characteristics that corresponded to the
+projection of racial prestige, which required prescriptive social rules and
+the resources to adhere to them.8 The distinctions within the European
+population in colonial settings were dictated by conventions of European
+middle-class respectability.9 As the “exclusionary politics of colonialism”
+demanded conformity, deviations from such conventions, or displays
+of behaviour deemed incompatible or contradictory, destabilised and
+challenged the boundaries of Europeanness.10
+
+The proximity and visibility of European deviant behaviour to the
+colonised Asian populations shaped how problematic it was. Colonial
+authorities and Europeans of higher social status balked when Europeans
+were found behaving undesirably in “public” or in spaces where they could
+be seen by people of various ethnicities, as compared to European-only
+spaces. Such indiscretions were feared to threaten the colonial sociopolitical
+hierarchy, and contributed to the colonial elites’ anxieties surrounding
+racial prestige.
+
+#### **Reports of European Deviant Behaviour in Newspapers**
+
+The press played an instrumental role in amplifying some behaviour as
+deviant and reinforced associations of low-class Europeans and deviant
+behaviour. As a producer of discourse, the press constructed narratives
+through reportage and advocated for interventions from the colonial
+authorities and civic organisations towards purported crises.11 The various
+English-language newspapers often carried similar or reproduced accounts
+of perceived deviant behaviour of Europeans. The *Straits Times*, especially,
+was considered by the residents in Singapore as a “European paper”, pertaining to its readership and perspective.12 The proliferation of accounts
+thus illustrates not just anxieties surrounding European deviance, but also
+their role in cautioning “respectable” Europeans against similar actions.
+
+European drunkenness in public, for example, was often reported
+in English-language newspapers as being accompanied by “disorderly”
+conduct, such as violence. The perpetrators were typically identified as
+transient Europeans or Europeans of lower social status, such as seamen
+and rank-and-file soldiers.13 In 1931, the *Straits Times*, *SFPMA*, and *Malaya
+Tribune* reported that a Private Edward Hayes had allegedly assaulted a
+police constable in Hill Street while intoxicated.14 These reports would
+have reinforced contemporary stereotypes of working-class or lower-status
+European men as oft-drunk and violent.15
+
+The case also highlights the spatiality of what constituted European
+deviant behaviour. Europeans of higher social status and with greater
+financial resources could afford to consume alcohol at premises that served
+exclusively European clientele, such as clubs and hotels.16 Their imbibition
+of large quantities of alcohol and drunken behaviour were rarely reported
+in the newspapers. In contrast, Europeans of lower social status, who were
+typically excluded from these places, obtained their alcoholic beverages
+from spaces designated as “public”, such as public houses, liquor shops
+and grogshops. Inter-ethnic interactions took place in these spaces, as
+the beverages in these places were affordable, fuelling colonial anxieties
+surrounding the visibility of European drunkenness and disorderliness.
+According to newspaper reports, Europeans were typically arrested for
+drunk and disorderly conduct near the docks at Tanjong Pagar, an area
+frequented by Europeans of lower social status, further illustrating their marginality.17 As being “drunk and disorderly” in public was liable
+to criminal charges, the proliferation of reports on such behaviour by
+Europeans of lower social status reveals the disproportionate impact that
+the criminalisation of such behaviour had on them. That the Europeans
+who were deemed to have engaged in deviant behaviour were often of lower
+social status highlights the relationship between space, social marginality,
+and mobility.18
+
+European deviant behaviour was discussed in English-language
+newspaper editorials, and readers wrote letters to the editors, urging the
+colonial authorities and social reform organisations to intervene. “Anxious
+Parent”, for example, wrote to the editor of the *Malaya Tribune*, calling for
+measures against prostitution. Brothels in the city centre, he proclaimed,
+were tempting young British men to step on the “Road to Ruin”. He
+questioned:
+
+   What on earth is the use of preaching morality in our schools,<br>
+   churches and chapels when immorality is allowed to thrive<br>
+   and flourish almost one stone’s throw from our schools?<br>
+   What are the missionaries doing? Why don’t they stir up the<br>
+   responsible authorities? Is it not within their purview?19
+
+The editor concurred, remarking that “surely the authorities have the
+power to control so degrading an evil flourishing in the very heart of the
+city.”20 Another letter agreed with the sentiments made, commenting that
+the Esplanade had been made “the happy hunting ground of ladies of easy
+virtue and the demi-monde generally every evening of the week”.21
 
 
 
