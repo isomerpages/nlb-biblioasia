@@ -10,12 +10,22 @@ notification: ""
 sections:
   - hero:
       url: /vol-20/issue-4/jan-mar-2025/william-somerset-maugham-secrets/
-      button: "W. Somerset Maugham: Secrets from the Outstations"
+      button: W. Somerset Maugham
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 20 Issue 4/Somerset/HeroImage_somerset_2.jpg
+  - infopic:
+      title: Early Malay Comics
+      subtitle: BiblioAsia Reels
+      id: infopic
+      description: Early Malay cartoons in local newspapers in the 1930s paved the way
+        for Malay comic books published in the 1950s.
+      button: WATCH THE VIDEO
+      url: /videos/reels/
+      image: "/images/Videos: BiblioAsia Reels/Early_Malay_Comics2.jpg"
+      alt: Malay Comics
   - infopic:
       title: "The Liu Kang Collection: A Portrait of an Artist"
       subtitle: Art

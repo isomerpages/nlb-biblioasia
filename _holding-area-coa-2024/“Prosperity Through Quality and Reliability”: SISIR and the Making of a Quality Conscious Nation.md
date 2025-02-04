@@ -1,12 +1,13 @@
 ---
 title: "“Prosperity Through Quality and Reliability”: SISIR and the Making of a
-  Quality conscious Nation"
-permalink: /holding-area/chapters-on-asia-2024/prosperity-through-quality-reliability/
+  Quality Conscious Nation"
+permalink: /holding-area/chapters-on-asia-2024/sisir-standards-quality-control/
 variant: markdown
 description: ""
 ---
-<img src="/images/COA%202024/Prosperity%20Through%20Quality/SISIR_buying_to_specifications_p14.jpg" style="width:80%;">
- <div style="background-color: white;"><i>Image reproduced from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=203884291"><i>Buying to Specifications</i></a> (Singapore: Singapore Institute of Standards and Industrial Research, 1986), 14. (From National Library, Singapore, call no. 381.33).</i></div>
+
+<img src="/images/COA%202024/Prosperity%20Through%20Quality/SISIR_buying_to_specifications.jpg" style="width:60%;">
+ <div style="background-color: white;"><i>Image reproduced from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=203884291"><i>Buying to Specifications</i></a> (Singapore: Singapore Institute of Standards and Industrial Research, 1986), 14. (From National Library, Singapore, call no. RCLOS 381.33).</i></div>
 
 #### **Introduction: A Reputation for Trade**
 
@@ -22,7 +23,7 @@ Given that Singapore’s economic prosperity was achieved through an export-orie
 
 Despite the importance of SISIR, it is striking that there has not been a single research paper, let alone a monograph, dedicated to understanding its history or workings. For now, it has simply been mentioned in passing in books on Singapore’s scientific and industrial history.[^3]  This disregard can be explained in part by the history of local technical institutions being stereotyped as either boring or inaccessible. 
 
-In addition, SISIR itself was administratively sprawling – the 1973 bill that established SISIR as a statutory board specified 22 different duties that included undertaking industrial research, promoting standardisation, calibrating instruments, incubating new products and providing technical information services. This essay restricts itself to only the standardisation-related functions of the institute. Instead of dwelling in detail on technical specifications, I provide a broad-stroke history of the institute. Since SISIR’s institutional records held at the National Archives of Singapore (NAS) remain classified, this essay relies on material available at the National Library, NewspaperSG, and publicly-accessible material at NAS like oral histories and news clips.
+In addition, SISIR itself was administratively sprawling – the 1973 bill that established SISIR as a statutory board specified 22 different duties that included undertaking industrial research, promoting standardisation, calibrating instruments, incubating new products and providing technical information services. This essay restricts itself to only the standardisation-related functions of the institute. Instead of dwelling in detail on technical specifications, I provide a broad-stroke history of the institute. Since SISIR’s institutional records held at the National Archives of Singapore (NAS) remain classified, this essay relies on material available at the <a href="https://www.nlb.gov.sg/main/nlonline/">National Library, </a><a href="https://eresources.nlb.gov.sg/newspapers/"> NewspaperSG</a>, and publicly-accessible material at  <a href="https://www.nas.gov.sg/archivesonline/">NAS</a> like oral histories and news clips.
 
 Using these sources, I aim to make four arguments. First, I track the convergence of state and manufacturers’ interests in promoting exports, leading to the formation of a programme for standardisation. A key moment for the origin of SISIR was a 1968 conference (the National Conference on Scientific and Technical Co-operation Between Industries and Governmental Bodies) organised by the Singapore Science Council between manufacturers and government representatives, where much of the future directions of SISIR were hammered out. The National Library’s collection includes not just the speeches and papers presented at this conference, but also records of discussions among participants. This lets us trace the process of decision-making, helping us appreciate on a rare fine-grained scale how different interests were articulated and consensus reached.
 
@@ -35,7 +36,7 @@ Finally, I explore a variety of suggestive indicators of SISIR’s success – r
 #### **Origins – The 1968 National Conference on Scientific and Technical Co-operation Between Industries and Governmental Bodies**	
 
 <img src="/images/COA%202024/Prosperity%20Through%20Quality/Conferences_1_and_2.jpg" style="width:100%;">
- <div style="background-color: white;"><i>Images reproduced from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759"><i> Summary of Proceedings: Singapore Conference Hall 23rd to 26th October, 1968: National Conference on Scientific and Technical Co-operation between Industries and Governmental Bodies</i></a>(Singapore: Singapore Institute of Standards and Industrial Research, 1986), 13-14. (From National Library, Singapore, call no. 381.33).</i></div>
+ <div style="background-color: white;"><i>Images reproduced from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980759"><i> Summary of Proceedings: Singapore Conference Hall 23rd to 26th October, 1968: National Conference on Scientific and Technical Co-operation between Industries and Governmental Bodies</i></a> (Singapore: Singapore Institute of Standards and Industrial Research, 1986), 13-14. (From National Library, Singapore, call no. RCLOS 338.095951 NAT).</i></div>
 
 
 The early days of the Republic were a time of economic anxiety, and the government decided the only way forward involved the rapid appropriation and deployment of Science and Technology. In February 1966, an Ad Hoc Scientific Committee was established to advise the government on scientific matters, but its non-official status meant it lacked funding and access to confidential data. To remedy these shortcomings, Deputy Prime Minister Dr Toh Chin Chye introduced the Science Council of Singapore Bill in 1967 to grant this advisory body official status. Among its envisioned functions were to investigate technical problems such as the effective deployment of utilities and the prevention of pollution, to establish relationships with other scientific bodies, and “to study how industrial development [could] be promoted by the effective training and utilisation of scientific and technological manpower”.[^4]  It would be headed by Dr Lee Kum Tatt, then a biochemist at the Ministry of Health.[^5] 
@@ -52,7 +53,7 @@ Baker and Woo envisioned that this national standards body would concern itself 
 
 In addition, they wanted a distinct institution that would test products for compliance with standards and certify them accordingly.[^17]  With such a clear consensus from both industry and government representatives, standardisation was bound to take off. The only question was how best to implement this programme.
 
-#### ***From IRU to SISIR***
+#### **From IRU to SISIR**
 
 By 1968, modest efforts at standardisation were already underway at EDB’s Industrial Research Unit (IRU). T.R. Pollard, the Colombo Plan expert from New Zealand who had recommended establishing the IRU in 1960, had at the same time recommended establishing a standards bureau.[^18] Consequently, in 1963, EDB’s Technical Consultant Services Division announced the opening of the IRU and a separate Standards Unit. The relationship between the IRU and a standardisation programme continued to be openly discussed – for example, at the IRU Advisory Council’s second meeting on 18 October 1963, the setting up of a Standards Bureau for Malaysia was reviewed, and the council seemed to believe the IRU would be the natural choice as a testing authority for standards in Singapore.[^19]  
 
@@ -84,7 +85,7 @@ The 1973 Standards and Industrial Research Bill, which transformed SISIR into a 
 
 The first scheme, the Quality Certification Scheme, was rolled out in August 1969. To kickstart the scheme, the institute invited 20 manufacturers known to be adhering to international standards to participate. By 1986, 130 manufacturers were involved, with 960 distinct products being certified. A powerful incentive the government had put in place was for all government departments and statutory boards to give preference to goods certified by SISIR while making purchases.[^35] 
 
-<img src="/images/COA%202024/Prosperity%20Through%20Quality/Hallmark.jpg" style="width:50%;">
+<img src="/images/COA%202024/Prosperity%20Through%20Quality/Hallmark.jpg" style="width:40%;">
  <div style="background-color: white;">SISIR Quality Certificate.<i> Image reproduced from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4821366"><i>Industrial News and Research</i></a> (Singapore: Singapore Institute of Standards and Industrial Research, September 1971), 6. (From National Library, Singapore, call no. RSING 607.25957).</i></div>
 
 
@@ -103,9 +104,9 @@ On 1 January 1973, SISIR received a request from the Canadian Standards Associat
 
 As the testing agency for standards, SISIR can be thought of as a mediator. It inserted itself between manufacturers and consumers (or between manufacturers and foreign standards bodies), using its own credibility as an independent institution to secure the credibility of the tested product. 
 
-<img src="/images/COA%202024/Prosperity%20Through%20Quality/buying_to_specifications_p25.jpg" style="width:80%;">
+<img src="/images/COA%202024/Prosperity%20Through%20Quality/buying_to_specifications_p25.jpg" style="width:60%;">
 <div style="background-color: white;">SISIR mediated the relationship between manufacturer and consumer
-<i>Image reproduced from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=203884291"><i>Buying to Specifications</i></a>         (Singapore: Singapore Institute of Standards and Industrial Research, 1986), 25. (From National Library, Singapore, call no. 381.33)</i></div>         
+<i>Image reproduced from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=203884291"><i>Buying to Specifications</i></a>         (Singapore: Singapore Institute of Standards and Industrial Research, 1986), 25. (From National Library, Singapore, call no. RCLOS 381.33)</i></div>         
 
 To test the credibility of a product, SISIR had to carry out a range of scientific tests for the sake of standardisation, and hence the same technical apparatus could be used for testing standards and for industrial research.
 
@@ -119,12 +120,12 @@ While SISIR’s work in mediation mostly involved testing for specifications, it
 
 In the late 1980s, environmentalism surged across the world, and Singapore was no exception. Seeking to capitalise on this new trend, Singapore firm Kenwa Plastic Industries started advertising a photodegradable plastic bag.[^41]  The *Straits Times* featured the bag in its “Ailing Earth: The Singapore Perspective” series on 1 January 1990, reporting that Kenwa’s bag would disintegrate after 200 hours exposure to sunlight.[^42]  Seeking to position itself as progressive and environmentally conscious, The Body Shop ordered these bags and highlighted them in its publicity material.[^43] 
 
-<img src="/images/COA%202024/Prosperity%20Through%20Quality/the_body_shop.jpg" style="width:50%;">
+<img src="/images/COA%202024/Prosperity%20Through%20Quality/the_body_shop.jpg" style="width:40%;">
 <div style="background-color: white;">Kenwa Plastic’s allegedly photodegradable bag.
-<i>Image reproduced from <a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19900312-1.2.36.1"><i>"[Page 21 Advertisements Column 1],"</i></a> Straits Times, 12 March 1990, 21. (From NewspaperSG)</i></div> 
+<i>Image reproduced from <a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19900312-1.2.36.1"><i>"Page 21 Advertisements Column 1,"</i></a> Straits Times, 12 March 1990, 21. (From NewspaperSG)</i></div> 
 
 
-However, the bag’s claim to sustainability was soon put to the test. For their Earth Day celebration, a class from the Singapore American School at Ulu Pandan decided to showcase the bag’s breakdown by hanging it up near their school’s swimming pool. The demonstration was timed carefully so that the bag would decompose by Earth Day on April 22.[^44]  Unfortunately, the expected change did not occur, and the school’s newsletter The Singapore American reported that the bag remained “as good as new”.[^45]  This story was then picked up by the Business Times in its humour column.[^46]
+However, the bag’s claim to sustainability was soon put to the test. For their Earth Day celebration, a class from the Singapore American School at Ulu Pandan decided to showcase the bag’s breakdown by hanging it up near their school’s swimming pool. The demonstration was timed carefully so that the bag would decompose by Earth Day on April 22.[^44]  Unfortunately, the expected change did not occur, and the school’s newsletter *The Singapore American* reported that the bag remained “as good as new”.[^45]  This story was then picked up by the *Business Times* in its humour column.[^46]
 
 Embarrassed by the bad publicity, The Body Shop pointed fingers at Kenwa. In an open letter to Kenwa, The Body Shop said that “We have experimented with exposing the bags to direct sunlight since we took delivery of the bags from you on March 6, 1990. Nothing has happened since. They look as resilient as the day they were brought in to us. Surely one might reasonably expect some sign of disintegration after all this time?”[^47]  Kenwa replied that their bags comprised 3 percent ecolyte polymets, which start disintegrating after 200 hours of exposure to sunlight. This was a “gradual process and not instantaneous” and would result in a plastic bag so brittle that it would be broken up by the elements of nature.[^48]  This did not satisfy sceptics, and supermarket giants like Jasons and Cold Storage decided against adopting Kenwa’s bags.[^49]
 
@@ -172,26 +173,26 @@ Of the numerous approaches SISIR took to woo consumers, the most visually striki
 To build a case for customers to avail its services, SISIR first constructed an image of the vulnerable consumer. Customers apparently used heuristics like attractive packaging, cost and advertisements, to help them make their choices in a crowded marketplace.
 
 
-<img src="/images/COA%202024/Prosperity%20Through%20Quality/buying_to_specifications_p3.jpg" style="width:80%;">
-<div style="background-color: white;"><i>Image reproduced from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=203884291"><i>Buying to Specifications</i></a> (Singapore: Singapore Institute of Standards and Industrial Research, 1986), 3. (From National Library, Singapore, call no. 381.33).</i></div>
+<img src="/images/COA%202024/Prosperity%20Through%20Quality/buying_to_specifications_p3.jpg" style="width:60%;">
+<div style="background-color: white;"><i>Image reproduced from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=203884291"><i>Buying to Specifications</i></a> (Singapore: Singapore Institute of Standards and Industrial Research, 1986), 3. (From National Library, Singapore, call no. RCLOS 381.33).</i></div>
 
 
 Unfortunately, these heuristics were fallible, as consumers could not be certain about the provenance and quality of products. As the 1978 booklet *Standards in Your Life* pointed out, in an open economy like Singapore, “it is impossible for the consumer to judge visually whether paints are poisonous, the wiring of an electrical appliance is safe, a food product meets the health claims, and which brand gives better value for money.”[^66] 
 
-<img src="/images/COA%202024/Prosperity%20Through%20Quality/Buying_and_better_value.jpg" style="width:100%;">
-<div style="background-color: white;"><i>Images reproduced from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=203884291"><i>Buying to Specifications</i></a> (Singapore: Singapore Institute of Standards and Industrial Research, 1986), 4. (From National Library, Singapore, call no. 381.33) and <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4182364"><i> Better Value for Money: A Basic Guide for Consumers and Manufacturers</i></a>        (Singapore: SISIR, 1976), 29. (From National Library, Singapore, call no. RCLOS 640.73 SIN) </i></div>
+<img src="/images/COA%202024/Prosperity%20Through%20Quality/Buying_and_better_value1.jpg" style="width:100%;">
+<div style="background-color: white;"><i>Images reproduced from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=203884291"><i>Buying to Specifications</i></a> (Singapore: Singapore Institute of Standards and Industrial Research, 1986), 4. (From National Library, Singapore, call no. RCLOS 381.33) and <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4182364"><i> Better Value for Money: A Basic Guide for Consumers and Manufacturers</i></a>        (Singapore: SISIR, 1976), 29. (From National Library, Singapore, call no. RCLOS 640.73 SIN) </i></div>
 
 Standards, however, could cut through this cloud of uncertainty by letting consumers know whether a product’s essential requirements had been met, allowing them to avoid both unsafe and overpriced alternatives.
 
 <img src="/images/COA%202024/Prosperity%20Through%20Quality/better_value_for_money_p22.jpg" style="width:50%;">
 <div style="background-color: white;"> Sticking to SISIR-approved products helped consumers avoid both regret and flatulence.<i> Image reproduced from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4182364"><i>  Better Value for Money: A Basic Guide for Consumers and Manufacturers</i></a>     (Singapore: SISIR, 1976), 22. (From National Library, Singapore, call no. RCLOS 640.73 SIN)</i></div>        
 
-Apart from cartoons, another medium for publicising SISIR and standards was through educational television programmes. For instance, an episode of the 1976 programme *Home Economics - A Vital Force* aimed at Secondary 3 students was “Stretch Your Dollar” – an attempt at helping young people become responsible consumers. The episode imparts general advice such as being financially prudent, checking the authenticity of products, and comparing prices. 
+Apart from cartoons, another medium for publicising SISIR and standards was through educational television programmes. For instance, an episode of the 1976 programme *Home Economics–A Vital Force* aimed at Secondary 3 students was “Stretch Your Dollar” – an attempt at helping young people become responsible consumers. The episode imparts general advice such as being financially prudent, checking the authenticity of products, and comparing prices. 
 
 The show urges viewers to buy good-quality goods since “products of good quality last longer and require less repair” and then informs them that in Singapore, SISIR certifies the quality of various products. Clips of SISIR technicians testing various consumer goods were shown, ranging from checking for excessive radiation in television sets to testing for bacteria in sweetened condensed milk. By bringing to attention the potential harms of low-quality products, SISIR could position itself as safeguarding consumers from those dangers. The show ends by asking “Don’t you think it is wiser to buy local products with the SISIR label?”
 
 <img src="/images/COA%202024/Prosperity%20Through%20Quality/Home_Econs.jpg" style="width:100%;">
-<div style="background-color: white;">   Stills from TV show Home Economics – A Vital Source of SISIR technicians testing various consumer goods. (Left) Testing for excessive radiation in television sets. (Right) Testing for bacteria in condensed milk.<i>Images reproduced from <a href="https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/6b905a70-1164-11e3-83d5-0050568939ad"><i>"  Home Economics – A Vital Force: Stretch Your Dollar (II),"</i></a>   7 May 1976, video, 13:36, 16:11. (From National Archives of Singapore accession no. 2010011768)</i></div>
+<div style="background-color: white;">   Stills from TV show <i>Home Economics–A Vital Force</i> showing  SISIR technicians testing various consumer goods. (Left) Testing for excessive radiation in television sets. (Right) Testing for bacteria in condensed milk.<i>Images reproduced from <a href="https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/6b905a70-1164-11e3-83d5-0050568939ad"><i>"  Home Economics – A Vital Force: Stretch Your Dollar (II),"</i></a>   7 May 1976, video, 13:36, 16:11. (From National Archives of Singapore accession no. 2010011768)</i></div>
 
 
 The dangers that viewers were informed about, whether radiation or bacteria, were detectable only through scientific instruments. As the show makes clear, the promotion of quality-consciousness was never simply about sensitising people to the value of standards in the abstract – it was also about making people recognise and submit to the authority of a new set of professional actors who claimed expertise over standards and their appropriate deployment. The new export-oriented marketplace was a standardised space, coproduced alongside experts to educate, guide and authoritatively take charge. Both manufacturers and consumers benefited, as long as they participated in SISIR’s cycle of ever-improving standards and expectations.
@@ -315,7 +316,7 @@ Certainly none of these measures, not even all of them taken together, indicate 
 
 [^42]: “[Environment-Friendly Bags Available in S’pore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19900101-1.2.23.13),” _Straits Times_, 1 January 1990, 20. (From NewspaperSG)
 
-[^43]: im Phay-Ling, “[Carrier Bags With a Big Difference](https://eresources.nlb.gov.sg/newspapers/digitised/article/newpaper19900312-1.2.6.9),” _New Paper_, 12 March 1990, 6. (From NewspaperSG)
+[^43]: Lim Phay-Ling, “[Carrier Bags With a Big Difference](https://eresources.nlb.gov.sg/newspapers/digitised/article/newpaper19900312-1.2.6.9),” _New Paper_, 12 March 1990, 6. (From NewspaperSG)
 
 [^44]: “SAS Observes Earth Day 1990,” [_Singapore American_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4184528), 34, no. 5 (May 1990): 20. (From National Library, Singapore, call no. RCLOS 051 SA)
 
