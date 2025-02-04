@@ -548,6 +548,11 @@ Library for their kind assistance. My sincerest thanks to Soh Gek Han of the Nat
 Library for her invaluable comments on the manuscript and patience with a young
 researcher in her first foray into research publishing.*
 
+<div>
+<b>Zhi Qing Denise Lim</b> is a PhD candidate at ETH Zürich, Switzerland. She
+is currently working on a project on “<i> European deviance</i> ” in colonial Singapore,
+c. 1890–1940.</div>
+
 
 
 
