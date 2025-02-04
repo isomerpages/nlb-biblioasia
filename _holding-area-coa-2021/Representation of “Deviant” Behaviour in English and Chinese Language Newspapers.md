@@ -553,7 +553,390 @@ researcher in her first foray into research publishing.*
 is currently working on a project on “<i> European deviance</i> ” in colonial Singapore,
 c. 1890–1940.</div>
 
+#### **BIBLIOGRAPHY**
+         
 
+Buettner, Elizabeth. _Empire Families: Britons and Late Imperial India._ Oxford: Oxford University Press, 2004.
+
+Burns, Peter Laurie. “The English Language Newspapers of Singapore, 1915–1951.” BA thesis, University of Malaya, 1957.
+
+Butcher, John G. [_The British in Malaya, 1880–1941: The Social History of a European Community in Colonial South-East Asia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1901870)_._ Kuala Lumpur: Oxford University Press, 1979. (Call no. RSING English 301.4512105951033 BUT)
+
+Chen, Mong Hock. [_The Early Chinese Newspapers of Singapore, 1881–1912_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082030). Singapore: University of Malaya Press, 1967. (Call no. RSING 079.5702 CHE)
+
+Choi, Kwai Keong. “A Century of the Chinese Dailies.” In [_A General History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203868804), edited by Chong Guan Kwa and Bak Lim Kua, 389–415. Singapore: World Scientific, 2019. (Call no. RSING 305.895105957 GEN)
+
+Chua, Ai Lin. “Nation, Race, and Language: Discussing Transnational Identities in Colonial Singapore, circa 1930.” In [_Sites of Asian Interaction: Ideas, Networks and_ Mobility](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201196369). Edited by Tim Harper and Sunil Amrith, 60–78. Cambridge: Cambridge University Press, 2014.
+
+Davidoff, Leonore and Catherine Hall. _Family Fortunes: Men and Women of the English Middle Class 1780–1850_, revised ed. London: Routledge, 2002.
+
+Davidson, G. F. [_Trade and Travel in the Far East; or Recollections of 21 Years Passed in Java, Singapore, Australia and China_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2eec9199-4eee-4b47-91bf-ce2c21f2fb03). London: Madden and Malcolm, 1846. (From National Library Online)
+
+Fischer-Tiné, Harald. “Liquid Boundaries: Race, Class, and Alcohol in Colonial India.” In _A History of Alcohol and Drugs in Modern South Asia: Intoxicating Affairs_, edited by Harald Fischer-Tiné and Jana Tschurenev, 89–115. London: Routledge, 2013.
+
+Fischer-Tiné, Harald and Christina Whyte. “Introduction: Empire and Emotions.” In [_Anxieties, Fear and Panic in Colonial Settings: Empires on the Verge of a Nervous Breakdown_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203114617). Edited by Harald Fischer-Tiné, 1–23. London: Palgrave Macmillan, 2016. (Call no. R 325.32 ANX)
+
+Gunavalli, A. Sundaraju. “The Tamil Murasu: The Evolution of a Local Tamil Newspaper 1935–1974.” Academic exercise, National University of Singapore, 1990.
+
+Holmberg, Erik. “Public Celebrations in Colonial Singapore – with Particular Reference to a Case Study of Celebration and Homicide in 1872.” In [_Chapters on Asia: A Selection of Papers from the Lee Kong Chian Research Fellowship_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=9939d7bf-ee29-44d1-ae82-01269d2d029c)_,_ 88–115. Singapore: National Library Board, Singapore, 2014. (From National Library Online)
+
+Jackson, Will and Emily J. Manktelow. “Introduction: Thinking with Deviance.” In _Subverting Empire: Deviance and Disorder in the British Colonial World_, edited by Will Jackson and Emily J. Manktelow, 1–21. London: Palgrave Macmillan, 2015.
+
+Lee, Meiyu. “[From Lat Pau to Zaobao: A History of Chinese Newspapers](https://biblioasia.nlb.gov.sg/vol-15/issue-4/jan-mar-2020/from-lat-pau-zaobao/).” _BiblioAsia_ 15, no. 4 (2020): 44–49.
+
+Lim, Zhi Qing Denise. “Europeans Behaving Badly: European ‘Misbehaviour’ in Colonial Singapore, c. 1890–1940.” Master’s thesis, Nanyang Technological University, 2021.
+
+McKenzie, Kirsten. _Scandal in the Colonies: Sydney and Cape Town, 1820–1850._ Carlton, Victoria: Melbourne University Press, 2005.
+
+McKie, R. C. H. [_This Was Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4321250)_._ Sydney: Angus &amp; Robertson, 1942. (Call no. RRARE 959.57022 MAC; Microfilm NL15151)
+
+Mizutani, Satoshi. “Contested Boundaries of Whiteness: Public Service Recruitment and the Eurasian and Anglo-Indian Association, 1876–1901.” In [_Empires and Boundaries: Rethinking Race, Class, and Gender in Colonial Settings_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13170692). Edited by Harald Fischer-Tiné and Susanne Gehrmann, 86–106. New York: Routledge, 2009. (Call no. R 305.091719 EMP)
+
+—. “Historicising Whiteness: From the Case of Late Colonial India.” _Australian Critical Race and Whiteness Studies Association_ 2, no. 1 (2006): 1–15.
+
+_Nanyang Shangbao liushi nian 1923–1983_ [南洋商报六十年 1923–1983](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14322857) \[Sixty years of the Nanyang Siang Pau 1923–1983\]. Kuala Lumpur: Nanyang Siang Pau, 1984. (Call no. Chinese RCLOS 079.595 NYS)
+
+Peet, George L. [_Rickshaw Reporter_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4080269). Selangor: Eastern University Press, 1985. (Call no. RSING 070.924 PEE)
+
+Read, W. H. M. _Play and Politics: Recollections of Malaya by an Old Resident_. London: Wells Gardner, Darton &amp; Co., 1901.
+
+Sathisan, Dinesh. “Speaking for the Diaspora: Tamil Newspapers in Malaya and Singapore as Instruments of Modernity, Protection, Reform and Change, 1930–1940.” _The Heritage Journal_ 4 (2009): 74–96.
+
+Steinbach, Susie. “Can We Still Use ‘Separate Spheres’? British History 25 Years after Family Fortunes.” _History Compass_ 10/11 (2012): 826–37.
+
+Stoler, Ann Laura. “Making Empire Respectable: The Politics of Race and Sexual Morality in 20th-century Colonial Cultures.” _American Ethnologist_ 16, no. 4 (1989): 634–60. (From JSTOR via NLB’s eResources website)
+
+—. “Rethinking Colonial Categories: European Communities and the Boundaries of Rule.” _Comparative Studies in Society and History_ 31, no. 1(1989): 134–61. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Wang, Kangding 王慷鼎. “Xinjiapo huawen yanjiu yu qianzhan” 新加坡华文史研究与前瞻 \[Historiographical review and research prospects of Chinese-language press in Singapore\]. In _Wang Kang Ding lunwenji_ 王慷鼎论文集 \[A compilation of essays by Wang Kang Ding\], 201–42. Singapore: Nanyang xuehui, 2014.
+
+—. “Xinjiapo huawen baokan de fazhan (1837–1959): tongji shuzi jiaodu de fenxi” 新加坡华文报刊的发展 (1837–1959): 统计数字角度的分析 \[The development of Chinese-language press in Singapore (1837–1959): a quantitative analysis\]. In _Wang Kang Ding lunwenji_ 王慷鼎论文集 \[A compilation of essays by Wang Kang Ding\], 243–67. Singapore: Nanyang xuehui, 2014.
+
+—. “Xinjiapo huawen ribao shelun de yange” 新加坡华文日报社论的沿革 \[The history of commentaries in Chinese-language newspapers in Singapore\]. In _Wang Kang Ding lunwenji_ 王慷鼎论文集 \[A compilation of essays by Wang Kang Ding\], 268–87. Singapore: Nanyang xuehui, 2014.
+
+Wright, Ashley. “Maintaining the Bar: Regulating European Barmaids in Colonial Calcutta and Rangoon.” _Journal of Imperial and Commonwealth History_ 45, no. 1 (2017): 22–45.
+
+Wright, David and John Weaver. “Introduction.” In _Histories of Suicide: International Perspectives on Self-Destruction in the Modern World_, edited by John Weaver and David Wright, 3–18. Toronto: University of Toronto Press, 2009.
+
+**Newspaper Articles** _(From NewspaperSG)_
+
+_Singapore Free Press and Mercantile Advertiser_. “[Old Views](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19090709-1.2.3).” 9 July 1909, 1.
+
+**_Reports of European deviant behaviour in newspapers_**
+
+_Malaya Tribune._ “[The Road to Ruin](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19140421-1.2.44).” 21 April 1914, 7.
+
+—. “[The ‘Road to Ruin’ and Cognate Matters](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19140428-1.2.62).” 28 April 1914, 9.
+
+—. “[Drunken Soldier](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19310209-1.2.64).” 9 February 1931, 10.
+
+—. “[Glass Windows Destroyed](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19310209-1.2.65).” 9 February 1931, 10.
+
+—. “[Policeman’s Nose Broken](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19390203-1.2.6).” 3 February 1939, 2.
+
+—. “[‘A Case of Being Violently Drunk’](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19390214-1.2.120).” 14 February 1939, 16.
+
+_Morning Tribune._ “[Soldier Punches Constable on Nose](https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19390214-1.2.80).” 14 February 1939, 19.
+
+_Nanyang Siang Pau_ _南洋商__报_. “Ouda gongchai yinren shiqianglingruo qiuba zuijiu xingxiong jie pan youzui” 殴打公差印人恃强凌弱丘八醉酒行凶皆判有罪 \[Assault of officials: Indian uses his strength to bully the weak; soldier commits assault while intoxicated; both found guilty\]. 10 January 1931, 7.
+
+—. “Zui yu? Feng yu? Weierqi junren zai Wuxilu zishi bolichuang bei jipo” [醉欤？ 疯欤？威尔其军人在乌溪路滋事玻璃窗被击破](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19310209-1.2.28) \[Drunk? Crazy? Welch soldiers create trouble in Orchard Road, glass windows smashed\]. 9 February 1931, 7.
+
+—. “Zhu Zhangyi bingshi Maibashida jiuzui zishi shangjing huiwu beikong sanzui dingqi juxun” [驻章宜兵士麦巴士打酒醉滋事伤警毁物被控三罪订期鞠讯](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19390202-1.2.92.1) \[McAlister, soldier stationed at Changi, having been drunk and disorderly, injured police, and destroyed property, was charged on three counts, and a hearing has been scheduled\]. 2 February 1939, 11.
+
+—. Bingshi Maijiashida zai Huatielujie chengxiong suofan sanzui jiepan chengli” [兵士麦加士打在滑铁炉街逞凶所犯三罪皆判成立](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19390214-1.2.100) \[Soldier McAlister, who had committed violent assault in Waterloo Street, was found guilty on all three charges\]. 14 February 1939, 11.
+
+_Sin Chew Jit Poh_ 星洲日报. “Yingbing sanming you fanfa” [英兵三名又犯法](https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19390214-1.2.25.2) \[Three English (or British) soldiers violate the law again\]. 14 February 1939, 12.
+
+_Singapore Free Press and Mercantile Advertiser_. “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18961103-1.2.10).” 3 November 1896, 2.
+
+—. “[Extraordinary Scene in Orchard Road](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19310209-1.2.62).” 9 February 1931, 11.
+
+—. “[‘Mana You Jaga?’](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19310210-1.2.84)” 10 February 1931, 11.
+
+—. “[Charges against a Soldier](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19390202-1.2.92).” 2 February 1939, 9.
+
+—. “[Loyals Private Breaks Nose of Policeman](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19390214-1.2.40).” 14 February 1939, 3.
+
+_Straits Times._ “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18961103-1.2.10).” 30 November 1896, 2.
+
+—. “[Poor Jack!](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18970421-1.2.22)” 21 April 1897, 2.
+
+—. “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18970421-1.2.22).” 6 October 1902, 4.
+
+—. “[Soldier Charged](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19310210-1.2.91).” 10 February 1931, 12.
+
+—. “[Soldier Charged with Disorderly Behaviour](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19390202-1.2.82).” 2 February 1939, 12.
+
+**_Suicide as deviant behaviour: Douglas Vincent Gibson_**
+
+_Malaya Tribune_. “[Bathing Tragedy](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19301110-1.2.19).” 10 November 1930, 7.
+
+—. “[Disappeared from Hotel](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19301201-1.2.68).” 1 December 1930, 9.
+
+—. “[No Wounds Found on Body](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19301202-1.2.72).” 2 December 1930, 10.
+
+—. “[The Changi Beach Tragedy](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19301204-1.2.70).” 4 December 1930, 10.
+
+—. “[Gibson Inquest Verdict](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19301206-1.2.56).” 6 December 1930, 9.
+
+_Nanyang Siang Pau_ 南洋商报. “Yanshiting qing’ai tan: Wo jiang gaosu ni, wo zhengge de xin’er aini” [验尸庭情爱谈“我将告诉你，我整个的心儿爱你”](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19301203-1.2.42.1) \[Speaking of love and affection in the Coroner’s Court: “I shall tell you that I love you with all my heart”\]. 3 December 1930, 7.
+
+_Singapore Free Press and Mercantile Advertiser_. “[The Changi Drowning](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19301202-1.2.58).” 2 December 1930, 12.
+
+—. “[Important Evidence at Gibson Inquest](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19301203-1.2.78).” 3 December 1930, 12.
+
+—. “[Doctor’s Post-mortem Certificate](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19301205-1.2.62).” 5 December 1930, 12.
+
+—. “[Open Verdict Returned at Gibson Inquest](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19301206-1.2.73).” 6 December 1930, 2.
+
+_Straits Times._ “[Drowning Fatality at Changi](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19301110-1.2.72).” 10 November 1930, 12.
+
+—. “[Body Found on Beach](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19301201-1.2.67).” 1 December 1930, 11.
+
+—. “[European’s Death at Changi](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19301202-1.2.73).” 2 December 1930, 14.
+
+—. “[Letter Read at Inquest](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19301204-1.2.51).” 4 December 1930, 11.
+
+—. “[Insufficient Evidence of Circumstances](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19301206-1.2.70.1).” 6 December 1930, 12.
+
+**_Suicide as deviant behaviour: Olvard Wohl Schroeder_**
+
+_Malaya Tribune_. “[Death of Mr Schroeder](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19251219-1.2.26).” 19 December 1925, 6.
+
+—. “[A Strange Case](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19251228-1.2.26).” 28 December 1925, 6.
+
+—. “[Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19260105-1.2.21).” 5 January 1926, 6.
+
+—. “[Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19260106-1.2.24).” 6 January 1926, 6.
+
+—. “[Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19260108-1.2.49).” 8 January 1926, 8.
+
+—. “[Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19260111-1.2.62).” 11 January 1926, 8.
+
+—. “[Suicide or Murder?](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19260118-1.2.29)” 18 January 1926, 10.
+
+—. “[Suicide or Murder](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19260119-1.2.61).” 19 January 1926, 8.
+
+—. “[The Schroeder Inquest](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19260129-1.2.24).” 29 January 1926, 6.
+
+_Nanyang Siang Pau_ 南洋商报. “Benpo Ouzhou Jiudian zhong zhi lüke baobi yian” [本坡欧洲酒店中之旅客暴毙疑案](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19251221-1.2.9) \[The mysterious case of a traveller’s sudden death in the Europe Hotel in Singapore\]. 21 December 1925, 3.
+
+—. “Yanshiting chajiu Nuoweiren fudu zijin an xiangzhi (1)” [验尸庭查究挪威人服毒自尽案详志（一）](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19260106-1.2.5.7) \[Details of coroner’s inquest into the case of Norwegian who committed suicide by poisoning (part one)\]. 6 January 1926, 3.
+
+—. “Yanshiting chajiu Nuoweiren fudu zisha an xiangzhi (5)” [验尸庭查究挪威人服毒自尽案详志（五）](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19260111-1.2.7.16)\[ Details of coroner’s inquest into the case of Norwegian who committed suicide by poisoning (part five)\]. 11 January 1926, 3.
+
+—. “Yanshiting chajiu Nuowei shangren fudu zijin an xiangzhi” [验尸庭查究挪威商人服毒自尽案详志](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19260128-1.2.7.12) \[Details of coroner’s inquest into the case of Norwegian businessman who committed suicide by poisoning\]. 28 January 1926, 3.
+
+—. “Ouren Jibusheng fan benpo jin yizhou zai Zhangyi youyong nibi” [欧人吉甫生返本坡仅一周在漳宜游泳溺毙](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19301110-1.2.34.6) \[Gibson, European, drowns while swimming at Changi, and has only been back in Singapore for a week\]. 10 November 1930, 7.
+
+_Singapore Free Press and Mercantile Advertiser_. “[Norwegian’s Mysterious Death](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19251221-1.2.41).” 21 December 1925, 8.
+
+—. “[Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19260106-1.2.40).” 6 January 1926, 9.
+
+—. “[The Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19260112-1.2.75).” 12 January 1926, 16_._
+
+—. “[The Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19260119-1.2.80).” 19 January 1926, 16.
+
+—. “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19260201-1.2.34).” 1 February 1926, 8.
+
+—. “[Changi Bathing Fatality](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19301110-1.2.62).” 10 November 1930, 10.
+
+_Singapore Free Press and Mercantile Advertiser (Weekly)._ “[Norwegian’s Mysterious Death](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk19251223-1.2.119).” 23 December 1925, 14.
+
+—. “[The Week’s News](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk19260203-1.2.8).” 3 February 1926, 65_._
+
+_Straits Times._ “[Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19251219-1.2.70).” 19 December 1925, 9.
+
+—. “[Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19260105-1.2.75)” 5 January 1926, 10.
+
+—. “[Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19260129-1.2.81).” 6 January 1926, 10.
+
+—. “[The Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19260111-1.2.75).” 11 January 1926, 10.
+
+—. “[Hotel Mystery Verdict](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19260129-1.2.81).” 29 January 1926, 10.
+
+#### **NOTES**
+         
+1 G. F. Davidson, [_Trade and Travel in the Far East; or Recollections of 21 Years Passed in Java, Singapore, Australia and China_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2eec9199-4eee-4b47-91bf-ce2c21f2fb03) (London: Madden and Malcolm, 1846), 37. (From National Library Online)
+
+2 “[Old Views](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19090709-1.2.3),” _Singapore Free Press and Mercantile Advertiser_, 9 July 1909, 1. (From NewspaperSG)
+
+3 See, for example, Ashley Wright, “Maintaining the Bar: Regulating European Barmaids in Colonial Calcutta and Rangoon,” _Journal of Imperial and Commonwealth History_ 45, no, 1 (2017): 24.
+
+4 Ann Laura Stoler, “Rethinking Colonial Categories: European Communities and the Boundaries of Rule,” _Comparative Studies in Society and History_ 31, no. 1(1989): 1365. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website). This article is included in Stoler’s _Carnal Knowledge and Imperial Power_ (2010). See also Erik Holmberg, “Public Celebrations in Colonial Singapore – with Particular Reference to a Case Study of Celebration and Homicide in 1872,” in [_Chapters on Asia: A Selection of Papers from the Lee Kong Chian Research Fellowship_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=9939d7bf-ee29-44d1-ae82-01269d2d029c) (Singapore: National Library Board, Singapore, 2014), 88–115. (From National Library Online)
+
+5 Research on newspapers in colonial Singapore has mainly focused on the origins of the newspaper organisations, their political leanings or affiliations, their editors, and their distribution networks. On Chinese-language newspapers, see for example: Kwai Keong Choi, “A Century of the Chinese Dailies,” in [_A General History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203868804), ed. Chong Guan Kwa and Bak Lim Kua (Singapore: World Scientific, 2019), 389–415 (Call no. RSING 305.895105957 GEN); Meiyu Lee, “[From Lat Pau to Zaobao: A History of Chinese Newspapers](https://biblioasia.nlb.gov.sg/vol-15/issue-4/jan-mar-2020/from-lat-pau-zaobao/),” _BiblioAsia_ 15, no. 4 (2020): 44–49; Wang Kangding 王慷鼎, “Xinjiapo huawen baokanshi yanjiu de huigu yu qianzhan” 新加坡华文报刊史研究的回顾与前瞻 \[Historiographical review and research prospects of Chinese-language press in Singapore\], in _Wang Kang Ding lunwenji_ 王慷鼎论文集 \[A compilation of essays by Wang Kang Ding\] (Singapore: Nanyang xuehui, 2014), 201–42; “Xinjiapo huawen baokan de fazhan (1837–1959): Tongji shuzi jiaodu de fenxi” 新加坡华文报刊的发展 (1837–1959): 统计数字角度的分析 \[The development of Chinese-language press in Singapore (1837–1959): a quantitative analysis\], in _Wang Kang Ding lunwenji_ 王慷鼎论文集 \[A compilation of essays by Wang Kang Ding\] (Singapore: Nanyang xuehui, 2014), 243–67; Wu Qingtang 吴庆棠, _Xinjiapo huawen baoye yu Zhongguo_ 新加坡华文报业与中国 \[Chinese newspaper press in Singapore and its connection to China\] (Shanghai: Shanghai shehui kexueyuan chubanshe,
+
+Newspapers of Singapore, 1915–1951” (BA thesis, University of Malaya, 1957). For research focusing on individual newspapers, see for example: A. Sundaraju Gunavalli, “The Tamil Murasu: The Evolution of a Local Tamil Newspaper 1935–1974” (academic exercise, National University of Singapore, 1990); _Nanyang shangbao liushi nian 1923–1983_ [南洋商报六十年 1923–1983](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14322857) \[Sixty years of the Nanyang Siang Pau\] (Kuala Lumpur: Nanyang Siang Pau, 1984). (Call no. Chinese RCLOS 079.595 NYS) For research on the development of newspaper commentary and other segments, see Wang Kangding 王慷鼎, “Xinjiapo huawen ribao shelun de yange” 新加坡华文日报社论的沿革 \[The history of commentaries in Chinese-language newspapers in Singapore\], in _Wang Kang Ding lunwenji_ 王慷鼎论文集 \[A compilation of essays by Wang Kang Ding\] (Singapore: Nanyang xuehui, 2014), 268–87. Several studies have also examined the role of newspapers in shaping the identities of various communities and social movements. For example, see Dinesh Sathisan, “Speaking for the Diaspora: Tamil Newspapers in Malaya and Singapore as Instruments of Modernity, Protection, Reform and Change, 1930–1940,” _Heritage Journal_ 4 (2009): 74–96; Mong Hock Chen, [_The Early Chinese Newspapers of Singapore, 1881–1912_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082030) (Singapore: University of Malaya Press, 1967) (Call no. RSING 079.5702 CHE); Ai Lin Chua, “Nation, Race, and Language: Discussing Transnational Identities in Colonial Singapore, circa 1930,” in [_Sites of Asian Interaction: Ideas, Networks and Mobility_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201196369)_,_ ed. Tim Harper and Sunil Amrith (Cambridge: Cambridge University Press, 2014), 60–78. (Call no. RSEA 307.76095 SIT) 1997). On English-language newspapers, see for example: Peter Laurie Burns, “The English-Language
+
+6 Stoler, “Rethinking Colonial Categories,” 138.
+
+7 Stoler, “Rethinking Colonial Categories,” 138.
+
+8 Elizabeth Buettner, _Empire Families: Britons and Late Imperial India_ (Oxford: Oxford University Press, 2004), 104; Satoshi Mizutani, “Historicising Whiteness: From the Case of Late Colonial India,” _Australian Critical Race and Whiteness Studies Association_ 2, no. 1 (2006), 3.
+
+9 Ann Laura Stoler, “Making Empire Respectable: The Politics of Race and Sexual Morality in 20th-century Colonial Cultures,” _American Ethnologist_ 16, no. 4 (November 1989): 649. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+10 Stoler, “Making Empire Respectable,” 651.
+
+11 Harald Fischer-Tiné and Christina Whyte, “Introduction: Empire and Emotions,” in [_Anxieties, Fear and Panic in Colonial Settings: Empires on the Verge of a Nervous Breakdown_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203114617)_,_ ed. Harald Fischer-Tiné (London: Palgrave Macmillan, 2016), 11. (Call no. R 325.32 ANX)
+
+12 George L. Peet, [_Rickshaw Reporter_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4080269) (Selangor: Eastern University Press, 1985), 26. (Call no. RSING 070.924 PEE)
+
+13 For similar discussion on the contingency of European alcohol consumption in colonial contexts, see Harald Fischer-Tiné, “Liquid Boundaries: Race, Class, and Alcohol in Colonial India,” in _A History of Alcohol and Drugs in Modern South Asia: Intoxicating Affairs_, ed. Harald Fischer-Tiné and Jana Tschurenev (London: Routledge, 2013), 89–115.
+
+14 “[Drunken Soldier](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19310209-1.2.64),” _Malaya Tribune_, 9 February 1931, 10; “[Soldier Charged](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19310210-1.2.91),” _Straits Times_, 10 February 1931, 12; “[‘Mana You Jaga?’](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19310210-1.2.84)” _Singapore Free Press and Mercantile Advertiser_, 10 February 1931, 11. (From NewspaperSG)
+
+15 Many of the rank-and-file soldiers were of working-class background.
+
+16 According to R. C. H. McKie, there were “four main white clubs” in colonial Singapore, serving exclusively European clientele. R. C. H. McKie, [_This Was Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4321250) (Sydney: Angus &amp; Robertson, 1942), 65. (Call no. RRARE 959.57022 MAC; Microfilm NL15151)
+
+17 See, for example: “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18961103-1.2.10),” _Singapore Free Press and Mercantile Advertiser,_ 3 November 1896, 2; “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18961130-1.2.25),” _Straits Times_, 30 November 1896, 2; “[Poor Jack!](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18970421-1.2.22)” _Straits Times_, 21 April 1897, 2; “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18970421-1.2.22),” _Straits Times_, 6 October 1902, 4. (From NewspaperSG)
+
+18 Zhi Qing Denise Lim, “Europeans Behaving Badly: European ‘Misbehaviour’ in Colonial Singapore, c. 1890–1940” (master’s thesis, Nanyang Technological University, 2021), 46, 85.
+
+19 “[The Road to Ruin](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19140421-1.2.44),” _Malaya Tribune_, 21 April 1914, 7. (From NewspaperSG)
+
+20 “[Road to Ruin](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19140421-1.2.44).”
+
+21 “[The ‘Road to Ruin’ and Cognate Matters](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19140428-1.2.62),” _Malaya Tribune,_ 28 April 1914, 9. (From NewspaperSG)
+
+22 “Ouda gongchai yinren shiqianglingruo qiuba zuijiu xingxiong jie pan youzui” 殴打公差印人恃强凌弱丘八醉酒行凶皆判有罪 \[Assault of officials: Indian uses his strength to bully the weak; soldier commits assault while intoxicated; both found guilty\], _Nanyang Siang Pau_ 南洋商报, 10 January 1931, 7.  
+  
+23 Placed together, the characters for _qiuba_ 丘八 form the word 兵, “soldier”. It is possible that these two characters were chosen as a substitution for the character 兵, which is an approach that Chinese-language newspapers used from time to time. However, the derogatory connotation of the term 丘八could hardly have escaped the correspondent or editor. Therefore, while the use of the term might not have been intentional, it is reflective of the editors’ and readers’ perception of disreputable soldiers.
+
+24 “[Extraordinary Scene in Orchard Road](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19310209-1.2.62),” _Singapore Free Press and Mercantile Advertiser_, 9 February 1931, 11; “[Glass Windows Destroyed](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19310209-1.2.65),” _Malaya Tribune,_ 9 February 1931, 10. (From NewspaperSG)
+
+25 Jialin Christina Wu, “Disciplining Native Masculinities: Colonial Violence in Malaya, ‘Land of the Pirate and the Amok’,” in _Violence, Colonialism and Empire in the Modern World,_ ed. Philip Dwyer and Amanda Nettelbeck (Basingstoke: Palgrave Macmillan, 2015), 175–95.
+
+26 “Zui yu? Feng yu? Weierqi junren zai Wuxilu zishi bolichuang bei jipo” [醉欤？疯欤？威尔其军人在乌溪路滋事玻璃窗被击破](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19310209-1.2.28) \[Drunk? Crazy? Welch soldiers create trouble in Orchard Road, glass windows smashed\], _Nanyang Siang Pau_ 南洋商报, 9 February 1931, 7. (From NewspaperSG)
+
+27 “[Zui yu? Feng yu?](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19310209-1.2.28)”
+
+28 “[Soldier Charged with Disorderly Behaviour](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19390202-1.2.82),” _Straits Times_, 2 February 1939, 12; “[Charges against a Soldier](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19390202-1.2.92),” _Singapore Free Press and Mercantile Advertiser_, 2 February 1939, 9; “[Policeman’s Nose Broken](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19390203-1.2.6),” _Malaya Tribune_, 3 February 1939, 2. (From NewspaperSG)
+
+29 “[Soldier Charged with Disorderly Behaviour](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19390202-1.2.82)”; “[Charges against a Soldier](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19390202-1.2.92)”; “[Policeman’s Nose Broken](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19390203-1.2.6).”
+
+30 “Zhu Zhangyi bingshi Maibashida jiuzui zishi shangjing huiwu beikong sanzui dingqi juxun” [驻章宜兵士麦巴士打酒醉滋事伤警毁物被控三罪订期鞠讯](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19390202-1.2.92.1) \[McAlister, soldier stationed at Changi, having been drunk and disorderly, injured police, and destroyed property, was charged on three counts, and a hearing has been scheduled\], _Nanyang Siang Pau_ 南洋商报, 2 February 1939, 11. (From NewspaperSG)
+
+31 “[Loyals Private Breaks Nose of Policeman](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19390214-1.2.40),” _Singapore Free Press and Mercantile Advertiser_, 14 February 1939, 3; “[‘A Case of Being Violently Drunk’](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19390214-1.2.120),” _Malaya Tribune_, 14 February 1939, 16. (From NewspaperSG)
+
+32 “[Soldier Punches Constable on Nose](https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19390214-1.2.80),” _Morning Tribune_, 14 February 1939, 19. (From NewspaperSG)
+
+33 “[‘Case of Being Violently Drunk’](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19390214-1.2.120)”; “[Soldier Punches Constable on Nose](https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19390214-1.2.80).”
+
+34 “[Loyals Private Breaks Nose of Policeman](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19390214-1.2.40)”; “[‘Case of Being Violently Drunk’](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19390214-1.2.120)”; “[Soldier Punches Constable on Nose](https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19390214-1.2.80).”
+
+35 “[‘Case of Being Violently Drunk’](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19390214-1.2.120)”; “[Soldier Punches Constable on Nose](https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19390214-1.2.80).”
+
+36 “Bingshi Maijiashida zai Huatielujie chengxiong suofan sanzui jiepan chengli” [兵士麦加士打在滑铁炉街逞凶所犯三罪皆判成立](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19390214-1.2.100) \[Soldier McAlister, who had committed violent assault in Waterloo Street, was found guilty on all three charges\], _Nanyang Siang Pau_ 南洋商报, 14 February 1939, 11; “Yingbing sanming you fanfa” [英兵三名又犯法](https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19390214-1.2.25.2) \[Three English (or British) soldiers violate the law again\], _Sin Chew Jit Poh_ 星洲日报, 14 February 1939, 12. (From NewspaperSG)
+
+37 W. H. M. Read, _Play and Politics: Recollections of Malaya by an Old Resident_ (London: Wells Gardner, Darton &amp; Co., 1901), 126.
+
+38 David Wright and John Weaver, “Introduction,” in _Histories of Suicide: International Perspectives on Self- Destruction in the Modern World_, ed. John Weaver and David Wright (Toronto: University of Toronto Press, 2009), 4.
+
+39 Wright and Weaver, “Introduction,” 9.
+
+40 Historians Will Jackson and Emily J. Manktelow have posited the analytical approach of “thinking with deviance” to examine the various ways colonial expectations were articulated or subverted. Will Jackson and Emily J. Manktelow, “Introduction: Thinking with Deviance,” in _Subverting Empire: Deviance and Disorder in the British Colonial World_, ed. Will Jackson and Emily J. Manktelow (London: Palgrave Macmillan, 2015), 8.
+
+41 “[Gibson Inquest Verdict](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19301206-1.2.56),” _Malaya Tribune,_ 6 December 1930, 9; “[Insufficient Evidence of Circumstances](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19301206-1.2.70.1),” _Straits Times,_ 6 December 1930, 12; “[Open Verdict Returned at Gibson Inquest](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19301206-1.2.73),” _Singapore Free Press and Mercantile Advertiser_, 6 December 1930, 2. (From NewspaperSG)
+
+42 Historian Kirsten McKenzie has explored how rumour and hearsay blurred the distinctions between the private and the public spheres, as they resulted in the exposure of secret transgressions. Thus, the boundaries of European respectability were never quite as distinct as they might first appear. Kirsten McKenzie, _Scandal in the Colonies: Sydney and Cape Town, 1820–1850_ (Carlton, Victoria: Melbourne University Press, 2005).
+
+43 “[Body Found on Beach](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19301201-1.2.67),” _Straits Times_, 1 December 1930, 11. (From NewspaperSG)
+
+44 “[Bathing Tragedy](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19301110-1.2.19),” _Malaya Tribune_, 10 November 1930, 7; “[Drowning Fatality at Changi](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19301110-1.2.72),” _Straits Times_, 10 November 1930, 12. (From NewspaperSG)
+
+45 “[Body Found on Beach](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19301201-1.2.67).”
+
+46 “[Disappeared from Hotel](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19301201-1.2.68),” _Malaya Tribune_, 1 December 1930, 9. (From NewspaperSG)
+
+47 “[Insufficient Evidence of Circumstances](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19301206-1.2.70.1).”
+
+48 “[Body Found on Beach](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19301201-1.2.67)”; “[The Changi Drowning](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19301202-1.2.58),” _Singapore Free Press and Mercantile Advertiser_, 2 December 1930, 12. (From NewspaperSG)
+
+49 Satoshi Mizutani, “Contested Boundaries of Whiteness: Public Service Recruitment and the Eurasian and Anglo-Indian Association, 1876–1901,” in [_Empires and Boundaries: Rethinking Race, Class, and Gender in Colonial Settings_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13170692), ed. Harald Fischer-Tiné and Susanne Gehrmann (New York: Routledge, 2009), 91–92. (Call no. R 305.091719 EMP)
+
+50 “[Changi Drowning](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19301202-1.2.58).”
+
+51 “[Body Found on Beach](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19301201-1.2.67).”
+
+52 “[Important Evidence at Gibson Inquest](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19301203-1.2.78),” _Singapore Free Press and Mercantile Advertiser_, 3 December 1930, 12. (From NewspaperSG)
+
+53 “[Letter Read at Inquest](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19301204-1.2.51),” _Straits Times,_ 4 December 1930, 11. (From NewspaperSG)
+
+54 “[No Wounds Found on Body](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19301202-1.2.72),” _Malaya Tribune_, 2 December 1930, 10; “[European’s Death at Changi](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19301202-1.2.73),” _Straits Times,_ 2 December 1930, 14. (From NewspaperSG)
+
+55 “[Important Evidence at Gibson Inquest](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19301203-1.2.78)”; “[European’s Death at Changi](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19301202-1.2.73).”
+
+56 “[Letter Read at Inquest](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19301204-1.2.51)”; “[The Changi Beach Tragedy](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19301204-1.2.70),” _Malaya Tribune_, 4 December 1930, 10; “[Doctor’s Post-mortem Certificate](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19301205-1.2.62),” _SFPMA_, 5 December 1930, 12; “[Important Evidence at Gibson Inquest](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19301203-1.2.78).”
+
+57 “Yanshiting qing’ai tan: Wo jiang gaosu ni, wo zhengge de xin’er aini” [验尸庭情爱谈“我将告诉你， 我整个的心儿爱你”](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19301203-1.2.42.1) \[Speaking of love and affection in the coroner’s court: “I shall tell you that I love you with all my heart\], _Nanyang Siang Pau_ 南洋商报, 3 December 1930, 7. (From NewspaperSG)
+
+58 The public-private separate spheres ideology had become central to middle-class identity in the metropole by the late 18th century. Gender roles were prescribed, from which notions of respectability were derived. Leonore Davidoff and Catherine Hall, _Family Fortunes: Men and Women of the English Middle Class 780-1950,_ rev. ed. (London: Routledge, 2002), xvi; Susie Steinbach, “Can We Still Use ‘Separate Spheres’? British History 25 Years after Family Fortunes,” _History Compass_ 10/11 (2012): 831.
+
+59 “[The Schroeder Inquest](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19260129-1.2.24),” _Malaya Tribune_, 29 January 1926, 6; “[Hotel Mystery Verdict](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19260129-1.2.81),” _Straits Times_, 29 January 1926,10; “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19260201-1.2.34),” _Singapore Free Press and Mercantile Advertiser,_ 1 February 1926, 8; “[The Week’s News](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk19260203-1.2.8),” _Singapore Free Press and Mercantile Advertiser, (Weekly),_ 3 February 1926, 65. (From NewspaperSG)
+
+60 “[Death of Mr Schroeder](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19251219-1.2.26),” _Malaya Tribune,_ 19 December 1925, 6; “[Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19251219-1.2.70),” _Straits Times,_ 19 December 1925, 9; “[Norwegian’s Mysterious Death](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19251221-1.2.41),” _Singapore Free Press and Mercantile Advertiser_, 21 December 1925, 8; “[Norwegian’s Mysterious Death](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk19251223-1.2.119),” _Singapore Free Press and Mercantile Advertiser (Weekly)_, 23 December 1925, 14; “Benpo Ouzhou Jiudian zhong zhi lüke baobi yian” [本坡欧洲酒店中之旅客暴毙疑案](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19251221-1.2.9) \[The mysterious case of a traveller’s sudden death in the Europe Hotel in Singapore\], _Nanyang Siang Pau_ _南洋商__报_, 21 December 1925, 3. (From NewspaperSG)
+
+61 “[Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19260105-1.2.21),” _Malaya Tribune_, 5 January 1926, 6. (From NewspaperSG)
+
+62 Mizutani, “[Contested Boundaries of Whiteness](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13170692),” 91–92. John G. Butcher has similarly posited that the maintenance of a “European standard of living” was considered by the British population as crucial in sustaining colonial rule in British Malaya. John G. Butcher, [_The British in Malaya, 1880–1941: The Social History of a European Community in Colonial South-East Asia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1901870) (Kuala Lumpur: Oxford University Press, 1979).
+
+63 “[A Strange Case](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19251228-1.2.26),” _Malaya Tribune_, 28 December 1925, 6. (From NewspaperSG)
+
+64 “[Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19260105-1.2.75),” _Straits Times_, 5 January 1926, 10; “[Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19260106-1.2.40),” _Singapore Free Press and Mercantile Advertiser,_ 6 January 1926, 9. (From NewspaperSG)
+
+65 “[Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19260106-1.2.80),” _Straits Times,_ 6 January 1926, 10. (From NewspaperSG)
+
+66 “[The Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19260119-1.2.80),” _Singapore Free Press and Mercantile Advertiser_, 19 January 1926, 16. (From NewspaperSG)
+
+67 Peet, [_Rickshaw Reporter_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4080269), 80.
+
+68 “[Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19260119-1.2.80),” _Singapore Free Press and Mercantile Advertiser_, 19 January 1926.
+
+69 “[The Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19260111-1.2.75),” _Straits Times,_ 11 January 1926, 10; “[Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19260111-1.2.62),” _Malaya Tribune_, 11 January 1926, 8. (From NewspaperSG)
+
+70 Fischer-Tiné, “Liquid Boundaries,” 106.
+
+71 “[Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19260106-1.2.40),” _Singapore Free Press and Mercantile Advertiser_, 6 January 1926; “[Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19260105-1.2.75),” _Straits Times_, 5 January 1926; “[Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19260106-1.2.24),” _Malaya Tribune_, 6 January 1926, 6; “Yanshiting chajiu Nuoweiren fudu zisha an xiangzhi (5)” [验尸庭查究挪威人服毒自尽案详志（五）](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19260111-1.2.7.16) \[Details of coroner’s inquest into the case of a Norwegian who committed suicide by poisoning (pt. five)\], _Nanyang Siang Pau_ 南洋商报, 11 January 1926, 3. (From NewspaperSG)
+
+72 “[Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19260105-1.2.21),” _Malaya Tribune,_ 5 January 1926.
+
+73 “[Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19260106-1.2.80),” _Straits Times,_ 6 January 1926.
+
+74 “[Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19260106-1.2.80),” _Straits Times,_ 6 January 1926; “[Yanshiting chajiu Nuoweiren fudu zisha an xiangzhi (5)](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19260111-1.2.7.16).”
+
+75 “[Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19260119-1.2.80),” _Singapore Free Press and Mercantile Advertiser_, 19 January 1926.
+
+76 “[Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19260119-1.2.80),” _Singapore Free Press and Mercantile Advertiser_, 19 January 1926.
+
+77 “[Suicide or Murder](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19260119-1.2.61),” _Malaya Tribune_, 19 January 1926, 8. (From NewspaperSG)
+
+78 For example: “[Norwegian’s Mysterious Death](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19251221-1.2.41),” 21 December 1925; “Yanshiting chajiu Nuoweiren fudu zijin an xiangzhi (1)” [验尸庭查究挪威人服毒自尽案详志（一）](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19260106-1.2.5.7) \[Details of coroner’s inquest into the case of a Norwegian who committed suicide by poisoning (pt. one)\], _Nanyang Siang Pau_ 南洋商报, 6 January 1926, 3. (From NewspaperSG)
+
+79 For example, the headlines of the _SFPMA_ report on Gibson’s death included “Mr D. V. Gibson Drowned,” and the report in _Nanyang Siang Pau_ sported the headline “Gibson, European, drowns while swimming at Changi, and has only been back in Singapore for a week.” “[Changi Bathing Fatality](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19301110-1.2.62),” _Singapore Free Press and Mercantile Advertiser_, 10 November 1930, 10; “Ouren Jibusheng fan benpo jin yizhou zai Zhangyi youyong nibi” [欧人吉甫生返本坡仅一周在漳宜游泳溺毙](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19301110-1.2.34.6) \[Gibson, European, drowns while swimming at Changi, and has only been back in Singapore for a week\], _Nanyang Siang Pau_ 南洋商报, 10 November 1930, 7. (From NewspaperSG)
+
+80 For example, one of the _Straits Times_ articles on the proceedings of the inquiry into Gibson’s death sported the headline “[European’s Death at Changi](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19301202-1.2.73)”.
+
+81 Butcher, [_The British in Malaya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1901870)_,_ 1.
+
+82 “[Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19260106-1.2.40),” _Singapore Free Press and Mercantile Advertiser_, 6 January 1926, 9. (From NewspaperSG)
+
+83 “[Strange Case](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19251228-1.2.26).”
+
+84 “[Strange Case](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19251228-1.2.26).”
+
+85 “[Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19260106-1.2.80),” _Straits Times,_ 6 January 1926.
+
+86 “[Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19260108-1.2.49),” _Malaya Tribune_, 8 January 1926, 8. (From NewspaperSG)
+
+87 “[The Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19260112-1.2.75),” _Singapore Free Press and Mercantile Advertiser_, 12 January 1926, 16. (From NewspaperSG)
+
+88 “[Suicide or Murder?](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19260118-1.2.29)” _Malaya Tribune_, 18 January 1926, 6. (From NewspaperSG)
+
+89 “Yanshiting chajiu Nuoweiren fudu zijin an xiangzhi (1)”; “Yanshiting chajiu Nuowei shangren fudu zijin an xiangzhi” [验尸庭查究挪威商人服毒自尽案详志](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19260128-1.2.7.12) \[Details of coroner’s inquest into the case of Norwegian businessman who committed suicide by poisoning\], _Nanyang Siang Pau_ 南洋商报, 28 January 1926, 3. (From NewspaperSG)
 
 
 
