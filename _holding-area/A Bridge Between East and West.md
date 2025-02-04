@@ -8,7 +8,12 @@ description: ""
 By Low Sze Wee
 
 
+![](/images/Vol%2021%20Issue%201/Liu%20Kang%20The%20Artist/bridge_facing.jpg)
+<div><i>Life by the River</i> (1975) by Liu Kang, oil on canvas, 126 × 203 cm.   <i>Collection of National Gallery Singapore, courtesy of National Heritage Board.</i></div>
+
+
 In November 1953, four artist-friends – Liu Kang, Chen Wen Hsi, Chen Chong Swee and Cheong Soo Pieng – held a joint exhibition showcasing more than 100 paintings and sketches inspired by their trip to Java and Bali a year earlier. It was the first time in Singapore that a group of local artists had organised a thematic exhibition based on their painting trip. The exhibition at the British Council was very well received and continues to be regarded as a milestone in Singapore’s art history today.[^1]
+
 
 Among the four artists who participated in the _Bali_ exhibition, Liu Kang was the only one who painted primarily in oil, whereas the other three moved freely between Western oil and Chinese ink paintings. In fact, when the well-known visiting Chinese artist Xu Beihong (徐悲鸿) saw Liu’s oil painting at a group exhibition in Singapore in 1940, he exclaimed, “你才是马諦斯的老师” (“You are truly the teacher of Matisse”).[^2]
 
