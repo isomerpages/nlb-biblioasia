@@ -12,15 +12,14 @@ drunken English, Scotch and Irish seamen literally rolling<br>
 in the gutters, intoxicated, not from opium but from rum<br> 
 and spirits sent all the way from England for the purpose of<br> 
 enabling her worthy sons to exhibit themselves to Chinese<br> 
-and other nations in this disgraceful light.1
+and other nations in this disgraceful light.[^1]
 
 First published in 1846, the above passage by G. F. Davidson was
 reproduced in the *Singapore Free Press and Mercantile Advertiser (SFPMA)*
-in 1909.2 Europeans who were publicly drunk, in full view of Asians, were
+in 1909.[^2] Europeans who were publicly drunk, in full view of Asians, were
 described in the passage as problematic. Extant research on Europeans’
 alcohol consumption in British colonies has shown that such perception
-was informed by European anxieties surrounding white racial prestige.3
-
+was informed by European anxieties surrounding white racial prestige.[^3]
 The drinking habits of low-class Europeans, such as seamen and sailors,
 elicited anxiety. Barred from accessing exclusively “European” spaces due
 to a lack of means as well as class- and profession-based restrictions, these
@@ -31,7 +30,7 @@ were often contingent on “deviance”, even as what was considered deviant
 was unfixed and constantly challenged. Examining the ways in which
 “European deviance” was defined in different contexts and used as an
 apparatus to differentiate between Europeans reveals the heterogeneity of
-the colonial society, which is so often portrayed otherwise.4
+the colonial society, which is so often portrayed otherwise.[^4]
 
 As the opening quote suggests, the problematisation of some behaviour
 such as public drunkenness was conceptualised in relation to its visibility
@@ -43,14 +42,7 @@ I am interested in how Asians regarded such behaviour. Reviewing how
 incidents of European deviant behaviour were reported in English- and
 Chinese-language newspapers sheds light on the issue. The existing research
 on newspapers in colonial Singapore helps elucidate the similarities and
-differences between the two.5
-
-This paper presents a comparative reading of reports on European
-deviant behaviour in English- and Chinese-language newspapers in 1923–41,
-the prewar period when the Chinese-language newspaper *Nanyang Siang
-Pau* (南洋商报) is available in microfilm. I have focused on examining
-the *Nanyang Siang Pau* in an extension of my previous research that had
-examined English-language newspapers exclusively. As *Nanyang Siang Pau*
+differences between the two.[^5]
 was a long-running daily newspaper, I examined one issue per month in
 order to cover the entire period. Other newspapers, such as the *Malaya
 Tribune*, the *Straits Times*, *SFPMA*, and *Sin Chew Jit Poh* (星洲日报),
@@ -63,19 +55,18 @@ Wohl Schroeder, reveals varied perceptions of deviance and its role in social ca
 In colonial Singapore, whether a European’s behaviour was perceived as
 deviant depended on and marked one’s distance from the ideal “respectable”
 European. The boundaries of Europeanness, contingent and unfixed, were
-sensitive to racial tensions in colonial contexts, and were class- and genderspecific.
-6 Respectability was emphasised as a criterion of Europeanness,
+sensitive to racial tensions in colonial contexts, and were class- and genderspecific.[^6] Respectability was emphasised as a criterion of Europeanness,
 not only as a justification for colonial rule, but also to keep “potentially
-subversive” Europeans in check.7 In the early 20th century, the construction of Europeanness was closely intertwined with that of whiteness. In colonial
+subversive” Europeans in check.[^7] In the early 20th century, the construction of Europeanness was closely intertwined with that of whiteness. In colonial
 settings, whiteness and its privileges were conferred when individuals
 exhibited a set of behaviour and characteristics that corresponded to the
 projection of racial prestige, which required prescriptive social rules and
-the resources to adhere to them.8 The distinctions within the European
+the resources to adhere to them.[^8] The distinctions within the European
 population in colonial settings were dictated by conventions of European
-middle-class respectability.9 As the “exclusionary politics of colonialism”
+middle-class respectability.[^9] As the “exclusionary politics of colonialism”
 demanded conformity, deviations from such conventions, or displays
 of behaviour deemed incompatible or contradictory, destabilised and
-challenged the boundaries of Europeanness.10
+challenged the boundaries of Europeanness.[^10]
 
 The proximity and visibility of European deviant behaviour to the
 colonised Asian populations shaped how problematic it was. Colonial
@@ -92,10 +83,10 @@ The press played an instrumental role in amplifying some behaviour as
 deviant and reinforced associations of low-class Europeans and deviant
 behaviour. As a producer of discourse, the press constructed narratives
 through reportage and advocated for interventions from the colonial
-authorities and civic organisations towards purported crises.11 The various
+authorities and civic organisations towards purported crises.[^11] The various
 English-language newspapers often carried similar or reproduced accounts
 of perceived deviant behaviour of Europeans. The *Straits Times*, especially,
-was considered by the residents in Singapore as a “European paper”, pertaining to its readership and perspective.12 The proliferation of accounts
+was considered by the residents in Singapore as a “European paper”, pertaining to its readership and perspective.[^12] The proliferation of accounts
 thus illustrates not just anxieties surrounding European deviance, but also
 their role in cautioning “respectable” Europeans against similar actions.
 
@@ -103,16 +94,16 @@ European drunkenness in public, for example, was often reported
 in English-language newspapers as being accompanied by “disorderly”
 conduct, such as violence. The perpetrators were typically identified as
 transient Europeans or Europeans of lower social status, such as seamen
-and rank-and-file soldiers.13 In 1931, the *Straits Times*, *SFPMA*, and *Malaya
+and rank-and-file soldiers.[^13] In 1931, the *Straits Times*, *SFPMA*, and *Malaya
 Tribune* reported that a Private Edward Hayes had allegedly assaulted a
-police constable in Hill Street while intoxicated.14 These reports would
+police constable in Hill Street while intoxicated.[^14] These reports would
 have reinforced contemporary stereotypes of working-class or lower-status
-European men as oft-drunk and violent.15
+European men as oft-drunk and violent.[^15]
 
 The case also highlights the spatiality of what constituted European
 deviant behaviour. Europeans of higher social status and with greater
 financial resources could afford to consume alcohol at premises that served
-exclusively European clientele, such as clubs and hotels.16 Their imbibition
+exclusively European clientele, such as clubs and hotels.[^16] Their imbibition
 of large quantities of alcohol and drunken behaviour were rarely reported
 in the newspapers. In contrast, Europeans of lower social status, who were
 typically excluded from these places, obtained their alcoholic beverages
@@ -122,13 +113,13 @@ the beverages in these places were affordable, fuelling colonial anxieties
 surrounding the visibility of European drunkenness and disorderliness.
 According to newspaper reports, Europeans were typically arrested for
 drunk and disorderly conduct near the docks at Tanjong Pagar, an area
-frequented by Europeans of lower social status, further illustrating their marginality.17 As being “drunk and disorderly” in public was liable
+frequented by Europeans of lower social status, further illustrating their marginality.[^17] As being “drunk and disorderly” in public was liable
 to criminal charges, the proliferation of reports on such behaviour by
 Europeans of lower social status reveals the disproportionate impact that
 the criminalisation of such behaviour had on them. That the Europeans
 who were deemed to have engaged in deviant behaviour were often of lower
 social status highlights the relationship between space, social marginality,
-and mobility.18
+and mobility.[^18]
 
 European deviant behaviour was discussed in English-language
 newspaper editorials, and readers wrote letters to the editors, urging the
@@ -142,13 +133,13 @@ questioned:
    churches and chapels when immorality is allowed to thrive<br>
    and flourish almost one stone’s throw from our schools?<br>
    What are the missionaries doing? Why don’t they stir up the<br>
-   responsible authorities? Is it not within their purview?19
+   responsible authorities? Is it not within their purview?[^19]
 
 The editor concurred, remarking that “surely the authorities have the
 power to control so degrading an evil flourishing in the very heart of the
-city.”20 Another letter agreed with the sentiments made, commenting that
+city.”[^20] Another letter agreed with the sentiments made, commenting that
 the Esplanade had been made “the happy hunting ground of ladies of easy
-virtue and the demi-monde generally every evening of the week”.21
+virtue and the demi-monde generally every evening of the week”.[^21]
 
 In the Chinese press, on the other hand, incidents of European
 deviance were typically confined to coverage in the “local news” (本坡新
@@ -161,9 +152,9 @@ The Chinese papers’ reports of European soldiers’ drunken and
 disorderly behaviour suggest that deviant behaviour by Europeans –
 particularly those of lower social status – was “visible” and noticed by the
 Chinese population. In *Nanyang Siang Pau*’s report on the Hayes case,
-Hayes was referred to as a *qiuba* (丘八)22 – a derogatory term for rankand-
+Hayes was referred to as a *qiuba* (丘八)[^22] – a derogatory term for rankand-
 file soldiers who had been in the military for a long time and acquired
-deviant habits.23 The use of this term illustrates the stereotyping of lowranking
+deviant habits.[^23] The use of this term illustrates the stereotyping of lowranking
 soldiers as disorderly. It also suggests that the Chinese differentiated
 between “respectable” and “disreputable” Europeans, and that the latter
 were identified by their deviant behaviour or disorderliness.
@@ -171,8 +162,8 @@ were identified by their deviant behaviour or disorderliness.
 In February 1931, when a group of soldiers of the Welch Regiment
 smashed the display windows of several shops and garages along Orchard
 Road, they were described in English-language newspapers as having gone
-“amok” and “behaving like lunatics”.24 In the 20th century, “amok” was a
-racialised term that connoted “nativeness” and mania.25 Such descriptions of
+“amok” and “behaving like lunatics”.[^24] In the 20th century, “amok” was a
+racialised term that connoted “nativeness” and mania.[^25] Such descriptions of
 the soldiers’ actions conveyed European disapproval of the behaviour; they
 sought to establish a social distance between “respectable” Europeans and
 these Europeans by emphasising the superiority of European rationality –
@@ -181,8 +172,8 @@ as they simultaneously undermined European superiority.
 
 *Nanyang Siang Pau* adopted similar language in its headline: “Drunk?
 Crazy? Welch soldiers create trouble in Orchard Road, glass windows
-smashed”.26 The report continued: “according to rumours, the soldiers had lost their composure and caused a commotion because they had consumed
-excessive alcohol”.27 Such postulation about whether the soldiers were
+smashed”.[^26] The report continued: “according to rumours, the soldiers had lost their composure and caused a commotion because they had consumed
+excessive alcohol”.[^27] Such postulation about whether the soldiers were
 drunk was absent in the English reports, which suggests that the association
 between soldiers, perceived inherent disorderliness and drunkenness was so
 entrenched that the reporters of the English papers did not find it necessary
@@ -202,15 +193,15 @@ McAlister was spotted by a policeman allegedly harassing passersby while
 intoxicated in Waterloo Street. Thereafter he assaulted the policeman as he
 resisted arrest, and damaged furniture in the Beach Road Police Station
 lock-up. He was charged in the Second Police Court, and the news was
-reported in the papers over the following two days.28 The articles in the
+reported in the papers over the following two days.[^28] The articles in the
 English papers generally had short and sometimes vague headlines. The
 *Straits Times* reported, “Soldier charged with disorderly behaviour”; the
 *SFPMA* similarly reported, “Charges against a soldier”; and the *Malaya
-Tribune* printed, “Policeman’s nose broken: Loyal soldier charged”.29 In
+Tribune* printed, “Policeman’s nose broken: Loyal soldier charged”.[^29] In
 comparison, *Nanyang Siang Pau* descriptively reported in its headline
 that “McAlister, soldier stationed at Changi [sic], having been drunk and
 disorderly, injured police and destroyed property, was charged on three
-counts, and a hearing has been scheduled”.30
+counts, and a hearing has been scheduled”.[^30]
 
 The hearing on 13 February was also reported in newspapers of both
 languages. This time, the English papers had more descriptive headlines
@@ -937,6 +928,3 @@ Newspapers of Singapore, 1915–1951” (BA thesis, University of Malaya, 1957).
 88 “[Suicide or Murder?](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19260118-1.2.29)” _Malaya Tribune_, 18 January 1926, 6. (From NewspaperSG)
 
 89 “Yanshiting chajiu Nuoweiren fudu zijin an xiangzhi (1)”; “Yanshiting chajiu Nuowei shangren fudu zijin an xiangzhi” [验尸庭查究挪威商人服毒自尽案详志](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19260128-1.2.7.12) \[Details of coroner’s inquest into the case of Norwegian businessman who committed suicide by poisoning\], _Nanyang Siang Pau_ 南洋商报, 28 January 1926, 3. (From NewspaperSG)
-
-
-
