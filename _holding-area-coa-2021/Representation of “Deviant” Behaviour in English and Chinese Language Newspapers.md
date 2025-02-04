@@ -910,36 +910,36 @@ _Straits Times._ “[Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/dig
 
 [^72]: “[Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19260105-1.2.21),” _Malaya Tribune,_ 5 January 1926.
 
-73 “[Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19260106-1.2.80),” _Straits Times,_ 6 January 1926.
+[^73]: “[Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19260106-1.2.80),” _Straits Times,_ 6 January 1926.
 
-74 “[Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19260106-1.2.80),” _Straits Times,_ 6 January 1926; “[Yanshiting chajiu Nuoweiren fudu zisha an xiangzhi (5)](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19260111-1.2.7.16).”
+[^74]: “[Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19260106-1.2.80),” _Straits Times,_ 6 January 1926; “[Yanshiting chajiu Nuoweiren fudu zisha an xiangzhi (5)](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19260111-1.2.7.16).”
 
-75 “[Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19260119-1.2.80),” _Singapore Free Press and Mercantile Advertiser_, 19 January 1926.
+[^75]:  “[Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19260119-1.2.80),” _Singapore Free Press and Mercantile Advertiser_, 19 January 1926.
 
-76 “[Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19260119-1.2.80),” _Singapore Free Press and Mercantile Advertiser_, 19 January 1926.
+[^76]:  “[Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19260119-1.2.80),” _Singapore Free Press and Mercantile Advertiser_, 19 January 1926.
 
-77 “[Suicide or Murder](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19260119-1.2.61),” _Malaya Tribune_, 19 January 1926, 8. (From NewspaperSG)
+[^77]: “[Suicide or Murder](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19260119-1.2.61),” _Malaya Tribune_, 19 January 1926, 8. (From NewspaperSG)
 
-78 For example: “[Norwegian’s Mysterious Death](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19251221-1.2.41),” 21 December 1925; “Yanshiting chajiu Nuoweiren fudu zijin an xiangzhi (1)” [验尸庭查究挪威人服毒自尽案详志（一）](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19260106-1.2.5.7) \[Details of coroner’s inquest into the case of a Norwegian who committed suicide by poisoning (pt. one)\], _Nanyang Siang Pau_ 南洋商报, 6 January 1926, 3. (From NewspaperSG)
+[^78]: For example: “[Norwegian’s Mysterious Death](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19251221-1.2.41),” 21 December 1925; “Yanshiting chajiu Nuoweiren fudu zijin an xiangzhi (1)” [验尸庭查究挪威人服毒自尽案详志（一）](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19260106-1.2.5.7) \[Details of coroner’s inquest into the case of a Norwegian who committed suicide by poisoning (pt. one)\], _Nanyang Siang Pau_ 南洋商报, 6 January 1926, 3. (From NewspaperSG)
 
-79 For example, the headlines of the _SFPMA_ report on Gibson’s death included “Mr D. V. Gibson Drowned,” and the report in _Nanyang Siang Pau_ sported the headline “Gibson, European, drowns while swimming at Changi, and has only been back in Singapore for a week.” “[Changi Bathing Fatality](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19301110-1.2.62),” _Singapore Free Press and Mercantile Advertiser_, 10 November 1930, 10; “Ouren Jibusheng fan benpo jin yizhou zai Zhangyi youyong nibi” [欧人吉甫生返本坡仅一周在漳宜游泳溺毙](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19301110-1.2.34.6) \[Gibson, European, drowns while swimming at Changi, and has only been back in Singapore for a week\], _Nanyang Siang Pau_ 南洋商报, 10 November 1930, 7. (From NewspaperSG)
+[^79]: For example, the headlines of the _SFPMA_ report on Gibson’s death included “Mr D. V. Gibson Drowned,” and the report in _Nanyang Siang Pau_ sported the headline “Gibson, European, drowns while swimming at Changi, and has only been back in Singapore for a week.” “[Changi Bathing Fatality](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19301110-1.2.62),” _Singapore Free Press and Mercantile Advertiser_, 10 November 1930, 10; “Ouren Jibusheng fan benpo jin yizhou zai Zhangyi youyong nibi” [欧人吉甫生返本坡仅一周在漳宜游泳溺毙](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19301110-1.2.34.6) \[Gibson, European, drowns while swimming at Changi, and has only been back in Singapore for a week\], _Nanyang Siang Pau_ 南洋商报, 10 November 1930, 7. (From NewspaperSG)
 
-80 For example, one of the _Straits Times_ articles on the proceedings of the inquiry into Gibson’s death sported the headline “[European’s Death at Changi](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19301202-1.2.73)”.
+[^80]: For example, one of the _Straits Times_ articles on the proceedings of the inquiry into Gibson’s death sported the headline “[European’s Death at Changi](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19301202-1.2.73)”.
 
-81 Butcher, [_The British in Malaya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1901870)_,_ 1.
+[^81]: Butcher, [_The British in Malaya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1901870)_,_ 1.
 
-82 “[Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19260106-1.2.40),” _Singapore Free Press and Mercantile Advertiser_, 6 January 1926, 9. (From NewspaperSG)
+[^82]: “[Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19260106-1.2.40),” _Singapore Free Press and Mercantile Advertiser_, 6 January 1926, 9. (From NewspaperSG)
 
-83 “[Strange Case](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19251228-1.2.26).”
+[^83]: “[Strange Case](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19251228-1.2.26).”
 
-84 “[Strange Case](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19251228-1.2.26).”
+[^84]: “[Strange Case](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19251228-1.2.26).”
 
-85 “[Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19260106-1.2.80),” _Straits Times,_ 6 January 1926.
+[^85]: “[Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19260106-1.2.80),” _Straits Times,_ 6 January 1926.
 
-86 “[Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19260108-1.2.49),” _Malaya Tribune_, 8 January 1926, 8. (From NewspaperSG)
+[^86]: “[Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19260108-1.2.49),” _Malaya Tribune_, 8 January 1926, 8. (From NewspaperSG)
 
-87 “[The Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19260112-1.2.75),” _Singapore Free Press and Mercantile Advertiser_, 12 January 1926, 16. (From NewspaperSG)
+[^87]: “[The Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19260112-1.2.75),” _Singapore Free Press and Mercantile Advertiser_, 12 January 1926, 16. (From NewspaperSG)
 
-88 “[Suicide or Murder?](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19260118-1.2.29)” _Malaya Tribune_, 18 January 1926, 6. (From NewspaperSG)
+[^88]: “[Suicide or Murder?](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19260118-1.2.29)” _Malaya Tribune_, 18 January 1926, 6. (From NewspaperSG)
 
-89 “Yanshiting chajiu Nuoweiren fudu zijin an xiangzhi (1)”; “Yanshiting chajiu Nuowei shangren fudu zijin an xiangzhi” [验尸庭查究挪威商人服毒自尽案详志](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19260128-1.2.7.12) \[Details of coroner’s inquest into the case of Norwegian businessman who committed suicide by poisoning\], _Nanyang Siang Pau_ 南洋商报, 28 January 1926, 3. (From NewspaperSG)
+[^89]: “Yanshiting chajiu Nuoweiren fudu zijin an xiangzhi (1)”; “Yanshiting chajiu Nuowei shangren fudu zijin an xiangzhi” [验尸庭查究挪威商人服毒自尽案详志](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19260128-1.2.7.12) \[Details of coroner’s inquest into the case of Norwegian businessman who committed suicide by poisoning\], _Nanyang Siang Pau_ 南洋商报, 28 January 1926, 3. (From NewspaperSG)
