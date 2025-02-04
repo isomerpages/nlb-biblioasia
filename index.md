@@ -17,6 +17,16 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 20 Issue 4/Somerset/HeroImage_somerset_2.jpg
   - infopic:
+      title: Early Malay Comics
+      subtitle: BiblioAsia Reels
+      id: infopic
+      description: Malay comics first appeared as editorial cartoons in local
+        newspapers such as Warta Jenaka and Utusan Zaman in the 1930s.
+      button: WATCH THE VIDEO
+      url: /videos/reels/
+      image: "/images/Videos: BiblioAsia Reels/Early_Malay_Comics2.jpg"
+      alt: Malay Comics
+  - infopic:
       title: "The Liu Kang Collection: A Portrait of an Artist"
       subtitle: Art
       id: infopic
@@ -1196,14 +1206,4 @@ sections:
       image: /images/Vol 19 Issue 4/An Interview with Rachel Heng/book
         cover_homepage3.jpg
       alt: The Great Reclamation
-  - infopic:
-      title: Early Malay Comics
-      subtitle: BiblioAsia Reels
-      id: infopic
-      description: Malay comics first appeared as editorial cartoons in local
-        newspapers such as Warta Jenaka and Utusan Zaman in the 1930s.
-      button: WATCH THE VIDEO
-      url: /videos/reels/
-      image: "/images/Videos: BiblioAsia Reels/Early_Malay_Comics2.jpg"
-      alt: Malay Comics
 ---
