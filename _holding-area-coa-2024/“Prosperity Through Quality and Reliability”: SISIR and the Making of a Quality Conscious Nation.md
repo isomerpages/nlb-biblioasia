@@ -119,9 +119,9 @@ While SISIR’s work in mediation mostly involved testing for specifications, it
 
 In the late 1980s, environmentalism surged across the world, and Singapore was no exception. Seeking to capitalise on this new trend, Singapore firm Kenwa Plastic Industries started advertising a photodegradable plastic bag.[^41]  The *Straits Times* featured the bag in its “Ailing Earth: The Singapore Perspective” series on 1 January 1990, reporting that Kenwa’s bag would disintegrate after 200 hours exposure to sunlight.[^42]  Seeking to position itself as progressive and environmentally conscious, The Body Shop ordered these bags and highlighted them in its publicity material.[^43] 
 
-<img src="/images/COA%202024/Prosperity%20Through%20Quality/the_body_shop.jpg" style="width:50%;">
+<img src="/images/COA%202024/Prosperity%20Through%20Quality/the_body_shop.jpg" style="width:40%;">
 <div style="background-color: white;">Kenwa Plastic’s allegedly photodegradable bag.
-<i>Image reproduced from <a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19900312-1.2.36.1"><i>"[Page 21 Advertisements Column 1],"</i></a> Straits Times, 12 March 1990, 21. (From NewspaperSG)</i></div> 
+<i>Image reproduced from <a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19900312-1.2.36.1"><i>"Page 21 Advertisements Column 1,"</i></a> Straits Times, 12 March 1990, 21. (From NewspaperSG)</i></div> 
 
 
 However, the bag’s claim to sustainability was soon put to the test. For their Earth Day celebration, a class from the Singapore American School at Ulu Pandan decided to showcase the bag’s breakdown by hanging it up near their school’s swimming pool. The demonstration was timed carefully so that the bag would decompose by Earth Day on April 22.[^44]  Unfortunately, the expected change did not occur, and the school’s newsletter *The Singapore American* reported that the bag remained “as good as new”.[^45]  This story was then picked up by the *Business Times* in its humour column.[^46]
