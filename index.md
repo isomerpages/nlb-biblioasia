@@ -20,8 +20,8 @@ sections:
       title: Early Malay Comics
       subtitle: BiblioAsia Reels
       id: infopic
-      description: Malay comics first appeared as editorial cartoons in local
-        newspapers such as Warta Jenaka and Utusan Zaman in the 1930s.
+      description: Early Malay cartoons in local newspapers in the 1930s paved the way
+        for Malay comic books published in the 1950s.
       button: WATCH THE VIDEO
       url: /videos/reels/
       image: "/images/Videos: BiblioAsia Reels/Early_Malay_Comics2.jpg"
