@@ -161,10 +161,10 @@ The study of modern Asian art is complex. Artists like Liu grappled with the for
 	
 [^29]: Quoting from “Preface III,” in Liu, [_The Paintings of Liu Kang_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5563367); Chia, “[Introduction](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8726393),” 21.
 	
-[^30]: Chia, “Introduction,” 17.
+[^30]: Chia, “[Introduction](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8726393),” 17.
 
 	
-[^31]: Kwok, _Channels and Confluences_, 52.
+[^31]: Kwok, [_Channels and Confluences_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7628104), 52.
 	
 [^32]: Kwok Kian Chow, _From Ritual to Romance – Paintings Inspired by Bali_ (Singapore: Singapore Art Museum, 1994), 42. (From National Library Singapore, call no. RCLOS 759.9598 SI-\[LK\]). &nbsp;
 	
