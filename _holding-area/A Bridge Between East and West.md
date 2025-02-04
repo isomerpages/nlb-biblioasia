@@ -153,13 +153,13 @@ The study of modern Asian art is complex. Artists like Liu grappled with the for
 	
 [^25]: Liu Kang once said, “China has remained my artistic vision… I am always conscious of the vastness of the country, the sense of scale, the depth of vision, the inner strength and greatness which characterise Chinese culture and art.” Quoting from Gretchen Mahbubani, “[Journey of a Pioneer Artist](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19811201-1.2.138.2),” _Straits Times_, 1 December 1981, 1. (From NewspaperSG), in Liu, [_Liu Kang at 87](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8726393), x._
 	
-[^26]: Quoting from “Postscript,” in Liu Kang, [_The Paintings of Liu Kang_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5563367) (Singapore: National Museum, Singapore, 1981), x. (From National Library Singapore, call no. RCLOS 759.95957 LIU); Chia, “Introduction,” 17. &nbsp;
+[^26]: Quoting from “Postscript,” in Liu Kang, [_The Paintings of Liu Kang_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5563367) (Singapore: National Museum, Singapore, 1981), x. (From National Library Singapore, call no. RCLOS 759.95957 LIU); Chia, “[Introduction](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8726393),” 17. &nbsp;
 	
-[^27]: Liu, _Liu Kang at 87_, 27
+[^27]: Liu, [_Liu Kang at 87_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8726393), 27
 	
-[^28]: Chia, “Introduction,” 10.
+[^28]: Chia, “[Introduction](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8726393),” 10.
 	
-[^29]: Quoting from “Preface III,” in Liu, _The Paintings of Liu Kang_; Chia, “Introduction,” 21.
+[^29]: Quoting from “Preface III,” in Liu, [_The Paintings of Liu Kang_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5563367); Chia, “[Introduction](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8726393),” 21.
 	
 [^30]: Chia, “Introduction,” 17.
 
