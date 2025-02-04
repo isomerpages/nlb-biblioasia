@@ -166,8 +166,8 @@ The study of modern Asian art is complex. Artists like Liu grappled with the for
 	
 [^31]: Kwok, [_Channels and Confluences_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7628104), 52.
 	
-[^32]: Kwok Kian Chow, _From Ritual to Romance – Paintings Inspired by Bali_ (Singapore: Singapore Art Museum, 1994), 42. (From National Library Singapore, call no. RCLOS 759.9598 SI-\[LK\]). &nbsp;
+[^32]: Kwok Kian Chow, [_From Ritual to Romance – Paintings Inspired by Bali_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6792588) (Singapore: Singapore Art Museum, 1994), 42. (From National Library Singapore, call no. RCLOS 759.9598 SI-\[LK\]). &nbsp;
 	
-[^33]: “Lee Siow Mong, “Introduction” in Liu, 刘抗画集, n.p.&nbsp;
+[^33]: “Lee Siow Mong, “Introduction” in Liu, [刘抗画集](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13066041), n.p.&nbsp;
 	
-[^34]: There were multiple players such as art promoters like Frank Sullivan, art historians like Michael Sullivan, collectors like Loke Wan Tho, and gallery and art supply shop owners like Tay Long. There was also a growing art market in the 1950s. For instance, paintings, worth a record $9,800, were sold at a joint show by Liu Kang, Chen Wen Hsi, Cheong Soo Pieng and Chen Chong Swee in 1951. See Kwok, _Channels and Confluences_, 40, 69.
+[^34]: There were multiple players such as art promoters like Frank Sullivan, art historians like Michael Sullivan, collectors like Loke Wan Tho, and gallery and art supply shop owners like Tay Long. There was also a growing art market in the 1950s. For instance, paintings, worth a record $9,800, were sold at a joint show by Liu Kang, Chen Wen Hsi, Cheong Soo Pieng and Chen Chong Swee in 1951. See Kwok, [_Channels and Confluences_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7628104), 40, 69.
