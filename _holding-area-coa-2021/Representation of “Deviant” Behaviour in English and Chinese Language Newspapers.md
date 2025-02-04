@@ -208,16 +208,16 @@ languages. This time, the English papers had more descriptive headlines
 than in their earlier reports of the case. The *SFPMA* wrote, “Loyals private
 breaks nose of policeman: Was chasing pedestrians”, and the *Malaya
 Tribune* quoted from the hearing that it was “A case of being violently
-drunk”.31 The *Morning Tribune* (the morning edition of the *Malaya Tribune*)
-reported that it was a “‘Case not for leniency’ says magistrate”.32 The two
+drunk”.[^31] The *Morning Tribune* (the morning edition of the *Malaya Tribune*)
+reported that it was a “‘Case not for leniency’ says magistrate”.[^32] The two
 *Tribunes* published similar reports detailing the hearing, with subheadings
 highlighting that McAlister had “punched” the police constable after
-having drunk “cheap wine”.33 All three articles reported that a Lieutenant
+having drunk “cheap wine”.[^33] All three articles reported that a Lieutenant
 H. M. Miles of the Loyal Regiment had testified that McAlister “bore
 a good character in the army”, and implicitly posited that the violence
 that took place was a consequence of his consumption of “cheap wine”
-of seemingly dubious quality.34 In particular, in the two *Tribune* articles,
-Miles’s testimony was printed in bold under the subheading “Cheap wine”.35
+of seemingly dubious quality.[^34] In particular, in the two *Tribune* articles,
+Miles’s testimony was printed in bold under the subheading “Cheap wine”.[^35]
 Such presentation reiterated a contemporary perceived correlation between
 “cheap” alcohol and disorderly conduct among European soldiers.
 
@@ -225,7 +225,7 @@ In comparison, *Nanyang Siang Pau* carried the headline, “McAlister,
 who committed violent assault in Waterloo Street, found guilty on all three
 charges”, while *Sin Chew Jit Poh* subsumed McAlister’s case under an article
 reporting the court hearing of three British soldiers with a general headline,
-“Three English [or British] soldiers violate the law again”.36 Both reports
+“Three English [or British] soldiers violate the law again”.[^36]  Both reports
 narrated an account of what happened on 30 January and the sentence
 McAlister received, without mentioning Miles’s testimony or the type of
 alcohol McAlister had allegedly consumed.
@@ -240,7 +240,7 @@ and Indians:
    inserted to give the spirit pungency. I know the case of the<br>
    boatswain of a man-of-war, who drank only one glass of one<br>
    of these concoctions, and was rendered mad-drunk, it being<br>
-   more than a week before he was again fit for duty.37
+   more than a week before he was again fit for duty.[^37]
 
 In contrast, the type of alcohol McAlister had consumed prior to the
 assault was not mentioned in the Chinese papers, suggesting that the editors
@@ -259,9 +259,9 @@ within the European population in colonial Singapore.
 
 Suicide has long been regarded in Western societies as deviant. By
 the early 19th century, with the rise of the medical profession, suicide was
-promulgated as the result of insanity.38 By the end of the century, suicide
+promulgated as the result of insanity.[^38]  By the end of the century, suicide
 had become increasingly associated with degeneracy and immorality,
-and was regarded as representative of national decline.39 These tropes
+and was regarded as representative of national decline.[^39]  These tropes
 of European insanity, degeneracy, and immorality were at the heart of
 colonial anxieties surrounding the maintenance of racial superiority and
 the vulnerability of colonial rule. Rationality and morality were ostensibly characteristics that distinguished the coloniser from the colonised; European
@@ -272,7 +272,7 @@ that European suicide elicited acute anxieties particularly when Europeans
 of higher social status took their own lives. Hence European deviance was
 not a static construct confined to specific groups of people, but rather an
 articulation of colonial expectations, manifest in the inclusion and exclusion
-of certain Europeans within the category of “European”.40
+of certain Europeans within the category of “European”.[^40]
 
 This section examines the newspaper coverage of the coroner’s inquests
 into the deaths of two Europeans, Douglas Vincent Gibson and Olvard
@@ -293,65 +293,82 @@ On the morning of 8 November 1930, he was reported missing by the
 assistant division manager, and his body was later found drifting in the
 waters off the beach at Changi. An inquest determined that Gibson had
 died of drowning, though the exact circumstances of his death remained
-unclear.41 Rumours ran rife that Gibson had taken his own life by shooting
+unclear.[^41] Rumours ran rife that Gibson had taken his own life by shooting
 or poisoning himself. The circulation of such rumours and the authorities’
 efforts to disprove them during the inquest – especially considering Gibson’s
-prominence and high social status – attest to the categorising of suicide as unbecoming for “respectable” Europeans in colonial settings.42 That the
+prominence and high social status – attest to the categorising of suicide as unbecoming for “respectable” Europeans in colonial settings.[^42] That the
 efforts to counter the rumours were reported extensively in the newspapers
 illustrates not only that the circumstances of Gibson’s death were of interest
 to readers, but also that the press played a role in shaping the discourse
 surrounding Europeans’ deviant behaviour.
 
 According to the *Straits Times*, Gibson was a “well-known resident”
-of Singapore.43 His funeral was “well attended” by “a large number of
+of Singapore.[^43] His funeral was “well attended” by “a large number of
 mourners”, and many wreaths were sent by prominent companies and
-associations in Singapore.44 The coroner’s inquest was attended by a number
-of Europeans, demonstrating “unusual interest” in the case.45 The assistant
+associations in Singapore.[^44] The coroner’s inquest was attended by a number
+of Europeans, demonstrating “unusual interest” in the case.[^45] The assistant
 superintendent conducting the inquest noted that “the tragedy had caused
-quite a lot of talk about town”.46 The question of whether Gibson had
+quite a lot of talk about town”.[^46] The question of whether Gibson had
 committed suicide was significant, as it potentially undermined the basis
 of racial superiority and colonial rule. The deviancy of suicide and its
 detriment to one’s reputation and respectability were best illustrated at the
 conclusion of the inquest, during which Mrs Gibson’s legal representative
 implored the jury not to “inflict… the stigma of suicide” on Gibson, an
-“honourable and highly respected man”.47
+“honourable and highly respected man”.[^47]
 
 The authorities sought to prove that Gibson had not taken his own life
 by establishing that he had no motives for doing so. They first posited that
 as Gibson was not “in any financial embarrassment but was as a matter of
 fact well off”, there appeared to be no possible reason for him to commit
-suicide.48 That the absence of financial embarrassment was equated to the
+suicide.[^48]  That the absence of financial embarrassment was equated to the
 absence of motive to commit suicide is telling of the significance of wealth
-for European men of higher social status in maintaining an appearance of respectability.49 The alleged shame from a lack of financial resources
+for European men of higher social status in maintaining an appearance of respectability.[^49] The alleged shame from a lack of financial resources
 was presumably a sufficient impetus to take one’s own life. It also suggests
 that financial embarrassment was one of the few, if not the only, causes for
 suicide among European men of higher social status that could be publicly
 discussed. The authorities also relied on the medical evidence to counter
 rumours of Gibson having shot himself before entering the water, stating
 that “there were no external marks of violence either about the mouth
-or body”.50
+or body”.[^50]
+
+At the opening of the inquest, the assistant superintendent asserted
+that there was no need to read out Gibson’s letter addressed to his wife,
+which was found on the desk in his room at the Europe Hotel, where he
+was staying.[^51] As the inquest proceeded, a member of the jury sought to
+eliminate any conjecture of Gibson’s letter as a suicide letter, suggesting that
+“it might allay outside gossip” if it was made known that the letter “was also
+really a statement of activities written in diary form, and though addressed
+to his wife, did not constitute a finished letter”.[^52] As rumours persisted,
+the assistant superintendent suggested that “in order to dispel rumours in
+town and the belief that certain things were suppressed it was advisable
+that the letter found in Mr. Gibson’s room at the Europe Hotel be read and
+made public”.[^53] The shift in position regarding the necessity to make public
+a private letter illustrates not just the persistence of rumours of Gibson’s
+suicide. It also shows that such allegations were considered to be highly
+damaging to the reputation of elite European men, and that suicide was
+perceived as significantly deviant.
 
 Mrs Gibson’s letters that were received after her husband’s death were
 also read out in open court. Her legal representative had asked for some
 parts of the letters be read out to “dispel some gossip that had been going
-about”.54 The two passages that were read out were “I really don’t care what
+about”.[^54] The two passages that were read out were “I really don’t care what
 happens till I come back to you once again” and “Oh, how I long for you.
 
 I shall never, never stop telling you all I have to tell you about how much
-I adore you, with all my heart, when we are together again”.55 By showing
+I adore you, with all my heart, when we are together again”.[^55]  By showing
 the affection between the couple in the letters, both the authorities and Mrs
 Gibson’s lawyer sought to demonstrate that his marital relations were not a
 possible motive for suicide. The newspapers subsequently published the first
 letter in its entirety and extracts of Mrs Gibson’s letters that were “written
 in very affectionate terms”, in an effort to counter the rumours circulating
-around town.56 *Nanyang Siang Pau*, which had been covering the inquest
+around town.[^56] *Nanyang Siang Pau*, which had been covering the inquest
 closely, similarly published the extracts and used one of them in an article
 headline – “I shall tell you that I love you with all my heart” (“我将告诉你,
-我整个的心儿爱你”).57
+我整个的心儿爱你”).[^57]
 
 The public constituted a space in which ideals of European respectability
 could be challenged, and transgressions of the private-public boundary
-brought about anxieties among European elites.58 Hence, making the
+brought about anxieties among European elites.[^58] Hence, making the
 private letters public showed the great extent of anxiety and consternation
 among Europeans elicited by the possibility of a European man of higher
 social status having committed suicide; the imperative to prove that
@@ -368,10 +385,10 @@ social status.
 Olvard Wohl Schroeder was a Norwegian businessman who operated a
 ship chandlery business in Singapore. He was found lying motionless in a room at the Europe Hotel on the morning of 18 December 1925 and
 subsequently died from opium poisoning. After a lengthy inquest, the
-coroner returned the verdict that Schroeder had committed suicide.59 Both
+coroner returned the verdict that Schroeder had committed suicide.[^59] Both
 English- and Chinese-language newspapers in Singapore reported his death,
 framing it as a “mystery”, as the circumstances surrounding it perplexed
-police investigators.60 The inquest garnered “considerable interest”, not least
+police investigators.[^60] The inquest garnered “considerable interest”, not least
 because of the questions surrounding how Schroeder came to his death,
 but also because of his appearance as a respectable European man.61 But
 while Schroeder appeared to be a wealthy man of high social status, he was
