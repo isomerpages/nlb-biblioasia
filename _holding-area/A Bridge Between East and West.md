@@ -93,11 +93,10 @@ The study of modern Asian art is complex. Artists like Liu grappled with the for
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/GohYuMei.png">
-<b>Goh Yu Mei</b> is a Librarian with the National Library Singapore, working with the Chinese Arts and Literary Collection. Her research interests lie in the intersection between society, and Chinese literature and arts.</div>
+<img style="width: 100px; height: 100px;" src="/images/Authors/GohYuMei2.png">
+<b>Low Sze Wee</b> is Group Director (Museums), National Heritage Board Singapore. He is the former Chief Executive Officer of the Singapore Chinese Cultural Centre.</div>
 <div style="background-color: white;">
 <br>
-
 
 #### **NOTES**
      
