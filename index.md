@@ -1196,4 +1196,14 @@ sections:
       image: /images/Vol 19 Issue 4/An Interview with Rachel Heng/book
         cover_homepage3.jpg
       alt: The Great Reclamation
+  - infopic:
+      title: Early Malay Comics
+      subtitle: BiblioAsia Reels
+      id: infopic
+      description: Malay comics first appeared as editorial cartoons in local
+        newspapers such as Warta Jenaka and Utusan Zaman in the 1930s.
+      button: WATCH THE VIDEO
+      url: /videos/reels/
+      image: "/images/Videos: BiblioAsia Reels/Early_Malay_Comics2.jpg"
+      alt: Image alt text
 ---
