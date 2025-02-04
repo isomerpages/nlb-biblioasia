@@ -150,5 +150,106 @@ city.”20 Another letter agreed with the sentiments made, commenting that
 the Esplanade had been made “the happy hunting ground of ladies of easy
 virtue and the demi-monde generally every evening of the week”.21
 
+In the Chinese press, on the other hand, incidents of European
+deviance were typically confined to coverage in the “local news” (本坡新
+闻) or “important local news” sections (本坡要闻). While evidently deemed
+worthy of being reported, these cases did not prompt the kind of exuberant
+discussion found in the English papers, likely owing to the significant demand for news from China because of its evolving political situation, or
+simply the readers’ lack of interest in this topic.
+
+The Chinese papers’ reports of European soldiers’ drunken and
+disorderly behaviour suggest that deviant behaviour by Europeans –
+particularly those of lower social status – was “visible” and noticed by the
+Chinese population. In *Nanyang Siang Pau*’s report on the Hayes case,
+Hayes was referred to as a *qiuba* (丘八)22 – a derogatory term for rankand-
+file soldiers who had been in the military for a long time and acquired
+deviant habits.23 The use of this term illustrates the stereotyping of lowranking
+soldiers as disorderly. It also suggests that the Chinese differentiated
+between “respectable” and “disreputable” Europeans, and that the latter
+were identified by their deviant behaviour or disorderliness.
+
+In February 1931, when a group of soldiers of the Welch Regiment
+smashed the display windows of several shops and garages along Orchard
+Road, they were described in English-language newspapers as having gone
+“amok” and “behaving like lunatics”.24 In the 20th century, “amok” was a
+racialised term that connoted “nativeness” and mania.25 Such descriptions of
+the soldiers’ actions conveyed European disapproval of the behaviour; they
+sought to establish a social distance between “respectable” Europeans and
+these Europeans by emphasising the superiority of European rationality –
+the cornerstone of British colonialism – vis-à-vis “native” irrationality, even
+as they simultaneously undermined European superiority.
+
+*Nanyang Siang Pau* adopted similar language in its headline: “Drunk?
+Crazy? Welch soldiers create trouble in Orchard Road, glass windows
+smashed”.26 The report continued: “according to rumours, the soldiers had lost their composure and caused a commotion because they had consumed
+excessive alcohol”.27 Such postulation about whether the soldiers were
+drunk was absent in the English reports, which suggests that the association
+between soldiers, perceived inherent disorderliness and drunkenness was so
+entrenched that the reporters of the English papers did not find it necessary
+to state that the soldiers might be intoxicated. By attributing the soldiers’
+disorderliness to intoxication, the Chinese-language press stopped short of
+accusing these men of being crazy or irrational, which would have directly
+contradicted the colonial rhetoric of European superiority and rationality.
+
+The headlines of the Chinese-language newspaper reports of European
+deviant behaviour were typically descriptive and at times sensationalised,
+although such sensationalism was certainly influenced by the papers’
+overall editorial and presentation style. In comparison, the English papers’
+headlines were typically less descriptive. In January 1939, a soldier by the
+name of James McAlister was charged with “disorderly behaviour in public”.
+A member of the Loyal Regiment stationed at the Gillman Barracks,
+McAlister was spotted by a policeman allegedly harassing passersby while
+intoxicated in Waterloo Street. Thereafter he assaulted the policeman as he
+resisted arrest, and damaged furniture in the Beach Road Police Station
+lock-up. He was charged in the Second Police Court, and the news was
+reported in the papers over the following two days.28 The articles in the
+English papers generally had short and sometimes vague headlines. The
+*Straits Times* reported, “Soldier charged with disorderly behaviour”; the
+*SFPMA* similarly reported, “Charges against a soldier”; and the *Malaya
+Tribune* printed, “Policeman’s nose broken: Loyal soldier charged”.29 In
+comparison, *Nanyang Siang Pau* descriptively reported in its headline
+that “McAlister, soldier stationed at Changi [sic], having been drunk and
+disorderly, injured police and destroyed property, was charged on three
+counts, and a hearing has been scheduled”.30
+
+The hearing on 13 February was also reported in newspapers of both
+languages. This time, the English papers had more descriptive headlines
+than in their earlier reports of the case. The *SFPMA* wrote, “Loyals private
+breaks nose of policeman: Was chasing pedestrians”, and the *Malaya
+Tribune* quoted from the hearing that it was “A case of being violently
+drunk”.31 The *Morning Tribune* (the morning edition of the *Malaya Tribune*)
+reported that it was a “‘Case not for leniency’ says magistrate”.32 The two
+*Tribunes* published similar reports detailing the hearing, with subheadings
+highlighting that McAlister had “punched” the police constable after
+having drunk “cheap wine”.33 All three articles reported that a Lieutenant
+H. M. Miles of the Loyal Regiment had testified that McAlister “bore
+a good character in the army”, and implicitly posited that the violence
+that took place was a consequence of his consumption of “cheap wine”
+of seemingly dubious quality.34 In particular, in the two *Tribune* articles,
+Miles’s testimony was printed in bold under the subheading “Cheap wine”.35
+Such presentation reiterated a contemporary perceived correlation between
+“cheap” alcohol and disorderly conduct among European soldiers.
+
+In comparison, *Nanyang Siang Pau* carried the headline, “McAlister,
+who committed violent assault in Waterloo Street, found guilty on all three
+charges”, while *Sin Chew Jit Poh* subsumed McAlister’s case under an article
+reporting the court hearing of three British soldiers with a general headline,
+“Three English [or British] soldiers violate the law again”.36 Both reports
+narrated an account of what happened on 30 January and the sentence
+McAlister received, without mentioning Miles’s testimony or the type of
+alcohol McAlister had allegedly consumed.
+
+Specifically attributing low-class European disorderliness to the “cheap”
+alcohol, the English-language reports legitimised broader European perception of “cheap” alcohol – typically sold by Asians – as dubious and
+nefarious. In his memoir, the English merchant W. H. M. Read described
+the liquor sold in grogshops that were predominantly run by Chinese
+and Indians:
+
+   Brandy was defiled with tobacco juice, and red chilies were<br>
+   inserted to give the spirit pungency. I know the case of the<br>
+   boatswain of a man-of-war, who drank only one glass of one<br>
+   of these concoctions, and was rendered mad-drunk, it being<br>
+   more than a week before he was again fit for duty.37
+
 
 
