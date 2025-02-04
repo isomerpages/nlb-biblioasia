@@ -1205,5 +1205,5 @@ sections:
       button: WATCH THE VIDEO
       url: /videos/reels/
       image: "/images/Videos: BiblioAsia Reels/Early_Malay_Comics2.jpg"
-      alt: Image alt text
+      alt: Malay Comics
 ---
