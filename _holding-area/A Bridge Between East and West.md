@@ -138,20 +138,20 @@ The study of modern Asian art is complex. Artists like Liu grappled with the for
 	
 [^18]: Flam, _Matisse on Art_, 37. Liu Kang also quoted the same passage from Matisse’s “Notes of a Painter”. See Liu, [_Liu Kang at 87_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8726393), 31–32.
 	
-[^19]: Chen Wen Hsi, Liu Kang’s peer and one of the four artists in the joint exhibition, recalled: “People said that it \[Post-Impressionism\] was the school of ‘external appearance’. That is, they paid attention to light and air. So, while Impressionist works were fuzzy and did not have very clear lines, the Post-Impressionists had clearer and broader strokes. There was a lack of subjectivity in this. It is like painting something by referring to the lines of symmetry. After this, there were Fauvism and Cubism. Here, it is the application of subjectivity. You are gradually applying subjectivity to control the look of the picture.” See Chen Wen Hsi’s oral history interview transcript Part 2 in Chen Wenxi, _Convergences – Chen Wen Hsi Centennial Exhibition_ (Singapore: Singapore Art Museum, 2006), 20. (From National Library Singapore, call no. RSING 759.95957 CHE-\[LKY\])
+[^19]: Chen Wen Hsi, Liu Kang’s peer and one of the four artists in the joint exhibition, recalled: “People said that it \[Post-Impressionism\] was the school of ‘external appearance’. That is, they paid attention to light and air. So, while Impressionist works were fuzzy and did not have very clear lines, the Post-Impressionists had clearer and broader strokes. There was a lack of subjectivity in this. It is like painting something by referring to the lines of symmetry. After this, there were Fauvism and Cubism. Here, it is the application of subjectivity. You are gradually applying subjectivity to control the look of the picture.” See Chen Wen Hsi’s oral history interview transcript Part 2 in Chen Wenxi, [_Convergences – Chen Wen Hsi Centennial Exhibition_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12829865) (Singapore: Singapore Art Museum, 2006), 20. (From National Library Singapore, call no. RSING 759.95957 CHE-\[LKY\])
 	
-[^20]: Liu, _Liu Kang at 87_, 35.
+[^20]: Liu, [_Liu Kang at 87_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8726393), 35.
 
 	
-[^21]: Quoting from Liu, 刘抗文集, 213, and cited by Kwok Kian Chow, _Journeys: Liu Kang and His Art_ (Singapore: National Arts Council and Singapore Art Museum, 2000), 14. (From National Library Singapore, call no. RSING 759.95957 LIU)&nbsp;
+[^21]: Quoting from Liu, [刘抗文集](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84492559), 213, and cited by Kwok Kian Chow, [_Journeys: Liu Kang and His Art_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=10354330) (Singapore: National Arts Council and Singapore Art Museum, 2000), 14. (From National Library Singapore, call no. RSING 759.95957 LIU)&nbsp;
 	
-[^22]: Ralph Crozier, “Post Impressionists in Pre-War Shanghai: The Juelanshe (Storm Society) and the Fate of Modernism in Republican China,” in _Modernity in Asian Art_, ed. John Clark (Australia: Wild Peony Limited, 1993), 136. (From National Library Singapore, call no. RART 709.5 MOD)
+[^22]: Ralph Crozier, “Post Impressionists in Pre-War Shanghai: The Juelanshe (Storm Society) and the Fate of Modernism in Republican China,” in [_Modernity in Asian Art_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7234937), ed. John Clark (Australia: Wild Peony Limited, 1993), 136. (From National Library Singapore, call no. RART 709.5 MOD)
 	
 [^23]: Mayching Kao, “The Quest for New Art,” in _Twentieth-Century Chinese Painting_, ed. Mayching Kao (Hong Kong; New York: Oxford University Press, 1988), 130.
 	
-[^24]: Ong Zhen Min, “A History of the Nanyang Academy of Fine Arts (1938–1990)” (Master’s thesis, National University of Singapore, 2006), 26–30, http://scholarbank.nus.edu.sg/handle/10635/15776.
+[^24]: Ong Zhen Min, “A History of the Nanyang Academy of Fine Arts (1938–1990)” (Master’s thesis, National University of Singapore, 2006), 26–30, [http://scholarbank.nus.edu.sg/handle/10635/15776](http://scholarbank.nus.edu.sg/handle/10635/15776).
 	
-[^25]: Liu Kang once said, “China has remained my artistic vision… I am always conscious of the vastness of the country, the sense of scale, the depth of vision, the inner strength and greatness which characterise Chinese culture and art.” Quoting from Gretchen Mahbubani, “Journey of a Pioneer Artist,” _Straits Times_, 1 December 1981, 1. (From NewspaperSG), in Liu, _Liu Kang at 87, x._
+[^25]: Liu Kang once said, “China has remained my artistic vision… I am always conscious of the vastness of the country, the sense of scale, the depth of vision, the inner strength and greatness which characterise Chinese culture and art.” Quoting from Gretchen Mahbubani, “[Journey of a Pioneer Artist](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19811201-1.2.138.2),” _Straits Times_, 1 December 1981, 1. (From NewspaperSG), in Liu, [_Liu Kang at 87](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8726393), x._
 	
 [^26]: Quoting from “Postscript,” in Liu Kang, _The Paintings of Liu Kang_ (Singapore: National Museum, Singapore, 1981), x. (From National Library Singapore, call no. RCLOS 759.95957 LIU); Chia, “Introduction,” 17. &nbsp;
 	
