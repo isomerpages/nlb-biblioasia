@@ -826,25 +826,25 @@ _Straits Times._ “[Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/dig
 
 [^30]: “Zhu Zhangyi bingshi Maibashida jiuzui zishi shangjing huiwu beikong sanzui dingqi juxun” [驻章宜兵士麦巴士打酒醉滋事伤警毁物被控三罪订期鞠讯](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19390202-1.2.92.1) \[McAlister, soldier stationed at Changi, having been drunk and disorderly, injured police, and destroyed property, was charged on three counts, and a hearing has been scheduled\], _Nanyang Siang Pau_ 南洋商报, 2 February 1939, 11. (From NewspaperSG)
 
-31 “[Loyals Private Breaks Nose of Policeman](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19390214-1.2.40),” _Singapore Free Press and Mercantile Advertiser_, 14 February 1939, 3; “[‘A Case of Being Violently Drunk’](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19390214-1.2.120),” _Malaya Tribune_, 14 February 1939, 16. (From NewspaperSG)
+[^31]: “[Loyals Private Breaks Nose of Policeman](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19390214-1.2.40),” _Singapore Free Press and Mercantile Advertiser_, 14 February 1939, 3; “[‘A Case of Being Violently Drunk’](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19390214-1.2.120),” _Malaya Tribune_, 14 February 1939, 16. (From NewspaperSG)
 
-32 “[Soldier Punches Constable on Nose](https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19390214-1.2.80),” _Morning Tribune_, 14 February 1939, 19. (From NewspaperSG)
+[^32]: “[Soldier Punches Constable on Nose](https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19390214-1.2.80),” _Morning Tribune_, 14 February 1939, 19. (From NewspaperSG)
 
-33 “[‘Case of Being Violently Drunk’](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19390214-1.2.120)”; “[Soldier Punches Constable on Nose](https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19390214-1.2.80).”
+[^33]: “[‘Case of Being Violently Drunk’](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19390214-1.2.120)”; “[Soldier Punches Constable on Nose](https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19390214-1.2.80).”
 
-34 “[Loyals Private Breaks Nose of Policeman](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19390214-1.2.40)”; “[‘Case of Being Violently Drunk’](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19390214-1.2.120)”; “[Soldier Punches Constable on Nose](https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19390214-1.2.80).”
+[^34]: “[Loyals Private Breaks Nose of Policeman](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19390214-1.2.40)”; “[‘Case of Being Violently Drunk’](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19390214-1.2.120)”; “[Soldier Punches Constable on Nose](https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19390214-1.2.80).”
 
-35 “[‘Case of Being Violently Drunk’](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19390214-1.2.120)”; “[Soldier Punches Constable on Nose](https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19390214-1.2.80).”
+[^35]:  “[‘Case of Being Violently Drunk’](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19390214-1.2.120)”; “[Soldier Punches Constable on Nose](https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19390214-1.2.80).”
 
-36 “Bingshi Maijiashida zai Huatielujie chengxiong suofan sanzui jiepan chengli” [兵士麦加士打在滑铁炉街逞凶所犯三罪皆判成立](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19390214-1.2.100) \[Soldier McAlister, who had committed violent assault in Waterloo Street, was found guilty on all three charges\], _Nanyang Siang Pau_ 南洋商报, 14 February 1939, 11; “Yingbing sanming you fanfa” [英兵三名又犯法](https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19390214-1.2.25.2) \[Three English (or British) soldiers violate the law again\], _Sin Chew Jit Poh_ 星洲日报, 14 February 1939, 12. (From NewspaperSG)
+[^36]: “Bingshi Maijiashida zai Huatielujie chengxiong suofan sanzui jiepan chengli” [兵士麦加士打在滑铁炉街逞凶所犯三罪皆判成立](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19390214-1.2.100) \[Soldier McAlister, who had committed violent assault in Waterloo Street, was found guilty on all three charges\], _Nanyang Siang Pau_ 南洋商报, 14 February 1939, 11; “Yingbing sanming you fanfa” [英兵三名又犯法](https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19390214-1.2.25.2) \[Three English (or British) soldiers violate the law again\], _Sin Chew Jit Poh_ 星洲日报, 14 February 1939, 12. (From NewspaperSG)
 
-37 W. H. M. Read, _Play and Politics: Recollections of Malaya by an Old Resident_ (London: Wells Gardner, Darton &amp; Co., 1901), 126.
+[^37]: W. H. M. Read, _Play and Politics: Recollections of Malaya by an Old Resident_ (London: Wells Gardner, Darton &amp; Co., 1901), 126.
 
-38 David Wright and John Weaver, “Introduction,” in _Histories of Suicide: International Perspectives on Self- Destruction in the Modern World_, ed. John Weaver and David Wright (Toronto: University of Toronto Press, 2009), 4.
+[^38]: David Wright and John Weaver, “Introduction,” in _Histories of Suicide: International Perspectives on Self- Destruction in the Modern World_, ed. John Weaver and David Wright (Toronto: University of Toronto Press, 2009), 4.
 
-39 Wright and Weaver, “Introduction,” 9.
+[^39]: Wright and Weaver, “Introduction,” 9.
 
-40 Historians Will Jackson and Emily J. Manktelow have posited the analytical approach of “thinking with deviance” to examine the various ways colonial expectations were articulated or subverted. Will Jackson and Emily J. Manktelow, “Introduction: Thinking with Deviance,” in _Subverting Empire: Deviance and Disorder in the British Colonial World_, ed. Will Jackson and Emily J. Manktelow (London: Palgrave Macmillan, 2015), 8.
+[^40]: Historians Will Jackson and Emily J. Manktelow have posited the analytical approach of “thinking with deviance” to examine the various ways colonial expectations were articulated or subverted. Will Jackson and Emily J. Manktelow, “Introduction: Thinking with Deviance,” in _Subverting Empire: Deviance and Disorder in the British Colonial World_, ed. Will Jackson and Emily J. Manktelow (London: Palgrave Macmillan, 2015), 8.
 
 41 “[Gibson Inquest Verdict](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19301206-1.2.56),” _Malaya Tribune,_ 6 December 1930, 9; “[Insufficient Evidence of Circumstances](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19301206-1.2.70.1),” _Straits Times,_ 6 December 1930, 12; “[Open Verdict Returned at Gibson Inquest](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19301206-1.2.73),” _Singapore Free Press and Mercantile Advertiser_, 6 December 1930, 2. (From NewspaperSG)
 
