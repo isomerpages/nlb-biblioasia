@@ -390,7 +390,7 @@ English- and Chinese-language newspapers in Singapore reported his death,
 framing it as a “mystery”, as the circumstances surrounding it perplexed
 police investigators.[^60] The inquest garnered “considerable interest”, not least
 because of the questions surrounding how Schroeder came to his death,
-but also because of his appearance as a respectable European man.61 But
+but also because of his appearance as a respectable European man.[^61] But
 while Schroeder appeared to be a wealthy man of high social status, he was
 not prominent. Subsequent allegations of opium smuggling, indebtedness,
 drunkenness, and an extramarital affair set him yet further apart from the
@@ -399,72 +399,72 @@ inquest, which included speculations of suicide and murder.
 
 According to the historian Satoshi Mizutani, having the financial ability
 to afford a “European” way of life was crucial to appearing “European” in
-colonial settings.62 During the inquest into Schroeder’s death, witnesses
+colonial settings.[^62] During the inquest into Schroeder’s death, witnesses
 were asked for their opinions of his financial status, and their responses were
 reported in detail in the newspapers. Many witnesses thought Schroeder
-was wealthy, as he had “spent money lavishly”.63 Schroeder’s widow testified
+was wealthy, as he had “spent money lavishly”.[^63] Schroeder’s widow testified
 that she had thought her husband “a wealthy man” and that they had
-“lived in an expensive way”.64 Harold Larsen, who was with Schroeder
+“lived in an expensive way”.[^64] Harold Larsen, who was with Schroeder
 the night before his death, similarly thought that Schroeder was “well-todo”.
-65 Soh Cheng Watt, a trader managing a ship chandlery business that had dealings with Schroeder, attested to Schroeder’s successful portrayal of
+[^65] Soh Cheng Watt, a trader managing a ship chandlery business that had dealings with Schroeder, attested to Schroeder’s successful portrayal of
 himself as a man of wealth and status, and stated in his testimony that “he
-had been told that Schroeder was a wealthy man”.66 The Europe Hotel was
+had been told that Schroeder was a wealthy man”.[^66] The Europe Hotel was
 considered by the European population as the “exclusive one for the best
 people in the European community” because it enforced strict exclusionary
-practices along class divisions.67 Thus, that Schroeder was found critically
+practices along class divisions.[^67] Thus, that Schroeder was found critically
 ill and subsequently died in the Europe Hotel would have impressed upon
 newspaper readers from the outset that Schroeder was a man of means. This
 image might have helped him to obtain funds from acquaintances with
 which to sustain his lavish lifestyle, thus Soh opined that Schroeder must
 have killed himself because he could no longer obtain any money from
-others.68 Similarly, Schroeder’s secretary testified that Schroeder had been
+others.[^68] Similarly, Schroeder’s secretary testified that Schroeder had been
 trying to swindle others by promising non-existent goods, and opined that
 he had committed suicide because he had been unsuccessful in doing so and
-had no money left.69
+had no money left.[^69]
 
 The newspapers also reported on Schroeder’s drinking. The type of
 alcohol and venue where it was consumed were factors that determined if
-said imbibition was regarded as deviant or acceptable.70 According to the
+said imbibition was regarded as deviant or acceptable.[^70]  According to the
 reports, at tiffin the day before he died, Schroeder had consumed gin and
 bitters, and a small bottle of wine. At night, he drank whiskey and soda, gin
 and bitters, white wine and champagne at various hotels such as the Europe,
 Adelphi, and Grosvenor. Not only was he drinking in “European” spaces,
 but he also paid for his drinks and those of his companions. Afterwards, he
-drank several bottles of beer at a public house in Balestier Road.71 An empty
+drank several bottles of beer at a public house in Balestier Road.[^71] An empty
 bottle of champagne was on the table in his hotel room when he was found
 there unconscious, which was published as part of the headline of an article
-by the *Malaya Tribune*.72 These details largely corresponded to the types of alcoholic beverages and spaces where European men of higher social
+by the *Malaya Tribune*.[^72] These details largely corresponded to the types of alcoholic beverages and spaces where European men of higher social
 status were expected to drink, thus feeding into an image of Schroeder as
 respectable and elite.
 
 Schroeder’s wife testified that although Schroeder was partial to white
 wine, he had never drunk excessively and that “when it was suggested that
-he was intoxicated at the hotel [she] thought it was impossible”.73 Larsen
+he was intoxicated at the hotel [she] thought it was impossible”.[^73] Larsen
 stated that Schroeder was sober when the latter left for the Europe Hotel
-after their drinking session.74 The assertions that Schroeder remained sober
+after their drinking session.[^74] The assertions that Schroeder remained sober
 despite consuming multiple alcoholic beverages aligned with contemporary
 tropes of middle-class, European, male self-discipline and control, in
 contrast to the perception of oft-drunk European men of lower social
 status who consumed cheap alcohol to excess. Yet the Europe Hotel’s
 night watchman testified that Schroeder had appeared at the hotel in the
-wee hours “a little drunk”.75 Another hotel staff recalled that Schroeder
+wee hours “a little drunk”.[^75] Another hotel staff recalled that Schroeder
 had asked him for champagne at 3 am and took an extra glass for a “lady
-friend”.76 This drunkenness and the allusion to an affair were inconsistent
+friend”.[^76] This drunkenness and the allusion to an affair were inconsistent
 with how respectable Europeans were expected to behave in colonial
 settings. That a doctor postulated during the inquest that Schroeder could
 have overdosed on opium while intoxicated suggests that drunkenness
 and drug consumption took place in “respectable” spaces. Yet this was not
 considered to be problematic, considering the absence of newspaper reports
-featuring drunken European elites.77
+featuring drunken European elites.[^77] 
 
 Both the English and Chinese papers typically referred to Schroeder as
 a “Norwegian” (挪威人) rather than by his surname, suggesting that he was
-not well-known in Singapore.78 By way of contrast, the reports of Gibson’s
+not well-known in Singapore.[^78] By way of contrast, the reports of Gibson’s
 death and inquest included his name in the headlines, suggesting that
-he was known to the readers of both the English- and Chinese-language papers.79 Gibson was also referred to as a European (欧人), instead of
-English or British.80 According to historian John G. Butcher, in British
+he was known to the readers of both the English- and Chinese-language papers.[^79] Gibson was also referred to as a European (欧人), instead of
+English or British.[^80] According to historian John G. Butcher, in British
 Malaya, whether one was European carried greater social significance than
-being British.81 The identification of Gibson as European reflected his
+being British.[^81] The identification of Gibson as European reflected his
 perceived embodiment of the ideal European male in a colonial setting. It
 furthermore suggests a hierarchy of European nationalities, with the British
 seeming to have a greater claim to Europeanness – and hence a higher status
@@ -474,21 +474,21 @@ nominal European status, yet simultaneously marking his distance from the
 ideal. That Schroeder mostly socialised with Norwegian steamship captains
 and had few other friends, and that he was previously a Second Officer on
 a Norwegian steamship, reinforced his distance from the construct of the
-ideal European.82
+ideal European.[^82] 
 
 At first, the image that Schroeder had maintained as a member of
 the upper echelons of society with no financial difficulties influenced the
 reporting of his death. The *Malaya Tribune* initially ruled out the possibility
 of suicide, stating that “his actions on the day previous to his mysterious
 death [did] not show that they were those of a man who was contemplating
-suicide”.83 It suggested that Schroeder’s death was the result of “a clever
-plan”.84 During the inquest, however, there was a shift in the Englishlanguage
+suicide”.[^83] It suggested that Schroeder’s death was the result of “a clever
+plan”.[^84] During the inquest, however, there was a shift in the Englishlanguage
 newspaper reporting over whether Schroeder had taken his own
 life. Articles covering the first day of the inquest reported that the coroner
-had stated that “medical evidence suggests suicide”.85 As further revelations
+had stated that “medical evidence suggests suicide”.[^85] As further revelations
 emerged, the papers started carrying headlines highlighting Schroeder’s
 perceived disreputable behaviour, and became more sensationalised and speculative. Some of these headlines included “Who is the mysterious Mr
-Loon Wong?”,86 “Was it suicide?”,87 “Suicide or murder?”88 This shift in
+Loon Wong?”,[^86] “Was it suicide?”,[^87] “Suicide or murder?”[^88] Thiis shift in
 framing suggests that public discussion of European suicide was considered
 less anxiety-inducing when the suicide was committed by a disreputable
 European. The sensational headlines can also be understood as a reflection
@@ -498,7 +498,7 @@ imperative to maintain the façade of European respectability.
 
 In contrast, the Chinese papers, from the earliest reports of the inquest,
 carried headlines prefiguring the coroner’s verdict that Schroeder had
-“committed suicide by poisoning” (服毒自尽).89 Although the reports in
+“committed suicide by poisoning” (服毒自尽).[^89] Although the reports in
 *Nanyang Siang Pau* were detailed, their publication did not correspond to
 the days on which the inquest was held. This suggests that while there was
 presumably interest among the paper’s readers, the interest level was not
