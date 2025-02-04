@@ -906,9 +906,9 @@ _Straits Times._ “[Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/dig
 
 [^70]: Fischer-Tiné, “Liquid Boundaries,” 106.
 
-71 “[Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19260106-1.2.40),” _Singapore Free Press and Mercantile Advertiser_, 6 January 1926; “[Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19260105-1.2.75),” _Straits Times_, 5 January 1926; “[Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19260106-1.2.24),” _Malaya Tribune_, 6 January 1926, 6; “Yanshiting chajiu Nuoweiren fudu zisha an xiangzhi (5)” [验尸庭查究挪威人服毒自尽案详志（五）](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19260111-1.2.7.16) \[Details of coroner’s inquest into the case of a Norwegian who committed suicide by poisoning (pt. five)\], _Nanyang Siang Pau_ 南洋商报, 11 January 1926, 3. (From NewspaperSG)
+[^71]:  “[Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19260106-1.2.40),” _Singapore Free Press and Mercantile Advertiser_, 6 January 1926; “[Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19260105-1.2.75),” _Straits Times_, 5 January 1926; “[Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19260106-1.2.24),” _Malaya Tribune_, 6 January 1926, 6; “Yanshiting chajiu Nuoweiren fudu zisha an xiangzhi (5)” [验尸庭查究挪威人服毒自尽案详志（五）](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19260111-1.2.7.16) \[Details of coroner’s inquest into the case of a Norwegian who committed suicide by poisoning (pt. five)\], _Nanyang Siang Pau_ 南洋商报, 11 January 1926, 3. (From NewspaperSG)
 
-72 “[Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19260105-1.2.21),” _Malaya Tribune,_ 5 January 1926.
+[^72]: “[Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19260105-1.2.21),” _Malaya Tribune,_ 5 January 1926.
 
 73 “[Hotel Mystery](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19260106-1.2.80),” _Straits Times,_ 6 January 1926.
 
