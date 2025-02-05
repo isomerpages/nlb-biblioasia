@@ -145,9 +145,9 @@ This article was partially developed from my MA (History) thesis, <i>Sages, Smok
 
 [^6]: Huang Ziwen 黄子文, comp. _Kongzhongjiao Fazhan Shilue_ [空中教发展史略](https://catalogue.nlb.gov.sg/search/card?id=916f520c-1b93-561d-a66c-aff7646810b8&amp;entityType=FormatGroup) \[Supplementary Histories of the Kongzhongjiao\] (怡宝: 霹雳空中教会, 1965), 38. (From National Library Singapore, call no. Chinese RCLOS 299.51 HTW)
 
-[^7]:  For an introduction to the lives and religious careers of these individuals, see Shi Cangjin 石沧金, _Hai wai Hua ren min jian zong jiao xin yang yan jiu_ [海外华人民间宗教信仰研究](https://catalogue.nlb.gov.sg/search/card?id=ce2cc75d-3cf5-5aa1-8d92-7d6a1888f946&amp;entityType=FormatGroup) \[Overseas Chinese folk religion research\] (Kuala Lumpur: Xuelin Shuju 学林书局, 2014), 44-48. (From National Library, Singapore, call no.: 299.51 SCJ).
+[^7]:  For an introduction to the lives and religious careers of these individuals, see Shi Cangjin 石沧金, _Hai wai Hua ren min jian zong jiao xin yang yan jiu_ [海外华人民间宗教信仰研究](https://catalogue.nlb.gov.sg/search/card?id=ce2cc75d-3cf5-5aa1-8d92-7d6a1888f946&amp;entityType=FormatGroup) \[Overseas Chinese folk religion research\] (Kuala Lumpur: Xuelin Shuju 学林书局, 2014), 44-48. (From National Library Singapore, call no.: 299.51 SCJ).
 
-[^8]:  _Xinjiapo zhen kong jiao lian he hui ji ben yuan shan dao tang xin sha luo cheng kai mu ji nian ce_ [新加坡真空教联合会暨本元山道堂新厦落成开幕纪念册](https://catalogue.nlb.gov.sg/search/card?id=012ddc88-abc5-52f9-8968-d042db12686a&amp;entityType=FormatGroup) (Xinjiapo 新加坡: Xinjiapo Zhenkongjiao Lian He Hui 新加坡真空教联合会, 1992), 126. (From PublicationSG, call no. 299.51)
+[^8]:  _Xinjiapo zhen kong jiao lian he hui ji ben yuan shan dao tang xin sha luo cheng kai mu ji nian ce_ [新加坡真空教联合会暨本元山道堂新厦落成开幕纪念册](https://catalogue.nlb.gov.sg/search/card?id=012ddc88-abc5-52f9-8968-d042db12686a&amp;entityType=FormatGroup) (新加坡: 新加坡真空教联合会, 1992), 126. (From PublicationSG)
 
 [^9]:  Shi Cangjin 石沧金 and Ouyang Banyi 欧阳班铱, “Xinjiapo Zhenkongjiao fazhanshi chutan 新加坡真空教发展史初探 \[A Preliminary Study of the History of Zhenkong Religion in Singapore\],” _Huaren yanjiu guoji xuebao_ 华人研究国际学报 \[International Journal of Diasporic Chinese Studies\] 4, no. 2 (2012): 92.
 
