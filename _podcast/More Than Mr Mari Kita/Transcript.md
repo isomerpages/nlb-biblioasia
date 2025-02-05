@@ -167,8 +167,7 @@ whole week.</p>
 <p><strong>Julian<br></strong>Yes, she did.</p>
 <p><strong>Jimmy<br></strong>Okay.</p>
 <p><strong>Julian</strong>
-</p>
-<p>Yeah. So, we had to cancel one whole week and come back for a few more
+<br>Yeah. So, we had to cancel one whole week and come back for a few more
 shows only. So, when we finally got to do it again this year, we crossed
 all our fingers and toes. And thankfully we did a full month without any
 incident. So very grateful for that.</p>
@@ -627,9 +626,9 @@ And I hope that what Julian shared today will be useful to listeners. It’s
 really been a pleasure and a privilege to have you on the show.</p>
 <p><strong>Julian<br></strong>Thank you for reaching out to me.</p>
 <p><strong>Jimmy<br></strong>I want to thank everyone for listening to this
-episode of BiblioAsia+. <em>BiblioAsia</em> can be found online at <a rel="noopener noreferrer nofollow" target="_blank">biblioasia.nlb.gov.sg</a>.
-And I want to leave you with this haunting version of “Semoga Bahagia”,
-written and sung by Julian, accompanied by the cast of <em>Don’t Call Him Mr. Mari Kita</em>.
+episode of BiblioAsia+. <em>BiblioAsia</em> can be found online at <a rel="noopener noreferrer nofollow" target="_blank">biblioasia.nlb.gov.sg</a>. And I want
+to leave you with this haunting version of “Semoga Bahagia”, written and
+sung by Julian, accompanied by the cast of <em>Don’t Call Him Mr. Mari Kita</em>.
 And thank you very much.</p>
 <p><strong>Julian<br></strong>Thank you.</p>
 <p>[“Semoga Bahagia” playing]</p>
