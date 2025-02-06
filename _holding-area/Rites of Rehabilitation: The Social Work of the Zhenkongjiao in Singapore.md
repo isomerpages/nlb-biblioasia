@@ -183,21 +183,21 @@ This article was partially developed from my MA (History) thesis, <i>Sages, Smok
 
 [^25]:  "Zheankong jiao ben yuan dao tang shixíng yiwu jieyan” [眞空敎本元道堂實行義務戒煙](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19600315-1.2.24.10) \[The Zhenkongjiao Ben Yuan Dao Tang Implements Free Smoking Cessation\],  _Nanyang Siang Pau_ 南洋商报, 15 March 1960, 8. (From NewspaperSG)
 
-[^26]:  谭文熙 Tham Wen Xi, 新加坡宗教个案研究: 新加坡真空教在近年的发展 \[A Case Study of Singapore Religion: The Development of Chin Kong Religion in Singapore\] (Hons. Thesis, Department of Chinese Studies, National University of Singapore, 2011), 48–49.
+[^26]:  谭文熙 Tham Wen Xi, 新加坡宗教个案研究: 新加坡真空教在近年的发展 \[A case study of Singapore religion: The Development of Chin Kong religion in Singapore\] (Hons. Thesis, Department of Chinese Studies, National University of Singapore, 2011), 48–49.
 
 [^27]:  Soh, “Practicing Salvation,” 105–107.
 
-[^28]:  Huang, _Kongzhongjiao Fazhan Shilue,_ 72-75.
+[^28]:  Huang, _<a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=84467404">Kongzhongjiao Fazhan Shilue</a>_, 72-75.
 
 [^29]:  Seow Peck Ngiam, “[Anti-yellow Culture Campaign](https://www.nlb.gov.sg/main/article-detail?cmsuuid=8e493ee4-1832-4fec-96ee-a0a6b3efab87),” Singapore Infopedia.
 
-[^30]:  [Xingzhou zhen kong jiao lian he hui cheng li nian er zhou nian ji nian te kan](https://catalogue.nlb.gov.sg/search/card?id=71a2aa09-1781-5bb6-8b85-8d8d90060b01&amp;entityType=FormatGroup) 星洲真空教联合会成立廿二周年纪念特刊 \[Commemorative Volume Marking the 20th Anniversary of the Federation of the Zhenkongjiao in Singapore\]. Singapore: Federation of the Zhenkongjiao in Singapore (Xin jia po: 星洲真空教联合会 Xingzhou Zhenkongjiao lian he hui, 1976), 1-8. (From National Library, Singapore, call no.: 294.39 SEN)
+[^30]:  Xingzhou zhen kong jiao lian he hui cheng li nian er zhou nian ji nian te kan <a href="https://catalogue.nlb.gov.sg/search/card?id=71a2aa09-1781-5bb6-8b85-8d8d90060b01&amp;entityType=FormatGroup"> 星洲真空教联合会成立廿二周年纪念特刊</a> \[Commemorative Volume Marking the 20th Anniversary of the Federation of the Zhenkongjiao in Singapore\]. (新加坡 : 星洲真空教联合会, 1976), 1–8. (From National Library Singapore, call no. Chinese R 294.39 SEN)
 
-[^31]:  “Kongjiao lianhehui qingzhu Zhenkong zushi danchen choujian huishi zuowei jiedu zhongxin [眞空敎聯合會慶祝眞空祖師誕辰籌建會所作爲戒毒中心](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19760511-1.2.34.4) \[The Zhenkongjiao Association celebrates the birthday of Zhenkong Patriarch by raising funds to establish a center for drug rehabilitation\],” <i>Nanyang Siang Pau</i> 南洋商报, 11 May 1976, 17. (From NewspaperSG); “Kongjiao lianhe hui zutuan jin qicheng fangwen gedi yanjiu you xiao jiedu fa [眞空敎聯合會組團今启程访问各地研究有効戒毒法](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19770107-1.2.24.4) \[The Zhenkongjiao Association organizes a group to embark on visits to various places to research effective methods of drug rehabilitation\],” <i>Nanyang Siang Pau</i> 南洋商报, 7 January 1977, 8. (From NewspaperSG)
+[^31]:  “Kongjiao lianhehui qingzhu Zhenkong zushi danchen choujian huishi zuowei jiedu zhongxin" [眞空敎聯合會慶祝眞空祖師誕辰籌建會所作爲戒毒中心](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19760511-1.2.34.4) \[The Zhenkongjiao Association celebrates the birthday of Zhenkong Patriarch by raising funds to establish a center for drug rehabilitation\], <i>Nanyang Siang Pau</i> 南洋商报, 11 May 1976, 17. (From NewspaperSG); “Kongjiao lianhe hui zutuan jin qicheng fangwen gedi yanjiu you xiao jiedu fa [眞空敎聯合會組團今启程访问各地研究有効戒毒法](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19770107-1.2.24.4) \[The Zhenkongjiao Association organizes a group to embark on visits to various places to research effective methods of drug rehabilitation\],” <i>Nanyang Siang Pau</i> 南洋商报, 7 January 1977, 8. (From NewspaperSG)
 
-[^32]:  Ng Ser Song, “Toward a Drug-Free Society: The Singapore Approach,” _Brown Journal of World Affairs_ 26 (2019-20): 245–252.
+[^32]:  Ng Ser Song, “Toward a Drug-Free Society: The Singapore Approach,” _Brown Journal of World Affairs_ 26 (2019-20): 245–52. (From JSTOR via NLB's [eResources](https://eresources.nlb.gov.sg/main/) website)
 
-[^33]:  Hue Guan Thye, “[The Evolution of the Singapore United Temple: The Transformation of Chinese Temples in the Chinese Southern Diaspora](https://chl-archive.anu.edu.au/sites/default/files/publications/csds/csds2012/csds2012_07.pdf),” _Chinese Southern Diaspora Studies_ 5 (2012): 157–174.
+[^33]:  Hue Guan Thye, “The Evolution of the Singapore United Temple: The Transformation of Chinese Temples in the Chinese Southern Diaspora," _Chinese Southern Diaspora Studies_ 5 (2012): 157–174, https://chl-archive.anu.edu.au/sites/default/files/publications/csds/csds2012/csds2012_07.pdf
 
 [^34]:  Shi and Ouyang, “Xinjiapo Zhenkongjiao fazhanshi chutan,” 98.
 
