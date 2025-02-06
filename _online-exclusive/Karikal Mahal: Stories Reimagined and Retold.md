@@ -62,10 +62,6 @@ The magazines also featured step-by-step guides to tricks, performed and written
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Karikal%20Mahal/second_episodev2.png" style="width: 60%;">In the second episode, the Malayan Magic Circle performs their final show at Karikal Mahal. <i>Courtesy of Ochre Pictures.</i></div>
-
-<div style="background-color: white;">
-<br>
 <img src="/images/Online%20Only%20Articles/Karikal%20Mahal/The_Great_Wongv2.png" style="width: 60%;">Reenactment of The Great Wong’s Linking Rings act. <i>Courtesy of Ochre Pictures.</i></div>
 
 <div style="background-color: white;">
