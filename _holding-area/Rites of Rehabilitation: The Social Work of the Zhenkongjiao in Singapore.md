@@ -151,7 +151,7 @@ This article was partially developed from my MA (History) thesis, <i>Sages, Smok
 
 [^9]:  Shi Cangjin 石沧金 and Ouyang Banyi 欧阳班铱, “Xinjiapo Zhenkongjiao fazhanshi chutan" 新加坡真空教发展史初探 \[A Preliminary Study of the History of Zhenkong Religion in Singapore\], _Huaren yanjiu guoji xuebao_ 华人研究国际学报 \[International Journal of Diasporic Chinese Studies\] 4, no. 2 (December 2012): 92. (From National Library Singapore, call no.: Chinese R 909.04951 IJDCS)
 
-[^10]:  One of the classical studies include Lionel Robbins, <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=252516">_The Great Depression_</a> (Freeport, N.Y.: Books for Libraries Press, 1971) (From National Library, Singapore, call no. 330.904 ROB)
+[^10]:  One of the classical studies include Lionel Robbins, <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=252516">_The Great Depression_</a> (Freeport, N.Y.: Books for Libraries Press, 1971) (From National Library Singapore, call no. 330.904 ROB)
 
 [^11]:  Loh Kah Seng, “Beyond Rubber Prices: Negotiating the Great Depression in Singapore,” _South East Asia Research_ 14, no. 1 (2006): 5–31 (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website); and W. G. Huff, “Entitlements, Destitution, and Emigration in the 1930s Singapore Great Depression,” _The Economic History Review_ 54, no. 2 (2001): 290–323. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
