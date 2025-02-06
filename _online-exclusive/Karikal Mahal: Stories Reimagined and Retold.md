@@ -62,11 +62,11 @@ The magazines also featured step-by-step guides to tricks, performed and written
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Karikal%20Mahal/Great_wongs.png" style="width: 60%;">Reenactment of The Great Wong’s Linking Rings act. <i>Courtesy of Ochre Pictures.</i></div>
+<img src="/images/Online%20Only%20Articles/Karikal%20Mahal/Great_wongs.png" style="width: 80%;">Reenactment of The Great Wong’s Linking Rings act. <i>Courtesy of Ochre Pictures.</i></div>
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Karikal%20Mahal/AJ_Bragav3.png" style="width: 60%;">A.J. Braga’s exhilarating coffin act where he is straightjacketed and escapes from a sealed coffin. <i>Courtesy of Ochre Pictures.</i></div>
+<img src="/images/Online%20Only%20Articles/Karikal%20Mahal/AJ_Bragav3.png" style="width: 80%;">A.J. Braga’s exhilarating coffin act where he is straightjacketed and escapes from a sealed coffin. <i>Courtesy of Ochre Pictures.</i></div>
 
 #### **House of Horror**
 
@@ -74,19 +74,15 @@ In the final episode, the once opulent and palatial Karikal Mahal is now an inte
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Karikal%20Mahal/Thomas_Kitching3.png" style="width: 60%;">Re-enactment of Thomas Kitching writing in his diary while interned in Karikal Mahal (bottom). <i>Courtesy of Ochre Pictures.</i></div>
+<img src="/images/Online%20Only%20Articles/Karikal%20Mahal/Thomas_Kitching3.png" style="width: 80%;">Re-enactment of Thomas Kitching writing in his diary while interned in Karikal Mahal (bottom). <i>Courtesy of Ochre Pictures.</i></div>
 
 By drawing on materials from NAS and NewspaperSG, we were able to enhance the experiences Kitching wrote about in his diary. While locating specific archival images to match his exact descriptions proved challenging, we managed to find similar visuals that effectively depicted scenes reminiscent of key moments, such as the atmosphere around Fullerton Building on the morning the Japanese forces invaded Singapore, or the journey of captured European civilians marching to Karikal Mahal. These elements helped convey the atmosphere and context of that time.
-
-<div style="background-color: white;">
-<br>
-<img src="/images/Online%20Only%20Articles/Karikal%20Mahal/Katong_interneesv2.png" style="width: 60%;">Re-enactment of civilian internees marching to Katong and arriving at the gates of Karikal Mahal. <i>Courtesy of Ochre Pictures.</i></div>
 
 The vast amount of research we did for this series transformed the way we approach storytelling. Unearthing historical details allowed us to ground our narrative in authenticity while weaving in layers of depth and nuance. These discoveries helped us create scenes that felt true to their time yet resonated with universal emotions, making the characters’ journeys relatable and compelling. By blending the factual rigour of history with the emotional resonance of drama, we turned dry facts into human-centered stories that transported viewers to another time and place.
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Karikal%20Mahal/bowingv2.png" style="width: 50%;">Re-enactment of civilian internees bowing to Japanese officers and cleaning the floors as part of daily camp duties in Karikal Mahal. <i>Courtesy of Ochre Pictures.</i></div>
+<img src="/images/Online%20Only%20Articles/Karikal%20Mahal/Internees.png" style="width: 80%;">Re-enactment of civilian internees bowing to Japanese officers in Karikal Mahal. <i>Courtesy of Ochre Pictures.</i></div>
 
 For us, Karikal Mahal wasn’t just a setting; she was a living, breathing character. Her walls held the echoes of triumph, tragedy and mystery, and it was our responsibility to give her a voice – one that honoured Singapore’s layered history as our nation marks 60 years of independence this year. Storytelling like this invites audiences to connect with our past, offering them a window into the struggles and humanity of a different time. Karikal Mahal’s tale is just one of many waiting to be rediscovered and brought to life. The next time you go past an “old building”, stop and listen – what secrets and stories do their walls hold?
 
