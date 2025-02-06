@@ -215,6 +215,6 @@ This article was partially developed from my MA (History) thesis, <i>Sages, Smok
 
 [^41]:  Esmond Chuah Meng Soh, “[Article Sneak Peeks: May 2022](https://chinesereligions.org/node/214),” Society for the Study of Chinese Religions, last accessed 20 April 2024.
 
-[^42]:  Esmond Chuah Meng Soh, “Sectarians, Smokers, and Science: The Zhenkongjiao in Malaysia and Singapore,” _Asian Ethnology_ 81, no. 1/2 (2022): 35-42. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
+[^42]:  Esmond Chuah Meng Soh, “Sectarians, Smokers, and Science: The Zhenkongjiao in Malaysia and Singapore,” _Asian Ethnology_ 81, no. 1/2 (2022): 35–42. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
-[^43]:  黄嘉伟 Huang Jia Wei,[《空道流行》入微](https://catalogue.nlb.gov.sg/search/card?id=3e87492b-7d33-5e8d-9536-730065b2ae92&amp;entityType=FormatGroup) [“Kong dao liu xing” ru wei](https://catalogue.nlb.gov.sg/search/card?id=3e87492b-7d33-5e8d-9536-730065b2ae92&amp;entityType=FormatGroup) \[Delving into the Way of Emptiness\] (Xinjiapo 新加坡: Xinjiapo Zhenkongjiao Lian He Hui 新加坡真空教联合会, 2016) (From PublicationSG, call no. 299.51)
+[^43]:  黄嘉伟 Huang Jia Wei, "_Kong dao liu xing” ru wei_" <a href="https://catalogue.nlb.gov.sg/search/card?id=3e87492b-7d33-5e8d-9536-730065b2ae92&amp;entityType=FormatGroup">《空道流行》入微</a> \[Delving into the Way of Emptiness\] (新加坡: 新加坡真空教联合会, 2016) (From PublicationSG)
