@@ -76,7 +76,7 @@ information on International Standard Numbers.<br><br>
 
 <b>PUBLICATIONSG</b><br><br>
 Launched in October 2015, PublicationSG is a dedicated online catalogue of all physical materials found in the Legal Deposit Collection, a rich archive of nearly 1.1 million items that is now 
-available for public access. Serials and magazines comprise 70 percent of the collection, with 25 percent being books and the rest made up of audiovisual materials and maps as well as ephemera.<br>
+available for public access. Serials and magazines comprise 70 percent of the collection, with 25 percent being books and the rest made up of audiovisual materials and maps as well as ephemera.<br><br>
 Members of the public can place reservations to view legal deposit items at $1.55 each at the information counters of the Lee Kong Chian Reference Library on levels 7–13 of the National Library Building, or via an online form on the National Library Board website at <a href="https://eresources.nlb.gov.sg/publicationsg">https://eresources.nlb.gov.sg/publicationsg)</a>. The items can only be reviewed at designated work stations at the reference library.
 </span>
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
