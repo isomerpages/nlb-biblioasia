@@ -1206,4 +1206,16 @@ sections:
       image: /images/Vol 19 Issue 4/An Interview with Rachel Heng/book
         cover_homepage3.jpg
       alt: The Great Reclamation
+  - infopic:
+      title: "Rites of Rehabilitation: The Social Work of the Zhenkongjiao"
+      subtitle: Culture
+      id: infopic
+      description: With its sometime unconventional treatments, the Zhenkongjiao
+        worked together with local authorities to remove the scourge of opium
+        addiction in Singapore.
+      button: A healing touch
+      url: /culture/2025/1/zhenkongjiao-chinese-religion-opium-addiction-rites-rituals-temples
+      image: /images/Online Only Articles/Rites of
+        Rehabilitation/zhenkongjiao_Topics.jpg
+      alt: Image alt text
 ---
