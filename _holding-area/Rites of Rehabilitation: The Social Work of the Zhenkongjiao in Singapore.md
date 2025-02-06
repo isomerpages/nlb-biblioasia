@@ -199,9 +199,9 @@ This article was partially developed from my MA (History) thesis, <i>Sages, Smok
 
 [^33]:  Hue Guan Thye, “The Evolution of the Singapore United Temple: The Transformation of Chinese Temples in the Chinese Southern Diaspora," _Chinese Southern Diaspora Studies_ 5 (2012): 157–174, https://chl-archive.anu.edu.au/sites/default/files/publications/csds/csds2012/csds2012_07.pdf
 
-[^34]:  Shi and Ouyang, “Xinjiapo Zhenkongjiao fazhanshi chutan,” 98.
+[^34]:  Shi and Ouyang, “<a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=13187145">Xinjiapo Zhenkongjiao fazhanshi chutan</a>,” 98.
 
-[^35]:  Shi and Ouyang, “Xinjiapo Zhenkongjiao fazhanshi chutan,” 94.
+[^35]:  Shi and Ouyang, “<a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=13187145">Xinjiapo Zhenkongjiao fazhanshi chutan</a>,” 94.
 
 [^36]:  “Tianling Laoren Yuan jianjun [天灵老人院建竣](https://eresources.nlb.gov.sg/newspapers/digitised/article/lhwb19891124-1.2.6.19) \[Completion of Tianling Elderly Home\],” _Lianhe Wanbao_ 联合晚报, 24 November 24 1989, 6. (From NewspaperSG)
 
