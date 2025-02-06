@@ -62,11 +62,11 @@ The magazines also featured step-by-step guides to tricks, performed and written
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Karikal%20Mahal/The_Great_Wongv2.png" style="width: 60%;">Reenactment of The Great Wong’s Linking Rings act. <i>Courtesy of Ochre Pictures.</i></div>
+<img src="/images/Online%20Only%20Articles/Karikal%20Mahal/Great_wongs.png" style="width: 60%;">Reenactment of The Great Wong’s Linking Rings act. <i>Courtesy of Ochre Pictures.</i></div>
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Karikal%20Mahal/AJ_Bragav2.png" style="width: 60%;">A.J. Braga’s exhilarating coffin act where he is straightjacketed and escapes from a sealed coffin. <i>Courtesy of Ochre Pictures.</i></div>
+<img src="/images/Online%20Only%20Articles/Karikal%20Mahal/AJ_Bragav3.png" style="width: 60%;">A.J. Braga’s exhilarating coffin act where he is straightjacketed and escapes from a sealed coffin. <i>Courtesy of Ochre Pictures.</i></div>
 
 #### **House of Horror**
 
@@ -74,7 +74,7 @@ In the final episode, the once opulent and palatial Karikal Mahal is now an inte
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Karikal%20Mahal/Thomas_Kitchingv2.png" style="width: 60%;">Re-enactment of Thomas Kitching in Fullerton Building on the day Singapore was bombed (top) and writing in his diary while interned in Karikal Mahal (bottom). <i>Courtesy of Ochre Pictures.</i></div>
+<img src="/images/Online%20Only%20Articles/Karikal%20Mahal/Thomas_Kitching3.png" style="width: 60%;">Re-enactment of Thomas Kitching writing in his diary while interned in Karikal Mahal (bottom). <i>Courtesy of Ochre Pictures.</i></div>
 
 By drawing on materials from NAS and NewspaperSG, we were able to enhance the experiences Kitching wrote about in his diary. While locating specific archival images to match his exact descriptions proved challenging, we managed to find similar visuals that effectively depicted scenes reminiscent of key moments, such as the atmosphere around Fullerton Building on the morning the Japanese forces invaded Singapore, or the journey of captured European civilians marching to Karikal Mahal. These elements helped convey the atmosphere and context of that time.
 
