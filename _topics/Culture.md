@@ -4,6 +4,13 @@ permalink: /topics/culture/
 description: ""
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/culture/2025/1/zhenkongjiao-chinese-religion-opium-addiction-rites-rituals-temples">Rites of Rehabilitation: The Social Work of the Zhenkongjiao in Singapore</a>
+
+With its sometime unconventional treatments, the Zhenkongjiao worked together with local authorities to remove the scourge of opium addiction in Singapore.
+
+<img src="/images/Online%20Only%20Articles/Rites%20of%20Rehabilitation/zhenkongjiao_Topics.jpg" style="width:80%;">  
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-4/jan-mar-2025/chingay-tai-ge-procession-singapore-penang/">Chingay in the 19th and 20th Centuries: A Community Procession in Time</a>
 
 The Chingay Parade held annually in Singapore during the Lunar New Year has its roots in the&nbsp;_tai ge_&nbsp;from China.
