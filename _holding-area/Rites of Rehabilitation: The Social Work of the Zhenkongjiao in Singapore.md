@@ -143,7 +143,7 @@ This article was partially developed from my MA (History) thesis, <i>Sages, Smok
 
 [^5]:  Liao Jingcai 廖经才, comp., _"Dong nan ya zhen kong jiao dao tang tu kan"_ [东南亚真空教道堂图刊](https://catalogue.nlb.gov.sg/search/card?id=42baef41-f737-5f55-ab8d-07b2f376976a&amp;entityType=FormatGroup) \[Southeast Asian Illustrated Magazine of the Zhenkongjiao Temples\] (Xianggang 香港: Zhenkong Ji Nian Tang Chubanshe 真空纪念堂出版社, 1968) unpaginated. (From National Library Singapore, call no.: 299.514 LJC -\[HYT\])
 
-[^6]: Huang Ziwen 黄子文, comp. _Kongzhongjiao Fazhan Shilue_ [空中教发展史略](https://catalogue.nlb.gov.sg/search/card?id=916f520c-1b93-561d-a66c-aff7646810b8&amp;entityType=FormatGroup) \[Supplementary Histories of the Kongzhongjiao\] (怡宝: 霹雳空中教会, 1965), 38. (From National Library Singapore, call no. Chinese RCLOS 299.51 HTW)
+[^6]: Huang Ziwen 黄子文, comp. _"Kongzhongjiao Fazhan Shilue"_ [空中教发展史略](https://catalogue.nlb.gov.sg/search/card?id=916f520c-1b93-561d-a66c-aff7646810b8&amp;entityType=FormatGroup) \[Supplementary Histories of the Kongzhongjiao\] (怡宝: 霹雳空中教会, 1965), 38. (From National Library Singapore, call no. Chinese RCLOS 299.51 HTW)
 
 [^7]:  For an introduction to the lives and religious careers of these individuals, see Shi Cangjin 石沧金, _Hai wai Hua ren min jian zong jiao xin yang yan jiu_ [海外华人民间宗教信仰研究](https://catalogue.nlb.gov.sg/search/card?id=ce2cc75d-3cf5-5aa1-8d92-7d6a1888f946&amp;entityType=FormatGroup) \[Overseas Chinese folk religion research\] (Kuala Lumpur: Xuelin Shuju 学林书局, 2014), 44-48. (From National Library Singapore, call no.: 299.51 SCJ)
 
