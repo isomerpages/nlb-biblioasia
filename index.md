@@ -17,6 +17,18 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 20 Issue 4/Somerset/Somerset_Heroimage.png
   - infopic:
+      title: "Rites of Rehabilitation: The Social Work of the Zhenkongjiao"
+      subtitle: Culture
+      id: infopic
+      description: With its sometime unconventional treatments, the Zhenkongjiao
+        worked together with local authorities to remove the scourge of opium
+        addiction in Singapore.
+      button: A healing touch
+      url: /culture/2025/1/zhenkongjiao-chinese-religion-opium-addiction-rites-rituals-temples
+      image: /images/Online Only Articles/Rites of
+        Rehabilitation/zhenkongjiao_Topics.jpg
+      alt: Zhenkongjiao
+  - infopic:
       title: Early Malay Comics
       subtitle: BiblioAsia Reels
       id: infopic
