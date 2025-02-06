@@ -181,7 +181,7 @@ This article was partially developed from my MA (History) thesis, <i>Sages, Smok
 
 [^24]:  Soh, “Practicing Salvation,” 100-107.
 
-[^25]:  "[眞空敎本元道堂實行義務戒煙](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19600315-1.2.24.10) \[The Zhenkongjiao Ben Yuan Dao Tang Implements Free Smoking Cessation\]," _Nanyang Siang Pau_ 南洋商报, 15 March 1960, 8. (From NewspaperSG)
+[^25]:  "Zheankong jiao ben yuan dao tang shixíng yiwu jieyan” [眞空敎本元道堂實行義務戒煙](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19600315-1.2.24.10) \[The Zhenkongjiao Ben Yuan Dao Tang Implements Free Smoking Cessation\],  _Nanyang Siang Pau_ 南洋商报, 15 March 1960, 8. (From NewspaperSG)
 
 [^26]:  谭文熙 Tham Wen Xi, 新加坡宗教个案研究: 新加坡真空教在近年的发展 \[A Case Study of Singapore Religion: The Development of Chin Kong Religion in Singapore\] (Hons. Thesis, Department of Chinese Studies, National University of Singapore, 2011), 48–49.
 
