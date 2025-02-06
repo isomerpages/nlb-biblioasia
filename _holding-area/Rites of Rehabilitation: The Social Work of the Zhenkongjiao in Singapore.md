@@ -203,7 +203,7 @@ This article was partially developed from my MA (History) thesis, <i>Sages, Smok
 
 [^35]:  Shi and Ouyang, “<a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=13187145">Xinjiapo Zhenkongjiao fazhanshi chutan</a>,” 94.
 
-[^36]:  “Tianling Laoren Yuan jianjun [天灵老人院建竣](https://eresources.nlb.gov.sg/newspapers/digitised/article/lhwb19891124-1.2.6.19) \[Completion of Tianling Elderly Home\],” _Lianhe Wanbao_ 联合晚报, 24 November 24 1989, 6. (From NewspaperSG)
+[^36]:  “Tianling Laoren Yuan jianjun" [天灵老人院建竣](https://eresources.nlb.gov.sg/newspapers/digitised/article/lhwb19891124-1.2.6.19) \[Completion of tianling elderly home\],” _Lianhe Wanbao_ 联合晚报, 24 November 24 1989, 6. (From NewspaperSG)
 
 [^37]:  “Zhenkongjiao lingguang daotang jiaozhu shengdan Huang Shuren zan gai tang fuwu jingshen peihe shehui xuyao zuochu gongxian[真空教灵光道堂教主圣诞 黄树⼈赞该 堂服务精神 配合社会需求作出贡献](https://eresources.nlb.gov.sg/newspapers/digitised/article/lhwb19830528-1.2.23.1) \[The celebration of the birthday of the spiritual leader of the Lingguang Temple of the Zhenkongjiao, praised by Huang Shuren for the spirit of service of the temple, contributing to the needs of society\],” _Lianhe Wanbao_ 联合晚报, 28 May 1983, 9. (From NewspaperSG)
 
