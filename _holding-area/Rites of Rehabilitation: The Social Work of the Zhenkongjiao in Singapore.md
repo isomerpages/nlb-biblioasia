@@ -207,7 +207,7 @@ This article was partially developed from my MA (History) thesis, <i>Sages, Smok
 
 [^37]:  “Zhenkongjiao lingguang daotang jiaozhu shengdan Huang Shuren zan gai tang fuwu jingshen peihe shehui xuyao zuochu gongxian" [真空教灵光道堂教主圣诞 黄树⼈赞该 堂服务精神 配合社会需求作出贡献](https://eresources.nlb.gov.sg/newspapers/digitised/article/lhwb19830528-1.2.23.1)  \[The celebration of the birthday of the spiritual leader of the lingguang Temple of the zhenkongjiao, praised by Huang Shuren for the spirit of service of the temple, contributing to the needs of society\],” _Lianhe Wanbao_ 联合晚报, 28 May 1983, 9. (From NewspaperSG)
 
-[^38]:  “Baichi zhi jia Tangshen you dao tang shouyang ershi ren [白痴之家汤申有道堂收养二十人](https://eresources.nlb.gov.sg/newspapers/digitised/article/lhwb19900212-1.2.10.8) \[Thompson Road Temple is Home to 20 Intellectually disabled people\],” _Lianhe Wanbao_ 联合晚报, 12 February 1990, 4. (From NewspaperSG)
+[^38]:  “Baichi zhi jia Tangshen you dao tang shouyang ershi ren" [白痴之家汤申有道堂收养二十人](https://eresources.nlb.gov.sg/newspapers/digitised/article/lhwb19900212-1.2.10.8) \[Thompson Road Temple is Home to 20 Intellectually disabled people\],” _Lianhe Wanbao_ 联合晚报, 12 February 1990, 4. (From NewspaperSG)
 
 [^39]:  Gillian Pow Chong, “[Singapore’s History Book of Disasters](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19840117-1.2.20.24),” _Straits Times_, 17 January 1984, 15. (From NewspaperSG)
 
