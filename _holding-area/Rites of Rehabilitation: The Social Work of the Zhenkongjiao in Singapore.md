@@ -149,7 +149,7 @@ This article was partially developed from my MA (History) thesis, <i>Sages, Smok
 
 [^8]:  _Xinjiapo zhen kong jiao lian he hui ji ben yuan shan dao tang xin sha luo cheng kai mu ji nian ce_ [新加坡真空教联合会暨本元山道堂新厦落成开幕纪念册](https://catalogue.nlb.gov.sg/search/card?id=012ddc88-abc5-52f9-8968-d042db12686a&amp;entityType=FormatGroup) (新加坡: 新加坡真空教联合会, 1992), 126. (From PublicationSG)
 
-[^9]:  Shi Cangjin 石沧金 and Ouyang Banyi 欧阳班铱, “Xinjiapo Zhenkongjiao fazhanshi chutan" 新加坡真空教发展史初探 \[A Preliminary Study of the History of Zhenkong Religion in Singapore\],” _Huaren yanjiu guoji xuebao_ 华人研究国际学报 \[International Journal of Diasporic Chinese Studies\] 4, no. 2 (December 2012): 92. (From National Library Singapore, call no.: Chinese R 909.04951 IJDCS)
+[^9]:  Shi Cangjin 石沧金 and Ouyang Banyi 欧阳班铱, “Xinjiapo Zhenkongjiao fazhanshi chutan" 新加坡真空教发展史初探 \[A Preliminary Study of the History of Zhenkong Religion in Singapore\], _Huaren yanjiu guoji xuebao_ 华人研究国际学报 \[International Journal of Diasporic Chinese Studies\] 4, no. 2 (December 2012): 92. (From National Library Singapore, call no.: Chinese R 909.04951 IJDCS)
 
 [^10]:  One of the classical studies include Lionel Robbins, <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=252516">_The Great Depression_</a> (Freeport, N.Y.: Books for Libraries Press, 1971) (From National Library, Singapore, call no. 330.904 ROB).
 
