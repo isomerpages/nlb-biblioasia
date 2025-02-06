@@ -15,8 +15,13 @@ boxing superstar?</p>
 </div>
 <p></p>
 <h4><strong>Season 3</strong></h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/life-and-legacy-zubir-said-julian-wong/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">More Than Mr Mari Kita: The Life and Legacy of Zubir Said</div><div class="isomer-card-description">Zubir Said is best known for composing the national anthem, “Majulah Singapura”. But the prolific composer has done more than that, as music director Julian Wong, who wrote and performed in "Don’t Call Him Mr. Mari Kita", tells us.</div><div class="isomer-card-link">Coming soon</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/life-and-legacy-zubir-said-julian-wong/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Zubir Said" src="/images/Podcast/BiblioAsia_600_by_400_Julian.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">More Than Mr Mari Kita: The Life and Legacy of Zubir Said</div><div class="isomer-card-description">Zubir Said is best known for composing the national anthem, “Majulah Singapura”. But the prolific composer has done more than that, as music director Julian Wong, who wrote and performed in "Don’t Call Him Mr. Mari Kita", tells us.</div><div class="isomer-card-link">Coming soon</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/somerset-maugham-scandalises-1920s-singapore-tracey-morton" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Somerset" src="/images/Podcast/tracey_600_400.jpg">
+</div>
+</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Somerset Maugham Scandalises 1920s Singapore</div>
 <div class="isomer-card-description">Sharing the literary landscape with D.H. Lawrence and Virginia Woolf,
@@ -25,8 +30,13 @@ most celebrated short stories. Writer Tracey Morton tells us how Singapore
 inspired his works and why they remain relevant.</div>
 <div class="isomer-card-link">Listen to the episode</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="/podcast/what-makes-an-animal-singaporean-timothy-barnard/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">What Makes An Animal Singaporean?</div><div class="isomer-card-description">Singaporeans love animals but only selectively, like otters, Ah Meng the orangutan, and Inuka the polar bear. Environmental historian Timothy Barnard tells us how some of these migrant animals came to be here, how they’ve been treated, and what makes them Singaporean.</div><div class="isomer-card-link">Listen to the episode</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="/podcast/what-makes-an-animal-singaporean-timothy-barnard/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Animal Singaporean" src="/images/Podcast/Tim_600_400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">What Makes An Animal Singaporean?</div><div class="isomer-card-description">Singaporeans love animals but only selectively, like otters, Ah Meng the orangutan, and Inuka the polar bear. Environmental historian Timothy Barnard tells us how some of these migrant animals came to be here, how they’ve been treated, and what makes them Singaporean.</div><div class="isomer-card-link">Listen to the episode</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/asian-port-cities-with-ex-acm-director-kennie-ting/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Asian Port Cities" src="/images/Podcast/Kennie_600_400.jpg">
+</div>
+</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">A Tour of 60 Asian Port Cities with Ex–ACM Director Kennie Ting</div>
 <div class="isomer-card-description">To write a book about 60 Asian port cities, ex–ACM director Kennie Ting
@@ -35,8 +45,13 @@ can tell a different history of Asia, and what his "eat, pray, love" cities
 and his favourite ACM artefacts are.</div>
 <div class="isomer-card-link">Listen to the episode</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/s-rajaratnam-singapores-first-foreign-minister/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">He Wrote the National Pledge: S. Rajaratnam, Singapore’s First Foreign Minister</div><div class="isomer-card-description">S. Rajaratnam's contribution to Singapore is so great that to cover his life adequately required 20 years of research. Irene Ng, his authorised biographer, tells us little-known facets of the man, his legacy as Singapore’s first foreign and culture minister, and his relationship with Lee Kuan Yew.</div><div class="isomer-card-link">Listen to the episode</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/s-rajaratnam-singapores-first-foreign-minister/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Rajaratnam" src="/images/Podcast/Irene_600_400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">He Wrote the National Pledge: S. Rajaratnam, Singapore’s First Foreign Minister</div><div class="isomer-card-description">S. Rajaratnam's contribution to Singapore is so great that to cover his life adequately required 20 years of research. Irene Ng, his authorised biographer, tells us little-known facets of the man, his legacy as Singapore’s first foreign and culture minister, and his relationship with Lee Kuan Yew.</div><div class="isomer-card-link">Listen to the episode</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/stella-kon-beyond-emily-of-emerald-hill/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Stella Kon" src="/images/Podcast/Stella_600_400.jpg">
+</div>
+</div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Stella Kon: Beyond Emily of Emerald Hill</div>
 <div class="isomer-card-description">Stella Kon is known for creating the beloved Emily of Emerald Hill – possibly

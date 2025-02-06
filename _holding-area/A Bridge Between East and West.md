@@ -1,6 +1,6 @@
 ---
 title: A Bridge Between East and West
-permalink: /holding-area/a-bridge-between-east-and-west/
+permalink: /holding-area/vol-21/issue-1/apr-jun-2025/a-bridge-between-east-and-west/
 variant: markdown
 description: ""
 ---
@@ -130,7 +130,7 @@ The study of modern Asian art is complex. Artists like Liu grappled with the for
 	
 #### **NOTES**
 
-[^1]: “[Bali – By 4 Chinese Artists,](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19531110-1.2.50)” _Straits Times_, 10 November 1953, 2. (From NewspaperSG
+[^1]: “[Bali – By 4 Chinese Artists,](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19531110-1.2.50)” _Straits Times_, 10 November 1953, 2. (From NewspaperSG)
 
 
 [^2]: In Liu Kang’s oral history interview, he mentioned this incident twice, using slightly different phrases. In one account, Xu was supposed to have said, “This painting is truly the teacher of Matisse” (“这张画才是马諦斯的老师”). See Liu Kang, oral history interview by Tan Beng Luan, 7 December 1982, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e1824f55-115d-11e3-83d5-0050568939ad-OHC000171_021Eng/web/html5/index.html) and MP3 audio, Reel/Disc 21 of 74, National Archives of Singapore ([accession no. 000171](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000171)), 186–194; 刘抗 Liu Kang, “四十五年来新加坡的西洋画,” (Development of Western painting in Singapore in the past 45 years) in [_Liu Kang: Essays on Art &amp; Culture_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13735205), ed. Sara Siew (Singapore: National Art Gallery, 2011), 232–33. (From National Library, Singapore, call no. RSING 709.50904 LIU); 刘抗 Liu Kang,[刘抗文集](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84492559) \[Essays by Liu Kang\] (新加坡: 教育出版社, 1981), 304. (From National Library Singapore, call no. RCLOS 709.2 LK)
@@ -181,7 +181,7 @@ The study of modern Asian art is complex. Artists like Liu grappled with the for
 	
 [^24]: Ong Zhen Min, “A History of the Nanyang Academy of Fine Arts (1938–1990)” (Master’s thesis, National University of Singapore, 2006), 26–30, [http://scholarbank.nus.edu.sg/handle/10635/15776](http://scholarbank.nus.edu.sg/handle/10635/15776).
 	
-[^25]: Liu Kang once said, “China has remained my artistic vision… I am always conscious of the vastness of the country, the sense of scale, the depth of vision, the inner strength and greatness which characterise Chinese culture and art.” Quoting from Gretchen Mahbubani, “[Journey of a Pioneer Artist](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19811201-1.2.138.2),” _Straits Times_, 1 December 1981, 1. (From NewspaperSG), in Liu, [_Liu Kang at 87](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8726393), x._
+[^25]: Liu Kang once said, “China has remained my artistic vision… I am always conscious of the vastness of the country, the sense of scale, the depth of vision, the inner strength and greatness which characterise Chinese culture and art.” Quoting from Gretchen Mahbubani, “[Journey of a Pioneer Artist](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19811201-1.2.138.2),” _Straits Times_, 1 December 1981, 1. (From NewspaperSG), in Liu, [_Liu Kang at 87_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8726393)_, x._
 	
 [^26]: Quoting from “Postscript,” in Liu Kang, [_The Paintings of Liu Kang_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5563367) (Singapore: National Museum, Singapore, 1981), x. (From National Library Singapore, call no. RCLOS 759.95957 LIU); Chia, “[Introduction](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8726393),” 17. &nbsp;
 	

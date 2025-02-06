@@ -133,33 +133,33 @@ This article was partially developed from my MA (History) thesis, <i>Sages, Smok
 
 #### **Notes**
 
-[^1]:  Xu Yunqiao&nbsp;许云樵, “Kongdaojiao gailun: yi ge xinxing de zongjiao”&nbsp;空道教概论：一个新兴的宗教&nbsp;[The religion of the void: A new religion],&nbsp;[_Nanyang Xuebao_&nbsp;南洋学报](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84444489)&nbsp;[_Journal of the South Seas Society_] 10, no. 4 (1954): 25–32. (From National Library Singapore, call no. RCLOS 959.005 JSSS)
+[^1]:  Xu Yunqiao&nbsp;许云樵, “Kongdaojiao gailun: yi ge xinxing de zongjiao”&nbsp;空道教概论：一个新兴的宗教&nbsp;[The religion of the void: A new religion],&nbsp;[_Nanyang Xuebao_&nbsp;南洋学报](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84444489)&nbsp;[Journal of the South Seas Society] 10, no. 4 (1954): 25–32. (From National Library Singapore, call no. Chinese RCLOS 959.005 JSSS)
 
-[^2]:  Luo Xianglin 罗香林, <i>Liuxing yu ganminyue ji malaixiya zhi Zhenkongjiao</i>  流行于赣闽粤及马来西亚之真空教 [The Origins and Spread of the Zhenkongjiao from Ganzhou to Southeast China and Malaya] (Xianggang 香港: Zhongguo Xueshe 中国学社, 1962), 39–64.
+[^2]:  Luo Xianglin 罗香林, "_Liuxing yu ganminyue ji malaixiya zhi Zhenkongjiao_" 流行于赣闽粤及马来西亚之真空教 [The Origins and Spread of the Zhenkongjiao from Ganzhou to Southeast China and Malaya] (Xianggang 香港: Zhongguo Xueshe 中国学社, 1962), 39–64.
 
 [^3]:  Esmond Chuah Meng Soh, “Practicing Salvation: Meat-Eating, Martyrdom, and Sacrifice as Religious Ideals in the Zhenkongjiao,” _Journal of Chinese Religions_ 50, no. 1 (2022): 77–114, https://www.academia.edu/80038178/Practicing_Salvation_Meat_Eating_Martyrdom_and_Sacrifice_as_Religious_Ideals_in_the_Zhenkongjiao.
 
-[^4]:  For general studies of the phenomenon, see Yan Qinghuang, _[A Social History of the Chinese in Singapore and Malaya: 1800-1911](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4182822)_ (Singapore: Oxford University Press, 1986). (From National Library Singapore, call no. RSING301.45195105957); and Wang Gungwu, _[China and the Chinese Overseas](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12093981)_ (Singapore: Eastern Universities Press, 1991–2003). (From National Library Singapore, call no. RSING909.04951).
+[^4]:  For general studies of the phenomenon, see Yan Qinghuang, _[A Social History of the Chinese in Singapore and Malaya: 1800-1911](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4182822)_ (Singapore: Oxford University Press, 1986). (From National Library Singapore, call no. RSING301.45195105957); and Wang Gungwu, _[China and the Chinese Overseas](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12093981)_ (Singapore: Eastern Universities Press, 1991–2003). (From National Library Singapore, call no. RSING909.04951)
 
-[^5]:  Liao Jingcai 廖经才, comp., _Dong nan Ya zhen kong jiao dao tang tu kan_ [东南亚真空教道堂图刊](https://catalogue.nlb.gov.sg/search/card?id=42baef41-f737-5f55-ab8d-07b2f376976a&amp;entityType=FormatGroup) \[Southeast Asian Illustrated Magazine of the Zhenkongjiao Temples\] (Xianggang 香港 : Zhenkong Ji Nian Tang Chubanshe 真空纪念堂出版社, 1968), unpaginated. (From National Library, Singapore, call no.: 299.514 LJC -\[HYT\]).
+[^5]:  Liao Jingcai 廖经才, comp., _"Dong nan ya zhen kong jiao dao tang tu kan"_ [东南亚真空教道堂图刊](https://catalogue.nlb.gov.sg/search/card?id=42baef41-f737-5f55-ab8d-07b2f376976a&amp;entityType=FormatGroup) \[Southeast Asian Illustrated Magazine of the Zhenkongjiao Temples\] (Xianggang 香港: Zhenkong Ji Nian Tang Chubanshe 真空纪念堂出版社, 1968) unpaginated. (From National Library Singapore, call no.: 299.514 LJC -\[HYT\])
 
-[^6]: Huang Ziwen 黄子文, comp. _Kongzhongjiao Fazhan Shilue_ [空中教发展史略](https://catalogue.nlb.gov.sg/search/card?id=916f520c-1b93-561d-a66c-aff7646810b8&amp;entityType=FormatGroup) \[Supplementary Histories of the Kongzhongjiao\] (Yibao 怡宝: Pili Kongzhong Jiao Hui 霹雳空中教会, 1965), 38. (From National Library, Singapore, call no. 299.51 HTW)
+[^6]: Huang Ziwen 黄子文, comp. _"Kongzhongjiao Fazhan Shilue"_ [空中教发展史略](https://catalogue.nlb.gov.sg/search/card?id=916f520c-1b93-561d-a66c-aff7646810b8&amp;entityType=FormatGroup) \[Supplementary Histories of the Kongzhongjiao\] (怡宝: 霹雳空中教会, 1965), 38. (From National Library Singapore, call no. Chinese RCLOS 299.51 HTW)
 
-[^7]:  For an introduction to the lives and religious careers of these individuals, see Shi Cangjin 石沧金, _Hai wai Hua ren min jian zong jiao xin yang yan jiu_ [海外华人民间宗教信仰研究](https://catalogue.nlb.gov.sg/search/card?id=ce2cc75d-3cf5-5aa1-8d92-7d6a1888f946&amp;entityType=FormatGroup) \[Overseas Chinese folk religion research\] (Kuala Lumpur: Xuelin Shuju 学林书局, 2014), 44-48. (From National Library, Singapore, call no.: 299.51 SCJ).
+[^7]:  For an introduction to the lives and religious careers of these individuals, see Shi Cangjin 石沧金, _"Hai wai Hua ren min jian zong jiao xin yang yan jiu"_ [海外华人民间宗教信仰研究](https://catalogue.nlb.gov.sg/search/card?id=ce2cc75d-3cf5-5aa1-8d92-7d6a1888f946&amp;entityType=FormatGroup) \[Overseas Chinese folk religion research\] (Kuala Lumpur: Xuelin Shuju 学林书局, 2014), 44-48. (From National Library Singapore, call no.: 299.51 SCJ)
 
-[^8]:  _Xinjiapo zhen kong jiao lian he hui ji ben yuan shan dao tang xin sha luo cheng kai mu ji nian ce_ [新加坡真空教联合会暨本元山道堂新厦落成开幕纪念册](https://catalogue.nlb.gov.sg/search/card?id=012ddc88-abc5-52f9-8968-d042db12686a&amp;entityType=FormatGroup) (Xinjiapo 新加坡: Xinjiapo Zhenkongjiao Lian He Hui 新加坡真空教联合会, 1992), 126. (From PublicationSG, call no. 299.51)
+[^8]:  _"Xinjiapo zhen kong jiao lian he hui ji ben yuan shan dao tang xin sha luo cheng kai mu ji nian ce"_ [新加坡真空教联合会暨本元山道堂新厦落成开幕纪念册](https://catalogue.nlb.gov.sg/search/card?id=012ddc88-abc5-52f9-8968-d042db12686a&amp;entityType=FormatGroup) (新加坡: 新加坡真空教联合会, 1992), 126. (From PublicationSG)
 
-[^9]:  Shi Cangjin 石沧金 and Ouyang Banyi 欧阳班铱, “Xinjiapo Zhenkongjiao fazhanshi chutan 新加坡真空教发展史初探 \[A Preliminary Study of the History of Zhenkong Religion in Singapore\],” _Huaren yanjiu guoji xuebao_ 华人研究国际学报 \[International Journal of Diasporic Chinese Studies\] 4, no. 2 (2012): 92.
+[^9]:  Shi Cangjin 石沧金 and Ouyang Banyi 欧阳班铱, “Xinjiapo Zhenkongjiao fazhanshi chutan" 新加坡真空教发展史初探 \[A Preliminary Study of the History of Zhenkong Religion in Singapore\], _Huaren yanjiu guoji xuebao_ 华人研究国际学报 \[International Journal of Diasporic Chinese Studies\] 4, no. 2 (December 2012): 92. (From National Library Singapore, call no.: Chinese R 909.04951 IJDCS)
 
-[^10]:  One of the classical studies include Lionel Robbins, _The Great Depression_ (Freeport, N.Y.: Books for Libraries Press, 1971) (From National Library, Singapore, call no. 330.904 ROB).
+[^10]:  One of the classical studies include Lionel Robbins, <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=252516">_The Great Depression_</a> (Freeport, N.Y.: Books for Libraries Press, 1971) (From National Library Singapore, call no. 330.904 ROB)
 
 [^11]:  Loh Kah Seng, “Beyond Rubber Prices: Negotiating the Great Depression in Singapore,” _South East Asia Research_ 14, no. 1 (2006): 5–31 (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website); and W. G. Huff, “Entitlements, Destitution, and Emigration in the 1930s Singapore Great Depression,” _The Economic History Review_ 54, no. 2 (2001): 290–323. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
-[^12]:  Shi and Ouyang, “Xinjiapo Zhenkongjiao fazhanshi chutan,” 92-93.
+[^12]:  Shi and Ouyang, “<a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=13187145">Xinjiapo Zhenkongjiao fazhanshi chutan</a>,” 92–93.
 
 [^13]:  “[Suppressing Opium Smoking](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19460204-1.2.28),” _Straits Times_, 4 February 1946, 3. (From NewspaperSG)
 
-[^14]:  Huang, _Kongzhongjiao Fazhan Shilue_, 34.
+[^14]:  Huang, _<a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=84467404">Kongzhongjiao Fazhan Shilue</a>_, 34.
 
 [^15]:  “[Doctors Debunk Prayer Cures](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19520814-1.2.45),” _Singapore Standard_, August 14, 1952, 2; Lim Siew Kok, [“‘Debunkers’ Challenged](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19520825-1.2.53.4),” _Singapore Standard_, August 25, 1952, 4. (From NewspaperSG)
 
@@ -179,42 +179,42 @@ This article was partially developed from my MA (History) thesis, <i>Sages, Smok
 
 [^23]:  “[Some Odd Corners &amp; Customs of Malaya](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaytribune19330806-1.2.36).”
 
-[^24]:  Soh, “Practicing Salvation,” 100-107.
+[^24]:  Soh, “Practicing Salvation,” 100–107.
 
-[^25]:  "[眞空敎本元道堂實行義務戒煙](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19600315-1.2.24.10) \[The Zhenkongjiao Ben Yuan Dao Tang Implements Free Smoking Cessation\]," _Nanyang Siang Pau_ 南洋商报, 15 March 1960, 8. (From NewspaperSG)
+[^25]:  "Zheankong jiao ben yuan dao tang shixíng yiwu jieyan” [眞空敎本元道堂實行義務戒煙](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19600315-1.2.24.10) \[The Zhenkongjiao Ben Yuan Dao Tang Implements Free Smoking Cessation\],  _Nanyang Siang Pau_ 南洋商报, 15 March 1960, 8. (From NewspaperSG)
 
-[^26]:  谭文熙 Tham Wen Xi, 新加坡宗教个案研究: 新加坡真空教在近年的发展 \[A Case Study of Singapore Religion: The Development of Chin Kong Religion in Singapore\] (Hons. Thesis, Department of Chinese Studies, National University of Singapore, 2011), 48–49.
+[^26]:  谭文熙 Tham Wen Xi, 新加坡宗教个案研究: 新加坡真空教在近年的发展 \[A case study of Singapore religion: The Development of Chin Kong religion in Singapore\] (Hons. Thesis, Department of Chinese Studies, National University of Singapore, 2011), 48–49.
 
 [^27]:  Soh, “Practicing Salvation,” 105–107.
 
-[^28]:  Huang, _Kongzhongjiao Fazhan Shilue,_ 72-75.
+[^28]:  Huang, _<a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=84467404">Kongzhongjiao Fazhan Shilue</a>_, 72–75.
 
 [^29]:  Seow Peck Ngiam, “[Anti-yellow Culture Campaign](https://www.nlb.gov.sg/main/article-detail?cmsuuid=8e493ee4-1832-4fec-96ee-a0a6b3efab87),” Singapore Infopedia.
 
-[^30]:  [Xingzhou zhen kong jiao lian he hui cheng li nian er zhou nian ji nian te kan](https://catalogue.nlb.gov.sg/search/card?id=71a2aa09-1781-5bb6-8b85-8d8d90060b01&amp;entityType=FormatGroup) 星洲真空教联合会成立廿二周年纪念特刊 \[Commemorative Volume Marking the 20th Anniversary of the Federation of the Zhenkongjiao in Singapore\]. Singapore: Federation of the Zhenkongjiao in Singapore (Xin jia po: 星洲真空教联合会 Xingzhou Zhenkongjiao lian he hui, 1976), 1-8. (From National Library, Singapore, call no.: 294.39 SEN)
+[^30]:  "Xingzhou zhen kong jiao lian he hui cheng li nian er zhou nian ji nian te kan" <a href="https://catalogue.nlb.gov.sg/search/card?id=71a2aa09-1781-5bb6-8b85-8d8d90060b01&amp;entityType=FormatGroup"> 星洲真空教联合会成立廿二周年纪念特刊</a> \[Commemorative Volume Marking the 20th Anniversary of the Federation of the Zhenkongjiao in Singapore\]. (新加坡 : 星洲真空教联合会, 1976), 1–8. (From National Library Singapore, call no. Chinese R 294.39 SEN)
 
-[^31]:  “Kongjiao lianhehui qingzhu Zhenkong zushi danchen choujian huishi zuowei jiedu zhongxin [眞空敎聯合會慶祝眞空祖師誕辰籌建會所作爲戒毒中心](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19760511-1.2.34.4) \[The Zhenkongjiao Association celebrates the birthday of Zhenkong Patriarch by raising funds to establish a center for drug rehabilitation\],” <i>Nanyang Siang Pau</i> 南洋商报, 11 May 1976, 17. (From NewspaperSG); “Kongjiao lianhe hui zutuan jin qicheng fangwen gedi yanjiu you xiao jiedu fa [眞空敎聯合會組團今启程访问各地研究有効戒毒法](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19770107-1.2.24.4) \[The Zhenkongjiao Association organizes a group to embark on visits to various places to research effective methods of drug rehabilitation\],” <i>Nanyang Siang Pau</i> 南洋商报, 7 January 1977, 8. (From NewspaperSG)
+[^31]:  “Kongjiao lianhehui qingzhu Zhenkong zushi danchen choujian huishi zuowei jiedu zhongxin" [眞空敎聯合會慶祝眞空祖師誕辰籌建會所作爲戒毒中心](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19760511-1.2.34.4) \[The Zhenkongjiao Association celebrates the birthday of Zhenkong Patriarch by raising funds to establish a center for drug rehabilitation\], <i>Nanyang Siang Pau</i> 南洋商报, 11 May 1976, 17. (From NewspaperSG); “Kongjiao lianhe hui zutuan jin qicheng fangwen gedi yanjiu you xiao jiedu fa" [眞空敎聯合會組團今启程访问各地研究有効戒毒法](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19770107-1.2.24.4) \[The Zhenkongjiao Association organizes a group to embark on visits to various places to research effective methods of drug rehabilitation\],” <i>Nanyang Siang Pau</i> 南洋商报, 7 January 1977, 8. (From NewspaperSG)
 
-[^32]:  Ng Ser Song, “Toward a Drug-Free Society: The Singapore Approach,” _Brown Journal of World Affairs_ 26 (2019-20): 245–252.
+[^32]:  Ng Ser Song, “Toward a Drug-Free Society: The Singapore Approach,” _Brown Journal of World Affairs_ 26 (2019-20): 245–52. (From JSTOR via NLB's [eResources](https://eresources.nlb.gov.sg/main/) website)
 
-[^33]:  Hue Guan Thye, “[The Evolution of the Singapore United Temple: The Transformation of Chinese Temples in the Chinese Southern Diaspora](https://chl-archive.anu.edu.au/sites/default/files/publications/csds/csds2012/csds2012_07.pdf),” _Chinese Southern Diaspora Studies_ 5 (2012): 157–174.
+[^33]:  Hue Guan Thye, “The Evolution of the Singapore United Temple: The Transformation of Chinese Temples in the Chinese Southern Diaspora," _Chinese Southern Diaspora Studies_ 5 (2012): 157–174, https://chl-archive.anu.edu.au/sites/default/files/publications/csds/csds2012/csds2012_07.pdf
 
-[^34]:  Shi and Ouyang, “Xinjiapo Zhenkongjiao fazhanshi chutan,” 98.
+[^34]:  Shi and Ouyang, “<a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=13187145">Xinjiapo Zhenkongjiao fazhanshi chutan</a>,” 98.
 
-[^35]:  Shi and Ouyang, “Xinjiapo Zhenkongjiao fazhanshi chutan,” 94.
+[^35]:  Shi and Ouyang, “<a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=13187145">Xinjiapo Zhenkongjiao fazhanshi chutan</a>,” 94.
 
-[^36]:  “Tianling Laoren Yuan jianjun [天灵老人院建竣](https://eresources.nlb.gov.sg/newspapers/digitised/article/lhwb19891124-1.2.6.19) \[Completion of Tianling Elderly Home\],” _Lianhe Wanbao_ 联合晚报, 24 November 24 1989, 6. (From NewspaperSG)
+[^36]:  “Tianling Laoren Yuan jianjun" [天灵老人院建竣](https://eresources.nlb.gov.sg/newspapers/digitised/article/lhwb19891124-1.2.6.19) \[Completion of tianling elderly home\],” _Lianhe Wanbao_ 联合晚报, 24 November 24 1989, 6. (From NewspaperSG)
 
-[^37]:  “Zhenkongjiao lingguang daotang jiaozhu shengdan Huang Shuren zan gai tang fuwu jingshen peihe shehui xuyao zuochu gongxian[真空教灵光道堂教主圣诞 黄树⼈赞该 堂服务精神 配合社会需求作出贡献](https://eresources.nlb.gov.sg/newspapers/digitised/article/lhwb19830528-1.2.23.1) \[The celebration of the birthday of the spiritual leader of the Lingguang Temple of the Zhenkongjiao, praised by Huang Shuren for the spirit of service of the temple, contributing to the needs of society\],” _Lianhe Wanbao_ 联合晚报, 28 May 1983, 9. (From NewspaperSG)
+[^37]:  “Zhenkongjiao lingguang daotang jiaozhu shengdan Huang Shuren zan gai tang fuwu jingshen peihe shehui xuyao zuochu gongxian" [真空教灵光道堂教主圣诞 黄树⼈赞该 堂服务精神 配合社会需求作出贡献](https://eresources.nlb.gov.sg/newspapers/digitised/article/lhwb19830528-1.2.23.1)  \[The celebration of the birthday of the spiritual leader of the lingguang Temple of the zhenkongjiao, praised by Huang Shuren for the spirit of service of the temple, contributing to the needs of society\], _Lianhe Wanbao_ 联合晚报, 28 May 1983, 9. (From NewspaperSG)
 
-[^38]:  “Baichi zhi jia Tangshen you dao tang shouyang ershi ren [白痴之家汤申有道堂收养二十人](https://eresources.nlb.gov.sg/newspapers/digitised/article/lhwb19900212-1.2.10.8) \[Thompson Road Temple is Home to 20 Intellectually disabled people\],” _Lianhe Wanbao_ 联合晚报, 12 February 1990, 4. (From NewspaperSG)
+[^38]:  “Baichi zhi jia Tangshen you dao tang shouyang ershi ren" [白痴之家汤申有道堂收养二十人](https://eresources.nlb.gov.sg/newspapers/digitised/article/lhwb19900212-1.2.10.8) \[Thompson Road Temple is Home to 20 Intellectually disabled people\], _Lianhe Wanbao_ 联合晚报, 12 February 1990, 4. (From NewspaperSG)
 
 [^39]:  Gillian Pow Chong, “[Singapore’s History Book of Disasters](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19840117-1.2.20.24),” _Straits Times_, 17 January 1984, 15. (From NewspaperSG)
 
-[^40]:  “Xingma zhen ma Zhenkongjiao lian he ding qi wei you chuan li nan zhe ju xing chao jian fa hui [星马眞空敎联合订期 为油船罹难者 举 ⾏超荐法会](https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19781105-1.2.66.2) \[The Singapore-Malaysia Zhenkongjiao Alliance schedules a memorial service for the victims of the oil tanker accident\],” _Sin Chew Jit Poh_ 星洲⽇報, 5 November 1978, 30. (From NewspaperSG); “Xingma Zhenkongjiao ge dao tang wei can huo li nan zhe zhu ban chao jian fa hui [星马眞空敎各道堂 为惨祸罹难者 主办 超荐法会](https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19781125-1.2.38.2) \[Various Zhenkongjiao temples in Singapore and Malaysia host memorial services for the victims of the tragic accident\],” _Sin Chew Jit Poh_ 星洲⽇報, 25 November 1978, 10 (From NewspaperSG); “Zhenkongjiao Tian Ling Zong Dao Tang lian he Xinma liangdi daotang wei chuan nan si zhe juxing chao jian fahui ji gong ji [真空教天灵总道堂联合新⻢两地道堂为船难死者举行超荐法会及公祭](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19781125-1.2.84.3) \[The Zhenkongjiao Tian Ling Zong Daotang, in conjunction with temples in Singapore and Malaysia, holds memorial services and public ceremonies for the victims of the maritime disaster\],” _Nanyang Siang Pau_ 南洋商报, 25 November 1978, 39. (From NewspaperSG)
+[^40]:  “Xingma Zhenkongjiao lian he ding qi wei you chuan li nan zhe ju xing chao jian fa hui" [星马眞空敎联合订期 为油船罹难者举⾏超荐法会](https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19781105-1.2.66.2) \[The Singapore-Malaysia Zhenkongjiao Alliance schedules a memorial service for the victims of the oil tanker accident\], _Sin Chew Jit Poh_ 星洲⽇報, 5 November 1978, 30. (From NewspaperSG); “Xingma Zhenkongjiao ge dao tang wei can huo li nan zhe zhu ban chao jian fa hui" [星马眞空敎各道堂 为惨祸罹难者 主办 超荐法会](https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19781125-1.2.38.2) \[Various Zhenkongjiao temples in Singapore and Malaysia host memorial services for the victims of the tragic accident\], _Sin Chew Jit Poh_ 星洲⽇報, 25 November 1978, 10 (From NewspaperSG); “Zhenkongjiao Tian Ling Zong Dao Tang lian he Xinma liangdi daotang wei chuan nan si zhe juxing chao jian fahui ji gong ji" [真空教天灵总道堂联合新⻢两地道堂为船难死者举行超荐法会及公祭](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19781125-1.2.84.3) \[The Zhenkongjiao Tian Ling Zong Daotang, in conjunction with temples in Singapore and Malaysia, holds memorial services and public ceremonies for the victims of the maritime disaster\], _Nanyang Siang Pau_ 南洋商报, 25 November 1978, 39. (From NewspaperSG)
 
-[^41]:  Esmond Chuah Meng Soh, “[Article Sneak Peeks: May 2022](https://chinesereligions.org/node/214),” Society for the Study of Chinese Religions, last accessed 20 April 2024.
+[^41]:  Esmond Chuah Meng Soh, “Article Sneak Peeks: May 2022,” Society for the Study of Chinese Religions, last accessed 20 April 2024, https://chinesereligions.org/node/214
 
-[^42]:  Esmond Chuah Meng Soh, “Sectarians, Smokers, and Science: The Zhenkongjiao in Malaysia and Singapore,” _Asian Ethnology_ 81, no. 1/2 (2022): 35-42. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
+[^42]:  Esmond Chuah Meng Soh, “Sectarians, Smokers, and Science: The Zhenkongjiao in Malaysia and Singapore,” _Asian Ethnology_ 81, no. 1/2 (2022): 35–42. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
-[^43]:  黄嘉伟 Huang Jia Wei,[《空道流行》入微](https://catalogue.nlb.gov.sg/search/card?id=3e87492b-7d33-5e8d-9536-730065b2ae92&amp;entityType=FormatGroup) [“Kong dao liu xing” ru wei](https://catalogue.nlb.gov.sg/search/card?id=3e87492b-7d33-5e8d-9536-730065b2ae92&amp;entityType=FormatGroup) \[Delving into the Way of Emptiness\] (Xinjiapo 新加坡: Xinjiapo Zhenkongjiao Lian He Hui 新加坡真空教联合会, 2016) (From PublicationSG, call no. 299.51)
+[^43]:  黄嘉伟 Huang Jia Wei, "_Kong dao liu xing” ru wei_" <a href="https://catalogue.nlb.gov.sg/search/card?id=3e87492b-7d33-5e8d-9536-730065b2ae92&amp;entityType=FormatGroup">《空道流行》入微</a> \[Delving into the Way of Emptiness\] (新加坡: 新加坡真空教联合会, 2016) (From PublicationSG)
