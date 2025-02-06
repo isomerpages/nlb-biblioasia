@@ -179,7 +179,7 @@ This article was partially developed from my MA (History) thesis, <i>Sages, Smok
 
 [^23]:  “[Some Odd Corners &amp; Customs of Malaya](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaytribune19330806-1.2.36).”
 
-[^24]:  Soh, “Practicing Salvation,” 100-107.
+[^24]:  Soh, “Practicing Salvation,” 100–107.
 
 [^25]:  "Zheankong jiao ben yuan dao tang shixíng yiwu jieyan” [眞空敎本元道堂實行義務戒煙](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19600315-1.2.24.10) \[The Zhenkongjiao Ben Yuan Dao Tang Implements Free Smoking Cessation\],  _Nanyang Siang Pau_ 南洋商报, 15 March 1960, 8. (From NewspaperSG)
 
@@ -187,7 +187,7 @@ This article was partially developed from my MA (History) thesis, <i>Sages, Smok
 
 [^27]:  Soh, “Practicing Salvation,” 105–107.
 
-[^28]:  Huang, _<a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=84467404">Kongzhongjiao Fazhan Shilue</a>_, 72-75.
+[^28]:  Huang, _<a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=84467404">Kongzhongjiao Fazhan Shilue</a>_, 72–75.
 
 [^29]:  Seow Peck Ngiam, “[Anti-yellow Culture Campaign](https://www.nlb.gov.sg/main/article-detail?cmsuuid=8e493ee4-1832-4fec-96ee-a0a6b3efab87),” Singapore Infopedia.
 
