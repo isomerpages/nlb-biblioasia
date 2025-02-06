@@ -6,7 +6,7 @@ description: ""
 ---
 #### **With its sometime unconventional treatments, the Zhenkongjiao worked together with local authorities to remove the scourge of opium addiction in Singapore.**
 By Esmond Soh
-<br><small>10 January 2025</small>
+<br><small>6 February 2025</small>
 
 Prayers, meditation, tea infused with prayers and even animal sacrifice – these were part of a plan to rehabilitate opium addicts in Singapore by a Chinese religious movement known as &nbsp;Zhenkongjiao in postwar Singapore.[^1]
 
