@@ -135,13 +135,13 @@ This article was partially developed from my MA (History) thesis, <i>Sages, Smok
 
 [^1]:  Xu Yunqiao&nbsp;许云樵, “Kongdaojiao gailun: yi ge xinxing de zongjiao”&nbsp;空道教概论：一个新兴的宗教&nbsp;[The religion of the void: A new religion],&nbsp;[_Nanyang Xuebao_&nbsp;南洋学报](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84444489)&nbsp;[Journal of the South Seas Society] 10, no. 4 (1954): 25–32. (From National Library Singapore, call no. Chinese RCLOS 959.005 JSSS)
 
-[^2]:  Luo Xianglin 罗香林, <i>Liuxing yu ganminyue ji malaixiya zhi Zhenkongjiao</i>  流行于赣闽粤及马来西亚之真空教 [The Origins and Spread of the Zhenkongjiao from Ganzhou to Southeast China and Malaya] (Xianggang 香港: Zhongguo Xueshe 中国学社, 1962), 39–64.
+[^2]:  Luo Xianglin 罗香林, <i>"Liuxing yu ganminyue ji malaixiya zhi Zhenkongjiao"</i>  流行于赣闽粤及马来西亚之真空教 [The Origins and Spread of the Zhenkongjiao from Ganzhou to Southeast China and Malaya] (Xianggang 香港: Zhongguo Xueshe 中国学社, 1962), 39–64.
 
 [^3]:  Esmond Chuah Meng Soh, “Practicing Salvation: Meat-Eating, Martyrdom, and Sacrifice as Religious Ideals in the Zhenkongjiao,” _Journal of Chinese Religions_ 50, no. 1 (2022): 77–114, https://www.academia.edu/80038178/Practicing_Salvation_Meat_Eating_Martyrdom_and_Sacrifice_as_Religious_Ideals_in_the_Zhenkongjiao.
 
 [^4]:  For general studies of the phenomenon, see Yan Qinghuang, _[A Social History of the Chinese in Singapore and Malaya: 1800-1911](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4182822)_ (Singapore: Oxford University Press, 1986). (From National Library Singapore, call no. RSING301.45195105957); and Wang Gungwu, _[China and the Chinese Overseas](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12093981)_ (Singapore: Eastern Universities Press, 1991–2003). (From National Library Singapore, call no. RSING909.04951)
 
-[^5]:  Liao Jingcai 廖经才, comp., _Dong nan ya zhen kong jiao dao tang tu kan_ [东南亚真空教道堂图刊](https://catalogue.nlb.gov.sg/search/card?id=42baef41-f737-5f55-ab8d-07b2f376976a&amp;entityType=FormatGroup) \[Southeast Asian Illustrated Magazine of the Zhenkongjiao Temples\] (Xianggang 香港: Zhenkong Ji Nian Tang Chubanshe 真空纪念堂出版社, 1968) unpaginated. (From National Library Singapore, call no.: 299.514 LJC -\[HYT\])
+[^5]:  Liao Jingcai 廖经才, comp., _"Dong nan ya zhen kong jiao dao tang tu kan"_ [东南亚真空教道堂图刊](https://catalogue.nlb.gov.sg/search/card?id=42baef41-f737-5f55-ab8d-07b2f376976a&amp;entityType=FormatGroup) \[Southeast Asian Illustrated Magazine of the Zhenkongjiao Temples\] (Xianggang 香港: Zhenkong Ji Nian Tang Chubanshe 真空纪念堂出版社, 1968) unpaginated. (From National Library Singapore, call no.: 299.514 LJC -\[HYT\])
 
 [^6]: Huang Ziwen 黄子文, comp. _Kongzhongjiao Fazhan Shilue_ [空中教发展史略](https://catalogue.nlb.gov.sg/search/card?id=916f520c-1b93-561d-a66c-aff7646810b8&amp;entityType=FormatGroup) \[Supplementary Histories of the Kongzhongjiao\] (怡宝: 霹雳空中教会, 1965), 38. (From National Library Singapore, call no. Chinese RCLOS 299.51 HTW)
 
