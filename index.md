@@ -1217,5 +1217,5 @@ sections:
       url: /culture/2025/1/zhenkongjiao-chinese-religion-opium-addiction-rites-rituals-temples
       image: /images/Online Only Articles/Rites of
         Rehabilitation/zhenkongjiao_Topics.jpg
-      alt: Image alt text
+      alt: Zhenkongjiao
 ---
