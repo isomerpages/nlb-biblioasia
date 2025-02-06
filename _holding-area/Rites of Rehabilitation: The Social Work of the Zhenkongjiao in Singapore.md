@@ -159,7 +159,7 @@ This article was partially developed from my MA (History) thesis, <i>Sages, Smok
 
 [^13]:  “[Suppressing Opium Smoking](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19460204-1.2.28),” _Straits Times_, 4 February 1946, 3. (From NewspaperSG)
 
-[^14]:  Huang, _Kongzhongjiao Fazhan Shilue_, 34.
+[^14]:  Huang, _<a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=84467404">Kongzhongjiao Fazhan Shilue</a>_, 34.
 
 [^15]:  “[Doctors Debunk Prayer Cures](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19520814-1.2.45),” _Singapore Standard_, August 14, 1952, 2; Lim Siew Kok, [“‘Debunkers’ Challenged](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19520825-1.2.53.4),” _Singapore Standard_, August 25, 1952, 4. (From NewspaperSG)
 
