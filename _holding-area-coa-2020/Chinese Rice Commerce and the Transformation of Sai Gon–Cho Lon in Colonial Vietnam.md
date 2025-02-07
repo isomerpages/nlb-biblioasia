@@ -301,4 +301,3 @@ countryside agents’ operations:
    constitute a mortgage in the hands of the creditor. If the<br> 
    Annamese do not pay their debt, the Chinese will seize their<br> 
    harvest at record-low pricing.39
-
