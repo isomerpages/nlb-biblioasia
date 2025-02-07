@@ -230,29 +230,29 @@ Mekong Delta and its agricultural revolution, Chinese merchants were,
 in Barton’s words, “the channel through which much of the credit that
 financed these development efforts flowed and the source of the merchandise
 that provided the incentives for Vietnamese peasants to produce for the
-market economy”.31
+market economy”.[^31]
 
 The Chinese pioneered rice-grinding technologies that gave their mills an
 edge in efficiency. In 1876, the first steam-powered mill in Chợ Lớn was
-assembled and popularised by a Chinese merchant there.32 In 1906 and
+assembled and popularised by a Chinese merchant there.[^32] In 1906 and
 1907, two large rice mills in Chợ Lớn – Ban Tek Guan and Ban Hong Guan
 – struck a deal with the engineering firm Messrs. Riley, Hargreaves and
 Co. to provide extensive electrical installation for their mills, and to supply
-“the dynamo as well as the other gear”.33 The Singapore-based British firm claimed that their electrical engines would be “more than sufficient to run
-over 600 lamps of 16 candle power in addition to several arc lamps”.34
+“the dynamo as well as the other gear”.[^33] The Singapore-based British firm claimed that their electrical engines would be “more than sufficient to run
+over 600 lamps of 16 candle power in addition to several arc lamps”.[^34]
 
-By the late 19th century, the Chinese owned the majority of Cochinchinese
+By the late 19th century, the Chinese owned the majority of Cochin-chinese
 mills. Of the eight rice mills in Sài Gòn–Chợ Lớn, it was believed that five
-belonged to Chinese proprietors.35 Nationally, until 1911, Vietnam had a total
+belonged to Chinese proprietors.[^35] Nationally, until 1911, Vietnam had a total
 of 30 rice mills (23 in Sài Gòn and the six southern provinces, 6 in Tonkin,
-and 1 in Tourane); of these, 24 (accounting for 80 percent) were Chineseowned.
+and 1 in Tourane); of these, 24 (accounting for 80 percent) were Chinese-owned.
 In terms of productivity, owing to technological innovations and
 sheer numerical advantage over the French, Chinese mills reached an
-efficiency level of 500–1,200 tons per day.36
+efficiency level of 500–1,200 tons per day.[^36]
 
 The Chinese compradors in Chợ Lớn also monopolised access to the
 coveted young rice grains (*lúa non*) from Vietnamese farmers. Around
-December each year, Chợ Lớn’s mills sent out armies of agents to scout the interior of Cochinchina for junks managed by Chinese overseers to
+December each year, Chợ Lớn’s mills sent out armies of agents to scout the interior of Cochin-china for junks managed by Chinese overseers to
 procure paddies. These agents, or “bosses”, served as the most proactive
 and persuasive middlemen. Accompanied by local partners, they cultivated
 congenial relationships with Vietnamese farmers to buy their crops in the
@@ -263,7 +263,7 @@ connections with the local farming populations and landlords (*điền chủ*)
 and developed in-depth knowledge of the Mekong Delta’s rice-growing
 geography. These factors enabled them to purchase grains at preferential
 rates by paying the farmers a small deposit (or advance) on an agreed
-collecting date with much lower contracted pricing.37 Once a harvest
+collecting date with much lower contracted pricing.[^37] Once a harvest
 concluded, the farmers had to honour the contract and sell grains to the
 merchants before they were transported to rice mills in the city. As this
 cycle continued, the intermediary merchants and rice-mill owners made
@@ -271,7 +271,7 @@ the most profits. The Vietnamese farmers found themselves hemmed in by
 hefty colonial taxes, the loans’ high interest rates, and lack of transparency
 in fluctuating market prices. Consequently, they had no choice but to
 keep selling their grains to the Chinese and taking Chinese loans to offset
-production costs in order to survive till the next harvest.38 H. L. Jammes,
+production costs in order to survive till the next harvest.[^38] H. L. Jammes,
 in *Souvenir du Pays d’Annam*, painted a vivid picture of the Chinese
 countryside agents’ operations:
 
@@ -299,7 +299,7 @@ countryside agents’ operations:
    must submit their property titles in place of securities that<br> 
    constitute a mortgage in the hands of the creditor. If the<br> 
    Annamese do not pay their debt, the Chinese will seize their<br> 
-   harvest at record-low pricing.39
+   harvest at record-low pricing.[^39]
 
 The international shipping of rice, too, was handled predominantly by
 Chinese firms. Chinese rice mills in Hong Kong imported primarily Sài
@@ -312,44 +312,44 @@ on the global market and left local rice mills in Vietnam largely performing
 the function of mass production. Mass-produced rice meant that grain and
 rice-storage quality was often neglected in prevailing commercial approaches
 to shipping, which was reflected in the standard practice of “milling on
-arrival”.40 This inattention to quality, combined with the surprising absence of an established freight insurance industry in colonial Vietnam, shifted the
+arrival”.[^40] This inattention to quality, combined with the surprising absence of an established freight insurance industry in colonial Vietnam, shifted the
 burdens of taxes and economic losses to the importers rather than milling
 parties if unanticipated risks (usually shipwrecks) were to happen. Disregard
 for rice quality, and the absence of protection and a grade reference system
 were structured around one goal: “exporting as much rice as possible”, as
-Li Tana succinctly puts it.41 According to Ellen Tsao’s estimates, Chinese
+Li Tana succinctly puts it.[^41] According to Ellen Tsao’s estimates, Chinese
 exports accounted for roughly 70 percent of the rice shipping business,
 serving the major markets of Hong Kong, Manila and Singapore. This left
 European firms a much smaller portion of market share, primarily dealing
-with France, the United States, Cuba and Japan.42
+with France, the United States, Cuba and Japan.[^42] 
 
 Chinese merchants, therefore, controlled the sources of grains, the
-rice mills that made the grains exportable, and the export networks.43
+rice mills that made the grains exportable, and the export networks.[^43] 
 Pierre Brocheux describes their system as a “pyramid of dependency”,
 characterised by the creation of a usurious market dominated by Chinese
 and Indian moneylenders. This had come about in part because the
 colonial commercialisation of land and expensive infrastructural building
-diminished available credit for agricultural initiatives.44 The Bank of
+diminished available credit for agricultural initiatives.[^44] The Bank of
 Indochina (Banque de l’Indochine) had been created by the colonial state to
 issue the colony’s currency and fund various developmental projects. But it
 was less interested in extending credit to small farmers, who made up the
 majority of the manufacturing workforce, than to the medium and large
-landowners, whose profits remained complicatedly attached to Chineseowned
+landowners, whose profits remained complicatedly attached to Chinese-oned
 rice mills in Chợ Lớn and the exploitation of Vietnamese farmers.
 The Bank, as Gerard Sasges and Scott Cheshier argue, served a crucial
 function that was “to leverage Chinese rather than French capital, diverting
-investment from Chinese enterprises and towards French”.45
+investment from Chinese enterprises and towards French”.[^45]
 
 The urbanisation of colonial Sài Gòn, in which the rice trade played a critical
 role, attracted Chinese and Vietnamese migrant labour from the countryside
 seeking economic opportunities. The colonial export economy and the
 thriving of the Mekong Delta trade reshaped the economic landscape of Sài
 Gòn in the early 20th century by initiating demand for jobs in production,
-transportation and service industries.46 As a result, as the population of the
+transportation and service industries.[^46] As a result, as the population of the
 city grew exponentially, the number of Chinese in Chợ Lớn skyrocketed.
 By 1919, there were an estimated 101,427 Chinese in Chợ Lớn (accounting
 for about 37.3 percent of the total population of metropolitan Sài Gòn) – an
-almost 21 percent increase from 1907.47
+almost 21 percent increase from 1907.[^47]
 
 Sài Gòn’s rapid transformation into a cosmopolitan hub with coexisting
 elements of interethnic interactions and economic modernity engendered
@@ -370,7 +370,7 @@ sought to gain authoritative control of the rice trade, whose monopolisation
 by the Chinese was deemed to be dangerously unregulated. On their part,
 the Chinese leaders – an increasingly powerful conglomeration made up
 of cosmopolitan capitalists and *congrégation* leaders – mounted strategic
-political opposition.48 These transformative encounters, which remained
+political opposition.[^48] These transformative encounters, which remained
 in the shadow of colonial politics and as a little-known story in Chinese
 community history, exposed the ill-conceived nature of French commercial policies and demonstrated Chinese merchants’ critical roles in reorienting
 the colonial approach to the transnational rice trade and the legal statuses of
@@ -380,13 +380,13 @@ The rice export boom in Cochinchina drew much attention from French
 and British colonists. In 1886, for example, exports rose to a record
 3,480,500 tons, as demand from Hong Kong and Manila continued to rise;
 a local observer reported that “there are no stocks at Chợ Lớn, grain being
-shipped as fast as it arrives”.49 But it was chiefly the Chinese merchants who
+shipped as fast as it arrives”.[^49] But it was chiefly the Chinese merchants who
 were profiting from this boom. French observers lamented the successive
 bankruptcies of European trading houses in Sài Gòn–Chợ Lớn and their
 comparative disadvantages against Chinese-owned counterparts. On 10 June
 1876, one such firm owned by German proprietors declared its foreclosure,
 citing financial dissolution due to the lack of market price transparency
-and Chinese dealers’ “disinclination to lower their prices in transactions”.50
+and Chinese dealers’ “disinclination to lower their prices in transactions”.[^50]  
 Repeated complaints from European merchants about their inability to
 have a fair competition with Chinese-owned trading houses in Chợ Lớn
 preoccupied the Chamber of Commerce’s reports. The French colonial
