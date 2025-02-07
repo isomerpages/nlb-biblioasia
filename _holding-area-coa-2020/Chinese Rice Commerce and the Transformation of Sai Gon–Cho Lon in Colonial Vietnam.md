@@ -275,34 +275,30 @@ production costs in order to survive till the next harvest.38 H. L. Jammes,
 in *Souvenir du Pays d’Annam*, painted a vivid picture of the Chinese
 countryside agents’ operations:
 
-The Chinese grain buyer settles, in the four arms of a river
-on a comfortable boat, slinging a bag of piastres in one hand
-and a game of *baquan* in the other, patiently waiting for the
-customers, resting assured that the “fish will bite the bait”.
-As soon as rice starts to turn yellow, Chinese agents march through the villages, baiting the farmers by ringing his bags
-of coins… The Chinese is then ready to offer his advances. If
-the Annamite is unable to repay loans at maturity, the Chinese
-will set a selling price for rice much lower than its real value.
-Credit is, for the Chinese, a powerful means of exploiting the
-Annamese farmers because they are always short of funds. They
-have a compulsory expenditure every year: it is the payment of
-their taxes. Chinese creditors are at their disposal to provide
-such necessary funds. At the present, the harvest loans granted
-to the native through provincial chiefs and guaranteed by the
-government are only authorised to allow them, in the event
-of a bad harvest, to pay the taxes in arrears. The paperwork
-hinders farmers who often prefer to deal with Chinese creditors
-despite the 12% monthly interest rate. This is a minimum rate,
-recognised by the Annamese law and accepted by the French
-Courts in Cochinchina. To dissolve of their debts, augmented
-by these fabulous interests, the unfortunate Annamese peasants
-must submit their property titles in place of securities that
-constitute a mortgage in the hands of the creditor. If the
-Annamese do not pay their debt, the Chinese will seize their
-harvest at record-low pricing.39
-
-
-
-
-
+   The Chinese grain buyer settles, in the four arms of a river<br> 
+   on a comfortable boat, slinging a bag of piastres in one hand<br> 
+   and a game of *baquan* in the other, patiently waiting for the<br> 
+   customers, resting assured that the “fish will bite the bait”.<br> 
+   As soon as rice starts to turn yellow, Chinese agents march<br>  
+   through the villages, baiting the farmers by ringing his bags<br> 
+   of coins… The Chinese is then ready to offer his advances. If<br> 
+   the Annamite is unable to repay loans at maturity, the Chinese<br> 
+   will set a selling price for rice much lower than its real value.<br> 
+   Credit is, for the Chinese, a powerful means of exploiting the<br> 
+   Annamese farmers because they are always short of funds. They<br> 
+   have a compulsory expenditure every year: it is the payment of<br> 
+   their taxes. Chinese creditors are at their disposal to provide<br> 
+   such necessary funds. At the present, the harvest loans granted<br> 
+   to the native through provincial chiefs and guaranteed by the<br> 
+   government are only authorised to allow them, in the event<br> 
+   of a bad harvest, to pay the taxes in arrears. The paperwork<br> 
+   hinders farmers who often prefer to deal with Chinese creditors<br> 
+   despite the 12% monthly interest rate. This is a minimum rate,<br> 
+   recognised by the Annamese law and accepted by the French<br> 
+   Courts in Cochinchina. To dissolve of their debts, augmented<br> 
+   by these fabulous interests, the unfortunate Annamese peasants<br> 
+   must submit their property titles in place of securities that<br> 
+   constitute a mortgage in the hands of the creditor. If the<br> 
+   Annamese do not pay their debt, the Chinese will seize their<br> 
+   harvest at record-low pricing.39
 
