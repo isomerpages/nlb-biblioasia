@@ -95,6 +95,10 @@ Liu also paid increasing attention to the use of lines in his paintings. Upon hi
 
 As observed by art historian Kwok Kian Chow, when comparing three of Liu’s works, a gradual thickening of outlines in defining object and spaces could be discerned, “suggesting an affiliation with the linear brush quality of Chinese ink painting”.[^31] Kwok further noted: “In the 1940s, Liu was infusing his oil paintings with Chinese ink brushwork and particularly the abbreviated and caricature-like descriptive brushwork of folk genre paintings.”[^32] In Liu’s paintings such as _Durian Vendor_ (1957), _Sarongs_ (1969) and _Life by the River_ (1975), there is an evident use of black or dark outlines to accentuate forms, and convey a sense of liveliness.
 
+![](/images/Vol%2021%20Issue%201/Liu%20Kang%20The%20Artist/bridge_sarongs.jpg)
+<div><i>Sarongs</i> (1969) by Liu Kang, oil on canvas,&nbsp;98 × 131 cm. Gift of Goldman Sachs and Company.  <i>Collection of National Gallery Singapore, courtesy of National Heritage Board.</i></div>
+
+
 ![](/images/Vol%2021%20Issue%201/Liu%20Kang%20The%20Artist/bridge_durian.jpg)
 <div><i>Durian Vendor</i>  (1957) by Liu Kang, oil on board, 47.5 × 119.5 cm. Gift of the artist’s family. <i>Collection of National Gallery Singapore, courtesy of National Heritage Board.  </i></div>
 
@@ -157,7 +161,7 @@ The study of modern Asian art is complex. Artists like Liu grappled with the for
 	
 [^9]: Chia, “[Introduction](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8726393),” 15.
 	
-[^10]: This has also been noted by other commentators such as the artist Pan Shou and art promoter Frank Sullivan, who mentioned Liu Kang’s admiration of Cézanne, Gauguin, Utrillo, Dufy and, particularly, Van Gogh and Matisse. See Liu Kang 刘抗, [刘抗画集](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13066041) \[Collection of Liu Kang’s paintings\] (\Singapore: n.p., 1957), n.p. (From National Library Singapore, call no. RCLOS 759.95957 LK-\[LK\])
+[^10]: This has also been noted by other commentators such as the artist Pan Shou and art promoter Frank Sullivan, who mentioned Liu Kang’s admiration of Cézanne, Gauguin, Utrillo, Dufy and, particularly, Van Gogh and Matisse. See Liu Kang 刘抗, [刘抗画集](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13066041) \[Collection of Liu Kang’s paintings\] (Singapore: n.p., 1957), n.p. (From National Library Singapore, call no. RCLOS 759.95957 LK-\[LK\])
 
 	
 [^11]: Richard Lim, ed., [_Singapore Artists Speak_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6805774) (Singapore: C.H. Yeo, 1990), 68. (From National Library Singapore, call no. RSING 709.5957 SIN)
