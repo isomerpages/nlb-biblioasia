@@ -31,6 +31,10 @@ In 1933, Liu returned to China and taught Western painting at the Shanghai Acade
 
 In 2003, Liu donated his life’s works to the Singapore Art Museum. For his contributions to the Singapore art scene as artist, teacher and writer, Liu received the Bintang Bakti Masyarakat (Public Service Star) and Pingat Jasa Gemilang (Meritorious Service Medal) in 1970 and 1996 respectively. He died in 2004.
 
+![](/images/Vol%2021%20Issue%201/Liu%20Kang%20The%20Artist/bridge_bintang.jpg)
+<div>Liu Kang receiving the Bintang Bakti Masyarakat (Public Service Star) from President Benjamin Sheares, 1970. <i>Liu Kang Collection, National Library Singapore. </i></div>
+
+
 #### **Inspiration from the West**
 
 Liu’s interest and engagement with the West was an enduring one, spanning his years in Shanghai to his time in Paris and, later, Singapore. His lifelong interest in Western art probably started when his primary school teacher in Muar, recognising his love for art, gave him a book of reproductions of Western art. Liu spent many happy hours copying artworks from the book.[^6]
