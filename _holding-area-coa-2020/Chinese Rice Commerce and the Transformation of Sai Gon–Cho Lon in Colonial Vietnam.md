@@ -716,5 +716,3 @@ His research interests include the histories of Chinese migration in French colo
 Vietnam, colonial capitalism and urban history. Originally from Vietnam, he was
 formerly an SSRC-IDRF and ACLS-Luce Fellow, and has conducted research in China,
 Vietnam and Singapore.</div>
-
-
