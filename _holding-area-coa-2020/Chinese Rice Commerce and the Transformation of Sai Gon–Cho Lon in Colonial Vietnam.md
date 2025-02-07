@@ -877,3 +877,181 @@ Wong, Yee Tuan. [_Penang Chinese Commerce in the 19th Century: The Rise and Fall
 
 —_._ “The Big Five Hokkien Families in Penang, 1830s–1890s.” _Chinese Southern Diaspora Studies_ 1 (2007): 106–15.
 
+#### **NOTES**
+       
+i Tana, “Rice Trade in the 18th and 19th Century Mekong Delta and Its Implications,” in _Thailand and Her Neighbors (II): Laos, Vietnam and Cambodia_, ed. Thanet Arpornsuwan (Bangkok: Thammasat University Press, 1995), 198–214. For a relevant precolonial history that offers important insights into the making of the Chinese trade, see also Li Tana, _Nguyễn Cochinchina: Southern Vietnam in the Seventeenth and Eighteenth Centuries_ (Ithaca, NY: Southeast Asia Program Publications, 1998). For a social history of Sài Gòn and the impact of the rice trade on its residents’ livelihoods, see Haydon Cherry, [_Down and Out in Saigon: Stories of the Poor in a Colonial City_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203934740) (New Haven: Yale University Press, 2019). (Call no. RSEA 305.5690597 CHE)
+
+2 Christopher Goscha, [_The Penguin History of Modern Vietnam_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202565314) (London: Allen Lane, 2016), 162. (Call no. RSEA 959.7 GOS)&nbsp;
+
+3 Li Tana, “The Chinese in Vietnam,” in _The Encyclopedia of the Chinese Overseas_, ed. Lynn Pan and Chinese Heritage Centre (Singapore) (Cambridge, MA: Harvard University Press, 1999), 228.&nbsp;
+
+4 Charles Wheeler, “Interests, Institutions, and Identity: Strategic Adaptation and the Ethno-evolution of Minh Hương (Central Vietnam), 16th–19th Centuries,” _Itinerario_ 39 (April 2015): 142–43.
+
+5 Lê Thị Vỹ Phượng, “Người Minh Hương, Dấu Ấn Di Dân và Việt Hóa Qua Một Số Tư Liệu Hán Nôm” \[Minh Hương: A history of immigration and Vietnamisation through selected Sino-Vietnamese documentations\]. _Tạp Chí Khoa Học Xã Hội_ \[Journal of social science research\] 7, no. 179 (2013): 66–67.
+
+6 Trịnh Hoài Đức, _Gia Định Thông Chí, Histoire et Description de La Basse Cochinchine (Pays de Gia Định)_ \[A history and descriptions of the Lower Mekong regions (Gia Định province)\] (Paris: Imprimerie Imperiale, 1864), 10–18.
+
+7 For details, see George Dutton, [_The Tây Son Uprising_: _Society and Rebellion in Eighteenth-Century Vietnam_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12830147) (Honolulu: University of Hawai’i Press, 2006). (Call no. RSEA 959.703 DUT)
+
+8 Dutton, [_Tây Son Uprising_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12830147), 32.
+
+9 Robert Dubreuil, “De la Condition des Chinois et de leur Rôle Economique en Indochine” (PhD diss., University of Paris, 1910), 12.
+
+10 Choi Byung Wook, _Southern Vietnam under the Reign of Minh Mạng (1820–1841): Central Policies and Local Response_, Southeast Asia Program Series, no. 20 (Ithaca, NY: Southeast Asia Program Publications, Southeast Asia Program, Cornell University, 2004), 147.
+
+11 Nguyễn Thế Anh, _Kinh Tế và Xã Hội Việt Nam dưới Các Vua Triều Nguyễn_ \[The Vietnamese economy and society under the Nguyễn King\] (Saigon: Lửa Thiêng, 1968), 42–50.&nbsp;
+
+12 Nguyễn Thế Anh, “L’immigration chinoise et la colonisation du delta du Mékong,” _Vietnam Review_ 1 (Autumn–Winter 1996): 154–77.
+
+13 Tracy C. Barrett, [_The Chinese Diaspora in South-East Asia: The Overseas Chinese in IndoChina_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14326164), Library of China Studies (London: Tauris, 2012), 13–14. (Call no. RSING 305.8951059 BAR)
+
+14 Barrett, [_Chinese Diaspora_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14326164), 23.
+
+15 Li, “Chinese in Vietnam,” 1999.
+
+16 Li, “Chinese in Vietnam,” 1999.
+
+17 Thomas Engelbert, “Chinese Politics in Colonial Saigon: The Case of the Guomindang,” _Chinese Southern Diaspora Studies_ 4 (2010): 96. Other notable works that highlight the making of Sài Gòn–Chợ Lớn as the centre of rice commerce in southern Vietnam include Nola Cooke and Li Tana, eds., [_Water Frontier: Commerce and the Chinese in the Lower Mekong Region, 1750–1880_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12413463), World Social Change (Singapore: Singapore University Press; Lanham, MD: Rowman &amp; Littlefield, 2004). (Call no. RSING 380.10899510597 WAT) Specifically on the importance of the Mekong Delta rice trade, see Sơn Nam, _Đất Gia Định Xưa_ \[A history of Gia Định\] (T.P. Hồ Chí Minh: Nhà Xuất Bản Thành Phố Hồ Chí Minh, 1984); Li Tana, “Rice Trade in the 18th and 19th Century Mekong Delta,” 198–214.&nbsp;
+
+18 See Raoul Postel, _A Travers la Cochinchine_ (Paris: Challamel Aine, 1887), 80–99; Jean Bouchot, _Documents pour servir à l’histoire de Sài Gòn, 1859–1865_ (Sài Gòn: Albert Portail, 1927).
+
+19 “The Parts of the East: The Frenchman’s Home in Sài Gòn,” _North-China Herald and Supreme Court &amp; Consular Gazette (1870–1941)_, 16 August 1919.
+
+20 A. J. H. Latham, “From Competition to Constraint: The International Rice Trade in the Nineteenth and Twentieth Centuries,” _Business and Economic History_ 17 (1988): 92. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+21 Such positive views of modernised Sài Gòn could be found in the rare accounts of itinerant Chinese merchants on their visits to the city to establish business connections in the 1880s. A Hokkien merchant, Tan Siu Eng (陳琇榮) from Batavia, described the “harmonisation of French rule”, which made Sài Gòn by no means inferior to Singapore or Hong Kong. See Claudine Salmon and Tạ Trọng Hiệp, “Wang Annan Riji: A Hokkien Literatus Visits Saigon (1890),” _Chinese Southern Diaspora Studies_ 4 (2010): 74–88.
+
+22 “[Progressive Saigon](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19090120-1.2.79),” _Straits Times_, 20 January 1909, 7, (From NewspaperSG)
+
+23 “[La Vie Saigonnaise](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19020618-1.2.3),” _Straits Times_, 18 June 1902, 2. (From NewspaperSG)
+
+24 Gouvernement Général de l’Indochine, _Exposition Coloniale Internationale_ (Paris: Indochine Française, 1931), 31–32.
+
+25 A. J. H. Latham and Larry Neal, “The International Market in Rice and Wheat, 1868–1914,” _Economic History Review_ 36, no. 2 (1983): 262. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+26 Haydon Cherry, “Down and Out in Sài Gòn: A Social History of the Poor in a Colonial City, 1860–1940” (PhD diss., Yale University, 2011), 31–35.
+
+27 Albert Coquerel, _Paddys et Riz de Cochinchine_ (Lyon: A. Rey, 1911), appendix, tables VIII, IX.&nbsp;
+
+28 Nguyễn Phan Quang, _Góp thêm tư liệu Sài Gòn-Gia Định, 1859–1945_ \[Further contribution to Sài Gòn-Gia Định documentation, 1859–1945\] (T.P. Hồ Chí Minh: Nhà Xuất Bản Trẻ, 1998), 15–19.
+
+29 Engelbert, “Chinese Politics in Colonial Saigon,” 98.
+
+30 Clifton Gilbert Barton, “Credit and Commercial Control: Strategies and Methods of Chinese Businessmen in South Vietnam” (PhD diss., Cornell University, 1977).
+
+31 Barton, “Credit and Commercial Control,” 85.
+
+32 Trần Khánh, _Người Hoa trong Xã Hội Việt Nam: Thời Pháp Thuộc và dưới Chế Độ Sài Gòn_ \[Ethnic Chinese in Vietnamese society: Under French domination and the Sài Gòn regime\] (Hà Nội: Nhà Xuất Bản Khoa Học Xã Hội, 2002), 217.
+
+33 “[Rice Mill Electric Installation](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19070115-1.2.68),” _Straits Times_, 15 January 1907, 7. (From NewspaperSG)
+
+34 “[A Fine Electrical Installation at Cholon](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19070116-1.2.36),” _Singapore Free Press and Mercantile Advertiser_, 16 January 1907. (From NewspaperSG)
+
+35 Sơn Nam, _Đất Gia Định Xưa_,120.
+
+36 Trần Khánh, _Người Hoa trong Xã Hội Việt Nam_, 219.
+
+37 Nguyễn Văn Nghi, _Etudes Economique sur la Cochinchine Française_ (Montpellier: Impr. Firmin et Montane, 1920), 53–54.
+
+38 Scholars have elaborated on the Vietnamese farmers’ uninformed decisions to engage in grain sales with Chinese rice dealers as the consequence of Chinese monopoly. During the colonial period, many Chinese brokers concealed market prices, as a widespread practice, only to publicly declare them right before or after a principal market was closed. This left farmers even more vulnerable to the unpredictability of price oscillations. The French colonial government was fully aware of this profit-extracting “malpractice”; on occasion they attempted to crack down on it, by taking advantage of modern telegraphic technology to send pricing information to the chiefs of towns, where it was mandatorily posted in the marketplace. However, many Chinese preempted this move, using their personal connections with these chiefs or the local farmers to convince them to sell grains early. For the most extensive treatment of this point, see the chapter “The Monoculture of Rice” in Pierre Brocheux, [_The Mekong Delta: Ecology, Economy, and Revolution, 1860–1960_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13111553), Monograph 12 (Madison: Center for Southeast Asian Studies, University of Wisconsin-Madison, 1995), 67. (Call no. RSEA 330.9597 BRO)
+
+39 H. L. Jammes, _Souvenir du Pays d’Annam_ (Paris: A. Challamel, 1900).
+
+40 “M. Rolland Président de la Chambre de Commerce à Monsieur le Lieutenant-Gouverneur de la Cochinchine,” GOUCOCH L.13 N5554, TTLTQG-II, HCMC, 20 July 1893. “Milling on arrival” was a method often practised by Chinese millers in Sài Gòn–Chợ Lớn wherein even though a rice order had been made by a corporate client, millers would not start processing rice until export ships arrived in Chợ Lớn in order to cut storage costs, oftentimes resulting in less refined, low-quality grains.
+
+41 Li Tana, “Saigon’s Rice Export and Chinese Rice Merchants from Hong Kong, 1870s–1920s,” in _Vietnam’s Ethnic and Religious Minorities: A Historical Perspective_, ed. Thomas Engelbert (Frankfurt am Main: Peter Lang, 2016), 33.
+
+42 Ellen Tsao, “Chinese Rice Millers and Merchants in French Indochina,” _Chinese Economic Journal_ 6 (December 1932): 460–61.
+
+43 Nguyễn Đức Hiệp, _Sài Gòn Chợ Lớn: Qua Những Tư Liệu Quý Trước 1945_ \[Sài Gòn–Chợ Lớn: Pre-1945 rare documents\] (T.P. Hồ Chí Minh: Nhà Xuất Bản Văn Hoá-Văn Nghệ, 2016), 299.
+
+44 Brocheux, [_The Mekong Delta_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13111553)_,_ 70.
+
+45 Gerard Sasges and Scott Cheshier, “Competing Legacies: Rupture and Continuity in Vietnamese Political Economy,” _South East Asia Research_ 20, no. 1 (2012): 16. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+46 Nguyễn Cẩm Thuỷ, _Định cư của người Hoa trên đất Nam Bộ: từ thế kỷ XVII đến năm 1945_ \[Chinese settlement in Southern Vietnam: From the seventeenth century to 1945\] (Hà Nội: Khoa Học Xã Hội, 2000), 36–37.
+
+47 Nguyễn Phan Quang, _Sài Gòn-Gia Định_, 50–51.
+
+48 Gary G. Hamilton, ed., [_Cosmopolitan Capitalists: Hong Kong and the Chinese Diaspora at the End of the 20th Century_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9341502) (Seattle: University of Washington Press, 1999). (Call no. RBUS 330.9512506 COS)
+
+49 “[The Saigon Rice Market](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18860506-1.2.26),” _Straits Times Weekly Issue_, 6 May 1886, 4. (From NewspaperSG)
+
+50 “Sài Gòn,” _North-China Herald and Supreme Court &amp; Consular Gazette (1870–1941)_, 10 June 1876.
+
+51 Gerard Sasges, “Scaling the Commanding Heights: The Colonial Conglomerates and the Changing Political Economy of French Indochina,” _Modern Asian Studies_ 49, no. 5 (September 2015): 1490. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+52 Sasges, “Scaling the Commanding Heights,” 1493.
+
+53 Geoffrey C. Gunn, [_Rice Wars in Colonial Vietnam: The Great Famine and the Viet Minh Road to Power,_ Asia/Pacific/ Perspectives](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200192330) (Plymouth: Rowman &amp; Littlefield, 2014), 11. (Call no. RSEA 959.704 GUN)
+
+54 Vương Hồng Sển, _Sài Gòn Năm Xưa_ \[Sài Gòn, past and present\] (T.P. HồChíMinh: NhàXuất Bản Tổng Hợp Thành PhốHồChíMinh, 2018).
+
+55 Engelbert, “Chinese Politics in Colonial Saigon,” 96–97.
+
+56 “Echos de Indochine, Cochinchine,” _La Revue Economique d’Extrême-Orient_, 5 March 1926, 77.
+
+57 郭琰近代越南潮商 “Guo Yan: Jindai yuenan chao shang” \[Quách Đàm: Vietnam’s Chaozhou merchant\], accessed 15 December 2019..
+
+58 Georges L. R. Manue, “Le Buddha de la Richesse” \[The Buddha of wealth\], _Le Journal en Indochine_ (18 July 1927).
+
+59 郭琰近代越南潮商. His other businesses included rice mills in Hong Kong and Singapore, a sugar factory in Cambodia, and freight companies providing services between Shantou and Sài Gòn.
+
+60 “Chợ Mới Bình-Tây, Đại Kỳ Mưu Của Quách Đàm” \[The new market of Bình Tây, Quách Đàm’s strategic plot\], _Công Luận Báo_ \[L’Opinion\], TVQGVN, Hanoi, 13 September 1928. See also Vương Cẩm Tú, _Sài Gòn Xưa &amp; Nay,_ 15.
+
+61 Lee Seung-Joon, “Rice and Maritime Modernity: The Modern Chinese State and the South China Sea Rice Trade,” in _Rice: Global Networks and New Histories_, ed. Francesca Bray et al. (Cambridge: Cambridge University Press, 2015), 111.
+
+62 Wong Yee Tuan, “The Big Five Hokkien Families in Penang, 1830s–1890s,” _Chinese Southern Diaspora Studies_ 1 (2007): 106.
+
+63 Wong, “Big Five,” 111. For the most comprehensive study of the Penang’s Big Five, see Wong Yee Tuan, [_Penang Chinese Commerce in the 19th Century: The Rise and Fall of the Big Five_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202373298) (Singapore: ISEAS-Yusof Ishak Institute, 2015). (Call no. RSEA 338.7095951 WON)
+
+64 “[Page 5 Advertisements Column 4: Notice](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19230424-1.2.17.4),” _Singapore Free Press and Mercantile Advertiser_, 24 April 1923, 5. (From NewspaperSG). No specific reasons were given for the transfer, but it could be deduced from Georges Manue’s account that Quách Đàm was gravely sick around this time and consequently bedridden. Coupled with a struggling rice market in the post-1919 Southeast Asian rice crisis, this business decision seemed to be a downsizing initiative to lessen the financial risks for his larger firm in Chợ Lớn.&nbsp;
+
+65 Irene Nørlund, [_The French Empire: The Colonial State in Vietnam and the Economic Policy 1885–1940_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5572305) (Copenhagen: University of Copenhagen Press, 1989), 73. (Call no. RSEA 338.9597 NRL)
+
+66 Norman G. Owen, “The Rice Industry in Mainland Southeast Asia,” _Journal of Siam Society_ 59, pt. 2 (July 1971): 113.
+
+67 Owen, “Rice Industry,” 113.
+
+68 Alex Gentle, Secretary of the Singapore Chamber of Commerce, to the Colonial Secretary of the Straits Settlements, [_Singapore Chamber of Commerce Annual Report_, 1887–1894](https://www.nas.gov.sg/archivesonline/private_records/record-details/22683a73-bdf4-11e3-927b-0050568939ad), National Archives of Singapore (microfilm NA3347). The correspondence is regarding differential duties on Singapore’s export goods to Sài Gòn imposed by the French.
+
+69 “[Protection against Chinese](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18960318-1.2.9),” _Straits Times_, 18 March 1896, 2. (From NewspaperSG)
+
+70 “Letter from the Chinese Congregations of Chợ Lớn,” GOUCOCH L.0 N5522, Dossier Relatif à la Règlementation du Commerce Chinois et Activités des Congrégations Asiatiques, Années 1890–1894 \[Files related to the regulations of Chinese commercial activities and Asian congregations, 1890–1894\], TTLTQG-II, HCMC, 30 December 1892.&nbsp;
+
+71 “Chinese Merchants Petitioned to the Governor-General of Cochinchina Regarding the Decree of 27 January 1892,” GOUCOCH L.0 N5522, TTLTQG-II, HCMC, 3 March 1894.
+
+72 “Chinese Merchants Petitioned.”
+
+73 “Chinese Merchants Petitioned.”
+
+74 “Chinese Merchants Petitioned.”
+
+75 Hong Kong’s demand for Sài Gòn’s rice increased exponentially since the mid-19th century. This was due not only to the forced opening of this port by British free trade imperialism in the aftermath of the Opium Wars, but also to the frequency of rice shortages in Chinese port cities such as Hong Kong and Canton, which culminated in a series of food riots. As a cheaper alternative – owing to the lack of grading and quality control – rice from Sài Gòn became an affordable solution to existing socioeconomic problems in China’s port cities. For a more detailed treatment of this history, see Lee Seung-Joon, [_Gourmets in the Land of Famine: The Culture and Politics of Rice in Modern Canton_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14267630) (Stanford: Stanford University Press, 2011) (Call no. RBUS 338.173180951275 LEE); Elizabeth Sinn, _Between East and West: Aspects of Social and Political Development in Hong Kong_ (Hong Kong: Centre of Asian Studies, University of Hong Kong, 1996)
+
+76 “M. Holbe, Vice-Président de la Chambre de Commerce à Monsieur le Gouverner de la Cochinchine,” GOUCOCH L.13 N5554, TTLTQG-II, HCMC, March 1894.
+
+77 “Dispatche, Consulat de France à Hong Kong,” GOUCOCH L.0 N5522, TTLTQG-II, HCMC, 16 March 1894. Li Tana also indicates that under the pressure of newly introduced French tariffs, paddy exports dropped from 165,000 tons in 1891 to 72,000 tons in 1896. See Li, “Sài Gòn’s Rice Export,” 39.
+
+78 “Récapitulation du Riz par Pays” \[Summary of rice export by countries\], _Annuaire de la Cochinchine Française_, BnF Gallica (1876): 221. A picul is roughly equivalent to 60.479 kg.
+
+79 Cherry, _Down and Out in Sài Gòn_, 27–28.
+
+80 “[The Saigon-Tonquin-Hong Kong Cable](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18840126-1.2.6.14),” _Straits Times Weekly Issue_, 26 January 1884, 3. (From NewspaperSG)
+
+81 Li, “Sài Gòn’s Rice Export,” 33–52.
+
+82 “Rapport Au Gouverneur-General,” GOUCOCH L.0 N5522, TTLTQG-II, HCMC, 27 February 1892.
+
+83 “[The Trade of Saigon](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18920708-1.2.12),” _Singapore Free Press and Mercantile Advertiser_, 8 July 1892, 3. (From NewspaperSG)&nbsp;
+
+84 “Suspension of Decree Due to Chinese Resistance,” GOUCOCH L.0 N5522, TTLTQG-II, HCMC, 8 March 1894.
+
+85 Su Lin Lewis, [_Cities in Motion: Urban Life and Cosmopolitanism in Southeast Asia, 1920–1940_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202759108) (Cambridge: Cambridge University Press, 2016), 28. (Call no. RSEA 307.7609590904 LEW)
+
+86 Anthony Reid, [_Southeast Asia in the Age of Commerce, 1450–1680_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4305251) (New Haven: Yale University Press, 1988). (Call no. RSEA 959 REI)
+
+87 Meeting of the Sài Gòn Chamber of Commerce, Session 321, GOUCOCH L.0 N5522, TTLTQG-II, HCMC, 29 December 1893.
+
+
+
