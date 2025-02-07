@@ -539,5 +539,175 @@ procured, the flourishing trade between us will be destroyed”.68 Commenting
 on the newly introduced tariff, a British writer characterised French
 protectionism as myopic and impractical:
 
+   The protectionist feeling, so strong in France, shows itself<br> 
+   among the French colonists in French Cochinchina by<br> 
+   increasing antagonism to Chinese trade rivalry there. […] <br>    The sore point is that Chinese acuteness and business aptitudes<br> 
+   have as successfully asserted themselves in Sài Gòn as in<br> 
+   other Far Eastern ports, and the French colonists cannot<br> 
+   brook alien swiftness thus winning in the commercial race<br> 
+   for wealth […] The commercial protection seems to lie in<br> 
+   keeping the Chinese in a subordinate position, and in not<br> 
+   allowing them to rise beyond certain bounds. Such a policy<br> 
+   runs counter to experience in this quarter of the world, where<br> 
+   the Chinese are found an indispensable factor in developing<br> 
+   backward countries. However, a French experiment, in trying<br> 
+   to do without any great Chinese aid in this respect, will prove<br> 
+   interesting. Its failure, we fancy, is foredoomed.69
+
+With the unanimous adoption of the tariff increase in the Chamber of
+Commerce, the Chinese merchant community in Chợ Lớn began to feel
+the political pressure. On 30 December 1892, the heads of five *congrégations*
+– Canton, Fujian, Teochew, Hainan and Hakka – on behalf of Sài Gòn–
+Chợ Lớn’s Chinese trading houses, sent a letter to the governor-general of
+Cochinchina to voice their grievances. In it, they attacked the promulgation
+of the decree of 27 February 1892, which sought to enforce stringent
+regulations on Chinese trade by targeting the rice industry through tariffs
+and high taxation. The tariff, in their view, was an affront to Chinese
+commercial practices, with the potential of ruining the Chinese trade. They
+demanded a public hearing and hired a French-speaking legal advocate to
+contest the new regulation.70
+
+Sensing the protectionist tide in the Sài Gòn Chamber of Commerce,
+Chinese leaders demanded to be heard by the Chamber leaders and asked for
+a decisive repeal of the said decree. They also demanded that the application
+of the decree be postponed until the date adopted by the Chinese traders
+for the liquidation of their annual operation, to allow trading houses in
+China to receive and request necessary information to settle their finances.
+On 3 March 1894, merchants of several trading houses delivered another
+petition, this time with a bold headline, “we have shown passive obedience by cooperating with French administrators most of the time, but in the
+present case concerning our commerce, we will not be silenced”.71 Citing
+commercial unrest in areas where Chinese capitalists had begun to refuse
+“any shipments of money or merchandise” relating to Sài Gòn as a form
+of protest, they opposed the additional exit duties on rice export as well
+as the forced registration of traders’ identities and declaration of business
+records, claiming that “the administration knows by the control, by the
+registers and by the patents that we have displayed at home and by the sign
+of our doors; to whom it deals and to whom it is to address by the payments
+of our taxes”.72 Most interestingly, they declared themselves the “victim
+of petty crimes” committed by their comrades, who were the “one rotten
+apple that spoils the barrels”.73 Unlike those small traders, they were major
+suppliers of the China trade and respected the rule of law. The Chinese
+leaders concluded: “We declare our intention to the greatest representative
+of the French in the Far East that businesses will be on a chokehold with the
+abrupt implementation of the increase in export duty, which requires further
+revision and reconsideration given the Chinese presence in Sài Gòn.”74
+
+Chinese resistance took place not only in Chợ Lớn, but also in Hong Kong,
+which became a vigorous commercial battleground between the French
+authority and Chinese merchants based in Sài Gòn and Hong Kong. French
+members of the Chamber of Commerce were aiming to use the proposed
+tariff to also curb Sài Gòn’s Chinese dominance in the Hong Kong trade,
+where a rice milling industry was concomitantly developed – a process
+inextricably linked to Hong Kong’s escalating demand for Sài Gòn’s rice
+and Sài Gòn–Chợ Lớn’s Chinese merchant networks.75 This tariff gained
+traction in the chamber’s discussion on the grounds that since Chinese merchants enjoyed all the local advantages regardless of labour or freight
+costs as opposed to French merchants, the former had to comply with a
+comparable surtax so that the playing field could be levelled.76 On 16 March
+1894, a representative from the French consulate in Hong Kong dispatched
+a message to Cochinchina, informing the governor-general of commercial
+stagnation in Hong Kong. The Chinese rice merchants based there refused
+to carry any merchandise to Sài Gòn, citing fear of high duties. As one
+merchant put it, “We prefer to pay a little more for the freight of rice and
+to buy the latter for ballast than to bow before the measure taken by the
+authorities of Indochina.”77
+
+The reactions of Hong Kong’s Chinese rice merchants to the news of French
+tariffs were not surprising. The British port city had consistently been the
+number one destination for rice exports from Sài Gòn in the last few decades
+of the 19th century. In 1876, for example, a record 3,577,500 piculs of rice were
+exported to Hong Kong, followed distantly by 979,116 piculs to Surabaya,
+444,730 piculs to Singapore, and 204,435 piculs to Batavia.78 Additionally,
+Hong Kong held a prominent place in the Sài Gòn–Nanyang trade both for
+the French colonial government’s strategic commercial expansion and for
+the Chinese rice merchants.79 On 26 January 1884, the French announced a
+subsidy for a new telegraphic line that would connect Sài Gòn with Tonkin
+and ultimately Hong Kong. “This new line of Saigon via Tongking to Hong
+Kong,” a report emphasised, “will operate independently of all control”,
+facilitating the intensifying trading relations in these areas.80
+
+The Sài Gòn–Hong Kong rice trade had generated immense wealth and
+linked many Chinese merchants’ fortunes and privileged status in Hong
+Kong to their business operations in Sài Gòn. Chinese rice mills in Chợ
+Lớn often functioned as productive branches within a complicated web of
+Chinese commercial conglomerates based in Hong Kong and elsewhere.
+
+More importantly, they coexisted and came in direct competition with
+European trading houses, and shared a stake within the transnational rice
+trade across the Nanyang. Tjia Mah Yeh (Tạ Mã Điền), who founded two
+of Chợ Lớn’s most prominent rice mills (the aforementioned Ban Hong
+Guan and Ban Tek Guan), took advantage of the Hong Kong connections to
+establish a steamship company, The Hock Hai Steamship Co. (福海), in that
+port. This enabled him to engage in commercial activities across Hong Kong,
+Shanghai, Japan and further south in the Nanyang, including Singapore,
+Batavia and the Philippines.81
+
+Given this intimate commercial connection with Hong Kong and the vast
+networks of capital and interpersonal relationships required for the rice
+mill business, French attempts to undermine Chinese commercial strength
+were not well received by the large merchant communities in Sài Gòn–Chợ
+Lớn. In fact, the Chinese protests was so intense and far-reaching that
+it bewildered the colonial administrators. M. Aug Boudin, the General
+Procurer and the Chief of the Judiciary Service of Indochina, exclaimed that
+“out of all the Asian traders in the colony, the Indian representatives had
+willingly complied to the decree without any difficulty; it is quite hard to
+understand how it is only in Sài Gòn–Chợ Lớn that the resistance occurred
+with such ensemble and much energy”.82
+
+By the late 1890s, rice crops in Cochinchina experienced a short-lived
+depression. Exacerbated by continued protests against the French tariff, rice
+businesses almost ceased for the entire October in 1892. Chinese and, to a
+lesser extent, Indian merchants tirelessly petitioned the French Chamber
+of Commerce, arguing that it was not only the insurmountable burden of
+taxes that would be detrimental to their businesses but also the “inevitable
+fines” as a consequence of mindless formality violation.83 In the face of
+unceasing opposition from Chinese merchants in Sài Gòn–Chợ Lớn and
+those abroad in the port of British Hong Kong, the French Chamber of
+Commerce shot down the implementation of the decree at the end of 1899.
+Aug Boudin then confessed that this decree and its multiple propositions
+had caused overwhelming indignation among the Chinese population in
+Chợ Lớn. With a mix of concession and ambiguity, he promised that “a new examination would be made then to propose to the chamber a new text,
+which while taking into account the legitimate claims of the Chinese, would
+also safeguard the interests of Europeans”. He then concluded that “it seems
+to me that this solution would be a preferable one…In any case, until further
+notice, I order the prosecutions to suspend any proceedings.”84
+
+#### **Conclusion**
+
+Sài Gòn–Chợ Lớn was, and has been, undoubtedly a commercial city. Su
+Lin Lewis, the author of a comparative history of Penang, Bangkok and
+Rangoon, aptly describes these three Southeast Asian port cities as having
+“emerged together out of the winds of commerce, following a lineage of
+cosmopolitan urban life in Southeast Asia that dates back hundreds of
+years”.85 They were participants in a long-established premodern trading
+emporium that constituted what Anthony Reid has dubbed the Southeast
+Asian “Age of Commerce” – the heyday of interregional maritime trade.
+Sài Gòn–Chợ Lớn’s development was inextricably linked to commercial
+activities within this close-knit network of Southeast Asian port cities, and
+its urban histories reflect this fact.86
+
+At the centre of these historical developments stood Chinese migrant
+communities and their commercial networks, which helped transform
+southern Vietnam into a stronghold of French economic interests in
+Southeast Asia. In addition to providing a foundation for the colonial
+extraction of profits, the Chinese rice trade thrust Sài Gòn into the sphere
+of global capitalism. It tested the limits of French economic policies, which
+relied heavily on revenue generated from a Chinese-dominated trade and
+an ideological imperative to make Cochinchina a self-sufficient part of the
+empire independent of the metropolitan budget. French protectionism
+sought to intercept transnational Chinese rice networks and bring them
+under centralised colonial control. But even as it subjected Chinese
+merchants to French administrative formalities, modern standards of
+transparency and systematic registrations, it ultimately still failed to force the Chinese migrants into becoming, as one colonist put it, “lawful subject[s]
+of the colonial state”.87
+
+#### **Acknowledgements**
+
+*I am thankful to Haydon Cherry of Northwestern University for his detailed feedback
+and suggestions on the draft of this article. The staff at the National Library of
+Singapore – especially Joanna Tan and Ang Seow Leng – provided indispensable
+assistance in locating rare materials during my Lee Kong Chian Fellowship tenure. I
+also want to thank Lee Chor Lin for helping me decipher difficult Chinese texts on a
+few occasions and for the company during my stay in Singapore.*
+
 
 
