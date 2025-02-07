@@ -52,6 +52,10 @@ Liu readily acknowledged his influence by modern Western artists.[^10] “Art wa
 Works from Liu’s Paris period in the early 1930s – such as _Autumn Colours_ (1930), _Farmer’s House_ (1930) and _Breakfast_ (1932) – reflect the influence of the abovementioned artists in terms of the “expressiveness of brush strokes, imposing presence of forms, and flattening and merging of planes to construct colour blocks”.[^12] Among the Western artists, Liu admired Matisse greatly.[^13] He regarded the latter, along with Picasso, as the two key artists of 20th-century Western art.[^14] Liu said of Matisse: “My artistic career has been very much influenced by this leader of the Fauvist school. Matisse influenced me in many ways – the pursuit of innovation, the expansion of bold vision and the sublimation of images.”[^15]
 
 
+![](/images/Vol%2021%20Issue%201/Liu%20Kang%20The%20Artist/bridge_autumn.jpg)
+<div><i>Autumn Colours</i>&nbsp;(1930) by Liu Kang, oil on canvas, 36.3&nbsp;×&nbsp;43.9 cm. <i>Collection of National Gallery Singapore, courtesy of National Heritage Board.</i></div>
+
+
 
 ![](/images/Vol%2021%20Issue%201/Liu%20Kang%20The%20Artist/bridge_house.jpg)
 <div><i>Farmer’s House </i> (1930) by Liu Kang, oil on canvas, 44 × 53 cm.    <i>Collection of National Gallery Singapore, courtesy of National Heritage Board.</i></div>
