@@ -709,5 +709,12 @@ assistance in locating rare materials during my Lee Kong Chian Fellowship tenure
 also want to thank Lee Chor Lin for helping me decipher difficult Chinese texts on a
 few occasions and for the company during my stay in Singapore.*
 
+<div>
+<b>Anh Sy Huy Len</b> is an Assistant Professor of History at St. Norbert College, De Pere,
+Wisconsin. He holds a PhD in East Asian history from Michigan State University.
+His research interests include the histories of Chinese migration in French colonial
+Vietnam, colonial capitalism and urban history. Originally from Vietnam, he was
+formerly an SSRC-IDRF and ACLS-Luce Fellow, and has conducted research in China,
+Vietnam and Singapore.</div>
 
 
