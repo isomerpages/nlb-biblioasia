@@ -376,7 +376,168 @@ community history, exposed the ill-conceived nature of French commercial policie
 the colonial approach to the transnational rice trade and the legal statuses of
 this community.
 
+The rice export boom in Cochinchina drew much attention from French
+and British colonists. In 1886, for example, exports rose to a record
+3,480,500 tons, as demand from Hong Kong and Manila continued to rise;
+a local observer reported that “there are no stocks at Chợ Lớn, grain being
+shipped as fast as it arrives”.49 But it was chiefly the Chinese merchants who
+were profiting from this boom. French observers lamented the successive
+bankruptcies of European trading houses in Sài Gòn–Chợ Lớn and their
+comparative disadvantages against Chinese-owned counterparts. On 10 June
+1876, one such firm owned by German proprietors declared its foreclosure,
+citing financial dissolution due to the lack of market price transparency
+and Chinese dealers’ “disinclination to lower their prices in transactions”.50
+Repeated complaints from European merchants about their inability to
+have a fair competition with Chinese-owned trading houses in Chợ Lớn
+preoccupied the Chamber of Commerce’s reports. The French colonial
+government thus found itself trapped between seemingly contradictory
+imperatives: policing Chinese rice merchants while sustaining the extant rice
+networks and continuing to profit from them.
 
+The rice export boom in Cochinchina drew much attention from French
+and British colonists. In 1886, for example, exports rose to a record
+3,480,500 tons, as demand from Hong Kong and Manila continued to rise;
+a local observer reported that “there are no stocks at Chợ Lớn, grain being
+shipped as fast as it arrives”.49 But it was chiefly the Chinese merchants who
+were profiting from this boom. French observers lamented the successive
+bankruptcies of European trading houses in Sài Gòn–Chợ Lớn and their
+comparative disadvantages against Chinese-owned counterparts. On 10 June
+1876, one such firm owned by German proprietors declared its foreclosure,
+citing financial dissolution due to the lack of market price transparency
+and Chinese dealers’ “disinclination to lower their prices in transactions”.50
+Repeated complaints from European merchants about their inability to
+have a fair competition with Chinese-owned trading houses in Chợ Lớn
+preoccupied the Chamber of Commerce’s reports. The French colonial
+government thus found itself trapped between seemingly contradictory
+imperatives: policing Chinese rice merchants while sustaining the extant rice
+networks and continuing to profit from them.
+
+Gerard Sasges, in writing about the early period of French colonial rule,
+also highlights this troublesome start, attributing the underperformance of
+French enterprises to a combination of “incoherent economic policies” and
+“ideological confusion” as well as European merchants’ lack of practical
+local knowledge and funding.51 The central goal of the colonial state during
+this period, he asserts, was to generate revenue for its shrinking budget by
+diversifying from existing Chinese monopolies.52 Yet, diversification was no
+easy feat, if not virtually impossible, for a trade that accounted for more than
+60 percent of total colonial exports. And in the words of Virginia Thompson,
+rice constituted “the sole product, the only article for both consumption and as a medium of exchange, the condition of the country’s prosperity, the
+keystone of Indochina’s economy”.53
+
+In this entrenched commercial structure, Chinese merchants in Chợ Lớn
+and the Mekong Delta had established themselves not only as indispensable
+cooperators, business partners and taxpayers who enriched the colonial
+economy. They also served to link French Indochina’s regional commerce
+to the wider networks of East and Southeast Asian trade. The blossoming
+of Chợ Lớn’s rice milling industry turned this Chinese town into a central
+node where grains were transported to before being exported. It also enabled
+a small group of wealthy Chinese merchants to rise to the top of the social
+pyramid, including, for example, the Teochew Quách Đàm (郭琰 Guo
+Yan, also known as Kwek Siew Tee) and Vĩnh Sanh Chung, the Peranakan
+Hokkien Tjia Mah Yeh (謝媽延), and Jean-Baptiste Hui-Bon-Hoa (黃文華)
+and his family. These men and their business empires controlled most of the
+lucrative trade activities in Sài Gòn.
+
+As Vương Hồng Sển depicts in his memoir of old Sài Gòn, while these
+prominent Chinese merchants engaged in the rice trade, they also branched
+out into industries such as real estate, construction and shipbuilding,
+extending their commercial influence and leaving their imprint on the urban
+landscape.54 Quách Đàm financed the construction of the principal market
+of Bình Tây with funding channelled largely from the success of his rice
+firm, Thông Hiệp, while Hui-Bon-Hoa’s company, Ogliastro, Hui Bon Hoa &amp;
+Co., invested in real estate and dominated the moneylending business in the
+form of pawnshops.55
+
+In particular, Quách Đàm, dubbed the “rice king of Cochinchina”, occupied
+an almost mythical place in the popular consciousness of Chợ Lớn. His
+wealth, political influence and civic contributions were so significant that the
+French colonial government awarded him the coveted Legion of Honour.56
+At 14 years old, he had allegedly hidden himself in a steamship cabin,
+travelling from a derelict town in Chao’an county in eastern Guangdong across the Nanyang (South China Sea) to Sài Gòn in 1877. There, he took
+on all kinds of odd jobs to make ends meet: a coolie boy, junkyard bottle
+collector and food hawker. Despite the floating and irregular nature of
+these jobs, Quách Đàm saved enough money to make a foray into the rice
+business. Taking advantage of the economic opportunities brought about
+by French investment in the port of Sài Gòn–Chợ Lớn, he built the first
+Chinese-owned rice mills in the region, under the banner of his firm,
+Thông Hiệp (Yee Cheong), then located at Quai de Gaudot. According to
+some Chinese sources, by the early 20th century, Thông Hiệp managed to
+accumulate so much capital that he established four additional rice mills
+in Hong Kong, Singapore and Sài Gòn. These mills functioned cohesively
+within Quách Đàm’s transnational business network and generated up to
+30,000 bales of rice a day, accounting for half of Vietnamese rice exports at
+the time.57 When he died in 1927, his elaborate funeral was attended by the
+city’s Chinese, Annamese and European elite. The cortège of “fifty luxurious
+cars” was preceded by a chariot flying a Franco-Chinese flag. Reporting on
+the proceedings, French journalist Georges Manue seized the opportunity to
+extol the benefits of colonial rule: “this is an example of what a Chinese can
+do when he lives under a solid government that guarantees him security and
+opportunities.”58 Posthumous celebrations of Quách Đàm’s legacy glorified
+his active investment in real estate and offshore properties, as well as his
+transformation of Chợ Lớn’s metropolitan area.59 A journalistic account
+indicated that Quách Đàm had shifted the centre of gravity of trade from
+Sài Gòn’s Arroyo Chinois to the Bình Tây market area in Chợ Lớn, and
+speculated that he had done so to overcome French regulations and to bring
+his family-run businesses under centralised control.60
+
+The success stories of Chinese rice merchants in Cochinchina at the dawn
+of the 20th century share a similar narrative arc with those of the Chinese
+diaspora in other parts of Southeast Asia, including Bangkok, Singapore
+and Penang. For instance, the Wang Lee rice firm was founded by Tan Tsu
+Huang, who had arrived in Siam penniless but rose to prominence in the 1900s as the proprietor of two of Bangkok’s largest rice mills, with business
+networks stretching eastward to Hong Kong. Tan also operated junk and
+steamship services that dominated Siam’s early industry.61 In Penang, the
+“Big Five” – a Chinese conglomerate made up of the Tan, Yeoh, Lim, Cheah
+and Khoo families – accumulated enormous wealth in the 19th century
+through various ventures in the Straits Settlements, achieving a high degree
+of “regional economic ascendency”.62 As Yee Tuan Wong demonstrates, the
+Big Five and their associates put Penang’s rice imports largely under their
+control by successfully diverting a portion of Burma’s rice, then effectively
+monopolised by Indian rice traders, “to the southwestern Siamese states,
+North Sumatra, China, and Singapore, at much profit to themselves”.63
+
+Living up to their reputation as transnational capitalists, Chinese
+merchants in Sài Gòn and other port cities operated in what was then
+known as a “Chinese rice circuit”. This involved a dynamic range of interport
+interactions, which defined the global nature of the rice milling and
+exporting businesses. Evidence from the historical newspapers archive at
+the National Library of Singapore suggests a close commercial relationship
+between Chinese merchants in Sài Gòn–Chợ Lớn and Singapore. Quách
+Đàm, for example, opened a branch of his firm Thông Hiệp at 80 Boat Quay,
+Singapore, to facilitate rice trading activities there. This information did not
+show up until 1923, when his British lawyer, Sir A. De Mello, posted a public
+notice in the British colonial press to announce the ownership transfer
+of his joint-stock company to a Singaporean Chinese merchant named
+Tan Eng Kwok.64
+
+Faced with this Chinese-dominated political and economic landscape in Sài
+Gòn–Chợ Lớn, the French revamped their policing apparatus: they sought to implement a protective tariff on rice exports from Sài Gòn’s port and impose
+a heavy poll-tax on “registered” Chinese trading houses. The underlying
+motivation for these moves, besides the fear of Chinese domination of
+the commercial landscape, came from political pressure from European
+firms and lobby groups that wanted to be able to compete with Chinese
+businesses and were demanding a share of the profits from the lucrative
+Cochinchinese trade.
+
+The colonists’ urge to impose high tariffs on the rice trade (or private trade
+at large) must be contextualised within the broader framework of French
+imperial statecraft in the late 19th century. Irene Nørlund describes French
+economic policy starting in the 1880s as “one dominated by protectionism”.65
+It entailed a systematic effort on the part of the colonial state not only to
+“raise protective tariffs against foreign rice in mother country, but also to
+reduce export duties in Cochinchina for rice going to France”.66 With the
+passing of a landmark general tariff law in 1892 known as the Méline Tariff,
+the French raised their tariffs on rice a total of eight times between 1879
+and 1899; such repeated manipulations were meant to direct trade revenues
+towards France and to stifle the Chinese monopoly.67
+As long-time participants in the Asian rice trade, the British followed French
+protectionist policies closely. Sir Alex Gentle, the secretary of the Singapore
+Chamber of Commerce, reported to the colonial secretary of the Settlements
+that additional French duties would have a prohibitory effect on Singapore–
+Sài Gòn trade, warning that “unless some modification or abatement can be
+procured, the flourishing trade between us will be destroyed”.68 Commenting
+on the newly introduced tariff, a British writer characterised French
+protectionism as myopic and impractical:
 
 
 
