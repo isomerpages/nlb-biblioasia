@@ -139,5 +139,30 @@ with the emergence of Sài Gòn as a cosmopolitan coastal city and Chợ
 Lớn as its adjacent Chinatown, the Chinese came to dominate this prized
 segment within the colonial economy of Cochinchina.
 
+#### **Chinese Rice Commerce, Colonial Port City, and the Making of a Trans-regional Trade**
 
+Thomas Engelbert aptly describes the city of Chợ Lớn as the rice capital of
+colonial Cochinchina; the existing Chinese social and commercial structures
+conducive to efficient business-making, and the rapid urbanisation of Sài
+Gòn made Chợ Lớn an important centre of commerce in the Mekong Delta
+trading emporium.17 Two intertwined dimensions account for the rise of Sài
+Gòn–Chợ Lớn: French colonialism and Chinese economic networks.
+
+French colonialism changed the face of both the formerly waterlogged city
+of Sài Gòn and the little town of Chợ Lớn 6 km away. Before the French
+conquest in 1859, Sài Gòn was generally described by local imperial officials
+as naturally well endowed, having benefited from the rich resources of
+the Mekong Delta and its water-based navigational systems. European
+visitors, however, viewed it with much doubt and contempt, seeing it as a
+swampy area with sporadic commercial exchanges and a bleak future for infrastructural development.18 Decades after French efforts to transform
+the region through economic modernisation programmes and public work
+projects, however, British observers presented a different opinion, calling
+Sài Gòn “the Paris of the East” and “the Pearl of the Orient” as they waxed
+lyrical about its exuberant modernity:
+
+   The streets become wider, the houses and shops more resplendent,<br> 
+   and further on, as we approach the beautiful cathedral, we come<br> 
+   across wide boulevards, and pass beautiful residences of the<br> 
+   French inhabitants and fine government buildings… The cost of<br> 
+   living in Sài Gòn must be extremely high.19
 
