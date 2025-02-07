@@ -279,8 +279,7 @@ countryside agents’ operations:
    on a comfortable boat, slinging a bag of piastres in one hand<br> 
    and a game of *baquan* in the other, patiently waiting for the<br> 
    customers, resting assured that the “fish will bite the bait”.<br> 
-   As soon as rice starts to turn yellow, Chinese agents march<br>  
-   through the villages, baiting the farmers by ringing his bags<br> 
+   As soon as rice starts to turn yellow, Chinese agents march<br>  through the villages, baiting the farmers by ringing his bags<br> 
    of coins… The Chinese is then ready to offer his advances. If<br> 
    the Annamite is unable to repay loans at maturity, the Chinese<br> 
    will set a selling price for rice much lower than its real value.<br> 
