@@ -90,3 +90,54 @@ in separate administrative units called Minh Hương Xã or Minh Hương
 villages. Members of Minh Hương Xã, classed as ethnic Chinese, enjoyed
 reduced taxes and access to official court positions, while being exempted
 from mandatory military conscription and forced labour.9
+
+This situation shifted drastically when Gia Long’s son, Emperor Minh
+Mạng (r. 1820–41), pursued aggressive policies to assimilate the Chinese into
+mainstream Vietnamese society. In 1829, Chinese migrants were banned
+from going back to China, and in 1842, they were accorded a different
+immigration status from those arriving later – now designated as the
+immigrant Chinese (*immigrants chinois*).10
+
+Minh Hương as a category thus began to develop new legal connotations.
+Those identified by the imperial court as members of this group now
+included anyone of ethnic Chinese descent, including the offspring of
+Chinese and Vietnamese intermarriages, i.e. *métisses* or mixed race,
+often referred to as Sino-Vietnamese. By joining a Nguyễn-legislated
+association of Minh Hương villages, Chinese settlers were encouraged
+to interact with local villagers and adopt Vietnamese cultural practices.
+For example, Minh Hương children were prohibited from “shaving their
+heads and wearing pigtails… and must be registered as a member of the
+Minh Hương congregation when they reached eighteen and abandon their
+parents’ nationalities”.11
+
+As the Nguyễn polity expanded its territories southward, ongoing
+settlements and economic potential in the Mekong Delta presented
+numerous opportunities for further Chinese migration. Between 1829 and
+1830, just over 1,100 Chinese arrived at the district of Gia Định. From the last two months of 1830 to the first four months of 1831, about 1,640 more settled
+in the area.12
+
+Under the Nguyễn dynasty, Chinese migration and settlement were
+regulated by a system called *bang*, in which the migrants were categorised
+into dialect-based communities. Each *bang* nominated its own head officers
+to communicate with the Nguyễn court on political and economic issues.
+This system of control was perfected under the French when they nominally
+ruled over the southern colony of Cochinchina. The French system, called
+*congrégation*, required all Chinese to be registered and taxed based on their
+place of origin. By 1871, seven native-place associations were recognised by
+colonial law: Canton, Fujian, Hakka, Hainan, Chaozhou (Teochew), Fuzhou
+and Quanzhou.13
+
+The French sought to benefit from the pre-existing Chinese economic
+networks, including their diasporic trade routes and their competitive advantage over indigenous populations in “rice production, fisheries, and
+other staple industries”.14 The Chinese were also valuable intermediaries
+who filled the French coloniser’s manpower needs and provided key sources
+of income to thicken the colonial budget. For example, the Chineseoperated
+opium revenue farms were the financial mainstay of the colonial
+bureaucracy.15 But, as Li Tana remarks, “at the heart of Chinese commerce in
+Vietnam, the rice trade was the main index of Chinese prosperity”.16 Indeed,
+with the emergence of Sài Gòn as a cosmopolitan coastal city and Chợ
+Lớn as its adjacent Chinatown, the Chinese came to dominate this prized
+segment within the colonial economy of Cochinchina.
+
+
+
