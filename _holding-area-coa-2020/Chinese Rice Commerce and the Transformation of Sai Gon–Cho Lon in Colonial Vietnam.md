@@ -359,3 +359,24 @@ became the centre of colonial capital development. From the 1870s, the
 French radically reformulated their economic ideology and approach
 towards colonisation. Their turn to protectionism would collide with the
 business interests of the Chinese.
+
+#### **Chinese Domination of the Rice Trade, French Tariffs, and Transnational Networks in the 1880s**
+
+In the early 1870s, the system of Chinese rice commerce began to come
+into friction with the imperatives of a French colonial state ravenous for
+the enormous profits generated from rice exports and their tax revenues.
+This led to a protracted period of commercial rivalry, in which the French
+sought to gain authoritative control of the rice trade, whose monopolisation
+by the Chinese was deemed to be dangerously unregulated. On their part,
+the Chinese leaders – an increasingly powerful conglomeration made up
+of cosmopolitan capitalists and *congrégation* leaders – mounted strategic
+political opposition.48 These transformative encounters, which remained
+in the shadow of colonial politics and as a little-known story in Chinese
+community history, exposed the ill-conceived nature of French commercial policies and demonstrated Chinese merchants’ critical roles in reorienting
+the colonial approach to the transnational rice trade and the legal statuses of
+this community.
+
+
+
+
+
