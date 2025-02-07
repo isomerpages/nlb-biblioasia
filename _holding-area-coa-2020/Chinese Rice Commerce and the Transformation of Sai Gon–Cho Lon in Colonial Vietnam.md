@@ -301,3 +301,65 @@ countryside agents’ operations:
    constitute a mortgage in the hands of the creditor. If the<br> 
    Annamese do not pay their debt, the Chinese will seize their<br> 
    harvest at record-low pricing.39
+
+The international shipping of rice, too, was handled predominantly by
+Chinese firms. Chinese rice mills in Hong Kong imported primarily Sài
+Gòn’s rice and further processed these grains to achieve a more standardised
+grading in line with Hong Kong’s importance as a global distributor. As
+Hong Kong and Sài Gòn–Chợ Lớn developed an interlinked “rice circuit”,
+there was no need for a standardised grading system to be developed in
+southern Vietnam, which significantly depressed the price of Sài Gòn’s rice
+on the global market and left local rice mills in Vietnam largely performing
+the function of mass production. Mass-produced rice meant that grain and
+rice-storage quality was often neglected in prevailing commercial approaches
+to shipping, which was reflected in the standard practice of “milling on
+arrival”.40 This inattention to quality, combined with the surprising absence of an established freight insurance industry in colonial Vietnam, shifted the
+burdens of taxes and economic losses to the importers rather than milling
+parties if unanticipated risks (usually shipwrecks) were to happen. Disregard
+for rice quality, and the absence of protection and a grade reference system
+were structured around one goal: “exporting as much rice as possible”, as
+Li Tana succinctly puts it.41 According to Ellen Tsao’s estimates, Chinese
+exports accounted for roughly 70 percent of the rice shipping business,
+serving the major markets of Hong Kong, Manila and Singapore. This left
+European firms a much smaller portion of market share, primarily dealing
+with France, the United States, Cuba and Japan.42
+
+Chinese merchants, therefore, controlled the sources of grains, the
+rice mills that made the grains exportable, and the export networks.43
+Pierre Brocheux describes their system as a “pyramid of dependency”,
+characterised by the creation of a usurious market dominated by Chinese
+and Indian moneylenders. This had come about in part because the
+colonial commercialisation of land and expensive infrastructural building
+diminished available credit for agricultural initiatives.44 The Bank of
+Indochina (Banque de l’Indochine) had been created by the colonial state to
+issue the colony’s currency and fund various developmental projects. But it
+was less interested in extending credit to small farmers, who made up the
+majority of the manufacturing workforce, than to the medium and large
+landowners, whose profits remained complicatedly attached to Chineseowned
+rice mills in Chợ Lớn and the exploitation of Vietnamese farmers.
+The Bank, as Gerard Sasges and Scott Cheshier argue, served a crucial
+function that was “to leverage Chinese rather than French capital, diverting
+investment from Chinese enterprises and towards French”.45
+
+The urbanisation of colonial Sài Gòn, in which the rice trade played a critical
+role, attracted Chinese and Vietnamese migrant labour from the countryside
+seeking economic opportunities. The colonial export economy and the
+thriving of the Mekong Delta trade reshaped the economic landscape of Sài
+Gòn in the early 20th century by initiating demand for jobs in production,
+transportation and service industries.46 As a result, as the population of the
+city grew exponentially, the number of Chinese in Chợ Lớn skyrocketed.
+By 1919, there were an estimated 101,427 Chinese in Chợ Lớn (accounting
+for about 37.3 percent of the total population of metropolitan Sài Gòn) – an
+almost 21 percent increase from 1907.47
+
+Sài Gòn’s rapid transformation into a cosmopolitan hub with coexisting
+elements of interethnic interactions and economic modernity engendered
+problems of its own. Political dilemmas arose as a result of the Chinese
+merchants’ monopoly of the rice trade and junk networks, as Sài Gòn
+became the centre of colonial capital development. From the 1870s, the
+French radically reformulated their economic ideology and approach
+towards colonisation. Their turn to protectionism would collide with the
+business interests of the Chinese.
+
+
+
