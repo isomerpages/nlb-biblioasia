@@ -90,4 +90,3 @@ in separate administrative units called Minh Hương Xã or Minh Hương
 villages. Members of Minh Hương Xã, classed as ethnic Chinese, enjoyed
 reduced taxes and access to official court positions, while being exempted
 from mandatory military conscription and forced labour.9
-
