@@ -171,7 +171,10 @@ lyrical about its exuberant modernity:
    French inhabitants and fine government buildings… The cost of<br> 
    living in Sài Gòn must be extremely high.[^19]
 
-The city’s bustling commerce was also noted. Some visitors could not help
+<img src="/images/COA%202020/Chinese%20Rice%20Commerce/The_Southeast_Asian_rice_network.jpg" style="width:50%;">
+ <div style="background-color: white;">The Southeast Asian rice network, c. 1910.</div>	 
+
+The city’s bustling commerce was also noted. [^20] Some visitors could not help
 but compare it to Singapore – then Sài Gòn’s most important trading partner
 but also occasional competitor – and admiringly proclaimed it “a progressive
 city” and “the future queen of the East”.[^21] Reporting on the state of
