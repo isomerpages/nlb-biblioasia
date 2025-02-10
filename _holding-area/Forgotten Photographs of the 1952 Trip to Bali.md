@@ -49,8 +49,8 @@ Liu Kang focused his lens on landscape, architecture and scenes of daily life, a
 
 
 <div style="background-color: #fff6ba; padding:15px; margin: 10px; font-size=120%">
-<img src="/images/Vol%2021%20Issue%201/Badang/keramat_small.jpg" style="width: 25%;"><br>Gretchen Liu’s <i>Bali 1952: Through the Lens of Liu Kang: The Trip to Java and Bali by Four Singapore Pioneering Artists</i> was published in conjunction with the exhibition, <i>Untold Stories: Four Singapore Artists’ Quest for Inspiration in Bali 1952</i>, held at Level 10 of the National Library Building from 14 February to 3 August 2025. The book is available for reference at the Lee Kong Chian Reference Library (call no. RSING xxxx), for loan at selected public libraries (call no. SING xxxx), and for sale at physical and online bookstores. 
-<br><br><br>This is an edited version of “Legendary Figures”, a chapter from <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300071320"><i>Keramat, Sacred Relics and Forbidden Idols in Singapore</i></a> by William L. Gibson (Routledge, 2024). The book is available for reference at the Lee Kong Chian Reference Library (call no. RSING 363.69095957 GIB). </div>
+<img src="/images/Vol%2021%20Issue%201/Badang/keramat_small1.jpg" style="width: 25%;"><br>Gretchen Liu’s <i>Bali 1952: Through the Lens of Liu Kang: The Trip to Java and Bali by Four Singapore Pioneering Artists</i> was published in conjunction with the exhibition, <i>Untold Stories: Four Singapore Artists’ Quest for Inspiration in Bali 1952</i>, held at Level 10 of the National Library Building from 14 February to 3 August 2025. The book is available for reference at the Lee Kong Chian Reference Library (call no. RSING xxxx), for loan at selected public libraries (call no. SING xxxx), and for sale at physical and online bookstores. 
+</div>
 
 
 <div style="background-color: white;">
@@ -66,4 +66,4 @@ Liu Kang focused his lens on landscape, architecture and scenes of daily life, a
 
 [^1]: 
 
-[^1]: 
+[^1]:
