@@ -205,7 +205,7 @@ employed from all parts of Cochinchina,” he wrote, “to pull the entire city
 out of its muddy state and, most importantly, to stimulate its function as a
 port authority with well-operated wharves and smooth-sailing traffic”.[^24]
 
-<img src="/images/COA%202020/Chinese%20Rice%20Commerce/Rice_junks_on_the_Arroyo_Chinois_in_Ch__L_n.jpgi" style="width:80%;">
+<img src="/images/COA%202020/Chinese%20Rice%20Commerce/Rice_junks_on_the_Arroyo_Chinois_in_Ch__L_n.jpg" style="width:80%;">
  <div style="background-color: white;">Rice junks on the Arroyo Chinois in Chợ Lớn, c. 1900. <i>National Archives of Singapore
 (Image no. 19990006455-0094).</i>
 </div>	 
