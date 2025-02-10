@@ -879,45 +879,45 @@ Wong, Yee Tuan. [_Penang Chinese Commerce in the 19th Century: The Rise and Fall
 
 #### **NOTES**
        
-i Tana, “Rice Trade in the 18th and 19th Century Mekong Delta and Its Implications,” in _Thailand and Her Neighbors (II): Laos, Vietnam and Cambodia_, ed. Thanet Arpornsuwan (Bangkok: Thammasat University Press, 1995), 198–214. For a relevant precolonial history that offers important insights into the making of the Chinese trade, see also Li Tana, _Nguyễn Cochinchina: Southern Vietnam in the Seventeenth and Eighteenth Centuries_ (Ithaca, NY: Southeast Asia Program Publications, 1998). For a social history of Sài Gòn and the impact of the rice trade on its residents’ livelihoods, see Haydon Cherry, [_Down and Out in Saigon: Stories of the Poor in a Colonial City_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203934740) (New Haven: Yale University Press, 2019). (Call no. RSEA 305.5690597 CHE)
+[^1]: Li Tana, “Rice Trade in the 18th and 19th Century Mekong Delta and Its Implications,” in _Thailand and Her Neighbors (II): Laos, Vietnam and Cambodia_, ed. Thanet Arpornsuwan (Bangkok: Thammasat University Press, 1995), 198–214. For a relevant precolonial history that offers important insights into the making of the Chinese trade, see also Li Tana, _Nguyễn Cochinchina: Southern Vietnam in the Seventeenth and Eighteenth Centuries_ (Ithaca, NY: Southeast Asia Program Publications, 1998). For a social history of Sài Gòn and the impact of the rice trade on its residents’ livelihoods, see Haydon Cherry, [_Down and Out in Saigon: Stories of the Poor in a Colonial City_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203934740) (New Haven: Yale University Press, 2019). (Call no. RSEA 305.5690597 CHE)
 
-2 Christopher Goscha, [_The Penguin History of Modern Vietnam_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202565314) (London: Allen Lane, 2016), 162. (Call no. RSEA 959.7 GOS)&nbsp;
+[^2]: Christopher Goscha, [_The Penguin History of Modern Vietnam_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202565314) (London: Allen Lane, 2016), 162. (Call no. RSEA 959.7 GOS)&nbsp;
 
-3 Li Tana, “The Chinese in Vietnam,” in _The Encyclopedia of the Chinese Overseas_, ed. Lynn Pan and Chinese Heritage Centre (Singapore) (Cambridge, MA: Harvard University Press, 1999), 228.&nbsp;
+[^3]: Li Tana, “The Chinese in Vietnam,” in _The Encyclopedia of the Chinese Overseas_, ed. Lynn Pan and Chinese Heritage Centre (Singapore) (Cambridge, MA: Harvard University Press, 1999), 228.&nbsp;
 
-4 Charles Wheeler, “Interests, Institutions, and Identity: Strategic Adaptation and the Ethno-evolution of Minh Hương (Central Vietnam), 16th–19th Centuries,” _Itinerario_ 39 (April 2015): 142–43.
+[^4]: Charles Wheeler, “Interests, Institutions, and Identity: Strategic Adaptation and the Ethno-evolution of Minh Hương (Central Vietnam), 16th–19th Centuries,” _Itinerario_ 39 (April 2015): 142–43.
 
-5 Lê Thị Vỹ Phượng, “Người Minh Hương, Dấu Ấn Di Dân và Việt Hóa Qua Một Số Tư Liệu Hán Nôm” \[Minh Hương: A history of immigration and Vietnamisation through selected Sino-Vietnamese documentations\]. _Tạp Chí Khoa Học Xã Hội_ \[Journal of social science research\] 7, no. 179 (2013): 66–67.
+[^5]: Lê Thị Vỹ Phượng, “Người Minh Hương, Dấu Ấn Di Dân và Việt Hóa Qua Một Số Tư Liệu Hán Nôm” \[Minh Hương: A history of immigration and Vietnamisation through selected Sino-Vietnamese documentations\]. _Tạp Chí Khoa Học Xã Hội_ \[Journal of social science research\] 7, no. 179 (2013): 66–67.
 
-6 Trịnh Hoài Đức, _Gia Định Thông Chí, Histoire et Description de La Basse Cochinchine (Pays de Gia Định)_ \[A history and descriptions of the Lower Mekong regions (Gia Định province)\] (Paris: Imprimerie Imperiale, 1864), 10–18.
+[^6]: Trịnh Hoài Đức, _Gia Định Thông Chí, Histoire et Description de La Basse Cochinchine (Pays de Gia Định)_ \[A history and descriptions of the Lower Mekong regions (Gia Định province)\] (Paris: Imprimerie Imperiale, 1864), 10–18.
 
-7 For details, see George Dutton, [_The Tây Son Uprising_: _Society and Rebellion in Eighteenth-Century Vietnam_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12830147) (Honolulu: University of Hawai’i Press, 2006). (Call no. RSEA 959.703 DUT)
+[^7]: For details, see George Dutton, [_The Tây Son Uprising_: _Society and Rebellion in Eighteenth-Century Vietnam_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12830147) (Honolulu: University of Hawai’i Press, 2006). (Call no. RSEA 959.703 DUT)
 
-8 Dutton, [_Tây Son Uprising_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12830147), 32.
+[^8]: Dutton, [_Tây Son Uprising_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12830147), 32.
 
-9 Robert Dubreuil, “De la Condition des Chinois et de leur Rôle Economique en Indochine” (PhD diss., University of Paris, 1910), 12.
+[^9]: Robert Dubreuil, “De la Condition des Chinois et de leur Rôle Economique en Indochine” (PhD diss., University of Paris, 1910), 12.
 
-10 Choi Byung Wook, _Southern Vietnam under the Reign of Minh Mạng (1820–1841): Central Policies and Local Response_, Southeast Asia Program Series, no. 20 (Ithaca, NY: Southeast Asia Program Publications, Southeast Asia Program, Cornell University, 2004), 147.
+[^10]: Choi Byung Wook, _Southern Vietnam under the Reign of Minh Mạng (1820–1841): Central Policies and Local Response_, Southeast Asia Program Series, no. 20 (Ithaca, NY: Southeast Asia Program Publications, Southeast Asia Program, Cornell University, 2004), 147.
 
-11 Nguyễn Thế Anh, _Kinh Tế và Xã Hội Việt Nam dưới Các Vua Triều Nguyễn_ \[The Vietnamese economy and society under the Nguyễn King\] (Saigon: Lửa Thiêng, 1968), 42–50.&nbsp;
+[^11]: Nguyễn Thế Anh, _Kinh Tế và Xã Hội Việt Nam dưới Các Vua Triều Nguyễn_ \[The Vietnamese economy and society under the Nguyễn King\] (Saigon: Lửa Thiêng, 1968), 42–50.&nbsp;
 
-12 Nguyễn Thế Anh, “L’immigration chinoise et la colonisation du delta du Mékong,” _Vietnam Review_ 1 (Autumn–Winter 1996): 154–77.
+[^12]: Nguyễn Thế Anh, “L’immigration chinoise et la colonisation du delta du Mékong,” _Vietnam Review_ 1 (Autumn–Winter 1996): 154–77.
 
-13 Tracy C. Barrett, [_The Chinese Diaspora in South-East Asia: The Overseas Chinese in IndoChina_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14326164), Library of China Studies (London: Tauris, 2012), 13–14. (Call no. RSING 305.8951059 BAR)
+[^13]: Tracy C. Barrett, [_The Chinese Diaspora in South-East Asia: The Overseas Chinese in IndoChina_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14326164), Library of China Studies (London: Tauris, 2012), 13–14. (Call no. RSING 305.8951059 BAR)
 
-14 Barrett, [_Chinese Diaspora_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14326164), 23.
+[^14]: Barrett, [_Chinese Diaspora_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14326164), 23.
 
-15 Li, “Chinese in Vietnam,” 1999.
+[^15]: Li, “Chinese in Vietnam,” 1999.
 
-16 Li, “Chinese in Vietnam,” 1999.
+[^16]: Li, “Chinese in Vietnam,” 1999.
 
-17 Thomas Engelbert, “Chinese Politics in Colonial Saigon: The Case of the Guomindang,” _Chinese Southern Diaspora Studies_ 4 (2010): 96. Other notable works that highlight the making of Sài Gòn–Chợ Lớn as the centre of rice commerce in southern Vietnam include Nola Cooke and Li Tana, eds., [_Water Frontier: Commerce and the Chinese in the Lower Mekong Region, 1750–1880_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12413463), World Social Change (Singapore: Singapore University Press; Lanham, MD: Rowman &amp; Littlefield, 2004). (Call no. RSING 380.10899510597 WAT) Specifically on the importance of the Mekong Delta rice trade, see Sơn Nam, _Đất Gia Định Xưa_ \[A history of Gia Định\] (T.P. Hồ Chí Minh: Nhà Xuất Bản Thành Phố Hồ Chí Minh, 1984); Li Tana, “Rice Trade in the 18th and 19th Century Mekong Delta,” 198–214.&nbsp;
+[^17]: Thomas Engelbert, “Chinese Politics in Colonial Saigon: The Case of the Guomindang,” _Chinese Southern Diaspora Studies_ 4 (2010): 96. Other notable works that highlight the making of Sài Gòn–Chợ Lớn as the centre of rice commerce in southern Vietnam include Nola Cooke and Li Tana, eds., [_Water Frontier: Commerce and the Chinese in the Lower Mekong Region, 1750–1880_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12413463), World Social Change (Singapore: Singapore University Press; Lanham, MD: Rowman &amp; Littlefield, 2004). (Call no. RSING 380.10899510597 WAT) Specifically on the importance of the Mekong Delta rice trade, see Sơn Nam, _Đất Gia Định Xưa_ \[A history of Gia Định\] (T.P. Hồ Chí Minh: Nhà Xuất Bản Thành Phố Hồ Chí Minh, 1984); Li Tana, “Rice Trade in the 18th and 19th Century Mekong Delta,” 198–214.&nbsp;
 
-18 See Raoul Postel, _A Travers la Cochinchine_ (Paris: Challamel Aine, 1887), 80–99; Jean Bouchot, _Documents pour servir à l’histoire de Sài Gòn, 1859–1865_ (Sài Gòn: Albert Portail, 1927).
+[^18]: See Raoul Postel, _A Travers la Cochinchine_ (Paris: Challamel Aine, 1887), 80–99; Jean Bouchot, _Documents pour servir à l’histoire de Sài Gòn, 1859–1865_ (Sài Gòn: Albert Portail, 1927).
 
-19 “The Parts of the East: The Frenchman’s Home in Sài Gòn,” _North-China Herald and Supreme Court &amp; Consular Gazette (1870–1941)_, 16 August 1919.
+[^19]: “The Parts of the East: The Frenchman’s Home in Sài Gòn,” _North-China Herald and Supreme Court &amp; Consular Gazette (1870–1941)_, 16 August 1919.
 
-20 A. J. H. Latham, “From Competition to Constraint: The International Rice Trade in the Nineteenth and Twentieth Centuries,” _Business and Economic History_ 17 (1988): 92. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^20]: A. J. H. Latham, “From Competition to Constraint: The International Rice Trade in the Nineteenth and Twentieth Centuries,” _Business and Economic History_ 17 (1988): 92. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
 21 Such positive views of modernised Sài Gòn could be found in the rare accounts of itinerant Chinese merchants on their visits to the city to establish business connections in the 1880s. A Hokkien merchant, Tan Siu Eng (陳琇榮) from Batavia, described the “harmonisation of French rule”, which made Sài Gòn by no means inferior to Singapore or Hong Kong. See Claudine Salmon and Tạ Trọng Hiệp, “Wang Annan Riji: A Hokkien Literatus Visits Saigon (1890),” _Chinese Southern Diaspora Studies_ 4 (2010): 74–88.
 
