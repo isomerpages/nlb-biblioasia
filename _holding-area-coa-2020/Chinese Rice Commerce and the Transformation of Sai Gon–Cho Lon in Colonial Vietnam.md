@@ -205,6 +205,11 @@ employed from all parts of Cochinchina,” he wrote, “to pull the entire city
 out of its muddy state and, most importantly, to stimulate its function as a
 port authority with well-operated wharves and smooth-sailing traffic”.[^24]
 
+<img src="/images/COA%202020/Chinese%20Rice%20Commerce/Rice_junks_on_the_Arroyo_Chinois_in_Ch__L_n.jpgi" style="width:80%;">
+ <div style="background-color: white;">Rice junks on the Arroyo Chinois in Chợ Lớn, c. 1900. <i>National Archives of Singapore
+(Image no. 19990006455-0094).</i>
+</div>	 
+
 Specifically for the Cochinchinese rice trade, this period of feverish
 construction improved existing waterways, initiated new agricultural zones,
 and therefore accommodated rice cultivation by Vietnamese settlers along
@@ -246,7 +251,12 @@ assembled and popularised by a Chinese merchant there.[^32] In 1906 and
 1907, two large rice mills in Chợ Lớn – Ban Tek Guan and Ban Hong Guan
 – struck a deal with the engineering firm Messrs. Riley, Hargreaves and
 Co. to provide extensive electrical installation for their mills, and to supply
-“the dynamo as well as the other gear”.[^33] The Singapore-based British firm claimed that their electrical engines would be “more than sufficient to run
+“the dynamo as well as the other gear”.[^33] The Singapore-based British firm 
+
+<img src="/images/COA%202020/Chinese%20Rice%20Commerce/Inside_a_rice_mill_in_Ch__L_n_.jpg" style="width:80%;">
+ <div style="background-color: white;">Inside a rice mill in Chợ Lớn, c. 1920. <i>L’Association des Amis du Vieux Huế (AAVH).</i>
+</div>	
+claimed that their electrical engines would be “more than sufficient to run
 over 600 lamps of 16 candle power in addition to several arc lamps”.[^34]
 
 By the late 19th century, the Chinese owned the majority of Cochin-chinese
