@@ -2,6 +2,7 @@ collections:
   apr-to-jun-2025:
     output: true
     order:
+      - A Bridge Between East and West.md
       - "Signs of Progress: Deaf Education in Singapore.md"
       - "The Liu Kang Collection: A Portrait of the Artist as a Young Man.md"
       - The Search for Home, Truly (and Other National Day Songs).md
