@@ -19,7 +19,11 @@ and memory in a moving show, <em>Don't Call Him Mr. Mari Kita. </em>Performances
 were sold out in 2022 and 2024. In this episode, Julian tells us the challenges
 of putting up the show, including the research and transcription, and reveals
 if he’s a Swiftie.</p>
-<h4><br><strong>Listen to the Full Episode</strong></h4>
+<h4></h4>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ria9ywPGiKM"></iframe>
+</div>
+<h4><strong>Listen to the Full Episode</strong></h4>
 <p>Available on: <a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener nofollow" target="_blank"><u>Spotify</u></a>,
 <a href="https://podcasts.apple.com/us/podcast/biblioasia/id1688142751" rel="noopener nofollow" target="_blank"><u>Apple Podcasts</u> 
 </a>, <a href="https://www.melisten.sg/podcast/playlist/BiblioAsia+-2115156" rel="noopener nofollow" target="_blank"><u>melisten</u></a>.</p>

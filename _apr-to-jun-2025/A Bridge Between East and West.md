@@ -1,6 +1,6 @@
 ---
 title: A Bridge Between East and West
-permalink: /holding-area/vol-21/issue-1/apr-jun-2025/a-bridge-between-east-and-west/
+permalink: /vol-21/issue-1/apr-jun-2025/liu-kang-bridge-east-west/
 variant: markdown
 description: ""
 ---
@@ -31,6 +31,10 @@ In 1933, Liu returned to China and taught Western painting at the Shanghai Acade
 
 In 2003, Liu donated his life’s works to the Singapore Art Museum. For his contributions to the Singapore art scene as artist, teacher and writer, Liu received the Bintang Bakti Masyarakat (Public Service Star) and Pingat Jasa Gemilang (Meritorious Service Medal) in 1970 and 1996 respectively. He died in 2004.
 
+![](/images/Vol%2021%20Issue%201/Liu%20Kang%20The%20Artist/bridge_bintang.jpg)
+<div>Liu Kang receiving the Bintang Bakti Masyarakat (Public Service Star) from President Benjamin Sheares, 1970. <i>Liu Kang Collection, National Library Singapore. </i></div>
+
+
 #### **Inspiration from the West**
 
 Liu’s interest and engagement with the West was an enduring one, spanning his years in Shanghai to his time in Paris and, later, Singapore. His lifelong interest in Western art probably started when his primary school teacher in Muar, recognising his love for art, gave him a book of reproductions of Western art. Liu spent many happy hours copying artworks from the book.[^6]
@@ -46,6 +50,10 @@ After graduating from the Xinhua Academy of Fine Arts in 1928, Liu left for Pari
 Liu readily acknowledged his influence by modern Western artists.[^10] “Art was a subject I did well in school,” he said. “I started on pencil drawings and was weaned on Western art. In my paintings, you can detect my debt to Van Gogh, Matisse and Gauguin; I was an earnest student of their styles. They are vigorously descriptive, with a strong sense of space and perspective.”[^11]
 
 Works from Liu’s Paris period in the early 1930s – such as _Autumn Colours_ (1930), _Farmer’s House_ (1930) and _Breakfast_ (1932) – reflect the influence of the abovementioned artists in terms of the “expressiveness of brush strokes, imposing presence of forms, and flattening and merging of planes to construct colour blocks”.[^12] Among the Western artists, Liu admired Matisse greatly.[^13] He regarded the latter, along with Picasso, as the two key artists of 20th-century Western art.[^14] Liu said of Matisse: “My artistic career has been very much influenced by this leader of the Fauvist school. Matisse influenced me in many ways – the pursuit of innovation, the expansion of bold vision and the sublimation of images.”[^15]
+
+
+![](/images/Vol%2021%20Issue%201/Liu%20Kang%20The%20Artist/bridge_autumn.jpg)
+<div><i>Autumn Colours</i>&nbsp;(1930) by Liu Kang, oil on canvas, 36.3&nbsp;×&nbsp;43.9 cm. <i>Collection of National Gallery Singapore, courtesy of National Heritage Board.</i></div>
 
 
 
@@ -79,13 +87,17 @@ In the past, Chinese painting was traditionally taught by making students copy t
 
 Common teaching methods included using pencil, charcoal, watercolour and oils for drawing from plaster casts, still-life and nude studies, and painting from nature.[^23] Concurrently, these art academies continued to teach Chinese ink painting. However, Western art, with its structured methodology of instruction, was easier to teach. Hence, the academies tended to start with Western art as a foundation course. Chinese art was deemed more conceptual and therefore usually offered at the advanced level. This marked a new generation of artists who were more distanced from Chinese art. However, they were also the first who were at least familiar with, if not proficient in, both Western and Chinese art traditions.[^24]
 
-With such a bicultural foundation, Liu often sought to imbue a sense of Chinese identity in his Western oil paintings.[^25] He said: “I am an Oriental… When I pick up a brush, the forms and artistry which flow out from my hand are discernibly different from a Westerner.”[^26] On another occasion, he said: “I have tried to reveal the robust spirit, profound content and refined taste of her \[China’s\] culture in my paintings.”[^27] This was also something that Liu’s mentor, Liu Haisu (刘海粟), constantly urged his students to do, which was to “paint Western art through Chinese eyes and feelings”.[^28]
+With such a bicultural foundation, Liu often sought to imbue a sense of Chinese identity in his Western oil paintings.[^25] He said: “I am an Oriental… When I pick up a brush, the forms and artistry which flow out from my hand are discernibly different.”[^26] On another occasion, he said: “I have tried to reveal the robust spirit, profound content and refined taste of her \[China’s\] culture in my paintings.”[^27] This was also something that Liu’s mentor, Liu Haisu (刘海粟), constantly urged his students to do, which was to “paint Western art through Chinese eyes and feelings”.[^28]
 
 Liu sought to achieve this on two levels. First, he avoided reworking his canvases as much as possible to retain an air of spontaneity, a quality much admired in “写意” (_xieyi_) painting. Liu’s son, Liu Thai Ker, an architect and former master planner of the Urban Redevelopment Authority of Singapore, said of his father’s method of painting: “He could spend many more days staring at the canvas, just constructing the entire painting in his mind, including the use of colours and the application of brushstrokes. The actual execution of the painting normally takes up a relatively short time and involves little working over. The discipline is not unlike that of a Chinese painter, in the sense that once a line or a patch of colour is put down on the paper, it is final and beyond correction. Thus, spontaneity is preserved, the freshness and boldness captured.”[^29]
 
 Liu also paid increasing attention to the use of lines in his paintings. Upon his return to China from Paris in 1933, Liu started studying Chinese painting and calligraphy with a new intensity. “\[He\] combined Chinese brush technique with an Impressionist palette to convey the ephemeral effect of light on his landscapes… There was a tentative effort at delineating objects with dark lines which, at a later stage, was to become a dominant feature in his work.”[^30]
 
 As observed by art historian Kwok Kian Chow, when comparing three of Liu’s works, a gradual thickening of outlines in defining object and spaces could be discerned, “suggesting an affiliation with the linear brush quality of Chinese ink painting”.[^31] Kwok further noted: “In the 1940s, Liu was infusing his oil paintings with Chinese ink brushwork and particularly the abbreviated and caricature-like descriptive brushwork of folk genre paintings.”[^32] In Liu’s paintings such as _Durian Vendor_ (1957), _Sarongs_ (1969) and _Life by the River_ (1975), there is an evident use of black or dark outlines to accentuate forms, and convey a sense of liveliness.
+
+![](/images/Vol%2021%20Issue%201/Liu%20Kang%20The%20Artist/bridge_sarongs.jpg)
+<div><i>Sarongs</i> (1969) by Liu Kang, oil on canvas,&nbsp;98 × 131 cm. Gift of Goldman Sachs and Company.  <i>Collection of National Gallery Singapore, courtesy of National Heritage Board.</i></div>
+
 
 ![](/images/Vol%2021%20Issue%201/Liu%20Kang%20The%20Artist/bridge_durian.jpg)
 <div><i>Durian Vendor</i>  (1957) by Liu Kang, oil on board, 47.5 × 119.5 cm. Gift of the artist’s family. <i>Collection of National Gallery Singapore, courtesy of National Heritage Board.  </i></div>
@@ -149,7 +161,7 @@ The study of modern Asian art is complex. Artists like Liu grappled with the for
 	
 [^9]: Chia, “[Introduction](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8726393),” 15.
 	
-[^10]: This has also been noted by other commentators such as the artist Pan Shou and art promoter Frank Sullivan, who mentioned Liu Kang’s admiration of Cézanne, Gauguin, Utrillo, Dufy and, particularly, Van Gogh and Matisse. See Liu Kang 刘抗, [刘抗画集](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13066041) \[Collection of Liu Kang’s paintings\] (\[Singapore: n.p., 1957), x. (From National Library Singapore, call no. RCLOS 759.95957 LK-\[LK\])
+[^10]: This has also been noted by other commentators such as the artist Pan Shou and art promoter Frank Sullivan, who mentioned Liu Kang’s admiration of Cézanne, Gauguin, Utrillo, Dufy and, particularly, Van Gogh and Matisse. See Liu Kang 刘抗, [刘抗画集](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13066041) \[Collection of Liu Kang’s paintings\] (Singapore: n.p., 1957), n.p. (From National Library Singapore, call no. RCLOS 759.95957 LK-\[LK\])
 
 	
 [^11]: Richard Lim, ed., [_Singapore Artists Speak_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6805774) (Singapore: C.H. Yeo, 1990), 68. (From National Library Singapore, call no. RSING 709.5957 SIN)
@@ -181,9 +193,9 @@ The study of modern Asian art is complex. Artists like Liu grappled with the for
 	
 [^24]: Ong Zhen Min, “A History of the Nanyang Academy of Fine Arts (1938–1990)” (Master’s thesis, National University of Singapore, 2006), 26–30, [http://scholarbank.nus.edu.sg/handle/10635/15776](http://scholarbank.nus.edu.sg/handle/10635/15776).
 	
-[^25]: Liu Kang once said, “China has remained my artistic vision… I am always conscious of the vastness of the country, the sense of scale, the depth of vision, the inner strength and greatness which characterise Chinese culture and art.” Quoting from Gretchen Mahbubani, “[Journey of a Pioneer Artist](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19811201-1.2.138.2),” _Straits Times_, 1 December 1981, 1. (From NewspaperSG), in Liu, [_Liu Kang at 87_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8726393)_, x._
+[^25]: Liu Kang once said that&nbsp;China had remained the source of his artistic vision and that he was always conscious of the vastness of the country, the sense of scale, the depth of vision, the inner strength and greatness which characterise Chinese culture and art.” See Gretchen Mahbubani, “[Journey of a Pioneer Artist](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19811201-1.2.138.2 "https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19811201-1.2.138.2"),”&nbsp;_Straits Times_, 1 December 1981, 1 (From NewspaperSG)
 	
-[^26]: Quoting from “Postscript,” in Liu Kang, [_The Paintings of Liu Kang_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5563367) (Singapore: National Museum, Singapore, 1981), x. (From National Library Singapore, call no. RCLOS 759.95957 LIU); Chia, “[Introduction](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8726393),” 17. &nbsp;
+[^26]: Quoting from “Postscript,” in Liu Kang, [_The Paintings of Liu Kang_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5563367) (Singapore: National Museum, Singapore, 1981), n.p. (From National Library Singapore, call no. RCLOS 759.95957 LIU); Chia, “[Introduction](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8726393),” 17. &nbsp;
 	
 [^27]: Liu, [_Liu Kang at 87_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8726393), 27
 	
