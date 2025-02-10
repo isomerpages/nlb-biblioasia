@@ -5,6 +5,11 @@ description: ""
 third_nav_title: People
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/liu-kang-bridge-east-west/">A Bridge Between East and West</a>
+ <p>Liu Kang’s works show the influence of Western artists such as Cézanne, Gauguin, Van Gogh and Matisse, as well as the tradition of Chinese ink painting.</p> 
+<img src="/images/Vol%2021%20Issue%201/Liu%20Kang%20The%20Artist/bridge_facing.jpg" style="width:100%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/liu-kang-collection/">The Liu Kang Collection: A Portrait of the Artist as a Young Man”</a>
 
 The Liu Kang Collection at the National Library Singapore provides an intimate look at the creative process of one of Singapore’s most celebrated artists.
