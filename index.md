@@ -17,6 +17,17 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 20 Issue 4/Opium/HeroImage_opium_2.jpg
   - infopic:
+      title: "Signs of Progress: Deaf Education in Singapore"
+      subtitle: Education
+      id: infopic
+      description: The first school for the deaf in Singapore was established in 1954,
+        paving the way for deaf education and the development of Singapore Sign
+        Language.
+      button: LEARNING TO SIGN
+      url: /vol-21/issue-1/apr-jun-2025/deaf-education-singapore-sign-language/
+      image: /images/Vol 21 Issue 1/Deaf Education/deaf_education_Topic.jpg
+      alt: deaf education
+  - infopic:
       title: "Rites of Rehabilitation: The Social Work of the Zhenkongjiao"
       subtitle: Culture
       id: infopic
@@ -1218,15 +1229,4 @@ sections:
       image: /images/Vol 19 Issue 4/An Interview with Rachel Heng/book
         cover_homepage3.jpg
       alt: The Great Reclamation
-  - infopic:
-      title: "Signs of Progress: Deaf Education in Singapore"
-      subtitle: Education
-      id: infopic
-      description: The first school for the deaf in Singapore was established in 1954,
-        paving the way for deaf education and the development of Singapore Sign
-        Language.
-      button: LEARNING TO SIGN
-      url: /vol-21/issue-1/apr-jun-2025/deaf-education-singapore-sign-language/
-      image: /images/Vol 21 Issue 1/Deaf Education/deaf_education_Topic.jpg
-      alt: deaf education
 ---
