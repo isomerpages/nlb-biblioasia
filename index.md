@@ -1228,5 +1228,5 @@ sections:
       button: LEARNING TO SIGN
       url: /vol-21/issue-1/apr-jun-2025/deaf-education-singapore-sign-language/
       image: /images/Vol 21 Issue 1/Deaf Education/deaf_education_Topic.jpg
-      alt: Image alt text
+      alt: deaf education
 ---
