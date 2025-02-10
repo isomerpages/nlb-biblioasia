@@ -919,65 +919,65 @@ Wong, Yee Tuan. [_Penang Chinese Commerce in the 19th Century: The Rise and Fall
 
 [^20]: A. J. H. Latham, “From Competition to Constraint: The International Rice Trade in the Nineteenth and Twentieth Centuries,” _Business and Economic History_ 17 (1988): 92. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-21 Such positive views of modernised Sài Gòn could be found in the rare accounts of itinerant Chinese merchants on their visits to the city to establish business connections in the 1880s. A Hokkien merchant, Tan Siu Eng (陳琇榮) from Batavia, described the “harmonisation of French rule”, which made Sài Gòn by no means inferior to Singapore or Hong Kong. See Claudine Salmon and Tạ Trọng Hiệp, “Wang Annan Riji: A Hokkien Literatus Visits Saigon (1890),” _Chinese Southern Diaspora Studies_ 4 (2010): 74–88.
+[^21]: Such positive views of modernised Sài Gòn could be found in the rare accounts of itinerant Chinese merchants on their visits to the city to establish business connections in the 1880s. A Hokkien merchant, Tan Siu Eng (陳琇榮) from Batavia, described the “harmonisation of French rule”, which made Sài Gòn by no means inferior to Singapore or Hong Kong. See Claudine Salmon and Tạ Trọng Hiệp, “Wang Annan Riji: A Hokkien Literatus Visits Saigon (1890),” _Chinese Southern Diaspora Studies_ 4 (2010): 74–88.
 
-22 “[Progressive Saigon](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19090120-1.2.79),” _Straits Times_, 20 January 1909, 7, (From NewspaperSG)
+[^22]: “[Progressive Saigon](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19090120-1.2.79),” _Straits Times_, 20 January 1909, 7, (From NewspaperSG)
 
-23 “[La Vie Saigonnaise](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19020618-1.2.3),” _Straits Times_, 18 June 1902, 2. (From NewspaperSG)
+[^23]: “[La Vie Saigonnaise](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19020618-1.2.3),” _Straits Times_, 18 June 1902, 2. (From NewspaperSG)
 
-24 Gouvernement Général de l’Indochine, _Exposition Coloniale Internationale_ (Paris: Indochine Française, 1931), 31–32.
+[^24]: Gouvernement Général de l’Indochine, _Exposition Coloniale Internationale_ (Paris: Indochine Française, 1931), 31–32.
 
-25 A. J. H. Latham and Larry Neal, “The International Market in Rice and Wheat, 1868–1914,” _Economic History Review_ 36, no. 2 (1983): 262. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^25]: A. J. H. Latham and Larry Neal, “The International Market in Rice and Wheat, 1868–1914,” _Economic History Review_ 36, no. 2 (1983): 262. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-26 Haydon Cherry, “Down and Out in Sài Gòn: A Social History of the Poor in a Colonial City, 1860–1940” (PhD diss., Yale University, 2011), 31–35.
+[^26]: Haydon Cherry, “Down and Out in Sài Gòn: A Social History of the Poor in a Colonial City, 1860–1940” (PhD diss., Yale University, 2011), 31–35.
 
-27 Albert Coquerel, _Paddys et Riz de Cochinchine_ (Lyon: A. Rey, 1911), appendix, tables VIII, IX.&nbsp;
+[^27]: Albert Coquerel, _Paddys et Riz de Cochinchine_ (Lyon: A. Rey, 1911), appendix, tables VIII, IX.&nbsp;
 
-28 Nguyễn Phan Quang, _Góp thêm tư liệu Sài Gòn-Gia Định, 1859–1945_ \[Further contribution to Sài Gòn-Gia Định documentation, 1859–1945\] (T.P. Hồ Chí Minh: Nhà Xuất Bản Trẻ, 1998), 15–19.
+[^28]: Nguyễn Phan Quang, _Góp thêm tư liệu Sài Gòn-Gia Định, 1859–1945_ \[Further contribution to Sài Gòn-Gia Định documentation, 1859–1945\] (T.P. Hồ Chí Minh: Nhà Xuất Bản Trẻ, 1998), 15–19.
 
-29 Engelbert, “Chinese Politics in Colonial Saigon,” 98.
+[^29]: Engelbert, “Chinese Politics in Colonial Saigon,” 98.
 
-30 Clifton Gilbert Barton, “Credit and Commercial Control: Strategies and Methods of Chinese Businessmen in South Vietnam” (PhD diss., Cornell University, 1977).
+[^30]: Clifton Gilbert Barton, “Credit and Commercial Control: Strategies and Methods of Chinese Businessmen in South Vietnam” (PhD diss., Cornell University, 1977).
 
-31 Barton, “Credit and Commercial Control,” 85.
+[^31]: Barton, “Credit and Commercial Control,” 85.
 
-32 Trần Khánh, _Người Hoa trong Xã Hội Việt Nam: Thời Pháp Thuộc và dưới Chế Độ Sài Gòn_ \[Ethnic Chinese in Vietnamese society: Under French domination and the Sài Gòn regime\] (Hà Nội: Nhà Xuất Bản Khoa Học Xã Hội, 2002), 217.
+[^32]: Trần Khánh, _Người Hoa trong Xã Hội Việt Nam: Thời Pháp Thuộc và dưới Chế Độ Sài Gòn_ \[Ethnic Chinese in Vietnamese society: Under French domination and the Sài Gòn regime\] (Hà Nội: Nhà Xuất Bản Khoa Học Xã Hội, 2002), 217.
 
-33 “[Rice Mill Electric Installation](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19070115-1.2.68),” _Straits Times_, 15 January 1907, 7. (From NewspaperSG)
+[^33]: “[Rice Mill Electric Installation](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19070115-1.2.68),” _Straits Times_, 15 January 1907, 7. (From NewspaperSG)
 
-34 “[A Fine Electrical Installation at Cholon](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19070116-1.2.36),” _Singapore Free Press and Mercantile Advertiser_, 16 January 1907. (From NewspaperSG)
+[^34]: “[A Fine Electrical Installation at Cholon](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19070116-1.2.36),” _Singapore Free Press and Mercantile Advertiser_, 16 January 1907. (From NewspaperSG)
 
-35 Sơn Nam, _Đất Gia Định Xưa_,120.
+[^35]: Sơn Nam, _Đất Gia Định Xưa_,120.
 
-36 Trần Khánh, _Người Hoa trong Xã Hội Việt Nam_, 219.
+[^36]: Trần Khánh, _Người Hoa trong Xã Hội Việt Nam_, 219.
 
-37 Nguyễn Văn Nghi, _Etudes Economique sur la Cochinchine Française_ (Montpellier: Impr. Firmin et Montane, 1920), 53–54.
+[^37]: Nguyễn Văn Nghi, _Etudes Economique sur la Cochinchine Française_ (Montpellier: Impr. Firmin et Montane, 1920), 53–54.
 
-38 Scholars have elaborated on the Vietnamese farmers’ uninformed decisions to engage in grain sales with Chinese rice dealers as the consequence of Chinese monopoly. During the colonial period, many Chinese brokers concealed market prices, as a widespread practice, only to publicly declare them right before or after a principal market was closed. This left farmers even more vulnerable to the unpredictability of price oscillations. The French colonial government was fully aware of this profit-extracting “malpractice”; on occasion they attempted to crack down on it, by taking advantage of modern telegraphic technology to send pricing information to the chiefs of towns, where it was mandatorily posted in the marketplace. However, many Chinese preempted this move, using their personal connections with these chiefs or the local farmers to convince them to sell grains early. For the most extensive treatment of this point, see the chapter “The Monoculture of Rice” in Pierre Brocheux, [_The Mekong Delta: Ecology, Economy, and Revolution, 1860–1960_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13111553), Monograph 12 (Madison: Center for Southeast Asian Studies, University of Wisconsin-Madison, 1995), 67. (Call no. RSEA 330.9597 BRO)
+[^38]: Scholars have elaborated on the Vietnamese farmers’ uninformed decisions to engage in grain sales with Chinese rice dealers as the consequence of Chinese monopoly. During the colonial period, many Chinese brokers concealed market prices, as a widespread practice, only to publicly declare them right before or after a principal market was closed. This left farmers even more vulnerable to the unpredictability of price oscillations. The French colonial government was fully aware of this profit-extracting “malpractice”; on occasion they attempted to crack down on it, by taking advantage of modern telegraphic technology to send pricing information to the chiefs of towns, where it was mandatorily posted in the marketplace. However, many Chinese preempted this move, using their personal connections with these chiefs or the local farmers to convince them to sell grains early. For the most extensive treatment of this point, see the chapter “The Monoculture of Rice” in Pierre Brocheux, [_The Mekong Delta: Ecology, Economy, and Revolution, 1860–1960_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13111553), Monograph 12 (Madison: Center for Southeast Asian Studies, University of Wisconsin-Madison, 1995), 67. (Call no. RSEA 330.9597 BRO)
 
-39 H. L. Jammes, _Souvenir du Pays d’Annam_ (Paris: A. Challamel, 1900).
+[^39]: H. L. Jammes, _Souvenir du Pays d’Annam_ (Paris: A. Challamel, 1900).
 
-40 “M. Rolland Président de la Chambre de Commerce à Monsieur le Lieutenant-Gouverneur de la Cochinchine,” GOUCOCH L.13 N5554, TTLTQG-II, HCMC, 20 July 1893. “Milling on arrival” was a method often practised by Chinese millers in Sài Gòn–Chợ Lớn wherein even though a rice order had been made by a corporate client, millers would not start processing rice until export ships arrived in Chợ Lớn in order to cut storage costs, oftentimes resulting in less refined, low-quality grains.
+[^40]: “M. Rolland Président de la Chambre de Commerce à Monsieur le Lieutenant-Gouverneur de la Cochinchine,” GOUCOCH L.13 N5554, TTLTQG-II, HCMC, 20 July 1893. “Milling on arrival” was a method often practised by Chinese millers in Sài Gòn–Chợ Lớn wherein even though a rice order had been made by a corporate client, millers would not start processing rice until export ships arrived in Chợ Lớn in order to cut storage costs, oftentimes resulting in less refined, low-quality grains.
 
-41 Li Tana, “Saigon’s Rice Export and Chinese Rice Merchants from Hong Kong, 1870s–1920s,” in _Vietnam’s Ethnic and Religious Minorities: A Historical Perspective_, ed. Thomas Engelbert (Frankfurt am Main: Peter Lang, 2016), 33.
+[^41]: Li Tana, “Saigon’s Rice Export and Chinese Rice Merchants from Hong Kong, 1870s–1920s,” in _Vietnam’s Ethnic and Religious Minorities: A Historical Perspective_, ed. Thomas Engelbert (Frankfurt am Main: Peter Lang, 2016), 33.
 
-42 Ellen Tsao, “Chinese Rice Millers and Merchants in French Indochina,” _Chinese Economic Journal_ 6 (December 1932): 460–61.
+[^42]: Ellen Tsao, “Chinese Rice Millers and Merchants in French Indochina,” _Chinese Economic Journal_ 6 (December 1932): 460–61.
 
-43 Nguyễn Đức Hiệp, _Sài Gòn Chợ Lớn: Qua Những Tư Liệu Quý Trước 1945_ \[Sài Gòn–Chợ Lớn: Pre-1945 rare documents\] (T.P. Hồ Chí Minh: Nhà Xuất Bản Văn Hoá-Văn Nghệ, 2016), 299.
+[^43]: Nguyễn Đức Hiệp, _Sài Gòn Chợ Lớn: Qua Những Tư Liệu Quý Trước 1945_ \[Sài Gòn–Chợ Lớn: Pre-1945 rare documents\] (T.P. Hồ Chí Minh: Nhà Xuất Bản Văn Hoá-Văn Nghệ, 2016), 299.
 
-44 Brocheux, [_The Mekong Delta_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13111553)_,_ 70.
+[^44]:  Brocheux, [_The Mekong Delta_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13111553)_,_ 70.
 
-45 Gerard Sasges and Scott Cheshier, “Competing Legacies: Rupture and Continuity in Vietnamese Political Economy,” _South East Asia Research_ 20, no. 1 (2012): 16. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^45]: Gerard Sasges and Scott Cheshier, “Competing Legacies: Rupture and Continuity in Vietnamese Political Economy,” _South East Asia Research_ 20, no. 1 (2012): 16. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-46 Nguyễn Cẩm Thuỷ, _Định cư của người Hoa trên đất Nam Bộ: từ thế kỷ XVII đến năm 1945_ \[Chinese settlement in Southern Vietnam: From the seventeenth century to 1945\] (Hà Nội: Khoa Học Xã Hội, 2000), 36–37.
+[^46]:  Nguyễn Cẩm Thuỷ, _Định cư của người Hoa trên đất Nam Bộ: từ thế kỷ XVII đến năm 1945_ \[Chinese settlement in Southern Vietnam: From the seventeenth century to 1945\] (Hà Nội: Khoa Học Xã Hội, 2000), 36–37.
 
-47 Nguyễn Phan Quang, _Sài Gòn-Gia Định_, 50–51.
+[^47]: Nguyễn Phan Quang, _Sài Gòn-Gia Định_, 50–51.
 
-48 Gary G. Hamilton, ed., [_Cosmopolitan Capitalists: Hong Kong and the Chinese Diaspora at the End of the 20th Century_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9341502) (Seattle: University of Washington Press, 1999). (Call no. RBUS 330.9512506 COS)
+[^48]: Gary G. Hamilton, ed., [_Cosmopolitan Capitalists: Hong Kong and the Chinese Diaspora at the End of the 20th Century_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9341502) (Seattle: University of Washington Press, 1999). (Call no. RBUS 330.9512506 COS)
 
-49 “[The Saigon Rice Market](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18860506-1.2.26),” _Straits Times Weekly Issue_, 6 May 1886, 4. (From NewspaperSG)
+[^49]: “[The Saigon Rice Market](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18860506-1.2.26),” _Straits Times Weekly Issue_, 6 May 1886, 4. (From NewspaperSG)
 
-50 “Sài Gòn,” _North-China Herald and Supreme Court &amp; Consular Gazette (1870–1941)_, 10 June 1876.
+[^50]: “Sài Gòn,” _North-China Herald and Supreme Court &amp; Consular Gazette (1870–1941)_, 10 June 1876.
 
 51 Gerard Sasges, “Scaling the Commanding Heights: The Colonial Conglomerates and the Changing Political Economy of French Indochina,” _Modern Asian Studies_ 49, no. 5 (September 2015): 1490. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
