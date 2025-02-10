@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-20/issue-4/jan-mar-2025/william-somerset-maugham-secrets/
-      button: "W. Somerset Maugham: Secrets from the Outstations"
+      url: /vol-20/issue-4/jan-mar-2025/japanese-opium-propaganda-syonan-shimbun/
+      button: All Smoke? Opium Propaganda in the Syonan Shimbun
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 20 Issue 4/Somerset/Somerset_Heroimage.png
+      background: /images/Vol 20 Issue 4/Opium/HeroImage_opium_2.jpg
   - infopic:
       title: "Rites of Rehabilitation: The Social Work of the Zhenkongjiao"
       subtitle: Culture
