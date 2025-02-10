@@ -64,6 +64,11 @@ Liu Kang focused his lens on landscape, architecture and scenes of daily life, a
 	
 #### **NOTES**
 
-[^1]: 
+[^1]: Yeo Wei Wei, ed., [_Liu Kang: Colourful Modernist_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13919955) (Singapore: The National Art Gallery Singapore, 2011). (From National Library Singapore, call no. RSING 759.95957 LIU). The book was published in conjunction with the exhibition _Liu Kang: A Centennial Celebration_ organised by the National Art Gallery, supported by the National Heritage Board and presented at the Singapore Art Museum, 29 July–16 October 2011.
 
-[^1]:
+
+[^2]: Chen Chi Sing has two of his father’s cameras, a Rolleiflex and a Leica M3, a 35 mm rangefinder released in 1954. The camera used during the Bali trip was likely the precursor to the Leica M3.&nbsp;
+
+[^3]: Chen Chong Swee, letter to his wife (Tay Peck Koon), 5 July 1952. Translated from the original letter digitised by National Gallery Singapore Library &amp; Archive with kind permission from Chen Chi Sing. Some of Chen Chong Swee’s Java and Bali photographs were featured in the book by Phua Chay Long 潘醒农,《[东南亚名胜](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14468418)》\[Celebrated places in Southeast Asia\] (Singapore: Nantao Publishing House, 1954). (From National Library Singapore, call no. RSING 959 PCL)&nbsp;
+
+[^4]: Luo Ming was the other participant of the Bali sketching trip. He was a graduate of the Shanghai Art Academy in Western painting. In 1947, he left Hong Kong, where he taught, and travelled to Thailand, Malaya, Singapore, Hong Kong and Indonesia, painting and holding solo exhibitions. In 1948, he spent several months in Singapore and held an exhibition of his art that year, which was was sponsored by the Society of Chinese Artists. See “[Art Display Is Planned](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19480716-1.2.35.17),” _Singapore Free Press_, 16 July 1948, 5; “[畫家羅銘氏不日返國南洋商报](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19480816-1.2.26.4)” \[Painter Luo Ming will return to China soon\], 南洋商报 _Nanyang Siang Pau_, 16 August 1948, 6. (From NewspaperSG)
