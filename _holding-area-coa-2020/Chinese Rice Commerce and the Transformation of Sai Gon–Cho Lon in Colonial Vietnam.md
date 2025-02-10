@@ -1019,36 +1019,38 @@ Wong, Yee Tuan. [_Penang Chinese Commerce in the 19th Century: The Rise and Fall
 
 [^70]:  “Letter from the Chinese Congregations of Chợ Lớn,” GOUCOCH L.0 N5522, Dossier Relatif à la Règlementation du Commerce Chinois et Activités des Congrégations Asiatiques, Années 1890–1894 \[Files related to the regulations of Chinese commercial activities and Asian congregations, 1890–1894\], TTLTQG-II, HCMC, 30 December 1892.&nbsp;
 
-71 “Chinese Merchants Petitioned to the Governor-General of Cochinchina Regarding the Decree of 27 January 1892,” GOUCOCH L.0 N5522, TTLTQG-II, HCMC, 3 March 1894.
+[^71]: “Chinese Merchants Petitioned to the Governor-General of Cochinchina Regarding the Decree of 27 January 1892,” GOUCOCH L.0 N5522, TTLTQG-II, HCMC, 3 March 1894.
 
-72 “Chinese Merchants Petitioned.”
+[^72]: “Chinese Merchants Petitioned.”
 
-73 “Chinese Merchants Petitioned.”
+[^73]: “Chinese Merchants Petitioned.”
 
-74 “Chinese Merchants Petitioned.”
+[^74]: “Chinese Merchants Petitioned.”
 
-75 Hong Kong’s demand for Sài Gòn’s rice increased exponentially since the mid-19th century. This was due not only to the forced opening of this port by British free trade imperialism in the aftermath of the Opium Wars, but also to the frequency of rice shortages in Chinese port cities such as Hong Kong and Canton, which culminated in a series of food riots. As a cheaper alternative – owing to the lack of grading and quality control – rice from Sài Gòn became an affordable solution to existing socioeconomic problems in China’s port cities. For a more detailed treatment of this history, see Lee Seung-Joon, [_Gourmets in the Land of Famine: The Culture and Politics of Rice in Modern Canton_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14267630) (Stanford: Stanford University Press, 2011) (Call no. RBUS 338.173180951275 LEE); Elizabeth Sinn, _Between East and West: Aspects of Social and Political Development in Hong Kong_ (Hong Kong: Centre of Asian Studies, University of Hong Kong, 1996)
+[^75]: Hong Kong’s demand for Sài Gòn’s rice increased exponentially since the mid-19th century. This was due not only to the forced opening of this port by British free trade imperialism in the aftermath of the Opium Wars, but also to the frequency of rice shortages in Chinese port cities such as Hong Kong and Canton, which culminated in a series of food riots. As a cheaper alternative – owing to the lack of grading and quality control – rice from Sài Gòn became an affordable solution to existing socioeconomic problems in China’s port cities. For a more detailed treatment of this history, see Lee Seung-Joon, [_Gourmets in the Land of Famine: The Culture and Politics of Rice in Modern Canton_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14267630) (Stanford: Stanford University Press, 2011) (Call no. RBUS 338.173180951275 LEE); Elizabeth Sinn, _Between East and West: Aspects of Social and Political Development in Hong Kong_ (Hong Kong: Centre of Asian Studies, University of Hong Kong, 1996)
 
-76 “M. Holbe, Vice-Président de la Chambre de Commerce à Monsieur le Gouverner de la Cochinchine,” GOUCOCH L.13 N5554, TTLTQG-II, HCMC, March 1894.
+[^76]: “M. Holbe, Vice-Président de la Chambre de Commerce à Monsieur le Gouverner de la Cochinchine,” GOUCOCH L.13 N5554, TTLTQG-II, HCMC, March 1894.
 
-77 “Dispatche, Consulat de France à Hong Kong,” GOUCOCH L.0 N5522, TTLTQG-II, HCMC, 16 March 1894. Li Tana also indicates that under the pressure of newly introduced French tariffs, paddy exports dropped from 165,000 tons in 1891 to 72,000 tons in 1896. See Li, “Sài Gòn’s Rice Export,” 39.
+[^77]: “Dispatche, Consulat de France à Hong Kong,” GOUCOCH L.0 N5522, TTLTQG-II, HCMC, 16 March 1894. Li Tana also indicates that under the pressure of newly introduced French tariffs, paddy exports dropped from 165,000 tons in 1891 to 72,000 tons in 1896. See Li, “Sài Gòn’s Rice Export,” 39.
 
-78 “Récapitulation du Riz par Pays” \[Summary of rice export by countries\], _Annuaire de la Cochinchine Française_, BnF Gallica (1876): 221. A picul is roughly equivalent to 60.479 kg.
+[^78]: Récapitulation du Riz par Pays” \[Summary of rice export by countries\], _Annuaire de la Cochinchine Française_, BnF Gallica (1876): 221. A picul is roughly equivalent to 60.479 kg.
 
-79 Cherry, _Down and Out in Sài Gòn_, 27–28.
+[^79]: Cherry, _Down and Out in Sài Gòn_, 27–28.
 
-80 “[The Saigon-Tonquin-Hong Kong Cable](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18840126-1.2.6.14),” _Straits Times Weekly Issue_, 26 January 1884, 3. (From NewspaperSG)
+[^80]: “[The Saigon-Tonquin-Hong Kong Cable](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18840126-1.2.6.14),” _Straits Times Weekly Issue_, 26 January 1884, 3. (From NewspaperSG)
 
-81 Li, “Sài Gòn’s Rice Export,” 33–52.
+[^81]: Li, “Sài Gòn’s Rice Export,” 33–52.
 
-82 “Rapport Au Gouverneur-General,” GOUCOCH L.0 N5522, TTLTQG-II, HCMC, 27 February 1892.
+[^82]: “Rapport Au Gouverneur-General,” GOUCOCH L.0 N5522, TTLTQG-II, HCMC, 27 February 1892.
 
-83 “[The Trade of Saigon](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18920708-1.2.12),” _Singapore Free Press and Mercantile Advertiser_, 8 July 1892, 3. (From NewspaperSG)&nbsp;
+[^83]: “[The Trade of Saigon](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18920708-1.2.12),” _Singapore Free Press and Mercantile Advertiser_, 8 July 1892, 3. (From NewspaperSG)&nbsp;
 
-84 “Suspension of Decree Due to Chinese Resistance,” GOUCOCH L.0 N5522, TTLTQG-II, HCMC, 8 March 1894.
+[^84]: “Suspension of Decree Due to Chinese Resistance,” GOUCOCH L.0 N5522, TTLTQG-II, HCMC, 8 March 1894.
 
-85 Su Lin Lewis, [_Cities in Motion: Urban Life and Cosmopolitanism in Southeast Asia, 1920–1940_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202759108) (Cambridge: Cambridge University Press, 2016), 28. (Call no. RSEA 307.7609590904 LEW)
+[^85]: Su Lin Lewis, [_Cities in Motion: Urban Life and Cosmopolitanism in Southeast Asia, 1920–1940_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202759108) (Cambridge: Cambridge University Press, 2016), 28. (Call no. RSEA 307.7609590904 LEW)
 
-86 Anthony Reid, [_Southeast Asia in the Age of Commerce, 1450–1680_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4305251) (New Haven: Yale University Press, 1988). (Call no. RSEA 959 REI)
+[^86]: Anthony Reid, [_Southeast Asia in the Age of Commerce, 1450–1680_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4305251) (New Haven: Yale University Press, 1988). (Call no. RSEA 959 REI)
 
-87 Meeting of the Sài Gòn Chamber of Commerce, Session 321, GOUCOCH L.0 N5522, TTLTQG-II, HCMC, 29 December 1893.
+[^87]: Meeting of the Sài Gòn Chamber of Commerce, Session 321, GOUCOCH L.0 N5522, TTLTQG-II, HCMC, 29 December 1893.
+
+
