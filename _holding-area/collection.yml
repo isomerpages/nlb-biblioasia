@@ -2,7 +2,6 @@ collections:
   holding-area:
     output: true
     order:
-      - A Bridge Between East and West.md
       - Sample Test2.md
       - Sample Test.md
       - Example Title.md
