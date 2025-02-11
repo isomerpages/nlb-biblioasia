@@ -10,6 +10,9 @@ By Gretchen Liu
 
 Note: This article is adapted from the preface of _Bali 1952: Through the Lens of Liu Kang: The Trip to Java and Bali by Four Singapore Pioneering Artists_.
 
+![](/images/Vol%2021%20Issue%201/Forgotten%20Bali/bali_facing.jpg)
+<div>A young Balinese woman waits for customers at her <i>warung</i> (small shop). selling daily necessities and small luxuries. <i>© Liu Kang Family.</i></div>
+
 _Bali 1952: Through the Lens of Liu Kang_ chronicles the 1952 sketching adventure to Java and Bali by four artists – Chen Wen Hsi, Chen Chong Swee, Cheong Soo Pieng and Liu Kang. It features a selection of the photographs that Liu Kang took during the seven-week trip, from 8 June to 28 July. Forgotten for decades, they were unearthed in 2016 together with a diary he kept during the first half of the trip and nine letters written home.
 
 My father-in-law, Liu Kang (1911–2004), was one of a small group of China-born, Shanghai-trained artists who settled in Singapore before and after World War II and animated the nascent art scene with a desire to portray their new homeland in art that showed its tropical character. Like many others who are eventually bitten by the family history bug, I regret that I did not learn more about his early life when he was around to answer questions. I never did ask him about the 1952 trip to Bali. In 2011, I was inspired to begin piecing together the details of his artistic journey when I saw the display of archival materials borrowed from the family for the exhibition _Liu Kang: A Centennial Celebration_, which marked the centenary of his birth and commemorated the donation of over 1,000 artworks to the National Heritage Board.[^1]
