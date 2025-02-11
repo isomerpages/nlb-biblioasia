@@ -48,6 +48,12 @@ One afternoon in March 2016, I visited the study to do a preliminary investigati
 
 The photos were taken with a Rolleiflex f/3.5, serial number 1226955. The camera is held at the waist with the viewfinder mounted on top. The receipt for the camera, also found, revealed that it was a last-minute acquisition – purchased on 7 June 1952, the day before the artists’ departure, from Wah Heng &amp; Company, the well-known photo supply store at 95 North Bridge Road, for $522.75. Each roll of black-and-white film produced 12 exposures. Liu Kang developed the film and had the contact prints made as he travelled through Java and Bali. Alas, the fate of the camera is unknown. While a Rolleiflex camera was found in his study, it was a model from the early 1960s according to its serial number.
 
+![](/images/Vol%2021%20Issue%201/Forgotten%20Bali/bali_shipment.jpg)
+<div> Inventively arranged, a towering shipment of basketry makes its way to market. <i>© Liu Kang Family.</i></div>
+
+![](/images/Vol%2021%20Issue%201/Forgotten%20Bali/bali_pollok.jpg)
+<div> Ni Pollok, the wife of Belgian artist Adrien Jean Le Mayeur de Merprès, performing a segment of the <i>legong lassem</i>. The <i>legong</i> dance form is characterised by intricate finger movements, complicated footwork, and expressive gestures and facial expressions. <i>© Liu Kang Family.</i></div>
+
 Chen Chong Swee and Cheong Soo Pieng also carried cameras. A skilled photographer, Chen Chong Swee favoured Leicas, according to his son Chen Chi Sing. During the trip, he shot on 35 mm black-and-white film and also developed his film along the way.[^2]
 
 ![](/images/Vol%2021%20Issue%201/Forgotten%20Bali/bali_verandah.jpg)
