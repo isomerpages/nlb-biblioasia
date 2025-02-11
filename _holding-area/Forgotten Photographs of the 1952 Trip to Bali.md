@@ -63,9 +63,18 @@ Unfortunately, Chen Chong Swee had a devastating experience when four rolls of f
 
 It has not been possible to identify the camera used by Cheong Soo Pieng. According to his son Cheong Wai Chi, it was likely a Chinese brand. The artists exchanged photographs, and there are 16 in a specific format, 9 cm × 5.5 cm with a distinctive white deckle-edged border, including a group photo with Dutch painter Rudolf Bonnet in Ubud, that suggest they may have been taken by Cheong Soo Pieng. But other images in this format may instead have been purchased from a photo studio in Denpasar.
 
+![](/images/Vol%2021%20Issue%201/Forgotten%20Bali/bali_statue.jpg)
+<div> In the shady corner of a temple wall, Cheong Soo Pieng finds a comfortable vantage point for photography.  <i>© Liu Kang Family.</i></div>
+
+![](/images/Vol%2021%20Issue%201/Forgotten%20Bali/bali_wayan.jpg)
+<div>I Wayan Rindi performing the <i>kebyar duduk</i>. The name <i>kebyar duduk</i> is derived from the way in which the dance is performed: in an almost seated position (<i>duduk</i>).  <i>© Liu Kang Family.</i></div>
+
 Mention must also be made of the fifth participant in the Bali portion of the field trip. Luo Ming can be seen also carrying a camera in Liu Kang’s photographs. A fellow Shanghai Art Academy alumnus, he began a lengthy journey through Southeast Asia in the late 1940s.[^4] Art school ties were rekindled when he visited Singapore in 1948. After a chance meeting with the artists in a Jakarta cafe, he decided to join their Bali sketching adventure. Luo Ming returned to China in 1954, and the fate of his photographs remains unknown.
 
 Details of the trip come from several sources. First, Liu Kang’s diary, which was also found in his study and remains with the family. He purchased a steno notebook on his first day in Jakarta and recorded people met, places visited, amusing travel anecdotes and his private thoughts. The last entry is dated 29 June. Then there are the letters penned to wives – 11 extant from Chen Chong Swee to Tay Peck Koon, and nine from Liu Kang to Chen Jen Ping – which were reassuring, affectionate and informative.&nbsp;
+
+![](/images/Vol%2021%20Issue%201/Forgotten%20Bali/bali_ceremony.jpg)
+<div>Women formally dressed for a temple ceremony carry their offerings.  <i>© Liu Kang Family.</i></div>
 
 Eager to put minds at ease, both Chen Chong Swee and Liu Kang posted short letters on 9 June confirming their safe arrival in Jakarta. In subsequent letters one can sense the artists’ eagerness to share their experiences with those at home – comments on hotels (the good, the bad, the amusing), restaurants and meals (the unusual, the delicious), shopping (many visits to bookstores to purchase art supplies) and transportation (car, train and small boat, comfortable and chaotic). The travellers also inquired about children and revealed a tinge of homesickness. Of interest to art historians are hitherto unknown details of two life drawing residencies in Bali, the first near Denpasar and the second in Ubud.
 
