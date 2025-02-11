@@ -23,6 +23,9 @@ Over the next few years and numerous visits to Shanghai, I pieced together the a
 
 After his death in 2004, Liu Kang’s studio-study in the family home at 20 Jalan Sedap was tidied up and left essentially untouched. In 2016, the family finally faced the challenging question of what to do with the contents of the spacious room. Cognisant of its historical value, the family reached out to the National Library Singapore. The task of sorting through the large collection of books and memorabilia of a lifetime commenced in June 2017.&nbsp;
 
+![](/images/Vol%2021%20Issue%201/Forgotten%20Bali/bali_study.jpg)
+<div>Liu Kang in his study at the family home at 20 Jalan Sedap, 1990s. <i>© Liu Kang Family.</i></div>
+
 Over the next three months, a small team of library staff made 19 visits to the house. The joint effort included my sister-in-law, Liu Tow Sen. We worked our way through the books, letters, documents and certificates, catalogues and clippings, photographs and negatives, travel memorabilia and ephemera. Items set aside for donation were recorded. That September, 54 boxes were packed and taken away to the National Library. The bulk of the materials donated then are from the 1940s onwards and relate to Liu Kang’s years in Singapore.
 
 ![](/images/Vol%2021%20Issue%201/Forgotten%20Bali/bali_filing.jpg)
