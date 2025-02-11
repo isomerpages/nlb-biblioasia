@@ -91,7 +91,7 @@ Liu Kang focused his lens on landscape, architecture and scenes of daily life, a
 
 
 <div style="background-color: #fff6ba; padding:15px; margin: 10px; font-size=120%">
-<img src="/images/Vol%2021%20Issue%201/Forgotten%20Bali/bali_book.png" style="width: 100%;"><br>Gretchen Liu’s <i>Bali 1952: Through the Lens of Liu Kang: The Trip to Java and Bali by Four Singapore Pioneering Artists</i> was published in conjunction with the exhibition, <i>Untold Stories: Four Singapore Artists’ Quest for Inspiration in Bali 1952</i>, held at Level 10 of the National Library Building from 14 February to 3 August 2025. The book is available for reference at the Lee Kong Chian Reference Library (call no. RSING xxxx), for loan at selected public libraries (call no. SING xxxx), and for sale at physical and online bookstores. 
+<img src="/images/Vol%2021%20Issue%201/Forgotten%20Bali/bali_book.png" style="width: 60%;"><br>Gretchen Liu’s <i>Bali 1952: Through the Lens of Liu Kang: The Trip to Java and Bali by Four Singapore Pioneering Artists</i> was published in conjunction with the exhibition, <i>Untold Stories: Four Singapore Artists’ Quest for Inspiration in Bali 1952</i>, held at Level 10 of the National Library Building from 14 February to 3 August 2025. The book is available for reference at the Lee Kong Chian Reference Library (call no. RSING xxxx), for loan at selected public libraries (call no. SING xxxx), and for sale at physical and online bookstores. 
 </div>
 
 
