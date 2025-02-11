@@ -23,7 +23,7 @@ Due to development and urbanisation, Lim Boon Keng’s last home at Paterson Hil
 
 The grandeur and opulence of Eu Villa on Mount Sophia was unrivalled in its heyday.
 
-<img src="/images/Online%20Only%20Articles/EU%20Villa/EU_Villa_colour_homepage.jpg" style="width:80%;">
+<img src="/images/Online%20Only%20Articles/EU%20Villa/aerial_view_topics.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/hawkins-road-refugee-camp/">Remembering the Hawkins Road Refugee Camp</a>
