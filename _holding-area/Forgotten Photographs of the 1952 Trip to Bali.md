@@ -60,7 +60,7 @@ Chen Chong Swee and Cheong Soo Pieng also carried cameras. A skilled photographe
 <div>Liu Kang focuses his lens on a large mirror in the verandah of the Dutch-style Maskerdam building in Puri Agung Karangasem, eastern Bali. (From left) Cheong Soo Pieng, Chen Wen Hsi, Luo Ming (Shanghai art school classmate) and Liu Kang.  <i>© Liu Kang Family.</i></div>
 
 ![](/images/Vol%2021%20Issue%201/Forgotten%20Bali/bali_drink.jpg)
-<div>Chen Chong Swee is on the far right reaching for a drink  <i>© Liu Kang Family.</i></div>
+<div>Chen Chong Swee is on the far right reaching for a drink.  <i>© Liu Kang Family.</i></div>
 
 Unfortunately, Chen Chong Swee had a devastating experience when four rolls of film were ruined by a Bali photo studio. “But I am exceedingly exasperated by one irrecoverable loss,” he lamented in a letter to his wife. “There are so many wonderful images lost – there can never be another opportunity to capture them again. I can never get those photos back. For the pictures snapped from here on, I’m just going to take them all back and have them developed in Singapore.”[^3] The loss is significant: with 36 photos per roll, 144 images were gone forever. I am deeply grateful to Chi Sing for his support of this book. He generously shared the letters that his father wrote home as well as his father’s photographs and artworks.
 
