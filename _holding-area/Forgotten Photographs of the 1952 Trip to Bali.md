@@ -76,6 +76,9 @@ Details of the trip come from several sources. First, Liu Kang’s diary, which 
 ![](/images/Vol%2021%20Issue%201/Forgotten%20Bali/bali_ceremony.jpg)
 <div>Women formally dressed for a temple ceremony carry their offerings.  <i>© Liu Kang Family.</i></div>
 
+![](/images/Vol%2021%20Issue%201/Forgotten%20Bali/bali_drink.jpg)
+<div>Chen Chong Swee is on the far right reaching for a drink  <i>© Liu Kang Family.</i></div>
+
 Eager to put minds at ease, both Chen Chong Swee and Liu Kang posted short letters on 9 June confirming their safe arrival in Jakarta. In subsequent letters one can sense the artists’ eagerness to share their experiences with those at home – comments on hotels (the good, the bad, the amusing), restaurants and meals (the unusual, the delicious), shopping (many visits to bookstores to purchase art supplies) and transportation (car, train and small boat, comfortable and chaotic). The travellers also inquired about children and revealed a tinge of homesickness. Of interest to art historians are hitherto unknown details of two life drawing residencies in Bali, the first near Denpasar and the second in Ubud.
 
 The voices of the artists are gathered from other sources. All four artists wrote or spoke about the trip and its impact on them, but some more than others. Chen Wen Hsi and Liu Kang shared memories in their oral history interviews, recorded by the Oral History Centre in the early 1980s. The first language of the four artists was their Chinese dialect, and then Mandarin. Liu Kang was also fluent in French and could read and speak some English. (His extensive library consisted mainly of books in English.) It is fair to assume that the artists, living in a British colonial society, were exposed to periodicals, especially pictorial ones, in languages other than Chinese.
