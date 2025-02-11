@@ -25,6 +25,12 @@ After his death in 2004, Liu Kang’s studio-study in the family home at 20 Jala
 
 Over the next three months, a small team of library staff made 19 visits to the house. The joint effort included my sister-in-law, Liu Tow Sen. We worked our way through the books, letters, documents and certificates, catalogues and clippings, photographs and negatives, travel memorabilia and ephemera. Items set aside for donation were recorded. That September, 54 boxes were packed and taken away to the National Library. The bulk of the materials donated then are from the 1940s onwards and relate to Liu Kang’s years in Singapore.
 
+![](/images/Vol%2021%20Issue%201/Forgotten%20Bali/bali_filing.jpg)
+<div>An example of Liu Kang’s “filing system”. The envelope reads 巴厘作画 (Bali sketching). <i>© Liu Kang Family.</i></div>
+
+![](/images/Vol%2021%20Issue%201/Forgotten%20Bali/bali_ephemera.jpg)
+<div>Bali ephemera tucked away in Liu Kang’s study included this envelope posted from Singaraja c/o Sie Yok Kie in Denpasar. The artists used this address for correspondence to and from Singapore. <i>© Liu Kang Family.</i></div>
+
 Over those three months, I gained a deeper understanding of my father-in-law. He was a serious bibliophile who amassed a large collection of art and travel tomes in English and Chinese. Among his books on Bali is the classic _Island of Bali_ by Miguel Covarrubias, a UK edition published in 1937 and purchased from City Book Store in Collyer Quay that he signed and dated 1949. He was an avid amateur photographer from an early age: we found negatives dating back to the mid-1920s.&nbsp;
 
 I marvelled at the extensive paper trail left behind, especially the letters both received and written home, that survived the test of time, including those penned during the 1952 trip. Liu Kang, it seems, had a strong sense of history. The dislocations that affected the lives of many of his generation may have enhanced his instinct to keep and preserve. He may have intuited that one day the art world he inhabited would be of interest not only to Singapore art historians but also scholars of modern China.
@@ -34,6 +40,9 @@ One afternoon in March 2016, I visited the study to do a preliminary investigati
 The photos were taken with a Rolleiflex f/3.5, serial number 1226955. The camera is held at the waist with the viewfinder mounted on top. The receipt for the camera, also found, revealed that it was a last-minute acquisition – purchased on 7 June 1952, the day before the artists’ departure, from Wah Heng &amp; Company, the well-known photo supply store at 95 North Bridge Road, for $522.75. Each roll of black-and-white film produced 12 exposures. Liu Kang developed the film and had the contact prints made as he travelled through Java and Bali. Alas, the fate of the camera is unknown. While a Rolleiflex camera was found in his study, it was a model from the early 1960s according to its serial number.
 
 Chen Chong Swee and Cheong Soo Pieng also carried cameras. A skilled photographer, Chen Chong Swee favoured Leicas, according to his son Chen Chi Sing. During the trip, he shot on 35 mm black-and-white film and also developed his film along the way.[^2]
+
+![](/images/Vol%2021%20Issue%201/Forgotten%20Bali/bali_verandah.jpg)
+<div>Liu Kang focuses his lens on a large mirror in the verandah of the Dutch-style Maskerdam building in Puri Agung Karangasem, eastern Bali. (From left) Cheong Soo Pieng, Chen Wen Hsi, Luo Ming (Shanghai art school classmate) and Liu Kang.  <i>© Liu Kang Family.</i></div>
 
 Unfortunately, Chen Chong Swee had a devastating experience when four rolls of film were ruined by a Bali photo studio. “But I am exceedingly exasperated by one irrecoverable loss,” he lamented in a letter to his wife. “There are so many wonderful images lost – there can never be another opportunity to capture them again. I can never get those photos back. For the pictures snapped from here on, I’m just going to take them all back and have them developed in Singapore.”[^3] The loss is significant: with 36 photos per roll, 144 images were gone forever. I am deeply grateful to Chi Sing for his support of this book. He generously shared the letters that his father wrote home as well as his father’s photographs and artworks.
 
