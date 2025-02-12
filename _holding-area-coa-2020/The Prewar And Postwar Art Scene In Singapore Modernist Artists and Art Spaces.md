@@ -419,8 +419,154 @@ the SOCA exhibition catalogues of 1939 and 1940 carried some of his watercolours
 collection of one of Chuang U-Ming’s descendants and was exhibited and
 published by the Asian Civilisations Museum in 2019 in *Living with Ink: The
 Collection of Dr Tan Tsze Chor*.32
-Figure 8. U-Chow, Malay Girls, watercolour,
-SOCA exhibition catalogue, 1939.
+
+#### **Prewar and Postwar Art Spaces in Singapore**
+
+SOCA grew to a 40-strong society by the time war broke out in Singapore.
+Their venue had moved from Tchang Ju-ch’i and U-Chow’s United Painters
+Studio on Tank Road to a space shared with the newly established NAFA
+at 167 Geylang Road. Like the Tank Road studio, the new venue was also a
+shophouse, built for mixed residential and commercial use. However, as the
+society became increasingly active in organising fundraisers for the Sino-
+Japanese War (1937–45) and hosting visiting luminaries such as Xu Beihong,
+it had to move its public activities elsewhere.
+
+With its exhibitions growing in size and importance, large venues
+like the Chinese Chamber of Commerce and Victoria Memorial Hall
+had become SOCA’s choice for anchor venues by 1939. While SOCA
+received much support from the Chinese Chamber of Commerce and
+cultivated a symbiotic relationship with NAFA, whose principal Lim
+Hak Tai (林學大) was an important member of the society, it also actively
+maintained a network of alternative venue partners. These partners were
+the various cultural and civil societies that had sprung up since the new
+era of progressive China (following the May Fourth Movement), and
+most probably shared the same pool of audiences and subscribers. This
+section looks at the lesser-known of these premises, which either ceased
+to command significance after the war or were replaced by newer or more
+established venues.
+
+**Nanyang Chinese Students Society** (南洋青年励志社). The NCSS was one
+of the most active clubs dedicated to the well-being of the vast number of
+young Chinese people in Nanyang. It was akin to a school alumni club,
+except that it was open to all young working adults, particularly targeting
+the burgeoning ranks of white-collared professionals. It organised sports
+tournaments, lectures on issues pertaining to China’s situation and plight,
+charity fundraisers for a myriad of causes in China, exhibitions and baby shows.33 In 1929, the society organised one of its earliest Singapore-based
+art exhibitions, curated by a team of artists and designers that included
+Tchang Ju-ch’i. The exhibition was reported to have made a commendable
+pioneering effort in promoting local artistic expression.
+
+After its formation in 1920, the NCSS moved at least five times, as its events
+grew larger and increasingly popular, before it finally settled in a YMCA
+property on Prince Edward Road, which came with its own sports field, in
+1935. When Xu Beihong visited in February 1939, SOCA held a welcome tea
+there. The premises were used regularly as a rehearsal venue for Mandarin
+plays, choir practice and lectures. In 1935, members of the NCSS and a
+group of photography enthusiasts staged an exhibition of more than 300
+works from Malaya, Singapore and Hong Kong. The exhibition opening was
+a garden party staged in the NCSS’s leafy compound.34
+
+These gatherings suggest that exhibition openings were officious in nature,
+often graced by high-ranking representatives of the government, members
+of the Chinese Consulate, and British officials. Speeches were reported
+almost verbatim, and the art works in the exhibitions were written up and
+published in the following days in the Chinese dailies. These occasions also
+show the social importance of SOCA, which was progressive and open, with
+its artists intimately connected with the business world and the community
+at large.
+
+**Young Women’s Christian Association (YWCA), Raffles Quay**. Opened
+in 1923 as YWCA’s headquarters, the Blue Triangle Lunch and Rest Room
+(as it was first named) served as a central location for working women to
+network. Designed by Swan &amp; Maclaren, the two-storey bungalow stood
+on the reclaimed land of Raffles Quay (also referred to as Finlayson Green,
+located at the end of the line of the Telok Ayer Market trolley bus route)
+(Figure 9). The “rest room” on the upper floor was “large and airy, very
+comfortably furnished, and has a delightful view over the harbour”.35
+
+This was the venue of SOCA’s first exhibition in 1936, as well as the 1937
+and 1938 exhibitions.36 It is highly likely that this was a premium exhibition
+space in town, as it was the choice of venue for locally and regionally
+based European artists, as well as those who were passing through – the
+Art Club (Singapore) members, Jean Le Mayeur, Tania Zarutsky, Willem
+van der Does from Batavia, Gerard P. Adolfs, Julius Wentscher and wife.
+Jean Le Mayeur, the Belgian artist of Balinese fame, for instance, held four
+exhibitions here between 1935 and 1941.37 SOCA member Looi Koh Seng
+exhibited his works with the colonial wives of the Art Club in June 1939,38
+including Mrs K. M. Chasen, who was married to the director of the Raffles
+Museum, Frederick Nutter Chasen.
+
+*Nanyang Siang Pau*’s report on the 1938 exhibition carried a photo of the
+exhibition opening, in which men in white suits fill a well-appointed room,
+the walls lined with paintings. A total of 165 paintings were presented,
+indicating the generous size of the “rest-room”.39
+
+**Mayfair Musical and Dramatic Association** (愛華音樂社). This society
+started as a band in June 1934 under the name Mayfair Musical Party
+(Figure 10). Its founder, Goh Seng Yeok, was a Singapore-born Chinese. The
+Mayfair band played regularly at openings, fundraising shows and social
+events in the Chinese community.
+
+An Ai Tong Primary alumnus, Goh brought Mayfair to play at the school’s
+concerts. The band provided the musical interlude, for example, at a 1935
+Mandarin speech competition organised by the NCSS and hosted at Ai
+Tong. When the alumnus presented modern plays and concerts, Mayfair
+provided performance and accompaniment and Goh even played a female
+role in a new play, *Huanengying* (花弄影; Flowery Shadows).40 Mayfair
+would later organise the first mass weddings in Singapore, before World
+War II.
+
+Without a sufficiently large venue in its early years, Mayfair rehearsed in
+the homes of friends and patrons. By 1938, however, under the patronage
+of various luminaries, including cinema mogul Run Run Shaw (邵逸夫),
+Mayfair established its headquarters in two units at the Shaw Brothers’
+building on Robinson Road (Figure 11). The premises came with a large hall
+on the second level. Here, SOCA hosted a send-off-cum-welcome party on
+2 November 1939 for Xu Beihong, who was leaving for India, and Yu Shihai
+(喻世海), a prominent cartoonist who had recently arrived from China.41
+A rare photograph of the interior, from the Liu Kang family archives and
+dated 3 March 1949, captures three men sitting around a table, while Liu,
+in a white suit, stands on a raised podium under a portrait of Sun Yat-sen,
+possibly rehearsing a speech (Figure 12).42
+
+Later that year, after the Chinese Communist Party won the civil war
+in China and as the Kuomintang staked out Taiwan to continue the
+Republican government, Mayfair openly celebrated the new Chinese
+National Day on 1 October with a display of the new flag on its building
+façade and the singing of the new anthem, “March of the Volunteers”.
+
+The British Military Administration was shocked by Mayfair’s enthusiasm
+for the Communist regime and promptly started an investigation. In
+December 1950, they forced Mayfair to disband and arrested Goh Seng
+Yeok, who later exiled himself to China.43 Goh died in Beijing on 4 April
+1962 at the age of 53.
+
+Mayfair’s short lifespan of 16 years underlines the ideological confusion and
+divided loyalties created by China’s years of war with Japan and the rise of
+Communist China. Like many war-battered Chinese in Singapore, Goh was
+convinced that he intended to fly the “flag of the New China… in honour
+of the new Chinese government”, not as a Communist.44
+
+#### **Conclusion**
+
+The art scene of the Chinese community in prewar and postwar Singapore
+was dominated by young mid-career artists, who were educated and well
+trained in the arts. Some were exceptionally versatile. Many had had their
+artistic initiation in China, steeped in the tradition of calligraphy and ink painting. Their art flourished despite war and natural calamities in China,
+as well as the post-1929 economic crisis, as art became a powerful way to stir
+up sympathy and support for humanitarian causes. In the absence of proper
+art spaces for exhibition and interaction, the artists sought out all options
+available – in schools, clubs, charitable institutions – to connect to the
+different sectors of society.
+
+This paper has documented the rudiments of the prewar and postwar
+artistic community within the Chinese milieu, and placed the many
+forgotten individuals in an expanded art history of Singapore, against the
+larger backdrop of World War II and historical events in China. Their
+art-making formed a foundation for art to develop in postwar and preindependent
+Singapore so that by the 1970s and 1980s, Singapore could
+identify that generation we call the pioneer artists.
+
 
 
 
