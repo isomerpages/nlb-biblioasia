@@ -31,14 +31,14 @@ strands of development:1
     literary circle and the sojourning scholars who offered their literati<br> 
     skills (calligraphy and painting) to the Chinese mercantile community;
 
-  2.   the period corresponding to the Chinese Republican years, which saw<br> 
+  2. the period corresponding to the Chinese Republican years, which saw<br> 
     the rise of graphic art (woodcut prints and cartoons) as a new form of<br> 
     social expression, and a group of Modernist artists in exile from China,<br> 
     mostly members of SOCA;
 
-  3.   Singapore under the Japanese Occupation (1942–45); and
+  3. Singapore under the Japanese Occupation (1942–45); and
 
-  4.   unique artistic personalities, namely Tchang Ju-ch’i, Situ Qiao, both<br>
+  4. unique artistic personalities, namely Tchang Ju-ch’i, Situ Qiao, both<br>
     prominent patriotic artists of the prewar period, and Austrian sculptor<br>
     Karl Duldig, who lived and worked in Singapore in 1939–40.
 
@@ -81,6 +81,3 @@ to use, forming the art society to organise exhibitions and promote their art.
 The society grew year by year, and by 1940 it was 40-strong. Four of its
 members died during World War II, but SOCA bounced back after the war,
 with 65 registered members in 1948.
-
-
-
