@@ -42,5 +42,45 @@ strands of development:1
     prominent patriotic artists of the prewar period, and Austrian sculptor<br>
     Karl Duldig, who lived and worked in Singapore in 1939–40.
 
+The present study focuses on the second strand of development, drawing on
+a wide range of materials, including public and private archives, newspapers,
+school yearbooks, clan association annuals, business directories, magazines,
+periodicals and literary publications. With secondary research, I pieced these
+fragments of information together, to create a more comprehensive and
+historically framed network of human relations, and reconstruct Singapore’s
+early art history.
+
+#### **The Founders of the Society of Chinese Artists**
+
+A group photograph (Figure 1) of SOCA’s founding members around
+September or October 1935, shortly after the society had been registered and
+their first meeting held, marks the beginning of this investigative journey.
+According to the photo’s caption, the artists pictured are as follows: (from
+right to left) Lee Kueh Sei, Tchang Ju-ch’i, Shu Chun Lien, Lu Heng,
+Zhang Bohe, Lin Dao’an, Chen Chong Swee, Cai Zhuzhen, Nai Wen Chie,
+Dai Yinlang, Chang Ming Tzu, Mrs Chang Ming Tzu, Chen Pu Chie, Kau
+Chin Sheng and U-Chow.
+
+SOCA was originally a smaller gathering of alumni from art schools in
+Shanghai2 called the Syrens Art Association. They must have realised,
+however, that limiting membership to Shanghai alumni was denying them
+the critical mass needed for a lively art scene, and that there were many
+more interested artists out there. Formed in early 1935, Syrens very quickly
+opened up for wider membership by September and changed its name to
+Society of Chinese Artists.
+
+Thus the Shanghai alumni formed SOCA’s core. Tchang Ju-ch’i, Cai
+Zhuzhen, Chen Chong Swee,3 Chen Pu Chie and Lee Kueh Sei were
+graduates of Shanghai Art Academy, Shu Chun Lien of Xinhua Academy,
+and Zhang Bohe of Shanghai University. Although it has yet to be
+established if their periods of schooling coincided, we may infer that their
+common Shanghai experience fostered a nucleus of shared interest that
+brought them together while in Singapore. Here, they put their connection
+to use, forming the art society to organise exhibitions and promote their art.
+
+The society grew year by year, and by 1940 it was 40-strong. Four of its
+members died during World War II, but SOCA bounced back after the war,
+with 65 registered members in 1948.
+
 
 
