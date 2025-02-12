@@ -10,13 +10,13 @@ By Gretchen Liu
 
 Note: This article is adapted from the preface of _Bali 1952: Through the Lens of Liu Kang: The Trip to Java and Bali by Four Singapore Pioneering Artists_.
 
-![](/images/Vol%2021%20Issue%201/Forgotten%20Bali/bali_facing.jpg)
-<div>A young Balinese woman waits for customers at her <i>warung</i> (small shop). selling daily necessities and small luxuries. <i>© Liu Kang Family.</i></div>
+![](/images/Vol%2021%20Issue%201/Forgotten%20Bali/bali_verandah.jpg)
+<div>Liu Kang focuses his lens on a large mirror in the verandah of the Dutch-style Maskerdam building in Puri Agung Karangasem, eastern Bali. (From left) Cheong Soo Pieng, Chen Wen Hsi, Luo Ming (Shanghai art school classmate) and Liu Kang.  <i>© Liu Kang Family.</i></div>
 
 _Bali 1952: Through the Lens of Liu Kang_ chronicles the 1952 sketching adventure to Java and Bali by four artists – Chen Wen Hsi, Chen Chong Swee, Cheong Soo Pieng and Liu Kang. It features a selection of the photographs that Liu Kang took during the seven-week trip, from 8 June to 28 July. Forgotten for decades, they were unearthed in 2016 together with a diary he kept during the first half of the trip and nine letters written home.
 
-![](/images/Vol%2021%20Issue%201/Forgotten%20Bali/bali_group.jpg)
-<div>A group photograph for remembrance. (From left) Cheong Soo Pieng (kneeling), Yan Zihe, Chen Chong Swee, Luo Ming (kneeling), Liu Wenbang (Liu Kang’s cousin), Liu Kang and Chen Wen Hsi. <i>© Liu Kang Family.</i></div>
+![](/images/Vol%2021%20Issue%201/Forgotten%20Bali/bali_facing.jpg)
+<div>A young Balinese woman waits for customers at her <i>warung</i> (small shop). selling daily necessities and small luxuries. <i>© Liu Kang Family.</i></div>
 
 My father-in-law, Liu Kang (1911–2004), was one of a small group of China-born, Shanghai-trained artists who settled in Singapore before and after World War II and animated the nascent art scene with a desire to portray their new homeland in art that showed its tropical character. Like many others who are eventually bitten by the family history bug, I regret that I did not learn more about his early life when he was around to answer questions. I never did ask him about the 1952 trip to Bali. In 2011, I was inspired to begin piecing together the details of his artistic journey when I saw the display of archival materials borrowed from the family for the exhibition _Liu Kang: A Centennial Celebration_, which marked the centenary of his birth and commemorated the donation of over 1,000 artworks to the National Heritage Board.[^1]
 
@@ -51,13 +51,7 @@ The photos were taken with a Rolleiflex f/3.5, serial number 1226955. The camera
 ![](/images/Vol%2021%20Issue%201/Forgotten%20Bali/bali_shipment.jpg)
 <div> Inventively arranged, a towering shipment of basketry makes its way to market. <i>© Liu Kang Family.</i></div>
 
-![](/images/Vol%2021%20Issue%201/Forgotten%20Bali/bali_pollok.jpg)
-<div> Ni Pollok, the wife of Belgian artist Adrien Jean Le Mayeur de Merprès, performing a segment of the <i>legong lassem</i>. The <i>legong</i> dance form is characterised by intricate finger movements, complicated footwork, and expressive gestures and facial expressions. <i>© Liu Kang Family.</i></div>
-
 Chen Chong Swee and Cheong Soo Pieng also carried cameras. A skilled photographer, Chen Chong Swee favoured Leicas, according to his son Chen Chi Sing. During the trip, he shot on 35 mm black-and-white film and also developed his film along the way.[^2]
-
-![](/images/Vol%2021%20Issue%201/Forgotten%20Bali/bali_verandah.jpg)
-<div>Liu Kang focuses his lens on a large mirror in the verandah of the Dutch-style Maskerdam building in Puri Agung Karangasem, eastern Bali. (From left) Cheong Soo Pieng, Chen Wen Hsi, Luo Ming (Shanghai art school classmate) and Liu Kang.  <i>© Liu Kang Family.</i></div>
 
 ![](/images/Vol%2021%20Issue%201/Forgotten%20Bali/bali_drink.jpg)
 <div>Chen Chong Swee is on the far right reaching for a drink.  <i>© Liu Kang Family.</i></div>
@@ -71,9 +65,16 @@ It has not been possible to identify the camera used by Cheong Soo Pieng. Accord
 
 Mention must also be made of the fifth participant in the Bali portion of the field trip. Luo Ming can be seen also carrying a camera in Liu Kang’s photographs. A fellow Shanghai Art Academy alumnus, he began a lengthy journey through Southeast Asia in the late 1940s.[^4] Art school ties were rekindled when he visited Singapore in 1948. After a chance meeting with the artists in a Jakarta cafe, he decided to join their Bali sketching adventure. Luo Ming returned to China in 1954, and the fate of his photographs remains unknown.
 
+![](/images/Vol%2021%20Issue%201/Forgotten%20Bali/bali_group.jpg)
+<div>A group photograph for remembrance. (From left) Cheong Soo Pieng (kneeling), Yan Zihe, Chen Chong Swee, Luo Ming (kneeling), Liu Wenbang (Liu Kang’s cousin), Liu Kang and Chen Wen Hsi. <i>© Liu Kang Family.</i></div>
+
+
 Details of the trip come from several sources. First, Liu Kang’s diary, which was also found in his study and remains with the family. He purchased a steno notebook on his first day in Jakarta and recorded people met, places visited, amusing travel anecdotes and his private thoughts. The last entry is dated 29 June. Then there are the letters penned to wives – 11 extant from Chen Chong Swee to Tay Peck Koon, and nine from Liu Kang to Chen Jen Ping – which were reassuring, affectionate and informative.&nbsp;
 
 Eager to put minds at ease, both Chen Chong Swee and Liu Kang posted short letters on 9 June confirming their safe arrival in Jakarta. In subsequent letters one can sense the artists’ eagerness to share their experiences with those at home – comments on hotels (the good, the bad, the amusing), restaurants and meals (the unusual, the delicious), shopping (many visits to bookstores to purchase art supplies) and transportation (car, train and small boat, comfortable and chaotic). The travellers also inquired about children and revealed a tinge of homesickness. Of interest to art historians are hitherto unknown details of two life drawing residencies in Bali, the first near Denpasar and the second in Ubud.
+
+![](/images/Vol%2021%20Issue%201/Forgotten%20Bali/bali_pollok.jpg)
+<div> Ni Pollok, the wife of Belgian artist Adrien Jean Le Mayeur de Merprès, performing a segment of the <i>legong lassem</i>. The <i>legong</i> dance form is characterised by intricate finger movements, complicated footwork, and expressive gestures and facial expressions. <i>© Liu Kang Family.</i></div>
 
 The voices of the artists are gathered from other sources. All four artists wrote or spoke about the trip and its impact on them, but some more than others. Chen Wen Hsi and Liu Kang shared memories in their oral history interviews, recorded by the Oral History Centre in the early 1980s. The first language of the four artists was their Chinese dialect, and then Mandarin. Liu Kang was also fluent in French and could read and speak some English. (His extensive library consisted mainly of books in English.) It is fair to assume that the artists, living in a British colonial society, were exposed to periodicals, especially pictorial ones, in languages other than Chinese.
 
