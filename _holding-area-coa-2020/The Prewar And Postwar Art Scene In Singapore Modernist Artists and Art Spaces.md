@@ -572,6 +572,3 @@ identify that generation we call the pioneer artists.
 the National Museum of Singapore between 2003 and 2013, when she transformed
 the museum and local museum scene. She is also a former Lee Kong Chian
 Research Fellow.</div>
-
-
-
