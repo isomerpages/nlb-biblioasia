@@ -278,3 +278,149 @@ had entries by artists in the Malay Archipelago. A rare image of Cai’s work
 can be found in the 1948 SOCA exhibition catalogue. It depicts an idyllic
 scene of three Malays on a hilltop overlooking a vast expanse of sea and village (Figure 7). In Cai’s obituary, he was lauded as a pioneer in the art
 world and a photographer in Singapore.19
+
+**Dai Yinlang** (戴隱郎; 1907–85) was an enigma in the Singapore/Malaya art
+world. Born in Kuala Lumpur, Dai found himself in Shanghai at a time
+(1931–35) when left-wing socialism was taking hold in literature and the
+visual arts. He most likely became an activist and joined the movement
+spearheaded by Lu Xun to popularise woodcut prints and promote
+social change.
+
+Dai subsequently returned to Malaya and found work at *Nanyang Siang Pau*
+as the editor of the cartoon supplement (《文漫界》). In 1934, Dai was briefly
+in Hong Kong, where he started a woodcut society, the Deep Cut Woodcut
+Society (深刻木刻研究會), and published a 7,000-word Social Realist
+critique of symbolist poetry, which was then fashionable in China.20
+
+Dai likely arrived in Singapore around the mid-1920s armed with a heavy
+left-wing mandate directly from the Communist movement in China, and
+he was widely respected for his political endeavours.
+
+He tirelessly promoted the satirical cartoon as a vehicle for social and
+political criticism and saw great historical importance in this new art
+form.21 He played the role of mentor and critic to his fellow SOCA
+artists. For instance, he wrote an extensive review of SOCA’s inaugural
+exhibition in 1936, giving the artists individual critiques.22 His sharp-lined
+cartoons with anti-Japanese and anti-Imperialist themes were the flavour
+of the day in Singapore and Malaya, particularly at the height of Chinese
+patriotism triggered by Japanese aggression in China from the summer of
+1937 onwards.
+
+Almost immediately after the Marco Polo Bridge incident, Dai organised
+the first Singapore-Malayan Graphic Art Exhibition together with Shu
+Chun Lien and a number of artists. Featuring some 185 works from 40
+artists selected by a highly esteemed panel of artists,23 the spectacular
+exhibition kicked off in Singapore in 1938 before proceeding on a tour of
+the peninsula.
+
+Dai is revered today in art-historical writings for his explicit and accessible
+images of political righteousness, of China’s oppression by imperialism and
+militarism. Unfortunately the second half of Dai’s life, presumably in China
+right through the 1980s, has not been well studied.
+
+**Chang Ming Tzu** (张明慈/张铭慈;24 c. 1898–1982) was the non-artist in
+SOCA. A Yunnanese by birth and a graduate of Peking University, Chang
+came with an illustrious political background, having participated in the
+KMT-led National Revolution (国民革命; 1924–27), which brought him to
+Shanghai, where he had his first encounter with Southeast Asia, or Nanyang
+(南洋). He was part of the editorial team of the seminal journal dedicated
+to Southeast Asia, *The Nanyang Monthly* (《南洋研究》), published by
+Jinan University (暨南大学). Fluent in Japanese, Chang translated Japanese 
+research and reports about Southeast Asia for the journal. His translation of *Nanyo Sodan* (《南洋叢谈》) by Fujiyama Raita25 was published by Jinan
+in 1931.
+
+In the mid-1930s, Chang set up the Kuo Yu Chinese Institution (中国语文
+学院) at 38 Dhoby Ghaut, which was at various times neighbour to Huang
+Pao-fang’s Mei Tong Art Studio at number 42, and Liu Kang’s Morrow
+Studio at number 35.
+
+Kuo Yu was part of the larger Chinese cultural scene; it actively organised
+public lectures by visiting luminaries from China, as well as local speakers.
+Lee Kueh Sei, for example, gave a talk titled “Art and Life” in 1938. During
+the Japanese Occupation, the institution was renamed the East Asian
+Japanese Language Institution (my translation; 东亚日本语学院).
+
+In a seminar organised by *Syonan Asahi* (昭南日报; *The Syonan Daily*) to
+commemorate the first anniversary of the fall of Singapore to Japan, Chang
+was a speaker alongside Chong Beng Si (钟鸣世) of NAFA and Cupid
+Art Studio (天使画室), and Goh Seng Yeok (吴盛育) of Mayfair Musical
+and Dramatic Association (爱华音乐社), and spoke about the 21 Japanese
+language schools that had sprung up on the island.26
+
+Steeped in classical Chinese literature, Chang often shared his poetic skills
+to lend literati credence to artists’ gatherings and works of a more traditional
+style by the artists he socialised with. Chang’s collection of poems, *South Sea
+Poems* (《南遊吟草》), offers a glimpse of the vibrant art scene of the period.
+
+He wrote colophons and most probably personally inscribed works by
+Tsai Wang Ching (蔡寰青), Wong Jai Ling (黄载灵), Xu Qigao (许奇高)
+and Liu Kang.27 When gifted a painting by Xu Beihong (徐悲鸿), Chang
+composed a poem to remember the occasion.28 To commemorate the visits
+to Singapore by Luo Ming (罗铭) and Liu Haisu, both well-known Chinese
+artists, Chang wrote long poems that could well double-up as surveys of
+their exhibitions, because the titles and descriptions of the paintings were cleverly woven into the text.29 These literary details may be useful in future
+identification of these artworks, should they be rediscovered.
+
+Chang was a learned Buddhist scholar much admired in the Buddhist
+community, and his poems are interesting records of visiting monks and
+various Buddhist activities in Singapore.30
+
+Over the years, Chang and his Kuo Yu Chinese Institution most probably
+lent organisational support as well as political connections to the numerous
+artistic and cultural activities taking place during this nascent period of
+Singapore art. But the specifics of his involvement in the art scene remain
+unclear. Further research would help to illuminate the role that intellectuals
+like him played in artistic circles in prewar Singapore.
+
+**U-Chow** (莊有釗; 1907–42) was the brother-in-law of Tchang Ju-ch’i, and
+was generally known without his family name, Chuang/Zhuang or Chng
+(莊). Sometime around 1932, he and Tchang became partners of a design
+and commercial art company, United Painters Studio, operating out of a
+shophouse at 82 Tank Road, which was also Tchang’s residence.
+
+U-Chow presumably had a good command of English as he was designated
+SOCA’s English secretary and press manager. It was very likely because of
+U-Chow that SOCA’s exhibitions and general meetings were covered in the
+prewar English dailies, such as the *Malaya Tribune* and *The Singapore Free
+Press and Mercantile Advertiser.*
+
+The most extensive description of U-Chow comes from a delayed obituary
+written by Chuang U-Ming (莊右銘), which was featured in a special spread
+in *Nanyang Siang Pau* dedicated to SOCA’s first postwar exhibition.31
+U-Chow was described as self-taught in painting and languages – apparently
+he taught himself German without setting foot in Europe.
+
+U-Chow and Chuang were both born in Quanzhou and attended the same
+class, where Chuang noticed U-Chow’s talent in drawing. This talent would
+later be nurtured by an art teacher when U-Chow became a student at Raffles Institution in Singapore. A late bloomer, U-Chow graduated from
+Raffles Institution at 23 and persisted in pursuing a career in art.
+
+In 1931, together with Kau Chin Seng and Lin Chunyuan (林春元), U-Chow
+won the contract for the construction and graphic design of Great World
+Amusement Park. In 1933, U-Chow met Tchang; they became close friends,
+business partners and then family when they married each other’s sister.
+
+Chuang refuted the general opinion that U-Chow’s main source of artistic
+influence had been Tchang, with an insight that could only have come
+from being a close acquaintance. In fact, U-Chow preferred the purity and
+originality found in African and Balinese art.
+
+According to Chuang, U-Chow was also of the opinion that both Xu
+Beihong and Liu Haisu, two titans of the Chinese Modernist movement
+then, were unable to paint freely, because they were constrained by their
+perceptions of their teachers’ styles. U-Chow’s criticism of Xu’s work
+was specific and pointed – because Xu neglected the importance of
+sketching and perspective, his figurative works and portraits were poorly
+executed composites of fragments, resulting in awkward proportions and
+lifeless subjects.
+
+The *Nanyang Siang Pau* story featured two of U-Chow’s works, while
+the SOCA exhibition catalogues of 1939 and 1940 carried some of his watercolours and sketches (Figure 8). One extant work can be found in the
+collection of one of Chuang U-Ming’s descendants and was exhibited and
+published by the Asian Civilisations Museum in 2019 in *Living with Ink: The
+Collection of Dr Tan Tsze Chor*.32
+Figure 8. U-Chow, Malay Girls, watercolour,
+SOCA exhibition catalogue, 1939.
+
+
+
