@@ -278,6 +278,3 @@ had entries by artists in the Malay Archipelago. A rare image of Cai’s work
 can be found in the 1948 SOCA exhibition catalogue. It depicts an idyllic
 scene of three Malays on a hilltop overlooking a vast expanse of sea and village (Figure 7). In Cai’s obituary, he was lauded as a pioneer in the art
 world and a photographer in Singapore.19
-
-
-
