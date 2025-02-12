@@ -81,3 +81,54 @@ to use, forming the art society to organise exhibitions and promote their art.
 The society grew year by year, and by 1940 it was 40-strong. Four of its
 members died during World War II, but SOCA bounced back after the war,
 with 65 registered members in 1948.
+
+#### **Same Path, Different Destinies**
+
+Of the SOCA artists who were active in the prewar as well as preindependence
+art scene, a handful are well documented and have been
+canonised as pioneers of a unique Singapore-Malayan style, including Liu
+Kang, Chen Chong Swee, Chen Wen-hsi, Cheong Soo Pieng, Lim Hak Tai
+and Georgette Chen. This paper aims at filling in the gaps of our knowledge
+about the other artists – those who were part of this critical mass setting
+the Singapore art scene abuzz, but whose careers would take different turns,
+particularly due to the war.
+
+Many founding members would recede into the background, and some even
+retreated from the scene. I have written about Tchang Ju-ch’i, Lu Heng and
+Chen Pu Chie elsewhere,4 and my research did not yield much information
+on Kau Chin Sheng5 and Nai Wen Chie.6 Although this paper does not offer an exhaustive account of the founding members, it reconstructs a fuller
+picture of the scene.
+
+**Lee Kueh Sei** (李魁士; c. 1902–71) was born in Jieyang, Chaozhou, and had
+close links with the Teochews in Muar, Johor. A graduate of the Shanghai
+Academy of Art and National Academy of Art (Hangzhou), Lee was a
+favoured student of painter Liu Haisu (刘海粟). Lee was in Malaya possibly
+as early as 1928, when he posed for a picture with a young Liu Kang (刘抗)
+in Muar.7
+
+Between 1932 and 1937, Lee taught at Chung Hwa in
+Muar, and at Tao Nan School, The Chinese High School
+and Tuan Mong School in Singapore, as well as the
+Nanyang Academy of Fine Arts (NAFA), mostly on a
+part-time basis. By 1938, it seems Lee had left teaching and
+started Khai Ming Bookstore (開明書店) with his friend
+Lu Heng. Lee was active within the Teochew community
+– he was one of the founders of the Kek Yeoh Association
+in 1938 – and was also frequently mentioned in the Tao
+Nan alumni association Nanlu Xueyouhui (南廬學友會)
+and later in 1948 the Jinshi Shuhuashe (金石書畫社), a
+society dedicated to classical painting, calligraphy, seal
+carving and ancient inscriptions.
+
+Lee painted in the Shanghai School style inherited from
+masters such as Ren Bonian and Wu Changshuo and
+perpetuated by the vibrant mercantilism of Shanghai
+where Lee had his formal art education. Most of Lee’s
+extant and published works show a strong preference
+for dramatic composition, excellent brushwork and
+flamboyant calligraphy – all characteristics cherished by
+the Shanghai School (Figure 2). No cartoons or woodcuts
+– in vogue in the 1930s – have been found in Lee’s oeuvre.
+
+
+
