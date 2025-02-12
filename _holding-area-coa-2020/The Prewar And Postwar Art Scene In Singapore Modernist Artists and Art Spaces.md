@@ -567,6 +567,11 @@ art-making formed a foundation for art to develop in postwar and preindependent
 Singapore so that by the 1970s and 1980s, Singapore could
 identify that generation we call the pioneer artists.
 
+<div>
+<b>Lee Chor Lin</b> is an art historian and a museum consultant. She was the director of
+the National Museum of Singapore between 2003 and 2013, when she transformed
+the museum and local museum scene. She is also a former Lee Kong Chian
+Research Fellow.</div>
 
 
 
