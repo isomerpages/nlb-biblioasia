@@ -82,10 +82,10 @@ As I pieced together the story of the trip, I felt an irresistible urge to see w
 
 The photographs in the book appear as Liu Kang framed them. After 70 years, the negatives were in reasonably good condition. However, inevitably after prolonged storage in a warm and humid environment, there were some instances of fading, discolouration and staining that resulted in tonal shifts, and some diminished image density. The digital restoration process involved adjustments to exposure settings, tonal density and the application of digital retouching and enhancement techniques tailored to the specific characteristics of the negatives.
 
-Liu Kang focused his lens on landscape, architecture and scenes of daily life, a combination of documentation, art and street photography – the chance encounters, random incidents and candid scenes that capture a moment in time. In this way, the photographs offer not only a comprehensive record of the field trip, but also a snapshot of a particular moment in Indonesian history. While we will never know why he took so many photographs (for pleasure? to publish?), the forgotten photographs can at last be seen. As to what light they may shed on the larger story of Singapore’s art history, that is for others to discuss and debate.
-
 ![](/images/Vol%2021%20Issue%201/Forgotten%20Bali/bali_ceremony.jpg)
 <div>Women formally dressed for a temple ceremony carry their offerings.  <i>© Liu Kang Family.</i></div>
+
+Liu Kang focused his lens on landscape, architecture and scenes of daily life, a combination of documentation, art and street photography – the chance encounters, random incidents and candid scenes that capture a moment in time. In this way, the photographs offer not only a comprehensive record of the field trip, but also a snapshot of a particular moment in Indonesian history. While we will never know why he took so many photographs (for pleasure? to publish?), the forgotten photographs can at last be seen. As to what light they may shed on the larger story of Singapore’s art history, that is for others to discuss and debate.
 
 ![](/images/Vol%2021%20Issue%201/Forgotten%20Bali/bali_wayan.jpg)
 <div>I Wayan Rindi performing the <i>kebyar duduk</i>. The name <i>kebyar duduk</i> is derived from the way in which the dance is performed: in an almost seated position (<i>duduk</i>).  <i>© Liu Kang Family.</i></div>
