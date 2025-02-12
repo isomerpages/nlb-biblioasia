@@ -197,5 +197,39 @@ also active in both Peking opera and modern theatre, performing on radio
 with the Ping She (平社) opera association and in various productions
 presented by NCSS.
 
+**Zhang Bohe** (張伯河; 1901–57) came from Puning, Chaozhou, and studied
+in Shantou’s Zhendong Secondary School (震东中学), where his artistic
+talent won him a scholarship to pursue art at the Shanghai Arts College
+under Shanghai University. In 1926, he graduated with the first batch of the
+Arts and Crafts class of its teachers’ training programme.
+
+Not much else is known about Zhang’s life, but he left behind enough
+works for his son to organise an exhibition and publish a catalogue of all
+his works in 2005 in Singapore.14 This catalogue is a summary of Zhang’s
+multifaceted talent – as a Chinese ink painter, sketcher, watercolourist,
+designer, poet and art educator (as demonstrated by his essays on
+teaching art).
+
+Zhang’s teaching tenure at Tuan Mong School in Singapore gave him
+a platform to express his artistic ideas. For example, he was the artistic
+director for the school’s yearbook of 1931. His watercolour painting of the school building in Tank Road facing a wide field forms the establishing
+shot of Tuan Mong at the start of the publication (Figure 4). He also
+made drawings for chapter dividers and page backgrounds, and three
+pencil sketches.15
+
+**Lin Dao’an** (林道盫; 1908–42) was the younger brother of *Sin Chew Jit
+Poh*’s manager, Lin Aimin (林靄民). A native of Fujian, the younger Lin was
+a student of Liu Haisu (刘海粟) at the Shanghai Academy of Art. Before
+becoming a picture editor at *Sin Chew* by 1934, Lin was based in Hong
+Kong, producing advertising illustrations for a wide range of clients.
+
+In 1936, he contributed two oil paintings for the inaugural SOCA
+exhibition, but by 1937 he seemed to have retreated from active participation.
+However, he continued to produce graphic and advertising works for *Sin
+Chew* and its pictorial magazine *Starlight*, and *Up to Date* magazine. In the
+7th SOCA exhibition, he was named as one of the SOCA martyrs who died
+during the Sook Ching purge in early 1942, which suggests that he kept
+close ties with the artists.
+
 
 
