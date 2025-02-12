@@ -130,5 +130,72 @@ flamboyant calligraphy – all characteristics cherished by
 the Shanghai School (Figure 2). No cartoons or woodcuts
 – in vogue in the 1930s – have been found in Lee’s oeuvre.
 
+Lee gave a public talk on art in 1938 at the invitation of
+the Kuo Yu Chinese Institution run by fellow SOCA
+member Chang Ming Tzu, and also wrote a short review
+of an exhibition of works by Wang Jiyuan, a professor of the Shanghai Art Academy.8 Both instances reveal Lee’s thoughts on art.
+Obviously influenced by the education philosophy of Cai Yuanpei, father of
+modern Chinese education, Lee believed that art had motivational power
+and could nourish one’s spiritual life; it was a way of expressing one’s ideas
+and emotions. However, at the height of Japanese aggression in China, Lee
+thought art should serve the cause of patriotism by explicitly depicting mass
+suffering to inspire people to rise up against oppression.
+
+Lee was incarcerated by the Japanese army in 1942 shortly after Singapore
+fell. After his release, Lee largely went by the name of Lee Ta Bai, perhaps
+to evade persecutors. He remained active in social gatherings and taught
+from time to time at NAFA, but it was said that his health had been badly
+affected during his incarceration and he suffered various illnesses during
+the 1960s. He passed away in September 1971 and was remembered in his
+obituary as an artist and cultural personality.9
+
+**Shu Chun Lien** (徐君濂 Xu Junlian; 1911–c. 2000) was a Shanghainese
+who received his formal art training at Xinhua School of Art. Shu’s name
+first appeared in Singapore Chinese dailies around August 1933, in an
+announcement for the second Chinese trade fair held at Great World
+Amusement Park. He is mentioned together with artists Tchang Ju-ch’i,
+Lin Dao’an, Zhang Bohe and Huang Cheng Chuan (黃清泉).10 Around the
+same time, Shu began working for *Sin Chew Jit Poh* (《星洲日報》) as an
+editor and artistic director of its literary supplement and pictorial, which
+Tchang and Lin also worked on.
+
+Shu painted in a relatively academic realist style, as can be seen in the
+two oil paintings he contributed to the SOCA exhibitions in 1939 (*Malay
+Kampong*) and 1940 (*Landscape*) and published in the catalogues. His other
+oil works of the prewar period were documented in Chinese newspaper
+articles, but unfortunately without images.
+
+Shu was probably more prolific in producing graphic and design works.
+He was close to his colleagues at *Sin Chew Jit Poh*, some of whom started a
+magazine dedicated to current affairs and contemporary literature called *Up
+to Date* (《今代》). Shu wrote fictional pieces and drew satirical cartoons for
+the magazine. An elaborate cartoon titled *Signs of a Decline* (没落的徵象)
+can be found in the inaugural issue of May 1934 (Figure 3). Around the same
+time, Shu started a short stint teaching art at The Chinese High School.
+
+Shu’s other illustrations appeared in an essay on children’s health in a
+pictorial published in February 1936 by the Nantao Publishing House
+(南島出版社) owned by Phua Chay Long (潘醒農), and a map of Hainan
+island commissioned by the Hainan Association for a war fundraising effort
+in March 1939. He also produced a drawing for a stage layout when the
+Nanyang Chinese Students Society (NCSS) created a performance space
+and stage on their pre mises in 1934.11 In July 1941, Shu teamed up with his *Sin Chew* colleague Lin Dao’an to set up the Daying (“Big Eagle”) Art
+Studio (大鹰画室), offering painting, drawing and signage production.12
+
+Ink painting was also part of Shu’s repertoire. In 1974 and 1979, Shu – who
+had returned to China for good around the early 1950s – presented his ink
+paintings to Liu Kang and his wife, who were part of an official delegation
+of Singapore artists on a historic visit to China, which had just reopened its
+doors to the world. These paintings have been kept in the Liu Kang family
+archive; one of them was exhibited in the Asian Civilisations Museum in
+2019–20.13
+
+Shu was also well known for his literary endeavours. In 1950, his novel and
+short stories were published as *Rooftop Hotel* (《天台旅館》) and *Winter in
+Dingjiaqiao* (《丁家橋之冬》) by *Nanyang Siang Pau* (《南洋商报》). He was
+also active in both Peking opera and modern theatre, performing on radio
+with the Ping She (平社) opera association and in various productions
+presented by NCSS.
+
 
 
