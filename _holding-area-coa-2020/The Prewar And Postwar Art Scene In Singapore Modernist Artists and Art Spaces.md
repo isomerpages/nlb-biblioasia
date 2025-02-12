@@ -231,5 +231,53 @@ Chew* and its pictorial magazine *Starlight*, and *Up to Date* magazine. In the
 during the Sook Ching purge in early 1942, which suggests that he kept
 close ties with the artists.
 
+At present, no oil paintings by Lin have been located, but his graphic works
+have been preserved in many publications and newspapers. In a colourful
+advertisement created for *Sin Chew*, Lin’s striking lettering takes centre
+stage, while a rooster, shoreline and coconut trees are silhouetted in blocks
+of flat colour (Figure 5). His signature is executed with a hard-nibbed pen
+instead of a brush, reflecting a general preference among
+young intellectuals of that era for the convenience
+of modern fountain pens, pencils or technical
+writing implements.
+
+In the inaugural issue of *Up to Date*, Lin contributed
+three delightful cartoons featuring beautifully drawn
+figures, titled *The Shape of an Elephant, Progress? Or
+Digress?* and *Between the Two Sexes*. Here his signature
+also reveals a playful humour as he drags out the
+complicated radicals and strokes of the word 盫 to form a string-like scribble (Figure 6). In this issue, Lin also wrote a short
+piece on his mentor, Liu Haisu.16
+
+While in Singapore, Lin maintained ties with artists in Shanghai. In
+September 1937 he was recruited to join *Jiuwang Manhua* (《救亡漫画》),
+established by patriotic graphic artists in response to the outbreak of war
+between Japan and China. The group included prominent cartoon artists
+such as Ding Cong (丁聪), Zhang Guangyu (张光宇), Huang Miaozi
+(黄苗子), Huang Yao (黄尧), Ye Qianyu (叶浅予) and Zhang Leping
+(张乐平).
+
+Lin’s Shanghainese connection also brought him close to Shu Chun Lien,
+his fellow picture editor at *Sin Chew* as well as *Up to Date* contributor.
+The two men set up Big Eagle Studio. Advertisements announcing the
+establishment of the art studio were carried in both *Sin Chew* and *Nanyang
+Siang Pau*, the former touting it as a new wave in the art world. The studio’s
+vision statement – “The capital of a business is the advertising; art is the life
+of the merchandise” – was said to have caused a stir in the business and art
+community in Singapore.17
+
+Lin’s high-profile career and dynamic partnership with Shu were cut short
+when Lin died during the Sook Ching purge in February 1942, barely seven
+months after the launch of Big Eagle Studio. He was only 35.18
+
+**Cai Zhuzhen** (蔡竹貞; c. 1900–74) trained at the Shanghai Academy of Art
+under Liu Haisu. He rarely exhibited his works in the years leading up to
+the war in Singapore, though his participation was recorded in the 1936
+exhibition and the iconic cartoon and photography exhibition in 1938, which
+had entries by artists in the Malay Archipelago. A rare image of Cai’s work
+can be found in the 1948 SOCA exhibition catalogue. It depicts an idyllic
+scene of three Malays on a hilltop overlooking a vast expanse of sea and village (Figure 7). In Cai’s obituary, he was lauded as a pioneer in the art
+world and a photographer in Singapore.19
+
 
 
