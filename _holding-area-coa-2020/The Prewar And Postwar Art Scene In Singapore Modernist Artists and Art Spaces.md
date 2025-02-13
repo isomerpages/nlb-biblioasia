@@ -257,6 +257,12 @@ Chew* and its pictorial magazine *Starlight*, and *Up to Date* magazine. In the
 during the Sook Ching purge in early 1942, which suggests that he kept
 close ties with the artists.
 
+![](/images/COA%202020/Prewar%20And%20Postwar/Lin_Dao_an.jpg)
+<img src="/images/COA%202020/Prewar%20And%20Postwar/Lin_Dao_an.jpg" style="width:50%;">
+ <div style="background-color: white;">Lin Dao’an, illustration for a full-page
+advertisement for <i>Sin Chew Jit Poh,</i> Singapore
+Chinese Chamber of Commerce’s yearbook, 1931.</div>
+
 At present, no oil paintings by Lin have been located, but his graphic works
 have been preserved in many publications and newspapers. In a colourful
 advertisement created for *Sin Chew*, Lin’s striking lettering takes centre
