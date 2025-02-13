@@ -61,6 +61,11 @@ Zhang Bohe, Lin Dao’an, Chen Chong Swee, Cai Zhuzhen, Nai Wen Chie,
 Dai Yinlang, Chang Ming Tzu, Mrs Chang Ming Tzu, Chen Pu Chie, Kau
 Chin Sheng and U-Chow.
 
+<img src="/images/COA%202020/Prewar%20And%20Postwar/SOCA_s_founding_members.jpg" style="width:50%;">
+ <div style="background-color: white;">SOCA’s founding members, September–October 1935, <i>Annual Art
+Exhibition,</i> SOCA, 1966.</div>
+
+
 SOCA was originally a smaller gathering of alumni from art schools in
 Shanghai[^2] called the Syrens Art Association. They must have realised,
 however, that limiting membership to Shanghai alumni was denying them
