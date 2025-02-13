@@ -133,7 +133,7 @@ for dramatic composition, excellent brushwork and
 flamboyant calligraphy – all characteristics cherished by
 the Shanghai School (Figure 2). No cartoons or woodcuts
 – in vogue in the 1930s – have been found in Lee’s oeuvre.
-![](/images/COA%202020/Prewar%20And%20Postwar/Lee_Kueh1.jpg)
+
 <img src="/images/COA%202020/Prewar%20And%20Postwar/Lee_Kueh1.jpg" style="width:50%;">
  <div style="background-color: white;">Lee Kueh
 Sei, painting
