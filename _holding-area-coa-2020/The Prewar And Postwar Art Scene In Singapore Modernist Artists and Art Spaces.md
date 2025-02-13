@@ -133,6 +133,16 @@ for dramatic composition, excellent brushwork and
 flamboyant calligraphy – all characteristics cherished by
 the Shanghai School (Figure 2). No cartoons or woodcuts
 – in vogue in the 1930s – have been found in Lee’s oeuvre.
+![](/images/COA%202020/Prewar%20And%20Postwar/Lee_Kueh1.jpg)
+<img src="/images/COA%202020/Prewar%20And%20Postwar/Lee_Kueh1.jpg" style="width:50%;">
+ <div style="background-color: white;">Lee Kueh
+Sei, painting
+dedicated to
+Lim You Ching
+(principal of St
+Theresa’s Convent),
+SOCA exhibition
+catalogue, 1940.</div>
 
 Lee gave a public talk on art in 1938 at the invitation of
 the Kuo Yu Chinese Institution run by fellow SOCA
