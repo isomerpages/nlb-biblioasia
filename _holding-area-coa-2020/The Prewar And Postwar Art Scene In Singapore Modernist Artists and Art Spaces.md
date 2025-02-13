@@ -639,45 +639,45 @@ Zhang Bohe 张伯河. _Zhangbohe huihua shi wen jinian ji_ [张伯河绘画诗�
 
 #### **NOTES**  
 
-1 Yeo Mang Thong, [_Migration, Transmission, Localisation: Visual Art in Singapore (1886–1945)_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203803809) (Singapore: National Gallery Singapore, 2019). (From National Library Singapore, call no. RSING 709.5957 YAO)
+[^1]: Yeo Mang Thong, [_Migration, Transmission, Localisation: Visual Art in Singapore (1886–1945)_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203803809) (Singapore: National Gallery Singapore, 2019). (From National Library Singapore, call no. RSING 709.5957 YAO)
 
-2 Namely, the Shanghai Art Academy, Xinhua Academy and Shanghai Arts College.&nbsp;
+[^2]: Namely, the Shanghai Art Academy, Xinhua Academy and Shanghai Arts College.&nbsp;
 
-3 Chen Chong Swee (陳宗瑞; 1910–85) is the only canonised Singapore pioneer artist who was a founding member of both SOCA and possibly its former incarnation as the Syrens Art Association. Chen’s life and art are well documented, and his writings have been published posthumously by national institutions.
+[^3]: Chen Chong Swee (陳宗瑞; 1910–85) is the only canonised Singapore pioneer artist who was a founding member of both SOCA and possibly its former incarnation as the Syrens Art Association. Chen’s life and art are well documented, and his writings have been published posthumously by national institutions.
 
-4 For more on Tchang Ju-ch’i (張汝器; 1904–42), Lu Heng (盧衡; 1902–61) and Chen Pu Chie (陳溥之/ 陳普之; 1911–50), see Lee Chor Lin, “[Chinese Graphic Artists in Pre-war Singapore](https://biblioasia.nlb.gov.sg/vol-17/issue-2/jul-sep-2021/chinese-artists/),” _BiblioAsia_ 17, no. 2 (2021).
+[^4]: For more on Tchang Ju-ch’i (張汝器; 1904–42), Lu Heng (盧衡; 1902–61) and Chen Pu Chie (陳溥之/ 陳普之; 1911–50), see Lee Chor Lin, “[Chinese Graphic Artists in Pre-war Singapore](https://biblioasia.nlb.gov.sg/vol-17/issue-2/jul-sep-2021/chinese-artists/),” _BiblioAsia_ 17, no. 2 (2021).
 
-5 Apart from being a founding member of SOCA, Kau Chin Sheng (高振聲) was a business partner with U-Chow in the production of commercial advertising and signage.
+[^5]: Apart from being a founding member of SOCA, Kau Chin Sheng (高振聲) was a business partner with U-Chow in the production of commercial advertising and signage.
 
-6 Although Nai Wen Chie (賴文基) was active through to the 1980s, very little has been documented about him in publicly accessible archives and sources. In the early years of SOCA, his works were mainly sketches, watercolours and oils.&nbsp;
+[^6]: Although Nai Wen Chie (賴文基) was active through to the 1980s, very little has been documented about him in publicly accessible archives and sources. In the early years of SOCA, his works were mainly sketches, watercolours and oils.&nbsp;
 
-7 Liu Kang family archives.&nbsp;
+[^7]: Liu Kang family archives.&nbsp;
 
-8 “Guoyu ye xueyuan yanjiang hui likuishi jun jiangyan ‘yishu yu rensheng’” [国语夜学院演讲会李魁士君讲演『艺术与人生](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19360109-1.2.52.3) \[National Language Night School hosts talk by Lee Kueh Sei on “Art and Life”\], _Nanyang Siang Pau_ 南洋商报, 9 January 1936, 8; “ Wangjiyuan de hua” [王济远的画](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19380415-1.2.162) \[Wang Jiyuan’s paintings\], _Nanyang Siang Pau_ 南洋商报, 15 April 1938, 29. (From NewspaperSG)
+[^8]: Guoyu ye xueyuan yanjiang hui likuishi jun jiangyan ‘yishu yu rensheng’” [国语夜学院演讲会李魁士君讲演『艺术与人生](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19360109-1.2.52.3) \[National Language Night School hosts talk by Lee Kueh Sei on “Art and Life”\], _Nanyang Siang Pau_ 南洋商报, 9 January 1936, 8; “ Wangjiyuan de hua” [王济远的画](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19380415-1.2.162) \[Wang Jiyuan’s paintings\], _Nanyang Siang Pau_ 南洋商报, 15 April 1938, 29. (From NewspaperSG)
 
-9 “Likuishishi shi,” [李魁士逝世](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19710909-1.2.38.7) \[Lee Kueh Sei passes away\], _Nanyang Siang Pau_ 南洋商报, 9 September 1971, 16. (From NewspaperSG)
+[^9]: Likuishishi shi,” [李魁士逝世](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19710909-1.2.38.7) \[Lee Kueh Sei passes away\], _Nanyang Siang Pau_ 南洋商报, 9 September 1971, 16. (From NewspaperSG)
 
-10 “Da shijie di er jie guohuo zhanlan hui tekan jinri chuban” [大世界第二屆國貨展覽會特刊今日出版](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19330805-1.2.53.3) \[Catalogue of the Second National Products Exposition at the Great World goes on sale today\], _Nanyang Siang Pau_ 南洋商报, 5 August 1933, 8. (From NewspaperSG)&nbsp;
+[^10]: Da shijie di er jie guohuo zhanlan hui tekan jinri chuban” [大世界第二屆國貨展覽會特刊今日出版](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19330805-1.2.53.3) \[Catalogue of the Second National Products Exposition at the Great World goes on sale today\], _Nanyang Siang Pau_ 南洋商报, 5 August 1933, 8. (From NewspaperSG)&nbsp;
 
-11 “Qing nian lizhi she xinzao xitai yi jungong shang ni tianzhì bujing” [靑年勵志社新造戲台已竣工尚擬添置布景](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19340203-1.2.48.10) \[The stage of The Nanyang Chinese Students Society is completed with backdrop\], _Nanyang Siang Pau_ 南洋商报, 3 February 1934, 5. (From NewspaperSG)
+[^11]: “Qing nian lizhi she xinzao xitai yi jungong shang ni tianzhì bujing” [靑年勵志社新造戲台已竣工尚擬添置布景](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19340203-1.2.48.10) \[The stage of The Nanyang Chinese Students Society is completed with backdrop\], _Nanyang Siang Pau_ 南洋商报, 3 February 1934, 5. (From NewspaperSG)
 
-12 “Líndao an xujunlian deng chuangli daying huashì” [林道盦徐君濂等創立大鷹畫室](https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19410704-1.2.12.15) \[Lin Dao’an, Shu Chun Lien and others set up Daying Art Studio\], _Nanyang Siang Pau_ 南洋商报, 4 July 1941, 9. (From NewspaperSG)
+[^12]: “Líndao an xujunlian deng chuangli daying huashì” [林道盦徐君濂等創立大鷹畫室](https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19410704-1.2.12.15) \[Lin Dao’an, Shu Chun Lien and others set up Daying Art Studio\], _Nanyang Siang Pau_ 南洋商报, 4 July 1941, 9. (From NewspaperSG)
 
-13 See Asian Civilisations Museum, [_Living With Ink: The Collection of Dr Tan Tsze Chor_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=204082270) (Singapore: Asian Civilisations Museum, 2019), 110–11, figs. 59–60. (From National Library Singapore, call no. RSING 759.951 LIV)
+[^13]: See Asian Civilisations Museum, [_Living With Ink: The Collection of Dr Tan Tsze Chor_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=204082270) (Singapore: Asian Civilisations Museum, 2019), 110–11, figs. 59–60. (From National Library Singapore, call no. RSING 759.951 LIV)
 
-14 Zhang Bohe 张伯河, _Zhangbohe huihua shi wen jinian ji_ [张伯河绘画诗文纪念集](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12912820) \[A Commemorative Collection of Zhang Bohe’s Paintings, Poems and Essays\] (Singapore: Zhang Zhongzhao, 2007). (From National Library Singapore, call no. Chinese RSING 759.95957 ZBH)
+[^14]: Zhang Bohe 张伯河, _Zhangbohe huihua shi wen jinian ji_ [张伯河绘画诗文纪念集](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12912820) \[A Commemorative Collection of Zhang Bohe’s Paintings, Poems and Essays\] (Singapore: Zhang Zhongzhao, 2007). (From National Library Singapore, call no. Chinese RSING 759.95957 ZBH)
 
-15 _Duan meng xuexiao ershiwu zhounian jìnian kan_ 端蒙学校二十五周年纪念刊 \[Tuan Mong School’s 25th anniversary commemoration publication\] (Singapore: Tuan Mong School, 1931)
+[^15]: _Duan meng xuexiao ershiwu zhounian jìnian kan_ 端蒙学校二十五周年纪念刊 \[Tuan Mong School’s 25th anniversary commemoration publication\] (Singapore: Tuan Mong School, 1931)
+ 
+[^16]: 今代 \[Up to date\], vol. 2, 16 May 1934.
 
-16 今代 \[Up to date\], vol. 2, 16 May 1934.
+[^17]: “Yishu jie yijuntuqi lindao an xujunlian deng chuangli \[daying huashi\]” [藝術界異軍突起 林道盦徐君濂等 創立［大鷹畫室\]](https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19410704-1.2.12.15) \[New groups rising in the arts: Lin Dao’an, Shu Chun Lien and others set up Daying Art Studio\], _Sin Chew Jit Poh_ 星洲日報, 4 July 1941, 9 (From NewspaperSG); “[Líndao an xujunlian deng chuangli daying huashì](https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19410704-1.2.12.15).”
 
-17 “Yishu jie yijuntuqi lindao an xujunlian deng chuangli \[daying huashi\]” [藝術界異軍突起 林道盦徐君濂等 創立［大鷹畫室\]](https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19410704-1.2.12.15) \[New groups rising in the arts: Lin Dao’an, Shu Chun Lien and others set up Daying Art Studio\], _Sin Chew Jit Poh_ 星洲日報, 4 July 1941, 9 (From NewspaperSG); “[Líndao an xujunlian deng chuangli daying huashì](https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19410704-1.2.12.15).”
+[^18]: As Lin’s role in the art scene was largely editorial, it would take another research trajectory to place him in the context of Modernist Chinese graphic art in Southeast Asia.&nbsp;
 
-18 As Lin’s role in the art scene was largely editorial, it would take another research trajectory to place him in the context of Modernist Chinese graphic art in Southeast Asia.&nbsp;
+[^19]: “Woguo meishujia caizhuzhen shishi” [我国美術家蔡竹貞逝世](https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19740917-1.2.30.16) \[Local artist Cai Zhuzhen passes away\], _Sin Chew Jit Poh_ 星洲日報, 17 September 1974, 8. (From NewspaperSG)
 
-19 “Woguo meishujia caizhuzhen shishi” [我国美術家蔡竹貞逝世](https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19740917-1.2.30.16) \[Local artist Cai Zhuzhen passes away\], _Sin Chew Jit Poh_ 星洲日報, 17 September 1974, 8. (From NewspaperSG)
-
-20 Leonard K. K. Chan 陳國球, _Xianggang de shuqing shi_ [香港的抒情史](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202764425) \[Hong Kong in its history of lyricism\] (香港: 中文大學出版社, 2016), 164–65. (From National Library Singapore, call no. Chinese C810.04 CGQ)&nbsp;
+[^20]: Leonard K. K. Chan 陳國球, _Xianggang de shuqing shi_ [香港的抒情史](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202764425) \[Hong Kong in its history of lyricism\] (香港: 中文大學出版社, 2016), 164–65. (From National Library Singapore, call no. Chinese C810.04 CGQ)&nbsp;
 
 21 “Manhua de shidai jiazhi: Dai yin lang zai guoyu ye xueyuan zhi yan ci” [漫畫的時代價值: 戴隱郎在國語夜學院之演詞](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19360217-1.2.38.4) \[The value of cartoons in our time\], _Nanyang Siang Pau_ 南洋商报, 17 February 1936, 5. (From NewspaperSG)
 
