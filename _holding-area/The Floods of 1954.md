@@ -7,7 +7,7 @@ description: ""
 #### The severe floods of 1954 tested community resilience, spurred significant infrastructure improvements and left a lasting impact on Singapore’s flood preparedness measures.  
 By Darren Seow
 
-![](/images/Vol%2021%20Issue%201/Floods/floods_facing.jpg)
+![](/images/Vol%2021%20Issue%201/Floods/floods_facing2.jpg)
 <div> Children in a flooded house in Potong Pasir, 17 December 1954. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 It started as a heavy drizzle on the evening of 8 December 1954. Then at 11.20 pm, a torrential downpour began that continued throughout the night, into the next day and then into the night again. In the end, a record 10.9 in (276.89 mm) of rain fell over 24 hours.&nbsp;
@@ -51,7 +51,7 @@ The October floods also affected 400 homes housing some 3,000 people in the Bedo
 
 The governor of Singapore, John Nicoll, visited the Bedok resettlement village that night. The village headman told him that 150 acres had been submerged under 3.5 ft (1.1 m) of water, marking the most serious flood in two decades. Experts from the City Council investigated and explained that “water from Tampines and Changi Roads had not been able to flow out to the sea because of the narrowness of the mouth of the Bedok River”.[^10]
 
-![](/images/Vol%2021%20Issue%201/Floods/floods_village.jpg)
+![](/images/Vol%2021%20Issue%201/Floods/floods_village2.jpg)
 <div> The Bedok resettlement village on Koh Sek Lim Road, off Upper Changi Road, in August 1952 prior to the 1954 floods. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore. </i></div>
 
 Social welfare officials provided meals to affected villagers and sampans were used to evacuate people from submerged attap huts. Many sought shelter with friends and relatives, while the village school and wayang area were converted into temporary sleeping quarters.&nbsp;
