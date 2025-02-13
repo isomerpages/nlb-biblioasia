@@ -573,7 +573,7 @@ War II.
 
 <img src="/images/COA%202020/Prewar%20And%20Postwar/In_1948_a_fire_broke_out_at_the_Shaw_Brothers.jpg" style="width:80%;">
  <div style="background-color: white;">In 1948 a fire broke out at the Shaw Brothers’ building, where the Mayfair
-established its headquarters.<i>Malaya Tribune, 8 December 1948, 1. (From NewspaperSG).</i></div>
+established its headquarters.<i> Malaya Tribune, 8 December 1948, 1. (From NewspaperSG).</i></div>
 
 Without a sufficiently large venue in its early years, Mayfair rehearsed in
 the homes of friends and patrons. By 1938, however, under the patronage
