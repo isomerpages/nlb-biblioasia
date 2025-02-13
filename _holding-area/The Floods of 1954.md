@@ -7,6 +7,9 @@ description: ""
 #### The severe floods of 1954 tested community resilience, spurred significant infrastructure improvements and left a lasting impact on Singapore’s flood preparedness measures.  
 By Darren Seow
 
+![](/images/Vol%2021%20Issue%201/Floods/floods_facing.jpg)
+<div> Children in a flooded house in Potong Pasir, 17 December 1954. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 It started as a heavy drizzle on the evening of 8 December 1954. Then at 11.20 pm, a torrential downpour began that continued throughout the night, into the next day and then into the night again. In the end, a record 10.9 in (276.89 mm) of rain fell over 24 hours.&nbsp;
 
 It rained so much that at 4.40 pm on 9 December, Kallang Airport was closed to traffic and aircraft on their way to Singapore were diverted to Butterworth in Penang over 800 km away. The rain caused flooding in some 2,500 acres of land, with Bedok being the most severely affected. Other badly flooded areas were Bukit Timah, Grove Estate, Orchard Road, Telok Ayer, Robinson Road, Cecil Street and Anson Road.[^1]
@@ -14,6 +17,12 @@ It rained so much that at 4.40 pm on 9 December, Kallang Airport was closed to t
 Among those rescued were a mother and her newborn (just 12 hours old), who had to be saved from their flooded home on Aljunied Road. “Rescuers, wading in water chest high in semi-darkness, carried the mother to safety on a stretcher. The baby, curled up in blankets, was carried by a relative,” reported the _Straits Times_.[^2]
 
 Although floodwaters began to recede on 10 December, many areas were still submerged in water, including Bedok, Potong Pasir, Bukit Timah and Geylang Serai. Floodwaters had entered homes, damaging furniture and personal belongings. “When the people return to their homes they will find plenty of mud and debris. The only people who were happy were children swimming in the ponds,” said City Engineer George Edmond who toured the flood areas that day.[^3]
+
+![](/images/Vol%2021%20Issue%201/Floods/floods_submerged.jpg)
+<div> Large parts of Bedok being submerged, 9 December 1954. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
+![](/images/Vol%2021%20Issue%201/Floods/floods_family.jpg)
+<div> A family inside their flooded home in Bedok, 9 December 1954. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 What the unfortunate people of Singapore did not know at the time was that these scenes would be repeated just a week later.
 
