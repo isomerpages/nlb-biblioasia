@@ -51,6 +51,9 @@ The October floods also affected 400 homes housing some 3,000 people in the Bedo
 
 The governor of Singapore, John Nicoll, visited the Bedok resettlement village that night. The village headman told him that 150 acres had been submerged under 3.5 ft (1.1 m) of water, marking the most serious flood in two decades. Experts from the City Council investigated and explained that “water from Tampines and Changi Roads had not been able to flow out to the sea because of the narrowness of the mouth of the Bedok River”.[^10]
 
+![](/images/Vol%2021%20Issue%201/Floods/floods_village.jpg)
+<div> The Bedok resettlement village on Koh Sek Lim Road, off Upper Changi Road, in August 1952 prior to the 1954 floods. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore. </i></div>
+
 Social welfare officials provided meals to affected villagers and sampans were used to evacuate people from submerged attap huts. Many sought shelter with friends and relatives, while the village school and wayang area were converted into temporary sleeping quarters.&nbsp;
 
 Among those affected was 74-year-old Low Yoke, who had been rescued from drowning. After leaving her home, she “fell into a ditch and was about to disappear under water when two men heard her cries”. Despite her age and her brush with death, she returned by sampan to her waterlogged home later that night to retrieve her wedding ring that she had kept in the bedroom. She was not merely being sentimental though. At least one home had been burgled and the villagers formed a vigilante group to guard the area.[^11]
