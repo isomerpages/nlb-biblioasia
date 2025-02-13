@@ -231,7 +231,14 @@ teaching art).
 
 Zhang’s teaching tenure at Tuan Mong School in Singapore gave him
 a platform to express his artistic ideas. For example, he was the artistic
-director for the school’s yearbook of 1931. His watercolour painting of the school building in Tank Road facing a wide field forms the establishing
+director for the school’s yearbook of 1931. His watercolour painting of the 
+
+<img src="/images/COA%202020/Prewar%20And%20Postwar/Zhang_Bole.jpg" style="width:80%;">
+ <div style="background-color: white;">Zhang Bohe, <i>A Far View of the Main School Building,</i> watercolour,
+Tuan Mong School’s 25th anniversary commemoration publication, 1931.</div>
+
+
+school building in Tank Road facing a wide field forms the establishing
 shot of Tuan Mong at the start of the publication (Figure 4). He also
 made drawings for chapter dividers and page backgrounds, and three
 pencil sketches.[^15] 
