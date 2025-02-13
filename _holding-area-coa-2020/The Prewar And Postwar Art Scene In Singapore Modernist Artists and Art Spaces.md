@@ -557,6 +557,11 @@ started as a band in June 1934 under the name Mayfair Musical Party
 Mayfair band played regularly at openings, fundraising shows and social
 events in the Chinese community.
 
+<img src="/images/COA%202020/Prewar%20And%20Postwar/A_group_photo_taken_in_1935.jpg" style="width:80%;">
+ <div style="background-color: white;">A group photo taken in 1935 to mark Mayfair’s first anniversary shows a sizeable
+Western band of about 30 players of the violin, guitar, banjo, brass and percussion. <i>Malaya
+Tribune, 14 September 1935, 20. (From NewspaperSG).</i></div>
+	
 An Ai Tong Primary alumnus, Goh brought Mayfair to play at the school’s
 concerts. The band provided the musical interlude, for example, at a 1935
 Mandarin speech competition organised by the NCSS and hosted at Ai
@@ -565,6 +570,10 @@ provided performance and accompaniment and Goh even played a female
 role in a new play, *Huanengying* (花弄影; Flowery Shadows).[^40] Mayfair
 would later organise the first mass weddings in Singapore, before World
 War II.
+
+<img src="/images/COA%202020/Prewar%20And%20Postwar/In_1948_a_fire_broke_out_at_the_Shaw_Brothers.jpg" style="width:80%;">
+ <div style="background-color: white;">In 1948 a fire broke out at the Shaw Brothers’ building, where the Mayfair
+established its headquarters.<i>Malaya Tribune, 8 December 1948, 1. (From NewspaperSG).</i></div>
 
 Without a sufficiently large venue in its early years, Mayfair rehearsed in
 the homes of friends and patrons. By 1938, however, under the patronage
