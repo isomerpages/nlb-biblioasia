@@ -112,15 +112,15 @@ This integrated solution aims to protect Singapore’s coastlines, prevent flood
 	
 #### **NOTES**
 
-[^1]: “Monsoon Storm Sweeps Direct into Singapore,” _Straits Times_, 10 December 1954, 6; “Vigorous Action on Drainage – Goode,” _Straits Times_, 15 December 1954, 9. (From NewspaperSG) &nbsp;
+[^1]: “[Monsoon Storm Sweeps Direct into Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19541210-1.2.90),” _Straits Times_, 10 December 1954, 6; “[Vigorous Action on Drainage – Goode](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19541215-1.2.122),” _Straits Times_, 15 December 1954, 9. (From NewspaperSG) &nbsp;
 
-[^2]: “Rain Slackened: They Started on Big Clean-Up,” _Straits Times_, 11 December 1954, 6. (From NewspaperSG)
+[^2]: “[Rain Slackened: They Started on Big Clean-Up](https://eresources.nlb.gov.sg/newspapers/digitised/page/straitstimes19541211-1.1.6),” _Straits Times_, 11 December 1954, 6. (From NewspaperSG)
 
-[^3]: “The Floods from the Air,” _Straits Times_, 11 December 1954, 6. (From NewspaperSG)
+[^3]: “[The Floods from the Air](https://eresources.nlb.gov.sg/newspapers/digitised/page/straitstimes19541211-1.1.6),” _Straits Times_, 11 December 1954, 6. (From NewspaperSG)
 
-[^4]: Singapore, _Annual Report 1954_ (Singapore: Government Printing Office, 1954), 228. (From National Library Singapore, call no. RCLOS 959.57 SIN). The highest monthly total rainfall for the month of December was 996.3 mm recorded in 2006 at the Buangkok climate station. See “Historical Extremes,” Meteorological Service Singapore, accessed 22 January 2025, https://www.weather.gov.sg/climate-historical-extremes.
+[^4]: Singapore, [_Annual Report 1954_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5082303) (Singapore: Government Printing Office, 1954), 228. (From National Library Singapore, call no. RCLOS 959.57 SIN). The highest monthly total rainfall for the month of December was 996.3 mm recorded in 2006 at the Buangkok climate station. See “Historical Extremes,” Meteorological Service Singapore, accessed 22 January 2025, [https://www.weather.gov.sg/climate-historical-extremes](https://www.weather.gov.sg/climate-historical-extremes).
 
-[^5]: Public Works Department, _Annual Report of the Department of Public Works 1954_ (Singapore: Government Printing Office, 1955), 30. (From National Library Online)
+[^5]: Public Works Department, [_Annual Report of the Department of Public Works 1954_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=5d4f2a38-9c5c-45b2-9202-46d8a3d9a8df) (Singapore: Government Printing Office, 1955), 30. (From National Library Online)
 
 [^6]: Singapore, _Annual Report 1954_, 6, 118.
 
