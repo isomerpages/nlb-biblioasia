@@ -588,6 +588,10 @@ dated 3 March 1949, captures three men sitting around a table, while Liu,
 in a white suit, stands on a raised podium under a portrait of Sun Yat-sen,
 possibly rehearsing a speech (Figure 12).[^42] 
 
+<img src="/images/COA%202020/Prewar%20And%20Postwar/Liu_Kang_and_fellow_artists_at_Mayfair_headquarters_preparing.jpg" style="width:80%;">
+ <div style="background-color: white;">Liu Kang and fellow artists at Mayfair headquarters preparing
+for the Arts Festival, 3 March 1949.<i> Liu Kang family archives.</i></div>
+
 Later that year, after the Chinese Communist Party won the civil war
 in China and as the Kuomintang staked out Taiwan to continue the
 Republican government, Mayfair openly celebrated the new Chinese
