@@ -178,8 +178,8 @@ pictorial published in February 1936 by the Nantao Publishing House
 island commissioned by the Hainan Association for a war fundraising effort
 in March 1939. He also produced a drawing for a stage layout when the
 Nanyang Chinese Students Society (NCSS) created a performance space
-and stage on their pre mises in 1934.11 In July 1941, Shu teamed up with his *Sin Chew* colleague Lin Dao’an to set up the Daying (“Big Eagle”) Art
-Studio (大鹰画室), offering painting, drawing and signage production.12
+and stage on their pre mises in 1934.[^11] In July 1941, Shu teamed up with his *Sin Chew* colleague Lin Dao’an to set up the Daying (“Big Eagle”) Art
+Studio (大鹰画室), offering painting, drawing and signage production.[^12] 
 
 Ink painting was also part of Shu’s repertoire. In 1974 and 1979, Shu – who
 had returned to China for good around the early 1950s – presented his ink
@@ -187,7 +187,7 @@ paintings to Liu Kang and his wife, who were part of an official delegation
 of Singapore artists on a historic visit to China, which had just reopened its
 doors to the world. These paintings have been kept in the Liu Kang family
 archive; one of them was exhibited in the Asian Civilisations Museum in
-2019–20.13
+2019–20.[^13] 
 
 Shu was also well known for his literary endeavours. In 1950, his novel and
 short stories were published as *Rooftop Hotel* (《天台旅館》) and *Winter in
@@ -204,7 +204,7 @@ Arts and Crafts class of its teachers’ training programme.
 
 Not much else is known about Zhang’s life, but he left behind enough
 works for his son to organise an exhibition and publish a catalogue of all
-his works in 2005 in Singapore.14 This catalogue is a summary of Zhang’s
+his works in 2005 in Singapore.[^14] This catalogue is a summary of Zhang’s
 multifaceted talent – as a Chinese ink painter, sketcher, watercolourist,
 designer, poet and art educator (as demonstrated by his essays on
 teaching art).
@@ -214,7 +214,7 @@ a platform to express his artistic ideas. For example, he was the artistic
 director for the school’s yearbook of 1931. His watercolour painting of the school building in Tank Road facing a wide field forms the establishing
 shot of Tuan Mong at the start of the publication (Figure 4). He also
 made drawings for chapter dividers and page backgrounds, and three
-pencil sketches.15
+pencil sketches.[^15] 
 
 **Lin Dao’an** (林道盫; 1908–42) was the younger brother of *Sin Chew Jit
 Poh*’s manager, Lin Aimin (林靄民). A native of Fujian, the younger Lin was
@@ -246,7 +246,7 @@ figures, titled *The Shape of an Elephant, Progress? Or
 Digress?* and *Between the Two Sexes*. Here his signature
 also reveals a playful humour as he drags out the
 complicated radicals and strokes of the word 盫 to form a string-like scribble (Figure 6). In this issue, Lin also wrote a short
-piece on his mentor, Liu Haisu.16
+piece on his mentor, Liu Haisu.[^16] 
 
 While in Singapore, Lin maintained ties with artists in Shanghai. In
 September 1937 he was recruited to join *Jiuwang Manhua* (《救亡漫画》),
@@ -263,11 +263,11 @@ establishment of the art studio were carried in both *Sin Chew* and *Nanyang
 Siang Pau*, the former touting it as a new wave in the art world. The studio’s
 vision statement – “The capital of a business is the advertising; art is the life
 of the merchandise” – was said to have caused a stir in the business and art
-community in Singapore.17
+community in Singapore.[^17] 
 
 Lin’s high-profile career and dynamic partnership with Shu were cut short
 when Lin died during the Sook Ching purge in February 1942, barely seven
-months after the launch of Big Eagle Studio. He was only 35.18
+months after the launch of Big Eagle Studio. He was only 35.[^18] 
 
 **Cai Zhuzhen** (蔡竹貞; c. 1900–74) trained at the Shanghai Academy of Art
 under Liu Haisu. He rarely exhibited his works in the years leading up to
@@ -276,7 +276,7 @@ exhibition and the iconic cartoon and photography exhibition in 1938, which
 had entries by artists in the Malay Archipelago. A rare image of Cai’s work
 can be found in the 1948 SOCA exhibition catalogue. It depicts an idyllic
 scene of three Malays on a hilltop overlooking a vast expanse of sea and village (Figure 7). In Cai’s obituary, he was lauded as a pioneer in the art
-world and a photographer in Singapore.19
+world and a photographer in Singapore.[^19] 
 
 **Dai Yinlang** (戴隱郎; 1907–85) was an enigma in the Singapore/Malaya art
 world. Born in Kuala Lumpur, Dai found himself in Shanghai at a time
@@ -289,7 +289,7 @@ Dai subsequently returned to Malaya and found work at *Nanyang Siang Pau*
 as the editor of the cartoon supplement (《文漫界》). In 1934, Dai was briefly
 in Hong Kong, where he started a woodcut society, the Deep Cut Woodcut
 Society (深刻木刻研究會), and published a 7,000-word Social Realist
-critique of symbolist poetry, which was then fashionable in China.20
+critique of symbolist poetry, which was then fashionable in China.[^20] 
 
 Dai likely arrived in Singapore around the mid-1920s armed with a heavy
 left-wing mandate directly from the Communist movement in China, and
@@ -297,9 +297,9 @@ he was widely respected for his political endeavours.
 
 He tirelessly promoted the satirical cartoon as a vehicle for social and
 political criticism and saw great historical importance in this new art
-form.21 He played the role of mentor and critic to his fellow SOCA
+form.[^21] He played the role of mentor and critic to his fellow SOCA
 artists. For instance, he wrote an extensive review of SOCA’s inaugural
-exhibition in 1936, giving the artists individual critiques.22 His sharp-lined
+exhibition in 1936, giving the artists individual critiques.[^22] His sharp-lined
 cartoons with anti-Japanese and anti-Imperialist themes were the flavour
 of the day in Singapore and Malaya, particularly at the height of Chinese
 patriotism triggered by Japanese aggression in China from the summer of
@@ -308,7 +308,7 @@ patriotism triggered by Japanese aggression in China from the summer of
 Almost immediately after the Marco Polo Bridge incident, Dai organised
 the first Singapore-Malayan Graphic Art Exhibition together with Shu
 Chun Lien and a number of artists. Featuring some 185 works from 40
-artists selected by a highly esteemed panel of artists,23 the spectacular
+artists selected by a highly esteemed panel of artists,[^23] the spectacular
 exhibition kicked off in Singapore in 1938 before proceeding on a tour of
 the peninsula.
 
@@ -317,7 +317,7 @@ images of political righteousness, of China’s oppression by imperialism and
 militarism. Unfortunately the second half of Dai’s life, presumably in China
 right through the 1980s, has not been well studied.
 
-**Chang Ming Tzu** (张明慈/张铭慈;24 c. 1898–1982) was the non-artist in
+**Chang Ming Tzu** (张明慈/张铭慈;[^24] c. 1898–1982) was the non-artist in
 SOCA. A Yunnanese by birth and a graduate of Peking University, Chang
 came with an illustrious political background, having participated in the
 KMT-led National Revolution (国民革命; 1924–27), which brought him to
@@ -325,7 +325,7 @@ Shanghai, where he had his first encounter with Southeast Asia, or Nanyang
 (南洋). He was part of the editorial team of the seminal journal dedicated
 to Southeast Asia, *The Nanyang Monthly* (《南洋研究》), published by
 Jinan University (暨南大学). Fluent in Japanese, Chang translated Japanese 
-research and reports about Southeast Asia for the journal. His translation of *Nanyo Sodan* (《南洋叢谈》) by Fujiyama Raita25 was published by Jinan
+research and reports about Southeast Asia for the journal. His translation of *Nanyo Sodan* (《南洋叢谈》) by Fujiyama Raita[^25] was published by Jinan
 in 1931.
 
 In the mid-1930s, Chang set up the Kuo Yu Chinese Institution (中国语文
@@ -344,7 +344,7 @@ commemorate the first anniversary of the fall of Singapore to Japan, Chang
 was a speaker alongside Chong Beng Si (钟鸣世) of NAFA and Cupid
 Art Studio (天使画室), and Goh Seng Yeok (吴盛育) of Mayfair Musical
 and Dramatic Association (爱华音乐社), and spoke about the 21 Japanese
-language schools that had sprung up on the island.26
+language schools that had sprung up on the island.[^26]
 
 Steeped in classical Chinese literature, Chang often shared his poetic skills
 to lend literati credence to artists’ gatherings and works of a more traditional
@@ -353,16 +353,16 @@ Poems* (《南遊吟草》), offers a glimpse of the vibrant art scene of the pe
 
 He wrote colophons and most probably personally inscribed works by
 Tsai Wang Ching (蔡寰青), Wong Jai Ling (黄载灵), Xu Qigao (许奇高)
-and Liu Kang.27 When gifted a painting by Xu Beihong (徐悲鸿), Chang
-composed a poem to remember the occasion.28 To commemorate the visits
+and Liu Kang.[^27] When gifted a painting by Xu Beihong (徐悲鸿), Chang
+composed a poem to remember the occasion.[^28] To commemorate the visits
 to Singapore by Luo Ming (罗铭) and Liu Haisu, both well-known Chinese
 artists, Chang wrote long poems that could well double-up as surveys of
-their exhibitions, because the titles and descriptions of the paintings were cleverly woven into the text.29 These literary details may be useful in future
+their exhibitions, because the titles and descriptions of the paintings were cleverly woven into the text.[^29] These literary details may be useful in future
 identification of these artworks, should they be rediscovered.
 
 Chang was a learned Buddhist scholar much admired in the Buddhist
 community, and his poems are interesting records of visiting monks and
-various Buddhist activities in Singapore.30
+various Buddhist activities in Singapore.[^30] 
 
 Over the years, Chang and his Kuo Yu Chinese Institution most probably
 lent organisational support as well as political connections to the numerous
@@ -385,7 +385,7 @@ Press and Mercantile Advertiser.*
 
 The most extensive description of U-Chow comes from a delayed obituary
 written by Chuang U-Ming (莊右銘), which was featured in a special spread
-in *Nanyang Siang Pau* dedicated to SOCA’s first postwar exhibition.31
+in *Nanyang Siang Pau* dedicated to SOCA’s first postwar exhibition.[^31] 
 U-Chow was described as self-taught in painting and languages – apparently
 he taught himself German without setting foot in Europe.
 
@@ -417,7 +417,7 @@ The *Nanyang Siang Pau* story featured two of U-Chow’s works, while
 the SOCA exhibition catalogues of 1939 and 1940 carried some of his watercolours and sketches (Figure 8). One extant work can be found in the
 collection of one of Chuang U-Ming’s descendants and was exhibited and
 published by the Asian Civilisations Museum in 2019 in *Living with Ink: The
-Collection of Dr Tan Tsze Chor*.32
+Collection of Dr Tan Tsze Chor*.[^32] 
 
 #### **Prewar and Postwar Art Spaces in Singapore**
 
@@ -450,7 +450,7 @@ young Chinese people in Nanyang. It was akin to a school alumni club,
 except that it was open to all young working adults, particularly targeting
 the burgeoning ranks of white-collared professionals. It organised sports
 tournaments, lectures on issues pertaining to China’s situation and plight,
-charity fundraisers for a myriad of causes in China, exhibitions and baby shows.33 In 1929, the society organised one of its earliest Singapore-based
+charity fundraisers for a myriad of causes in China, exhibitions and baby shows.[^33] In 1929, the society organised one of its earliest Singapore-based
 art exhibitions, curated by a team of artists and designers that included
 Tchang Ju-ch’i. The exhibition was reported to have made a commendable
 pioneering effort in promoting local artistic expression.
@@ -464,7 +464,7 @@ there. The premises were used regularly as a rehearsal venue for Mandarin
 plays, choir practice and lectures. In 1935, members of the NCSS and a
 group of photography enthusiasts staged an exhibition of more than 300
 works from Malaya, Singapore and Hong Kong. The exhibition opening was
-a garden party staged in the NCSS’s leafy compound.34
+a garden party staged in the NCSS’s leafy compound.[^34] 
 
 These gatherings suggest that exhibition openings were officious in nature,
 often graced by high-ranking representatives of the government, members
@@ -482,24 +482,24 @@ network. Designed by Swan &amp; Maclaren, the two-storey bungalow stood
 on the reclaimed land of Raffles Quay (also referred to as Finlayson Green,
 located at the end of the line of the Telok Ayer Market trolley bus route)
 (Figure 9). The “rest room” on the upper floor was “large and airy, very
-comfortably furnished, and has a delightful view over the harbour”.35
+comfortably furnished, and has a delightful view over the harbour”.[^35] 
 
 This was the venue of SOCA’s first exhibition in 1936, as well as the 1937
-and 1938 exhibitions.36 It is highly likely that this was a premium exhibition
+and 1938 exhibitions.[^36] It is highly likely that this was a premium exhibition
 space in town, as it was the choice of venue for locally and regionally
 based European artists, as well as those who were passing through – the
 Art Club (Singapore) members, Jean Le Mayeur, Tania Zarutsky, Willem
 van der Does from Batavia, Gerard P. Adolfs, Julius Wentscher and wife.
 Jean Le Mayeur, the Belgian artist of Balinese fame, for instance, held four
-exhibitions here between 1935 and 1941.37 SOCA member Looi Koh Seng
-exhibited his works with the colonial wives of the Art Club in June 1939,38
+exhibitions here between 1935 and 1941.[^37]  SOCA member Looi Koh Seng
+exhibited his works with the colonial wives of the Art Club in June 1939,[^38] 
 including Mrs K. M. Chasen, who was married to the director of the Raffles
 Museum, Frederick Nutter Chasen.
 
 *Nanyang Siang Pau*’s report on the 1938 exhibition carried a photo of the
 exhibition opening, in which men in white suits fill a well-appointed room,
 the walls lined with paintings. A total of 165 paintings were presented,
-indicating the generous size of the “rest-room”.39
+indicating the generous size of the “rest-room”.[^39] 
 
 **Mayfair Musical and Dramatic Association** (愛華音樂社). This society
 started as a band in June 1934 under the name Mayfair Musical Party
@@ -512,7 +512,7 @@ concerts. The band provided the musical interlude, for example, at a 1935
 Mandarin speech competition organised by the NCSS and hosted at Ai
 Tong. When the alumnus presented modern plays and concerts, Mayfair
 provided performance and accompaniment and Goh even played a female
-role in a new play, *Huanengying* (花弄影; Flowery Shadows).40 Mayfair
+role in a new play, *Huanengying* (花弄影; Flowery Shadows).[^40] Mayfair
 would later organise the first mass weddings in Singapore, before World
 War II.
 
@@ -523,11 +523,11 @@ Mayfair established its headquarters in two units at the Shaw Brothers’
 building on Robinson Road (Figure 11). The premises came with a large hall
 on the second level. Here, SOCA hosted a send-off-cum-welcome party on
 2 November 1939 for Xu Beihong, who was leaving for India, and Yu Shihai
-(喻世海), a prominent cartoonist who had recently arrived from China.41
+(喻世海), a prominent cartoonist who had recently arrived from China.[^41] 
 A rare photograph of the interior, from the Liu Kang family archives and
 dated 3 March 1949, captures three men sitting around a table, while Liu,
 in a white suit, stands on a raised podium under a portrait of Sun Yat-sen,
-possibly rehearsing a speech (Figure 12).42
+possibly rehearsing a speech (Figure 12).[^42] 
 
 Later that year, after the Chinese Communist Party won the civil war
 in China and as the Kuomintang staked out Taiwan to continue the
@@ -538,14 +538,14 @@ façade and the singing of the new anthem, “March of the Volunteers”.
 The British Military Administration was shocked by Mayfair’s enthusiasm
 for the Communist regime and promptly started an investigation. In
 December 1950, they forced Mayfair to disband and arrested Goh Seng
-Yeok, who later exiled himself to China.43 Goh died in Beijing on 4 April
+Yeok, who later exiled himself to China.[^43] Goh died in Beijing on 4 April
 1962 at the age of 53.
 
 Mayfair’s short lifespan of 16 years underlines the ideological confusion and
 divided loyalties created by China’s years of war with Japan and the rise of
 Communist China. Like many war-battered Chinese in Singapore, Goh was
 convinced that he intended to fly the “flag of the New China… in honour
-of the new Chinese government”, not as a Communist.44
+of the new Chinese government”, not as a Communist.[^44] 
 
 #### **Conclusion**
 
