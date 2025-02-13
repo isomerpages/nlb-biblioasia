@@ -122,42 +122,42 @@ This integrated solution aims to protect Singapore’s coastlines, prevent flood
 
 [^5]: Public Works Department, [_Annual Report of the Department of Public Works 1954_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=5d4f2a38-9c5c-45b2-9202-46d8a3d9a8df) (Singapore: Government Printing Office, 1955), 30. (From National Library Online)
 
-[^6]: Singapore, _Annual Report 1954_, 6, 118.
+[^6]: Singapore, [_Annual Report 1954_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5082303), 6, 118.
 
-[^7]: “Flood Chaos in S’pore,” _Sunday Times_, 24 October 1954, 1. (From NewspaperSG)
+[^7]: “[Flood Chaos in S’pore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19541024-1.2.2),” _Sunday Times_, 24 October 1954, 1. (From NewspaperSG)
 
-[^8]: “Flood Chaos in S’pore”; “500 Rendered Homeless,” _Sunday Standard_, 24 October 1954, 1. (From NewspaperSG)&nbsp;
+[^8]: “[Flood Chaos in S’pore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19541024-1.2.2)”; “[500 Rendered Homeless](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaystandard19541024-1.2.2),” _Sunday Standard_, 24 October 1954, 1. (From NewspaperSG)&nbsp;
 
-[^9]: “$250,000 Flood Havoc,” _Straits Budget_, 28 October 1954, 16. (From NewspaperSG)
+[^9]: “[$250,000 Flood Havoc](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19541028-1.2.81),” _Straits Budget_, 28 October 1954, 16. (From NewspaperSG)
 
-[^10]: “Sir John Sees the Havoc,” _Straits Times_, 25 October 1954, 1. (From NewspaperSG)
+[^10]: “[Sir John Sees the Havoc](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19541024-1.2.9),” _Straits Times_, 25 October 1954, 1. (From NewspaperSG)
 
-[^11]: “500 Rendered Homeless”; “Sir John Sees the Havoc.”
+[^11]: “[500 Rendered Homeless](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaystandard19541024-1.2.2)”; “[Sir John Sees the Havoc](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19541024-1.2.9).”
 
-[^12]: “Farmers Are Angry: ‘Pay or Send Us Back to Paya Lebar’,” _Straits Times_, 11 December 1954, 6; “Mrs. Choy Tours Bedok and Says: Compensate the Poor Farmers,” _Straits Times_, 11 December 1954, 10. (From NewspaperSG)
+[^12]: “[Farmers Are Angry: ‘Pay or Send Us Back to Paya Lebar](https://eresources.nlb.gov.sg/newspapers/digitised/page/straitstimes19541211-1.1.6)’,” _Straits Times_, 11 December 1954, 6; “[Mrs. Choy Tours Bedok and Says: Compensate the Poor Farmers](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19541211-1.2.135),” _Straits Times_, 11 December 1954, 10. (From NewspaperSG)
 
-[^13]: “Victims Plead for Relief,” _Straits Times_, 13 December 1954, 7. (From NewspaperSG)
+[^13]: “[Victims Plead for Relief](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19541213-1.2.104),” _Straits Times_, 13 December 1954, 7. (From NewspaperSG)
 
-[^14]: “Floods Are Worst Yet,” _Straits Times_, 17 December 1954, 1. (From NewspaperSG)&nbsp;
+[^14]: “[Floods Are Worst Yet](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19541217-1.2.2),” _Straits Times_, 17 December 1954, 1. (From NewspaperSG)&nbsp;
 
-[^15]: “Floods Are Worst Yet.”
+[^15]: “[Floods Are Worst Yet](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19541217-1.2.2).”
 
-[^16]: “Floods Are Worst Yet.”
+[^16]: “[Floods Are Worst Yet](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19541217-1.2.2).”
 
-[^17]: “Five Die in Flood Tragedy,” _Straits Times_, 18 December 1954, 1. (From NewspaperSG)
+[^17]: “[Five Die in Flood Tragedy](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19541218-1.2.2),” _Straits Times_, 18 December 1954, 1. (From NewspaperSG)
 
-[^18]: “Patrols Watch for Flood Looters,” _Straits Times_, 19 December 1954, 1. (From NewspaperSG)
+[^18]: “[Patrols Watch for Flood Looters](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19541219-1.2.2),” _Straits Times_, 19 December 1954, 1. (From NewspaperSG)
 
-[^19]: “Farmers Are Angry”; “Bedok Problem,” _Straits Times_, 14 December 1954, 8; “Opinion: The Bedok Problem,” _Singapore Free Press_, 23 December 1954, 4. (From NewspaperSG)
+[^19]: “[Farmers Are Angry](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19541211-1.2.16)”; “[Bedok Problem](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19541214-1.2.143),” _Straits Times_, 14 December 1954, 8; “[Opinion: The Bedok Problem](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19541223-1.2.48),” _Singapore Free Press_, 23 December 1954, 4. (From NewspaperSG)
 
-[^20]: “Mrs. Choy Tours Bedok and Says: Compensate the Poor Farmers”; “Bedok Problem.”&nbsp; &nbsp;
+[^20]: “[Mrs. Choy Tours Bedok and Says: Compensate the Poor Farmers](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19541211-1.2.135)”; “[Bedok Problem](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19541214-1.2.143).”
 
 
-[^21]: “They Are Smiling Again in the Flood Valleys,” _Straits Times_, 21 December 1954, 9. (From NewspaperSG)
+[^21]: “[They Are Smiling Again in the Flood Valleys](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19541221-1.2.132),” _Straits Times_, 21 December 1954, 9. (From NewspaperSG)
 
-[^22]: Singapore, _Annual Report 1954_, 118.
+[^22]: Singapore, [_Annual Report 1954_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5082303), 118.
 
-[^23]: “The Fund Has Paid Out $101,232,” _Straits Times_, 22 December 1954, 9. (From NewspaperSG)
+[^23]: “[The Fund Has Paid Out $101,232](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19541222-1.2.132),” _Straits Times_, 22 December 1954, 9. (From NewspaperSG)
 
 [^24]: “Fund Opened to Aid Victims of the Floods,” _Straits Times_, 12 December 1954, 1. (From NewspaperSG)
 
