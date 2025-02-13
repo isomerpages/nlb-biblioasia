@@ -312,7 +312,7 @@ exhibition and the iconic cartoon and photography exhibition in 1938, which
 had entries by artists in the Malay Archipelago. A rare image of Cai’s work
 can be found in the 1948 SOCA exhibition catalogue. It depicts an idyllic
 scene of three Malays on a hilltop overlooking a vast expanse of sea 
-![]
+
 <img src="/images/COA%202020/Prewar%20And%20Postwar/Cai_Zhuzhen.jpg" style="width:80%;">
  <div style="background-color: white;">Cai Zhuzhen, <i>Market Place,</i> SOCA exhibition catalogue, 1948. </div>
 
@@ -432,7 +432,13 @@ he taught himself German without setting foot in Europe.
 
 U-Chow and Chuang were both born in Quanzhou and attended the same
 class, where Chuang noticed U-Chow’s talent in drawing. This talent would
-later be nurtured by an art teacher when U-Chow became a student at Raffles Institution in Singapore. A late bloomer, U-Chow graduated from
+later be nurtured by an art teacher when U-Chow became a student at 
+
+<img src="/images/COA%202020/Prewar%20And%20Postwar/U_Chow__Malay_Girls.jpg" style="width:50%;">
+ <div style="background-color: white;">U-Chow, <i>Malay Girls,</i> watercolour,
+SOCA exhibition catalogue, 1939. </div>
+
+Raffles Institution in Singapore. A late bloomer, U-Chow graduated from
 Raffles Institution at 23 and persisted in pursuing a career in art.
 
 In 1931, together with Kau Chin Seng and Lin Chunyuan (林春元), U-Chow
