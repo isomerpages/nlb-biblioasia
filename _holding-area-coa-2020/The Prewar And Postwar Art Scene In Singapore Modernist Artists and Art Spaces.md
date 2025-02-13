@@ -458,8 +458,7 @@ pioneering effort in promoting local artistic expression.
 
 After its formation in 1920, the NCSS moved at least five times, as its events
 grew larger and increasingly popular, before it finally settled in a YMCA
-property on Prince Edward Road, which came with its own sports field, in
-1935. 
+property on Prince Edward Road, which came with its own sports field, in 1935. 
 
 When Xu Beihong visited in February 1939, SOCA held a welcome tea
 there. The premises were used regularly as a rehearsal venue for Mandarin
