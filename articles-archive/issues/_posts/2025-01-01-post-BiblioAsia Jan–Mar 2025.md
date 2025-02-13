@@ -1,7 +1,7 @@
 ---
 title: BiblioAsia Jan–Mar 2025
 permalink: /vol-20/issue-4/jan-mar-2025/
-date: 2024-11-26
+date: 2025-01-01
 layout: post
 description: BiblioAsia Jan–Mar 2025
 image: ""
