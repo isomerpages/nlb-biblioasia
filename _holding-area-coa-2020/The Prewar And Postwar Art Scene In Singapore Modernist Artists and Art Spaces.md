@@ -134,7 +134,7 @@ flamboyant calligraphy – all characteristics cherished by
 the Shanghai School (Figure 2). No cartoons or woodcuts
 – in vogue in the 1930s – have been found in Lee’s oeuvre.
 
-<img src="/images/COA%202020/Prewar%20And%20Postwar/Lee_Kueh1.jpg" style="width:10%;">
+<img src="/images/COA%202020/Prewar%20And%20Postwar/Lee_Kueh1.jpg" style="width:20%;">
  <div style="background-color: white;">Lee Kueh
 Sei, painting
 dedicated to
@@ -178,6 +178,11 @@ two oil paintings he contributed to the SOCA exhibitions in 1939 (*Malay
 Kampong*) and 1940 (*Landscape*) and published in the catalogues. His other
 oil works of the prewar period were documented in Chinese newspaper
 articles, but unfortunately without images.
+![](/images/COA%202020/Prewar%20And%20Postwar/Shu_Chun_Lien.jpg)
+<img src="/images/COA%202020/Prewar%20And%20Postwar/Shu_Chun_Lien.jpg" style="width:80%;">
+ <div style="background-color: white;">Shu Chun Lien, <i>Signs of a Decline,</i> cartoon, inaugural issue of <i>Up to Date</i> (《今代》),
+May 1934.</div>
+
 
 Shu was probably more prolific in producing graphic and design works.
 He was close to his colleagues at *Sin Chew Jit Poh*, some of whom started a
