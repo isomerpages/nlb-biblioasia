@@ -125,7 +125,7 @@ This integrated solution aims to protect Singapore’s coastlines, prevent flood
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/NathanielChew1.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/DarrenSeow.png">
 <b>Darren Seow</b> is a Senior Librarian with the National Library Singapore. His responsibilities include content development, research, and the provision of reference and information services.</div>
 <div style="background-color: white;">
 <br>
