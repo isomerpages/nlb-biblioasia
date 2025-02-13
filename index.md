@@ -1040,4 +1040,14 @@ sections:
       image: /images/Online Only Articles/Conquer Tallest
         Mountain_12_23/mok_on_fixed_ropes_homepage.png
       alt: Image alt text
+  - infopic:
+      title: The Life and Legacy of Zubir Said
+      subtitle: Podcast
+      id: infopic
+      description: Zubir Said gave Singapore its national anthem, “Majulah Singapura”,
+        but he was more than Mr Mari Kita.
+      button: Listen to the episode
+      url: /podcast/life-and-legacy-zubir-said-julian-wong/
+      image: /images/Podcast/BiblioAsia_600_by_400_Julian.jpg
+      alt: Zubir Said
 ---
