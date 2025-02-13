@@ -178,7 +178,7 @@ two oil paintings he contributed to the SOCA exhibitions in 1939 (*Malay
 Kampong*) and 1940 (*Landscape*) and published in the catalogues. His other
 oil works of the prewar period were documented in Chinese newspaper
 articles, but unfortunately without images.
-![](/images/COA%202020/Prewar%20And%20Postwar/Shu_Chun_Lien.jpg)
+
 <img src="/images/COA%202020/Prewar%20And%20Postwar/Shu_Chun_Lien.jpg" style="width:80%;">
  <div style="background-color: white;">Shu Chun Lien, <i>Signs of a Decline,</i> cartoon, inaugural issue of <i>Up to Date</i> (《今代》),
 May 1934.</div>
