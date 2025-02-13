@@ -24,7 +24,7 @@ knowledge of early Singapore art history.
 
 The art scene from the turn of the 20th century up to the eve of Singapore’s
 independence has been analysed by Yeo Mang Thong as consisting of four
-strands of development:1
+strands of development:[^1]
 
   1.  the period between the late 19th and early 20th centuries, centring<br> 
     around individuals of cultural influence, such as Khoo Seok Wan, his<br> 
@@ -62,7 +62,7 @@ Dai Yinlang, Chang Ming Tzu, Mrs Chang Ming Tzu, Chen Pu Chie, Kau
 Chin Sheng and U-Chow.
 
 SOCA was originally a smaller gathering of alumni from art schools in
-Shanghai2 called the Syrens Art Association. They must have realised,
+Shanghai[^2] called the Syrens Art Association. They must have realised,
 however, that limiting membership to Shanghai alumni was denying them
 the critical mass needed for a lively art scene, and that there were many
 more interested artists out there. Formed in early 1935, Syrens very quickly
@@ -70,8 +70,7 @@ opened up for wider membership by September and changed its name to
 Society of Chinese Artists.
 
 Thus the Shanghai alumni formed SOCA’s core. Tchang Ju-ch’i, Cai
-Zhuzhen, Chen Chong Swee,3 Chen Pu Chie and Lee Kueh Sei were
-graduates of Shanghai Art Academy, Shu Chun Lien of Xinhua Academy,
+Zhuzhen, Chen Chong Swee,[^3] Chen Pu Chie and Lee Kueh Sei were graduates of Shanghai Art Academy, Shu Chun Lien of Xinhua Academy,
 and Zhang Bohe of Shanghai University. Although it has yet to be
 established if their periods of schooling coincided, we may infer that their
 common Shanghai experience fostered a nucleus of shared interest that
@@ -95,8 +94,8 @@ particularly due to the war.
 
 Many founding members would recede into the background, and some even
 retreated from the scene. I have written about Tchang Ju-ch’i, Lu Heng and
-Chen Pu Chie elsewhere,4 and my research did not yield much information
-on Kau Chin Sheng5 and Nai Wen Chie.6 Although this paper does not offer an exhaustive account of the founding members, it reconstructs a fuller
+Chen Pu Chie elsewhere,[^4] and my research did not yield much information
+on Kau Chin Sheng[^5] and Nai Wen Chie.[^6] Although this paper does not offer an exhaustive account of the founding members, it reconstructs a fuller
 picture of the scene.
 
 **Lee Kueh Sei** (李魁士; c. 1902–71) was born in Jieyang, Chaozhou, and had
@@ -104,7 +103,7 @@ close links with the Teochews in Muar, Johor. A graduate of the Shanghai
 Academy of Art and National Academy of Art (Hangzhou), Lee was a
 favoured student of painter Liu Haisu (刘海粟). Lee was in Malaya possibly
 as early as 1928, when he posed for a picture with a young Liu Kang (刘抗)
-in Muar.7
+in Muar.[^7]
 
 Between 1932 and 1937, Lee taught at Chung Hwa in
 Muar, and at Tao Nan School, The Chinese High School
@@ -133,7 +132,7 @@ the Shanghai School (Figure 2). No cartoons or woodcuts
 Lee gave a public talk on art in 1938 at the invitation of
 the Kuo Yu Chinese Institution run by fellow SOCA
 member Chang Ming Tzu, and also wrote a short review
-of an exhibition of works by Wang Jiyuan, a professor of the Shanghai Art Academy.8 Both instances reveal Lee’s thoughts on art.
+of an exhibition of works by Wang Jiyuan, a professor of the Shanghai Art Academy.[^8] Both instances reveal Lee’s thoughts on art.
 Obviously influenced by the education philosophy of Cai Yuanpei, father of
 modern Chinese education, Lee believed that art had motivational power
 and could nourish one’s spiritual life; it was a way of expressing one’s ideas
@@ -147,14 +146,14 @@ to evade persecutors. He remained active in social gatherings and taught
 from time to time at NAFA, but it was said that his health had been badly
 affected during his incarceration and he suffered various illnesses during
 the 1960s. He passed away in September 1971 and was remembered in his
-obituary as an artist and cultural personality.9
+obituary as an artist and cultural personality.[^9] 
 
 **Shu Chun Lien** (徐君濂 Xu Junlian; 1911–c. 2000) was a Shanghainese
 who received his formal art training at Xinhua School of Art. Shu’s name
 first appeared in Singapore Chinese dailies around August 1933, in an
 announcement for the second Chinese trade fair held at Great World
 Amusement Park. He is mentioned together with artists Tchang Ju-ch’i,
-Lin Dao’an, Zhang Bohe and Huang Cheng Chuan (黃清泉).10 Around the
+Lin Dao’an, Zhang Bohe and Huang Cheng Chuan (黃清泉).[^10] Around the
 same time, Shu began working for *Sin Chew Jit Poh* (《星洲日報》) as an
 editor and artistic director of its literary supplement and pictorial, which
 Tchang and Lin also worked on.
@@ -727,4 +726,3 @@ Zhang Bohe 张伯河. _Zhangbohe huihua shi wen jinian ji_ [张伯河绘画诗�
 43 “Fu zhengsi zai xian bao ban ling xia aihua she bei jiesan” [輔政司在憲報頒令下愛華社被解散](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19501230-1.2.29.4) \[Government orders dissolution of Mayfair Musical and Dramatic Association\], _Nanyang Siang Pau_ 南洋商报, 30 December 1950, 5. (From NewspaperSG)
 
 44 “[Red Flag Flies in Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19491007-1.2.4),” _Malaya Tribune_, 7 October 1949, 1. (From NewspaperSG)
-
