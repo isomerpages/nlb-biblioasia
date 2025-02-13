@@ -459,15 +459,14 @@ pioneering effort in promoting local artistic expression.
 After its formation in 1920, the NCSS moved at least five times, as its events
 grew larger and increasingly popular, before it finally settled in a YMCA
 property on Prince Edward Road, which came with its own sports field, in
-1935. 
-When Xu Beihong visited in February 1939, SOCA held a welcome tea
+1935. When Xu Beihong visited in February 1939, SOCA held a welcome tea
 there. The premises were used regularly as a rehearsal venue for Mandarin
 plays, choir practice and lectures. In 1935, members of the NCSS and a
 group of photography enthusiasts staged an exhibition of more than 300
 works from Malaya, Singapore and Hong Kong. The exhibition opening was
 a garden party staged in the NCSS’s leafy compound.34
 
-These gatherings suggest that exhibition openings were officious in nature,
+hese gatherings suggest that exhibition openings were officious in nature,
 often graced by high-ranking representatives of the government, members
 of the Chinese Consulate, and British officials. Speeches were reported
 almost verbatim, and the art works in the exhibitions were written up and
