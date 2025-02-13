@@ -61,7 +61,7 @@ Zhang Bohe, Lin Dao’an, Chen Chong Swee, Cai Zhuzhen, Nai Wen Chie,
 Dai Yinlang, Chang Ming Tzu, Mrs Chang Ming Tzu, Chen Pu Chie, Kau
 Chin Sheng and U-Chow.
 
-<img src="/images/COA%202020/Prewar%20And%20Postwar/SOCA_s_founding_members.jpg" style="width:50%;">
+<img src="/images/COA%202020/Prewar%20And%20Postwar/SOCA_s_founding_members.jpg" style="width:40%;">
  <div style="background-color: white;">SOCA’s founding members, September–October 1935, <i>Annual Art
 Exhibition,</i> SOCA, 1966.</div>
 
@@ -134,7 +134,7 @@ flamboyant calligraphy – all characteristics cherished by
 the Shanghai School (Figure 2). No cartoons or woodcuts
 – in vogue in the 1930s – have been found in Lee’s oeuvre.
 
-<img src="/images/COA%202020/Prewar%20And%20Postwar/Lee_Kueh1.jpg" style="width:50%;">
+<img src="/images/COA%202020/Prewar%20And%20Postwar/Lee_Kueh1.jpg" style="width:30%;">
  <div style="background-color: white;">Lee Kueh
 Sei, painting
 dedicated to
