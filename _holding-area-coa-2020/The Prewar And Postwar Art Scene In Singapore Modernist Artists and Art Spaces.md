@@ -532,9 +532,7 @@ located at the end of the line of the Telok Ayer Market trolley bus route)
 comfortably furnished, and has a delightful view over the harbour”.[^35] 
 
 <img src="/images/COA%202020/Prewar%20And%20Postwar/Prewar_YWCA_building.jpg" style="width:80%;">
- <div style="background-color: white;">U-Chow, <i>Malay Girls,</i> watercolour,
-SOCA exhibition catalogue, 1939. </div>
-
+ <div style="background-color: white;">Prewar YWCA building. <i>Photo courtesy of Dr Lai Chee Kien.</i></div>
 
 This was the venue of SOCA’s first exhibition in 1936, as well as the 1937
 and 1938 exhibitions.[^36] It is highly likely that this was a premium exhibition
