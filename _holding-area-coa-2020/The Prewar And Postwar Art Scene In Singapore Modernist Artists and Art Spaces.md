@@ -257,7 +257,6 @@ Chew* and its pictorial magazine *Starlight*, and *Up to Date* magazine. In the
 during the Sook Ching purge in early 1942, which suggests that he kept
 close ties with the artists.
 
-![](/images/COA%202020/Prewar%20And%20Postwar/Lin_Dao_an.jpg)
 <img src="/images/COA%202020/Prewar%20And%20Postwar/Lin_Dao_an.jpg" style="width:50%;">
  <div style="background-color: white;">Lin Dao’an, illustration for a full-page
 advertisement for <i>Sin Chew Jit Poh,</i> Singapore
@@ -280,6 +279,10 @@ Digress?* and *Between the Two Sexes*. Here his signature
 also reveals a playful humour as he drags out the
 complicated radicals and strokes of the word 盫 to form a string-like scribble (Figure 6). In this issue, Lin also wrote a short
 piece on his mentor, Liu Haisu.[^16] 
+
+<img src="/images/COA%202020/Prewar%20And%20Postwar/Lin_Dao_an_s.jpg" style="width:50%;">
+ <div style="background-color: white;">Lin Dao’an’s
+signature, 道盫.</div>
 
 While in Singapore, Lin maintained ties with artists in Shanghai. In
 September 1937 he was recruited to join *Jiuwang Manhua* (《救亡漫画》),
