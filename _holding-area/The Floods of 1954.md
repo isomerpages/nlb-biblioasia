@@ -159,22 +159,22 @@ This integrated solution aims to protect Singapore’s coastlines, prevent flood
 
 [^23]: “[The Fund Has Paid Out $101,232](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19541222-1.2.132),” _Straits Times_, 22 December 1954, 9. (From NewspaperSG)
 
-[^24]: “Fund Opened to Aid Victims of the Floods,” _Straits Times_, 12 December 1954, 1. (From NewspaperSG)
+[^24]: “[Fund Opened to Aid Victims of the Floods](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19541212-1.2.8),” _Straits Times_, 12 December 1954, 1. (From NewspaperSG)
 
-[^25]: “Vigorous Action on Drainage – Goode”; “Relief Steps Today,” _Straits Times_, 14 December 1954, 1. (From NewspaperSG)&nbsp;
+[^25]: “[Vigorous Action on Drainage – Goode](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19541215-1.2.122)”; “[Relief Steps Today](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19541214-1.2.2),” _Straits Times_, 14 December 1954, 1. (From NewspaperSG)&nbsp;
 
-[^26]: “The Flood Relief Centres Close Down,” _Straits Times_, 30 December 1954, 8. (From NewspaperSG)
+[^26]: “[The Flood Relief Centres Close Down](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19541230-1.2.152),” _Straits Times_, 30 December 1954, 8. (From NewspaperSG)
 
-[^27]: “‘Special’ Aid for Farmers at Bedok,” _Straits Times_, 24 December 1954, 1. (From NewspaperSG) &nbsp;
+[^27]: “[‘Special’ Aid for Farmers at Bedok](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19541224-1.2.5),” _Straits Times_, 24 December 1954, 1. (From NewspaperSG) &nbsp;
 
-[^28]: “‘Special’ Aid for Farmers at Bedok.” &nbsp;
+[^28]: “[‘Special’ Aid for Farmers at Bedok](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19541224-1.2.5).” &nbsp;
 
-[^29]: “Bedok Farmer Renew Claim: Insist Government Must Pay Compensation for Loss,” _Straits Times_, 19 January 1955, 2; “Bedok Men Still Want Pay-Out by the Govt.,” _Straits Times_, 25 December 1954, 7. (From NewspaperSG)
+[^29]: “[Bedok Farmer Renew Claim: Insist Government Must Pay Compensation for Loss](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19550119-1.2.40),” _Straits Times_, 19 January 1955, 2; “[Bedok Men Still Want Pay-Out by the Govt.](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19541225-1.2.112),” _Straits Times_, 25 December 1954, 7. (From NewspaperSG)
 
-[^30]: “Bedok Farmers – It’s Still ‘No’,” _Straits Times_, 20 January 1955, 5. (From NewspaperSG) &nbsp;
+[^30]: “[Bedok Farmers – It’s Still ‘No’](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19550120-1.2.86),” _Straits Times_, 20 January 1955, 5. (From NewspaperSG) &nbsp;
 
 
-[^31]: Public Works Department, _Annual Report 1955_ (Singapore: Government Printing Office, 1955), 2, 40. (From National Library Singapore, call no. RCLOS 354.59570086 SIN); Singapore, _Annual Report 1955_, 176.&nbsp;
+[^31]: Public Works Department, [_Annual Report 1955_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4618273) (Singapore: Government Printing Office, 1955), 2, 40. (From National Library Singapore, call no. RCLOS 354.59570086 SIN); Singapore, [_Annual Report 1955_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5082303), 176.&nbsp;
 
 [^32]: Public Works Department, _Annual Report 1955_, 40; “Rush Order for Bedok Dam,” _Straits Times_, 24 November 1955, 5. (From NewspaperSG)
 
