@@ -573,3 +573,158 @@ identify that generation we call the pioneer artists.
 the National Museum of Singapore between 2003 and 2013, when she transformed
 the museum and local museum scene. She is also a former Lee Kong Chian
 Research Fellow.</div>
+
+#### **BIBLIOGRAPHY**
+
+Asian Civilisations Museum. [_Living With Ink: The Collection of Dr Tan Tsze Chor_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=204082270). Singapore: Asian Civilisations Museum, 2019. (From National Library Singapore, call no. RSING 759.951 LIV)
+
+Chang, Ming Tzu. 南遊吟草 \[South sea poems\]. Singapore: Chang Ming Tzu, 1931.
+
+Leonard K. K. Chan 陳國球. _Xianggang de shuqing shi_ [香港的抒情史](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202764425) \[Hong Kong in its history of lyricism\]. 香港: 中文大學出版社, 2016. 164–65. (From National Library Singapore, call no. Chinese C810.04 CGQ)&nbsp;
+
+_Duan meng xuexiao ershiwu zhounian jìnian kan_ 端蒙学校二十五周年纪念刊 \[Tuan Mong School’s 25th anniversary commemoration publication\]. Singapore: Tuan Mong School, 1931.
+
+今代 \[Up to date\], vol. 2, 16 May 1934.
+
+Lee, Chor Lin. “[Chinese Graphic Artists in Pre-war Singapore](https://biblioasia.nlb.gov.sg/vol-17/issue-2/jul-sep-2021/chinese-artists/).” _BiblioAsia_ 17, no. 2 (2021).
+
+_Malaya Tribune_. “[Red Flag Flies in Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19491007-1.2.4).” 7 October 1948, 1. (From NewspaperSG)
+
+_Nan Kwong Weekly_ 南光周刊. “Shengzhan wansui zuotan hui” 圣战完遂座谈会 \[Completing the Holy War: A forum\]. 15 February 1943, 28–29.
+
+_Nanyang Siang Pau_ 南洋商报. “Da shijie di er jie guohuo zhanlan hui tekan jinri chuban” [大世界第二屆國貨展覽會特刊今日出版](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19330805-1.2.53.3) \[Catalogue of the Second National Products Exposition at the Great World goes on sale today\]. 5 August 1933, 8. (From NewspaperSG)
+
+—. “Qing nian lizhi she xinzao xitai yi jungong shang ni tianzhì bujing” [靑年勵志社新造戲台已竣工尚擬添置布景](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19340203-1.2.48.10) \[The stage of the Nanyang Chinese Students Society is completed with backdrop\]. 3 February 1934, 5. (From NewspaperSG)
+
+&nbsp;—. “Ai tong xiaoyou hui xiju zu jin wan zhuyan donghua chou kuan youyihui” [愛同校友會戲劇組今晚助演東華籌欵遊藝會](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19350617-1.2.34.7) \[Drama group of Ai Tong School Old Boys’ Society performs at the fundraiser for Tong Hwa Chinese School tonight\]. 17 June 1935, 7. (From NewspaperSG)
+
+—. “Guoyu ye xueyuan yanjiang hui likuishi jun jiangyan ‘yishu yu rensheng’” [国语夜学院演讲会李魁士君讲演『艺术与人生](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19360109-1.2.52.3) \[National Language Night School hosts talk by Lee Kueh Sei on “Art and Life”\]. 9 January 1936, 8. (From NewspaperSG)
+
+—. “Manhua de shidai jiazhi: Dai yin lang zai guoyu ye xueyuan zhi yan ci” [漫畫的時代價值: 戴隱郎在國語夜學院之演詞](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19360217-1.2.38.4) \[The value of cartoons in our time\]. 17 February 1936, 5. (From NewspaperSG)
+
+—. “Shangshu meishu pin chenlie lou shang, kaimu li zai lou xia litang juxíng. Xing zhou huaren meishu yanjiu hui mei zhanhui” [上述美術品陳列樓上，開幕禮在樓下禮堂舉行. 星洲華人美術研究會美展會](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19360626-1.2.29.1) \[Singapore Society of Chinese artists exhibition\]. 26 June 1936, 6. (From NewspaperSG)
+
+—. “Línggan quan wai” [戴隱郎靈感圈外](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19360628-1.2.71.1) \[Dai Yinlang: Beyond inspirations\]. 28 June 1936, 11. (From NewspaperSG)
+
+—. “Wangjiyuan de hua” [王济远的画](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19380415-1.2.162) \[Wang Jiyuan’s paintings\]. 15 April 1938, 29. (From NewspaperSG)
+
+—. “Huaren meishu yanjiu hui mingri huansong xubeihong” [華人美術研究會明日歡送徐悲鴻](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19391101-1.2.84) \[SOCA bids farewell to Ju Peon tomorrow\]. 1 November 1939, 6. (From NewspaperSG)
+
+—. “Líndao an xujunlian deng chuangli daying huashì” [林道盦徐君濂等創立大鷹畫室](https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19410704-1.2.12.15) \[Lin Dao’an, Shu Chun Lien and others set up Daying Art Studio\]. 4 July 1941, 9. (From NewspaperSG)
+
+—. Zhuang, Youming 莊右銘. “Guanyu zhuang you zhao (zai yu huaren meishu yanjiu hui di liu jie meizhan tekan)” [關於莊有釗 (載于華人美術研究會第六屆美展特刊)](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19461224-1.2.4) \[Catalogue of the sixth SOCA annual exhibition\]. 24 December 1946, 1. (From NewspaperSG)
+
+—. “Fu zhengsi zai xian bao ban ling xia aihua she bei jiesan” [輔政司在憲報頒令下愛華社被解散](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19501230-1.2.29.4) \[Government orders dissolution of Mayfair Musical and Dramatic Association\]. 30 December 1950, 5. (From NewspaperSG)
+
+—. “Likuishishi shi” [李魁士逝世](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19710909-1.2.38.7) \[Lee Kueh Sei passes away\]. 9 September 1971, 16. (From NewspaperSG)
+
+Pan Xingnong 潘醒农. _Chao qiao suyuan ji_ [潮侨溯源集](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200561725) \[Essays on the roots of overseas Teochews\]. 北京: 金城出版社, 2014. (From National Library Singapore, call no. Chinese RSING 959.5004951 PXN)
+
+Shuai Minfeng 帥民風. _Malaixiya huaren meishu shi yanjiu_ [馬來西亞華人美術史研究](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200946861) \[A history of the art by the Chinese in Malaysia\]. 北京: 中國社會科學出版社, 2013. (From National Library Singapore, call no. Chinese RSEA 709.595 SMF)
+
+Tengshan Leitai 藤山雷太. _Nanyang cong tan_ [南洋叢谈](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84453465) \[Studies on Nanyang\]. 张铭慈译. 上海: 国立暨南大学, 1931. (From National Library Singapore, call no. Chinese RDTYS 959 TSL)
+
+_Straits Times_. “[Lunch Room on Finlayson Green](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19231108-1.2.79).” 8 November 1923, 10. (From NewspaperSG)
+
+—. “[The Scene on the Lawn at the Opening of the Overseas Chinese Photographic Exhibition at the Nanyang Chinese Students Society Premises](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19350326-1.2.83).” 26 March 1935, 13. (From NewspaperSG)
+
+—. “[The Art Club](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19390602-1.2.75).” 2 June 1939, 12. (From NewspaperSG)
+
+_Sin Chew Jit Poh_ 星洲日報. “Yishu jie yijuntuqi lindao an xujunlian deng chuangli \[daying huashi\] [藝術界異軍突起 林道盦徐君濂等 創立［大鷹畫室\]](https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19410704-1.2.12.15)\[New groups rising in the arts: Lin Dao’an, Shu Chun Lien and others set up Daying Art Studio\]. 4 July 1941, 9. (From NewspaperSG)
+
+—. “Woguo meishujia caizhuzhen shishi” [我国美術家蔡竹貞逝世](https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19740917-1.2.30.16) \[Local artist Cai Zhuzhen passes away\]. 17 September 1974, 8. (From NewspaperSG)
+
+Yeo, Mang Thong. [_Migration, Transmission, Localisation: Visual Art in Singapore (1886– 1945)_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203803809). Singapore: National Gallery Singapore, 2019. (From National Library Singapore, call no. RSING 709.5957 YAO)
+
+Zhang Bohe 张伯河. _Zhangbohe huihua shi wen jinian ji_ [张伯河绘画诗文纪念集](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12912820) \[A Commemorative Collection of Zhang Bohe’s Paintings, Poems and Essays\]. Singapore: Zhang Zhongzhao, 2007. (From National Library Singapore, call no. Chinese R 759.95957 ZBH)
+
+#### **NOTES**  
+
+1 Yeo Mang Thong, [_Migration, Transmission, Localisation: Visual Art in Singapore (1886–1945)_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203803809) (Singapore: National Gallery Singapore, 2019). (From National Library Singapore, call no. RSING 709.5957 YAO)
+
+2 Namely, the Shanghai Art Academy, Xinhua Academy and Shanghai Arts College.&nbsp;
+
+3 Chen Chong Swee (陳宗瑞; 1910–85) is the only canonised Singapore pioneer artist who was a founding member of both SOCA and possibly its former incarnation as the Syrens Art Association. Chen’s life and art are well documented, and his writings have been published posthumously by national institutions.
+
+4 For more on Tchang Ju-ch’i (張汝器; 1904–42), Lu Heng (盧衡; 1902–61) and Chen Pu Chie (陳溥之/ 陳普之; 1911–50), see Lee Chor Lin, “[Chinese Graphic Artists in Pre-war Singapore](https://biblioasia.nlb.gov.sg/vol-17/issue-2/jul-sep-2021/chinese-artists/),” _BiblioAsia_ 17, no. 2 (2021).
+
+5 Apart from being a founding member of SOCA, Kau Chin Sheng (高振聲) was a business partner with U-Chow in the production of commercial advertising and signage.
+
+6 Although Nai Wen Chie (賴文基) was active through to the 1980s, very little has been documented about him in publicly accessible archives and sources. In the early years of SOCA, his works were mainly sketches, watercolours and oils.&nbsp;
+
+7 Liu Kang family archives.&nbsp;
+
+8 “Guoyu ye xueyuan yanjiang hui likuishi jun jiangyan ‘yishu yu rensheng’” [国语夜学院演讲会李魁士君讲演『艺术与人生](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19360109-1.2.52.3) \[National Language Night School hosts talk by Lee Kueh Sei on “Art and Life”\], _Nanyang Siang Pau_ 南洋商报, 9 January 1936, 8; “ Wangjiyuan de hua” [王济远的画](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19380415-1.2.162) \[Wang Jiyuan’s paintings\], _Nanyang Siang Pau_ 南洋商报, 15 April 1938, 29. (From NewspaperSG)
+
+9 “Likuishishi shi,” [李魁士逝世](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19710909-1.2.38.7) \[Lee Kueh Sei passes away\], _Nanyang Siang Pau_ 南洋商报, 9 September 1971, 16. (From NewspaperSG)
+
+10 “Da shijie di er jie guohuo zhanlan hui tekan jinri chuban” [大世界第二屆國貨展覽會特刊今日出版](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19330805-1.2.53.3) \[Catalogue of the Second National Products Exposition at the Great World goes on sale today\], _Nanyang Siang Pau_ 南洋商报, 5 August 1933, 8. (From NewspaperSG)&nbsp;
+
+11 “Qing nian lizhi she xinzao xitai yi jungong shang ni tianzhì bujing” [靑年勵志社新造戲台已竣工尚擬添置布景](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19340203-1.2.48.10) \[The stage of The Nanyang Chinese Students Society is completed with backdrop\], _Nanyang Siang Pau_ 南洋商报, 3 February 1934, 5. (From NewspaperSG)
+
+12 “Líndao an xujunlian deng chuangli daying huashì” [林道盦徐君濂等創立大鷹畫室](https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19410704-1.2.12.15) \[Lin Dao’an, Shu Chun Lien and others set up Daying Art Studio\], _Nanyang Siang Pau_ 南洋商报, 4 July 1941, 9. (From NewspaperSG)
+
+13 See Asian Civilisations Museum, [_Living With Ink: The Collection of Dr Tan Tsze Chor_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=204082270) (Singapore: Asian Civilisations Museum, 2019), 110–11, figs. 59–60. (From National Library Singapore, call no. RSING 759.951 LIV)
+
+14 Zhang Bohe 张伯河, _Zhangbohe huihua shi wen jinian ji_ [张伯河绘画诗文纪念集](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12912820) \[A Commemorative Collection of Zhang Bohe’s Paintings, Poems and Essays\] (Singapore: Zhang Zhongzhao, 2007). (From National Library Singapore, call no. Chinese RSING 759.95957 ZBH)
+
+15 _Duan meng xuexiao ershiwu zhounian jìnian kan_ 端蒙学校二十五周年纪念刊 \[Tuan Mong School’s 25th anniversary commemoration publication\] (Singapore: Tuan Mong School, 1931)
+
+16 今代 \[Up to date\], vol. 2, 16 May 1934.
+
+17 “Yishu jie yijuntuqi lindao an xujunlian deng chuangli \[daying huashi\]” [藝術界異軍突起 林道盦徐君濂等 創立［大鷹畫室\]](https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19410704-1.2.12.15) \[New groups rising in the arts: Lin Dao’an, Shu Chun Lien and others set up Daying Art Studio\], _Sin Chew Jit Poh_ 星洲日報, 4 July 1941, 9 (From NewspaperSG); “[Líndao an xujunlian deng chuangli daying huashì](https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19410704-1.2.12.15).”
+
+18 As Lin’s role in the art scene was largely editorial, it would take another research trajectory to place him in the context of Modernist Chinese graphic art in Southeast Asia.&nbsp;
+
+19 “Woguo meishujia caizhuzhen shishi” [我国美術家蔡竹貞逝世](https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19740917-1.2.30.16) \[Local artist Cai Zhuzhen passes away\], _Sin Chew Jit Poh_ 星洲日報, 17 September 1974, 8. (From NewspaperSG)
+
+20 Leonard K. K. Chan 陳國球, _Xianggang de shuqing shi_ [香港的抒情史](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202764425) \[Hong Kong in its history of lyricism\] (香港: 中文大學出版社, 2016), 164–65. (From National Library Singapore, call no. Chinese C810.04 CGQ)&nbsp;
+
+21 “Manhua de shidai jiazhi: Dai yin lang zai guoyu ye xueyuan zhi yan ci” [漫畫的時代價值: 戴隱郎在國語夜學院之演詞](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19360217-1.2.38.4) \[The value of cartoons in our time\], _Nanyang Siang Pau_ 南洋商报, 17 February 1936, 5. (From NewspaperSG)
+
+22 “Línggan quan wai” [戴隱郎靈感圈外](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19360628-1.2.71.1) \[Dai Yinlang: Beyond inspirations\], _Nanyang Siang Pau_ 南洋商报, 28 June 1936, 11. (From NewspaperSG)
+
+23 See Shuai Minfeng 帥民風, _Malaixiya huaren meishu shi yanjiu_ [馬來西亞華人美術史研究](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200946861) \[A history of the art by the Chinese in Malaysia\] (北京: 中國社會科學出版社, 2013), 107. (From National Library Singapore, call no. Chinese RSEA 709.595 SMF)
+
+24 张铭慈 seems to have been the name he used before his arrival in Singapore. It appears in his works published in Shanghai between 1928 and 1931. See his autobiographical introduction in Tengshan Leitai 藤山雷太, _Nanyang cong tan_ [南洋叢谈](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84453465) \[Studies on Nanyang\], trans. Zhang Mingci 张铭慈译 (上海: 国立暨南大学, 1931). (From National Library Singapore, call no. Chinese RDTYS 959 TSL)
+
+25 Fujiyama Raita (1863–1938) was a businessman of the Meiji and Showa eras. From 1917 to 1925, he served as the Director of the Tokyo Chamber of Commerce. In 1927, he established the Fujiyama Industrial Library, with a collection of more than 100,000 books.
+
+26 “Shengzhan wansui zuotan hui” 圣战完遂座谈会 \[Completing the Holy War: A forum\], _Nan Kwong Weekly_ 南光周刊, 15 February 1943, 28–29. 
+
+27 Chang Ming Tzu, 南遊吟草 \[South sea poems\] (Singapore: Chang Ming Tzu, 1931), 9, 丹绒巴葛蔡寰青山人索句; 10, 题二山居士画梅; 26, 谢左腕画家许奇高绘赠名驹; 40, 提刘抗画家绘赠松——叶.
+
+28 Chang, 南遊吟草, 29, 谢徐悲鸿教授赠画.
+
+29 Chang, 南遊吟草, 34, 赠罗铭画家柬骆清泉兄, 夜览海粟南洋画册.
+
+30 Chang, 南遊吟草, 9, 丹绒巴葛蔡寰青山人索句; 10, 题二山居士画梅; 26, 谢左腕画家许奇高绘赠名驹; 40, 提刘抗画家绘赠松——叶.
+
+31 Zhuang Youming 莊右銘, “Guanyu zhuang you zhao (zai yu huaren meishu yanjiu hui di liu jie meizhan tekan)” [關於莊有釗 (載于華人美術研究會第六屆美展特刊)](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19461224-1.2.4) \[About Zhuang Youzhao (contained in the special issue of the 6th Art Exhibition of the Chinese Art Research Association)\], _Nanyang Siang Pau_ 南洋商报, 24 December 1946, 1. (From NewspaperSG)
+
+32 Asian Civilisations Museum, [_Living With Ink_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=204082270), 99, plate 50.
+
+33 See chapter on the Nanyang Chinese Students Society in Pan Xingnong 潘醒农, _Chao qiao suyuan ji_ [潮侨溯源集](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200561725) \[Essays on the roots of overseas Teochews\] (北京: 金城出版社, 2014), 82–98. (From National Library Singapore, call no. Chinese RSING 959.5004951 PXN)
+
+34 “[The Scene on the Lawn at the Opening of the Overseas Chinese Photographic Exhibition at the Nanyang Chinese Students Society Premises](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19350326-1.2.83),” _Straits Times_, 26 March 1935, 13. (From NewspaperSG)
+
+35 “[Lunch Room on Finlayson Green](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19231108-1.2.79),” _Straits Times_, 8 November 1923, 10. (From NewspaperSG)
+
+36 “Shangshu meishu pin chenlie lou shang, kaimu li zai lou xia litang juxíng. Xing zhou huaren meishu yanjiu hui mei zhanhui” [上述美術品陳列樓上，開幕禮在樓下禮堂舉行. 星洲華人美術研究會美展會](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19360626-1.2.29.1) \[Singapore Society of Chinese artists exhibition\], &nbsp;_Nanyang Siang Pau_ 南洋商报, 26 June 1936, 6. (From NewspaperSG)
+
+37 Le Mayeur’s exhibitions, held in March 1935, 1936, 1937 and May 1941, were usually between a week and 10 days long. See _Malaya Tribune, Singapore Free Press &amp; Mercantile Advertiser_ and _Straits Times_ of these periods.
+
+38 “[The Art Club](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19390602-1.2.75),” _Straits Times_, 2 June 1939, 12. (From NewspaperSG)
+
+39 “[Shangshu meishu pin chenlie lou shang, kaimu li zai lou xia litang juxíng. Xing zhou huaren meishu yanjiu hui mei zhanhui](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19360626-1.2.29.1).”
+
+40 “Ai tong xiaoyou hui xiju zu jin wan zhuyan donghua chou kuan youyihui” [愛同校友會戲劇組今晚助演東華籌欵遊藝會](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19350617-1.2.34.7) \[Drama group of Ai Tong School Old Boys’ Society performs at the fundraiser for Tong Hwa Chinese School tonight\], _Nanyang Siang Pau_ 南洋商报, 17 June 1935, 7. (From NewspaperSG)
+
+41 “Huaren meishu yanjiu hui mingri huansong xubeihong” [華人美術研究會明日歡送徐悲鴻](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19391101-1.2.84) \[SOCA bids farewell to Ju Peon tomorrow\], _Nanyang Siang Pau_ 南洋商报, 1 November 1939, 6. (From NewspaperSG)
+
+42 Liu Kang family archives.
+
+43 “Fu zhengsi zai xian bao ban ling xia aihua she bei jiesan” [輔政司在憲報頒令下愛華社被解散](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19501230-1.2.29.4) \[Government orders dissolution of Mayfair Musical and Dramatic Association\], _Nanyang Siang Pau_ 南洋商报, 30 December 1950, 5. (From NewspaperSG)
+
+44 “[Red Flag Flies in Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19491007-1.2.4),” _Malaya Tribune_, 7 October 1949, 1. (From NewspaperSG)
+
