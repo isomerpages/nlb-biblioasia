@@ -42,6 +42,9 @@ Houses and huts on low-lying areas along Bukit Timah and Dunearn roads were subm
 
 The October floods also affected 400 homes housing some 3,000 people in the Bedok resettlement village. The area was inundated when the surrounding mud dyke was breached in two places, with one gap spanning 20 ft (6 m). Acting Commissioner of Lands S.G. Burlock later explained that the dykes were not high enough to prevent water from overflowing from the Bedok Road catchment valley. The _Straits Budget_ estimated damages at $250,000 to livestock and food items in the Bedok resettlement village.[^9]
 
+![](/images/Vol%2021%20Issue%201/Floods/floods_article.jpg)
+<div> A violent three-hour rainstorm on 23 October 1954 wreaked havoc across Singapore, causing flooding in many areas and making scores of people homeless. <i>Source: The Straits Times, 24 October 1954 © SPH Media Limited. Permission required for reproduction.</i></div>
+
 The governor of Singapore, John Nicoll, visited the Bedok resettlement village that night. The village headman told him that 150 acres had been submerged under 3.5 ft (1.1 m) of water, marking the most serious flood in two decades. Experts from the City Council investigated and explained that “water from Tampines and Changi Roads had not been able to flow out to the sea because of the narrowness of the mouth of the Bedok River”.[^10]
 
 Social welfare officials provided meals to affected villagers and sampans were used to evacuate people from submerged attap huts. Many sought shelter with friends and relatives, while the village school and wayang area were converted into temporary sleeping quarters.&nbsp;
