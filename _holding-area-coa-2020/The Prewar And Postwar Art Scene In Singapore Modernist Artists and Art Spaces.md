@@ -466,7 +466,7 @@ group of photography enthusiasts staged an exhibition of more than 300
 works from Malaya, Singapore and Hong Kong. The exhibition opening was
 a garden party staged in the NCSS’s leafy compound.34
 
-hese gatherings suggest that exhibition openings were officious in nature,
+These gatherings suggest that exhibition openings were officious in nature,
 often graced by high-ranking representatives of the government, members
 of the Chinese Consulate, and British officials. Speeches were reported
 almost verbatim, and the art works in the exhibitions were written up and
