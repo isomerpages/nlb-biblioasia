@@ -176,15 +176,15 @@ This integrated solution aims to protect Singapore’s coastlines, prevent flood
 
 [^31]: Public Works Department, [_Annual Report 1955_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4618273) (Singapore: Government Printing Office, 1955), 2, 40. (From National Library Singapore, call no. RCLOS 354.59570086 SIN); Singapore, [_Annual Report 1955_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5082303), 176.&nbsp;
 
-[^32]: Public Works Department, _Annual Report 1955_, 40; “Rush Order for Bedok Dam,” _Straits Times_, 24 November 1955, 5. (From NewspaperSG)
+[^32]: Public Works Department, [_Annual Report 1955_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4618273), 40; “[Rush Order for Bedok Dam](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19551124-1.2.55),” _Straits Times_, 24 November 1955, 5. (From NewspaperSG)
 
-[^33]: Singapore, _Annual Report 1956_ (Singapore: Government Printing Office, 1956), 194. (From National Library Singapore, call no. RSING 959.57 SIN)
+[^33]: Singapore, [_Annual Report 1956_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5082303) (Singapore: Government Printing Office, 1956), 194. (From National Library Singapore, call no. RSING 959.57 SIN)
 
-[^34]: “‘Long Island’,” Urban Redevelopment Authority, accessed 15 December 2024, https://www.ura.gov.sg/Corporate/Planning/Master-Plan/Draft-Master-Plan-2025/Long-Island.
+[^34]: “‘Long Island’,” Urban Redevelopment Authority, accessed 15 December 2024, [https://www.ura.gov.sg/Corporate/Planning/Master-Plan/Draft-Master-Plan-2025/Long-Island](https://www.ura.gov.sg/Corporate/Planning/Master-Plan/Draft-Master-Plan-2025/Long-Island).
 
-[^35]: “Marina Barrage,” PUB Singapore National Water Agency, accessed 15 December 2024, https://www.pub.gov.sg/public/places-of-interest/marina-barrage.
+[^35]: “Marina Barrage,” PUB Singapore National Water Agency, accessed 15 December 2024, [https://www.pub.gov.sg/public/places-of-interest/marina-barrage](https://www.pub.gov.sg/public/places-of-interest/marina-barrage).
 
-[^36]: Centre for Liveable Cities, “Active, Beautiful, Clean Waters (ABC Waters) Programme,” in _Singapore Infopedia_. National Library Board Singapore. Article published August 2019.
+[^36]: Centre for Liveable Cities, “[Active, Beautiful, Clean Waters (ABC Waters) Programme](https://www.nlb.gov.sg/main/article-detail?cmsuuid=cfc0035c-4734-4d26-8fe1-8f0c6a9e1e6c),” in _Singapore Infopedia_. National Library Board Singapore. Article published August 2019.
 
 [^37]: “‘Long Island’.”
 
