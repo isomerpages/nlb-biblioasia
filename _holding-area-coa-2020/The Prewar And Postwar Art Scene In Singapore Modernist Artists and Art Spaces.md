@@ -311,7 +311,12 @@ the war in Singapore, though his participation was recorded in the 1936
 exhibition and the iconic cartoon and photography exhibition in 1938, which
 had entries by artists in the Malay Archipelago. A rare image of Cai’s work
 can be found in the 1948 SOCA exhibition catalogue. It depicts an idyllic
-scene of three Malays on a hilltop overlooking a vast expanse of sea and village (Figure 7). In Cai’s obituary, he was lauded as a pioneer in the art
+scene of three Malays on a hilltop overlooking a vast expanse of sea 
+![]
+<img src="/images/COA%202020/Prewar%20And%20Postwar/Cai_Zhuzhen.jpg" style="width:80%;">
+ <div style="background-color: white;">Cai Zhuzhen, <i>Market Place,</i> SOCA exhibition catalogue, 1948. </div>
+
+and village (Figure 7). In Cai’s obituary, he was lauded as a pioneer in the art
 world and a photographer in Singapore.[^19] 
 
 **Dai Yinlang** (戴隱郎; 1907–85) was an enigma in the Singapore/Malaya art
