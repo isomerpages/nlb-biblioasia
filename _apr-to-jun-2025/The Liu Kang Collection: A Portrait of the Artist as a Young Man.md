@@ -149,7 +149,7 @@ In 1993, the Raffles Hotel commissioned Liu Kang to create a collection of paste
 
 <div style="background-color: #fff6ba; padding:15px; margin: 10px; font-size=120%">
  Members of the public who wish to access the materials can enquire at Level 11 of the Lee Kong Chian Reference Library or visit 
-	<a href="https://reference.nlb.gov.sg/getting-started/accessing-reference-items/">https://reference.nlb.gov.sg/getting-started/accessing-reference-items/</a>. 
+	<a href="https://reference.nlb.gov.sg/getting-started/accessing-reference-items/">https://reference.nlb.gov.sg/getting-started/accessing-reference-items/</a>. <br>
 	
 An exhibition titled&nbsp;<i>Untold Stories: Four Singapore Artists’ Quest for Inspiration in Bali 1952</i> is held at Level 10 of the National Library Building from 14 February to 3 August 2025. It features a selection of the photographs that Liu Kang took on his trip to Bali with Chen Wen Hsi, Chen Chong Swee and Cheong Soo Pieng.</div>
 		
