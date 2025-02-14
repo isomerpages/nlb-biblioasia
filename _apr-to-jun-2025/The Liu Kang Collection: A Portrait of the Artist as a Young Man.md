@@ -147,7 +147,7 @@ In 1993, the Raffles Hotel commissioned Liu Kang to create a collection of paste
 <div>Prints of pastel portraits of Raffles Hotel staff, 1993.  <i>Liu Kang Collection, National Library Singapore.</i></div><br>
 
 
-<div style="background-color: #fff6ba; padding:15px; margin: 10px; font-size=120%">
+<div style="background-color: #fff6ba; padding:15px; margin: 10px; font-size=100%">
  Members of the public who wish to access the materials can enquire at Level 11 of the Lee Kong Chian Reference Library or visit 
 	<a href="https://reference.nlb.gov.sg/getting-started/accessing-reference-items/">https://reference.nlb.gov.sg/getting-started/accessing-reference-items/</a>. <br><br>
 	
