@@ -7,6 +7,9 @@ description: ""
 #### The severe floods of 1954 tested community resilience, spurred significant infrastructure improvements and left a lasting impact on Singapore’s flood preparedness measures.  
 By Darren Seow
 
+![](/images/Vol%2021%20Issue%201/Floods/floods_facing2.jpg)
+<div> Children in a flooded house in Potong Pasir, 17 December 1954. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 It started as a heavy drizzle on the evening of 8 December 1954. Then at 11.20 pm, a torrential downpour began that continued throughout the night, into the next day and then into the night again. In the end, a record 10.9 in (276.89 mm) of rain fell over 24 hours.&nbsp;
 
 It rained so much that at 4.40 pm on 9 December, Kallang Airport was closed to traffic and aircraft on their way to Singapore were diverted to Butterworth in Penang over 800 km away. The rain caused flooding in some 2,500 acres of land, with Bedok being the most severely affected. Other badly flooded areas were Bukit Timah, Grove Estate, Orchard Road, Telok Ayer, Robinson Road, Cecil Street and Anson Road.[^1]
@@ -14,6 +17,12 @@ It rained so much that at 4.40 pm on 9 December, Kallang Airport was closed to t
 Among those rescued were a mother and her newborn (just 12 hours old), who had to be saved from their flooded home on Aljunied Road. “Rescuers, wading in water chest high in semi-darkness, carried the mother to safety on a stretcher. The baby, curled up in blankets, was carried by a relative,” reported the _Straits Times_.[^2]
 
 Although floodwaters began to recede on 10 December, many areas were still submerged in water, including Bedok, Potong Pasir, Bukit Timah and Geylang Serai. Floodwaters had entered homes, damaging furniture and personal belongings. “When the people return to their homes they will find plenty of mud and debris. The only people who were happy were children swimming in the ponds,” said City Engineer George Edmond who toured the flood areas that day.[^3]
+
+![](/images/Vol%2021%20Issue%201/Floods/floods_submerged.jpg)
+<div> Large parts of Bedok being submerged, 9 December 1954. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
+![](/images/Vol%2021%20Issue%201/Floods/floods_family.jpg)
+<div> A family inside their flooded home in Bedok, 9 December 1954. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 What the unfortunate people of Singapore did not know at the time was that these scenes would be repeated just a week later.
 
@@ -33,7 +42,17 @@ Houses and huts on low-lying areas along Bukit Timah and Dunearn roads were subm
 
 The October floods also affected 400 homes housing some 3,000 people in the Bedok resettlement village. The area was inundated when the surrounding mud dyke was breached in two places, with one gap spanning 20 ft (6 m). Acting Commissioner of Lands S.G. Burlock later explained that the dykes were not high enough to prevent water from overflowing from the Bedok Road catchment valley. The _Straits Budget_ estimated damages at $250,000 to livestock and food items in the Bedok resettlement village.[^9]
 
+![](/images/Vol%2021%20Issue%201/Floods/floods_article.jpg)
+<div> A violent three-hour rainstorm on 23 October 1954 wreaked havoc across Singapore, causing flooding in many areas and making scores of people homeless. <i>Source: The Straits Times, 24 October 1954 © SPH Media Limited. Permission required for reproduction.</i></div>
+
+
+![](/images/Vol%2021%20Issue%201/Floods/floods_dykes.jpg)
+<div> Workers building dykes during the Bedok flood, 9 December 1954. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 The governor of Singapore, John Nicoll, visited the Bedok resettlement village that night. The village headman told him that 150 acres had been submerged under 3.5 ft (1.1 m) of water, marking the most serious flood in two decades. Experts from the City Council investigated and explained that “water from Tampines and Changi Roads had not been able to flow out to the sea because of the narrowness of the mouth of the Bedok River”.[^10]
+
+![](/images/Vol%2021%20Issue%201/Floods/floods_village2.jpg)
+<div> The Bedok resettlement village on Koh Sek Lim Road, off Upper Changi Road, in August 1952 prior to the 1954 floods. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore. </i></div>
 
 Social welfare officials provided meals to affected villagers and sampans were used to evacuate people from submerged attap huts. Many sought shelter with friends and relatives, while the village school and wayang area were converted into temporary sleeping quarters.&nbsp;
 
@@ -48,6 +67,9 @@ Unfortunately, another major storm swept through Singapore about a week later. I
 Once again, the villagers of Bedok were not spared. The floodwaters breached the bund in Bedok resettlement village at 3 pm and despite PWD teams stacking sandbags and reinforcing the bund with poles, water surged through the gaps. Personnel from the Police Reserve Unit deployed five sampans and two rubber boats to help villagers remove their belongings. By 6 pm, however, water levels had risen to 4 ft (1.2 m), and over 250 villagers sought shelter at Bedok Boys’ and Girls’ School, where the SWD provided hot meals.[^15]
 
 By nightfall, thousands of flood victims had been housed in various relief centres across Singapore, where they were provided with hot meals, beverages and clothing. Nicoll visited St Andrew’s School, which had been converted into a mass dormitory. Upon learning that only one float and a few sampans were available for rescue operations in Potong Pasir, he made a radio call instructing the Royal Air Force to despatch evacuation boats.[^16]
+
+![](/images/Vol%2021%20Issue%201/Floods/floods_meals.jpg)
+<div> Children receiving meals at St Andrew's School, 17 December 1954, which served as a flood relief centre. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 In some ways, the people sheltering in the relief centres were fortunate. Five people lost their lives during a rescue operation off Braddell Road on 17 December. At around 2 am, amidst a downpour, the police were evacuating a family of seven – two grandparents, their daughter and four grandchildren – by sampan when the vessel was caught in a strong current and drifted close to the Braddell Bridge over the swirling Whampoa River. The boat struck a submerged sewage pipeline near the bridge, capsizing and throwing all the occupants into the water, which had risen to around 5 ft (1.5 m). Five family members lost their lives: the grandmother, her daughter and three grandchildren; the grandfather and his 6-year-old grandson survived. Clinging onto the overturned boat, the grandfather said he “could hear shouts for help from his wife and daughter but could do nothing to help them”. The capsized sampan, one of 22 deployed by the police, was never recovered, underscoring the dangerous conditions that night.[^17]
 
@@ -103,7 +125,7 @@ This integrated solution aims to protect Singapore’s coastlines, prevent flood
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/NathanielChew1.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/DarrenSeow.png">
 <b>Darren Seow</b> is a Senior Librarian with the National Library Singapore. His responsibilities include content development, research, and the provision of reference and information services.</div>
 <div style="background-color: white;">
 <br>

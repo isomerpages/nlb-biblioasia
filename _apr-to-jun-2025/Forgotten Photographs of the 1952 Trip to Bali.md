@@ -1,6 +1,6 @@
 ---
 title: Forgotten Photographs of the 1952 Trip to Bali
-permalink: /holding-area/vol-21/issue-1/apr-jun-2025/forgotten-photographs-of-the-1952-trip-to-bali/
+permalink: /vol-21/issue-1/apr-jun-2025/liu-kang-forgotten-photographs-bali/
 variant: markdown
 description: ""
 ---
@@ -92,12 +92,13 @@ Liu Kang focused his lens on landscape, architecture and scenes of daily life, a
 
 
 <div style="background-color: #fff6ba; padding:15px; margin: 10px; font-size=120%">
-<img src="/images/Vol%2021%20Issue%201/Forgotten%20Bali/bali_book.png" style="width: 60%;"><br>Gretchen Liu’s <i>Bali 1952: Through the Lens of Liu Kang: The Trip to Java and Bali by Four Singapore Pioneering Artists</i> was published in conjunction with the exhibition, <i>Untold Stories: Four Singapore Artists’ Quest for Inspiration in Bali 1952</i>, held at Level 10 of the National Library Building from 14 February to 3 August 2025. The book is available for reference at the Lee Kong Chian Reference Library (call no. RSING xxxx), for loan at selected public libraries (call no. SING xxxx), and for sale at physical and online bookstores. 
+<img src="/images/Vol%2021%20Issue%201/Forgotten%20Bali/bali_book.png" style="width: 60%;"><br>Gretchen Liu’s <i>Bali 1952: Through the Lens of Liu Kang: The Trip to Java and Bali by Four Singapore Pioneering Artists</i> was published in conjunction with the exhibition, <i>Untold Stories: Four Singapore Artists’ Quest for Inspiration in Bali 1952</i>, held at Level 10 of the National Library Building from 14 February to 3 August 2025. The book will be available at the libraries soon. 
 </div>
 
 
 <div style="background-color: white;">
 <br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/Gretchen_Liu.png">
 <b>Gretchen Liu</b> is a former journalist, writer and an independent scholar with an interest in visual culture and heritage. She is the editor and author of several books. Most recently she has been researching the early life of her father-in-law Liu Kang, a journey that has taken her deep into early 20th-century Chinese art history.</div>
 <div style="background-color: white;">
 <br>
@@ -113,4 +114,4 @@ Liu Kang focused his lens on landscape, architecture and scenes of daily life, a
 
 [^3]: Chen Chong Swee, letter to his wife (Tay Peck Koon), 5 July 1952. Translated from the original letter digitised by National Gallery Singapore Library &amp; Archive with kind permission from Chen Chi Sing. Some of Chen Chong Swee’s Java and Bali photographs were featured in the book by Phua Chay Long 潘醒农,《[东南亚名胜](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14468418)》\[Celebrated places in Southeast Asia\] (Singapore: Nantao Publishing House, 1954). (From National Library Singapore, call no. RSING 959 PCL)&nbsp;
 
-[^4]: Luo Ming was the other participant of the Bali sketching trip. He was a graduate of the Shanghai Art Academy in Western painting. In 1947, he left Hong Kong, where he taught, and travelled to Thailand, Malaya, Singapore, Hong Kong and Indonesia, painting and holding solo exhibitions. In 1948, he spent several months in Singapore and held an exhibition of his art that year, which was was sponsored by the Society of Chinese Artists. See “[Art Display Is Planned](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19480716-1.2.35.17),” _Singapore Free Press_, “[Huajia Luo Ming shi bu ri fanguo](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19480816-1.2.26.4)”&nbsp;画家罗铭氏不日返国 [Painter Luo Ming will return to China soon],&nbsp;南洋商报_Nanyang Siang Pau_, 16 August 1948, 6 (From NewspaperSG)
+[^4]: Luo Ming was the other participant of the Bali sketching trip. He was a graduate of the Shanghai Art Academy in Western painting. In 1947, he left Hong Kong, where he taught, and travelled to Thailand, Malaya, Singapore, Hong Kong and Indonesia, painting and holding solo exhibitions. In 1948, he spent several months in Singapore and held an exhibition of his art that year, which was was sponsored by the Society of Chinese Artists. See “[Art Display Is Planned](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19480716-1.2.35.17),” _Singapore Free Press_, “[Huajia Luo Ming shi bu ri fanguo](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19480816-1.2.26.4)”&nbsp;画家罗铭氏不日返国 [Painter Luo Ming will return to China soon],&nbsp;南洋商报 _Nanyang Siang Pau_, 16 August 1948, 6 (From NewspaperSG)
