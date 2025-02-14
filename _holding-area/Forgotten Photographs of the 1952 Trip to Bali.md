@@ -98,6 +98,7 @@ Liu Kang focused his lens on landscape, architecture and scenes of daily life, a
 
 <div style="background-color: white;">
 <br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/Gretchen_Liu.png">
 <b>Gretchen Liu</b> is a former journalist, writer and an independent scholar with an interest in visual culture and heritage. She is the editor and author of several books. Most recently she has been researching the early life of her father-in-law Liu Kang, a journey that has taken her deep into early 20th-century Chinese art history.</div>
 <div style="background-color: white;">
 <br>
