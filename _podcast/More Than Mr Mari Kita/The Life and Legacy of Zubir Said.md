@@ -71,7 +71,7 @@ Young Artist Award,&nbsp;Singapore’s highest award for young arts practitioner
 <details class="isomer-details">
 <summary>Resources</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Rohana Zubir,<em> <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=%2014540511" rel="noopener noreferrer nofollow" target="_blank">Zubir Said: The Composer of Majulah Singapura</a> </em>(Singapore:
+<p>Rohana Zubir,<em> <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=14540511" rel="noopener noreferrer nofollow" target="_blank">Zubir Said: The Composer of Majulah Singapura</a> </em>(Singapore:
 Institute of Southeast Asian Studies, 2012).
 <br>
 <br>Cheryl Sim, “<a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=4b3061ce-c763-480d-9867-ac364bb139bf" rel="noopener noreferrer nofollow" target="_blank">Zubir Said</a>,”
