@@ -41,7 +41,7 @@ Call no. RSEA 959.01 HI4
 
 ![](/images/Vol%2021%20Issue%201/New%20Books/books_sea.jpg)
 
-Recent discoveries and improved investigative techniques reveal that the first modern humans reached Southeast Asia at least 60,000 years ago. They encountered not two, but four different human species and interbred with at least one of them. Early Southeast Asia provides a synthesis of nearly two million years of human endeavour.
+Recent discoveries and improved investigative techniques reveal that the first modern humans reached Southeast Asia at least 60,000 years ago. They encountered not two, but four different human species and interbred with at least one of them. _Early Southeast Asia_ provides a synthesis of nearly two million years of human endeavour.
 
 
 
