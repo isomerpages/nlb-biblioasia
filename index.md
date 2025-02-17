@@ -9,13 +9,24 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-20/issue-4/jan-mar-2025/japanese-opium-propaganda-syonan-shimbun/
-      button: All Smoke? Opium Propaganda in the Syonan Shimbun
+      url: /vol-20/issue-4/jan-mar-2025/sembawang-maps-singapore/
+      button: The Story of Sembawang from 19th-Century Singapore Maps
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 20 Issue 4/Opium/HeroImage_opium_2.jpg
+      background: /images/Vol 20 Issue 4/Sembawang/HeroImage_sembawang_3.jpg
+  - infopic:
+      title: A Bridge Between East and West
+      subtitle: Art
+      id: infopic
+      description: Liu Kang’s works show the influence of Western artists such as
+        Cézanne, Gauguin, Van Gogh and Matisse, as well as the tradition of
+        Chinese ink painting.
+      button: Straddling East and West
+      url: /vol-21/issue-1/apr-jun-2025/liu-kang-bridge-east-west/
+      image: /images/Vol 21 Issue 1/Liu Kang The Artist/Liu_Kang_artist_topics.jpg
+      alt: Image alt text
   - infopic:
       title: The Life and Legacy of Zubir Said
       subtitle: Podcast
