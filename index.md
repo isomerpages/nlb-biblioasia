@@ -17,6 +17,17 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 20 Issue 4/Sembawang/HeroImage_sembawang_3.jpg
   - infopic:
+      title: A Bridge Between East and West
+      subtitle: Art
+      id: infopic
+      description: Liu Kang’s works show the influence of Western artists such as
+        Cézanne, Gauguin, Van Gogh and Matisse, as well as the tradition of
+        Chinese ink painting.
+      button: Straddling East and West
+      url: /vol-21/issue-1/apr-jun-2025/liu-kang-bridge-east-west/
+      image: /images/Vol 21 Issue 1/Liu Kang The Artist/Liu_Kang_artist_topics.jpg
+      alt: Image alt text
+  - infopic:
       title: The Life and Legacy of Zubir Said
       subtitle: Podcast
       id: infopic
@@ -1049,16 +1060,5 @@ sections:
       url: /vol-20/issue-1/apr-jun-2024/mountain-everest-expedition-david-lim/
       image: /images/Online Only Articles/Conquer Tallest
         Mountain_12_23/mok_on_fixed_ropes_homepage.png
-      alt: Image alt text
-  - infopic:
-      title: A Bridge Between East and West
-      subtitle: Art
-      id: infopic
-      description: Liu Kang’s works show the influence of Western artists such as
-        Cézanne, Gauguin, Van Gogh and Matisse, as well as the tradition of
-        Chinese ink painting.
-      button: Straddling East and West
-      url: /vol-21/issue-1/apr-jun-2025/liu-kang-bridge-east-west/
-      image: /images/Vol 21 Issue 1/Liu Kang The Artist/Liu_Kang_artist_topics.jpg
       alt: Image alt text
 ---
