@@ -21,9 +21,6 @@ Although floodwaters began to recede on 10 December, many areas were still subme
 ![](/images/Vol%2021%20Issue%201/Floods/floods_submerged.jpg)
 <div> Large parts of Bedok being submerged, 9 December 1954. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
-![](/images/Vol%2021%20Issue%201/Floods/floods_family.jpg)
-<div> A family inside their flooded home in Bedok, 9 December 1954. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
-
 What the unfortunate people of Singapore did not know at the time was that these scenes would be repeated just a week later.
 
 Thanks to the annual northeast monsoons, December in Singapore is usually a damp month. However, even by monsoonal standards, December 1954 stood out. That month, some 26.81 in (680.97 mm) of rain were recorded, making it the wettest December since 1869.[^4] And it was not only during the month of December that people here had to endure heavy rains. According to the Public Works Department (PWD), the last quarter of 1954 was the wettest in 85 years. The PWD noted that no less than 53 in (1,346 mm) of rainfall were recorded at the airport.[^5]
@@ -65,6 +62,9 @@ A little over a month later, the heavens opened on 8 December and, once again, t
 Unfortunately, another major storm swept through Singapore about a week later. It began raining at 5 am on 16 December and by mid-morning, the rivers had swelled. By midday, kampongs were waterlogged, and eventually Potong Pasir, Bedok and Braddell Road – areas most affected the previous week – were flooded yet again. At Braddell Road kampong, near the swollen Kallang River, hundreds of villagers were evacuated by sampans.[^14]
 
 Once again, the villagers of Bedok were not spared. The floodwaters breached the bund in Bedok resettlement village at 3 pm and despite PWD teams stacking sandbags and reinforcing the bund with poles, water surged through the gaps. Personnel from the Police Reserve Unit deployed five sampans and two rubber boats to help villagers remove their belongings. By 6 pm, however, water levels had risen to 4 ft (1.2 m), and over 250 villagers sought shelter at Bedok Boys’ and Girls’ School, where the SWD provided hot meals.[^15]
+
+![](/images/Vol%2021%20Issue%201/Floods/floods_family.jpg)
+<div> A family inside their flooded home in Bedok, 9 December 1954. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 By nightfall, thousands of flood victims had been housed in various relief centres across Singapore, where they were provided with hot meals, beverages and clothing. Nicoll visited St Andrew’s School, which had been converted into a mass dormitory. Upon learning that only one float and a few sampans were available for rescue operations in Potong Pasir, he made a radio call instructing the Royal Air Force to despatch evacuation boats.[^16]
 
