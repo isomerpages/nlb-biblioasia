@@ -18,9 +18,6 @@ Among those rescued were a mother and her newborn (just 12 hours old), who had t
 
 Although floodwaters began to recede on 10 December, many areas were still submerged in water, including Bedok, Potong Pasir, Bukit Timah and Geylang Serai. Floodwaters had entered homes, damaging furniture and personal belongings. “When the people return to their homes they will find plenty of mud and debris. The only people who were happy were children swimming in the ponds,” said City Engineer George Edmond who toured the flood areas that day.[^3]
 
-![](/images/Vol%2021%20Issue%201/Floods/floods_submerged.jpg)
-<div> Large parts of Bedok being submerged, 9 December 1954. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
-
 What the unfortunate people of Singapore did not know at the time was that these scenes would be repeated just a week later.
 
 Thanks to the annual northeast monsoons, December in Singapore is usually a damp month. However, even by monsoonal standards, December 1954 stood out. That month, some 26.81 in (680.97 mm) of rain were recorded, making it the wettest December since 1869.[^4] And it was not only during the month of December that people here had to endure heavy rains. According to the Public Works Department (PWD), the last quarter of 1954 was the wettest in 85 years. The PWD noted that no less than 53 in (1,346 mm) of rainfall were recorded at the airport.[^5]
@@ -78,6 +75,9 @@ As floodwaters steadily receded on 18 December, Nicoll visited the affected area
 #### **The Bedok Problem**
 
 The floods of 1954 had hit the low-lying, coastal Bedok resettlement area particularly hard and the press coined the term “Bedok problem” to describe the issue. The villagers living in Bedok were particularly bitter because they had been resettled there, unwillingly, just two years prior. They had previously been living in Paya Lebar but were forced to move to make way for the new Paya Lebar Airport. Now their farms were being repeatedly flooded.[^19]
+
+![](/images/Vol%2021%20Issue%201/Floods/floods_submerged.jpg)
+<div> Large parts of Bedok being submerged, 9 December 1954. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 After the first round of flooding in December, Legislative Councillor Elizabeth Choy toured the area, and told the press: “They \[the farmers\] obliged the government by moving from the Paya Lebar area, and it is our duty to see that they do not suffer.” The _Straits Times_ argued that the government had “a moral obligation” to provide “better drainage and other flood prevention measures at Bedok” and a “special responsibility” towards those who relocated from Paya Lebar.[^20]
 
