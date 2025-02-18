@@ -39,10 +39,6 @@ Houses and huts on low-lying areas along Bukit Timah and Dunearn roads were subm
 
 The October floods also affected 400 homes housing some 3,000 people in the Bedok resettlement village. The area was inundated when the surrounding mud dyke was breached in two places, with one gap spanning 20 ft (6 m). Acting Commissioner of Lands S.G. Burlock later explained that the dykes were not high enough to prevent water from overflowing from the Bedok Road catchment valley. The _Straits Budget_ estimated damages at $250,000 to livestock and food items in the Bedok resettlement village.[^9]
 
-
-![](/images/Vol%2021%20Issue%201/Floods/floods_dykes.jpg)
-<div> Workers building dykes during the Bedok flood, 9 December 1954. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
-
 The governor of Singapore, John Nicoll, visited the Bedok resettlement village that night. The village headman told him that 150 acres had been submerged under 3.5 ft (1.1 m) of water, marking the most serious flood in two decades. Experts from the City Council investigated and explained that “water from Tampines and Changi Roads had not been able to flow out to the sea because of the narrowness of the mouth of the Bedok River”.[^10]
 
 ![](/images/Vol%2021%20Issue%201/Floods/floods_village2.jpg)
@@ -63,10 +59,10 @@ Once again, the villagers of Bedok were not spared. The floodwaters breached the
 ![](/images/Vol%2021%20Issue%201/Floods/floods_family.jpg)
 <div> A family inside their flooded home in Bedok, 9 December 1954. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
-By nightfall, thousands of flood victims had been housed in various relief centres across Singapore, where they were provided with hot meals, beverages and clothing. Nicoll visited St Andrew’s School, which had been converted into a mass dormitory. Upon learning that only one float and a few sampans were available for rescue operations in Potong Pasir, he made a radio call instructing the Royal Air Force to despatch evacuation boats.[^16]
-
 ![](/images/Vol%2021%20Issue%201/Floods/floods_meals.jpg)
 <div> Children receiving meals at St Andrew's School, 17 December 1954, which served as a flood relief centre. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
+By nightfall, thousands of flood victims had been housed in various relief centres across Singapore, where they were provided with hot meals, beverages and clothing. Nicoll visited St Andrew’s School, which had been converted into a mass dormitory. Upon learning that only one float and a few sampans were available for rescue operations in Potong Pasir, he made a radio call instructing the Royal Air Force to despatch evacuation boats.[^16]
 
 In some ways, the people sheltering in the relief centres were fortunate. Five people lost their lives during a rescue operation off Braddell Road on 17 December. At around 2 am, amidst a downpour, the police were evacuating a family of seven – two grandparents, their daughter and four grandchildren – by sampan when the vessel was caught in a strong current and drifted close to the Braddell Bridge over the swirling Whampoa River. The boat struck a submerged sewage pipeline near the bridge, capsizing and throwing all the occupants into the water, which had risen to around 5 ft (1.5 m). Five family members lost their lives: the grandmother, her daughter and three grandchildren; the grandfather and his 6-year-old grandson survived. Clinging onto the overturned boat, the grandfather said he “could hear shouts for help from his wife and daughter but could do nothing to help them”. The capsized sampan, one of 22 deployed by the police, was never recovered, underscoring the dangerous conditions that night.[^17]
 
@@ -80,6 +76,10 @@ The floods of 1954 had hit the low-lying, coastal Bedok resettlement area partic
 <div> Large parts of Bedok being submerged, 9 December 1954. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 After the first round of flooding in December, Legislative Councillor Elizabeth Choy toured the area, and told the press: “They \[the farmers\] obliged the government by moving from the Paya Lebar area, and it is our duty to see that they do not suffer.” The _Straits Times_ argued that the government had “a moral obligation” to provide “better drainage and other flood prevention measures at Bedok” and a “special responsibility” towards those who relocated from Paya Lebar.[^20]
+
+
+![](/images/Vol%2021%20Issue%201/Floods/floods_dykes.jpg)
+<div> Workers building dykes during the Bedok flood, 9 December 1954. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Even after the floodwaters receded, their problems did not. Shops that had previously extended credit for vegetable seeds and fodder now insisted on cash payments. Pleading for assistance, the farmers sought immediate cash loans from the government to help them start anew. By 20 December, the SWD had disbursed $29,760 in relief payments to 289 families.[^21]
 
