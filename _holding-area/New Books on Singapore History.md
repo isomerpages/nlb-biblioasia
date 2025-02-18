@@ -4,12 +4,12 @@ permalink: /new-books-on-singapore-history/
 variant: markdown
 description: ""
 ---
-#### **[Bali 1952: Through the Lens of Liu Kang: The Trip to Java and Bali by Four Singapore Pioneering Artists]()**
+#### **[Bali 1952: Through the Lens of Liu Kang: The Trip to Java and Bali by Four Singapore Pioneering Artists](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300094843)**
 By Gretchen Liu
 
 National Library Board Singapore (2025), 298 pages
 <br>
-Call no. RSING xxxx  
+Call no. RSING&nbsp;779.995986 LIU
 
 ![](/images/Vol%2021%20Issue%201/New%20Books/books_bali.jpg)
 
@@ -17,7 +17,7 @@ Call no. RSING xxxx
 In 1952, four Singapore artists – Liu Kang, Chen Chong Swee, Chen Wen Hsi and Cheong Soo Pieng – visited Java and Bali to seek inspiration. Their trip led to an exhibition held the next year that has been hailed as a major milestone in Singapore’s art history. Despite this, few details of the trip were ever revealed. _Bali 1952_ showcases more than 250 black-and-white photographs taken by Liu Kang during the seven-week adventure. These photographs, most of which have never been seen, tell the story of a remarkable journey that has left a lasting legacy on Singapore’s art history.
 
 
-#### **[By Generations, for Generations: Fifty Years of Temasek as Told by the People Who Shaped It]()**
+#### **[By Generations, for Generations: Fifty Years of Temasek as Told by the People Who Shaped It](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300095099)**
 By Ong Soh Chin
 
 Temasek Holdings (Private) Limited (2024), 307 pages
@@ -31,7 +31,7 @@ Published to commemorate the 50th anniversary of Temasek Holdings, _By Generatio
 
 
 
-#### **[Early Southeast Asia: From First Humans to First Civilizations]()**
+#### **[Early Southeast Asia: From First Humans to First Civilizations](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300090179)**
 By  Charles Higham
 
 NUS Press (2025), 376 pages
@@ -45,7 +45,7 @@ Recent discoveries and improved investigative techniques reveal that the first m
 
 
 
-#### **[My Journey of Peace to Estonia, Latvia, Lithuania and Russia]()**
+#### **[My Journey of Peace to Estonia, Latvia, Lithuania and Russia](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300081111)**
 By Tommy Koh
 
 World Scientific Publishing Co. Pte. Ltd. (2025), 75 pages
@@ -60,7 +60,7 @@ The unexpected end of the Cold War in 1991 dissolved the Soviet Union into 15 fr
 
 
 
-#### **[The Politics of the Malayan Communist Party from 1930 to 1948]()**
+#### **[The Politics of the Malayan Communist Party from 1930 to 1948](https://eservice.nlb.gov.sg/redir/itemdetails?bid=206135139)**
 By David Lockwood
 
 NUS Press (2024), 192 pages
@@ -74,7 +74,7 @@ Established in 1930, the Malayan Communist Party (MCP) grew to become one of the
 
 
 
-#### **[The Story of Southeast Asia]()**
+#### **[The Story of Southeast Asia](https://eservice.nlb.gov.sg/redir/itemdetails?bid=206068687)**
 By Eric C. Thompson
 
 NUS Press (2024), 305 pages
