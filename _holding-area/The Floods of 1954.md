@@ -125,6 +125,11 @@ According to the Urban Redevelopment Authority, “Long Island” would involve 
 
 Under this plan, land will be reclaimed to a higher level and form a continuous line of defence for protection against rising sea levels, with 12 outlet drains along the coast draining water into a new reservoir with two centralised tidal gates and pumping stations. It will be similar to Marina Barrage and will keep out seawater during high tides and discharge stormwater into the sea during heavy rainfall.&nbsp;
 
+![](/images/Vol%2021%20Issue%201/Floods/floods_map.jpg)
+<div> “Long Island” involves reclaiming land to a higher level to form a continuous
+line of defence for protection against rising sea levels. <i>Courtesy of the Urban
+Redevelopment Authority of Singapore.</i></div>
+
 This integrated solution aims to protect Singapore’s coastlines, prevent flooding, increase water resilience, create land for future development and offer recreational opportunities for the East Coast. In November 2023, Minister for National Development and Minister-in-charge of Social Services Integration Desmond Lee announced that agencies would begin public engagement and technical studies for “Long Island”.[^38]
 
 
