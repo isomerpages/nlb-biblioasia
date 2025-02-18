@@ -52,6 +52,9 @@ Among those affected was 74-year-old Low Yoke, who had been rescued from drownin
 
 A little over a month later, the heavens opened on 8 December and, once again, the Bedok resettlement village bore the brunt of the damage. Farmers in the area were estimated to have suffered losses to crops and poultry amounting to $750,000. Goh Seng Kin, a father of five, said he “lost 120 pigs, 2,000 chickens and 1,500 ducks, estimated at $6,000”. Ho Boon Chiang, who owned the largest plot of land in Bedok, reported $4,800 in damages to vegetables, pigs, poultry and fodder.[^12] The Social Work Department (SWD) subsequently made relief payments totalling $27,240 to 493 families at $10 per person.[^13]
 
+![](/images/Vol%2021%20Issue%201/Floods/floods_subside.jpg)
+<div> A family in Bedok waiting for the floodwaters to subside on 9 December 1954. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 Unfortunately, another major storm swept through Singapore about a week later. It began raining at 5 am on 16 December and by mid-morning, the rivers had swelled. By midday, kampongs were waterlogged, and eventually Potong Pasir, Bedok and Braddell Road – areas most affected the previous week – were flooded yet again. At Braddell Road kampong, near the swollen Kallang River, hundreds of villagers were evacuated by sampans.[^14]
 
 Once again, the villagers of Bedok were not spared. The floodwaters breached the bund in Bedok resettlement village at 3 pm and despite PWD teams stacking sandbags and reinforcing the bund with poles, water surged through the gaps. Personnel from the Police Reserve Unit deployed five sampans and two rubber boats to help villagers remove their belongings. By 6 pm, however, water levels had risen to 4 ft (1.2 m), and over 250 villagers sought shelter at Bedok Boys’ and Girls’ School, where the SWD provided hot meals.[^15]
@@ -82,6 +85,9 @@ After the first round of flooding in December, Legislative Councillor Elizabeth 
 <div> Workers building dykes during the Bedok flood, 9 December 1954. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Even after the floodwaters receded, their problems did not. Shops that had previously extended credit for vegetable seeds and fodder now insisted on cash payments. Pleading for assistance, the farmers sought immediate cash loans from the government to help them start anew. By 20 December, the SWD had disbursed $29,760 in relief payments to 289 families.[^21]
+
+![](/images/Vol%2021%20Issue%201/Floods/floods_victims.jpg)
+<div> Flood victims queuing for rations at St Andrew's School, 26 December 1954. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Relief Efforts**
 
