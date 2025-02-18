@@ -62,10 +62,10 @@ Once again, the villagers of Bedok were not spared. The floodwaters breached the
 ![](/images/Vol%2021%20Issue%201/Floods/floods_family.jpg)
 <div> A family inside their flooded home in Bedok, 9 December 1954. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
+By nightfall, thousands of flood victims had been housed in various relief centres across Singapore, where they were provided with hot meals, beverages and clothing. Nicoll visited St Andrew’s School, which had been converted into a mass dormitory. Upon learning that only one float and a few sampans were available for rescue operations in Potong Pasir, he made a radio call instructing the Royal Air Force to despatch evacuation boats.[^16]
+
 ![](/images/Vol%2021%20Issue%201/Floods/floods_meals.jpg)
 <div> Children receiving meals at St Andrew's School, 17 December 1954, which served as a flood relief centre. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
-
-By nightfall, thousands of flood victims had been housed in various relief centres across Singapore, where they were provided with hot meals, beverages and clothing. Nicoll visited St Andrew’s School, which had been converted into a mass dormitory. Upon learning that only one float and a few sampans were available for rescue operations in Potong Pasir, he made a radio call instructing the Royal Air Force to despatch evacuation boats.[^16]
 
 In some ways, the people sheltering in the relief centres were fortunate. Five people lost their lives during a rescue operation off Braddell Road on 17 December. At around 2 am, amidst a downpour, the police were evacuating a family of seven – two grandparents, their daughter and four grandchildren – by sampan when the vessel was caught in a strong current and drifted close to the Braddell Bridge over the swirling Whampoa River. The boat struck a submerged sewage pipeline near the bridge, capsizing and throwing all the occupants into the water, which had risen to around 5 ft (1.5 m). Five family members lost their lives: the grandmother, her daughter and three grandchildren; the grandfather and his 6-year-old grandson survived. Clinging onto the overturned boat, the grandfather said he “could hear shouts for help from his wife and daughter but could do nothing to help them”. The capsized sampan, one of 22 deployed by the police, was never recovered, underscoring the dangerous conditions that night.[^17]
 
