@@ -30,14 +30,14 @@ Following the catastrophic floods of 1954, the government began to take a more h
 
 On 23 October, a violent three-hour rainstorm lashed Singapore. By 10 am, floodwaters, worsened by the rising tide, had exceeded 4 ft (1.2 m), prompting evacuations from vulnerable locations. The Meteorological Department recorded 4.22 in (107.19 mm) of rainfall between 6.30 am and 9.30 am, with 3.41 in (86.61 mm) falling in the first hour alone.[^7]
 
+![](/images/Vol%2021%20Issue%201/Floods/floods_article.jpg)
+<div> A violent three-hour rainstorm on 23 October 1954 wreaked havoc across Singapore, causing flooding in many areas and making scores of people homeless. <i>Source: The Straits Times, 24 October 1954 © SPH Media Limited. Permission required for reproduction.</i></div>
+
 As water levels rose, hundreds of motorists were stranded along Bukit Timah, Thomson, Balmoral, Balestier, Newton, Orchard and Changi roads. The flooding along Bukit Timah Road was so severe that traffic between Singapore and Johor had to be rerouted, leaving many government officials residing in Singapore unable to commute to Johor for work. Motorists were also forced to abandon their flooded cars in the middle of the road and wade home.&nbsp;
 
 Houses and huts on low-lying areas along Bukit Timah and Dunearn roads were submerged in more than 4 ft of water. One farmer living off Dunearn Road lost all his belongings, save for a few ducks, when the water reached the roof of his house. The police responded swifty to manage traffic jams and help stranded motorists.[^8]
 
 The October floods also affected 400 homes housing some 3,000 people in the Bedok resettlement village. The area was inundated when the surrounding mud dyke was breached in two places, with one gap spanning 20 ft (6 m). Acting Commissioner of Lands S.G. Burlock later explained that the dykes were not high enough to prevent water from overflowing from the Bedok Road catchment valley. The _Straits Budget_ estimated damages at $250,000 to livestock and food items in the Bedok resettlement village.[^9]
-
-![](/images/Vol%2021%20Issue%201/Floods/floods_article.jpg)
-<div> A violent three-hour rainstorm on 23 October 1954 wreaked havoc across Singapore, causing flooding in many areas and making scores of people homeless. <i>Source: The Straits Times, 24 October 1954 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 
 ![](/images/Vol%2021%20Issue%201/Floods/floods_dykes.jpg)
