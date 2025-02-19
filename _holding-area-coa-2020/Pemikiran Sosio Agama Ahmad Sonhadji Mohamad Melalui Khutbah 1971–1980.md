@@ -734,3 +734,42 @@ of Singapore Islamic Scholars Association (PERGAS). He was the head of Darul Qur
 Singapura for more than a decade. His research interests include the history of Quran
 manuscripts, the development of Quran interpretations in Singapore, and thoughts of
 local religious scholars in the socio-religious context.</div>
+
+#### **BIBLIOGRAFI**
+       
+
+Azhar Ibrahim. “Resisting Cultural Amnesia: Malay Literature of Dignified Presence.” In [_Majulah! 50 Years of Malay/Muslim Community in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202511186). Edited by Zainul Abideen Rashid and Norshahril Saat. Singapore: World Scientific, 2016, 465–77. (From National Library Singapore, call no. RSING 305.697095957 MAJ)
+
+_Berita Harian_. “[Kempen Basmi Salahguna Dadah Pada Pelajar-Pelajar Diperhebat](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19740919-1.2.24.3)” \[The campaign to eradicate drug abuse among students is intensified\]. 19 September 1974, 5. (From NewspaperSG)
+
+—. Mohd Guntor Sadali, “[Jenayah: Penyakit Masyarakat Yang Ubatnya Dianggap Masih Belum Memberikan Kesan](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19750530-1.2.27.2)” \[Crime: A disease of society for which the supposed cure has yet to produce an effect\]. 30 May 1975, 8. (From NewspaperSG)
+
+—. “[11 Wanita Antara 177 Yg Ditahan Kerana Dadah](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19750929-1.2.13)” \[11 women among the 177 arrested for drugs\]. 29 September 1975, 1. (From NewspaperSG)
+
+—. “[Pabila Dadah Menyerang](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19751213-1.2.2.3)” \[When drugs attack\]. 13 December 1975, 1. (From NewspaperSG)
+
+—. “[Usaha-Usaha Membasmi Penagihan Dadah](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19760313-1.2.2.1)” \[Efforts to eradicate drug addiction\], 13 March 1976, 1. (From NewspaperSG)
+
+—. [Lebih 4,000 Penagih Dadah Diberkas](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19770123-1.2.19)” \[More than 4,000 drug addicts were arrested\]. 23 January 1977, 2. (From NewspaperSG)
+
+—. Mohd Maidin, “[Orang Yang Bongkar Kes Pecah Amanah Terbesar](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19790114-1.2.9)” \[The person who uncovered the biggest breach of trust case\]. 14 January 1979, 1. (From NewspaperSG)
+
+—. &nbsp;[Masalah Dadah](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19780204-1.2.21)” \[Drug problem\], _Berita Harian_, 4 February 1978, 2; “Ceramah kesan dadah.” 24 March 1980, 3. (From NewspaperSG)
+
+—. “[Jenayah ‘Kolar Putih’ Kian Meningkat Di Sini](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19801206-1.2.52)” \[White collar crime is on the rise here\]. 6 December 1980, 8. (From NewspaperSG)
+
+Debbie Eng Bee Tan Porter. _The Status of Women in a Transitional Society: Male-Female Differentials in Education, Occupation and Earnings in Singapore_.Canada: University of New Brunswick, 1997.
+
+Khoo, Chian Kim. [_Census of Population 1980 Singapore, Release No. 1. Advance Release of Basic Demographic and Geographic Data_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4181629). Singapore: Department of Statistics, 1981. (From National Library Singapore, call no. RCLOS 312.095957 CEN)
+
+—. [_Census of Population 1980 Singapore, Release No. 7. Income and Transport_](https://catalogue.nlb.gov.sg/search/card?recordId=200090592). Singapore: Department of Statistics. (From PublicationSG)  
+  
+—. [_Census of Population 1980, Singapore. Release no. 9, Religion and Fertility_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4181792). Singapore: Department of Statistics, 1981. (From National Library Singapore, call no. RCLOS 312.095957 CEN)
+
+M. Qusairy Thaha, [_Pemikiran Sosio-Agama Ahmad Sonhadji Mohamad Melalui Koleksi Khutbah (1971–1980)_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205765699) \[Ahmad Sonhadji Mohamad's socio-religious thought through a collection of sermons (1971–1980)\]. Singapore: Persatuan Ulama dan Guru-Guru Islam Singapura (PERGAS), 2021. (From National Library Singapore, call no. R 297.3705957 MOH)
+
+Norman Suratman, [_Menyongsong Arus: Biodata Ahmad Sonhadji Mohamad_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8757530) \[Facing the tide: Biography of Ahmad Sonhadji Mohamad\]. Singapura: Pustaka ASB Mohamad, 1997. (From National Library Singapore, call no. Malay RSING 922.97 NOR)
+
+Zulkifli Haji Mohd Yusoff. [_A Study of Tafsir ’Abr Al-Athir and Sonhadji’s Methodology in Tafsir Al-Quran_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12923770)_._ Singapura: Ahmad Sonhadji, 2002. (From National Library Singapore, call no. RCLOS 297.122601 ZUL-\[UAS\])
+
+&gt;
