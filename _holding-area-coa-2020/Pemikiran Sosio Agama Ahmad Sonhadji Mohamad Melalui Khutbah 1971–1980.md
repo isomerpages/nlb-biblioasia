@@ -121,8 +121,7 @@ sehingga tarikh kematiannya.
 1927:    Berhijrah bersama keluarga ke Singapura<br>
 1930–36:   Mendapat pendidikan awal sekolah rakyat hingga kelas lima di Rengat,<br>          Inderagiri<br>
 1937–44:  Melanjutkan pelajaran di Madrasah Al-Junied dari kelas Tahdiri<br>     hingga tahun enam<br>
-1942: Mengasaskan Perguruan Agama Islam Rengat bersama guru
-beliau Hj Marzuki<br>
+1942:   Mengasaskan Perguruan Agama Islam Rengat bersama guru<br>   beliau Hj Marzuki<br>
 1945: Mengajar sebagai guru pelatih di Madrasah Al-Junied<br>
 1945:  Mendirikan rumah tangga bersama Hajah Napsiah Bte Ibrahim<br>
 1945: Mendirikan Madrasah Bustanul Arifin dan Madrasah Al-Diniyah
