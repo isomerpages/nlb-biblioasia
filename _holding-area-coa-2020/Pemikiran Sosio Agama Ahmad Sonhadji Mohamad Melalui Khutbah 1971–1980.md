@@ -165,3 +165,70 @@ Quran Singapura<br>
 2002:    Mendapat pengiktirafan sebagai Imam Masjid Muhajirin selama
 22 tahun pada usia 80 tahun<br>
 2010:    Meninggal dunia pada 12 Ogos 2010 di Singapura
+
+#### **Latar Belakang: Selepas Perpisahan**
+
+Singapura mula berkembang pesat setelah berpisah daripada Malaysia
+pada tahun 1965 dan menghadapi pelbagai cabaran pada tahun-tahun
+pertumbuhannya sehingga menjadi sebuah kota metropolitan. Jumlah
+penduduknya sebanyak 2.07 juta pada tahun 1970 dan meningkat kepada
+2.4 juta penduduk pada tahun 1980. Masyarakat Melayu Singapura
+membentuk jumlah penduduk minoriti terbesar sebanyak 15 peratus
+dengan jumlah 311,379 penduduk pada tahun 1970. Walaupun jumlahnya
+meningkat kepada 351,508 penduduk berbangsa Melayu, tetapi mengikut
+jumlah peratusan ia sedikit berkurang kepada 14.6 peratus pada
+tahun 1980.3
+
+Isu-isu yang dihadapi oleh masyarakat Melayu semenjak era perpisahan
+di antara Singapura dan Malaysia pada tahun 1965 sering mendapat
+perhatian para pengkaji dan ilmuan hingga ke hari ini. Fokus utama yang
+sering mendapat perhatian adalah situasi kehidupan masyarakat Melayu
+berbanding bangsa-bangsa lain, kondisi taraf kehidupan mereka, isu-isu
+yang sering menjadi cabaran mereka disamping pencapaian dalam pelbagai
+bidang yang mereka ceburi sebagai gambaran pencapaian masyarakat
+Melayu Singapura.
+
+Dalam perkembangan masyarakat Melayu Islam Singapura, isu-isu sosial
+dan agama sering kali menarik perhatian para pengkaji. Perbincangan isu
+yang sering berlegar dalam kalangan masyarakat Melayu antaranya adalah
+kekurangan barisan ilmuan, kekurangan barisan kepimpinan, ketinggalan
+dalam tahap pencapaian dalam pendidikan, jurang pendapatan ekonomi
+yang masih besar, peningkatan jumlah pengangguran, peningkatan
+isu rumah tangga seperti penceraian, masalah penagihan dadah dan
+kedudukan masyarakat Melayu dalam perkembangan politik negara.
+
+Perkembangan ini boleh diperolehi berdasarkan dokumentasi yang telah
+dihasilkan oleh ahli akademik, para pemikir mahupun pihak pemerintah
+secara rasmi.
+
+Pemikiran sosio-agama Ahmad Sonhadji boleh dilihat apabila membaca
+karya-karya penulisan beliau. Isu-isu yang dihadapi oleh masyarakat
+Melayu sering dibincangkan antaranya melalui khutbah-khutbah
+beliau yang disampaikan kepada khalayak secara terancang melalui
+kemahiran dan kepintaran beliau mengarang khutbah dengan menyentuh
+permasalahan berkaitan isu-isu sosial yang dilalui oleh masyarakat pada
+masa itu. Ia sekaligus membuktikan keprihatinan beliau terhadap keadaan
+yang berlaku dalam masyarakatnya dan mengambil pendekatan yang sesuai
+dengan membincangkan permasalahan tersebut melalui khutbahnya kepada
+khalayak yang mempunyai latar belakang yang pelbagai.
+
+Selain itu, beliau juga boleh dikategorikan sebagai seorang reformis
+sosial yang bukan sahaja mampu mengenal pasti permasalahan yang
+berlaku dalam masyarakatnya tetapi mampu menjadi agen perubahan.
+Beliau mengemukakan solusi atau jalan keluar kepada permasalahan
+tadi melalui khutbah yang disampaikan sepanjang lebih dua dekad,
+disamping menghasilan karya tafsir di radio dan keterlibatan dalam
+khidmat masyarakat.
+
+Khutbah-khutbah tulisan tangan yang dihasilkan ini sangat berkait
+rapat dengan sejarah perkembangan masyarakat Melayu di Singapura.
+Ada khutbah yang dikarang dengan tujuan untuk menaikkan semangat
+bekerja dalam kalangan masyarakat Melayu. Khutbah yang disampaikan
+ketika berlakunya kegawatan ekonomi pada tahun 1975 bertujuan untuk
+merangsang persaingan dalam meningkatkan tahap ekonomi negara yang
+masih baharu pada masa tersebut. Ada pula isi khutbah yang bertujuan
+mendidik masyarakat tentang kepentingan menjaga hak kaum wanita dan
+kebajikan anak-anak.
+
+
+
