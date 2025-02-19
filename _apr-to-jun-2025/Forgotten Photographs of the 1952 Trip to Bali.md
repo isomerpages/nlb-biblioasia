@@ -16,7 +16,7 @@ Note: This article is adapted from the preface of _Bali 1952: Through the Lens o
 _Bali 1952: Through the Lens of Liu Kang_ chronicles the 1952 sketching adventure to Java and Bali by four artists – Chen Wen Hsi, Chen Chong Swee, Cheong Soo Pieng and Liu Kang. It features a selection of the photographs that Liu Kang took during the seven-week trip, from 8 June to 28 July. Forgotten for decades, they were unearthed in 2016 together with a diary he kept during the first half of the trip and nine letters written home.
 
 ![](/images/Vol%2021%20Issue%201/Forgotten%20Bali/bali_facing.jpg)
-<div>A young Balinese woman waits for customers at her <i>warung</i> (small shop). selling daily necessities and small luxuries. <i>© Liu Kang Family.</i></div>
+<div>A young Balinese woman waits for customers at her <i>warung</i> (small shop), selling daily necessities and small luxuries. <i>© Liu Kang Family.</i></div>
 
 My father-in-law, Liu Kang (1911–2004), was one of a small group of China-born, Shanghai-trained artists who settled in Singapore before and after World War II and animated the nascent art scene with a desire to portray their new homeland in art that showed its tropical character. Like many others who are eventually bitten by the family history bug, I regret that I did not learn more about his early life when he was around to answer questions. I never did ask him about the 1952 trip to Bali. In 2011, I was inspired to begin piecing together the details of his artistic journey when I saw the display of archival materials borrowed from the family for the exhibition _Liu Kang: A Centennial Celebration_, which marked the centenary of his birth and commemorated the donation of over 1,000 artworks to the National Heritage Board.[^1]
 
@@ -66,7 +66,7 @@ It has not been possible to identify the camera used by Cheong Soo Pieng. Accord
 Mention must also be made of the fifth participant in the Bali portion of the field trip. Luo Ming can be seen also carrying a camera in Liu Kang’s photographs. A fellow Shanghai Art Academy alumnus, he began a lengthy journey through Southeast Asia in the late 1940s.[^4] Art school ties were rekindled when he visited Singapore in 1948. After a chance meeting with the artists in a Jakarta cafe, he decided to join their Bali sketching adventure. Luo Ming returned to China in 1954, and the fate of his photographs remains unknown.
 
 ![](/images/Vol%2021%20Issue%201/Forgotten%20Bali/bali_group.jpg)
-<div>A group photograph for remembrance. (From left) Cheong Soo Pieng (kneeling), Yan Zihe, Chen Chong Swee, Luo Ming (kneeling), Liu Wenbang (Liu Kang’s cousin), Liu Kang and Chen Wen Hsi. <i>© Liu Kang Family.</i></div>
+<div>A group photograph for remembrance. (From left) Cheong Soo Pieng (squatting), Yan Zihe, Chen Chong Swee, Luo Ming (squatting), Liu Wenbang (Liu Kang’s cousin), Liu Kang and Chen Wen Hsi. <i>© Liu Kang Family.</i></div>
 
 
 Details of the trip come from several sources. First, Liu Kang’s diary, which was also found in his study and remains with the family. He purchased a steno notebook on his first day in Jakarta and recorded people met, places visited, amusing travel anecdotes and his private thoughts. The last entry is dated 29 June. Then there are the letters penned to wives – 11 extant from Chen Chong Swee to Tay Peck Koon, and nine from Liu Kang to Chen Jen Ping – which were reassuring, affectionate and informative.&nbsp;
@@ -92,7 +92,7 @@ Liu Kang focused his lens on landscape, architecture and scenes of daily life, a
 
 
 <div style="background-color: #fff6ba; padding:15px; margin: 10px; font-size=120%">
-<img src="/images/Vol%2021%20Issue%201/Forgotten%20Bali/bali_book.png" style="width: 60%;"><br>Gretchen Liu’s <i>Bali 1952: Through the Lens of Liu Kang: The Trip to Java and Bali by Four Singapore Pioneering Artists</i> was published in conjunction with the exhibition, <i>Untold Stories: Four Singapore Artists’ Quest for Inspiration in Bali 1952</i>, held at Level 10 of the National Library Building from 14 February to 3 August 2025. The book will be available at the libraries soon. 
+<img src="/images/Vol%2021%20Issue%201/Forgotten%20Bali/bali_book.png" style="width: 60%;"><br>Gretchen Liu’s <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300094843"><i>Bali 1952: Through the Lens of Liu Kang: The Trip to Java and Bali by Four Singapore Pioneering Artists</i></a> was published in conjunction with the exhibition, <i>Untold Stories: Four Singapore Artists’ Quest for Inspiration in Bali 1952</i>, held at Level 10 of the National Library Building from 14 February to 3 August 2025. The book is available for reference at the Lee Kong Chian Reference Library (call no. RSING 779.995986 LIU), for loan at selected public libraries (call no. SING 779.995986 LIU), and for sale at physical and online bookstores.
 </div>
 
 

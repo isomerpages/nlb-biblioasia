@@ -56,7 +56,7 @@ The draft of Liu Kang’s first solo exhibition catalogue includes an introducti
 
 **Photographs of the exhibition, “Bali: Liu Kang, Chen Wen Hsi, Chen Chong Swee, Cheong Soo Pieng” held at the British Council in 1953**
 
-In 1952, Liu Kang, together with Chen Chong Swee, Chen Wen Hsi and Cheong Soo Pieng, went to Java and Bali in search of artistic inspiration. A year later, in November 1953, the four men held a seminal joint exhibition at the British Council. This exhibition has been viewed as a “turning point” for the history of modern art in Singapore. Art historians Jeffrey Say and Seng Yu Jin noted its “new visual language that was distinctly modern in the local context”.[^4] This new visual language refers to the experimentations in artistic styles that would retrospectively be viewed as exemplifying Nanyang art. &nbsp;
+In 1952, Liu Kang, together with Chen Chong Swee, Chen Wen Hsi and Cheong Soo Pieng, went to Java and Bali in search of artistic inspiration. A year later, in November 1953, the four men held a seminal joint exhibition at the British Council in Singapore. This exhibition has been viewed as a “turning point” for the history of modern art in Singapore. Art historians Jeffrey Say and Seng Yu Jin noted its “new visual language that was distinctly modern in the local context”.[^4] This new visual language refers to the experimentations in artistic styles that would retrospectively be viewed as exemplifying Nanyang art. &nbsp;
 
 ![](/images/Vol%2021%20Issue%201/Liu%20Kang/liukang_exhibition1953b.jpg)
 <div>(From left) Mrs Loke Wan Tho, Indonesian Consul-General Mohamed Razif, Carl Alexander Gibson-Hill and Liu Kang at Liu Kang’s exhibition held at the British Council, 1953. <i>Liu Kang Collection, National Library Singapore.</i></div>
@@ -151,7 +151,9 @@ In 1993, the Raffles Hotel commissioned Liu Kang to create a collection of paste
  Members of the public who wish to access the materials can enquire at Level 11 of the Lee Kong Chian Reference Library or visit 
 	<a href="https://reference.nlb.gov.sg/getting-started/accessing-reference-items/">https://reference.nlb.gov.sg/getting-started/accessing-reference-items/</a>. <br><br>
 	
-An exhibition titled&nbsp;<i>Untold Stories: Four Singapore Artists’ Quest for Inspiration in Bali 1952</i> is held at Level 10 of the National Library Building from 14 February to 3 August 2025. It features a selection of the photographs that Liu Kang took on his trip to Bali with Chen Wen Hsi, Chen Chong Swee and Cheong Soo Pieng.</div>
+An exhibition titled&nbsp;<i>Untold Stories: Four Singapore Artists’ Quest for Inspiration in Bali 1952</i> is held at Level 10 of the National Library Building from 14 February to 3 August 2025. It features a selection of the photographs that Liu Kang took on his trip to Bali with Chen Wen Hsi, Chen Chong Swee and Cheong Soo Pieng.<br><br>
+
+Gretchen Liu’s <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300094843">_Bali 1952: Through the Lens of Liu Kang: The Trip to Java and Bali by Four Singapore Pioneering Artists_</a>&nbsp;was published in conjunction with the exhibition. The book is available for reference at the Lee Kong Chian Reference Library (call no. RSING 779.995986 LIU), for loan at selected public libraries (call no. SING 779.995986 LIU), and for sale at physical and online bookstores.</div>
 		
 
 <div style="background-color: white;">
