@@ -122,11 +122,11 @@ sehingga tarikh kematiannya.
 1930–36:	  Mendapat pendidikan awal sekolah rakyat hingga            kelas lima di
                     Rengat, Inderagiri<br>
 1937–44:	Melanjutkan pelajaran di Madrasah Al-Junied dari kelas Tahdiri
-                hingga tahun enam
+                hingga tahun enam<br>
 1942:	        Mengasaskan Perguruan Agama Islam Rengat bersama guru
-                beliau Hj Marzuki
-1945:	        Mengajar sebagai guru pelatih di Madrasah Al-Junied
-1945:	        Mendirikan rumah tangga bersama Hajah Napsiah Bte Ibrahim
+                beliau Hj Marzuki<br>
+1945:	        Mengajar sebagai guru pelatih di Madrasah Al-Junied<br>
+1945:	        Mendirikan rumah tangga bersama Hajah Napsiah Bte Ibrahim<br>
 	
 
 
