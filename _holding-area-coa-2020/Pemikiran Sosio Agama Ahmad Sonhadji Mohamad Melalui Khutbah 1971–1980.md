@@ -143,7 +143,7 @@ kurikulum dan menghasilkan 10 buku teks<br>
 1959–84:  Membuat kajian dan penulisan *Tafsir al-Quran di Radio (Tafsir
 ‘Abr al-Athir)*<br>
 1960–62:  Menjadi ahli Jawatankuasa Penasihat Islam, Kementerian Hal
-Ehwal<br>       Masyarakat Singapura<br>
+Ehwal<br>     Masyarakat Singapura<br>
 1966–70:  Berkhidmat sebagai ketua guru di Sekolah Menengah Arab
 Hasanal Bolkiah di Brunei<br>
 1970–80:  Menghasilkan lebih 100 Karya Khutbah Jumaat mengikut tema<br>
