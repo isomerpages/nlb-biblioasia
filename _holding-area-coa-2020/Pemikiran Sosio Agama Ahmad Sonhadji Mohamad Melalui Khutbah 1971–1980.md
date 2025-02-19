@@ -117,6 +117,12 @@ sehingga tarikh kematiannya.
 
 #### **Kronologi Sejarah kehidupan Ahmad Sonhadji**
 
+1922:         	Lahir di Surakarta Jawa Tengah Indonesia<br>
+1927:           Berhijrah bersama keluarga ke Singapura<br>
+1930–36:	  Mendapat pendidikan awal sekolah rakyat hingga            kelas lima di
+                    Rengat, Inderagiri<br>
+
+
 1922: Lahir di Surakarta Jawa Tengah Indonesia<br>
 1927: Berhijrah bersama keluarga ke Singapura<br>
 1930–36: Mendapat pendidikan awal sekolah rakyat hingga kelas lima di Rengat, Inderagiri<br>
@@ -725,5 +731,3 @@ of Singapore Islamic Scholars Association (PERGAS). He was the head of Darul Qur
 Singapura for more than a decade. His research interests include the history of Quran
 manuscripts, the development of Quran interpretations in Singapore, and thoughts of
 local religious scholars in the socio-religious context.</div>
-
-
