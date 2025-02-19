@@ -145,6 +145,29 @@ sehingga tarikh kematiannya.
                 Ehwal Masyarakat Singapura<br>
 1966–70:        Berkhidmat sebagai ketua guru di Sekolah Menengah Arab
                 Hasanal Bolkiah di Brunei	<br>
+1970–80:        Menghasilkan lebih 100 Karya Khutbah Jumaat mengikut tema<br>
+1973–80:        Menjadi Mudir Madrasah Al-Junied dan mengasilkan tujuh buah
+                Buku Teks<br>
+1974–86:        Menganggotai ahli Lembaga Rayuan MUIS<br>
+1974–92:        Menjadi ahli Jawatankuasa Fatwa MUIS<br>
+1980–92:        Menjadi ahli Majlis Tertinggi MUIS<br>
+1980:           Menjadi Imam dan Khatib tetap Masjid Muhajirin<br>
+1983:           Mencetak karya Kaedah Tafsir Al-Quran yang dihasilkan pada
+                tahun 1970-an<br>        
+1988:           Mendapat Pingat Bakti Masyarakat
+1991:           Menjadi ahli penasihat MUIS<br>
+1991:           Selesai mencetak Tafsir Abr al-Athir edisi lengkap setelah berkarya
+                selama lebih 25 tahun<br>
+1992:           Pengerusi Madrasah Irsyad dan Pengerusi Lembaga Pendidikan
+                Quran Singapura<br>
+1992:           Mendapat Anugerah Jasa Cemerlang dari MUIS<br>	
+1995:           Menubuhkan sebuah Rumah Wakaf di Johor Bahru<br>
+2002:           Mendapat pengiktirafan sebagai Imam Masjid Muhajirin selama
+                22 tahun pada usia 80 tahun<br>
+2010:           Meninggal dunia pada 12 Ogos 2010 di Singapura
+
+
+
 
 
 1922: Lahir di Surakarta Jawa Tengah Indonesia<br>
