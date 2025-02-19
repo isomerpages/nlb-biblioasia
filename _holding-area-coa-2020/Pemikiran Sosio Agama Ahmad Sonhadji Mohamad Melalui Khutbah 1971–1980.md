@@ -119,8 +119,8 @@ sehingga tarikh kematiannya.
 
 1922:   Lahir di Surakarta Jawa Tengah Indonesia<br>
 1927:    Berhijrah bersama keluarga ke Singapura<br>
-1930–36:  Mendapat pendidikan awal sekolah rakyat hingga kelas lima di Rengat,<br>         Inderagiri<br>
-1937–44:  Melanjutkan pelajaran di Madrasah Al-Junied dari kelas Tahdiri<br>      hingga tahun enam<br>
+1930–36:   Mendapat pendidikan awal sekolah rakyat hingga kelas lima di Rengat,<br>          Inderagiri<br>
+1937–44:  Melanjutkan pelajaran di Madrasah Al-Junied dari kelas Tahdiri<br>     hingga tahun enam<br>
 1942: Mengasaskan Perguruan Agama Islam Rengat bersama guru
 beliau Hj Marzuki<br>
 1945: Mengajar sebagai guru pelatih di Madrasah Al-Junied<br>
