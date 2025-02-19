@@ -775,40 +775,40 @@ Zulkifli Haji Mohd Yusoff. [_A Study of Tafsir ’Abr Al-Athir and Sonhadji’s 
 #### **NOTES**
       
 
-1 M. Qusairy Thaha, [_Pemikiran Sosio-Agama Ahmad Sonhadji Mohamad Melalui Koleksi Khutbah (1971–1980)_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205765699) \[Ahmad Sonhadji Mohamad's socio-religious thought through a collection of sermons (1971–1980)\] (Singapore: Persatuan Ulama dan Guru-Guru Islam Singapura (PERGAS), 2021). (From National Library Singapore, call no. R 297.3705957 MOH)
+[^1]: M. Qusairy Thaha, [_Pemikiran Sosio-Agama Ahmad Sonhadji Mohamad Melalui Koleksi Khutbah (1971–1980)_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205765699) \[Ahmad Sonhadji Mohamad's socio-religious thought through a collection of sermons (1971–1980)\] (Singapore: Persatuan Ulama dan Guru-Guru Islam Singapura (PERGAS), 2021). (From National Library Singapore, call no. R 297.3705957 MOH)
 
-2 Norman Suratman, [_Menyongsong Arus: Biodata Ahmad Sonhadji Mohamad_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8757530) \[Facing the tide: Biography of Ahmad Sonhadji Mohamad\] (Singapura: Pustaka ASB Mohamad, 1997) (From National Library Singapore, call no. Malay RSING 922.97 NOR); Zulkifli Haji Mohd Yusoff, [_A Study of Tafsir ’Abr Al-Athir and Sonhadji’s Methodology in Tafsir Al-Quran_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12923770) (Singapura: Ahmad Sonhadji, 2002). (From National Library Singapore, call no. RCLOS 297.122601 ZUL-\[UAS\])
+[^2]:  Norman Suratman, [_Menyongsong Arus: Biodata Ahmad Sonhadji Mohamad_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8757530) \[Facing the tide: Biography of Ahmad Sonhadji Mohamad\] (Singapura: Pustaka ASB Mohamad, 1997) (From National Library Singapore, call no. Malay RSING 922.97 NOR); Zulkifli Haji Mohd Yusoff, [_A Study of Tafsir ’Abr Al-Athir and Sonhadji’s Methodology in Tafsir Al-Quran_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12923770) (Singapura: Ahmad Sonhadji, 2002). (From National Library Singapore, call no. RCLOS 297.122601 ZUL-\[UAS\])
 
-3 Khoo Chian Kim, [_Census of Population 1980 Singapore, Release No. 1. Advance Release of Basic Demographic and Geographic Data_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4181629) (Singapore: Department of Statistics, 1981), 2. (From National Library Singapore, call no. RCLOS 312.095957 CEN)
+[^3]: Khoo Chian Kim, [_Census of Population 1980 Singapore, Release No. 1. Advance Release of Basic Demographic and Geographic Data_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4181629) (Singapore: Department of Statistics, 1981), 2. (From National Library Singapore, call no. RCLOS 312.095957 CEN)
 
-4 Khoo Chian Kim, [_Census of Population 1980 Singapore, Release No. 7. Income and Transport_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200090592) (Singapore: Department of Statistics, 1981), 119. (From PublicationSG)  
+[^4]: Khoo Chian Kim, [_Census of Population 1980 Singapore, Release No. 7. Income and Transport_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200090592) (Singapore: Department of Statistics, 1981), 119. (From PublicationSG)  
   
-5 Debbie Eng Bee Tan Porter, _The Status of Women in a Transitional Society: Male-Female Differentials in Education, Occupation and Earnings in Singapore_ (Canada: University of New Brunswick, 1997)  
+[^5]: Debbie Eng Bee Tan Porter, _The Status of Women in a Transitional Society: Male-Female Differentials in Education, Occupation and Earnings in Singapore_ (Canada: University of New Brunswick, 1997)  
   
-6 Khoo, [_Basic Demographic and Geographic Data_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4181629), 2.
+[^6]: Khoo, [_Basic Demographic and Geographic Data_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4181629), 2.
 
-7 Khoo Chian Kim, [_Census of Population 1980, Singapore. Release no. 9, Religion and Fertility_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4181792) (Singapore: Department of Statistics, 1981), 121–23. (From National Library Singapore, call no. RCLOS 312.095957 CEN)
+[^7]: Khoo Chian Kim, [_Census of Population 1980, Singapore. Release no. 9, Religion and Fertility_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4181792) (Singapore: Department of Statistics, 1981), 121–23. (From National Library Singapore, call no. RCLOS 312.095957 CEN)
 
-8 Khoo Chian Kim, [_Census of Population 1980, Singapore. Release no. 4, Economic Characteristics_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4181626) (Singapore: Department of Statistics, 1981), 293–95. (From National Library Singapore, call no. RCLOS 312.095957 CEN)
+[^8]: Khoo Chian Kim, [_Census of Population 1980, Singapore. Release no. 4, Economic Characteristics_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4181626) (Singapore: Department of Statistics, 1981), 293–95. (From National Library Singapore, call no. RCLOS 312.095957 CEN)
 
-9 Khoo, [_Basic Demographic and Geographic Data_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4181629), 2.
+[^9]: Khoo, [_Basic Demographic and Geographic Data_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4181629), 2.
 
-10 Azhar Ibrahim, “Resisting Cultural Amnesia: Malay Literature of Dignified Presence,” in [_Majulah! 50 Years of Malay/Muslim Community in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202511186), ed. Zainul Abideen Rashid and Norshahril Saat (Singapore: World Scientific, 2016), 466. (From National Library Singapore, call no. RSING 305.697095957 MAJ)
+[^10]: Azhar Ibrahim, “Resisting Cultural Amnesia: Malay Literature of Dignified Presence,” in [_Majulah! 50 Years of Malay/Muslim Community in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202511186), ed. Zainul Abideen Rashid and Norshahril Saat (Singapore: World Scientific, 2016), 466. (From National Library Singapore, call no. RSING 305.697095957 MAJ)
 
-11 “[Kempen Basmi Salahguna Dadah Pada Pelajar-Pelajar Diperhebat](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19740919-1.2.24.3)” \[The campaign to eradicate drug abuse among students is intensified\], _Berita Harian_, 19 September 1974, 5. (From NewspaperSG)
+[^11]: “[Kempen Basmi Salahguna Dadah Pada Pelajar-Pelajar Diperhebat](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19740919-1.2.24.3)” \[The campaign to eradicate drug abuse among students is intensified\], _Berita Harian_, 19 September 1974, 5. (From NewspaperSG)
 
-12 “[Pabila Dadah Menyerang](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19751213-1.2.2.3)” \[When drugs attack\], _Berita Harian_, 13 December 1975, 1. (From NewspaperSG)
+[^12]: “[Pabila Dadah Menyerang](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19751213-1.2.2.3)” \[When drugs attack\], _Berita Harian_, 13 December 1975, 1. (From NewspaperSG)
 
-13 “[Usaha-Usaha Membasmi Penagihan Dadah](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19760313-1.2.2.1)” \[Efforts to eradicate drug addiction \],&nbsp; _Berita Harian_, 13 March 1976, 1. (From NewspaperSG)
+[^13]: “[Usaha-Usaha Membasmi Penagihan Dadah](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19760313-1.2.2.1)” \[Efforts to eradicate drug addiction \],&nbsp; _Berita Harian_, 13 March 1976, 1. (From NewspaperSG)
 
-14 “[Lebih 4,000 Penagih Dadah Diberkas](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19770123-1.2.19)” \[More than 4,000 drug addicts were arrested\] _Berita Harian_, 23 January 1977, 2. (From NewspaperSG)
+[^14]: “[Lebih 4,000 Penagih Dadah Diberkas](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19770123-1.2.19)” \[More than 4,000 drug addicts were arrested\] _Berita Harian_, 23 January 1977, 2. (From NewspaperSG)
 
-15 “[Masalah Dadah](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19780204-1.2.21)” \[Drug problem\], _Berita Harian_, 4 February 1978, 2; “Ceramah Kesan Dadah,” _Berita Harian_, 24 March 1980, 3. (From NewspaperSG)
+[^15]: "[Masalah Dadah](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19780204-1.2.21)” \[Drug problem\], _Berita Harian_, 4 February 1978, 2; “Ceramah Kesan Dadah,” _Berita Harian_, 24 March 1980, 3. (From NewspaperSG)
 
-16 “[11 Wanita Antara 177 Yg Ditahan Kerana Dadah](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19750929-1.2.13)” \[11 women among the 177 arrested for drugs\], _Berita Harian_, 29 September 1975, 1. (From NewspaperSG)
+[^16]: “[11 Wanita Antara 177 Yg Ditahan Kerana Dadah](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19750929-1.2.13)” \[11 women among the 177 arrested for drugs\], _Berita Harian_, 29 September 1975, 1. (From NewspaperSG)
 
-17 Mohd Guntor Sadali, “[Jenayah: Penyakit Masyarakat Yang Ubatnya Dianggap Masih Belum Memberikan Kesan](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19750530-1.2.27.2)” \[Crime: A disease of society for which the supposed cure has yet to produce an effect\], _Berita Harian_, 30 May 1975, 8. (From NewspaperSG)
+[^17]: Mohd Guntor Sadali, “[Jenayah: Penyakit Masyarakat Yang Ubatnya Dianggap Masih Belum Memberikan Kesan](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19750530-1.2.27.2)” \[Crime: A disease of society for which the supposed cure has yet to produce an effect\], _Berita Harian_, 30 May 1975, 8. (From NewspaperSG)
 
-18 Mohd Maidin, “[Orang Yang Bongkar Kes Pecah Amanah Terbesar](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19790114-1.2.9)” \[The person who uncovered the biggest breach of trust case\], _Berita Harian_, 14 January 1979, 1. (From NewspaperSG)
+[^18]: Mohd Maidin, “[Orang Yang Bongkar Kes Pecah Amanah Terbesar](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19790114-1.2.9)” \[The person who uncovered the biggest breach of trust case\], _Berita Harian_, 14 January 1979, 1. (From NewspaperSG)
 
-19 “[Jenayah ‘Kolar Putih’ Kian Meningkat Di Sini](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19801206-1.2.52)” \[White collar crime is on the rise here\], _Berita Harian_, 6 December 1980. (From NewspaperSG)
+[^19]: “[Jenayah ‘Kolar Putih’ Kian Meningkat Di Sini](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19801206-1.2.52)” \[White collar crime is on the rise here\], _Berita Harian_, 6 December 1980. (From NewspaperSG)
