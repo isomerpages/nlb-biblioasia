@@ -283,3 +283,56 @@ kebahagian wanita. Jika penceraian tidak diberikan perhatian dan
 dibendung maka banyak keperluan golongan wanita yang tidak dapat
 dipenuhi dan kebajikan anak-anak terjejas, terutamanya jika anak itu masih
 terlalu kecil.
+
+Transliterasi: Si suami bersembahyang dengan sungguh-<br> sungguh
+dan berpuasa dengan teratur, sedangkan isterinya<br> 
+tidak pernah sekali juga melakukannya. Anak laki-laki<br> 
+dihantar dengan sungguh-sungguh ke sekolah dan tempat<br> 
+pengajian tetapi anak perempuan dibiarkan tinggal di rumah<br> 
+tidak diberi didikan yang cukup untuk dirinya di belakang<br> 
+hari. Bukankah anak perempuan itulah nanti apabila telah<br> 
+menjadi seorang ibu, maka dia pulalah sebagai guru yang<br> 
+pertama sekali kepada anaknya. Pendapatnya anak perempuan<br> 
+sama pentingnya dengan anak laki-laki dalam membangun<br> 
+masyarakat, bangsa, serta negara. Malah mempunyai<br> 
+kedudukan yang sama di dalam beramal soleh dan berbakti<br> 
+kerana akan menerima upah dan pahala yang sama pun.
+
+Ahmad Sonhadji menyentuh sikap kurang prihatin sebahagian suami
+terhadap keperluan keagamaan isteri dan sikap sebahagian masyarakat
+melayani anak lelaki melebihi anak perempuan dalam memberikan
+pendidikan dunia dan agama. Ia adalah sesuatu tindakan yang salah dan
+perlu diperbaiki. Ini kerana menurut beliau, darjat kedudukan wanita
+dan lelaki di sisi Allah s.w.t adalah sama. Setiap mereka akan mendapat
+ganjaran dan balasan sesuai dengan amal kebajikan yang mereka kerjakan.
+Menurut beliau lagi, penghormatan al-Quran terhadap wanita adalah tinggi
+kerana peranan penting yang dimainkan oleh mereka terutamanya dalam
+kehidupan para pemimpin dan tokoh-tokoh penting. Nama-nama penting
+seperti Maryam yang merupakan ibu kepada Nabi Isa, Asiah isteri kepada
+Firaun yang menjaga keselamatan Nabi Musa dan Khadijah isteri kepada
+Nabi Muhammad s.a.w. diberikan sebagai contoh. Mereka merupakan
+tokoh-tokoh wanita penting dalam kehidupan para nabi dan menjadi
+tulang belakang kepada usaha dakwah para nabi dengan memberikan
+sokongan penuh tanpa berbelah bagi. Kelembutan dan kehalusan mereka
+tidak dapat ditandingi oleh lelaki. Dengan adanya sifat-sifat ini, menonjol
+tugasan utama seorang wanita iaitu kemampuan mereka memelihara dan
+memastikan kesejahteraan keluarga dan ketaatannya kepada Allah s.w.t
+dan suami.
+
+Transliterasi: Maksudnya, ibu yang telah bersedia untuk<br> 
+menyusukan anaknya, maka janganlah si suami mengambil<br> 
+anaknya pula untuk disusukan kepada perempuan lain kerana<br> 
+yang demikian itu akan menyusahkan ibu tersebut atau<br> 
+janganlah ibu itu dipaksa menyusukan anaknya supaya menjadi<br> 
+kesusahan kepadanya, padahal ia tidak sanggup menyusukannya.<br> 
+Dalam pada itu, menyusukan anak itu tiadalah wajib baginya.<br> 
+Begitu pula ayah anak itu, janganlah dibebankan dengan<br> 
+meletakkan anaknya kepadanya. Pada hal anak itu perlu<br> 
+disusui oleh ibunya, sehingga menyusahkan ke atas dirinya<br> 
+dan diri kanak-kanak itu. Walhasil salah seorang dari kedua<br> 
+ibu dan bapa itu janganlah saling sakit menyakiti dan susah<br> 
+menyusahkan akan anak mereka bahkan hendaklah keduanya<br> 
+bertanggungjawab di atas kehidupannya.
+
+
+
