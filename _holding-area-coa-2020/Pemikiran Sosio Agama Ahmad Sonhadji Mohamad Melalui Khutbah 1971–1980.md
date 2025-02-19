@@ -138,13 +138,12 @@ Qalam Press<br>
 1957:    Mengasaskan PERGAS bersama angota-anggota lain dan menjadi
 setiausaha 
       bahagian pendidikan yang pertama<br>
-1958–60:  Menjadi ahli Jawatankuasa Pendidikan Agama Islam,
-Kementerian Pelajaran Singapura sebagai wakil PERGAS melakar
+1958–60:  Menjadi ahli Jawatankuasa Pendidikan Agama Islam,<br>      Kementerian Pelajaran Singapura sebagai wakil PERGAS melakar<br>      
 kurikulum dan menghasilkan 10 buku teks<br>
 1959–84:  Membuat kajian dan penulisan *Tafsir al-Quran di Radio (Tafsir
 ‘Abr al-Athir)*<br>
 1960–62:  Menjadi ahli Jawatankuasa Penasihat Islam, Kementerian Hal
-Ehwal Masyarakat Singapura<br>
+Ehwal<br>       Masyarakat Singapura<br>
 1966–70:  Berkhidmat sebagai ketua guru di Sekolah Menengah Arab
 Hasanal Bolkiah di Brunei<br>
 1970–80:  Menghasilkan lebih 100 Karya Khutbah Jumaat mengikut tema<br>
