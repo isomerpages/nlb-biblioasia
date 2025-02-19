@@ -260,7 +260,7 @@ wanita Melayu dengan kelulusan yang sama adalah seramai 806 orang
 sahaja pada tahun 1980. Manakala pendapatan purata pekerja lelaki Melayu
 diantara S$386–S$602, jumlah purata yang diterima oleh golongan wanita
 pula adalah di antara S$262–S$416 sahaja. Kedua-dua bidang pendidikan
-dan pekerjaan ini lebih dikuasai golongan lelaki berbanding wanita.[^3]
+dan pekerjaan ini lebih dikuasai golongan lelaki berbanding wanita.[^4]
 
 Menurut kajian, terdapat perubahan pada status wanita dalam masa
 sedekad antara tahun 1970 dan 1980 dalam bidang ekonomi dan pendidikan
