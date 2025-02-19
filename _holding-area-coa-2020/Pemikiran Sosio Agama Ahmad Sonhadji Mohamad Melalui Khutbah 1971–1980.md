@@ -368,3 +368,52 @@ bercerai hanya setakat dua kali sahaja. Bila bercerai pada kali<br>
 yang ketiga, tak boleh rujuk semula kecuali dengan syarat<br> 
 yang ketat. Namun demikian, rujuk pun ada gunanya dan<br> 
 ada hikmahnya.
+
+Menerusi khutbah ini, Ahmad Sonhadji menyuarakan kerisauan tentang
+penceraian yang banyak berlaku dalam masyarakat Singapura. Masyarakat
+perlu sedar bahawa rumahtangga itu bukan suatu permainan yang
+boleh dicerai dan dirujuk sesuka hati. Isu penceraian ini berlaku dalam
+masyarakat Melayu Singapura pada kadar yang agak tinggi pada zaman
+tersebut. Laporan banci kebangsaan menunjukkan jumlah penceraian
+pada tahun 1970 adalah sebanyak 6,967 kes dan meningkat secara drastik
+kepada 16,664 kes pada tahun 1980. Jumlah ini menunjukkan peningkatan
+sebanyak lebih 100 peratus dengan jumlah penduduk pada masa itu masingmasing
+berjumlah 2.027 juta dan 2.4 juta.9
+
+Penceraian juga memberikan kesan yang buruk bukan sahaja terhadap
+pasangan tetapi menjejas kebajikan anak-anak yang terlibat dalam
+proses tersebut. Antara faktor penyebab kepada berlakunya penceraian
+adalah kerana pendapatan ekonomi isi rumah yang rendah berbanding
+keperluan hidup yang tinggi di Singapura, pasangan muda yang tidak
+matang menguruskan rumahtangga, kurangnya ilmu pengetahuan
+tentang menguruskan rumahtangga dan tidak menyedari implikasi buruk
+penceraian terhadap pasangan terutama kepada anak-anak.
+
+Ahmad Sonhadji menyentuh isu penceraian rumahtangga dalam
+khutbahnya sebanyak 3 kali, iaitu pada 6 Disember 1974 dengan tajuk
+*Perempuan Yang Bercerai Hendaklah Beriddah*, khutbah pada 21 Februari
+1975 bertajuk *Janda Hendaklah Beriddah* dan khutbah yang disampaikan
+pada 6 April 1979 bertajuk *Talak Itu Hanya Dua Kali*. Dengan adanya
+instrumen penceraian atau talak dalam al-Quran menunjukkan
+kesempurnaan ajaran Islam. Ini kerana bukan sahaja panduan diberikan
+ketika suasana bahagia tetapi ketika berlakunya konflik dan krisis dalam
+rumahtangga dengan adanya aturan dan jalan keluar kepada masalah
+yang dihadapi.
+
+Dalam khutbah berkaitan talak dan iddah, Ahmad Sonhadji menjelaskan
+hikmah atau tujuan mengapa talak itu hanya boleh berlaku dua kali sahaja
+agar isteri tidak dizalimi oleh suami. Tempoh iddah adalah selama tiga kali
+suci daripada waktu haid jika suami masih hidup. Adanya tempoh iddah ini
+bertujuan untuk menjaga kebajikan dan kemaslahatan isteri dan anak-anak
+agar perkahwinan yang ada masih boleh diselamatkan sekiranya keduadua
+pihak suami dan isteri bersedia untuk memperbaiki perkahwinan
+mereka. Sekiranya suami meninggal dunia pula, tempoh iddahnya adalah
+selama empat bulan sepuluh hari. Tempoh ini memberi peluang jika ada
+anak di dalam rahim ibu agar dapat hidup berkembang dengan baik tanpa
+gangguan daripada baka bapa yang baru. Anak juga akan biasanya mula
+bergerak dalam tempoh tersebut. Ini juga bertujuan memelihara kebajikan
+wanita dari sudut kesihatan fizikal dan anak-anak dari sudut memastikan
+hak pemilikan harta peninggalan daripada bapanya.
+
+
+
