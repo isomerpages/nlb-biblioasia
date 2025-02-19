@@ -136,16 +136,20 @@ sehingga tarikh kematiannya.
 1957–66:        Bertugas pada sebelah petang dalam bidang pentadbiran di
                 Qalam Press<br>
 1957:           Mengasaskan PERGAS bersama angota-anggota lain dan menjadi
-                setiausaha bahagian pendidikan yang pertama<br>
+                setiausaha bahagian 
+								pendidikan yang pertama<br>
 1958–60:        Menjadi ahli Jawatankuasa Pendidikan Agama Islam,
-                Kementerian Pelajaran Singapura sebagai wakil PERGAS melakar
+                Kementerian Pelajaran 
+								Singapura sebagai wakil PERGAS melakar
                 kurikulum dan menghasilkan 10 buku teks<br>
 1959–84:        Membuat kajian dan penulisan *Tafsir al-Quran di Radio* (*Tafsir
                 ‘Abr al-Athir*)<br>
 1960–62:        Menjadi ahli Jawatankuasa Penasihat Islam, Kementerian Hal
-                Ehwal Masyarakat Singapura<br>
+                Ehwal Masyarakat 
+								Singapura<br>
 1966–70:        Berkhidmat sebagai ketua guru di Sekolah Menengah Arab
-                Hasanal Bolkiah di Brunei	<br>
+                Hasanal Bolkiah di 
+								Brunei	<br>
 1970–80:        Menghasilkan lebih 100 Karya Khutbah Jumaat mengikut tema<br>
 1973–80:        Menjadi Mudir Madrasah Al-Junied dan mengasilkan tujuh buah
                 Buku Teks<br>
@@ -158,13 +162,15 @@ sehingga tarikh kematiannya.
 1988:           Mendapat Pingat Bakti Masyarakat
 1991:           Menjadi ahli penasihat MUIS<br>
 1991:           Selesai mencetak Tafsir Abr al-Athir edisi lengkap setelah berkarya
-                selama lebih 25 tahun<br>
+                selama lebih 25
+								tahun<br>
 1992:           Pengerusi Madrasah Irsyad dan Pengerusi Lembaga Pendidikan
                 Quran Singapura<br>
 1992:           Mendapat Anugerah Jasa Cemerlang dari MUIS<br>	
 1995:           Menubuhkan sebuah Rumah Wakaf di Johor Bahru<br>
 2002:           Mendapat pengiktirafan sebagai Imam Masjid Muhajirin selama
-                22 tahun pada usia 80 tahun<br>
+                22 tahun pada usia 80
+								tahun<br>
 2010:           Meninggal dunia pada 12 Ogos 2010 di Singapura
 
 
