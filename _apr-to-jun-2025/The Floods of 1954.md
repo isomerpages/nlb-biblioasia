@@ -1,6 +1,6 @@
 ---
 title: The Floods of 1954
-permalink: /holding-area/vol-21/issue-1/apr-jun-2025/the-floods-of-1954/
+permalink: /vol-21/issue-1/apr-jun-2025/1954-floods-singapore/
 variant: markdown
 description: ""
 ---

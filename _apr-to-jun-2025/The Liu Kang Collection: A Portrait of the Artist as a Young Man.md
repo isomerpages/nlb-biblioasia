@@ -153,7 +153,7 @@ In 1993, the Raffles Hotel commissioned Liu Kang to create a collection of paste
 	
 An exhibition titled&nbsp;<i>Untold Stories: Four Singapore Artists’ Quest for Inspiration in Bali 1952</i> is held at Level 10 of the National Library Building from 14 February to 3 August 2025. It features a selection of the photographs that Liu Kang took on his trip to Bali with Chen Wen Hsi, Chen Chong Swee and Cheong Soo Pieng.<br><br>
 
-Gretchen Liu’s <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300094843">_Bali 1952: Through the Lens of Liu Kang: The Trip to Java and Bali by Four Singapore Pioneering Artists_</a>&nbsp;was published in conjunction with the exhibition. The book is available for reference at the Lee Kong Chian Reference Library (call no. RSING 779.995986 LIU), for loan at selected public libraries (call no. SING 779.995986 LIU), and for sale at physical and online bookstores.</div>
+Gretchen Liu’s <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300094843"><i>Bali 1952: Through the Lens of Liu Kang: The Trip to Java and Bali by Four Singapore Pioneering Artists</i></a>&nbsp;was published in conjunction with the exhibition. The book is available for reference at the Lee Kong Chian Reference Library (call no. RSING 779.995986 LIU), for loan at selected public libraries (call no. SING 779.995986 LIU), and for sale at physical and online bookstores.</div>
 		
 
 <div style="background-color: white;">
