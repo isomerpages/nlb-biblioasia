@@ -117,9 +117,10 @@ sehingga tarikh kematiannya.
 
 #### **Kronologi Sejarah kehidupan Ahmad Sonhadji**
 
-1922:         	Lahir di Surakarta Jawa Tengah Indonesia<br>
-1927:           Berhijrah bersama keluarga ke Singapura<br>
-1930–36:	  Mendapat pendidikan awal sekolah rakyat hingga            kelas lima di
+
+**1922:**         	Lahir di Surakarta Jawa Tengah Indonesia<br>
+**1927:**           Berhijrah bersama keluarga ke Singapura<br>
+**1930–36:**	  Mendapat pendidikan awal sekolah rakyat hingga            kelas lima di
                     Rengat, Inderagiri<br>
 1937–44:	Melanjutkan pelajaran di Madrasah Al-Junied dari kelas Tahdiri hingga tahun 
                                 enam<br>
