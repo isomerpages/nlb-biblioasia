@@ -136,8 +136,8 @@ di Singapura<br>
 Qalam Press<br>
 1957: Mengasaskan PERGAS bersama angota-anggota lain dan menjadi
 setiausaha<br> 
-          bahagian pendidikan yang pertama<br>
-1958–60:  Menjadi ahli Jawatankuasa Pendidikan Agama Islam,<br>      Kementerian Pelajaran Singapura sebagai wakil PERGAS melakar<br>      
+   bahagian pendidikan yang pertama<br>
+1958–60: Menjadi ahli Jawatankuasa Pendidikan Agama Islam,<br>   Kementerian Pelajaran Singapura sebagai wakil PERGAS melakar<br>      
 kurikulum dan menghasilkan 10 buku teks<br>
 1959–84:  Membuat kajian dan penulisan *Tafsir al-Quran di Radio (Tafsir
 ‘Abr al-Athir)*<br>
@@ -283,6 +283,3 @@ kebahagian wanita. Jika penceraian tidak diberikan perhatian dan
 dibendung maka banyak keperluan golongan wanita yang tidak dapat
 dipenuhi dan kebajikan anak-anak terjejas, terutamanya jika anak itu masih
 terlalu kecil.
-
-
-
