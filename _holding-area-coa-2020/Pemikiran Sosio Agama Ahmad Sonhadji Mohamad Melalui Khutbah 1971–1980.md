@@ -230,5 +230,59 @@ masih baharu pada masa tersebut. Ada pula isi khutbah yang bertujuan
 mendidik masyarakat tentang kepentingan menjaga hak kaum wanita dan
 kebajikan anak-anak.
 
+#### **Tema: Wanita, Kekeluargaan, Kemanusiaan Dan Kemasyarakatan**
+Wanita memainkan peranan penting dalam membangunkan sesebuah
+masyarakat dan negara bersama kaum lelaki. Peranan mereka tidak boleh
+dinafikan kerana setiap golongan mempunyai peranan khusus yang
+tidak dapat disempurnakan oleh gender yang lain. Kelembutan sentuhan
+wanita dalam mengasuh anak dan menjaga kebajikan keluarga tidak dapat diambil alih sepenuhnya oleh golongan lelaki. Tugas buruh kasar lebih
+sesuai dipikul oleh lelaki kerana kekuatan fizikal yang dikurniakan Tuhan
+kepada mereka. Kedua-dua tugasan ini tidak merendahkan mana-mana
+pihak wanita ataupun lelaki kerana mereka saling lengkap-melengkapi
+dalam setiap urusan kehidupan. Walaupun demikian, kaum wanita sering
+dilihat sebagai golongan kelas kedua dalam sesuatu struktur masyarakat
+tradisional. Ini tergambar melalui bidang pendidikan, pekerjaan dan
+ekonomi. Pencapaian wanita didapati lebih rendah daripada lelaki dalam
+bidang-bidang tersebut.
+
+Lebih ramai lelaki yang memperoleh pendidikan formal dan mendapat
+tangga gaji yang lebih tinggi daripada wanita dalam bidang pekerjaan. Ini
+dapat dilihat melalui jumlah lelaki Melayu yang mempunyai kelulusan
+peringkat pos-menengah adalah seramai 1,358 orang, manakala jumlah
+wanita Melayu dengan kelulusan yang sama adalah seramai 806 orang
+sahaja pada tahun 1980. Manakala pendapatan purata pekerja lelaki Melayu
+diantara S$386–S$602, jumlah purata yang diterima oleh golongan wanita
+pula adalah di antara S$262–S$416 sahaja. Kedua-dua bidang pendidikan
+dan pekerjaan ini lebih dikuasai golongan lelaki berbanding wanita.4
+
+Menurut kajian, terdapat perubahan pada status wanita dalam masa
+sedekad antara tahun 1970 dan 1980 dalam bidang ekonomi dan pendidikan
+wanita. Begitu juga terdapat peningkatan kedudukan sosial wanita dalam
+undang-undang di Singapura.
+
+Walaupun wanita Singapura telah berjaya meningkatkan pencapaian
+mereka dari segi jumlah pendaftaran dalam institusi pendidikan,
+pencapaian dalam pendidikan tinggi, peningkatan dalam tenaga buruh dan
+meningkatkan pendapatan mereka antara 1970–1990, namun pencapaian
+kaum lelaki masih jauh mengatasi pencapaian wanita dalam hal-hal ini.5
+
+Penceraian juga merupakan antara isu yang memberikan kesan terutama
+kepada wanita dan anak-anak. Jumlah kes penceraian dalam kalangan
+masyarakat Singapura pada tahun 1970 adalah sebanyak 6,967 kes
+bersamaan dengan 0.3 peratus daripada jumlah keseluruhan penduduk. Pada tahun 1980, kes penceraian meningkat lebih 100 peratus dengan
+jumlah 16,664 kes atau sebanyak 0.7 peratus.6
+
+Institusi keluarga adalah penting bagi wanita kerana ia memberi jaminan
+keselamatan kepada mereka dan anak-anak. Jumlah anak-anak daripada
+wanita yang berkerjaya adalah sebanyak 60,240. Jumlah kanak-kanak yang
+diasuh oleh suri rumah sepenuh masa pula lebih tiga kali ganda berbanding
+jumlah wanita yang bekerja sebanyak 232,125 orang pada tahun 1980.7
+
+Kebajikan dan masa depan anak-anak sangat penting bagi menentukan
+kebahagian wanita. Jika penceraian tidak diberikan perhatian dan
+dibendung maka banyak keperluan golongan wanita yang tidak dapat
+dipenuhi dan kebajikan anak-anak terjejas, terutamanya jika anak itu masih
+terlalu kecil.
+
 
 
