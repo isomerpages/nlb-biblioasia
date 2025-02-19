@@ -137,7 +137,7 @@ di Singapura<br>
 Qalam Press<br>
 1957:    Mengasaskan PERGAS bersama angota-anggota lain dan menjadi
 setiausaha 
-     bahagian pendidikan yang pertama<br>
+      bahagian pendidikan yang pertama<br>
 1958–60:  Menjadi ahli Jawatankuasa Pendidikan Agama Islam,
 Kementerian Pelajaran Singapura sebagai wakil PERGAS melakar
 kurikulum dan menghasilkan 10 buku teks<br>
@@ -167,6 +167,3 @@ Quran Singapura<br>
 2002:    Mendapat pengiktirafan sebagai Imam Masjid Muhajirin selama
 22 tahun pada usia 80 tahun<br>
 2010:    Meninggal dunia pada 12 Ogos 2010 di Singapura
-
-
-
