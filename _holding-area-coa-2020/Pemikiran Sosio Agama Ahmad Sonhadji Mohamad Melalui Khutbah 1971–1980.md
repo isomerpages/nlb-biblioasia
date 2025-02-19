@@ -719,5 +719,11 @@ Joanna Tan and Tan Huism (National Library Board, Singapore) for providing
 invaluable access to documents, inputs and the opportunity to be the recipient of the Lee
 Kong Chian Research Fellowship.*
 
+<div>
+<b>Dr Mohamed Qusairy Bin Thaha</b> has a PhD in Islamic civilisation and is the CEO
+of Singapore Islamic Scholars Association (PERGAS). He was the head of Darul Quran
+Singapura for more than a decade. His research interests include the history of Quran
+manuscripts, the development of Quran interpretations in Singapore, and thoughts of
+local religious scholars in the socio-religious context.</div>
 
 
