@@ -435,9 +435,289 @@ Jenayah menjadi indikator kepada tinggi atau rendah adab, etika dan
 integriti dalam sesebuah masyarakat. Pada era pasca perpisahan dengan
 Malaysia, masyarakat Melayu Singapura, terutama para belia menghadapi
 cabaran hidup dan jati diri. Pada tahun-tahun 1970-an, penyalahgunaan
-dadah membelenggu masyarakat Melayu berbanding bangsa-bangsa yang
-lain di Singapura.
+dadah membelenggu masyarakat Melayu berbanding bangsa-bangsa yang lain in Singapura.
 
+Transliterasi: Sesungguhnya seburuk-buruk ujian yang dirasakan<br>
+oleh seseorang itu ialah orang yang berputus asa. Orang yang<br>
+berputus asa akan mematikan kesedarannya. Dia akan murung<br>
+hidupnya sehingga dunia ini akan menjadi gelap baginya. Dia<br>
+tidak akan bersemangat dan akan hancur segala cita-citanya.<br>
+Lantaran itu, dia akan mencari sesuatu yang pada anggapannya<br>
+dapat mententeramkan jiwanya. Dicubanya bahan-bahan, baik<br>
+yang berupa minuman seperti arak atau makanan seperti pil-pil<br>
+yang mengandungi dadah yang merbahaya atau menyuntikkan<br>
+bahan-bahan tersebut ke tubuhnya. Memang gejala yang amat<br>
+berbahaya inilah yang terbit dari perasaan putus asa. Orang yang<br>
+berputus asa ini telah disebutkan oleh Allah di dalam Al-Quran<br>
+dalam bentuk yang tercela dan hendaklah disingkirkan jauh-jauh.
+
+Menurut Ahmad Sonhadji, pada zaman tersebut masyarakat Melayu
+menghadapi permasalahan sosial antaranya seperti masalah penagihan
+dadah dan pengangguran. Antara faktor yang menyumbang kepada
+permasalahan ini adalah sikap sebahagian masyarakat itu sendiri yang
+mudah berputus asa apabila menghadapi ujian, tidak mempunyai daya
+ketahanan dalam menghadapi ujian hidup dan mencari jalan mudah
+untuk melupakan masalah dengan mengambil dadah atau bahan-bahan
+yang merosakkan diri sendiri. Perkara ini dilarang oleh Islam kerana
+ia merosakkan masa depan individu, keluarga, masyarakat dan negara.
+Seorang Muslim itu harus senantiasa mensyukuri segala nikmat kurniaan
+Tuhan terutama ketika senang, kuat pendirian keimanannya dan tidak
+putus asa apatah lagi dengan membunuh diri ketika menghadapi ujian
+hidup seperti yang banyak berlaku pada zaman itu.
+
+Kajian menunjukkan masyarakat Melayu pada masa tersebut perlu
+mengatasi masalah dadah agar dapat menjadi masyarakat yang berjaya
+dan lebih maju dengan masa depan yang lebih cerah. Usaha membasmi
+penagihan dadah di Singapura giat dijalankan oleh pelbagai pihak terutama
+pemerintah pada tahun-tahun 1970-an.
+
+Lebih membimbangkan lagi, ramai yang terjebak dalam penagihan dadah
+ini terdiri daripada para pelajar sekolah yang berumur semuda 13 tahun.
+Mereka menggunakan wang saku untuk membeli ganja dan juga dadah.11
+
+Pada bulan Oktober tahun 1975, 3,619 orang ditangkap kerana menagih
+dadah, sebahagian besar mengambil dadah heroin dengan jumlah 1,896 atau
+88.2 peratus adalah pesalah belia di bawah umur 30 tahun. Perkembangan
+ini membimbangkan banyak pihak.12 Pada tahun 1975 sahaja, terdapat sebanyak 2,200 orang telah terjerumus ke kancah dadah dan jumlah
+sebanyak S$26 juta telah dibazirkan untuk menampung kos penagihpenagih
+dadah ini.13 Hanya setahun selepas itu, jumlahnya meningkat
+lebih dua kali ganda menjadikan jumlahnya sebanyak 6,000 orang penagih
+dadah ditangkap sepanjang tahun 1976.14
+
+Terdapat usaha yang dilakukan secara kolektif di antara permerintah, ibu
+bapa, pemimpin akar umbi dan pihak sekolah bagi mendidik masyarakat
+terutama golongan belia untuk memupuk kesedaran tentang bahaya dadah.
+Ceramah dengan pelbagai tajuk berkaitan dadah diadakan di sekolah-sekolah,
+kelab masyarakat dan juga di madrasah.15 Golongan yang terlibat dalam
+penagihan dadah ini bukan hanya daripada kalangan lelaki tetapi terdapat
+juga kaum wanita yang terjebak dan ditangkap oleh pihak berkuasa.16
+
+Transliterasi: Sebabnya iri hati itu ditegah, ialah dikhuatiri<br>
+kelak bertukar menjadi hasad atau dengki kerana siapalah<br>
+tahu ibarat orang yang pada permulaannya hanya bermain-<br>main
+saja di tepi kawasan larangan tiba-tiba terjerumus<br>
+ke dalam kawasan larangan tersebut yang akibatnya<br>
+membahayakan dirinya. Kesan yang kita dapati dari ayat<br>
+ini ialah, Allah menegah janganlah seseorang itu iri hati,<br>
+apalagi dengki terhadap orang lain yang sedang dikurniakan<br>
+oleh Allah kelebihan-kelebihan yang tidak terdapat pada<br>
+dirinya, kerana mungkin menyusahkan dirinya sendiri kelak<br>
+sekira ditakdirkan kurnia itu jatuh ke atas pangkuannaya<br>
+disebabkan tak ada kelayakannya untuk menerimanya. Apa<br>
+yang perlu, pohonkan sahaja kepada Allah dan terima sahaja<br>
+sebarang kurnianya dengan bersyukur kepadanya sebab<br>
+masih banyak lagi kurnia Allah yang lain dan masih penuh<br>
+perbendaharaan Allah dengan kurnianya yang tidak akan<br>
+berkurang dengannya.
+
+Ahmad Sonhadji menjelaskan bahawa dalam sesebuah masyarakat terdapat
+pelbagai jenis manusia yang terdiri daripada golongan kaya dan miskin. Ia
+merupakan suatu ketetapan alam yang ditentukan oleh Tuhan dan ujian
+Tuhan bagi setiap golongan. Mereka tidak sepatutnya beriri hati dengan
+golongan yang dikurniakan kelebihan dan menyesali hidupnya. Yang perlu
+dilakukan adalah berusaha mencari kurniaan Tuhan yang melimpah kerana
+menurut Ahmad Sonhadji, orang yang rajin bekerja akan mendapat upah
+yang banyak dan yang malas bekerja mendapat upah yang sedikit. Beriri
+hati dengan meminta Tuhan agar memberikan semua manusia sama rata
+dan menjalani corak hidup yang sama adalah berlawanan dengan sifat
+dan peraturan Tuhan. Ini adalah kerana kemampuan manusia semuanya
+berbeza-beza dan kurniaan Tuhan adalah bersesuaian dengan kemampuan
+manusia tadi.
+
+Transliterasi: Tetapi bagaimana pula dengan keadaan<br>
+sesetengah umat Islam sekarang ini? Mereka telah mulai<br>
+mengabaikan sifat amanah ini, akhirnya telah menyia-<br>nyiakannya.
+Di sana sini mereka cuba mendirikan syarikat<br>
+kerjasama tetapi di sebalik itu terdapat setengah daripada<br>
+ahlinya mencari kepentingan diri sendiri, hilang kejujurannya,<br>
+menggunting dalam lipatan, berlakulah pecah amanah. Maka<br>
+terpaksalah syarikat kerjasama itu bubar, dan diadakan pula<br>
+yayasan mengumpul modal-modal. Terkumpullah wang<br>
+beribu-ribu ringgit dan mulalah berbagai projek dirancangkan,<br>
+tetapi sayangnya ada tangan yang bernoda telah berkhianat<br>
+tidak jujur dan tidak amanah sehingga yayasan itu hancur<br>
+dikhianati oleh bangsa sendiri. Begitulah keadaan kita terus<br>
+menerus mundur seperti yang dilihat orang. Kita hanya<br>
+mengucap “Inna lillah wa inna ilaihi rajiI un," Itulah kata<br>-kata
+ucapan bagi orang yang sedang ditimpa bala, tetapi<br>
+apa gunanya kalau diri sendiri yang mencari bala-bala itu<br>
+disebabkan tidak memelihara amanah.
+
+Kestabilan ekonomi masyarakat dan kemajuan sesuatu negara bergantung
+kepada sejauh manakah kejujuran anggota masyarakat itu, kepimpinannya,
+pemerintahnya, pegawai kerajaan dan ahli perniagaannya. Isu ini
+disentuh oleh Ahmad Sonhadji dalam khutbahnya dengan membawakan
+kiasan “bagai gunting dalam lipatan” untuk menggambarkan keadaan
+yang berlaku dalam masyarakat. Terdapat budaya pecah amanah pada
+masa tersebut yang berlaku menyebabkan syarikat dan yayasan milik
+orang Melayu menghadapi kerugian yang besar dan terpaksa ditutup.
+Ahmad Sonhadji menyatakan bahawa Allah s.w.t memuji orang yang
+amanah, bertanggungjawab dan jujur. Celaan dan ancaman Allah s.w.t
+pula dihadapkan terhadap orang yang pecah amanah. Kemudian beliau
+membuat perbandingan dan membawakan contoh kejayaan sebahagian
+orang asing yang jujur dan kuat berusaha berjaya menjadi maju dan
+menguasai ekonomi.
+
+Jenayah adalah penyakit masyarakat yang ubatnya masih dianggap belum
+memberikan kesan. Ini adalah tajuk artikel yang ditulis oleh Encik Mohd
+Guntur Sadali yang disiarkan melalui akhbar pada tahun 1975. Menurut
+beliau, jumlah jenayah di Singapura masih tinggi pada masa tersebut
+walaupun negara telah menjadi lebih maju dan bersih dari pelbagai segi
+seperti udara, bunyi dan sampah. Selain itu Singapura juga telah mengatasi
+negara-negara jirannya dari segi ekonomi dan jika mereka ingin bersaing
+dengan Singapura mereka memerlukan beberapa tahun untuk mengejarnya.
+Masalah kerendahan nilai moral dalam kalangan masyarakat masih
+ketara dan boleh dilihat melalui jenis dan jumlah jenayah yang berlaku
+di Singapura pada masa tersebut. Rasuah dan pecah amanah berlaku
+secara berleluasa. Jenayah seperti rompak, bunuh, rogol dan segala jenis
+jenayah kejam masih banyak berlaku di Singapura yang dikatakan telah
+mencapai kemajuan. Ia dilakukan bukan hanya oleh golongan awam tetapi
+dilakukan juga oleh golongan atasan yang dihormati masyarakat. Menurut
+beliau kekotoran moral ini perlu difikirkan dengan serius, kesedaran perlu
+dipupuk dan pembaikan perlu diusahakan walaupun mungkin memerlukan
+masa yang lama untuk mengubah situasi ini. Masyarakat yang boleh dikira
+berjaya menurut beliau adalah anggota masyarakatnya mempunyai nilai
+moral yang tinggi dan memerhatikan prinsip-prinsip yang diajarkan oleh
+agama mereka. Ia perlu diperlihatkan terlebih dahulu oleh para pemimpin
+yang adil dan para agamawan yang bermoral.17
+
+Antara jenayah pecah amanah yang dilaporkan pada tahun 1968 adalah
+kes jenayah Gemini Chit Fund yang melibatkan penyelewengan wang
+sebanyak S$3 juta dan kes pecah amanah yang terbesar melibatkan jumlah
+wang sebanyak S$24.2 juta pada tahun 1978 yang ditumpaskan oleh
+pasukan polis. Kedua-dua kes ini diketuai oleh ASP Abu Bakar dan beliau
+dianugerahkan Pingat Kepujian Tertinggi oleh Pasukan Polis Singapura
+kerana berjaya menyelesaikan kes yang rumit tersebut dalam masa
+dua tahun.18
+
+Masih terdapat banyak kejadian pecah amanah dalam kalangan masyarakat
+Singapura yang dilaporkan oleh media massa pada tahun-tahun 1970-an.
+Jumlah jenayah kolar putih meningkat pada setiap tahun antara tahun
+1978 hingga tahun 1980. Menurut Encik Reggie C. Da Silva, Pengarah
+Jabatan Siasatan Jenayah (CID), kes pecah amanah yang dilaporkan pada
+tahun 1978 adalah sebanyak 1,558 kes, 2,204 kes dilaporkan pada tahun 1978
+dan sebanyak 2,266 kes pada tahun 1980. Jenayah kolar putih ini berlaku
+disebabkan oleh perbuatan seperti pecah amanah, penipuan wang, judi
+tipu, pemalsuan maklumat dan penipuan bil dagangan terutama yang
+melibatkan industri perkapalan. Ini bermakna, pada tahun 1979, terdapat
+55 kes pecah amanah dalam kalangan 100,000 penduduk berbanding hanya
+18 kes bagi setiap 100,000 penduduk pada tahun 1970 di Singapura pada
+masa itu.19
+
+Transliterasi: Di antara jenis makan yang haram itu ialah<br>
+makan suap (rasuah). Ia merupakan penyakit yang sangat<br>
+berbahaya kepada masyarakat dan juga negara. Rasuah ibarat<br>
+racun. Lebih berbahaya makan suap itu dari menghisap ganja<br>
+dan menyalahgunakan dadah. Racun yang akan menjadikan<br>
+masyarakat hidup merana dan akhirnya juga negara jadi<br>
+binasa. Orang yang mengamalkan rasuah dan makan dari<br>
+hasil rasuah atau makan makanan yang diketahui datangnya<br>
+dari sumber yang haram, baik terpaksa atau sengaja, tentu<br>
+sekali orang itu akan melahirkan anak atau keturunan dan<br>
+zuriat yang kurang bersih kerana darah daging telah tumbuh<br>
+daripada barang yang haram. Maka tidaklah hairan kalaulah<br>
+terdapat keturunan di belakang hari kelak lebih banyak terlibat<br>
+di dalam melakukan kerja-kerja yang haram, kegiatan yang<br>
+haram, terdidik dengan kerja-kerja yang haram dan hidup<br>
+di dalam gerakan yang haram, melebihi dari orang yang<br>
+menurunkannya.
+
+Rasuah juga merupakan sesuatu makanan yang haram dan ibarat racun
+yang membinasakan masyarakat dan negara. Generasi yang akan datang
+akan menjadi lebih parah kerana dididik dengan ajaran yang salah. Ahmad
+Sonhadji menerangkan bahawa kepentingan dan kemaslahatan orang
+ramai tidak mungkin diwujudkan selagi belum mahu mematuhi dan taat
+kepada Allah, Rasul dan Uli al-Amr (pihak yang berpakaran dan punya
+kuasa). Kedudukan seorang manusia itu terletak pada teguh pendiriannya,
+baik jujur dalam segala tutur kata dan perbuatannya. Tegak berdiri dengan
+batas-batas yang ditetapkan oleh Allah s.w.t, tidak menuruti hawa nafsu,
+suka dan benci sesuatu kerana Allah s.w.t, dan cepat bertaubat apabila
+melakukan dosa.
+
+Transliterasi: Jika kita perhatikan, merenung sejenak ke<br>
+arah ayat-ayat suci Al-Quran yang memperkatakan tentang<br>
+perangai, budi dan akhlak, jelas sekali bahawa tiada lain<br>
+yang dikehendaki Allah s.w.t kepada umat Islam hanya ke<br>
+arah itu. Hendaklah umat Islam itu berperangai yang baik,<br>
+berbudi yang luhur dan berakhlak yang mulia. Inilah sifat<br>-sifat
+yang mulia yang ditekankan oleh Islam kepada sekalian<br>
+penganutnya dan pertama sekali dapat kita lihat pada<br>
+firman Allah kepada RasulNya s.a.w, ertinya, “Tetapkanlah<br>
+pendirian engkau sebagaimana engkau diperintahkan.”<br>
+(Hud: 112) Maksudnya baginda hendaklah berpendirian<br>
+teguh dalam beragama dan melaksanakan dengan jujur apa<br>
+yang diperintahkannya. Tentu sahaja sebagai contoh kepada<br>
+umat, baginda telah pun melaksanakan pendiriannya yang<br>
+teguh dalam beragama sebagai pegangan hidup dan sentiasa<br>
+bersikap jujur.
+
+Dalam memberikan panduan kepada masyarakat berkaitan isu etika dan
+integriti, Ahmad Sonhadji menjelaskan bahawa dalam sesebuah masyarakat,
+adab merupakan perkara penting. Akhlak yang baik bertujuan untuk
+memelihara kesejahteraan masyarakat, berlaku persefahaman dan tidak
+ada perbalahan walaupun berlainan bangsa, bahasa dan agama. Di antara
+sifat pergaulan yang terbaik itu adalah dengan adanya sifat saling hormatmenghormati
+dan berbudi bahasa misalnya apabila berada di dalam sesuatu
+majlis perjumpaan. Menjaga lidah dengan berdiam diri atau menutup mulut
+adalah lebih baik jika tiada perkara yang baik boleh dituturkan.
+
+Dalam memberikan panduan kepada masyarakat berkaitan isu etika dan
+integriti, Ahmad Sonhadji menjelaskan bahawa dalam sesebuah masyarakat,
+adab merupakan perkara penting. Akhlak yang baik bertujuan untuk
+memelihara kesejahteraan masyarakat, berlaku persefahaman dan tidak
+ada perbalahan walaupun berlainan bangsa, bahasa dan agama. Di antara
+sifat pergaulan yang terbaik itu adalah dengan adanya sifat saling hormatmenghormati
+dan berbudi bahasa misalnya apabila berada di dalam sesuatu
+majlis perjumpaan. Menjaga lidah dengan berdiam diri atau menutup mulut
+adalah lebih baik jika tiada perkara yang baik boleh dituturkan.
+
+Khutbah beliau yang membincangkan isu-isu berkaitan etika dan integriti,
+menekankan nilai kejujuran menjaga amanah, menjauhi perkara yang boleh
+merosakkan diri, adab kesopanan dalam pertuturan dan tingkah laku,
+mentaati perintah dan menjauhi larangan Allah s.w.t, Rasullullah s.a.w
+dan pemimpin kaum muslimin, konsep keimanan, konsep ketaqwaan dan
+menjelaskan implikasi perbuatan yang menyalahi aturan ini.
+
+#### **Kesimpulan**
+Berdasarkan kepada pembacaan dan analisa yang dilakukan ke atas
+pemikiran Ahmad Sonhadji melalui koleksi khutbahnya, pengkaji
+mendapati bahawa beliau adalah seorang tokoh ilmuan yang berkemahiran
+tinggi. Beliau berpengalaman luas dalam menghasilkan bahan-bahan
+penulisan yang menjadi naratif penting dan panduan bagi masyarakat
+Melayu Singapura dalam menghadapi isu-isu sosio-agama pada zaman
+pasca perpisahan dengan Malaysia.
+
+Pemikiran beliau dapat diselami melalui perbincangan isu-isu sosio-agama
+yang dihadapi oleh masyarakat Singapura. Isu pengabaian hak pendidikan
+anak perempuan, isu penceraian wanita, isu pekerjaan, cabaran ekonomi
+masyarakat Melayu dan isu-isu pengamalan keagamaan mendapat
+perhatian yang tinggi dalam karya-karya beliau. Isu-isu sosial yang diangkat
+oleh Ahmad Sonhadji dalam khutbah-khutbah beliau adalah respon
+kepada isu-isu yang dihadapi oleh masyarakat Melayu Islam Singapura
+pada masa tersebut. Gaya bahasa yang digunakan oleh Ahmad Sonhadji
+dalam khutbah beliau adalah pelbagai dan sebahagian besarnya berbentuk
+konstruktif, optimistik dan positif terhadap masa depan masyarakat Melayu
+Islam di Singapura.
+
+Atas keprihatinan Ahmad Sonhadji yang sering memikirkan permasalahan
+masyarakat dan mengambil peduli cabaran yang mereka hadapi
+menyebabkan beliau boleh dikategorikan sebagai seorang reformis
+sosial yang memperjuangkan isu-isu sosio-agama. Koleksi khutbah ini
+diharapkan dapat terus dikaji kerana ia mencerminkan kebijaksanaan dan
+daya intelektual permata tafsir Singapura ini. Ketajaman pandangan dan
+kehalusan pemikiran serta ketelitian dalam merawat masalah masyarakat
+terserlah melalui koleksi khutbah ini. Pengkaji mencadangkan agar
+koleksi khutbah beliau dicetak semula, dijadikan sebagai sebuah karya
+agung, dibaca oleh khatib sebagai teks khutbah yang baru dan dijadikan
+sebagai rujukan pengkaji kerana ia adalah khazanah berharga masyarakat
+Melayu Singapura.
+
+#### **Acknowledgments**
+*I would like to thank Dr Wan Nasyrudin Bin Wan Abdullah and Dr Azhar Ibrahim
+for their invaluable insights. My appreciation goes to Mazelan Anuar, Juffri Supa’at,
+Joanna Tan and Tan Huism (National Library Board, Singapore) for providing
+invaluable access to documents, inputs and the opportunity to be the recipient of the Lee
+Kong Chian Research Fellowship.*
 
 
 
