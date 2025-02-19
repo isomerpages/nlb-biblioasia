@@ -159,7 +159,7 @@ sehingga tarikh kematiannya.
 **1980–92:**        Menjadi ahli Majlis Tertinggi MUIS<br>
 **1980:**           Menjadi Imam dan Khatib tetap Masjid Muhajirin<br>
 **1983:**           Mencetak karya Kaedah Tafsir Al-Quran yang dihasilkan pada
-                tahun 1970-an<br>       ** 1988:**           Mendapat Pingat Bakti Masyarakat
+                tahun 1970-an<br>       **1988:**           Mendapat Pingat Bakti Masyarakat
 **1991:**           Menjadi ahli penasihat MUIS<br>
 **1991:**           Selesai mencetak Tafsir Abr al-Athir edisi lengkap setelah berkarya
                 selama lebih 25
