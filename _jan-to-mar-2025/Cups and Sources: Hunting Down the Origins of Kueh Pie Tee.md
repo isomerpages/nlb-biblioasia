@@ -183,7 +183,7 @@ To listen to his podcast discussing the origins of the dish, click <a href="http
 [^5]: “[Page 18 Advertisements Column 1: On the Second Day of Christmas, Have a Merry Cooking Spree!](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19801128-1.2.92.1)” _Straits Times_, 28 November 1980, 18. (From NewspaperSG)
 
 
-[^6]: Marc McWilliams, ed., _Food and Material Culture: Proceedings of the Oxford Symposium on Food and Cookery 2013_ (Great Britain: Prospect Books, 2014), 184; Bartolomeo Scappi, _Opera Dell’arte Del Cucinare 1570_ (Canada: University of Toronto Press, 2008), 390, [http://www.ilvaresotto.it/Biblioteca/Opera\_di\_Bartolomeo\_Scappi\_M\_dell\_arte\_d.pdf](http://www.ilvaresotto.it/Biblioteca/Opera_di_Bartolomeo_Scappi_M_dell_arte_d.pdf).
+[^6]: Marc McWilliams, ed., _Food and Material Culture: Proceedings of the Oxford Symposium on Food and Cookery 2013_ (Great Britain: Prospect Books, 2014), 184; Bartolomeo Scappi, _Opera Dell’arte Del Cucinare 1570_ (Canada: University of Toronto Press, 2008), 390.
 
 
 [^7]: Scappi, _Opera Dell’arte Del Cucinare 1570_, 372.&nbsp;
