@@ -159,7 +159,7 @@ sehingga tarikh kematiannya.
 **1980–92:**        Menjadi ahli Majlis Tertinggi MUIS<br>
 **1980:**           Menjadi Imam dan Khatib tetap Masjid Muhajirin<br>
 **1983:**           Mencetak karya Kaedah Tafsir Al-Quran yang dihasilkan pada
-                tahun 1970-an<br>       **1988:**           Mendapat Pingat Bakti Masyarakat
+                tahun 1970-an<br>       **1988:**           Mendapat Pingat Bakti Masyarakat<br> 
 **1991:**           Menjadi ahli penasihat MUIS<br>
 **1991:**           Selesai mencetak Tafsir Abr al-Athir edisi lengkap setelah berkarya
                 selama lebih 25
@@ -812,4 +812,3 @@ Zulkifli Haji Mohd Yusoff. [_A Study of Tafsir ’Abr Al-Athir and Sonhadji’s 
 18 Mohd Maidin, “[Orang Yang Bongkar Kes Pecah Amanah Terbesar](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19790114-1.2.9)” \[The person who uncovered the biggest breach of trust case\], _Berita Harian_, 14 January 1979, 1. (From NewspaperSG)
 
 19 “[Jenayah ‘Kolar Putih’ Kian Meningkat Di Sini](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19801206-1.2.52)” \[White collar crime is on the rise here\], _Berita Harian_, 6 December 1980. (From NewspaperSG)
-
