@@ -136,7 +136,8 @@ di Singapura<br>
 1957–66:  Bertugas pada sebelah petang dalam bidang pentadbiran di
 Qalam Press<br>
 1957:    Mengasaskan PERGAS bersama angota-anggota lain dan menjadi
-setiausaha bahagian pendidikan yang pertama<br>
+setiausaha 
+     bahagian pendidikan yang pertama<br>
 1958–60:  Menjadi ahli Jawatankuasa Pendidikan Agama Islam,
 Kementerian Pelajaran Singapura sebagai wakil PERGAS melakar
 kurikulum dan menghasilkan 10 buku teks<br>
@@ -151,7 +152,7 @@ Hasanal Bolkiah di Brunei<br>
 Buku Teks<br>
 1974–86:  Menganggotai ahli Lembaga Rayuan MUIS<br>
 1974–92:  Menjadi ahli Jawatankuasa Fatwa MUIS<br>
-1980–92:  ;Menjadi ahli Majlis Tertinggi MUIS<br>
+1980–92:  Menjadi ahli Majlis Tertinggi MUIS<br>
 1980:    Menjadi Imam dan Khatib tetap Masjid Muhajirin<br>
 1983:    Mencetak karya *Kaedah Tafsir Al-Quran* yang dihasilkan pada
 tahun 1970-an<br>
@@ -166,4 +167,6 @@ Quran Singapura<br>
 2002:    Mendapat pengiktirafan sebagai Imam Masjid Muhajirin selama
 22 tahun pada usia 80 tahun<br>
 2010:    Meninggal dunia pada 12 Ogos 2010 di Singapura
+
+
 
