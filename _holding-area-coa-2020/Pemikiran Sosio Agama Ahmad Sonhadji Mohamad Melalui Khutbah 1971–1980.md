@@ -126,7 +126,25 @@ sehingga tarikh kematiannya.
                 beliau Hj Marzuki<br>
 1945:	        Mengajar sebagai guru pelatih di Madrasah Al-Junied<br>
 1945:	        Mendirikan rumah tangga bersama Hajah Napsiah Bte Ibrahim<br>
-	
+1945:           Mendirikan Madrasah Bustanul Arifin dan Madrasah Al-Diniyah
+                di Singapura<br>
+1945:           Bertugas dengan Radio Jepun sebagai pemerhati dan penterjemah
+                di Singapura<br>
+1946–50:        Menceburi bidang perniagaan dan keusahawanan<br>
+1951:           Mengajar semula di Madrasah Al-Junied	<br>	
+1957–66:        Bertugas pada sebelah petang dalam bidang pentadbiran di
+                Qalam Press<br>
+1957:           Mengasaskan PERGAS bersama angota-anggota lain dan menjadi
+                setiausaha bahagian pendidikan yang pertama<br>
+1958–60:        Menjadi ahli Jawatankuasa Pendidikan Agama Islam,
+                Kementerian Pelajaran Singapura sebagai wakil PERGAS melakar
+                kurikulum dan menghasilkan 10 buku teks<br>
+1959–84:        Membuat kajian dan penulisan *Tafsir al-Quran di Radio* (*Tafsir
+                ‘Abr al-Athir*)<br>
+1960–62:        Menjadi ahli Jawatankuasa Penasihat Islam, Kementerian Hal
+                Ehwal Masyarakat Singapura<br>
+1966–70:        Berkhidmat sebagai ketua guru di Sekolah Menengah Arab
+                Hasanal Bolkiah di Brunei	<br>
 
 
 1922: Lahir di Surakarta Jawa Tengah Indonesia<br>
