@@ -122,56 +122,56 @@ sehingga tarikh kematiannya.
 **1927:**           Berhijrah bersama keluarga ke Singapura<br>
 **1930–36:**	  Mendapat pendidikan awal sekolah rakyat hingga            kelas lima di
                     Rengat, Inderagiri<br>
-1937–44:	Melanjutkan pelajaran di Madrasah Al-Junied dari kelas Tahdiri hingga tahun 
+**1937–44:**	Melanjutkan pelajaran di Madrasah Al-Junied dari kelas Tahdiri hingga tahun 
                                 enam<br>
-1942:	        Mengasaskan Perguruan Agama Islam Rengat bersama guru
+**1942:**	        Mengasaskan Perguruan Agama Islam Rengat bersama guru
                 beliau Hj Marzuki<br>
-1945:	        Mengajar sebagai guru pelatih di Madrasah Al-Junied<br>
-1945:	        Mendirikan rumah tangga bersama Hajah Napsiah Bte Ibrahim<br>
-1945:           Mendirikan Madrasah Bustanul Arifin dan Madrasah Al-Diniyah
+**1945:**	        Mengajar sebagai guru pelatih di Madrasah Al-Junied<br>
+**1945:**      Mendirikan rumah tangga bersama Hajah Napsiah Bte Ibrahim<br>
+**1945:**           Mendirikan Madrasah Bustanul Arifin dan Madrasah Al-Diniyah
                 di Singapura<br>
-1945:           Bertugas dengan Radio Jepun sebagai pemerhati dan penterjemah
+**1945:**           Bertugas dengan Radio Jepun sebagai pemerhati dan penterjemah
                 di Singapura<br>
-1946–50:        Menceburi bidang perniagaan dan keusahawanan<br>
-1951:           Mengajar semula di Madrasah Al-Junied	<br>	
-1957–66:        Bertugas pada sebelah petang dalam bidang pentadbiran di
+**1946–50:**        Menceburi bidang perniagaan dan keusahawanan<br>
+**1951:**         Mengajar semula di Madrasah Al-Junied	<br>	
+**1957–66:**        Bertugas pada sebelah petang dalam bidang pentadbiran di
                 Qalam Press<br>
-1957:           Mengasaskan PERGAS bersama angota-anggota lain dan menjadi
+**1957:**           Mengasaskan PERGAS bersama angota-anggota lain dan menjadi
                 setiausaha bahagian 
 								pendidikan yang pertama<br>
-1958–60:        Menjadi ahli Jawatankuasa Pendidikan Agama Islam,
+**1958–60:**        Menjadi ahli Jawatankuasa Pendidikan Agama Islam,
                 Kementerian Pelajaran 
 								Singapura sebagai wakil PERGAS melakar
                 kurikulum dan menghasilkan 10 buku teks<br>
-1959–84:        Membuat kajian dan penulisan *Tafsir al-Quran di Radio* (*Tafsir
+**1959–84:**        Membuat kajian dan penulisan *Tafsir al-Quran di Radio* (*Tafsir
                 ‘Abr al-Athir*)<br>
-1960–62:        Menjadi ahli Jawatankuasa Penasihat Islam, Kementerian Hal
+**1960–62:**        Menjadi ahli Jawatankuasa Penasihat Islam, Kementerian Hal
                 Ehwal Masyarakat 
 								Singapura<br>
-1966–70:        Berkhidmat sebagai ketua guru di Sekolah Menengah Arab
+**1966–70:**        Berkhidmat sebagai ketua guru di Sekolah Menengah Arab
                 Hasanal Bolkiah di 
 								Brunei	<br>
-1970–80:        Menghasilkan lebih 100 Karya Khutbah Jumaat mengikut tema<br>
-1973–80:        Menjadi Mudir Madrasah Al-Junied dan mengasilkan tujuh buah
+**1970–80:**        Menghasilkan lebih 100 Karya Khutbah Jumaat mengikut tema<br>
+**1973–80:**        Menjadi Mudir Madrasah Al-Junied dan mengasilkan tujuh buah
                 Buku Teks<br>
-1974–86:        Menganggotai ahli Lembaga Rayuan MUIS<br>
-1974–92:        Menjadi ahli Jawatankuasa Fatwa MUIS<br>
-1980–92:        Menjadi ahli Majlis Tertinggi MUIS<br>
-1980:           Menjadi Imam dan Khatib tetap Masjid Muhajirin<br>
-1983:           Mencetak karya Kaedah Tafsir Al-Quran yang dihasilkan pada
+**1974–86:**        Menganggotai ahli Lembaga Rayuan MUIS<br>
+**1974–92:**        Menjadi ahli Jawatankuasa Fatwa MUIS<br>
+**1980–92:**        Menjadi ahli Majlis Tertinggi MUIS<br>
+**1980:**           Menjadi Imam dan Khatib tetap Masjid Muhajirin<br>
+**1983:**           Mencetak karya Kaedah Tafsir Al-Quran yang dihasilkan pada
                 tahun 1970-an<br>        1988:           Mendapat Pingat Bakti Masyarakat
-1991:           Menjadi ahli penasihat MUIS<br>
-1991:           Selesai mencetak Tafsir Abr al-Athir edisi lengkap setelah berkarya
+**1991:**           Menjadi ahli penasihat MUIS<br>
+**1991:**           Selesai mencetak Tafsir Abr al-Athir edisi lengkap setelah berkarya
                 selama lebih 25
 								tahun<br>
-1992:           Pengerusi Madrasah Irsyad dan Pengerusi Lembaga Pendidikan
+**1992:**           Pengerusi Madrasah Irsyad dan Pengerusi Lembaga Pendidikan
                 Quran Singapura<br>
-1992:           Mendapat Anugerah Jasa Cemerlang dari MUIS<br>	
-1995:           Menubuhkan sebuah Rumah Wakaf di Johor Bahru<br>
-2002:           Mendapat pengiktirafan sebagai Imam Masjid Muhajirin selama
+**1992:**           Mendapat Anugerah Jasa Cemerlang dari MUIS<br>	
+**1995:**           Menubuhkan sebuah Rumah Wakaf di Johor Bahru<br>
+**2002:**           Mendapat pengiktirafan sebagai Imam Masjid Muhajirin selama
                 22 tahun pada usia 80
 								tahun<br>
-2010:           Meninggal dunia pada 12 Ogos 2010 di Singapura
+**2010:**           Meninggal dunia pada 12 Ogos 2010 di Singapura
 
 #### **Latar Belakang: Selepas Perpisahan**
 
