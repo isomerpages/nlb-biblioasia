@@ -11,7 +11,7 @@ Ahmad Sonhadji lebih dikenali sebagai tokoh tafsir di Singapura melalui
 selama 25 tahun. Namun terdapat banyak karya beliau yang belum diberi
 perhatian dan dikaji. Ini termasuklah koleksi khutbah sebanyak 112 naskah
 yang memaparkan pemikiran Ahmad Sonhadji yang dihasilkan sejak
-tahun 1971 hingga tahun 1980.1 Kesemua manuskrip ini masih utuh tidak
+tahun 1971 hingga tahun 1980.[^1] Kesemua manuskrip ini masih utuh tidak
 terusik disimpan oleh ahli keluarga beliau yang telah memberi izin kepada
 Perpustakaan Negara Singapura untuk membuat dan menyimpan salinan
 digital. Kajian telah dijalankan untuk mengenalpasti unsur-unsur yang
@@ -56,7 +56,7 @@ kepada Raja Kesultanan Solo. Ayahnya pula bernama Mohamad Milatu
 yang merupakan seorang agamawan yang pernah menuntut di beberapa
 sekolah agama (pesantren) di Jawa, Madura dan beberapa daerah lain di
 Indonesia. Beliau adalah anak pertama dari 10 orang cahaya mata dari
-pasangan ini.2
+pasangan ini.[^2]
 
 Ahmad Sonhadji adalah seorang tokoh ilmuan yang dihormati dalam
 kalangan masyarakat Melayu Islam di Singapura. Beliau telah memberikan
@@ -184,7 +184,7 @@ membentuk jumlah penduduk minoriti terbesar sebanyak 15 peratus
 dengan jumlah 311,379 penduduk pada tahun 1970. Walaupun jumlahnya
 meningkat kepada 351,508 penduduk berbangsa Melayu, tetapi mengikut
 jumlah peratusan ia sedikit berkurang kepada 14.6 peratus pada
-tahun 1980.3
+tahun 1980.[^3]
 
 Isu-isu yang dihadapi oleh masyarakat Melayu semenjak era perpisahan
 di antara Singapura dan Malaysia pada tahun 1965 sering mendapat
@@ -260,7 +260,7 @@ wanita Melayu dengan kelulusan yang sama adalah seramai 806 orang
 sahaja pada tahun 1980. Manakala pendapatan purata pekerja lelaki Melayu
 diantara S$386–S$602, jumlah purata yang diterima oleh golongan wanita
 pula adalah di antara S$262–S$416 sahaja. Kedua-dua bidang pendidikan
-dan pekerjaan ini lebih dikuasai golongan lelaki berbanding wanita.4
+dan pekerjaan ini lebih dikuasai golongan lelaki berbanding wanita.[^3]
 
 Menurut kajian, terdapat perubahan pada status wanita dalam masa
 sedekad antara tahun 1970 dan 1980 dalam bidang ekonomi dan pendidikan
@@ -271,19 +271,19 @@ Walaupun wanita Singapura telah berjaya meningkatkan pencapaian
 mereka dari segi jumlah pendaftaran dalam institusi pendidikan,
 pencapaian dalam pendidikan tinggi, peningkatan dalam tenaga buruh dan
 meningkatkan pendapatan mereka antara 1970–1990, namun pencapaian
-kaum lelaki masih jauh mengatasi pencapaian wanita dalam hal-hal ini.5
+kaum lelaki masih jauh mengatasi pencapaian wanita dalam hal-hal ini.[^5]
 
 Penceraian juga merupakan antara isu yang memberikan kesan terutama
 kepada wanita dan anak-anak. Jumlah kes penceraian dalam kalangan
 masyarakat Singapura pada tahun 1970 adalah sebanyak 6,967 kes
 bersamaan dengan 0.3 peratus daripada jumlah keseluruhan penduduk. Pada tahun 1980, kes penceraian meningkat lebih 100 peratus dengan
-jumlah 16,664 kes atau sebanyak 0.7 peratus.6
+jumlah 16,664 kes atau sebanyak 0.7 peratus.[^6]
 
 Institusi keluarga adalah penting bagi wanita kerana ia memberi jaminan
 keselamatan kepada mereka dan anak-anak. Jumlah anak-anak daripada
 wanita yang berkerjaya adalah sebanyak 60,240. Jumlah kanak-kanak yang
 diasuh oleh suri rumah sepenuh masa pula lebih tiga kali ganda berbanding
-jumlah wanita yang bekerja sebanyak 232,125 orang pada tahun 1980.7
+jumlah wanita yang bekerja sebanyak 232,125 orang pada tahun 1980.[^7]
 
 Kebajikan dan masa depan anak-anak sangat penting bagi menentukan
 kebahagian wanita. Jika penceraian tidak diberikan perhatian dan
@@ -350,7 +350,7 @@ kebajikan wanita dan anak-anak. Laporan banci kebangsaan pada tahun
 1980 menunjukkan jumlah wanita Melayu adalah sebanyak 76,381.
 Manakala yang berkerjaya hanya sebanyak 22, 975 dan jumlah majoriti
 wanita yang tidak bekerja dan mengharapkan sokongan suami atau bapa
-adalah sebanyak 53,405.8
+adalah sebanyak 53,405.[^8]
 
 Ahmad Sonhadji menjelaskan bahawa memberikan susu ibu kepada
 bayi merupakan makanan asas bagi bayi terutama yang baharu lahir
@@ -387,7 +387,7 @@ tersebut. Laporan banci kebangsaan menunjukkan jumlah penceraian
 pada tahun 1970 adalah sebanyak 6,967 kes dan meningkat secara drastik
 kepada 16,664 kes pada tahun 1980. Jumlah ini menunjukkan peningkatan
 sebanyak lebih 100 peratus dengan jumlah penduduk pada masa itu masingmasing
-berjumlah 2.027 juta dan 2.4 juta.9
+berjumlah 2.027 juta dan 2.4 juta.[^9]
 
 Penceraian juga memberikan kesan yang buruk bukan sahaja terhadap
 pasangan tetapi menjejas kebajikan anak-anak yang terlibat dalam
@@ -438,7 +438,7 @@ sosio-agama dalam khutbah-khutbahnya. Ramai karyawan utama
 Melayu telah menggunakan karya penulisan mereka bukan sahaja sebagai
 bahan seni tetapi sebagai platform untuk menyampaikan nilai-nilai
 penting, berinteraksi dengan masyarakat mengenai isu-isu penting dan mengutarakan kebimbangan mereka terhadap sesuatu perkara dalam
-perkembangan masyarakat.10
+perkembangan masyarakat.[^10]
 
 Jenayah menjadi indikator kepada tinggi atau rendah adab, etika dan
 integriti dalam sesebuah masyarakat. Pada era pasca perpisahan dengan
@@ -482,24 +482,24 @@ pemerintah pada tahun-tahun 1970-an.
 
 Lebih membimbangkan lagi, ramai yang terjebak dalam penagihan dadah
 ini terdiri daripada para pelajar sekolah yang berumur semuda 13 tahun.
-Mereka menggunakan wang saku untuk membeli ganja dan juga dadah.11
+Mereka menggunakan wang saku untuk membeli ganja dan juga dadah.[^11]
 
 Pada bulan Oktober tahun 1975, 3,619 orang ditangkap kerana menagih
 dadah, sebahagian besar mengambil dadah heroin dengan jumlah 1,896 atau
 88.2 peratus adalah pesalah belia di bawah umur 30 tahun. Perkembangan
-ini membimbangkan banyak pihak.12 Pada tahun 1975 sahaja, terdapat sebanyak 2,200 orang telah terjerumus ke kancah dadah dan jumlah
+ini membimbangkan banyak pihak.[^12] Pada tahun 1975 sahaja, terdapat sebanyak 2,200 orang telah terjerumus ke kancah dadah dan jumlah
 sebanyak S$26 juta telah dibazirkan untuk menampung kos penagihpenagih
-dadah ini.13 Hanya setahun selepas itu, jumlahnya meningkat
+dadah ini.[^13] Hanya setahun selepas itu, jumlahnya meningkat
 lebih dua kali ganda menjadikan jumlahnya sebanyak 6,000 orang penagih
-dadah ditangkap sepanjang tahun 1976.14
+dadah ditangkap sepanjang tahun 1976.[^14]
 
 Terdapat usaha yang dilakukan secara kolektif di antara permerintah, ibu
 bapa, pemimpin akar umbi dan pihak sekolah bagi mendidik masyarakat
 terutama golongan belia untuk memupuk kesedaran tentang bahaya dadah.
 Ceramah dengan pelbagai tajuk berkaitan dadah diadakan di sekolah-sekolah,
-kelab masyarakat dan juga di madrasah.15 Golongan yang terlibat dalam
+kelab masyarakat dan juga di madrasah.[^15] Golongan yang terlibat dalam
 penagihan dadah ini bukan hanya daripada kalangan lelaki tetapi terdapat
-juga kaum wanita yang terjebak dan ditangkap oleh pihak berkuasa.16
+juga kaum wanita yang terjebak dan ditangkap oleh pihak berkuasa.[^16]
 
 Transliterasi: Sebabnya iri hati itu ditegah, ialah dikhuatiri<br>
 kelak bertukar menjadi hasad atau dengki kerana siapalah<br>
@@ -588,7 +588,7 @@ masa yang lama untuk mengubah situasi ini. Masyarakat yang boleh dikira
 berjaya menurut beliau adalah anggota masyarakatnya mempunyai nilai
 moral yang tinggi dan memerhatikan prinsip-prinsip yang diajarkan oleh
 agama mereka. Ia perlu diperlihatkan terlebih dahulu oleh para pemimpin
-yang adil dan para agamawan yang bermoral.17
+yang adil dan para agamawan yang bermoral.[^17]
 
 Antara jenayah pecah amanah yang dilaporkan pada tahun 1968 adalah
 kes jenayah Gemini Chit Fund yang melibatkan penyelewengan wang
@@ -597,7 +597,7 @@ wang sebanyak S$24.2 juta pada tahun 1978 yang ditumpaskan oleh
 pasukan polis. Kedua-dua kes ini diketuai oleh ASP Abu Bakar dan beliau
 dianugerahkan Pingat Kepujian Tertinggi oleh Pasukan Polis Singapura
 kerana berjaya menyelesaikan kes yang rumit tersebut dalam masa
-dua tahun.18
+dua tahun.[^18]
 
 Masih terdapat banyak kejadian pecah amanah dalam kalangan masyarakat
 Singapura yang dilaporkan oleh media massa pada tahun-tahun 1970-an.
@@ -611,7 +611,7 @@ tipu, pemalsuan maklumat dan penipuan bil dagangan terutama yang
 melibatkan industri perkapalan. Ini bermakna, pada tahun 1979, terdapat
 55 kes pecah amanah dalam kalangan 100,000 penduduk berbanding hanya
 18 kes bagi setiap 100,000 penduduk pada tahun 1970 di Singapura pada
-masa itu.19
+masa itu.[^19]
 
 Transliterasi: Di antara jenis makan yang haram itu ialah<br>
 makan suap (rasuah). Ia merupakan penyakit yang sangat<br>
