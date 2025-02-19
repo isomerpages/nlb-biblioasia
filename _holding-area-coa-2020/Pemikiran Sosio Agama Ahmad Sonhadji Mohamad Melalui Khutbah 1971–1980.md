@@ -415,5 +415,29 @@ bergerak dalam tempoh tersebut. Ini juga bertujuan memelihara kebajikan
 wanita dari sudut kesihatan fizikal dan anak-anak dari sudut memastikan
 hak pemilikan harta peninggalan daripada bapanya.
 
+#### **Tema: Adab, Etika Dan Integriti**
+
+Karya khutbah Ahmad Sonhadji memaparkan pengalaman masyarakat
+Melayu Islam Singapura bergelut dengan kemodenan dan berhadapan
+dengan cabaran kehidupan. Ia tergambar melalui isu-isu yang dibawakan
+dalam khutbah seperti keadaan ekonomi yang sukar, taraf sosial yang
+rendah, semangat kebangkitan beragama, perasaan seperti tertindas dan
+kekurangan pemimpin yang mewakili aspirasi mereka.
+
+Di sini juga tergambar karisma Ahmad Sonhadji membawakan isuisu
+sosio-agama dalam khutbah-khutbahnya. Ramai karyawan utama
+Melayu telah menggunakan karya penulisan mereka bukan sahaja sebagai
+bahan seni tetapi sebagai platform untuk menyampaikan nilai-nilai
+penting, berinteraksi dengan masyarakat mengenai isu-isu penting dan mengutarakan kebimbangan mereka terhadap sesuatu perkara dalam
+perkembangan masyarakat.10
+
+Jenayah menjadi indikator kepada tinggi atau rendah adab, etika dan
+integriti dalam sesebuah masyarakat. Pada era pasca perpisahan dengan
+Malaysia, masyarakat Melayu Singapura, terutama para belia menghadapi
+cabaran hidup dan jati diri. Pada tahun-tahun 1970-an, penyalahgunaan
+dadah membelenggu masyarakat Melayu berbanding bangsa-bangsa yang
+lain di Singapura.
+
+
 
 
