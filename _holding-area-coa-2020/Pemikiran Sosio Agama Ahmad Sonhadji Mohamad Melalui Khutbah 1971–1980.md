@@ -120,23 +120,23 @@ sehingga tarikh kematiannya.
 1922: Lahir di Surakarta Jawa Tengah Indonesia<br>
 1927: Berhijrah bersama keluarga ke Singapura<br>
 1930–36: Mendapat pendidikan awal sekolah rakyat hingga kelas lima di Rengat,<br>        Inderagiri<br>
-1937–44:  Melanjutkan pelajaran di Madrasah Al-Junied dari kelas Tahdiri
+1937–44: Melanjutkan pelajaran di Madrasah Al-Junied dari kelas Tahdiri
 hingga tahun enam<br>
-1942:    Mengasaskan Perguruan Agama Islam Rengat bersama guru
+1942: Mengasaskan Perguruan Agama Islam Rengat bersama guru
 beliau Hj Marzuki<br>
-1945:    Mengajar sebagai guru pelatih di Madrasah Al-Junied<br>
-1945:    Mendirikan rumah tangga bersama Hajah Napsiah Bte Ibrahim<br>
-1945:    Mendirikan Madrasah Bustanul Arifin dan Madrasah Al-Diniyah
+1945: Mengajar sebagai guru pelatih di Madrasah Al-Junied<br>
+1945:  Mendirikan rumah tangga bersama Hajah Napsiah Bte Ibrahim<br>
+1945: Mendirikan Madrasah Bustanul Arifin dan Madrasah Al-Diniyah
 di Singapura<br>
-1945:    Bertugas dengan Radio Jepun sebagai pemerhati dan penterjemah
+1945: Bertugas dengan Radio Jepun sebagai pemerhati dan penterjemah
 di Singapura<br>
-1946–50:  Menceburi bidang perniagaan dan keusahawanan<br>
-1951:    Mengajar semula di Madrasah Al-Junied<br>
-1957–66:  Bertugas pada sebelah petang dalam bidang pentadbiran di
+1946–50: Menceburi bidang perniagaan dan keusahawanan<br>
+1951: Mengajar semula di Madrasah Al-Junied<br>
+1957–66: Bertugas pada sebelah petang dalam bidang pentadbiran di
 Qalam Press<br>
-1957:    Mengasaskan PERGAS bersama angota-anggota lain dan menjadi
-setiausaha 
-      bahagian pendidikan yang pertama<br>
+1957: Mengasaskan PERGAS bersama angota-anggota lain dan menjadi
+setiausaha<br> 
+          bahagian pendidikan yang pertama<br>
 1958–60:  Menjadi ahli Jawatankuasa Pendidikan Agama Islam,<br>      Kementerian Pelajaran Singapura sebagai wakil PERGAS melakar<br>      
 kurikulum dan menghasilkan 10 buku teks<br>
 1959–84:  Membuat kajian dan penulisan *Tafsir al-Quran di Radio (Tafsir
