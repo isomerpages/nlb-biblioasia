@@ -334,5 +334,40 @@ ibu dan bapa itu janganlah saling sakit menyakiti dan susah<br>
 menyusahkan akan anak mereka bahkan hendaklah keduanya<br> 
 bertanggungjawab di atas kehidupannya.
 
+Khutbah ini menarik perhatian kerana tajuk ini biasanya dibincangkan
+dalam kalangan wanita tetapi disampaikan kepada hadirin yang terdiri
+daripada kaum lelaki semuanya. Ia berkaitan memberikan susu ibu kepada bayi. Ia menunjukkan bahawa Ahmad Sonhadji sangat peka terhadap
+kebajikan golongan wanita dan kanak-kanak dengan memberikan nasihat
+dan mengingatkan kepada kaum lelaki akan tugas mereka menjaga
+kebajikan wanita dan anak-anak. Laporan banci kebangsaan pada tahun
+1980 menunjukkan jumlah wanita Melayu adalah sebanyak 76,381.
+Manakala yang berkerjaya hanya sebanyak 22, 975 dan jumlah majoriti
+wanita yang tidak bekerja dan mengharapkan sokongan suami atau bapa
+adalah sebanyak 53,405.8
 
+Ahmad Sonhadji menjelaskan bahawa memberikan susu ibu kepada
+bayi merupakan makanan asas bagi bayi terutama yang baharu lahir
+agar mereka dapat membesar dengan sihat. Oleh itu, kebajikan ibu yang
+menyusukan harus diberi perhatian agar kebajikan anak itu juga turut
+terjaga. Persefahaman di antara suami dan isteri dalam perkara ini harus
+diwujudkan demi menjaga kemaslahatan anak-anak ini.
+
+Transliterasi: Sesungguhnya sangatlah aibnya sesebuah<br> 
+rumahtangga yang dibina di atas dasar permainan. Suami<br> 
+isteri yang kerap bercerai disebabkan pertengkaran yang kecil<br>l
+tetapi kemudiannya rujuk dengan melakukan yang sedemikian<br> 
+itu berkali-kali, sesungguhnya telah mempermainkan<br> 
+pembinaan rumahtangga mereka kerana bercerai itu bererti<br> 
+meruntuhkannya dan rujuk bererti membinanya. Jika<br> 
+berulangkali berlaku keruntuhan rumahtangga, bukan hanya<br> 
+keduanya sahaja yang akan menderita tetapi kesannya juga<br> 
+sangat buruk terhadap kehidupan anak-anak mereka, baik<br> 
+dalam belaan dan asuhan maupun dalam didikannya dan<br> 
+pelajaran. Bahkan juga mengganggu pertumbuhan jiwa<br> 
+kanak-kanak yang baik selalu mengharapkan kasih sayang<br> 
+dari kedua ibu bapanya. Itulah sebabnya Tuhan membataskan<br> 
+bercerai hanya setakat dua kali sahaja. Bila bercerai pada kali<br> 
+yang ketiga, tak boleh rujuk semula kecuali dengan syarat<br> 
+yang ketat. Namun demikian, rujuk pun ada gunanya dan<br> 
+ada hikmahnya.
 
