@@ -66,7 +66,7 @@ It has not been possible to identify the camera used by Cheong Soo Pieng. Accord
 Mention must also be made of the fifth participant in the Bali portion of the field trip. Luo Ming can be seen also carrying a camera in Liu Kang’s photographs. A fellow Shanghai Art Academy alumnus, he began a lengthy journey through Southeast Asia in the late 1940s.[^4] Art school ties were rekindled when he visited Singapore in 1948. After a chance meeting with the artists in a Jakarta cafe, he decided to join their Bali sketching adventure. Luo Ming returned to China in 1954, and the fate of his photographs remains unknown.
 
 ![](/images/Vol%2021%20Issue%201/Forgotten%20Bali/bali_group.jpg)
-<div>A group photograph for remembrance. (From left) Cheong Soo Pieng (kneeling), Yan Zihe, Chen Chong Swee, Luo Ming (kneeling), Liu Wenbang (Liu Kang’s cousin), Liu Kang and Chen Wen Hsi. <i>© Liu Kang Family.</i></div>
+<div>A group photograph for remembrance. (From left) Cheong Soo Pieng (squatting), Yan Zihe, Chen Chong Swee, Luo Ming (squatting), Liu Wenbang (Liu Kang’s cousin), Liu Kang and Chen Wen Hsi. <i>© Liu Kang Family.</i></div>
 
 
 Details of the trip come from several sources. First, Liu Kang’s diary, which was also found in his study and remains with the family. He purchased a steno notebook on his first day in Jakarta and recorded people met, places visited, amusing travel anecdotes and his private thoughts. The last entry is dated 29 June. Then there are the letters penned to wives – 11 extant from Chen Chong Swee to Tay Peck Koon, and nine from Liu Kang to Chen Jen Ping – which were reassuring, affectionate and informative.&nbsp;
