@@ -214,5 +214,4 @@ The lasting image of Bali as an island paradise showcases the remarkable power o
 
 [^45]: 
 
-[^46]: 
-
+[^46]:
