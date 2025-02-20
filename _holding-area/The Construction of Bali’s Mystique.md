@@ -168,52 +168,53 @@ The lasting image of Bali as an island paradise showcases the remarkable power o
 
 [^22]: “Y.W.C.A. “Drenched in Sunlight,” _Straits Times_, 28 February 1933, 12; “Bali Through Eyes of a Painter: Exotic Colours of the South Seas,” _Singapore Free Press and Mercantile Advertiser_, 13 March 1935, 9; “Untitled,” _Straits Times_, 27 February 1937, 1; “Balinese Dances at Art Exhibition Today,” _Straits Times_, 8 March 1937, 13; Mary Heathcott, “Le Mayeur’s Exhibition: Polok Amid Paintings of Her Native Bali,” _Singapore Free Press and Mercantile Advertiser_, 21 May 1941, 5. (From NewspaperSG)
 
-[^23]: 
+[^23]: “Bali Will Never Be ‘Spoiled’,” _Singapore Free Press and Mercantile Advertiser_, 26 February 1937, 6. (From NewspaperSG)
 
-[^24]: 
+[^24]: Gretchen Liu, _Bali 1952: Through the Lens of Liu Kang: The Trip to Java and Bali by Four Singapore Pioneering Artists_ (Singapore: National Library Board, 2025), 92, 95. (From National Library Singapore, call no. RSING 779.995986 LIU)
 
-[^25]: 
+[^25]: “On Show at Y.W.C.A.: Art of Julius Wentscher,” _Morning Tribune_, 27 March 1936, 3; “Art Show at Y.W.C.A.: Painting and Sculpture,” _Malaya Tribune_, 27 March 1936, 15. (From NewspaperSG)&nbsp;
 
-[^26]: 
+[^26]: “A Russian Artist Dreams of Bali,” _Straits Times_, 18 October 1947, 9; “‘Singapore Needs an Art Gallery’,” _Straits Times_, 19 October 1947, 7. (From NewspaperSG)&nbsp;
 
-[^27]: 
+[^27]: Adrian Vickers, comp. and introduction, _Travelling to Bali: Four Hundred Years of Journeys_ (Kuala Lumpur: Oxford University Press, 1994), xiii–xvi. (From National Library Singapore, call no. RSEA 959.86 TRA)
 
-[^28]: 
+[^28]: Picard, _Bali_, 28–31; Vickers, _Bali_, 17.&nbsp;
 
-[^29]: 
+[^29]: Picard, _Bali_, 21–33.&nbsp;
 
-[^30]: 
-
-
-[^31]: 
-
-[^32]: 
-
-[^33]: 
-
-[^34]: 
-
-[^35]: 
-
-[^36]: 
-
-[^37]: 
-
-[^38]: 
-
-[^39]: 
-
-[^40]: 
+[^30]: “A Timeless Existence in New Bali,” _Straits Times_, 24 February 1949, 8. (From NewspaperSG)&nbsp;
 
 
-[^41]: 
 
-[^42]: 
+[^31]: F.H. Halpern, “The Dance Goes on in Bali,” _Malaya Tribune_, 18 November 1949, 5. (From NewspaperSG)
 
-[^43]: 
+[^32]: Elizabeth E. Marcos, “This Is Bali,” _Straits Times_, 23 February 1950, 11. (From NewspaperSG)
 
-[^44]: 
+[^33]: Michael Atkinson, “Goona Goona: An Authentic Melodrama of the Isle of Bali,” San Francisco Silent Film Festival, accessed 8 January 2025; https://silentfilm.org/goona-goona-an-authentic-melodrama-of-the-isle-of-bali/; Sitompul, “Visual and Textual Images of Women”; Shavit, _Bali and the Tourist Industry_, 104.&nbsp;
 
-[^45]: 
+[^34]: Shavit, _Bali and the Tourist Industry_, 101.
 
-[^46]:
+[^35]: Sitompul, “Visual and Textual Images of Women.”
+
+[^36]: “‘Black Magic’ at the Alhambra,” _Malaya Tribune_, 24 August 1934, 14. (From NewspaperSG)&nbsp;
+
+[^37]: “‘Legong’ (‘Dance of the Temple Virgins’),” _Singapore Free Press and Mercantile Advertiser_, 23 May 1935, 7. (From NewspaperSG); Peter J. Bloom and Katherine J. Hagedorn, “Legong: Dance of the Virgins,” San Francisco Silent Film Festival, accessed 25 January 2025; https://silentfilm.org/legong-dance-of-the-virgins/.&nbsp;
+
+[^38]: Vickers, _Bali_, 154–55.&nbsp;
+
+[^39]: “Balinese Dancers in Singapore,” _Straits Times_, 22 January 1935, 13; “Royal Balinese Dancers,” _Singapore Free Press and Mercantile Advertiser_, 30 January 1935, 9; “Royal Balinese Dancers,” _Morning Tribune_, 7 December 1936, 7; “Royal Balinese Dancers,” _Pinang Gazette and Straits Chronicle_, 13 August 1936, 8. (From NewspaperSG)&nbsp;
+
+[^40]: “Bali – In Song and Dance,” _Singapore Standard_, 27 March 1952, 10; “To-night the Indonesia Clubs Brings Bali to You,” _Singapore Standard_, 24 March 1952, 5. (From NewspaperSG)&nbsp;
+
+
+[^41]: Hua Xing 华兴 \[photographer\], “Pengdao Zhenmianmu” 蓬岛真面目 \[The Island Bali and Balinese\], _Liangyou Huabao_ 良友画报 \[_Young Companion_\] 14, no. 105 (May 1935): 34. (From National Library Singapore, call no. Chinese R 059.951 YC). Donated by the Singapore Federation of Chinese Clan Associations.&nbsp;
+
+[^42]: _Liangyou Huabao_ 良友画报 \[_Young Companion_\] 14, no. 105 (May 1935) and 22, no. 149 (December 1939). (From National Library Singapore, call no. Chinese R 059.951 YC). Donated by the Singapore Federation of Chinese Clan Associations.&nbsp;
+
+[^43]: Liu Huan Ran刘焕然, ed., _Heshu Dongyindu Gailan_ 荷属东印度概览 \[Netherlands East Indian Sketch\] (新加坡: 南洋报社, 1939), chapters 4, 16. (From Ya Yin Kwan Collection, National Library Singapore, call no. Chinese RDTYS 959.8 LHJ)
+
+[^44]: “Shenmi zhi Balidao” 神秘之峇厘島 \[The mysterious Bali island in the Dutch East Indies\], _Zhonghua Tuhua zazhi_中华图画杂志 \[_The China Pictorial_\] no. 7 (November 1931): 19–20. (From 中文期刊全文数据库 (1911–1949) \[Chinese Periodical Full-text Database (1911–1949\], via NLB eResources website)
+
+[^45]: _Zhaonan Huabao_ 昭南画报\[_Syonan Gaho_\] 1, no. 2 (July 1942), n.p. (From National Library Singapore, call no. RRARE 940.54259 SG)
+
+[^46]: _Xingzhou Zhoukan_ 星洲周刊 \[_Sin Chew Weekly_\], 19 April 1951, n.p. (From National Library Singapore, call no. RCLOS 059.951 SCW)
