@@ -11,7 +11,7 @@ Ahmad Sonhadji lebih dikenali sebagai tokoh tafsir di Singapura melalui
 selama 25 tahun. Namun terdapat banyak karya beliau yang belum diberi
 perhatian dan dikaji. Ini termasuklah koleksi khutbah sebanyak 112 naskah
 yang memaparkan pemikiran Ahmad Sonhadji yang dihasilkan sejak
-tahun 1971 hingga tahun 1980.1 Kesemua manuskrip ini masih utuh tidak
+tahun 1971 hingga tahun 1980.[^1] Kesemua manuskrip ini masih utuh tidak
 terusik disimpan oleh ahli keluarga beliau yang telah memberi izin kepada
 Perpustakaan Negara Singapura untuk membuat dan menyimpan salinan
 digital. Kajian telah dijalankan untuk mengenalpasti unsur-unsur yang
@@ -56,7 +56,7 @@ kepada Raja Kesultanan Solo. Ayahnya pula bernama Mohamad Milatu
 yang merupakan seorang agamawan yang pernah menuntut di beberapa
 sekolah agama (pesantren) di Jawa, Madura dan beberapa daerah lain di
 Indonesia. Beliau adalah anak pertama dari 10 orang cahaya mata dari
-pasangan ini.2
+pasangan ini.[^2]
 
 Ahmad Sonhadji adalah seorang tokoh ilmuan yang dihormati dalam
 kalangan masyarakat Melayu Islam di Singapura. Beliau telah memberikan
@@ -117,52 +117,61 @@ sehingga tarikh kematiannya.
 
 #### **Kronologi Sejarah kehidupan Ahmad Sonhadji**
 
-1922: Lahir di Surakarta Jawa Tengah Indonesia<br>
-1927: Berhijrah bersama keluarga ke Singapura<br>
-1930–36: Mendapat pendidikan awal sekolah rakyat hingga kelas lima di Rengat, Inderagiri<br>
-1937–44: Melanjutkan pelajaran di Madrasah Al-Junied dari kelas Tahdiri hingga tahun                           enam<br>
-1942: Mengasaskan Perguruan Agama Islam Rengat bersama guru beliau Hj Marzuki<br>
-1945: Mengajar sebagai guru pelatih di Madrasah Al-Junied<br>
-1945: Mendirik n rumah tangga bersama Hajah Napsiah Bte Ibrahim<br>
-1945: Mendirikan Madrasah Bustanul Arifin dan Madrasah Al-Diniyah
-di Singapura<br>
-1945: Bertugas dengan Radio Jepun sebagai pemerhati dan penterjemah
-di Singapura<br>
-1946–50: Menceburi bidang perniagaan dan keusahawanan<br>
-1951: Mengajar semula di Madrasah Al-Junied<br>
-1957–66: Bertugas pada sebelah petang dalam bidang pentadbiran di
-Qalam Press<br>
-1957: Mengasaskan PERGAS bersama angota-anggota lain dan menjadi
-setiausaha<br> 
-   bahagian pendidikan yang pertama<br>
-1958–60: Menjadi ahli Jawatankuasa Pendidikan Agama Islam,<br>   Kementerian Pelajaran Singapura sebagai wakil PERGAS melakar<br>      
-kurikulum dan menghasilkan 10 buku teks<br>
-1959–84: Mebuat kajian dan penulisan *Tafsir al-Quran di Radio (Tafsir
-‘Abr al-Athir)*<br>
-1960–62: Menjadi ahli Jawatankuasa Penasihat Islam, Kementerian Hal
-Ehwal<br>     Masyarakat Singapura<br>
-1966–70: Berkhidmat sebagai ketua guru di Sekolah Menengah Arab
-Hasanal Bolkiah di Brunei<br>
-1970–80: Menghasilkan lebih 100 Karya Khutbah Jumaat mengikut tema<br>
-1973–80: Menjadi Mudir Madrasah Al-Junied dan mengasilkan tujuh buah
-Buku Teks<br>
-1974–86: Menganggotai ahli Lembaga Rayuan MUIS<br>
-1974–92: Menjadi ahli Jawatankuasa Fatwa MUIS<br>
-1980–92: Menjadi ahli Majlis Tertinggi MUIS<br>
-1980: Menjadi Imam dan Khatib tetap Masjid Muhajirin<br>
-1983: Mencetak karya *Kaedah Tafsir Al-Quran* yang dihasilkan pada
-tahun 1970-an<br>
-1988: Mendapat Pingat Bakti Masyarakat<br>
-1991: Menjadi ahli penasihat MUIS<br>
-1991: Selesai mencetak *Tafsir Abr al-Athir* edisi lengkap setelah berkarya
-selama lebih 25 tahun<br>
-1992: Pengerusi Madrasah Irsyad dan Pengerusi Lembaga Pendidikan
-Quran Singapura<br>
-1992: Mendapat Anugerah Jasa Cemerlang dari MUIS<br>
-1995: Menubuhkan sebuah Rumah Wakaf di Johor Bahru<br>
-2002: Mendapat pengiktirafan sebagai Imam Masjid Muhajirin selama
-22 tahun pada usia 80 tahun<br>
-2010: Meninggal dunia pada 12 Ogos 2010 di Singapura
+
+**1922:**         	Lahir di Surakarta Jawa Tengah Indonesia<br>
+**1927:**           Berhijrah bersama keluarga ke Singapura<br>
+**1930–36:**	  Mendapat pendidikan awal sekolah rakyat hingga            kelas lima di
+                    Rengat, Inderagiri<br>
+**1937–44:**	Melanjutkan pelajaran di Madrasah Al-Junied dari kelas Tahdiri hingga tahun 
+                                enam<br>
+**1942:**	        Mengasaskan Perguruan Agama Islam Rengat bersama guru
+                beliau Hj Marzuki<br>
+**1945:**	        Mengajar sebagai guru pelatih di Madrasah Al-Junied<br>
+**1945:**      Mendirikan rumah tangga bersama Hajah Napsiah Bte Ibrahim<br>
+**1945:**           Mendirikan Madrasah Bustanul Arifin dan Madrasah Al-Diniyah
+                di Singapura<br>
+**1945:**           Bertugas dengan Radio Jepun sebagai pemerhati dan penterjemah
+                di Singapura<br>
+**1946–50:**        Menceburi bidang perniagaan dan keusahawanan<br>
+**1951:**         Mengajar semula di Madrasah Al-Junied	<br>	
+**1957–66:**        Bertugas pada sebelah petang dalam bidang pentadbiran di
+                Qalam Press<br>
+**1957:**           Mengasaskan PERGAS bersama angota-anggota lain dan menjadi
+                setiausaha bahagian 
+								pendidikan yang pertama<br>
+**1958–60:**        Menjadi ahli Jawatankuasa Pendidikan Agama Islam,
+                Kementerian Pelajaran 
+								Singapura sebagai wakil PERGAS melakar
+                kurikulum dan menghasilkan 10 buku teks<br>
+**1959–84:**        Membuat kajian dan penulisan *Tafsir al-Quran di Radio* (*Tafsir
+                ‘Abr al-Athir*)<br>
+**1960–62:**        Menjadi ahli Jawatankuasa Penasihat Islam, Kementerian Hal
+                Ehwal Masyarakat 
+								Singapura<br>
+**1966–70:**        Berkhidmat sebagai ketua guru di Sekolah Menengah Arab
+                Hasanal Bolkiah di 
+								Brunei	<br>
+**1970–80:**        Menghasilkan lebih 100 Karya Khutbah Jumaat mengikut tema<br>
+**1973–80:**        Menjadi Mudir Madrasah Al-Junied dan mengasilkan tujuh buah
+                Buku Teks<br>
+**1974–86:**        Menganggotai ahli Lembaga Rayuan MUIS<br>
+**1974–92:**        Menjadi ahli Jawatankuasa Fatwa MUIS<br>
+**1980–92:**        Menjadi ahli Majlis Tertinggi MUIS<br>
+**1980:**           Menjadi Imam dan Khatib tetap Masjid Muhajirin<br>
+**1983:**           Mencetak karya Kaedah Tafsir Al-Quran yang dihasilkan pada
+                tahun 1970-an<br>       **1988:**           Mendapat Pingat Bakti Masyarakat<br> 
+**1991:**           Menjadi ahli penasihat MUIS<br>
+**1991:**           Selesai mencetak Tafsir Abr al-Athir edisi lengkap setelah berkarya
+                selama lebih 25
+								tahun<br>
+**1992:**           Pengerusi Madrasah Irsyad dan Pengerusi Lembaga Pendidikan
+                Quran Singapura<br>
+**1992:**           Mendapat Anugerah Jasa Cemerlang dari MUIS<br>	
+**1995:**           Menubuhkan sebuah Rumah Wakaf di Johor Bahru<br>
+**2002:**           Mendapat pengiktirafan sebagai Imam Masjid Muhajirin selama
+                22 tahun pada usia 80
+								tahun<br>
+**2010:**           Meninggal dunia pada 12 Ogos 2010 di Singapura
 
 #### **Latar Belakang: Selepas Perpisahan**
 
@@ -175,7 +184,7 @@ membentuk jumlah penduduk minoriti terbesar sebanyak 15 peratus
 dengan jumlah 311,379 penduduk pada tahun 1970. Walaupun jumlahnya
 meningkat kepada 351,508 penduduk berbangsa Melayu, tetapi mengikut
 jumlah peratusan ia sedikit berkurang kepada 14.6 peratus pada
-tahun 1980.3
+tahun 1980.[^3]
 
 Isu-isu yang dihadapi oleh masyarakat Melayu semenjak era perpisahan
 di antara Singapura dan Malaysia pada tahun 1965 sering mendapat
@@ -251,7 +260,7 @@ wanita Melayu dengan kelulusan yang sama adalah seramai 806 orang
 sahaja pada tahun 1980. Manakala pendapatan purata pekerja lelaki Melayu
 diantara S$386–S$602, jumlah purata yang diterima oleh golongan wanita
 pula adalah di antara S$262–S$416 sahaja. Kedua-dua bidang pendidikan
-dan pekerjaan ini lebih dikuasai golongan lelaki berbanding wanita.4
+dan pekerjaan ini lebih dikuasai golongan lelaki berbanding wanita.[^4]
 
 Menurut kajian, terdapat perubahan pada status wanita dalam masa
 sedekad antara tahun 1970 dan 1980 dalam bidang ekonomi dan pendidikan
@@ -262,19 +271,19 @@ Walaupun wanita Singapura telah berjaya meningkatkan pencapaian
 mereka dari segi jumlah pendaftaran dalam institusi pendidikan,
 pencapaian dalam pendidikan tinggi, peningkatan dalam tenaga buruh dan
 meningkatkan pendapatan mereka antara 1970–1990, namun pencapaian
-kaum lelaki masih jauh mengatasi pencapaian wanita dalam hal-hal ini.5
+kaum lelaki masih jauh mengatasi pencapaian wanita dalam hal-hal ini.[^5]
 
 Penceraian juga merupakan antara isu yang memberikan kesan terutama
 kepada wanita dan anak-anak. Jumlah kes penceraian dalam kalangan
 masyarakat Singapura pada tahun 1970 adalah sebanyak 6,967 kes
 bersamaan dengan 0.3 peratus daripada jumlah keseluruhan penduduk. Pada tahun 1980, kes penceraian meningkat lebih 100 peratus dengan
-jumlah 16,664 kes atau sebanyak 0.7 peratus.6
+jumlah 16,664 kes atau sebanyak 0.7 peratus.[^6]
 
 Institusi keluarga adalah penting bagi wanita kerana ia memberi jaminan
 keselamatan kepada mereka dan anak-anak. Jumlah anak-anak daripada
 wanita yang berkerjaya adalah sebanyak 60,240. Jumlah kanak-kanak yang
 diasuh oleh suri rumah sepenuh masa pula lebih tiga kali ganda berbanding
-jumlah wanita yang bekerja sebanyak 232,125 orang pada tahun 1980.7
+jumlah wanita yang bekerja sebanyak 232,125 orang pada tahun 1980.[^7]
 
 Kebajikan dan masa depan anak-anak sangat penting bagi menentukan
 kebahagian wanita. Jika penceraian tidak diberikan perhatian dan
@@ -341,7 +350,7 @@ kebajikan wanita dan anak-anak. Laporan banci kebangsaan pada tahun
 1980 menunjukkan jumlah wanita Melayu adalah sebanyak 76,381.
 Manakala yang berkerjaya hanya sebanyak 22, 975 dan jumlah majoriti
 wanita yang tidak bekerja dan mengharapkan sokongan suami atau bapa
-adalah sebanyak 53,405.8
+adalah sebanyak 53,405.[^8]
 
 Ahmad Sonhadji menjelaskan bahawa memberikan susu ibu kepada
 bayi merupakan makanan asas bagi bayi terutama yang baharu lahir
@@ -378,7 +387,7 @@ tersebut. Laporan banci kebangsaan menunjukkan jumlah penceraian
 pada tahun 1970 adalah sebanyak 6,967 kes dan meningkat secara drastik
 kepada 16,664 kes pada tahun 1980. Jumlah ini menunjukkan peningkatan
 sebanyak lebih 100 peratus dengan jumlah penduduk pada masa itu masingmasing
-berjumlah 2.027 juta dan 2.4 juta.9
+berjumlah 2.027 juta dan 2.4 juta.[^9]
 
 Penceraian juga memberikan kesan yang buruk bukan sahaja terhadap
 pasangan tetapi menjejas kebajikan anak-anak yang terlibat dalam
@@ -429,7 +438,7 @@ sosio-agama dalam khutbah-khutbahnya. Ramai karyawan utama
 Melayu telah menggunakan karya penulisan mereka bukan sahaja sebagai
 bahan seni tetapi sebagai platform untuk menyampaikan nilai-nilai
 penting, berinteraksi dengan masyarakat mengenai isu-isu penting dan mengutarakan kebimbangan mereka terhadap sesuatu perkara dalam
-perkembangan masyarakat.10
+perkembangan masyarakat.[^10]
 
 Jenayah menjadi indikator kepada tinggi atau rendah adab, etika dan
 integriti dalam sesebuah masyarakat. Pada era pasca perpisahan dengan
@@ -473,24 +482,24 @@ pemerintah pada tahun-tahun 1970-an.
 
 Lebih membimbangkan lagi, ramai yang terjebak dalam penagihan dadah
 ini terdiri daripada para pelajar sekolah yang berumur semuda 13 tahun.
-Mereka menggunakan wang saku untuk membeli ganja dan juga dadah.11
+Mereka menggunakan wang saku untuk membeli ganja dan juga dadah.[^11]
 
 Pada bulan Oktober tahun 1975, 3,619 orang ditangkap kerana menagih
 dadah, sebahagian besar mengambil dadah heroin dengan jumlah 1,896 atau
 88.2 peratus adalah pesalah belia di bawah umur 30 tahun. Perkembangan
-ini membimbangkan banyak pihak.12 Pada tahun 1975 sahaja, terdapat sebanyak 2,200 orang telah terjerumus ke kancah dadah dan jumlah
+ini membimbangkan banyak pihak.[^12] Pada tahun 1975 sahaja, terdapat sebanyak 2,200 orang telah terjerumus ke kancah dadah dan jumlah
 sebanyak S$26 juta telah dibazirkan untuk menampung kos penagihpenagih
-dadah ini.13 Hanya setahun selepas itu, jumlahnya meningkat
+dadah ini.[^13] Hanya setahun selepas itu, jumlahnya meningkat
 lebih dua kali ganda menjadikan jumlahnya sebanyak 6,000 orang penagih
-dadah ditangkap sepanjang tahun 1976.14
+dadah ditangkap sepanjang tahun 1976.[^14]
 
 Terdapat usaha yang dilakukan secara kolektif di antara permerintah, ibu
 bapa, pemimpin akar umbi dan pihak sekolah bagi mendidik masyarakat
 terutama golongan belia untuk memupuk kesedaran tentang bahaya dadah.
 Ceramah dengan pelbagai tajuk berkaitan dadah diadakan di sekolah-sekolah,
-kelab masyarakat dan juga di madrasah.15 Golongan yang terlibat dalam
+kelab masyarakat dan juga di madrasah.[^15] Golongan yang terlibat dalam
 penagihan dadah ini bukan hanya daripada kalangan lelaki tetapi terdapat
-juga kaum wanita yang terjebak dan ditangkap oleh pihak berkuasa.16
+juga kaum wanita yang terjebak dan ditangkap oleh pihak berkuasa.[^16]
 
 Transliterasi: Sebabnya iri hati itu ditegah, ialah dikhuatiri<br>
 kelak bertukar menjadi hasad atau dengki kerana siapalah<br>
@@ -579,7 +588,7 @@ masa yang lama untuk mengubah situasi ini. Masyarakat yang boleh dikira
 berjaya menurut beliau adalah anggota masyarakatnya mempunyai nilai
 moral yang tinggi dan memerhatikan prinsip-prinsip yang diajarkan oleh
 agama mereka. Ia perlu diperlihatkan terlebih dahulu oleh para pemimpin
-yang adil dan para agamawan yang bermoral.17
+yang adil dan para agamawan yang bermoral.[^17]
 
 Antara jenayah pecah amanah yang dilaporkan pada tahun 1968 adalah
 kes jenayah Gemini Chit Fund yang melibatkan penyelewengan wang
@@ -588,7 +597,7 @@ wang sebanyak S$24.2 juta pada tahun 1978 yang ditumpaskan oleh
 pasukan polis. Kedua-dua kes ini diketuai oleh ASP Abu Bakar dan beliau
 dianugerahkan Pingat Kepujian Tertinggi oleh Pasukan Polis Singapura
 kerana berjaya menyelesaikan kes yang rumit tersebut dalam masa
-dua tahun.18
+dua tahun.[^18]
 
 Masih terdapat banyak kejadian pecah amanah dalam kalangan masyarakat
 Singapura yang dilaporkan oleh media massa pada tahun-tahun 1970-an.
@@ -602,7 +611,7 @@ tipu, pemalsuan maklumat dan penipuan bil dagangan terutama yang
 melibatkan industri perkapalan. Ini bermakna, pada tahun 1979, terdapat
 55 kes pecah amanah dalam kalangan 100,000 penduduk berbanding hanya
 18 kes bagi setiap 100,000 penduduk pada tahun 1970 di Singapura pada
-masa itu.19
+masa itu.[^19]
 
 Transliterasi: Di antara jenis makan yang haram itu ialah<br>
 makan suap (rasuah). Ia merupakan penyakit yang sangat<br>
@@ -726,4 +735,80 @@ Singapura for more than a decade. His research interests include the history of 
 manuscripts, the development of Quran interpretations in Singapore, and thoughts of
 local religious scholars in the socio-religious context.</div>
 
+#### **BIBLIOGRAFI**
+       
 
+Azhar Ibrahim. “Resisting Cultural Amnesia: Malay Literature of Dignified Presence.” In [_Majulah! 50 Years of Malay/Muslim Community in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202511186). Edited by Zainul Abideen Rashid and Norshahril Saat. Singapore: World Scientific, 2016, 465–77. (From National Library Singapore, call no. RSING 305.697095957 MAJ)
+
+_Berita Harian_. “[Kempen Basmi Salahguna Dadah Pada Pelajar-Pelajar Diperhebat](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19740919-1.2.24.3)” \[The campaign to eradicate drug abuse among students is intensified\]. 19 September 1974, 5. (From NewspaperSG)
+
+—. Mohd Guntor Sadali, “[Jenayah: Penyakit Masyarakat Yang Ubatnya Dianggap Masih Belum Memberikan Kesan](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19750530-1.2.27.2)” \[Crime: A disease of society for which the supposed cure has yet to produce an effect\]. 30 May 1975, 8. (From NewspaperSG)
+
+—. “[11 Wanita Antara 177 Yg Ditahan Kerana Dadah](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19750929-1.2.13)” \[11 women among the 177 arrested for drugs\]. 29 September 1975, 1. (From NewspaperSG)
+
+—. “[Pabila Dadah Menyerang](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19751213-1.2.2.3)” \[When drugs attack\]. 13 December 1975, 1. (From NewspaperSG)
+
+—. “[Usaha-Usaha Membasmi Penagihan Dadah](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19760313-1.2.2.1)” \[Efforts to eradicate drug addiction\], 13 March 1976, 1. (From NewspaperSG)
+
+—. [Lebih 4,000 Penagih Dadah Diberkas](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19770123-1.2.19)” \[More than 4,000 drug addicts were arrested\]. 23 January 1977, 2. (From NewspaperSG)
+
+—. Mohd Maidin, “[Orang Yang Bongkar Kes Pecah Amanah Terbesar](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19790114-1.2.9)” \[The person who uncovered the biggest breach of trust case\]. 14 January 1979, 1. (From NewspaperSG)
+
+—. &nbsp;[Masalah Dadah](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19780204-1.2.21)” \[Drug problem\], _Berita Harian_, 4 February 1978, 2; “Ceramah kesan dadah.” 24 March 1980, 3. (From NewspaperSG)
+
+—. “[Jenayah ‘Kolar Putih’ Kian Meningkat Di Sini](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19801206-1.2.52)” \[White collar crime is on the rise here\]. 6 December 1980, 8. (From NewspaperSG)
+
+Debbie Eng Bee Tan Porter. _The Status of Women in a Transitional Society: Male-Female Differentials in Education, Occupation and Earnings in Singapore_.Canada: University of New Brunswick, 1997.
+
+Khoo, Chian Kim. [_Census of Population 1980 Singapore, Release No. 1. Advance Release of Basic Demographic and Geographic Data_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4181629). Singapore: Department of Statistics, 1981. (From National Library Singapore, call no. RCLOS 312.095957 CEN)
+
+—. [_Census of Population 1980 Singapore, Release No. 7. Income and Transport_](https://catalogue.nlb.gov.sg/search/card?recordId=200090592). Singapore: Department of Statistics. (From PublicationSG)  
+  
+—. [_Census of Population 1980, Singapore. Release no. 9, Religion and Fertility_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4181792). Singapore: Department of Statistics, 1981. (From National Library Singapore, call no. RCLOS 312.095957 CEN)
+
+M. Qusairy Thaha, [_Pemikiran Sosio-Agama Ahmad Sonhadji Mohamad Melalui Koleksi Khutbah (1971–1980)_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205765699) \[Ahmad Sonhadji Mohamad's socio-religious thought through a collection of sermons (1971–1980)\]. Singapore: Persatuan Ulama dan Guru-Guru Islam Singapura (PERGAS), 2021. (From National Library Singapore, call no. R 297.3705957 MOH)
+
+Norman Suratman, [_Menyongsong Arus: Biodata Ahmad Sonhadji Mohamad_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8757530) \[Facing the tide: Biography of Ahmad Sonhadji Mohamad\]. Singapura: Pustaka ASB Mohamad, 1997. (From National Library Singapore, call no. Malay RSING 922.97 NOR)
+
+Zulkifli Haji Mohd Yusoff. [_A Study of Tafsir ’Abr Al-Athir and Sonhadji’s Methodology in Tafsir Al-Quran_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12923770)_._ Singapura: Ahmad Sonhadji, 2002. (From National Library Singapore, call no. RCLOS 297.122601 ZUL-\[UAS\])
+
+#### **NOTES**
+      
+
+[^1]: M. Qusairy Thaha, [_Pemikiran Sosio-Agama Ahmad Sonhadji Mohamad Melalui Koleksi Khutbah (1971–1980)_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205765699) \[Ahmad Sonhadji Mohamad's socio-religious thought through a collection of sermons (1971–1980)\] (Singapore: Persatuan Ulama dan Guru-Guru Islam Singapura (PERGAS), 2021). (From National Library Singapore, call no. R 297.3705957 MOH)
+
+[^2]:  Norman Suratman, [_Menyongsong Arus: Biodata Ahmad Sonhadji Mohamad_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8757530) \[Facing the tide: Biography of Ahmad Sonhadji Mohamad\] (Singapura: Pustaka ASB Mohamad, 1997) (From National Library Singapore, call no. Malay RSING 922.97 NOR); Zulkifli Haji Mohd Yusoff, [_A Study of Tafsir ’Abr Al-Athir and Sonhadji’s Methodology in Tafsir Al-Quran_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12923770) (Singapura: Ahmad Sonhadji, 2002). (From National Library Singapore, call no. RCLOS 297.122601 ZUL-\[UAS\])
+
+[^3]: Khoo Chian Kim, [_Census of Population 1980 Singapore, Release No. 1. Advance Release of Basic Demographic and Geographic Data_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4181629) (Singapore: Department of Statistics, 1981), 2. (From National Library Singapore, call no. RCLOS 312.095957 CEN)
+
+[^4]: Khoo Chian Kim, [_Census of Population 1980 Singapore, Release No. 7. Income and Transport_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200090592) (Singapore: Department of Statistics, 1981), 119. (From PublicationSG)  
+  
+[^5]: Debbie Eng Bee Tan Porter, _The Status of Women in a Transitional Society: Male-Female Differentials in Education, Occupation and Earnings in Singapore_ (Canada: University of New Brunswick, 1997)  
+  
+[^6]: Khoo, [_Basic Demographic and Geographic Data_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4181629), 2.
+
+[^7]: Khoo Chian Kim, [_Census of Population 1980, Singapore. Release no. 9, Religion and Fertility_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4181792) (Singapore: Department of Statistics, 1981), 121–23. (From National Library Singapore, call no. RCLOS 312.095957 CEN)
+
+[^8]: Khoo Chian Kim, [_Census of Population 1980, Singapore. Release no. 4, Economic Characteristics_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4181626) (Singapore: Department of Statistics, 1981), 293–95. (From National Library Singapore, call no. RCLOS 312.095957 CEN)
+
+[^9]: Khoo, [_Basic Demographic and Geographic Data_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4181629), 2.
+
+[^10]: Azhar Ibrahim, “Resisting Cultural Amnesia: Malay Literature of Dignified Presence,” in [_Majulah! 50 Years of Malay/Muslim Community in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202511186), ed. Zainul Abideen Rashid and Norshahril Saat (Singapore: World Scientific, 2016), 466. (From National Library Singapore, call no. RSING 305.697095957 MAJ)
+
+[^11]: “[Kempen Basmi Salahguna Dadah Pada Pelajar-Pelajar Diperhebat](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19740919-1.2.24.3)” \[The campaign to eradicate drug abuse among students is intensified\], _Berita Harian_, 19 September 1974, 5. (From NewspaperSG)
+
+[^12]: “[Pabila Dadah Menyerang](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19751213-1.2.2.3)” \[When drugs attack\], _Berita Harian_, 13 December 1975, 1. (From NewspaperSG)
+
+[^13]: “[Usaha-Usaha Membasmi Penagihan Dadah](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19760313-1.2.2.1)” \[Efforts to eradicate drug addiction \],&nbsp; _Berita Harian_, 13 March 1976, 1. (From NewspaperSG)
+
+[^14]: “[Lebih 4,000 Penagih Dadah Diberkas](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19770123-1.2.19)” \[More than 4,000 drug addicts were arrested\] _Berita Harian_, 23 January 1977, 2. (From NewspaperSG)
+
+[^15]: "[Masalah Dadah](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19780204-1.2.21)” \[Drug problem\], _Berita Harian_, 4 February 1978, 2; “Ceramah Kesan Dadah,” _Berita Harian_, 24 March 1980, 3. (From NewspaperSG)
+
+[^16]: “[11 Wanita Antara 177 Yg Ditahan Kerana Dadah](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19750929-1.2.13)” \[11 women among the 177 arrested for drugs\], _Berita Harian_, 29 September 1975, 1. (From NewspaperSG)
+
+[^17]: Mohd Guntor Sadali, “[Jenayah: Penyakit Masyarakat Yang Ubatnya Dianggap Masih Belum Memberikan Kesan](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19750530-1.2.27.2)” \[Crime: A disease of society for which the supposed cure has yet to produce an effect\], _Berita Harian_, 30 May 1975, 8. (From NewspaperSG)
+
+[^18]: Mohd Maidin, “[Orang Yang Bongkar Kes Pecah Amanah Terbesar](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19790114-1.2.9)” \[The person who uncovered the biggest breach of trust case\], _Berita Harian_, 14 January 1979, 1. (From NewspaperSG)
+
+[^19]: “[Jenayah ‘Kolar Putih’ Kian Meningkat Di Sini](https://eresources.nlb.gov.sg/newspapers/digitised/article/beritaharian19801206-1.2.52)” \[White collar crime is on the rise here\], _Berita Harian_, 6 December 1980. (From NewspaperSG)
