@@ -119,52 +119,54 @@ The lasting image of Bali as an island paradise showcases the remarkable power o
 
 #### **NOTES**
 
-[^1]: 
-
-[^2]: 
-
-[^3]: 
-
-[^4]: 
-
-[^5]: 
-
-[^6]: 
-
-[^7]: 
-
-[^8]: 
-
-[^9]: 
-
-[^10]: 
+[^1]: The movie is based on American author Elizabeth Gilbert’s bestselling memoir, _Eat, Pray, Love: One Woman’s Search for Everything Across Italy, India and Indonesia_, published in 2006. The memoir chronicles Gilbert’s travels around the world after her divorce and what she discovered.&nbsp;
 
 
+[^2]: Jeffrey Say and Yu Jin Seng, “The Modern and Its Histories in Singapore Art,” in _Intersections, Innovations, Institutions: A Reader in Singapore Modern Art_ (Singapore: World Scientific Publishing Co. Pte. Ltd., 2023), 26. (From National Library Singapore, call no. RSING 709.595709034 INT)
 
-[^11]: 
+[^3]: Liu Kang, oral history interview by Tan Beng Luan, 13 January 1983, transcript and MP3 Audio, Reel/Disc 39 of 74, National Archives of Singapore (accession no. 000171), 364. \[English version translated and annotated by Tay Jun Hao and Alina Soh.\]
 
-[^12]: 
+[^4]: Michel Picard, _Bali: Cultural Tourism and Touristic Culture_ (Singapore: Archipelago Press, 1996), 18–19. (From National Library Singapore, call no. RSING 959.86 PIC)
 
-[^13]: 
+[^5]: Picard, _Bali_, 19; David Shavit, _Bali and the Tourist Industry: A History, 1906–1942_ (Jefferson, N.C.: McFarland &amp; Co., 2003), 7. (From National Library Singapore, call no. RSEA 338.47915986 SHA)&nbsp;
 
-[^14]: 
+[^6]: Shavit, _Bali and the Tourist Industry_, 7; Willard A. Hanna, _Bali Chronicles: A Lively Account of the Island’s History from Early Times to the 1970s_ (Singapore: Periplus, 2004), 170. (From National Library Singapore, call no. RSEA 959.86 HAN)
 
-[^15]: 
+[^7]: Adrian Vickers, _Bali: A Paradise Created_ (Tokyo: Tuttle Publishing 2012), 113, 130–32. (From National Library Singapore, call no. RSEA 959.862 VIC); Shavit, _Bali and the Tourist Industry_, 10–11. &nbsp;
 
-[^16]: 
+[^8]: Shavit, _Bali and the Tourist Industry_, 9.
 
-[^17]: 
+[^9]: Picard, _Bali_, 22; Shavit, _Bali and the Tourist Industry_, 24.
 
-[^18]: 
-
-[^19]: 
-
-[^20]: 
+[^10]: Orient Touring Company, _Travel Through the Mystic Isles of Java, Sumatra and Bali_ (n.p.: n.p., 1926). (From National Library Singapore, call no. RSING 915.980422 ORI-\[SEA); “The Romance of the East, the Comfort of the West in Java, Sumatra, Bali,” in _Indonesia Travel Ephemera_ (Java: Travellers Official Information Bureau of Netherland India, c. 1920s –1930s). (From John Koh Collection, National Library Singapore, call no. RCLOS 915.9804 JOH-\[JK\]). Donated by Cynthia and John Koh.
 
 
-[^21]: 
 
-[^22]: 
+[^11]: Picard, _Bali_, 24; Shavit, _Bali and the Tourist Industry_, 50.
+
+[^12]: Jojor Ria Sitompul, “Visual and Textual Images of Women: 1930s Representation of Colonial Bali as Produced by Men and Women Travellers” (PhD diss., University of Warwick, 2008), 116, http://go.warwick.ac.uk/wrap/4107.
+
+[^13]: Vickers, _Bali_, 136–40.
+
+[^14]: Sitompul, “Visual and Textual Images of Women,” 144.
+
+
+[^15]: Shavit, _Bali and the Tourist Industry_, 18.&nbsp;
+
+[^16]: Picard, _Bali_, 28–29.
+
+[^17]: Shavit, _Bali and the Tourist Industry_, 73–75; John Seed, “The Last Orientalists: European Artists in Colonial Bali,” Sotheby’s, 26 February 2020, https://www.sothebys.com/en/articles/the-last-orientalists-european-artists-in-colonial-bali.
+
+[^18]: Anak Agung Ayu Wulandari, “The Role of Pitamaha in Balinese Artistic Transformation: A Comparison Between Kamasan and Gusti Nyoman Lempad Artistic Style,” _Humaniora_ 7, no. 4 (October 2016): 463–72, https://journal.binus.ac.id/index.php/Humaniora/article/download/3599/2979/0; Shavit, _Bali and the Tourist Industry_, 81.&nbsp;
+
+[^19]: Seed, “The Last Orientalists.”&nbsp;
+
+[^20]: Seed, “The Last Orientalists.”
+
+
+[^21]: Shavit, _Bali and the Tourist Industry_; Seed, “The Last Orientalists.”
+
+[^22]: “Y.W.C.A. “Drenched in Sunlight,” _Straits Times_, 28 February 1933, 12; “Bali Through Eyes of a Painter: Exotic Colours of the South Seas,” _Singapore Free Press and Mercantile Advertiser_, 13 March 1935, 9; “Untitled,” _Straits Times_, 27 February 1937, 1; “Balinese Dances at Art Exhibition Today,” _Straits Times_, 8 March 1937, 13; Mary Heathcott, “Le Mayeur’s Exhibition: Polok Amid Paintings of Her Native Bali,” _Singapore Free Press and Mercantile Advertiser_, 21 May 1941, 5. (From NewspaperSG)
 
 [^23]: 
 
