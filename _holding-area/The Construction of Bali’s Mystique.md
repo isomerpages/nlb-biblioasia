@@ -94,6 +94,10 @@ The film industry further popularised the image of Bali not only in the West, bu
 In Singapore, one of the earliest mentions of a screening of a Bali-based film was in 1934 titled _Black Magic_ at the Alhambra theatre. This was likely _Goona Goona_ but released under a different name.[^36] Another film shot on location in Bali was _Legong: Dance of the (Temple) Virgins_, which opened in Singapore in 1935 at the Alhambra, featuring an all-Balinese cast and filmed in technicolour. Centred on a _legong_ dancer and a gamelan musician, the film was a box-office success in America and played for 10 weeks at the New York World Theatre in 1935.[^37]
 
 
+![](/images/Vol%2021%20Issue%201/Bali's%20Mystique/mystique_alhambra.jpg)
+<div style="background-color: white;">This film titled <i>Black Magic</i> is most likely André Roosevelt and Armand Denis’s <i>Goona Goona</i> released under a different name. <i>Image reproduced from “Black Magic,” Singapore Free Press and Mercantile Advertiser, 27 August 1934, 7. (From NewspaperSG).  </i></div>
+
+
 Balinese dance troupes first gained international exposure at the Colonial Exhibition in Paris before gradually touring the world, presumably as part of cultural missions.[^38] In 1935, a group known as the Royal Balinese Dancers performed at the Capitol in Singapore. Comprising 40 dancers and gamelan musicians, the troupe presented a programme of 11 items which included stories from the Hindu epic Mahabharata as well as Balinese, Javanese and Dayak dances. The following year, after a successful tour of India, Burma (Myanmar) and Ceylon (Sri Lanka), the same troupe returned to Singapore for another performance.[^39]
 
 In 1952, the Indonesian Fine Art Movement Troupe performed at the Victoria Theatre on their way back home from the Colombo Exhibition. The 50-member strong troupe included Sumatran and Balinese dancers.[^40]
