@@ -555,8 +555,8 @@ dan menjalani corak hidup yang sama adalah berlawanan dengan sifat
 dan peraturan Tuhan. Ini adalah kerana kemampuan manusia semuanya
 berbeza-beza dan kurniaan Tuhan adalah bersesuaian dengan kemampuan
 manusia tadi.
-![](/images/COA%202020/Pemikiran%20Sosio%20Agama/6__Khutbah__Memelihara_Amanah__.jpg)
-<img src="images/COA%202020/Pemikiran%20Sosio%20Agama/6__Khutbah__Memelihara_Amanah__.jpg" style="width:50%;">
+
+<img src="/images/COA%202020/Pemikiran%20Sosio%20Agama/6__Khutbah__Memelihara_Amanah__.jpg" style="width:50%;">
  <div style="background-color: white;">Khutbah  <i>“Memelihara Amanah”. </i> <i>Nombor Rujukan NLB 040001606 bertarikh 3 September 1974.
 bersamaan 16 Syabaan 1394.</i></div>
 
@@ -640,6 +640,10 @@ melibatkan industri perkapalan. Ini bermakna, pada tahun 1979, terdapat
 18 kes bagi setiap 100,000 penduduk pada tahun 1970 di Singapura pada
 masa itu.[^19]
 
+<img src="/images/COA%202020/Pemikiran%20Sosio%20Agama/7__Khutbah__Makanlah_Dari_Jenis_Yang_Baik_Baik__.jpg" style="width:50%;">
+ <div style="background-color: white;">Khutbah  <i>“Makanlah Dari Jenis Yang Baik-Baik”. Nombor Rujukan NLB 040001641 bertarikh 24 Disember
+1975 bersamaan 22 Zulhijjah 1395.</i></div>
+
 Transliterasi: Di antara jenis makan yang haram itu ialah<br>
 makan suap (rasuah). Ia merupakan penyakit yang sangat<br>
 berbahaya kepada masyarakat dan juga negara. Rasuah ibarat<br>
@@ -667,8 +671,12 @@ kepada Allah, Rasul dan Uli al-Amr (pihak yang berpakaran dan punya
 kuasa). Kedudukan seorang manusia itu terletak pada teguh pendiriannya,
 baik jujur dalam segala tutur kata dan perbuatannya. Tegak berdiri dengan
 batas-batas yang ditetapkan oleh Allah s.w.t, tidak menuruti hawa nafsu,
-suka dan benci sesuatu kerana Allah s.w.t, dan cepat bertaubat apabila
-melakukan dosa.
+suka dan benci sesuatu kerana Allah s.w.t, dan cepat bertaubat apabilamelakukan dosa.
+
+<img src="/images/COA%202020/Pemikiran%20Sosio%20Agama/8__Khutbah__Jaminan_Kebaikan_Akhlak_dalam.jpg" style="width:50%;">
+ <div style="background-color: white;">Khutbah  <i>“Jaminan Kebaikan Akhlak dalam
+Islam”. Nombor Rujukan NLB 040001665 bertarikh
+27 September 1979 bersamaan 6 Zulkaedah 1399.</i></div>
 
 Transliterasi: Jika kita perhatikan, merenung sejenak ke<br>
 arah ayat-ayat suci Al-Quran yang memperkatakan tentang<br>
