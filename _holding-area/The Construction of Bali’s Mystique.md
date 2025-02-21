@@ -198,13 +198,13 @@ The lasting image of Bali as an island paradise showcases the remarkable power o
 
 [^36]: “[‘Black Magic’ at the Alhambra](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19340824-1.2.107),” _Malaya Tribune_, 24 August 1934, 14. (From NewspaperSG)&nbsp;
 
-[^37]: “‘Legong’ (‘Dance of the Temple Virgins’),” _Singapore Free Press and Mercantile Advertiser_, 23 May 1935, 7. (From NewspaperSG); Peter J. Bloom and Katherine J. Hagedorn, “Legong: Dance of the Virgins,” San Francisco Silent Film Festival, accessed 25 January 2025; https://silentfilm.org/legong-dance-of-the-virgins/.&nbsp;
+[^37]: “[‘Legong’ (‘Dance of the Temple Virgins’)](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19350523-1.2.48.1),” _Singapore Free Press and Mercantile Advertiser_, 23 May 1935, 7. (From NewspaperSG); Peter J. Bloom and Katherine J. Hagedorn, “Legong: Dance of the Virgins,” San Francisco Silent Film Festival, accessed 25 January 2025; https://silentfilm.org/legong-dance-of-the-virgins/.&nbsp;
 
-[^38]: Vickers, _Bali_, 154–55.&nbsp;
+[^38]: Vickers, [_Bali_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5572996), 154–55.&nbsp;
 
-[^39]: “Balinese Dancers in Singapore,” _Straits Times_, 22 January 1935, 13; “Royal Balinese Dancers,” _Singapore Free Press and Mercantile Advertiser_, 30 January 1935, 9; “Royal Balinese Dancers,” _Morning Tribune_, 7 December 1936, 7; “Royal Balinese Dancers,” _Pinang Gazette and Straits Chronicle_, 13 August 1936, 8. (From NewspaperSG)&nbsp;
+[^39]: “[Balinese Dancers in Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19350122-1.2.71),” _Straits Times_, 22 January 1935, 13; “[Royal Balinese Dancers](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19350130-1.2.44),” _Singapore Free Press and Mercantile Advertiser_, 30 January 1935, 9; “[Royal Balinese Dancers](https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19361207-1.2.44),” _Morning Tribune_, 7 December 1936, 7; “[Royal Balinese Dancers](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19360813-1.2.53),” _Pinang Gazette and Straits Chronicle_, 13 August 1936, 8. (From NewspaperSG)&nbsp;
 
-[^40]: “Bali – In Song and Dance,” _Singapore Standard_, 27 March 1952, 10; “To-night the Indonesia Clubs Brings Bali to You,” _Singapore Standard_, 24 March 1952, 5. (From NewspaperSG)&nbsp;
+[^40]: “[Bali – In Song and Dance](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19520327-1.2.159),” _Singapore Standard_, 27 March 1952, 10; “[To-night the Indonesia Clubs Brings Bali to You](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19520324-1.2.77.1),” _Singapore Standard_, 24 March 1952, 5. (From NewspaperSG)&nbsp;
 
 
 [^41]: Hua Xing 华兴 \[photographer\], “Pengdao Zhenmianmu” 蓬岛真面目 \[The Island Bali and Balinese\], _Liangyou Huabao_ 良友画报 \[_Young Companion_\] 14, no. 105 (May 1935): 34. (From National Library Singapore, call no. Chinese R 059.951 YC). Donated by the Singapore Federation of Chinese Clan Associations.&nbsp;
