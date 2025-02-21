@@ -17,6 +17,12 @@ Mention Bali and the image that springs to mind is that of a paradise on earth, 
 The construction of Bali as a beautiful, mysterious and exotic destination is an effort that goes back to the early 20th century. An image initially constructed by colonial administrators who wanted to create a tourist destination eventually took on a life of its own as artists, writers, photographers, journalists and filmmakers descended on the island.
 
 
+![](/images/Vol%2021%20Issue%201/Bali's%20Mystique/mystique_nespapertop.jpg)
+
+![](/images/Vol%2021%20Issue%201/Bali's%20Mystique/mystique_nespaperbottom.jpg)
+<div style="background-color: white;">Depictions of Balinese dance in Singapore newspapers bolstered the island’s reputation as an exotic paradise. <i>(Top) Image reproduced from F.H. Halpern, “The Dance Goes on in Bali,” Malaya Tribune, 18 November 1949, 5. (From NewspaperSG). (Bottom) Source: The Straits Annual, 1 January 1951 © SPH Media Limited. Permission required for reproduction. </i></div>
+
+
 &nbsp;Among the artists who were influenced by this image of Bali and who, in turn, also helped to burnish this image in the region were four pioneering Singapore artists – Liu Kang, Chen Chong Swee, Chen Wen Hsi and Cheong Soo Pieng. In 1952, they embarked on a seven-week journey across Indonesia from 8 June to 28 July, culminating in Bali. Inspired by the island’s lush landscapes, rich culture and artistic&nbsp;traditions, the artists’ 1953 exhibition of paintings and sketches arising from this trip is considered a major milestone in Singapore’s art history.[^2]
 
 In his oral history interview, Liu Kang recalled: “We had an impression of the island of Bali from a long time ago because we regularly saw reports on Bali in books and illustrated magazines, especially those with pictures introducing Bali. \[We\] felt that Bali had incredible natural scenery, the attire their locals wore and their dances were all excellent subject matter for drawing.”[^3]
