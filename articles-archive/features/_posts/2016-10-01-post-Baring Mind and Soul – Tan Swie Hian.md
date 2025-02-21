@@ -1,9 +1,11 @@
 ---
-title: Baring Mind and Soul – Tan Swie Han
+title: Baring Mind and Soul – Tan Swie Hian
 date: 2016-10-01
 permalink: /vol-12/issue-3/oct-dec-2016/baring-mind-soul/
 image: /images/Vol-12-issue-3/baring-mind-and-soul/01-baring-mind-soul.jpg
 layout: post
+description: ""
+variant: tiptap
 ---
 #### After a long absence of 43 years, Singapore’s celebrated multi-hyphenate artist returns to the National Library with a new solo exhibition. **Chung Sang Hong** tells you more.
 
@@ -117,7 +119,7 @@ Also look out for the smaller scale roving exhibition on Tan’s literary works 
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Vol-12-issue-3/baring-mind-and-soul/chung_sang_hong.png">
-	<b>Chung Sang Hong</b> is Assistant Director (Exhibitions & Curation) at the National Library, Singapore. He is the lead curator of the “Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creations” exhibition.
+	<b>Chung Sang Hong</b> is Assistant Director (Exhibitions &amp; Curation) at the National Library, Singapore. He is the lead curator of the “Anatomy of a Free Mind: Tan Swie Hian’s Notebooks and Creations” exhibition.
 </div>
 
 <a href="/vol-12/issue-3/oct-dec-2016/"><center>Back to Issue</center></a>

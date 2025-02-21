@@ -469,7 +469,7 @@ Tan Swie Hian, whose paintings have fetched record prices, was in fact better kn
 <img src="/images/Vol-12-issue-3/tan-swie-han/The-Squirrel-Dance.jpg" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-3/oct-dec-2016/baring-mind-soul/">**Baring Mind and Soul – Tan Swie Han**</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-12/issue-3/oct-dec-2016/baring-mind-soul/">**Baring Mind and Soul – Tan Swie Hian**</a>
 
 After a long absence of 43 years, Singapore’s celebrated multi-hyphenate artist returns to the National Library with a new solo exhibition.&nbsp;**Chung Sang Hong**&nbsp;tells you more.
 

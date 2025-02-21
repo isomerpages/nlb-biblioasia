@@ -331,9 +331,10 @@ memastikan kesejahteraan keluarga dan ketaatannya kepada Allah s.w.t
 dan suami.
 
 <img src="/images/COA%202020/Pemikiran%20Sosio%20Agama/2__Khutbah__Memberi_Susu_Badan_Pada_Bayi__.jpg" style="width:50%;">
- <div style="background-color: white;">Khutbah “Memberi Susu Badan Pada Bayi”. <i>Ihsan keluarga Ustaz Ahmad Sonhadji bertarikh
+ <div style="background-color: white;"><a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=33cbc17b-e38b-4750-bb51-54a13d241300"><i>Buying to Specifications</i></a> https://eservice.nlb.gov.sg/redir/itemdetails?bid=203884291"&gt;<i>Buying to Specifications</i> Khutbah “Memberi Susu Badan Pada Bayi”. <i>Ihsan keluarga Ustaz Ahmad Sonhadji bertarikh
 14 Februari 1975 bersamaan 2 Safar 1395.</i></div>
 
+https://www.nlb.gov.sg/main/book-detail?cmsuuid=33cbc17b-e38b-4750-bb51-54a13d241300
 Transliterasi: Maksudnya, ibu yang telah bersedia untuk<br> 
 menyusukan anaknya, maka janganlah si suami mengambil<br> 
 anaknya pula untuk disusukan kepada perempuan lain kerana<br> 
