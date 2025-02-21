@@ -207,14 +207,14 @@ The lasting image of Bali as an island paradise showcases the remarkable power o
 [^40]: “[Bali – In Song and Dance](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19520327-1.2.159),” _Singapore Standard_, 27 March 1952, 10; “[To-night the Indonesia Clubs Brings Bali to You](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19520324-1.2.77.1),” _Singapore Standard_, 24 March 1952, 5. (From NewspaperSG)&nbsp;
 
 
-[^41]: Hua Xing 华兴 \[photographer\], “Pengdao Zhenmianmu” 蓬岛真面目 \[The Island Bali and Balinese\], _Liangyou Huabao_ 良友画报 \[_Young Companion_\] 14, no. 105 (May 1935): 34. (From National Library Singapore, call no. Chinese R 059.951 YC). Donated by the Singapore Federation of Chinese Clan Associations.&nbsp;
+[^41]: Hua Xing 华兴 \[photographer\], “Pengdao Zhenmianmu” 蓬岛真面目 \[The Island Bali and Balinese\], _Liangyou Huabao_ [良友画报](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14315957) \[_Young Companion_\] 14, no. 105 (May 1935): 34. (From National Library Singapore, call no. Chinese R 059.951 YC). Donated by the Singapore Federation of Chinese Clan Associations.&nbsp;
 
-[^42]: _Liangyou Huabao_ 良友画报 \[_Young Companion_\] 14, no. 105 (May 1935) and 22, no. 149 (December 1939). (From National Library Singapore, call no. Chinese R 059.951 YC). Donated by the Singapore Federation of Chinese Clan Associations.&nbsp;
+[^42]: _Liangyou Huabao_ [良友画报](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14315957) \[_Young Companion_\] 14, no. 105 (May 1935) and 22, no. 149 (December 1939). (From National Library Singapore, call no. Chinese R 059.951 YC). Donated by the Singapore Federation of Chinese Clan Associations.&nbsp;
 
-[^43]: Liu Huan Ran刘焕然, ed., _Heshu Dongyindu Gailan_ 荷属东印度概览 \[Netherlands East Indian Sketch\] (新加坡: 南洋报社, 1939), chapters 4, 16. (From Ya Yin Kwan Collection, National Library Singapore, call no. Chinese RDTYS 959.8 LHJ)
+[^43]: Liu Huan Ran刘焕然, ed., _Heshu Dongyindu Gailan_ [荷属东印度概览](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84564832) \[Netherlands East Indian Sketch\] (新加坡: 南洋报社, 1939), chapters 4, 16. (From Ya Yin Kwan Collection, National Library Singapore, call no. Chinese RDTYS 959.8 LHJ)
 
-[^44]: “Shenmi zhi Balidao” 神秘之峇厘島 \[The mysterious Bali island in the Dutch East Indies\], _Zhonghua Tuhua zazhi_中华图画杂志 \[_The China Pictorial_] no. 7 (November 1931): 19–20. (From 中文期刊全文数据库 (1911–1949) \[Chinese Periodical Full-text Database (1911–1949\], via NLB eResources website)
+[^44]: “Shenmi zhi Balidao” 神秘之峇厘島 \[The mysterious Bali island in the Dutch East Indies\], _Zhonghua Tuhua zazhi_中华图画杂志 \[_The China Pictorial_] no. 7 (November 1931): 19–20. (From 中文期刊全文数据库 (1911–1949) \[Chinese Periodical Full-text Database (1911–1949\], via NLB [eResources](https://eresources.nlb.gov.sg/main/Browse?startsWith=others) website)
 
-[^45]: _Zhaonan Huabao_ 昭南画报\[_Syonan Gaho_\] 1, no. 2 (July 1942), n.p. (From National Library Singapore, call no. RRARE 940.54259 SG)
+[^45]: _Zhaonan Huabao_ [昭南画报](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13099731)\[_Syonan Gaho_\] 1, no. 2 (July 1942), n.p. (From National Library Singapore, call no. RRARE 940.54259 SG)
 
-[^46]: _Xingzhou Zhoukan_ 星洲周刊 \[_Sin Chew Weekly_\], 19 April 1951, n.p. (From National Library Singapore, call no. RCLOS 059.951 SCW)
+[^46]: _Xingzhou Zhoukan_ [星洲周刊](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12878971) \[_Sin Chew Weekly_\], 19 April 1951, n.p. (From National Library Singapore, call no. RCLOS 059.951 SCW)
