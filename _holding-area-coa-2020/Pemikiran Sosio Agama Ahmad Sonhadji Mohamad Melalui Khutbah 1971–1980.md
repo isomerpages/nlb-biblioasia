@@ -459,7 +459,7 @@ integriti dalam sesebuah masyarakat. Pada era pasca perpisahan dengan
 Malaysia, masyarakat Melayu Singapura, terutama para belia menghadapi
 cabaran hidup dan jati diri. Pada tahun-tahun 1970-an, penyalahgunaan
 dadah membelenggu masyarakat Melayu berbanding bangsa-bangsa yang lain in Singapura.
-![](/images/COA%202020/Pemikiran%20Sosio%20Agama/4__Khutbah__Baik_Sangka_Terhadap_Allah__.jpg)
+
 <img src="/images/COA%202020/Pemikiran%20Sosio%20Agama/4__Khutbah__Baik_Sangka_Terhadap_Allah__.jpg" style="width:50%;">
  <div style="background-color: white;">Khutbah  <i>“Baik Sangka Terhadap Allah”.</i> <i>Nombor Rujukan NLB 040001574 bertarikh 12 Ogos
 1977 bersamaan 26 Syaban 1397.</i></div>
@@ -518,6 +518,12 @@ Ceramah dengan pelbagai tajuk berkaitan dadah diadakan di sekolah-sekolah,
 kelab masyarakat dan juga di madrasah.[^15] Golongan yang terlibat dalam
 penagihan dadah ini bukan hanya daripada kalangan lelaki tetapi terdapat
 juga kaum wanita yang terjebak dan ditangkap oleh pihak berkuasa.[^16]
+
+![](/images/COA%202020/Pemikiran%20Sosio%20Agama/5__Khutbah__Jangan_Iri_Hati__.jpg)
+<img src="/images/COA%202020/Pemikiran%20Sosio%20Agama/5__Khutbah__Jangan_Iri_Hati__.jpg" style="width:50%;">
+ <div style="background-color: white;">Khutbah  <i>“Jangan Iri Hati”.</i> <i>Nombor
+Rujukan NLB 040001653 bertarikh 4 Jun 1971 bersamaan
+10 Rabiul Akhir 1391.</i></div>
 
 Transliterasi: Sebabnya iri hati itu ditegah, ialah dikhuatiri<br>
 kelak bertukar menjadi hasad atau dengki kerana siapalah<br>
