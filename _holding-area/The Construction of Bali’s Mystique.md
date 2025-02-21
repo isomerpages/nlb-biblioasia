@@ -168,35 +168,35 @@ The lasting image of Bali as an island paradise showcases the remarkable power o
 
 [^22]: “Y.W.C.A. “[Drenched in Sunlight](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19330228-1.2.70),” _Straits Times_, 28 February 1933, 12; “[Bali Through Eyes of a Painter: Exotic Colours of the South Seas](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19350313-1.2.70),” _Singapore Free Press and Mercantile Advertiser_, 13 March 1935, 9; “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/page/straitstimes19370227-1.1.20),” _Straits Times_, 27 February 1937, 1; “[Balinese Dances at Art Exhibition Today](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19370308-1.2.80),” _Straits Times_, 8 March 1937, 13; Mary Heathcott, “[Le Mayeur’s Exhibition: Polok Amid Paintings of Her Native Bali](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19410521-1.2.41),” _Singapore Free Press and Mercantile Advertiser_, 21 May 1941, 5. (From NewspaperSG)
 
-[^23]: “Bali Will Never Be ‘Spoiled’,” _Singapore Free Press and Mercantile Advertiser_, 26 February 1937, 6. (From NewspaperSG)
+[^23]: “[Bali Will Never Be ‘Spoiled’](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19370226-1.2.43),” _Singapore Free Press and Mercantile Advertiser_, 26 February 1937, 6. (From NewspaperSG)
 
-[^24]: Gretchen Liu, _Bali 1952: Through the Lens of Liu Kang: The Trip to Java and Bali by Four Singapore Pioneering Artists_ (Singapore: National Library Board, 2025), 92, 95. (From National Library Singapore, call no. RSING 779.995986 LIU)
+[^24]: Gretchen Liu, [_Bali 1952: Through the Lens of Liu Kang: The Trip to Java and Bali by Four Singapore Pioneering Artists_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300094843) (Singapore: National Library Board, 2025), 92, 95. (From National Library Singapore, call no. RSING 779.995986 LIU)
 
-[^25]: “On Show at Y.W.C.A.: Art of Julius Wentscher,” _Morning Tribune_, 27 March 1936, 3; “Art Show at Y.W.C.A.: Painting and Sculpture,” _Malaya Tribune_, 27 March 1936, 15. (From NewspaperSG)&nbsp;
+[^25]: “[On Show at Y.W.C.A.: Art of Julius Wentscher](https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19360327-1.2.26),” _Morning Tribune_, 27 March 1936, 3; “[Art Show at Y.W.C.A.: Painting and Sculpture](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19360327-1.2.108),” _Malaya Tribune_, 27 March 1936, 15. (From NewspaperSG)&nbsp;
 
-[^26]: “A Russian Artist Dreams of Bali,” _Straits Times_, 18 October 1947, 9; “‘Singapore Needs an Art Gallery’,” _Straits Times_, 19 October 1947, 7. (From NewspaperSG)&nbsp;
+[^26]: “[A Russian Artist Dreams of Bali](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19471018-1.2.63),” _Straits Times_, 18 October 1947, 9; “[‘Singapore Needs an Art Gallery’](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19471019-1.2.73),” _Straits Times_, 19 October 1947, 7. (From NewspaperSG)&nbsp;
 
-[^27]: Adrian Vickers, comp. and introduction, _Travelling to Bali: Four Hundred Years of Journeys_ (Kuala Lumpur: Oxford University Press, 1994), xiii–xvi. (From National Library Singapore, call no. RSEA 959.86 TRA)
+[^27]: Adrian Vickers, comp. and introduction, [_Travelling to Bali: Four Hundred Years of Journeys_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7065681) (Kuala Lumpur: Oxford University Press, 1994), xiii–xvi. (From National Library Singapore, call no. RSEA 959.86 TRA)
 
-[^28]: Picard, _Bali_, 28–31; Vickers, _Bali_, 17.&nbsp;
+[^28]: Picard, [_Bali_]()https://eservice.nlb.gov.sg/redir/itemdetails?bid=8133552, 28–31; Vickers, [_Bali_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5572996), 17.&nbsp;
 
-[^29]: Picard, _Bali_, 21–33.&nbsp;
+[^29]: Picard, [_Bali_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8133552), 21–33.&nbsp;
 
-[^30]: “A Timeless Existence in New Bali,” _Straits Times_, 24 February 1949, 8. (From NewspaperSG)&nbsp;
+[^30]: “[A Timeless Existence in New Bali](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19490224-1.2.101.1),” _Straits Times_, 24 February 1949, 8. (From NewspaperSG)&nbsp;
 
 
 
-[^31]: F.H. Halpern, “The Dance Goes on in Bali,” _Malaya Tribune_, 18 November 1949, 5. (From NewspaperSG)
+[^31]: F.H. Halpern, “[The Dance Goes on in Bali](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19491118-1.2.66),” _Malaya Tribune_, 18 November 1949, 5. (From NewspaperSG)
 
-[^32]: Elizabeth E. Marcos, “This Is Bali,” _Straits Times_, 23 February 1950, 11. (From NewspaperSG)
+[^32]: Elizabeth E. Marcos, “[This Is Bali](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19500223-1.2.135),” _Straits Times_, 23 February 1950, 11. (From NewspaperSG)
 
-[^33]: Michael Atkinson, “Goona Goona: An Authentic Melodrama of the Isle of Bali,” San Francisco Silent Film Festival, accessed 8 January 2025; https://silentfilm.org/goona-goona-an-authentic-melodrama-of-the-isle-of-bali/; Sitompul, “Visual and Textual Images of Women”; Shavit, _Bali and the Tourist Industry_, 104.&nbsp;
+[^33]: Michael Atkinson, “Goona Goona: An Authentic Melodrama of the Isle of Bali,” San Francisco Silent Film Festival, accessed 8 January 2025; [https://silentfilm.org/goona-goona-an-authentic-melodrama-of-the-isle-of-bali/](https://silentfilm.org/goona-goona-an-authentic-melodrama-of-the-isle-of-bali/); Sitompul, “Visual and Textual Images of Women”; Shavit, [_Bali and the Tourist Industry_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12331418), 104.&nbsp;
 
-[^34]: Shavit, _Bali and the Tourist Industry_, 101.
+[^34]: Shavit, [_Bali and the Tourist Industry_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12331418), 101.
 
 [^35]: Sitompul, “Visual and Textual Images of Women.”
 
-[^36]: “‘Black Magic’ at the Alhambra,” _Malaya Tribune_, 24 August 1934, 14. (From NewspaperSG)&nbsp;
+[^36]: “[‘Black Magic’ at the Alhambra](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19340824-1.2.107),” _Malaya Tribune_, 24 August 1934, 14. (From NewspaperSG)&nbsp;
 
 [^37]: “‘Legong’ (‘Dance of the Temple Virgins’),” _Singapore Free Press and Mercantile Advertiser_, 23 May 1935, 7. (From NewspaperSG); Peter J. Bloom and Katherine J. Hagedorn, “Legong: Dance of the Virgins,” San Francisco Silent Film Festival, accessed 25 January 2025; https://silentfilm.org/legong-dance-of-the-virgins/.&nbsp;
 
