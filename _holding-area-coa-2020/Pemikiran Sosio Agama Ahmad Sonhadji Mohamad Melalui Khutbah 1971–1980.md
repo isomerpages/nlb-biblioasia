@@ -459,6 +459,10 @@ integriti dalam sesebuah masyarakat. Pada era pasca perpisahan dengan
 Malaysia, masyarakat Melayu Singapura, terutama para belia menghadapi
 cabaran hidup dan jati diri. Pada tahun-tahun 1970-an, penyalahgunaan
 dadah membelenggu masyarakat Melayu berbanding bangsa-bangsa yang lain in Singapura.
+![](/images/COA%202020/Pemikiran%20Sosio%20Agama/4__Khutbah__Baik_Sangka_Terhadap_Allah__.jpg)
+<img src="/images/COA%202020/Pemikiran%20Sosio%20Agama/4__Khutbah__Baik_Sangka_Terhadap_Allah__.jpg" style="width:50%;">
+ <div style="background-color: white;">Khutbah  <i>“Baik Sangka Terhadap Allah”.</i> <i>Nombor Rujukan NLB 040001574 bertarikh 12 Ogos
+1977 bersamaan 26 Syaban 1397.</i></div>
 
 Transliterasi: Sesungguhnya seburuk-buruk ujian yang dirasakan<br>
 oleh seseorang itu ialah orang yang berputus asa. Orang yang<br>
