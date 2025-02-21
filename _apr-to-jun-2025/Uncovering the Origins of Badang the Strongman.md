@@ -17,8 +17,8 @@ The legendary story of Badang throwing an enigmatic engraved rock from the top o
 
 However, the Malay Annals does not mention any inscriptions on the rock that Badang hurled, and colonial accounts confused this stone with Badang’s gravestone, which some 19th-century accounts place in Johor. Where did the story of Badang come from? What does it have to do with the Singapore Stone? And where was the strongman buried?
 
-![](/images/Vol%2021%20Issue%201/Badang/img3.jpg)
-<div style="background-color: white;">A map showing location of key sites.</div>
+![](/images/Vol%2021%20Issue%201/Badang/Badang_Map.jpg)
+<div style="background-color: white;">Sites associated with Badang around the region.</div>
 
 #### **A Herculean Feat**
 Badang’s story varies across different versions of the _Sejarah Melayu_ (more than 30 manuscripts are known, some fragmentary), although certain details are consistent.[^3] He was an Orang Benua (an aboriginal people) and a slave of a man of Sayong, a 15th-century settlement on an upper tributary of the Johor River. The story goes that Badang had set fish traps in the Besisek River, but the next day all he found were bones and scales (hence the name “the river of scales”; known today as Sungai Sisek).
