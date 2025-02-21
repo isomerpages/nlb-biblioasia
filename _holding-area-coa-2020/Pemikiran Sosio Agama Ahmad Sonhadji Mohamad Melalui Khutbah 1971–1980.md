@@ -519,7 +519,6 @@ kelab masyarakat dan juga di madrasah.[^15] Golongan yang terlibat dalam
 penagihan dadah ini bukan hanya daripada kalangan lelaki tetapi terdapat
 juga kaum wanita yang terjebak dan ditangkap oleh pihak berkuasa.[^16]
 
-![](/images/COA%202020/Pemikiran%20Sosio%20Agama/5__Khutbah__Jangan_Iri_Hati__.jpg)
 <img src="/images/COA%202020/Pemikiran%20Sosio%20Agama/5__Khutbah__Jangan_Iri_Hati__.jpg" style="width:50%;">
  <div style="background-color: white;">Khutbah  <i>“Jangan Iri Hati”.</i> <i>Nombor
 Rujukan NLB 040001653 bertarikh 4 Jun 1971 bersamaan
@@ -556,6 +555,10 @@ dan menjalani corak hidup yang sama adalah berlawanan dengan sifat
 dan peraturan Tuhan. Ini adalah kerana kemampuan manusia semuanya
 berbeza-beza dan kurniaan Tuhan adalah bersesuaian dengan kemampuan
 manusia tadi.
+![](/images/COA%202020/Pemikiran%20Sosio%20Agama/6__Khutbah__Memelihara_Amanah__.jpg)
+<img src="images/COA%202020/Pemikiran%20Sosio%20Agama/6__Khutbah__Memelihara_Amanah__.jpg" style="width:50%;">
+ <div style="background-color: white;">Khutbah  <i>“Memelihara Amanah”. </i> <i>Nombor Rujukan NLB 040001606 bertarikh 3 September 1974.
+bersamaan 16 Syabaan 1394.</i></div>
 
 Transliterasi: Tetapi bagaimana pula dengan keadaan<br>
 sesetengah umat Islam sekarang ini? Mereka telah mulai<br>
