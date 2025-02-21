@@ -37,6 +37,10 @@ The Dutch developed infrastructure and promoted Bali as an exotic, untouched get
 
 By 1914, travel guides and brochures were promoting Bali as the “Gem of the Lesser Sunda Isles” and mythologising the archipelago with language like “Mystic Isles of Java, Sumatra and Bali” and “Romance of the East”.[^10] The 1928 inauguration of the Bali Hotel (present-day Inna Bali Heritage Hotel), the island’s first foray into “modern” hospitality, was orchestrated under the auspices of the Koninklijke Paketvaart Maatschappij (KPM; Royal Packet Navigation Company), a shipping line.[^11]
 
+![](/images/Vol%2021%20Issue%201/Bali's%20Mystique/mystique_publication.jpg)
+<div style="background-color: white;">Early publications about Bali contain instances of romanticised language typical of colonial-era tourism materials. <i> Image reproduced from “The Romance of the East, the Comfort of the West in Java, Sumatra, Bali” in Indonesia Travel Ephemera (Java: Travellers Official Information Bureau of Netherland India, c. 1920s –1930s). (From John Koh Collection, National Library Singapore, call no. RCLOS 915.9804 JOH-[JK]). Donated by Cynthia and John Koh. </i></div>
+
+
 The KPM and other shipping lines also sponsored a number of early tourist pamphlets and publications such as the journal, _Sluyter’s Monthly_, which was later renamed _Inter-Ocean: A Netherlands East Indian Magazine Devoted to Malaysia and Australasia_.[^12] These efforts, coupled with the introduction of regular steamship services between Java and Bali in the 1920s, facilitated the influx of visitors seeking their slice of paradise.
 
 
