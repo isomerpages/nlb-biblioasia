@@ -132,39 +132,39 @@ The lasting image of Bali as an island paradise showcases the remarkable power o
 
 [^6]: Shavit, [_Bali and the Tourist Industry_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12331418), 7; Willard A. Hanna, [_Bali Chronicles: A Lively Account of the Island’s History from Early Times to the 1970s_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12409141) (Singapore: Periplus, 2004), 170. (From National Library Singapore, call no. RSEA 959.86 HAN)
 
-[^7]: Adrian Vickers, [_Bali: A Paradise Created_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5572996) (Tokyo: Tuttle Publishing 2012), 113, 130–32. (From National Library Singapore, call no. RSEA 959.862 VIC); Shavit, _Bali and the Tourist Industry_, 10–11. &nbsp;
+[^7]: Adrian Vickers, [_Bali: A Paradise Created_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5572996) (Tokyo: Tuttle Publishing 2012), 113, 130–32. (From National Library Singapore, call no. RSEA 959.862 VIC); Shavit, [_Bali and the Tourist Industry_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12331418), 10–11. &nbsp;
 
-[^8]: Shavit, _Bali and the Tourist Industry_, 9.
+[^8]: Shavit, [_Bali and the Tourist Industry_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12331418), 9.
 
-[^9]: Picard, _Bali_, 22; Shavit, _Bali and the Tourist Industry_, 24.
+[^9]: Picard, [_Bali_]()https://eservice.nlb.gov.sg/redir/itemdetails?bid=8133552, 22; Shavit, [_Bali and the Tourist Industry_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12331418), 24.
 
-[^10]: Orient Touring Company, _Travel Through the Mystic Isles of Java, Sumatra and Bali_ (n.p.: n.p., 1926). (From National Library Singapore, call no. RSING 915.980422 ORI-\[SEA); “The Romance of the East, the Comfort of the West in Java, Sumatra, Bali,” in _Indonesia Travel Ephemera_ (Java: Travellers Official Information Bureau of Netherland India, c. 1920s –1930s). (From John Koh Collection, National Library Singapore, call no. RCLOS 915.9804 JOH-\[JK\]). Donated by Cynthia and John Koh.
+[^10]: Orient Touring Company, [_Travel Through the Mystic Isles of Java, Sumatra and Bali_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11941657) (n.p.: n.p., 1926). (From National Library Singapore, call no. RSING 915.980422 ORI-\[SEA); “The Romance of the East, the Comfort of the West in Java, Sumatra, Bali,” in [_Indonesia Travel Ephemera_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203100278) (Java: Travellers Official Information Bureau of Netherland India, c. 1920s –1930s). (From John Koh Collection, National Library Singapore, call no. RCLOS 915.9804 JOH-\[JK\]). Donated by Cynthia and John Koh.
 
 
 
-[^11]: Picard, _Bali_, 24; Shavit, _Bali and the Tourist Industry_, 50.
+[^11]: Picard, [_Bali_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8133552), 24; Shavit, [_Bali and the Tourist Industry_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12331418), 50.
 
-[^12]: Jojor Ria Sitompul, “Visual and Textual Images of Women: 1930s Representation of Colonial Bali as Produced by Men and Women Travellers” (PhD diss., University of Warwick, 2008), 116, http://go.warwick.ac.uk/wrap/4107.
+[^12]: Jojor Ria Sitompul, “Visual and Textual Images of Women: 1930s Representation of Colonial Bali as Produced by Men and Women Travellers” (PhD diss., University of Warwick, 2008), 116, [http://go.warwick.ac.uk/wrap/4107](http://go.warwick.ac.uk/wrap/4107).
 
-[^13]: Vickers, _Bali_, 136–40.
+[^13]: Vickers, [_Bali_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5572996), 136–40.
 
 [^14]: Sitompul, “Visual and Textual Images of Women,” 144.
 
 
-[^15]: Shavit, _Bali and the Tourist Industry_, 18.&nbsp;
+[^15]: Shavit, [_Bali and the Tourist Industry_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12331418), 18.&nbsp;
 
-[^16]: Picard, _Bali_, 28–29.
+[^16]: Picard, [_Bali_]()https://eservice.nlb.gov.sg/redir/itemdetails?bid=8133552, 28–29.
 
-[^17]: Shavit, _Bali and the Tourist Industry_, 73–75; John Seed, “The Last Orientalists: European Artists in Colonial Bali,” Sotheby’s, 26 February 2020, https://www.sothebys.com/en/articles/the-last-orientalists-european-artists-in-colonial-bali.
+[^17]: Shavit,[ _Bali and the Tourist Industry_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12331418), 73–75; John Seed, “The Last Orientalists: European Artists in Colonial Bali,” Sotheby’s, 26 February 2020, [https://www.sothebys.com/en/articles/the-last-orientalists-european-artists-in-colonial-bali](https://www.sothebys.com/en/articles/the-last-orientalists-european-artists-in-colonial-bali).
 
-[^18]: Anak Agung Ayu Wulandari, “The Role of Pitamaha in Balinese Artistic Transformation: A Comparison Between Kamasan and Gusti Nyoman Lempad Artistic Style,” _Humaniora_ 7, no. 4 (October 2016): 463–72, https://journal.binus.ac.id/index.php/Humaniora/article/download/3599/2979/0; Shavit, _Bali and the Tourist Industry_, 81.&nbsp;
+[^18]: Anak Agung Ayu Wulandari, “The Role of Pitamaha in Balinese Artistic Transformation: A Comparison Between Kamasan and Gusti Nyoman Lempad Artistic Style,” _Humaniora_ 7, no. 4 (October 2016): 463–72, [https://journal.binus.ac.id/index.php/Humaniora/article/download/3599/2979/0](https://journal.binus.ac.id/index.php/Humaniora/article/download/3599/2979/0); Shavit, [_Bali and the Tourist Industry_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12331418), 81.&nbsp;
 
 [^19]: Seed, “The Last Orientalists.”&nbsp;
 
 [^20]: Seed, “The Last Orientalists.”
 
 
-[^21]: Shavit, _Bali and the Tourist Industry_; Seed, “The Last Orientalists.”
+[^21]: Shavit, [_Bali and the Tourist Industry_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12331418); Seed, “The Last Orientalists.”
 
 [^22]: “Y.W.C.A. “Drenched in Sunlight,” _Straits Times_, 28 February 1933, 12; “Bali Through Eyes of a Painter: Exotic Colours of the South Seas,” _Singapore Free Press and Mercantile Advertiser_, 13 March 1935, 9; “Untitled,” _Straits Times_, 27 February 1937, 1; “Balinese Dances at Art Exhibition Today,” _Straits Times_, 8 March 1937, 13; Mary Heathcott, “Le Mayeur’s Exhibition: Polok Amid Paintings of Her Native Bali,” _Singapore Free Press and Mercantile Advertiser_, 21 May 1941, 5. (From NewspaperSG)
 
