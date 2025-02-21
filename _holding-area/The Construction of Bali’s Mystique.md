@@ -153,7 +153,7 @@ The lasting image of Bali as an island paradise showcases the remarkable power o
 
 [^15]: Shavit, [_Bali and the Tourist Industry_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12331418), 18.&nbsp;
 
-[^16]: Picard, [_Bali_]()https://eservice.nlb.gov.sg/redir/itemdetails?bid=8133552, 28–29.
+[^16]: Picard, [_Bali_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8133552), 28–29.
 
 [^17]: Shavit,[ _Bali and the Tourist Industry_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12331418), 73–75; John Seed, “The Last Orientalists: European Artists in Colonial Bali,” Sotheby’s, 26 February 2020, [https://www.sothebys.com/en/articles/the-last-orientalists-european-artists-in-colonial-bali](https://www.sothebys.com/en/articles/the-last-orientalists-european-artists-in-colonial-bali).
 
@@ -178,7 +178,7 @@ The lasting image of Bali as an island paradise showcases the remarkable power o
 
 [^27]: Adrian Vickers, comp. and introduction, [_Travelling to Bali: Four Hundred Years of Journeys_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7065681) (Kuala Lumpur: Oxford University Press, 1994), xiii–xvi. (From National Library Singapore, call no. RSEA 959.86 TRA)
 
-[^28]: Picard, [_Bali_]()https://eservice.nlb.gov.sg/redir/itemdetails?bid=8133552, 28–31; Vickers, [_Bali_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5572996), 17.&nbsp;
+[^28]: Picard, [_Bali_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8133552), 28–31; Vickers, [_Bali_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5572996), 17.&nbsp;
 
 [^29]: Picard, [_Bali_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8133552), 21–33.&nbsp;
 
