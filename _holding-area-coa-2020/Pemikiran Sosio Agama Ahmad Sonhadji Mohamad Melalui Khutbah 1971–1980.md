@@ -291,6 +291,10 @@ dibendung maka banyak keperluan golongan wanita yang tidak dapat
 dipenuhi dan kebajikan anak-anak terjejas, terutamanya jika anak itu masih
 terlalu kecil.
 
+<img src="/images/COA%202020/Pemikiran%20Sosio%20Agama/1__Khutbah__Lelaki_dan_Wanita_Sama_Darjatnya.jpg" style="width:50%;">
+ <div style="background-color: white;">Khutbah “Lelaki dan Wanita Sama Darjatnya”. <i>Sumber: Nombor Rujukan NLB 040001654 bertarikh 20 Julai 1971
+bersamaan 26 Jamadil Awal 1391.</i></div>
+
 Transliterasi: Si suami bersembahyang dengan sungguh-<br> sungguh
 dan berpuasa dengan teratur, sedangkan isterinya<br> 
 tidak pernah sekali juga melakukannya. Anak laki-laki<br> 
