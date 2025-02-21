@@ -122,17 +122,17 @@ The lasting image of Bali as an island paradise showcases the remarkable power o
 [^1]: The movie is based on American author Elizabeth Gilbert’s bestselling memoir, _Eat, Pray, Love: One Woman’s Search for Everything Across Italy, India and Indonesia_, published in 2006. The memoir chronicles Gilbert’s travels around the world after her divorce and what she discovered.&nbsp;
 
 
-[^2]: Jeffrey Say and Yu Jin Seng, “The Modern and Its Histories in Singapore Art,” in _Intersections, Innovations, Institutions: A Reader in Singapore Modern Art_ (Singapore: World Scientific Publishing Co. Pte. Ltd., 2023), 26. (From National Library Singapore, call no. RSING 709.595709034 INT)
+[^2]: Jeffrey Say and Yu Jin Seng, “The Modern and Its Histories in Singapore Art,” in [_Intersections, Innovations, Institutions: A Reader in Singapore Modern Art_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205911579) (Singapore: World Scientific Publishing Co. Pte. Ltd., 2023), 26. (From National Library Singapore, call no. RSING 709.595709034 INT)
 
-[^3]: Liu Kang, oral history interview by Tan Beng Luan, 13 January 1983, transcript and MP3 Audio, Reel/Disc 39 of 74, National Archives of Singapore (accession no. 000171), 364. \[English version translated and annotated by Tay Jun Hao and Alina Soh.\]
+[^3]: Liu Kang, oral history interview by Tan Beng Luan, 13 January 1983, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e0c68c78-115d-11e3-83d5-0050568939ad-OHC000171_039Eng/web/html5/index.html) and MP3 Audio, Reel/Disc 39 of 74, National Archives of Singapore (accession no. [000171](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/000171)), 364. \[English version translated and annotated by Tay Jun Hao and Alina Soh.\]
 
-[^4]: Michel Picard, _Bali: Cultural Tourism and Touristic Culture_ (Singapore: Archipelago Press, 1996), 18–19. (From National Library Singapore, call no. RSING 959.86 PIC)
+[^4]: Michel Picard, [_Bali: Cultural Tourism and Touristic Culture_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8133552) (Singapore: Archipelago Press, 1996), 18–19. (From National Library Singapore, call no. RSING 959.86 PIC)
 
-[^5]: Picard, _Bali_, 19; David Shavit, _Bali and the Tourist Industry: A History, 1906–1942_ (Jefferson, N.C.: McFarland &amp; Co., 2003), 7. (From National Library Singapore, call no. RSEA 338.47915986 SHA)&nbsp;
+[^5]: Picard, [_Bali_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8133552), 19; David Shavit, [_Bali and the Tourist Industry: A History, 1906–1942_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12331418) (Jefferson, N.C.: McFarland &amp; Co., 2003), 7. (From National Library Singapore, call no. RSEA 338.47915986 SHA)&nbsp;
 
-[^6]: Shavit, _Bali and the Tourist Industry_, 7; Willard A. Hanna, _Bali Chronicles: A Lively Account of the Island’s History from Early Times to the 1970s_ (Singapore: Periplus, 2004), 170. (From National Library Singapore, call no. RSEA 959.86 HAN)
+[^6]: Shavit, [_Bali and the Tourist Industry_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12331418), 7; Willard A. Hanna, [_Bali Chronicles: A Lively Account of the Island’s History from Early Times to the 1970s_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12409141) (Singapore: Periplus, 2004), 170. (From National Library Singapore, call no. RSEA 959.86 HAN)
 
-[^7]: Adrian Vickers, _Bali: A Paradise Created_ (Tokyo: Tuttle Publishing 2012), 113, 130–32. (From National Library Singapore, call no. RSEA 959.862 VIC); Shavit, _Bali and the Tourist Industry_, 10–11. &nbsp;
+[^7]: Adrian Vickers, [_Bali: A Paradise Created_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5572996) (Tokyo: Tuttle Publishing 2012), 113, 130–32. (From National Library Singapore, call no. RSEA 959.862 VIC); Shavit, _Bali and the Tourist Industry_, 10–11. &nbsp;
 
 [^8]: Shavit, _Bali and the Tourist Industry_, 9.
 
@@ -213,7 +213,7 @@ The lasting image of Bali as an island paradise showcases the remarkable power o
 
 [^43]: Liu Huan Ran刘焕然, ed., _Heshu Dongyindu Gailan_ 荷属东印度概览 \[Netherlands East Indian Sketch\] (新加坡: 南洋报社, 1939), chapters 4, 16. (From Ya Yin Kwan Collection, National Library Singapore, call no. Chinese RDTYS 959.8 LHJ)
 
-[^44]: “Shenmi zhi Balidao” 神秘之峇厘島 \[The mysterious Bali island in the Dutch East Indies\], _Zhonghua Tuhua zazhi_中华图画杂志 \[_The China Pictorial_\] no. 7 (November 1931): 19–20. (From 中文期刊全文数据库 (1911–1949) \[Chinese Periodical Full-text Database (1911–1949\], via NLB eResources website)
+[^44]: “Shenmi zhi Balidao” 神秘之峇厘島 \[The mysterious Bali island in the Dutch East Indies\], _Zhonghua Tuhua zazhi_中华图画杂志 \[_The China Pictorial_] no. 7 (November 1931): 19–20. (From 中文期刊全文数据库 (1911–1949) \[Chinese Periodical Full-text Database (1911–1949\], via NLB eResources website)
 
 [^45]: _Zhaonan Huabao_ 昭南画报\[_Syonan Gaho_\] 1, no. 2 (July 1942), n.p. (From National Library Singapore, call no. RRARE 940.54259 SG)
 
