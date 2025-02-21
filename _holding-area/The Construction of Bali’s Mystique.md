@@ -64,6 +64,10 @@ Armed with an extensive knowledge of Balinese culture, Spies made his home in Ub
 
 The Belgian artist Adrien-Jean Le Mayeur de Merprès, who settled in Bali in 1932 after extensive travels, created Impressionist paintings often featuring his Balinese wife and muse – the renowned _legong_ dancer Ni Wayan Pollok Tjoeglik – in idyllic garden settings as well as Balinese women in sun-drenched scenes.[^20] His seaside home in Sanur was a popular spot for artists and tourists, offering dance performances and meals for a fee.[^21] Le Mayeur held four successful exhibitions in Singapore in 1933, 1935, 1937 and 1941.[^22] He said that Bali was his inspiration and his life. “I shall never leave Bali,” he once declared, “for I believe it will never be ‘spoiled’.”[^23]
 
+![](/images/Vol%2021%20Issue%201/Bali's%20Mystique/mystique_belgian.jpg)
+<div style="background-color: white;">The Belgian artist Adrien-Jean Le Mayeur de Merprès found inspiration in Bali’s tranquillity and serenity. His wife and muse is the renowned <i>legong</i> dancer Ni Pollok. <i>Image reproduced from “Bali Will Never Be ‘Spoiled’,” Singapore Free Press and Mercantile Advertiser, 26 February 1937, 6. (From NewspaperSG). </i></div>
+
+
 
 The four Singapore artists – Liu Kang, Chen Chong Swee, Chen Wen Hsi and Cheong Soo Pieng – visited Le Mayeur during their 1952 Bali trip. The artists also attended one of the couple’s popular tourist programmes consisting of “Balinese dance and gamelan performances together with a sumptuous meal served under the frangipani trees”.[^24]
 
