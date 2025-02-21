@@ -331,7 +331,7 @@ memastikan kesejahteraan keluarga dan ketaatannya kepada Allah s.w.t
 dan suami.
 
 <img src="/images/COA%202020/Pemikiran%20Sosio%20Agama/2__Khutbah__Memberi_Susu_Badan_Pada_Bayi__.jpg" style="width:50%;">
- <div style="background-color: white;"><a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=33cbc17b-e38b-4750-bb51-54a13d241300"><i>Khutbah “Memberi Susu Badan Pada Bayi”.</i></a><i> Ihsan keluarga Ustaz Ahmad Sonhadji bertarikh
+ <div style="background-color: white;">Khutbah <a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=33cbc17b-e38b-4750-bb51-54a13d241300"><i> “Memberi Susu Badan Pada Bayi”.</i></a><i> Ihsan keluarga Ustaz Ahmad Sonhadji bertarikh
 14 Februari 1975 bersamaan 2 Safar 1395.</i></div>
 
 
@@ -367,6 +367,11 @@ agar mereka dapat membesar dengan sihat. Oleh itu, kebajikan ibu yang
 menyusukan harus diberi perhatian agar kebajikan anak itu juga turut
 terjaga. Persefahaman di antara suami dan isteri dalam perkara ini harus
 diwujudkan demi menjaga kemaslahatan anak-anak ini.
+
+<img src="/images/COA%202020/Pemikiran%20Sosio%20Agama/3__Khutbah__Talak_Itu_Hanya_Dua_Kali__.jpg" style="width:50%;">
+ <div style="background-color: white;">Khutbah <a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=078efc3f-d925-48ab-821a-3e3d845acd28"><i> “Talak Itu Hanya Dua Kali”.“Memberi Susu Badan Pada Bayi”.</i></a><i> Ihsan keluarga Ustaz Ahmad Sonhadji bertarikh
+13 Disember 1974 bersamaan 28 Zulkaedah 1394.
+</i></div>
 
 Transliterasi: Sesungguhnya sangatlah aibnya sesebuah<br> 
 rumahtangga yang dibina di atas dasar permainan. Suami<br> 
