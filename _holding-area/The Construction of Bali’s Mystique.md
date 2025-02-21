@@ -136,7 +136,7 @@ The lasting image of Bali as an island paradise showcases the remarkable power o
 
 [^8]: Shavit, [_Bali and the Tourist Industry_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12331418), 9.
 
-[^9]: Picard, [_Bali_]()https://eservice.nlb.gov.sg/redir/itemdetails?bid=8133552, 22; Shavit, [_Bali and the Tourist Industry_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12331418), 24.
+[^9]: Picard, [_Bali_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8133552), 22; Shavit, [_Bali and the Tourist Industry_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12331418), 24.
 
 [^10]: Orient Touring Company, [_Travel Through the Mystic Isles of Java, Sumatra and Bali_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11941657) (n.p.: n.p., 1926). (From National Library Singapore, call no. RSING 915.980422 ORI-\[SEA); “The Romance of the East, the Comfort of the West in Java, Sumatra, Bali,” in [_Indonesia Travel Ephemera_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203100278) (Java: Travellers Official Information Bureau of Netherland India, c. 1920s –1930s). (From John Koh Collection, National Library Singapore, call no. RCLOS 915.9804 JOH-\[JK\]). Donated by Cynthia and John Koh.
 
