@@ -292,7 +292,7 @@ dipenuhi dan kebajikan anak-anak terjejas, terutamanya jika anak itu masih
 terlalu kecil.
 
 <img src="/images/COA%202020/Pemikiran%20Sosio%20Agama/1__Khutbah__Lelaki_dan_Wanita_Sama_Darjatnya.jpg" style="width:50%;">
- <div style="background-color: white;">Khutbah “Lelaki dan Wanita Sama Darjatnya”. <i>Sumber: Nombor Rujukan NLB 040001654 bertarikh 20 Julai 1971
+ <div style="background-color: white;">Khutbah “Lelaki dan Wanita Sama Darjatnya”. <i>Nombor Rujukan NLB 040001654 bertarikh 20 Julai 1971
 bersamaan 26 Jamadil Awal 1391.</i></div>
 
 Transliterasi: Si suami bersembahyang dengan sungguh-<br> sungguh
@@ -329,6 +329,10 @@ tidak dapat ditandingi oleh lelaki. Dengan adanya sifat-sifat ini, menonjol
 tugasan utama seorang wanita iaitu kemampuan mereka memelihara dan
 memastikan kesejahteraan keluarga dan ketaatannya kepada Allah s.w.t
 dan suami.
+
+<img src="/images/COA%202020/Pemikiran%20Sosio%20Agama/2__Khutbah__Memberi_Susu_Badan_Pada_Bayi__.jpg" style="width:50%;">
+ <div style="background-color: white;">Khutbah “Memberi Susu Badan Pada Bayi”. <i>Ihsan keluarga Ustaz Ahmad Sonhadji bertarikh
+14 Februari 1975 bersamaan 2 Safar 1395.</i></div>
 
 Transliterasi: Maksudnya, ibu yang telah bersedia untuk<br> 
 menyusukan anaknya, maka janganlah si suami mengambil<br> 
