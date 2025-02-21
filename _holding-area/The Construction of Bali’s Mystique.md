@@ -8,7 +8,9 @@ description: ""
 By Nadia Ramli and Goh Yu Mei
 
 
-  
+![](/images/Vol%2021%20Issue%201/Bali's%20Mystique/mystique_facing.jpg)
+<div style="background-color: white;">The Travellers Official Information Bureau of The Netherlands Indies published a series titled <i>Tourism in the Netherlands Indies</i> during the 1930s. <i>Image reproduced from Tourism in the Netherlands  Indies (Batavia-Centrum, Java: Travellers Official Information Bureau of  the Netherlands Indies, c. 1930s–1940s). (From the Liu Kang Collection, National Library Singapore, call no. RCLOS 915.98 TINI-[LK]). </i></div>
+
 
 Mention Bali and the image that springs to mind is that of a paradise on earth, with its verdant hills, cascading rice terraces, pristine beaches, mesmerising dances and beautiful local women. This image, however, did not appear out of nowhere. Key to shaping popular imagination have been cultural products like books and films that use the island as a backdrop which, in turn, reinforce the image of Bali as a paradise. The 2010 biographical romantic drama _Eat Pray Love_ – a movie starring Julia Roberts about a woman who searches for self-discovery as she journeys to Italy, India and Bali – is a well-known example of a movie that capitalises on Bali’s allure.[^1]
 
