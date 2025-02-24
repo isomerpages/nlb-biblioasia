@@ -130,7 +130,7 @@ Under this plan, land will be reclaimed to a higher level and form a continuous 
 line of defence for protection against rising sea levels. <i>Courtesy of the Urban
 Redevelopment Authority of Singapore.</i></div>
 
-This integrated solution aims to protect Singapore’s coastlines, prevent flooding, increase water resilience, create land for future development and offer recreational opportunities for the East Coast. In November 2023, Minister for National Development and Minister-in-charge of Social Services Integration Desmond Lee announced that agencies would begin public engagement and technical studies for “Long Island”.[^38]
+This integrated solution aims to protect Singapore’s coastlines, prevent flooding, increase water resilience, create land for future development and offer recreational opportunities for the East Coast. Speaking at the CNA Summit on 20 February 2025,&nbsp;Minister for National Development and Minister-in-Charge of Social Services Integration Desmond Lee said: “\[‘Long Island’\] will take many decades to complete; we've just started. But we have to start coastal protection work now, because the price of delay or failure will be too high for future generations to bear.[^38]
 
 
 
@@ -221,4 +221,4 @@ This integrated solution aims to protect Singapore’s coastlines, prevent flood
 
 [^37]: “‘Long Island’.”
 
-[^38]: “‘Long Island’.”
+[^38]:   Ang Hwee Min, “Long-term Singapore Projects Like ‘Long Island’ Require Political Will: Desmond Lee,” CNA, 20 February 2025,&nbsp;[https://www.channelnewsasia.com/singapore/cna-summit-desmond-lee-long-island-east-coast-rising-sea-levels-4949151](https://www.channelnewsasia.com/singapore/cna-summit-desmond-lee-long-island-east-coast-rising-sea-levels-4949151).
