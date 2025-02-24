@@ -2,7 +2,6 @@ collections:
   apr-to-jun-2025:
     output: true
     order:
-      - New Books on Singapore History.md
       - Forgotten Photographs of the 1952 Trip to Bali.md
       - A Bridge Between East and West.md
       - "The Liu Kang Collection: A Portrait of the Artist as a Young Man.md"
@@ -12,3 +11,4 @@ collections:
       - Uncovering the Origins of Badang the Strongman.md
       - "Barbara Kerr: Sharpshooter, School Principal, Girl Guide
         Extraordinaire.md"
+      - New Books on Singapore History.md
