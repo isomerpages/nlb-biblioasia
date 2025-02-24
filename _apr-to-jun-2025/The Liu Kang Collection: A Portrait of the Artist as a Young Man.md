@@ -114,7 +114,7 @@ Liu Kang taught art in schools for most of his working life in Singapore. In 194
 
 **Photographs of Liu Kang painting Liu Haisu’s portrait in 1987**
 
-Liu Haisu (刘海粟) was a prominent Chinese painter who became acquainted with Liu Kang in the 1920s when the latter was enrolled at the Shanghai Art Academy. Liu Haisu was then the principal of the academy. Later, when Liu Kang was studying art in Paris in 1928, Liu Haisu went on a study trip to Europe and asked Liu Kang along. In 1932, Liu Haisu invited Liu Kang to teach art at the academy.&nbsp;
+Liu Haisu (刘海粟) was a prominent Chinese painter who became acquainted with Liu Kang in the 1920s when the latter was enrolled at the Shanghai Art Academy. Liu Haisu was then the principal of the academy. In 1929, when Liu Kang was studying in Paris, Liu Haisu went on a study trip to Europe and sought his help in finding accommodation. In 1932, Liu Haisu invited Liu Kang to teach art at the academy.&nbsp;
 
 ![](/images/Vol%2021%20Issue%201/Liu%20Kang/liukang_liukang2.jpg)
 <div>Liu Kang (left) showing Liu Haisu (right) his portrait, 1987. <i>Liu Kang Collection, National Library Singapore.</i></div>
