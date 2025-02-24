@@ -292,7 +292,7 @@ dipenuhi dan kebajikan anak-anak terjejas, terutamanya jika anak itu masih
 terlalu kecil.
 
 <img src="/images/COA%202020/Pemikiran%20Sosio%20Agama/1__Khutbah__Lelaki_dan_Wanita_Sama_Darjatnya.jpg" style="width:50%;">
- <div style="background-color: white;">Khutbah “Lelaki dan Wanita Sama Darjatnya”. <i>Nombor Rujukan NLB 040001654 bertarikh 20 Julai 1971
+ <div style="background-color: white;">Khutbah  <i>“Lelaki dan Wanita Sama Darjatnya”.</i> <i>Nombor Rujukan NLB 040001654 bertarikh 20 Julai 1971
 bersamaan 26 Jamadil Awal 1391.</i></div>
 
 Transliterasi: Si suami bersembahyang dengan sungguh-<br> sungguh
@@ -331,10 +331,10 @@ memastikan kesejahteraan keluarga dan ketaatannya kepada Allah s.w.t
 dan suami.
 
 <img src="/images/COA%202020/Pemikiran%20Sosio%20Agama/2__Khutbah__Memberi_Susu_Badan_Pada_Bayi__.jpg" style="width:50%;">
- <div style="background-color: white;"><a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=33cbc17b-e38b-4750-bb51-54a13d241300"><i>Buying to Specifications</i></a> https://eservice.nlb.gov.sg/redir/itemdetails?bid=203884291"&gt;<i>Buying to Specifications</i> Khutbah “Memberi Susu Badan Pada Bayi”. <i>Ihsan keluarga Ustaz Ahmad Sonhadji bertarikh
+ <div style="background-color: white;">Khutbah <a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=33cbc17b-e38b-4750-bb51-54a13d241300"><i> “Memberi Susu Badan Pada Bayi”.</i></a><i> Ihsan keluarga Ustaz Ahmad Sonhadji bertarikh
 14 Februari 1975 bersamaan 2 Safar 1395.</i></div>
 
-https://www.nlb.gov.sg/main/book-detail?cmsuuid=33cbc17b-e38b-4750-bb51-54a13d241300
+
 Transliterasi: Maksudnya, ibu yang telah bersedia untuk<br> 
 menyusukan anaknya, maka janganlah si suami mengambil<br> 
 anaknya pula untuk disusukan kepada perempuan lain kerana<br> 
@@ -367,6 +367,11 @@ agar mereka dapat membesar dengan sihat. Oleh itu, kebajikan ibu yang
 menyusukan harus diberi perhatian agar kebajikan anak itu juga turut
 terjaga. Persefahaman di antara suami dan isteri dalam perkara ini harus
 diwujudkan demi menjaga kemaslahatan anak-anak ini.
+
+<img src="/images/COA%202020/Pemikiran%20Sosio%20Agama/3__Khutbah__Talak_Itu_Hanya_Dua_Kali__.jpg" style="width:50%;">
+ <div style="background-color: white;">Khutbah <a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=078efc3f-d925-48ab-821a-3e3d845acd28"><i> “Talak Itu Hanya Dua Kali”.“Memberi Susu Badan Pada Bayi”.</i></a><i> Ihsan keluarga Ustaz Ahmad Sonhadji bertarikh
+13 Disember 1974 bersamaan 28 Zulkaedah 1394.
+</i></div>
 
 Transliterasi: Sesungguhnya sangatlah aibnya sesebuah<br> 
 rumahtangga yang dibina di atas dasar permainan. Suami<br> 
@@ -455,6 +460,10 @@ Malaysia, masyarakat Melayu Singapura, terutama para belia menghadapi
 cabaran hidup dan jati diri. Pada tahun-tahun 1970-an, penyalahgunaan
 dadah membelenggu masyarakat Melayu berbanding bangsa-bangsa yang lain in Singapura.
 
+<img src="/images/COA%202020/Pemikiran%20Sosio%20Agama/4__Khutbah__Baik_Sangka_Terhadap_Allah__.jpg" style="width:50%;">
+ <div style="background-color: white;">Khutbah  <i>“Baik Sangka Terhadap Allah”.</i> <i>Nombor Rujukan NLB 040001574 bertarikh 12 Ogos
+1977 bersamaan 26 Syaban 1397.</i></div>
+
 Transliterasi: Sesungguhnya seburuk-buruk ujian yang dirasakan<br>
 oleh seseorang itu ialah orang yang berputus asa. Orang yang<br>
 berputus asa akan mematikan kesedarannya. Dia akan murung<br>
@@ -510,6 +519,11 @@ kelab masyarakat dan juga di madrasah.[^15] Golongan yang terlibat dalam
 penagihan dadah ini bukan hanya daripada kalangan lelaki tetapi terdapat
 juga kaum wanita yang terjebak dan ditangkap oleh pihak berkuasa.[^16]
 
+<img src="/images/COA%202020/Pemikiran%20Sosio%20Agama/5__Khutbah__Jangan_Iri_Hati__.jpg" style="width:50%;">
+ <div style="background-color: white;">Khutbah  <i>“Jangan Iri Hati”.</i> <i>Nombor
+Rujukan NLB 040001653 bertarikh 4 Jun 1971 bersamaan
+10 Rabiul Akhir 1391.</i></div>
+
 Transliterasi: Sebabnya iri hati itu ditegah, ialah dikhuatiri<br>
 kelak bertukar menjadi hasad atau dengki kerana siapalah<br>
 tahu ibarat orang yang pada permulaannya hanya bermain-<br>main
@@ -541,6 +555,10 @@ dan menjalani corak hidup yang sama adalah berlawanan dengan sifat
 dan peraturan Tuhan. Ini adalah kerana kemampuan manusia semuanya
 berbeza-beza dan kurniaan Tuhan adalah bersesuaian dengan kemampuan
 manusia tadi.
+
+<img src="/images/COA%202020/Pemikiran%20Sosio%20Agama/6__Khutbah__Memelihara_Amanah__.jpg" style="width:50%;">
+ <div style="background-color: white;">Khutbah  <i>“Memelihara Amanah”. </i> <i>Nombor Rujukan NLB 040001606 bertarikh 3 September 1974.
+bersamaan 16 Syabaan 1394.</i></div>
 
 Transliterasi: Tetapi bagaimana pula dengan keadaan<br>
 sesetengah umat Islam sekarang ini? Mereka telah mulai<br>
@@ -622,6 +640,10 @@ melibatkan industri perkapalan. Ini bermakna, pada tahun 1979, terdapat
 18 kes bagi setiap 100,000 penduduk pada tahun 1970 di Singapura pada
 masa itu.[^19]
 
+<img src="/images/COA%202020/Pemikiran%20Sosio%20Agama/7__Khutbah__Makanlah_Dari_Jenis_Yang_Baik_Baik__.jpg" style="width:50%;">
+ <div style="background-color: white;">Khutbah  <i>“Makanlah Dari Jenis Yang Baik-Baik”. Nombor Rujukan NLB 040001641 bertarikh 24 Disember
+1975 bersamaan 22 Zulhijjah 1395.</i></div>
+
 Transliterasi: Di antara jenis makan yang haram itu ialah<br>
 makan suap (rasuah). Ia merupakan penyakit yang sangat<br>
 berbahaya kepada masyarakat dan juga negara. Rasuah ibarat<br>
@@ -649,8 +671,12 @@ kepada Allah, Rasul dan Uli al-Amr (pihak yang berpakaran dan punya
 kuasa). Kedudukan seorang manusia itu terletak pada teguh pendiriannya,
 baik jujur dalam segala tutur kata dan perbuatannya. Tegak berdiri dengan
 batas-batas yang ditetapkan oleh Allah s.w.t, tidak menuruti hawa nafsu,
-suka dan benci sesuatu kerana Allah s.w.t, dan cepat bertaubat apabila
-melakukan dosa.
+suka dan benci sesuatu kerana Allah s.w.t, dan cepat bertaubat apabilamelakukan dosa.
+
+<img src="/images/COA%202020/Pemikiran%20Sosio%20Agama/8__Khutbah__Jaminan_Kebaikan_Akhlak_dalam.jpg" style="width:50%;">
+ <div style="background-color: white;">Khutbah  <i>“Jaminan Kebaikan Akhlak dalam
+Islam”. Nombor Rujukan NLB 040001665 bertarikh
+27 September 1979 bersamaan 6 Zulkaedah 1399.</i></div>
 
 Transliterasi: Jika kita perhatikan, merenung sejenak ke<br>
 arah ayat-ayat suci Al-Quran yang memperkatakan tentang<br>

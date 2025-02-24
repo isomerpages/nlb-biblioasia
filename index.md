@@ -9,13 +9,24 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-20/issue-4/jan-mar-2025/sembawang-maps-singapore/
-      button: The Story of Sembawang from 19th-Century Singapore Maps
+      url: /vol-20/issue-4/jan-mar-2025/central-provident-fund-cpf/
+      button: How the CPF Scheme Came to Be
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 20 Issue 4/Sembawang/HeroImage_sembawang_3.jpg
+      background: /images/Vol 20 Issue 4/CPF/HeroImage_CPF.jpg
+  - infopic:
+      title: Forgotten Photographs of the 1952 Trip to Bali
+      subtitle: Photography
+      id: infopic
+      description: A treasure trove of negatives sheds new light on a trip that led to
+        an exhibition now regarded as a milestone in the history of Singapore
+        art.
+      button: Through the lens of Liu Kang
+      url: /vol-21/issue-1/apr-jun-2025/liu-kang-forgotten-photographs-bali/
+      image: /images/Vol 21 Issue 1/Forgotten Bali/bali_pollok_Topics.jpg
+      alt: Forgotten Photographs Bali
   - infopic:
       title: A Bridge Between East and West
       subtitle: Art

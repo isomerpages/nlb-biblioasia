@@ -1,6 +1,6 @@
 ---
 title: New Books on Singapore History
-permalink: /holding-area/vol-21/issue-1/apr-jun-2025/new-books-on-singapore-history/
+permalink: /vol-21/issue-1/apr-jun-2025/new-books-on-singapore-history/
 variant: markdown
 description: ""
 ---
