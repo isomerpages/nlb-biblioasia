@@ -1061,4 +1061,15 @@ sections:
       image: /images/Online Only Articles/Conquer Tallest
         Mountain_12_23/mok_on_fixed_ropes_homepage.png
       alt: Image alt text
+  - infopic:
+      title: Forgotten Photographs of the 1952 Trip to Bali
+      subtitle: Photography
+      id: infopic
+      description: A treasure trove of negatives sheds new light on a trip that led to
+        an exhibition now regarded as a milestone in the history of Singapore
+        art.
+      button: Through the lens of Liu Kang
+      url: /vol-21/issue-1/apr-jun-2025/liu-kang-forgotten-photographs-bali/
+      image: /images/Vol 21 Issue 1/Forgotten Bali/bali_pollok.jpg
+      alt: Forgotten Photographs Bali
 ---
