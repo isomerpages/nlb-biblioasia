@@ -1070,6 +1070,6 @@ sections:
         art.
       button: Through the lens of Liu Kang
       url: /vol-21/issue-1/apr-jun-2025/liu-kang-forgotten-photographs-bali/
-      image: /images/Vol 21 Issue 1/Forgotten Bali/bali_pollok.jpg
+      image: /images/Vol 21 Issue 1/Forgotten Bali/bali_pollok_Topics.jpg
       alt: Forgotten Photographs Bali
 ---
