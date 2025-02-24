@@ -5,6 +5,12 @@ description: ""
 third_nav_title: Arts
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/liu-kang-forgotten-photographs-bali/">Restoring Classic Films from Asia</a>
+A treasure trove of negatives found in an old shoebox sheds new light on a trip that led to an exhibition now regarded as a milestone in the history of Singapore art.
+
+<img src="/images/Vol%2021%20Issue%201/Forgotten%20Bali/bali_pollok_Topics.jpg" style="width:80%;">  
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/colour-tv-history-singapore/">The Awakening of the Modern Television Era</a>
  <p>People weren’t particularly interested in&nbsp;upgrading their black-and-white TVs to colour TVs. Then came the World Cup.</p> 
 <img src="/images/Vol%2020%20Issue%203/Colour%20TV/awkening.jpg">
