@@ -143,7 +143,7 @@ The lasting image of Bali as an island paradise showcases the remarkable power o
 
 #### **NOTES**
 
-[^1]: The movie is based on American author Elizabeth Gilbert’s bestselling memoir, _Eat, Pray, Love: One Woman’s Search for Everything Across Italy, India and Indonesia_, published in 2006. The memoir chronicles Gilbert’s travels around the world after her divorce and what she discovered.&nbsp;
+[^1]: The movie is based on American author Elizabeth Gilbert’s bestselling memoir, _Eat, Pray, Love: One Woman’s Search for Everything Across Italy, India and Indonesia_, published in 2006. The memoir chronicles Gilbert’s travels around the world after her divorce and what she discovered. The eBook is available on&nbsp;[NLB OverDrive](https://nlb.overdrive.com/media/333451).
 
 
 [^2]: Jeffrey Say and Yu Jin Seng, “The Modern and Its Histories in Singapore Art,” in [_Intersections, Innovations, Institutions: A Reader in Singapore Modern Art_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205911579) (Singapore: World Scientific Publishing Co. Pte. Ltd., 2023), 26. (From National Library Singapore, call no. RSING 709.595709034 INT)
