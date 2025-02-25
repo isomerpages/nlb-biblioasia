@@ -134,6 +134,9 @@ While Bali was typically touted as an exotic location with its beautiful and cha
 
 The July 1942 issue of《昭南画报》(_Syonan Gaho_) published in Singapore during the Japanese Occupation, featured images of Balinese dance and performances, which captured the spiritual and religious aspects of Bali. Among the images were illustrations by Covarrubias.[^45]
 
+![](/images/Vol%2021%20Issue%201/Bali's%20Mystique/mystique_facing-.jpg)
+<div style="background-color: white;">A pictorial feature of Balinese dance and performances in the July 1942 issue of《昭南画报》(<i>Syonan Gaho</i>), with illustrations by the Mexican artist Miguel Covarrubias. <i>Image reproduced from “‘Legong’ (‘Dance of the Temple Virgins’),” Singapore Free Press and Mercantile Advertiser, 23 May 1935, 7. (From NewspaperSG).</i></div>
+
 The inaugural issue of 《星洲周刊》(_Sin Chew Weekly_), published on 19 April 1951, included photographs by K.F. Wong featuring aspects of Balinese life, including different Balinese dances.[^46]
 
 #### **The Enduring Image of Bali&nbsp;**
