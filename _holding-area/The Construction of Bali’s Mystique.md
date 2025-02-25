@@ -139,6 +139,9 @@ The July 1942 issue of《昭南画报》(_Syonan Gaho_) published in Singapore d
 
 The inaugural issue of 《星洲周刊》(_Sin Chew Weekly_), published on 19 April 1951, included photographs by K.F. Wong featuring aspects of Balinese life, including different Balinese dances.[^46]
 
+![](/images/Vol%2021%20Issue%201/Bali's%20Mystique/mystique_facing-.jpg)
+<div style="background-color: white;">This feature on Bali in the inaugural issue of《星洲周刊》(Sin Chew Weekly), published in 1951, included photographs of Balinese life by K.F. Wong. <i>Image reproduced from Xingzhou Zhoukan 星洲周刊 [Sin Chew Weekly], 19 April 1951, n.p. (From National Library Singapore, call no. RCLOS 059.951 SCW).</i></div>
+
 #### **The Enduring Image of Bali&nbsp;**
 
 The lasting image of Bali as an island paradise showcases the remarkable power of perception and representation. From the early Dutch encounters to the artistic endeavours of the 20th century – including the transformative 1952 trip by Singapore’s pioneering artists – Bali’s influence has extended far beyond its shores, enriching art, literature and popular culture across the seas. This romanticised portrayal of Bali, while captivating, exists alongside the complex realities of its people, culture and history.
