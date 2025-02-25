@@ -20,7 +20,7 @@ The construction of Bali as a beautiful, mysterious and exotic destination is an
 ![](/images/Vol%2021%20Issue%201/Bali's%20Mystique/mystique_nespapertop.jpg)
 
 ![](/images/Vol%2021%20Issue%201/Bali's%20Mystique/mystique_nespaperbottom.jpg)
-<div style="background-color: white;">Depictions of Balinese dance in Singapore newspapers bolstered the island’s reputation as an exotic paradise. <i>(Top) Image reproduced from F.H. Halpern, “The Dance Goes on in Bali,” Malaya Tribune, 18 November 1949, 5. (From NewspaperSG). (Bottom) Source: The Straits Annual, 1 January 1951 © SPH Media Limited. Permission required for reproduction. </i></div>
+<div style="background-color: white;">Depictions of Balinese dance in Singapore newspapers bolstered the island’s reputation as an exotic paradise. (Top) <i>Image reproduced from F.H. Halpern, “The Dance Goes on in Bali,” Malaya Tribune, 18 November 1949, 5. (From NewspaperSG). </i>(Bottom) <i>Source: The Straits Annual, 1 January 1951 © SPH Media Limited. Permission required for reproduction. </i></div>
 
 
 &nbsp;Among the artists who were influenced by this image of Bali and who, in turn, also helped to burnish this image in the region were four pioneering Singapore artists – Liu Kang, Chen Chong Swee, Chen Wen Hsi and Cheong Soo Pieng. In 1952, they embarked on a seven-week journey across Indonesia from 8 June to 28 July, culminating in Bali. Inspired by the island’s lush landscapes, rich culture and artistic&nbsp;traditions, the artists’ 1953 exhibition of paintings and sketches arising from this trip is considered a major milestone in Singapore’s art history.[^2]
@@ -56,6 +56,9 @@ Bali’s allure was also fuelled by the artists, photographers and writers who d
 
 The island often drew comparisons to French painter Paul Gaugin’s romantic image of Tahiti as an “untouched paradise”. Early European artists such as Wijnand Otto Jan Nieuwenkamp and Gregor Krause played a significant role in shaping the perception of Bali through their art. Nieuwenkamp, who was Dutch, was one of the first European artists to visit Bali. His illustrated albums and publication, _Bali en Lombok_ (1906–10), introduced the island&nbsp;to a wider audience. Together with the German physician and photographer Gregor Krause, they advanced Bali’s appeal through the first exhibition of Balinese art in Amsterdam in 1918.[^14]
 
+![](/images/Vol%2021%20Issue%201/Bali's%20Mystique/mystique_mexican-.jpg)
+<div style="background-color: white;">The Bali images of the German physician and photographer Gregor Krause were widely published in magazines and books. Shown here is a scene from&nbsp;<i>ngaben</i>, a Balinese funeral cremation. <i> Image reproduced from Gregor Krause, Bali: A Population, Le Pays, Les Danses, Les Fetes, Les Temples, l'art (Bali: A population, the country, the dances, the festivals, the temples, the art\]&nbsp;(Paris: Editions Dunchartre et Van Buggenhoudt, 1930), 53. (From National Library Singapore, call no. RCLOS 992.3 KRA). </i></div>
+
 Krause’s 1920 publication, _Bali 1912_, paints a vivid portrait of Bali’s landscapes, people and customs. The book showcases a collection of nearly 400 photographs curated from thousands taken during his stint as a medical officer in Bangli, near Ubud, from 1912 to 1914.[^15] His lens captured an idyllic vision of indigenous life that would later inspire other artists and writers. The Mexican painter Miguel Covarrubias, German artist Walter Spies and Austrian novelist Vicki Baum were among those drawn to Bali’s shores, their subsequent works further contributing to the island’s reputation as a paradise.[^16]
 
 ![](/images/Vol%2021%20Issue%201/Bali's%20Mystique/mystique_mexican.jpg)
@@ -79,11 +82,18 @@ The four Singapore artists – Liu Kang, Chen Chong Swee, Chen Wen Hsi and Cheon
 
 Other artists who captured Bali in their works and had exhibitions in Singapore include Julius and Tina Wentscher, the world-renowned painter and sculptor respectively, and the Russian artist Anatole Shister. The Wentschers held a joint exhibition at the YWCA in 1936. Their works, created in Java and Bali, included sculptures of a Balinese prince and a Balinese dancer, Sandri, and portrait paintings of Balinese girls.[^25]
 
+![](/images/Vol%2021%20Issue%201/Bali's%20Mystique/mystique_facing-.jpg)
+<div style="background-color: white;">The Russian artist Anatole Shister yearned to return to Bali after World War II. However, his friend warned of how “things are unpleasant now”, alluding to the Balinese resistance against the Dutch return after the war. <i>Source: The Straits Times, 18 October 1947 © SPH Media Limited. Permission required for reproduction. </i></div>
+
+
 Shister showcased his Bali paintings and drawings at the Robinson’s department store in October 1947. The exhibition drew the colony’s elite, including Governor-General of Malaya Malcolm MacDonald, American Consul General Paul Josselyn and former Chinese Consul General Kao Ling Pai. Shister was “completely enchanted” by Bali. “The Balinese,” he said, “have a mystery in their faces which is difficult for an artist to capture.”[^26]
 
 #### **Pages of Paradise&nbsp;**
 
 Written accounts by travellers also shaped public perception and understanding of Balinese culture, people and landscape. These narratives, which ranged from fiction to memoirs, served as tales for armchair tourists, offering them vicarious experiences and personal insights into the island.[^27] Some of these early authors include American journalist Hickman Powell, Austrian novelist Vicki Baum and Mexican artist Miguel Covarrubias.[^28]
+
+![](/images/Vol%2021%20Issue%201/Bali's%20Mystique/mystique_facing-.jpg)
+<div style="background-color: white;">Hickman Powell’s chance encounter with filmmaker André&nbsp;Roosevelt, known for the&nbsp;<i>Goona Goona</i>&nbsp;film, led to his literary endeavour,&nbsp;<i>The Last Paradise</i>. <i>Image reproduced from Hickman Powell, The Last Paradise (New York: Cape and Smith, 1930). (From National Library Singapore, call no. RCLOS 959.86 POW-[RFL]).</i></div>
 
 Ethnographic works by anthropologists Margaret Mead and Gregory Bateson portrayed Bali as a timeless paradise, unaltered by modernity. They documented Balinese culture extensively through thousands of photographs, film footage and detailed field notes, making a lasting impact in the field of visual anthropology.[^29]
 
@@ -104,6 +114,9 @@ In Singapore, one of the earliest mentions of a screening of a Bali-based film w
 <div style="background-color: white;">This film titled <i>Black Magic</i> is most likely André Roosevelt and Armand Denis’s <i>Goona Goona</i> released under a different name. <i>Image reproduced from “Black Magic,” Singapore Free Press and Mercantile Advertiser, 27 August 1934, 7. (From NewspaperSG).  </i></div>
 
 
+![](/images/Vol%2021%20Issue%201/Bali's%20Mystique/mystique_facing-.jpg)
+<div style="background-color: white;">This film, shot on location in Ubud, Bali, was advertised as having “an all native cast – beautiful girls in their own natural paradise”. <i>Image reproduced from “‘Legong’ (‘Dance of the Temple Virgins’),” Singapore Free Press and Mercantile Advertiser, 23 May 1935, 7. (From NewspaperSG).</i></div>
+
 Balinese dance troupes first gained international exposure at the Colonial Exhibition in Paris before gradually touring the world, presumably as part of cultural missions.[^38] In 1935, a group known as the Royal Balinese Dancers performed at the Capitol in Singapore. Comprising 40 dancers and gamelan musicians, the troupe presented a programme of 11 items which included stories from the Hindu epic Mahabharata as well as Balinese, Javanese and Dayak dances. The following year, after a successful tour of India, Burma (Myanmar) and Ceylon (Sri Lanka), the same troupe returned to Singapore for another performance.[^39]
 
 In 1952, the Indonesian Fine Art Movement Troupe performed at the Victoria Theatre on their way back home from the Colombo Exhibition. The 50-member strong troupe included Sumatran and Balinese dancers.[^40]
@@ -121,7 +134,13 @@ While Bali was typically touted as an exotic location with its beautiful and cha
 
 The July 1942 issue of《昭南画报》(_Syonan Gaho_) published in Singapore during the Japanese Occupation, featured images of Balinese dance and performances, which captured the spiritual and religious aspects of Bali. Among the images were illustrations by Covarrubias.[^45]
 
+![](/images/Vol%2021%20Issue%201/Bali's%20Mystique/mystique_facing-.jpg)
+<div style="background-color: white;">A pictorial feature of Balinese dance and performances in the July 1942 issue of《昭南画报》(<i>Syonan Gaho</i>), with illustrations by the Mexican artist Miguel Covarrubias. <i>Image reproduced from Zhaonan Huabao 昭南画报 [Syonan Gaho] 1, no. 2 (July 1942), n.p. (From National Library Singapore, call no. RRARE 940.54259 SG).</i></div>
+
 The inaugural issue of 《星洲周刊》(_Sin Chew Weekly_), published on 19 April 1951, included photographs by K.F. Wong featuring aspects of Balinese life, including different Balinese dances.[^46]
+
+![](/images/Vol%2021%20Issue%201/Bali's%20Mystique/mystique_facing-.jpg)
+<div style="background-color: white;">This feature on Bali in the inaugural issue of《星洲周刊》(Sin Chew Weekly), published in 1951, included photographs of Balinese life by K.F. Wong. <i>Image reproduced from Xingzhou Zhoukan 星洲周刊 [Sin Chew Weekly], 19 April 1951, n.p. (From National Library Singapore, call no. RCLOS 059.951 SCW).</i></div>
 
 #### **The Enduring Image of Bali&nbsp;**
 
@@ -133,17 +152,17 @@ The lasting image of Bali as an island paradise showcases the remarkable power o
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Authors/william_gibson1.png" style="width: 100px; height: 100px;">
+<img src="/images/Authors/NadiaRamli.png" style="width: 100px; height: 100px;">
 	<b>Nadia Ramli</b> is a Senior Librarian (Outreach) with the National Library Singapore. She writes about the visual and literary arts, and has conducted numerous outreach programmes advocating information literacy.</div>
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Authors/william_gibson1.png" style="width: 100px; height: 100px;">
+<img src="/images/Authors/GohYuMei.png" style="width: 100px; height: 100px;">
 	<b>Goh Yu Mei</b> is a Librarian at the National Library Singapore, working, with the Chinese Arts and Literary Collection. Her research interests lie in the intersection between society, and Chinese literature and arts.</div>
 
 #### **NOTES**
 
-[^1]: The movie is based on American author Elizabeth Gilbert’s bestselling memoir, _Eat, Pray, Love: One Woman’s Search for Everything Across Italy, India and Indonesia_, published in 2006. The memoir chronicles Gilbert’s travels around the world after her divorce and what she discovered.&nbsp;
+[^1]: The movie is based on American author Elizabeth Gilbert’s bestselling memoir, _Eat, Pray, Love: One Woman’s Search for Everything Across Italy, India and Indonesia_, published in 2006. The memoir chronicles Gilbert’s travels around the world after her divorce and what she discovered. The eBook is available on&nbsp;[NLB OverDrive](https://nlb.overdrive.com/media/333451).
 
 
 [^2]: Jeffrey Say and Yu Jin Seng, “The Modern and Its Histories in Singapore Art,” in [_Intersections, Innovations, Institutions: A Reader in Singapore Modern Art_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205911579) (Singapore: World Scientific Publishing Co. Pte. Ltd., 2023), 26. (From National Library Singapore, call no. RSING 709.595709034 INT)
