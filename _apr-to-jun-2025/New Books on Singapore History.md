@@ -11,16 +11,9 @@ National Library Board Singapore (2025), 298 pages
 <br>
 Call no. RSING&nbsp;779.995986 LIU
 
-![](/images/Vol%2021%20Issue%201/New%20Books/books_bali.jpg)
+<img src="/images/publications/Bali_1952_Through_the_Lens_of_Liu_Kang_Isomer.jpg" style="width:auto; height:400px"><br>
 
-<a href="https://catalogue.nlb.gov.sg/search/card?recordId=300094843">Borrow</a>
-
-<a href="https://biblioasia.nlb.gov.sg/vol-21/issue-1/apr-jun-2025/liu-kang-forgotten-photographs-bali/">Read the preface</a>
-
-<a href="https://doi.org/10.1142/14290">Buy the book</a>
-
-
-In 1952, four Singapore artists – Liu Kang, Chen Chong Swee, Chen Wen Hsi and Cheong Soo Pieng – visited Java and Bali to seek inspiration. Their trip led to an exhibition held the next year that has been hailed as a major milestone in Singapore’s art history. Despite this, few details of the trip were ever revealed. _Bali 1952_ showcases more than 250 black-and-white photographs taken by Liu Kang during the seven-week adventure. These photographs, most of which have never been seen, tell the story of a remarkable journey that has left a lasting legacy on Singapore’s art history.
+In 1952, <a href="https://biblioasia.nlb.gov.sg/vol-21/issue-1/apr-jun-2025/liu-kang-forgotten-photographs-bali/">four Singapore artists</a> – Liu Kang, Chen Chong Swee, Chen Wen Hsi and Cheong Soo Pieng – visited Java and Bali to seek inspiration. Their trip led to an exhibition held the next year that has been hailed as a major milestone in Singapore’s art history. Despite this, few details of the trip were ever revealed. _Bali 1952_ showcases more than 250 black-and-white photographs taken by Liu Kang during the seven-week adventure. These photographs, most of which have never been seen, tell the story of a remarkable journey that has left a lasting legacy on Singapore’s art history.
 
 
 #### **[By Generations, for Generations: Fifty Years of Temasek as Told by the People Who Shaped It](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300095099)**
