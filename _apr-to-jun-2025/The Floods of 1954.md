@@ -10,7 +10,7 @@ By Darren Seow
 ![](/images/Vol%2021%20Issue%201/Floods/floods_facing2.jpg)
 <div> Children in a flooded house in Potong Pasir, 17 December 1954. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
-It started as a heavy drizzle on the evening of 8 December 1954. Then at 11.20 pm, a torrential downpour began that continued throughout the night, into the next day and then into the night again. In the end, a record 10.9 in (276.89 mm) of rain fell over 24 hours.&nbsp;
+It started as a heavy drizzle on the evening of 8 December 1954. Then at 11.20 pm, a torrential downpour began that continued throughout the night, into the next day and then into the night again. In the end, a record 10.9 in (276.86 mm) of rain fell over 24 hours.&nbsp;
 
 It rained so much that at 4.40 pm on 9 December, Kallang Airport was closed to traffic and aircraft on their way to Singapore were diverted to Butterworth in Penang over 800 km away. The rain caused flooding in some 2,500 acres of land, with Bedok being the most severely affected. Other badly flooded areas were Bukit Timah, Grove Estate, Orchard Road, Telok Ayer, Robinson Road, Cecil Street and Anson Road.[^1]
 
