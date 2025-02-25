@@ -82,6 +82,10 @@ The four Singapore artists – Liu Kang, Chen Chong Swee, Chen Wen Hsi and Cheon
 
 Other artists who captured Bali in their works and had exhibitions in Singapore include Julius and Tina Wentscher, the world-renowned painter and sculptor respectively, and the Russian artist Anatole Shister. The Wentschers held a joint exhibition at the YWCA in 1936. Their works, created in Java and Bali, included sculptures of a Balinese prince and a Balinese dancer, Sandri, and portrait paintings of Balinese girls.[^25]
 
+![](/images/Vol%2021%20Issue%201/Bali's%20Mystique/mystique_facing-.jpg)
+<div style="background-color: white;">The Russian artist Anatole Shister yearned to return to Bali after World War II. However, his friend warned of how “things are unpleasant now”, alluding to the Balinese resistance against the Dutch return after the war. <i>Source: The Straits Times, 18 October 1947 © SPH Media Limited. Permission required for reproduction. </i></div>
+
+
 Shister showcased his Bali paintings and drawings at the Robinson’s department store in October 1947. The exhibition drew the colony’s elite, including Governor-General of Malaya Malcolm MacDonald, American Consul General Paul Josselyn and former Chinese Consul General Kao Ling Pai. Shister was “completely enchanted” by Bali. “The Balinese,” he said, “have a mystery in their faces which is difficult for an artist to capture.”[^26]
 
 #### **Pages of Paradise&nbsp;**
