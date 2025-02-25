@@ -92,6 +92,9 @@ Shister showcased his Bali paintings and drawings at the Robinson’s department
 
 Written accounts by travellers also shaped public perception and understanding of Balinese culture, people and landscape. These narratives, which ranged from fiction to memoirs, served as tales for armchair tourists, offering them vicarious experiences and personal insights into the island.[^27] Some of these early authors include American journalist Hickman Powell, Austrian novelist Vicki Baum and Mexican artist Miguel Covarrubias.[^28]
 
+![](/images/Vol%2021%20Issue%201/Bali's%20Mystique/mystique_facing-.jpg)
+<div style="background-color: white;">Hickman Powell’s chance encounter with filmmaker André&nbsp;Roosevelt, known for the&nbsp;<i>Goona Goona</i>&nbsp;film, led to his literary endeavour,&nbsp;<i>The Last Paradise</i>. <i>Image reproduced from Hickman Powell, The Last Paradise (New York: Cape and Smith, 1930). (From National Library Singapore, call no. RCLOS 959.86 POW-[RFL]).</i></div>
+
 Ethnographic works by anthropologists Margaret Mead and Gregory Bateson portrayed Bali as a timeless paradise, unaltered by modernity. They documented Balinese culture extensively through thousands of photographs, film footage and detailed field notes, making a lasting impact in the field of visual anthropology.[^29]
 
 Amid the uncertainties immediately after World War II, there were fewer travellers to Bali as noted by Singapore’s _Straits Times_: “There are regular air services linking it with Batavia and a first-class hotel in the little capital, Denpasar, but the unsettled conditions in Asia have caused the tourist trade to dwindle almost to nothing. Only the most privileged or the most persistent are able to overcome the currency and visa difficulties which complicate travel in the East.”[^30]
@@ -110,6 +113,9 @@ In Singapore, one of the earliest mentions of a screening of a Bali-based film w
 ![](/images/Vol%2021%20Issue%201/Bali's%20Mystique/mystique_alhambra.jpg)
 <div style="background-color: white;">This film titled <i>Black Magic</i> is most likely André Roosevelt and Armand Denis’s <i>Goona Goona</i> released under a different name. <i>Image reproduced from “Black Magic,” Singapore Free Press and Mercantile Advertiser, 27 August 1934, 7. (From NewspaperSG).  </i></div>
 
+
+![](/images/Vol%2021%20Issue%201/Bali's%20Mystique/mystique_facing-.jpg)
+<div style="background-color: white;">This film, shot on location in Ubud, Bali, was advertised as having “an all native cast – beautiful girls in their own natural paradise”. <i>Image reproduced from “‘Legong’ (‘Dance of the Temple Virgins’),” Singapore Free Press and Mercantile Advertiser, 23 May 1935, 7. (From NewspaperSG).</i></div>
 
 Balinese dance troupes first gained international exposure at the Colonial Exhibition in Paris before gradually touring the world, presumably as part of cultural missions.[^38] In 1935, a group known as the Royal Balinese Dancers performed at the Capitol in Singapore. Comprising 40 dancers and gamelan musicians, the troupe presented a programme of 11 items which included stories from the Hindu epic Mahabharata as well as Balinese, Javanese and Dayak dances. The following year, after a successful tour of India, Burma (Myanmar) and Ceylon (Sri Lanka), the same troupe returned to Singapore for another performance.[^39]
 
