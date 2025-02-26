@@ -112,7 +112,7 @@ Although the committee knew that Dick had produced an outstanding song in conson
 
 The musical arrangement for “Home” was placed in the very capable hands of Sydney Tan, and the choice of Kit Chan to sing it was an inspired one. They made a memorable recording of the song, which was immediately embraced and warmly received by Singaporeans. Since then, “Home” has become a permanent feature of all subsequent National Day celebrations. Kit has even adopted the song as a personal theme song, often singing it at her concerts. Other local singers such as JJ Lin and pop group The Sam Willows have put their spin on the song.[^34]
 
-The song has also been performed by foreign artists during their concerts in Singapore. In October 2023, American rock band Weezer, led by Rivers Cuomo, performed the song. More recently, in July 2024, South Korean artist Solar (the leader and vocalist of girl group Mamamoo and its sub-unit Mamamoo+) sang “Home” at her concert.[^35]
+The song has also been performed by foreign artists during their concerts in Singapore. In April 2024, at&nbsp;American pop star Bruno Mars’ concert, the audience started singing to “Home” when one of the singer’s band members, musician John Fossitt, played an instrumental rendition of the song during his keyboard solo. More recently, in July 2024, South Korean artist Solar (the leader and vocalist of girl group Mamamoo and its sub-unit Mamamoo+) sang “Home” at her concert.[^35]
 
 It should be mentioned that for 1998, there appears to have been two other National Day songs: “My People, My Home” with lyrics by Cultural Medallion poet Lee Tzu Pheng and music by Phoon Yew Tien, and “City for the World” by Roger Jenkins (lyrics) and Iskandar Ismail (music).[^36]
 
