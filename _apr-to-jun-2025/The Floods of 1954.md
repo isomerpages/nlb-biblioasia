@@ -207,7 +207,7 @@ This integrated solution aims to protect Singapore’s coastlines, prevent flood
 [^30]: “[Bedok Farmers – It’s Still ‘No’](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19550120-1.2.86),” _Straits Times_, 20 January 1955, 5. (From NewspaperSG) &nbsp;
 
 
-[^31]: Public Works Department, [_Annual Report 1955_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4618273) (Singapore: Government Printing Office, 1955), 2, 40. (From National Library Singapore, call no. RCLOS 354.59570086 SIN); Singapore, [_Annual Report 1955_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5082303), 176.&nbsp;
+[^31]: Public Works Department, [_Annual Report 1955_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4618273) (Singapore: Government Printing Office, 1955), 2, 30, 40. (From National Library Singapore, call no. RCLOS 354.59570086 SIN); Singapore, [_Annual Report 1955_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5082303), 176.&nbsp;
 
 [^32]: Public Works Department, [_Annual Report 1955_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4618273), 40; “[Rush Order for Bedok Dam](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19551124-1.2.55),” _Straits Times_, 24 November 1955, 5. (From NewspaperSG)
 
