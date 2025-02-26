@@ -28,7 +28,7 @@ Following the catastrophic floods of 1954, the government began to take a more h
 
 #### **October Floods**
 
-On 23 October, a violent three-hour rainstorm lashed Singapore. By 10 am, floodwaters, worsened by the rising tide, had exceeded 4 ft (1.2 m), prompting evacuations from vulnerable locations. The Meteorological Department recorded 4.22 in (107.19 mm) of rainfall between 6.30 am and 9.30 am, with 3.41 in (86.61 mm) falling in the first hour alone.[^7]
+The first severe floods of 1954 began on 23 October when&nbsp;a violent three-hour rainstorm lashed Singapore. By 10 am, floodwaters, worsened by the rising tide, had exceeded 4 ft (1.2 m), prompting evacuations from vulnerable locations. The Meteorological Department recorded 4.22 in (107.19 mm) of rainfall between 6.30 am and 9.30 am, with 3.41 in (86.61 mm) falling in the first hour alone.[^7]
 
 ![](/images/Vol%2021%20Issue%201/Floods/floods_article.jpg)
 <div> A violent three-hour rainstorm on 23 October 1954 wreaked havoc across Singapore, causing flooding in many areas and making scores of people homeless. <i>Source: The Straits Times, 24 October 1954 © SPH Media Limited. Permission required for reproduction.</i></div>
