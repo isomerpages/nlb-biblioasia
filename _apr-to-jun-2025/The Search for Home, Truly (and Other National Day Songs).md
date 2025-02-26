@@ -112,7 +112,7 @@ Although the committee knew that Dick had produced an outstanding song in conson
 
 The musical arrangement for “Home” was placed in the very capable hands of Sydney Tan, and the choice of Kit Chan to sing it was an inspired one. They made a memorable recording of the song, which was immediately embraced and warmly received by Singaporeans. Since then, “Home” has become a permanent feature of all subsequent National Day celebrations. Kit has even adopted the song as a personal theme song, often singing it at her concerts. Other local singers such as JJ Lin and pop group The Sam Willows have put their spin on the song.[^34]
 
-The song has also been performed by foreign artists during their concerts in Singapore. In October 2023, American rock band Weezer, led by Rivers Cuomo, performed the song. More recently, in July 2024, South Korean artist Solar (the leader and vocalist of girl group Mamamoo and its sub-unit Mamamoo+) sang “Home” at her concert.[^35]
+The song has also been performed by foreign artists during their concerts in Singapore. In April 2024, at&nbsp;American pop star Bruno Mars’ concert, the audience started singing to “Home” when one of the singer’s band members, musician John Fossitt, played an instrumental rendition of the song during his keyboard solo. More recently, in July 2024, South Korean artist Solar (the leader and vocalist of girl group Mamamoo and its sub-unit Mamamoo+) sang “Home” at her concert.[^35]
 
 It should be mentioned that for 1998, there appears to have been two other National Day songs: “My People, My Home” with lyrics by Cultural Medallion poet Lee Tzu Pheng and music by Phoon Yew Tien, and “City for the World” by Roger Jenkins (lyrics) and Iskandar Ismail (music).[^36]
 
@@ -144,7 +144,7 @@ I would therefore appeal to Singaporeans to receive each new National Day song w
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/BernardTan.png">
-<b>Emeritus Professor Bernard T.G. Tan</b> is a retired professor of physics from the National University of Singapore who also dabbles in music. Some of his compositions have been performed by the Singapore Symphony Orchestra.</div>
+<b>Emeritus Professor Bernard T.G. Tan</b> is a retired professor of physics from the National University of Singapore who also dabbles in music. Some of his compositions have been performed by the Singapore Symphony Orchestra. He is a former chairman of the Sing Singapore organising committee.</div>
 
 
 #### **NOTES**
@@ -218,7 +218,7 @@ I would therefore appeal to Singaporeans to receive each new National Day song w
 
 [^34]: Ainslyn Lim, “5 of the Best ‘Home’ Covers You Can Listen to on Repeat on National Day,” Today, 9 August 2023, [https://www.todayonline.com/8days/5-best-home-covers-you-can-listen-repeat-national-day-2229216](https://www.todayonline.com/8days/5-best-home-covers-you-can-listen-repeat-national-day-2229216).
 
-[^35]: “Weezer’s Lead Singer Covers Singapore National Day Parade Song Home,” CNA, 10 October 2023, [https://cnalifestyle.channelnewsasia.com/entertainment/weezer-rivers-cuomo-covers-kit-chan-home-372891](https://cnalifestyle.channelnewsasia.com/entertainment/weezer-rivers-cuomo-covers-kit-chan-home-372891); Lee Wei Lin, “K-Pop Group Mamamoo’s Solar Sings ‘Home’ During S’pore Concert,” mothership, 28 July 2024, [https://mothership.sg/2024/07/mamamoo-solar-sg-home-singlish/](https://mothership.sg/2024/07/mamamoo-solar-sg-home-singlish/).    
+[^35]: Eddino Abdul Hadi and Benson Ang, “Fans Sing Along to NDP Song Home at Bruno Mars Concert in Singapore,”&nbsp;_Straits Times_, 4 April 2024, &nbsp;https://www.straitstimes.com/life/entertainment/bruno-mars-fans-arrive-early-at-national-stadium-to-snag-good-standing-pen-spots-ahead-of-concert; Lee Wei Lin, “K-Pop Group Mamamoo’s Solar Sings ‘Home’ During S’pore Concert,” mothership, 28 July 2024, [https://mothership.sg/2024/07/mamamoo-solar-sg-home-singlish/](https://mothership.sg/2024/07/mamamoo-solar-sg-home-singlish/).    
 
 [^36]: Jason Leow, “[Lyricist Says Bonds Today Are Stronger](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19980731-1.2.49.26),” _Straits Times_, 31 July 1998, 49. (From NewspaerSG)    
 

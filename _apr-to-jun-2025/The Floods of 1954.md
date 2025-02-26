@@ -28,7 +28,7 @@ Following the catastrophic floods of 1954, the government began to take a more h
 
 #### **October Floods**
 
-On 23 October, a violent three-hour rainstorm lashed Singapore. By 10 am, floodwaters, worsened by the rising tide, had exceeded 4 ft (1.2 m), prompting evacuations from vulnerable locations. The Meteorological Department recorded 4.22 in (107.19 mm) of rainfall between 6.30 am and 9.30 am, with 3.41 in (86.61 mm) falling in the first hour alone.[^7]
+The first severe floods of 1954 began on 23 October when&nbsp;a violent three-hour rainstorm lashed Singapore. By 10 am, floodwaters, worsened by the rising tide, had exceeded 4 ft (1.2 m), prompting evacuations from vulnerable locations. The Meteorological Department recorded 4.22 in (107.19 mm) of rainfall between 6.30 am and 9.30 am, with 3.41 in (86.61 mm) falling in the first hour alone.[^7]
 
 ![](/images/Vol%2021%20Issue%201/Floods/floods_article.jpg)
 <div> A violent three-hour rainstorm on 23 October 1954 wreaked havoc across Singapore, causing flooding in many areas and making scores of people homeless. <i>Source: The Straits Times, 24 October 1954 © SPH Media Limited. Permission required for reproduction.</i></div>
@@ -111,7 +111,7 @@ The farmers were surprised that the government had rejected calls for compensati
 
 #### **Improving Flood Control&nbsp;**
 
-After the severe floods of 1954, the government recognised the need for a coordinated island-wide approach to flood alleviation. “The need for overall direction and planning of flood alleviation schemes on an Island-wide basis became obvious after the recurrence of serious flooding in December,” noted the PWD’s 1955 annual report. In March that year, a new Drainage Branch within the PWD was set up “whose sole duty it is to undertake surveys and to obtain data for the design of flood alleviation schemes for the Colony”. The chief drainage engineer’s assessment revealed that extensive flood prevention measures were necessary, with projected costs reaching several million dollars.[^31]
+After the severe floods of 1954, the government recognised the need for a coordinated approach to flood alleviation. “The need for overall direction and planning of flood alleviation schemes on an Island-wide basis became obvious after the recurrence of serious flooding in December,” noted the PWD’s 1955 annual report. In March that year, a new Drainage Branch within the PWD was set up “whose sole duty it is to undertake surveys and to obtain data for the design of flood alleviation schemes for the Colony”. The chief drainage engineer’s assessment revealed that extensive flood prevention measures were necessary, with projected costs reaching several million dollars.[^31]
 
 A primary initiative centred on Bedok and its resettlement area. The flood control scheme comprised four key elements: an impounding reservoir in the Bedok River valley to regulate water flow; a larger culvert outlet through Changi Road to improve drainage; a 9,400-foot (2,865 m) canal to channel water to the sea; and an elevation of Changi Road to prevent flooding. This $523,000 project was launched on 23 November 1955, with Minister for Communications and Works Francis Thomas in attendance.[^32] The Bedok Flood Alleviation Scheme was completed in 1956.[^33]
 
@@ -207,7 +207,7 @@ This integrated solution aims to protect Singapore’s coastlines, prevent flood
 [^30]: “[Bedok Farmers – It’s Still ‘No’](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19550120-1.2.86),” _Straits Times_, 20 January 1955, 5. (From NewspaperSG) &nbsp;
 
 
-[^31]: Public Works Department, [_Annual Report 1955_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4618273) (Singapore: Government Printing Office, 1955), 2, 40. (From National Library Singapore, call no. RCLOS 354.59570086 SIN); Singapore, [_Annual Report 1955_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5082303), 176.&nbsp;
+[^31]: Public Works Department, [_Annual Report 1955_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4618273) (Singapore: Government Printing Office, 1955), 2, 30, 40. (From National Library Singapore, call no. RCLOS 354.59570086 SIN); Singapore, [_Annual Report 1955_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5082303), 176.&nbsp;
 
 [^32]: Public Works Department, [_Annual Report 1955_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4618273), 40; “[Rush Order for Bedok Dam](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19551124-1.2.55),” _Straits Times_, 24 November 1955, 5. (From NewspaperSG)
 
