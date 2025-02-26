@@ -110,7 +110,7 @@ There is a version recorded in the _Folktales of Assam_ (1916) by Jnanadabhiram 
 
 The image of a king riding a cow, a _vahana_ or animal mount, indicates the Hindu origins of the tale, which suggests that it may predate the Malay versions. The names Barua/Baru may also be indicators of the links to Barus/Buru in the Badang tale in the Annals. Another tale in the Barooah collection tells of a contest arranged by a king between a strong man and a trickster, which also carries elements of the Badang tale in which the champion fights another strong man sent by the sultan of Perlak, Aceh.[^25] 
 
-It seems possible that versions of the story of Badang travelled between Pasai, Chittagong and Perak and then into the _Sejarah Melayu_, a peregrination that continued when the site of Badang’s mystical grave was changed from Tanjong Buru in Johor to Pulau Buru in Riau, as toponyms shifted and the Annals became available to a wider audience in the 19th and 20th centuries.
+It seems possible that versions of the story of Badang travelled between Pasai, Chittagong and Perak and then into the _Sejarah Melayu_, a long journey that continued when the site of Badang’s mystical grave was changed from Tanjong Buru in Johor to Pulau Buru in Riau, as toponyms shifted and the Annals became available to a wider audience in the 19th and 20th centuries.
 
 #### **Badang Venerated**
 The stone boulder that Badang hurled may have existed prior to the initial founding of the Kingdom of Singapura in 1299 and, if so, it was likely illegible to the people there.[^26]
