@@ -218,7 +218,7 @@ I would therefore appeal to Singaporeans to receive each new National Day song w
 
 [^34]: Ainslyn Lim, “5 of the Best ‘Home’ Covers You Can Listen to on Repeat on National Day,” Today, 9 August 2023, [https://www.todayonline.com/8days/5-best-home-covers-you-can-listen-repeat-national-day-2229216](https://www.todayonline.com/8days/5-best-home-covers-you-can-listen-repeat-national-day-2229216).
 
-[^35]: “Weezer’s Lead Singer Covers Singapore National Day Parade Song Home,” CNA, 10 October 2023, [https://cnalifestyle.channelnewsasia.com/entertainment/weezer-rivers-cuomo-covers-kit-chan-home-372891](https://cnalifestyle.channelnewsasia.com/entertainment/weezer-rivers-cuomo-covers-kit-chan-home-372891); Lee Wei Lin, “K-Pop Group Mamamoo’s Solar Sings ‘Home’ During S’pore Concert,” mothership, 28 July 2024, [https://mothership.sg/2024/07/mamamoo-solar-sg-home-singlish/](https://mothership.sg/2024/07/mamamoo-solar-sg-home-singlish/).    
+[^35]: Eddino Abdul Hadi and Benson Ang, “Fans Sing Along to NDP Song Home at Bruno Mars Concert in Singapore,”&nbsp;_Straits Times_, 4 April 2024, &nbsp;https://www.straitstimes.com/life/entertainment/bruno-mars-fans-arrive-early-at-national-stadium-to-snag-good-standing-pen-spots-ahead-of-concert; Lee Wei Lin, “K-Pop Group Mamamoo’s Solar Sings ‘Home’ During S’pore Concert,” mothership, 28 July 2024, [https://mothership.sg/2024/07/mamamoo-solar-sg-home-singlish/](https://mothership.sg/2024/07/mamamoo-solar-sg-home-singlish/).    
 
 [^36]: Jason Leow, “[Lyricist Says Bonds Today Are Stronger](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19980731-1.2.49.26),” _Straits Times_, 31 July 1998, 49. (From NewspaerSG)    
 
