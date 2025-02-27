@@ -1082,5 +1082,5 @@ sections:
       button: WATCH THE VIDEO
       url: /videos/reels/
       image: "/images/Videos: BiblioAsia Reels/Liu_Kang_s_Photos_topics.png"
-      alt: Image alt text
+      alt: Liu Kang's 1952 Bali trip
 ---
