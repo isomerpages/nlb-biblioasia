@@ -8,6 +8,13 @@ variant: tiptap
 <h3><strong>A Reel-ly Good Story: History in Five Minutes</strong></h3>
 <p><em>BiblioAsia Reels</em> turns a <em>BiblioAsia</em> story into a short
 video. Take five to learn interesting things about Singapore history.</p>
+<h4><strong>Newly Discovered Photos from Liu Kang’s 1952 Bali Trip</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/watch?v=N6-mH2P16B8"></iframe>
+</div>
+<p>Gretchen Liu, who is Liu Kang’s daughter-in-law, sheds light on the discovery
+of more than 1,000 photos and negatives taken by Liu Kang during his 1952
+Bali trip with three other artists.</p>
 <h4><strong>Early Malay Comics</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Pr1eklZNrB4"></iframe>
