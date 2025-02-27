@@ -17,6 +17,17 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 20 Issue 4/CPF/HeroImage_CPF.jpg
   - infopic:
+      title: Newly Discovered Photos from Liu Kang’s 1952 Bali Trip
+      subtitle: BiblioAsia Reels
+      id: infopic
+      description: Gretchen Liu sheds light on the discovery of more than 1,000 photos
+        and negatives taken by her father-in-law Liu Kang during his 1952 Bali
+        trip.
+      button: WATCH THE VIDEO
+      url: /videos/reels/
+      image: "/images/Videos: BiblioAsia Reels/Liu_Kang_s_Photos_topics.png"
+      alt: Liu Kang's 1952 Bali trip
+  - infopic:
       title: Forgotten Photographs of the 1952 Trip to Bali
       subtitle: Photography
       id: infopic
