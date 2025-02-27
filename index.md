@@ -1072,4 +1072,15 @@ sections:
       image: /images/Online Only Articles/Conquer Tallest
         Mountain_12_23/mok_on_fixed_ropes_homepage.png
       alt: Image alt text
+  - infopic:
+      title: Newly Discovered Photos from Liu Kang’s 1952 Bali Trip
+      subtitle: BiblioAsia Reels
+      id: infopic
+      description: Gretchen Liu sheds light on the discovery of more than 1,000 photos
+        and negatives taken by her father-in-law Liu Kang during his 1952 Bali
+        trip.
+      button: WATCH THE VIDEO
+      url: /videos/reels/
+      image: "/images/Videos: BiblioAsia Reels/Liu_Kang_s_Photos_topics.png"
+      alt: Image alt text
 ---
