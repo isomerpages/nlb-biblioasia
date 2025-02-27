@@ -155,7 +155,7 @@ The lasting image of Bali as an island paradise showcases the remarkable power o
 <div style="background-color: white;">
 <br>
 <img src="/images/Authors/GohYuMei.png" style="width: 100px; height: 100px;">
-	<b>Goh Yu Mei</b> is a Librarian at the National Library Singapore, working, with the Chinese Arts and Literary Collection. Her research interests lie in the intersection between society, and Chinese literature and arts.</div>
+	<b>Goh Yu Mei</b> is a Librarian at the National Library Singapore, working with the Chinese Arts and Literary Collection. Her research interests lie in the intersection between society, and Chinese literature and arts.</div>
 
 #### **NOTES**
 
