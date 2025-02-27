@@ -14,6 +14,7 @@ Gretchen Liu, who is Liu Kang’s daughter-in-law, sheds light on the discovery 
 **Related article** <br>
 * [Forgotten Photographs of the 1952 Trip to Bali](/vol-21/issue-1/apr-jun-2025/liu-kang-forgotten-photographs-bali/)<br>
 * [The Liu Kang Collection: A Portrait of the Artist as a Young Man](/vol-21/issue-1/apr-jun-2025/liu-kang-collection/)<br>
+* [A Bridge Between East and West](/vol-21/issue-1/apr-jun-2025/liu-kang-bridge-east-west/)<br>
 
 <hr>
 
