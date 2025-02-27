@@ -102,140 +102,72 @@ So long as Singapore’s economic story continues to be intertwined with the sea
 
 [^1]:   James L. Watson, “Standardising the Gods: The Promotion of T’ien Hou (“Empress of Heaven”) Along the South China Coast (960 – 1960),” in _Popular Culture in Late Imperial China_, ed. David Johnson, Andrew J. Nathan and Evelyn S. Rawski (Berkeley: University of California Press, 1985), 295. (From National Library Singapore, call no. RCLOS 951.03 POP-\[GH\])&nbsp;
 
-Li Lulu李露露, _Mazu xinyang_ 妈祖信仰 \[Mazu belief\] (北京: 学苑出版社, 1995), 12.&nbsp;
+[^2]:   Li Lulu李露露, _Mazu xinyang_ 妈祖信仰 \[Mazu belief\] (北京: 学苑出版社, 1995), 12.&nbsp;
 
-Laurence Thomson, _Chinese Religion: An Introduction_ (Belmont: Dickensen Publishing Inc., 1969), 57.
+[^3]:   Laurence Thomson, _Chinese Religion: An Introduction_ (Belmont: Dickensen Publishing Inc., 1969), 57.
 
-Li, _Mazu xinyang_, 12.
+[^4]:   Li, _Mazu xinyang_, 12.
 
-Thomson, _Chinese Religion_, 57.&nbsp;
+[^5]:   Thomson, _Chinese Religion_, 57.&nbsp;
 
-Irwin Lee, “Divinity and Salvation: The Great Goddesses of China,” _Asian Folklore Studies_ 49, no. 1 (1990): 63. (From JSTOR via NLB’s eResources website)
+[^6]:   Irwin Lee, “Divinity and Salvation: The Great Goddesses of China,” _Asian Folklore Studies_ 49, no. 1 (1990): 63. (From JSTOR via NLB’s eResources website)
 
-Watson, “Standardising the Gods,” 293–94, 299–300.
+[^7]:   Watson, “Standardising the Gods,” 293–94, 299–300.
 
-Lee, “Divinity and Salvation,” 63; “Mazu de laojia” 妈祖的老家 \[Mazu’s hometown\], 联合晚报 _Lianhe Wanbao_, 3 November 1987, 10. (From NewspaperSG). In total, 22 titles were conferred upon her from the Song dynasty to the Qing dynasty. See “Qian zai jie bao feng” 千载皆褒封 \[Praise for thousands of years\] 联合晚报 _Lianhe Wanbao_, 3 November 1987, 10. (From NewspaperSG)
+[^8]:   Lee, “Divinity and Salvation,” 63; “Mazu de laojia” 妈祖的老家 \[Mazu’s hometown\], 联合晚报 _Lianhe Wanbao_, 3 November 1987, 10. (From NewspaperSG). In total, 22 titles were conferred upon her from the Song dynasty to the Qing dynasty. See “Qian zai jie bao feng” 千载皆褒封 \[Praise for thousands of years\] 联合晚报 _Lianhe Wanbao_, 3 November 1987, 10. (From NewspaperSG)
 
-Barbara Watson Andaya, “Seas, Oceans and Cosmologies in Southeast Asia,” _Journal of Southeast Asian Studies_ 48, no. 3 (October 2017): 362. (From JSTOR via NLB’s eResources website)
+[^9]:   Barbara Watson Andaya, “Seas, Oceans and Cosmologies in Southeast Asia,” _Journal of Southeast Asian Studies_ 48, no. 3 (October 2017): 362. (From JSTOR via NLB’s eResources website)
 
-Evelyn Lip, _Chinese Temples and Deities_ (Singapore: Times Books International, 1986), 31. (From National Library Singapore, call no. RCLOS 726.1951095957 LIP); Li, _Mazu Xinyang_, 27.
+[^10]:   Evelyn Lip, _Chinese Temples and Deities_ (Singapore: Times Books International, 1986), 31. (From National Library Singapore, call no. RCLOS 726.1951095957 LIP); Li, _Mazu Xinyang_, 27.
 
-“Cong tianhou dan shuo dao mazu gong” 從天后誕說到媽祖宮 \[From Tianhou’s birthday to Mazu palace\], 南洋商报 _Nanyang Siang Pau_, 5 May 1970, 8. (From NewspaperSG)
 
-“Guseguxiang de tianfu gong” 古色古香的天福宮 \[The antique Thian Hock Temple\], 星洲日报 _Sin Chew Jit Poh_, 7 June 1973, 20; “Xing zhou mazu gong yu mazu” 星洲媽祖宮與媽祖 \[Xingzhou Mazu palace and Mazu\], 南洋商报 _Nanyang Siang Pau_, 30 October 1955, 4. (From NewspaperSG)
 
-Cheng Lim Keak, “Traditional Religious Beliefs, Emigration and the Social Structure of the Chinese in Singapore,” in _A General History of the Chinese in Singapore_, ed. Kwa Chong Guan and Kua Bak Lim (Singapore: World Scientific Publishing, 2019), 496.&nbsp;
+[^11]:   “Cong tianhou dan shuo dao mazu gong” 從天后誕說到媽祖宮 \[From Tianhou’s birthday to Mazu palace\], 南洋商报 _Nanyang Siang Pau_, 5 May 1970, 8. (From NewspaperSG)
 
-“Mazu yu xinjiapo” 妈祖与新加坡 \[Mazu and Singapore\], 联合早报 _Lianhe Zaobao_, 17 March 1991, 38. (From NewspaperSG)
+[^12]:   “Guseguxiang de tianfu gong” 古色古香的天福宮 \[The antique Thian Hock Temple\], 星洲日报 _Sin Chew Jit Poh_, 7 June 1973, 20; “Xing zhou mazu gong yu mazu” 星洲媽祖宮與媽祖 \[Xingzhou Mazu palace and Mazu\], 南洋商报 _Nanyang Siang Pau_, 30 October 1955, 4. (From NewspaperSG)
 
-“Chendusheng jiazu lingdao fujian huiguan 75 nian” 陈笃生家族领导福建会馆75年 \[Tan Tock Seng’s family leads Hokkien Huay Kuan for 75 years\], 联合早报 _Lianhe Zaobao_, 7 April 1991, 38. (From NewspaperSG)
+[^13]:   Cheng Lim Keak, “Traditional Religious Beliefs, Emigration and the Social Structure of the Chinese in Singapore,” in _A General History of the Chinese in Singapore_, ed. Kwa Chong Guan and Kua Bak Lim (Singapore: World Scientific Publishing, 2019), 496.&nbsp;
 
-Hue, “Chinese Temples and the Transnational Networks,” 503.
+[^14]:   “Mazu yu xinjiapo” 妈祖与新加坡 \[Mazu and Singapore\], 联合早报 _Lianhe Zaobao_, 17 March 1991, 38. (From NewspaperSG)
 
-Hue, “Chinese Temples and the Transnational Networks,” 504; See also “Mazu” 妈祖 \[Mazu\], 联合早报 _Lianhe Zaobao_, 20 December 1990, 8. (From NewspaperSG)&nbsp;
+[^15]:   “Chendusheng jiazu lingdao fujian huiguan 75 nian” 陈笃生家族领导福建会馆75年 \[Tan Tock Seng’s family leads Hokkien Huay Kuan for 75 years\], 联合早报 _Lianhe Zaobao_, 7 April 1991, 38. (From NewspaperSG)
 
-“Tianhou dan yu tianhou hui de zuzhi” 天后诞与天后会的组织 \[The organisation of the Queen’s Day and the Queen’s Association\], 南洋商报 _Nanyang Siang Pau_, 25 April 1954, 6. (From NewspaperSG)
+[^16]:   Hue, “Chinese Temples and the Transnational Networks,” 503.
 
-Nelson Lim, interview via Zoom, 3 July 2024.&nbsp;
+[^17]:   Hue, “Chinese Temples and the Transnational Networks,” 504; See also “Mazu” 妈祖 \[Mazu\], 联合早报 _Lianhe Zaobao_, 20 December 1990, 8. (From NewspaperSG)&nbsp;
 
-Dr Koh Chin Yee, email interview, 1 July 2024.&nbsp;
+[^18]:   “Tianhou dan yu tianhou hui de zuzhi” 天后诞与天后会的组织 \[The organisation of the Queen’s Day and the Queen’s Association\], 南洋商报 _Nanyang Siang Pau_, 25 April 1954, 6. (From NewspaperSG)
 
-Yvinne Neo, email interview, 18 June 2024.&nbsp;
+[^19]:   Nelson Lim, interview via Zoom, 3 July 2024.&nbsp;
 
-Mark, correspondence via Whatsapp, 30 June 2024.&nbsp;
+[^20]:   Dr Koh Chin Yee, email interview, 1 July 2024.&nbsp;
 
-“Chinese Processions,” _Singapore Free Press_, 23 April 1840, 3. (From NewspaperSG)
 
-“Mazu po shengri zhi lun” 妈祖婆生日之论 \[On Mazu’s birthday\], 南洋商报 _Nanyang Siang Pau_, 25 October 1982, 31. (From NewspaperSG)&nbsp;
+[^21]:   Yvinne Neo, email interview, 18 June 2024.&nbsp;
 
-Collaterals from Thian Hock Keng mention that such excursions should either be held for three consecutive years or every three years.&nbsp;
+[^22]:   Mark, correspondence via Whatsapp, 30 June 2024.&nbsp;
 
-Collaterals from Thian Hock Keng.&nbsp;
+[^23]:   “Chinese Processions,” _Singapore Free Press_, 23 April 1840, 3. (From NewspaperSG)
 
-Émile Durkheim, _The Elementary Forms of Religious Life_ (Oxford &amp; New York: Oxford University Press, 2008), 36– 37, 228–29. \[NLB has the 1995 edition published by The Free Press, call no. 306.6 DUR.\]
+[^24]:   “Mazu po shengri zhi lun” 妈祖婆生日之论 \[On Mazu’s birthday\], 南洋商报 _Nanyang Siang Pau_, 25 October 1982, 31. (From NewspaperSG)&nbsp;
 
-Collaterals from Thian Hock Keng.&nbsp;
+[^25]:   Collaterals from Thian Hock Keng mention that such excursions should either be held for three consecutive years or every three years.&nbsp;
 
-“Noisy, Gaudy and Spiritual: Young Pilgrims Embrace an Ancient Goddess,” _New York Times_, 3 May 2024, https://www.nytimes.com/2024/05/03/world/asia/taiwan-religion-mazu-pilgrimage.html.
+[^26]:   Collaterals from Thian Hock Keng.&nbsp;
 
-“Mazu rao jing xun an yu 6000 xinzhong tianfu gong qifu” 妈祖绕境巡安 逾6000信众天福宫祈福 \[Mazu patrols the border and more than 6,000 believers pray at Tianfu Temple\], 联合早报 _Lianhe Zaobao_, 1 May 2024, https://www.zaobao.com.sg/news/singapore/story20240501-3548512.
+[^27]:   Émile Durkheim, _The Elementary Forms of Religious Life_ (Oxford &amp; New York: Oxford University Press, 2008), 36– 37, 228–29. \[NLB has the 1995 edition published by The Free Press, call no. 306.6 DUR.\]
 
-Singapore Port Information,” Port Info Hub Pte. Ltd., accessed 11 February 2025, https://portinfohub.com/port-information/singapore/singapore-port-anchorages/.
+[^28]:   Collaterals from Thian Hock Keng.&nbsp;
 
-This is not unlikely given the global footprint of Mazu temples which extends as far as San Francisco in California and Austin in Texas, United States.
+[^29]:   “Noisy, Gaudy and Spiritual: Young Pilgrims Embrace an Ancient Goddess,” _New York Times_, 3 May 2024, https://www.nytimes.com/2024/05/03/world/asia/taiwan-religion-mazu-pilgrimage.html.
 
-“Mazu po shengri zhi lun.”&nbsp;
+[^30]:   “Mazu rao jing xun an yu 6000 xinzhong tianfu gong qifu” 妈祖绕境巡安 逾6000信众天福宫祈福 \[Mazu patrols the border and more than 6,000 believers pray at Tianfu Temple\], 联合早报 _Lianhe Zaobao_, 1 May 2024, https://www.zaobao.com.sg/news/singapore/story20240501-3548512.
 
-“Tides of Change: One Last Look at Senoko Fishery Port,” _Straits Times_, 13 March 2024, https://www.straitstimes.com/multimedia/graphics/2024/03/senoko-fishery-port-singapore/index.html?shell.
 
-[^2]:   
+[^31]:   Singapore Port Information,” Port Info Hub Pte. Ltd., accessed 11 February 2025, https://portinfohub.com/port-information/singapore/singapore-port-anchorages/.
 
-[^3]:   
+[^32]:   This is not unlikely given the global footprint of Mazu temples which extends as far as San Francisco in California and Austin in Texas, United States.
 
-[^4]:   
+[^33]:   “Mazu po shengri zhi lun.”&nbsp;
 
-[^5]:   
-
-[^6]:   
-
-[^7]:   
-
-[^8]:   
-
-[^9]:   
-
-[^10]:   
-
-
-
-[^11]:   
-
-[^12]:   
-
-[^13]:   
-
-[^14]:   
-
-[^15]:   
-
-[^16]:   
-
-[^17]:   
-
-[^18]:   
-
-[^19]:   
-
-[^20]:   
-
-
-[^21]:   
-
-[^22]:   
-
-[^23]:   
-
-[^24]:   
-
-[^25]:   
-
-[^26]:   
-
-[^27]:   
-
-[^28]:   
-
-[^29]:   
-
-[^30]:   
-
-
-[^31]:   
-
-[^32]:   
-
-[^33]:   
-
-[^34]:   
-
-
+[^34]: “Tides of Change: One Last Look at Senoko Fishery Port,” _Straits Times_, 13 March 2024, https://www.straitstimes.com/multimedia/graphics/2024/03/senoko-fishery-port-singapore/index.html?shell.
