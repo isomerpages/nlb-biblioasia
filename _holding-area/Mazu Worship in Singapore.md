@@ -154,9 +154,9 @@ So long as Singapore’s economic story continues to be intertwined with the sea
 
 [^16]:   Hue, “[Chinese Temples and the Transnational Networks](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203868804),” 503.
 
-[^17]:   Hue, “[Chinese Temples and the Transnational Networks](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203868804),” 504; See also “Mazu” 妈祖 \[Mazu\], 联合早报 _Lianhe Zaobao_, 20 December 1990, 8. (From NewspaperSG)&nbsp;
+[^17]:   Hue, “[Chinese Temples and the Transnational Networks](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203868804),” 504; See also “[Mazu](https://eresources.nlb.gov.sg/newspapers/digitised/article/lhzb19901220-1.2.10.19.1)” 妈祖 \[Mazu\], 联合早报 _Lianhe Zaobao_, 20 December 1990, 8. (From NewspaperSG)&nbsp;
 
-[^18]:   “Tianhou dan yu tianhou hui de zuzhi” 天后诞与天后会的组织 \[The organisation of the Queen’s Day and the Queen’s Association\], 南洋商报 _Nanyang Siang Pau_, 25 April 1954, 6. (From NewspaperSG)
+[^18]:   “[Tianhou dan yu tianhou hui de zuzhi](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19540425-1.2.21.17.1)” 天后诞与天后会的组织 \[The organisation of the Queen’s Day and the Queen’s Association\], 南洋商报 _Nanyang Siang Pau_, 25 April 1954, 6. (From NewspaperSG)
 
 [^19]:   Nelson Lim, interview via Zoom, 3 July 2024.&nbsp;
 
@@ -167,19 +167,19 @@ So long as Singapore’s economic story continues to be intertwined with the sea
 
 [^22]:   Mark, correspondence via Whatsapp, 30 June 2024.&nbsp;
 
-[^23]:   “Chinese Processions,” _Singapore Free Press_, 23 April 1840, 3. (From NewspaperSG)
+[^23]:   “[Chinese Processions](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18400423-1.2.11),” _Singapore Free Press_, 23 April 1840, 3. (From NewspaperSG)
 
-[^24]:   “Mazu po shengri zhi lun” 妈祖婆生日之论 \[On Mazu’s birthday\], 南洋商报 _Nanyang Siang Pau_, 25 October 1982, 31. (From NewspaperSG)&nbsp;
+[^24]:   “[Mazu po shengri zhi lun](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19821025-1.2.56.2.1)” 妈祖婆生日之论 \[On Mazu’s birthday\], 南洋商报 _Nanyang Siang Pau_, 25 October 1982, 31. (From NewspaperSG)&nbsp;
 
 [^25]:   Collaterals from Thian Hock Keng mention that such excursions should either be held for three consecutive years or every three years.&nbsp;
 
 [^26]:   Collaterals from Thian Hock Keng.&nbsp;
 
-[^27]:   Émile Durkheim, _The Elementary Forms of Religious Life_ (Oxford &amp; New York: Oxford University Press, 2008), 36– 37, 228–29. \[NLB has the 1995 edition published by The Free Press, call no. 306.6 DUR.\]
+[^27]:   Émile Durkheim, _The Elementary Forms of Religious Life_ (Oxford &amp; New York: Oxford University Press, 2008), 36– 37, 228–29. \[NLB has the [1995 edition](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7456433) published by The Free Press, call no. 306.6 DUR.\]
 
 [^28]:   Collaterals from Thian Hock Keng.&nbsp;
 
-[^29]:   “Noisy, Gaudy and Spiritual: Young Pilgrims Embrace an Ancient Goddess,” _New York Times_, 3 May 2024, https://www.nytimes.com/2024/05/03/world/asia/taiwan-religion-mazu-pilgrimage.html.
+[^29]:   “Noisy, Gaudy and Spiritual: Young Pilgrims Embrace an Ancient Goddess,” _New York Times_, 3 May 2024, [https://www.nytimes.com/2024/05/03/world/asia/taiwan-religion-mazu-pilgrimage.html](https://www.nytimes.com/2024/05/03/world/asia/taiwan-religion-mazu-pilgrimage.html).
 
 [^30]:   “Mazu rao jing xun an yu 6000 xinzhong tianfu gong qifu” 妈祖绕境巡安 逾6000信众天福宫祈福 \[Mazu patrols the border and more than 6,000 believers pray at Tianfu Temple\], 联合早报 _Lianhe Zaobao_, 1 May 2024, https://www.zaobao.com.sg/news/singapore/story20240501-3548512.
 
