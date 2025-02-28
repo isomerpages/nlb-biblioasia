@@ -100,7 +100,7 @@ So long as Singapore’s economic story continues to be intertwined with the sea
 
 #### **NOTES**
 
-[^1]:   James L. Watson, “Standardising the Gods: The Promotion of T’ien Hou (“Empress of Heaven”) Along the South China Coast (960 – 1960),” in _Popular Culture in Late Imperial China_, ed. David Johnson, Andrew J. Nathan and Evelyn S. Rawski (Berkeley: University of California Press, 1985), 295. (From National Library Singapore, call no. RCLOS 951.03 POP-\[GH\])&nbsp;
+[^1]:   James L. Watson, “Standardising the Gods: The Promotion of T’ien Hou (“Empress of Heaven”) Along the South China Coast (960 – 1960),” in [_Popular Culture in Late Imperial China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2922971), ed. David Johnson, Andrew J. Nathan and Evelyn S. Rawski (Berkeley: University of California Press, 1985), 295. (From National Library Singapore, call no. RCLOS 951.03 POP-\[GH\])&nbsp;
 
 [^2]:   Li Lulu李露露, _Mazu xinyang_ 妈祖信仰 \[Mazu belief\] (北京: 学苑出版社, 1995), 12.&nbsp;
 
@@ -110,13 +110,13 @@ So long as Singapore’s economic story continues to be intertwined with the sea
 
 [^5]:   Thomson, _Chinese Religion_, 57.&nbsp;
 
-[^6]:   Irwin Lee, “Divinity and Salvation: The Great Goddesses of China,” _Asian Folklore Studies_ 49, no. 1 (1990): 63. (From JSTOR via NLB’s eResources website)
+[^6]:   Irwin Lee, “Divinity and Salvation: The Great Goddesses of China,” _Asian Folklore Studies_ 49, no. 1 (1990): 63. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
 [^7]:   Watson, “Standardising the Gods,” 293–94, 299–300.
 
-[^8]:   Lee, “Divinity and Salvation,” 63; “Mazu de laojia” 妈祖的老家 \[Mazu’s hometown\], 联合晚报 _Lianhe Wanbao_, 3 November 1987, 10. (From NewspaperSG). In total, 22 titles were conferred upon her from the Song dynasty to the Qing dynasty. See “Qian zai jie bao feng” 千载皆褒封 \[Praise for thousands of years\] 联合晚报 _Lianhe Wanbao_, 3 November 1987, 10. (From NewspaperSG)
+[^8]:   Lee, “Divinity and Salvation,” 63; “[Mazu de laojia](https://eresources.nlb.gov.sg/newspapers/digitised/article/lhwb19871103-1.2.19.1.1)” 妈祖的老家 \[Mazu’s hometown\], 联合晚报 _Lianhe Wanbao_, 3 November 1987, 10. (From NewspaperSG). In total, 22 titles were conferred upon her from the Song dynasty to the Qing dynasty. See “[Qian zai jie bao feng](https://eresources.nlb.gov.sg/newspapers/digitised/page/lhwb19871103-1.1.10)” 千载皆褒封 \[Praise for thousands of years\] 联合晚报 _Lianhe Wanbao_, 3 November 1987, 10. (From NewspaperSG)
 
-[^9]:   Barbara Watson Andaya, “Seas, Oceans and Cosmologies in Southeast Asia,” _Journal of Southeast Asian Studies_ 48, no. 3 (October 2017): 362. (From JSTOR via NLB’s eResources website)
+[^9]:   Barbara Watson Andaya, “Seas, Oceans and Cosmologies in Southeast Asia,” _Journal of Southeast Asian Studies_ 48, no. 3 (October 2017): 362. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
 [^10]:   Evelyn Lip, _Chinese Temples and Deities_ (Singapore: Times Books International, 1986), 31. (From National Library Singapore, call no. RCLOS 726.1951095957 LIP); Li, _Mazu Xinyang_, 27.
 
