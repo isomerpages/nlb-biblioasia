@@ -147,9 +147,9 @@ So long as Singapore’s economic story continues to be intertwined with the sea
 
 [^22]:   Mark, correspondence via Whatsapp, 30 June 2024.&nbsp;
 
-[^23]:   “Chinese Processions,” _Singapore Free Press_, 23 April 1840, 3. (From NewspaperSG)
+[^23]:   “[Chinese Processions](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18400423-1.2.11),” _Singapore Free Press_, 23 April 1840, 3. (From NewspaperSG)
 
-[^24]:   “Mazu po shengri zhi lun” 妈祖婆生日之论 \[On Mazu’s birthday\], 南洋商报 _Nanyang Siang Pau_, 25 October 1982, 31. (From NewspaperSG)&nbsp;
+[^24]:   “[Mazu po shengri zhi lun](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19821025-1.2.56.2.1)” 妈祖婆生日之论 \[On Mazu’s birthday\], 南洋商报 _Nanyang Siang Pau_, 25 October 1982, 31. (From NewspaperSG)&nbsp;
 
 [^25]:   Collaterals from Thian Hock Keng mention that such excursions should either be held for three consecutive years or every three years.&nbsp;
 
