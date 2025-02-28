@@ -181,13 +181,13 @@ So long as Singapore’s economic story continues to be intertwined with the sea
 
 [^29]:   “Noisy, Gaudy and Spiritual: Young Pilgrims Embrace an Ancient Goddess,” _New York Times_, 3 May 2024, [https://www.nytimes.com/2024/05/03/world/asia/taiwan-religion-mazu-pilgrimage.html](https://www.nytimes.com/2024/05/03/world/asia/taiwan-religion-mazu-pilgrimage.html).
 
-[^30]:   “Mazu rao jing xun an yu 6000 xinzhong tianfu gong qifu” 妈祖绕境巡安 逾6000信众天福宫祈福 \[Mazu patrols the border and more than 6,000 believers pray at Tianfu Temple\], 联合早报 _Lianhe Zaobao_, 1 May 2024, https://www.zaobao.com.sg/news/singapore/story20240501-3548512.
+[^30]:   “Mazu rao jing xun an yu 6000 xinzhong tianfu gong qifu” 妈祖绕境巡安 逾6000信众天福宫祈福 \[Mazu patrols the border and more than 6,000 believers pray at Tianfu Temple\], 联合早报 _Lianhe Zaobao_, 1 May 2024, [https://www.zaobao.com.sg/news/singapore/story20240501-3548512](https://www.zaobao.com.sg/news/singapore/story20240501-3548512).
 
 
-[^31]:   Singapore Port Information,” Port Info Hub Pte. Ltd., accessed 11 February 2025, https://portinfohub.com/port-information/singapore/singapore-port-anchorages/.
+[^31]:   Singapore Port Information,” Port Info Hub Pte. Ltd., accessed 11 February 2025, [https://portinfohub.com/port-information/singapore/singapore-port-anchorages/](https://portinfohub.com/port-information/singapore/singapore-port-anchorages/).
 
 [^32]:   This is not unlikely given the global footprint of Mazu temples which extends as far as San Francisco in California and Austin in Texas, United States.
 
-[^33]:   “Mazu po shengri zhi lun.”&nbsp;
+[^33]:   “[Mazu po shengri zhi lun](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19821025-1.2.56.2.1).”&nbsp;
 
-[^34]: “Tides of Change: One Last Look at Senoko Fishery Port,” _Straits Times_, 13 March 2024, https://www.straitstimes.com/multimedia/graphics/2024/03/senoko-fishery-port-singapore/index.html?shell.
+[^34]: “Tides of Change: One Last Look at Senoko Fishery Port,” _Straits Times_, 13 March 2024, [https://www.straitstimes.com/multimedia/graphics/2024/03/senoko-fishery-port-singapore/index.html?shell](https://www.straitstimes.com/multimedia/graphics/2024/03/senoko-fishery-port-singapore/index.html?shell).
