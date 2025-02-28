@@ -138,23 +138,23 @@ So long as Singapore’s economic story continues to be intertwined with the sea
 
 [^9]:   Barbara Watson Andaya, “Seas, Oceans and Cosmologies in Southeast Asia,” _Journal of Southeast Asian Studies_ 48, no. 3 (October 2017): 362. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-[^10]:   Evelyn Lip, _Chinese Temples and Deities_ (Singapore: Times Books International, 1986), 31. (From National Library Singapore, call no. RCLOS 726.1951095957 LIP); Li, _Mazu Xinyang_, 27.
+[^10]:   Evelyn Lip, [_Chinese Temples and Deities_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4080117) (Singapore: Times Books International, 1986), 31. (From National Library Singapore, call no. RCLOS 726.1951095957 LIP); Li, _Mazu Xinyang_, 27.
 
 
 
-[^11]:   “Cong tianhou dan shuo dao mazu gong” 從天后誕說到媽祖宮 \[From Tianhou’s birthday to Mazu palace\], 南洋商报 _Nanyang Siang Pau_, 5 May 1970, 8. (From NewspaperSG)
+[^11]:   “[Cong tianhou dan shuo dao mazu gong](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19700505-1.2.19.9)” 從天后誕說到媽祖宮 \[From Tianhou’s birthday to Mazu palace\], 南洋商报 _Nanyang Siang Pau_, 5 May 1970, 8. (From NewspaperSG)
 
-[^12]:   “Guseguxiang de tianfu gong” 古色古香的天福宮 \[The antique Thian Hock Temple\], 星洲日报 _Sin Chew Jit Poh_, 7 June 1973, 20; “Xing zhou mazu gong yu mazu” 星洲媽祖宮與媽祖 \[Xingzhou Mazu palace and Mazu\], 南洋商报 _Nanyang Siang Pau_, 30 October 1955, 4. (From NewspaperSG)
+[^12]:   “[Guseguxiang de tianfu gong](https://eresources.nlb.gov.sg/newspapers/digitised/article/scjp19730607-1.2.67.6)” 古色古香的天福宮 \[The antique Thian Hock Temple\], 星洲日报 _Sin Chew Jit Poh_, 7 June 1973, 20; “[Xing zhou mazu gong yu mazu](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19551030-1.2.21.9.1)” 星洲媽祖宮與媽祖 \[Xingzhou Mazu palace and Mazu\], 南洋商报 _Nanyang Siang Pau_, 30 October 1955, 4. (From NewspaperSG)
 
-[^13]:   Cheng Lim Keak, “Traditional Religious Beliefs, Emigration and the Social Structure of the Chinese in Singapore,” in _A General History of the Chinese in Singapore_, ed. Kwa Chong Guan and Kua Bak Lim (Singapore: World Scientific Publishing, 2019), 496.&nbsp;
+[^13]:   Cheng Lim Keak, “Traditional Religious Beliefs, Emigration and the Social Structure of the Chinese in Singapore,” in [_A General History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203868804), ed. Kwa Chong Guan and Kua Bak Lim (Singapore: World Scientific Publishing, 2019), 496.&nbsp;
 
-[^14]:   “Mazu yu xinjiapo” 妈祖与新加坡 \[Mazu and Singapore\], 联合早报 _Lianhe Zaobao_, 17 March 1991, 38. (From NewspaperSG)
+[^14]:   “[Mazu yu xinjiapo](https://eresources.nlb.gov.sg/newspapers/digitised/article/lhzb19910317-1.2.60.1.1)” 妈祖与新加坡 \[Mazu and Singapore\], 联合早报 _Lianhe Zaobao_, 17 March 1991, 38. (From NewspaperSG)
 
-[^15]:   “Chendusheng jiazu lingdao fujian huiguan 75 nian” 陈笃生家族领导福建会馆75年 \[Tan Tock Seng’s family leads Hokkien Huay Kuan for 75 years\], 联合早报 _Lianhe Zaobao_, 7 April 1991, 38. (From NewspaperSG)
+[^15]:   “[Chendusheng jiazu lingdao fujian huiguan 75 nian](https://eresources.nlb.gov.sg/newspapers/digitised/article/lhzb19910407-1.2.70.1.3)” 陈笃生家族领导福建会馆75年 \[Tan Tock Seng’s family leads Hokkien Huay Kuan for 75 years\], 联合早报 _Lianhe Zaobao_, 7 April 1991, 38. (From NewspaperSG)
 
-[^16]:   Hue, “Chinese Temples and the Transnational Networks,” 503.
+[^16]:   Hue, “[Chinese Temples and the Transnational Networks](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203868804),” 503.
 
-[^17]:   Hue, “Chinese Temples and the Transnational Networks,” 504; See also “Mazu” 妈祖 \[Mazu\], 联合早报 _Lianhe Zaobao_, 20 December 1990, 8. (From NewspaperSG)&nbsp;
+[^17]:   Hue, “[Chinese Temples and the Transnational Networks](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203868804),” 504; See also “Mazu” 妈祖 \[Mazu\], 联合早报 _Lianhe Zaobao_, 20 December 1990, 8. (From NewspaperSG)&nbsp;
 
 [^18]:   “Tianhou dan yu tianhou hui de zuzhi” 天后诞与天后会的组织 \[The organisation of the Queen’s Day and the Queen’s Association\], 南洋商报 _Nanyang Siang Pau_, 25 April 1954, 6. (From NewspaperSG)
 
