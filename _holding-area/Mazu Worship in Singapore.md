@@ -82,6 +82,9 @@ Around 7 pm, the elements comprising the Excursion for Peace contingent got into
 
 Following close behind was Mazu’s immediate entourage. Heavenly generals, flanked by the signs “Silence” (肃静) and “Retreat” (回避), put everyone, spirit or human, on notice. This was followed by the Lead Flag. All these made up the beginning of the sanctum, where Mazu held court. To add to the martial air, a set of 12 weapons borne by devotees escorted and protected her. This was an occasion of pomp and splendour – the Empress of Heaven was out inspecting her realm. Next up were the ritual elements made up of Taoist priests, accompanied by the principal and lead devotees.
 
+![](/images/Vol%2021%20Issue%201/Mazu/mazu_principal.jpg)
+<div style="background-color: white;">Mazu being carried by a principal devotee during the 45-minute ferry ride out to the waters around the Southern Islands. <i>Photo by Alvin Tan.</i></div>
+
 In the inner sanctum, a parasol, kept spinning continuously by a group of male devotees, provides shade and cover for Mazu. Devotees believe that she is physically here. Accompanied by her guardian deities – Shunfeng’er and Qianliyan – Mazu sits on a red, swinging sedan chair studded with red LED light strips and borne by a party of male devotees from the Boon San Lian Ngee Association. Mounted on the sedan chair, just behind her, is a set of flags of five colours signifying the five elements of metal, wood, water, fire and earth. They are symbols of her authority over her generals and troops. These also remind devotees and wandering spirits of her high status. A pair of fans decorated with sun and moon motifs flank the sedan chair, protecting her and the throng of around one thousand devotees following closely behind.[^30]
 
 ![](/images/Vol%2021%20Issue%201/Mazu/mazu_birthday.jpg)
