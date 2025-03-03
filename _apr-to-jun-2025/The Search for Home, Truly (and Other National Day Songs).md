@@ -110,6 +110,7 @@ None of the songs which had been submitted was quite what we were looking for. H
 Dick wrote one verse based on the notion of Singapore as “our home”, but we needed a second verse to make a complete song. After he had added the new verse, we felt that it needed a bit of tweaking, I called him in Hong Kong, where he was then based, and over this phone conversation, the second verse was finalised and “Home” was born.
 
 ![](/images/Vol%2021%20Issue%201/Sing%20Singapore/sing_facing2.jpg)
+<div>Kit Chan performing “Home” at the 1998 National Day Parade. This was the National Day song that year. <i>Lianhe Zaobao © SPH Media Limited. Permission required for reproduction.</i></div>
 
 Although the committee knew that Dick had produced an outstanding song in consonance with the national mood, we wondered if the song’s slow tempo would be acceptable to the NDP organisers. I made a simple choral arrangement of the song and pitched it to the NDP committee, explaining why the song was not the usual upbeat “rah-rah” song. The committee immediately understood and readily agreed that “Home” would be the National Day song for 1998.
 
