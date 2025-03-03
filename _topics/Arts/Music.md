@@ -9,7 +9,7 @@ variant: markdown
 
 The effort to find songs that express a national identity goes back to the 1970s.
 
- <img src="/images/Vol%2021%20Issue%201/Sing%20Singapore/Kit_Chan_Topic.jpg" style="width:80%;">
+ <img src="/images/Vol%2021%20Issue%201/Sing%20Singapore/Sing_Topics.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-1/apr-jun-2024/singapore-bands-vietnam-war/">American Troops. Singapore Bands. The Vietnam War</a>
