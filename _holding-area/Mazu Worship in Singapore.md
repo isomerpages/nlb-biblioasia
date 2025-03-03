@@ -31,6 +31,9 @@ Mazu is often portrayed clothed in “a gown with embroidery work and a crown wi
 &nbsp;(千里眼; Thousand-Li Eye) and on the right Shunfeng’er  
 &nbsp;(顺风耳; Favourable-Wind Ear). <i>Collection of the Asian Civilisations Museum. </i></div>
 
+![](/images/Vol%2021%20Issue%201/Mazu/mazu_facing2.jpg)
+<div style="background-color: white;">Qianliyan (left) and Shunfeng’er &nbsp;(right) at Thian Hock Keng, 2025. <i>Photos by Jimmy Yap.</i></div>
+
 #### **Building Thian Hock Keng**
 
 Mazu’s history in Singapore is tied closely to the history of Chinese immigrants here. According to some accounts, Mazu worship predated Stamford Raffles’ arrival in Singapore. As early as 1810, Chinese immigrants were working on the island’s pepper and gambier plantations and they brought Mazu with them. Eventually, a small joss house was built along the waterfront to worship her.[^11]
@@ -48,6 +51,9 @@ In Thian Hock Keng, Mazu occupies the main (or central) hall. Guan Gong (关公;
   
 
 We, the _tangren_ (Chinese), have come from the interior by junks to engage in business here. We depended on Holy Mother of Gods to guide us across the sea safely and we were able to settle down here happily. Things are abundant and the people are healthy. We, the _tangren_, wish to return good for kindness. So we met and decided to build a temple in the south of Singapore at Telok Ayer to worship the Heavenly Consort day and night.[^16]
+
+![](/images/Vol%2021%20Issue%201/Mazu/mazu_facing2.jpg)
+<div style="background-color: white;">Mazu in the main hall of Thian Hock Keng, 2025. <i>Photo by Jimmy Yap.</i></div>
 
 #### **Mazu Devotion in Singapore**
 
