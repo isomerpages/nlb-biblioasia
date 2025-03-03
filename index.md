@@ -1105,4 +1105,14 @@ sections:
       image: /images/Online Only Articles/Conquer Tallest
         Mountain_12_23/mok_on_fixed_ropes_homepage.png
       alt: Image alt text
+  - infopic:
+      title: "Bali 1952: Through the Lens of Liu Kang"
+      subtitle: New book
+      id: infopic
+      description: The story of an inspiring artistic journey and never-before-seen
+        photographs of Bali taken by the artist Liu Kang in 1952.
+      button: A time capsule of Indonesian history
+      url: /selected-books/2025/
+      image: /images/publications/Bali_book_1952_isomer.jpg
+      alt: Bali 1952
 ---
