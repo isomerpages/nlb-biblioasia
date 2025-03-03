@@ -12,7 +12,7 @@ Dick Lee’s “Home” is arguably one of the most well loved of all our Nation
 <div style="background-color: white;">
 <br>
 <img src="/images/Vol%2021%20Issue%201/Sing%20Singapore/Sing_Topics.jpg" style="width: 80%;">
-<div>Kit Chan performing “Home” at the National Day Parade preview on 1 August 2015. <i>Source: The Straits Times © SPH Media Limited. Permission required for reproduction.</i></div>
+Kit Chan performing “Home” at the National Day Parade preview on 1 August 2015. <i>Source: The Straits Times © SPH Media Limited. Permission required for reproduction.</i></div>
 
 The popularity of National Day songs like “Home” and “Stand Up for Singapore” is the result of a decades-long effort to create national songs that can be sung communally. This effort to find a song that represents the nation (apart from “Majulah Singapura”, the national anthem) goes back at least to the 1970s.
 
@@ -231,4 +231,4 @@ I would therefore appeal to Singaporeans to receive each new National Day song w
 [^38]: “Singapore Symphony Choruses Present: We Will Get There,” Youtube, 16 June 2020, [https://youtu.be/yo6tCVJ-PdA?si=izrxqbx\_5J2u3UYp](https://youtu.be/yo6tCVJ-PdA?si=izrxqbx_5J2u3UYp).
     
 
-[^39]: Eddino Abdul Hadi, “The 5 Best NDP Theme Songs, From the Road Ahead to Home,” _Straits Times_, 27 July 2023, [https://www.straitstimes.com/life/entertainment/the-5-best-ndp-theme-songs-from-the-road-ahead-to-home](https://www.straitstimes.com/life/entertainment/the-5-best-ndp-theme-songs-from-the-road-ahead-to-home).</div>
+[^39]: Eddino Abdul Hadi, “The 5 Best NDP Theme Songs, From the Road Ahead to Home,” _Straits Times_, 27 July 2023, [https://www.straitstimes.com/life/entertainment/the-5-best-ndp-theme-songs-from-the-road-ahead-to-home](https://www.straitstimes.com/life/entertainment/the-5-best-ndp-theme-songs-from-the-road-ahead-to-home).
