@@ -17,6 +17,17 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 20 Issue 4/CPF/HeroImage_CPF.jpg
   - infopic:
+      title: The Construction of Bali’s Mystique
+      subtitle: Adventure and Travel
+      id: infopic
+      description: In 1953, four artists held an art exhibition arising from their
+        travels to Bali in 1952. Their trip was inspired by an image of the
+        island as an untouched Eden.
+      button: AN ISLAND PARADISE
+      image: /images/Vol 21 Issue 1/Bali's Mystique/mystique_topics2.jpg
+      alt: Bali’s Mystique
+      url: /vol-21/issue-1/apr-jun-2025/mystique-bali-travel-paradise/
+  - infopic:
       title: The Floods of 1954
       subtitle: Nature and the Environment
       id: infopic
@@ -1094,15 +1105,4 @@ sections:
       image: /images/Online Only Articles/Conquer Tallest
         Mountain_12_23/mok_on_fixed_ropes_homepage.png
       alt: Image alt text
-  - infopic:
-      title: The Construction of Bali’s Mystique
-      subtitle: Adventure and Travel
-      id: infopic
-      description: In 1953, four artists held an art exhibition arising from their
-        travels to Bali in 1952. Their trip was inspired by an image of the
-        island as an untouched Eden.
-      button: AN ISLAND PARADISE
-      image: /images/Vol 21 Issue 1/Bali's Mystique/mystique_topics2.jpg
-      alt: Bali’s Mystique
-      url: /vol-21/issue-1/apr-jun-2025/mystique-bali-travel-paradise/
 ---
