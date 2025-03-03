@@ -4,6 +4,11 @@ permalink: /topics/adventure/
 variant: markdown
 description: ""
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/mystique-bali-travel-paradise/">The Construction of Bali's Mystique</a>
+
+<img src="/images/Vol%2021%20Issue%201/Bali's%20Mystique/mystique_topics2.jpg" style="width: 80%; height: 100%;">  
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/american-expedition/">US Ex Ex: An Expedition for the Ages</a>
 
 The Wilkes Expedition – as it is popularly known – vastly expanded the borders of scientific learning.&nbsp;<b>Vidya Schalk</b>&nbsp;explains how this historic American naval mission between 1838 and 1842 is linked to Singapore.
@@ -52,6 +57,3 @@ One of the great travel writers of the 19th century, Isabella Bird was 47 when s
 
 <img src="/images/vol-10-issue-3/punkahs/Isabella_Bird.jpg" style="width:80%;">
 <hr>
-
-
-
