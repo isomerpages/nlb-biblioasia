@@ -130,7 +130,7 @@ So long as Singapore’s economic story continues to be intertwined with the sea
 
 [^5]:   Thomson, _Chinese Religion_, 57.&nbsp;
 
-[^6]:   Irwin Lee, “Divinity and Salvation: The Great Goddesses of China,” _Asian Folklore Studies_ 49, no. 1 (1990): 63. (From JSTOR via NLB’s [eResources]()http://eresources.nlb.gov.sg/ website)
+[^6]:   Irwin Lee, “Divinity and Salvation: The Great Goddesses of China,” _Asian Folklore Studies_ 49, no. 1 (1990): 63. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
 [^7]:   Watson, “Standardising the Gods,” 293–94, 299–300.
 
