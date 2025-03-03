@@ -17,6 +17,16 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol-13-issue-3/a-lifetime-of-labour/Amah_heroimage.png
   - infopic:
+      title: "Bali 1952: Through the Lens of Liu Kang"
+      subtitle: New book
+      id: infopic
+      description: The story of an inspiring artistic journey and never-before-seen
+        photographs of Bali taken by the artist Liu Kang in 1952.
+      button: A time capsule of Indonesian history
+      url: /selected-books/2025/
+      image: /images/publications/Bali_book_1952_isomer.jpg
+      alt: Bali 1952
+  - infopic:
       title: The Construction of Bali’s Mystique
       subtitle: Adventure and Travel
       id: infopic
@@ -27,17 +37,6 @@ sections:
       image: /images/Vol 21 Issue 1/Bali's Mystique/mystique_topics2.jpg
       alt: Bali’s Mystique
       url: /vol-21/issue-1/apr-jun-2025/mystique-bali-travel-paradise/
-  - infopic:
-      title: The Floods of 1954
-      subtitle: Nature and the Environment
-      id: infopic
-      description: The severe floods of 1954 spurred significant infrastructure
-        improvements and left a lasting impact on Singapore’s flood preparedness
-        measures.
-      button: IT’S RAINING CATS AND DOGS
-      url: /vol-21/issue-1/apr-jun-2025/1954-floods-singapore/
-      image: /images/Vol 21 Issue 1/Floods/floods_topics.jpg
-      alt: Floods of 1954
   - infopic:
       title: Newly Discovered Photos from Liu Kang’s 1952 Bali Trip
       subtitle: BiblioAsia Reels
