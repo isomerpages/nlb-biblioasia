@@ -1094,4 +1094,14 @@ sections:
       image: /images/Online Only Articles/Conquer Tallest
         Mountain_12_23/mok_on_fixed_ropes_homepage.png
       alt: Image alt text
+  - infopic:
+      title: The Construction of Bali’s Mystique
+      subtitle: Adventure and Travel
+      id: infopic
+      description: In 1953, four artists held an art exhibition arising from their
+        travels to Bali in 1952. Their trip was inspired by an image of the
+        island as an untouched Eden.
+      button: Button Text
+      image: /images/Vol 21 Issue 1/Bali's Mystique/mystique_topics2.jpg
+      alt: Image alt text
 ---
