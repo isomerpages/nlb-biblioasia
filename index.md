@@ -17,6 +17,17 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 20 Issue 4/CPF/HeroImage_CPF.jpg
   - infopic:
+      title: The Floods of 1954
+      subtitle: Nature and the Environment
+      id: infopic
+      description: The severe floods of 1954 spurred significant infrastructure
+        improvements and left a lasting impact on Singapore’s flood preparedness
+        measures.
+      button: IT’S RAINING CATS AND DOGS
+      url: /vol-21/issue-1/apr-jun-2025/1954-floods-singapore/
+      image: /images/Vol 21 Issue 1/Floods/floods_topics.jpg
+      alt: Floods of 1954
+  - infopic:
       title: Newly Discovered Photos from Liu Kang’s 1952 Bali Trip
       subtitle: BiblioAsia Reels
       id: infopic
@@ -1083,15 +1094,4 @@ sections:
       image: /images/Online Only Articles/Conquer Tallest
         Mountain_12_23/mok_on_fixed_ropes_homepage.png
       alt: Image alt text
-  - infopic:
-      title: The Floods of 1954
-      subtitle: Nature and the Environment
-      id: infopic
-      description: The severe floods of 1954 spurred significant infrastructure
-        improvements and left a lasting impact on Singapore’s flood preparedness
-        measures.
-      button: IT’S RAINING CATS AND DOGS
-      url: /vol-21/issue-1/apr-jun-2025/1954-floods-singapore/
-      image: /images/Vol 21 Issue 1/Floods/floods_topics.jpg
-      alt: Floods of 1954
 ---
