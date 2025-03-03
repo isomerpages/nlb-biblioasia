@@ -1,6 +1,6 @@
 ---
 title: The Construction of Bali’s Mystique
-permalink: /holding-area/vol-21/issue-1/apr-jun-2025/the-construction-of-bali-s-mystique/
+permalink: /vol-21/issue-1/apr-jun-2025/mystique-bali-travel-paradise/
 variant: markdown
 description: ""
 ---
@@ -92,7 +92,7 @@ Shister showcased his Bali paintings and drawings at the Robinson’s department
 
 Written accounts by travellers also shaped public perception and understanding of Balinese culture, people and landscape. These narratives, which ranged from fiction to memoirs, served as tales for armchair tourists, offering them vicarious experiences and personal insights into the island.[^27] Some of these early authors include American journalist Hickman Powell, Austrian novelist Vicki Baum and Mexican artist Miguel Covarrubias.[^28]
 
-![](/images/Vol%2021%20Issue%201/Bali's%20Mystique/mystique_paradise.jpg)
+![](/images/Vol%2021%20Issue%201/Bali's%20Mystique/mystique_paradise2.jpg)
 <div style="background-color: white;">Hickman Powell’s chance encounter with filmmaker André&nbsp;Roosevelt, known for the&nbsp;<i>Goona Goona</i>&nbsp;film, led to his literary endeavour,&nbsp;<i>The Last Paradise</i>. <i>Image reproduced from Hickman Powell, The Last Paradise (New York: Cape and Smith, 1930). (From National Library Singapore, call no. RCLOS 959.86 POW-[RFL]).</i></div>
 
 Ethnographic works by anthropologists Margaret Mead and Gregory Bateson portrayed Bali as a timeless paradise, unaltered by modernity. They documented Balinese culture extensively through thousands of photographs, film footage and detailed field notes, making a lasting impact in the field of visual anthropology.[^29]
@@ -110,12 +110,9 @@ The film industry further popularised the image of Bali not only in the West, bu
 In Singapore, one of the earliest mentions of a screening of a Bali-based film was in 1934 titled _Black Magic_ at the Alhambra theatre. This was likely _Goona Goona_ but released under a different name.[^36] Another film shot on location in Bali was _Legong: Dance of the (Temple) Virgins_, which opened in Singapore in 1935 at the Alhambra, featuring an all-Balinese cast and filmed in technicolour. Centred on a _legong_ dancer and a gamelan musician, the film was a box-office success in America and played for 10 weeks at the New York World Theatre in 1935.[^37]
 
 
-![](/images/Vol%2021%20Issue%201/Bali's%20Mystique/mystique_alhambra.jpg)
+![](/images/Vol%2021%20Issue%201/Bali's%20Mystique/mystique_alhambra2.jpg)
 <div style="background-color: white;">This film titled <i>Black Magic</i> is most likely André Roosevelt and Armand Denis’s <i>Goona Goona</i> released under a different name. <i>Image reproduced from “Black Magic,” Singapore Free Press and Mercantile Advertiser, 27 August 1934, 7. (From NewspaperSG).  </i></div>
 
-
-![](/images/Vol%2021%20Issue%201/Bali's%20Mystique/mystique_legong.jpg)
-<div style="background-color: white;">This film, shot on location in Ubud, Bali, was advertised as having “an all native cast – beautiful girls in their own natural paradise”. <i>Image reproduced from “‘Legong’ (‘Dance of the Temple Virgins’),” Singapore Free Press and Mercantile Advertiser, 23 May 1935, 7. (From NewspaperSG).</i></div>
 
 Balinese dance troupes first gained international exposure at the Colonial Exhibition in Paris before gradually touring the world, presumably as part of cultural missions.[^38] In 1935, a group known as the Royal Balinese Dancers performed at the Capitol in Singapore. Comprising 40 dancers and gamelan musicians, the troupe presented a programme of 11 items which included stories from the Hindu epic Mahabharata as well as Balinese, Javanese and Dayak dances. The following year, after a successful tour of India, Burma (Myanmar) and Ceylon (Sri Lanka), the same troupe returned to Singapore for another performance.[^39]
 
@@ -134,7 +131,7 @@ While Bali was typically touted as an exotic location with its beautiful and cha
 
 The July 1942 issue of《昭南画报》(_Syonan Gaho_) published in Singapore during the Japanese Occupation, featured images of Balinese dance and performances, which captured the spiritual and religious aspects of Bali. Among the images were illustrations by Covarrubias.[^45]
 
-![](/images/Vol%2021%20Issue%201/Bali's%20Mystique/mystique_pictorial.jpg)
+![](/images/Vol%2021%20Issue%201/Bali's%20Mystique/mystique_pictorial2.jpg)
 <div style="background-color: white;">A pictorial feature of Balinese dance and performances in the July 1942 issue of《昭南画报》(<i>Syonan Gaho</i>), with illustrations by the Mexican artist Miguel Covarrubias. <i>Image reproduced from Zhaonan Huabao 昭南画报 [Syonan Gaho] 1, no. 2 (July 1942), n.p. (From National Library Singapore, call no. RRARE 940.54259 SG).</i></div>
 
 The inaugural issue of 《星洲周刊》(_Sin Chew Weekly_), published on 19 April 1951, included photographs by K.F. Wong featuring aspects of Balinese life, including different Balinese dances.[^46]
@@ -158,7 +155,7 @@ The lasting image of Bali as an island paradise showcases the remarkable power o
 <div style="background-color: white;">
 <br>
 <img src="/images/Authors/GohYuMei.png" style="width: 100px; height: 100px;">
-	<b>Goh Yu Mei</b> is a Librarian at the National Library Singapore, working, with the Chinese Arts and Literary Collection. Her research interests lie in the intersection between society, and Chinese literature and arts.</div>
+	<b>Goh Yu Mei</b> is a Librarian at the National Library Singapore, working with the Chinese Arts and Literary Collection. Her research interests lie in the intersection between society, and Chinese literature and arts.</div>
 
 #### **NOTES**
 

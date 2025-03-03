@@ -9,13 +9,35 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-20/issue-4/jan-mar-2025/central-provident-fund-cpf/
-      button: How the CPF Scheme Came to Be
+      url: /vol-13/issue-3/oct-dec-2017/lifetime-of-labour/
+      button: "A Lifetime of Labour: Cantonese Amahs in Singapore"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 20 Issue 4/CPF/HeroImage_CPF.jpg
+      background: /images/Vol-13-issue-3/a-lifetime-of-labour/Amah_heroimage.png
+  - infopic:
+      title: The Construction of Bali’s Mystique
+      subtitle: Adventure and Travel
+      id: infopic
+      description: In 1953, four artists held an art exhibition arising from their
+        travels to Bali in 1952. Their trip was inspired by an image of the
+        island as an untouched Eden.
+      button: AN ISLAND PARADISE
+      image: /images/Vol 21 Issue 1/Bali's Mystique/mystique_topics2.jpg
+      alt: Bali’s Mystique
+      url: /vol-21/issue-1/apr-jun-2025/mystique-bali-travel-paradise/
+  - infopic:
+      title: The Floods of 1954
+      subtitle: Nature and the Environment
+      id: infopic
+      description: The severe floods of 1954 spurred significant infrastructure
+        improvements and left a lasting impact on Singapore’s flood preparedness
+        measures.
+      button: IT’S RAINING CATS AND DOGS
+      url: /vol-21/issue-1/apr-jun-2025/1954-floods-singapore/
+      image: /images/Vol 21 Issue 1/Floods/floods_topics.jpg
+      alt: Floods of 1954
   - infopic:
       title: Newly Discovered Photos from Liu Kang’s 1952 Bali Trip
       subtitle: BiblioAsia Reels
@@ -110,7 +132,7 @@ sections:
         to the 1970s.
       button: There'll always be Singapore
       url: /vol-21/issue-1/apr-jun-2025/sing-singapore-national-day-songs/
-      image: /images/Vol 21 Issue 1/Sing Singapore/Kit_Chan_Topic.jpg
+      image: /images/Vol 21 Issue 1/Sing Singapore/Sing_Topics.jpg
       alt: Sing Singapore
   - infopic:
       title: "Karikal Mahal: Stories Reimagined and Retold"

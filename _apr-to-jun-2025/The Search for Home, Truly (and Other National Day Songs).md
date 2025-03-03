@@ -9,9 +9,10 @@ By Bernard T.G. Tan
 
 Dick Lee’s “Home” is arguably one of the most well loved of all our National Day songs. While the song is indelibly associated with the voice of Kit Chan, who performed it at the National Day Parade (NDP) in 1998, it is also a song that is regularly sung in unison at subsequent NDPs.&nbsp;
 
-
-![](/images/Vol%2021%20Issue%201/Sing%20Singapore/sing_facing2.jpg)
-<div>Kit Chan performing “Home” at the 1998 National Day Parade. This was the National Day song that year. <i>Lianhe Zaobao © SPH Media Limited. Permission required for reproduction.</i></div>
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol%2021%20Issue%201/Sing%20Singapore/Sing_Topics.jpg" style="width: 80%;">
+Kit Chan performing “Home” at the National Day Parade preview on 1 August 2015. <i>Source: The Straits Times © SPH Media Limited. Permission required for reproduction.</i></div>
 
 The popularity of National Day songs like “Home” and “Stand Up for Singapore” is the result of a decades-long effort to create national songs that can be sung communally. This effort to find a song that represents the nation (apart from “Majulah Singapura”, the national anthem) goes back at least to the 1970s.
 
@@ -107,6 +108,9 @@ To understand how “Home” came about, we need to step back to look at Singapo
 None of the songs which had been submitted was quite what we were looking for. However, the melody Dick had submitted was certainly not “rah-rah” or upbeat, but lyrical and pensive in nature. We requested he add lyrics to his melody and suggested some themes he could work with.
 
 Dick wrote one verse based on the notion of Singapore as “our home”, but we needed a second verse to make a complete song. After he had added the new verse, we felt that it needed a bit of tweaking, I called him in Hong Kong, where he was then based, and over this phone conversation, the second verse was finalised and “Home” was born.
+
+![](/images/Vol%2021%20Issue%201/Sing%20Singapore/sing_facing2.jpg)
+<div>Kit Chan performing “Home” at the 1998 National Day Parade. This was the National Day song that year. <i>Lianhe Zaobao © SPH Media Limited. Permission required for reproduction.</i></div>
 
 Although the committee knew that Dick had produced an outstanding song in consonance with the national mood, we wondered if the song’s slow tempo would be acceptable to the NDP organisers. I made a simple choral arrangement of the song and pitched it to the NDP committee, explaining why the song was not the usual upbeat “rah-rah” song. The committee immediately understood and readily agreed that “Home” would be the National Day song for 1998.
 
