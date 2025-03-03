@@ -4,6 +4,12 @@ permalink: /topics/nature/
 description: ""
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/1954-floods-singapore/">The Floods of 1954</a>
+The severe floods of 1954 tested community resilience, spurred significant infrastructure improvements and left a lasting impact on Singapore’s flood preparedness measures.
+
+<img src="/images/Vol%2021%20Issue%201/Floods/floods_topics.jpg" style="width:80%;">  
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/nature-and-the-environment/2024/1/singapore-edible-urban-garden/">Growing Food in a Garden City</a>
 
 Urban edible gardening in Singapore might be all the rage now, but the movement has roots that date back to the early 20th century.
