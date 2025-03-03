@@ -110,7 +110,7 @@ sections:
         to the 1970s.
       button: There'll always be Singapore
       url: /vol-21/issue-1/apr-jun-2025/sing-singapore-national-day-songs/
-      image: /images/Vol 21 Issue 1/Sing Singapore/Kit_Chan_Topic.jpg
+      image: /images/Vol 21 Issue 1/Sing Singapore/Sing_Topics.jpg
       alt: Sing Singapore
   - infopic:
       title: "Karikal Mahal: Stories Reimagined and Retold"
