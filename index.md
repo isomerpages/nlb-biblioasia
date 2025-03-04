@@ -24,7 +24,7 @@ sections:
         travels to Bali in 1952. Their trip was inspired by an image of the
         island as an untouched Eden.
       button: AN ISLAND PARADISE
-      image: /images/Vol 21 Issue 1/Bali's Mystique/mystique_topics2.jpg
+      image: /images/Vol 21 Issue 1/Bali's Mystique/mystique_topics3.jpg
       alt: Bali’s Mystique
       url: /vol-21/issue-1/apr-jun-2025/mystique-bali-travel-paradise/
   - infopic:
