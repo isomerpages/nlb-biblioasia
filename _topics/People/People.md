@@ -56,7 +56,7 @@ The late Dr John Bastin was the leading authority on Stamford Raffles, having pu
 
 During the Japanese Occupation, four Japanese Anglicans were a sign of hope for the locals during a dark chapter in Singapore’s history.
 
-<img src="/images/Vol%2020%20Issue%204/Japanese%20Anglican/anglican_facing2.jpg" style="width:80%;">
+<img src="/images/Vol%2020%20Issue%204/Japanese%20Anglican/anglican_topics.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-4/jan-mar-2025/william-somerset-maugham-secrets/">W. Somerset Maugham: Secrets from the Outstations</a>
