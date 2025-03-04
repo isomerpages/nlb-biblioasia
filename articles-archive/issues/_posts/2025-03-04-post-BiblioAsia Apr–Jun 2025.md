@@ -11,10 +11,10 @@ variant: markdown
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-4/jan-mar-2025/director-note/">Director's Note</a><br>
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-4/jan-mar-2025/origins-of-kueh-pie-tee/">Forgotten Photographs of the 1952 Trip to Bali </a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/liu-kang-forgotten-photographs-bali/">Forgotten Photographs of the 1952 Trip to Bali </a><br>
 A treasure trove of negatives found in an old shoebox sheds new light on a trip that led to an exhibition now regarded as a milestone in the history of Singapore art. *Gretchen Liu*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_JAN_MAR2025_KuehPieTee-a.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-4/jan-mar-2025/japanese-anglicans-world-war-two-singapore/">The Construction of Bali’s Mystique</a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/mystique-bali-travel-paradise/">The Construction of Bali’s Mystique</a><br>
 In 1953, four pioneering Singapore artists held an exhibition of artworks arising from their travels to Bali the previous year. Their trip was inspired by an image of the island as an untouched Eden. *Nadia Ramli and Goh Yu Mei*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_JAN_MAR2025_JapaneseAnglicansaa.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-4/jan-mar-2025/ustaz-syed-abdul-rahman-al-attas-calligraphy/">A Bridge Between East and West</a><br>
