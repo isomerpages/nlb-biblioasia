@@ -8,7 +8,7 @@ variant: markdown
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/liu-kang-forgotten-photographs-bali/">Forgotten Photographs of the 1952 Trip to Bali</a>
 A treasure trove of negatives found in an old shoebox sheds new light on a trip that led to an exhibition now regarded as a milestone in the history of Singapore art.
 
-<img src="/images/Vol%2021%20Issue%201/Forgotten%20Bali/bali_pollok_Topics.jpg" style="width:80%;">  
+<img src="/images/Vol%2021%20Issue%201/Forgotten%20Bali/bali_pollok_Topics2.jpg" style="width:80%;">  
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/liu-kang-bridge-east-west/">A Bridge Between East and West</a>
@@ -49,28 +49,28 @@ The master calligrapher’s artworks not only adorn physical spaces but are also
 
 The late Dr John Bastin was the leading authority on Stamford Raffles, having published more than 20 books and many essays on Raffles.
 
-<img src="/images/Vol%2020%20Issue%204/John%20Sturgus%20Bastin/bastin_facing2.jpg" style="width:80%;">
+<img src="/images/Vol%2020%20Issue%204/John%20Sturgus%20Bastin/bastin_topics.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-4/jan-mar-2025/japanese-anglicans-world-war-two-singapore/">Japanese Anglicans in World War II Singapore</a>
 
 During the Japanese Occupation, four Japanese Anglicans were a sign of hope for the locals during a dark chapter in Singapore’s history.
 
-<img src="/images/Vol%2020%20Issue%204/Japanese%20Anglican/anglican_facing2.jpg" style="width:80%;">
+<img src="/images/Vol%2020%20Issue%204/Japanese%20Anglican/anglican_topics.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-4/jan-mar-2025/william-somerset-maugham-secrets/">W. Somerset Maugham: Secrets from the Outstations</a>
 
 The former newsreader AGS Danaraj was also a pioneering town planner, who always made time to help the less fortunate.
 
-<img src="/images/Vol%2020%20Issue%204/Somerset/somerset_facing.jpg" style="width:80%;">
+<img src="/images/Vol%2020%20Issue%204/Somerset/somerset_topics.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/places-and-buildings/2024/8/eu-tong-sen-villa/">Eu Tong Sen’s “Pearl Under the Burning Tropical Sun”</a>
 
 The grandeur and opulence of Eu Villa on Mount Sophia was unrivalled in its heyday.
 
-<img src="/images/Online%20Only%20Articles/EU%20Villa/EU_Villa_colour_homepage.jpg" style="width:80%;">
+<img src="/images/Online%20Only%20Articles/EU%20Villa/aerial_view_topics.png" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/people/2024/8/ags-danaraj-town-planner-radio-broadcast-news-reader/">Remembering AGS Danaraj: Pioneer Town Planner and News Reader</a>
@@ -110,7 +110,7 @@ A man looks at his grandfather with new eyes after a mysterious envelope is foun
 
 A former teacher and&nbsp;_mak andam_&nbsp;fulfils her dream by writing a book on Malay recipes in 1986, the first all-Malay cookbook from Times Books International.
 
-<img src="/images/Vol%2020%20Issue%202/Asfiah/asfiah_img4.jpg" style="width:80%;">
+<img src="/images/Vol%2020%20Issue%202/Asfiah/asfiah_topics.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/charles-darwin-library/">Reconstructing Charles Darwin’s Lost Library</a>

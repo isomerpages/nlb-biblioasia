@@ -6,7 +6,7 @@ description: ""
 ---
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/mystique-bali-travel-paradise/">The Construction of Bali's Mystique</a>
 
-<img src="/images/Vol%2021%20Issue%201/Bali's%20Mystique/mystique_topics2.jpg" style="width: 80%; height: 100%;">  
+<img src="/images/Vol%2021%20Issue%201/Bali's%20Mystique/mystique_topics3.jpg" style="width: 80%; height: 100%;">  
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-15/issue-2/jul-sep-2019/american-expedition/">US Ex Ex: An Expedition for the Ages</a>
