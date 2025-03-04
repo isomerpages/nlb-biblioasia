@@ -8,7 +8,7 @@ variant: markdown
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/liu-kang-forgotten-photographs-bali/">Forgotten Photographs of the 1952 Trip to Bali</a>
 A treasure trove of negatives found in an old shoebox sheds new light on a trip that led to an exhibition now regarded as a milestone in the history of Singapore art.
 
-<img src="/images/Vol%2021%20Issue%201/Forgotten%20Bali/bali_pollok_Topics.jpg" style="width:80%;">  
+<img src="/images/Vol%2021%20Issue%201/Forgotten%20Bali/bali_pollok_Topics2.jpg" style="width:80%;">  
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/colour-tv-history-singapore/">The Awakening of the Modern Television Era</a>
