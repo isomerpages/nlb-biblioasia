@@ -17,10 +17,10 @@ A treasure trove of negatives found in an old shoebox sheds new light on a trip 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/mystique-bali-travel-paradise/">The Construction of Bali’s Mystique</a><br>
 In 1953, four pioneering Singapore artists held an exhibition of artworks arising from their travels to Bali the previous year. Their trip was inspired by an image of the island as an untouched Eden. *Nadia Ramli and Goh Yu Mei*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_JAN_MAR2025_JapaneseAnglicansaa.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-4/jan-mar-2025/ustaz-syed-abdul-rahman-al-attas-calligraphy/">A Bridge Between East and West</a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/liu-kang-bridge-east-west/">A Bridge Between East and West</a><br>
 Liu Kang’s works show the influence of Western artists such as Cézanne, Gauguin, Van Gogh and Matisse, as well as the tradition of Chinese ink painting. *Low Sze Wee*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_JAN_MAR2025_SyedCaligraphyaa.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-4/jan-mar-2025/central-provident-fund-cpf/">The Liu Kang Collection: A Portrait of the Artist as a Young Man</a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/liu-kang-collection/">The Liu Kang Collection: A Portrait of the Artist as a Young Man</a><br>
 The Liu Kang Collection at the National Library Singapore provides an intimate look at the creative process of one of Singapore’s most celebrated artists. *Goh Yu Mei and Nadia Ramli*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_JAN_MAR2025_CPFSchemeaa.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-4/jan-mar-2025/william-somerset-maugham-secrets/">The Search for Home, Truly (and Other National Day Songs)</a><br>
