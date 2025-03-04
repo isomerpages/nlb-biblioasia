@@ -336,7 +336,7 @@ sections:
         against him.
       button: A LITERARY LUMINARY
       url: /vol-20/issue-4/jan-mar-2025/william-somerset-maugham-secrets/
-      image: /images/Vol 20 Issue 4/Somerset/somerset_facing.jpg
+      image: /images/Vol 20 Issue 4/Somerset/somerset_topics.jpg
       alt: Image alt text
   - infopic:
       title: A Kampong for the “Grand Old Man of Singapore”
