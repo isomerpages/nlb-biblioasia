@@ -49,7 +49,7 @@ The master calligrapher’s artworks not only adorn physical spaces but are also
 
 The late Dr John Bastin was the leading authority on Stamford Raffles, having published more than 20 books and many essays on Raffles.
 
-<img src="/images/Vol%2020%20Issue%204/John%20Sturgus%20Bastin/bastin_facing2.jpg" style="width:80%;">
+<img src="/images/Vol%2020%20Issue%204/John%20Sturgus%20Bastin/bastin_topics.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-4/jan-mar-2025/japanese-anglicans-world-war-two-singapore/">Japanese Anglicans in World War II Singapore</a>
