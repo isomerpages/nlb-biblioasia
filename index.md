@@ -643,7 +643,7 @@ sections:
         International.
       button: A GUARDIAN OF MALAY CULTURE
       url: /vol-20/issue-2/jul-sep-2024/asfiah-abdullah-cookbook/
-      image: /images/Vol 20 Issue 2/Asfiah/asfiah_img4.jpg
+      image: /images/Vol 20 Issue 2/Asfiah/asfiah_topics.jpg
       alt: Image alt text
   - infopic:
       title: The Making of the Causeway
