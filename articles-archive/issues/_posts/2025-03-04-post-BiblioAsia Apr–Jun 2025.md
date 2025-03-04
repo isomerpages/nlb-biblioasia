@@ -7,3 +7,38 @@ description: ""
 image: ""
 variant: markdown
 ---
+<img src="/images/Vol%2020%20Issue%204/biblioasia_20_4_cover.png">
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-4/jan-mar-2025/director-note/">Director's Note</a><br>
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-4/jan-mar-2025/origins-of-kueh-pie-tee/">Forgotten Photographs of the 1952 Trip to Bali </a><br>
+A treasure trove of negatives found in an old shoebox sheds new light on a trip that led to an exhibition now regarded as a milestone in the history of Singapore art. *Gretchen Liu*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_JAN_MAR2025_KuehPieTee-a.pdf)
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-4/jan-mar-2025/japanese-anglicans-world-war-two-singapore/">The Construction of Bali’s Mystique</a><br>
+In 1953, four pioneering Singapore artists held an exhibition of artworks arising from their travels to Bali the previous year. Their trip was inspired by an image of the island as an untouched Eden. *Nadia Ramli and Goh Yu Mei*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_JAN_MAR2025_JapaneseAnglicansaa.pdf)
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-4/jan-mar-2025/ustaz-syed-abdul-rahman-al-attas-calligraphy/">A Bridge Between East and West</a><br>
+Liu Kang’s works show the influence of Western artists such as Cézanne, Gauguin, Van Gogh and Matisse, as well as the tradition of Chinese ink painting. *Low Sze Wee*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_JAN_MAR2025_SyedCaligraphyaa.pdf)
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-4/jan-mar-2025/central-provident-fund-cpf/">The Liu Kang Collection: A Portrait of the Artist as a Young Man</a><br>
+The Liu Kang Collection at the National Library Singapore provides an intimate look at the creative process of one of Singapore’s most celebrated artists. *Goh Yu Mei and Nadia Ramli*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_JAN_MAR2025_CPFSchemeaa.pdf)
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-4/jan-mar-2025/william-somerset-maugham-secrets/">The Search for Home, Truly (and Other National Day Songs)</a><br>
+The effort to find songs that express a national identity goes back to the 1970s. *Bernard T.G. Tan*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_JAN_MAR2025_Somersetaa.pdf)
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-4/jan-mar-2025/japanese-opium-propaganda-syonan-shimbun/">Signs of Progress: Deaf Education in Singapore</a><br>
+The first school for the deaf in Singapore was established in 1954, paving the way for deaf education and the development of Singapore Sign Language. *Rosxalynd Liu and Nathaniel Chew*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_JAN_MAR2025_Opiumaa.pdf)
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-4/jan-mar-2025/sembawang-maps-singapore/">The Floods of 1954 </a><br> The severe floods of 1954 tested community resilience, spurred significant infrastructure improvements and left a lasting impact on Singapore’s flood preparedness measures. *Darren Seow*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_JAN_MAR2025_SembawangMapsaa.pdf)
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-4/jan-mar-2025/nominated-member-of-parliament-nmp/">Mazu Worship in Singapore</a><br>
+Mazu devotion, which first came to Singapore in 1810, lives on in its traditions and processions.*Alvin Tan*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_JAN_MAR2025_NMPsaa.pdf)
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-4/jan-mar-2025/chingay-tai-ge-procession-singapore-penang/">Uncovering the Origins of Badang the Strongman</a><br>
+Badang the Strongman has become part of the story of early Singapore. But there is more to the story that meets the eye. *William L. Gibson*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_JAN_MAR2025_Chingayaa.pdf)
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-4/jan-mar-2025/john-sturgus-bastin-a-memoir/">Barbara Kerr: Sharpshooter, School Principal, Girl Guide Extraordinaire	</a><br>
+Barbara Kerr made contributions to the Girl Guides, sports and animal welfare. She was also a talented soprano. *Nick Aplin*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_JAN_MAR2025_JohnBastinaa.pdf)
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-4/jan-mar-2025/new-books-on-singapore-history/">New Books on Singapore History</a><br>
+_Bali 1952: Through the Lens of Liu Kang; My Journey of Peace to Estonia, Latvia, Lithuania and Russia_ and _The Story of Southeast Asia_ are some of the new books available at the National Library. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_JAN_MAR2025_Newbooksgg.pdf)
