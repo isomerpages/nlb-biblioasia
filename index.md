@@ -325,7 +325,7 @@ sections:
         of hope for the locals during a dark chapter in Singapore’s history.
       button: A BEACON OF LIGHT
       url: /vol-20/issue-4/jan-mar-2025/japanese-anglicans-world-war-two-singapore/
-      image: /images/Vol 20 Issue 4/Japanese Anglican/anglican_facing2.jpg
+      image: /images/Vol 20 Issue 4/Japanese Anglican/anglican_topics.jpg
       alt: Image alt text
   - infopic:
       title: "W. Somerset Maugham: Secrets from the Outstations"
