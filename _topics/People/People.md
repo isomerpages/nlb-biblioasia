@@ -63,7 +63,7 @@ During the Japanese Occupation, four Japanese Anglicans were a sign of hope for 
 
 The former newsreader AGS Danaraj was also a pioneering town planner, who always made time to help the less fortunate.
 
-<img src="/images/Vol%2020%20Issue%204/Somerset/somerset_facing.jpg" style="width:80%;">
+<img src="/images/Vol%2020%20Issue%204/Somerset/somerset_topics.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/places-and-buildings/2024/8/eu-tong-sen-villa/">Eu Tong Sen’s “Pearl Under the Burning Tropical Sun”</a>
