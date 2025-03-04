@@ -31,6 +31,9 @@ Mazu is often portrayed clothed in “a gown with embroidery work and a crown wi
 &nbsp;(千里眼; Thousand-Li Eye) and on the right Shunfeng’er  
 &nbsp;(顺风耳; Favourable-Wind Ear). <i>Collection of the Asian Civilisations Museum. </i></div>
 
+![](/images/Vol%2021%20Issue%201/Mazu/mazu_facing2.jpg)
+<div style="background-color: white;">Qianliyan (left) and Shunfeng’er &nbsp;(right) at Thian Hock Keng, 2025. <i>Photos by Jimmy Yap.</i></div>
+
 #### **Building Thian Hock Keng**
 
 Mazu’s history in Singapore is tied closely to the history of Chinese immigrants here. According to some accounts, Mazu worship predated Stamford Raffles’ arrival in Singapore. As early as 1810, Chinese immigrants were working on the island’s pepper and gambier plantations and they brought Mazu with them. Eventually, a small joss house was built along the waterfront to worship her.[^11]
@@ -48,6 +51,9 @@ In Thian Hock Keng, Mazu occupies the main (or central) hall. Guan Gong (关公;
   
 
 We, the _tangren_ (Chinese), have come from the interior by junks to engage in business here. We depended on Holy Mother of Gods to guide us across the sea safely and we were able to settle down here happily. Things are abundant and the people are healthy. We, the _tangren_, wish to return good for kindness. So we met and decided to build a temple in the south of Singapore at Telok Ayer to worship the Heavenly Consort day and night.[^16]
+
+![](/images/Vol%2021%20Issue%201/Mazu/mazu_facing2.jpg)
+<div style="background-color: white;">Mazu in the main hall of Thian Hock Keng, 2025. <i>Photo by Jimmy Yap.</i></div>
 
 #### **Mazu Devotion in Singapore**
 
@@ -73,6 +79,9 @@ Almost 90 years would elapse until the procession was revived in 2016.[^26] And 
 
 Arriving at the temple at about 6:30 pm on 1 May 2024, I was greeted by the festivities, which were well underway. A week prior to her birthday, Thian Hock Keng’s social media team began posting on its Facebook page, publicising details about the celebrations – devotional items, fringe events and the birthday process.
 
+![](/images/Vol%2021%20Issue%201/Mazu/mazu_devotees.jpg)
+<div style="background-color: white;">Devotees getting ready for Mazu’s birthday procession, 1 May 2024. <i>Photo by Alvin Tan. </i></div>
+
 Mazu’s birthday procession – dubbed the Excursion for Peace – was a meticulously planned and executed event. Unlike similar processions in Taiwan which are not tied to a fixed route – it was left to Mazu to decide where she wanted to go and for the statue bearers to discern – Singapore’s procession was thoroughly scripted and planned from beginning to end.[^29]
 
 Around 7 pm, the elements comprising the Excursion for Peace contingent got into place. Performances by lion and dragon dances, accompanied by big-headed dolls, sent Mazu off on her tour of the realm. Leading the way, at the head of the contingent, was a horizontal cloth banner embroidered with Mazu’s title, 天上圣母 (Holy Heavenly Mother), which was flanked by a pair of lanterns at both ends. Behind the lanterns, running down the flanks of the contingent, was a single row of twin phoenix flags also bearing Mazu’s title – the phoenix is a symbol of the feminine – held aloft by male devotees.
@@ -82,8 +91,8 @@ Around 7 pm, the elements comprising the Excursion for Peace contingent got into
 
 Following close behind was Mazu’s immediate entourage. Heavenly generals, flanked by the signs “Silence” (肃静) and “Retreat” (回避), put everyone, spirit or human, on notice. This was followed by the Lead Flag. All these made up the beginning of the sanctum, where Mazu held court. To add to the martial air, a set of 12 weapons borne by devotees escorted and protected her. This was an occasion of pomp and splendour – the Empress of Heaven was out inspecting her realm. Next up were the ritual elements made up of Taoist priests, accompanied by the principal and lead devotees.
 
-![](/images/Vol%2021%20Issue%201/Mazu/mazu_principal.jpg)
-<div style="background-color: white;">Mazu being carried by a principal devotee during the 45-minute ferry ride out to the waters around the Southern Islands. <i>Photo by Alvin Tan.</i></div>
+![](/images/Vol%2021%20Issue%201/Mazu/mazu_signs.jpg)
+<div style="background-color: white;">Signs with “Silence” (肃静) and “Retreat” (回避) follow closely behind the banner with Mazu’s title,&nbsp;天上圣母. <i>Photo by Daryl Lim Wei Jie.</i></div>
 
 In the inner sanctum, a parasol, kept spinning continuously by a group of male devotees, provides shade and cover for Mazu. Devotees believe that she is physically here. Accompanied by her guardian deities – Shunfeng’er and Qianliyan – Mazu sits on a red, swinging sedan chair studded with red LED light strips and borne by a party of male devotees from the Boon San Lian Ngee Association. Mounted on the sedan chair, just behind her, is a set of flags of five colours signifying the five elements of metal, wood, water, fire and earth. They are symbols of her authority over her generals and troops. These also remind devotees and wandering spirits of her high status. A pair of fans decorated with sun and moon motifs flank the sedan chair, protecting her and the throng of around one thousand devotees following closely behind.[^30]
 
@@ -95,15 +104,27 @@ In the inner sanctum, a parasol, kept spinning continuously by a group of male d
 
 The procession route snakes its way through the Central Business District. From Thian Hock Keng on Telok Ayer Street, the contingent proceeds on foot to Siang Cho Keong Temple (仙祖宫) on Amoy Street, where it pauses to exchange incense as a mark of respect and acknowledgement of the temple’s resident deity – Dabogong (大伯公; God of Prosperity). Mazu is then carefully and reverently transferred from her mount on the sedan chair to the open-air upper deck of a double-decker bus for the next leg of her excursion: to Boon San Lian Ngee Association at Hong Lim for another exchange of incense.&nbsp;
 
+![](/images/Vol%2021%20Issue%201/Mazu/mazu_bus.jpg)
+<div style="background-color: white;">On board the double-decker bus. <i>Photo by Alvin Tan.</i></div>
+
 Then it is onwards to Marina South Pier via Pickering Street, Church Street, Collyer Quay and Marina Boulevard. Riding at the front of the bus, which is typically crowded with tourists and day trippers, Mazu surveys and blesses her realm impassively as her entourage drives past hypermodern skyscrapers that characterise Singapore’s new downtown.&nbsp;
 
 A lion and dragon dance greets Mazu as she arrives at Marina Bay Cruise Centre. For her, going down the narrow and curved stairs of the bus is no easy feat. She is carefully, almost gingerly, transferred from the hands of one attentive principal devotee to another. Smoke from the incense fills the stairway. There is a little pause at the ferry boarding point in Marina Bay Cruise Centre. Mazu is delayed briefly as a uniformed Immigrant and Checkpoints Authority officer unlocks and opens the access door for her. When a sacred deity enters the profane and quotidian in her material form, she finds herself subject to its rules and regulations.&nbsp;
 
+![](/images/Vol%2021%20Issue%201/Mazu/mazu_lion.jpg)
+<div style="background-color: white;">A lion and dragon dance welcomes Mazu at the Marina Bay Cruise Centre. <i>Photo by Alvin Yap.</i></div>
+
 From here, it is a pleasant and cool 45-minute cruise out to the waters around the Southern Islands and back. Mazu is in her element as Goddess of the Sea as she looks over the container ships, oil tankers and other marine vessels in Singapore’s Eastern Anchorage from her vantage point on the open top deck of the ferry.[^31]
+
+![](/images/Vol%2021%20Issue%201/Mazu/mazu_principal.jpg)
+<div style="background-color: white;">Mazu being carried by a principal devotee during the 45-minute ferry ride out to the waters around the Southern Islands. <i>Photo by Alvin Tan.</i></div>
 
 For her devotees, it is time to unwind a little from the noise and hustle and bustle of the event. Some ask to take selfies with Mazu. Groups of devotees, with mobile phones in outstretched arm, snap happy photos with Mazu, which make their way onto social media and to friends and family on Whatsapp almost instantaneously. On the Starboard side, Dr Koh Chin Yee – who is also vice-chair of the cultural committee of the Singapore Hokkien Huay Kuan – livestreams the event, providing an engaging narrative about Singapore’s skyline and history. As with so many aspects of Singaporean life, tradition and modernity appear to be totally at ease with each other here. Mazu, broken down into bits and bytes, ones and zeroes, finds herself streamed across the realms of the internet and reaching, unsurprisingly, a global audience.[^32]
 
 A throng of devotees presses up against the bus as Mazu returns to Telok Ayer. The procession makes it way down Stanley Street, passes through the Singapore Hokkien Huay Kuan building where it comes to a halt in front of the _getai_ stage at the forecourt of the building. As Mazu ends her inspection tour and returns to Thian Hock Keng, her devotees cross a Bridge of Blessings in turn. A stamp is affixed on their clothing, signifying the imparting of Mazu’s blessings and good wishes on them.&nbsp;
+
+![](/images/Vol%2021%20Issue%201/Mazu/mazu_bridge.jpg)
+<div style="background-color: white;">Devotees crossing the Bridge of Blessings. <i>Photo by Alvin Tan.</i></div>
 
 #### **Mazu Worship Lives On&nbsp;**
 
@@ -130,7 +151,7 @@ So long as Singapore’s economic story continues to be intertwined with the sea
 
 [^5]:   Thomson, _Chinese Religion_, 57.&nbsp;
 
-[^6]:   Irwin Lee, “Divinity and Salvation: The Great Goddesses of China,” _Asian Folklore Studies_ 49, no. 1 (1990): 63. (From JSTOR via NLB’s [eResources]()http://eresources.nlb.gov.sg/ website)
+[^6]:   Irwin Lee, “Divinity and Salvation: The Great Goddesses of China,” _Asian Folklore Studies_ 49, no. 1 (1990): 63. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
 [^7]:   Watson, “Standardising the Gods,” 293–94, 299–300.
 

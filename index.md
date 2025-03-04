@@ -17,16 +17,6 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol-13-issue-3/a-lifetime-of-labour/Amah_heroimage.png
   - infopic:
-      title: "Bali 1952: Through the Lens of Liu Kang"
-      subtitle: New book
-      id: infopic
-      description: The story of an inspiring artistic journey and never-before-seen
-        photographs of Bali taken by the artist Liu Kang in 1952.
-      button: A time capsule of Indonesian history
-      url: /selected-books/2025/
-      image: /images/publications/Bali_book_1952_isomer.jpg
-      alt: Bali 1952
-  - infopic:
       title: The Construction of Bali’s Mystique
       subtitle: Adventure and Travel
       id: infopic
@@ -284,7 +274,7 @@ sections:
         Raffles, having published more than 20 books and many essays on Raffles.
       button: An eminent historian
       url: /vol-20/issue-4/jan-mar-2025/john-sturgus-bastin-a-memoir/
-      image: /images/Vol 20 Issue 4/John Sturgus Bastin/bastin_facing2.jpg
+      image: /images/Vol 20 Issue 4/John Sturgus Bastin/bastin_topics.jpg
       alt: "John Sturgus Bastin: A Memoir"
   - infopic:
       title: New Books on Singapore History (Jan 2025)
@@ -335,7 +325,7 @@ sections:
         of hope for the locals during a dark chapter in Singapore’s history.
       button: A BEACON OF LIGHT
       url: /vol-20/issue-4/jan-mar-2025/japanese-anglicans-world-war-two-singapore/
-      image: /images/Vol 20 Issue 4/Japanese Anglican/anglican_facing2.jpg
+      image: /images/Vol 20 Issue 4/Japanese Anglican/anglican_topics.jpg
       alt: Image alt text
   - infopic:
       title: "W. Somerset Maugham: Secrets from the Outstations"
@@ -346,7 +336,7 @@ sections:
         against him.
       button: A LITERARY LUMINARY
       url: /vol-20/issue-4/jan-mar-2025/william-somerset-maugham-secrets/
-      image: /images/Vol 20 Issue 4/Somerset/somerset_facing.jpg
+      image: /images/Vol 20 Issue 4/Somerset/somerset_topics.jpg
       alt: Image alt text
   - infopic:
       title: A Kampong for the “Grand Old Man of Singapore”
@@ -653,7 +643,7 @@ sections:
         International.
       button: A GUARDIAN OF MALAY CULTURE
       url: /vol-20/issue-2/jul-sep-2024/asfiah-abdullah-cookbook/
-      image: /images/Vol 20 Issue 2/Asfiah/asfiah_img4.jpg
+      image: /images/Vol 20 Issue 2/Asfiah/asfiah_topics.jpg
       alt: Image alt text
   - infopic:
       title: The Making of the Causeway
@@ -755,7 +745,7 @@ sections:
         fascinating choices and paths not taken.
       button: A PERANAKAN MATRIARCH
       url: /vol-20/issue-2/jul-sep-2024/emily-of-emerald-hill-stella-kon/
-      image: /images/Vol 20 Issue 2/Emily/img_2.png
+      image: /images/Vol 20 Issue 2/Emily/emily_topics.png
       alt: Image alt text
   - infopic:
       title: The Other Men Who Surrendered Singapore
