@@ -110,7 +110,7 @@ A man looks at his grandfather with new eyes after a mysterious envelope is foun
 
 A former teacher and&nbsp;_mak andam_&nbsp;fulfils her dream by writing a book on Malay recipes in 1986, the first all-Malay cookbook from Times Books International.
 
-<img src="/images/Vol%2020%20Issue%202/Asfiah/asfiah_img4.jpg" style="width:80%;">
+<img src="/images/Vol%2020%20Issue%202/Asfiah/asfiah_topics.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-2/jul-sep-2024/charles-darwin-library/">Reconstructing Charles Darwin’s Lost Library</a>
