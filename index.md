@@ -745,7 +745,7 @@ sections:
         fascinating choices and paths not taken.
       button: A PERANAKAN MATRIARCH
       url: /vol-20/issue-2/jul-sep-2024/emily-of-emerald-hill-stella-kon/
-      image: /images/Vol 20 Issue 2/Emily/img_2.png
+      image: /images/Vol 20 Issue 2/Emily/emily_topics.png
       alt: Image alt text
   - infopic:
       title: The Other Men Who Surrendered Singapore
