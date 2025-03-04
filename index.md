@@ -274,7 +274,7 @@ sections:
         Raffles, having published more than 20 books and many essays on Raffles.
       button: An eminent historian
       url: /vol-20/issue-4/jan-mar-2025/john-sturgus-bastin-a-memoir/
-      image: /images/Vol 20 Issue 4/John Sturgus Bastin/bastin_facing2.jpg
+      image: /images/Vol 20 Issue 4/John Sturgus Bastin/bastin_topics.jpg
       alt: "John Sturgus Bastin: A Memoir"
   - infopic:
       title: New Books on Singapore History (Jan 2025)
