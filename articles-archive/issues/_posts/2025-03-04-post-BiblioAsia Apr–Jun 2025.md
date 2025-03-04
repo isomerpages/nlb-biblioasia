@@ -34,11 +34,11 @@ The first school for the deaf in Singapore was established in 1954, paving the w
 <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-4/jan-mar-2025/nominated-member-of-parliament-nmp/">Mazu Worship in Singapore</a><br>
 Mazu devotion, which first came to Singapore in 1810, lives on in its traditions and processions.*Alvin Tan*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_JAN_MAR2025_NMPsaa.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-4/jan-mar-2025/chingay-tai-ge-procession-singapore-penang/">Uncovering the Origins of Badang the Strongman</a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/origins-badang-strongman-singapore-stone/">Uncovering the Origins of Badang the Strongman</a><br>
 Badang the Strongman has become part of the story of early Singapore. But there is more to the story that meets the eye. *William L. Gibson*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_JAN_MAR2025_Chingayaa.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-4/jan-mar-2025/john-sturgus-bastin-a-memoir/">Barbara Kerr: Sharpshooter, School Principal, Girl Guide Extraordinaire	</a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/barbara-kerr-sharpshooter-school-principal-girl-guide/">Barbara Kerr: Sharpshooter, School Principal, Girl Guide Extraordinaire	</a><br>
 Barbara Kerr made contributions to the Girl Guides, sports and animal welfare. She was also a talented soprano. *Nick Aplin*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_JAN_MAR2025_JohnBastinaa.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-4/jan-mar-2025/new-books-on-singapore-history/">New Books on Singapore History</a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/new-books-on-singapore-history/">New Books on Singapore History</a><br>
 _Bali 1952: Through the Lens of Liu Kang; My Journey of Peace to Estonia, Latvia, Lithuania and Russia_ and _The Story of Southeast Asia_ are some of the new books available at the National Library. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_JAN_MAR2025_Newbooksgg.pdf)
