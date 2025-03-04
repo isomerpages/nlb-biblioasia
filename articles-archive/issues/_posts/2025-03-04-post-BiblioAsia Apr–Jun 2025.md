@@ -32,7 +32,7 @@ The first school for the deaf in Singapore was established in 1954, paving the w
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/1954-floods-singapore/">The Floods of 1954 </a><br> The severe floods of 1954 tested community resilience, spurred significant infrastructure improvements and left a lasting impact on Singapore’s flood preparedness measures. *Darren Seow*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_JAN_MAR2025_SembawangMapsaa.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/mazu-worship-in-singapore/">Mazu Worship in Singapore</a><br>
-Mazu devotion, which first came to Singapore in 1810, lives on in its traditions and processions.*Alvin Tan*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_JAN_MAR2025_NMPsaa.pdf)
+Mazu devotion, which first came to Singapore in 1810, lives on in its traditions and processions. *Alvin Tan*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_JAN_MAR2025_NMPsaa.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/origins-badang-strongman-singapore-stone/">Uncovering the Origins of Badang the Strongman</a><br>
 Badang the Strongman has become part of the story of early Singapore. But there is more to the story that meets the eye. *William L. Gibson*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_JAN_MAR2025_Chingayaa.pdf)
