@@ -6,6 +6,7 @@ description: The first Japanese translation of John’s Gospel and His Epistles
   was printed at a small printing press in 1837 in Singapore. Professor Emeritus
   Sachiko Tanaka and Senior Associate Irene Lim trace the path it took for this
   book to be produced.
+variant: markdown
 ---
 #### The first Japanese translation of&nbsp;_John’s Gospel and His Epistles_ was printed at a small printing press in 1837 in Singapore. Professor Emeritus Sachiko Tanaka and Senior Associate&nbsp;Irene Lim trace the path it took for this book to be produced.
 
@@ -159,7 +160,7 @@ Lee, G.B. (1989). [_Pages from yesteryear: A look at the printed works of Singap
 
 Leong, F.M. (2005). [_The career of Otokichi_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12614969). Singapore: Heritage Committee, Japanese Association Singapore. (Call no.: RSING q959.5703092 LEO)
 
-Lim, I. (2008). [_Mission Press_](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1074_2008-12-20.html). Retrieved from Singapore Infopedia website.
+Lim, I. (2008). [_Mission Press_](https://www.nlb.gov.sg/main/article-detail?cmsuuid=e6d58920-6a12-44fa-b075-147611a4a1e9). Retrieved from Singapore Infopedia website.
 
 Milne, W.C. (1820). [_Retrospect of the first ten years of the Protestant mission to China. (now, in connection with the Malay, denominated, the Ultra-Ganges missions); Accompanied with miscellaneous remarks on the literature, history, and mythology of China, &amp; c_](https://eresources.nlb.gov.sg/printheritage/detail/176afa75-9aa1-4c37-9a62-3a805266accf.aspx). Malacca: Anglo-Chinese Press. Retrieved from BookSG.
 
