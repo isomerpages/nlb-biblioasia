@@ -5,6 +5,7 @@ permalink: /vol-11/issue-3/oct-dec-2015/housewives/
 breadcrumb: Desperate Housewives
 third_nav_title: "Desperate Housewives: The Lure of Chap Ji Kee"
 image: \images\Vol-11-issue-3\housewives\12chapjikeetiles.jpg
+variant: markdown
 ---
 <style>
 table { 
@@ -178,5 +179,5 @@ Yen, C.H. (1990, April). Gambling in the Chinese community in Singapore and Mala
 [^1]: Singapore. Parliament. *[Parliamentary debates: Official report](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4826189)*. (1977, February 23). Debate on President’s Address (Vol. 36, col. 433). Singapore: Govt. Printer. (Call no.: RSING 328.5957 SIN)
 [^2]: A tax-farming system introduced by William Farquhar in which monopoly rights were auctioned off to sell opium and spirits, and to run gambling dens. See Turnbull, C.M. (2009). *[A history of modern Singapore 1819–2005](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200096792)* (p. 35). Singapore: NUS Press. (Call no.: RCLOS 959.57 TUR)  
 [^3]: Hare, G.T. (1898, July). The game of chap-ji-ki. *Journal of the Straits Branch of the Royal Asiatic Society, 31*, 63–71, p. 48. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
-[^4]: The term Peranakan or Straits Chinese generally refers to people of mixed Chinese and Malay/Indonesian heritage. Peranakan males are known as babas while the females are known as *nonyas* (or *nyonyas*). See National Library Board. (2013, 26 August). *[Peranakan (Straits Chinese) community](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-08-30_181745.html)* written by Koh, Jaime. Retrieved from Singapore Infopedia.
+[^4]: The term Peranakan or Straits Chinese generally refers to people of mixed Chinese and Malay/Indonesian heritage. Peranakan males are known as babas while the females are known as *nonyas* (or *nyonyas*). See National Library Board. (2013, 26 August). *[Peranakan (Straits Chinese) community](https://www.nlb.gov.sg/main/article-detail?cmsuuid=1138ea9d-9dbe-4f09-9fef-ba2c7105eb91)* written by Koh, Jaime. Retrieved from Singapore Infopedia.
 [^5]: [Multi-million dollar chap-ji-kee racket](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19730227-1.2.54.2). (1973, February 27). *New Nation*, p. 7. Retrieved from NewspaperSG.
