@@ -1,9 +1,10 @@
 ---
-title: "Through the Eye Glass "
+title: Through the Eye Glass
 permalink: /vol-11/issue-4/jan-mar-2016/cermin-mata-benjamin-keasberry/
 date: 2016-01-31
 layout: post
 description: ""
+variant: markdown
 ---
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 	<b>Title:</b> <a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4412481"><i>Cermin Mata Bagi Segala Orang Yang 
@@ -61,7 +62,7 @@ writing. It was enthusiastically embraced by local printers and publishers, pavi
 
 #### **NOTES**
 [^1]:Warnk, H. (2010). The collection of 19th century printed Malay books of Emil Luring. *International Journal of the Malay World and Civilisation, 28* (1), 124. Retrieved from UKM website.
-[^2]:National Library Board. (2008). [*Mission Press*](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1074_2008-12-20.html) written by Lim, Irene. Retrieved from Singapore Infopedia.
+[^2]:National Library Board. (2008). [*Mission Press*](https://www.nlb.gov.sg/main/article-detail?cmsuuid=e6d58920-6a12-44fa-b075-147611a4a1e9) written by Lim, Irene. Retrieved from Singapore Infopedia.
 [^3]:National Library Board, 2008.
 [^4]:Putten, J. V. D. (2006). Abdullah Munsyi and the missionaries. *Bijdragen tot de Taal -, Land-en Volkenkunde (BKI), 162* (4), 411. Retrieved from Brill Online Books and Journals website.
 [^5]:National Library Board. (1998). [*Benjamin Keasberry*](http://eresources.nlb.gov.sg/infopedia/articles/SIP_781_2005-01-03.html) written by Cornelius-Takahama, Vernon. Retrieved from Singapore Infopedia.
