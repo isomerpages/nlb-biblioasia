@@ -5,6 +5,7 @@ date: 2016-01-30
 layout: post
 description: ""
 image: /images/vol-11-issue-4/Stories%20stack%20exhibition/a3.png
+variant: markdown
 ---
 #### The National Library’s newest exhibition, “From the Stacks”, presents highlights of its Rare Materials Collection. **Chung Sang Hong** explains why you should not miss this event.
 
@@ -92,7 +93,7 @@ Look out also for the collection of delightful [English nursery rhymes translate
   
 [^3]:Raffles, T. S. (1823). [*Formation of the Singapore Institution, A.D. 1823*](https://eresources.nlb.gov.sg/printheritage/detail/c862d6a7-03d3-4333-9191-36bb78288b2f.aspx) (pp. 56–59). Malacca: Mission Press. Retrieved from BookSG. 
   
-[^4]:National Library Board. (2008). [*Mission Press*](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1074_2008-12-20.html) written by Lim, Irene. Retrieved from Singapore Infopedia. 
+[^4]:National Library Board. (2008). [*Mission Press*](https://www.nlb.gov.sg/main/article-detail?cmsuuid=e6d58920-6a12-44fa-b075-147611a4a1e9) written by Lim, Irene. Retrieved from Singapore Infopedia. 
   
 [^5]:Hunt, R. A. (1989). The history of the translation of the bible into Bahasa Malaysia. *Journal of the Malaysian Branch of the Royal Asiatic Society, 62* (1) (256), p. 38. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.  
  

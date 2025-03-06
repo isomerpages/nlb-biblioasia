@@ -1,6 +1,6 @@
 ---
 title: Mazu Worship in Singapore
-permalink: /holding-area/vol-21/issue-1/apr-jun-2025/mazu-worship-in-singapore/
+permalink: /vol-21/issue-1/apr-jun-2025/mazu-goddess-of-the-sea-worship-birthday-thian-hock-keng/
 variant: markdown
 description: ""
 ---
@@ -31,8 +31,8 @@ Mazu is often portrayed clothed in “a gown with embroidery work and a crown wi
 &nbsp;(千里眼; Thousand-Li Eye) and on the right Shunfeng’er  
 &nbsp;(顺风耳; Favourable-Wind Ear). <i>Collection of the Asian Civilisations Museum. </i></div>
 
-![](/images/Vol%2021%20Issue%201/Mazu/mazu_facing2.jpg)
-<div style="background-color: white;">Qianliyan (left) and Shunfeng’er &nbsp;(right) at Thian Hock Keng, 2025. <i>Photos by Jimmy Yap.</i></div>
+![](/images/Vol%2021%20Issue%201/Mazu/mazu_qianliyan.jpg)
+<div style="background-color: white;">Qianliyan (left) and Shunfeng’er (right) at Thian Hock Keng, 2025. <i>Photos by Jimmy Yap.</i></div>
 
 #### **Building Thian Hock Keng**
 
@@ -52,7 +52,7 @@ In Thian Hock Keng, Mazu occupies the main (or central) hall. Guan Gong (关公;
 
 We, the _tangren_ (Chinese), have come from the interior by junks to engage in business here. We depended on Holy Mother of Gods to guide us across the sea safely and we were able to settle down here happily. Things are abundant and the people are healthy. We, the _tangren_, wish to return good for kindness. So we met and decided to build a temple in the south of Singapore at Telok Ayer to worship the Heavenly Consort day and night.[^16]
 
-![](/images/Vol%2021%20Issue%201/Mazu/mazu_facing2.jpg)
+![](/images/Vol%2021%20Issue%201/Mazu/mazu_hall.jpg)
 <div style="background-color: white;">Mazu in the main hall of Thian Hock Keng, 2025. <i>Photo by Jimmy Yap.</i></div>
 
 #### **Mazu Devotion in Singapore**

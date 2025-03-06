@@ -5,6 +5,7 @@ date: 2016-01-31
 layout: post
 description: ""
 image: /images/Vol-15-issue-2/rare-materials/Baba1.JPG
+variant: markdown
 ---
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 <b>Title:</b> <i><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4140500">Chrita Dahulu-kala, Namanya Sam 
@@ -29,9 +30,9 @@ total<br>
 
 Written in the 14th century and set during the last days of China’s Han dynasty and the tumultuous Three Kingdoms period (circa AD 220–280), the *Romance of the Three Kingdoms* is a well-known Chinese classic of epic proportions and a cast of thousands. In the late 1800s, a Baba Malay version of this classic was published in Singapore – making this popular tale more accessible to the Peranakan (Straits-born Chinese) community.[^1]
 
-Titled as *Chrita Dahulu-kala, Namanya Sam Kok, Atau, Tiga Negri Ber-prang: Siok, Gwi, Sama Gor di Jaman “Han Teow”* (henceforth referred to as *Sam Kok*), the series consists of 30 volumes translated from Chinese to Baba Malay. The translation was done by Chan Kim Boon, an administrator at law firm Aitken & Rodyk,[^2] with the help of two other people, Chia Ann Siang and Tan Kheam Hock.[^3]
+Titled as *Chrita Dahulu-kala, Namanya Sam Kok, Atau, Tiga Negri Ber-prang: Siok, Gwi, Sama Gor di Jaman “Han Teow”* (henceforth referred to as *Sam Kok*), the series consists of 30 volumes translated from Chinese to Baba Malay. The translation was done by Chan Kim Boon, an administrator at law firm Aitken &amp; Rodyk,[^2] with the help of two other people, Chia Ann Siang and Tan Kheam Hock.[^3]
 
-<img style="width: 300px; height: 450px;"  src="/images/Vol-15-issue-2/rare-materials/Baba2.JPG">
+<img style="width: 300px; height: 450px;" src="/images/Vol-15-issue-2/rare-materials/Baba2.JPG">
 <div style="background-color: white;">The translator of the series, Chan Kim Boon (1851–1920) was also known by his pen-name Batu Gantong (literally “Hanging Rock”). <i>All rights reserved, Chan, K. B. (1892–1896). Chrita Dahulukala, Namanya Sam Kok, Atau, Tiga Negri Ber-prang: Siok, Gwi, Sama Gor di Jaman “Han Teow”. Singapore: Kim Sek Chye Press.</i></div>
 
 Published between 1892 and 1896 by Kim Sek Chye Press, the entire series totalled some 4,622 pages, and a single volume was sold at a $1 each.[^4] *Sam Kok* is most likely the earliest complete Malay translation of *Romance of the Three Kingdoms*, ahead of Indonesian versions from Java published in 1910.[^5] The series was 
@@ -51,7 +52,7 @@ businessman Tan Beng Teck, who left for Japan and discontinued his translation w
 
 Chan became a dominant influence in the small Baba Malay publishing industry, gaining prominence for his translation of three popular Chinese classics: apart from *Sam Kok*, he also translated two other Chinese classics, *Song Kang* (*Water Margin*) and *Kou Chey Tian* (*Journey to the West*).[^11] After his death in 1920, the translation of Chinese stories into Baba Malay declined,[^12] due in part to the Peranakan community’s increasing preference for English-language books.[^13]
 
-The son of a Penang trader, Chan was educated in English at the Penang Free School, and received private tuition in Chinese. He arrived in Singapore in March 1872, and built a career as an administrator at Aitken & Rodyk. The book-keeper 
+The son of a Penang trader, Chan was educated in English at the Penang Free School, and received private tuition in Chinese. He arrived in Singapore in March 1872, and built a career as an administrator at Aitken &amp; Rodyk. The book-keeper 
 and cashier, however, became better known for his translations of Chinese classics into Baba Malay, which he diligently worked on after office hours.[^14]
 
 It was Chan’s publication of *Sam Kok* that brought him fame, primarily because it was a massive work that was serialised over 30 volumes. The series also included Chan’s footnotes, which provided details of Chinese culture as well as notes on romanised Malay terms and names, to which Chinese text was added for clarification. Jokes and even a portrait of the author were included in the series.[^15]
@@ -66,18 +67,18 @@ Chan was known by the pen-name Batu Gantong (literally “Hanging Rock”), whic
 <a href="/vol-11/issue-4/jan-mar-2016/"><center>Back to Issue</center></a>
 
 #### **NOTES**
-[^1]:The term Peranakan generally refers to people of mixed Chinese and Malay/Indonesian heritage. Peranakan males are known as *babas* while the females are known as *nonyas* (or *nyonyas*). See National Library Board. (August 26, 2013). [*Peranakan (Straits Chinese) community*](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-08-30_181745.html) written by Koh, Jaime. Retrieved from Singapore Infopedia.
+[^1]:The term Peranakan generally refers to people of mixed Chinese and Malay/Indonesian heritage. Peranakan males are known as *babas* while the females are known as *nonyas* (or *nyonyas*). See National Library Board. (August 26, 2013). [*Peranakan (Straits Chinese) community*](https://www.nlb.gov.sg/main/article-detail?cmsuuid=1138ea9d-9dbe-4f09-9fef-ba2c7105eb91) written by Koh, Jaime. Retrieved from Singapore Infopedia.
 [^2]:National Library Board. (2008). [*Chan Kim Boon*](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1337_2008-10-07.html) written by Tan, Bonny. Retrieved from Singapore Infopedia.
-[^3]:Yoong, S. K., & Zainab, A. N. (2002, December). Chinese literary works translated into Baba Malay: A bibliometric study. *Malaysian Journal of Library & Information Science, 7* (2), 21. Retrieved from University of Malaya website.
-[^4]:Yoong & Zainab, Dec 2002, p. 21.
+[^3]:Yoong, S. K., &amp; Zainab, A. N. (2002, December). Chinese literary works translated into Baba Malay: A bibliometric study. *Malaysian Journal of Library &amp; Information Science, 7* (2), 21. Retrieved from University of Malaya website.
+[^4]:Yoong &amp; Zainab, Dec 2002, p. 21.
 [^5]:[National Library Board](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1337_2008-10-07.html), 2008.
 [^6]:Proudfoot, I. (1993). [*Early Malay printed books: A provisional account of materials published in the Singapore-Malaysia area up to 1920, noting holdings in major public collections*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6712616) (pp. 25–26). Kuala Lumpur: Academy of Malay Studies and the Library, University of Malaya. Call no.: RSING 015.5957 PRO-[LIB].
-[^7]:[Proudfoot](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6712616), 1993, p. 24; Yoong, S. K., & Zainab, A. N. (2004, December). The Straits Chinese contribution to Malaysian literary heritage: Focus on Chinese stories translated into Baba Malay. *Journal of Educational Media & Library Sciences, 42* (2), 195. Retrieved from e-lis website.
+[^7]:[Proudfoot](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6712616), 1993, p. 24; Yoong, S. K., &amp; Zainab, A. N. (2004, December). The Straits Chinese contribution to Malaysian literary heritage: Focus on Chinese stories translated into Baba Malay. *Journal of Educational Media &amp; Library Sciences, 42* (2), 195. Retrieved from e-lis website.
 [^8]:[Proudfoot](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6712616), 1993, pp. 25–26.
 [^9]:[Proudfoot](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6712616), 1993, p. 22.
-[^10]: Yoong & Zainab, Dec 2004, p. 184; Salmon, C. (Ed.). (2013). [*Literary migrations: Traditional Chinese fiction in Asia (17th–20th centuries)*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200182446). Singapore: ISEAS Publishing. Cal no.: RSING 895.134809 LIT.
-[^11]:Yoong & Zainab, Dec 2002, p. 7.
-[^12]:Yoong & Zainab, Dec 2004, p. 186.
+[^10]: Yoong &amp; Zainab, Dec 2004, p. 184; Salmon, C. (Ed.). (2013). [*Literary migrations: Traditional Chinese fiction in Asia (17th–20th centuries)*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200182446). Singapore: ISEAS Publishing. Cal no.: RSING 895.134809 LIT.
+[^11]:Yoong &amp; Zainab, Dec 2002, p. 7.
+[^12]:Yoong &amp; Zainab, Dec 2004, p. 186.
 [^13]:[Proudfoot](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6712616), 1993, p. 23.
 [^14]:[National Library Board](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1337_2008-10-07.html), 2008.
 [^15]:[National Library Board](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1337_2008-10-07.html), 2008.

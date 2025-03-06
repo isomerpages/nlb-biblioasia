@@ -2,7 +2,7 @@ collections:
   holding-area:
     output: true
     order:
-      - Mazu Worship in Singapore.md
+      - Director's Note.md
       - Sample Test2.md
       - Sample Test.md
       - Example Title.md
