@@ -9,7 +9,7 @@ variant: markdown
 ---
 <img src="/images/Vol%2021%20Issue%201/vol211cover.jpg">
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/jan-mar-2025/director-note/">Director's Note</a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/holding-area/vol-21/issue-1/jan-mar-2025/director-note/">Director's Note</a><br>
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/liu-kang-forgotten-photographs-bali/">Forgotten Photographs of the 1952 Trip to Bali </a><br>
 A treasure trove of negatives found in an old shoebox sheds new light on a trip that led to an exhibition now regarded as a milestone in the history of Singapore art. *Gretchen Liu*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_ForgottenBali.pdf)
@@ -34,7 +34,7 @@ The first school for the deaf in Singapore was established in 1954, paving the w
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/1954-floods-singapore/">The Floods of 1954 </a><br> The severe floods of 1954 tested community resilience, spurred significant infrastructure improvements and left a lasting impact on Singapore’s flood preparedness measures. *Darren Seow*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_Floods.pdf)
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/mazu-worship-in-singapore/">Mazu Worship in Singapore</a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/mazu-goddess-of-the-sea-worship-birthday-thian-hock-keng/">Mazu Worship in Singapore</a><br>
 Mazu devotion, which first came to Singapore in 1810, lives on in its traditions and processions. *Alvin Tan*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_Mazu.pdf)
 
 
