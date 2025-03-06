@@ -2,7 +2,6 @@ collections:
   holding-area:
     output: true
     order:
-      - Director's Note.md
       - Sample Test2.md
       - Sample Test.md
       - Example Title.md
