@@ -9,7 +9,7 @@ variant: markdown
 
 |                                                              |                                                              |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![BiblioAsia 21-1 cover](/images/covers/ba21_1_cover.jpg)[Apr–Jun 2025](https://biblioasia.nlb.gov.sg/vol-21/issue-1/apr-jun-2025/)<br>[Apr–Jun 2025 (PDF)](/files/pdf/BiblioAsia_Apr_Jun2025_LowRes_5mb.pdf)|
+| ![BiblioAsia 21-1 cover](/images/covers/ba21_1_cover.jpg)[Apr–Jun 2025](https://biblioasia.nlb.gov.sg/vol-21/issue-1/apr-jun-2025/)<br>[Apr–Jun 2025 (PDF)](/files/pdf/BiblioAsia_Apr_Jun2025_LowRes_5mb.pdf)|![BiblioAsia 20-2 cover](/images/covers/ba20_2_cover.png)[Jul-Sep 2024]()<br>[Jul-Sep 2024 (PDF)]()|
 
 #### Volume 20
 
