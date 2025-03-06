@@ -9,7 +9,7 @@ variant: markdown
 ---
 <img src="/images/Vol%2021%20Issue%201/vol211cover.jpg">
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/jan-mar-2025/director-note/">Director's Note</a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/holding-area/vol-21/issue-1/jan-mar-2025/director-note/">Director's Note</a><br>
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/liu-kang-forgotten-photographs-bali/">Forgotten Photographs of the 1952 Trip to Bali </a><br>
 A treasure trove of negatives found in an old shoebox sheds new light on a trip that led to an exhibition now regarded as a milestone in the history of Singapore art. *Gretchen Liu*. [(PDF)](/files/pdf/Vol%2020/BiblioAsia_JAN_MAR2025_KuehPieTee-a.pdf)
