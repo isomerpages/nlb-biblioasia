@@ -47,4 +47,4 @@ Barbara Kerr made contributions to the Girl Guides, sports and animal welfare. S
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/new-books-on-singapore-history/">New Books on Singapore History</a><br>
-_Bali 1952: Through the Lens of Liu Kang; My Journey of Peace to Estonia, Latvia, Lithuania and Russia_ and _The Story of Southeast Asia_ are some of the new books available at the National Library. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_DeafEducation1.pdf)
+_Bali 1952: Through the Lens of Liu Kang; My Journey of Peace to Estonia, Latvia, Lithuania and Russia_ and _The Story of Southeast Asia_ are some of the new books available at the National Library. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_NewBooks.pdf)
