@@ -35,7 +35,7 @@ Kerr had a poor start but recovered in a spectacular way to score a total of 93 
 
 ![](/images/Vol%2021%20Issue%201/Barbara%20Kerr/p3.jpg)
 
-The final score for Singapore was 942, which tied it with Shanghai. One point less from Kerr and Shanghai would have won the competition. One of her teammates, Song Ong Siang, acknowledged her contributions to the team effort: 
+Although the final scores of Singapore and Shanghai were tied at 942, Singapore was declared the winner of the competition because Kerr recorded the highest&nbsp;score in the third&nbsp;and final round (34 out of 35 points), which was the tie-breaker. No Shanghai shooter could match her in the final round. One of her teammates, Song Ong Siang, acknowledged her contributions to the team effort: 
 
 "The novel feature in the match was the inclusion in the Singapore team of a lady, Miss Kerr (the well-known and popular vocalist, then Principal of the Singapore Chinese Girls’ School, and now Mrs Thomas). By her coolness and steady shooting at the longer ranges, she finished by taking sixth place with a score of 93."[^7]
 
