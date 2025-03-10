@@ -9,13 +9,14 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-20/issue-4/jan-mar-2025/central-provident-fund-cpf/
-      button: How the CPF Scheme Came to Be
+      url: /vol-20/issue-4/jan-mar-2025/nominated-member-of-parliament-nmp/
+      button: "Providing Independent and Non-Partisan Views: The Nominated Member of
+        Parliament Scheme"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 20 Issue 4/CPF/HeroImage_CPF.jpg
+      background: /images/Vol 20 Issue 4/Independent and Non Partisan/HeroImage_NMP.jpg
   - infopic:
       title: The Floods of 1954
       subtitle: Nature and the Environment
