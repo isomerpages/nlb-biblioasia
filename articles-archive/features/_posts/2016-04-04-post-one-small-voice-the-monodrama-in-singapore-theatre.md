@@ -4,6 +4,7 @@ date: 2016-04-04
 permalink: /vol-12/issue-1/apr-jun-2016/one-small-voice/
 image: /images/Vol-12-issue-1/one-small-voice/04_onesmallvoice.jpg
 layout: post
+variant: markdown
 ---
 #### *Emily of Emerald Hill* is one of Singapore’s most iconic single-person plays. **Corrie Tan** tells you more about the history of the monodrama on the Singapore stage.
 
@@ -141,7 +142,7 @@ This direct address, a hallmark of most monodramas, draws out the magnetic vulne
 
 #### **NOTES**
 
-[^1]:National Library Board. (2014, July 29). *[Chinese street storytellers](http://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-07-29_093914.html)* written by Tan, Fiona. Retrieved from Singapore Infopedia website.
+[^1]:National Library Board. (2014, July 29). *[Chinese street storytellers](https://www.nlb.gov.sg/main/article-detail?cmsuuid=23b849a8-b357-4e7a-a511-bde6b6c2e5c2)* written by Tan, Fiona. Retrieved from Singapore Infopedia website.
 
 [^2]:Tan, C. (2014, September 30). [Veiled digs at society and red tape](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20140930-1.2.50.1.1). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
 
@@ -153,9 +154,9 @@ This direct address, a hallmark of most monodramas, draws out the magnetic vulne
 
 [^6]:Tan, C. (2014, August 26). [Turning the tide with Emily](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20140826-1.2.51.1.8). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
-[^7]:[Singaporean plays sought by ministry](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850919-1.2.24.4.aspx?q=Singaporean+plays+sought+by+ministry.&page=1&sort=relevance&token=ministry%2cby%2csought%2cplays%2csingaporean&sessionid=02c19ad0b76842a7bd0105dce62329ab). (1985, September 19). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
+[^7]:[Singaporean plays sought by ministry](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19850919-1.2.24.4.aspx?q=Singaporean+plays+sought+by+ministry.&amp;page=1&amp;sort=relevance&amp;token=ministry%2cby%2csought%2cplays%2csingaporean&amp;sessionid=02c19ad0b76842a7bd0105dce62329ab). (1985, September 19). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
 
-[^8]:柯思仁 [Quah, S.R]. (2013).[ 戏聚百年: 新加坡华 文戏剧 1913–2013](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200169140) [*Scenes: A hundred years of Singapore Chinese language theatre 1913–2013*] (p. 13). Singapore: Drama Box & National Museum of Singapore. (Call no.: Chinese RSING 792.095957 QSR)
+[^8]:柯思仁 [Quah, S.R]. (2013).[ 戏聚百年: 新加坡华 文戏剧 1913–2013](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200169140) [*Scenes: A hundred years of Singapore Chinese language theatre 1913–2013*] (p. 13). Singapore: Drama Box &amp; National Museum of Singapore. (Call no.: Chinese RSING 792.095957 QSR)
 
 [^9]:[Untitled](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18921205-1.2.15). (1892, December 5). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
 
@@ -165,23 +166,23 @@ This direct address, a hallmark of most monodramas, draws out the magnetic vulne
 
 [^12]:[The Humphrey Bishop Co](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19160426-1.2.53). (1916, April 26). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
 
-[^13]:[Leyland Hodgson Company](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19200625-1.2.22.aspx?q=Leyland+Hodgson+Company.&mode=advanced&f_df=19200101&f_dt=19201231&page=1&sort=relevance&token=company%2chodgson%2cleyland&sessionid=56c41158b0ce45e1bbe7faaa7f19ce86). (1920, June 26). *The Singapore Free Press and Mercantile Advertiser* (1884–1942), p. 12. Retrieved from NewspaperSG. 
+[^13]:[Leyland Hodgson Company](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19200625-1.2.22.aspx?q=Leyland+Hodgson+Company.&amp;mode=advanced&amp;f_df=19200101&amp;f_dt=19201231&amp;page=1&amp;sort=relevance&amp;token=company%2chodgson%2cleyland&amp;sessionid=56c41158b0ce45e1bbe7faaa7f19ce86). (1920, June 26). *The Singapore Free Press and Mercantile Advertiser* (1884–1942), p. 12. Retrieved from NewspaperSG. 
 
 [^14]:Oon, V. (1972, September 29). [Audience gets into the act as well](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19720929-1.2.25). *New Nation*, p. 3. Retrieved from NewspaperSG.
 
 [^15]:[柯思仁](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200169140), 2013, p. 93.
 
-[^16]:Tan, C.K. (2004). *Aesthetic strategies in the plays of The Necessary Stage*. In C.K. Tan & T. Ng. (Eds), *[Ask not: The Necessary Stage in Singapore theatre](https://eservice.nlb.gov.sg/itemholding.aspx?bid=12282535)* (p. 72). Singapore: Times Editions. (Call no.: RSING 792.095957 ASK)
+[^16]:Tan, C.K. (2004). *Aesthetic strategies in the plays of The Necessary Stage*. In C.K. Tan &amp; T. Ng. (Eds), *[Ask not: The Necessary Stage in Singapore theatre](https://eservice.nlb.gov.sg/itemholding.aspx?bid=12282535)* (p. 72). Singapore: Times Editions. (Call no.: RSING 792.095957 ASK)
 
 [^17]:Tan, A. (2014). Foreword to *Best of by Haresh Sharma*. Singapore: The Necessary Stage.
 
 [^18]:Hamilton, A. (2000). The rights of marriage. *Asiaweek*. Retrieved from Asiaweek website.
 
-[^19]:Teo, P.L. (2000, October 18). [NAC ‘threatened’ to withhold play licence: Group](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20001018-1.2.53.3.aspx?q=NAC+%E2%80%98threatened%E2%80%99+to+withhold+play+licence&page=1&sort=relevance&token=licence%2cplay%2cwithhold%2cto%2cthreatened%2cnac&sessionid=7910d7c5981b4694aa4cfd3ac16a8399). *The Straits Times*, p. 45. Retrieved from NewspaperSG.
+[^19]:Teo, P.L. (2000, October 18). [NAC ‘threatened’ to withhold play licence: Group](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20001018-1.2.53.3.aspx?q=NAC+%E2%80%98threatened%E2%80%99+to+withhold+play+licence&amp;page=1&amp;sort=relevance&amp;token=licence%2cplay%2cwithhold%2cto%2cthreatened%2cnac&amp;sessionid=7910d7c5981b4694aa4cfd3ac16a8399). *The Straits Times*, p. 45. Retrieved from NewspaperSG.
 
 [^20]:Hamilton, 2000.
 
-[^21]:Oon, C. (2000, April 7). [Sinister path to the power of the self](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20000407-1.2.89.29.aspx?q=Sinister+path+to+the+power+of+the+self.&page=1&sort=relevance&token=self%2cthe%2cof%2cpower%2cthe%2cto%2cpath%2csinister&sessionid=78feb73d22aa469e8a4cfc67fcba5e6e). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
+[^21]:Oon, C. (2000, April 7). [Sinister path to the power of the self](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20000407-1.2.89.29.aspx?q=Sinister+path+to+the+power+of+the+self.&amp;page=1&amp;sort=relevance&amp;token=self%2cthe%2cof%2cpower%2cthe%2cto%2cpath%2csinister&amp;sessionid=78feb73d22aa469e8a4cfc67fcba5e6e). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
 
 [^22]:Chong, O. (2014). *[Roots: Reviews, script, essay, stills](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201068251)* (p. 23). Singapore: The Finger Players. (Call no.: RSING 791.53095957 CHO)
 
