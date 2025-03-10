@@ -232,6 +232,7 @@ The official report of the 1947 census – released in October 1949 – gave Sin
 [^33]:[S’pore doubles population in sixteen years](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribue19491010-1.2.11). (1949, October 10). *The Malaya Tribune*, p. 1. Retrieved from NewspaperSG.
 
 [^34]:Huff, G., &amp; Majima, S. (Eds.; Trans.). (2018). [*World War II Singapore: The Chōsabu reports on Syonan*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202918361) (p. 3). Singapore: NUS Press. (Call no.: RSING 959.5703 WOR)
+
 [^35]:[Huff &amp; Majima](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202918361), 2018, pp. 133, 135.
 
 [^36]:National Library Board. (2013). [*Operation Sook Ching*](http://eresources.nlb.gov.sg/infopedia/articles/SIP_40_2005-01-24.html) written by Stephanie Ho. Retrieved from Singapore Infopedia; [Huff &amp; Majima](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202918361), 2018, p. 133.
