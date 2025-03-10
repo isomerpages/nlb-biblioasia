@@ -5,6 +5,7 @@ permalink: /vol-11/issue-4/jan-mar-2016/one-hundred-years-singapore/
 image: /images/vol-11-issue-4/celebrating-a-centenary/01_celebratingcentenary.jpg
 layout: post
 description: ""
+variant: markdown
 ---
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
 <b>Title:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183132">One Hundred Years of Singapore: Being Some Account of the Capital of the Straits Settlements from its Foundation by Sir Stamford Raffles on the 6th February 1819 to the 6th February 1919</a></i>
@@ -43,7 +44,7 @@ Among the trio of editors was Walter Makepeace (1859–1941), a prominent Freema
 
 Makepeace was among the first recruits of the Singapore Volunteer Artillery in 1888, and during the Sepoy Mutiny in 1915, he commanded 200 special constables in Singapore.[^7] His first-hand familiarity with local organisations enabled him to contribute four chapters and five articles to the book, in addition to his role as editor. His chapters included “The Port of Singapore”, “The Machinery of Commerce”, “Institutions and Clubs” and “Concerning Known Persons”, while his articles were on the military and the legislative council.
 
-<div style="background-color: white;"><img style="width:500px" src="/images/vol-11-issue-4/celebrating-a-centenary/02a_celebratingcentenary.jpg">Walter Makepeace (from the left, the second person sitting down in the first row) with sergeants of the Singapore Volunteer Artillery. <i>All rights reserved, Makepeace, W., Brooke, G. E., & Braddell, R. St. J. (1921). One Hundred Years of Singapore (Vol. I). London: John Murray.</i></div>
+<div style="background-color: white;"><img style="width:500px" src="/images/vol-11-issue-4/celebrating-a-centenary/02a_celebratingcentenary.jpg">Walter Makepeace (from the left, the second person sitting down in the first row) with sergeants of the Singapore Volunteer Artillery. <i>All rights reserved, Makepeace, W., Brooke, G. E., &amp; Braddell, R. St. J. (1921). One Hundred Years of Singapore (Vol. I). London: John Murray.</i></div>
 
 One of Makepeace’s co-editors on the book, Gilbert Edward Brooke (1873–1936), was a pioneering public health official in Malaya who became Chief Health Officer in Singapore. Like Makepeace, he was involved during the Sepoy Mutiny but as a transport officer.[^8] Brooke contributed one chapter – “The Centenary Day and its Celebrations” – to the book as well as five articles: three on science, one on piracy and one titled “Botanic Gardens and Economic Notes”.
 
@@ -61,7 +62,7 @@ The third and last co-editor, Roland St. John Braddell (1880–1966) was a promi
 
 [^2]:[One hundred years of Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19180808-1.2.16). (1918, August 8). *The Singapore Free Press*, p. 83. Retrieved from NewspaperSG.
 
-[^3]:National Library Board. (2016). *[Charles Burton Buckley](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1145_2006-08-29.html)* written by Chia, Yeong Jia Joshua. Retrieved from Singapore Infopedia website.
+[^3]:National Library Board. (2016). *[Charles Burton Buckley]( https://www.nlb.gov.sg/main/article-detail?cmsuuid=33107a3e-831b-401e-befc-23e4905e5d38)* written by Chia, Yeong Jia Joshua. Retrieved from Singapore Infopedia website.
 
 [^4]:[The Singapore Free Press and the men who have made it](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19351008-1.2.4.1). (1935, October 8). *The Singapore Free Press and Mercantile Advertiser (1884–1942)*, p. 1. Retrieved from NewspaperSG.
 
@@ -73,6 +74,6 @@ The third and last co-editor, Roland St. John Braddell (1880–1966) was a promi
 
 [^8]:[Chief Health Officer for 26 years](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360116-1.2.66.69). (1936, January 16). *The Straits Times*, p. 13. Retrieved from NewspaperSG.
 
-[^9]:National Library Board. (2019, May). *[Roland St. John Braddell](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1210_2008-01-30.html)* written by Chia, Yeong Jia Joshua & Ong, Alex. Retrieved from Singapore Infopedia website.
+[^9]:National Library Board. (2019, May). *[Roland St. John Braddell](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1210_2008-01-30.html)* written by Chia, Yeong Jia Joshua &amp; Ong, Alex. Retrieved from Singapore Infopedia website.
 
 [^10]:[Singapore citizen](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19510721-1.2.93). (1951, July 21). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
