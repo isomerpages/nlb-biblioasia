@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-13/issue-3/oct-dec-2017/lifetime-of-labour/
-      button: "A Lifetime of Labour: Cantonese Amahs in Singapore"
+      url: /vol-20/issue-4/jan-mar-2025/central-provident-fund-cpf/
+      button: How the CPF Scheme Came to Be
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol-13-issue-3/a-lifetime-of-labour/Amah_heroimage.png
+      background: /images/Vol 20 Issue 4/CPF/HeroImage_CPF.jpg
   - infopic:
       title: The Construction of Bali’s Mystique
       subtitle: Adventure and Travel
