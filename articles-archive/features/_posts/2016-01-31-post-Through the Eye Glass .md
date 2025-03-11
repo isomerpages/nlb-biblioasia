@@ -65,7 +65,7 @@ writing. It was enthusiastically embraced by local printers and publishers, pavi
 [^2]:National Library Board. (2008). [*Mission Press*](https://www.nlb.gov.sg/main/article-detail?cmsuuid=e6d58920-6a12-44fa-b075-147611a4a1e9) written by Lim, Irene. Retrieved from Singapore Infopedia.
 [^3]:National Library Board, 2008.
 [^4]:Putten, J. V. D. (2006). Abdullah Munsyi and the missionaries. *Bijdragen tot de Taal -, Land-en Volkenkunde (BKI), 162* (4), 411. Retrieved from Brill Online Books and Journals website.
-[^5]:National Library Board. (1998). [*Benjamin Keasberry*](http://eresources.nlb.gov.sg/infopedia/articles/SIP_781_2005-01-03.html) written by Cornelius-Takahama, Vernon. Retrieved from Singapore Infopedia.
+[^5]:National Library Board. (1998). [*Benjamin Keasberry*](https://www.nlb.gov.sg/main/article-detail?cmsuuid=f65a75d3-057e-44ca-adf8-cd8c68c15214) written by Cornelius-Takahama, Vernon. Retrieved from Singapore Infopedia.
 [^6]:Putten, 2006, p. 411. 
 [^7]:Gallop, A. T. (1990). Early Malay printing: An introduction to the British Library collections. *Journal of the Malaysian Branch of the Royal Asiatic Society, 63* (1) (258), 98. Retreived from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website. 
 [^8]:Putten, 2006, p. 418.
