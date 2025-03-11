@@ -6,6 +6,7 @@ description: Highlights some of the earliest surviving issues of the first Malay
   was financed, run and edited by a group of Jawi Peranakkan (local born Indian
   Muslims).
 image: /images/Vol 4 Issue 4/JawiPeranakkan/akbarjawi.jpg
+variant: markdown
 ---
 #### Senior Librarian *Sudusia Rosdi* highlights some of the earliest surviving issues of the first Malay newspaper, the *Jawi Peranakkan*, published between 1876 and 1895.
 
@@ -242,7 +243,7 @@ Darwis Harahap, “Sejarah Pertumbuhan Bahasa Melayu,” (Malay Concordance Proj
 
 John A. Lent, “Malaysia’s National Language Mass Media: History and Present Status,” _South East Asian Studies_ 15, no. 4 (March 1978), https://kyoto-seas.org/pdf/15/4/150408.pdf.
 
-Ratnala Thulaja Naidu, [Jawi Peranakan](https://eresources.nlb.gov.sg/infopedia/articles/SIP_106_2005-02-02.html), _Singapore Infopedia_, published 2016.
+Ratnala Thulaja Naidu, [Jawi Peranakan](https://www.nlb.gov.sg/main/article-detail?cmsuuid=1e041f4a-3d43-4e76-883b-6ce598519973), _Singapore Infopedia_, published 2016.
 
 ***Jawi Peranakkan***
 
