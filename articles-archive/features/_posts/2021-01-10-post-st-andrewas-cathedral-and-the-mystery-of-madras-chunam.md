@@ -4,6 +4,7 @@ permalink: /vol-16/issue-4/jan-mar-2021/st-andrew-cathedral/
 date: 2021-01-01T00:00:00.000Z
 breadcrumb: St Andrew’s Cathedral
 third_nav_title: St Andrew’s Cathedral and the Mystery of Madras Chunam
+variant: markdown
 ---
 <style>
 table { 
@@ -170,7 +171,7 @@ Having weighed the historical evidence – the budgetary constraints that affect
 
 #### **NOTES**
 
-[^1]: St Andrew’s Cathedral is the second church building on the site of the original St Andrew’s Church, named after the patron saint of Scotland. The original building was designed by Government Superintendent of Public Works George D. Coleman and completed in 1836. After the spire of the church had been struck by lightning in 1845 and 1849, the building was considered unsafe and later demolished. The second St Andrew’s Church was completed in 1865. It was consecrated as a cathedral in 1870 and became known as St Andrew’s Cathedral. See Cornelius-Takahama, V. (2017). *[St Andrew’s Cathedral](https://eresources.nlb.gov.sg/infopedia/articles/SIP_25_2_2008-12-01.html)*. Retrieved from Singapore Infopedia, National Library, Singapore.
+[^1]: St Andrew’s Cathedral is the second church building on the site of the original St Andrew’s Church, named after the patron saint of Scotland. The original building was designed by Government Superintendent of Public Works George D. Coleman and completed in 1836. After the spire of the church had been struck by lightning in 1845 and 1849, the building was considered unsafe and later demolished. The second St Andrew’s Church was completed in 1865. It was consecrated as a cathedral in 1870 and became known as St Andrew’s Cathedral. See Cornelius-Takahama, V. (2017). *[St Andrew’s Cathedral](https://www.nlb.gov.sg/main/article-detail?cmsuuid=69d540ff-b1a1-4a62-8a5a-800404326ace)*. Retrieved from Singapore Infopedia, National Library, Singapore.
 
 [^2]: McNair, J.F.A., &amp; Bayliss, W.D. (1899). *[Prisoners their own warders: A record of the convict prison at Singapore established 1825, discontinued 1873, together with a cursory history of the convict establishments at Bencoolen, Penang and Malacca from the Year 1797](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4320815)*. Westminster: A. Constable. (Call no.: RRARE 365.95957 MAC; Microfilm no.: NL12115)
 
