@@ -1,9 +1,10 @@
 ---
-title: "Stories of Abdullah "
+title: Stories of Abdullah
 permalink: /vol-11/issue-4/jan-mar-2016/hikayat-abdullah-abdul-kadir-munsyi/
 date: 2016-01-31
 layout: post
 description: ""
+variant: markdown
 ---
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 	<b>Title:</b> <a href="https://eresources.nlb.gov.sg/printheritage/detail/81c0b1e2-807f-433b-b9d1-500ab4d06e62.aspx"><i>Hikayat Abdullah (Stories of Abdullah)</i></a><br>
@@ -59,12 +60,12 @@ Munsyi Abdullah died in Mecca in 1854 while on pilgrimage.[^16] But his legacy i
 [^5]:Gallop, A. T. (1990). Early Malay printing: An introduction to the British Library collections. *Journal of the Malaysian Branch of the Royal Asiatic Society, 63* (1) (258), 98. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
 [^6]:Anuar Othman. (1993, January 4). [Historical Malay works in Chinese](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19930104-1.2.71.5.5.aspx). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
 [^7]:[Abdullah](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13606908), 2009, p. v.
-[^8]:Traill, H. F. O’B. (1979). An Indian protagonist of the Malay language: Abdullah “Munshi”, his race and his mother-tongue. *Journal of the Malaysian Branch of the Royal Asiatic Society, 52* (2) (236), 81. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website; Azizah Sidek & Mazelan Anuar. (2008, January). Hikayat Abdullah. [*BiblioAsia*](https://biblioasia.nlb.gov.sg/all-issues/)*, 3* (4), 35–36.
-[^9]:[Abdullah](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13606908), 2009, pp. v, 22; National Library Board. (1998). [*Benjamin Keasberry*](http://eresources.nlb.gov.sg/infopedia/articles/SIP_781_2005-01-03.html) written by Cornelius-Takahama, Vernon. Retrieved from Singapore Infopedia; UNESCO Memory of the World. (n.d). *Sejarah Melayu* (The Malay Annals). Retrieved from UNESCO website.
+[^8]:Traill, H. F. O’B. (1979). An Indian protagonist of the Malay language: Abdullah “Munshi”, his race and his mother-tongue. *Journal of the Malaysian Branch of the Royal Asiatic Society, 52* (2) (236), 81. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website; Azizah Sidek &amp; Mazelan Anuar. (2008, January). Hikayat Abdullah. [*BiblioAsia*](https://biblioasia.nlb.gov.sg/all-issues/)*, 3* (4), 35–36.
+[^9]:[Abdullah](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13606908), 2009, pp. v, 22; National Library Board. (1998). [*Benjamin Keasberry*](https://www.nlb.gov.sg/main/article-detail?cmsuuid=f65a75d3-057e-44ca-adf8-cd8c68c15214) written by Cornelius-Takahama, Vernon. Retrieved from Singapore Infopedia; UNESCO Memory of the World. (n.d). *Sejarah Melayu* (The Malay Annals). Retrieved from UNESCO website.
 [^10]:Che-Ross, R. (2002). Malay Manuscripts in New Zealand: The ‘lost’ manuscript of the “Hikayat Abdullah” and other Malay manuscripts in the Thomson collection. *Journal of the Malaysian Branch of the Royal Asiatic Society, 75* (2) (283), 18. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
 [^11]:Reith, 1892, p. 132.
 [^12]:National Library Board. (2001). [*Munshi Abdullah*](http://eresources.nlb.gov.sg/infopedia/articles/SIP_503_2004-12-27.html) written by Cornelius-Takahama, Vernon. Retrieved from Singapore Infopedia.
-[^13]:Sweeney, A (2006, November). Abdullah bin Abdul Kadir Munsyi: A man of bananas and thorns. *Indonesia and the Malay Word, 34* (100), 223–245. Retrieved from Taylor & Francis Online.
+[^13]:Sweeney, A (2006, November). Abdullah bin Abdul Kadir Munsyi: A man of bananas and thorns. *Indonesia and the Malay Word, 34* (100), 223–245. Retrieved from Taylor &amp; Francis Online.
 [^14]:Gallop, 1990, pp. 96–97.
 [^15]:National Library Board. (2001/2002). *Annual report* (p. 24). Singapore: National Library Board. Call no.: RCLOS q027.05957 SNLBAR-[AR].
-[^16]:Che-Ross, R. (2000, July). Munshi Abdullah’s voyage to Mecca: A preliminary introduction and annotated translation. *Indonesia and the Malay World, 28* (81), 182. Retrieved from Taylor & Francis Online.
+[^16]:Che-Ross, R. (2000, July). Munshi Abdullah’s voyage to Mecca: A preliminary introduction and annotated translation. *Indonesia and the Malay World, 28* (81), 182. Retrieved from Taylor &amp; Francis Online.
