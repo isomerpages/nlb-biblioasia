@@ -4,6 +4,7 @@ date: 2018-07-31
 permalink: /vol-14/issue-2/jul-sep-2018/japan-in-sea-lim-sbc/
 image: /images/Vol-14-issue-2/japan-in-southeast-asia/Collection1.JPG
 layout: post
+variant: markdown
 ---
 #### More than 800 items documenting early Japanese interactions in Singapore and the region have been donated to the National Library. **Gracie Lee** explains the significance of this repository.
 
@@ -99,7 +100,7 @@ The first page of a letter from Koighiro Ejiri of Ryuoyakubo, a Japanese drug st
 A Japanese postcard featuring the waterfront and skyline of Syonan City (Singapore) dated 6 August 1945. Visible from the photo is the General Post Office (today’s Fullerton Hotel), the Victoria Theatre and Concert Hall, the old Supreme Court and Municipal Building (today’s National Art Gallery) and St Andrew’s Cathedral. The writer, Wako Kobayashi, describes her life as an apprentice in a factory and her future plans when the war ends. She encourages Mie Kakuda, the addressee of this postcard, to press on during this time of adversity. <i>(Accession no.: B32413808G)</i>
 <br><br><br>
 <img src="/images/Vol-14-issue-2/japan-in-southeast-asia/Collection10.JPG"><br>
-Picture postcards of colonial Singapore. Some of these carry messages written by Japanese residents or tourists visiting Singapore. They were sent to family, friends and business associates back in Japan, although a small number are addressed to other Japanese residents living in Malaya. About a third of the 500 postcards were printed in Japan. The names of studios and photographers are usually not stated on the cards but a few include the names of Japanese studios in Singapore and Malaya, such as Togo & Co. (Singapore), Hakone Studio (Melaka) and M. Nakajima (Kuala Lumpur). There are also cards produced by non-Japanese studios and stationers in Singapore like G.R. Lambert, Max H. Hilckes, Wilson & Co., Continental Stamp Co. and Koh & Co. <i>(Accession no.: B32413805D)</i>
+Picture postcards of colonial Singapore. Some of these carry messages written by Japanese residents or tourists visiting Singapore. They were sent to family, friends and business associates back in Japan, although a small number are addressed to other Japanese residents living in Malaya. About a third of the 500 postcards were printed in Japan. The names of studios and photographers are usually not stated on the cards but a few include the names of Japanese studios in Singapore and Malaya, such as Togo &amp; Co. (Singapore), Hakone Studio (Melaka) and M. Nakajima (Kuala Lumpur). There are also cards produced by non-Japanese studios and stationers in Singapore like G.R. Lambert, Max H. Hilckes, Wilson &amp; Co., Continental Stamp Co. and Koh &amp; Co. <i>(Accession no.: B32413805D)</i>
 <br><br><br>
 <img style="width: 450px; height: 300px;" src="/images/Vol-14-issue-2/japan-in-southeast-asia/Collection11.JPG"><br>
 Singapore was one of the ports of call for the Imperial Japanese Navy’s training missions in the 1920s and 30s. This postcard commemorates a training cruise to Marseille, France, led by Vice-Admiral Seizō Sakonji. The two battleships, <i>Izumo</i> and <i>Yakumo</i>, docked in Singapore between 27 and 31 March 1931. During his time on the island, Vice-Admiral Sakonji met with leading members of the Japanese community. <i>(Accession no.: B32413808G)</i>
@@ -115,7 +116,7 @@ This 1943 book, 大東亜写真年報 = Japan Photo Almanac. 2603年版 (<i>[Dai
 </span>
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
-The author wishes to thank Lim Shao Bin and librarians Goh Yu Mei and Ng Hui Ling for their input. Digital versions of some of the items featured in this article are available on BookSG at [http://eresources.nlb.gov.sg/printheritage](http://eresources.nlb.gov.sg/printheritage).
+The author wishes to thank Lim Shao Bin and librarians Goh Yu Mei and Ng Hui Ling for their input. Digital versions of some of the items featured in this article are available on BookSG at [National Library Online](https://www.nlb.gov.sg/main/nlonline).
 </span>
 
 <br>
