@@ -205,7 +205,7 @@ The aesthetic quality of the building plans, their breadth and comprehensiveness
 
 |**REFERENCES**|
 
-|National Library Board. (2017). *[Chulia Street](https://eresources.nlb.gov.sg/infopedia/articles/SIP_222_2005-01-18.html)*	written by Nor-Afidah Abd Rahman &amp; Vernon Cornelius. Retrieved from Singapore Infopedia website.
+|National Library Board. (2017). *[Chulia Street](https://www.nlb.gov.sg/main/article-detail?cmsuuid=9c103061-e68c-4662-8946-8dbe86d9b651)*	written by Nor-Afidah Abd Rahman &amp; Vernon Cornelius. Retrieved from Singapore Infopedia website.
 |[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk18990601-1.2.51). (1899, June 1). *The Singapore Free Press*, p. 6. Retrieved from NewspaperSG.|
 
 
