@@ -172,7 +172,7 @@ Commendable though the D.J. Elias Building may have been, it was, however, but a
 
 [^8]: Classical architecture originated in ancient Greece and Rome, and is characterised by symmetry, regular proportions, columns, and the use of stone or marble as a primary building material.
 
-[^9]: For more information about Manasseh Meyer, see Tan, B. (2010). [*Manasseh Meyer*](https://eresources.nlb.gov.sg/infopedia/articles/SIP_830_2004-12-29.html). Retrieved from Singapore Infopedia website. 
+[^9]: For more information about Manasseh Meyer, see Tan, B. (2010). [*Manasseh Meyer*](https://www.nlb.gov.sg/main/article-detail?cmsuuid=5d8ce04a-9678-465d-a383-d00b6b884f21). Retrieved from Singapore Infopedia website. 
 
 [^10]: In Britain, the use of the word “mansion” (usually in the plural) to describe a block of flats was something that crept in during the late 19th century as property developers tried to encourage an emerging generation of middle- and upper-class urbanites to buy into what at the time was a wholly new residential typology – it lent a “touch of class”, or so people thought.
 
