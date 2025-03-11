@@ -26,7 +26,7 @@ This docudrama is inspired by actual events detailed in senior librarian Ronnie 
 <a style="text-decoration: none;" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=56327203-9842-46b4-85d3-c4f608578b2c">Communist Party of Malaya</a>
 <br>The Communist Party of Malaya, also known as the Malayan Communist Party, was a political party active in Singapore, the Federation of Malaya and later Malaysia. It was founded in 1930 and dissolved in 1989.
 
-<a style="text-decoration: none;" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2019-06-12_145539.html">Malayan Emergency</a>
+<a style="text-decoration: none;" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=5896ad6b-03ab-4d31-80a7-dbebb2bb17d7">Malayan Emergency</a>
 <br>The Malayan Emergency began in June 1948 after three British plantation managers near Sungei Siput in Perak were killed by insurgents of the Malayan Communist Party (MCP). The MCP had aimed to overthrow the colonial government and establish a Communist People’s Democratic Republic of Malaya. The Malayan Emergency ended only in 1960. 
 
 #### Related Books
