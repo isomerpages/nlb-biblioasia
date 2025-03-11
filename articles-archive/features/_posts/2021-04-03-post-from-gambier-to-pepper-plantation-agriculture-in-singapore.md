@@ -230,7 +230,7 @@ Of course, this was not the typical fate of smaller rubber plantation companies 
 
 [^34]: C.D. (1908, July 25). [Planting in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19080725-1.2.3). *The Singapore Free Press and Mercantile Advertiser*, p. 1. Retrieved from NewspaperSG.
 
-[^35]: For more information about Tan Kah Kee, see Tan, B., &amp; Wee, J. (2016). *[Tan Kah Kee](https://eresources.nlb.gov.sg/infopedia/articles/SIP_839_2004-12-28.html)*. Retrieved from Singapore Infopedia website. 
+[^35]: For more information about Tan Kah Kee, see Tan, B., &amp; Wee, J. (2016). *[Tan Kah Kee](https://www.nlb.gov.sg/main/article-detail?cmsuuid=41d208d1-4765-4b77-a1ff-4e4a0e3dfe2d)*. Retrieved from Singapore Infopedia website. 
 
 [^36]: [First pineapple canning factory in Federated Malay States](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19220620-1.2.35). (1922, June 20). *The Singapore Free Press and Mercantile Advertiser*, p. 7. Retrieved from NewspaperSG.
 
