@@ -73,7 +73,7 @@ Geok Boi's recipes are inspired by tapioca noodles sold and distributed as ratio
 <a style="text-decoration: none;" href="/vol-12/issue-2/jul-sep-2016/bahau">Bahau: A Utopia That Went Awry</a>
 <br>The resettlement of Eurasian and Chinese Catholics in the jungles of Malaysia during World War II has been largely forgotten. Fiona Hodgkins chronicles its painful history.
  
-<a style="text-decoration: none;" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1221_2006-12-29.html">Endau Settlement</a>
+<a style="text-decoration: none;" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=f832d31c-facd-4c43-be04-4a31638d08a6">Endau Settlement</a>
 <br>Endau Settlement was a 300,000-acre agricultural settlement set up at Endau, in the Malayan state of Johor during the Japanese Occupation for Chinese settlers. It was considered the most successful self-sufficiency scheme initiated by the Japanese authorities to ease the food supply problem in Singapore.
 
 <a style="text-decoration: none;" href="/vol-13/issue-1/apr-jun-2017/voices-that-remain">Voices That Remain: Oral History Accounts of the Japanese Occupation</a>
