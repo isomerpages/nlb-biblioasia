@@ -1,5 +1,4 @@
 collections:
   holding-area:
     output: true
-    order:
-      - Sample Test2.md
+    order: []
