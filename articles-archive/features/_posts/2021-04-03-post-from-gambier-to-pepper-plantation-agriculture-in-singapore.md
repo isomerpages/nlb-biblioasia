@@ -202,7 +202,7 @@ Of course, this was not the typical fate of smaller rubber plantation companies 
 
 [^20]: Kong, L., &amp; Chang, T.C. (2001). *[Joo Chiat: A living legacy](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10354011)* (p. 29). Singapore: Joo Chiat Citizens’ Consultative Committee &amp; National Archives of Singapore. (Call no.: RSING q959.57 KON)
 
-[^21]: For more information about Hoo Ah Kay, see Tan, B. (2019, August). *[Hoo Ah Kay](https://eresources.nlb.gov.sg/infopedia/articles/SIP_798_2004-12-14.html)*. Retrieved from Singapore Infopedia website. 
+[^21]: For more information about Hoo Ah Kay, see Tan, B. (2019, August). *[Hoo Ah Kay](https://www.nlb.gov.sg/main/article-detail?cmsuuid=65cde14d-bcc4-4e25-af75-9694428ad62e)*. Retrieved from Singapore Infopedia website. 
 
 [^22]: Corlett, R.T. (1992, July). The ecological transformation of Singapore. *Journal of Biogeography, 19* (4), 411–420. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
