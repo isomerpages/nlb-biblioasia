@@ -5,8 +5,8 @@ date: 2020-10-01T00:00:00.000Z
 breadcrumb: Karikal Mahal
 image: /images/Vol-16-issue-3/karikal/karikalmahal-building.jpg
 third_nav_title: "Karikal Mahal: The Lost Palace of a Fallen Cattle King"
+variant: markdown
 ---
-
 <style>
 table { 
 	background-color: #d9ddda;
@@ -21,7 +21,7 @@ table {
 #### **William L. Gibson** uncovers the story behind the pair of grand buildings along Still Road South and their transformation over the last century.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-3/karikal/karikalmahal-building.jpg">
 
 A rare colour photo of The Grand Hotel with its striking tower (building No. 26) taken by an unknown serviceman from RAF Changi before land reclamation works began, c. 1958. The round fountain pavilion where Moona Kader Sultan received his Legion d’Honneur is seen on the left. <i>Courtesy of RAF Changi Association</i>.
@@ -116,12 +116,12 @@ During the Japanese Occupation (1942–45), Karikal Mahal was appropriated by th
 
 Within days, the internees started printing a camp newsletter produced by Australian Guy Wade and British-born Harry Miller, a former editor with *The Straits Times*, titled *Karikal Chronicle*.[^28] 
 
-The men did their best to settle into what they thought would be their home for the next few years. Labour was divided, rules laid out and plans were made to plant the gardens. Props left behind by The Malayan Magic Circle were used to liven up the place. A library was created using books taken from the Kelly & Walsh bookstore (with the blessing of the manager), with the coffin from Braga’s escape act  employed as an unconventional bookcase.[^29]
+The men did their best to settle into what they thought would be their home for the next few years. Labour was divided, rules laid out and plans were made to plant the gardens. Props left behind by The Malayan Magic Circle were used to liven up the place. A library was created using books taken from the Kelly &amp; Walsh bookstore (with the blessing of the manager), with the coffin from Braga’s escape act  employed as an unconventional bookcase.[^29]
 
 Nonetheless, the going was tough as food rations were often short. A standard joke was “I’m getting so thin I don’t know if I have stomach ache or back ache!”, but the men did their best to keep up their spirits. *The Karikal Chronicle* of 4 March 1942 announced a new light-hearted supplement titled *Kurri-kal Sambals* that would feature jokes and anecdotes of camp life with a “Karikal flavour”.[^30]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-3/karikal/karikalmahal-sambals.jpg">
 
 Karikal Mahal was initially used as an internment camp for Europeans after the fall of Singapore in 1942. The prisoners began publishing a newsletter titled <i>Karikal Chronicle</i> and in its 4 March 1942 issue, announced plans for a supplement called <i>Kurri-kal Sambals</i> featuring jokes, prose and verse. However, the move to Changi Prison put paid to this plan. <i>Retrieved from Cambridge University Library website</i>.
@@ -138,14 +138,14 @@ In 1947, the Lee Rubber Company acquired the property along with the football fi
 The buildings of Karikal Mahal were renovated into a residential guest house called The Grand Hotel,[^33] which offered “seaside accommodation on reasonable monthly terms”, with “continental cuisine” and “new furniture”. Among its enticements was “Neptune’s Bar” serving “special Sunday tiffins”.[^34] The first European manager was replaced after a few years by James Tan, who would oversee the property for the next four decades. 
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-3/karikal/karikalmahal-grandhotelno26.jpg">
 
 An aerial photograph from 1958 shows The Grand Hotel and its tower (No. 26; bottom left of photo), as well as Nos. 24 and 25, with only some modifications from Kader Sultan’s time. The tower was demolished sometime in the 1960s. <i>British Royal Air Force, courtesy of National Archives of Singapore.</i>
 </div>
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-3/karikal/karikalmahal-maps.jpg">
 
 A map of the old Karikal Mahal estate, together with Nos. 24, 25 and 26,  superimposed on a Google Maps image of the area today. Building no. 24 was torn down to make way for Still Road South. Land reclamation has also pushed the shoreline further south and much of Marine Parade now is built on reclaimed land.
@@ -164,7 +164,7 @@ The massive reclamation project pushed the shoreline out, landlocking The Grand 
 In anticipation of an interchange at Still Road leading into East Coast Parkway, Karikal Road was widened to accommodate increased vehicular traffic. The expansion bifurcated the property, obliterating the fountain, pavilion and walkways. Building No. 24 was demolished, and the remaining two structures isolated from one another by six lanes of a busy roadway. Towards the end of the decade, Karikal Road was renamed Still Road South.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-3/karikal/karikalmahal-buildingno24.jpg">
 
 A view of the now demolished building No. 24, 1967. It was torn down when the government acquired part of the land in the early 1970s to construct Still Road South. <i>Lee Kip Lin Collection, PictureSG, National Library, Singapore.</i>.
@@ -185,7 +185,7 @@ In December 2003, the Urban Redevelopment Authority (URA) gave the building at 2
 In the meantime , the value of the property continued to soar. *The Sunday Times* noted in 2007 that the 60,000-square-foot plot of land at 25 Still Road South was valued at $300 million. Despite the eye-watering valuation, a representative of Lee Rubber said the company was using the building to store furniture. In 2009, the URA also granted conservation status to No. 25 under a new initiative for the creation of a Joo Chiat/Katong historical district, preserving what was left of Karikal Mahal. Lee Rubber, however, still had no plans for the two buildings at the time.[^40]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-3/karikal/karikalmahal-buildingno25.jpg">
 
 A view of the still standing building No. 25 on Still Road South as it appeared in 1985. <i>Lee Kip Lin Collection, PictureSG, National Library, Singapore.</i>
@@ -197,7 +197,7 @@ It was only in 2016 that the buildings were given a new lease of life. Following
 The grounds of the two preschools are not open to the public but a wander around the site offers glimpses of the grandeur of the old estate. A portion of the original seawall still runs along Marine Parade, in front of No. 26. The football field on East Coast Road remains vacant, but greatly diminished in size due to road expansion works.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-3/karikal/karikalmahal-buildingatstillroad.jpg">
 
 Pat’s Schoolhouse Katong now occupies one of Karikal Mahal’s buildings at 26 Still Road South. <i>Courtesy of Willam L. Gibson.</i>
@@ -210,8 +210,8 @@ The initials “MKS” that were once emblazoned in a crest on the pediment abov
 |The author is continuing his research into Karikal Mahal and The Grand Hotel, and seeks photographs or stories about the site. Please contact him at cesasia21@gmail.com if you would like to help.|
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-3/authors/WilliamGibson.png" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Vol-16-issue-3/authors/WilliamGibson.png" style="width: 100px; height: 100px;">
 
 <b>Dr William L. Gibson</b> is an author and researcher who has lived in Southeast Asia since 2005. His biography of the French journalist and explorer Alfred Raquez is forthcoming from Routledge. Learn more at www.williamlgibson.com.
 
@@ -235,12 +235,12 @@ The initials “MKS” that were once emblazoned in a crest on the pediment abov
 [^13]: [Bukit Timah Road bomb outrage](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19201028-1.2.14). (1920, October 28). *The Singapore Free Press and Mercantile Advertiser*, p. 6. Retrieved from NewspaperSG.
 [^14]: [Page 2 Advertisements Column 4](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19361111-1.2.3.4). (1936, November 11). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
 [^15]: [Municipal action](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19300614-1.2.91). (1930, June 14). *The Singapore Free Press and Mercantile Advertiser*, p. 12; [Singapore road names](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19300812-1.2.145). (1930, August 12). *The Straits Times*, p. 20. Retrieved from NewspaperSG.
-[^16]: Savage, V.R., & Yeoh, B.S.A. (2013). *[Singapore street names: A study of toponymics](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123850)* (3rd ed.). Singapore: Marshall Cavendish Editions. (Call no.: RSING 915.957014 SAV-[TRA])
+[^16]: Savage, V.R., &amp; Yeoh, B.S.A. (2013). *[Singapore street names: A study of toponymics](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123850)* (3rd ed.). Singapore: Marshall Cavendish Editions. (Call no.: RSING 915.957014 SAV-[TRA])
 [^17]: [Harmston’s Circus comes to town](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19351023-1.2.135). (1935, October 23). *The Straits Times*, p. 17. Retrieved from NewspaperSG.
-[^18]: Norman Edwards and Peter Keys claim the architect was the prolific Swan & Maclaren and provide two dates for the construction, 1920 and 1922. Edwards, N., & Keys, P. (1988). *[Singapore: A guide to buildings, streets, places](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4712298)* (pp. 302–303). Singapore: Times Books International. (Call no.: RSING 915.957 EDW). However, they offer no source for their claim and seemed unaware that Moona Kader Sultan built the property. When contacted, Swan & Maclaren said they have no record of the site.
+[^18]: Norman Edwards and Peter Keys claim the architect was the prolific Swan &amp; Maclaren and provide two dates for the construction, 1920 and 1922. Edwards, N., &amp; Keys, P. (1988). *[Singapore: A guide to buildings, streets, places](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4712298)* (pp. 302–303). Singapore: Times Books International. (Call no.: RSING 915.957 EDW). However, they offer no source for their claim and seemed unaware that Moona Kader Sultan built the property. When contacted, Swan &amp; Maclaren said they have no record of the site.
 [^19]: [Farewell to Captain Chancellor](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19221211-1.2.48). (1922, December 11). *The Straits Times*, p. 8; [Capt. A.R. Chancellor: Guest of the Mohammedan community](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19221218-1.2.53). (1922, December 18). *The Singapore Free Press and Mercantile Advertiser*, p. 12; [Hon. Capt. A.R. Chancellor](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19221218-1.2.81). (1922, December 18). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
 [^20]: [Mr Farrer feted](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19280118-1.2.69). (1928, January 18). *The Singapore Free Press and Mercantile Advertiser*, p. 10; [Mr. R.J. Farrer, C.M.G., entertained by the Muslim community](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/malayansatpost19300201-1.2.20). (1930, February 1). *Malayan Saturday Post*, p. 13. Retrieved from NewspaperSG.
-[^21]: Siddique, S., & Purushotam, N. (1982). *[Singapore’s Little India: Past, present, and future](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082449)* (p. 75). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 305.89141105957 SID)
+[^21]: Siddique, S., &amp; Purushotam, N. (1982). *[Singapore’s Little India: Past, present, and future](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082449)* (p. 75). Singapore: Institute of Southeast Asian Studies. (Call no.: RSING 305.89141105957 SID)
 [^22]: [Rivalry of livestock sellers revealed](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19340209-1.2.21). (1934, February 9). *The Singapore Free Press and Mercantile Advertiser*, p. 3; [The Gazette](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19341204-1.2.123). (1934, December 4). *The Straits Times*, p. 16; [Man who owed $51,306](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19360222-1.2.155). (1936, February 22). *The Malaya Tribune*, p. 20. Retrieved from NewspaperSG.
 [^23]: [Death of Cattle King](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19370603-1.2.85). (1937, June 3). *The Malaya Tribune*, p. 13. Retrieved from NewspaperSG.
 [^24]: [Affairs of millionaire](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19370109-1.2.14). (1937, January 9). *The Singapore Free Press and Mercantile Advertiser*, p. 3; [Bankruptcy of ‘Cattle King’](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19370109-1.2.80). (1937, January 9). *The Malaya Tribune*, p. 12. Retrieved from NewspaperSG.
@@ -251,7 +251,7 @@ The initials “MKS” that were once emblazoned in a crest on the pediment abov
 [^29]: University of Cambridge. (1942, March 3). *Karikal Chronicle, 11*. Retrieved from Cambridge University Library website. The entire *Karikal Chronicle* can be accessed online at  https://cudl.lib.cam.ac.uk/view/MS-RCMS-00103-00012-00029.
 [^30]: *Karikal Chronicle, 12*, 4 Mar 1942.
 [^31]: *Karikal Chronicle, 13*, 5 Mar 1942.
-[^32]: National Library Board. (2011). *[Lee Kong Chian](https://eresources.nlb.gov.sg/infopedia/articles/SIP_978_2006-06-16.html)* written by Nor-Afidah Abd Rahman & Jane Wee. Retrieved from Singapore Infopedia website.
+[^32]: National Library Board. (2011). *[Lee Kong Chian](https://www.nlb.gov.sg/main/article-detail?cmsuuid=513ccc41-7bb1-43fb-a9cc-bb8c2257db86)* written by Nor-Afidah Abd Rahman &amp; Jane Wee. Retrieved from Singapore Infopedia website.
 [^33]: Some online sources report the name as “Renaissance Grand Hotel”. This is an error.
 [^34]: [Page 2 Advertisements Column 4](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19470927-1.2.19.4). (1947, September 27). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
 [^35]: [Merrilads Soccer](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/morningtribune19471225-1.2.70). (1947, December 25). *The Morning Tribune*, p. 16. Retrieved from NewspaperSG; Squire, T. (2019). *[Always a commando: The life of Singapore army pioneer Clarence Tan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202953074)* (pp. 86–88). Singapore: Marshall Cavendish Editions. (Call no.: RSING 355.0092 SQU).
@@ -260,4 +260,4 @@ The initials “MKS” that were once emblazoned in a crest on the pediment abov
 [^38]: *[The New Paper](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19930108-1.2.9.2)*, 8 Jan 1993, p. 7. 
 [^39]: Chan, C. (2004, November 13). [Deserted but still grand](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20041113-1.2.44.15.1). *The Straits Times*, p. 15. Retrieved from NewspaperSG.
 [^40]: Leow, V. (2007, April 22). [Mitre Hotel owners sitting on another property goldmine](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20070422-1.2.7.6). *The Sunday Times*, p. 6; Tay, S.C. (2009, January 17). [Marked for preservation](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20090117-1.2.95.9.2). *The Straits Times*, p. 93. Retrieved from NewspaperSG.
-[^41]: Lin, M., & Heng, J. (2016, July 31). [New life for two grand dames](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20160731-1.2.4.11). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
+[^41]: Lin, M., &amp; Heng, J. (2016, July 31). [New life for two grand dames](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20160731-1.2.4.11). *The Straits Times*, p. 8. Retrieved from NewspaperSG.
