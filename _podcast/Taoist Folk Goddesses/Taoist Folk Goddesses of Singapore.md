@@ -26,7 +26,7 @@ Ng Yi-Sheng is a poet, fictionist, playwright and researcher. His books include 
  
 William L. Gibson, “[Unravelling the Mystery of Ubin’s German Girl Shrine]( https://biblioasia.nlb.gov.sg/vol-17/issue-3/oct-dec-2021/ubinsgermangirlshrine),” <i>BiblioAsia</i> 13, no. 3 (2021).
 
-Bonny Tan and Marsita Omar, "[Keramat Habib Noh](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1573_2009-09-25.html)," Singapore Infopedia, published by National Library, Singapore, 19 August 2016.
+Bonny Tan and Marsita Omar, "[Keramat Habib Noh](https://www.nlb.gov.sg/main/article-detail?cmsuuid=fdd0c6a6-9e0b-4855-b558-5cc75da33e22)," Singapore Infopedia, published by National Library, Singapore, 19 August 2016.
 
 “[Singapore Maiden Joins the Taoist Pantheon](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890527-1.2.29.7.3),” <i>Straits Times</i>, 27 May 1989, 22. (From NewspaperSG) 
 
