@@ -1,15 +1,16 @@
 ---
-title: " A Colonial Heritage:  Collections of the  Anglican Diocese of Singapore"
+title: "A Colonial Heritage:  Collections of the  Anglican Diocese of Singapore"
 date: 2014-01-01
 permalink: /vol-9/issue-4/jan-march-2014/sg-anglican-archives/
 image: /images/vol-9-issue-4/colonial/IMG_2166-edit.jpg
 layout: post
 description: ""
+variant: markdown
 ---
 #### <i>Bonny Tan</i> explores the rich collections of the Anglican Diocese of Singapore, which holds materials such as birth and death records, publications and other documents.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-9-issue-4/colonial/IMG_2166-edit.jpg" style="width:70%;">
 The Anglican Diocese at St Andrew's Village. <i>All rights reserved, National Library Board, Singapore.</i></div>
 
@@ -42,12 +43,12 @@ For the genealogist, there are several resources that may prove valuable for res
 Besides primary BMD[^5] records, the archival holdings also include several publications unique to the diocese, namely <i>Singapore Diocesan Magazine</i> and the <i>Singapore Diocesan Quarterly</i>. Minutes of meetings such as the Singapore Diocesan Association records (1911–1931) are not merely administrative records; when taken as a whole, these unfold much of the history and ministry of the Anglican community in the Malay Peninsula. The records include profiles of leaders and details on the establishment of churches, schools, hospitals and other forms of social infrastructure. These are supplemented with information contained in the <i>Singapore Auxiliary Diocesan Association Quarterly Leaflets</i>. Much earlier records have also been digitised, such as the Church Records of the St Andrew’s Church Committee from the mid-19th century; these are often scrawled minutes of meetings in elegant but not always legible handwriting.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-9-issue-4/colonial/Singapore_Diocesan_Quarterly_Leaflet.jpg">
 The <i>Singapore Diocesan Quarterly Leaflet</i>, Vol. 1, No. 2, May 1939. <i>Image courtesy of the Archives of the Anglican Diocese of Singapore.</i></div>
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-9-issue-4/colonial/Singapore_Diocesan_Association_Magazine_1964.jpg">
 An example of subsequent editions renamed the <i>Singapore Diocesan Association Magazine</i>, August 1964. <i>Image courtesy of the Archives of the Anglican Diocese of Singapore.</i></div>
 
@@ -98,7 +99,7 @@ St Andrew’s Cathedral is the oldest Anglican house of worship in Singapore and
 
 <i>The author would like to thank Ms Lau Jen Sin and Reverend Canon Soon Soo Kee for reviewing this article.</i>
 
-<br/>
+<br>
 <img style="width:100px;height:100px;margin-bottom:-30px; border-radius:100%; box-shadow: 1px 2px 0px #424242;" src="/images/vol-9-issue-4/colonial/Bonny_Tan.jpg">
 <p style="font-size:15px;"><b>Bonny Tan</b> is a Senior Librarian who has served at the Reference Library at the National Library Board (NLB) since 1997. She has a keen interest in Singapore church history and has been researching this subject since the early 1990s.</p>
 
@@ -108,13 +109,13 @@ St Andrew’s Cathedral is the oldest Anglican house of worship in Singapore and
 
 Batumalai, S. (2007). *[A bicentenary history of the Anglican Church of the Diocese of West Malaysia (1805–2005): From historical, theological and missiological perspectives](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13101675)*. Melaka: Syarikat Percetakan Muncul Sistem. (Call no.: RSEA 283.95951 BAT)
 
-Cornelius-Takahama, V., & Tan, J.H.S. (2017). *[St Andrew’s Cathedral](https://eresources.nlb.gov.sg/infopedia/articles/SIP_25_2_2008-12-01.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
+Cornelius-Takahama, V., &amp; Tan, J.H.S. (2017). *[St Andrew’s Cathedral](https://www.nlb.gov.sg/main/article-detail?cmsuuid=69d540ff-b1a1-4a62-8a5a-800404326ace)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
 Loh, K.A. (1963). *[Fifty years of the Anglican Church in Singapore Island 1909–1959](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4181734)*. Singapore: The Department of History, University of Singapore. (Call no.: RDLKL 283.5957 LOH)
 
-Northcott, M.S. (1992). Two hundred years of Anglican mission. In R. Hunt, K.H. Lee & J. Roxbogh (Eds.). *[Christianity in West Malaysia: A denominational history](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6313603)*. Selangor: Pelanduk Publications. (Call no.: RSING 275.95 CHR)
+Northcott, M.S. (1992). Two hundred years of Anglican mission. In R. Hunt, K.H. Lee &amp; J. Roxbogh (Eds.). *[Christianity in West Malaysia: A denominational history](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6313603)*. Selangor: Pelanduk Publications. (Call no.: RSING 275.95 CHR)
 
-Soon, S.K. (2009). Introduction. In R. Mangus & S. Lai (Eds.). *[Crossing a century: The Anglican Church of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13584405)*. Singapore: The Diocese. (Call no.: RSING 283.5957 CRO)
+Soon, S.K. (2009). Introduction. In R. Mangus &amp; S. Lai (Eds.). *[Crossing a century: The Anglican Church of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13584405)*. Singapore: The Diocese. (Call no.: RSING 283.5957 CRO)
 
 The Diocese of Singapore (2020). <i>Our history</i>. Retrieved from The Diocese of Singapore website. 
 
@@ -134,6 +135,6 @@ The Diocese of Singapore (2020). <i>Our history</i>. Retrieved from The Diocese 
 
 [^7]: From the title page of *[The Singapore Diocesan Magazine](https://eresources.nlb.gov.sg/printheritage/detail/9507f6ed-c712-4634-a1c6-acfe50c12961.aspx)*, Nov 1910.
 
-[^8]: Cornelius-Takahama, V., & Tan, J.H.S. (2017). *[St Andrew’s Cathedral](https://eresources.nlb.gov.sg/infopedia/articles/SIP_25_2_2008-12-01.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
+[^8]: Cornelius-Takahama, V., &amp; Tan, J.H.S. (2017). *[St Andrew’s Cathedral](https://eresources.nlb.gov.sg/infopedia/articles/SIP_25_2_2008-12-01.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
 [^9]: <i>The Courier</i> is not in NLB holdings but is available at the Anglican Archives.
