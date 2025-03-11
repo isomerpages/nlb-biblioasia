@@ -79,7 +79,7 @@ Geok Boi's recipes are inspired by tapioca noodles sold and distributed as ratio
 <a style="text-decoration: none;" href="/vol-13/issue-1/apr-jun-2017/voices-that-remain">Voices That Remain: Oral History Accounts of the Japanese Occupation</a>
 <br>Oral history accounts of the Japanese Occupation take on added poignancy, says Mark Wong, as we mark the 75th anniversary of the Fall of Singapore.
 
-<a style="text-decoration: none;" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_823_2004-12-13.html">Former Ford Factory </a>
+<a style="text-decoration: none;" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=885c52a5-4f05-4114-9946-0c357732fa51">Former Ford Factory </a>
 <br>The Former Ford Factory, located at 351 Upper Bukit Timah Road, was the site where British forces officially surrendered Singapore to the Japanese on 15 February 1942 during World War II. In 2004, the site was handed over to the National Archives of Singapore (NAS).
 
 #### **Related Books**
