@@ -21,7 +21,7 @@ This documentary is based on [Vandana’s article](/vol-16/issue-4/jan-mar-2021/
 <a style="text-decoration: none;" href="/vol-11/issue-3/oct-dec-2015/convict">Convict Labour in Colonial Singapore</a>
 <br>Singapore was once a penal colony for convicts shipped in from overseas. Bonny Tan documents how their humble service raised some of its famous buildings.
 
-<a style="text-decoration: none;" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-04-20_160625.html">Bras Basah Convict Jail</a>
+<a style="text-decoration: none;" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=1eeff2ee-7f8b-4cbf-b431-84c9319eba81">Bras Basah Convict Jail</a>
 <br>The convict jail at Bras Basah was established in response to the increasing number of convicts who were transported to Singapore from other places such as India and Hong Kong when Singapore was a penal colony in the early 19th century.
 
 <a style="text-decoration: none;" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=936eb158-4ed7-4ca5-a89d-bd61c227116b">Indian Convicts’ Contributions to Early Singapore (1825–1873)</a>
