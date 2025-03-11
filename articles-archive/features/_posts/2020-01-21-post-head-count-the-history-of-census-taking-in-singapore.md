@@ -235,7 +235,7 @@ The official report of the 1947 census – released in October 1949 – gave Sin
 
 [^35]:[Huff &amp; Majima](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202918361), 2018, pp. 133, 135.
 
-[^36]:National Library Board. (2013). [*Operation Sook Ching*](http://eresources.nlb.gov.sg/infopedia/articles/SIP_40_2005-01-24.html) written by Stephanie Ho. Retrieved from Singapore Infopedia; [Huff &amp; Majima](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202918361), 2018, p. 133.
+[^36]:National Library Board. (2013). [*Operation Sook Ching*](https://www.nlb.gov.sg/main/article-detail?cmsuuid=cc4da337-3bcd-4f96-bdc6-5210646bdd90) written by Stephanie Ho. Retrieved from Singapore Infopedia; [Huff &amp; Majima](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202918361), 2018, p. 133.
 
 [^37]:[Census enumerators out tonight](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19470823-1.2.19). (1947, August 23). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
 
