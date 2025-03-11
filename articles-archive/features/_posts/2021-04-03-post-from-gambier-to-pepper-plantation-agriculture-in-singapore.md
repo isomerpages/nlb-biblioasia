@@ -208,7 +208,7 @@ Of course, this was not the typical fate of smaller rubber plantation companies 
 
 [^23]: [Page 1 Advertisements Column 3: Notice](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18450612-1.2.2.3). (1845, June 12). *The Singapore Free Press and Mercantile Advertiser*, p. 1. Retrieved from NewspaperSG. 
 
-[^24]: Buckley, C.B. (1902). *[An anecdotal history of old times in Singapore](https://eresources.nlb.gov.sg/printheritage/detail/303beefb-31d7-4dad-83fb-593054096717.aspx)* (Vol. I; p. 185). Singapore: Fraser and Neave. Retrieved from BookSG. (Call no.: RRARE 959.57 BUC; Accession no.: B02966440I). For more information about Jose d’Almeida, see Ong, E.C. (2019, May). *[Jose d’Almeida](https://eresources.nlb.gov.sg/infopedia/articles/SIP_102_2005-01-18.html)*. Retrieved from Singapore Infopedia website. 
+[^24]: Buckley, C.B. (1902). *[An anecdotal history of old times in Singapore](https://eresources.nlb.gov.sg/printheritage/detail/303beefb-31d7-4dad-83fb-593054096717.aspx)* (Vol. I; p. 185). Singapore: Fraser and Neave. Retrieved from BookSG. (Call no.: RRARE 959.57 BUC; Accession no.: B02966440I). For more information about Jose d’Almeida, see Ong, E.C. (2019, May). *[Jose d’Almeida](https://www.nlb.gov.sg/main/article-detail?cmsuuid=e5e732c6-4a79-4a80-b9f4-8c63eb0b15b3)*. Retrieved from Singapore Infopedia website. 
 
 [^25]: [Brooke](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183132), 1921, p. 71.
 
