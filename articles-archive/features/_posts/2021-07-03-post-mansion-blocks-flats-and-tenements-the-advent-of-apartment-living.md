@@ -156,7 +156,7 @@ Commendable though the D.J. Elias Building may have been, it was, however, but a
 [^1]: Georges-Eugène Haussmann, commonly known as Baron Haussmann (1809–91), was a French official who served as prefect of Seine (1853–70) and was chosen by Emperor Napoleon III to carry out a massive urban renewal programme of new boulevards, parks and public works in Paris.  
 
 
-[^2]: For more information about Joseph Aaron Elias, see Chia, J.Y.J. (2017). [*Joseph Aaron Elias.*](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1206_2008-12-05.html) Retrieved from Singapore Infopedia website. 
+[^2]: For more information about Joseph Aaron Elias, see Chia, J.Y.J. (2017). [*Joseph Aaron Elias.*](https://www.nlb.gov.sg/main/article-detail?cmsuuid=26671d63-34b1-44e7-8847-a3d222b80145) Retrieved from Singapore Infopedia website. 
 
 
 [^3]: The architect who designed A.J. Elias’ two-storey building was Regent Alfred John Bidwell, who joined Swan &amp; Maclaren in 1895. He became a partner in 1899. 
