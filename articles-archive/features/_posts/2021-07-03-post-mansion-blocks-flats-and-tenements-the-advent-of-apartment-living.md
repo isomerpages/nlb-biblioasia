@@ -4,16 +4,17 @@ date: 2021-07-03
 permalink: /vol-17/issue-2/jul-sep-2021/swanandmaclaren/
 image: /images/vol-17-issue-2/mansions/Mansion_Main.jpg
 layout: post
+variant: markdown
 ---
-#### Through buildings like Amber Mansions, Eu Court and Meyer Flats, colonial architects Swan & Maclaren introduced the concept of apartment living in Singapore, as **Julian Davison** tells us.
+#### Through buildings like Amber Mansions, Eu Court and Meyer Flats, colonial architects Swan &amp; Maclaren introduced the concept of apartment living in Singapore, as **Julian Davison** tells us.
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-2/mansions/Mansion_Main.jpg)
 <div style="background-color: white;">Amber Mansions, Orchard Road, c. 1922. The Cape Dutch Revival-style elevations of Amber Mansions almost certainly point to Denis Santry as the author of this building, the architect having previously worked in South Africa during a period when a revival of traditional Cape Dutch architecture was at its height. <i>Courtesy of National Museum of Singapore, National Heritage Board</i>.</div>
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;"> 
-Established in 1892, Swan & Maclaren (named after Archibald Alexander Swan and James Waddell Boyd Maclaren) is the oldest architectural practice in Singapore. Its architects, such as Regent Alfred John Bidwell, Denis Santry and Frank Lundon, designed many of Singapore’s historic buildings, including Raffles Hotel, Teutonia Club (present-day Goodwood Park Hotel), Chesed-El Synagogue, Stamford House, Victoria Memorial Hall and Theatre, and Tanjong Pagar Railway Terminus. 
+Established in 1892, Swan &amp; Maclaren (named after Archibald Alexander Swan and James Waddell Boyd Maclaren) is the oldest architectural practice in Singapore. Its architects, such as Regent Alfred John Bidwell, Denis Santry and Frank Lundon, designed many of Singapore’s historic buildings, including Raffles Hotel, Teutonia Club (present-day Goodwood Park Hotel), Chesed-El Synagogue, Stamford House, Victoria Memorial Hall and Theatre, and Tanjong Pagar Railway Terminus. 
 <br><br>
-The first 50 years of the firm's history is detailed in Julian Davison’s *Swan & Maclaren: A Story of Singapore Architecture*, published by ORO Editions and the National Archives of Singapore in 2020. In this edited extract from Chapter 30, the author looks at some of the earliest apartment buildings in Singapore built by the firm. Note: Apart from the David Elias Building on Middle Road and the two rows of shophouses next door, all the other apartment blocks mentioned in this essay have been demolished.
+The first 50 years of the firm's history is detailed in Julian Davison’s *Swan &amp; Maclaren: A Story of Singapore Architecture*, published by ORO Editions and the National Archives of Singapore in 2020. In this edited extract from Chapter 30, the author looks at some of the earliest apartment buildings in Singapore built by the firm. Note: Apart from the David Elias Building on Middle Road and the two rows of shophouses next door, all the other apartment blocks mentioned in this essay have been demolished.
 </span>
 
 
@@ -21,7 +22,7 @@ The late flourishing of the black-and-white house notwithstanding, the residenti
 
 The idea gradually spread to other European cities and eventually the Americas – significantly, the Stuyvesant Apartments on East 18th Street. Generally recognised as New York’s first purpose-built apartment block, it was designed by the Paris-trained architect Richard Morris Hunt in 1869 and was often referred to as the “French Flats”. 
 
-In Singapore, the earliest apartment dwelling per se was probably the Elias Building at the junction of Niven and Wilkie roads, followed by Manasseh Meyer’s Crescent apartments in Tanjong Katong in 1912 and Meyer Mansions on North Bridge Road in 1918, all designed by Swan & Maclaren. 
+In Singapore, the earliest apartment dwelling per se was probably the Elias Building at the junction of Niven and Wilkie roads, followed by Manasseh Meyer’s Crescent apartments in Tanjong Katong in 1912 and Meyer Mansions on North Bridge Road in 1918, all designed by Swan &amp; Maclaren. 
 
 #### **Amber Mansions, Orchard Road, 1920–22**
 
@@ -42,7 +43,7 @@ Viewed from the junction of Orchard Road and Dhoby Ghaut, the most striking feat
 
 Perhaps more significant, architecturally, was the complete absence of any Classical ornament or detailing, the facades being more or less stripped of all surface decoration. Broad, flattened arches spanned the intervals between the piers of the five-footway verandah at street level, while the Dutch gable that articulated the corner was repeated at intervals along each wing. Otherwise, the building wore an uncommonly severe facade. 
 
-Amber Mansions cost around $400,000 to build, the contracting work being undertaken by Soh Mah Eng, who was Swan & Maclaren’s regular partner in the post-war era. 
+Amber Mansions cost around $400,000 to build, the contracting work being undertaken by Soh Mah Eng, who was Swan &amp; Maclaren’s regular partner in the post-war era. 
 
 Completed in early 1922, the apartments were initially a little hard to dispose of, owing to a downturn in the Singapore economy as a result of the depression in the United States  (1920–21). However, following a shareholders’ meeting in December that year, when the Singapore Building Corporation decided to lower the rents by between $20 and $25 per unit (the upper range previously had been $175 per month), they were snapped up quite speedily. The fact that the residential units were so easily dispensed with in difficult times was indicative of the fact that apartment living was a fashionable, as well as affordable, modern lifestyle choice. 
 
@@ -50,7 +51,7 @@ The retail units were a little harder to let and a year later, there were still 
 
 #### **Institution Hill Mansions, River Valley Road, 1920**
 
-Institution Hill Mansions on River Valley Road date from the same year as Amber Mansions and were designed by Swan & Maclaren for their regular engineering partners, United Engineers. (The latter was formed in 1912 through the amalgamation of Howarth Erskine & Co., Swan & Maclaren’s long-standing collaborators, with Riley, Hargreaves & Co., Singapore’s oldest engineering firm.) 
+Institution Hill Mansions on River Valley Road date from the same year as Amber Mansions and were designed by Swan &amp; Maclaren for their regular engineering partners, United Engineers. (The latter was formed in 1912 through the amalgamation of Howarth Erskine &amp; Co., Swan &amp; Maclaren’s long-standing collaborators, with Riley, Hargreaves &amp; Co., Singapore’s oldest engineering firm.) 
 
 Erected at a cost of $290,000, the Institution Hill apartments were primarily intended to provide accommodation for United Engineers’ European staff members. The initial scheme would comprise two residential blocks, each with three storeys and 18 units, although eventually only one block was built. 
 
@@ -61,7 +62,7 @@ The layout of the apartments was quite similar to Amber Mansions and consisted o
 
 #### **Eu Court, Hill Street and Stamford Road, 1925**
 
-Although Amber Mansions was well received upon completion in early 1922, it would be another three years before Swan & Maclaren received their next commission for an apartment block. It came from businessman and philanthropist Eu Tong Sen (who built up Chinese medicine purveyor Eu Yan Sang) and was for a three-storey, L-shaped block of flats at the corner of Hill Street and Stamford Road.[^7]
+Although Amber Mansions was well received upon completion in early 1922, it would be another three years before Swan &amp; Maclaren received their next commission for an apartment block. It came from businessman and philanthropist Eu Tong Sen (who built up Chinese medicine purveyor Eu Yan Sang) and was for a three-storey, L-shaped block of flats at the corner of Hill Street and Stamford Road.[^7]
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-2/mansions/EuCourt.jpg)
 <div style="background-color: white;">Eu Court at the corner of Hill Street and Stamford Road, c. 1930. <i>Courtesy of Glen Christian</i>.</div>
@@ -107,7 +108,7 @@ The word "tenement" today comes with pejorative associations but in the 1920s, t
 
 In Singapore, the term only begins to appear in planning submissions to the Municipal Engineer after World War I, usually in connection with the laudable efforts of civic-minded individuals and charitable organisations looking to provide decent but affordable housing for less well-off sectors of society; the “tenement”, like the “flat”, was a new building typology. 
 
-The first designated tenement accommodation designed by Swan & Maclaren is a landmark development from 1927, the David Elias Building at the corner of Middle Road and Short Street. 
+The first designated tenement accommodation designed by Swan &amp; Maclaren is a landmark development from 1927, the David Elias Building at the corner of Middle Road and Short Street. 
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-2/mansions/DavidEliasBuilding.jpg)
 <div style="background-color: white;">The David Elias Building, 2017. The building is located at the junction of Middle Road and Short Street. <i>Courtesy of Julian Davison</i>.</div>
@@ -117,12 +118,12 @@ David Elias was a second cousin of Joe Elias and also his brother-in-law, as he 
 
 At the time, the land was occupied by a single “compound house”, standing in its own grounds.[^12] As the footprint of the house was small, relative to the size of the property, and in a densely populated neighbourhood of overcrowded shophouse dwellings that constituted Singapore’s Jewish quarter, or Mahallah, it seemed to David that the site could be used in a more beneficent way. 
 
-To this end, David commissioned Swan & Maclaren to design two rows of two-storey “tenement shophouses” on Short Street and also next door, at the junction of Middle Road and Short Street, a much larger, three-storey construction, today’s David Elias Building. The latter had shops and offices on the ground floor, with tenement apartments on the floors above.
+To this end, David commissioned Swan &amp; Maclaren to design two rows of two-storey “tenement shophouses” on Short Street and also next door, at the junction of Middle Road and Short Street, a much larger, three-storey construction, today’s David Elias Building. The latter had shops and offices on the ground floor, with tenement apartments on the floors above.
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-2/mansions/DavidEliasTenement.jpg)
 <div style="background-color: white;">David Elias’s tenement shophouses, 2017. Located on Short Street, they consist of two terraces of three units each, placed back to back. The rear terrace, seen here, was accessed by a lane leading off Middle Road. <i>Courtesy of Julian Davison</i>.</div>
 
-Part of the ground floor of the David Elias Building was occupied by David and Joe’s own business, D.J. Elias and Company, with Messrs Cold Storage & Co. as the anchor tenant. This was one of Cold Storage’s first ventures outside of Orchard Road, where the importer of frozen comestibles had first set up shop in early 1905. 
+Part of the ground floor of the David Elias Building was occupied by David and Joe’s own business, D.J. Elias and Company, with Messrs Cold Storage &amp; Co. as the anchor tenant. This was one of Cold Storage’s first ventures outside of Orchard Road, where the importer of frozen comestibles had first set up shop in early 1905. 
 
 In truth, the tenement-shophouses were not much different in terms of their layout and internal arrangements to the typical Singapore shophouse of the period, but there is something about these buildings that is reminiscent of similar housing typologies in contemporary Shanghai called *lilong*.[^13] Possibly it is the Shanghai plaster rendering that brings the association to mind, or the cantilevered bay windows on the upper storey, which are rather different from the usual shophouse fare and which help to contribute to the slightly exotic flavour of these buildings. 
 
@@ -139,13 +140,13 @@ Not only was David Elias “to be congratulated on a well designed block of buil
 Commendable though the D.J. Elias Building may have been, it was, however, but a very small step in the right direction, given the huge housing problems Singapore faced at the time.
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;"> 
-<img style="width: 450px; height: 250px;" src="/images/vol-17-issue-2/mansions/SwanMaclaren.png"><i>Swan & Maclaren: A Story of Singapore Architecture</i> (2020) is published by ORO Editions and the National Archives of Singapore. The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=204523827">(Call nos.: RSING 720.95957 DAV and SING 720.95957 DAV)</a>. It retails at major bookshops in Singapore and is also sold online.
+<img style="width: 450px; height: 250px;" src="/images/vol-17-issue-2/mansions/SwanMaclaren.png"><i>Swan &amp; Maclaren: A Story of Singapore Architecture</i> (2020) is published by ORO Editions and the National Archives of Singapore. The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=204523827">(Call nos.: RSING 720.95957 DAV and SING 720.95957 DAV)</a>. It retails at major bookshops in Singapore and is also sold online.
 </span>
 
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/vol-17-issue-2/authors/Julian%20Davison.png" style="width: 100px; height: 100px;" />
+<br>
+<img src="/images/vol-17-issue-2/authors/Julian%20Davison.png" style="width: 100px; height: 100px;">
 <b>Dr Julian Davison</b>  is an anthropologist, architectural historian and former Lee Kong Chian Research Fellow of the National Library, Singapore. He grew up in Singapore and Malaysia, but currently lives here as a writer and television presenter, specialising in Singapore architecture and local history.
 </div>
 
@@ -158,7 +159,7 @@ Commendable though the D.J. Elias Building may have been, it was, however, but a
 [^2]: For more information about Joseph Aaron Elias, see Chia, J.Y.J. (2017). [*Joseph Aaron Elias.*](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1206_2008-12-05.html) Retrieved from Singapore Infopedia website. 
 
 
-[^3]: The architect who designed A.J. Elias’ two-storey building was Regent Alfred John Bidwell, who joined Swan & Maclaren in 1895. He became a partner in 1899. 
+[^3]: The architect who designed A.J. Elias’ two-storey building was Regent Alfred John Bidwell, who joined Swan &amp; Maclaren in 1895. He became a partner in 1899. 
 
 [^4]: A gable is the triangular-shaped top part of a wall that meets the sloping roofs of a building. A Dutch gable has curved sides rather than straight sides.
 
@@ -167,7 +168,7 @@ Commendable though the D.J. Elias Building may have been, it was, however, but a
 [^6]: A loggia is a design feature of Italian origin and refers to an arcaded gallery or corridor, open on at least one side and affording a protected seating place with a view. The Arts and Crafts Movement, which emerged in England in the latter half of the 19th century, was an aesthetic movement in the decorative and fine arts. This movement later spread to Europe and America. 
 
 
-[^7]: For more information about Eu Tong Sen, see Chow, A. (2014, September 15). [*Eu Tong Sen*](https://eresources.nlb.gov.sg/infopedia/articles/SIP_790_2005-01-22.html). Retrieved from Singapore Infopedia website. 
+[^7]: For more information about Eu Tong Sen, see Chow, A. (2014, September 15). [*Eu Tong Sen*](https://www.nlb.gov.sg/main/article-detail?cmsuuid=17c9227b-e74e-4abd-b89e-89dd64abe842). Retrieved from Singapore Infopedia website. 
 
 [^8]: Classical architecture originated in ancient Greece and Rome, and is characterised by symmetry, regular proportions, columns, and the use of stone or marble as a primary building material.
 
@@ -175,7 +176,7 @@ Commendable though the D.J. Elias Building may have been, it was, however, but a
 
 [^10]: In Britain, the use of the word “mansion” (usually in the plural) to describe a block of flats was something that crept in during the late 19th century as property developers tried to encourage an emerging generation of middle- and upper-class urbanites to buy into what at the time was a wholly new residential typology – it lent a “touch of class”, or so people thought.
 
-[^11]: Harris, W.T., & Allen, F.S. (Eds.). (1923). *Webster’s new international dictionary of the English language, based on the international dictionary of 1890 and 1900* (p. 2127). Springfield, Mass., USA: G. & C. Merriam Company. Retrieved from Internet Archive website.  
+[^11]: Harris, W.T., &amp; Allen, F.S. (Eds.). (1923). *Webster’s new international dictionary of the English language, based on the international dictionary of 1890 and 1900* (p. 2127). Springfield, Mass., USA: G. &amp; C. Merriam Company. Retrieved from Internet Archive website.  
 
 
 [^12]: The term “compound house” refers to a free-standing dwelling situated on its own land, the latter being typically surrounded by a masonry wall on all sides, especially in an urban setting. The etymology of the term “compound”, as used in this content, as opposed to, say, a chemical compound, is said to have come from the Malay word *kampong*, or village.
