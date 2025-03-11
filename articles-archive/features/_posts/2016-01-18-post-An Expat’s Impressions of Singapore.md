@@ -68,7 +68,7 @@ Comprising 57 chapters and about 400 pages per volume, the title was first publi
 
 [^4]:Buckley, C.B. (1984). *[An anecdotal history of old times in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082239)* (pp. v–vi). Singapore: Oxford University Press. (Call no.: RSING 959.57 BUC)-[HIS]
 
-[^5]:National Library Board. (2005, June 15). *[The Singapore Free Press](http://eresources.nlb.gov.sg/infopedia/articles/SIP_88_2005-02-03.html)* written by Naidu, Ratna Thulaja. Retrieved from Singapore Infopedia website.
+[^5]:National Library Board. (2005, June 15). *[The Singapore Free Press](https://www.nlb.gov.sg/main/article-detail?cmsuuid=83b427cc-e8c7-42b4-ba7c-862d57b7e928)* written by Naidu, Ratna Thulaja. Retrieved from Singapore Infopedia website.
 
 [^6]:[Buckley](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4082239), 1984, p. ix.
 
