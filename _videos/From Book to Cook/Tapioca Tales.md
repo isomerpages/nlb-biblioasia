@@ -5,10 +5,11 @@ description: Can wartime food be delicious? Find out as cookbook author Lee Geok
   Boi whips up two dishes using only wartime ingredients. Coming on 14 April.
 third_nav_title: From Book to Cook
 image: /images/Videos:%20From%20Book%20to%20Cook/geok%20boi%20making%20tapioca%20noodles.png
+variant: markdown
 ---
 #### Can wartime food be delicious? Find out as cookbook author Lee Geok Boi whips up two dishes using only wartime ingredients. 
 
-<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src="https://www.youtube.com/embed/R8XTJi9NK4E" frameborder='0' allowfullscreen></iframe></div>
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/R8XTJi9NK4E" frameborder="0" allowfullscreen=""></iframe></div>
 
 #### **Episode summary** ####
 Because of a rice shortage during the Japanese Occupation, people ate sweet potato and tapioca instead. Writer and cookbook author Lee Geok Boi shows us what the human imagination is capable of by taking these humble root vegetables and turning them into two delicious dishes, using only ingredients that were available in Japanese-occupied Singapore.
@@ -66,7 +67,7 @@ Geok Boi's recipes are inspired by tapioca noodles sold and distributed as ratio
 <a style="text-decoration: none;" href="/vol-12/issue-4/jan-mar-2017/surviving-jpnese-occu">Surviving the Japanese Occupation: War and Its Legacies</a>
 <br>A revamped exhibition space opens at the old Ford Factory in Bukit Timah, marking the 75th anniversary of the fall of Singapore. Fiona Tan details its major highlights.
 
-<a style="text-decoration: none;" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1223_2008-12-05.html ">Grow More Food Campaign</a>
+<a style="text-decoration: none;" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=fa39866e-7f81-4f15-8475-540ad18b92a0">Grow More Food Campaign</a>
 <br>The Grow More Food Campaign was started during the Japanese Occupation to place a check on inflation and prepare for an eventual blockade from enemy forces. 
  
 <a style="text-decoration: none;" href="/vol-12/issue-2/jul-sep-2016/bahau">Bahau: A Utopia That Went Awry</a>
