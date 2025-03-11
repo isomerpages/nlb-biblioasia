@@ -5,6 +5,7 @@ date: 2021-04-01T00:00:00.000Z
 breadcrumb: "From Gambier to Pepper: Plantation Agriculture in Singapore"
 third_nav_title: "From Gambier to Pepper: Plantation Agriculture in Singapore"
 image: /images/Vol-17-issue-1/agriculture/gambierpepper.jpg
+variant: markdown
 ---
 <style>
 table { 
@@ -173,7 +174,7 @@ Of course, this was not the typical fate of smaller rubber plantation companies 
 
 [^6]: Low, S.C. (1955). *[Gambier-and-pepper planting in Singapore, 1819–1860](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202750334)* (p. 36) [University of Malaya, Singapore; thesis]. [n.p.]. (Call no.: RCLOS 630.95957 LOW)
 
-[^7]: Song, O.S. (1923). *[One hundred years’ history of the Chinese in Singapore](https://eresources.nlb.gov.sg/printheritage/detail/f8082431-1c7b-460e-b59c-bbc5793035a3.aspx)* (p. 20). London: John Murray. Retrieved from BookSG. (Call no.: RCLOS 959.57 SON; Accession no.: B02956336A). For more information about Seah Eu Chin, see Yong, C.Y. (2016). *[Seah Eu Chin](https://eresources.nlb.gov.sg/infopedia/articles/SIP_833_2004-12-29.html)*. Retrieved from Singapore Infopedia website.
+[^7]: Song, O.S. (1923). *[One hundred years’ history of the Chinese in Singapore](https://eresources.nlb.gov.sg/printheritage/detail/f8082431-1c7b-460e-b59c-bbc5793035a3.aspx)* (p. 20). London: John Murray. Retrieved from BookSG. (Call no.: RCLOS 959.57 SON; Accession no.: B02956336A). For more information about Seah Eu Chin, see Yong, C.Y. (2016). *[Seah Eu Chin](https://www.nlb.gov.sg/main/article-detail?cmsuuid=4aab4b55-d754-4c95-a26f-3da7285a1ffc)*. Retrieved from Singapore Infopedia website.
 
 [^8]: [Low](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202750334), 1955, p. 37.
 
