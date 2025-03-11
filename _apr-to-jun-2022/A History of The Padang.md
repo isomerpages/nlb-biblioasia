@@ -4,6 +4,7 @@ permalink: /vol-18/issue-1/apr-to-jun-2022/history-padang/
 description: Kevin Tan looks at what makes the 4.3-hectare patch of green in
   front of the former City Hall building so special.
 image: /images/Vol 18 Issue 1/The Padang/padang8.png
+variant: markdown
 ---
 #### **Kevin Tan** looks at what makes the 4.3-hectare patch of green in front of the former City Hall building so special.
 
@@ -176,7 +177,7 @@ Given its age, historical significance and global prominence, it is timely that 
 
 [^24]: Turnbull, [*History of Singapore, 1819–2005*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13206047), 196–97.
 
-[^25]: Lee Geok Boi, [*The Syonan Years: Singapore Under Japanese Rule 1942–1945* ](https://safe.menlosecurity.com/http:/eservice.nlb.gov.sg/item_holding.aspx?bid=12661517)(Singapore: National Archives of Singapore and Epigram, 2005), 163 (From National Library, Singapore, Call no. RSING q940.535957 LEE-[WAR]); Joshua Chia Yeong Jia, “[Grow More Food Campaign](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1223_2008-12-05.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published 2016.
+[^25]: Lee Geok Boi, [*The Syonan Years: Singapore Under Japanese Rule 1942–1945* ](https://safe.menlosecurity.com/http:/eservice.nlb.gov.sg/item_holding.aspx?bid=12661517)(Singapore: National Archives of Singapore and Epigram, 2005), 163 (From National Library, Singapore, Call no. RSING q940.535957 LEE-[WAR]); Joshua Chia Yeong Jia, “[Grow More Food Campaign](https://www.nlb.gov.sg/main/article-detail?cmsuuid=fa39866e-7f81-4f15-8475-540ad18b92a0),” in *Singapore Infopedia*. National Library Board Singapore. Article published 2016.
 
 [^26]: Turnbull, [*History of Singapore, 1819–2005*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13206047), 221; “[Japanese in Malaysia Surrender at Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19450913-1.2.2),” *Straits Times*, 13 September 1945, 1. (From NewspaperSG)
 

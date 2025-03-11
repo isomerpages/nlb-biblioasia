@@ -4,8 +4,8 @@ date: 2017-01-12
 permalink: /vol-12/issue-4/jan-mar-2017/party-time-raffles/
 image: /images/Vol-12-issue-4/party-time-with-raffles/postcard-view.jpg
 layout: post
+variant: markdown
 ---
-
 #### The National Library’s collection of menu cards from Raffles Hotel provides an inkling of lavish parties and fine dining from bygone days. **Francis Dorai** and **Jessie Yak** take a peek.
 
 <div style="background-color: white;"><br>
@@ -96,7 +96,7 @@ All the menus featured in this article were donated to the National Library, Sin
 <br><br>
 These menus are part of the National Library’s Rare Materials Collection. The collection – which is kept in a climate controlled facility on level 13 of the National Library − comprises over 11,000 items, mostly books and periodicals, but also materials such as manuscripts, maps, photographs, art prints and illustrations, as well as handwritten letters and documents.
 <br><br>
-To provide access to the materials, the Rare Materials Collection is being digitised and made available on National Library’s BookSG website at <a href="http://eresources.nlb.gov.sg/printheritage">http://eresources.nlb.gov.sg/printheritage</a>. Microfilm copies are also available at level 11 of the Lee Kong Chian Reference Library (Singapore &amp; Southeast Asian Collection) at NLB Building. To view the originals, please email your request to <a href="mailto:ref@nlb.gov.sg">ref@nlb.gov.sg</a>.</div>
+To provide access to the materials, the Rare Materials Collection is being digitised and made available on National Library’s BookSG website at <a href="https://www.nlb.gov.sg/main/nlonline">National Library Online</a>. Microfilm copies are also available at level 11 of the Lee Kong Chian Reference Library (Singapore &amp; Southeast Asian Collection) at NLB Building. To view the originals, please email your request to <a href="mailto:ref@nlb.gov.sg">ref@nlb.gov.sg</a>.</div>
 
 <div style="background-color: white;">
 <br>

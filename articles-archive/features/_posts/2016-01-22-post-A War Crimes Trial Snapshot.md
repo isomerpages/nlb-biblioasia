@@ -5,6 +5,7 @@ permalink: /vol-11/issue-4/jan-mar-2016/photographs-singapore-war-crimes-trial/
 image: /images/vol-11-issue-4/war-crimes-trial-snapshot/01_warcrimes.jpg
 layout: post
 description: ""
+variant: markdown
 ---
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
 <b>Item:</b> <i><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201334252">Photographs on the Opening of the War Crimes Trial in Singapore, 21 January 1946</a></i>
@@ -55,13 +56,13 @@ Another trial that took place in Singapore was the “Double Tenth” trial held
 
 [^3]:Maogoto, J.N. (2004). *[War crimes and realpolitik: International justice from World War I to the 21st century](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12304611)* (p. 107). Boulder, Colorado: Lynn Rienner Publishers. (Call no.: R 341.6909 MAO)
 
-[^4]:Thian, Y.S., Chong, C.C., & Lim, S. (Eds.). (2002). *[In session: Supreme Court Singapore: The building, her heritage and her people](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11826187)* (pp. 18–24). Singapore: Supreme Court. (Call no.: RSING 347.5957035 IN); [The trial story of brutality and starvation](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19460122-1.2.28). (1946, January 22). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
+[^4]:Thian, Y.S., Chong, C.C., &amp; Lim, S. (Eds.). (2002). *[In session: Supreme Court Singapore: The building, her heritage and her people](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11826187)* (pp. 18–24). Singapore: Supreme Court. (Call no.: RSING 347.5957035 IN); [The trial story of brutality and starvation](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19460122-1.2.28). (1946, January 22). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
 
 [^5]:[Death for Nakamura: Twelve years for Gozawa](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19460202-1.2.23). (1946, February 2). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
 
 [^6]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19460202-1.2.23),* 2 Feb 1946, p. 3; *[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19460122-1.2.28)*, 22 Jan 1946, p. 3.
  
-[^7]:[1942 Singapore massacre story told](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19470310-1.2.29.1). (1947, March 10). *The Singapore Free Press*, p. 5. Retrieved from NewspaperSG; National Library Board. (2013, June 17). *[Operation Sook Ching](http://eresources.nlb.gov.sg/infopedia/articles/SIP_40_2005-01-24.html)* written by Ho, Stephanie. Retrieved from Singapore Infopedia website.
+[^7]:[1942 Singapore massacre story told](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19470310-1.2.29.1). (1947, March 10). *The Singapore Free Press*, p. 5. Retrieved from NewspaperSG; National Library Board. (2013, June 17). *[Operation Sook Ching](https://www.nlb.gov.sg/main/article-detail?cmsuuid=cc4da337-3bcd-4f96-bdc6-5210646bdd90)* written by Ho, Stephanie. Retrieved from Singapore Infopedia website.
 
 [^8]:*[The Singapore Free Press](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19470310-1.2.29.1),* 10 Mar 1947, p. 5; [Singapore massacre Japs guilty](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19470403-1.2.5). (1947, April 3). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 

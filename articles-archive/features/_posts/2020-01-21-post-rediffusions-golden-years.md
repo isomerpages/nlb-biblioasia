@@ -152,7 +152,7 @@ Lee died of a heart attack in 1989, having done a recording for Radio Australia 
 
 #### **Notes**
 
- [^1]: National Library Board. (2014). *[Chinese street storytellers](http://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-07-29_093914.html)* by Fiona Tan. Retrieved from Singapore Infopedia website.
+ [^1]: National Library Board. (2014). *[Chinese street storytellers](https://www.nlb.gov.sg/main/article-detail?cmsuuid=23b849a8-b357-4e7a-a511-bde6b6c2e5c2)* by Fiona Tan. Retrieved from Singapore Infopedia website.
  [^2]:Cheong, J. (2006, February 12). [Redi-rection](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20060212-1.2.50.2.3). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
   [^3]:The Singapore Memory Project, launched in 2011, is a whole-of-nation movement by the National Library Board that documented memories and moments related to Singapore from individuals and organisations.
  [^4]:Seah, J. (2012, April 10). *Farewell to Redifffusion*. Retrieved from Singapore Memory Project website.

@@ -2,6 +2,7 @@
 title: "Spicy Nation: From India to Singapore"
 permalink: /vol-9/issue-3/oct-dec-2013/indian-spicy-food-india-singapore/
 description: ""
+variant: markdown
 ---
 #### From fish head curry to Indian rojak, Indian food in Singapore has evolved over time, drawing influences from various local cultures, and finding its place in the hearts of Singaporeans.
 
@@ -151,7 +152,7 @@ Malhi, M. (2011). Classic *Indian recipes: 75 signature dishes*. London: Hamlyn.
 
 Narula, B. et al. (2004). *Authentic recipes from India*. Singapore: Periplus Editions. (Not available in NLB holdings)
 
-National Library Board. (2016). [*Mee Goreng*](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1740_2010-12-13.html) written by Tan, Bonny. Retrieved from Singapore Infopedia website
+National Library Board. (2016). [*Mee Goreng*](https://www.nlb.gov.sg/main/article-detail?cmsuuid=96c8e052-1a64-4974-a639-daadb13a19d6) written by Tan, Bonny. Retrieved from Singapore Infopedia website
 
 Panickar, G. (2013, July 19). Prata paradise. *Tabla*, p. 14. Retrieved from Tabla website. 
 
