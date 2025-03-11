@@ -234,7 +234,7 @@ Of course, this was not the typical fate of smaller rubber plantation companies 
 
 [^36]: [First pineapple canning factory in Federated Malay States](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19220620-1.2.35). (1922, June 20). *The Singapore Free Press and Mercantile Advertiser*, p. 7. Retrieved from NewspaperSG.
 
-[^37]: For more information about Lee Kong Chian, see Nor-Afidah Abd Rahman &amp; Wee, J. (2011). *[Lee Kong Chian](https://eresources.nlb.gov.sg/infopedia/articles/SIP_978_2006-06-16.html)*. Retrieved from Singapore Infopedia website.
+[^37]: For more information about Lee Kong Chian, see Nor-Afidah Abd Rahman &amp; Wee, J. (2011). *[Lee Kong Chian](https://www.nlb.gov.sg/main/article-detail?cmsuuid=513ccc41-7bb1-43fb-a9cc-bb8c2257db86)*. Retrieved from Singapore Infopedia website.
 
 [^38]: For more information about Tan Chay Yan, see Sutherland, D. (2009). *[Tan Chay Yan](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1628_2009-12-31.html)*. Retrieved from Singapore Infopedia website.
 
