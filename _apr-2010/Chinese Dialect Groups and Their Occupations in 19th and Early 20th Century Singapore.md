@@ -7,6 +7,7 @@ description: Librarian Jaclyn Teo draws on published English resources from the
   groups in Singapore, such as Hokkiens, Teochews, Cantonese, Hakkas and
   Hainanese, seemed to have specialised in specific trades and occupations,
   particularly during the early colonial period until the 1950s.
+variant: markdown
 ---
 ####  Librarian *Jaclyn Teo* draws on published English resources from the Lee Kong Chian Reference Library, and explores why certain Chinese dialect groups in Singapore specialised in specific trades and occupations, particularly during the early colonial period until the 1950s.
 
@@ -134,7 +135,7 @@ Today, dialect groupings no longer play such an important role in occupational c
 
 B.W. Hodder, “Racial Groupings in Singapore,” [_The Journal of Tropical Geography_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=909965) 1 (1953), 25–36. (Call no. RCLOS 910.0913 JTG; microflm NL10327)
 
-Bonny Tan and Jane Wee, “[Tan Kah Kee](https://eresources.nlb.gov.sg/infopedia/articles/SIP_839_2004-12-28.html),” _Singapore Infopedia_, published 2016.
+Bonny Tan and Jane Wee, “[Tan Kah Kee](https://www.nlb.gov.sg/main/article-detail?cmsuuid=41d208d1-4765-4b77-a1ff-4e4a0e3dfe2d),” _Singapore Infopedia_, published 2016.
 
 Cheng Lim-Keak, [_Social Change and the Chinese in Singapore: A Socio-Economic Geography With Special Reference To Bang Structure_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082374) (Singapore: Singapore University Press, 1985). (Call no. RSING 369.25957 CHE)
 
