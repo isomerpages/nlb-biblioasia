@@ -147,7 +147,7 @@ NUS Department of Architecture. (2011). *[NUS design](https://eservice.nlb.gov.s
 
 Lim, L., &amp; Humphrey, N. (2005, October 26). [One mad life story](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20051026-1.2.57.1). <i>Today</i>, p. 46. Retrieved from NewspaperSG.
 
-National Library. (2011). *[Lee Kip Lin](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1824_2011-08-03.html)* written by Tan, Joanna Hwang Soo. Retrieved from Singapore Infopedia website.
+National Library. (2011). *[Lee Kip Lin](https://www.nlb.gov.sg/main/article-detail?cmsuuid=886b9972-849b-4dcd-9a18-4334419b3895)* written by Tan, Joanna Hwang Soo. Retrieved from Singapore Infopedia website.
 
 Tay, K.S. (1985, June 26). Oral history interview with Lee Kip Lin.
 
