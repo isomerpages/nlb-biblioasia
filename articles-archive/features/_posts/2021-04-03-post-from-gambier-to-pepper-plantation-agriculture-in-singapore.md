@@ -236,7 +236,7 @@ Of course, this was not the typical fate of smaller rubber plantation companies 
 
 [^37]: For more information about Lee Kong Chian, see Nor-Afidah Abd Rahman &amp; Wee, J. (2011). *[Lee Kong Chian](https://www.nlb.gov.sg/main/article-detail?cmsuuid=513ccc41-7bb1-43fb-a9cc-bb8c2257db86)*. Retrieved from Singapore Infopedia website.
 
-[^38]: For more information about Tan Chay Yan, see Sutherland, D. (2009). *[Tan Chay Yan](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1628_2009-12-31.html)*. Retrieved from Singapore Infopedia website.
+[^38]: For more information about Tan Chay Yan, see Sutherland, D. (2009). *[Tan Chay Yan](https://www.nlb.gov.sg/main/article-detail?cmsuuid=7b121204-db63-4f02-a125-ac99b14128fb)*. Retrieved from Singapore Infopedia website.
 
 [^39]: [[Untitled]](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19100811-1.2.35). (1910, August 11). *The Straits Times*, p. 6; *[Tampenis Plantations, Ltd](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19100910-1.2.66)*. (1910, September 10). *The Straits Times*, p. 7; [The Sembawang sale](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19101111-1.2.61). (1910, November 11). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
 
