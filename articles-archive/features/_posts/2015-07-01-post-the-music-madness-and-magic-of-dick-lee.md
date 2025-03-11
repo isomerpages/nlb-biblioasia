@@ -4,6 +4,7 @@ date: 2015-07-01
 permalink: /vol-11/issue-2/jul-sep-2015/dick-lee/
 images: /images/vol-11-issue-2/dicklee/dicklee.jpg
 layout: post
+variant: markdown
 ---
 #### The “Mad Chinaman” was probably the first to push the boundaries of popular music in Singapore. **Joy Loh** profiles the enfant terrible of entertainment.
 
@@ -28,19 +29,19 @@ In his own way, Lee was a rebel. Being the only pianist in his secondary school 
 Against the backdrop of this campaign, Lee once had a close shave with the police. One evening while loitering in town, Lee and his friends spotted a police patrol car and decided to make a run for it because they thought they would be picked up for sporting long hair. While making his getaway in his red-and-black four-inch platform shoes, Lee lost his balance and tumbled into a ditch, fortuitously removing himself from view as his friends were caught by the police and sent to “haircut hell”.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img style="width:70%" src="/images/vol-11-issue-2/dicklee/young_dicklee.jpg">
 Dick Lee performing at Rediffusion's singing contest <i>Ready, Steady, Folk</i> in 1973. <i>Courtesy of Dick Lee. </i>
 </div>
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-11-issue-2/dicklee/dicklee_modelling.jpg">
 Dick Lee modelling his designs for his mother's boutique Midteen located in Tanglin Shopping Centre, with Tina Tan (left) and Sabrina Fernando, 1974. <i>Courtesy of Dick Lee.</i>
 </div>
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img style="width:70%" src="/images/vol-11-issue-2/dicklee/FRP.jpg">
 Album cover of music from <i>Fried Rice Paradise</i>, staged by Singapore Repertory Theatre in 2010. © <i>Singapore Repertory Theatre, Singapore, 2010.</i>
 </div>
@@ -81,10 +82,10 @@ One of the more significant tracks on <i>Life in the Lion City</i> is “Flower 
 
 Even the album cover is distinctly local. It shows Lee surrounded by an eclectic mix of familiar Singapore symbols such as the Merlion, the national flower Vanda Miss Joaquim and the lower edge of what appears to be portraits of the president and first lady of Singapore of the time. 
 
-Although <i>Life in the Lion City</i> was released in 1984 with little fanfare, one individual who appreciated Lee’s music enough to turn it into a television show was the Singapore Broadcasting Corporation’s (SBC) producer, Lim Sek. He later became Lee’s business partner when they set up Music & Movement to manage the latter’s career when he went fulltime.
+Although <i>Life in the Lion City</i> was released in 1984 with little fanfare, one individual who appreciated Lee’s music enough to turn it into a television show was the Singapore Broadcasting Corporation’s (SBC) producer, Lim Sek. He later became Lee’s business partner when they set up Music &amp; Movement to manage the latter’s career when he went fulltime.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img style="width:70%" src="/images/vol-11-issue-2/dicklee/mad_chinaman.jpg">
 Album cover of <i>The Mad Chinaman</i>, Dick Lee's ultimate Singaporean album of ethnic pop. © <i>Warner Music, Singapore, 1989.</i>
 </div>
@@ -118,7 +119,7 @@ Lee’s work in the Land of the Rising Sun proved instrumental in opening Japane
 Lee’s passion for musicals led him along a different yet complementary path. He has written several groundbreaking musicals, including <i>Fried Rice Paradise</i> (1991) <i>Kampong Amber</i> (1994), <i>Sing to the Dawn</i> (1996) and <i>Hotpants</i> (1997). The epic <i>Nagraland</i> toured Japan, Singapore and Hong Kong in a 2002 sold-out tour, and <i>Snow.Wolf. Lake</i>, which starred Hong Kong pop star Jacky Cheung, toured several Asian cities in 2005. Among his famed musicals, the most well-known was the first one he produced in 1988, the all-time favourite <i>Beauty World</i>.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img style="width:70%" src="/images/vol-11-issue-2/dicklee/beuty_world.jpg">
 A TheatreWorks production of <i>Beauty World</i> directed by Ong Keng Sen. It was first staged by TheatreWorks in 1988 and toured Japan in 1992, followed by a re-staging for the President's Star Charity in 1998. <i>Courtesy of TheatreWorks (S) Ltd</i>.
 </div>
@@ -140,7 +141,7 @@ Lee was intrigued by the story of Cixi and rabidly researched her life and histo
 In 2002, Lee travelled to London with lyricist Stephen Clark and director Steven Dexter to work on an outline for a musical on Cixi’s life. The trio visited the British Library to study out-of-print books on Cixi and stumbled upon an important work on the empress dowager by American artist Katherine Carl, who painted Cixi in her first Western-style portrait. 
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img style="width:70%" src="/images/vol-11-issue-2/dicklee/forbidden_city.jpg">
 A scene from the musical <i>Forbidden City: Portrait of an Empress</i>, with Kit Chan (centre, in red costume) playing the lead role. Dick Lee wrote the music for this Singapore Repertory Theatre (SRT) production that was first staged in 2002. <i>Courtesy of Singapore Repertory Theatre</i>.
 </div>
@@ -153,7 +154,7 @@ Thus, the musical <i>Forbidden City: Portrait of an Empress</i> was born, starri
 
 “Dick Lee’s talents defy categorisation. If you think that his life is as colourful as the characters in his musicals and songs, then you are wrong! It is ten times more exciting and dramatic.” 
 
-<div style="text-align: right"><i>— Lim Sek, Dick Lee’s business partner at Music & Movement</i></div>
+<div style="text-align: right"><i>— Lim Sek, Dick Lee’s business partner at Music &amp; Movement</i></div>
 
 A stalwart in the popular cultural history of Singapore, Lee continues to be a mover and shaker as he continues his “mad” adventures in music and theatre, embracing life as few people do.
 
@@ -197,7 +198,7 @@ Lee, D. (2011). *[The adventures of the mad Chinaman](https://eservice.nlb.gov.s
 
 Low, J. (1975, March 16). [No major change in Status Quo music](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19750316-1.2.49.5). <i>The Straits Times</i>, p. 13. Retrieved from NewspaperSG.
 
-Tan, J.H.S. (2011). *[Lee Kip Lin](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1824_2011-08-03.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
+Tan, J.H.S. (2011). *[Lee Kip Lin](https://www.nlb.gov.sg/main/article-detail?cmsuuid=886b9972-849b-4dcd-9a18-4334419b3895)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
 National Library Board. (2014). *[Campaign against yellow culture is launched](https://eresources.nlb.gov.sg/history/events/47129576-377a-44fe-a05f-fefddf0cb765)*. Retrieved from HistorySG website.
 
@@ -207,7 +208,7 @@ Oon, V. (1974, December 26). [Dick tells his life story on disc](http://eresourc
 
 Ong, S.C. (1990, March 25). [Japanese bowled over by 'Mad Chinaman' Dick Lee](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900325-1.2.26.19). <i>The Straits Times</i>, p. 21. Retrieved from NewspaperSG. 
 
-Perera, L.M., & Perera, A. (2010). *[Dick Lee (李迪文): Creating endless opportunities](https://eresources.nlb.gov.sg/music/Media/PDFs/Article/6d84beaf-fb53-48a0-9693-b3c183893021.pdf)*. Retrieved from MusicSG.
+Perera, L.M., &amp; Perera, A. (2010). *[Dick Lee (李迪文): Creating endless opportunities](https://eresources.nlb.gov.sg/music/Media/PDFs/Article/6d84beaf-fb53-48a0-9693-b3c183893021.pdf)*. Retrieved from MusicSG.
 
 Singapore Repertory Theatre (n.d.). <i>About forbidden city</i>. Retrieved from Singapore Repertory Theatre website.
 
