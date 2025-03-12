@@ -24,9 +24,10 @@ and especially because Pak Zubir said “Majulah Singapura” is a prayer,
 you hear it in a totally different light. So that’s why when I did it in
 the show, I said, there’s no way I can do a version of “Majulah Singapura”
 and sing it.</p>
-<p><strong>Jimmy<br></strong>You are listening to BiblioAsia+, a podcast
-produced by the National Library of Singapore. At BiblioAsia+, we tell
-stories about Singapore’s past. Some familiar, others forgotten, all fascinating.</p>
+<p><strong>Jimmy<br></strong>You are listening to <em>BiblioAsia+</em>, a
+podcast produced by the National Library of Singapore. At <em>BiblioAsia+</em>,
+we tell stories about Singapore’s past. Some familiar, others forgotten,
+all fascinating.</p>
 <p>Zubir Said was a composer and musician who gave Singapore its national
 anthem “Majulah Singapura”. Because of this, Pak Zubir is sometimes known
 as Mr. Mari Kita.</p>
@@ -626,9 +627,9 @@ And I hope that what Julian shared today will be useful to listeners. It’s
 really been a pleasure and a privilege to have you on the show.</p>
 <p><strong>Julian<br></strong>Thank you for reaching out to me.</p>
 <p><strong>Jimmy<br></strong>I want to thank everyone for listening to this
-episode of BiblioAsia+. <em>BiblioAsia</em> can be found online at <a rel="noopener noreferrer nofollow" target="_blank">biblioasia.nlb.gov.sg</a>. And I want
-to leave you with this haunting version of “Semoga Bahagia”, written and
-sung by Julian, accompanied by the cast of <em>Don’t Call Him Mr. Mari Kita</em>.
-And thank you very much.</p>
+episode of <em>BiblioAsia+</em>. <em>BiblioAsia</em> can be found online at
+<a rel="noopener noreferrer nofollow" target="_blank">biblioasia.nlb.gov.sg</a>. And I want to leave you with this haunting
+version of “Semoga Bahagia”, written and sung by Julian, accompanied by
+the cast of <em>Don’t Call Him Mr. Mari Kita</em>. And thank you very much.</p>
 <p><strong>Julian<br></strong>Thank you.</p>
 <p>[“Semoga Bahagia” playing]</p>
