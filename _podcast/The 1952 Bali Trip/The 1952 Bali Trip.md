@@ -91,16 +91,17 @@ call no. RSING 759.95957 LIU)</p>
 Gek Han. Sound engineering was done by Doppler Soundlab. The background
 music “<a href="https://www.youtube.com/watch?v=uA2v7ka5TAI" rel="noopener noreferrer" target="_blank"><u>Di Tanjong Katong</u></a>”
 was composed by Osman Ahmad and performed by&nbsp;Chords Haven. Special
-thanks to Gretchen for coming on the show.
-<br>
-</p>
+thanks to Gretchen for coming on the show.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>About the Podcast</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>BiblioAsia+ is a podcast about Singapore history by the National Library
+of Singapore.</p>
 <p></p>
 </div>
 </details>
 </div>
+<p></p>
 <p></p>
