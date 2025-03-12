@@ -5,6 +5,7 @@ date: 2021-04-01T00:00:00.000Z
 breadcrumb: "From Gambier to Pepper: Plantation Agriculture in Singapore"
 third_nav_title: "From Gambier to Pepper: Plantation Agriculture in Singapore"
 image: /images/Vol-17-issue-1/agriculture/gambierpepper.jpg
+variant: markdown
 ---
 <style>
 table { 
@@ -173,7 +174,7 @@ Of course, this was not the typical fate of smaller rubber plantation companies 
 
 [^6]: Low, S.C. (1955). *[Gambier-and-pepper planting in Singapore, 1819–1860](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202750334)* (p. 36) [University of Malaya, Singapore; thesis]. [n.p.]. (Call no.: RCLOS 630.95957 LOW)
 
-[^7]: Song, O.S. (1923). *[One hundred years’ history of the Chinese in Singapore](https://eresources.nlb.gov.sg/printheritage/detail/f8082431-1c7b-460e-b59c-bbc5793035a3.aspx)* (p. 20). London: John Murray. Retrieved from BookSG. (Call no.: RCLOS 959.57 SON; Accession no.: B02956336A). For more information about Seah Eu Chin, see Yong, C.Y. (2016). *[Seah Eu Chin](https://eresources.nlb.gov.sg/infopedia/articles/SIP_833_2004-12-29.html)*. Retrieved from Singapore Infopedia website.
+[^7]: Song, O.S. (1923). *[One hundred years’ history of the Chinese in Singapore](https://eresources.nlb.gov.sg/printheritage/detail/f8082431-1c7b-460e-b59c-bbc5793035a3.aspx)* (p. 20). London: John Murray. Retrieved from BookSG. (Call no.: RCLOS 959.57 SON; Accession no.: B02956336A). For more information about Seah Eu Chin, see Yong, C.Y. (2016). *[Seah Eu Chin](https://www.nlb.gov.sg/main/article-detail?cmsuuid=4aab4b55-d754-4c95-a26f-3da7285a1ffc)*. Retrieved from Singapore Infopedia website.
 
 [^8]: [Low](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202750334), 1955, p. 37.
 
@@ -193,7 +194,7 @@ Of course, this was not the typical fate of smaller rubber plantation companies 
 
 [^16]: Cameron, J. (1865). *[Our tropical possessions in Malayan India: Being a descriptive account of Singapore, Penang, Province Wellesley, and Malacca; Their peoples, products, commerce, and government](https://eresources.nlb.gov.sg/printheritage/detail/7658c549-f1c5-47c7-b8b6-831f7eb90c58.aspx)* (p. 168). London: Smith, Elder &amp; Co. Retrieved from BookSG. (Call no.: RRARE 959.5 CAM-[JSB]; Accession no.: B29032445G)
 
-[^17]: Ridley, H.N. (1897, April). Spices. *[Agricultural Bulletin of the Malay Peninsula](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981663)*, (6), 96–129, p. 106; De Guzman, C.C., &amp; Siemonsma, J.S. (Eds.). (1999). *[Spices](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203825825)*. Bogor, Indonesia: PROSEA Foundation. (Call no.: RCLOS 633.830959 SPI). For more information about Henry Nicholas Ridley, see Cornelius-Takahama, V. (2016). *[Henry Nicholas Ridley](https://eresources.nlb.gov.sg/infopedia/articles/SIP_518_2004-12-28.html)*. Retrieved from Singapore Infopedia website. 
+[^17]: Ridley, H.N. (1897, April). Spices. *[Agricultural Bulletin of the Malay Peninsula](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981663)*, (6), 96–129, p. 106; De Guzman, C.C., &amp; Siemonsma, J.S. (Eds.). (1999). *[Spices](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203825825)*. Bogor, Indonesia: PROSEA Foundation. (Call no.: RCLOS 633.830959 SPI). For more information about Henry Nicholas Ridley, see Cornelius-Takahama, V. (2016). *[Henry Nicholas Ridley](https://www.nlb.gov.sg/main/article-detail?cmsuuid=3018287e-5646-4a13-bf02-20bd461e76cf)*. Retrieved from Singapore Infopedia website. 
 
 [^18]: Balestier, J., &amp; Montgomerie, W. (1841, November 11). [From an unpublished journal of a residence at Singapore: During part of 1840 &amp; 41](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18411111-1.2.16). *The Singapore Free Press and Mercantile Advertiser*, p. 23. Retrieved from NewspaperSG.
 
@@ -201,13 +202,13 @@ Of course, this was not the typical fate of smaller rubber plantation companies 
 
 [^20]: Kong, L., &amp; Chang, T.C. (2001). *[Joo Chiat: A living legacy](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10354011)* (p. 29). Singapore: Joo Chiat Citizens’ Consultative Committee &amp; National Archives of Singapore. (Call no.: RSING q959.57 KON)
 
-[^21]: For more information about Hoo Ah Kay, see Tan, B. (2019, August). *[Hoo Ah Kay](https://eresources.nlb.gov.sg/infopedia/articles/SIP_798_2004-12-14.html)*. Retrieved from Singapore Infopedia website. 
+[^21]: For more information about Hoo Ah Kay, see Tan, B. (2019, August). *[Hoo Ah Kay](https://www.nlb.gov.sg/main/article-detail?cmsuuid=65cde14d-bcc4-4e25-af75-9694428ad62e)*. Retrieved from Singapore Infopedia website. 
 
 [^22]: Corlett, R.T. (1992, July). The ecological transformation of Singapore. *Journal of Biogeography, 19* (4), 411–420. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
 [^23]: [Page 1 Advertisements Column 3: Notice](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18450612-1.2.2.3). (1845, June 12). *The Singapore Free Press and Mercantile Advertiser*, p. 1. Retrieved from NewspaperSG. 
 
-[^24]: Buckley, C.B. (1902). *[An anecdotal history of old times in Singapore](https://eresources.nlb.gov.sg/printheritage/detail/303beefb-31d7-4dad-83fb-593054096717.aspx)* (Vol. I; p. 185). Singapore: Fraser and Neave. Retrieved from BookSG. (Call no.: RRARE 959.57 BUC; Accession no.: B02966440I). For more information about Jose d’Almeida, see Ong, E.C. (2019, May). *[Jose d’Almeida](https://eresources.nlb.gov.sg/infopedia/articles/SIP_102_2005-01-18.html)*. Retrieved from Singapore Infopedia website. 
+[^24]: Buckley, C.B. (1902). *[An anecdotal history of old times in Singapore](https://eresources.nlb.gov.sg/printheritage/detail/303beefb-31d7-4dad-83fb-593054096717.aspx)* (Vol. I; p. 185). Singapore: Fraser and Neave. Retrieved from BookSG. (Call no.: RRARE 959.57 BUC; Accession no.: B02966440I). For more information about Jose d’Almeida, see Ong, E.C. (2019, May). *[Jose d’Almeida](https://www.nlb.gov.sg/main/article-detail?cmsuuid=e5e732c6-4a79-4a80-b9f4-8c63eb0b15b3)*. Retrieved from Singapore Infopedia website. 
 
 [^25]: [Brooke](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183132), 1921, p. 71.
 
@@ -229,13 +230,13 @@ Of course, this was not the typical fate of smaller rubber plantation companies 
 
 [^34]: C.D. (1908, July 25). [Planting in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19080725-1.2.3). *The Singapore Free Press and Mercantile Advertiser*, p. 1. Retrieved from NewspaperSG.
 
-[^35]: For more information about Tan Kah Kee, see Tan, B., &amp; Wee, J. (2016). *[Tan Kah Kee](https://eresources.nlb.gov.sg/infopedia/articles/SIP_839_2004-12-28.html)*. Retrieved from Singapore Infopedia website. 
+[^35]: For more information about Tan Kah Kee, see Tan, B., &amp; Wee, J. (2016). *[Tan Kah Kee](https://www.nlb.gov.sg/main/article-detail?cmsuuid=41d208d1-4765-4b77-a1ff-4e4a0e3dfe2d)*. Retrieved from Singapore Infopedia website. 
 
 [^36]: [First pineapple canning factory in Federated Malay States](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19220620-1.2.35). (1922, June 20). *The Singapore Free Press and Mercantile Advertiser*, p. 7. Retrieved from NewspaperSG.
 
-[^37]: For more information about Lee Kong Chian, see Nor-Afidah Abd Rahman &amp; Wee, J. (2011). *[Lee Kong Chian](https://eresources.nlb.gov.sg/infopedia/articles/SIP_978_2006-06-16.html)*. Retrieved from Singapore Infopedia website.
+[^37]: For more information about Lee Kong Chian, see Nor-Afidah Abd Rahman &amp; Wee, J. (2011). *[Lee Kong Chian](https://www.nlb.gov.sg/main/article-detail?cmsuuid=513ccc41-7bb1-43fb-a9cc-bb8c2257db86)*. Retrieved from Singapore Infopedia website.
 
-[^38]: For more information about Tan Chay Yan, see Sutherland, D. (2009). *[Tan Chay Yan](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1628_2009-12-31.html)*. Retrieved from Singapore Infopedia website.
+[^38]: For more information about Tan Chay Yan, see Sutherland, D. (2009). *[Tan Chay Yan](https://www.nlb.gov.sg/main/article-detail?cmsuuid=7b121204-db63-4f02-a125-ac99b14128fb)*. Retrieved from Singapore Infopedia website.
 
 [^39]: [[Untitled]](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19100811-1.2.35). (1910, August 11). *The Straits Times*, p. 6; *[Tampenis Plantations, Ltd](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19100910-1.2.66)*. (1910, September 10). *The Straits Times*, p. 7; [The Sembawang sale](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19101111-1.2.61). (1910, November 11). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
 

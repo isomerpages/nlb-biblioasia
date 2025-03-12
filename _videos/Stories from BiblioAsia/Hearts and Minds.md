@@ -5,10 +5,11 @@ description: A cat-and-mouse hunt between two women that will determine the fate
   of communism in Malaya. This is their story.
 third_nav_title: Stories from BiblioAsia
 image: "/images/Videos: BA Stories/heartsandminds.jpg"
+variant: markdown
 ---
 #### A police inspector. A suspected communist. Who will prevail in the battle of wits? 
 
-<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src="https://www.youtube.com/embed/EnB0gs2fwUA" frameborder='0' allowfullscreen></iframe></div>
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/EnB0gs2fwUA" frameborder="0" allowfullscreen=""></iframe></div>
 
 This docudrama involves a tense showdown between Inspector Irene Lee (played by award-winning actress Jo Tan) of the Malayan Special Branch, and Lee Meng (played by Oon Shu An, above), the suspected head courier of the Malayan Communist Party. Does the steely Inspector Lee unearth the truth from the wily Lee Meng? The bravura performances by two talented actors will keep you riveted in your seats. 
 
@@ -22,10 +23,10 @@ This docudrama is inspired by actual events detailed in senior librarian Ronnie 
 <a style="text-decoration: none;" href="/vol-14/issue-4/jan-mar-2019/iron-spearhead-hitmn/">Iron Spearhead: The Story of a Communist Hitman</a>
 <br>Ronnie Tan and Goh Yu Mei recount the story of a ruthless Malayan Communist Party cadre whose cold-blooded murders caused a sensation in Singapore in the 1950s.
 
-<a style="text-decoration: none;" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2018-03-28_141257.html">Communist Party of Malaya</a>
+<a style="text-decoration: none;" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=56327203-9842-46b4-85d3-c4f608578b2c">Communist Party of Malaya</a>
 <br>The Communist Party of Malaya, also known as the Malayan Communist Party, was a political party active in Singapore, the Federation of Malaya and later Malaysia. It was founded in 1930 and dissolved in 1989.
 
-<a style="text-decoration: none;" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2019-06-12_145539.html">Malayan Emergency</a>
+<a style="text-decoration: none;" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=5896ad6b-03ab-4d31-80a7-dbebb2bb17d7">Malayan Emergency</a>
 <br>The Malayan Emergency began in June 1948 after three British plantation managers near Sungei Siput in Perak were killed by insurgents of the Malayan Communist Party (MCP). The MCP had aimed to overthrow the colonial government and establish a Communist People’s Democratic Republic of Malaya. The Malayan Emergency ended only in 1960. 
 
 #### Related Books

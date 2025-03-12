@@ -5,8 +5,8 @@ date: 2020-10-01T00:00:00.000Z
 breadcrumb: Planning to Build
 image: /images/Vol-16-issue-3/building/planningbuilding-cover.jpg
 third_nav_title: Planning to Build, Building to Plan
+variant: markdown
 ---
-
 <style>
 table { 
 	background-color: #d9ddda;
@@ -21,7 +21,7 @@ table {
 #### The collection of building plans in the National Archives of Singapore is a treasure trove of information about the history of urban Singapore, says **Yap Jo Lin.**
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-3/building/planningbuilding-cover.jpg">
 
 This 1908 plan of a mock Tudor-style house in Tanglin for T. Sarkies was featured in Lee Kip Lin’s <i>The Singapore House</i>. It was described as a “fine  example of the beautiful rendering that was characteristic of the period” (9131/1908). <i>Building Control Division Collection, courtesy of National Archives of Singapore</i>.
@@ -52,20 +52,20 @@ These building plans are also a testament to early attempts to keep track of Sin
 
 #### **A Variety of Building Types**
 
-Given that any private application to erect a building in Singapore had to be submitted to the authorities, the plans in the BCD Collection cover a wide array of building types. A prime example is the set of building plans for Eu Villa – the lavish Mount Sophia residence of Chinese businessman and community leader Eu Tong Sen.[^6] Eu is best remembered as the man behind traditional Chinese medicine purveyor Eu Yan Sang, which still exists today. His name also lives on in the busy Chinatown thoroughfare named after him – Eu Tong Sen Street. Eu commissioned architectectural firm Swan & Maclaren to build Eu Villa. The palatial property was designed in a melange of European styles, with its most prominent feature being the Renaissance-style dome, topped with a cupola, on the main building. Over the years, Eu submitted plans to make improvements to his mansion, including one in 1923 for kennels for his pet dogs.
+Given that any private application to erect a building in Singapore had to be submitted to the authorities, the plans in the BCD Collection cover a wide array of building types. A prime example is the set of building plans for Eu Villa – the lavish Mount Sophia residence of Chinese businessman and community leader Eu Tong Sen.[^6] Eu is best remembered as the man behind traditional Chinese medicine purveyor Eu Yan Sang, which still exists today. His name also lives on in the busy Chinatown thoroughfare named after him – Eu Tong Sen Street. Eu commissioned architectectural firm Swan &amp; Maclaren to build Eu Villa. The palatial property was designed in a melange of European styles, with its most prominent feature being the Renaissance-style dome, topped with a cupola, on the main building. Over the years, Eu submitted plans to make improvements to his mansion, including one in 1923 for kennels for his pet dogs.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-3/building/planningbuilding-mountsophia.jpg">
 </div>
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-3/building/planningbuilding-bnwbuilding.jpg">
 </div>
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-3/building/planningbuilding-eutongsenportrait.jpg">
 
 The 1913 building plan of Eu Tong Sen’s Eu Villa showing the east and north elevations (1413–7/1913). Below that is an aerial view of the villa on Mount Sophia, 1940s. Eu built up Eu Yan Sang, a company specialising in traditional Chinese medicine set up by his father Eu Kong, into a very successful business. <i>Building plan from the Building Control Division Collection, courtesy of National Archives of Singapore; aerial view of Eu Villa courtesy of National Archives of Singapore; portrait of Eu Tong Sen reproduced from Song, O.S. (1923). One Hundred Years’ History of the Chinese in Singapore (p. 332). London: John Murray. Collection of the National Library, Singapore. (Accession no.: B20048226B)</i>.
@@ -79,7 +79,7 @@ The building plans of commercial properties in the BCD Collection include office
 The BCD Collection is also a good starting point to research old places in Singapore such as Commercial Square (now Raffles Place). It allows one to see in greater detail buildings that no longer exist like the former Hongkong and Shanghai Banking Corporation building and the John Little department store. Although both structures have been demolished, the facade of John Little is memorialised in the entrances of Raffles Place MRT station.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-3/building/planningbuilding-newbanksg.jpg">
 
 The plan of the long-demolished Hongkong and Shanghai Bank building in Collyer Quay shows the elevation to Battery Road, 1892 (91/1892). <i>Building plan from the Building Control Division Collection, courtesy of National Archives of Singapore</i>.
@@ -87,31 +87,31 @@ The plan of the long-demolished Hongkong and Shanghai Bank building in Collyer Q
 </div>
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-3/building/planningbuilding-johnlittle.jpg">
 </div>
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-3/building/planningbuilding-johnlittleplan.jpg">
 
 John Little department store after the rebuilding of their Raffles Place premises, c. 1910. Established in 1842, the brand lasted 174 years. Its last store was shuttered in 2016. The plan shows the front elevation of the building, 1908 (9261–9/1908). <i>Photo from the Lim Kheng Chye Collection, courtesy of National Archives of Singapore; building plan from the Building Control Division Collection, courtesy of National Archives of Singapore</i>.
 
 </div>
 
-From the BCD Collection, one can also track the evolution of shophouse design in Singapore, from the earlier iterations at the start of the collection in 1884 to the subsequent “Chinese Baroque” style in the early 1900s and Art Deco-inspired style from the 1930s. Shophouse plans from the late 1800s were generally for two-storey buildings with minimal or no decorations on their facade. At the turn of the 20th century, these somewhat prosaic shophouses gave way to three-storey buildings with elaborate plasterwork, fanlights and pilasters. As the 20th century progressed, shophouse facades reverted to the stripped down simplicity of Art Deco and other modern styles.[^8] These shophouse plans showcase the talents of local architects and architectural firms such as W.T. Moh, Yeo Hock Siang, Loh Kiam Siew, W.T. Foo, and Almeida & Kassim. W.T. Moh designed many of the shophouses in Emerald Hill, which is today a gazetted conservation area.
+From the BCD Collection, one can also track the evolution of shophouse design in Singapore, from the earlier iterations at the start of the collection in 1884 to the subsequent “Chinese Baroque” style in the early 1900s and Art Deco-inspired style from the 1930s. Shophouse plans from the late 1800s were generally for two-storey buildings with minimal or no decorations on their facade. At the turn of the 20th century, these somewhat prosaic shophouses gave way to three-storey buildings with elaborate plasterwork, fanlights and pilasters. As the 20th century progressed, shophouse facades reverted to the stripped down simplicity of Art Deco and other modern styles.[^8] These shophouse plans showcase the talents of local architects and architectural firms such as W.T. Moh, Yeo Hock Siang, Loh Kiam Siew, W.T. Foo, and Almeida &amp; Kassim. W.T. Moh designed many of the shophouses in Emerald Hill, which is today a gazetted conservation area.
 
 Finally, there are building plans of social, cultural and religious spaces, such as schools, temples, mosques and churches. One example is the plan for an  *attap* mosque on Tanglin Road built for a Haji Abdulrahman Glas in 1911. The mosque is a simple structure raised on stilts, with a generous open-air verandah in front that takes up more than a quarter of the building’s length. 
 
 The collection also has building plans for the boarding house of Anglo-Chinese School. Known as Bellevue, it was sited near present-day Plaza Singapura. Bellevue was renamed Oldham Hall in 1902, in honour of Bishop William Fitzjames Oldham who founded the school in 1886. Oldham Hall still exists as a boarding house, but it is now situated near the school’s Barker Road premises.[^9] 
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-3/building/planningbuilding-oldhamhallplan.jpg">
 </div>
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-3/building/planningbuilding-oldhamhall.jpg">
 
 Oldham Hall (formerly known as Bellevue and occupying a site near Plaza Singapura), was the boarding house for Anglo-Chinese School, 1900s. The plan shows the front elevation and sectional view, 1896 (211–2/1896).<i> Photo courtesy of National Archives of Singapore; building plan from the Building Control Division Collection, courtesy of National Archives of Singapore</i>.
@@ -123,7 +123,7 @@ Oldham Hall (formerly known as Bellevue and occupying a site near Plaza Singapur
 As the earliest building plans in the BCD Collection date to 1884, it is interesting to look at some of the 107 plans that were submitted that year. The earliest plan in the collection is for a house on Morrison’s Hill – an area in the vicinity of River Valley Road and Martin Road, and a locale (then and now) of high-end residences.[^10] The plan was submitted by Cheang Hong Lim, the businessman and philanthropist after whom Hong Lim Park is named. The plan shows a three-storey house flanked on either side by what looks like statues of lions, their tails raised in artful symmetry. 
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-3/building/planningbuilding-buildingsplan.jpg">
 
 Plan of a house on Morrison’s Hill for Cheang Hong Lim, 1884 (1/1884). This is the earliest plan in the Building Control Division Collection. Cheang (below) was a businessman and philanthropist after whom Hong Lim Park is named. <i>Portrait of Cheang Hong Lim from Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore; building plan from the Building Control Division Collection, courtesy of National Archives of Singapore</i>.
@@ -131,7 +131,7 @@ Plan of a house on Morrison’s Hill for Cheang Hong Lim, 1884 (1/1884). This is
 </div>
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-3/building/planningbuilding-cheonghonglim.jpg">
 </div>
 
@@ -148,7 +148,7 @@ There are two building plans in the collection attributed to one or two men with
 The New Harbour Dock Company, which was based at New Harbour (now known as Keppel Harbour), submitted three building plans in 1884 – for an addition to an engine house, a “quarter” and for a “property” (most likely a house). The engine house plan is meticulously drawn and coloured, with fanlights added above the doors and windows to enhance the aesthetics of the building. The other two plans are simpler in design and depict what look like basic wooden structures. (The New Harbour Dock Company subsequently merged with another private operator, the Tanjong Pagar Dock Company, and eventually became the Port of Singapore Authority.[^16])
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-3/building/planningbuilding-enginehouse.jpg">
 
 The plan for an addition to an engine house for the New Harbour Dock Company, 1884. (86/1884). <i>Building Control Division Collection, courtesy of National Archives of Singapore</i>.
@@ -164,7 +164,7 @@ One example is the plan for a row of shophouses along Beach Road. The front elev
 While rudimentary facades were the norm for shophouses built in 1884, there are two building plans depicting more elaborate ornamentation. One was for a row of shophouses along Serangoon Road, each adorned with a pair of thin minarets, while the other was for a shophouse on Trengganu Street that had extended eaves designed along the style of Malay wooden fretwork.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-3/building/planningbuilding-shophouse.jpg">
 
 The front elevations of these four shophouses demonstrate how this type of building evolved between 1884 and 1940 (50/1884, 228/1896, 3749/1900, 93C/1940). The design in 1884 (top row) shows a simple two-storey building with minimal or no decorations on the facade. By the 1900s, these minimalist shophouses had evolved to become three-storey buildings with elaborate plasterwork, fanlights and pilasters (middle row). In the 1940s, shophouses were designed in the Art Deco style (bottom row). <i>Building Control Division Collection, courtesy of National Archives of Singapore</i>.
@@ -178,7 +178,7 @@ About a quarter of the plans were for other types of houses, which ranged from s
 The floor plan of Richards’ house shows a terrace and portico on the ground floor, and two verandahs above – for residents to enjoy the breeze. The main entrance opens to a long corridor leading to a dining room on the ground floor, while the drawing room or living room is on the second floor. The main house has three bedrooms and one bathroom, with an outhouse at the back for the kitchen and rooms for servants. The building plan also features a stall, a carriage shed and a room for the syce (a groom or stable attendant).
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-3/building/planningbuilding-semidetachedhse.jpg">
 
 The front elevation plan of two semi-detached houses on River Valley Road for Henry D. Richards, 1884 (25/1884). Richards was a civil engineer and surveyor, and the plan bears his official stamp at the bottom right corner. <i>Building Control Division Collection, courtesy of National Archives of Singapore</i>.
@@ -194,7 +194,7 @@ Only one of the plans submitted in 1884 was for a school, “to be erected in th
 
 #### **A Valuable Resource**
 
-The aesthetic quality of the building plans, their breadth and comprehensiveness, and the fact that they represent close to a century’s worth of Singapore’s urban and architectural history make the BCD Collection valuable and unique. Many writers, scholars, architects and historians have conducted research using the collection. One recent publication featuring the BCD Collection is a history of Swan & Maclaren by Julian Davison.[^19] There are undoubtedly more gems waiting to be uncovered, especially when explored together with other resources of the National Archives of Singapore and at the National Library. 
+The aesthetic quality of the building plans, their breadth and comprehensiveness, and the fact that they represent close to a century’s worth of Singapore’s urban and architectural history make the BCD Collection valuable and unique. Many writers, scholars, architects and historians have conducted research using the collection. One recent publication featuring the BCD Collection is a history of Swan &amp; Maclaren by Julian Davison.[^19] There are undoubtedly more gems waiting to be uncovered, especially when explored together with other resources of the National Archives of Singapore and at the National Library. 
 
 
 |**STREET NAMES**|
@@ -205,13 +205,13 @@ The aesthetic quality of the building plans, their breadth and comprehensiveness
 
 |**REFERENCES**|
 
-|National Library Board. (2017). *[Chulia Street](https://eresources.nlb.gov.sg/infopedia/articles/SIP_222_2005-01-18.html)*	written by Nor-Afidah Abd Rahman & Vernon Cornelius. Retrieved from Singapore Infopedia website.
+|National Library Board. (2017). *[Chulia Street](https://www.nlb.gov.sg/main/article-detail?cmsuuid=9c103061-e68c-4662-8946-8dbe86d9b651)*	written by Nor-Afidah Abd Rahman &amp; Vernon Cornelius. Retrieved from Singapore Infopedia website.
 |[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk18990601-1.2.51). (1899, June 1). *The Singapore Free Press*, p. 6. Retrieved from NewspaperSG.|
 
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-3/authors/YapJoLin.png" style="width: 100px; height: 100px;" />
+<br>
+<img src="/images/Vol-16-issue-3/authors/YapJoLin.png" style="width: 100px; height: 100px;">
 
 <b>Yap Jo Lin</b> is an Archivist with the National Archives of Singapore. Her portfolio includes taking care of the archives’ collection of building plans.
 
@@ -226,17 +226,17 @@ The aesthetic quality of the building plans, their breadth and comprehensiveness
 [^3]: Davidson, J. (2014). *[Black and white: The Singapore house, 1898–1941](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201026025)* (p. 2). Singapore: Talisman. (Call no.: RSING 728.37095957 DAV) 
 [^4]: [Liu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082440), 1984, p. 148.
 [^5]: Lee, K.L. (2015). *[The Singapore house, 1819–1942](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201187608)* (p. 66). Singapore:  Marshall Cavendish Editions and National Library Board. (Call no.: RSING 728.095957 LEE)
-[^6]: National Library Board. (2014, September 15). *[Eu Tong Sen](https://eresources.nlb.gov.sg/infopedia/articles/SIP_790_2005-01-22.html)* written by Alex Chow. Retrieved from Singapore Infopedia website; Seow, P.N. (2016, Jul–Sep). Eu Tong Sen and his business empire. *BiblioAsia, 12* (2). Retrieved from BiblioAsia website.
+[^6]: National Library Board. (2014, September 15). *[Eu Tong Sen](https://www.nlb.gov.sg/main/article-detail?cmsuuid=17c9227b-e74e-4abd-b89e-89dd64abe842)* written by Alex Chow. Retrieved from Singapore Infopedia website; Seow, P.N. (2016, Jul–Sep). Eu Tong Sen and his business empire. *BiblioAsia, 12* (2). Retrieved from BiblioAsia website.
 [^7]: [Lee](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201187608), 2015, p. 218.
 [^8]: Urban Redevelopment Authority. (2018, April). *Your shophouse: Do it right*. Retrieved from Urban Redevelopment Authority website.
-[^9]: National Library Board. (2008). *[William F. Oldham](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1365_2008-10-09.html)* written by Bonny Tan. Retrieved from Singapore Infopedia website; ACS Oldham Hall. (2018). *History*. Retrieved from ACS Oldham Hall website.
+[^9]: National Library Board. (2008). *[William F. Oldham](https://www.nlb.gov.sg/main/article-detail?cmsuuid=aec8558d-1e29-444e-9f41-ee4df1d7b277)* written by Bonny Tan. Retrieved from Singapore Infopedia website; ACS Oldham Hall. (2018). *History*. Retrieved from ACS Oldham Hall website.
 [^10]: [Lee](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201187608), 2015, p. 115; Survey Department, Singapore (1893). *[Plan of Singapore town showing topographical detail and municipal numbers](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fa249911-115c-11e3-83d5-0050568939ad)* [Survey map]. Retrieved from National Archives of Singapore website.
-[^11]: National Library Board. (2019, August). *[Hoo Ah Kay](https://eresources.nlb.gov.sg/infopedia/articles/SIP_798_2004-12-14.html)*  	written by Bonny Tan. Retrieved from Singapore Infopedia website.
-[^12]: Interestingly, this building plan bears the rubber stamp of the architects and surveyors, Lermit & Annamalai. Alfred Lermit eventually went on to partner with engineer Archibald Swan who, in turn, set up Swan & Maclaren with civil engineer James Waddell Boyd Maclaren in 1892. The firm is Singapore’s oldest architectural practice today and it celebrated its 125th anniversary in 2017.
+[^11]: National Library Board. (2019, August). *[Hoo Ah Kay](https://www.nlb.gov.sg/main/article-detail?cmsuuid=65cde14d-bcc4-4e25-af75-9694428ad62e)*  	written by Bonny Tan. Retrieved from Singapore Infopedia website.
+[^12]: Interestingly, this building plan bears the rubber stamp of the architects and surveyors, Lermit &amp; Annamalai. Alfred Lermit eventually went on to partner with engineer Archibald Swan who, in turn, set up Swan &amp; Maclaren with civil engineer James Waddell Boyd Maclaren in 1892. The firm is Singapore’s oldest architectural practice today and it celebrated its 125th anniversary in 2017.
 [^13]: Song, O.S. (2020). *[One hundred years’ history of the Chinese in Singapore [electronic resource]: The annotated edition](https://www.overdrive.com/media/5400193/one-hundred-years-history-of-the-chinese-in-singapore)* (p. 75). Singapore: World Scientific Publishing Company. Retrieved from OverDrive. (myLibrary ID is required to access this ebook)
 [^14]: National Library Board. (2014, December 12). *[Lian Shan Shuang Lin Monastery (Siong Lim Temple)](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-12-12_152003.html)* written by Kaylene Tan. Retrieved from Singapore Infopedia website.
-[^15]: National Library Board. (2016). *[Desker Road](https://eresources.nlb.gov.sg/infopedia/articles/SIP_737_2005-01-24.html)* written by Vernon Cornelius & Faridah Ibrahim. Retrieved from Singapore Infopedia website; [Local and general](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/dailyadvertiser18930124-1.2.6). (1893, January 24). *The Daily Advertiser*, p. 3; [Page 2 Advertisements Column 1: In the goods of](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19010122-1.2.8.1). (1901, January 22). *The Singapore Press*, p. 2. Retrieved from NewspaperSG.
+[^15]: National Library Board. (2016). *[Desker Road](https://www.nlb.gov.sg/main/article-detail?cmsuuid=18c6470e-de02-4bb4-96c8-a45e6ba0b7c0)* written by Vernon Cornelius &amp; Faridah Ibrahim. Retrieved from Singapore Infopedia website; [Local and general](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/dailyadvertiser18930124-1.2.6). (1893, January 24). *The Daily Advertiser*, p. 3; [Page 2 Advertisements Column 1: In the goods of](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19010122-1.2.8.1). (1901, January 22). *The Singapore Press*, p. 2. Retrieved from NewspaperSG.
 [^16]: National Library Board. (2015, December). *[Singapore Harbour Board (1913–1964)](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2019-07-05_162000.html)* written by Joanna Tan. Retrieved from Singapore Infopedia website; Wee, B.G. (2019, Jul–Sep). The story of two shipyards. *BiblioAsia, 15* (2). Retrieved from BiblioAsia website.
 [^17]: National Heritage Board. (2019, January 30). *Little India - A cultural and historical precinct*. Retrieved from Roots website.
 [^18]: St Anthony’s Canossian Primary School. (2020). *History*. Retrieved from St Anthony’s Canossian Primary School website.
-[^19]: Davison, J. (2020). *[Swan & Maclaren: A story of Singapore architecture](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204523827)*. Singapore: National Archives of Singapore and ORO Editions. (Call no.: RSING 720.95957 DAV)
+[^19]: Davison, J. (2020). *[Swan &amp; Maclaren: A story of Singapore architecture](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204523827)*. Singapore: National Archives of Singapore and ORO Editions. (Call no.: RSING 720.95957 DAV)
