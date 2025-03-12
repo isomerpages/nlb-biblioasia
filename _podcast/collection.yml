@@ -2,6 +2,7 @@ collections:
   podcast:
     output: true
     order:
+      - The 1952 Bali Trip/Transcript.md
       - The 1952 Bali Trip/The 1952 Bali Trip.md
       - The 1952 Bali Trip/.keep
       - More Than Mr Mari Kita/The Life and Legacy of Zubir Said.md
