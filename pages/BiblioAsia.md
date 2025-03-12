@@ -28,7 +28,7 @@ boxing superstar?</p>
 But the prolific composer has done more than that, as music director Julian
 Wong, who wrote and performed in "Don’t Call Him Mr. Mari Kita", tells
 us.</div>
-<div class="isomer-card-link">Coming soon</div>
+<div class="isomer-card-link">Listen to the episode</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/somerset-maugham-scandalises-1920s-singapore-tracey-morton" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Somerset" src="/images/Podcast/tracey_600_400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Somerset Maugham Scandalises 1920s Singapore</div><div class="isomer-card-description">Sharing the literary landscape with D.H. Lawrence and Virginia Woolf, W. Somerset Maugham travelled to Singapore in 1921, where he wrote his most celebrated short stories. Writer Tracey Morton tells us how Singapore inspired his works and why they remain relevant.</div><div class="isomer-card-link">Listen to the episode</div></div></a>
 <a rel="noopener noreferrer nofollow" href="/podcast/what-makes-an-animal-singaporean-timothy-barnard/" class="isomer-card">
