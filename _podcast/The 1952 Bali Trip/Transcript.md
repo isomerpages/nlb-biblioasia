@@ -5,3 +5,4 @@ variant: tiptap
 description: ""
 third_nav_title: The 1952 Bali Trip
 ---
+<p>Coming soon</p>
