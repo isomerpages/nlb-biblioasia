@@ -559,12 +559,12 @@ that because that is a very, I think, significant collection of images
 contributing to Singapore’s visual heritage.</p>
 <p><strong>Jimmy<br></strong>Other people have mentioned this to me that,
 you know, that that’s one of the books that they really, really liked.</p>
-<p><strong>Gretchen<br></strong>It’s a very small book and it’s long been
+<p><strong>Gretchen<br></strong>It’s a very small book, and it’s long been
 out of print. But that was public. I can’t remember why. So anyway, eventually
-I did get to do a book of portraits, but it was the Lee Brothers portraits.</p>
+I did get to do a book of portraits, but it was the Lee Brothers’ portraits.</p>
 <p><strong>Jimmy<br></strong>Okay. In addition to the many things that you
 have achieved in your life, you were also the in-house historian for the
-Raffles Hotel. I didn’t know hotels had in-house historians, what does
+Raffles Hotel. I didn’t know hotels had in-house historians. What does
 that mean?</p>
 <p><strong>Gretchen<br></strong>I think it was a very particular set of circumstances.
 So in 1989, it was announced that Raffles Hotel would close and for restoration
@@ -592,11 +592,11 @@ the greater story of the history of travel and tourism in the Far East.
 And that’s a whole another story that involves technology. You know, steamships,
 for example, it involves economics because, you know, the wealth of tin
 and rubber, what it did to Singapore. It involves politics, you know, colonial
-society, it involves so many threads, and how Singapore became a crossroads,
+society. It involves so many threads, and how Singapore became a crossroads,
 you know, it was a coaling station. So all these steamships would pause
-here and, you know, load up coal for their onward journey.</p>
+here and load up coal for their onward journey.</p>
 <p>So that meant that a lot of people that were on trips to Australia or
-to Hong Kong or Philippines or whatever, they stopped in Singapore briefly.
+to Hong Kong or the Philippines or whatever stopped in Singapore briefly.
 And then it was only really in the early 1900s at this notion of travelling
 for pleasure on a cruise ship, as it were, started.</p>
 <p>And, and I remember we found some really remarkable photos of, of like
@@ -607,8 +607,8 @@ using that to tell the story of the hotel.</p>
 <p><strong>Jimmy<br></strong>But the most important question I want to know
 is, were you able to stay in a suite at the Raffles Hotel during this period?</p>
 <p><strong>Gretchen<br></strong>I’ve stayed in it. Of course I did. I have
-to experience it. I mean, not for very long. But I, believe me, I spent
-a lot of time in the suites because I also was involved in buying the antiques
+to experience it. I mean, not for very long. But believe me, I spent a
+lot of time in the suites because I also was involved in buying the antiques
 and artwork for the hotel.</p>
 <p><strong>Jimmy<br></strong>Oh, okay. Oh, nice. Very nice job.</p>
 <p><strong>Gretchen<br></strong>You know, so then, yeah. I knew the rooms
@@ -640,16 +640,16 @@ the politics of the family?</p>
 <p><strong>Gretchen<br></strong>There are no politics. I think everybody
 in the family is just amazed that I’ve been able to and they’re appreciative.
 I mean, I’m a daughter-in-law, right? I’m married to my husband, Thai Ker,
-but my own personal interest, it kind of aligns with what’s happened.</p>
-<p>So, I mean, Liu Kang’s, in a sense is kind of lucky. Because other people,
+but my own personal interest kind of aligns with what’s happened.</p>
+<p>So, I mean, Liu Kang in a sense is kind of lucky. Because other people,
 you know, might’ve thrown things away, but I recognise the value. And Liu
 Kang was a pack rat. So when we cleared the study, I mean, you know, we
-made the big donation to National Library, but you know, I hung on to a
-lot of things that are not specifically related to Singapore.</p>
+made the big donation to National Library, but I hung on to a lot of things
+that are not specifically related to Singapore.</p>
 <p>So we were just lucky that he seems to have had maybe a sense of history.
 And that fed into my own sense of history and interest in history. So I
 think it’s kind of a happy coincidence because I approached this book,
-as someone who is not a family member, but is someone who is more interested
+as someone who is not a family member, but as someone who is more interested
 in, you know, kind of visual culture in Asia and what this can contribute
 to that larger kind of platform.</p>
 <p><strong>Jimmy<br></strong>Okay, well, I mean, Gretchen, thank you very
