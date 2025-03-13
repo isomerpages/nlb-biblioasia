@@ -26,8 +26,7 @@ The art scene from the turn of the 20th century up to the eve of Singapore’s
 independence has been analysed by Yeo Mang Thong as consisting of four
 strands of development:[^1]
 
-1. the period between the late 19th and early 20th   
-   centuries, centring<br> 
+1. the period between the late 19th and early 20th centuries,     centring<br> 
     around individuals of cultural influence, such as Khoo Seok Wan, his<br> 
     literary circle and the sojourning scholars who offered their literati<br> 
     skills (calligraphy and painting) to the Chinese mercantile community;
