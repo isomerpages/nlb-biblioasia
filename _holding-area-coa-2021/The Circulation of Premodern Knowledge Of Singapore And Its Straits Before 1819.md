@@ -230,7 +230,7 @@ cartography and writing reinforced the mental geography of Singapore
 and its straits as a dividing point between two different regions of Asia
 (Figure 1).
 
-<img src="/images/COA%202021/Premodern%20Knowledge/Sixteenth_century_map.jpg" style="width:80%;">
+<img src="/images/COA%202021/Premodern%20Knowledge/Sixteenth_century_map.jpg" style="width:90%;">
 <div style="background-color: white;">Sixteenth-century map reproduced in Jan Huygens van Linschoten’s Itinerario. Singapore
 is marked here as a cape. <i>Exacta et accurata delineatio cùm orarum maritimarum tùm etiam locorum
 terrestrium quae in regionibus China, Cauchinchina, Camboja sive Champa, Sayao, Malacca, Arracan
@@ -339,7 +339,7 @@ the Spanish armada also assembled in 1616. These exploits of large sea forces
 concentrated around Singapore could be read in the European literature of
 the day.[^43] (Figure 3)[^44]
 
-<img src="/images/COA%202021/Premodern%20Knowledge/Portuguese_ships_at_Johor.jpg" style="width:80%;">
+<img src="/images/COA%202021/Premodern%20Knowledge/Portuguese_ships_at_Johor.jpg" style="width:90%;">
 <div style="background-color: white;">Portuguese ships at Johor, off the coast of Singapore. Manoel Godinho de Éredia,
 <i>Historia de serviços com martirio de Luís Mont[eir]o Cout[inh]o, ordenada por Manoel Godinho de
 Erédia, Math[ematic]o. Anno 1615</i> [History of the services and martyrdom of Luís Monteiro Coutinho,
