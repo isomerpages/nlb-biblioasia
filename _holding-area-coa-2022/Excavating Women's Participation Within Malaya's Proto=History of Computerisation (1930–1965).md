@@ -327,7 +327,7 @@ Ang, James and Soh P. H. “The Singapore Government’s Role in National Comput
 
 Computer History Museum. “International Computers and Tabulators, LTD. (ICT).” Accessed 20 July 2022.
 
-Goh, Chor Boon. [_Technology and Entrepôt Colonialism in Singapore, 1819–1940_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200130222)_._ Singapore: Institute of Southeast Asian Studies, 2013. (Call no. RSING 338.064095957 GOH)
+Goh, Chor Boon. [_Technology and Entrepôt Colonialism in Singapore, 1819–1940_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200130222)_._ Singapore: Institute of Southeast Asian Studies, 2013. (From National Library Singapore, call no. RSING 338.064095957 GOH)
 
 Holt, Natalia. _Rise of the Rocket Girls: The Women Who Propelled US, from Missiles to the Moon to Mars_. New York: Little, Brown and Company, 2016.
 
@@ -339,14 +339,13 @@ IBM. “IBM Archives.” Accessed 29 July 2022.
   
 Norberg, Arthur L. “High-Technology Calculation in the Early 20th Century: Punched Card Machinery in Business and Government.” _Technology and Culture_ 31, no. 4 (October 1990): 753–79.  
   
-
 Singapore Trade and Industry. _Government Statistics_. January 1973. Singapore: Singapore Department of Statistics, 1973.
 
-Straits Settlements. _Annual Departmental Reports_. I.D./74. Singapore: Printed at the Government Printing Office, 1934. (Call no. RRARE 354.595 SSADR)
+Straits Settlements. _Annual Departmental Reports_. I.D./74. Singapore: Printed at the Government Printing Office, 1934. (From National Library Singapore, call no. RRARE 354.595 SSADR)
 
 —. _Blue Book of the Year_. Singapore: Government of the Colony of Singapore, 1935. (Microfilm NL3144)
 
-—. _Blue Book_, I.F. 68_._ Singapore: Government Printing Office, 1937. (Call no. RRARE 315.957 SSBB)
+—. _Blue Book_, I.F. 68_._ Singapore: Government Printing Office, 1937. (From National Library Singapore, call no. RRARE 315.957 SSBB)
 
 
 #### **Newspaper Articles** _(From NewspaperSG)_
@@ -474,11 +473,11 @@ _Sunday Tribune._ “[Savings Banks Officials Ready to Handle Any Amount of Busi
 
 [^5]: [Municipal Accounts: Replies to the Statement Made by Major Field](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19220826-1.2.36),” _Malaya Tribune_, 26 August 1922, 7. (From NewspaperSG)
 
-[^6]: “[Colonial Secretary: Change in Budget Procedure](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19340925-1.2.35),” _Singapore Free Press and Mercantile Advertiser_, 25 September 1934, 3 (From NewspaperSG). See also Straits Settlements, _Annual Departmental Reports_, I.D./74 (Singapore: Printed at the Government Printing Office,1934), 38 (Call no. RRARE 354.595 SSADR). However, Chief Accountant P. H. Forbes stated that accounting machines were introduced into the Chief Accountant’s department in 1933. “[Mechanised Accountancy in Malayan Offices](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19350908-1.2.74),” _Straits Times_, 8 September 1935, 18. (From NewspaperSG)
+[^6]: “[Colonial Secretary: Change in Budget Procedure](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19340925-1.2.35),” _Singapore Free Press and Mercantile Advertiser_, 25 September 1934, 3 (From NewspaperSG). See also Straits Settlements, _Annual Departmental Reports_, I.D./74 (Singapore: Printed at the Government Printing Office,1934), 38 (From National Library Singapore, call no. RRARE 354.595 SSADR). However, Chief Accountant P. H. Forbes stated that accounting machines were introduced into the Chief Accountant’s department in 1933. “[Mechanised Accountancy in Malayan Offices](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19350908-1.2.74),” _Straits Times_, 8 September 1935, 18. (From NewspaperSG)
 
 [^7]: Straits Settlements, _Blue Book of the Year_ (Singapore: Government of the Colony of Singapore, 1935), 100. (Microfilm NL3144)
 
-[^8]: “[New Machine System for Municipal Accounts](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19390724-1.2.102),” _Straits Times_, 24 July 1939, 13 (From NewspaperSG). The maintenance fees for the accounting machines were 1,285 Straits dollars a year. The purchase of cards (including freight) for these machines in 1927 cost 3,072.26 Straits dollars. Straits Settlements, _Blue Book_, I.F. 68 (Singapore: Government Printing Office, 1937), 106. (Call no. RRARE 315.957 SSBB)
+[^8]: “[New Machine System for Municipal Accounts](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19390724-1.2.102),” _Straits Times_, 24 July 1939, 13 (From NewspaperSG). The maintenance fees for the accounting machines were 1,285 Straits dollars a year. The purchase of cards (including freight) for these machines in 1927 cost 3,072.26 Straits dollars. Straits Settlements, _Blue Book_, I.F. 68 (Singapore: Government Printing Office, 1937), 106. (From National Library Singapore, call no. RRARE 315.957 SSBB)
 
 [^9]: “[Municipal Accounts Now Compiled by Machinery](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19390724-1.2.80),” _Singapore Free Press and the Mercantile Advertiser_, 24 July 1939, 7. (From NewspaperSG)
 
