@@ -710,7 +710,7 @@ Seeley, John Robert. _The Expansion of England: Two Courses of Lectures_. Boston
 
 [^5]: Ellen C. Cangi, “Civilizing the People of Southeast Asia: Sir Stamford Raffles’ Town Plan for Singapore, 1819–23,” _Planning Perspectives_ 8, no. 2 (1993): 167.
 
-[^6 ]: John Crawfurd, “On the Physical and Mental Characteristics of the European and Asiatic Races of Man,” _Transactions of the Ethnological Society of London_ 5 (1866): 69. (From EBSCOhost via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^6]: John Crawfurd, “On the Physical and Mental Characteristics of the European and Asiatic Races of Man,” _Transactions of the Ethnological Society of London_ 5 (1866): 69. (From EBSCOhost via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
 [^7]: Frederick A. Weld, “[The Straits Settlements and British Malaya](https://www.nlb.gov.sg/main/book-detail?cmsuuid=e16ae115-e10d-4619-bcc4-0e1d97672b71),” transcript of speech given to the Royal Colonial Institute in London, 1884. (From National Library Online; Call no. RRARE 959.503 WEL-\[JSB\]; Accession no. B29268823G)
 
