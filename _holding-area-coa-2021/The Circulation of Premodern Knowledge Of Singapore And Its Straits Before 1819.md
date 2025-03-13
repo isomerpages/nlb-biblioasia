@@ -615,7 +615,7 @@ Miksic, John, and Cheryl-Ann Low Mei Gek, eds. [_Early Singapore, 1300s-1819: Ev
 
 Münster, Sebastian. Cosmographia Oder Beschreibung Der Gantzen Welt etc. \[Cosmography or Description of the whole World, etc.\]. Facsimile reproduction of the Basel edition of 1628. Lindau: Antiqua Verlag, 1978.
 
-Parthesius, Robert_._ [_Dutch Ships in Tropical Waters: The Development of the Dutch East India Company (VOC) Shipping Network in Asia, 1595–1660_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202436665). Amsterdam: Amsterdam University Press, 2010. (Call no. RSEAS 387.509598 PAR)
+Parthesius, Robert. [_Dutch Ships in Tropical Waters: The Development of the Dutch East India Company (VOC) Shipping Network in Asia, 1595–1660_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202436665). Amsterdam: Amsterdam University Press, 2010. (Call no. RSEAS 387.509598 PAR)
 
 Pettegree, Andrew. “Centre and Periphery in the European Book World.” _Transactions of the Royal Historical Society_ 6, no. 18 (2008): 101–28. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
@@ -627,15 +627,15 @@ Preston, Peter. [_Singapore in the Global System: Relationship, Structure and Ch
 
 Pyrard, François. _Voyage de François Pyrard de Laval_. Paris: Chez Louis Billaine, 1679.
 
-—. [_The Voyage of Francois Pyrard of Laval to the East Indies, the Maldives, the Moluccas, and Brazil_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4402069). Edited by Albert Gray. London: Hakluyt Society, 1887. (Call no. RCLOS 910.8 HAK-\[GBH\])
+—. [_The Voyage of Francois Pyrard of Laval to the East Indies, the Maldives, the Moluccas, and Brazil_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4402069), edited by Albert Gray. London: Hakluyt Society, 1887. (Call no. RCLOS 910.8 HAK-\[GBH\])
 
-Schleck, Julia. “Forming Knowledge: Natural Philosophy and English Travel Writing.” In _Travel Narratives, the New Science, and Literary Discourse, 1569–1750_, edited by Judy A. Hayden, 53–70. New York: Routledge, 2012.
+Schleck, Julia. “Forming Knowledge: Natural Philosophy and English Travel Writing.” In *Travel Narratives, the New Science, and Literary Discourse, 1569–1750*. Edited by Judy A. Hayden, 53–70. New York: Routledge, 2012.
 
 Sheehan, J. J. [_Seventeenth-Century Visitors to the Malay Peninsula_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202762730). Singapore: Malayan Branch of the Royal Asiatic Society, 1934. (Call no. RCLOS 915.95 SEV-\[JSB\])
 
 Sim, Meijun Sophie. “Fishing Tales: Singapura Dilanggar Todak as Myth and History in Singapore’s Past.” Master’s thesis, National University of Singapore, 2005.
 
-Skott, Christina. “Imagined Centrality: Sir Stamford Raffles and the Birth of Modern Singapore.” In [_Singapore from Temasek to the 21st Century: Reinventing the Global_ City](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13598385), edited by Karl Hack, Jean-Louis Margolin and Karine Delaye, 155–84. Singapore: NUS Press, 2010. (Call no. RSING 959.57 SIN)
+Skott, Christina. “Imagined Centrality: Sir Stamford Raffles and the Birth of Modern Singapore.” In [_Singapore from Temasek to the 21st Century: Reinventing the Global_ City](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13598385). Edited by Karl Hack, Jean-Louis Margolin and Karine Delaye, 155–84. Singapore: NUS Press, 2010. (Call no. RSING 959.57 SIN)
 
 Swettenham, Frank. [_British Malaya: An Account of the Origin and Progress of British Influence in Malaya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12630215). London: George Allen and Unwin, 1948. (Call no. RCLOS 959.5 SWE-\[GBH\])
 
