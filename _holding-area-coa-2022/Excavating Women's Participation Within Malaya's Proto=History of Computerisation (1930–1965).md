@@ -137,7 +137,7 @@ as engine types, wagon miles, cargo weight, distance travelled, punctuality,
 performance, journeys taken by passengers, and storage of goods.
 
 
-<img src="/images/COA%202022/Excavating%20Women%20Participation/Statistics_Department_of_the_Powers.jpg" style="width:80%;">
+<img src="/images/COA%202022/Excavating%20Women%20Participation/Statistics_Department_of_the_Powers.jpg" style="width:100%;">
  <div style="background-color: white;">A file photograph from the Statistics Department of the Powers-Samas accounting
 machines, 4 December 1956. <i>Courtesy of National Archives of Singapore (media image no. 19980001292–0008).</i></div>
 
@@ -172,7 +172,7 @@ of knowledge transfer, with more locals being trained and taking on
 managerial positions as these corporations deepened their engagement with
 the region.
 
-<img src="/images/COA%202022/Excavating%20Women%20Participation/Straits_Times__24_march_1905.jpg" style="width:80%;">
+<img src="/images/COA%202022/Excavating%20Women%20Participation/Straits_Times__24_march_1905.jpg" style="width:100%;">
  <div style="background-color: white;">One of NCR’s print advertisements. <i>Straits Times, 24 March 1905, 4. (From NewspaperSG).</i></div>
 	
 
@@ -321,7 +321,7 @@ The proto-history of computerisation in Malaya and Singapore – namely
 the transition from manual accounting practices to accounting machines
 
 
-<img src="/images/COA%202022/Excavating%20Women%20Participation/Toh_Chin_Chye__6_March_1964.jpg" style="width:80%;">
+<img src="/images/COA%202022/Excavating%20Women%20Participation/Toh_Chin_Chye__6_March_1964.jpg" style="width:100%;">
  <div style="background-color: white;">Deputy Prime Minister Dr Toh Chin Chye (third from left) at the inauguration of the
 Computer Service Department at the Treasury, 6 March 1964. <i>Courtesy of National Archives of
 Singapore (media image no. 19980000360-0005).</i></div>
