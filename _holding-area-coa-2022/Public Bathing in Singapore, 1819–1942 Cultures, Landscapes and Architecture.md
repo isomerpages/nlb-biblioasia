@@ -794,9 +794,9 @@ Singapore Amateur Swimming Association. [_Singapore Amateur Swimming Association
 
 Singapore Swimming Club. [_Official Opening of New Club House_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4981547). Singapore: Straits Times Press, 1936. (Call no. RRARE 797.200605957 SIN; Microfilm NL9938)
 
-Syonan, Tokubetu-si. [_The Good Citizen’s Guide_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=08202d8b-1b30-4a2d-805d-4ed9f7d21b9b). Singapore: Syonan Sinbun, 1943. (From BookSG; Call no. RRARE 348.5957026 SYO-\[LKL\]; Microfilm NL7400)
+Syonan, Tokubetu-si. [_The Good Citizen’s Guide_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=08202d8b-1b30-4a2d-805d-4ed9f7d21b9b). Singapore: Syonan Sinbun, 1943. (From National Library Online; Call no. RRARE 348.5957026 SYO-\[LKL\]; Microfilm NL7400)
 
-Tan, Choon Kiat. “A History of Tanjong Pagar: 1823–1911_._” BA (Hons) thesis. National University of Singapore, 1989, &nbsp;[https://scholarbank.nus.edu.sg/handle/10635/166935](https://scholarbank.nus.edu.sg/handle/10635/166935).
+Tan, Choon Kiat. “A History of Tanjong Pagar: 1823–1911_._” BA (Hons) thesis, National University of Singapore, 1989, &nbsp;[https://scholarbank.nus.edu.sg/handle/10635/166935](https://scholarbank.nus.edu.sg/handle/10635/166935).
 
 Turnbull, C. M. [_A History of Modern Singapore 1819–2005_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13206047). Singapore: NUS Press, 2009. (Call no. RSING 959.57 TUR-\[HIS\])
 
