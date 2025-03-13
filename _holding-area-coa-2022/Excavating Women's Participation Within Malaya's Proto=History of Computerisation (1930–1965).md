@@ -52,7 +52,8 @@ machines were considered a marvel:
 
      consumer names and addresses together with their dealings
 
-     with the department. These are automatically sorted and then
+     with the department. These are automatically sorted and 
+		 then
 
      run through a tabulating machine which prints the bills, with
 
