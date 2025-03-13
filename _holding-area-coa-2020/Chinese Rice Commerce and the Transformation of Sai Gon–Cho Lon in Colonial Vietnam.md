@@ -165,11 +165,11 @@ projects, however, British observers presented a different opinion, calling
 Sài Gòn “the Paris of the East” and “the Pearl of the Orient” as they waxed
 lyrical about its exuberant modernity:
 
-   The streets become wider, the houses and shops more resplendent,<br> 
-   and further on, as we approach the beautiful cathedral, we come<br> 
-   across wide boulevards, and pass beautiful residences of the<br> 
-   French inhabitants and fine government buildings… The cost of<br> 
-   living in Sài Gòn must be extremely high.[^19]
+  The streets become wider, the houses and shops more<br>   resplendent,<br> 
+  and further on, as we approach the beautiful cathedral, we come<br> 
+across wide boulevards, and pass beautiful residences of the<br> 
+French inhabitants and fine government buildings… The cost of<br> 
+living in Sài Gòn must be extremely high.[^19]
 
 <img src="/images/COA%202020/Chinese%20Rice%20Commerce/The_Southeast_Asian_rice_network.jpg" style="width:50%;">
  <div style="background-color: white;">The Southeast Asian rice network, c. 1910.</div>	 
@@ -1052,5 +1052,3 @@ Wong, Yee Tuan. [_Penang Chinese Commerce in the 19th Century: The Rise and Fall
 [^86]: Anthony Reid, [_Southeast Asia in the Age of Commerce, 1450–1680_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4305251) (New Haven: Yale University Press, 1988). (From National Library Singapore, call no. RSEA 959 REI)
 
 [^87]: Meeting of the Sài Gòn Chamber of Commerce, Session 321, GOUCOCH L.0 N5522, TTLTQG-II, HCMC, 29 December 1893.
-
-
