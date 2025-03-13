@@ -63,9 +63,12 @@ deep into early 20th-century Chinese art history. Her latest book is <em><a href
 <details class="isomer-details">
 <summary>Resources</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Gretchen Liu, <a href="https://catalogue.nlb.gov.sg/search/card?recordId=300094843" rel="noopener noreferrer nofollow" target="_blank">Bali 1952: Through the Lens of Liu Kang</a> (Singapore:
+<p>Gretchen Liu,<em> <a href="https://catalogue.nlb.gov.sg/search/card?recordId=300094843" rel="noopener noreferrer nofollow" target="_blank">Bali 1952: Through the Lens of Liu Kang</a></em> (Singapore:
 National Library Board and World Scientific, 2025). (From National Library
-Singapore, call no. SING 779.995986 LIU)</p>
+Singapore, call no. SING 779.995986 LIU)
+<br>
+<br>Gretchen Liu, “<a href="https://biblioasia.nlb.gov.sg/vol-21/issue-1/apr-jun-2025/liu-kang-forgotten-photographs-bali/" rel="noopener nofollow" target="_blank">Forgotten Photographs of the 1952 Trip to Bali</a>,” <em>BiblioAsia </em>21,
+no. 1.</p>
 <p>&nbsp;</p>
 <p>Liu Kang, oral history interview by Tan Beng Luan, 13 January 1983,&nbsp;
 <a href="https://www.nas.gov.sg/archivesonline/flipviewer/publish/e/e0c68c78-115d-11e3-83d5-0050568939ad-OHC000171_039Eng/web/html5/index.html" rel="noopener noreferrer nofollow" target="_blank">transcript</a>&nbsp;and MP3 Audio, Reel/Disc 39 of 74, National Archives
