@@ -572,7 +572,7 @@ Butcher, John G. [_The British in Malaya, 1880–1941: The Social History of a E
 
 Chen, Mong Hock. [_The Early Chinese Newspapers of Singapore, 1881–1912_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082030). Singapore: University of Malaya Press, 1967. (Call no. RSING 079.5702 CHE)
 
-Choi, Kwai Keong. “A Century of the Chinese Dailies.” In [_A General History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203868804), edited by Chong Guan Kwa and Bak Lim Kua, 389–415. Singapore: World Scientific, 2019. (Call no. RSING 305.895105957 GEN)
+Choi, Kwai Keong. “A Century of the Chinese Dailies.” In [_A General History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203868804). Edited by Chong Guan Kwa and Bak Lim Kua, 389–415. Singapore: World Scientific, 2019. (Call no. RSING 305.895105957 GEN)
 
 Chua, Ai Lin. “Nation, Race, and Language: Discussing Transnational Identities in Colonial Singapore, circa 1930.” In [_Sites of Asian Interaction: Ideas, Networks and_ Mobility](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201196369). Edited by Tim Harper and Sunil Amrith, 60–78. Cambridge: Cambridge University Press, 2014.
 
@@ -580,7 +580,7 @@ Davidoff, Leonore and Catherine Hall. _Family Fortunes: Men and Women of the Eng
 
 Davidson, G. F. [_Trade and Travel in the Far East; or Recollections of 21 Years Passed in Java, Singapore, Australia and China_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2eec9199-4eee-4b47-91bf-ce2c21f2fb03). London: Madden and Malcolm, 1846. (From National Library Online)
 
-Fischer-Tiné, Harald. “Liquid Boundaries: Race, Class, and Alcohol in Colonial India.” In _A History of Alcohol and Drugs in Modern South Asia: Intoxicating Affairs_, edited by Harald Fischer-Tiné and Jana Tschurenev, 89–115. London: Routledge, 2013.
+Fischer-Tiné, Harald. “Liquid Boundaries: Race, Class, and Alcohol in Colonial India.” In *A History of Alcohol and Drugs in Modern South Asia: Intoxicating Affairs*. Edited by Harald Fischer-Tiné and Jana Tschurenev, 89–115. London: Routledge, 2013.
 
 Fischer-Tiné, Harald and Christina Whyte. “Introduction: Empire and Emotions.” In [_Anxieties, Fear and Panic in Colonial Settings: Empires on the Verge of a Nervous Breakdown_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203114617). Edited by Harald Fischer-Tiné, 1–23. London: Palgrave Macmillan, 2016. (Call no. R 325.32 ANX)
 
@@ -588,7 +588,7 @@ Gunavalli, A. Sundaraju. “The Tamil Murasu: The Evolution of a Local Tamil New
 
 Holmberg, Erik. “Public Celebrations in Colonial Singapore – with Particular Reference to a Case Study of Celebration and Homicide in 1872.” In [_Chapters on Asia: A Selection of Papers from the Lee Kong Chian Research Fellowship_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=9939d7bf-ee29-44d1-ae82-01269d2d029c)_,_ 88–115. Singapore: National Library Board, Singapore, 2014. (From National Library Online)
 
-Jackson, Will and Emily J. Manktelow. “Introduction: Thinking with Deviance.” In _Subverting Empire: Deviance and Disorder in the British Colonial World_, edited by Will Jackson and Emily J. Manktelow, 1–21. London: Palgrave Macmillan, 2015.
+Jackson, Will and Emily J. Manktelow. “Introduction: Thinking with Deviance.” In _Subverting Empire: Deviance and Disorder in the British Colonial World_. edited by Will Jackson and Emily J. Manktelow, 1–21. London: Palgrave Macmillan, 2015.
 
 Lee, Meiyu. “[From Lat Pau to Zaobao: A History of Chinese Newspapers](https://biblioasia.nlb.gov.sg/vol-15/issue-4/jan-mar-2020/from-lat-pau-zaobao/).” _BiblioAsia_ 15, no. 4 (2020): 44–49.
 
@@ -624,7 +624,7 @@ Wang, Kangding 王慷鼎. “Xinjiapo huawen yanjiu yu qianzhan” 新加坡华�
 
 Wright, Ashley. “Maintaining the Bar: Regulating European Barmaids in Colonial Calcutta and Rangoon.” _Journal of Imperial and Commonwealth History_ 45, no. 1 (2017): 22–45.
 
-Wright, David and John Weaver. “Introduction.” In _Histories of Suicide: International Perspectives on Self-Destruction in the Modern World_, edited by John Weaver and David Wright, 3–18. Toronto: University of Toronto Press, 2009.
+Wright, David and John Weaver. “Introduction.” In _Histories of Suicide: International Perspectives on Self-Destruction in the Modern World_. Edited by John Weaver and David Wright, 3–18. Toronto: University of Toronto Press, 2009.
 
 **Newspaper Articles** _(From NewspaperSG)_
 
