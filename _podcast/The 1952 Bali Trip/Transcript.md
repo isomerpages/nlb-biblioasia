@@ -490,14 +490,14 @@ in my little community, and my job was to shelve books. You know, in those
 days, you, you know, there’d be like a trolley and people returned the
 books and then, you know, and then you come in and then your job was to
 kind of put them back on the shelf.</p>
-<p>And, when I recall that, that summer, I remember that I would spend a
-lot of time in the illustrated book section. I was, you know, pulling out
-the books and looking and so on. So I think from an early age, I already
-had that, that interest. But when I came to Singapore, in the mid-’70s,
-the focus was on building a nation. And heritage and history weren’t really
-topics that were on the top of the list. I met a couple of people who were
-very keen collectors of Singapore memorabilia. It kind of started because
-in 84, I did a book called <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082440" rel="noopener noreferrer nofollow" target="_blank">Pastel Portraits</a>,</em> and
+<p>And, when I recall that summer, I remember that I would spend a lot of
+time in the illustrated book section. I was, you know, pulling out the
+books and looking and so on. So I think from an early age, I already had
+that interest. But when I came to Singapore, in the mid-’70s, the focus
+was on building a nation. And heritage and history weren’t really topics
+that were on the top of the list. I met a couple of people who were very
+keen collectors of Singapore memorabilia. It kind of started because in
+84, I did a book called <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082440" rel="noopener noreferrer nofollow" target="_blank">Pastel Portraits</a>,</em> and
 in that, Singapore’s architectural heritage. And in that book, you know,
 I said to the designer, “Let’s try to get some images of the way things
 were.”</p>
@@ -510,9 +510,9 @@ of coalesced and at that time in the early ’80s, when I commissioned and
 then edited this book on <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4368234" rel="noopener noreferrer nofollow" target="_blank">G. R. Lambert and Co.</a>,
 very few people were interested in the subject of early photography, just
 not really photography in Singapore, but early photography in Asia. But,
-you know, in the ’80s and ’90s and the 2000s now, you know, the study of,
-you know, photographic history, the study of images, visual culture, you
-know, the whole [field], that’s exploded.</p>
+you know, in the ’80s and ’90s and the 2000s now, the study of photographic
+history, the study of images, visual culture, you know, the whole [field],
+that’s exploded.</p>
 <p><strong>Jimmy<br></strong>Definitely. In part, thanks to you, right? Because
 I mean, once you have these books and you put them in the library, and
 of course in bookstores where people can buy them, you know, then people
