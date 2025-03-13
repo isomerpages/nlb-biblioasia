@@ -622,7 +622,7 @@ _Straits Eurasian Advocate._ “[Extracts](https://eresources.nlb.gov.sg/newspap
 
 —. “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880630-1.2.8.1).” 30 June 1888, 3.
 
-_Straits Observer (Singapore)_. “Untitled.” 5 November 1875, 2.
+ _Straits Observer (Singapore)_. “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751105-1.2.3).” 5 November 1875, 2.
 
 —. “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751112-1.2.3).” 12 November 1875, 2.
 
