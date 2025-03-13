@@ -110,12 +110,7 @@ hour as part of unit “accounting”.[^19] As the  <i> Singapore Free Press </i
 
   Surrounded by an array of intricate electrical machines and 
 <br>   working to the accompaniment of weird-pitched, high
-<br>    
-  sounding clicking noises all day long, these girls do perhaps one
-<br>   
-  of the queerest jobs in town. But, their job is not only queer; it
-<br>   
-  is highly responsible.[^20]
+<br>  sounding clicking noises all day long, these girls do perhaps one<br>  of the queerest jobs in town. But, their job is not only queer; it<br>  is highly responsible.[^20]
 		 
 	
 The belief was that women were temperamentally more suitable than
