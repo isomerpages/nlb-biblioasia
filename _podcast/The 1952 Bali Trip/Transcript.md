@@ -653,7 +653,7 @@ as someone who is not a family member, but is someone who is more interested
 in, you know, kind of visual culture in Asia and what this can contribute
 to that larger kind of platform.</p>
 <p><strong>Jimmy<br></strong>Okay, well, I mean, Gretchen, thank you very
-much for coming to <em>BiblioAsia+</em> You know, the book <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=300094843" rel="noopener noreferrer nofollow" target="_blank">Bali 1952: Through the Lens of Liu Kang</a></em> is
+much for coming to <em>BiblioAsia+.</em> You know, the book <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=300094843" rel="noopener noreferrer nofollow" target="_blank">Bali 1952: Through the Lens of Liu Kang</a></em> is
 now available in bookstores but also available, obviously, to be borrowed
 or referred to at the library.</p>
 <p><strong>Gretchen<br></strong>Yes.</p>
