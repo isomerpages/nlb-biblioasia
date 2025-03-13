@@ -255,25 +255,11 @@ monthly rated government employees was also reduced, from 26 days to 8.[^40]
 A Straits Times correspondent had earlier described the setup in celebratory
 and futuristic tones:
 
-     
-In a big air-conditioned office in Fullerton Building, a modern
-
-     office is taking shape. An office common to giant commercial
-
-     complexes of New York and London. Gone from this office,
-
-     eventually will be the normal complement of clerks and typists.
-
-     
-Coming into its place: Rows and rows of girls punching holes
-
-     on automatic machines-and serving the “brain.” The brain
-
-     is an electronic computer just installed in the third floor of
-
-     the building for processing accounts and statistics of the
-
-     Finance Ministry.[^41]
+  In a big air-conditioned office in Fullerton Building, a modern<br>
+  office is taking shape. An office common to giant commercial<br>  complexes of New York and London. Gone from this office,<br>
+  eventually will be the normal complement of clerks and typists<br>  Coming into its place: Rows and rows of girls punching holes<br>  on automatic machines-and serving the “brain.” The brain<br>  
+is an electronic computer just installed in the third floor of<br>  the building for processing accounts and statistics of the<br>
+  Finance Ministry.[^41]
 
 Around 20 of the unit’s 60 female clerk-operators were already trained
 to turn “facts and figures into codes” using the new computers, punching
