@@ -48,16 +48,12 @@ Straits dollars, together with punch cards (an annually recurring purchase)
 for 1,783.04 Straits dollars.[^7] A few years later, a new system was installed; the
 machines were considered a marvel:
 
-     Special cards are punched for each consumer, showing 
-
-     consumer names and addresses together with their dealings
-
-     with the department. These are automatically sorted and 
-		 then
-
-     run through a tabulating machine which prints the bills, with
-
-     duplicates which are bound to form a ledger.[^8]
+  Special cards are punched for each consumer, showing<br> 
+  consumer names and addresses together with their dealings<br>
+  with the department. These are automatically sorted and 
+		 then<br>
+  run through a tabulating machine which prints the bills, with<br>
+  duplicates which are bound to form a ledger.[^8]
 
 At that point in the late 1930s, 2,000 out of 40,000 of the Municipal
 accounts had been mechanised; a full changeover was expected to be
