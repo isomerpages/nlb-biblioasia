@@ -663,12 +663,12 @@ down.</p>
 <p><strong>Jimmy<br></strong>And, oh, I forgot to mention that actually on
 the <em>BiblioAsia</em> website, there are a few articles, essays about the
 exhibition related to Liu Kang and related to the exhibition. So if you
-go down to <a rel="noopener noreferrer nofollow" target="_blank">BiblioAsia.nlb.gov.sg</a>,
-you’ll be able to read these essays, one of which is the preface. So if
-you cannot afford to buy the book, at least read the preface and, you know,
-hopefully that will persuade you to buy or borrow that book.</p>
+go down to the BiblioAsia website, you’ll be able to read these essays,
+one of which is the <a href="https://biblioasia.nlb.gov.sg/vol-21/issue-1/apr-jun-2025/liu-kang-forgotten-photographs-bali/" rel="noopener nofollow" target="_blank">preface</a>.
+So if you cannot afford to buy the book, at least read the preface and,
+you know, hopefully that will persuade you to buy or borrow that book.</p>
 <p>Gretchen, once again, thank you very much.</p>
 <p><strong>Gretchen<br></strong>Thank you, Jimmy.</p>
 <p><strong>Jimmy <br></strong>If you’ve enjoyed this episode, subscribe to
-this podcast and the <em><a href="https://form.gov.sg/616799db4d9b61001398f79b" rel="noopener noreferrer nofollow" target="_blank">BiblioAsia newsletter</a></em>.
-Thanks for joining us on <em>BiblioAsia+</em>.</p>
+this podcast and the <em><a href="https://form.gov.sg/616799db4d9b61001398f79b" rel="noopener noreferrer nofollow" target="_blank">BiblioAsia </a></em>
+<a href="https://form.gov.sg/616799db4d9b61001398f79b" rel="noopener noreferrer nofollow" target="_blank">newsletter</a>. Thanks for joining us on <em>BiblioAsia+</em>.</p>
