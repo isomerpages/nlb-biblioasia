@@ -165,7 +165,7 @@ the structure perfectly adequate, hoping its establishment would provide a
 place for public bathing for years to come. The “rudeness” of the enclosure
 most likely refers to its regional vernacular construction. The battery *pagar* 
 
-<img src="/images/COA%202022/Public%20Bathing%20in%20Singapore/Royal_Air_Force_Seletar__1930.jpg" style="width:80%;">
+<img src="/images/COA%202022/Public%20Bathing%20in%20Singapore/Royal_Air_Force_Seletar__1930.jpg" style="width:90%;">
 <div style="background-color: white;">Swimming <i>Pagar</i> at Royal Air Force Seletar, c. 1930, One of a Series of Swimming enclosures Built at Military Bases in the 1920s and 1930s. <i>Courtesy of National Archives of Singapore (accession
 no. 19980002873-0048).</i></div>
 
