@@ -588,7 +588,7 @@ Crawfurd, John. “On the Physical and Mental Characteristics of the European an
 
 Makepeace, Walter. “Institutions and Clubs.” In [_One Hundred Years of Singapore: Being Some Account of the Capital of the Straits Settlements From Its Foundation by Sir Stamford Raffles on the 6th February 1819 to the 6th February 1919_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4183132), vol. 2, edited by Walter Makepeace, Gilbert E. Brooke and Roland St. J. Braddell. Facsimile reprint, 2016. Singapore: Oxford University Press, 1921. (Call no. RSING 959.57 ONE-\[HIS\])
 
-Weld, Frederick A. “[The Straits Settlements and British Malaya](https://www.nlb.gov.sg/main/book-detail?cmsuuid=e16ae115-e10d-4619-bcc4-0e1d97672b71).” Transcript of speech given to the Royal Colonial Institute in London, 23 June 1884. (From BookSG; Call no. RRARE 959.503 WEL-\[JSB\]; Accession no. B29268823G)
+Weld, Frederick A. “[The Straits Settlements and British Malaya](https://www.nlb.gov.sg/main/book-detail?cmsuuid=e16ae115-e10d-4619-bcc4-0e1d97672b71).” Transcript of speech given to the Royal Colonial Institute in London, 23 June 1884. (From National Library Online; Call no. RRARE 959.503 WEL-\[JSB\]; Accession no. B29268823G)
 
 **Newspaper Articles** _(From NewspaperSG)_
 
