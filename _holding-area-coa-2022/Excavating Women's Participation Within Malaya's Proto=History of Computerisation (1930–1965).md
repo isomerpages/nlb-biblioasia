@@ -87,15 +87,11 @@ to install the Powers-Samas machines in three years’ time. The paper’s
 comments reflected an underlying anxiety over the accounting machines,
 and their women operators:
 
-     It is understood that a proposal has been made to the Crown
-
-     agents to send out about twenty girls with accounting machines
-
-     for the Accounts Department of the F.M.S. [Federated Malay
-
-     States] Railways. The idea, apparently, is to do away with the
-
-     majority of the present staff and train girls for employment.[^16]
+  It is understood that a proposal has been made to the Crown<br>
+  agents to send out about twenty girls with accounting machines<br>
+  for the Accounts Department of the F.M.S. [Federated Malay<br>
+  States] Railways. The idea, apparently, is to do away with the<br>
+majority of the present staff and train girls for employment.[^16]
 
 Nonetheless, the employment of women proceeded as planned. The
 Asian women operators, known as clerk-operators, were supervised by Mrs
