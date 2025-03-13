@@ -740,25 +740,25 @@ South Wales, Australia.</div>
 
          
 
-Aplin, Nick. “The Rise of Modern Sport in Colonial Singapore: The Singapore Cricket Club Leads the Way.” In [_The Routledge Handbook of Sport in Asia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=204518097), edited by Fan Hong and Lu Zhouxiang, 190–205. New York: Routledge, 2021. (Call no. RSING 796.095 ROU)
+Aplin, Nick. “The Rise of Modern Sport in Colonial Singapore: The Singapore Cricket Club Leads the Way.” In [_The Routledge Handbook of Sport in Asia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=204518097), edited by Fan Hong and Lu Zhouxiang, 190–205. New York: Routledge, 2021. (From National Library Singapore, call no. RSING 796.095 ROU)
 
 —. “Sport in Singapore (1945–1948): From Rehabilitation to Olympic Status.” _International Journal of the History of Sport_ 33, no. 12 (2016): 1361– 79.
 
-—. [_Sport in Singapore: The Colonial Legacy_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203990042). Singapore: Straits Times Press, 2019. (Call no. RSING 796.095957 APL)
+—. [_Sport in Singapore: The Colonial Legacy_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203990042). Singapore: Straits Times Press, 2019. (From National Library Singapore, call no. RSING 796.095957 APL)
 
-De Bonneville, Francoise. _The Book of the Bath_. New York: Rizzoli, 1998. (Call no. RUR 391.64 BON)
+De Bonneville, Francoise. _The Book of the Bath_. New York: Rizzoli, 1998. (From National Library Singapore, call no. RUR 391.64 BON)
 
 Bradley, Ian. _Health, Hedonism and Hypochondria: The Hidden History of Spas._ London: Tauris Parks, 2020.
 
-Buckley, Charles Burton. [_An Anecdotal History of Old Times in Singapore 1819– 1967_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082239). Singapore: Oxford University Press, 1984. (Call no. RSING 959.57 BUC-\[HIS\])
+Buckley, Charles Burton. [_An Anecdotal History of Old Times in Singapore 1819– 1967_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082239). Singapore: Oxford University Press, 1984. (From National Library Singapore, call no. RSING 959.57 BUC-\[HIS\])
 
-Butcher, John G. [_The British in Malaya 1880–1941: The Social History of a European Community in Colonial South-East Asia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1901870). Kuala Lumpur: Oxford University Press, 1979. (Call no. RSING 301.4512105951033 BUT)
+Butcher, John G. [_The British in Malaya 1880–1941: The Social History of a European Community in Colonial South-East Asia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1901870). Kuala Lumpur: Oxford University Press, 1979. (From National Library Singapore, call no. RSING 301.4512105951033 BUT)
 
 Chan, Ying-Kit. “‘Sports is Politics’: Swimming (and) Pools in Postcolonial Singapore.” _Asian Studies Review_ 40, no. 1 (2016): 21.
 
-Cheong, K. L. and Chia K. Y. “Early Years.” In [_The Chinese Swimming Club Souvenir 1951_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14313506), 15–28. Singapore: Chinese Swimming Club, 1951. (Call no. RUR 797.2106095957)
+Cheong, K. L. and Chia K. Y. “Early Years.” In [_The Chinese Swimming Club Souvenir 1951_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14313506), 15–28. Singapore: Chinese Swimming Club, 1951. (From National Library Singapore, call no. RUR 797.2106095957)
 
-Chinese Swimming Club (Singapore). [_The Chinese Swimming Club Souvenir 1951_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14313506). Singapore: Chinese Swimming Club, 1951. (Call no. RUR 797.2106095957)
+Chinese Swimming Club (Singapore). [_The Chinese Swimming Club Souvenir 1951_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14313506). Singapore: Chinese Swimming Club, 1951. (From National Library Singapore, call no. RUR 797.2106095957)
 
 Copping, Lynne. _Life on Pulau Brani_, letter from Bob Pattimore. Singapore Memory Project. Accessed 15 June 2023.  
   
@@ -768,29 +768,29 @@ Gagan, J. A. _The Singapore Swimming Club: An Illustrated History and Descriptio
 
 Giedion, Sigfried. _Mechanisation Takes Command_. New York: Oxford University Press, 1948.
 
-Gray, Fred. [_Designing the Seaside: Architecture, Society and Nature_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12806976). London: Reaktion, 2006. (Call no. RART 720.941 GRA)
+Gray, Fred. [_Designing the Seaside: Architecture, Society and Nature_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12806976). London: Reaktion, 2006. (From National Library Singapore, call no. RART 720.941 GRA)
 
 Horton, Peter. “Singapore: Imperialism and Post-Imperialism, Athleticism, Sport, Nationhood and Nation-building.” _International Journal of the History of Sport_ 30, no. 11 (2013): 1221–34.
 
-Jackson, C. [_Our Singapore: Sketches of Local Life_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205742123). Singapore: n.p., 1914. (Call no. RRARE 959.57 JAC)
+Jackson, C. [_Our Singapore: Sketches of Local Life_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205742123). Singapore: n.p., 1914. (From National Library Singapore, call no. RRARE 959.57 JAC)
 
-Lau, Jocelyn and Lucien Low, eds. [_Great Lengths: Singapore’s Swimming Pools_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202710137). 2nd ed. Singapore: Kucinta, 2017. (Call no. RSING 797.20095957 GRE)
+Lau, Jocelyn and Lucien Low, eds. [_Great Lengths: Singapore’s Swimming Pools_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202710137). 2nd ed. Singapore: Kucinta, 2017. (From National Library Singapore, call no. RSING 797.20095957 GRE)
 
-Lee, C. Q. “25 Years of Progress and Expansion.” In [_The Chinese Swimming Club Souvenir 1951_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14313506), 29–32_._ Singapore: Chinese Swimming Club, 1951. (Call no. RUR 797.2106095957)
+Lee, C. Q. “25 Years of Progress and Expansion.” In [_The Chinese Swimming Club Souvenir 1951_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14313506), 29–32_._ Singapore: Chinese Swimming Club, 1951. (From National Library Singapore, call no. RUR 797.2106095957)
 
 Lindley, Kenneth. _Seaside Architecture._ London: Hugh Evelyn, 1973.
 
-Lockhart, R. H. Bruce. [_Return to Malaya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1881681). London: Putnam, 1936. (Call no. RCLOS 959.5 LOC-\[ET\])
+Lockhart, R. H. Bruce. [_Return to Malaya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1881681). London: Putnam, 1936. (From National Library Singapore, call no. RCLOS 959.5 LOC-\[ET\])
 
-Makepeace, Walter, Gilbert E. Brooke and Roland St. J. Braddell, eds. [_One Hundred Years of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6203718)_._ Singapore: Oxford University Press, 1991. (Call no. RSING 959.57 ONE-\[HIS\])
+Makepeace, Walter, Gilbert E. Brooke and Roland St. J. Braddell, eds. [_One Hundred Years of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6203718)_._ Singapore: Oxford University Press, 1991. (From National Library Singapore, call no. RSING 959.57 ONE-\[HIS\])
 
-Ong, Edward K. W., ed. [_The YMCA of Singapore: 90 Years of Service to the Community_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6377686). Singapore: YMCA, 1992. (Call no. RSING 267.395957 YMC)
+Ong, Edward K. W., ed. [_The YMCA of Singapore: 90 Years of Service to the Community_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6377686). Singapore: YMCA, 1992. (From National Library Singapore, call no. RSING 267.395957 YMC)
 
 Peter, Bruce. _Form Follows Fun: Modernism and Modernity in British Pleasure Architecture 1925–1940_. London: Routledge, 2007.
 
 Saunders, John and Peter Horton. “Goodbye Renaissance Man: Globalised Concepts of Physical Education and Sport in Singapore.” _Sport in Society_ 15, no. 10 (2012): 1381–95.
 
-Singapore Amateur Swimming Association. [_Singapore Amateur Swimming Association, 1939–1989_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5490562). Singapore: SASA, 1989. (Call no. RSING 797.200605957 SIN)
+Singapore Amateur Swimming Association. [_Singapore Amateur Swimming Association, 1939–1989_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5490562). Singapore: SASA, 1989. (From National Library Singapore, call no. RSING 797.200605957 SIN)
 
 Singapore Swimming Club. [_Official Opening of New Club House_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4981547). Singapore: Straits Times Press, 1936. (Call no. RRARE 797.200605957 SIN; Microfilm NL9938)
 
@@ -798,13 +798,13 @@ Syonan, Tokubetu-si. [_The Good Citizen’s Guide_](https://www.nlb.gov.sg/main/
 
 Tan, Choon Kiat. “A History of Tanjong Pagar: 1823–1911_._” BA (Hons) thesis, National University of Singapore, 1989, &nbsp;[https://scholarbank.nus.edu.sg/handle/10635/166935](https://scholarbank.nus.edu.sg/handle/10635/166935).
 
-Turnbull, C. M. [_A History of Modern Singapore 1819–2005_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13206047). Singapore: NUS Press, 2009. (Call no. RSING 959.57 TUR-\[HIS\])
+Turnbull, C. M. [_A History of Modern Singapore 1819–2005_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13206047). Singapore: NUS Press, 2009. (From National Library Singapore, call no. RSING 959.57 TUR-\[HIS\])
 
-Yap, R., ed. [_Singapore Chinese Swimming Club: 88 Years and Beyond_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84567655). Singapore: Chinese Swimming Club, 1998. (Call no. RSING q797.21095957 SIN)
+Yap, R., ed. [_Singapore Chinese Swimming Club: 88 Years and Beyond_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84567655). Singapore: Chinese Swimming Club, 1998. (From National Library Singapore, call no. RSING q797.21095957 SIN)
 
-Yeo, Toon Joo, ed. [_Singapore Swimming Club: The First 100 Years_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7401149). Singapore: YTJ and Singapore Swimming Club, 1994. (Call no. RSING 797.210605957 TAN)
+Yeo, Toon Joo, ed. [_Singapore Swimming Club: The First 100 Years_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7401149). Singapore: YTJ and Singapore Swimming Club, 1994. (From National Library Singapore, call no. RSING 797.210605957 TAN)
 
-Yeoh, Brenda S. A. [_Contesting Space in Colonial Singapore: Power Relations and the Urban Built Environment_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11827061). Singapore: NUS Press, 2003. (Call no. RSING 307.76095957 YEO)
+Yeoh, Brenda S. A. [_Contesting Space in Colonial Singapore: Power Relations and the Urban Built Environment_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11827061). Singapore: NUS Press, 2003. (From National Library Singapore, call no. RSING 307.76095957 YEO)
 
 **Newspaper Articles** _(From NewspaperSG)_
 
@@ -1040,11 +1040,11 @@ _Straits Times Weekly Issue_. “[Another Growl](https://eresources.nlb.gov.sg/n
 
 [^4]: Chan, “‘Sports is Politics’,” 21.
 
-[^5]: Jocelyn Lau and Lucien Low, eds., [_Great Lengths: Singapore’s Swimming Pools_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202710137), 2nd ed. (Singapore: Kucinta, 2017) (Call no. RSING 797.20095957 GRE); R. Yap, ed., [_Singapore Chinese Swimming Club: 88 Years and Beyond_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84567655) (Singapore: Chinese Swimming Club, 1998) (Call no. RSING q797.21095957 SIN); Yeo Toon Joo, ed., [_Singapore Swimming Club: The First 100 Years_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7401149) (Singapore: YTJ and Singapore Swimming Club, 1994) (Call no. RSING 797.210605957 TAN); Chinese Swimming Club (Singapore), [_The Chinese Swimming Club Souvenir 1951_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14313506) (Singapore: Chinese Swimming Club, 1951) (Call no. RUR 797.2106095957); J. A. Gagan, _The Singapore Swimming Club: An Illustrated History and Description of the Club_ (Singapore: Times Printers, 1968).
+[^5]: Jocelyn Lau and Lucien Low, eds., [_Great Lengths: Singapore’s Swimming Pools_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202710137), 2nd ed. (Singapore: Kucinta, 2017) (From National Library Singapore, call no. RSING 797.20095957 GRE); R. Yap, ed., [_Singapore Chinese Swimming Club: 88 Years and Beyond_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84567655) (Singapore: Chinese Swimming Club, 1998) (From National Library Singapore, call no. RSING q797.21095957 SIN); Yeo Toon Joo, ed., [_Singapore Swimming Club: The First 100 Years_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7401149) (Singapore: YTJ and Singapore Swimming Club, 1994) (From National Library Singapore, call no. RSING 797.210605957 TAN); Chinese Swimming Club (Singapore), [_The Chinese Swimming Club Souvenir 1951_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14313506) (Singapore: Chinese Swimming Club, 1951) (From National Library Singapore, call no. RUR 797.2106095957); J. A. Gagan, _The Singapore Swimming Club: An Illustrated History and Description of the Club_ (Singapore: Times Printers, 1968).
 
-[^6]: John Saunders and Peter Horton, “Goodbye Renaissance Man: Globalised Concepts of Physical Education and Sport in Singapore,” _Sport in Society_ 15, no. 10 (2012): 1381–95; Peter Horton, “Singapore: Imperialism and Post-Imperialism, Athleticism, Sport, Nationhood and Nation-building,” _International Journal of the History of Sport_ 30, no. 11 (2013): 1221–34; Nick Aplin, “The Rise of Modern Sport in Colonial Singapore: The Singapore Cricket Club Leads the Way,” in [_The Routledge Handbook of Sport in Asia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=204518097), ed. Fan Hong and Lu Zhouxiang (New York: Routledge, 2021), 190–205. (Call no. RSING 796.095 ROU)
+[^6]: John Saunders and Peter Horton, “Goodbye Renaissance Man: Globalised Concepts of Physical Education and Sport in Singapore,” _Sport in Society_ 15, no. 10 (2012): 1381–95; Peter Horton, “Singapore: Imperialism and Post-Imperialism, Athleticism, Sport, Nationhood and Nation-building,” _International Journal of the History of Sport_ 30, no. 11 (2013): 1221–34; Nick Aplin, “The Rise of Modern Sport in Colonial Singapore: The Singapore Cricket Club Leads the Way,” in [_The Routledge Handbook of Sport in Asia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=204518097), ed. Fan Hong and Lu Zhouxiang (New York: Routledge, 2021), 190–205. (From National Library Singapore, call no. RSING 796.095 ROU)
 
-[^7]: Nick Aplin, [_Sport in Singapore: The Colonial Legacy_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203990042) (Singapore: Straits Times Press, 2019), 23. (Call no. RSING 796.095957 APL)
+[^7]: Nick Aplin, [_Sport in Singapore: The Colonial Legacy_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203990042) (Singapore: Straits Times Press, 2019), 23. (From National Library Singapore, call no. RSING 796.095957 APL)
 
 [^8]: Early news articles using this meaning of the word “swimming” included “[Deserters from the Inglis](https://eresources.nlb.gov.sg/newspapers/digitised/article/singchronicle18280117-1.2.6),” _Singapore Chronicle_, 17 January 1828, 2; “[Piracy](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18360324-1.2.16),” _Singapore Free Press and Mercantile Advertiser_, 24 March 1836, 3; “[Batavia](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18460408-1.2.11),” _Straits Times_, 8 April 1846, 2. (From NewspaperSG)
 
@@ -1064,11 +1064,11 @@ _Straits Times Weekly Issue_. “[Another Growl](https://eresources.nlb.gov.sg/n
 
 [^16]: “[Bathing Place](https://eresources.nlb.gov.sg/newspapers/digitised/article/singchronicle18270524-1.2.4),” _Singapore Chronicle_, 24 May 1827, 2. (From NewspaperSG)
 
-[^17]: Walter Makepeace, Gilbert E. Brooke and Roland St. J. Braddell, eds., [_One Hundred Years of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6203718) (Singapore: Oxford University Press, 1991), 320. (Call no. RSING 959.57 ONE-\[HIS\])
+[^17]: Walter Makepeace, Gilbert E. Brooke and Roland St. J. Braddell, eds., [_One Hundred Years of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6203718) (Singapore: Oxford University Press, 1991), 320. (From National Library Singapore, call no. RSING 959.57 ONE-\[HIS\])
 
 [^18]: “[Bathing Place](https://eresources.nlb.gov.sg/newspapers/digitised/article/singchronicle18270524-1.2.4).”
 
-[^19]: Fred Gray, [_Designing the Seaside: Architecture, Society and Nature_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12806976) (London: Reaktion, 2006), 147. (Call no. RART 720.941 GRA)
+[^19]: Fred Gray, [_Designing the Seaside: Architecture, Society and Nature_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12806976) (London: Reaktion, 2006), 147. (From National Library Singapore, call no. RART 720.941 GRA)
 
 [^20]: “[Bathing Place](https://eresources.nlb.gov.sg/newspapers/digitised/article/singchronicle18270524-1.2.4).”
 
@@ -1078,7 +1078,7 @@ _Straits Times Weekly Issue_. “[Another Growl](https://eresources.nlb.gov.sg/n
 
 [^23]: “[The Straits Observer](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18761104-1.2.4),” _Straits Observer_, 4 November 1876, 2. (From NewspaperSG)
 
-[^24]: “[The Straits Observer](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18761104-1.2.4)”; Charles Burton Buckley, [_An Anecdotal History of Old Times in Singapore 1819– 1967_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082239) (Singapore: Oxford University Press, 1984), 732. (Call no. RSING 959.57 BUC-\[HIS\])
+[^24]: “[The Straits Observer](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18761104-1.2.4)”; Charles Burton Buckley, [_An Anecdotal History of Old Times in Singapore 1819– 1967_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082239) (Singapore: Oxford University Press, 1984), 732. (From National Library Singapore, call no. RSING 959.57 BUC-\[HIS\])
 
 [^25]: “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18461126-1.2.9),” _Singapore Free Press and Mercantile Advertiser_, 26 November 1846, 3. (From NewspaperSG)
 
@@ -1096,9 +1096,9 @@ _Straits Times Weekly Issue_. “[Another Growl](https://eresources.nlb.gov.sg/n
 
 [^32]: The Tivoli bathhouse was described in the 1870s as the “Tivoli Gardens and Refreshment Rooms”: “[Cartouche Sketches in Singapore No. 4](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18740314-1.2.15),” _Straits Times_, 14 March 1874, 4; “[Page 4 Advertisements Column 3](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18850421-1.2.36.3),” _Straits Times_, 21 April 1885, 4. (From NewspaperSG)
 
-[^33]: C. M. Turnbull, [_A History of Modern Singapore 1819–2005_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13206047) (Singapore: NUS Press, 2009), 82. (Call no. RSING 959.57 TUR-\[HIS\])
+[^33]: C. M. Turnbull, [_A History of Modern Singapore 1819–2005_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13206047) (Singapore: NUS Press, 2009), 82. (From National Library Singapore, call no. RSING 959.57 TUR-\[HIS\])
 
-[^34]: John G. Butcher, [_The British in Malaya 1880–1941: The Social History of a European Community in Colonial South-East Asia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1901870) (Kuala Lumpur: Oxford University Press, 1979), 157. (Call no. RSING 301.4512105951033 BUT)
+[^34]: John G. Butcher, [_The British in Malaya 1880–1941: The Social History of a European Community in Colonial South-East Asia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1901870) (Kuala Lumpur: Oxford University Press, 1979), 157. (From National Library Singapore, call no. RSING 301.4512105951033 BUT)
 
 [^35]: “[An Unknown Club](https://eresources.nlb.gov.sg/newspapers/digitised/article/singdailytimes18780517-1.2.13.6.1),” _Singapore Daily Times_, 17 May 1878, 3. (From NewspaperSG)
 
@@ -1132,7 +1132,7 @@ _Straits Times Weekly Issue_. “[Another Growl](https://eresources.nlb.gov.sg/n
 
 [^50]: “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18530719-1.2.15),” _Straits Times_, 19 July 1853, 5; “[Municipal Commissioners](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18551017-1.2.7.2),” _Straits Times_, 17 October 1855, 5; “[The Police Court](https://eresources.nlb.gov.sg/newspapers/digitised/article/singdailytimes18770607-1.2.11.4),” _Singapore Daily Times_, 7 June 1877, 3; “[Municipal Ordinance Amendment](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18890820-1.2.26),” _Straits Times_, 20 August 1889, 3. (From NewspaperSG)
 
-[^51]: Brenda S. A. Yeoh, [_Contesting Space in Colonial Singapore: Power Relations and the Urban Built Environment_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11827061) (Singapore: NUS Press, 2003), 183. (Call no. RSING 307.76095957 YEO)
+[^51]: Brenda S. A. Yeoh, [_Contesting Space in Colonial Singapore: Power Relations and the Urban Built Environment_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11827061) (Singapore: NUS Press, 2003), 183. (From National Library Singapore, call no. RSING 307.76095957 YEO)
 
 [^52]: “[Local](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18521126-1.2.3),” _Singapore Free Press and Mercantile Advertiser_, 26 November 1852, 2; “[Local](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18521224-1.2.4),” _Singapore Free Press and Mercantile Advertiser_, 24 December 1852, 3. (From NewspaperSG)
 
@@ -1164,7 +1164,7 @@ _Straits Times Weekly Issue_. “[Another Growl](https://eresources.nlb.gov.sg/n
 
 [^66]: “[Thursday, 15th December](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18921220-1.2.22),” _Straits Times Weekly Issue_, 20 December 1892, 4; “[The Great Flood: A Day of Venetian Scenes in Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19250109-1.2.71),” _Straits Times_, 9 January 1925, 9. (From NewspaperSG)
 
-[^67]: “[The Swimming Club: A Flourishing Institution, Its Past and Present](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk19021030-1.2.102),” _Singapore Free Press and Mercantile Advertiser_, 30 October 1902, 14; Cheong K. L. and Chia K. Y., “Early Years,” in [_The Chinese Swimming Club Souvenir 1951_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14313506) (Singapore: Chinese Swimming Club, 1951), 15. (Call no. RUR 797.2106095957)
+[^67]: “[The Swimming Club: A Flourishing Institution, Its Past and Present](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk19021030-1.2.102),” _Singapore Free Press and Mercantile Advertiser_, 30 October 1902, 14; Cheong K. L. and Chia K. Y., “Early Years,” in [_The Chinese Swimming Club Souvenir 1951_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14313506) (Singapore: Chinese Swimming Club, 1951), 15. (From National Library Singapore, call no. RUR 797.2106095957)
 
 [^68]: Yap, [_Singapore Chinese Swimming Club_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84567655).
 
@@ -1172,13 +1172,13 @@ _Straits Times Weekly Issue_. “[Another Growl](https://eresources.nlb.gov.sg/n
 
 [^70]: “[The Free Press](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18530624-1.2.6)”; “[Wednesday 26th April](https://eresources.nlb.gov.sg/newspapers/digitised/article/stoverland18760429-1.2.17)”; “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18530719-1.2.15).”
 
-[^71]: “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19030423-1.2.34),” _Straits Times_, 23 April 1903, 4 (From NewspaperSG); Singapore Swimming Club, [_Official Opening of New Club House_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4981547) (Singapore: Straits Times Press, 1936), 2, 23. (Call no. RRARE 797.200605957 SIN; Microfilm NL9938)
+[^71]: “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19030423-1.2.34),” _Straits Times_, 23 April 1903, 4 (From NewspaperSG); Singapore Swimming Club, [_Official Opening of New Club House_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4981547) (Singapore: Straits Times Press, 1936), 2, 23. (From National Library Singapore, call no. RRARE 797.200605957 SIN; Microfilm NL9938)
 
 [^72]: Cheong and Chia, “[Early Years](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14313506),” 15; “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19180731-1.2.21),” _Straits Times_, 31 July 1918, 8; [Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19181003-1.2.26), _Singapore Free Press and Mercantile Advertiser_, 3 October 1918, 4. (From NewspaperSG)
 
 [^73]: “[Swimming Club](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk19021030-1.2.102).”
 
-[^74]: C. Jackson, [_Our Singapore: Sketches of Local Life_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205742123) (Singapore: n.p., 1914), 23. (Call no. RRARE 959.57 JAC)
+[^74]: C. Jackson, [_Our Singapore: Sketches of Local Life_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205742123) (Singapore: n.p., 1914), 23. (From National Library Singapore, call no. RRARE 959.57 JAC)
 
 [^75]: “[On the Verandah](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18980507-1.2.23).”
 
@@ -1186,7 +1186,7 @@ _Straits Times Weekly Issue_. “[Another Growl](https://eresources.nlb.gov.sg/n
 
 [^77]:  “[YMCA Pool](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19200707-1.2.50),” _Singapore Free Press and Mercantile Advertiser_, 7 July 1920, 12; “[Singapore’s Water Supply: Fort Canning Negotiations](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19221130-1.2.9),” _Singapore Free Press and Mercantile Advertiser_, 30 November 1922, 3. (From NewspaperSG)
 
-[^78]: Edward K. W. Ong, ed., [_The YMCA of Singapore: 90 Years of Service to the Community_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6377686) (Singapore: YMCA, 1992), 4 (Call no. RSING 267.395957 YMC); “[Lecture at the YMCA: Physical Culture in Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19180110-1.2.17),” _Singapore Free Press and Mercantile Advertiser_, 10 January 1918, 20. (From NewspaperSG)
+[^78]: Edward K. W. Ong, ed., [_The YMCA of Singapore: 90 Years of Service to the Community_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6377686) (Singapore: YMCA, 1992), 4 (From National Library Singapore, call no. RSING 267.395957 YMC); “[Lecture at the YMCA: Physical Culture in Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19180110-1.2.17),” _Singapore Free Press and Mercantile Advertiser_, 10 January 1918, 20. (From NewspaperSG)
 
 [^79]: “[Education in 1921: Annual Report for the Straits Settlements](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19220824-1.2.59),” _Malaya Tribune_, 24 August 1922, 9. (From NewspaperSG)
 
@@ -1206,7 +1206,7 @@ _Straits Times Weekly Issue_. “[Another Growl](https://eresources.nlb.gov.sg/n
 
 [^87]: “[Singapore Swimming Club](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19250810-1.2.79),” _Straits Times_, 10 August 1925, 10. (From NewspaperSG)
 
-[^88]: Lee C. Q. “25 Years of Progress and Expansion,” in [_The Chinese Swimming Club Souvenir 1951_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14313506) (Singapore: Chinese Swimming Club, 1951), 29 (Call no. RUR 797.2106095957); “[Advertisements](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19280716-1.2.90.2),” _Straits Times_, 16 July 1928, 11. (From NewspaperSG)
+[^88]: Lee C. Q. “25 Years of Progress and Expansion,” in [_The Chinese Swimming Club Souvenir 1951_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14313506) (Singapore: Chinese Swimming Club, 1951), 29 (From National Library Singapore, call no. RUR 797.2106095957); “[Advertisements](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19280716-1.2.90.2),” _Straits Times_, 16 July 1928, 11. (From NewspaperSG)
 
 [^89]: “[New Swiss Club](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19271219-1.2.89),” _Straits Times,_ 19 December 1927, 11; “[Tanglin Club Swimming Pool](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19300501-1.2.41),” _Singapore Free Press and Mercantile Advertiser_, 1 May 1930, 10. (From NewspaperSG)
 
@@ -1224,7 +1224,7 @@ _Straits Times Weekly Issue_. “[Another Growl](https://eresources.nlb.gov.sg/n
 
 [^96]: Singapore Swimming Club, [_Official Opening of New Club House_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4981547)_._
 
-[^97]: R. H. Bruce Lockhart, [_Return to Malaya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1881681) (London: Putnam, 1936), 113. (Call no. RCLOS 959.5 LOC-\[ET\])
+[^97]: R. H. Bruce Lockhart, [_Return to Malaya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1881681) (London: Putnam, 1936), 113. (From National Library Singapore, call no. RCLOS 959.5 LOC-\[ET\])
 
 [^98]: Lee, “[25 Years of Progress and Expansion](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14313506),” 29.
 
@@ -1234,7 +1234,7 @@ _Straits Times Weekly Issue_. “[Another Growl](https://eresources.nlb.gov.sg/n
 
 [^101]: In 1927, Mong Guan and Poh Cheng competed in Shanghai (representing China), with Mong Guan placing third overall. “[Swimming](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19270915-1.2.63.5),” _Straits Budget_, 15 September 1927, 27; “[Eastern Olympiad](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19270924-1.2.89),” _Straits Times_, 24 September 1927, 10. Overseas competitions also included exhibition competitions such as the Hong Kong Chinese Athletic Meeting in 1929, which was attended by Singaporean teams. “[Chinese Exhibition](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19290820-1.2.90),” _Malaya Tribune_, 20 August 1929, 10. (From NewspaperSG)
 
-[^102]: The initial meeting was between the YMCA, Chinese Swimming Club and Singapore Swimming Club. After its formation, the Singapore Amateur Swimming Association was joined by Tiger Swimming Club, Cantonese Swimming Union, Oversea Chinese Swimming Club and the British Armed Forces as affiliates. Singapore Amateur Swimming Association, [_Singapore Amateur Swimming Association, 1939–1989_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5490562) (Singapore: SASA, 1989), 10–12. (Call no. RSING 797.200605957 SIN)
+[^102]: The initial meeting was between the YMCA, Chinese Swimming Club and Singapore Swimming Club. After its formation, the Singapore Amateur Swimming Association was joined by Tiger Swimming Club, Cantonese Swimming Union, Oversea Chinese Swimming Club and the British Armed Forces as affiliates. Singapore Amateur Swimming Association, [_Singapore Amateur Swimming Association, 1939–1989_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5490562) (Singapore: SASA, 1989), 10–12. (From National Library Singapore, call no. RSING 797.200605957 SIN)
 
 [^103]: Nick Aplin, “Sport in Singapore (1945–1948): From Rehabilitation to Olympic Status,” _International Journal of the History of Sport_ 33, no. 12 (2016): 1361–79.
 
