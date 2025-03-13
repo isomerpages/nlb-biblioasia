@@ -670,5 +670,5 @@ you know, hopefully that will persuade you to buy or borrow that book.</p>
 <p>Gretchen, once again, thank you very much.</p>
 <p><strong>Gretchen<br></strong>Thank you, Jimmy.</p>
 <p><strong>Jimmy <br></strong>If you’ve enjoyed this episode, subscribe to
-this podcast and the <em><a href="https://form.gov.sg/616799db4d9b61001398f79b" rel="noopener noreferrer nofollow" target="_blank">BiblioAsia </a></em>
-<a href="https://form.gov.sg/616799db4d9b61001398f79b" rel="noopener noreferrer nofollow" target="_blank">newsletter</a>. Thanks for joining us on <em>BiblioAsia+</em>.</p>
+this podcast and the <em>BiblioAsia </em><a href="https://form.gov.sg/616799db4d9b61001398f79b" rel="noopener noreferrer nofollow" target="_blank">newsletter</a>. Thanks
+for joining us on <em>BiblioAsia+</em>.</p>
