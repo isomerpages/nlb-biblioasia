@@ -204,19 +204,11 @@ latest cash register, installed at Fitzpatrick’s, to the <i>Singapore Free Pre
 Describing it as “speedy and error-free” and a “machine that thinks”, the
 paper highlighted the convenience of the new registers:
 
-     Ordinarily the clerk would be forced to do some swift mental
-
-     arithmetic or more likely, use a pencil and paper to figure the
-
-     customers’ change […] The latest triumph of the National cash
-
-     register over man will relieve operator fatigue and protect the
-
-     cashier, who is responsible for the balance in her machine, as
-
-     well as the customer. And the cash register, unlike either of
-
-     them, is always right.[^34]
+  Ordinarily the clerk would be forced to do some swift mental<br>  arithmetic or more likely, use a pencil and paper to figure the<br>
+  customers’ change […] The latest triumph of the National cash<br>  register over man will relieve operator fatigue and protect the<br>
+  cashier, who is responsible for the balance in her machine, as<br>
+  well as the customer. And the cash register, unlike either of<br>
+  them, is always right.[^34]
 		 
 Accompanying the story was a photograph of a female Fitzpatrick’s
 employee seated behind a cash register.	 
