@@ -586,7 +586,7 @@ Cameron, John. [_Our Tropical Possessions in Malayan India: Being a Descriptive 
 
 Crawfurd, John. “On the Physical and Mental Characteristics of the European and Asiatic Races of Man.” _Transactions of the Ethnological Society of London_, 5 (1866): 58–81. (From EBSCOhost via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-Makepeace, Walter. “Institutions and Clubs.” In [_One Hundred Years of Singapore: Being Some Account of the Capital of the Straits Settlements From Its Foundation by Sir Stamford Raffles on the 6th February 1819 to the 6th February 1919_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4183132), vol. 2, edited by Walter Makepeace, Gilbert E. Brooke and Roland St. J. Braddell. Facsimile reprint, 2016. Singapore: Oxford University Press, 1921. (Call no. RSING 959.57 ONE-\[HIS\])
+Makepeace, Walter. “Institutions and Clubs.” In [_One Hundred Years of Singapore: Being Some Account of the Capital of the Straits Settlements From Its Foundation by Sir Stamford Raffles on the 6th February 1819 to the 6th February 1919_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4183132), vol. 2, edited by Walter Makepeace, Gilbert E. Brooke and Roland St. J. Braddell. Facsimile reprint, 2016. Singapore: Oxford University Press, 1921. (From National Library Singapore, call no. RSING 959.57 ONE-\[HIS\])
 
 Weld, Frederick A. “[The Straits Settlements and British Malaya](https://www.nlb.gov.sg/main/book-detail?cmsuuid=e16ae115-e10d-4619-bcc4-0e1d97672b71).” Transcript of speech given to the Royal Colonial Institute in London, 23 June 1884. (From National Library Online; Call no. RRARE 959.503 WEL-\[JSB\]; Accession no. B29268823G)
 
@@ -664,11 +664,11 @@ _Straits Times Weekly Issue_. “[The Tyersall Hounds](https://eresources.nlb.go
 
 **Secondary Sources**
 
-Alatas, Syed Hussein. [_The Myth of the Lazy Native: A Study of the Image of the Malays, Filipinos and Javanese from the 16th to the 20th Century and Its Function in the Ideology of Colonial Capitalism_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201110013). New York: Routledge, 2010. (Call no. RSING 305.800959 ALA)
+Alatas, Syed Hussein. [_The Myth of the Lazy Native: A Study of the Image of the Malays, Filipinos and Javanese from the 16th to the 20th Century and Its Function in the Ideology of Colonial Capitalism_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201110013). New York: Routledge, 2010. (From National Library Singapore, call no. RSING 305.800959 ALA)
 
 Cheah, Boon Kheng. “Malay Politics and the Murder of J. W-W. Birch, British Resident in Perak, in 1875: The Humiliation and Revenge of the Maharaja Lela.” _Journal of the Malaysian Branch of the Royal Asiatic Society_ 71, no. 1 (1998): 74–105. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-Cohn, Bernard S. [_Colonialism and Its Forms of Knowledge: The British in India_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7758745). Princeton: Princeton University Press, 1996. (Call no. R 954 COH)
+Cohn, Bernard S. [_Colonialism and Its Forms of Knowledge: The British in India_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7758745). Princeton: Princeton University Press, 1996. (From National Library Singapore, call no. R 954 COH)
 
 Cornelius, Vernon. “[Singapore Chronicle](https://www.nlb.gov.sg/main/article-detail?cmsuuid=1d54f41e-a792-4b39-bd6c-8e4a72f30a11).” Singapore Infopedia, published 2017.
 
@@ -678,7 +678,7 @@ Hirschman, Charles. “The Making of Race in Colonial Malaya: Political Economy 
 
 Kaul, Chandrika. _Reporting the Raj: The British Press and India, c. 1880–1922._ Manchester: Manchester University Press, 2003.
 
-Lee, Edwin. [_The British as Rulers Governing Multi-Racial Singapore 1867–1914_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5678026). Singapore: Singapore University Press, 1991. (Call no. RSING 959.57022 LEE-\[HIS\])
+Lee, Edwin. [_The British as Rulers Governing Multi-Racial Singapore 1867–1914_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5678026). Singapore: Singapore University Press, 1991. (From National Library Singapore, call no. RSING 959.57022 LEE-\[HIS\])
 
 Luyt, Brendan. “The Importance of Fiction to the Raffles Library, Singapore, During the Long Nineteenth-Century.” _Library &amp; Information History_ 25, no. 2 (2009): 117–31.
 
@@ -694,7 +694,7 @@ Potter, Simon. “Webs, Networks, and Systems: Globalization and the Mass Media 
 
 Rai, Rajesh. “The 1857 Panic and the Fabrication of an Indian ‘Menace’ in Singapore.” _Modern Asian Studies_ 47, no. 2 (2013): 365–405. (From EBSCOhost via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-Said, Edward. [_Orientalism_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12254159)_._ London: Penguin, 2003. (Call no. 950.07 SAI)
+Said, Edward. [_Orientalism_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12254159)_._ London: Penguin, 2003. (From National Library Singapore, call no. 950.07 SAI)
 
 Seeley, John Robert. _The Expansion of England: Two Courses of Lectures_. Boston: Roberts Brothers, 1883.
 
@@ -706,7 +706,7 @@ Seeley, John Robert. _The Expansion of England: Two Courses of Lectures_. Boston
 
 [^3]: John Robert Seeley, _The Expansion of England: Two Courses of Lectures_ (Boston: Roberts Brothers, 1883), 8.
 
-[^4]: Edwin Lee, [_The British as Rulers Governing Multi-Racial Singapore 1867–1914_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5678026) (Singapore: Singapore University Press, 1991), 281. (Call no. RSING 959.57022 LEE-\[HIS\])
+[^4]: Edwin Lee, [_The British as Rulers Governing Multi-Racial Singapore 1867–1914_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5678026) (Singapore: Singapore University Press, 1991), 281. (From National Library Singapore, call no. RSING 959.57022 LEE-\[HIS\])
 
 [^5]: Ellen C. Cangi, “Civilizing the People of Southeast Asia: Sir Stamford Raffles’ Town Plan for Singapore, 1819–23,” _Planning Perspectives_ 8, no. 2 (1993): 167.
 
@@ -726,7 +726,7 @@ Seeley, John Robert. _The Expansion of England: Two Courses of Lectures_. Boston
 
 [^13]: Charles Hirschman, “The Making of Race in Colonial Malaya: Political Economy and Racial Ideology,” _Sociological Forum_ 1, no. 2 (Spring 1986): 347. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-[^14]: Bernard S. Cohn, [_Colonialism and Its Forms of Knowledge: The British in India_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7758745) (Princeton: Princeton University Press, 1996), 111–12. (Call no. R 954 COH)
+[^14]: Bernard S. Cohn, [_Colonialism and Its Forms of Knowledge: The British in India_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7758745) (Princeton: Princeton University Press, 1996), 111–12. (From National Library Singapore, call no. R 954 COH)
 
 [^15]: Brendan Luyt, “The Importance of Fiction to the Raffles Library, Singapore, During the Long Nineteenth-Century,” _Library &amp; Information History_ 25, no. 2 (2009): 130.
 
@@ -770,7 +770,7 @@ Seeley, John Robert. _The Expansion of England: Two Courses of Lectures_. Boston
 
 [^35]: Farish Noor, “[Money-Making Bodies: Prostitution in Colonial Southeast Asia](https://biblioasia.nlb.gov.sg/vol-11/issue-3/oct-dec-2015/bodies/),” _BiblioAsia_ 11, no. 3 (2015).
 
-[^36]: The first newspaper by the Eurasians was _Straits Intelligence_. It was started by a piano tuner named John Hansen in the early 1870s and sank rather swiftly. Walter Makepeace, “Institutions and Clubs,” in [_One Hundred Years of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4183132), vol. 2, ed. Walter Makepeace, Gilbert E. Brooke and Roland St. J. Braddell, facsimile reprint 2016 (Singapore: Oxford University Press, 1921), 294. (Call no. RSING 959.57 ONE-\[HIS\])
+[^36]: The first newspaper by the Eurasians was _Straits Intelligence_. It was started by a piano tuner named John Hansen in the early 1870s and sank rather swiftly. Walter Makepeace, “Institutions and Clubs,” in [_One Hundred Years of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4183132), vol. 2, ed. Walter Makepeace, Gilbert E. Brooke and Roland St. J. Braddell, facsimile reprint 2016 (Singapore: Oxford University Press, 1921), 294. (From National Library Singapore, call no. RSING 959.57 ONE-\[HIS\])
 
 [^37]: An interesting exchange occurred between the SEA and a correspondent who took objection to the paper naming meritorious Eurasians in its pages. The correspondent claimed that some of those named may have wanted to hide the fact that they were Eurasian “for reasons best known to themselves”. It is not difficult to guess what those reasons would have been. The paper’s spirited response was that “we do not hold any very exalted view of the man who is ashamed of his origin”. For the full discussion, see [Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitseurasian18880331-1.2.9), _Straits Eurasian Advocate_, 31 March 1888, 3. (From NewspaperSG)
 
@@ -816,7 +816,7 @@ Seeley, John Robert. _The Expansion of England: Two Courses of Lectures_. Boston
 
 [^58]: “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751112-1.2.3),” _Straits Observer (Singapore)_, 12 November 1875, 2; “[Volunteers to the Front](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751119-1.2.4.1),” _Straits Observer (Singapore)_, 19 November 1875, 2; “[Where, and Oh Where, Are Our Island Laddies Gone!](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751119-1.2.4.2)” _Straits Observer (Singapore)_, 19 November 1875, 3 January 1876, 3. (From NewspaperSG)
 
-[^59]: “[The Perak Expedition](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751214-1.2.7),” _Straits Observer (Singapore)_, 14 December 1875, 24 (From NewspaperSG). Syed Hussein Alatas deals extensively with why the Malays did not “work” the land. Simply put, they did not need to. For this excellent discussion, see Syed Hussein Alatas, [_The Myth of the Lazy Native: A Study of the Image of the Malays, Filipinos and Javanese from the 16th to the 20th Century and Its Function in the Ideology of Colonial_ _Capitalism_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201110013) (New York: Routledge, 2010). (Call no. RSING 305.800959 ALA)
+[^59]: “[The Perak Expedition](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18751214-1.2.7),” _Straits Observer (Singapore)_, 14 December 1875, 24 (From NewspaperSG). Syed Hussein Alatas deals extensively with why the Malays did not “work” the land. Simply put, they did not need to. For this excellent discussion, see Syed Hussein Alatas, [_The Myth of the Lazy Native: A Study of the Image of the Malays, Filipinos and Javanese from the 16th to the 20th Century and Its Function in the Ideology of Colonial_ _Capitalism_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201110013) (New York: Routledge, 2010). (From National Library Singapore, call no. RSING 305.800959 ALA)
 
 [^60]: Sir Harry Ord was Governor from 1867 to 1871, during which time he tried to abide by the policy of non-intervention in native states – a legacy of the 1857 Indian Mutiny. Sir Andrew Clarke’s gradual reversal of this policy culminated in the Pangkor Treaty of 1874; propelled by mercantile fervour and angered by Birch’s assassination, Clarke’s successor Sir William Jervois was even more forceful in his thrust up and into the Peninsula.
 
