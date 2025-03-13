@@ -26,18 +26,18 @@ The art scene from the turn of the 20th century up to the eve of Singapore’s
 independence has been analysed by Yeo Mang Thong as consisting of four
 strands of development:[^1]
 
-the period between the late 19th and early 20th centuries, centring<br>around individuals of cultural influence, such as Khoo Seok Wan, his<br>literary circle and the sojourning scholars who offered their literati<br>skills (calligraphy and painting) to the Chinese mercantile community;
+The period between the late 19th and early 20th centuries, centring<br>around individuals of cultural influence, such as Khoo Seok Wan, his<br>literary circle and the sojourning scholars who offered their literati<br>skills (calligraphy and painting) to the Chinese mercantile community;
 
-  2. the period corresponding to the Chinese Republican years, which saw<br> 
-    the rise of graphic art (woodcut prints and cartoons) as a new form of<br> 
-    social expression, and a group of Modernist artists in exile from China,<br> 
-    mostly members of SOCA;
+the period corresponding to the Chinese Republican years, which saw<br> 
+the rise of graphic art (woodcut prints and cartoons) as a new form of<br> 
+social expression, and a group of Modernist artists in exile from China,<br> 
+mostly members of SOCA;
 
-  3. Singapore under the Japanese Occupation (1942–45); and
+Singapore under the Japanese Occupation (1942–45); and
 
-  4. unique artistic personalities, namely Tchang Ju-ch’i, Situ Qiao, both<br>
-    prominent patriotic artists of the prewar period, and Austrian sculptor<br>
-    Karl Duldig, who lived and worked in Singapore in 1939–40.
+unique artistic personalities, namely Tchang Ju-ch’i, Situ Qiao, both<br>
+prominent patriotic artists of the prewar period, and Austrian sculptor<br>
+Karl Duldig, who lived and worked in Singapore in 1939–40.
 
 The present study focuses on the second strand of development, drawing on
 a wide range of materials, including public and private archives, newspapers,
