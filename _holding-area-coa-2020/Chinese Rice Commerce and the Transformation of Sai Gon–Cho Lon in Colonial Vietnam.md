@@ -115,7 +115,7 @@ settlements and economic potential in the Mekong Delta presented
 numerous opportunities for further Chinese migration. Between 1829 and
 1830, just over 1,100 Chinese arrived at the district of Gia Định. From the last
 
-<img src="/images/COA%202020/Chinese%20Rice%20Commerce/The_Pagoda_of_the_Seven_Congregations.jpg" style="width:80%;">
+<img src="/images/COA%202020/Chinese%20Rice%20Commerce/The_Pagoda_of_the_Seven_Congregations.jpg" style="width:90%;">
  <div style="background-color: white;">The Pagoda of the Seven Congregations, Chợ Lớn, c. 1900s.<i> National Archives of Singapore (Image no. 19990006456-0038).</i></div>
 
 two months of 1830 to the first four months of 1831, about 1,640 more settled
@@ -165,8 +165,8 @@ projects, however, British observers presented a different opinion, calling
 Sài Gòn “the Paris of the East” and “the Pearl of the Orient” as they waxed
 lyrical about its exuberant modernity:
 
-  The streets become wider, the houses and shops more<br>   resplendent,<br> 
-  and further on, as we approach the beautiful cathedral, we come<br> 
+The streets become wider, the houses and shops more<br> resplendent,<br> 
+and further on, as we approach the beautiful cathedral, we come<br> 
 across wide boulevards, and pass beautiful residences of the<br> 
 French inhabitants and fine government buildings… The cost of<br> 
 living in Sài Gòn must be extremely high.[^19]
