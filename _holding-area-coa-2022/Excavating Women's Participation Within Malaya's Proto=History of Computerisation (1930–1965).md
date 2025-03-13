@@ -48,15 +48,12 @@ Straits dollars, together with punch cards (an annually recurring purchase)
 for 1,783.04 Straits dollars.[^7] A few years later, a new system was installed; the
 machines were considered a marvel:
 
-     Special cards are punched for each consumer, showing 
-
-     consumer names and addresses together with their dealings
-
-     with the department. These are automatically sorted and then
-
-     run through a tabulating machine which prints the bills, with
-
-     duplicates which are bound to form a ledger.[^8]
+  Special cards are punched for each consumer, showing<br> 
+  consumer names and addresses together with their dealings<br>
+  with the department. These are automatically sorted and 
+		 then<br>
+  run through a tabulating machine which prints the bills, with<br>
+  duplicates which are bound to form a ledger.[^8]
 
 At that point in the late 1930s, 2,000 out of 40,000 of the Municipal
 accounts had been mechanised; a full changeover was expected to be
@@ -90,15 +87,11 @@ to install the Powers-Samas machines in three years’ time. The paper’s
 comments reflected an underlying anxiety over the accounting machines,
 and their women operators:
 
-     It is understood that a proposal has been made to the Crown
-
-     agents to send out about twenty girls with accounting machines
-
-     for the Accounts Department of the F.M.S. [Federated Malay
-
-     States] Railways. The idea, apparently, is to do away with the
-
-     majority of the present staff and train girls for employment.[^16]
+  It is understood that a proposal has been made to the Crown<br>
+  agents to send out about twenty girls with accounting machines<br>
+  for the Accounts Department of the F.M.S. [Federated Malay<br>
+  States] Railways. The idea, apparently, is to do away with the<br>
+  majority of the present staff and train girls for employment.[^16]
 
 Nonetheless, the employment of women proceeded as planned. The
 Asian women operators, known as clerk-operators, were supervised by Mrs
@@ -115,16 +108,9 @@ In the 1950s, the machines were operated by 13 women clerk-operators
 processing close to 50,000 cards each month at a rate of 3,000 cards per
 hour as part of unit “accounting”.[^19] As the  <i> Singapore Free Press </i>  reported,
 
-     Surrounded by an array of intricate electrical machines and
-
-     working to the accompaniment of weird-pitched, high-
-
-     sounding
-clicking noises all day long, these girls do perhaps one
-
-     of the queerest jobs in town. But, their job is not only queer; it
-
-     is highly responsible.[^20]
+  Surrounded by an array of intricate electrical machines and 
+<br>   working to the accompaniment of weird-pitched, high
+<br>  sounding clicking noises all day long, these girls do perhaps one<br>  of the queerest jobs in town. But, their job is not only queer; it<br>  is highly responsible.[^20]
 		 
 	
 The belief was that women were temperamentally more suitable than
@@ -140,7 +126,7 @@ as engine types, wagon miles, cargo weight, distance travelled, punctuality,
 performance, journeys taken by passengers, and storage of goods.
 
 
-<img src="/images/COA%202022/Excavating%20Women%20Participation/Statistics_Department_of_the_Powers.jpg" style="width:80%;">
+<img src="/images/COA%202022/Excavating%20Women%20Participation/Statistics_Department_of_the_Powers.jpg" style="width:100%;">
  <div style="background-color: white;">A file photograph from the Statistics Department of the Powers-Samas accounting
 machines, 4 December 1956. <i>Courtesy of National Archives of Singapore (media image no. 19980001292–0008).</i></div>
 
@@ -175,7 +161,7 @@ of knowledge transfer, with more locals being trained and taking on
 managerial positions as these corporations deepened their engagement with
 the region.
 
-<img src="/images/COA%202022/Excavating%20Women%20Participation/Straits_Times__24_march_1905.jpg" style="width:80%;">
+<img src="/images/COA%202022/Excavating%20Women%20Participation/Straits_Times__24_march_1905.jpg" style="width:100%;">
  <div style="background-color: white;">One of NCR’s print advertisements. <i>Straits Times, 24 March 1905, 4. (From NewspaperSG).</i></div>
 	
 
@@ -213,19 +199,11 @@ latest cash register, installed at Fitzpatrick’s, to the <i>Singapore Free Pre
 Describing it as “speedy and error-free” and a “machine that thinks”, the
 paper highlighted the convenience of the new registers:
 
-     Ordinarily the clerk would be forced to do some swift mental
-
-     arithmetic or more likely, use a pencil and paper to figure the
-
-     customers’ change […] The latest triumph of the National cash
-
-     register over man will relieve operator fatigue and protect the
-
-     cashier, who is responsible for the balance in her machine, as
-
-     well as the customer. And the cash register, unlike either of
-
-     them, is always right.[^34]
+  Ordinarily the clerk would be forced to do some swift mental<br>  arithmetic or more likely, use a pencil and paper to figure the<br>
+  customers’ change […] The latest triumph of the National cash<br>  register over man will relieve operator fatigue and protect the<br>
+  cashier, who is responsible for the balance in her machine, as<br>
+  well as the customer. And the cash register, unlike either of<br>
+  them, is always right.[^34]
 		 
 Accompanying the story was a photograph of a female Fitzpatrick’s
 employee seated behind a cash register.	 
@@ -277,25 +255,11 @@ monthly rated government employees was also reduced, from 26 days to 8.[^40]
 A Straits Times correspondent had earlier described the setup in celebratory
 and futuristic tones:
 
-     
-In a big air-conditioned office in Fullerton Building, a modern
-
-     office is taking shape. An office common to giant commercial
-
-     complexes of New York and London. Gone from this office,
-
-     eventually will be the normal complement of clerks and typists.
-
-     
-Coming into its place: Rows and rows of girls punching holes
-
-     on automatic machines-and serving the “brain.” The brain
-
-     is an electronic computer just installed in the third floor of
-
-     the building for processing accounts and statistics of the
-
-     Finance Ministry.[^41]
+  In a big air-conditioned office in Fullerton Building, a modern<br>
+  office is taking shape. An office common to giant commercial<br>  complexes of New York and London. Gone from this office,<br>
+  eventually will be the normal complement of clerks and typists<br>  Coming into its place: Rows and rows of girls punching holes<br>  on automatic machines-and serving the “brain.” The brain<br>  
+is an electronic computer just installed in the third floor of<br>  the building for processing accounts and statistics of the<br>
+  Finance Ministry.[^41]
 
 Around 20 of the unit’s 60 female clerk-operators were already trained
 to turn “facts and figures into codes” using the new computers, punching
@@ -324,7 +288,7 @@ The proto-history of computerisation in Malaya and Singapore – namely
 the transition from manual accounting practices to accounting machines
 
 
-<img src="/images/COA%202022/Excavating%20Women%20Participation/Toh_Chin_Chye__6_March_1964.jpg" style="width:80%;">
+<img src="/images/COA%202022/Excavating%20Women%20Participation/Toh_Chin_Chye__6_March_1964.jpg" style="width:100%;">
  <div style="background-color: white;">Deputy Prime Minister Dr Toh Chin Chye (third from left) at the inauguration of the
 Computer Service Department at the Treasury, 6 March 1964. <i>Courtesy of National Archives of
 Singapore (media image no. 19980000360-0005).</i></div>
@@ -363,7 +327,7 @@ Ang, James and Soh P. H. “The Singapore Government’s Role in National Comput
 
 Computer History Museum. “International Computers and Tabulators, LTD. (ICT).” Accessed 20 July 2022.
 
-Goh, Chor Boon. [_Technology and Entrepôt Colonialism in Singapore, 1819–1940_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200130222)_._ Singapore: Institute of Southeast Asian Studies, 2013. (Call no. RSING 338.064095957 GOH)
+Goh, Chor Boon. [_Technology and Entrepôt Colonialism in Singapore, 1819–1940_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200130222)_._ Singapore: Institute of Southeast Asian Studies, 2013. (From National Library Singapore, call no. RSING 338.064095957 GOH)
 
 Holt, Natalia. _Rise of the Rocket Girls: The Women Who Propelled US, from Missiles to the Moon to Mars_. New York: Little, Brown and Company, 2016.
 
@@ -375,14 +339,13 @@ IBM. “IBM Archives.” Accessed 29 July 2022.
   
 Norberg, Arthur L. “High-Technology Calculation in the Early 20th Century: Punched Card Machinery in Business and Government.” _Technology and Culture_ 31, no. 4 (October 1990): 753–79.  
   
-
 Singapore Trade and Industry. _Government Statistics_. January 1973. Singapore: Singapore Department of Statistics, 1973.
 
-Straits Settlements. _Annual Departmental Reports_. I.D./74. Singapore: Printed at the Government Printing Office, 1934. (Call no. RRARE 354.595 SSADR)
+Straits Settlements. _Annual Departmental Reports_. I.D./74. Singapore: Printed at the Government Printing Office, 1934. (From National Library Singapore, call no. RRARE 354.595 SSADR)
 
 —. _Blue Book of the Year_. Singapore: Government of the Colony of Singapore, 1935. (Microfilm NL3144)
 
-—. _Blue Book_, I.F. 68_._ Singapore: Government Printing Office, 1937. (Call no. RRARE 315.957 SSBB)
+—. _Blue Book_, I.F. 68_._ Singapore: Government Printing Office, 1937. (From National Library Singapore, call no. RRARE 315.957 SSBB)
 
 
 #### **Newspaper Articles** _(From NewspaperSG)_
@@ -510,11 +473,11 @@ _Sunday Tribune._ “[Savings Banks Officials Ready to Handle Any Amount of Busi
 
 [^5]: [Municipal Accounts: Replies to the Statement Made by Major Field](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19220826-1.2.36),” _Malaya Tribune_, 26 August 1922, 7. (From NewspaperSG)
 
-[^6]: “[Colonial Secretary: Change in Budget Procedure](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19340925-1.2.35),” _Singapore Free Press and Mercantile Advertiser_, 25 September 1934, 3 (From NewspaperSG). See also Straits Settlements, _Annual Departmental Reports_, I.D./74 (Singapore: Printed at the Government Printing Office,1934), 38 (Call no. RRARE 354.595 SSADR). However, Chief Accountant P. H. Forbes stated that accounting machines were introduced into the Chief Accountant’s department in 1933. “[Mechanised Accountancy in Malayan Offices](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19350908-1.2.74),” _Straits Times_, 8 September 1935, 18. (From NewspaperSG)
+[^6]: “[Colonial Secretary: Change in Budget Procedure](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19340925-1.2.35),” _Singapore Free Press and Mercantile Advertiser_, 25 September 1934, 3 (From NewspaperSG). See also Straits Settlements, _Annual Departmental Reports_, I.D./74 (Singapore: Printed at the Government Printing Office,1934), 38 (From National Library Singapore, call no. RRARE 354.595 SSADR). However, Chief Accountant P. H. Forbes stated that accounting machines were introduced into the Chief Accountant’s department in 1933. “[Mechanised Accountancy in Malayan Offices](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19350908-1.2.74),” _Straits Times_, 8 September 1935, 18. (From NewspaperSG)
 
 [^7]: Straits Settlements, _Blue Book of the Year_ (Singapore: Government of the Colony of Singapore, 1935), 100. (Microfilm NL3144)
 
-[^8]: “[New Machine System for Municipal Accounts](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19390724-1.2.102),” _Straits Times_, 24 July 1939, 13 (From NewspaperSG). The maintenance fees for the accounting machines were 1,285 Straits dollars a year. The purchase of cards (including freight) for these machines in 1927 cost 3,072.26 Straits dollars. Straits Settlements, _Blue Book_, I.F. 68 (Singapore: Government Printing Office, 1937), 106. (Call no. RRARE 315.957 SSBB)
+[^8]: “[New Machine System for Municipal Accounts](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19390724-1.2.102),” _Straits Times_, 24 July 1939, 13 (From NewspaperSG). The maintenance fees for the accounting machines were 1,285 Straits dollars a year. The purchase of cards (including freight) for these machines in 1927 cost 3,072.26 Straits dollars. Straits Settlements, _Blue Book_, I.F. 68 (Singapore: Government Printing Office, 1937), 106. (From National Library Singapore, call no. RRARE 315.957 SSBB)
 
 [^9]: “[Municipal Accounts Now Compiled by Machinery](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19390724-1.2.80),” _Singapore Free Press and the Mercantile Advertiser_, 24 July 1939, 7. (From NewspaperSG)
 

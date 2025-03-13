@@ -115,7 +115,7 @@ settlements and economic potential in the Mekong Delta presented
 numerous opportunities for further Chinese migration. Between 1829 and
 1830, just over 1,100 Chinese arrived at the district of Gia Định. From the last
 
-<img src="/images/COA%202020/Chinese%20Rice%20Commerce/The_Pagoda_of_the_Seven_Congregations.jpg" style="width:80%;">
+<img src="/images/COA%202020/Chinese%20Rice%20Commerce/The_Pagoda_of_the_Seven_Congregations.jpg" style="width:90%;">
  <div style="background-color: white;">The Pagoda of the Seven Congregations, Chợ Lớn, c. 1900s.<i> National Archives of Singapore (Image no. 19990006456-0038).</i></div>
 
 two months of 1830 to the first four months of 1831, about 1,640 more settled
@@ -165,11 +165,11 @@ projects, however, British observers presented a different opinion, calling
 Sài Gòn “the Paris of the East” and “the Pearl of the Orient” as they waxed
 lyrical about its exuberant modernity:
 
-   The streets become wider, the houses and shops more resplendent,<br> 
-   and further on, as we approach the beautiful cathedral, we come<br> 
-   across wide boulevards, and pass beautiful residences of the<br> 
-   French inhabitants and fine government buildings… The cost of<br> 
-   living in Sài Gòn must be extremely high.[^19]
+The streets become wider, the houses and shops more<br> resplendent,<br> 
+and further on, as we approach the beautiful cathedral, we come<br> 
+across wide boulevards, and pass beautiful residences of the<br> 
+French inhabitants and fine government buildings… The cost of<br> 
+living in Sài Gòn must be extremely high.[^19]
 
 <img src="/images/COA%202020/Chinese%20Rice%20Commerce/The_Southeast_Asian_rice_network.jpg" style="width:50%;">
  <div style="background-color: white;">The Southeast Asian rice network, c. 1910.</div>	 
@@ -205,7 +205,7 @@ employed from all parts of Cochinchina,” he wrote, “to pull the entire city
 out of its muddy state and, most importantly, to stimulate its function as a
 port authority with well-operated wharves and smooth-sailing traffic”.[^24]
 
-<img src="/images/COA%202020/Chinese%20Rice%20Commerce/Rice_junks_on_the_Arroyo_Chinois_in_Ch__L_n.jpg" style="width:80%;">
+<img src="/images/COA%202020/Chinese%20Rice%20Commerce/Rice_junks_on_the_Arroyo_Chinois_in_Ch__L_n.jpg" style="width:90%;">
  <div style="background-color: white;">Rice junks on the Arroyo Chinois in Chợ Lớn, c. 1900. <i>National Archives of Singapore
 (Image no. 19990006455-0094).</i>
 </div>	 
@@ -253,7 +253,7 @@ assembled and popularised by a Chinese merchant there.[^32] In 1906 and
 Co. to provide extensive electrical installation for their mills, and to supply
 “the dynamo as well as the other gear”.[^33] The Singapore-based British firm 
 
-<img src="/images/COA%202020/Chinese%20Rice%20Commerce/Inside_a_rice_mill_in_Ch__L_n_.jpg" style="width:80%;">
+<img src="/images/COA%202020/Chinese%20Rice%20Commerce/Inside_a_rice_mill_in_Ch__L_n_.jpg" style="width:90%;">
  <div style="background-color: white;">Inside a rice mill in Chợ Lớn, c. 1920. <i>L’Association des Amis du Vieux Huế (AAVH).</i>
 </div>	
 claimed that their electrical engines would be “more than sufficient to run
@@ -1052,5 +1052,3 @@ Wong, Yee Tuan. [_Penang Chinese Commerce in the 19th Century: The Rise and Fall
 [^86]: Anthony Reid, [_Southeast Asia in the Age of Commerce, 1450–1680_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4305251) (New Haven: Yale University Press, 1988). (From National Library Singapore, call no. RSEA 959 REI)
 
 [^87]: Meeting of the Sài Gòn Chamber of Commerce, Session 321, GOUCOCH L.0 N5522, TTLTQG-II, HCMC, 29 December 1893.
-
-

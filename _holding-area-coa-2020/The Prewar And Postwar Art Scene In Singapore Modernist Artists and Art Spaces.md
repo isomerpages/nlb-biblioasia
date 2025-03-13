@@ -26,21 +26,18 @@ The art scene from the turn of the 20th century up to the eve of Singapore’s
 independence has been analysed by Yeo Mang Thong as consisting of four
 strands of development:[^1]
 
-  1.  the period between the late 19th and early 20th centuries, centring<br> 
-    around individuals of cultural influence, such as Khoo Seok Wan, his<br> 
-    literary circle and the sojourning scholars who offered their literati<br> 
-    skills (calligraphy and painting) to the Chinese mercantile community;
+ The period between the late 19th and early 20th centuries, centring<br> around individuals of cultural influence, such as Khoo Seok Wan, his<br> literary circle and the sojourning scholars who offered their literati<br> skills (calligraphy and painting) to the Chinese mercantile community;
 
-  2. the period corresponding to the Chinese Republican years, which saw<br> 
-    the rise of graphic art (woodcut prints and cartoons) as a new form of<br> 
-    social expression, and a group of Modernist artists in exile from China,<br> 
-    mostly members of SOCA;
+ the period corresponding to the Chinese Republican years, which saw<br> 
+ the rise of graphic art (woodcut prints and cartoons) as a new form of<br> 
+ social expression, and a group of Modernist artists in exile from China,<br> 
+ mostly members of SOCA;
 
-  3. Singapore under the Japanese Occupation (1942–45); and
+ Singapore under the Japanese Occupation (1942–45); and
 
-  4. unique artistic personalities, namely Tchang Ju-ch’i, Situ Qiao, both<br>
-    prominent patriotic artists of the prewar period, and Austrian sculptor<br>
-    Karl Duldig, who lived and worked in Singapore in 1939–40.
+ unique artistic personalities, namely Tchang Ju-ch’i, Situ Qiao, both<br>
+ prominent patriotic artists of the prewar period, and Austrian sculptor<br>
+ Karl Duldig, who lived and worked in Singapore in 1939–40.
 
 The present study focuses on the second strand of development, drawing on
 a wide range of materials, including public and private archives, newspapers,
@@ -61,7 +58,7 @@ Zhang Bohe, Lin Dao’an, Chen Chong Swee, Cai Zhuzhen, Nai Wen Chie,
 Dai Yinlang, Chang Ming Tzu, Mrs Chang Ming Tzu, Chen Pu Chie, Kau
 Chin Sheng and U-Chow.
 
-<img src="/images/COA%202020/Prewar%20And%20Postwar/SOCA_s_founding_members.jpg" style="width:40%;">
+<img src="/images/COA%202020/Prewar%20And%20Postwar/SOCA_s_founding_members.jpg" style="width:50%;">
  <div style="background-color: white;">SOCA’s founding members, September–October 1935, <i>Annual Art
 Exhibition,</i> SOCA, 1966.</div>
 
@@ -134,7 +131,7 @@ flamboyant calligraphy – all characteristics cherished by
 the Shanghai School (Figure 2). No cartoons or woodcuts
 – in vogue in the 1930s – have been found in Lee’s oeuvre.
 
-<img src="/images/COA%202020/Prewar%20And%20Postwar/Lee_Kueh1.jpg" style="width:10%;">
+<img src="/images/COA%202020/Prewar%20And%20Postwar/Lee_Kueh1.jpg" style="width:20%;">
  <div style="background-color: white;">Lee Kueh
 Sei, painting
 dedicated to
@@ -179,7 +176,7 @@ Kampong*) and 1940 (*Landscape*) and published in the catalogues. His other
 oil works of the prewar period were documented in Chinese newspaper
 articles, but unfortunately without images.
 
-<img src="/images/COA%202020/Prewar%20And%20Postwar/Shu_Chun_Lien.jpg" style="width:80%;">
+<img src="/images/COA%202020/Prewar%20And%20Postwar/Shu_Chun_Lien.jpg" style="width:90%;">
  <div style="background-color: white;">Shu Chun Lien, <i>Signs of a Decline,</i> cartoon, inaugural issue of <i>Up to Date</i> (《今代》),
 May 1934.</div>
 
@@ -233,7 +230,7 @@ Zhang’s teaching tenure at Tuan Mong School in Singapore gave him
 a platform to express his artistic ideas. For example, he was the artistic
 director for the school’s yearbook of 1931. His watercolour painting of the 
 
-<img src="/images/COA%202020/Prewar%20And%20Postwar/Zhang_Bole.jpg" style="width:80%;">
+<img src="/images/COA%202020/Prewar%20And%20Postwar/Zhang_Bole.jpg" style="width:90%;">
  <div style="background-color: white;">Zhang Bohe, <i>A Far View of the Main School Building,</i> watercolour,
 Tuan Mong School’s 25th anniversary commemoration publication, 1931.</div>
 
@@ -313,7 +310,7 @@ had entries by artists in the Malay Archipelago. A rare image of Cai’s work
 can be found in the 1948 SOCA exhibition catalogue. It depicts an idyllic
 scene of three Malays on a hilltop overlooking a vast expanse of sea 
 
-<img src="/images/COA%202020/Prewar%20And%20Postwar/Cai_Zhuzhen.jpg" style="width:80%;">
+<img src="/images/COA%202020/Prewar%20And%20Postwar/Cai_Zhuzhen.jpg" style="width:90%;">
  <div style="background-color: white;">Cai Zhuzhen, <i>Market Place,</i> SOCA exhibition catalogue, 1948. </div>
 
 and village (Figure 7). In Cai’s obituary, he was lauded as a pioneer in the art
@@ -434,7 +431,7 @@ U-Chow and Chuang were both born in Quanzhou and attended the same
 class, where Chuang noticed U-Chow’s talent in drawing. This talent would
 later be nurtured by an art teacher when U-Chow became a student at 
 
-<img src="/images/COA%202020/Prewar%20And%20Postwar/U_Chow__Malay_Girls.jpg" style="width:50%;">
+<img src="/images/COA%202020/Prewar%20And%20Postwar/U_Chow__Malay_Girls.jpg" style="width:60%;">
  <div style="background-color: white;">U-Chow, <i>Malay Girls,</i> watercolour,
 SOCA exhibition catalogue, 1939. </div>
 
@@ -531,7 +528,7 @@ located at the end of the line of the Telok Ayer Market trolley bus route)
 (Figure 9). The “rest room” on the upper floor was “large and airy, very
 comfortably furnished, and has a delightful view over the harbour”.[^35] 
 
-<img src="/images/COA%202020/Prewar%20And%20Postwar/Prewar_YWCA_building.jpg" style="width:80%;">
+<img src="/images/COA%202020/Prewar%20And%20Postwar/Prewar_YWCA_building.jpg" style="width:90%;">
  <div style="background-color: white;">Prewar YWCA building. <i>Photo courtesy of Dr Lai Chee Kien.</i></div>
 
 This was the venue of SOCA’s first exhibition in 1936, as well as the 1937
@@ -557,7 +554,7 @@ started as a band in June 1934 under the name Mayfair Musical Party
 Mayfair band played regularly at openings, fundraising shows and social
 events in the Chinese community.
 
-<img src="/images/COA%202020/Prewar%20And%20Postwar/A_group_photo_taken_in_1935.jpg" style="width:80%;">
+<img src="/images/COA%202020/Prewar%20And%20Postwar/A_group_photo_taken_in_1935.jpg" style="width:90%;">
  <div style="background-color: white;">A group photo taken in 1935 to mark Mayfair’s first anniversary shows a sizeable
 Western band of about 30 players of the violin, guitar, banjo, brass and percussion. <i>Malaya
 Tribune, 14 September 1935, 20. (From NewspaperSG).</i></div>
@@ -571,7 +568,7 @@ role in a new play, *Huanengying* (花弄影; Flowery Shadows).[^40] Mayfair
 would later organise the first mass weddings in Singapore, before World
 War II.
 
-<img src="/images/COA%202020/Prewar%20And%20Postwar/In_1948_a_fire_broke_out_at_the_Shaw_Brothers.jpg" style="width:80%;">
+<img src="/images/COA%202020/Prewar%20And%20Postwar/In_1948_a_fire_broke_out_at_the_Shaw_Brothers.jpg" style="width:90%;">
  <div style="background-color: white;">In 1948 a fire broke out at the Shaw Brothers’ building, where the Mayfair
 established its headquarters.<i> Malaya Tribune, 8 December 1948, 1. (From NewspaperSG).</i></div>
 
@@ -588,7 +585,7 @@ dated 3 March 1949, captures three men sitting around a table, while Liu,
 in a white suit, stands on a raised podium under a portrait of Sun Yat-sen,
 possibly rehearsing a speech (Figure 12).[^42] 
 
-<img src="/images/COA%202020/Prewar%20And%20Postwar/Liu_Kang_and_fellow_artists_at_Mayfair_headquarters_preparing.jpg" style="width:80%;">
+<img src="/images/COA%202020/Prewar%20And%20Postwar/Liu_Kang_and_fellow_artists_at_Mayfair_headquarters_preparing.jpg" style="width:90%;">
  <div style="background-color: white;">Liu Kang and fellow artists at Mayfair headquarters preparing
 for the Arts Festival, 3 March 1949.<i> Liu Kang family archives.</i></div>
 
