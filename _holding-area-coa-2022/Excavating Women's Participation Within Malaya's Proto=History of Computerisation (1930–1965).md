@@ -91,7 +91,7 @@ and their women operators:
   agents to send out about twenty girls with accounting machines<br>
   for the Accounts Department of the F.M.S. [Federated Malay<br>
   States] Railways. The idea, apparently, is to do away with the<br>
-majority of the present staff and train girls for employment.[^16]
+  majority of the present staff and train girls for employment.[^16]
 
 Nonetheless, the employment of women proceeded as planned. The
 Asian women operators, known as clerk-operators, were supervised by Mrs
