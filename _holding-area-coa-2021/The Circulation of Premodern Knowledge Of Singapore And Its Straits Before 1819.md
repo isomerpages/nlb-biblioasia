@@ -577,7 +577,7 @@ Borschberg, Peter. “European Records for the History of Singapore before 1819.
 
 —. “Portuguese, Spanish and Dutch Plans to Construct a Fort in the Straits of Singapore, ca. 1584–1625.” [_Archipel_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=967127) 65 (2003): 55–88. (Call no. R 959.005 A)
 
-—. “Security, VOC Penetration and Luso-Spanish Co-operation: The Armada of Philippine Governor Juan de Silva in the Straits of Singapore, 1616.” In [_Iberians in the Singapore-Melaka Area and Adjacent Regions (16th to 18th Century)_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12493225), edited by Peter Borschberg, 35–62. Wiesbaden and Lisbon: Harrassowitz and Fundação Oriente, 2004. (Call no. RSING 959.50046 IBE)
+—. “Security, VOC Penetration and Luso-Spanish Co-operation: The Armada of Philippine Governor Juan de Silva in the Straits of Singapore, 1616.” In [_Iberians in the Singapore-Melaka Area and Adjacent Regions (16th to 18th Century)_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12493225). Edited by Peter Borschberg, 35–62. Wiesbaden and Lisbon: Harrassowitz and Fundação Oriente, 2004. (Call no. RSING 959.50046 IBE)
 
 —. “The Seizure of the Sta. Catarina Revisited: The Portuguese Empire in Asia, VOC Politics and the Origins of the Dutch-Johor Alliance (1602–c.1616).” _Journal of Southeast Asian Studies_ 33, no. 1 (2002): 31–62.
 
@@ -585,15 +585,15 @@ Borschberg, Peter. “European Records for the History of Singapore before 1819.
 
 Carvalho, Miguel Botelho de. _La Filis._ Madrid: Por Iuan Sanchez, 1641.
 
-Chardin, Jean_. Voyages De Monsieur Le Chevalier, En Perse, Et Autre Lieux De L’Orient. Tome Dixieme_ \[Travels of Sir Chevalier into Persia, and other places of the Orient\]. Amsterdam: Jean Louis de Lorme, 1711.
+Chardin, Jean_. *Voyages De Monsieur Le Chevalier, En Perse, Et Autre Lieux De L’Orient. Tome Dixieme* \[Travels of Sir Chevalier into Persia, and other places of the Orient\]. Amsterdam: Jean Louis de Lorme, 1711.
 
 Chong, Terence. “The Bicentennial Commemoration: Imagining and Re-imagining Singapore’s History.” [_Southeast Asian Affairs_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4183690) (2020): 323–33. (Call no. RSING 959 SAA)
 
 Churchill, Awnsham and John Churchill. [_A Collection of Voyages and Travels, Some Now First Printed from Original Manuscripts, Others Now First Published in English_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4403049), 6 vols. London: J. Walthoe, 1732. (Call no. RRARE 910.8 CHU)
 
-Commelin, Isaac_. Begin Ende Voortgangh Van De Vereenighde Nederlantsche Geoctroyeerde Oost-Indische Compagnie, etc., Vol. II_ \[Origin and progress of the Dutch East India Company\]. Amsterdam: n.p., 1646. (Call no. RRARE 910.9492 BEG)
+Commelin, Isaac. *Begin Ende Voortgangh Van De Vereenighde Nederlantsche Geoctroyeerde Oost-Indische Compagnie, etc*., Vol. II \[Origin and progress of the Dutch East India Company\]. Amsterdam: n.p., 1646. (Call no. RRARE 910.9492 BEG)
 
-Dampier, William. [_Dampier’s Voyages: Consisting of a New Voyage Round the World \[…\]_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5640758). Edited by John Masefield. London: E Grant Richards, 1906. (Call no. RCLOS 910.41 DAM-\[GBH\])
+Dampier, William. [_Dampier’s Voyages: Consisting of a New Voyage Round the World \[…\]_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5640758), edited by John Masefield. London: E Grant Richards, 1906. (Call no. RCLOS 910.41 DAM-\[GBH\])
 
 De Camoes, Luís. _Os Lusíadas_ \[The Lusiads\]. Translated by R. F. Burton. 2 vols. London: Bernard Quaritch, 1880.
 
@@ -601,19 +601,19 @@ Defoe, Daniel. _The Life, Adventures, and Pyracies, of the Famous Captain Single
 
 —. _A New Voyage Round the World._ London: G. Read, 1730.
 
-Delmas, Adrien. “Writing History in the Age of Discovery, According to La Popelinière, 16th–17th Centuries.” In [_The Dutch Trading Companies as Knowledge Networks_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200872167), edited by Siegfried Huigen, Jan L. de Jong and Elmer Kolfin, 295–318. Leiden: Brill, 2010. (Call no. R 306.4 DUT)
+Delmas, Adrien. “Writing History in the Age of Discovery, According to La Popelinière, 16th–17th Centuries.” In [_The Dutch Trading Companies as Knowledge Networks_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200872167). Edited by Siegfried Huigen, Jan L. de Jong and Elmer Kolfin, 295–318. Leiden: Brill, 2010. (Call no. R 306.4 DUT)
 
-Lim, Arthur Joo-Jock. “Geographical Setting.” In [_A History of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5914108), edited by Ernest Chew and Edwin Lee, 3–14. Singapore: Oxford University Press, 1991. (Call no. RSING 959.57 HIS-\[HIS\])
+Lim, Arthur Joo-Jock. “Geographical Setting.” In [_A History of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5914108). edited by Ernest Chew and Edwin Lee, 3–14. Singapore: Oxford University Press, 1991. (Call no. RSING 959.57 HIS-\[HIS\])
 
 Lisle, Debbie. _The Global Politics of Contemporary Travel Writing_. Cambridge: Cambridge University Press, 2006.
 
-Maclean, Gerald. “Early Modern Travel Writing (I): Print and Early Modern European Travel Writing.” In _The Cambridge History of Travel Writing_, edited by Nandini Das and Tim Youngs, 52–76. Cambridge: Cambridge University Press, 2019.
+Maclean, Gerald. “Early Modern Travel Writing (I): Print and Early Modern European Travel Writing.” In _The Cambridge History of Travel Writing_. edited by Nandini Das and Tim Youngs, 52–76. Cambridge: Cambridge University Press, 2019.
 
-Marcocci, Giuseppe. _The Globe on Paper: Writing Histories of the World in Renaissance Europe and the Americas_. Oxford: Oxford University Press, 2020.
+Marcocci, Giuseppe. *The Globe on Paper: Writing Histories of the World in Renaissance Europe and the Americas*. Oxford: Oxford University Press, 2020.
 
 Miksic, John, and Cheryl-Ann Low Mei Gek, eds. [_Early Singapore, 1300s-1819: Evidence in Maps, Text, and Artefacts_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12284523). Singapore: Singapore History Museum, 2005. (Call no. RSING 959.5703 EAR-\[HIS\])
 
-Münster, Sebastian_. Cosmographia Oder Beschreibung Der Gantzen Welt etc._ \[Cosmography or Description of the whole World, etc.\]. Facsimile reproduction of the Basel edition of 1628. Lindau: Antiqua Verlag, 1978.
+Münster, Sebastian. Cosmographia Oder Beschreibung Der Gantzen Welt etc. \[Cosmography or Description of the whole World, etc.\]. Facsimile reproduction of the Basel edition of 1628. Lindau: Antiqua Verlag, 1978.
 
 Parthesius, Robert_._ [_Dutch Ships in Tropical Waters: The Development of the Dutch East India Company (VOC) Shipping Network in Asia, 1595–1660_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202436665). Amsterdam: Amsterdam University Press, 2010. (Call no. RSEAS 387.509598 PAR)
 
