@@ -2,6 +2,7 @@ collections:
   podcast:
     output: true
     order:
+      - The Pioneering Deaf Educator/.keep
       - The 1952 Bali Trip/.keep
       - The 1952 Bali Trip/The Misunderstood Trip That Led to the 1953 Landmark
         Art Exhibition.md
