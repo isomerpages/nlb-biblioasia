@@ -29,7 +29,7 @@ has evolved.</p>
 <br>19:40 –  Peng’s influence on Singapore’s deaf community
 <br>22:17 – Nathaniel’s research interest in linguistics
 <br>23:56 – Nathaniel’s take on Singlish
-<br>25:28 – BiblioAsia is…</p>
+<br>25:28 – <em>BiblioAsia </em>is…</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
