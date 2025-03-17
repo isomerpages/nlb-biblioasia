@@ -9,14 +9,14 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-20/issue-4/jan-mar-2025/nominated-member-of-parliament-nmp/
-      button: "Providing Independent and Non-Partisan Views: The Nominated Member of
-        Parliament Scheme"
+      url: /history/2024/9/christianity-china-singapore-missions-education/
+      button: "Nanjing to Nanyang: Missionary Sojourns to Singapore and Christian
+        Educational Missions in the 1950s"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 20 Issue 4/Independent and Non Partisan/HeroImage_NMP.jpg
+      background: /images/Online Only Articles/Nanjing to Nanyang/Heroimage_Nanyang_v2.png
   - infopic:
       title: The Floods of 1954
       subtitle: Nature and the Environment
