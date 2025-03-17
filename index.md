@@ -9,14 +9,24 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-20/issue-4/jan-mar-2025/nominated-member-of-parliament-nmp/
-      button: "Providing Independent and Non-Partisan Views: The Nominated Member of
-        Parliament Scheme"
+      url: /history/2024/9/christianity-china-singapore-missions-education/
+      button: "Nanjing to Nanyang: Missionary Sojourns to Singapore and Christian
+        Educational Missions in the 1950s"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 20 Issue 4/Independent and Non Partisan/HeroImage_NMP.jpg
+      background: /images/Online Only Articles/Nanjing to Nanyang/Heroimage_Nanyang_v1.png
+  - infopic:
+      title: Mazu Worship in Singapore
+      subtitle: Worship
+      id: infopic
+      description: Mazu devotion, which first came to Singapore in 1810, lives on in
+        its traditions and processions.
+      button: EXCURSION OF PEACE
+      url: /vol-21/issue-1/apr-jun-2025/mazu-goddess-of-the-sea-worship-birthday-thian-hock-keng/
+      image: /images/Vol 21 Issue 1/Mazu/Mazu_topics.jpg
+      alt: Mazu Worship
   - infopic:
       title: The Floods of 1954
       subtitle: Nature and the Environment
