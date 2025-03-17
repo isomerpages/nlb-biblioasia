@@ -1115,5 +1115,5 @@ sections:
       button: EXCURSION OF PEACE
       url: /vol-21/issue-1/apr-jun-2025/mazu-goddess-of-the-sea-worship-birthday-thian-hock-keng/
       image: /images/Vol 21 Issue 1/Mazu/Mazu_topics.jpg
-      alt: Image alt text
+      alt: Mazu Worship
 ---
