@@ -107,7 +107,7 @@ Newspapers are not merely about serious news – they also contain advertisement
 #### **NOTES**
 
 [^1]: Although in recent years, social media networks such as Facebook, YouTube and Instagram have made concerted efforts to stem the flow of fake news and misinformation on their sites.
-[^2]: National Library Board. (2017). *[Singapore Chronicle](https://eresources.nlb.gov.sg/infopedia/articles/SIP_513_2005-01-06.html)* written by Vernon Cornelius-Takahama. Retrieved from Singapore Infopedia website. 
+[^2]: National Library Board. (2017). *[Singapore Chronicle](https://www.nlb.gov.sg/main/article-detail?cmsuuid=1d54f41e-a792-4b39-bd6c-8e4a72f30a11)* written by Vernon Cornelius-Takahama. Retrieved from Singapore Infopedia website. 
 [^3]: National Library Board. (2005, June 15). *[The Singapore Free Press](http://eresources.nlb.gov.sg/infopedia/articles/SIP_88_2005-02-03.html)* written by Thulaja Naidu Ratnala. Retrieved from Singapore Infopedia website.
 [^4]: National Library Board. (2016, February 28). *[The Straits Times](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2016-02-29_133820.html)* written by Stephanie Ho. Retrieved from Singapore Infopedia website.
 [^5]: Kennard, A. (1967, October 2). [History of Chinese newspapers in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Page/straitstimes19671002-1.1.12). *The Straits Times*, p. 12. Retrieved from NewspaperSG. Also see Lee, M. (2020, Jan–Mar). [From Lat Pau to Zaobao: A history of Chinese newspapers](http://www.nlb.gov.sg/biblioasia/2020/02/21/from-lat-pau-to-zaobao-a-history-of-chinese-newspaper/). *BiblioAsia, 15 (4)*. Retrieved from BiblioAsia website.
