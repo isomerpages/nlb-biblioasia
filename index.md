@@ -1106,4 +1106,14 @@ sections:
       image: /images/Online Only Articles/Conquer Tallest
         Mountain_12_23/mok_on_fixed_ropes_homepage.png
       alt: Image alt text
+  - infopic:
+      title: Mazu Worship in Singapore
+      subtitle: Worship
+      id: infopic
+      description: Mazu devotion, which first came to Singapore in 1810, lives on in
+        its traditions and processions.
+      button: EXCURSION OF PEACE
+      url: /vol-21/issue-1/apr-jun-2025/mazu-goddess-of-the-sea-worship-birthday-thian-hock-keng/
+      image: /images/Vol 21 Issue 1/Mazu/Mazu_topics.jpg
+      alt: Image alt text
 ---
