@@ -5,8 +5,8 @@ date: 2020-07-01T00:00:00.000Z
 breadcrumb: The Plague Fighter
 third_nav_title: "The Plague Fighter: Dr Wu Lien-Teh and His Work"
 image: /images/Vol-16-issue-2/plague/DrWuLienTeh.jpg
+variant: markdown
 ---
-
 <style>
 table { 
 	background-color: #d6dae9;
@@ -21,7 +21,7 @@ table {
 #### The Penang-born doctor helped eradicate the deadly Manchurian pneumonic plague of 1910 and pushed for the use of face masks to prevent its spread. **Kevin Y.L. Tan** documents his life and work. 
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-2/plague/DrWuLienTeh.jpg">
 
 Dr Wu Lien-Teh working with a microscope in his first plague laboratory in Harbin, China, 1911. <i>Wu Lien-Teh Collection, PictureSG, National Library, Singapore</i>.
@@ -57,7 +57,7 @@ In 1903, Wu returned to Malaya, stopping by Singapore for a week before travelli
 
 <b>THE WU LIEN-TEH COLLECTION</b><br>
 <div style="background-color: #d6dae9;">
-<br/><img src="/images/Vol-16-issue-2/plague/portrait.png">
+<br><img src="/images/Vol-16-issue-2/plague/portrait.png">
 
 Dr Wu Lien-Teh, at age 41, taking charge of anti-plague work during the second pneumonic plague epidemic in Manchuria, c. 1920. <i>Wu Lien-Teh Collection, PictureSG, National Library, Singapore</i>.</div><br>The Wu Lien-Teh Collection in the National Library has over 840 photographs that mainly document Wu’s work and achievements in Manchuria and China, including his efforts to contain the pneumonic plague of 1910–11 and 1920–21. In addition, there are photographs of his family and friends.<br><br>The photographs of Manchuria and China capture grim scenes such as unburied bodies left out in the open, mass cremation of corpses, and the isolation and protective measures adopted to curb the spread of the plague. These were likely to have been taken and captioned by Wu himself. It is not known who took the photographs of Wu with his family, friends and colleagues.<br><br>These photographs came from two separate donations. In 2010, Wu’s eldest daughter, Dr Betty Wu Yu-lin, gave three photo albums to the National Library as well as individual photographs. The three albums are titled <i>Plague and Medical Scenes: Manchuria and China, 1911, 1921 up to 1936</i>; <i>Chronological Record of Anti-plague Work in Manchuria and China, 1910–1937</i>; and <i>Ruth’s Complete Collection, 1910 to 1935</i>. In 2018, the National Library received another 35 photographs from Dr Wu’s grandson, Daven Wu. The photographs have been digitised and can be accessed on the National Library’s PictureSG portal.<br><br>The Wu Lien-Teh Collection also includes publications by Dr Wu, such as <i>League of Nations Health Organisation: A Treatise on Pneumonic Plague</i>; <i>History of Chinese Medicine</i>; <i>The Queen’s Scholarships of Malaya, 1885–1948</i>; and <i>Plague Fighter: The Autobiography of a Modern Chinese Physician</i>; two typescript manuscripts; and a set of compiled genealogy of the Wu surname, which traces it back to Lingnan in China (岭南伍氏阖族总谱).
 
@@ -73,7 +73,7 @@ In 1906, Wu plunged himself “heart and soul into the anti-opium campaign” af
 Unfortunately, the official rhetoric on stopping the opium trade had not yet percolated to the colonies. Officials in Malaya still supported the trade in opium and continued issuing licences for its sale. In retaliation, the Penang authorities decided to teach Wu a lesson by prosecuting him for unlicensed opium possession. In 1906, a staged “raid” was organised by no less than the Senior Medical Officer of Penang, Dr Sidney Lucy. Wu had purchased a single ounce of opium from the previous owner of the dispensary, but had never sold nor dispensed it. He was charged with possessing opium without a requisite licence and was fined $100 by the District Court. His conviction was subsequently upheld by the Supreme Court.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-2/plague/DrWuFamily.jpg">
 
 Dr Wu Lien-Teh (standing, extreme right) in a family portrait with his parents, four brothers and three nephews, 1903. He had just returned from England. <i>Wu Lien-Teh Collection, PictureSG, National Library, Singapore</i>.
@@ -92,7 +92,7 @@ By Wu’s own admission, the first few years of his stay in Tianjin “was not a
 A few months before, reports had reached Peking of a mysterious illness afflicting the people of Fuchiatien, the Chinese sector of the half-Russian town of Harbin in Northern Manchuria. Those who contracted the disease developed high fever, a cough with blood-streaked sputum and purplish discolouration of the skin. Almost all who were afflicted died within a few days. The Foreign Ministry feared that if the Qing court failed to stop the spread of the disease, the Russians and Japanese would take matters into their own hands and send in their own medical personnel to deal with the contagion.[^22]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-2/plague/Horsecarts.jpg">
 
 Horse carts transporting corpses to the cremation ground in Fuchiatien, Harbin, 1911. China’s first outbreak of the deadly pneumonic plague occured in this remote northern Manchurian region. <i>Wu Lien-Teh Collection, PictureSG, National Library, Singapore</i>.
@@ -108,7 +108,7 @@ To keep the infected away from others, disused schools, warehouses and other fac
 Initially, Wu’s plan met with opposition. Dr Gerald Mesny, a French professor at the Peiyang Medical College in Tianjin – who had experience dealing with the bubonic plague – insisted on being put in charge of operations. Mesny cast aside Wu’s plan with typical colonial arrogance. When Wu paid him a courtesy call and sat quietly, “trying to smile away their differences”, the Frenchman yelled threateningly, “You, you Chinaman, how dare you laugh at me and contradict your superior.”
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-2/plague/Wagons.jpg">
 
 Two horse-drawn wagons used as ambulances during the pneumonic plague epidemic that started in Harbin, China, in 1911. The covered one on the right is for the sick, while the unsheltered one is for those who had come into contact with the sick. <i>Wu Lien-Teh Collection, PictureSG, National Library, Singapore</i>.
@@ -133,7 +133,7 @@ The second plague began in October in the Hailar district of Manchuria and quick
 During this outbreak, Wu himself went to affected areas to assess the situation and to make recommendations. In a paper published in *The Journal of Hygiene* in 1923, Wu wrote that when the outbreak first broke out in Hailar, he and his team had gone there in November 1920 where they noticed “the gradual evolution of the plague from the bubonic through the septicaemic into the pneumonic form, due principally to promiscuous spitting and huddling together of coolies day and night in unventilated inns”.[^24]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-2/plague/EpidemicinManchuria.jpg">
 
 During the second pneumonic plague epidemic in Manchuria in 1921, Dr Wu Lien-Teh (left) and another doctor conducted experiments on animals like marmots to find out how the disease spread. In 1910, when the pneumonic plague outbreak first began, the initial victims of the disease were marmot trappers and fur traders in Manchouli (Manzhouli), along the Siberian border. <i>Wu Lien-Teh Collection, PictureSG, National Library, Singapore</i>.
@@ -145,7 +145,7 @@ Wu also wrote about the non-medical difficulties that doctors faced. In the city
 “For instance, the Chief Medical Officer was accused of shooting the sick in the plague compound and was threatened with a similar fate should an opportunity offer itself, our house-to-house inspection doctors were on several occasions faced with revolvers and knives in the course of their duty, while the disinfection assistants were almost obliged to swallow some of the disinfectants used in the disinfected houses.”[^26]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-2/plague/CorposeCollector.jpg">
 
 Corpse collectors using long prongs to collect dead bodies during the second pneumonic plague epidemic in Manchuria, 1921. <i>Wu Lien-Teh Collection, PictureSG, National Library, Singapore</i>.
@@ -157,7 +157,7 @@ Wu also met with resistance to mask-wearing among some medical personnel. When h
 Wu himself was proud of the cotton and gauze masks he had popularised, and he noted that the service’s laboratory in Harbin also produced 60,000 face masks, in addition to their routine work.[^28]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-2/plague/Mask.jpg">
 
 Demonstrating the correct way to wear cotton and gauze masks during the second pneumonic plague in Manchuria (1920–21). <i>Wu Lien-Teh Collection, PictureSG, National Library, Singapore</i>.
@@ -172,7 +172,7 @@ In 1930, the Chinese government created the National Quarantine Service and appo
 Wu was also responsible for initiating the building of modern Western-style medical facilities in China. The centrepiece of his efforts was the Peking Central Hospital to which he devoted his best efforts “unceasingly for four years, because it was intended as a model *civil* hospital”.[^30] Between 1912 and 1935, Wu was responsible for building 14 hospitals in various parts of the country.[^31]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-2/plague/DrWufamily2.jpg">
 
 Dr Wu Lien-Teh in a studio portrait with his second wife Marie (his first wife passed away in 1937) and their children, 1949. <i>Wu Lien-Teh Collection, PictureSG, National Library, Singapore</i>.
@@ -193,8 +193,8 @@ Wu gained great fame as a pioneering plague fighter and became the first Malayan
 Malaya’s loss was, however, China’s gain. Wu left for China at a time when it was on the cusp of modernity. This was just after China’s defeat in the Sino-Japanese War of 1895 and the collapse of the modernising Self-Strengthening Movement that had started in 1861.[^34] The movement, which sought to modernise through “Western means” but with “Chinese minds”, was an effort to import Western technology, methods and institutions without a corresponding adoption of the thinking, morals or norms of the West. It took someone like Wu – an overseas Chinese person with a Western education – to show how it was possible to do this. Western medical methods were applied and institutionalised with a sensitivity to Chinese traditions. Limited as this movement was in the field of medicine, it nevertheless paved the way for the creation of a modern Chinese state. 
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-2/authors/KevinTan.png" style="width: 100px; height: 100px;" />
+<br>
+<img src="/images/Vol-16-issue-2/authors/KevinTan.png" style="width: 100px; height: 100px;">
 
 <b>Dr Kevin Y.L. Tan</b> is Adjunct Professor at the Faculty of Law, National University of Singapore, and at the S. Rajaratnam School of International Studies, Nanyang Technological University. He specialises in Constitutional and Administrative Law, International Law and International Human Rights. He has written and edited over 50 books on the law, history and politics of Singapore.
 
@@ -215,7 +215,7 @@ Malaya’s loss was, however, China’s gain. Wu left for China at a time when i
 [^10]: [Wu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200944787), 2014, p. 214.
 [^11]: [Wu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200944787), 2014, pp. 224–225.
 [^12]: [Wu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200944787), 2014, p. 232.
-[^13]: See National Library Board. (2015, December 31). *[Lim Boon Keng](https://eresources.nlb.gov.sg/infopedia/articles/SIP_855_2004-12-27.html)*   written by Ang Seow Leng. Retrieved from Singapore Infopedia website. 
+[^13]: See National Library Board. (2015, December 31). *[Lim Boon Keng](https://www.nlb.gov.sg/main/article-detail?cmsuuid=6065a0ce-1672-479b-b460-ec706260ab3c)*   written by Ang Seow Leng. Retrieved from Singapore Infopedia website. 
 [^14]: [Wu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200944787), 2014, p. 221.
 [^15]: [Wu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200944787), 2014, p. 232.
 [^16]: [Wu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200944787), 2014, p. 236.
@@ -231,7 +231,7 @@ Malaya’s loss was, however, China’s gain. Wu left for China at a time when i
 [^26]: Wu, 1923, p. 275.
 [^27]: Wu, 1923, p. 271.
 [^28]: Wu, 1923, p. 277.
-[^29]: See Goh, L.G., Ho, T.M., & Phua, K.H. (1987). Wisdom and Western science: The work of Dr Wu Lien-Teh. *Asia Pacific Journal of Public Health, 1* (1), 99–109. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website; Lee, K.H., Wong, T.K., & Ng, K.H. (2014, January). Dr Wu Lien-teh: Moderninsing post-1911 China’s public health service. *Singapore Medical Journal, 55* (2), 99–102. Retrieved from Singapore Medical Journal website. 
+[^29]: See Goh, L.G., Ho, T.M., &amp; Phua, K.H. (1987). Wisdom and Western science: The work of Dr Wu Lien-Teh. *Asia Pacific Journal of Public Health, 1* (1), 99–109. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website; Lee, K.H., Wong, T.K., &amp; Ng, K.H. (2014, January). Dr Wu Lien-teh: Moderninsing post-1911 China’s public health service. *Singapore Medical Journal, 55* (2), 99–102. Retrieved from Singapore Medical Journal website. 
 [^30]: [Wu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200944787), 2014, p. 460.
 [^31]: [Wu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200944787), 2014, p. 469.
 [^32]: [Dr Wu Lien Teh retires](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19380122-1.2.108). (1938, January 22). *The Malaya Tribune*, p. 12. Retrieved from NewspaperSG. 
