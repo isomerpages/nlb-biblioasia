@@ -116,7 +116,7 @@ Newspapers are not merely about serious news – they also contain advertisement
 [^8]: National Library Board. (2014). *[First issue of Utusan Malayu (1907–1921) is published](http://eresources.nlb.gov.sg/history/events/8f22fb24-ca40-46d3-a3f3-a638f444e8bc)*. Retrieved from HistorySG website.
 [^9]: [National Library Board](https://www.nlb.gov.sg/main/article-detail?cmsuuid=83b427cc-e8c7-42b4-ba7c-862d57b7e928), 15 June 2005. 
 [^10]: [National Library Board,](https://www.nlb.gov.sg/main/article-detail?cmsuuid=83b427cc-e8c7-42b4-ba7c-862d57b7e928) 15 Jun 2005. 
-[^11]: [National Library Board,](https://www.nlb.gov.sg/main/article-detail?cmsuuid=30b994ae-c76e-47f3-9d21-b1b0aeb23c37) 15 Jun 2005.
+[^11]: [National Library Board,](https://www.nlb.gov.sg/main/article-detail?cmsuuid=83b427cc-e8c7-42b4-ba7c-862d57b7e928) 15 Jun 2005.
 [^12]: Buckley, C.B. (1902). *An anecdotal history of old times in Singapore* (Vols. I and II). Singapore: Fraser &amp; Neave, Limited. (Accession nos.: B02966444B; B02966440I)
 [^13]: Makepeace, W., Brooke, G.E., &amp; Braddell, R.S.J. (Eds.) (1921). *[One hundred years of Singapore: Being some account of the capital of the Straits Settlements from its foundation by Sir Stamford Raffles on the 6th February 1819 to the 6th February 1919](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183132)* (Vols. I and II). London: John Murray. (Call no.: RCLOS 959.51 MAK) 
 [^14]: [National Library Board](http://eresources.nlb.gov.sg/history/events/8f22fb24-ca40-46d3-a3f3-a638f444e8bc), 2014.
