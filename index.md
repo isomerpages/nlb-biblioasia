@@ -16,7 +16,7 @@ sections:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Online Only Articles/Nanjing to Nanyang/Heroimage_Nanyang.png
+      background: /images/Online Only Articles/Nanjing to Nanyang/Heroimage_Nanyang_v1.png
   - infopic:
       title: Mazu Worship in Singapore
       subtitle: Worship
