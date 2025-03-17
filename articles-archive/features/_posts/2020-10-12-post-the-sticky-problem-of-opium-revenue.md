@@ -5,8 +5,8 @@ image: /images/Vol-16-issue-3/opium-revenue/opiumrevenue-purple.jpg
 date: 2020-10-01T00:00:00.000Z
 breadcrumb: Opium Revenue
 third_nav_title: The Sticky Problem of Opium Revenue
+variant: markdown
 ---
-
 <style>
 table { 
 	background-color: #d9ddda;
@@ -22,7 +22,7 @@ table {
 #### At one point, half of Singapore’s annual revenue came from taxing opium. **Diana S. Kim** looks at how the colonial government managed to break its addiction to easy money.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-3/opium-revenue/opiumrevenue-purple.jpg">
 
 </div>
@@ -36,7 +36,7 @@ Moreover, the law was being made a mockery of, according to the physician and so
 The government, however, rejected Paglar’s proposal and informed him that the Opium Revenue Replacement Reserve Fund was “not available for the curative treatment of needy addicts”.[^7]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-3/opium-revenue/opiumrevenue-combined.png">
 
 (Left) Charles Joseph Pemberton Paglar, a medical doctor and member of the Legislative Council. In 1952, he proposed using part of the Opium Revenue Replacement Reserve Fund to help opium addicts. <i>Eric Paglar Collection, courtesy of National Archives of Singapore.</i> 
@@ -56,7 +56,7 @@ Metropolitan Britain and other British territories also profited from the opium 
 From an administrative perspective, Singapore’s fiscal dependency on opium had long been worrisome, but it was not necessarily an actionable problem. For one, opium was regarded as a predominantly Chinese realm of profit-making that the British authorities tended to avoid interfering with. Since the early 19th century, migrant workers from southern China, many of whom smoked opium, had provided the essential labour for pepper and gambier plantations as well as in tin mines across the Malay Peninsula that sustained the colonial economy. Powerful Chinese entrepreneurs competed to run the Singapore opium tax farm and paid enormous licence fees to monopolise the sale and distribution of opium.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-3/opium-revenue/opiumrevenue-flower.jpg">
 A coloured zincograph print of a poppy flower and seed capsule (Papaver somniferum) by M.A. Burnett, c. 1853. This species of poppy is used to produce opium. <i>Wellcome Collection. Attribution 4.0 International (CC BY 4.0)</i>.
 </div>
@@ -68,7 +68,7 @@ Among administrators stationed in the Straits Settlements, there was a weak conv
 In 1906, despite protests citing the harmful effects of opium to the Chinese community in Singapore, Penang and Kedah, records reveal that local bureaucrats were skeptical such collective action conveyed actual popular anti-opium sentiments. As Charles J. Saunders, the Acting Secretary for Chinese Affairs, explained to the Straits Settlements Opium Commission, “I do not think that either the idea or the movement is indigenous.” More likely, he believed it was due to the loud machinations of “zealous and religious people” such as Protestant missionaries in Singapore and certain members of the Chinese Chamber of Commerce.[^13]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-3/opium-revenue/opiumrevenue-twoguys.jpg">
 Emaciated Chinese labourers smoking opium, late 19th century–early 20th century. <i>Courtesy of the National Museum of Singapore, National Heritage Board</i>.
 </div>
@@ -114,7 +114,7 @@ The fund took on a longevity that extended far beyond what had been an imaginabl
 During the Occupation years, the Japanese Military Administration and local community leaders in Singapore both disavowed and also benefitted from the revenue generated from opium’s commercial sale.[^31] And while the British no longer ruled Singapore, they still gained because the Opium Revenue Replacement Reserve Fund was held in sterling securities in London and continued to collect compound interest.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-3/opium-revenue/opiumrevenue-card.jpg">
 An authorisation card to purchase <i>chandu</i> (opium) from Queen Street in 1942, during the Japanese Occupation. <i>Chew Chang Lang Collection, courtesy of National Archives of Singapore</i>. 
 </div>
@@ -126,7 +126,7 @@ Such concerns about the fund’s murkiness were tied to larger questions about S
 Any solution to this problem – so deeply entwined with the foundations of British colonial rule in Singapore and accumulated for over a century – would necessarily be imperfect and partial. By 1952, when Charles Paglar’s request to use the Opium Revenue Replacement Reserve Fund for addict treatment was denied, it had assumed a strange ambiguity, its only clarity being that the fund not be used for the people from whom it had been collected, i.e. opium smokers in Singapore. Questions regarding its actual purpose and legitimate use were sidestepped as the fund was effectively renamed in 1953 and absorbed into a Special Reserve Fund to assist the government’s commitments to development and public infrastructure improvement.[^34]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-3/opium-revenue/opiumrevenue-papapapa.jpg">
 In July 1952, police raids in Singapore resulted in the arrest of more than 200 opium addicts and opium den operators.<i> The Straits Times, 8 July 1952, p. 5. Retrieved from NewspaperSG</i>.
 </div>
@@ -134,7 +134,7 @@ In July 1952, police raids in Singapore resulted in the arrest of more than 200 
 The same year that the fund was renamed, a solution for addressing the problem of Singapore’s opium addicts arose for discussion. Official plans for establishing a rehabilitation facility on St John’s Island were put forward, garnering much public support. “St John’s is ideal,” said physician and social reformer Chen Su Lan, calling it a “quiet, restful spot ‘away from it all’ with plenty of fresh air, sunshine, and the sea” that would help opium addicts “forget their habit”.[^35] Paglar concurred, calling it a “wonderful gesture” by the government.[^36] Two years later, the St John’s Opium Treatment Centre opened its doors with much fanfare, commanding the attention of the international community and medical experts as “the first in the world established solely to fight opium addiction”.[^37]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-3/opium-revenue/opiumrevenue-treatmentcentre.jpg">
 Visitors to the Opium Treatment Centre on St John’s Island, 1957. The facility opened in 1955 to treat and rehabilitate opium addicts. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.
 </div>
@@ -144,13 +144,13 @@ Visitors to the Opium Treatment Centre on St John’s Island, 1957. The facility
 <img src="/images/Vol-16-issue-1/Postcards/space.png">
 </div>
 
-|<img src="/images/Vol-16-issue-3/opium-revenue/opiumrevenue-empiresofvice.png" style="width: 140px; height: 200px;"/>|
+|<img src="/images/Vol-16-issue-3/opium-revenue/opiumrevenue-empiresofvice.png" style="width: 140px; height: 200px;">|
 
 |This essay is based on research that led to Diana S. Kim’s *Empires of Vice: The Rise of Opium Prohibition Across Southeast Asia* (2020). The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries [(Call nos.: RSING 364.1770959 KIM and SING 364.1770959 KIM)](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204335456). It also retails at major bookshops in Singapore.|
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-3/authors/DianaKim.png" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Vol-16-issue-3/authors/DianaKim.png" style="width: 100px; height: 100px;">
 <b>Dr Diana S. Kim</b> is an Assistant Professor at Georgetown University in the Edmund A. Walsh School of Foreign Service. She is the author of <i>Empires of Vice</i>, a comparative study of the rise of opium prohibition in British Burma, Malaya and French Indochina.
 
 </div>
@@ -173,7 +173,7 @@ Visitors to the Opium Treatment Centre on St John’s Island, 1957. The facility
 [^13]: [Kim](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204335456), 2020, p. 136, citing C. J. Saunders, 8 September 1907, Straits Settlements Opium Commission (SSOC) 1908, vol. 2, p. 100. 
 [^14]: [Kim](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204335456), 2020, p. 137, referring to SSOC 1908, 3 January 1908; 12 October 1907; 8 September 1907. 
 [^15]: [Kim](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204335456), 2020, p. 139, citing C. J. Saunders, 8 September 1907, Straits Settlements Opium Commission (SSOC) 1908, vol. 2, p. 100.
-[^16]: [Kim](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204335456), 2020, p. 139, citing National Library Board. (2015, December 31). *[Lim Boon Keng](https://eresources.nlb.gov.sg/infopedia/articles/SIP_855_2004-12-27.html)*  written by Ang Seow Leng & Fiona Lim. Retrieved from Singapore Infopedia website; 17 August 1907, SSOC 1908, vol. 2, p. 51. 
+[^16]: [Kim](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204335456), 2020, p. 139, citing National Library Board. (2015, December 31). *[Lim Boon Keng](https://www.nlb.gov.sg/main/article-detail?cmsuuid=6065a0ce-1672-479b-b460-ec706260ab3c)*  written by Ang Seow Leng &amp; Fiona Lim. Retrieved from Singapore Infopedia website; 17 August 1907, SSOC 1908, vol. 2, p. 51. 
 [^17]: [Kim](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204335456), 2020, p. 139, citing [Income tax protest](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19110128-1.2.72). (1911, January 28). *The Straits Times*, p. 9. Retrieved from NewspaperSG. 
 [^18]: Rimner S. (2018). Opium’s long shadow: From Asian revolt to global drug control. Harvard University Press. (Not available in NLB’s holdings)
 [^19]: [Kim](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204335456), 2020, p. 64. 
