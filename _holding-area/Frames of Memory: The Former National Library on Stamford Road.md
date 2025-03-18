@@ -9,27 +9,27 @@ By Lim Tin Seng
 
 The former National Library building on Stamford Road, which opened in 1960, became a beloved landmark in the area thanks to its striking red-brick facade and distinctive modern architecture. This photo essay revisits the history and legacy of the building.
 
-Unveiling a Literary Haven
+#### **Unveiling a Literary Haven**
 
 The National Library on Stamford Road was officially inaugurated on 12 November 1960 by Yang di-Pertuan Negara (Head of State) Yusof Ishak. In his speech, he said the new library would “serve the needs of nation-building and its departments of knowledge learning, and technology embraced a wide field”. He encouraged people to visit the library noting that it “is available for free use of all citizens of Singapore, and it is financed entirely from public funds. I call upon the people of Singapore to use this National Library of theirs as fully as possible”.1 It was reported that “\[i\]ncessant hordes of people \[were\] milling about the library grounds on that auspicious day”, all of them curious to see the new library.2
 
-A Philanthropist’s Donation
+#### **A Philanthropist’s Donation**
 
 In 1953, businessman and philanthropist Lee Kong Chian donated $375,000 towards the building of the library. His contribution, which came with the stipulation that the library remain public and free for all, helped fund the construction on a site previously occupied by the St John’s Ambulance Headquarters and British Council Hall. Lee himself laid the foundation stone on 16 August 1957 and the total cost to construct the National Library – including land, construction and furnishings – was estimated at $2.5 million.3 (Prior to this, the library was located in the building that is now known as the National Museum of Singapore.)
 
-A Symphony in Red Brick
+#### **A Symphony in Red Brick**
 
 At its opening, the National Library featured a distinctive T-shaped block layout, spanning approximately 101,500 sq ft (9,430 sq m). Designed by Lionel Bintley of the Public Works Department, the building housed a wide range of facilities, including a lending library, a reference library, study spaces, lecture halls, conference rooms, storage areas for books, administrative offices, technical service workrooms and an open-air courtyard.&nbsp;
 
 Externally, the structure was clad in striking red brick that became the hallmark of its architectural identity. While some admired the library’s unique aesthetic, which was said to reflect the red-brick era of 1950s British architecture, others criticised it for appearing discordant with adjacent buildings like the National Museum. Architects used terms such as “a monstrous monument”, “haphazard”, “clumsy”, “heavy” and “lacks basic discipline” to describe the building.4
 
-A Place for All
+#### **A Place for All**
 
 The National Library offered a wide array of collections and services. The public lending library included separate sections for adult and children’s books as well as facilities for activities, while the reference library housed the South East Asia Collection.&nbsp;
 
 With a seating capacity of more than 400, visitors also had access to equipment like microfilm readers to read old newspapers. Over time, the library’s facilities were upgraded. Air-conditioning was added and the collections also expanded significantly, particularly in the Chinese, Malay and Tamil sections, and from materials gifted by donors.5
 
-A Treasure Trove&nbsp;
+#### **A Treasure Trove**
 
 On 28 August 1964, the South East Asia Room at the National Library opened as a dedicated space “devoted solely to the study of South East Asia”. This specialised room housed a large collection of materials on Singapore and the region that the library had accumulated since its establishment in 1823.6
 
@@ -37,17 +37,17 @@ Minister for Culture S. Rajaratnam, who officiated its opening, described the ro
 
 The materials included the 10,000-volume Ya Yin Kwan Collection covering diverse subjects with a focus on the Chinese in Southeast Asia, Reinhold Rost’s 970-volume philological and scientific collection featuring Eastern languages and Malay Archipelago studies, the 1,000-volume Gibson-Hill Collection on&nbsp; Malayan flora, fauna, travel histories and arts, and James Richardson Logan’s 1,250-strong collection of ethnography and philological works on the Malay Archipelago, among others. Today, these collections form part of the National Library’s National Collection.8
 
-Nurturing Minds and Fostering Community Spirit&nbsp;
+#### **Nurturing Minds and Fostering Community Spirit**
 
 The National Library also served as a vibrant community hub (and still does) to engage people from all walks of life. It hosted library tours, concerts, drama performances, storytelling sessions, book discussions, exhibitions, reading campaigns, meet-the-author sessions, book festivals and talks. These initiatives aimed to promote reading and learning while fostering a deep connection with the public.&nbsp;
 
-Unsung Heroes of Stamford Road&nbsp;
+#### **Unsung Heroes of Stamford Road**
 
 The National Library owed much of its success and impact to its staff. At the reference counters, the staff addressed public enquiries, providing guidance and expertise. In later years, the library would accept queries by mail and the telephone, and subsequently email.&nbsp;
 
 Behind the scenes, countless library staff handled essential duties such as acquiring new materials, cataloguing, compiling the national bibliography, and undertaking conservation and preservation work like microfilming and book repairs.&nbsp;
 
-A New Chapter&nbsp;
+#### **A New Chapter**
 
 In March 1997, the National Library underwent a six-month extensive makeover costing $2.6 million. When it reopened in October that year, its facade had been updated with glass partitions and its interior replaced with carpeted floors.&nbsp;
 
@@ -108,4 +108,4 @@ Its literary heritage lives on in the National Collection at the Lee Kong Chian 
 [^9]: 
 
 
-[^10]: 
+[^10]:
