@@ -226,7 +226,7 @@ National Library Board. (2008). *[Huan Yin–Vanakam](https://eresources.nlb.gov
 
 National Library Board. (1995). *[Katong blues: [music score]](https://eresources.nlb.gov.sg/arts/website/Contents/ArticleDetails.aspx?Id=bc5bc824-3add-4197-b8cb-0c7d5a9d3d3f)*. Retrieved from NORA.
 
-National Library Board. (2017). *[Cultural Medallion](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1867_2012-01-30.html)* written by Tan, Isabel. Retrieved from Singapore Infopedia website.
+National Library Board. (2017). *[Cultural Medallion](https://www.nlb.gov.sg/main/article-detail?cmsuuid=4acba74f-e6ee-4756-893d-914f6cf70c6d)* written by Tan, Isabel. Retrieved from Singapore Infopedia website.
 
 National University of Singapore. (2016). *NUS Guitar Ensemble*. Retrieved from National University of Singapore website.
 
