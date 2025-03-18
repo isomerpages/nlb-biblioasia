@@ -64,7 +64,7 @@ Munsyi Abdullah died in Mecca in 1854 while on pilgrimage.[^16] But his legacy i
 [^9]:[Abdullah](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13606908), 2009, pp. v, 22; National Library Board. (1998). [*Benjamin Keasberry*](https://www.nlb.gov.sg/main/article-detail?cmsuuid=f65a75d3-057e-44ca-adf8-cd8c68c15214) written by Cornelius-Takahama, Vernon. Retrieved from Singapore Infopedia; UNESCO Memory of the World. (n.d). *Sejarah Melayu* (The Malay Annals). Retrieved from UNESCO website.
 [^10]:Che-Ross, R. (2002). Malay Manuscripts in New Zealand: The ‘lost’ manuscript of the “Hikayat Abdullah” and other Malay manuscripts in the Thomson collection. *Journal of the Malaysian Branch of the Royal Asiatic Society, 75* (2) (283), 18. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website.
 [^11]:Reith, 1892, p. 132.
-[^12]:National Library Board. (2001). [*Munshi Abdullah*](http://eresources.nlb.gov.sg/infopedia/articles/SIP_503_2004-12-27.html) written by Cornelius-Takahama, Vernon. Retrieved from Singapore Infopedia.
+[^12]:National Library Board. (2001). [*Munshi Abdullah*](https://www.nlb.gov.sg/main/article-detail?cmsuuid=ab825e58-195e-4841-b873-b59d74494854) written by Cornelius-Takahama, Vernon. Retrieved from Singapore Infopedia.
 [^13]:Sweeney, A (2006, November). Abdullah bin Abdul Kadir Munsyi: A man of bananas and thorns. *Indonesia and the Malay Word, 34* (100), 223–245. Retrieved from Taylor &amp; Francis Online.
 [^14]:Gallop, 1990, pp. 96–97.
 [^15]:National Library Board. (2001/2002). *Annual report* (p. 24). Singapore: National Library Board. Call no.: RCLOS q027.05957 SNLBAR-[AR].
