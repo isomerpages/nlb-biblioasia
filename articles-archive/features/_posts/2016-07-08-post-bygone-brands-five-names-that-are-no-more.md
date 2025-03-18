@@ -232,7 +232,7 @@ In 1990, Pillai struck a deal with France’s biggest food company BSN Groupe to
 
 [^38]:*[The Business Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19810203-1.2.22.aspx)* , 3 Feb 1981, p. 6.
 
-[^39]:National Library Board. (2016). *[Three Rifles Holdings is established](http://eresources.nlb.gov.sg/history/events/22b5e23e-1daa-42ed-8582-cc3d21b2a7f9)*. Retrieved from HistorySG.
+[^39]:National Library Board. (2016). *[Three Rifles Holdings is established](https://www.nlb.gov.sg/main/article-detail?cmsuuid=22b5e23e-1daa-42ed-8582-cc3d21b2a7f9)*. Retrieved from HistorySG.
 
 [^40]:Tan, C. (1997, September 29). *[Three Rifles sets its sights on property development](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19970929-1.2.69.1.aspx)*. *The Straits Times*, p. 48. Retrieved from NewspaperSG.
 
