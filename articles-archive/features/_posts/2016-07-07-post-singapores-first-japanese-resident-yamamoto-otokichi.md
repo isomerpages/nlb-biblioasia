@@ -4,6 +4,7 @@ date: 2016-07-07
 permalink: /vol-12/issue-2/jul-sep-2016/yamamoto-otokichi/
 image: /images/Vol-12-issue-2/yamamoto-otokichi/02a-yamamoto-otokichi.jpg
 layout: post
+variant: markdown
 ---
 #### A sailor travels halfway around the world in his attempt to return home, and becomes the first Japanese resident in Singapore in the process. **Bonny Tan** tells the story.
 
@@ -105,7 +106,7 @@ Lim, S.B. (Ed.). (2004). *[Images of Singapore: From the Japanese perspective (1
 
 Mockford, J. (1991). The open gate of Fort Vancouver: Japan-America relations in early Pacific Northwest History. *Clark County History*, 32.
 
-National Library Board. (2016). *[Yamamoto Otokichi](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1340_2008-03-05.html)* written by Tan, Bonny. Retrieved from Singapore Infopedia website.
+National Library Board. (2016). *[Yamamoto Otokichi](https://www.nlb.gov.sg/main/article-detail?cmsuuid=b708902a-d7a3-4e9a-9ade-458cc45d9207)* written by Tan, Bonny. Retrieved from Singapore Infopedia website.
 
 [Notes of the day](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19370517-1.2.55.aspx). (1937, May 17). *The Straits Times*, p. 10. Retrieved from NewspaperSG.
 
@@ -113,7 +114,7 @@ Plummer, K. (1991). *The shogun’s reluctant ambassadors: Japanese sea drifters
 
 *[Prewar Japanese community in Singapore: Picture and record](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13048775) [Senzen Shingapōru no Nihonjin shakai: Shashin to kiroku]*. (2004). Singapore: Japanese Association. (Call no. : RSING 305.895605957 PRE)
 
-Tei, A.G., & Igarashi, Y. (2010). *True life adventures of Otokichi(1817–1867)* . Retrieved from JM Ottoson website.
+Tei, A.G., &amp; Igarashi, Y. (2010). *True life adventures of Otokichi(1817–1867)* . Retrieved from JM Ottoson website.
 
 #### **NOTES**
 
