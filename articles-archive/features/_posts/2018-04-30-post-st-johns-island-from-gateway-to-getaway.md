@@ -133,7 +133,7 @@ The bustling city seethes beyond St John’s seawalls, always looming but still 
 <a href="https://biblioasia.nlb.gov.sg/vol-14/issue-1/apr-jun-2018/"><center>Back to Issue</center></a>
 
 #### **NOTES**
-[^1]:National Library Board. (2019, January). [*Stamford Raffles’s landing in Singapore*](http://eresources.nlb.gov.sg/infopedia/articles/SIP_131_2005-01-03.html) written by Tan, Bonny. Retrieved from Singapore Infopedia.
+[^1]:National Library Board. (2019, January). [*Stamford Raffles’s landing in Singapore*](https://www.nlb.gov.sg/main/article-detail?cmsuuid=8b54be13-5b70-44d0-abf6-f9781247686f) written by Tan, Bonny. Retrieved from Singapore Infopedia.
 [^2]:Antechamber text, panel 3, “Arrival at Singapore” from *Raffles’ Letters: Intrigues Behind the Founding of Singapore*, National Library Gallery, 29 August 2012 to 28 February 2013.
 [^3]:Raffles’ letter to the Duchess of Somerset, 22 February 1819, from *Raffles’ Letters: Intrigues Behind the Founding of Singapor*e.
 [^4]:European maps from the 16th–18th centuries variously marked Singapore as a town on the west coast of the Malay Peninsula, a city on the left bank of the Johor River, a promontory, a cape or simply as a sea passage. See Periasamy, M. (2015). The rare maps collection of the National Library. In Singapore. National Library Board, [*Visualising space: Maps of Singapore and the region*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201116198) (pp. 60–61). Singapore: National Library Board. (Call no.: RSING 911.5957 SIN).
