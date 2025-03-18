@@ -73,7 +73,7 @@ Its literary heritage lives on in the National Collection at the Lee Kong Chian 
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/LimTinSeng.png">
-<b>Lim Tin Seng</b> is a Senior Librarian with the National Library Singapore. He is the co-editor of <i>Roots: Tracing Family Histories – A Resource Guide</i> (2013), _Harmony and Development: ASEAN-China Relations_ (2009) and _China’s New Social Policy: Initiatives for a Harmonious Society_ (2010). He writes regularly for _BiblioAsia_.</div>
+<b>Lim Tin Seng</b> is a Senior Librarian with the National Library Singapore. He is the co-editor of <i>Roots: Tracing Family Histories – A Resource Guide</i> (2013), <i>Harmony and Development: ASEAN-China Relations</i> (2009) and <i>China’s New Social Policy: Initiatives for a Harmonious Society</i> (2010). He writes regularly for <i>BiblioAsia</i>.</div>
 <div style="background-color: white;">
 <br>
 </div>
