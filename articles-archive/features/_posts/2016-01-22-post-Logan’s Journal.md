@@ -76,7 +76,7 @@ All nine volumes of the journal dating from 1847 to 1855, along with three addit
 
 [^12]:Thomson, Jun 1881, p. 78.
 
-[^13]:[National Library Board](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1146_2009-10-27.html), 2009.
+[^13]:[National Library Board](https://www.nlb.gov.sg/main/article-detail?cmsuuid=a45589d7-a6da-480e-a37a-40246bca2c0d), 2009.
 
 [^14]:Turnbull, 1969, pp. 17–18.
 
