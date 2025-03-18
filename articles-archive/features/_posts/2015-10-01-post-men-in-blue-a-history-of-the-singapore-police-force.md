@@ -5,6 +5,7 @@ permalink: /vol-11/issue-3/oct-dec-2015/blue/
 breadcrumb: Men in Blue
 third_nav_title: "Men in Blue: A History of the Singapore Police Force"
 image: \images\Vol-11-issue-3\blue\SikhsfromPunjab.jpg
+variant: markdown
 ---
 <style>
 table { 
@@ -208,7 +209,7 @@ National Library Board. (2014). *[Chinese Protectorate is established](http://er
 
 National Library Board. (2014, May 12). *[First Crime Prevention Week](http://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-05-12_134845.html)*  written by Lim, Tin Seng. Retrieved from Singapore Infopedia website. 
 
-National Library Board. (2014). *[Indonesia announces Konfrontasi (Confrontation)](http://eresources.nlb.gov.sg/history/events/126b6b07-f796-4b4c-b658-938001e3213e)*. Retrieved from HistorySG.
+National Library Board. (2014). *[Indonesia announces Konfrontasi (Confrontation)](https://www.nlb.gov.sg/main/article-detail?cmsuuid=126b6b07-f796-4b4c-b658-938001e3213e)*. Retrieved from HistorySG.
 
 [New cord will replace police lanyard](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19740111-1.2.17.8). (1974, January 11). *New Nation*, p. 3. Retrieved from NewspaperSG.
 
