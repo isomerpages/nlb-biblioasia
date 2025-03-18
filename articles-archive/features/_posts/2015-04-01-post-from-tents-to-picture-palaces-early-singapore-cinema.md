@@ -4,11 +4,12 @@ date: 2015-04-01
 permalink: /vol-11/issue-1/apr-jun-2015/early-sg-cinema/
 image: /images/vol-11-issue-1/earlysgcinema/bg2_re.jpg
 layout: post
+variant: markdown
 ---
 #### Few people are aware that Singapore’s cinema history dates back to as early as 1896. **Bonny Tan** traces its development, from the days of the Magic Lantern projector to the first locally made films.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-11-issue-1/earlysgcinema/bg2_re.jpg">
 Plan of a cinematograph tent located at Jalan Sungei at Serangoon Road in 1908. <i>Building Control Authority Collection, courtesy of the National Archives of Singapore</i>.
 </div>
@@ -32,19 +33,19 @@ Just a year later, in May 1897, the Ripograph, better known as the Giant Cinemat
 Meanwhile, new cinematographic inventions came fast and furious from the laboratories of Thomas Edison in America and the creative minds of the French, such as the Lumiere Brothers and Leon Bouly. The Cinematograph, the Bioscope, the Biograph, the Vitascope and the Projectoscope were introduced in quick succession – each touted to be better than the former. 
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img style="width:70%" src="/images/vol-11-issue-1/earlysgcinema/Kinetophonebis.jpg">
 A man watching a scene using the Kinetoscope. <i>Via Wikimedia Commons</i>.
 </div>
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img style="width:30%" src="/images/vol-11-issue-1/earlysgcinema/dance.jpg">
 <i>The Serpentine Dance</i>, a form of burlesque, was one of the first vignettes screened at the Aldephi Hall in 1897. © The Serpentine Dance. <i>Directed by Louis Lumiere, produced by Lumiere. France, 1897</i>.
 </div>
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img style="width:70%" src="/images/vol-11-issue-1/earlysgcinema/the-lumiere-brothers-louis-jean-lumiere-auguste-lumiere.jpg">
 Frenchmen August and Louis Lumiere were one of the first filmmakers in history. Via <i>pixgood.com</i>. 
 </div>
@@ -72,14 +73,14 @@ In 1916, the Alhambra was rebuilt and renamed the New Alhambra. Designed by Eura
 Tan paid $25,000 for the Palladium (also designed by J.B. Westerhout) a mere four years after it was built.[^28] This was a steal considering it had cost $60,000 to construct. Tan continued to push the envelope with the development of local cinemas, fitting them in 1930 with equipment for sound so that the first “talkies” could be screened.[^29]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img style="width:70%" src="/images/vol-11-issue-1/earlysgcinema/Adelphi_re.jpg">
 Adelphi Hotel on Coleman Street, as seen in a 1906 postcard. Adelphi Hall, where Singapore’s earliest film screenings were held in 1897, was part of the hotel. <i>Arshak C Galstaun Collection, courtesy of the National Archives of Singapore</i>.
 </div>
 
 	
 <div style="background-color: white;">
-<br/>
+<br>
 <img style="width:70%" src="/images/vol-11-issue-1/earlysgcinema/Alhambra.jpg">
 A 1930 postcard of the Alhambra cinema along Beach Road. Taken from the book Singapore: <i>500 Early Postcards</i>, published by Editions Didier Millet (2007). <i>Courtesy of Prof Cheah Jin Seng</i>.
 </div>
@@ -94,19 +95,19 @@ By this time, local cinemas were regularly screening films showing snippets of l
 By 1907, film distribution had moved from the hands of itinerant businessmen importing American and European films. Singapore had become a distribution centre of films in the region, with French company Pathé Freres as a key anchor.[^35] This transformed the ease with which films could be obtained, the scale in which they were shown and the variety of films that could be screened. 
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-11-issue-1/earlysgcinema/Road_To_Singapore_1931_re.jpg">
 <i>The Road to Singapore</i> (1931) is a romantic drama starring William Powell and Doris Kenyou. © The Road to Singapore. <i>Directed by Alfred E. Green, produced and distributed by Warner Bros. United States, 1931. Courtesy of Wong Han Min</i>.
 </div>
 	
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-11-issue-1/earlysgcinema/A_Day_At_Singapore_re.jpg">
 <i>A Day at Singapore</i> featured short snippets of life in Singapore. © A Day at Singapore. Directed by George Méliès, 1913.
 </div>
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img style="width:70%" src="/images/vol-11-issue-1/earlysgcinema/George_Melies_re.jpg">
 George Méliès (1861–1938) was a French illusionist and filmmaker. <i>Via Wikimedia Commons</i>.
 </div>
@@ -128,7 +129,7 @@ Released in 1933 and shot off the coast of Katong in 1932, <i>Samarang</i> (also
 <br><br>
 <i>Samarang</i> was screened in the US in 1933 to rave reviews. The film’s popularity might have been due to its novelty but also possibly because Sai-Yu is topless for most of the second half of the film. It was first screened at the Alhambra in September 1933 and later at the Marlborough in 1934, where it was hailed as Singapore’s first talkie[^42] – although reviewers noted that it was “virtually a silent film except for a synchronized music score and occasional choral singing. The action (was) explained by subtitles, and although there (were) melodramatic episodes, they (were) for the most part set forth with… little skill.”[^43]
 <br><br>
-<img style="width: 70%;"  src="/images/vol-11-issue-1/earlysgcinema/samarang_1933_res.jpg">Poster of <i>Samarang</i>. © Samarang. Directed by Ward Wing, produced by United Artists and B.F. Zeidman, distributed by United Artists. United States, 1933. <i>Courtesy of Wong Han Min.</i>
+<img style="width: 70%;" src="/images/vol-11-issue-1/earlysgcinema/samarang_1933_res.jpg">Poster of <i>Samarang</i>. © Samarang. Directed by Ward Wing, produced by United Artists and B.F. Zeidman, distributed by United Artists. United States, 1933. <i>Courtesy of Wong Han Min.</i>
 <br><br>
 <b>Xin Ke (新客, The New Immigrant)</b>
 <br><br>
@@ -154,7 +155,7 @@ The role of Leila was played by popular local star Fatima binti Jasman, a singer
 <br><br>
 The film’s gala opening was held on March 1934 at the Marlborough. The dialogue was in classical Malay and the film was much praised although there were criticisms over the technical quality of the pictures. In 1962, B. N. Rao, by then an established director, remade this movie as <i>Laila Majnun</i>.
 <br><br>
-<i>The full citations for</i> Xin Ke <i>and</i> Leila Majnun <i>can be found on</i> *[HistorySG](http://eresources.nlb.gov.sg/history)*.</span>
+</span>
 
 <img style="width:100px;height:100px;margin-bottom:-30px; border-radius:100%; box-shadow: 1px 2px 0px #424242;" src="/images/vol-11-issue-1/earlysgcinema/Bonny.jpg">
 <p style="font-size:15px;"><b>Bonny Tan</b> is a Senior Librarian with the National Library of Singapore. Her interest in the history of films was sparked after she uncovered little known facets of colonial life in early newspapers of Singapore. She would like to thank Nadi Tofighian for his help in reviewing this article.</p>
