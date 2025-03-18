@@ -4,6 +4,7 @@ date: 2017-10-12
 permalink: /vol-13/issue-3/oct-dec-2017/fashionthroughdecades/
 image: /images/Vol-13-issue-3/the-way-we-were/01_thewaywewere.png
 layout: post
+variant: markdown
 ---
 #### Singapore has emerged as a leading Asian fashion capital in recent years. **Zoe Yeo** tracks its evolution through fashion publications from the Legal Deposit Collection.
 
@@ -45,7 +46,7 @@ Although cinemas had been around in Singapore since the early 1900s, it was the 
 
 As Western culture made greater inroads into the local fashion scene, tailors who could replicate designs seen on television and film, and in fashion magazines were highly sought after by both women and men.[^7] The first public fashion showcase for men was held in 1961 by the Singapore Merchant Tailors Association. The aim was to introduce the latest trends in bespoke suits to local consumers, “to show off” the high standard of tailoring in Singapore, and to improve dress sense among men. The publication, produced in conjunction with the event, featured on its cover a Western-style evening jacket that had been given an ethnic spin with *batik* material.
 
-The popularity of made-to-measure clothing also led to a demand for sewing and tailoring classes. Mui Goi Ladies Dress-Making & Embroidering Institution was one of the pioneers offering dressmaking lessons in the 1950s and 1960s. To celebrate its ninth anniversary in 1962, a special exhibition of students’ works was held in the school. These works were subsequently featured in a commemorative publication.
+The popularity of made-to-measure clothing also led to a demand for sewing and tailoring classes. Mui Goi Ladies Dress-Making &amp; Embroidering Institution was one of the pioneers offering dressmaking lessons in the 1950s and 1960s. To celebrate its ninth anniversary in 1962, a special exhibition of students’ works was held in the school. These works were subsequently featured in a commemorative publication.
 
 To cater to the increasing interest in fashion, dress design and dressmaking classes were introduced by the Adult Education Board in 1963. A total of 1,508 students were enrolled in the first and second batches of the six-month course. Their works were showcased in a souvenir magazine published in 1965.
 
@@ -58,7 +59,7 @@ Budding fashionistas also turned to dress pattern publications such as *Lucky Fa
 <br><br>
 <img style="width:400px" src="/images/Vol-13-issue-3/the-way-we-were/06_thewaywewere.png">
 <br>
-A special exhibition of students’ works was held to commemorate the ninth anniversary of Mui Goi Ladies Dress-Making & Embroidering Institution. <i>All rights reserved, Mui Goi Ladies’ Dress-Making & Embroidering Institution. (1962). 美艺妇女缝纫车绣传习所第九周年纪念 特刊: 主办第一届学员作品竞赛及教材展览会. Singapore: Mui Goi Ladies’ Dress-Making & Embroidering Institution.</i>
+A special exhibition of students’ works was held to commemorate the ninth anniversary of Mui Goi Ladies Dress-Making &amp; Embroidering Institution. <i>All rights reserved, Mui Goi Ladies’ Dress-Making &amp; Embroidering Institution. (1962). 美艺妇女缝纫车绣传习所第九周年纪念 特刊: 主办第一届学员作品竞赛及教材展览会. Singapore: Mui Goi Ladies’ Dress-Making &amp; Embroidering Institution.</i>
 <br><br>
 <img style="width:400px" src="/images/Vol-13-issue-3/the-way-we-were/07_thewaywewere.png">
 <br>
@@ -114,19 +115,19 @@ The efforts seem to have paid off. In 2011, Singapore was ranked number eight in
 
 [^2]:Bird, I.L. (2000). *[The Golden Chersonese](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13039946)* (p. 119). Köln: Könemann. (Call no.: RSING 915.951 BIR) 
 
-[^3]:Souza, J D., Ong, C., & Rao, T. (2016). *[Fashion most wanted: Singapore’s top insider secrets from the past five decades](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202544912)* (p. 14). Singapore: Straits Times Press Pte Ltd. (Call no.: RSING 746.92095957 DES) 
+[^3]:Souza, J D., Ong, C., &amp; Rao, T. (2016). *[Fashion most wanted: Singapore’s top insider secrets from the past five decades](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202544912)* (p. 14). Singapore: Straits Times Press Pte Ltd. (Call no.: RSING 746.92095957 DES) 
 
-[^4]:National Heritage Board & Fashion Designers Society. (1993). *[Costumes through time: Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200079477)* (p. 115). Singapore: National Heritage Board and Fashion Designers Society. (Call no.: RSING q391.0095957 COS)
+[^4]:National Heritage Board &amp; Fashion Designers Society. (1993). *[Costumes through time: Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200079477)* (p. 115). Singapore: National Heritage Board and Fashion Designers Society. (Call no.: RSING q391.0095957 COS)
 
-[^5]:[National Heritage Board & Fashion Designers Society](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200079477), 1993, p. 7. 
+[^5]:[National Heritage Board &amp; Fashion Designers Society](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200079477), 1993, p. 7. 
 
-[^6]:[National Heritage Board & Fashion Designers Society](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200079477), 1993, p. 7; [Souza, Ong & Rao](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202544912), 2016, p. 16; Yak, J., & Balasubramaniam, S. (2014, October–December). [In vogue](https://biblioasia.nlb.gov.sg/all-issues/). *BiblioAsia, 10* (3), 56–60. Retrieved from BiblioAsia website; Chandramohan, G. (2017, February 24). Singapore chic. Retrieved from Roots.sg. website. 
+[^6]:[National Heritage Board &amp; Fashion Designers Society](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200079477), 1993, p. 7; [Souza, Ong &amp; Rao](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202544912), 2016, p. 16; Yak, J., &amp; Balasubramaniam, S. (2014, October–December). [In vogue](https://biblioasia.nlb.gov.sg/all-issues/). *BiblioAsia, 10* (3), 56–60. Retrieved from BiblioAsia website; Chandramohan, G. (2017, February 24). Singapore chic. Retrieved from Roots.sg. website. 
 
-[^7]:[Souza, Ong & Rao](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202544912), 2016, pp. 14–15. 
+[^7]:[Souza, Ong &amp; Rao](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202544912), 2016, pp. 14–15. 
 
-[^8]:[Yak & Balasubramaniam](https://biblioasia.nlb.gov.sg/all-issues/), Oct-Dec 2014, pp. 56–60.
+[^8]:[Yak &amp; Balasubramaniam](https://biblioasia.nlb.gov.sg/all-issues/), Oct-Dec 2014, pp. 56–60.
 
-[^9]:[Souza, Ong & Rao](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202544912), 2016, p. 34; [Yak & Balasubramaniam](https://biblioasia.nlb.gov.sg/all-issues/), Oct-Dec 2014, pp. 56–60.
+[^9]:[Souza, Ong &amp; Rao](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202544912), 2016, p. 34; [Yak &amp; Balasubramaniam](https://biblioasia.nlb.gov.sg/all-issues/), Oct-Dec 2014, pp. 56–60.
 
 [^10]:Lee, Y.M. (1982, May 15). [Campaign to promote S’pore high fashion abroad](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19820515-1.2.9). *The Business Times*, p. 1; [Apparel ’83 – a sign of progressive enterprise](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19821003-1.2.59). (1982, October 3). *The Straits Times*, p. 13. Retrieved from NewspaperSG. 
 
@@ -134,9 +135,9 @@ The efforts seem to have paid off. In 2011, Singapore was ranked number eight in
 
 [^12]:Goh, L.K. (1982, January 18). [Big plans for place on the fashion map](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820118-1.2.87.2). *The Straits Times*, p. 22. Retrieved from NewspaperSG. 
 
-[^13]:[Souza, Ong & Rao](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202544912), 2016, pp. 151. 
+[^13]:[Souza, Ong &amp; Rao](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202544912), 2016, pp. 151. 
 
-[^14]:National Library Board. (2016). *[Singapore Fashion Festival](http://eresources.nlb.gov.sg/infopedia/articles/SIP_417_2005-01-26.html)* written by Nureza Ahmad. Retrieved from Singapore Infopedia website.
+[^14]:National Library Board. (2016). *[Singapore Fashion Festival](https://www.nlb.gov.sg/main/article-detail?cmsuuid=071a0fe5-7e60-49f7-803e-1b9ba5f099bd)* written by Nureza Ahmad. Retrieved from Singapore Infopedia website.
 
 [^15]:Woo, A. (2016, October 26). Singapore Fashion Week 2016 opens with a bang. *The Straits Times*. Retrieved from Factiva via NLB’s [eResources](http://eresources.nlb.gov.sg/) website. 
 
