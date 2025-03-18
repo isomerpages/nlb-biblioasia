@@ -212,7 +212,7 @@ Low, Y.L. (1988, July). Plucking the strings to his heart. *[Singapore Tatler](h
 
 Nanda, A. (2011, October 17). [Strings of passion](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20111017-1.2.56.1.2). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
-National Library Board. (2008). *[Alex Abisheganaden](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1360_2008-07-27.html)* written by Chang, Tou Liang. Retrieved from Singapore Infopedia website.
+National Library Board. (2008). *[Alex Abisheganaden](https://www.nlb.gov.sg/main/article-detail?cmsuuid=e831e20c-b8cd-44d3-bd85-36abb2049a92)* written by Chang, Tou Liang. Retrieved from Singapore Infopedia website.
 
 National Library Board. (2017, February 17). *[Jacintha Abisheganaden](http://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-02-17_110409.html)* written by Ho, Stephanie. Retrieved from Singapore Infopedia website.
 
