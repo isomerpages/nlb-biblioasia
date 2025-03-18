@@ -149,7 +149,7 @@ When World War II ended in 1945, Shaw Organisation purchased Capitol Theatre and
 
 [^6]:Chiang, C. (Interviewer). (1985, August 20). *[Oral history interview with Myra Isabelle Cresson](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/79f7fd40-115f-11e3-83d5-0050568939ad?keywords=CRESSON%2C%20Myra%20Isabelle%20&amp;keywords-type=all)* [MP3 recording no. 000594/12/2]. Retrieved from National Archives of Singapore website.
 
-[^7]:Willis, A.C. (1936). *[Willis’s Singapore guide](http://eservice.nlb.gov.sg/viewer/BookSG/f605bb37-0e57-471e-bc20-0a8dc05cb3c9)* (p. 147). Singapore: Alfred Charles Willis. Retrieved from BookSG.
+[^7]:Willis, A.C. (1936). *[Willis’s Singapore guide](https://www.nlb.gov.sg/main/book-detail?cmsuuid=f605bb37-0e57-471e-bc20-0a8dc05cb3c9)* (p. 147). Singapore: Alfred Charles Willis. Retrieved from BookSG.
 
 [^8]:[Joe &amp; Julius Fisher – Pioneers of Singapore entertainment.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19400131-1.2.71) (1940, January 31). *The Straits Times*, p. 15; Streeter, L. (1940, January 28). [From eye-killing flickers to modern marvels](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaytribune19400128-1.2.27). *The Sunday Tribune*, p. 3. Retrieved from NewspaperSG.
  
