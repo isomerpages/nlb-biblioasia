@@ -80,4 +80,4 @@ Legal Deposit is one of the statutory functions of the National Library and is s
 [^1]:Malayan Agri-Horticultural Association. (1956). [*The First Singapore Agricultural Show, 1–5 September, 1956; Souvenir Programme*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4980634). Singapore: Public Relations Office. (Call no.: RDTYS 630.95951 MAL) 
 [^2]:National Library Board. (2014). [*Primary Production Department is formed*](https://www.nlb.gov.sg/main/article-detail?cmsuuid=14f36ce1-a54c-4bb3-8993-91c57fee7c50). Retrieved from National Library Online. 
 [^3]:[农业学校停办](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19841129-1.2.10.15), (1984, November 29). 联合早报 (*Lianhe Zaobao*), p. 5.Retrieved from NewspaperSG.
-[^4]:National Library Board. (2009). [*Farmlands in Lim Chu Kang*](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1611_2009-11-30.html) written by Jean Lim. Retrieved from Singapore Infopedia.
+[^4]:National Library Board. (2009). [*Farmlands in Lim Chu Kang*](https://www.nlb.gov.sg/main/article-detail?cmsuuid=41ae78eb-a853-49bd-b9f8-807b8b368b1f) written by Jean Lim. Retrieved from Singapore Infopedia.
