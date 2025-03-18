@@ -90,28 +90,28 @@ Its literary heritage lives on in the National Collection at the Lee Kong Chian 
 [^3]: “[Start Made on Free Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19570817-1.2.60),” _Straits Times_, 17 August 1957, 4; “[$2½ Mil. Library Is Free](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19570816-1.2.10),” _Singapore Free Press_, 16 August 1957, 2; “[City’s New $2 Mil Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaystandard19551120-1.2.33),” _Sunday Standard_, 20 November 1955, 3. (From NewspaperSG)
 
 
-[^4]: “Library Building in Singapore Is Severely Criticised,” _Straits Times_, 4 July 1960, 7; Ian Mok-Ai, “They Gasp with Horror at This ‘Monstrous Monument’,” _Singapore Free Press_, 9 July 1960, 4. (From NewspaperSG)
+[^4]: “[Library Building in Singapore Is Severely Criticised](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19600704-1.2.59),” _Straits Times_, 4 July 1960, 7; Ian Mok-Ai, “[They Gasp with Horror at This ‘Monstrous Monument’](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19600709-1.2.51),” _Singapore Free Press_, 9 July 1960, 4. (From NewspaperSG)
 
 
-[^5]: National Library Board Singapore, _Report: 5th December 1960 to 30th September 1963_ (Singapore: Government Printing Office, 1963), 4, 9. (From National Library Singapore, call no. RCLOS 027.55957 SIN)
+[^5]: National Library Board Singapore, [_Report: 5th December 1960 to 30th September 1963_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3408747) (Singapore: Government Printing Office, 1963), 4, 9. (From National Library Singapore, call no. RCLOS 027.55957 SIN)
 
 
-[^6]: National Library Singapore, _Annual Report 1964_ (Singapore: Government Printing Office, 1967), 1. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); National Library Singapore, _South East Asia Collection_ (Singapore: Government Printing Office, 1965), 2–6. (From National Library Singapore, call no. RCLOS 027.55957 SIN)
+[^6]: National Library Singapore, [_Annual Report 1964_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3408747) (Singapore: Government Printing Office, 1967), 1. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); National Library Singapore, [_South East Asia Collection_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7858509) (Singapore: Government Printing Office, 1965), 2–6. (From National Library Singapore, call no. RCLOS 027.55957 SIN)
 
 
-[^7]: S. Rajaratnam, “The Opening of the South East Asia Room and Presentation of the Ya Yin Kwan Collection by Mr. Tan Yeok Seong,” speech, National Library, 28 August 1964, transcript. (From National Archives of Singapore, document no. PressR19640828)
+[^7]: S. Rajaratnam, “[The Opening of the South East Asia Room and Presentation of the Ya Yin Kwan Collection by Mr. Tan Yeok Seong](https://www.nas.gov.sg/archivesonline/speeches/record-details/78d8ebbf-115d-11e3-83d5-0050568939ad),” speech, National Library, 28 August 1964, transcript. (From National Archives of Singapore, document no. PressR19640828)
 
 
-[^9]: National Library Singapore, _Annual Report 1964_, 1; National Library Singapore, _South East Asia Collection_, 2–6.&nbsp;
+[^9]: National Library Singapore, [_Annual Report 1964_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3408747), 1; National Library Singapore, [_South East Asia Collection_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7858509), 2–6.&nbsp;
 
 
-[^9]: Claudette Peralta, “National Library's $2.6m Facelift,” _Straits Times_, 12 March 1997, 2. (From NewspaperSG)
+[^9]: Claudette Peralta, “[National Library's $2.6m Facelift](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19970312-1.2.7.1),” _Straits Times_, 12 March 1997, 2. (From NewspaperSG)
 
 
-[^10]: Jessica Tan, “Library Learns to Put Down the Book and Xpress Itself,” _Straits Times_, 10 July 1999, 13. (From NewspaperSG)
+[^10]: Jessica Tan, “[Library Learns to Put Down the Book and Xpres](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19990710-1.2.102.16)s Itself,” _Straits Times_, 10 July 1999, 13. (From NewspaperSG)
 
 
-[^11]: National Library Board, _Annual Report 2004–05_ (Singapore: National Library Board, 2006), 37. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); Theresa Tan, “After April 1, Buy a Chunk of the Old Library,” _Straits Times_, 29 January 2004, 4; Lydia Lim, “New Plan for Bras Basah Offered,” _Straits Times_, 25 January 2000, 34; Tan Hsueh Yun, “National Library Building Will Not Be Conserved,” _Straits Times_, 27 March 1999, 51; Tan Hsueh Yun, “Library Must Go for 2 Key Reasons,” _Straits Times_, 22 March 1999, 42; “A Cultural Asset That Inspires All,” _Straits Times_, 12 November 2005, 20. (From NewspaperSG)
+[^11]: National Library Board, [_Annual Report 2004–05_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3408747) (Singapore: National Library Board, 2006), 37. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); Theresa Tan, “[After April 1, Buy a Chunk of the Old Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20040129-1.2.8.5),” _Straits Times_, 29 January 2004, 4; Lydia Lim, “[New Plan for Bras Basah Offered](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20000125-1.2.41.6),” _Straits Times_, 25 January 2000, 34; Tan Hsueh Yun, “National Library Building Will Not Be Conserved,” _Straits Times_, 27 March 1999, 51; Tan Hsueh Yun, “Library Must Go for 2 Key Reasons,” _Straits Times_, 22 March 1999, 42; “A Cultural Asset That Inspires All,” _Straits Times_, 12 November 2005, 20. (From NewspaperSG)
 
 
 [^12]: Adeline Chia, “A-Z Guide to the New National Library,” _Straits Times_, 2 July 2005, 2; Tay Suan Chiang, “Green and Bear It,” _Straits Times_, 23 July 2005, 10. (From NewspaperSG)
