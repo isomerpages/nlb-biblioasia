@@ -162,7 +162,7 @@ Accompanied by families and well-wishers, and under the watchful eyes of minders
 
 [^25]:Lord Murugan, also known as Sri Thendayuthapani, is a son of Lord Siva and the principal deity at the Chettiars’ Temple. Over a 150-year period, the Chettiars are estimated to have built about 105 temples in Southeast Asia: 59 in Burma, 25 in Ceylon, 18 in Malay, and one each in Vietnam, Singapore and Medan.
 
-[^26]:National Library Board. (2016). *[Mohamed Mustafa and Samsudin Co Pte Ltd](http://eresources.nlb.gov.sg/infopedia/articles/SIP_442_2005-02-03.html)* written by Nureza Ahmad &amp; Noorainn Aziz. Retrieved from Singapore Infopedia website.
+[^26]:National Library Board. (2016). *[Mohamed Mustafa and Samsudin Co Pte Ltd](https://www.nlb.gov.sg/main/article-detail?cmsuuid=a1e406bb-8527-4838-b3ba-3cc46381cafd)* written by Nureza Ahmad &amp; Noorainn Aziz. Retrieved from Singapore Infopedia website.
 
 [^27]:See Boo, K. (1999, September 24). [End of an era](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19990924-1.2.57.3). *The Straits Times*, p. 47. Retrieved from NewspaperSG.
 
