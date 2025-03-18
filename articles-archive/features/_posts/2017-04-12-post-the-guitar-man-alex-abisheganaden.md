@@ -93,7 +93,7 @@ Abisheganaden died peacefully at St Luke’s Hospital on 17 March 2023, aged 97.
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>THE ABISHEGANADEN COLLECTION HIGHLIGHTS</b>
 <br><br>
-Among the items Alex Abisheganaden donated to the National Library are his handwritten scores, pedagogical notes on teaching the guitar as well as his private collection of books on the double bass, guitar ensemble and choral singing. In view of copyright restrictions, only the handwritten materials have been digitised and made accessible on <a href="http://eresources.nlb.gov.sg/music">MusicSG</a> – Singapore’s premier digital music archive. His other donated materials are available for reference at the Lee Kong Chian Reference Library and the Library@Esplanade.
+Among the items Alex Abisheganaden donated to the National Library are his handwritten scores, pedagogical notes on teaching the guitar as well as his private collection of books on the double bass, guitar ensemble and choral singing. In view of copyright restrictions, only the handwritten materials have been digitised and made accessible on <a href="https://www.nlb.gov.sg/main/nlonline">National Library Online</a> – Singapore’s premier digital music archive. His other donated materials are available for reference at the Lee Kong Chian Reference Library and the Library@Esplanade.
 <br><br>
 Here is a selection of original handwritten scores donated by Abisheganaden.
 <br><br>
