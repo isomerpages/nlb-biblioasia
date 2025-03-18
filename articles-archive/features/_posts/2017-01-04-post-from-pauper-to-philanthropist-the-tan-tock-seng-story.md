@@ -151,7 +151,7 @@ Unfortunately, it is a heritage that is becoming increasingly brittle. Given Sin
 [^26]:[Dhoraisingham &amp; Samuel](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12266771), 2003, pp. 52,79. 
 [^27]:[Dhoraisingham &amp; Samuel](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12266771), 2003, pp. 55–59.
 [^28]:Singapore Hokkien Huay Kuan. (2015). *History*. Retrieved from Singapore Hokkien Huay Kuan website.
-[^29]:National Library Board. (2010). *[Thian Hock Keng](https://eresources.nlb.gov.sg/infopedia/articles/SIP7932005-01-10.html)*  written by Tan, Bonny. Retrieved from Singapore Infopedia.
+[^29]:National Library Board. (2010). *[Thian Hock Keng](https://www.nlb.gov.sg/main/article-detail?cmsuuid=91fb75a2-78de-479b-802d-916245c9be52)*  written by Tan, Bonny. Retrieved from Singapore Infopedia.
 [^30]:Tiong Bahru Estate. (2007. August 28). *Tan Kim Ching*. Retrieved from Tiong Bahru Estate Blog.
 [^31]:Cheong, K. (2014, July 28). Tan Tock Seng’s descendants celebrate Tiong Bahru link. *The Straits Times*, p. B3. Retrieved from Tan Tock Seng Hospital website. 
 [^32]:[Dhoraisingham &amp; Samuel](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12266771), 2003, p. 91; The Orchid Society of Southeast Asia. (2014). *Our history*. Retrieved from The Orchid Society of Southeast Asia website.
