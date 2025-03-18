@@ -988,7 +988,7 @@ _Straits Times._ “[Batavia](https://eresources.nlb.gov.sg/newspapers/digitised
 
 —. “[New Swiss Club](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19271219-1.2.89).” 19 December 1927, 11.
 
-—. “[Advertisements](16%20July%201928).” 16 July 1928, 11.
+—. “[Page 11 Advertisements Column 2](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19280716-1.2.90.2).” 16 July 1928, 11.
 
 —. “[New Golf Course](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19290923-1.2.72).” 23 September 1929, 13.
 
