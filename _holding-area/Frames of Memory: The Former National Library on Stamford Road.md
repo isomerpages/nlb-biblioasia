@@ -81,10 +81,10 @@ Its literary heritage lives on in the National Collection at the Lee Kong Chian 
 	
 #### **NOTES**
 
-[^1]:  “Cultural Awakening at Opening of New National Library,” _Straits Times_, 13 November 1960, 5; Lydia Aroozoo, “S’pore’s New Landmark,” _Singapore Free Press_, 12 November 1960, 7. (From NewspaperSG)
+[^1]:  “[Cultural Awakening at Opening of New National Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19601113-1.2.35),” _Straits Times_, 13 November 1960, 5; Lydia Aroozoo, “[S’pore’s New Landmark](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19601112-1.2.59.1),” _Singapore Free Press_, 12 November 1960, 7. (From NewspaperSG)
 
 
-[^2]: K.K. Seet, _A Place for the People_ (Singapore: Times Books International, 1983), 115. (From National Library Singapore, call no. RSING 027.55957 SEE)
+[^2]: K.K. Seet, [_A Place for the People_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082325) (Singapore: Times Books International, 1983), 115. (From National Library Singapore, call no. RSING 027.55957 SEE)
 
 
 [^3]: “Start Made on Free Library,” _Straits Times_, 17 August 1957, 4; “$2½ Mil. Library Is Free,” _Singapore Free Press_, 16 August 1957, 2; “City’s New $2 Mil Library,” _Sunday Standard_, 20 November 1955, 3. (From NewspaperSG)
