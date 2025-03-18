@@ -214,7 +214,7 @@ Nanda, A. (2011, October 17). [Strings of passion](http://eresources.nlb.gov.sg/
 
 National Library Board. (2008). *[Alex Abisheganaden](https://www.nlb.gov.sg/main/article-detail?cmsuuid=e831e20c-b8cd-44d3-bd85-36abb2049a92)* written by Chang, Tou Liang. Retrieved from Singapore Infopedia website.
 
-National Library Board. (2017, February 17). *[Jacintha Abisheganaden]https://www.nlb.gov.sg/main/article-detail?cmsuuid=c7df2ead-00cf-46ce-8222-b491537c01ad)* written by Ho, Stephanie. Retrieved from Singapore Infopedia website.
+National Library Board. (2017, February 17). *[Jacintha Abisheganaden](https://www.nlb.gov.sg/main/article-detail?cmsuuid=c7df2ead-00cf-46ce-8222-b491537c01ad)* written by Ho, Stephanie. Retrieved from Singapore Infopedia website.
 
 National University of Singapore Guitar Ensemble. (2016). *Our Founder – Alex Abisheganaden*. Retrieved from National University of Singapore Guitar Ensemble website.
 
