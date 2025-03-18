@@ -102,7 +102,7 @@ Its literary heritage lives on in the National Collection at the Lee Kong Chian 
 [^7]: S. Rajaratnam, “[The Opening of the South East Asia Room and Presentation of the Ya Yin Kwan Collection by Mr. Tan Yeok Seong](https://www.nas.gov.sg/archivesonline/speeches/record-details/78d8ebbf-115d-11e3-83d5-0050568939ad),” speech, National Library, 28 August 1964, transcript. (From National Archives of Singapore, document no. PressR19640828)
 
 
-[^9]: National Library Singapore, [_Annual Report 1964_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3408747), 1; National Library Singapore, [_South East Asia Collection_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7858509), 2–6.&nbsp;
+[^8]: National Library Singapore, [_Annual Report 1964_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3408747), 1; National Library Singapore, [_South East Asia Collection_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7858509), 2–6.&nbsp;
 
 
 [^9]: Claudette Peralta, “[National Library's $2.6m Facelift](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19970312-1.2.7.1),” _Straits Times_, 12 March 1997, 2. (From NewspaperSG)
