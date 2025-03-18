@@ -68,4 +68,4 @@ Another trial that took place in Singapore was the “Double Tenth” trial held
 
 [^9]:[Plan to kill 50,000 Chinese in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19470319-1.2.44). (1947, March 19). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
 
-[^10]:National Library Board. (2018, September). *[Double Tenth incident](http://eresources.nlb.gov.sg/infopedia/articles/SIP_111_2005-01-06.html)* written by Wong, Heng. Retrieved from Singapore Infopedia wesbite.
+[^10]:National Library Board. (2018, September). *[Double Tenth incident](https://www.nlb.gov.sg/main/article-detail?cmsuuid=3224d8f8-5c80-47a9-b144-a63dafe692b8)* written by Wong, Heng. Retrieved from Singapore Infopedia wesbite.
