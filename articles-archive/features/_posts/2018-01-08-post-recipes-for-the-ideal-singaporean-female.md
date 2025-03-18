@@ -191,7 +191,7 @@ It was only as an adult that I re-acquainted myself with the kitchen when food t
 
 [^22]:Hamidah Khalid &amp; Siti Majhar. (Eds.). (1983). *[New home economics](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4140614)* (Book 2) (pp. 18–27). Singapore: Longman Singapore. (Call no.: RSING 640.7 NEW); Viswalingam, P. (1987). *[Home economics today 2E](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4687810)* (pp. 3–58). Singapore: Curriculum Development Institute of Singapore. (Call no.: YR 640.76 HOM)
 
-[^23]:[Hamidah &amp; Siti](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4140614), 1983, p. 25; National Library Board. (2014). *[National family planning campaign is launched](http://eresources.nlb.gov.sg/history/events/eea3d96d-93aa-455a-ac8a-1564d1b6d215)*. Retrieved from HistorySG.
+[^23]:[Hamidah &amp; Siti](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4140614), 1983, p. 25; National Library Board. (2014). *[National family planning campaign is launched](https://www.nlb.gov.sg/main/article-detail?cmsuuid=eea3d96d-93aa-455a-ac8a-1564d1b6d215)*. Retrieved from HistorySG.
 
 [^24]:[Boys need to know about the home too](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19841118-1.2.21.5). (1984, November 18). *Singapore Monitor*, p. 13. Retrieved from NewspaperSG.
 
