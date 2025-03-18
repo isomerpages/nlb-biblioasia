@@ -4,6 +4,7 @@ date: 2019-01-31
 permalink: /vol-14/issue-4/jan-mar-2019/creative-collectives/
 image: /images/Vol-14-issue-4/creative-collectives/xz.JPG
 layout: post
+variant: markdown
 ---
 #### **Nadia Ramli** traces the history of the Malay art scene in early Singapore through a collection of art-related ephemera, catalogues and publications at the National Library.
 
@@ -47,7 +48,7 @@ Here is a glimpse of exhibition catalogues and collaterals – published between
 
 <br>
 
-|<img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-4/creative-collectives/CreativeCollections4.JPG"><b>Karya Seni 25 (1988)</b><br> In celebration of the 25th anniversary of APAD, this souvenir catalogue showcases a selection of exhibited artworks and their creators. The front cover features the artwork “Searching for Peace” by Sujak Rahman. He is regarded as one of the finest batik painters in Singapore and is known for his “Mother & Child” series of artworks. Also known in Japan, Sujak won the first prize at the Hokkaido International Cultural Exchange Award (1986) and had his works exhibited in Japan from 1984 to 1988. Apart from batik, Sujak also works with other medium such as acrylic and oil.
+|<img style="width: 300px; height: 400px;" src="/images/Vol-14-issue-4/creative-collectives/CreativeCollections4.JPG"><b>Karya Seni 25 (1988)</b><br> In celebration of the 25th anniversary of APAD, this souvenir catalogue showcases a selection of exhibited artworks and their creators. The front cover features the artwork “Searching for Peace” by Sujak Rahman. He is regarded as one of the finest batik painters in Singapore and is known for his “Mother &amp; Child” series of artworks. Also known in Japan, Sujak won the first prize at the Hokkaido International Cultural Exchange Award (1986) and had his works exhibited in Japan from 1984 to 1988. Apart from batik, Sujak also works with other medium such as acrylic and oil.
 
 <br>
 
@@ -80,7 +81,7 @@ Catalogued by subject matter and time period, the collection provides rich insig
 
 #### **References**
 
-National Library Board. (2014). [*Abdul Ghani Abdul Hamid*](http://eresources.nlb.gov.sg/infopedia/articles/SIP_427__2008-11-18.html) written by Nureza Ahmad & Shah Alam bin Mohd Zaini. Retrieved from Singapore Infopedia.
+National Library Board. (2014). [*Abdul Ghani Abdul Hamid*](https://www.nlb.gov.sg/main/article-detail?cmsuuid=c09b2954-8cf7-4227-8895-099fe8fdb9cc) written by Nureza Ahmad &amp; Shah Alam bin Mohd Zaini. Retrieved from Singapore Infopedia.
 
 Syed Muhd Hafiz. (2012). Semangat APAD: The pioneering generation. In. [*Our pioneer artists: Malay visual art practices from post-war period*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200933365) (p. 7). Singapore: Angkatan Pelukis Aneka Daya. (Call no.: RSING 759.95957 OUR)
 
