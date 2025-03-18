@@ -162,7 +162,7 @@ In 1990, Pillai struck a deal with France’s biggest food company BSN Groupe to
 
 [^3]:Wright, A., &amp; Cartwright, H. A. (Eds.). (1908). *[Twentieth century impressions of British Malaya: Its history, people, commerce, industries, and resources](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4125591)* (p. 689) London: Lloyd’s Greater Britain Pub. Call no.: RCLOS 959.51033 TWE
 
-[^4]:[National Library Board](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1122_2006-06-15.html), 2006.
+[^4]:[National Library Board](https://www.nlb.gov.sg/main/article-detail?cmsuuid=a3edc99d-1cfc-46d6-9198-cfc4bd51edda), 2006.
 
 [^5]:[National Library Board](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1122_2006-06-15.html), 2006; Singapore. Urban Redevelopment Authority. (n.d.). *Capitol Theatre, Capitol Buildng and Stamford House*. Retreived from Urban Redevelopment Authority website.
 
