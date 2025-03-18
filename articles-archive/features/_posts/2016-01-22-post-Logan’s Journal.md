@@ -68,7 +68,7 @@ All nine volumes of the journal dating from 1847 to 1855, along with three addit
 
 [^8]:Bastin, C., &amp; Bastin, J. (1964). Some old Penang tombstones. *[Journal of the Malaysian Branch of the Royal Asiatic Society](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4126333), 37* (1) (205), 126–165, p. 146. Call no.: RCLOS 959.5JMBRAS
 
-[^9]:[National Library Board](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1146_2009-10-27.html), 2009.
+[^9]:[National Library Board](https://www.nlb.gov.sg/main/article-detail?cmsuuid=a45589d7-a6da-480e-a37a-40246bca2c0d), 2009.
 
 [^10]:Turnbull, C.M. (1969, March). The European mercantile community in Singapore, 1819–1867. *[Journal of Southeast Asian History](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=2625011) (Singapore Commemorative Issue 1819–1969), 10* (1), 12–35, p. 17. Call no.: RCLOS 959.05 JSA
 
