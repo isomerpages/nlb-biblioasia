@@ -57,7 +57,7 @@ The long snaking queues became a thing of the past as self-check machines and an
 
 The 300-square-metre courtyard of the National Library also underwent a transformation. After upgrading works, the courtyard was repurposed as a public space to “promote the library as a vibrant place and as a venue for creative expressions like poetry, readings, drama or dance performances, or forum discussions on an art topic,” said Lim Siew Kim, deputy director of the National Reference Library. The addition of a fountain and a cafe enhanced the ambience and further improved library user experience.[^10]
 
-From Stamford Road to Victoria Street&nbsp;
+#### **From Stamford Road to Victoria Street**
 
 In 1998, it was announced that the National Library would be demolished to make way for the Singapore Management University and the construction of Fort Canning Tunnel. The Preservation of Monuments Board (now Preservation of Sites and Monuments), which evaluated the building, found that it did not “possess sufficient merit to be accorded the status of a gazetted national monument”.&nbsp;
 
