@@ -87,7 +87,7 @@ Its literary heritage lives on in the National Collection at the Lee Kong Chian 
 [^2]: K.K. Seet, [_A Place for the People_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082325) (Singapore: Times Books International, 1983), 115. (From National Library Singapore, call no. RSING 027.55957 SEE)
 
 
-[^3]: “Start Made on Free Library,” _Straits Times_, 17 August 1957, 4; “$2½ Mil. Library Is Free,” _Singapore Free Press_, 16 August 1957, 2; “City’s New $2 Mil Library,” _Sunday Standard_, 20 November 1955, 3. (From NewspaperSG)
+[^3]: “[Start Made on Free Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19570817-1.2.60),” _Straits Times_, 17 August 1957, 4; “[$2½ Mil. Library Is Free](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19570816-1.2.10),” _Singapore Free Press_, 16 August 1957, 2; “[City’s New $2 Mil Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaystandard19551120-1.2.33),” _Sunday Standard_, 20 November 1955, 3. (From NewspaperSG)
 
 
 [^4]: “Library Building in Singapore Is Severely Criticised,” _Straits Times_, 4 July 1960, 7; Ian Mok-Ai, “They Gasp with Horror at This ‘Monstrous Monument’,” _Singapore Free Press_, 9 July 1960, 4. (From NewspaperSG)
