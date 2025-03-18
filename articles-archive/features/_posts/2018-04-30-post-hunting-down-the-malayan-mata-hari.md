@@ -4,11 +4,12 @@ date: 2018-04-30
 permalink: /vol-14/issue-1/apr-jun-2018/malayan-mata-hari/
 image: /images/Vol-14-issue-1/hunting-down-the-malayan/Hunt1.jpg
 layout: post
+variant: markdown
 ---
 #### **Ronnie Tan** pieces together the fascinating story of Lee Meng, the Malayan Communist Party female agent who headed its courier network for a brief period in 1952.
 
 
-<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src="https://www.youtube.com/embed/EnB0gs2fwUA" frameborder='0' allowfullscreen></iframe></div>
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/EnB0gs2fwUA" frameborder="0" allowfullscreen=""></iframe></div>
 <div style="background-color: white;"><i>Hearts and Minds</i>, a docudrama of the tense showdown between Detective-Inspector Irene Lee and suspected communist Lee Meng, played by Jo Tan and Oon Shu An respectively.</div>
 
 On 16 June 1948, three European planters were brutally murdered by communist guerillas in the Sungei Siput area in Perak state, in what was then known as Malaya.[^1] Two days later, Britain declared a state of Emergency in Malaya, with Singapore following suit on 24 June 1948. The battle for control of Malaya and Singapore between the British and the Malayan Communist Party (MCP; also known as the Communist Party of Malaya) had begun, and it would not end until 31 July 1960.
@@ -158,7 +159,7 @@ The author would like to thank Yvonne Yeo, Goh Yu Mei and Seow Peck Ngiam for th
 #### **REFERENCES**
 [Coroner returns murder finding](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19510606-1.2.86). (1951, June 6). *The Straits Times*. p. 7. Retrieved from NewspaperSG.
 
-Douglas, W.O. (1953). [*North from Malaya: Adventure on five fronts*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=1520719) (p. 55). New York: Doubleday & Company. (Call no.: RCLOS 959 DOU).
+Douglas, W.O. (1953). [*North from Malaya: Adventure on five fronts*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=1520719) (p. 55). New York: Doubleday &amp; Company. (Call no.: RCLOS 959 DOU).
 
 [Grenade case girl: I’m not that woman story of her 2 I-cards](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19520829-1.2.15). (1952, August 29). *Singapore Standard*, p. 1. Retrieved from NewspaperSG.
 
@@ -200,7 +201,7 @@ Van Tonder, G. (2017). [*Malayan emergency: Triumph of the running dogs*](http:/
 [^7]:Short, A. (2000). [*In pursuit of mountain rats: The communist insurrection in Malaya*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10102439) (p. 384). Singapore: Cultured Lotus. (Call no.: RSING 959.5104 SHO).
 [^8]:[Short](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=10102439), 2000, p. 385.
 [^9]:[Chin](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12106841), 2003, p. 348.
-[^10]:The British Military Administration (BMA) ended when civilian rule was restored on 1 April 1946. See National Library Board. (2014). [*British Military Administration is established*](http://eresources.nlb.gov.sg/history/events/e8284ccf-66eb-4114-a9f5-edc04b974325). Retrieved from HistorySG.
+[^10]:The British Military Administration (BMA) ended when civilian rule was restored on 1 April 1946. See National Library Board. (2014). [*British Military Administration is established*](https://www.nlb.gov.sg/main/article-detail?cmsuuid=e8284ccf-66eb-4114-a9f5-edc04b974325). Retrieved from HistorySG.
 [^11]:Comber, L. (2008). [*Malaya’s secret police 1945–60: The role of the Special Branch in the Malayan Emergency*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13055676) (p. 228). Singapore: Institute of Southeast Asian Studies; Australia: Monash Asia Institute. (Call no.: RSING 363.283095951 COM-[GH]).
 [^12]:[Such a surprise for Irene](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19560104-1.2.112). (1956, January 4). *The Straits Times*. p. 7. Retrieved from NewspaperSG.
 [^13]:Barber, N. (1971). [*The war of the running dogs: How Malaya defeated the communist guerrillas, 1948–60*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=839401) (p. 165). London: Collins. (Call no.: RCLOS 959.5 BAR-[JSB]).
