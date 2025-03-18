@@ -196,7 +196,7 @@ As for larger animals, horses used to be stabled in the Istana, though no longer
 [^6]:Seet, K.K, &amp; Myddelton, D.R. (2000). [*The Istana*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9850671) (p. 30). Singapore: Times Editions (Call no.: RSING q725.17095957 IST)
 [^7]:President’s Office. (2018). *The Istana: History*. Retrieved from President of the Republic of Singapore website.
 [^8]:Palladianism or Palladian architecture is a European style of architecture influenced by the 16th-century Venetian architect Andrea Palladio (1508–80). The style is characterised by classical forms, symmetry and strict proportions. Neo-Palladian is English Palladian architecture popular in the 18th century.
-[^9]:National Library Board. (2010). [*The Istana*](http://eresources.nlb.gov.sg/infopedia/articles/SIP_807_2005-02-01.html) written by Vernon Cornelius. Retrieved from Singapore Infopedia.
+[^9]:National Library Board. (2010). [*The Istana*](https://www.nlb.gov.sg/main/article-detail?cmsuuid=b210317d-7398-49b2-bb71-9ce13322075e) written by Vernon Cornelius. Retrieved from Singapore Infopedia.
 [^10]:Hoe, I. (2019). [*50 best kept secrets of the Istana: History and heritage*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=203889789) (p. 37). Singapore: Published by Epigram for the Istana, the office of the President of the Republic of Singapore. (Call no.: RSING 959.57 HOE-[HIS])
 [^11]:See Tan, B. (2018, Jul–Sep). [Globetrotting mums: Then and now](https://biblioasia.nlb.gov.sg/vol-14/issue-2/jul-sep-2018/). *BiblioAsia*, 14 (2). Retrieved from BiblioAsia website.
 [^12]:[Seet &amp; Myddelton](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=9850671), 2000, pp. 43, 45.
