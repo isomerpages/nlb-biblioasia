@@ -162,7 +162,7 @@ Set up in 1979, the Oral History Centre records, documents, preserves and dissem
 
 [An old Singapore landmark to be replaced](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19591209-1.2.53). (1959, December 9). <i>The Straits Times</i>, p. 7. Retrieved from NewspaperSG.
 
-Ang, P.H. (1983, July 6). [Everything must go](http://eresources.nlb.gov.sg/newspaper). <i>Singapore Monitor</i>, p. 6. Retrieved from NewspaperSG.
+Ang, P.H. (1983, July 6). [Everything must go](https://eresources.nlb.gov.sg/newspapers/digitised/article/singmonitor19830706-1.2.6.12). <i>Singapore Monitor</i>, p. 6. Retrieved from NewspaperSG.
 
 Ang, A. (1990, February 17). [Heeren Building has to make way for road project](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900217-1.2.32.2.2). <i>The Straits Times</i>, p. 22. Retrieved from NewspaperSG.
 
