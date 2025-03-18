@@ -176,7 +176,7 @@ Accompanied by families and well-wishers, and under the watchful eyes of minders
 
 [^32]:Jumabhoy, R. (1982, August 7). [The spice trade article and my family](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820807-1.2.69.2). *The Straits Times*, p. 17. Retrieved from NewspaperSG.
 
-[^33]:Raffles Place was converted to house an underground carpark in 1961 and became a pedestrian zone in 1972. See [National Library Board](https://eresources.nlb.gov.sg/infopedia/articles/SIP_864_2004-12-30.html), 2018.
+[^33]:Raffles Place was converted to house an underground carpark in 1961 and became a pedestrian zone in 1972. See [National Library Board](https://www.nlb.gov.sg/main/article-detail?cmsuuid=b62dd9d7-ea3c-42b4-a3b7-fd97d601cea4), 2018.
 
 [^34]:Sam, J. (1985, February 24). [Fiery start to 1830 lunar year](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19850224-1.2.46.5.1). *Singapore Monitor*, p. 2. Retrieved from NewspaperSG.
 
