@@ -220,7 +220,7 @@ The bulb of this street lamp along Phillip Street photographed in 1968 resembles
 
 [^12]: [Untitled: Gas for Singapore](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18610817-1.2.6). (1861, August 17). *The Straits Times*, p. 1. Retrieved from NewspaperSG.
 
-[^13]: Kallang Gasworks was decommissioned in March 1998 and its function taken over by Senoko Gasworks. See Tan, B. (2018). *[Kallang Gasworks](https://eresources.nlb.gov.sg/infopedia/articles/SIP_750_2005-01-11.html)*. Retrieved from Singapore Infopedia, National Library, Singapore. 
+[^13]: Kallang Gasworks was decommissioned in March 1998 and its function taken over by Senoko Gasworks. See Tan, B. (2018). *[Kallang Gasworks](https://www.nlb.gov.sg/main/article-detail?cmsuuid=093ecbc7-b83d-4916-9868-9d8465378096)*. Retrieved from Singapore Infopedia, National Library, Singapore. 
 
 [^14]: Makepeace, W., Brooke, G.E., &amp; Braddell, R.S.J. (1921). *[One hundred years of Singapore: Being some account of the capital of the Straits Settlements from its foundation by Sir Stamford Raffles on the 6th February 1819 to the 6th February 1919](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4183132)* (Vol. II; p. 512). London: John Murray. (Call no.: RCLOS 959.51 MAK-[RFL])
 
