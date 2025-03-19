@@ -120,7 +120,7 @@ Several times a year, MDA leads delegations of local media companies to major in
 
 [^5]:Lent, J.A. (Ed.). (1978). *[Broadcasting in Asia and the Pacific: A continental survey of radio and television](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4987706)* (p. 161). Philadelphia: Temple University Press. (Call no.: RSEA 384.5095 BRO)
 
-[^6]:National Library Board. (2015, March). *[Singapore Broadcasting Corporation is established](https://eresources.nlb.gov.sg/history/events/19fe790d-ffda-49ed-a925-ec237e7dda6e)*. Retrieved from HistorySG.
+[^6]:National Library Board. (2015, March). *[Singapore Broadcasting Corporation is established](https://www.nlb.gov.sg/main/article-detail?cmsuuid=19fe790d-ffda-49ed-a925-ec237e7dda6e)*. Retrieved from HistorySG.
 
 [^7]:Mahbubani, G. (1980, March 26). [High hopes and old problems for the new station](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800326-1.2.149.16.1). *The Straits Times*, p. 8. Retrieved from NewspaperSG; Singapore. Parliament. *[Parliamentary debates: Official report](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4826189)*. (1979, December 11). Third Reading of the Singapore Broadcasting  Corporation Bill (Vol. 39, col. 535). Singapore: [s.n]. (Call no.: RSING 328.5957 SIN)
 
