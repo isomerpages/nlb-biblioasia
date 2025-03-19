@@ -5,12 +5,12 @@ permalink: /vol-11/issue-2/jul-sep-2015/mohamed-eunos/
 image: /images/vol-11-issue-2/malayjournalism/Mohamed_Eunos_Abdullah.jpg
 layout: post
 description: ""
+variant: markdown
 ---
-
 #### The Eunos area in the east of Singapore is named after the pioneer, Mohamed Eunos Abdullah. **Mazelan Anuar** traces his legacy. 
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-11-issue-2/malayjournalism/Mohamed_Eunos_Abdullah.jpg">
 Possibly the only extant image of Mohamed Eunos Abdullah. <i>Courtesy of National Archives of Singapore</i>.
 </div>
@@ -78,13 +78,13 @@ Eunos Abdullah and his peers believed that an authentic Malay life was best expe
 Following his retirement in 1931 Eunos Abdullah suffered from poor health and passed away at the age of 57 on 12 December 1933 at his home on Desker Road. His body was laid to rest at Bidadari Cemetery.[^21]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img style="width:70%" src="/images/vol-11-issue-2/malayjournalism/Bungalow_type.jpg">
 Bungalow-type dwellings made of wood and zinc in Kampong Melayu. <i>All rights reserved, Singapore Ministry of Culture. (1963). Democratic socialism in action, June 1959 to April 1963 (p. 21). Singapore: Ministry of Culture</i>.
 </div>
 
 <div style="background-color: white; padding-bottom:20px;">
-<br/>
+<br>
 <img src="/images/vol-11-issue-2/malayjournalism/street_direction.jpg">
 1956 street directory indicating the location of Jalan Eunos and the Malay Settlement. <i>All rights reserved, Singapore Survey Department. (1950–75). Singapore street directory and sectional maps (Map no. 60). Singapore: Survey Department</i>.
 </div>
@@ -108,15 +108,15 @@ After World War II, the Kesatuan Melayu Singapura (KMS), together with more than
 	
 #### **REFERENCES**
 
-Adlina Maulod. (2010). *[Mohamed Eunos bin Abdullah](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1201_2010-05-03.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
+Adlina Maulod. (2010). *[Mohamed Eunos bin Abdullah](https://www.nlb.gov.sg/main/article-detail?cmsuuid=4cbeb699-4344-4a1f-9c75-062a913a375a)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
-Chia, Y.J., & Nor-Afidah Abd Rahman. (2016). *[Utusan Melayu](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1088_2007-06-12.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
+Chia, Y.J., &amp; Nor-Afidah Abd Rahman. (2016). *[Utusan Melayu](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1088_2007-06-12.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
 Cornelius-Takaham, V. (2016). *[Jalan Eunos](https://eresources.nlb.gov.sg/infopedia/articles/SIP_738_2005-01-24.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
 [Death of Inche Eunos bin Abdullah](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19331213-1.2.49). (1933, December 13). *The Singapore Free Press*, p. 7. Retrieved from NewspaperSG.
 
-Frost, M.R., & Balasingamchow, Y. (2009). *[Singapore: A biography](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13229116)*. Singapore: Editions Didier Millet: National Museum of Singapore. (Call no.: RSING 959.57 FRO)
+Frost, M.R., &amp; Balasingamchow, Y. (2009). *[Singapore: A biography](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13229116)*. Singapore: Editions Didier Millet: National Museum of Singapore. (Call no.: RSING 959.57 FRO)
 
 [Inche Eunos](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19331214-1.2.87). (1933, December 14). *The Singapore Free Press*, p. 9. Retrieved from NewspaperSG.
 
@@ -138,7 +138,7 @@ National Library Board. (2015, March). *[Mohd Eunos bin Abdullah is appointed Mu
 
 Roff, W.R. (1994). *[The origins of Malay nationalism](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7122266)*. Kuala Lumpur: Oxford University Press. (Call no.: RSING 320.54 ROF)
 
-Savage, V.R., & Yeoh, B.S.A. (2013). *[Singapore street names: A study of toponymics](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123850)*. Singapore: Marshall Cavendish Editions. (Call no.: RSING 915.9570014 SAV)
+Savage, V.R., &amp; Yeoh, B.S.A. (2013). *[Singapore street names: A study of toponymics](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123850)*. Singapore: Marshall Cavendish Editions. (Call no.: RSING 915.9570014 SAV)
 
 [Settlement a failure](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19330516-1.2.45). (1933, May 16). The Singapore Free Press, p. 7. Retrieved from NewspaperSG.
 
@@ -150,7 +150,7 @@ Turnbull, C.M. (1989).*[ A history of Singapore, 1819–1988](https://eservice.n
 
 #### **NOTES**
 
-[^1]: Savage, V.R., & Yeoh, B.S.A. (2013). *[Singapore street names: A study of toponymics ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123850)*(p. 120). Singapore: Marshall Cavendish Editions. (Call no.: RSING 915.9570014 SAV)
+[^1]: Savage, V.R., &amp; Yeoh, B.S.A. (2013). *[Singapore street names: A study of toponymics ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200123850)*(p. 120). Singapore: Marshall Cavendish Editions. (Call no.: RSING 915.9570014 SAV)
 
 [^2]: Adlina Maulod. (2010). *[Mohamed Eunos bin Abdullah](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1201_2010-05-03.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
@@ -160,13 +160,13 @@ Turnbull, C.M. (1989).*[ A history of Singapore, 1819–1988](https://eservice.n
 
 [^5]: [Utosan Malayu](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easterndaily19071109-1.2.22). (1907, November 9). *Eastern Daily Mail and Straits Morning Advertiser*, p. 7. Retrieved from NewspaperSG.
 
-[^6]: Milner, A.C. (2002). *[The invention of politics in colonial Malaya](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10408470)* (pp. 98–107). New York: Cambridge University Press. (Call no.: RSEA 959.5 MIL); Frost, M.R., & Balasingamchow, Y. (2009). *[Singapore: A biography](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13229116)* (pp. 195–198). Singapore: Editions Didier Millet: National Museum of Singapore. (Call no.: RSING 959.57 FRO)
+[^6]: Milner, A.C. (2002). *[The invention of politics in colonial Malaya](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10408470)* (pp. 98–107). New York: Cambridge University Press. (Call no.: RSEA 959.5 MIL); Frost, M.R., &amp; Balasingamchow, Y. (2009). *[Singapore: A biography](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13229116)* (pp. 195–198). Singapore: Editions Didier Millet: National Museum of Singapore. (Call no.: RSING 959.57 FRO)
 
 [^7]: [Roff](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7122266), 1994, p. 159.
 
 [^8]: National Library Board. (2014). *[First issue of Utusan Malayu (1907–1921) is published](https://eresources.nlb.gov.sg/history/events/8f22fb24-ca40-46d3-a3f3-a638f444e8bc)*. Retrieved from HistorySG website.
 
-[^9]: Chia, Y.J., & Nor-Afidah Abd Rahman. (2016). *[Utusan Melayu](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1088_2007-06-12.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
+[^9]: Chia, Y.J., &amp; Nor-Afidah Abd Rahman. (2016). *[Utusan Melayu](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1088_2007-06-12.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
 [^10]: National Library Board. (2015, March). *[Mohd Eunos bin Abdullah is appointed Municipal Commissioner](https://eresources.nlb.gov.sg/history/events/4eaa79dd-74ae-43b3-9ffa-d8953e842b3d)*. Retrieved from HistorySG website.
 
