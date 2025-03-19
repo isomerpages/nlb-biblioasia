@@ -166,7 +166,7 @@ Turnbull, C.M. (1989).*[ A history of Singapore, 1819–1988](https://eservice.n
 
 [^8]: National Library Board. (2014). *[First issue of Utusan Malayu (1907–1921) is published](https://www.nlb.gov.sg/main/article-detail?cmsuuid=8f22fb24-ca40-46d3-a3f3-a638f444e8bc)*. Retrieved from HistorySG website.
 
-[^9]: Chia, Y.J., &amp; Nor-Afidah Abd Rahman. (2016). *[Utusan Melayu](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1088_2007-06-12.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
+[^9]: Chia, Y.J., &amp; Nor-Afidah Abd Rahman. (2016). *[Utusan Melayu](https://www.nlb.gov.sg/main/article-detail?cmsuuid=02769d88-cba6-4ce0-879b-6f435dca15de)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
 [^10]: National Library Board. (2015, March). *[Mohd Eunos bin Abdullah is appointed Municipal Commissioner](https://www.nlb.gov.sg/main/article-detail?cmsuuid=66c886d1-943a-4219-98df-1ae7f081afb1)*. Retrieved from HistorySG website.
 
