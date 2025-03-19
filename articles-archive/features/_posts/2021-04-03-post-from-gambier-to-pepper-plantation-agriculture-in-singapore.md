@@ -174,7 +174,7 @@ Of course, this was not the typical fate of smaller rubber plantation companies 
 
 [^6]: Low, S.C. (1955). *[Gambier-and-pepper planting in Singapore, 1819–1860](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202750334)* (p. 36) [University of Malaya, Singapore; thesis]. [n.p.]. (Call no.: RCLOS 630.95957 LOW)
 
-[^7]: Song, O.S. (1923). *[One hundred years’ history of the Chinese in Singapore](https://eresources.nlb.gov.sg/printheritage/detail/f8082431-1c7b-460e-b59c-bbc5793035a3.aspx)* (p. 20). London: John Murray. Retrieved from BookSG. (Call no.: RCLOS 959.57 SON; Accession no.: B02956336A). For more information about Seah Eu Chin, see Yong, C.Y. (2016). *[Seah Eu Chin](https://www.nlb.gov.sg/main/article-detail?cmsuuid=4aab4b55-d754-4c95-a26f-3da7285a1ffc)*. Retrieved from Singapore Infopedia website.
+[^7]: Song, O.S. (1923). *[One hundred years’ history of the Chinese in Singapore](https://www.nlb.gov.sg/main/book-detail?cmsuuid=f8082431-1c7b-460e-b59c-bbc5793035a3)* (p. 20). London: John Murray. Retrieved from BookSG. (Call no.: RCLOS 959.57 SON; Accession no.: B02956336A). For more information about Seah Eu Chin, see Yong, C.Y. (2016). *[Seah Eu Chin](https://www.nlb.gov.sg/main/article-detail?cmsuuid=4aab4b55-d754-4c95-a26f-3da7285a1ffc)*. Retrieved from Singapore Infopedia website.
 
 [^8]: [Low](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202750334), 1955, p. 37.
 
@@ -184,7 +184,7 @@ Of course, this was not the typical fate of smaller rubber plantation companies 
 
 [^11]: Lee, K.L. (1984). *[Emerald Hill: The story of a street in words and pictures](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4080780)* (p. 1). Singapore: National Museum of Singapore. (Call no.: RSING 959.57 LEE)
 
-[^12]: Earl, G.W. (1837). *[The eastern seas, or voyages and adventures in the Indian Archipelago, 1832–33–34](https://eresources.nlb.gov.sg/printheritage/detail/ad9d0845-d805-4ec1-9cec-f26135c14d4a.aspx)* (pp. 408–409). London: W.H. Allen &amp; Co. Retrieved from BookSG. (Call no.: RRARE 915.980422 EAR; Accession no.: B02948006G)
+[^12]: Earl, G.W. (1837). *[The eastern seas, or voyages and adventures in the Indian Archipelago, 1832–33–34](https://www.nlb.gov.sg/main/book-detail?cmsuuid=ad9d0845-d805-4ec1-9cec-f26135c14d4a)* (pp. 408–409). London: W.H. Allen &amp; Co. Retrieved from BookSG. (Call no.: RRARE 915.980422 EAR; Accession no.: B02948006G)
 
 [^13]: [Duxton](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singchronicle18340109-1.2.6). (1834, January 1). *Singapore Chronicle and Commercial Register*, p. 1. Retrieved from NewspaperSG.
 
