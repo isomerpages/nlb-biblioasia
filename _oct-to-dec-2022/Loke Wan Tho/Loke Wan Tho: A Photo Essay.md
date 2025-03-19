@@ -100,7 +100,7 @@ Joshua Chia Yeong Jia, "[Cathay-Keris Studio](https://www.nlb.gov.sg/main/articl
 
 Soh Gek Han, "[Key Milestones in the History of Cathay Cinema](https://biblioasia.nlb.gov.sg/history-cathay-cinema-2022)," <i>BiblioAsia</i>, 2022.
 
-Alvin Chua, "[Cathay Organisation](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1794_2011-03-08.html)," Singapore Infopedia, 2011.
+Alvin Chua, "[Cathay Organisation](https://www.nlb.gov.sg/main/article-detail?cmsuuid=6e292eee-270c-4170-a1a7-7d73711f8888)," Singapore Infopedia, 2011.
 
 Bonny Muliani Tan, "[A Malayan Treasure: The Gibson-Hill Collection](https://biblioasia.nlb.gov.sg/files/pdf/vol-4/issue-3/v4-issue3_MalayanTreasure.pdf)," <i>BiblioAsia</i> 4, no. 3 (2008).
 
