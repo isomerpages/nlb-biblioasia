@@ -215,7 +215,7 @@ The book is available for reference at the Lee Kong Chian Reference Library and 
 
 [^16]: “[At the War Memorial](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19220331-1.2.36).”
 
-[^17]: Zaubidah Mohamed and Valerie Chew, “[Cenotaph](https://eresources.nlb.gov.sg/infopedia/articles/SIP_10_2004-12-17.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published 2010.
+[^17]: Zaubidah Mohamed and Valerie Chew, “[Cenotaph](https://www.nlb.gov.sg/main/article-detail?cmsuuid=865fce29-fbe3-41d2-8bd6-4d65a49187fb),” in *Singapore Infopedia*. National Library Board Singapore. Article published 2010.
 
 [^18]: 区如柏 [Ou Rubo], “[不做拉车夫走入建筑界的惠安人](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19881225-1.2.65.1.1)” [“Rickshaw Drivers No Longer, the Hui’an People Enter the Construction Industry”], *联合早报 [Lianhe Zaobao]*, 25 December 1988, 34. (From NewspaperSG)
 
