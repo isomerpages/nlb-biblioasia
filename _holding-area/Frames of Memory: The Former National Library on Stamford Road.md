@@ -32,6 +32,10 @@ At its opening, the National Library featured a distinctive T-shaped block layou
 
 Externally, the structure was clad in striking red brick that became the hallmark of its architectural identity. While some admired the library’s unique aesthetic, which was said to reflect the red-brick era of 1950s British architecture, others criticised it for appearing discordant with adjacent buildings like the National Museum. Architects used terms such as “a monstrous monument”, “haphazard”, “clumsy”, “heavy” and “lacks basic discipline” to describe the building.[^4]
 
+![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_impression.jpg)
+<div>An artist's impression of the National Library building on Stamford Road, 1950s. <i>Collection of the National Library Singapore.</i></div>
+
+
 #### **A Place for All**
 
 The National Library offered a wide array of collections and services. The public lending library included separate sections for adult and children’s books as well as facilities for activities, while the reference library housed the South East Asia Collection.&nbsp;
