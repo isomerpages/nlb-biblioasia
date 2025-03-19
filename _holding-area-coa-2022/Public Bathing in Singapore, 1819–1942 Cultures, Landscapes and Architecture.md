@@ -822,7 +822,7 @@ _Malaya Tribune_. “[Education in 1921: Annual Report for the Straits Settlemen
 
 —. “[A Chinese Recreation Ground](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19290925-1.2.33).” 25 September 1929, 8.
 
-—. “[Chinese Topics](Chinese%20Topics).” 26 September 1930, 12.
+—. “[Chinese Topics](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19300926-1.2.86).” 26 September 1930, 12.
 
 _Mid-Day Herald_. “[A Standing Nuisance](https://eresources.nlb.gov.sg/newspapers/digitised/article/middayherald18960331-1.2.4).” 31 March 1896, 2.
 
