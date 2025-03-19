@@ -3,6 +3,7 @@ title: "More Than Just a Flower: The Orchid’s Manifold Faces"
 permalink: /vol-7/issue-3/oct-dec-2011/orchid-flower-manifold-face/
 description: Senior Librarian Ang Seow Leng gives us a crash course in all
   things orchids and their special relationship with Singapore.
+variant: markdown
 ---
 #### Senior Librarian Ang Seow Leng gives us a crash course in all things orchids and their special relationship with Singapore.
 
@@ -166,7 +167,7 @@ Ee Jamie Wen Wei, “[Mandai Orchid Garden to Move to Kranji](http://eresources.
 
 _Encyclopedia Britannica_, “Orchid,” accessed 5 September 2011, http://www.britannica.com/EBchecked/topic/431285/orchid.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-Gracie Lee, [Richard Eric Holttum](https://eresources.nlb.gov.sg/infopedia/articles/SIP_636__2008-10-11.html), _Singapore Infopedia_, published 2016.
+Gracie Lee, [Richard Eric Holttum](https://www.nlb.gov.sg/main/article-detail?cmsuuid=792f8573-5561-42d1-bd82-81d2a5882af8), _Singapore Infopedia_, published 2016.
 
 H. M. Burkhill, _[The Role of the Singapore Botanic Gardens in the Development of Orchid Hybrids](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4979967)_ (Singapore: Straits Times Press, 1963). (Call no. RCLOS 584.15 BUR)
 
