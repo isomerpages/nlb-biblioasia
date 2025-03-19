@@ -38,7 +38,7 @@ The technique of dipping preheated metal moulds in batter and then into hot oil,
 In Scappi’s recipe, moulds depicting lions, eagles and “fanciful shapes” are dipped in a batter of flour, water, white wine, oil, salt and saffron, and then into hot oil. A second recipe for a rose-scented goat’s milk batter fried in hot lard includes the pro tip of blotting excess fat off the preheated mould to obtain a shapelier fritter.[^7]
 
 <div style="background-colour:#fff6ba; padding:5px;font-size:120%; background: #fff6ba"><center>
-<b>Listen to the podcast episode "<a href="[https://biblioasia.nlb.gov.sg/podcast/kueh-pie-tee/](https://biblioasia.nlb.gov.sg/podcast/kueh-pie-tee/)\">Kueh Pie Tee: A Detective Story</a>"</b>
+<b>Listen to the podcast episode "<a href="https://biblioasia.nlb.gov.sg/podcast/kueh-pie-tee/">Kueh Pie Tee: A Detective Story</a>"</b>
 <br>
 <img src="/images/Podcast/ad_banner_biblioasia.jpg" alt="singapore history podcast" style="width:95%"></center></div>
 
