@@ -210,7 +210,7 @@ Zaccheus, M., &amp; Ee, D. (2013, October 4). [Pulau Ubin: Rustic or just rustli
 
 [^7]: Cornelius-Takahama, V. (2018, July). [Raffles Lighthouse](https://www.nlb.gov.sg/main/article-detail?cmsuuid=1b459f19-b3cd-4b4d-a82a-7236a017a14b). Retrieved from Singapore Infopedia, National Library Singapore.
 
-[^8]: Chua, A. (2009). *[The Causeway](https://eresources.nlb.gov.sg/infopedia/articles/SIP_99_2004-12-30.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
+[^8]: Chua, A. (2009). *[The Causeway](https://www.nlb.gov.sg/main/article-detail?cmsuuid=74fd954b-2970-4c10-a74f-5df4c22eee28)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
 [^9]: Ministry of National Development. (2014, March 10). <i>COS 2014 – Speech by MOS Desmond Lee “Working together to build a liveable and green Singapore”</i> [Press release]. Singapore: Ministry of National Development. Retrieved from Ministry of National Development website
 
