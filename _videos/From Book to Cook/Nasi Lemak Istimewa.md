@@ -127,7 +127,7 @@ Clean the meat well, cut it into small pieces, and fry them. Sauté red onions, 
 <a style="text-decoration: none;" href="/vol-13/issue-3/oct-dec-2017/early-malay-printing">Early Malay Printing in Singapore</a>
 <br>Mazelan Anuar tracks the rise and decline of Malay printing and publishing in 19th-century Singapore, and profiles two of the most prolific printers of that period.
 
-<a style="text-decoration: none;" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=d27567a8-59ed-4363-bb9b-beda848ab9f0l">Nasi Lemak</a>
+<a style="text-decoration: none;" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=d27567a8-59ed-4363-bb9b-beda848ab9f0">Nasi Lemak</a>
 <br>*Nasi lemak*  is a dish made from rice cooked in coconut milk. Aromatics, such as pandan leaves, lemongrass, ginger, garlic and fenugreek, can be added to it.
 
 <a style="text-decoration: none;" href="https://medium.com/the-national-library-blog/sharing-knowledge-about-cookery-a074113ed89a">Sharing Knowledge about Cookery</a>
