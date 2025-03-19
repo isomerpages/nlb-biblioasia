@@ -44,6 +44,11 @@ Externally, the structure was clad in striking red brick that became the hallmar
 
 The National Library offered a wide array of collections and services. The public lending library included separate sections for adult and children’s books as well as facilities for activities, while the reference library housed the South East Asia Collection.&nbsp;
 
+![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_queue.jpg)
+<div>Children queuing to borrow books at the information counter in the Children’s Section, 1970s. <i>Collection of the National Library Singapore.
+</i></div>
+
+
 With a seating capacity of more than 400, visitors also had access to equipment like microfilm readers to read old newspapers. Over time, the library’s facilities were upgraded. Air-conditioning was added and the collections also expanded significantly, particularly in the Chinese, Malay and Tamil sections, and from materials gifted by donors.[^5]
 
 #### **A Treasure Trove**
