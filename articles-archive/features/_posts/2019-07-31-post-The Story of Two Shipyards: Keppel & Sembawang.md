@@ -170,7 +170,7 @@ Lim, R. (1993). [*Tough men, bold visions: The story of Keppel*](https://eservic
 
 McIntyre, W.D. (1979). [*The rise and fall of the Singapore Naval Base 1919–1942*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4163560). London: MacMillan. (Call no.: RSING 359.7 MAC).
 
-National Library Board. (2014). [*Formation of the Port of Singapore Authority 1st April 1964*](https://eresources.nlb.gov.sg/history/events/a7193804-3862-4f99-8b3b-46c867073a95). Retrieved from HistorySG.
+National Library Board. (2014). [*Formation of the Port of Singapore Authority*](https://www.nlb.gov.sg/main/article-detail?cmsuuid=a7193804-3862-4f99-8b3b-46c867073a95). Retrieved from HistorySG.
 
 Neidpath, J. (1981). [*The Singapore Naval Base and the defence of the Britain’s eastern empire, 1919–1941*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=2207044). Oxford; New York: Clarendon Press. (Call no.: RSING 359.7 NEI).
 
