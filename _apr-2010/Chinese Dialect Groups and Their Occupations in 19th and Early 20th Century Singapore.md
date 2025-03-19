@@ -145,7 +145,7 @@ Cynthia Chou and Lim Puay Yin, “Hokkiens in the Provision Shop Business,” in
 
 J.D. Vaughan, [_The Manners and Customs of the Chinese_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6340458) (Singapore: Oxford University Press, 1974). (Call no. RSING 390.0951 VAU)
 
-Jeanne Louise Conceicao, “[Hainanese Community](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1492_2009-03-25.html),” _Singapore Infopedia_, published 2009.
+Jeanne Louise Conceicao, “[Hainanese Community](https://www.nlb.gov.sg/main/article-detail?cmsuuid=b6af752e-68d5-4199-a899-2391a239a5e5),” _Singapore Infopedia_, published 2009.
 
 Leow Bee Geok, [_Census of Population 2000: Demographic Characteristics. Statistical Release 1_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10405142) (Singapore: Department of Statistics, Ministry of Trade and Industry, 2001). (Call no. RSING q304. 6021095957 LEO)
 
