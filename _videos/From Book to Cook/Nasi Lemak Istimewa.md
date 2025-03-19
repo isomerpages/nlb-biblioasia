@@ -1,14 +1,15 @@
 ---
 title: Nasi Lemak Istimewa
 permalink: /videos/nasi-lemak/
-description: "Is it heresy to make nasi lemak with bay leaves instead of pandan?
-  Join librarian Toffa Abdul Wahed on 21 April to find out. "
+description: Is it heresy to make nasi lemak with bay leaves instead of pandan?
+  Join librarian Toffa Abdul Wahed on 21 April to find out.
 third_nav_title: From Book to Cook
 image: /images/Videos:%20From%20Book%20to%20Cook/siti%20radhiah_steamed%20nasi%20lemak.png
+variant: markdown
 ---
 #### Is it heresy to make *nasi lemak* with bay leaves instead of pandan? Join librarian Toffa Abdul Wahed to find out. 
 
-<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src="https://www.youtube.com/embed/SJ4Qoe6bniI" frameborder='0' allowfullscreen></iframe></div>
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/SJ4Qoe6bniI" frameborder="0" allowfullscreen=""></iframe></div>
 
 
 #### **Episode summary** ####
@@ -120,14 +121,13 @@ Clean the meat well, cut it into small pieces, and fry them. Sauté red onions, 
 
 
 #### **Related Articles**
-<a style="text-decoration: none;" href="/vol-17/issue-4/jan-to-mar-2022/siti-radhiah-cookbooks ">Siti Radhiah’s Cookbooks for the Modern Malay Woman</a>
+<a style="text-decoration: none;" href="/vol-17/issue-4/jan-to-mar-2022/siti-radhiah-cookbooks">Siti Radhiah’s Cookbooks for the Modern Malay Woman</a>
 <br>A number of cookbooks written in the 1940s and 1950s helped expand the traditional Malay culinary repertoire, as Toffa Abdul Wahed tells us.
 
-<a style="text-decoration: none;" href="/vol-13/issue-3/oct-dec-2017/early-malay-printing
-">Early Malay Printing in Singapore</a>
+<a style="text-decoration: none;" href="/vol-13/issue-3/oct-dec-2017/early-malay-printing">Early Malay Printing in Singapore</a>
 <br>Mazelan Anuar tracks the rise and decline of Malay printing and publishing in 19th-century Singapore, and profiles two of the most prolific printers of that period.
 
-<a style="text-decoration: none;" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1739_2010-12-13.html">Nasi Lemak</a>
+<a style="text-decoration: none;" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=d27567a8-59ed-4363-bb9b-beda848ab9f0l">Nasi Lemak</a>
 <br>*Nasi lemak*  is a dish made from rice cooked in coconut milk. Aromatics, such as pandan leaves, lemongrass, ginger, garlic and fenugreek, can be added to it.
 
 <a style="text-decoration: none;" href="https://medium.com/the-national-library-blog/sharing-knowledge-about-cookery-a074113ed89a">Sharing Knowledge about Cookery</a>
