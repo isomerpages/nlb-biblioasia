@@ -112,7 +112,7 @@ Adlina Maulod. (2010). *[Mohamed Eunos bin Abdullah](https://www.nlb.gov.sg/main
 
 Chia, Y.J., &amp; Nor-Afidah Abd Rahman. (2016). *[Utusan Melayu](https://www.nlb.gov.sg/main/article-detail?cmsuuid=02769d88-cba6-4ce0-879b-6f435dca15de)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
-Cornelius-Takaham, V. (2016). *[Jalan Eunos](https://eresources.nlb.gov.sg/infopedia/articles/SIP_738_2005-01-24.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
+Cornelius-Takaham, V. (2016). *[Jalan Eunos](https://www.nlb.gov.sg/main/article-detail?cmsuuid=1d48db31-1bbc-42b0-91db-614c1e10515d)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
 [Death of Inche Eunos bin Abdullah](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19331213-1.2.49). (1933, December 13). *The Singapore Free Press*, p. 7. Retrieved from NewspaperSG.
 
