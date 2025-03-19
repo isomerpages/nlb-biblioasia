@@ -276,7 +276,7 @@ October). A brief history of woodcuts in Singapore. <em><a href="https://www.nlb
 at the old National Library at Stamford Road in 1966. For more information,
 see <em><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=12824746" rel="noopener noreferrer nofollow" target="_blank">Imprints of the past: Remembering the 1966 Woodcut Exhibition</a></em>,
 2006, found at the Lee Kong Chian Reference Library.</p>
-<p>[^3]: Nureza Ahmad. (2004, May 10). <em><a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_132_2005-01-26.html" rel="noopener noreferrer nofollow" target="_blank">First multilingual playin Singapore</a></em>.
+<p>[^3]: Nureza Ahmad. (2004, May 10). <em><a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=a6e48e40-38f1-4c27-a468-94dadaf484ee" rel="noopener noreferrer nofollow" target="_blank">First multilingual play in Singapore</a></em>.
 Retrieved from Singapore Infopedia. In 1988, the Ong Teng Cheong Advisory
 Council on Art and Culture completed its extended study and recommended
 the setting up of the National Arts Council and the building of the Esplanade.</p>
