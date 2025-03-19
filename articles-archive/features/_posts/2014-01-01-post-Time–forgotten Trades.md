@@ -260,7 +260,7 @@ Naidu, R.T. (2016). *[Five-foot-way traders](https://www.nlb.gov.sg/main/article
 
 Naidu, R.T. (2016). *[Roadside barbers](https://www.nlb.gov.sg/main/article-detail?cmsuuid=59b2fc5f-9d4b-42a9-98cf-1229c57f5828)*. Retrieved from Singapore Infopedia, National Library Singapore. 
 
-Naidu, R.T. (2017). *[Letter writers](https://eresources.nlb.gov.sg/infopedia/articles/SIP_603_2005-01-04.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
+Naidu, R.T. (2017). *[Letter writers](https://www.nlb.gov.sg/main/article-detail?cmsuuid=943d91ef-a1c8-44a2-89cd-2f579b507609)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
 Naidu, R.T. (2017). *[Parrot astrologers](https://eresources.nlb.gov.sg/infopedia/articles/SIP_602_2005-01-04.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
