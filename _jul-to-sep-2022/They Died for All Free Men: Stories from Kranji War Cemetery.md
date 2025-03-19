@@ -187,7 +187,7 @@ The National Library of Singapore holds a small collection of personal documents
 
 [^28]: Silver, _[Krait](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=10287275)_, 89, 95–97.
 
-[^29]: Silver, _[Krait](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=10287275)_, 97–98; Heng Wong, “[Double Tenth Incident](https://eresources.nlb.gov.sg/infopedia/articles/SIP_111_2005-01-06.html),” in _Singapore Infopedia_. National Library Board Singapore. Article published March 2021.
+[^29]: Silver, _[Krait](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=10287275)_, 97–98; Heng Wong, “[Double Tenth Incident](https://www.nlb.gov.sg/main/article-detail?cmsuuid=9f82451d-2e94-4f73-be28-295636c6eb3b),” in _Singapore Infopedia_. National Library Board Singapore. Article published March 2021.
 
 [^30]: Lynette Ramsay Silver, _[The Heroes of Rimau](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=10287278)_ (Singapore: Cultured Lotus, 2001), 111. (From National Library, Singapore, call no. RSING 940.5426 SIL-\[WAR\])
 
