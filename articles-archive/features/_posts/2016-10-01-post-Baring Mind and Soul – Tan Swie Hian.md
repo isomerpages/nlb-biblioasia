@@ -109,12 +109,13 @@ million) at a Beijing art auction.[^7] Barely two years later, his ink-on-rice-p
 painting, “Portrait of Bada Shanren”, went under the gavel for a record
 RMB20.7 million (S$4.4 million) in Beijing.[^8] With this sale, Tan has
 clearly made his name as the most expensive living artist in Southeast
-Asia.<p></p>
-<p>More recently in May 2016, a set of six lithographed sketches done by
+Asia.
+
+More recently in May 2016, a set of six lithographed sketches done by
 former South African president Nelson Mandela – someone whom Tan greatly
 admires – and painted over by the artist was sold for HK$3.52 million (S$630,000),
 the highest-paid piece at an auction in Hong Kong. The images depict the
-hands and arms of Mandela breaking free from manacles.[^9]</p>
+hands and arms of Mandela breaking free from manacles.[^9]<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:500px" height="auto" width="100%" src="/images/Vol-12-issue-3/baring-mind-and-soul/02-baring-mind-soul.jpg">
 </div>
