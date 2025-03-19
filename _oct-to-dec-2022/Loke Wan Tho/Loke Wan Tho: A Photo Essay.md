@@ -96,7 +96,7 @@ After his passing, his family donated $100,000 to establish the Loke Wan Tho Mem
 #### **RELATED ARTICLES**
 Michael Mukunthan, "[Loke Wan Tho](https://www.nlb.gov.sg/main/article-detail?cmsuuid=0aa25928-d7b2-4c71-a0a1-3dffe99cadff)," Singapore Infopedia, 2016.
 
-Joshua Chia Yeong Jia, "[Cathay-Keris Studio](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1159_2007-07-01.html)," Singapore Infopedia, 2018.
+Joshua Chia Yeong Jia, "[Cathay-Keris Studio](https://www.nlb.gov.sg/main/article-detail?cmsuuid=0d44bd6f-4baa-4b31-ac59-facc796c0996)," Singapore Infopedia, 2018.
 
 Soh Gek Han, "[Key Milestones in the History of Cathay Cinema](https://biblioasia.nlb.gov.sg/history-cathay-cinema-2022)," <i>BiblioAsia</i>, 2022.
 
