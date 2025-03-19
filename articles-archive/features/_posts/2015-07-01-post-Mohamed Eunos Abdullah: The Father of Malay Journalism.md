@@ -110,7 +110,7 @@ After World War II, the Kesatuan Melayu Singapura (KMS), together with more than
 
 Adlina Maulod. (2010). *[Mohamed Eunos bin Abdullah](https://www.nlb.gov.sg/main/article-detail?cmsuuid=4cbeb699-4344-4a1f-9c75-062a913a375a)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
-Chia, Y.J., &amp; Nor-Afidah Abd Rahman. (2016). *[Utusan Melayu](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1088_2007-06-12.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
+Chia, Y.J., &amp; Nor-Afidah Abd Rahman. (2016). *[Utusan Melayu](https://www.nlb.gov.sg/main/article-detail?cmsuuid=02769d88-cba6-4ce0-879b-6f435dca15de)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
 Cornelius-Takaham, V. (2016). *[Jalan Eunos](https://eresources.nlb.gov.sg/infopedia/articles/SIP_738_2005-01-24.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
