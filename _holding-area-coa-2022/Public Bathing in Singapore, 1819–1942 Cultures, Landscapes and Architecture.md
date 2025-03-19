@@ -972,7 +972,7 @@ _Straits Times._ “[Batavia](https://eresources.nlb.gov.sg/newspapers/digitised
 
 —. “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19180731-1.2.21).” 31 July 1918, 8.
 
-—. “[YMCA Swimming Carnival](YMCA%20Swimming%20Carnival).” 9 October 1920, 10.
+—. “[YMCA Swimming Carnival](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19201009-1.2.81.2).” 9 October 1920, 10.
 
 —. “[Singapore Girl Guides](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19210217-1.2.78).” 17 February 1921, 8.
 
