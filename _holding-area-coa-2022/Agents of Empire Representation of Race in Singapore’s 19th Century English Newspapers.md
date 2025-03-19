@@ -646,7 +646,7 @@ _Straits Eurasian Advocate._ “[Extracts](https://eresources.nlb.gov.sg/newspap
 
 _Straits Times._ “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18450715-1.2.5).” 15 July 1845, 2.
 
-—. “[New Year’s Day](New%20Year’s%20Day).” 2 January 1875, 3.
+—. “[New Year’s Day](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18750102-1.2.10).” 2 January 1875, 2.
 
 —. “[The New Year Sports](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18950102-1.2.34).” 2 January 1895, 2.
 
