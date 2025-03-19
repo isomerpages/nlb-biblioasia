@@ -134,7 +134,7 @@ National Library Board. (2014). *[Singapore Malay Union is formed](https://www.n
 
 National Library Board. (2014). *[First issue of Utusan Malayu (1907–1921) is published](https://www.nlb.gov.sg/main/article-detail?cmsuuid=8f22fb24-ca40-46d3-a3f3-a638f444e8bc)*. Retrieved from HistorySG website.
 
-National Library Board. (2015, March). *[Mohd Eunos bin Abdullah is appointed Municipal Commissioner](https://eresources.nlb.gov.sg/history/events/4eaa79dd-74ae-43b3-9ffa-d8953e842b3d)*. Retrieved from HistorySG website.
+National Library Board. (2015, March). *[Mohd Eunos bin Abdullah is appointed Municipal Commissioner](https://www.nlb.gov.sg/main/article-detail?cmsuuid=4eaa79dd-74ae-43b3-9ffa-d8953e842b3d)*. Retrieved from HistorySG website.
 
 Roff, W.R. (1994). *[The origins of Malay nationalism](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7122266)*. Kuala Lumpur: Oxford University Press. (Call no.: RSING 320.54 ROF)
 
