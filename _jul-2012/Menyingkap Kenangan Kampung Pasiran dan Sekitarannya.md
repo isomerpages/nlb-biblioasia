@@ -181,7 +181,7 @@ Aishah Murkani. (1971, June 1). Pendidekan muzik – di Sekolah Melayu Bukit Tun
 
 Bahri Rajib. (1990, July 17). [What’s in a name](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900717-1.2.85.11.8). _The Straits Times_, p. 7. Retrieved from NewspaperSG.
 
-Bonny, T. (2009). [_Syed Omar bin Mohamed Alsagoff_](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1624_2009-12-31.html). Retrieved from Singapore Infopedia website.
+Bonny, T. (2009). [_Syed Omar bin Mohamed Alsagoff_](https://www.nlb.gov.sg/main/article-detail?cmsuuid=374a2ce7-a79d-46fc-97b5-a396761d4742). Retrieved from Singapore Infopedia website.
 
 By-laws Kampung Pasiran Multi-Purpose co-operative Society Limited. (2010, June 27). Singapura: Farbad25.
 
