@@ -262,7 +262,7 @@ Naidu, R.T. (2016). *[Roadside barbers](https://www.nlb.gov.sg/main/article-deta
 
 Naidu, R.T. (2017). *[Letter writers](https://www.nlb.gov.sg/main/article-detail?cmsuuid=943d91ef-a1c8-44a2-89cd-2f579b507609)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
-Naidu, R.T. (2017). *[Parrot astrologers](https://eresources.nlb.gov.sg/infopedia/articles/SIP_602_2005-01-04.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
+Naidu, R.T. (2017). *[Parrot astrologers](https://www.nlb.gov.sg/main/article-detail?cmsuuid=388c422e-d4f1-4ac3-bcd8-349afdabb50b)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
 National Library Board. (2013). <i>Singapore memory portal</i>. Retrieved from Singapore memory.sg website. 
 
