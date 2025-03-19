@@ -208,7 +208,7 @@ Oon, V. (1974, December 26). [Dick tells his life story on disc](http://eresourc
 
 Ong, S.C. (1990, March 25). [Japanese bowled over by 'Mad Chinaman' Dick Lee](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900325-1.2.26.19). <i>The Straits Times</i>, p. 21. Retrieved from NewspaperSG. 
 
-Perera, L.M., &amp; Perera, A. (2010). *[Dick Lee (李迪文): Creating endless opportunities](https://eresources.nlb.gov.sg/music/Media/PDFs/Article/6d84beaf-fb53-48a0-9693-b3c183893021.pdf)*. Retrieved from MusicSG.
+Perera, L.M., &amp; Perera, A. (2010). *[Dick Lee (李迪文): Creating endless opportunities](https://www.nlb.gov.sg/main/api/MusicDetailPage/ViewPdf?resourceUuid=cd335f8e-a681-4d3d-9455-5b0e14e18285)*. Retrieved from MusicSG.
 
 Singapore Repertory Theatre (n.d.). <i>About forbidden city</i>. Retrieved from Singapore Repertory Theatre website.
 
