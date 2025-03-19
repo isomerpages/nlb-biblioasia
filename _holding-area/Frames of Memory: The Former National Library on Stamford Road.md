@@ -7,6 +7,11 @@ description: ""
 #### Beyond being a mere repository of books, the former landmark on Stamford Road was a place for acquiring knowledge, making memories and creating friendships.  
 By Lim Tin Seng
 
+
+![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_facing.jpg)
+<div>The National Library on Stamford Road, 1960s. <i>RAFSA Collection, courtesy of National Archives of Singapore.</i></div>
+
+
 The former National Library building on Stamford Road, which opened in 1960, became a beloved landmark in the area thanks to its striking red-brick facade and distinctive modern architecture. This photo essay revisits the history and legacy of the building.
 
 #### **Unveiling a Literary Haven**
