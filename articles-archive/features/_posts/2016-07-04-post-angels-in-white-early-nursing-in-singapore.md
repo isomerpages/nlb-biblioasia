@@ -132,7 +132,7 @@ In 1934, Simmons was promoted to Public Health Matron for rural Singapore. Durin
 <br><br>
 Simmons retired to England in 1948, after having overseen a drop in the infant mortality rate from 263 deaths per 1,000 babies in 1927 to an exceptional record of 57 deaths per 1,000 babies that year. This was a feat especially when viewed against the backdrop of a rising birth rate. She later moved to Scotland, where she died in 1958.
 <br><br>
-Extracted from Singapore Infopedia: National Library Board. (2013, March 25). <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-05-14_135054.html">Ida Simmons</a> written by Sutherland, Duncan. Retrieved from Singapore Infopedia website.</div>
+Extracted from Singapore Infopedia: National Library Board. (2013, March 25). <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=9f3cabb0-117f-46bf-975d-f68c82cc7336l">Ida Simmons</a> written by Sutherland, Duncan. Retrieved from Singapore Infopedia website.</div>
 
 <div style="background-color: white;">
 <br>
