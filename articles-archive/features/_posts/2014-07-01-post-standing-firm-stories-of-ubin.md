@@ -4,11 +4,12 @@ date: 2014-07-01
 permalink: /vol-10/issue-2/jul-sep-2014/stories-of-ubin/
 image: /images/vol-10-issue-2/ubin/Pulau_Ubin.jpg
 layout: post
+variant: markdown
 ---
 #### Apart from being an escape from the hubbub of city life, Pulau Ubin is home to a small but dwindling number of Singaporeans. **Ang Seow Leng** sheds some light on life on the island.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-10-issue-2/ubin/Pulau_Ubin.jpg" style="width:70%;">
 Sunset at Pulau Ubin jetty. <i>Courtesy of Ria Tan, www.wildsingapore.com</i></div>
 
@@ -55,7 +56,7 @@ In Chinese folklore, the Goddess of the Sea, or Mazu (妈祖), is an important c
 However, not all of Ubin’s buildings face closure or demolition. The Pulau Ubin Fo Shan Teng Tua Pek Kong Temple pre-dates 1869 according to the date inscribed on the temple’s renovation stele. The temple is located near the jetty and is one of the rare Chinese temples in Singapore that has a permanent stage for <i>wayang</i> (Chinese opera).[^46] The temple and its stage come alive twice a year, during the fourth and seventh months of the Chinese lunar calendar. Chinese operas and contemporary <i>getai</i> performances are staged in honour of Tua Pek Kong and to mark the Hungry Ghost Festival. This is a far cry from the 1950s when weekly <i>wayang</i> shows were put up to entertain the villagers.[^47]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-10-issue-2/ubin/chinese_opera_performance.jpg" style="width:70%;">
 A crowd watching a Chinese opera performance on Pulau Ubin in 1992. The <i>wayang</i> (opera) stage still stands on the island. <i>Courtesy of National Archives of Singapore.</i></div>
 
@@ -66,17 +67,17 @@ People and places tell the story of the island, and unless there is a new “wav
 Author Dr Chua Ee Kiam located a similar rock that resembles the one captured in a striking painting done more than 150 years ago by John Turnbull Thomson – <i>Grooved Stones at Pulo Ubin near Singapore</i>. Hopefully, in spite of the island’s evolution and the encroachments made by man, that rock will still be around for another 100 years. 
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-10-issue-2/ubin/Pulau_Ubin_painting.jpg" style="width:70%;">
 Painting of Pulau Ubin by John Turnbull Thomson. <i>“Grooved stones on Pulo Ubin near Singapore, 1850”. Used with permission from the Hall-Jones family.</i></div>
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-10-issue-2/ubin/rock_facade.jpg" style="width:70%;">
 Rock facade similar to that in the 1850 painting by John Turnbull Thomson, photographed by Dr Chua Ee Kiam. <i>Courtesy of Dr Chua Ee Kiam.</i></div>
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-10-issue-2/ubin/ong_kim_seng_painting.jpg" style="width:70%;">
 Painting of prawn ponds on Ubin by Cultural Medallion winner Ong Kim Seng. Ong spent eight months painting on the island and his paintings were showcased in 2001 at “Charms of Ubin”, an exhibition held at the People’s Association headquarters, organised by the Outward Bound School to raise funds to develop an adventure park for children. Ong’s time on Ubin reminded him of his <i>kampung</i> days. <i>Courtesy of Ong Kim Seng.</i></div>
 
@@ -126,11 +127,11 @@ D’Rozario, v. (2001, December 28). [Chek Jawa an ideal outdoor classroom](http
 
 Geh, M. (2001, July 16). [Chek Jawa’s natural beach should be preserved](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20010716-1.2.23.4). <i>The Straits Times</i>, p. 14. Retrieved from NewspaperSG.
 
-Hall-Jones, J., & Hooi, C. (1979). *[An early surveyor in Singapore: John Turnbull Thomson in Singapore, 1841–1853](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082509)*. Singapore: National Museum. (Call no.: RSING 526.90924 THO)
+Hall-Jones, J., &amp; Hooi, C. (1979). *[An early surveyor in Singapore: John Turnbull Thomson in Singapore, 1841–1853](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082509)*. Singapore: National Museum. (Call no.: RSING 526.90924 THO)
 
 Helmi, Yusof. (2003, October 16). [Farewell Ubin CC](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20031016-1.2.30.4). <i>The Straits Times</i>, p. 2. Retrieved from NewspaperSG.
 
-Heng, L., & Kang, A. (2013, April 13). [This is our ONLY HOME](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20130413-1.2.3.1). <i>The New Paper</i>, pp. 2–3. Retrieved from NewspaperSG.
+Heng, L., &amp; Kang, A. (2013, April 13). [This is our ONLY HOME](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20130413-1.2.3.1). <i>The New Paper</i>, pp. 2–3. Retrieved from NewspaperSG.
 
 Ho, B. (2005, April 27). [He does it by… keeping life simple](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20050427-1.2.107.12.8). <i>The Straits Times</i>, p. 20. Retrieved from NewspaperSG.
 
@@ -188,7 +189,7 @@ Urban Redevelopment Authority (Singapore). (2007). <i>Architectural Heritage Awa
 
 White, T. (2001, February 12). [Leaving Ubin for life on mainland](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20010212-1.2.40.3.20). <i>The Straits Times</i>, p. 8. Retrieved from NewspaperSG.
 
-Zaccheus, M., & Ee, D. (2013, October 4). [Pulau Ubin: Rustic or just rustling away?](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20131004-1.2.53.9) <i>The Straits Times</i>, p. 10. Retrieved from NewspaperSG.
+Zaccheus, M., &amp; Ee, D. (2013, October 4). [Pulau Ubin: Rustic or just rustling away?](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20131004-1.2.53.9) <i>The Straits Times</i>, p. 10. Retrieved from NewspaperSG.
 
 叶孝忠 . (2001, July 14). 乌敏岛另类风情. 联合早报,第 35页 
 陈鸣鸾 (访员) (1987年11月4日) 林再有先生访谈文稿. National Archives of Singapore. Retrieved from http:// archivesonline.nas.sg/
@@ -203,11 +204,11 @@ Zaccheus, M., & Ee, D. (2013, October 4). [Pulau Ubin: Rustic or just rustling a
 
 [^4]: National Heritage Board, 14 Mar 2013.
 
-[^5]: Hall-Jones, J., & Hooi, C. (1979). *[An early surveyor in Singapore: John Turnbull Thomson in Singapore, 1841–1853](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082509)* (p. 96). Singapore: National Museum. (Call no.: RSING 526.90924 THO)
+[^5]: Hall-Jones, J., &amp; Hooi, C. (1979). *[An early surveyor in Singapore: John Turnbull Thomson in Singapore, 1841–1853](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082509)* (p. 96). Singapore: National Museum. (Call no.: RSING 526.90924 THO)
 
-[^6]: [Hall-Jones & Hooi](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082509), 1979, p. 103.
+[^6]: [Hall-Jones &amp; Hooi](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082509), 1979, p. 103.
 
-[^7]: Cornelius-Takahama, V. (2018, July). [Raffles Lighthouse](https://eresources.nlb.gov.sg/infopedia/articles/SIP_147_2005-01-18.html). Retrieved from Singapore Infopedia, National Library Singapore.
+[^7]: Cornelius-Takahama, V. (2018, July). [Raffles Lighthouse](https://www.nlb.gov.sg/main/article-detail?cmsuuid=1b459f19-b3cd-4b4d-a82a-7236a017a14b). Retrieved from Singapore Infopedia, National Library Singapore.
 
 [^8]: Chua, A. (2009). *[The Causeway](https://eresources.nlb.gov.sg/infopedia/articles/SIP_99_2004-12-30.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
@@ -261,7 +262,7 @@ Zaccheus, M., & Ee, D. (2013, October 4). [Pulau Ubin: Rustic or just rustling a
 
 [^33]: Tan, T. (2000, December 4). [Island living](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20001204-1.2.34.2). <i>The Straits Times</i>, p. 1. Retrieved from NewspaperSG.
 
-[^34]: Zaccheus, M., & Ee, D. (2013, October 4). [Pulau Ubin: Rustic or just rustling away?](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20131004-1.2.53.9) <i>The Straits Times</i>, p. 10. Retrieved from NewspaperSG.
+[^34]: Zaccheus, M., &amp; Ee, D. (2013, October 4). [Pulau Ubin: Rustic or just rustling away?](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20131004-1.2.53.9) <i>The Straits Times</i>, p. 10. Retrieved from NewspaperSG.
 
 [^35]: Murphy, C. (2003, July 3). Destination Singapore – Pulau Ubin abode for Thai monk. Bangkok Post. Retrieved from Factiva via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
@@ -275,7 +276,7 @@ Zaccheus, M., & Ee, D. (2013, October 4). [Pulau Ubin: Rustic or just rustling a
 
 [^40]: White, T. (2001, February 12). [Leaving Ubin for life on mainland](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20010212-1.2.40.3.20). <i>The Straits Times</i>, p. 8. Retrieved from NewspaperSG.
 
-[^41]: Heng, L., & Kang, A. (2013, April 13). [This is our ONLY HOME](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20130413-1.2.3.1). The New Paper, pp. 2–3. Retrieved from NewspaperSG.
+[^41]: Heng, L., &amp; Kang, A. (2013, April 13). [This is our ONLY HOME](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20130413-1.2.3.1). The New Paper, pp. 2–3. Retrieved from NewspaperSG.
 
 [^42]: [Chua](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10089883), 2000, p. 36.
 
