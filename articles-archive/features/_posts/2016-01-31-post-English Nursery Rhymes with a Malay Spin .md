@@ -1,10 +1,11 @@
 ---
-title: "English Nursery Rhymes with a Malay Spin "
+title: English Nursery Rhymes with a Malay Spin
 permalink: /vol-11/issue-4/jan-mar-2016/haji-malayan-nursery-rhymes/
 date: 2016-01-31
 layout: post
 description: ""
 image: /images/vol-11-issue-4/english-nursery-rhymes/M2.JPG
+variant: markdown
 ---
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
 	<b>Title:</b> <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=5233416"><i>Haji’s Book of Malayan Nursery Rhymes</i></a><br>
@@ -65,7 +66,7 @@ The National Librar y’s copy of *Haji’s Book of Malayan Nursery Rhymes* bear
 [^2]:The National Library has two copies of the book, *Malayan Nursery Rhymes*, published in 1923. It contains the Malay translations of 51 favourite English nursery rhymes. The original nursery rhymes in English were not included in this edition as it was assumed that native English speakers were familiar with these nursery rhymes and hence able to identify the Malay-translated nursery rhymes.
 [^3]:Hamilton, A. W. (1939). Preface. In [*Haji’s book of Malayan nursery rhymes*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5233416) Singapore: Printers Ltd. Microfilm no.: NL 15401.
 [^4]:Tuminah Sapawi. (1985, December 2). [Of twinkle, twinkle, little star](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19851202-1.2.66.9.1.aspx). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
-[^5]:The traditional attire of the women of the Peranakan community (known as *nonyas* or *nyonyas*) consisting of a sheer embroidered blouse paired with a *batik sarong*. See National Library Board. (2014, September 24). [*Nonya kebaya*](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-09-27_173744.html) written by Koh, Jaime. Retrieved from Singapore Infopedia.
+[^5]:The traditional attire of the women of the Peranakan community (known as *nonyas* or *nyonyas*) consisting of a sheer embroidered blouse paired with a *batik sarong*. See National Library Board. (2014, September 24). [*Nonya kebaya*](https://www.nlb.gov.sg/main/article-detail?cmsuuid=4c73810c-81ff-4ec3-822c-584a40d9d84d) written by Koh, Jaime. Retrieved from Singapore Infopedia.
 [^6]:[Nursery rhymes in Malay](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19400127-1.2.49.aspx). (1940, January 27). *The Singapore Free Press and Mercantile Advertiser* (1884–1942), p. 4. Retrieved from NewspaperSG.
 [^7]:[*The Straits Times*](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19851202-1.2.66.9.1.aspx), 2 Dec 1985, p. 4.
 [^8]:[Countryman’s Journal](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490820-1.2.68.aspx). (1949, August 20). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
