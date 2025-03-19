@@ -256,7 +256,7 @@ National Heritage Board. (2013). <i>Exhibitions: Trading stories: Conversations 
 
 Naidu, R.T. (2018, July). *[Traditional cobblers](https://www.nlb.gov.sg/main/article-detail?cmsuuid=8bd6ca8e-1453-48ec-8ee7-c7c1d8539d76)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
-Naidu, R.T. (2016). *[Five-foot-way traders](https://eresources.nlb.gov.sg/infopedia/articles/SIP_105_2005-01-04.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
+Naidu, R.T. (2016). *[Five-foot-way traders](https://www.nlb.gov.sg/main/article-detail?cmsuuid=604a6d18-793d-4919-af9b-5ef014ba2141)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
 Naidu, R.T. (2016). *[Roadside barbers](https://eresources.nlb.gov.sg/infopedia/articles/SIP_49_2004-12-24.html)*. Retrieved from Singapore Infopedia, National Library Singapore. 
 
