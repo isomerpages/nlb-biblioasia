@@ -4,9 +4,8 @@ permalink: /vol-16/issue-4/jan-mar-2021/light/
 date: 2021-01-01T00:00:00.000Z
 breadcrumb: Let There Be Light
 third_nav_title: Let There Be Light
-
+variant: markdown
 ---
-
 <style>
 table { 
 	background-color: #ffeee1;
@@ -22,7 +21,7 @@ table {
 #### **Timothy Pwee** enlightens us about the history of street lighting in Singapore, starting with the first flickering oil lamps that were lit in 1824.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-4/light/lettherebelight.jpg">
 Lighted torches illuminating the evening sky as coolies transport coal to refuel a ship, c. 1876. Given the amount of fuel such torches consumed, it is not surprising that two years after this image was published, the first electric light began replacing torches. However, it would take several decades before electricity would light up many of the streets in Singapore. This illustration first appeared in <i>The Graphic</i> on 4 November 1876. <i>Courtesy of the National Museum of Singapore, National Heritage Board</i>.
 </div>
@@ -60,12 +59,12 @@ The landing places in question would have been located along the north bank of t
 “A few evenings since a Lady accompanied by her Husband, child and ayah nearly met with a very serious accident. They had alighted from a Palanquin and were proceeding to the landing place to embark in a Boat when the gentleman, who was in advance, not being aware of any steps, fancied he was still far from the water, and was in consequence precipitated to the bottom. The Lady unconscious of the danger was following, when a gentleman present caught her by the arm. The Ayah went a little to the left and fell amongst the loose stones but fortunately without injury to the child.”[^7]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-4/light/CharlesDyce.jpg">
 Detail from Charles Dyce’s <i>The River from Monkey Bridge</i> (ink and watercolour, 1842–3) showing a bridge lamp on the right. It would have been fuelled by coconut oil as this was before the introduction of gas lighting in Singapore in 1864. <i>Image reproduced from Liu, G. (1999). Singapore: A Pictorial History, 1819–2000 (p. 31). Singapore: Archipelago Press in association with the National Heritage Board. (Call no.: RSING  959.57 LIU-[HIS])</i>.
 </div>
 
-By 1849, it seems that lighting the town had become a priority, as the Municipal Committee decided to add “nearly 50 lamps, at a cost or lighting, of 300 dollars a year, exclusive of the first cost of lamps &c”.[^8]
+By 1849, it seems that lighting the town had become a priority, as the Municipal Committee decided to add “nearly 50 lamps, at a cost or lighting, of 300 dollars a year, exclusive of the first cost of lamps &amp;c”.[^8]
 
 Merely adding a lamp did not necessarily mean there would be sufficient illumination as this complaint in *The Singapore Free Press* of 19 April 1850 attests:
 
@@ -74,9 +73,9 @@ Merely adding a lamp did not necessarily mean there would be sufficient illumina
 Another problem was the tendency of some of these lamps to go out at night as this 1861 complaint in *The Straits Times* illustrates: “We call the attention of the Public Lamplighter to the fact, that the lamp at the corner of High Street and North Bridge Road, generally ceases to burn at One A.M.”[^10]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-4/light/BoatQuay.jpg">
-Detail from an illustration from the 1880s showing gas lamps along Boat Quay. The design of public lamps did not change much throughout the 19th century until the advent of electric lighting in the 20th century. <i>Image reproduced from Moerlein, G. (1886). A Trip Around the World (p. 57). Cincinnati, Ohio: M. & R. Burgheim. Retrieved from BookSG. Collection of the National Library, Singapore. (Accession no.: B03351770D)</i>.
+Detail from an illustration from the 1880s showing gas lamps along Boat Quay. The design of public lamps did not change much throughout the 19th century until the advent of electric lighting in the 20th century. <i>Image reproduced from Moerlein, G. (1886). A Trip Around the World (p. 57). Cincinnati, Ohio: M. &amp; R. Burgheim. Retrieved from BookSG. Collection of the National Library, Singapore. (Accession no.: B03351770D)</i>.
 </div>
 
 #### **From Oil to Gas**
@@ -90,7 +89,7 @@ In 1856, several acts were passed by the Legislative Council of India (known as 
 Robert Rigg, the first Secretary of the Municipal Commission, is credited as the driving force behind the introduction of gas lighting to Singapore.[^12] However, not much is known of his exact contribution, nor is it clear how or when the Singapore Gas Company – the firm behind the setting up of gas lamps here – was started. What is known is that there were negotiations from at least 1860 onwards about floating a company in London to build gasworks and piping in Singapore for street lighting. The company was officially registered in London in 1861, and a deal was subsequently struck for the company to supply a minimum of 400 gas lamps to the town of Singapore. The company also oversaw the construction of Singapore’s first gasworks, Kallang Gasworks,[^13] in 1862 to supply piped gas for street lighting.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-4/light/GasWork.jpg">
 Singapore’s first gasworks, Kallang Gasworks, c. 1911. The gasworks was constructed in 1862 to supply the first piped gas for street lighting. It was decommissioned in March 1998 and its function taken over by Senoko Gasworks. <i>Arshak C. Galstaun Collection, courtesy of National Archives of Singapore</i>.
 </div>
@@ -108,7 +107,7 @@ The prevalence of street lighting gave life to the city, as a poem composed by �
 [Translation]<br>“Sea and mountain meeting at the shore,<br>A multitude of businesses gather;<br>Where people of a thousand lands meet,<br>‘Singapore’ is the name of this town.<br>Ten thousand lamps light up the evening,<br>Kreta Ayer bustles with life;”
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-4/light/GeylangRd1900.jpg">
 A gas lamp along Geylang Road, c. 1900s. <i>Lim Shao Bin Collection, PictureSG, National Library, Singapore</i>.
 </div>
@@ -132,7 +131,7 @@ Using such bulbs for street lighting, however, took longer. While the owners of 
 The impetus was the introduction of the electric tram system in Singapore, which led to the setting up of the city’s first electrical power station. In 1901, the Singapore Tramways Ltd was founded in London, and work on the power station and headquarters at MacKenzie Road in Singapore began the following year. The power station began generating electricity in 1905 and the first regular tramway route started running on 25 July the same year. The power station also supplied the electricity required for electric street lamps, which were first used in 1906 to light up Raffles Place and the Esplanade (now Padang).
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-4/light/PowerStation.jpg">
 Singapore’s first electrical power station on Mackenzie Road, 1905. It generated electrical power for the trams and also supplied the electricity for electric street lamps, which were first installed in 1906. <i>F.W. York Collection, courtesy of National Archives of Singapore</i>.
 </div>
@@ -158,7 +157,7 @@ The immediate post-war years saw Singapore’s population swelling to over 900,0
 In December 1946, the Municipal Commission approved a $30,000 budget to install 72 electric lamps at various strategic locations in the city, such as Victoria Street, Bras Basah Road, River Valley Road and Outram Road as an initial measure.[^33] In 1947, a proper five-year scheme costing $1 million was implemented to install more than 3,000 electric street lamps in Singapore. This was followed in July 1951 by a second five-year plan amounting to $1.5 million to improve street lighting.[^34]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-4/light/lamps.jpg">
 Overhead electric tram lines and an electric lamp along High Street, early 20th century. <i>Lim Shao Bin Collection, PictureSG, National Library, Singapore</i>.
 </div>
@@ -176,7 +175,7 @@ By the 1960s, thanks to widespread electrification, Singapore glowed at night. S
 [Translation]<br>“Singapore at night<br>Neon lights beautifully sparkling<br>Glittering tall buildings<br>Really magnificent without compare”
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-4/light/bulb.jpg">
 The bulb of this street lamp along Phillip Street photographed in 1968 resembles the ones from early 20th-century Singapore. <i>Lim Shao Bin Collection, PictureSG, National Library, Singapore</i>.
 </div>
@@ -189,15 +188,15 @@ The bulb of this street lamp along Phillip Street photographed in 1968 resembles
 |Assistance for the English translations of the Chinese poem by 许南英 and the Malay song by P. Ramlee were provided by colleagues Goh Yu Mei and Juffri Supaat respectively.|
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-4/authors/TimPwee.png" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Vol-16-issue-4/authors/TimPwee.png" style="width: 100px; height: 100px;">
 <b>Timothy Pwee</b> is a Senior Librarian with the National Library, Singapore. He is interested in Singapore’s business and natural histories, and is developing the library’s donor collections around these areas.
 </div>
 <a href="/vol-16/issue-4/jan-mar-2021/"><center>Back to Issue</center></a>
 
 #### **NOTES**
 
-[^1]: Buckley, C.B. (1902). *[An anecdotal history of old times in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4470390)* (Vol. I; p. 155). Singapore: Fraser & Neave. (Call no.: RCLOS 959.57 BUC)
+[^1]: Buckley, C.B. (1902). *[An anecdotal history of old times in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4470390)* (Vol. I; p. 155). Singapore: Fraser &amp; Neave. (Call no.: RCLOS 959.57 BUC)
 
 [^2]: [Singapore](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singchronicle18360514-1.2.5). (1836, May 14). *Singapore Chronicle*, p. 2. Retrieved from NewspaperSG.
 
@@ -223,7 +222,7 @@ The bulb of this street lamp along Phillip Street photographed in 1968 resembles
 
 [^13]: Kallang Gasworks was decommissioned in March 1998 and its function taken over by Senoko Gasworks. See Tan, B. (2018). *[Kallang Gasworks](https://eresources.nlb.gov.sg/infopedia/articles/SIP_750_2005-01-11.html)*. Retrieved from Singapore Infopedia, National Library, Singapore. 
 
-[^14]: Makepeace, W., Brooke, G.E., & Braddell, R.S.J. (1921). *[One hundred years of Singapore: Being some account of the capital of the Straits Settlements from its foundation by Sir Stamford Raffles on the 6th February 1819 to the 6th February 1919](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4183132)* (Vol. II; p. 512). London: John Murray. (Call no.: RCLOS 959.51 MAK-[RFL])
+[^14]: Makepeace, W., Brooke, G.E., &amp; Braddell, R.S.J. (1921). *[One hundred years of Singapore: Being some account of the capital of the Straits Settlements from its foundation by Sir Stamford Raffles on the 6th February 1819 to the 6th February 1919](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4183132)* (Vol. II; p. 512). London: John Murray. (Call no.: RCLOS 959.51 MAK-[RFL])
 
 [^15]: Groom, P. (1957, October 21). [Crowds worshipped the ‘miracle’ lamplighter](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19571021-1.2.44). *The Singapore Free Press*, p. 10. Retrieved from NewspaperSG.
 
@@ -239,7 +238,7 @@ The bulb of this street lamp along Phillip Street photographed in 1968 resembles
 
 [^21]: [Electric light at Government House](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stweekly18900225-1.2.14). (1890, February 25). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
 
-[^22]: Nuradilah Ramlan & Neo, T.S. (2017). *[St James Power Station](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1712_2010-10-15.html)*. Retrieved from Singapore Infopedia, National Library, Singapore. 
+[^22]: Nuradilah Ramlan &amp; Neo, T.S. (2017). *[St James Power Station](https://www.nlb.gov.sg/main/article-detail?cmsuuid=e67deaf6-63e0-449e-bc12-a4bff90b3c1a)*. Retrieved from Singapore Infopedia, National Library, Singapore. 
 
 [^23]: [Great black-out in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19360417-1.2.2). (1936, April 17). *The Singapore Free Press*, p. 1. Retrieved from NewspaperSG. 
 
