@@ -298,7 +298,7 @@ Toh, K. (2011, September 11). [Keeping alive a vanishing trade](http://eresource
 
 [^1]: [All kinds of everything along walkways of old](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870316-1.2.59.34.1). (1987, March 16). The Straits Times, p. 26. Retrieved from NewspaperSG.
 
-[^2]: Naidu, R.T. (2016). *[Five-foot-way traders](https://eresources.nlb.gov.sg/infopedia/articles/SIP_105_2005-01-04.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
+[^2]: Naidu, R.T. (2016). *[Five-foot-way traders](https://www.nlb.gov.sg/main/article-detail?cmsuuid=604a6d18-793d-4919-af9b-5ef014ba2141)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
 [^3]: Sullivan, M. (1985). *[“Can survive, la”: Cottage industries in high-rise Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082532)* (p. 14). Singapore: G. Brash. (Call no.: RSING 338.634095957 SUL)
 
