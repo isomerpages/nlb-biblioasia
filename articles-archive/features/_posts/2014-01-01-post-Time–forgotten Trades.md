@@ -308,9 +308,9 @@ Toh, K. (2011, September 11). [Keeping alive a vanishing trade](http://eresource
 
 [^6]: Naidu, R.T. (2018, July). *[Traditional cobblers](https://www.nlb.gov.sg/main/article-detail?cmsuuid=8bd6ca8e-1453-48ec-8ee7-c7c1d8539d76)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
-[^7]: National Heritage Board. (2013). <i>Heritage along footpaths: Community Heritage series IV</i> (pp. 4–5). Retrieved from National Heritage Board website; [Naidu](https://eresources.nlb.gov.sg/infopedia/articles/SIP_143_2004-12-14.html), Jul 2018. 
+[^7]: National Heritage Board. (2013). <i>Heritage along footpaths: Community Heritage series IV</i> (pp. 4–5). Retrieved from National Heritage Board website; [Naidu](https://www.nlb.gov.sg/main/article-detail?cmsuuid=8bd6ca8e-1453-48ec-8ee7-c7c1d8539d76), Jul 2018. 
 
-[^8]: National Heritage Board, 2013, pp. 8–10; Naidu, R.T. (2017). *[Parrot astrologers](https://eresources.nlb.gov.sg/infopedia/articles/SIP_602_2005-01-04.html)*. Retrieved from Singapore Infopedia, National Library Singapore; Lo-Ang, S.G., &amp; Chua, C.H. (Eds.). (1992). *[Vanishing trades of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6313327)* (pp. 60–64). Singapore: Oral History Department. (Call no.: RSING 338.642095957 VAN)
+[^8]: National Heritage Board, 2013, pp. 8–10; Naidu, R.T. (2017). *[Parrot astrologers](https://www.nlb.gov.sg/main/article-detail?cmsuuid=388c422e-d4f1-4ac3-bcd8-349afdabb50b)*. Retrieved from Singapore Infopedia, National Library Singapore; Lo-Ang, S.G., &amp; Chua, C.H. (Eds.). (1992). *[Vanishing trades of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6313327)* (pp. 60–64). Singapore: Oral History Department. (Call no.: RSING 338.642095957 VAN)
 
 [^9]: National Heritage Board, 2013, pp. 12–14.
 
