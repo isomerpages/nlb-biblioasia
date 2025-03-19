@@ -130,7 +130,7 @@ Milner, A.C. (2002). *[The invention of politics in colonial Malaya](https://ese
 
 National Archives (Singapore). (1986). *[Geylang Serai: Down memory lane: Kenangan abadi](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4680212)*. Singapore: Heinemann Asia. (Call no.: RSING 779.995957 GEY)
 
-National Library Board. (2014). *[Singapore Malay Union is formed](https://eresources.nlb.gov.sg/history/events/66c886d1-943a-4219-98df-1ae7f081afb1)*. Retrieved from HistorySG website.
+National Library Board. (2014). *[Singapore Malay Union is formed](https://www.nlb.gov.sg/main/article-detail?cmsuuid=66c886d1-943a-4219-98df-1ae7f081afb1)*. Retrieved from HistorySG website.
 
 National Library Board. (2014). *[First issue of Utusan Malayu (1907–1921) is published](https://eresources.nlb.gov.sg/history/events/8f22fb24-ca40-46d3-a3f3-a638f444e8bc)*. Retrieved from HistorySG website.
 
