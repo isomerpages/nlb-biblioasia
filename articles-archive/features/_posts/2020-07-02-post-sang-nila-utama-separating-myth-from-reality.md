@@ -5,8 +5,8 @@ date: 2020-07-01T00:00:00.000Z
 breadcrumb: "Sang Nila Utama: Separating Myth From Reality"
 third_nav_title: "Sang Nila Utama: Separating Myth From Reality"
 image: /images/Vol-16-issue-2/sangnila/SejarahMelayu.jpg
+variant: markdown
 ---
-
 <style>
 table { 
 	background-color: #ffeee1;
@@ -21,7 +21,7 @@ table {
 #### The Malay prince who founded Singapura in the 13th-century is a controversial figure – depending on which account of the *Sejarah Melayu* you read, says **Derek Heng**.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-2/sangnila/SejarahMelayu.jpg">
 
 The title page of John Leyden’s English translation of the <i>Sejarah Melayu</i> (<i>Malay Annals</i>), which was published posthumously in London in 1821. It includes an introduction by Stamford Raffles. Leyden was a Scottish poet and linguist who spoke several languages, including Malay. <i>Collection of the National Library, Singapore (Accession no.: B02633069G)</i>.
@@ -41,7 +41,7 @@ Sang Nila Utama also provided the means by which a revisionist history of the fo
 To understand the role played by Sang Nila Utama, we will examine his origins as outlined in two major variants of the *Sejarah Melayu* (as many as 30 variants have been identified by scholars so far). The first is the John Leyden version,[^3] which was transcribed and translated from Jawi into English around 1810 and published posthumously in 1821.[^4] The second is the Raffles Manuscript (MS) 18, based on the earliest version of the text (dated 1612) and likely transcribed for Stamford Raffles in 1816.[^5] While the overarching narratives in both versions are similar, certain minor differences exist regarding the stories they tell of Sang Nila Utama.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-2/sangnila/RafflesMS18.jpg">
 
 The Raffles MS 18 version of the <i>Sejarah Melayu</i> is based on the earliest edition of the text (dated to 1612) and likely transcribed for Stamford Raffles in 1816. This publication can be accessed on the National Library’s BookSG portal. <i>Courtesy of the Royal Asiatic Society of Great Britain and Ireland, United Kingdom</i>.
@@ -54,7 +54,7 @@ The *Sejarah Melayu* begins with Alexander the Great of Macedonia (also known as
 This is where the accounts in the two versions of the *Sejarah Melayu* differ. In the Leyden version, Bichitram Shah, one of the three young princes who identified himself as raja, was conferred the name Sang Sapurba. He became the ruler of Palembang following the abdication of the erstwhile local ruler, Demang Lebar Daun. Sang Sapurba’s political legitimacy was further sealed by his marriage to Demang Lebar Daun’s daughter. Among their children was Sang Nila Utama, who later married the daughter of the queen of Bentan (now Bintan) and became its raja. Sang Nila Utama eventually went on to found Singapura, upon which he was conferred the title Sri Tri Buana.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-2/sangnila/SejarahMelayuInside.jpg">
 
 According to the <i>Sejarah Melayu</i>, the ruler of Palembang, Demang Lebar Daun, concluded a covenant with Sang Nila Utama which stated that in return for the undivided loyalty of his subjects, Sang Nila Utama and all his descendants would be fair and just in their rule. This extract is from the 1840 edited version by Munsyi Abdullah. <i>Collection of the National Library, Singapore (Accession no.: B31655050C)</i>.
@@ -71,17 +71,17 @@ In summary, in the Leyden version, Sang Nila Utama is the child of a union betwe
 
 <b>REMEMBERING SANG NILA UTAMA</b>
 <div style="background-color: #ffeee1;">
-<br/><img src="/images/Vol-16-issue-2/sangnila/SangNilaSec.jpg">
+<br><img src="/images/Vol-16-issue-2/sangnila/SangNilaSec.jpg">
 
 Sang Nila Utama Secondary School on Upper Aljunied Road, 1968. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.</div><br>In Singapore, Sang Nila Utama was memorialised in a school named after him. Formerly located on Upper Aljunied Road, the now-defunct Sang Nila Utama Secondary School officially opened in 1961 and ceased operations in 1988. Its alumni include Yatiman Yusof and Mohamad Maidin, both former members of parliament. Well-known writer Masuri Salikun (also known as Masuri S.N.) once taught at the school.<br><br>Sang Nila Utama Secondary School was significant because it was Singapore’s first Malay-medium secondary school. It was also the third secondary school built after Singapore attained self-government in 1959.<br><br>From 1965, the school added two Malay-medium pre-university classes to the existing secondary classes. Three years later, it started two English-medium secondary classes. However, the school stopped conducting pre-university classes from 1979 in line with the Ministry of Education’s decision to phase out non-English pre-university centres by 1981. Only two Malay-stream secondary classes remained in 1984.<br><br>By 1988, Sang Nila Utama Secondary School had ceased operations due to falling enrolment. The school building has since been demolished to make way for Bidadari housing estate, on the site of the former Bidadari Cemetery.<br><br>Although the school no longer exists, the name Sang Nila Utama will live on in two roads. In November 2019, Deputy Prime Minister Heng Swee Keat announced that a road in the Bidadari estate – located next to the site of the former Sang Nila Utama Secondary School – will be named Sang Nila Utama Road. “This is something that the Malay community has been asking for, because of the important role that Sang Nila Utama Secondary School played in developing Malay education in Singapore,” he said.<br><br>A section of the new Heritage Walk cutting across the 10-hectare Bidadari Park in the estate will be called Sang Nila Utama Boulevard. This is the current Upper Aljunied Road, which is now pedestrianised. The housing estate and park are slated to be completed by 2022.<br><br>Sang Nila Utama is also memorialised by way of the Sang Nila Utama Garden in Fort Canning Park. Launched in 2019, the garden is a re-creation of Southeast Asian gardens of the 14th century.
 
 </div>
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-2/sangnila/Artefacts.jpg">
 
-Artefacts recovered from the first excavation carried out in 1984 on the eastern slope of Fort Canning Hill, near the Keramat Iskandar Shah, point to the existence of a late-13th to 14th-century settlement on the hill, as eulogised in the <i>Sejarah Melayu</i>. <i>Daoyi zhilue (岛夷志略; Description of the Barbarians of the Isles)</i> by the 14th-century Chinese traveller Wang Dayuan (汪大渊) mentions two trading settlements on Temasik: Banzu, located on and around Fort Canning Hill, and Longyamen (present-day Keppel Straits). (Far left) Fragment of a stem-cup excavated from Fort Canning Hill. <i>Image reproduced from Kwa, C.G., Heng, D., Borschberg, P., & Tan, T.Y. (2019). Seven Hundred Years: A History of Singapore (p. 36). Singapore: National Library Board and Marshall Cavendish International. (Call no.: RSING 959.57 KWA-[HIS])</i>. (Middle and right) A blue-and-white stem-cup (top and side views). <i>Collection of the Asian Civilisations Museum</i>.
+Artefacts recovered from the first excavation carried out in 1984 on the eastern slope of Fort Canning Hill, near the Keramat Iskandar Shah, point to the existence of a late-13th to 14th-century settlement on the hill, as eulogised in the <i>Sejarah Melayu</i>. <i>Daoyi zhilue (岛夷志略; Description of the Barbarians of the Isles)</i> by the 14th-century Chinese traveller Wang Dayuan (汪大渊) mentions two trading settlements on Temasik: Banzu, located on and around Fort Canning Hill, and Longyamen (present-day Keppel Straits). (Far left) Fragment of a stem-cup excavated from Fort Canning Hill. <i>Image reproduced from Kwa, C.G., Heng, D., Borschberg, P., &amp; Tan, T.Y. (2019). Seven Hundred Years: A History of Singapore (p. 36). Singapore: National Library Board and Marshall Cavendish International. (Call no.: RSING 959.57 KWA-[HIS])</i>. (Middle and right) A blue-and-white stem-cup (top and side views). <i>Collection of the Asian Civilisations Museum</i>.
 
 </div>
 
@@ -105,7 +105,7 @@ In contrast, the Raffles MS 18 version of the *Sejarah Melayu* has a different c
 Sang Utama subsequently settled first in Bentan, where he was adopted by Wan Sri Benian, the queen of Bentan, before proceeding to Temasik where he established the city of Singapura. It is only when two of Sang Nila Utama’s sons married the granddaughters of Wan Sri Benian that the *orang laut*[^8] in Bentan became linked with the royal lineage. Hence, the Raffles MS 18 version of the *Sejarah Melayu* places the central location of Melakan royal lineage as Palembang, the Riau Archipelago and the island of Singapore.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-2/sangnila/Chapter3.jpg">
 
 Chapter 3 of John Leyden’s English translation of the <i>Sejarah Melayu</i> tells the story of Sang Nila Utama and his life in Bentan (Bintan). Sang Nila Utama had married Wan Sri Bini, the daughter of the queen of Bentan. <i>Collection of the National Library, Singapore (Accession no.: B02633069G)</i>.
@@ -132,7 +132,7 @@ Sang Sapurba eventually left with his entourage to establish a new settlement el
 During a hunting trip one day, Sang Nila Utama noticed the white sands of Temasik in the distance and sailed to visit the island. He decided to form a settlement on Temasik, naming it Singhapura (Singapura)[^14] and to reign over it. Bath, who had earlier panegyrized over Sang Sapurba and given him the title Sang Sapurba Trimari Tribhuvera, now sang the praises of Sang Nila Utama, the son of Sang Sapurba, and accorded him the title Sri Tri Buana. 
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-2/sangnila/Epithet1.jpg">
 
 Singapore probably received its epithet “Lion City” because the lion was an auspicious symbol of Buddhism practised in 14th-century Southeast Asia. The <i>Sejarah Melayu</i> descriptions of Sri Tri Buana suggest he was consecrated as an incarnation of a Bodhisattva, probably the Amoghapasa form of Avalokitesvara, thereby justifying his claim to rulership over the Malays, who had yet to convert to Islam. As an incarnation of Avalokitesvara, he would have been seated on a lion throne or <i>singhasana</i> – as depicted in this 13th–14th-century Chinese figure, in gilt bronze with silver inlay, of Guanyin, the Chinese form of Avalokitesvara. <i>Collection of the Asian Civilisations Museum</i>.
@@ -153,10 +153,10 @@ Scholars have also attempted to reconcile, in particular, Portuguese accounts of
 Various scholars have argued that the Parameswara/Iskandar Shah in the Portuguese accounts was likely to have been the Iskandar Shah of the *Sejarah Melayu*, a fourth-generation direct descendant of Sri Tri Buana, and the fifth and last ruler of Singapura, who fled to Melaka following a successful attack on Temasik by the Javanese.
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-2/sangnila/Habourtown&RoyalResidence.jpg">
+<br>
+<img src="/images/Vol-16-issue-2/sangnila/Habourtown&amp;RoyalResidence.jpg">
 
-(Left) Detail from “Town & Harbour of Singapore, from Sentosa to Tanjong Rhu”, c. 1823. Several features that may be dated to the Temasik period of Singapore’s history are recorded on this. These include the “Old Lines of Singapore”, denoting the earth rampart, and the “Fresh Water River”, denoting the moat that ran alongside it. <i>© The British Library Board (IOR/X/3346)</i>. (Right) An artist’s impression of the Royal Residence, Temple, Servants’ Quarter and Artisans’ Quarter on Fort Canning Hill. In the 14th century, a thriving port-settlement was located in the area comprising the north bank of the Singapore River and Fort Canning Hill. Historical accounts and important archaeological discoveries have shed light on the physical features, economic activities and social nature of this settlement, enabling us to visualise what life in Singapura might have been like seven centuries ago. This is a detail taken from a much bigger illustration showing the reconstruction of Fort Canning Hill. <i>Image reproduced from Kwa, C.G., Heng, D., Borschberg, P., & Tan, T.Y. (2019). Seven Hundred Years: A History of Singapore (p. 30). Singapore: National Library Board and Marshall Cavendish International. (Call no.: RSING 959.57 KWA-[HIS])</i>.
+(Left) Detail from “Town &amp; Harbour of Singapore, from Sentosa to Tanjong Rhu”, c. 1823. Several features that may be dated to the Temasik period of Singapore’s history are recorded on this. These include the “Old Lines of Singapore”, denoting the earth rampart, and the “Fresh Water River”, denoting the moat that ran alongside it. <i>© The British Library Board (IOR/X/3346)</i>. (Right) An artist’s impression of the Royal Residence, Temple, Servants’ Quarter and Artisans’ Quarter on Fort Canning Hill. In the 14th century, a thriving port-settlement was located in the area comprising the north bank of the Singapore River and Fort Canning Hill. Historical accounts and important archaeological discoveries have shed light on the physical features, economic activities and social nature of this settlement, enabling us to visualise what life in Singapura might have been like seven centuries ago. This is a detail taken from a much bigger illustration showing the reconstruction of Fort Canning Hill. <i>Image reproduced from Kwa, C.G., Heng, D., Borschberg, P., &amp; Tan, T.Y. (2019). Seven Hundred Years: A History of Singapore (p. 30). Singapore: National Library Board and Marshall Cavendish International. (Call no.: RSING 959.57 KWA-[HIS])</i>.
 
 </div>
 
@@ -169,8 +169,8 @@ In this regard, the framing of Sang Nila Utama as a character in the pre-Melakan
 As such, although a literary character, Sang Nila Utama played a large and important historiographical role in the region and beyond. He was critical to the primordial, pre-modern and early modern history of the Melaka Sultanate, conferring pedigree, charisma and an extensive sphere of influence on Melakan royalty. Although the account of Singapura’s founding may have been mythical, it had very real historical and political implications in the Malay world of the time.
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-2/authors/DerekHeng.png" style="width: 100px; height: 100px;" />
+<br>
+<img src="/images/Vol-16-issue-2/authors/DerekHeng.png" style="width: 100px; height: 100px;">
 
 <b>Dr Derek Heng</b> is Professor and Department Chair in the Department of History, Northern Arizona University. He specialises in the transregional history of maritime Southeast Asia and the South China Sea in the first and early second millennia AD. He is the co-author of <i>Seven Hundred Years: A History of Singapore</i> (2019).
 
@@ -181,7 +181,7 @@ As such, although a literary character, Sang Nila Utama played a large and impor
 #### **REFERENCES**
 Lin, C. (2019, May 5). HDB unveils plans for new park in Bidadari estate. *CNA*. Retrieved from Channel NewsAsia website.
 
-National Library Board. (2011). *[Sang Nila Utama Secondary School](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1107_2011-03-24.html)* written by Chow Yaw Huah. Retrieved from Singapore Infopedia website.
+National Library Board. (2011). *[Sang Nila Utama Secondary School](https://www.nlb.gov.sg/main/article-detail?cmsuuid=3131a37a-3c4f-4d3f-8b26-14641390bb8a)* written by Chow Yaw Huah. Retrieved from Singapore Infopedia website.
 
 Ng, M. (2020, January 6). Bidadari HDB estate taking shape as residents move in. *The Straits Times*. Retrieved from The Straits Times website.
 
@@ -192,14 +192,14 @@ Yuen, S. (2019, November 3). Road in Bidadari estate near former Malay secondary
 
 #### **NOTES**
 [^1]: *Sulalat al-Salatin* (Genealogy of Kings) is one of the most important works in Malay literature and was likely composed in the 17th century by Bendahara Tun Seri Lanang, the prime minister of the Johor Sultanate. 
-[^2]: During the reign of Sang Nila Utama’s son, Sri Pikrama Wira, Singapura was strong enough to challenge Majapahit, the major power in the archipelago. This escalated into a major Majapahit invasion of Singapura, which was successfully repelled. Sri Pikrama Wira’s marriage to the daughter of the Tamil ruler of Kalinga illustrates Singapura’s wealth and stature among Indian kingdoms. The *Sejarah Melayu* also describes the story of the Raja of Kalinga pitting his strongman against Singapura’s reigning champion, Badang, which can be interpreted as a competition for power between the two states. See Kwa, C.G., Heng, D., Borschberg, P., & Tan, T.Y. (2019). *[Seven hundred years: A history of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203868733)* (pp. 54–55). Singapore: National Library Board and Marshall Cavendish International. (RSING 959.57 KWA-[HIS])
-[^3]: Leyden, J. (1821). *[Malay Annals: Translated from the Malay language by the late Dr. John Leyden with an introduction by Sir Thomas Stamford Raffles](https://eresources.nlb.gov.sg/printheritage/detail/403dde58-c3c4-4a53-ba21-f11e813f434f.aspx)*. London: Longman, Hurst, Rees, Orme, and Brown. Retrieved from BookSG; Winstedt, R.O. (1938, December). The Malay Annals of Sejarah Melayu. *Journal of the Malayan Branch of the Royal Asiatic Society, 16* (3) (132), 1–226. The English translation of Raffles MS 18 may be found in C.C. Brown. (1952, October). The Malay Annals. *Journal of the Malayan Branch of the Royal Asiatic Society, 25* (2 & 3) (159), 5–276. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+[^2]: During the reign of Sang Nila Utama’s son, Sri Pikrama Wira, Singapura was strong enough to challenge Majapahit, the major power in the archipelago. This escalated into a major Majapahit invasion of Singapura, which was successfully repelled. Sri Pikrama Wira’s marriage to the daughter of the Tamil ruler of Kalinga illustrates Singapura’s wealth and stature among Indian kingdoms. The *Sejarah Melayu* also describes the story of the Raja of Kalinga pitting his strongman against Singapura’s reigning champion, Badang, which can be interpreted as a competition for power between the two states. See Kwa, C.G., Heng, D., Borschberg, P., &amp; Tan, T.Y. (2019). *[Seven hundred years: A history of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203868733)* (pp. 54–55). Singapore: National Library Board and Marshall Cavendish International. (RSING 959.57 KWA-[HIS])
+[^3]: Leyden, J. (1821). *[Malay Annals: Translated from the Malay language by the late Dr. John Leyden with an introduction by Sir Thomas Stamford Raffles](https://eresources.nlb.gov.sg/printheritage/detail/403dde58-c3c4-4a53-ba21-f11e813f434f.aspx)*. London: Longman, Hurst, Rees, Orme, and Brown. Retrieved from BookSG; Winstedt, R.O. (1938, December). The Malay Annals of Sejarah Melayu. *Journal of the Malayan Branch of the Royal Asiatic Society, 16* (3) (132), 1–226. The English translation of Raffles MS 18 may be found in C.C. Brown. (1952, October). The Malay Annals. *Journal of the Malayan Branch of the Royal Asiatic Society, 25* (2 &amp; 3) (159), 5–276. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 [^4]: John Leyden was a Scottish poet and linguist who spoke several languages, including Malay. Ibrahim Candu, a Tamil-Muslim scribe from Penang was said to have made a copy of the *Sejarah Melayu* in Jawi which he brought to Calcutta in 1810. Ibrahim explained the text to Leyden who wrote it down. Unfortunately, Leyden died two weeks after arriving in Java in August 1811. After his death, Leyden’s close friend, Stamford Raffles, kept many of his papers, including the *Sejarah Melayu*. In 1816, Raffles wrote the introduction to Leyden’s English translation of the text, which was published in 1821. 
-[^5]: Kwa, C.G. (2010). Singapura as a central place in Malay history and identity (p. 135). In K. Delaye, K. Hack & J.L. Margolin (Eds.), *[Singapore from Temasek to the 21st century](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13598385)*. Singapore: NUS Press. (Call no.: RSING 959.57 SIN-[HIS]). For a discussion on the provenance of the Leyden version, refer to Hooker, V.M., & Hooker, M.B. (2001). Opening the annals (pp. 31– 51). In V.M. Hooker & M.B. Hooker (Eds.), *[John Leyden’s Malay Annals](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10399338)*. Kuala Lumpur: Malaysian Branch of the Royal Asiatic Society. (Call no.: RSING 959.51 JOH). For a discussion of the various versions and renditions of the *Sejarah Melayu*, refer to Roolvink, R. (1967). The variant versions of the Malay Annals. *Bijdragen tot de Taal-, Land- en Volkenkunde, 123* (3), 301–324. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+[^5]: Kwa, C.G. (2010). Singapura as a central place in Malay history and identity (p. 135). In K. Delaye, K. Hack &amp; J.L. Margolin (Eds.), *[Singapore from Temasek to the 21st century](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13598385)*. Singapore: NUS Press. (Call no.: RSING 959.57 SIN-[HIS]). For a discussion on the provenance of the Leyden version, refer to Hooker, V.M., &amp; Hooker, M.B. (2001). Opening the annals (pp. 31– 51). In V.M. Hooker &amp; M.B. Hooker (Eds.), *[John Leyden’s Malay Annals](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10399338)*. Kuala Lumpur: Malaysian Branch of the Royal Asiatic Society. (Call no.: RSING 959.51 JOH). For a discussion of the various versions and renditions of the *Sejarah Melayu*, refer to Roolvink, R. (1967). The variant versions of the Malay Annals. *Bijdragen tot de Taal-, Land- en Volkenkunde, 123* (3), 301–324. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 [^6]: For a more detailed discussion of the history of Singapura and Temasik, refer to chapters one and two in [Kwa](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203868733), et al., 2019. 
 [^7]: The Hellenistic age refers to the period between the death of Alexander the Great in 323 BCE and the conquest of Egypt by Rome in 30 BCE. Gandhara was an ancient region corresponding to present-day north-west Pakistan and north-east Afghanistan. Gandhara was conquered by Alexander the Great in 327 BCE.
 [^8]: The *orang laut*, which means “sea people” in Malay, refers to the indigenous sea nomads living along the coastlines of Singapore, the Malay Peninsula and the Riau Islands. 
-[^9]: [Hooker & Hooker](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10399338), 2001, p. 32.
+[^9]: [Hooker &amp; Hooker](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10399338), 2001, p. 32.
 [^10]: Shellabear, W.G. (1896). *[Sejarah Melayu](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202890261)*. Singapore: American Mission Press. (Available via PublicationSG)
 [^11]: The Sanskrit term “Suvarnabhumi”, which means “Land of Gold”, is of Indic origin and appears in important Indian texts such as the Hindu *Ramayana*, the Buddhist *Mahavansa* and the *Jatakas*.
 [^12]: The three worlds, according to Buddhist cosmology, are the realm of the world of desires of man, the world of form of the Buddha and the world without form or pure perception. See [Kwa](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13598385), 2010, p. 153.
