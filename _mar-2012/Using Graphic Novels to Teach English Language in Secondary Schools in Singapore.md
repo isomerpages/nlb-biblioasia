@@ -4,6 +4,7 @@ title: Using Graphic Novels to Teach English Language in Secondary Schools in
 permalink: /vol-7/issue-4/mar-2012/graphic-novel-english-language/
 description: Novelist Clarence Lee investigates the effectiveness, plausibility
   and implications of using graphic novels in the teaching of English.
+variant: markdown
 ---
 #### Novelist Clarence Lee investigates the effectiveness, plausibility and implications of using graphic novels in the teaching of English.
 
@@ -148,7 +149,7 @@ Kramer-Dahl, A. (2005, Summer). Constructing adolescents differently: On the val
 
 Kress, G.R., &amp; van Leeuwen, T. (1996). [_Reading images: The grammar of visual design_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8794160). London: Routledge. (Call no.: RART 701 KRE)
 
-Lee, G. (2006). [_Dave Chua_](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1017_2007-10-18.html). Retrieved from Singapore Infopedia.
+Lee, G. (2006). [_Dave Chua_](https://www.nlb.gov.sg/main/article-detail?cmsuuid=88c578d9-9821-4030-b5dd-e1be06118cfc). Retrieved from Singapore Infopedia.
 
 Majid, S., &amp; Tan, V. (2007, Winter). Understanding the reading habits of children in Singapore. _Journal of Education Media &amp; Library Sciences, 45_ (2), 187–198.
 
