@@ -258,7 +258,7 @@ Naidu, R.T. (2018, July). *[Traditional cobblers](https://www.nlb.gov.sg/main/ar
 
 Naidu, R.T. (2016). *[Five-foot-way traders](https://www.nlb.gov.sg/main/article-detail?cmsuuid=604a6d18-793d-4919-af9b-5ef014ba2141)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
-Naidu, R.T. (2016). *[Roadside barbers](https://eresources.nlb.gov.sg/infopedia/articles/SIP_49_2004-12-24.html)*. Retrieved from Singapore Infopedia, National Library Singapore. 
+Naidu, R.T. (2016). *[Roadside barbers](https://www.nlb.gov.sg/main/article-detail?cmsuuid=59b2fc5f-9d4b-42a9-98cf-1229c57f5828)*. Retrieved from Singapore Infopedia, National Library Singapore. 
 
 Naidu, R.T. (2017). *[Letter writers](https://eresources.nlb.gov.sg/infopedia/articles/SIP_603_2005-01-04.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
