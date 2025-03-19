@@ -51,6 +51,10 @@ The National Library offered a wide array of collections and services. The publi
 
 With a seating capacity of more than 400, visitors also had access to equipment like microfilm readers to read old newspapers. Over time, the library’s facilities were upgraded. Air-conditioning was added and the collections also expanded significantly, particularly in the Chinese, Malay and Tamil sections, and from materials gifted by donors.[^5]
 
+![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_reader.jpg)
+<div>A library user using a microfilm reader, 1960s. <i>Collection of the National Library Singapore.
+</i></div>
+
 #### **A Treasure Trove**
 
 On 28 August 1964, the South East Asia Room at the National Library opened as a dedicated space “devoted solely to the study of South East Asia”. This specialised room housed a large collection of materials on Singapore and the region that the library had accumulated since its establishment in 1823.[^6]
