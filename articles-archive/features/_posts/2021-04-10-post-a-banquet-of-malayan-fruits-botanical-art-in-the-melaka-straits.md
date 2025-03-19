@@ -186,6 +186,6 @@ There is one final aspect that gives the Dumbarton Folio, and indeed natural his
 
 [^20]: Pioneered by artists Cheong Soo Pieng, Liu Kang, Chen Wen Hsi and Georgette Chen in the 1950s, the Nanyang Style integrates Chinese painting traditions with Western techniques from the School of Paris, and typically depict local or Southeast Asian subject matter.
 
-[^21]: For more information about these Nanyang artists, see Tan, B., &amp; Creamer, R. (2016). *[Liu Kang](https://eresources.nlb.gov.sg/infopedia/articles/SIP_158_2005-01-22.html)*; Ho, S. (2015, January 28). *[Chen Wen Hsi](https://eresources.nlb.gov.sg/infopedia/articles/SIP_772_2004-12-29.html)*; Creamer, R. (2018, January 24). *[Georgette Chen](https://www.nlb.gov.sg/main/article-detail?cmsuuid=0f964e7f-5382-416b-932b-3da4151f20e3)*. Retrieved from Singapore Infopedia website. 
+[^21]: For more information about these Nanyang artists, see Tan, B., &amp; Creamer, R. (2016). *[Liu Kang](https://www.nlb.gov.sg/main/article-detail?cmsuuid=5ffd9a55-8078-4df8-9652-ffc63a0ea2fe)*; Ho, S. (2015, January 28). *[Chen Wen Hsi](https://www.nlb.gov.sg/main/article-detail?cmsuuid=3ad34665-6a27-4338-b315-5ff52fbd26a7)*; Creamer, R. (2018, January 24). *[Georgette Chen](https://www.nlb.gov.sg/main/article-detail?cmsuuid=0f964e7f-5382-416b-932b-3da4151f20e3)*. Retrieved from Singapore Infopedia website. 
 
 [^22]: [Saunders](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7539213), 1995, p. 65.
