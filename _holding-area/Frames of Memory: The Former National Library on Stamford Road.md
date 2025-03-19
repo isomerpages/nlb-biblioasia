@@ -96,6 +96,10 @@ Behind the scenes, countless library staff handled essential duties such as acqu
 
 In March 1997, the National Library underwent a six-month extensive makeover costing $2.6 million. When it reopened in October that year, its facade had been updated with glass partitions and its interior replaced with carpeted floors.&nbsp;
 
+![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_renovated.jpg)
+<div>The renovated National Library, 1997. The red-brick facade was retained.  <i>Collection of the National Library Singapore.</i></div>
+
+
 A new Singapore Resource Library was set up to replace the South East Asia Room, while the lending library was renamed the Central Community Library and furnished with a new information counter as well as new shelves and study tables.&nbsp;
 
 The long snaking queues became a thing of the past as self-check machines and an automated bookdrop allowed patrons to borrow and return books with greater convenience. Computer stations with Internet access were also added to aid the discovery of new information and library materials.[^9]
