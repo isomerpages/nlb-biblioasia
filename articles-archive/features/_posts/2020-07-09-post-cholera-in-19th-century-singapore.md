@@ -5,8 +5,8 @@ date: 2020-07-01T00:00:00.000Z
 breadcrumb: Cholera in 19th-century Singapore
 third_nav_title: Cholera in 19th-century Singapore
 image: /images/Vol-16-issue-2/cholera/boatquay.jpg
+variant: markdown
 ---
-
 <style>
 table { 
 	background-color: #ffeee1;
@@ -21,7 +21,7 @@ table {
 #### The colony experienced its first cholera outbreak in 1841, and several epidemics in the decades thereafter. **Bonny Tan** examines how the battle against this deadly illness was won.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-2/cholera/boatquay.jpg">
 
 View of Boat Quay looking towards Fort Canning Hill, 1890s. As the centre for trade and commercial activity in Singapore in the 19th century, the Singapore River became highly congested and polluted, resulting in poor drainage and unsanitary living conditions along the river banks. The river water was blamed for causing various diarrhoea-inducing diseases, including cholera. <i>Andrew Tan Collection, courtesy of National Archives of Singapore</i>.
@@ -57,7 +57,7 @@ As the immune system of the infected person attempts to fight the bacteria, a po
 In the 19th century, the scientific study of germs was still in its infancy. The prevailing belief was that the malady was spread through effusions of bad air released by rotting material. Based on this miasmic theory of the disease, people in the Western world were encouraged to keep away from foul air during cholera outbreaks. Posters like the “Cholera Prevention Man”, distributed throughout Europe and America, depict a man surrounded by a cabinet of potions and covered in layers of clothing to protect himself from the “bad air”, and inhaling as an antidote the clean air of vinegared vapours released from a bottle.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-2/cholera/poster.jpg">
 
 An ink and watercolour etching of the “Cholera Prevention Man” by Wundet. The translation of the inscription reads: “The well-equipped home medicine cabinet for one who loves his health. Cholera Prevention Man”. <i>Division of Medicine and Science, National Museum of American History, Smithsonian Institution</i>.
@@ -69,7 +69,7 @@ Certainly, there was no shortage of “bad air” in the slums of 19th-century S
 Contaminated water was later proven to be a conduit for the disease, especially given the poor hygiene practices in the consumption of food and drink among local residents. Raw fruit and vegetables were one source of infection, as were the shellfish plucked from the murky Singapore River. Popular among the Chinese community, the shellfish was described as “dainties which thrive on sewage and afford a breeding ground for microbes”. The situation was further aggravated by the consumption of contaminated well water as well as water bottled from the polluted Kallang River.[^9]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-2/cholera/monstrous.jpg">
 
 A cartoon showing a woman dropping her teacup in horror upon discovering the monstrous contents of a magnified drop of water from the River Thames, revealing the impurity of drinking water in London. Coloured etching by William Heath, 1828. <i>Wellcome Collection. Attrbution Non-commercial (CC BY-NC 4.0)</i>.
@@ -120,7 +120,7 @@ In November 1874, the *S.S. Milton* arrived from Swatow (now Shantou), China, wi
 As the lazaretto on St John’s Island had not been completed yet, huts had to be quickly constructed at personal cost to the ship’s agents to accommodate the sick. The lazaretto was eventually completed in 1875.[^27] St John’s would be used as a quarantine centre for the next hundred years until its facilities were officially closed in January 1976.[^28]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-2/cholera/Migrants.jpg">
 
 Newly arrived migrants at the quarantine centre on St John’s Island, waiting for the ferry to take them to mainland Singapore, c. 1908. <i>Courtesy of National Archives of Singapore</i>.
@@ -134,7 +134,7 @@ The bucket system in use at the time involved the manual removal of faeces, or n
 
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-2/cholera/NightSoil.jpg">
 
 A night-soil carrier, c. 1940. Workers were paid to manually remove human waste. The workers would arrive at households with empty buckets to exchange for filled ones. As the collection was usually carried out at night and the filled buckets covered with soil to lessen the stench, it soon acquired the name “night soil”. <i>Courtesy of National Archives of Singapore</i>.
@@ -158,7 +158,7 @@ The 1895 cholera epidemic renewed discussions over how the disposal of night soi
 
 |BBC. (2014). *Moule’s mechanical dry earth closet*. Retrieved from BBC website.|
 
-|*Earth closets*. (n.d.). Retrieved from Old & Interesting website.|
+|*Earth closets*. (n.d.). Retrieved from Old &amp; Interesting website.|
 
 |Russell, M. (2014, February). *Life of Reverend Henry Moule M.A. (1801–1880)*. Retrieved from RootsWeb website.|
 
@@ -170,7 +170,7 @@ Singapore would experience its most severe cholera outbreak in 1902 when 759 out
 Advancements in medical science in subsequent years also brought a greater understanding of the disease, identifying its cause and controlling it through the development of a vaccine. Following Koch’s identification of *Vibrio cholorae* in 1883, Spanish doctor Jaime Ferran, who trained under the famed microbiologust and chemist Louis Pasteur, successfully immunised humans against cholera in 1885.[^33] By the 1920s, Singapore was receiving a supply of vaccines from the Pasteur Institute in Bandung, Java.[^34] In the 1930s, the Institute of Medical Research in Kuala Lumpur began producing supplies of the cholera vaccine not only for Malaya but for the region too.[^35]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-16-issue-2/cholera/Vaccination.jpg">
 
 A child being vaccinated against cholera at one of several inoculation centres in Singapore, 1963. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.
@@ -182,8 +182,8 @@ In 1964, the seventh cholera pandemic from nearby Java spread to Singapore. Even
 Although there are still sporadic instances of cholera infections in sanitised Singapore, with four reported cases as recently as 2009, the virulence of cholera, thankfully, is a thing of the past.[^37]
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-16-issue-2/authors/BonnyTan.png" style="width: 100px; height: 100px;" />
+<br>
+<img src="/images/Vol-16-issue-2/authors/BonnyTan.png" style="width: 100px; height: 100px;">
 
 <b>Bonny Tan</b> is a former Senior Librarian at the National Library, Singapore. She currently lives in Ho Chi Minh City, Vietnam, with her family and is a regular contributor to <i>BiblioAsia</i>.
 
@@ -201,7 +201,7 @@ Although there are still sporadic instances of cholera infections in sanitised S
 [^7]: Snowden, F.M. (2019). *[Epidemics and society: From the black death to the present](https://nlb.overdrive.com/media/110C8A78-EBEE-4886-9192-E30F8EE98F5D)* (p. 236). New Haven: Yale University Press. (Available for digital loan on nlb.overdrive.com) 
 [^8]: [The Singapore Free Press](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb18950627-1.2.4). (1895, June 27). *The Singapore Free Press and Mercantile Advertiser*, p. 2. Retrieved from NewspaperSG.
 [^9]: [A Chinese view – The cholera outbreak](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb18950625-1.2.16.3). (1895, June 25). *The Singapore Free Press and Mercantile Advertiser*, p. 3. Retrieved from NewspaperSG.
-[^10]: Hallifax, F.J. (1991). Municipal Government. In W. Makepeace, G.E. Brooke & R.St.J. Braddell. (Eds.). *[One hundred years of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6203718)* (Vol. I, p. 327). Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE); National Library Board. (2009). *[MacRitchie Reservoir](https://eresources.nlb.gov.sg/infopedia/articles/SIP_159_2004-12-27.html)* written by Zaubidah Mohamed. Retrieved from Singapore Infopedia website; Lim T.S. (2018, Apr–Jun). [The four taps: The story of Singapore water](http://www.nlb.gov.sg/biblioasia/2018/04/15/four-taps-the-story-of-singapore-water/). *BiblioAsia, 14* (1), 50–57. Retrieved from BiblioAsia website. 
+[^10]: Hallifax, F.J. (1991). Municipal Government. In W. Makepeace, G.E. Brooke &amp; R.St.J. Braddell. (Eds.). *[One hundred years of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6203718)* (Vol. I, p. 327). Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE); National Library Board. (2009). *[MacRitchie Reservoir](https://www.nlb.gov.sg/main/article-detail?cmsuuid=9daebfbc-261a-4785-a296-9a899017aee5)* written by Zaubidah Mohamed. Retrieved from Singapore Infopedia website; Lim T.S. (2018, Apr–Jun). [The four taps: The story of Singapore water](http://www.nlb.gov.sg/biblioasia/2018/04/15/four-taps-the-story-of-singapore-water/). *BiblioAsia, 14* (1), 50–57. Retrieved from BiblioAsia website. 
 [^11]: [Correspondence](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18410415-1.2.11). (1841, April 15). *The Singapore Free Press and Mercantile Advertiser*, p. 2. Retrieved from NewspaperSG. 
 [^12]: [Cholera](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18730713-1.2.32.35). (1873, July 13). *The Straits Times Overland Journal*, p. 12. Retrieved from NewspaperSG. 
 [^13]: [Correspondence](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18491012-1.2.3). (1849, October 12). *The Singapore Free Press and Mercantile Advertiser*, p. 2. Retrieved from NewspaperSG. 
