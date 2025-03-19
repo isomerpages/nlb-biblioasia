@@ -164,7 +164,7 @@ Turnbull, C.M. (1989).*[ A history of Singapore, 1819–1988](https://eservice.n
 
 [^7]: [Roff](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7122266), 1994, p. 159.
 
-[^8]: National Library Board. (2014). *[First issue of Utusan Malayu (1907–1921) is published](https://eresources.nlb.gov.sg/history/events/8f22fb24-ca40-46d3-a3f3-a638f444e8bc)*. Retrieved from HistorySG website.
+[^8]: National Library Board. (2014). *[First issue of Utusan Malayu (1907–1921) is published](https://www.nlb.gov.sg/main/article-detail?cmsuuid=4eaa79dd-74ae-43b3-9ffa-d8953e842b3d)*. Retrieved from HistorySG website.
 
 [^9]: Chia, Y.J., &amp; Nor-Afidah Abd Rahman. (2016). *[Utusan Melayu](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1088_2007-06-12.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
