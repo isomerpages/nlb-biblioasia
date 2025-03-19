@@ -200,7 +200,7 @@ Low, J. (1975, March 16). [No major change in Status Quo music](http://eresource
 
 Tan, J.H.S. (2011). *[Lee Kip Lin](https://www.nlb.gov.sg/main/article-detail?cmsuuid=886b9972-849b-4dcd-9a18-4334419b3895)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
-National Library Board. (2014). *[Campaign against yellow culture is launched](https://eresources.nlb.gov.sg/history/events/47129576-377a-44fe-a05f-fefddf0cb765)*. Retrieved from HistorySG website.
+National Library Board. (2014). *[Campaign against yellow culture is launched](https://www.nlb.gov.sg/main/article-detail?cmsuuid=47129576-377a-44fe-a05f-fefddf0cb765)*. Retrieved from HistorySG website.
 
 Ho, S. (2015, March 11). *[National Day songs](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-03-11_165927.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
