@@ -5,6 +5,7 @@ permalink: /vol-18/issue-3/oct-dec-2022/history-monetary-authority-singapore-cen
 description: While the Monetary Authority of Singapore was established in 1971,
   it only became a full-fledged central bank some 30 years later.
 image: /images/Vol 18 Issue 3/MAS/1_MASbuilding.jpg
+variant: markdown
 ---
 #### While the Monetary Authority of Singapore was established in 1971, it only became a full-fledged central bank some 30 years later. 
 By Barbara Quek
@@ -83,7 +84,7 @@ On 30 November 1985, Pan-Electric Industries Limited, a company listed on the St
 In an unprecedented move, the stock exchange was closed for trading from 2 to 4 December 1985 in a bid to stabilise the market and mitigate against any contagion effect and fallout on the heavily leveraged stockbroking firms. The closure was considered a drastic move and in doing so, “Singapore had to pay the price in terms of economic, reputational and social costs”.[^21]
 
 ![](/images/Vol%2018%20Issue%203/MAS/5_SESarticle.jpg)
-<div style="background-color: white;">Following the Pan-Electric Industries crisis, the Singapore Stock Exchange was closed for two days to prevent panic selling by shareholders. <i>Source: The Straits Times, 2 December 1985. © SPH Media Limited. Permission required for reproduction.</i></div>
+<div style="background-color: white;">Following the Pan-Electric Industries crisis, the Singapore Stock Exchange was closed for two days to prevent panic selling by shareholders. <i>Source: The Straits Times, 2 December 1985.&nbsp;©&nbsp;SPH Media Limited. Permission required for reproduction.</i></div>
 
 The MAS stepped in with a bail-out plan by setting up an emergency “lifeboat” fund consisting of a $180-million line of credit underwritten by the “Big Four” local banks, accompanied by a three-month moratorium on the recall of loans to stockbrokers. The fund was designed to prevent the wholesale and systemic collapse of the stockbroking industry, and to restore public confidence.[^22]
 
@@ -137,47 +138,47 @@ He attributed these achievements to caution and creativity on the part of the MA
 Today, the world is being roiled by events such as the Covid-19 pandemic and the war in Ukraine. Inflationary pressures threaten global economies while the consequences of climate change loom increasingly large on the horizon. Now, more than ever before, the MAS will need to bank on its guiding principles of caution and creativity to help Singapore navigate safely through an uncertain and unpredictable future.
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol%2018%20Issue%203/Authors/Barbara_Quek.jpg" style="width: 100px; height: 100px;"/>
+<br>
+<img src="/images/Vol%2018%20Issue%203/Authors/Barbara_Quek.jpg" style="width: 100px; height: 100px;">
 	<b>Barbara Quek</b> is a Senior Librarian with the National Library, Singapore. She is part of the team that oversees the statutory functions at the National Library Board in the compliance of Legal Deposit in Singapore. Her work involves developing the National Library’s collections through gifts and exchange as well as providing content and reference services.</div>
 
 #### **NOTES**
 
 [^1]: “[No Longer De facto Central Bank](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19980825-1.2.58.42.5.5),” *Straits Times*, 25 August 1998, 44. (From NewspaperSG)
 
-[^2]: Hon Sui Sen, “Establishing the Monetary Authority of Singapore,” in [*Resilience, Dynamism, Trust: 50 Landmark Statements by MAS Leaders*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205549225) (Singapore: World Scientific, Monetary Authority of Singapore, 2022), 4. (From National Library, Singapore, call no. RSING 332.11095957 RES)
+[^2]: Hon Sui Sen, “Establishing the Monetary Authority of Singapore,” in [*Resilience, Dynamism, Trust: 50 Landmark Statements by MAS Leaders*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205549225) (Singapore: World Scientific, Monetary Authority of Singapore, 2022), 4. (From National Library, Singapore, call no. RSING 332.11095957 RES)
 
-[^3]: Hon, “Establishing the Monetary Authority of Singapore,” in [*Resilience, Dynamism, Trust*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205549225), 4.
+[^3]: Hon, “Establishing the Monetary Authority of Singapore,” in [*Resilience, Dynamism, Trust*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205549225), 4.
 
 [^4]: Goh Keng Swee, “[Speech by Dr Goh Keng Swee, Minister for Finance, at the 13th Anniversary Dinner of the Economic Society of Singapore](https://www.nas.gov.sg/archivesonline/speeches/record-details/795cd828-115d-11e3-83d5-0050568939ad),” Dragon Room, Robinson Restaurant, 20 September 1969, transcript, Ministry of Culture. (From National Archives of Singapore, document no. PressR19690920d)
 
-[^5]: Ignatius Low, Fiona Chan and Gabriel Chan, [*Sustaining Stability: Serving Singapore*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14238112) (Singapore: Straits Times Press, 2012), 67. (From National Library, Singapore, call no. RSING 332.11095957 LOW)
+[^5]: Ignatius Low, Fiona Chan and Gabriel Chan, [*Sustaining Stability: Serving Singapore*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=14238112) (Singapore: Straits Times Press, 2012), 67. (From National Library, Singapore, call no. RSING 332.11095957 LOW)
 
-[^6]: Hon, “Establishing the Monetary Authority of Singapore,” in [*Resilience, Dynamism, Trust*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205549225), 5.
+[^6]: Hon, “Establishing the Monetary Authority of Singapore,” in [*Resilience, Dynamism, Trust*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205549225), 5.
 
-[^7]: Low, Chan and Chan, [*Sustaining Stability*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14238112), 67.
+[^7]: Low, Chan and Chan, [*Sustaining Stability*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=14238112), 67.
 
-[^8]: Low, Chan and Chan, [*Sustaining Stability*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14238112), 67.
+[^8]: Low, Chan and Chan, [*Sustaining Stability*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=14238112), 67.
 
-[^9]: Low, Chan and Chan, [*Sustaining Stability*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14238112), 66.
+[^9]: Low, Chan and Chan, [*Sustaining Stability*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=14238112), 66.
 
-[^10]: Clement Liew and Peter Wilson, [*A History of Money in Singapore*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205589482) (Singapore: Talisman Publishing, 2021), 351. (From National Library, Singapore, call no. RSING 332.4095957 LIE)
+[^10]: Clement Liew and Peter Wilson, [*A History of Money in Singapore*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205589482) (Singapore: Talisman Publishing, 2021), 351. (From National Library, Singapore, call no. RSING 332.4095957 LIE)
 
 [^11]: Paul Wee, “[Central Bank ‘in July or August’](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19790523-1.2.9),” *Straits Times*, 23 May 1979, 1; Soh Tiang Keng, “[Central Bank Plan Put Off: A New Appraisal?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19801025-1.2.6),” *Straits Times*, 25 October 1980, 1. (From NewspaperSG)
 
-[^12]: Liew and Wilson, [*A History of Money in Singapore*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205589482), 351.
+[^12]: Liew and Wilson, [*A History of Money in Singapore*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205589482), 351.
 
-[^13]: Lim Hng Kiang, “MAS Merges with Board of Commissioners of Currency,” in [*Resilience, Dynamism, Trust*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205549225), 114.
+[^13]: Lim Hng Kiang, “MAS Merges with Board of Commissioners of Currency,” in [*Resilience, Dynamism, Trust*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205549225), 114.
 
-[^14]: Lim, “MAS Merges with Board of Commissioners of Currency,” in [*Resilience, Dynamism, Trust*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205549225), 114–15.
+[^14]: Lim, “MAS Merges with Board of Commissioners of Currency,” in [*Resilience, Dynamism, Trust*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205549225), 114–15.
 
-[^15]: Lim, “MAS Merges with Board of Commissioners of Currency,” in [*Resilience, Dynamism, Trust*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205549225), 115.
+[^15]: Lim, “MAS Merges with Board of Commissioners of Currency,” in [*Resilience, Dynamism, Trust*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205549225), 115.
 
-[^16]: Liew and Wilson, [*A History of Money in Singapore*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=205589482), 352–53.
+[^16]: Liew and Wilson, [*A History of Money in Singapore*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=205589482), 352–53.
 
 [^17]: Low, Chan and Chan, *Sustaining Stability*, 70–71; “BCCS Merges with MAS on 1 October,” Monetary Authority of Singapore, 20 September 2002, https://www.mas.gov.sg/news/media-releases/2002/bccs-merges-with-mas-on-1-october--30-september-2002; “Our History,” Monetary Authority of Singapore, last updated 21 April 2022, https://www.mas.gov.sg/who-we-are/Our-History.
 
-[^18]: Low, Chan and Chan, [*Sustaining Stability*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14238112), 71.
+[^18]: Low, Chan and Chan, [*Sustaining Stability*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=14238112), 71.
 
 [^19]: Lee Hsien Loong, “PM Lee Hsien Loong’s Speech at the MAS50 Partners Appreciation Evening on Thursday, 7 October 2021,” Prime Minister’s Office Singapore, last updated 8 October 2021, https://www.pmo.gov.sg/Newsroom/PM-Lee-Hsien-Loong-at-the-MAS50-Partners-Appreciation-Evening.
 
@@ -189,29 +190,29 @@ Today, the world is being roiled by events such as the Covid-19 pandemic and the
 
 [^23]: A forward contract is a stock acquisition contract established between two parties for delivery at a predetermined time in the future, at a price agreed upon in the present. It is used for hedging, enabling share owners to reduce price risk by selling their shares forward. This, however, induces share roll-over among multiple parties, including investors, brokers and corporations, as in the Pan-El situation. See Ho, et al., “Case Study on Pan-Electric Crisis,” 9–10.
 
-[^24]: Low, Chan and Chan, [*Sustaining Stability*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14238112), 116–17.
+[^24]: Low, Chan and Chan, [*Sustaining Stability*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=14238112), 116–17.
 
 [^25]: Louis Beckering, “[The Fall of the House of Barings](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19950730.2.59.5.1.aspx),” *Straits Times*, 30 July 1995, 4; Chan Sue Meng, “[Leeson Saga, and Key Role of 88888 Account](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19951124.2.61.5.aspx),” *Straits Times*, 24 November 1995, 49; “[The Fateful, Frantic Hours That Broke a Bank](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19950304-1.2.10.5.aspx),” *Business Times*, 4 March 1995, 3. (From NewspaperSG)
 
-[^26]: Low, Chan and Chan, [*Sustaining Stability*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14238112), 165, 186.
+[^26]: Low, Chan and Chan, [*Sustaining Stability*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=14238112), 165, 186.
 
-[^27]: Low, Chan and Chan, [*Sustaining Stability*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14238112), 184.
+[^27]: Low, Chan and Chan, [*Sustaining Stability*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=14238112), 184.
 
 [^28]: Quak Hiang Whai, “[Govt to Tighten Supervision of Futures Trading](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19950302-1.2.12.6),” *Business Times*, 2 March 1995, 4; Paul Leo and Siow Li Sen, “[Law Tightened to Prevent Another Barings](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19960321-1.2.4.aspx),” *Business Times*, 21 March 1996, 1; Chan Wee Chuan, “[Investors Better Protected with Changes to Futures Trading Rules](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19960408.2.58.1.aspx),” *Straits Times*, 8 April 1996, 36. (From NewspaperSG) 
 
-[^29]: Monetary Authority of Singapore, [*Annual Report*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=4182059) (Singapore: The Authority, 1997/1998), 34–35. (From National Library, Singapore, call no. RCLOS 32.495957 MASAR-[AR])
+[^29]: Monetary Authority of Singapore, [*Annual Report*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=4182059) (Singapore: The Authority, 1997/1998), 34–35. (From National Library, Singapore, call no. RCLOS 32.495957 MASAR-[AR])
 
-[^30]: “[Asian Financial Crisis (1997–1998)](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1530_2009-06-09.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published 30 July 2016.
+[^30]: “[Asian Financial Crisis (1997–1998)](https://www.nlb.gov.sg/main/article-detail?cmsuuid=6a94eaac-75ec-41ff-b5ef-38154ccae4e0),” in *Singapore Infopedia*. National Library Board Singapore. Article published 30 July 2016.
 
-[^31]: Low, Chan and Chan, [*Sustaining Stability*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14238112), 189.
+[^31]: Low, Chan and Chan, [*Sustaining Stability*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=14238112), 189.
 
-[^32]: Low, Chan and Chan, [*Sustaining Stability*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14238112), 187; Walter Fernandez, “[Recession Over But It’s Not Time to Rejoice](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19990520-1.2.3.aspx),” *Straits Times*, 20 May 1999, 1. (From NewspaperSG)
+[^32]: Low, Chan and Chan, [*Sustaining Stability*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=14238112), 187; Walter Fernandez, “[Recession Over But It’s Not Time to Rejoice](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19990520-1.2.3.aspx),” *Straits Times*, 20 May 1999, 1. (From NewspaperSG)
 
-[^33]: Low, Chan and Chan, [*Sustaining Stability*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14238112), 190.
+[^33]: Low, Chan and Chan, [*Sustaining Stability*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=14238112), 190.
 
-[^34]: “[Spore’s Economy in Recession](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20081010-2.2.2.2.aspx),” *Today (2nd Edition)*, 10 October 2008, 1. (From NewspaperSG); Low, Chan and Chan, [*Sustaining Stability*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14238112), 192–93.
+[^34]: “[Spore’s Economy in Recession](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20081010-2.2.2.2.aspx),” *Today (2nd Edition)*, 10 October 2008, 1. (From NewspaperSG); Low, Chan and Chan, [*Sustaining Stability*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=14238112), 192–93.
 
-[^35]: Low, Chan and Chan, [*Sustaining Stability*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=14238112), 193.
+[^35]: Low, Chan and Chan, [*Sustaining Stability*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=14238112), 193.
 
 [^36]: Alvin Foo, “[Worst Is Over for Singapore’s Economy](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20090817-1.2.5.6.aspx),” *Straits Times*, 17 August 2009, 4. (From NewspaperSG) 
 
