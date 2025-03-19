@@ -31,7 +31,7 @@ This documentary is based on the essay “[Beneath the Glitz and Glamour: The Un
 <a style="text-decoration: none;" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=6ee2d6c5-e088-4b79-9ce9-6da97c95b77d">Great World Amusement Park</a>
 <br>Great World Amusement Park was one of the three “Worlds” that lighted up Singapore’s nightlife in the 1950s and 60s. Although it closed in 1964, cinemas, cabaret and restaurants continued operations at the park until 1978.
 
-<a style="text-decoration: none;" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_990_2006-06-09.html">New World Park</a>
+<a style="text-decoration: none;" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=161ef808-c4e0-41db-9d4d-630a6b7f7a6e">New World Park</a>
 <br>Opened in 1923, New World Park, an amusement park, was a popular nighttime haunt in Singapore from the 1920s to the 60s. In its heyday, New World had open-air cinemas, cabarets, opera halls, shops and restaurants.
 
 
