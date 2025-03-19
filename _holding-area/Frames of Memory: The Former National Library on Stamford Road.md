@@ -49,6 +49,13 @@ The National Library offered a wide array of collections and services. The publi
 </i></div>
 
 
+![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_area.jpg)
+<div>The public reading area in the Adult Section of the National Library as seen from the second floor, 1960s. <i>Collection of the National Library Singapore.
+</i></div>
+
+![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_view.jpg)
+<div>The same view of the Adult Section from the second floor, 1970s. The additional shelves and card catalogue cabinets in the 1970s is an indication that the library’s collection had expanded. <i>Collection of the National Library Singapore.</i></div>
+
 With a seating capacity of more than 400, visitors also had access to equipment like microfilm readers to read old newspapers. Over time, the library’s facilities were upgraded. Air-conditioning was added and the collections also expanded significantly, particularly in the Chinese, Malay and Tamil sections, and from materials gifted by donors.[^5]
 
 ![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_reader.jpg)
