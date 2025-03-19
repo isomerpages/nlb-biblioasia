@@ -236,7 +236,7 @@ Zaccheus, M., &amp; Ee, D. (2013, October 4). [Pulau Ubin: Rustic or just rustli
 
 [^20]: Prime Minister’s Office Singapore. (2014, March 15). <i>Transcript of speech by Prime Minister Lee Hsien Loong at National Residents’ Committee Convention</i>. Retrieved from Prime Minister’s Office Singapore website.
 
-[^21]: Chew, V. (2009). *[Housing and Development Board](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1589_2009-10-26.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
+[^21]: Chew, V. (2009). *[Housing and Development Board](https://www.nlb.gov.sg/main/article-detail?cmsuuid=3abd40aa-0d91-4352-b9fe-0de1d68e3d85)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
 [^22]: 陈鸣鸾 (访员)(1987年11月4日) 林再有先生访谈文稿. Retrieved March 27, 2014, from Archives Online. http://archivesonline.nas.sg/
 
@@ -292,7 +292,7 @@ Zaccheus, M., &amp; Ee, D. (2013, October 4). [Pulau Ubin: Rustic or just rustli
 
 [^48]: Urban Redevelopment Authority (Singapore). (2007). <i>Architectural Heritage Awards – No. 1 Pulau Ubin</i>. Retrieved from Urban Redevelopment Authority website.
 
-[^49]: Tay, S.C. (2007, October 6). Chek Jawa Visitor Centre. <i>The Straits Times</i>, p. 109. Retrieved from NewspaperSG.
+[^49]: Tay, S.C. (2007, October 6). [Chek Jawa Visitor Centre](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20071006-1.2.122.12.2). <i>The Straits Times</i>, p. 109. Retrieved from NewspaperSG.
 
 [^50]: [Visitors’ centre for Chek Jawa?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20011231-1.2.24.6) (2001, December 31). <i>The Straits Times</i>, p. 2. Retrieved from NewspaperSG.
 
