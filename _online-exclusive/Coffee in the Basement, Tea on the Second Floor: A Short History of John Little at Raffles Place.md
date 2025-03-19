@@ -4,6 +4,7 @@ title: "Coffee in the Basement, Tea on the Second Floor: A Short History of John
 permalink: /places-and-buildings/2023/10/john-little-raffles-place-department-store/
 description: ""
 image: /images/Online Only Articles/John Little at Raffles Place/jl dept store2.jpg
+variant: markdown
 ---
 #### A look back at John Little’s 170-year history and the lasting mark the store has made on our island.
 By Yap Jo Lin
@@ -138,4 +139,4 @@ After John Little moved out of its iconic Raffles Place building, it set up shop
 
 [^23]: Chan Swan Bee, “[New Move at John Little](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19600928-1.2.5),” _Singapore Free Press_, 28 September 1960, 1. (From NewspaperSG)
 
-[^24]: Joshua Chia and Shereen Tay, “[John Little](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1116_2010-06-14.html)”, in _Singapore Infopedia_. National Library Board Singapore. Article published November 2020.
+[^24]: Joshua Chia and Shereen Tay, “[John Little](https://www.nlb.gov.sg/main/article-detail?cmsuuid=e2438ffa-c0a8-4a5a-8577-2a3343dff68f)”, in _Singapore Infopedia_. National Library Board Singapore. Article published November 2020.
