@@ -36,6 +36,10 @@ Externally, the structure was clad in striking red brick that became the hallmar
 <div>An artist's impression of the National Library building on Stamford Road, 1950s. <i>Collection of the National Library Singapore.</i></div>
 
 
+![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_architecture.jpg)
+<div>The contrasting architecture between the National Museum (left) and the National Library (right) is captured in this photograph, 1980s. <i>Akitek Tenggara Collection, courtesy of National Archives of Singapore.</i></div>
+
+
 #### **A Place for All**
 
 The National Library offered a wide array of collections and services. The public lending library included separate sections for adult and children’s books as well as facilities for activities, while the reference library housed the South East Asia Collection.&nbsp;
