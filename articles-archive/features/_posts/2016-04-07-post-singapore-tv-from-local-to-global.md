@@ -130,7 +130,7 @@ Several times a year, MDA leads delegations of local media companies to major in
 
 [^10]:Generally, only foreign embassies, financial institutions, hotels and selected educational institutions are allowed to install satellite dishes or subscribe to satellite TV operators. See [Satellite dishes OK for hotels, some schools](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20030621-1.2.46.14). (2003, June 21). *The Straits Times*, p. 11. Retrieved from NewspaperSG.
 
-[^11]:National Library Board. (1992). *[First subscription television channel](https://eresources.nlb.gov.sg/infopedia/articles/SIP_438_2004-12-28.html)* written by Nureza Ahmad. Retrieved from Singapore Infopedia website.
+[^11]:National Library Board. (1992). *[First subscription television channel](https://www.nlb.gov.sg/main/article-detail?cmsuuid=918c934f-f258-4cf5-8348-5bac10085533)* written by Nureza Ahmad. Retrieved from Singapore Infopedia website.
 
 [^12]:Ang, P.H. (2007). *Singapore media* (p. 17). [Unpublished manuscript]. Retrieved from Nanyang Technological University wesbite.
 
