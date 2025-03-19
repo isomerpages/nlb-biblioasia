@@ -186,7 +186,7 @@ Turnbull, C.M. (1989).*[ A history of Singapore, 1819–1988](https://eservice.n
 
 [^18]: [Settlement a failure](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19330516-1.2.45). (1933, May 16). *The Singapore Free Press*, p. 7. Retrieved from NewspaperSG.
 
-[^19]: Cornelius-Takaham, V. (2016). *[Jalan Eunos](https://eresources.nlb.gov.sg/infopedia/articles/SIP_738_2005-01-24.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
+[^19]: Cornelius-Takaham, V. (2016). *[Jalan Eunos](https://www.nlb.gov.sg/main/article-detail?cmsuuid=1d48db31-1bbc-42b0-91db-614c1e10515d)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
 [^20]: Kahn, J.S. (2006). *[Other Malays: Nationalism and cosmopolitanism in the modern Malay world](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12728340)* (pp. 10–14). Singapore: Asian Studies Association of Australia in association with Singapore University Press and NIAS Press. (Call no.: RSING 307.76209595 KAH)
 
