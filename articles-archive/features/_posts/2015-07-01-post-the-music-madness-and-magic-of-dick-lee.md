@@ -202,7 +202,7 @@ Tan, J.H.S. (2011). *[Lee Kip Lin](https://www.nlb.gov.sg/main/article-detail?cm
 
 National Library Board. (2014). *[Campaign against yellow culture is launched](https://www.nlb.gov.sg/main/article-detail?cmsuuid=47129576-377a-44fe-a05f-fefddf0cb765)*. Retrieved from HistorySG website.
 
-Ho, S. (2015, March 11). *[National Day songs](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-03-11_165927.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
+Ho, S. (2015, March 11). *[National Day songs](https://www.nlb.gov.sg/main/article-detail?cmsuuid=07d7e2c6-e52c-4be5-9d0b-eb9080448908)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
 Oon, V. (1974, December 26). [Dick tells his life story on disc](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19741226-1.2.24.1). <i>New Nation</i>, p. 14. Retrieved from NewspaperSG.
 
