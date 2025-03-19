@@ -172,7 +172,7 @@ Turnbull, C.M. (1989).*[ A history of Singapore, 1819–1988](https://eservice.n
 
 [^11]: [Roff](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7122266), 1994, p. 189.
 
-[^12]: National Library Board. (2014). *[Singapore Malay Union is formed](https://eresources.nlb.gov.sg/history/events/66c886d1-943a-4219-98df-1ae7f081afb1)*. Retrieved from HistorySG website.
+[^12]: National Library Board. (2014). *[Singapore Malay Union is formed](https://www.nlb.gov.sg/main/article-detail?cmsuuid=66c886d1-943a-4219-98df-1ae7f081afb1)*. Retrieved from HistorySG website.
 
 [^13]: [Roff](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7122266), 1994, pp. 190–191.
 
