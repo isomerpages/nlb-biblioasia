@@ -75,14 +75,16 @@ The materials included the 10,000-volume Ya Yin Kwan Collection covering diverse
 The National Library also served as a vibrant community hub (and still does) to engage people from all walks of life. It hosted library tours, concerts, drama performances, storytelling sessions, book discussions, exhibitions, reading campaigns, meet-the-author sessions, book festivals and talks. These initiatives aimed to promote reading and learning while fostering a deep connection with the public.&nbsp;
 
 ![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_storytelling.jpg)
-<div>A storytelling session at the National Library, 1960s. <i>Collection of the National Library Singapore.
-</i></div>
+<div>A storytelling session at the National Library, 1960s. <i>Collection of the National Library Singapore.</i></div>
 
 #### **Unsung Heroes of Stamford Road**
 
 The National Library owed much of its success and impact to its staff. At the reference counters, the staff addressed public enquiries, providing guidance and expertise. In later years, the library would accept queries by mail and the telephone, and subsequently email.&nbsp;
 
 Behind the scenes, countless library staff handled essential duties such as acquiring new materials, cataloguing, compiling the national bibliography, and undertaking conservation and preservation work like microfilming and book repairs.&nbsp;
+
+![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_catalogue.jpg)
+<div>Before computerisation, users searched for library materials at the National Library using card catalogues, 1960s. <i>Collection of the National Library Singapore.</i></div>
 
 #### **A New Chapter**
 
