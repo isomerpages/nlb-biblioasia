@@ -306,7 +306,7 @@ Toh, K. (2011, September 11). [Keeping alive a vanishing trade](http://eresource
 
 [^5]: [Sullivan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082532), 1985, p. 26.
 
-[^6]: Naidu, R.T. (2018, July). *[Traditional cobblers](https://eresources.nlb.gov.sg/infopedia/articles/SIP_143_2004-12-14.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
+[^6]: Naidu, R.T. (2018, July). *[Traditional cobblers](https://www.nlb.gov.sg/main/article-detail?cmsuuid=8bd6ca8e-1453-48ec-8ee7-c7c1d8539d76)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
 [^7]: National Heritage Board. (2013). <i>Heritage along footpaths: Community Heritage series IV</i> (pp. 4–5). Retrieved from National Heritage Board website; [Naidu](https://eresources.nlb.gov.sg/infopedia/articles/SIP_143_2004-12-14.html), Jul 2018. 
 
