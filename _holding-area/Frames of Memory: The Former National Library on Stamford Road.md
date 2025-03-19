@@ -44,16 +44,16 @@ Externally, the structure was clad in striking red brick that became the hallmar
 
 The National Library offered a wide array of collections and services. The public lending library included separate sections for adult and children’s books as well as facilities for activities, while the reference library housed the South East Asia Collection.&nbsp;
 
-![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_queue.jpg)
+![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_queue2.jpg)
 <div>Children queuing to borrow books at the information counter in the Children’s Section, 1970s. <i>Collection of the National Library Singapore.
 </i></div>
 
 
-![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_area.jpg)
+![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_area2.jpg)
 <div>The public reading area in the Adult Section of the National Library as seen from the second floor, 1960s. <i>Collection of the National Library Singapore.
 </i></div>
 
-![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_view.jpg)
+![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_view2.jpg)
 <div>The same view of the Adult Section from the second floor, 1970s. The additional shelves and card catalogue cabinets in the 1970s is an indication that the library’s collection had expanded. <i>Collection of the National Library Singapore.</i></div>
 
 With a seating capacity of more than 400, visitors also had access to equipment like microfilm readers to read old newspapers. Over time, the library’s facilities were upgraded. Air-conditioning was added and the collections also expanded significantly, particularly in the Chinese, Malay and Tamil sections, and from materials gifted by donors.[^5]
@@ -74,7 +74,7 @@ The materials included the 10,000-volume Ya Yin Kwan Collection covering diverse
 
 The National Library also served as a vibrant community hub (and still does) to engage people from all walks of life. It hosted library tours, concerts, drama performances, storytelling sessions, book discussions, exhibitions, reading campaigns, meet-the-author sessions, book festivals and talks. These initiatives aimed to promote reading and learning while fostering a deep connection with the public.&nbsp;
 
-![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_storytelling.jpg)
+![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_storytelling2.jpg)
 <div>A storytelling session at the National Library, 1960s. <i>Collection of the National Library Singapore.</i></div>
 
 #### **Unsung Heroes of Stamford Road**
@@ -96,7 +96,7 @@ Behind the scenes, countless library staff handled essential duties such as acqu
 
 In March 1997, the National Library underwent a six-month extensive makeover costing $2.6 million. When it reopened in October that year, its facade had been updated with glass partitions and its interior replaced with carpeted floors.&nbsp;
 
-![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_renovated.jpg)
+![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_renovated2.jpg)
 <div>The renovated National Library, 1997. The red-brick facade was retained.  <i>Collection of the National Library Singapore.</i></div>
 
 
@@ -109,7 +109,7 @@ The long snaking queues became a thing of the past as self-check machines and an
 
 The 300-square-metre courtyard of the National Library also underwent a transformation. After upgrading works, the courtyard was repurposed as a public space to “promote the library as a vibrant place and as a venue for creative expressions like poetry, readings, drama or dance performances, or forum discussions on an art topic,” said Lim Siew Kim, deputy director of the National Reference Library. The addition of a fountain and a cafe enhanced the ambience and further improved library user experience.[^10]
 
-![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_fountain.jpg)
+![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_fountain2.jpg)
 <div> A musical performance at the courtyard to celebrate the Lunar New Year, 2000. <i>Collection of the National Library Singapore.</i></div>
 
 
