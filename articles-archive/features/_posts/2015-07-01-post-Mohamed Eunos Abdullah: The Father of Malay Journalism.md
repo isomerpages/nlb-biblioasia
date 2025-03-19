@@ -146,7 +146,7 @@ Tan, H.Y. (1997, September 12). [Eunos upgrading programme gets a marine flavour
 
 Turnbull, C.M. (1989).*[ A history of Singapore, 1819–1988](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5178825)*. Singapore: Oxford University Press. (Call no.: RSING 959.57 TUR) 
 
-[Utosan Malayu](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/easterndaily19071109-1.2.22). (1907, November 9). Eastern Daily Mail and Straits Morning Advertiser, p. 7. Retrieved from NewspaperSG.
+[Utusan Malayu](https://www.nlb.gov.sg/main/article-detail?cmsuuid=02769d88-cba6-4ce0-879b-6f435dca15de). (1907, November 9). Eastern Daily Mail and Straits Morning Advertiser, p. 7. Retrieved from NewspaperSG.
 
 #### **NOTES**
 
