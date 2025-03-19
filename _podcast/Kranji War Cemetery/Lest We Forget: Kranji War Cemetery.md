@@ -26,7 +26,7 @@ Janice Loo, “[They Died for All Free Men: Stories from Kranji War Cemetery](ht
 
 Athanasios Tsakonas, “[In Honour of War Heroes: The Legacy of Colin St Clair Oakes](https://biblioasia.nlb.gov.sg/vol-14/issue-3/oct-dec-2018/honour-of-war-heroes/),” *BiblioAsia* 14, no. 3 (2018).
 
-Wong Heng, “[Kranji Memorials](https://eresources.nlb.gov.sg/infopedia/articles/SIP_183_2004-12-27.html),” Singapore Infopedia, published 2017, National Library Board.
+Wong Heng, “[Kranji Memorials](https://www.nlb.gov.sg/main/article-detail?cmsuuid=47f41a49-d2d0-4953-a113-698160242cda),” Singapore Infopedia, published 2017, National Library Board.
 
  Justin Corfield and Robin Corfield, [*The Fall of Singapore: 90 Days: November 1941–February 1942*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14296288) (Singapore: Talisman Publishing, 2012). (From National Library, Singapore, call no. RSING 940.5425957 COR-[WAR]) 
 
