@@ -76,3 +76,5 @@ The FMS was instituted in 1895 after Swettenham secured agreements from the Mala
 [^7]:[Barlow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7490524), 1995, pp. 691–715.
 
 [^8]:Cowan, C.D., &amp; Swettenham, F.A. (1951, December). Sir Frank Swettenham’s Perak journals, 1874–1876. *Journal of the Malaysian Branch of the Royal Asiatic Society, 24* (4) (157), 1–148, p. 6. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website; Roff, W.R. (1993). Introduction. In F.A. Swettenham, *[A nocturne and other Malayan stories and sketches](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6531099)* (pp. ix–xviii). Kuala Lumpur: Oxford University Press. Call no.: RSING 959.5 SWE; Sir Frank Swettenham. (2014). Encyclopaedia Britannica. Retrieved from Britannica Library website; National Library Board. (2014, May 15). *[Frank Swettenham](https://www.nlb.gov.sg/main/article-detail?cmsuuid=7386a5a7-b527-4511-898d-0d1eb9e716b9)*. Retrieved from Singapore Infopedia.
+
+
