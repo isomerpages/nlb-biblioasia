@@ -287,7 +287,7 @@ Zulfa Usman, _Cerita Rakyat Dari Bawean (Jawa Timur)_ (Jakarta: Grasindo, 1982)
        
 Endah Vision, “The Baweanes Corner, blog, 22 August 2010, endahvision.blogspot.com.
 
-Nor-Afidah Abdul Rahman and Marsita Omar, [The Baweanese (Boyanese)](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1069_2007-06-20.html), _Singapore Infopedia_, published October 2020.
+Nor-Afidah Abdul Rahman and Marsita Omar, [The Baweanese (Boyanese)](https://www.nlb.gov.sg/main/article-detail?cmsuuid=1c347e28-5925-4992-8dad-e2d702bfe634), _Singapore Infopedia_, published October 2020.
 
 _Persatuan Bawean Singapura_, https://opengovsg.com/corporate/S34SS0001G.
 
