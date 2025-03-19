@@ -226,7 +226,7 @@ National Heritage Board. (2015, December 7). <i>Former Cathay Building (now The 
 
 National Heritage Board. (2015, December 7). <i>Goodwood Park Hotel (Tower Block)</i>. Retrieved from Roots.sg website.
 
-Tan, J.H.S. (2016). *[Goodwood Park Hotel](https://eresources.nlb.gov.sg/infopedia/articles/SIP_767_2004-12-15.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
+Tan, J.H.S. (2016). *[Goodwood Park Hotel](https://www.nlb.gov.sg/main/article-detail?cmsuuid=e8b7f7f5-cc8a-433a-b096-b950c49a27ee)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
 [‘New look’ plan by URA for Orchard Road](D:\Veronica\BA_2014\BA_Oct-Dec 2014\New look plan by URA for Orchard Road). (1978, December 2). <i>The Straits Times</i>, p. 13. Retrieved from NewspaperSG.
 
