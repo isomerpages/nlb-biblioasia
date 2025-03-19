@@ -18,6 +18,10 @@ The former National Library building on Stamford Road, which opened in 1960, bec
 
 The National Library on Stamford Road was officially inaugurated on 12 November 1960 by Yang di-Pertuan Negara (Head of State) Yusof Ishak. In his speech, he said the new library would “serve the needs of nation-building and its departments of knowledge learning, and technology embraced a wide field”. He encouraged people to visit the library noting that it “is available for free use of all citizens of Singapore, and it is financed entirely from public funds. I call upon the people of Singapore to use this National Library of theirs as fully as possible”.[^1] It was reported that “\[i\]ncessant hordes of people \[were\] milling about the library grounds on that auspicious day”, all of them curious to see the new library.[^2]
 
+![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_guests.jpg)
+<div>Guests mingling during the National Library’s opening, 12 November 1960. <i>Collection of the National Library Singapore.</i></div>
+
+
 #### **A Philanthropist’s Donation**
 
 In 1953, businessman and philanthropist Lee Kong Chian donated $375,000 towards the building of the library. His contribution, which came with the stipulation that the library remain public and free for all, helped fund the construction on a site previously occupied by the St John’s Ambulance Headquarters and British Council Hall. Lee himself laid the foundation stone on 16 August 1957 and the total cost to construct the National Library – including land, construction and furnishings – was estimated at $2.5 million.[^3] (Prior to this, the library was located in the building that is now known as the National Museum of Singapore.)
