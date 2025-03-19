@@ -100,11 +100,18 @@ In March 1997, the National Library underwent a six-month extensive makeover cos
 <div>The renovated National Library, 1997. The red-brick facade was retained.  <i>Collection of the National Library Singapore.</i></div>
 
 
+![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_lobby.jpg)
+<div>The foyer of the revamped National Library with the self-check borrowing stations, 1997.&nbsp; The St Andrew’s Cross on the floor at the entrance is now located outside the National Library Building on Victoria Street. <i>Collection of the National Library Singapore.</i></div>
+
 A new Singapore Resource Library was set up to replace the South East Asia Room, while the lending library was renamed the Central Community Library and furnished with a new information counter as well as new shelves and study tables.&nbsp;
 
 The long snaking queues became a thing of the past as self-check machines and an automated bookdrop allowed patrons to borrow and return books with greater convenience. Computer stations with Internet access were also added to aid the discovery of new information and library materials.[^9]
 
 The 300-square-metre courtyard of the National Library also underwent a transformation. After upgrading works, the courtyard was repurposed as a public space to “promote the library as a vibrant place and as a venue for creative expressions like poetry, readings, drama or dance performances, or forum discussions on an art topic,” said Lim Siew Kim, deputy director of the National Reference Library. The addition of a fountain and a cafe enhanced the ambience and further improved library user experience.[^10]
+
+![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_fountain.jpg)
+<div> A musical performance at the courtyard to celebrate the Lunar New Year, 2000. <i>Collection of the National Library Singapore.</i></div>
+
 
 #### **From Stamford Road to Victoria Street**
 
