@@ -172,7 +172,7 @@ In 1990, Pillai struck a deal with France’s biggest food company BSN Groupe to
 
 [^8]:[The late Mr Robert Laidlaw](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19151105-1.2.70.aspx). (1915, November 5). *The Straits Times*, p. 8. Retrieved from NewspaperSG; Vedamni, 2003.
 
-[^9]:[National Library Board](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1122_2006-06-15.html), 2006; [Warm work for mannequins](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19481104-1.2.73.aspx). (1948, November 4). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
+[^9]:[National Library Board](https://www.nlb.gov.sg/main/article-detail?cmsuuid=a3edc99d-1cfc-46d6-9198-cfc4bd51edda), 2006; [Warm work for mannequins](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19481104-1.2.73.aspx). (1948, November 4). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
 
 [^10]:[‘Gussies’ chief here, plans expansion](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19571214-1.2.98.aspx). (1957, December 14). *The Straits Times*, p. 9; [Whiteaway Laidlaw to close in Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19611228-1.2.47.aspx). (1961, December 28). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 

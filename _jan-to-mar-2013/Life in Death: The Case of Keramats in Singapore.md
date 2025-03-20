@@ -5,6 +5,7 @@ description: Keramats (or shrines) have endured the fast-paced changes
   characteristic of Singapore’s urban progress and development. Over the
   centuries, keramats have obtained a symbolic significance that transcends the
   vibrant social fabric of multiple religions and cultures.
+variant: markdown
 ---
 #### Keramats (shrines) have endured the fast-paced changes characteristic of Singapore’s urban progress and development. Over the centuries, keramats have obtained a symbolic significance that transcends the vibrant social fabric of multiple religions and cultures.
 
@@ -99,7 +100,7 @@ Chia, Jack Meng-Tat. (2009, December 2). Mananging the tortoise island: Tua Pek 
 
 Choo Liyun, Wendy. (2007). _Socialization and localization: A case study of the Datok Gong cult in Malacca_. Retrieved from nus.edu.sg website. 
 
-Cornelius-Takahama, Vernon. (2016, September 16). [_Kusu Island_](https://eresources.nlb.gov.sg/infopedia/articles/SIP_233_2005-01-20.html) &nbsp;Retrieved from Singapore Infopedia.
+Cornelius-Takahama, Vernon. (2016, September 16). [_Kusu Island_](https://www.nlb.gov.sg/main/article-detail?cmsuuid=88b893d8-6da3-45a9-ab08-c2b795c989cc) &nbsp;Retrieved from Singapore Infopedia.
 
 Foy, Geoff&nbsp; (n.d.). _Chinese belief systems: From past to present and present to past._ Asia Society. Retrieved from Asia Society website. 
 
@@ -158,7 +159,7 @@ Yahya. (1939, June 11). [Singapore’s keramats: Wonder-working shrines sacred t
 
 [^11]: Chambert-Loir, Henri. (2002) “Saints and ancestors: The cult of Muslim saints in Java” in _[The Potent Dead: Ancestors, Saints and Heroes in Contemporary Indonesia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11147938)_, quoted in Goh (2011, p. 154).
 
-[^12]: For a better understanding of Kusu Island, please refer to National Library Board. (2016, September 16). [_Kusu Island_](https://eresources.nlb.gov.sg/infopedia/articles/SIP_233_2005-01-20.html) &nbsp;written by Vernon Cornelius-Takahama. Retrieved from Singapore Infopedia.
+[^12]: For a better understanding of Kusu Island, please refer to National Library Board. (2016, September 16). [_Kusu Island_](https://www.nlb.gov.sg/main/article-detail?cmsuuid=88b893d8-6da3-45a9-ab08-c2b795c989cc) &nbsp;written by Vernon Cornelius-Takahama. Retrieved from Singapore Infopedia.
 
 [^13]: [Month-long Kusu pilgrimage begins next week](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20121010-1.2.3.12.7). (2012, October 9). _The New Paper_, pp. 8–9. Retrieved from NewspaperSG.
 

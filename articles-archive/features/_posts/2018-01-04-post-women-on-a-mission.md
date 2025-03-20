@@ -4,10 +4,11 @@ date: 2018-01-04
 permalink: /vol-13/issue-4/jan-mar-2018/women-on-a-mission/
 image: /images/Vol-13-issue-4/women-on-a-mission/01a_womenmission.jpg
 layout: post
+variant: markdown
 ---
 #### Female missionaries in colonial Singapore have made their mark in areas such as education, welfare and health services. **Jaime Koh** looks at some of these intrepid trailblazers.
 
-<div style="background-color: white;"><br><img src="/images/Vol-13-issue-4/women-on-a-mission/01a_womenmission.jpg">The Catholic sisters of the Convent of the Holy Infant Jesus with some orphans and their Malay nanny in 1924. In addition to a school, the convent also ran an orphanage that accepted and cared for orphans and abandoned babies. <I>Sisters of the Infant Jesus Collection, courtesy of National Archives of Singapore.</i></div>
+<div style="background-color: white;"><br><img src="/images/Vol-13-issue-4/women-on-a-mission/01a_womenmission.jpg">The Catholic sisters of the Convent of the Holy Infant Jesus with some orphans and their Malay nanny in 1924. In addition to a school, the convent also ran an orphanage that accepted and cared for orphans and abandoned babies. <i>Sisters of the Infant Jesus Collection, courtesy of National Archives of Singapore.</i></div>
 
 Nineteenth-century Singapore was a thriving centre of commerce that held much promise. Soon after the British established a trading post in 1819, Singapore’s status as a free port and great emporium grew, attracting many who were drawn to the economic opportunities the island offered. Besides workers and merchants, the settlement also attracted Christian missionaries from the West who saw an opportunity to spread their message “among heathen and other unenlightened nations”[^1] in Asia.
 
@@ -148,21 +149,21 @@ In 1964, the Town Convent was separated into primary and secondary schools and, 
 
 [^1]:Home, C.S. (1908). *The story of the L.M.S., with an appendix bringing the story up to year 1904* (p. 10). Blackfrairs: London Missionary Society. Retrieved from Missiology website.
 
-[^2]:Kirkwood, D. (1993). Protestant missionary women: Wives and spinsters (pp. 23–42). In F. Bowie, D. Kirkwood & S. Ardener (Eds.), *Women and missions: Past and present: Anthropological and historical perceptions* (p. 25). Oxford: Berg Publishers. (Not available in NLB holdings).
+[^2]:Kirkwood, D. (1993). Protestant missionary women: Wives and spinsters (pp. 23–42). In F. Bowie, D. Kirkwood &amp; S. Ardener (Eds.), *Women and missions: Past and present: Anthropological and historical perceptions* (p. 25). Oxford: Berg Publishers. (Not available in NLB holdings).
 
 [^3]:Kirkwood, 1993, p. 26.
 
 [^4]:Kirkwood, 1993, p. 34.
 
-[^5]:Kirkwood, 1993, p. 32; Williams, P. (1993). The missing link: The recruitment of women missionaries in some English evangelical missionary societies in the nineteenth century (pp. 43–69). In F. Bowie, D. Kirkwood & S. Ardener (Eds.), *Women and missions: Past and present: Anthropological and historical perceptions* (p. 56). Oxford: Berg Publishers. (Not available in NLB holdings).
+[^5]:Kirkwood, 1993, p. 32; Williams, P. (1993). The missing link: The recruitment of women missionaries in some English evangelical missionary societies in the nineteenth century (pp. 43–69). In F. Bowie, D. Kirkwood &amp; S. Ardener (Eds.), *Women and missions: Past and present: Anthropological and historical perceptions* (p. 56). Oxford: Berg Publishers. (Not available in NLB holdings).
 
 [^6]:Saw, S.H. (2012). *[The population of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=14383911)* (pp. 31–32). Singapore: ISEAS. (Call no.: RSING 304.6095957 SAW)
 
-[^7]:Makepeace, W., Brooke, G.E., & Braddell, R.S.J. (Eds.). (1991). *[One hundred years of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718)* (Vol. 1, pp. 155, 353). Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE-[HIS])
+[^7]:Makepeace, W., Brooke, G.E., &amp; Braddell, R.S.J. (Eds.). (1991). *[One hundred years of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718)* (Vol. 1, pp. 155, 353). Singapore: Oxford University Press. (Call no.: RSING 959.57 ONE-[HIS])
 
 [^8]:Turnbull, C.M. (1989). *[A history of Singapore, 1819–1988](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5178825)* (pp. 59–64). Singapore: Oxford University Press. (Call no.: RSING 959.57 TUR-[HIS]); Kiong, B.H. (1953). *Educational progress in Singapore, 1870–1902* (p. 4). (Unpublished academic exercise, University of Malaya).; Blackmore, S. (n.d.). *A pioneer in Malaya*. Singapore: MGS Heritage Centre. (Unpublished manuscript)
 
-[^9]:O’Sullivan, R.L. (1990). *[A history of the London Missionary Society in the Straits Settlements (c 1815–1847)](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5701470)*  (pp. 132–133) (PhD thesis). London: University of London, School of Oriental and African Studies. (Call no.: RCLOS 266.0234105957 OSU); Buckley. C.B. (1902). *[An anecdotal history of old times in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4470390)* (Vol. 1, p. 77). Singapore: Fraser & Neave. (Call no.: RCLOS 959.57 BUC-[HIS])
+[^9]:O’Sullivan, R.L. (1990). *[A history of the London Missionary Society in the Straits Settlements (c 1815–1847)](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5701470)*  (pp. 132–133) (PhD thesis). London: University of London, School of Oriental and African Studies. (Call no.: RCLOS 266.0234105957 OSU); Buckley. C.B. (1902). *[An anecdotal history of old times in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4470390)* (Vol. 1, p. 77). Singapore: Fraser &amp; Neave. (Call no.: RCLOS 959.57 BUC-[HIS])
 
 [^10]:William E. (1844). *A history of the London Missionary Society* (Vol. 1) (pp. 569–570). London: John Snow. (Not available in NLB holdings); [O’Sullivan](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5701470), 1986, pp. 99, 133–134; [Turnbull](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5178825), 1989, p. 60. 
 
@@ -172,7 +173,7 @@ In 1964, the Town Convent was separated into primary and secondary schools and, 
  
 [^13]:Song O.S. (2020). *[One hundred years’ history of the Chinese in Singapore](https://eresources.nlb.gov.sg/printheritage/detail/d77d9bfc-e335-4775-a6bf-e8712deaa81f.aspx?s=history%20of%20the%20Chinese%20in%20Singapore)*. (p. 78). Singapore: National Library Board Singapore. Retrieved from BookSG.
 
-[^14]:Walker, E.A. (1899). *[Sophia Cooke, or, forty-two years’ work in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5013101)* (pp. 5, 28-29). London: E. Stock. [Call no.: RRARE 287.10924 WAL; Microfilm no.: NL 11273]; [Sng](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12253210), 2003, pp. 65–66; [Makepeace, Brooke & Braddell](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718), 1991, p. 462.
+[^14]:Walker, E.A. (1899). *[Sophia Cooke, or, forty-two years’ work in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5013101)* (pp. 5, 28-29). London: E. Stock. [Call no.: RRARE 287.10924 WAL; Microfilm no.: NL 11273]; [Sng](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12253210), 2003, pp. 65–66; [Makepeace, Brooke &amp; Braddell](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6203718), 1991, p. 462.
 
 [^15]:Ragged schools referred to the independently run charity schools the United Kingdom in the 19th century. These provided free education, food and lodging for the destitute. See Ragged University. (n. d.). *Education history: A brief history of Ragged Schools*. Retrieved from Ragged University website. 
 
@@ -180,7 +181,7 @@ In 1964, the Town Convent was separated into primary and secondary schools and, 
 
 [^17]:Tiedemann, R.G. (2009). *[Reference guide to Christian missionary societies in China: From the sixteenth to the twentieth century](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13161090)* (p. 213). Armonk, New York: M. E. Sharpe. (Call no.: R 266.0095103 TIE); Seton, R. E. (2013). *[Western daughters in Eastern lands: British missionary women in Asia](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200146253)* (p. 95). Santa Barbara, California: Praeger. (Call no.: R 266.0234105082 SET); [Lee](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=11854647), 2002, p. 70.
 
-[^18]:National Library Board (2014, December 16). *[St Margaret’s School](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-12-16_105929.html)* written by Fiona Tan. Retrieved from Singapore Infopedia.
+[^18]:National Library Board (2014, December 16). *[St Margaret’s School](https://www.nlb.gov.sg/main/article-detail?cmsuuid=39938a8b-d019-4490-839f-8734ab20f1f2)* written by Fiona Tan. Retrieved from Singapore Infopedia.
 
 [^19]:[Walker](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5013101), 1899, p. 37; Young Women’s Christian Association. (1995). *[Young Women’s Christian Association: 1875–1995](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12397109)* (p. 16). Singapore: Young Women’s Christian Association, (Call no.: RSING 267.59597 YOU); [Young women’s association](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18980103-1.2.53.aspx). (1898, January 3). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
 
@@ -220,13 +221,13 @@ In 1964, the Town Convent was separated into primary and secondary schools and, 
 
 [^37]:[Buckley](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4470390), 1902, pp. 267, 365–266.
 
-[^38]:Kong, L., Low, S.A., & Yip, J. (1994). *[Convent chronicles: History of a pioneer mission school for girls in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7230042)* (p. 56). Singapore: Armour Publishing. (Call no.: RSING 373.5957 KON); Meyers, E. (2004). *[Convent of the Holy Infant Jesus: 150 years in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12427695)* (p. 62). Penang, Malaysia: The Lady Superior of Convent of the Holy Infant Jesus. (Call no.: RSING q371.07125957 MEY)
+[^38]:Kong, L., Low, S.A., &amp; Yip, J. (1994). *[Convent chronicles: History of a pioneer mission school for girls in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7230042)* (p. 56). Singapore: Armour Publishing. (Call no.: RSING 373.5957 KON); Meyers, E. (2004). *[Convent of the Holy Infant Jesus: 150 years in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12427695)* (p. 62). Penang, Malaysia: The Lady Superior of Convent of the Holy Infant Jesus. (Call no.: RSING q371.07125957 MEY)
 
-[^39]:[Kong, Low & Yip](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7230042), 1994, p. 56; CHIJ Secondary. (2017). *IJ communities and schools*. Retrieved from CHIJ Secondary website.
+[^39]:[Kong, Low &amp; Yip](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7230042), 1994, p. 56; CHIJ Secondary. (2017). *IJ communities and schools*. Retrieved from CHIJ Secondary website.
 
 [^40]:Annual medical report on the civil hospitals in the Straits Settlements for the year 1885. See Straits Settlements. Legislative Council. (1886). *[Proceedings of the Legislative Council of the Straits Settlements (with appendices) for the year 1886](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201042621)*. Singapore: Government Printing Office. [Microfilm no.: NL 1107]
 
-[^41]:Khoo, H. H. (1955). *Medical services in the Straits Settlements, 1867–1905* (p. 55) (Unpublished thesis). Singapore: University of Malaya. (Not available in NLB holdings); Viji Mudeliar, V., Nair, C.R.S., & Norris, R.P. (1983). *[Development of hospital care and nursing in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200039522)* (p. 18). Singapore: Ministry of Health. Retrieved from PublicationSG.
+[^41]:Khoo, H. H. (1955). *Medical services in the Straits Settlements, 1867–1905* (p. 55) (Unpublished thesis). Singapore: University of Malaya. (Not available in NLB holdings); Viji Mudeliar, V., Nair, C.R.S., &amp; Norris, R.P. (1983). *[Development of hospital care and nursing in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=200039522)* (p. 18). Singapore: Ministry of Health. Retrieved from PublicationSG.
 
 [^42]:Annual medical report on the civil hospitals of the Straits Settlements for the year 1893. See Straits Settlements Legislative Council. (1893). *[Proceedings of the Legislative Council of the Straits Settlements (with appendices) for the year 1893](https://eservice.nlb.gov.sg/item_holding.aspx?bid=201042621)*. Singapore: Government Printing Office. [Microfilm no.: NL 1107] 
  

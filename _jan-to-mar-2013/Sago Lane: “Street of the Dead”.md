@@ -6,6 +6,7 @@ description: Among the older generation of Singaporeans who have lived, grown up
   and depressing memories of the old two- to three- storey red-tiled roof houses
   that used to line Sago Lane, scattered intermittently among residential
   dwellings.
+variant: markdown
 ---
 #### The older generation of Singaporeans who lived, grew up or worked in Chinatown during the 1930s to 1960s would remember the “death houses” of Sago Lane, scattered intermittently among residential dwellings.
 
@@ -205,7 +206,7 @@ Suan, K.L. (1971, June 6). [Only thing down is cost of dying…](http://eresourc
 
 Tan, A., &amp; Quek, E. (2007, May 31). [Colourful start to Vesak Day festivities](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20070531-2.2.58.27.1). _The Straits Times_, p. 67. Retrieved from NewspaperSG.
 
-Thulaja, N.R. (2016). [_Sago Lane_](https://eresources.nlb.gov.sg/infopedia/articles/SIP_299_2005-01-11.html). Retrieved from Singapore Infopedia website.
+Thulaja, N.R. (2016). [_Sago Lane_](https://www.nlb.gov.sg/main/article-detail?cmsuuid=f184c154-6f97-4fc2-980c-c4d9edbb9de9). Retrieved from Singapore Infopedia website.
 
 Tyers, R.K. (1993). [_Ray Tyers’ Singapore: Then and now_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6442235). Singapore: Landmark Books. (Call no.: RSING 959.57 TYE)
 
@@ -330,7 +331,7 @@ Yeo, L.F. (Interviewer). (1999, October 18). [_Oral history interview with Sew T
 
 [^57]: [Tyers](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6442235), 1993, p. 192.
 
-[^58]: [Thulaja](https://eresources.nlb.gov.sg/infopedia/articles/SIP_299_2005-01-11.html), 2005. &nbsp;
+[^58]: [Thulaja](https://www.nlb.gov.sg/main/article-detail?cmsuuid=f184c154-6f97-4fc2-980c-c4d9edbb9de9), 2005. &nbsp;
 
 [^59]: Buddha Tooth Relic Temple and Museum, 2012. &nbsp;
 
