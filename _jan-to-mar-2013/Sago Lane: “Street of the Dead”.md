@@ -331,7 +331,7 @@ Yeo, L.F. (Interviewer). (1999, October 18). [_Oral history interview with Sew T
 
 [^57]: [Tyers](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6442235), 1993, p. 192.
 
-[^58]: [Thulaja](https://eresources.nlb.gov.sg/infopedia/articles/SIP_299_2005-01-11.html), 2005. &nbsp;
+[^58]: [Thulaja](https://www.nlb.gov.sg/main/article-detail?cmsuuid=f184c154-6f97-4fc2-980c-c4d9edbb9de9), 2005. &nbsp;
 
 [^59]: Buddha Tooth Relic Temple and Museum, 2012. &nbsp;
 
