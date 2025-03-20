@@ -151,7 +151,7 @@ National Heritage Board. (2013, March 14). <i>Pulau Ubin</i>. Singapore: Nationa
 
 Chua, A. (2009). *[The Causeway](https://www.nlb.gov.sg/main/article-detail?cmsuuid=74fd954b-2970-4c10-a74f-5df4c22eee28)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
-Chew, V. (2009). *[Housing and Development Board](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1589_2009-10-26.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
+Chew, V. (2009). *[Housing and Development Board](https://www.nlb.gov.sg/main/article-detail?cmsuuid=3abd40aa-0d91-4352-b9fe-0de1d68e3d85)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
 Cornelius-Takahama, V. (2018, July). [Raffles Lighthouse](https://eresources.nlb.gov.sg/infopedia/articles/SIP_147_2005-01-18.html). Retrieved from Singapore Infopedia, National Library Singapore.
 
