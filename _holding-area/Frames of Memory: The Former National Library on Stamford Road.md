@@ -100,12 +100,12 @@ In March 1997, the National Library underwent a six-month extensive makeover cos
 <div>The renovated National Library, 1997. The red-brick facade was retained.  <i>Collection of the National Library Singapore.</i></div>
 
 
-![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_lobby.jpg)
-<div>The foyer of the revamped National Library with the self-check borrowing stations, 1997.&nbsp; The St Andrew’s Cross on the floor at the entrance is now located outside the National Library Building on Victoria Street. <i>Collection of the National Library Singapore.</i></div>
-
 A new Singapore Resource Library was set up to replace the South East Asia Room, while the lending library was renamed the Central Community Library and furnished with a new information counter as well as new shelves and study tables.&nbsp;
 
 The long snaking queues became a thing of the past as self-check machines and an automated bookdrop allowed patrons to borrow and return books with greater convenience. Computer stations with Internet access were also added to aid the discovery of new information and library materials.[^9]
+
+![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_lobby.jpg)
+<div>The foyer of the revamped National Library with the self-check borrowing stations, 1997.&nbsp; The St Andrew’s Cross on the floor at the entrance is now located outside the National Library Building on Victoria Street. <i>Collection of the National Library Singapore.</i></div>
 
 The 300-square-metre courtyard of the National Library also underwent a transformation. After upgrading works, the courtyard was repurposed as a public space to “promote the library as a vibrant place and as a venue for creative expressions like poetry, readings, drama or dance performances, or forum discussions on an art topic,” said Lim Siew Kim, deputy director of the National Reference Library. The addition of a fountain and a cafe enhanced the ambience and further improved library user experience.[^10]
 
@@ -122,8 +122,7 @@ The decision sparked public calls to preserve the building. However, the demolit
 ![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_nlb.jpg)
 <div>The National Library Building on Victoria Street, 2020. <i>Collection of the National Library Singapore. </i></div>
 
-Although the National Library building on Stamford Road no longer exists, its entrance pillars are preserved within the grounds of the Singapore Management University. Some of the red bricks were salvaged and utilised for the construction of the wall of the bamboo garden at the Basement 1 Central Public Library in the new building. The St Andrew’s Cross –  
-a geometric floor pattern consisting of four adjoining crosses – that used to adorn the floor of the entrance at the Stamford Road building was moved to a space outside the new building.[^12]
+Although the National Library building on Stamford Road no longer exists, its entrance pillars are preserved within the grounds of the Singapore Management University. Some of the red bricks were salvaged and utilised for the construction of the wall of the bamboo garden at the Basement 1 Central Public Library in the new building. The St Andrew’s Cross –  a geometric floor pattern consisting of four adjoining crosses – that used to adorn the floor of the entrance at the Stamford Road building was moved to a space outside the new building.[^12]
 
 ![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_pillars.jpg)
 <div>The entrance pillars of the former National Library are preserved within the grounds of the Singapore Management University. <i>Collection of the National Musuem of Singapore, National Heritage Board. </i></div>
