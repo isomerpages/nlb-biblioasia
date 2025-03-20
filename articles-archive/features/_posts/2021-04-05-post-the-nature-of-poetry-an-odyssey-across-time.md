@@ -5,6 +5,7 @@ date: 2021-04-01T00:00:00.000Z
 breadcrumb: "The Nature of Poetry: An Odyssey Across Time"
 third_nav_title: "The Nature of Poetry: An Odyssey Across Time"
 image: /images/Vol-17-issue-1/poetry/selita.jpg
+variant: markdown
 ---
 <style>
 table { 
@@ -239,7 +240,7 @@ Bringing the winding odyssey of past lyrical-sojourners at the beginning of this
 
 [^17]: Teo, K.L. (1955). I found a bone (p. 74). In E. Ogihara-Schuck &amp; S. Kum (Eds.) (2016), *[I found a bone and other poems](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202554510)*. Singapore: Ethos Books. (Call no.: RSING S821 NG)
 
-[^18]: [Ogihara-Schuck &amp; Teo](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201951092), 2015, pp. 4–5. [Note: The Sook Ching massacre, carried out from 21 February to 4 March 1942, refers to the Japanese military operation aimed at eliminating anti-Japanese elements from the Chinese community in Singapore. Chinese males between the ages of 18 and 50 were summoned to various mass screening centres and those suspected of being anti-Japanese were summarily executed. For more information, see Ho, S. (2013, June 17). *[Operation Sook Ching](https://eresources.nlb.gov.sg/infopedia/articles/SIP_40_2005-01-24.html)*. Retrieved from Singapore Infopedia website.]
+[^18]: [Ogihara-Schuck &amp; Teo](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=201951092), 2015, pp. 4–5. [Note: The Sook Ching massacre, carried out from 21 February to 4 March 1942, refers to the Japanese military operation aimed at eliminating anti-Japanese elements from the Chinese community in Singapore. Chinese males between the ages of 18 and 50 were summoned to various mass screening centres and those suspected of being anti-Japanese were summarily executed. For more information, see Ho, S. (2013, June 17). *[Operation Sook Ching](https://www.nlb.gov.sg/main/article-detail?cmsuuid=cc4da337-3bcd-4f96-bdc6-5210646bdd90)*. Retrieved from Singapore Infopedia website.]
 
 [^19]: Chng, H. (2016, November 20). *S’pore’s first zoo was not in Mandai. One of the earliest was started by an “Animal Man” who went around with a pet tiger*. Retrieved from Mothership website.
 
