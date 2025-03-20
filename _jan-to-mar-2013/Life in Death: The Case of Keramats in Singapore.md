@@ -5,6 +5,7 @@ description: Keramats (or shrines) have endured the fast-paced changes
   characteristic of Singapore’s urban progress and development. Over the
   centuries, keramats have obtained a symbolic significance that transcends the
   vibrant social fabric of multiple religions and cultures.
+variant: markdown
 ---
 #### Keramats (shrines) have endured the fast-paced changes characteristic of Singapore’s urban progress and development. Over the centuries, keramats have obtained a symbolic significance that transcends the vibrant social fabric of multiple religions and cultures.
 
@@ -99,7 +100,7 @@ Chia, Jack Meng-Tat. (2009, December 2). Mananging the tortoise island: Tua Pek 
 
 Choo Liyun, Wendy. (2007). _Socialization and localization: A case study of the Datok Gong cult in Malacca_. Retrieved from nus.edu.sg website. 
 
-Cornelius-Takahama, Vernon. (2016, September 16). [_Kusu Island_](https://eresources.nlb.gov.sg/infopedia/articles/SIP_233_2005-01-20.html) &nbsp;Retrieved from Singapore Infopedia.
+Cornelius-Takahama, Vernon. (2016, September 16). [_Kusu Island_](https://www.nlb.gov.sg/main/article-detail?cmsuuid=88b893d8-6da3-45a9-ab08-c2b795c989cc) &nbsp;Retrieved from Singapore Infopedia.
 
 Foy, Geoff&nbsp; (n.d.). _Chinese belief systems: From past to present and present to past._ Asia Society. Retrieved from Asia Society website. 
 
