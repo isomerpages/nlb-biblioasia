@@ -157,7 +157,7 @@ Given its age, historical significance and global prominence, it is timely that 
 
 [^14]: Lai Chee Kien, “[The Padang: Centrepiece of Colonial Design](https://biblioasia.nlb.gov.sg/vol-12/issue-3/oct-dec-2016/the-padang),” *BiblioAsia* 12, no. 3 (Oct–Dec 2016): 40–4.
 
-[^15]: Vernon Cornelius and Joanna H.S. Tan, “[Former Supreme Court Building](https://eresources.nlb.gov.sg/infopedia/articles/SIP_774_2005-01-10.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published 2011.
+[^15]: Vernon Cornelius and Joanna H.S. Tan, “[Former Supreme Court Building](https://www.nlb.gov.sg/main/article-detail?cmsuuid=09764151-b212-4966-82a7-5366a5bf22d3),” in *Singapore Infopedia*. National Library Board Singapore. Article published 2011.
 
 [^16]: “[Municipal Commission](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk19000517-1.2.95),” *Singapore Free Press*, 17 May 1900, 10; “[A Desirable Acquisition](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepresswk19000525-1.2.6),” *Singapore Free Press*, 25 May 1900, 317. (From NewspaperSG)
 
@@ -185,7 +185,7 @@ Given its age, historical significance and global prominence, it is timely that 
 
 [^28]: “[2 Malays Shot: Cars Burnt](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singstandard19501211-1.2.110.2),” *Singapore Standard*, 11 December 1950, 9; “[Police Open Fire on Rioting Mob](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19501211-1.2.149.2),” *Malayan Tribune*, 11 December 1950, 1. (From NewspaperSG)
 
-[^29]: “[Maria Hertogh Riots](https://eresources.nlb.gov.sg/infopedia/articles/SIP_83_2005-02-02.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published 28 September 2014.
+[^29]: “[Maria Hertogh Riots](https://www.nlb.gov.sg/main/article-detail?cmsuuid=fbc266c5-4f6f-49d8-b77e-d37e20742087),” in *Singapore Infopedia*. National Library Board Singapore. Article published 28 September 2014.
 
 [^30]: “[Padang Rally: Big Security Alert](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630825-1.2.27),” *Straits Times*, 25 August 1963, 3. (From NewspaperSG) 
 

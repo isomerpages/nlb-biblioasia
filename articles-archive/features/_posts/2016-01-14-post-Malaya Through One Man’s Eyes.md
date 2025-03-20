@@ -5,6 +5,7 @@ permalink: /vol-11/issue-4/jan-mar-2016/british-malaya-swettenham/
 image: /images/vol-11-issue-4/malaya-through-one-man-eyes/01_malaya.jpg
 layout: post
 description: ""
+variant: markdown
 ---
 <div style="background-colour:#fdf5e6; padding:20px; margin: 20px; background: #fdf5e6;">
 <b>Title:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=4250035">British Malaya: An Account of the Origin and Progress of British Influence in Malaya</a></i>
@@ -44,7 +45,7 @@ In the preface to the original edition, Swettenham stated that the aim of the bo
 
 <div style="background-color: white;"><img src="/images/vol-11-issue-4/malaya-through-one-man-eyes/02a_malaya.jpg">The book includes detailed biographical descriptions of the Malay rulers. Photographed here are the Tunku Besar of Pahang, Sultan Abdulsamad of Selangor, Sultan Idris of Perak and the Yang di-Pertuan of Negeri Sembilan. <i>All rights reserved, Swettenham, F. A. (1907). British Malaya: An Account of the Origin and Progress of British Influence in Malaya. London: John Lane.</i></div>
 
-The first edition of *British Malaya* was published with a coloured map of Malaya and over 50 illustrations. The cover is bright yellow – a distinctive characteristic of Swettenham’s books. *British Malaya* was distributed locally by Kelly & Walsh at $8.50 per copy.[^6] The book was widely read and went through several reprints and editions. Corrections and additions were made in the 1920, 1929 and 1948 editions.
+The first edition of *British Malaya* was published with a coloured map of Malaya and over 50 illustrations. The cover is bright yellow – a distinctive characteristic of Swettenham’s books. *British Malaya* was distributed locally by Kelly &amp; Walsh at $8.50 per copy.[^6] The book was widely read and went through several reprints and editions. Corrections and additions were made in the 1920, 1929 and 1948 editions.
 
 In 1920, Swettenham added an appendix to the book in response to Cecil Clementi Smith’s pamphlet, *Notes on Some of the Statements in Frank Swettenham’s Book “British Malaya”*, which challenged Swettenham’s claim that he had proposed the FMS scheme. In the appendix, Swettenham provided documentary evidence that he had submitted a memorandum on the formation of the FMS to Smith, who in 1893 was the Governor of the Straits Settlements.[^7]
 
@@ -60,18 +61,20 @@ The FMS was instituted in 1895 after Swettenham secured agreements from the Mala
 
 #### **NOTES**
 
-[^1]: Kwa, C.G., Heng, D., & Tan, T. Y. (2009). *Singapore, a 700-year history: From early emporium to world city* (pp. 3–4). Singapore: National Archives of Singapore. Call no.: RSING 959.5703 KWA
+[^1]: Kwa, C.G., Heng, D., &amp; Tan, T. Y. (2009). *Singapore, a 700-year history: From early emporium to world city* (pp. 3–4). Singapore: National Archives of Singapore. Call no.: RSING 959.5703 KWA
 
 [^2]:Barlow, H.S. (1995). Writings: Swettenham as historian. *[In Swettenham](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7490524)* (pp. 691–715). Kuala Lumpur: Southdene. Call no.: RSING 959.5104 BAR
 
 [^3]:Reid, A. (2010). *[Imperial alchemy: Nationalism and political identity in Southeast Asia](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13352726)* (p. 94). Cambridge, UK; New York: Cambridge University Press. Call no.: RSEA 320.540959 REI
 
-[^4]:Savage, V.R., & Kong, L. (1995). Hugh Clifford and Frank Swettenham: Environmental cognition and the Malayan colonial process. In E. Thumboo & T. Kandiah (Eds.). *[The writer as historical witness: Studies in Commonwealth literature](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7504056)* (pp. 409–425). Call no.: RSING 820.99171241120 WRI
+[^4]:Savage, V.R., &amp; Kong, L. (1995). Hugh Clifford and Frank Swettenham: Environmental cognition and the Malayan colonial process. In E. Thumboo &amp; T. Kandiah (Eds.). *[The writer as historical witness: Studies in Commonwealth literature](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7504056)* (pp. 409–425). Call no.: RSING 820.99171241120 WRI
 
 [^5]:[Barlow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7490524), 1995, pp. 691–715; Chew, E. (1968). Sir Frank Swettenham and the Federation of the Malay States. *Modern Asian Studies, 2* (1), 51–69. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-[^6]:[Kelly & Walsh: British Malaya](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19061124-1.2.23.1). (1906, November 24). *The Singapore Free Press*, p. 6; [Kelly & Walsh: New books](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19070204-1.2.16.1). (1907, February 4). *The Singapore Free Press*, p. 4. Retrieved from NewspaperSG.
+[^6]:[Kelly &amp; Walsh: British Malaya](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19061124-1.2.23.1). (1906, November 24). *The Singapore Free Press*, p. 6; [Kelly &amp; Walsh: New books](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19070204-1.2.16.1). (1907, February 4). *The Singapore Free Press*, p. 4. Retrieved from NewspaperSG.
 
 [^7]:[Barlow](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=7490524), 1995, pp. 691–715.
 
-[^8]:Cowan, C.D., & Swettenham, F.A. (1951, December). Sir Frank Swettenham’s Perak journals, 1874–1876. *Journal of the Malaysian Branch of the Royal Asiatic Society, 24* (4) (157), 1–148, p. 6. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website; Roff, W.R. (1993). Introduction. In F.A. Swettenham, *[A nocturne and other Malayan stories and sketches](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6531099)* (pp. ix–xviii). Kuala Lumpur: Oxford University Press. Call no.: RSING 959.5 SWE; Sir Frank Swettenham. (2014). Encyclopaedia Britannica. Retrieved from Britannica Library website; National Library Board. (2014, May 15). *[Frank Swettenham](http://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-05-16_133845.html)*. Retrieved from Singapore Infopedia.
+[^8]:Cowan, C.D., &amp; Swettenham, F.A. (1951, December). Sir Frank Swettenham’s Perak journals, 1874–1876. *Journal of the Malaysian Branch of the Royal Asiatic Society, 24* (4) (157), 1–148, p. 6. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website; Roff, W.R. (1993). Introduction. In F.A. Swettenham, *[A nocturne and other Malayan stories and sketches](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6531099)* (pp. ix–xviii). Kuala Lumpur: Oxford University Press. Call no.: RSING 959.5 SWE; Sir Frank Swettenham. (2014). Encyclopaedia Britannica. Retrieved from Britannica Library website; National Library Board. (2014, May 15). *[Frank Swettenham](https://www.nlb.gov.sg/main/article-detail?cmsuuid=7386a5a7-b527-4511-898d-0d1eb9e716b9)*. Retrieved from Singapore Infopedia.
+
+

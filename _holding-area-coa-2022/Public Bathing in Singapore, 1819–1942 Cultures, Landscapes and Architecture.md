@@ -822,7 +822,7 @@ _Malaya Tribune_. “[Education in 1921: Annual Report for the Straits Settlemen
 
 —. “[A Chinese Recreation Ground](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19290925-1.2.33).” 25 September 1929, 8.
 
-—. “[Chinese Topics](Chinese%20Topics).” 26 September 1930, 12.
+—. “[Chinese Topics](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19300926-1.2.86).” 26 September 1930, 12.
 
 _Mid-Day Herald_. “[A Standing Nuisance](https://eresources.nlb.gov.sg/newspapers/digitised/article/middayherald18960331-1.2.4).” 31 March 1896, 2.
 
@@ -972,7 +972,7 @@ _Straits Times._ “[Batavia](https://eresources.nlb.gov.sg/newspapers/digitised
 
 —. “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19180731-1.2.21).” 31 July 1918, 8.
 
-—. “[YMCA Swimming Carnival](YMCA%20Swimming%20Carnival).” 9 October 1920, 10.
+—. “[YMCA Swimming Carnival](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19201009-1.2.81.2).” 9 October 1920, 10.
 
 —. “[Singapore Girl Guides](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19210217-1.2.78).” 17 February 1921, 8.
 
@@ -988,7 +988,7 @@ _Straits Times._ “[Batavia](https://eresources.nlb.gov.sg/newspapers/digitised
 
 —. “[New Swiss Club](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19271219-1.2.89).” 19 December 1927, 11.
 
-—. “[Advertisements](16%20July%201928).” 16 July 1928, 11.
+—. “[Page 11 Advertisements Column 2](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19280716-1.2.90.2).” 16 July 1928, 11.
 
 —. “[New Golf Course](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19290923-1.2.72).” 23 September 1929, 13.
 

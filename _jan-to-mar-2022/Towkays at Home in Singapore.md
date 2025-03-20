@@ -4,10 +4,8 @@ permalink: /vol-17/issue-4/jan-to-mar-2022/towkays-houses/
 description: Mandalay Villa. House of Jade. House of Teo Hoo Lye. Yap Jo Lin
   gives us a tour of three opulent homes from the early 20th century.
 image: /images/vol-17-issue-4/towkay-house/Main-TKH.jpg
+variant: markdown
 ---
-
-
-
 #### Mandalay Villa. House of Jade. House of Teo Hoo Lye. **Yap Jo Lin** gives us a tour of three opulent homes from the early 20th century.
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/towkay-house/Main-TKH.jpg)
@@ -38,7 +36,7 @@ Lee’s son and successor Lee Choon Guan made Mandalay Villa his residence. The 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/towkay-house/4-leechoonguan.jpg)
 <div style="background-color: white;">Lee Choon Guan, son of Lee Cheng Yan, made Mandalay Villa his residence. He lived there with his second wife, Mdm Tan Teck Neo. <i>Image reproduced from Song Ong Siang, One Hundred Years’ History of the Chinese in Singapore (London: John Murray, 1923), 111. Collection of the National Library, Singapore. (Accession no.: B20048226B).</i></div>
 
-The two-storey Mandalay Villa was designed in 1902 by the architectural firm Lermit & Westerhout. The entrance hall opened into a huge living-cum-dining room which stretched over the entire width of the house, or more than 21 m. The ground floor also had an office, which was bolted shut with horizontal iron bars every night, as it had three iron safes in it.[^5]
+The two-storey Mandalay Villa was designed in 1902 by the architectural firm Lermit &amp; Westerhout. The entrance hall opened into a huge living-cum-dining room which stretched over the entire width of the house, or more than 21 m. The ground floor also had an office, which was bolted shut with horizontal iron bars every night, as it had three iron safes in it.[^5]
 
 The building plan from 1915 (see overleaf) depicts additional servants’ quarters that were to be added to the Mandalay Villa compound and gives us a sense of the more modest buildings behind the “big house”. 
 
@@ -75,7 +73,7 @@ According to Aw Swan, a son of Aw Boon Haw, the family had initially lived in an
 
 According to Aw Swan, his father “dismissed the man without another word and then muttered something about teaching a crook a lesson he would never forget”. Aw Boon Haw bought the plot of land, fenced it off and decided to build his new residence on the land, thereby depriving the _dhoby_ of space to dry his laundry.[^13]
 
-The House of Jade was designed in 1926 by the architectural firm Chung & Wong, whose stamp is seen on the bottom right of the building plan. All the main rooms of the house were located on the ground floor, although the house also had an attic, a basement as well as an impressive tower.
+The House of Jade was designed in 1926 by the architectural firm Chung &amp; Wong, whose stamp is seen on the bottom right of the building plan. All the main rooms of the house were located on the ground floor, although the house also had an attic, a basement as well as an impressive tower.
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/towkay-house/9-houseofjadeplan2.jpg)
 <div style="background-color: white;">Building plan of House of Jade, 1926. <i>Building Control Division Collection, courtesy of National Archives of Singapore (439/1926).</i></div>
@@ -98,7 +96,7 @@ House of Jade was demolished in 1990 and replaced by the Nassim Jade condominium
 
 
 #### **HOUSE OF TEO HOO LYE**
-Designed by Swan & Maclaren, the house of Chinese businessman Teo Hoo Lye was located at the junction of Dhoby Ghaut, Kirk Terrace and Bras Basah Road, where Cathay Building now stands. 
+Designed by Swan &amp; Maclaren, the house of Chinese businessman Teo Hoo Lye was located at the junction of Dhoby Ghaut, Kirk Terrace and Bras Basah Road, where Cathay Building now stands. 
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-4/towkay-house/12-houseofteohoolye.jpg)
 <div style="background-color: white;">The House of Teo Hoo Lye at 13 Dhoby Ghaut, c. 1917–21. The ground floor was occupied at one time by the Louis Molteni Confectionery. <i>Courtesy of National Archives of Singapore</i></div>
@@ -141,8 +139,8 @@ The House of Teo Hoo Lye was acquired by Mrs Loke Yew (née Lim Cheng Kim) in 19
 <div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba;text-align:center"> Like what you're reading? <a href="https://form.gov.sg/#!/616799db4d9b61001398f79b">Subscribe</a> to BiblioAsia's online newsletter for the latest stories.</div>
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/vol-17-issue-4/authors/Yap-Jo-Lin.png" style="width: 100px; height: 100px;" />
+<br>
+<img src="/images/vol-17-issue-4/authors/Yap-Jo-Lin.png" style="width: 100px; height: 100px;">
 	<b>Yap Jo Lin</b> is an Archivist with the National Archives of Singapore. Her portfolio includes taking care of the archives’ collection of building plans.
 </div>
 
@@ -152,7 +150,7 @@ The House of Teo Hoo Lye was acquired by Mrs Loke Yew (née Lim Cheng Kim) in 19
 [^1]: “[Aw, the Tiger, is Dead](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19540906-1.2.9),” _Straits Times_, 6 September 1954, 1. (From NewspaperSG)
 [^2]: “[Straits New Year Honours](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19180321-1.2.49),” _Singapore Free Press_, 21 March 1918, 7. (From NewspaperSG); Song Ong Siang, [_One Hundred Years’ History of the Chinese in Singapore [electronic resource]: The Annotated Edition_](https://www.overdrive.com/media/5400193/one-hundred-years-history-of-the-chinese-in-singapore) (Singapore: World Scientific Publishing Company, 2020) (From NLB OverDrive); “[About Life in Malaysia…](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19631215-1.2.57),” _Straits Times_, 15 December 1963, 19. (From NewspaperSG)
 [^3]: Comparing two maps: Survey Department, Singapore, [_Land Divisions at Meyer Road, Tanjong Katong Road, Amber Road and its Surroundings_](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/faec6718-115c-11e3-83d5-0050568939ad), 18 April 1979, Map (From National Archives of Singapore, Accession no. SP005936); Survey Department Singapore, [_Singapore Road Map. Singapore South East_](https://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/fb687512-115c-11e3-83d5-0050568939ad), 1984, Map (From National Archives of Singapore, Accession no. SP006435); Peter Lee and Jennifer Chen, [_Rumah Baba: Life in a Peranakan House_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9266554) (Singapore: National Heritage Board, 1998), 31. (From National Library, Singapore, Call no. RSING 305.89510595 LEE)
-[^4]: Alvin Chua, “[Lee Cheng Yan](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1542_2009-08-31.html),” in _Singapore Infopedia_, National Library Board Singapore. Article published 2009.
+[^4]: Alvin Chua, “[Lee Cheng Yan](https://www.nlb.gov.sg/main/article-detail?cmsuuid=c0622c4c-33b7-4ce4-a575-b24088692b38),” in _Singapore Infopedia_, National Library Board Singapore. Article published 2009.
 [^5]: Lee and Chen, [_Rumah Baba_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9266554), 27. 
 [^6]: Lee and Chen, [_Rumah Baba_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9266554), 27. 
 [^7]: Lee Kip Lin, [_The Singapore House 1819-1942_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5087274) (Singapore: Times Editions, 1988), 193. (From National Library, Singapore, Call no. RSING 728.095957 LEE); Lee and Chen, [_Rumah Baba_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=9266554), 31.
@@ -166,10 +164,10 @@ The House of Teo Hoo Lye was acquired by Mrs Loke Yew (née Lim Cheng Kim) in 19
 [^15]: “[Haw Par Jade Collection at Museum](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800101-1.2.82),” _Straits Times_, 1 January 1980, 11; Abigail Kor and Natalie Koh, “[A Look at Singapore in 1960](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes20100604-1.2.37.7.3),” _Business Times_, 4 June 2010, 30. (From NewspaperSG)
 [^16]: Suzanne Soh, “[Jade House May Be Luxury Condominium Site](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19900328-1.2.5),” _Business Times_, 28 March 1990], 2; “[‘Cheapest’ Apartment Costs $2.6 million](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19940623-1.2.20.1),” _New Paper_, 23 June 1994, 12. (From NewspaperSG)
 [^17]: “[Death of Mr Teo Hoo Lye](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19331116-1.2.87),” _Malaya Tribune_, 16 November 1933, 9; “[Mr Teo Hoo Lye Dies at 80](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19331117-1.2.87),” _Straits Times_, 17 November 1933, 13. (From NewspaperSG); Song, [_One Hundred Years’ History of the Chinese in Singapore_](https://www.overdrive.com/media/5400193/one-hundred-years-history-of-the-chinese-in-singapore), 503. 
-[^18]: Julian Davison, [_Swan & Maclaren: A Story of Singapore Architecture_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204523827) ([Novato]: ORO Editions; Singapore: National Archives of Singapore, 2020), 244. (From National Library, Singapore, Call no. RSING 720.95957 DAV)
-[^19]: “[Cathay Building – Singapore’s First Skyscraper Is Opened](https://eresources.nlb.gov.sg/history/events/1cc444fb-1c23-41cf-b6f8-355a37176b21),” in _HistorySG_. National Library Board Singapore. Article published April 2015. 
+[^18]: Julian Davison, [_Swan &amp; Maclaren: A Story of Singapore Architecture_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204523827) ([Novato]: ORO Editions; Singapore: National Archives of Singapore, 2020), 244. (From National Library, Singapore, Call no. RSING 720.95957 DAV)
+[^19]: “[Cathay Building – Singapore’s First Skyscraper Is Opened](https://www.nlb.gov.sg/main/article-detail?cmsuuid=1cc444fb-1c23-41cf-b6f8-355a37176b21),” in _HistorySG_. National Library Board Singapore. Article published April 2015. 
 [^20]: “[Teo Hoo Lye Institution](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/malayansatpost19291026-1.2.32),” _Malayan Saturday Post_, 26 October 1929, 20. (From NewspaperSG)
 [^21]: “[Page 4 Advertisements Column 3](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19351219-1.2.23.3),” _Malaya Tribune_, 19 December 1935, 4. (From NewspaperSG)
 [^22]: “[Headmaster Sued](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19260224-1.2.88),” _Straits Times_, 24 February 1926, 10; “[School in Peril?](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19281205-1.2.15)”_Malaya Tribune_, 5 December 1928, 7; “[Hard-working But Unfortunate](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19331104-1.2.86),” _Straits Times_, 4 November 1933, 13. (From NewspaperSG)
 [^23]: “[Mr Teo Hoo Lye Dies at 80](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19331117-1.2.87).”
-[^24]: “[As I was Saying](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19331129-1.2.52),” _Singapore Free Press_, 29 November 1933, 8. (From NewspaperSG); Davison, [_Swan & Maclaren_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204523827), 244.
+[^24]: “[As I was Saying](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressb19331129-1.2.52),” _Singapore Free Press_, 29 November 1933, 8. (From NewspaperSG); Davison, [_Swan &amp; Maclaren_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=204523827), 244.

@@ -162,7 +162,7 @@ Set up in 1979, the Oral History Centre records, documents, preserves and dissem
 
 [An old Singapore landmark to be replaced](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19591209-1.2.53). (1959, December 9). <i>The Straits Times</i>, p. 7. Retrieved from NewspaperSG.
 
-Ang, P.H. (1983, July 6). [Everything must go](http://eresources.nlb.gov.sg/newspaper). <i>Singapore Monitor</i>, p. 6. Retrieved from NewspaperSG.
+Ang, P.H. (1983, July 6). [Everything must go](https://eresources.nlb.gov.sg/newspapers/digitised/article/singmonitor19830706-1.2.6.12). <i>Singapore Monitor</i>, p. 6. Retrieved from NewspaperSG.
 
 Ang, A. (1990, February 17). [Heeren Building has to make way for road project](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900217-1.2.32.2.2). <i>The Straits Times</i>, p. 22. Retrieved from NewspaperSG.
 
@@ -226,7 +226,7 @@ National Heritage Board. (2015, December 7). <i>Former Cathay Building (now The 
 
 National Heritage Board. (2015, December 7). <i>Goodwood Park Hotel (Tower Block)</i>. Retrieved from Roots.sg website.
 
-Tan, J.H.S. (2016). *[Goodwood Park Hotel](https://eresources.nlb.gov.sg/infopedia/articles/SIP_767_2004-12-15.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
+Tan, J.H.S. (2016). *[Goodwood Park Hotel](https://www.nlb.gov.sg/main/article-detail?cmsuuid=e8b7f7f5-cc8a-433a-b096-b950c49a27ee)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
 [‘New look’ plan by URA for Orchard Road](D:\Veronica\BA_2014\BA_Oct-Dec 2014\New look plan by URA for Orchard Road). (1978, December 2). <i>The Straits Times</i>, p. 13. Retrieved from NewspaperSG.
 

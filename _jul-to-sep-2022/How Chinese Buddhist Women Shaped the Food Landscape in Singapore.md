@@ -71,7 +71,7 @@ Located on Kitchener Road, Fut Sai Kai was aimed at a more price conscious clien
 Ko was known to wake up early in the morning to buy the freshest ingredients from the market, and she also personally served customers at the restaurant. It operated from 11 am to 9 pm daily, and was packed on the 1st and 15th days of the lunar month as well as during major Chinese festivals.[^20]
 
 <div style="background-colour:#fff6ba; padding:5px;font-size:120%; background: #fff6ba"><center>
-<b>Listen to the podcast episode "<a href="[https://biblioasia.nlb.gov.sg/podcast/chinese-vegetarian-foodscape/](https://biblioasia.nlb.gov.sg/podcast/chinese-vegetarian-foodscape/)">The Chinese Vegetarian Foodscape of the 1950s–60s</a>"</b><br>
+<b>Listen to the podcast episode "<a href="https://biblioasia.nlb.gov.sg/podcast/chinese-vegetarian-foodscape/">The Chinese Vegetarian Foodscape of the 1950s–60s</a>"</b><br>
 <img src="/images/Podcast/ad_banner_biblioasia.jpg" alt="singapore history podcast" style="width:95%"></center></div>
 
 Like Loke Woh Yuen, the restaurant was also popular among non-Chinese and non-Buddhists. Tourist buses were occasionally spotted nearby as well. According to Ko, her restaurant was frequented by Christians on Fridays, and by Hindus looking for vegetarian food after temple worship.[^21]

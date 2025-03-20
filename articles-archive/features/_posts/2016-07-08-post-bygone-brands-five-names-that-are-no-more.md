@@ -4,6 +4,7 @@ date: 2016-07-08
 permalink: /vol-12/issue-2/jul-sep-2016/bygone-brands/
 image: /images/Vol-12-issue-2/bygone-brands/01-bygonebrands.jpg
 layout: post
+variant: markdown
 ---
 #### **Sue-Ann Chia** traces the birth and death of five companies, reliving the forgotten stories of some of Singapore’s biggest brand names.
 
@@ -11,15 +12,15 @@ layout: post
 
 Do you remember Chung Khiaw Bank, Setron TVs and Three Rifles shirts? They were household brand names during their heydays and were very much part of the Singapore landscape. At their peak, many residents would have owned these products, used their services or at the very least, heard of these brands. Popularity, however, does not guarantee longevity. Over the years, the following five brands disappeared due to a variety of reasons, some more dramatic than others.
 
-#### **Whiteaway, Laidlaw & Co. (1900–62)**
+#### **Whiteaway, Laidlaw &amp; Co. (1900–62)**
 
-It was called the “Selfridges of the East”, the poshest chain of department stores this side of the Suez.[^1] Shoppers looking for high-end European products during the early 20th century would make a beeline for this iconic store – Whiteaway, Laidlaw & Co.
+It was called the “Selfridges of the East”, the poshest chain of department stores this side of the Suez.[^1] Shoppers looking for high-end European products during the early 20th century would make a beeline for this iconic store – Whiteaway, Laidlaw &amp; Co.
 
 <div style="background-color: white;"><img style="width:250px" src="/images/Vol-12-issue-2/bygone-brands/02-bygonebrands.jpg">A Whiteaways advertisement in the 1937-38 issue of <i>The Singapore Cinema Review</i> introducing the “… exciting new perfume” called Mischief – all for the princely price of $1.75 or $2.75 a bottle. <i>© The Singapore Cinema Review.</i></div>
 
 Founded by two Scotsmen, E. Whiteaway and Robert Laidlaw, the first store was set up in Calcutta in 1882, where both men were based. Their business boomed, with branches sprouting in over 20 cities in India and the Straits Settlements (Singapore, Penang and Malacca), and in places such as Kuala Lumpur, Ipoh, Taiping, Seremban and Klang.[^2]
 
-The department store catered to Europeans living in these cities and affluent locals who could afford its pricey goods. Whiteaway, Laidlaw & Co. specialised in furnishings, haberdashery and tailoring as well as imported household items.
+The department store catered to Europeans living in these cities and affluent locals who could afford its pricey goods. Whiteaway, Laidlaw &amp; Co. specialised in furnishings, haberdashery and tailoring as well as imported household items.
 
 Whiteaways – as the chain was more commonly referred to – reached the shores of Singapore in November 1900. The store first opened its doors on D’Almeida Street at Raffles Place, purveying household goods, shoes and crockery. “In Singapore, as elsewhere, they have made a name for themselves as the leading drapers of the place… and their spacious showroom will best give an idea of the variety and immensity of the business,” said author Arnold Wright.[^3] The other two department stores in Singapore that offered similar luxury items and catered to the well-heeled were John Little’s and Robinson’s.[^4]
 
@@ -117,7 +118,7 @@ In the mid-1990s, Chong began to diversify his business. He branched into commer
 
 As far as we can ascertain, the Three Rifles brand does not exist anymore, and all its stores in Singapore have since closed down.
 
-#### **Thye Hong Biscuit & Confectionary Company (1929–90)**
+#### **Thye Hong Biscuit &amp; Confectionary Company (1929–90)**
 
 The signature bronze lion and flame-lit torch on top of Thye Hong Biscuit and Confectionary factory at the junction of Alexandra Road and Tiong Bahru Road was a defining landmark in the area at one time. Although the factory began operations in 1935, Thye Hong had been set up earlier in 1929 at 124 Neil Road.[^44] It was owned by Lee Gee Chong, son of leading banker Lee Choon Seng and the former chairman of the Oversea-Chinese Banking Corporation.
 
@@ -137,7 +138,7 @@ Singaporeans growing up in the 1960s and 70s will remember eating popular Thye H
 
 In 1971, one of Britain’s largest biscuit manufacturers, Huntley and Palmer, entered into an agreement with Thye Hong to produce part of its range of sweet and semi-sweet biscuits in Singapore and Malaysia – under the British firm’s subsidiary Associated Biscuits.[^51]
 
- <div style="background-color: white;"><img style="width:500px" src="/images/Vol-12-issue-2/bygone-brands/08-bygonebrands.jpg">Biscuit tin and paper bag of Thye Hong Biscuit & Confectionery Company from the 1950s. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
+ <div style="background-color: white;"><img style="width:500px" src="/images/Vol-12-issue-2/bygone-brands/08-bygonebrands.jpg">Biscuit tin and paper bag of Thye Hong Biscuit &amp; Confectionery Company from the 1950s. <i>Courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
  
  A decade later, in late 1981, Associated Biscuits (Huntley and Palmer) bought Kuan Enterprises, which owned Thye Hong Singapore and Malaysia, for $12 million. With this, the familiar torch and lion trademark on the roof of the factory disappeared when the factory closed down. The site was redeveloped into an office building – Thye Hong Centre – by Thye Hong Properties and Thye Hong Development, set up in 1981 by Lee Boon Leong and his mother, Madam Tay Geok Yap. New chairman and chief executive of Kuan Enterprises Julian Scott said the company would expand the range of products under Thye Hong. Its trademark would be retained and the old emblem would be part of the new factory complex in the western part of Singapore.[^52]
 
@@ -157,13 +158,13 @@ In 1990, Pillai struck a deal with France’s biggest food company BSN Groupe to
 
 [^1]:Das, S. (2008, July 1). A brief history of shopping. *The Telegraph*. Retrieved from The Telegraph India website.
 
-[^2]:Vedamani, G. G. (2003). *Retail management*. Mumbai: Jaico Publishing House. Retrieved from Google Books; National Library Board. (2006). *[Whiteaway Laidlaw](http://eresources.nlb.gov.sg/infopedia/articles/SIP11222006-06-15.html)* written by Chia, Joshua Yeong Jia. Retrieved from Singapore Infopedia.
+[^2]:Vedamani, G. G. (2003). *Retail management*. Mumbai: Jaico Publishing House. Retrieved from Google Books; National Library Board. (2006). *[Whiteaway Laidlaw](https://www.nlb.gov.sg/main/article-detail?cmsuuid=a3edc99d-1cfc-46d6-9198-cfc4bd51edda)* written by Chia, Joshua Yeong Jia. Retrieved from Singapore Infopedia.
 
-[^3]:Wright, A., & Cartwright, H. A. (Eds.). (1908). *[Twentieth century impressions of British Malaya: Its history, people, commerce, industries, and resources](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4125591)* (p. 689) London: Lloyd’s Greater Britain Pub. Call no.: RCLOS 959.51033 TWE
+[^3]:Wright, A., &amp; Cartwright, H. A. (Eds.). (1908). *[Twentieth century impressions of British Malaya: Its history, people, commerce, industries, and resources](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4125591)* (p. 689) London: Lloyd’s Greater Britain Pub. Call no.: RCLOS 959.51033 TWE
 
-[^4]:[National Library Board](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1122_2006-06-15.html), 2006.
+[^4]:[National Library Board](https://www.nlb.gov.sg/main/article-detail?cmsuuid=a3edc99d-1cfc-46d6-9198-cfc4bd51edda), 2006.
 
-[^5]:[National Library Board](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1122_2006-06-15.html), 2006; Singapore. Urban Redevelopment Authority. (n.d.). *Capitol Theatre, Capitol Buildng and Stamford House*. Retreived from Urban Redevelopment Authority website.
+[^5]:[National Library Board](https://www.nlb.gov.sg/main/article-detail?cmsuuid=a3edc99d-1cfc-46d6-9198-cfc4bd51edda), 2006; Singapore. Urban Redevelopment Authority. (n.d.). *Capitol Theatre, Capitol Buildng and Stamford House*. Retreived from Urban Redevelopment Authority website.
 
 [^6]:Maybank. (1998, November 27). *Background information on site of Maybank headquarters in Singapore*. Retrieved from Maybank website.
 
@@ -231,7 +232,7 @@ In 1990, Pillai struck a deal with France’s biggest food company BSN Groupe to
 
 [^38]:*[The Business Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/biztimes19810203-1.2.22.aspx)* , 3 Feb 1981, p. 6.
 
-[^39]:National Library Board. (2016). *[Three Rifles Holdings is established](http://eresources.nlb.gov.sg/history/events/22b5e23e-1daa-42ed-8582-cc3d21b2a7f9)*. Retrieved from HistorySG.
+[^39]:National Library Board. (2016). *[Three Rifles Holdings is established](https://www.nlb.gov.sg/main/article-detail?cmsuuid=22b5e23e-1daa-42ed-8582-cc3d21b2a7f9)*. Retrieved from HistorySG.
 
 [^40]:Tan, C. (1997, September 29). *[Three Rifles sets its sights on property development](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19970929-1.2.69.1.aspx)*. *The Straits Times*, p. 48. Retrieved from NewspaperSG.
 

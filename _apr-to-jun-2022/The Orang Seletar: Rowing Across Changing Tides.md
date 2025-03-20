@@ -149,7 +149,7 @@ The author is grateful that what had started out as an independent passion proje
 
 [^7]: Mariam Ali, “Singapore’s Orang Seletar, Orang Kallang, and Orang Selat: The Last Settlements,” in *[Tribal Communities in the Malay World: Historical, Cultural, and Social Perspectives](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11113017)*, ed. Geoffrey Benjamin and Cynthia Chou (Singapore: Institute of Southeast Asian Studies, 2002), 273–92. (From National Library, Singapore, Call no. RSING 305.8959 TRI)
 
-[^8]: “[1819 Singapore Treaty](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-05-16_133354.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published 15 May 2014
+[^8]: “[1819 Singapore Treaty](https://www.nlb.gov.sg/main/article-detail?cmsuuid=92bb56f0-e821-40d1-bd8c-cf8fa7e7f172),” in *Singapore Infopedia*. National Library Board Singapore. Article published 15 May 2014
 
 [^9]: Clifford Sather, *[The Orang Laut](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12247857)* (n.p.: Academy of Social Sciences in cooperation with Universiti Sains Malaysia, Royal Netherlands Government, 1999), 12. (From National Library, Singapore, Call no. RSEA 306.08095951 SAT) 
 

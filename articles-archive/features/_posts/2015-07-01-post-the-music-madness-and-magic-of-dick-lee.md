@@ -200,15 +200,15 @@ Low, J. (1975, March 16). [No major change in Status Quo music](http://eresource
 
 Tan, J.H.S. (2011). *[Lee Kip Lin](https://www.nlb.gov.sg/main/article-detail?cmsuuid=886b9972-849b-4dcd-9a18-4334419b3895)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
-National Library Board. (2014). *[Campaign against yellow culture is launched](https://eresources.nlb.gov.sg/history/events/47129576-377a-44fe-a05f-fefddf0cb765)*. Retrieved from HistorySG website.
+National Library Board. (2014). *[Campaign against yellow culture is launched](https://www.nlb.gov.sg/main/article-detail?cmsuuid=47129576-377a-44fe-a05f-fefddf0cb765)*. Retrieved from HistorySG website.
 
-Ho, S. (2015, March 11). *[National Day songs](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-03-11_165927.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
+Ho, S. (2015, March 11). *[National Day songs](https://www.nlb.gov.sg/main/article-detail?cmsuuid=07d7e2c6-e52c-4be5-9d0b-eb9080448908)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
 Oon, V. (1974, December 26). [Dick tells his life story on disc](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19741226-1.2.24.1). <i>New Nation</i>, p. 14. Retrieved from NewspaperSG.
 
 Ong, S.C. (1990, March 25). [Japanese bowled over by 'Mad Chinaman' Dick Lee](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900325-1.2.26.19). <i>The Straits Times</i>, p. 21. Retrieved from NewspaperSG. 
 
-Perera, L.M., &amp; Perera, A. (2010). *[Dick Lee (李迪文): Creating endless opportunities](https://eresources.nlb.gov.sg/music/Media/PDFs/Article/6d84beaf-fb53-48a0-9693-b3c183893021.pdf)*. Retrieved from MusicSG.
+Perera, L.M., &amp; Perera, A. (2010). *[Dick Lee (李迪文): Creating endless opportunities](https://www.nlb.gov.sg/main/api/MusicDetailPage/ViewPdf?resourceUuid=cd335f8e-a681-4d3d-9455-5b0e14e18285)*. Retrieved from MusicSG.
 
 Singapore Repertory Theatre (n.d.). <i>About forbidden city</i>. Retrieved from Singapore Repertory Theatre website.
 

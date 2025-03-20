@@ -5,6 +5,7 @@ permalink: /vol-11/issue-4/jan-mar-2016/journal-embassy-crawfurd/
 image: /images/vol-11-issue-4/notes-on-little-island/01_littleisland.jpg
 layout: post
 description: ""
+variant: markdown
 ---
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
 <b>Title:</b> <i><a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=14368093">Journal of an Embassy from the Governor-General of India to the Courts of Siam and Cochin China: Exhibiting a View of the Actual State of those Kingdoms</a></i>
@@ -48,14 +49,14 @@ The National Library holds two copies of the first edition of *Journal of an Emb
 
 #### **NOTES**
 
-[^1]:Wyatt, D. K. (1967). Introduction. In *[Journal of an embassy to the courts of Siam and Cochin China](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=90035)*. Kuala Lumpur, London, New York, Oxford U.P. (Call no.: RCLOS 959.3 CRA); Chew, E.C.T. (2002, October 12). *Dr John Crawfurd (1783–1868): The Scotsman who made Singapore British*. Retrieved from Contemporary Postcolonial & Postimperial Literature in English website.
+[^1]:Wyatt, D. K. (1967). Introduction. In *[Journal of an embassy to the courts of Siam and Cochin China](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=90035)*. Kuala Lumpur, London, New York, Oxford U.P. (Call no.: RCLOS 959.3 CRA); Chew, E.C.T. (2002, October 12). *Dr John Crawfurd (1783–1868): The Scotsman who made Singapore British*. Retrieved from Contemporary Postcolonial &amp; Postimperial Literature in English website.
 
 [^2]:Wyatt, 1967, unpaged; Chew, 12 Oct 2002.
 
 [^3]:Wyatt, 1967, unpaged; Chew, 12 Oct 2002.
 
-[^4]:Wong, H.S., & Waterson, R. (2010). *[Singapore through 19th century prints & paintings](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13313091)* (p. 89). Singapore: National Museum of Singapore: Editions Didier Millet. (Call no.: RSING 769.499595703 WON); Teo, M., Chong, Y-C & Oh, J. (1987). *[Nineteenth century prints of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4413294)* (pp. 17–18, 75–76). Singapore: National Museum. (Call no.: RSING 769.4995957 TEO)
+[^4]:Wong, H.S., &amp; Waterson, R. (2010). *[Singapore through 19th century prints &amp; paintings](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13313091)* (p. 89). Singapore: National Museum of Singapore: Editions Didier Millet. (Call no.: RSING 769.499595703 WON); Teo, M., Chong, Y-C &amp; Oh, J. (1987). *[Nineteenth century prints of Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4413294)* (pp. 17–18, 75–76). Singapore: National Museum. (Call no.: RSING 769.4995957 TEO)
 
-[^5]:[Teo, Chong & Oh](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4413294), 1987, p. 56; National Library Board. (2014). *[Raffles Town Plan/Jackson Plan is initiated](http://eresources.nlb.gov.sg/history/events/d489ee4f-a03b-42df-a88d-c924c24ac720)*. Retrieved from HistorySG.
+[^5]:[Teo, Chong &amp; Oh](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4413294), 1987, p. 56; National Library Board. (2014). *[Raffles Town Plan/Jackson Plan is initiated](https://www.nlb.gov.sg/main/article-detail?cmsuuid=d489ee4f-a03b-42df-a88d-c924c24ac720)*. Retrieved from HistorySG.
 
-[^6]:Finlayson, G. (1988). *[The mission to Siam and Hue 1821–1822](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4632997)*. Singapore: Oxford University Press in association with The Siam Society, Bangkok. (Call no.: RSING 959.303 FIN); Crawfurd, J., & Storm, W. (1915). *[The Crawfurd papers: A collection of official records relating to the mission of John Crawfurd sent to Siam by the Government of India in the year 1821](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4271200)*. Bangkok: Printed by order of the Vajiranana National Library. (Call no.: RCLOS 959.3 CRA); Cheng, S.H. (1972, September). Reviewed work: The Crawfurd Papers: A collection of official records relating to the mission of Dr. John Crawfurd sent to Siam by the Government of India in the year 1821. *Journal of Southeast Asian Studies, 3* (2), 324–325. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
+[^6]:Finlayson, G. (1988). *[The mission to Siam and Hue 1821–1822](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4632997)*. Singapore: Oxford University Press in association with The Siam Society, Bangkok. (Call no.: RSING 959.303 FIN); Crawfurd, J., &amp; Storm, W. (1915). *[The Crawfurd papers: A collection of official records relating to the mission of John Crawfurd sent to Siam by the Government of India in the year 1821](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4271200)*. Bangkok: Printed by order of the Vajiranana National Library. (Call no.: RCLOS 959.3 CRA); Cheng, S.H. (1972, September). Reviewed work: The Crawfurd Papers: A collection of official records relating to the mission of Dr. John Crawfurd sent to Siam by the Government of India in the year 1821. *Journal of Southeast Asian Studies, 3* (2), 324–325. Retrieved from JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.

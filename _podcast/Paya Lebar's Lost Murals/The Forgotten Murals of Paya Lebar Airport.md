@@ -26,7 +26,7 @@ Dahlia Shamsuddin, “[The Forgotten Murals of Paya Lebar Airport](/vol-17/issue
 
 Rebecca Tan, “[How Changi Airport Came to Be](/vol-17/issue-3/oct-dec-2021/changi-airport),” <i>BiblioAsia</i> 17, no. 3 (2021). 
 
-“[Paya Lebar Airport](https://eresources.nlb.gov.sg/infopedia/articles/SIP_130_2005-01-22.html),” Singapore Infopedia, published 2014, National Library Board. 
+“[Paya Lebar Airport](https://www.nlb.gov.sg/main/article-detail?cmsuuid=b7355640-2588-4dc9-8414-9d967cb4e031),” Singapore Infopedia, published 2014, National Library Board. 
 
 “[Design for Airport Murals: 2 Win Prizes](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630324-1.2.73),” <i>Straits Times</i>, 24 March 1963, 8. (From NewspaperSG)
 

@@ -5,10 +5,11 @@ description: Rose Chan was one of Singapore’s most famous cabaret dancers. Wha
   happened to her?
 image: "/images/Videos: BA Stories/into the night.jpg"
 third_nav_title: Stories from BiblioAsia
+variant: markdown
 ---
 #### Cabaret dancers like Rose Chan were famous. But what were their lives really like? 
 
-<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src="https://www.youtube.com/embed/8xVBCOvj0sE" frameborder='0' allowfullscreen></iframe></div>
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/8xVBCOvj0sE" frameborder="0" allowfullscreen=""></iframe></div>
 
 Rose Chan was the best known of the women who worked in the cabarets in Singapore in the 1940s and 50s. In this documentary, her ex-boyfriend reveals what she was like as a person, while the daughter of a former cabaret girl talks about growing up in that milieu. 
 
@@ -24,13 +25,13 @@ This documentary is based on the essay “[Beneath the Glitz and Glamour: The Un
 <a style="text-decoration: none;" href="/vol-15/issue-4/jan-mar-2020/women-w-commodities/">When Women Were Commodities</a>
 <br>Brothels in colonial Singapore, with its large male migrant population, did a roaring trade. Adeline Foo examines the lives of the unfortunate girls and women who were sold into prostitution.
 
-<a style="text-decoration: none;" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1044_2006-06-01.html">Gay World (Happy World)</a>
+<a style="text-decoration: none;" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=93d1427e-9cad-4617-a2d3-7b29487f705b">Gay World (Happy World)</a>
 <br>Gay World was one of three amusement parks built in Singapore before World War II and around which Singapore’s nightlife revolved from the 1920s to the 60s. It featured a variety of entertainment including cabaret, operas, movies, gaming, sport matches, stunts and shopping. 
 
-<a style="text-decoration: none;" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_1046_2006-06-09.html">Great World Amusement Park</a>
+<a style="text-decoration: none;" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=6ee2d6c5-e088-4b79-9ce9-6da97c95b77d">Great World Amusement Park</a>
 <br>Great World Amusement Park was one of the three “Worlds” that lighted up Singapore’s nightlife in the 1950s and 60s. Although it closed in 1964, cinemas, cabaret and restaurants continued operations at the park until 1978.
 
-<a style="text-decoration: none;" href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_990_2006-06-09.html">New World Park</a>
+<a style="text-decoration: none;" href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=161ef808-c4e0-41db-9d4d-630a6b7f7a6e">New World Park</a>
 <br>Opened in 1923, New World Park, an amusement park, was a popular nighttime haunt in Singapore from the 1920s to the 60s. In its heyday, New World had open-air cinemas, cabarets, opera halls, shops and restaurants.
 
 

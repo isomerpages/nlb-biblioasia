@@ -5,6 +5,7 @@ permalink: /vol-11/issue-3/oct-dec-2015/blue/
 breadcrumb: Men in Blue
 third_nav_title: "Men in Blue: A History of the Singapore Police Force"
 image: \images\Vol-11-issue-3\blue\SikhsfromPunjab.jpg
+variant: markdown
 ---
 <style>
 table { 
@@ -204,11 +205,11 @@ Morrah, P. (1963). The History of the Malayan Police. *Journal of the Malayan Br
 
 National Heritage Board. (2015, December 7). *Former Hill Street Police Station*. Retrieved from National Heritage Board website.
 
-National Library Board. (2014). *[Chinese Protectorate is established](http://eresources.nlb.gov.sg/history/events/523f1488-c3fb-49c7-86bb-1e6281e05263)*. Retrieved from HistorySG.
+National Library Board. (2014). *[Chinese Protectorate is established](https://www.nlb.gov.sg/main/article-detail?cmsuuid=523f1488-c3fb-49c7-86bb-1e6281e05263)*. Retrieved from National Library Online.
 
-National Library Board. (2014, May 12). *[First Crime Prevention Week](http://eresources.nlb.gov.sg/infopedia/articles/SIP_2014-05-12_134845.html)*  written by Lim, Tin Seng. Retrieved from Singapore Infopedia website. 
+National Library Board. (2014, May 12). *[First Crime Prevention Week](https://www.nlb.gov.sg/main/article-detail?cmsuuid=3872a091-254d-46f6-8898-d599400aee4e)*  written by Lim, Tin Seng. Retrieved from Singapore Infopedia website. 
 
-National Library Board. (2014). *[Indonesia announces Konfrontasi (Confrontation)](http://eresources.nlb.gov.sg/history/events/126b6b07-f796-4b4c-b658-938001e3213e)*. Retrieved from HistorySG.
+National Library Board. (2014). *[Indonesia announces Konfrontasi (Confrontation)](https://www.nlb.gov.sg/main/article-detail?cmsuuid=126b6b07-f796-4b4c-b658-938001e3213e)*. Retrieved from National Library Online.
 
 [New cord will replace police lanyard](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19740111-1.2.17.8). (1974, January 11). *New Nation*, p. 3. Retrieved from NewspaperSG.
 
@@ -259,4 +260,4 @@ Zakaria Zainal. (2012). *[Our Gurkhas: Singapore through their eyes](http://eser
 [^2]: A *temenggong* is the local Malay chieftain responsible for maintaining law and order. 
 [^3]: A *jemadar* is a native junior officer with a rank corresponding to that of a lieutenant. Originating from the Urdu language, it was used to denote a rank in the British Indian Army until 1965.
 [^4]: Chicago in the 1920s had about 1,000 gangs and the highest violent crime rates among cities in the United States. See *A brief outline of Chicago's gang history*. Retrieved from University of Illinois website.
-[^5]: Konfrontasi was Indonesia’s hostile and militant response to the formation of the British-backed Federation of Malaysia. See National Library Board. (2014). *[Indonesia announces Konfrontasi (Confrontation)](https://eresources.nlb.gov.sg/history/events/126b6b07-f796-4b4c-b658-938001e3213e)*. Retrieved from HistorySG.
+[^5]: Konfrontasi was Indonesia’s hostile and militant response to the formation of the British-backed Federation of Malaysia. See National Library Board. (2014). *[Indonesia announces Konfrontasi (Confrontation)](https://www.nlb.gov.sg/main/article-detail?cmsuuid=126b6b07-f796-4b4c-b658-938001e3213e)*. Retrieved from National Library Online.

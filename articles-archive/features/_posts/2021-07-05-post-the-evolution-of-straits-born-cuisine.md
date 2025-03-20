@@ -1,9 +1,10 @@
 ---
-title: "The Evolution of Straits-born Cuisine "
+title: The Evolution of Straits-born Cuisine
 date: 2021-07-05
 permalink: /vol-17/issue-2/jul-sep-2021/straitsborncuisine/
 image: /images/vol-17-issue-2/straitscuisine/StraitsbornCuisine_Main.jpg
 layout: post
+variant: markdown
 ---
 #### **Lee Geok Boi** looks at what makes Peranakan cuisine unique and delves into old cookbooks to see how Straits-born cuisine came to be. 
 
@@ -131,12 +132,12 @@ These two trends – preservation and alteration – are hallmarks of Straits cu
 One of the traits of a great cuisine is its ability to retain its traditional roots while taking on new and interesting flavours with the introduction of non-traditional ingredients. Straits cuisine definitely falls into that category.
 
 <span style="background-colour: #fff6ba; padding: 20px; margin: 20px; background:#fff6ba; display:block; font-size:1rem; line-height:1.5rem;">
-<img src="/images/vol-17-issue-2/straitscuisine/straitsbornkitchen2.png" style="width: 500px; height: 250px;"/>Lee Geok Boi’s newly published cookbook, <i>In a Straits-born Kitchen</i>, by Marshall Cavendish Cuisine features the recipes that she has inherited, collected, tweaked or experimented with over more than half a century. The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=201510067">(Call nos.: RSING 641.5959 LEE and SING 641.5959 LEE)</a>. It also retails at major bookshops in Singapore.</span>
+<img src="/images/vol-17-issue-2/straitscuisine/straitsbornkitchen2.png" style="width: 500px; height: 250px;">Lee Geok Boi’s newly published cookbook, <i>In a Straits-born Kitchen</i>, by Marshall Cavendish Cuisine features the recipes that she has inherited, collected, tweaked or experimented with over more than half a century. The book is available for reference at the Lee Kong Chian Reference Library and for loan at selected public libraries <a href="https://eservice.nlb.gov.sg/item_holding.aspx?bid=201510067">(Call nos.: RSING 641.5959 LEE and SING 641.5959 LEE)</a>. It also retails at major bookshops in Singapore.</span>
 
 	
 <div style="background-color: white;">
-<br/>
-<img src="/images/vol-17-issue-2/authors/Lee%20Geok%20Boi.png" style="width: 100px; height: 100px;" />
+<br>
+<img src="/images/vol-17-issue-2/authors/Lee%20Geok%20Boi.png" style="width: 100px; height: 100px;">
 <b>Lee Geok Boi</b> has a life-long interest in all aspects of food but especially in cooking it. She is the 
 author of several books and a prolific writer of cookbooks focusing on Asian cuisines and, in particular, Southeast Asian recipes. 
 </div>
@@ -144,13 +145,13 @@ author of several books and a prolific writer of cookbooks focusing on Asian cui
 <a href="/vol-17/issue-2/jul-sep-2021/"><center>Back to Issue</center></a>
 
 #### **NOTES**
-[^1]:  Eurasians are persons with mixed European and Asian lineage. Most Eurasians in Singapore can trace the European part of their ancestry to the Portuguese, Dutch or British, while others are of Danish, French, German, Italian or Spanish descent. See Ho, S. (2013, July 25). [*Eurasian community.*](https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-08-06_115106.html) Retrieved from Singapore Infopedia website.
+[^1]:  Eurasians are persons with mixed European and Asian lineage. Most Eurasians in Singapore can trace the European part of their ancestry to the Portuguese, Dutch or British, while others are of Danish, French, German, Italian or Spanish descent. See Ho, S. (2013, July 25). [*Eurasian community.*](https://www.nlb.gov.sg/main/article-detail?cmsuuid=45dd95f2-31e0-4f7c-b264-dabc79907fbe) Retrieved from Singapore Infopedia website.
 
 [^2]: The Chetti Melaka, or Peranakan Indians, are the descendants of Tamil traders who settled in Melaka during the reign of the Melaka Sultanate and married local women of Malay and Chinese descent. National Heritage Board. (2020, November 13). *Chetti Melaka of the Straits – Rediscovering Peranakan Indian communities.* Retrieved from Roots website. 
 
 [^3]: Sengupta, J. (2017, August 30). *India’s cultural and civilisational influence on Southeast Asia*. Retrieved from Observer Research Foundation website. 
 
-[^4]: Kwa, C.G., & Kua, B.L. (Eds.). (2019). *[A general history of the Chinese in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203868804)* (p. 9). Singapore: Singapore Federation of Chinese Clan Associations and World Scientific. (Call no.: RSING 305.895105957 GEN)
+[^4]: Kwa, C.G., &amp; Kua, B.L. (Eds.). (2019). *[A general history of the Chinese in Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203868804)* (p. 9). Singapore: Singapore Federation of Chinese Clan Associations and World Scientific. (Call no.: RSING 305.895105957 GEN)
 
 [^5]: North Carolina Soybean Production Association. (2019). *History of soybeans*. Retrieved from NC Soybean Producers Association website.
 
@@ -164,9 +165,9 @@ author of several books and a prolific writer of cookbooks focusing on Asian cui
 
 [^10]: Wee, S. (2012). [*Growing up in a nonya kitchen: Singapore recipes from my mother.*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=14293039) Singapore: Marshall Cavendish. (Call no.: 641.595957 WEE); Tan, C. (1983). [*Penang nyonya cooking: Foods of my childhood.*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4080160) Petaling Jaya: Eastern Universities Press. (Call no.: RSING q641.59595 TAN). There is no cookbook on Chetti food that I am aware of although there are some Chetti-like recipes in Sanmugam, D. (1997). [*Banana leaf temptations.* ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=8815349)Singapore: VJ Times. (Call no.: RSING 641.5948 SAN) and Gomes, M. (2001). *[The Eurasian cookbook.](https://eservice.nlb.gov.sg/item_holding.aspx?bid=10902933)* Singapore: Horizon Books. (Call no.: RSING q641.5 GOM) 
 
-[^11]: Looking at old locally published cookbooks means looking at Malayan cookbooks. The concept of a Singapore separate from Malaya did not come into being until 1965 when Singapore became an independent republic. The National Library does not have this 1931 edition, but it has the 1937, 1939, 1948, 1951 and 1962 editions. See Holttum, R.E., Mrs, & Hinch, T.W., Mrs. (Eds.). (1937). [*The Y.W.C.A. international cookery book of Malaya.* ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12767940)[Kuala Lumpur]: Malayan Y.W.C.A. (Call no.: RRARE 641.59595 YWA; Microfilm no.: NL29320); Holttum, R.E., Mrs, & Waite, D.S., Mrs. (Eds.). (1939). [*The Y.W.C.A. international cookery book of Malaya.*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202742186) [s.l.]: Malayan Committee of the Young Women’s Christian Association. (Call no.: RRARE 641.59595 YWC; Accession no.: B29232809B); Llewellyn, A.E., Mrs. (Ed.). (1948). [*The Y.W.C.A. of Malaya international cookery book.*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12773589) [Kuala Lumpur]: Y.W.C.A. of Malaya. (Call no.: RCLOS 641.59595 YWC); Llewellyn, A.E., Mrs. (Ed.). (1951). [*The Y.W.C.A. of Malaya & Singapore cookery book: A book of culinary information and recipes compiled in Malaya.* ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12221740)[s.l.]: Y.W.C.A. of Malaya and Singapore. (Call no.: RCLOS 641.595951 YWC); Llewellyn, A.E., Mrs. (Ed.). (1962). [*The Y.W.C.A. of Malaya cookery book; a book of culinary information and recipes compiled in Malaya.* ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=231681)[Kuala Lumpur]: Persatuan Wanita Keristian di Malaya, Y.W.C.A. of Malaya. (Call no.: RCLOS 641.59595 YOU)
+[^11]: Looking at old locally published cookbooks means looking at Malayan cookbooks. The concept of a Singapore separate from Malaya did not come into being until 1965 when Singapore became an independent republic. The National Library does not have this 1931 edition, but it has the 1937, 1939, 1948, 1951 and 1962 editions. See Holttum, R.E., Mrs, &amp; Hinch, T.W., Mrs. (Eds.). (1937). [*The Y.W.C.A. international cookery book of Malaya.* ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12767940)[Kuala Lumpur]: Malayan Y.W.C.A. (Call no.: RRARE 641.59595 YWA; Microfilm no.: NL29320); Holttum, R.E., Mrs, &amp; Waite, D.S., Mrs. (Eds.). (1939). [*The Y.W.C.A. international cookery book of Malaya.*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202742186) [s.l.]: Malayan Committee of the Young Women’s Christian Association. (Call no.: RRARE 641.59595 YWC; Accession no.: B29232809B); Llewellyn, A.E., Mrs. (Ed.). (1948). [*The Y.W.C.A. of Malaya international cookery book.*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12773589) [Kuala Lumpur]: Y.W.C.A. of Malaya. (Call no.: RCLOS 641.59595 YWC); Llewellyn, A.E., Mrs. (Ed.). (1951). [*The Y.W.C.A. of Malaya &amp; Singapore cookery book: A book of culinary information and recipes compiled in Malaya.* ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12221740)[s.l.]: Y.W.C.A. of Malaya and Singapore. (Call no.: RCLOS 641.595951 YWC); Llewellyn, A.E., Mrs. (Ed.). (1962). [*The Y.W.C.A. of Malaya cookery book; a book of culinary information and recipes compiled in Malaya.* ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=231681)[Kuala Lumpur]: Persatuan Wanita Keristian di Malaya, Y.W.C.A. of Malaya. (Call no.: RCLOS 641.59595 YOU)
 
-[^12]: Yule, H., & Burnell, A.C. (1886). [*Hobson-Jobson: Being a glossary of colloquial Anglo-Indian words and phrases, and of kindred terms; etymological, historical, geographical and discursive*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202585839) (p. 5). London: John Murray. (Call no.: RRARE 422.03 YUL-[JSB]; Accession no.: B29265644E)
+[^12]: Yule, H., &amp; Burnell, A.C. (1886). [*Hobson-Jobson: Being a glossary of colloquial Anglo-Indian words and phrases, and of kindred terms; etymological, historical, geographical and discursive*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202585839) (p. 5). London: John Murray. (Call no.: RRARE 422.03 YUL-[JSB]; Accession no.: B29265644E)
 
 [^13]: Handy, E. (1952). [*My favourite recipes.*](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202764155) Singapore: Printed at the Malaya Publishing House Ltd. (Call no.: RCLOS 641.595 HAN-[JK])
 

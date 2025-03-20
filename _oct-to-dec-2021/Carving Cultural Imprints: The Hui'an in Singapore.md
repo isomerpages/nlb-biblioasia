@@ -5,10 +5,8 @@ image: /images/vol-17-issue-3/hui-an/Facing%20Page.jpg
 description: A group of contractors from Hui’an county in China were responsible
   for building some of Singapore’s iconic landmarks. Athanasios Tsakonas has the
   story.
+variant: markdown
 ---
-
-
-
 #### A group of contractors from Hui’an county in China were responsible for building some of Singapore’s iconic landmarks. **Athanasios Tsakonas** has the story.
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/hui-an/Facing%20Page.jpg)
@@ -85,7 +83,7 @@ Alighting from his car on 31 March 1922 to the backdrop of curious onlookers at 
 <div style="background-color: white;">Unveiling of the Cenotaph on 31 March 1922, officiated by the Prince of Wales. It was erected to honour 124 men from Singapore who had died in action in Europe during World War I. The contractor who built it is Soh Mah Eng. <i>Courtesy of National Archives of Singapore.</i></div>
 
 
-Following a short dedication by the Bishop of Singapore and the sounding of the last post and reveille, the prince, accompanied by Governor of the Straits Settlements Laurence Guillemard, greeted the invited dignitaries, which included the monument’s lauded architect Denis Santry of architectural firm Swan & Maclaren. Among that gathered company of Singapore’s building fraternity was Soh Mah Eng (苏马英), the contractor for the monument. The prince cordially shook his hand and even offered a few words of gratitude.[^16] It was fitting recognition for this Hui’an native who had migrated to Singapore some 20 years earlier and subsequently through his company, Chin Hup Heng & Co., became a pioneer in the island’s infrastructure development.
+Following a short dedication by the Bishop of Singapore and the sounding of the last post and reveille, the prince, accompanied by Governor of the Straits Settlements Laurence Guillemard, greeted the invited dignitaries, which included the monument’s lauded architect Denis Santry of architectural firm Swan &amp; Maclaren. Among that gathered company of Singapore’s building fraternity was Soh Mah Eng (苏马英), the contractor for the monument. The prince cordially shook his hand and even offered a few words of gratitude.[^16] It was fitting recognition for this Hui’an native who had migrated to Singapore some 20 years earlier and subsequently through his company, Chin Hup Heng &amp; Co., became a pioneer in the island’s infrastructure development.
 
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/hui-an/sohmaheng.jpg)
 <div style="background-color: white;">Soh Mah Eng was responsible for building the Cenotaph in 1922. <i>Courtesy of the Singapore Hui An Association.</i></div>
@@ -102,7 +100,7 @@ development.
 
 Among the most prominent in this group is Chia Eng Say (谢荣西). Born in 1881 in Hui’an, Chia first moved with his father to Sumatra at the age of 11 and then to Singapore at the turn of the 20th century. He initially established himself in the import-export business before moving into construction and, in particular, the stone industry. 
 
-Chia owned several quarries in Bukit Timah, Mandai and Pulau Ubin. Granite extracted from Chia Eng Say Granite was used for the foundation of the Supreme Court building, the Naval Base at Sembawang as well as the Causeway, where he was a major subcontractor to Messrs Topham, Jones & Railton of London, which had been awarded the construction contract.[^19]
+Chia owned several quarries in Bukit Timah, Mandai and Pulau Ubin. Granite extracted from Chia Eng Say Granite was used for the foundation of the Supreme Court building, the Naval Base at Sembawang as well as the Causeway, where he was a major subcontractor to Messrs Topham, Jones &amp; Railton of London, which had been awarded the construction contract.[^19]
 
  
 ![Alt text for image on Isomer site](/images/vol-17-issue-3/hui-an/ChiaEng1.jpg)
@@ -132,7 +130,7 @@ Eventually branching off, he became a contractor for the Public Works Department
 <div style="background-color: white;">Chia Lay Phor being congratulated by Colonial Secretary Patrick A.B McKerron upon the completion of the Kallang Airport runways extension, 1949. <i>Courtesy of Joseph Chia.</i></div>
 
 
-Between 1937 and 1940, while still working for his uncle, Chia Lay Phor oversaw his largest and most extensive construction project: building the 356-bed British Military Hospital (now Alexandra Hospital). Chia Eng Kee Chan had been appointed as the main subcontractor for Dobb & Co. and the War Department. The hospital was equipped with medical, surgical and officer wards as well as ancillary buildings comprising a barracks block, a laboratory, a mortuary and living quarters for staff and their families.[^26]
+Between 1937 and 1940, while still working for his uncle, Chia Lay Phor oversaw his largest and most extensive construction project: building the 356-bed British Military Hospital (now Alexandra Hospital). Chia Eng Kee Chan had been appointed as the main subcontractor for Dobb &amp; Co. and the War Department. The hospital was equipped with medical, surgical and officer wards as well as ancillary buildings comprising a barracks block, a laboratory, a mortuary and living quarters for staff and their families.[^26]
 
 #### Ho Bock Kee
 
@@ -177,8 +175,8 @@ The book is available for reference at the Lee Kong Chian Reference Library and 
 
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/vol-17-issue-3/authors/Athanasios%20Tsakonas.png" style="width: 100px; height: 100px;" />
+<br>
+<img src="/images/vol-17-issue-3/authors/Athanasios%20Tsakonas.png" style="width: 100px; height: 100px;">
 <b>Athanasios Tsakonas</b> is a practising architect with degrees from the University of Adelaide and National University of Singapore. His book, <i>In Honour of War Heroes: Colin St Clair Oakes and the Design of Kranji War Memorial,</i> was published by Marshall Cavendish Editions in 2020. He is currently based in Melbourne, Australia.
 </div>
 
@@ -205,7 +203,7 @@ The book is available for reference at the Lee Kong Chian Reference Library and 
 
 [^10]: While the earlier Chinese migrants were mainly from the Cantonese and Hokkien dialect groups, those from Hui’an spoke either the Xinghua or Minnan dialect.
 
-[^11]: The word “coolie” is believed to have originated from the Hindi term *kuli*, which is the name of a native tribe in the western Indian state of Gujarat. The word *kuli* also means “hire” in Tamil. See Naidu Ratnala Thulaja, “[Chinese coolies](https://eresources.nlb.gov.sg/infopedia/articles/SIP_87_2004-12-15.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published 2016.
+[^11]: The word “coolie” is believed to have originated from the Hindi term *kuli*, which is the name of a native tribe in the western Indian state of Gujarat. The word *kuli* also means “hire” in Tamil. See Naidu Ratnala Thulaja, “[Chinese coolies](https://www.nlb.gov.sg/main/article-detail?cmsuuid=1934198c-b5bf-4980-abc7-0aeb29ed39c9),” in *Singapore Infopedia*. National Library Board Singapore. Article published 2016.
 
 [^12]: Otherwise known as *twakow* or *tongkang*, the bumboat was a large barge vessel used extensively for transport purposes along the Singapore, Rochor and Kallang rivers, and also along the coast of the mainland and other nearby islands. See Vernon Cornelius-Takahama, “[Bumboats](https://eresources.nlb.gov.sg/infopedia/articles/SIP_956_2004-12-15.html?s=bumboats),” in *Singapore Infopedia*. National Library Board Singapore. Article published June 2019. 
 
@@ -217,7 +215,7 @@ The book is available for reference at the Lee Kong Chian Reference Library and 
 
 [^16]: “[At the War Memorial](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19220331-1.2.36).”
 
-[^17]: Zaubidah Mohamed and Valerie Chew, “[Cenotaph](https://eresources.nlb.gov.sg/infopedia/articles/SIP_10_2004-12-17.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published 2010.
+[^17]: Zaubidah Mohamed and Valerie Chew, “[Cenotaph](https://www.nlb.gov.sg/main/article-detail?cmsuuid=865fce29-fbe3-41d2-8bd6-4d65a49187fb),” in *Singapore Infopedia*. National Library Board Singapore. Article published 2010.
 
 [^18]: 区如柏 [Ou Rubo], “[不做拉车夫走入建筑界的惠安人](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb19881225-1.2.65.1.1)” [“Rickshaw Drivers No Longer, the Hui’an People Enter the Construction Industry”], *联合早报 [Lianhe Zaobao]*, 25 December 1988, 34. (From NewspaperSG)
 

@@ -174,7 +174,7 @@ Of course, this was not the typical fate of smaller rubber plantation companies 
 
 [^6]: Low, S.C. (1955). *[Gambier-and-pepper planting in Singapore, 1819–1860](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202750334)* (p. 36) [University of Malaya, Singapore; thesis]. [n.p.]. (Call no.: RCLOS 630.95957 LOW)
 
-[^7]: Song, O.S. (1923). *[One hundred years’ history of the Chinese in Singapore](https://eresources.nlb.gov.sg/printheritage/detail/f8082431-1c7b-460e-b59c-bbc5793035a3.aspx)* (p. 20). London: John Murray. Retrieved from BookSG. (Call no.: RCLOS 959.57 SON; Accession no.: B02956336A). For more information about Seah Eu Chin, see Yong, C.Y. (2016). *[Seah Eu Chin](https://www.nlb.gov.sg/main/article-detail?cmsuuid=4aab4b55-d754-4c95-a26f-3da7285a1ffc)*. Retrieved from Singapore Infopedia website.
+[^7]: Song, O.S. (1923). *[One hundred years’ history of the Chinese in Singapore](https://www.nlb.gov.sg/main/book-detail?cmsuuid=f8082431-1c7b-460e-b59c-bbc5793035a3)* (p. 20). London: John Murray. Retrieved from BookSG. (Call no.: RCLOS 959.57 SON; Accession no.: B02956336A). For more information about Seah Eu Chin, see Yong, C.Y. (2016). *[Seah Eu Chin](https://www.nlb.gov.sg/main/article-detail?cmsuuid=4aab4b55-d754-4c95-a26f-3da7285a1ffc)*. Retrieved from Singapore Infopedia website.
 
 [^8]: [Low](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=202750334), 1955, p. 37.
 
@@ -184,15 +184,15 @@ Of course, this was not the typical fate of smaller rubber plantation companies 
 
 [^11]: Lee, K.L. (1984). *[Emerald Hill: The story of a street in words and pictures](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4080780)* (p. 1). Singapore: National Museum of Singapore. (Call no.: RSING 959.57 LEE)
 
-[^12]: Earl, G.W. (1837). *[The eastern seas, or voyages and adventures in the Indian Archipelago, 1832–33–34](https://eresources.nlb.gov.sg/printheritage/detail/ad9d0845-d805-4ec1-9cec-f26135c14d4a.aspx)* (pp. 408–409). London: W.H. Allen &amp; Co. Retrieved from BookSG. (Call no.: RRARE 915.980422 EAR; Accession no.: B02948006G)
+[^12]: Earl, G.W. (1837). *[The eastern seas, or voyages and adventures in the Indian Archipelago, 1832–33–34](https://www.nlb.gov.sg/main/book-detail?cmsuuid=ad9d0845-d805-4ec1-9cec-f26135c14d4a)* (pp. 408–409). London: W.H. Allen &amp; Co. Retrieved from BookSG. (Call no.: RRARE 915.980422 EAR; Accession no.: B02948006G)
 
 [^13]: [Duxton](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singchronicle18340109-1.2.6). (1834, January 1). *Singapore Chronicle and Commercial Register*, p. 1. Retrieved from NewspaperSG.
 
 [^14]: [Page 4 Advertisements Column 2: For sale by auction, the valuable nutmeg plantation, belonging to the estate of the late Dr. Montgomerie](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18560909-1.2.18.2). (1856, September 9). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
-[^15]: The statistics of nutmeg. (1849). *[The Journal of the Indian Archipelago and Eastern Asia](https://eresources.nlb.gov.sg/printheritage/detail/18eef945-846b-40ac-a7a6-bd5bbe2ca0f8.aspx)*, Vol. III. pp. iii–vii, p. iv. Retrieved from BookSG. (Call no.: RRARE 950.05 JOU; Accession no.: B03013629B)
+[^15]: The statistics of nutmeg. (1849). *[The Journal of the Indian Archipelago and Eastern Asia](https://www.nlb.gov.sg/main/book-detail?cmsuuid=18eef945-846b-40ac-a7a6-bd5bbe2ca0f8)*, Vol. III. pp. iii–vii, p. iv. Retrieved from BookSG. (Call no.: RRARE 950.05 JOU; Accession no.: B03013629B)
 
-[^16]: Cameron, J. (1865). *[Our tropical possessions in Malayan India: Being a descriptive account of Singapore, Penang, Province Wellesley, and Malacca; Their peoples, products, commerce, and government](https://eresources.nlb.gov.sg/printheritage/detail/7658c549-f1c5-47c7-b8b6-831f7eb90c58.aspx)* (p. 168). London: Smith, Elder &amp; Co. Retrieved from BookSG. (Call no.: RRARE 959.5 CAM-[JSB]; Accession no.: B29032445G)
+[^16]: Cameron, J. (1865). *[Our tropical possessions in Malayan India: Being a descriptive account of Singapore, Penang, Province Wellesley, and Malacca; Their peoples, products, commerce, and government](https://www.nlb.gov.sg/main/book-detail?cmsuuid=7658c549-f1c5-47c7-b8b6-831f7eb90c58)* (p. 168). London: Smith, Elder &amp; Co. Retrieved from BookSG. (Call no.: RRARE 959.5 CAM-[JSB]; Accession no.: B29032445G)
 
 [^17]: Ridley, H.N. (1897, April). Spices. *[Agricultural Bulletin of the Malay Peninsula](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4981663)*, (6), 96–129, p. 106; De Guzman, C.C., &amp; Siemonsma, J.S. (Eds.). (1999). *[Spices](https://eservice.nlb.gov.sg/item_holding.aspx?bid=203825825)*. Bogor, Indonesia: PROSEA Foundation. (Call no.: RCLOS 633.830959 SPI). For more information about Henry Nicholas Ridley, see Cornelius-Takahama, V. (2016). *[Henry Nicholas Ridley](https://www.nlb.gov.sg/main/article-detail?cmsuuid=3018287e-5646-4a13-bf02-20bd461e76cf)*. Retrieved from Singapore Infopedia website. 
 
@@ -208,23 +208,23 @@ Of course, this was not the typical fate of smaller rubber plantation companies 
 
 [^23]: [Page 1 Advertisements Column 3: Notice](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18450612-1.2.2.3). (1845, June 12). *The Singapore Free Press and Mercantile Advertiser*, p. 1. Retrieved from NewspaperSG. 
 
-[^24]: Buckley, C.B. (1902). *[An anecdotal history of old times in Singapore](https://eresources.nlb.gov.sg/printheritage/detail/303beefb-31d7-4dad-83fb-593054096717.aspx)* (Vol. I; p. 185). Singapore: Fraser and Neave. Retrieved from BookSG. (Call no.: RRARE 959.57 BUC; Accession no.: B02966440I). For more information about Jose d’Almeida, see Ong, E.C. (2019, May). *[Jose d’Almeida](https://www.nlb.gov.sg/main/article-detail?cmsuuid=e5e732c6-4a79-4a80-b9f4-8c63eb0b15b3)*. Retrieved from Singapore Infopedia website. 
+[^24]: Buckley, C.B. (1902). *[An anecdotal history of old times in Singapore](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717)* (Vol. I; p. 185). Singapore: Fraser and Neave. Retrieved from BookSG. (Call no.: RRARE 959.57 BUC; Accession no.: B02966440I). For more information about Jose d’Almeida, see Ong, E.C. (2019, May). *[Jose d’Almeida](https://www.nlb.gov.sg/main/article-detail?cmsuuid=e5e732c6-4a79-4a80-b9f4-8c63eb0b15b3)*. Retrieved from Singapore Infopedia website. 
 
 [^25]: [Brooke](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4183132), 1921, p. 71.
 
-[^26]: Crawfurd, J. (1849). Agriculture of Singapore. *[The Journal of the Indian Archipelago and Eastern Asia](https://eresources.nlb.gov.sg/printheritage/detail/18eef945-846b-40ac-a7a6-bd5bbe2ca0f8.aspx)*, Vol. III, 508–511, p. 509. Retrieved from BookSG. (Call no.: RRARE 950.05 JOU; Accession no.: B03013629B)
+[^26]: Crawfurd, J. (1849). Agriculture of Singapore. *[The Journal of the Indian Archipelago and Eastern Asia](https://www.nlb.gov.sg/main/book-detail?cmsuuid=18eef945-846b-40ac-a7a6-bd5bbe2ca0f8)*, Vol. III, 508–511, p. 509. Retrieved from BookSG. (Call no.: RRARE 950.05 JOU; Accession no.: B03013629B)
 
-[^27]: [Cameron](https://eresources.nlb.gov.sg/printheritage/detail/7658c549-f1c5-47c7-b8b6-831f7eb90c58.aspx), 1865, p. 34.
+[^27]: [Cameron](https://www.nlb.gov.sg/main/book-detail?cmsuuid=7658c549-f1c5-47c7-b8b6-831f7eb90c58), 1865, p. 34.
 
-[^28]: Little, R. (1848). An essay on coral reefs as the cause of Blakan Mati fever, and of the fevers in various parts of the East. *[The Journal of the Indian Archipelago and Eastern Asia](https://eresources.nlb.gov.sg/printheritage/detail/7ac284a7-ac54-4fff-ad21-789cbb55df54.aspx)*, Vol. II, 571–602, pp. 573–583. Retrieved from BookSG. (Call no.: RRARE 950.05 JOU; Accession no.: B03014449C)
+[^28]: Little, R. (1848). An essay on coral reefs as the cause of Blakan Mati fever, and of the fevers in various parts of the East. *[The Journal of the Indian Archipelago and Eastern Asia](https://www.nlb.gov.sg/main/book-detail?cmsuuid=7ac284a7-ac54-4fff-ad21-789cbb55df54)*, Vol. II, 571–602, pp. 573–583. Retrieved from BookSG. (Call no.: RRARE 950.05 JOU; Accession no.: B03014449C)
 
-[^29]: [Earl](https://eresources.nlb.gov.sg/printheritage/detail/ad9d0845-d805-4ec1-9cec-f26135c14d4a.aspx), 1837, p. 352.
+[^29]: [Earl](https://www.nlb.gov.sg/main/book-detail?cmsuuid=ad9d0845-d805-4ec1-9cec-f26135c14d4a), 1837, p. 352.
 
 [^30]: Balestier, J., &amp; Montgomerie, W. (1841, December 2). [From an unpublished journal of a residence at Singapore: During part of 1840 &amp; 41](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18411202-1.2.8). *The Singapore Free Press and Mercantile Advertiser*, p. 2. Retrieved from NewspaperSG.
 
 [^31]: Thomson, J.T. (1850). General report on the residency of Singapore, drawn up principally with a view of illustrating its agricultural statistics. *[The Journal of the Indian Archipelago and Eastern Asia](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5007604)*, Vol. IV, 134–143, p. 140. (Call no.: RRARE 950.05 JOU; Microfilm no.: NL25791)
 
-[^32]: Pwee, T. (2015, July–September). [The French can](https://www.nlb.gov.sg/Browse/BiblioAsia.aspx). *BiblioAsia, 11* (2), 38. Retrieved from BiblioAsia website.
+[^32]: Pwee, T. (2015, July–September). [The French can](https://biblioasia.nlb.gov.sg/vol-11/issue-2/jul-sep-2015/ayam-brand-singapore/). *BiblioAsia, 11* (2). Retrieved from BiblioAsia website.
 
 [^33]: [Pineapple industry](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19080902-1.2.76). (1908, September 2). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
 

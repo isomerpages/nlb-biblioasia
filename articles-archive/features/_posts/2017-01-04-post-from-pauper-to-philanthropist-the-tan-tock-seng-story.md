@@ -4,6 +4,7 @@ date: 2017-01-04
 permalink: /vol-12/issue-4/jan-mar-2017/pauper-to-philanthrop/
 image: /images/Vol-12-issue-4/from-pauper-to-philanthropist/1-from_pauper_to_philanthropist.jpg
 layout: post
+variant: markdown
 ---
 #### **Sue-Ann Chia** traces the classic rags-to-riches story of a vegetable seller turned land speculator who left a hospital named after him in Singapore.
 
@@ -33,7 +34,7 @@ It is not known what Tan’s father did for a living in Malacca. Even though mos
 
 Tan’s elder brother Oo Long eventually joined him in Singapore. The fate of his two other brothers remain unknown; all we know is that one of them went to China. What is certain is that Tan arrived in Singapore “with no worldly goods, his only capital being industry and economy”, reported *The Singapore Free Press and Mercantile Advertiser newspaper* in March 1850.[^8]
 
-But good fortune favoured the enterprising and those who were willing to work hard in the fledgling port city that was teeming with opportunities. Soon after his arrival, Tan set up a roadside stall selling vegetables, fruits and poultry, bringing produce from the countryside to the city. Within a matter of eight years, by 1827, he had saved up enough to open up a shop at Boat Quay, where the Chinese community originally settled. Tan’s big break came when he met J.H. Whitehead, a partner in the British trading firm of Shaw, Whitehead & Co. Through a combination of sheer luck and an astute joint venture in land speculation, Tan became a very wealthy businessman and landowner.[^9]
+But good fortune favoured the enterprising and those who were willing to work hard in the fledgling port city that was teeming with opportunities. Soon after his arrival, Tan set up a roadside stall selling vegetables, fruits and poultry, bringing produce from the countryside to the city. Within a matter of eight years, by 1827, he had saved up enough to open up a shop at Boat Quay, where the Chinese community originally settled. Tan’s big break came when he met J.H. Whitehead, a partner in the British trading firm of Shaw, Whitehead &amp; Co. Through a combination of sheer luck and an astute joint venture in land speculation, Tan became a very wealthy businessman and landowner.[^9]
 
 Tan’s impressive land bank included 50 acres of prime space where the railway station at Tanjong Pagar was located as well as swathes of land stretching from the Padang all the way to High Street and Tank Road. He also owned a row of shophouses at Ellenborough Building. Together with his brother Oo Long, Tan also owned a nutmeg plantation and an orchard. The 14-acre fruit plantation was located opposite the old St Andrew’s Mission Hospital in Tanjong Pagar.[^10]
 
@@ -123,22 +124,22 @@ Unfortunately, it is a heritage that is becoming increasingly brittle. Given Sin
 #### **Notes**
 
 [^1]:Quek, F. (1989, January 28). [Photo display to honour Singapore pioneers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19890128-1.2.29.17.aspx). *The Straits Times*, p.15. Retrieved from NewspaperSG.
-[^2]:*Graves of Tan Tock Seng, Chua Seah Neo & Wuing Neo*. (2013). Our Heritage: Tiong Bahru, (pp.18–19). Retrieved from National Heritage Board website.
+[^2]:*Graves of Tan Tock Seng, Chua Seah Neo &amp; Wuing Neo*. (2013). Our Heritage: Tiong Bahru, (pp.18–19). Retrieved from National Heritage Board website.
 [^3]:Sivanathan, N. (2013, September/October). *Lessons of a forefather. Lifewise*, (47), p. 23. Retrieved from National Healthcare Group website. 
-[^4]:National Library Board. (2008). *[Tan Tock Seng](http://eresources.nlb.gov.sg/infopedia/articles/SIP1182005-01-22.html)* written by Tien, Jenny. Retrieved from Singapore Infopedia; Sivanathan, Sep/Oct 2013, p. 23. 
-[^5]:[National Library Board](http://eresources.nlb.gov.sg/infopedia/articles/SIP_118_2005-01-22.html), 2008; Dhoraisingham, K.D., & Samuel, D.S. (2003). *[Tan Tock Seng: Pioneer: His life, times, contributions and legacy](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=12266771)* (p. 9). Kota Kinabalu: Natural History Publications (Borneo). Call no.: RSING 338.04092 KAM
+[^4]:National Library Board. (2008). *[Tan Tock Seng](https://www.nlb.gov.sg/main/article-detail?cmsuuid=35c1be2d-360b-4e36-90da-be55e5df0c69)* written by Tien, Jenny. Retrieved from Singapore Infopedia; Sivanathan, Sep/Oct 2013, p. 23. 
+[^5]:[National Library Board](http://eresources.nlb.gov.sg/infopedia/articles/SIP_118_2005-01-22.html), 2008; Dhoraisingham, K.D., &amp; Samuel, D.S. (2003). *[Tan Tock Seng: Pioneer: His life, times, contributions and legacy](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=12266771)* (p. 9). Kota Kinabalu: Natural History Publications (Borneo). Call no.: RSING 338.04092 KAM
 [^6]:Turnbull, C.M. (1989). *[A history of Singapore, 1819–1988](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=5178825)* (2nd ed) (p. 14). Singapore: Oxford University Press. Call no.: RSING 959.57 TUR-[HIS]
-[^7]:[Dhoraisingham & Samuel](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12266771), 2003, p. 4.
+[^7]:[Dhoraisingham &amp; Samuel](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12266771), 2003, p. 4.
 [^8]:[The Singapore Free Press.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18500301-1.2.8) (1850, March 1). *The Singapore Free Press and Mercantile Advertiser* (1835–1869), p. 1. Retrieved from NewspaperSG.
-[^9]:[National Library Board](http://eresources.nlb.gov.sg/infopedia/articles/SIP_118_2005-01-22.html), 2008; [When lepers roamed the streets.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19560505-1.2.133.aspx) (1956, May 5). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
-[^10]:[National Library Board](http://eresources.nlb.gov.sg/infopedia/articles/SIP_118_2005-01-22.html), 2008; [Dhoraisingham & Samuel](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12266771), 2003, p. 23.
-[^11]:[Dhoraisingham & Samuel](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12266771), 2003, p. 23.
-[^12]:[National Library Board](http://eresources.nlb.gov.sg/infopedia/articles/SIP_118_2005-01-22.html), 2008; [Tan Tock Seng and the war on diseases.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19740926-1.2.22.1) (1974, September 26). *New Nation*, p. 7. Retrieved from NewspaperSG. 
+[^9]:[National Library Board](https://www.nlb.gov.sg/main/article-detail?cmsuuid=35c1be2d-360b-4e36-90da-be55e5df0c69), 2008; [When lepers roamed the streets.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19560505-1.2.133.aspx) (1956, May 5). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
+[^10]:[National Library Board](https://www.nlb.gov.sg/main/article-detail?cmsuuid=35c1be2d-360b-4e36-90da-be55e5df0c69), 2008; [Dhoraisingham &amp; Samuel](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12266771), 2003, p. 23.
+[^11]:[Dhoraisingham &amp; Samuel](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12266771), 2003, p. 23.
+[^12]:[National Library Board](https://www.nlb.gov.sg/main/article-detail?cmsuuid=35c1be2d-360b-4e36-90da-be55e5df0c69), 2008; [Tan Tock Seng and the war on diseases.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19740926-1.2.22.1) (1974, September 26). *New Nation*, p. 7. Retrieved from NewspaperSG. 
 [^13]:*[The Singapore Free Press and Mercantile Advertiser (1835–1869)](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18500301-1.2.8.aspx)* , 1 Mar 1850, p. 1.
 [^14]:*[New Nation](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19740926-1.2.22.1.aspx)* , 26 Sep 1974, p. 7; [Straits Times special feature: Towkay forced hand of govt. to build hospital.](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19611207-1.2.84.aspx) (1961, December 7). *The Straits Times*, p. 9. Retrieved from NewspaperSG.
 [^15]:*[New Nation](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19740926-1.2.22.1.aspx)* , 26 Sep 1974, p. 7
 [^16]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19611207-1.2.84.aspx),* 7 Dec 1961, p. 9.
-[^17]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19611207-1.2.84.aspx),* 7 Dec 1961, p. 9; Buckley, C.B. (1902). *[An anecdotal history of old times in Singapore](https://eservice.nlb.gov.sg/itemholding.aspx?bid=4470390)* (Vol. II) (p. 408). Singapore: Fraser & Neave. Call no.: RRARE 959.57 BUC 
+[^17]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19611207-1.2.84.aspx),* 7 Dec 1961, p. 9; Buckley, C.B. (1902). *[An anecdotal history of old times in Singapore](https://eservice.nlb.gov.sg/itemholding.aspx?bid=4470390)* (Vol. II) (p. 408). Singapore: Fraser &amp; Neave. Call no.: RRARE 959.57 BUC 
 [^18]:*[New Nation](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19740926-1.2.22.1.aspx)* , 26 Sep 1974, p. 7
 [^19]:In 1830, the Straits Settlements – comprising Singapore, Malacca and Penang – was made a residency of the Presidency of Bengal under the governor-general of India based in Calcutta, India.
 [^20]:*[New Nation](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19740926-1.2.22.1.aspx)* , 26 Sep 1974, p. 7
@@ -147,14 +148,14 @@ Unfortunately, it is a heritage that is becoming increasingly brittle. Given Sin
 [^23]:*[The Straits Times](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19611207-1.2.84.aspx),* 5 May 1956, p. 9; Song, O, S. (1923). *[One hundred years’ history of the Chinese in Singapore](http://eservice.nlb.gov.sg/itemholdings.aspx?bid=4500922)* (pp. 62–63). London: John Murray. Call no.: RCLOS 959.57 SON
 [^24]:*[The Singapore Free Press and Mercantile Advertiser](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18500301-1.2.8.aspx)* (1835–1869), 1 Mar 1850, p. 1.
 [^25]:[Untited](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18500319-1.2.11.aspx). (1850, March 19). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
-[^26]:[Dhoraisingham & Samuel](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12266771), 2003, pp. 52,79. 
-[^27]:[Dhoraisingham & Samuel](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12266771), 2003, pp. 55–59.
+[^26]:[Dhoraisingham &amp; Samuel](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12266771), 2003, pp. 52,79. 
+[^27]:[Dhoraisingham &amp; Samuel](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12266771), 2003, pp. 55–59.
 [^28]:Singapore Hokkien Huay Kuan. (2015). *History*. Retrieved from Singapore Hokkien Huay Kuan website.
-[^29]:National Library Board. (2010). *[Thian Hock Keng](https://eresources.nlb.gov.sg/infopedia/articles/SIP7932005-01-10.html)*  written by Tan, Bonny. Retrieved from Singapore Infopedia.
+[^29]:National Library Board. (2010). *[Thian Hock Keng](https://www.nlb.gov.sg/main/article-detail?cmsuuid=91fb75a2-78de-479b-802d-916245c9be52)*  written by Tan, Bonny. Retrieved from Singapore Infopedia.
 [^30]:Tiong Bahru Estate. (2007. August 28). *Tan Kim Ching*. Retrieved from Tiong Bahru Estate Blog.
 [^31]:Cheong, K. (2014, July 28). Tan Tock Seng’s descendants celebrate Tiong Bahru link. *The Straits Times*, p. B3. Retrieved from Tan Tock Seng Hospital website. 
-[^32]:[Dhoraisingham & Samuel](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12266771), 2003, p. 91; The Orchid Society of Southeast Asia. (2014). *Our history*. Retrieved from The Orchid Society of Southeast Asia website.
+[^32]:[Dhoraisingham &amp; Samuel](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12266771), 2003, p. 91; The Orchid Society of Southeast Asia. (2014). *Our history*. Retrieved from The Orchid Society of Southeast Asia website.
 [^33]:Ee, J.W.W. (2009, August 2). [Tan Tock Seng clan’s grave undertaking](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20090802-1.2.10.12). *The Straits Times*, p. 14. Retrieved from NewspaperSG. 
 [^34]:Loh, S. (1994, September 4). [Following in the footsteps of a giant](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19940904-1.2.83.5.9.aspx). *The Straits Times*. p. 9. Retrieved from NewspaperSG. 
 [^35]:Whang, R. (2016, May 24). HK tycoon buys Cuscaden bungalow for $145m. *The Straits Times*, p. 3. Retrieved from Factiva via NLB’s [eResources](http://eresources.nlb.gov.sg/) website. 
-[^36]:Koh, J., & Whang, R. (2016, April 5). House of Tan Tock Seng’s kin could fetch $170m. *The Straits Times*, p. 4. Retrieved from Factiva via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
+[^36]:Koh, J., &amp; Whang, R. (2016, April 5). House of Tan Tock Seng’s kin could fetch $170m. *The Straits Times*, p. 4. Retrieved from Factiva via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.

@@ -4,6 +4,7 @@ date: 2016-04-07
 permalink: /vol-12/issue-1/apr-jun-2016/singapore-tv/
 image: /images/Vol-12-issue-1/singapore-tv/01-singaporetv.jpg
 layout: post
+variant: markdown
 ---
 #### **Lau Joon-Nie** charts the rise of Singaporean television from the first test transmissions to the advent of foreign competition posed by the arrival of cable.
 
@@ -87,7 +88,7 @@ In the early 2000s, Mediacorp found a new cash cow when it bought the rights and
 
 In a new development, Mediacorp started selling its own home-grown programme formats to other broadcasters to adapt. In 2013, it closed a deal with the Thai Public Broadcasting Service to license Mediacorp’s *The Arena* debate show for young people in the Thai market. The broadcaster is also finding growth in lucrative markets abroad, such as Vietnam, where it sold nearly 1,500 hours of Mandarin content to distributor, Goldia One Vision; THVL 1 and THVL 2 channels and Today TV. In the same year, Vasantham channel’s most popular police drama series, *Vettai*, was acquired by Malaysian terrestrial channel, ntv7. Other major buyers of Mediacorp productions include broadcasters in Hong Kong, Indonesia, the Philippines and Taiwan. Such deals are an important source of revenue for the home-grown broadcaster to expand in an increasingly fragmented and globalised market.[^29]
 
-<div style="background-color: white;"><img style="width:400px"  src="/images/Vol-12-issue-1/singapore-tv/07-singaporetv.bmp"><i>The Little Nyonya</i> topped ratings on Malaysia’s ntv7 and Astro’s AEC cable channel, even surpassing viewership for popular Hong Kong dramas in Malaysia. <i>Courtesy of Mediacorp Pte Ltd.</i></div>
+<div style="background-color: white;"><img style="width:400px" src="/images/Vol-12-issue-1/singapore-tv/07-singaporetv.bmp"><i>The Little Nyonya</i> topped ratings on Malaysia’s ntv7 and Astro’s AEC cable channel, even surpassing viewership for popular Hong Kong dramas in Malaysia. <i>Courtesy of Mediacorp Pte Ltd.</i></div>
 
 Singapore has also become home to a host of foreign broadcasters, including AXN, BBC, CNBC Asia, Discovery Asia, HBO Asia, MTV Asia, Nickelodeon and Walt Disney Television, in no small part due to the efforts of MDA. The state broadcasting regulator and promoter has gone beyond encouraging media companies to provide services for hire to providing funding and promoting Singapore-made content.[^30]
 
@@ -111,7 +112,7 @@ Several times a year, MDA leads delegations of local media companies to major in
 
 [^1]:All six seasons of *Growing Up* are available for viewing on Mediacorp’s online Toggle platform.
 
-[^2]:National Library Board. (2014, December 23). *[Singapore’s first television station](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1064_2006-04-03.html)*. Retrieved from Singapore Infopedia website.
+[^2]:National Library Board. (2014, December 23). *[Singapore’s first television station](https://www.nlb.gov.sg/main/article-detail?cmsuuid=f84fe603-7339-4629-b781-50b75fa3d21f)*. Retrieved from Singapore Infopedia website.
 
 [^3]:[Programme for TV pilot service](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19630214-1.2.34.11). (1963, February 14). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 
@@ -119,7 +120,7 @@ Several times a year, MDA leads delegations of local media companies to major in
 
 [^5]:Lent, J.A. (Ed.). (1978). *[Broadcasting in Asia and the Pacific: A continental survey of radio and television](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4987706)* (p. 161). Philadelphia: Temple University Press. (Call no.: RSEA 384.5095 BRO)
 
-[^6]:National Library Board. (2015, March). *[Singapore Broadcasting Corporation is established](https://eresources.nlb.gov.sg/history/events/19fe790d-ffda-49ed-a925-ec237e7dda6e)*. Retrieved from HistorySG.
+[^6]:National Library Board. (2015, March). *[Singapore Broadcasting Corporation is established](https://www.nlb.gov.sg/main/article-detail?cmsuuid=19fe790d-ffda-49ed-a925-ec237e7dda6e)*. Retrieved from HistorySG.
 
 [^7]:Mahbubani, G. (1980, March 26). [High hopes and old problems for the new station](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19800326-1.2.149.16.1). *The Straits Times*, p. 8. Retrieved from NewspaperSG; Singapore. Parliament. *[Parliamentary debates: Official report](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4826189)*. (1979, December 11). Third Reading of the Singapore Broadcasting  Corporation Bill (Vol. 39, col. 535). Singapore: [s.n]. (Call no.: RSING 328.5957 SIN)
 
@@ -129,11 +130,11 @@ Several times a year, MDA leads delegations of local media companies to major in
 
 [^10]:Generally, only foreign embassies, financial institutions, hotels and selected educational institutions are allowed to install satellite dishes or subscribe to satellite TV operators. See [Satellite dishes OK for hotels, some schools](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20030621-1.2.46.14). (2003, June 21). *The Straits Times*, p. 11. Retrieved from NewspaperSG.
 
-[^11]:National Library Board. (1992). *[First subscription television channel](https://eresources.nlb.gov.sg/infopedia/articles/SIP_438_2004-12-28.html)* written by Nureza Ahmad. Retrieved from Singapore Infopedia website.
+[^11]:National Library Board. (1992). *[First subscription television channel](https://www.nlb.gov.sg/main/article-detail?cmsuuid=918c934f-f258-4cf5-8348-5bac10085533)* written by Nureza Ahmad. Retrieved from Singapore Infopedia website.
 
 [^12]:Ang, P.H. (2007). *Singapore media* (p. 17). [Unpublished manuscript]. Retrieved from Nanyang Technological University wesbite.
 
-[^13]:Keshishoglou, J., & Aquilia, P. (2005). *[Electronic broadcast media in Singapore and the region](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12332388)* (p. 82). Singapore: Asian Media Information and Communication Centre: Nanyang Technological University; Australia: Thomson Learning. (Call no.: RSING q384.0959 KES)
+[^13]:Keshishoglou, J., &amp; Aquilia, P. (2005). *[Electronic broadcast media in Singapore and the region](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12332388)* (p. 82). Singapore: Asian Media Information and Communication Centre: Nanyang Technological University; Australia: Thomson Learning. (Call no.: RSING q384.0959 KES)
 
 [^14]:Ang, 2007, p. 17.
 
@@ -151,7 +152,7 @@ Several times a year, MDA leads delegations of local media companies to major in
 
 [^21]:[Tan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13003198), 2008, p. 137.
 
-[^22]:Ministry of Information and the Arts. (1999. March 1). *[Speech by George Yeo, Minister for Information and the Arts and 2nd Minister For Trade & Industry, at the launch of Channel NewsAsia on 1st March, 1999 at 9.00am](https://www.nas.gov.sg/archivesonline/speeches/record-details/7579362a-115d-11e3-83d5-0050568939ad)* [Speech]. Retrieved from National Archives of Singapore website.
+[^22]:Ministry of Information and the Arts. (1999. March 1). *[Speech by George Yeo, Minister for Information and the Arts and 2nd Minister For Trade &amp; Industry, at the launch of Channel NewsAsia on 1st March, 1999 at 9.00am](https://www.nas.gov.sg/archivesonline/speeches/record-details/7579362a-115d-11e3-83d5-0050568939ad)* [Speech]. Retrieved from National Archives of Singapore website.
 
 [^23]:Channel NewsAsia. (n.d.). *About us: Our coverage*. Retrieved from Channel NewsAsia website. 
 
@@ -163,10 +164,10 @@ Several times a year, MDA leads delegations of local media companies to major in
 
 [^27]:Osborne, M. (2001, May 21–27). Mediacorp fights for dominance in TV arena. *Variety, Special Report*, p. 41. Retrieved from ProQuest via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-[^28]:Lim, T. (2004). Let the contests begin! *‘Singapore slings’ into action: Singapore in the global television format business* (p. 114). In A. Moran & M. Keane. (Eds.), Television across Asia. London and New York: Routledge Curzon. (Not available in NLB holdings)
+[^28]:Lim, T. (2004). Let the contests begin! *‘Singapore slings’ into action: Singapore in the global television format business* (p. 114). In A. Moran &amp; M. Keane. (Eds.), Television across Asia. London and New York: Routledge Curzon. (Not available in NLB holdings)
 
-[^29]:Mediacorp Pte Ltd. (2013, March 20). *Mediacorp sold The Arena programme format to Thai PBS*; Mediacorp Pte Ltd. (2013, July 15). *Mediacorp’s content sales in Vietnam hit an all-time high*; Mediacorp Pte Ltd. (2013, May 15). *Vettai acquired by Malaysian channel ntv7*; Mediacorp Pte Ltd. (2009, September 10). *A Mediacorp time-belt on the Philippines’ TV5 – A total of 520 hours of content to be scheduled in the first year!*; Mediacorp Pte Ltd. (2012, October 18). *Mediacorp sold more than 100 hours of content to TVB & 8TV*; Mediacorp Pte Ltd. (2012, November 22). *Mediacorp’s international channel 8i turns one on Indovision!*; Mediacorp Pte Ltd. (2013, January 3). *Mediacorp sold 61 hours of variety programmes to Asia Travel TV in Taiwan!* All press releases retrieved from Mediacorp website. 
+[^29]:Mediacorp Pte Ltd. (2013, March 20). *Mediacorp sold The Arena programme format to Thai PBS*; Mediacorp Pte Ltd. (2013, July 15). *Mediacorp’s content sales in Vietnam hit an all-time high*; Mediacorp Pte Ltd. (2013, May 15). *Vettai acquired by Malaysian channel ntv7*; Mediacorp Pte Ltd. (2009, September 10). *A Mediacorp time-belt on the Philippines’ TV5 – A total of 520 hours of content to be scheduled in the first year!*; Mediacorp Pte Ltd. (2012, October 18). *Mediacorp sold more than 100 hours of content to TVB &amp; 8TV*; Mediacorp Pte Ltd. (2012, November 22). *Mediacorp’s international channel 8i turns one on Indovision!*; Mediacorp Pte Ltd. (2013, January 3). *Mediacorp sold 61 hours of variety programmes to Asia Travel TV in Taiwan!* All press releases retrieved from Mediacorp website. 
 
-[^30]:Media Development Authority. (2014). *Broadcast & public service broadcast*. Retrieved from MDA website.
+[^30]:Media Development Authority. (2014). *Broadcast &amp; public service broadcast*. Retrieved from MDA website.
 
-[^31]:Media Development Authority. (2015, December 2). *HBO Asia works with the Media Development Authority of Singapore to develop local drama production capabilities* [Press release]; Media Development Authority. (2014, October 9). *Fact Sheet – Singapore makes strong showing at MIPCOM with line-up of over 530 hours of Asian and original TV and animation content* [Press release]; Media Development Authority. (2014). *Grants & schemes*. Retrieved from MDA website.
+[^31]:Media Development Authority. (2015, December 2). *HBO Asia works with the Media Development Authority of Singapore to develop local drama production capabilities* [Press release]; Media Development Authority. (2014, October 9). *Fact Sheet – Singapore makes strong showing at MIPCOM with line-up of over 530 hours of Asian and original TV and animation content* [Press release]; Media Development Authority. (2014). *Grants &amp; schemes*. Retrieved from MDA website.

@@ -4,6 +4,7 @@ title: "Keeping the Legacy Alive: Chin Mee Chin Coffee & Cake Shop Faces the
 permalink: /vol-5/issue-4/jan-2010/chin-mee-chin-coffee-cake/
 description: Researcher Michelle Heng contemplates the legacy and future of Chin
   Mee Chin Coffee & Cake Shop famed for its kaya and pastries.
+variant: markdown
 ---
 #### Researcher *Michelle Heng* contemplates the legacy and future of Chin Mee Chin Coffee &amp; Cake Shop famed for its&nbsp;_kaya_&nbsp;and pastries.
 
@@ -23,7 +24,7 @@ Its old-world ambience lures customers young and old as they savour the treats i
 
 Its famous *kaya*, a sweet greenish bread spread made with eggs as the main ingredient, has been much-touted from independent online magazine *Salon.com* to Singapore’s flagship daily *The Straits Times*; but the previously publicity-shy staff at the coffee shop had declined to be interviewed. In a bid to keep his father’s hard-won legacy alive, William Tan, the third-generation scion of the Katong stalwart, responded to the National Library Board’s request for an interview in response to a factual clarification in an article posted on the library’s Infopedia website.
 
-Patrons interested in finding out more about Chin Mee Chin will find worthy mention of the coffee shop among many tomes found in the Singapore and Southeast Asian Collections at the Lee Kong Chian Reference Library as well as on InfopediaTalk (<a href="https://eresources.nlb.gov.sg/infopedia/">https://eresources.nlb.gov.sg/infopedia/</a>). One way that the National Library carries out its key role of collecting and preserving heritage materials on Singapore and Southeast Asia is to actively document “heritage” in the making.
+Patrons interested in finding out more about Chin Mee Chin will find worthy mention of the coffee shop among many tomes found in the Singapore and Southeast Asian Collections at the Lee Kong Chian Reference Library as well as on InfopediaTalk (<a href="https://www.nlb.gov.sg/main/onesearch/result?type=infopedia&amp;nlonline=true">Infopedia</a>). One way that the National Library carries out its key role of collecting and preserving heritage materials on Singapore and Southeast Asia is to actively document “heritage” in the making.
 
 Apart from the Peranakan-inspired *kaya*, a long-standing favourite among its loyal customers, the shop’s signature items include cream puffs, cream horns, butter cupcakes as well as sugee cake – a popular staple confectionery among the Indian-Eurasian community – and a wide array of sweet and savoury buns. So well liked are its pineapple tarts and curry puffs that the neighbourhood’s church-goers (a Catholic church is only about 10 metres away across the side street) who often swing by Chin Mee Chin after Sunday worship sessions, still hanker after these traditional favourites, says William Tan, a sales director at an IT solutions company, who helps out at Chin Mee Chin during the weekends and in the evenings.
 

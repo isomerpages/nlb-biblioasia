@@ -5,11 +5,12 @@ permalink: /vol-9/issue-4/jan-march-2014/forgotten-trades-singapore/
 image: /images/vol-9-issue-4/forgottentrades/bg.jpg
 layout: post
 description: ""
+variant: markdown
 ---
 #### Unable to keep pace with Singapore’s economic progress and development, many of Singapore’s early crafts and trades have disappeared. **Sharon Teng** tells us about these trades and what is being done to remember them.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-9-issue-4/forgottentrades/bg.jpg">
 A barbershop along a five-foot way at Wayang Street in 1986. <i>Ronni Pinsler collection, courtesy of National Archives of Singapore.</i></div>
 
@@ -46,7 +47,7 @@ A few trades have survived the march of time, such as the mobile ice-cream cart 
 **Then and Now**<br>Cobblers used to operate along five-foot-ways and roads in city areas. They stationed themselves at fixed locations or moved around housing estates on bicycle-carts filled with the tools of their trade. Traditional cobblers can still be found in Chinatown and Raffles Place, although they are gradually being replaced by shoe repair chains such as Mister Mint and Shukey Services that are conveniently located in shopping malls.[^7]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-9-issue-4/forgottentrades/cobbler.jpg" style="width:70%">
 Cobbler operating from pavement (1980). <i>Courtesy of National Archives of Singapore.</i></div>
 
@@ -69,7 +70,7 @@ An Indian fortune teller, dressed in a white <i>dhoti</i> and shirt, would have 
 Parrot astrologers were based at Serangoon Road but they also made house calls, especially during festive occasions. Today, there are fewer than five still in business in Little India, as many Indians have ceased to believe in this method of divination.[^8]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-9-issue-4/forgottentrades/fortune_teller.jpg" style="width:70%">
 Parrot fortune teller at Serangoon Road in 1980. <i>Courtesy of National Archives of Singapore.</i></div>
 
@@ -85,7 +86,7 @@ Parrot fortune teller at Serangoon Road in 1980. <i>Courtesy of National Archive
 **Then and Now**<br>Ice-ball vendors were usually found near schools or along shophouses but sometimes moved to different locations with their mobile carts. Ice-balls are the predecessors of the more elaborate plated dessert called ice <i>kachang</i> sold in hawker centres and food courts. In 2011, ice-balls were brought back as part of the dessert menu at the Singapore Food Trail (a dining attraction featuring popular local dishes), located next to the Singapore Flyer.[^9]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-9-issue-4/forgottentrades/ice_ball.jpg">
 An Indian ice-water seller making a syrup coated ice-ball in 1978. <i>Courtesy of Ministry of Information and the Arts (MITA).</i></div>
 
@@ -100,7 +101,7 @@ An Indian ice-water seller making a syrup coated ice-ball in 1978. <i>Courtesy o
 **Then and Now**<br><i>Kachang puteh</i> sellers used to frequent schools, cinemas, swimming pools and shopping centres. Such independent vendors have all but vanished today, except for perhaps the sole surviving <i>kachang puteh</i> seller in Singapore, Mr Nagappan Arumugam, who has manned a pushcart at Peace Centre on Selegie Road for over 20 years.[^11] <i>Kachang puteh</i> is now available in commercially pre-packed versions at supermarkets and 24-hour convenience stores all over Singapore. A pushcart stall can also be found at the Singapore Food Trail.[^12]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-9-issue-4/forgottentrades/Chu_Sui_Mang.jpg" style="width:70%">
 A roadside <i>kachang puteh</i> seller (1985). <i>Chu Sui Mang collection, courtesy of National Archives of Singapore.</i></div>
 
@@ -115,7 +116,7 @@ A roadside <i>kachang puteh</i> seller (1985). <i>Chu Sui Mang collection, court
 **Then and Now**<br>Letter writers were once a common sight in Chinatown but the trade lost its popularity after the 1980s with the passing of many old-time patrons. The increase in literacy and communication technology such as the telephone also contributed to the trade’s decline. Letter writers today focus primarily on writing ancestral tablets for the younger Chinese generation and entertain occasional requests from tourists to compose spring couplets and auspicious words or to have Chinese translations of their English names written.[^14]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-9-issue-4/forgottentrades/letter_writter.jpg" style="width:70%">
 A letter writer with a customer along a five-foot-way in Kreta Ayer. From the Kouo Shang-Wei collection 郭尚慰收集. <i>All rights reserved, family of Kouo Shang-Wei and National Library Board, Singapore, 2007.</i></div>
 
@@ -134,7 +135,7 @@ Barbers worked from around eight in the morning to dusk, charging about 50 cents
 With the erection of high-rise flats in the 1960s, barbers plied their trade along the corridors of housing estates. Today, however, they operate out of air-conditioned shops found in virtually every neighbourhood, with modern equipment such as electric clippers and shavers. What has survived is the unique icon denoting these neighbourhood barbers — the barber’s pole, with its spinning helix of tri-coloured red, white and blue stripes.[^15]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-9-issue-4/forgottentrades/barber.jpg">
 Barber at Tras Street in 1988. <i>Courtesy of National Archives of Singapore.</i></div>
 
@@ -163,21 +164,21 @@ Beyond that, image hosting social platforms such as Flickr allow users to share 
 “The Lost Arts of the Republic of Singapore”[^18] is an example of a vanishing trades project that straddles the physical and digital realms. This project was initiated by two local artists to “document the current state of vanishing arts and crafts of Singapore”. Through interviews with 10 existing practitioners, the artists crafted an exhibition for the Pop-Up Singapore House and London Design Festival in 2012, which presented a fresh interpretation of traditional symbols and transformed them into modern narratives. The exhibition was featured in two local journals (<i>The Design Journal</i>, March 2012, and <i>Zaobao Fukan</i>, July 2012). In addition, the artists posted photos of their exhibition and journal write-ups on Flickr.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-9-issue-4/forgottentrades/lost_art.jpg" style="width:70%"></div>
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-9-issue-4/forgottentrades/lost_art1.jpg">
 "The Lost Arts of The Republic of Singapore" (2012) documented the vanishing arts and crafts of Singapore. <i>Courtesy of Su-Jin Ng.</i></div>
 
 Through the decades, commercial and non-profit cultural organisations and societies such as the Singapore Handicraft Centre, Singapore Heritage Society, Chinatown Heritage Centre, Indian Heritage Centre and the Malay Heritage Centre have been actively organising cultural exhibitions and trade fairs, providing those still engaged in Singapore’s pioneering trades the opportunity to showcase dying or long-forgotten crafts or arts.[^19]
 
-In December 2011, the National Heritage Board put together a roving exhibition called “Traditional Provision Shops: A Thriving Past & An Uncertain Future”, which showcased 18 traditional provision shops and collectibles.[^20]
+In December 2011, the National Heritage Board put together a roving exhibition called “Traditional Provision Shops: A Thriving Past &amp; An Uncertain Future”, which showcased 18 traditional provision shops and collectibles.[^20]
 
 The National Museum of Singapore has also curated several exhibitions on vanishing trades over the years, with the most recent being “Trading Stories: Conversations with Six Tradesmen” in March 2013, which featured true-life accounts of six pioneer tradesmen who have either retired or are still active in their occupations. [^21]
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/vol-9-issue-4/forgottentrades/individuals.jpg" style="width:70%">
 Some of the individuals featured in the 2013 exhibition, “Trading Stories: Conversations with Six Pioneering Tradesmen” by the National Museum of Singapore include <i>samsui</i> women and a movie poster painter. <i>Courtesy of National Museum of Singapore, National Heritage Board.</i></div>
 
@@ -201,7 +202,7 @@ Vanishing trades have been featured in commemorative memorabilia such as the 197
 
 While the demise of these trades is inevitable due to economic progress and advancements in technology, continual efforts are being made at the individual, community and national levels to capture, document and preserve the memory of our early trades and the people who toiled at their crafts. We can take comfort that Singapore’s pioneer tradesmen and craftsmen will not likely disappear from society’s consciousness but continue to live on in our communal memories and national chronicles. 
 
-<br/>
+<br>
 <img style="width:100px;height:100px;margin-bottom:-30px; border-radius:100%; box-shadow: 1px 2px 0px #424242;" src="/images/vol-9-issue-4/forgottentrades/Sharon_Teng.jpg">
 <p style="font-size:15px;"><b>Sharon Teng</b> is a Librarian with the National Library Board. She has contributed articles to <i>BiblioAsia</i> as well as Infopedia, NLB's online encyclopedia of Singapore. Her interest areas include the use of technology and social media in libraries.</p>
 
@@ -231,11 +232,11 @@ Leong, W.K. (1997, May 13). [He writes love letters, angry letters](http://ereso
 
 Lim, J. (2013, March 15). <i>Trading stories with six tradesmen</i>. Retrieved from The Long and Winding Road website.
 
-Lim, P., & Lim, S.T. (1982, June 6). [Glimpses into trades and tidbits of bygone days](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820606-1.2.21). <i>The Straits Times</i>, p. 7. Retrieved from NewspaperSG.
+Lim, P., &amp; Lim, S.T. (1982, June 6). [Glimpses into trades and tidbits of bygone days](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820606-1.2.21). <i>The Straits Times</i>, p. 7. Retrieved from NewspaperSG.
 
 Lin, Z. (2005, May 21). Sell kachang puteh it’s a tough nut to crack. <i>The Straits Times</i>. Retrieved from Factiva via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website.
 
-Lo-Ang, S.G., & Chua, C.H. (Eds.). (1992). *[Vanishing trades of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6313327)*. Singapore: Oral History Department. (Call no.: RSING 338.642095957 VAN)
+Lo-Ang, S.G., &amp; Chua, C.H. (Eds.). (1992). *[Vanishing trades of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6313327)*. Singapore: Oral History Department. (Call no.: RSING 338.642095957 VAN)
 
 Lo-ang, S.G. (1992). *[Vanishing trades: A catalogue of oral history interview](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6390530)*. Singapore: Documentatio Unit, Oral History Department. (Call no.: RSING 016.338643095957 SIN)
 
@@ -253,19 +254,19 @@ National Heritage Board. (2013). <i>Heritage along footpaths: Community Heritage
 
 National Heritage Board. (2013). <i>Exhibitions: Trading stories: Conversations with six pioneering tradesmen</i>. Retrieved from National Heritage Board website.
 
-Naidu, R.T. (2018, July). *[Traditional cobblers](https://eresources.nlb.gov.sg/infopedia/articles/SIP_143_2004-12-14.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
+Naidu, R.T. (2018, July). *[Traditional cobblers](https://www.nlb.gov.sg/main/article-detail?cmsuuid=8bd6ca8e-1453-48ec-8ee7-c7c1d8539d76)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
-Naidu, R.T. (2016). *[Five-foot-way traders](https://eresources.nlb.gov.sg/infopedia/articles/SIP_105_2005-01-04.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
+Naidu, R.T. (2016). *[Five-foot-way traders](https://www.nlb.gov.sg/main/article-detail?cmsuuid=604a6d18-793d-4919-af9b-5ef014ba2141)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
-Naidu, R.T. (2016). *[Roadside barbers](https://eresources.nlb.gov.sg/infopedia/articles/SIP_49_2004-12-24.html)*. Retrieved from Singapore Infopedia, National Library Singapore. 
+Naidu, R.T. (2016). *[Roadside barbers](https://www.nlb.gov.sg/main/article-detail?cmsuuid=59b2fc5f-9d4b-42a9-98cf-1229c57f5828)*. Retrieved from Singapore Infopedia, National Library Singapore. 
 
-Naidu, R.T. (2017). *[Letter writers](https://eresources.nlb.gov.sg/infopedia/articles/SIP_603_2005-01-04.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
+Naidu, R.T. (2017). *[Letter writers](https://www.nlb.gov.sg/main/article-detail?cmsuuid=943d91ef-a1c8-44a2-89cd-2f579b507609)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
-Naidu, R.T. (2017). *[Parrot astrologers](https://eresources.nlb.gov.sg/infopedia/articles/SIP_602_2005-01-04.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
+Naidu, R.T. (2017). *[Parrot astrologers](https://www.nlb.gov.sg/main/article-detail?cmsuuid=388c422e-d4f1-4ac3-bcd8-349afdabb50b)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
 National Library Board. (2013). <i>Singapore memory portal</i>. Retrieved from Singapore memory.sg website. 
 
-Ng, S., & Yeo, J. (2012). <i>Lost arts of The Republic of Singapore</i>. Retrieved from flickr.com website. 
+Ng, S., &amp; Yeo, J. (2012). <i>Lost arts of The Republic of Singapore</i>. Retrieved from flickr.com website. 
 
 [Phonecards retrace the early trades](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19940213-1.2.22.10.1). (1994, February 13). <i>The Straits Times</i>, p. 14. Retrieved from NewspaperSG.
 
@@ -277,7 +278,7 @@ Sullivan, M. (1985). *[“Can survive, la”: Cottage industries in high-rise Si
 
 Tan, B.H. (1983, June 27). [That old barber shop is going](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830627-1.2.139.2.1). <i>The Straits Times</i>, p. 13. Retrieved from NewspaperSG.
 
-Tan, J., & Leong, W.K. (1977, November 24). [‘Protect our vanishing trades’ call to govt](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19771124-1.2.52). <i>The Straits Times</i>, p. 10. Retrieved from NewspaperSG.
+Tan, J., &amp; Leong, W.K. (1977, November 24). [‘Protect our vanishing trades’ call to govt](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19771124-1.2.52). <i>The Straits Times</i>, p. 10. Retrieved from NewspaperSG.
 
 Teo, J. (2013). <i>Vanishing trades/Scenes in Singapore</i>. Retrieved from Jenniferteophotography.com website.
 
@@ -297,7 +298,7 @@ Toh, K. (2011, September 11). [Keeping alive a vanishing trade](http://eresource
 
 [^1]: [All kinds of everything along walkways of old](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19870316-1.2.59.34.1). (1987, March 16). The Straits Times, p. 26. Retrieved from NewspaperSG.
 
-[^2]: Naidu, R.T. (2016). *[Five-foot-way traders](https://eresources.nlb.gov.sg/infopedia/articles/SIP_105_2005-01-04.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
+[^2]: Naidu, R.T. (2016). *[Five-foot-way traders](https://www.nlb.gov.sg/main/article-detail?cmsuuid=604a6d18-793d-4919-af9b-5ef014ba2141)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
 [^3]: Sullivan, M. (1985). *[“Can survive, la”: Cottage industries in high-rise Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082532)* (p. 14). Singapore: G. Brash. (Call no.: RSING 338.634095957 SUL)
 
@@ -305,11 +306,11 @@ Toh, K. (2011, September 11). [Keeping alive a vanishing trade](http://eresource
 
 [^5]: [Sullivan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4082532), 1985, p. 26.
 
-[^6]: Naidu, R.T. (2018, July). *[Traditional cobblers](https://eresources.nlb.gov.sg/infopedia/articles/SIP_143_2004-12-14.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
+[^6]: Naidu, R.T. (2018, July). *[Traditional cobblers](https://www.nlb.gov.sg/main/article-detail?cmsuuid=8bd6ca8e-1453-48ec-8ee7-c7c1d8539d76)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
-[^7]: National Heritage Board. (2013). <i>Heritage along footpaths: Community Heritage series IV</i> (pp. 4–5). Retrieved from National Heritage Board website; [Naidu](https://eresources.nlb.gov.sg/infopedia/articles/SIP_143_2004-12-14.html), Jul 2018. 
+[^7]: National Heritage Board. (2013). <i>Heritage along footpaths: Community Heritage series IV</i> (pp. 4–5). Retrieved from National Heritage Board website; [Naidu](https://www.nlb.gov.sg/main/article-detail?cmsuuid=8bd6ca8e-1453-48ec-8ee7-c7c1d8539d76), Jul 2018. 
 
-[^8]: National Heritage Board, 2013, pp. 8–10; Naidu, R.T. (2017). *[Parrot astrologers](https://eresources.nlb.gov.sg/infopedia/articles/SIP_602_2005-01-04.html)*. Retrieved from Singapore Infopedia, National Library Singapore; Lo-Ang, S.G., & Chua, C.H. (Eds.). (1992). *[Vanishing trades of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6313327)* (pp. 60–64). Singapore: Oral History Department. (Call no.: RSING 338.642095957 VAN)
+[^8]: National Heritage Board, 2013, pp. 8–10; Naidu, R.T. (2017). *[Parrot astrologers](https://www.nlb.gov.sg/main/article-detail?cmsuuid=388c422e-d4f1-4ac3-bcd8-349afdabb50b)*. Retrieved from Singapore Infopedia, National Library Singapore; Lo-Ang, S.G., &amp; Chua, C.H. (Eds.). (1992). *[Vanishing trades of Singapore](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6313327)* (pp. 60–64). Singapore: Oral History Department. (Call no.: RSING 338.642095957 VAN)
 
 [^9]: National Heritage Board, 2013, pp. 12–14.
 
@@ -319,9 +320,9 @@ Toh, K. (2011, September 11). [Keeping alive a vanishing trade](http://eresource
 
 [^12]: National Heritage Board, 2013, pp. 16–18.
 
-[^13]: [Lo-Ang & Chua](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6313327), 1992, p. 36. 
+[^13]: [Lo-Ang &amp; Chua](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6313327), 1992, p. 36. 
 
-[^14]: [Lo-Ang & Chua](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6313327), 1992, pp. 35–37.
+[^14]: [Lo-Ang &amp; Chua](https://eservice.nlb.gov.sg/item_holding.aspx?bid=6313327), 1992, pp. 35–37.
 
 [^15]: National Heritage Board, 2013, pp. 20–22.
 
@@ -329,9 +330,9 @@ Toh, K. (2011, September 11). [Keeping alive a vanishing trade](http://eresource
 
 [^17]: Ghetto Singapore. (2013). <i>Vanishing trades of Singapore</i>. Retrieved from ghettosingapore website; Lim, J. (2013, March 15). <i>Trading stories with six tradesmen</i>. Retrieved from The Long and Winding Road website; <i>The vanishing trade: Trishaws in Singapore</i>. (2010, May 17). Retrieved from sgtrishaws.wordpress.com website; Teo, J. (2013). <i>Vanishing trades/scenes in Singapore</i>. Retrieved from pinterest.com wesbite; <i>Vanishing Trades</i>. (1999). Retrieved from ThinkQuest Library website. 
 
-[^18]: Ng, S., & Yeo, J. (2012). <i>Lost Arts of the Republic of Singapore</i>. Retrieved from flickr.com website. 
+[^18]: Ng, S., &amp; Yeo, J. (2012). <i>Lost Arts of the Republic of Singapore</i>. Retrieved from flickr.com website. 
 
-[^19]: Nathan, D. (1990, March 12). [Indian heritage to go on show at Indian village in two weeks](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900312-1.2.30.8). <i>The Straits Times</i>, p. 19; Lim, P., & Lim, S.T. (1982, June 6). [Glimpses into trades and tidbits of bygone days](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820606-1.2.21). <i>The Straits Times</i>, p. 7; [Craftsman behind another vanishing trade….](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19771119-1.2.27) (1977, November 19). <i>The Straits Times</i>, p. 7; Sim, G. (2004, April 12). [Chinatown nightlife to return](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20040412-1.2.24.3). <i>The Straits Times</i>, p. 1. Retrieved from NewspaperSG.
+[^19]: Nathan, D. (1990, March 12). [Indian heritage to go on show at Indian village in two weeks](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19900312-1.2.30.8). <i>The Straits Times</i>, p. 19; Lim, P., &amp; Lim, S.T. (1982, June 6). [Glimpses into trades and tidbits of bygone days](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820606-1.2.21). <i>The Straits Times</i>, p. 7; [Craftsman behind another vanishing trade….](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19771119-1.2.27) (1977, November 19). <i>The Straits Times</i>, p. 7; Sim, G. (2004, April 12). [Chinatown nightlife to return](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20040412-1.2.24.3). <i>The Straits Times</i>, p. 1. Retrieved from NewspaperSG.
 
 [^20]: Toh, K. (2011, September 11). [Keeping alive a vanishing trade](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20110911-1.2.11.15). <i>The Straits Times</i>, pp. 16–17. Retrieved from NewspaperSG.
 

@@ -5,6 +5,7 @@ permalink: /vol-11/issue-4/jan-mar-2016/birds-malay-peninsula/
 layout: post
 description: ""
 image: /images/vol-11-issue-4/birds-of-the-malay-peninsula/01_birds.jpg
+variant: markdown
 ---
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;">
 <b>Title:</b> <i><a href="http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5028847">The Birds of the Malay Peninsula: A General Account of the Birds Inhabiting the Region from the Isthmus of Kra to Singapore with the Adjacent Islands</a></i>
@@ -13,7 +14,7 @@ image: /images/vol-11-issue-4/birds-of-the-malay-peninsula/01_birds.jpg
 <br>
 <b>Year published:</b> Vol. 1 (1927), Vol. 2 (1928), Vol. 3 (1936), Vol. 4 (1939), Vol. 5 (1976)
 <br>
-<b>Publisher:</b> H. F. & G. Witherby (London)
+<b>Publisher:</b> H. F. &amp; G. Witherby (London)
 <br>
 <b>Language:</b> English
 <br>
@@ -24,7 +25,7 @@ image: /images/vol-11-issue-4/birds-of-the-malay-peninsula/01_birds.jpg
 <b>Accession nos.:</b> B02936005C (v.1); B02936006D (v.2); B02936007E (v.3); B02935992 (v.4); B03000462D (v.5)</span>
 
 
-<div style="background-color: white;"><img style="width:400px" src="/images/vol-11-issue-4/birds-of-the-malay-peninsula/01_birds.jpg">From top: A mature Malay Glossy Starling, an immature Malay Glossy Starling and the Buffalo Mynah. <i>All rights reserved, Robinson, H. C. (1927). The Birds of the Malay Peninsula (Vol. I). London: H. F. & G. Witherby.</i></div>
+<div style="background-color: white;"><img style="width:400px" src="/images/vol-11-issue-4/birds-of-the-malay-peninsula/01_birds.jpg">From top: A mature Malay Glossy Starling, an immature Malay Glossy Starling and the Buffalo Mynah. <i>All rights reserved, Robinson, H. C. (1927). The Birds of the Malay Peninsula (Vol. I). London: H. F. &amp; G. Witherby.</i></div>
 
 Much has been written about the history of the Malay Peninsula and its people. Far less would have been known about the region’s birds, however, if not for an extensive five-volume series painstakingly compiled by four ornithologists between 1927 and 1976.
 
@@ -36,9 +37,9 @@ The series of books, which has been endorsed by the global ornithology community
 
 Until these volumes were published, research works on the region’s birdlife were considered unsatisfactory.[^1] The series is even more remarkable when one considers the fact that its authors researched and compiled its contents over the span of almost 50 years, all this while combing the thick, impenetrable Malayan jungles to document the 700 bird species that inhabit the region.[^2]
 
-<div style="background-color: white;"><img style="width:400px" src="/images/vol-11-issue-4/birds-of-the-malay-peninsula/02a_birds.jpg">From top: Tail feathers of the Common or Fantail Snipe, Chinese or Swinhoe’s Snipe and the Pintail Snipe. <i>All rights reserved, Robinson, R. C., & Chasen, F. N. (1936). The Birds of the Malay Peninsula (Vol. III). London: H. F. & G. Witherby.</i></div>
+<div style="background-color: white;"><img style="width:400px" src="/images/vol-11-issue-4/birds-of-the-malay-peninsula/02a_birds.jpg">From top: Tail feathers of the Common or Fantail Snipe, Chinese or Swinhoe’s Snipe and the Pintail Snipe. <i>All rights reserved, Robinson, R. C., &amp; Chasen, F. N. (1936). The Birds of the Malay Peninsula (Vol. III). London: H. F. &amp; G. Witherby.</i></div>
 
-<div style="background-color: white;"><br><img style="width:400px" src="/images/vol-11-issue-4/birds-of-the-malay-peninsula/03a_birds.jpg">From top: Heads of the Bushy-Crested Hornbill, Malaysian Wreathed Hornbill, Wrinkled Hornbill, Long-crested Hornbill and Helmeted Hornbill. <i>All rights reserved, Robinson, H. C. (1928). The Birds of the Malay Peninsula (Vol. II). London: H. F. & G. Witherby.</i></div>
+<div style="background-color: white;"><br><img style="width:400px" src="/images/vol-11-issue-4/birds-of-the-malay-peninsula/03a_birds.jpg">From top: Heads of the Bushy-Crested Hornbill, Malaysian Wreathed Hornbill, Wrinkled Hornbill, Long-crested Hornbill and Helmeted Hornbill. <i>All rights reserved, Robinson, H. C. (1928). The Birds of the Malay Peninsula (Vol. II). London: H. F. &amp; G. Witherby.</i></div>
 
 The accounts contain the birds’ Latin, English and Malay names, as well as detailed descriptions of their soft parts, dimensions, the areas they inhabit in the Malay Peninsula and their habits. In 1928, the American ornithology community praised the publication’s “scope and method of treatment [as] admirable and the finely printed plates most satisfactory”.[^3]
 
@@ -52,7 +53,7 @@ By 1942, preparation for the final volume was interrupted by the outbreak of Wor
 
 Interest in continuing with the final volume was revived more than 20 years later. In 1948, when a new introductory publication on Malayan birds was released, the first four volumes were already out of print.[^8] By 1958, the series had become a collector’s item.[^9] After the war, Edward Banks, the former curator of the Sarawak Museum, wrote a replacement text for the final volume and deposited it in the British Museum (Natural History).[^10] In 1964, Ken Scriven, a long-time resident of Malaysia and ardent collector of Malayan birdlife,[^11] chanced upon not only Banks’s text but also the coloured plates created by H. Gronvold in London. He shared the discovery with fellow enthusiasts and conservationists Lord Medway (Gathorne Gathorne-Hardy, also known as the 5th Earl of Cranbrook) and David R. Wells, who in turn completed the series.
 
-H. F. & G. Witherby, the publisher of volumes 1 to 4, also produced the fifth volume, taking pains to use the same typesetting, paper and layout that had been used in previous volumes. In 1976, the last volume was finally published.[^12]
+H. F. &amp; G. Witherby, the publisher of volumes 1 to 4, also produced the fifth volume, taking pains to use the same typesetting, paper and layout that had been used in previous volumes. In 1976, the last volume was finally published.[^12]
 
 – Written by Nor-Afidah Abdul Rahman
 
@@ -70,7 +71,7 @@ H. F. & G. Witherby, the publisher of volumes 1 to 4, also produced the fifth vo
 
 [^5]:Koss, C.B. (1928, January 17). [The birds of the Malay Peninsula](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19280117-1.2.8). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
 
-[^6]:National Library Board. (2013, March 15). *[Frederick Nutter Chasen](http://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-05-17_085050.html)* written by Tan, Fiona. Retrieved from Singapore Infopedia.
+[^6]:National Library Board. (2013, March 15). *[Frederick Nutter Chasen](https://www.nlb.gov.sg/main/article-detail?cmsuuid=a14613dd-425d-4462-843b-b6c5df77b8a1)* written by Tan, Fiona. Retrieved from Singapore Infopedia.
 
 [^7]:McClure, E. (1977, September). The Birds of the Malay Peninsula, Vol. 5 by Lord Medway, David R. Wells [review]. *The Wilson Bulletin, 89* (3), 497–498. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg) website; Tweedy, M.W.F. (1946, October). Obituary: Frederick Nutter Chasen. *Ibis, 88* (4), 527. Retrieved from Wiley Online Library; [National Library Board](http://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-05-17_085050.html), 15 Mar 2013.
 
@@ -78,7 +79,7 @@ H. F. & G. Witherby, the publisher of volumes 1 to 4, also produced the fifth vo
 
 [^9]:McClure, Sep 1977, p. 498.
 
-[^10]:Robertson, D. G. (1978). Review of “The Birds of the Malay Peninsula, Volume V: conclusion, and survey of every species”. *Emu: Austral Ornithology, 78* (1), 46–47. Retrieved from Taylor & Francis Online.
+[^10]:Robertson, D. G. (1978). Review of “The Birds of the Malay Peninsula, Volume V: conclusion, and survey of every species”. *Emu: Austral Ornithology, 78* (1), 46–47. Retrieved from Taylor &amp; Francis Online.
 
 [^11]:WWF. (2010, May 21). *Malaysia conservation leaders honoured with WWF international awards*. Retrieved from WWF website.
 

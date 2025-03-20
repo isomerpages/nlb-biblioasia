@@ -5,9 +5,8 @@ date: 2021-04-01T00:00:00.000Z
 breadcrumb: "A Banquet of Malayan Fruits: Botanical Art in the Melaka Straits"
 third_nav_title: "A Banquet of Malayan Fruits: Botanical Art in the Melaka Straits"
 image: /images/Vol-17-issue-1/malayan-fruits/mangosteens.jpg
-
+variant: markdown
 ---
-
 <style>
 table { 
 	background-color: #f4d3d3;
@@ -23,7 +22,7 @@ table {
 #### Who commissioned the Dumbarton Oaks collection of 70 drawings on local fruits? **Faris Joraimi** attempts to unravel the mystery of its origins, which could predate Raffles’ arrival.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-17-issue-1/malayan-fruits/mangosteens.jpg">
 In this set of drawings from the Dumbarton Folio featuring mangosteens, there are unopened flower buds, flowers in full bloom, juvenile fruits as well as fully ripe ones, all on the same branch. The other three types of fruit are the ivory yellow rambutan, <i>jambu air</i> and <i>buah melaka</i>. <i>Image reproduced from Album of Chinese Watercolours of Asian Fruits, Dumbarton Oaks Research Library and Collection</i>.
 </div>
@@ -43,7 +42,7 @@ Carefully housed among the shelves in its impressive reading room is this folio 
 The Dumbarton Folio is structured in three parts. The first 12 watercolours are composite scenes, each showcasing four species of fruit. Following these are 10 drawings, each focused on a specimen of a single species. In the last section, each page depicts eight fruits drawn in miniature, two groups of four. Each group – two rows on top and two rows below – corresponds to the four species depicted in each of the 12 composite scenes. The groups of four are arranged in the order of the corresponding composite scenes, and each fruit is labelled according to its Malay name in Jawi as well as poor transliterations in barely visible Roman script.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-17-issue-1/malayan-fruits/cempedak.jpg">
 Each page in the last section of the Dumbarton Folio depicts eight fruits drawn in miniature, two groups of four. Each group – two rows on top and two rows below – corresponds to the four species depicted in each of the 12 composite scenes. Each fruit is labelled according to its Malay name in Jawi as well as poor transliterations in barely visible Roman script. Shown here are the top two rows from one of the pages. Clockwise from the top: <i>cempedak</i>, red rambutan, <i>sentul</i> and <i>nam-nam</i>. <i>Image reproduced from Album of Chinese Watercolours of Asian Fruits, Dumbarton Oaks Research Library and Collection</i>.
 </div>
@@ -57,7 +56,7 @@ Viewing these drawings, one also cannot help but notice how intensely lyrical th
 A notable example features a large pineapple, whose seductive shade of pink is characteristic of the species, *Ananas bracteatus* (red pineapple). It is a different variety from *Ananas comosus*, which we find in every local wet market and supermarket. *Ananas bracteatus*, on the other hand, is esteemed for its pretty foliage: note the stripes and red-tinted edges. The artist evidently decided to show off these ornamental qualities by having one of the leaves drape elegantly across the page.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-17-issue-1/malayan-fruits/ananas.jpg">
 Included in the Dumbarton Folio is the composite drawing featuring the <i>Ananas bracteatus</i> (red pineapple), with its distinctive shade of pink skin characteristic of the species, and the <i>langsat</i>, <i>chiku</i> and <i>kundang</i>. Although the exterior of the pineapple is pink, it has a fleshy yellow pulp like other pineapple varieties. <i>Image reproduced from Album of Chinese Watercolours of Asian Fruits, Dumbarton Oaks Research Library and Collection</i>.
 </div>
@@ -78,7 +77,7 @@ But who wrote the names? Before mass education, most people in the Malay world w
 There are only two pieces in the entire Dumbarton Folio that find almost exact matches in another collection of botanical art. A few months after encountering Dumbarton’s Malay fruits, I chanced upon the watermelon’s twin in Mildred Archer’s catalogue, *British Drawings in the India Office Library*.[^9] It was listed as being part of a folio simply titled *NHD 42*, housed at the Prints and Drawings Room of the British Library. Leafing through the large sheets of drawings in the Asian and African Prints Room of the British Library, I discovered a pomelo study among the 10 watercolours in *NHD 42* that was also an almost exact twin of the one in the Dumbarton Folio.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-17-issue-1/malayan-fruits/watermelon.jpg">
 The watermelon painting in the Dumbarton Folio (left) depicts swirling tendrils with leaves and flowers shown in distinct stages of development. The watermelon is also cut in half to reveal its fleshy red interior and black seeds. <i>Image reproduced from Album of Chinese Watercolours of Asian Fruits, Dumbarton Oaks Research Library and Collection</i>. An almost exact replica of the painting (right) can be found in the bound folio titled <i>NHD 42</i> housed at the Prints and Drawings Room of the British Library. <i>Photo by Faris Joraimi</i>.
 </div>
@@ -92,13 +91,13 @@ Elizabeth contributed the illustrations to her husband’s tome. At some point, 
 Nevertheless, the duplicates led me to briefly entertain the possibility of model types, circulated to enable the reproduction of copies produced for a wide clientele expecting the same images. If, however, such an established commercial market existed, with demand sufficient to justify some sort of mass production, we will have likely found many more duplicates and not a mere two drawings. It is far likelier that these duplicates were individually copied.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-17-issue-1/malayan-fruits/pulasan.jpg">
 A composite drawing from the Dumbarton Folio featuring the durian, <i>pulasan</i>, <i>rambai</i> and <i>rukam</i>. <i>Image reproduced from Album of Chinese Watercolours of Asian Fruits, Dumbarton Oaks Research Library and Collection</i>.
 </div>
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-17-issue-1/malayan-fruits/durian.jpg">
 For the sake of comparison, shown here is the durian from the William Farquhar Collection of Natural History Drawings. <i>Courtesy of the National Museum of Singapore, National Heritage Board</i>.
 </div>
@@ -112,7 +111,7 @@ When the EIC officials were posted to Southeast Asia, the Indian artists apparen
 While drawing upon the representational conventions of botanical illustration, the Dumbarton Folio was not intended as a formal catalogue of nature the same way the Farquhar collection was. What the folio does, however, is demonstrate the deployment of these conventions as an aesthetic in its own right, to be enjoyed as art. Looking at these drawings, my thoughts floated to the Nanyang Style artists[^20] and their delicate still lifes in the 1950s: the rambutans, durians and mangosteens of Liu Kang, Chen Wen Hsi and Georgette Chen.[^21] By then, painting local fruits was about capturing the “soul” of Malaya in all its living colour. These Nanyang artists certainly had illustrious predecessors.
 
 <div style="background-color: white;">
-<br/>
+<br>
 <img src="/images/Vol-17-issue-1/malayan-fruits/namnam.jpg">
 A composite drawing of the <i>cempedak</i>, rambutan, <i>nam-nam</i> and <i>sentul</i> from the Dumbarton Folio. <i>Image reproduced from Album of Chinese Watercolours of Asian Fruits, Dumbarton Oaks Research Library and Collection</i>.
 </div>
@@ -138,8 +137,8 @@ There is one final aspect that gives the Dumbarton Folio, and indeed natural his
 </div>
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol-17-issue-1/authors/faris_joraimi.png" style="width: 100px; height: 100px;" />
+<br>
+<img src="/images/Vol-17-issue-1/authors/faris_joraimi.png" style="width: 100px; height: 100px;">
 <b>Faris Joraimi</b> is a student at Yale-NUS College and will graduate in 2021. He studies the history of the Malay world, and has written for <i>Mynah, Budi Kritik, S/pores</i> and <i>New Naratif</i>. Faris was also co-editor of <i>Raffles Renounced: Towards a Merdeka History</i> (2021), a volume of essays on decolonial history in Singapore.
 </div>
 
@@ -151,7 +150,7 @@ There is one final aspect that gives the Dumbarton Folio, and indeed natural his
 
 [^2]: Saunders, G. (1995). *[Picturing plants: An analytical history of botanical illustration](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7539213)* (p. 15). Berkeley: University of California Berkeley Press. (Call no.: RART 743.7 SAU)
 
-[^3]: Bleichmar, D. (2006). Painting as exploration: Visualising nature in eighteenth-century colonial science. *Colonial Latin American Review 15* (1), 81–94, p. 90. Retrieved from Taylor & Francis Online.
+[^3]: Bleichmar, D. (2006). Painting as exploration: Visualising nature in eighteenth-century colonial science. *Colonial Latin American Review 15* (1), 81–94, p. 90. Retrieved from Taylor &amp; Francis Online.
 
 [^4]: Bleichmar, 2006, p. 90.
 
@@ -159,9 +158,9 @@ There is one final aspect that gives the Dumbarton Folio, and indeed natural his
 
 [^6]: Archer, M. (1962). *[Natural history drawings in the India Office Library](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1636557)* (p. 100). London: Her Majesty’s Stationery Office. (Call no.: RART 743.6 ARC)
 
-[^7]: Abdullah Abdul Kadir, Munshi & Hill, A.H. (1985). *[The hikayat Abdullah: The autobiography of Abdullah bin Abdul Kadir, 1797–1854](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4437767)*. Singapore: Oxford University Press. (Call no.: RSING 959.51032 ABD)
+[^7]: Abdullah Abdul Kadir, Munshi &amp; Hill, A.H. (1985). *[The hikayat Abdullah: The autobiography of Abdullah bin Abdul Kadir, 1797–1854](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4437767)*. Singapore: Oxford University Press. (Call no.: RSING 959.51032 ABD)
 
-[^8]: Sweeney, S., & Phillips, N. (1975).*[The voyages of Mohamed Ibrahim Munshi](https://eservice.nlb.gov.sg/item_holding.aspx?bid=192376)* (p. xxii). New York: Oxford University Press. (Call no.: RSING 959.5 MUH)
+[^8]: Sweeney, S., &amp; Phillips, N. (1975).*[The voyages of Mohamed Ibrahim Munshi](https://eservice.nlb.gov.sg/item_holding.aspx?bid=192376)* (p. xxii). New York: Oxford University Press. (Call no.: RSING 959.5 MUH)
 
 [^9]: [Archer](https://eservice.nlb.gov.sg/item_holding.aspx?bid=1636557), 1962, p. 100.
 
@@ -187,6 +186,6 @@ There is one final aspect that gives the Dumbarton Folio, and indeed natural his
 
 [^20]: Pioneered by artists Cheong Soo Pieng, Liu Kang, Chen Wen Hsi and Georgette Chen in the 1950s, the Nanyang Style integrates Chinese painting traditions with Western techniques from the School of Paris, and typically depict local or Southeast Asian subject matter.
 
-[^21]: For more information about these Nanyang artists, see Tan, B., & Creamer, R. (2016). *[Liu Kang](https://eresources.nlb.gov.sg/infopedia/articles/SIP_158_2005-01-22.html)*; Ho, S. (2015, January 28). *[Chen Wen Hsi](https://eresources.nlb.gov.sg/infopedia/articles/SIP_772_2004-12-29.html)*; Creamer, R. (2018, January 24). *[Georgette Chen](https://eresources.nlb.gov.sg/infopedia/articles/SIP_698_2005-01-12.html)*. Retrieved from Singapore Infopedia website. 
+[^21]: For more information about these Nanyang artists, see Tan, B., &amp; Creamer, R. (2016). *[Liu Kang](https://www.nlb.gov.sg/main/article-detail?cmsuuid=5ffd9a55-8078-4df8-9652-ffc63a0ea2fe)*; Ho, S. (2015, January 28). *[Chen Wen Hsi](https://www.nlb.gov.sg/main/article-detail?cmsuuid=3ad34665-6a27-4338-b315-5ff52fbd26a7)*; Creamer, R. (2018, January 24). *[Georgette Chen](https://www.nlb.gov.sg/main/article-detail?cmsuuid=0f964e7f-5382-416b-932b-3da4151f20e3)*. Retrieved from Singapore Infopedia website. 
 
 [^22]: [Saunders](https://eservice.nlb.gov.sg/item_holding.aspx?bid=7539213), 1995, p. 65.

@@ -68,10 +68,10 @@ Chan was known by the pen-name Batu Gantong (literally “Hanging Rock”), whic
 
 #### **NOTES**
 [^1]:The term Peranakan generally refers to people of mixed Chinese and Malay/Indonesian heritage. Peranakan males are known as *babas* while the females are known as *nonyas* (or *nyonyas*). See National Library Board. (August 26, 2013). [*Peranakan (Straits Chinese) community*](https://www.nlb.gov.sg/main/article-detail?cmsuuid=1138ea9d-9dbe-4f09-9fef-ba2c7105eb91) written by Koh, Jaime. Retrieved from Singapore Infopedia.
-[^2]:National Library Board. (2008). [*Chan Kim Boon*](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1337_2008-10-07.html) written by Tan, Bonny. Retrieved from Singapore Infopedia.
+[^2]:National Library Board. (2008). [*Chan Kim Boon*](https://www.nlb.gov.sg/main/article-detail?cmsuuid=e1e30cac-63e2-416e-b5df-83ba1f041cb3) written by Tan, Bonny. Retrieved from Singapore Infopedia.
 [^3]:Yoong, S. K., &amp; Zainab, A. N. (2002, December). Chinese literary works translated into Baba Malay: A bibliometric study. *Malaysian Journal of Library &amp; Information Science, 7* (2), 21. Retrieved from University of Malaya website.
 [^4]:Yoong &amp; Zainab, Dec 2002, p. 21.
-[^5]:[National Library Board](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1337_2008-10-07.html), 2008.
+[^5]:[National Library Board](https://www.nlb.gov.sg/main/article-detail?cmsuuid=e1e30cac-63e2-416e-b5df-83ba1f041cb3), 2008.
 [^6]:Proudfoot, I. (1993). [*Early Malay printed books: A provisional account of materials published in the Singapore-Malaysia area up to 1920, noting holdings in major public collections*](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6712616) (pp. 25–26). Kuala Lumpur: Academy of Malay Studies and the Library, University of Malaya. Call no.: RSING 015.5957 PRO-[LIB].
 [^7]:[Proudfoot](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6712616), 1993, p. 24; Yoong, S. K., &amp; Zainab, A. N. (2004, December). The Straits Chinese contribution to Malaysian literary heritage: Focus on Chinese stories translated into Baba Malay. *Journal of Educational Media &amp; Library Sciences, 42* (2), 195. Retrieved from e-lis website.
 [^8]:[Proudfoot](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6712616), 1993, pp. 25–26.
@@ -80,6 +80,6 @@ Chan was known by the pen-name Batu Gantong (literally “Hanging Rock”), whic
 [^11]:Yoong &amp; Zainab, Dec 2002, p. 7.
 [^12]:Yoong &amp; Zainab, Dec 2004, p. 186.
 [^13]:[Proudfoot](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=6712616), 1993, p. 23.
-[^14]:[National Library Board](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1337_2008-10-07.html), 2008.
-[^15]:[National Library Board](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1337_2008-10-07.html), 2008.
-[^16]:[National Library Board](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1337_2008-10-07.html), 2008; *Discovering the streets of George Town*. (n. d.). Retrieved from Vintage Malaya website.
+[^14]:[National Library Board](https://www.nlb.gov.sg/main/article-detail?cmsuuid=e1e30cac-63e2-416e-b5df-83ba1f041cb3), 2008.
+[^15]:[National Library Board](https://www.nlb.gov.sg/main/article-detail?cmsuuid=e1e30cac-63e2-416e-b5df-83ba1f041cb3), 2008.
+[^16]:[National Library Board](https://www.nlb.gov.sg/main/article-detail?cmsuuid=e1e30cac-63e2-416e-b5df-83ba1f041cb3), 2008; *Discovering the streets of George Town*. (n. d.). Retrieved from Vintage Malaya website.

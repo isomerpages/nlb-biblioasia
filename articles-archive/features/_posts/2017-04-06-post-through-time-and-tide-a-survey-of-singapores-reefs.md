@@ -4,6 +4,7 @@ date: 2017-04-06
 permalink: /vol-13/issue-1/apr-jun-2017/through-time-and-tide/
 image: /images/Vol-13-issue-1/through-time-and-tide/01_timeandtide.png
 layout: post
+variant: markdown
 ---
 #### The reefs that fringed Singapore’s coastline and islands have served for centuries as maritime markers, fishing grounds and even homes for island communities. **Marcus Ng** rediscovers the stories that lurk beneath the waves.
 
@@ -111,7 +112,7 @@ The impending loss[^36] of Pulau Rengit was mourned by Singapore’s nascent mar
 
 In 2001, when word got out that Chek Jawa at Pulau Ubin was slated for reclamation by year-end, the marine conservation community felt, as Sivasothi put it, that “this time, we could do better”. They mobilised, with the help of the then burgeoning internet, to invite Singaporeans to a “last chance to see” Chek Jawa and its diverse marine life. The memory and lessons of Pulau Seringat were still fresh and the experience prompted the museum to initiate large-scale walks at Chek Jawa to share the beauty and biodiversity of this shore with the public.
 
-<div style="background-color: white;"><img style= "width:400px" src="/images/Vol-13-issue-1/through-time-and-tide/05_timeandtide.jpg">Smooth ribbon seagrass (<i>Cymodocea rotundata</i> growing in abundance at the seagrass lagoon at Chek Jawa. <i>Photo taken by Ria Tan on 27 November 2004. Courtesy of WildSingapore.</i></div>
+<div style="background-color: white;"><img style="width:400px" src="/images/Vol-13-issue-1/through-time-and-tide/05_timeandtide.jpg">Smooth ribbon seagrass (<i>Cymodocea rotundata</i> growing in abundance at the seagrass lagoon at Chek Jawa. <i>Photo taken by Ria Tan on 27 November 2004. Courtesy of WildSingapore.</i></div>
 
 Teams of volunteers led walks that exposed Chek Jawa to thousands of visitors, while press coverage of the campaign gave rise to broad-based appeals for the preservation of the coastal wetland. At the eleventh hour, on 20 December 2001, the government announced a 10-year deferment of reclamation for Chek Jawa.
 
@@ -123,7 +124,7 @@ Rather fittingly, Singapore’s first marine park was carved out on the doorstep
 
 To board a ferry or bumboat bound for the southern islands and reefs[^43] from the pier at Marina South is to tread back in time and catch sight of the mainland as sailors and sojourners once beheld it – a strip of promised land sandwiched between the sky and seething sea.
 
-<div style="background-color: white;"><img style= "width:550px" src="/images/Vol-13-issue-1/through-time-and-tide/06_timeandtide.jpg">High tide at the Chek Jawa boardwalk. <i>Photo taken by Ria Tan on 19 October 2008. Courtesy of WildSingapore.</i></div>
+<div style="background-color: white;"><img style="width:550px" src="/images/Vol-13-issue-1/through-time-and-tide/06_timeandtide.jpg">High tide at the Chek Jawa boardwalk. <i>Photo taken by Ria Tan on 19 October 2008. Courtesy of WildSingapore.</i></div>
 
 It is also a trip, not to the southern margins of an island nation, but to where Singapore first took shape and entered the imagination as an entity, an island at the junction of empires that first enthralled a Palembang prince and later an employee of a British trading company – a point of departure from landlocked vistas to an archipelago of reefs, shoals and islands, a landscape that remains to this day in flux and in thrall to the tides.
 
@@ -137,7 +138,7 @@ It is also a trip, not to the southern margins of an island nation, but to where
 
 #### **NOTES**
 
-[^1]:The island Margaret Leong described is really a reef, as it vanishes at high tide. See Leong, M. (2011). Winking island (p. 16). In S. Lim & A. Poon. (Eds.), *[The ice ball man and other poems](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13927790)*. Singapore: Ethos Books. (Call no.: JRSING 811 LEO)
+[^1]:The island Margaret Leong described is really a reef, as it vanishes at high tide. See Leong, M. (2011). Winking island (p. 16). In S. Lim &amp; A. Poon. (Eds.), *[The ice ball man and other poems](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13927790)*. Singapore: Ethos Books. (Call no.: JRSING 811 LEO)
 
 [^2]:Renamed Sentosa in 1970, the island’s ominous Malay name, literally “behind dead island”, was thought to have stemmed from its pestilential reputation. However, the toponym *Blacan Mati* was already in use by the 1600s.
 
@@ -147,7 +148,7 @@ It is also a trip, not to the southern margins of an island nation, but to where
 
 [^5]:The mystery was solved only in 1886 when a French surgeon, Charles Louis Alphonse Laveran, discovered microscopic parasites in the blood of malaria victims. It took another decade before British doctor Ronald Ross confirmed that mosquitoes were the vectors that transmitted the microbes.
 
-[^6]:[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18481102-1.2.4). (1848, November 2). *The Singapore Free Press and Mercantile Advertiser* (1835–1869), p. 1. Retrieved from NewspaperSG; Horsburgh, J. (1841). *[India Directory, or, directions for sailing to and from the East Indies, China, Australia, and the interjacent ports of Africa and South America](http://eresources.nlb.gov.sg/printheritage/detail/f7ddd308-6a2d-485f-87e6-9162ba9e5066.aspx)* (Vol.2, p. 266). London: W. H. Allen & Co. Retrieved from BookSG.
+[^6]:[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singfreepressa18481102-1.2.4). (1848, November 2). *The Singapore Free Press and Mercantile Advertiser* (1835–1869), p. 1. Retrieved from NewspaperSG; Horsburgh, J. (1841). *[India Directory, or, directions for sailing to and from the East Indies, China, Australia, and the interjacent ports of Africa and South America](http://eresources.nlb.gov.sg/printheritage/detail/f7ddd308-6a2d-485f-87e6-9162ba9e5066.aspx)* (Vol.2, p. 266). London: W. H. Allen &amp; Co. Retrieved from BookSG.
 
 [^7]:Winstedt, R. (1964). *[A practical modern Malay-English dictionary](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=3727340)* (p. 133). Kuala Lumpur; Singapore: Marican. (Call no.: Malay RSING 499.230321 WIN)
 
@@ -159,7 +160,7 @@ It is also a trip, not to the southern margins of an island nation, but to where
 
 [^11]:Lee Kong Chian Natural History Museum. (2017). *Cyrene Reef*. Retrieved from The DNA of Singapore website.
 
-[^12]:Walter, M.A.H.B., & Riaz Hassan (1977). *[An island community in Singapore: A characterization of a marginal society](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081905)* (p. 22). Singapore: Chopmen Enterprises. (Call no.: RSING 301.4443 WAL)
+[^12]:Walter, M.A.H.B., &amp; Riaz Hassan (1977). *[An island community in Singapore: A characterization of a marginal society](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081905)* (p. 22). Singapore: Chopmen Enterprises. (Call no.: RSING 301.4443 WAL)
 
 [^13]:Terumbu Raya still exists, and lies between Pulau Sudong and Pulau Semakau.
 
@@ -171,11 +172,11 @@ It is also a trip, not to the southern margins of an island nation, but to where
 
 [^17]:Tan, W. (2013, February 1). [Three more nature areas to be conserved under land use plan](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/today20130201-2.2.10.3). *Today*, p. 6. Retrieved from NewspaperSG.
 
-[^18]:Haughton, 1889, p. 77; National Library Board. (2016). *[Sentosa Cove](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1547_2009-07-27.html)* written by Chew, Valerie. Retrieved from Singapore Infopedia website.
+[^18]:Haughton, 1889, p. 77; National Library Board. (2016). *[Sentosa Cove](https://www.nlb.gov.sg/main/article-detail?cmsuuid=962e4da2-bc50-4bed-8d65-6673de51b742)* written by Chew, Valerie. Retrieved from Singapore Infopedia website.
 
 [^19]:[Lighters’ new mooring site](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19830519-1.2.61). (1983, May 19). *The Straits Times*, p. 17. Retrieved from NewspaperSG.
 
-[^20]:Low, A., & Wong, K.C. (1984, December 11). [The old men of the sea](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19841211-1.2.35.1). *The Straits Times*, p. 18. Retrieved from NewspaperSG.
+[^20]:Low, A., &amp; Wong, K.C. (1984, December 11). [The old men of the sea](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19841211-1.2.35.1). *The Straits Times*, p. 18. Retrieved from NewspaperSG.
 
 [^21]:Tan, H.Y. (1995, November 22). [Singapore islands get new names with reclamation](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19951122-1.2.10.4). *The Straits Times*, p. 3. Retrieved from NewspaperSG.
 
@@ -191,7 +192,7 @@ It is also a trip, not to the southern margins of an island nation, but to where
 
 [^27]:[Legislative Council](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19021213-1.2.32). (1902, December 13). *The Straits Times*, p. 5. Retrieved from NewspaperSG.
 
-[^28]:Gibson-Hill, C.A. (1957, December). [Singapore Old Strait & New Harbour, 1300–1870](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4077989). *Memoirs of the Raffles Museum, 3*, p.167. (Call no.: RCLOS 959.51 BOG)
+[^28]:Gibson-Hill, C.A. (1957, December). [Singapore Old Strait &amp; New Harbour, 1300–1870](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4077989). *Memoirs of the Raffles Museum, 3*, p.167. (Call no.: RCLOS 959.51 BOG)
 
 [^29]:Gibson-Hill, May 1954, pp. 168–185.
 

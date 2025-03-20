@@ -4,6 +4,7 @@ permalink: /vol-16/issue-4/jan-mar-2021/kunnuck/
 date: 2021-01-01T00:00:00.000Z
 breadcrumb: The Extraordinary Life of Kunnuck Mistree
 third_nav_title: The Extraordinary Life of Kunnuck Mistree
+variant: markdown
 ---
 #### Indian convicts contributed much to the early infrastructural development of Singapore but their voices have rarely been heard. **Vandana Aggarwal** uncovers the story of one convict who made good.
 
@@ -201,7 +202,7 @@ I first came across Kunnuck Mistree’s name in 2015 while transcribing the Stra
 
 [^16]: National Archives of Singapore The Citizen Archivist Project. (1855). *[M4: Singapore: Letters from Bengal to the Resident](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?itemId=46281&amp;collectionId=174)* [Media no.: SSR/M004_0233]. Retrieved from National Archives of Singapore website.
 
-[^17]: Tyers, R. K. (1993). *[Ray Tyers’ Singapore: Then and now](http://eservice.nlb.gov.sg/item_holding.aspx?bid=6442235)* (p. 24). Singapore: Landmark Books. (Call no.: RSING 959.57 TYE-[HIS]); Edwards, N., &amp; Keys, P. (1988). *[Singapore: A guide to buildings, streets, places](http://eservice.nlb.gov.sg/item_holding.aspx?bid=4712298)* (p. 283). Singapore: Times Books International. (Call no.: RSING 915.957 EDW-[TRA]); Cornelius-Takahama, V. (2016). *[Bencoolen Street](https://eresources.nlb.gov.sg/infopedia/articles/SIP_174_2005-01-25.html)*. Retrieved from Singapore Infopedia, National Library Singapore; [Raffles](https://eresources.nlb.gov.sg/printheritage/detail/6dd159de-811f-4012-9b43-01676a9c49a7.aspx), 1830, p. 299.
+[^17]: Tyers, R. K. (1993). *[Ray Tyers’ Singapore: Then and now](http://eservice.nlb.gov.sg/item_holding.aspx?bid=6442235)* (p. 24). Singapore: Landmark Books. (Call no.: RSING 959.57 TYE-[HIS]); Edwards, N., &amp; Keys, P. (1988). *[Singapore: A guide to buildings, streets, places](http://eservice.nlb.gov.sg/item_holding.aspx?bid=4712298)* (p. 283). Singapore: Times Books International. (Call no.: RSING 915.957 EDW-[TRA]); Cornelius-Takahama, V. (2016). *[Bencoolen Street](https://www.nlb.gov.sg/main/article-detail?cmsuuid=de147abf-4843-4d23-acfd-83128101d728)*. Retrieved from Singapore Infopedia, National Library Singapore; [Raffles](https://eresources.nlb.gov.sg/printheritage/detail/6dd159de-811f-4012-9b43-01676a9c49a7.aspx), 1830, p. 299.
 
 [^18]: National Archives of Singapore The Citizen Archivist Project. (1858). *[S26: Vol. I/II: Governor’s letters from Bengal](https://www.nas.gov.sg/citizenarchivist/Documents/Transcribe?itemId=6427&amp;collectionId=44)* [Media no.: SSR/S026_00890]. Retrieved from National Archives of Singapore website.
 

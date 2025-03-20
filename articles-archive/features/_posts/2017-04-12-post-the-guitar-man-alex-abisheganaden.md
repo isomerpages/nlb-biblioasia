@@ -93,7 +93,7 @@ Abisheganaden died peacefully at St Luke’s Hospital on 17 March 2023, aged 97.
 
 <span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"><b>THE ABISHEGANADEN COLLECTION HIGHLIGHTS</b>
 <br><br>
-Among the items Alex Abisheganaden donated to the National Library are his handwritten scores, pedagogical notes on teaching the guitar as well as his private collection of books on the double bass, guitar ensemble and choral singing. In view of copyright restrictions, only the handwritten materials have been digitised and made accessible on <a href="http://eresources.nlb.gov.sg/music">MusicSG</a> – Singapore’s premier digital music archive. His other donated materials are available for reference at the Lee Kong Chian Reference Library and the Library@Esplanade.
+Among the items Alex Abisheganaden donated to the National Library are his handwritten scores, pedagogical notes on teaching the guitar as well as his private collection of books on the double bass, guitar ensemble and choral singing. In view of copyright restrictions, only the handwritten materials have been digitised and made accessible on <a href="https://www.nlb.gov.sg/main/nlonline">National Library Online</a> – Singapore’s premier digital music archive. His other donated materials are available for reference at the Lee Kong Chian Reference Library and the Library@Esplanade.
 <br><br>
 Here is a selection of original handwritten scores donated by Abisheganaden.
 <br><br>
@@ -212,9 +212,9 @@ Low, Y.L. (1988, July). Plucking the strings to his heart. *[Singapore Tatler](h
 
 Nanda, A. (2011, October 17). [Strings of passion](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20111017-1.2.56.1.2). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
-National Library Board. (2008). *[Alex Abisheganaden](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1360_2008-07-27.html)* written by Chang, Tou Liang. Retrieved from Singapore Infopedia website.
+National Library Board. (2008). *[Alex Abisheganaden](https://www.nlb.gov.sg/main/article-detail?cmsuuid=e831e20c-b8cd-44d3-bd85-36abb2049a92)* written by Chang, Tou Liang. Retrieved from Singapore Infopedia website.
 
-National Library Board. (2017, February 17). *[Jacintha Abisheganaden](http://eresources.nlb.gov.sg/infopedia/articles/SIP_2015-02-17_110409.html)* written by Ho, Stephanie. Retrieved from Singapore Infopedia website.
+National Library Board. (2017, February 17). *[Jacintha Abisheganaden](https://www.nlb.gov.sg/main/article-detail?cmsuuid=c7df2ead-00cf-46ce-8222-b491537c01ad)* written by Ho, Stephanie. Retrieved from Singapore Infopedia website.
 
 National University of Singapore Guitar Ensemble. (2016). *Our Founder – Alex Abisheganaden*. Retrieved from National University of Singapore Guitar Ensemble website.
 
@@ -226,7 +226,7 @@ National Library Board. (2008). *[Huan Yin–Vanakam](https://eresources.nlb.gov
 
 National Library Board. (1995). *[Katong blues: [music score]](https://eresources.nlb.gov.sg/arts/website/Contents/ArticleDetails.aspx?Id=bc5bc824-3add-4197-b8cb-0c7d5a9d3d3f)*. Retrieved from NORA.
 
-National Library Board. (2017). *[Cultural Medallion](http://eresources.nlb.gov.sg/infopedia/articles/SIP_1867_2012-01-30.html)* written by Tan, Isabel. Retrieved from Singapore Infopedia website.
+National Library Board. (2017). *[Cultural Medallion](https://www.nlb.gov.sg/main/article-detail?cmsuuid=4acba74f-e6ee-4756-893d-914f6cf70c6d)* written by Tan, Isabel. Retrieved from Singapore Infopedia website.
 
 National University of Singapore. (2016). *NUS Guitar Ensemble*. Retrieved from National University of Singapore website.
 

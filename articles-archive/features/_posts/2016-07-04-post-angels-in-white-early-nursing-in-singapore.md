@@ -4,6 +4,7 @@ date: 2016-07-04
 permalink: /vol-12/issue-2/jul-sep-2016/angels-in-white/
 image: /images/Vol-12-issue-2/angels-in-white/02-angelsinwhite.jpg
 layout: post
+variant: markdown
 ---
 #### In the 1820s, some “nurses” in Singapore were actually chained convicts. **Pattarin Kusolpalin** chronicles the history of nursing from 1819 until Independence.
 
@@ -131,7 +132,7 @@ In 1934, Simmons was promoted to Public Health Matron for rural Singapore. Durin
 <br><br>
 Simmons retired to England in 1948, after having overseen a drop in the infant mortality rate from 263 deaths per 1,000 babies in 1927 to an exceptional record of 57 deaths per 1,000 babies that year. This was a feat especially when viewed against the backdrop of a rising birth rate. She later moved to Scotland, where she died in 1958.
 <br><br>
-Extracted from Singapore Infopedia: National Library Board. (2013, March 25). <a href="https://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-05-14_135054.html">Ida Simmons</a> written by Sutherland, Duncan. Retrieved from Singapore Infopedia website.</div>
+Extracted from Singapore Infopedia: National Library Board. (2013, March 25). <a href="https://www.nlb.gov.sg/main/article-detail?cmsuuid=9f3cabb0-117f-46bf-975d-f68c82cc7336l">Ida Simmons</a> written by Sutherland, Duncan. Retrieved from Singapore Infopedia website.</div>
 
 <div style="background-color: white;">
 <br>
@@ -177,7 +178,7 @@ Mudeliar, V., Nair, C.R.S., &amp; Norris, R.P. (Eds). (1979). *[Development of h
 
 [Municipal Singapore](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19091117-1.2.21.aspx). (1909, November 17). *The Straits Times*, p. 6. Retrieved from NewspaperSG.
 
-National Library Board. (2016). *[Singapore General Hospital](http://eresources.nlb.gov.sg/infopedia/articles/SIP_383_2005-01-03.html)* written by Naidu, Ratnala Thulaja. Retrieved from Singapore Infopedia website.
+National Library Board. (2016). *[Singapore General Hospital](https://www.nlb.gov.sg/main/article-detail?cmsuuid=3ad30be8-b4e4-4524-acd4-43b085fa2b12)* written by Naidu, Ratnala Thulaja. Retrieved from Singapore Infopedia website.
 
 [Page 7 Advertisements Column 1](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes18870812-1.2.34.1.aspx). (1887, August 12). *The Straits Times*, p. 7. Retrieved from NewspaperSG.
 

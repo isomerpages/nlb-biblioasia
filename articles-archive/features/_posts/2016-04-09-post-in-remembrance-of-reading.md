@@ -4,6 +4,7 @@ date: 2016-04-09
 permalink: /vol-12/issue-1/apr-jun-2016/remembrance-reading/
 image: /images/Vol-12-issue-1/in-remembrance-of-reading/01_reading.jpg
 layout: post
+variant: markdown
 ---
 #### Our memories of reading are inextricably linked to the joy we derive from reading books and the places where we read them. **Loh Chin Ee** explains why.
 
@@ -45,7 +46,7 @@ For Chinese books, readers would go to Chinese bookshops in Golden Mile Complex 
 
 While reading is often perceived as a solitary activity, there is in fact much social interaction that takes place around reading and readers. In a speech made at the 10th anniversary celebration of KidsRead, a National Library Board (NLB) programme where volunteers read to children of low-income families, Prime Minister Lee Hsien Loong shared how his mother, the late Madam Kwa Geok Choo, used to read to him as a child.[^11] A favourite book was *The Story About Ping*, about a duckling living with his family on a boat on the Yangtze River.  Reading, as this case illustrates, becomes pleasurable parent-child bonding time over stories. It is also a form of apprenticeship, where parents teach (often without trying) their children how to read and to engage in reading for pleasure.
 
-<div style="background-color: white;"><img style="width:400px" src="/images/Vol-12-issue-1/in-remembrance-of-reading/04_reading.bmp">Prime Minister Lee Hsien Loong’s mother, the late Madam Kwa Geok Choo, used to read this book to him as a child, about a duckling living with his family on a boat on the Yangtze River. <i>All rights reserved, Flack, M., & Wiese, K. (2014).The Story About Ping. New York, USA: Grosset & Dunlap.</i></div>
+<div style="background-color: white;"><img style="width:400px" src="/images/Vol-12-issue-1/in-remembrance-of-reading/04_reading.bmp">Prime Minister Lee Hsien Loong’s mother, the late Madam Kwa Geok Choo, used to read this book to him as a child, about a duckling living with his family on a boat on the Yangtze River. <i>All rights reserved, Flack, M., &amp; Wiese, K. (2014).The Story About Ping. New York, USA: Grosset &amp; Dunlap.</i></div>
 
 When Borders was launched, it tried to create a community of readers. It brought a different concept of the bookshop experience to Singaporeans, encouraging browsing and reading within its premises with books that were not shrink-wrapped and providing sofas and arm chairs for this express purpose – although many chose to sit (or sprawl) on the carpeted floors to read. Borders was ahead of its time in Singapore, organising various activities such as book launches and book discussions and workshops to engage the community in reading.[^12] The presence of Borders resulted in the transformation of the bookshop landscape with MPH and Times revamping their store layouts and Japanese book retailer Kinokuniya expanding its business in Singapore with a capacious outlet at Ngee Ann City in 1999. Although Borders closed in 2011, in part due to poor sales as well as the declining fortunes of its parent company in Australia, it helped significantly in repositioning the entertainment value of reading in Singapore.
 
@@ -59,7 +60,7 @@ While how we buy and read books today has changed with the presence of online bo
 
 <div style="background-colour:#fdf5e6; padding:20px; margin: 20px; background: #fdf5e6"><b>EDMUND CHEN: READING WUXIA AND BEYOND</b>
 <br><br>
-<img style="width:400px"  src="/images/Vol-12-issue-1/in-remembrance-of-reading/06_reading.bmp">
+<img style="width:400px" src="/images/Vol-12-issue-1/in-remembrance-of-reading/06_reading.bmp">
 <br><br>
 Edmund Chen is a multi-talented artiste who is well-known in Singapore as an actor, director and producer. Much less publicised is the fact that he is also a gifted storyteller and illustrator who has designed a series of stamps for SingPost (the otter and panda series), set a Guinness World Record for “The Longest Drawing by an Individual” (at an impressive 601 metres), and published several Chinese-language  children’s books.
 <br><br>
@@ -75,7 +76,7 @@ Ever the sentimental person, Edmund has two rented storerooms where he stores so
 
 <div style="background-colour:#fdf5e6; padding:20px; margin: 20px; background: #fdf5e6"><b>RHONDA MYRA GARCES-BACSAL: GATHERING READERS</b>
 <br><br>
-<img style="width:400px"   src="/images/Vol-12-issue-1/in-remembrance-of-reading/07_reading.bmp">
+<img style="width:400px" src="/images/Vol-12-issue-1/in-remembrance-of-reading/07_reading.bmp">
 <br><br>
 Myra’s enthusiasm for reading is contagious. As the co-founder of Gathering Books (gatheringbooks.org), a website celebrating books, an organiser of the Asian Festival of Children’s Content, and the enthusiastic leader of three book clubs in Singapore, much of Myra’s waking hours are spent reading and promoting books. All this is in addition to her busy day job as Assistant Professor at the National Institute of Education, where she specialises in the study of gifted children.
 <br><br>
@@ -89,7 +90,7 @@ When I asked Myra about how she finds time to do all that she does, she quotes s
 
 <div style="background-colour:#fdf5e6a; padding:20px; margin: 20px; background: #fdf5e6"><b>THE LEE FAMILY: GENERATIONAL READING</b>
 <br><br>
-<img style="width:500px"   src="/images/Vol-12-issue-1/in-remembrance-of-reading/08_reading.jpg">The family that reads together: Mum Adeline Lee, dad Eng Kiat and their brood of three avid readers, Christabel, aged 12 (left), Isabel, aged 14 (right) and the youngest, eight-year-old Estherbel, in the middle. Photographed on location at the Central Public Library, National Library Building.
+<img style="width:500px" src="/images/Vol-12-issue-1/in-remembrance-of-reading/08_reading.jpg">The family that reads together: Mum Adeline Lee, dad Eng Kiat and their brood of three avid readers, Christabel, aged 12 (left), Isabel, aged 14 (right) and the youngest, eight-year-old Estherbel, in the middle. Photographed on location at the Central Public Library, National Library Building.
 <br><br>
 The Lees are the ultimate poster family for intergenerational reading. In an interview at the Clementi Public Library, they talk about the role of reading in their lives. Mum, Adeline, began the journey with the girls when she decided to use a Christian homeschooling kit called the “American Classical Education” to supplement her children’s education. Using the booklist provided, she bought her children books and read to them – and with them – from an early age. She believes that it’s important to push the children’s reading “to proficiency level” after which they can be left to read and pursue knowledge on their own.
 <br><br>
@@ -127,11 +128,11 @@ When it comes to reading, Adeline and her brother Gary firmly agree that “if y
 
 [^11]:Yong, C. (2014, October 4). PM Lee reads story book to children, extends reading programme for less privileged. *The Straits Times*. Retrieved from *The Straits Times* website.
 
-[^12]:National Library Board. (2014, January 28). *[Borders (Singapore)](https://eresources.nlb.gov.sg/infopedia/articles/SIP2014-01-29182220.html)* written by Goh, Kenneth. Retrieved from Singapore Infopedia website.
+[^12]:National Library Board. (2014, January 28). *[Borders (Singapore)](https://www.nlb.gov.sg/main/article-detail?cmsuuid=ab66eea8-413d-4ba7-9cbf-fc4b072e73a9)* written by Goh, Kenneth. Retrieved from Singapore Infopedia website.
 
 [^13]:Singapore Writers Festival. (2015). S*ingapore Writers Festival: Island of Dreams*. Retrieved from Singapore Writers Festival website.
 
-[^14]:Fuller, D., & Sedo, D.R. (2013) *Reading beyond the book: The social practices of contemporary literary culture*. NY: Routledge. (Not available in NLB holdings)
+[^14]:Fuller, D., &amp; Sedo, D.R. (2013) *Reading beyond the book: The social practices of contemporary literary culture*. NY: Routledge. (Not available in NLB holdings)
 
 [^15]:Ainon Kuntom. (1973). *[Malay newspapers, 1876 to 1973: A historical survey of the literature](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5838940)* (p. 48). (Call no.: RSING q079.5951 AIN)
 

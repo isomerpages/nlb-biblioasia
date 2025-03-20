@@ -4,6 +4,7 @@ date: 2017-10-03
 permalink: /vol-13/issue-3/oct-dec-2017/micro-india/
 image: /images/Vol-13-issue-3/micro-india/01a_microindia.jpg
 layout: post
+variant: markdown
 ---
 #### Market Street, in the heart of the business district, was where Indian moneylenders ran a thriving trade during the colonial era. **Marcus Ng** traces the imprint left by the Chettiars.
 
@@ -71,9 +72,9 @@ In the early 1970s, Market Street was a one-stop shop where local Indians would 
 
 <div style="background-color: white;"><img style="width:700px" src="/images/Vol-13-issue-3/micro-india/07b_microindia.jpg">Chettiar men posing for a photograph in front of the Mercantile Bank in Raffles Place, 1960. <i>Nachiappa Chettiar Collection, courtesy of National Archives of Singapore.</i></div>
 
-Other than the Chettiars, Market Street was an “incubator” site for other Indian as well as non-Indian enterprises. Subbiah recalls being asked by his elders to buy tea from a young wallah named Mustaq Ahmad, who helped his father man a pushcart at a corner of Market Street and Battery Road before going on to helm the outfit now known as Mohamed Mustafa & Shamsudin.[^26] Textile retailer Second Chance occupied a shop lot along Chulia Street in the 1970s, while the headquarters of PGP, a chain of provision stores owned by philanthropist P. Govindasamy Pillai, was located on the upper reaches of Market Street.[^27]
+Other than the Chettiars, Market Street was an “incubator” site for other Indian as well as non-Indian enterprises. Subbiah recalls being asked by his elders to buy tea from a young wallah named Mustaq Ahmad, who helped his father man a pushcart at a corner of Market Street and Battery Road before going on to helm the outfit now known as Mohamed Mustafa &amp; Shamsudin.[^26] Textile retailer Second Chance occupied a shop lot along Chulia Street in the 1970s, while the headquarters of PGP, a chain of provision stores owned by philanthropist P. Govindasamy Pillai, was located on the upper reaches of Market Street.[^27]
 
-Tat Lee Bank[^28] had its headquarters, as well as an iron and steel rolling mill, between two *kittangi*, while various law firms and shipchandlers operated from Chulia (previously Kling) Street, now a mere laneway unlike its sprawling namesake in Georgetown, Penang. Along Malacca Street, the Portuguese Mission owned the neoclassical Nunes Building, designed by Swan & Maclaren[^29] with decorative panels on its façade by Italian sculptor Cavalieri Nolli,[^30] next to which stood the offices of the Lee & Lee legal firm between 1955 and 1969.[^31] Market and Malacca streets also housed the spice trading business of the Jumabhoys from Gujarat, which later expanded into Scotts Holdings.[^32]
+Tat Lee Bank[^28] had its headquarters, as well as an iron and steel rolling mill, between two *kittangi*, while various law firms and shipchandlers operated from Chulia (previously Kling) Street, now a mere laneway unlike its sprawling namesake in Georgetown, Penang. Along Malacca Street, the Portuguese Mission owned the neoclassical Nunes Building, designed by Swan &amp; Maclaren[^29] with decorative panels on its façade by Italian sculptor Cavalieri Nolli,[^30] next to which stood the offices of the Lee &amp; Lee legal firm between 1955 and 1969.[^31] Market and Malacca streets also housed the spice trading business of the Jumabhoys from Gujarat, which later expanded into Scotts Holdings.[^32]
 
 For the young Subbiah, these luminaries were probably mere footnotes, fleeting faces and impressions preserved amid memories of Market Street and playing football on Raffles Place green[^33] after the city was deserted by its workers early in the evening. “The *kittangi* was a fun place to stay,” he muses. Market Street was also part of the route taken by traditional Chingay revellers before the parade took on a less pugilistic turn.[^34] To this day, a *kavadi* procession known as Punar Pusam (see text box below), which begins at the Sri Layan Sithi Vinayagar Temple at Keong Saik Road and ends at Tank Road on the evening before Thaipusam, passes Market Street on its annual circuit.
 
@@ -123,33 +124,33 @@ Accompanied by families and well-wishers, and under the watchful eyes of minders
 
 [^6]:Saivites, who revere Lord Siva as the Supreme God, and Vaishnavites, who revere Lord Vishnu, form two major branches in the Hindu religion.
 
-[^7]:Early banks around Raffles Place such as Union Bank of Calcutta (1840); Chartered Mercantile Bank of India and China (1856); Chartered Bank of India, Australia and China (1861); Hongkong and Shanghai Banking Corporation (1877) and Asiatic Banking Corporation (1860s) would have provided finance mainly to large European trading houses. See National Library Board. (2018). *[Raffles Place](http://eresources.nlb.gov.sg/infopedia/articles/SIP_864_2004-12-30.html)* written by Cornelius, Vernon. Retrieved from Singapore Infopedia website.
+[^7]:Early banks around Raffles Place such as Union Bank of Calcutta (1840); Chartered Mercantile Bank of India and China (1856); Chartered Bank of India, Australia and China (1861); Hongkong and Shanghai Banking Corporation (1877) and Asiatic Banking Corporation (1860s) would have provided finance mainly to large European trading houses. See National Library Board. (2018). *[Raffles Place](https://www.nlb.gov.sg/main/article-detail?cmsuuid=b62dd9d7-ea3c-42b4-a3b7-fd97d601cea4)* written by Cornelius, Vernon. Retrieved from Singapore Infopedia website.
 
 [^8]:It was reported that by 1867, “most of the Singapore opium trade passed through their (Chettiar) hands”. See Mahadevan, R. (1976). The pattern of enterprise of immigrant entrepreneurs in the overseas – A study of the Chettiars in Malaya 1880–1930. *Proceedings of the Indian History Congress, 37*, 446–456, pp. 448–449. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website. 
 
-[^9]:Chua, B.H., & Liu, G. (1989). *[The Golden Shoe: Building Singapore’s financial district](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5390839)*. Singapore: Urban Redevelopment Authority. (Call no: RSING 711.5522095957 CHU)
+[^9]:Chua, B.H., &amp; Liu, G. (1989). *[The Golden Shoe: Building Singapore’s financial district](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=5390839)*. Singapore: Urban Redevelopment Authority. (Call no: RSING 711.5522095957 CHU)
 
 [^10]:Masjid Moulana Mohamed Ali moved to the basement of UOB Plaza after the trustees accepted an offer to accommodate the mosque after the bank acquired the Market Street shophouses for redevelopment. See Yang, W. (1981, February 21). [Mosque in basement if offer taken](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19810221-1.2.72). *The Straits Times*, p. 17. Retrieved from NewspaperSG.
 
 [^11]:Survey Department, Singapore. (1828). *[Plan of the Town of Singapore by Lieut Jackson](http://www.nas.gov.sg/archivesonline/maps_building_plans/record-details/f9926418-115c-11e3-83d5-0050568939ad)*. Retrieved from [National Archives of Singapore](http://www.nas.gov.sg/archivesonline) website.
 
-[^12]:Lee, K.L. (1983). *[Telok Ayer Market: A historical account of the market from the founding of the settlement of Singapore to the present time](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081045)* (unpaged). Singapore: Archives & Oral History Dept. (Call no.: RSING 725.21095957 LEE)
+[^12]:Lee, K.L. (1983). *[Telok Ayer Market: A historical account of the market from the founding of the settlement of Singapore to the present time](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=4081045)* (unpaged). Singapore: Archives &amp; Oral History Dept. (Call no.: RSING 725.21095957 LEE)
 
-[^13]:Sandhu, K.S., & Sandhu, K.K. (1969, September). Some aspects of Indian settlement in Singapore, 1819–1969. *Journal of Southeast Asian History, 10* (2), 193–201, p. 197. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
+[^13]:Sandhu, K.S., &amp; Sandhu, K.K. (1969, September). Some aspects of Indian settlement in Singapore, 1819–1969. *Journal of Southeast Asian History, 10* (2), 193–201, p. 197. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
 
-[^14]:Savage, V.R., & Yeoh, B.S.A. (2013). *[Singapore street names: A study of toponymics](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200123850)* (pp. 248– 250). Singapore: Marshall Cavendish Editions. (Call no.: RSING 915.9570014 SAV) 
+[^14]:Savage, V.R., &amp; Yeoh, B.S.A. (2013). *[Singapore street names: A study of toponymics](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=200123850)* (pp. 248– 250). Singapore: Marshall Cavendish Editions. (Call no.: RSING 915.9570014 SAV) 
 
-[^15]:Thinappan, S.P., & Vairavan, S.N. (2010). *[Nagarathars in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13740606)* (p. 15). Singapore: Navaso. (Call no.: RSING 305.89141105957 THI)
+[^15]:Thinappan, S.P., &amp; Vairavan, S.N. (2010). *[Nagarathars in Singapore](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=13740606)* (p. 15). Singapore: Navaso. (Call no.: RSING 305.89141105957 THI)
 
 [^16]:Muthiah, S., et al. (2000). *[The Chettiar heritage](http://eservice.nlb.gov.sg/item_holding_s.aspx?bid=12101293)* (p. vii). Chennai: The Chettiar Heritage. (Call no.: R 954.089 CHE)
 
-[^17]:Sandhu & Sandhu, Sep 1969, p. 199. The extent of loans to Malay royalty is illustrated by Winstedt who records that “in 1862 being heavily indebted to a Kavana Chana Shellapa Chetty, Sultan Ali [of Singapore] gave this Tamil money-lender the right to sell Muar to the British or the Temenggong of Johor.” See Winstedt, R.O. (1932).  *[A history of Johore: 1365–1895 A. D](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4982685)* (p. 113). Singapore: Singapore Printers, Ltd. (Call no.: RRARE 959.5142 WIN; Microfilm no.: NL 1577)
+[^17]:Sandhu &amp; Sandhu, Sep 1969, p. 199. The extent of loans to Malay royalty is illustrated by Winstedt who records that “in 1862 being heavily indebted to a Kavana Chana Shellapa Chetty, Sultan Ali [of Singapore] gave this Tamil money-lender the right to sell Muar to the British or the Temenggong of Johor.” See Winstedt, R.O. (1932).  *[A history of Johore: 1365–1895 A. D](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4982685)* (p. 113). Singapore: Singapore Printers, Ltd. (Call no.: RRARE 959.5142 WIN; Microfilm no.: NL 1577)
 
 [^18]:*Vibuthi* is the holy ash applied on the foreheads of Saivite Hindus to honour Lord Siva.
 
-[^19]:Sandhu & Sandhu, Sep 1969, p. 199.
+[^19]:Sandhu &amp; Sandhu, Sep 1969, p. 199.
 
-[^20]:[Thinnappan & Vairavan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13740606), 2010, p. 33.
+[^20]:[Thinnappan &amp; Vairavan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13740606), 2010, p. 33.
 
 [^21]:Shylock, an avaricious Jewish moneylender, is a character in William Shakespeare’s play, *The Merchant of Venice*.
 
@@ -157,11 +158,11 @@ Accompanied by families and well-wishers, and under the watchful eyes of minders
 
 [^23]:Ministry of Culture. (1964, August 16). *[Transcript of the prime minister, Mr Lee Kuan Yew’s speech at the political study centre on 16th August, 1964 in connection with the seminar on “the concept of democracy” organised by the joint committee for radio courses](https://www.nas.gov.sg/archivesonline/speeches/record-details/72f820c8-115d-11e3-83d5-0050568939ad)* [Speech]. Retrieved from National Archives of Singapore website.
 
-[^24]:[Thinnappan & Vairavan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13740606), 2010, p. 25.
+[^24]:[Thinnappan &amp; Vairavan](https://eservice.nlb.gov.sg/item_holding.aspx?bid=13740606), 2010, p. 25.
 
 [^25]:Lord Murugan, also known as Sri Thendayuthapani, is a son of Lord Siva and the principal deity at the Chettiars’ Temple. Over a 150-year period, the Chettiars are estimated to have built about 105 temples in Southeast Asia: 59 in Burma, 25 in Ceylon, 18 in Malay, and one each in Vietnam, Singapore and Medan.
 
-[^26]:National Library Board. (2016). *[Mohamed Mustafa and Samsudin Co Pte Ltd](http://eresources.nlb.gov.sg/infopedia/articles/SIP_442_2005-02-03.html)* written by Nureza Ahmad & Noorainn Aziz. Retrieved from Singapore Infopedia website.
+[^26]:National Library Board. (2016). *[Mohamed Mustafa and Samsudin Co Pte Ltd](https://www.nlb.gov.sg/main/article-detail?cmsuuid=a1e406bb-8527-4838-b3ba-3cc46381cafd)* written by Nureza Ahmad &amp; Noorainn Aziz. Retrieved from Singapore Infopedia website.
 
 [^27]:See Boo, K. (1999, September 24). [End of an era](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19990924-1.2.57.3). *The Straits Times*, p. 47. Retrieved from NewspaperSG.
 
@@ -169,18 +170,18 @@ Accompanied by families and well-wishers, and under the watchful eyes of minders
 
 [^29]:[T. F. Hwang takes you down memory](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880625-1.2.34.4). (1988, June 25). *The Straits Times*, p. 22; [Colony cavalcade](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19360426-1.2.23). (1936, April 26). *The Straits Times*, p. 2. Retrieved from NewspaperSG.
 
-[^30]:[Materials used in constructing Nunes and Medeiros](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19371005-1.2.158.7). (1937, October 5). *The Straits Times*, p. 2. Retrieved from NewspaperSG; Davison, J. (2017, Jul–Sep). [Swan & Maclaren: Pioneers of Modernist architecture](https://biblioasia.nlb.gov.sg/vol-13/issue-2/jul-sep-2017/swan-and-maclaren). *BiblioAsia, 13* (2), 24–31, p. 28. Retrieved from BiblioAsia website.
+[^30]:[Materials used in constructing Nunes and Medeiros](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19371005-1.2.158.7). (1937, October 5). *The Straits Times*, p. 2. Retrieved from NewspaperSG; Davison, J. (2017, Jul–Sep). [Swan &amp; Maclaren: Pioneers of Modernist architecture](https://biblioasia.nlb.gov.sg/vol-13/issue-2/jul-sep-2017/swan-and-maclaren). *BiblioAsia, 13* (2), 24–31, p. 28. Retrieved from BiblioAsia website.
 
-[^31]:Lee & Lee. (2017). Retrieved from Lee & Lee website.
+[^31]:Lee &amp; Lee. (2017). Retrieved from Lee &amp; Lee website.
 
 [^32]:Jumabhoy, R. (1982, August 7). [The spice trade article and my family](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820807-1.2.69.2). *The Straits Times*, p. 17. Retrieved from NewspaperSG.
 
-[^33]:Raffles Place was converted to house an underground carpark in 1961 and became a pedestrian zone in 1972. See [National Library Board](https://eresources.nlb.gov.sg/infopedia/articles/SIP_864_2004-12-30.html), 2018.
+[^33]:Raffles Place was converted to house an underground carpark in 1961 and became a pedestrian zone in 1972. See [National Library Board](https://www.nlb.gov.sg/main/article-detail?cmsuuid=b62dd9d7-ea3c-42b4-a3b7-fd97d601cea4), 2018.
 
 [^34]:Sam, J. (1985, February 24). [Fiery start to 1830 lunar year](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19850224-1.2.46.5.1). *Singapore Monitor*, p. 2. Retrieved from NewspaperSG.
 
 [^35]:The *kavadi* is a semi-circular metal structure decorated with peacock feathers, flowers and palm leaves, which devotees carry during the Thaipusam procession, often in fulfilment of a vow. See Hindu Endowments Board. (2016). *Thaipusam*. Retrieved from Hindu Endowments Board website
 
-[^36]:Soundararajan, A., & Sri Asrina Tanuri. (2016, October–December). [Time-honoured temple design](https://biblioasia.nlb.gov.sg/vol-12/issue-3/oct-dec-2016/time-honoured-temple). *BiblioAsia, 12* (3), 36–39, p. 36. Retrieved from BiblioAsia website.
+[^36]:Soundararajan, A., &amp; Sri Asrina Tanuri. (2016, October–December). [Time-honoured temple design](https://biblioasia.nlb.gov.sg/vol-12/issue-3/oct-dec-2016/time-honoured-temple). *BiblioAsia, 12* (3), 36–39, p. 36. Retrieved from BiblioAsia website.
 
 [^37]:This was the Sri Sivan Temple at Dhoby Ghaut, which was relocated to Geylang East to make way for the MRT station in 1983. See Hindu Endowments Board. (2016). *Sri Sivan Temple*. Retrieved from Hindu Endowments Board website.
