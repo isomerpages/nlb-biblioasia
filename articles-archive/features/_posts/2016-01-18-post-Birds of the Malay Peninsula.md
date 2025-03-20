@@ -73,7 +73,7 @@ H. F. &amp; G. Witherby, the publisher of volumes 1 to 4, also produced the fift
 
 [^6]:National Library Board. (2013, March 15). *[Frederick Nutter Chasen](https://www.nlb.gov.sg/main/article-detail?cmsuuid=a14613dd-425d-4462-843b-b6c5df77b8a1)* written by Tan, Fiona. Retrieved from Singapore Infopedia.
 
-[^7]:McClure, E. (1977, September). The Birds of the Malay Peninsula, Vol. 5 by Lord Medway, David R. Wells [review]. *The Wilson Bulletin, 89* (3), 497–498. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg) website; Tweedy, M.W.F. (1946, October). Obituary: Frederick Nutter Chasen. *Ibis, 88* (4), 527. Retrieved from Wiley Online Library; [National Library Board](http://eresources.nlb.gov.sg/infopedia/articles/SIP_2013-05-17_085050.html), 15 Mar 2013.
+[^7]:McClure, E. (1977, September). The Birds of the Malay Peninsula, Vol. 5 by Lord Medway, David R. Wells [review]. *The Wilson Bulletin, 89* (3), 497–498. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg) website; Tweedy, M.W.F. (1946, October). Obituary: Frederick Nutter Chasen. *Ibis, 88* (4), 527. Retrieved from Wiley Online Library; [National Library Board](https://www.nlb.gov.sg/main/article-detail?cmsuuid=a14613dd-425d-4462-843b-b6c5df77b8a1), 15 Mar 2013.
 
 [^8]:[Malayan birds](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19480111-1.2.52). (1948, January 11). *The Straits Times*, p. 4. Retrieved from NewspaperSG.
 
