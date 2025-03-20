@@ -149,7 +149,7 @@ Murphy, C. (2003, July 3). Destination Singapore – Pulau Ubin abode for Thai m
 
 National Heritage Board. (2013, March 14). <i>Pulau Ubin</i>. Singapore: National Heritage Board. Retrieved from Roots.sg website.
 
-Chua, A. (2009). *[The Causeway](https://eresources.nlb.gov.sg/infopedia/articles/SIP_99_2004-12-30.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
+Chua, A. (2009). *[The Causeway](https://www.nlb.gov.sg/main/article-detail?cmsuuid=74fd954b-2970-4c10-a74f-5df4c22eee28)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
 Chew, V. (2009). *[Housing and Development Board](https://eresources.nlb.gov.sg/infopedia/articles/SIP_1589_2009-10-26.html)*. Retrieved from Singapore Infopedia, National Library Singapore.
 
