@@ -122,7 +122,7 @@ The decision sparked public calls to preserve the building. However, the demolit
 ![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_nlb.jpg)
 <div>The National Library Building on Victoria Street, 2020. <i>Collection of the National Library Singapore. </i></div>
 
-Although the National Library building on Stamford Road no longer exists, its entrance pillars are preserved within the grounds of the Singapore Management University. Some of the red bricks were salvaged and utilised for the construction of the wall of the bamboo garden at the Basement 1 Central Public Library in the new building. The St Andrew’s Cross –  a geometric floor pattern consisting of four adjoining crosses – that used to adorn the floor of the entrance at the Stamford Road building was moved to a space outside the new building.[^12]
+Although the National Library building on Stamford Road no longer exists, its entrance pillars are preserved within the grounds of the Singapore Management University. Some of the red bricks were salvaged and utilised for the construction of the wall of the garden at the Basement 1 Central Public Library in the new building. The St Andrew’s Cross –  a geometric floor pattern consisting of four adjoining crosses – that used to adorn the floor of the entrance at the Stamford Road building was moved to a space outside the new building.[^12]
 
 ![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_pillarsh.jpg)
 <div>The entrance pillars of the former National Library are preserved within the grounds of the Singapore Management University. <i>Collection of the National Musuem of Singapore, National Heritage Board. </i></div>
