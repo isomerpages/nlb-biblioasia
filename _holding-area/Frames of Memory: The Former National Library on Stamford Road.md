@@ -124,7 +124,7 @@ The decision sparked public calls to preserve the building. However, the demolit
 
 Although the National Library building on Stamford Road no longer exists, its entrance pillars are preserved within the grounds of the Singapore Management University. Some of the red bricks were salvaged and utilised for the construction of the wall of the bamboo garden at the Basement 1 Central Public Library in the new building. The St Andrew’s Cross –  a geometric floor pattern consisting of four adjoining crosses – that used to adorn the floor of the entrance at the Stamford Road building was moved to a space outside the new building.[^12]
 
-![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_pillars.jpg)
+![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_pillarsh.jpg)
 <div>The entrance pillars of the former National Library are preserved within the grounds of the Singapore Management University. <i>Collection of the National Musuem of Singapore, National Heritage Board. </i></div>
 
 Its literary heritage lives on in the National Collection at the Lee Kong Chian Reference Library within the new building. Additionally, the stories and memories of users and patrons of the former National Library have been recorded in publications and in oral history interviews with the National Archives of Singapore. These efforts will ensure that the legacy of the red-brick building will not be lost to future generations.[^13]
@@ -157,13 +157,13 @@ Its literary heritage lives on in the National Collection at the Lee Kong Chian 
 [^5]: National Library Board Singapore, [_Report: 5th December 1960 to 30th September 1963_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3408747) (Singapore: Government Printing Office, 1963), 4, 9. (From National Library Singapore, call no. RCLOS 027.55957 SIN)
 
 
-[^6]: National Library Singapore, [_Annual Report 1964_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3408747) (Singapore: Government Printing Office, 1967), 1. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); National Library Singapore, [_South East Asia Collection_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7858509) (Singapore: Government Printing Office, 1964), 2–6. (From National Library Singapore, call no. RCLOS 027.55957 SIN)
+[^6]: National Library Singapore, [_Annual Report 1964_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3408747) (Singapore: Government Printing Office, 1967), 1. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); National Library Singapore, [_South East Asia Collection_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4981291) (Singapore: Government Printing Office, 1964), 2–6. (From National Library Singapore, call no. RCLOS 027.55957 SIN)
 
 
 [^7]: S. Rajaratnam, “[The Opening of the South East Asia Room and Presentation of the Ya Yin Kwan Collection by Mr. Tan Yeok Seong](https://www.nas.gov.sg/archivesonline/speeches/record-details/78d8ebbf-115d-11e3-83d5-0050568939ad),” speech, National Library, 28 August 1964, transcript. (From National Archives of Singapore, document no. PressR19640828)
 
 
-[^8]: National Library Singapore, [_Annual Report 1964_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3408747), 1; National Library Singapore, [_South East Asia Collection_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7858509), 2–6.&nbsp;
+[^8]: National Library Singapore, [_Annual Report 1964_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3408747), 1; National Library Singapore, [_South East Asia Collection_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4981291), 2–6.&nbsp;
 
 
 [^9]: Claudette Peralta, “[National Library's $2.6m Facelift](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19970312-1.2.7.1),” _Straits Times_, 12 March 1997, 2. (From NewspaperSG)
