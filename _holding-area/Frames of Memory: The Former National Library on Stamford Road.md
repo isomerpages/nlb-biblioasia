@@ -62,6 +62,9 @@ With a seating capacity of more than 400, visitors also had access to equipment 
 <div>A library user using a microfilm reader, 1960s. <i>Collection of the National Library Singapore.
 </i></div>
 
+![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_catalogue.jpg)
+<div>Before computerisation, users searched for library materials at the National Library using card catalogues, 1960s. <i>Collection of the National Library Singapore.</i></div>
+
 #### **A Treasure Trove**
 
 On 28 August 1964, the South East Asia Room at the National Library opened as a dedicated space “devoted solely to the study of South East Asia”. This specialised room housed a large collection of materials on Singapore and the region that the library had accumulated since its establishment in 1823.[^6]
@@ -88,9 +91,6 @@ The National Library owed much of its success and impact to its staff. At the re
 <div>Helping a reader with enquiries at the National Library, 1970s. <i>Collection of the National Library Singapore.</i></div>
 
 Behind the scenes, countless library staff handled essential duties such as acquiring new materials, cataloguing, compiling the national bibliography, and undertaking conservation and preservation work like microfilming and book repairs.&nbsp;
-
-![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_catalogue.jpg)
-<div>Before computerisation, users searched for library materials at the National Library using card catalogues, 1960s. <i>Collection of the National Library Singapore.</i></div>
 
 #### **A New Chapter**
 
@@ -158,7 +158,7 @@ Its literary heritage lives on in the National Collection at the Lee Kong Chian 
 [^5]: National Library Board Singapore, [_Report: 5th December 1960 to 30th September 1963_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3408747) (Singapore: Government Printing Office, 1963), 4, 9. (From National Library Singapore, call no. RCLOS 027.55957 SIN)
 
 
-[^6]: National Library Singapore, [_Annual Report 1964_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3408747) (Singapore: Government Printing Office, 1967), 1. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); National Library Singapore, [_South East Asia Collection_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7858509) (Singapore: Government Printing Office, 1965), 2–6. (From National Library Singapore, call no. RCLOS 027.55957 SIN)
+[^6]: National Library Singapore, [_Annual Report 1964_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3408747) (Singapore: Government Printing Office, 1967), 1. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); National Library Singapore, [_South East Asia Collection_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7858509) (Singapore: Government Printing Office, 1964), 2–6. (From National Library Singapore, call no. RCLOS 027.55957 SIN)
 
 
 [^7]: S. Rajaratnam, “[The Opening of the South East Asia Room and Presentation of the Ya Yin Kwan Collection by Mr. Tan Yeok Seong](https://www.nas.gov.sg/archivesonline/speeches/record-details/78d8ebbf-115d-11e3-83d5-0050568939ad),” speech, National Library, 28 August 1964, transcript. (From National Archives of Singapore, document no. PressR19640828)
