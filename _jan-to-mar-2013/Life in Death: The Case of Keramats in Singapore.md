@@ -159,7 +159,7 @@ Yahya. (1939, June 11). [Singapore’s keramats: Wonder-working shrines sacred t
 
 [^11]: Chambert-Loir, Henri. (2002) “Saints and ancestors: The cult of Muslim saints in Java” in _[The Potent Dead: Ancestors, Saints and Heroes in Contemporary Indonesia](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11147938)_, quoted in Goh (2011, p. 154).
 
-[^12]: For a better understanding of Kusu Island, please refer to National Library Board. (2016, September 16). [_Kusu Island_](https://eresources.nlb.gov.sg/infopedia/articles/SIP_233_2005-01-20.html) &nbsp;written by Vernon Cornelius-Takahama. Retrieved from Singapore Infopedia.
+[^12]: For a better understanding of Kusu Island, please refer to National Library Board. (2016, September 16). [_Kusu Island_](https://www.nlb.gov.sg/main/article-detail?cmsuuid=88b893d8-6da3-45a9-ab08-c2b795c989cc) &nbsp;written by Vernon Cornelius-Takahama. Retrieved from Singapore Infopedia.
 
 [^13]: [Month-long Kusu pilgrimage begins next week](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper20121010-1.2.3.12.7). (2012, October 9). _The New Paper_, pp. 8–9. Retrieved from NewspaperSG.
 
