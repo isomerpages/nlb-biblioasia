@@ -4,6 +4,7 @@ permalink: /vol-16/issue-4/jan-mar-2021/modern-by-design/
 date: 2021-01-01T00:00:00.000Z
 breadcrumb: Becoming Modern By Design
 third_nav_title: Becoming Modern By Design
+variant: markdown
 ---
 <style>
 table { 
@@ -197,7 +198,7 @@ By making design education accessible to the man in the street, BVI was instrume
 
 [^6]: Ministry of Education. (1964–1969). *[Proposed Queenstown Vocational Institute for manual and applied arts – training](https://www.nas.gov.sg/archivesonline/government_records/record-details/94abee4b-1159-11e3-83d5-0050568939ad)*. Retrieved from National Archives of Singapore website.
 
-[^7]: Creamer, R. (2016). *[Iskandar Jalil](https://eresources.nlb.gov.sg/infopedia/articles/SIP_267_2005-01-13.html)*. Retrieved from Singapore Infopedia, National Library, Singapore.
+[^7]: Creamer, R. (2016). *[Iskandar Jalil](https://www.nlb.gov.sg/main/article-detail?cmsuuid=ef6070cf-b197-4a40-9648-781d52470c1a)*. Retrieved from Singapore Infopedia, National Library, Singapore.
 
 [^8]: Ministry of Culture. (1971, October 8). *[Speech by Prof Wong Lin Ken, Minister for Home Affairs and M.P. for Alexandra, at official opening of the Baharuddin Vocational Institute on Friday, 8th October 1971, at 7.15 p.m.](https://www.nas.gov.sg/archivesonline/speeches/record-details/7af53731-115d-11e3-83d5-0050568939ad)* [Speech]. Retrieved from National Archives of Singapore website.
 
