@@ -102,6 +102,9 @@ The National Library also served as a vibrant community hub (and still does) to 
 ![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_storytelling2.jpg)
 <div>A storytelling session at the National Library, 1960s. <i>Collection of the National Library Singapore.</i></div>
 
+![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_exhibition.jpg)
+<div>An exhibition titled&nbsp;<i>Books and the Teenager</i>&nbsp;organised by the National Library to publicise the Young People’s Collection, 1960s.<i>Collection of the National Library Singapore.</i></div>
+
 #### **Unsung Heroes of Stamford Road**
 
 The National Library owed much of its success and impact to its staff. At the reference counters, the staff addressed public enquiries, providing guidance and expertise. In later years, the library would accept queries by mail and the telephone, and subsequently email.&nbsp;
