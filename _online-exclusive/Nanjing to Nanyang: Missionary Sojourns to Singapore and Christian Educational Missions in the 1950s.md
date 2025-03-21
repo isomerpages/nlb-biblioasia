@@ -142,7 +142,7 @@ Revisiting the sojourns of these two missionaries to Singapore and their separat
 
 [^18]:  “[Christian Centre](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19550211-1.2.101),” _Straits Times,_ 11 February 1955, 4. (From NewspaperSG)
 
-[^19]:  Bobby E.K. Sng, <i>[In His Good Time: The Story of the Church in Singapore, 1819–1992](https://eservice.nlb.gov.sg/redir/item_holding.aspx?bid=12253210)</i>, 3rd. ed. (Singapore: Bible Society of Singapore/ Graduate Christian Fellowship, 2003), 260. (From National Library, Singapore, call no. RSING 280.4095957 SNG). Sng briefly discusses the split between liberal protestantism and evangelicalism (the adversarial relationship between the Student Christian Movement and Varsity Christian Fellowship), which was confirmed by 1952. As Sng notes, the SCM was active at Trinity Theological College, but interestingly not at Nanyang University, where the Chrisitan students with backgrounds in the Chinese-language churches were all evangelicals.
+[^19]:  Bobby E.K. Sng, <i>[In His Good Time: The Story of the Church in Singapore, 1819–1992](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12253210)</i>, 3rd. ed. (Singapore: Bible Society of Singapore/ Graduate Christian Fellowship, 2003), 260. (From National Library, Singapore, call no. RSING 280.4095957 SNG). Sng briefly discusses the split between liberal protestantism and evangelicalism (the adversarial relationship between the Student Christian Movement and Varsity Christian Fellowship), which was confirmed by 1952. As Sng notes, the SCM was active at Trinity Theological College, but interestingly not at Nanyang University, where the Chrisitan students with backgrounds in the Chinese-language churches were all evangelicals.
 
 [^20]:  Contento, _A Maverick Missionary on Asian Campuses._ According to CIM missionary Paul Contento’s memoirs, Mrs Elisabeth Contento was then teaching at China Northwest University at Xi’an; Dean of Arts Chang Tien-Tse, who arrived in SIngapore in 1955, met with Mrs Contento and invited them both to Nanyang University to teach English.
 
@@ -154,4 +154,4 @@ Revisiting the sojourns of these two missionaries to Singapore and their separat
 
 [^24]:  Thio, “The People Whom We Met and General Impressions.”
 
-[^25]:  Sng, <i>[In His Good Time](https://eservice.nlb.gov.sg/redir/item_holding.aspx?bid=12253210)</i>, 210.&nbsp;
+[^25]:  Sng, <i>[In His Good Time](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12253210)</i>, 210.&nbsp;
