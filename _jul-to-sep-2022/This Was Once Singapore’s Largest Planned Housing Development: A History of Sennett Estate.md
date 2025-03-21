@@ -229,7 +229,7 @@ Today, Sennett Estate is dwarfed by tall condominium developments and the highly
 
 [^40]: Mushahid Ali, “Konfrontasi: Why Singapore was in Forefront of Indonesian Attacks,” *RSIS Commentary*, no. 062, 23 March 2015, https://www.rsis.edu.sg/rsis-publication/rsis/co15062-konfrontasi-why-singapore-was-in-forefront-of-indonesian-attacks/.
 
-[^41]: Mohamed Effendy Abdul Hamid and Kartini Saparudin, “[MacDonald House Bomb Explosion](https://eresources.nlb.gov.sg/infopedia/articles/SIP_62_2004-12-17.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published 7 August 2014.
+[^41]: Mohamed Effendy Abdul Hamid and Kartini Saparudin, “[MacDonald House Bomb Explosion](https://www.nlb.gov.sg/main/article-detail?cmsuuid=74869cd4-6dee-4f5d-8365-379484edd271),” in *Singapore Infopedia*. National Library Board Singapore. Article published 7 August 2014.
 
 [^42]: “[Two on Bombing Charge](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19640512-1.2.21),” *Straits Times*, 12 May 1964, 4. (From NewspaperSG)
 
