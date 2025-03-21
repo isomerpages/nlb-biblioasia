@@ -5,6 +5,7 @@ description: “Invention is the first occurrence of an idea for a new product o
   process, while innovation is the first attempt to carry it out into
   practice…”. Invention stems from vision, and vision is followed by motivation,
   which encourages invention.
+variant: markdown
 ---
 #### “Invention is the first occurrence of an idea for a new product or process, while innovation is the first attempt to carry it out into practice…”. Invention stems from vision, and vision is followed by motivation, which encourages invention.
 
@@ -55,7 +56,7 @@ Industry-specific journals as well as market intelligence are useful to gauge th
 <b>INTERNET</b><br><br> 
 <b>The US Patent &amp; Trademark Office and Patent &amp; Trademark Depository Library Association</b> are websites devoted to resources to help inventors, 
 <a href="https://www.uspto.gov/">https://www.uspto.gov/</a><a>; </a><a href="https://www.ptdla.org/">https://www.ptdla.org/</a>.<br><br> 
-<b>The Lemelson-MIT Invention Dimension</b> website provides a wealth of inventor resources including patent guidelines and links to many online invention resources, <a href="https://hbswk.hbs.edu/archive/lemelson-mit-awards-invention-dimension/">https://hbswk.hbs.edu/archive/lemelson-mit-awards-invention-dimension</a>.<br><br> 
+<b>The Lemelson-MIT Invention Dimension</b> website provides a wealth of inventor resources including patent guidelines and links to many online invention resources, <a href="https://lemelson.mit.edu/">https://lemelson.mit.edu/</a>.<br><br> 
 <b>License Finder</b> allows one to search for the latest information on licenses granted and available licensers. It also features articles about licensing opportunities and trade shows, <a href="https://www.gobusiness.gov.sg/licences/find-licence-by-sector/">https://www.gobusiness.gov.sg/licences/find-licence-by-sector/</a>.<br><br> <b>Enterpreneur</b> has many useful articles on getting started, inventors’ success stories, smart ideas and more, <a href="http://entrepreneur.com">http://entrepreneur.com/</a>.
 </div>
 
