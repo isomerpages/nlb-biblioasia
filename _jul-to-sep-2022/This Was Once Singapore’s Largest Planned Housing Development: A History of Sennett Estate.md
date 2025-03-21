@@ -7,6 +7,7 @@ description: Sennett Estate is a unique milestone in the history of housing
   excitement over the years.
 image: /images/Vol 18 Issue 2/A History of Sennett Estate/A History of Sennett
   Estate - Image 1.png
+variant: markdown
 ---
 #### Sennett Estate is a unique milestone in the history of housing development in Singapore and its quiet streets have had its fair share of excitement over the years. 
 By Winnie Tan
@@ -79,7 +80,7 @@ After much debate, a compromise was reached. The roads within the estate were na
 
 One long-time resident of the area is 68-year-old Julie Kwong, daughter of the late A.C.T. Kwong, who was also once the Chinese general consul in Ipoh. To this day, the retired lawyer and current school administrator lives on the same road that bears her last name.
 
-According to Julie, her father had been the director and manager of Sennett Realty Co. as well as the managing director of the Malayan Realty Co. “In 1956, land was transferred from Sennett Realty to my mother, who together with my father developed plots of land under Kay & Arthur Pte. Ltd.”[^22] All three companies played a major role in developing the estate.
+According to Julie, her father had been the director and manager of Sennett Realty Co. as well as the managing director of the Malayan Realty Co. “In 1956, land was transferred from Sennett Realty to my mother, who together with my father developed plots of land under Kay &amp; Arthur Pte. Ltd.”[^22] All three companies played a major role in developing the estate.
 
 Having lived in the estate for more than 60 years, Julie recalls how flooding used to be a major problem. As a child in the 1950s, she remembers that when it flooded, she and her siblings “sat atop furniture, made paper boats and floated them” in their living room. “It was fun.”[^23]
 
@@ -142,21 +143,21 @@ Today, Sennett Estate is dwarfed by tall condominium developments and the highly
 “The *chwee kueh* lady would wheel  [her cart] down the streets, her steamer in front, and the laksa man would walk by with ceramic bowls and a huge pot,” she said. “They would be on our street and we’d buy from them. They have calls that still ring in my ears today.”[^48]
 
 <div style="background-color: white;">
-<br/>
-<img src="/images/Vol%2018%20Issue%202/Authors/Winnie%20Tan.png" style="width: 100px; height: 100px;"/>
-	<b>Winnie Tan</b> is an Associate Librarian with the National Library, Singapore. She is part of the Arts and General Reference team and works on content development, collection management, and research and reference services.</div>
+<br>
+<img src="/images/Vol%2018%20Issue%202/Authors/Winnie%20Tan.png" style="width: 100px; height: 100px;">
+	<b>Winnie Tan</b>&nbsp;is an Associate Librarian with the National Library, Singapore. She is part of the Arts and General Reference team and works on content development, collection management, and research and reference services.</div>
 
 #### **NOTES**
 
 [^1]: “[Biggest Housing Estate Planned](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500716-1.2.25),” *Straits Times*, 16 July 1950, 3. (From NewspaperSG)
 
-[^2]: Dhoraisingam S. Samuel, [*Singapore’s Heritage: Through Places of Historical Interest*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=13695618) (Singapore: Dhoraisingam S. Samuel, 2010), 19. (From National Library, Singapore, call no. RSING 959.57 SAM-[HIS])
+[^2]: Dhoraisingam S. Samuel, [*Singapore’s Heritage: Through Places of Historical Interest*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=13695618) (Singapore: Dhoraisingam S. Samuel, 2010), 19. (From National Library, Singapore, call no. RSING 959.57 SAM-[HIS])
 
 [^3]: Roy Ferroa, “[S’pore’s Forgotten Park](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19480420-1.2.23),” *Singapore Free Press*, 20 April 1948, 2. (From NewspaperSG)
 
 [^4]: “[Alkaff Gardens Becoming a Popular Park](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaytribune19360223-1.2.71),” *Sunday Tribune*, 23 February 1936, 17. (From NewspaperSG)
 
-[^5]: Ray K. Tyers, [*Ray Tyers’ Singapore: Then & Now*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=6442235), revised and updated by Siow Jin Hua (Singapore: Landmark Books, 1993), 199. (From National Library, Singapore, call no. RSING 959.57 TYE-[HIS])
+[^5]: Ray K. Tyers, [*Ray Tyers’ Singapore: Then &amp; Now*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=6442235), revised and updated by Siow Jin Hua (Singapore: Landmark Books, 1993), 199. (From National Library, Singapore, call no. RSING 959.57 TYE-[HIS])
 
 [^6]: “[Alkaff Gardens Becoming a Popular Park](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaytribune19360223-1.2.71)”; “[Brighter Alkaff Gardens](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19350917-1.2.78),” *Straits Times*, 17 September 1935, 12. (From NewspaperSG)
 
@@ -166,7 +167,7 @@ Today, Sennett Estate is dwarfed by tall condominium developments and the highly
 
 [^9]: “[Biggest Housing Estate Planned](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500716-1.2.25).”
 
-[^10]: C.M. Turnbull, [*A History of Modern Singapore 1819–2005*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&BRN=204080111) (Singapore: NUS Press, 2020), 382. (From National Library, Singapore, call no. RSING 959.57 TUR-[HIS])
+[^10]: C.M. Turnbull, [*A History of Modern Singapore 1819–2005*](https://catalogue.nlb.gov.sg/cgi-bin/spydus.exe/ENQ/WPAC/BIBENQ?SETLVL=1&amp;BRN=204080111) (Singapore: NUS Press, 2020), 382. (From National Library, Singapore, call no. RSING 959.57 TUR-[HIS])
 
 [^11]: “[Biggest Housing Estate Planned](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19500716-1.2.25).”
 
@@ -204,7 +205,7 @@ Today, Sennett Estate is dwarfed by tall condominium developments and the highly
 
 [^28]: “[Flood Drains for Sennett Estate](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19640828-1.2.108),” *Straits Times*, 28 August 1964, 13. (From NewspaperSG)
 
-[^29]: Nature Lover, “[Vanishing Parkland at Alkaff ‘Gardens’](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19640523-1.2.101.5),” *Straits Times*, 23 May 1964, 17; Au Yee Pun, “[When Trees Must Make Way for New Schools](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19640606-1.2.67.42.1),” *Straits Times*, 6 June 1964, 15. (From Newspaper SG); Gary Maurice Dwor-Frecaut, “[Alkaff Lake Gardens](https://eresources.nlb.gov.sg/infopedia/articles/SIP_604_2005-01-24.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published 2010.
+[^29]: Nature Lover, “[Vanishing Parkland at Alkaff ‘Gardens’](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19640523-1.2.101.5),” *Straits Times*, 23 May 1964, 17; Au Yee Pun, “[When Trees Must Make Way for New Schools](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19640606-1.2.67.42.1),” *Straits Times*, 6 June 1964, 15. (From Newspaper SG); Gary Maurice Dwor-Frecaut, “[Alkaff Lake Gardens](https://www.nlb.gov.sg/main/article-detail?cmsuuid=39e59da9-e198-4a87-b4f3-0913e1095f90),” in *Singapore Infopedia*. National Library Board Singapore. Article published 2010.
 
 [^30]: Julie Kwong, interview, 25 November 2021.
 
@@ -236,7 +237,7 @@ Today, Sennett Estate is dwarfed by tall condominium developments and the highly
 
 [^44]: “New Alkaff Lake for Bidadari Estate,” *Today*, 29 August 2013, https://www.todayonline.com/singapore/new-alkaff-lake-bidadari-estate.
 
-[^45]: “Bidadari Park,” Housing & Development Board, last updated 18 November 2021, https://www.hdb.gov.sg/cs/infoweb/about-us/hdbs-refreshed-roadmap-designing-for-life/live-well/bidadari-park.
+[^45]: “Bidadari Park,” Housing &amp; Development Board, last updated 18 November 2021, https://www.hdb.gov.sg/cs/infoweb/about-us/hdbs-refreshed-roadmap-designing-for-life/live-well/bidadari-park.
 
 [^46]: Christopher Tan, “Bidadari to Have Flood Prevention Lake,” *Straits Times*, 14 March 2020, https://www.straitstimes.com/singapore/environment/bidadari-to-have-flood-prevention-lake.
 
