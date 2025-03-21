@@ -62,6 +62,9 @@ The National Library offered a wide array of collections and services. The publi
 ![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_children.jpg)
 <div>The Children’s Section in the 1960s (left) and 1970s (right). <i>Collection of the National Library Singapore.</i></div>
 
+![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_browsing.jpg)
+<div>Browsing the card catalogues in the Children’s Section, 1960s. <i>Collection of the National Library Singapore.</i></div>
+
 ![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_area2.jpg)
 <div>The public reading area in the Adult Section of the National Library as seen from the second floor, 1960s. <i>Collection of the National Library Singapore.
 </i></div>
