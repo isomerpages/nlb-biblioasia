@@ -41,7 +41,7 @@ In 1953, businessman and philanthropist Lee Kong Chian donated $375,000 towards 
 At its opening, the National Library featured a distinctive T-shaped block layout, spanning approximately 101,500 sq ft (9,430 sq m). Designed by Lionel Bintley of the Public Works Department, the building housed a wide range of facilities, including a lending library, a reference library, study spaces, lecture halls, conference rooms, storage areas for books, administrative offices, technical service workrooms and an open-air courtyard.&nbsp;
 
 ![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_porch.jpg)
-<div>The front porch (left) and the side entrance (right) of the National Library building, 1980s.<i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+<div>The front porch (left) and the side entrance (right) of the National Library building, 1980s. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Externally, the structure was clad in striking red brick that became the hallmark of its architectural identity. While some admired the library’s unique aesthetic, which was said to reflect the red-brick era of 1950s British architecture, others criticised it for appearing discordant with adjacent buildings like the National Museum. Architects used terms such as “a monstrous monument”, “haphazard”, “clumsy”, “heavy” and “lacks basic discipline” to describe the building.[^4]
 
