@@ -33,14 +33,17 @@ In 1953, businessman and philanthropist Lee Kong Chian donated $375,000 towards 
 ![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_leekong.jpg)
 <div>Lee Kong Chian speaking at the foundation stone laying ceremony for the new National Library building, 16 August 1957. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
+![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_impression2.jpg)
+<div>An artist's impression of the National Library building on Stamford Road, 1950s. <i>Collection of the National Library Singapore.</i></div>
+
 #### **A Symphony in Red Brick**
 
 At its opening, the National Library featured a distinctive T-shaped block layout, spanning approximately 101,500 sq ft (9,430 sq m). Designed by Lionel Bintley of the Public Works Department, the building housed a wide range of facilities, including a lending library, a reference library, study spaces, lecture halls, conference rooms, storage areas for books, administrative offices, technical service workrooms and an open-air courtyard.&nbsp;
 
-Externally, the structure was clad in striking red brick that became the hallmark of its architectural identity. While some admired the library’s unique aesthetic, which was said to reflect the red-brick era of 1950s British architecture, others criticised it for appearing discordant with adjacent buildings like the National Museum. Architects used terms such as “a monstrous monument”, “haphazard”, “clumsy”, “heavy” and “lacks basic discipline” to describe the building.[^4]
+![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_porch.jpg)
+<div>The front porch (left) and the side entrance (right) of the National Library building, 1980s.<i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
-![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_impression.jpg)
-<div>An artist's impression of the National Library building on Stamford Road, 1950s. <i>Collection of the National Library Singapore.</i></div>
+Externally, the structure was clad in striking red brick that became the hallmark of its architectural identity. While some admired the library’s unique aesthetic, which was said to reflect the red-brick era of 1950s British architecture, others criticised it for appearing discordant with adjacent buildings like the National Museum. Architects used terms such as “a monstrous monument”, “haphazard”, “clumsy”, “heavy” and “lacks basic discipline” to describe the building.[^4]
 
 
 ![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_architecture.jpg)
