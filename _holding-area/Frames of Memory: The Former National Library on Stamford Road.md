@@ -21,19 +21,29 @@ The National Library on Stamford Road was officially inaugurated on 12 November 
 ![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_guests.jpg)
 <div>Guests mingling during the National Library’s opening, 12 November 1960. <i>Collection of the National Library Singapore.</i></div>
 
+![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_speech.jpg)
+<div>Yang di-Pertuan Negara Yusof Ishak giving a speech at the opening of the National Library, 12 November 1960. Seated to the right of the podium facing the audience are Minister for Culture S. Rajaratnam (partially hidden by the microphone stand) and philanthropist Lee Kong Chian. <i>Collection of the National Library Singapore.</i></div>
+
+
 
 #### **A Philanthropist’s Donation**
 
 In 1953, businessman and philanthropist Lee Kong Chian donated $375,000 towards the building of the library. His contribution, which came with the stipulation that the library remain public and free for all, helped fund the construction on a site previously occupied by the St John’s Ambulance Headquarters and British Council Hall. Lee himself laid the foundation stone on 16 August 1957 and the total cost to construct the National Library – including land, construction and furnishings – was estimated at $2.5 million.[^3] (Prior to this, the library was located in the building that is now known as the National Museum of Singapore.)
 
+![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_leekong.jpg)
+<div>Lee Kong Chian speaking at the foundation stone laying ceremony for the new National Library building, 16 August 1957. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
+![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_impression2.jpg)
+<div>An artist's impression of the National Library building on Stamford Road, 1950s. <i>Collection of the National Library Singapore.</i></div>
+
 #### **A Symphony in Red Brick**
 
 At its opening, the National Library featured a distinctive T-shaped block layout, spanning approximately 101,500 sq ft (9,430 sq m). Designed by Lionel Bintley of the Public Works Department, the building housed a wide range of facilities, including a lending library, a reference library, study spaces, lecture halls, conference rooms, storage areas for books, administrative offices, technical service workrooms and an open-air courtyard.&nbsp;
 
-Externally, the structure was clad in striking red brick that became the hallmark of its architectural identity. While some admired the library’s unique aesthetic, which was said to reflect the red-brick era of 1950s British architecture, others criticised it for appearing discordant with adjacent buildings like the National Museum. Architects used terms such as “a monstrous monument”, “haphazard”, “clumsy”, “heavy” and “lacks basic discipline” to describe the building.[^4]
+![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_porch.jpg)
+<div>The front porch (left) and the side entrance (right) of the National Library building, 1980s. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
-![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_impression.jpg)
-<div>An artist's impression of the National Library building on Stamford Road, 1950s. <i>Collection of the National Library Singapore.</i></div>
+Externally, the structure was clad in striking red brick that became the hallmark of its architectural identity. While some admired the library’s unique aesthetic, which was said to reflect the red-brick era of 1950s British architecture, others criticised it for appearing discordant with adjacent buildings like the National Museum. Architects used terms such as “a monstrous monument”, “haphazard”, “clumsy”, “heavy” and “lacks basic discipline” to describe the building.[^4]
 
 
 ![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_architecture.jpg)
@@ -48,6 +58,12 @@ The National Library offered a wide array of collections and services. The publi
 <div>Children queuing to borrow books at the information counter in the Children’s Section, 1970s. <i>Collection of the National Library Singapore.
 </i></div>
 
+
+![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_children.jpg)
+<div>The Children’s Section in the 1960s (left) and 1970s (right). <i>Collection of the National Library Singapore.</i></div>
+
+![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_browsing2.jpg)
+<div>Browsing the card catalogues in the Children’s Section, 1960s. <i>Collection of the National Library Singapore.</i></div>
 
 ![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_area2.jpg)
 <div>The public reading area in the Adult Section of the National Library as seen from the second floor, 1960s. <i>Collection of the National Library Singapore.
@@ -69,7 +85,13 @@ With a seating capacity of more than 400, visitors also had access to equipment 
 
 On 28 August 1964, the South East Asia Room at the National Library opened as a dedicated space “devoted solely to the study of South East Asia”. This specialised room housed a large collection of materials on Singapore and the region that the library had accumulated since its establishment in 1823.[^6]
 
+![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_room2.jpg)
+<div>The South East Asia Room with the researchers’ tables, 1970s. It housed more than 5,000 books and periodicals and over 2,000 reels of microfilm relating to Singapore and the region at the time it was opened. <i>Collection of the National Library Singapore.</i></div>
+
 Minister for Culture S. Rajaratnam, who officiated its opening, described the room as “beyond price” and “absolutely unattainable from any other source”. “From the closed stacks at the back of the building our librarians have now brought out this famous collection,” he said in his speech. “In this room this afternoon you will be able to see copies of letters written by Raffles, the first newspaper published in Singapore, or you can check reports on land costs a hundred years ago, or complaints on the behaviour of some of the civil servants of the time.”[^7]
+
+![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_philanthropist.jpg)
+<div>Philanthropist Lee Kong Chian (extreme left) and Minster for Culture S. Rajaratnam (second from left) touring the South East Asia Room conducted by Assistant Director of the National Library Hedwig Anuar during its opening, 28 August 1964. On the extreme right is historian and book collector Tan Yeok Seong, who donated the Ya Yin Kwan Collection to the National Library. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 The materials included the 10,000-volume Ya Yin Kwan Collection covering diverse subjects with a focus on the Chinese in Southeast Asia, Reinhold Rost’s 970-volume philological and scientific collection featuring Eastern languages and Malay Archipelago studies, the 1,000-volume Gibson-Hill Collection on&nbsp; Malayan flora, fauna, travel histories and arts, and James Richardson Logan’s 1,250-strong collection of ethnography and philological works on the Malay Archipelago, among others. Today, these collections form part of the National Library’s National Collection.[^8]
 
@@ -80,6 +102,9 @@ The National Library also served as a vibrant community hub (and still does) to 
 ![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_storytelling2.jpg)
 <div>A storytelling session at the National Library, 1960s. <i>Collection of the National Library Singapore.</i></div>
 
+![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_exhibition.jpg)
+<div>An exhibition titled&nbsp;<i>Books and the Teenager</i>&nbsp;organised by the National Library to publicise the Young People’s Collection, 1960s.  <i>Collection of the National Library Singapore.</i></div>
+
 #### **Unsung Heroes of Stamford Road**
 
 The National Library owed much of its success and impact to its staff. At the reference counters, the staff addressed public enquiries, providing guidance and expertise. In later years, the library would accept queries by mail and the telephone, and subsequently email.&nbsp;
@@ -87,10 +112,19 @@ The National Library owed much of its success and impact to its staff. At the re
 ![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_counter.jpg)
 <div>The information counter of the National Library, 1960s.  <i>Collection of the National Library Singapore.</i></div>
 
+![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_student.jpg)
+<div>Helping a student with the card catalogues, 1970s. <i>Collection of the National Library Singapore.</i></div>
+
 ![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_librarians.jpg)
 <div>Helping a reader with enquiries at the National Library, 1970s. <i>Collection of the National Library Singapore.</i></div>
 
 Behind the scenes, countless library staff handled essential duties such as acquiring new materials, cataloguing, compiling the national bibliography, and undertaking conservation and preservation work like microfilming and book repairs.&nbsp;
+
+![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_sorting.jpg)
+<div>Sorting out materials in the storage area of the National Library, 1965. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
+![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_microfilming2.jpg)
+<div>Microfilming a newspaper, 1996. <i>Collection of the National Library Singapore.</i></div>
 
 #### **A New Chapter**
 
@@ -102,12 +136,18 @@ In March 1997, the National Library underwent a six-month extensive makeover cos
 
 A new Singapore Resource Library was set up to replace the South East Asia Room, while the lending library was renamed the Central Community Library and furnished with a new information counter as well as new shelves and study tables.&nbsp;
 
+![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_newcounter.jpg)
+<div>The new information counter at the Central Community Library, 1997. <i>Collection of the National Library Singapore.</i></div>
+
 The long snaking queues became a thing of the past as self-check machines and an automated bookdrop allowed patrons to borrow and return books with greater convenience. Computer stations with Internet access were also added to aid the discovery of new information and library materials.[^9]
 
 ![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_lobby.jpg)
 <div>The foyer of the revamped National Library with the self-check borrowing stations, 1997.&nbsp; The St Andrew’s Cross on the floor at the entrance is now located outside the National Library Building on Victoria Street. <i>Collection of the National Library Singapore.</i></div>
 
 The 300-square-metre courtyard of the National Library also underwent a transformation. After upgrading works, the courtyard was repurposed as a public space to “promote the library as a vibrant place and as a venue for creative expressions like poetry, readings, drama or dance performances, or forum discussions on an art topic,” said Lim Siew Kim, deputy director of the National Reference Library. The addition of a fountain and a cafe enhanced the ambience and further improved library user experience.[^10]
+
+![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_renaissance.jpg)
+<div>A renaissance fountain takes pride of place in the courtyard, 2004s. <i>Collection of the National Library Singapore.</i></div>
 
 ![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_fountain2.jpg)
 <div> A musical performance at the courtyard to celebrate the Lunar New Year, 2000. <i>Collection of the National Library Singapore.</i></div>

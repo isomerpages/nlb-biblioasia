@@ -136,7 +136,7 @@ In March 1963, the Singapore Chinese Chamber of Commerce set up a fundraising co
 
 The Singapore Lam Ann Association Collection consists of letters written by the public to the Chinese Chamber of Commerce on the locations of the massacre sites. Among these is a letter written by Neo Tiew recounting the death of 35 family members during the Japanese Occupation. Neo is known for developing Lim Chu Kang, and he also led the Singapore branch of the Kuomintang Youth League of the Three People’s Principles and the Overseas Chinese Anti-Japanese Army. Because of his anti-Japanese activities, Neo and one of his sons were evacuated from Singapore on 13 February 1942, at the request of the British. Unfortunately, the family members who remained behind were tortured and killed by the Japanese.[^15]
 
-The Foo Chin Hwa Collection documents the exhumation of the remains of the war dead through photographs, which can be accessed from the National Library’s digital image database, [PictureSG](https://eresources.nlb.gov.sg/pictures).
+The Foo Chin Hwa Collection documents the exhumation of the remains of the war dead through photographs, which can be accessed from the National Library’s digital image database, [National Library Online](https://www.nlb.gov.sg/main/nlonline).
 
 |<img src="/images/Vol%2018%20Issue%202/S'pore%20Chinese_Japanese/Verification%20of%20Victims%20remains.png">|
 

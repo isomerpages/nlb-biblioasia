@@ -178,7 +178,7 @@ It remains to be seen what will happen to the wet market in the future. Will it 
 
 [^14]: Tan, *Wet Markets*, 5–7; “Former Telok Ayer Market (now known as Lau Pa Sat).”
 
-[^15]: Vernon Cornelius-Takahama, “[Ellenborough Market](https://eresources.nlb.gov.sg/infopedia/articles/SIP_480_2005-01-07.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published 1999; “[22-storey Flats at Former Market](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710727-1.2.72),” *Straits Times*, 27 July 1971, 9; “[25 Years Ago](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19930207-1.2.80.3),” *Straits Times*, 7 February 1993, 2. (From NewspaperSG) 
+[^15]: Vernon Cornelius-Takahama, “[Ellenborough Market](https://www.nlb.gov.sg/main/article-detail?cmsuuid=dc1aeae8-1445-464d-9dd9-d2968cbfab3a),” in *Singapore Infopedia*. National Library Board Singapore. Article published 1999; “[22-storey Flats at Former Market](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710727-1.2.72),” *Straits Times*, 27 July 1971, 9; “[25 Years Ago](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19930207-1.2.80.3),” *Straits Times*, 7 February 1993, 2. (From NewspaperSG) 
 
 [^16]: “[From the Daily Times, August 22nd. The Campong Glam Beach](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18710826-1.2.12),” *Straits Times Overland Journal*, 26 August 1871, 3. (From NewspaperSG)
 
@@ -186,7 +186,7 @@ It remains to be seen what will happen to the wet market in the future. Will it 
 
 [^18]: Malay Heritage Centre, [*Kampong Gelam: Beyond the Port Town* ](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202849927)(Singapore: Malay Heritage Centre, 2016), 69. (From National Library, Singappore, Call no.: RSING 305.8992805957 KAM)
 
-[^19]: Ratnala Thulaja Naidu, “[Sungei Road](https://eresources.nlb.gov.sg/infopedia/articles/SIP_588_2004-12-23.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published 2017.
+[^19]: Ratnala Thulaja Naidu, “[Sungei Road](https://www.nlb.gov.sg/main/article-detail?cmsuuid=dcffbdd5-93ae-4091-89f7-7ad4472c179f),” in *Singapore Infopedia*. National Library Board Singapore. Article published 2017.
 
 [^20]: Stephen Sim, “[Singapore Streets Have Nicknames](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19490929-1.2.92.1),” *Straits Times*, 29 September 1949, 8; Jackie Sam, “[Orchard Road in Retrospect](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/singmonitor19841021-1.2.47.2),” *Singapore Monitor*, 21 October 1984, 1. (From NewspaperSG)
 
@@ -194,7 +194,7 @@ It remains to be seen what will happen to the wet market in the future. Will it 
 
 [^22]: Gretchen Liu, [*Raffles Hotel*](https://safe.menlosecurity.com/http:/eservice.nlb.gov.sg/item_holding.aspx?bid=6370450) (Singapore: Landmark Books, 1992), 212. (From National Library, Singapore, Call no. RSING 647.94595701 LIU)
 
-[^23]: Marsita Omar, “[Orchard Road Market](https://eresources.nlb.gov.sg/infopedia/articles/SIP_993__2009-01-06.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published April 2021; Ray K. Tyers, [*Ray Tyers’ Singapore: Then &amp; Now*](https://safe.menlosecurity.com/http:/eservice.nlb.gov.sg/item_holding.aspx?bid=6442235), revised and updated by Siow Jin Hua (Singapore: Landmark Books, 1993), 162, 164. (From National Library, Singapore, Call no. RSING 959.57 TYE-[HIS]); “[‘New Look’ Plan by URA for Orchard Rd](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19781202-1.2.44),” *Straits Times*, 2 December 1978, 13. (From NewspaperSG)
+[^23]: Marsita Omar, “[Orchard Road Market](https://www.nlb.gov.sg/main/article-detail?cmsuuid=6df11f82-ff54-43be-be98-0ada7bea1b2f),” in *Singapore Infopedia*. National Library Board Singapore. Article published April 2021; Ray K. Tyers, [*Ray Tyers’ Singapore: Then &amp; Now*](https://safe.menlosecurity.com/http:/eservice.nlb.gov.sg/item_holding.aspx?bid=6442235), revised and updated by Siow Jin Hua (Singapore: Landmark Books, 1993), 162, 164. (From National Library, Singapore, Call no. RSING 959.57 TYE-[HIS]); “[‘New Look’ Plan by URA for Orchard Rd](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19781202-1.2.44),” *Straits Times*, 2 December 1978, 13. (From NewspaperSG)
 
 [^24]: Tan, *Wet Markets*, 5; “[买菜光景 不同啰](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/shinmin19950808-1.2.47.9)!” [“Grocery Shopping Scene Is Different”], 新明日报 [*Xin Min Ri Bao*], 8 August 1995, 16; 冯剑斌 [Feng Jianbin], “[湿巴刹气数未尽](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/lhzb20091025-1.2.26.3)” [“Not the End of Wet Markets”], 联合早报 [*Lianhe Zaobao*], 25 October 2009, 24. (From NewspaperSG) 
 

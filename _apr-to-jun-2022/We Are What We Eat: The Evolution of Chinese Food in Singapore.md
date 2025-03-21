@@ -4,6 +4,7 @@ permalink: /vol-18/issue-1/apr-to-jun-2022/evolution-chinese-food-singapore/
 description: Chinese food in Singapore is a product of the country’s history and
   geography, reveals **Low Sze Wee**.
 image: /images/Vol 18 Issue 1/Chinese Food/chicken rice.png
+variant: markdown
 ---
 #### Chinese food in Singapore is a product of the country’s history and geography, reveals **Low Sze Wee**.
 
@@ -95,7 +96,7 @@ For more information, visit https://singaporeccc.org.sg/permanent-exhibition/.
 
 [^1]: “PM Lee Hsien Loong Spoke About Singaporean Chinese Culture and the Singaporean Identity at the Official Opening of the Singapore Chinese Cultural Centre on 19 May 2017,” Prime Minister’s Office, 19 May 2017, https://www.pmo.gov.sg/Newsroom/pm-lee-hsien-loong-official-opening-singapore-chinese-cultural-centre.
 
-[^2]: “[Hainanese Chicken Rice](https://eresources.nlb.gov.sg/infopedia/articles/SIP_910_2005-01-11.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published 2016.
+[^2]: “[Hainanese Chicken Rice](https://www.nlb.gov.sg/main/article-detail?cmsuuid=ceddd346-4072-4981-b20d-f771bea7dd81),” in *Singapore Infopedia*. National Library Board Singapore. Article published 2016.
 
 [^3]: Meryl Koh, “Restaurant Labyrinth Serves Up Chicken Rice, with No Rice,” *The Peak*, 17 May 2016, https://www.thepeakmagazine.com.sg/gourmet-travel/restaurant-labyrinth-creates-chicken-rice-no-rice-han-li-guang/; “Awards,” Restaurant Labyrinth, accessed 14 February 2022, https://www.restaurantlabyrinth.com/awards.
 

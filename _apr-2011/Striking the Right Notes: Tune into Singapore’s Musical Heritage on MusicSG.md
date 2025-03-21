@@ -6,6 +6,7 @@ description: Librarian Michelle Heng tells us what we can expect from MusicSG,
   interested individuals to access historical and contemporary music-related
   Singapore works, such as recordings, scores, articles, lyrics and album
   covers.
+variant: markdown
 ---
 #### Librarian&nbsp;_Michelle Heng_&nbsp;tells us what we can expect from MusicSG, the nation’s first digital archive for music that allows researchers or interested individuals to access historical and contemporary music-related Singapore works, such as recordings, scores, articles, lyrics and album covers.
 
@@ -14,7 +15,7 @@ description: Librarian Michelle Heng tells us what we can expect from MusicSG,
 	
 #### **Tune Into Singapore’s Musical Heritage On MusicSG**
 
-Whether you are an avid fan of *xinyao* music (Singapore Chinese ballads) or a researcher exploring the history of nostalgic Malay folk songs, the newly minted online archive, MusicSG (<a href="https://eresources.nlb.gov.sg/music/">https://eresources.nlb.gov.sg/music/</a>), is a treasure trove of music related to Singapore that you will want to tap.
+Whether you are an avid fan of *xinyao* music (Singapore Chinese ballads) or a researcher exploring the history of nostalgic Malay folk songs, the newly minted online archive, MusicSG, is a treasure trove of music related to Singapore that you will want to tap.
 
 As the nation’s first digital archive for music, MusicSG allows scholars or students doing research or individuals with a keen personal interest in Singapore music to access music-related works, both historical and contemporary, such as recordings, scores, articles, lyrics and album covers. With offerings from many genres ranging from classical, instrumental, jazz, pop, rock and metal, the website is a convenient one-stop portal that showcases music written in Singapore’s four official languages: English, Malay, Mandarin and Tamil.
 

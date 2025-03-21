@@ -157,7 +157,7 @@ The National Library of Singapore holds a small collection of personal documents
 
 [^13]: “Kranji War Cemetery.”
 
-[^14]: Nor-Afidah A Rahman, Nureza Ahmad and Alec Soong, “[Battle of Opium Hill](https://eresources.nlb.gov.sg/infopedia/articles/SIP_457_2005-01-04.html),” in _Singapore Infopedia_. National Library Board Singapore. Article published March 2021.
+[^14]: Nor-Afidah A Rahman, Nureza Ahmad and Alec Soong, “[Battle of Opium Hill](https://www.nlb.gov.sg/main/article-detail?cmsuuid=be7ce13d-adb5-4877-af4d-5ba2671bc913),” in _Singapore Infopedia_. National Library Board Singapore. Article published March 2021.
 
 [^15]: Dol Ramli, “History of the Malay Regiment 1933–1942,” _Journal of the Malaysian Branch of the Royal Asiatic Society_ 38, no. 1 (207) (1965): 236. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
 

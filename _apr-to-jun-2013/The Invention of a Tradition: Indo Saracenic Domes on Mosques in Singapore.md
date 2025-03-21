@@ -4,6 +4,7 @@ permalink: /vol-9/issue-1/apr-jun-2013/tradition-indo-saracenic/
 description: The typically onion-shaped Indo-Saracenic domes that crown the
   city’s mosques are a late 1920s introduction to the Singapore’s architectural
   landscape.
+variant: markdown
 ---
 #### The typically onion-shaped Indo-Saracenic domes that crown the city’s mosques are a late-1920s introduction to Singapore’s architectural landscape.
 
@@ -216,7 +217,7 @@ Tillotson, G.H.R. (1989). [_The tradition of Indian architecture: Continuity, co
 
 [^28]: Building Plan 128/1933, National Archives of Singapore Microfilm Reel CBS96.
 
-[^29]: National Library Board. (2018, April). [_Alkaff Kampung Melayu Mosque_](https://eresources.nlb.gov.sg/infopedia/articles/SIP_621_2004-12-17.html) written by Herwin Mohd Nasir. Retrieved from Singapore Infopedia.
+[^29]: National Library Board. (2018, April). [_Alkaff Kampung Melayu Mosque_](https://www.nlb.gov.sg/main/article-detail?cmsuuid=b33224fe-5a0b-4bfd-8705-38ab3e89319d) written by Herwin Mohd Nasir. Retrieved from Singapore Infopedia.
 
 [^30]: [Lee](https://eservice.nlb.gov.sg/item_holding.aspx?bid=5572905), 1990, p. 52.
 
