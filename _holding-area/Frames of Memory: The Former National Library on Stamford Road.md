@@ -103,7 +103,7 @@ The National Library also served as a vibrant community hub (and still does) to 
 <div>A storytelling session at the National Library, 1960s. <i>Collection of the National Library Singapore.</i></div>
 
 ![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_exhibition.jpg)
-<div>An exhibition titled&nbsp;<i>Books and the Teenager</i>&nbsp;organised by the National Library to publicise the Young People’s Collection, 1960s. <i>Collection of the National Library Singapore.</i></div>
+<div>An exhibition titled&nbsp;<i>Books and the Teenager</i>&nbsp;organised by the National Library to publicise the Young People’s Collection, 1960s.  <i>Collection of the National Library Singapore.</i></div>
 
 #### **Unsung Heroes of Stamford Road**
 
