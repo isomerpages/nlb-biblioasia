@@ -178,7 +178,7 @@ It remains to be seen what will happen to the wet market in the future. Will it 
 
 [^14]: Tan, *Wet Markets*, 5–7; “Former Telok Ayer Market (now known as Lau Pa Sat).”
 
-[^15]: Vernon Cornelius-Takahama, “[Ellenborough Market](https://eresources.nlb.gov.sg/infopedia/articles/SIP_480_2005-01-07.html),” in *Singapore Infopedia*. National Library Board Singapore. Article published 1999; “[22-storey Flats at Former Market](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710727-1.2.72),” *Straits Times*, 27 July 1971, 9; “[25 Years Ago](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19930207-1.2.80.3),” *Straits Times*, 7 February 1993, 2. (From NewspaperSG) 
+[^15]: Vernon Cornelius-Takahama, “[Ellenborough Market](https://www.nlb.gov.sg/main/article-detail?cmsuuid=dc1aeae8-1445-464d-9dd9-d2968cbfab3a),” in *Singapore Infopedia*. National Library Board Singapore. Article published 1999; “[22-storey Flats at Former Market](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19710727-1.2.72),” *Straits Times*, 27 July 1971, 9; “[25 Years Ago](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19930207-1.2.80.3),” *Straits Times*, 7 February 1993, 2. (From NewspaperSG) 
 
 [^16]: “[From the Daily Times, August 22nd. The Campong Glam Beach](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/stoverland18710826-1.2.12),” *Straits Times Overland Journal*, 26 August 1871, 3. (From NewspaperSG)
 
