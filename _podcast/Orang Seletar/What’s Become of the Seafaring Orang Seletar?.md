@@ -24,7 +24,7 @@ Ilya Katrinnada is an educator and writer with a keen interest in the intersecti
 #### **Resources** ####
 Ilya Katrinnada, “[The Orang Seletar: Rowing Across Changing Tides](https://biblioasia.nlb.gov.sg/vol-18/issue-1/apr-to-jun-2022/orang-seletar-changing-tides),” *BiblioAsia* 18, no. 1 (2022).
 
-Mazelan Anuar, “[Orang Laut](https://eresources.nlb.gov.sg/infopedia/articles/SIP_551_2005-01-09.html),” Singapore Infopedia, published March 2020, National Library Board.
+Mazelan Anuar, “[Orang Laut](https://www.nlb.gov.sg/main/article-detail?cmsuuid=e586ffef-6277-4c3d-b463-bd14eefc914f),” Singapore Infopedia, published March 2020, National Library Board.
 
 Isa Kamari, [*Rawa*](https://eservice.nlb.gov.sg/item_holding.aspx?id=200156800) (Kuala Lumpur: Silverfish Books, 2013). (From National Library, Singapore, Call no. RSING 899.283 ISA)
 
