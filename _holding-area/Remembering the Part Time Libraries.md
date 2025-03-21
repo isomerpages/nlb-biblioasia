@@ -114,122 +114,121 @@ For 30 years, part-time libraries brought books to the people and extended libra
 	
 #### **NOTES**
 
-[^1]: 
+[^1]: Mrs Irene Chee, personal correspondence, 14 February 2025.
 
 
-[^2]: 
+[^2]: Subscription ceased in 1958 when the Raffles Library became Singapore’s free national library. See “Rush to Join National Library,” _Singapore Free Press_, 11 April 1958, 5. (From NewspaperSG)
 
 
-[^3]: 
+[^3]: “Raffles Library,“ _Straits Times_, 24 December 1921, 9; “Raffles Library,” _Malaya Tribune_, 1 November 1922, 3; “Growth of Raffles Library. Big Increase in Subscribers,” _Malaya Tribune_, 29 May 1934, 7. (From NewspaperSG)
 
 
-[^4]: 
+[^4]: “More Libraries Wanted for Singapore,” _Singapore Free Press and Mercantile Advertiser_, 23 May 1940, 2. (From NewspaperSG)
 
 
-[^5]: 
+[^5]: “Improvement Plans for Raffles Library,” _Straits Times_, 10 May 1940, 10. (From NewspaperSG)
 
 
-[^6]: 
+[^6]: “More Library Facilities for Singapore,” _Straits Times_, 26 May 1940, 3. (From NewspaperSG)
 
 
-[^7]: 
+[^7]: “Govt. Postpones Library Extension Scheme,” _Malaya Tribune_, 13 July 1940, 3. (From NewspaperSG)
 
 
-[^8]: 
+[^8]: K.K. Seet, _A Place for the People_ (Singapore: Times Books International, 1983), 80. (From National Library Singapore, call no. RSING 027.55957 SEE-\[LIB\]); “Raffles Library Re-opening Saturday,” _Malaya Tribune_, 28 November 1945, 2–3. (From NewspaperSG)
 
 
-[^9]: 
+[^9]: “Asiatic Readers at Library Have Doubled,” _Straits Times_, 8 December 1946, 7; “More Asiatic Than European Readers,” _Singapore Free Press_, 24 April 1947, 2. (From NewspaperSG)
 
 
-[^10]: 
+[^10]: “Extra Libraries Must Wait,” _Singapore Free Press_, 18 May 1949, 7. (From NewspaperSG)
 
 
-[^11]: 
+[^11]: “Plan to Improve Library,” _Straits Times_, 17 January 1950, 7; “Move to Improve Library Services,” _Singapore Free Press_, 1 February 1950, 5. (From NewspaperSG)
 
 
-[^12]: 
+[^12]: “District Library for Katong,” _Straits Times_, 10 August 1949, 7; “Give Them Books and More Books,” _Singapore Free Press_, 13 September 1949, 4. (From NewspaperSG)
 
 
-[^13]: 
+[^13]: “Singapore’s First Free Library,” _Malaya Tribune_, 29 April 1950, 4; “Present for 1st Visitor,” _Singapore Free Press_, 5 May 1950, 5; “An American Library,” _Straits Times_, 13 May 1950, 6. (From NewspaperSG)
 
 
-[^14]: 
+[^14]: “Govt to Open Branch Libraries in Singapore,” _Singapore Standard_, 10 September 1951, 2; “Raffles Library to Open Four Branches,” _Singapore Free Press_, 19 December 1951, 5; “S’pore to Have 4 New Libraries,” _Singapore Free Press_, 13 March 1952, 5. (From NewspaperSG)
 
 
-[^15]: 
+[^15]: “Libraries for Rural Areas: First Set Up,” _Singapore Free Press_, 6 January 1954, 3. (From NewspaperSG)
 
 
-[^16]: 
+[^16]: “Libraries for Rural Areas: First Set Up”; “This Is a Happy Suburb,” _Singapore Free Press_, 31 May 1954, 7. (From NewspaperSG)
 
 
-[^17]: 
+[^17]: “Now Siglap Gets Library,” _Singapore Free Press_, 23 June 1954, 2; “Siglap Library,” _Singapore Free Press_, 25 June 1954, 2; “Branch Library Popular,” _Singapore Free Press_, 9 August 1954, 5. (From NewspaperSG)
 
 
-[^18]: 
+[^18]: Seet, A Place for the People, 105; National Library Board Singapore, _Report: 5th December 1960 to 30th September 1963_ (Singapore: Government Printing Office, 1963), 14. (From National Library Singapore, call no. RCLOS 027.55957 SIN)
 
 
-[^19]: 
+[^19]: L.M. Harrod, _Raffles Library Annual Report 1956_ (Singapore: Government Printing Office, 1957), 4–5. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR)
 
 
-[^20]: 
+[^20]: “Library for Chinese Is Opened,” _Straits Times_, 21 November 1956, 6. (From NewspaperSG)
 
 
-[^21]: 
+[^21]: Chan Thye Seng, oral history interview by Jason Lim, 19 April 2000, transcript and MP3 audio, Reel/Disc 1 of 15, National Archives of Singapore (accession no. 002265), 2; National Library Singapore, _Annual Report 1963_ (Singapore: Government Printing Office, 1966), 8. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR)
 
 
-[^22]: 
+[^22]: Chan Thye Seng, oral history interview, 10 May 2000, Reel/Disc 9 of 15, 97–98.
 
 
-[^23]: 
+[^23]: Chan Thye Seng, oral history interview, 3 May 2000, Reel/Disc 5 of 15, 53–54; Chan Thye Seng, oral history interview, 10 May 2000, Reel/Disc 9 of 15, 96–98, 110.
 
 
-[^24]: 
+[^24]: Lynette, “Untitled,” _Straits Times_, 8 July 1971, 21. (From NewspaperSG)
 
 
-[^25]: 
+[^25]: Seet, _A Place for the People_, 120; “New Home for Library,” Straits Times, 19 June 1960, 4; “New Centre Soon for Joo Chiat,” _New Nation_, 4 June 1974, 3. (From NewspaperSG)
 
 
-[^26]: 
+[^26]: Colony of Singapore, “Raffles National Library Ordinance 1957 (Ord. 31 of 1957),” in _1957 Supplement to the Laws of the Colony of Singapore_&nbsp; (Singapore: Govt. Printing Office, 1959), 498–502 (From National Library Singapore, call no. RCLOS 348.5957 SIN-\[HWE\])
 
 
-[^27]: 
+[^27]: “Raffles Library to Get New, Less English, Look Now,” _Singapore Free Press_, 4 July 1959, 1. (From NewspaperSG)
 
 
-[^28]: 
+[^28]: “Loke Is Library Chairman,” _Straits Times_, 17 December 1960, 4. (From NewspaperSG). \[Note: This was not to be confused with the current National Library Board, a statutory board constituted in 1995 to manage the National Library and Public Libraries.\]
 
 
-[^29]: 
+[^29]: National Library Board Singapore, _Report: 5th December 1960 to 30th September 1963_, 4–5, 11.
 
 
-[^30]: 
+[^30]: Shen Swee Yong, “Chatter from Above As Lee Speaks on Noise Levels,” _Straits Times_, 1 May 1970, 8; “Services at Library,” _Straits Times_, 8 February 1974, 15; “Library to Have Recording Booths By ’80s,” _Straits Times_, 11 November 1978, 9. (From NewspaperSG)
 
 
+[^31]: “The Future, As Book Borrowers Will Be Seeing It,” _New Nation_, 15 July 1979, 7; “Library to Open New Branch,” _Straits Times_, 1 October 1973, 9; “Closed on March 20,” _New Nation_, 2 March 1981, 4. (From NewspaperSG)
 
-[^31]: 
 
+[^32]: “Library Network to Promote Reading Habit,” _Straits Times_, 10 November 1974, 5. (From NewspaperSG)
 
-[^32]: 
 
+[^33]: National Library Singapore, _Report for the Period of April 1977–March 1978_ (Singapore: Photoplates Private Limited, 1978), 22. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); “In a Town of 90,000… Only 80 Use Jurong Branch Library,” _New Nation_, 10 May 1978, 4; “Library,” _New Nation_, 23 February 1980, 2. (From NewspaperSG)
 
-[^33]: 
 
+[^34]: “Library to Close,” _Straits Times_, 18 May 1988, 16. (From NewspaperSG)
 
-[^34]: 
 
+[^35]: National Library Singapore, _Report for the Period April 1979–March 1980_ (Singapore: Singapore National Printers Pte Ltd, 1980), 15. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); “New Branch Library,” _Straits Times_, 11 January 1981, 6; “Page 13 Miscellaneous Column 3,” _Straits Times_, 13 August 1985, 13. (From NewspaperSG)
 
-[^35]: 
 
+[^36]: Audrey Perera, “Bedok Library Under Siege,” _Straits Times_, 6 October 1985, 11. (From NewspaperSG); National Library Singapore, _Report for the Period FY85_ (Singapore: National Library Singapore, 1986), 35. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR)
 
-[^36]: 
 
+[^37]: “Bookworms’ Delight,” _New Nation_, 16 December 1981, 8. (From NewspaperSG)
 
-[^37]: 
 
+[^38]: “Bookworms’ Delight”; Fatimah Sulaiman, “Use Study Centre,” _Straits Times_, 3 February 1986, 14. (From NewspaperSG)
 
-[^38]: 
 
+[^39]: “Around Your Place Information Service,” _Straits Times_, 24 July 1987, 21. (From NewspaperSG)
 
-[^39]: 
 
-
-[^40]: 
+[^40]: “National Library to Build Eight More Branches,” _Business Times_, 3 March 1981, 12. (From NewspaperSG)
