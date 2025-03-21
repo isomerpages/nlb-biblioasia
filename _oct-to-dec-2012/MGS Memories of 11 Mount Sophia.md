@@ -159,7 +159,7 @@ Oon, C. (2011, December 31). [The past is just a memory](http://eresources.nlb.g
 
 Qi, Y. (2012, June 3). Remembering Old School @ Mt. Sophia. Retrieved from Monday Flying website.
 
-Renuka, M. (2018, January 19). [_Methodist Girls’ School_](https://eresources.nlb.gov.sg/infopedia/articles/SIP_591_2005-01-05.html). Retrieved from Singapore Infopedia.
+Renuka, M. (2018, January 19). [_Methodist Girls’ School_](https://www.nlb.gov.sg/main/article-detail?cmsuuid=2dbd203c-d576-4cc9-833a-74a2bc57f89b). Retrieved from Singapore Infopedia.
 
 Savage, V.R., &amp; Yeoh, B.S.A. (2004). [_Toponymics: A study of Singapore street names_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12303283) (p. 270). Singapore: Eastern Universities Press. (Call no.: RSING 915.9570014 SAV)
 
