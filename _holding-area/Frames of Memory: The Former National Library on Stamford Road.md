@@ -112,10 +112,19 @@ The National Library owed much of its success and impact to its staff. At the re
 ![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_counter.jpg)
 <div>The information counter of the National Library, 1960s.  <i>Collection of the National Library Singapore.</i></div>
 
+![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_student.jpg)
+<div>Helping a student with the card catalogues, 1970s. <i>Collection of the National Library Singapore.</i></div>
+
 ![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_librarians.jpg)
 <div>Helping a reader with enquiries at the National Library, 1970s. <i>Collection of the National Library Singapore.</i></div>
 
 Behind the scenes, countless library staff handled essential duties such as acquiring new materials, cataloguing, compiling the national bibliography, and undertaking conservation and preservation work like microfilming and book repairs.&nbsp;
+
+![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_sorting.jpg)
+<div>Sorting out materials in the storage area of the National Library, 1965. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
+![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_microfilming.jpg)
+<div>Microfilming a newspaper, 1996. <i>Collection of the National Library Singapore.</i></div>
 
 #### **A New Chapter**
 
