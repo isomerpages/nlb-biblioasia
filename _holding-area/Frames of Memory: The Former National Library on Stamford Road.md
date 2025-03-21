@@ -85,6 +85,9 @@ With a seating capacity of more than 400, visitors also had access to equipment 
 
 On 28 August 1964, the South East Asia Room at the National Library opened as a dedicated space “devoted solely to the study of South East Asia”. This specialised room housed a large collection of materials on Singapore and the region that the library had accumulated since its establishment in 1823.[^6]
 
+![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_room.jpg)
+<div>The South East Asia Room with the researchers’ tables, 1970s. It housed more than 5,000 books and periodicals and over 2,000 reels of microfilm relating to Singapore and the region at the time it was opened. <i>Collection of the National Library Singapore.</i></div>
+
 Minister for Culture S. Rajaratnam, who officiated its opening, described the room as “beyond price” and “absolutely unattainable from any other source”. “From the closed stacks at the back of the building our librarians have now brought out this famous collection,” he said in his speech. “In this room this afternoon you will be able to see copies of letters written by Raffles, the first newspaper published in Singapore, or you can check reports on land costs a hundred years ago, or complaints on the behaviour of some of the civil servants of the time.”[^7]
 
 The materials included the 10,000-volume Ya Yin Kwan Collection covering diverse subjects with a focus on the Chinese in Southeast Asia, Reinhold Rost’s 970-volume philological and scientific collection featuring Eastern languages and Malay Archipelago studies, the 1,000-volume Gibson-Hill Collection on&nbsp; Malayan flora, fauna, travel histories and arts, and James Richardson Logan’s 1,250-strong collection of ethnography and philological works on the Malay Archipelago, among others. Today, these collections form part of the National Library’s National Collection.[^8]
