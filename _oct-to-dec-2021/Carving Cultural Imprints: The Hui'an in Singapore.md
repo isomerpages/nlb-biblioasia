@@ -205,7 +205,7 @@ The book is available for reference at the Lee Kong Chian Reference Library and 
 
 [^11]: The word “coolie” is believed to have originated from the Hindi term *kuli*, which is the name of a native tribe in the western Indian state of Gujarat. The word *kuli* also means “hire” in Tamil. See Naidu Ratnala Thulaja, “[Chinese coolies](https://www.nlb.gov.sg/main/article-detail?cmsuuid=1934198c-b5bf-4980-abc7-0aeb29ed39c9),” in *Singapore Infopedia*. National Library Board Singapore. Article published 2016.
 
-[^12]: Otherwise known as *twakow* or *tongkang*, the bumboat was a large barge vessel used extensively for transport purposes along the Singapore, Rochor and Kallang rivers, and also along the coast of the mainland and other nearby islands. See Vernon Cornelius-Takahama, “[Bumboats](https://eresources.nlb.gov.sg/infopedia/articles/SIP_956_2004-12-15.html?s=bumboats),” in *Singapore Infopedia*. National Library Board Singapore. Article published June 2019. 
+[^12]: Otherwise known as *twakow* or *tongkang*, the bumboat was a large barge vessel used extensively for transport purposes along the Singapore, Rochor and Kallang rivers, and also along the coast of the mainland and other nearby islands. See Vernon Cornelius-Takahama, “[Bumboats](https://www.nlb.gov.sg/main/article-detail?cmsuuid=6d2b5d54-beeb-4c12-9e2b-a261a251dfc9),” in *Singapore Infopedia*. National Library Board Singapore. Article published June 2019. 
 
 [^13]: “[Coolie Keng and Their Alliances](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19820831-1.2.133.2.2),” *Straits Times*, 31 August 1982, 1. (From NewspaperSG)
 
