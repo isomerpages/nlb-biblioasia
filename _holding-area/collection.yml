@@ -2,4 +2,5 @@ collections:
   holding-area:
     output: true
     order:
+      - Remembering the Part Time Libraries.md
       - "Frames of Memory: The Former National Library on Stamford Road.md"
