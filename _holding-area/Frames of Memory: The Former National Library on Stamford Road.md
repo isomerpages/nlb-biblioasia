@@ -40,8 +40,11 @@ In 1953, businessman and philanthropist Lee Kong Chian donated $375,000 towards 
 
 At its opening, the National Library featured a distinctive T-shaped block layout, spanning approximately 101,500 sq ft (9,430 sq m). Designed by Lionel Bintley of the Public Works Department, the building housed a wide range of facilities, including a lending library, a reference library, study spaces, lecture halls, conference rooms, storage areas for books, administrative offices, technical service workrooms and an open-air courtyard.&nbsp;
 
+![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_1973.jpg)
+<div>The National Library, 1973. <i>Collection of the National Library Singapore.</i></div>
+
 ![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_porch.jpg)
-<div>The front porch (left) and the side entrance (right) of the National Library building, 1980s. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+<div>The front porch (left) and side entrance (right) of the National Library building, 1980s. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Externally, the structure was clad in striking red brick that became the hallmark of its architectural identity. While some admired the library’s unique aesthetic, which was said to reflect the red-brick era of 1950s British architecture, others criticised it for appearing discordant with adjacent buildings like the National Museum. Architects used terms such as “a monstrous monument”, “haphazard”, “clumsy”, “heavy” and “lacks basic discipline” to describe the building.[^4]
 
@@ -116,7 +119,7 @@ The National Library owed much of its success and impact to its staff. At the re
 <div>Helping a student with the card catalogues, 1970s. <i>Collection of the National Library Singapore.</i></div>
 
 ![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_librarians.jpg)
-<div>Helping a reader with enquiries at the National Library, 1970s. <i>Collection of the National Library Singapore.</i></div>
+<div>Helping a reader with enquiries, 1970s. <i>Collection of the National Library Singapore.</i></div>
 
 Behind the scenes, countless library staff handled essential duties such as acquiring new materials, cataloguing, compiling the national bibliography, and undertaking conservation and preservation work like microfilming and book repairs.&nbsp;
 
@@ -147,7 +150,7 @@ The long snaking queues became a thing of the past as self-check machines and an
 The 300-square-metre courtyard of the National Library also underwent a transformation. After upgrading works, the courtyard was repurposed as a public space to “promote the library as a vibrant place and as a venue for creative expressions like poetry, readings, drama or dance performances, or forum discussions on an art topic,” said Lim Siew Kim, deputy director of the National Reference Library. The addition of a fountain and a cafe enhanced the ambience and further improved library user experience.[^10]
 
 ![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_renaissance.jpg)
-<div>A renaissance fountain takes pride of place in the courtyard, 2004s. <i>Collection of the National Library Singapore.</i></div>
+<div>A renaissance fountain takes pride of place in the courtyard, 2004. <i>Collection of the National Library Singapore.</i></div>
 
 ![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_fountain2.jpg)
 <div> A musical performance at the courtyard to celebrate the Lunar New Year, 2000. <i>Collection of the National Library Singapore.</i></div>
@@ -163,9 +166,6 @@ The decision sparked public calls to preserve the building. However, the demolit
 <div>The National Library Building on Victoria Street, 2020. <i>Collection of the National Library Singapore. </i></div>
 
 Although the National Library building on Stamford Road no longer exists, its entrance pillars are preserved within the grounds of the Singapore Management University. Some of the red bricks were salvaged and utilised for the construction of the wall of the garden at the Basement 1 Central Public Library in the new building. The St Andrew’s Cross –  a geometric floor pattern consisting of four adjoining crosses – that used to adorn the floor of the entrance at the Stamford Road building was moved to a space outside the new building.[^12]
-
-![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_pillarsh.jpg)
-<div>The entrance pillars of the former National Library are preserved within the grounds of the Singapore Management University. <i>Collection of the National Musuem of Singapore, National Heritage Board. </i></div>
 
 Its literary heritage lives on in the National Collection at the Lee Kong Chian Reference Library within the new building. Additionally, the stories and memories of users and patrons of the former National Library have been recorded in publications and in oral history interviews with the National Archives of Singapore. These efforts will ensure that the legacy of the red-brick building will not be lost to future generations.[^13]
 
