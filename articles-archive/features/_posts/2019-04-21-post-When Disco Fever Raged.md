@@ -228,7 +228,7 @@ Researcher and writer <b>Tan Chui Hua</b> has worked on various projects documen
 
 [^24]:*[Oral history interview with Mike Ellery](http://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/d2864a0a-1160-11e3-83d5-0050568939ad),* 15 Mar 2002.
 
-[^25]:Richmond, B. (2002). *[The golden age of Singapore disco](https://eresources.nlb.gov.sg/music/Media/PDFs/Article/05471d83-9fe7-4165-8eb6-9c653271c509.pdf)*. Retrieved from MusicSG.
+[^25]:Richmond, B. (2002). *[The golden age of Singapore disco](https://www.nlb.gov.sg/main/api/MusicDetailPage/ViewPdf?resourceUuid=6e1b8869-b2f9-43ad-83e9-c62191e38968)*. Retrieved from MusicSG.
 
 [^26]:[Higher licence fees for discos planned](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newnation19731027-1.2.16.3). (1973, October 27). *New Nation*, p. 2. Retrieved from NewspaperSG.
 
