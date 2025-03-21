@@ -123,7 +123,7 @@ Behind the scenes, countless library staff handled essential duties such as acqu
 ![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_sorting.jpg)
 <div>Sorting out materials in the storage area of the National Library, 1965. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
-![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_microfilming.jpg)
+![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_microfilming2.jpg)
 <div>Microfilming a newspaper, 1996. <i>Collection of the National Library Singapore.</i></div>
 
 #### **A New Chapter**
