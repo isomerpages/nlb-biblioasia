@@ -90,6 +90,9 @@ On 28 August 1964, the South East Asia Room at the National Library opened as a 
 
 Minister for Culture S. Rajaratnam, who officiated its opening, described the room as “beyond price” and “absolutely unattainable from any other source”. “From the closed stacks at the back of the building our librarians have now brought out this famous collection,” he said in his speech. “In this room this afternoon you will be able to see copies of letters written by Raffles, the first newspaper published in Singapore, or you can check reports on land costs a hundred years ago, or complaints on the behaviour of some of the civil servants of the time.”[^7]
 
+![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_philanthropist.jpg)
+<div>Philanthropist Lee Kong Chian (extreme left) and Minster for Culture S. Rajaratnam (second from left) touring the South East Asia Room conducted by Assistant Director of the National Library Hedwig Anuar during its opening, 28 August 1964. On the extreme right is historian and book collector Tan Yeok Seong, who donated the Ya Yin Kwan Collection to the National Library. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 The materials included the 10,000-volume Ya Yin Kwan Collection covering diverse subjects with a focus on the Chinese in Southeast Asia, Reinhold Rost’s 970-volume philological and scientific collection featuring Eastern languages and Malay Archipelago studies, the 1,000-volume Gibson-Hill Collection on&nbsp; Malayan flora, fauna, travel histories and arts, and James Richardson Logan’s 1,250-strong collection of ethnography and philological works on the Malay Archipelago, among others. Today, these collections form part of the National Library’s National Collection.[^8]
 
 #### **Nurturing Minds and Fostering Community Spirit**
