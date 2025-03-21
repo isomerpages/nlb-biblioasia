@@ -20,6 +20,12 @@ The first fulltime branch library established by the National Library was the Qu
 
 These part-time libraries thus played an important role in bringing books to outlying communities before a network of fulltime branch libraries was set up. Subsequently, these part-time libraries continued to exist as a stop-gap measure for new estates that did not yet have a fulltime branch library nearby. However, as the National Library’s network of libraries effectively fanned out throughout Singapore, the need for part-time libraries declined. The last part-time branch library in Whampoa was opened in 1981 and was shuttered six years later.
 
+|Library|Location|Date of Opening|Date of Closure|
+| -------- | -------- | -------- | -------- |
+|Upper Serangoon|Social Welfare Centre, Lim Ah Pin Road|29 December 1953|June 1960|
+|Siglap|Social Welfare Centre, junction of East Coast Road and Palm Road|1 July 1954|20 March 1981|
+
+
 #### **Expanding Library Services**
 
 For decades, the subscription-based Raffles Library – established in 1845 as the Singapore Library – was the main library catering to the public.[^2] Since 1887, the Raffles Library had shared the same building with the Raffles Museum on Stamford Road. By the 1920s, as the collections and exhibits expanded, the lack of space became an issue and there were calls for the government to consider expanding or relocating the library to larger premises to accommodate the growing visitorship and collections.[^3]
