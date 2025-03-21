@@ -7,6 +7,7 @@ third_nav_title: "Chasing the Dragon: The Scourge of Opium"
 image: \images\Vol-11-issue-3\dragon\AChinesemansmokingopium.jpg
 layout: post
 description: ""
+variant: markdown
 ---
 <style>
 table { 
@@ -204,7 +205,7 @@ Mackay, D. (2005). *[Eastern customs: The customs service in British Malaya and 
 
 Motte, E.N.L. (1920). *[The opium monopoly](https://eservice.nlb.gov.sg/item_holding.aspx?bid=12220185)*. New York: The Macmillan Co. (Call no.: RCLOS 381.4561532335 LA)
 
-National Library Board. (2016). *[Opium and its history in Singapore](https://eresources.nlb.gov.sg/infopedia/articles/SIP_622_2004-12-16.html)*  written by Naidu Ratnala Thulaja. Retrieved from Singapore Infopedia. 
+National Library Board. (2016). *[Opium and its history in Singapore](https://www.nlb.gov.sg/main/article-detail?cmsuuid=f99cf90e-c3a5-4576-b77e-f3971d19c2d9)*  written by Naidu Ratnala Thulaja. Retrieved from Singapore Infopedia. 
 
 [Opium cures: Visit to a home for opium inebriates](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19061212-1.2.101). (1906, December 12). *The Straits Times*, p. 7. Retrieved from NewspaperSG. 
 
