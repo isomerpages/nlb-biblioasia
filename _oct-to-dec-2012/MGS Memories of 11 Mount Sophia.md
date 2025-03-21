@@ -129,7 +129,7 @@ Cheng, T. (Ed.). (2007). [_Our heritage, our treasure_](https://eservice.nlb.gov
 
 Cheong, J. (2007, November 8). [Old school, new ideas](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20071108-1.2.91.1.1). _The Straits Times_, p. 71. Retrieved from NewspaperSG.
 
-Cornelius, V. (2018, November). [_Mount Sophia_](https://eresources.nlb.gov.sg/infopedia/articles/SIP_482_2004-12-27.html). Retrieved from Singapore Infopedia.
+Cornelius, V. (2018, November). [_Mount Sophia_](https://www.nlb.gov.sg/main/article-detail?cmsuuid=68de9770-7411-4c74-b312-d042572a57ee). Retrieved from Singapore Infopedia.
 
 Hu, F. (2011). Reunion class of 1970. _Fellowship: MGS Alumnae Association newsletter_, 4. Retrieved from Methodist Girls’ School Alumnae Association website.
 
