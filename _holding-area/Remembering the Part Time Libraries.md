@@ -159,19 +159,19 @@ For 30 years, part-time libraries brought books to the people and extended libra
 [^10]: “[Extra Libraries Must Wait](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19490518-1.2.101),” _Singapore Free Press_, 18 May 1949, 7. (From NewspaperSG)
 
 
-[^11]: “Plan to Improve Library,” _Straits Times_, 17 January 1950, 7; “Move to Improve Library Services,” _Singapore Free Press_, 1 February 1950, 5. (From NewspaperSG)
+[^11]: “[Plan to Improve Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19500117-1.2.76),” _Straits Times_, 17 January 1950, 7; “[Move to Improve Library Services](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19500201-1.2.79),” _Singapore Free Press_, 1 February 1950, 5. (From NewspaperSG)
 
 
-[^12]: “District Library for Katong,” _Straits Times_, 10 August 1949, 7; “Give Them Books and More Books,” _Singapore Free Press_, 13 September 1949, 4. (From NewspaperSG)
+[^12]: “[District Library for Katong](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19490810-1.2.100),” _Straits Times_, 10 August 1949, 7; “[Give Them Books and More Books](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19490913-1.2.58),” _Singapore Free Press_, 13 September 1949, 4. (From NewspaperSG)
 
 
-[^13]: “Singapore’s First Free Library,” _Malaya Tribune_, 29 April 1950, 4; “Present for 1st Visitor,” _Singapore Free Press_, 5 May 1950, 5; “An American Library,” _Straits Times_, 13 May 1950, 6. (From NewspaperSG)
+[^13]: “[Singapore’s First Free Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19500429-1.2.50),” _Malaya Tribune_, 29 April 1950, 4; “[Present for 1st Visitor](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19500505-1.2.78),” _Singapore Free Press_, 5 May 1950, 5; “[An American Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19500513-1.2.84),” _Straits Times_, 13 May 1950, 6. (From NewspaperSG)
 
 
-[^14]: “Govt to Open Branch Libraries in Singapore,” _Singapore Standard_, 10 September 1951, 2; “Raffles Library to Open Four Branches,” _Singapore Free Press_, 19 December 1951, 5; “S’pore to Have 4 New Libraries,” _Singapore Free Press_, 13 March 1952, 5. (From NewspaperSG)
+[^14]: “[Govt to Open Branch Libraries in Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19510910-1.2.40),” _Singapore Standard_, 10 September 1951, 2; “[Raffles Library to Open Four Branches](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19511219-1.2.67),” _Singapore Free Press_, 19 December 1951, 5; “[S’pore to Have 4 New Libraries](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19520313-1.2.67),” _Singapore Free Press_, 13 March 1952, 5. (From NewspaperSG)
 
 
-[^15]: “Libraries for Rural Areas: First Set Up,” _Singapore Free Press_, 6 January 1954, 3. (From NewspaperSG)
+[^15]: “[Libraries for Rural Areas: First Set Up](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19540106-1.2.24),” _Singapore Free Press_, 6 January 1954, 3. (From NewspaperSG)
 
 
 [^16]: “Libraries for Rural Areas: First Set Up”; “This Is a Happy Suburb,” _Singapore Free Press_, 31 May 1954, 7. (From NewspaperSG)
