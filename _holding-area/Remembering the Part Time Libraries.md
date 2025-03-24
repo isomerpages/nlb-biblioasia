@@ -219,13 +219,13 @@ For 30 years, part-time libraries brought books to the people and extended libra
 [^30]: Shen Swee Yong, “[Chatter from Above As Lee Speaks on Noise Levels](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19700501-1.2.67),” _Straits Times_, 1 May 1970, 8; “[Services at Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740208-1.2.98),” _Straits Times_, 8 February 1974, 15; “[Library to Have Recording Booths By ’80s](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19781111-1.2.43),” _Straits Times_, 11 November 1978, 9. (From NewspaperSG)
 
 
-[^31]: “The Future, As Book Borrowers Will Be Seeing It,” _New Nation_, 15 July 1979, 7; “Library to Open New Branch,” _Straits Times_, 1 October 1973, 9; “Closed on March 20,” _New Nation_, 2 March 1981, 4. (From NewspaperSG)
+[^31]: “[The Future, As Book Borrowers Will Be Seeing It](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19790715-1.2.29),” _New Nation_, 15 July 1979, 7; “[Library to Open New Branch](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19731001-1.2.69),” _Straits Times_, 1 October 1973, 9; “[Closed on March 20](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19810302-1.2.25),” _New Nation_, 2 March 1981, 4. (From NewspaperSG)
 
 
-[^32]: “Library Network to Promote Reading Habit,” _Straits Times_, 10 November 1974, 5. (From NewspaperSG)
+[^32]: “[Library Network to Promote Reading Habit](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19741110-1.2.35),” _Straits Times_, 10 November 1974, 5. (From NewspaperSG)
 
 
-[^33]: National Library Singapore, _Report for the Period of April 1977–March 1978_ (Singapore: Photoplates Private Limited, 1978), 22. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); “In a Town of 90,000… Only 80 Use Jurong Branch Library,” _New Nation_, 10 May 1978, 4; “Library,” _New Nation_, 23 February 1980, 2. (From NewspaperSG)
+[^33]: National Library Singapore, [_Report for the Period of April 1977–March 1978_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4394249) (Singapore: Photoplates Private Limited, 1978), 22. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); “[In a Town of 90,000… Only 80 Use Jurong Branch Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19780510-1.2.26),” _New Nation_, 10 May 1978, 4; “[Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19800223-1.2.9),” _New Nation_, 23 February 1980, 2. (From NewspaperSG)
 
 
 [^34]: “Library to Close,” _Straits Times_, 18 May 1988, 16. (From NewspaperSG)
