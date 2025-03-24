@@ -132,6 +132,7 @@ For 30 years, part-time libraries brought books to the people and extended libra
 |Jurong|Jurong Town Community Centre, Yung An Road|15 November 1977|23 May 1988
 |Bedok|Block 209 Upper Changi Road, Bedok Town Centre|14 January 1981|15 August 1985|
 |Whampoa|Block 73, Whampoa Road, opposite Whampoa Community Centre|1 October 1981|30 July 1987
+
 <br>
 <div style="background-color:white;"> * Joo Chiat Library was opened on 9 August 1949 by the Social Welfare Department and the British Council. It came under the management of the Raffles Library in 1955.
 <br>
