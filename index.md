@@ -9,14 +9,23 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /history/2024/9/christianity-china-singapore-missions-education/
-      button: "Nanjing to Nanyang: Missionary Sojourns to Singapore and Christian
-        Educational Missions in the 1950s"
+      url: /culture/2025/1/zhenkongjiao-chinese-religion-opium-addiction-rites-rituals-temples/
+      button: "Rites of Rehabilitation: The Social Work of the Zhenkongjiao in
+        Singapore"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Online Only Articles/Nanjing to Nanyang/Heroimage_Nanyang_v1.png
+      background: /images/Online Only Articles/Rites of Rehabilitation/Heroimage_Rites1.jpg
+  - infopic:
+      title: New Books on Singapore History (Apr 2025)
+      subtitle: Literature
+      id: infopic
+      description: Introducing six new books available in the National Library's collection.
+      button: New Reads
+      url: /vol-21/issue-1/apr-jun-2025/new-books-on-singapore-history/
+      image: /images/Vol 21 Issue 1/New Books/NEW_BOOKS_Apr_25.png
+      alt: New Books
   - infopic:
       title: Mazu Worship in Singapore
       subtitle: Worship
