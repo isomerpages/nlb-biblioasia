@@ -46,8 +46,7 @@ In the meantime, rather than wait for the Raffles Library to open a branch in th
 
 Meanwhile, on 4 May 1950, the United States Information Service (USIS) Library in Raffles Place opened, becoming Singapore’s first free public library (the Raffles Library at the time was still subscription-based). The USIS Library was lauded for its accessible location and opening hours that catered to the working population.&nbsp;
 
-The library was so highly anticipated that 55 people were waiting in line when it first opened, and the first person in the queue was given a free book.  
-“\[T\]he American library must be welcomed as a valuable acquisition for Singapore,” the _Straits Times_ reported. “The hunger for reading which has been manifested both in the adult population and in the schools since the war is attested by many observers, and the more libraries there are in this city the better.” Within weeks, the library had attracted 5,000 members.[^13]
+The library was so highly anticipated that 55 people were waiting in line when it first opened, and the first person in the queue was given a free book.  “\[T\]he American library must be welcomed as a valuable acquisition for Singapore,” the _Straits Times_ reported. “The hunger for reading which has been manifested both in the adult population and in the schools since the war is attested by many observers, and the more libraries there are in this city the better.” Within weeks, the library had attracted 5,000 members.[^13]
 
 #### **Part-time Branch Libraries**
 
