@@ -33,45 +33,63 @@ _All photos in this essay are courtesy of the Singapore Chin Woo (Athletic) Asso
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/1930s__1_.jpg" style="width: 80%;">A pair of northern lions, 1930s. The heads of the early lions were made of yellow clay and their capes of green hemp, making them very heavy.[^12]</div><br>
+<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/1930s__1_.jpg" style="width: 80%;">A pair of northern lions, 1930s. The heads of the early lions were made of yellow clay and their capes of green hemp, making them very heavy.[^12]</div>
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/1952s__1_.jpg" style="width: 80%;">A pugilist engages the lions with a _xiu qiu_, an auspicious ball made of ribbons, 1952.</div><br>
+<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/1952s__1_.jpg" style="width: 80%;">A pugilist engages the lions with a _xiu qiu_, an auspicious ball made of ribbons, 1952.</div>
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/018_Year_1954.jpg" style="width: 80%;">A performance on 30 September 1954 at Gay World Stadium. The performer in the middle is Choo Sai Wen (朱世荣).</div><br>
+<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/018_Year_1954.jpg" style="width: 80%;">A performance on 30 September 1954 at Gay World Stadium. The performer in the middle is Choo Sai Wen (朱世荣).</div>
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/014_Year_1954.jpg" style="width: 80%;">A pugilist entices the lions with a _xiu qiu_, 1954.</div><br>
+<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/014_Year_1954.jpg" style="width: 80%;">A pugilist entices the lions with a _xiu qiu_, 1954.</div>
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/039_Year_1959.jpg" style="width: 80%;">A performance in 1959).</div><br>
+<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/039_Year_1959.jpg" style="width: 80%;">A performance in 1959).</div>
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/112_______1965_10.jpg" style="width: 80%;">The pugilist often added another level of excitement and theatrics to the performance, 1965.</div><br>
+<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/112_______1965_10.jpg" style="width: 80%;">The pugilist often added another level of excitement and theatrics to the performance, 1965.</div>
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/117_______1965_10.jpg" style="width: 80%;">The lions playing with a _xiu qiu_, 1965. The _xiu qiu_ not only added excitement to the performance but also showcased the dancers’ athleticism and the different characters of the lions.</div><br>
+<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/117_______1965_10.jpg" style="width: 80%;">The lions playing with a _xiu qiu_, 1965. The _xiu qiu_ not only added excitement to the performance but also showcased the dancers’ athleticism and the different characters of the lions.</div>
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/128_______1965_10.jpg" style="width: 80%;">Lions taking a break, 1965).</div><br>
+<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/128_______1965_10.jpg" style="width: 80%;">Lions taking a break, 1965).</div>
 
-  
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/035a____________1965.jpg" style="width: 80%;">The lions performing at an event in 1965.</div>
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/156_Year_1966.jpg" style="width: 80%;">The lions pose with _a xiu qiu_ at a performance in 1966.</div>
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/1967s__1_.jpg" style="width: 80%;">The troupe performing at the first National Guoshu Competition in 1967.</div>
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/095________1967.jpg" style="width: 80%;">The Chin Woo lion dancers wow the crowd at the first National Guoshu Competition in 1967.</div>
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/102________1967.jpg" style="width: 80%;">Showing off their moves at the inaugural 1967 National Guoshu Competition.</div>
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/172_Year_1967.jpg" style="width: 80%;">The Chin Woo lion dancers performing at the 1967 National Day Parade.</div>
 
-
-
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/106________1976.jpg" style="width: 80%;">The Golden Lion Dance Troupe at a competition in June 1976.</div>
 
 
   
