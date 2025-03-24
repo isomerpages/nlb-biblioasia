@@ -228,13 +228,13 @@ For 30 years, part-time libraries brought books to the people and extended libra
 [^33]: National Library Singapore, [_Report for the Period of April 1977–March 1978_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4394249) (Singapore: Photoplates Private Limited, 1978), 22. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); “[In a Town of 90,000… Only 80 Use Jurong Branch Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19780510-1.2.26),” _New Nation_, 10 May 1978, 4; “[Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19800223-1.2.9),” _New Nation_, 23 February 1980, 2. (From NewspaperSG)
 
 
-[^34]: “Library to Close,” _Straits Times_, 18 May 1988, 16. (From NewspaperSG)
+[^34]: “[Library to Close](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19880518-1.2.29.8),” _Straits Times_, 18 May 1988, 16. (From NewspaperSG)
 
 
-[^35]: National Library Singapore, _Report for the Period April 1979–March 1980_ (Singapore: Singapore National Printers Pte Ltd, 1980), 15. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); “New Branch Library,” _Straits Times_, 11 January 1981, 6; “Page 13 Miscellaneous Column 3,” _Straits Times_, 13 August 1985, 13. (From NewspaperSG)
+[^35]: National Library Singapore, [_Report for the Period April 1979–March 1980_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4394249) (Singapore: Singapore National Printers Pte Ltd, 1980), 15. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); “[New Branch Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19810111-1.2.32),” _Straits Times_, 11 January 1981, 6; “[Page 13 Miscellaneous Column 3](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19850813-1.2.76.19.3),” _Straits Times_, 13 August 1985, 13. (From NewspaperSG)
 
 
-[^36]: Audrey Perera, “Bedok Library Under Siege,” _Straits Times_, 6 October 1985, 11. (From NewspaperSG); National Library Singapore, _Report for the Period FY85_ (Singapore: National Library Singapore, 1986), 35. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR)
+[^36]: Audrey Perera, “[Bedok Library Under Siege](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19810111-1.2.32),” _Straits Times_, 6 October 1985, 11. (From NewspaperSG); National Library Singapore, [_Report for the Period FY85_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4394249) (Singapore: National Library Singapore, 1986), 35. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR)
 
 
 [^37]: “Bookworms’ Delight,” _New Nation_, 16 December 1981, 8. (From NewspaperSG)
