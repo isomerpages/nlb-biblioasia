@@ -61,7 +61,7 @@ _All photos in this essay are courtesy of the Singapore Chin Woo (Athletic) Asso
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/128_______1965_10.jpg" style="width: 80%;">Lions taking a break, 1965).</div>
+<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/128_______1965_10.jpg" style="width: 80%;">Lions taking a break, 1965.</div>
 
 <div style="background-color: white;">
 <br>
