@@ -24,7 +24,7 @@ sections:
       description: Introducing six new books available in the National Library's collection.
       button: New Reads
       url: /vol-21/issue-1/apr-jun-2025/new-books-on-singapore-history/
-      image: /images/Vol 20 Issue 4/New Books/NEW_BOOKS_Jan_25.png
+      image: /images/Vol 21 Issue 1/New Books/NEW_BOOKS_Apr_25.png
       alt: New Books
   - infopic:
       title: Mazu Worship in Singapore
