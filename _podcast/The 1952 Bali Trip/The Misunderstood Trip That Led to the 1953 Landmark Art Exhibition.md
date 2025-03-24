@@ -23,6 +23,10 @@ shrouded in mystery, until Gretchen Liu, the daughter-in-law of Liu Kang,
 discovered Liu Kang's archives and photographs from the trip. She tells
 us how the trip came together, what the artists did in Java and Bali, and
 what the trip meant to them as artists.&nbsp;</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/u5ndFn7pRnw"></iframe>
+</div>
 <h4><strong>Listen to the Full Episode</strong></h4>
 <p>Available on: <a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener nofollow" target="_blank"><u>Spotify</u></a>,
 <a href="https://podcasts.apple.com/us/podcast/biblioasia/id1688142751" rel="noopener nofollow" target="_blank"><u>Apple Podcasts </u>
