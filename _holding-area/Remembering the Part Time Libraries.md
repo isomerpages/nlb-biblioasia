@@ -111,6 +111,9 @@ After structural issues were discovered in the shophouse it occupied, the Chai C
 
 The eighth and last part-time branch library opened at the void deck of Block 73 Whampoa Road, opposite the Whampoa Community Centre, on 1&nbsp;October 1981. This also marked the first time that a library was situated in a void deck.&nbsp;
 
+![](/images/Vol%2021%20Issue%202/Part%20Time%20Libraries/parttime_whampoa.jpg)
+<div style="background-color:white;">The Whampoa Part-time Branch Library in a void deck, 1981.  <i>Image reproduced from “Bookworms’ Delight,” New Nation, 16 December 1981, 8. (From NewspaperSG).</i></div>
+
 Within two weeks of its opening, 900 adults and 1,714 children joined as members and they borrowed a total of 4,302 and 9,053 books from the adults’ section and children’s section respectively. The Whampoa branch was operational almost daily except on Sundays, opening from 2 pm to 8 pm on Mondays, Wednesday and Fridays, and from 9 am to 6 pm on Tuesdays, Thursdays and Saturdays.[^37]
 
 However, by 1985, operating hours were halved due to dwindling usage.[^38] The library eventually closed in July 1987 due to HDB’s demolition exercise, and users were urged to visit the Toa Payoh Branch Library that was nearby.[^39]
