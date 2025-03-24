@@ -1116,4 +1116,13 @@ sections:
       image: /images/Online Only Articles/Conquer Tallest
         Mountain_12_23/mok_on_fixed_ropes_homepage.png
       alt: Image alt text
+  - infopic:
+      title: New Books on Singapore History (Jan 2025)
+      subtitle: Literature
+      id: infopic
+      description: Introducing six new books available in the National Library's collection.
+      button: New Reads
+      url: /vol-20/issue-4/jan-mar-2025/new-books-on-singapore-history/
+      image: /images/Vol 20 Issue 4/New Books/NEW_BOOKS_Jan_25.png
+      alt: New Books
 ---
