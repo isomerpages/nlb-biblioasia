@@ -192,31 +192,31 @@ For 30 years, part-time libraries brought books to the people and extended libra
 [^21]: Chan Thye Seng, oral history interview by Jason Lim, 19 April 2000, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/6/6b031050-115e-11e3-83d5-0050568939ad-OHC002265_001/web/html5/index.html) and MP3 audio, Reel/Disc 1 of 15, National Archives of Singapore ([accession no. 002265](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/002265)), 2; National Library Singapore, [_Annual Report 1963_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4617437) (Singapore: Government Printing Office, 1966), 8. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR)
 
 
-[^22]: Chan Thye Seng, oral history interview, 10 May 2000, Reel/Disc 9 of 15, 97–98.
+[^22]: [Chan Thye Seng](http://www.nas.gov.sg/archivesonline/flipviewer/publish/7/74e3508b-115e-11e3-83d5-0050568939ad-OHC002265_009/web/html5/index.html), oral history interview, 10 May 2000, Reel/Disc 9 of 15, 97–98.
 
 
-[^23]: Chan Thye Seng, oral history interview, 3 May 2000, Reel/Disc 5 of 15, 53–54; Chan Thye Seng, oral history interview, 10 May 2000, Reel/Disc 9 of 15, 96–98, 110.
+[^23]: [Chan Thye Seng](https://www.nas.gov.sg/archivesonline/flipviewer/publish/7/75a6c562-115e-11e3-83d5-0050568939ad-OHC002265_005/web/html5/index.html), oral history interview, 3 May 2000, Reel/Disc 5 of 15, 53–54; [Chan Thye Seng](http://www.nas.gov.sg/archivesonline/flipviewer/publish/7/74e3508b-115e-11e3-83d5-0050568939ad-OHC002265_009/web/html5/index.html), oral history interview, 10 May 2000, Reel/Disc 9 of 15, 96–98, 110.
 
 
-[^24]: Lynette, “Untitled,” _Straits Times_, 8 July 1971, 21. (From NewspaperSG)
+[^24]: Lynette, “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19710708-1.2.117.2),” _Straits Times_, 8 July 1971, 21. (From NewspaperSG)
 
 
-[^25]: Seet, _A Place for the People_, 120; “New Home for Library,” Straits Times, 19 June 1960, 4; “New Centre Soon for Joo Chiat,” _New Nation_, 4 June 1974, 3. (From NewspaperSG)
+[^25]: Seet, [_A Place for the People_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082325), 120; “[New Home for Library](https://safe.menlosecurity.com/http:/eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19600619-1.2.16),” Straits Times, 19 June 1960, 4; “[New Centre Soon for Joo Chiat](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19740604-1.2.22.14),” _New Nation_, 4 June 1974, 3. (From NewspaperSG)
 
 
-[^26]: Colony of Singapore, “Raffles National Library Ordinance 1957 (Ord. 31 of 1957),” in _1957 Supplement to the Laws of the Colony of Singapore_&nbsp; (Singapore: Govt. Printing Office, 1959), 498–502 (From National Library Singapore, call no. RCLOS 348.5957 SIN-\[HWE\])
+[^26]: Colony of Singapore, “Raffles National Library Ordinance 1957 (Ord. 31 of 1957),” [in _1957 Supplement to the Laws of the Colony of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12854950) (Singapore: Govt. Printing Office, 1959), 498–502 (From National Library Singapore, call no. RCLOS 348.5957 SIN-\[HWE\])
 
 
-[^27]: “Raffles Library to Get New, Less English, Look Now,” _Singapore Free Press_, 4 July 1959, 1. (From NewspaperSG)
+[^27]: “[Raffles Library to Get New, Less English, Look Now](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19590704-1.2.11),” _Singapore Free Press_, 4 July 1959, 1. (From NewspaperSG)
 
 
-[^28]: “Loke Is Library Chairman,” _Straits Times_, 17 December 1960, 4. (From NewspaperSG). \[Note: This was not to be confused with the current National Library Board, a statutory board constituted in 1995 to manage the National Library and Public Libraries.\]
+[^28]: “[Loke Is Library Chairman](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19601217-1.2.38),” _Straits Times_, 17 December 1960, 4. (From NewspaperSG). \[Note: This was not to be confused with the current National Library Board, a statutory board constituted in 1995 to manage the National Library and Public Libraries.\]
 
 
-[^29]: National Library Board Singapore, _Report: 5th December 1960 to 30th September 1963_, 4–5, 11.
+[^29]: National Library Board Singapore, [_Report: 5th December 1960 to 30th September 1963_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4394247), 4–5, 11.
 
 
-[^30]: Shen Swee Yong, “Chatter from Above As Lee Speaks on Noise Levels,” _Straits Times_, 1 May 1970, 8; “Services at Library,” _Straits Times_, 8 February 1974, 15; “Library to Have Recording Booths By ’80s,” _Straits Times_, 11 November 1978, 9. (From NewspaperSG)
+[^30]: Shen Swee Yong, “[Chatter from Above As Lee Speaks on Noise Levels](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19700501-1.2.67),” _Straits Times_, 1 May 1970, 8; “[Services at Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740208-1.2.98),” _Straits Times_, 8 February 1974, 15; “[Library to Have Recording Booths By ’80s](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19781111-1.2.43),” _Straits Times_, 11 November 1978, 9. (From NewspaperSG)
 
 
 [^31]: “The Future, As Book Borrowers Will Be Seeing It,” _New Nation_, 15 July 1979, 7; “Library to Open New Branch,” _Straits Times_, 1 October 1973, 9; “Closed on March 20,” _New Nation_, 2 March 1981, 4. (From NewspaperSG)
