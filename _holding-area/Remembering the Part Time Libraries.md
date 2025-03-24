@@ -24,7 +24,12 @@ These part-time libraries thus played an important role in bringing books to out
 | -------- | -------- | -------- | -------- |
 |Upper Serangoon|Social Welfare Centre, Lim Ah Pin Road|29 December 1953|June 1960|
 |Siglap|Social Welfare Centre, junction of East Coast Road and Palm Road|1 July 1954|20 March 1981|
-
+|Joo Chiat*|Joo Chiat Community Centre, Joo Chiat Road|1 October 1955|1 June 1974|
+|Yio Chu Kang|Yio Chu Kang Community Centre, Yio Chu Kang Road|24 November 1956|June 1960|
+|Chai Chee**|A shophouse in Block 28, Chai Chee Avenue	|9 November 1974|January 1981|
+|Jurong|Jurong Town Community Centre, Yung An Road|15 November 1977|23 May 1988
+|Bedok|Block 209 Upper Changi Road, Bedok Town Centre|14 January 1981|15 August 1985|
+|Whampoa|Block 73, Whampoa Road, opposite Whampoa Community Centre|1 October 1981|30 July 1987
 
 #### **Expanding Library Services**
 
