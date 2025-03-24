@@ -174,22 +174,22 @@ For 30 years, part-time libraries brought books to the people and extended libra
 [^15]: “[Libraries for Rural Areas: First Set Up](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19540106-1.2.24),” _Singapore Free Press_, 6 January 1954, 3. (From NewspaperSG)
 
 
-[^16]: “Libraries for Rural Areas: First Set Up”; “This Is a Happy Suburb,” _Singapore Free Press_, 31 May 1954, 7. (From NewspaperSG)
+[^16]: “[Libraries for Rural Areas: First Set Up](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19540106-1.2.24)”; “[This Is a Happy Suburb](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19540531-1.2.55),” _Singapore Free Press_, 31 May 1954, 7. (From NewspaperSG)
 
 
-[^17]: “Now Siglap Gets Library,” _Singapore Free Press_, 23 June 1954, 2; “Siglap Library,” _Singapore Free Press_, 25 June 1954, 2; “Branch Library Popular,” _Singapore Free Press_, 9 August 1954, 5. (From NewspaperSG)
+[^17]: “[Now Siglap Gets Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19540623-1.2.29),” _Singapore Free Press_, 23 June 1954, 2; “[Siglap Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19540625-1.2.21),” _Singapore Free Press_, 25 June 1954, 2; “[Branch Library Popular](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19540809-1.2.44),” _Singapore Free Press_, 9 August 1954, 5. (From NewspaperSG)
 
 
-[^18]: Seet, A Place for the People, 105; National Library Board Singapore, _Report: 5th December 1960 to 30th September 1963_ (Singapore: Government Printing Office, 1963), 14. (From National Library Singapore, call no. RCLOS 027.55957 SIN)
+[^18]: Seet, [A Place for the People](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082325), 105; [National Library Board Singapore, _Report: 5th December 1960 to 30th September 1963_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4394247) (Singapore: Government Printing Office, 1963), 14. (From National Library Singapore, call no. RCLOS 027.55957 SIN)
 
 
-[^19]: L.M. Harrod, _Raffles Library Annual Report 1956_ (Singapore: Government Printing Office, 1957), 4–5. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR)
+[^19]: L.M. Harrod, [_Raffles Library Annual Report 1956_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4394249) (Singapore: Government Printing Office, 1957), 4–5. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR)
 
 
-[^20]: “Library for Chinese Is Opened,” _Straits Times_, 21 November 1956, 6. (From NewspaperSG)
+[^20]: “[Library for Chinese Is Opened](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19561121-1.2.74),” _Straits Times_, 21 November 1956, 6. (From NewspaperSG)
 
 
-[^21]: Chan Thye Seng, oral history interview by Jason Lim, 19 April 2000, transcript and MP3 audio, Reel/Disc 1 of 15, National Archives of Singapore (accession no. 002265), 2; National Library Singapore, _Annual Report 1963_ (Singapore: Government Printing Office, 1966), 8. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR)
+[^21]: Chan Thye Seng, oral history interview by Jason Lim, 19 April 2000, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/6/6b031050-115e-11e3-83d5-0050568939ad-OHC002265_001/web/html5/index.html) and MP3 audio, Reel/Disc 1 of 15, National Archives of Singapore ([accession no. 002265](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/002265)), 2; National Library Singapore, [_Annual Report 1963_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4617437) (Singapore: Government Printing Office, 1966), 8. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR)
 
 
 [^22]: Chan Thye Seng, oral history interview, 10 May 2000, Reel/Disc 9 of 15, 97–98.
