@@ -7,6 +7,8 @@ description: ""
 #### Part-time branch libraries served residents living in suburban Singapore before fulltime public libraries were built.  
 By Goh Lee Kim
 
+![](/images/Vol%2021%20Issue%202/Part%20Time%20Libraries/parttime_facing.jpg)
+<div style="background-color:white;"> The reading room of the Yio Chu Kang Part-time Branch Library, 1950s. It was run by volunteers and popular among students from the school opposite. <i>Collection of the National Library Singapore. </i></div>
 
 When Irene Chee was in primary school in the 1950s, one of her favourite things to do after school was to drop by a library to borrow books. However, the library she went to was not the Raffles Library on Stamford Road (which became the National Library in 1960). Instead, she patronised a tiny library in her neighbourhood in Katong, the Joo Chiat Library, which was located in the Joo Chiat Community Centre.&nbsp;
 
