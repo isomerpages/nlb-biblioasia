@@ -31,6 +31,11 @@ These part-time libraries thus played an important role in bringing books to out
 |Bedok|Block 209 Upper Changi Road, Bedok Town Centre|14 January 1981|15 August 1985|
 |Whampoa|Block 73, Whampoa Road, opposite Whampoa Community Centre|1 October 1981|30 July 1987
 
+<div style="background-color:white;"> * Joo Chiat Library was opened on 9 August 1949 by the Social Welfare Department and the British Council. It came under the management of the Raffles Library in 1955.
+<br>
+\*\* Chai Chee Part-time Branch Library relocated to Bedok Town Centre in 1981 and became Bedok Part-time Branch Library.</div>
+
+
 #### **Expanding Library Services**
 
 For decades, the subscription-based Raffles Library – established in 1845 as the Singapore Library – was the main library catering to the public.[^2] Since 1887, the Raffles Library had shared the same building with the Raffles Museum on Stamford Road. By the 1920s, as the collections and exhibits expanded, the lack of space became an issue and there were calls for the government to consider expanding or relocating the library to larger premises to accommodate the growing visitorship and collections.[^3]
