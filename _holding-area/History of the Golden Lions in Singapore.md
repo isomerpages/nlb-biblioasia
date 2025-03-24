@@ -91,10 +91,6 @@ _All photos in this essay are courtesy of the Singapore Chin Woo (Athletic) Asso
 <br>
 <img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/106________1976.jpg" style="width: 80%;">The Golden Lion Dance Troupe at a competition in June 1976.</div>
 
-
-  
-
-
 #### **Notes**
 [^1]:  “Northern Lion,” Singapore Chin Woo Association, accessed 26 November 2024, [https://sgchinwoo.com/northern-lions/](https://sgchinwoo.com/northern-lions/)
 
