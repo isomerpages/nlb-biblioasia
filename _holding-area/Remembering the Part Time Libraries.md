@@ -132,31 +132,31 @@ For 30 years, part-time libraries brought books to the people and extended libra
 [^1]: Mrs Irene Chee, personal correspondence, 14 February 2025.
 
 
-[^2]: Subscription ceased in 1958 when the Raffles Library became Singapore’s free national library. See “Rush to Join National Library,” _Singapore Free Press_, 11 April 1958, 5. (From NewspaperSG)
+[^2]: Subscription ceased in 1958 when the Raffles Library became Singapore’s free national library. See “[Rush to Join National Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19580411-1.2.37),” _Singapore Free Press_, 11 April 1958, 5. (From NewspaperSG)
 
 
-[^3]: “Raffles Library,“ _Straits Times_, 24 December 1921, 9; “Raffles Library,” _Malaya Tribune_, 1 November 1922, 3; “Growth of Raffles Library. Big Increase in Subscribers,” _Malaya Tribune_, 29 May 1934, 7. (From NewspaperSG)
+[^3]: “[Raffles Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19211224-1.2.59),“ _Straits Times_, 24 December 1921, 9; “[Raffles Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19221101-1.2.10),” _Malaya Tribune_, 1 November 1922, 3; “[Growth of Raffles Library. Big Increase in Subscribers](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19340529-1.2.39),” _Malaya Tribune_, 29 May 1934, 7. (From NewspaperSG)
 
 
-[^4]: “More Libraries Wanted for Singapore,” _Singapore Free Press and Mercantile Advertiser_, 23 May 1940, 2. (From NewspaperSG)
+[^4]: “[More Libraries Wanted for Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19400523-1.2.20),” _Singapore Free Press and Mercantile Advertiser_, 23 May 1940, 2. (From NewspaperSG)
 
 
-[^5]: “Improvement Plans for Raffles Library,” _Straits Times_, 10 May 1940, 10. (From NewspaperSG)
+[^5]: “[Improvement Plans for Raffles Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19400510-1.2.38),” _Straits Times_, 10 May 1940, 10. (From NewspaperSG)
 
 
-[^6]: “More Library Facilities for Singapore,” _Straits Times_, 26 May 1940, 3. (From NewspaperSG)
+[^6]: “[More Library Facilities for Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19400526-1.2.40),” _Straits Times_, 26 May 1940, 3. (From NewspaperSG)
 
 
-[^7]: “Govt. Postpones Library Extension Scheme,” _Malaya Tribune_, 13 July 1940, 3. (From NewspaperSG)
+[^7]: “[Govt. Postpones Library Extension Scheme](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19400713-1.2.24),” _Malaya Tribune_, 13 July 1940, 3. (From NewspaperSG)
 
 
-[^8]: K.K. Seet, _A Place for the People_ (Singapore: Times Books International, 1983), 80. (From National Library Singapore, call no. RSING 027.55957 SEE-\[LIB\]); “Raffles Library Re-opening Saturday,” _Malaya Tribune_, 28 November 1945, 2–3. (From NewspaperSG)
+[^8]: K.K. Seet, [_A Place for the People_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082325) (Singapore: Times Books International, 1983), 80. (From National Library Singapore, call no. RSING 027.55957 SEE-\[LIB\]); “[Raffles Library Re-opening Saturday](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19451128-1.2.32),” _Malaya Tribune_, 28 November 1945, 2–3. (From NewspaperSG)
 
 
-[^9]: “Asiatic Readers at Library Have Doubled,” _Straits Times_, 8 December 1946, 7; “More Asiatic Than European Readers,” _Singapore Free Press_, 24 April 1947, 2. (From NewspaperSG)
+[^9]: “[Asiatic Readers at Library Have Doubled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19461208-1.2.64),” _Straits Times_, 8 December 1946, 7; “[More Asiatic Than European Readers](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19470424-1.2.25),” _Singapore Free Press_, 24 April 1947, 2. (From NewspaperSG)
 
 
-[^10]: “Extra Libraries Must Wait,” _Singapore Free Press_, 18 May 1949, 7. (From NewspaperSG)
+[^10]: “[Extra Libraries Must Wait](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19490518-1.2.101),” _Singapore Free Press_, 18 May 1949, 7. (From NewspaperSG)
 
 
 [^11]: “Plan to Improve Library,” _Straits Times_, 17 January 1950, 7; “Move to Improve Library Services,” _Singapore Free Press_, 1 February 1950, 5. (From NewspaperSG)
