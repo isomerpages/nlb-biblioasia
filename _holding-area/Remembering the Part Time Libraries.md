@@ -115,7 +115,7 @@ For 30 years, part-time libraries brought books to the people and extended libra
 
 <div style="background-color:white;"> * Joo Chiat Library was opened on 9 August 1949 by the Social Welfare Department and the British Council. It came under the management of the Raffles Library in 1955.
 <br>
-\*\* Chai Chee Part-time Branch Library relocated to Bedok Town Centre in 1981 and became Bedok Part-time Branch Library.</div>
+** Chai Chee Part-time Branch Library relocated to Bedok Town Centre in 1981 and became Bedok Part-time Branch Library.</div>
 
 
 <div style="background-color: white;">
