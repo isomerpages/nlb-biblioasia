@@ -59,7 +59,9 @@ _All photos in this essay are courtesy of the Singapore Chin Woo (Athletic) Asso
 <br>
 <img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/117_______1965_10.jpg" style="width: 80%;">The lions playing with a _xiu qiu_, 1965. The _xiu qiu_ not only added excitement to the performance but also showcased the dancers’ athleticism and the different characters of the lions.</div><br>
 
-
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/128_______1965_10.jpg" style="width: 80%;">Lions taking a break, 1965).</div><br>
 
   
 
