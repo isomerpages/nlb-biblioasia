@@ -12,6 +12,10 @@ By Goh Lee Kim
 
 When Irene Chee was in primary school in the 1950s, one of her favourite things to do after school was to drop by a library to borrow books. However, the library she went to was not the Raffles Library on Stamford Road (which became the National Library in 1960). Instead, she patronised a tiny library in her neighbourhood in Katong, the Joo Chiat Library, which was located in the Joo Chiat Community Centre.&nbsp;
 
+![](/images/Vol%2021%20Issue%202/Part%20Time%20Libraries/parttime_cc.jpg)
+<div style="background-color:white;">Joo Chiat Community Centre, 1964. It housed the Joo Chiat Library between 1949 and 1974. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
+</i></div>
+
 She remembers that the library was very small. “I studied in Katong Convent and on some days, I would drop by the library on my way home from school. I remember borrowing books by Enid Blyton and this started my interest in reading,” recalled Chee, who is now 79.[^1]
 
 Not many people today know this, but there used to be part-time branch libraries in Singapore. The library in Joo Chiat was one of eight part-time libraries run by the Raffles Library between the 1950s and the early 1980s. These libraries were found in the suburbs of Singapore – Upper Serangoon, Siglap, Joo Chiat, Yio Chu Kang, Chai Chee, Bedok, Jurong and Whampoa.
@@ -40,7 +44,15 @@ The idea of branch libraries came into focus once more. In May 1949, in response
 
 In the meantime, rather than wait for the Raffles Library to open a branch in the suburbs, the Department of Social Welfare and the British Council established the Joo Chiat Library. Located in the new Joo Chiat Community Centre, it was opened on 9 August 1949 by Lady Gimson, wife of Governor Franklin Gimson.&nbsp;
 
+![](/images/Vol%2021%20Issue%202/Part%20Time%20Libraries/parttime_gimson.jpg)
+<div style="background-color:white;">Lady Gimson, wife of Governor Franklin Gimson, speaking at the opening ceremony of Joo Chiat Library on 9 August 1949. <i>Source: The Straits Times © SPH Media Limited. Permission required for reproduction.
+</i></div>
+
 “Through this library, people will obtain right reading and right companionship,” she said, “and this will inevitably lead to right thinking for the people of Singapore.” Membership was 10 cents a month for children and 25 cents for adults, with a $1 deposit for a book. Despite the fees, the library gained more than 400 members within a month of its opening.[^12]
+
+![](/images/Vol%2021%20Issue%202/Part%20Time%20Libraries/parttime_area.jpg)
+<div style="background-color:white;">The reading area of the Joo Chiat Part-time Branch Library, 1950s. <i>Collection of the National Library Singapore.
+</i></div>
 
 Meanwhile, on 4 May 1950, the United States Information Service (USIS) Library in Raffles Place opened, becoming Singapore’s first free public library (the Raffles Library at the time was still subscription-based). The USIS Library was lauded for its accessible location and opening hours that catered to the working population.&nbsp;
 
@@ -51,6 +63,9 @@ The library was so highly anticipated that 55 people were waiting in line when i
 The government finally approved the establishment of branch libraries in September 1951. Four branches would be opened at community centres under construction in the suburbs, each providing a selection of between 2,000 and 3,000 books comprising dictionaries, encyclopedias, directories, reference maps, English classics and literature, books on fiction, travel and adventure, periodicals and magazines, children’s titles, as well as publications in Chinese, Malay and Tamil.[^14]
 
 It would take another two years before the Raffles Library opened the first part-time branch library. It was located within the Social Welfare Centre on Lim Ah Pin Road in Upper Serangoon and began operations on 29 December 1953. “There are books for senior and junior readers as well as a small reference section,” Raffles Librarian Kay Hudson told the _Singapore Free Press_. “It’s starting in a small way – with about 2,000 books – but we have great hopes of it growing.”[^15]
+
+![](/images/Vol%2021%20Issue%202/Part%20Time%20Libraries/parttime_branch.jpg)
+<div style="background-color:white;">The first part-time branch library, in Upper Serangoon, opened in December 1953. The library “saved book-lovers many a trip to the city library”. <i>Image reproduced from “This Is a Happy Suburb and a Library Helps,” Singapore Free Press, 31 May 1954, 7. (From NewspaperSG).</i></div>
 
 The library was only open four days a week, from 3 pm to 8 pm on Mondays, Wednesdays and Fridays, and from 2 pm to 5 pm on Saturdays. “It’s unfortunate that we can’t open in the morning because the building is occupied by a children’s welfare centre,” said Hudson. According to Sunny Chiok Hock Siew, who managed the branch, another reason for the later opening hours was to cater to working adults who could only visit after work.[^16]
 
