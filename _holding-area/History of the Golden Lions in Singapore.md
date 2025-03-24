@@ -7,7 +7,7 @@ description: ""
 #### **The Singapore Chin Woo (Athletic) Association’s lion dance troupe open their archives for a peek into the rich history of their Golden Lions.**
 By Stephanie Pee
 
-In 1934, Wei Yuan Feng (1906-84), a pioneer martial arts instructor formerly with Chin Woo in Shanghai, brought a pair of northern lions to Singapore. This marked the start of the Singapore Chin Woo (Athletic) Association Lion Dance Troupe, which eventually became known as the Golden Lion Dance.[^1]
+In 1934, Wei Yuan Feng (1906-84), a pioneer martial arts instructor formerly with the Chin Woo in Shanghai, brought a pair of northern lions to Singapore. This marked the start of the Singapore Chin Woo (Athletic) Association Lion Dance Troupe, which eventually became known as the Golden Lion Dance.[^1]
 
 These photos, shared from the archives of the Singapore Chin Woo (Athletic) Association, present a rare look into the rich history of the Chin Woo Northern Lions in Singapore.
 
@@ -37,7 +37,7 @@ _All photos in this essay are courtesy of the Singapore Chin Woo (Athletic) Asso
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/1952s__1_.jpg" style="width: 80%;">A pugilist engages the lions with a _xiu qiu_, an auspicious ball made of ribbons, 1952.</div>
+<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/1952s__1_.jpg" style="width: 80%;">A pugilist engages the lions with a <i>xiu qiu</i>, an auspicious ball made of ribbons, 1952.</div>
 
 <div style="background-color: white;">
 <br>
@@ -45,11 +45,11 @@ _All photos in this essay are courtesy of the Singapore Chin Woo (Athletic) Asso
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/014_Year_1954.jpg" style="width: 80%;">A pugilist entices the lions with a _xiu qiu_, 1954.</div>
+<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/014_Year_1954.jpg" style="width: 80%;">A pugilist entices the lions with a <i>xiu qiu</i>, 1954.</div>
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/039_Year_1959.jpg" style="width: 80%;">A performance in 1959).</div>
+<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/039_Year_1959.jpg" style="width: 80%;">A performance in 1959.</div>
 
 <div style="background-color: white;">
 <br>
@@ -57,7 +57,7 @@ _All photos in this essay are courtesy of the Singapore Chin Woo (Athletic) Asso
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/117_______1965_10.jpg" style="width: 80%;">The lions playing with a _xiu qiu_, 1965. The _xiu qiu_ not only added excitement to the performance but also showcased the dancers’ athleticism and the different characters of the lions.</div>
+<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/117_______1965_10.jpg" style="width: 80%;">The lions playing with a <i>xiu qiu</i>, 1965. The <i>xiu qiu</i> not only added excitement to the performance but also showcased the dancers’ athleticism and the different characters of the lions.</div>
 
 <div style="background-color: white;">
 <br>
@@ -65,11 +65,11 @@ _All photos in this essay are courtesy of the Singapore Chin Woo (Athletic) Asso
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/035a____________1965.jpg" style="width: 80%;">The lions performing at an event in 1965.</div>
+<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/035a____________1965.jpg" style="width: 80%;">The lions performed at an event jointly organised by the Ministry of National Development  and the Livestock Feed Merchants Association in 1965.</div>
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/156_Year_1966.jpg" style="width: 80%;">The lions pose with _a xiu qiu_ at a performance in 1966.</div>
+<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/156_Year_1966.jpg" style="width: 80%;">The lions pose with a <i>xiu qiu</i> at a performance in 1966.</div>
 
 <div style="background-color: white;">
 <br>
