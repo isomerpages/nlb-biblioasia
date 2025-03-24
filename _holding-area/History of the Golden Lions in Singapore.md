@@ -33,7 +33,7 @@ _All photos in this essay are courtesy of the Singapore Chin Woo (Athletic) Asso
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/1930s__1_.jpg" style="width: 80%;">A pair of northern lions, 1930s. The heads of the early lions were made of yellow clay and their capes of green hemp, making them very heavy.[^12]</div>
+<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/1930s__1_.jpg" style="width: 80%;">A pair of northern lions, 1930s. The heads of the early lions were made of yellow clay and their capes of green hemp, making them very heavy.</div>
 
 <div style="background-color: white;">
 <br>
@@ -113,5 +113,3 @@ _All photos in this essay are courtesy of the Singapore Chin Woo (Athletic) Asso
 [^10]:  “Northern Lion”.
 
 [^11]:  “Northern Lion”.
-	
-[^12]:  “Northern Lion”.
