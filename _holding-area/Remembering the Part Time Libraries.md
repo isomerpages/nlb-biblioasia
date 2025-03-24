@@ -66,7 +66,7 @@ In the meantime, rather than wait for the Raffles Library to open a branch in th
 
 “Through this library, people will obtain right reading and right companionship,” she said, “and this will inevitably lead to right thinking for the people of Singapore.” Membership was 10 cents a month for children and 25 cents for adults, with a $1 deposit for a book. Despite the fees, the library gained more than 400 members within a month of its opening.[^12]
 
-![](/images/Vol%2021%20Issue%202/Part%20Time%20Libraries/parttime_area.jpg)
+![](/images/Vol%2021%20Issue%202/Part%20Time%20Libraries/parttime_area2.jpg)
 <div style="background-color:white;">The reading area of the Joo Chiat Part-time Branch Library, 1950s. <i>Collection of the National Library Singapore.
 </i></div>
 
