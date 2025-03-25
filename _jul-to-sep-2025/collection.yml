@@ -1,4 +1,5 @@
 collections:
   jul-to-sep-2025:
     output: true
-    order: []
+    order:
+      - "Frames of Memory: The Former National Library on Stamford Road.md"
