@@ -70,6 +70,10 @@ The library was only open four days a week, from 3 pm to 8 pm on Mondays, Wednes
 
 To serve people living in the east, the Siglap Part-time Branch Library opened at the Social Welfare Centre, located at the junction of East Coast Road and Palm Road, six months later on 1 July 1954. This branch also operated only four days a week: from 3 pm to 8&nbsp;pm on Tuesdays, Thursdays and Fridays, and from 2&nbsp;pm to 5 pm on Saturdays. The library proved popular with residents in the area. Hudson told the _Singapore Free Press_: “There are now some 80 senior and junior members and we have great hopes of it growing more.”[^17]
 
+![](/images/Vol%2021%20Issue%202/Part%20Time%20Libraries/parttime_siglap.jpg)
+<div style="background-color:white;">The Siglap Social Welfare Centre, 1953.  <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
+
 Joo Chiat Library became the third part-time branch library on 1 October 1955 when it was handed over to the Raffles Library to manage. The library was opened three times a week on Mondays and Wednesdays (2 pm to 8 pm), and Saturdays (10 am to 5 pm).[^18]
 
 An opportunity arose for the Raffles Library to set up another branch in Yio Chu Kang when the library received a book gift from the principal of a Chinese school nearby. The fourth part-time branch library was officially opened at Yio Chu Kang Community Centre on 24 November 1956 by Chief Minister Lim Yew Hock.[^19] It was also the first Chinese branch opened by the Raffles Library, with its collection comprising 1,000 titles in Chinese and 500 titles in English.[^20]
