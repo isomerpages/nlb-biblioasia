@@ -147,7 +147,7 @@ For 30 years, part-time libraries brought books to the people and extended libra
 [^2]: Subscription ceased in 1958 when the Raffles Library became Singapore’s free national library. See “[Rush to Join National Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19580411-1.2.37),” _Singapore Free Press_, 11 April 1958, 5. (From NewspaperSG)
 
 
-[^3]: “[Raffles Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19211224-1.2.59),“ _Straits Times_, 24 December 1921, 9; “[Raffles Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19221101-1.2.10),” _Malaya Tribune_, 1 November 1922, 3; “[Growth of Raffles Library. Big Increase in Subscribers](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19340529-1.2.39),” _Malaya Tribune_, 29 May 1934, 7. (From NewspaperSG)
+[^3]: “[Raffles Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19211224-1.2.59),” _Straits Times_, 24 December 1921, 9; “[Raffles Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19221101-1.2.10),” _Malaya Tribune_, 1 November 1922, 3; “[Growth of Raffles Library. Big Increase in Subscribers](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19340529-1.2.39),” _Malaya Tribune_, 29 May 1934, 7. (From NewspaperSG)
 
 
 [^4]: “[More Libraries Wanted for Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19400523-1.2.20),” _Singapore Free Press and Mercantile Advertiser_, 23 May 1940, 2. (From NewspaperSG)
