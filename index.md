@@ -1125,4 +1125,15 @@ sections:
       image: /images/Online Only Articles/Conquer Tallest
         Mountain_12_23/mok_on_fixed_ropes_homepage.png
       alt: Image alt text
+  - infopic:
+      title: "Frames of Memory: The Former National Library"
+      subtitle: Places and Buildings
+      id: infopic
+      description: Beyond being a mere repository of books, the former landmark on
+        Stamford Road was a place for acquiring knowledge, making memories and
+        creating friendships.
+      button: REMEMBERING A BELOVED ICON
+      url: /vol-21/issue-2/jul-sep-2025/national-library-stamford-road-photos/
+      image: /images/Vol 21 Issue 2/Frames of Memory/frames_topic.jpg
+      alt: Former National Library
 ---
