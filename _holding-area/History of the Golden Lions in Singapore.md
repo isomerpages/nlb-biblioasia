@@ -98,7 +98,7 @@ _All photos in this essay are courtesy of the Singapore Chin Woo (Athletic) Asso
 
 [^3]:  “Symbolism of the Lion,” Lion Dance Singapore, accessed 19 March 2025, [https://www.liondance.sg/blog/the-lion-dance-a-traditional-art-of-asian-culture](https://www.liondance.sg/blog/the-lion-dance-a-traditional-art-of-asian-culture)
 
-[^4]:  Seow Peck Ngiam, “<a href="https://biblioasia.nlb.gov.sg/vol-20/issue-1/apr-jun-2024/singapore-chin-woo-athletic-association/">One Hundred Years of Martial Arts: A History of the Singapore Chin Woo (Athletic) Association</a>,” <i>BiblioAsia</i>  (Apr–Jun 2024): 64–67.
+[^4]:  Seow Peck Ngiam, “<a href="https://biblioasia.nlb.gov.sg/vol-20/issue-1/apr-jun-2024/singapore-chin-woo-athletic-association/">One Hundred Years of Martial Arts: A History of the Singapore Chin Woo (Athletic) Association</a>,” <i>BiblioAsia</i> 20, no. 1 (Apr–Jun 2024): 64–67.
 
 [^5]:  Seow, “[A Hundred Years of Martial Arts](https://biblioasia.nlb.gov.sg/vol-20/issue-1/apr-jun-2024/singapore-chin-woo-athletic-association/).”; “Northern Lions”.
 
