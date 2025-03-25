@@ -65,7 +65,7 @@ _All photos in this essay are courtesy of the Singapore Chin Woo (Athletic) Asso
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/035a____________1965.jpg" style="width: 80%;">The lions performing at an event jointly organised by the Ministry of National Development  and the Livestock Feed Merchants Association in 1965.</div>
+<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/035a____________1965.jpg" style="width: 80%;">The lions performing at Kallang Park for an event jointly organised by the Ministry of National Development and the Livestock Feed Merchants Association in 1965.</div>
 
 <div style="background-color: white;">
 <br>
