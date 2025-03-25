@@ -4,7 +4,7 @@ permalink: /holding-area/history-of-the-golden-lions-in-singapore/
 variant: markdown
 description: ""
 ---
-#### **The Singapore Chin Woo (Athletic) Association’s lion dance troupe open their archives for a peek into the rich history of their Golden Lions.**
+#### **The Singapore Chin Woo (Athletic) Association’s lion dance troupe opens their archives for a peek into the rich history of their Golden Lions.**
 By Stephanie Pee
 
 In 1934, Wei Yuan Feng (1906-84), a pioneer martial arts instructor formerly with the Chin Woo in Shanghai, brought a pair of northern lions to Singapore. This marked the start of the Singapore Chin Woo (Athletic) Association Lion Dance Troupe, which eventually became known as the Golden Lion Dance.[^1]
