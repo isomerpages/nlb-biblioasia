@@ -4,14 +4,14 @@ permalink: /holding-area/history-of-the-golden-lions-in-singapore/
 variant: markdown
 description: ""
 ---
-#### **The Singapore Chin Woo (Athletic) Association’s lion dance troupe open their archives for a peek into the rich history of their Golden Lions.**
+#### **The Singapore Chin Woo (Athletic) Association’s lion dance troupe opens their archives for a peek into the rich history of their Golden Lions.**
 By Stephanie Pee
 
-In 1934, Wei Yuan Feng (1906-84), a pioneer martial arts instructor formerly with the Chin Woo in Shanghai, brought a pair of northern lions to Singapore. This marked the start of the Singapore Chin Woo (Athletic) Association Lion Dance Troupe, which eventually became known as the Golden Lion Dance.[^1]
+In 1934, Wei Yuan Feng (1906–84), a pioneer martial arts instructor formerly with the Chin Woo in Shanghai, brought a pair of northern lions to Singapore. This marked the start of the Singapore Chin Woo (Athletic) Association Lion Dance Troupe, which eventually became known as the Golden Lion Dance Troupe.[^1]
 
 These photos, shared from the archives of the Singapore Chin Woo (Athletic) Association, present a rare look into the rich history of the Chin Woo Northern Lions in Singapore.
 
-While both Northern and Southern lion dances are rooted in martial arts, they are also two distinct styles of lion dance that come from different regions in China. The Northern Lion is usually larger and more vibrantly coloured, with a long, flowing mane. Its head features large eyes and multiple bumps on the back of their heads. Its movements can be said to be sometimes dog- or cat-like, hence they come across as gentle, playful, lively and even tame. Its Southern counterpart, on the other hand, has a prominent horn on its head and is typically smaller.[^2] They are also known for being more aggressive in stance, particularly during the “plucking of the greens” or 踩青 (cai qing). This is when the lion “eats” an object like lettuce during the performance and throws it out, symbolising the spread of good luck and prosperity.[^3]
+While both Northern and Southern lion dances are rooted in martial arts, they are also two distinct styles of lion dance that come from different regions in China. The Northern Lion is usually larger and more vibrantly coloured, with a long, flowing mane. Its head features large eyes and multiple bumps on the back of their heads. Its movements can be said to be sometimes dog- or cat-like, hence they come across as gentle, playful, lively and even tame. Its Southern counterpart, on the other hand, has a prominent horn on its head and is typically smaller.[^2] They are also known for being more aggressive in stance, particularly during the “plucking of the greens” or 踩青 (<i>cai qing</i>). This is when the lion “eats” an object like lettuce during the performance and throws it out, symbolising the spread of good luck and prosperity.[^3]
 
 The first pair of northern lions brought to Singapore were unfortunately destroyed during the Second World War.[^4] Their heads were made of mud and sand, making them heavy and uncomfortable. Each lion weighed around 10 kg and their heft meant that dancers could only manage limited – and therefore clumsy – moves.[^5]
 
@@ -19,7 +19,7 @@ In 1945, Wei ordered another pair of lions from the Shanghai Chin Woo Associatio
 
 Together with fellow martial arts instructor, Fang You Chang, Wei decided to make the lion’s head out of bamboo, golden paper and golden wool. Golden yellow hemp from the Philippines was then used for the cape of the lion’s body. This resulted in a lion that was about half the weight of the original lions – and, more importantly, one that was easier to manoeuvre.[^7]
 
-Hailing from the Chin Woo Athletic Association, the lion dancers were athletic and agile, often performing thrilling stunts such as jumping from heights. They had to realistically express the movements and expressions of the lions, such as yawning, stretching, fighting and sitting.[^8] Each performance was accompanied by drums, gongs and the suona.[^9]
+Hailing from the Chin Woo Athletic Association, the lion dancers were athletic and agile, often performing thrilling stunts such as jumping from heights. They had to realistically express the movements and expressions of the lions, such as yawning, stretching, fighting and sitting.[^8] Each performance was accompanied by drums, gongs and the suona (a traditional double-reeded Chinese musical instrument).[^9]
 
 The lions also performed with pugilists, who would engage the lions with _a xiu qiu_ (an auspicious ball made of ribbons). These interactions not only showcased the athleticism of the dancers, but also drew out the different moods and playfulness of the lions.[^10]
 
@@ -65,7 +65,7 @@ _All photos in this essay are courtesy of the Singapore Chin Woo (Athletic) Asso
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/035a____________1965.jpg" style="width: 80%;">The lions performed at an event jointly organised by the Ministry of National Development  and the Livestock Feed Merchants Association in 1965.</div>
+<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/035a____________1965.jpg" style="width: 80%;">The lions performing at an event jointly organised by the Ministry of National Development  and the Livestock Feed Merchants Association in 1965.</div>
 
 <div style="background-color: white;">
 <br>
@@ -98,7 +98,7 @@ _All photos in this essay are courtesy of the Singapore Chin Woo (Athletic) Asso
 
 [^3]:  “Symbolism of the Lion,” Lion Dance Singapore, accessed 19 March 2025, [https://www.liondance.sg/blog/the-lion-dance-a-traditional-art-of-asian-culture](https://www.liondance.sg/blog/the-lion-dance-a-traditional-art-of-asian-culture)
 
-[^4]:  Seow Peck Ngian, “One Hundred Years of Martial Arts: A History of the Singapore Chin Woo (Athletic) Association,” BiblioAsia (Apr-Jun 2024), accessed 26 November 2024, [https://biblioasia.nlb.gov.sg/vol-20/issue-1/apr-jun-2024/singapore-chin-woo-athletic-association/](https://biblioasia.nlb.gov.sg/vol-20/issue-1/apr-jun-2024/singapore-chin-woo-athletic-association/); “Northern Lion”.
+[^4]:  Seow Peck Ngiam, “<a href="https://biblioasia.nlb.gov.sg/vol-20/issue-1/apr-jun-2024/singapore-chin-woo-athletic-association/">One Hundred Years of Martial Arts: A History of the Singapore Chin Woo (Athletic) Association</a>,” <i>BiblioAsia</i> 20, no. 1 (Apr–Jun 2024): 64–67.
 
 [^5]:  Seow, “[A Hundred Years of Martial Arts](https://biblioasia.nlb.gov.sg/vol-20/issue-1/apr-jun-2024/singapore-chin-woo-athletic-association/).”; “Northern Lions”.
 

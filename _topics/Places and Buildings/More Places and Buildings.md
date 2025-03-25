@@ -5,6 +5,13 @@ description: ""
 third_nav_title: Places and Buildings
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/national-library-stamford-road-photos/">Frames of Memory: The Former National Library on Stamford Road</a>
+
+Beyond being a mere repository of books, the former landmark on Stamford Road was a place for acquiring knowledge, making memories and creating friendships.
+
+<img src="/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_topic.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/places-and-buildings/more/2025/1/karikal-mahal-cattle-king-malayan-magic-circle-internment-camp/">Karikal Mahal: Stories Reimagined and Retold</a>
 
 History, research and compelling storytelling come together to bring the story of Karikal Mahal to life.

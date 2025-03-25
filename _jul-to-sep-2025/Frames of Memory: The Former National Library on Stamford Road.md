@@ -1,6 +1,6 @@
 ---
 title: "Frames of Memory: The Former National Library on Stamford Road"
-permalink: /holding-area/vol-21/issue-2/jul-sep-2025/frames-of-memory/
+permalink: /vol-21/issue-2/jul-sep-2025/national-library-stamford-road-photos/
 variant: markdown
 description: ""
 ---

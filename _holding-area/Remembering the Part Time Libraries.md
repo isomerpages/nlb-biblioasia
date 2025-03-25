@@ -27,23 +27,6 @@ The first fulltime branch library established by the National Library was the Qu
 These part-time libraries thus played an important role in bringing books to outlying communities before a network of fulltime branch libraries was set up. Subsequently, these part-time libraries continued to exist as a stop-gap measure for new estates that did not yet have a fulltime branch library nearby. However, as the National Library’s network of libraries effectively fanned out throughout Singapore, the need for part-time libraries declined. The last part-time branch library in Whampoa was opened in 1981 and was shuttered six years later.
 
 
-|Library|Location|Date of Opening|Date of Closure|
-| -------- | -------- | -------- | -------- |
-|Upper Serangoon|Social Welfare Centre, Lim Ah Pin Road|29 December 1953|June 1960|
-|Siglap|Social Welfare Centre, junction of East Coast Road and Palm Road|1 July 1954|20 March 1981|
-|Joo Chiat*|Joo Chiat Community Centre, Joo Chiat Road|1 October 1955|1 June 1974|
-|Yio Chu Kang|Yio Chu Kang Community Centre, Yio Chu Kang Road|24 November 1956|June 1960|
-|Chai Chee**|A shophouse in Block 28, Chai Chee Avenue	|9 November 1974|January 1981|
-|Jurong|Jurong Town Community Centre, Yung An Road|15 November 1977|23 May 1988
-|Bedok|Block 209 Upper Changi Road, Bedok Town Centre|14 January 1981|15 August 1985|
-|Whampoa|Block 73, Whampoa Road, opposite Whampoa Community Centre|1 October 1981|30 July 1987
-
-
-<div style="background-color:white;"> * Joo Chiat Library was opened on 9 August 1949 by the Social Welfare Department and the British Council. It came under the management of the Raffles Library in 1955.
-<br>
-** Chai Chee Part-time Branch Library relocated to Bedok Town Centre in 1981 and became Bedok Part-time Branch Library.</div>
-
-
 #### **Expanding Library Services**
 
 For decades, the subscription-based Raffles Library – established in 1845 as the Singapore Library – was the main library catering to the public.[^2] Since 1887, the Raffles Library had shared the same building with the Raffles Museum on Stamford Road. By the 1920s, as the collections and exhibits expanded, the lack of space became an issue and there were calls for the government to consider expanding or relocating the library to larger premises to accommodate the growing visitorship and collections.[^3]
@@ -54,7 +37,7 @@ Around the same time, the Raffles Library’s committee of management was also c
 
 F.N. Chasen, the director of the Raffles Library and Museum then, believed that such extensions were critical: “As I see it, the ideal library situation in this city is that every responsible person should have access to a well-stocked reference and lending library… For books are not luxuries; far from it: they are among the prime necessities of life.”[^6] However, as the library was subsidised by the government, it lacked the necessary funding for this extension. In July 1940, the government postponed the extension scheme citing cost concerns and other uses for the school building.[^7]
 
-During the Japanese Occupation (1942–45), the Raffles Library and Museum was appropriated by the Japanese and renamed Syonan Hakubutsukan and Syonan Tosyokan respectively. When the war ended, it reopened to the public on 1 December 1945.[^8] Users promptly returned and within a year, membership at the Raffles Library reached its highest ever recorded.[^9]
+During the Japanese Occupation (1942–45), the Raffles Library and Museum was appropriated by the Japanese and&nbsp;renamed Syonan Tosyokan and Syonan Hakubutsukan&nbsp;respectively. When the war ended, it reopened to the public on 1 December 1945.[^8] Users promptly returned and within a year, membership at the Raffles Library reached its highest ever recorded.[^9]
 
 The idea of branch libraries came into focus once more. In May 1949, in response to a question raised during a Legislative Council meeting, the government again deferred plans for branch libraries, citing the need to appoint a qualified librarian to head the Raffles Library first.[^10] Nonetheless, a working committee was formed in January 1950 to look into the improvement and extension of library services in Singapore, including the setting up of branch libraries.[^11]
 
@@ -86,6 +69,10 @@ It would take another two years before the Raffles Library opened the first part
 The library was only open four days a week, from 3 pm to 8 pm on Mondays, Wednesdays and Fridays, and from 2 pm to 5 pm on Saturdays. “It’s unfortunate that we can’t open in the morning because the building is occupied by a children’s welfare centre,” said Hudson. According to Sunny Chiok Hock Siew, who managed the branch, another reason for the later opening hours was to cater to working adults who could only visit after work.[^16]
 
 To serve people living in the east, the Siglap Part-time Branch Library opened at the Social Welfare Centre, located at the junction of East Coast Road and Palm Road, six months later on 1 July 1954. This branch also operated only four days a week: from 3 pm to 8&nbsp;pm on Tuesdays, Thursdays and Fridays, and from 2&nbsp;pm to 5 pm on Saturdays. The library proved popular with residents in the area. Hudson told the _Singapore Free Press_: “There are now some 80 senior and junior members and we have great hopes of it growing more.”[^17]
+
+![](/images/Vol%2021%20Issue%202/Part%20Time%20Libraries/parttime_siglap.jpg)
+<div style="background-color:white;">The Siglap Social Welfare Centre, 1953.  <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 
 Joo Chiat Library became the third part-time branch library on 1 October 1955 when it was handed over to the Raffles Library to manage. The library was opened three times a week on Mondays and Wednesdays (2 pm to 8 pm), and Saturdays (10 am to 5 pm).[^18]
 
@@ -139,6 +126,14 @@ In 1981, the National Library announced plans to open eight more fulltime branch
 For 30 years, part-time libraries brought books to the people and extended library services to neighbourhoods in the outlying areas. These libraries may be largely forgotten today but while they existed, they played an important role in supporting Singapore’s push for literacy, education and economic development.
 
 
+
+![](/images/Vol%2021%20Issue%202/Part%20Time%20Libraries/parttime_table.jpg)
+<div style="background-color:white;"> * Joo Chiat Library was opened on 9 August 1949 by the Social Welfare Department and the British Council. It came under the management of the Raffles Library in 1955.
+<br>
+** Chai Chee Part-time Branch Library relocated to Bedok Town Centre in 1981 and became Bedok Part-time Branch Library.</div>
+
+
+
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/GohLeeKim.png">
@@ -156,7 +151,7 @@ For 30 years, part-time libraries brought books to the people and extended libra
 [^2]: Subscription ceased in 1958 when the Raffles Library became Singapore’s free national library. See “[Rush to Join National Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19580411-1.2.37),” _Singapore Free Press_, 11 April 1958, 5. (From NewspaperSG)
 
 
-[^3]: “[Raffles Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19211224-1.2.59),“ _Straits Times_, 24 December 1921, 9; “[Raffles Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19221101-1.2.10),” _Malaya Tribune_, 1 November 1922, 3; “[Growth of Raffles Library. Big Increase in Subscribers](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19340529-1.2.39),” _Malaya Tribune_, 29 May 1934, 7. (From NewspaperSG)
+[^3]: “[Raffles Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19211224-1.2.59),” _Straits Times_, 24 December 1921, 9; “[Raffles Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19221101-1.2.10),” _Malaya Tribune_, 1 November 1922, 3; “[Growth of Raffles Library. Big Increase in Subscribers](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19340529-1.2.39),” _Malaya Tribune_, 29 May 1934, 7. (From NewspaperSG)
 
 
 [^4]: “[More Libraries Wanted for Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19400523-1.2.20),” _Singapore Free Press and Mercantile Advertiser_, 23 May 1940, 2. (From NewspaperSG)
