@@ -1,5 +1,5 @@
 ---
-title: Remembering the Part Time Libraries
+title: Remembering the Part-Time Libraries
 permalink: /vol-21/issue-2/jul-sep-2025/part-time-libraries/
 variant: markdown
 description: ""
