@@ -65,7 +65,7 @@ _All photos in this essay are courtesy of the Singapore Chin Woo (Athletic) Asso
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/035a____________1965.jpg" style="width: 80%;">The lions performing at an event jointly organised by the Ministry of National Development  and the Livestock Feed Merchants Association in 1965.</div>
+<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/035a____________1965.jpg" style="width: 80%;">The lions performing at Kallang Park for an event jointly organised by the Ministry of National Development and the Livestock Feed Merchants Association in 1965.</div>
 
 <div style="background-color: white;">
 <br>
@@ -73,15 +73,15 @@ _All photos in this essay are courtesy of the Singapore Chin Woo (Athletic) Asso
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/1967s__1_.jpg" style="width: 80%;">The troupe performing at the first National Guoshu Competition in 1967.</div>
+<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/1967s__1_.jpg" style="width: 80%;">The troupe performing at the first National Wushu Competition in 1967.</div>
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/095________1967.jpg" style="width: 80%;">The Chin Woo lion dancers wow the crowd at the first National Guoshu Competition in 1967.</div>
+<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/095________1967.jpg" style="width: 80%;">The Chin Woo lion dancers wow the crowd at the first National Wushu Competition in 1967.</div>
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/102________1967.jpg" style="width: 80%;">Showing off their moves at the inaugural 1967 National Guoshu Competition.</div>
+<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/102________1967.jpg" style="width: 80%;">Showing off their moves at the inaugural 1967 National Wushu Competition.</div>
 
 <div style="background-color: white;">
 <br>
@@ -89,7 +89,7 @@ _All photos in this essay are courtesy of the Singapore Chin Woo (Athletic) Asso
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/106________1976.jpg" style="width: 80%;">The Golden Lion Dance Troupe at a competition in June 1976.</div>
+<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/106________1976.jpg" style="width: 80%;">The Golden Lion Dance Troupe at the 4th National Wushu Competition held in June 1976.</div>
 
 #### **Notes**
 [^1]:  “Northern Lion,” Singapore Chin Woo Association, accessed 26 November 2024, [https://sgchinwoo.com/northern-lions/](https://sgchinwoo.com/northern-lions/)

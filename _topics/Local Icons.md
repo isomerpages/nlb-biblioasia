@@ -4,6 +4,13 @@ permalink: /topics/local-icons/
 description: ""
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/national-library-stamford-road-photos/">Frames of Memory: The Former National Library on Stamford Road</a>
+
+Beyond being a mere repository of books, the former landmark on Stamford Road was a place for acquiring knowledge, making memories and creating friendships.
+
+<img src="/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_topic.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/localicons/2024/6/risis-gold-orchid-tourism-souvenir/">Singapore’s National Souvenir: The Gold-plated Past of RISIS</a>
 
 The zoo was able to overcome major setbacks in its formative years to become the well-loved tourist attraction it is today.
@@ -276,5 +283,3 @@ Few people are aware that the island’s first public zoo was set up in 1875.&nb
 
 <img src="/images/vol-10-issue-1/library/old_National_Library.jpg" style="width:80%;">
 <hr>
-
-

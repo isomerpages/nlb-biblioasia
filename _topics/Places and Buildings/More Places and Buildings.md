@@ -5,6 +5,13 @@ description: ""
 third_nav_title: Places and Buildings
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/part-time-libraries/">Remembering the Part-Time Libraries</a>
+
+Part-time branch libraries served residents living in suburban Singapore before fulltime public libraries were built.
+
+<img src="/images/Vol%2021%20Issue%202/Part%20Time%20Libraries/parttimelib_topic.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/national-library-stamford-road-photos/">Frames of Memory: The Former National Library on Stamford Road</a>
 
 Beyond being a mere repository of books, the former landmark on Stamford Road was a place for acquiring knowledge, making memories and creating friendships.
