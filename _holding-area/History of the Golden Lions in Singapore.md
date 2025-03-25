@@ -19,7 +19,7 @@ In 1945, Wei ordered another pair of lions from the Shanghai Chin Woo Associatio
 
 Together with fellow martial arts instructor, Fang You Chang, Wei decided to make the lion’s head out of bamboo, golden paper and golden wool. Golden yellow hemp from the Philippines was then used for the cape of the lion’s body. This resulted in a lion that was about half the weight of the original lions – and, more importantly, one that was easier to manoeuvre.[^7]
 
-Hailing from the Chin Woo Athletic Association, the lion dancers were athletic and agile, often performing thrilling stunts such as jumping from heights. They had to realistically express the movements and expressions of the lions, such as yawning, stretching, fighting and sitting.[^8] Each performance was accompanied by drums, gongs and the suona.[^9]
+Hailing from the Chin Woo Athletic Association, the lion dancers were athletic and agile, often performing thrilling stunts such as jumping from heights. They had to realistically express the movements and expressions of the lions, such as yawning, stretching, fighting and sitting.[^8] Each performance was accompanied by drums, gongs and the suona (a traditional double-reeded Chinese musical instrument).[^9]
 
 The lions also performed with pugilists, who would engage the lions with _a xiu qiu_ (an auspicious ball made of ribbons). These interactions not only showcased the athleticism of the dancers, but also drew out the different moods and playfulness of the lions.[^10]
 
