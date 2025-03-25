@@ -12,11 +12,11 @@ By Goh Lee Kim
 
 When Irene Chee was in primary school in the 1950s, one of her favourite things to do after school was to drop by a library to borrow books. However, the library she went to was not the Raffles Library on Stamford Road (which became the National Library in 1960). Instead, she patronised a tiny library in her neighbourhood in Katong, the Joo Chiat Library, which was located in the Joo Chiat Community Centre.&nbsp;
 
+She remembers that the library was very small. “I studied in Katong Convent and on some days, I would drop by the library on my way home from school. I remember borrowing books by Enid Blyton and this started my interest in reading,” recalled Chee, who is now 79.[^1]
+
 ![](/images/Vol%2021%20Issue%202/Part%20Time%20Libraries/parttime_cc.jpg)
 <div style="background-color:white;">Joo Chiat Community Centre, 1964. It housed the Joo Chiat Library between 1949 and 1974. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.
 </i></div>
-
-She remembers that the library was very small. “I studied in Katong Convent and on some days, I would drop by the library on my way home from school. I remember borrowing books by Enid Blyton and this started my interest in reading,” recalled Chee, who is now 79.[^1]
 
 Not many people today know this, but there used to be part-time branch libraries in Singapore. The library in Joo Chiat was one of eight part-time libraries run by the Raffles Library between the 1950s and the early 1980s. These libraries were found in the suburbs of Singapore – Upper Serangoon, Siglap, Joo Chiat, Yio Chu Kang, Chai Chee, Bedok, Jurong and Whampoa.
 
