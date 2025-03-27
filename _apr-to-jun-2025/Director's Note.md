@@ -1,6 +1,6 @@
 ---
 title: Director's Note
-permalink: /vol-21/issue-1/jan-mar-2025/director-note/
+permalink: /vol-21/issue-1/apr-jun-2025/director-note/
 variant: markdown
 description: ""
 ---

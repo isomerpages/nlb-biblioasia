@@ -4,7 +4,7 @@ permalink: /topics/local-icons/
 description: ""
 variant: markdown
 ---
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/national-library-stamford-road-photos/">Frames of Memory: The Former National Library on Stamford Road</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/national-library-stamford-road-photos/">Remembering the Lady in Red: The Former National Library on Stamford Road</a>
 
 Beyond being a mere repository of books, the former landmark on Stamford Road was a place for acquiring knowledge, making memories and creating friendships.
 
