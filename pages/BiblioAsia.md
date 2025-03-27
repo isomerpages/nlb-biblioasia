@@ -15,7 +15,22 @@ boxing superstar?</p>
 </div>
 <p></p>
 <h4><strong>Season 3</strong></h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/the-misunderstood-trip-that-led-to-the-1953-landmark-art-exhibition-gretchen-liu" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Gretchen Liu" src="/images/Podcast/Biblioasia_600_by_400_Gretchen_Liu.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Misunderstood Trip That Led to the 1953 Landmark Art Exhibition</div><div class="isomer-card-description">In 1952, four Singapore artists – Chen Chong Swee, Chen Wen Hsi, Cheong Soo Pieng and Liu Kang – travelled to Java and Bali in search of artistic inspiration and held a landmark exhibition in 1953. Gretchen Liu, Liu Kang’s daughter-in-law, tells us about the little-known trip.</div><div class="isomer-card-link">Listen to the episode</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/Badang-the-strongman-a-miracle-working-grave-a-folk-tale-and-a-nations-mythology-william-gibson" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Badang the Strongman" src="/images/Podcast/William_600_by_400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Badang the Strongman: A Miracle-working Grave, A Folk Tale and a Nation’s Mythology  </div><div class="isomer-card-description">The folktale goes that Badang, an aboriginal slave, gains supernatural strength after eating the vomit of a spirit. Independent scholar William Gibson tells us the tale is more complicated than generally known.</div><div class="isomer-card-link">Coming in May</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/peng-tsu-ying-singapore-pioneering-deaf-educator-nathaniel-chew/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Peng Tsu Ying" src="/images/Podcast/Nathaniel_Chew_web.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Peng Tsu Ying: Singapore's Pioneering Deaf Educator</div>
+<div class="isomer-card-description">When Peng Tsu Ying came to Singapore from Shanghai in the late 1940s,
+he could not find a deaf person like him. So he opened a school for the
+deaf. Librarian Nathaniel Chew talks about Peng’s advocacy for the deaf,
+and the Singapore Sign Language.</div>
+<div class="isomer-card-link">Coming in April</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/the-misunderstood-trip-that-led-to-the-1953-landmark-art-exhibition-gretchen-liu" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Gretchen Liu" src="/images/Podcast/Biblioasia_600_by_400_Gretchen_Liu.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Misunderstood Trip That Led to the 1953 Landmark Art Exhibition</div><div class="isomer-card-description">In 1952, four Singapore artists – Chen Chong Swee, Chen Wen Hsi, Cheong Soo Pieng and Liu Kang – travelled to Java and Bali in search of artistic inspiration and held a landmark exhibition in 1953. Gretchen Liu, Liu Kang’s daughter-in-law, tells us about the little-known trip.</div><div class="isomer-card-link">Listen to the episode</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/life-and-legacy-zubir-said-julian-wong/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
