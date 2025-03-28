@@ -2,10 +2,10 @@ collections:
   podcast:
     output: true
     order:
-      - A Miracle Working Grave/.keep
-      - "A Miracle Working Grave/Badang the Strongman: A Miracle working Grave,
+      - A Miracle working Grave/.keep
+      - "A Miracle working Grave/Badang the Strongman: A Miracle working Grave,
         A Folk Tale and a Nation’s Mythology.md"
-      - A Miracle Working Grave/Transcript.md
+      - A Miracle working Grave/Transcript.md
       - The Pioneering Deaf Educator/.keep
       - "The Pioneering Deaf Educator/Peng Tsu Ying: Singapore's Pioneering Deaf
         Educator.md"
