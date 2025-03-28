@@ -1133,7 +1133,7 @@ sections:
         Mountain_12_23/mok_on_fixed_ropes_homepage.png
       alt: Image alt text
   - infopic:
-      title: "Frames of Memory: The Former National Library"
+      title: "Remembering the Lady in Red: The Former National Library"
       subtitle: Places and Buildings
       id: infopic
       description: Beyond being a mere repository of books, the former landmark on
