@@ -24,6 +24,9 @@ sections:
       url: /culture/2025/3/history-northern-lion-dance-chin-woo-athletic-association-singapore-photos/
       image: /images/Online Only Articles/Chin Woo Northern Lions/1930s__1_.jpg
       alt: Golden Lions in Singapore
+      description: The Singapore Chin Woo (Athletic) Association’s lion dance troupe
+        opens their archives for a peek into the rich history of their Golden
+        Lions.
   - infopic:
       title: New Books on Singapore History (Apr 2025)
       subtitle: Literature
