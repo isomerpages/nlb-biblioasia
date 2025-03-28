@@ -17,6 +17,14 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 20 Issue 4/Caligraphy/HeroImage_caligraphy_3.jpg
   - infopic:
+      title: History of the Golden Lions in Singapore
+      subtitle: Culture
+      id: infopic
+      button: Golden Lions in Pictures
+      url: /culture/2025/3/history-northern-lion-dance-chin-woo-athletic-association-singapore-photos/
+      image: /images/Online Only Articles/Chin Woo Northern Lions/1930s__1_.jpg
+      alt: Golden Lions in Singapore
+  - infopic:
       title: New Books on Singapore History (Apr 2025)
       subtitle: Literature
       id: infopic
@@ -1135,12 +1143,4 @@ sections:
       url: /vol-21/issue-2/jul-sep-2025/national-library-stamford-road-photos/
       image: /images/Vol 21 Issue 2/Frames of Memory/frames_topic.jpg
       alt: Former National Library
-  - infopic:
-      title: History of the Golden Lions in Singapore
-      subtitle: Culture
-      id: infopic
-      button: Golden Lions in Pictures
-      url: /culture/2025/3/history-northern-lion-dance-chin-woo-athletic-association-singapore-photos/
-      image: /images/Online Only Articles/Chin Woo Northern Lions/1930s__1_.jpg
-      alt: Golden Lions in Singapore
 ---
