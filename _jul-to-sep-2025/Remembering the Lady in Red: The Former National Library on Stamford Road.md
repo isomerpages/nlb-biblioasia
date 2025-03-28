@@ -57,6 +57,9 @@ Externally, the structure was clad in striking red brick that became the hallmar
 
 The National Library offered a wide array of collections and services. The public lending library included separate sections for adult and children’s books as well as facilities for activities, while the reference library housed the South East Asia Collection.&nbsp;
 
+<div style="background-color: white;">
+<img src="/images/Vol%2021%20Issue%202/Frames%20of%20Memory/reference_room_nlb.jpg" style="width: 80%;">The Reference Room at the National Library, 1964. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 ![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_queue2.jpg)
 <div>Children queuing to borrow books at the information counter in the Children’s Section, 1970s. <i>Collection of the National Library Singapore.
 </i></div>
