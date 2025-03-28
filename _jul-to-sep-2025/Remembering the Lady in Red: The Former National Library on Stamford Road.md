@@ -57,6 +57,9 @@ Externally, the structure was clad in striking red brick that became the hallmar
 
 The National Library offered a wide array of collections and services. The public lending library included separate sections for adult and children’s books as well as facilities for activities, while the reference library housed the South East Asia Collection.&nbsp;
 
+<div style="background-color: white;">
+<img src="/images/Vol%2021%20Issue%202/Frames%20of%20Memory/reference_room_nlb.jpg" style="width: 80%;">The Reference Room at the National Library, 1964. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 ![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_queue2.jpg)
 <div>Children queuing to borrow books at the information counter in the Children’s Section, 1970s. <i>Collection of the National Library Singapore.
 </i></div>
@@ -168,7 +171,7 @@ The decision sparked public calls to preserve the building. However, the demolit
 Although the National Library building on Stamford Road no longer exists, its entrance pillars are preserved within the grounds of the Singapore Management University. Some of the red bricks were salvaged and utilised for the construction of the wall of the garden at the Basement 1 Central Public Library in the new building. The St Andrew’s Cross –  a geometric floor pattern consisting of four adjoining crosses – that used to adorn the floor of the entrance at the Stamford Road building was moved to a space outside the new building.[^12]
 
 <div style="background-color: white;">
-<img src="/images/Vol%2021%20Issue%202/Frames%20of%20Memory/Bricks_NLB.png" style="width: 65%;">Bricks from the former National Library were used for the wall in the garden of the Central Public Library, 2025. &nbsp;The bronze sculpture of the girl reading is by Singaporean sculptor Chong Fah Cheong.&nbsp;<i>Photo by Jimmy Yap.</i></div>
+<img src="/images/Vol%2021%20Issue%202/Frames%20of%20Memory/Bricks_NLB.png" style="width: 65%;">Bricks from the former National Library were used for the wall in the garden of the Central Public Library, 2025. The bronze sculpture of the girl reading is by Singaporean sculptor Chong Fah Cheong.&nbsp;<i>Photo by Jimmy Yap.</i></div>
 
 Its literary heritage lives on in the National Collection at the Lee Kong Chian Reference Library within the new building. Additionally, the stories and memories of users and patrons of the former National Library have been recorded in publications and in oral history interviews with the National Archives of Singapore. These efforts will ensure that the legacy of the red-brick building will not be lost to future generations.[^13]
 
