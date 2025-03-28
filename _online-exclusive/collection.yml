@@ -2,6 +2,7 @@ collections:
   online-exclusive:
     output: true
     order:
+      - History of the Golden Lions in Singapore.md
       - "Rites of Rehabilitation: The Social Work of the Zhenkongjiao in
         Singapore.md"
       - "Karikal Mahal: Stories Reimagined and Retold.md"
