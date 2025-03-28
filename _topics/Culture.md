@@ -4,6 +4,13 @@ permalink: /topics/culture/
 description: ""
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/culture/2025/3/history-northern-lion-dance-chin-woo-athletic-association-singapore-photos/">History of the Golden Lions in Singapore</a>
+
+The Singapore Chin Woo (Athletic) Association’s lion dance troupe opens their archives for a peek into the rich history of their Golden Lions.
+
+<img src="/images/Online%20Only%20Articles/Chin%20Woo%20Northern%20Lions/1930s__1_.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/culture/2025/1/zhenkongjiao-chinese-religion-opium-addiction-rites-rituals-temples">Rites of Rehabilitation: The Social Work of the Zhenkongjiao in Singapore</a>
 
 With its sometime unconventional treatments, the Zhenkongjiao worked together with local authorities to remove the scourge of opium addiction in Singapore.
