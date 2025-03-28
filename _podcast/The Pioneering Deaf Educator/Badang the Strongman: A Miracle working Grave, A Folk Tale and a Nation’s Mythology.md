@@ -15,13 +15,13 @@ third_nav_title: The Pioneering Deaf Educator
 ---
 <p><strong>Coming in May</strong>
 </p>
-<p>Many people know of the story of Badang the strongman, an aboriginal slave
-who gains supernatural strength after eating the vomit of a spirit. He
-throws a stone, which might or might not be the Singapore Stone, and his
-miracle-working grave is believed to be on Pulau Buru in the Riau Archipelago.
-However, independent scholar William Gibson tells us the tale of Badang
-(and the location of his grave) is much more complicated than is generally
-known.</p>
+<p>Many people know of the story of <a href="https://biblioasia.nlb.gov.sg/vol-21/issue-1/apr-jun-2025/origins-badang-strongman-singapore-stone/" rel="noopener nofollow" target="_blank">Badang the strongman</a>,
+an aboriginal slave who gains supernatural strength after eating the vomit
+of a spirit. He throws a stone, which might or might not be the Singapore
+Stone, and his miracle-working grave is believed to be on Pulau Buru in
+the Riau Archipelago. However, independent scholar William Gibson tells
+us the tale of Badang (and the location of his grave) is much more complicated
+than is generally known.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -38,7 +38,12 @@ among others.</p>
 <details class="isomer-details">
 <summary>Resources</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>William Gibson, “<a href="https://biblioasia.nlb.gov.sg/vol-21/issue-1/apr-jun-2025/origins-badang-strongman-singapore-stone/" rel="noopener noreferrer nofollow" target="_blank">Uncovering the Origins of Badang the Strongman</a>,” <em>BiblioAsia</em> 21,
+no. 1 (April–June 2025).</p>
 <p></p>
+<p>William Gibson, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300071320" rel="noopener nofollow" target="_blank">Keramat, Sacred Relics and Forbidden Idols in Singapore</a> </em>(Abingdon,
+Oxon: Routledge, 2025). (From National Library Singapore, call no. RSING
+363.69095957 GIB)</p>
 </div>
 </details>
 <details class="isomer-details">
