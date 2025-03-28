@@ -1,5 +1,4 @@
 collections:
   holding-area:
     output: true
-    order:
-      - History of the Golden Lions in Singapore.md
+    order: []
