@@ -2,6 +2,7 @@ collections:
   podcast:
     output: true
     order:
+      - A Miracle Working Grave/Transcript.md
       - "A Miracle Working Grave/Badang the Strongman: A Miracle working Grave,
         A Folk Tale and a Nation’s Mythology.md"
       - A Miracle Working Grave/.keep
