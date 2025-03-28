@@ -9,14 +9,24 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /culture/2025/1/zhenkongjiao-chinese-religion-opium-addiction-rites-rituals-temples/
-      button: "Rites of Rehabilitation: The Social Work of the Zhenkongjiao in
-        Singapore"
+      url: /vol-20/issue-4/jan-mar-2025/ustaz-syed-abdul-rahman-al-attas-calligraphy/
+      button: "In Good Hands: The Calligraphy of Ustaz Syed Abdul Rahman Al-Attas"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Online Only Articles/Rites of Rehabilitation/Heroimage_Rites1.jpg
+      background: /images/Vol 20 Issue 4/Caligraphy/HeroImage_caligraphy_3.jpg
+  - infopic:
+      title: History of the Golden Lions in Singapore
+      subtitle: Culture
+      id: infopic
+      button: Golden Lions in Pictures
+      url: /culture/2025/3/history-northern-lion-dance-chin-woo-athletic-association-singapore-photos/
+      image: /images/Online Only Articles/Chin Woo Northern Lions/1930s__1_.jpg
+      alt: Golden Lions in Singapore
+      description: The Singapore Chin Woo (Athletic) Association’s lion dance troupe
+        opens their archives for a peek into the rich history of their Golden
+        Lions.
   - infopic:
       title: New Books on Singapore History (Apr 2025)
       subtitle: Literature
@@ -1126,7 +1136,7 @@ sections:
         Mountain_12_23/mok_on_fixed_ropes_homepage.png
       alt: Image alt text
   - infopic:
-      title: "Frames of Memory: The Former National Library"
+      title: "Remembering the Lady in Red: The Former National Library"
       subtitle: Places and Buildings
       id: infopic
       description: Beyond being a mere repository of books, the former landmark on

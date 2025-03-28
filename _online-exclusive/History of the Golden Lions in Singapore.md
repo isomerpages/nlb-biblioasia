@@ -1,6 +1,6 @@
 ---
 title: History of the Golden Lions in Singapore
-permalink: /holding-area/history-of-the-golden-lions-in-singapore/
+permalink: /culture/2025/3/history-northern-lion-dance-chin-woo-athletic-association-singapore-photos/
 variant: markdown
 description: ""
 ---
