@@ -21,7 +21,9 @@ of a spirit. He throws a stone, which might or might not be the Singapore
 Stone, and his miracle-working grave is believed to be on Pulau Buru in
 the Riau Archipelago. However, independent scholar William Gibson tells
 us the tale of Badang (and the location of his grave) is much more complicated
-than is generally known.</p>
+than is generally known.
+<br>
+</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
