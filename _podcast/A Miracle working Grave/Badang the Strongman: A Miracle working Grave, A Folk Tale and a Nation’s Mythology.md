@@ -1,5 +1,5 @@
 ---
-title: "Badang the Strongman: A Miracle working Grave, A Folk Tale and a
+title: "Badang the Strongman: A Miracle-working Grave, A Folk Tale and a
   Nation’s Mythology"
 permalink: /podcast/badang-the-strongman-a-miracle-working-grave-a-folk-tale-and-a-nations-mythology/
 variant: tiptap
