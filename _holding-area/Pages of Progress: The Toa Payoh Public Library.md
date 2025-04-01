@@ -89,44 +89,24 @@ Even as the library moves to a new home, its proximity to sports facilities will
 #### **Notes**
 
 
-[^1]:     p.p1 {margin: 0.0px 0.0px 0.0px 9.9px; text-indent: -9.9px; line-height: 8.5px; font: 7.0px Calibri} span.s1 {letter-spacing: -0.2px} span.s2 {letter-spacing: -0.4px}
-
-“Jek to Open Toa Payoh Library,” _Straits Times_, 5 February 1974, 13. (From NewspaperSG)
-
-Chan Thye Seng, oral history interview by Jason Lim, 10 May 2000, transcript and MP3 audio, Reel/Disc 9 of 15, National Archives of Singapore (accession no. 002265), 103.&nbsp;
-
-Chan Thye Seng, oral history interview, 10 May 2000, Reel/Disc 9 of 15, 102.&nbsp;
-
-“Services at Library,” _Straits Times_, 8 February 1974, 15. (From NewspaperSG)
-
-Amarjeet Gill, interview, 3 March 2025.
-
-“Bustling Games Village Goes Silent,” _New Nation_, 12 September 1973, 10. (From NewspaperSG)
-
-“Toa Payoh Library,” _Straits Times_, 9 January 1973, 6; “25 Years Ago: The Biggest,” _Straits Times_, 5 May 1998, 41. (From NewspaperSG); National Library Board, _Annual Report 1973_ (Singapore: National Library Board, 1973), 9. (From National Library Online) &nbsp;
-
-“Bustling Games Village Goes Silent.”
+[^1]: “Jek to Open Toa Payoh Library,” _Straits Times_, 5 February 1974, 13. (From NewspaperSG)
 
 
+[^2]: Chan Thye Seng, oral history interview by Jason Lim, 10 May 2000, transcript and MP3 audio, Reel/Disc 9 of 15, National Archives of Singapore (accession no. 002265), 103.&nbsp;
 
+[^3]: Chan Thye Seng, oral history interview, 10 May 2000, Reel/Disc 9 of 15, 102.&nbsp;
 
+[^4]: “Services at Library,” _Straits Times_, 8 February 1974, 15. (From NewspaperSG)
 
+[^5]: Amarjeet Gill, interview, 3 March 2025.
 
-[^2]: 
+[^6]: “Bustling Games Village Goes Silent,” _New Nation_, 12 September 1973, 10. (From NewspaperSG)
 
-[^3]: 
+[^7]: “Toa Payoh Library,” _Straits Times_, 9 January 1973, 6; “25 Years Ago: The Biggest,” _Straits Times_, 5 May 1998, 41. (From NewspaperSG); National Library Board, _Annual Report 1973_ (Singapore: National Library Board, 1973), 9. (From National Library Online) &nbsp;
 
-[^4]: 
+[^8]: “Bustling Games Village Goes Silent.”
 
-[^5]: 
-
-[^6]: 
-
-[^7]: 
-
-[^8]: 
-
-[^9]: 
+[^9]: Chan Thye Seng, oral history interview, 10 May 2000, Reel/Disc 10 of 15, 106.
 
 [^10]: National Library Board, _Toa Payoh Community Library_ (Singapore: National Library Board, 1974). (From National Library Singapore, call no. RCLOS NC3)
 
