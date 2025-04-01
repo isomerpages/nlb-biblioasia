@@ -83,13 +83,80 @@ Even as the library moves to a new home, its proximity to sports facilities will
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/limtinseng.png">
-	<b>Lim Tin Seng</b>&nbsp;is a Senior Librarian with the National Library, Singapore. He is the co-editor of <i>Roots: Tracing Family Histories – A Resource Guide</i> (2013), <i>Harmony and Development: ASEAN-China Relations</i> (2009) and <i>China’s New Social Policy: Initiatives for a Harmonious Society</i> (2010). He writes regularly for <i>BiblioAsia</i>. </div>
+	<b>Rebecca Tan</b> is a Children and Teens Librarian at Toa Payoh Public Library. She develops content and services for children and teens, and works with schools to promote a culture of reading. She was previously a Digital Heritage Librarian with the National Library Singapore.. </div>
 	
 
 #### **Notes**
 
 
-[^1]: 
+[^1]:     p.p1 {margin: 0.0px 0.0px 0.0px 9.9px; text-indent: -9.9px; line-height: 8.5px; font: 7.0px Calibri} span.s1 {letter-spacing: -0.2px} span.s2 {letter-spacing: -0.4px}
+
+“Jek to Open Toa Payoh Library,” _Straits Times_, 5 February 1974, 13. (From NewspaperSG)
+
+Chan Thye Seng, oral history interview by Jason Lim, 10 May 2000, transcript and MP3 audio, Reel/Disc 9 of 15, National Archives of Singapore (accession no. 002265), 103.&nbsp;
+
+Chan Thye Seng, oral history interview, 10 May 2000, Reel/Disc 9 of 15, 102.&nbsp;
+
+“Services at Library,” _Straits Times_, 8 February 1974, 15. (From NewspaperSG)
+
+Amarjeet Gill, interview, 3 March 2025.
+
+“Bustling Games Village Goes Silent,” _New Nation_, 12 September 1973, 10. (From NewspaperSG)
+
+“Toa Payoh Library,” _Straits Times_, 9 January 1973, 6; “25 Years Ago: The Biggest,” _Straits Times_, 5 May 1998, 41. (From NewspaperSG); National Library Board, _Annual Report 1973_ (Singapore: National Library Board, 1973), 9. (From National Library Online) &nbsp;
+
+“Bustling Games Village Goes Silent.”
+
+Chan Thye Seng, oral history interview, 10 May 2000, Reel/Disc 10 of 15, 106.
+
+National Library Board, _Toa Payoh Community Library_ (Singapore: National Library Board, 1974). (From National Library Singapore, call no. RCLOS NC3)
+
+“Jek to Open Toa Payoh Library.”&nbsp;
+
+Jek Yeun Thong, “Official Opening of the Toa Payoh Branch Library on Thursday, 7 Feb 74 at 7.30 PM (Delivered by Haji Sha’Ari Tadin, Senior Parliamentary Secretary to the Minister for Culture),” speech,  
+7 February 1974, transcript, Ministry of Culture. (From National Archives of Singapore document no. PressR19740207); Ministry of Information and the Arts, _Senior Parliamentary Secretary to Ministry of Culture Sha’ari Tadin Opening Toa Payoh Public Library_, 7 February 1974, photograph. (From Ministry of Information and the Arts Collection, National Archives of Singapore accession no. 7928/01/25) &nbsp;
+
+Ismail Kassim, “Making Libraries Social and Cultural Centres,” _New Nation_, 21 May 1974, 4. (From NewspaperSG)
+
+National Library Board, _Community Information: Toa Payoh Community Library_ (Singapore: National Library Board, 1985). (From National Library Singapore, call no. RCLOS NR5)
+
+“Now You Can Study at 11 Public Libraries,” _Straits Times_, 2 November 2003, 6. (From NewspaperSG)
+
+“A Hundred More Chairs for Toa Payoh Library,” _Straits Times_, 20 December 1975, 18. (From NewspaperSG)
+
+“Toa Payoh Library Celebrates,” _Straits Times_, 16 August 1984, 14. (From NewspaperSG)
+
+National Library Board, _Programmes: Toa Payoh Community Library_ (Singapore: National Library Board, 1974). (From National Library Singapore, call no. RCLOS NE7)
+
+Amarjeet Gill, interview, 3 March 2025.
+
+“Library to Close,” _Straits Times_, 23 November 1981, 8; “Library Re-opens,” _Straits Times_, 10 March 1982, 8; “Library Opens Kids_’_ Section,” _Straits Times_, 12 July 1982, 11. (From NewspaperSG)&nbsp;
+
+Cephah Tan, “Library to Install a Lift for the Handicapped,” _Straits Times_, 7 August 1984, 16; “$77,000 Lift for Disabled at Library,” _Straits Times_, 25 December 1985, 9; “Big ‘Lift_’_ for Handicapped at Toa Payoh Library,” _Straits Times_, 3 January 1986, 14. (From NewspaperSG)
+
+George Yeo, “Libraries of the Future to Develop Along Twin Tracks,” _Straits Times_, 30 March 1995, 28; “Library Board to Start Operations Next Month,” _Straits Times_, 19 August 1995, 31. (From NewspaperSG)
+
+“Changing with the Times,” _Straits Times_, 11 April 1997, 4. (From NewspaperSG); Hajbee Abu Bakar, interview, 3 January 2025.&nbsp;
+
+“Changing with the Times.”
+
+“A Day in the Community Library,” _The New Paper_, 22 July 1999, 24. (From NewspaperSG)&nbsp;
+
+Wendy Tan, “Facelift for Toa Payoh Library,” _Straits Times_, 5 May 1998, 41; Joyce Fang, “Library Sets Up Room for Elderly,” _Straits Times_, 28 May 1999, 75. (From NewspaperSG)&nbsp;
+
+“A Day in the Community Library”; “Treasures of the Ark, and a Place for Grandpa Too,” _Straits Times_, 14 June 1999, 7. (From NewspaperSG)&nbsp;
+
+Hajbee Abu Bakar, interview, 3 January 2025.
+
+Roy Won, interview, 20 December 2024.
+
+National Library Board, _National Library Board Annual Report 2008/2009_ (Singapore: National Library Board, 2009), https://www.nlb.gov.sg/main/-/media/NLBMedia/Documents/About-Us/Press-Room-Publication/Annual-Reports/AR-2008-09.pdf.
+
+Collection of anecdotes from staff in preparation for Toa Payoh Public Library’s 40th anniversary celebrations in 2014.&nbsp;
+
+“New Sports Centre, Polyclinic and Library in Toa Payoh to Be Completed by 2030,” CNA, 26 February 2023, https://www.channelnewsasia.com/singapore/toa-payoh-integrated-development-new-sports-centre-polyclinic-library-park-2030-3306471; Kimberly Kwek, New Sports Centre, Polyclinic, Library and Town Park in Toa Payoh to Be Ready by 2030,” _Straits Times_, 26 February 2023, updated 25 November 2024, https://www.straitstimes.com/singapore/new-sports-centre-polyclinic-library-and-town-park-in-toa-payoh-to-be-ready-by-2030.&nbsp;
+
+“Distinctively Toa Payoh!” National Library Board, 26 February 2023, https://www.nlb.gov.sg/main/about-us/press-room-and-publications/media-releases/2023/Distinctively-Toa-Payoh.
 
 [^2]: 
 
@@ -107,4 +174,56 @@ Even as the library moves to a new home, its proximity to sports facilities will
 
 [^9]: 
 
-[^10]:
+[^10]: 
+
+
+
+[^11]: 
+
+[^12]: 
+
+[^13]: 
+
+[^14]: 
+
+[^15]: 
+
+[^16]: 
+
+[^17]: 
+
+[^18]: 
+
+[^19]: 
+
+[^20]: 
+
+
+
+[^21]: 
+
+[^22]: 
+
+[^23]: 
+
+[^24]: 
+
+[^25]: 
+
+[^26]: 
+
+[^27]: 
+
+[^28]: 
+
+[^29]: 
+
+[^30]: 
+
+
+
+[^31]: 
+
+[^32]: 
+
+[^33]: 
