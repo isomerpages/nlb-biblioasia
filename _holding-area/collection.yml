@@ -1,4 +1,5 @@
 collections:
   holding-area:
     output: true
-    order: []
+    order:
+      - "Pages of Progress: The Toa Payoh Public Library.md"

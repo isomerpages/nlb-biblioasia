@@ -89,7 +89,7 @@ With a seating capacity of more than 400, visitors also had access to equipment 
 
 #### **A Treasure Trove**
 
-On 28 August 1964, the South East Asia Room at the National Library opened as a dedicated space “devoted solely to the study of South East Asia”. This specialised room housed a large collection of materials on Singapore and the region that the library had accumulated since its establishment in 1823.[^6]
+On 28 August 1964, the South East Asia Room at the National Library opened as a dedicated space “devoted solely to the study of South East Asia”. This specialised room housed a large collection of materials on Singapore and the region that the library had accumulated since its establishment in 1837.[^6]
 
 ![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_room2.jpg)
 <div>The South East Asia Room with the researchers’ tables, 1970s. It housed more than 5,000 books and periodicals and over 2,000 reels of microfilm relating to Singapore and the region at the time it was opened. <i>Collection of the National Library Singapore.</i></div>
@@ -140,7 +140,7 @@ In March 1997, the National Library underwent a six-month extensive makeover cos
 <div>The renovated National Library, 1998. The red-brick facade was retained.  <i>Collection of the National Library Singapore.</i></div>
 
 
-A new Singapore Resource Library was set up to replace the South East Asia Room, while the lending library was renamed the Central Community Library and furnished with a new information counter as well as new shelves and study tables.&nbsp;
+A new Singapore Resource Centre was set up to replace the South East Asia Room, while the lending library was renamed the Central Community Library and furnished with a new information counter as well as new shelves and study tables.&nbsp;
 
 ![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_newcounter.jpg)
 <div>The new information counter at the Central Community Library, 1997. <i>Collection of the National Library Singapore.</i></div>
