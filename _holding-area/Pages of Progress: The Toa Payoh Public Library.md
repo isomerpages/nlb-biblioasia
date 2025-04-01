@@ -89,26 +89,26 @@ Even as the library moves to a new home, its proximity to sports facilities will
 #### **Notes**
 
 
-[^1]: “Jek to Open Toa Payoh Library,” _Straits Times_, 5 February 1974, 13. (From NewspaperSG)
+[^1]: “[Jek to Open Toa Payoh Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740205.2.77),” _Straits Times_, 5 February 1974, 13. (From NewspaperSG)
 
 
-[^2]: Chan Thye Seng, oral history interview by Jason Lim, 10 May 2000, transcript and MP3 audio, Reel/Disc 9 of 15, National Archives of Singapore (accession no. 002265), 103.&nbsp;
+[^2]: Chan Thye Seng, oral history interview by Jason Lim, 10 May 2000, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/7/74e3508b-115e-11e3-83d5-0050568939ad-OHC002265_009/web/html5/index.html) and MP3 audio, Reel/Disc 9 of 15, National Archives of Singapore ([accession no. 002265](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/002265)), 103.&nbsp;
 
-[^3]: Chan Thye Seng, oral history interview, 10 May 2000, Reel/Disc 9 of 15, 102.&nbsp;
+[^3]: [Chan Thye Seng](https://www.nas.gov.sg/archivesonline/flipviewer/publish/7/74e3508b-115e-11e3-83d5-0050568939ad-OHC002265_009/web/html5/index.html), oral history interview, 10 May 2000, Reel/Disc 9 of 15, 102.&nbsp;
 
-[^4]: “Services at Library,” _Straits Times_, 8 February 1974, 15. (From NewspaperSG)
+[^4]: “[Services at Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740208-1.2.98),” _Straits Times_, 8 February 1974, 15. (From NewspaperSG)
 
 [^5]: Amarjeet Gill, interview, 3 March 2025.
 
-[^6]: “Bustling Games Village Goes Silent,” _New Nation_, 12 September 1973, 10. (From NewspaperSG)
+[^6]: “[Bustling Games Village Goes Silent](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19730912-1.2.40.3),” _New Nation_, 12 September 1973, 10. (From NewspaperSG)
 
-[^7]: “Toa Payoh Library,” _Straits Times_, 9 January 1973, 6; “25 Years Ago: The Biggest,” _Straits Times_, 5 May 1998, 41. (From NewspaperSG); National Library Board, _Annual Report 1973_ (Singapore: National Library Board, 1973), 9. (From National Library Online) &nbsp;
+[^7]: “[Toa Payoh Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19730109-1.2.32),” _Straits Times_, 9 January 1973, 6; “[25 Years Ago: The Biggest](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19980505-1.2.54.6),” _Straits Times_, 5 May 1998, 41. (From NewspaperSG); National Library Board, [_Annual Report 1973_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=8c94bec8-a8ad-423c-8d99-384acf0289ce) (Singapore: National Library Board, 1973), 9. (From National Library Online) &nbsp;
 
-[^8]: “Bustling Games Village Goes Silent.”
+[^8]: “[Bustling Games Village Goes Silent](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19730912-1.2.40.3).”
 
-[^9]: Chan Thye Seng, oral history interview, 10 May 2000, Reel/Disc 10 of 15, 106.
+[^9]: [Chan Thye Seng](https://www.nas.gov.sg/archivesonline/flipviewer/publish/7/7120a117-115e-11e3-83d5-0050568939ad-OHC002265_010/web/html5/index.html), oral history interview, 10 May 2000, Reel/Disc 10 of 15, 106.
 
-[^10]: National Library Board, _Toa Payoh Community Library_ (Singapore: National Library Board, 1974). (From National Library Singapore, call no. RCLOS NC3)
+[^10]: National Library Board, [_Toa Payoh Community Library_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12410588) (Singapore: National Library Board, 1974). (From National Library Singapore, call no. RCLOS NC3)
 
 
 
