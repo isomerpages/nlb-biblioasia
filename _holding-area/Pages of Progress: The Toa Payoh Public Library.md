@@ -150,11 +150,11 @@ Even as the library moves to a new home, its proximity to sports facilities will
 
 [^19]: Amarjeet Gill, interview, 3 March 2025.
 
-[^20]: “[Library to Close](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19811123-1.2.33),” _Straits Times_, 23 November 1981, 8; “[Library Re-opens](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19820310-1.2.40),” _Straits Times_, 10 March 1982, 8; “[Library Opens Kids_’_ Section](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19820712-1.2.63),” _Straits Times_, 12 July 1982, 11. (From NewspaperSG)&nbsp;
+[^20]: “[Library to Close](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19811123-1.2.33),” _Straits Times_, 23 November 1981, 8; “[Library Re-opens](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19820310-1.2.40),” _Straits Times_, 10 March 1982, 8; “[Library Opens Kids’ Section](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19820712-1.2.63),” _Straits Times_, 12 July 1982, 11. (From NewspaperSG)&nbsp;
 
 
 
-[^21]: Cephah Tan, “[Library to Install a Lift for the Handicapped](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19840807-1.2.26.32),” _Straits Times_, 7 August 1984, 16; “[$77,000 Lift for Disabled at Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19851225-1.2.22.9),” _Straits Times_, 25 December 1985, 9; “[Big ‘Lift_’_ for Handicapped at Toa Payoh Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19860103-1.2.29.1),” _Straits Times_, 3 January 1986, 14. (From NewspaperSG)
+[^21]: Cephah Tan, “[Library to Install a Lift for the Handicapped](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19840807-1.2.26.32),” _Straits Times_, 7 August 1984, 16; “[$77,000 Lift for Disabled at Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19851225-1.2.22.9),” _Straits Times_, 25 December 1985, 9; “[Big ‘Lift’ for Handicapped at Toa Payoh Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19860103-1.2.29.1),” _Straits Times_, 3 January 1986, 14. (From NewspaperSG)
 
 [^22]: George Yeo, “[Libraries of the Future to Develop Along Twin Tracks](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19950330-1.2.41.4),” _Straits Times_, 30 March 1995, 28; “[Library Board to Start Operations Next Month](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19950819-1.2.41.14),” _Straits Times_, 19 August 1995, 31. (From NewspaperSG)
 
