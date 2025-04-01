@@ -35,6 +35,9 @@ After the last of the 1,500 SEAP Games competitors left on 11 September 1973, th
 
 The Toa Payoh Branch Library officially opened on 7 February 1974, with Cheong Kwai Liew as its first head.[^9] The opening ceremony included a lion dance and the unveiling of a plaque (which is still located at the entrance of the library today). In the invite that was sent out was a bookmark with the text, “There’s a library in your midst. Spread the news!”[^10] The festivities continued after the opening with programmes such as music performances, choral readings, film shows, a musical night and a magic show.[^11]
 
+![](/images/Vol%2021%20Issue%202/Toa%20Payoh/toapayoh_invitation.jpg)
+<div style="background-color:white;"> Included in the invitation packet to guests for the opening ceremony of Toa Payoh Branch Library on 7 February 1974 was a bookmark promoting the new library. <i>Image reproduced from National Library Board, Toa Payoh Community Library (Singapore: National Library Board, 1974). (From National Library Singapore, call no. RCLOS NC3). </i></div>
+
 Although Minister for Culture Jek Yeun Thong was scheduled to open the library, he was unable to attend and Haji Sha’ari Tadin, senior parliamentary secretary for the Ministry of Culture, delivered Jek’s speech on the minister’s behalf.
 
 “The completion of the Toa Payoh Branch Library marks yet another stage in the development of the \[National\] Library’s facilities,” the speech read. “It will not only serve the reading requirements of the people of Toa Payoh, but will also serve as the headquarters of other services such as the popular mobile service as well as service to part-time branches, and to residents’ associations, social, welfare homes, clubs and other institutions and associations.” It was Jek’s hope that the library would be an “incentive for all to renew their acquaintance with books and thus broaden their horizons and knowledge”.[^12]
