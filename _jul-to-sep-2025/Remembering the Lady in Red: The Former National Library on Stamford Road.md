@@ -140,7 +140,7 @@ In March 1997, the National Library underwent a six-month extensive makeover cos
 <div>The renovated National Library, 1998. The red-brick facade was retained.  <i>Collection of the National Library Singapore.</i></div>
 
 
-A new Singapore Resource Library was set up to replace the South East Asia Room, while the lending library was renamed the Central Community Library and furnished with a new information counter as well as new shelves and study tables.&nbsp;
+A new Singapore Resource Centre was set up to replace the South East Asia Room, while the lending library was renamed the Central Community Library and furnished with a new information counter as well as new shelves and study tables.&nbsp;
 
 ![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_newcounter.jpg)
 <div>The new information counter at the Central Community Library, 1997. <i>Collection of the National Library Singapore.</i></div>
