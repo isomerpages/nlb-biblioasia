@@ -145,21 +145,21 @@ Even as the library moves to a new home, its proximity to sports facilities will
 
 [^25]: “[A Day in the Community Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/newpaper19990722-1.2.36),” _The New Paper_, 22 July 1999, 24. (From NewspaperSG)&nbsp;
 
-[^26]: Wendy Tan, “Facelift for Toa Payoh Library,” _Straits Times_, 5 May 1998, 41; Joyce Fang, “Library Sets Up Room for Elderly,” _Straits Times_, 28 May 1999, 75. (From NewspaperSG)&nbsp;
+[^26]: Wendy Tan, “[Facelift for Toa Payoh Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19980505-1.2.54.4),” _Straits Times_, 5 May 1998, 41; Joyce Fang, “[Library Sets Up Room for Elderly](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19990528-1.2.79.15),” _Straits Times_, 28 May 1999, 75. (From NewspaperSG)&nbsp;
 
-[^27]: “A Day in the Community Library”; “Treasures of the Ark, and a Place for Grandpa Too,” _Straits Times_, 14 June 1999, 7. (From NewspaperSG)&nbsp;
+[^27]: “[A Day in the Community Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/newpaper19990722-1.2.36)”; “[Treasures of the Ark, and a Place for Grandpa Too](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19990614-1.2.71.6.7),” _Straits Times_, 14 June 1999, 7. (From NewspaperSG)&nbsp;
 
 [^28]: Hajbee Abu Bakar, interview, 3 January 2025.
 
 [^29]: Roy Won, interview, 20 December 2024.
 
-[^30]: National Library Board, _National Library Board Annual Report 2008/2009_ (Singapore: National Library Board, 2009), https://www.nlb.gov.sg/main/-/media/NLBMedia/Documents/About-Us/Press-Room-Publication/Annual-Reports/AR-2008-09.pdf.
+[^30]: National Library Board, _National Library Board Annual Report 2008/2009_ (Singapore: National Library Board, 2009), [https://www.nlb.gov.sg/main/-/media/NLBMedia/Documents/About-Us/Press-Room-Publication/Annual-Reports/AR-2008-09.pdf](https://www.nlb.gov.sg/main/-/media/NLBMedia/Documents/About-Us/Press-Room-Publication/Annual-Reports/AR-2008-09.pdf).
 
 
 
 [^31]: Collection of anecdotes from staff in preparation for Toa Payoh Public Library’s 40th anniversary celebrations in 2014.&nbsp;
 
 
-[^32]: “New Sports Centre, Polyclinic and Library in Toa Payoh to Be Completed by 2030,” CNA, 26 February 2023, https://www.channelnewsasia.com/singapore/toa-payoh-integrated-development-new-sports-centre-polyclinic-library-park-2030-3306471; Kimberly Kwek, New Sports Centre, Polyclinic, Library and Town Park in Toa Payoh to Be Ready by 2030,” _Straits Times_, 26 February 2023, updated 25 November 2024, https://www.straitstimes.com/singapore/new-sports-centre-polyclinic-library-and-town-park-in-toa-payoh-to-be-ready-by-2030.&nbsp;
+[^32]: “New Sports Centre, Polyclinic and Library in Toa Payoh to Be Completed by 2030,” CNA, 26 February 2023, [https://www.channelnewsasia.com/singapore/toa-payoh-integrated-development-new-sports-centre-polyclinic-library-park-2030-3306471](https://www.channelnewsasia.com/singapore/toa-payoh-integrated-development-new-sports-centre-polyclinic-library-park-2030-3306471); Kimberly Kwek, New Sports Centre, Polyclinic, Library and Town Park in Toa Payoh to Be Ready by 2030,” _Straits Times_, 26 February 2023, updated 25 November 2024, [https://www.straitstimes.com/singapore/new-sports-centre-polyclinic-library-and-town-park-in-toa-payoh-to-be-ready-by-2030](https://www.straitstimes.com/singapore/new-sports-centre-polyclinic-library-and-town-park-in-toa-payoh-to-be-ready-by-2030).&nbsp;
 
-[^33]: “Distinctively Toa Payoh!” National Library Board, 26 February 2023, https://www.nlb.gov.sg/main/about-us/press-room-and-publications/media-releases/2023/Distinctively-Toa-Payoh.
+[^33]: “Distinctively Toa Payoh!” National Library Board, 26 February 2023, [https://www.nlb.gov.sg/main/about-us/press-room-and-publications/media-releases/2023/Distinctively-Toa-Payoh](https://www.nlb.gov.sg/main/about-us/press-room-and-publications/media-releases/2023/Distinctively-Toa-Payoh).
