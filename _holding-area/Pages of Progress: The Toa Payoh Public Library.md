@@ -112,38 +112,38 @@ Even as the library moves to a new home, its proximity to sports facilities will
 
 
 
-[^11]: “Jek to Open Toa Payoh Library.”&nbsp;
+[^11]: “[Jek to Open Toa Payoh Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19740205-1.2.77).”
 
-[^12]: Jek Yeun Thong, “Official Opening of the Toa Payoh Branch Library on Thursday, 7 Feb 74 at 7.30 PM (Delivered by Haji Sha’Ari Tadin, Senior Parliamentary Secretary to the Minister for Culture),” speech,  
-7 February 1974, transcript, Ministry of Culture. (From National Archives of Singapore document no. PressR19740207); Ministry of Information and the Arts, _Senior Parliamentary Secretary to Ministry of Culture Sha’ari Tadin Opening Toa Payoh Public Library_, 7 February 1974, photograph. (From Ministry of Information and the Arts Collection, National Archives of Singapore accession no. 7928/01/25) &nbsp;
+[^12]: Jek Yeun Thong, “[Official Opening of the Toa Payoh Branch Library on Thursday, 7 Feb 74 at 7.30 PM (Delivered by Haji Sha’Ari Tadin, Senior Parliamentary Secretary to the Minister for Culture)](https://www.nas.gov.sg/archivesonline/speeches/record-details/7cb1f6f0-115d-11e3-83d5-0050568939ad),” speech,  
+7 February 1974, transcript, Ministry of Culture. (From National Archives of Singapore document no. PressR19740207); Ministry of Information and the Arts, [_Senior Parliamentary Secretary to Ministry of Culture Sha’ari Tadin Opening Toa Payoh Public Library_](https://www.nas.gov.sg/archivesonline/photographs/record-details/de9cdd7b-1161-11e3-83d5-0050568939ad), 7 February 1974, photograph. (From Ministry of Information and the Arts Collection, National Archives of Singapore accession no. 7928/01/25) &nbsp;
 
-[^13]: Ismail Kassim, “Making Libraries Social and Cultural Centres,” _New Nation_, 21 May 1974, 4. (From NewspaperSG)
+[^13]: Ismail Kassim, “[Making Libraries Social and Cultural Centres](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19740521-1.2.18.1),” _New Nation_, 21 May 1974, 4. (From NewspaperSG)
 
-[^14]: National Library Board, _Community Information: Toa Payoh Community Library_ (Singapore: National Library Board, 1985). (From National Library Singapore, call no. RCLOS NR5)
+[^14]: National Library Board, [_Community Information: Toa Payoh Community Library_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12413210) (Singapore: National Library Board, 1985). (From National Library Singapore, call no. RCLOS NR5)
 
-[^15]: “Now You Can Study at 11 Public Libraries,” _Straits Times_, 2 November 2003, 6. (From NewspaperSG)
+[^15]: “[Now You Can Study at 11 Public Libraries](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20031102-1.2.6.7),” _Straits Times_, 2 November 2003, 6. (From NewspaperSG)
 
-[^16]: “A Hundred More Chairs for Toa Payoh Library,” _Straits Times_, 20 December 1975, 18. (From NewspaperSG)
+[^16]: “[A Hundred More Chairs for Toa Payoh Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19751220-1.2.99.2),” _Straits Times_, 20 December 1975, 18. (From NewspaperSG)
 
-[^17]: “Toa Payoh Library Celebrates,” _Straits Times_, 16 August 1984, 14. (From NewspaperSG)
+[^17]: “[Toa Payoh Library Celebrates](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19840816-1.2.21.24),” _Straits Times_, 16 August 1984, 14. (From NewspaperSG)
 
-[^18]: National Library Board, _Programmes: Toa Payoh Community Library_ (Singapore: National Library Board, 1974). (From National Library Singapore, call no. RCLOS NE7)
+[^18]: National Library Board, [_Programmes: Toa Payoh Community Library_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12412332) (Singapore: National Library Board, 1974). (From National Library Singapore, call no. RCLOS NE7)
 
 [^19]: Amarjeet Gill, interview, 3 March 2025.
 
-[^20]: “Library to Close,” _Straits Times_, 23 November 1981, 8; “Library Re-opens,” _Straits Times_, 10 March 1982, 8; “Library Opens Kids_’_ Section,” _Straits Times_, 12 July 1982, 11. (From NewspaperSG)&nbsp;
+[^20]: “[Library to Close](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19811123-1.2.33),” _Straits Times_, 23 November 1981, 8; “[Library Re-opens](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19820310-1.2.40),” _Straits Times_, 10 March 1982, 8; “[Library Opens Kids_’_ Section](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19820712-1.2.63),” _Straits Times_, 12 July 1982, 11. (From NewspaperSG)&nbsp;
 
 
 
-[^21]: Cephah Tan, “Library to Install a Lift for the Handicapped,” _Straits Times_, 7 August 1984, 16; “$77,000 Lift for Disabled at Library,” _Straits Times_, 25 December 1985, 9; “Big ‘Lift_’_ for Handicapped at Toa Payoh Library,” _Straits Times_, 3 January 1986, 14. (From NewspaperSG)
+[^21]: Cephah Tan, “[Library to Install a Lift for the Handicapped](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19840807-1.2.26.32),” _Straits Times_, 7 August 1984, 16; “[$77,000 Lift for Disabled at Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19851225-1.2.22.9),” _Straits Times_, 25 December 1985, 9; “[Big ‘Lift_’_ for Handicapped at Toa Payoh Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19860103-1.2.29.1),” _Straits Times_, 3 January 1986, 14. (From NewspaperSG)
 
-[^22]: George Yeo, “Libraries of the Future to Develop Along Twin Tracks,” _Straits Times_, 30 March 1995, 28; “Library Board to Start Operations Next Month,” _Straits Times_, 19 August 1995, 31. (From NewspaperSG)
+[^22]: George Yeo, “[Libraries of the Future to Develop Along Twin Tracks](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19950330-1.2.41.4),” _Straits Times_, 30 March 1995, 28; “[Library Board to Start Operations Next Month](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19950819-1.2.41.14),” _Straits Times_, 19 August 1995, 31. (From NewspaperSG)
 
-[^23]: “Changing with the Times,” _Straits Times_, 11 April 1997, 4. (From NewspaperSG); Hajbee Abu Bakar, interview, 3 January 2025.&nbsp;
+[^23]: “[Changing with the Times](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19970411-1.2.47.16.4),” _Straits Times_, 11 April 1997, 4. (From NewspaperSG); Hajbee Abu Bakar, interview, 3 January 2025.&nbsp;
 
-[^24]: “Changing with the Times.”
+[^24]: “[Changing with the Times](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19970411-1.2.47.16.4).”
 
-[^25]: “A Day in the Community Library,” _The New Paper_, 22 July 1999, 24. (From NewspaperSG)&nbsp;
+[^25]: “[A Day in the Community Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/newpaper19990722-1.2.36),” _The New Paper_, 22 July 1999, 24. (From NewspaperSG)&nbsp;
 
 [^26]: Wendy Tan, “Facelift for Toa Payoh Library,” _Straits Times_, 5 May 1998, 41; Joyce Fang, “Library Sets Up Room for Elderly,” _Straits Times_, 28 May 1999, 75. (From NewspaperSG)&nbsp;
 
