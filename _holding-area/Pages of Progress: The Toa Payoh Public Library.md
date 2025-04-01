@@ -72,7 +72,7 @@ Over the years, many current staff have had stints at Toa Payoh Public Library. 
 
 #### **Looking Ahead**
 
-In February 2023, it was announced that Toa Payoh Public Library would be moving to a new integrated development by 2030. To be located on a 12-hectare plot of land between Lorong 6 Toa Payoh and the Pan Island Expressway, the integrated development will house other amenities such as a polyclinic, swimming pools, indoor sports halls, fitness studios, a gymnasium and even a football stadium.[^33]
+In February 2023, it was announced that Toa Payoh Public Library would be moving to a new integrated development by 2030. To be located on a 12-hectare plot of land between Lorong 6 Toa Payoh and the Pan Island Expressway, the integrated development will house other amenities such as a polyclinic, swimming pools, indoor sports halls, fitness studios, a gymnasium and even a football stadium.[^32]
 
 “We look forward to working with partners and the community to build a bigger library in Toa Payoh that complements the integrated hub,” said Ng Cher Pong, NLB’s chief executive officer. “We will also find new ways to offer services that will enhance the experience of our patrons. This is in line with our LAB25 (Libraries and Archives Blueprint 2025) goal to work with partners, to evolve and innovate libraries and archives in order to better serve our patrons.” &nbsp;
 
