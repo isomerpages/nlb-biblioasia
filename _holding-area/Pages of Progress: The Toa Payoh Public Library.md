@@ -7,6 +7,8 @@ description: ""
 #### Before the Toa Payoh Public Library, the building was used as the secretariat for the 7th SEAP Games.  
 By Rebecca Tan
 
+![](/images/Vol%2021%20Issue%202/Toa%20Payoh/toapayoh_facing.jpg)
+<div style="background-color:white;"> Toa Payoh Public Library, March 2025. The fountain has been demolished.  <i>Photo by Rebecca Tan. </i></div>
 
 A little over 50 years have passed since Toa Payoh Public Library opened its doors in 1974. Today, the building has become a landmark in the area. Built in what was then a young and growing town, the library is the second branch of the National Library after the first in Queenstown in 1970.[^1] With its distinctive facade and location in the heart of Toa Payoh, the library has served generations of patrons.&nbsp;
 
@@ -15,6 +17,9 @@ A little over 50 years have passed since Toa Payoh Public Library opened its doo
 Much work went into selecting the site of the library. Chan Thye Seng, a National Library officer and chairman of the Toa Payoh Branch Library building committee, noted in his oral history interview: “I remember we went out to the site and that time, the \[Toa Payoh\] town centre was just like a desert… probably there were some residential flats there but not all those restaurants, community centres, churches, they were all non-existent at that time. And I remember we had to use a minivan to drive in. There was not even a proper macadamised road to reach the site.”[^2]
 
 Tan Beng Kiat, the Public Works Department chief of building works, showed the committee the plan of Toa Payoh town centre. “Restaurants, theatres, and there \[were\] two sides, one facing the fountain and the other side where it’s currently the famous Chinese restaurant or cinema or McDonald’s, and we were given either one of these,” said Chan. Upon Tan’s advice, the committee chose the side that “faces the fountain across the main road, which is a more commanding side”. Chan noted that the topmost floor of the library could serve as the viewing tower for royalty or foreign VIPs, as they would have a good view of the entire town.[^3]
+
+![](/images/Vol%2021%20Issue%202/Toa%20Payoh/toapayoh_pool.jpg)
+<div style="background-color:white;"> The round pool with a fountain in front of the Toa Payoh Branch Library, 1974.  <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore. </i></div>
 
 The committee also planned the new and existing facilities that the library would house. Interestingly, in addition to operating as a public library for patrons, the Toa Payoh Library was envisaged as the headquarters of the Library Extension Services comprising the mobile library service and part-time branch libraries. Part of the space. Part of the space would be set aside to keep inventory for the mobile library.[^4] The aim of the mobile library service was to take the books out to the schools and the community so that children could borrow books from the mobile libraries said Amarjeet Gill, who headed Toa Payoh Library from 1993 to 1994.[^5]
 
