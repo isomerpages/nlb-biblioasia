@@ -40,6 +40,9 @@ The Toa Payoh Branch Library officially opened on 7 February 1974, with Cheong K
 
 Although Minister for Culture Jek Yeun Thong was scheduled to open the library, he was unable to attend and Haji Sha’ari Tadin, senior parliamentary secretary for the Ministry of Culture, delivered Jek’s speech on the minister’s behalf.
 
+![](/images/Vol%2021%20Issue%202/Toa%20Payoh/toapayoh_tadin.jpg)
+<div style="background-color:white;">Sha’ari Tadin, senior parliamentary secretary for the Ministry of Culture, tours Toa Payoh Branch Library after its opening ceremony, 1974. On the left is Hedwig Anuar, director of the National Library. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 “The completion of the Toa Payoh Branch Library marks yet another stage in the development of the \[National\] Library’s facilities,” the speech read. “It will not only serve the reading requirements of the people of Toa Payoh, but will also serve as the headquarters of other services such as the popular mobile service as well as service to part-time branches, and to residents’ associations, social, welfare homes, clubs and other institutions and associations.” It was Jek’s hope that the library would be an “incentive for all to renew their acquaintance with books and thus broaden their horizons and knowledge”.[^12]
 
 The library proved to be very popular with residents, especially children. _A New Nation_ article from 1974 reported that about three-quarters of its total membership consisted of children, and in March 1974, its 9,744 child members borrowed a total of 53,950 books. The article noted that this figure was “much higher than comparative figures from the Central Library and the older Queenstown branch”.[^13]
@@ -57,6 +60,9 @@ Over time, the Toa Payoh Library began to add new facilities. Air-conditioning w
 Chee was very grateful to the library. “Previously, the library staff had to go up and down the stairs to bring me the catalogue drawers. And after I had selected the book, they had to go back to look for them. Now, I can get the books myself,” he said.[^21]
 
 On 1 September 1995, the National Library became a statutory board – the National Library Board (NLB) – and all branch libraries were renamed community libraries and branch heads became known as managers.[^22] To keep up with the times, Toa Payoh Community Library underwent a major revamp in 1998 and reopened the following year. Hajbee Abu Bakar, who was the library manager from 1994 to 2000, noted that the library needed “more than a few computers and television sets to keep up with the quality of services offered at newer libraries like the Cheng San community library”. These were used by patrons to access the library’s digital content and surf the Internet.[^23]
+
+![](/images/Vol%2021%20Issue%202/Toa%20Payoh/toapayoh_library.jpg)
+<div style="background-color:white;">Toa Payoh Community Library after a major revamp in 1998. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 During peak hours and on weekends, the average queuing time for patrons was 30 minutes to an hour as library staff manually handled the borrowing and returning of books. The introduction of self-check counters was anticipated to reduce the waiting time to no more than 15 minutes.[^24]
 
