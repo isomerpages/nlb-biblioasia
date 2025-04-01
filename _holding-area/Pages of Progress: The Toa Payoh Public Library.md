@@ -10,7 +10,7 @@ By Rebecca Tan
 
 A little over 50 years have passed since Toa Payoh Public Library opened its doors in 1974. Today, the building has become a landmark in the area. Built in what was then a young and growing town, the library is the second branch of the National Library after the first in Queenstown in 1970.1 With its distinctive facade and location in the heart of Toa Payoh, the library has served generations of patrons.&nbsp;
 
-The Right Place
+#### **The Right Place**
 
 Much work went into selecting the site of the library. Chan Thye Seng, a National Library officer and chairman of the Toa Payoh Branch Library building committee, noted in his oral history interview: “I remember we went out to the site and that time, the \[Toa Payoh\] town centre was just like a desert… probably there were some residential flats there but not all those restaurants, community centres, churches, they were all non-existent at that time. And I remember we had to use a minivan to drive in. There was not even a proper macadamised road to reach the site.”2&nbsp;
 
@@ -18,7 +18,7 @@ Tan Beng Kiat, the Public Works Department chief of building works, showed the c
 
 The committee also planned the new and existing facilities that the library would house. Interestingly, in addition to operating as a public library for patrons, the Toa Payoh Library was envisaged as the headquarters of the Library Extension Services comprising the mobile library service and part-time branch libraries. Part of the space. Part of the space would be set aside to keep inventory for the mobile library.4 The aim of the mobile library service was to take the books out to the schools and the community so that children could borrow books from the mobile libraries said Amarjeet Gill, who headed Toa Payoh Library from 1993 to 1994.5
 
-SEAP Games Secretariat
+#### **SEAP Games Secretariat**
 
 Before it opened, the library building served as the secretariat of the 7th South East Asian Peninsular (SEAP) Games, held for the first time in Singapore in September 1973.6
 
@@ -26,7 +26,7 @@ While the government had already accepted a tender valued at $1,233,989 in early
 
 After the last of the 1,500 SEAP Games competitors left on 11 September 1973, the only activity that remained in the Games Village was at the secretariat building. It functioned until 15 September while officials sorted out “the aftermath of the seven-day event”.8
 
-A New Page in History&nbsp;
+#### **A New Page in History**
 
 The Toa Payoh Branch Library officially opened on 7 February 1974, with Cheong Kwai Liew as its first head.9 The opening ceremony included a lion dance and the unveiling of a plaque (which is still located at the entrance of the library today). In the invite that was sent out was a bookmark with the text, “There’s a library in your midst. Spread the news!”10 The festivities continued after the opening with programmes such as music performances, choral readings, film shows, a musical night and a magic show.11
 
@@ -42,7 +42,7 @@ The popularity of the library can be seen in the fact that it increased the seat
 
 In 1984, Toa Payoh Library celebrated its 10th anniversary with a stamp exhibition, a book display and a film show in its lecture hall.17 Programmes for its 20th anniversary in 1994 included an exhibition about Toa Payoh town as well as prizes and souvenirs sponsored by Philips Singapore, which had a big factory in the area.18 Gill, the branch head at the time, recalled: “We tried to make it as much a community event as we could. The library staff organised programmes and storytelling contests, put up posters, offered bookmarks and badges, and even designed a 20th anniversary celebration logo for the publicity materials. Even the McDonald's located near the library sponsored breakfast meals for patrons who borrowed a certain number of books.” She said: “I think the staff were excited because when we did events, we just made do with what we had. This time, we had funding on a larger scale to do more than the usual things.”19
 
-New Again&nbsp;
+#### **New Again**
 
 Over time, the Toa Payoh Library began to add new facilities. Air-conditioning was installed in 1982.20 A lift was subsequently added in 1985. “I will be able to use the books in the reference room, the audio-visual, and the microfilm reader. It will also be easier for me to attend talks at the lecture hall on the second floor,” said Chee Yuan Cheow, a wheelchair user who had requested the lift. The $77,000 lift became operational in December 1985.&nbsp;
 
@@ -60,7 +60,7 @@ The Children’s Section was refreshed with a “Treasure Island” theme and ar
 
 The library became the “first among the community libraries” to have a cafe with the opening of Cafe Délifrance on its premises.27 “It is a lifestyle change,” noted Hajbee. “People just feel that it is so nice to have a cafe in the library area.”28
 
-The Library Today&nbsp;
+#### **The Library Today**
 
 As Toa Payoh Community Library entered the new millennium, it continued to serve the public and create new memories for both staff and patrons. Roy Won, who worked there as a librarian from 2001 to 2005, noted that the library saw a change in visitor demographics after the headquarters of the Housing &amp; Development Board (HDB) moved from Bukit Merah to Toa Payoh in 2002. He said: “When the HDB came to Toa Payoh, our loans went up and there were more young professionals visiting the library. During lunchtime, you would see people in formal office attire browsing in the library.”29
 
@@ -70,7 +70,7 @@ Today, the facilities in the library have changed too. While there is no longer 
 
 Over the years, many current staff have had stints at Toa Payoh Public Library. For example, Raneetha Rajaratnam, NLB’s current director of programmes and services, started her career as a librarian there from 1997 to 1999. “Toa Payoh \[was\] my first posting when I joined NLB,” she said. “I was a ‘green sponge’, excitedly absorbing everything.” Siti Komsah Sudi, who worked as a library officer at Toa Payoh Public Library from 1995 to 2023, said: “Toa Payoh Library is special to me because my own children have grown up together with the library. When they were young, they frequented the library while I was working and although they don’t visit me in the library as much now, the library reminds me of how it has grown with my kids.”31
 
-Looking Ahead&nbsp;
+#### **Looking Ahead**
 
 In February 2023, it was announced that Toa Payoh Public Library would be moving to a new integrated development by 2030. To be located on a 12-hectare plot of land between Lorong 6 Toa Payoh and the Pan Island Expressway, the integrated development will house other amenities such as a polyclinic, swimming pools, indoor sports halls, fitness studios, a gymnasium and even a football stadium.32
 
@@ -226,4 +226,4 @@ Collection of anecdotes from staff in preparation for Toa Payoh Public Library�
 
 [^32]: 
 
-[^33]: 
+[^33]:
