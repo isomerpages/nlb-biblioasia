@@ -2,6 +2,7 @@ collections:
   podcast:
     output: true
     order:
+      - "Tay Seow Huah: First Spy Chief of Independent Singapore.md"
       - Hawker Culture in Singapore/.keep
       - Hawker Culture in Singapore/Hawker Culture in Singapore.md
       - Hawker Culture in Singapore/Transcript.md
