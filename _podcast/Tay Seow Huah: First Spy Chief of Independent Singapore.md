@@ -21,11 +21,12 @@ image: /images/Podcast/Simon_600_by_400.jpg
 helmed Singapore’s response to the 1974 Laju hijacking incident. This was
 when four terrorists tried (but failed) to destroy Shell’s oil infrastructure
 on Pulau Bukom Besar and subsequently took five hostages. Little is known
-about the enigmatic spy chief, who was the founding Director of the Security
-and Intelligence Division. Simon Tay, lawyer, academic and winner of the
-2010 Singapore Literature Prize, tells us about how his father – a Penang-born
-who lived through WWII, the Malayan Emergency and the political tumult
-of the 1960s – came to play a giant role serving a newly independent Singapore.</p>
+about the enigmatic <a href="https://catalogue.nlb.gov.sg/search/card?recordId=300038279" rel="noopener nofollow" target="_blank">spy chief</a>,
+who was the founding Director of the Security and Intelligence Division.
+Simon Tay, lawyer, academic and winner of the 2010 Singapore Literature
+Prize, tells us about how his father – a Penang-born who lived through
+WWII, the Malayan Emergency and the political tumult of the 1960s – came
+to play a giant role serving a newly independent Singapore.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -42,7 +43,13 @@ Write Award, a regional award given to leading ASEAN poets and writers.</p>
 <details class="isomer-details">
 <summary>Resources</summary>
 <div data-type="detailsContent" class="isomer-details-content">
+<p>Simon Tay, <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=300038279" rel="noopener nofollow" target="_blank">Enigmas: Tay Seow Huah, My Father, Singapore's Pioneer Spy Chief</a></em> (Singapore:
+Landmark Books, 2024). (From National Library Singapore, call no. RSING
+327.12092 TAY)</p>
 <p></p>
+<p>S.R. Nathan, <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=14182432" rel="noopener nofollow" target="_blank">An Unexpected Journey: Path to the Presidency</a> </em>(Singapore:
+Editions Didier Millet, 2011). (From National Library Singapore, call no.
+RSING 959.5705092 NAT)</p>
 </div>
 </details>
 <details class="isomer-details">
