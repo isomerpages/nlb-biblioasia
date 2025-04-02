@@ -7,6 +7,8 @@ description: ""
 #### Before the Toa Payoh Public Library, the building was used as the secretariat for the 7th SEAP Games.  
 By Rebecca Tan
 
+![](/images/Vol%2021%20Issue%202/Toa%20Payoh/toapayoh_facing.jpg)
+<div style="background-color:white;"> Toa Payoh Public Library, March 2025. The fountain has been demolished.  <i>Photo by Rebecca Tan. </i></div>
 
 A little over 50 years have passed since Toa Payoh Public Library opened its doors in 1974. Today, the building has become a landmark in the area. Built in what was then a young and growing town, the library is the second branch of the National Library after the first in Queenstown in 1970.[^1] With its distinctive facade and location in the heart of Toa Payoh, the library has served generations of patrons.&nbsp;
 
@@ -15,6 +17,9 @@ A little over 50 years have passed since Toa Payoh Public Library opened its doo
 Much work went into selecting the site of the library. Chan Thye Seng, a National Library officer and chairman of the Toa Payoh Branch Library building committee, noted in his oral history interview: “I remember we went out to the site and that time, the \[Toa Payoh\] town centre was just like a desert… probably there were some residential flats there but not all those restaurants, community centres, churches, they were all non-existent at that time. And I remember we had to use a minivan to drive in. There was not even a proper macadamised road to reach the site.”[^2]
 
 Tan Beng Kiat, the Public Works Department chief of building works, showed the committee the plan of Toa Payoh town centre. “Restaurants, theatres, and there \[were\] two sides, one facing the fountain and the other side where it’s currently the famous Chinese restaurant or cinema or McDonald’s, and we were given either one of these,” said Chan. Upon Tan’s advice, the committee chose the side that “faces the fountain across the main road, which is a more commanding side”. Chan noted that the topmost floor of the library could serve as the viewing tower for royalty or foreign VIPs, as they would have a good view of the entire town.[^3]
+
+![](/images/Vol%2021%20Issue%202/Toa%20Payoh/toapayoh_pool.jpg)
+<div style="background-color:white;"> The round pool with a fountain in front of the Toa Payoh Branch Library, 1974.  <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore. </i></div>
 
 The committee also planned the new and existing facilities that the library would house. Interestingly, in addition to operating as a public library for patrons, the Toa Payoh Library was envisaged as the headquarters of the Library Extension Services comprising the mobile library service and part-time branch libraries. Part of the space. Part of the space would be set aside to keep inventory for the mobile library.[^4] The aim of the mobile library service was to take the books out to the schools and the community so that children could borrow books from the mobile libraries said Amarjeet Gill, who headed Toa Payoh Library from 1993 to 1994.[^5]
 
@@ -30,7 +35,13 @@ After the last of the 1,500 SEAP Games competitors left on 11 September 1973, th
 
 The Toa Payoh Branch Library officially opened on 7 February 1974, with Cheong Kwai Liew as its first head.[^9] The opening ceremony included a lion dance and the unveiling of a plaque (which is still located at the entrance of the library today). In the invite that was sent out was a bookmark with the text, “There’s a library in your midst. Spread the news!”[^10] The festivities continued after the opening with programmes such as music performances, choral readings, film shows, a musical night and a magic show.[^11]
 
+![](/images/Vol%2021%20Issue%202/Toa%20Payoh/toapayoh_invitation.jpg)
+<div style="background-color:white;"> Included in the invitation packet to guests for the opening ceremony of Toa Payoh Branch Library on 7 February 1974 was a bookmark promoting the new library. <i>Image reproduced from National Library Board, Toa Payoh Community Library (Singapore: National Library Board, 1974). (From National Library Singapore, call no. RCLOS NC3). </i></div>
+
 Although Minister for Culture Jek Yeun Thong was scheduled to open the library, he was unable to attend and Haji Sha’ari Tadin, senior parliamentary secretary for the Ministry of Culture, delivered Jek’s speech on the minister’s behalf.
+
+![](/images/Vol%2021%20Issue%202/Toa%20Payoh/toapayoh_tadin.jpg)
+<div style="background-color:white;">Sha’ari Tadin, senior parliamentary secretary for the Ministry of Culture, tours Toa Payoh Branch Library after its opening ceremony, 1974. On the left is Hedwig Anuar, director of the National Library. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 “The completion of the Toa Payoh Branch Library marks yet another stage in the development of the \[National\] Library’s facilities,” the speech read. “It will not only serve the reading requirements of the people of Toa Payoh, but will also serve as the headquarters of other services such as the popular mobile service as well as service to part-time branches, and to residents’ associations, social, welfare homes, clubs and other institutions and associations.” It was Jek’s hope that the library would be an “incentive for all to renew their acquaintance with books and thus broaden their horizons and knowledge”.[^12]
 
@@ -50,6 +61,9 @@ Chee was very grateful to the library. “Previously, the library staff had to g
 
 On 1 September 1995, the National Library became a statutory board – the National Library Board (NLB) – and all branch libraries were renamed community libraries and branch heads became known as managers.[^22] To keep up with the times, Toa Payoh Community Library underwent a major revamp in 1998 and reopened the following year. Hajbee Abu Bakar, who was the library manager from 1994 to 2000, noted that the library needed “more than a few computers and television sets to keep up with the quality of services offered at newer libraries like the Cheng San community library”. These were used by patrons to access the library’s digital content and surf the Internet.[^23]
 
+![](/images/Vol%2021%20Issue%202/Toa%20Payoh/toapayoh_library.jpg)
+<div style="background-color:white;">Toa Payoh Community Library after a major revamp in 1998. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 During peak hours and on weekends, the average queuing time for patrons was 30 minutes to an hour as library staff manually handled the borrowing and returning of books. The introduction of self-check counters was anticipated to reduce the waiting time to no more than 15 minutes.[^24]
 
 As part of the $3-million makeover, services and facilities for different age groups were refreshed, and technological innovations like multimedia stations were implemented. A new service was ONE Learning Place, an information technology training centre on the third floor. It provided information literacy programmes and internet classes for students and adults. A Senior Citizens’ Corner was also created – with comfortable sofas and chairs, large-print collections and a multimedia station – for elderly patrons to read, meet and interact with friends.[^25]
@@ -57,6 +71,9 @@ As part of the $3-million makeover, services and facilities for different age gr
 “We have quite a number of senior citizens at this branch,” noted Hajbee. “We thought it would be a good idea to set aside a corner for them where they can do their reading quietly.” “There is really no age limit to our library users,” said Ngian Lek Choh, director of Public Library Services. “A large group of our users are children, teenagers and young adults, and now we want to encourage more older people to come.”[^26]
 
 The Children’s Section was refreshed with a “Treasure Island” theme and ark-shaped shelves. Other new services included borrowers’ enquiry terminals for patrons to check their loan records and make payments. There were also self-service borrowing stations and InfoXpress terminals where patrons could “get answers to frequently asked questions and reference resources about Singapore”.&nbsp;
+
+![](/images/Vol%2021%20Issue%202/Toa%20Payoh/toapayoh_children.jpg)
+<div style="background-color:white;">The children’s section with the honeycomb design on the wall, ceiling and furniture, 2025. <i>Photo by Rebecca Tan.</i></div>
 
 The library became the “first among the community libraries” to have a cafe with the opening of Cafe Délifrance on its premises.[^27] “It is a lifestyle change,” noted Hajbee. “People just feel that it is so nice to have a cafe in the library area.”[^28]
 
@@ -67,6 +84,9 @@ As Toa Payoh Community Library entered the new millennium, it continued to serve
 In 2008, as part of a rebranding exercise by the NLB, all community libraries were renamed public libraries. Toa Payoh Community Library became known as Toa Payoh Public Library.[^30]
 
 Today, the facilities in the library have changed too. While there is no longer a cafe, the library is co-located with Computhink Kids SG, an enrichment centre offering coding classes for children. Patrons can reserve library seats in advance using NLB’s seat booking system and enjoy ample areas for self-study. The staff of Toa Payoh Public Library have also developed a new initiative called Toa Payoh Toilet Reads, where summaries of interesting books are pasted on toilet cubicle doors, allowing people to discover new reads in a unique manner. Staff also share their favourite reads and book reviews via posters displayed throughout the library. &nbsp;
+
+![](/images/Vol%2021%20Issue%202/Toa%20Payoh/toapayoh_seating.jpg)
+<div style="background-color:white;">A seating area on the second floor of the library. <i>Photo by Rebecca Tan.</i></div>
 
 Over the years, many current staff have had stints at Toa Payoh Public Library. For example, Raneetha Rajaratnam, NLB’s current director of programmes and services, started her career as a librarian there from 1997 to 1999. “Toa Payoh \[was\] my first posting when I joined NLB,” she said. “I was a ‘green sponge’, excitedly absorbing everything.” Siti Komsah Sudi, who worked as a library officer at Toa Payoh Public Library from 1995 to 2023, said: “Toa Payoh Library is special to me because my own children have grown up together with the library. When they were young, they frequented the library while I was working and although they don’t visit me in the library as much now, the library reminds me of how it has grown with my kids.”[^31]
 
@@ -130,11 +150,11 @@ Even as the library moves to a new home, its proximity to sports facilities will
 
 [^19]: Amarjeet Gill, interview, 3 March 2025.
 
-[^20]: “[Library to Close](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19811123-1.2.33),” _Straits Times_, 23 November 1981, 8; “[Library Re-opens](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19820310-1.2.40),” _Straits Times_, 10 March 1982, 8; “[Library Opens Kids_’_ Section](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19820712-1.2.63),” _Straits Times_, 12 July 1982, 11. (From NewspaperSG)&nbsp;
+[^20]: “[Library to Close](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19811123-1.2.33),” _Straits Times_, 23 November 1981, 8; “[Library Re-opens](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19820310-1.2.40),” _Straits Times_, 10 March 1982, 8; “[Library Opens Kids’ Section](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19820712-1.2.63),” _Straits Times_, 12 July 1982, 11. (From NewspaperSG)&nbsp;
 
 
 
-[^21]: Cephah Tan, “[Library to Install a Lift for the Handicapped](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19840807-1.2.26.32),” _Straits Times_, 7 August 1984, 16; “[$77,000 Lift for Disabled at Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19851225-1.2.22.9),” _Straits Times_, 25 December 1985, 9; “[Big ‘Lift_’_ for Handicapped at Toa Payoh Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19860103-1.2.29.1),” _Straits Times_, 3 January 1986, 14. (From NewspaperSG)
+[^21]: Cephah Tan, “[Library to Install a Lift for the Handicapped](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19840807-1.2.26.32),” _Straits Times_, 7 August 1984, 16; “[$77,000 Lift for Disabled at Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19851225-1.2.22.9),” _Straits Times_, 25 December 1985, 9; “[Big ‘Lift’ for Handicapped at Toa Payoh Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19860103-1.2.29.1),” _Straits Times_, 3 January 1986, 14. (From NewspaperSG)
 
 [^22]: George Yeo, “[Libraries of the Future to Develop Along Twin Tracks](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19950330-1.2.41.4),” _Straits Times_, 30 March 1995, 28; “[Library Board to Start Operations Next Month](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19950819-1.2.41.14),” _Straits Times_, 19 August 1995, 31. (From NewspaperSG)
 

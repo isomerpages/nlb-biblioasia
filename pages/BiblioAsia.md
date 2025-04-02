@@ -15,69 +15,97 @@ boxing superstar?</p>
 </div>
 <p></p>
 <h4><strong>Season 3</strong></h4>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/badang-the-strongman-a-miracle-working-grave-a-folk-tale-and-a-nations-mythology/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Badang the Strongman" src="/images/Podcast/William_600_by_400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Badang the Strongman: A Miracle-working Grave, A Folk Tale and a Nation’s Mythology</div><div class="isomer-card-description">The folktale goes that Badang, an aboriginal slave, gains supernatural strength after eating the vomit of a spirit. Independent scholar William Gibson tells us the tale is more complicated than generally known.</div><div class="isomer-card-link">Coming in May</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/peng-tsu-ying-singapore-pioneering-deaf-educator-nathaniel-chew/" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/the-making-of-majulah-singapura-as-we-know-it-bernard-tan/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="The Making of Majulah Singapura as We Know It" src="/images/Podcast/bernard_tan_600_by_400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Making of Majulah Singapura as We Know It</div><div class="isomer-card-description">The national anthem that we know today wasn't the original version composed by Zubir Said. Emeritus Professor Bernard Tan talks about how "Majulah Singapura" came about and how it changed over the decades, and illustrates how these versions differ on his piano.</div><div class="isomer-card-link">Coming in August</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/tay-seow-huah-first-spy-chief-of-independent-singapore-simon-tay/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Peng Tsu Ying" src="/images/Podcast/Nathaniel_Chew_web.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Tay Seow Huah: First Spy Chief of Independent Singapore" src="/images/Podcast/Simon_600_by_400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Peng Tsu Ying: Singapore's Pioneering Deaf Educator</div>
-<div class="isomer-card-description">When Peng Tsu Ying came to Singapore from Shanghai in the late 1940s,
-he could not find a deaf person like him. So he opened a school for the
-deaf. Librarian Nathaniel Chew talks about Peng’s advocacy for the deaf,
-and the Singapore Sign Language.</div>
-<div class="isomer-card-link">Coming in April</div>
+<div class="isomer-card-title">Tay Seow Huah: First Spy Chief of Independent Singapore</div>
+<div class="isomer-card-description">Tay Seow Huah, then Permanent Secretary for the Home Affairs Ministry,
+helmed Singapore’s response to the 1974 Laju hijacking incident. Award-winning
+writer Simon Tay tells us about how his Penang-born father came to play
+a giant role serving a newly independent Singapore.</div>
+<div class="isomer-card-link">Coming in July</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/the-misunderstood-trip-that-led-to-the-1953-landmark-art-exhibition-gretchen-liu" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Gretchen Liu" src="/images/Podcast/Biblioasia_600_by_400_Gretchen_Liu.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Misunderstood Trip That Led to the 1953 Landmark Art Exhibition</div><div class="isomer-card-description">In 1952, four Singapore artists – Chen Chong Swee, Chen Wen Hsi, Cheong Soo Pieng and Liu Kang – travelled to Java and Bali in search of artistic inspiration and held a landmark exhibition in 1953. Gretchen Liu, Liu Kang’s daughter-in-law, tells us about the little-known trip.</div><div class="isomer-card-link">Listen to the episode</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/life-and-legacy-zubir-said-julian-wong/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/hawker-culture-in-singapore-ryan-kueh/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Hawker&nbsp;Culture in Singapore" src="/images/Podcast/Ryan_600_by_400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Hawker&nbsp;Culture in Singapore &nbsp;</div><div class="isomer-card-description">Hawkers traditionally sell their food on streets. Uniquely in Singapore though, they ply their trade in fixed stalls in hawker centres. Researcher Ryan Kueh tells us how the hawker culture has evolved in Singapore since the colonial period and what hawker centres have come to represent.</div><div class="isomer-card-link">Coming in June</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/badang-the-strongman-a-miracle-working-grave-a-folk-tale-and-a-nations-mythology/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Zubir Said" src="/images/Podcast/BiblioAsia_600_by_400_Julian.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Badang the Strongman" src="/images/Podcast/William_600_by_400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">More Than Mr Mari Kita: The Life and Legacy of Zubir Said</div>
-<div class="isomer-card-description">Zubir Said is best known for composing the national anthem, “Majulah Singapura”.
-But the prolific composer has done more than that, as music director Julian
-Wong, who wrote and performed in "Don’t Call Him Mr. Mari Kita", tells
-us.</div>
+<div class="isomer-card-title">Badang the Strongman: A Miracle-working Grave, A Folk Tale and a Nation’s
+Mythology</div>
+<div class="isomer-card-description">The folktale goes that Badang, an aboriginal slave, gains supernatural
+strength after eating the vomit of a spirit. Independent scholar William
+Gibson tells us the tale is more complicated than generally known.</div>
+<div class="isomer-card-link">Coming in May</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/peng-tsu-ying-singapore-pioneering-deaf-educator-nathaniel-chew/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Peng Tsu Ying" src="/images/Podcast/Nathaniel_Chew_web.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Peng Tsu Ying: Singapore's Pioneering Deaf Educator</div><div class="isomer-card-description">When Peng Tsu Ying came to Singapore from Shanghai in the late 1940s, he could not find a deaf person like him. So he opened a school for the deaf. Librarian Nathaniel Chew talks about Peng’s advocacy for the deaf, and the Singapore Sign Language.</div><div class="isomer-card-link">Coming in April</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/the-misunderstood-trip-that-led-to-the-1953-landmark-art-exhibition-gretchen-liu" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Gretchen Liu" src="/images/Podcast/Biblioasia_600_by_400_Gretchen_Liu.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">The Misunderstood Trip That Led to the 1953 Landmark Art Exhibition</div>
+<div class="isomer-card-description">In 1952, four Singapore artists – Chen Chong Swee, Chen Wen Hsi, Cheong
+Soo Pieng and Liu Kang – travelled to Java and Bali in search of artistic
+inspiration and held a landmark exhibition in 1953. Gretchen Liu, Liu Kang’s
+daughter-in-law, tells us about the little-known trip.</div>
 <div class="isomer-card-link">Listen to the episode</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/somerset-maugham-scandalises-1920s-singapore-tracey-morton" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Somerset" src="/images/Podcast/tracey_600_400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Somerset Maugham Scandalises 1920s Singapore</div><div class="isomer-card-description">Sharing the literary landscape with D.H. Lawrence and Virginia Woolf, W. Somerset Maugham travelled to Singapore in 1921, where he wrote his most celebrated short stories. Writer Tracey Morton tells us how Singapore inspired his works and why they remain relevant.</div><div class="isomer-card-link">Listen to the episode</div></div></a>
-<a rel="noopener noreferrer nofollow" href="/podcast/what-makes-an-animal-singaporean-timothy-barnard/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/life-and-legacy-zubir-said-julian-wong/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Zubir Said" src="/images/Podcast/BiblioAsia_600_by_400_Julian.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">More Than Mr Mari Kita: The Life and Legacy of Zubir Said</div><div class="isomer-card-description">Zubir Said is best known for composing the national anthem, “Majulah Singapura”. But the prolific composer has done more than that, as music director Julian Wong, who wrote and performed in "Don’t Call Him Mr. Mari Kita", tells us.</div><div class="isomer-card-link">Listen to the episode</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/somerset-maugham-scandalises-1920s-singapore-tracey-morton" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Animal Singaporean" src="/images/Podcast/Tim_600_400.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Somerset" src="/images/Podcast/tracey_600_400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">What Makes An Animal Singaporean?</div>
-<div class="isomer-card-description">Singaporeans love animals but only selectively, like otters, Ah Meng the
-orangutan, and Inuka the polar bear. Environmental historian Timothy Barnard
-tells us how some of these migrant animals came to be here, how they’ve
-been treated, and what makes them Singaporean.</div>
+<div class="isomer-card-title">Somerset Maugham Scandalises 1920s Singapore</div>
+<div class="isomer-card-description">Sharing the literary landscape with D.H. Lawrence and Virginia Woolf,
+W. Somerset Maugham travelled to Singapore in 1921, where he wrote his
+most celebrated short stories. Writer Tracey Morton tells us how Singapore
+inspired his works and why they remain relevant.</div>
 <div class="isomer-card-link">Listen to the episode</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/asian-port-cities-with-ex-acm-director-kennie-ting/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Asian Port Cities" src="/images/Podcast/Kennie_600_400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">A Tour of 60 Asian Port Cities with Ex–ACM Director Kennie Ting</div><div class="isomer-card-description">To write a book about 60 Asian port cities, ex–ACM director Kennie Ting travelled as far as the Middle East and Africa. He tells us how port cities can tell a different history of Asia, and what his "eat, pray, love" cities and his favourite ACM artefacts are.</div><div class="isomer-card-link">Listen to the episode</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/s-rajaratnam-singapores-first-foreign-minister/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="/podcast/what-makes-an-animal-singaporean-timothy-barnard/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Animal Singaporean" src="/images/Podcast/Tim_600_400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">What Makes An Animal Singaporean?</div><div class="isomer-card-description">Singaporeans love animals but only selectively, like otters, Ah Meng the orangutan, and Inuka the polar bear. Environmental historian Timothy Barnard tells us how some of these migrant animals came to be here, how they’ve been treated, and what makes them Singaporean.</div><div class="isomer-card-link">Listen to the episode</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/asian-port-cities-with-ex-acm-director-kennie-ting/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Rajaratnam" src="/images/Podcast/Irene_600_400.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Asian Port Cities" src="/images/Podcast/Kennie_600_400.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">He Wrote the National Pledge: S. Rajaratnam, Singapore’s First Foreign
-Minister</div>
-<div class="isomer-card-description">S. Rajaratnam's contribution to Singapore is so great that to cover his
-life adequately required 20 years of research. Irene Ng, his authorised
-biographer, tells us little-known facets of the man, his legacy as Singapore’s
-first foreign and culture minister, and his relationship with Lee Kuan
-Yew.</div>
+<div class="isomer-card-title">A Tour of 60 Asian Port Cities with Ex–ACM Director Kennie Ting</div>
+<div class="isomer-card-description">To write a book about 60 Asian port cities, ex–ACM director Kennie Ting
+travelled as far as the Middle East and Africa. He tells us how port cities
+can tell a different history of Asia, and what his "eat, pray, love" cities
+and his favourite ACM artefacts are.</div>
 <div class="isomer-card-link">Listen to the episode</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/stella-kon-beyond-emily-of-emerald-hill/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Stella Kon" src="/images/Podcast/Stella_600_400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Stella Kon: Beyond Emily of Emerald Hill</div><div class="isomer-card-description">Stella Kon is known for creating the beloved Emily of Emerald Hill – possibly the most frequently staged play in Singapore. Also a musical theatre writer, Stella talks about the difference between writing plays and musicals, her favourite actor who played Emily, and her writing process.</div><div class="isomer-card-link">Listen to the episode</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/s-rajaratnam-singapores-first-foreign-minister/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Rajaratnam" src="/images/Podcast/Irene_600_400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">He Wrote the National Pledge: S. Rajaratnam, Singapore’s First Foreign Minister</div><div class="isomer-card-description">S. Rajaratnam's contribution to Singapore is so great that to cover his life adequately required 20 years of research. Irene Ng, his authorised biographer, tells us little-known facets of the man, his legacy as Singapore’s first foreign and culture minister, and his relationship with Lee Kuan Yew.</div><div class="isomer-card-link">Listen to the episode</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/stella-kon-beyond-emily-of-emerald-hill/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Stella Kon" src="/images/Podcast/Stella_600_400.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Stella Kon: Beyond Emily of Emerald Hill</div>
+<div class="isomer-card-description">Stella Kon is known for creating the beloved Emily of Emerald Hill – possibly
+the most frequently staged play in Singapore. Also a musical theatre writer,
+Stella talks about the difference between writing plays and musicals, her
+favourite actor who played Emily, and her writing process.</div>
+<div class="isomer-card-link">Listen to the episode</div>
+</div>
+</a>
 </div>
 <p></p>
 <h4><strong>Season 2</strong></h4>

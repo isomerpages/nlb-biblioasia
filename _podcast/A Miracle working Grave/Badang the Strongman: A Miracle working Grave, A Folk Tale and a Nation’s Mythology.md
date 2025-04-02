@@ -52,9 +52,9 @@ Oxon: Routledge, 2025). (From National Library Singapore, call no. RSING
 <summary>Credits</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh
-Gek Han. Sound engineering was done by Nookcha Ptd Ltd. The background
-music “Di Tanjong Katong” was composed by Osman Ahmad and performed by
-Chords Haven. Special thanks to William for coming on the show.</p>
+Gek Han. Sound engineering was done by Nookcha Films. The background music
+“Di Tanjong Katong” was composed by Osman Ahmad and performed by Chords
+Haven. Special thanks to William for coming on the show.</p>
 <p></p>
 </div>
 </details>

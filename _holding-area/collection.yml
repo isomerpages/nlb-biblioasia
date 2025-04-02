@@ -2,4 +2,5 @@ collections:
   holding-area:
     output: true
     order:
+      - My Mother Hedwig Anuar.md
       - "Pages of Progress: The Toa Payoh Public Library.md"

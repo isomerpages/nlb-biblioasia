@@ -2,6 +2,16 @@ collections:
   podcast:
     output: true
     order:
+      - The National Anthem/.keep
+      - The National Anthem/The Making of Majulah Singapura as We Know It.md
+      - The National Anthem/Transcript.md
+      - Pioneer Spy Chief/.keep
+      - Pioneer Spy Chief/First Spy Chief of Independent Singapore, Tay Seow
+        Huah.md
+      - Pioneer Spy Chief/Transcript.md
+      - Hawker Culture in Singapore/.keep
+      - Hawker Culture in Singapore/Hawker Culture in Singapore.md
+      - Hawker Culture in Singapore/Transcript.md
       - A Miracle working Grave/.keep
       - "A Miracle working Grave/Badang the Strongman: A Miracle working Grave,
         A Folk Tale and a Nation’s Mythology.md"
