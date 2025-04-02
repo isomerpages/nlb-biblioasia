@@ -27,12 +27,15 @@ If my mother had to work late, I would spend time in the library browsing the sh
 
 I would also attend storytelling sessions at the National Library. We sat on the floor cushions, listening enthralled as the librarians brought the books to life. I remember participating in a fancy dress fashion show at the library where we had to dress up as book characters. I went as a Hawaiian girl, and my mother ordered a fresh flower lei and fresh flowers for my hair to go with the costume.&nbsp;
 
+![](/images/Vol%2021%20Issue%202/Hedwig/hedwig_tour.jpg)
+<div style="background-color:white;"> Hedwig Anuar giving Minister of State for Culture Fong Sip Chee a tour of the National Library’s silver jubilee exhibition at the Central Library on Stamford Road, 1983. On the left is Lau Wai Har, chairman of the board of the National Library. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 #### **The Teen Years**
 
 When I was in secondary school and studying literature, my mother would spend time with me sharing her passion for poetry and Shakespeare. Her love of literature and the written word knew no boundaries. Our home was filled with books of all topics, ranging from politics, the arts and poetry to architecture, feminism, autobiographies and more. These were organised by genre so my mother could easily access what she wanted to read.&nbsp;
 
-![](/images/Vol%2021%20Issue%202/Hedwig/hedwig_sf.jpg)
-<div style="background-color:white;">Hedwig Anuar at Shirin’s graduation from the San Francisco State University, 1984. <i>Courtesy of Shirin Aroozoo</i></div>
+![](/images/Vol%2021%20Issue%202/Hedwig/hedwig_friend.jpg)
+<div style="background-color:white;">Hedwig Anuar with her good friend friend Daisy Vaithilingam, 1950s. <i>Courtesy of Shirin Aroozoo</i></div>
 
 Later, when I started dating, my mother would bring home books on sex and relationships. I think, as with most Asian parents, this was a topic that was difficult to discuss so her way of educating me was through books. After reading these books, I would then talk about these topics with my mother.
 
@@ -58,6 +61,9 @@ After hearing about the different countries, I, too, wanted to see the world. Fr
 
 As I grew older, the idea of living abroad kept returning and I decided that I wanted to study overseas. After much negotiation with my mother, I left Singapore at the age of 17 for the United States. After becoming a mother myself, I realised how difficult it must have been for her to let me go at a relatively young age. Despite objections from concerned family and friends, I was allowed to go as my mother trusted me. I only found out much later that it was quite a financial burden on her and she had to get a personal loan from a friend to help me finance my dream of living and studying abroad. My mother’s sole concern was for my happiness. She always told me: “As long as you are happy, I am happy.”&nbsp;
 
+![](/images/Vol%2021%20Issue%202/Hedwig/hedwig_sf.jpg)
+<div style="background-color:white;">Hedwig Anuar at Shirin’s graduation from the San Francisco State University, 1984. <i>Courtesy of Shirin Aroozoo</i></div>
+
 My mother’s parenting style was ahead of her time and very forward-thinking. It was very important to her that I learn to be independent and not have to depend on anyone. I believe this is because she was a divorced woman in the 1960s and she had to raise me single-handedly. She was extremely proud and independent as a result. Her good friend Daisy Vaithilingam told me that when my mother was about to give birth to me at the hospital, she told Daisy to go home and that she would be fine. My mother gave birth to me alone with no family or friends around.
 
 #### **A Long-Distance Relationship**
@@ -68,6 +74,9 @@ When I got married in 1990, my mother was thrilled and, I think, somewhat reliev
 
 In recognition of her many contributions, my mother was named Woman of the Year by _Her World_ magazine in 1993. I was the first person she called when she got news of the award and I came back to surprise her at the award ceremony. In 1997, I was expecting my son and my mother visited me in Toronto in the depths of winter to witness the birth of her only grandson. She stayed for two months to help me. Throughout my life, my mother has always been around to support me whenever I needed her and likewise, I have tried to do the same.&nbsp;
 
+![](/images/Vol%2021%20Issue%202/Hedwig/hedwig_staff.jpg)
+<div style="background-color:white;">Hedwig Anuar with staff at the National Library’s dinner and dance, 1993. <i>Courtesy of Shirin Aroozoo</i></div>
+
 I returned to Singapore at the end of 2003 after being away for almost two decades. I could sense that she was getting forgetful when we spoke on the phone and something just seemed amiss. It was a difficult decision but I knew that I would never forgive myself if anything happened to my mother while I was away.&nbsp;
 
 #### **Back in Singapore**
@@ -76,6 +85,9 @@ In March 2004, my mother was officially diagnosed with Alzheimer’s disease. Sh
 
 One of the hardest things to do was to make my mother give up driving. She would forget where she had parked the car and often got lost. With the cost of owning a car being quite exorbitant in Singapore, she reluctantly gave up driving. The next big hurdle was convincing my mother to get a live-in helper as she had lived alone for many years. We needed a helper for her because she was forgetting to eat, and her safety and health were becoming a concern. I was so worried when I first brought our helper home but she is wonderful and is still with us today.&nbsp;
 
+![](/images/Vol%2021%20Issue%202/Hedwig/hedwig_dining.jpg)
+<div style="background-color:white;">Hedwig Anuar with daughter Shirin (extreme right) and former staff of the National Library, 2018. <i>Courtesy of Shirin Aroozoo</i></div>
+
 The last challenge was the most emotional for me as I made the very difficult decision to sell the family home in 2021. This was a house that we had lived in for 50 years. As I drove to pass the keys to the new owners, I&nbsp;broke down in the car sobbing as it had been a wonderful happy home with many memories and I&nbsp;knew that my mother would never have wanted to move out. It was one of the most difficult decisions I&nbsp;have had to make since returning to Singapore. &nbsp;
 
 In a 1993 interview for _Her World_ magazine, my mother was asked what she feared on turning 65 and living alone. She said she feared having a disabling illness like cancer or suffering from a stroke. “I’m not worried about dying. It’s how you die. Like everyone else, I would like a quick and easy death. Preferably in my sleep. That’s the best way to go, isn’t it? I wouldn’t like a long period of suffering and pain or a crippling kind of disease. I wouldn’t want to be a burden on anybody. I don’t believe in being hooked up to a machine like a vegetable. I don’t call that living at all. I would rather be dead. When I die, I would die happy in the sense that I have achieved so much and I have produced two wonderful children.”
@@ -83,6 +95,9 @@ In a 1993 interview for _Her World_ magazine, my mother was asked what she feare
 Today, her Alzheimer’s is at an advanced stage and she needs two helpers to care for her. I am glad I have the ability to repay her for everything she has done for me, though of course a daughter can never truly repay a mother for all the sacrifices made over a lifetime.
 
 My mother inculcated in me the value of hard work, travel, culture, family, and most of all, having an appreciation and respect for people from all walks of life. I am very blessed to have such an amazing mother who has led an incredibly full and colourful life. She has had such a profound impact on me, and on the generations of Singaporeans who have ever used the National Library.
+
+![](/images/Vol%2021%20Issue%202/Hedwig/hedwig_garden.jpg)
+<div style="background-color:white;">Hedwig Anuar with daughter Shirin in the garden of the family home, 2021. <i>Courtesy of Shirin Aroozoo</i></div>
 
 
 
