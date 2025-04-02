@@ -15,7 +15,7 @@ If my mother had to work late, I would spend time in the library browsing the sh
 
 I would also attend storytelling sessions at the National Library. We sat on the floor cushions, listening enthralled as the librarians brought the books to life. I remember participating in a fancy dress fashion show at the library where we had to dress up as book characters. I went as a Hawaiian girl, and my mother ordered a fresh flower lei and fresh flowers for my hair to go with the costume.&nbsp;
 
-The Teen Years&nbsp;
+#### **The Teen Years**
 
 When I was in secondary school and studying literature, my mother would spend time with me sharing her passion for poetry and Shakespeare. Her love of literature and the written word knew no boundaries. Our home was filled with books of all topics, ranging from politics, the arts and poetry to architecture, feminism, autobiographies and more. These were organised by genre so my mother could easily access what she wanted to read.&nbsp;
 
@@ -27,7 +27,7 @@ In addition to books, my mother also introduced me to the arts. We went to count
 
 We watched the Singapore Symphony Orchestra perform at the Singapore Conference Hall and Victoria Theatre when the orchestra was just starting up. My mother enjoyed all genres of music, including, but not limited to, jazz, baroque and world music. Movies were another favourite pastime and her preferred genres included comedy, drama and musicals. She did not like horror or science fiction though.
 
-A Love for Travel
+#### **A Love for Travel**
 
 My mother travelled a fair bit for work, attending conferences all over the world (where she would often be in the minority as most of the delegates were men). I heard about all the wonderful countries she travelled to, such as Papua New Guinea, New Zealand, Indonesia, Europe, the United States and Japan. She would often bring back a doll from each country that she visited as I loved collecting dolls when I was growing up.
 
@@ -39,7 +39,7 @@ As I grew older, the idea of living abroad kept returning and I decided that I w
 
 My mother’s parenting style was ahead of her time and very forward-thinking. It was very important to her that I learn to be independent and not have to depend on anyone. I believe this is because she was a divorced woman in the 1960s and she had to raise me single-handedly. She was extremely proud and independent as a result. Her good friend Daisy Vaithilingam told me that when my mother was about to give birth to me at the hospital, she told Daisy to go home and that she would be fine. My mother gave birth to me alone with no family or friends around.
 
-A Long-Distance Relationship
+#### **A Long-Distance Relationship**
 
 I decided to migrate to Canada in 1989. Once again, my mother supported me and encouraged me to give it a go, which is how I ended up living abroad for nearly 20 years. While I was away, she would call me regularly, send me flowers on my birthday and visit almost every other year. I also came back regularly to visit her. Despite the distance apart over the years, we still managed to maintain a very close relationship through letters, visits and weekly phone calls.
 
@@ -49,7 +49,7 @@ In recognition of her many contributions, my mother was named Woman of the Year 
 
 I returned to Singapore at the end of 2003 after being away for almost two decades. I could sense that she was getting forgetful when we spoke on the phone and something just seemed amiss. It was a difficult decision but I knew that I would never forgive myself if anything happened to my mother while I was away.&nbsp;
 
-Back in Singapore
+#### **Back in Singapore**
 
 In March 2004, my mother was officially diagnosed with Alzheimer’s disease. She was 75 at the time. In her usual style, she borrowed and bought books on the disease to learn how to manage it. She was determined to fight it as best as she could. Fortunately, the disease progressed slowly but we had many challenging moments.&nbsp;
 
@@ -68,4 +68,3 @@ My mother inculcated in me the value of hard work, travel, culture, family, and 
 <div style="background-color: white;">
 <br>
 	<b>Shirin Aroozoo</b> is the daughter of Hedwig Anuar, who was the director of the National Library from 1965 to 1988. </div>
-	
