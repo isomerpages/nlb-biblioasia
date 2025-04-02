@@ -48,12 +48,9 @@ no. 3 (October–December 2013).</p>
 <summary>Credits</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh
-Gek Han. Sound engineering was done by Doppler Soundlab. The background
-music "Di Tanjong Katong" was composed by Osman Ahmad and performed by
-Chords Havenpecial thanks to Ryan for coming on the show.</p>
-<p>
-<br>
-</p>
+Gek Han. Sound engineering was done by Nookcha Films. The background music
+"Di Tanjong Katong" was composed by Osman Ahmad and performed by Chords
+Havenpecial thanks to Ryan for coming on the show.</p>
 </div>
 </details>
 <details class="isomer-details">
