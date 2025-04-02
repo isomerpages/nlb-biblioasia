@@ -31,7 +31,12 @@ of the 1960s – came to play a giant role serving a newly independent Singapore
 <details class="isomer-details">
 <summary>About the Guest</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Simon Tay is chairman of the Singapore Institute of International Affairs,
+a non-profit think tank. He is a National University of Singapore associate
+law professor and a former Nominated Member of Parliament. In 1995, Simon
+was named a Singapore Young Artist, and his novel&nbsp;<em>City of Small Blessings</em> won
+the Singapore Literature Prize in 2010. In 2021, he received the S.E.A.
+Write Award, a regional award given to leading ASEAN poets and writers.</p>
 </div>
 </details>
 <details class="isomer-details">
@@ -44,8 +49,8 @@ of the 1960s – came to play a giant role serving a newly independent Singapore
 <summary>Credits</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh
-Gek Han. Sound engineering was done by Doppler Soundlab. The background
-music "Di Tanjong Katong" was composed by Osman Ahmad and performed by&nbsp;Chords
+Gek Han. Sound engineering was done by Nookcha. The background music "Di
+Tanjong Katong" was composed by Osman Ahmad and performed by&nbsp;Chords
 Haven. Special thanks to Simon for coming on the show.</p>
 </div>
 </details>
