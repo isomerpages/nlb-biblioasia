@@ -2,6 +2,7 @@ collections:
   podcast:
     output: true
     order:
+      - The National Anthem/The Making of Majulah Singapura as We Know It.md
       - The National Anthem/.keep
       - Pioneer Spy Chief/.keep
       - "Pioneer Spy Chief/Tay Seow Huah: First Spy Chief of Independent
