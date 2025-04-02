@@ -2,6 +2,7 @@ collections:
   podcast:
     output: true
     order:
+      - The National Anthem/Transcript.md
       - The National Anthem/The Making of Majulah Singapura as We Know It.md
       - The National Anthem/.keep
       - Pioneer Spy Chief/.keep
