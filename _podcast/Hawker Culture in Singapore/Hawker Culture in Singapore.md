@@ -9,7 +9,7 @@ description: Hawkers traditionally sell their food on streets. Uniquely in
 image: /images/Podcast/Ryan_600_by_400.jpg
 third_nav_title: Hawker Culture in Singapore
 ---
-<p><strong>Coming in May</strong>
+<p><strong>Coming in June</strong>
 <br>
 <br>Hawkers traditionally sell their food on streets. Uniquely in Singapore
 though, they ply their trade in fixed stalls in hawker centres. Ryan Kueh,
@@ -39,6 +39,9 @@ Singapore, call no. RSING 381.18095957 KUE)</p>
 2nd ed. (Singapore : National Environment Agency; National Heritage Board,
 2023)<strong> </strong>(From National Library Singapore, call no. RSING
 381.18095957 KON)</p>
+<p></p>
+<p>Lim Tin Seng, "<a href="https://biblioasia.nlb.gov.sg/vol-9/issue-3/oct-dec-2013/singapore-hawkers-national-icons/" rel="noopener nofollow" target="_blank">Hawkers: From Public Nuisance to National Icons</a>," <em>BiblioAsia </em>9,
+no. 3 (October–December 2013).</p>
 </div>
 </details>
 <details class="isomer-details">
