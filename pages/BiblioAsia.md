@@ -24,7 +24,7 @@ boxing superstar?</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Tay Seow Huah: First Spy Chief of Independent Singapore</div>
-<div class="isomer-card-description">Tay Seow Huah, the Permanent Secretary for the Home Affairs Ministry,
+<div class="isomer-card-description">Tay Seow Huah, then Permanent Secretary for the Home Affairs Ministry,
 helmed Singapore’s response to the 1974 Laju hijacking incident. Award-winning
 writer Simon Tay tells us about how his Penang-born father came to play
 a giant role serving a newly independent Singapore.</div>
