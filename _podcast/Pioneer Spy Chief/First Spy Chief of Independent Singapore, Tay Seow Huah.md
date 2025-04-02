@@ -25,7 +25,7 @@ on Pulau Bukom Besar and subsequently took five hostages. Little is known
 about the enigmatic <a href="https://catalogue.nlb.gov.sg/search/card?recordId=300038279" rel="noopener nofollow" target="_blank">spy chief</a>,
 who was the founding Director of the Security and Intelligence Division.
 Simon Tay, lawyer, academic and winner of the 2010 Singapore Literature
-Prize, tells us about how his father – a Penang-born who lived through
+Prize, tells us about how his father – a Penang-born boy who lived through
 WWII, the Malayan Emergency and the political tumult of the 1960s – came
 to play a giant role serving a newly independent Singapore.</p>
 <p></p>
