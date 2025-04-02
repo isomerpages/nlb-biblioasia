@@ -7,9 +7,18 @@ description: ""
 #### The daughter of Hedwig Anuar reveals a side to the former Director of the National Library that not many people know.  
 By Shirin Aroozoo
 
+![](/images/Vol%2021%20Issue%202/Hedwig/hedwig_facing.jpg)
+<div style="background-color:white;">Hedwig Aroozoo in London, 1950s. <i>Courtesy of Shirin Aroozoo</i></div>
+
+![](/images/Vol%2021%20Issue%202/Hedwig/hedwig_union.jpg)
+<div style="background-color:white;">Hedwig Aroozoo (in printed dress) with members of the 1st Students Union Council of the University of Malaya, 1950. <i>Courtesy of Shirin Aroozoo</i></div>
+
 Books have always been a big part of my life. I was born in 1962 and one of my earliest childhood memories is of my mother reading a bedtime story or a nursery rhyme to me almost every night.
 
 As the director of the National Library, she would inevitably bring home a wide range of books for me to read. She started with picture books when I was younger, and as I grew older, she brought home books by Judy Blume and also the Nancy Drew series. Looking back, many of the books that she encouraged me to read had women as the main protagonists. I think this influenced my outlook, teaching me that women are just as capable as men and that we can achieve anything if we put our minds to it.
+
+![](/images/Vol%2021%20Issue%202/Hedwig/hedwig_graduation.jpg)
+<div style="background-color:white;"> Hedwig Aroozoo’s graduation from the University of Malaya, 1951. <i>Courtesy of Shirin Aroozoo</i></div>
 
 If my mother had to work late, I would spend time in the library browsing the shelves and checking out all the new arrivals displayed on a table. I also enjoyed my time in the children’s section with the staff, who allowed me to stand behind the counter and stamp the due date on the library slips in the books. The staff were all very caring and I am still in touch with many of them to this day.&nbsp;
 
