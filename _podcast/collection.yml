@@ -2,6 +2,7 @@ collections:
   podcast:
     output: true
     order:
+      - Hawker Culture in Singapore.md
       - A Miracle working Grave/.keep
       - "A Miracle working Grave/Badang the Strongman: A Miracle working Grave,
         A Folk Tale and a Nation’s Mythology.md"
