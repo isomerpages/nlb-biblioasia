@@ -49,8 +49,8 @@ Write Award, a regional award given to leading ASEAN poets and writers.</p>
 <summary>Credits</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This episode of BiblioAsia+ was hosted by Jimmy Yap and produced by Soh
-Gek Han. Sound engineering was done by Nookcha. The background music "Di
-Tanjong Katong" was composed by Osman Ahmad and performed by&nbsp;Chords
+Gek Han. Sound engineering was done by Nookcha Films. The background music
+"Di Tanjong Katong" was composed by Osman Ahmad and performed by&nbsp;Chords
 Haven. Special thanks to Simon for coming on the show.</p>
 </div>
 </details>
