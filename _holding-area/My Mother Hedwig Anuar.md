@@ -10,15 +10,18 @@ By Shirin Aroozoo
 ![](/images/Vol%2021%20Issue%202/Hedwig/hedwig_facing.jpg)
 <div style="background-color:white;">Hedwig Aroozoo in London, 1950s. <i>Courtesy of Shirin Aroozoo</i></div>
 
-![](/images/Vol%2021%20Issue%202/Hedwig/hedwig_union.jpg)
-<div style="background-color:white;">Hedwig Aroozoo (in printed dress) with members of the 1st Students Union Council of the University of Malaya, 1950. <i>Courtesy of Shirin Aroozoo</i></div>
+![](/images/Vol%2021%20Issue%202/Hedwig/hedwig_family.jpg)
+<div style="background-color:white;">The Aroozoo family. (From Left) Edmund (brother), Hedwig, Percival (father), Lydia (sister), Agnes (mother), Joyce (sister), Marie (sister), Kim (Marie’s husband) and Eleanor (sister). <i>Courtesy of Shirin Aroozoo</i></div>
 
 Books have always been a big part of my life. I was born in 1962 and one of my earliest childhood memories is of my mother reading a bedtime story or a nursery rhyme to me almost every night.
 
 As the director of the National Library, she would inevitably bring home a wide range of books for me to read. She started with picture books when I was younger, and as I grew older, she brought home books by Judy Blume and also the Nancy Drew series. Looking back, many of the books that she encouraged me to read had women as the main protagonists. I think this influenced my outlook, teaching me that women are just as capable as men and that we can achieve anything if we put our minds to it.
 
-![](/images/Vol%2021%20Issue%202/Hedwig/hedwig_graduation.jpg)
-<div style="background-color:white;"> Hedwig Aroozoo’s graduation from the University of Malaya, 1951. <i>Courtesy of Shirin Aroozoo</i></div>
+![](/images/Vol%2021%20Issue%202/Hedwig/hedwig_baby.jpg)
+<div style="background-color:white;">Hedwig Anuar with daughter Shirin, age 1, 1963. <i>Courtesy of Shirin Aroozoo</i></div>
+
+![](/images/Vol%2021%20Issue%202/Hedwig/hedwig_daughter.jpg)
+<div style="background-color:white;">Hedwig Anuar with daughter Shirin, age 3, 1965. <i>Courtesy of Shirin Aroozoo</i></div>
 
 If my mother had to work late, I would spend time in the library browsing the shelves and checking out all the new arrivals displayed on a table. I also enjoyed my time in the children’s section with the staff, who allowed me to stand behind the counter and stamp the due date on the library slips in the books. The staff were all very caring and I am still in touch with many of them to this day.&nbsp;
 
@@ -27,6 +30,9 @@ I would also attend storytelling sessions at the National Library. We sat on the
 #### **The Teen Years**
 
 When I was in secondary school and studying literature, my mother would spend time with me sharing her passion for poetry and Shakespeare. Her love of literature and the written word knew no boundaries. Our home was filled with books of all topics, ranging from politics, the arts and poetry to architecture, feminism, autobiographies and more. These were organised by genre so my mother could easily access what she wanted to read.&nbsp;
+
+![](/images/Vol%2021%20Issue%202/Hedwig/hedwig_sf.jpg)
+<div style="background-color:white;">Hedwig Anuar at Shirin’s graduation from the San Francisco State University, 1984. <i>Courtesy of Shirin Aroozoo</i></div>
 
 Later, when I started dating, my mother would bring home books on sex and relationships. I think, as with most Asian parents, this was a topic that was difficult to discuss so her way of educating me was through books. After reading these books, I would then talk about these topics with my mother.
 
@@ -39,6 +45,12 @@ We watched the Singapore Symphony Orchestra perform at the Singapore Conference 
 #### **A Love for Travel**
 
 My mother travelled a fair bit for work, attending conferences all over the world (where she would often be in the minority as most of the delegates were men). I heard about all the wonderful countries she travelled to, such as Papua New Guinea, New Zealand, Indonesia, Europe, the United States and Japan. She would often bring back a doll from each country that she visited as I loved collecting dolls when I was growing up.
+
+![](/images/Vol%2021%20Issue%202/Hedwig/hedwig_graduation.jpg)
+<div style="background-color:white;"> Hedwig Aroozoo’s graduation from the University of Malaya, 1951. <i>Courtesy of Shirin Aroozoo</i></div>
+
+![](/images/Vol%2021%20Issue%202/Hedwig/hedwig_union.jpg)
+<div style="background-color:white;">Hedwig Aroozoo (in printed dress) with members of the 1st Students Union Council of the University of Malaya, 1950. <i>Courtesy of Shirin Aroozoo</i></div>
 
 She would also bring home books on the countries she visited so that she could share her experiences with me. Hearing about all these places as a child made it all sound so exciting and exotic to me. As a result of her travels, she had friends from all over the world and I got to meet many of them, an experience that exposed me to lots of different cultures.&nbsp;
 
