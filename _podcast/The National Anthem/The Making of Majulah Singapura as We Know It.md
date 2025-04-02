@@ -32,7 +32,7 @@ He is a former chairman of the Sing Singapore organising committee.</p>
 <details class="isomer-details">
 <summary>Resources</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Bernard Tan, “<a href="https://biblioasia.nlb.gov.sg/vol-21/issue-1/apr-jun-2025/sing-singapore-national-day-songs/" rel="noopener nofollow" target="_blank">The Search for Home, Truly (and Other National Day Songs)</a>,” <em>BiblioAsia  </em>21,
+<p>Bernard Tan, “<a href="https://biblioasia.nlb.gov.sg/vol-21/issue-1/apr-jun-2025/sing-singapore-national-day-songs/" rel="noopener nofollow" target="_blank">The Search for Home, Truly (and Other National Day Songs)</a>,” <em>BiblioAsia </em>21,
 no. 1 (April–June 2025).</p>
 <p></p>
 <p>Rohana Zubir,<em> <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=14540511" rel="noopener noreferrer nofollow" target="_blank"><u>Zubir Said: The Composer of Majulah Singapura</u></a> </em>(Singapore:
