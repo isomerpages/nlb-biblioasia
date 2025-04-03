@@ -27,7 +27,7 @@ Tan Beng Kiat, the Public Works Department chief of building works, showed the c
 ![](/images/Vol%2021%20Issue%202/Toa%20Payoh/toapayoh_pool2.jpg)
 <div style="background-color:white;"> The round pool with a fountain in front of the Toa Payoh Branch Library, 1974.  <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore. </i></div>
 
-The committee also planned the new and existing facilities that the library would house. Interestingly, in addition to operating as a public library for patrons, the Toa Payoh Library was envisaged as the headquarters of the Library Extension Services comprising the mobile library service and part-time branch libraries. Part of the space would be set aside to keep inventory for the mobile library.[^4] The aim of the mobile library service was to take the books out to the schools and the community so that children could borrow books from the mobile libraries said Amarjeet Gill, who headed Toa Payoh Library from 1993 to 1994.[^5]
+The committee also planned the new and existing facilities that the library would house. Interestingly, in addition to operating as a public library for patrons, the Toa Payoh Library was envisaged as the headquarters of the Library Extension Services comprising the mobile library service and part-time branch libraries. Part of the space would be set aside to keep inventory for the mobile library.[^4] “The aim of the mobile library service was to take the books out to the schools and the community so that children could borrow books from the mobile libraries,”&nbsp;said Amarjeet Gill, who headed Toa Payoh Library&nbsp;from 1993 to 1994.[^5]
 
 #### **SEAP Games Secretariat**
 
@@ -36,6 +36,9 @@ Before it opened, the library building served as the secretariat of the 7th Sout
 While the government had already accepted a tender valued at $1,233,989 in early 1973 for the building of Toa Payoh Branch Library, work was halted for one month for the SEAP games. Chan explained: “It was probably the largest non-residential building in the area, bigger than any restaurant or cinema at that time. There were hardly any buildings around except for the flats where the sportsmen were housed.”[^7]
 
 After the last of the 1,500 SEAP Games competitors left on 11 September 1973, the only activity that remained in the Games Village was at the secretariat building. It functioned until 15 September while officials sorted out “the aftermath of the seven-day event”.[^8]
+
+![](/images/Vol%2021%20Issue%202/Toa%20Payoh/toapayoh_seap.jpg)
+<div style="background-color:white;">The SEAP Games Secretariat building, 1973. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **A New Page in History**
 
@@ -51,9 +54,15 @@ Although Minister for Culture Jek Yeun Thong was scheduled to open the library, 
 
 “The completion of the Toa Payoh Branch Library marks yet another stage in the development of the \[National\] Library’s facilities,” the speech read. “It will not only serve the reading requirements of the people of Toa Payoh, but will also serve as the headquarters of other services such as the popular mobile service as well as service to part-time branches, and to residents’ associations, social, welfare homes, clubs and other institutions and associations.” It was Jek’s hope that the library would be an “incentive for all to renew their acquaintance with books and thus broaden their horizons and knowledge”.[^12]
 
+![](/images/Vol%2021%20Issue%202/Toa%20Payoh/toapayoh_opening.jpg)
+<div style="background-color:white;">Guests at the opening of Toa Payoh Branch Library, 1974. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 The library proved to be very popular with residents, especially children. _A New Nation_ article from 1974 reported that about three-quarters of its total membership consisted of children, and in March 1974, its 9,744 child members borrowed a total of 53,950 books. The article noted that this figure was “much higher than comparative figures from the Central Library and the older Queenstown branch”.[^13]
 
 Interestingly, studying was not allowed in the library back then. The library published a brochure titled “Study Rooms in Community Centres Near the Toa Payoh Branch Library”. It noted that the library’s main objective “is to serve members of the public, including students, who wish to borrow books or consult library materials. It is not equipped to serve those who wish to use the premises for studying their own books or notes”.[^14] (In 2003, the National Library Board “relented on its ‘no studying’ policy”.)[^15]
+
+![](/images/Vol%2021%20Issue%202/Toa%20Payoh/toapayoh_studyrooms.jpg)
+<div style="background-color:white;">Students were encouraged to use the study rooms in community centres near the library. <i>Image reproduced from National Library Board, Community Information: Toa Payoh Community Library (Singapore: National Library Board, 1985). (From National Library Singapore, call no. RCLOS NR5).</i></div>
 
 The popularity of the library can be seen in the fact that it increased the seating capacity of the adult and young people’s reading room from 180 to 220, and extended its operating hours from 50 to 63 hours the same year it opened. Two years later, in 1976, the library purchased a hundred more chairs.[^16] (Today, the library opens 77 hours per week from 10 am to 9 pm Monday through Sunday.)&nbsp;
 
