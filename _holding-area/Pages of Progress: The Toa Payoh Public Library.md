@@ -21,7 +21,7 @@ Tan Beng Kiat, the Public Works Department chief of building works, showed the c
 ![](/images/Vol%2021%20Issue%202/Toa%20Payoh/toapayoh_pool.jpg)
 <div style="background-color:white;"> The round pool with a fountain in front of the Toa Payoh Branch Library, 1974.  <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore. </i></div>
 
-The committee also planned the new and existing facilities that the library would house. Interestingly, in addition to operating as a public library for patrons, the Toa Payoh Library was envisaged as the headquarters of the Library Extension Services comprising the mobile library service and part-time branch libraries. Part of the space. Part of the space would be set aside to keep inventory for the mobile library.[^4] The aim of the mobile library service was to take the books out to the schools and the community so that children could borrow books from the mobile libraries said Amarjeet Gill, who headed Toa Payoh Library from 1993 to 1994.[^5]
+The committee also planned the new and existing facilities that the library would house. Interestingly, in addition to operating as a public library for patrons, the Toa Payoh Library was envisaged as the headquarters of the Library Extension Services comprising the mobile library service and part-time branch libraries. Part of the space would be set aside to keep inventory for the mobile library.[^4] The aim of the mobile library service was to take the books out to the schools and the community so that children could borrow books from the mobile libraries said Amarjeet Gill, who headed Toa Payoh Library from 1993 to 1994.[^5]
 
 #### **SEAP Games Secretariat**
 
