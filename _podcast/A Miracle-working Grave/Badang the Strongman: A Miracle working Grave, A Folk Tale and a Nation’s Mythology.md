@@ -11,7 +11,7 @@ description: Many people know of the story of Badang the strongman, an
   Badang (and the location of his grave) is much more complicated than is
   generally known.
 image: /images/Podcast/William_600_by_400.jpg
-third_nav_title: A Miracle working Grave
+third_nav_title: "A Miracle-working Grave"
 ---
 <p><strong>Coming in May</strong>
 </p>
