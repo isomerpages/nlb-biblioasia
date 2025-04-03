@@ -52,7 +52,7 @@ Although Minister for Culture Jek Yeun Thong was scheduled to open the library, 
 ![](/images/Vol%2021%20Issue%202/Toa%20Payoh/toapayoh_tadin2.jpg)
 <div style="background-color:white;">Sha’ari Tadin, senior parliamentary secretary for the Ministry of Culture, tours Toa Payoh Branch Library after its opening ceremony, 1974. On the left is Hedwig Anuar, director of the National Library. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
-“The completion of the Toa Payoh Branch Library marks yet another stage in the development of the \[National\] Library’s facilities,” the speech read. “It will not only serve the reading requirements of the people of Toa Payoh, but will also serve as the headquarters of other services such as the popular mobile service as well as service to part-time branches, and to residents’ associations, social, welfare homes, clubs and other institutions and associations.” It was Jek’s hope that the library would be an “incentive for all to renew their acquaintance with books and thus broaden their horizons and knowledge”.[^12]
+“The completion of the Toa Payoh Branch Library marks yet another stage in the development of the \[National\] Library’s facilities,” the speech read. “It will not only serve the reading requirements of the people of Toa Payoh, but will also serve as the headquarters of other services such as the popular mobile service as well as service to part-time branches, and to residents’ associations, social welfare homes, clubs and other institutions and associations.” It was Jek’s hope that the library would be an “incentive for all to renew their acquaintance with books and thus broaden their horizons and knowledge”.[^12]
 
 ![](/images/Vol%2021%20Issue%202/Toa%20Payoh/toapayoh_opening.jpg)
 <div style="background-color:white;">Guests at the opening of Toa Payoh Branch Library, 1974. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
@@ -87,10 +87,7 @@ As part of the $3-million makeover, services and facilities for different age gr
 
 The Children’s Section was refreshed with a “Treasure Island” theme and ark-shaped shelves. Other new services included borrowers’ enquiry terminals for patrons to check their loan records and make payments. There were also self-service borrowing stations and InfoXpress terminals where patrons could “get answers to frequently asked questions and reference resources about Singapore”.&nbsp;
 
-![](/images/Vol%2021%20Issue%202/Toa%20Payoh/toapayoh_children.jpg)
-<div style="background-color:white;">The children’s section with the honeycomb design on the wall, ceiling and furniture, 2025. <i>Photo by Rebecca Tan.</i></div>
-
-The library became the “first among the community libraries” to have a cafe with the opening of Cafe Délifrance on its premises.[^27] “It is a lifestyle change,” noted Hajbee. “People just feel that it is so nice to have a cafe in the library area.”[^28]
+The library became the “first among the community libraries” to have a cafe with the opening of Délifrance on its premises.[^27] “It is a lifestyle change,” noted Hajbee. “People just feel that it is so nice to have a cafe in the library area.”[^28]
 
 #### **The Library Today**
 
@@ -98,12 +95,21 @@ As Toa Payoh Community Library entered the new millennium, it continued to serve
 
 In 2008, as part of a rebranding exercise by the NLB, all community libraries were renamed public libraries. Toa Payoh Community Library became known as Toa Payoh Public Library.[^30]
 
-Today, the facilities in the library have changed too. While there is no longer a cafe, the library is co-located with Computhink Kids SG, an enrichment centre offering coding classes for children. Patrons can reserve library seats in advance using NLB’s seat booking system and enjoy ample areas for self-study. The staff of Toa Payoh Public Library have also developed a new initiative called Toa Payoh Toilet Reads, where summaries of interesting books are pasted on toilet cubicle doors, allowing people to discover new reads in a unique manner. Staff also share their favourite reads and book reviews via posters displayed throughout the library. &nbsp;
+Today, the facilities in the library have changed too. While there is no longer a cafe, the library is co-located with Computhink Kids SG, an enrichment centre offering coding classes for children. Patrons can reserve library seats in advance using NLB’s seat booking system and enjoy ample areas for self-study.
+
+The staff of Toa Payoh Public Library have also developed a new initiative called Toa Payoh Toilet Reads, where summaries of interesting books are pasted on toilet cubicle doors, allowing people to discover new reads in a unique manner. Staff also share their favourite reads and book reviews via posters displayed throughout the library. &nbsp;
+
+
+![](/images/Vol%2021%20Issue%202/Toa%20Payoh/toapayoh_review.jpg)
+<div style="background-color:white;">Book reviews by library staff on level 1 of the library, 2025. <i>Photo by Rebecca Tan.</i></div>
 
 ![](/images/Vol%2021%20Issue%202/Toa%20Payoh/toapayoh_seating2.jpg)
 <div style="background-color:white;">A seating area on the second floor of the library. <i>Photo by Rebecca Tan.</i></div>
 
-Over the years, many current staff have had stints at Toa Payoh Public Library. For example, Raneetha Rajaratnam, NLB’s current director of programmes and services, started her career as a librarian there from 1997 to 1999. “Toa Payoh \[was\] my first posting when I joined NLB,” she said. “I was a ‘green sponge’, excitedly absorbing everything.” Siti Komsah Sudi, who worked as a library officer at Toa Payoh Public Library from 1995 to 2023, said: “Toa Payoh Library is special to me because my own children have grown up together with the library. When they were young, they frequented the library while I was working and although they don’t visit me in the library as much now, the library reminds me of how it has grown with my kids.”[^31]
+![](/images/Vol%2021%20Issue%202/Toa%20Payoh/toapayoh_children.jpg)
+<div style="background-color:white;">The children’s section with the honeycomb design on the wall, ceiling and furniture, 2025. <i>Photo by Rebecca Tan.</i></div>
+
+Over the years, many current staff have had stints at Toa Payoh Public Library. For example, Raneetha Rajaratnam, NLB’s current director for programmes and services, started her career as a librarian there from 1997 to 1999. “Toa Payoh \[was\] my first posting when I joined NLB,” she said. “I was a ‘green sponge’, excitedly absorbing everything.” Siti Komsah Sudi, who worked as a library officer at Toa Payoh Public Library from 1995 to 2023, said: “Toa Payoh Library is special to me because my own children have grown up together with the library. When they were young, they frequented the library while I was working and although they don’t visit me in the library as much now, the library reminds me of how it has grown with my kids.”[^31]
 
 #### **Looking Ahead**
 
