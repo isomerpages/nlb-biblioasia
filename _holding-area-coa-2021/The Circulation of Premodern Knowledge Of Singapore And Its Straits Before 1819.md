@@ -695,7 +695,7 @@ Swettenham, Frank. [_British Malaya: An Account of the Origin and Progress of Br
 
 [^28]: Peter Borschberg, [_The Singapore and Melaka Straits: Violence, Security and Diplomacy in the 17th Century_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13218095) (Singapore: NUS Press, 2010), 17–21. (From National Library Singapore, call no. RSING 911.16472 BOR)
 
-[^29]: Albuquerque, [_Commentarios Do Grande Afonso Dalboquerque_](Commentarios%20Do%20Grande%20Afonso%20Dalboquerque)_,_ 99.
+[^29]: Albuquerque, [_Commentarios Do Grande Afonso Dalboquerque_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203982735)_,_ 99.
 
 [^30]: Thomas Herbert, _Some Years Travels into Divers Parts of Africa, and Asia the Great, etc._ (London: Printed by R. Everingham, for R. Scot, T. Basset, J. Wright and R. Chiswell, 1677), 356.
 
