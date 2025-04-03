@@ -7,18 +7,24 @@ description: ""
 #### Before the Toa Payoh Public Library, the building was used as the secretariat for the 7th SEAP Games.  
 By Rebecca Tan
 
-![](/images/Vol%2021%20Issue%202/Toa%20Payoh/toapayoh_facing.jpg)
+![](/images/Vol%2021%20Issue%202/Toa%20Payoh/toapayoh_facing2.jpg)
 <div style="background-color:white;"> Toa Payoh Public Library, March 2025. The fountain has been demolished.  <i>Photo by Rebecca Tan. </i></div>
 
 A little over 50 years have passed since Toa Payoh Public Library opened its doors in 1974. Today, the building has become a landmark in the area. Built in what was then a young and growing town, the library is the second branch of the National Library after the first in Queenstown in 1970.[^1] With its distinctive facade and location in the heart of Toa Payoh, the library has served generations of patrons.&nbsp;
+
+![](/images/Vol%2021%20Issue%202/Toa%20Payoh/toapayoh_entrance.jpg)
+<div style="background-color:white;">The main entrance of Toa Payoh Public Library, 2025. <i>Photo by Rebecca Tan.</i></div>
 
 #### **The Right Place**
 
 Much work went into selecting the site of the library. Chan Thye Seng, a National Library officer and chairman of the Toa Payoh Branch Library building committee, noted in his oral history interview: “I remember we went out to the site and that time, the \[Toa Payoh\] town centre was just like a desert… probably there were some residential flats there but not all those restaurants, community centres, churches, they were all non-existent at that time. And I remember we had to use a minivan to drive in. There was not even a proper macadamised road to reach the site.”[^2]
 
+![](/images/Vol%2021%20Issue%202/Toa%20Payoh/toapayoh_branch.jpg)
+<div style="background-color:white;">Toa Payoh Branch Library under construction, 1973. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 Tan Beng Kiat, the Public Works Department chief of building works, showed the committee the plan of Toa Payoh town centre. “Restaurants, theatres, and there \[were\] two sides, one facing the fountain and the other side where it’s currently the famous Chinese restaurant or cinema or McDonald’s, and we were given either one of these,” said Chan. Upon Tan’s advice, the committee chose the side that “faces the fountain across the main road, which is a more commanding side”. Chan noted that the topmost floor of the library could serve as the viewing tower for royalty or foreign VIPs, as they would have a good view of the entire town.[^3]
 
-![](/images/Vol%2021%20Issue%202/Toa%20Payoh/toapayoh_pool.jpg)
+![](/images/Vol%2021%20Issue%202/Toa%20Payoh/toapayoh_pool2.jpg)
 <div style="background-color:white;"> The round pool with a fountain in front of the Toa Payoh Branch Library, 1974.  <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore. </i></div>
 
 The committee also planned the new and existing facilities that the library would house. Interestingly, in addition to operating as a public library for patrons, the Toa Payoh Library was envisaged as the headquarters of the Library Extension Services comprising the mobile library service and part-time branch libraries. Part of the space would be set aside to keep inventory for the mobile library.[^4] The aim of the mobile library service was to take the books out to the schools and the community so that children could borrow books from the mobile libraries said Amarjeet Gill, who headed Toa Payoh Library from 1993 to 1994.[^5]
@@ -40,7 +46,7 @@ The Toa Payoh Branch Library officially opened on 7 February 1974, with Cheong K
 
 Although Minister for Culture Jek Yeun Thong was scheduled to open the library, he was unable to attend and Haji Sha’ari Tadin, senior parliamentary secretary for the Ministry of Culture, delivered Jek’s speech on the minister’s behalf.
 
-![](/images/Vol%2021%20Issue%202/Toa%20Payoh/toapayoh_tadin.jpg)
+![](/images/Vol%2021%20Issue%202/Toa%20Payoh/toapayoh_tadin2.jpg)
 <div style="background-color:white;">Sha’ari Tadin, senior parliamentary secretary for the Ministry of Culture, tours Toa Payoh Branch Library after its opening ceremony, 1974. On the left is Hedwig Anuar, director of the National Library. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 “The completion of the Toa Payoh Branch Library marks yet another stage in the development of the \[National\] Library’s facilities,” the speech read. “It will not only serve the reading requirements of the people of Toa Payoh, but will also serve as the headquarters of other services such as the popular mobile service as well as service to part-time branches, and to residents’ associations, social, welfare homes, clubs and other institutions and associations.” It was Jek’s hope that the library would be an “incentive for all to renew their acquaintance with books and thus broaden their horizons and knowledge”.[^12]
@@ -61,7 +67,7 @@ Chee was very grateful to the library. “Previously, the library staff had to g
 
 On 1 September 1995, the National Library became a statutory board – the National Library Board (NLB) – and all branch libraries were renamed community libraries and branch heads became known as managers.[^22] To keep up with the times, Toa Payoh Community Library underwent a major revamp in 1998 and reopened the following year. Hajbee Abu Bakar, who was the library manager from 1994 to 2000, noted that the library needed “more than a few computers and television sets to keep up with the quality of services offered at newer libraries like the Cheng San community library”. These were used by patrons to access the library’s digital content and surf the Internet.[^23]
 
-![](/images/Vol%2021%20Issue%202/Toa%20Payoh/toapayoh_library.jpg)
+![](/images/Vol%2021%20Issue%202/Toa%20Payoh/toapayoh_library2.jpg)
 <div style="background-color:white;">Toa Payoh Community Library after a major revamp in 1998. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 During peak hours and on weekends, the average queuing time for patrons was 30 minutes to an hour as library staff manually handled the borrowing and returning of books. The introduction of self-check counters was anticipated to reduce the waiting time to no more than 15 minutes.[^24]
@@ -85,7 +91,7 @@ In 2008, as part of a rebranding exercise by the NLB, all community libraries we
 
 Today, the facilities in the library have changed too. While there is no longer a cafe, the library is co-located with Computhink Kids SG, an enrichment centre offering coding classes for children. Patrons can reserve library seats in advance using NLB’s seat booking system and enjoy ample areas for self-study. The staff of Toa Payoh Public Library have also developed a new initiative called Toa Payoh Toilet Reads, where summaries of interesting books are pasted on toilet cubicle doors, allowing people to discover new reads in a unique manner. Staff also share their favourite reads and book reviews via posters displayed throughout the library. &nbsp;
 
-![](/images/Vol%2021%20Issue%202/Toa%20Payoh/toapayoh_seating.jpg)
+![](/images/Vol%2021%20Issue%202/Toa%20Payoh/toapayoh_seating2.jpg)
 <div style="background-color:white;">A seating area on the second floor of the library. <i>Photo by Rebecca Tan.</i></div>
 
 Over the years, many current staff have had stints at Toa Payoh Public Library. For example, Raneetha Rajaratnam, NLB’s current director of programmes and services, started her career as a librarian there from 1997 to 1999. “Toa Payoh \[was\] my first posting when I joined NLB,” she said. “I was a ‘green sponge’, excitedly absorbing everything.” Siti Komsah Sudi, who worked as a library officer at Toa Payoh Public Library from 1995 to 2023, said: “Toa Payoh Library is special to me because my own children have grown up together with the library. When they were young, they frequented the library while I was working and although they don’t visit me in the library as much now, the library reminds me of how it has grown with my kids.”[^31]
