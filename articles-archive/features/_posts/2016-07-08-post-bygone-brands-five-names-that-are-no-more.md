@@ -168,7 +168,7 @@ In 1990, Pillai struck a deal with France’s biggest food company BSN Groupe to
 
 [^6]:Maybank. (1998, November 27). *Background information on site of Maybank headquarters in Singapore*. Retrieved from Maybank website.
 
-[^7]:*[Whiteaway Laidlaw.](http://eresources.nlb.gov.sg/infopedia/articles/SIP11222006-06-15.html)* (1915, May 31). *The Straits Times*, p.10. Retrieved from NewspaperSG.
+[^7]:*[Whiteaway Laidlaw.](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19150531-1.2.65)* (1915, May 31). *The Straits Times*, p.10. Retrieved from NewspaperSG.
 
 [^8]:[The late Mr Robert Laidlaw](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19151105-1.2.70.aspx). (1915, November 5). *The Straits Times*, p. 8. Retrieved from NewspaperSG; Vedamni, 2003.
 

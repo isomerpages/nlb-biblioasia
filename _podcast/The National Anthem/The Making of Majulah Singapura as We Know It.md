@@ -1,5 +1,5 @@
 ---
-title: The Making of Majulah Singapura as We Know It
+title: The Making of "Majulah Singapura" as We Know It
 permalink: /podcast/the-making-of-majulah-singapura-as-we-know-it-bernard-tan/
 variant: tiptap
 description: The national anthem that we know today wasn't the original version
