@@ -689,13 +689,13 @@ Swettenham, Frank. [_British Malaya: An Account of the Origin and Progress of Br
 
 [^25]: Joao Tavares de Vellez Guerreiro, [_Jornada, Que Antonio De Albuquerque Coelho, Governador, E Capitao General da Cidade Do Nome De Deos De Macao Na China, Fez De Goa Ate Chegar A Dita Cidade No Anno De 1718_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11944876) \[Journey made by Antonio de Albuquerque Coelho, Governor and Captain-General of the city of the name of God of Macau in China, from Goa to said city\] (Lisboa: Officina da Musica, 1732), 258. (From National Library Singapore, call no. RRARE 327.51032 GUE) For a translated account in English, see Joao Tavares de Vellez Guerreiro, [_A Portuguese Account of Johore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202674347), trans. T. D. Hughes (Singapore: Royal Asiatic Society, 1935). (From National Library Singapore, call no. RRARE 959.5103 GUE-\[JSB\])
 
-[^26]: De Camoes, _Os Lusíadas,_ vol. 2, 405; Barros, [_Da Asia_](Da%20Asia%20de%20João%20de%20Barros,%20dos%20feitos,%20que%20os%20Portuguezes%20fizeram%20no%20descubrimento,%20e%20conquista%20dos%20mares,%20e%20terras%20do%20Oriente.%20Decada%20Primeira,%20Parte%20Segunda)_,_ 307.
+[^26]: De Camoes, _Os Lusíadas,_ vol. 2, 405; Barros, [_Da Asia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12283902)_,_ 307.
 
 [^27]: Manuel de Faria y Sousa, [_The Portuguese Asia, or, The History of the Discovery and Conquest of India by the Portuguese_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4402924) (1695; repr., Farnborough, Hants: Gregg International, 1971), 415–18. (From National Library Singapore, call no. R 946.902 FAR) Pierre Duval was a French geographer and editor of Pyrard’s voyages. See François Pyrard, _Voyage De François Pyrard De Laval_, ed. Pierre Duval (Paris: Chez Louis Billaine, 1679), 85. For the English version translated from the third French edition of 1619, see François Pyrard, [_The Voyage of François Pyrard of Laval to the East Indies, the Maldives, the Moluccas, and Brazil_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4402069)_,_ ed. Albert Gray (London: Hakluyt Society, 1887). (From National Library Singapore, call no. RCLOS 910.8 HAK-\[GBH\])
 
 [^28]: Peter Borschberg, [_The Singapore and Melaka Straits: Violence, Security and Diplomacy in the 17th Century_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13218095) (Singapore: NUS Press, 2010), 17–21. (From National Library Singapore, call no. RSING 911.16472 BOR)
 
-[^29]: Albuquerque, [_Commentarios Do Grande Afonso Dalboquerque_](Commentarios%20Do%20Grande%20Afonso%20Dalboquerque)_,_ 99.
+[^29]: Albuquerque, [_Commentarios Do Grande Afonso Dalboquerque_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203982735)_,_ 99.
 
 [^30]: Thomas Herbert, _Some Years Travels into Divers Parts of Africa, and Asia the Great, etc._ (London: Printed by R. Everingham, for R. Scot, T. Basset, J. Wright and R. Chiswell, 1677), 356.
 
@@ -768,6 +768,3 @@ Swettenham, Frank. [_British Malaya: An Account of the Origin and Progress of Br
 [^64]: Julia Schleck, “Forming Knowledge: Natural Philosophy and English Travel Writing,” in _Travel Narratives, the New Science, and Literary Discourse, 1569–1750_, ed. Judy A. Hayden (New York: Routledge, 2012), 57; Debbie Lisle, _The Global Politics of Contemporary Travel Writing_ (Cambridge: Cambridge University Press, 2006), 11.
 
 [^65]: This partial study is only confined to references in European literature. Peter Preston, [_Singapore in the Global System: Relationship, Structure and Change_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14641380) (New York: Routledge, 2012), 1–2. (From National Library Singapore, call no. RSING 306.095957 PRE)
-
-
-
