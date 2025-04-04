@@ -43,6 +43,10 @@ Besides being the farmer for opium and spirits, he also owned extensive tracts o
 <br>
 <img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/hong_lim_green.png" style="width: 80%;">Hong Lim Green was later renamed as Hong Lim Park, c. 1900.<i> Image reproduced from Singapore River planning area: Planning report 1994 (Singapore: Urban Redevelopment Authority, 1994), 7. (From National Library Singapore, call no.: RSING 711.4095957 SIN).</i></div>
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/temple.png" style="width: 80%;">Another of Cheang Hong Lim’s contributions was Giok Hong Tian temple (玉皇殿) located near the junction of Havelock and Zion roads. The temple is dedicated to the Jade Emperor (玉皇上帝, Yu Huang Shang Ti) and established in 1887.<i> Image reproduced from 陈汉荣 [Chen Hanrong]. 新加坡古迹. [Xin jia po gu ji]. (Singapore, 1978), 96. (From National Library Singapore, call no. RSING 959.57 CYY -[HIS]).</i></div>
+
   
 
 
