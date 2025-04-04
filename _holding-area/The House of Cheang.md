@@ -77,6 +77,16 @@ Cheang Hong Lim died on 11 February 1893, leaving a considerable fortune both in
 
 What then became of the House of Cheang? It is said that wealth only lasts three generations and the Cheangs were no exception. The first was Cheang Sam Teo. The second was his son Cheang Hong Lim. The third was Hong Lim’s second son Cheang Jim Chuan (Cheang Jim Hean, the eldest, died in 1901).[^35]
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/Cheang_Jim_Chuan.png" style="width: 60%;">Photo of Cheang Hong Lim’s second son, Cheang Jim Chuan, taken in 1929 at his former house, named Riviera, at 112 Pasir Panjang Road.<i> Courtesy of Professor Walter Woon.</i></div>
+
+Very little is recorded of Cheang Jim Chuan.&nbsp; He was known principally as the son of Cheang Hong Lim. His income was derived from landed property.[^36]&nbsp;At the beginning of the 20th century, he lived at 10 Mohamad Sultan Road before moving to 6 Nassim Road. In the 1920s, the family moved again, this time to a grand house named Riviera at 112 Pasir Panjang Road, owned by his wife Chan Kim Hong Neo.[^37]
+
+  
+
+
+
   
 
   
@@ -169,3 +179,7 @@ What then became of the House of Cheang? It is said that wealth only lasts three
 [^34]:  Recitals in the Deed of Acknowledgement between Lim Swee Neo and Cheang Jim Chuan, 29 June 1909.
 
 [^35]:  Cheang Hong Lim’s eldest daughter, Cheang Chow Lean Neo, had married Lim Kwee Eng, Cheang Hong Lim’s manager and agent. A notice announcing his appointment was published in the newspapers on 13 October 1890. By custom, Cheang Chow Lian Neo became part of Lim Kwee Eng’s family upon her marriage; her descendants did not bear the Cheang name.
+
+[^36]:  Arnold Wright and H. A. Cartwright (Eds.), _[Twentieth Century Impressions of British Malaya](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202711817)_ (London: Lloyd’s Greater Britain Publishing Company Ltd, 1908), 637.&nbsp; (From National Library Singapore, call no. RSING 959.51033 TWE). This monumental work cost the princely sum of $150 in 1908, which was beyond the means of most people then.
+
+[^37]:  [Will of Chan Kim Hong Neo dated 13 January 1933](https://www.nlb.gov.sg/main/book-detail?cmsuuid=da2f2606-527b-4fa9-b281-fce11b209d8d) (From NL Online).&nbsp; Chan Kim Hong Neo was herself wealthy, owning several properties and substantial jewellery.&nbsp; These properties were probably inherited from her father Chan Cheng Wah.
