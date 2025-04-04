@@ -47,6 +47,23 @@ Besides being the farmer for opium and spirits, he also owned extensive tracts o
 <br>
 <img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/temple.png" style="width: 80%;">Another of Cheang Hong Lim’s contributions was Giok Hong Tian temple (玉皇殿) located near the junction of Havelock and Zion roads. The temple is dedicated to the Jade Emperor (玉皇上帝, Yu Huang Shang Ti) and established in 1887.<i> Image reproduced from 陈汉荣 [Chen Hanrong]. 新加坡古迹. [Xin jia po gu ji]. (Singapore, 1978), 96. (From National Library Singapore, call no. RSING 959.57 CYY -[HIS]).</i></div>
 
+Among his many public contributions to Singapore and the Straits Settlements was his donation to the Convent of the Holy Infant Jesus (today’s Chijmes) for the construction of the long building on its southern boundary.[^16] He also supported the charitable school in Penang, the Dutch elementary school and the Portuguese kindergarten. Together with his eldest son, Cheang Jim Hean, he established Yangzheng Academy, which taught Chinese and Western studies with six Chinese and six English teachers.[^17]
+
+His generosity extended beyond the Colony.&nbsp; He regularly contributed to flood and disaster relief in China, India and Egypt, raising large sums for the purpose. His philanthropy included hospitals, orphanages, homeless shelters, shelters for widows and community cemeteries.[^18]
+
+Despite being in Singapore, Cheang Hong Lim supported China’s various war efforts. In 1869, he bought weapons and helped to transport provisions for troops defending Fukien against the French; in 1884 he provided intelligence on French military movements against China. For his efforts in supporting the coastal defense in Fukien, the Governor-General of the Fukien Province conferred upon him the title of Circuit Intendant.[^19] Ironically, on the recommendation of Bishop Edouard Gasnier of Malacca-Singapore, he also received a medal for his acts of charity in Saigon (Vietnam) from the French Government, who were presumably unaware of his support of China against French aggression.[^20]
+
+Chinese statesman Grand Mentor Li Hongzhang (1823–1901) sent a request to the Chinese Imperial Court in 1881 for the words “He takes delight in good deeds and loves to give aid to others” to be inscribed on a memorial arch in Cheang Hong Lim’s ancestral village of Teang Thye (unfortunately, this arch no longer exists). In recognition of his contributions, Cheang Hong Lim was accorded Second Rank status and honours from the Ministry of Rites and was specially promoted to become a Salt Commissioner.[^21]
+
+Cheang Hong Lim was appointed a Justice of the Peace in Singapore in 1873.[^22]&nbsp; Towards the end of his life, in 1892, he was recognised by colonial authorities (and succeeding Tan Kim Cheng) as the “head of the Hokien (sic) community, to whom disputes and misunderstandings among members of that community may properly be referred”.[^23] There was a grand celebration by the community on 1 October 1892 accompanied by the band of St Joseph’s Institution.[^24]&nbsp; He was also appointed to the Chinese Advisory Board, Singapore in September 1892.[^25]
+
+However, great wealth attracts great envy. In 1872, Cheang Hong Lim was prosecuted by his younger brother, Cheang Hong Guan, for the alleged forgery of his father’s will.[^26] Cheang Hong Guan won the bid for the Singapore, Johore and Malacca opium and spirit farms from 1870 to 1871, but had made a hash of it and lost a fortune.[^27] Cheang Hong Lim and other merchants formed the Great Syndicate and took over the Farms from 1871–79.[^28]&nbsp; The prosecution brought by Cheang Hong Guan against his brother was presumably a form of retaliation.
+
+The trial lasted five days. Cheang Hong Guan was the principal witness. The case collapsed ignominiously. Before the Defence Counsel had finished his speech, the jury stopped the trial because of the patent absurdity of the charge and the contradictions in the evidence of the witnesses. The Chief Justice of the Straits Settlements declared to Cheang Hong Lim that “you leave the Court without a stain on your honour”.[^29]&nbsp; Cheang Hong Guan, on the other hand, was jailed for his part in this farce.[^30]
+
+  
+
+
   
 
 
@@ -91,3 +108,33 @@ Besides being the farmer for opium and spirits, he also owned extensive tracts o
 [^14]:  Song, _[One Hundred Years’ History of the Chinese in Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287)_, 168-170.; Tan Ban Huat, “[Cheang Hong Lim – The Big Property Owner and Philanthropist](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19771014-1.2.43.2).”
 
 [^15]:  Song, _[One Hundred Years’ History of the Chinese in Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287)_, 168–70.
+
+[^16]:  Song, _[One Hundred Years’ History of the Chinese in Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287)_, 169.
+
+[^17]:  Epitaph for Cheang Hong Lim composed by Huan Zunxian, Chinese Consul General in Singapore, in 1893.&nbsp; Reproduced in Kenneth Dean and Hue Guan Thyre, _[Chinese Epigraphy in Singapore 1819–1911](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202761291)_ (Singapore: NUS Press, 2017), chapter 41. (From National Library Singapore, call no. RSING 495.111 DEA)
+
+[^18]:  Dean and Hue, _[Chinese Epigraphy in Singapore 1819–1911](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202761291)_, chapter 41.
+
+[^19]:  Dean and Hue, _[Chinese Epigraphy in Singapore 1819–1911](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202761291)_, chapter 41.
+
+[^20]:  Song, _[One Hundred Years’ History of the Chinese in Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287)_, 169.
+
+[^21]:  Song, _[One Hundred Years’ History of the Chinese in Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287)_, 169.
+
+[^22]:  “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/stoverland18730410-1.2.7.25),” _Straits Times Overland Journal_, 10 April 1873, 8. (From NewspaperSG)
+
+[^23]:  Letter from W E Maxwell, Colonial Secretary dated 7 September 1892; reported in the _Daily Advertiser_, 13 September 1892 (see “[Local and General](https://eresources.nlb.gov.sg/newspapers/digitised/article/dailyadvertiser18920913-1.2.8),” _Daily Advertiser_, 13 September 1892, 3. (From NewspaperSG)).
+
+[^24]:   “[Local and General](https://eresources.nlb.gov.sg/newspapers/digitised/article/dailyadvertiser18921001-1.2.8),” _Daily Advertiser_, 1 October 1892, 3; “[Summary of the Week](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18921005-1.2.5),” _Straits Times Weekly Issue_, 5 October 1892, 1. (From NewspaperSG)
+
+[^25]:  Straits Settlements, _Government Gazette_, 9 September 1892.
+
+[^26]:  Song, _[One Hundred Years’ History of the Chinese in Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287)_, 167-168. “[Fortnight’s Summary](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18720427-1.2.4),” _Straits Times_, 27 April 1872, 1. (From NewspaperSG)
+
+[^27]:  Trocki, “The Rise of Singapore’s Great Opium Syndicate 1840–86,” 78.
+
+[^28]:  Trocki, “The Rise of Singapore’s Great Opium Syndicate 1840–86,” 65.
+
+[^29]:  Song, _[One Hundred Years’ History of the Chinese in Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287)_, 168.
+
+[^30]:   “[Fortnight’s Summary](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18720427-1.2.4).”; Song, _[One Hundred Years’ History of the Chinese in Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287)_, 168.
