@@ -61,6 +61,10 @@ However, great wealth attracts great envy. In 1872, Cheang Hong Lim was prosecut
 
 The trial lasted five days. Cheang Hong Guan was the principal witness. The case collapsed ignominiously. Before the Defence Counsel had finished his speech, the jury stopped the trial because of the patent absurdity of the charge and the contradictions in the evidence of the witnesses. The Chief Justice of the Straits Settlements declared to Cheang Hong Lim that “you leave the Court without a stain on your honour”.[^29]&nbsp; Cheang Hong Guan, on the other hand, was jailed for his part in this farce.[^30]
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/fortnight_summary_linked.jpg" style="width: 70%;">Newspaper excerpt of Cheang Hong Lim’s trial. He had been accused by his younger brother for forging their father’s will. He was acquitted and his brother jailed.<i> Source: “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18720427-1.2.4">[Fortnight’s Summary]</a>,” Straits Times, 27 April 1872 © SPH Media Limited. Permission required for reproduction.</i></div>
+
   
 
 
