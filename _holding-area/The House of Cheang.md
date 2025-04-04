@@ -83,6 +83,24 @@ What then became of the House of Cheang? It is said that wealth only lasts three
 
 Very little is recorded of Cheang Jim Chuan.&nbsp; He was known principally as the son of Cheang Hong Lim. His income was derived from landed property.[^36]&nbsp;At the beginning of the 20th century, he lived at 10 Mohamad Sultan Road before moving to 6 Nassim Road. In the 1920s, the family moved again, this time to a grand house named Riviera at 112 Pasir Panjang Road, owned by his wife Chan Kim Hong Neo.[^37]
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/wedding_procession.png" style="width: 80%;">Wedding procession of Cheang Seok Cheng Neo (Cheang Jim Chuan’s daughter) and Woon Chow Tat leaving Riviera 112 Pasir Panjang Road, 27 September 1930. Riviera was acquired by the government and likely demolished in the 1970s.&nbsp; A road now runs through it.<i> Courtesy of Professor Walter Woon.</i></div>
+
+Chan Kim Hong Neo died on 1 March 1934.&nbsp; Riviera was sold by the executors of her will, Cheang Theam Chu, Cheang Theam Kee and Cheang Seok Hean Neo (who were also her children. Her husband, Cheang Jim Chuan, had renounced his appointment as executor of her will).[^38] The house was purchased by Cheang Jim Chuan from the estate in April 1935 for $20,000.[^39]
+
+Upon Chan Kim Hong Neo’s death, the family of Cheang Jim Chuan lived temporarily at 38, 40 and 42 Cairnhill Road. These houses were bought from the Hong Kong and Shanghai Bank for $140,000 on a mortgagee’s sale of the property of Tan Kah Kee.[^40] In the meantime, Cheang Jim Chuan began building his new house called “Palm Beach” at 113 Pasir Panjang Road. The formal conveyance of the property from Hugh Zehnder (the family lawyer) to Cheang Theam Kee (presumably as trustee for his father Cheang Jim Chuan) was executed on 19 May 1937.[^41] Cheang Jim Chuan moved into Palm Beach in May or June 1937 and his sons held a birthday dinner for him there on 18 June.[^42]
+
+Cheang Jim Chuan did not live in Palm Beach for very long as he died on 22 May 1940. According to his will, dated 15 April 1939, his fortune was left to his two sons, four daughters, and grandchildren. Palm Beach was left to his second wife Koh Guek Chew Neo, his son Cheang Theam Kee and daughters Cheang Seok Hean Neo and Cheang Seok Chin Neo.
+
+Following Japan’s attack on Malaya on 8 December 1941 that signalled the start of the Second World War in Singapore, the British ordered the residents of the beachfront houses in Pasir Panjang to evacuate around 12 December 1941.[^43] The Cheangs never returned to 113 Pasir Panjang Road. It was sold to Yap Ee Chian on 15 June 1946 and eventually was bought by the Church of Jesus Christ of the Latter Day Saints in the 1980s.
+
+The Japanese Occupation ruined many of the old Baba-Nonya families. The Japanese extorted money from the Chinese of the Straits Settlements and stole whatever valuables they could from the grand houses of the Baba-Nonya community. Many families had to sell their properties to survive. The end of the war and the return of the King in 1945 found the Baba-Nonya community much diminished in influence and affluence. After the war, rent control (the Control of Rent Ordinance was passed in 1947) also made it impossible to live off income from property. The last tangible reminder of the House of Cheang is the big house on Pasir Panjang Road, which may soon be redeveloped into a Mormon Temple.
+
+  
+
+
+
   
 
 
@@ -183,3 +201,15 @@ Very little is recorded of Cheang Jim Chuan.&nbsp; He was known principally as t
 [^36]:  Arnold Wright and H. A. Cartwright (Eds.), _[Twentieth Century Impressions of British Malaya](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202711817)_ (London: Lloyd’s Greater Britain Publishing Company Ltd, 1908), 637.&nbsp; (From National Library Singapore, call no. RSING 959.51033 TWE). This monumental work cost the princely sum of $150 in 1908, which was beyond the means of most people then.
 
 [^37]:  [Will of Chan Kim Hong Neo dated 13 January 1933](https://www.nlb.gov.sg/main/book-detail?cmsuuid=da2f2606-527b-4fa9-b281-fce11b209d8d) (From NL Online).&nbsp; Chan Kim Hong Neo was herself wealthy, owning several properties and substantial jewellery.&nbsp; These properties were probably inherited from her father Chan Cheng Wah.
+
+[^38]:  Renunciation of Probate filed on 22 March 1934.&nbsp; Probate No 92 of 1934.
+
+[^39]:   “[Property Sale](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19350418-1.2.42),” _Straits Times_, 18 April 1935, 9. (From NewspaperSG)
+
+[^40]:  Conveyance, dated 17 September 1934.
+
+[^41]:  At this point Cheang Jim Chuan returned the Cairnhill properties to the Hong Kong and Shanghai Bank.&nbsp; 42 Cairnhill Road was subsequently purchased by Tan Chin Tuan. The house still stands today.
+
+[^42]:  “[Domestic Occurrences Announcement](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19370616-1.2.81),” _Malaya Tribune_, 16 June 1937, 12. (From NewspaperSG)
+
+[^43]:  An application for leave by Woon Chow Tat dated 11 December 1941 listed the reason for application (somewhat blandly) as “evacuation”.&nbsp; (From Professor Walter Woon’s personal collection).
