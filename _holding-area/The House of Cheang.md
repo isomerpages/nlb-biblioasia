@@ -97,34 +97,8 @@ Following Japan’s attack on Malaya on 8 December 1941 that signalled the start
 
 The Japanese Occupation ruined many of the old Baba-Nonya families. The Japanese extorted money from the Chinese of the Straits Settlements and stole whatever valuables they could from the grand houses of the Baba-Nonya community. Many families had to sell their properties to survive. The end of the war and the return of the King in 1945 found the Baba-Nonya community much diminished in influence and affluence. After the war, rent control (the Control of Rent Ordinance was passed in 1947) also made it impossible to live off income from property. The last tangible reminder of the House of Cheang is the big house on Pasir Panjang Road, which may soon be redeveloped into a Mormon Temple.
 
-  
-
-
-
-  
-
-
-
-  
-
-  
-
-
-  
-
-
-  
-
-
-
-  
-
-
-	
-
-  
-
-* * *
+<div style="background-color: white;">
+<img style="width: 100px; height: 100px;" src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/Walter_Woon.png"><b>Professor Walter Woon </b>is a Lee Kong Chian Visiting Professor at the Singapore Management University, Honorary Fellow at St. John’s College Cambridge University, and Emeritus Professor at the National University of Singapore.</div>    
 
 #### **Notes**
 
