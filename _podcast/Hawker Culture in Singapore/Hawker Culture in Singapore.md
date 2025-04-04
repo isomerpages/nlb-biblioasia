@@ -17,6 +17,12 @@ author of the bestselling <em><a href="https://catalogue.nlb.gov.sg/search/card?
 tells us how the hawker culture has evolved&nbsp;in Singapore since the
 colonial period and what hawker centres have come to represent.</p>
 <p></p>
+<h4><strong><br>Listen to the Full Episode</strong></h4>
+<p>Available on: Spotify, Apple Podcasts, melisten.</p>
+<p>Subscribe to get notified when the next episode drops.</p>
+<p></p>
+<h4><strong>What Ryan Talked About</strong></h4>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary>About the Guest</summary>

@@ -11,7 +11,7 @@ description: Many people know of the story of Badang the strongman, an
   Badang (and the location of his grave) is much more complicated than is
   generally known.
 image: /images/Podcast/William_600_by_400.jpg
-third_nav_title: A Miracle working Grave
+third_nav_title: A Miracle-working Grave
 ---
 <p><strong>Coming in May</strong>
 </p>
@@ -21,9 +21,12 @@ of a spirit. He throws a stone, which might or might not be the Singapore
 Stone, and his miracle-working grave is believed to be on Pulau Buru in
 the Riau Archipelago. However, independent scholar William Gibson tells
 us the tale of Badang (and the location of his grave) is much more complicated
-than is generally known.
-<br>
-</p>
+than is generally known.</p>
+<h4><strong><br>Listen to the Full Episode</strong></h4>
+<p>Available on: Spotify, Apple Podcasts, melisten.</p>
+<p>Subscribe to get notified when the next episode drops.</p>
+<p></p>
+<h4><strong>What William Talked About</strong><br></h4>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">

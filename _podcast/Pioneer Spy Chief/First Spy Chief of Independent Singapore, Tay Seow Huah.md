@@ -28,6 +28,12 @@ Simon Tay, lawyer, academic and winner of the 2010 Singapore Literature
 Prize, tells us about how his father – a Penang-born boy who lived through
 WWII, the Malayan Emergency and the political tumult of the 1960s – came
 to play a giant role serving a newly independent Singapore.</p>
+<h4><strong><br>Listen to the Full Episode</strong></h4>
+<p>Available on: Spotify, Apple Podcasts, melisten.</p>
+<p>Subscribe to get notified when the next episode drops.</p>
+<p></p>
+<h4><strong>What Simon Talked About</strong></h4>
+<p></p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">

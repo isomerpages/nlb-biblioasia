@@ -1,5 +1,5 @@
 ---
-title: The Making of Majulah Singapura as We Know It
+title: The Making of "Majulah Singapura" as We Know It
 permalink: /podcast/the-making-of-majulah-singapura-as-we-know-it-bernard-tan/
 variant: tiptap
 description: The national anthem that we know today wasn't the original version
@@ -17,7 +17,16 @@ third_nav_title: The National Anthem
 by Zubir Said. The first version was longer and was pitched at a higher
 key. Emeritus Professor Bernard Tan talks about how "Majulah Singapura"
 came about and how it changed over the decades, and illustrates how these
-versions differ on his piano.&nbsp;</p>
+versions differ on his piano.&nbsp;
+<br>
+</p>
+<p></p>
+<h4><strong>Listen to the Full Episode</strong></h4>
+<p>Available on: Spotify, Apple Podcasts, melisten.</p>
+<p>Subscribe to get notified when the next episode drops.</p>
+<p></p>
+<h4><strong>What Prof Tan Talked About</strong></h4>
+<p></p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">

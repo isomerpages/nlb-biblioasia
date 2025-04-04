@@ -10,15 +10,21 @@ description: When Peng Tsu Ying came to Singapore from Shanghai in the late
   evolved.
 third_nav_title: The Pioneering Deaf Educator
 ---
-<p><strong>Coming in April</strong>
-</p>
 <p>When Peng Tsu Ying came to Singapore from Shanghai in the late 1940s,
 he could not find a deaf person like him. Determined to improve the situation
 for the deaf community, he founded Singapore's first school for the deaf
 in 1954. Librarian Nathaniel Chew tells us about Peng's advocacy, his own
 journey learning the Singapore Sign Language and the different ways it
 has evolved.</p>
-<h4><br><strong>What Nathaniel Talked About</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UlvCw39wb28"></iframe>
+</div>
+<h4><strong>Listen to the Full Episode</strong></h4>
+<p>Available on: <a href="https://open.spotify.com/episode/10rIiUQ93HhcwdGfS350CL" rel="noopener nofollow" target="_blank"><u>Spotify</u></a>,
+<a href="https://podcasts.apple.com/us/podcast/peng-tsu-ying-singapores-pioneering-deaf-educator/id1688142751?i=1000702107317" rel="noopener nofollow" target="_blank"><u>Apple Podcasts </u>
+</a>, <a href="https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/Peng-Tsu-Ying--Singapore-s-Pioneering-Deaf-Educator-2888221" rel="noopener nofollow" target="_blank"><u>melisten</u></a>.</p>
+<p>Subscribe to get notified when the next episode drops.</p>
+<h4><strong>What Nathaniel Talked About</strong></h4>
 <p>02:13 –  Who Peng Tsu Ying was
 <br>04:07 – What Singapore was like for the deaf community before WWII
 <br>05:34 – How Peng started the first school for the deaf
@@ -67,4 +73,5 @@ of Singapore.</p>
 </div>
 </details>
 </div>
+<p></p>
 <p></p>
