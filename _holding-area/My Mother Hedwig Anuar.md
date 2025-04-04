@@ -27,6 +27,9 @@ If my mother had to work late, I would spend time in the library browsing the sh
 
 I would also attend storytelling sessions at the National Library. We sat on the floor cushions, listening enthralled as the librarians brought the books to life. I remember participating in a fancy dress fashion show at the library where we had to dress up as book characters. I went as a Hawaiian girl, and my mother ordered a fresh flower lei and fresh flowers for my hair to go with the costume.&nbsp;
 
+![](/images/Vol%2021%20Issue%202/Hedwig/hedwig_hawaii.jpg)
+<div style="background-color:white;"> Shirin as a Hawaiian girl for the “People &amp; Places Costume Competition and Parade”, 1970. <i>Courtesy of Shirin Aroozoo.</i></div>
+
 #### **The Teen Years**
 
 When I was in secondary school and studying literature, my mother would spend time with me sharing her passion for poetry and Shakespeare. Her love of literature and the written word knew no boundaries. Our home was filled with books of all topics, ranging from politics, the arts and poetry to architecture, feminism, autobiographies and more. These were organised by genre so my mother could easily access what she wanted to read.&nbsp;
