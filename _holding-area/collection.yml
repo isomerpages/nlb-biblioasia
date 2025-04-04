@@ -2,5 +2,6 @@ collections:
   holding-area:
     output: true
     order:
+      - The House of Cheang.md
       - My Mother Hedwig Anuar.md
       - "Pages of Progress: The Toa Payoh Public Library.md"
