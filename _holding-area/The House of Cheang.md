@@ -41,7 +41,7 @@ Besides being the farmer for opium and spirits, he also owned extensive tracts o
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/hong_lim_green.png" style="width: 80%;">The house at 233 Pasir Panjang Road, built circa 1937 by Cheang Jim Chuan. It was originally numbered 113 and named Palm Beach.<i> Courtesy of Professor Walter Woon.</i></div>
+<img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/hong_lim_green.png" style="width: 80%;">Hong Lim Green was later renamed as Hong Lim Park, c. 1900.<i> Image reproduced from Singapore River planning area: Planning report 1994 (Singapore: Urban Redevelopment Authority, 1994), 7. (From National Library Singapore, call no.: RSING 711.4095957 SIN).</i></div>
 
   
 
@@ -87,4 +87,3 @@ Besides being the farmer for opium and spirits, he also owned extensive tracts o
 [^14]:  Song, _[One Hundred Years’ History of the Chinese in Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287)_, 168-170.; Tan Ban Huat, “[Cheang Hong Lim – The Big Property Owner and Philanthropist](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19771014-1.2.43.2).”
 
 [^15]:  Song, _[One Hundred Years’ History of the Chinese in Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287)_, 168–70.
-	
