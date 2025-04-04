@@ -72,6 +72,13 @@ Cheang Hong Lim died on 11 February 1893, leaving a considerable fortune both in
 <div style="background-color: white;">
 <br>
 <img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/Ancestral_tablet.jpg" style="width: 55%;">Cheang Hong Lim’s ancestral tablet, the names on the left are of his children, c. 1978.<i> Ronni Pinsler Collection, courtesy of National Archives of Singapore.</i></div>
+
+#### **End of an Era**
+
+What then became of the House of Cheang? It is said that wealth only lasts three generations and the Cheangs were no exception. The first was Cheang Sam Teo. The second was his son Cheang Hong Lim. The third was Hong Lim’s second son Cheang Jim Chuan (Cheang Jim Hean, the eldest, died in 1901).[^35]
+
+  
+
   
 
 
@@ -160,3 +167,5 @@ Cheang Hong Lim died on 11 February 1893, leaving a considerable fortune both in
 [^33]:  “[Local and General](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18870706-1.2.8),” _Straits Times Weekly Issue_, 6 July 1887, 2. (From NewspaperSG); “[The Jubilee](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18870706-1.2.32),” _Straits Times Weekly_, 6 July 1887, 7. (From NewspaperSG)
 
 [^34]:  Recitals in the Deed of Acknowledgement between Lim Swee Neo and Cheang Jim Chuan, 29 June 1909.
+
+[^35]:  Cheang Hong Lim’s eldest daughter, Cheang Chow Lean Neo, had married Lim Kwee Eng, Cheang Hong Lim’s manager and agent. A notice announcing his appointment was published in the newspapers on 13 October 1890. By custom, Cheang Chow Lian Neo became part of Lim Kwee Eng’s family upon her marriage; her descendants did not bear the Cheang name.
