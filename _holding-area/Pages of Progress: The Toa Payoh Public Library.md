@@ -100,7 +100,7 @@ Today, the facilities in the library have changed too. While there is no longer 
 The staff of Toa Payoh Public Library have also developed a new initiative called Toa Payoh Toilet Reads, where summaries of interesting books are pasted on toilet cubicle doors, allowing people to discover new reads in a unique manner. Staff also share their favourite reads and book reviews via posters displayed throughout the library. &nbsp;
 
 
-![](/images/Vol%2021%20Issue%202/Toa%20Payoh/toapayoh_review.jpg)
+![](/images/Vol%2021%20Issue%202/Toa%20Payoh/toapayoh_review2.jpg)
 <div style="background-color:white;">Book reviews by library staff on level 1 of the library, 2025. <i>Photo by Rebecca Tan.</i></div>
 
 ![](/images/Vol%2021%20Issue%202/Toa%20Payoh/toapayoh_seating2.jpg)
@@ -124,7 +124,7 @@ Even as the library moves to a new home, its proximity to sports facilities will
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/vol-17-issue-3/authors/Rebecca%20Tan--.png">
-	<b>Rebecca Tan</b> is a Children and Teens Librarian at Toa Payoh Public Library. She develops content and services for children and teens, and works with schools to promote a culture of reading. She was previously a Digital Heritage Librarian with the National Library Singapore.. </div>
+	<b>Rebecca Tan</b> is a Children and Teens Librarian at Toa Payoh Public Library. She develops content and services for children and teens, and works with schools to promote a culture of reading. She was previously a Digital Heritage Librarian with the National Library Singapore. </div>
 	
 
 #### **Notes**
