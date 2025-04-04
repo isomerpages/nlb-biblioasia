@@ -65,6 +65,13 @@ The trial lasted five days. Cheang Hong Guan was the principal witness. The case
 <br>
 <img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/fortnight_summary_linked.jpg" style="width: 70%;">Newspaper excerpt of Cheang Hong Lim’s trial. He had been accused by his younger brother for forging their father’s will. He was acquitted and his brother jailed.<i> Source: “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18720427-1.2.4">[Fortnight’s Summary]</a>,” Straits Times, 27 April 1872 © SPH Media Limited. Permission required for reproduction.</i></div>
 
+After 1879, the farm changed hands again. The new opium farmer alleged that the losers were smuggling opium to undermine their monopoly. Cheang Hong Lim was accused of being part of this so-called “Opium Conspiracy”. In 1883, he was removed as a Justice of the Peace due to these allegations.[^31] An article was published in the _Straits Intelligence_ on 24 February 1883 giving vent to the allegations of conspiracy. Cheang Hong Lim responded in a very Singaporean way – he sued for defamation. Technically, he instituted a private prosecution for criminal defamation to be heard by the Police Magistrate.[^32]&nbsp;There is no record of the result, but the _Straits Intelligence_ disappears after that. Cheang Hong Lim was vindicated and reinstated as a Justice of the Peace in 1887.[^33]
+
+Cheang Hong Lim died on 11 February 1893, leaving a considerable fortune both in the Straits Settlements as well as China. The executors of his will (which is now part of the National Library’s collection) were his eldest daughter, Cheang Cheow Lian Neo, and his two eldest sons, Cheang Jim Hean and Cheang Jim Chuan, who were minors at the time of his death. Unsurprisingly, there was a controversy about the administration of the estate – Lim Kwee Eng, his agent and his daughter’s (Cheang Cheow Lian Neo) husband, had presumably wanted to control everything. Litigation followed in 1896. The Court ordered Dr Lim Boon Keng (an eminent figure in the Straits Chinese community, who had also worked for Cheang Hong Lim) to prepare a scheme for the division of Cheang Hong Lim’s estate. The scheme was duly approved by Chief Justice Cox on 4 February 1901.[^34]&nbsp; Unfortunately, it was not wholly carried out and to this day, there remain slivers of land in Singapore still registered in the name of the Estate of Cheang Hong Lim.
+
+  
+
+
   
 
 
@@ -142,3 +149,11 @@ The trial lasted five days. Cheang Hong Guan was the principal witness. The case
 [^29]:  Song, _[One Hundred Years’ History of the Chinese in Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287)_, 168.
 
 [^30]:   “[Fortnight’s Summary](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18720427-1.2.4).”; Song, _[One Hundred Years’ History of the Chinese in Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287)_, 168.
+
+[^31]:  “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18830224-1.2.18),” _Straits Times_, 24 February 1883, 2. (From NewspaperSG)
+
+[^32]:  “[Magistrate’s Court](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18830312-1.2.4.21),” _Straits Times_, 12 March 1883, 11. (From NewspaperSG)
+
+[^33]:  “[Local and General](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18870706-1.2.8),” _Straits Times Weekly Issue_, 6 July 1887, 2. (From NewspaperSG); “[The Jubilee](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18870706-1.2.32),” _Straits Times Weekly_, 6 July 1887, 7. (From NewspaperSG)
+
+[^34]:  Recitals in the Deed of Acknowledgement between Lim Swee Neo and Cheang Jim Chuan, 29 June 1909.
