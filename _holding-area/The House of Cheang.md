@@ -69,6 +69,9 @@ After 1879, the farm changed hands again. The new opium farmer alleged that the 
 
 Cheang Hong Lim died on 11 February 1893, leaving a considerable fortune both in the Straits Settlements as well as China. The executors of his will (which is now part of the National Library’s collection) were his eldest daughter, Cheang Cheow Lian Neo, and his two eldest sons, Cheang Jim Hean and Cheang Jim Chuan, who were minors at the time of his death. Unsurprisingly, there was a controversy about the administration of the estate – Lim Kwee Eng, his agent and his daughter’s (Cheang Cheow Lian Neo) husband, had presumably wanted to control everything. Litigation followed in 1896. The Court ordered Dr Lim Boon Keng (an eminent figure in the Straits Chinese community, who had also worked for Cheang Hong Lim) to prepare a scheme for the division of Cheang Hong Lim’s estate. The scheme was duly approved by Chief Justice Cox on 4 February 1901.[^34]&nbsp; Unfortunately, it was not wholly carried out and to this day, there remain slivers of land in Singapore still registered in the name of the Estate of Cheang Hong Lim.
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/Ancestral_tablet.jpg" style="width: 55%;">Cheang Hong Lim’s ancestral tablet, the names on the left are of his children, c. 1978.<i> Ronni Pinsler Collection, courtesy of National Archives of Singapore.</i></div>
   
 
 
