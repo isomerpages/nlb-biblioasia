@@ -2,6 +2,8 @@ collections:
   holding-area:
     output: true
     order:
+      - "Books on Wheels: Singapore's Mobile Libraries.md"
+      - In Search of Silvestr.md
+      - Singapore Youth Orchestra Brings Singapore Composers into the
+        Limelight.md
       - The House of Cheang.md
-      - My Mother Hedwig Anuar.md
-      - "Pages of Progress: The Toa Payoh Public Library.md"

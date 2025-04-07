@@ -1,6 +1,6 @@
 ---
 title: "Pages of Progress: The Toa Payoh Public Library"
-permalink: /holding-area/vol-21/issue-2/jul-sep-2025/pages-of-progress-the-toa-payoh-public-library/
+permalink: /vol-21/issue-2/jul-sep-2025/toa-payoh-public-library/
 variant: markdown
 description: ""
 ---

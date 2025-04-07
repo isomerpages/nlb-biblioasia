@@ -17,6 +17,17 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 21 Issue 1/Barbara Kerr/heroimg_barbara.jpg
   - infopic:
+      title: The Trip That Led to the 1953 Landmark Art Exhibition
+      subtitle: Podcast
+      id: infopic
+      description: Gretchen Liu, the daughter-in-law of Liu Kang, tells us about the
+        mysterious Bali trip undertaken by four Singapore pioneering artists in
+        1952.
+      button: Listen to the episode
+      url: /podcast/the-misunderstood-trip-that-led-to-the-1953-landmark-art-exhibition-gretchen-liu/
+      image: /images/Podcast/Biblioasia_600_by_400_Gretchen_Liu.jpg
+      alt: Bali Trip 1952
+  - infopic:
       title: "Remembering the Lady in Red: The Former National Library"
       subtitle: Places and Buildings
       id: infopic

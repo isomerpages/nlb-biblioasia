@@ -1,6 +1,6 @@
 ---
 title: My Mother Hedwig Anuar
-permalink: /my-mother-hedwig-anuar/
+permalink: /vol-21/issue-2/jul-sep-2025/mother-hedwig-anuar-shirin-aroozoo/
 variant: markdown
 description: ""
 ---

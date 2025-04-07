@@ -5,6 +5,12 @@ description: ""
 third_nav_title: People
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/mother-hedwig-anuar-shirin-aroozoo/">My Mother Hedwig Anuar</a>
+The daughter of Hedwig Anuar reveals a side to the former Director of the National Library that not many people know.
+
+<img src="/images/Vol%2021%20Issue%202/Hedwig/Hedwig_Anuar_daughter_topic.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/barbara-kerr-sharpshooter-school-principal-girl-guide/">Barbara Kerr: Sharpshooter, School Principal, Girl Guide Extraordinaire</a>
 
 Barbara Kerr made contributions to the Girl Guides, sports and animal welfare. She was also a talented soprano.

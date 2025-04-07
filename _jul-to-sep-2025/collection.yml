@@ -2,6 +2,8 @@ collections:
   jul-to-sep-2025:
     output: true
     order:
+      - "Pages of Progress: The Toa Payoh Public Library.md"
+      - My Mother Hedwig Anuar.md
       - Remembering the Part Time Libraries.md
       - "Remembering the Lady in Red: The Former National Library on Stamford
         Road.md"
