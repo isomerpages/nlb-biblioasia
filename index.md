@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-20/issue-4/jan-mar-2025/ustaz-syed-abdul-rahman-al-attas-calligraphy/
-      button: "In Good Hands: The Calligraphy of Ustaz Syed Abdul Rahman Al-Attas"
+      url: /vol-21/issue-1/apr-jun-2025/barbara-kerr-sharpshooter-school-principal-girl-guide/
+      button: "Barbara Kerr: Sharpshooter, School Principal, Girl Guide Extraordinaire"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 20 Issue 4/Caligraphy/HeroImage_caligraphy_3.jpg
+      background: /images/Vol 21 Issue 1/Barbara Kerr/heroimg_barbara.jpg
   - infopic:
       title: "Remembering the Lady in Red: The Former National Library"
       subtitle: Places and Buildings
