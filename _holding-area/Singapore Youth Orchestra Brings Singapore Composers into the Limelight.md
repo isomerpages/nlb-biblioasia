@@ -120,42 +120,21 @@ As the founder-conductor of Braddell Heights Symphony Orchestra (1989–2012), o
 <br>
 <img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/yan_yan_wing.png" style="width: 80%;">Yan Yin Wing (left) and the Emmanuel Chamber Orchestra: Cheng Hsuen Chieh (violin), Jensen Lam (viola), Lanny Septura (piano), and Job Yan (cello), 1989.<i> Source: Straits Times, 10 July 1989 © SPH Media Limited. Permission required for reproduction.</i></div>
 
-  
+####  **“Symphony no.1” by Bernard Tan (1990)**
 
+“Symphony no. 1” was performed in 1990 at a concert marking the SYO’s 10th anniversary and farewell of its resident conductor, Vivien Goh. Bernard Tan (1943–) described his first symphony, as “a conservative and more or less neo-classical style in four movements”.
 
-  
+The first movement unfolds gently with the unassuming principal subject in the bassoons. The brooding second subject is first heard in the lower strings under repeated wind chords. The second movement is lively, infused with rapid semiquaver activity. This is followed by an elegiac slow movement featuring a clarinet solo. The dance-like main theme of the lively final movement is complemented by a more lyrical second subject first heard on oboes and then flutes in thirds. The dance-like subject and its opening motif permeate the movement and is reiterated by the entire orchestra in octaves in the final bars of the movement.
 
+_Business Times_ reviewer J. Gordon noted that the “two outer movements were musically profuse – every corner and crevice packed with short themes and ideas… the two inner movements are more listener-friendly and the orchestra members exhibited more enjoyment playing them”.[^26]
 
-  
+In his review of the concert for the _Straits Times_, Terence Dawson remarked that the “scherzo was sparkling and deeply nostalgic. Andante was given an almost-glowing warmth. One must hope that he will be encouraged to produce further large-scale works”.[^27]
 
-
-
-
-  
-
-
-
+Tan was the Chairman of the SYO’s Management Committee from 1980 to 2002. A physics professor at the National University of Singapore (NUS), Tan’s early musical training was as a pianist. In 1962, he received his Licentiate of the Royal Schools of Music in pianoforte. From 1977–78, he was Acting Head of the Department of Music at NUS and the Associate Director of the Centre for Musical Activities when he created “Symphony no. 1”. He is a prolific composer, writing for many genres such as setting a poem for mixed chorus and piano, incidental music for plays and ballet, music for string orchestras, various solo instruments and choral music. He received the Public Service Medal in 1982 and the Public Service Star in 1990.[^28]
 
   
 
 
-
-  
-
-
-  
-
-
-
-  
-
-
-
-
-
-
-
-  
 
 * * *
 
@@ -201,7 +180,7 @@ As the founder-conductor of Braddell Heights Symphony Orchestra (1989–2012), o
 
 [^20]:  Zubillaga-Pow, “[The Unlikely Composer: Tsao Chieh](https://biblioasia.nlb.gov.sg/vol-9/issue-4/jan-march-2014/tsao-chieh-singapore-composer/).”
 
-[\[1\]](#_ftnref1) “[Youth Orchestra to Embark on the Ascent](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19870803-1.2.26.4),” _Business Times_, 23 August 1987, 10. (From NewspaperSG)
+[^21\[1\]](#_ftnref1) “[Youth Orchestra to Embark on the Ascent](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19870803-1.2.26.4),” _Business Times_, 23 August 1987, 10. (From NewspaperSG)
 
 [\[2\]](#_ftnref2) “Yan Win Wing,” Braddell Heights Symphony Orchestra, accessed 22 October 2024, [https://bhso.org/conductor-emeritus/](https://bhso.org/conductor-emeritus/).
 
@@ -210,3 +189,9 @@ As the founder-conductor of Braddell Heights Symphony Orchestra (1989–2012), o
 [\[4\]](#_ftnref4) “[Youth Orchestra to Embark on the Ascent](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19870803-1.2.26.4).”
 
 [\[5\]](#_ftnref5) Braddell Heights Symphony Orchestra, “Yan Win Wing.”
+
+[\[1\]](#_ftnref1) J. Gordon, “[A 10th Anniversary, a New Symphony, and a Farewell](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19900409-1.2.34.1),” _Business Times_, 9 April 1990, 13. (From NewspaperSG)
+
+[\[2\]](#_ftnref2) Terence Dawson, “[A Touching Farewell](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19900410-1.2.66.5.3),” _Straits Times_, 10 April 1990, 3. (From NewspaperSG)
+
+[\[3\]](#_ftnref3) “Bernard Tan Tiong Gie,” Tribute.sg, published 12 October 2016, [https://www.esplanade.com/offstage/arts/bernard-tan-tiong-gie](https://www.esplanade.com/offstage/arts/bernard-tan-tiong-gie).
