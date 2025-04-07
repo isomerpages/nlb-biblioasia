@@ -96,6 +96,25 @@ The Singapore Youth Training Orchestra was inaugurated in September 1986. The tr
 <div style="background-color: white;">
 <br>
 <img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/Singapore_Youth_Training_Orchestra_5_Sep_1987_cp.jpg" style="width: 80%;">Singapore Youth Training programme for its September 1987 performance.<i> Image reproduced from Singapore Youth Training Orchestra Sunday 5th September 1987 Victoria Concert Hall (Singapore: Singapore Youth Orchestra, 1987). (From National Library, Singapore, call no. RCLOS EPHE 0917 V1.8).</i></div>
+
+Leong Yoon Pin was once again called upon to write a piece that would be suitable for the young musicians. Although fanfare is normally associated with a performance of an assortment of high brass instruments, “Fanfare for Joy” was written for a full orchestra and Leong wanted to showcase the exuberance of youth.
+
+The music is based on three motifs that lead one into the other without a break. It opens with the timpani striking out a melodic fragment devised on four tones accompanied by the side drum. This fragment is soon picked up by the rest of the orchestra, with flutes and clarinets making their highly-decorated entries to the pizzicato accompaniment of the strings. The brass introduces the second motive and finally the strings usher in the third motif with the entire orchestra joining in great excitement.
+
+Conducted by Lee Tsu Hock, “Fanfare for Joy” premiered on 7 September 1986 at the Singapore Training Orchestra’s inaugural concert held at Victoria Concert Hall.
+
+#### **“Ascent” by Yan Yin Wing (1987)**
+
+“Ascent” was composed _“_especially for the SYO…to reflect the challenge of overcoming problems and reaching excellence – something which is in keeping with Singapore’s present approach to nation-building.” It expresses hope, hard work and achievement. But also carries  
+“a slight touch of turmoil and bleakness to pose the challenges, odds which can be overcome by trying hard to succeed”.[^21] It premiered on 4 August 1987 at the World Trade Centre Auditorium.
+
+A violinist and conductor, Yan Yin Wing obtained the ARCM in violin teaching at the Royal College of Music in London in 1976-78. He received a scholarship for a Summer Conductors’ Course organised by the Ernest Read Music Association in 1978. In 1984, he pursued an Advanced Orchestra Conducting Course at Sweelinck Conservatorium Amsterdam and attended an Orchestra Conducting Master Class at the International Sommerakademie of the Mozarteum in Salzburg, Austria.[^22] Back in Singapore, he formed the Emmanuel Chamber Orchestra (1980), Emmanuel String Orchestra (1988),[^23] conducted the Chinese Churches Orchestra as well as the National Junior College String Orchestra.[^24]
+
+As the founder-conductor of Braddell Heights Symphony Orchestra (1989–2012), one of Singapore’s first community orchestras, Yan dedicated himself to nurturing young local talents. He also initiated exchange programmes with overseas orchestras such as the Korea Symphony Orchestra, Suginami Philharmonic Orchestra and the Penang Symphony Orchestra.[^25]
+
+  
+
+
   
 
 
@@ -173,3 +192,13 @@ The Singapore Youth Training Orchestra was inaugurated in September 1986. The tr
 [^19]:  “Composer's Bio,” in _[Singapore Youth Orchestra Concert Programme](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12460772)_ (Singapore: Singapore Youth Orchestara, 1 August 1989), ephemera. (From National Library Singapore, RCLOS EPHE O917)
 
 [^20]:  Zubillaga-Pow, “[The Unlikely Composer: Tsao Chieh](https://biblioasia.nlb.gov.sg/vol-9/issue-4/jan-march-2014/tsao-chieh-singapore-composer/).”
+
+[\[1\]](#_ftnref1) “[Youth Orchestra to Embark on the Ascent](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19870803-1.2.26.4),” _Business Times_, 23 August 1987, 10. (From NewspaperSG)
+
+[\[2\]](#_ftnref2) “Yan Win Wing,” Braddell Heights Symphony Orchestra, accessed 22 October 2024, [https://bhso.org/conductor-emeritus/](https://bhso.org/conductor-emeritus/).
+
+[\[3\]](#_ftnref3) Carol Leong, “[A Yan for Music and Conducting](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19890710-1.2.61.3.1),” _Straits Times_, 19 July 1989, 3. (From NewspaperSG).
+
+[\[4\]](#_ftnref4) “[Youth Orchestra to Embark on the Ascent](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19870803-1.2.26.4).”
+
+[\[5\]](#_ftnref5) Braddell Heights Symphony Orchestra, “Yan Win Wing.”
