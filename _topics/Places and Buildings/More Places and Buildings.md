@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Places and Buildings
 variant: markdown
 ---
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/toa-payoh-public-library/">**Pages of Progress: The Toa Payoh Public Library**</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/toa-payoh-public-library/">Pages of Progress: The Toa Payoh Public Library</a>
 
 Before the Toa Payoh Public Library, the building was used as the secretariat for the 7th SEAP Games.
 
