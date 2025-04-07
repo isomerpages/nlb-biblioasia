@@ -13,7 +13,7 @@ When the Singapore Youth Orchestra (SYO) was formed in 1980, part of its mission
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/1985_SYO_orchestra_cp.jpg" style="width: 80%;">Chinese opium smokers, 1880s. <i>Courtesy of National Archives of Singapore.</i></div>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/1985_SYO_orchestra_cp.jpg" style="width: 80%;">The 1985 Singapore Youth Orchestra. <i>Image reproduced from Singapore Youth Orchestra: In Commemoration of its Visit to England 1985 (Singapore: Singapore Youth Orchestra, 1985), np. (From National Library, Singapore, call no. RCLOS EPHE 0917 V1.31).</i></div>
 
 
 
