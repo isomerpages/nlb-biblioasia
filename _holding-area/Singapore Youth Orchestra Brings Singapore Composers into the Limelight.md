@@ -149,7 +149,7 @@ De Souza has composed over a hundred school songs and written countless arrangem
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/prof_bernard_tan.png" style="width: 80%;">Dr Bernard Tan, 1989.<i> Source: Straits Times, 30 September 1989 © SPH Media Limited. Permission required for reproduction.</i></div>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/Music_Score.png" style="width: 80%;">Music score for “Sentosa”, 1980.<i> Courtesy of _Vivien Goh.</i></div>
   
 
 
