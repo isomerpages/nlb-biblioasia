@@ -182,16 +182,16 @@ Tan was the Chairman of the SYO’s Management Committee from 1980 to 2002. A ph
 
 [^21\[1\]](#_ftnref1) “[Youth Orchestra to Embark on the Ascent](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19870803-1.2.26.4),” _Business Times_, 23 August 1987, 10. (From NewspaperSG)
 
-[\[2\]](#_ftnref2) “Yan Win Wing,” Braddell Heights Symphony Orchestra, accessed 22 October 2024, [https://bhso.org/conductor-emeritus/](https://bhso.org/conductor-emeritus/).
+[^22]:  “Yan Win Wing,” Braddell Heights Symphony Orchestra, accessed 22 October 2024, [https://bhso.org/conductor-emeritus/](https://bhso.org/conductor-emeritus/).
 
-[\[3\]](#_ftnref3) Carol Leong, “[A Yan for Music and Conducting](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19890710-1.2.61.3.1),” _Straits Times_, 19 July 1989, 3. (From NewspaperSG).
+[^23]:  Carol Leong, “[A Yan for Music and Conducting](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19890710-1.2.61.3.1),” _Straits Times_, 19 July 1989, 3. (From NewspaperSG).
 
-[\[4\]](#_ftnref4) “[Youth Orchestra to Embark on the Ascent](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19870803-1.2.26.4).”
+[^24]:  “[Youth Orchestra to Embark on the Ascent](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19870803-1.2.26.4).”
 
-[\[5\]](#_ftnref5) Braddell Heights Symphony Orchestra, “Yan Win Wing.”
+[^25]:  Braddell Heights Symphony Orchestra, “Yan Win Wing.”
 
-[\[1\]](#_ftnref1) J. Gordon, “[A 10th Anniversary, a New Symphony, and a Farewell](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19900409-1.2.34.1),” _Business Times_, 9 April 1990, 13. (From NewspaperSG)
+[^26]:  J. Gordon, “[A 10th Anniversary, a New Symphony, and a Farewell](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19900409-1.2.34.1),” _Business Times_, 9 April 1990, 13. (From NewspaperSG)
 
-[\[2\]](#_ftnref2) Terence Dawson, “[A Touching Farewell](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19900410-1.2.66.5.3),” _Straits Times_, 10 April 1990, 3. (From NewspaperSG)
+[^27]:  Terence Dawson, “[A Touching Farewell](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19900410-1.2.66.5.3),” _Straits Times_, 10 April 1990, 3. (From NewspaperSG)
 
-[\[3\]](#_ftnref3) “Bernard Tan Tiong Gie,” Tribute.sg, published 12 October 2016, [https://www.esplanade.com/offstage/arts/bernard-tan-tiong-gie](https://www.esplanade.com/offstage/arts/bernard-tan-tiong-gie).
+[^28]:  “Bernard Tan Tiong Gie,” Tribute.sg, published 12 October 2016, [https://www.esplanade.com/offstage/arts/bernard-tan-tiong-gie](https://www.esplanade.com/offstage/arts/bernard-tan-tiong-gie).
