@@ -25,6 +25,16 @@ Composers were told to temper the technical difficulties of their compositions c
 <br>
 <img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/SYO_camp.jpg" style="width: 80%;">Singapore Youth Orchestra music camp concert 1981. <i>Image reproduced from Singapore Youth Orchestra: In Commemoration of its Participation of the International Festival of Youth Orchestras and the Performing Arts 1982. (Singapore: Singapore Youth Orchestra, 1982), 13. (From National Library, Singapore, call no. RCLOS EPHE 0917 V1.35).</i></div>
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/SYO_Public_Concert_1982_cp.jpg" style="width: 80%;">Singapore Youth Orchestra public performance in 1982. <i>Image reproduced from Singapore Youth Orchestra: In Commemoration of its Participation of the International Festival of Youth Orchestras and the Performing Arts 1982. (Singapore: Singapore Youth Orchestra, 1982), 12. (From National Library, Singapore, call no. RCLOS EPHE 0917 V1.35).</i></div>
+
+From the 1990s to 2011, the SYO continued to commission new works by composers such as Tsao Chieh (“Prelude”, “Fugue” and “Fugato”, 1992), Leong Yoon Pin (“Metamorphosis”, 1993), Er Yenn Chwen (“Three Sketches for Choral and Orchestra”, 1994; “Opening Hearts for Choral and Orchestra”, 2002), Joyce Bee Tuan Koh (“Above Dancing Waters”, 1996), Howard John (“Symphonic Variations on Westron Wynde”, 1997), Kelly Tang (“Sinfonia Concertante”, 1998, “Symphonic Suite”, 2008), Ho Chee Kong (“Enchanted Paths”, 2000), Bernard Tan (“Overture to Youth”, 2001), Philip Tan (“Ten Months”, 2003), Robert Casteels (“Kriesleriana”, 2004), Phoon Yew Tien ( “Summer Rhapsody”, 2009), and Chen Zhangyi ( “A Carp Emerges”, 2011).[^5]
+
+  
+
+
+
   
 
 
@@ -46,3 +56,5 @@ Composers were told to temper the technical difficulties of their compositions c
 [^3]:  Wong and Goh, _[Rehearsal for Life](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202255010),_ 106.
 
 [^4]:  Wong and Goh, _[Rehearsal for Life](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202255010),_ 105.
+
+[^5]:  List compiled by Wong Sher Maine.
