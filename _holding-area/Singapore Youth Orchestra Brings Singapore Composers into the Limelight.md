@@ -31,6 +31,44 @@ Composers were told to temper the technical difficulties of their compositions c
 
 From the 1990s to 2011, the SYO continued to commission new works by composers such as Tsao Chieh (“Prelude”, “Fugue” and “Fugato”, 1992), Leong Yoon Pin (“Metamorphosis”, 1993), Er Yenn Chwen (“Three Sketches for Choral and Orchestra”, 1994; “Opening Hearts for Choral and Orchestra”, 2002), Joyce Bee Tuan Koh (“Above Dancing Waters”, 1996), Howard John (“Symphonic Variations on Westron Wynde”, 1997), Kelly Tang (“Sinfonia Concertante”, 1998, “Symphonic Suite”, 2008), Ho Chee Kong (“Enchanted Paths”, 2000), Bernard Tan (“Overture to Youth”, 2001), Philip Tan (“Ten Months”, 2003), Robert Casteels (“Kriesleriana”, 2004), Phoon Yew Tien ( “Summer Rhapsody”, 2009), and Chen Zhangyi ( “A Carp Emerges”, 2011).[^5]
 
+#### **“Dance Suite” by Leong Yoon Pin (1982)**
+
+The world premiere of “Dance Suite” was performed by the SYO on 1 March 1982 at Victoria Concert Hall.
+
+Leong Yoon Pin (1931–2011) had been inspired by Malay folksongs “Katak Lompat” and “Ondeh Ondeh”, an Indian folksong called “The Highway”_,_ and Chinese folksongs “Counting Ducks’ Eggs” and “Smile When the Sun Shines”_._ In a 1982 interview, Leong said, “It seems so contrived to say that I’m influenced by many cultures in Singapore, but one can’t run away from them...” Leong was also inspired by poetry, particularly Tang poets such as Li Po and Tu Mu.[^6]
+
+“Dance Suite” incorporates interesting compositional techniques like a 12-tone introduction (where all 12 notes of the chromatic scale are sounded equally often, avoiding the emphasis of any one note), alternating combinations of groups of instruments, and varying rhythmic structures of the chosen themes. In doing so, Leong created sound textures that evoked the sentiments of the original songs.
+
+Of his compositional technique, he said, “With each symphonic composition, it gets more comfortable, construction-wise. I have many melodies floating around in my head. It’s only when you have a choice of melodies, that you can begin to conceptualise the entire composition.”[^7]
+
+Leong took great pains to explain his vision and intention to conductor Vivien Goh and the young musicians. He had several discussions with Goh and attended many of their rehearsals.
+
+Tan Kim Swee, the general manager of the orchestra, had the task of procuring unusual instruments required by the piece. In the case of “Dance Suite”, ankle bells, typically worn by Indian dancers, were needed.[^8]
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/leong_yoon_pin_cp.jpg" style="width: 60%;">Leong Yoon Pin, 1982. <i>Image reproduced from Singapore Youth Orchestra: In Commemoration of its Participation of the International Festival of Youth Orchestras and the Performing Arts 1982. (Singapore: Singapore Youth Orchestra, 1982. (From National Library, Singapore, call no. RCLOS EPHE 0917 V1.35).</i></div>
+
+Now regarded as the doyen of pioneer Singapore composers, Leong was, at the time of the commission, a Lecturer in the Music Department of the Institute of Education. He had studied piano in England with George Rogers, conducting with British conductor Robert Barclay Wilson and composed a work with renowned French composer Nadia Boulanger. Back in Singapore, Leong was the conductor of the Metro-Philharmonic Society Chorus and Orchestra (1959). He was also deeply involved in music education – first as a lecturer and head of music at the Teacher’s Training College (1958–88) and an advisor to organisations such as the National Arts Council, National Institute of Education and the Nanyang Academy of Fine Arts. He was awarded the Cultural Medallion in 1982.[^9]
+
+#### **“Variations on Dayong Sampan” by Phoon Yew Tien (1985)**
+
+“Variations on Dayong Sampan” premiered in Singapore on 9 June 1985. It was also performed in Chorley, Lancashire in the UK on 20 June 1985.
+
+Phoon Yew Tien’s (1952–) “Variations” was commissioned by the SYO specially for its visit to England. Based on the popular Malay folk song “Dayong Sampan”, this composition comprises 12 variations and a finale. The work discards the traditional practice of introducing the theme (referring to the tune of “Dayong Sampan”) at the beginning and instead goes straight into the first variation. The subsequent variations are linked via transitions that shared a common chordal structure. The piece shifts from one variation to another with the theme emerging gradually and building up to the finale.
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/Phoon_Yew_Tien_cp.jpg" style="width: 60%;">Composer Phoon Yew Tien, 1985.<i>Image reproduced from Singapore Youth Orchestra: In Commemoration of its Visit to England 1985 (Singapore: Singapore Youth Orchestra, 1985). (From National Library, Singapore, call no. RCLOS EPHE 0917 V1.31).</i></div>
+
+
+  
+
+
+
+  
+
+
   
 
 
@@ -58,3 +96,11 @@ From the 1990s to 2011, the SYO continued to commission new works by composers s
 [^4]:  Wong and Goh, _[Rehearsal for Life](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202255010),_ 105.
 
 [^5]:  List compiled by Wong Sher Maine.
+
+[^6]:  Patricia Wei, “[Leong’s New Work](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19820331-1.2.81.1),” _New Nation_, 31 March 1982, 22–23. (From NewspaperSG)
+
+[^7]:  Wei, “[Leong’s New Work](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19820331-1.2.81.1).”
+
+[^8]:  
+
+[^9]:  Eleanor A.L. Tan, [Leong Yoon Pin](https://www.nlb.gov.sg/main/article-detail?cmsuuid=04da9fec-9b2a-4041-9722-d34fbaaf4ad8), _Singapore Infopedia_, published 2011.
