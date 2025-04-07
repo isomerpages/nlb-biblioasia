@@ -84,6 +84,12 @@ The increased demand for *bangsawan* also led to more venues for the performance
 
 Amusement parks such as Great World in River Valley and Happy Valley in Tanjong Pagar also hosted regular *bangsawan* programmes. Zubir Said, composer of *Majulah Singapura*, the national anthem of Singapore, started out as a musician in the City Opera *bangsawan* troupe based in Happy Valley after arriving in Singapore in 1928. He recalled that the hall, as big as Victoria Theatre, was specially built for the performances, and that there were also living quarters on the park grounds for *bangsawan performers*.[^27]
 
+<div style="background-colour:#fff6ba; padding:5px;font-size:120%; background: #fff6ba"><center>
+<b>Listen to the podcast episode “<a href="https://biblioasia.nlb.gov.sg/podcast/life-and-legacy-zubir-said-julian-wong/">The Life and Legacy of Zubir Said</a>”</b>
+<br>
+<img src="/images/Podcast/ad_banner_biblioasia.jpg" alt="singapore history podcast national anthem" style="width:95%">	</center></div>
+
+
 Besides local *bangsawan* troupes, travelling acts from the region also performed at the theatres and halls in Singapore. Sometimes, performing tents would be specially erected for the duration they were based on the island. In 1928, *The Singapore Free Press and Mercantile Advertiser* reported on the popularity of such shows:
 
 “An attraction which never fails to draw crowds in any town either of Malaya or of the Dutch East Indies is described by a visit of a *Bangsawan*, or opera company… The personnel… is generally mixed, containing Malays, Eurasians, and sometimes Chinese players. Travelling from town to town, like a circus, the company pitches its tent on the medan and at once begins to advertise its presence by the distribution of leaflets.”[^28]
