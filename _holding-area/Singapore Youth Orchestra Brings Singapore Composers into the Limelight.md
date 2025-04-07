@@ -11,6 +11,10 @@ When the Singapore Youth Orchestra (SYO) was formed in 1980, part of its mission
 
 “I would like to think that our policy acted as a strong catalyst for Singapore composers to write orchestra works, and also served as an important showcase for them,” he added. “It also encouraged other music groups to perform the works of Singapore composers.”[^2]
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/1985_SYO_orchestra_cp.jpg" style="width: 80%;">Chinese opium smokers, 1880s. <i>Courtesy of National Archives of Singapore.</i></div>
+
 
 
 
