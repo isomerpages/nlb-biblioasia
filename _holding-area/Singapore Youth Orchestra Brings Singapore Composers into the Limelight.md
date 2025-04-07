@@ -61,6 +61,10 @@ Phoon Yew Tien’s (1952–) “Variations” was commissioned by the SYO specia
 <br>
 <img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/Phoon_Yew_Tien_cp.jpg" style="width: 60%;">Composer Phoon Yew Tien, 1985.<i>Image reproduced from Singapore Youth Orchestra: In Commemoration of its Visit to England 1985 (Singapore: Singapore Youth Orchestra, 1985). (From National Library, Singapore, call no. RCLOS EPHE 0917 V1.31).</i></div>
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/dayong_sampan_programme_cp.jpg" style="width: 60%;">Composer Phoon Yew Tien, 1985.<i>Image reproduced from Singapore Youth Orchestra: In Commemoration of its Visit to England 1985 (Singapore: Singapore Youth Orchestra, 1985). (From National Library, Singapore, call no. RCLOS EPHE 0917 V1.31).</i></div>
+
 
   
 
