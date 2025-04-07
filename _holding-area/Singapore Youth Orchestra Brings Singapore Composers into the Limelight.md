@@ -81,6 +81,10 @@ Percussionist Daphne Tan recalled the laborious task of fetching water and prepa
 
 “At the concert in Perth, our passive resistance melted away. Perhaps we were in awe of the concert venue, or maybe the thought of performing our programme to new musician friends our age spurred us on. Somehow, all of us became singularly focused from the first strike to make the music come alive to the audience.”[^16]
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/tsao_chieh.png" style="width: 60%;"> Tsao Chieh in 1986.<i> Source: The Straits Times, 15 February 1986 © SPH Media Limited. Permission required for reproduction.</i></div>
+
   
 
 
