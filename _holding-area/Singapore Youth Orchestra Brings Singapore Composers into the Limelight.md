@@ -101,6 +101,6 @@ Phoon Yew Tien’s (1952–) “Variations” was commissioned by the SYO specia
 
 [^7]:  Wei, “[Leong’s New Work](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19820331-1.2.81.1).”
 
-[^8]:  
+[^8]:  Wong and Goh, _[Rehearsal for Life](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202255010),_ 106.
 
 [^9]:  Eleanor A.L. Tan, [Leong Yoon Pin](https://www.nlb.gov.sg/main/article-detail?cmsuuid=04da9fec-9b2a-4041-9722-d34fbaaf4ad8), _Singapore Infopedia_, published 2011.
