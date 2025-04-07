@@ -85,6 +85,15 @@ Percussionist Daphne Tan recalled the laborious task of fetching water and prepa
 <br>
 <img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/tsao_chieh.png" style="width: 60%;"> Tsao Chieh in 1986.<i> Source: The Straits Times, 15 February 1986 © SPH Media Limited. Permission required for reproduction.</i></div>
 
+Tsao (1953–96) started playing the piano at the age of six. When he was 16, he received the Licentiate of the Royal School of Music in piano performance and Grade 8 qualification in theory. Topping his cohort at National Junior College, Tsao received a scholarship from the Singapore Armed Forces to study engineering at the University of Manchester Institute of Science and Technology.[^17] His time in Manchester was instrumental in the broadening of his musical and cultural horizons. &nbsp;
+
+In 1980, Tsao was offered a scholarship to Stanford University’s doctoral programme in Electrical Engineering in the U.S. In between his engineering course, he took extra classes in music and realised that “with a little more effort, \[he\] could get a master’s in music composition \[and\] went for it”.[^18] He also won first prize in the Jean and Paul Hanna music composition competition for his work “Four Songs from Romantic Poets for Soprano and Chamber Ensemble”. He subsequently wrote “Singapore Symphonic Suite of Large Orchestra”, which was performed by the Singapore Symphony Orchestra during the 1986 Arts Festival.[^19] He died of liver cancer just short of his 43rd birthday, leaving behind a wife and two children.[^20]
+
+#### **“Fanfare for Joy” by Leong Yoon Pin (1986)**
+
+  
+
+
   
 
 
@@ -151,3 +160,11 @@ Percussionist Daphne Tan recalled the laborious task of fetching water and prepa
 [^15]:  Wong and Goh, _[Rehearsal for Life](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202255010),_ 107.
 
 [^16]:  Wong and Goh, _[Rehearsal for Life](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202255010),_ 107.
+
+[^17]:  “[Top HSC Pupil: Two in the Running](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19720306-1.2.73),” _Straits Times_, 6 March 1972, 11. (From NewspaperSG); Jun Zubillaga-Pow, “[The Unlikely Composer: Tsao Chieh](https://biblioasia.nlb.gov.sg/vol-9/issue-4/jan-march-2014/tsao-chieh-singapore-composer/),” _BiblioAsia_ 9, no. 4 (January–March 2014)
+
+[^18]:  Philip Cheah, “[Soldier Composes a Singapore Suite](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19860206-1.2.268),” _Straits Times_, 6 February 1986, 32. (From NewspaperSG)
+
+[^19]:  “Composer's Bio,” in _[Singapore Youth Orchestra Concert Programme](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12460772)_ (Singapore: Singapore Youth Orchestara, 1 August 1989), ephemera. (From National Library Singapore, RCLOS EPHE O917)
+
+[^20]:  Zubillaga-Pow, “[The Unlikely Composer: Tsao Chieh](https://biblioasia.nlb.gov.sg/vol-9/issue-4/jan-march-2014/tsao-chieh-singapore-composer/).”
