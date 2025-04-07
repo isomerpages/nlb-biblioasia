@@ -2,4 +2,6 @@ collections:
   holding-area:
     output: true
     order:
+      - Singapore Youth Orchestra Brings Singapore Composers into the
+        Limelight.md
       - The House of Cheang.md
