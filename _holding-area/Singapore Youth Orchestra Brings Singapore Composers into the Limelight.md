@@ -132,6 +132,10 @@ In his review of the concert for the _Straits Times_, Terence Dawson remarked th
 
 Tan was the Chairman of the SYO’s Management Committee from 1980 to 2002. A physics professor at the National University of Singapore (NUS), Tan’s early musical training was as a pianist. In 1962, he received his Licentiate of the Royal Schools of Music in pianoforte. From 1977–78, he was Acting Head of the Department of Music at NUS and the Associate Director of the Centre for Musical Activities when he created “Symphony no. 1”. He is a prolific composer, writing for many genres such as setting a poem for mixed chorus and piano, incidental music for plays and ballet, music for string orchestras, various solo instruments and choral music. He received the Public Service Medal in 1982 and the Public Service Star in 1990.[^28]
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/prof_bernard_tan.png" style="width: 80%;">Yan Yin Wing (left) and the Emmanuel Chamber Orchestra: Cheng Hsuen Chieh (violin), Jensen Lam (viola), Lanny Septura (piano), and Job Yan (cello), 1989.<i> Source: Straits Times, 10 July 1989 © SPH Media Limited. Permission required for reproduction.</i></div>
+
   
 
 
