@@ -149,7 +149,7 @@ De Souza has composed over a hundred school songs and written countless arrangem
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/Music_Score.png" style="width: 60%;">Music score for “Sentosa”, 1980.<i> Courtesy of _Vivien Goh.</i></div>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/score.jpg" style="width: 60%;">Music score for “Sentosa”, 1980.<i> Courtesy of _Vivien Goh.</i></div>
 
 <div style="background-color: white;">
 <br>
