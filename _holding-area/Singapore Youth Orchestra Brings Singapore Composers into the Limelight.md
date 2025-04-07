@@ -158,6 +158,17 @@ De Souza has composed over a hundred school songs and written countless arrangem
 <div style="background-color: white;">
 <br>
 <img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/SYO_8_Dec_1985_programme_cp.jpg" style="width: 60%;">Singapore Youth Orchestra 8 December 1985 programme. De Souza’s works were performed at this concert.<i> Image reproduced from Singapore Youth Orchestra: Sunday 8th December 1985, 5.00pm, Victoria Concert Hall (Singapore: Singapore Youth Orchestra, 1985). (From National Library, Singapore, call no. RCLOS EPHE 0917 V1.5).</i></div>
+
+#### **“Jingli Zuguo” (Salute to my Homeland) by Lim Chin Tiong (1987)**
+
+Lim Chin Tiong (1937?–) took four years to compose “Salute”, his first orchestral work. The resulting symphonic suite is neither descriptive of local scenery nor society. Rather, it is a vehicle through which Lim tries to convey his thoughts and feelings for Singapore and to express his love for his homeland in four movements. “The first movement depicts my ideal country… The second is about the people, their happy and peaceful way of life. The third is about our heritage, while the last movement depicts hope for a peaceful future.” The SYO premiered the work on 1 March 1987.[^33]
+
+Lim was among the first batch of graduates (1959) from Nanyang University (now Nanyang Technological University of Singapore). He spent six years in London studying singing (under Royal Opera House tenor Walter Midgley) and composition (under Professor Frederick Thomas Durrant of the Royal Academy of Music). He returned to Singapore and started accepting students in 1967 in singing, music theory and composition. He has written quartets, incidental music for plays, songs, and cantatas.[^34]
+
+  
+
+
+
   
 
 
@@ -234,3 +245,7 @@ De Souza has composed over a hundred school songs and written countless arrangem
 [^31]:  “Programme,” in _[Singapore Youth Orchestra Sunday 8th Dec 1985, 5.00PM, Victoria Concert Hall](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12460772)_ (Singapore: Singapore Youth Orchestra, December 1985), 6, ephemera. (From National Library Singapore, RCLOS EPHE O917)
 
 [^32]:  “Composer’s Bio,” in _[Singapore Youth Orchestra Sunday 8th Dec 1985, 5.00PM, Victoria Concert Hall](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12460772)_ (Singapore: Singapore Youth Orchestra, December 1985), 4, ephemera. (From National Library Singapore, RCLOS EPHE O917)
+
+[^33]:  Koh, “[Love Notes for the Island Nation](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19870228-1.2.23.6.1).”
+
+[^34]:  Koh, “[Love Notes for the Island Nation](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19870228-1.2.23.6.1).”
