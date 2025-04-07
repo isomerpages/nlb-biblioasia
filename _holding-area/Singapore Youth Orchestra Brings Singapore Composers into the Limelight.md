@@ -136,6 +136,25 @@ Tan was the Chairman of the SYO’s Management Committee from 1980 to 2002. A ph
 <br>
 <img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/prof_bernard_tan.png" style="width: 80%;">Dr Bernard Tan, 1989.<i> Source: Straits Times, 30 September 1989 © SPH Media Limited. Permission required for reproduction.</i></div>
 
+#### **“Undaunted” by J.J. De Souza (1984)**
+
+From 1981 to 1989, under Goh, the SYO would present an annual pop concert in December to mark the end of each season. They would perform contemporary popular pieces such as film scores, pop hits and choral works. For the 1985 concert, John James De Souza (J.J. De Souza) was commissioned to write an orchestral arrangement of his composition “Undaunted” (the theme song for Singapore’s “25 Years of Nation Building” celebrations), originally created in collaboration with his ECAC colleague, Seah Lye Huat, in 1985.[^29]
+
+At its December 1985 concert, the SYO performed “Undaunted”, “Sentosa” (De Souza’s winning entry in the Sentosa Song Writing Competition in 1980[^30]) as well as his arrangements of “We are the World”, “Flash Dance (What a Feeling)” and the theme from the film _E.T_.[^31]
+
+De Souza was a self-taught musician. At the age of 17, he took formal piano lessons from Victor Doggett, a well-known British piano teacher in Singapore. After five years, he obtained the LRSM Teaching Diploma. He was a schoolteacher for 10 years before transferring to the Music Section of the Extra Curricular Activities Centre under the Ministry of Education, first as a peripatetic music teacher and then as a band teacher. In 1970, he was awarded a scholarship for a Band Master’s Course at the Balcombe Military School of Music in Australia. Upon his return in 1971, he was appointed Supervisor of Secondary School Bands and in 1982, he was appointed Specialist Inspector of Music. He was one of Singapore’s pioneer band instructors who was tasked with creating school bands in every school in the early days of the Republic.[^32]
+
+De Souza has composed over a hundred school songs and written countless arrangements for piano, brass and symphonic band. One of his great achievements was to have one of his compositions (“Say You’ll Always Be Mine”) chosen for the semifinals of the World Popular Song Festival held in Japan in 1975. In 1985, he worked on a project to arrange and record a collection of songs for schools, including “Undaunted”. He was among those honoured at the 1985 National Day Awards with an Efficiency Medal.
+
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/prof_bernard_tan.png" style="width: 80%;">Dr Bernard Tan, 1989.<i> Source: Straits Times, 30 September 1989 © SPH Media Limited. Permission required for reproduction.</i></div>
+  
+
+
+
+
   
 
 
@@ -199,3 +218,11 @@ Tan was the Chairman of the SYO’s Management Committee from 1980 to 2002. A ph
 [^27]:  Terence Dawson, “[A Touching Farewell](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19900410-1.2.66.5.3),” _Straits Times_, 10 April 1990, 3. (From NewspaperSG)
 
 [^28]:  “Bernard Tan Tiong Gie,” Tribute.sg, published 12 October 2016, [https://www.esplanade.com/offstage/arts/bernard-tan-tiong-gie](https://www.esplanade.com/offstage/arts/bernard-tan-tiong-gie).
+
+[^29]:  Chieh, “Programme Notes.”
+
+[^30]:  “[45 Minutes to Compose Winning Sentosa Song](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19800429-1.2.12),” _New Nation_, 29 April 1980, 2. (From NewspaperSG)
+
+[^31]:  “Programme,” in _[Singapore Youth Orchestra Sunday 8th Dec 1985, 5.00PM, Victoria Concert Hall](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12460772)_ (Singapore: Singapore Youth Orchestra, December 1985), 6, ephemera. (From National Library Singapore, RCLOS EPHE O917)
+
+[^32]:  “Composer’s Bio,” in _[Singapore Youth Orchestra Sunday 8th Dec 1985, 5.00PM, Victoria Concert Hall](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12460772)_ (Singapore: Singapore Youth Orchestra, December 1985), 4, ephemera. (From National Library Singapore, RCLOS EPHE O917)
