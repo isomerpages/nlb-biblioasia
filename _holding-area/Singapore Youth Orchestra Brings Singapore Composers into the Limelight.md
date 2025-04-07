@@ -77,23 +77,13 @@ The whole piece is a succession of modes which are subsets of the scale of A maj
 
 One challenge for this piece was the novel instruments needed. SYO Manager Tan Kim Swee was called upon to secure what he described as a “fantastic crop of instruments”.[^13] Among them was a glass chime, which he practically manufactured in his office using materials from a Science laboratory. They also needed a custom-built wooden tank fill with water for a tam-tam (gong) that had to be quickly immersed in water once struck. This tank had to be filled with water via a long hose attached to one of the taps in the toilets backstage.[^14]
 
-Percussionist Daphne Tan recalled the laborious task of fetching water and preparing the tam-tam and the hefty water trough for each rehearsal. “My former section mates still jibe each other about the labours we experienced having to fetch water and laboriously prepare the “water gong” and its heavy water trough at each rehearsal,” she said. “To a bunch of apathetic teenagers at the time, it was a thankless task for a dubious effect which we felt could have been better met or substituted with less complicated means. You could almost hear our skepticism in the way we dunked the gong into the water.”[\[4\]](#_ftn4) That skepticism dissipated when they performed “Stasis” in Perth, Australia though.
+Percussionist Daphne Tan recalled the laborious task of fetching water and preparing the tam-tam and the hefty water trough for each rehearsal. “My former section mates still jibe each other about the labours we experienced having to fetch water and laboriously prepare the “water gong” and its heavy water trough at each rehearsal,” she said. “To a bunch of apathetic teenagers at the time, it was a thankless task for a dubious effect which we felt could have been better met or substituted with less complicated means. You could almost hear our skepticism in the way we dunked the gong into the water.”[^15] That skepticism dissipated when they performed “Stasis” in Perth, Australia though.
 
-“At the concert in Perth, our passive resistance melted away. Perhaps we were in awe of the concert venue, or maybe the thought of performing our programme to new musician friends our age spurred us on. Somehow, all of us became singularly focused from the first strike to make the music come alive to the audience.”[\[5\]](#_ftn5)
+“At the concert in Perth, our passive resistance melted away. Perhaps we were in awe of the concert venue, or maybe the thought of performing our programme to new musician friends our age spurred us on. Somehow, all of us became singularly focused from the first strike to make the music come alive to the audience.”[^16]
 
   
 
-* * *
 
-[\[1\]](#_ftnref1) Tsao Chieh, “Programme Notes,” in _[Singapore Youth Orchestra Concert Programme](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12460772)_ (Singapore: Singapore Youth Orchestara, 1988), ephemera. (From National Library Singapore, RCLOS EPHE O917)
-
-[](#_ftnref2)Wong and Goh, _[Rehearsal for Life](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202255010)__,_ 106.
-
-[\[3\]](#_ftnref3) Wong and Goh, _[Rehearsal for Life](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202255010)__,_ 107.
-
-[\[4\]](#_ftnref4) Wong and Goh, _[Rehearsal for Life](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202255010)__,_ 107.
-
-[\[5\]](#_ftnref5) Wong and Goh, _[Rehearsal for Life](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202255010)__,_ 107.
 
 
   
@@ -147,3 +137,13 @@ Percussionist Daphne Tan recalled the laborious task of fetching water and prepa
 [^10]:  Chor Poh Chin, [Phoon Yew Tien](https://www.nlb.gov.sg/main/article-detail?cmsuuid=2cea3fea-467e-4d2c-9ca2-d5819209ad33), _Singapore Infopedia_, published 25 February 2014.
 
 [^11]:  Chor, “[Phoon Yew Tien](https://www.nlb.gov.sg/main/article-detail?cmsuuid=2cea3fea-467e-4d2c-9ca2-d5819209ad33).”
+
+[^12]:  Tsao Chieh, “Programme Notes,” in _[Singapore Youth Orchestra Concert Programme](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12460772)_ (Singapore: Singapore Youth Orchestara, 1988), ephemera. (From National Library Singapore, RCLOS EPHE O917)
+
+[^13]:  Wong and Goh, _[Rehearsal for Life](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202255010),_ 106.
+
+[^14]:  Wong and Goh, _[Rehearsal for Life](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202255010),_ 107.
+
+[^15]:  Wong and Goh, _[Rehearsal for Life](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202255010),_ 107.
+
+[^16]:  Wong and Goh, _[Rehearsal for Life](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202255010),_ 107.
