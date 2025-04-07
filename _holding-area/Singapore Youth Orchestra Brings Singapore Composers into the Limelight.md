@@ -69,6 +69,33 @@ Phoon’s interest in music started from early childhood. He was in the flute se
 
 Phoon returned to Singapore in 1983 and wrote music for drama and dance groups. He was also the assistant conductor of the People’s Association Chinese Orchestra, a forerunner of the Singapore Chinese Orchestra, and a lecturer and head of music at the Nanyang Academy of Fine Arts from 1984 to 1999. He received multiple awards from the Composers and Authors Society of Singapore (COMPASS) and was awarded the prestigious Cultural Medallion in Music in 1996.[^11]
 
+#### **“Stasis” by Tsao Chieh (1988)**
+
+“Stasis”, which premiered on 20 March 1988 at the Victoria Concert Hall, was inspired by the traditional music of Southeast Asia, particularly Thailand and Bali, where rhythmic activity conveys a sense of equilibrium. This idea of stillness in change led to a piece strongly influenced by the “minimalist” style.[^12]
+
+The whole piece is a succession of modes which are subsets of the scale of A major, initially comprising only two or three notes. The modes wax and wane in complexity. Controlled improvision is used in several places in the work and exotic instrumental effects such as bowed vibraphone, water gong and exhalation sounds for solo flute, strings, percussion and woodwind. At the climactic point, all the notes in A major are used simultaneously. After that, the modes gradually diminish in complexity. Vibraphone, celesta and solo violin end the piece on a pentatonic chord.
+
+One challenge for this piece was the novel instruments needed. SYO Manager Tan Kim Swee was called upon to secure what he described as a “fantastic crop of instruments”.[^13] Among them was a glass chime, which he practically manufactured in his office using materials from a Science laboratory. They also needed a custom-built wooden tank fill with water for a tam-tam (gong) that had to be quickly immersed in water once struck. This tank had to be filled with water via a long hose attached to one of the taps in the toilets backstage.[^14]
+
+Percussionist Daphne Tan recalled the laborious task of fetching water and preparing the tam-tam and the hefty water trough for each rehearsal. “My former section mates still jibe each other about the labours we experienced having to fetch water and laboriously prepare the “water gong” and its heavy water trough at each rehearsal,” she said. “To a bunch of apathetic teenagers at the time, it was a thankless task for a dubious effect which we felt could have been better met or substituted with less complicated means. You could almost hear our skepticism in the way we dunked the gong into the water.”[\[4\]](#_ftn4) That skepticism dissipated when they performed “Stasis” in Perth, Australia though.
+
+“At the concert in Perth, our passive resistance melted away. Perhaps we were in awe of the concert venue, or maybe the thought of performing our programme to new musician friends our age spurred us on. Somehow, all of us became singularly focused from the first strike to make the music come alive to the audience.”[\[5\]](#_ftn5)
+
+  
+
+* * *
+
+[\[1\]](#_ftnref1) Tsao Chieh, “Programme Notes,” in _[Singapore Youth Orchestra Concert Programme](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12460772)_ (Singapore: Singapore Youth Orchestara, 1988), ephemera. (From National Library Singapore, RCLOS EPHE O917)
+
+[](#_ftnref2)Wong and Goh, _[Rehearsal for Life](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202255010)__,_ 106.
+
+[\[3\]](#_ftnref3) Wong and Goh, _[Rehearsal for Life](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202255010)__,_ 107.
+
+[\[4\]](#_ftnref4) Wong and Goh, _[Rehearsal for Life](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202255010)__,_ 107.
+
+[\[5\]](#_ftnref5) Wong and Goh, _[Rehearsal for Life](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202255010)__,_ 107.
+
+
   
 
 
