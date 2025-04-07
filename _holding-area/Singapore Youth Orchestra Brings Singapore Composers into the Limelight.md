@@ -63,7 +63,15 @@ Phoon Yew Tien’s (1952–) “Variations” was commissioned by the SYO specia
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/dayong_sampan_programme_cp.jpg" style="width: 60%;">Composer Phoon Yew Tien, 1985.<i>Image reproduced from Singapore Youth Orchestra: In Commemoration of its Visit to England 1985 (Singapore: Singapore Youth Orchestra, 1985). (From National Library, Singapore, call no. RCLOS EPHE 0917 V1.31).</i></div>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/dayong_sampan_programme_cp.jpg" style="width: 80%;">Phoon Yew Tien’s “Variations on ‘Dayong Sampan’”. <i>Image reproduced from Singapore Youth Orchestra: In Commemoration of its Visit to England 1985 (Singapore: Singapore Youth Orchestra, 1985). (From National Library, Singapore, call no. RCLOS EPHE 0917 V1.31).</i></div>
+
+Phoon’s interest in music started from early childhood. He was in the flute section of the Singapore Chinese Youth Orchestra, which had participated in the 1971 Festival of Youth Orchestras in Switzerland. He was mentored by composer Leong Yoon Pin in the 1970s and received a Singapore Symphonic Orchestra scholarship in 1980 to the Queensland Conservatorium of Music in Brisbane, Australia, where he graduated with a double degree in Music Composition and Flute. He won the Dulcie Robertson Prize in composition three times in 1980, 1981 and 1983, as well as the Yoshiro Irino Memorial Prize for Composition awarded by the Asian Composers’ Society in 1984 for a piece called “Autumn”.[^10]
+
+Phoon returned to Singapore in 1983 and wrote music for drama and dance groups. He was also the assistant conductor of the People’s Association Chinese Orchestra, a forerunner of the Singapore Chinese Orchestra, and a lecturer and head of music at the Nanyang Academy of Fine Arts from 1984 to 1999. He received multiple awards from the Composers and Authors Society of Singapore (COMPASS) and was awarded the prestigious Cultural Medallion in Music in 1996.[^11]
+
+  
+
+
 
 
   
@@ -108,3 +116,7 @@ Phoon Yew Tien’s (1952–) “Variations” was commissioned by the SYO specia
 [^8]:  Wong and Goh, _[Rehearsal for Life](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202255010),_ 106.
 
 [^9]:  Eleanor A.L. Tan, [Leong Yoon Pin](https://www.nlb.gov.sg/main/article-detail?cmsuuid=04da9fec-9b2a-4041-9722-d34fbaaf4ad8), _Singapore Infopedia_, published 2011.
+
+[^10]:  Chor Poh Chin, [Phoon Yew Tien](https://www.nlb.gov.sg/main/article-detail?cmsuuid=2cea3fea-467e-4d2c-9ca2-d5819209ad33), _Singapore Infopedia_, published 25 February 2014.
+
+[^11]:  Chor, “[Phoon Yew Tien](https://www.nlb.gov.sg/main/article-detail?cmsuuid=2cea3fea-467e-4d2c-9ca2-d5819209ad33).”
