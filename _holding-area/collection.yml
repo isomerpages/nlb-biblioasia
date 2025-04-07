@@ -2,6 +2,7 @@ collections:
   holding-area:
     output: true
     order:
+      - In Search of Silvestr.md
       - Singapore Youth Orchestra Brings Singapore Composers into the
         Limelight.md
       - The House of Cheang.md
