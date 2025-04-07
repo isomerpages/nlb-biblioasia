@@ -112,6 +112,10 @@ A violinist and conductor, Yan Yin Wing obtained the ARCM in violin teaching at 
 
 As the founder-conductor of Braddell Heights Symphony Orchestra (1989–2012), one of Singapore’s first community orchestras, Yan dedicated himself to nurturing young local talents. He also initiated exchange programmes with overseas orchestras such as the Korea Symphony Orchestra, Suginami Philharmonic Orchestra and the Penang Symphony Orchestra.[^25]
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/braddell_heights.png" style="width: 80%;">Braddell Heights Symphony Orchestra, 1990.<i> Source: Straits Times, 16 November 1990 © SPH Media Limited. Permission required for reproduction.</i></div>
+
   
 
 
