@@ -91,6 +91,11 @@ In 1980, Tsao was offered a scholarship to Stanford University’s doctoral prog
 
 #### **“Fanfare for Joy” by Leong Yoon Pin (1986)**
 
+The Singapore Youth Training Orchestra was inaugurated in September 1986. The training arm of the SYO, its objective was to give less experienced orchestra players an opportunity to learn the basics of orchestra playing. Eric Lee, a double bassist in the Singapore Symphony Orchestra, was its conductor.
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/Singapore_Youth_Training_Orchestra_5_Sep_1987_cp.jpg" style="width: 80%;">Singapore Youth Training programme for its September 1987 performance.<i> Image reproduced from Singapore Youth Training Orchestra Sunday 5th September 1987 Victoria Concert Hall (Singapore: Singapore Youth Orchestra, 1987). (From National Library, Singapore, call no. RCLOS EPHE 0917 V1.8).</i></div>
   
 
 
