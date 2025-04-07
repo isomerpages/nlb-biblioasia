@@ -5,6 +5,7 @@ description: "#### From bane of the government to boon of tourism, hawkers in
   Singapore have come a long way from the time they were viewed by government
   officials as progenitors of disorder and disease."
 image: /images/vol-9-issue-3/Hawkers/H3.png
+variant: markdown
 ---
 #### From bane of the government to boon of tourism, hawkers in Singapore have come a long way from the time they were viewed by government officials as progenitors of disorder and disease.
 
@@ -15,6 +16,10 @@ Hawkers at the car park beside the former Specialists’ Centre on Orchard Road,
 For one of the smallest countries in the world, Singapore has an enormous appetite. According to the annual MasterCard survey on consumer dining habits, Singaporeans were the biggest spenders for eating out in the Asia-Pacific region in 2012, with an average expenditure of $323 each month. This was an increase of nearly 25 percent from 2011.[^1] In addition, the great lengths that Singaporeans go to in search of the best or most authentic local dishes are testament to the nation’s obsession with food. They endure long queues, brave traffic jams and literally go the distance to satiate their taste buds. It is no wonder that the Singapore Tourism Board promotes the island as a food paradise, organising a series of annual food-related events, most notably the Singapore Food Festival, to boost tourist numbers.
 
 Food and all matters culinary are an integral part of the Singaporean psyche. The city is a melting pot of multi-ethnic flavours and foods, with Malay, Indian and Chinese dishes making up the culinary landscape along with Peranakan and Eurasian cuisines. The island city is home to countless restaurants, but almost everyone agrees that the cheapest and most authentic fare is found in hawker centres.
+
+<div style="background-colour:#fff6ba; padding:1px;font-size:120%; background: #fff6ba"><center>
+<b>Listen to the podcast episode “<a href="https://biblioasia.nlb.gov.sg/podcast/hawker-culture-in-singapore-ryan-kueh/">Hawker Culture in Singapore</a>”</b><br>
+<img src="/images/Podcast/ad_banner_biblioasia.jpg" alt="singapore history podcast hawker culture hawker centres" style="width:95%"> </center></div>
 
 Hawker centres, in Singapore parlance, are open-air complexes with stalls selling food at affordable prices. They are clean, accessible and are frequented by people from all walks of life. Most hawker stalls are family-run and serve one or two dishes that have been perfected over the years or prepared using family recipes passed down over the generations. As a result, hawker food is not only tasty but also rich in heritage.
 
