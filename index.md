@@ -1146,4 +1146,15 @@ sections:
       image: /images/Online Only Articles/Conquer Tallest
         Mountain_12_23/mok_on_fixed_ropes_homepage.png
       alt: Image alt text
+  - infopic:
+      title: The Trip That Led to the 1953 Landmark Art Exhibition
+      subtitle: Podcast
+      id: infopic
+      description: Gretchen Liu, the daughter-in-law of Liu Kang, tells us about the
+        mysterious Bali trip undertaken by four Singapore pioneering artists in
+        1952.
+      button: Listen to the episode
+      url: /podcast/the-misunderstood-trip-that-led-to-the-1953-landmark-art-exhibition-gretchen-liu/
+      image: /images/Podcast/Biblioasia_600_by_400_Gretchen_Liu.jpg
+      alt: Bali Trip 1952
 ---
