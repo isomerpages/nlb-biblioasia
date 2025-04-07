@@ -60,7 +60,7 @@ The mobile library service reached its peak between 1969 and 1973, operating 12 
 
 The library staff enjoyed interacting with users of the mobile library service. “All the people who worked on the mobile library used to say they enjoyed it because the children would be so excited at having books brought to their doorstep,” said Anuar. The mobile service, being a novelty, was popular with residents. “\[F\]or a lot of the rural people, it was the first time that they ever had access to books because they couldn’t really afford to buy books. So I think that was a big thing.” A _Straits Times_ article in 1979 recounted that “hordes of children \[would\] start gathering as the time approaches and there \[would be\] mad rush to be at the head of the queue when the \[mobile library\] van arrives”.25
 
-Mobile Library Operations &nbsp;
+#### **Mobile Library Operations **
 
 In contrast to the earlier mobile library service that toured schools, the revived mobile library service operated weekly visits to community centres, mostly in the afternoon or evening.26
 
@@ -72,7 +72,7 @@ To avoid long queues and slow service at each service point, library staff would
 
 As the mobile library service developed, storytelling programmes were added to the offerings.30 To boost publicity, the service was promoted through school talks, and also over radio and television.31
 
-Rain or Shine
+#### **Rain or Shine**
 
 Operating a mobile library service presented unique challenges. At times, the service had to be scaled back or suspended due to staff shortage, driver shortage, or vehicle breakdown.32
 
@@ -82,7 +82,7 @@ The mobile service was also at the mercy of inclement weather. “Once there was
 
 Another problem was getting drivers for the trailers. Chan recalled: “Although we had four drivers and one van, I had to get these drivers on the road to drive these trailers and the drivers refused to drive. They said because these are heavy vehicles, we are general purpose drivers. We need certain extra allowances, and we also need to be trained. So, I arranged for the PWD to train up the drivers to drive the heavy vehicles.” Their salaries were also increased.35
 
-Phasing Out Mobile Libraries
+#### **Phasing Out Mobile Libraries**
 
 In 1973, because of government efforts to curb inflation and to manage the global energy crisis, the National Library was tasked with evaluating the efficiency of its mobile library service. The goal was to potentially reduce or relocate the existing 12 service points. The relocation of the Library Extension Services section to Toa Payoh Branch Library also provided an opportunity to streamline mobile library operations. Consequently, in 1974, three service points – Pasir Panjang, Changi 10 milestone and Serangoon Gardens – were shut down.36
 
@@ -90,7 +90,7 @@ As families in rural areas were increasingly resettled in new towns, the need fo
 
 Under this strategic shift, no new mobile service points were added except for Ang Mo Kio where a mobile library service point was established to provide interim services until the completion of the Ang Mo Kio Branch Library. On 14 January 1991, the mobile library service, along with its six remaining service points at Choa Chu Kang, Nee Soon, Punggol, Changkat, Tanjong Pagar and Woodlands, ceased operations after 26 years of service.38
 
-Molly the Mobile Library
+#### **Molly the Mobile Library**
 
 The idea of a mobile library service was too good to be mothballed forever though. On 3 April 2008, the National Library Board (NLB) launched Molly, a new mobile library service, to better reach disadvantaged and underserved communities. At the opening ceremony held at Pathlight School, Minister for Community Development, Youth and Sports Vivian Balakrishnan said: “The challenge today is not the physical availability of libraries, but rather, reaching out and making sure that people who can benefit from the access to books know about it and are given the access to it.”39
 
@@ -103,3 +103,15 @@ In September 2016, a new vehicle known as “Big Molly”, also sponsored by the
   
 
 _Note: For more photos of the mobile libraries, visit biblioasia.nlb.gov.sg._
+
+
+
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/vol-17-issue-3/authors/Rebecca%20Tan---.png">
+	<b>Gracie Lee</b> is a Senior Librarian with the National Library Singapore. She enjoys uncovering and sharing the stories behind Singapore’s printed heritage. </div>
+	
+
+#### **Notes**
+
+
