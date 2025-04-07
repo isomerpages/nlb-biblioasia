@@ -26,7 +26,8 @@ Badang’s story varies across different versions of the _Sejarah Melayu_ (more 
 <div style="background-colour:#fff6ba; padding:5px;font-size:120%; background: #fff6ba"><center>
 <b>Listen to the podcast episode “<a href="https://biblioasia.nlb.gov.sg/podcast/badang-the-strongman-a-miracle-working-grave-a-folk-tale-and-a-nations-mythology/">Badang the Strongman: A Miracle-working Grave, A Folk Tale and a Nation’s Mythology</a>”</b>
 <br>
-<img src="/images/Podcast/ad\_banner\_biblioasia.jpg" alt="singapore history podcast keramat" style="width:95%">&nbsp;&nbsp;&nbsp; </center></div>
+<img src="/images/Podcast/ad_banner_biblioasia.jpg" alt="singapore history podcast national anthem" style="width:95%">	</center></div>
+
 
 Eventually, Badang caught a _hantu_ (a spirit or demon) stealing his fish. In exchange for not killing the spirit, Badang was granted supernatural strength by swallowing the spirit’s vomit. Eventually, Badang’s strength became known to Sri Rana Wikrama, the third raja (king) of the Kingdom of Singapura, who made him a military officer or _Hulubalang_ (the military nobility of the classical Malay kingdoms in Southeast Asia).
 
