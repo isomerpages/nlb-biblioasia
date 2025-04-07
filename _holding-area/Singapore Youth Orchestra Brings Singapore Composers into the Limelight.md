@@ -116,6 +116,10 @@ As the founder-conductor of Braddell Heights Symphony Orchestra (1989–2012), o
 <br>
 <img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/braddell_heights.png" style="width: 80%;">Braddell Heights Symphony Orchestra, 1990.<i> Source: Straits Times, 16 November 1990 © SPH Media Limited. Permission required for reproduction.</i></div>
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/yan_yan_wing.png" style="width: 80%;">Yan Yin Wing (left) and the Emmanuel Chamber Orchestra: Cheng Hsuen Chieh (violin), Jensen Lam (viola), Lanny Septura (piano), and Job Yan (cello), 1989.<i> Source: Straits Times, 10 July 1989 © SPH Media Limited. Permission required for reproduction.</i></div>
+
   
 
 
