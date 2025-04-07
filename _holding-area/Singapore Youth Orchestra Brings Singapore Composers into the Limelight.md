@@ -134,7 +134,7 @@ Tan was the Chairman of the SYO’s Management Committee from 1980 to 2002. A ph
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/prof_bernard_tan.png" style="width: 80%;">Yan Yin Wing (left) and the Emmanuel Chamber Orchestra: Cheng Hsuen Chieh (violin), Jensen Lam (viola), Lanny Septura (piano), and Job Yan (cello), 1989.<i> Source: Straits Times, 10 July 1989 © SPH Media Limited. Permission required for reproduction.</i></div>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/prof_bernard_tan.png" style="width: 80%;">Dr Bernard Tan, 1989.<i> Source: Straits Times, 30 September 1989 © SPH Media Limited. Permission required for reproduction.</i></div>
 
   
 
