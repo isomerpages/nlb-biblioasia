@@ -27,8 +27,8 @@ If my mother had to work late, I would spend time in the library browsing the sh
 
 I would also attend storytelling sessions at the National Library. We sat on the floor cushions, listening enthralled as the librarians brought the books to life. I remember participating in a fancy dress fashion show at the library where we had to dress up as book characters. I went as a Hawaiian girl, and my mother ordered a fresh flower lei and fresh flowers for my hair to go with the costume.&nbsp;
 
-![](/images/Vol%2021%20Issue%202/Hedwig/hedwig_tour.jpg)
-<div style="background-color:white;"> Hedwig Anuar giving Minister of State for Culture Fong Sip Chee a tour of the National Library’s silver jubilee exhibition at the Central Library on Stamford Road, 1983. On the left is Lau Wai Har, chairman of the board of the National Library. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+![](/images/Vol%2021%20Issue%202/Hedwig/hedwig_hawaii.jpg)
+<div style="background-color:white;"> Shirin as a Hawaiian girl for the “People &amp; Places Costume Competition and Parade”, 1970. <i>Courtesy of Shirin Aroozoo.</i></div>
 
 #### **The Teen Years**
 
@@ -37,6 +37,9 @@ When I was in secondary school and studying literature, my mother would spend ti
 Later, when I started dating, my mother would bring home books on sex and relationships. I think, as with most Asian parents, this was a topic that was difficult to discuss so her way of educating me was through books. After reading these books, I would then talk about these topics with my mother.
 
 The former red-brick National Library building on Stamford Road was like a second home for us. When the building was torn down, my mother could not drive by it for many years as it was too painful. It was then that I realised how important the National Library was to her. It was a part of her and when it was demolished, it was as if a small part of her had died.&nbsp;
+
+![](/images/Vol%2021%20Issue%202/Hedwig/hedwig_tour.jpg)
+<div style="background-color:white;"> Hedwig Anuar giving Minister of State for Culture Fong Sip Chee a tour of the National Library’s silver jubilee exhibition at the Central Library on Stamford Road, 1983. On the left is Lau Wai Har, chairman of the board of the National Library. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 In addition to books, my mother also introduced me to the arts. We went to countless local theatre productions at the Drama Centre in Fort Canning and other various small venues because she felt that it was important to support local playwrights and theatre groups to build a Singaporean identity. She would also purchase all the local publications of fiction, poetry and plays to support the local arts scene. We also went to the ballet at the National Theatre where I was enthralled by the performances of the likes of Margot Fonteyn and Mikhail Baryshnikov when they came to Singapore.
 

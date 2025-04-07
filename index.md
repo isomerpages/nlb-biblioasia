@@ -9,13 +9,24 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-20/issue-4/jan-mar-2025/ustaz-syed-abdul-rahman-al-attas-calligraphy/
-      button: "In Good Hands: The Calligraphy of Ustaz Syed Abdul Rahman Al-Attas"
+      url: /vol-21/issue-1/apr-jun-2025/barbara-kerr-sharpshooter-school-principal-girl-guide/
+      button: "Barbara Kerr: Sharpshooter, School Principal, Girl Guide Extraordinaire"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 20 Issue 4/Caligraphy/HeroImage_caligraphy_3.jpg
+      background: /images/Vol 21 Issue 1/Barbara Kerr/heroimg_barbara.jpg
+  - infopic:
+      title: "Remembering the Lady in Red: The Former National Library"
+      subtitle: Places and Buildings
+      id: infopic
+      description: Beyond being a mere repository of books, the former landmark on
+        Stamford Road was a place for acquiring knowledge, making memories and
+        creating friendships.
+      button: REMEMBERING A BELOVED ICON
+      url: /vol-21/issue-2/jul-sep-2025/national-library-stamford-road-photos/
+      image: /images/Vol 21 Issue 2/Frames of Memory/frames_topic.jpg
+      alt: Former National Library
   - infopic:
       title: History of the Golden Lions in Singapore
       subtitle: Culture
@@ -1135,15 +1146,4 @@ sections:
       image: /images/Online Only Articles/Conquer Tallest
         Mountain_12_23/mok_on_fixed_ropes_homepage.png
       alt: Image alt text
-  - infopic:
-      title: "Remembering the Lady in Red: The Former National Library"
-      subtitle: Places and Buildings
-      id: infopic
-      description: Beyond being a mere repository of books, the former landmark on
-        Stamford Road was a place for acquiring knowledge, making memories and
-        creating friendships.
-      button: REMEMBERING A BELOVED ICON
-      url: /vol-21/issue-2/jul-sep-2025/national-library-stamford-road-photos/
-      image: /images/Vol 21 Issue 2/Frames of Memory/frames_topic.jpg
-      alt: Former National Library
 ---
