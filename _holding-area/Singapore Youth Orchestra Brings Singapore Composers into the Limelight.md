@@ -21,6 +21,10 @@ While the objective of supporting local composers was noble, the efforts were no
 
 Composers were told to temper the technical difficulties of their compositions considering the SYO’s young musicians, but some still “\[gave\] free rein to their imaginations. Once unleashed, the occasional result was music which was unlike anything the young musicians had ever played in their lives.”[^4]
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/SYO_camp.jpg" style="width: 80%;">Singapore Youth Orchestra music camp concert 1981. <i>Image reproduced from Singapore Youth Orchestra: In Commemoration of its Participation of the International Festival of Youth Orchestras and the Performing Arts 1982. (Singapore: Singapore Youth Orchestra, 1982), 13. (From National Library, Singapore, call no. RCLOS EPHE 0917 V1.35).</i></div>
+
   
 
 
