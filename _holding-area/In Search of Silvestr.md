@@ -67,22 +67,7 @@ I never thought that my personal quest to discover the fate of my granduncle wou
 
 <div style="background-color: white;">
 <img style="width: 100px; height: 100px;" src="/images/Online%20Only%20Articles/In%20Search%20of%20Silvestr/author_pic.jpg">
-	Since 1969, violinist <b>Vivien Goh</b> has had a varied career as performer and teacher in Singapore. She was the founder-conductor of the Singapore Youth Orchestra from 1980 to1990 and is currently an adjunct faculty at the School of the Arts.</div>  
-
-  
-
-
-  
-
-
-
-  
-
-
-
-
-
-
+	<b>Jan Beránek</b> is a Czech environmentalist&nbsp;and energy expert. He was born and raised in the Czech city of Brno, where he studied physics and sociology. Jan has worked for several environmental organisations and was also Chair of the Czech Green Party. He currently lives in Amsterdam, working for Greenpeace International as a Director for Organizational Strategy and Development. In his free time, Jan is a keen astronomer and astrophotographer. He was not interested in history until 2017 when he became curious about his family’s roots and started his search for his missing granduncle Silvestr Němec.</div>  
 
 #### **Notes**
 
