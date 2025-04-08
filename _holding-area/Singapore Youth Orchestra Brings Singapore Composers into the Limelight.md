@@ -178,11 +178,7 @@ David Campbell is an American pianist, organist, teacher and composer in the New
 
   
 
-* * *
 
-[\[1\]](#_ftnref1) Ilene Aleshire, “[Crowd Applauds ‘Singapore Suite’ Premiere](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19840402-1.2.18.5),” _Straits Times_, 2 April 1984, 8. (From NewspaperSG)
-
-[\[2\]](#_ftnref2) “Singapore Suite – David Campbell,” _[Singapore Youth Orchestra Sunday 1st April 1984, 5.00PM, Victoria Concert Hall](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12460772)_ (Singapore: Singapore Youth Orchestra, n.d.), ephemera. (From National Library Singapore, RCLOS EPHE O917 V1.29)
 
   
 
@@ -268,3 +264,7 @@ David Campbell is an American pianist, organist, teacher and composer in the New
 [^33]:  Koh, “[Love Notes for the Island Nation](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19870228-1.2.23.6.1).”
 
 [^34]:  Koh, “[Love Notes for the Island Nation](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19870228-1.2.23.6.1).”
+
+[^35]:  Ilene Aleshire, “[Crowd Applauds ‘Singapore Suite’ Premiere](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19840402-1.2.18.5),” _Straits Times_, 2 April 1984, 8. (From NewspaperSG)
+
+[^36]:  “Singapore Suite – David Campbell,” _[Singapore Youth Orchestra Sunday 1st April 1984, 5.00PM, Victoria Concert Hall](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12460772)_ (Singapore: Singapore Youth Orchestra, n.d.), ephemera. (From National Library Singapore, RCLOS EPHE O917 V1.29)
