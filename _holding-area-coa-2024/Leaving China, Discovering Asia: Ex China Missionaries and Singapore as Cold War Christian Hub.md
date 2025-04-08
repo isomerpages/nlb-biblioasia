@@ -161,64 +161,64 @@ Tracing the transition of the 1950s, where the theological resources of British 
 
 [^21]: Trinity College Singapore, [_A Union Theological Training Centre of College Grade in the Heart of South East Asia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200072965) (Singapore: Trinity College, 1956) (From PublicationSG) For a fuller account, see the multiple commemorative volumes, including: [_At The Crossroads: The History of Trinity Theological College, 1948–2005_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12797436) (Singapore: Trinity Theological College, 2006). (From National Library Singapore, call no. RSING 230.07115957 AT)
 
-\[1\] [_At the Crossroads_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12797436)_._
+[^22]: [_At the Crossroads_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12797436)_._
 
-\[1\] [_At the Crossroads_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12797436)_._
+[^23]: [_At the Crossroads_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12797436)_._
 
-\[1\] S.R. Anderson and C. Stanley Smith, _The Anderson-Smith Report on Theological Education in Southeast Asia: Especially As It Relates to the Training of Chinese for the Christian Ministry: The Report of a Survey Commission, 1951–1952_ (New York: Nanking Seminary Board of Founders, 1952), 25.
+[^24]: S.R. Anderson and C. Stanley Smith, _The Anderson-Smith Report on Theological Education in Southeast Asia: Especially As It Relates to the Training of Chinese for the Christian Ministry: The Report of a Survey Commission, 1951–1952_ (New York: Nanking Seminary Board of Founders, 1952), 25.
 
-\[1\] Anderson and Smith, _The Anderson-Smith Report on Theological Education in Southeast Asia_, 25.
+[^25]: Anderson and Smith, _The Anderson-Smith Report on Theological Education in Southeast Asia_, 25.
 
-\[1\] Trinity Theological College (Singapore), [_Progress Report from Trinity Theological College, Singapore_](https://eservice.nlb.gov.sg/redir/item_holding.aspx?bid=200039371) (Singapore: Trinity Theological College, 1966). (From PublicationSG)
+[^26]: Trinity Theological College (Singapore), [_Progress Report from Trinity Theological College, Singapore_](https://eservice.nlb.gov.sg/redir/item_holding.aspx?bid=200039371) (Singapore: Trinity Theological College, 1966). (From PublicationSG)
 
-\[1\] Conference of British Missionary Societies, “[Conference of British Missionary Societies: University of Malaya: \[d\] Trinity College, Singapore, 1951–1958](https://www.nas.gov.sg/archivesonline/private_records/record-details/e185d639-115b-11e3-83d5-0050568939ad),” J. W. Decker to Norman Goodall, 27 March 1951, private records. (From National Archives of Singapore, microfilm no. NAF 00020/1)
+[^27]: Conference of British Missionary Societies, “[Conference of British Missionary Societies: University of Malaya: \[d\] Trinity College, Singapore, 1951–1958](https://www.nas.gov.sg/archivesonline/private_records/record-details/e185d639-115b-11e3-83d5-0050568939ad),” J. W. Decker to Norman Goodall, 27 March 1951, private records. (From National Archives of Singapore, microfilm no. NAF 00020/1)
 
-\[1\] Conference of British Missionary Societies, “[Conference of British Missionary Societies: University of Malaya: \[d\] Trinity College, Singapore, 1951–1958](https://www.nas.gov.sg/archivesonline/private_records/record-details/e185d639-115b-11e3-83d5-0050568939ad),” Robin Woods to Harry K. Johnston, 3 September 1951, private records. (From National Archives of Singapore, microfilm no. NAF 00020/1)
+[^28]: Conference of British Missionary Societies, “[Conference of British Missionary Societies: University of Malaya: \[d\] Trinity College, Singapore, 1951–1958](https://www.nas.gov.sg/archivesonline/private_records/record-details/e185d639-115b-11e3-83d5-0050568939ad),” Robin Woods to Harry K. Johnston, 3 September 1951, private records. (From National Archives of Singapore, microfilm no. NAF 00020/1)
 
-\[1\] Anderson and Smith, _The Anderson-Smith Report on Theological Education in Southeast Asia_, 27.
+[^29]: Anderson and Smith, _The Anderson-Smith Report on Theological Education in Southeast Asia_, 27.
 
-\[1\] [_At the Crossroads_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12797436), 54.
+[^30]: [_At the Crossroads_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12797436), 54.
 
-\[1\] This included an initial three-year period of representation on the Board of Governors to shape the direction of the institution.
+[^31]: This included an initial three-year period of representation on the Board of Governors to shape the direction of the institution.
 
-\[1\] Poon, “[Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202423008),” 595.
+[^32]: Poon, “[Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202423008),” 595.
 
-\[1\] Lau Jen Sin 刘纫馨, ed., _An zhi ting lan de dui hua : zhang lao hui fu nü shi feng de su miao_ [岸芷汀兰的对话: 长老会妇女事奉的素描](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13845388) \[A pleasing fragrance : a portrait of the presbyterian women ministry\] (新加坡: 基督教新加坡长老会华文中会妇女事工委员会, 2011). (From National Library Singapore call no. Chinese R 285.25957 PLE)
+[^33]: Lau Jen Sin 刘纫馨, ed., _An zhi ting lan de dui hua : zhang lao hui fu nü shi feng de su miao_ [岸芷汀兰的对话: 长老会妇女事奉的素描](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13845388) \[A pleasing fragrance : a portrait of the presbyterian women ministry\] (新加坡: 基督教新加坡长老会华文中会妇女事工委员会, 2011). (From National Library Singapore call no. Chinese R 285.25957 PLE)
 
-\[1\] Rev Dr. Timothy Chow.
+[^34]: Rev Dr. Timothy Chow.
 
-\[1\] Lyall and Steed to Stanley Dixon, 12 October 1951.
+[^35]: Lyall and Steed to Stanley Dixon, 12 October 1951.
 
-\[1\] Joshua Dao-Wei Sim. “Captivating God’s Heart: A History of Independent Christianity, Fundamentalism and Gender in Chin Lien Bible Seminary,” (master’s thesis, national University of Singapore, 2015)
+[^36]: Joshua Dao-Wei Sim. “Captivating God’s Heart: A History of Independent Christianity, Fundamentalism and Gender in Chin Lien Bible Seminary,” (master’s thesis, national University of Singapore, 2015)
 
-\[1\] Conference of British Missionary Societies, “[Conference of British Missionary Societies: Malaya Christian Council: \[a\] Entry of China Inland Mission, 1951–1952](https://www.nas.gov.sg/archivesonline/private_records/record-details/e18530df-115b-11e3-83d5-0050568939ad),” Quek Keng Hoon to Harry K. Johnston, 15 November 1951, private records. (From National Archives of Singapore, microfilm no. NAF 00015)
+[^37]: Conference of British Missionary Societies, “[Conference of British Missionary Societies: Malaya Christian Council: \[a\] Entry of China Inland Mission, 1951–1952](https://www.nas.gov.sg/archivesonline/private_records/record-details/e18530df-115b-11e3-83d5-0050568939ad),” Quek Keng Hoon to Harry K. Johnston, 15 November 1951, private records. (From National Archives of Singapore, microfilm no. NAF 00015)
 
-\[1\] _Jia Sheng_[嘉聲](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200021164) no. 33 (1 May 1971)
+[^38]: _Jia Sheng_[嘉聲](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200021164) no. 33 (1 May 1971)
 
-\[1\] Joshua Dao-Wei Sim, “Bringing Chinese Christianity to Southeast Asia: Constructing Transnational Chinese Evangelicalism across China and Southeast Asia, 1930s–1960s,” _Religions_ 13, no. 9 (2022)
+[^39]: Joshua Dao-Wei Sim, “Bringing Chinese Christianity to Southeast Asia: Constructing Transnational Chinese Evangelicalism across China and Southeast Asia, 1930s–1960s,” _Religions_ 13, no. 9 (2022)
 
-\[1\] Singapore Bible College, [_Singapore Bible College 25: Silver Jubilee and New Building Dedication Souvenir_](https://eresources.nlb.gov.sg/publicationsg/details.html?uuid=870f039d-d6b7-4600-9dbb-4dab0555097c) (Singapore Bible College, 1979). (From PublicationSG)
+[^40]: Singapore Bible College, [_Singapore Bible College 25: Silver Jubilee and New Building Dedication Souvenir_](https://eresources.nlb.gov.sg/publicationsg/details.html?uuid=870f039d-d6b7-4600-9dbb-4dab0555097c) (Singapore Bible College, 1979). (From PublicationSG)
 
-\[1\] Peter Lim, “Calvin Chao and His Leadership of the China Native Evangelism Crusade (C.N.E.C.) Between 1943 and 1946: A Narrative Inquiry” (Ph.D. Diss, Gonzaga University, 2009)
+[^41]: Peter Lim, “Calvin Chao and His Leadership of the China Native Evangelism Crusade (C.N.E.C.) Between 1943 and 1946: A Narrative Inquiry” (Ph.D. Diss, Gonzaga University, 2009)
 
-\[1\] “A Brief History of the College, 1952–65,” _Jia Sheng_[嘉聲](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200021164) (\[1955\]-). Proposed Extension project, December 1965.
+[^42]: “A Brief History of the College, 1952–65,” _Jia Sheng_[嘉聲](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200021164) (\[1955\]-). Proposed Extension project, December 1965.
 
-\[1\] Anderson and Smith, _The Anderson-Smith Report on Theological Education in Southeast Asia_, 12.
+[^43]: Anderson and Smith, _The Anderson-Smith Report on Theological Education in Southeast Asia_, 12.
 
-\[1\] Anderson and Smith, _The Anderson-Smith Report on Theological Education in Southeast Asia_, 12.
+[^44]: Anderson and Smith, _The Anderson-Smith Report on Theological Education in Southeast Asia_, 12.
 
-\[1\] In the College’s fundraising materials in 1969 for the building extension, it noted four major sources of support whom finances could be directed: the college, Overseas Missionary Fellowship (Previously China Inland Mission), Chinese Native Evangelical Crusade (CNEC), Chinese For Christ, Inc.
+[^45]: In the College’s fundraising materials in 1969 for the building extension, it noted four major sources of support whom finances could be directed: the college, Overseas Missionary Fellowship (Previously China Inland Mission), Chinese Native Evangelical Crusade (CNEC), Chinese For Christ, Inc.
 
-\[1\] Ironically, it was purchased from the MCC, which had previously used the two bungalows as a Christian Center affiliated with the University of Malaya. Despite its initial intention to cultivate a space where secular and religious thinking could coexist in community, disinterest of local church groups to sponsor the Christian Center left it underfunded and ultimately defunct by 1958. The SBC subsequently had very little interaction with the secular university across the road. See for instance: University of Malaya, “[Christian Hostel Centre from Malayan Christian Council, 1952–1957](https://www.nas.gov.sg/archivesonline/government_records/record-details/10161878-115a-11e3-83d5-0050568939ad),” William Fleming to Sidney Caine, 25 September 1952, government records. (From National Archives of Singapore, microfilm no. AM 052; record reference no. U.M. 154/52)
+[^46]: Ironically, it was purchased from the MCC, which had previously used the two bungalows as a Christian Center affiliated with the University of Malaya. Despite its initial intention to cultivate a space where secular and religious thinking could coexist in community, disinterest of local church groups to sponsor the Christian Center left it underfunded and ultimately defunct by 1958. The SBC subsequently had very little interaction with the secular university across the road. See for instance: University of Malaya, “[Christian Hostel Centre from Malayan Christian Council, 1952–1957](https://www.nas.gov.sg/archivesonline/government_records/record-details/10161878-115a-11e3-83d5-0050568939ad),” William Fleming to Sidney Caine, 25 September 1952, government records. (From National Archives of Singapore, microfilm no. AM 052; record reference no. U.M. 154/52)
 
-\[1\] For example, the libraries at Singapore Bible College still retain an extensive collection of what Chinese evangelical publications published and circulated from Hong Kong, Taiwan, and the United States. These include: _shengming yuekan_ (Life Monthly) published by China Evangelical Fellowship in Hong Kong, _dengta (lighthouse)_ published in Hong Kong by the China Inland Mission / Overseas Missionary Fellowship_, zhongxin yuekan (China Christian Monthly),_ published by the Chinese Christian Mission in Petaluma, California. For an elaboration of Chinese evangelical networks in the mid-20th-century, see: Sim, “Bringing Chinese Christianity to Southeast Asia, 773.
+[^47]: For example, the libraries at Singapore Bible College still retain an extensive collection of what Chinese evangelical publications published and circulated from Hong Kong, Taiwan, and the United States. These include: _shengming yuekan_ (Life Monthly) published by China Evangelical Fellowship in Hong Kong, _dengta (lighthouse)_ published in Hong Kong by the China Inland Mission / Overseas Missionary Fellowship_, zhongxin yuekan (China Christian Monthly),_ published by the Chinese Christian Mission in Petaluma, California. For an elaboration of Chinese evangelical networks in the mid-20th-century, see: Sim, “Bringing Chinese Christianity to Southeast Asia, 773.
 
-\[1\] “Our Milestones 2015,” Trinity Theological College, 2016, https://www.ttc.edu.sg/english/about/our-milestones/.
+[^48]: “Our Milestones 2015,” Trinity Theological College, 2016, https://www.ttc.edu.sg/english/about/our-milestones/.
 
-\[1\] [_At the Crossroads_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12797436)_._ The consultation of September 1993, on the theme of Asia-Pacific Era and the Challenges of the East Asia Chinese Churches, produced the first direct agreement which CCC had with seminaries outside China, relating to postgraduate training with scholarships for faculty development. As the Rev Lee Chong Kau, then principal of Trinity College would note, this was incidentally undertaken by a leadership who were all graduates of Nanyang University -- Lee himself, Bishop John Chew of the Anglican Church, and the Lutheran Choong Chee Pang.
+[^49]: [_At the Crossroads_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12797436)_._ The consultation of September 1993, on the theme of Asia-Pacific Era and the Challenges of the East Asia Chinese Churches, produced the first direct agreement which CCC had with seminaries outside China, relating to postgraduate training with scholarships for faculty development. As the Rev Lee Chong Kau, then principal of Trinity College would note, this was incidentally undertaken by a leadership who were all graduates of Nanyang University -- Lee himself, Bishop John Chew of the Anglican Church, and the Lutheran Choong Chee Pang.
 
-\[1\] Poon, “[Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202423008),” 69, cites the exemplary case of this as their cooperation in organising the John Sung evangelistic rallies which took place from 1935-40. For a more detailed account of the John Song revivals in Singapore, China, and elsewhere, see Daryl Ireland, _John Song: Chinese Christianity and the Making of a New Man_ (Waco, TX: Baylor University Press, 2020)
+[^50]: Poon, “[Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202423008),” 69, cites the exemplary case of this as their cooperation in organising the John Sung evangelistic rallies which took place from 1935-40. For a more detailed account of the John Song revivals in Singapore, China, and elsewhere, see Daryl Ireland, _John Song: Chinese Christianity and the Making of a New Man_ (Waco, TX: Baylor University Press, 2020)
 
-\[1\] Thus Calvin Chao, for instance, a Chinese evangelist on the payroll of an American organisation, could rhetorically claim to support anticolonial sentiments of the ICU, even as he too, was to various extent embedded in other networks of influence.
+[^51]: Thus Calvin Chao, for instance, a Chinese evangelist on the payroll of an American organisation, could rhetorically claim to support anticolonial sentiments of the ICU, even as he too, was to various extent embedded in other networks of influence.
 
-\[1\] Jean DeBernardi, “Chrsitian Culture and the Antioch of Asia,” in Lai Ah Eng, ed., [_Religious Diversity in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13068782) (Singapore: ISEAS Publishing, 2008) (From National Library Singapore, call no. RSING 200.95957 REL)
+[^52]: Jean DeBernardi, “Chrsitian Culture and the Antioch of Asia,” in Lai Ah Eng, ed., [_Religious Diversity in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13068782) (Singapore: ISEAS Publishing, 2008) (From National Library Singapore, call no. RSING 200.95957 REL)
