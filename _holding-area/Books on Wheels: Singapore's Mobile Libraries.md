@@ -12,27 +12,27 @@ By Gracie Lee
 <div style="background-color:white;">Big Molly in the carpark next to Block 53 Marine Terrace, 30 March 2025.  <i>Photo by Jimmy Yap.</i></div>
 
 
-On 31 January 1959, the Singapore Constitution Exposition opened at the former Kallang Airport to much fanfare. The two-month-long event was organised to celebrate the establishment of the State of Singapore and the new Constitution, a major milestone in Singapore’s transition to full internal self-government.1
+On 31 January 1959, the Singapore Constitution Exposition opened at the former Kallang Airport to much fanfare. The two-month-long event was organised to celebrate the establishment of the State of Singapore and the new Constitution, a major milestone in Singapore’s transition to full internal self-government.[^1]
 
-Among the 600 exhibitors from commercial and government sectors, an unexpected attraction made its public debut: the Raffles National Library’s mobile library van, which had been converted from a decommissioned army bus.2 Together with part-time branch libraries, the mobile library service was part of the library’s efforts to reach residents in outlying areas.&nbsp;
+Among the 600 exhibitors from commercial and government sectors, an unexpected attraction made its public debut: the Raffles National Library’s mobile library van, which had been converted from a decommissioned army bus.[^2] Together with part-time branch libraries, the mobile library service was part of the library’s efforts to reach residents in outlying areas.&nbsp;
 
 #### **Plans for a Mobile Library Service**
 
-Efforts to modernise the Raffles Library (renamed Raffles National Library in 1958 and National Library in 1960) began in the mid-1950s ahead of its redesignation as a national library. These included a new National Library building on Stamford Road slated for completion in 1960, and the formation of the Library Extension Services comprising a mobile library service and part-time branch libraries.3 (In 1956, the government had approved a mobile library service to “determine the needs of branch libraries”.4)
+Efforts to modernise the Raffles Library (renamed Raffles National Library in 1958 and National Library in 1960) began in the mid-1950s ahead of its redesignation as a national library. These included a new National Library building on Stamford Road slated for completion in 1960, and the formation of the Library Extension Services comprising a mobile library service and part-time branch libraries.[^3] (In 1956, the government had approved a mobile library service to “determine the needs of branch libraries”.[^4])
 
-The mobile van showcased at the exposition was procured through a United Nations Educational, Scientific and Cultural Organization (UNESCO) grant of US$2,000 in 1957 that was specifically designated for establishing mobile libraries for children. In addition to the van, the fleet also included two trailers that the library bought in 1958.5
+The mobile van showcased at the exposition was procured through a United Nations Educational, Scientific and Cultural Organization (UNESCO) grant of US$2,000 in 1957 that was specifically designated for establishing mobile libraries for children. In addition to the van, the fleet also included two trailers that the library bought in 1958.[^5]
 
-The plan then was to dispatch these roving libraries to densely populated urban districts such as Tiong Bahru and Queenstown as well as to rural areas like Changi. “\[The mobile libraries\] will cater more for the non-English speaking people, for whom there were no adequate public library services at present,” Minister for Culture S. Rajaratnam told the _Straits Times_.6
+The plan then was to dispatch these roving libraries to densely populated urban districts such as Tiong Bahru and Queenstown as well as to rural areas like Changi. “\[The mobile libraries\] will cater more for the non-English speaking people, for whom there were no adequate public library services at present,” Minister for Culture S. Rajaratnam told the _Straits Times_.[^6]
 
-&nbsp;Although the mobile library made its first public appearance in 1959, it was not immediately put to use due to the lack of qualified staff to drive and operate it. By then, it had become evident that the facilities at the Junior Library of the Raffles National Library were woefully inadequate to cope with the surge in borrowers after membership fees were abolished.7 In the first two months of 1958 alone, new children’s memberships tripled compared to the same period the previous year. The initial four months of 1959 saw a 69 percent increase in books borrowed by youths compared to the same period the year before. The demand was great as more than half of the population were under the age of 20 in 1957.8
+&nbsp;Although the mobile library made its first public appearance in 1959, it was not immediately put to use due to the lack of qualified staff to drive and operate it. By then, it had become evident that the facilities at the Junior Library of the Raffles National Library were woefully inadequate to cope with the surge in borrowers after membership fees were abolished.[^7] In the first two months of 1958 alone, new children’s memberships tripled compared to the same period the previous year. The initial four months of 1959 saw a 69 percent increase in books borrowed by youths compared to the same period the year before. The demand was great as more than half of the population were under the age of 20 in 1957.[^8]
 
 #### **The Mobile Library Service Begins&nbsp;**
 
-In April 1960, Hedwig Anuar from the University of Malaya Library in Kuala Lumpur was seconded to the Raffles National Library in Singapore to oversee the opening of the new National Library building. Under her watch as director, the mobile library van finally took to the roads on 6 September 1960.9
+In April 1960, Hedwig Anuar from the University of Malaya Library in Kuala Lumpur was seconded to the Raffles National Library in Singapore to oversee the opening of the new National Library building. Under her watch as director, the mobile library van finally took to the roads on 6 September 1960.[^9]
 
-After taking office, Anuar faced the closure of two of the four part-time branch libraries in Upper Serangoon and Yio Chu Kang when their premises were requisitioned by other government ministries. These closures affected the students who regularly used these branches and placed additional strain on the already overburdened library services at the National Library. In response, Anuar expedited the roll-out of the mobile library service to fill the void left by the closures and reach children in rural areas.10
+After taking office, Anuar faced the closure of two of the four part-time branch libraries in Upper Serangoon and Yio Chu Kang when their premises were requisitioned by other government ministries. These closures affected the students who regularly used these branches and placed additional strain on the already overburdened library services at the National Library. In response, Anuar expedited the roll-out of the mobile library service to fill the void left by the closures and reach children in rural areas.[^10]
 
-The mobile library’s maiden trip was to schools in the Naval Base area of Nee Soon. In the first two weeks, the van visited 37 schools in the outlying districts of Nee Soon, Sembawang, Jurong, Bukit Panjang and Tampines.11 The distinctive cream-coloured van, with the licence plate SG 184 and “Raffles National Library – UNESCO” painted on its livery, could hold up to 2,000 books in English, Malay, Chinese and Tamil.12
+The mobile library’s maiden trip was to schools in the Naval Base area of Nee Soon. In the first two weeks, the van visited 37 schools in the outlying districts of Nee Soon, Sembawang, Jurong, Bukit Panjang and Tampines.[^11] The distinctive cream-coloured van, with the licence plate SG 184 and “Raffles National Library – UNESCO” painted on its livery, could hold up to 2,000 books in English, Malay, Chinese and Tamil.[^12]
 
 “The response to the mobile library is overwhelming,” said Anuar. “About 300 more children than the expected 2,000 have registered as members since it was started.” The library announced plans to conduct fortnightly visits and to gradually extend the service to other schools. By 1962, the mobile library service boasted a membership of 5,000.13
 
@@ -113,3 +113,95 @@ _Note: For more photos of the mobile libraries, visit biblioasia.nlb.gov.sg._
 	
 
 #### **Notes**
+
+[^1]: 
+
+[^2]: 
+
+[^3]: 
+
+[^4]: 
+
+[^5]: 
+
+[^6]: 
+
+[^7]: 
+
+[^8]: 
+
+[^9]: 
+
+[^10]: 
+
+
+
+[^11]: 
+
+[^12]: 
+
+[^13]: 
+
+[^14]: 
+
+[^15]: 
+
+[^16]: 
+
+[^17]: 
+
+[^18]: 
+
+[^19]: 
+
+[^20]: 
+
+
+
+[^21]: 
+
+[^22]: 
+
+[^23]: 
+
+[^24]: 
+
+[^25]: 
+
+[^26]: 
+
+[^27]: 
+
+[^28]: 
+
+[^29]: 
+
+[^30]: 
+
+
+
+[^31]: 
+
+[^32]: 
+
+[^33]: 
+
+[^34]: 
+
+[^35]: 
+
+[^36]: 
+
+[^37]: 
+
+[^38]: 
+
+[^39]: 
+
+[^40]: 
+
+
+[^41]: 
+
+[^42]: 
+
