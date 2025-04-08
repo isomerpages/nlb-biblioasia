@@ -4,10 +4,10 @@ permalink: /holding-area/in-search-of-silvestr/
 variant: markdown
 description: ""
 ---
-#### **Sparked by a box of old family documents, Jan Beránek embarked on an eight-year quest from a small Czech village to modern Singapore to uncover the life of his granduncle who died during the Japanese invasion of Singapore.**
+#### **Sparked by a box of old family documents, Jan Beránek embarked on an eight-year quest that brough him from a small Czech village to modern Singapore to uncover the life of his granduncle who died during the Japanese invasion of Singapore.**
 By Jan Beránek
 
-In 2017, my mother showed me a box of old family documents. Among them was a bundle of papers related to Silvestr Němec – my granduncle. Within those pages lay parts of the story of my granduncle’s life. Silvestr was from a small Czech village in central Europe and on 31 December 1938 was sent thousands of miles away to Singapore by his employer, the Bata Shoe Company. Three years later, during the Japanese invasion of Singapore in 1942, he went missing and was presumed dead at the age of only 22.
+In 2017, my mother showed me a box of old family documents. Among them was a bundle of papers related to Silvestr Němec – my granduncle. Within those pages lay parts of the story of my granduncle’s life. Silvestr was from a small Czech v illage in central Europe and on 31 December 1938 was sent thousands of miles away to Singapore by his employer, the Bata Shoe Company. Three years later, during the Japanese invasion of Singapore in 1942, he went missing and was presumed dead at the age of only 22.
 
 <div style="background-color: white;">
 <br>
@@ -15,7 +15,7 @@ In 2017, my mother showed me a box of old family documents. Among them was a bun
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/In%20Search%20of%20Silvestr/1.jpg" style="width: 60%;">Silvestr Němec in February 1938.<i> Courtesy of Jan Beránek.</i></div>
+<img src="/images/Online%20Only%20Articles/In%20Search%20of%20Silvestr/1.jpg" style="width: 45%;">Silvestr Němec in February 1938.<i> Courtesy of Jan Beránek.</i></div>
 
 My family never learnt what happened to him, and I decided to find out more. Thus began my eight-year quest, driven by curiosity and the desire to gain some closure over Silvestr’s fate. Thanks to a dedicated blog I set up, I received useful tips and made new contacts. I joined the Malayan Volunteers Group, an association of the descendants of volunteers in British Malaya. Through searches in archives across several cities and countries (such as London, Prague, Znojmo, Zlín and Singapore), helped by historians from all over and the descendants of Silvestr’s colleagues and friends, I gathered an incredible amount of insight and information on the life of my granduncle.
 
@@ -25,7 +25,7 @@ When I pieced all the disparate information together, a fascinating, colourful a
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/In%20Search%20of%20Silvestr/cover.jpg" style="width: 50%;">Jan Beránek’s _In Search of Silvestr_ is a culmination of eight years of research and writing.</div>
+<img src="/images/Online%20Only%20Articles/In%20Search%20of%20Silvestr/cover.jpg" style="width: 50%;">Jan Beránek’s <i>In Search of Silvestr</i> is a culmination of eight years of research and writing.</div>
 
 #### **The Bata Shoe Company**
 
@@ -53,17 +53,17 @@ One of my unexpected findings was that the Czechoslovak community in Singapore w
 
 As the war spread through Europe, some young men – including Silvestr’s colleagues and friends from Bata – returned to join the Czechoslovak army in France to fight for their country, alongside the French and British. Most, however, stayed in Singapore.
 
-Those that remained were not idle. The Czechoslovaks supported the Allied war efforts in many different ways, such as organising charity events and contributing to war funds. Many local newspaper articles mention the Bata Shoe Company , and also name individuals – including Silvestr.
+Those that remained were not idle. The Czechoslovaks supported the Allied war efforts in many different ways, such as organising charity events and contributing to war funds. Many local newspaper articles mention the Bata Shoe Company, and also name individuals – including Silvestr.
 
 Most of the Czechoslovak men who remained in Singapore joined the Singapore Volunteer Corps: either the Straits Settlements Volunteer Force (SSVF) or the Local Defence Corps. Silvestr had quite an unusual assignment as he served with the Armoured Cars Company (which was attached to the First Battalion of the SSVF). I found rich details (in local newspapers, SSVF yearbooks and several personal diaries) about the volunteers’ training, preparations and even some personal reflections in diaries and letters. One of the hot topics of the day was the difference in pay received by British and European volunteers versus Eurasians and Asians. Such racial discrimination, also observed during training, was an alien concept and puzzling to the Bata Czechoslovaks with their egalitarian ethos.
 
-As the Japanese attacked British Malaya, the war eventually reached what had been painted as “Impregnable Fortress Singapore”. In February 1942, 12 Czechoslovak volunteers, my granduncle Silvestr among them, participated in the historic battle on Pasir Panjang Ridge, alongside Second Lieutenant&nbsp;_Adnan_&nbsp;Saidi and the Malay Regiment. This was where my granduncle was last seen, and where we lose his tracks. He was mostly likely wounded and taken to Alexandra Hospital, where he would have fallen victim to the infamous massacre carried out by Japanese troops on defenceless patients and medical staff.[^4]
+As the Japanese attacked British Malaya, the war eventually reached what had been painted as “Impregnable Fortress Singapore”. In February 1942, 12 Czechoslovak volunteers, my granduncle Silvestr among them, participated in the historic battle on Pasir Panjang Ridge, alongside Second Lieutenant&nbsp;Adnan&nbsp;Saidi and the Malay Regiment. This was where my granduncle was last seen, and where we lose his tracks. He was mostly likely wounded and taken to Alexandra Hospital, where he would have fallen victim to the infamous massacre carried out by Japanese troops on defenceless patients and medical staff.[^4]
 
 After the surrender of Singapore, the Japanese were unsure how to treat the Czechoslovaks. Were they allies because Nazi Germany now occupied their country? Or were they, as an active part of the British colony, Japanese enemies? Eventually, those who did not manage to evacuate and evade capture were rounded up in December 1943 and locked up in Changi and Sime Road internment camps until they were liberated a year and half later.
 
 During the Japanese invasion and Occupation, no less than 10 Czechoslovaks in Singapore lost their lives.
 
-I never thought that my personal quest to discover the fate of my granduncle would bloom into a much larger and richer story of Bata Shoe Company, the Czechoslovak community and the volunteer forces in Singapore. My search began in the small market town of _Vémyslice_ in the South Moravian Region of _Czech_oslovakia and spanned the globe, ending in modern Singapore where Silvestr lived and probably died.
+I never thought that my personal quest to discover the fate of my granduncle would bloom into a much larger and richer story of Bata Shoe Company, the Czechoslovak community and the volunteer forces in Singapore. My search began in the small market town of Vémyslice in the South Moravian Region of Czechoslovakia and spanned the globe, ending in modern Singapore where Silvestr lived and probably died.
 
 <div style="background-color: white;">
 <img style="width: 100px; height: 100px;" src="/images/Online%20Only%20Articles/In%20Search%20of%20Silvestr/author_pic.jpg">
