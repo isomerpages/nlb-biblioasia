@@ -115,19 +115,18 @@ The idea of a mobile library service was too good to be mothballed forever thoug
 Molly, retrofitted from a former SBS transit bus, was installed with modern library technology such as borrowing stations and e-kiosks for onboard transactions. It was the world’s first fully wireless-enabled mobile library bus where transactions could be carried out digitally. The bus, which carried approximately 3,000 books, made visits to special-education schools, homes and orphanages, welfare homes and volunteer welfare organisations. Beyond lending books, Molly offered storytelling sessions and user education workshops, and participated in community outreach events. In its first year of operations, Molly served 45,114 visitors from 17 special needs schools, 16 homes and orphanages and 30 primary schools. In 2011, the Molly bus was retired and replaced the following year with an upgraded model that had iPads with e-books and a wheelchair ramp.[^40]
 
 With donations from the Kwan Im Thong Hood Cho Temple, the service expanded in May 2014 with two mini mobile library vans, known as Mini Mollys. These scaled-down versions of the Molly bus can hold up to 1,500 books and navigate narrow driveways and parking lots in small housing estates. They primarily serve kindergartens and childcare centres in housing estates as well as welfare homes that could not be reached by the bigger Molly. During these visits, children’s activities such as storytelling, arts and craft workshops and sing-along sessions are also conducted. Each year, Mini Mollys bring books and library programmes to 48,000 children from 160 preschools.[^41]
+	
+![](/images/Vol%2021%20Issue%202/Books%20on%20Wheels/image_8.png)
+<div style="background-color:white;">A storytelling session in Mini Molly, 2014. <i>Collection of the National Library Board.</i></div>
 
 In September 2016, a new vehicle known as “Big Molly”, also sponsored by the temple, replaced the 2012 Molly bus which was decommissioned. This newer version carries up to 3,000 books and features enhanced accessibility, including a hydraulic wheelchair lift to serve wheelchair users and book stations placed at a lower height for children to borrow and return books on their own. Today, Big Molly visits special needs schools, homes and orphanages, welfare homes, lower-income groups and housing estates. It also conducts weekend outreach events in residential estates across Singapore.[^42]
 
-  
-
 _Note: For more photos of the mobile libraries, visit biblioasia.nlb.gov.sg._
-
-
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/vol-17-issue-3/authors/Rebecca%20Tan---.png">
-	<b>Gracie Lee</b> is a Senior Librarian with the National Library Singapore. She enjoys uncovering and sharing the stories behind Singapore’s printed heritage. </div>
+<img style="width: 100px; height: 100px;" src="/images/vol-17-issue-3/authors/Gracie%20Lee.png">
+<b>Gracie Lee</b> is a Senior Librarian with the National Library Singapore. She enjoys uncovering and sharing the stories behind Singapore’s printed heritage. </div>
 	
 
 #### **Notes**
