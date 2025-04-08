@@ -246,7 +246,7 @@ In 2001, the SYO was renamed the Singapore National Youth Orchestra (SNYO). Its 
 
 [^20]:  Zubillaga-Pow, “[The Unlikely Composer: Tsao Chieh](https://biblioasia.nlb.gov.sg/vol-9/issue-4/jan-march-2014/tsao-chieh-singapore-composer/).”
 
-[^21\[1\]](#_ftnref1) “[Youth Orchestra to Embark on the Ascent](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19870803-1.2.26.4),” _Business Times_, 23 August 1987, 10. (From NewspaperSG)
+[^21]:  “[Youth Orchestra to Embark on the Ascent](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19870803-1.2.26.4),” _Business Times_, 23 August 1987, 10. (From NewspaperSG)
 
 [^22]:  “Yan Win Wing,” Braddell Heights Symphony Orchestra, accessed 22 October 2024, [https://bhso.org/conductor-emeritus/](https://bhso.org/conductor-emeritus/).
 
