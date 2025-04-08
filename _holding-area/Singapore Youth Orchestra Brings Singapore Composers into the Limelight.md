@@ -204,16 +204,6 @@ In 2001, the SYO was renamed the Singapore National Youth Orchestra (SNYO). Its 
 <img style="width: 100px; height: 100px;" src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/Vivien_Goh.png">
 	Since 1969, violinist <b>Vivien Goh</b> has had a varied career as performer and teacher in Singapore. She was the founder-conductor of the Singapore Youth Orchestra from 1980 to1990 and is currently an adjunct faculty at the School of the Arts.</div>  
 
-  
-
-
-
-  
-
-
-
-* * *
-
 #### **Notes**
 
 [^1]:  Wong Sher Maine and Viven Goh, _[Rehearsal for Life Singapore Youth Orchestra 1980-1990](https://eservice.nlb.gov.sg/item_holding.aspx?bid=202255010)_ (Singapore: Vivien Goh, 2015), 105. (From National Library, Singapore, call no. R 784.2095957 WON)
