@@ -78,7 +78,7 @@ The mobile library service reached its peak between 1969 and 1973, operating 12 
 
 The library staff enjoyed interacting with users of the mobile library service. “All the people who worked on the mobile library used to say they enjoyed it because the children would be so excited at having books brought to their doorstep,” said Anuar. The mobile service, being a novelty, was popular with residents. “\[F\]or a lot of the rural people, it was the first time that they ever had access to books because they couldn’t really afford to buy books. So I think that was a big thing.” A _Straits Times_ article in 1979 recounted that “hordes of children \[would\] start gathering as the time approaches and there \[would be\] mad rush to be at the head of the queue when the \[mobile library\] van arrives”.[^25]
 
-#### **Mobile Library Operations **
+#### **Mobile Library Operations**
 
 In contrast to the earlier mobile library service that toured schools, the revived mobile library service operated weekly visits to community centres, mostly in the afternoon or evening.[^26]
 
