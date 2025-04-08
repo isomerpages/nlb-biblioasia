@@ -22,5 +22,3 @@ In 2017, my mother showed me a box of old family documents. Among them was a bun
 
 
 #### **Notes**
-
-
