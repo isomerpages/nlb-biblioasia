@@ -114,14 +114,14 @@ _Note: For more photos of the mobile libraries, visit biblioasia.nlb.gov.sg._
 
 #### **Notes**
 
-[^1]: “Exposition a ‘Mirror,’ Says the Governor,” _Straits Times_, 7 February 1959, 9. (From NewspaperSG)
+[^1]: “[Exposition a ‘Mirror,’ Says the Governor](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19590207-1.2.102),” _Straits Times_, 7 February 1959, 9. (From NewspaperSG)
 
 
-[^2]: “Library Tells It in Colour,” _Sunday Tiger Standard_, 18 January 1959, 3; “Mock Election at the Exposition,” _Singapore Tiger Standard_, 3 February 1959, 6; “Mobile Libraries Await Staff,” _Sunday Times_, 29 March 1959, 4 (From NewspaperSG); Department of Information Services, Singapore, _Singapore Constitution Exposition, Jan–Feb, 1959: Souvenir Number_ (Singapore: Department of Information Services, 1959), 33–57. (From National Library Singapore, call no. RCLOS 959.51 SIN)
+[^2]: “[Library Tells It in Colour](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19590118-1.2.29),” _Sunday Tiger Standard_, 18 January 1959, 3; “[Mock Election at the Exposition](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19590203-1.2.81),” _Singapore Tiger Standard_, 3 February 1959, 6; “[Mobile Libraries Await Staff](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19590329-1.2.24),” _Sunday Times_, 29 March 1959, 4 (From NewspaperSG); Department of Information Services, Singapore, [_Singapore Constitution Exposition, Jan–Feb, 1959: Souvenir Number_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4588805) (Singapore: Department of Information Services, 1959), 33–57. (From National Library Singapore, call no. RCLOS 959.51 SIN)
 
-[^3]: “Expansion of S’pore Library Services,” _Sunday Standard_, 23 March 1958, 3; “Free Library,” _Straits Times_, 14 September 1957, 8. (From NewspaperSG);&nbsp;
+[^3]: “[Expansion of S’pore Library Services](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaystandard19580323-1.2.28),” _Sunday Standard_, 23 March 1958, 3; “[Free Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19570914-1.2.86),” _Straits Times_, 14 September 1957, 8. (From NewspaperSG);&nbsp;
 
-[^4]: “New Library Will Still Be Raffles’s,” _Straits Times_, 1 August 1956, 8; “National Library for S’pore,” _Singapore Standard_, 1 August 1956, 2. (From NewspaperSG)
+[^4]: “[New Library Will Still Be Raffles’s](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19560801-1.2.109),” _Straits Times_, 1 August 1956, 8; “[National Library for S’pore](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19560801-1.2.28),” _Singapore Standard_, 1 August 1956, 2. (From NewspaperSG)
 
 [^5]: Chistine Diemer, “They All Want To Read,” _Sunday Standard_, 1 June 1958, 4; “National Library to Expand Asian Section,” _Singapore Free Press_, 8 September 1959, 3 (From NewspaperSG); National Library Singapore, _Annual Report 1966_ (Singapore: National Library, 1968), 10. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR)
 
