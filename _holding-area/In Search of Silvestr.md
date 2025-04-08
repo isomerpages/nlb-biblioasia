@@ -25,7 +25,25 @@ When I pieced all the disparate information together, a fascinating, colourful a
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/In%20Search%20of%20Silvestr/cover.jpg" style="width: 60%;">Jan Beránek’s _In Search of Silvestr_ is a culmination of eight years of research and writing.</div>
+<img src="/images/Online%20Only%20Articles/In%20Search%20of%20Silvestr/cover.jpg" style="width: 50%;">Jan Beránek’s _In Search of Silvestr_ is a culmination of eight years of research and writing.</div>
+
+#### **The Bata Shoe Company**
+
+My granduncle Silvestr went to Singapore at a very young age, with a mission to establish and develop the business of the Bata Shoe Company in Southeast Asia. Many might mistake Bata for a local company, but it started as a family business in Czechoslovakia in 1894.
+
+Tomas Bata, its founder, had visited Singapore on a business trip in January 1932. During that trip, he announced his vision “to serve Malaya’s five million pairs of feet”.[^2] Bata Shoe Company was registered in Singapore in 1931 and opened its flagship store at Capitol in February that same year. In 1934, it purchased a rubber plantation in Bukit Tiga in Johore, Malaysia, and three years later launched a large factory in Klang. In 1939, it opened another factory in Singapore and inaugurated its own modern building (which hosted a shoe store, offices and accommodation for Bata workers) on North Bridge Road in 1940. By 1941, Bata was running 150 stores, distribution centres and service points across British Malaya and Singapore.[^3] I had no idea that the Bata Shoe Company had been so successful globally.
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/In%20Search%20of%20Silvestr/3.jpg" style="width: 80%;">The steam roller used to modernise the main road of Vémyslice. The house on the left is Silvestr’s home, and the man on the far right is Silvestr’s father. Silvestr is very likely the boy in the hat on the extreme right.<i> Courtesy of Jan Beránek.</i></div>
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/In%20Search%20of%20Silvestr/4.jpg" style="width: 80%;">Bata’s flagship store at Capitol Theatre in 1934.<i> Courtesy of Jan Beránek.</i></div>
+
+  
+
+
 
   
 
@@ -38,3 +56,7 @@ When I pieced all the disparate information together, a fascinating, colourful a
 #### **Notes**
 
 [^1]:  See _[Bata 1931-1951: 20 Years of Progress in Malaya](https://catalogue.nlb.gov.sg/search/card?recordId=4407209)_ (Singapore: G. H. Kiat, 1951). (From National Library Singapore, call no. RSING 685.3065 BAT)
+
+[\[1\]](#_ftnref1) “[To Serve Malaya’s Five Million Pairs of Feet](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19400201-1.2.15),” _Singapore Free Press and Mercantile Advertiser (1884-1942)_, 1 February 1940, 2. (From NewspaperSG).
+
+[\[2\]](#_ftnref2) Jan Beránek, _In Search of Silvester_ (Singapore: Landmark Books, 2025), 73.
