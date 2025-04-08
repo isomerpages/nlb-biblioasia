@@ -200,6 +200,10 @@ Every commission by the SYO to create a new work provided an essential and impor
 
 In 2001, the SYO was renamed the Singapore National Youth Orchestra (SNYO). Its principal conductor has been Joshua Tan since 2018. In 2015, the SNYO came under the purview of the Ministry of Culture, Community and Youth. A year later, the Singapore Symphony Group took full operational and management control of the SNYO. Today, the SYO comprises the SNYO and the Singapore National Youth Sinfonia (under the baton of Seow Yibin). It has more than 180 members from more than 60 schools across Singapore and continues its mission to nurture and develop young local talent.
 
+<div style="background-color: white;">
+<img style="width: 100px; height: 100px;" src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/Vivien_Goh.png">
+	Since 1969, violinist <b>Vivien Goh</b> has had a varied career as performer and teacher in Singapore. She was the founder-conductor of the Singapore Youth Orchestra from 1980 to1990 and is currently an adjunct faculty at the School of the Arts.</div>  
+
   
 
 
