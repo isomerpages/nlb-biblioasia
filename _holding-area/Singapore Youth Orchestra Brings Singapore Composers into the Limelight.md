@@ -196,6 +196,10 @@ Of the work, Sharpley said “I believe that there is some extraordinary way we 
 <br>
 <img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/John_Sharpley.png" style="width: 50%;">John Sharpley. <i> Image reproduced from Singapore Youth Orchestra: Thursday 3rd August 1989, 8.00pm, Victoria Concert Hall (Singapore: Singapore Youth Orchestra, 1985). (From National Library, Singapore, call no. RCLOS EPHE 0917 V1.1).</i></div>
 
+Every commission by the SYO to create a new work provided an essential and important opportunity for local composers to write for a full symphonic orchestra and have their works performed. Many of the pieces, such as Leong’s “Dance Suite”, Tsao Chieh’s “Stasis” and Bernard Tan's “Symphony no. 1”, were also performed on other occasions. These commissions were milestones in each composer’s development and contributed to the development of Singapore’s orchestral landscape.
+
+In 2001, the SYO was renamed the Singapore National Youth Orchestra (SNYO). Its principal conductor has been Joshua Tan since 2018. In 2015, the SNYO came under the purview of the Ministry of Culture, Community and Youth. A year later, the Singapore Symphony Group took full operational and management control of the SNYO. Today, the SYO comprises the SNYO and the Singapore National Youth Sinfonia (under the baton of Seow Yibin). It has more than 180 members from more than 60 schools across Singapore and continues its mission to nurture and develop young local talent.
+
   
 
 
