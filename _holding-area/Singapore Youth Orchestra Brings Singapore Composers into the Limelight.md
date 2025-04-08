@@ -188,6 +188,14 @@ The performance included “bird whistles, a whip, a siren”, “with Asian inf
 
 Of the work, Sharpley said “I believe that there is some extraordinary way we are all on a sojourn, or temporary stay. This is punctuated by three ‘events’ in time, birth, life, death. The first movement, _Unfolding_, is a meditation on birth, this process of being… The contrasting second movement, _Burlesque_, explores a world of humour and satire: by-products, no doubt, from ‘everyday life’... The last movement, _Journey’s End_ is contemplation, on transcendence, the dropping of illusion. In such a manner, the three movements of Sojourn are progressive (as opposed to cyclic).”[^38]
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/SYO_3_Aug_1989_programme.png" style="width: 60%;">Singapore Youth Orchestra 3 August 1989 programme.<i> Image reproduced from Singapore Youth Orchestra: Thursday 3rd August 1989, 8.00pm, Victoria Concert Hall (Singapore: Singapore Youth Orchestra, 1985). (From National Library, Singapore, call no. RCLOS EPHE 0917 V1.1).</i></div>
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/John_Sharpley.png" style="width: 50%;">John Sharpley. <i> Image reproduced from Singapore Youth Orchestra: Thursday 3rd August 1989, 8.00pm, Victoria Concert Hall (Singapore: Singapore Youth Orchestra, 1985). (From National Library, Singapore, call no. RCLOS EPHE 0917 V1.1).</i></div>
+
   
 
 
