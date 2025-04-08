@@ -63,7 +63,7 @@ After the surrender of Singapore, the Japanese were unsure how to treat the Czec
 
 During the Japanese invasion and Occupation, no less than 10 Czechoslovaks in Singapore lost their lives.
 
-I never thought that my personal quest to discover the fate of my granduncle would bloom into a much larger and richer story of Bata Shoe Company, the Czechoslovak community and the volunteer forces in Singapore. My search began in the small market town of _Vémyslice_ in the South Moravian Region of _Czech_oslovakia and spanned the globe, ending in modern Singapore where Silvestr lived and probably died.
+I never thought that my personal quest to discover the fate of my granduncle would bloom into a much larger and richer story of Bata Shoe Company, the Czechoslovak community and the volunteer forces in Singapore. My search began in the small market town of Vémyslice in the South Moravian Region of Czechoslovakia and spanned the globe, ending in modern Singapore where Silvestr lived and probably died.
 
 <div style="background-color: white;">
 <img style="width: 100px; height: 100px;" src="/images/Online%20Only%20Articles/In%20Search%20of%20Silvestr/author_pic.jpg">
