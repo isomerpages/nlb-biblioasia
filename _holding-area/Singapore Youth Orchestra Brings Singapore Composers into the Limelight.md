@@ -166,7 +166,7 @@ Lim was among the first batch of graduates (1959) from Nanyang University (now N
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/lim_chin_tiong.png" style="width: 60%;">Lim Chin Tiong, 1985.<i> Source: Straits Times, 5 November 1985 © SPH Media Limited. Permission required for reproduction.</i></div>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/lim_chin_tiong.png" style="width: 80%;">Lim Chin Tiong, 1985.<i> Source: Straits Times, 5 November 1985 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 #### **“Singapore Suite” by David Campbell (1984)**
 
