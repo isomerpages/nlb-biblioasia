@@ -137,11 +137,11 @@ _Note: For more photos of the mobile libraries, visit biblioasia.nlb.gov.sg._
 
 
 
-[^11]: “New Mobile Library Service to Schools”; Lydia Aroozoo, “The Reading Habit at Your Doorstep: Library on Wheels Gets a Big Welcome at the Rural Schools,” _Singapore Free Press_, 21 September 1960, 7. (From NewspaperSG)
+[^11]: “[New Mobile Library Service to Schools](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19600905-1.2.103)”; Lydia Aroozoo, “[The Reading Habit at Your Doorstep: Library on Wheels Gets a Big Welcome at the Rural Schools](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19600921-1.2.76),” _Singapore Free Press_, 21 September 1960, 7. (From NewspaperSG)
 
-[^12]: Aroozoo, “The Reading Habit at Your Doorstep”; National Library Board, _Moments in Time: Memories of the National Library_ (Singapore: National Library Board Singapore, 2004), 23. (From National Library Singapore, call no. RSING 027.5095957 MOM-\[LIB\])
+[^12]: Aroozoo, “[The Reading Habit at Your Doorstep](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19600921-1.2.76)”; National Library Board, [_Moments in Time: Memories of the National Library_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12409209) (Singapore: National Library Board Singapore, 2004), 23. (From National Library Singapore, call no. RSING 027.5095957 MOM-\[LIB\])
 
-[^13]: “New Mobile Library Service to Schools”; Lydia Aroozoo. “The Reading Habit at Your Doorstep: Library on Wheels Gets a Big Welcome at the Rural Schools,” _Singapore Free Press_, 21 September 1960, 7; Hedwig Anuar, “Singapore’s National Library,” _Straits Times Annual_, 1 January 1962, 58-59. (From NewspaperSG)
+[^13]: “[New Mobile Library Service to Schools](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19600905-1.2.103)”; Lydia Aroozoo. “[The Reading Habit at Your Doorstep: Library on Wheels Gets a Big Welcome at the Rural Schools](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19600921-1.2.76),” _Singapore Free Press_, 21 September 1960, 7; Hedwig Anuar, “[Singapore’s National Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/stannual19620101-1.2.45),” _Straits Times Annual_, 1 January 1962, 58-59. (From NewspaperSG)
 
 [^14]: Koh Boon Long, oral history interview by Jason Lim, 19 August 2011, Reel/Disc 3 of 36, National Archives of Singapore (accession no. 003625), 00:46.
 
