@@ -71,7 +71,7 @@ Cheang Hong Lim died on 11 February 1893, leaving a considerable fortune both in
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/Ancestral_tablet.jpg" style="width: 55%;">Cheang Hong Lim’s ancestral tablet, the names on the left are of his children, c. 1978.<i> Ronni Pinsler Collection, courtesy of National Archives of Singapore.</i></div>
+<img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/Ancestral_tablet.jpg" style="width: 45%;">Cheang Hong Lim’s ancestral tablet, the names on the left are of his children, c. 1978.<i> Ronni Pinsler Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **End of an Era**
 
