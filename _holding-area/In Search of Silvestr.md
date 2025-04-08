@@ -65,6 +65,10 @@ During the Japanese invasion and Occupation, no less than 10 Czechoslovaks in Si
 
 I never thought that my personal quest to discover the fate of my granduncle would bloom into a much larger and richer story of Bata Shoe Company, the Czechoslovak community and the volunteer forces in Singapore. My search began in the small market town of _Vémyslice_ in the South Moravian Region of _Czech_oslovakia and spanned the globe, ending in modern Singapore where Silvestr lived and probably died.
 
+<div style="background-color: white;">
+<img style="width: 100px; height: 100px;" src="/images/Online%20Only%20Articles/In%20Search%20of%20Silvestr/author_pic.jpg">
+	Since 1969, violinist <b>Vivien Goh</b> has had a varied career as performer and teacher in Singapore. She was the founder-conductor of the Singapore Youth Orchestra from 1980 to1990 and is currently an adjunct faculty at the School of the Arts.</div>  
+
   
 
 
