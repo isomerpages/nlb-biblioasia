@@ -146,7 +146,6 @@ De Souza was a self-taught musician. At the age of 17, he took formal piano less
 
 De Souza has composed over a hundred school songs and written countless arrangements for piano, brass and symphonic band. One of his great achievements was to have one of his compositions (“Say You’ll Always Be Mine”) chosen for the semifinals of the World Popular Song Festival held in Japan in 1975. In 1985, he worked on a project to arrange and record a collection of songs for schools, including “Undaunted”. He was among those honoured at the 1985 National Day Awards with an Efficiency Medal.
 
-
 <div style="background-color: white;">
 <br>
 <img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/score.jpg" style="width: 60%;">Music score for “Sentosa”, 1980.<i> Courtesy of _Vivien Goh.</i></div>
@@ -164,6 +163,10 @@ De Souza has composed over a hundred school songs and written countless arrangem
 Lim Chin Tiong (1937?–) took four years to compose “Salute”, his first orchestral work. The resulting symphonic suite is neither descriptive of local scenery nor society. Rather, it is a vehicle through which Lim tries to convey his thoughts and feelings for Singapore and to express his love for his homeland in four movements. “The first movement depicts my ideal country… The second is about the people, their happy and peaceful way of life. The third is about our heritage, while the last movement depicts hope for a peaceful future.” The SYO premiered the work on 1 March 1987.[^33]
 
 Lim was among the first batch of graduates (1959) from Nanyang University (now Nanyang Technological University of Singapore). He spent six years in London studying singing (under Royal Opera House tenor Walter Midgley) and composition (under Professor Frederick Thomas Durrant of the Royal Academy of Music). He returned to Singapore and started accepting students in 1967 in singing, music theory and composition. He has written quartets, incidental music for plays, songs, and cantatas.[^34]
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/lim_chin_tiong.png" style="width: 60%;">Lim Chin Tiong, 1985.<i> Source: Straits Times, 5 November 1985 © SPH Media Limited. Permission required for reproduction.</i></div>
 
   
 
