@@ -23,6 +23,10 @@ One of the most amazing online resources I used was [NewspaperSG](https://eresou
 
 When I pieced all the disparate information together, a fascinating, colourful and detailed picture emerged, not only of Silvestr’s own life and death, but of a whole community of over a hundred Czechoslovaks who lived and worked in Singapore during the 1930s, the Second World War and the postwar years. I put all this together in my book _In Search of Silvestr_ (2025, Landmark Books).
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/In%20Search%20of%20Silvestr/cover.jpg" style="width: 60%;">Jan Beránek’s _In Search of Silvestr_ is a culmination of eight years of research and writing.</div>
+
   
 
 
