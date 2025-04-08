@@ -178,7 +178,7 @@ David Campbell is an American pianist, organist, teacher and composer in the New
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/David_Campbell_SYO.png" style="width: 60%;">Singapore Youth Orchesta 1 April 1984 programme featuring David Campbell’s “Singapore Suite”.<i> Image reproduced from Singapore Youth Orchestra: Sunday 1st April 1984, 5.00pm, Victoria Concert Hall (Singapore: Singapore Youth Orchestra, 1985). (From National Library, Singapore, call no. RCLOS EPHE 0917 V1.29).</i></div>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/David_Campbell_SYO.png" style="width: 80%;">Singapore Youth Orchesta 1 April 1984 programme featuring David Campbell’s “Singapore Suite”.<i> Image reproduced from Singapore Youth Orchestra: Sunday 1st April 1984, 5.00pm, Victoria Concert Hall (Singapore: Singapore Youth Orchestra, 1985). (From National Library, Singapore, call no. RCLOS EPHE 0917 V1.29).</i></div>
 
   
 
