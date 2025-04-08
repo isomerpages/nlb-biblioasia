@@ -157,15 +157,13 @@ _Note: For more photos of the mobile libraries, visit biblioasia.nlb.gov.sg._
 
 [^20]: National Library Singapore, [_Annual Report 1963–1965_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3408747), 7; National Library Singapore, [_Annual Report 1965_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3408747) (Singapore: National Library, 1967), 11. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); National Library Singapore, [_Annual Report 1966_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3408747), 2, 9.
 
-
-
 [^21]: National Library Singapore, [_Annual Report 1971_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3408747), (Singapore: National Library, 1973), 28. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR);
 
 [^22]: National Library Singapore, [_Annual Report 1967_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3408747) (Singapore: National Library, 1969), 14. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR)
 
-[^23]: National Library Singapore, _Annual Report 1967_, 2, 14.
+[^23]: National Library Singapore, [_Annual Report 1967_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3408747), 2, 14.
 
-[^24]: National Library Singapore, _Annual Report 1969_ (Singapore: National Library, 1970), 3 (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); National Library Singapore, _Annual Report 1972_ (Singapore: National Library, 1973), 2, 9. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); National Library Singapore, _Annual Report 1973_ (Singapore: National Library, 1974), 12. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); Wong Heng, oral history interview, 12 November 1999, Reel/Disc 6 of 13, 70.
+[^24]: National Library Singapore, [_Annual Report 1969_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3408747) (Singapore: National Library, 1970), 3 (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); National Library Singapore, [_Annual Report 1972_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3408747) (Singapore: National Library, 1973), 2, 9. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); National Library Singapore, [_Annual Report 1973_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3408747) (Singapore: National Library, 1974), 12. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); [Wong Heng](https://www.nas.gov.sg/archivesonline/flipviewer/publish/a/aa1cf1ac-115e-11e3-83d5-0050568939ad-OHC001702_006/web/html5/index.html), oral history interview, 12 November 1999, Reel/Disc 6 of 13, 70.
 
 [^25]: Hedwig Elizabeth Anuar née Aroozoo, oral history interview, 16 October 1998, Reel/Disc 28 of 44, 355; Lee Geok Boi, “Mad Rush When the Library Van Comes,” _Straits Times_, 14 July 1979, 1. (From NewspaperSG)
 
