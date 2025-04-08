@@ -49,6 +49,24 @@ I found the idea of Czechoslovak people driving Bata’s expansion compelling. O
 
 #### **The Czechoslovak Community and the Second World War**
 
+One of my unexpected findings was that the Czechoslovak community in Singapore was painfully divided. Confidential Czech government reports – only recently declassified – document how several factions were fighting each other, fuelled by differences of backgrounds and loyalties. My granduncle Silvestr was no exception. I believe that one of the contributing factors of this schism was the huge stress caused by the occupation of their home country by Nazi Germany from 1938. While there was still peace in British Malaya at this time, the Czechs would have regularly read about the brutal repressions in Czechoslovakia in the local press.
+
+As the war spread through Europe, some young men – including Silvestr’s colleagues and friends from Bata – returned to join the Czechoslovak army in France to fight for their country, alongside the French and British. Most, however, stayed in Singapore.
+
+Those that remained were not idle. The Czechoslovaks supported the Allied war efforts in many different ways, such as organising charity events and contributing to war funds. Many local newspaper articles mention the Bata Shoe Company , and also name individuals – including Silvestr.
+
+Most of the Czechoslovak men who remained in Singapore joined the Singapore Volunteer Corps: either the Straits Settlements Volunteer Force (SSVF) or the Local Defence Corps. Silvestr had quite an unusual assignment as he served with the Armoured Cars Company (which was attached to the First Battalion of the SSVF). I found rich details (in local newspapers, SSVF yearbooks and several personal diaries) about the volunteers’ training, preparations and even some personal reflections in diaries and letters. One of the hot topics of the day was the difference in pay received by British and European volunteers versus Eurasians and Asians. Such racial discrimination, also observed during training, was an alien concept and puzzling to the Bata Czechoslovaks with their egalitarian ethos.
+
+As the Japanese attacked British Malaya, the war eventually reached what had been painted as “Impregnable Fortress Singapore”. In February 1942, 12 Czechoslovak volunteers, my granduncle Silvestr among them, participated in the historic battle on Pasir Panjang Ridge, alongside Second Lieutenant&nbsp;_Adnan_&nbsp;Saidi and the Malay Regiment. This was where my granduncle was last seen, and where we lose his tracks. He was mostly likely wounded and taken to Alexandra Hospital, where he would have fallen victim to the infamous massacre carried out by Japanese troops on defenceless patients and medical staff.[^4]
+
+After the surrender of Singapore, the Japanese were unsure how to treat the Czechoslovaks. Were they allies because Nazi Germany now occupied their country? Or were they, as an active part of the British colony, Japanese enemies? Eventually, those who did not manage to evacuate and evade capture were rounded up in December 1943 and locked up in Changi and Sime Road internment camps until they were liberated a year and half later.
+
+During the Japanese invasion and Occupation, no less than 10 Czechoslovaks in Singapore lost their lives.
+
+I never thought that my personal quest to discover the fate of my granduncle would bloom into a much larger and richer story of Bata Shoe Company, the Czechoslovak community and the volunteer forces in Singapore. My search began in the small market town of _Vémyslice_ in the South Moravian Region of _Czech_oslovakia and spanned the globe, ending in modern Singapore where Silvestr lived and probably died.
+
+  
+
 
   
 
@@ -66,6 +84,8 @@ I found the idea of Czechoslovak people driving Bata’s expansion compelling. O
 
 [^1]:  See _[Bata 1931-1951: 20 Years of Progress in Malaya](https://catalogue.nlb.gov.sg/search/card?recordId=4407209)_ (Singapore: G. H. Kiat, 1951). (From National Library Singapore, call no. RSING 685.3065 BAT)
 
-[\[1\]](#_ftnref1) “[To Serve Malaya’s Five Million Pairs of Feet](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19400201-1.2.15),” _Singapore Free Press and Mercantile Advertiser (1884-1942)_, 1 February 1940, 2. (From NewspaperSG).
+[^2]:  “[To Serve Malaya’s Five Million Pairs of Feet](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19400201-1.2.15),” _Singapore Free Press and Mercantile Advertiser (1884-1942)_, 1 February 1940, 2. (From NewspaperSG).
 
-[\[2\]](#_ftnref2) Jan Beránek, _In Search of Silvester_ (Singapore: Landmark Books, 2025), 73.
+[^3]:  Jan Beránek, _In Search of Silvester_ (Singapore: Landmark Books, 2025), 73.
+
+[^4]:  In my book I consider other possibilities of how he might have lost his life, and also share previously unknown, first-hand witness accounts of several Czechoslovaks about the impending Japanese invasion and the horrors of the bombardment of Singapore.
