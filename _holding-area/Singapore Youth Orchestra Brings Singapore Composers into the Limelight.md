@@ -180,16 +180,15 @@ David Campbell is an American pianist, organist, teacher and composer in the New
 <br>
 <img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/David_Campbell_SYO.png" style="width: 80%;">Singapore Youth Orchesta 1 April 1984 programme featuring David Campbell’s “Singapore Suite”.<i> Image reproduced from Singapore Youth Orchestra: Sunday 1st April 1984, 5.00pm, Victoria Concert Hall (Singapore: Singapore Youth Orchestra, 1985). (From National Library, Singapore, call no. RCLOS EPHE 0917 V1.29).</i></div>
 
+#### **“Sojourn” by John Sharpley (1988)**
+
+Texas-born John Sharpley (1956-) had a comprehensive and varied education in both the United States and Europe. He came to Singapore in 1990 as Director of the Boston University Music Programme (at that time associated with Yamaha Music School). During his stay in Singapore, he composed for groups such as the People’s Association, NUS Symphonic Band, Singapore Guitar Society, and the Singapore Dance Theatre. “Sojourn” was commissioned by the SYO in 1989 and premiered on 1 August 1989 at the Victoria Concert Hall.
+
+The performance included “bird whistles, a whip, a siren”, “with Asian influence in the melody and the gamelan effect”. Sharpley’s piece also called for unusual percussion instruments such as “the guiro (a South American gourd-like instrument), temple blocks and a harp”. [^37]
+
+Of the work, Sharpley said “I believe that there is some extraordinary way we are all on a sojourn, or temporary stay. This is punctuated by three ‘events’ in time, birth, life, death. The first movement, _Unfolding_, is a meditation on birth, this process of being… The contrasting second movement, _Burlesque_, explores a world of humour and satire: by-products, no doubt, from ‘everyday life’... The last movement, _Journey’s End_ is contemplation, on transcendence, the dropping of illusion. In such a manner, the three movements of Sojourn are progressive (as opposed to cyclic).”[^38]
+
   
-
-
-
-  
-
-
-
-  
-
 
 
 
@@ -272,3 +271,7 @@ David Campbell is an American pianist, organist, teacher and composer in the New
 [^35]:  Ilene Aleshire, “[Crowd Applauds ‘Singapore Suite’ Premiere](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19840402-1.2.18.5),” _Straits Times_, 2 April 1984, 8. (From NewspaperSG)
 
 [^36]:  “Singapore Suite – David Campbell,” _[Singapore Youth Orchestra Sunday 1st April 1984, 5.00PM, Victoria Concert Hall](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12460772)_ (Singapore: Singapore Youth Orchestra, n.d.), ephemera. (From National Library Singapore, RCLOS EPHE O917 V1.29)
+
+[^37]:  Mary Rajkumar, “[Premiere that Could be a Last Bow](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19890802-1.2.59.7.4),” _Straits Times_, 2 August 1989, 4. (From NewspaperSG)
+
+[^38]:  John Shapley, “Programme Notes,” in _[Singapore Youth Orchestra Concert Programme](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12460772)_ (Singapore: Singapore Youth Orchestara, 1 August 1989), n.p., ephemera. (From National Library Singapore, RCLOS EPHE O917)
