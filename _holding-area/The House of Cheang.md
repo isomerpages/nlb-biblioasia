@@ -63,7 +63,7 @@ The trial lasted five days. Cheang Hong Guan was the principal witness. The case
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/fortnight_summary_linked.jpg" style="width: 70%;">Newspaper excerpt of Cheang Hong Lim’s trial. He had been accused by his younger brother for forging their father’s will. He was acquitted and his brother jailed.<i> Source: “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18720427-1.2.4">[Fortnight’s Summary]</a>,” Straits Times, 27 April 1872 © SPH Media Limited. Permission required for reproduction.</i></div>
+<img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/fortnight_summary_linkedRev.jpg" style="width: 70%;">Newspaper excerpt of Cheang Hong Lim’s trial. He had been accused by his younger brother for forging their father’s will. He was acquitted and his brother jailed.<i> Source: “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18720427-1.2.4">[Fortnight’s Summary]</a>,” Straits Times, 27 April 1872 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 After 1879, the farm changed hands again. The new opium farmer alleged that the losers were smuggling opium to undermine their monopoly. Cheang Hong Lim was accused of being part of this so-called “Opium Conspiracy”. In 1883, he was removed as a Justice of the Peace due to these allegations.[^31] An article was published in the _Straits Intelligence_ on 24 February 1883 giving vent to the allegations of conspiracy. Cheang Hong Lim responded in a very Singaporean way – he sued for defamation. Technically, he instituted a private prosecution for criminal defamation to be heard by the Police Magistrate.[^32]&nbsp;There is no record of the result, but the _Straits Intelligence_ disappears after that. Cheang Hong Lim was vindicated and reinstated as a Justice of the Peace in 1887.[^33]
 
@@ -71,7 +71,7 @@ Cheang Hong Lim died on 11 February 1893, leaving a considerable fortune both in
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/Ancestral_tablet.jpg" style="width: 55%;">Cheang Hong Lim’s ancestral tablet, the names on the left are of his children, c. 1978.<i> Ronni Pinsler Collection, courtesy of National Archives of Singapore.</i></div>
+<img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/Ancestral_tablet.jpg" style="width: 45%;">Cheang Hong Lim’s ancestral tablet, the names on the left are of his children, c. 1978.<i> Ronni Pinsler Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **End of an Era**
 

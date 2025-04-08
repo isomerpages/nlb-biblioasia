@@ -146,7 +146,6 @@ De Souza was a self-taught musician. At the age of 17, he took formal piano less
 
 De Souza has composed over a hundred school songs and written countless arrangements for piano, brass and symphonic band. One of his great achievements was to have one of his compositions (“Say You’ll Always Be Mine”) chosen for the semifinals of the World Popular Song Festival held in Japan in 1975. In 1985, he worked on a project to arrange and record a collection of songs for schools, including “Undaunted”. He was among those honoured at the 1985 National Day Awards with an Efficiency Medal.
 
-
 <div style="background-color: white;">
 <br>
 <img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/score.jpg" style="width: 60%;">Music score for “Sentosa”, 1980.<i> Courtesy of _Vivien Goh.</i></div>
@@ -165,20 +164,45 @@ Lim Chin Tiong (1937?–) took four years to compose “Salute”, his first orc
 
 Lim was among the first batch of graduates (1959) from Nanyang University (now Nanyang Technological University of Singapore). He spent six years in London studying singing (under Royal Opera House tenor Walter Midgley) and composition (under Professor Frederick Thomas Durrant of the Royal Academy of Music). He returned to Singapore and started accepting students in 1967 in singing, music theory and composition. He has written quartets, incidental music for plays, songs, and cantatas.[^34]
 
-  
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/lim_chin_tiong.png" style="width: 80%;">Lim Chin Tiong, 1985.<i> Source: Straits Times, 5 November 1985 © SPH Media Limited. Permission required for reproduction.</i></div>
 
+#### **“Singapore Suite” by David Campbell (1984)**
 
+David Campbell is an American pianist, organist, teacher and composer in the New York area. He graduated from Florida State University and served on the music faculties of the City University of New York, and Brooklyn College.
 
-  
+“Singapore Suite” was written in February 1983 during Campbell’s first visit to the country. It was conceived as a musical postcard album of the various sights and sounds he experienced. Each of the six movements was an homage to the city, such as “Serangoon”, “Chinatown”, “SAF on Parade”, and “Sentosa Reverie”. As the first bars of “Singapore Suite” were played, there was confusion in the audience, “\[but\] gradually it became clear to them. Those random notes were the sounds of Singapore stirring to life in the morning… By the conclusion, \[they\] were enthusiastically applauding…”[^35]
 
+“Singapore Suite” was premiered on 1 April 1984 at Victoria Concert Hall and was dedicated to Campbell’s wife, Christina Soh Kee Mei, as well as the people of Singapore.[^36]
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/David_Campbell_SYO.png" style="width: 80%;">Singapore Youth Orchesta 1 April 1984 programme featuring David Campbell’s “Singapore Suite”.<i> Image reproduced from Singapore Youth Orchestra: Sunday 1st April 1984, 5.00pm, Victoria Concert Hall (Singapore: Singapore Youth Orchestra, 1985). (From National Library, Singapore, call no. RCLOS EPHE 0917 V1.29).</i></div>
 
+#### **“Sojourn” by John Sharpley (1988)**
 
-  
+Texas-born John Sharpley (1956-) had a comprehensive and varied education in both the United States and Europe. He came to Singapore in 1990 as Director of the Boston University Music Programme (at that time associated with Yamaha Music School). During his stay in Singapore, he composed for groups such as the People’s Association, NUS Symphonic Band, Singapore Guitar Society, and the Singapore Dance Theatre. “Sojourn” was commissioned by the SYO in 1989 and premiered on 1 August 1989 at the Victoria Concert Hall.
 
+The performance included “bird whistles, a whip, a siren”, “with Asian influence in the melody and the gamelan effect”. Sharpley’s piece also called for unusual percussion instruments such as “the guiro (a South American gourd-like instrument), temple blocks and a harp”. [^37]
 
+Of the work, Sharpley said “I believe that there is some extraordinary way we are all on a sojourn, or temporary stay. This is punctuated by three ‘events’ in time, birth, life, death. The first movement, _Unfolding_, is a meditation on birth, this process of being… The contrasting second movement, _Burlesque_, explores a world of humour and satire: by-products, no doubt, from ‘everyday life’... The last movement, _Journey’s End_ is contemplation, on transcendence, the dropping of illusion. In such a manner, the three movements of Sojourn are progressive (as opposed to cyclic).”[^38]
 
-* * *
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/SYO_3_Aug_1989_programme.png" style="width: 60%;">Singapore Youth Orchestra 3 August 1989 programme.<i> Image reproduced from Singapore Youth Orchestra: Thursday 3rd August 1989, 8.00pm, Victoria Concert Hall (Singapore: Singapore Youth Orchestra, 1985). (From National Library, Singapore, call no. RCLOS EPHE 0917 V1.1).</i></div>
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/John_Sharpley.png" style="width: 50%;">John Sharpley. <i> Image reproduced from Singapore Youth Orchestra: Thursday 3rd August 1989, 8.00pm, Victoria Concert Hall (Singapore: Singapore Youth Orchestra, 1985). (From National Library, Singapore, call no. RCLOS EPHE 0917 V1.1).</i></div>
+
+Every commission by the SYO to create a new work provided an essential and important opportunity for local composers to write for a full symphonic orchestra and have their works performed. Many of the pieces, such as Leong’s “Dance Suite”, Tsao Chieh’s “Stasis” and Bernard Tan's “Symphony no. 1”, were also performed on other occasions. These commissions were milestones in each composer’s development and contributed to the development of Singapore’s orchestral landscape.
+
+In 2001, the SYO was renamed the Singapore National Youth Orchestra (SNYO). Its principal conductor has been Joshua Tan since 2018. In 2015, the SNYO came under the purview of the Ministry of Culture, Community and Youth. A year later, the Singapore Symphony Group took full operational and management control of the SNYO. Today, the SYO comprises the SNYO and the Singapore National Youth Sinfonia (under the baton of Seow Yibin). It has more than 180 members from more than 60 schools across Singapore and continues its mission to nurture and develop young local talent.
+
+<div style="background-color: white;">
+<img style="width: 100px; height: 100px;" src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/Vivien_Goh.png">
+	Since 1969, violinist <b>Vivien Goh</b> has had a varied career as performer and teacher in Singapore. She was the founder-conductor of the Singapore Youth Orchestra from 1980 to1990 and is currently an adjunct faculty at the School of the Arts.</div>  
 
 #### **Notes**
 
@@ -249,3 +273,11 @@ Lim was among the first batch of graduates (1959) from Nanyang University (now N
 [^33]:  Koh, “[Love Notes for the Island Nation](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19870228-1.2.23.6.1).”
 
 [^34]:  Koh, “[Love Notes for the Island Nation](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19870228-1.2.23.6.1).”
+
+[^35]:  Ilene Aleshire, “[Crowd Applauds ‘Singapore Suite’ Premiere](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19840402-1.2.18.5),” _Straits Times_, 2 April 1984, 8. (From NewspaperSG)
+
+[^36]:  “Singapore Suite – David Campbell,” _[Singapore Youth Orchestra Sunday 1st April 1984, 5.00PM, Victoria Concert Hall](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12460772)_ (Singapore: Singapore Youth Orchestra, n.d.), ephemera. (From National Library Singapore, RCLOS EPHE O917 V1.29)
+
+[^37]:  Mary Rajkumar, “[Premiere that Could be a Last Bow](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19890802-1.2.59.7.4),” _Straits Times_, 2 August 1989, 4. (From NewspaperSG)
+
+[^38]:  John Shapley, “Programme Notes,” in _[Singapore Youth Orchestra Concert Programme](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12460772)_ (Singapore: Singapore Youth Orchestara, 1 August 1989), n.p., ephemera. (From National Library Singapore, RCLOS EPHE O917)

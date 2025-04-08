@@ -1,4 +1,6 @@
 collections:
   holding-area-coa-2024:
     output: true
-    order: []
+    order:
+      - "Leaving China, Discovering Asia: Ex China Missionaries and Singapore as
+        Cold War “Christian Hub”.md"
