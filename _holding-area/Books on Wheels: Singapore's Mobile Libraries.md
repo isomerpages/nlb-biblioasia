@@ -143,25 +143,25 @@ _Note: For more photos of the mobile libraries, visit biblioasia.nlb.gov.sg._
 
 [^13]: “[New Mobile Library Service to Schools](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19600905-1.2.103)”; Lydia Aroozoo. “[The Reading Habit at Your Doorstep: Library on Wheels Gets a Big Welcome at the Rural Schools](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19600921-1.2.76),” _Singapore Free Press_, 21 September 1960, 7; Hedwig Anuar, “[Singapore’s National Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/stannual19620101-1.2.45),” _Straits Times Annual_, 1 January 1962, 58-59. (From NewspaperSG)
 
-[^14]: Koh Boon Long, oral history interview by Jason Lim, 19 August 2011, Reel/Disc 3 of 36, National Archives of Singapore (accession no. 003625), 00:46.
+[^14]: Koh Boon Long, oral history interview by Jason Lim, 19 August 2011, Reel/Disc 3 of 36, National Archives of Singapore ([accession no. 003625](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/003625)), 00:46.
 
-[^15]: Douglas Koh Bee Chuan, oral history interview by Jason Lim, 31 October 2002, MP3 audio, Reel/Disc 5 of 10, National Archives of Singapore (accession no. 002368), 17:13.
+[^15]: Douglas Koh Bee Chuan, oral history interview by Jason Lim, 31 October 2002, MP3 audio, Reel/Disc 5 of 10, National Archives of Singapore ([accession no. 002368](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/002368)), 17:13.
 
-[^16]: Wong Heng, oral history interview by Jason Lim, 12 November 1999, transcript and MP3 audio, Reel/Disc 6 of 13, National Archives of Singapore (accession no. 001702), 71–72.
+[^16]: Wong Heng, oral history interview by Jason Lim, 12 November 1999, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/a/aa1cf1ac-115e-11e3-83d5-0050568939ad-OHC001702_006/web/html5/index.html) and MP3 audio, Reel/Disc 6 of 13, National Archives of Singapore ([accession no. 001702](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/001702)), 71–72.
 
-[^17]: National Library Board Singapore, _Report: 5th December 1960 to 30th September 1963_, 5, Appendix VII.
+[^17]: National Library Board Singapore, [_Report: 5th December 1960 to 30th September 1963_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3408747), 5, Appendix VII.
 
-[^18]: “Miss Taylor’s 3 Hopes for S’pore Library,” _Straits Times_, 1 August 1964, 13. (From NewspaperSG); Hedwig Elizabeth Anuar née Aroozoo, oral history interview by Jesley Chua Chee Huan, 16 October 1998, transcript and MP3 audio, Reel/Disc 28 of 44, National Archives of Singapore (accession no. 002036), 356.
+[^18]: “[Miss Taylor’s 3 Hopes for S’pore Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19640801-1.2.126),” _Straits Times_, 1 August 1964, 13. (From NewspaperSG); Hedwig Elizabeth Anuar née Aroozoo, oral history interview by Jesley Chua Chee Huan, 16 October 1998, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/3/393e0000-1160-11e3-83d5-0050568939ad-OHC002036_028/web/html5/index.html) and MP3 audio, Reel/Disc 28 of 44, National Archives of Singapore ([accession no. 002036](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/002036)), 356.
 
-[^19]: Hedwig Elizabeth Anuar née Aroozoo, oral history interview, 16 October 1998, Reel/Disc 28 of 44, 353; National Library Board Singapore, _Report for the Period from 1 October 1963 to 30 September 1965_ (Singapore: National Library Board, n.d.), 7. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); National Library Singapore, _Annual Report 1964_ (Singapore: National Library, 1967), 12. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR)
+[^19]: [Hedwig Elizabeth Anuar née Aroozoo](https://www.nas.gov.sg/archivesonline/flipviewer/publish/3/393e0000-1160-11e3-83d5-0050568939ad-OHC002036_028/web/html5/index.html), oral history interview, 16 October 1998, Reel/Disc 28 of 44, 353; National Library Board Singapore, [_Report for the Period from 1 October 1963 to 30 September 1965_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3408747) (Singapore: National Library Board, n.d.), 7. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); National Library Singapore, [_Annual Report 1964_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3408747) (Singapore: National Library, 1967), 12. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR)
 
-[^20]: National Library Singapore, _Annual Report 1963–1965_, 7; National Library Singapore, _Annual Report 1965_ (Singapore: National Library, 1967), 11. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); National Library Singapore, _Annual Report 1966_, 2, 9.
+[^20]: National Library Singapore, [_Annual Report 1963–1965_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3408747), 7; National Library Singapore, [_Annual Report 1965_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3408747) (Singapore: National Library, 1967), 11. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); National Library Singapore, [_Annual Report 1966_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3408747), 2, 9.
 
 
 
-[^21]: National Library Singapore, _Annual Report 1971_, (Singapore: National Library, 1973), 28. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR);
+[^21]: National Library Singapore, [_Annual Report 1971_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3408747), (Singapore: National Library, 1973), 28. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR);
 
-[^22]: National Library Singapore, _Annual Report 1967_ (Singapore: National Library, 1969), 14. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR)
+[^22]: National Library Singapore, [_Annual Report 1967_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3408747) (Singapore: National Library, 1969), 14. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR)
 
 [^23]: National Library Singapore, _Annual Report 1967_, 2, 14.
 
