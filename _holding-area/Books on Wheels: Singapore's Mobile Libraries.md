@@ -114,93 +114,94 @@ _Note: For more photos of the mobile libraries, visit biblioasia.nlb.gov.sg._
 
 #### **Notes**
 
-[^1]: 
-
-[^2]: 
-
-[^3]: 
-
-[^4]: 
-
-[^5]: 
-
-[^6]: 
-
-[^7]: 
-
-[^8]: 
-
-[^9]: 
-
-[^10]: 
+[^1]: “Exposition a ‘Mirror,’ Says the Governor,” _Straits Times_, 7 February 1959, 9. (From NewspaperSG)
 
 
+[^2]: “Library Tells It in Colour,” _Sunday Tiger Standard_, 18 January 1959, 3; “Mock Election at the Exposition,” _Singapore Tiger Standard_, 3 February 1959, 6; “Mobile Libraries Await Staff,” _Sunday Times_, 29 March 1959, 4 (From NewspaperSG); Department of Information Services, Singapore, _Singapore Constitution Exposition, Jan–Feb, 1959: Souvenir Number_ (Singapore: Department of Information Services, 1959), 33–57. (From National Library Singapore, call no. RCLOS 959.51 SIN)
 
-[^11]: 
+[^3]: “Expansion of S’pore Library Services,” _Sunday Standard_, 23 March 1958, 3; “Free Library,” _Straits Times_, 14 September 1957, 8. (From NewspaperSG);&nbsp;
 
-[^12]: 
+[^4]: “New Library Will Still Be Raffles’s,” _Straits Times_, 1 August 1956, 8; “National Library for S’pore,” _Singapore Standard_, 1 August 1956, 2. (From NewspaperSG)
 
-[^13]: 
+[^5]: Chistine Diemer, “They All Want To Read,” _Sunday Standard_, 1 June 1958, 4; “National Library to Expand Asian Section,” _Singapore Free Press_, 8 September 1959, 3 (From NewspaperSG); National Library Singapore, _Annual Report 1966_ (Singapore: National Library, 1968), 10. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR)
 
-[^14]: 
+[^6]: “Value of the Public Library,” _Singapore Tiger Standard_, 22 January 1958, 8; “Three Mobile Libraries for Outlying Areas,” _Straits Times_, 8 January 1960, 4. (From NewspaperSG)
 
-[^15]: 
+[^7]: K.K. Seet, _A Place for the People_ (Singapore: Times Books International, 1983), 120–21. (From National Library Singapore, call no. RSING 027.55957 SEE); National Library Board, Singapore, _Report: 5th December 1960 to 30th September 1963_ (Singapore: Government Printing Office, 1963), 4–5. (From National Library Singapore, call no. RCLOS 027.55957 SIN); “Mobile Libraries Await Staff”; “Rush to Join National Library,” _Singapore Free Press_, 11 April 1958, 5. (From NewspaperSG)
 
-[^16]: 
+[^8]: Diemer, “They All Want To Read”; “Upsurge in Youth’s Love of Reading,” _Singapore Free Press_, 14 July 1959, 10. (From NewspaperSG); Seet, _A Place for the People_, 120; Singapore Department of Statistics, _Report on the Census of Population 1957_ (Singapore: Government Printing Office, 1964), 50. (From National Library Singapore, call no. RCLOS 312.095951 SIN)
 
-[^17]: 
+[^9]: Seet, _A Place for the People_, 120–21; “Library Service on Wheels,” _Straits Times_, 5 September 1960, 7. (From NewspaperSG)
 
-[^18]: 
-
-[^19]: 
-
-[^20]: 
+[^10]: Seet, _A Place for the People_, 120–21; “New Mobile Library Service to Schools,” _Singapore Free Press_, 5 September 1960, 11. (From NewspaperSG)
 
 
 
-[^21]: 
+[^11]: “New Mobile Library Service to Schools”; Lydia Aroozoo, “The Reading Habit at Your Doorstep: Library on Wheels Gets a Big Welcome at the Rural Schools,” _Singapore Free Press_, 21 September 1960, 7. (From NewspaperSG)
 
-[^22]: 
+[^12]: Aroozoo, “The Reading Habit at Your Doorstep”; National Library Board, _Moments in Time: Memories of the National Library_ (Singapore: National Library Board Singapore, 2004), 23. (From National Library Singapore, call no. RSING 027.5095957 MOM-\[LIB\])
 
-[^23]: 
+[^13]: “New Mobile Library Service to Schools”; Lydia Aroozoo. “The Reading Habit at Your Doorstep: Library on Wheels Gets a Big Welcome at the Rural Schools,” _Singapore Free Press_, 21 September 1960, 7; Hedwig Anuar, “Singapore’s National Library,” _Straits Times Annual_, 1 January 1962, 58-59. (From NewspaperSG)
 
-[^24]: 
+[^14]: Koh Boon Long, oral history interview by Jason Lim, 19 August 2011, Reel/Disc 3 of 36, National Archives of Singapore (accession no. 003625), 00:46.
 
-[^25]: 
+[^15]: Douglas Koh Bee Chuan, oral history interview by Jason Lim, 31 October 2002, MP3 audio, Reel/Disc 5 of 10, National Archives of Singapore (accession no. 002368), 17:13.
 
-[^26]: 
+[^16]: Wong Heng, oral history interview by Jason Lim, 12 November 1999, transcript and MP3 audio, Reel/Disc 6 of 13, National Archives of Singapore (accession no. 001702), 71–72.
 
-[^27]: 
+[^17]: National Library Board Singapore, _Report: 5th December 1960 to 30th September 1963_, 5, Appendix VII.
 
-[^28]: 
+[^18]: “Miss Taylor’s 3 Hopes for S’pore Library,” _Straits Times_, 1 August 1964, 13. (From NewspaperSG); Hedwig Elizabeth Anuar née Aroozoo, oral history interview by Jesley Chua Chee Huan, 16 October 1998, transcript and MP3 audio, Reel/Disc 28 of 44, National Archives of Singapore (accession no. 002036), 356.
 
-[^29]: 
+[^19]: Hedwig Elizabeth Anuar née Aroozoo, oral history interview, 16 October 1998, Reel/Disc 28 of 44, 353; National Library Board Singapore, _Report for the Period from 1 October 1963 to 30 September 1965_ (Singapore: National Library Board, n.d.), 7. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); National Library Singapore, _Annual Report 1964_ (Singapore: National Library, 1967), 12. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR)
 
-[^30]: 
-
-
-
-[^31]: 
-
-[^32]: 
-
-[^33]: 
-
-[^34]: 
-
-[^35]: 
-
-[^36]: 
-
-[^37]: 
-
-[^38]: 
-
-[^39]: 
-
-[^40]: 
+[^20]: National Library Singapore, _Annual Report 1963–1965_, 7; National Library Singapore, _Annual Report 1965_ (Singapore: National Library, 1967), 11. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); National Library Singapore, _Annual Report 1966_, 2, 9.
 
 
-[^41]: 
 
-[^42]:
+[^21]: National Library Singapore, _Annual Report 1971_, (Singapore: National Library, 1973), 28. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR);
+
+[^22]: National Library Singapore, _Annual Report 1967_ (Singapore: National Library, 1969), 14. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR)
+
+[^23]: National Library Singapore, _Annual Report 1967_, 2, 14.
+
+[^24]: National Library Singapore, _Annual Report 1969_ (Singapore: National Library, 1970), 3 (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); National Library Singapore, _Annual Report 1972_ (Singapore: National Library, 1973), 2, 9. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); National Library Singapore, _Annual Report 1973_ (Singapore: National Library, 1974), 12. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); Wong Heng, oral history interview, 12 November 1999, Reel/Disc 6 of 13, 70.
+
+[^25]: Hedwig Elizabeth Anuar née Aroozoo, oral history interview, 16 October 1998, Reel/Disc 28 of 44, 355; Lee Geok Boi, “Mad Rush When the Library Van Comes,” _Straits Times_, 14 July 1979, 1. (From NewspaperSG)
+
+[^26]: National Library Board Singapore, _Library Extension Section_ (Singapore: National Library Board, 1966). (From National Library Singapore, call no. RCLOS NC25); _Guide to the National Library_’_s Part-time Branch and Mobile Libraries_ (Singapore: National Library 1978), 6–8. (From PublicationSG)&nbsp;
+
+[^27]: Hedwig Elizabeth Anuar née Aroozoo, oral history interview, 16 October 1998, Reel/Disc 28 of 44, 355; Chan Thye Seng, oral history interview, 10 May 2000, Reel/Disc 8 of 15, 91.
+
+[^28]: Hedwig Elizabeth Anuar née Aroozoo, oral history interview, 16 October 1998, Reel/Disc 28 of 44, 356; Chan Thye Seng, oral history interview, 10 May 2000, Reel/Disc 8 of 15,91.
+
+[^29]: Chan Thye Seng, oral history interview, 10 May 2000, Reel/Disc 8 of 15, 91, 94; Hedwig Elizabeth Anuar née Aroozoo, oral history interview, 16 October 1998, Reel/Disc 28 of 44, 352.
+
+[^30]: National Library Singapore, _Report for the Period April 1978 – March 1979_ (Singapore: National Library, 1979), 11. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR)
+
+
+
+[^31]: Hedwig Elizabeth Anuar née Aroozoo, interview, 16 October 1998, Reel/Disc 28 of 44, 357–58; National Library Singapore, _Annual Report 1967_, 19; National Library Singapore, _Annual Report 1972_, 18.
+
+[^32]: National Library Singapore, _Annual Report 1967_, 14; National Library Singapore, _Annual Report 1969_, 8; National Library Singapore, _Annual Report 1970_ (Singapore: National Library Singapore, 1971), 7. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); National Library Singapore, _Report for the Period January 1975 – March 1976_ (Singapore: National Library, 1976), 8. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR)
+
+[^33]: Chan Thye Seng, “Speaking of… Mobile Memories,” _Singapore Libraries Bulletin_ 11, no. 4 (2001): 2–3. (From National Library Singapore, call no. RSING 020.5 SLB-\[LIB\])
+
+[^34]: Chan “Speaking of… Mobile Memories,” 2–3.&nbsp;
+
+[^35]: Chan Thye Seng, interview, 10 May 2000, Reel/Disc 8 of 15, 93; “New Groupings and Pay for Drivers,” _New Nation_, 20 September 1972, 2. (From NewspaperSG)
+
+[^36]: National Library Singapore, _Annual Report 1973_, 21; National Library Singapore, _Annual Report 1974_ (Singapore: National Library, 1975), 13–14. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR)
+
+[^37]: National Library Singapore, _Report for the Period April 1979 – March 1980_ (Singapore: National Library, 1980), 14–15. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); National Library Singapore, _Report for the Period April 1980 – March 1981_ (Singapore: National Library, 1981), 12. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); “Mobile Library Services to Cease,” _Straits Times_, 6 April 1981, 26. (From NewspaperSG); Ng Cheng Onn, oral history interview by Jason Lim, 13 April 2000, transcript and MP3 audio, Reel/Disc 4 of 17, National Archives of Singapore (accession no. 002274), 41.
+
+[^38]: National Library Singapore, _Report for the Period April 1980 –March 1981_, 12; National Library Singapore, _Report for the Period FY 81 and FY82_ (Singapore: Printed by the Government Printing Office, n.d.), 9. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); National Library Singapore, _Report for the Period April 1990 – March 1991_ (Singapore: National Library, 1991), 5, 48. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); National Library Singapore, _Report for the period April 1991 –March 1992_ (Singapore: National Library, 1992), 49. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR)
+
+[^39]: National Library Board, _Molly_’_s Memories, Milestones and Moments: Celebrating Mobile Library Services in Singapore,_ 6, 33.
+
+[^40]: National Library Board, _Molly_’_s Memories, Milestones and Moments: Celebrating Mobile Library Services in Singapore_, 32–55; Leslie Kay Lim, “Library on Wheels Moves with the Times,” _Straits Times_, 25 February 2012, B4; Benson Ang, “Services on Wheels,” _Straits Times_, 5 April 2015, 3. (From NewspaperSG)
+
+
+[^41]: National Library Board, _National Library Board Annual Report FY 2014/2015_ (Singapore: National Library Board, 2015), https://www.nlb.gov.sg/main/-/media/NLBMedia/Documents/About-Us/Press-Room-Publication/Annual-Reports/AR-2014-15.pdf; “About Molly Mobile Library,” National Library Board, accessed 19 March 2025, https://www.nlb.gov.sg/main/visit-us/public-libraries-singapore/mobile-library-molly; Amelia Teng, “Two More Mobile Libraries Hit the Road,” _Straits Times_, 9 May 2014, 11; Ariel Lim, “‘Mini-Molly’ Mobile Libraries a Runaway Hit,” _Straits Times_, 11 June 2015, 6. (From NewspaperSG)
+
+[^42]: National Library Board, _National Library Board Annual Report FY 2016/2017_ (Singapore: National Library Board, 2017), https://www.nlb.gov.sg/main/-/media/NLBMedia/Documents/About-Us/Press-Room-Publication/Annual-Reports/AR-2016-17.pdf; National Library Board, _National Library Board Annual Report FY 2023/2024_ (Singapore: National Library Board, 2024), https://www.nlb.gov.sg/main/-/media/NLBMedia/Documents/About-Us/Press-Room-Publication/Annual-Reports/NLB\_Annual\_Report\_2023\_2024.pdf; “About Molly Mobile Library,” National Library Board, accessed 19 March 2025, https://www.nlb.gov.sg/main/visit-us/public-libraries-singapore/mobile-library-molly; “What’s On,” National Library Board, accessed 19 March 2025, https://www.nlb.gov.sg/main/whats-on/events; Nadia Chevroulet, “Chapter 3 for Molly, the Library on Wheels,” _Straits Times_, 23 September 2016, 3; Katelyn Woodworth, “Miss Molly Gets a Makeover,” _Straits Times_, 4 October 2016, 4. (From NewspaperSG)
