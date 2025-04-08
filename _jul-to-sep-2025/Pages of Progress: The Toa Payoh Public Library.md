@@ -29,6 +29,10 @@ Tan Beng Kiat, the Public Works Department chief of building works, showed the c
 
 The committee also planned the new and existing facilities that the library would house. Interestingly, in addition to operating as a public library for patrons, the Toa Payoh Library was envisaged as the headquarters of the Library Extension Services comprising the mobile library service and part-time branch libraries. Part of the space would be set aside to keep inventory for the mobile library.[^4] “The aim of the mobile library service was to take the books out to the schools and the community so that children could borrow books from the mobile libraries,”&nbsp;said Amarjeet Gill, who headed Toa Payoh Library&nbsp;from 1993 to 1994.[^5]
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol%2021%20Issue%202/Toa%20Payoh/Toa_Payoh_library_colour.jpg" style="width: 70%;">An aerial view of Toa Payoh Library, 1970s.<i> Collection of the National Library Singapore.</i></div>
+
 #### **SEAP Games Secretariat**
 
 Before it opened, the library building served as the secretariat of the 7th South East Asian Peninsular (SEAP) Games, held for the first time in Singapore in September 1973.[^6]
