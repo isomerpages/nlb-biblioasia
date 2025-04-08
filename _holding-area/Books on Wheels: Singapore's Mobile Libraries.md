@@ -125,7 +125,7 @@ _Note: For more photos of the mobile libraries, visit biblioasia.nlb.gov.sg._
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/vol-17-issue-3/authors/Gracie%20Lee.png">
+<img style="width: 100px; height: 100px;" src="/images/vol-17-issue-3/authors/Gracie_Lee.png">
 <b>Gracie Lee</b> is a Senior Librarian with the National Library Singapore. She enjoys uncovering and sharing the stories behind Singapore’s printed heritage. </div>
 	
 
