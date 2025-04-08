@@ -12,3 +12,15 @@ In 2017, my mother showed me a box of old family documents. Among them was a bun
 <div style="background-color: white;">
 <br>
 <img src="/images/Online%20Only%20Articles/In%20Search%20of%20Silvestr/2.jpg" style="width: 90%;">Silvestr’s entry in Bata’s “List of Employees” compiled in Zlín in 1944.<i> Courtesy of Jan Beránek.</i></div>
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/In%20Search%20of%20Silvestr/1.jpg" style="width: 60%;">Silvestr Němec in February 1938.<i> Courtesy of Jan Beránek.</i></div>
+
+
+
+
+
+#### **Notes**
+
+
