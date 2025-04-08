@@ -117,6 +117,10 @@ And yet, the myriad of impacts and legacies of the missionary exodus from China 
 
 Tracing the transition of the 1950s, where the theological resources of British missionaries in the crown colony of Singapore were completely eclipsed by American influence, Poon notes that the Chinese evangelicals were better positioned to leverage this aid and represent local Chinese anticolonialism than the ecumenical missionaries at Trinity College.[^51] With the accelerating influence of American capitalism in post-independence Singapore and its attendant cultural and human flows – evangelical Christianity became one of its most visible exports, as evidenced by the religious resurgence and growth of Pentecostal Christianity in 1990s Singapore.[^52] In that regard, we might see the institutional connections established in the 1950s as an important but overlooked backdrop to this subsequent phenomenon.
 
+<div>
+<b>Joshua Tan</b> is a historian of modern China and the Chinese diaspora, with an interest in the religious and educational politics in Cold War Asia. He is currently a postdoctoral fellow in the department of history at the National University of Singapore and is working on a book about American-Asian educational partnerships during the Cold War.</div>
+
+
 #### **NOTES**
        
 [^1]: Robbie Goh, “Christian Capital: Singapore, Evangelical Flows and Religious Hubs,” _Asian Studies Review_ 40, no. 2 (2016)
@@ -153,7 +157,7 @@ Tracing the transition of the 1950s, where the theological resources of British 
 
 [^17]: So Wui Ying (Su Yingrui), _A Passion for the Greater Vision: The Role of Leslie Lyall in the History of the China Inland Mission/Overseas Missionary Fellowship_ (Hong Kong: Hong Kong University, 2016), 271.
 
-[^18]: For the list of inaugural professors at Nanyang University, including a number of missionaries in the Department of Foreign Languages, see: _Nanyang da xue chuang xiao shi zhou nian ji nian te kan 1966_ [南洋大学创校十周年纪念特刊1966](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200026402) \[Nanyang University tenth anniversary souvenir 1966\] (新加坡: \[南洋大学\], 1966) (From National Library Singapore, call no. RCLOS 378.5951 NAN). See also Paul Contento and Maida Contento, _A Maverick Missionary on Asian Campuses: Story of the Founding of the Iner-Varsity Christian Student Movement in China, Singapore and Vietnam by Paul and Maida Contento_ (Philippines: Shangkuan Press, 1993) for a narration of how one missionary specifically conducted his missionary work on Asian campuses.
+[^18]: For the list of inaugural professors at Nanyang University, including a number of missionaries in the Department of Foreign Languages, see: _Nanyang da xue chuang xiao shi zhou nian ji nian te kan 1966_&nbsp;[南洋大学创校十周年纪念特刊1966](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200026402)&nbsp;\[Nanyang University tenth anniversary souvenir 1966\] (新加坡: \[南洋大学\], 1966) (From National Library Singapore, call no. RCLOS 378.5951 NAN). See also Paul Contento and Maida Contento,&nbsp;_A Maverick Missionary on Asian Campuses: Story of the Founding of the Iner-Varsity Christian Student Movement in China, Singapore and Vietnam by Paul and Maida Contento_&nbsp;(Philippines: Shangkuan Press, 1993) for a narration of how one missionary specifically conducted his missionary work on Asian campuses.
 
 [^19]: Attempts by missionaries to join the University of Malaya were rebuffed by university authorities. Comparatively, Hong Kong University was more amenable to receiving missionary professors from China like F.S. Drake. See for instance, correspondence between Stanley Dixon of the CBMS and the Colonial Office in 1951, over the possibility of staffing missionary personnel for campus physician and professor of social sciences at the University of Malaya.
 
@@ -169,7 +173,7 @@ Tracing the transition of the 1950s, where the theological resources of British 
 
 [^25]: Anderson and Smith, _The Anderson-Smith Report on Theological Education in Southeast Asia_, 25.
 
-[^26]: Trinity Theological College (Singapore), [_Progress Report from Trinity Theological College, Singapore_](https://eservice.nlb.gov.sg/redir/item_holding.aspx?bid=200039371) (Singapore: Trinity Theological College, 1966). (From PublicationSG)
+[^26]: Trinity Theological College (Singapore),&nbsp;[_Progress Report from Trinity Theological College, Singapore_](https://eservice.nlb.gov.sg/redir/item_holding.aspx?bid=200039371)&nbsp;(Singapore: Trinity Theological College, 1966). (From PublicationSG)
 
 [^27]: Conference of British Missionary Societies, “[Conference of British Missionary Societies: University of Malaya: \[d\] Trinity College, Singapore, 1951–1958](https://www.nas.gov.sg/archivesonline/private_records/record-details/e185d639-115b-11e3-83d5-0050568939ad),” J. W. Decker to Norman Goodall, 27 March 1951, private records. (From National Archives of Singapore, microfilm no. NAF 00020/1)
 
