@@ -168,6 +168,22 @@ Lim was among the first batch of graduates (1959) from Nanyang University (now N
 <br>
 <img src="/images/Online%20Only%20Articles/Spore%20Youth%20Orchestra/lim_chin_tiong.png" style="width: 60%;">Lim Chin Tiong, 1985.<i> Source: Straits Times, 5 November 1985 © SPH Media Limited. Permission required for reproduction.</i></div>
 
+#### **“Singapore Suite” by David Campbell (1984)**
+
+David Campbell is an American pianist, organist, teacher and composer in the New York area. He graduated from Florida State University and served on the music faculties of the City University of New York, and Brooklyn College.
+
+“Singapore Suite” was written in February 1983 during Campbell’s first visit to the country. It was conceived as a musical postcard album of the various sights and sounds he experienced. Each of the six movements was an homage to the city, such as “Serangoon”, “Chinatown”, “SAF on Parade”, and “Sentosa Reverie”. As the first bars of “Singapore Suite” were played, there was confusion in the audience, “\[but\] gradually it became clear to them. Those random notes were the sounds of Singapore stirring to life in the morning… By the conclusion, \[they\] were enthusiastically applauding…”[^35]
+
+“Singapore Suite” was premiered on 1 April 1984 at Victoria Concert Hall and was dedicated to Campbell’s wife, Christina Soh Kee Mei, as well as the people of Singapore.[^36]
+
+  
+
+* * *
+
+[\[1\]](#_ftnref1) Ilene Aleshire, “[Crowd Applauds ‘Singapore Suite’ Premiere](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19840402-1.2.18.5),” _Straits Times_, 2 April 1984, 8. (From NewspaperSG)
+
+[\[2\]](#_ftnref2) “Singapore Suite – David Campbell,” _[Singapore Youth Orchestra Sunday 1st April 1984, 5.00PM, Victoria Concert Hall](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12460772)_ (Singapore: Singapore Youth Orchestra, n.d.), ephemera. (From National Library Singapore, RCLOS EPHE O917 V1.29)
+
   
 
 
