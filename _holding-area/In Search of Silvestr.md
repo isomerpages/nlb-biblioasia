@@ -41,6 +41,15 @@ Tomas Bata, its founder, had visited Singapore on a business trip in January 193
 <br>
 <img src="/images/Online%20Only%20Articles/In%20Search%20of%20Silvestr/4.jpg" style="width: 80%;">Bata’s flagship store at Capitol Theatre in 1934.<i> Courtesy of Jan Beránek.</i></div>
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/In%20Search%20of%20Silvestr/5.jpg" style="width: 80%;">Inside a Bata shoe store in British Malaya, c. 1935. The slogan “Our Customer – Our Master” is one of the most famous credos that people in the Czech Republic still recall today.<i> Courtesy of Jan Beránek.</i></div>
+
+I found the idea of Czechoslovak people driving Bata’s expansion compelling. One of the reasons for the global success of the Bata Shoe Company was that it created unique and innovative ways of working, including building a strong culture that extended beyond work and was incorporated into the personal lives of its employees as well. This loyalty and adherence to company culture continued in Singapore.
+
+#### **The Czechoslovak Community and the Second World War**
+
+
   
 
 
