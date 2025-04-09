@@ -181,8 +181,8 @@ memory of Singapore’s European society. When the satirical *Straits Produce*
 magazine was revived in 1922 after a 24-year hiatus, the editors stressed that
 “there are very few in Singapore to-day who remember the Nineties nor are
 there many sufficiently versed in its past history to understand the topics”
-![](/images/COA%202019/Exploring%20Accounts/Woodbie.jpg)
-<img src="/images/COA%202019/Exploring%20Accounts/Woodbie.jpg" style="width:80%;">
+
+<img src="/images/COA%202019/Exploring%20Accounts/Woodbie.jpg" style="width:50%;">
  <div style="background-color: white;">Cartoon from the satirical publication  <i>Straits Produce </i>, vol. 1, no. 3 (1893), satirising the fast-changing and peculiar habits and customs that governed the social lives of Singapore’s European community. The caption reads: “Mrs. Woodbie-Smart, who has just returned from a trip home, nearly startles the life out of poor little Snooks by shaking hands with him in the manner adopted by Society about five years’ ago, and now affected by second-rate people.”
 </div>
 
@@ -243,7 +243,12 @@ as “children of empire” and their activities were often recorded in the
 Singapore press long after they and their parents had permanently relocated
 elsewhere. However, it was a frequently expressed view that it was unsuitable
 for these children to remain in a tropical climate beyond the age of six
-or seven.49 The impact that this had on the demographics of Singapore is illustrated by census data from 1881, which demonstrates that there were more than double the number of two- and three-year-olds as 13- and 14-year-olds among the British population.50 The presence of children in colonial contexts was closely tied to both ideologies of Empire rooted in pseudo-scientific notions of racial superiority and the dangers of hostile climates upon white bodies, and shifts in how childhood was perceived within society in late 19th- and early 20th-century Britain, with an increasing state interest in processes of child rearing.51
+or seven.49 The impact that this had on the demographics of Singapore is 
+![](/images/COA%202019/Exploring%20Accounts/European_Family_with_baby.jpg)
+<img src="/images/COA%202019/Exploring%20Accounts/Map.jpg" style="width:80%;">
+ <div style="background-color: white;">Map outlining the career of Frank Kershaw Wilson across Malaya between 1914 and 1939, marking periods spent living and working in a series of locations. His relocations were interspersed with return trips “home” to the United Kingdom.<i> Compiled using data from The Malayan Civil List for 1939.</i></div>
+
+illustrated by census data from 1881, which demonstrates that there were more than double the number of two- and three-year-olds as 13- and 14-year-olds among the British population.50 The presence of children in colonial contexts was closely tied to both ideologies of Empire rooted in pseudo-scientific notions of racial superiority and the dangers of hostile climates upon white bodies, and shifts in how childhood was perceived within society in late 19th- and early 20th-century Britain, with an increasing state interest in processes of child rearing.51
 
 In his semi-autobiographical short story *Rachel*, Hugh Clifford focuses on
 the impact that the practice of sending children back to Britain at a young
