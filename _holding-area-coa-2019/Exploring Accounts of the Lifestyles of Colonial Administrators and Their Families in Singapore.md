@@ -180,7 +180,14 @@ transitory nature of many initiatives in Singapore impacted the community
 memory of Singapore’s European society. When the satirical *Straits Produce*
 magazine was revived in 1922 after a 24-year hiatus, the editors stressed that
 “there are very few in Singapore to-day who remember the Nineties nor are
-there many sufficiently versed in its past history to understand the topics” that appeared in earlier issues.37 A similar impression is given by Thomas Keaughran, writing in *The Straits Times* in 1887. He laments the lack of care paid to the Christian cemetery at Bukit Timah, stating:
+there many sufficiently versed in its past history to understand the topics”
+![](/images/COA%202019/Exploring%20Accounts/Woodbie.jpg)
+
+<img src="/images/COA%202019/Exploring%20Accounts/Wg" style="width:80%;">
+ <div style="background-color: white;">Cartoon from the satirical publication  <i>Straits Produce </i>, vol. 1, no. 3 (1893), satirising the fast-changing and peculiar habits and customs that governed the social lives of Singapore’s European community. The caption reads: “Mrs. Woodbie-Smart, who has just returned from a trip home, nearly startles the life out of poor little Snooks by shaking hands with him in the manner adopted by Society about five years’ ago, and now affected by second-rate people.”
+</div>
+
+that appeared in earlier issues.37 A similar impression is given by Thomas Keaughran, writing in *The Straits Times* in 1887. He laments the lack of care paid to the Christian cemetery at Bukit Timah, stating:
 
   *Perhaps the mobile nature of our European population may in<br>   some measure account for this, as there are few connecting links<br>   of attachment reposing here to endear them to the spot. Still, the<br>   same apparent disregard seems to pervade the permanently resident<br>   inhabitants, many of whose progenitors here repose; even them <br>  youth…here shun the locality*.38
 
