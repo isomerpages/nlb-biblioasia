@@ -61,8 +61,8 @@ Times* to the satirical *Straits Produce* – record the activities and concerns
 
 #### **The Colonial Administration in Singapore c. 1870–1920**
 
-It is an article of popular belief that Englishmen are born sailors; probably it would be more true to say that they are born administrators.
-– Frank Swettenham, 19074
+  *It is an article of popular belief that Englishmen are born sailors;<br>    probably it would be more true to say that they are born administrators*.<br> 
+  – Frank Swettenham, 19074
 
 British colonial administrators and their families were one small yet significant part of the European population that resided Singapore in the 19th and 20th centuries and were frequently the subject of accounts by residents and visitors. The 1881 census indicates 2,769 European men, women and children as residents in Singapore, of whom 862 were described as “British”. By 1910, the number of British inhabitants had increased to 1,870. However, in a total population of over 228,000, this category still represented less than one percent.
 
@@ -75,6 +75,17 @@ In 1904, the introduction of a colour bar restricted recruitment to the Malayan 
 While women were not appointed to positions within the colonial administration during this period, the white female presence in Singapore grew slowly both as a result of an increasing number of nurses and teachers sent into the imperial sphere, and an acknowledgement that it was acceptable and indeed desirable for wives to accompany their administrator husbands to the Empire.8 Although they continued to be outnumbered considerably by men, there were 1,620 white women recorded in Singapore in the 1911 census, in contrast to 495 European and American women and girls recorded in 1881.9
 
 Although a small population, the nature of imperial power vested these women with significance and the ability to shape society. While valuable work has been done to highlight the voices of other groups in colonial Singapore who have historically been silenced,10 the archival footprint of the men, women and children whose presence in Singapore was tied to the administration of the imperial state allows their lives to be subject to continued analysis.
+
+#### **Imperial Careering**
+
+The concept of “imperial careering” is a useful analytical framework that can be used to explore the time administrators spent in Singapore and how their occupations shaped the way they saw their lives there. It highlights how individuals’ lives and careers were influenced by their movement within and across imperial space, and how these movements formed part of the interwoven networks and stories that invested these spaces and the people who occupied them with specific identities.11
+
+Framing lifestyles with reference to careers is particularly relevant to colonial Singapore due to the belief expressed in contemporary sources that no man should move to the island without a job, both for their own sake and to preserve the prestige of the wider white community.12 For new arrivals, colleagues replaced the networks of friends and family they had left behind in the United Kingdom or elsewhere. The close link between occupation and European presence in Singapore is underscored by the fact that it was rare for administrators to remain in Malaya after their careers had ended, even if they had spent the bulk of their lives there. In 1881, the total number of British residents over the age of 60 in Singapore was no more than 22.13
+
+The *Straits Settlements Civil Service List*, produced annually from the 1880s, presents the names, educational backgrounds and career paths of every individual who joined the administrative service, from newly recruited cadets to the governor. These texts enabled residents and visitors to gain an
+understanding of the individuals who made up administrative society and to relate themselves into the hierarchy outlined.14 They can also be used to track the experiences that created individuals’ imperial careers and cross-referenced with other sources, such as newspapers or private correspondence. 
+
+
 
 
 
