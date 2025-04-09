@@ -125,105 +125,105 @@ As NLB looks to the future, it will continue to evolve, experiment and innovate 
 #### **Notes**
 
 
-[^1]:  Thomas Stamford Raffles, Minute by Sir T.S. Raffles on the Establishment of a Malay College at Singapore (n.p.: n.p., 1819), 17. (From National Library Online)
+[^1]:  Thomas Stamford Raffles, _Minute by Sir T.S. Raffles on the Establishment of a Malay College at Singapore_ (n.p.: n.p., 1819), 17. (From National Library Online)
 
-[^2]: Thomas Stamford Raffles, Formation of the Singapore Institution, A.D. 1823 (Malacca: Mission Press, 1823), 57. (From National Library Online)
+[^2]: Thomas Stamford Raffles, _Formation of the Singapore Institution, A.D. 1823_ (Malacca: Mission Press, 1823), 57. (From National Library Online)
 
-[^3]: After moving into the building on Bras Basah Road, the Singapore Free School was renamed Singapore Institution Free School. It was then renamed Singapore Institution in 1856. In the school’s annual report for 1868, the school was referred to as the Raffles Institution. See Jamie Koh and Vina Jie-Min Prasad, “Raffles Institution,” in Singapore Infopedia. National Library Board Singapore. Article published 25 November 2014; Singapore Institution Free School, Fourth Annual Report 1837–38 (Singapore: Singapore Free Press Office, 1838), 3–5, 59. (From National Library Online). 
+[^3]: After moving into the building on Bras Basah Road, the Singapore Free School was renamed Singapore Institution Free School. It was then renamed Singapore Institution in 1856. In the school’s annual report for 1868, the school was referred to as the Raffles Institution. See Jamie Koh and Vina Jie-Min Prasad, “Raffles Institution,” in Singapore Infopedia. National Library Board Singapore. Article published 25 November 2014; Singapore Institution Free School, _Fourth Annual Report 1837–38_ (Singapore: Singapore Free Press Office, 1838), 3–5, 59. (From National Library Online). 
 
 
-[^4]: Singapore Institution Free School, Fourth Annual Report 1837–38, 13; K.K. Seet, A Place for the People (Singapore: Times Books International, 1983), 8–13. (From National Library Singapore, call no. RSING 027.55957 SEE)
+[^4]: Singapore Institution Free School, _Fourth Annual Report 1837–38_, 13; K.K. Seet, _A Place for the People_ (Singapore: Times Books International, 1983), 8–13. (From National Library Singapore, call no. RSING 027.55957 SEE)
 
-[^5]: Singapore Institution Free School, Fourth Annual Report 1837–38, 59; Seet, A Place for the People, 16–18; “Singapore Library,” Singapore Free Press and Mercantile Advertiser, 15 August 1844, 2. (From NewspaperSG); Singapore Library, The First Report of the Singapore Library 1844 (Singapore: Singapore Library, 1845), 4. (From National Library Online)
+[^5]: Singapore Institution Free School, _Fourth Annual Report 1837–38_, 59; Seet, _A Place for the People_, 16–18; “Singapore Library,” _Singapore Free Press and Mercantile Advertiser_, 15 August 1844, 2. (From NewspaperSG); Singapore Library, _The First Report of the Singapore Library 1844_ (Singapore: Singapore Library, 1845), 4. (From National Library Online)
 
-[^6]: Singapore Library, The First Report of the Singapore Library 1844, 4; Singapore Library, The Second Report of the Singapore Library 1846 (Singapore: Singapore Library, 1847), 7. (From National Library Online)
+[^6]: Singapore Library, _The First Report of the Singapore Library 1844_, 4; Singapore Library, _The Second Report of the Singapore Library 1846_ (Singapore: Singapore Library, 1847), 7. (From National Library Online)
 
-[^7]: Singapore Library, The Fourth Report of the Singapore Library 1848 (Singapore: Singapore Library, 1849), 9–14. (From National Library Online); Seet, A Place for the People, 18; “Books Wanted,” Singapore Free Press and Mercantile Advertiser, 3 October 1844, 1. (From NewspaperSG)
+[^7]: Singapore Library, _The Fourth Report of the Singapore Library 1848_ (Singapore: Singapore Library, 1849), 9–14. (From National Library Online); Seet, _A Place for the People_, 18; “Books Wanted,” _Singapore Free Press and Mercantile Advertiser_, 3 October 1844, 1. (From NewspaperSG)
 
-[^8]: “The Singapore Library,” Singapore Free Press and Mercantile Advertiser, 10 October 1844, 5 (From NewspaperSG); Gracie Lee, “Collecting the Scattered Remains: The Raffles Library and Museum,” BiblioAsia 12, no. 2 (April–June 2016), 39–45; Ong Eng Chuan, “Rare Materials Collection,” BiblioAsia 12, no. 1 (January–April 2016), 2–5. 
+[^8]: “The Singapore Library,” _Singapore Free Press and Mercantile Advertiser_, 10 October 1844, 5 (From NewspaperSG); Gracie Lee, “Collecting the Scattered Remains: The Raffles Library and Museum,” _BiblioAsia_ 12, no. 2 (April–June 2016), 39–45; Ong Eng Chuan, “Rare Materials Collection,” _BiblioAsia_ 12, no. 1 (January–April 2016), 2–5. 
 
-[^9]: Singapore Library, The Second Report of the Singapore Library 1846, 6–7; “It Will Be Seen by a Notice from the Secretary, That the Library…,” Singapore Free Press and Mercantile Advertiser, 18 September 1862, 3. (From NewspaperSG)
+[^9]: Singapore Library, _The Second Report of the Singapore Library 1846_, 6–7; “It Will Be Seen by a Notice from the Secretary, That the Library…,” _Singapore Free Press and Mercantile Advertiser_, 18 September 1862, 3. (From NewspaperSG)
 
-[^10]: “The Singapore Library,” Straits Times, 16 May 1863, 1; “The Singapore Library,” Straits Times, 30 May 1863, 2. (From NewspaperSG)
+[^10]: “The Singapore Library,” _Straits Times_, 16 May 1863, 1; “The Singapore Library,” _Straits Times_, 30 May 1863, 2. (From NewspaperSG)
 
-[^11]: “A Meeting of the Subscribers to the Singapore Library…,” Straits Times, 24 January 1874, 3;  “Raffles Library &amp; Museum,” Straits Times, 24 April 1875, 1. (From NewspaperSG)
+[^11]: “A Meeting of the Subscribers to the Singapore Library…,” _Straits Times_, 24 January 1874, 3;  “Raffles Library &amp; Museum,” _Straits Times_, 24 April 1875, 1. (From NewspaperSG)
 
-[^12]: “Yesterday’s Government Gazette Notifications…,” Straits Times Overland Journal, 17 May 1873, 9. (From NewspaperSG)
+[^12]: “Yesterday’s Government Gazette Notifications…,” _Straits Times Overland Journal_, 17 May 1873, 9. (From NewspaperSG)
 
-[^13]: Singapore Library, The Fifth Report of the Singapore Library 1849 (Singapore: Singapore Library, 1850), 4, 10–12. (From National Library Online)
+[^13]: Singapore Library, _The Fifth Report of the Singapore Library 1849_ (Singapore: Singapore Library, 1850), 4, 10–12. (From National Library Online)
 
-[^14]: “Government Notification 189: Raffles Library and Museum,” Straits Settlements Government Gazette, 12 September 1874, 477–78. (From National Library Singapore, call no. RRARE 959.51 SGG; microfilm no. NL5349); Raffles Museum and Library, Annual Report for the Year 1893 (Singapore: The Museum, 1894), 4. (From National Library Singapore, call no. RRARE 027.55957 RAF; microfilm no. NL3874); Raffles Museum and Library, Annual Report for the Year 1875 (Singapore: The Museum, 1876), 1. (From National Library Singapore, call no. RRARE 027.55957 RAF; microfilm no. NL3874); Raffles Museum and Library, Annual Report for the Year 1939 (Singapore: The Museum, 1940), 7. (From National Library Singapore, call no. RRARE 027.55957 RAF; microfilm no. NL3874); “Raffles Library &amp; Museum,” Straits Times, 24 April 1875, 1; “Raffles Institution Meeting,” Straits Times Overland Journal, 26 March 1874, 4. (From NewspaperSG); Seet, Place for the People, 23.
+[^14]: “Government Notification 189: Raffles Library and Museum,” _Straits Settlements Government Gazette_, 12 September 1874, 477–78. (From National Library Singapore, call no. RRARE 959.51 SGG; microfilm no. NL5349); Raffles Museum and Library, _Annual Report for the Year 1893_ (Singapore: The Museum, 1894), 4. (From National Library Singapore, call no. RRARE 027.55957 RAF; microfilm no. NL3874); Raffles Museum and Library, _Annual Report for the Year 1875_ (Singapore: The Museum, 1876), 1. (From National Library Singapore, call no. RRARE 027.55957 RAF; microfilm no. NL3874); Raffles Museum and Library, _Annual Report for the Year 1939_ (Singapore: The Museum, 1940), 7. (From National Library Singapore, call no. RRARE 027.55957 RAF; microfilm no. NL3874); “Raffles Library &amp; Museum,” _Straits Times_, 24 April 1875, 1; “Raffles Institution Meeting,” _Straits Times Overland Journal_, 26 March 1874, 4. (From NewspaperSG); Seet, _Place for the People_, 23.
 
-[^15]: Raffles Museum and Library, Annual Report for the Year 1876 (Singapore: The Museum, 1877), 1. (From National Library Singapore, call no. RRARE 027.55957 RAF; microfilm no. NL3874)1; “Opening of the New Library and Museum,” Straits Times, 13 October 1887, 2 (From NewspaperSG); Gretchen Liu, One Hundred Years of the National Museum: Singapore 1887–1987 (Singapore: National Museum, 1987), 23. (From National Library Singapore, call no. RSING 708.95957 LIU)
+[^15]: Raffles Museum and Library, _Annual Report for the Year 1876_ (Singapore: The Museum, 1877), 1. (From National Library Singapore, call no. RRARE 027.55957 RAF; microfilm no. NL3874)1; “Opening of the New Library and Museum,” _Straits Times_, 13 October 1887, 2 (From NewspaperSG); Gretchen Liu, _One Hundred Years of the National Museum: Singapore 1887–1987_ (Singapore: National Museum, 1987), 23. (From National Library Singapore, call no. RSING 708.95957 LIU)
 
-[^16]: Raffles Museum and Library, Catalogue of the Raffles Library, Singapore, 1900 (Singapore: American Mission Press, 1905), 1. (From National Library Online)
+[^16]: Raffles Museum and Library, _Catalogue of the Raffles Library, Singapore, 1900_ (Singapore: American Mission Press, 1905), 1. (From National Library Online)
 
 [^17]: The library’s collections were arranged alphabetically at the time, with the letter “Q” assigned to titles relating to Singapore, the Malayan peninsula and the Malay Archipelago in general. See Lee, “Collecting the Scattered Remains.”
 
-[^18]: Raffles Museum and Library, Annual Report for the Year 1888 (Singapore: The Museum, 1889), 2. (From National Library Singapore, call no. RRARE 027.55957 RAF; microfilm no. NL3874); Raffles Museum and Library, Annual Report for the Year 1877 (Singapore: The Museum, 1878), 2. (From National Library Singapore, call no. RRARE 027.55957 RAF; microfilm no. NL3874); Raffles Museum and Library, Annual Report for the year 1921 (Singapore: The Museum, 1922), 5. (From National Library Singapore, call no. RRARE 027.55957 RAF; microfilm no. NL3874)
+[^18]: Raffles Museum and Library, _Annual Report for the Year 1888_ (Singapore: The Museum, 1889), 2. (From National Library Singapore, call no. RRARE 027.55957 RAF; microfilm no. NL3874); Raffles Museum and Library, _Annual Report for the Year 1877_ (Singapore: The Museum, 1878), 2. (From National Library Singapore, call no. RRARE 027.55957 RAF; microfilm no. NL3874); Raffles Museum and Library, _Annual Report for the year 1921_ (Singapore: The Museum, 1922), 5. (From National Library Singapore, call no. RRARE 027.55957 RAF; microfilm no. NL3874)
 
 [^19]: Lee, “Collecting the Scattered Remains”; Ong, “Rare Materials Collection.” 
 
-[^20]: Ang Seow Leng, “Stories of Abdullah,” BiblioAsia 11, no. 4 (January–March 2016): 66–67.
+[^20]: Ang Seow Leng, “Stories of Abdullah,” _BiblioAsia_ 11, no. 4 (January–March 2016): 66–67.
 
-[^21]: Padma Daniel “Descriptive Catalogue of the Books relating to Malaysia in the Raffles Museum &amp; Library Singapore,” Journal of the Malayan Branch of the Royal Asiatic Society 19, no. 3 (December 1941): i. (From JSTOR via NLB’s eResources website); Lee, “Collecting the Scattered Remains”; Ong, “Rare Materials Collection.”
+[^21]: Padma Daniel “Descriptive Catalogue of the Books relating to Malaysia in the Raffles Museum &amp; Library Singapore,” _Journal of the Malayan Branch of the Royal Asiatic Society_ 19, no. 3 (December 1941): i. (From JSTOR via NLB’s eResources website); Lee, “Collecting the Scattered Remains”; Ong, “Rare Materials Collection.”
 
-[^22]: Raffles Museum and Library, Annual Report for the Year 1940 (Singapore: The Museum, 1941), 8. (From National Library Singapore, call no. RRARE 027.55957 RAF; microfilm no. NL3874); Raffles Museum and Library, Annual Report for the Year 1923 (Singapore: The Museum, 1924), 9–10, 18. (From National Library Singapore, call no. RRARE 027.55957 RAF; microfilm no. NL3874); “Supplementing Juvenile Education,” Singapore Free Press and Mercantile Advertiser, 21 February 1930, 12. (From NewspaperSG)
+[^22]: Raffles Museum and Library, _Annual Report for the Year 1940_ (Singapore: The Museum, 1941), 8. (From National Library Singapore, call no. RRARE 027.55957 RAF; microfilm no. NL3874); Raffles Museum and Library, _Annual Report for the Year 1923_ (Singapore: The Museum, 1924), 9–10, 18. (From National Library Singapore, call no. RRARE 027.55957 RAF; microfilm no. NL3874); “Supplementing Juvenile Education,” _Singapore Free Press and Mercantile Advertiser_, 21 February 1930, 12. (From NewspaperSG)
 
-[^23]: “Raffles Museum Treasures Safe,” Malaya Tribune, 23 October 1945, 2–3; “Donor Gives 60 Books to Raffles Library,” Sunday Tribune, 9 November 1947, 3. (From NewspaperSG)
+[^23]: “Raffles Museum Treasures Safe,” _Malaya Tribune_, 23 October 1945, 2–3; “Donor Gives 60 Books to Raffles Library,” _Sunday Tribune_, 9 November 1947, 3. (From NewspaperSG)
 
-[^24]: “Raffles Museum Treasures Safe”; “Donor Gives 60 Books to Raffles Library”; “Asiatic Readers at Library Have Doubled,” Straits Times, 8 December 1946, 7; “More Asiatic Than European Readers,” Singapore Free Press, 24 April 1947, 2. (From NewspaperSG)
+[^24]: “Raffles Museum Treasures Safe”; “Donor Gives 60 Books to Raffles Library”; “Asiatic Readers at Library Have Doubled,” _Straits Times_, 8 December 1946, 7; “More Asiatic Than European Readers,” _Singapore Free Press_, 24 April 1947, 2. (From NewspaperSG)
 
-[^25]: Raffles Museum Singapore, Annual Report 1951 (Singapore: Government Printing Office, 1952), 13. (From National Library Singapore, call no. RCLOS 069.095957 RAF); Nan Hall, “Louise of the Books,” Straits Times, 15 July 1951, 4; “New Look at Raffles Library,” Sunday Standard, 15 July 1951, 3; “Raffles Library May Set Up Suburban Branches,” Singapore Free Press, 15 June 1951. (From NewspaperSG) 
+[^25]: Raffles Museum Singapore, _Annual Report 1951_ (Singapore: Government Printing Office, 1952), 13. (From National Library Singapore, call no. RCLOS 069.095957 RAF); Nan Hall, “Louise of the Books,” _Straits Times_, 15 July 1951, 4; “New Look at Raffles Library,” _Sunday Standard_, 15 July 1951, 3; “Raffles Library May Set Up Suburban Branches,” _Singapore Free Press_, 15 June 1951. (From NewspaperSG) 
 
-[^26]: “New Librarian for Singapore,” Indian Daily Mail, 6 August 1954, 1; “New Raffles Librarian Due Next Week,” Singapore Free Press, 4 September 1954, 5. (From NewspaperSG)
+[^26]: “New Librarian for Singapore,” _Indian Daily Mail_, 6 August 1954, 1; “New Raffles Librarian Due Next Week,” _Singapore Free Press_, 4 September 1954, 5. (From NewspaperSG)
 
-[^27]: Raffles Museum Singapore, Annual Report 1951, 1; “S’pore Is Not Library Minded,” Singapore Standard, 1 March 1955, 5; “Oriental Section for Raffles Library,” Straits Times, 1 March 1955, 4; “National Library Has 4,500 music pieces,” Singapore Standard, 10 September 1958, 6; “Taking Books to the Door,” Singapore Free Press, 24 January 1957, 5. (From NewspaperSG); Seet, A Place for the People, 103; Raffles Museum Singapore, Annual Report 1956 (Singapore: Government Printing Office, 1957), 1. (From National Library Singapore, call no. RCLOS 069.095957 RAF)
+[^27]: Raffles Museum Singapore, _Annual Report 1951_, 1; “S’pore Is Not Library Minded,” _Singapore Standard_, 1 March 1955, 5; “Oriental Section for Raffles Library,” _Straits Times_, 1 March 1955, 4; “National Library Has 4,500 music pieces,” _Singapore Standard_, 10 September 1958, 6; “Taking Books to the Door,” _Singapore Free Press_, 24 January 1957, 5. (From NewspaperSG); Seet, _A Place for the People_, 103; Raffles Museum Singapore, _Annual Report 1956_ (Singapore: Government Printing Office, 1957), 1. (From National Library Singapore, call no. RCLOS 069.095957 RAF)
 
-[^28]: “Start Made on Free Library,” Straits Times, 17 August 1957 4; “$2½ Mil. Library Is Free,” Singapore Free Press, 16 August 1957, 2; “City’s New $2 Mil Library,” Sunday Standard, 20 November 1955, 3. (From NewspaperSG)
+[^28]: “Start Made on Free Library,” _Straits Times_, 17 August 1957 4; “$2½ Mil. Library Is Free,” _Singapore Free Press_, 16 August 1957, 2; “City’s New $2 Mil Library,” _Sunday Standard_, 20 November 1955, 3. (From NewspaperSG)
 
-[^29]: “Start Made on Free Library,” Straits Times, 17 August 1957 4. (From NewspaperSG)
+[^29]: “Start Made on Free Library,” _Straits Times_, 17 August 1957 4. (From NewspaperSG)
 
-[^30]:Raffles Museum Singapore, Annual Report 1955 (Singapore: Government Printing Office, 1956), 1. (From National Library Singapore, call no. RCLOS 069.095957 RAF); Raffles Museum Singapore, Annual Report 1957 (Singapore: Government Printing Office, 1958), 1. (From National Library Singapore, call no. RCLOS 069.095957 RAF); Seet, A Place for the People, 102; Hedwig Anuar, “Singapore’s National Library,” Straits Times Annual, 1 January 1962, 58–59. (From NewspaperSG)
+[^30]:Raffles Museum Singapore, _Annual Report 1955_ (Singapore: Government Printing Office, 1956), 1. (From National Library Singapore, call no. RCLOS 069.095957 RAF); Raffles Museum Singapore, _Annual Report 1957_ (Singapore: Government Printing Office, 1958), 1. (From National Library Singapore, call no. RCLOS 069.095957 RAF); Seet, _A Place for the People_, 102; Hedwig Anuar, “Singapore’s National Library,” _Straits Times Annual_, 1 January 1962, 58–59. (From NewspaperSG)
 
-[^31]: “First Malayan to be Head of Raffles Library,” Straits Budget, 11 May 1960, 16. (From NewspaperSG)
+[^31]: “First Malayan to be Head of Raffles Library,” _Straits Budget_, 11 May 1960, 16. (From NewspaperSG)
 
-[^32]: National Library Board, Singapore, Annual Report 1960–63 (Singapore: National Library Board, 1964). (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); Ministry of Culture, “Library Division General Correspondence,” 1965–71. (From National Archives of Singapore, microfilm no. AR 006), 309; Anuar, “Singapore’s National Library.” 
+[^32]: National Library Board, Singapore, _Annual Report 1960–63_ (Singapore: National Library Board, 1964). (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); Ministry of Culture, “Library Division General Correspondence,” 1965–71. (From National Archives of Singapore, microfilm no. AR 006), 309; Anuar, “Singapore’s National Library.” 
 
-[^33]: “Out Goes the Name Raffles,” Straits Times, 21 November 1960, 9. (From NewspaperSG
+[^33]: “Out Goes the Name Raffles,” _Straits Times_, 21 November 1960, 9. (From NewspaperSG
 
-[^34]: National Library Singapore, Books About Malaysia (Singapore: National Library, 1963–1967). (From National Library Singapore, call no. RCLOS 016.9595 SIN)
+[^34]: National Library Singapore, _Books About Malaysia_ (Singapore: National Library, 1963–1967). (From National Library Singapore, call no. RCLOS 016.9595 SIN)
 
-[^35]: S. Rajaratnam, “The Opening of the South East Asia Room and Presentation of the Ya Yin Kwan Collection by Mr. Tan Yeok Seong at the National Library,” speech, National Library, 28 August 1964, transcript. (From National Archives of Singapore, document no. PressR19640828); National Library Board Singapore, Annual Report 1960–63, 5; National Library Singapore, Annual Report 1965 (Singapore: National Library, 1967), 5. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); National Library Singapore, Annual Report 1964 (Singapore: National Library, 1967), 1–2. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); “National Collection,” National Library Board, accessed 28 March 2025, https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/national-library-singapore/collections/Collections/National-Collection; Lee, “Collecting the Scattered Remains”; Ong, “Rare Materials Collection.”
+[^35]: S. Rajaratnam, “The Opening of the South East Asia Room and Presentation of the Ya Yin Kwan Collection by Mr. Tan Yeok Seong at the National Library,” speech, National Library, 28 August 1964, transcript. (From National Archives of Singapore, document no. PressR19640828); National Library Board Singapore, _Annual Report 1960–63_, 5; National Library Singapore, _Annual Report 1965_ (Singapore: National Library, 1967), 5. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); National Library Singapore, _Annual Report 1964_ (Singapore: National Library, 1967), 1–2. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); “National Collection,” National Library Board, accessed 28 March 2025, https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/national-library-singapore/collections/Collections/National-Collection; Lee, “Collecting the Scattered Remains”; Ong, “Rare Materials Collection.”
 
-[^36]: Kristina Tom, “Makings of a Modern Classic,” Straits Times, 2 July 2005, 4. (From NewspaperSG)
+[^36]: Kristina Tom, “Makings of a Modern Classic,” _Straits Times_, 2 July 2005, 4. (From NewspaperSG)
 
-[^37]: Philip Lee, “First Lady of Books,” Straits Times, 1 November 2007, 62; Serena Toh, “Library Head All Set for New Career,” Straits Times, 1 October 1988, 21. (From NewspaperSG)
+[^37]: Philip Lee, “First Lady of Books,” _Straits Times_, 1 November 2007, 62; Serena Toh, “Library Head All Set for New Career,” _Straits Times_, 1 October 1988, 21. (From NewspaperSG)
 
-[^38]: “400,000 Readers Is Library Target,” Straits Times, 23 January 1964, 4. (From NewspaperSG); National Library Singapore, Annual Report 1964, 8; National Library Singapore, Annual Report 1989/90  (Singapore: National Library, 1990), 3. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR)
+[^38]: “400,000 Readers Is Library Target,” _Straits Times_, 23 January 1964, 4. (From NewspaperSG); National Library Singapore, _Annual Report 1964_, 8; National Library Singapore, _Annual Report 1989/90_  (Singapore: National Library, 1990), 3. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR)
 
-[^39]: National Library Singapore, Annual Report 1979/80  (Singapore: National Library, 1980), 4. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); National Library Singapore, Annual Report 1980/81 (Singapore: National Library, 1981), 30. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); National Library Singapore, Annual Report 1989/90, 3; Fauziah Ibrahim, SILAS at a Glance: The Singapore National Bibliographic Network (Singapore: National Library Board, 1996), 11–14. (From National Library Online); Rohaniah Saini, “On-Line System Boon to Library Users,” Straits Times, 20 May 1988, 20. (From NewspaperSG)
+[^39]: National Library Singapore, _Annual Report 1979/80_  (Singapore: National Library, 1980), 4. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); National Library Singapore, Annual Report 1980/81 (Singapore: National Library, 1981), 30. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); National Library Singapore, _Annual Report 1989/90_, 3; Fauziah Ibrahim, _SILAS at a Glance: The Singapore National Bibliographic Network_ (Singapore: National Library Board, 1996), 11–14. (From National Library Online); Rohaniah Saini, “On-Line System Boon to Library Users,” _Straits Times_, 20 May 1988, 20. (From NewspaperSG)
 
-[^40]: National Library Singapore, Annual Report 1989/90, 3.
+[^40]: National Library Singapore, _Annual Report 1989/90_, 3.
 
-[^41]: Theresa Tan, “After April 1, Buy a Chunk of the Old Library,” Straits Times, 29 January 2004; David Chew, “More Than Just Books,” Today, 14 November 2005, 33; Nancy Koh, “The Library of Tomorrow,” Straits Times, 24 May 1989, 1; Adeline Chia, “A-Z Guide to the New National Library,” Straits Times, 2 July 2005, 2. (From NewspaperSG)
+[^41]: Theresa Tan, “After April 1, Buy a Chunk of the Old Library,” _Straits Times_, 29 January 2004; David Chew, “More Than Just Books,” _Today_, 14 November 2005, 33; Nancy Koh, “The Library of Tomorrow,” _Straits Times_, 24 May 1989, 1; Adeline Chia, “A-Z Guide to the New National Library,” _Straits Times_, 2 July 2005, 2. (From NewspaperSG)
 
-[^42]: Library 2000 Review Committee, Library 2000: Investing in a Learning Nation: Report of the Library 2000 Review Committee (Singapore: SNP Publishers, 1994), 5–14. (From National Library Singapore, call no. RSING q027.05957 SIN); “Library Board to Start Operations Next Month,” Straits Times, 19 August 1995, 31. (From NewspaperSG)
+[^42]: Library 2000 Review Committee, _Library 2000: Investing in a Learning Nation: Report of the Library 2000 Review Committee_ (Singapore: SNP Publishers, 1994), 5–14. (From National Library Singapore, call no. RSING q027.05957 SIN); “Library Board to Start Operations Next Month,” _Straits Times_, 19 August 1995, 31. (From NewspaperSG)
 
-[^43]: National Library Board Singapore, Annual Report 1998 (Singapore: National Library Board, 1999), 17–18. (From National Library Singapore, call no. RSING 027.05957 SNLBAR)
+[^43]: National Library Board Singapore, _Annual Report 1998_ (Singapore: National Library Board, 1999), 17–18. (From National Library Singapore, call no. RSING 027.05957 SNLBAR)
 
-[^44]: Hong Xinyi, The Remaking of Singapore’s Public Libraries (Singapore: National Library Board, 2019), 10–17. (From National Library Online)
+[^44]: Hong Xinyi, _The Remaking of Singapore’s Public Libraries_ (Singapore: National Library Board, 2019), 10–17. (From National Library Online)
 
-[^45]: Linus Lin, “17 Newspapers at a Click of the Mouse,” Straits Times, 29 January 2010. (From NewspaperSG); National Library Board, Annual Report 2004/2005 (Singapore: National Library Board, 2005), 21, accessed 27 March 2025, https://www.nlb.gov.sg/main/about-us/press-room-and-publications/annual-reports. 
+[^45]: Linus Lin, “17 Newspapers at a Click of the Mouse,” _Straits Times_, 29 January 2010. (From NewspaperSG); National Library Board, _Annual Report 2004/2005_ (Singapore: National Library Board, 2005), 21, accessed 27 March 2025, https://www.nlb.gov.sg/main/about-us/press-room-and-publications/annual-reports. 
 
 [^46]: “Donate to Our Collections,” National Library Board, accessed 18 March 2025, https://www.nlb.gov.sg/main/partner-us/Donate-to-our-Collections. 
 
-[^47]: Shashi Jayakumar, “Looking Back, Looking Forward,” BiblioAsia 15, no. 1 (April–June 2019): 2; Wendy Ang and Tan Huism, “Directors’ Note,” BiblioAsia 15, no. 1 (April–June 2019): 1; Abigail Huang, “Building History: From Stamford Road to Canning Rise,” BiblioAsia 15, no. 1 (April–June 2019): 10-13; Asian Film Archive, Annual Report 2022 (Singapore: Asian Film Archive), 1, accessed 27 March 2025, https://asianfilmarchive.org/report/.
+[^47]: Shashi Jayakumar, “Looking Back, Looking Forward,” _BiblioAsia_ 15, no. 1 (April–June 2019): 2; Wendy Ang and Tan Huism, “Directors’ Note,” _BiblioAsia_ 15, no. 1 (April–June 2019): 1; Abigail Huang, “Building History: From Stamford Road to Canning Rise,” _BiblioAsia_ 15, no. 1 (April–June 2019): 10-13; Asian Film Archive, _Annual Report 2022_ (Singapore: Asian Film Archive), 1, accessed 27 March 2025, https://asianfilmarchive.org/report/.
 
-[^48]: National Library Board, Annual Report 2004/2005 (Singapore: National Library Board, 2005), 19; Annual Report FY2010/FY2011 (Singapore: National Library Board, 2011), 11, 15, accessed 27 March 2025, https://www.nlb.gov.sg/main/about-us/press-room-and-publications/annual-reports.
+[^48]: National Library Board, _Annual Report 2004/2005_ (Singapore: National Library Board, 2005), 19; _Annual Report FY2010/FY2011_ (Singapore: National Library Board, 2011), 11, 15, accessed 27 March 2025, https://www.nlb.gov.sg/main/about-us/press-room-and-publications/annual-reports.
 
-[^49]: “Reading Doesn’t Have to Be a Pain,” Straits Times, 25 May 2005, 2; “Use Your Smartphone to Borrow Library Books,” Straits Times, 24 September 2014, 6; “Seniors Can Learn Digital Skills at Libraries,” Straits Times, 27 February 2021, B2; “NLB Launches Two-month Festival to Promote Reading,” Today, 4 June 2016, 10; “Collection Points for Memories at 24 Libraries,” Straits Times, 6 September 2012, 4. (From NewspaperSG)
+[^49]: “Reading Doesn’t Have to Be a Pain,” _Straits Times_, 25 May 2005, 2; “Use Your Smartphone to Borrow Library Books,” _Straits Times_, 24 September 2014, 6; “Seniors Can Learn Digital Skills at Libraries,” _Straits Times_, 27 February 2021, B2; “NLB Launches Two-month Festival to Promote Reading,” _Today_, 4 June 2016, 10; “Collection Points for Memories at 24 Libraries,” _Straits Times_, 6 September 2012, 4. (From NewspaperSG)
 
 [^50]: “LAB25 (Libraries and Archives Blueprint 2025),” National Library Board, accessed 18 March 2025, https://www.nlb.gov.sg/main/about-us/About-NLB/lab25-libraries-and-archives-blueprint-2025.
 
-[^51]: “NLB’s 2024 Year in Preview – Innovative Services and New Experiences for All,” National Library Board, accessed 18 March 2025, https://www.nlb.gov.sg/main/about-us/press-room-and-publications/media-releases/2023/2024-Year-in-Preview. 
+[^51]: “NLB’s 2024 Year in Preview – Innovative Services and New Experiences for All,” National Library Board, accessed 18 March 2025, https://www.nlb.gov.sg/main/about-us/press-room-and-publications/media-releases/2023/2024-Year-in-Preview.
