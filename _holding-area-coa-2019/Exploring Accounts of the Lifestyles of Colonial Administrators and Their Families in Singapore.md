@@ -335,14 +335,9 @@ without their support.*
 
 
 <div>
-<b>Emma Harper</b>is a researcher and museum professional, currently based in Beijing.
+<b>Emma Harper</b> is a researcher and museum professional, currently based in Beijing.
 Her research interests broadly include the history of childhood, the development of
 museum collections and their management, and the construction and display of identity
 in the past, in particular how this has been preserved in the material record. Originally
 from the United Kingdom, she holds a BA in History and an MSt in Archaeology from
 the University of Oxford.</div>
-
-
-
-
-
