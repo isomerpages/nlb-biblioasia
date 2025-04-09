@@ -366,9 +366,7 @@ the University of Oxford.</div>
 
 #### **REFERENCES**
 
-Primary Sources - Published Materieals
+***Primary Sources - Published Materials***
       
-
-**_Primary sources – published materials_**
 
 
