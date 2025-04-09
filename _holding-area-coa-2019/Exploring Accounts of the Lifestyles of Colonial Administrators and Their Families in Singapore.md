@@ -285,7 +285,13 @@ An Englishman would cease to be an Englishman in a few, a very few generations�
 
 The year 1882 saw the marriage of Ernest Woodford Birch and Margaret Niven, representing the union of two individuals and families with personal histories rooted in a specifically Malayan context – Birch was a member of the Straits Settlements Civil Service and the son of J. W. W. Birch, the British Resident of Perak assassinated in 1875, while the aforementioned Margaret was the daughter of Lawrence Niven, the proprietor of a nutmeg plantation and later manager of the Botanic Gardens.59 Similarly, a year later, Edward Merewether, a Straits Settlement cadet and son of a member of the Indian Civil Service, married the daughter of Thomas Braddell, Singapore’s first Attorney-General, at St Andrew’s Cathedral in a wedding attended by leading members of European society.60 Despite moving to Malta and Sierra Leone later in life, the activities and affairs of the couple – including visits to the Association of British Malaya in London – continued to be reported in the Singapore press.61
 
-What is clear, however, is that the Singaporean identity claimed by long-term white residents in *One Hundred Years of Singapore* was ideologically separate and distinct from a wider notion of shared nationhood and citizenship. Instead, it related to identification with a specific “imagined
+What is clear, however, is that the Singaporean identity claimed by long-term white residents in *One Hundred Years of Singapore* was ideologically separate and distinct from a wider notion of shared nationhood and 
+
+<img src="/images/COA%202019/Exploring%20Accounts/Braddell_Family.jpg" style="width:50%;">
+ <div style="background-color: white;">Four generations of the Braddell family and their identity as “Singaporeans”
+were celebrated as an important part of the history of the island’s European community in One Hundred Years of Singapore (Vol. 2).<i> Image retrieved from Internet Archive.</i></div>
+
+citizenship. Instead, it related to identification with a specific “imagined
 community” based on occupation, race and nationality and a self-assurance
 that they would be free to be welcomed back into British society at the end
 of their careers. By sending children back to Britain for education, they were
