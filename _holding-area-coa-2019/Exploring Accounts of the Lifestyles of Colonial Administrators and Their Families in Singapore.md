@@ -121,49 +121,49 @@ examples appears at odds with Colquhoun’s view of Europeans in Singapore
 as existing within “a cramped little island”. However, this is an idea that
 prevails in several accounts of both residents and visitors. The lethargy often
 presented as a defining feature of life for white inhabitants is frequently
-linked to references to the position of these men and women far from their friends and families, struggling against the climate and lacking intellectual pursuits.20 An obsession with the coming and going of the mail is a motif often evoked to demonstrate the dependence upon any interaction with the wider world to infuse the community with vitality.21 A contrast thus appears to exist between the long-term, career-spanning movement and networks, and shorter-term feelings of isolation and stagnation.
+linked to references to the position of these men and women far from their friends and families, struggling against the climate and lacking intellectual pursuits.[^20] An obsession with the coming and going of the mail is a motif often evoked to demonstrate the dependence upon any interaction with the wider world to infuse the community with vitality.[^21] A contrast thus appears to exist between the long-term, career-spanning movement and networks, and shorter-term feelings of isolation and stagnation.
 
-Studying the sources highlights the existence of networks within and across imperial space that were more complex than simply ties linking points on the periphery back to the metropole and invested Singapore with a particular regional as well as global identity. An 1898 description of Singapore as the “capital of a little Empire” has implications for how we can understand Singapore within a system that did not require constant links to the metropole for its identity and place in the world.22 While there were significant differences between the institutions and norms that governed life in Malaya’s urban centres and the rural upcountry, the nature of imperial careering as presented earlier ensured that it was unheard of for an administrator to spend the entirety of his life in Malaya within one of these social formations.23 The ways that individuals related to Singapore specifically and as part of a wider British Malayan space were often complex and contradictory, illustrating the idea that there were multiple identities and imagined communities that could be drawn upon at particular times.24
+Studying the sources highlights the existence of networks within and across imperial space that were more complex than simply ties linking points on the periphery back to the metropole and invested Singapore with a particular regional as well as global identity. An 1898 description of Singapore as the “capital of a little Empire” has implications for how we can understand Singapore within a system that did not require constant links to the metropole for its identity and place in the world.[^22] While there were significant differences between the institutions and norms that governed life in Malaya’s urban centres and the rural upcountry, the nature of imperial careering as presented earlier ensured that it was unheard of for an administrator to spend the entirety of his life in Malaya within one of these social formations.[^23] The ways that individuals related to Singapore specifically and as part of a wider British Malayan space were often complex and contradictory, illustrating the idea that there were multiple identities and imagined communities that could be drawn upon at particular times.[^24]
 
 It has already been mentioned that Kershaw Wilson perceived his time in Singapore as a precursor to his career proper in upcountry Malaya, while when reflecting back on his time in Malaya, former planter Robert Bruce
 Lockhart stated that “to me, Singapore has never been more than an exotic
-island. I was an FMS man”.25 However, for others, Singapore functioned as
+island. I was an FMS man”.[^25] However, for others, Singapore functioned as
 an important reference point and mediatory that anchored their lives and
 careers. Emily Innes, the wife of a colonial administrator who spent time in
 Malaya during the 1870s and 80s, took joy in the opportunities presented to
-her to escape the isolation of her life with trips to vibrant, busy Singapore.26
+her to escape the isolation of her life with trips to vibrant, busy Singapore.[^26]
 Similarly, three decades later, Margaret Birch escaped from her life in Perak
 to visit Singapore to shop, visit friends and attend social events such as balls
-and the races.27 Singapore was often the place where administrators first
+and the races.[^27] Singapore was often the place where administrators first
 landed to take up posts elsewhere in British Malaya, greeted by recognisable
 institutions under the protection of the Union Jack; it may have been
 a place where men and women were sent to temporarily recuperate or
 prepare to leave the tropics for health reasons; it was frequently the site of
 significant life events such as marriages and births; and it was where British
 administrators and their wives were sent for dealings with senior judicial or
-administrative powers.28
+administrative powers.[^28]
 
 For those who spent longer periods residing in Singapore, improved
 communications over the course of the late 19th and early 20th centuries
 ensured that at times, the settlement felt more like a British town than an
-island thousands of miles from London.29 It was possible to receive weekly
+island thousands of miles from London.[^29] It was possible to receive weekly
 letters and business papers from home even in the midst of the disruption
 of the First World War, while advice given in guidebooks aimed at British
-men and women relocating to tropical parts of the Empire stress that it was possible, and indeed important, to keep up with the latest British fashions and styles.30 Not only letters, but goods and people were constantly sent across the world, connecting Singapore to elsewhere in Malaya, the United Kingdom and beyond. The fact that many of the middle-class travellers, whose accounts are preserved in the collections of the Lee Kong Chian Reference Library, were able to call on and interact with existing friends, families and social networks upon their arrival in Singapore highlights how the feelings both of isolation and connection to “home” were frequently tested and reinforced by ongoing patterns of movement.31
+men and women relocating to tropical parts of the Empire stress that it was possible, and indeed important, to keep up with the latest British fashions and styles.[^30] Not only letters, but goods and people were constantly sent across the world, connecting Singapore to elsewhere in Malaya, the United Kingdom and beyond. The fact that many of the middle-class travellers, whose accounts are preserved in the collections of the Lee Kong Chian Reference Library, were able to call on and interact with existing friends, families and social networks upon their arrival in Singapore highlights how the feelings both of isolation and connection to “home” were frequently tested and reinforced by ongoing patterns of movement.[^31]
 
 #### **A Structured and Controlled Social World**
 
 The “tiny world” of European society in Singapore created a particular social milieu which was frequently commented upon in the writings of those who observed or participated within it. In his account of an 1899 visit to Singapore, Walter del Mar laid out some of the tensions that existed within such a society:
 
-  *In small communities of Europeans, settled in the midst of<br>   another race with which there is practically no social intercourse,<br>   the individuals become closely united by ties of friendship and<br>   intimacy as well as by interest and for mutual protection…[they]<br>   assume with little friction the rank in the social scale to which they<br>   are entitled…everybody is “somebody” down to the club inebriate<br>   who is drinking himself to death…*.32
+  *In small communities of Europeans, settled in the midst of<br>   another race with which there is practically no social intercourse,<br>   the individuals become closely united by ties of friendship and<br>   intimacy as well as by interest and for mutual protection…[they]<br>   assume with little friction the rank in the social scale to which they<br>   are entitled…everybody is “somebody” down to the club inebriate<br>   who is drinking himself to death…*.[^32]
 
 The club acted as a key institution for socialisation, and the interactions between colonial residents and visitors were structured with reference to sport, amateur dramatics, the custom of calling cards and formal dinners in the homes of administrators and commercial *tuan besar*. Recreation and leisure time followed specific, prescribed forms and played an important part in both demonstrating the status of white residents through their competitive mindsets and physical prowess, and in building bonds and
 creating familiar environments in which new arrivals could easily find their
-place.33 Writing in 1878, William Temple Hornaday described Singapore as
+place.[^33] Writing in 1878, William Temple Hornaday described Singapore as
 “like a big desk, full of drawers and pigeon holes, where everything has its
 place and you can always be found in it”, encapsulating a sense of both the
 structured nature of interactions, and the central role that work played in
-defining these relations.34
+defining these relations.[^34]
 
 The source material also conveys an awareness of how the fluidity and
 transience of the lives and careers of many members of colonial society
@@ -172,10 +172,10 @@ over the 50-year period from the 1870s to the 1920s, visitors and residents
 reflected upon the changes they observed in both the physical layout of
 Singapore, and the social norms and practices that governed society, often
 nostalgically evoking a friendlier, less formal past and lamenting the loss
-of particular practices and individuals.35 *One Hundred Years of Singapore*,
+of particular practices and individuals.[^35] *One Hundred Years of Singapore*,
 published to mark the centenary of Raffles’ landing on the island, regretfully
 records the demise of cycling and debating societies, and short-lived journals
-covering topics such as athletics and motor cars.36 The short-lived and
+covering topics such as athletics and motor cars.[^36] The short-lived and
 transitory nature of many initiatives in Singapore impacted the community
 memory of Singapore’s European society. When the satirical *Straits Produce*
 magazine was revived in 1922 after a 24-year hiatus, the editors stressed that
@@ -186,12 +186,12 @@ there many sufficiently versed in its past history to understand the topics”
  <div style="background-color: white;">Cartoon from the satirical publication  <i>Straits Produce </i>, vol. 1, no. 3 (1893), satirising the fast-changing and peculiar habits and customs that governed the social lives of Singapore’s European community. The caption reads: “Mrs. Woodbie-Smart, who has just returned from a trip home, nearly startles the life out of poor little Snooks by shaking hands with him in the manner adopted by Society about five years’ ago, and now affected by second-rate people.”
 </div>
 
-that appeared in earlier issues.37 A similar impression is given by Thomas Keaughran, writing in *The Straits Times* in 1887. He laments the lack of care paid to the Christian cemetery at Bukit Timah, stating:
+that appeared in earlier issues.[^37] A similar impression is given by Thomas Keaughran, writing in *The Straits Times* in 1887. He laments the lack of care paid to the Christian cemetery at Bukit Timah, stating:
 
-  *Perhaps the mobile nature of our European population may in<br>   some measure account for this, as there are few connecting links<br>   of attachment reposing here to endear them to the spot. Still, the<br>   same apparent disregard seems to pervade the permanently resident<br>   inhabitants, many of whose progenitors here repose; even them <br>  youth…here shun the locality*.38
+  *Perhaps the mobile nature of our European population may in<br>   some measure account for this, as there are few connecting links<br>   of attachment reposing here to endear them to the spot. Still, the<br>   same apparent disregard seems to pervade the permanently resident<br>   inhabitants, many of whose progenitors here repose; even them <br>  youth…here shun the locality*.[^38]
 
-#### **“Singapore Is for the Singaporean: To Him Only It Has Its Attraction.”** 39
-
+#### **“Singapore Is for the Singaporean: To Him Only It Has Its Attraction.”**
+[^39]
 Despite the mobile population, however, some sources demonstrate
 how, at particular moments and for particular individuals, Singapore
 and an identity as “British Malayans” or even “Singaporeans” came to
@@ -201,7 +201,7 @@ shifts meant that it became increasingly common for men to marry and
 start families during the time they were employed as administrators
 in British Malaya, impacting both the nature of the society that
 existed in Singapore and the relationship between colonial outpost and
-British metropole.40
+British metropole.[^40]
 
 The wives of administrators loom large in primary accounts and secondary
 literature, often framed as the ignorant *mem*, transplanted to an alien land,
