@@ -190,8 +190,7 @@ that appeared in earlier issues.[^37] A similar impression is given by Thomas Ke
 
   *Perhaps the mobile nature of our European population may in<br>   some measure account for this, as there are few connecting links<br>   of attachment reposing here to endear them to the spot. Still, the<br>   same apparent disregard seems to pervade the permanently resident<br>   inhabitants, many of whose progenitors here repose; even them <br>  youth…here shun the locality*.[^38]
 
-#### **“Singapore Is for the Singaporean: To Him Only It Has Its Attraction.”**
-[^39]
+#### **“Singapore Is for the Singaporean: To Him Only It Has Its Attraction.”**[^39]
 Despite the mobile population, however, some sources demonstrate
 how, at particular moments and for particular individuals, Singapore
 and an identity as “British Malayans” or even “Singaporeans” came to
