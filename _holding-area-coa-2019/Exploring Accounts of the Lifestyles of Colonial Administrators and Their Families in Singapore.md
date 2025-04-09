@@ -94,11 +94,10 @@ Frank Kershaw Wilson came to Singapore in 1914 as an administrative cadet. From 
 
 In his letters, Kershaw Wilson appears to view his time and early career in Singapore with a sense of frustration. He expresses eagerness for the day that he is relocated upcountry and given the increased workload and responsibility that he yearns for, and laments the costs associated with maintaining the lifestyle required to participate within Singapore’s particular urban society.16
 
-![](/images/COA%202019/Exploring%20Accounts/Map.jpg)
+
 
 <img src="/images/COA%202019/Exploring%20Accounts/Map.jpg" style="width:80%;">
- <div style="background-color: white;">Young boys having a meal at a roadside hawker stall. From the Edwin A. Brown Collection. <i>Celia Mary Ferguson and National Library Board, Singapore, 2008.</i></div>
-
+ <div style="background-color: white;">Map outlining the career of Frank Kershaw Wilson across Malaya between 1914 and 1939, marking periods spent living and working in a series of locations. His relocations were interspersed with return trips “home” to the United Kingdom.<i> Compiled using data from The Malayan Civil List for 1939.</i></div>
 
 Mapping his career also highlights that alongside his conception of himself within a broader Malayan imperial space, his career is firmly rooted in relation to Britain as “home”. Though his visits to the United Kingdom were infrequent, they were associated with significant events such as promotions, relocations and even his marriage in the late 1920s, as well as being the site of his eventual retirement. It is possible thus to view his career in Malaya as developing within a specific local context framed by movement and the development of particular skills and knowledge, but also mediated by this continued relationship with and dependence on networks of connection to the United Kingdom.
 
