@@ -522,17 +522,17 @@ Strobel, Margaret. _European Women and the Second British_ Empire. Indianapolis:
 
 #### **NOTES**
 
-         
+      
 
-1 Ethel Colquhoun, [_Two on Their Travels_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4125842) (London: W. Heinemann, 1902), 15. (Call no. RRARE 910.4 COL) &nbsp;
+[^1]: Ethel Colquhoun, [_Two on Their Travels_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4125842) (London: W. Heinemann, 1902), 15. (Call no. RRARE 910.4 COL) &nbsp;
 
-2 Henry Norman, [_The Peoples and Politics of the Far East: Travels and Studies in the British, French, Spanish and Portuguese Colonies, Siberia, China, Japan, Korea, Siam and Malaya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3223224) (London: T. Fisher Unwin, 1895), 41. (From National Library Singapore, call no. RRARE 950 NOR-\[KSC\]; microfilm NL25995)
+[^2]: Henry Norman, [_The Peoples and Politics of the Far East: Travels and Studies in the British, French, Spanish and Portuguese Colonies, Siberia, China, Japan, Korea, Siam and Malaya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3223224) (London: T. Fisher Unwin, 1895), 41. (From National Library Singapore, call no. RRARE 950 NOR-\[KSC\]; microfilm NL25995)
 
-3 Alongside the material listed in the bibliography of this paper, further sources relating to this topic can be found online at [https://reference.nlb.gov.sg/](https://reference.nlb.gov.sg/).
+[^3]: Alongside the material listed in the bibliography of this paper, further sources relating to this topic can be found online at [https://reference.nlb.gov.sg/](https://reference.nlb.gov.sg/).
 
-4 Frank Swettenham, [_British Malaya: An Account of the Origin and Progress of British Influence in Malaya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4250032) (London: G. Allen &amp; Unwin, 1948), xv. (From National Library Singapore call no. RSING 959.5 SWE)
+[^4]: Frank Swettenham, [_British Malaya: An Account of the Origin and Progress of British Influence in Malaya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4250032) (London: G. Allen &amp; Unwin, 1948), xv. (From National Library Singapore call no. RSING 959.5 SWE)
 
-5 Straits Settlements, [_Blue Book for the Year_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4982696) (Singapore: Govt. Print. Off., 1881), 1–17. (From National Library Singapore, call no. RRARE 315.957 SSBB; microfilm NL2896)
+[^5]: Straits Settlements, [_Blue Book for the Year_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4982696) (Singapore: Govt. Print. Off., 1881), 1–17. (From National Library Singapore, call no. RRARE 315.957 SSBB; microfilm NL2896)
 
 6 For a detailed discussion of the nature of the British colonial civil service, see J. De Vere Allen, “Malayan Civil Service 1874–1941: Colonial Bureaucracy/Malayan Elite,” _Comparative Studies in Society and History_ 12, no. 2 (April 1970): 149–78. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
