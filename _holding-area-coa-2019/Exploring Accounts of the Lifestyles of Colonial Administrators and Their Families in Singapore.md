@@ -520,5 +520,3 @@ Procida, Mary. [_Married to the Empire: Gender, Politics and Imperialism in Indi
 Shennan, Margaret. [_Out in the Midday Sun: The British in Malaya 1880–1960_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201374576). 2nd ed. Singapore: Monsoon Books, 2015. (From National Library Singapore, call no. RSING 959.500421 SHE)
 
 Strobel, Margaret. _European Women and the Second British_ Empire. Indianapolis: Indiana University Press, 1991.
-
-
