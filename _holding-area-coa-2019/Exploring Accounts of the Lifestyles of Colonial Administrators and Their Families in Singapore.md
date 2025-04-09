@@ -206,17 +206,17 @@ The wives of administrators loom large in primary accounts and secondary
 literature, often framed as the ignorant *mem*, transplanted to an alien land,
 struggling with climate and disease, her presence ultimately responsible
 for the deterioration of relations between white men and the races they
-governed, and the eventual decline of the British Empire.41 However, to
+governed, and the eventual decline of the British Empire.[^41] However, to
 view the lifestyles of colonial wives solely in this way would be to neglect
 both the active role many women played in shaping their own lives and that of their families, and the ideological role that they played in the construction of the colonial project.
 
-In her work on British India, Mary Procida argues that as members of the official community, colonial wives had a material, psychological and ideological stake in the continued success of the British Empire.42 Seizing upon their “incorporated” status, they were able to draw on their positions within the hierarchy of imperial administration to place a significance upon their lifestyles that did not exist for their counterparts “at home”. Procida’s work highlights the way that the sharp divide between public and private spheres existing in British homes did not translate to the imperial context, with even so-called “private” and traditionally feminine domestic spaces required to serve the demands of empire.43 Wives of governors were required to set an example for wives lower down the hierarchy through their behaviour and hospitality. Even those married to more junior administrators were expected to participate in the management of household tasks and servants to reinforce the authority of the colonising power, and sustain structured habits of socialisation that were intrinsic to the success of their husbands within the hierarchy of the imperial civil service and in turn the British Empire at the broader level.44
+In her work on British India, Mary Procida argues that as members of the official community, colonial wives had a material, psychological and ideological stake in the continued success of the British Empire.[^42] Seizing upon their “incorporated” status, they were able to draw on their positions within the hierarchy of imperial administration to place a significance upon their lifestyles that did not exist for their counterparts “at home”. Procida’s work highlights the way that the sharp divide between public and private spheres existing in British homes did not translate to the imperial context, with even so-called “private” and traditionally feminine domestic spaces required to serve the demands of empire.[^43] Wives of governors were required to set an example for wives lower down the hierarchy through their behaviour and hospitality. Even those married to more junior administrators were expected to participate in the management of household tasks and servants to reinforce the authority of the colonising power, and sustain structured habits of socialisation that were intrinsic to the success of their husbands within the hierarchy of the imperial civil service and in turn the British Empire at the broader level.[^44]
 
-Writing to his fiancée Kips in England in 1916, Richard Myrddin Williams, a junior employee of commercial firm Paterson and Simons, outlines the particular significance given to women in maintaining a household and entertaining their husbands’ colleagues, both tasks which held an important role in structuring relations with other races and the development of business relationships. Over a series of letters, he prepares her for the responsibilities associated with these tasks, explaining how, although she might find it overwhelming, running a household was a particularly important role held by women in Singapore.45 Within the administrative sphere, a similar picture is presented by the diaries of Margaret Birch. Birch, who followed her husband to a range of localities within Malaya including
+Writing to his fiancée Kips in England in 1916, Richard Myrddin Williams, a junior employee of commercial firm Paterson and Simons, outlines the particular significance given to women in maintaining a household and entertaining their husbands’ colleagues, both tasks which held an important role in structuring relations with other races and the development of business relationships. Over a series of letters, he prepares her for the responsibilities associated with these tasks, explaining how, although she might find it overwhelming, running a household was a particularly important role held by women in Singapore.[^45] Within the administrative sphere, a similar picture is presented by the diaries of Margaret Birch. Birch, who followed her husband to a range of localities within Malaya including
 Perak, Negeri Sembilan and Borneo, describes her busy life, which required
 her to take on roles including overseeing the work of prisoners employed as
 domestic staff, entertaining visitors and dinner guests, and travelling within
-and beyond Malaya independently of her husband.46
+and beyond Malaya independently of her husband.[^46]
 
 Written testimonies by women demonstrate that within Malaya, for some
 women at least, it was possible both to actively participate in the networks
@@ -227,12 +227,12 @@ an assembled crowd at the Royal Colonial Institute in London in 1909.
 In her speech, she expressed her opinions on a range of aspects of British
 colonialism, from commenting on the way that those in Britain perceived of
 “our Colonies”, to making suggestions relating to the education of colonial
-administrators.47 Several decades earlier, Emily Innes had spent time living
+administrators.[^47] Several decades earlier, Emily Innes had spent time living
 with her husband as he served in the colonial administration of the Malay
 States. Her *The Chersonese with the Gilding Off*, published in 1885, provides
 an example of a woman championing her husband and his career in the face
 of perceived injustices, criticising both the nature of the system of imperial
-administration and the life that it forced her and her husband to live.48
+administration and the life that it forced her and her husband to live.[^48]
 
 Children, too, could be vested with a role within the process of imperialism
 that gave them and their lives a significance to both Singapore’s European
@@ -242,12 +242,12 @@ as “children of empire” and their activities were often recorded in the
 Singapore press long after they and their parents had permanently relocated
 elsewhere. However, it was a frequently expressed view that it was unsuitable
 for these children to remain in a tropical climate beyond the age of six
-or seven.49 The impact that this had on the demographics of Singapore is 
+or seven.[^49] The impact that this had on the demographics of Singapore is 
 
 <img src="/images/COA%202019/Exploring%20Accounts/European_Family_with_baby.jpg" style="width:50%;">
  <div style="background-color: white;">Photograph of a European family with baby taken in Singapore in the late 19th century. Women and children played an important symbolic and ideological role in the maintenance of British imperial power.<i> Image courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
 
-illustrated by census data from 1881, which demonstrates that there were more than double the number of two- and three-year-olds as 13- and 14-year-olds among the British population.50 The presence of children in colonial contexts was closely tied to both ideologies of Empire rooted in pseudo-scientific notions of racial superiority and the dangers of hostile climates upon white bodies, and shifts in how childhood was perceived within society in late 19th- and early 20th-century Britain, with an increasing state interest in processes of child rearing.51
+illustrated by census data from 1881, which demonstrates that there were more than double the number of two- and three-year-olds as 13- and 14-year-olds among the British population.[^50] The presence of children in colonial contexts was closely tied to both ideologies of Empire rooted in pseudo-scientific notions of racial superiority and the dangers of hostile climates upon white bodies, and shifts in how childhood was perceived within society in late 19th- and early 20th-century Britain, with an increasing state interest in processes of child rearing.[^51] 
 
 In his semi-autobiographical short story *Rachel*, Hugh Clifford focuses on
 the impact that the practice of sending children back to Britain at a young
@@ -255,10 +255,10 @@ age had on both children and adults. The future governor of the Straits
 Settlements highlights how administrators and their wives were forced
 to decide between their role as parents responsible for raising the next
 generation of national and imperial citizens, and their position as imperial
-servants.52 The decision to send children home to attend British public
+servants.[^52] The decision to send children home to attend British public
 schools acted to reinforce a particular middle-class ethos, and to frame their
 fragility with reference to claims for racial authority and hierarchy rooted in
-nature and biology.53
+nature and biology.[^53] 
 
 Children who were educated in Singapore or unable to return to the United
 Kingdom at the expected time were limited in the positions they could
@@ -272,7 +272,7 @@ employment in the government service, but was unable to advance beyond
 clerk level due to the “odium of being what is called a ‘country’ born”. It was
 only when he moved to employment in the commercial sector that he was
 able to flourish, drawing on his specific local knowledge and behaviour to
-the advantage of his career.54 Decades later, writing under the name Clive
+the advantage of his career.[^54] Decades later, writing under the name Clive
 Dalton, Frederick Clark explains in his account of his childhood on Pulau
 Brani that as a result of his family’s prolonged stay on the island due to the
 First World War, his education was irreversibly disrupted and he was thus
