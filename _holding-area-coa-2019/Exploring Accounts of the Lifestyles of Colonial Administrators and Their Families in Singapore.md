@@ -83,10 +83,73 @@ The concept of “imperial careering” is a useful analytical framework that ca
 Framing lifestyles with reference to careers is particularly relevant to colonial Singapore due to the belief expressed in contemporary sources that no man should move to the island without a job, both for their own sake and to preserve the prestige of the wider white community.12 For new arrivals, colleagues replaced the networks of friends and family they had left behind in the United Kingdom or elsewhere. The close link between occupation and European presence in Singapore is underscored by the fact that it was rare for administrators to remain in Malaya after their careers had ended, even if they had spent the bulk of their lives there. In 1881, the total number of British residents over the age of 60 in Singapore was no more than 22.13
 
 The *Straits Settlements Civil Service List*, produced annually from the 1880s, presents the names, educational backgrounds and career paths of every individual who joined the administrative service, from newly recruited cadets to the governor. These texts enabled residents and visitors to gain an
-understanding of the individuals who made up administrative society and to relate themselves into the hierarchy outlined.14 They can also be used to track the experiences that created individuals’ imperial careers and cross-referenced with other sources, such as newspapers or private correspondence. 
+understanding of the individuals who made up administrative society and to relate themselves into the hierarchy outlined.14 They can also be used to track the experiences that created individuals’ imperial careers and cross-referenced with other sources, such as newspapers or private correspondence.
 
+#### **Lives Within and Across Imperial Space**
 
+Two case studies highlight how the source material can be used to reconstruct the role that Singapore played within an individual’s career and allow us to attempt to reconstruct how this may have impacted the sense of place and the networks in which they were situated.
 
+Frank Kershaw Wilson came to Singapore in 1914 as an administrative cadet. From January 1915 to December 1916, he wrote regularly to his parents in the United Kingdom – copies of these letters are held as microfilm in the collection of the Lee Kong Chian Reference Library, Singapore.15 Cross-referencing these letters with Kershaw Wilson’s career recorded in the annual *Civil Service List* creates a picture of his career and the part that Singapore played within this. Over a period of more than 25 years in British Malaya, he was posted to eight different locations, spanning the Straits Settlements and the Federated and Unfederated Malay States with no clear regional “base” to which he returned over the course of his career.
+
+In his letters, Kershaw Wilson appears to view his time and early career in Singapore with a sense of frustration. He expresses eagerness for the day that he is relocated upcountry and given the increased workload and responsibility that he yearns for, and laments the costs associated with maintaining the lifestyle required to participate within Singapore’s particular urban society.16
+
+Mapping his career also highlights that alongside his conception of himself within a broader Malayan imperial space, his career is firmly rooted in relation to Britain as “home”. Though his visits to the United Kingdom were infrequent, they were associated with significant events such as promotions, relocations and even his marriage in the late 1920s, as well as being the site of his eventual retirement. It is possible thus to view his career in Malaya as developing within a specific local context framed by movement and the development of particular skills and knowledge, but also mediated by this continued relationship with and dependence on networks of connection to the United Kingdom.
+
+A comparable example of a life spent within imperial space can be seen in an examination of the career of Walter Cecil Michell, who was recruited as a cadet in the Straits Settlements Civil Service in 1887, after completing his undergraduate degree at the University of Oxford. Michell was based in Malaya until his retirement in 1919. His obituary, published in Singapore newspapers in 1939, provides several interesting elements that can be related to considerations of his life and career.17 As with Kershaw Wilson, Michell was posted to a range of locations within Malaya during his career, spending only a short period in Singapore. Despite this, and the fact that he had retired from the Malayan administration two decades earlier, his death was reported in the Singapore press, suggesting he remained part of the community there in some way, despite a gap across space and time. Indeed, that Michell and his wife were living in the south of France when he died rather than in the British metropole acts as a reminder that not all networks tied an individual back to the country that they had originally come from. 
+
+The next generation of the Michell family also continued to operate within multiple networks across space and community. Michell’s daughter Stella,
+who was born in Singapore in 1902, features in a two-page spread in the
+1907–8 edition of *The Straits Times Annual*, which showcased the offspring
+of some of Singapore’s European residents under the heading “Children of
+the Empire”. By the age of eight, Stella had been sent back to Britain for
+schooling and never again lived in Singapore.18 Despite this, however, her
+identity remained tied to the place she was born and the imperial project
+that her family contributed to. Several episodes in her life, including her
+1937 marriage in France and subsequent commitment to public service as the
+wife of a colonel in the British army, were reported in the Singapore press.
+Stella remained a child of this imperial community despite her family’s
+residence in Singapore having ceased several decades earlier.19
+
+The mobility associated with an imperial career outlined in the above 
+examples appears at odds with Colquhoun’s view of Europeans in Singapore
+as existing within “a cramped little island”. However, this is an idea that
+prevails in several accounts of both residents and visitors. The lethargy often
+presented as a defining feature of life for white inhabitants is frequently
+linked to references to the position of these men and women far from their friends and families, struggling against the climate and lacking intellectual pursuits.20 An obsession with the coming and going of the mail is a motif often evoked to demonstrate the dependence upon any interaction with the wider world to infuse the community with vitality.21 A contrast thus appears to exist between the long-term, career-spanning movement and networks, and shorter-term feelings of isolation and stagnation.
+
+Studying the sources highlights the existence of networks within and across imperial space that were more complex than simply ties linking points on the periphery back to the metropole and invested Singapore with a particular regional as well as global identity. An 1898 description of Singapore as the “capital of a little Empire” has implications for how we can understand Singapore within a system that did not require constant links to the metropole for its identity and place in the world.22 While there were significant differences between the institutions and norms that governed life in Malaya’s urban centres and the rural upcountry, the nature of imperial careering as presented earlier ensured that it was unheard of for an administrator to spend the entirety of his life in Malaya within one of these social formations.23 The ways that individuals related to Singapore specifically and as part of a wider British Malayan space were often complex and contradictory, illustrating the idea that there were multiple identities and imagined communities that could be drawn upon at particular times.24
+
+It has already been mentioned that Kershaw Wilson perceived his time in Singapore as a precursor to his career proper in upcountry Malaya, while when reflecting back on his time in Malaya, former planter Robert Bruce
+Lockhart stated that “to me, Singapore has never been more than an exotic
+island. I was an FMS man”.25 However, for others, Singapore functioned as
+an important reference point and mediatory that anchored their lives and
+careers. Emily Innes, the wife of a colonial administrator who spent time in
+Malaya during the 1870s and 80s, took joy in the opportunities presented to
+her to escape the isolation of her life with trips to vibrant, busy Singapore.26
+Similarly, three decades later, Margaret Birch escaped from her life in Perak
+to visit Singapore to shop, visit friends and attend social events such as balls
+and the races.27 Singapore was often the place where administrators first
+landed to take up posts elsewhere in British Malaya, greeted by recognisable
+institutions under the protection of the Union Jack; it may have been
+a place where men and women were sent to temporarily recuperate or
+prepare to leave the tropics for health reasons; it was frequently the site of
+significant life events such as marriages and births; and it was where British
+administrators and their wives were sent for dealings with senior judicial or
+administrative powers.28
+
+For those who spent longer periods residing in Singapore, improved
+communications over the course of the late 19th and early 20th centuries
+ensured that at times, the settlement felt more like a British town than an
+island thousands of miles from London.29 It was possible to receive weekly
+letters and business papers from home even in the midst of the disruption
+of the First World War, while advice given in guidebooks aimed at British
+men and women relocating to tropical parts of the Empire stress that it was possible, and indeed important, to keep up with the latest British fashions and styles.30 Not only letters, but goods and people were constantly sent across the world, connecting Singapore to elsewhere in Malaya, the United Kingdom and beyond. The fact that many of the middle-class travellers, whose accounts are preserved in the collections of the Lee Kong Chian Reference Library, were able to call on and interact with existing friends, families and social networks upon their arrival in Singapore highlights how the feelings both of isolation and connection to “home” were frequently tested and reinforced by ongoing patterns of movement.31
+
+#### **A Structured and Controlled Social World**
+
+The “tiny world” of European society in Singapore created a particular social milieu which was frequently commented upon in the writings of those who observed or participated within it. In his account of an 1899 visit to Singapore, Walter del Mar laid out some of the tensions that existed within such a society:
+
+  *In small communities of Europeans, settled in the midst of<br>   another race with which there is practically no social intercourse,<br>   the individuals become closely united by ties of friendship and<br>   intimacy as well as by interest and for mutual protection…[they]<br>   assume with little friction the rank in the social scale to which they<br>   are entitled…everybody is “somebody” down to the club inebriate<br>   who is drinking himself to death…*.32
 
 
 
