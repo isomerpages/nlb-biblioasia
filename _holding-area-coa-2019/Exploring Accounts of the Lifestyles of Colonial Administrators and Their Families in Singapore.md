@@ -363,3 +363,12 @@ museum collections and their management, and the construction and display of ide
 in the past, in particular how this has been preserved in the material record. Originally
 from the United Kingdom, she holds a BA in History and an MSt in Archaeology from
 the University of Oxford.</div>
+
+#### **REFERENCES**
+
+Primary Sources - Published Materieals
+      
+
+**_Primary sources – published materials_**
+
+
