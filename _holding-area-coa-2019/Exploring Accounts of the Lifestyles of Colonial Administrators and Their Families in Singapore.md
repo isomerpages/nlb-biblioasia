@@ -45,6 +45,7 @@ attributable to personal experience, position and perspective, there are wider
 themes and ideas relating to the ideologies that structured late 19th- and
 early 20th-century colonial society, which are important to consider when
 exploring these accounts and the views their authors express.
+
 #### **Source Material**
 
 
@@ -150,6 +151,125 @@ men and women relocating to tropical parts of the Empire stress that it was poss
 The “tiny world” of European society in Singapore created a particular social milieu which was frequently commented upon in the writings of those who observed or participated within it. In his account of an 1899 visit to Singapore, Walter del Mar laid out some of the tensions that existed within such a society:
 
   *In small communities of Europeans, settled in the midst of<br>   another race with which there is practically no social intercourse,<br>   the individuals become closely united by ties of friendship and<br>   intimacy as well as by interest and for mutual protection…[they]<br>   assume with little friction the rank in the social scale to which they<br>   are entitled…everybody is “somebody” down to the club inebriate<br>   who is drinking himself to death…*.32
+
+The club acted as a key institution for socialisation, and the interactions between colonial residents and visitors were structured with reference to sport, amateur dramatics, the custom of calling cards and formal dinners in the homes of administrators and commercial *tuan besar*. Recreation and leisure time followed specific, prescribed forms and played an important part in both demonstrating the status of white residents through their competitive mindsets and physical prowess, and in building bonds and
+creating familiar environments in which new arrivals could easily find their
+place.33 Writing in 1878, William Temple Hornaday described Singapore as
+“like a big desk, full of drawers and pigeon holes, where everything has its
+place and you can always be found in it”, encapsulating a sense of both the
+structured nature of interactions, and the central role that work played in
+defining these relations.34
+
+The source material also conveys an awareness of how the fluidity and
+transience of the lives and careers of many members of colonial society
+impacted the community’s social and intellectual vitality. At various points
+over the 50-year period from the 1870s to the 1920s, visitors and residents
+reflected upon the changes they observed in both the physical layout of
+Singapore, and the social norms and practices that governed society, often
+nostalgically evoking a friendlier, less formal past and lamenting the loss
+of particular practices and individuals.35 *One Hundred Years of Singapore*,
+published to mark the centenary of Raffles’ landing on the island, regretfully
+records the demise of cycling and debating societies, and short-lived journals
+covering topics such as athletics and motor cars.36 The short-lived and
+transitory nature of many initiatives in Singapore impacted the community
+memory of Singapore’s European society. When the satirical *Straits Produce*
+magazine was revived in 1922 after a 24-year hiatus, the editors stressed that
+“there are very few in Singapore to-day who remember the Nineties nor are
+there many sufficiently versed in its past history to understand the topics” that appeared in earlier issues.37 A similar impression is given by Thomas Keaughran, writing in *The Straits Times* in 1887. He laments the lack of care paid to the Christian cemetery at Bukit Timah, stating:
+
+  *Perhaps the mobile nature of our European population may in<br>   some measure account for this, as there are few connecting links<br>   of attachment reposing here to endear them to the spot. Still, the<br>   same apparent disregard seems to pervade the permanently resident<br>   inhabitants, many of whose progenitors here repose; even them <br>  youth…here shun the locality*.38
+
+#### **“Singapore Is for the Singaporean: To Him Only It Has Its Attraction.”** 39
+
+Despite the mobile population, however, some sources demonstrate
+how, at particular moments and for particular individuals, Singapore
+and an identity as “British Malayans” or even “Singaporeans” came to
+possess a significance and relevance not only for the men who worked as
+administrators, but for their wives and children. Practical and ideological
+shifts meant that it became increasingly common for men to marry and
+start families during the time they were employed as administrators
+in British Malaya, impacting both the nature of the society that
+existed in Singapore and the relationship between colonial outpost and
+British metropole.40
+
+The wives of administrators loom large in primary accounts and secondary
+literature, often framed as the ignorant *mem*, transplanted to an alien land,
+struggling with climate and disease, her presence ultimately responsible
+for the deterioration of relations between white men and the races they
+governed, and the eventual decline of the British Empire.41 However, to
+view the lifestyles of colonial wives solely in this way would be to neglect
+both the active role many women played in shaping their own lives and that of their families, and the ideological role that they played in the construction of the colonial project.
+
+In her work on British India, Mary Procida argues that as members of the official community, colonial wives had a material, psychological and ideological stake in the continued success of the British Empire.42 Seizing upon their “incorporated” status, they were able to draw on their positions within the hierarchy of imperial administration to place a significance upon their lifestyles that did not exist for their counterparts “at home”. Procida’s work highlights the way that the sharp divide between public and private spheres existing in British homes did not translate to the imperial context, with even so-called “private” and traditionally feminine domestic spaces required to serve the demands of empire.43 Wives of governors were required to set an example for wives lower down the hierarchy through their behaviour and hospitality. Even those married to more junior administrators were expected to participate in the management of household tasks and servants to reinforce the authority of the colonising power, and sustain structured habits of socialisation that were intrinsic to the success of their husbands within the hierarchy of the imperial civil service and in turn the British Empire at the broader level.44
+
+Writing to his fiancée Kips in England in 1916, Richard Myrddin Williams, a junior employee of commercial firm Paterson and Simons, outlines the particular significance given to women in maintaining a household and entertaining their husbands’ colleagues, both tasks which held an important role in structuring relations with other races and the development of business relationships. Over a series of letters, he prepares her for the responsibilities associated with these tasks, explaining how, although she might find it overwhelming, running a household was a particularly important role held by women in Singapore.45 Within the administrative sphere, a similar picture is presented by the diaries of Margaret Birch. Birch, who followed her husband to a range of localities within Malaya including
+Perak, Negeri Sembilan and Borneo, describes her busy life, which required
+her to take on roles including overseeing the work of prisoners employed as
+domestic staff, entertaining visitors and dinner guests, and travelling within
+and beyond Malaya independently of her husband.46
+
+Written testimonies by women demonstrate that within Malaya, for some
+women at least, it was possible both to actively participate in the networks
+and processes of their husbands’ imperial careers, and to conceptualise and
+construct how the process of colonialism was structured and implemented.
+Dorothy Cator drew on her own experiences of life in Borneo to address
+an assembled crowd at the Royal Colonial Institute in London in 1909.
+In her speech, she expressed her opinions on a range of aspects of British
+colonialism, from commenting on the way that those in Britain perceived of
+“our Colonies”, to making suggestions relating to the education of colonial
+administrators.47 Several decades earlier, Emily Innes had spent time living
+with her husband as he served in the colonial administration of the Malay
+States. Her *The Chersonese with the Gilding Off*, published in 1885, provides
+an example of a woman championing her husband and his career in the face
+of perceived injustices, criticising both the nature of the system of imperial
+administration and the life that it forced her and her husband to live.48
+
+Children, too, could be vested with a role within the process of imperialism
+that gave them and their lives a significance to both Singapore’s European
+community and the colonial government. As in the case of Stella Michell,
+the white sons and daughters of British administrators could be celebrated
+as “children of empire” and their activities were often recorded in the
+Singapore press long after they and their parents had permanently relocated
+elsewhere. However, it was a frequently expressed view that it was unsuitable
+for these children to remain in a tropical climate beyond the age of six
+or seven.49 The impact that this had on the demographics of Singapore is illustrated by census data from 1881, which demonstrates that there were more than double the number of two- and three-year-olds as 13- and 14-year-olds among the British population.50 The presence of children in colonial contexts was closely tied to both ideologies of Empire rooted in pseudo-scientific notions of racial superiority and the dangers of hostile climates upon white bodies, and shifts in how childhood was perceived within society in late 19th- and early 20th-century Britain, with an increasing state interest in processes of child rearing.51
+
+In his semi-autobiographical short story *Rachel*, Hugh Clifford focuses on
+the impact that the practice of sending children back to Britain at a young
+age had on both children and adults. The future governor of the Straits
+Settlements highlights how administrators and their wives were forced
+to decide between their role as parents responsible for raising the next
+generation of national and imperial citizens, and their position as imperial
+servants.52 The decision to send children home to attend British public
+schools acted to reinforce a particular middle-class ethos, and to frame their
+fragility with reference to claims for racial authority and hierarchy rooted in
+nature and biology.53
+
+Children who were educated in Singapore or unable to return to the United
+Kingdom at the expected time were limited in the positions they could
+hold within the administrative hierarchy. A 19th-century example of such
+a scenario is found in Dill Ross’ semi-autobiographical publication *Sixty
+Years: Life and Adventure in the Far East*. The author recounts the fate of a
+son of a penniless skipper. Financial troubles meant that he had to remain in
+Singapore for school, where the author states he received a poor standard of
+education “amidst half-castes and native boys”. Upon graduation he sought
+employment in the government service, but was unable to advance beyond
+clerk level due to the “odium of being what is called a ‘country’ born”. It was
+only when he moved to employment in the commercial sector that he was
+able to flourish, drawing on his specific local knowledge and behaviour to
+the advantage of his career.54 Decades later, writing under the name Clive
+Dalton, Frederick Clark explains in his account of his childhood on Pulau
+Brani that as a result of his family’s prolonged stay on the island due to the
+First World War, his education was irreversibly disrupted and he was thus
+unable to attend Sandhurst and pursue the career expected of him.55
+
+After visiting Singapore in 1879, Andrew Carnegie stated that permanent
+occupation of the island by Western races is “of course out of the question.
+An Englishman would cease to be an Englishman in a few, a very few generations”.56 However, in the 1921 centenary publication *One Hundred Years of Singapore*, the author proudly boasts of the longevity of several Singapore “dynasties”, including familiar names such as Braddell and Maxwell.57 The work lists the achievements of particular individuals in creating a flourishing European colonial society, proudly recounting the long-term associations between generations of these “Empire Families” and the development of Singapore and its institutions, acknowledging the exceptional nature of their commitment to the island and the status that this gave them.58
+
+
+
+
 
 
 
