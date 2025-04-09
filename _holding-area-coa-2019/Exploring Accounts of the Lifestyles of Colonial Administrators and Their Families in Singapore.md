@@ -267,8 +267,80 @@ After visiting Singapore in 1879, Andrew Carnegie stated that permanent
 occupation of the island by Western races is “of course out of the question.
 An Englishman would cease to be an Englishman in a few, a very few generations”.56 However, in the 1921 centenary publication *One Hundred Years of Singapore*, the author proudly boasts of the longevity of several Singapore “dynasties”, including familiar names such as Braddell and Maxwell.57 The work lists the achievements of particular individuals in creating a flourishing European colonial society, proudly recounting the long-term associations between generations of these “Empire Families” and the development of Singapore and its institutions, acknowledging the exceptional nature of their commitment to the island and the status that this gave them.58
 
+The year 1882 saw the marriage of Ernest Woodford Birch and Margaret Niven, representing the union of two individuals and families with personal histories rooted in a specifically Malayan context – Birch was a member of the Straits Settlements Civil Service and the son of J. W. W. Birch, the British Resident of Perak assassinated in 1875, while the aforementioned Margaret was the daughter of Lawrence Niven, the proprietor of a nutmeg plantation and later manager of the Botanic Gardens.59 Similarly, a year later, Edward Merewether, a Straits Settlement cadet and son of a member of the Indian Civil Service, married the daughter of Thomas Braddell, Singapore’s first Attorney-General, at St Andrew’s Cathedral in a wedding attended by leading members of European society.60 Despite moving to Malta and Sierra Leone later in life, the activities and affairs of the couple – including visits to the Association of British Malaya in London – continued to be reported in the Singapore press.61
+
+What is clear, however, is that the Singaporean identity claimed by long-term white residents in *One Hundred Years of Singapore* was ideologically separate and distinct from a wider notion of shared nationhood and citizenship. Instead, it related to identification with a specific “imagined
+community” based on occupation, race and nationality and a self-assurance
+that they would be free to be welcomed back into British society at the end
+of their careers. By sending children back to Britain for education, they were
+able to access domestic middle-class identities and undertake professional
+occupations and maintain the “English” identity that Carnegie feared
+would be lost. It was by no means certain that the sons of administrators would follow in their fathers’ footsteps and pursue a career in the Malayan administration. Members of the dynasties outlined in *One Hundred Years of Singapore* were not confined to the administrative sphere or to Singapore, with many pursuing commercial activities or moving elsewhere in the Empire.62
+
+The impression given by the sources is that the particular “Singaporean” society celebrated in the centenary publication was predominantly white, with only a few Chinese or Malays with whom it was deemed acceptable to interact. A visit to the garden of leading Chinese businessman Whampoa Hoo Ah Kay featured on the itinerary of any well-informed visitor to Singapore, while dinner with the Sultan of Johor was not uncommon for travellers passing through Singapore as well as those residing there for longer periods.63 Based on a visit to Singapore in 1905, George Morant stated that “as a rule, the European residents took little or no interest in the manners and customs of the native inhabitants”,64 and those who developed close personal relations with members of other races, particularly Eurasians, saw their position in Singapore suffer.65
+
+Interactions with non-European residents were clearly structured and regulated. Cadets often engaged closely with Malays as teachers, rooted in the belief that a successful administrator needed to acquire a knowledge of the language and culture of the native inhabitants of the country he was to govern, while it was possible to interact with English-educated Chinese as part of the imperial system of divide and rule.66 Despite rhetorical justifications of Empire rooted in references to late Victorian liberalism, a “civilising mission” and a perception of the inherent suitability of the British to rule as a result of their benevolence and justice, philanthropic activities appear to have fallen outside the remit of administrators, being left to missionaries, professionals such as doctors or teachers from outside the administrative hierarchy, or wealthy members of other races.67 A 1917 article
+in the *Malaya Tribune* claimed Singapore possessed the poorest standard of
+education among the British Crown Colonies, attributing it to the fact that:
+
+  *the European population here is a floating one. Nine out of ten<br>
+  have not the slightest intention of making this their permanent<br>
+  home, with the result that there is not very much interest<br>
+  evinced in a question which is of the greatest importance to the<br>
+  permanent population*.68
+
+While it was therefore possible for those who lived in Singapore to perceive
+themselves and others as holding a family or individual identity rooted
+in their particular local context, it is important to remember that when
+required, administrators were able to draw upon a coexisting set of identities
+and connections that bound them to Britain and marked them out from the
+bulk of the island’s population.
+
+#### **Conclusion**
+
+Exploring the rich body of evidence documenting the lifestyles of colonial
+administrators and their families is valuable in reinforcing the idea that
+colonialism and the British imperial project should best be understood not
+as an abstract, inevitable force of history, but a collection of actions carried
+out by individuals and the consequences that these actions had and continue
+to have upon society.
+
+Colquhoun’s critique highlights some of the key tensions witnessed
+and experienced by white British, American and European visitors and
+residents in Singapore, but fails to reflect the variations in experience
+that appear to have been influenced by a range of factors, the nuances of
+which are fundamental in any attempt to understand the complexities
+and contradictions involved in the implementation of the British imperial
+project. Singapore in the 19th century was complex and diverse, with
+individuals and communities isolated and connected in multiple ways,
+possessing identities that could be selectively drawn upon in different
+contexts. Robert Bickers encapsulates these multiplicities with reference to European communities within the imperial diaspora when he states that “the overseas Briton was a Rhodesian, or a Shanghailander, but she was also a colonial, a ‘citizen of the empire’…set aside from the British mainstream by self-perception and the perception of home Britons”.69
+
+While on the one hand the record of these variations are shaped by individual experiences – such as how long the author of an account spent in Singapore, their position within the administrative hierarchy and their family backgrounds – they should also be framed within a wider ideological context of imperialism and the conflicts implicit in the way that colonial power was implemented. Those interacting with society from a European or American viewpoint were observing norms that had been adapted and reworked to fit an imperial purpose and support an ideology of rule. From the way that women were both invested with important roles as “the mothers of empire” and yet separated from their children as they grew up, to the framing of privileged white men who chose to pursue careers in the Empire as “exiles”, the construction of identities and ideologies within the context of Empire was complex and often contradictory. Highlighting these tensions and multiplicities allows us to better understand how we should situate colonial administrators in Singapore both within their local and regional contexts, as well as within the broader British imperial system.
+
+Further study of the ideas, topics and issues touched upon in this work will be valuable for continuing to develop our understanding of colonial Singapore. Archives are not neutral repositories of information, and it is important to acknowledge that the materials that are available for consultation represent but a small part of the total body of information, reflecting prevailing ideologies and power structures. An analysis of non-English language sources or a focus on those who interacted with white administrators in roles as clerks or even cadets pre-1900 would add an important dimension to understanding how administrators were perceived and the wider social context in which they were situated. Focused individual case studies of careers and lives spent within a specifically Malayan context would be valuable should source material that makes such a detailed analysis possible be found. There is also scope for an analysis which focuses in greater detail on both the divergences and similarities between Singapore and the other localities in British Malaya. Overall, therefore, the collections
+held by NLB and NAS present a valuable source through which the
+lifestyles of administrators can be considered, and provide the tools that
+can be used to go beyond accounts of colonial pioneers and governors to
+interrogate existing stereotypes and perceptions, and the ideologies and
+power structures through which they were historically created and upheld.
+
+#### **Acknowledgments**
+*I wish to thank Dr Donna Brunero for her comments and guidance during the duration
+of my Fellowship, and the staff at NLB and NAS, particularly Joanna Tan, for their
+recommendations and help with accessing materials. Thanks also to Hubert for all his
+advice relating to Singapore and its history. This work would not have been possible
+without their support.*
 
 
+
+<div>
+<b>Emma Harper</b>is a researcher and museum professional, currently based in Beijing.
+Her research interests broadly include the history of childhood, the development of
+museum collections and their management, and the construction and display of identity
+in the past, in particular how this has been preserved in the material record. Originally
+from the United Kingdom, she holds a BA in History and an MSt in Archaeology from
+the University of Oxford.</div>
 
 
 
