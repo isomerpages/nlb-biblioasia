@@ -367,6 +367,158 @@ the University of Oxford.</div>
 #### **REFERENCES**
 
 ***Primary Sources - Published Materials***
-      
+
+     
+Applin, R. V. K. [_Across the Seven Seas_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4256799). London: Chapman &amp; Hall, 1937. (From National Library Singapore, call no. RCLOS 355.00924 APP-\[RFL\])
+
+Bastin, John, ed. [_Travellers’ Singapore: An Anthology_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7062675). Kuala Lumpur: Oxford University Press, 1994. (From National Library Singapore, call no. RSING 959.5705 TRA-\[JSB\])&nbsp; &nbsp;
+
+Bird, Isabella. [_The Golden Chersonese and the Way Thither_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12643624)_._ London: John Murray, 1883. 111 (From National Library Singapore, call no. RCLOS 959.5 BIS; microfilm NL 5876)
+
+Brassey, Annie. [_A Voyage in the “Sunbeam”: Our Home on the Ocean for Eleven Months_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=b6878536-e891-40de-8c71-fc331f017d7c). 3rd ed. London: Longmans, Green &amp; Co, 1878. (From National Library Online)  
+  
+Brown, A. Edwin. [_Indiscreet Memories: 1901 Singapore Through the Eyes of a Colonial Englishman_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5276937). London: Kelly &amp; Walsh, 1935. (From National Library Singapore, call no. RCLOS 959.51 BRO; microfilm NL16352)
+
+Lockhart, Bruce, R. H. [_Return to Malaya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13021985). New York: Putnam, 1936. (From National Library Singapore, call no. RRARE 959.5 LOC-\[JSB\]; microfilm NL18264)  
+  
+Caddy, Florence. [_To Siam and Malaya in the Duke of Sutherland’s yacht, “Sans Peur”_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=0a4a9320-10da-448e-87b1-f749f74252bb). London: Hurst and Brackett, 1889. (From National Library Online)
+
+Cameron, John. [_Our Tropical Possessions in Malayan India: Being a Descriptive Account of Singapore, Penang, Province Wellesley and Malacca: Their Peoples, Products, Commerce and Government_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=7658c549-f1c5-47c7-b8b6-831f7eb90c58). London: Smith, Elder and Co., 1865. (From National Library Online)  
+  
+Carnegie, Andrew. _Round the World_. New York: \[s.n.\], 1957.
+
+Clifford, Hugh. Hugh Clifford, “Rachel,” _Living Age_ 239 (1903): 468–535.
+
+Colquhoun, Ethel. [_Two on Their Travels_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4125842). London: W. Heinemann, 1902. (Call no. RRARE 910.4 COL; microfilm NL25803) &nbsp;
+
+Dalton, Clive. [_A Child in the Sun_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4401768). London: Eldon, 1937. (From National Library Singapore, call no. RRARE 959.5 DAL-\[JSB\]; microfilm NL18263)
+
+Del Mar, Walter. [_Around the World Through Japan_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202604641). London: Adam and Charles Black, 1904. (From National Library Singapore, call no. RRARE 910.41 DEL-\[JSB\])  
+  
+Dill Ross, John. [_The Capital of a Little Empire: Descriptive Study of British Crown Colony in the Far East_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=12950fc8-e1d4-4158-aaaa-d04d5358aac1). Singapore: Kelly &amp; Walsh, 1898. (From National Library Online; microfilm NL 5829)
+
+—. [_Sixty Years: Life and Adventure in the Far East_](https://catalogue.nlb.gov.sg/search/card?recordId=4384878)_,_ vol. 1. London: Hutchinson, 1911. (From National Library Singapore, call no. RCLOS 959 ROS; microfilm NL14209)
+
+Farlow, Minnie. [_Singapore Skits in Prose and Verse_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980595). Singapore: Singapore and Straits Print. Off., 1896. (From National Library Singapore, call no. RRARE 820 MF; microfilm NL5827)
+
+Gilmour, Andrew. [_An Eastern Cadet’s Anecdotage_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082081). Singapore: University Education Press, 1874. (From National Library Singapore, call no. RSING 920 GIL)
+
+Hornaday, William T. [_Two Years in the Jungle: The Experience of a Hunter and Naturalist in India, Ceylon, the Malay Peninsula and Borneo With Maps and Illustrations_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12976509). London: K. Paul, Trench, 1885. (From National Library Singapore, call no. RRARE 915.043 HOR; microfilm NL7981)
+
+Innes, Emily. [_The Chersonese With the Gilding Off_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6864774). London: Richard Bentley and Son, 1885. (From National Library Singapore, call no. RSING 915.951043 INN)
+
+Keaughran, T. J. [_Picturesque and Busy_ Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5917099). Singapore: Lat Pau Press, 1887. (From National Library Singapore, call no. RRARE 915.951 KEA; microfilm no. NL5829)
+
+Kratoska, Paul, ed. [_Honourable Intentions: Talks on the British Empire in South-East Asia Delivered at the Royal Colonial Institute 1874–1924_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4079900). Singapore: Oxford University Press, 1983. (From National Library Singapore, call no. RSING 959.5 HON) &nbsp;&nbsp;
+
+Leigh Hunt, Shirley and Alexander S. Kenny. _Tropical Trials: A Handbook for Women in the Tropics_. London: W. H. Allen &amp; Co., 1883.
+
+Makepeace, Walter, Gilbert E. Brooke and Roland St. J. Braddell. [_One Hundred Years of Singapore: Being Some Account of the Capital of the Straits Settlements From Its Foundation by Sir Stamford Raffles on the 6th February 1819 to the 6th February 1919_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4183132)_._ Vol. 1–2. 2016. Reprint. London: John &amp; Murray, 1921. (From National Library Singapore, call no. RSING 959.57 ONE-\[HIS\]  
+  
+Malayan Civil Service. [_The Malayan Civil List_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5047345)_._ Singapore: Printed at the G.P.O., 1939. (From National Library Singapore, RRARE 354.595002 MCL; microfilm NL9784)
+
+Morant, Geo C. [_Odds and Ends of Foreign Travel_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4117127). London: Charles and Edward Layton, 1913. (From National Library Singapore, call no. RCLOS 901.4 MOR)
+
+Norman, Henry. [_The Peoples and Politics of the Far East: Travels and Studies in the British, French, Spanish and Portuguese Colonies, Siberia, China, Japan, Korea, Siam and Malaya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3223224). London: T. Fisher Unwin, 1895. (From National Library Singapore, call no. RRARE 950 NOR-\[KSC\]; microfilm NL25995)
+
+Rennie, J. S. M. [_Musings of J.S.M.R., Mostly Malayan_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4412322)_._ Singapore: Malaya Pub. House, 1933. (From National Library Singapore, call no. RRARE 959.5 REN; microfilm NL8447)
+
+Sidney, Richard J. H. [_In British Malaya To-Day_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202647248). London: Hutchinson &amp; Co., 1927. (From National Library Singapore, call no. RCLOS 959.5 SID-\[RFL\])
+
+_Straits Produce_ 1, no. 3 (1893)–v. 12, no. 3 (1934). From National Library Singapore, call no. RCLOS 959.51033 SP
+
+Straits Settlements, [_Blue Book for the Year_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4982696)_._ Singapore: Govt. Print. Off., 1881. (From National Library Singapore, call no. RRARE 315.957 SSBB; microfilm NL2896)
+
+—. [_The Straits Settlements Civil Service List Showing The Civil Establishments, Names and Designations of the Civil Servants of Government._](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12675603) Singapore: Government Printing Office, 1884. (From National Library Singapore, call no. RARE 351.2 STR; microfilm NL5821)
+
+—. [_The Straits Settlements Civil Service List Showing The Civil Establishments, Names and Designations of the Civil Servants of Government._](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12675603) Singapore: Government Printing Office, 1902. (From National Library Singapore, call no. RARE 351.2 STR; microfilm NL5821)
+
+—. [_Blue Book for the Year_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4982696)_._ Singapore: Govt. Print. Off., 1911. (From National Library Singapore, call no. RRARE 315.957 SSBB; microfilm NL2896)
+
+Swettenham, Frank A. [_British Malaya: An Account of the Origin and Progress of British Influence in Malaya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4250032). Rev. ed. London: G. Allen &amp; Unwin, 1948. (From National Library Singapore call no. RSING 959.5 SWE)
+
+The Straits Times, _Straits Settlements and Federated Malay States Annual_. Singapore: Straits Times Press, 1908. (From National Library Singapore, microfilm NL5876)
+
+   
+
+**_Newspaper Articles (From NewspaperSG)_**
+
+_Malaya Tribune._ “[Malayans at Home](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19370327-1.2.82).” 27 March 1937, 13.
+
+_Singapore Free Press and Mercantile Advertiser_. “[News in Brief](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19390321-1.2.54).” 21 March 1939, 3.
+
+_Singapore Free Press and Mercantile Advertiser (Weekly)._ &nbsp;“[The Health of the Governor](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk18930829-1.2.36).” 29 August 1893, 6.
+
+_Straits Times._ Sylvia, “[The Little Things of Life](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19060713-1.2.63).” 13 July 1906, 8.
+
+_—._ “[Children in Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19140611-1.2.82).” 11 June 1914, 10.&nbsp;
+
+—. “[Social and Personal](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19270625-1.2.28).” 25 June 1927, 8.
+
+—. “[Sir Ernest Birch: Biographical Sketch of Noted Administrator](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19300117-1.2.5).” 17 January 1930, 4.
+
+_Straits Times Weekly Issue._ “[Topics of the Day](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18830129-1.2.4.14).” 29 January 1883, 4.
+
+—. Keaughran, T. J. “[Picturesque and Busy Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18870117-1.2.20).” 17 January 1887, 6.  
+  
+**_Personal Correspondence and Archival Material_**
+
+Birch M. “[Papers of Sir Ernest Birch (Box 1 of 12): Personal Diaries of Mrs Margaret Birch, 1896–1904, With a Loose Programme of Amateur Theatricals at the Tanglin Club, 1885](https://www.nas.gov.sg/archivesonline/private_records/record-details/ef7bc44e-6336-11e5-ac2a-0050568939ad).” Box 1, private records, 187619–29. (From National Archives of Singapore accession no. MSS.Ind.Ocn.s.354; microfilm NAB 0803)
+
+Kempe, Erskine John. [_John Erskine Kempe, Diaries, vol. 1–10, December 1911 to 1934_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12961638). MSS.Ind.Ocn.S.94. Oxford: Bodleian Library, 1986. (From National Library Singapore, call no. RCLOS 959.503 KEM; microfilm copy held in NLB)
+
+Kershaw, Wilson Frank. [_Frank Kershaw Wilson’s Letters Home, January 1915 – December 1916, While As Administrative Cadet, Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12973122). MSS. Ind.Ocn.S.162. Bodleian Libraries, University of Oxford, United Kingdom. Singapore: National Library Board, 2009. (From National Library Singapore, call no. RCLOS 959.5703 WIL; microfilm copy held in NLB)
+
+Williams, Richard Myrddin. [_Richard Myrddin Williams: Letters to Katherine Paterson, 1913–1918_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203160418). (From National Library Singapore, call no. RRARE 959.5703 WIL)
+
+The National Archives (United Kingdom). [Singapore: Investigation of Mrs Acton, Wife of Roger Acton of the Straits Settlements Civil Service](https://www.nas.gov.sg/archivesonline/private_records/record-details/ee6835c9-662e-11e4-859c-0050568939ad), private records, 01/01/1916-31/12/1917. (From National Archives of Singapore accession no. FCO 141/16032)
+
+         
+
+**_Secondary Material_**
+
+Anderson, Benedict. [_Imagined Communities: Reflections on the Origin and Spread of Nationalism_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202563392). New York: Verso, 2006. (From National Library Singapore, call no. RCLOS 320.54 AND)
+
+Beuttner, Elizabeth. _Empire Families: Britons and Late imperial India._ Oxford: Oxford University Press, 2004.
+
+Bickers, Robert. [_Settlers and Expatriates: Britons Over the Seas_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202245971). New York: Oxford University Press, 2010. (From National Library Singapore, call no. R 305.341 SET)
+
+Brownfoot, N. Janice. “Sisters Under the Skin: Imperialism and the Emancipation of Women in Malaya c. 1891–1941,” in _Making Imperial Mentalities: Socialisation and British Imperialism_, ed. J. Mangan. Manchester: Manchester University Press, 1990, 46–73.  
+  
+Burton, M. Antoinette. “The White Woman’s Burden: British Feminists and the Indian Woman, 1865–1915,” _Women’s Studies International Forum_ 13, no. 4 (1990): 295–308.  
+  
+Butcher, G. John. [_The British in Malaya 1880–1941: The Social History of a European Community in Colonial South-East Asia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1901870)_._ Kuala Lumpur: Oxford University Press, 1979. (From National Library Singapore, call no. RSING 301.4512105951033 BUT)
+
+Callan, Hilary and Shirley Ardener, eds. _The Incorporated Wife._ London: Croom Helm, 1984. &nbsp;  
+  
+Davin, Anna. “Imperialism and Motherhood,” _History Workshop_ 5, no. 1 (Spring 1978): 9–65. (From EBSCOhost via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+De Vere J. Allen. “Malayan Civil Service 1874–1941: Colonial Bureaucracy/Malayan Elite,” _Comparative Studies in Society and History_ 12, no. 2 (April 1970): 149–78. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Harper, T. N. “Globalism and the Pursuit of Authenticity: The Making of a Diasporic Public Sphere in Singapore,” _Sojourn_ 12, no. 2 (1997): 261–92. (From EBSCOhost via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Harper, Tim. “The British ‘Malayans’,” in [_Settlers and Expatriates: Britons Over the Seas_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202245971), ed. Robert Bickers. New York: Oxford University Press, 2010, 233–69. (From National Library Singapore, call no. R 305.341 SET)
+
+Hollen Lees, Lynn. “Being British in Malaya 1890–1940.” _Journal of British Studies_ 48, no. 1 (January 2009): 76–101. (From EBSCOhost via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Hyam, Ronald. _Empire and Sexuality_. Manchester: Manchester University Press, 1990.
+
+Jones, Margaret. “Permanent “Boarders”: The British in Ceylon, 1815–1960.” In [_Settlers and Expatriates: Britons Over the Seas_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202245971), ed. Robert Bickers (New York: Oxford University Press, 2010), 205–32. (From National Library Singapore, call no. R 305.341 SET)  
+  
+Lambert, David and Alan Lester, eds. [_Colonial Lives Across the British Empire: Imperial Careering in the Long Nineteenth Century_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13685965). Cambridge: Cambridge University Press, 2010. (From National Library Singapore, call no. R 909.0971241 COL)
+
+Lester, Alan. “Imperial Circuits and Networks: Geographies of the British Empire.” _History Compass_ 4, no. 1 (January 2006): 124–41.  
+  
+Lowrie, Claire. [Masters and Servants: Cultures of Empire in the Tropics](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202557629). Manchester: Manchester University Press, 2016. (From National Library Singapore, call no. RSING 325.341095957 LOW)
+
+McDevitt, P. F. _May the Best Man Win: Sport, Masculinity and Nationalism in Great Britain and the Empire 1880–1935_. Basingstoke: Palgrave Macmillan, 2004.  
+  
+Pomfret, David. [_Youth and Empire: Trans-Colonial Childhoods in British and French Asia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202410743) (Stanford: Stanford University Press, 2016). (From National Library Singapore, call no. RSEA 305.230959 POM)
+
+Procida, Mary. [_Married to the Empire: Gender, Politics and Imperialism in India 1883–1947_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11166024) (Manchester: Manchester University Press, 2002), 2. (From National Library Singapore, call no. R 954.035 PRO)
+
+Shennan, Margaret. [_Out in the Midday Sun: The British in Malaya 1880–1960_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201374576). 2nd ed. Singapore: Monsoon Books, 2015. (From National Library Singapore, call no. RSING 959.500421 SHE)
+
+Strobel, Margaret. _European Women and the Second British_ Empire. Indianapolis: Indiana University Press, 1991.
 
 
