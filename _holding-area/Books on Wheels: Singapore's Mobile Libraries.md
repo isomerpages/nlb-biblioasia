@@ -15,7 +15,7 @@ By Gracie Lee
 
 On 31 January 1959, the Singapore Constitution Exposition opened at the former Kallang Airport to much fanfare. The two-month-long event was organised to celebrate the establishment of the State of Singapore and the new Constitution, a major milestone in Singapore’s transition to full internal self-government.[^1]
 
-Among the 600 exhibitors from commercial and government sectors, an unexpected attraction made its public debut: the Raffles National Library’s mobile library van, which had been converted from a decommissioned army bus.[^2] Together with part-time branch libraries, the mobile library service was part of the library’s efforts to reach residents in outlying areas.&nbsp;
+Among the 600 exhibitors from commercial and government sectors, an unexpected attraction made its public debut: the Raffles National Library’s mobile library van, which had been converted from a decommissioned army bus.[^2] Together with part-time branch libraries, the mobile library service was part of the library’s efforts to reach residents in outlying areas.
 
 #### **Plans for a Mobile Library Service**
 
