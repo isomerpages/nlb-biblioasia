@@ -244,9 +244,9 @@ Singapore press long after they and their parents had permanently relocated
 elsewhere. However, it was a frequently expressed view that it was unsuitable
 for these children to remain in a tropical climate beyond the age of six
 or seven.49 The impact that this had on the demographics of Singapore is 
-![](/images/COA%202019/Exploring%20Accounts/European_Family_with_baby.jpg)
-<img src="/images/COA%202019/Exploring%20Accounts/Map.jpg" style="width:80%;">
- <div style="background-color: white;">Map outlining the career of Frank Kershaw Wilson across Malaya between 1914 and 1939, marking periods spent living and working in a series of locations. His relocations were interspersed with return trips “home” to the United Kingdom.<i> Compiled using data from The Malayan Civil List for 1939.</i></div>
+
+<img src="/images/COA%202019/Exploring%20Accounts/European_Family_with_baby.jpg" style="width:50%;">
+ <div style="background-color: white;">Photograph of a European family with baby taken in Singapore in the late 19th century. Women and children played an important symbolic and ideological role in the maintenance of British imperial power.<i> Image courtesy of the National Museum of Singapore, National Heritage Board.</i></div>
 
 illustrated by census data from 1881, which demonstrates that there were more than double the number of two- and three-year-olds as 13- and 14-year-olds among the British population.50 The presence of children in colonial contexts was closely tied to both ideologies of Empire rooted in pseudo-scientific notions of racial superiority and the dangers of hostile climates upon white bodies, and shifts in how childhood was perceived within society in late 19th- and early 20th-century Britain, with an increasing state interest in processes of child rearing.51
 
