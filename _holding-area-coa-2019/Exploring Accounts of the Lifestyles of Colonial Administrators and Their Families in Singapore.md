@@ -40,7 +40,7 @@ view, highlighting the perceived benefits of a tropical lifestyle, the strengths
 of the small European community in Singapore and what they believed
 were improvements to the outlook and living conditions of Chinese,
 Malays and Indians as a result of “the presence of English law and…the
-protection of the British flag”.2 While an individual’s views are to an extent
+protection of the British flag”.[^2] While an individual’s views are to an extent
 attributable to personal experience, position and perspective, there are wider
 themes and ideas relating to the ideologies that structured late 19th- and
 early 20th-century colonial society, which are important to consider when
@@ -58,7 +58,7 @@ takes a variety of forms, from published travellers’ accounts and semiautobiog
 prose produced by members of the island’s European
 community, to original and facsimile copies of letters and diaries.
 Newspapers and magazines – ranging from broadsheets such as *The Straits
-Times* to the satirical *Straits Produce* – record the activities and concerns of Europeans who lived on the island and their relationship to wider regional and international affairs, while official records including census data, the *Civil Service List* and the *Blue Book* further outline the structure and boundaries placed upon the administrative community.3 These texts provide a valuable supplement to existing work on the peopling of the British Empire and the creation of settler communities and identities, much of which focuses on British India, and is interested in governors at the top of the imperial hierarchy, or relies upon official documents held in archives in the United Kingdom.
+Times* to the satirical *Straits Produce* – record the activities and concerns of Europeans who lived on the island and their relationship to wider regional and international affairs, while official records including census data, the *Civil Service List* and the *Blue Book* further outline the structure and boundaries placed upon the administrative community.[^3]These texts provide a valuable supplement to existing work on the peopling of the British Empire and the creation of settler communities and identities, much of which focuses on British India, and is interested in governors at the top of the imperial hierarchy, or relies upon official documents held in archives in the United Kingdom.
 
 #### **The Colonial Administration in Singapore c. 1870–1920**
 
@@ -662,4 +662,3 @@ Strobel, Margaret. _European Women and the Second British_ Empire. Indianapolis:
 68 “[Local Education](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19170828-1.2.17),” _Malaya Tribune_, 28 August 1917, 4. (From NewspaperSG)
 
 69 Robert Bickers, “Introduction: Britains and Britons over the Seas,” in [_Settlers and Expatriates: Britons Over the Seas_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202245971) (New York: Oxford University Press, 2010), 8. (From National Library Singapore, call no. R 305.341 SET)
-
