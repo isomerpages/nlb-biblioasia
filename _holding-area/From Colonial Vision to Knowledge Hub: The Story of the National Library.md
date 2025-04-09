@@ -182,35 +182,48 @@ As NLB looks to the future, it will continue to evolve, experiment and innovate 
 
 [^28]: “Start Made on Free Library,” Straits Times, 17 August 1957 4; “$2½ Mil. Library Is Free,” Singapore Free Press, 16 August 1957, 2; “City’s New $2 Mil Library,” Sunday Standard, 20 November 1955, 3. (From NewspaperSG)
 
-[^29]: Ellice Handy, [_My Favourite Recipes_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4181819) (Singapore: Malaya Publishing House, 1952). (From National Library, Singapore, call no. RSING 641.595 HAN-\[JK\])
+[^29]: “Start Made on Free Library,” Straits Times, 17 August 1957 4. (From NewspaperSG)
 
+[^30]:Raffles Museum Singapore, Annual Report 1955 (Singapore: Government Printing Office, 1956), 1. (From National Library Singapore, call no. RCLOS 069.095957 RAF); Raffles Museum Singapore, Annual Report 1957 (Singapore: Government Printing Office, 1958), 1. (From National Library Singapore, call no. RCLOS 069.095957 RAF); Seet, A Place for the People, 102; Hedwig Anuar, “Singapore’s National Library,” Straits Times Annual, 1 January 1962, 58–59. (From NewspaperSG)
 
-[^30]:Leong Yee Soo, [_Singaporean Cooking_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4081873), vol. 2. (Singapore: Eastern Universities Press, 1981). (From National Library, Singapore, call no. RSING 641.595957 LEO)
+[^31]: “First Malayan to be Head of Raffles Library,” Straits Budget, 11 May 1960, 16. (From NewspaperSG)
 
+[^32]: National Library Board, Singapore, Annual Report 1960–63 (Singapore: National Library Board, 1964). (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); Ministry of Culture, “Library Division General Correspondence,” 1965–71. (From National Archives of Singapore, microfilm no. AR 006), 309; Anuar, “Singapore’s National Library.” 
 
+[^33]: “Out Goes the Name Raffles,” Straits Times, 21 November 1960, 9. (From NewspaperSG
 
-[^31]: Yu Yoon Gee, [_Nyonya Food, Satay and Padang Curry Cooking_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4182614) (Singapore: Tiger Press, 1976). (From National Library, Singapore, call no. RCLOS 641.8653 YU)
+[^34]: National Library Singapore, Books About Malaysia (Singapore: National Library, 1963–1967). (From National Library Singapore, call no. RCLOS 016.9595 SIN)
 
+[^35]: S. Rajaratnam, “The Opening of the South East Asia Room and Presentation of the Ya Yin Kwan Collection by Mr. Tan Yeok Seong at the National Library,” speech, National Library, 28 August 1964, transcript. (From National Archives of Singapore, document no. PressR19640828); National Library Board Singapore, Annual Report 1960–63, 5; National Library Singapore, Annual Report 1965 (Singapore: National Library, 1967), 5. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); National Library Singapore, Annual Report 1964 (Singapore: National Library, 1967), 1–2. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); “National Collection,” National Library Board, accessed 28 March 2025, https://www.nlb.gov.sg/main/visit-us/our-libraries-and-locations/libraries/national-library-singapore/collections/Collections/National-Collection; Lee, “Collecting the Scattered Remains”; Ong, “Rare Materials Collection.”
 
-[^32]: Dorothy Ng, [_Dorothy Ng’s Entertaining Cookbook_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6561166) (Singapore: MPH Distributors, 1979). (From National Library, Singapore, call no. RSING q641.595957 NG)
+[^36]: Kristina Tom, “Makings of a Modern Classic,” Straits Times, 2 July 2005, 4. (From NewspaperSG)
 
+[^37]: Philip Lee, “First Lady of Books,” Straits Times, 1 November 2007, 62; Serena Toh, “Library Head All Set for New Career,” Straits Times, 1 October 1988, 21. (From NewspaperSG)
 
-[^33]: Terry Tan, [_Her World Cookbook of Singapore Recipes_](http://eservice.nlb.gov.sg/item_holding.aspx?bid=3310328) (Singapore: Times Periodicals, 1982). (From National Library, Singapore, call no. RSING 641.595957 TAN)
+[^38]: “400,000 Readers Is Library Target,” Straits Times, 23 January 1964, 4. (From NewspaperSG); National Library Singapore, Annual Report 1964, 8; National Library Singapore, Annual Report 1989/90  (Singapore: National Library, 1990), 3. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR)
 
+[^39]: National Library Singapore, Annual Report 1979/80  (Singapore: National Library, 1980), 4. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); National Library Singapore, Annual Report 1980/81 (Singapore: National Library, 1981), 30. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); National Library Singapore, Annual Report 1989/90, 3; Fauziah Ibrahim, SILAS at a Glance: The Singapore National Bibliographic Network (Singapore: National Library Board, 1996), 11–14. (From National Library Online); Rohaniah Saini, “On-Line System Boon to Library Users,” Straits Times, 20 May 1988, 20. (From NewspaperSG)
 
-[^34]: “[As Good as Home Cooked Nonya Food](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19780217-1.2.62.5),” _New Nation_, 17 February 1978, 10–11. (From NewspaperSG)
+[^40]: National Library Singapore, Annual Report 1989/90, 3.
 
+[^41]: Theresa Tan, “After April 1, Buy a Chunk of the Old Library,” Straits Times, 29 January 2004; David Chew, “More Than Just Books,” Today, 14 November 2005, 33; Nancy Koh, “The Library of Tomorrow,” Straits Times, 24 May 1989, 1; Adeline Chia, “A-Z Guide to the New National Library,” Straits Times, 2 July 2005, 2. (From NewspaperSG)
 
-[^35]: Lawrence Low and Loh Tuan Lee, “[What’s Our National Dish?](https://eresources.nlb.gov.sg/newspapers/digitised/article/newpaper19880808-1.2.16.1)” _New Paper_, 8 August 1988, 16. (From NewspaperSG)
+[^42]: Library 2000 Review Committee, Library 2000: Investing in a Learning Nation: Report of the Library 2000 Review Committee (Singapore: SNP Publishers, 1994), 5–14. (From National Library Singapore, call no. RSING q027.05957 SIN); “Library Board to Start Operations Next Month,” Straits Times, 19 August 1995, 31. (From NewspaperSG)
 
+[^43]: National Library Board Singapore, Annual Report 1998 (Singapore: National Library Board, 1999), 17–18. (From National Library Singapore, call no. RSING 027.05957 SNLBAR)
 
-[^36]: Cúán Greene, “I Dropped the Croustade, _Omos Digest #87_, 19 March 2023, [https://omos.substack.com/p/omos-digest-coustade-pastry](https://omos.substack.com/p/omos-digest-coustade-pastry).
+[^44]: Hong Xinyi, The Remaking of Singapore’s Public Libraries (Singapore: National Library Board, 2019), 10–17. (From National Library Online)
 
+[^45]: Linus Lin, “17 Newspapers at a Click of the Mouse,” Straits Times, 29 January 2010. (From NewspaperSG); National Library Board, Annual Report 2004/2005 (Singapore: National Library Board, 2005), 21, accessed 27 March 2025, https://www.nlb.gov.sg/main/about-us/press-room-and-publications/annual-reports. 
 
-[^37]: “Bunuelos/Pie Tee Moulds,” MoldBrothers, last accessed 29 September 2024, [https://shop.moldbrothers.com/product-category/bunuelos-pie-tee/](https://shop.moldbrothers.com/product-category/bunuelos-pie-tee/).
+[^46]: “Donate to Our Collections,” National Library Board, accessed 18 March 2025, https://www.nlb.gov.sg/main/partner-us/Donate-to-our-Collections. 
 
+[^47]: Shashi Jayakumar, “Looking Back, Looking Forward,” BiblioAsia 15, no. 1 (April–June 2019): 2; Wendy Ang and Tan Huism, “Directors’ Note,” BiblioAsia 15, no. 1 (April–June 2019): 1; Abigail Huang, “Building History: From Stamford Road to Canning Rise,” BiblioAsia 15, no. 1 (April–June 2019): 10-13; Asian Film Archive, Annual Report 2022 (Singapore: Asian Film Archive), 1, accessed 27 March 2025, https://asianfilmarchive.org/report/.
 
-[^38]: Francisco Migoya, correspondence, 20 August 2024.
+[^48]: National Library Board, Annual Report 2004/2005 (Singapore: National Library Board, 2005), 19; Annual Report FY2010/FY2011 (Singapore: National Library Board, 2011), 11, 15, accessed 27 March 2025, https://www.nlb.gov.sg/main/about-us/press-room-and-publications/annual-reports.
 
+[^49]: “Reading Doesn’t Have to Be a Pain,” Straits Times, 25 May 2005, 2; “Use Your Smartphone to Borrow Library Books,” Straits Times, 24 September 2014, 6; “Seniors Can Learn Digital Skills at Libraries,” Straits Times, 27 February 2021, B2; “NLB Launches Two-month Festival to Promote Reading,” Today, 4 June 2016, 10; “Collection Points for Memories at 24 Libraries,” Straits Times, 6 September 2012, 4. (From NewspaperSG)
 
-[^39]: This trick of drying the fried shells in fact appears in a 1581 German cookbook, as described by Priscilla Mary Işın in her essay, “Moulds for Shaping and Decorating Food in Turkey”. The recipe directs cooks to hold the fritters in front of a fire.
+[^50]: “LAB25 (Libraries and Archives Blueprint 2025),” National Library Board, accessed 18 March 2025, https://www.nlb.gov.sg/main/about-us/About-NLB/lab25-libraries-and-archives-blueprint-2025.
+
+[^51]: “NLB’s 2024 Year in Preview – Innovative Services and New Experiences for All,” National Library Board, accessed 18 March 2025, https://www.nlb.gov.sg/main/about-us/press-room-and-publications/media-releases/2023/2024-Year-in-Preview. 
