@@ -9,8 +9,8 @@ image: /images/Vol 21 Issue 2/Story of National Library/image_1.png
 
 By Lim Tin Seng
 
-![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/)
-<div style="background-color: white;"> Also known as “top hats”, <i>kueh pie tee</i> contain <i>popiah</i> filling. <i>Courtesy of Christopher Tan. </i></div>
+![](/images/Vol%2021%20Issue%202/Story%20of%20National%20Library/image_1.png)
+<div style="background-color: white;"> The library section of the Raffles Library and Museum, c. 1910. <i>Collection of the National Museum of Singapore, National Heritage Board. Gift of Sam Kai Faye.</i></div>
 
 Somewhat remarkably, the idea of the National Library in Singapore can be traced back to 1819. Stamford Raffles, who signed a treaty with Malay rulers that year to establish a trading post on the island, envisioned a college that would educate the sons of the Malay elite as well as employees of the British East India Company. Included in the plan was a library to “collect the scattered literature and traditions of the country, with whatever may illustrate their laws and customs, and to publish and circulate in a correct form the most important of these, with such other works as may be calculated to raise the character of the institution and to be useful or instructive to the people”.[^1]
 
@@ -32,7 +32,7 @@ The Singapore Library acquired its titles through appointed book agents as well 
 
 The Singapore Library was initially well received. Described as an “agreeable place of resort… [and] recreation”, it moved to the Town Hall (today’s Victoria Theatre and Concert Hall) in 1862 to make it more accessible.[^9] By 1863, however, the library faced financial difficulties due to the low subscription rate. An irate patron wrote to the _Straits Times_ to complain that the books in the library were “ill-kept, ill-assorted, entirely without any connection or fullness in any division of literature”.[^10]
 
-By 1875, the library was saddled with a debt of $500 due to years of “mismanagement, neglect and a lack of subscribers”. It was described by the Straits Times as being in a “moribund condition” with no new books added since 1873.[^11]
+By 1875, the library was saddled with a debt of $500 due to years of “mismanagement, neglect and a lack of subscribers”. It was described by the _Straits Times_ as being in a “moribund condition” with no new books added since 1873.[^11]
 
 
 #### **The Raffles Library and Museum: The “Q” Collection**
@@ -45,9 +45,18 @@ After Andrew Clarke became the new governor in November 1873, he refined the mus
 
 The library opened in the Town Hall on 14 September 1874, focused on collecting “valuable works relating to the Straits Settlements, and surrounding countries, as well as standard works on Botany, Zoology, Mineralogy, Geography, and the Arts and Sciences generally”. The library had three sections  – a reference library, a reading room and a lending library – and operated on a two-tier subscription-based model. First-class subscribers paid an annual fee of $20, or $5 quarterly, for the privilege of borrowing two complete works and one periodical as well as exclusive access to new books for three months. Second-class subscribers paid $6 annually, or $1.50 quarterly, to borrow one complete work and one periodical.
 
+![](/images/Vol%2021%20Issue%202/Story%20of%20National%20Library/image_3.png)
+<div style="background-color: white;"> The Town Hall (present-day Victoria Theatre and Concert Hall), 1870. The Raffles Library and Museum opened in the Town Hall on 4 September 1874. <i>Lee Kip Lin Collection, National Library Singapore</i>.</div>
+
 To ensure that “every possible advantage may be placed within the reach of readers in the Settlement”, the library was also opened to non-subscribers but they were not permitted to borrow materials. James Collins, headmaster of the Singapore Institution, was appointed to oversee both the library and museum as librarian and curator.[^14]
 
+![](/images/Vol%2021%20Issue%202/Story%20of%20National%20Library/image_4.png)
+<div style="background-color: white;"> Rules of the Raffles Library 8 March 1882. <i>Collection of the National Library Singapore.</i></div>
+
 In 1877, the growing collections of the Raffles Library and Museum necessitated a move to the first and second floors of a new wing of the Singapore Institution, which had been renamed Raffles Institution. But this space soon proved inadequate, prompting the construction of a dedicated building on Stamford Road. This striking neoclassical structure, with its 90-foot (27&nbsp;m) dome (now home to the National Museum of Singapore), opened on 12 October 1887. It housed the library on the ground floor and the museum on the first floor.[^15]
+
+![](/images/Vol%2021%20Issue%202/Story%20of%20National%20Library/image_6.png)
+<div style="background-color: white;"> The Raffles Library and Museum on Stamford Road, 1900s. <i>Courtesy of National Archives of Singapore</i>.</div>
 
 The library’s initial collection consisted of 200 newly purchased books and the 3,000-volume collection from the Singapore Library. Through purchases and donations, the collection grew to over 26,000 volumes by the end of 1900.[^16]
 
@@ -65,6 +74,9 @@ The Raffles Library and Museum reopened to the public in December 1945 after the
 
 The 1950s saw significant improvements under trained librarians Louise E. Bridges and Leonard M. Harrod. Bridges, Librarian from 1951 to 1952, transformed the library with a limited budget of $4,000 from a “dim, dingy [place] with cold echoing cement floors” into a place of “wonders”. She introduced comfortable furniture, proper shelving for newspapers and implemented the Dewey Decimal Classification System, bringing order to the previously “chaotic mess”. Bridges also established a booking system for popular titles, proposed an after-hours book return bin and implemented a fine system for overdue books. The first part-time branch library in the suburbs opened in Upper Serangoon in 1953.[^25]
 
+![](/images/Vol%2021%20Issue%202/Story%20of%20National%20Library/image_5.png)
+<div style="background-color: white;"> A seating area at the Raffles Library, 1950s. The card catalogue cabinet is seen in the background. <i>Collection of the National Library Singapore.</i></div>
+
 Harrod, who became Librarian in September 1954, expanded the collection to over 100,000 volumes by the mid-1950s.[^26] He initiated an “Oriental” collection featuring books in Chinese, Malay and Tamil, and started a music section with about 4,500 pieces of sheet music, music albums and miniature scores by the end of 1958. Harrod also built more part-time branch libraries in the outlying areas and proposed a mobile library service.[^27]
 
 On 1 January 1955, Harrod was appointed Director of the Raffles Library after its administration was separated from that of the Raffles Museum. Plans were also made for the library to move into a new $2.5-million three-storey building on an adjacent site previously occupied by the St John’s Ambulance Headquarters and the British Council Hall.[^28]
@@ -79,6 +91,9 @@ Harrod retired in January 1960 while the new National Library building on Stamfo
 
 The new red-brick National Library building on Stamford Road was officially opened on 12 November 1960 by Yang di-Pertuan Negara (Head of State) Yusof Ishak. It accommodated a collection of some 140,000 volumes spread across an Adult Lending Library, a Children’s Library and a Reference Library. The building also included administrative offices, a conference room, lecture halls, as well as storage and maintenance spaces for library and archival materials. The Children’s Library became so popular that it was usually packed during the school holidays. On 20 April 1967, &nbsp;Prime Minister Lee Kuan Yew wrote to the Minister for Culture: “I understand from my children that during school holidays the Junior Library is crowded to overflowing. Can you confirm if this is so? If it is, it is a development to be welcomed and encouraged and the facilities must be expanded to take in our every growing educated youths. You will find Cabinet ready to support expansion of library projects.”[^32]
 
+![](/images/Vol%2021%20Issue%202/Story%20of%20National%20Library/image_7.png)
+<div style="background-color: white;"> Prime Minister Lee Kuan Yew’s letter to the Minister for Culture pledging the government’s support to expand the facilities of the Children’s Library at the National Library, 20 April 1967. <i>From National Archives of Singapore, microfilm no. AR 006</i>.</div>
+
 On 9 December 1960, Raffles National Library was renamed the National Library after the Raffles National Library (Change of Name) Ordinance was passed.[^33]
 In 1963, the National Library’s “Q” Collection made headlines when its bibliography, _Books about Malaysia_, was “hailed in all parts of the world” after it was published.[^34] Thereafter, the library received two major donations. The Penang-born merchant Tan Yeok Seong donated his 10,000-volume on Southeast Asian works to the library in 1964. This is now known as the Ya Yin Kwan Collection. One year later, Mrs Loke Yew, mother of film magnate Loke Wan Tho (chairman of the board of the National Library from 1960 until his death in 1964) donated her son’s collection of 1,000 books and journals on Malayan flora, fauna, travel and arts, known today as the Gibson-Hill Collection. 
 These donations, along with the existing “Q” collection, formed the foundation of the South East Asia (SEA) Room which opened on 28 August 1964. Today, the SEA Collection has evolved into the National Library’s National Collection comprising the Rare Materials Collection, the Singapore and Southeast Asia collections and the Donors’ Collection.[^35]
@@ -90,11 +105,17 @@ In the 1980s, Anuar led the National Library on its path to computerisation. Boo
 
 As the 1980s came to a close, the need for a new National Library building became clear as the Stamford Road location had been “stretched to the limit”.[^40] On 1 April 2004, the shutters of the red-brick building on Stamford Road came down for the last time, paving the way for the new National Library Building on Victoria Street which officially opened on 12 November 2005.[^41]
 
+![](/images/Vol%2021%20Issue%202/Story%20of%20National%20Library/image_2.png)
+<div style="background-color: white;"> Level 11 of the Lee Kong Chian Reference Library at the National Library Building on Victoria Street. <i>Photo by Jimmy Yap.</i></div>
+
 #### **The National Library Board: Revolutionising Library Services**
 
 In 1992, the Library 2000 Review Committee was convened to conduct a comprehensive review of library services in Singapore. A key outcome of the committee’s report, released in 1994, was the establishment of the National Library Board (NLB) on 1 September 1995 to oversee the development and management of the National Library and public libraries.[^42]
 
 With more autonomy and flexibility as a statutory board, NLB embarked on its journey of innovation and service excellence by leveraging new technology. In 1998, NLB became the first library system in the world to pioneer the use of radio frequency identification technology for all library processes and operations. Book borrowing and returning became faster and easier with automated self-check borrowing stations and automated bookdrops.[^43]
+
+![](/images/Vol%2021%20Issue%202/Story%20of%20National%20Library/image_8.png)
+<div style="background-color: white;"> The former National Library building on Stamford Road after an extensive makeover in 1997, 1998. <i>Collection of the National Library Singapore</i>.</div>
 
 In tandem with technological advancements, the physical library network was enlarged significantly. New regional libraries in Tampines, Woodlands and Jurong provided expanded collections and services, while smaller branch libraries were strategically co-located with community centres or housed within shopping malls to encourage more visitors to the library. This expansion has resulted in a comprehensive network of 28 public libraries across the island today.[^44]
 
@@ -119,8 +140,8 @@ As NLB looks to the future, it will continue to evolve, experiment and innovate 
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/ChristopherTan.png">
-	<b>Christopher Tan</b> is a food writer, author, educator and photographer. His most recent books are <i>The Way of Kueh: Savouring &amp; Saving Singapore’s Heritage Desserts</i> (Epigram Books, 2019), a celebration of local kueh culture, and <i>NerdBaker 2: Tales from the Yeast Indies</i> (Epigram Books, 2024), about yeast cookery.</div>
+<img style="width: 100px; height: 100px;" src="/images/Authors/limtinseng.png">
+	<b>Lim Tin Seng</b> is a Senior Librarian with the National Library Singapore. He is the co-editor of <i>Roots: Tracing Family Histories – A Resource Guide</i> (2013), <i>Harmony and Development: ASEAN-China Relations</i> (2009) and <i>China’s New Social Policy: Initiatives for a Harmonious Society</i> (2010). He writes regularly for <i>BiblioAsia</i>.</div>
 
 #### **Notes**
 
@@ -190,7 +211,7 @@ As NLB looks to the future, it will continue to evolve, experiment and innovate 
 
 [^32]: National Library Board, Singapore, [_Annual Report 1960–63_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3408747) (Singapore: National Library Board, 1964). (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); Ministry of Culture, “[Library Division General Correspondence](https://www.nas.gov.sg/archivesonline/government_records/record-details/9a1d7801-1159-11e3-83d5-0050568939ad),” 1965–71. (From National Archives of Singapore, microfilm no. AR 006), 309; Anuar, “[Singapore’s National Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/stannual19620101-1.2.45).” 
 
-[^33]: “[Out Goes the Name Raffles](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19601121-1.2.88),” _Straits Times_, 21 November 1960, 9. (From NewspaperSG
+[^33]: “[Out Goes the Name Raffles](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19601121-1.2.88),” _Straits Times_, 21 November 1960, 9. (From NewspaperSG)
 
 [^34]: National Library Singapore, [_Books About Malaysia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4826220) (Singapore: National Library, 1963–1967). (From National Library Singapore, call no. RCLOS 016.9595 SIN)
 
@@ -200,9 +221,9 @@ As NLB looks to the future, it will continue to evolve, experiment and innovate 
 
 [^37]: Philip Lee, “[First Lady of Books](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes20071101-1.2.74.5.4.aspx),” _Straits Times_, 1 November 2007, 62; Serena Toh, “[Library Head All Set for New Career](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19881001-1.2.25.13.aspx),” _Straits Times_, 1 October 1988, 21. (From NewspaperSG)
 
-[^38]: “[400,000 Readers Is Library Target](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19640123-1.2.25),” _Straits Times_, 23 January 1964, 4. (From NewspaperSG); National Library Singapore, [_Annual Report 1964_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3408747), 8; National Library Singapore, [_Annual Report 1989/90_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3408747)  (Singapore: National Library, 1990), 3. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR)
+[^38]: “[400,000 Readers Is Library Target](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19640123-1.2.25),” _Straits Times_, 23 January 1964, 4. (From NewspaperSG); National Library Singapore, [_Annual Report 1964_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3408747), 8; National Library Singapore, [_Annual Report 1989/90_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3408747) (Singapore: National Library, 1990), 3. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR)
 
-[^39]: National Library Singapore, [_Annual Report 1979/80_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3408747)  (Singapore: National Library, 1980), 4. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); National Library Singapore, [Annual Report 1980/81](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3408747) (Singapore: National Library, 1981), 30. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); National Library Singapore, [_Annual Report 1989/90_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3408747), 3; Fauziah Ibrahim, [_SILAS at a Glance: The Singapore National Bibliographic Network_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=7fc37f06-ce5a-4c65-b43f-bc3cbb67357b) (Singapore: National Library Board, 1996), 11–14. (From National Library Online); Rohaniah Saini, “[On-Line System Boon to Library Users](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880520-1.2.40.2),” _Straits Times_, 20 May 1988, 20. (From NewspaperSG)
+[^39]: National Library Singapore, [_Annual Report 1979/80_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3408747) (Singapore: National Library, 1980), 4. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); National Library Singapore, [Annual Report 1980/81](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3408747) (Singapore: National Library, 1981), 30. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); National Library Singapore, [_Annual Report 1989/90_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3408747), 3; Fauziah Ibrahim, [_SILAS at a Glance: The Singapore National Bibliographic Network_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=7fc37f06-ce5a-4c65-b43f-bc3cbb67357b) (Singapore: National Library Board, 1996), 11–14. (From National Library Online); Rohaniah Saini, “[On-Line System Boon to Library Users](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19880520-1.2.40.2),” _Straits Times_, 20 May 1988, 20. (From NewspaperSG)
 
 [^40]: National Library Singapore, [_Annual Report 1989/90_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3408747), 3.
 
