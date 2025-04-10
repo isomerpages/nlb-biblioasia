@@ -115,7 +115,7 @@ In 1992, the Library 2000 Review Committee was convened to conduct a comprehensi
 With more autonomy and flexibility as a statutory board, NLB embarked on its journey of innovation and service excellence by leveraging new technology. In 1998, NLB became the first library system in the world to pioneer the use of radio frequency identification technology for all library processes and operations. Book borrowing and returning became faster and easier with automated self-check borrowing stations and automated bookdrops.[^43]
 
 ![](/images/Vol%2021%20Issue%202/Story%20of%20National%20Library/image_8.png)
-<div style="background-color: white;"> The former National Library building on Stamford Road after an extensive makeover in 1997, 1998. <i>Collection of the National Library Singapore.</i>.</div>
+<div style="background-color: white;"> The former National Library building on Stamford Road after an extensive makeover in 1997, 1998. <i>Collection of the National Library Singapore</i>.</div>
 
 In tandem with technological advancements, the physical library network was enlarged significantly. New regional libraries in Tampines, Woodlands and Jurong provided expanded collections and services, while smaller branch libraries were strategically co-located with community centres or housed within shopping malls to encourage more visitors to the library. This expansion has resulted in a comprehensive network of 28 public libraries across the island today.[^44]
 
