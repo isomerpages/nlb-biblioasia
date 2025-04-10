@@ -9,8 +9,8 @@ image: /images/Vol 21 Issue 2/Story of National Library/image_1.png
 
 By Lim Tin Seng
 
-![](/images/Vol%2020%20Issue%204/Kueh%20Pie%20Tee/)
-<div style="background-color: white;"> Also known as “top hats”, <i>kueh pie tee</i> contain <i>popiah</i> filling. <i>Courtesy of Christopher Tan. </i></div>
+![](/images/Vol%2021%20Issue%202/Story%20of%20National%20Library/image_1.png)
+<div style="background-color: white;"> The library section of the Raffles Library and Museum, c. 1910. <i>Collection of the National Museum of Singapore, National Heritage Board. Gift of Sam Kai Faye.</i></div>
 
 Somewhat remarkably, the idea of the National Library in Singapore can be traced back to 1819. Stamford Raffles, who signed a treaty with Malay rulers that year to establish a trading post on the island, envisioned a college that would educate the sons of the Malay elite as well as employees of the British East India Company. Included in the plan was a library to “collect the scattered literature and traditions of the country, with whatever may illustrate their laws and customs, and to publish and circulate in a correct form the most important of these, with such other works as may be calculated to raise the character of the institution and to be useful or instructive to the people”.[^1]
 
@@ -90,6 +90,9 @@ In the 1980s, Anuar led the National Library on its path to computerisation. Boo
 
 As the 1980s came to a close, the need for a new National Library building became clear as the Stamford Road location had been “stretched to the limit”.[^40] On 1 April 2004, the shutters of the red-brick building on Stamford Road came down for the last time, paving the way for the new National Library Building on Victoria Street which officially opened on 12 November 2005.[^41]
 
+![](/images/Vol%2021%20Issue%202/Story%20of%20National%20Library/image_2.png)
+<div style="background-color: white;"> Level 11 of the Lee Kong Chian Reference Library at the National Library Building on Victoria Street. <i>Photo by Jimmy Yap.</i></div>
+
 #### **The National Library Board: Revolutionising Library Services**
 
 In 1992, the Library 2000 Review Committee was convened to conduct a comprehensive review of library services in Singapore. A key outcome of the committee’s report, released in 1994, was the establishment of the National Library Board (NLB) on 1 September 1995 to oversee the development and management of the National Library and public libraries.[^42]
@@ -119,8 +122,8 @@ As NLB looks to the future, it will continue to evolve, experiment and innovate 
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/ChristopherTan.png">
-	<b>Christopher Tan</b> is a food writer, author, educator and photographer. His most recent books are <i>The Way of Kueh: Savouring &amp; Saving Singapore’s Heritage Desserts</i> (Epigram Books, 2019), a celebration of local kueh culture, and <i>NerdBaker 2: Tales from the Yeast Indies</i> (Epigram Books, 2024), about yeast cookery.</div>
+<img style="width: 100px; height: 100px;" src="/images/Authors/limtinseng.png">
+	<b>Lim Tin Seng</b> is a Senior Librarian with the National Library Singapore. He is the co-editor of <i>Roots: Tracing Family Histories – A Resource Guide</i> (2013), <i>Harmony and Development: ASEAN-China Relations</i> (2009) and <i>China’s New Social Policy: Initiatives for a Harmonious Society</i> (2010). He writes regularly for <i>BiblioAsia</i>.</div>
 
 #### **Notes**
 
