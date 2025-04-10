@@ -32,7 +32,7 @@ The Singapore Library acquired its titles through appointed book agents as well 
 
 The Singapore Library was initially well received. Described as an “agreeable place of resort… [and] recreation”, it moved to the Town Hall (today’s Victoria Theatre and Concert Hall) in 1862 to make it more accessible.[^9] By 1863, however, the library faced financial difficulties due to the low subscription rate. An irate patron wrote to the _Straits Times_ to complain that the books in the library were “ill-kept, ill-assorted, entirely without any connection or fullness in any division of literature”.[^10]
 
-By 1875, the library was saddled with a debt of $500 due to years of “mismanagement, neglect and a lack of subscribers”. It was described by the Straits Times as being in a “moribund condition” with no new books added since 1873.[^11]
+By 1875, the library was saddled with a debt of $500 due to years of “mismanagement, neglect and a lack of subscribers”. It was described by the _Straits Times_ as being in a “moribund condition” with no new books added since 1873.[^11]
 
 
 #### **The Raffles Library and Museum: The “Q” Collection**
