@@ -99,8 +99,7 @@ Hall, S. (2012). _Theatres of memory: Past and present in contemporary culture_ 
 
 Hodgkin, K., &amp; Radstone, S. (Eds.). (2003). [_Contested pasts: The politics of memory_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11944074) (pp. 1–22). London: Routledge. (Call no.: R 153.12 CON)
 
-#### **NOTES**
-
+#### **NOTES**<br>
 [^1]: [Hodgkin &amp; Radstone](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11944074), 2003.
 
 [^2]: A term that originated from Richard Terdiman in his publication *Present Past: Modernity and the Memory Crisis*. See [Cateel &amp; Climo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11624734), 2002.
