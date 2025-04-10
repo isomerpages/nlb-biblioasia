@@ -28,7 +28,7 @@ Artist's impression of the Remembering Room in “Hands”. <i>Courtesy of FARM.
 
 This year, aside from collecting, preserving and presenting memories on its digital platform, the SMP team is working on a physical exhibition called “Hands”. Unlike historical exhibitions that are often curated from the viewpoint of historians, memories will take centre stage in this exhibition.
 
-##### <center>**Knowledge and remembering [are] in the hands and in the body. <br>— Paul Connerton**[^6]</center>
+##### <center><b>Knowledge and remembering [are] in the hands and in the body. <br>— Paul Connerton</b>[^6]</center>
 
 #### **You’ve Got Mail! Singapore’s First Postmaster General**
 
@@ -62,7 +62,7 @@ This exhibition could have used objects to help elicit and trigger memories. We 
 
 Individual personal memories are always shaped by collective contexts. As an individual, we carry memories that we might not have experienced directly, such as memories of others learnt through family stories or school. The exhibition has been guided through this understanding of personal memories that are, on the one hand, personal and unique, and on the other, reflective of the interconnections between generations, cultures and the context of living in Singapore. “Hands” provides a platform for remembering and transmission, and is a site for interaction between the memories shared and the visitors who encounter them.
 
-##### <center>**Memory is an act of “thinking of things in their absence” which may well be triggered in response to objects.<br>— Susan A. Crane**[^9]</center>
+##### <center><b>Memory is an act of “thinking of things in their absence” which may well be triggered in response to objects.<br>— Susan A. Crane</b>[^9]</center>
 
 <i>Visit “Hands: Gift of a Generation” at the Plaza, National Library Building from 7 August 2013 to 13 October 2013.</i>
 
@@ -120,6 +120,3 @@ Hodgkin, K., &amp; Radstone, S. (Eds.). (2003). [_Contested pasts: The politics 
 [^8]: [Cateel &amp; Climo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11624734), 2002.
 
 [^9]: Crane, 2002, p. 2.
-
-
-
