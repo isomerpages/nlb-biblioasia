@@ -211,7 +211,7 @@ As NLB looks to the future, it will continue to evolve, experiment and innovate 
 
 [^32]: National Library Board, Singapore, [_Annual Report 1960–63_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3408747) (Singapore: National Library Board, 1964). (From National Library Singapore, call no. RCLOS 027.55957 RLSAR); Ministry of Culture, “[Library Division General Correspondence](https://www.nas.gov.sg/archivesonline/government_records/record-details/9a1d7801-1159-11e3-83d5-0050568939ad),” 1965–71. (From National Archives of Singapore, microfilm no. AR 006), 309; Anuar, “[Singapore’s National Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/stannual19620101-1.2.45).” 
 
-[^33]: “[Out Goes the Name Raffles](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19601121-1.2.88),” _Straits Times_, 21 November 1960, 9. (From NewspaperSG
+[^33]: “[Out Goes the Name Raffles](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19601121-1.2.88),” _Straits Times_, 21 November 1960, 9. (From NewspaperSG)
 
 [^34]: National Library Singapore, [_Books About Malaysia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4826220) (Singapore: National Library, 1963–1967). (From National Library Singapore, call no. RCLOS 016.9595 SIN)
 
