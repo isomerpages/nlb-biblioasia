@@ -20,8 +20,9 @@ The growing interest around the world in memories, whether in the form of family
 
 Where are memories kept? Memory by its nature is “mortal, linked to the brain and the body that bears it”.[^5] There are, however, memory warehouses in the form of libraries, archives and museums where memories are kept in material forms. The Singapore Memory Project (SMP) is one such warehouse. Launched in August 2011, it is a nationwide initiative spearheaded by the National Library to capture the memories of Singapore – whether individual, organisational or collective. Memories are authentic voices enriching the telling of the past and providing another way of looking at Singapore aside from linear historicity.
 
-<img style="width: 90%;" src="/images/Vol%209%20Issue%202/Memories%20in%20Our%20Hands/Visit%20Hands.jpg">
 <div style="background-color: white;">
+<br>
+<img src="/images/Vol%209%20Issue%202/Memories%20in%20Our%20Hands/Visit%20Hands.jpg" style="width: 90%;">
 Artist's impression of the Remembering Room in “Hands”. <i>Courtesy of FARM.</i></div>
 
 
