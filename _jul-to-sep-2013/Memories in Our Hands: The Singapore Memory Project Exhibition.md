@@ -8,10 +8,8 @@ variant: markdown
 ---
 #### Memories and history are viewed differently. Find out how the Singapore Memory Project captures such memories and provide us with another way of looking at Singapore aside from linear historicity.
 
-
-<img style="width: 80%;" src="/images/Vol%209%20Issue%202/Memories%20in%20Our%20Hands/Ronald%20Simon1.jpg">
 <div style="background-color: white;">
-Mr Roland Vivian Simon, born in 1932, was a telephone operator at Sembawang Naval Base during the Japanese Occupation. His story is one of many featured in "Hands".	</div>
+<img src="/images/Vol%209%20Issue%202/Memories%20in%20Our%20Hands/Ronald%20Simon1.jpg" style="width: 80%;">Mr Roland Vivian Simon, born in 1932, was a telephone operator at Sembawang Naval Base during the Japanese Occupation. His story is one of many featured in "Hands".	</div>
 
 
 Without our memories, we would not be able to perform the simplest everyday task, create meaning in our lives, or construct our sense of identity – our identities are anchored to what we choose to remember of ourselves. While memories are personal and internal, derived from an individual’s experiences in life, our memories are also cultural, drawing from and shaped by our social and cultural circumstances.[^1] Just like an individual, a group without memories would not know how to distinguish itself from others, nor understand what it stands for, or its values.
@@ -22,8 +20,9 @@ The growing interest around the world in memories, whether in the form of family
 
 Where are memories kept? Memory by its nature is “mortal, linked to the brain and the body that bears it”.[^5] There are, however, memory warehouses in the form of libraries, archives and museums where memories are kept in material forms. The Singapore Memory Project (SMP) is one such warehouse. Launched in August 2011, it is a nationwide initiative spearheaded by the National Library to capture the memories of Singapore – whether individual, organisational or collective. Memories are authentic voices enriching the telling of the past and providing another way of looking at Singapore aside from linear historicity.
 
-<img style="width: 90%;" src="/images/Vol%209%20Issue%202/Memories%20in%20Our%20Hands/Visit%20Hands.jpg">
 <div style="background-color: white;">
+<br>
+<img src="/images/Vol%209%20Issue%202/Memories%20in%20Our%20Hands/Visit%20Hands.jpg" style="width: 90%;">
 Artist's impression of the Remembering Room in “Hands”. <i>Courtesy of FARM.</i></div>
 
 
@@ -33,8 +32,9 @@ This year, aside from collecting, preserving and presenting memories on its digi
 
 #### **You’ve Got Mail! Singapore’s First Postmaster General**
 
-<img style="width: 90%;" src="/images/Vol%209%20Issue%202/Memories%20in%20Our%20Hands/Presentation2.jpg">
-<div style="background-color:white;"> (Left) Mr Bala Supramaniam, Singapore’s first Postmaster General, with his wife during the interview. (Right) Mr Supramaniam's hands.</div>
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol%209%20Issue%202/Memories%20in%20Our%20Hands/Presentation2.jpg" style="width: 90%;">(Left) Mr Bala Supramaniam, Singapore’s first Postmaster General, with his wife during the interview. (Right) Mr Supramaniam's hands.</div>
 
 “<i>I started in 1936 when I joined the post office. At that time, Singapore was under the Postmaster General based at the headquarters in Kuala Lumpur. During the Japanese Occupation, there was no foreign mail service, only internal mail service or to Malaysia. The mail to Malaysia was censored. We had nothing to do with the censorship. The censorship was carried out by the Japanese officers. The savings bank service was continued and we continued to withdraw money from the post office savings bank but we were paid in Japanese Yen</i>.
       <br><br>
@@ -69,8 +69,9 @@ Individual personal memories are always shaped by collective contexts. As an ind
 
 #### **Hello, Operator? Story of a Telephonist**
 
-<img style="width: 80%;" src="/images/Vol%209%20Issue%202/Memories%20in%20Our%20Hands/operators%20at%20Hill%20Street1.jpg"><div style="background-color: white;">Yang di-Pertuan Negara (Head of State) Yusof Ishak observing operators at work when he visited the Singapore Telephone Board, 1961. <i>Yusof Ishak collection, courtesy of National Archives of Singapore.</i></div>	
-
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol%209%20Issue%202/Memories%20in%20Our%20Hands/operators%20at%20Hill%20Street1.jpg" style="width: 80%;">Yang di-Pertuan Negara (Head of State) Yusof Ishak observing operators at work when he visited the Singapore Telephone Board, 1961. <i>Yusof Ishak collection, courtesy of National Archives of Singapore.</i></div>
 
 <i>I applied for the job but it took some time for the reply to come to go for the interview. So straight after school, I \[worked\] as a sales girl in Robinsons. After a few months, they called me, I went for an interview. It was not an interview per se; I went into a room with a phone and I was supposed to speak to somebody on the phone. They were recording it, they sort of wanted to gauge your voice. Then they called you back for a second interview where you met people. I was one of the few non-Eurasians at the Singapore Telephone Board; it was strictly for Eurasians.
 <br><br>
@@ -100,8 +101,8 @@ Hall, S. (2012). _Theatres of memory: Past and present in contemporary culture_ 
 
 Hodgkin, K., &amp; Radstone, S. (Eds.). (2003). [_Contested pasts: The politics of memory_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11944074) (pp. 1–22). London: Routledge. (Call no.: R 153.12 CON)
 
-
 #### **NOTES**
+
 [^1]: [Hodgkin &amp; Radstone](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11944074), 2003.
 
 [^2]: A term that originated from Richard Terdiman in his publication *Present Past: Modernity and the Memory Crisis*. See [Cateel &amp; Climo](https://eservice.nlb.gov.sg/item_holding.aspx?bid=11624734), 2002.
@@ -122,5 +123,3 @@ Hodgkin, K., &amp; Radstone, S. (Eds.). (2003). [_Contested pasts: The politics 
 
 
 
-
-<br>
