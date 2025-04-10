@@ -50,7 +50,13 @@ The library opened in the Town Hall on 14 September 1874, focused on collecting 
 
 To ensure that “every possible advantage may be placed within the reach of readers in the Settlement”, the library was also opened to non-subscribers but they were not permitted to borrow materials. James Collins, headmaster of the Singapore Institution, was appointed to oversee both the library and museum as librarian and curator.[^14]
 
+![](/images/Vol%2021%20Issue%202/Story%20of%20National%20Library/image_4.png)
+<div style="background-color: white;"> Rules of the Raffles Library 8 March 1882. <i>Collection of the National Library Singapore.</i></div>
+
 In 1877, the growing collections of the Raffles Library and Museum necessitated a move to the first and second floors of a new wing of the Singapore Institution, which had been renamed Raffles Institution. But this space soon proved inadequate, prompting the construction of a dedicated building on Stamford Road. This striking neoclassical structure, with its 90-foot (27&nbsp;m) dome (now home to the National Museum of Singapore), opened on 12 October 1887. It housed the library on the ground floor and the museum on the first floor.[^15]
+
+![](/images/Vol%2021%20Issue%202/Story%20of%20National%20Library/image_6.png)
+<div style="background-color: white;"> The Raffles Library and Museum on Stamford Road, 1900s. <i>Courtesy of National Archives of Singapore</i>.</div>
 
 The library’s initial collection consisted of 200 newly purchased books and the 3,000-volume collection from the Singapore Library. Through purchases and donations, the collection grew to over 26,000 volumes by the end of 1900.[^16]
 
@@ -68,6 +74,9 @@ The Raffles Library and Museum reopened to the public in December 1945 after the
 
 The 1950s saw significant improvements under trained librarians Louise E. Bridges and Leonard M. Harrod. Bridges, Librarian from 1951 to 1952, transformed the library with a limited budget of $4,000 from a “dim, dingy [place] with cold echoing cement floors” into a place of “wonders”. She introduced comfortable furniture, proper shelving for newspapers and implemented the Dewey Decimal Classification System, bringing order to the previously “chaotic mess”. Bridges also established a booking system for popular titles, proposed an after-hours book return bin and implemented a fine system for overdue books. The first part-time branch library in the suburbs opened in Upper Serangoon in 1953.[^25]
 
+![](/images/Vol%2021%20Issue%202/Story%20of%20National%20Library/image_5.png)
+<div style="background-color: white;"> A seating area at the Raffles Library, 1950s. The card catalogue cabinet is seen in the background. <i>Collection of the National Library Singapore.</i></div>
+
 Harrod, who became Librarian in September 1954, expanded the collection to over 100,000 volumes by the mid-1950s.[^26] He initiated an “Oriental” collection featuring books in Chinese, Malay and Tamil, and started a music section with about 4,500 pieces of sheet music, music albums and miniature scores by the end of 1958. Harrod also built more part-time branch libraries in the outlying areas and proposed a mobile library service.[^27]
 
 On 1 January 1955, Harrod was appointed Director of the Raffles Library after its administration was separated from that of the Raffles Museum. Plans were also made for the library to move into a new $2.5-million three-storey building on an adjacent site previously occupied by the St John’s Ambulance Headquarters and the British Council Hall.[^28]
@@ -81,6 +90,9 @@ A milestone was reached in 1958 when the Raffles National Library Ordinance came
 Harrod retired in January 1960 while the new National Library building on Stamford Road was still under construction. Hedwig Anuar, one of the few qualified local librarians, was seconded from the library of the University of Malaya in Kuala Lumpur to serve as the Raffles National Library’s interim director. She made history by becoming the first Malayan and first woman to head the library.[^31]
 
 The new red-brick National Library building on Stamford Road was officially opened on 12 November 1960 by Yang di-Pertuan Negara (Head of State) Yusof Ishak. It accommodated a collection of some 140,000 volumes spread across an Adult Lending Library, a Children’s Library and a Reference Library. The building also included administrative offices, a conference room, lecture halls, as well as storage and maintenance spaces for library and archival materials. The Children’s Library became so popular that it was usually packed during the school holidays. On 20 April 1967, &nbsp;Prime Minister Lee Kuan Yew wrote to the Minister for Culture: “I understand from my children that during school holidays the Junior Library is crowded to overflowing. Can you confirm if this is so? If it is, it is a development to be welcomed and encouraged and the facilities must be expanded to take in our every growing educated youths. You will find Cabinet ready to support expansion of library projects.”[^32]
+
+![](/images/Vol%2021%20Issue%202/Story%20of%20National%20Library/image_7.png)
+<div style="background-color: white;"> Prime Minister Lee Kuan Yew’s letter to the Minister for Culture pledging the government’s support to expand the facilities of the Children’s Library at the National Library, 20 April 1967. <i>From National Archives of Singapore, microfilm no. AR 006.</i>.</div>
 
 On 9 December 1960, Raffles National Library was renamed the National Library after the Raffles National Library (Change of Name) Ordinance was passed.[^33]
 In 1963, the National Library’s “Q” Collection made headlines when its bibliography, _Books about Malaysia_, was “hailed in all parts of the world” after it was published.[^34] Thereafter, the library received two major donations. The Penang-born merchant Tan Yeok Seong donated his 10,000-volume on Southeast Asian works to the library in 1964. This is now known as the Ya Yin Kwan Collection. One year later, Mrs Loke Yew, mother of film magnate Loke Wan Tho (chairman of the board of the National Library from 1960 until his death in 1964) donated her son’s collection of 1,000 books and journals on Malayan flora, fauna, travel and arts, known today as the Gibson-Hill Collection. 
@@ -101,6 +113,9 @@ As the 1980s came to a close, the need for a new National Library building becam
 In 1992, the Library 2000 Review Committee was convened to conduct a comprehensive review of library services in Singapore. A key outcome of the committee’s report, released in 1994, was the establishment of the National Library Board (NLB) on 1 September 1995 to oversee the development and management of the National Library and public libraries.[^42]
 
 With more autonomy and flexibility as a statutory board, NLB embarked on its journey of innovation and service excellence by leveraging new technology. In 1998, NLB became the first library system in the world to pioneer the use of radio frequency identification technology for all library processes and operations. Book borrowing and returning became faster and easier with automated self-check borrowing stations and automated bookdrops.[^43]
+
+![](/images/Vol%2021%20Issue%202/Story%20of%20National%20Library/image_8.png)
+<div style="background-color: white;"> The former National Library building on Stamford Road after an extensive makeover in 1997, 1998. <i>Collection of the National Library Singapore.</i>.</div>
 
 In tandem with technological advancements, the physical library network was enlarged significantly. New regional libraries in Tampines, Woodlands and Jurong provided expanded collections and services, while smaller branch libraries were strategically co-located with community centres or housed within shopping malls to encourage more visitors to the library. This expansion has resulted in a comprehensive network of 28 public libraries across the island today.[^44]
 
