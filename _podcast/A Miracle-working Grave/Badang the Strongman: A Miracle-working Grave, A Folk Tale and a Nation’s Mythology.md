@@ -47,8 +47,8 @@ site
 shrines
 <br>31:05 – Existing <em>keramat </em>in Singapore
 <br>35:10 – Stories of the <em>keramat </em>Habib Noh
-<br>39:01 – Preservation challenges of keramat in Singapore
-<br>42:00 – How Singapore, Malaysia and Indonesia government deal with keramat
+<br>39:01 – Challenges of preserving <em>keramat </em>in Singapore
+<br>42:00 – How Singapore, Malaysia and Indonesia governments deal with <em>keramat </em>
 <br>44:07 – The importance of studies on <em>keramat </em>and its relevance
 to heritage
 <br>47:55 – Mythology is…</p>
