@@ -96,7 +96,9 @@ The new red-brick National Library building on Stamford Road was officially open
 
 On 9 December 1960, Raffles National Library was renamed the National Library after the Raffles National Library (Change of Name) Ordinance was passed.[^33]
 
-In 1963, the National Library’s “Q” Collection made headlines when its bibliography, _Books about Malaysia_, was “hailed in all parts of the world” after it was published.[^34] Thereafter, the library received two major donations. The Penang-born merchant Tan Yeok Seong donated his 10,000-volume on Southeast Asian works to the library in 1964. This is now known as the Ya Yin Kwan Collection. One year later, Mrs Loke Yew, mother of film magnate Loke Wan Tho (chairman of the board of the National Library from 1960 until his death in 1964) donated her son’s collection of 1,000 books and journals on Malayan flora, fauna, travel and arts, known today as the Gibson-Hill Collection. 
+In 1963, the National Library’s “Q” Collection made headlines when its bibliography, _Books about Malaysia_, was “hailed in all parts of the world” after it was published.[^34] Thereafter, the library received two major donations. The Penang-born merchant Tan Yeok Seong donated his 10,000-volume on Southeast Asian works to the library in 1964. This is now known as the Ya Yin Kwan Collection. 
+
+One year later, Mrs Loke Yew, mother of film magnate Loke Wan Tho (chairman of the board of the National Library from 1960 until his death in 1964) donated her son’s collection of 1,000 books and journals on Malayan flora, fauna, travel and arts, known today as the Gibson-Hill Collection. 
 
 These donations, along with the existing “Q” collection, formed the foundation of the South East Asia (SEA) Room which opened on 28 August 1964. Today, the SEA Collection has evolved into the National Library’s National Collection comprising the Rare Materials Collection, the Singapore and Southeast Asia collections and the Donors’ Collection.[^35]
 
