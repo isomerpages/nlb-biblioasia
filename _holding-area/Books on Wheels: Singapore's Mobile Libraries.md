@@ -38,9 +38,6 @@ After taking office, Anuar faced the closure of two of the four part-time branch
 
 The mobile library’s maiden trip was to schools in the Naval Base area of Nee Soon. In the first two weeks, the van visited 37 schools in the outlying districts of Nee Soon, Sembawang, Jurong, Bukit Panjang and Tampines.[^11] The distinctive cream-coloured van, with the licence plate SG 184 and “Raffles National Library – UNESCO” painted on its livery, could hold up to 2,000 books in English, Malay, Chinese and Tamil.[^12]
 
-![](/images/Vol%2021%20Issue%202/Books%20on%20Wheels/image_18.png)
-<div style="background-color:white;">The mobile library van at Naval Base School, 1960. <i>Collection of the National Library Singapore.</i></div>
-
 “The response to the mobile library is overwhelming,” said Anuar. “About 300 more children than the expected 2,000 have registered as members since it was started.” The library announced plans to conduct fortnightly visits and to gradually extend the service to other schools. By 1962, the mobile library service boasted a membership of 5,000.[^13]
 
 ![](/images/Vol%2021%20Issue%202/Books%20on%20Wheels/image_10.png)
