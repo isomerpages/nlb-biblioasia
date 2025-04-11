@@ -103,9 +103,12 @@ These donations, along with the existing “Q” collection, formed the foundati
 Anuar, who returned to the University of Malaya Library in 1961 when her stint as interim director ended, was appointed assistant director (supernumerary) of the National Library in 1962. She succeeded expatriate director Priscilla Taylor in 1965 after the latter completed her contract and left in 1964. Over the next two decades, Anuar made significant contributions to the growth and development of the National Library.[^36]
 
 On returning, Anuar implemented various initiatives to encourage people to visit the library and to read.[^37] She launched the mobile library service, first proposed by Harrod, and set up fulltime branch libraries in housing estates to reach residents in the outlying areas. Queenstown Branch Library was the first to open in 1970. By 1990, there were eight branch libraries, contributing to a substantial increase in library membership from approximately 45,000 members in 1960 to over 640,000 members by 1990. Correspondingly, book borrowing surged from 703,000 loans to 9.2 million loans during the same period.[^38]
+
 In the 1980s, Anuar led the National Library on its path to computerisation. Book borrowing, book returns and membership registration were computerised, and the Online Public Access Catalogue to search and locate library materials replaced card catalogues.[^39]
 
-As the 1980s came to a close, the need for a new National Library building became clear as the Stamford Road location had been “stretched to the limit”.[^40] On 1 April 2004, the shutters of the red-brick building on Stamford Road came down for the last time, paving the way for the new National Library Building on Victoria Street which officially opened on 12 November 2005.[^41]
+As the 1980s came to a close, the need for a new National Library building became clear as the Stamford Road location had been “stretched to the limit”.[^40] 
+
+On 1 April 2004, the shutters of the red-brick building on Stamford Road came down for the last time, paving the way for the new National Library Building on Victoria Street which officially opened on 12 November 2005.[^41]
 
 ![](/images/Vol%2021%20Issue%202/Story%20of%20National%20Library/image_2.png)
 <div style="background-color: white;"> Level 11 of the Lee Kong Chian Reference Library at the National Library Building on Victoria Street. <i>Photo by Jimmy Yap.</i></div>
