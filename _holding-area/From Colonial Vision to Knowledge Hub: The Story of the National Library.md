@@ -51,7 +51,7 @@ The library opened in the Town Hall on 14 September 1874, focused on collecting 
 To ensure that “every possible advantage may be placed within the reach of readers in the Settlement”, the library was also opened to non-subscribers but they were not permitted to borrow materials. James Collins, headmaster of the Singapore Institution, was appointed to oversee both the library and museum as librarian and curator.[^14]
 
 ![](/images/Vol%2021%20Issue%202/Story%20of%20National%20Library/image_4.png)
-<div style="background-color: white;"> Rules of the Raffles Library 8 March 1882. <i>Collection of the National Library Singapore.</i></div>
+<div style="background-color: white;"> Rules of the Raffles Library, 8 March 1882. <i>Collection of the National Library Singapore.</i></div>
 
 In 1877, the growing collections of the Raffles Library and Museum necessitated a move to the first and second floors of a new wing of the Singapore Institution, which had been renamed Raffles Institution. But this space soon proved inadequate, prompting the construction of a dedicated building on Stamford Road. This striking neoclassical structure, with its 90-foot (27&nbsp;m) dome (now home to the National Museum of Singapore), opened on 12 October 1887. It housed the library on the ground floor and the museum on the first floor.[^15]
 
