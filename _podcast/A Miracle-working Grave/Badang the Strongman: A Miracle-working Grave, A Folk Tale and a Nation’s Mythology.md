@@ -43,8 +43,9 @@ site
 <br>22:00 – Other stones with footprints and mythical associations
 <br>24:00 – Theories of Badang’s burial sites
 <br>26:00 – Other folktales with vomit-eating as a power transfer motif
-<br>28:00 – Broader meaning and significance of keramat and nature shrines
-<br>31:05 – Existing <em>keramat keramat </em>in Singapore
+<br>28:00 – Broader meaning and significance of <em>keramat </em>and nature
+shrines
+<br>31:05 – Existing <em>keramat </em>in Singapore
 <br>35:10 – Stories of the <em>keramat </em>Habib Noh
 <br>39:01 – Preservation challenges of keramat in Singapore
 <br>42:00 – How Singapore, Malaysia and Indonesia government deal with keramat
