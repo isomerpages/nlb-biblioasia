@@ -35,7 +35,7 @@ colonial times
 <br>16:20 – How rent subsidies keep hawker food affordable
 <br>18:08 – Origins of the first hawker centre and differences from hawker
 shelters
-<br>21:22 – Hawker stardom versus generational decline
+<br>21:22 – Loss of food heritage
 <br>24:00 – Gentrification in hawker centres
 <br>26:00 – Hawking as a vocation in the past and today
 <br>30:10 – Why Singapore’s hawker culture won the UNESCO recognition for
