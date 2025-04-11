@@ -100,6 +100,9 @@ In 1963, the National Library’s “Q” Collection made headlines when its bib
 
 These donations, along with the existing “Q” collection, formed the foundation of the South East Asia (SEA) Room which opened on 28 August 1964. Today, the SEA Collection has evolved into the National Library’s National Collection comprising the Rare Materials Collection, the Singapore and Southeast Asia collections and the Donors’ Collection.[^35]
 
+![](/images/Vol%2021%20Issue%202/Story%20of%20National%20Library/image_9.png)
+<div style="background-color: white;">The South East Asia Room, 1964. <i>Collection of the National Library Singapore</i>.</div>
+
 Anuar, who returned to the University of Malaya Library in 1961 when her stint as interim director ended, was appointed assistant director (supernumerary) of the National Library in 1962. She succeeded expatriate director Priscilla Taylor in 1965 after the latter completed her contract and left in 1964. Over the next two decades, Anuar made significant contributions to the growth and development of the National Library.[^36]
 
 On returning, Anuar implemented various initiatives to encourage people to visit the library and to read.[^37] She launched the mobile library service, first proposed by Harrod, and set up fulltime branch libraries in housing estates to reach residents in the outlying areas. Queenstown Branch Library was the first to open in 1970. By 1990, there were eight branch libraries, contributing to a substantial increase in library membership from approximately 45,000 members in 1960 to over 640,000 members by 1990. Correspondingly, book borrowing surged from 703,000 loans to 9.2 million loans during the same period.[^38]
@@ -139,6 +142,9 @@ These strategic plans have led to initiatives that benefit library users and imp
 NLB’s most recent strategic plan, LAB25, or “Libraries and Archives Blueprint 2025”, was launched in October 2021 to direct NLB’s five-year journey in its next phase of transformation. LAB25 aims to reimagine the libraries and archives of the future and to ensure that they remain vital and relevant in a rapidly evolving digital landscape.[^50]
 
 Aligned with this new blueprint, and with augmented reality and artificial intelligence (AI) being the buzzwords these days, NLB has embraced these emerging technologies to revolutionise user experience and improve operational efficiency. An example is the prototype of a generative AI-powered chatbook in 2024 featuring founding father S. Rajaratnam for users to learn about his life and contributions to Singapore, drawing from his authorised biography by former journalist and Member of Parliament Irene Ng as well as collections from the National Archives and National Library.[^51]
+
+![](/images/Vol%2021%20Issue%202/Story%20of%20National%20Library/image_10.png)
+<div style="background-color: white;">The generative AI-powered chatbook featuring S. Rajaratnam, 2024. <i>Photo by Jimmy Yap</i>. </div>
 
 As NLB looks to the future, it will continue to evolve, experiment and innovate to serve a new generation of library users. At the same time, NLB’s mission of nurturing readers for life, developing learning communities and building a knowledgeable nation will remain at the heart of everything it does. 
 	
