@@ -41,7 +41,7 @@ shelters
 <br>30:10 – Why Singapore’s hawker culture won the UNESCO recognition for
 intangible cultural heritage
 <br>31:15 – Contemporary political use of hawker centres
-<br>33:00 – What Ryan is working on and his favourite hawker centre
+<br>33:00 – What Ryan is working on and what his favourite hawker centre is
 <br>36:47 – Hawking is…</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
