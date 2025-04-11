@@ -22,6 +22,27 @@ colonial period and what hawker centres have come to represent.</p>
 <p>Subscribe to get notified when the next episode drops.</p>
 <p></p>
 <h4><strong>What Ryan Talked About</strong></h4>
+<p>00:00 – How the term “hawker” is understood differently in Singapore compared
+to in other countries
+<br>04:44 – When hawking might have started in Singapore
+<br>05:32 – Preconditions for hawking
+<br>07:40 – Colonial records, and hygiene and urban discipline issues during
+colonial times
+<br>09:56 – Why hawking was an attractive and accessible job then
+<br>11:00 – Challenges colonial authorities faced in controlling hawkers
+<br>11:49 – Post-independence reforms in hawking
+<br>14:00 – Establishment of hawker centres and their purpose
+<br>16:20 – How rent subsidies keep hawker food affordable
+<br>18:08 – Origins of the first hawker centre and differences from hawker
+shelters
+<br>21:22 – Hawker stardom versus generational decline
+<br>24:00 – Gentrification in hawker centres
+<br>26:00 – Hawking as a vocation in the past and today
+<br>30:10 – Why Singapore’s hawker culture won the UNESCO recognition for
+intangible cultural heritage
+<br>31:15 – Contemporary political use of hawker centres
+<br>33:00 – What Ryan is working on and his favourite hawker centre
+<br>36:47 – Hawking is…</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
