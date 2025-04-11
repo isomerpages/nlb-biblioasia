@@ -29,7 +29,7 @@ than is generally known.</p>
 <h4><strong>What William Talked About</strong></h4>
 <p>00:00 – What a <em>keramat </em>is
 <br>01:13 – Legend of Badang the strongman
-<br>02:20 – William Gibson’s past shrine-related research
+<br>02:20 – William’s past research on <em>keramat</em>
 <br>03:07 – Badang as a national icon and his myth in the Malay Annals
 <br>04:43 – British interest and early translations of Badang’s story
 <br>06:26 – The rock-throwing legend and its transformation into a national
@@ -48,9 +48,8 @@ shrines
 <br>31:05 – Existing <em>keramat </em>in Singapore
 <br>35:10 – Stories of the <em>keramat </em>Habib Noh
 <br>39:01 – Challenges of preserving <em>keramat </em>in Singapore
-<br>42:00 – How Singapore, Malaysia and Indonesia governments deal with <em>keramat </em>
-<br>44:07 – The importance of studies on <em>keramat </em>and its relevance
-to heritage
+<br>42:00 – Fates of <em>kermat </em>in Singapore, Malaysia and Indonesia
+<br>44:07 – The heritage value of <em>keramat </em> 
 <br>47:55 – Mythology is…</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
