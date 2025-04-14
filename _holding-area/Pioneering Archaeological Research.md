@@ -73,7 +73,28 @@ Noone’s manuscript and personal papers were either lost in the looting of the 
 
 #### **Notes**
 
-[^1]: 
+[^1]:     p.p1 {margin: 0.0px 0.0px 0.0px 9.9px; text-indent: -9.9px; line-height: 8.5px; font: 7.0px Calibri} span.s1 {letter-spacing: -0.3px} span.s2 {letter-spacing: -0.2px} span.s3 {letter-spacing: -0.4px} span.s4 {letter-spacing: -0.5px} span.s5 {letter-spacing: -0.6px}
+
+G.L. Peet, “Between the Two Great Wars: Anglo-Malayan Reflections and Premonitions,” _Straits Times Annual_, 1 January 1941, 28–29. (From NewspaperSG)
+
+Nancy Tayles and Marc Oxenham, eds., “Introduction: Southeast Asian Bioarchaeology Past and Present,” in _Bioarchaeology of Southeast Asia_ (Cambridge: Cambridge University Press, 2006), 4. (From National Library Singapore, call no. R 599.9470959 BIO); Ben Shephard, _Head Hunters: The Search for a Science of the Mind_ (London: The Bodley Head, 2014), 220. (From National Library Singapore, call no. R 612.809 SHE); Edward Pop, Sofwan Noerwidi and Fred Spoor, “Naming _Homo erectus_: A review,” _Journal of Human Evolution_ 190 (May 2024): 1, https://doi.org/10.1016/j.jhevol.2024.103516.&nbsp;
+
+“Treasure Trove at Fort Canning,” _Straits Times_, 19 July 1928, 8. (From NewspaperSG); Natalie S.Y. Ong, “The So Called ‘Kāla Head’ Armband of Temasek,” _Temasek Working Paper_ _Series_ 6 (Singapore: Temasek History Research Centre, ISEAS – Yusof Ishak Institute, 2023), https://www.iseas.edu.sg/wp-content/uploads/2023/08/TWPS06\_Natalie-Ong-LR.pdf.&nbsp;
+
+Shephard, Head Hunters, 88–98, 110–13, 190–95, 206–07, 219–25; Roland Braddell, “An Introduction to the Study of Ancient Times in the Malay Peninsula and the Straits of Malacca,” _Journal of the Malayan Branch of the Royal Asiatic Society_ 13, no. 2 (October 1935), 70. (From JSTOR via NLB’s eResources website)
+
+Alternative early spellings for this site include Goa Cuppa and Guak Kepah.&nbsp;
+
+“Raffles Museum Adopted as Eastern Centre,” _Straits Times_, 24 August 1936, 13. (From NewspaperSG); Gretchen Liu, _One Hundred Years of the National Museum Singapore 1887–1987_ (Singapore: National Museum, 1987), 52–53. (From National Library Singapore, call no. RCLOS 708.95957 LIU)
+
+“Raffles Museum Adopted as Eastern Centre.”
+
+F.N. Chasen, _Annual Report of the Raffles Museum and Library for the Year 1935_ (Singapore: The Museum), 1. (From National Library Singapore, call no. RCLOS 027.55957 RAF); “Raffles Museum Adopted as Eastern Centre”; “Building Up the Prehistory of Malaya,” _Morning Tribune_, 18 June 1937, 9. (From NewspaperSG)
+
+“Raffles Museum Adopted as Eastern Centre,” 13; “Savants to Visit Malacca,” _Straits Times_, 16 January 1938, 5. (From NewspaperSG); Rajamogan, _The National Museum in Historical Perspective_, _1874–1981_ (Singapore: National University of Singapore, 1987), 38, 47. (From National Library Singapore, call no. RSING 708.95957 RAJ); Bernard Philippe Groslier, “The Far Eastern Prehistory Association 1953–1957,” _Asian Perspectives_ 1, no. 1/2 (Summer 1957): v; Wilhelm G. Solheim II, “Reorganization of the Indo-Pacific Prehistory Association, and the IXth Congress of the International Union of Prehistoric and Protohistoric Sciences,” _Asian Perspectives_ 20, no. 1 (1977): 173. (From JSTOR via NLB’s eResources website)
+
+“The 22nd Congress of the Indo-Pacific Prehistory Association (IPPA 2022),” in _SEAMEO SPAFA Annual Report 2022–2023_ (Bangkok: SEAMEO Regional Centre for Archaeology and Fine Arts), 18, accessed 4 April 2025, https://www.seameo-spafa.org/wp-content/uploads/2024/06/SEAMEO-SPAFA-Annual-Report-2022-2023.pdf.&nbsp;
+
 
 [^2]: 
 
@@ -95,53 +116,54 @@ Noone’s manuscript and personal papers were either lost in the looting of the 
 
 
 
-[^11]: 
+[^11]: “St. John Ambulance Brigade in Singapore: Indo-China Delegates to Prehistorians Congress Which Assembled in Singapore This Week,” _Malaya Tribune_, 22 January 1938, 20. (From NewspaperSG)
 
-[^12]: 
+[^12]: P.V. van Stein Callenfels, “An Excavation of three Kitchen Middens at Guak Kepah, Province Wellesley, Straits Settlements,” _Bulletin of the Raffles Museum Singapore, Straits Settlements_, Series B, no. 1 (May 1936): 26. (From National Library Online)&nbsp;
 
-[^13]: 
+[^13]: George Windsor Earl, “On the Mounds of Province-Wellesley, in the Malay Peninsula,” _Transactions of the Ethnological Society of London_ 2 (1863): 119. (From JSTOR via NLB’s eResources website); Ivor H.N. Evans, “On Ancient Kitchen Middens in Province Wellesley,” _Journal of the Federated Malay States Museums_ 15 (February 1930): 15–18. (From National Library Singapore, call no. RCLOS 708.9595 JFMSM)
 
-[^14]: 
+[^14]: Evans, “On Ancient Kitchen Middens,” 17; Dorn Carran, John Hughes, Alick Leslie and Craig Kennedy, “A Short History of the Use of Lime as a Building Material Beyond Europe and North America,” _International Journal of Architectural Heritage_ 6, no. 2 (2012): 284, https://doi.org/10.1080/15583058.2010.511694.&nbsp;
 
-[^15]: 
+[^15]: P.V. van Stein Callenfels and I.H.N. Evans, “Report on Cave Excavations in Perak,” _Oudheidkundig Verslag_ \[Report on Antiquities\], (1926): 181–92. (From National Library Singapore, call no. RCLOS 708.051 ODNOV-\[LYF\]); Victor Purcell, _The Memoirs of a Malayan Official_ (London: Casell, 1965), 277. (From National Library Singapore, call no. RCLOS 959.5 PUR)
 
-[^16]: 
+[^16]: The Wanderer, “Mainly About Malayans,” _Straits Times_, 31 July 1932, 4 (From NewspaperSG)
 
-[^17]: 
+[^17]: Julien Louys, “Quaternary Paleontological and Archaeological Research in Sumatra,” in _Quaternary Paleontology and Archaeology of Sumatra_ ed. Julie Louys, Paul C. H. Albers and Alexandra A. E. van der Geer (Canberra: ANU Press, 2024), 5. (From JSTOR via NLB’s eResources website); Callenfels, “An Excavation of Three Kitchen Middens at Guak Kepah, Province Wellesley, Straits Settlements,” 26.&nbsp;
 
-[^18]: 
+[^18]: “An Advance in Far-Eastern Prehistory Relics of Australo-Melanesoid Culture,” _Malaya Tribune_, 29 January 1935, 16. (From NewspaperSG)
 
-[^19]: 
-
-[^20]: 
+[^19]: “Carnegie Grant for Malayan Research,” _Straits Times_, 18 January 1935, 16. (From NewspaperSG)
 
 
-
-[^21]: 
-
-[^22]: 
-
-[^23]: 
-
-[^24]: 
-
-[^25]: 
-
-[^26]: 
-
-[^27]: 
-
-[^28]: 
-
-[^29]: 
-
-[^30]: 
+[^20]: M.W.F. Tweedie, “Report on Excavations in Kelantan,” _Journal of the Malayan Branch of the Royal Asiatic Society_ 18, part 2 (August 1940): 18. (From National Library Singapore, call no. RCLOS 959.5 JMBRAS); B.A.V. Peacock, “A Short Description of Malayan Prehistoric Pottery,” _Asian Perspectives_ 3, no. 2 (Winter 1959): 123. (From JSTOR via NLB’s eResources website)
 
 
 
+[^21]: Purcell, _The Memoirs of a Malayan Official_, 283.&nbsp;
 
-[^31]: 
+[^22]: “An Advance in Far-Eastern Prehistory Relics of Australo-Melanesoid Culture”; Liu, _One Hundred Years of the National Museum Singapore 1887–1987_, 45.
 
-[^32]: 
+[^23]: “Mr. C. Boden Kloss,” _Singapore Free Press and Mercantile Advertiser_, 12 December 1931, 10; “M.A.P,” _Straits Echo_ (_Mail Edition_), 27 September 1926, 1075. (From NewspaperSG); Choo, _Archaeology_, 6.&nbsp;
 
-[^33]: 
+[^24]: Choo, “_Archaeology_,” 8; National Museum Singapore, “Second Congress for Prehistoric Research in the Far East to Be Held at Manila on 6th to 12th Feb, 1935,” Government Records, December 1934–April 1935. (From National Archives of Singapore, record reference no. CSO CONSULS FM 9222–34)
+
+[^25]: Rajamogan, “The National Museum in Historical Perspective,” 28–29.&nbsp;
+
+[^26]: Richard Glotzer, “Frederick P. Keppel and Carnegie Corporation’s Interwar Area Experts: An Overview,” _American Educational History Journal_ 33, no. 1 (2006): 49–50. (From ProQuest via NLB’s eResources website)
+
+[^27]: Glotzer, “Frederick P. Keppel and Carnegie Corporation’s Interwar Area Experts,” 50.
+
+[^28]: “Grants for Malayan Museums?” _Straits Times_, 8 March 1934, 19; “Valuable Work of the Raffles Museum,” _Singapore Free Press and Mercantile Advertiser_, 9 March 1934, 7. (From NewspaperSG); “Outlying Museums of the Empire,” _Nature_ 133 (1934): 538, https://www.nature.com/articles/133538a0; S.F. Markham, “The Museums of British Malaya,” in _Reports on the Museum of Ceylon, British Malaya, the West Indies_, etc, ed. Henry Alexander Miers (London: Museums Association, 1933), 15–19.&nbsp;
+
+[^29]: Stephen H. Stackpole, Commonwealth Program 1911–1961 (New York: Carnegie Corporation of New York, 1963), 23–59, accessed 20 January 2025, https://babel.hathitrust.org/cgi/pt?id=mdp.39015016481221&amp;seq=43; Donald Fisher, “Rockefeller Philanthropy and the Rise of Social Anthropology,” _Anthropology Today_ 2, no. 1 (February 1986): 5–8. (From JSTOR via NLB’s eResources website); Ian McShane, _The Museum Movement: Carnegie Cultural Philanthropy and Museum Development in the Anglosphere_, 1920–1940 (London: Routledge, 2025), 57–85.
+
+[^30]: “Herbert Dennis Collings (1905–2001),” Suffolk Record Office (reference number 2089/2), accessed 4 March 2025, https://www.suffolkarchives.co.uk/collections/getrecord/GB175\_2089\_2.
+
+
+
+
+[^31]: Wilhelm G. Solheim II, Floyd Wheeler and Jane Allen-Wheeler, “Archaeology in Malaysia, Brunei, and Singapore,” in _Malaysian Studies: Archaeology, Historiography, Geography, and Bibliography_, ed. John A. Lent and Kent Mulliner (\[De Kalb, Ill.\]: Center for Southeast Asian Studies, Northern Illinois University 1986), 3–4. (From National Library Singapore, call no. RSING 959.5 MAL)
+
+[^32]: Solheim II, Wheeler and Wheeler, “Archaeology in Malaysia, Brunei, and Singapore,” 3–4.&nbsp;
+
+[^33]: Opalyn Mok, “Guar Kepah Archaeological Gallery in Penang Open to Public by End 2024,” _Malay Mail_, 14 May 2024,&nbsp; https://www.malaymail.com/news/malaysia/2024/05/14/guar-kepah-archaeological-gallery-in-penang-open-to-public-by-end-2024/134279; “41 Prehistoric Remains to Return to Malaysia From the Netherlands,” _Straits Times_, 14 November 2024, https://www.straitstimes.com/asia/se-asia/41-prehistoric-remains-to-return-to-malaysia-from-the-netherlands.
