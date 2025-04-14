@@ -4,6 +4,11 @@ permalink: /topics/history/
 variant: markdown
 description: ""
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/people/2025/4/lost-family-silvestr-nemec-war-search-czech-singapore/">In Search of Silvestr</a>
+ <p>Sparked by a box of old family documents, Jan Beránek embarked on an eight-year quest that brough him from a small Czech village to modern Singapore to uncover the life of his granduncle who died during the Japanese invasion of Singapore.</p> 
+<img src="/images/Online%20Only%20Articles/In%20Search%20of%20Silvestr/2.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/history/2024/9/christianity-china-singapore-missions-education/">**From Nanjing to Nanyang: Missionary Sojourns to Singapore and Christian Educational Missions in the Early 1950s**</a>
 
 Upheaval in China saw missionaries shifting their sights and resources to Singapore and the region, establishing related institutions and reaching the masses through education.
