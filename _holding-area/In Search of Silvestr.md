@@ -75,6 +75,6 @@ I never thought that my personal quest to discover the fate of my granduncle wou
 
 [^2]:  “[To Serve Malaya’s Five Million Pairs of Feet](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19400201-1.2.15),” _Singapore Free Press and Mercantile Advertiser (1884-1942)_, 1 February 1940, 2. (From NewspaperSG).
 
-[^3]:  Jan Beránek, _In Search of Silvester_ (Singapore: Landmark Books, 2025), 73.
+[^3]:  Jan Beránek, _In Search of Silvester_ (Singapore: Landmark Books, 2025), 73, https://www.landmarkbooks.sg/store/p/in-search-of-silvestr
 
 [^4]:  In my book I consider other possibilities of how he might have lost his life, and also share previously unknown, first-hand witness accounts of several Czechoslovaks about the impending Japanese invasion and the horrors of the bombardment of Singapore.
