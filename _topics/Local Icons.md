@@ -4,6 +4,13 @@ permalink: /topics/local-icons/
 description: ""
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/mobile-libraries-books-on-wheels/">Books on Wheels: Singapore's Mobile Libraries</a>
+
+ <p>Between the 1960s and 1980s, libraries-on-wheels were a familiar sight as they travelled around Singapore bringing books to residents in the rural and suburban areas.  </p> 
+ 
+<img src="/images/Vol%2021%20Issue%202/Books%20on%20Wheels/Mobile_Libraries_topic.png" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/national-library-stamford-road-photos/">Remembering the Lady in Red: The Former National Library on Stamford Road</a>
 
 Beyond being a mere repository of books, the former landmark on Stamford Road was a place for acquiring knowledge, making memories and creating friendships.
