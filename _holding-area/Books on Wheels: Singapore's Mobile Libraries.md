@@ -34,6 +34,10 @@ The plan then was to dispatch these roving libraries to densely populated urban 
 
 In April 1960, Hedwig Anuar from the University of Malaya Library in Kuala Lumpur was seconded to the Raffles National Library in Singapore to oversee the opening of the new National Library building. Under her watch as director, the mobile library van finally took to the roads on 6 September 1960.[^9]
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol%2021%20Issue%202/Books%20on%20Wheels/Hedwig_with_Ho_Kah_Leong.png" style="width: 80%;">Hedwig Anuar, director of the National Library, shows Ho Kah Leong, Member of Parliament for Jurong, the interior of the mobile library trailer during the opening of the new mobile library service point at Taman Jurong, 1969.<i> Collection of the National Library Singapore.</i></div>
+
 After taking office, Anuar faced the closure of two of the four part-time branch libraries in Upper Serangoon and Yio Chu Kang when their premises were requisitioned by other government ministries. These closures affected the students who regularly used these branches and placed additional strain on the already overburdened library services at the National Library. In response, Anuar expedited the roll-out of the mobile library service to fill the void left by the closures and reach children in rural areas.[^10]
 
 The mobile library’s maiden trip was to schools in the Naval Base area of Nee Soon. In the first two weeks, the van visited 37 schools in the outlying districts of Nee Soon, Sembawang, Jurong, Bukit Panjang and Tampines.[^11] The distinctive cream-coloured van, with the licence plate SG 184 and “Raffles National Library – UNESCO” painted on its livery, could hold up to 2,000 books in English, Malay, Chinese and Tamil.[^12]
