@@ -73,46 +73,26 @@ Noone’s manuscript and personal papers were either lost in the looting of the 
 
 #### **Notes**
 
-[^1]:     p.p1 {margin: 0.0px 0.0px 0.0px 9.9px; text-indent: -9.9px; line-height: 8.5px; font: 7.0px Calibri} span.s1 {letter-spacing: -0.3px} span.s2 {letter-spacing: -0.2px} span.s3 {letter-spacing: -0.4px} span.s4 {letter-spacing: -0.5px} span.s5 {letter-spacing: -0.6px}
+[^1]: G.L. Peet, “Between the Two Great Wars: Anglo-Malayan Reflections and Premonitions,” _Straits Times Annual_, 1 January 1941, 28–29. (From NewspaperSG)
 
-G.L. Peet, “Between the Two Great Wars: Anglo-Malayan Reflections and Premonitions,” _Straits Times Annual_, 1 January 1941, 28–29. (From NewspaperSG)
+[^2]: Nancy Tayles and Marc Oxenham, eds., “Introduction: Southeast Asian Bioarchaeology Past and Present,” in _Bioarchaeology of Southeast Asia_ (Cambridge: Cambridge University Press, 2006), 4. (From National Library Singapore, call no. R 599.9470959 BIO); Ben Shephard, _Head Hunters: The Search for a Science of the Mind_ (London: The Bodley Head, 2014), 220. (From National Library Singapore, call no. R 612.809 SHE); Edward Pop, Sofwan Noerwidi and Fred Spoor, “Naming _Homo erectus_: A review,” _Journal of Human Evolution_ 190 (May 2024): 1, https://doi.org/10.1016/j.jhevol.2024.103516.&nbsp;
 
-Nancy Tayles and Marc Oxenham, eds., “Introduction: Southeast Asian Bioarchaeology Past and Present,” in _Bioarchaeology of Southeast Asia_ (Cambridge: Cambridge University Press, 2006), 4. (From National Library Singapore, call no. R 599.9470959 BIO); Ben Shephard, _Head Hunters: The Search for a Science of the Mind_ (London: The Bodley Head, 2014), 220. (From National Library Singapore, call no. R 612.809 SHE); Edward Pop, Sofwan Noerwidi and Fred Spoor, “Naming _Homo erectus_: A review,” _Journal of Human Evolution_ 190 (May 2024): 1, https://doi.org/10.1016/j.jhevol.2024.103516.&nbsp;
+[^3]: “Treasure Trove at Fort Canning,” _Straits Times_, 19 July 1928, 8. (From NewspaperSG); Natalie S.Y. Ong, “The So Called ‘Kāla Head’ Armband of Temasek,” _Temasek Working Paper_ _Series_ 6 (Singapore: Temasek History Research Centre, ISEAS – Yusof Ishak Institute, 2023), https://www.iseas.edu.sg/wp-content/uploads/2023/08/TWPS06\_Natalie-Ong-LR.pdf.&nbsp;
 
-“Treasure Trove at Fort Canning,” _Straits Times_, 19 July 1928, 8. (From NewspaperSG); Natalie S.Y. Ong, “The So Called ‘Kāla Head’ Armband of Temasek,” _Temasek Working Paper_ _Series_ 6 (Singapore: Temasek History Research Centre, ISEAS – Yusof Ishak Institute, 2023), https://www.iseas.edu.sg/wp-content/uploads/2023/08/TWPS06\_Natalie-Ong-LR.pdf.&nbsp;
+[^4]: Shephard, Head Hunters, 88–98, 110–13, 190–95, 206–07, 219–25; Roland Braddell, “An Introduction to the Study of Ancient Times in the Malay Peninsula and the Straits of Malacca,” _Journal of the Malayan Branch of the Royal Asiatic Society_ 13, no. 2 (October 1935), 70. (From JSTOR via NLB’s eResources website)
 
-Shephard, Head Hunters, 88–98, 110–13, 190–95, 206–07, 219–25; Roland Braddell, “An Introduction to the Study of Ancient Times in the Malay Peninsula and the Straits of Malacca,” _Journal of the Malayan Branch of the Royal Asiatic Society_ 13, no. 2 (October 1935), 70. (From JSTOR via NLB’s eResources website)
+[^5]: Alternative early spellings for this site include Goa Cuppa and Guak Kepah.&nbsp;
 
-Alternative early spellings for this site include Goa Cuppa and Guak Kepah.&nbsp;
+[^6]: “Raffles Museum Adopted as Eastern Centre,” _Straits Times_, 24 August 1936, 13. (From NewspaperSG); Gretchen Liu, _One Hundred Years of the National Museum Singapore 1887–1987_ (Singapore: National Museum, 1987), 52–53. (From National Library Singapore, call no. RCLOS 708.95957 LIU)
 
-“Raffles Museum Adopted as Eastern Centre,” _Straits Times_, 24 August 1936, 13. (From NewspaperSG); Gretchen Liu, _One Hundred Years of the National Museum Singapore 1887–1987_ (Singapore: National Museum, 1987), 52–53. (From National Library Singapore, call no. RCLOS 708.95957 LIU)
+[^7]: “Raffles Museum Adopted as Eastern Centre.”
 
-“Raffles Museum Adopted as Eastern Centre.”
+[^8]: F.N. Chasen, _Annual Report of the Raffles Museum and Library for the Year 1935_ (Singapore: The Museum), 1. (From National Library Singapore, call no. RCLOS 027.55957 RAF); “Raffles Museum Adopted as Eastern Centre”; “Building Up the Prehistory of Malaya,” _Morning Tribune_, 18 June 1937, 9. (From NewspaperSG)
 
-F.N. Chasen, _Annual Report of the Raffles Museum and Library for the Year 1935_ (Singapore: The Museum), 1. (From National Library Singapore, call no. RCLOS 027.55957 RAF); “Raffles Museum Adopted as Eastern Centre”; “Building Up the Prehistory of Malaya,” _Morning Tribune_, 18 June 1937, 9. (From NewspaperSG)
+[^9]: “Raffles Museum Adopted as Eastern Centre,” 13; “Savants to Visit Malacca,” _Straits Times_, 16 January 1938, 5. (From NewspaperSG); Rajamogan, _The National Museum in Historical Perspective_, _1874–1981_ (Singapore: National University of Singapore, 1987), 38, 47. (From National Library Singapore, call no. RSING 708.95957 RAJ); Bernard Philippe Groslier, “The Far Eastern Prehistory Association 1953–1957,” _Asian Perspectives_ 1, no. 1/2 (Summer 1957): v; Wilhelm G. Solheim II, “Reorganization of the Indo-Pacific Prehistory Association, and the IXth Congress of the International Union of Prehistoric and Protohistoric Sciences,” _Asian Perspectives_ 20, no. 1 (1977): 173. (From JSTOR via NLB’s eResources website)
 
-“Raffles Museum Adopted as Eastern Centre,” 13; “Savants to Visit Malacca,” _Straits Times_, 16 January 1938, 5. (From NewspaperSG); Rajamogan, _The National Museum in Historical Perspective_, _1874–1981_ (Singapore: National University of Singapore, 1987), 38, 47. (From National Library Singapore, call no. RSING 708.95957 RAJ); Bernard Philippe Groslier, “The Far Eastern Prehistory Association 1953–1957,” _Asian Perspectives_ 1, no. 1/2 (Summer 1957): v; Wilhelm G. Solheim II, “Reorganization of the Indo-Pacific Prehistory Association, and the IXth Congress of the International Union of Prehistoric and Protohistoric Sciences,” _Asian Perspectives_ 20, no. 1 (1977): 173. (From JSTOR via NLB’s eResources website)
+[^10]: “The 22nd Congress of the Indo-Pacific Prehistory Association (IPPA 2022),” in _SEAMEO SPAFA Annual Report 2022–2023_ (Bangkok: SEAMEO Regional Centre for Archaeology and Fine Arts), 18, accessed 4 April 2025, https://www.seameo-spafa.org/wp-content/uploads/2024/06/SEAMEO-SPAFA-Annual-Report-2022-2023.pdf.&nbsp;
 
-“The 22nd Congress of the Indo-Pacific Prehistory Association (IPPA 2022),” in _SEAMEO SPAFA Annual Report 2022–2023_ (Bangkok: SEAMEO Regional Centre for Archaeology and Fine Arts), 18, accessed 4 April 2025, https://www.seameo-spafa.org/wp-content/uploads/2024/06/SEAMEO-SPAFA-Annual-Report-2022-2023.pdf.&nbsp;
-
-
-[^2]: 
-
-[^3]: 
-
-[^4]: 
-
-[^5]: 
-
-[^6]: 
-
-[^7]: 
-
-[^8]: 
-
-[^9]: 
-
-[^10]: 
 
 
 
