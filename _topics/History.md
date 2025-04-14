@@ -9,7 +9,7 @@ description: ""
 <img src="/images/Online%20Only%20Articles/In%20Search%20of%20Silvestr/2.jpg" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/history/2024/9/christianity-china-singapore-missions-education/">**From Nanjing to Nanyang: Missionary Sojourns to Singapore and Christian Educational Missions in the Early 1950s**</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/history/2024/9/christianity-china-singapore-missions-education/">From Nanjing to Nanyang: Missionary Sojourns to Singapore and Christian Educational Missions in the Early 1950s</a>
 
 Upheaval in China saw missionaries shifting their sights and resources to Singapore and the region, establishing related institutions and reaching the masses through education.
 
