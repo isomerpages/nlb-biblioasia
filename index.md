@@ -1157,4 +1157,15 @@ sections:
       image: /images/Online Only Articles/Conquer Tallest
         Mountain_12_23/mok_on_fixed_ropes_homepage.png
       alt: Image alt text
+  - infopic:
+      title: The House of Cheang
+      subtitle: People
+      id: infopic
+      description: The Cheangs were once one of Singapore’s most illustrious
+        Baba-Nonya families.
+      button: Uncover their stories
+      url: /people/2025/4/cheang-family-history/
+      image: /images/Online Only Articles/The House of
+        Cheang/house_pasir_panjang_topic.png
+      alt: The House of Cheang
 ---
