@@ -17,7 +17,7 @@ On 31 January 1959, the Singapore Constitution Exposition opened at the former K
 
 Among the 600 exhibitors from commercial and government sectors, an unexpected attraction made its public debut: the Raffles National Library’s mobile library van, which had been converted from a decommissioned army bus.[^2] Together with part-time branch libraries, the mobile library service was part of the library’s efforts to reach residents in outlying areas.
 
-![](/images/Vol%2021%20Issue%202/Books%20on%20Wheels/image_2.png)
+![](/images/Vol%2021%20Issue%202/Books%20on%20Wheels/image_19.png)
 <div style="background-color:white;">Visitors queuing up to board the Raffles National Library’s mobile library van at the Singapore Constitution Exposition, 1959. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 #### **Plans for a Mobile Library Service**
@@ -37,9 +37,6 @@ In April 1960, Hedwig Anuar from the University of Malaya Library in Kuala Lumpu
 After taking office, Anuar faced the closure of two of the four part-time branch libraries in Upper Serangoon and Yio Chu Kang when their premises were requisitioned by other government ministries. These closures affected the students who regularly used these branches and placed additional strain on the already overburdened library services at the National Library. In response, Anuar expedited the roll-out of the mobile library service to fill the void left by the closures and reach children in rural areas.[^10]
 
 The mobile library’s maiden trip was to schools in the Naval Base area of Nee Soon. In the first two weeks, the van visited 37 schools in the outlying districts of Nee Soon, Sembawang, Jurong, Bukit Panjang and Tampines.[^11] The distinctive cream-coloured van, with the licence plate SG 184 and “Raffles National Library – UNESCO” painted on its livery, could hold up to 2,000 books in English, Malay, Chinese and Tamil.[^12]
-
-![](/images/Vol%2021%20Issue%202/Books%20on%20Wheels/image_18.png)
-<div style="background-color:white;">The mobile library van at Naval Base School, 1960. <i>Collection of the National Library Singapore.</i></div>
 
 “The response to the mobile library is overwhelming,” said Anuar. “About 300 more children than the expected 2,000 have registered as members since it was started.” The library announced plans to conduct fortnightly visits and to gradually extend the service to other schools. By 1962, the mobile library service boasted a membership of 5,000.[^13]
 
@@ -68,6 +65,12 @@ In October 1963, library staff conducted surveys of community centres, where man
 <div style="background-color:white;">The mobile library van at Tanjong Pagar Community Centre, 1964. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore</i>.</div>
 
 Nee Soon was added in May 1965, quickly becoming the busiest of the three service points, followed by Bukit Panjang in February 1966. The mobile library service received a significant boost in September 1965 when the New Zealand government provided a book grant of £10,000 under the Colombo Plan for the enhancement of the mobile library collection. This donation funded the purchase of 23,519 books in 1966 for the two unused book trailers, facilitating the service’s expansion.[^20]
+
+![](/images/Vol%2021%20Issue%202/Books%20on%20Wheels/image_20.png)
+<div style="background-color:white;">Registration of new members at the opening of the mobile library service point at Nee Soon Community Centre, 1965. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
+![](/images/Vol%2021%20Issue%202/Books%20on%20Wheels/image_21.png)
+<div style="background-color:white;">Children choosing books at the opening of the mobile library service point at Bukit Panjang Community Centre, 1966. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Chan Thye Seng, who received a Colombo Plan scholarship in 1962 to study librarianship in New Zealand, was given the task of expanding the mobile library service after returning to Singapore in 1963. Having seen rural library service firsthand, Chan spearheaded the development and growth of the service, becoming synonymous with Singapore’s mobile library efforts in later years. He subsequently headed the Home Reading Division which managed the Library Extension Services.[^21]
 
@@ -107,6 +110,9 @@ Staff also had to maintain a large rotating stock of books, both fiction and non
 
 To avoid long queues and slow service at each service point, library staff would unload the books from the mobile library van and display them on mobile racks or book trays in a space provided by the community centre. A temporary counter would be set up to record loans and returns. As these visits were weekly, children frequently found themselves borrowing books that their peers have returned. Adult borrowers, being fewer in number, continued to board the van for book selection.[^29]
 
+![](/images/Vol%2021%20Issue%202/Books%20on%20Wheels/image_22.png)
+<div style="background-color:white;">The mobile library service point at Kaki Bukit Community Centre, 1967. Books from the mobile library van are unloaded and placed on mobile racks in a space provide by the community Centre. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 As the mobile library service developed, storytelling programmes were added to the offerings.[^30] To boost publicity, the service was promoted through school talks, and also over radio and television.[^31]
 
 #### **Rain or Shine**
@@ -116,6 +122,9 @@ Operating a mobile library service presented unique challenges. At times, the se
 Chan Thye Seng, who led the expansion of the mobile library service, recalled the various difficulties that they had to overcome. “On one occasion, three out of the four male serving clerical assistants were called up for reservist training. On another, three of the four mobile library drivers vacated office.”[^33]
 
 The mobile service was also at the mercy of inclement weather. “Once there was an island-wide flood in 1969, and the stalled vehicle had to be towed back from the outlying area to the PWD workshop at Kallang,” Chan recalled. “There was quite a queue and long wait for repairs and servicing, as priority was given to ambulances and police patrol cars.” Instead of disappointing the people and children who would wait expectantly for the arrival of the van, Chan said that staff would hire two to three taxis to transport the books to the location. “Rain or shine, the service had to continue!”[^34]
+
+![](/images/Vol%2021%20Issue%202/Books%20on%20Wheels/image_23.png)
+<div style="background-color:white;">Children eagerly waiting for the opening of the mobile library service point at Bukit Timah Community Centre, 1967. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Another problem was getting drivers for the trailers. Chan recalled: “Although we had four drivers and one van, I had to get these drivers on the road to drive these trailers and the drivers refused to drive. They said because these are heavy vehicles, we are general purpose drivers. We need certain extra allowances, and we also need to be trained. So, I arranged for the PWD to train up the drivers to drive the heavy vehicles.” Their salaries were also increased.[^35]
 
@@ -137,9 +146,6 @@ The idea of a mobile library service was too good to be mothballed forever thoug
 Molly, retrofitted from a former SBS transit bus, was installed with modern library technology such as borrowing stations and e-kiosks for onboard transactions. It was the world’s first fully wireless-enabled mobile library bus where transactions could be carried out digitally. The bus, which carried approximately 3,000 books, made visits to special-education schools, homes and orphanages, welfare homes and volunteer welfare organisations. Beyond lending books, Molly offered storytelling sessions and user education workshops, and participated in community outreach events. In its first year of operations, Molly served 45,114 visitors from 17 special needs schools, 16 homes and orphanages and 30 primary schools. In 2011, the Molly bus was retired and replaced the following year with an upgraded model that had iPads with e-books and a wheelchair ramp.[^40]
 
 With donations from the Kwan Im Thong Hood Cho Temple, the service expanded in May 2014 with two mini mobile library vans, known as Mini Mollys. These scaled-down versions of the Molly bus can hold up to 1,500 books and navigate narrow driveways and parking lots in small housing estates. They primarily serve kindergartens and childcare centres in housing estates as well as welfare homes that could not be reached by the bigger Molly. During these visits, children’s activities such as storytelling, arts and craft workshops and sing-along sessions are also conducted. Each year, Mini Mollys bring books and library programmes to 48,000 children from 160 preschools.[^41]
-
-![](/images/Vol%2021%20Issue%202/Books%20on%20Wheels/image_14.png)
-<div style="background-color:white;">Issuing books at the mobile library service point in Tanjong Pagar Community Centre, 1964. This service point closed in 1991. <i>Collection of the National Library Singapore</i>.</div>
 	
 ![](/images/Vol%2021%20Issue%202/Books%20on%20Wheels/image_16.png)
 <div style="background-color:white;">A Mini Molly, 2014. <i>Collection of the National Library Board</i>.</div>

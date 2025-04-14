@@ -9,13 +9,24 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-21/issue-1/apr-jun-2025/barbara-kerr-sharpshooter-school-principal-girl-guide/
-      button: "Barbara Kerr: Sharpshooter, School Principal, Girl Guide Extraordinaire"
+      url: /vol-12/issue-4/jan-mar-2017/windows-into-history/
+      button: Windows into History
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 21 Issue 1/Barbara Kerr/heroimg_barbara.jpg
+      background: /images/Vol-12-issue-4/windows-into-history/windows_history_hero1.png
+  - infopic:
+      title: The House of Cheang
+      subtitle: People
+      id: infopic
+      description: The Cheangs were once one of Singapore’s most illustrious
+        Baba-Nonya families.
+      button: Uncover their stories
+      url: /people/2025/4/cheang-family-history/
+      image: /images/Online Only Articles/The House of
+        Cheang/house_pasir_panjang_topic.png
+      alt: The House of Cheang
   - infopic:
       title: The Trip That Led to the 1953 Landmark Art Exhibition
       subtitle: Podcast

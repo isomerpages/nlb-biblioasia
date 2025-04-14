@@ -51,7 +51,7 @@ The library opened in the Town Hall on 14 September 1874, focused on collecting 
 To ensure that “every possible advantage may be placed within the reach of readers in the Settlement”, the library was also opened to non-subscribers but they were not permitted to borrow materials. James Collins, headmaster of the Singapore Institution, was appointed to oversee both the library and museum as librarian and curator.[^14]
 
 ![](/images/Vol%2021%20Issue%202/Story%20of%20National%20Library/image_4.png)
-<div style="background-color: white;"> Rules of the Raffles Library 8 March 1882. <i>Collection of the National Library Singapore.</i></div>
+<div style="background-color: white;"> Rules of the Raffles Library, 8 March 1882. <i>Collection of the National Library Singapore.</i></div>
 
 In 1877, the growing collections of the Raffles Library and Museum necessitated a move to the first and second floors of a new wing of the Singapore Institution, which had been renamed Raffles Institution. But this space soon proved inadequate, prompting the construction of a dedicated building on Stamford Road. This striking neoclassical structure, with its 90-foot (27&nbsp;m) dome (now home to the National Museum of Singapore), opened on 12 October 1887. It housed the library on the ground floor and the museum on the first floor.[^15]
 
@@ -95,15 +95,28 @@ The new red-brick National Library building on Stamford Road was officially open
 <div style="background-color: white;"> Prime Minister Lee Kuan Yew’s letter to the Minister for Culture pledging the government’s support to expand the facilities of the Children’s Library at the National Library, 20 April 1967. <i>From National Archives of Singapore, microfilm no. AR 006</i>.</div>
 
 On 9 December 1960, Raffles National Library was renamed the National Library after the Raffles National Library (Change of Name) Ordinance was passed.[^33]
-In 1963, the National Library’s “Q” Collection made headlines when its bibliography, _Books about Malaysia_, was “hailed in all parts of the world” after it was published.[^34] Thereafter, the library received two major donations. The Penang-born merchant Tan Yeok Seong donated his 10,000-volume on Southeast Asian works to the library in 1964. This is now known as the Ya Yin Kwan Collection. One year later, Mrs Loke Yew, mother of film magnate Loke Wan Tho (chairman of the board of the National Library from 1960 until his death in 1964) donated her son’s collection of 1,000 books and journals on Malayan flora, fauna, travel and arts, known today as the Gibson-Hill Collection. 
+
+In 1963, the National Library’s “Q” Collection made headlines when its bibliography, _Books about Malaysia_, was “hailed in all parts of the world” after it was published.[^34] Thereafter, the library received two major donations. The Penang-born merchant Tan Yeok Seong donated his 10,000-volume on Southeast Asian works to the library in 1964. This is now known as the Ya Yin Kwan Collection. 
+
+One year later, Mrs Loke Yew, mother of film magnate Loke Wan Tho (chairman of the board of the National Library from 1960 until his death in 1964) donated her son’s collection of 1,000 books and journals on Malayan flora, fauna, travel and arts, known today as the Gibson-Hill Collection. 
+
 These donations, along with the existing “Q” collection, formed the foundation of the South East Asia (SEA) Room which opened on 28 August 1964. Today, the SEA Collection has evolved into the National Library’s National Collection comprising the Rare Materials Collection, the Singapore and Southeast Asia collections and the Donors’ Collection.[^35]
+
+![](/images/Vol%2021%20Issue%202/Story%20of%20National%20Library/image_9.png)
+<div style="background-color: white;">The South East Asia Room, 1964. <i>Collection of the National Library Singapore</i>.</div>
 
 Anuar, who returned to the University of Malaya Library in 1961 when her stint as interim director ended, was appointed assistant director (supernumerary) of the National Library in 1962. She succeeded expatriate director Priscilla Taylor in 1965 after the latter completed her contract and left in 1964. Over the next two decades, Anuar made significant contributions to the growth and development of the National Library.[^36]
 
 On returning, Anuar implemented various initiatives to encourage people to visit the library and to read.[^37] She launched the mobile library service, first proposed by Harrod, and set up fulltime branch libraries in housing estates to reach residents in the outlying areas. Queenstown Branch Library was the first to open in 1970. By 1990, there were eight branch libraries, contributing to a substantial increase in library membership from approximately 45,000 members in 1960 to over 640,000 members by 1990. Correspondingly, book borrowing surged from 703,000 loans to 9.2 million loans during the same period.[^38]
+
 In the 1980s, Anuar led the National Library on its path to computerisation. Book borrowing, book returns and membership registration were computerised, and the Online Public Access Catalogue to search and locate library materials replaced card catalogues.[^39]
 
-As the 1980s came to a close, the need for a new National Library building became clear as the Stamford Road location had been “stretched to the limit”.[^40] On 1 April 2004, the shutters of the red-brick building on Stamford Road came down for the last time, paving the way for the new National Library Building on Victoria Street which officially opened on 12 November 2005.[^41]
+As the 1980s came to a close, the need for a new National Library building became clear as the Stamford Road location had been “stretched to the limit”.[^40] 
+
+![](/images/Vol%2021%20Issue%202/Story%20of%20National%20Library/image_8.png)
+<div style="background-color: white;"> The former National Library building on Stamford Road after an extensive makeover in 1997. <i>Collection of the National Library Singapore</i>.</div>
+
+On 1 April 2004, the shutters of the red-brick building on Stamford Road came down for the last time, paving the way for the new National Library Building on Victoria Street which officially opened on 12 November 2005.[^41]
 
 ![](/images/Vol%2021%20Issue%202/Story%20of%20National%20Library/image_2.png)
 <div style="background-color: white;"> Level 11 of the Lee Kong Chian Reference Library at the National Library Building on Victoria Street. <i>Photo by Jimmy Yap.</i></div>
@@ -113,9 +126,6 @@ As the 1980s came to a close, the need for a new National Library building becam
 In 1992, the Library 2000 Review Committee was convened to conduct a comprehensive review of library services in Singapore. A key outcome of the committee’s report, released in 1994, was the establishment of the National Library Board (NLB) on 1 September 1995 to oversee the development and management of the National Library and public libraries.[^42]
 
 With more autonomy and flexibility as a statutory board, NLB embarked on its journey of innovation and service excellence by leveraging new technology. In 1998, NLB became the first library system in the world to pioneer the use of radio frequency identification technology for all library processes and operations. Book borrowing and returning became faster and easier with automated self-check borrowing stations and automated bookdrops.[^43]
-
-![](/images/Vol%2021%20Issue%202/Story%20of%20National%20Library/image_8.png)
-<div style="background-color: white;"> The former National Library building on Stamford Road after an extensive makeover in 1997, 1998. <i>Collection of the National Library Singapore</i>.</div>
 
 In tandem with technological advancements, the physical library network was enlarged significantly. New regional libraries in Tampines, Woodlands and Jurong provided expanded collections and services, while smaller branch libraries were strategically co-located with community centres or housed within shopping malls to encourage more visitors to the library. This expansion has resulted in a comprehensive network of 28 public libraries across the island today.[^44]
 
@@ -134,6 +144,9 @@ These strategic plans have led to initiatives that benefit library users and imp
 NLB’s most recent strategic plan, LAB25, or “Libraries and Archives Blueprint 2025”, was launched in October 2021 to direct NLB’s five-year journey in its next phase of transformation. LAB25 aims to reimagine the libraries and archives of the future and to ensure that they remain vital and relevant in a rapidly evolving digital landscape.[^50]
 
 Aligned with this new blueprint, and with augmented reality and artificial intelligence (AI) being the buzzwords these days, NLB has embraced these emerging technologies to revolutionise user experience and improve operational efficiency. An example is the prototype of a generative AI-powered chatbook in 2024 featuring founding father S. Rajaratnam for users to learn about his life and contributions to Singapore, drawing from his authorised biography by former journalist and Member of Parliament Irene Ng as well as collections from the National Archives and National Library.[^51]
+
+![](/images/Vol%2021%20Issue%202/Story%20of%20National%20Library/image_10.png)
+<div style="background-color: white;">The generative AI-powered chatbook featuring S. Rajaratnam, 2024. <i>Photo by Jimmy Yap</i>. </div>
 
 As NLB looks to the future, it will continue to evolve, experiment and innovate to serve a new generation of library users. At the same time, NLB’s mission of nurturing readers for life, developing learning communities and building a knowledgeable nation will remain at the heart of everything it does. 
 	

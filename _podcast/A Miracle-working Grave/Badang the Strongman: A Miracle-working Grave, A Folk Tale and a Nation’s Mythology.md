@@ -26,7 +26,31 @@ than is generally known.</p>
 <p>Available on: Spotify, Apple Podcasts, melisten.</p>
 <p>Subscribe to get notified when the next episode drops.</p>
 <p></p>
-<h4><strong>What William Talked About</strong><br></h4>
+<h4><strong>What William Talked About</strong></h4>
+<p>00:00 – What a <em>keramat </em>is
+<br>01:13 – Legend of Badang the strongman
+<br>02:20 – William’s past research on <em>keramat</em>
+<br>03:07 – Badang as a national icon and his myth in the Malay Annals
+<br>04:43 – British interest and early translations of Badang’s story
+<br>06:26 – The rock-throwing legend and its transformation into a national
+tale
+<br>08:26 – Origins of the Singapore Stone and colonial myth-making
+<br>11:00 – The three different rocks associated with Badang
+<br>13:02 – The search for the real burial site of Badang
+<br>18:08 – The shrine’s transformation into a government-designated cultural
+site
+<br>20:40 – The Karimun inscription and its link to Badang folklore
+<br>22:00 – Other stones with footprints and mythical associations
+<br>24:00 – Theories of Badang’s burial sites
+<br>26:00 – Other folktales with vomit-eating as a power transfer motif
+<br>28:00 – Broader meaning and significance of <em>keramat </em>and nature
+shrines
+<br>31:05 – Existing <em>keramat </em>in Singapore
+<br>35:10 – Stories of the <em>keramat </em>Habib Noh
+<br>39:01 – Challenges of preserving <em>keramat </em>in Singapore
+<br>42:00 – Fates of <em>kermat </em>in Singapore, Malaysia and Indonesia
+<br>44:07 – The heritage value of <em>keramat </em>
+<br>47:55 – Mythology is…</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">

@@ -1,6 +1,6 @@
 ---
 title: The House of Cheang
-permalink: /holding-area/the-house-of-cheang/
+permalink: /people/2025/4/cheang-family-history/
 variant: markdown
 description: ""
 ---
