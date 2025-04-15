@@ -102,20 +102,20 @@ Noone’s manuscript and personal papers were either lost in the looting of the 
 
 [^13]: George Windsor Earl, “On the Mounds of Province-Wellesley, in the Malay Peninsula,” _Transactions of the Ethnological Society of London_ 2 (1863): 119. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/) website); Ivor H.N. Evans, “On Ancient Kitchen Middens in Province Wellesley,” [_Journal of the Federated Malay States Museums_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980404) 15 (February 1930): 15–18. (From National Library Singapore, call no. RCLOS 708.9595 JFMSM)
 
-[^14]: Evans, “On Ancient Kitchen Middens,” 17; Dorn Carran, John Hughes, Alick Leslie and Craig Kennedy, “A Short History of the Use of Lime as a Building Material Beyond Europe and North America,” _International Journal of Architectural Heritage_ 6, no. 2 (2012): 284, https://doi.org/10.1080/15583058.2010.511694.&nbsp;
+[^14]: Evans, “On Ancient Kitchen Middens,” 17; Dorn Carran, John Hughes, Alick Leslie and Craig Kennedy, “A Short History of the Use of Lime as a Building Material Beyond Europe and North America,” _International Journal of Architectural Heritage_ 6, no. 2 (2012): 284, [https://doi.org/10.1080/15583058.2010.511694](https://doi.org/10.1080/15583058.2010.511694).
 
-[^15]: P.V. van Stein Callenfels and I.H.N. Evans, “Report on Cave Excavations in Perak,” _Oudheidkundig Verslag_ \[Report on Antiquities\], (1926): 181–92. (From National Library Singapore, call no. RCLOS 708.051 ODNOV-\[LYF\]); Victor Purcell, _The Memoirs of a Malayan Official_ (London: Casell, 1965), 277. (From National Library Singapore, call no. RCLOS 959.5 PUR)
+[^15]: P.V. van Stein Callenfels and I.H.N. Evans, “Report on Cave Excavations in Perak,” [_Oudheidkundig Verslag_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4389341) \[Report on Antiquities\], (1926): 181–92. (From National Library Singapore, call no. RCLOS 708.051 ODNOV-\[LYF\]); Victor Purcell, [_The Memoirs of a Malayan Official_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4093050) (London: Casell, 1965), 277. (From National Library Singapore, call no. RCLOS 959.5 PUR)
 
-[^16]: The Wanderer, “Mainly About Malayans,” _Straits Times_, 31 July 1932, 4 (From NewspaperSG)
+[^16]: The Wanderer, “[Mainly About Malayans](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19320731-1.2.25),” _Straits Times_, 31 July 1932, 4 (From NewspaperSG)
 
-[^17]: Julien Louys, “Quaternary Paleontological and Archaeological Research in Sumatra,” in _Quaternary Paleontology and Archaeology of Sumatra_ ed. Julie Louys, Paul C. H. Albers and Alexandra A. E. van der Geer (Canberra: ANU Press, 2024), 5. (From JSTOR via NLB’s eResources website); Callenfels, “An Excavation of Three Kitchen Middens at Guak Kepah, Province Wellesley, Straits Settlements,” 26.&nbsp;
+[^17]: Julien Louys, “Quaternary Paleontological and Archaeological Research in Sumatra,” in _Quaternary Paleontology and Archaeology of Sumatra_ ed. Julie Louys, Paul C. H. Albers and Alexandra A. E. van der Geer (Canberra: ANU Press, 2024), 5. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/) website); Callenfels, “[An Excavation of Three Kitchen Middens at Guak Kepah, Province Wellesley, Straits Settlements](https://www.nlb.gov.sg/main/book-detail?cmsuuid=df2c59db-0c25-4632-8c11-a57af3621aec),” 26.&nbsp;
 
-[^18]: “An Advance in Far-Eastern Prehistory Relics of Australo-Melanesoid Culture,” _Malaya Tribune_, 29 January 1935, 16. (From NewspaperSG)
+[^18]: “[An Advance in Far-Eastern Prehistory Relics of Australo-Melanesoid Culture](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19350129-1.2.142),” _Malaya Tribune_, 29 January 1935, 16. (From NewspaperSG)
 
-[^19]: “Carnegie Grant for Malayan Research,” _Straits Times_, 18 January 1935, 16. (From NewspaperSG)
+[^19]: “[Carnegie Grant for Malayan Research](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19350118-1.2.108),” _Straits Times_, 18 January 1935, 16. (From NewspaperSG)
 
 
-[^20]: M.W.F. Tweedie, “Report on Excavations in Kelantan,” _Journal of the Malayan Branch of the Royal Asiatic Society_ 18, part 2 (August 1940): 18. (From National Library Singapore, call no. RCLOS 959.5 JMBRAS); B.A.V. Peacock, “A Short Description of Malayan Prehistoric Pottery,” _Asian Perspectives_ 3, no. 2 (Winter 1959): 123. (From JSTOR via NLB’s eResources website)
+[^20]: M.W.F. Tweedie, “Report on Excavations in Kelantan,” [_Journal of the Malayan Branch of the Royal Asiatic Society_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4982709) 18, part 2 (August 1940): 18. (From National Library Singapore, call no. RCLOS 959.5 JMBRAS); B.A.V. Peacock, “A Short Description of Malayan Prehistoric Pottery,” _Asian Perspectives_ 3, no. 2 (Winter 1959): 123. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/) website)
 
 
 
