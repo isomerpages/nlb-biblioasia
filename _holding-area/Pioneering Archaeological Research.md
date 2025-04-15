@@ -125,11 +125,11 @@ Noone’s manuscript and personal papers were either lost in the looting of the 
 
 [^23]: “[Mr. C. Boden Kloss](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19311212-1.2.45),” _Singapore Free Press and Mercantile Advertiser_, 12 December 1931, 10; “[M.A.P](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsechomail19260927-1.2.46),” _Straits Echo_ (_Mail Edition_), 27 September 1926, 1075. (From NewspaperSG); Choo, [_Archaeology_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4693550), 6.&nbsp;
 
-[^24]: Choo, “_Archaeology_,” 8; National Museum Singapore, “Second Congress for Prehistoric Research in the Far East to Be Held at Manila on 6th to 12th Feb, 1935,” Government Records, December 1934–April 1935. (From National Archives of Singapore, record reference no. CSO CONSULS FM 9222–34)
+[^24]: Choo, “[_Archaeology_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4693550),” 8; National Museum Singapore, “[Second Congress for Prehistoric Research in the Far East to Be Held at Manila on 6th to 12th Feb, 1935](https://www.nas.gov.sg/archivesonline/government_records/record-details/8d83ee7d-1159-11e3-83d5-0050568939ad),” Government Records, December 1934–April 1935. (From National Archives of Singapore, record reference no. CSO CONSULS FM 9222–34)
 
-[^25]: Rajamogan, “The National Museum in Historical Perspective,” 28–29.&nbsp;
+[^25]: Rajamogan, “[The National Museum in Historical Perspective](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202797162),” 28–29.&nbsp;
 
-[^26]: Richard Glotzer, “Frederick P. Keppel and Carnegie Corporation’s Interwar Area Experts: An Overview,” _American Educational History Journal_ 33, no. 1 (2006): 49–50. (From ProQuest via NLB’s eResources website)
+[^26]: Richard Glotzer, “Frederick P. Keppel and Carnegie Corporation’s Interwar Area Experts: An Overview,” _American Educational History Journal_ 33, no. 1 (2006): 49–50. (From ProQuest via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website)
 
 [^27]: Glotzer, “Frederick P. Keppel and Carnegie Corporation’s Interwar Area Experts,” 50.
 
