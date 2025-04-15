@@ -35,6 +35,9 @@ The excavation in Guar Kepah built on the survey reports of George Windsor Earl,
 
 One of the places Evans visited in Penang was Guar Kepah. This site consisted of three shell middens (mounds where shell remains formed the majority of artefacts), near the south bank of the Muda River, and is now estimated to be in use between 5,000 and 6,000 years ago.
 
+![](/images/Vol%2021%20Issue%202/Archaeologic/archaeological_shell.jpg)
+<div style="background-color:white;"> A side profile photo of a shell midden at Guar Kepah. <i>Image reproduced from P.V. van Stein Callenfels, “An Excavation of three Kitchen Middens at Guak Kepah, Province Wellesley, Straits Settlements,” Bulletin of the Raffles Museum Singapore, Straits Settlements, Series B, no. 1 (May 1936), Plate XXX, Fig 2. (From National Library Online).</i></div>
+
 Evans reported that the top section of the Guar Kepah mound he saw had been mined for its lime by lime burners (lime has several industrial applications such as in construction, or for agriculture), and that “the remains of it are only elevated about two or three feet above the surrounding land”.[^14]
 
 Evans had trained under, and collaborated with, the renowned Dutch prehistorian and archaeologist Pieter Vincent van Stein Callenfels on cave excavations in 1926 and 1927 at Gua Badak and Gua Kerbau, both in Perak.[^15] (Unfortunately, Evans was retrenched by the FMS government in 1932 as the Great Depression had left the government with a severe budget deficit.[^16])
