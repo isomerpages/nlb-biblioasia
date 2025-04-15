@@ -133,16 +133,16 @@ Noone’s manuscript and personal papers were either lost in the looting of the 
 
 [^27]: Glotzer, “Frederick P. Keppel and Carnegie Corporation’s Interwar Area Experts,” 50.
 
-[^28]: “Grants for Malayan Museums?” _Straits Times_, 8 March 1934, 19; “Valuable Work of the Raffles Museum,” _Singapore Free Press and Mercantile Advertiser_, 9 March 1934, 7. (From NewspaperSG); “Outlying Museums of the Empire,” _Nature_ 133 (1934): 538, https://www.nature.com/articles/133538a0; S.F. Markham, “The Museums of British Malaya,” in _Reports on the Museum of Ceylon, British Malaya, the West Indies_, etc, ed. Henry Alexander Miers (London: Museums Association, 1933), 15–19.&nbsp;
+[^28]: “[Grants for Malayan Museums?](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19340308-1.2.124)” _Straits Times_, 8 March 1934, 19; “[Valuable Work of the Raffles Museum](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19340309-1.2.54),” _Singapore Free Press and Mercantile Advertiser_, 9 March 1934, 7. (From NewspaperSG); “Outlying Museums of the Empire,” _Nature_ 133 (1934): 538, [https://www.nature.com/articles/133538a0](https://www.nature.com/articles/133538a0); S.F. Markham, “The Museums of British Malaya,” in _Reports on the Museum of Ceylon, British Malaya, the West Indies_, etc, ed. Henry Alexander Miers (London: Museums Association, 1933), 15–19.&nbsp;
 
-[^29]: Stephen H. Stackpole, Commonwealth Program 1911–1961 (New York: Carnegie Corporation of New York, 1963), 23–59, accessed 20 January 2025, https://babel.hathitrust.org/cgi/pt?id=mdp.39015016481221&amp;seq=43; Donald Fisher, “Rockefeller Philanthropy and the Rise of Social Anthropology,” _Anthropology Today_ 2, no. 1 (February 1986): 5–8. (From JSTOR via NLB’s eResources website); Ian McShane, _The Museum Movement: Carnegie Cultural Philanthropy and Museum Development in the Anglosphere_, 1920–1940 (London: Routledge, 2025), 57–85.
+[^29]: Stephen H. Stackpole, Commonwealth Program 1911–1961 (New York: Carnegie Corporation of New York, 1963), 23–59, accessed 20 January 2025, [https://babel.hathitrust.org/cgi/pt?id=mdp.39015016481221&amp;seq=43](https://babel.hathitrust.org/cgi/pt?id=mdp.39015016481221&amp;seq=43); Donald Fisher, “Rockefeller Philanthropy and the Rise of Social Anthropology,” _Anthropology Today_ 2, no. 1 (February 1986): 5–8. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main/) website); Ian McShane, _The Museum Movement: Carnegie Cultural Philanthropy and Museum Development in the Anglosphere_, 1920–1940 (London: Routledge, 2025), 57–85.
 
-[^30]: “Herbert Dennis Collings (1905–2001),” Suffolk Record Office (reference number 2089/2), accessed 4 March 2025, https://www.suffolkarchives.co.uk/collections/getrecord/GB175\_2089\_2.
-
-
+[^30]: “Herbert Dennis Collings (1905–2001),” Suffolk Record Office (reference number 2089/2), accessed 4 March 2025, [https://www.suffolkarchives.co.uk/collections/getrecord/GB175\_2089\_2](https://www.suffolkarchives.co.uk/collections/getrecord/GB175_2089_2).
 
 
-[^31]: Wilhelm G. Solheim II, Floyd Wheeler and Jane Allen-Wheeler, “Archaeology in Malaysia, Brunei, and Singapore,” in _Malaysian Studies: Archaeology, Historiography, Geography, and Bibliography_, ed. John A. Lent and Kent Mulliner (\[De Kalb, Ill.\]: Center for Southeast Asian Studies, Northern Illinois University 1986), 3–4. (From National Library Singapore, call no. RSING 959.5 MAL)
+
+
+[^31]: Wilhelm G. Solheim II, Floyd Wheeler and Jane Allen-Wheeler, “Archaeology in Malaysia, Brunei, and Singapore,” in [_Malaysian Studies: Archaeology, Historiography, Geography, and Bibliography_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3976988), ed. John A. Lent and Kent Mulliner (\[De Kalb, Ill.\]: Center for Southeast Asian Studies, Northern Illinois University 1986), 3–4. (From National Library Singapore, call no. RSING 959.5 MAL)
 
 [^32]: Solheim II, Wheeler and Wheeler, “Archaeology in Malaysia, Brunei, and Singapore,” 3–4.&nbsp;
 
