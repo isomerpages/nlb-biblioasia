@@ -81,6 +81,14 @@ Harrod, who became Librarian in September 1954, expanded the collection to over 
 
 On 1 January 1955, Harrod was appointed Director of the Raffles Library after its administration was separated from that of the Raffles Museum. Plans were also made for the library to move into a new $2.5-million three-storey building on an adjacent site previously occupied by the St John’s Ambulance Headquarters and the British Council Hall.[^28]
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol%2021%20Issue%202/Story%20of%20National%20Library/852932013674_0013.jpg" style="width: 60%;">Leonard M. Harrod (right), director of the Raffles Library (1955–60), looks on as Attorney-General Edward John Davies is browsing a book.<i> Collection of the National Library Singapore.</i></div>
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol%2021%20Issue%202/Story%20of%20National%20Library/19980000854_IMG0014.jpg" style="width: 80%;">The British Council building on Stamford Road, 1953. The building was part of St Andrew’ s School from 1875 to 1940.<i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 The foundation stone of the new building was laid on 16 August 1957 by the businessman and philanthropist Lee Kong Chian, who had donated $375,000 on the condition that “the library should be made available to the public without charge and that books in the languages commonly spoken in Singapore and in European languages other than English be provided”.[^29]
 
 A milestone was reached in 1958 when the Raffles National Library Ordinance came into effect, officially separating the library from the museum, and the Raffles Library was renamed Raffles National Library. It also became a free library where members no longer had to pay a subscription fee, although a $10 refundable deposit was still required.[^30]
