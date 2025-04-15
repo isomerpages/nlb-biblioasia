@@ -91,6 +91,10 @@ On 1 January 1955, Harrod was appointed Director of the Raffles Library after it
 
 The foundation stone of the new building was laid on 16 August 1957 by the businessman and philanthropist Lee Kong Chian, who had donated $375,000 on the condition that “the library should be made available to the public without charge and that books in the languages commonly spoken in Singapore and in European languages other than English be provided”.[^29]
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol%2021%20Issue%202/Story%20of%20National%20Library/19980001321_IMG0033.jpg" style="width: 80%;">Lee Kong Chian laying the foundation stone for the new National Library building on Stamford Road, 1957.<i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 A milestone was reached in 1958 when the Raffles National Library Ordinance came into effect, officially separating the library from the museum, and the Raffles Library was renamed Raffles National Library. It also became a free library where members no longer had to pay a subscription fee, although a $10 refundable deposit was still required.[^30]
 
 #### **The National Library: Serving a New Nation**
