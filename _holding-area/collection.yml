@@ -2,9 +2,6 @@ collections:
   holding-area:
     output: true
     order:
-      - "From Colonial Vision to Knowledge Hub: The Story of the National
-        Library.md"
-      - "Books on Wheels: Singapore's Mobile Libraries.md"
-      - In Search of Silvestr.md
+      - Pioneering Archaeological Research.md
       - Singapore Youth Orchestra Brings Singapore Composers into the
         Limelight.md

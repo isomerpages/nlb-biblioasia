@@ -2,6 +2,9 @@ collections:
   jul-to-sep-2025:
     output: true
     order:
+      - "From Colonial Vision to Knowledge Hub: The Story of the National
+        Library.md"
+      - "Books on Wheels: Singapore's Mobile Libraries.md"
       - "Pages of Progress: The Toa Payoh Public Library.md"
       - My Mother Hedwig Anuar.md
       - Remembering the Part Time Libraries.md

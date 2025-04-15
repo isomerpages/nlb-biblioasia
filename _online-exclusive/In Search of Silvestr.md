@@ -1,6 +1,6 @@
 ---
 title: In Search of Silvestr
-permalink: /holding-area/in-search-of-silvestr/
+permalink: /people/2025/4/lost-family-silvestr-nemec-war-search-czech-singapore/
 variant: markdown
 description: ""
 ---

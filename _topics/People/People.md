@@ -5,6 +5,19 @@ description: ""
 third_nav_title: People
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/people/2025/4/lost-family-silvestr-nemec-war-search-czech-singapore/">In Search of Silvestr</a>
+ <p>Sparked by a box of old family documents, Jan Beránek embarked on an eight-year quest that brough him from a small Czech village to modern Singapore to uncover the life of his granduncle who died during the Japanese invasion of Singapore.</p> 
+<img src="/images/Online%20Only%20Articles/In%20Search%20of%20Silvestr/2.jpg" style="width:80%;">
+<hr>
+
+#### <a style="text-decoration: none; font-weight: bold;" href="/people/2025/4/cheang-family-history/">The House of Cheang</a>
+
+The Cheangs were once one of Singapore’s most illustrious Baba-Nonya families.
+
+<img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/house_pasir_panjang_topic.png" style="width:80%;"> 
+
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/liu-kang-forgotten-photographs-bali/">Forgotten Photographs of the 1952 Trip to Bali</a>
 A treasure trove of negatives found in an old shoebox sheds new light on a trip that led to an exhibition now regarded as a milestone in the history of Singapore art.
 

@@ -45,7 +45,7 @@ sections:
       description: Beyond being a mere repository of books, the former landmark on
         Stamford Road was a place for acquiring knowledge, making memories and
         creating friendships.
-      button: REMEMBERING A BELOVED ICON
+      button: A BELOVED ICON
       url: /vol-21/issue-2/jul-sep-2025/national-library-stamford-road-photos/
       image: /images/Vol 21 Issue 2/Frames of Memory/frames_topic.jpg
       alt: Former National Library

@@ -1,6 +1,6 @@
 ---
 title: "From Colonial Vision to Knowledge Hub: The Story of the National Library"
-permalink: /holding-area/vol-21/issue-2/jul-sep-2025/the-story-of-the-national-library/
+permalink: /vol-21/issue-2/jul-sep-2025/history-story-national-library-singapore/
 variant: markdown
 description: "From Colonial Vision to Knowledge Hub: The Story of the National Library"
 image: /images/Vol 21 Issue 2/Story of National Library/image_1.png
@@ -77,11 +77,27 @@ The 1950s saw significant improvements under trained librarians Louise E. Bridge
 ![](/images/Vol%2021%20Issue%202/Story%20of%20National%20Library/image_5.png)
 <div style="background-color: white;"> A seating area at the Raffles Library, 1950s. The card catalogue cabinet is seen in the background. <i>Collection of the National Library Singapore.</i></div>
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol%2021%20Issue%202/Story%20of%20National%20Library/IMG0023_PH000844.png" style="width: 80%;">Children queuing to enter the Raffles Library, c. 1950s.<i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 Harrod, who became Librarian in September 1954, expanded the collection to over 100,000 volumes by the mid-1950s.[^26] He initiated an “Oriental” collection featuring books in Chinese, Malay and Tamil, and started a music section with about 4,500 pieces of sheet music, music albums and miniature scores by the end of 1958. Harrod also built more part-time branch libraries in the outlying areas and proposed a mobile library service.[^27]
 
 On 1 January 1955, Harrod was appointed Director of the Raffles Library after its administration was separated from that of the Raffles Museum. Plans were also made for the library to move into a new $2.5-million three-storey building on an adjacent site previously occupied by the St John’s Ambulance Headquarters and the British Council Hall.[^28]
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol%2021%20Issue%202/Story%20of%20National%20Library/852932013674_0013.jpg" style="width: 60%;">Leonard M. Harrod (right), director of the Raffles Library (1955–60), looks on as Attorney-General Edward John Davies is browsing a book.<i> Collection of the National Library Singapore.</i></div>
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol%2021%20Issue%202/Story%20of%20National%20Library/19980000854_IMG0014.jpg" style="width: 80%;">The British Council building on Stamford Road, 1953. The building was part of St Andrew’ s School from 1875 to 1940.<i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 The foundation stone of the new building was laid on 16 August 1957 by the businessman and philanthropist Lee Kong Chian, who had donated $375,000 on the condition that “the library should be made available to the public without charge and that books in the languages commonly spoken in Singapore and in European languages other than English be provided”.[^29]
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol%2021%20Issue%202/Story%20of%20National%20Library/19980001321_IMG0033.jpg" style="width: 80%;">Lee Kong Chian laying the foundation stone for the new National Library building on Stamford Road, 1957.<i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 A milestone was reached in 1958 when the Raffles National Library Ordinance came into effect, officially separating the library from the museum, and the Raffles Library was renamed Raffles National Library. It also became a free library where members no longer had to pay a subscription fee, although a $10 refundable deposit was still required.[^30]
 

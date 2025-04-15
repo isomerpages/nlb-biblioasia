@@ -1,6 +1,6 @@
 ---
 title: "Books on Wheels: Singapore's Mobile Libraries"
-permalink: /holding-area/vol-21/issue-2/jul-sep-2025/books-on-wheels-singapore-s-mobile-libraries/
+permalink: /vol-21/issue-2/jul-sep-2025/mobile-libraries-books-on-wheels/
 variant: markdown
 description: "Books on Wheels: Singapore's Mobile Libraries"
 image: /images/Vol 21 Issue 2/Books on Wheels/image_1.png
@@ -33,6 +33,10 @@ The plan then was to dispatch these roving libraries to densely populated urban 
 #### **The Mobile Library Service Begins&nbsp;**
 
 In April 1960, Hedwig Anuar from the University of Malaya Library in Kuala Lumpur was seconded to the Raffles National Library in Singapore to oversee the opening of the new National Library building. Under her watch as director, the mobile library van finally took to the roads on 6 September 1960.[^9]
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol%2021%20Issue%202/Books%20on%20Wheels/Hedwig_with_Ho_Kah_Leong.png" style="width: 80%;">Hedwig Anuar, director of the National Library, shows Ho Kah Leong, Member of Parliament for Jurong, the interior of the mobile library trailer during the opening of the new mobile library service point at Taman Jurong, 1969.<i> Collection of the National Library Singapore.</i></div>
 
 After taking office, Anuar faced the closure of two of the four part-time branch libraries in Upper Serangoon and Yio Chu Kang when their premises were requisitioned by other government ministries. These closures affected the students who regularly used these branches and placed additional strain on the already overburdened library services at the National Library. In response, Anuar expedited the roll-out of the mobile library service to fill the void left by the closures and reach children in rural areas.[^10]
 
@@ -143,6 +147,8 @@ Under this strategic shift, no new mobile service points were added except for A
 
 The idea of a mobile library service was too good to be mothballed forever though. On 3 April 2008, the National Library Board (NLB) launched Molly, a new mobile library service, to better reach disadvantaged and underserved communities. At the opening ceremony held at Pathlight School, Minister for Community Development, Youth and Sports Vivian Balakrishnan said: “The challenge today is not the physical availability of libraries, but rather, reaching out and making sure that people who can benefit from the access to books know about it and are given the access to it.”[^39]
 
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/H1zOwoV5v5Q" frameborder="0" allowfullscreen=""></iframe></div>
+
 Molly, retrofitted from a former SBS transit bus, was installed with modern library technology such as borrowing stations and e-kiosks for onboard transactions. It was the world’s first fully wireless-enabled mobile library bus where transactions could be carried out digitally. The bus, which carried approximately 3,000 books, made visits to special-education schools, homes and orphanages, welfare homes and volunteer welfare organisations. Beyond lending books, Molly offered storytelling sessions and user education workshops, and participated in community outreach events. In its first year of operations, Molly served 45,114 visitors from 17 special needs schools, 16 homes and orphanages and 30 primary schools. In 2011, the Molly bus was retired and replaced the following year with an upgraded model that had iPads with e-books and a wheelchair ramp.[^40]
 
 With donations from the Kwan Im Thong Hood Cho Temple, the service expanded in May 2014 with two mini mobile library vans, known as Mini Mollys. These scaled-down versions of the Molly bus can hold up to 1,500 books and navigate narrow driveways and parking lots in small housing estates. They primarily serve kindergartens and childcare centres in housing estates as well as welfare homes that could not be reached by the bigger Molly. During these visits, children’s activities such as storytelling, arts and craft workshops and sing-along sessions are also conducted. Each year, Mini Mollys bring books and library programmes to 48,000 children from 160 preschools.[^41]
@@ -150,7 +156,15 @@ With donations from the Kwan Im Thong Hood Cho Temple, the service expanded in M
 ![](/images/Vol%2021%20Issue%202/Books%20on%20Wheels/image_16.png)
 <div style="background-color:white;">A Mini Molly, 2014. <i>Collection of the National Library Board</i>.</div>
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol%2021%20Issue%202/Books%20on%20Wheels/Mini_Molly.png" style="width: 80%;">A storytelling session in Mini Molly, 2014.<i> Courtesy of National Library Board. </i></div>
+
 In September 2016, a new vehicle known as “Big Molly”, also sponsored by the temple, replaced the 2012 Molly bus which was decommissioned. This newer version carries up to 3,000 books and features enhanced accessibility, including a hydraulic wheelchair lift to serve wheelchair users and book stations placed at a lower height for children to borrow and return books on their own. Today, Big Molly visits special needs schools, homes and orphanages, welfare homes, lower-income groups and housing estates. It also conducts weekend outreach events in residential estates across Singapore.[^42]
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol%2021%20Issue%202/Books%20on%20Wheels/Inside_Big_Molly.png" style="width: 80%;">The interior of Big Molly, 2016.<i> Courtesy of National Library Board. </i></div>
 
 ![](/images/Vol%2021%20Issue%202/Books%20on%20Wheels/image_17.png)
 <div style="background-color:white;">Big Molly with the hydraulic wheelchair lift, 2016. <i>Collection of the National Library Board</i>.</div>
