@@ -80,7 +80,7 @@ Noone’s manuscript and personal papers were either lost in the looting of the 
 
 	
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src="/images/Authors/DrJohnBray2g.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/FooShuTieng.png">
 <b>Foo Shu Tieng</b> is a Librarian with the National Library Singapore, and works with the Singapore and Southeast Asia Collection. Her responsibilities include collection management, content development, and the provision of reference and research services. </div>
 
 #### **Notes**
