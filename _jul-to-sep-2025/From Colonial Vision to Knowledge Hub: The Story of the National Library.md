@@ -77,6 +77,10 @@ The 1950s saw significant improvements under trained librarians Louise E. Bridge
 ![](/images/Vol%2021%20Issue%202/Story%20of%20National%20Library/image_5.png)
 <div style="background-color: white;"> A seating area at the Raffles Library, 1950s. The card catalogue cabinet is seen in the background. <i>Collection of the National Library Singapore.</i></div>
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol%2021%20Issue%202/Story%20of%20National%20Library/IMG0023_PH000844.png" style="width: 80%;">Children queuing to enter the Raffles Library, c. 1950s.<i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 Harrod, who became Librarian in September 1954, expanded the collection to over 100,000 volumes by the mid-1950s.[^26] He initiated an “Oriental” collection featuring books in Chinese, Malay and Tamil, and started a music section with about 4,500 pieces of sheet music, music albums and miniature scores by the end of 1958. Harrod also built more part-time branch libraries in the outlying areas and proposed a mobile library service.[^27]
 
 On 1 January 1955, Harrod was appointed Director of the Raffles Library after its administration was separated from that of the Raffles Museum. Plans were also made for the library to move into a new $2.5-million three-storey building on an adjacent site previously occupied by the St John’s Ambulance Headquarters and the British Council Hall.[^28]
