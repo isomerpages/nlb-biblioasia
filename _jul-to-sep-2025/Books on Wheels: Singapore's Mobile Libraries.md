@@ -147,7 +147,7 @@ Under this strategic shift, no new mobile service points were added except for A
 
 The idea of a mobile library service was too good to be mothballed forever though. On 3 April 2008, the National Library Board (NLB) launched Molly, a new mobile library service, to better reach disadvantaged and underserved communities. At the opening ceremony held at Pathlight School, Minister for Community Development, Youth and Sports Vivian Balakrishnan said: “The challenge today is not the physical availability of libraries, but rather, reaching out and making sure that people who can benefit from the access to books know about it and are given the access to it.”[^39]
 
-<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/H1zOwoV5v5Q" frameborder="0" allowfullscreen=""></iframe></div>
+<style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 90%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 8%; left: 8%; width: 90%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/H1zOwoV5v5Q" frameborder="0" allowfullscreen=""></iframe></div>
 
 Molly, retrofitted from a former SBS transit bus, was installed with modern library technology such as borrowing stations and e-kiosks for onboard transactions. It was the world’s first fully wireless-enabled mobile library bus where transactions could be carried out digitally. The bus, which carried approximately 3,000 books, made visits to special-education schools, homes and orphanages, welfare homes and volunteer welfare organisations. Beyond lending books, Molly offered storytelling sessions and user education workshops, and participated in community outreach events. In its first year of operations, Molly served 45,114 visitors from 17 special needs schools, 16 homes and orphanages and 30 primary schools. In 2011, the Molly bus was retired and replaced the following year with an upgraded model that had iPads with e-books and a wheelchair ramp.[^40]
 
@@ -164,7 +164,7 @@ In September 2016, a new vehicle known as “Big Molly”, also sponsored by the
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Vol%2021%20Issue%202/Books%20on%20Wheels/Inside_Big_Molly.png" style="width: 80%;">The interior of Big Molly, 2016.<i> Courtesy of National Library Board. </i></div>
+<img src="/images/Vol%2021%20Issue%202/Books%20on%20Wheels/Inside_Big_Molly.png" style="width: 80%;">The interior of Big Molly, 2016.<i> Collection of National Library Board. </i></div>
 
 ![](/images/Vol%2021%20Issue%202/Books%20on%20Wheels/image_17.png)
 <div style="background-color:white;">Big Molly with the hydraulic wheelchair lift, 2016. <i>Collection of the National Library Board</i>.</div>

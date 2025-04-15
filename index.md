@@ -1168,4 +1168,14 @@ sections:
       image: /images/Online Only Articles/Conquer Tallest
         Mountain_12_23/mok_on_fixed_ropes_homepage.png
       alt: Image alt text
+  - infopic:
+      title: My Mother Hedwig Anuar
+      subtitle: People
+      id: infopic
+      description: The daughter of Hedwig Anuar reveals a side to the former Director
+        of the National Library that not many people know.
+      button: A TRIBUTE TO A MOTHER
+      url: /vol-21/issue-2/jul-sep-2025/mother-hedwig-anuar-shirin-aroozoo/
+      image: /images/Vol 21 Issue 2/Hedwig/Hedwig_Anuar_daughter_topic.jpg
+      alt: My Mother Hedwig Anuar
 ---
