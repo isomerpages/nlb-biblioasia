@@ -42,6 +42,9 @@ Evans reported that the top section of the Guar Kepah mound he saw had been mine
 
 Evans had trained under, and collaborated with, the renowned Dutch prehistorian and archaeologist Pieter Vincent van Stein Callenfels on cave excavations in 1926 and 1927 at Gua Badak and Gua Kerbau, both in Perak.[^15] (Unfortunately, Evans was retrenched by the FMS government in 1932 as the Great Depression had left the government with a severe budget deficit.[^16])
 
+![](/images/Vol%2021%20Issue%202/Archaeologic/archaeological_pieter.jpg)
+<div style="background-color:white;"> Dutch prehistorian and archaeologist Pieter Vincent van Stein Callenfels at an excavation in the Dutch East Indies, 1920–21. <i>Courtesy of Leiden University Libraries. </i></div>
+
 In the 1934 Guar Kepah dig, Callenfels, who had excavated a similar shell midden site in Sumatra at Saentis near Medan, was the lead researcher responsible for the excavation report that would eventually be published in the first issue of the _Bulletin of the Raffles Museum_ (Series B) in May 1936.[^17] He also publicised the discoveries via the _Illustrated London News_, which was later reprinted by the _Malaya Tribune_ in January 1935. Not only were stone tools discovered, but human remains were also found at the site. Callenfels wrote: “Certain facts point to so-called secondary burials, the body being exposed to a tree, or somewhere else in the jungle, till the flesh decayed, when the remaining bones were collected and interred. Another interesting fact is that all the skulls were profusely sprinkled with powdered red shale.”[^18]
 
 As Callenfels was a recognised expert in the prehistory of Southeast Asia and had worked in many parts of Asia, he had an extensive network and was a key figure in applying for the CCNY funds for the Guar Kepah project.[^19]
