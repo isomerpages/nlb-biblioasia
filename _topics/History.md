@@ -4,6 +4,13 @@ permalink: /topics/history/
 variant: markdown
 description: ""
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/history-story-national-library-singapore/">From Colonial Vision to Knowledge Hub: The Story of the National Library</a>
+
+The zoo was able to overcome major setbacks in its formative years to become the well-loved tourist attraction it is today.
+
+<img src="/images/Vol%2021%20Issue%202/Story%20of%20National%20Library/NL_Story_topic.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/mobile-libraries-books-on-wheels/">Books on Wheels: Singapore's Mobile Libraries</a>
 
  <p>Between the 1960s and 1980s, libraries-on-wheels were a familiar sight as they travelled around Singapore bringing books to residents in the rural and suburban areas.  </p> 
