@@ -203,6 +203,10 @@ clocktower of Victoria Theatre is counted. […] Behind him<br>    
 English gentility, in front the soaring ambition of a nation-state,<br>     
 Ah Leong is awed yet also uplifted*.28
 
-
-
+Unlike in *If We Dream Too Long*, where the old colonial buildings dominate
+the landscape, here they are overshadowed by a nest of new skyscrapers.
+As he walks, Ah Leong leaves behind the colonial buildings and crosses
+into the new city centre, and his act of crossing becomes a metaphor for
+progress, in which he symbolically passes from one era into another. In
+linking the “soaring towers” to the “soaring ambition of a nation-state”, Jeyaretnam draws out the intimate connection between urban form and the promise of success in a modern, globalised world. As a newspaper article from 1970 put it, building upwards was a “psychological breakthrough”, and breaking through to 50 storeys signalled that Singapore had “arrived as a major metropolis”.29 Not only did the redevelopment of Raffles Place have economic benefits, it also remade Singaporeans’ urban memory and projected a new aspirational identity for Singapore.
 
