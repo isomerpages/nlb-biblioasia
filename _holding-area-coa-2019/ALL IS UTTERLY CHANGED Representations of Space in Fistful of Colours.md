@@ -127,6 +127,53 @@ them, were a skein of bright orange against the blue sky. The dusty,<br>  �
 dry yellow earth was crying out for grass and for trees. No doubt<br>    
 they would be planted in the future. Along with the people*.12
 
+The imagery Goh uses here is violent, almost cataclysmic. Machinery
+dominates the landscape, where excavators “[eat] into the hills”, and the
+“towering” cranes prefigure the buildings that will be erected on the site.
+The reclaimed land is “raw”, bringing to mind an open wound. Goh makes
+visible the toil required to transform Singapore into a modern city, and
+demonstrates how land reclamation requires the destruction of natural
+landscapes. Here, Goh captures a snapshot of a landscape in transition, of a
+Singapore that is still in the process of becoming.
+
+The land reclamation scene also unearths a prevailing attitude towards the
+natural world, where nature is simply a resource to be used. Kwang Meng exemplifies this attitude when his uncle invites him to join a business venture in Sabah with a logging company, and he “imagine[s] himself carving up a country, green and virginal”,13 an act of conquest which parallels how land is consumed during the reclamation process. Kwang Meng is so alienated from nature that he regards MacRitchie Reservoir Park as “something foreign and un-Singaporean”, its “green tranquility” such an alien experience that he compares it to “a bit of England, the England they read about in textbooks in school”.14 To him, nature does not feature in Singapore’s urban identity. As Philip Holden notes, when Kwang Meng goes for a swim in the sea, the busy shipping lanes around him “[serve] as a reminder of Singapore’s capitalist interconnectedness”.15 Kwang Meng dismisses the sea as “the universal trash can” even as he swims in it, and his attitude signals a dichotomy between urbanity and nature, where urban spaces are equated with modernity and economic progress, and natural spaces are only valued if they serve a function.16 Even MacRitchie Reservoir Park, a nature reserve, is adapted for recreational use. A “newly-built tea kiosk” serves drinks to park-goers and a “bandstand [is] being built out over the water”, turning the reserve into a mixed-use space that prioritises the needs of the “Sunday crowd […] in their Sunday dresses and […] Sunday faces”.17 Modernity thus becomes narrowly defined, as it is contingent on taming and developing these wild spaces, making nature subordinate to economic or social utility.
+
+This narrowing of modernity has a knock-on effect on Singaporean identity. In his analysis of *If We Dream Too Long*, Jeremy Fernando posits that Singaporean identity is not fixed, but is instead in a state of constant flux as “the Lion City is a port – nothing more, and infinitely nothing less […] a port without a hinterland, without a ‘rest of the country’ […] the port itself is the country”.18 As the port is a purely urban space with a primarily economic function, it symbolises the limits of Singapore’s identity. When Kwang Meng walks through Tanjong Pagar, a neighbourhood that was then frequented by sailors on shore leave, he passes several shops selling
+“postcards of Singapore showing the garish sculptures of Haw Par Villa,
+scenes of Chinatown and of the Singapore River […] goods to tempt the
+sailors”.19 Though these postcards depict real and existing places, Kwang
+Meng feels no affinity with them because they have been stripped of their
+attendant lived experience. The postcard of Chinatown, for example, has
+little in common with his memories of his childhood home in Chinatown,
+“the musty, salty smell of the different varieties of goods stored in the
+provisions shop below”, the “small faces and ringing voice of [his] friends”,
+and “the thrills of their gambling sessions once a year with *ang pow*
+money at Chinese New Year”.20 The commodification of space, flattened
+into products meant for export, prefigures the loss of personal history
+and cultural memory, and prevents a shared Singaporean identity from
+taking root.
+
+#### ***First Loves and Raffles Place Ragtime*: Modernity and the Changing City**
+
+Like *Fistful of Colours* and *If We Dream Too Long*, *Raffles Place Ragtime*
+and *First Loves* operate in the intersection of post-colonial literature and
+urbanism, insisting on “the centrality of local cultures in urbanisms”.21
+While *Fistful of Colours* documents Singapore’s past and *If We Dream Too
+Long* shows Singapore in a state of transition, Philip Jeyaretnam’s 1988 novel
+*Raffles Place Ragtime* and 1987 short-story collection *First Loves* present
+Singapore post-transition, as a new, modern city.
+
+Raffles Place and the Central Business District feature in both of
+Jeyaretnam’s works. The redevelopment of this historically important district
+is used to illustrate the link between global capitalism, urban processes and
+identity – both national and personal. As Brenda Yeoh and T. C. Chang
+note, heritage buildings and monuments play a role in fixing national
+identity as they “reinforce belief in the existence, legitimacy and inviolability of the nation”.22 I argue that the redevelopment of Raffles Place through the 1970s and 1980s served a similar function. New skyscrapers and commercial complexes were retrofitted onto Raffles Place – the former seat of political and economic power in colonial Singapore – in order to consolidate Singapore’s new identity as a modern nation-state and economic powerhouse in the years following independence.
+
+This stage of Singapore’s modernisation specifically occurred within the context of globalisation, with capital and labour flowing through a global network of cities linked by various financial and information services. As Saskia Sassen notes, “national and global markets as well as globally integrated organizations require central places where the work of globalization gets done”, and “cities are the preferred sites for the production of these services”.23 For example, multinational corporations are entities that have expanded beyond the traditional borders of nation-states, and often operate in major cities around the globe due to the concentration of labour and infrastructure that can be found in them. However, globalisation has wider ramifications. In addition to the movement of capital and labour, ideologies and paradigms also flow through these interlinked cities. One such paradigm is the discourse of modernity, particularly how it is reflected in the urban environment and built forms. As Singaporean architect and academic Tay Kheng Soon has highlighted:
+
+    *The link between so-called International Style and international <br>     corporate capitalism was not consciously noted. Modernism was<br>      confused with modernity and modernization was confused with<br>      Westernisation […] The embracing of global capitalism and the<br>      cultural and aesthetic values it entails coloured everything*.24
 
 
 
