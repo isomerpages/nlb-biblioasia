@@ -604,60 +604,60 @@ Strobel, Margaret. _European Women and the Second British_ Empire. Indianapolis:
 
 [^40]: Ronald Hyam, _Empire and Sexuality_ (Manchester: Manchester University Press, 1990), 207; Janice N. Brownfoot, “Sisters Under the Skin: Imperialism and the Emancipation of Women in Malaya c. 1891–1941,” in _Making Imperial Mentalities: Socialisation and British Imperialism_, ed. J. Mangan (Manchester: Manchester University Press, 1990), 46–73.  
   
-41 Lockhart, [_Return to Malaya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13021985), 110–11; Margaret Strobel, _European Women and the Second British Empire_ (Indianapolis: Indiana University Press, 1991), 1.  
+[^41]: Lockhart, [_Return to Malaya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13021985), 110–11; Margaret Strobel, _European Women and the Second British Empire_ (Indianapolis: Indiana University Press, 1991), 1.  
   
-42 Mary Procida, [_Married to the Empire: Gender, Politics and Imperialism in India 1883–1947_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11166024) (Manchester: Manchester University Press, 2002), 2. (From National Library Singapore, call no. R 954.035 PRO)
+[^42]: Mary Procida, [_Married to the Empire: Gender, Politics and Imperialism in India 1883–1947_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11166024) (Manchester: Manchester University Press, 2002), 2. (From National Library Singapore, call no. R 954.035 PRO)
 
-43 Procida, [_Married to the Empire_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11166024), 56.
+[^43]: Procida, [_Married to the Empire_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11166024), 56.
 
-44 “[The Health of the Governor](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk18930829-1.2.36),” _Singapore Free Press and Mercantile Advertiser (Weekly),_ 29 August 1893, 6; Sylvia, “[The Little Things of Life](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19060713-1.2.63),” _Straits Times,_ 13 July 1906, 8\. (From NewspaperSG)
+[^44]: “[The Health of the Governor](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepresswk18930829-1.2.36),” _Singapore Free Press and Mercantile Advertiser (Weekly),_ 29 August 1893, 6; Sylvia, “[The Little Things of Life](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19060713-1.2.63),” _Straits Times,_ 13 July 1906, 8\. (From NewspaperSG)
 
-45 Richard Myrddin Williams to Katherine Paterson, 28 December 1914; [_Richard Myrddin Williams: Letters to Katherine Paterson, 1913–1918_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203160418), envelopes 6 and 12, 17 September 1916. (From National Library Singapore, call no. RRARE 959.5703 WIL)
+[^45]: ichard Myrddin Williams to Katherine Paterson, 28 December 1914; [_Richard Myrddin Williams: Letters to Katherine Paterson, 1913–1918_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203160418), envelopes 6 and 12, 17 September 1916. (From National Library Singapore, call no. RRARE 959.5703 WIL)
 
-46 Birch, “[Papers of Sir Ernest Birch (Box 1 of 12): Personal Diaries of Mrs Margaret Birch, 1896–1904, With a Loose Programme of Amateur Theatricals at the Tanglin Club, 1885](https://www.nas.gov.sg/archivesonline/private_records/record-details/ef7bc44e-6336-11e5-ac2a-0050568939ad),” box 1.
+[^46]: Birch, “[Papers of Sir Ernest Birch (Box 1 of 12): Personal Diaries of Mrs Margaret Birch, 1896–1904, With a Loose Programme of Amateur Theatricals at the Tanglin Club, 1885](https://www.nas.gov.sg/archivesonline/private_records/record-details/ef7bc44e-6336-11e5-ac2a-0050568939ad),” box 1.
 
-47 Dorothy Cator, “Talk Given on 16th March 1909: Some Experiences of Colonial Life,” in [_Honourable Intentions: Talks on the British Empire in South-East Asia Delivered at the Royal Colonial Institute 1874–1924_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4079900), ed. Paul H. Kratoska (Singapore: Oxford University Press, 1983), 228–95. (From National Library Singapore, call no. RSING 959.5 HON)
+[^47]: Dorothy Cator, “Talk Given on 16th March 1909: Some Experiences of Colonial Life,” in [_Honourable Intentions: Talks on the British Empire in South-East Asia Delivered at the Royal Colonial Institute 1874–1924_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4079900), ed. Paul H. Kratoska (Singapore: Oxford University Press, 1983), 228–95. (From National Library Singapore, call no. RSING 959.5 HON)
 
-48 Innes, [_The Chersonese With the Gilding Off_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6864774), 242–49.
+[^48]: Innes, [_The Chersonese With the Gilding Off_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6864774), 242–49.
 
-49 “[Children in Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19140611-1.2.82),” _Straits Times_, 11 June 1914, 10 (From NewspaperSG); Alfred Harmsworth Northcliffe, “My Journey Round the World,” in [_Travellers’ Singapore: An Anthology_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7062675), ed. John Bastin (Kuala Lumpur: Oxford University Press, 1994), 193. (From National Library Singapore, call no. RSING 959.5705 TRA-\[JSB\])&nbsp;
+[^49]: “[Children in Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19140611-1.2.82),” _Straits Times_, 11 June 1914, 10 (From NewspaperSG); Alfred Harmsworth Northcliffe, “My Journey Round the World,” in [_Travellers’ Singapore: An Anthology_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7062675), ed. John Bastin (Kuala Lumpur: Oxford University Press, 1994), 193. (From National Library Singapore, call no. RSING 959.5705 TRA-\[JSB\])&nbsp;
 
-50 [_Blue Book for the Year_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4982696), 1881, 1.
+[^50]: [_Blue Book for the Year_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4982696), 1881, 1.
 
-51 David Pomfret, [_Youth and Empire: Trans-Colonial Childhoods in British and French Asia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202410743) (Stanford: Stanford University Press, 2016), 24 (From National Library Singapore, call no. RSEA 305.230959 POM); Anna Davin, “Imperialism and Motherhood,” _History Workshop_ 5, no. 1 (Spring 1978): 12\. (From EBSCOhost via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^51]: David Pomfret, [_Youth and Empire: Trans-Colonial Childhoods in British and French Asia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202410743) (Stanford: Stanford University Press, 2016), 24 (From National Library Singapore, call no. RSEA 305.230959 POM); Anna Davin, “Imperialism and Motherhood,” _History Workshop_ 5, no. 1 (Spring 1978): 12\. (From EBSCOhost via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-52 Hugh Clifford, “Rachel,” _Living Age_ 239 (1903): 468–535; Davin, “Imperialism and Motherhood,” 10; Norman, [_The Peoples and Politics of the Far East_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3223224), 38.
+[^52]: Hugh Clifford, “Rachel,” _Living Age_ 239 (1903): 468–535; Davin, “Imperialism and Motherhood,” 10; Norman, [_The Peoples and Politics of the Far East_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3223224), 38.
 
-53 Pomfret, [_Youth and Empire_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202410743), 24.
+[^53]: Pomfret, [_Youth and Empire_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202410743), 24.
 
-54 John Dill Ross, [_Sixty Years: Life and Adventure in the Far East_](https://catalogue.nlb.gov.sg/search/card?recordId=4384878)_,_ vol. 1 (London: Hutchinson, 1911), 94–5. (From National Library Singapore, call no. RCLOS 959 ROS; microfilm NL14209)
+[^54]: John Dill Ross, [_Sixty Years: Life and Adventure in the Far East_](https://catalogue.nlb.gov.sg/search/card?recordId=4384878)_,_ vol. 1 (London: Hutchinson, 1911), 94–5. (From National Library Singapore, call no. RCLOS 959 ROS; microfilm NL14209)
 
-55 Dalton, [_A Child in the Sun_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4401768), 274.
+[^55]: Dalton, [_A Child in the Sun_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4401768), 274.
 
-56 Andrew Carnegie, _Round the World_ (New York: \[s.n.\], 1957), 154.  
+[^56]: Andrew Carnegie, _Round the World_ (New York: \[s.n.\], 1957), 154.  
   
-57 Walter Makepeace, “Concerning Known Persons,” in [_One Hundred Years of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6203718), vol. 2, ed. Walter Makepeace, Gilbert E. Brook and Roland St. Braddell &nbsp;(London: John &amp; Murray, 1921), 423–42. (From National Library Singapore, call no. RSING 959.57 ONE-\[HIS\])
+[^57]: Walter Makepeace, “Concerning Known Persons,” in [_One Hundred Years of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6203718), vol. 2, ed. Walter Makepeace, Gilbert E. Brook and Roland St. Braddell &nbsp;(London: John &amp; Murray, 1921), 423–42. (From National Library Singapore, call no. RSING 959.57 ONE-\[HIS\])
 
-58 For a discussion of the idea of empire families within the context of British India, see Elizabeth Beuttner, _Empire Families: Britons and Late imperial India_ (Oxford: Oxford University Press, 2004)  
+[^58]: For a discussion of the idea of empire families within the context of British India, see Elizabeth Beuttner, _Empire Families: Britons and Late imperial India_ (Oxford: Oxford University Press, 2004)  
   
-59 “[Sir Ernest Birch: Biographical Sketch of Noted Administrator](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19300117-1.2.5),” _Straits Times,_ 17 January 1930, 4\. (From NewspaperSG)
+[^59]: “[Sir Ernest Birch: Biographical Sketch of Noted Administrator](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19300117-1.2.5),” _Straits Times,_ 17 January 1930, 4\. (From NewspaperSG)
 
-60 “[Topics of the Day](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18830129-1.2.4.14),” _Straits Times Weekly Issue,_ 29 January 1883, 4\. (From NewspaperSG)
+[^60]: “[Topics of the Day](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18830129-1.2.4.14),” _Straits Times Weekly Issue,_ 29 January 1883, 4\. (From NewspaperSG)
 
-61 “[Social and Personal](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19270625-1.2.28),” _Straits Times,_ 25 June 1927, 8\. (From NewspaperSG)
+[^61]: “[Social and Personal](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19270625-1.2.28),” _Straits Times,_ 25 June 1927, 8\. (From NewspaperSG)
 
-62 Makepeace, “[Concerning Known Persons](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6203718),” 441.
+[^62]: Makepeace, “[Concerning Known Persons](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6203718),” 441.
 
-63 Bird, [_The Golden Chersonese and the Way Thither_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12643624), 113; Brassey, [_A Voyage in the “Sunbeam”_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=b6878536-e891-40de-8c71-fc331f017d7c), 414; Hornaday, [_Two Years in the Jungle_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12976509), 299.
+[^63]: Bird, [_The Golden Chersonese and the Way Thither_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12643624), 113; Brassey, [_A Voyage in the “Sunbeam”_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=b6878536-e891-40de-8c71-fc331f017d7c), 414; Hornaday, [_Two Years in the Jungle_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12976509), 299.
 
-64 Geo C. Morant, [_Odds and Ends of Foreign Travel_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4117127) (London: Charles and Edward Layton, 1913), 133. (From National Library Singapore, call no. RCLOS 901.4 MOR)
+[^64]: Geo C. Morant, [_Odds and Ends of Foreign Travel_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4117127) (London: Charles and Edward Layton, 1913), 133. (From National Library Singapore, call no. RCLOS 901.4 MOR)
 
-65 Dill Ross, [_Sixty Years: Life and Adventure in the Far East_](https://catalogue.nlb.gov.sg/search/card?recordId=4384878)_,_ 115; Myrddin Williams, &nbsp;_[Richard Myrddin Williams: Letters to Katherine Paterson, 1913–1918](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203160418)_, 24 May 1913.  
+[^65]: Dill Ross, [_Sixty Years: Life and Adventure in the Far East_](https://catalogue.nlb.gov.sg/search/card?recordId=4384878)_,_ 115; Myrddin Williams, &nbsp;_[Richard Myrddin Williams: Letters to Katherine Paterson, 1913–1918](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203160418)_, 24 May 1913.  
   
-66 Frank Swettenham, “Talk Given on 21st March 1896: British Rule in Malaya,” in [_Honourable Intentions: Talks on the British Empire in South-East Asia Delivered at the Royal Colonial Institute 1874–1924_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4079900), ed. Paul H. Kratoska (Singapore: Oxford University Press, 1983), 190. (From National Library Singapore, call no. RSING 959.5 HON). For relations between Europeans and leading members of the Chinese community see T. N. Harper, “Globalism and the Pursuit of Authenticity: The Making of a Diasporic Public Sphere in Singapore,” _Sojourn_ 12, no. 2 (1997): 275\. (From EBSCOhost via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^66]: Frank Swettenham, “Talk Given on 21st March 1896: British Rule in Malaya,” in [_Honourable Intentions: Talks on the British Empire in South-East Asia Delivered at the Royal Colonial Institute 1874–1924_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4079900), ed. Paul H. Kratoska (Singapore: Oxford University Press, 1983), 190. (From National Library Singapore, call no. RSING 959.5 HON). For relations between Europeans and leading members of the Chinese community see T. N. Harper, “Globalism and the Pursuit of Authenticity: The Making of a Diasporic Public Sphere in Singapore,” _Sojourn_ 12, no. 2 (1997): 275\. (From EBSCOhost via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-67 Swettenham, “[Talk Given on 21st March 1896: British Rule in Malaya](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4079900),” 187; Procida, [_Married to the Empire_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11166024), 167–68.
+[^67]: Swettenham, “[Talk Given on 21st March 1896: British Rule in Malaya](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4079900),” 187; Procida, [_Married to the Empire_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11166024), 167–68.
 
-68 “[Local Education](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19170828-1.2.17),” _Malaya Tribune_, 28 August 1917, 4. (From NewspaperSG)
+[^68]: “[Local Education](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19170828-1.2.17),” _Malaya Tribune_, 28 August 1917, 4. (From NewspaperSG)
 
-69 Robert Bickers, “Introduction: Britains and Britons over the Seas,” in [_Settlers and Expatriates: Britons Over the Seas_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202245971) (New York: Oxford University Press, 2010), 8. (From National Library Singapore, call no. R 305.341 SET)
+[^69]: Robert Bickers, “Introduction: Britains and Britons over the Seas,” in [_Settlers and Expatriates: Britons Over the Seas_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202245971) (New York: Oxford University Press, 2010), 8. (From National Library Singapore, call no. R 305.341 SET)
