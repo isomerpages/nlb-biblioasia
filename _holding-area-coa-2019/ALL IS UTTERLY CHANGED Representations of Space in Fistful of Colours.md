@@ -4,17 +4,17 @@ permalink: /holding-area/chapters-on-asia-2019/representations-space-fistful-col
 variant: markdown
 description: ""
 ---
-    *All is utterly changed, the map useless<br>
+*All is utterly changed, the map useless<br>
     for navigation in the lost city. Only an echo<br>
     remains*<br>
-    – “Change Alley”, Boey Kim Cheng1
+    – “Change Alley”, Boey Kim Cheng[^1]
 
 In Singapore, progress is inextricably tied up with loss – the disappearance
 of landmarks and the displacement of people. This is a common theme
 in Singapore literature. In his poem “Change Alley”, Boey Kim Cheng
 meditates on one such site of loss, the eponymous lane that was once home
 to a bazaar which ran from Raffles Place to Collyer Quay, and had been
-famous for its eclectic goods and moneychangers from the early 1930s.2
+famous for its eclectic goods and moneychangers from the early 1930s.[^2]
 Boey’s nameless speaker stands where the alley used to be, “searching still
 the place / for signs leading home”. The alley’s disappearance becomes
 emblematic of the wider physical and cultural erasure that accompanies
@@ -32,7 +32,7 @@ to support a burgeoning population and to continually reinvent the city. As
 Ryan Bishop, John Philips and Yeo Wei Wei explain, a city’s growth results
 from “the spread of urban capitalism”; urban processes are “perpetuated
 by a number of forces underpinned by the fundamentally economic ones
-that govern modern existence, the locus of which is always the city”.3 For
+that govern modern existence, the locus of which is always the city”.[^3] For
 a city-state like Singapore, urban renewal is critical to survival. Urban
 planners and developers must anticipate the changing demands of the global
 economy and remake the city in ever-new configurations to attract investors,
@@ -43,17 +43,17 @@ interest in engaging with this question. In Boey’s poem, for example, a city
 is understood to be an organ of memory. As theorised by Mark Crinson,
 redevelopment results in the effacement of this urban memory, so that the
 city “can no longer act as a kind of guide or exemplar for the people living
-in it”.4 The city is also the site of collective memory according to Steve Clark
+in it”.[^4] The city is also the site of collective memory according to Steve Clark
 – a kind of memory that can be “transferred between individuals and down
 through generations”. This is of particular importance to the formation of
 Singaporean identity, because “nationhood in a Singaporean context cannot
 be defined through ethnicity or language […] Individuals, rather than
 possessing personal recollections, are inter-connected through a distinctive
-collective remembrance.”5 Singapore’s unceasing redevelopment disrupts the
+collective remembrance.”[^5] Singapore’s unceasing redevelopment disrupts the
 accretion of this collective memory, affecting Singaporeans’ sense of identity
 and history.
 
-This essay explores how literary texts represent space and place by examining four works of Singaporean fiction that were produced after independence in the shadow of modernisation: Suchen Christine Lim’s *Fistful of Colours*, Goh Poh Seng’s *If We Dream Too Long*, and Philip Jeyaretnam’s *Raffles Place Ragtime* and *First Loves*. Spanning three decades after 1965, these works reflect a period when Singapore’s landscape underwent a dramatic transformation. While most of the current discourse about representations of space and place in Singaporean literature has focused on absence, this essay attempts to map the traces of these lost spaces and what has replaced them. As Jini Kim Watson explains, texts that foreground the built environment tell us much more than “immediate and physical changes”, as they preserve all the “competing new and old relations, ideologies, and imaginaries deposited in architectural form”.6 The four chosen texts thus map not only physical space, but also anxieties about modernity and modern life.
+This essay explores how literary texts represent space and place by examining four works of Singaporean fiction that were produced after independence in the shadow of modernisation: Suchen Christine Lim’s *Fistful of Colours*, Goh Poh Seng’s *If We Dream Too Long*, and Philip Jeyaretnam’s *Raffles Place Ragtime* and *First Loves*. Spanning three decades after 1965, these works reflect a period when Singapore’s landscape underwent a dramatic transformation. While most of the current discourse about representations of space and place in Singaporean literature has focused on absence, this essay attempts to map the traces of these lost spaces and what has replaced them. As Jini Kim Watson explains, texts that foreground the built environment tell us much more than “immediate and physical changes”, as they preserve all the “competing new and old relations, ideologies, and imaginaries deposited in architectural form”.[^6] The four chosen texts thus map not only physical space, but also anxieties about modernity and modern life.
 
 #### ***Fistful of Colours and If We Dream Too Long*: History, Memory and Urban Identity**
 
@@ -301,7 +301,155 @@ In *First Loves* and *Raffles Place Ragtime*, Jeyaretnam examines the causes and
 
 <div>
 <b>Y-Lynn Ong</b> is a PhD candidate at Queen Mary University of London. She is currently working on a project on the production of Singlish as literary expression and cultural commodity in Singaporean literature.
-	</div>
+</div>
+
+#### **REFERENCES**
+
+         
+
+Bishop, Ryan, John WP. Phillips and Yeo Wei Wei. “Perpetuating Cities: Excepting Globalization and the Southeast Asia Supplement.” In [_Postcolonial Urbanism: Southeast Asian Cities and Global Processes_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11829737), edited by Ryan Bishop, John WP. Phillips and Yeo Wei Wei. New York: Routledge, 2003, 1–34. (From National Library Singapore, call no. RSING 307.760959 POS)
+
+Boey, Kim Cheng. [_After the Fire: New and Selected Poems_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12768147). Singapore: FirstFruits, 2006. (From National Library Singapore, call no. RSING S821 BOE)
+
+_Business Times_. Teo Teck Weng, “[Marina Centre, the New Atlantis](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19781125-1.2.4).” 25 November 1978, 1. (From NewspaperSG)
+
+Chakrabarty, Dipesh. _Provincializing Europe: Postcolonial Thought and Historical Difference_. Princeton, NJ: Princeton University Press, 2000.
+
+Clark, S. “A City Without a Nation,” in [_Singapore Literature and Culture: Current Directions in Local and Global Contexts_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202824380), edited by Angelia Poon and Angus Whitehead. &nbsp;New York: Taylor &amp; Francis Group, 2017. (From National Library Singapore, call no. RSING 820.995957 SIN)
+
+Crinson, Mark. “Urban Memory: An Introduction,” in [_Urban Memory: History and Amnesia in the Modern City_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203169220), edited by Mark Crinson. London: Routledge, 2005, xi–xxii. (From National Library Singapore, call no. RSING 307.76 URB)
+
+Fernando, Jeremy. “On the Ellipsis: Singapore, Kafka, and if We Dream Too Long,” _Southeast Asian Review of English_ 50, no. 1 (2010): 59–70.
+
+Foucault, Michel. _Discipline and Punish: The Birth of the Prison_, 2nd Vintage Books ed. Translated by A. Sheridan. New York: Vintage Books. (The 2012 eBook is available from OverDrive)
+
+Goh, Poh Seng. [_If We Dream Too Long_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082086). Singapore: Island Press, 1972. (From National Library Singapore, call no. RSING S823 GOH)
+
+Goh, Robbie B. H. and Brenda S. A. Yeoh. “Urbanism and Post-Colonial Nationalities: Theorizing the Southeast Asian City.” In [_Theorizing the Southeast Asian City As Text: Urban Landscapes, Cultural Documents, and Interpretative Experiences_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11919208), edited by Robbie B. H. Goh and Brenda S. A. Yeoh. Singapore: World Scientific, 2003, 1–10. (From National Library Singapore, call no. RSING 307.760959 THE)
+
+Holden, Philip. “The Social Life of Genres: Short Stories as a Singapore Form.” In [_Singapore Literature and Culture: Current Directions in Local and Global Contexts_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202824380), edited by Angelia Poon and Angus Whitehead. New York: Taylor &amp; Francis Group, 2017, 99–113. (From National Library Singapore, call no. RSING 820.995957 SIN)
+
+Jeyaretnam, Phlilip. “First Loves.” In [_The Philip Jeyaretnam Collection_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202751314)_._ Singapore: Marshall Cavendish Editions, 2017, 12–126. (From National Library Singapore, call no. RSING S823 JEY)
+
+Jeyaretnam, Philip. “Raffles Place Ragtime.” In [_The Philip Jeyaretnam Collection_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202751314). Singapore: Marshall Cavendish Editions, 2017, 157–221. (From National Library Singapore, call no. RSING S823 JEY)
+
+Lim, Suchen Christine. [_Fistful of Colours_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6433499), 3rd ed. Singapore: Straits Times Press, 1993. (From National Library Singapore, call no. RSING S823 LIM)
+
+Lim, Suchen Christine. “Fistful of Colours and Urban Renewal in Singapore: From Frowsy Woman to Sassy Young Lass.” _Quarterly Literary Review Singapore_, 8, no. 1 (January 2009)
+
+Lim, Shirley Geok-Lin. “Regionalism, English Narrative, and Singapore As Home and Global City.” In [_Postcolonial Urbanism: Southeast Asian Cities and Global Processes_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11829737), edited by Ryan Bishop, John WP. Phillips and Yeo Wei Wei. New York: Routledge, 2003, 205–24. (From National Library Singapore, call no. RSING 307.760959 POS)
+
+Sassen, Saskia. “The Global City: Introducing a Concept.” _Brown Journal of World Affairs_ 11, no. 2 (Winter/Spring 2005): 27–43. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+_Straits Times_. Bill Campbell, “[The Sky’s the Limit!](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19700127-1.2.66)” 27 January 1970, 8. (From NewspaperSG)
+
+—. Lean, Susan. “[Change Alley To Pass Into History on March 31](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19890223-1.2.26.28).” 23 February 1989, 19. (From NewspaperSG)
+
+—. Leong, Karen. “[Changing Face of Raffles Place](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19800813-1.2.5).” 13 August 1980, 1. (From NewspaperSG)
+
+Tay, Kheng Soon and Robbie B. H. Goh. “Reading the Southeast Asian City in the Context of Rapid Economic Growth.” In [_Theorizing the Southeast Asian City As Text: Urban Landscapes, Cultural Documents, and Interpretative Experiences_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11919208), edited by Robbie B. H. Goh and Brenda S. A. Yeoh. Singapore: World Scientific, 2003, 13–27. (From National Library Singapore, call no. RSING 307.760959 THE)
+
+Watson, Jini Kim. [_The New Asian City: Three-Dimensional Fictions of Space and Urban Form_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14500034). Minneapolis: University of Minnesota Press, 2011. (From National Library Singapore, call no. RSING 809.933585009732)
+
+Yeo, Brenda S. A. and T. C. Chang. “The Rise of the Merlion”: Monument and Myth in the Making of the Singapore Story.” In [_Theorizing the Southeast Asian City As Text: Urban Landscapes, Cultural Documents, and Interpretative Experiences_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11919208), edited by Robbie B. H. Goh and Brenda S. A. Yeoh. Singapore: World Scientific, 2003, 29–50. (From National Library Singapore, call no. RSING 307.760959 THE)
 
 
-.
+#### **NOTES**
+         
+
+1 Boey Kim Cheng, [_After the Fire: New and Selected Poems_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12768147) (Singapore: FirstFruits, 2006). (From National Library Singapore, call no: RSING S821 BOE)
+
+2 Susan Lean, “[Change Alley To Pass Into History on March 31](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19890223-1.2.26.28),” _Straits Times_, 23 February 1989, 19. (From NewspaperSG)
+
+3 Ryan Bishop, John WP. Phillips and Yeo Wei Wei, “Perpetuating Cities: Excepting Globalization and the Southeast Asia Supplement,” in [_Postcolonial Urbanism: Southeast Asian Cities and Global Processes_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11829737), ed. Ryan Bishop, John WP. Phillips and Yeo Wei Wei (New York: Routledge, 2003), 1–34. (From National Library Singapore, call no. RSING 307.760959 POS)
+
+4 Mark Crinson, “Urban Memory: An Introduction,” in [_Urban Memory: History and Amnesia in the Modern City_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203169220), ed. Mark Crinson (London: Routledge, 2005), xiii. (From National Library Singapore, call no. RSING 307.76 URB)
+
+5 S. Clark, “A City Without a Nation,” in [_Singapore Literature and Culture: Current Directions in Local and Global Contexts_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202824380), ed. Angelia Poon and Angus Whitehead &nbsp;(New York: Taylor &amp; Francis Group, 2017), 91. (From National Library Singapore, call no. RSING 820.995957 SIN)
+
+6 Jini Kim Watson, [_The New Asian City: Three-Dimensional Fictions of Space and Urban Form_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14500034) (Minneapolis: University of Minnesota Press, 2011), 14. (From National Library Singapore, call no. RSING 809.933585009732)
+
+7 Lim Suchen Christine, [_Fistful of Colours_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6433499), 3rd ed. (Singapore: Straits Times Press, 1993), 177. (From National Library Singapore, call no. RSING S823 LIM)
+
+8 Crinson, “[Urban Memory: An Introduction](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203169220),” xii.
+
+9 Lim, [_Fistful of Colours_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6433499), 156–8.
+
+10 Lim, [_Fistful of Colours_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6433499), 158.
+
+11 Goh Poh Seng, [_If We Dream Too Long_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082086) (Singapore: Island Press, 1972), 4–5. (From National Library Singapore, call no. RSING S823 GOH)
+
+12 Goh, [_If We Dream Too Long_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082086), 138–9.
+
+13 Goh, [_If We Dream Too Long_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082086), 113.
+
+14 Goh, [_If We Dream Too Long_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082086), 142.
+
+15 Philip Holden, “The Social Life of Genres: Short Stories as a Singapore Form,” in [_Singapore Literature and Culture: Current Directions in Local and Global Contexts_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202824380), ed. Angelia Poon and Angus Whitehead (New York: Taylor &amp; Francis Group, 2017), 245. (From National Library Singapore, call no. RSING 820.995957 SIN)
+
+16 Goh, [_If We Dream Too Long_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082086), 2.
+
+17 Goh, [_If We Dream Too Long_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082086), 142.
+
+18 Jeremy Fernando, “On the Ellipsis: Singapore, Kafka, and if We Dream Too Long,” _Southeast Asian Review of English_ 50, no. 1 (2010): 67.
+
+19 Goh, [_If We Dream Too Long_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082086), 83.
+
+20 Goh, [_If We Dream Too Long_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082086), 40.
+
+21 Robbie B. H. Goh and Brenda S. A. Yeoh, “Urbanism and Post-Colonial Nationalities: Theorizing the Southeast Asian City,” in [_Theorizing the Southeast Asian City As Text: Urban Landscapes, Cultural Documents, and Interpretative Experiences_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11919208), ed. Robbie B. H. Goh and Brenda S. A. Yeoh (Singapore: World Scientific, 2003), 5. (From National Library Singapore, call no. RSING 307.760959 THE)
+
+22 Brenda S. A Yeoh and T. C. Chang, “The Rise of the Merlion”: Monument and Myth in the Making of the Singapore Story,” in [_Theorizing the Southeast Asian City As Text: Urban Landscapes, Cultural Documents, and Interpretative Experiences_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11919208), ed. Robbie B. H. Goh and Brenda S. A. Yeoh (Singapore: World Scientific, 2003), 30. (From National Library Singapore, call no. RSING 307.760959 THE)
+
+23 Saskia Sassen, “The Global City: Introducing a Concept,” _Brown Journal of World Affairs_ 11, no. 2 (Winter/Spring 2005): 35. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+24 Tay Kheng Soon and Robbie B, H, Goh, “Reading the Southeast Asian City in the Context of Rapid Economic Growth,” in [_Theorizing the Southeast Asian City As Text: Urban Landscapes, Cultural Documents, and Interpretative Experiences_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11919208), ed. Robbie B. H. Goh and Brenda S. A. Yeoh (Singapore: World Scientific, 2003), 16. (From National Library Singapore, call no. RSING 307.760959 THE)
+
+25 Tay and Goh, “[Reading the Southeast Asian City in the Context of Rapid Economic Growth](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11919208),” 16.
+
+26 Dipesh Chakrabarty, _Provincializing Europe: Postcolonial Thought and Historical Difference_ (Princeton, NJ: Princeton University Press, 2000), 8.
+
+27 Karen Leong, “[Changing Face of Raffles Place](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19800813-1.2.5),” _Straits Times_, 13 August 1980, 1. (From NewspaperSG)  
+  
+28 Philip Jeyaretnam, “First Loves,” in [_The Philip Jeyaretnam Collection_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202751314) (Singapore: Marshall Cavendish Editions, 2017), 57. (From National Library Singapore, call no. RSING S823 JEY)
+
+29 Bill Campbell, “[The Sky’s the Limit!](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19700127-1.2.66)” _Straits Times_, 27 January 1970, 8. (From NewspaperSG)
+
+30 Jeyaretnam, “[First Loves](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202751314),” 57.
+
+31 Jeyaretnam, “[First Loves](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202751314),” 57.
+
+32 Jeyaretnam, “[First Loves](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202751314),” 59.
+
+33 Jeyaretnam, “[First Loves](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202751314),” 58.
+
+34 Philip Jeyaretnam, “Raffles Place Ragtime,” in [_The Philip Jeyaretnam Collection_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202751314) (Singapore: Marshall Cavendish Editions, 2017), 221. (From National Library Singapore, call no. RSING S823 JEY)
+
+35 Jeyaretnam, “[Raffles Place Ragtime](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202751314),” 122.
+
+36 Jeyaretnam, “[First Loves](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202751314),” 59.
+
+37 Jeyaretnam, “[Raffles Place Ragtime](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202751314),” 192.
+
+38 Michel Foucault, _Discipline and Punish: The Birth of the Prison_, 2nd Vintage Books ed.; trans. A. Sheridan (New York: Vintage Books, 1995), 203. (The 2012 eBook is available from OverDrive)
+
+39 Teo Teck Weng, “[Marina Centre, the New Atlantis](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19781125-1.2.4),” _Business Times_, 25 November 1978, 1. (From NewspaperSG)
+
+40 Lean, “[Change Alley To Pass Into History on March 31](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19890223-1.2.26.28).”
+
+41 Leong, “[Changing Face of Raffles Place](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19800813-1.2.5).”
+
+42 Leong, “[Changing Face of Raffles Place](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19800813-1.2.5).”
+
+43 Leong, “[Changing Face of Raffles Place](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19800813-1.2.5).”
+
+44 Jeyaretnam, “[First Loves](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202751314),” 153. &nbsp;&nbsp;
+
+45 Tay and Goh, “[Reading the Southeast Asian City in the Context of Rapid Economic Growth](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11919208),” 16.
+
+46 Jeyaretnam, “[Raffles Place Ragtime](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202751314),” 226.
+
+47 Lim Suchen Christine, “Fistful of Colours and Urban Renewal in Singapore: From Frowsy Woman to Sassy Young Lass,” _Quarterly Literary Review Singapore_, 8, no. 1 (January 2009)
+	
+	
+
