@@ -174,6 +174,34 @@ identity as they “reinforce belief in the existence, legitimacy and inviolabil
 This stage of Singapore’s modernisation specifically occurred within the context of globalisation, with capital and labour flowing through a global network of cities linked by various financial and information services. As Saskia Sassen notes, “national and global markets as well as globally integrated organizations require central places where the work of globalization gets done”, and “cities are the preferred sites for the production of these services”.23 For example, multinational corporations are entities that have expanded beyond the traditional borders of nation-states, and often operate in major cities around the globe due to the concentration of labour and infrastructure that can be found in them. However, globalisation has wider ramifications. In addition to the movement of capital and labour, ideologies and paradigms also flow through these interlinked cities. One such paradigm is the discourse of modernity, particularly how it is reflected in the urban environment and built forms. As Singaporean architect and academic Tay Kheng Soon has highlighted:
 
     *The link between so-called International Style and international <br>     corporate capitalism was not consciously noted. Modernism was<br>      confused with modernity and modernization was confused with<br>      Westernisation […] The embracing of global capitalism and the<br>      cultural and aesthetic values it entails coloured everything*.24
+		
+Because of the unequal power relations that frame modernisation, “the discourse about architecture, urban planning and culture was and still 		is couched in the concepts and words of the industrial West”.25 As these
+definitions and forms of modernity radiate from the West, they effectively
+reinscribe what Dipesh Chakrabarty describes as the “ideology of progress
+or ‘development’”26 that justified the imperial project, and thus reinforce
+the metropolitan-periphery hierarchy into the 21st century. Modernity
+becomes both a goal and a reference point, as it constantly refers to the great
+metropolitan centres of the West. Cities on the periphery like Singapore
+must model these forms of modernity in order to remain competitive on the
+global stage.
+
+Newspaper articles in the 1970s and 1980s tended to laud the redevelopment
+of Raffles Place. For example, a *Straits Times* article from 1980 detailing
+the redevelopment plan cast it as an “urban metamorphosis” that would
+transform Raffles Place into “a bustling financial and commercial hub”
+with “resplendent high-rise buildings, a tree-lined pedestrian mall along
+the banks of the Singapore River, and an underground train station”.27 The
+redevelopment is treated like a rebirth, an opportunity to remake Singapore
+in the image of a modern city, as these high-rise buildings, malls and
+public transit systems were all seen as markers of modernity. In *First Loves*,
+the protagonist Ah Leong is awestruck by these new skyscrapers, and he
+compares them to the Raffles Place of old:
+
+    *Contrast the colonial buildings from which he has just walked:<br>     
+there are no winking eyes, no soaring towers, unless the cigar-<br>     shaped
+clocktower of Victoria Theatre is counted. […] Behind him<br>     
+English gentility, in front the soaring ambition of a nation-state,<br>     
+Ah Leong is awed yet also uplifted*.28
 
 
 
