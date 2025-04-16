@@ -299,6 +299,9 @@ In *First Loves* and *Raffles Place Ragtime*, Jeyaretnam examines the causes and
 
 *I would like to thank Lucinda Williams for her advice and Librarian Michelle Heng for her enthusiastic and tireless support during this project*.
 
+<div>
+<b>Y-Lynn Ong</b> is a PhD candidate at Queen Mary University of London. She is currently working on a project on the production of Singlish as literary expression and cultural commodity in Singaporean literature.
+	</div>
 
 
 .
