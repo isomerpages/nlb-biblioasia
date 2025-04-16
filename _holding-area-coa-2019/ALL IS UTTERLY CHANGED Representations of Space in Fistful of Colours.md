@@ -357,47 +357,47 @@ Yeo, Brenda S. A. and T. C. Chang. “The Rise of the Merlion”: Monument and M
 #### **NOTES**
          
 
-1 Boey Kim Cheng, [_After the Fire: New and Selected Poems_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12768147) (Singapore: FirstFruits, 2006). (From National Library Singapore, call no: RSING S821 BOE)
+[^1]: Boey Kim Cheng, [_After the Fire: New and Selected Poems_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12768147) (Singapore: FirstFruits, 2006). (From National Library Singapore, call no: RSING S821 BOE)
 
-2 Susan Lean, “[Change Alley To Pass Into History on March 31](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19890223-1.2.26.28),” _Straits Times_, 23 February 1989, 19. (From NewspaperSG)
+[^2]: Susan Lean, “[Change Alley To Pass Into History on March 31](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19890223-1.2.26.28),” _Straits Times_, 23 February 1989, 19. (From NewspaperSG)
 
-3 Ryan Bishop, John WP. Phillips and Yeo Wei Wei, “Perpetuating Cities: Excepting Globalization and the Southeast Asia Supplement,” in [_Postcolonial Urbanism: Southeast Asian Cities and Global Processes_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11829737), ed. Ryan Bishop, John WP. Phillips and Yeo Wei Wei (New York: Routledge, 2003), 1–34. (From National Library Singapore, call no. RSING 307.760959 POS)
+[^3]: Ryan Bishop, John WP. Phillips and Yeo Wei Wei, “Perpetuating Cities: Excepting Globalization and the Southeast Asia Supplement,” in [_Postcolonial Urbanism: Southeast Asian Cities and Global Processes_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11829737), ed. Ryan Bishop, John WP. Phillips and Yeo Wei Wei (New York: Routledge, 2003), 1–34. (From National Library Singapore, call no. RSING 307.760959 POS)
 
-4 Mark Crinson, “Urban Memory: An Introduction,” in [_Urban Memory: History and Amnesia in the Modern City_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203169220), ed. Mark Crinson (London: Routledge, 2005), xiii. (From National Library Singapore, call no. RSING 307.76 URB)
+[^4]: Mark Crinson, “Urban Memory: An Introduction,” in [_Urban Memory: History and Amnesia in the Modern City_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203169220), ed. Mark Crinson (London: Routledge, 2005), xiii. (From National Library Singapore, call no. RSING 307.76 URB)
 
-5 S. Clark, “A City Without a Nation,” in [_Singapore Literature and Culture: Current Directions in Local and Global Contexts_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202824380), ed. Angelia Poon and Angus Whitehead &nbsp;(New York: Taylor &amp; Francis Group, 2017), 91. (From National Library Singapore, call no. RSING 820.995957 SIN)
+[^5]: S. Clark, “A City Without a Nation,” in [_Singapore Literature and Culture: Current Directions in Local and Global Contexts_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202824380), ed. Angelia Poon and Angus Whitehead &nbsp;(New York: Taylor &amp; Francis Group, 2017), 91. (From National Library Singapore, call no. RSING 820.995957 SIN)
 
-6 Jini Kim Watson, [_The New Asian City: Three-Dimensional Fictions of Space and Urban Form_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14500034) (Minneapolis: University of Minnesota Press, 2011), 14. (From National Library Singapore, call no. RSING 809.933585009732)
+[^6]: Jini Kim Watson, [_The New Asian City: Three-Dimensional Fictions of Space and Urban Form_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14500034) (Minneapolis: University of Minnesota Press, 2011), 14. (From National Library Singapore, call no. RSING 809.933585009732)
 
-7 Lim Suchen Christine, [_Fistful of Colours_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6433499), 3rd ed. (Singapore: Straits Times Press, 1993), 177. (From National Library Singapore, call no. RSING S823 LIM)
+[^7]: Lim Suchen Christine, [_Fistful of Colours_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6433499), 3rd ed. (Singapore: Straits Times Press, 1993), 177. (From National Library Singapore, call no. RSING S823 LIM)
 
-8 Crinson, “[Urban Memory: An Introduction](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203169220),” xii.
+[^8]: Crinson, “[Urban Memory: An Introduction](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203169220),” xii.
 
-9 Lim, [_Fistful of Colours_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6433499), 156–8.
+[^9]: Lim, [_Fistful of Colours_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6433499), 156–8.
 
-10 Lim, [_Fistful of Colours_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6433499), 158.
+[^10]: Lim, [_Fistful of Colours_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6433499), 158.
 
-11 Goh Poh Seng, [_If We Dream Too Long_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082086) (Singapore: Island Press, 1972), 4–5. (From National Library Singapore, call no. RSING S823 GOH)
+[^11]: Goh Poh Seng, [_If We Dream Too Long_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082086) (Singapore: Island Press, 1972), 4–5. (From National Library Singapore, call no. RSING S823 GOH)
 
-12 Goh, [_If We Dream Too Long_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082086), 138–9.
+[^12]: Goh, [_If We Dream Too Long_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082086), 138–9.
 
-13 Goh, [_If We Dream Too Long_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082086), 113.
+[^13]: Goh, [_If We Dream Too Long_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082086), 113.
 
-14 Goh, [_If We Dream Too Long_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082086), 142.
+[^14]: Goh, [_If We Dream Too Long_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082086), 142.
 
-15 Philip Holden, “The Social Life of Genres: Short Stories as a Singapore Form,” in [_Singapore Literature and Culture: Current Directions in Local and Global Contexts_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202824380), ed. Angelia Poon and Angus Whitehead (New York: Taylor &amp; Francis Group, 2017), 245. (From National Library Singapore, call no. RSING 820.995957 SIN)
+[^15]: Philip Holden, “The Social Life of Genres: Short Stories as a Singapore Form,” in [_Singapore Literature and Culture: Current Directions in Local and Global Contexts_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202824380), ed. Angelia Poon and Angus Whitehead (New York: Taylor &amp; Francis Group, 2017), 245. (From National Library Singapore, call no. RSING 820.995957 SIN)
 
-16 Goh, [_If We Dream Too Long_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082086), 2.
+[^16]: Goh, [_If We Dream Too Long_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082086), 2.
 
-17 Goh, [_If We Dream Too Long_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082086), 142.
+[^17]: Goh, [_If We Dream Too Long_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082086), 142.
 
-18 Jeremy Fernando, “On the Ellipsis: Singapore, Kafka, and if We Dream Too Long,” _Southeast Asian Review of English_ 50, no. 1 (2010): 67.
+[^18]: Jeremy Fernando, “On the Ellipsis: Singapore, Kafka, and if We Dream Too Long,” _Southeast Asian Review of English_ 50, no. 1 (2010): 67.
 
-19 Goh, [_If We Dream Too Long_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082086), 83.
+[^19]: Goh, [_If We Dream Too Long_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082086), 83.
 
-20 Goh, [_If We Dream Too Long_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082086), 40.
+[^20]: Goh, [_If We Dream Too Long_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082086), 40.
 
-21 Robbie B. H. Goh and Brenda S. A. Yeoh, “Urbanism and Post-Colonial Nationalities: Theorizing the Southeast Asian City,” in [_Theorizing the Southeast Asian City As Text: Urban Landscapes, Cultural Documents, and Interpretative Experiences_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11919208), ed. Robbie B. H. Goh and Brenda S. A. Yeoh (Singapore: World Scientific, 2003), 5. (From National Library Singapore, call no. RSING 307.760959 THE)
+[^21]: Robbie B. H. Goh and Brenda S. A. Yeoh, “Urbanism and Post-Colonial Nationalities: Theorizing the Southeast Asian City,” in [_Theorizing the Southeast Asian City As Text: Urban Landscapes, Cultural Documents, and Interpretative Experiences_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11919208), ed. Robbie B. H. Goh and Brenda S. A. Yeoh (Singapore: World Scientific, 2003), 5. (From National Library Singapore, call no. RSING 307.760959 THE)
 
 22 Brenda S. A Yeoh and T. C. Chang, “The Rise of the Merlion”: Monument and Myth in the Making of the Singapore Story,” in [_Theorizing the Southeast Asian City As Text: Urban Landscapes, Cultural Documents, and Interpretative Experiences_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11919208), ed. Robbie B. H. Goh and Brenda S. A. Yeoh (Singapore: World Scientific, 2003), 30. (From National Library Singapore, call no. RSING 307.760959 THE)
 
