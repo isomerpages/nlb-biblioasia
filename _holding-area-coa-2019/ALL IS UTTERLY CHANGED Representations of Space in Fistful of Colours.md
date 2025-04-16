@@ -5,9 +5,9 @@ variant: markdown
 description: ""
 ---
 *All is utterly changed, the map useless<br>
-    for navigation in the lost city. Only an echo<br>
-    remains*<br>
-    – “Change Alley”, Boey Kim Cheng[^1]
+for navigation in the lost city. Only an echo<br>
+remains*<br>
+– “Change Alley”, Boey Kim Cheng[^1]
 
 In Singapore, progress is inextricably tied up with loss – the disappearance
 of landmarks and the displacement of people. This is a common theme
