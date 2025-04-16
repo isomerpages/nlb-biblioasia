@@ -538,31 +538,31 @@ Strobel, Margaret. _European Women and the Second British_ Empire. Indianapolis:
 
 [^7]: The names of non-white administrators are recorded in the Straits Settlements Civil Service List. Examples include cadet James Anthonisz, who was born in Ceylon of mixed Dutch descent, and George Galistaun Seth, who had attended university in Calcutta and in 1902 was a cadet in the Colonial Secretary’s Office in Singapore. Straits Settlements, [_The Straits Settlements Civil Service List Showing The Civil Establishments, Names and Designations of the Civil Servants of Governmentt_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12675603) (Singapore: Government Printing Office, 1884), 19 (From National Library Singapore, call no. RARE 351.2 STR; microfilm NL5821); Straits Settlements, [_The Straits Settlements Civil Service List Showing the Civil Establishment, Names and Designations of the Civil Servants of Government_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12675603) (Singapore: Government Printing Office, 1902), 69. (From National Library Singapore, call no. RARE 351.2 STR; microfilm NL5821)
 
-8 Antoinette M. Burton, “The White Woman’s Burden: British Feminists and the Indian Woman, 1865–1915,” _Women’s Studies International Forum_ 13, no. 4 (1990): 299.
+[^8]: Antoinette M. Burton, “The White Woman’s Burden: British Feminists and the Indian Woman, 1865–1915,” _Women’s Studies International Forum_ 13, no. 4 (1990): 299.
 
-9 Straits Settlements, [_Blue Book for the Year_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4982696) (Singapore: Govt. Print. Off., 1911), 3 (From National Library Singapore, call no. RRARE 315.957 SSBB; microfilm NL2896); [_Blue Book for the Year_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4982696), 1881, 1.
+[^9]: Straits Settlements, [_Blue Book for the Year_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4982696) (Singapore: Govt. Print. Off., 1911), 3 (From National Library Singapore, call no. RRARE 315.957 SSBB; microfilm NL2896); [_Blue Book for the Year_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4982696), 1881, 1.
 
-10 For example: Khoo Kay Kim, Elinah Abdullah and Wan Meng Hao, [_Malays/Muslims in Singapore: Selected Readings in History 1819–1965_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12760647) (Selangor: Pelanduk Publications, 2006 (From National Library Singapore, call no. RSING 305.8992805957 MAL); Rajesh Rai, [_Indians in Singapore, 1819–1945: Diaspora in the Colonial Port City_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200972195) (New Delhi: Oxford University Press, 2014). (From National Library Singapore, call no. RSING 909.049141105957 RAI)
+[^10]: For example: Khoo Kay Kim, Elinah Abdullah and Wan Meng Hao, [_Malays/Muslims in Singapore: Selected Readings in History 1819–1965_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12760647) (Selangor: Pelanduk Publications, 2006 (From National Library Singapore, call no. RSING 305.8992805957 MAL); Rajesh Rai, [_Indians in Singapore, 1819–1945: Diaspora in the Colonial Port City_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200972195) (New Delhi: Oxford University Press, 2014). (From National Library Singapore, call no. RSING 909.049141105957 RAI)
 
-11 David Lambert and Alan Lester, “Introduction: Imperial Spaces, Imperial Subjects,” in [_Colonial Lives Across the British Empire: Imperial Careering in the Long Nineteenth Century_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13685965), ed. David Lambert and Alan Lester (Cambridge: Cambridge University Press, 2010), 2. (From National Library Singapore, call no. R 909.0971241 COL)
+[^11]: David Lambert and Alan Lester, “Introduction: Imperial Spaces, Imperial Subjects,” in [_Colonial Lives Across the British Empire: Imperial Careering in the Long Nineteenth Century_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13685965), ed. David Lambert and Alan Lester (Cambridge: Cambridge University Press, 2010), 2. (From National Library Singapore, call no. R 909.0971241 COL)
 
-12 John Cameron, [_Our Tropical Possessions in Malayan India: Being a Descriptive Account of Singapore, Penang, Province Wellesley and Malacca: Their Peoples, Products, Commerce and Government_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=7658c549-f1c5-47c7-b8b6-831f7eb90c58) (London: Smith, Elder and Co., 1865), 284. (From National Library Online)  
+[^12]: John Cameron, [_Our Tropical Possessions in Malayan India: Being a Descriptive Account of Singapore, Penang, Province Wellesley and Malacca: Their Peoples, Products, Commerce and Government_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=7658c549-f1c5-47c7-b8b6-831f7eb90c58) (London: Smith, Elder and Co., 1865), 284. (From National Library Online)  
   
-13 [_Blue Book for the Year_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4982696), 1881, 1.
+[^13]: [_Blue Book for the Year_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4982696), 1881, 1.
 
-14 Andrew Gilmour, [_An Eastern Cadet’s Anecdotage_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082081) (Singapore: University Education Press, 1974), 28. (From National Library Singapore, call no. RSING 920 GIL)
+[^14]: Andrew Gilmour, [_An Eastern Cadet’s Anecdotage_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082081) (Singapore: University Education Press, 1974), 28. (From National Library Singapore, call no. RSING 920 GIL)
 
-15 Frank Kershaw Wilson, [_Frank Kershaw Wilson’s Letters Home, January 1915 – December 1916, While As Administrative Cadet, Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12973122) (MSS. Ind.Ocn.S.162). Bodleian Libraries, University of Oxford, United Kingdom. (Singapore: National Library Board, 2009). (From National Library Singapore, call no. RCLOS 959.5703 WIL; microfilm copy held in NLB). Copyright restrictions placed on the letters by the original donors prevent them from being quoted directly without securing the consent of these donors or their heirs.
+[^15]: Frank Kershaw Wilson, [_Frank Kershaw Wilson’s Letters Home, January 1915 – December 1916, While As Administrative Cadet, Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12973122) (MSS. Ind.Ocn.S.162). Bodleian Libraries, University of Oxford, United Kingdom. (Singapore: National Library Board, 2009). (From National Library Singapore, call no. RCLOS 959.5703 WIL; microfilm copy held in NLB). Copyright restrictions placed on the letters by the original donors prevent them from being quoted directly without securing the consent of these donors or their heirs.
 
-16 Frank Kershaw Wilson to Mother, 10 September 1915.
+[^16]: Frank Kershaw Wilson to Mother, 10 September 1915.
 
-17 “[News in Brief](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19390321-1.2.54),” _Singapore Free Press and Mercantile Advertiser,_ 21 March 1939, 3\. (From NewspaperSG)
+[^17]: “[News in Brief](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19390321-1.2.54),” _Singapore Free Press and Mercantile Advertiser,_ 21 March 1939, 3\. (From NewspaperSG)
 
-18 The Straits Times, _Straits Settlements and Federated Malay States Annual_ (Singapore: Straits Times Press, 1908), 30 (From National Library Singapore, microfilm NL5876); “Stella Michell,” Devon Mitchells, n.d.
+[^18]: The Straits Times, _Straits Settlements and Federated Malay States Annual_ (Singapore: Straits Times Press, 1908), 30 (From National Library Singapore, microfilm NL5876); “Stella Michell,” Devon Mitchells, n.d.
 
-19 “[Malayans at Home](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19370327-1.2.82),” _Malaya Tribune_, 27 March 1937, 13\. (From NewspaperSG)
+[^19]: “[Malayans at Home](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19370327-1.2.82),” _Malaya Tribune_, 27 March 1937, 13\. (From NewspaperSG)
 
-20 Walter Del Mar, [_Around the World Through Japan_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202604641) (London: Adam and Charles Black, 1904), 70. (From National Library Singapore, call no. RRARE 910.41 DEL-\[JSB\])  
+[^20]: Walter Del Mar, [_Around the World Through Japan_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202604641) (London: Adam and Charles Black, 1904), 70. (From National Library Singapore, call no. RRARE 910.41 DEL-\[JSB\])  
   
 21 Isabella Bird, [_The Golden Chersonese and the Way Thither_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12643624) (London: John Murray, 1883), 111 (From National Library Singapore, call no. RCLOS 959.5 BIS; microfilm NL 5876); Minnie Farlow, “The Christmas Mail,” in [_Singapore Skits in Prose and Verse_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4980595) (Singapore: Singapore and Straits Print. Off., 1896), 1–2. (From National Library Singapore, call no. RRARE 820 MF; microfilm NL5827)
 
