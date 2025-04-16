@@ -251,7 +251,7 @@ capitalism, a system which supplants the processes of the natural world and
 exerts its own norms. When Vincent, an ambitious young financial analyst,
 breaks from his normal routine and leaves his office outside of his designated lunch hour, he “[feels] the buildings on all sides pressing down on him […] as if watched by a thousand pairs of eyes behind office windows”.[^37] Even though he is senior enough to leave the office whenever he wants, crossing Raffles Place in the mid-afternoon is enough of a transgression that Vincent feels “an overwhelming desire to retreat from the wide emptiness”, return to his desk, and resume work. Crucially, the pressure that Vincent feels to conform and be a productive citizen is coming from within himself, and the claustrophobia and paranoia he feels about breaking his routine are projected onto the built environment. Raffles Place becomes a kind of Panopticon, conceptualised by Foucault as a symbol of social control, where Vincent has so completely internalised these societal norms and pressures that he polices himself and “becomes the principle of his own subjection”.[^38] To Jeyaretnam, the modern skyscrapers of Raffles Place belie a darker shift in society, where the worship of productivity and material wealth reduces a person’s worth to the value of the work they produce.
 
-Along with these office workers, places are also valued according to the work they produce. A key driver of Raffles Place’s redevelopment was the economic benefit it would bring. Newspaper articles emphasised that the new office towers and shopping centres would “provide exciting prospects for the creation of a new city”, and “strengthen the existing tourist facilities along Orchard Road”, driving Singapore’s economy by attracting more tourists and foreign investment.[^39] Redevelopment would displace pre-existing businesses – such as the Chettiar moneylenders[^40] and moneychangers, and the lightermen who ferried cargo through the Singapore River41 – but their disappearance was justified on the grounds that these were “dying businesses”42 being naturally pushed out by the invisible hand of the market. With their removal, the Singapore River would become a recreational site, “with fishing and boating possibly becoming the ‘in’ thing”.43 However, there was a trade-off. Removing these businesses and the communities that had grown around them effaced communal memory,
+Along with these office workers, places are also valued according to the work they produce. A key driver of Raffles Place’s redevelopment was the economic benefit it would bring. Newspaper articles emphasised that the new office towers and shopping centres would “provide exciting prospects for the creation of a new city”, and “strengthen the existing tourist facilities along Orchard Road”, driving Singapore’s economy by attracting more tourists and foreign investment.[^39] Redevelopment would displace pre-existing businesses – such as the Chettiar moneylenders[^40] and moneychangers, and the lightermen who ferried cargo through the Singapore River[^41] – but their disappearance was justified on the grounds that these were “dying businesses”[^42] being naturally pushed out by the invisible hand of the market. With their removal, the Singapore River would become a recreational site, “with fishing and boating possibly becoming the ‘in’ thing”.[^43] However, there was a trade-off. Removing these businesses and the communities that had grown around them effaced communal memory,
 leaving behind no trace of their history for future generations.
 
 Jeyaretnam depicts this untethering of history from space in First Loves
@@ -262,11 +262,11 @@ suddenly abandoned:
 to reclaim what belongs to it? […] Until centuries later when the<br>     
 sea will again be drained away and Raffles Place (like the Bayon<br>     
 does today) stand as an architectural wonder and archaeological<br>     
-mystery?*44
+mystery?[^44]
 
 Removed from capitalist systems and the enterprise of making money,
 Raffles Place becomes an empty shell as it does not retain what Tay deems
-the “aesthetics of place – local, specific, rooted”,45 or an urban memory
+the “aesthetics of place – local, specific, rooted”,[^45] or an urban memory
 specific to Singapore’s history.
 
 Jeyaretnam’s characters ultimately sour on this version of modernity and
@@ -275,7 +275,7 @@ onto the landscapes around them. When Connie realises that she has been
 living her life according to societal expectations, “too readily accepting
 the lash of the whip that sought to drive her on, blindly, like a horse
 with blinkers”, she looks at the “lighted squares of other flats, the rows of
-streetlights and the lights of cars hurrying to their destinations”46 and sees
+streetlights and the lights of cars hurrying to their destinations”[^46] and sees
 in their uniformity the constraints placed on her by Singaporean society:
 the pressures to work hard at a respectable job, to get married, and to have
 children. When she decides to quit her job, she effectively rebels against the
@@ -291,7 +291,7 @@ his representations of the urban landscape.
 
 #### **CONCLUSION**
 
-Literature can function as a historical archive, documenting and conserving spaces that would otherwise be lost. Through their representations of space, literary texts can not only fill in gaps in our urban memory and therefore redefine Singaporean identity by shoring up our collective memory, but also dramatise various anxieties about modernity, such as racial prejudice and the environmental impact of urban development. If, as Suchen Christine Lim mused in 2009, “[Singaporeans] are a people who live in the perpetual newness of the present”,47 Singaporean fiction like *Fistful of Colours* and *If We Dream Too Long* acts a corrective to this state of amnesia by reconnecting Singaporeans with their history.
+Literature can function as a historical archive, documenting and conserving spaces that would otherwise be lost. Through their representations of space, literary texts can not only fill in gaps in our urban memory and therefore redefine Singaporean identity by shoring up our collective memory, but also dramatise various anxieties about modernity, such as racial prejudice and the environmental impact of urban development. If, as Suchen Christine Lim mused in 2009, “[Singaporeans] are a people who live in the perpetual newness of the present”,[^47] Singaporean fiction like *Fistful of Colours* and *If We Dream Too Long* acts a corrective to this state of amnesia by reconnecting Singaporeans with their history.
 
 In *First Loves* and *Raffles Place Ragtime*, Jeyaretnam examines the causes and effects of urban redevelopment and embeds them within global capitalism. The redevelopment of Raffles Place projects a new identity for Singapore as a new, modern and global city, and signals a break with the island’s colonial history. However, Jeyaretnam takes a critical look at these new urban forms and problematises them. Some spaces in Raffles Place are exclusive, which demonstrates how inequality undergirds access to modernity. Furthermore, the society symbolised by these skyscrapers reduces people and places to their economic value. History and heritage have no place in this system unless they can be used to generate capital. Here, Jeyaretnam broadens the scope of the literary archive, as his texts not only record the changing face of Raffles Place but also a sea change in society’s class structures, priorities and goals. Space in Jeyaretnam’s fiction becomes an artifact, and literature, through its representation of space, becomes a way to document otherwise intangible things and preserve them for future study.
 
