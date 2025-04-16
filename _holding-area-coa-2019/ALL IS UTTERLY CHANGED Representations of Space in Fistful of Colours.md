@@ -4,7 +4,7 @@ permalink: /holding-area/chapters-on-asia-2019/representations-space-fistful-col
 variant: markdown
 description: ""
 ---
-*All is utterly changed, the map useless<br>
+    *All is utterly changed, the map useless<br>
     for navigation in the lost city. Only an echo<br>
     remains*<br>
     – “Change Alley”, Boey Kim Cheng1
