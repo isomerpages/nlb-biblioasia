@@ -23,10 +23,6 @@ One of the most amazing online resources I used was [NewspaperSG](https://eresou
 
 When I pieced all the disparate information together, a fascinating, colourful and detailed picture emerged, not only of Silvestr’s own life and death, but of a whole community of over a hundred Czechoslovaks who lived and worked in Singapore during the 1930s, the Second World War and the postwar years. I put all this together in my book _In Search of Silvestr_ (2025, Landmark Books).
 
-<div style="background-color: white;">
-<br>
-<img src="/images/Online%20Only%20Articles/In%20Search%20of%20Silvestr/cover.jpg" style="width: 50%;">Jan Beránek’s <i>In Search of Silvestr</i> is a culmination of eight years of research and writing.</div>
-
 #### **The Bata Shoe Company**
 
 My granduncle Silvestr went to Singapore at a very young age, with a mission to establish and develop the business of the Bata Shoe Company in Southeast Asia. Many might mistake Bata for a local company, but it started as a family business in Czechoslovakia in 1894.
@@ -64,6 +60,12 @@ After the surrender of Singapore, the Japanese were unsure how to treat the Czec
 During the Japanese invasion and Occupation, no fewer than 10 Czechoslovaks in Singapore lost their lives.
 
 I never thought that my personal quest to discover the fate of my granduncle would bloom into a much larger and richer story of Bata Shoe Company, the Czechoslovak community and the volunteer forces in Singapore. My search began in the small market town of Vémyslice in the South Moravian Region of Czechoslovakia and spanned the globe, ending in modern Singapore where Silvestr lived and probably died.
+
+<div style="background-color: #fff6ba; padding: 15px; margin: 15px; text-align:left; font-size:100%">
+<b></b>
+<br>
+<img src="/images/Online%20Only%20Articles/In%20Search%20of%20Silvestr/cover.jpg" style="width: 40%;"><br>Jan Beránek’s book, <i><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300110453">In Search of Silvestr: Unravelling My Granduncle's Fate, Bata, Czechoslovaks and World War II in Singapore</a></i>,&nbsp;is available for reference at the Lee Kong Chian Reference Library (call no. RSING 305.8918605957 BER), a culmination of eight years of research and writing is for loan at selected public libraries (call no. SING 305.8918605957 BER), and for sale at physical and online bookstores.</div>
+
 
 <div style="background-color: white;">
 <img style="width: 100px; height: 100px;" src="/images/Online%20Only%20Articles/In%20Search%20of%20Silvestr/author_pic.jpg">
