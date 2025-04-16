@@ -399,54 +399,54 @@ Yeo, Brenda S. A. and T. C. Chang. “The Rise of the Merlion”: Monument and M
 
 [^21]: Robbie B. H. Goh and Brenda S. A. Yeoh, “Urbanism and Post-Colonial Nationalities: Theorizing the Southeast Asian City,” in [_Theorizing the Southeast Asian City As Text: Urban Landscapes, Cultural Documents, and Interpretative Experiences_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11919208), ed. Robbie B. H. Goh and Brenda S. A. Yeoh (Singapore: World Scientific, 2003), 5. (From National Library Singapore, call no. RSING 307.760959 THE)
 
-22 Brenda S. A Yeoh and T. C. Chang, “The Rise of the Merlion”: Monument and Myth in the Making of the Singapore Story,” in [_Theorizing the Southeast Asian City As Text: Urban Landscapes, Cultural Documents, and Interpretative Experiences_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11919208), ed. Robbie B. H. Goh and Brenda S. A. Yeoh (Singapore: World Scientific, 2003), 30. (From National Library Singapore, call no. RSING 307.760959 THE)
+[^22]: Brenda S. A Yeoh and T. C. Chang, “The Rise of the Merlion”: Monument and Myth in the Making of the Singapore Story,” in [_Theorizing the Southeast Asian City As Text: Urban Landscapes, Cultural Documents, and Interpretative Experiences_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11919208), ed. Robbie B. H. Goh and Brenda S. A. Yeoh (Singapore: World Scientific, 2003), 30. (From National Library Singapore, call no. RSING 307.760959 THE)
 
-23 Saskia Sassen, “The Global City: Introducing a Concept,” _Brown Journal of World Affairs_ 11, no. 2 (Winter/Spring 2005): 35. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^23]: Saskia Sassen, “The Global City: Introducing a Concept,” _Brown Journal of World Affairs_ 11, no. 2 (Winter/Spring 2005): 35. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-24 Tay Kheng Soon and Robbie B, H, Goh, “Reading the Southeast Asian City in the Context of Rapid Economic Growth,” in [_Theorizing the Southeast Asian City As Text: Urban Landscapes, Cultural Documents, and Interpretative Experiences_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11919208), ed. Robbie B. H. Goh and Brenda S. A. Yeoh (Singapore: World Scientific, 2003), 16. (From National Library Singapore, call no. RSING 307.760959 THE)
+[^24]: Tay Kheng Soon and Robbie B, H, Goh, “Reading the Southeast Asian City in the Context of Rapid Economic Growth,” in [_Theorizing the Southeast Asian City As Text: Urban Landscapes, Cultural Documents, and Interpretative Experiences_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11919208), ed. Robbie B. H. Goh and Brenda S. A. Yeoh (Singapore: World Scientific, 2003), 16. (From National Library Singapore, call no. RSING 307.760959 THE)
 
-25 Tay and Goh, “[Reading the Southeast Asian City in the Context of Rapid Economic Growth](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11919208),” 16.
+[^25]: Tay and Goh, “[Reading the Southeast Asian City in the Context of Rapid Economic Growth](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11919208),” 16.
 
-26 Dipesh Chakrabarty, _Provincializing Europe: Postcolonial Thought and Historical Difference_ (Princeton, NJ: Princeton University Press, 2000), 8.
+[^26]: Dipesh Chakrabarty, _Provincializing Europe: Postcolonial Thought and Historical Difference_ (Princeton, NJ: Princeton University Press, 2000), 8.
 
-27 Karen Leong, “[Changing Face of Raffles Place](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19800813-1.2.5),” _Straits Times_, 13 August 1980, 1. (From NewspaperSG)  
+[^27]: Karen Leong, “[Changing Face of Raffles Place](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19800813-1.2.5),” _Straits Times_, 13 August 1980, 1. (From NewspaperSG)  
   
-28 Philip Jeyaretnam, “First Loves,” in [_The Philip Jeyaretnam Collection_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202751314) (Singapore: Marshall Cavendish Editions, 2017), 57. (From National Library Singapore, call no. RSING S823 JEY)
+[^28]: Philip Jeyaretnam, “First Loves,” in [_The Philip Jeyaretnam Collection_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202751314) (Singapore: Marshall Cavendish Editions, 2017), 57. (From National Library Singapore, call no. RSING S823 JEY)
 
-29 Bill Campbell, “[The Sky’s the Limit!](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19700127-1.2.66)” _Straits Times_, 27 January 1970, 8. (From NewspaperSG)
+[^29]: Bill Campbell, “[The Sky’s the Limit!](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19700127-1.2.66)” _Straits Times_, 27 January 1970, 8. (From NewspaperSG)
 
-30 Jeyaretnam, “[First Loves](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202751314),” 57.
+[^30]: Jeyaretnam, “[First Loves](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202751314),” 57.
 
-31 Jeyaretnam, “[First Loves](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202751314),” 57.
+[^31]: Jeyaretnam, “[First Loves](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202751314),” 57.
 
-32 Jeyaretnam, “[First Loves](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202751314),” 59.
+[^32]: Jeyaretnam, “[First Loves](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202751314),” 59.
 
-33 Jeyaretnam, “[First Loves](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202751314),” 58.
+[^33]: Jeyaretnam, “[First Loves](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202751314),” 58.
 
-34 Philip Jeyaretnam, “Raffles Place Ragtime,” in [_The Philip Jeyaretnam Collection_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202751314) (Singapore: Marshall Cavendish Editions, 2017), 221. (From National Library Singapore, call no. RSING S823 JEY)
+[^34]: Philip Jeyaretnam, “Raffles Place Ragtime,” in [_The Philip Jeyaretnam Collection_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202751314) (Singapore: Marshall Cavendish Editions, 2017), 221. (From National Library Singapore, call no. RSING S823 JEY)
 
-35 Jeyaretnam, “[Raffles Place Ragtime](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202751314),” 122.
+[^35]: Jeyaretnam, “[Raffles Place Ragtime](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202751314),” 122.
 
-36 Jeyaretnam, “[First Loves](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202751314),” 59.
+[^36]: Jeyaretnam, “[First Loves](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202751314),” 59.
 
-37 Jeyaretnam, “[Raffles Place Ragtime](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202751314),” 192.
+[^37]: Jeyaretnam, “[Raffles Place Ragtime](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202751314),” 192.
 
-38 Michel Foucault, _Discipline and Punish: The Birth of the Prison_, 2nd Vintage Books ed.; trans. A. Sheridan (New York: Vintage Books, 1995), 203. (The 2012 eBook is available from OverDrive)
+[^38]: Michel Foucault, _Discipline and Punish: The Birth of the Prison_, 2nd Vintage Books ed.; trans. A. Sheridan (New York: Vintage Books, 1995), 203. (The 2012 eBook is available from OverDrive)
 
-39 Teo Teck Weng, “[Marina Centre, the New Atlantis](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19781125-1.2.4),” _Business Times_, 25 November 1978, 1. (From NewspaperSG)
+[^39]: Teo Teck Weng, “[Marina Centre, the New Atlantis](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19781125-1.2.4),” _Business Times_, 25 November 1978, 1. (From NewspaperSG)
 
-40 Lean, “[Change Alley To Pass Into History on March 31](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19890223-1.2.26.28).”
+[^40]: Lean, “[Change Alley To Pass Into History on March 31](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19890223-1.2.26.28).”
 
-41 Leong, “[Changing Face of Raffles Place](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19800813-1.2.5).”
+[^41]: Leong, “[Changing Face of Raffles Place](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19800813-1.2.5).”
 
-42 Leong, “[Changing Face of Raffles Place](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19800813-1.2.5).”
+[^42]: Leong, “[Changing Face of Raffles Place](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19800813-1.2.5).”
 
-43 Leong, “[Changing Face of Raffles Place](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19800813-1.2.5).”
+[^43]: Leong, “[Changing Face of Raffles Place](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19800813-1.2.5).”
 
-44 Jeyaretnam, “[First Loves](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202751314),” 153. &nbsp;&nbsp;
+[^44]: Jeyaretnam, “[First Loves](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202751314),” 153. &nbsp;&nbsp;
 
-45 Tay and Goh, “[Reading the Southeast Asian City in the Context of Rapid Economic Growth](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11919208),” 16.
+[^45]: Tay and Goh, “[Reading the Southeast Asian City in the Context of Rapid Economic Growth](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11919208),” 16.
 
-46 Jeyaretnam, “[Raffles Place Ragtime](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202751314),” 226.
+[^46]: Jeyaretnam, “[Raffles Place Ragtime](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202751314),” 226.
 
-47 Lim Suchen Christine, “Fistful of Colours and Urban Renewal in Singapore: From Frowsy Woman to Sassy Young Lass,” _Quarterly Literary Review Singapore_, 8, no. 1 (January 2009)
+[^47]: Lim Suchen Christine, “Fistful of Colours and Urban Renewal in Singapore: From Frowsy Woman to Sassy Young Lass,” _Quarterly Literary Review Singapore_, 8, no. 1 (January 2009)
