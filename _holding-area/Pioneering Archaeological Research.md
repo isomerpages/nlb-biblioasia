@@ -56,7 +56,7 @@ In the 1934 Guar Kepah dig, Callenfels, who had excavated a similar shell midden
 As Callenfels was a recognised expert in the prehistory of Southeast Asia and had worked in many parts of Asia, he had an extensive network and was a key figure in applying for the CCNY funds for the Guar Kepah project.[^19]
 
 ![](/images/Vol%2021%20Issue%202/Archaeologic/archaeological_caricature.jpg)
-<div style="background-color:white;"> A caricature of P.V. van Stein Callenfels in the 17 June 1934 issue of the <i>Sunday Tribune newspaper. From NewspaperSG).</i></div>
+<div style="background-color:white;"> A caricature of P.V. van Stein Callenfels in the 17 June 1934 issue of the <i>Sunday Tribune newspaper. (From NewspaperSG).</i></div>
 
 Michael Willmer Forbes Tweedie (M.W.F. Tweedie) and Herbert Dennis Collings (H.D. Collings), curator and assistant curator respectively at the Raffles Library and Museum, had supervised the Guar Kepah excavations. They were influenced by Callenfels’ use of systematic survey equipment such as a theodolite (which can measure width \[distance\] and depth) and compass in recording finds, although the method of stratigraphic recording (documenting soil layers in order to understand a sequence of events based on geological principles) and analysis would not be used until much later, in the mid-1950s.[^20]
 
@@ -97,7 +97,7 @@ Noone’s manuscript and personal papers were either lost in the looting of the 
 <b>BOOKS RELATING TO THE HISTORY OF ARCHAEOLOGICAL RESEARCH IN SINGAPORE</b><br><br>
 As the Raffles Library and Museum was a predecessor institution to the current National Library and the National Museum of Singapore (with the Lee Kong Chian Natural History Museum inheriting much of the Raffles Museum’s zoological reference collections), the National Library still retains many of the official publications relating to the prehistory of Malaya from this period.
 	<br><br>
-These include some prewar publications such as the <i>Bulletin of the Raffles Museum</i> (Series B, nos. 1–4) which have been digitised, as well as postwar publications such as Michael Willmer Forbes Tweedie’s’ “Stone Age in Malaya” (1953) and <i>Prehistory of Malaya</i> (1955). There is also <i>Stone Adzes of Southeast Asia: An Illustrated Typology</i> by Roger Duff and published in 1970, describing many of the prehistoric stone tools collected at the Raffles Museum from this period.
+These include some prewar publications such as the <i>Bulletin of the Raffles Museum</i> (Series B, nos. 1–4) which have been digitised, as well as postwar publications such as Michael Willmer Forbes Tweedie’s “Stone Age in Malaya” (1953) and <i>Prehistory of Malaya</i> (1955). There is also <i>Stone Adzes of Southeast Asia: An Illustrated Typology</i> by Roger Duff and published in 1970, describing many of the prehistoric stone tools collected at the Raffles Museum from this period.
 	<br><br>
 The National Library also has some resources relating to Pieter Vincent van Stein Callenfels’ life and publications, but a few require more careful reading. Several publications suggest, for example, that Callenfels was the inspiration behind the character, Professor Challenger, the protagonist in Sir Arthur Conan Doyle’s <i>The Lost World</i>. But Doyle clarified that he had modelled the peculiarities of Professor Challenger on Professor John Rutherford, an eminent Scottish physician at the University of Edinburgh Medical School.
 	<br><br>
@@ -112,13 +112,13 @@ Duff, Roger. <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=68544"> 
 <br> <br> 
 Doyle, Arthur Conan. Memories and Adventures. Boston: Little, Brown, and Company, 1924. Project Gutenberg. Accessed 9 January 2025,  <a href="https://www.gutenberg.org/cache/epub/66991/pg66991-images.html">https://www.gutenberg.org/cache/epub/66991/pg66991-images.html </a>.
 <br> <br> 
-Ghosh, Nirmala. “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19931225-1.2.26.6">Face Lift for a Grande Dame </a>.” Business Times, 25 December 1993, 18. (From NewspaperSG)
+Ghosh, Nirmala. “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19931225-1.2.26.6">Face Lift for a Grande Dame </a>.” <i>Business Times</i>, 25 December 1993, 18. (From NewspaperSG)
 <br> <br> 
-McKie, R.C.H. “Callenfels of the Indies: Burly Scientist and ‘Character’.” Sydney Morning Herald, 11 June 1938, 13, <a href="https://trove.nla.gov.au/newspaper/article/17470496">https://trove.nla.gov.au/newspaper/article/17470496 </a>.
+McKie, R.C.H. “Callenfels of the Indies: Burly Scientist and ‘Character’.” <i>Sydney Morning Herald</i>, 11 June 1938, 13, <a href="https://trove.nla.gov.au/newspaper/article/17470496">https://trove.nla.gov.au/newspaper/article/17470496 </a>.
 <br> <br> 
 Swanenburg, B.D. <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4407517"> <i>Iwan De Verschrikkelijke: Leven En Eerken Van Dr. P.V. van Stein Callenfels</i> </a> [Ivan the Terrible: Life and Works of Dr. P.V. van Stein Callenfels]. Maastricht: Feiter Nypels, 1951. (From National Library Singapore, call no. RUR 930.1092 SWA)
 <br> <br> 
-Tweedie, Michael Willmer Forbes. “The Stone Age in Malaya.” Journal of the Malayan Branch of the Royal Asiatic Society 26, no. 2 (162) (October 1953): 3–90. (From JSTOR via NLB’s <a href="http://eresources.nlb.gov.sg/"> eResources </a> website) 
+Tweedie, Michael Willmer Forbes. “The Stone Age in Malaya.” <i>Journal of the Malayan Branch of the Royal Asiatic Society</i> 26, no. 2 (162) (October 1953): 3–90. (From JSTOR via NLB’s <a href="http://eresources.nlb.gov.sg/"> eResources </a> website) 
 <br> <br> 
 Van Stein Callenfels, Pieter Vincent. <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4574368"> <i>Pedoman Singkat Untuk Pengumpulan Prasedjarah Dari Lembaga Kebudajaan Indonesia</i> </a>. Bandung: A.C. Nix, 1950. (From National Library, call no. RDTYS 572.95 STE)<br></div>
 
