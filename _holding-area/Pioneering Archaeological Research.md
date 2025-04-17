@@ -10,10 +10,10 @@ By Foo Shu Tieng
 ![](/images/Vol%2021%20Issue%202/Archaeologic/archaeological_main.jpg)
 <div style="background-color:white;"><b>(Top, from left)</b> Bone tool from Perlis; neolithic tool from Tanjong Bunga, Johor; neolithic kiln-stand from Tui Gold Mine, Pahang; hoabinhian biface tool from Gua Musang, Kelantan; stone bark-cloth beater from Ampang, Selangor. <b>(Bottom, from left)</b> Hoabinhian biface tool from Pahang; necked stone axe from Guak Kepah, Province Wellesley; round-axe from Baling, Kedah; round axe from Tanjong Bunga, Johor.   <i>Images reproduced from M.W.F. Tweedie, “The Stone Age in Malaya,” Journal of the Malayan Branch of the Royal Asiatic Society 26, no. 2 (162) (October 1953): plate 10. (From JSTOR via NLB’s eResources website). </i></div>
 
+The Raffles Library and Museum, the predecessor of today’s National Library Singapore, played an important role in the archaeological research of the region. While there was some archaeological research about the Malay Peninsula in the 19th century, it was only from the mid-1930s, under the leadership of the museum, that the pace and intensity of these activities increased.[^1]
+
 ![](/images/Vol%2021%20Issue%202/Archaeologic/archaeological_bama.jpg)
 <div style="background-color:white;">Neolithic potsherd from Gua Bama, Pahang (top) and neolithic potsherd from Baling Kedah (left).  <i> Images reproduced from M.W.F. Tweedie, “The Stone Age in Malaya,” Journal of the Malayan Branch of the Royal Asiatic Society 26, no. 2 (162) (October 1953): plate 10. (From JSTOR via NLB’s eResources website). </i></div>
-
-The Raffles Library and Museum, the predecessor of today’s National Library Singapore, played an important role in the archaeological research of the region. While there was some archaeological research about the Malay Peninsula in the 19th century, it was only from the mid-1930s, under the leadership of the museum, that the pace and intensity of these activities increased.[^1]
 
 With Eugène Dubois’ discovery of the Java Man (_Homo erectus_) fossils in 1891–92 at Trinil on the island of Java, Asia was thought to be “the cradle of mankind”.[^2] Gold ornaments discovered at Fort Canning in 1928 also hinted at Singapore’s potential antiquity.[^3] Grafton Elliot Smith – an Australian anatomy professor who famously x-rayed Egyptian mummies to learn about mummification methods and theorised about the way brains evolved – had also urged for more work in the study of ancient times in Malaya in 1931. He lamented that it was “particularly humiliating to us as Englishmen that so little is being done” in comparison to what the Dutch and French researchers were able to achieve in the region.[^4]
 
@@ -36,7 +36,7 @@ The excavation in Guar Kepah built on the survey reports of George Windsor Earl,
 One of the places Evans visited in Penang was Guar Kepah. This site consisted of three shell middens (mounds where shell remains formed the majority of artefacts), near the south bank of the Muda River, and is now estimated to be in use between 5,000 and 6,000 years ago.
 
 ![](/images/Vol%2021%20Issue%202/Archaeologic/archaeological_shell.jpg)
-<div style="background-color:white;"> A side profile photo of a shell midden at Guar Kepah. <i>Image reproduced from P.V. van Stein Callenfels, “An Excavation of three Kitchen Middens at Guak Kepah, Province Wellesley, Straits Settlements,” Bulletin of the Raffles Museum Singapore, Straits Settlements, Series B, no. 1 (May 1936), Plate XXX, Fig 2. (From National Library Online).</i></div>
+<div style="background-color:white;"> A side profile photo of a shell midden at Guar Kepah. <i>Image reproduced from P.V. van Stein Callenfels, “An Excavation of Three Kitchen Middens at Guak Kepah, Province Wellesley, Straits Settlements,” Bulletin of the Raffles Museum Singapore, Straits Settlements, Series B, no. 1 (May 1936), Plate XXX, Fig 2. (From National Library Online).</i></div>
 
 Evans reported that the top section of the Guar Kepah mound he saw had been mined for its lime by lime burners (lime has several industrial applications such as in construction, or for agriculture), and that “the remains of it are only elevated about two or three feet above the surrounding land”.[^14]
 
