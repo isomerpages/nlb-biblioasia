@@ -93,6 +93,18 @@ Noone’s manuscript and personal papers were either lost in the looting of the 
 <div style="background-color:white;">The Guar Kepah Archaeological Gallery&nbsp;in Penang will be opening soon.  <i>Photo by Foo Shu Tieng.</i></div>
 
 
+<div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
+<b>BOOKS RELATING TO THE HISTORY OF ARCHAEOLOGICAL RESEARCH IN SINGAPORE</b><br><br>
+As the Raffles Library and Museum was a predecessor institution to the current National Library and the National Museum of Singapore (with the Lee Kong Chian Natural History Museum inheriting much of the Raffles Museum’s zoological reference collections), the National Library still retains many of the official publications relating to the prehistory of Malaya from this period.
+	<br><br>
+These include some prewar publications such as the _Bulletin of the Raffles Museum_ (Series B, nos. 1–4) which have been digitised, as well as postwar publications such as Michael Willmer Forbes Tweedie’s’ “Stone Age in Malaya” (1953) and _Prehistory of Malaya_ (1955). There is also _Stone Adzes of Southeast Asia: An Illustrated Typology_ by Roger Duff and published in 1970, describing many of the prehistoric stone tools collected at the Raffles Museum from this period.
+	<br><br>
+The National Library also has some resources relating to Pieter Vincent van Stein Callenfels’ life and publications, but a few require more careful reading. Several publications suggest, for example, that Callenfels was the inspiration behind the character, Professor Challenger, the protagonist in Sir Arthur Conan Doyle’s _The Lost World_. But Doyle clarified that he had modelled the peculiarities of Professor Challenger on Professor John Rutherford, an eminent Scottish physician at the University of Edinburgh Medical School.
+	<br><br>
+
+	<br><br>
+Today, the surrender site is known as the Former Ford Factory. It houses a permanent World War II exhibition by the National Archives of Singapore showcasing the events and memories surrounding the British surrender, the Japanese Occupation of Singapore and the legacies of the war. (For more information, visit <a> https://corporate.nas.gov.sg/former-ford-factory/overview/</a>).<br></div>
+
 	
 <div style="background-color: white;">
 <img style="width: 100px; height: 100px;" src="/images/Authors/FooShuTieng.png">
