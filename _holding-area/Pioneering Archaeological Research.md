@@ -23,6 +23,9 @@ Those funds were supplemented by a donation from the Empire Grants Committee of 
 
 This would culminate with the Straits Settlements (comprising Melaka, Penang and Singapore) – represented by the Raffles Library and Museum – hosting its first congress on prehistory in Singapore in January 1938: the Third Congress of Prehistorians of the Far East. These meetings, which rotated its hosts, would later be formalised as the Far-Eastern Prehistory Association in 1953 and reorganised in 1976 as the Indo-Pacific Prehistory Association.[^9]
 
+![](/images/Vol%2021%20Issue%202/Archaeologic/archaeological_delegates.jpg)
+<div style="background-color:white;">Delegates at the 1938 Third Congress of Prehistorians to the Far East in Singapore admiring Neolithic finds. (From left) H.D. Collings, assistant curator of the Raffles Museum, F.N. Chasen, director of the Raffles Museum, Mrs Von Koengiswald, F.D. McCarthy, G.H.R. von Koenigswald, A.L. Hoops and Charlton Maxwell.  <i> Image reproduced from “Malaya in Ancient Times,” Singapore Free Press and Mercantile Advertiser, 25 January 1938, 2. (From NewspaperSG). </i></div>
+
 From an attendance of just 30 delegates in 1938, the participation grew to some 800 archaeologists and cultural heritage professionals who attended the congress in Chiang Mai, Thailand, in November 2022.[^10]
 
 The 1938 congress in Singapore offered visitors and researchers the opportunity to look at displays of stone tools collectively from across the Asian region at the “Hall of Asiatic Prehistory” at the Raffles Museum, an important milestone that would allow for later regional cross-comparisons. The first of its kind in the Malay Peninsula, the congress generated so much public interest that some Malayan newspapers even reported which ship the delegates had arrived on.[^11]
@@ -31,12 +34,15 @@ The 1938 congress in Singapore offered visitors and researchers the opportunity 
 
 With its new-found funding and support, the Raffles Library and Museum began work. One of the first sites to be excavated was Guar Kepah in Penang. The dig, in 1934, was funded not only by a special grant by the Straits Settlements government but also with CCNY funds in its final stages.[^12]
 
+![](/images/Vol%2021%20Issue%202/Archaeologic/archaeological_midden.jpg)
+<div style="background-color:white;">The northern end of a shell midden at Guar Kepah.  <i> Image reproduced from P.V. van Stein Callenfels, “An Excavation of Three Kitchen Middens at Guak Kepah, Province Wellesley, Straits Settlements,” Bulletin of the Raffles Museum Singapore, Straits Settlements, Series B, no. 1 (May 1936), Plate XXX, Figure 1. (From National Library Online). </i></div>
+
 The excavation in Guar Kepah built on the survey reports of George Windsor Earl, the Resident Councillor of Penang, who first reported the site in 1860, and Ivor H.N. Evans, an ethnographer and pioneering archaeologist based at the Perak Museum in Taiping (a part of the Federated Malay States \[FMS\] Museums), who revisited the site in 1930.[^13]
 
 One of the places Evans visited in Penang was Guar Kepah. This site consisted of three shell middens (mounds where shell remains formed the majority of artefacts), near the south bank of the Muda River, and is now estimated to be in use between 5,000 and 6,000 years ago.
 
 ![](/images/Vol%2021%20Issue%202/Archaeologic/archaeological_shell.jpg)
-<div style="background-color:white;"> A side profile photo of a shell midden at Guar Kepah. <i>Image reproduced from P.V. van Stein Callenfels, “An Excavation of Three Kitchen Middens at Guak Kepah, Province Wellesley, Straits Settlements,” Bulletin of the Raffles Museum Singapore, Straits Settlements, Series B, no. 1 (May 1936), Plate XXX, Fig 2. (From National Library Online).</i></div>
+<div style="background-color:white;"> A side profile photo of a shell midden at Guar Kepah. <i>Image reproduced from P.V. van Stein Callenfels, “An Excavation of Three Kitchen Middens at Guak Kepah, Province Wellesley, Straits Settlements,” Bulletin of the Raffles Museum Singapore, Straits Settlements, Series B, no. 1 (May 1936), Plate XXX, Figure 2. (From National Library Online).</i></div>
 
 Evans reported that the top section of the Guar Kepah mound he saw had been mined for its lime by lime burners (lime has several industrial applications such as in construction, or for agriculture), and that “the remains of it are only elevated about two or three feet above the surrounding land”.[^14]
 
@@ -48,6 +54,9 @@ Evans had trained under, and collaborated with, the renowned Dutch prehistorian 
 In the 1934 Guar Kepah dig, Callenfels, who had excavated a similar shell midden site in Sumatra at Saentis near Medan, was the lead researcher responsible for the excavation report that would eventually be published in the first issue of the _Bulletin of the Raffles Museum_ (Series B) in May 1936.[^17] He also publicised the discoveries via the _Illustrated London News_, which was later reprinted by the _Malaya Tribune_ in January 1935. Not only were stone tools discovered, but human remains were also found at the site. Callenfels wrote: “Certain facts point to so-called secondary burials, the body being exposed to a tree, or somewhere else in the jungle, till the flesh decayed, when the remaining bones were collected and interred. Another interesting fact is that all the skulls were profusely sprinkled with powdered red shale.”[^18]
 
 As Callenfels was a recognised expert in the prehistory of Southeast Asia and had worked in many parts of Asia, he had an extensive network and was a key figure in applying for the CCNY funds for the Guar Kepah project.[^19]
+
+![](/images/Vol%2021%20Issue%202/Archaeologic/archaeological_caricature.jpg)
+<div style="background-color:white;"> A caricature of P.V. van Stein Callenfels in the 17 June 1934 issue of the <i>Sunday Tribune newspaper. From NewspaperSG).</i></div>
 
 Michael Willmer Forbes Tweedie (M.W.F. Tweedie) and Herbert Dennis Collings (H.D. Collings), curator and assistant curator respectively at the Raffles Library and Museum, had supervised the Guar Kepah excavations. They were influenced by Callenfels’ use of systematic survey equipment such as a theodolite (which can measure width \[distance\] and depth) and compass in recording finds, although the method of stratigraphic recording (documenting soil layers in order to understand a sequence of events based on geological principles) and analysis would not be used until much later, in the mid-1950s.[^20]
 
@@ -70,6 +79,9 @@ A study of the CCNY’s allocation of Commonwealth funds published in 1963 showe
 #### **The Future of Archaeological Research**
 
 Thanks to a confluence of factors, archaeological research began at the Raffles Library and Museum in the 1930s.&nbsp;
+
+![](/images/Vol%2021%20Issue%202/Archaeologic/archaeological_table.jpg)
+<div style="background-color:white;"> Source:&nbsp;M.W.F. Tweedie, “The Stone Age in Malaya.” <i>Journal of the Malayan Branch of the Royal Asiatic Society</i> 26, no. 2 (162) (October 1953). (From JSTOR via NLB’s eResources website)</div>
 
 Are there possibilities for further research? This is feasible since the private papers of H.D. Collings are now at the Suffolk Archives as he returned to the United Kingdom in his later years.[^30] However, some of the key personnel involved in the early archaeological projects died early.&nbsp;
 
