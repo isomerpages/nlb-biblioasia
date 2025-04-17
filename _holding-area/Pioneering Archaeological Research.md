@@ -108,20 +108,19 @@ Bloembergen, Marieke and Martijn Rickhoff. “The Colonial Archaeological Hero R
 <br> <br> 
 <a href="https://www.nlb.gov.sg/main/Book-Detail-Page?cmsUuID=5d376acc-3599-45d7-8275-19f10e537f63"> <i>Bulletin of the Raffles Museum, Colony of Singapore</i> </a>, Series B, no. 4 (December 1949). (From National Library Online)
 <br> <br> 
-Duff, Roger. Stone Adzes of Southeast Asia: An Illustrated Typology. Christchurch: Canterbury Museum Trust Board, 1970. (From National Library Singapore, call no. RUR 915.903 DUF)
+Duff, Roger. <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=68544"> <i>Stone Adzes of Southeast Asia: An Illustrated Typology</i> </a>. Christchurch: Canterbury Museum Trust Board, 1970. (From National Library Singapore, call no. RUR 915.903 DUF)
 <br> <br> 
-Doyle, Arthur Conan. Memories and Adventures. Boston: Little, Brown, and Company, 1924. Project Gutenberg. Accessed 9 January 2025,  https://www.gutenberg.org/cache/epub/66991/pg66991-images.html.
+Doyle, Arthur Conan. Memories and Adventures. Boston: Little, Brown, and Company, 1924. Project Gutenberg. Accessed 9 January 2025,  <a>https://www.gutenberg.org/cache/epub/66991/pg66991-images.html</a>.
 <br> <br> 
-Ghosh, Nirmala. “Face Lift for a Grande Dame.” Business Times, 25 December 1993, 18. (From NewspaperSG)
+Ghosh, Nirmala. “<a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=68544">Face Lift for a Grande Dame </a>.” Business Times, 25 December 1993, 18. (From NewspaperSG)
 <br> <br> 
-McKie, R.C.H. “Callenfels of the Indies: Burly Scientist and ‘Character’.” Sydney Morning Herald, 11 June 1938, 13, https://trove.nla.gov.au/newspaper/article/17470496.
+McKie, R.C.H. “Callenfels of the Indies: Burly Scientist and ‘Character’.” Sydney Morning Herald, 11 June 1938, 13, <a>https://trove.nla.gov.au/newspaper/article/17470496</a>.
 <br> <br> 
-Swanenburg, B.D. Iwan De Verschrikkelijke: Leven En Eerken Van Dr. P.V. van Stein Callenfels [Ivan the Terrible: Life and Works of Dr. P.V. van Stein Callenfels]. Maastricht: Feiter Nypels, 1951. (From National Library Singapore, call no. RUR 930.1092 SWA)
+Swanenburg, B.D. <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4407517"> <i>Iwan De Verschrikkelijke: Leven En Eerken Van Dr. P.V. van Stein Callenfels</i> </a> [Ivan the Terrible: Life and Works of Dr. P.V. van Stein Callenfels]. Maastricht: Feiter Nypels, 1951. (From National Library Singapore, call no. RUR 930.1092 SWA)
 <br> <br> 
-Tweedie, Michael Willmer Forbes. “The Stone Age in Malaya.” Journal of the Malayan Branch of the Royal Asiatic Society 26, no. 2 (162) (October 1953): 3–90. (From JSTOR via NLB’s eResources website) 
+Tweedie, Michael Willmer Forbes. “The Stone Age in Malaya.” Journal of the Malayan Branch of the Royal Asiatic Society 26, no. 2 (162) (October 1953): 3–90. (From JSTOR via NLB’s <a href="http://eresources.nlb.gov.sg/"> eResources </a> website) 
 <br> <br> 
-Van Stein Callenfels, Pieter Vincent. Pedoman Singkat Untuk Pengumpulan Prasedjarah Dari Lembaga Kebudajaan Indonesia. Bandung: A.C. Nix, 1950. (From National Library, call no. RDTYS 572.95 STE)
-<a> https://corporate.nas.gov.sg/former-ford-factory/overview/</a>).<br></div>
+Van Stein Callenfels, Pieter Vincent. <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4574368"> <i>Pedoman Singkat Untuk Pengumpulan Prasedjarah Dari Lembaga Kebudajaan Indonesia</i> </a>. Bandung: A.C. Nix, 1950. (From National Library, call no. RDTYS 572.95 STE)<br></div>
 
 	
 <div style="background-color: white;">
