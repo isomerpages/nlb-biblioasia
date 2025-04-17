@@ -112,7 +112,7 @@ Duff, Roger. <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=68544"> 
 <br> <br> 
 Doyle, Arthur Conan. Memories and Adventures. Boston: Little, Brown, and Company, 1924. Project Gutenberg. Accessed 9 January 2025,  <a>https://www.gutenberg.org/cache/epub/66991/pg66991-images.html</a>.
 <br> <br> 
-Ghosh, Nirmala. “<a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=68544">Face Lift for a Grande Dame </a>.” Business Times, 25 December 1993, 18. (From NewspaperSG)
+Ghosh, Nirmala. “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19931225-1.2.26.6">Face Lift for a Grande Dame </a>.” Business Times, 25 December 1993, 18. (From NewspaperSG)
 <br> <br> 
 McKie, R.C.H. “Callenfels of the Indies: Burly Scientist and ‘Character’.” Sydney Morning Herald, 11 June 1938, 13, <a>https://trove.nla.gov.au/newspaper/article/17470496</a>.
 <br> <br> 
