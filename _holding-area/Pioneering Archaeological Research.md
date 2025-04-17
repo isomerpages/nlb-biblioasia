@@ -102,7 +102,7 @@ These include some prewar publications such as the <i>Bulletin of the Raffles Mu
 The National Library also has some resources relating to Pieter Vincent van Stein Callenfels’ life and publications, but a few require more careful reading. Several publications suggest, for example, that Callenfels was the inspiration behind the character, Professor Challenger, the protagonist in Sir Arthur Conan Doyle’s <i>The Lost World</i>. But Doyle clarified that he had modelled the peculiarities of Professor Challenger on Professor John Rutherford, an eminent Scottish physician at the University of Edinburgh Medical School.
 	<br><br>
 <b>REFERENCES</b><br> 
-Bloembergen, Marieke and Martijn Rickhoff. “The Colonial Archaeological Hero Reconsidered,” In Historical Approaches to Past Archaeological Research, edited by Gisela Eberthardt and Fabian Link, 144. Berlin: Edition Topoi, 2015. Accessed 2 January 2025, <a>http://dx.doi.org/10.17171/3-32</a>.
+Bloembergen, Marieke and Martijn Rickhoff. “The Colonial Archaeological Hero Reconsidered,” In Historical Approaches to Past Archaeological Research, edited by Gisela Eberthardt and Fabian Link, 144. Berlin: Edition Topoi, 2015. Accessed 2 January 2025, <a href="http://dx.doi.org/10.17171/3-32">http://dx.doi.org/10.17171/3-32 </a>.
 <br> <br> 
 <a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=df2c59db-0c25-4632-8c11-a57af3621aec"> <i>Bulletin of the Raffles Museum Singapore, Straits Settlements</i> </a>, Series B, no. 1 (May 1936). (From National Library Online)
 <br> <br> 
