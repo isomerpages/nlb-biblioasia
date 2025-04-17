@@ -101,9 +101,27 @@ These include some prewar publications such as the _Bulletin of the Raffles Muse
 	<br><br>
 The National Library also has some resources relating to Pieter Vincent van Stein Callenfels’ life and publications, but a few require more careful reading. Several publications suggest, for example, that Callenfels was the inspiration behind the character, Professor Challenger, the protagonist in Sir Arthur Conan Doyle’s _The Lost World_. But Doyle clarified that he had modelled the peculiarities of Professor Challenger on Professor John Rutherford, an eminent Scottish physician at the University of Edinburgh Medical School.
 	<br><br>
-
-	<br><br>
-Today, the surrender site is known as the Former Ford Factory. It houses a permanent World War II exhibition by the National Archives of Singapore showcasing the events and memories surrounding the British surrender, the Japanese Occupation of Singapore and the legacies of the war. (For more information, visit <a> https://corporate.nas.gov.sg/former-ford-factory/overview/</a>).<br></div>
+<b>REFERENCES</b><br> 
+Bloembergen, Marieke and Martijn Rickhoff. “The Colonial Archaeological Hero Reconsidered,” In Historical Approaches to Past Archaeological Research, edited by Gisela Eberthardt and Fabian Link, 144. Berlin: Edition Topoi, 2015. Accessed 2 January 2025, <a>http://dx.doi.org/10.17171/3-32</a>.
+<br> <br> 
+<a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=df2c59db-0c25-4632-8c11-a57af3621aec"> <i>Bulletin of the Raffles Museum Singapore, Straits Settlements</i> </a>, Series B, no. 1 (May 1936). (From National Library Online)
+<br> <br> 
+<a href="https://www.nlb.gov.sg/main/Book-Detail-Page?cmsUuID=5d376acc-3599-45d7-8275-19f10e537f63"> <i>Bulletin of the Raffles Museum, Colony of Singapore</i> </a>, Series B, no. 4 (December 1949). (From National Library Online)
+<br> <br> 
+Duff, Roger. Stone Adzes of Southeast Asia: An Illustrated Typology. Christchurch: Canterbury Museum Trust Board, 1970. (From National Library Singapore, call no. RUR 915.903 DUF)
+<br> <br> 
+Doyle, Arthur Conan. Memories and Adventures. Boston: Little, Brown, and Company, 1924. Project Gutenberg. Accessed 9 January 2025,  https://www.gutenberg.org/cache/epub/66991/pg66991-images.html.
+<br> <br> 
+Ghosh, Nirmala. “Face Lift for a Grande Dame.” Business Times, 25 December 1993, 18. (From NewspaperSG)
+<br> <br> 
+McKie, R.C.H. “Callenfels of the Indies: Burly Scientist and ‘Character’.” Sydney Morning Herald, 11 June 1938, 13, https://trove.nla.gov.au/newspaper/article/17470496.
+<br> <br> 
+Swanenburg, B.D. Iwan De Verschrikkelijke: Leven En Eerken Van Dr. P.V. van Stein Callenfels [Ivan the Terrible: Life and Works of Dr. P.V. van Stein Callenfels]. Maastricht: Feiter Nypels, 1951. (From National Library Singapore, call no. RUR 930.1092 SWA)
+<br> <br> 
+Tweedie, Michael Willmer Forbes. “The Stone Age in Malaya.” Journal of the Malayan Branch of the Royal Asiatic Society 26, no. 2 (162) (October 1953): 3–90. (From JSTOR via NLB’s eResources website) 
+<br> <br> 
+Van Stein Callenfels, Pieter Vincent. Pedoman Singkat Untuk Pengumpulan Prasedjarah Dari Lembaga Kebudajaan Indonesia. Bandung: A.C. Nix, 1950. (From National Library, call no. RDTYS 572.95 STE)
+<a> https://corporate.nas.gov.sg/former-ford-factory/overview/</a>).<br></div>
 
 	
 <div style="background-color: white;">
