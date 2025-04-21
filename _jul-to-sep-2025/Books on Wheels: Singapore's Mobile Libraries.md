@@ -12,6 +12,10 @@ By Gracie Lee
 ![](/images/Vol%2021%20Issue%202/Books%20on%20Wheels/image_1.png)
 <div style="background-color:white;">Big Molly in the carpark next to Block 53 Marine Terrace, 29 March 2025. <i>Photo by Jimmy Yap. </i></div>
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Vol%2021%20Issue%202/Books%20on%20Wheels/LO_Wesley.jpg" style="width: 80%;">Library Officer Wesley Agustian (seated) and Assistant Library Officer Mohan M. chatting with a regular library user who travelled from Chinatown to Marine Terrace, where she borrowed 15 romance novels from Big Molly, 29 March 2025. The self-service borrowing station is seen on the left.<i> Photo by Jimmy Yap.</i></div>
+
 
 On 31 January 1959, the Singapore Constitution Exposition opened at the former Kallang Airport to much fanfare. The two-month-long event was organised to celebrate the establishment of the State of Singapore and the new Constitution, a major milestone in Singapore’s transition to full internal self-government.[^1]
 
