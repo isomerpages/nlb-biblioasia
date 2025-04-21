@@ -9,13 +9,23 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-12/issue-4/jan-mar-2017/windows-into-history/
-      button: Windows into History
+      url: /vol-21/issue-1/apr-jun-2025/mazu-goddess-of-the-sea-worship-birthday-thian-hock-keng/
+      button: Mazu Worship in Singapore
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol-12-issue-4/windows-into-history/windows_history_hero1.png
+      background: /images/Vol 21 Issue 1/Mazu/HeroImage_Mazu.jpg
+  - infopic:
+      title: Remembering the Part-Time Libraries
+      subtitle: Places and Buildings
+      id: infopic
+      description: Part-time branch libraries served residents living in suburban
+        Singapore before fulltime public libraries were built.
+      button: BRINGING BOOKS TO THE PEOPLE
+      url: /vol-21/issue-2/jul-sep-2025/part-time-libraries/
+      image: /images/Vol 21 Issue 2/Part Time Libraries/parttimelib_topic.jpg
+      alt: Part-Time Libraries
   - infopic:
       title: The House of Cheang
       subtitle: People

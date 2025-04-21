@@ -10,10 +10,10 @@ By Foo Shu Tieng
 ![](/images/Vol%2021%20Issue%202/Archaeologic/archaeological_main.jpg)
 <div style="background-color:white;"><b>(Top, from left)</b> Bone tool from Perlis; neolithic tool from Tanjong Bunga, Johor; neolithic kiln-stand from Tui Gold Mine, Pahang; hoabinhian biface tool from Gua Musang, Kelantan; stone bark-cloth beater from Ampang, Selangor. <b>(Bottom, from left)</b> Hoabinhian biface tool from Pahang; necked stone axe from Guak Kepah, Province Wellesley; round-axe from Baling, Kedah; round axe from Tanjong Bunga, Johor.   <i>Images reproduced from M.W.F. Tweedie, “The Stone Age in Malaya,” Journal of the Malayan Branch of the Royal Asiatic Society 26, no. 2 (162) (October 1953): plate 10. (From JSTOR via NLB’s eResources website). </i></div>
 
+The Raffles Library and Museum, the predecessor of today’s National Library Singapore, played an important role in the archaeological research of the region. While there was some archaeological research about the Malay Peninsula in the 19th century, it was only from the mid-1930s, under the leadership of the museum, that the pace and intensity of these activities increased.[^1]
+
 ![](/images/Vol%2021%20Issue%202/Archaeologic/archaeological_bama.jpg)
 <div style="background-color:white;">Neolithic potsherd from Gua Bama, Pahang (top) and neolithic potsherd from Baling Kedah (left).  <i> Images reproduced from M.W.F. Tweedie, “The Stone Age in Malaya,” Journal of the Malayan Branch of the Royal Asiatic Society 26, no. 2 (162) (October 1953): plate 10. (From JSTOR via NLB’s eResources website). </i></div>
-
-The Raffles Library and Museum, the predecessor of today’s National Library Singapore, played an important role in the archaeological research of the region. While there was some archaeological research about the Malay Peninsula in the 19th century, it was only from the mid-1930s, under the leadership of the museum, that the pace and intensity of these activities increased.[^1]
 
 With Eugène Dubois’ discovery of the Java Man (_Homo erectus_) fossils in 1891–92 at Trinil on the island of Java, Asia was thought to be “the cradle of mankind”.[^2] Gold ornaments discovered at Fort Canning in 1928 also hinted at Singapore’s potential antiquity.[^3] Grafton Elliot Smith – an Australian anatomy professor who famously x-rayed Egyptian mummies to learn about mummification methods and theorised about the way brains evolved – had also urged for more work in the study of ancient times in Malaya in 1931. He lamented that it was “particularly humiliating to us as Englishmen that so little is being done” in comparison to what the Dutch and French researchers were able to achieve in the region.[^4]
 
@@ -23,6 +23,9 @@ Those funds were supplemented by a donation from the Empire Grants Committee of 
 
 This would culminate with the Straits Settlements (comprising Melaka, Penang and Singapore) – represented by the Raffles Library and Museum – hosting its first congress on prehistory in Singapore in January 1938: the Third Congress of Prehistorians of the Far East. These meetings, which rotated its hosts, would later be formalised as the Far-Eastern Prehistory Association in 1953 and reorganised in 1976 as the Indo-Pacific Prehistory Association.[^9]
 
+![](/images/Vol%2021%20Issue%202/Archaeologic/archaeological_delegates.jpg)
+<div style="background-color:white;">Delegates at the 1938 Third Congress of Prehistorians to the Far East in Singapore admiring Neolithic finds. (From left) H.D. Collings, assistant curator of the Raffles Museum, F.N. Chasen, director of the Raffles Museum, Mrs Von Koengiswald, F.D. McCarthy, G.H.R. von Koenigswald, A.L. Hoops and Charlton Maxwell.  <i> Image reproduced from “Malaya in Ancient Times,” Singapore Free Press and Mercantile Advertiser, 25 January 1938, 2. (From NewspaperSG). </i></div>
+
 From an attendance of just 30 delegates in 1938, the participation grew to some 800 archaeologists and cultural heritage professionals who attended the congress in Chiang Mai, Thailand, in November 2022.[^10]
 
 The 1938 congress in Singapore offered visitors and researchers the opportunity to look at displays of stone tools collectively from across the Asian region at the “Hall of Asiatic Prehistory” at the Raffles Museum, an important milestone that would allow for later regional cross-comparisons. The first of its kind in the Malay Peninsula, the congress generated so much public interest that some Malayan newspapers even reported which ship the delegates had arrived on.[^11]
@@ -31,12 +34,15 @@ The 1938 congress in Singapore offered visitors and researchers the opportunity 
 
 With its new-found funding and support, the Raffles Library and Museum began work. One of the first sites to be excavated was Guar Kepah in Penang. The dig, in 1934, was funded not only by a special grant by the Straits Settlements government but also with CCNY funds in its final stages.[^12]
 
+![](/images/Vol%2021%20Issue%202/Archaeologic/archaeological_midden.jpg)
+<div style="background-color:white;">The northern end of a shell midden at Guar Kepah.  <i> Image reproduced from P.V. van Stein Callenfels, “An Excavation of Three Kitchen Middens at Guak Kepah, Province Wellesley, Straits Settlements,” Bulletin of the Raffles Museum Singapore, Straits Settlements, Series B, no. 1 (May 1936), Plate XXX, Figure 1. (From National Library Online). </i></div>
+
 The excavation in Guar Kepah built on the survey reports of George Windsor Earl, the Resident Councillor of Penang, who first reported the site in 1860, and Ivor H.N. Evans, an ethnographer and pioneering archaeologist based at the Perak Museum in Taiping (a part of the Federated Malay States \[FMS\] Museums), who revisited the site in 1930.[^13]
 
 One of the places Evans visited in Penang was Guar Kepah. This site consisted of three shell middens (mounds where shell remains formed the majority of artefacts), near the south bank of the Muda River, and is now estimated to be in use between 5,000 and 6,000 years ago.
 
 ![](/images/Vol%2021%20Issue%202/Archaeologic/archaeological_shell.jpg)
-<div style="background-color:white;"> A side profile photo of a shell midden at Guar Kepah. <i>Image reproduced from P.V. van Stein Callenfels, “An Excavation of three Kitchen Middens at Guak Kepah, Province Wellesley, Straits Settlements,” Bulletin of the Raffles Museum Singapore, Straits Settlements, Series B, no. 1 (May 1936), Plate XXX, Fig 2. (From National Library Online).</i></div>
+<div style="background-color:white;"> A side profile photo of a shell midden at Guar Kepah. <i>Image reproduced from P.V. van Stein Callenfels, “An Excavation of Three Kitchen Middens at Guak Kepah, Province Wellesley, Straits Settlements,” Bulletin of the Raffles Museum Singapore, Straits Settlements, Series B, no. 1 (May 1936), Plate XXX, Figure 2. (From National Library Online).</i></div>
 
 Evans reported that the top section of the Guar Kepah mound he saw had been mined for its lime by lime burners (lime has several industrial applications such as in construction, or for agriculture), and that “the remains of it are only elevated about two or three feet above the surrounding land”.[^14]
 
@@ -48,6 +54,9 @@ Evans had trained under, and collaborated with, the renowned Dutch prehistorian 
 In the 1934 Guar Kepah dig, Callenfels, who had excavated a similar shell midden site in Sumatra at Saentis near Medan, was the lead researcher responsible for the excavation report that would eventually be published in the first issue of the _Bulletin of the Raffles Museum_ (Series B) in May 1936.[^17] He also publicised the discoveries via the _Illustrated London News_, which was later reprinted by the _Malaya Tribune_ in January 1935. Not only were stone tools discovered, but human remains were also found at the site. Callenfels wrote: “Certain facts point to so-called secondary burials, the body being exposed to a tree, or somewhere else in the jungle, till the flesh decayed, when the remaining bones were collected and interred. Another interesting fact is that all the skulls were profusely sprinkled with powdered red shale.”[^18]
 
 As Callenfels was a recognised expert in the prehistory of Southeast Asia and had worked in many parts of Asia, he had an extensive network and was a key figure in applying for the CCNY funds for the Guar Kepah project.[^19]
+
+![](/images/Vol%2021%20Issue%202/Archaeologic/archaeological_caricature.jpg)
+<div style="background-color:white;"> A caricature of P.V. van Stein Callenfels in the 17 June 1934 issue of the <i>Sunday Tribune newspaper. (From NewspaperSG).</i></div>
 
 Michael Willmer Forbes Tweedie (M.W.F. Tweedie) and Herbert Dennis Collings (H.D. Collings), curator and assistant curator respectively at the Raffles Library and Museum, had supervised the Guar Kepah excavations. They were influenced by Callenfels’ use of systematic survey equipment such as a theodolite (which can measure width \[distance\] and depth) and compass in recording finds, although the method of stratigraphic recording (documenting soil layers in order to understand a sequence of events based on geological principles) and analysis would not be used until much later, in the mid-1950s.[^20]
 
@@ -71,12 +80,47 @@ A study of the CCNY’s allocation of Commonwealth funds published in 1963 showe
 
 Thanks to a confluence of factors, archaeological research began at the Raffles Library and Museum in the 1930s.&nbsp;
 
+![](/images/Vol%2021%20Issue%202/Archaeologic/archaeological_table.jpg)
+<div style="background-color:white;"> Source:&nbsp;M.W.F. Tweedie, “The Stone Age in Malaya.” <i>Journal of the Malayan Branch of the Royal Asiatic Society</i> 26, no. 2 (162) (October 1953). (From JSTOR via NLB’s eResources website)</div>
+
 Are there possibilities for further research? This is feasible since the private papers of H.D. Collings are now at the Suffolk Archives as he returned to the United Kingdom in his later years.[^30] However, some of the key personnel involved in the early archaeological projects died early.&nbsp;
 
 According to Tweedie’s final report to the CCNY dated 28 August 1946, Chasen lost his life in 1942 while attempting to flee Singapore on the eve of the Japanese invasion. Herbert Deane Noone (better known as H.D. Noone or Pat Noone), who was based at the Perak Museum in Taiping and responsible for the expenditure of CCNY funds in later years (such as the excavations in Kelantan in 1941), joined the guerrilla fighters during World War II and disappeared in 1943.[^31]
 
 Noone’s manuscript and personal papers were either lost in the looting of the Perak Museum in December 1941, or kept with Noone when he went into the jungle and disappeared.[^32] As for the Guar Kepah site, it has transformed into a cultural resource today, with many more researchers investigating the site and its artefacts in later periods. The Guar Kepah Archaeological Gallery is slated to open to display various finds.[^33]
 
+![](/images/Vol%2021%20Issue%202/Archaeologic/archaeological_gallery.jpg)
+<div style="background-color:white;">The Guar Kepah Archaeological Gallery&nbsp;in Penang will be opening soon.  <i>Photo by Foo Shu Tieng.</i></div>
+
+
+<div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
+<b>BOOKS RELATING TO THE HISTORY OF ARCHAEOLOGICAL RESEARCH IN SINGAPORE</b><br><br>
+As the Raffles Library and Museum was a predecessor institution to the current National Library and the National Museum of Singapore (with the Lee Kong Chian Natural History Museum inheriting much of the Raffles Museum’s zoological reference collections), the National Library still retains many of the official publications relating to the prehistory of Malaya from this period.
+	<br><br>
+These include some prewar publications such as the <i>Bulletin of the Raffles Museum</i> (Series B, nos. 1–4) which have been digitised, as well as postwar publications such as Michael Willmer Forbes Tweedie’s “Stone Age in Malaya” (1953) and <i>Prehistory of Malaya</i> (1955). There is also <i>Stone Adzes of Southeast Asia: An Illustrated Typology</i> by Roger Duff and published in 1970, describing many of the prehistoric stone tools collected at the Raffles Museum from this period.
+	<br><br>
+The National Library also has some resources relating to Pieter Vincent van Stein Callenfels’ life and publications, but a few require more careful reading. Several publications suggest, for example, that Callenfels was the inspiration behind the character, Professor Challenger, the protagonist in Sir Arthur Conan Doyle’s <i>The Lost World</i>. But Doyle clarified that he had modelled the peculiarities of Professor Challenger on Professor John Rutherford, an eminent Scottish physician at the University of Edinburgh Medical School.
+	<br><br>
+<b>REFERENCES</b><br> 
+Bloembergen, Marieke and Martijn Rickhoff. “The Colonial Archaeological Hero Reconsidered,” In Historical Approaches to Past Archaeological Research, edited by Gisela Eberthardt and Fabian Link, 144. Berlin: Edition Topoi, 2015. Accessed 2 January 2025, <a href="http://dx.doi.org/10.17171/3-32">http://dx.doi.org/10.17171/3-32 </a>.
+<br> <br> 
+<a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=df2c59db-0c25-4632-8c11-a57af3621aec"> <i>Bulletin of the Raffles Museum Singapore, Straits Settlements</i> </a>, Series B, no. 1 (May 1936). (From National Library Online)
+<br> <br> 
+<a href="https://www.nlb.gov.sg/main/Book-Detail-Page?cmsUuID=5d376acc-3599-45d7-8275-19f10e537f63"> <i>Bulletin of the Raffles Museum, Colony of Singapore</i> </a>, Series B, no. 4 (December 1949). (From National Library Online)
+<br> <br> 
+Duff, Roger. <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=68544"> <i>Stone Adzes of Southeast Asia: An Illustrated Typology</i> </a>. Christchurch: Canterbury Museum Trust Board, 1970. (From National Library Singapore, call no. RUR 915.903 DUF)
+<br> <br> 
+Doyle, Arthur Conan. Memories and Adventures. Boston: Little, Brown, and Company, 1924. Project Gutenberg. Accessed 9 January 2025,  <a href="https://www.gutenberg.org/cache/epub/66991/pg66991-images.html">https://www.gutenberg.org/cache/epub/66991/pg66991-images.html </a>.
+<br> <br> 
+Ghosh, Nirmala. “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19931225-1.2.26.6">Face Lift for a Grande Dame </a>.” <i>Business Times</i>, 25 December 1993, 18. (From NewspaperSG)
+<br> <br> 
+McKie, R.C.H. “Callenfels of the Indies: Burly Scientist and ‘Character’.” <i>Sydney Morning Herald</i>, 11 June 1938, 13, <a href="https://trove.nla.gov.au/newspaper/article/17470496">https://trove.nla.gov.au/newspaper/article/17470496 </a>.
+<br> <br> 
+Swanenburg, B.D. <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4407517"> <i>Iwan De Verschrikkelijke: Leven En Eerken Van Dr. P.V. van Stein Callenfels</i> </a> [Ivan the Terrible: Life and Works of Dr. P.V. van Stein Callenfels]. Maastricht: Feiter Nypels, 1951. (From National Library Singapore, call no. RUR 930.1092 SWA)
+<br> <br> 
+Tweedie, Michael Willmer Forbes. “The Stone Age in Malaya.” <i>Journal of the Malayan Branch of the Royal Asiatic Society</i> 26, no. 2 (162) (October 1953): 3–90. (From JSTOR via NLB’s <a href="http://eresources.nlb.gov.sg/"> eResources </a> website) 
+<br> <br> 
+Van Stein Callenfels, Pieter Vincent. <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4574368"> <i>Pedoman Singkat Untuk Pengumpulan Prasedjarah Dari Lembaga Kebudajaan Indonesia</i> </a>. Bandung: A.C. Nix, 1950. (From National Library, call no. RDTYS 572.95 STE)<br></div>
 
 	
 <div style="background-color: white;">
