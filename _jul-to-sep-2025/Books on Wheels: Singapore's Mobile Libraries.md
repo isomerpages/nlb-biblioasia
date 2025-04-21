@@ -175,7 +175,7 @@ In September 2016, a new vehicle known as “Big Molly”, also sponsored by the
 
 <div style="background-color: white;">
 <br>
-<img src="![](/images/Vol%2021%20Issue%202/Books%20on%20Wheels/Mobile_library_staff.jpg)/images/Vol%2021%20Issue%202/Books%20on%20Wheels/Inside_Big_Molly.png" style="width: 80%;">The interior of Big Molly, 2016.<i> Collection of the National Library Board. </i></div>
+<img src="/images/Vol%2021%20Issue%202/Books%20on%20Wheels/Mobile_library_staff.jpg" style="width: 60%;">Assistant Library Officer Mohan M. (left) and Library Officer Wesley Agustian on duty at Big Molly, Marine Terrace, 29 March 2025.<i> Photo by Jimmy Yap. </i></div>
 
 <div style="background-color: white;">
 <br>
