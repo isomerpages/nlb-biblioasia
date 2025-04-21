@@ -17,6 +17,16 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 21 Issue 1/Mazu/HeroImage_Mazu.jpg
   - infopic:
+      title: Remembering the Part-Time Libraries
+      subtitle: Places and Buildings
+      id: infopic
+      description: Part-time branch libraries served residents living in suburban
+        Singapore before fulltime public libraries were built.
+      button: BRINGING BOOKS TO THE PEOPLE
+      url: /vol-21/issue-2/jul-sep-2025/part-time-libraries/
+      image: /images/Vol 21 Issue 2/Part Time Libraries/parttimelib_topic.jpg
+      alt: Part-Time Libraries
+  - infopic:
       title: The House of Cheang
       subtitle: People
       id: infopic
@@ -1178,14 +1188,4 @@ sections:
       url: /vol-21/issue-2/jul-sep-2025/mother-hedwig-anuar-shirin-aroozoo/
       image: /images/Vol 21 Issue 2/Hedwig/Hedwig_Anuar_daughter_topic.jpg
       alt: My Mother Hedwig Anuar
-  - infopic:
-      title: Remembering the Part-Time Libraries
-      subtitle: Places and Buildings
-      id: infopic
-      description: Part-time branch libraries served residents living in suburban
-        Singapore before fulltime public libraries were built.
-      button: BRINGING BOOKS TO THE PEOPLE
-      url: /vol-21/issue-2/jul-sep-2025/part-time-libraries/
-      image: /images/Vol 21 Issue 2/Part Time Libraries/parttimelib_topic.jpg
-      alt: Part-Time Libraries
 ---
