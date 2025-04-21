@@ -1187,5 +1187,5 @@ sections:
       button: BRINGING BOOKS TO THE PEOPLE
       url: /vol-21/issue-2/jul-sep-2025/part-time-libraries/
       image: /images/Vol 21 Issue 2/Part Time Libraries/parttimelib_topic.jpg
-      alt: Image alt text
+      alt: Part-Time Libraries
 ---
