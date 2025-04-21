@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-12/issue-4/jan-mar-2017/windows-into-history/
-      button: Windows into History
+      url: /vol-21/issue-1/apr-jun-2025/mazu-goddess-of-the-sea-worship-birthday-thian-hock-keng/
+      button: Mazu Worship in Singapore
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol-12-issue-4/windows-into-history/windows_history_hero1.png
+      background: /images/Vol 21 Issue 1/Mazu/HeroImage_Mazu.jpg
   - infopic:
       title: The House of Cheang
       subtitle: People
