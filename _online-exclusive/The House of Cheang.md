@@ -13,10 +13,6 @@ On Pasir Panjang Road stands one of the last grand houses that used to line the 
 <br>
 <img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/house_pasir_panjang.png" style="width: 80%;">The house at 233 Pasir Panjang Road, built circa 1937 by Cheang Jim Chuan. It was originally numbered 113 and named Palm Beach.<i> Courtesy of Professor Walter Woon.</i></div>
 
-<div style="background-color: white;">
-<br>
-<img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/Cheanh_Hong_Lim.png" style="width: 60%;">This photo of Cheang Hong Lim adorned the walls in the homes of many of his descendants, even two generations removed.<i> Courtesy of Professor Walter Woon.</i></div>
-
 #### **Cheang Sam Teo and the Opium Farm**
 
 According to family tradition, Cheang Hong Lim’s father, Cheang Sam Teo (d. 1862), left Teang Thye Village in Fukien Province, China, around 1820. He may have first gone to Batavia (now Jakarta) in the Netherlands East Indies, where migrants from Teang Thye had established a temple.[^2] Cheang Sam Teo, together with Tay Han Long (father of Tay Ho Swee), had a business at Telok Ayer Street under the chop Teang Wat.[^3] Cheang Sam Teo made his fortune trading in the Nanyang, and, by the 1840s, had become the Opium Farmer in Singapore.[^4]
@@ -36,6 +32,10 @@ In the 1840s, Cheang Sam Teo and some other merchants formed a syndicate to acqu
 #### **Cheang Hong Lim**
 
 Cheang Hong Lim (1841–93) was one of the great philanthropists of Singapore and is commemorated by two streets in Singapore: Cheang Hong Lim Place and Cheang Wan Seng Place (Cheang Hong Lim’s business was conducted under the name Chop Wan Seng).[^13]
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/Cheanh_Hong_Lim.png" style="width: 60%;">This photo of Cheang Hong Lim adorned the walls in the homes of many of his descendants, even two generations removed.<i> Courtesy of Professor Walter Woon.</i></div>
 
 Besides being the farmer for opium and spirits, he also owned extensive tracts of land in Chinatown and was a “large house-property owner” particularly along Havelock Road. In 1876, he contributed funds to convert the empty land in front of the then-Police Courts into a public garden.[^14] This still bears his name today as Hong Lim Park.&nbsp; He also owned Hong Lim Market and would advance money liberally to stallholders. According to Song Ong Siang in _100 Years’ History of the Chinese in Singapore,_ “\[Cheang Hong Lim\] was a man who trusted too readily to other people’s honesty”.&nbsp; When he died, it was discovered that the enormous sum of over $400,000 had been lent to “friends” and could not be recovered.[^15]
 
