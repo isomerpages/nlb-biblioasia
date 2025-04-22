@@ -1,6 +1,6 @@
 ---
 title: Pioneering Archaeological Research
-permalink: /holding-area/vol-21/issue-2/jul-sep-2025/pioneering-archaeological-research/
+permalink: /vol-21/issue-2/jul-sep-2025/archaeology-research-national-library-museum/
 variant: markdown
 description: ""
 ---
