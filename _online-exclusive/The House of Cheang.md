@@ -37,11 +37,11 @@ Cheang Hong Lim (1841–93) was one of the great philanthropists of Singapore an
 <br>
 <img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/Cheanh_Hong_Lim.png" style="width: 60%;">This photo of Cheang Hong Lim adorned the walls in the homes of many of his descendants, even two generations removed.<i> Courtesy of Professor Walter Woon.</i></div>
 
-Besides being the farmer for opium and spirits, he also owned extensive tracts of land in Chinatown and was a “large house-property owner” particularly along Havelock Road. In 1876, he contributed funds to convert the empty land in front of the then-Police Courts into a public garden.[^14] This still bears his name today as Hong Lim Park.&nbsp; He also owned Hong Lim Market and would advance money liberally to stallholders. According to Song Ong Siang in _100 Years’ History of the Chinese in Singapore,_ “\[Cheang Hong Lim\] was a man who trusted too readily to other people’s honesty”.&nbsp; When he died, it was discovered that the enormous sum of over $400,000 had been lent to “friends” and could not be recovered.[^15]
+Besides being the farmer for opium and spirits, he also owned extensive tracts of land in Chinatown and was a “large house-property owner” particularly along Havelock Road. In 1876, he contributed funds to convert the empty land in front of the then Police Courts into a public garden.[^14] This still bears his name today as Hong Lim Park.&nbsp; He also owned Hong Lim Market and would advance money liberally to stallholders. According to Song Ong Siang in _100 Years’ History of the Chinese in Singapore,_ “\[Cheang Hong Lim\] was a man who trusted too readily to other people’s honesty”.&nbsp; When he died, it was discovered that the enormous sum of over $400,000 had been lent to “friends” and could not be recovered.[^15]
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/hong_lim_green.png" style="width: 80%;">Hong Lim Green was later renamed as Hong Lim Park, c. 1900.<i> Image reproduced from Singapore River planning area: Planning report 1994 (Singapore: Urban Redevelopment Authority, 1994), 7. (From National Library Singapore, call no.: RSING 711.4095957 SIN).</i></div>
+<img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/hong_lim_green.png" style="width: 80%;">Hong Lim Green was later renamed as Hong Lim Park, c. 1900.<i> Image reproduced from Singapore River Planning Area: Planning Report 1994 (Singapore: Urban Redevelopment Authority, 1994), 7. (From National Library Singapore, call no.: RSING 711.4095957 SIN).</i></div>
 
 <div style="background-color: white;">
 <br>
@@ -49,7 +49,7 @@ Besides being the farmer for opium and spirits, he also owned extensive tracts o
 
 Among his many public contributions to Singapore and the Straits Settlements was his donation to the Convent of the Holy Infant Jesus (today’s Chijmes) for the construction of the long building on its southern boundary.[^16] He also supported the charitable school in Penang, the Dutch elementary school and the Portuguese kindergarten. Together with his eldest son, Cheang Jim Hean, he established Yangzheng Academy, which taught Chinese and Western studies with six Chinese and six English teachers.[^17]
 
-His generosity extended beyond the Colony.&nbsp; He regularly contributed to flood and disaster relief in China, India and Egypt, raising large sums for the purpose. His philanthropy included hospitals, orphanages, homeless shelters, shelters for widows and community cemeteries.[^18]
+His generosity extended beyond Singapore.&nbsp; He regularly contributed to flood and disaster relief in China, India and Egypt, raising large sums for the purpose. His philanthropy included hospitals, orphanages, homeless shelters, shelters for widows and community cemeteries.[^18]
 
 Despite being in Singapore, Cheang Hong Lim supported China’s various war efforts. In 1869, he bought weapons and helped to transport provisions for troops defending Fukien against the French; in 1884 he provided intelligence on French military movements against China. For his efforts in supporting the coastal defense in Fukien, the Governor-General of the Fukien Province conferred upon him the title of Circuit Intendant.[^19] Ironically, on the recommendation of Bishop Edouard Gasnier of Malacca-Singapore, he also received a medal for his acts of charity in Saigon (Vietnam) from the French Government, who were presumably unaware of his support of China against French aggression.[^20]
 
