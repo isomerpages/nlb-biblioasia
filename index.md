@@ -1188,4 +1188,14 @@ sections:
       url: /vol-21/issue-2/jul-sep-2025/mother-hedwig-anuar-shirin-aroozoo/
       image: /images/Vol 21 Issue 2/Hedwig/Hedwig_Anuar_daughter_topic.jpg
       alt: My Mother Hedwig Anuar
+  - infopic:
+      title: "Pages of Progress: The Toa Payoh Public Library"
+      subtitle: Places and Buildings
+      id: infopic
+      description: Before the Toa Payoh Public Library, the building was used as the
+        secretariat for the 7th SEAP Games.
+      button: THE SECOND BRANCH LIBRARY
+      url: /vol-21/issue-2/jul-sep-2025/toa-payoh-public-library/
+      image: /images/Vol 21 Issue 2/Toa Payoh/Toa_Payoh_Library.jpg
+      alt: The Toa Payoh Public Library
 ---
