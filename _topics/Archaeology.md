@@ -4,6 +4,12 @@ permalink: /topics/archaeology/
 description: ""
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/archaeology-research-national-library-museum/">Pioneering Archaeological Research</a>
+
+Research into Malaya’s prehistory took off in the 1930s under the leadership of the Raffles Library and Museum.
+  
+<img src="/images/Vol%2021%20Issue%202/Archaeologic/archaeological_main.jpg" style="width:70%;">
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-19/issue-3/oct-dec-2023/acehnese-chinese-gold-coins">Revisiting the Mystery of the Missing Gold Coins</a>
 Two ancient gold coins, probably from Aceh, were discovered in Singapore in the middle of the 19th century. Unfortunately, they disappeared a few decades later.
   
