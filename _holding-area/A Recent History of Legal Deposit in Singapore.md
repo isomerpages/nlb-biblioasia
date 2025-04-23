@@ -81,24 +81,24 @@ The Legal Deposit electronic collection is available for viewing at a designated
 
 #### **Notes**
 
-[^1]:  Ivy Lee, “Preserving Our Published Heritage,” _BiblioAsia_ 11, no. 4 (January–March 2016): 122–24.
+[^1]:  Ivy Lee, “[Preserving Our Published Heritage](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/preservation-published-heritage-national-library-legal-deposit/),” _BiblioAsia_ 11, no. 4 (January–March 2016): 122–24.
 
-[^2]: Republic of Singapore, National Library Board (Amendment) Act 2018, No. 30 of 2018, _Government Gazette Acts Supplement_, Singapore Statutes Online, last updated 30 March 2025, https://sso.agc.gov.sg/Acts-Supp/30-2018/Published/20180813?DocDate=20180813.
+[^2]: Republic of Singapore, National Library Board (Amendment) Act 2018, No. 30 of 2018, _Government Gazette Acts Supplement_, Singapore Statutes Online, last updated 30 March 2025, [https://sso.agc.gov.sg/Acts-Supp/30-2018/Published/20180813?DocDate=20180813](https://sso.agc.gov.sg/Acts-Supp/30-2018/Published/20180813?DocDate=20180813).
 
-[^3]: Hedwig Anuar, “Singapore’s National Library,” _Straits Times Annual_, 1 January 1962, 58–59. (From NewspaperSG)
+[^3]: Hedwig Anuar, “[Singapore’s National Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/stannual19620101-1.2.45),” _Straits Times Annual_, 1 January 1962, 58–59. (From NewspaperSG)
 
-[^4]: Un Hon Hing, “Not the Way to Encourage Local Writers,” _Straits Times_, 30 October 1976, 11. (From NewspaperSG)
+[^4]: Un Hon Hing, “[Not the Way to Encourage Local Writers](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19761030-1.2.48.1),” _Straits Times_, 30 October 1976, 11. (From NewspaperSG)
 
-[^5]: E. Klass, “Why Locally-Printed Books Must Go to N-Library,” _Straits Times_, 8 November 1976, 14. (From NewspaperSG)
+[^5]: E. Klass, “[Why Locally-Printed Books Must Go to N-Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19761108-1.2.97),” _Straits Times_, 8 November 1976, 14. (From NewspaperSG)
 
-[^6]: Lee Xuan Jin, “First Experience with PublicationSG,” Lycheekoala (blog), 24 September, 2020, https://lycheekoala.wordpress.com/2020/09/24/first-experience-with-publication-sg/.&nbsp;
+[^6]: Lee Xuan Jin, “First Experience with PublicationSG,” Lycheekoala (blog), 24 September, 2020, [https://lycheekoala.wordpress.com/2020/09/24/first-experience-with-publication-sg/.](https://lycheekoala.wordpress.com/2020/09/24/first-experience-with-publication-sg/)
 
-[^7]: National Library Board Singapore, “Memes,” PublicationSG, accessed 30 March 2025, https://eresources.nlb.gov.sg/publicationsg/collections.html?id=39a433a9-d24c-405d-817c-e13cd0630d2c. &nbsp;
+[^7]: National Library Board Singapore, “Memes,” PublicationSG, accessed 30 March 2025, [https://eresources.nlb.gov.sg/publicationsg/collections.html?id=39a433a9-d24c-405d-817c-e13cd0630d2c](https://eresources.nlb.gov.sg/publicationsg/collections.html?id=39a433a9-d24c-405d-817c-e13cd0630d2c). &nbsp;
 
-[^8]: “Did You Swing Back Then?” _Straits Times_, 8 April 2000, 14. (From Newslink via NLB’s eResources website)&nbsp;
+[^8]: “Did You Swing Back Then?” _Straits Times_, 8 April 2000, 14. (From Newslink via NLB’s [eResources](https://eresources.nlb.gov.sg/) website)
 
-[^9]: “IFLA Submits Comments on WIPO Artificial Intelligence and Intellectual Property,” International Federation of Library Associations and Institutions, 17 February 2020, https://www.ifla.org/news/ifla-submits-comments-on-wipo-artificial-intelligence-issues-paper/.
+[^9]: “IFLA Submits Comments on WIPO Artificial Intelligence and Intellectual Property,” International Federation of Library Associations and Institutions, 17 February 2020, [https://www.ifla.org/news/ifla-submits-comments-on-wipo-artificial-intelligence-issues-paper/](https://www.ifla.org/news/ifla-submits-comments-on-wipo-artificial-intelligence-issues-paper/).
 
-[^10]: “Meet Lynn Wong,” Lynn Wong, accessed 30 March 2025, https://lynnwong.com/; Lynn Wong Yuqing (@lynnwyq), Instagram, accessed 30 March 2025,&nbsp; https://www.instagram.com/lynnwyq/.&nbsp;
+[^10]: “Meet Lynn Wong,” Lynn Wong, accessed 30 March 2025, [https://lynnwong.com/](https://lynnwong.com/); Lynn Wong Yuqing (@lynnwyq), Instagram, accessed 30 March 2025,&nbsp; [https://www.instagram.com/lynnwyq/](https://www.instagram.com/lynnwyq/).
 
-[^11]: Sri Warisan Som Said Performing Arts Ltd, Facebook, accessed 30 March 2025, https://www.facebook.com/groups/sriwarisan/.
+[^11]: Sri Warisan Som Said Performing Arts Ltd, Facebook, accessed 30 March 2025, [https://www.facebook.com/groups/sriwarisan/](https://www.facebook.com/groups/sriwarisan/).
