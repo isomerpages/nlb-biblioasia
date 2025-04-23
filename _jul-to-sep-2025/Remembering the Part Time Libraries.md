@@ -24,7 +24,7 @@ These part-time libraries were usually small and did not have a large collection
 
 The first fulltime branch library established by the National Library was the Queenstown Branch Library, which opened in 1970 and located on Margaret Drive. Before fulltime branch libraries were opened, people could only rely on part-time libraries (and mobile libraries) if they could not afford the time or money to travel to Stamford Road.&nbsp;
 
-These part-time libraries thus played an important role in bringing books to outlying communities before a network of fulltime branch libraries was set up. Subsequently, these part-time libraries continued to exist as a stop-gap measure for new estates that did not yet have a fulltime branch library nearby. However, as the National Library’s network of libraries effectively fanned out throughout Singapore, the need for part-time libraries declined. The last part-time branch library in Whampoa was opened in 1981 and was shuttered six years later.
+These part-time libraries thus played an important role in bringing books to outlying communities before a network of fulltime branch libraries was set up. Subsequently, these part-time libraries continued to exist as a stop-gap measure for new estates that did not yet have a fulltime branch library nearby. However, as the National Library’s network of libraries effectively fanned out throughout Singapore, the need for part-time libraries declined. The last part-time branch library in Whampoa opened in 1981 and was shuttered six years later.
 
 
 #### **Expanding Library Services**
@@ -35,7 +35,7 @@ In May 1940, the Straits Settlements Association submitted a letter to the gover
 
 Around the same time, the Raffles Library’s committee of management was also considering extension plans of its own. It was keen to take over parts of the former St Andrew’s School on Stamford Road next door to set up a public library.[^5]
 
-F.N. Chasen, the director of the Raffles Library and Museum then, believed that such extensions were critical: “As I see it, the ideal library situation in this city is that every responsible person should have access to a well-stocked reference and lending library… For books are not luxuries; far from it: they are among the prime necessities of life.”[^6] However, as the library was subsidised by the government, it lacked the necessary funding for this extension. In July 1940, the government postponed the extension scheme citing cost concerns and other uses for the school building.[^7]
+F.N. Chasen, the director of the Raffles Library and Museum, believed that such extensions were critical: “As I see it, the ideal library situation in this city is that every responsible person should have access to a well-stocked reference and lending library… For books are not luxuries; far from it: they are among the prime necessities of life.”[^6] However, as the library was subsidised by the government, it lacked the necessary funding for this extension. In July 1940, the government postponed the extension scheme citing cost concerns and other uses for the school building.[^7]
 
 During the Japanese Occupation (1942–45), the Raffles Library and Museum was appropriated by the Japanese and&nbsp;renamed Syonan Tosyokan and Syonan Hakubutsukan&nbsp;respectively. When the war ended, it reopened to the public on 1 December 1945.[^8] Users promptly returned and within a year, membership at the Raffles Library reached its highest ever recorded.[^9]
 
