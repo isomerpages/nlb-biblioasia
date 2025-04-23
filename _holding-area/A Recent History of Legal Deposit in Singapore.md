@@ -11,6 +11,9 @@ For decades, legal deposit in the National Library laboured quietly in the backg
 
 To mark the 50th anniversary of Singapore’s independence and the 20th birthday of the National Library Board (NLB), the National Library launched PublicationSG, an online catalogue that made the more than one million legal deposit titles stored away for preservation available to the public for the first time.&nbsp;
 
+![](/images/Vol%2021%20Issue%202/Archaeologic/archaeological_---.jpg)
+<div style="background-color:white;"> The display of legal deposit titles at the launch of PublicationSG, 2015. <i> Collection of the National Library Singapore.  </i></div>
+
 Making the Legal Deposit Collection digitally searchable meant that a database about the items first had to be created and systemised – a monumental undertaking. For many months before the launch, staff were rostered to accession (assign barcodes) and catalogue the publications.&nbsp;
 
 The result of the rigorous mobilisation led to the creation of more than 800,000 records for items in the Legal Deposit Collection, almost eight times more than the volume in a normal year. Concurrently, staff from the IT department worked on creating the PublicationSG microsite, while librarians crafted the policies and processes for accessing the materials.&nbsp;
