@@ -7,7 +7,7 @@ description: ""
 #### The scope of Legal Deposit in Singapore expanded to digital materials and web archiving in 2018.  
 By Samantha Chen
 
-For decades, legal deposit in the National Library laboured quietly in the background, collecting and preserving Singapore’s published heritage. In October 2015, PublicationSG (https://eresources.nlb.gov.sg/publicationsg/) thrust legal deposit into the spotlight. &nbsp;
+For decades, legal deposit in the National Library laboured quietly in the background, collecting and preserving Singapore’s published heritage. In October 2015, PublicationSG ([https://eresources.nlb.gov.sg/publicationsg/]{https://eresources.nlb.gov.sg/publicationsg/)) thrust legal deposit into the spotlight. &nbsp;
 
 To mark the 50th anniversary of Singapore’s independence and the 20th birthday of the National Library Board (NLB), the National Library launched PublicationSG, an online catalogue that made the more than one million legal deposit titles stored away for preservation available to the public for the first time.&nbsp;
 
