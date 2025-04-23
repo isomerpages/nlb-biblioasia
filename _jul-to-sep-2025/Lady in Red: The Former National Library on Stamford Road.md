@@ -28,7 +28,7 @@ The National Library on Stamford Road was officially inaugurated on 12 November 
 
 #### **A Philanthropist’s Donation**
 
-In 1953, businessman and philanthropist Lee Kong Chian donated $375,000 towards the building of the library. His contribution, which came with the stipulation that the library remain public and free for all, helped fund the construction on a site previously occupied by the St John’s Ambulance Headquarters and British Council Hall. Lee himself laid the foundation stone on 16 August 1957 and the total cost to construct the National Library – including land, construction and furnishings – was estimated at $2.5 million.[^3] (Prior to this, the library was located in the building that is now known as the National Museum of Singapore.)
+In 1953, businessman and philanthropist Lee Kong Chian donated $375,000 towards the building of the library. His contribution, which came with the stipulation that the library remain public and free for all, helped fund the construction on a site previously occupied by the St John’s Ambulance Headquarters and British Council Hall. Lee himself laid the foundation stone on 16 August 1957 and the total cost to construct the National Library – including land, construction and furnishings – was estimated at $2.5 million.[^3] (Prior to this, the library was located in the building that is now the National Museum of Singapore.)
 
 ![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_leekong.jpg)
 <div>Lee Kong Chian speaking at the foundation stone laying ceremony for the new National Library building, 16 August 1957. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
