@@ -1,5 +1,5 @@
 ---
-title: "Remembering the Lady in Red: The Former National Library on Stamford Road"
+title: "Lady in Red: The Former National Library on Stamford Road"
 permalink: /vol-21/issue-2/jul-sep-2025/national-library-stamford-road-photos/
 variant: markdown
 description: ""

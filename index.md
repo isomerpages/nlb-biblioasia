@@ -49,7 +49,7 @@ sections:
       image: /images/Podcast/Biblioasia_600_by_400_Gretchen_Liu.jpg
       alt: Bali Trip 1952
   - infopic:
-      title: "Remembering the Lady in Red: The Former National Library"
+      title: "Lady in Red: The Former National Library"
       subtitle: Places and Buildings
       id: infopic
       description: Beyond being a mere repository of books, the former landmark on
