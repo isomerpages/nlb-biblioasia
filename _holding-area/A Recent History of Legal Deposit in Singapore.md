@@ -33,11 +33,11 @@ Even as PublicationSG was being launched, preparations were already underway to 
 
 In July 2018, the passing of the National Library Board (Amendment) Act marked a second milestone for digital legal deposit, allowing the National Library to archive websites containing the .sg domain without the need for written permission from content owners.[^2]
 
-To prepare for the expanded role, the Web Archive Singapore portal (WAS, https://eresources.nlb.gov.sg/webarchives/landing-page) – an initiative that began in 2006 to archive Singapore-related websites – was revamped in August 2018 and incorporated into the Legal Deposit Collection.
+To prepare for the expanded role, the Web Archive Singapore portal (WAS, [https://eresources.nlb.gov.sg/webarchives/landing-page](https://eresources.nlb.gov.sg/webarchives/landing-page)) – an initiative that began in 2006 to archive Singapore-related websites – was revamped in August 2018 and incorporated into the Legal Deposit Collection.
 
 In anticipation of the statutory change, NLB held a two-day roadshow, _Our Published Heritage_, in November 2018 to help the public understand what legal deposit (physical and digital) is and why it is meaningful for Singapore.
 
-This was followed by the launch of the Deposit Portal (https://www.nlb.gov.sg/depositapp/) in 2021, a one-stop online portal for publishers to deposit their Singapore e-publications and apply for International Standard Numbers (a standardised international number that uniquely identifies a publication).
+This was followed by the launch of the Deposit Portal ([https://www.nlb.gov.sg/depositapp/](https://www.nlb.gov.sg/depositapp/)) in 2021, a one-stop online portal for publishers to deposit their Singapore e-publications and apply for International Standard Numbers (a standardised international number that uniquely identifies a publication).
 
 #### **Public Awareness&nbsp;**
 
@@ -78,7 +78,7 @@ When it comes to physical legal deposit items, NLB faces a perennial problem: th
 <div style="background-color:white;">This 1964 edition is a reprint of the tale of Hang Tuah retold and popularised by prominent British officer, Abdul Mubin Sheppard. It was published by Donald Moore, himself a notable contributor to Singapore's arts and publishing scene.<i> Collection of the National Library Singapore.</i></div>
 
 ![](/images/Vol%2021%20Issue%202/Legal%20Deposit/history_citizen.jpg)
-<div style="background-color:white;">好公民 (一上 – 六下) (1A–6B) (1996), or _Good Citizen_, is a series of moral education textbooks launched in 1981 to instil values and equip students with skills to be good individuals and useful citizens.<i> Collection of the National Library Singapore.</i></div>
+<div style="background-color:white;">好公民 (一上 – 六下) (1A–6B) (1996), or <i>Good Citizen</i>, is a series of moral education textbooks launched in 1981 to instil values and equip students with skills to be good individuals and useful citizens.<i> Collection of the National Library Singapore.</i></div>
 
 ![](/images/Vol%2021%20Issue%202/Legal%20Deposit/history_mata.jpg)
 <div style="background-color:white;"><i>Mata Intan</i> (1951), a love story, was written in Jawi by the popular Malay novelist Wijaya Mala. In the early years, it was not uncommon for books to be published in Jawi, Arabic or Javanese.<i> Collection of the National Library Singapore.</i></div>
