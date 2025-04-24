@@ -105,7 +105,7 @@ The Legal Deposit electronic collection is available for viewing at a designated
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/Gracie_Lee5.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/SamanthaChen.png">
 <b>Samantha Chen</b> is a Librarian with the National Library Singapore. She is part of the team overseeing statutory functions, including social media archiving and legal deposit.</div>
 	
 
