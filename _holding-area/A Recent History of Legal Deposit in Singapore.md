@@ -71,7 +71,7 @@ While legal deposit in Singapore started out as a regulation for publishers, the
 
 <div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
 <b>ACCESSING THE LEGAL DEPOSIT COLLECTION</b><br><br>
-Library members can search the NLB catalogue for PublicationSG materials and place a reservation to consult the Legal Deposit materials via the “Request for PublicationSG Materials” online form ( <a href="https://form.gov.sg/600008f1ba0ee20011f16351"> https://form.gov.sg/600008f1ba0ee20011f16351 </a>). For more information, visit <a href="https://eresources.nlb.gov.sg/publicationsg/"> https://eresources.nlb.gov.sg/publicationsg/</a>.<br><br>
+Library members can search the NLB catalogue for PublicationSG materials and place a reservation to consult the Legal Deposit materials via the “Request for PublicationSG Materials” online form (<a href="https://form.gov.sg/600008f1ba0ee20011f16351">https://form.gov.sg/600008f1ba0ee20011f16351 </a>). For more information, visit <a href="https://eresources.nlb.gov.sg/publicationsg/"> https://eresources.nlb.gov.sg/publicationsg/</a>.<br><br>
 The Legal Deposit electronic collection is available for viewing at a designated computer terminal at Level 11 of the Lee Kong Chian Reference Library at the National Library Building, Victoria Street.<br></div>
 
 
