@@ -87,6 +87,9 @@ More recently, developments in artificial intelligence (AI) technology mean that
 
 For now, NLB continues to grow its Legal Deposit Collection and has even embarked on social media archiving. An Instagram account that NLB has archived belongs to Lynn Wong Yuqing (@lynnwyq), a heritage consultant on a “mission to uncover, document, and revive disappearing foods, festivals, spaces, and communities in Singapore”.[^10] Sri Warisan Som Said Performing Arts Ltd, a multidisciplinary performing arts company, has likewise contributed their Facebook archives to NLB for preservation.[^11]
 
+![](/images/Vol%2021%20Issue%202/Legal%20Deposit/history_screenshot.jpg)
+<div style="background-color:white;"> Screenshot of Lynn Wong’s Instagram page (@lynnwyq).<i> Collection of the National Library Singapore.</i></div>
+
 Members of the public can get involved by recommending Instagram, Facebook and YouTube accounts for archiving via “Internet Gems”, the annual callout for public nominations. NLB intends to make the archived social media accounts accessible in future when the technology to do so has been developed.&nbsp;
 
 While legal deposit in Singapore started out as a regulation for publishers, the latest initiatives by the National Library show that the legal deposit statutory function has evolved to keep up with the times, one that has and continues to grow through interacting with legislation, publishers and the public.
