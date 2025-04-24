@@ -55,9 +55,15 @@ Because of its broad collecting scope, some materials may exist exclusively in l
 
 Legal deposit can also include materials with limited public circulation, or which are not commercially available. It can also encompass ephemeral formats such as campaign posters or programme booklets that are usually discarded, making them valuable primary sources.
 
+![](/images/Vol%2021%20Issue%202/Legal%20Deposit/history_map.jpg)
+<div style="background-color:white;"><i>Tourist Map</i> (1990) map published by the Singapore Mass Rapid Transit shows a map of Singapore with the four MRT lines. It also highlights places of interest.<i> Collection of the National Library Singapore. </i></div>
+
 Likewise, web-based materials are “snapshots” that preserve otherwise fleeting components of Singapore’s internet heritage. In view of the rapidly evolving digital landscape, NLB must be selective about the web-based materials it collects. For websites, the focus is on those with the .sg domain.&nbsp;
 
 NLB may also do more targeted collecting under special circumstances. The one-time collection of Covid-19 memes from SGAG is an example.[^7] Memes are a form of image-based digital communication that rely on recontextualising popular images circulated online. The SGAG memes play on Singaporean tropes to grapple with the reality of the pandemic, effectively capturing the zeitgeist of a Singapore during the 2020 circuit breaker.
+
+![](/images/Vol%2021%20Issue%202/Legal%20Deposit/history_meme2.jpg)
+<div style="background-color:white;"> A Covid-19 meme from SGAG, April–Jun 2020.<i> Collection of the National Library Singapore.</i></div>
 
 Last but not least, legal deposit documents the rich history of publishing itself, and testifies to a once-thriving writing, publishing and retail industry that has shaped Singapore's literary environment today.
 
