@@ -18,6 +18,9 @@ Making the Legal Deposit Collection digitally searchable meant that a database a
 
 The result of the rigorous mobilisation led to the creation of more than 800,000 records for items in the Legal Deposit Collection, almost eight times more than the volume in a normal year. Concurrently, staff from the IT department worked on creating the PublicationSG microsite, while librarians crafted the policies and processes for accessing the materials.&nbsp;
 
+![](/images/Vol%2021%20Issue%202/Legal%20Deposit/history_selection.jpg)
+<div style="background-color:white;">  A selection of children’s folktales shows how these have evolved over time to focus more on Singapore tales. <i> Collection of the National Library Singapore. </i></div>
+
 The launch of PublicationSG was accompanied by an exhibition at the National Library Building from October 2015 to February 2016. To introduce this “new” collection, librarians and curators showcased significant publications from the Legal Deposit Collection, particularly lifestyle-related materials of Singapore’s history that would resonate with Singaporeans.&nbsp;
 
 Highlights included the July 1960 inaugural issue of _Her World_ magazine, the first issue of the Singapore Armed Forces’ _Pioneer_ magazine in 1969, and the programme booklet commemorating the foundation stone-laying ceremony of Clyde Terrace Market on 29 March 1873.[^1]
@@ -41,6 +44,9 @@ This was followed by the launch of the Deposit Portal (https://www.nlb.gov.sg/de
 The _Our Published Heritage_ roadshow gave focus to the breadth of Singapore’s published heritage and underscored the importance of preserving it. However, legal deposit’s “national character” – a term that Director of the National Library Hedwig Anuar had used to describe the Legal Deposit Collection in 1962[^3] – is sometimes interpreted differently by publishers and the public.
 
 In 1976, a local author was peeved when the National Library notified him to deposit five copies of his booklet at his own expense with the library, instead of purchasing lending copies to reward him for his contributions.&nbsp; He had the misconception that only local writers and not others had to deposit their works.[^4] The National Library had to clarify that the function of legal deposit was to preserve Singapore’s published heritage, and that the legislation applied to all writers. The library also assured him that copies of his book had been purchased for loan purposes.[^5]
+
+![](/images/Vol%2021%20Issue%202/Legal%20Deposit/history_planning.jpg)
+<div style="background-color:white;">This 1980 poster by the Singapore Family Planning and Population Board encouraged Singaporeans to have only two children.<i> Collection of the National Library Singapore. </i></div>
 
 #### **Collection Highlights&nbsp;**
 
