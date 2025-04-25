@@ -192,10 +192,10 @@ But marrying a local woman was made very difficult by the low ratio of women to 
 
 As a Roman Catholic, the only viable option for marriage was with a fellow Roman Catholic. Marriage under the auspices of the church would not allow marriage with a non-believer.[^47] Marriage with a Protestant was tolerated and occasionally allowed by the clergy, but only after the Protestant partner signed an oath to allow their partner to continue as a Roman Catholic and to bring up their children as Roman Catholics.[^48] The options open to the newly arrived China-born men were therefore daunting. In Singapore, seeking a wife in the resident Peranakan Chinese community was not an option, for during this period (1830s to 1860s) there is little to no evidence of a pre-existing Roman Catholic Chinese Peranakan community. Even if they did exist, this community was unlikely to accept lowly China-born *sinkeh*[^49] men within their ranks, though of course exceptions could be made if one was already established, regarded as industrious or possessing
 potential.[^50] There are occasional references to a very small number of
-locally born Chinese women in the church.53 However, this, too, was very
+locally born Chinese women in the church.[^51] However, this, too, was very
 rare at this stage. Song did observe in his 1923 book that the majority of
 Singapore Peranakan families only went back three or four generations
-before descending from a pure Chinese progenitor,54 which ties in with
+before descending from a pure Chinese progenitor,[^52] which ties in with
 the findings of this study. Significantly, these early intermarriages between
 China-born men and Peranakan Kristang (both local-born and Melakaborn),
 Malay and indigenous women are therefore the start of a Singaporespecific
@@ -205,23 +205,23 @@ Marriages among the smaller groups, such as the Eurasians, Indians and
 Europeans, exhibit different dynamics. More recent Eurasian communities
 (18th and 19th centuries) that developed in places like Penang were generally
 the result of informal liaisons between local women and European colonial
-civil servants, soldiers or traders.55 Early Eurasian marriages (1833–43)
+civil servants, soldiers or traders.[^53] Early Eurasian marriages (1833–43)
 appear to indicate a willingness to pair off mainly with fellow Eurasians.
 However, in the following years, there was a shift towards marriages with
 local Chinese, Peranakan Kristang and Indians. European marriages had
 the social and political advantage of being associated with the prestige of
-the colonial master.56 European marriages with all racial groups were easily
+the colonial master.[^54] European marriages with all racial groups were easily
 accepted by all “subservient” communities; however, it is important to note
 that such marriages were relatively uncommon in that period. Illicit liaisons
 were common, and many Europeans preferred to have one or more Asian
-women at their sexual disposal rather than marry them.57 Indian marriages
+women at their sexual disposal rather than marry them.[^55] Indian marriages
 were negligible in number in comparison with their Chinese and Kristang
-Peranakan counterparts; large-scale Indian migration was still several decades away, coming only with the opening up of the rubber industry in the late 19th and early 20th centuries.58
+Peranakan counterparts; large-scale Indian migration was still several decades away, coming only with the opening up of the rubber industry in the late 19th and early 20th centuries.[^56]
 
 #### **Dynamics Behind Early Intermarriages**
-This research exists within an on-going academic discussion on the significance of intermarriage. Studies in the Netherlands by Matthijs Kalmijn and Frank van Tubergen found four determinants that supposedly influence a person’s propensity towards intermarriage. Firstly, the children of first-generation migrants, who are more integrated into their host society, are more likely to intermarry. Secondly, it is more common among those who arrive in their new country at a younger age. Thirdly, there is a higher inclination to intermarry among persons with a higher level of education. And finally, intermarriage is more common when there is an uneven group-specific sex ratio.59 Kalmijn and van Tubergen’s list of determinants is mostly borne out in the background of the early Teochew males. Many were young, educated and hence literate (many signed their marriage certificate in legible Chinese script) and lived in a society with a low group-specific sex ratio. However, the assertion that second-generation migrants are more likely to intermarry is contradicted by the Teochew men’s status as first-generation migrants.60
+This research exists within an on-going academic discussion on the significance of intermarriage. Studies in the Netherlands by Matthijs Kalmijn and Frank van Tubergen found four determinants that supposedly influence a person’s propensity towards intermarriage. Firstly, the children of first-generation migrants, who are more integrated into their host society, are more likely to intermarry. Secondly, it is more common among those who arrive in their new country at a younger age. Thirdly, there is a higher inclination to intermarry among persons with a higher level of education. And finally, intermarriage is more common when there is an uneven group-specific sex ratio.[^57] Kalmijn and van Tubergen’s list of determinants is mostly borne out in the background of the early Teochew males. Many were young, educated and hence literate (many signed their marriage certificate in legible Chinese script) and lived in a society with a low group-specific sex ratio. However, the assertion that second-generation migrants are more likely to intermarry is contradicted by the Teochew men’s status as first-generation migrants.[^58]
 
-Kalmijn has also asserted that intermarriage attenuates cultural distinctiveness.61 This is arguable. When there are significant cultural differences (such as racial ones), the family is forced, to varying degrees, to address the issue of “identity”. Under normal circumstances, all things being equal, patriarchal societal structures tend to underplay the role of the mother. However, the underlying circumstances in this case are different.
+Kalmijn has also asserted that intermarriage attenuates cultural distinctiveness.[^59] This is arguable. When there are significant cultural differences (such as racial ones), the family is forced, to varying degrees, to address the issue of “identity”. Under normal circumstances, all things being equal, patriarchal societal structures tend to underplay the role of the mother. However, the underlying circumstances in this case are different.
 
 The men were newly arrived foreigners with little to no connection with the
 region; moreover, as converts to Christianity, they were isolated from their
@@ -234,9 +234,9 @@ remain strong, even after the arrival of offspring.
 For example, this scenario is similar to one described by Sylvia van Kirk,
 who studied marriage dynamics in unions between Aboriginal females
 and white male settlers in Canada. Kirk emphasises how early instances
-of such marriages often followed Aboriginal marital practices.62 However,
+of such marriages often followed Aboriginal marital practices.[^60]  However,
 with the expansion of European settler control over traditional Aboriginal
-lands, settler authority and customs were pushed much more to the fore.63
+lands, settler authority and customs were pushed much more to the fore.[^61]
 In a similar way, over the years, Chinese-Kristang family members would
 gradually be absorbed into the Teochew or general Chinese Peranakan
 cultural milieu – one that came to enjoy a strong presence in the region.
@@ -414,45 +414,45 @@ McNamara, Anthony. “[The Letters of Fr. J. M. Beurel Relating to the Establish
 
 [^14]: Buckley, [_An Anecdotal History of Old Times in Singapore, 1819–1867_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082239), 1984/[1902](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717), 242.
 
-17 Spanish Padre Anselmo Yegros was mistakenly sent by the Portuguese Mission in Goa to Singapore to administer the Roman Catholic community. However, his already resident Portuguese counterpart, originally from Macao, refused to recognise this authority, and they parted ways. Padre Yegros appears to have struck up a friendship with the French Mission and worked with them until his departure in early 1833.
+[^15]: Spanish Padre Anselmo Yegros was mistakenly sent by the Portuguese Mission in Goa to Singapore to administer the Roman Catholic community. However, his already resident Portuguese counterpart, originally from Macao, refused to recognise this authority, and they parted ways. Padre Yegros appears to have struck up a friendship with the French Mission and worked with them until his departure in early 1833.
 
-18 Buckley, [_An Anecdotal History of Old Times in Singapore, 1819–1867_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082239), 1984/[1902](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717), 244–5.
+[^16]: Buckley, [_An Anecdotal History of Old Times in Singapore, 1819–1867_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082239), 1984/[1902](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717), 244–5.
 
-19 Buckley, [_An Anecdotal History of Old Times in Singapore, 1819–1867_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082239), 1984/[1902](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717), 248.
+[^17]: Buckley, [_An Anecdotal History of Old Times in Singapore, 1819–1867_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082239), 1984/[1902](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717), 248.
 
-20 Nadia Wright, “[Farquhar and Raffles: The Untold Story](https://biblioasia.nlb.gov.sg/vol-14/issue-4/jan-mar-2019/fnr-untold-story/),” _BiblioAsia,_ 14, no. 4 (January–March 2019); Bobby E. K. Sng, [_In His Good Time: The Story of the Church in Singapore, 1819–1978_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3846085) (Singapore: Graduates’ Christian Fellowship, 1980), 22 (From National Library Singapore, call no. RCLOS 275.957 SNG); Makepeace, Brooke and Braddell, [_One Hundred Years of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6203718)_,_ 1991, [1921](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4183132), 343.
+[^18]: Nadia Wright, “[Farquhar and Raffles: The Untold Story](https://biblioasia.nlb.gov.sg/vol-14/issue-4/jan-mar-2019/fnr-untold-story/),” _BiblioAsia,_ 14, no. 4 (January–March 2019); Bobby E. K. Sng, [_In His Good Time: The Story of the Church in Singapore, 1819–1978_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3846085) (Singapore: Graduates’ Christian Fellowship, 1980), 22 (From National Library Singapore, call no. RCLOS 275.957 SNG); Makepeace, Brooke and Braddell, [_One Hundred Years of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6203718)_,_ 1991, [1921](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4183132), 343.
 
-21 Song, [_One Hundred Years’ History of the Chinese in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=f8082431-1c7b-460e-b59c-bbc5793035a3), 46. Song quite rightfully points out how Buckley (1902) wrongly observed that most of these adherents were of Chinese descent.
+[^19]: Song, [_One Hundred Years’ History of the Chinese in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=f8082431-1c7b-460e-b59c-bbc5793035a3), 46. Song quite rightfully points out how Buckley (1902) wrongly observed that most of these adherents were of Chinese descent.
 
-22 “Good Shepherd,” _Baptism Registers_, vol. 1 (1832–67): various; “Good Shepherd,” _Liber Matrimonium_, vols. 2­–111 (1832–1857): various.
+[^20]: “Good Shepherd,” _Baptism Registers_, vol. 1 (1832–67): various; “Good Shepherd,” _Liber Matrimonium_, vols. 2­–111 (1832–1857): various.
 
-23 Liew C., “Persecution of Chinese Christians in Early Colonial Singapore 1845–1869” (Unpublished historical inquiry report, Roman Catholic Archdiocese of Singapore, 2016), 40–1. On 10 September 1833, Fr. Albrand mentions baptising four Chinese men, the youngest of whom is 25 years old.
+[^21]: Liew C., “Persecution of Chinese Christians in Early Colonial Singapore 1845–1869” (Unpublished historical inquiry report, Roman Catholic Archdiocese of Singapore, 2016), 40–1. On 10 September 1833, Fr. Albrand mentions baptising four Chinese men, the youngest of whom is 25 years old.
 
-24 Liew, “Persecution of Chinese Christians in Early Colonial Singapore 1845–1869,” 39–40.
+[^22]: Liew, “Persecution of Chinese Christians in Early Colonial Singapore 1845–1869,” 39–40.
 
-25 Eric Guerassimoff, “The Gangzhu of Johor: Memories of a French Missionary in Malaysia (1859–1870),” _Etudes Chinoises_ 15, no. 1 (1997): 107; “Good Shepherd.” See entry from December 1839.
+[^23]: Eric Guerassimoff, “The Gangzhu of Johor: Memories of a French Missionary in Malaysia (1859–1870),” _Etudes Chinoises_ 15, no. 1 (1997): 107; “Good Shepherd.” See entry from December 1839.
 
-26 Buckley, [_An Anecdotal History of Old Times in Singapore, 1819–1867_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082239), 1984/[1902](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717), 251.
+[^24]: Buckley, [_An Anecdotal History of Old Times in Singapore, 1819–1867_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082239), 1984/[1902](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717), 251.
 
-27 Letter addressed to the Superior and Directors of the Seminary of the Foreign Missions, dated 7 December 1847. Brother Anthony McNamara, “[The Letters of Fr. J. M. Beurel Relating to the Establishment of St. Joseph’s Institution Singapore](https://www.nas.gov.sg/archivesonline/private_records/record-details/df327c52-115b-11e3-83d5-0050568939ad),” translated, edited and with a monograph by Rev. Brother Anthony St. Xavier's Institution, Penang, private records, 1987. (From National Archives of Singapore accession no. 152; microfilm NA 1334)
+[^25]: Letter addressed to the Superior and Directors of the Seminary of the Foreign Missions, dated 7 December 1847. Brother Anthony McNamara, “[The Letters of Fr. J. M. Beurel Relating to the Establishment of St. Joseph’s Institution Singapore](https://www.nas.gov.sg/archivesonline/private_records/record-details/df327c52-115b-11e3-83d5-0050568939ad),” translated, edited and with a monograph by Rev. Brother Anthony St. Xavier's Institution, Penang, private records, 1987. (From National Archives of Singapore accession no. 152; microfilm NA 1334)
 
-28 Rerceretnam, “Intermarriage in Colonial Malaya and Singapore,” 318–21.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[^26]: Rerceretnam, “Intermarriage in Colonial Malaya and Singapore,” 318–21.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-29 “Good Shepherd,” various. See entries April 1833 to July 1843.&nbsp;
+[^27]: “Good Shepherd,” various. See entries April 1833 to July 1843.&nbsp;
 
-30 Philip Wee Peng Leng, oral history interview by P. Wee and M. Wee, 1904–1991, 18 August 1981; “Good Shepherd.” See entry from 6 September 1841.
+[^28]: Philip Wee Peng Leng, oral history interview by P. Wee and M. Wee, 1904–1991, 18 August 1981; “Good Shepherd.” See entry from 6 September 1841.
 
-31 “History of the Catholic Church in Singapore: The Virtual Exhibition: St. Joseph’s Church,” The Roman Catholic Archdiocese of Singapore, n.d.  
+[^29]: “History of the Catholic Church in Singapore: The Virtual Exhibition: St. Joseph’s Church,” The Roman Catholic Archdiocese of Singapore, n.d.  
   
-32 Liew, “Persecution of Chinese Christians in Early Colonial Singapore 1845–1869,” 72.
+[^30]: Liew, “Persecution of Chinese Christians in Early Colonial Singapore 1845–1869,” 72.
 
-33 Rerceretnam, [_Black Europeans, the Indian Coolies and Empire_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200145075), 50.
+[^31]: Rerceretnam, [_Black Europeans, the Indian Coolies and Empire_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200145075), 50.
 
-34 “Good Shepherd.” See entry on 31 January 1867.
+[^32]: “Good Shepherd.” See entry on 31 January 1867.
 
-35 It is difficult to determine where these Chinese women came from. Information in these marriage registers is inconsistent and often scant.
+[^33]: It is difficult to determine where these Chinese women came from. Information in these marriage registers is inconsistent and often scant.
 
-36 “St Joseph’s Church (Bukit Timah) (1847–61),” _Liber matrimonium_. See entry on October 1870.&nbsp;
+[^34]: “St Joseph’s Church (Bukit Timah) (1847–61),” _Liber matrimonium_. See entry on October 1870.&nbsp;
 
 37 Current research appears to indicate a large number of reasons why girls were left with the orphanage, from poverty and sickness to abandonment. Unfortunately, access to the CHIJ archival records was denied to the researcher on the basis that many of the girls were originally from “disreputable” backgrounds.
 
