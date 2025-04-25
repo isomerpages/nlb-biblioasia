@@ -182,7 +182,7 @@ The Peranakan Kristang community were the most established of the
 various church communities in Singapore. Tracing their origins to
 16th-century Melaka, not only were they the largest grouping within the
 new Singapore church, but like most of their fellow Peranakan community
-counterparts they benefited from a relatively balanced gender ratio[^42]  –
+counterparts they benefited from a relatively balanced gender ratio-[^42] 
 something the China-born Teochew community did not have. For the new
 immigrants, seeking a spouse meant taking time away from employment
 and travelling back home; this was an expensive exercise. The only other
@@ -236,7 +236,7 @@ who studied marriage dynamics in unions between Aboriginal females
 and white male settlers in Canada. Kirk emphasises how early instances
 of such marriages often followed Aboriginal marital practices.[^60]  However,
 with the expansion of European settler control over traditional Aboriginal
-lands, settler authority and customs were pushed much more to the fore.[^61]
+lands, settler authority and customs were pushed much more to the fore.[^60]
 In a similar way, over the years, Chinese-Kristang family members would
 gradually be absorbed into the Teochew or general Chinese Peranakan
 cultural milieu – one that came to enjoy a strong presence in the region.
