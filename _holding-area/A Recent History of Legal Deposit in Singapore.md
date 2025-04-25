@@ -19,7 +19,7 @@ Making the Legal Deposit Collection digitally searchable meant that a database a
 The result of the rigorous mobilisation led to the creation of more than 800,000 records for items in the Legal Deposit Collection, almost eight times more than the volume in a normal year. Concurrently, staff from the IT department worked on creating the PublicationSG microsite, while librarians crafted the policies and processes for accessing the materials.&nbsp;
 
 
-The launch of PublicationSG was accompanied by an exhibition at the National Library Building from October 2015 to February 2016. To introduce this “new” collection, librarians and curators showcased significant publications from the Legal Deposit Collection, particularly lifestyle-related materials of Singapore’s history that would resonate with Singaporeans.&nbsp;
+The launch of PublicationSG was accompanied by&nbsp;_Our Published Heritage_, an exhibition held at the National Library Building from October 2015 to February 2016.
 
 Highlights included the July 1960 inaugural issue of _Her World_ magazine, the first issue of the Singapore Armed Forces’ _Pioneer_ magazine in 1969, and the programme booklet commemorating the foundation stone-laying ceremony of Clyde Terrace Market on 29 March 1873.[^1]
 
