@@ -7,19 +7,17 @@ description: ""
 #### The scope of Legal Deposit in Singapore expanded to digital materials and web archiving in 2018.  
 By Samantha Chen
 
+![](/images/Vol%2021%20Issue%202/Legal%20Deposit/history_main.jpg)
+<div style="background-color:white;"> The display of legal deposit titles at the launch of PublicationSG, 2015. <i> Collection of the National Library Singapore.  </i></div>
+
 For decades, legal deposit in the National Library laboured quietly in the background, collecting and preserving Singapore’s published heritage. In October 2015, PublicationSG ([https://eresources.nlb.gov.sg/publicationsg/](https://eresources.nlb.gov.sg/publicationsg/)) thrust legal deposit into the spotlight. &nbsp;
 
 To mark the 50th anniversary of Singapore’s independence and the 20th birthday of the National Library Board (NLB), the National Library launched PublicationSG, an online catalogue that made the more than one million legal deposit titles stored away for preservation available to the public for the first time.&nbsp;
-
-![](/images/Vol%2021%20Issue%202/Legal%20Deposit/history_main.jpg)
-<div style="background-color:white;"> The display of legal deposit titles at the launch of PublicationSG, 2015. <i> Collection of the National Library Singapore.  </i></div>
 
 Making the Legal Deposit Collection digitally searchable meant that a database about the items first had to be created and systemised – a monumental undertaking. For many months before the launch, staff were rostered to accession (assign barcodes) and catalogue the publications.&nbsp;
 
 The result of the rigorous mobilisation led to the creation of more than 800,000 records for items in the Legal Deposit Collection, almost eight times more than the volume in a normal year. Concurrently, staff from the IT department worked on creating the PublicationSG microsite, while librarians crafted the policies and processes for accessing the materials.&nbsp;
 
-![](/images/Vol%2021%20Issue%202/Legal%20Deposit/history_selection.jpg)
-<div style="background-color:white;">  A selection of children’s folktales shows how these have evolved over time to focus more on Singapore tales. <i> Collection of the National Library Singapore. </i></div>
 
 The launch of PublicationSG was accompanied by an exhibition at the National Library Building from October 2015 to February 2016. To introduce this “new” collection, librarians and curators showcased significant publications from the Legal Deposit Collection, particularly lifestyle-related materials of Singapore’s history that would resonate with Singaporeans.&nbsp;
 
@@ -45,15 +43,23 @@ The _Our Published Heritage_ roadshow gave focus to the breadth of Singapore’s
 
 In 1976, a local author was peeved when the National Library notified him to deposit five copies of his booklet at his own expense with the library, instead of purchasing lending copies to reward him for his contributions.&nbsp; He had the misconception that only local writers and not others had to deposit their works.[^4] The National Library had to clarify that the function of legal deposit was to preserve Singapore’s published heritage, and that the legislation applied to all writers. The library also assured him that copies of his book had been purchased for loan purposes.[^5]
 
-![](/images/Vol%2021%20Issue%202/Legal%20Deposit/history_planning.jpg)
-<div style="background-color:white;">This 1980 poster by the Singapore Family Planning and Population Board encouraged Singaporeans to have only two children.<i> Collection of the National Library Singapore. </i></div>
-
 #### **Collection Highlights&nbsp;**
 
 Because of its broad collecting scope, some materials may exist exclusively in legal deposit. In 2020, history enthusiast Lee Xuan Jin blogged about how he managed to hunt down two works by the local writer Cao Mo (曹沫) in PublicationSG after a fruitless search elsewhere.[^6]
 
 
+![](/images/Vol%2021%20Issue%202/Legal%20Deposit/history_selection.jpg)
+<div style="background-color:white;">  A selection of children’s folktales shows how these have evolved over time to focus more on Singapore tales. <i> Collection of the National Library Singapore. </i></div>
+
 Legal deposit can also include materials with limited public circulation, or which are not commercially available. It can also encompass ephemeral formats such as campaign posters or programme booklets that are usually discarded, making them valuable primary sources.
+
+![](/images/Vol%2021%20Issue%202/Legal%20Deposit/history_planning.jpg)
+<div style="background-color:white;">This 1980 poster by the Singapore Family Planning and Population Board encouraged Singaporeans to have only two children.<i> Collection of the National Library Singapore. </i></div>
+
+
+![](/images/Vol%2021%20Issue%202/Legal%20Deposit/history_planning-a.jpg)
+<div style="background-color:white;">அரிய நீரை வீனாக்காமல் இருப்போம் (1983), a poster in Tamil from the Public Utilities Board, encouraged Singaporeans not to waste precious water. <i> Collection of the National Library Singapore. </i></div>
+
 
 ![](/images/Vol%2021%20Issue%202/Legal%20Deposit/history_map.jpg)
 <div style="background-color:white;"><i>Tourist Map</i> (1990) map published by the Singapore Mass Rapid Transit shows a map of Singapore with the four MRT lines. It also highlights places of interest.<i> Collection of the National Library Singapore. </i></div>
