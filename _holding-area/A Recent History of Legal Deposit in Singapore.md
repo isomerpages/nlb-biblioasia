@@ -31,9 +31,10 @@ Even as PublicationSG was being launched, preparations were already underway to 
 
 In July 2018, the passing of the National Library Board (Amendment) Act marked a second milestone for digital legal deposit, allowing the National Library to archive websites containing the .sg domain without the need for written permission from content owners.[^2]
 
-To prepare for the expanded role, the Web Archive Singapore portal (WAS, [https://eresources.nlb.gov.sg/webarchives/landing-page](https://eresources.nlb.gov.sg/webarchives/landing-page)) – an initiative that began in 2006 to archive Singapore-related websites – was revamped in August 2018 and incorporated into the Legal Deposit Collection.
+To prepare for the expanded role, the [Web Archive Singapore](https://eresources.nlb.gov.sg/webarchives/landing-page) portal (WAS – an initiative that began in 2006 to archive Singapore-related websites – was revamped in August 2018 and incorporated into the Legal Deposit Collection.
 
-In anticipation of the statutory change, NLB held a two-day roadshow, _Our Published Heritage_, in November 2018 to help the public understand what legal deposit (physical and digital) is and why it is meaningful for Singapore.
+  
+In anticipation of the statutory change, NLB brought back&nbsp;_Our Published Heritage_&nbsp;in November 2018 – this time as a two-day roadshow – to help the public understand what legal deposit (physical and digital) is and why it is meaningful for Singapore.
 
 ![](/images/Vol%2021%20Issue%202/Legal%20Deposit/history_map--a.jpg)
 <div style="background-color:white;">    Browsing old publications at the <i>Our Published Heritage</i> roadshow, 2018.<i> Collection of the National Library Singapore. </i></div>
