@@ -236,7 +236,7 @@ who studied marriage dynamics in unions between Aboriginal females
 and white male settlers in Canada. Kirk emphasises how early instances
 of such marriages often followed Aboriginal marital practices.[^60]  However,
 with the expansion of European settler control over traditional Aboriginal
-lands, settler authority and customs were pushed much more to the fore.[^60]
+lands, settler authority and customs were pushed much more to the fore.[^61]
 In a similar way, over the years, Chinese-Kristang family members would
 gradually be absorbed into the Teochew or general Chinese Peranakan
 cultural milieu – one that came to enjoy a strong presence in the region.
@@ -506,4 +506,7 @@ McNamara, Anthony. “[The Letters of Fr. J. M. Beurel Relating to the Establish
 
 [^60]: Van Kirk, “From “Marrying-In” to “Marrying-Out,” 2.
 
-63 Van Kirk, “From “Marrying-In” to “Marrying-Out,” 3.
+[^61]: Van Kirk, “From “Marrying-In” to “Marrying-Out,” 3.
+
+
+
