@@ -281,3 +281,84 @@ intermarriage in the latter half of the 19th century within the Asian communitie
 <div>
 <b>Dr Marc Sebastian Rerceretnam</b> has a PhD in Economic History and is a freelance academic, author and historian. He was born and bred in Singapore and currently lives in Sydney. He specialises in the colonial history of Singapore as well as the origins of Christianity in the Malay Archipelago. He has also written extensively on the history of Australian sport and the development of multicultural communities in Australia.
 </div>
+
+#### **REFERENCES**
+    
+
+**_Books_**
+
+         
+
+Abraham, Collin E. R. [_Divide and Rule: The Roots of Race Relations in Malaysia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8683388). Kuala Lumpur: Institute for Social Analysis, 1997. (From National Library, Singapore, call no. RSEA 305.9595 ABR)
+
+—. [_The Naked Order: The Roots of Racial Polarisation in Malaysia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12279783)_._ Kuala Lumpur: Pelanduk, 2004. (From National Library, Singapore, call no. RSING 305.8009595 ABR)
+
+Alatas Hussein, Syed. [_The Myth of the Lazy Native_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1067848)_._ London: Frank Cass, 1977. (From National Library, Singapore, call no. RSEA 305.800959 ALA)&nbsp;&nbsp;
+
+Brass, Paul R. _Ethnicity and Nationalism: Theory and Comparison_. New Delhi: Sage, 1991, 76.
+
+Bryce, James. _The Roman and the British Empire._ New York: Oxford University Press, 1914.
+
+Buckley, Charles Burton. [_An Anecdotal History of Old Times in Singapore, 1819–1867_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082239). Singapore: Oxford University Press, 1984. 245. (From National Library Singapore, call no. RSING 959.57 BUC). ([1902](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717) edition)
+
+Cook, John. [_Sunny Singapore: An Account of the Place and Its People, With a Sketch of the Results of Missionary Work_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=97ea5017-b3c9-4135-acf5-ee7db22364ae). London: Elliot Stock, 1907. 131. (From National Library Online; call no. RRARE 275.951 COO)
+
+Hyam, Ronald. _Empire and Sexuality: The British Experience_. Manchester: Manchester University Press, 1990, 202.
+
+Makepeace, Walter, Gilbert E. Brooke and Roland St. J Braddell. [_One Hundred Years of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6203718)_,_ vol. 1. Singapore: Oxford University Press, 1991. (From National Library, Singapore, call no. RSING 959.57 ONE–\[HIS\]) ([1921](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4183132) ed.)
+
+Nagata, Judith. [_Malaysian Mosaic: Perspectives From a Poly-Ethnic Society_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2317855). &nbsp;Vancouver: University of British Columbia Press, 1979. (From National Library Singapore, call no. RCLOS 301.29595 NAG)
+
+Purushotam, Nirmala. “Disciplining Difference: Race in Singapore.” In [_Southeast Asian Identities: Culture and the Politics of Representation in Indonesia, Malaysia, Singapore and Thailand_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8674564), edited by Joel S. Kahn. Singapore: Institute of Southeast Asian Studies, 1998. (From National Library Singapore, call no. RSING 306.0959 SOU)
+
+Rerceretnam, Marc. [_Black Europeans, the Indian Coolies and Empire: Colonialisation and Christianized Indians in Colonial Malaya and Singapore, c. 1870s–c. 1950s_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200145075). Germany: VDM Verlag, 2011. (From National Library Singapore, call no. RSING 320.569 RER)
+
+Rudolph, Jeurgen. [_Reconstructing Identities: A Social History of the Babas in_ Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9190304). Aldershot: Ashgate Publishing Limited, 1998. (From National Library, call no. RSING 305.80095957 RUD)
+
+Sng, Bobby E. K. [_In His Good Time: The Story of the Church in Singapore, 1819–1978_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3846085). Singapore: Graduates’ Christian Fellowship, 1980, 22. (From National Library Singapore, call no. RCLOS 275.957 SNG)
+
+Stenson, Michael. [_Class, Race and Colonialism in West Malaysia: The Indian Case_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4167853). Brisbane: University of Queensland, 1980. (From National Library Singapore, call no. RCLOS 305.9595 ABR)
+
+Stoler, Ann. “Sexual Affronts and Racial Frontiers: European Identities and the Cultural Politics of Exclusion in Colonial Southeast Asia.” In [_Tensions of Empire: Colonial Cultures in a Bourgeois World_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7846747), edited by Frederick Cooper and Ann Laura Stoler. Berkeley: University of California Press, 1997. (From National Library Singapore, call no. R 909.8 COO)
+
+Wang, Gungwu. “Continuities in Island Southeast Asia.” In [_Reinventing Malaysia: Reflections on Its Past and Future_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11182969), edited by Jomo K. S. Bangi: Penerbit Universiti Kebangsaan Malaysia, 2001. (From National Library Singapore, call no. RSING 303.409595 REI)
+
+   
+
+**_Journal articles_**
+         
+
+Andaya, Barbara Watson. “‘Come Home, Come Home!’”: Chineseness, John Sung and Theatrical Evangelism in 1930s Southeast Asia.” Southeast Asian Studies at the University of Freiburg (Germany), Occasional Paper Series_,_ no. 23, abstract, 2015.
+
+Barr, Michael D. “Lee Kuan Yew: Race, Culture and Genes.” _Journal of Contemporary Asia,_ 29, no. 2 (1999): 145–66. (From EBSCOhost via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Carol, Sarah. “Intermarriage Attitudes Among Minority and Majority Groups in Western Europe: The Role of Attachment to the Religious In-Group.” _International Migration_ 51, no. 3 (June 2013): 79. (From EBSCOhost via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+D’Cruz, M. J. “Indian Associations and the Coolies,” _The Indian_ (August 1925): &nbsp;94–5.
+
+Embong, A. R. “Ethnicity and Class: Divides and Dissent in Malaysian Studies.” _Southeast Asian Studies_ 7, no. 3 (December 2018): 283–6. (From EBSCOhost via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Hirschman, Charles. “The Making of Race in Colonial Malaya: Political Economy and Racial Ideology.” _Sociological Forum_ 1, no. 2 (Spring 1986): 338 (From EBSCOhost via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Holden, Philip. “A Man and an Island: Gender and Nation in Lee Kuan Yew’s “The Singapore Story.” _Biography_ 24, no. 2 (March 2001): 405. (From EBSCOhost via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Kalmijn, Matthijs. “Intermarriage and Homogamy: Causes, Patterns, Trends.” _Annual Review of Sociology_ 24 (1998): 396–7. (From EBSCOhost via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Kalmijn, Matthijs and Frank van Tubergen. “Ethnic Intermarriage in the Netherlands: Confirmations and Refutations of Accepted Insights.” _European Journal of Population_ 22, no. 4 (2006): 375–7.  
+  
+Loos, Tamara. “History of Sex and the State in Southeast Asia: Class, Intimacy and Invisibility.” _Citizenship Studies_ 12, no. 1 (2008): 29, 33.  
+  
+Peacock, James L. “Plural Society in Southeast Asia.” _High School Journal_ 56, no. 1 (October 1972): 1 (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Rerceretnam, Marc. “Intermarriage in Colonial Malaya and Singapore: A Case Study of Nineteenth and Early Twentieth-Century Roman Catholic and Methodist Asian Communities.” _Journal of Southeast Asian Studies_ 43, no. 2 (June 2012): 302–3, 302–23.
+
+Sarkissian, Margaret. “Being Portuguese in Malacca: The Politics of Folk Culture in Malaysia.” _Etnografica,_ 9, no. 1 (May 2005): 152.
+
+Tan, Beng Hui. “Protecting Women: Legislation and Regulation of Women’s Sexuality in Colonial Malaya.” _Gender, Technology and Development_ 7, no. 1 (2003): 28.
+
+Thomas, T. G. “Some of Our Needs.” _The Indian_ (April 1925): 6–7.
+
+Van Kirk, Sylvia. “From “Marrying-In” to “Marrying-Out”: Changing Patterns of Aboriginal/Non-Aboriginal Marriage in Colonial Canada.” _Frontiers_ 23, no. 3 (2002): 2 (From EBSCOhost via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Wright, Nadia. “[Farquhar and Raffles: The Untold Story](https://biblioasia.nlb.gov.sg/vol-14/issue-4/jan-mar-2019/fnr-untold-story/).” _BiblioAsia,_ 14, no. 4 (January–March 2019)
+
