@@ -509,4 +509,3 @@ McNamara, Anthony. “[The Letters of Fr. J. M. Beurel Relating to the Establish
 [^61]: Van Kirk, “From “Marrying-In” to “Marrying-Out,” 3.
 
 
-
