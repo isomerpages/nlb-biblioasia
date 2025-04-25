@@ -14,6 +14,15 @@ in any meaningful way.3 Except for certain Peranakan communities that
 predate British colonialism, there is little evidence in current scholarly
 research to show that consistent interaction, friendships or intermarriages
 took place in the first few decades following 1819. Even left-leaning analysts
+#### **Introduction**
+In historical studies of Malaysia and Singapore, the British colonial practice
+of “divide and rule” in its governing of ethnic communities is a prominent
+feature.1 Race relations – then and now – are often viewed in light of how
+the British controlled and manipulated Asian communities. The persistence of such concepts and practices2 has implanted the false impression that early
+Singaporean communities lived in separate spheres and did not interact
+in any meaningful way.3 Except for certain Peranakan communities that
+predate British colonialism, there is little evidence in current scholarly
+research to show that consistent interaction, friendships or 
 such as J. S. Furnivall, utilising the idea of the “plural society”, have claimed
 that interracial colonies were disadvantaged because society was broken into
 segregated segments who lived “side by side, yet without mingling”.4
@@ -97,7 +106,25 @@ with the church’s inception in 1832.24 The first recorded conversion was in De
 
 Despite the British colonialists’ push to divide local communities, there is clear evidence that the Roman Catholic church in the 19th century did not discourage intermarriages and even facilitated unions between its racially diverse congregants. In December 1848, Fr. Jean Marie Beurel, a key figure in the Roman Catholic church in Singapore, noted that men from China came “without women”, and when they came “here they marry”.27 This point was highlighted by Rerceretnam (2012), looking at church records dating back to the latter half of the 19th century, which show that such interracial marriages took place with the assistance of related church facilities such as orphanages. The 2012 study posited, however, that this occurrence was “relatively rare” until the second or third decade of the 20th century.28
 
-The present study, having been provided access to earlier records, shows unmistakably that intermarriages took place within the racially mixed congregation and were more prevalent than previously believed, most significantly between newly arrived China-born Teochew males and females from the old Peranakan Kristang community.29 The graphs on page 62 address the marital unions from the reference point of the male partner, largely because colonial society was primarily patriarchal in nature, and choices in marriage were often made from the perspective of the man.
+The present study, having been provided access to earlier records, shows unmistakably that intermarriages took place within the racially mixed congregation and were more prevalent than previously believed, most significantly between newly arrived China-born Teochew males and females from the old Peranakan Kristang community.29 The graphs on page 62 address the marital unions from the reference point of the male partner, 
+
+<img src="/images/COA%202019/Roman%20Catholic%20Communities/Table_1.jpg" style="width:50%;">
+
+<img src="/images/COA%202019/Roman%20Catholic%20Communities/Table_2.jpg" style="width:50%;">
+
+
+<img src="/images/COA%202019/Roman%20Catholic%20Communities/Table_3.jpg" style="width:50%;">
+
+
+
+
+
+
+
+
+
+
+largely because colonial society was primarily patriarchal in nature, and choices in marriage were often made from the perspective of the man.
 
 Between 1833 and 1843, eight marriages involving China-born men were celebrated at the Roman Catholic chapel on Bras Basah Road, mostly with women from the Melaka-born Kristang Peranakan community. In addition, two married local women of Orang Asli descent30 and one married an ethnic Chinese woman. Within the Melaka-born Kristang Peranakan community, out of 19 marriages, 12 were between fellow Kristang members, one with a Chinese woman, five with Chinese men, and one with an Italian man. Among the Eurasians, there were five all-Eurasian unions, one intermarriage with a European and another with an unidentified male. There were four all-Indian marriages, and only one intermarriage with a European.
 
@@ -254,8 +281,3 @@ intermarriage in the latter half of the 19th century within the Asian communitie
 <div>
 <b>Dr Marc Sebastian Rerceretnam</b> has a PhD in Economic History and is a freelance academic, author and historian. He was born and bred in Singapore and currently lives in Sydney. He specialises in the colonial history of Singapore as well as the origins of Christianity in the Malay Archipelago. He has also written extensively on the history of Australian sport and the development of multicultural communities in Australia.
 </div>
-
-
-
-
-
