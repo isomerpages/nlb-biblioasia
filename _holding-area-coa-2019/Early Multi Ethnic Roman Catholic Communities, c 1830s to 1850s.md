@@ -4,17 +4,7 @@ permalink: /holding-area/chapters-on-asia-2019/multi-ethnic-roman-catholic-commu
 variant: markdown
 description: ""
 ---
-#### **Introduction**
-In historical studies of Malaysia and Singapore, the British colonial practice
-of “divide and rule” in its governing of ethnic communities is a prominent
-feature.1 Race relations – then and now – are often viewed in light of how
-the British controlled and manipulated Asian communities. The persistence of such concepts and practices2 has implanted the false impression that early
-Singaporean communities lived in separate spheres and did not interact
-in any meaningful way.3 Except for certain Peranakan communities that
-predate British colonialism, there is little evidence in current scholarly
-research to show that consistent interaction, friendships or intermarriages
-took place in the first few decades following 1819. Even left-leaning analysts
-#### **Introduction**
+#### **INTRODUCTION**
 In historical studies of Malaysia and Singapore, the British colonial practice
 of “divide and rule” in its governing of ethnic communities is a prominent
 feature.1 Race relations – then and now – are often viewed in light of how
@@ -397,3 +387,135 @@ Liew C., “Persecution of Chinese Christians in Early Colonial Singapore 1845�
 McNamara, Anthony. “[The Letters of Fr. J. M. Beurel Relating to the Establishment of St. Joseph’s Institution Singapore](https://www.nas.gov.sg/archivesonline/private_records/record-details/df327c52-115b-11e3-83d5-0050568939ad),” Translated, edited and with a monograph by Rev. Brother Anthony St. Xavier's Institution, Penang, private records, 1987. (From National Archives of Singapore accession no. 152; microfilm NA 1334)
 
 14 Williams, Kenneth M. “The Church in West Malaysia and Singapore: A Study of the Catholic Church in West Malaysia and Singapore Regarding Her Situation as an Indigenous Church.” PhD diss., Catholic University of Leuven, 1976, 93.
+
+#### **NOTES**
+         
+
+1 Collin E. R. Abraham, [_Divide and Rule: The Roots of Race Relations in Malaysia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8683388) (Kuala Lumpur: Institute for Social Analysis, 1997), 13 (From National Library, Singapore, call no. RSEA 305.9595 ABR); Syed Alatas Hussein, [_The Myth of the Lazy Native_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1067848) (London: Frank Cass, 1977), 7 (From National Library, Singapore, call no. RSEA 305.800959 ALA); Michael D. Barr, “Lee Kuan Yew: Race, Culture and Genes,” _Journal of Contemporary Asia,_ 29, no. 2 (1999): 145–66 (From EBSCOhost via NLB’s [eResources](http://eresources.nlb.gov.sg/) website); Michael Stenson, [_Class, Race and Colonialism in West Malaysia: The Indian Case_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4167853) (Brisbane: University of Queensland, 1980) (From National Library Singapore, call no. RCLOS 305.9595 ABR); Marc Rerceretnam, “Intermarriage in Colonial Malaya and Singapore: A Case Study of Nineteenth and Early Twentieth-Century Roman Catholic and Methodist Asian Communities,” _Journal of Southeast Asian Studies_ 43, no. 2 (June 2012): 302–3, 307–9; A. R. Embong, “Ethnicity and Class: Divides and Dissent in Malaysian Studies,” _Southeast Asian Studies_ 7, no. 3 (December 2018): 283–6. (From EBSCOhost via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+2 Barr, “Lee Kuan Yew: Race, Culture and Genes” 146–8; Philip Holden, “A Man and an Island: Gender and Nation in Lee Kuan Yew’s “The Singapore Story,” _Biography_ 24, no. 2 (March 2001): 405. (From EBSCOhost via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+3 Wong Pei Ting, “Older Generation of S’poreans Not Ready for Non-Chinese PM: Heng Swee Keat,” _Today_, 29 March 2019; Martino Tan and Jonathan Lim, “Online Brouhaha Over Heng Swee Keat’s Comments Shows More S’poreans Ready for Non-Chinese PM Sooner Than Later,” _Mothership_, 30 March 2019; Rerceretnam, “Intermarriage in Colonial Malaya and Singapore,” 302.
+
+4 James L. Peacock, “Plural Society in Southeast Asia,” _High School Journal_ 56, no. 1 (October 1972): 1 (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website); Stenson, [_Class, Race and Colonialism in West Malaysia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4167853), 1–2.
+
+5 Abraham, [_Divide and Rule_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8683388), viii, 6–7, 13–18, 22; Stenson, [_Class, Race and Colonialism in West Malaysia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4167853), 6–7; Marc Rerceretnam, [_Black Europeans, the Indian Coolies and Empire: Colonialisation and Christianized Indians in Colonial Malaya and Singapore, c. 1870s–c. 1950s_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200145075) (Germany: VDM Verlag, 2011), 30, 94–5, 108–11 (From National Library Singapore, call no. RSING 320.569 RER); Nirmala Purushotam, “Disciplining Difference: Race in Singapore,” in [_Southeast Asian Identities: Culture and the Politics of Representation in Indonesia, Malaysia, Singapore and Thailand_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8674564), ed. Joel S. Kahn (Singapore: Institute of Southeast Asian Studies, 1998), 55–56. (From National Library Singapore, call no. RSING 306.0959 SOU). Arguments challenging the responsibility of British colonialism for race relations have surfaced with the work of Paul Brass and Francis Robinson, who assert that fundamental differences did exist between various colonised Asian Hindu and Muslim communities in India; see Paul R. Brass, _Ethnicity and Nationalism: Theory and Comparison_ (New Delhi: Sage, 1991), 76.
+
+6 Charles Hirschman, “The Making of Race in Colonial Malaya: Political Economy and Racial Ideology,” _Sociological Forum_ 1, no. 2 (Spring 1986): 338 (From EBSCOhost via NLB’s [eResources](http://eresources.nlb.gov.sg/) website); Colin Abraham, [_The Naked Order: The Roots of Racial Polarisation in Malaysia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12279783) (Kuala Lumpur: Pelanduk, 2004) (From National Library, Singapore, call no. RSING 305.8009595 ABR); Wang Gungwu, “Continuities in Island Southeast Asia,” in [_Reinventing Malaysia: Reflections on Its Past and Future_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11182969), ed. Jomo K. S. (Bangi: Penerbit Universiti Kebangsaan Malaysia, 2001), 24–5. (From National Library Singapore, call no. RSING 303.409595 REI)
+
+7 However, Nagata noted how individuals had no qualms exploiting others of the same ethnic group, especially if there were marked superordinate-subordinate distinctions. Nagata claimed many did not understand issues relating to class, with many rarely viewing this as a product of social inequality despite the fact such views were already observed within some Asian communities as early as the 1920s and 1930s. Judith Nagata, [_Malaysian Mosaic: Perspectives From a Poly-Ethnic Society_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2317855) &nbsp;(Vancouver: University of British Columbia Press, 1979), 3 (From National Library Singapore, call no. RCLOS 301.29595 NAG); Song Ong Siang, [_One Hundred Years’ History of the Chinese in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=f8082431-1c7b-460e-b59c-bbc5793035a3) (London: John Murray, 1923), 46 (From National Library Online); Rerceretnam, [_Black Europeans, the Indian Coolies and Empire_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200145075), 20; T. G. Thomas, “Some of Our Needs,” _The Indian_ (April 1925): 6–7; M. J. D’Cruz, “Indian Associations and the Coolies,” _The Indian_ (August 1925): &nbsp;94–5.
+
+8 Charles Burton Buckley, [_An Anecdotal History of Old Times in Singapore, 1819–1867_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082239) (Singapore: Oxford University Press, 1984), 245. (From National Library Singapore, call no. RSING 959.57 BUC). ([1902](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717) edition)
+
+9 Tamara Loos, “History of Sex and the State in Southeast Asia: Class, Intimacy and Invisibility,” _Citizenship Studies_ 12, no. 1 (2008): 29, 33.  
+  
+10 Walter Makepeace, Gilbert E. Brooke and Roland St. J Braddell, [_One Hundred Years of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6203718)_,_ vol. 1 (Singapore: Oxford University Press, 1991), 344. (From National Library, Singapore, call no. RSING 959.57 ONE–\[HIS\]) ([1921](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4183132) ed.)
+
+11 The literature is not clear about which dialect groups dominated. Makepeace et al. ([1921](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4183132)) are quite unclear and the author believes Makepeace et al. may be mixing “Fokiens” up with both Hokkien and Teochew dialect groups (345–6).
+
+12 Makepeace, Brooke and Braddell, [_One Hundred Years of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6203718)_,_ 1991, [1921](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4183132), 28, 344–5, 346–7.
+
+13 According to Lee Poh Ping, there “already existed a Teochew agricultural settlement located in the interior of the island and devoted to growing gambier and pepper” (pre-1819), although this point is not accepted by Jurgen Rudolph (1998), who says there isn’t enough evidence to support the claim.&nbsp;
+
+14 Kenneth M. Williams, “The Church in West Malaysia and Singapore: A Study of the Catholic Church in West Malaysia and Singapore Regarding Her Situation as an Indigenous Church” (PhD diss., Catholic University of Leuven, 1976), 93; Rerceretnam, [_Black Europeans, the Indian Coolies and Empire_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200145075), 49–50.
+
+15 Makepeace, Brooke and Braddell, [_One Hundred Years of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6203718)_,_ 1991, [1921](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4183132), 235; John Cook, [_Sunny Singapore: An Account of the Place and Its People, With a Sketch of the Results of Missionary Work_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=97ea5017-b3c9-4135-acf5-ee7db22364ae) (London: Elliot Stock, 1907), 131. (From National Library Online; call no. RRARE 275.951 COO)
+
+16 Buckley, [_An Anecdotal History of Old Times in Singapore, 1819–1867_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082239), 1984/[1902](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717), 242.
+
+17 Spanish Padre Anselmo Yegros was mistakenly sent by the Portuguese Mission in Goa to Singapore to administer the Roman Catholic community. However, his already resident Portuguese counterpart, originally from Macao, refused to recognise this authority, and they parted ways. Padre Yegros appears to have struck up a friendship with the French Mission and worked with them until his departure in early 1833.
+
+18 Buckley, [_An Anecdotal History of Old Times in Singapore, 1819–1867_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082239), 1984/[1902](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717), 244–5.
+
+19 Buckley, [_An Anecdotal History of Old Times in Singapore, 1819–1867_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082239), 1984/[1902](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717), 248.
+
+20 Nadia Wright, “[Farquhar and Raffles: The Untold Story](https://biblioasia.nlb.gov.sg/vol-14/issue-4/jan-mar-2019/fnr-untold-story/),” _BiblioAsia,_ 14, no. 4 (January–March 2019); Bobby E. K. Sng, [_In His Good Time: The Story of the Church in Singapore, 1819–1978_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3846085) (Singapore: Graduates’ Christian Fellowship, 1980), 22 (From National Library Singapore, call no. RCLOS 275.957 SNG); Makepeace, Brooke and Braddell, [_One Hundred Years of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6203718)_,_ 1991, [1921](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4183132), 343.
+
+21 Song, [_One Hundred Years’ History of the Chinese in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=f8082431-1c7b-460e-b59c-bbc5793035a3), 46. Song quite rightfully points out how Buckley (1902) wrongly observed that most of these adherents were of Chinese descent.
+
+22 “Good Shepherd,” _Baptism Registers_, vol. 1 (1832–67): various; “Good Shepherd,” _Liber Matrimonium_, vols. 2­–111 (1832–1857): various.
+
+23 Liew C., “Persecution of Chinese Christians in Early Colonial Singapore 1845–1869” (Unpublished historical inquiry report, Roman Catholic Archdiocese of Singapore, 2016), 40–1. On 10 September 1833, Fr. Albrand mentions baptising four Chinese men, the youngest of whom is 25 years old.
+
+24 Liew, “Persecution of Chinese Christians in Early Colonial Singapore 1845–1869,” 39–40.
+
+25 Eric Guerassimoff, “The Gangzhu of Johor: Memories of a French Missionary in Malaysia (1859–1870),” _Etudes Chinoises_ 15, no. 1 (1997): 107; “Good Shepherd.” See entry from December 1839.
+
+26 Buckley, [_An Anecdotal History of Old Times in Singapore, 1819–1867_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082239), 1984/[1902](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717), 251.
+
+27 Letter addressed to the Superior and Directors of the Seminary of the Foreign Missions, dated 7 December 1847. Brother Anthony McNamara, “[The Letters of Fr. J. M. Beurel Relating to the Establishment of St. Joseph’s Institution Singapore](https://www.nas.gov.sg/archivesonline/private_records/record-details/df327c52-115b-11e3-83d5-0050568939ad),” translated, edited and with a monograph by Rev. Brother Anthony St. Xavier's Institution, Penang, private records, 1987. (From National Archives of Singapore accession no. 152; microfilm NA 1334)
+
+28 Rerceretnam, “Intermarriage in Colonial Malaya and Singapore,” 318–21.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+29 “Good Shepherd,” various. See entries April 1833 to July 1843.&nbsp;
+
+30 Philip Wee Peng Leng, oral history interview by P. Wee and M. Wee, 1904–1991, 18 August 1981; “Good Shepherd.” See entry from 6 September 1841.
+
+31 “History of the Catholic Church in Singapore: The Virtual Exhibition: St. Joseph’s Church,” The Roman Catholic Archdiocese of Singapore, n.d.  
+  
+32 Liew, “Persecution of Chinese Christians in Early Colonial Singapore 1845–1869,” 72.
+
+33 Rerceretnam, [_Black Europeans, the Indian Coolies and Empire_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200145075), 50.
+
+34 “Good Shepherd.” See entry on 31 January 1867.
+
+35 It is difficult to determine where these Chinese women came from. Information in these marriage registers is inconsistent and often scant.
+
+36 “St Joseph’s Church (Bukit Timah) (1847–61),” _Liber matrimonium_. See entry on October 1870.&nbsp;
+
+37 Current research appears to indicate a large number of reasons why girls were left with the orphanage, from poverty and sickness to abandonment. Unfortunately, access to the CHIJ archival records was denied to the researcher on the basis that many of the girls were originally from “disreputable” backgrounds.
+
+38 Tan Beng Hui, “Protecting Women: Legislation and Regulation of Women’s Sexuality in Colonial Malaya,” _Gender, Technology and Development_ 7, no. 1 (2003): 28; Rerceretnam, “Intermarriage in Colonial Malaya and Singapore,” 318.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+39 Rerceretnam, “Intermarriage in Colonial Malaya and Singapore,” 323.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+40 Song, [_One Hundred Years’ History of the Chinese in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=f8082431-1c7b-460e-b59c-bbc5793035a3), 46.  
+  
+41 Liew, “Persecution of Chinese Christians in Early Colonial Singapore 1845–1869,” 72.
+
+&nbsp;42 McNamara, “[The Letters of Fr. J. M. Beurel Relating to the Establishment of St. Joseph’s Institution Singapore](https://www.nas.gov.sg/archivesonline/private_records/record-details/df327c52-115b-11e3-83d5-0050568939ad),” 5.
+
+43 Margaret Sarkissian, “Being Portuguese in Malacca: The Politics of Folk Culture in Malaysia,” _Etnografica,_ 9, no. 1 (May 2005): 152.44 Jeurgen Rudolph, [_Reconstructing Identities: A Social History of the Babas in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9190304) (Aldershot: Ashgate Publishing Limited, 1998), 98–9. (From National Library, call no. RSING 305.80095957 RUD)
+
+45 Rerceretnam, “Intermarriage in Colonial Malaya and Singapore,” 318.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+46 Rudolph, [_Reconstructing Identities_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9190304), 98; Song, [_One Hundred Years’ History of the Chinese in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=f8082431-1c7b-460e-b59c-bbc5793035a3), 32–3.
+
+47 Rudolph, [_Reconstructing Identities_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9190304), 96.
+
+48 St Joseph’s Church (Bukit Timah) (1847–61).” See entry from October 1870.
+
+49 Marriages with non-Catholics or even non-Christians did exist and do appear in church records occasionally, especially in relation to the baptism of their common child. However, this was extremely rare.
+
+50 “Good Shepherd.” Examples of this can be found on the following dates, 19 October 1850, 12 July 1854, 25 November 1854, 13 February 1855 and 9 June 1857.
+
+51 The term _sinkeh_ was a derogatory term for newly arrived poor Chinese coolies.&nbsp;
+
+52 Rudolph, [_Reconstructing Identities_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9190304), 100, 106.
+
+53 “Good Shepherd.” See entries from 29 July 1850, 10 September 1850, 9 November 1847, 4 November 1846, 14 June 1853, 17 October 1853.
+
+54 Song, [_One Hundred Years’ History of the Chinese in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=f8082431-1c7b-460e-b59c-bbc5793035a3), 712.  
+  
+55 Ann Stoler, “Sexual Affronts and Racial Frontiers: European Identities and the Cultural Politics of Exclusion in Colonial Southeast Asia,” in [_Tensions of Empire: Colonial Cultures in a Bourgeois World_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7846747), ed. Frederick Cooper and Ann Laura Stoler (Berkeley: University of California Press, 1997), 210, 235. (From National Library Singapore, call no. R 909.8 COO)
+
+56 Concepts of racially implied associations with “masculinity” were prevalent at the time. Hence some races were seen as the male “aggressor” while others were labelled as “passive” and feminine. Ronald Hyam, _Empire and Sexuality: The British Experience_ (Manchester: Manchester University Press, 1990), 202.  
+  
+57 Hyam, _Empire and Sexuality_, 90, 94, 109, 158–9, 213; Rerceretnam, “Intermarriage in Colonial Malaya and Singapore,” 210.&nbsp;
+
+58 Stenson, [_Class, Race and Colonialism in West Malaysia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4167853), 16; Rerceretnam, [_Black Europeans, the Indian Coolies and Empire_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200145075), 293. Large-scale Indian migration to the Malay Archipelago only took off from around 1905.
+
+59 Matthijs Kalmijn and Frank van Tubergen, “Ethnic Intermarriage in the Netherlands: Confirmations and Refutations of Accepted Insights,” _European Journal of Population_ 22, no. 4 (2006): 375–7.  
+  
+60 Kalmijn and Tubergen, “Ethnic Intermarriage in the Netherlands,” 375–7; Rerceretnam, “Intermarriage in Colonial Malaya and Singapore,” 303–4;
+
+Kim Dertien, “Irrevocable Ties and Forgotten Ancestry: The Legacy of Colonial Intermarriage for Descendants of Mixed Ancestry” (master’s thesis, University of British Columbia, Vancouver, 2008); Sylvia Van Kirk, “From “Marrying-In” to “Marrying-Out”: Changing Patterns of Aboriginal/Non-Aboriginal Marriage in Colonial Canada,” _Frontiers_ 23, no. 3 (2002): 2 (From EBSCOhost via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+61 Matthijs Kalmijn, “Intermarriage and Homogamy: Causes, Patterns, Trends,” _Annual Review of Sociology_ 24 (1998): 396–7. (From EBSCOhost via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+62 Van Kirk, “From “Marrying-In” to “Marrying-Out,” 2.
+
+63 Van Kirk, “From “Marrying-In” to “Marrying-Out,” 3.
+
+
+
