@@ -454,56 +454,56 @@ McNamara, Anthony. “[The Letters of Fr. J. M. Beurel Relating to the Establish
 
 [^34]: “St Joseph’s Church (Bukit Timah) (1847–61),” _Liber matrimonium_. See entry on October 1870.&nbsp;
 
-37 Current research appears to indicate a large number of reasons why girls were left with the orphanage, from poverty and sickness to abandonment. Unfortunately, access to the CHIJ archival records was denied to the researcher on the basis that many of the girls were originally from “disreputable” backgrounds.
+[^35]: Current research appears to indicate a large number of reasons why girls were left with the orphanage, from poverty and sickness to abandonment. Unfortunately, access to the CHIJ archival records was denied to the researcher on the basis that many of the girls were originally from “disreputable” backgrounds.
 
-38 Tan Beng Hui, “Protecting Women: Legislation and Regulation of Women’s Sexuality in Colonial Malaya,” _Gender, Technology and Development_ 7, no. 1 (2003): 28; Rerceretnam, “Intermarriage in Colonial Malaya and Singapore,” 318.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[^36]: Tan Beng Hui, “Protecting Women: Legislation and Regulation of Women’s Sexuality in Colonial Malaya,” _Gender, Technology and Development_ 7, no. 1 (2003): 28; Rerceretnam, “Intermarriage in Colonial Malaya and Singapore,” 318.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-39 Rerceretnam, “Intermarriage in Colonial Malaya and Singapore,” 323.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[^37]: Rerceretnam, “Intermarriage in Colonial Malaya and Singapore,” 323.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-40 Song, [_One Hundred Years’ History of the Chinese in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=f8082431-1c7b-460e-b59c-bbc5793035a3), 46.  
+[^38]: Song, [_One Hundred Years’ History of the Chinese in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=f8082431-1c7b-460e-b59c-bbc5793035a3), 46.  
   
-41 Liew, “Persecution of Chinese Christians in Early Colonial Singapore 1845–1869,” 72.
+[^39]: Liew, “Persecution of Chinese Christians in Early Colonial Singapore 1845–1869,” 72.
 
-&nbsp;42 McNamara, “[The Letters of Fr. J. M. Beurel Relating to the Establishment of St. Joseph’s Institution Singapore](https://www.nas.gov.sg/archivesonline/private_records/record-details/df327c52-115b-11e3-83d5-0050568939ad),” 5.
+[^40]: McNamara, “[The Letters of Fr. J. M. Beurel Relating to the Establishment of St. Joseph’s Institution Singapore](https://www.nas.gov.sg/archivesonline/private_records/record-details/df327c52-115b-11e3-83d5-0050568939ad),” 5.
 
-43 Margaret Sarkissian, “Being Portuguese in Malacca: The Politics of Folk Culture in Malaysia,” _Etnografica,_ 9, no. 1 (May 2005): 152.44 Jeurgen Rudolph, [_Reconstructing Identities: A Social History of the Babas in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9190304) (Aldershot: Ashgate Publishing Limited, 1998), 98–9. (From National Library, call no. RSING 305.80095957 RUD)
+[^41]: Margaret Sarkissian, “Being Portuguese in Malacca: The Politics of Folk Culture in Malaysia,” _Etnografica,_ 9, no. 1 (May 2005): 152.
 
-45 Rerceretnam, “Intermarriage in Colonial Malaya and Singapore,” 318.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[^42]: Jeurgen Rudolph, [_Reconstructing Identities: A Social History of the Babas in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9190304) (Aldershot: Ashgate Publishing Limited, 1998), 98–9. (From National Library, call no. RSING 305.80095957 RUD)
 
-46 Rudolph, [_Reconstructing Identities_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9190304), 98; Song, [_One Hundred Years’ History of the Chinese in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=f8082431-1c7b-460e-b59c-bbc5793035a3), 32–3.
+[^43]: Rerceretnam, “Intermarriage in Colonial Malaya and Singapore,” 318.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-47 Rudolph, [_Reconstructing Identities_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9190304), 96.
+[^44]: Rudolph, [_Reconstructing Identities_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9190304), 98; Song, [_One Hundred Years’ History of the Chinese in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=f8082431-1c7b-460e-b59c-bbc5793035a3), 32–3.
 
-48 St Joseph’s Church (Bukit Timah) (1847–61).” See entry from October 1870.
+[^45]: Rudolph, [_Reconstructing Identities_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9190304), 96.
 
-49 Marriages with non-Catholics or even non-Christians did exist and do appear in church records occasionally, especially in relation to the baptism of their common child. However, this was extremely rare.
+[^46]: St Joseph’s Church (Bukit Timah) (1847–61).” See entry from October 1870.
 
-50 “Good Shepherd.” Examples of this can be found on the following dates, 19 October 1850, 12 July 1854, 25 November 1854, 13 February 1855 and 9 June 1857.
+[^47]: Marriages with non-Catholics or even non-Christians did exist and do appear in church records occasionally, especially in relation to the baptism of their common child. However, this was extremely rare.
 
-51 The term _sinkeh_ was a derogatory term for newly arrived poor Chinese coolies.&nbsp;
+[^48]: “Good Shepherd.” Examples of this can be found on the following dates, 19 October 1850, 12 July 1854, 25 November 1854, 13 February 1855 and 9 June 1857.
 
-52 Rudolph, [_Reconstructing Identities_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9190304), 100, 106.
+[^49]: The term _sinkeh_ was a derogatory term for newly arrived poor Chinese coolies.&nbsp;
 
-53 “Good Shepherd.” See entries from 29 July 1850, 10 September 1850, 9 November 1847, 4 November 1846, 14 June 1853, 17 October 1853.
+[^50]: Rudolph, [_Reconstructing Identities_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9190304), 100, 106.
 
-54 Song, [_One Hundred Years’ History of the Chinese in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=f8082431-1c7b-460e-b59c-bbc5793035a3), 712.  
+[^51]: “Good Shepherd.” See entries from 29 July 1850, 10 September 1850, 9 November 1847, 4 November 1846, 14 June 1853, 17 October 1853.
+
+[^52]: Song, [_One Hundred Years’ History of the Chinese in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=f8082431-1c7b-460e-b59c-bbc5793035a3), 712.  
   
-55 Ann Stoler, “Sexual Affronts and Racial Frontiers: European Identities and the Cultural Politics of Exclusion in Colonial Southeast Asia,” in [_Tensions of Empire: Colonial Cultures in a Bourgeois World_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7846747), ed. Frederick Cooper and Ann Laura Stoler (Berkeley: University of California Press, 1997), 210, 235. (From National Library Singapore, call no. R 909.8 COO)
+[^53]: Ann Stoler, “Sexual Affronts and Racial Frontiers: European Identities and the Cultural Politics of Exclusion in Colonial Southeast Asia,” in [_Tensions of Empire: Colonial Cultures in a Bourgeois World_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7846747), ed. Frederick Cooper and Ann Laura Stoler (Berkeley: University of California Press, 1997), 210, 235. (From National Library Singapore, call no. R 909.8 COO)
 
-56 Concepts of racially implied associations with “masculinity” were prevalent at the time. Hence some races were seen as the male “aggressor” while others were labelled as “passive” and feminine. Ronald Hyam, _Empire and Sexuality: The British Experience_ (Manchester: Manchester University Press, 1990), 202.  
+[^54]: Concepts of racially implied associations with “masculinity” were prevalent at the time. Hence some races were seen as the male “aggressor” while others were labelled as “passive” and feminine. Ronald Hyam, _Empire and Sexuality: The British Experience_ (Manchester: Manchester University Press, 1990), 202.  
   
-57 Hyam, _Empire and Sexuality_, 90, 94, 109, 158–9, 213; Rerceretnam, “Intermarriage in Colonial Malaya and Singapore,” 210.&nbsp;
+[^55]: Hyam, _Empire and Sexuality_, 90, 94, 109, 158–9, 213; Rerceretnam, “Intermarriage in Colonial Malaya and Singapore,” 210.&nbsp;
 
-58 Stenson, [_Class, Race and Colonialism in West Malaysia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4167853), 16; Rerceretnam, [_Black Europeans, the Indian Coolies and Empire_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200145075), 293. Large-scale Indian migration to the Malay Archipelago only took off from around 1905.
+[^56]: Stenson, [_Class, Race and Colonialism in West Malaysia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4167853), 16; Rerceretnam, [_Black Europeans, the Indian Coolies and Empire_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200145075), 293. Large-scale Indian migration to the Malay Archipelago only took off from around 1905.
 
-59 Matthijs Kalmijn and Frank van Tubergen, “Ethnic Intermarriage in the Netherlands: Confirmations and Refutations of Accepted Insights,” _European Journal of Population_ 22, no. 4 (2006): 375–7.  
+[^57]: Matthijs Kalmijn and Frank van Tubergen, “Ethnic Intermarriage in the Netherlands: Confirmations and Refutations of Accepted Insights,” _European Journal of Population_ 22, no. 4 (2006): 375–7.  
   
-60 Kalmijn and Tubergen, “Ethnic Intermarriage in the Netherlands,” 375–7; Rerceretnam, “Intermarriage in Colonial Malaya and Singapore,” 303–4;
+[^58]: Kalmijn and Tubergen, “Ethnic Intermarriage in the Netherlands,” 375–7; Rerceretnam, “Intermarriage in Colonial Malaya and Singapore,” 303–4; Kim Dertien, “Irrevocable Ties and Forgotten Ancestry: The Legacy of Colonial Intermarriage for Descendants of Mixed Ancestry” (master’s thesis, University of British Columbia, Vancouver, 2008); Sylvia Van Kirk, “From “Marrying-In” to “Marrying-Out”: Changing Patterns of Aboriginal/Non-Aboriginal Marriage in Colonial Canada,” _Frontiers_ 23, no. 3 (2002): 2 (From EBSCOhost via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-Kim Dertien, “Irrevocable Ties and Forgotten Ancestry: The Legacy of Colonial Intermarriage for Descendants of Mixed Ancestry” (master’s thesis, University of British Columbia, Vancouver, 2008); Sylvia Van Kirk, “From “Marrying-In” to “Marrying-Out”: Changing Patterns of Aboriginal/Non-Aboriginal Marriage in Colonial Canada,” _Frontiers_ 23, no. 3 (2002): 2 (From EBSCOhost via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^59]: Matthijs Kalmijn, “Intermarriage and Homogamy: Causes, Patterns, Trends,” _Annual Review of Sociology_ 24 (1998): 396–7. (From EBSCOhost via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-61 Matthijs Kalmijn, “Intermarriage and Homogamy: Causes, Patterns, Trends,” _Annual Review of Sociology_ 24 (1998): 396–7. (From EBSCOhost via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
-
-62 Van Kirk, “From “Marrying-In” to “Marrying-Out,” 2.
+[^60]: Van Kirk, “From “Marrying-In” to “Marrying-Out,” 2.
 
 63 Van Kirk, “From “Marrying-In” to “Marrying-Out,” 3.
