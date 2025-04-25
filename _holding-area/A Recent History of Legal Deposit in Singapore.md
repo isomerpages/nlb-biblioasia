@@ -35,6 +35,9 @@ To prepare for the expanded role, the Web Archive Singapore portal (WAS, [https:
 
 In anticipation of the statutory change, NLB held a two-day roadshow, _Our Published Heritage_, in November 2018 to help the public understand what legal deposit (physical and digital) is and why it is meaningful for Singapore.
 
+![](/images/Vol%2021%20Issue%202/Legal%20Deposit/history_map--a.jpg)
+<div style="background-color:white;">    Browsing old publications at the <i>Our Published Heritage</i> roadshow, 2018.<i> Collection of the National Library Singapore. </i></div>
+
 This was followed by the launch of the Deposit Portal ([https://www.nlb.gov.sg/depositapp/](https://www.nlb.gov.sg/depositapp/)) in 2021, a one-stop online portal for publishers to deposit their Singapore e-publications and apply for International Standard Numbers (a standardised international number that uniquely identifies a publication).
 
 #### **Public Awareness&nbsp;**
