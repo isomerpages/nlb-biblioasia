@@ -108,12 +108,12 @@ Despite the British colonialists’ push to divide local communities, there is c
 
 The present study, having been provided access to earlier records, shows unmistakably that intermarriages took place within the racially mixed congregation and were more prevalent than previously believed, most significantly between newly arrived China-born Teochew males and females from the old Peranakan Kristang community.29 The graphs on page 62 address the marital unions from the reference point of the male partner, 
 
-<img src="/images/COA%202019/Roman%20Catholic%20Communities/Table_1.jpg" style="width:50%;">
+<img src="/images/COA%202019/Roman%20Catholic%20Communities/Table_1.jpg" style="width:80%;">
 
-<img src="/images/COA%202019/Roman%20Catholic%20Communities/Table_2.jpg" style="width:50%;">
+<img src="/images/COA%202019/Roman%20Catholic%20Communities/Table_2.jpg" style="width:80%;">
 
 
-<img src="/images/COA%202019/Roman%20Catholic%20Communities/Table_3.jpg" style="width:50%;">
+<img src="/images/COA%202019/Roman%20Catholic%20Communities/Table_3.jpg" style="width:80%;">
 
 
 
@@ -397,4 +397,3 @@ Liew C., “Persecution of Chinese Christians in Early Colonial Singapore 1845�
 McNamara, Anthony. “[The Letters of Fr. J. M. Beurel Relating to the Establishment of St. Joseph’s Institution Singapore](https://www.nas.gov.sg/archivesonline/private_records/record-details/df327c52-115b-11e3-83d5-0050568939ad),” Translated, edited and with a monograph by Rev. Brother Anthony St. Xavier's Institution, Penang, private records, 1987. (From National Archives of Singapore accession no. 152; microfilm NA 1334)
 
 14 Williams, Kenneth M. “The Church in West Malaysia and Singapore: A Study of the Catholic Church in West Malaysia and Singapore Regarding Her Situation as an Indigenous Church.” PhD diss., Catholic University of Leuven, 1976, 93.
-
