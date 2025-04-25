@@ -4,7 +4,7 @@ permalink: /holding-area/chapters-on-asia-2019/multi-ethnic-roman-catholic-commu
 variant: markdown
 description: ""
 ---
-#### **INTRODUCTION**
+#### **Introduction**
 In historical studies of Malaysia and Singapore, the British colonial practice
 of “divide and rule” in its governing of ethnic communities is a prominent
 feature.1 Race relations – then and now – are often viewed in light of how
@@ -206,8 +206,56 @@ women at their sexual disposal rather than marry them.57 Indian marriages
 were negligible in number in comparison with their Chinese and Kristang
 Peranakan counterparts; large-scale Indian migration was still several decades away, coming only with the opening up of the rubber industry in the late 19th and early 20th centuries.58
 
+#### **Dynamics Behind Early Intermarriages**
+This research exists within an on-going academic discussion on the significance of intermarriage. Studies in the Netherlands by Matthijs Kalmijn and Frank van Tubergen found four determinants that supposedly influence a person’s propensity towards intermarriage. Firstly, the children of first-generation migrants, who are more integrated into their host society, are more likely to intermarry. Secondly, it is more common among those who arrive in their new country at a younger age. Thirdly, there is a higher inclination to intermarry among persons with a higher level of education. And finally, intermarriage is more common when there is an uneven group-specific sex ratio.59 Kalmijn and van Tubergen’s list of determinants is mostly borne out in the background of the early Teochew males. Many were young, educated and hence literate (many signed their marriage certificate in legible Chinese script) and lived in a society with a low group-specific sex ratio. However, the assertion that second-generation migrants are more likely to intermarry is contradicted by the Teochew men’s status as first-generation migrants.60
+
+Kalmijn has also asserted that intermarriage attenuates cultural distinctiveness.61 This is arguable. When there are significant cultural differences (such as racial ones), the family is forced, to varying degrees, to address the issue of “identity”. Under normal circumstances, all things being equal, patriarchal societal structures tend to underplay the role of the mother. However, the underlying circumstances in this case are different.
+
+The men were newly arrived foreigners with little to no connection with the
+region; moreover, as converts to Christianity, they were isolated from their
+*kongsi* (clan associations), and on a personal level, unwilling to even identify
+with it. The women, in contrast, had established Peranakan Kristang or
+Malay community support on hand. It has been found that in unions
+featuring such dynamics, the mother’s identity and cultural links would
+remain strong, even after the arrival of offspring.
+
+For example, this scenario is similar to one described by Sylvia van Kirk,
+who studied marriage dynamics in unions between Aboriginal females
+and white male settlers in Canada. Kirk emphasises how early instances
+of such marriages often followed Aboriginal marital practices.62 However,
+with the expansion of European settler control over traditional Aboriginal
+lands, settler authority and customs were pushed much more to the fore.63
+In a similar way, over the years, Chinese-Kristang family members would
+gradually be absorbed into the Teochew or general Chinese Peranakan
+cultural milieu – one that came to enjoy a strong presence in the region.
+
+#### **CONCLUSION**
+
+Intermarriage has a long history in the region. Marriages between foreign
+traders from the region and local women helped create different Peranakan
+communities that thrived prior to the arrival of British rule in the Malay
+Archipelago. Following the setting up of a British trading post in Singapore
+in 1819, new and larger communities of people were set up under the
+umbrella of British rule, one of which was the Roman Catholic community.
+All things being equal, the assumption was that intercultural linking
+would continue; however, this did not necessarily happen. Communities
+remained largely separate from each other and this rift widened when the
+British began introducing race-based policies to highlight their own role
+as colonial masters. Such policies also implied the superiority of one race
+over another, which in turn, created ambivalence and animosity between
+“competing” communities.
+
+This study is an extension of a 2012 research paper that examined
+intermarriage in the latter half of the 19th century within the Asian communities of the Roman Catholic and Methodist churches in colonial Malaya and Singapore. By widening the exploration to encompass the decades immediately following 1819, it has found clear evidence that intermarriage within Singapore’s Roman Catholic community thrived during this earlier period. It shows how persons of different ethnicities, coming from a myriad of social, political and economic circumstances, were able to find commonalities to justify inter-ethnic unions. This ran contrary to British colonial “divide and rule” policies, which encouraged – and often forced – the different communities to remain separate. Within decades, however, these policies grew in strength and would discourage such intermarriages in the latter half of the 19th century and well into the 20th century.
+
+#### **Acknowledgments**
+*I would like to thank Dr Juliana Lim, Dr Yao Souchou and Khoo Ee Hoon. I would also like to extend my thanks to Lee Meiyu, Joanna Tan and Tan Huism (National Library Board, Singapore), Fr. John Paul Tan and Jennifer Joseph (Chancery of the Roman Catholic Archdiocese of Singapore), Fr. Adrian Danker, Nevina D’Rozario and Andrew Koh (St Joseph’s Institution) for providing invaluable access to documents and for their feedback.*
+
+<div>
+<b>Dr Marc Sebastian Rerceretnam</b> has a PhD in Economic History and is a freelance academic, author and historian. He was born and bred in Singapore and currently lives in Sydney. He specialises in the colonial history of Singapore as well as the origins of Christianity in the Malay Archipelago. He has also written extensively on the history of Australian sport and the development of multicultural communities in Australia.
+</div>
 
 
-  
+
 
 
