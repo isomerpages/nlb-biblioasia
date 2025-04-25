@@ -62,12 +62,12 @@ Teochews)[^10] – were more involved in local industry.[^11]
 Christianity arrived in the Malay Archipelago with the Portuguese invasion
 of Melaka in 1511. However, the religion they brought with them had little long-term effect on local populations in the region. Consequently, it remained within the limited confines of its small community of mixed Malay-Portuguese “Kristang” descendants in Melaka. It took several centuries before a new wave of Christian evangelisation became apparent with the arrival of British interests, and then generally with the arrival of non-Muslim immigrants from the late 1700s. In 1781, with the help of the Sultan of Kedah, French Roman Catholic missionaries set up a station in Kedah, where they oversaw a group of refugee Roman Catholics from Siam.[^12] Following the British occupation of Penang island in 1786, this parish moved to the new island outpost. By the early 19th century, the Roman Catholic church was the largest Christian denomination in the Malay Archipelago.[^13]
 
-With the establishment of a British trading post on the island of Singapore in February 1819, French priest Reverend Imbert visited in 1822 and reported to the Bishop of Siam that the island had 12 or 13 Roman Catholics who lived “wretched” lives.[^14] By 1832, French missionaries had formed a permanent base in Singapore with Reverend Jean-Baptiste Boucho (later Bishop) and Padre Anselmo Yegros,17 after they were granted rent-free land by the British colonial government on Bras Basah Road for the purpose of worship. Within a year, the first Roman Catholic chapel was consecrated on 5 May 1833, on the site of the former St Joseph’s Institution (today the Singapore Art Museum). This small chapel measured a modest 18.3 metres by 9 metres.18
+With the establishment of a British trading post on the island of Singapore in February 1819, French priest Reverend Imbert visited in 1822 and reported to the Bishop of Siam that the island had 12 or 13 Roman Catholics who lived “wretched” lives.[^14] By 1832, French missionaries had formed a permanent base in Singapore with Reverend Jean-Baptiste Boucho (later Bishop) and Padre Anselmo Yegros,[^15] after they were granted rent-free land by the British colonial government on Bras Basah Road for the purpose of worship. Within a year, the first Roman Catholic chapel was consecrated on 5 May 1833, on the site of the former St Joseph’s Institution (today the Singapore Art Museum). This small chapel measured a modest 18.3 metres by 9 metres.[^16]
 
 Between 1832 and 1839, the congregation grew relatively quickly, picking up speed from 1842, when inroads were made with the conversion of large numbers of China-born Teochew settlers. With steady growth came the
 need to expand beyond the little chapel, and so by 1841 fundraising for a
 proper church began. The Church of the Good Shepherd (now Cathedral)
-building was completed six years later in 1847.19
+building was completed six years later in 1847.[^17]
 
 #### **Growth of New Multiracial Congregations**
 Church archival records show that the majority of the early lay congregation
@@ -75,40 +75,35 @@ was made up of Roman Catholic Melakans from the Peranakan Kristang
 community. This community probably arrived soon after the establishment
 of the colonial outpost, encouraged by the newly appointed Resident of
 Singapore, William Farquhar, and attracted by higher wages and good
-prices.20 Song Ong Siang claimed the church had approximately 300
+prices.[^18] Song Ong Siang claimed the church had approximately 300
 Asian adherents in 1833, of whom “nine-tenths” were Malay-Portuguese
-descendants from Melaka.21 Song’s figures are hard to corroborate, but
+descendants from Melaka.[^19] Song’s figures are hard to corroborate, but
 church records from the period do show the Melakan Peranakan Kristang
 community accounting for more than half of all marriage and baptism
 ceremonies between 1832 and 1843. This was followed by the Chinese, and
 to a lesser extent Indians, Eurasians from Penang, India, Bencoolen and
 Macao, and Europeans. There appear to have been no locally born ethnic
-Chinese, Indians or Peranakans in this early congregation.22
+Chinese, Indians or Peranakans in this early congregation.[^20]
 
 Making up the second-largest ethnic group in the 1830s congregation were
 the Teochews, who hailed from Guangdong, China. For some reason, the
 early conversions of these adherents were not listed in the baptism registers,
 but there is clear evidence of baptisms taking place as early as September
-1833.23 Evangelisation among the Teochew migrants in Singapore began
-with the church’s inception in 1832.24 The first recorded conversion was in December 1839, in which Rev. John Tschu (1783–1848), a Canton-born priest, converted a wealthy Teochew merchant.25 By 1842, there was a big jump in conversion numbers and this accelerated further from 1844. In 1846, a new Teochew-centred church – St Joseph’s Church – was opened in rural Bukit Timah to cater to the large community of Teochew workers and planters living in the area.26
+1833.[^21] Evangelisation among the Teochew migrants in Singapore began
+with the church’s inception in 1832.[^22] The first recorded conversion was in December 1839, in which Rev. John Tschu (1783–1848), a Canton-born priest, converted a wealthy Teochew merchant.[^23] By 1842, there was a big jump in conversion numbers and this accelerated further from 1844. In 1846, a new Teochew-centred church – St Joseph’s Church – was opened in rural Bukit Timah to cater to the large community of Teochew workers and planters living in the area.[^24]
 
 #### **Intermarriages Within the Early Roman Catholic Church**
 
-Despite the British colonialists’ push to divide local communities, there is clear evidence that the Roman Catholic church in the 19th century did not discourage intermarriages and even facilitated unions between its racially diverse congregants. In December 1848, Fr. Jean Marie Beurel, a key figure in the Roman Catholic church in Singapore, noted that men from China came “without women”, and when they came “here they marry”.27 This point was highlighted by Rerceretnam (2012), looking at church records dating back to the latter half of the 19th century, which show that such interracial marriages took place with the assistance of related church facilities such as orphanages. The 2012 study posited, however, that this occurrence was “relatively rare” until the second or third decade of the 20th century.28
+Despite the British colonialists’ push to divide local communities, there is clear evidence that the Roman Catholic church in the 19th century did not discourage intermarriages and even facilitated unions between its racially diverse congregants. In December 1848, Fr. Jean Marie Beurel, a key figure in the Roman Catholic church in Singapore, noted that men from China came “without women”, and when they came “here they marry”.[^25] This point was highlighted by Rerceretnam (2012), looking at church records dating back to the latter half of the 19th century, which show that such interracial marriages took place with the assistance of related church facilities such as orphanages. The 2012 study posited, however, that this occurrence was “relatively rare” until the second or third decade of the 20th century.[^26]
 
-The present study, having been provided access to earlier records, shows unmistakably that intermarriages took place within the racially mixed congregation and were more prevalent than previously believed, most significantly between newly arrived China-born Teochew males and females from the old Peranakan Kristang community.29 The graphs on page 62 address the marital unions from the reference point of the male partner, 
+The present study, having been provided access to earlier records, shows unmistakably that intermarriages took place within the racially mixed congregation and were more prevalent than previously believed, most significantly between newly arrived China-born Teochew males and females from the old Peranakan Kristang community.[^27] The graphs on page 62 address the marital unions from the reference point of the male partner, 
 
-<img src="/images/COA%202019/Roman%20Catholic%20Communities/Table_1.jpg" style="width:80%;">
+<img src="/images/COA%202019/Roman%20Catholic%20Communities/Table_1.jpg" style="width:100%;">
 
-<img src="/images/COA%202019/Roman%20Catholic%20Communities/Table_2.jpg" style="width:80%;">
-
-
-<img src="/images/COA%202019/Roman%20Catholic%20Communities/Table_3.jpg" style="width:80%;">
+<img src="/images/COA%202019/Roman%20Catholic%20Communities/Table_2.jpg" style="width:100%;">
 
 
-
-
-
+<img src="/images/COA%202019/Roman%20Catholic%20Communities/Table_3.jpg" style="width:100%;">
 
 
 
@@ -116,12 +111,12 @@ The present study, having been provided access to earlier records, shows unmista
 
 largely because colonial society was primarily patriarchal in nature, and choices in marriage were often made from the perspective of the man.
 
-Between 1833 and 1843, eight marriages involving China-born men were celebrated at the Roman Catholic chapel on Bras Basah Road, mostly with women from the Melaka-born Kristang Peranakan community. In addition, two married local women of Orang Asli descent30 and one married an ethnic Chinese woman. Within the Melaka-born Kristang Peranakan community, out of 19 marriages, 12 were between fellow Kristang members, one with a Chinese woman, five with Chinese men, and one with an Italian man. Among the Eurasians, there were five all-Eurasian unions, one intermarriage with a European and another with an unidentified male. There were four all-Indian marriages, and only one intermarriage with a European.
+Between 1833 and 1843, eight marriages involving China-born men were celebrated at the Roman Catholic chapel on Bras Basah Road, mostly with women from the Melaka-born Kristang Peranakan community. In addition, two married local women of Orang Asli descent[^28] and one married an ethnic Chinese woman. Within the Melaka-born Kristang Peranakan community, out of 19 marriages, 12 were between fellow Kristang members, one with a Chinese woman, five with Chinese men, and one with an Italian man. Among the Eurasians, there were five all-Eurasian unions, one intermarriage with a European and another with an unidentified male. There were four all-Indian marriages, and only one intermarriage with a European.
 
 By 1843, the size of the Chinese congregation had grown considerably, possibly approaching or even overtaking the Melaka-born (and now often Singapore-born) Peranakan Kristang community. The number of marriages involving China-born males was more than double that of their Peranakan Kristang counterparts. Of the China-born males, many still married women from the Peranakan Kristang community, but even more formed unions with local-born Chinese women from Singapore, Riau, Lingga and the neighbouring region. In addition, there were a few unions with Malays (possibly orphans), one with a Peranakan woman (possibly Melakan Chinese), and one with an Indian girl from Bengal. Eurasian males began to marry outside their group – one to a Kristang woman and another to an Indian woman. Of the three Indian males married at the church, two married Indian women, and one a Eurasian woman. Unions involving European males seem to have remained relatively diversified.
 
-The year 1853 was a significant one for the Good Shepherd Church. A large part of its original congregation left to join the newly completed St Joseph’s Church (Portuguese Mission)31 situated several hundred metres away on Victoria Street. For the first time, the numerical dominance of the church’s Teochew congregation came to the fore. At this stage, there were slightly
-more than 340 ethnic Chinese parishioners.32 Even the popular coupling of
+The year 1853 was a significant one for the Good Shepherd Church. A large part of its original congregation left to join the newly completed St Joseph’s Church (Portuguese Mission)[^29] situated several hundred metres away on Victoria Street. For the first time, the numerical dominance of the church’s Teochew congregation came to the fore. At this stage, there were slightly
+more than 340 ethnic Chinese parishioners.[^30] Even the popular coupling of
 China-born Teochew males and Melaka-born Peranakan Kristang females
 seems to have subsided by late 1852. To a limited extent, this gap appears
 to have been taken up by Chinese women. After 1853, up to six women of
@@ -140,27 +135,27 @@ Kristang community’s move to their new Portuguese Mission-controlled
 church had put a social wedge between the two groups. Starting in the
 1830s, competition between the Portuguese Mission and the French Mission
 was a sore point for many decades. The Portuguese claimed ecclesiastical
-control of the region, but the issue was not resolved until 1886.33 It is
+control of the region, but the issue was not resolved until 1886.[^31] It is
 highly likely that the feuding missions frowned on each other’s “rival”
 congregations and discouraged mixing on a social basis. Between 1858
 and 1868, there was only one intermarriage between a Chinese male and a
-Peranakan Kristang female.34 The rest of the marriages appear to be with
-ethnic Chinese women.35
+Peranakan Kristang female.[^32] The rest of the marriages appear to be with
+ethnic Chinese women.[^33]
 
 The situation at the rural St Joseph’s Church in Bukit Timah was more dire.
 Despite its relatively large congregation, only 72 marriages were celebrated
 between its inception in 1847 and 1880. These marriages appear to involve
 exclusively Chinese women, with the exception of one, involving an Indian
-woman from Melaka.36 Many of these Chinese women could have come from the orphanage run by the local Convent of the Holy Infant Jesus, which was set up in 1855.37
+woman from Melaka.[^34] Many of these Chinese women could have come from the orphanage run by the local Convent of the Holy Infant Jesus, which was set up in 1855.[^35]
 
 #### **Overview of Intermarriages, 1833 to 1858**
 Over the 25-year period between 1833 and 1858, a total of 125 marriages were celebrated under the auspices of the French Mission of the Roman Catholic church in Singapore. Of this number, 42 instances, or 33.6 percent, involved mixed-race couples. This figure is significant, as no other multiracial entity is known to have existed within colonial Singapore at the time.
 
-It also should be noted that in colonial society, especially among the male population, many often knew “no racial or class barrier” when it came to sexual relations.38 It can therefore be assumed that, at a sexual level, many of these men were already familiar with the concept of a multiracial society. In addition, there appear to be very few direct references made by the French clergy to these intermarriages in their correspondence, suggesting that they did not see it as an issue. Whatever their motives were, it is clear they inadvertently facilitated interracial relationships at a formal yet intimate level.39
+It also should be noted that in colonial society, especially among the male population, many often knew “no racial or class barrier” when it came to sexual relations.[^36] It can therefore be assumed that, at a sexual level, many of these men were already familiar with the concept of a multiracial society. In addition, there appear to be very few direct references made by the French clergy to these intermarriages in their correspondence, suggesting that they did not see it as an issue. Whatever their motives were, it is clear they inadvertently facilitated interracial relationships at a formal yet intimate level.[^37]
 
-While the significance of mixed marriages is important in colonial Singapore, the numbers reported are still low, especially when seen in relation to the overall size of the congregation. No official statistics are available of the size of these early congregations, but estimates do exist. In 1833, a year after the establishment of the mission on Bras Basah Road, the congregation was assessed to be around 300.40 By 1851, this had climbed marginally to 340 (150 of whom were located at the Bukit Timah church site).41 Between 1833 and 1843, within the China-born community, there were only eight marriages, meaning that many more did not get the opportunity to marry – a point acknowledged by Beurel in July 1847, when
+While the significance of mixed marriages is important in colonial Singapore, the numbers reported are still low, especially when seen in relation to the overall size of the congregation. No official statistics are available of the size of these early congregations, but estimates do exist. In 1833, a year after the establishment of the mission on Bras Basah Road, the congregation was assessed to be around 300.[^38] By 1851, this had climbed marginally to 340 (150 of whom were located at the Bukit Timah church site).[^39] Between 1833 and 1843, within the China-born community, there were only eight marriages, meaning that many more did not get the opportunity to marry – a point acknowledged by Beurel in July 1847, when
 he wrote how marriage among the resident Chinese “rarely happens at least
-in this island”.42
+in this island”.[^40] 
 
 So, what was so special about these eight China-born men (see Table 1)
 that enabled them to find wives within the local Peranakan Kristang,
@@ -173,7 +168,7 @@ Portuguese names too); they were literate, spoke English as a first language
 and were employed in white-collar jobs by their British masters. Then there
 were the poor “Portuguese”, who made up the lower class; they were mostly
 illiterate, spoke a local creolised form of Portuguese called Kristang and
-mainly worked as fishermen or fishmongers.43
+mainly worked as fishermen or fishmongers.[^41] 
 
 It is not surprising that many members of the latter subgroup, being poor,
 would have taken the opportunity to align themselves with potentially
@@ -187,16 +182,16 @@ The Peranakan Kristang community were the most established of the
 various church communities in Singapore. Tracing their origins to
 16th-century Melaka, not only were they the largest grouping within the
 new Singapore church, but like most of their fellow Peranakan community
-counterparts they benefited from a relatively balanced gender ratio44 –
+counterparts they benefited from a relatively balanced gender ratio[^42]  –
 something the China-born Teochew community did not have. For the new
 immigrants, seeking a spouse meant taking time away from employment
 and travelling back home; this was an expensive exercise. The only other
 option was to find an appropriate and willing female partner locally.
 
-But marrying a local woman was made very difficult by the low ratio of women to men, a problem not overcome until the 1930s. In 1823, the ratio of women to men in the Malay Archipelago was 1:8, by 1850 1:12 and in 1860 1:15.45 These numbers were echoed in Singapore, with one Chinese woman to 15 Chinese men in the mid-1860s, improving only slightly in the 1880s to 1:9.46 According to Seah Eu Tong’s 1848 account, among the Chinese, only shopkeepers or the Melaka-born could afford to marry, resulting in only 2,000 Chinese men in Singapore being married.47 These dynamics can be observed at the rural-based St Joseph’s Church (Bukit Timah). Since most of this community comprised poor farmers, they had no financial enticement to offer potential brides. Their opportunities for marriage were far more limited compared with their city-based brethren at the Good Shepherd Church, hence accounting perhaps for the mere 72 marriages held at the parish between 1847 and 1880.48
+But marrying a local woman was made very difficult by the low ratio of women to men, a problem not overcome until the 1930s. In 1823, the ratio of women to men in the Malay Archipelago was 1:8, by 1850 1:12 and in 1860 1:15.[^43] These numbers were echoed in Singapore, with one Chinese woman to 15 Chinese men in the mid-1860s, improving only slightly in the 1880s to 1:9.[^44] According to Seah Eu Tong’s 1848 account, among the Chinese, only shopkeepers or the Melaka-born could afford to marry, resulting in only 2,000 Chinese men in Singapore being married.[^45] These dynamics can be observed at the rural-based St Joseph’s Church (Bukit Timah). Since most of this community comprised poor farmers, they had no financial enticement to offer potential brides. Their opportunities for marriage were far more limited compared with their city-based brethren at the Good Shepherd Church, hence accounting perhaps for the mere 72 marriages held at the parish between 1847 and 1880.[^46] 
 
-As a Roman Catholic, the only viable option for marriage was with a fellow Roman Catholic. Marriage under the auspices of the church would not allow marriage with a non-believer.49 Marriage with a Protestant was tolerated and occasionally allowed by the clergy, but only after the Protestant partner signed an oath to allow their partner to continue as a Roman Catholic and to bring up their children as Roman Catholics.50 The options open to the newly arrived China-born men were therefore daunting. In Singapore, seeking a wife in the resident Peranakan Chinese community was not an option, for during this period (1830s to 1860s) there is little to no evidence of a pre-existing Roman Catholic Chinese Peranakan community. Even if they did exist, this community was unlikely to accept lowly China-born *sinkeh*51 men within their ranks, though of course exceptions could be made if one was already established, regarded as industrious or possessing
-potential.52 There are occasional references to a very small number of
+As a Roman Catholic, the only viable option for marriage was with a fellow Roman Catholic. Marriage under the auspices of the church would not allow marriage with a non-believer.[^47] Marriage with a Protestant was tolerated and occasionally allowed by the clergy, but only after the Protestant partner signed an oath to allow their partner to continue as a Roman Catholic and to bring up their children as Roman Catholics.[^48] The options open to the newly arrived China-born men were therefore daunting. In Singapore, seeking a wife in the resident Peranakan Chinese community was not an option, for during this period (1830s to 1860s) there is little to no evidence of a pre-existing Roman Catholic Chinese Peranakan community. Even if they did exist, this community was unlikely to accept lowly China-born *sinkeh*[^49] men within their ranks, though of course exceptions could be made if one was already established, regarded as industrious or possessing
+potential.[^50] There are occasional references to a very small number of
 locally born Chinese women in the church.53 However, this, too, was very
 rare at this stage. Song did observe in his 1923 book that the majority of
 Singapore Peranakan families only went back three or four generations
