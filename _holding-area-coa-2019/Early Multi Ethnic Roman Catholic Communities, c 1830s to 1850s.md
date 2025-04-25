@@ -362,3 +362,39 @@ Van Kirk, Sylvia. “From “Marrying-In” to “Marrying-Out”: Changing Patt
 
 Wright, Nadia. “[Farquhar and Raffles: The Untold Story](https://biblioasia.nlb.gov.sg/vol-14/issue-4/jan-mar-2019/fnr-untold-story/).” _BiblioAsia,_ 14, no. 4 (January–March 2019)
 
+        
+
+**_Sound recorded material_**
+
+Wee, Philip Peng Leng. Oral history interview by P. Wee and M. Wee, 1904–1991, 18 August 1981.
+
+**_Archival material_**
+
+“Good Shepherd.” _Baptism Registers_ 1 (1832–1867)
+
+“Good Shepherd.” _Liber Matrimonium_ 2–111 (1833–1857): various.
+
+“St. Joseph’s Church (Bukit Timah).” _Liber Matrimonium_ (1847–1861)
+
+**_Websites_**
+
+Eric Guerassimoff, Eric. “The Gangzhu of Johor: Memories of a French Missionary in Malaysia (1859–1870).” _Etudes Chinoises_, 15, no. 1 (1997): 107.
+
+“History of the Catholic Church in Singapore: The Virtual Exhibition: St. Joseph’s Church.” The Roman Catholic Archdiocese of Singapore, n.d.
+
+Song Ong Siang, [_One Hundred Years’ History of the Chinese in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=f8082431-1c7b-460e-b59c-bbc5793035a3). London: John Murray, 1923, 46. (From National Library Online)
+
+Tan, Martino and Jonathan Lim, “Online Brouhaha Over Heng Swee Keat’s Comments Shows More S’poreans Ready for Non-Chinese PM Sooner Than Later.” _Mothership_, 30 March 2019.
+
+Wong, Pei Ting. “Older Generation of S’poreans Not Ready for Non-Chinese PM: Heng Swee Keat.” _Today_, 29 March 2019.
+
+**_Theses and unpublished material_**
+
+Dertien, Kim. “Irrevocable Ties and Forgotten Ancestry: The Legacy of Colonial Intermarriage for Descendants of Mixed Ancestry.” Master’s thesis, University of British Columbia, Vancouver, 2008.
+
+Liew C., “Persecution of Chinese Christians in Early Colonial Singapore 1845–1869.” Unpublished historical inquiry report, Roman Catholic Archdiocese of Singapore, 2016, 40–1.
+
+McNamara, Anthony. “[The Letters of Fr. J. M. Beurel Relating to the Establishment of St. Joseph’s Institution Singapore](https://www.nas.gov.sg/archivesonline/private_records/record-details/df327c52-115b-11e3-83d5-0050568939ad),” Translated, edited and with a monograph by Rev. Brother Anthony St. Xavier's Institution, Penang, private records, 1987. (From National Archives of Singapore accession no. 152; microfilm NA 1334)
+
+14 Williams, Kenneth M. “The Church in West Malaysia and Singapore: A Study of the Catholic Church in West Malaysia and Singapore Regarding Her Situation as an Indigenous Church.” PhD diss., Catholic University of Leuven, 1976, 93.
+
