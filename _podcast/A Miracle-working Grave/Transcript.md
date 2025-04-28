@@ -165,153 +165,116 @@ to a military officer, Hulublang, I believe that’s how it’s pronounced.&nbsp
 of strength that everyone seems to know that’s been picked up and mythologised
 for Singapore national patriotic purposes is him tossing this rock, from
 what we call Fort Canning to the mouth of the river. And in the original
-versions of this, this is literally two sentences.</p>
-<p>&nbsp;</p>
+versions of this, this is literally two sentences.&nbsp;</p>
 <p>It’s not some long drawn-out incident in the annals. I mean, it’s like
 there was a big rock, to prove his strength, he picked it up and tossed
-it, and it wound up at the mouth of the river.</p>
-<p>&nbsp;</p>
+it, and it wound up at the mouth of the river.&nbsp;</p>
 <p>So, from those two sentences, we get this explosion of Badang within the
-kind of Singapore national consciousness, which I find really fascinating.</p>
-<p><strong>&nbsp;</strong>
+kind of Singapore national consciousness, which I find really fascinating.<strong>&nbsp;</strong>
 </p>
 <p><strong>Jimmy</strong>
-</p>
-<p>What is really interesting to me is that in your article for <em>BiblioAsia</em>,
+<br>What is really interesting to me is that in your article for <em>BiblioAsia</em>,
 you point out that actually in the <em>Malay Annals</em>, there is no mention
 of any writings of any sort on this rock, which is what the Singapore Stone
-is primarily known for.</p>
-<p><strong>&nbsp;</strong>
+is primarily known for.<strong>&nbsp;</strong>
 </p>
 <p><strong>William Gibson</strong>
-</p>
-<p>So, the Singapore stone as it’s called, which is a post-independence name
+<br>So, the Singapore stone as it’s called, which is a post-independence name
 for it, becomes a kind of totem of patriotism within Singapore. There was
 an effort made after independence to find a past for Singapore as distinct
-from Malaysia and Indonesia. And what makes a Singaporean.</p>
-<p>&nbsp;</p>
+from Malaysia and Indonesia. And what makes a Singaporean.&nbsp;</p>
 <p>And they kind of took what was in the 1950s, a British interpretation
 of pre-colonial Singapore, based on a very select reading of a very few
 select texts. And from that created this story of early Singapore, which
 is still with us. I mean, I think scholars have been chipping away at that
 and trying to point out places where it’s no longer an accurate version,
 but because it’s been enshrined in National Day parades and kids’ books,
-it’s become part of a kind of curriculum.</p>
-<p>&nbsp;</p>
+it’s become part of a kind of curriculum.&nbsp;</p>
 <p>It's become conventional wisdom, the accepted story. So, this Badang throwing
 the Singapore stone is what people know him for doing. But yeah, if you
 go back to the <em>Annals</em>, there’s no mention of any writing on the
-stone before or after. And so, you ask yourself, where does this come from?</p>
-<p>&nbsp;</p>
+stone before or after. And so, you ask yourself, where does this come from?&nbsp;</p>
 <p>And it comes from a British source, a fellow named Peter Begbie who wrote
-a very important book, <em>The Malayan Peninsula in 1834</em>.</p>
-<p>&nbsp;</p>
+a very important book, <em>The Malayan Peninsula in 1834</em>.&nbsp;</p>
 <p>It’s a very important record of the era. And it is in that book that we
 first find this mixing of the Singapore stone and Badang. And to understand
 that you have to take a step back and understand what the Singapore Stone
-was and where it was found.</p>
-<p>&nbsp;</p>
+was and where it was found.&nbsp;</p>
 <p>So, it was this large, engraved rock that was at the mouth of the Singapore
 River, which seems at first glance to match the Badang story, because he
 threw the rock and it landed at the mouth of the river, right? Unfortunately,
 that rock was located in a place called Rocky Point because there were
-lots of rocks there.</p>
-<p>&nbsp;</p>
+lots of rocks there.&nbsp;</p>
 <p>It wasn’t the only rock at the mouth of the river, which, I think in people’s
 minds it was like, oh, there was the mouth of the river and there’s this
 thing – and it wasn’t. There were lots of rocks around there, including
 other rocks that were considered sacred by <em>Orang Laut </em>and other
 people. Munshi Abdullah in his autobiography describes Rocky point very
-carefully.</p>
-<p>&nbsp;</p>
+carefully.&nbsp;</p>
 <p>So, we’ve got a good idea of what it looks like. And amongst these rocks,
 the British came across the one with engraving on it, which is what we
 know as the Singapore Stone. They blow it up and we only have fragments
 left. Scholars still debate what language it’s written in and what’s actually
 written on it. But Begbie, back in the early 1830s, somehow either someone
 told him or he was confused, but it winds up in his book that this is the
-rock that Badang threw, and &nbsp;that’s what’s written in his story.</p>
-<p><strong>&nbsp;</strong>
+rock that Badang threw, and &nbsp;that’s what’s written in his story.<strong>&nbsp;</strong>
 </p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Right.</p>
+<br>Right.</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p><strong>William Gibson</strong>
-</p>
-<p>Which causes some issues because in the <em>Annals</em>, like we said,
+<br>Which causes some issues because in the <em>Annals</em>, like we said,
 there’s no writing on the rock that Badang throws. There is, however, writing
-on a grave that was made for him after he died.</p>
-<p><strong>&nbsp;</strong>
+on a grave that was made for him after he died.<strong>&nbsp;</strong>
 </p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay...</p>
-<p><strong>&nbsp;</strong>
+<br>Okay...<strong>&nbsp;</strong>
 </p>
 <p><strong>William Gibson</strong>
-</p>
-<p>So, Begbie mixes up three separate rocks that are associated with Badang
+<br>So, Begbie mixes up three separate rocks that are associated with Badang
 and that mix up has kind of never been undone. So, we wind up still with
 a story that Badang threw the Singapore Stone. Which seems to be a colonial
 era invention. You know, the British themselves came up with [the story]
 or maybe after the stone was discovered, some of the local people made
-that connection themselves and told the British.</p>
-<p><strong>&nbsp;</strong>
+that connection themselves and told the British.<strong>&nbsp;</strong>
 </p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Right.</p>
-<p><strong>&nbsp;</strong>
+<br>Right.<strong>&nbsp;</strong>
 </p>
 <p><strong>William Gibson</strong>
-</p>
-<p>But it doesn’t at least exist in the <em>Annals</em>.</p>
-<p><strong>&nbsp;</strong>
+<br>But it doesn’t at least exist in the <em>Annals</em>.<strong>&nbsp;</strong>
 </p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay.</p>
-<p><strong>&nbsp;</strong>
+<br>Okay.<strong>&nbsp;</strong>
 </p>
 <p><strong>William Gibson</strong>
-</p>
-<p>Or before Begbie. So, we really can’t say where exactly that story arises
+<br>Or before Begbie. So, we really can’t say where exactly that story arises
 from, but we can say, it doesn’t have a kind of deep historical resonance.
-Yeah?</p>
-<p><strong>&nbsp;</strong>
+Yeah?<strong>&nbsp;</strong>
 </p>
 <p><strong>Jimmy</strong>
-</p>
-<p>So, we have two stones, there’s one stone that Badang threw. There’s the
+<br>So, we have two stones, there’s one stone that Badang threw. There’s the
 other stone, the Singapore stone, the rock with the words, and there’s
-a third stone, which is his gravestone?</p>
-<p><strong>&nbsp;</strong>
+a third stone, which is his gravestone?<strong>&nbsp;</strong>
 </p>
 <p><strong>William Gibson</strong>
-</p>
-<p>Yes. So, in different versions of the <em>Annals</em>, it’s the same story,
+<br>Yes. So, in different versions of the <em>Annals</em>, it’s the same story,
 but there’s some details that change. Essentially after Badang died, you
 know, his fame was so renowned that the Tamil king, they called him the
 King of Kalinga, sent an engraved monument to be put over his grave. Which,
-where is the grave?</p>
-<p>&nbsp;</p>
+where is the grave?&nbsp;</p>
 <p>The <em>Annals</em> say he was buried by the Buru people. And then you have
 to start asking, well, where was Buru? In some versions, it was not one
 stone, but two. So, it looks like an Islamic grave lies on the grave with
 the two stones on either end. In other versions, it’s only one. But all
-the versions say this is still visible today.</p>
-<p><strong>&nbsp;</strong>
+the versions say this is still visible today.<strong>&nbsp;</strong>
 </p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Yes. That's interesting.</p>
-<p><strong>&nbsp;</strong>
+<br>Yes. That's interesting.<strong>&nbsp;</strong>
 </p>
 <p><strong>William Gibson</strong>
-</p>
-<p>It's interesting when you put it in perspective that the <em>Annals</em> that
+<br>It's interesting when you put it in perspective that the <em>Annals</em> that
 we’re referring to were written in the 15th century. So that was visible
 in the 15th century. It may not be invisible by the time the British show
 up. So going and looking for this becomes maybe quixotic. Nonetheless I
@@ -321,90 +284,63 @@ in the <em>Annals</em> and you realise very quickly that Buru is a bit ephemeral
 Very hard to find exactly where it is. Now, some places that are mentioned
 in the <em>Annals</em> and the British in the 19th century were very interested
 in doing this as well, like finding places that are mentioned in the <em>Annals</em>,
-to kind of legitimise it.</p>
-<p>&nbsp;</p>
+to kind of legitimise it.&nbsp;</p>
 <p>They went around, found these ruins right exactly where they should be.
 And there’s graves here where they say there should be graves. But Buru,
 they felt, was on a <em>tanjong</em> which goes down into the entrance of
 Selat Tebrau. Which they call the old Singapore Straits. The modern name
 of that is <em>Tanjung</em> Piai – P-I-A-I. Piai, if you want, but that’s
 not the PIE, that’s the very congested expressway. Don’t confuse that with
-that.</p>
-<p><strong>&nbsp;</strong>
+that.<strong>&nbsp;</strong>
 </p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Don’t get into PIE.</p>
-<p><strong>&nbsp;</strong>
+<br>Don’t get into PIE.<strong>&nbsp;</strong>
 </p>
 <p><strong>William Gibson</strong>
-</p>
-<p>That’s not a name that was in the <em>Annals</em> at all. However, older
+<br>That’s not a name that was in the <em>Annals</em> at all. However, older
 charts of that land call it Tanjung Buru, but then they start calling it
 Tanjung Barus. And then, by the 19th century, you see all three names appearing,
-sometimes on the same chart.</p>
-<p><strong>&nbsp;</strong>
+sometimes on the same chart.<strong>&nbsp;</strong>
 </p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Right.</p>
-<p><strong>&nbsp;</strong>
+<br>Right.<strong>&nbsp;</strong>
 </p>
 <p><strong>William Gibson</strong>
-</p>
-<p>So, the British in the 19th century look in the <em>Annals</em>, they see
+<br>So, the British in the 19th century look in the <em>Annals</em>, they see
 the name Buru and they say, it must have been this <em>Tanjung</em> where
-Badang was buried but there’s nothing there today.</p>
-<p><strong>&nbsp;</strong>
+Badang was buried but there’s nothing there today.<strong>&nbsp;</strong>
 </p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay.</p>
-<p><strong>&nbsp;</strong>
+<br>Okay.<strong>&nbsp;</strong>
 </p>
 <p><strong>William Gibson</strong>
-</p>
-<p>So, they went to look for this, too. They want to find this rock with
+<br>So, they went to look for this, too. They want to find this rock with
 Tamil writing on it. They can’t find it but they’re convinced this is where
 it was. Now if you look in the <em>Annals</em> again and it’s like, okay,
 if there are other clues about Buru. Some versions of the <em>Annals</em> are
-given as a war prize at one point and it is said to have 40 warships.</p>
-<p><strong>&nbsp;</strong>
+given as a war prize at one point and it is said to have 40 warships.<strong>&nbsp;</strong>
 </p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay.</p>
-<p><strong>&nbsp;</strong>
+<br>Okay.<strong>&nbsp;</strong>
 </p>
 <p><strong>William Gibson</strong>
-</p>
-<p>And these warships would have had very large crews. So, we’re not looking
+<br>And these warships would have had very large crews. So, we’re not looking
 for a small place. I mean, it would have been a fairly large property that
-they could feel that or it could have been a group of <em>Orang Laut.</em>
-</p>
-<p><strong>&nbsp;</strong>
+they could feel that or it could have been a group of <em>Orang Laut.</em><strong>&nbsp;</strong>
 </p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Which makes sense, yeah.</p>
-<p><strong>&nbsp;</strong>
+<br>Which makes sense, yeah.<strong>&nbsp;</strong>
 </p>
 <p><strong>William Gibson</strong>
-</p>
-<p>It does, but then they’re in the ocean. So, Buru would be someplace they
+<br>It does, but then they’re in the ocean. So, Buru would be someplace they
 were near. Right? So now you have another candidate which is Pulau Buru,
-which is an island just south of Pulau Karimun.</p>
-<p><strong>&nbsp;</strong>
+which is an island just south of Pulau Karimun.<strong>&nbsp;</strong>
 </p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Ah okay.</p>
-<p><strong>&nbsp;</strong>
+<br>Ah okay.<strong>&nbsp;</strong>
 </p>
 <p><strong>William Gibson</strong>
-</p>
-<p>Which is also not too far from the entrance to the Straits.</p>
-<p><strong>&nbsp;</strong>
+<br>Which is also not too far from the entrance to the Straits.<strong>&nbsp;</strong>
 </p>
 <p><strong>Jimmy</strong>
 </p>
