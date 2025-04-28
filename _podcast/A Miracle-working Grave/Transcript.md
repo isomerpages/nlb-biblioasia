@@ -343,50 +343,35 @@ which is an island just south of Pulau Karimun.<strong>&nbsp;</strong>
 <br>Which is also not too far from the entrance to the Straits.<strong>&nbsp;</strong>
 </p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay.</p>
-<p><strong>&nbsp;</strong>
+<br>Okay.<strong>&nbsp;</strong>
 </p>
 <p><strong>William Gibson</strong>
-</p>
-<p>And there is now a grave on Pulau Buru, which is said to be the grave
-of Badang.</p>
-<p><strong>&nbsp;</strong>
+<br>And there is now a grave on Pulau Buru, which is said to be the grave
+of Badang.<strong>&nbsp;</strong>
 </p>
 <p><strong>Jimmy</strong>
-</p>
-<p>So that’s it, we solved the problem!</p>
-<p><strong>&nbsp;</strong>
+<br>So that’s it, we solved the problem!<strong>&nbsp;</strong>
 </p>
 <p><strong>William Gibson</strong>
-</p>
-<p>But we haven’t, because we can only trace that back to about the 1960s.
+<br>But we haven’t, because we can only trace that back to about the 1960s.
 It’s actually the earliest reference to that grave being in places in the
-1970s. So, I went to Buru.</p>
-<p><strong>&nbsp;</strong>
+1970s. So, I went to Buru.<strong>&nbsp;</strong>
 </p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay. Was this purposely to look for the <em>keramat</em>?</p>
-<p><strong>&nbsp;</strong>
+<br>Okay. Was this purposely to look for the <em>keramat</em>?<strong>&nbsp;</strong>
 </p>
 <p><strong>William Gibson</strong>
-</p>
-<p>Purposely to find Badang’s grave. It’s on Google maps. It’s not hard to
+<br>Purposely to find Badang’s grave. It’s on Google maps. It’s not hard to
 find, but it’s a bit remote and so great fun getting there. And you get
 there, we got to photograph this site and talk to local people. How long
 has this been here? The 1960s or so we think, because this is already going
 back. These guys are already in their 50s, so they don’t have a lot of
-memories of this.</p>
-<p>&nbsp;</p>
+memories of this.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Yeah.</p>
-<p><strong>&nbsp;</strong>
+<br>Yeah.<strong>&nbsp;</strong>
 </p>
 <p><strong>William Gibson</strong>
-</p>
-<p>What was here before? Well, there was a rock with writing on it. Now,
+<br>What was here before? Well, there was a rock with writing on it. Now,
 this should stop you in your tracks, right? Okay. Now, what was the writing?
 Nobody knows. So, there’s a few references to writings on Buru. One of
 them is in a scholarly work which shows up in a footnote as there is a
@@ -395,166 +380,115 @@ when we were there. In other versions of this, it was Hindu writing, whatever
 that means. Sanskrit, I guess? But that’s the word they used. Hindu writing
 on the stone. So, there’s always a mysterious man from Malaysia who could
 read this Hindu writing and told the local people, this is the grave of
-Badang.</p>
-<p><strong>&nbsp;</strong>
+Badang.<strong>&nbsp;</strong>
 </p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Right.</p>
-<p><strong>&nbsp;</strong>
+<br>Right.<strong>&nbsp;</strong>
 </p>
 <p><strong>William Gibson</strong>
-</p>
-<p>So, we’re there. We look at the stone. There’s no writing on the headstone.</p>
-<p><strong>&nbsp;</strong>
+<br>So, we’re there. We look at the stone. There’s no writing on the headstone.<strong>&nbsp;</strong>
 </p>
 <p><strong>Jimmy</strong>
-</p>
-<p>It’s all been eroded.</p>
-<p><strong>&nbsp;</strong>
+<br>It’s all been eroded.<strong>&nbsp;</strong>
 </p>
 <p><strong>William Gibson</strong>
-</p>
-<p>Maybe it’s eroded. Maybe that stone was taken away at some point. Maybe
+<br>Maybe it’s eroded. Maybe that stone was taken away at some point. Maybe
 it never existed. I mean, there’s really no way to [know]. Unless someone
 has a photograph, we find more textual references to that? So, the site
 itself has been around since at least the 60s. Maybe, I could track it
-back to 1972.</p>
-<p>&nbsp;</p>
+back to 1972.&nbsp;</p>
 <p>The first mention of it, which again raises all sorts of strange questions.
 What is this thing? So, it could have started as a nature shrine. And then
 identity was important. It could have started out as an Orang Laut shrine.
 This particular thing is located on a rise. And this was an auspicious
-place, Orang Laut would place graves or grave shrines to their potentates.</p>
-<p>&nbsp;</p>
+place, Orang Laut would place graves or grave shrines to their potentates.&nbsp;</p>
 <p>So, it could have started as that and the identity shifted, or it could
 have just been someone had a dream and Badang presented himself or it could
-be something else completely.</p>
-<p><strong>&nbsp;</strong>
+be something else completely.<strong>&nbsp;</strong>
 </p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Or it could be Badang’s actual...</p>
-<p><strong>&nbsp;</strong>
+<br>Or it could be Badang’s actual...<strong>&nbsp;</strong>
 </p>
 <p><strong>William Gibson</strong>
-</p>
-<p>Or it could be Badang’s actual grave. You know, all the above are possibilities
+<br>Or it could be Badang’s actual grave. You know, all the above are possibilities
 you can entertain. With varying degrees of probability attached to each
 one of those. Now, there is a large tree there called the Garwood tree,
 which has long been a sacred tree because it creates a very fragrant wood
 which is used in both Buddhist and Hindu prayer beads and to make icons
-and carved wooden icons.</p>
-<p>&nbsp;</p>
+and carved wooden icons.&nbsp;</p>
 <p>So, the presence of that tree next to this shrine might be a tip off it
-was a nature shrine.</p>
-<p><strong>&nbsp;</strong>
+was a nature shrine.<strong>&nbsp;</strong>
 </p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay.</p>
-<p>&nbsp;</p>
+<br>Okay.&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>Or a Datuk Kong Shrine, which then took on this identity of.... And the
-signage on site calls him Datok Badang.</p>
-<p>&nbsp;</p>
+<br>Or a Datuk Kong Shrine, which then took on this identity of.... And the
+signage on site calls him Datok Badang.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Datok Badang? Okay.</p>
-<p>&nbsp;</p>
+<br>Datok Badang? Okay.&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>Which might be an indication and my own preference. IMO, as they say online
+<br>Which might be an indication and my own preference. IMO, as they say online
 these days. I just realised what that actually means. In my opinion, IMO,
-it’s probably...</p>
-<p>&nbsp;</p>
+it’s probably...&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>IMHO.. In my humble opinion. Did you not know this? You’re old, man...</p>
-<p>&nbsp;</p>
+<br>IMHO.. In my humble opinion. Did you not know this? You’re old, man...&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>Dude, I’m out of touch, spending too much time on this.</p>
-<p>&nbsp;</p>
+<br>Dude, I’m out of touch, spending too much time on this.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>In your humble opinion.</p>
-<p>&nbsp;</p>
+<br>In your humble opinion.&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>In my... IHMO, it probably started as a nature shrine and or was a very
+<br>In my... IHMO, it probably started as a nature shrine and or was a very
 old grave. Had it had an old stone on it, like a Batu Aceh stone or something.
 That stone just isn’t there anymore. It’s been completely rebuilt because
 it was designated as a cultural site by the Riau government, as kind of
-a tourist draw.</p>
-<p>&nbsp;</p>
-<p>And so they put concrete around it and it’s been nicely done.</p>
-<p>&nbsp;</p>
+a tourist draw.&nbsp;</p>
+<p>And so they put concrete around it and it’s been nicely done.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>So, all that work was done by the local government?</p>
-<p>&nbsp;</p>
+<br>So, all that work was done by the local government?&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>Yeah, that’s right. And only in the last, I think from the 1990s. That’s
+<br>Yeah, that’s right. And only in the last, I think from the 1990s. That’s
 in the <em>Biblioasia</em>  <a href="https://biblioasia.nlb.gov.sg/vol-21/issue-1/apr-jun-2025/origins-badang-strongman-singapore-stone/" rel="noopener noreferrer nofollow" target="_blank">article</a>.
 You can see photographs of that. And I did track when that was built. And
 how long it’s been considered an important cultural site by the Riau government.
-For a while, they’ve been trying to turn Buru into a kind of cultural draw.</p>
-<p>&nbsp;</p>
+For a while, they’ve been trying to turn Buru into a kind of cultural draw.&nbsp;</p>
 <p>And there’s cool stuff there. There’s an old mosque, there’s an old Chinese
 temple. There’s an old Bukit Cina, Chinese cemetery on the site. And it’s
 really not well investigated. So, it’s a cool place to go if you can make
 it there. And this Badung’s site is one of those cultural attractions that
-they’ve set up.</p>
-<p>&nbsp;</p>
+they’ve set up.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>I have to ask, how did you get there from Singapore? What’s involved?</p>
-<p>&nbsp;</p>
+<br>I have to ask, how did you get there from Singapore? What’s involved?&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>You have to take a ferry to Karimun and spend the night in Karimun, which
+<br>You have to take a ferry to Karimun and spend the night in Karimun, which
 is fun. While you’re there, you can go see the Kuraman inscription, which
 is a famous, Sriwijaya era Buddhist inscription. Which is also connected
 to Badang. I can come back any moment. Then you got to take a smaller ferry
-down to Buru.</p>
-<p>&nbsp;</p>
+down to Buru.&nbsp;</p>
 <p>You have to negotiate with the local people and get on a motorbike. They
 drive you through dirt roads, up through the fields and into the woods.
 And you end up at this site right in the middle of nowhere. It’s a blast.
 I should thank the Urban Explorers of Singapore who went with me in 2023
 to visit that site. And they’d been there before, and they knew how to
 get around. So that was very useful. And also to interview the local guides,
-you know, who took us to other sites as well.</p>
-<p>&nbsp;</p>
+you know, who took us to other sites as well.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay that sounds very fun, but you mentioned something about a Karimun
-inscription.</p>
-<p>&nbsp;</p>
+<br>Okay that sounds very fun, but you mentioned something about a Karimun
+inscription.&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>Inscription? Yeah. So, in the great search for Badang’s grave. You start
+<br>Inscription? Yeah. So, in the great search for Badang’s grave. You start
 looking for stones that have writing on them that would be either Tamil,
 because they say it’s a Tamil King, or writing that may have been considered
 Indianised. So it could be, you know, Sanskrit or something. I guess the
-local people wouldn’t be able to read it, but they knew it came from India.</p>
-<p>&nbsp;</p>
+local people wouldn’t be able to read it, but they knew it came from India.&nbsp;</p>
 <p>So, one of the sites that I found that might have been misconstrued or
 changed through the folktale into that is this Karimun inscription. Going
 back hundreds of years. But it’s on the base of a large granite kind of
 cliff face, and there are indentations going up that cliff face that have
-been interpreted as foot stone.</p>
-<p>&nbsp;</p>
+been interpreted as foot stone.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Footholds? Steps?</p>
-<p>&nbsp;</p>
+<br>Footholds? Steps?&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>Yeah, if you want to. The idea is that they’re footprints. They have been
+<br>Yeah, if you want to. The idea is that they’re footprints. They have been
 pressed into the stone by a figure. Now, in some interpretations of the
 actual inscription on the stone, they are footsteps of Buddha when he passed
 through. Other interpretations of that have it being another Buddhist holy
@@ -568,349 +502,237 @@ And these are not the only stones with footprints in them in the region.
 They have been associated with these kinds of semi mythological figures.
 There’s one associated with the Malay hero Hang Tuah, which is up in Cape
 Rachado, near Port Dickson. And there’s a great big rock with this kind
-of impression on it.</p>
-<p>&nbsp;</p>
+of impression on it.&nbsp;</p>
 <p>In my humble opinion, it’s a naturally occurring formation but sometimes
-they really do look like footprints.</p>
-<p>&nbsp;</p>
+they really do look like footprints.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Yeah. Okay.</p>
-<p>&nbsp;</p>
+<br>Yeah. Okay.&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>There’s another one in Penang in a Chinese temple called Sam Poh Kong,
+<br>There’s another one in Penang in a Chinese temple called Sam Poh Kong,
 which is associated with Admiral Cheng Ho. And again, that one really does
 look like a footprint. So, they built a temple around it. So, this is not
 a unique phenomenon to Karimun. So, one of these associations then is with
-Badang, another stone associated with it?</p>
-<p>&nbsp;</p>
+Badang, another stone associated with it?&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Right. Okay. Well, in addition to Pulau Buru, there other places, like
+<br>Right. Okay. Well, in addition to Pulau Buru, there other places, like
 in Perak, I think you were saying, there are other places that could be
-Buru or Pulu.</p>
-<p>&nbsp;</p>
+Buru or Pulu.&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>Yeah. There’s another in Sumatra in a place called Beruas – is how they
+<br>Yeah. There’s another in Sumatra in a place called Beruas – is how they
 transliterated that now. There are actually Tamil stones that date back
-to, like, the ten hundreds.</p>
-<p>&nbsp;</p>
+to, like, the ten hundreds.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Wow. Okay.</p>
-<p>&nbsp;</p>
+<br>Wow. Okay.&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>Yeah, a thousand years over. They’re now in the National Museum in Jakarta
+<br>Yeah, a thousand years over. They’re now in the National Museum in Jakarta
 and there’s no disputing the fact these were in place by Tamil traders
 and they match very closely the description of Badang’s grave in the <em>Malay Annals</em>,
-as far as it being a kind of pillar with, you know, Tamil writing on it.</p>
-<p>&nbsp;</p>
+as far as it being a kind of pillar with, you know, Tamil writing on it.&nbsp;</p>
 <p>So, those do exist in the region and if you look in Jawi, which I have
 a very imperfect understanding of, admittedly, but the kind of phonetically
 the way the words sound, the way you write Buru, or Beruas, or Burus are
-very similar.</p>
-<p>&nbsp;</p>
+very similar.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>So easy to....</p>
-<p>&nbsp;</p>
+<br>So easy to....&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>Well, so you start thinking, okay, there’s a few explanations for this.
+<br>Well, so you start thinking, okay, there’s a few explanations for this.
 Number one, remember these are hand copied manuscripts. So, it could be
 a copyist error. And in one edition of the <em>Annals</em>, I think it’s
-the Raffles 18, that error persists.</p>
-<p>&nbsp;</p>
+the Raffles 18, that error persists.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay.</p>
-<p>&nbsp;</p>
+<br>Okay.&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>So instead of writing Buru, they write Beruas.</p>
-<p>&nbsp;</p>
+<br>So instead of writing Buru, they write Beruas.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay, okay.</p>
-<p>&nbsp;</p>
+<br>Okay, okay.&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>Yeah. Beruas. I think I’m mispronouncing. Beruas, is what I should say.
+<br>Yeah. Beruas. I think I’m mispronouncing. Beruas, is what I should say.
 And so, the editors have always attributed this as an error. Maybe it’s
 not an error. Maybe that’s the original word that was being used and as
-these stories moved to the peninsula, they changed to Buru from Beruas.</p>
-<p>&nbsp;</p>
+these stories moved to the peninsula, they changed to Buru from Beruas.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Right.</p>
-<p>&nbsp;</p>
+<br>Right.&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>That’s one explanation. Another explanation is that Badang was buried
+<br>That’s one explanation. Another explanation is that Badang was buried
 in Sumatra and not near the entrance to the Straits. So, trying to find
 that exact spot, even trying to find Buru itself becomes sort of like looking
-for Atlantis.</p>
-<p>&nbsp;</p>
+for Atlantis.&nbsp;</p>
 <p>It seems like there may have probably been something there at one point.
 And then it becomes like Atlantis. No, I mean, seriously, there’s been
 enough, I think, archaeological work to say there probably was an island
 with the city on it that sank in the Mediterranean and that became this
 undersea city of Atlantis. You know, this pre-civilization of Atlantis,
-which is still a myth that persists today.</p>
-<p>&nbsp;</p>
+which is still a myth that persists today.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay. Although Aquaman was not. Speaking of Aquaman and stories, you’ve
-also done some research into other stories that are similar to Badang.</p>
-<p>&nbsp;</p>
+<br>Okay. Although Aquaman was not. Speaking of Aquaman and stories, you’ve
+also done some research into other stories that are similar to Badang.&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>Yeah. So, if you start looking at him as a folktale, and again, the vomit
+<br>Yeah. So, if you start looking at him as a folktale, and again, the vomit
 thing is important because that’s if you want to find, you know, a folktale,
 you look for different elements, so you break a tale down into its elements.
 And obviously, this emetic element of eating vomit is something that, okay,
-we’ll find other stories where people eat stuff.</p>
-<p>&nbsp;</p>
+we’ll find other stories where people eat stuff.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Is that very common, I mean, eating vomit?</p>
-<p>&nbsp;</p>
+<br>Is that very common, I mean, eating vomit?&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>I wouldn’t say common.</p>
-<p>&nbsp;</p>
+<br>I wouldn’t say common.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay. So that's good, right? So, it’s not like everybody did it to gain
-power.</p>
-<p>&nbsp;</p>
+<br>Okay. So that's good, right? So, it’s not like everybody did it to gain
+power.&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>It wasn’t a popular thing, it wasn’t on trend. There was no TikTok back
-then.</p>
-<p>&nbsp;</p>
+<br>It wasn’t a popular thing, it wasn’t on trend. There was no TikTok back
+then.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>We could start a new trend from it.</p>
-<p>&nbsp;</p>
+<br>We could start a new trend from it.&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>In my research, I didn’t find other folktales where, you know, stuff gets
+<br>In my research, I didn’t find other folktales where, you know, stuff gets
 up-chucked and eaten and there’s always something about the Badang story
 that seems very Hindu. And given that time frame, when they would have
-been Muslim, it would have been a Hindu, you know, setting.</p>
-<p>&nbsp;</p>
+been Muslim, it would have been a Hindu, you know, setting.&nbsp;</p>
 <p>And so you think, well, maybe the story has kind of migrated from India.
 And I did find a story, which is set in modern-day Bangladesh by the Burua
 people. Another odd, maybe coincidence, is that there is a story about
 a fisherman who catches a fish. So, there’s another parallel. This fish
-turns out to be the fish king who rides about on a cow.</p>
-<p>&nbsp;</p>
+turns out to be the fish king who rides about on a cow.&nbsp;</p>
 <p>So he’s got a sacred mount. And he winds up – I can’t remember exactly
 how the story goes. It’s in the article, but at some point, he winds up
 capturing a mythological beast who chucks a gold ring. And by taking this
 ring, it makes the fisherman incredibly rich. And he has a house of gold
 now, so you find these kinds of stories of the transference of power from
 the supernatural creature to human via this emetic means. So as opposed
-to casting a spell, you actually have to ingest something from that.</p>
-<p>&nbsp;</p>
+to casting a spell, you actually have to ingest something from that.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>It’s very, very powerful.</p>
-<p>&nbsp;</p>
+<br>It’s very, very powerful.&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>Yeah, it is a strong metaphor and it shows up in other stories. There
+<br>Yeah, it is a strong metaphor and it shows up in other stories. There
 was another one from, I believe, Perak. The story of a woman, Nenek Payung,
 I believe her name is. And she winds up meeting these two village girls,
-spitting in their mouths.</p>
-<p>&nbsp;</p>
+spitting in their mouths.&nbsp;</p>
 <p>And from that, they learned the methods of cultivating rice. So, this
 mother nature figure. <em>Nenek</em> means grandma. And so, she winds up
 coming and sharing agricultural knowledge via spitting in the mouth. So,
-these are parallels you can find with this Badang story of eating vomit.</p>
-<p>&nbsp;</p>
+these are parallels you can find with this Badang story of eating vomit.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Right. So, actually, now, you’ve been doing a lot of research into <em>keramat</em>.
+<br>Right. So, actually, now, you’ve been doing a lot of research into <em>keramat</em>.
 For the people who may not have listened to your earlier <a href="https://biblioasia.nlb.gov.sg/podcast/german-girl-shrine/" rel="noopener noreferrer nofollow" target="_blank">podcasts</a>,
-what exactly is a <em>keramat</em>?</p>
-<p>&nbsp;</p>
+what exactly is a <em>keramat</em>?&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>I think most people today associate it with a mystical grave, miracle-working
-grave.</p>
-<p>&nbsp;</p>
+<br>I think most people today associate it with a mystical grave, miracle-working
+grave.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>It’s not just a grave, it’s a miracle-working grave.</p>
-<p>&nbsp;</p>
+<br>It’s not just a grave, it’s a miracle-working grave.&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>Yeah, and it was important. So, a magical grave, if you want to put it
+<br>Yeah, and it was important. So, a magical grave, if you want to put it
 that way because whoever was buried had certain powerful properties. These
 concepts predate the coming of Islam to Nusantara (Malay World). And there’s
 a strong tradition of nature <em>keramat</em>. Which also have this power,
 usually a spirit living in a tree, a rock, a whirlpool or something like
-this. Animals could be <em>keramat</em>.</p>
-<p>&nbsp;</p>
+this. Animals could be <em>keramat</em>.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Oh, I did not know that.</p>
-<p>&nbsp;</p>
+<br>Oh, I did not know that.&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>Usually, but not always, like large predators. And often they were albino.
+<br>Usually, but not always, like large predators. And often they were albino.
 So white tigers and crocodiles. And these would be appreciated by people
 before they went to the forest or before they went fishing because these
 were real dangers to these people. They could be eaten by these animals.
-So you find a spirit incarnation of it.</p>
-<p>&nbsp;</p>
+So you find a spirit incarnation of it.&nbsp;</p>
 <p>And the word used for these was <em>keramat</em>. And when you get to Islamic
 traditions, then it overlaps with a lot of Sufi traditions, of ideas of <em>awliya</em>,
 friends of Allah, who were, for lack of a better term in English, saints,
 Islamic saints. Modern forms of Islam that were practiced now in this part
 of the world, in some countries, looked very much askance at this as a
-form of polytheism, which is not allowed in Islam.</p>
-<p>&nbsp;</p>
+form of polytheism, which is not allowed in Islam.&nbsp;</p>
 <p>And it’s a very touchy subject for many Muslims. On the other hand, in
 Indonesia, that issue doesn’t seem to be as broad as it is in Malaysia
 and Singapore. And worship at these <em>keramat,</em> or <em>makam</em> is
 the Arabic word, a grave of a high person, is very common and so happens
-very frequently to the point that it becomes a kind of industry.</p>
-<p>&nbsp;</p>
+very frequently to the point that it becomes a kind of industry.&nbsp;</p>
 <p>There are religious tours. People get on buses and drive, and they’re
 taken around all of Java or all of Sumatra to visit these sites, specifically
 to pray at them. And it becomes a kind of good luck tour, and very lucrative
 for the people running these tours. So, the sites I’m looking at in Jakarta,
-you know, participate in those kinds of tours.</p>
-<p>&nbsp;</p>
+you know, participate in those kinds of tours.&nbsp;</p>
 <p>And so these individual sites, if you go and study them and study their
 folk stories, you can find a lot of truth that runs underneath it, and
 it allows you to build a kind of map, an extraterritorial map of trade
 routes, cultural influences, even to the point of maybe when they arrived
-on the scene, which historians can find very interesting.</p>
-<p>&nbsp;</p>
+on the scene, which historians can find very interesting.&nbsp;</p>
 <p>Now, this is a bit tricky because we’re working with folktales. It’s sometimes
 hard to sort fact from fiction. But nonetheless, I think in recent times
 maybe only the last 10, 15 years, scholars, people at NUS even, have started
 looking at these things in a very different light, as opposed to just kind
-of disposable folk culture.</p>
-<p>&nbsp;</p>
+of disposable folk culture.&nbsp;</p>
 <p>Roadside shrines mean nothing. So, they’re like, wait a minute, there’s
 actually a lot of value here because they offer us a lot of insight into
 these historical events and moments, which otherwise we might not be able
 to have. So, there’s been that shift as well, and the importance of <em>keramat</em> was
 to preserve them and not just destroy them as a kind of, old fashioned
-superstition.</p>
-<p>&nbsp;</p>
+superstition.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>I just want to turn and talk about your book that you’ve published. What’s
-the title again?</p>
-<p>&nbsp;</p>
+<br>I just want to turn and talk about your book that you’ve published. What’s
+the title again?&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>The title of the book, which I’m holding in my hand is <em>Keramat, Sacred Relics and Forbidden Idols in Singapore</em>.</p>
-<p>&nbsp;</p>
+<br>The title of the book, which I’m holding in my hand is <em>Keramat, Sacred Relics and Forbidden Idols in Singapore</em>.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>It sounds like it’s obviously going to be a bestseller.</p>
-<p>&nbsp;</p>
+<br>It sounds like it’s obviously going to be a bestseller.&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>It is. It already has made me rich and famous.</p>
-<p>&nbsp;</p>
+<br>It is. It already has made me rich and famous.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>And, you actually, I think you did a lot of that research while you were
-a fellow at the National Library.</p>
-<p>&nbsp;</p>
+<br>And, you actually, I think you did a lot of that research while you were
+a fellow at the National Library.&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>Yeah, the Lee Kong Chian Research Fellowship in 2022, I believe. Yeah,
+<br>Yeah, the Lee Kong Chian Research Fellowship in 2022, I believe. Yeah,
 that was a key moment for me in that research, which, you know, it allowed
-me to spend time to focus just on that and not have to earn money elsewhere.</p>
-<p>&nbsp;</p>
+me to spend time to focus just on that and not have to earn money elsewhere.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>As the expert on <em>keramat</em>. How many <em>keramat</em> are there now
-in Singapore?</p>
-<p>&nbsp;</p>
+<br>As the expert on <em>keramat</em>. How many <em>keramat</em> are there now
+in Singapore?&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>I mean, it’s hard to say. At one point, in the 1950s it was over 100.</p>
-<p>&nbsp;</p>
+<br>I mean, it’s hard to say. At one point, in the 1950s it was over 100.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Over 100?</p>
-<p>&nbsp;</p>
-<p><strong>William Gibson</strong>
-</p>
-<p>Yeah, so studies in the 1950s, people undertook, you know, listed them.
-There were maybe two dozen really well-known ones in the 1950s. Yeah, by
-the end 19 – before independence.</p>
-<p>&nbsp;</p>
+<br>Over 100?&nbsp;</p>
+<p><strong>William Gibson</strong>Yeah, so studies in the 1950s, people undertook,
+you know, listed them. There were maybe two dozen really well-known ones
+in the 1950s. Yeah, by the end 19 – before independence.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Yeah.</p>
-<p>&nbsp;</p>
+<br>Yeah.&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>And the development and now redevelopment that’s been going on in Singapore.
+<br>And the development and now redevelopment that’s been going on in Singapore.
 The British destroyed a few, but they tended to keep them. Mostly because
 they had trouble finding people who would be willing to demolish them because
-it brings you bad luck. You risk death if you demolish.</p>
-<p>&nbsp;</p>
-<p>And so, then the British, like, you know, if it’s not really in the way…</p>
-<p>&nbsp;</p>
+it brings you bad luck. You risk death if you demolish.&nbsp;</p>
+<p>And so, then the British, like, you know, if it’s not really in the way…&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>We’ll work around it.</p>
-<p>&nbsp;</p>
+<br>We’ll work around it.&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>We’ll leave it. If it’s in the way, we’ll blow it up. Very British solutions
+<br>We’ll leave it. If it’s in the way, we’ll blow it up. Very British solutions
 to these things. Yeah. In the independence era, there was a tendency to
 say everything is going to go, it doesn’t matter. You know, temple, mosque,
 village, whatever, it’s going to be redeveloped and it was and there was
-not a lot of study done on those sites.</p>
-<p>&nbsp;</p>
+not a lot of study done on those sites.&nbsp;</p>
 <p>So, a lot of them were lost in that period. Of the 25-odd that were around
 in the 1950s, you’re probably down to about five or six now. That are well-known
 and accessible. There’s a few that are less well-known and are inaccessible
 because they’re on state land or private land. Which I had to make a great
-effort to access and find.</p>
-<p>&nbsp;</p>
+effort to access and find.&nbsp;</p>
 <p>So, you know, I think within Singapore, you can probably name a few that
 are well-known. There’s Kusu, Habib Noh is the most important. Now, I’d
 like to talk, if we have time, I’d like to talk about him a bit more later.
 Iskandar Shah, which is in Fort Canning.</p>
 <p>And you also have in Siglap, you’ve got the founder of Siglap, who is
-Tok Lasam.</p>
-<p>&nbsp;</p>
+Tok Lasam.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Oh, I didn’t know there was a <em>keramat</em>.</p>
-<p>&nbsp;</p>
+<br>Oh, I didn’t know there was a <em>keramat</em>.&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>Yeah, there is. This is in a little field on a street called Jalan Pedang
+<br>Yeah, there is. This is in a little field on a street called Jalan Pedang
 Sang. Which is right in the heart of Siglap, right where all the fancy
 restaurants and tapas bars are these days. That originally had been Kampong
 Siglap. And when that was destroyed, the cemetery around it was removed
-except for those graves.</p>
-<p>&nbsp;</p>
+except for those graves.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay.</p>
-<p>&nbsp;</p>
+<br>Okay.&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>Which are still there and I was able to track that very, very specifically.
+<br>Which are still there and I was able to track that very, very specifically.
 And he was an actual person. His name shows up in the newspapers. He was
 the <em>penghulu</em> of Siglap. So, there’s a real history behind that.
 Yeah, but these are the ones that I think are best known that still exist.
