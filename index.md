@@ -1213,7 +1213,9 @@ sections:
       title: "Peng Tsu Ying: Singapore's Pioneering Deaf Educator"
       subtitle: Podcast
       id: infopic
-      description: Peng Tsu Ying founded Singapore's first school for the deaf in 1954.
+      description: Librarian Nathaniel Chew tells us about Peng's advocacy, his own
+        journey learning the Singapore Sign Language and the different ways it
+        has evolved.
       button: Listen to the Episode
       url: /podcast/peng-tsu-ying-singapore-pioneering-deaf-educator-nathaniel-chew/
       image: /images/Podcast/Nathaniel_Chew_web.jpg
