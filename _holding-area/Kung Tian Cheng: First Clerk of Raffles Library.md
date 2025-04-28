@@ -48,62 +48,63 @@ In 1914, Kung was appointed Chief Librarian of Yuan Shikai’s Presidential Libr
 
 #### **Notes**
 
-[^1]: 
+[^1]: Raffles Library and Museum, _Catalogue of the Raffles Library, Singapore 190_0 (Singapore: American Mission Press, 1905). (From National Library Online)
 
 
-[^2]: 
+[^2]: Raffles Library and Museum, _Catalogue of the Raffles Library, Singapore 1900_, Foreword. Today, his name 孔天增 is transliterated as Kung Tian Cheng. For a more detailed account of Kung Tian Cheng’s life and accomplishments, see Bonny Tan, “Kung Tian Cheng: From Confucian Scholar in Singapore to Reformer in the Chinese Republic,” _Journal of the Malaysian Branch of the Royal Asiatic Society 96_, no. 324 (June 2023):&nbsp; 81–97, https://dx.doi.org/10.1353/ras.2023.a900785.
 
 
-[^3]: 
+[^3]: Song Ong Siang, _One Hundred Years’ History of the Chinese in Singapore: The Annotated Edition_ (Singapore: National Library Board and World Scientific, 2020), 719–22. (From National Library Singapore, call no. RSING 959.57 SON)
 
 
-[^4]: 
+[^4]: Raffles Museum and Library, _Annual Report for the Year 1898_ (Singapore: The Museum, 1899), 3. (From National Library Singapore, call no. RRARE 027.55957 RAF; microfilm no. NL3874)
 
 
-[^5]: 
+[^5]: “Minutes of the Raffles Library and Museum Committee,” 2 April 1897.
 
 
-[^6]: 
+[^6]: Raffles Library and Museum, _Catalogue of the Raffles Library, Singapore 1900_, Foreword.
 
 
-[^7]: 
+[^7]: Raffles Library and Museum, _Catalogue of Literature Relating to China Contained in the Raffles Library_ (Singapore: American Mission Press, 1901). (From National Library Online)
 
 
-[^8]: 
+[^8]: K.K. Seet, _A Place for the People_ (Singapore: Times Books International, 1983), 52. (From National Library Singapore, call no. RSING 027.55957 SEE)
 
 
-[^9]: 
+[^9]: “Minutes of the Raffles Library and Museum Committee,” 5 January 1900.
 
 
-[^10]: 
+[^10]: Raffles Museum and Library, _Annual Report for the Year 1899_ (Singapore: The Museum, 1900), 9. (From National Library Singapore, call no. RRARE 027.55957 RAF; microfilm no. NL3874)
 
 
-[^11]: 
+[^11]: “Minutes of the Raffles Library and Museum Committee,” 1 February 1901.
 
 
-[^12]: 
+[^12]: Bonny Tan, “A Magazine for the Straits Chinese,” _BiblioAsia_ 11, no. 4 (January–March 2016): 84–85.
 
 
-[^13]: 
+[^13]: Song, _One Hundred Years’ History of the Chinese in Singapore_, 357.
 
 
-[^14]: 
+[^14]: “Untitled,” _Eastern Daily Mail and Straits Morning Advertiser_, 16 March 1906, 2. (From NewspaperSG)
 
 
-[^15]: 
+[^15]: “Social and Personal,” _Straits Times_, 1 November 1910, 6. (From NewspaperSG)&nbsp;
 
 
-[^16]: 
+[^16]: “Untitled,” _Straits Times_, 24 October 1910,&nbsp; 6; “A Patriotic Chinaman,” _Weekly Sun_, 5 November 1910, 4; “Social and Personal,” _Straits Times_,  
+22 December 1910, 6. (From NewspaperSG)
 
 
-[^17]: 
+[^17]: “Chinese Josses – Interesting Additions to Raffles Museum,” _Straits Times_,  
+12 September 1907, 7. (From NewspaperSG); Raffles Museum and Library, _Annual Report for the Year 1908_ (Singapore: The Musuem, 1909), 3. (From National Library Singapore, call no. RRARE 027.55957 RAF; microfilm no. NL3874)
 
 
-[^18]: 
+[^18]: Song, _One Hundred Years’ History of the Chinese in Singapore_, 721.
 
 
-[^19]: 
+[^19]: “Mr. Kung Tien Cheng,” _Straits Times_, 8 October 1913, 10. (From NewspaperSG)
 
 
-[^20]: 
-
+[^20]: Song, _One Hundred Years’ History of the Chinese in Singapore_, 721; “Untitled,” _Malaya Tribune_, 6 February 1915, 5. (From NewspaperSG)
