@@ -1208,5 +1208,5 @@ sections:
       button: Finding Family
       url: /people/2025/4/lost-family-silvestr-nemec-war-search-czech-singapore/
       image: /images/Online Only Articles/In Search of Silvestr/2.jpg
-      alt: Image alt text
+      alt: In Search of Silvestr
 ---
