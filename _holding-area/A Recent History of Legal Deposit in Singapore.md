@@ -103,6 +103,9 @@ For now, NLB continues to grow its Legal Deposit Collection and has even embarke
 ![](/images/Vol%2021%20Issue%202/Legal%20Deposit/history_screenshot.jpg)
 <div style="background-color:white;"> Screenshot of Lynn Wong’s Instagram page (@lynnwyq).<i> Collection of the National Library Singapore.</i></div>
 
+![](/images/Vol%2021%20Issue%202/Legal%20Deposit/history_screenshot--.jpg)
+<div style="background-color:white;"> Screenshot of the Facebook page of Sri Warisan Som Said Performing Arts Ltd. <i> Collection of the National Library Singapore.</i></div>
+
 Members of the public can get involved by recommending Instagram, Facebook and YouTube accounts for archiving via “Internet Gems”, the annual callout for public nominations. NLB intends to make the archived social media accounts accessible in future when the technology to do so has been developed.&nbsp;
 
 ![](/images/Vol%2021%20Issue%202/Legal%20Deposit/history_was.jpg)
