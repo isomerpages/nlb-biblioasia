@@ -43,7 +43,7 @@ This was followed by the launch of the [Deposit Portal](https://www.nlb.gov.sg/d
 
 #### **Public Awareness&nbsp;**
 
-The _Our Published Heritage_ roadshow gave focus to the breadth of Singapore’s published heritage and underscored the importance of preserving it. However, legal deposit’s “national character” – a term that Director of the National Library Hedwig Anuar had used to describe the Legal Deposit Collection in 1962[^3] – is sometimes interpreted differently by publishers and the public.
+_Our Published Heritage_&nbsp;gave focus to the breadth of Singapore’s published heritage and underscored the importance of preserving it. However, legal deposit’s “national character” – a term that Director of the National Library Hedwig Anuar had used to describe the Legal Deposit Collection in 1962[^3] – is sometimes interpreted differently by publishers and the public.
 
 In 1976, a local author was peeved when the National Library notified him to deposit five copies of his booklet at his own expense with the library, instead of purchasing lending copies to reward him for his contributions.&nbsp; He had the misconception that only local writers and not others had to deposit their works.[^4] The National Library had to clarify that the function of legal deposit was to preserve Singapore’s published heritage, and that the legislation applied to all writers. The library also assured him that copies of his book had been purchased for loan purposes.[^5]
 
@@ -66,7 +66,7 @@ Legal deposit can also include materials with limited public circulation, or whi
 
 
 ![](/images/Vol%2021%20Issue%202/Legal%20Deposit/history_map.jpg)
-<div style="background-color:white;"><i>Tourist Map</i> (1990) map published by the Singapore Mass Rapid Transit shows a map of Singapore with the four MRT lines. It also highlights places of interest.<i> Collection of the National Library Singapore. </i></div>
+<div style="background-color:white;"><i>Tourist Map</i> (1990) published by the Singapore Mass Rapid Transit shows a map of Singapore with the four MRT lines. It also highlights places of interest.<i> Collection of the National Library Singapore. </i></div>
 
 Likewise, web-based materials are “snapshots” that preserve otherwise fleeting components of Singapore’s internet heritage. In view of the rapidly evolving digital landscape, NLB must be selective about the web-based materials it collects. For websites, the focus is on those with the .sg domain.&nbsp;
 
@@ -76,7 +76,7 @@ Likewise, web-based materials are “snapshots” that preserve otherwise fleeti
 NLB may also do more targeted collecting under special circumstances. The one-time collection of Covid-19 memes from SGAG is an example.[^7] Memes are a form of image-based digital communication that rely on recontextualising popular images circulated online. The SGAG memes play on Singaporean tropes to grapple with the reality of the pandemic, effectively capturing the zeitgeist of a Singapore during the 2020 circuit breaker.
 
 ![](/images/Vol%2021%20Issue%202/Legal%20Deposit/history_meme3.jpg)
-<div style="background-color:white;"> A Covid-19 meme from SGAG, April–Jun 2020.<i> Collection of the National Library Singapore.</i></div>
+<div style="background-color:white;"> A Covid-19 meme from SGAG, April–June 2020.<i> Collection of the National Library Singapore.</i></div>
 
 Last but not least, legal deposit documents the rich history of publishing itself, and testifies to a once-thriving writing, publishing and retail industry that has shaped Singapore's literary environment today.
 
