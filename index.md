@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-21/issue-1/apr-jun-2025/mazu-goddess-of-the-sea-worship-birthday-thian-hock-keng/
-      button: Mazu Worship in Singapore
+      url: /vol-21/issue-1/apr-jun-2025/deaf-education-singapore-sign-language/
+      button: "Signs of Progress: Deaf Education in Singapore"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 21 Issue 1/Mazu/HeroImage_Mazu.jpg
+      background: /images/Vol 21 Issue 1/Deaf Education/HeroImage_deafeducation.jpg
   - infopic:
       title: In Search of Silvestr
       subtitle: History
