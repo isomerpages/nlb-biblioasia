@@ -105,6 +105,9 @@ For now, NLB continues to grow its Legal Deposit Collection and has even embarke
 
 Members of the public can get involved by recommending Instagram, Facebook and YouTube accounts for archiving via “Internet Gems”, the annual callout for public nominations. NLB intends to make the archived social media accounts accessible in future when the technology to do so has been developed.&nbsp;
 
+![](/images/Vol%2021%20Issue%202/Legal%20Deposit/history_was.jpg)
+<div style="background-color:white;">Website banner from the 2024 “Internet Gems” public callout for recommendations. </div>
+
 While legal deposit in Singapore started out as a regulation for publishers, the latest initiatives by the National Library show that the legal deposit statutory function has evolved to keep up with the times, one that has and continues to grow through interacting with legislation, publishers and the public.
 
 
