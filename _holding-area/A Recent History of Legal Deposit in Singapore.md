@@ -61,7 +61,7 @@ Legal deposit can also include materials with limited public circulation, or whi
 <div style="background-color:white;">This 1980 poster by the Singapore Family Planning and Population Board encouraged Singaporeans to have only two children.<i> Collection of the National Library Singapore. </i></div>
 
 
-![](/images/Vol%2021%20Issue%202/Legal%20Deposit/history_planning-a.jpg)
+![](/images/Vol%2021%20Issue%202/Legal%20Deposit/history_pub.jpg)
 <div style="background-color:white;">அரிய நீரை வீனாக்காமல் இருப்போம் (1983), a poster in Tamil from the Public Utilities Board, encouraged Singaporeans not to waste precious water. <i> Collection of the National Library Singapore. </i></div>
 
 
@@ -70,12 +70,12 @@ Legal deposit can also include materials with limited public circulation, or whi
 
 Likewise, web-based materials are “snapshots” that preserve otherwise fleeting components of Singapore’s internet heritage. In view of the rapidly evolving digital landscape, NLB must be selective about the web-based materials it collects. For websites, the focus is on those with the .sg domain.&nbsp;
 
-![](/images/Vol%2021%20Issue%202/Legal%20Deposit/history_ndp.jpg)
+![](/images/Vol%2021%20Issue%202/Legal%20Deposit/history_ndp_2.jpg)
 <div style="background-color:white;">Side-by-side screenshots of the websites of the National Day Parade in 2006 and 2021 illustrate its evolution over 15 years.<i> Collection of the National Library Singapore.</i></div>
 
 NLB may also do more targeted collecting under special circumstances. The one-time collection of Covid-19 memes from SGAG is an example.[^7] Memes are a form of image-based digital communication that rely on recontextualising popular images circulated online. The SGAG memes play on Singaporean tropes to grapple with the reality of the pandemic, effectively capturing the zeitgeist of a Singapore during the 2020 circuit breaker.
 
-![](/images/Vol%2021%20Issue%202/Legal%20Deposit/history_meme3.jpg)
+![](/images/Vol%2021%20Issue%202/Legal%20Deposit/history_meme4.jpg)
 <div style="background-color:white;"> A Covid-19 meme from SGAG, April–June 2020.<i> Collection of the National Library Singapore.</i></div>
 
 Last but not least, legal deposit documents the rich history of publishing itself, and testifies to a once-thriving writing, publishing and retail industry that has shaped Singapore's literary environment today.
@@ -103,7 +103,7 @@ For now, NLB continues to grow its Legal Deposit Collection and has even embarke
 ![](/images/Vol%2021%20Issue%202/Legal%20Deposit/history_screenshot.jpg)
 <div style="background-color:white;"> Screenshot of Lynn Wong’s Instagram page (@lynnwyq).<i> Collection of the National Library Singapore.</i></div>
 
-![](/images/Vol%2021%20Issue%202/Legal%20Deposit/history_screenshot--.jpg)
+![](/images/Vol%2021%20Issue%202/Legal%20Deposit/history_screenshot_fb.jpg)
 <div style="background-color:white;"> Screenshot of the Facebook page of Sri Warisan Som Said Performing Arts Ltd. <i> Collection of the National Library Singapore.</i></div>
 
 Members of the public can get involved by recommending Instagram, Facebook and YouTube accounts for archiving via “Internet Gems”, the annual callout for public nominations. NLB intends to make the archived social media accounts accessible in future when the technology to do so has been developed.&nbsp;
