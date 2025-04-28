@@ -7,18 +7,19 @@ description: ""
 #### The scope of Legal Deposit in Singapore expanded to digital materials and web archiving in 2018.  
 By Samantha Chen
 
-For decades, legal deposit in the National Library laboured quietly in the background, collecting and preserving Singapore’s published heritage. In October 2015, PublicationSG ([https://eresources.nlb.gov.sg/publicationsg/]{https://eresources.nlb.gov.sg/publicationsg/)) thrust legal deposit into the spotlight. &nbsp;
+![](/images/Vol%2021%20Issue%202/Legal%20Deposit/history_main.jpg)
+<div style="background-color:white;"> The display of legal deposit titles at the launch of PublicationSG, 2015. <i> Collection of the National Library Singapore.  </i></div>
+
+For decades, legal deposit in the National Library laboured quietly in the background, collecting and preserving Singapore’s published heritage. In October 2015, [PublicationSG ](https://eresources.nlb.gov.sg/publicationsg/) thrust legal deposit into the spotlight. &nbsp;
 
 To mark the 50th anniversary of Singapore’s independence and the 20th birthday of the National Library Board (NLB), the National Library launched PublicationSG, an online catalogue that made the more than one million legal deposit titles stored away for preservation available to the public for the first time.&nbsp;
-
-![](/images/Vol%2021%20Issue%202/Archaeologic/archaeological_---.jpg)
-<div style="background-color:white;"> The display of legal deposit titles at the launch of PublicationSG, 2015. <i> Collection of the National Library Singapore.  </i></div>
 
 Making the Legal Deposit Collection digitally searchable meant that a database about the items first had to be created and systemised – a monumental undertaking. For many months before the launch, staff were rostered to accession (assign barcodes) and catalogue the publications.&nbsp;
 
 The result of the rigorous mobilisation led to the creation of more than 800,000 records for items in the Legal Deposit Collection, almost eight times more than the volume in a normal year. Concurrently, staff from the IT department worked on creating the PublicationSG microsite, while librarians crafted the policies and processes for accessing the materials.&nbsp;
 
-The launch of PublicationSG was accompanied by an exhibition at the National Library Building from October 2015 to February 2016. To introduce this “new” collection, librarians and curators showcased significant publications from the Legal Deposit Collection, particularly lifestyle-related materials of Singapore’s history that would resonate with Singaporeans.&nbsp;
+
+The launch of PublicationSG was accompanied by&nbsp;_Our Published Heritage_, an exhibition held at the National Library Building from October 2015 to February 2016.
 
 Highlights included the July 1960 inaugural issue of _Her World_ magazine, the first issue of the Singapore Armed Forces’ _Pioneer_ magazine in 1969, and the programme booklet commemorating the foundation stone-laying ceremony of Clyde Terrace Market on 29 March 1873.[^1]
 
@@ -30,11 +31,15 @@ Even as PublicationSG was being launched, preparations were already underway to 
 
 In July 2018, the passing of the National Library Board (Amendment) Act marked a second milestone for digital legal deposit, allowing the National Library to archive websites containing the .sg domain without the need for written permission from content owners.[^2]
 
-To prepare for the expanded role, the Web Archive Singapore portal (WAS, https://eresources.nlb.gov.sg/webarchives/landing-page) – an initiative that began in 2006 to archive Singapore-related websites – was revamped in August 2018 and incorporated into the Legal Deposit Collection.
+To prepare for the expanded role, the [Web Archive Singapore](https://eresources.nlb.gov.sg/webarchives/landing-page) portal (WAS – an initiative that began in 2006 to archive Singapore-related websites – was revamped in August 2018 and incorporated into the Legal Deposit Collection.
 
-In anticipation of the statutory change, NLB held a two-day roadshow, _Our Published Heritage_, in November 2018 to help the public understand what legal deposit (physical and digital) is and why it is meaningful for Singapore.
+  
+In anticipation of the statutory change, NLB brought back&nbsp;_Our Published Heritage_&nbsp;in November 2018 – this time as a two-day roadshow – to help the public understand what legal deposit (physical and digital) is and why it is meaningful for Singapore.
 
-This was followed by the launch of the Deposit Portal (https://www.nlb.gov.sg/depositapp/) in 2021, a one-stop online portal for publishers to deposit their Singapore e-publications and apply for International Standard Numbers (a standardised international number that uniquely identifies a publication).
+![](/images/Vol%2021%20Issue%202/Legal%20Deposit/history_map--a.jpg)
+<div style="background-color:white;">    Browsing old publications at the <i>Our Published Heritage</i> roadshow, 2018.<i> Collection of the National Library Singapore. </i></div>
+
+This was followed by the launch of the [Deposit Portal](https://www.nlb.gov.sg/depositapp/) in 2021, a one-stop online portal for publishers to deposit their Singapore e-publications and apply for International Standard Numbers (a standardised international number that uniquely identifies a publication).
 
 #### **Public Awareness&nbsp;**
 
@@ -47,11 +52,28 @@ In 1976, a local author was peeved when the National Library notified him to dep
 Because of its broad collecting scope, some materials may exist exclusively in legal deposit. In 2020, history enthusiast Lee Xuan Jin blogged about how he managed to hunt down two works by the local writer Cao Mo (曹沫) in PublicationSG after a fruitless search elsewhere.[^6]
 
 
+![](/images/Vol%2021%20Issue%202/Legal%20Deposit/history_selection.jpg)
+<div style="background-color:white;">  A selection of children’s folktales shows how these have evolved over time to focus more on Singapore tales. <i> Collection of the National Library Singapore. </i></div>
+
 Legal deposit can also include materials with limited public circulation, or which are not commercially available. It can also encompass ephemeral formats such as campaign posters or programme booklets that are usually discarded, making them valuable primary sources.
+
+![](/images/Vol%2021%20Issue%202/Legal%20Deposit/history_planning.jpg)
+<div style="background-color:white;">This 1980 poster by the Singapore Family Planning and Population Board encouraged Singaporeans to have only two children.<i> Collection of the National Library Singapore. </i></div>
+
+
+![](/images/Vol%2021%20Issue%202/Legal%20Deposit/history_planning-a.jpg)
+<div style="background-color:white;">அரிய நீரை வீனாக்காமல் இருப்போம் (1983), a poster in Tamil from the Public Utilities Board, encouraged Singaporeans not to waste precious water. <i> Collection of the National Library Singapore. </i></div>
+
+
+![](/images/Vol%2021%20Issue%202/Legal%20Deposit/history_map.jpg)
+<div style="background-color:white;"><i>Tourist Map</i> (1990) map published by the Singapore Mass Rapid Transit shows a map of Singapore with the four MRT lines. It also highlights places of interest.<i> Collection of the National Library Singapore. </i></div>
 
 Likewise, web-based materials are “snapshots” that preserve otherwise fleeting components of Singapore’s internet heritage. In view of the rapidly evolving digital landscape, NLB must be selective about the web-based materials it collects. For websites, the focus is on those with the .sg domain.&nbsp;
 
 NLB may also do more targeted collecting under special circumstances. The one-time collection of Covid-19 memes from SGAG is an example.[^7] Memes are a form of image-based digital communication that rely on recontextualising popular images circulated online. The SGAG memes play on Singaporean tropes to grapple with the reality of the pandemic, effectively capturing the zeitgeist of a Singapore during the 2020 circuit breaker.
+
+![](/images/Vol%2021%20Issue%202/Legal%20Deposit/history_meme2.jpg)
+<div style="background-color:white;"> A Covid-19 meme from SGAG, April–Jun 2020.<i> Collection of the National Library Singapore.</i></div>
 
 Last but not least, legal deposit documents the rich history of publishing itself, and testifies to a once-thriving writing, publishing and retail industry that has shaped Singapore's literary environment today.
 
@@ -59,9 +81,24 @@ Last but not least, legal deposit documents the rich history of publishing itsel
 
 When it comes to physical legal deposit items, NLB faces a perennial problem: the larger the collection, the greater the issue of space shortage.[^8] On the digital front, NLB has to constantly update its digital infrastructure to keep up with new storage and format requirements.&nbsp;
 
+![](/images/Vol%2021%20Issue%202/Legal%20Deposit/history_booklet.jpg)
+<div style="background-color:white;">This 1979 booklet from the Singapore Turf Club recalls the heyday of the club and horse racing in Singapore.<i> Collection of the National Library Singapore.</i></div>
+
+![](/images/Vol%2021%20Issue%202/Legal%20Deposit/history_hangtuah.jpg)
+<div style="background-color:white;">This 1964 edition is a reprint of the tale of Hang Tuah retold and popularised by prominent British officer, Abdul Mubin Sheppard. It was published by Donald Moore, himself a notable contributor to Singapore's arts and publishing scene.<i> Collection of the National Library Singapore.</i></div>
+
+![](/images/Vol%2021%20Issue%202/Legal%20Deposit/history_citizen.jpg)
+<div style="background-color:white;">好公民 (一上 – 六下) (1A–6B) (1996), or <i>Good Citizen</i>, is a series of moral education textbooks launched in 1981 to instil values and equip students with skills to be good individuals and useful citizens.<i> Collection of the National Library Singapore.</i></div>
+
+![](/images/Vol%2021%20Issue%202/Legal%20Deposit/history_mata.jpg)
+<div style="background-color:white;"><i>Mata Intan</i> (1951), a love story, was written in Jawi by the popular Malay novelist Wijaya Mala. In the early years, it was not uncommon for books to be published in Jawi, Arabic or Javanese.<i> Collection of the National Library Singapore.</i></div>
+
 More recently, developments in artificial intelligence (AI) technology mean that novel digital formats, such as algorithms, could potentially fall within the scope of legal deposit. Besides the challenges of collecting and preserving such materials, issues of transparency, copyright protection, fair use and more could also arise when attempting to make such proprietary materials publicly accessible.[^9] Additionally, other libraries have started to encounter AI-generated works in their legal deposit collections. This has raised questions of authenticity and whether such works can, or should, be included in the corpus of a nation’s published heritage – something Singapore could also expect to encounter in the foreseeable future.&nbsp;
 
 For now, NLB continues to grow its Legal Deposit Collection and has even embarked on social media archiving. An Instagram account that NLB has archived belongs to Lynn Wong Yuqing (@lynnwyq), a heritage consultant on a “mission to uncover, document, and revive disappearing foods, festivals, spaces, and communities in Singapore”.[^10] Sri Warisan Som Said Performing Arts Ltd, a multidisciplinary performing arts company, has likewise contributed their Facebook archives to NLB for preservation.[^11]
+
+![](/images/Vol%2021%20Issue%202/Legal%20Deposit/history_screenshot.jpg)
+<div style="background-color:white;"> Screenshot of Lynn Wong’s Instagram page (@lynnwyq).<i> Collection of the National Library Singapore.</i></div>
 
 Members of the public can get involved by recommending Instagram, Facebook and YouTube accounts for archiving via “Internet Gems”, the annual callout for public nominations. NLB intends to make the archived social media accounts accessible in future when the technology to do so has been developed.&nbsp;
 
@@ -71,14 +108,14 @@ While legal deposit in Singapore started out as a regulation for publishers, the
 
 <div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
 <b>ACCESSING THE LEGAL DEPOSIT COLLECTION</b><br><br>
-Library members can search the NLB catalogue for PublicationSG materials and place a reservation to consult the Legal Deposit materials via the “Request for PublicationSG Materials” online form ( <a href="https://form.gov.sg/600008f1ba0ee20011f16351"> https://form.gov.sg/600008f1ba0ee20011f16351 </a>). For more information, visit <a href="https://eresources.nlb.gov.sg/publicationsg/"> https://eresources.nlb.gov.sg/publicationsg/</a>.<br><br>
+Library members can search the NLB catalogue for PublicationSG materials and place a reservation to consult the Legal Deposit materials via the “Request for PublicationSG Materials” online form (<a href="https://form.gov.sg/600008f1ba0ee20011f16351">https://form.gov.sg/600008f1ba0ee20011f16351 </a>). For more information, visit <a href="https://eresources.nlb.gov.sg/publicationsg/"> https://eresources.nlb.gov.sg/publicationsg/</a>.<br><br>
 The Legal Deposit electronic collection is available for viewing at a designated computer terminal at Level 11 of the Lee Kong Chian Reference Library at the National Library Building, Victoria Street.<br></div>
 
 
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/Gracie_Lee5.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/SamanthaChen.png">
 <b>Samantha Chen</b> is a Librarian with the National Library Singapore. She is part of the team overseeing statutory functions, including social media archiving and legal deposit.</div>
 	
 

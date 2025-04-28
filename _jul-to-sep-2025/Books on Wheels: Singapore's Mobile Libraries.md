@@ -5,7 +5,7 @@ variant: markdown
 description: "Books on Wheels: Singapore's Mobile Libraries"
 image: /images/Vol 21 Issue 2/Books on Wheels/image_1.png
 ---
-#### Between the 1960s and 1980s, libraries-on-wheels were a familiar sight as they travelled around Singapore bringing books to residents in the rural and suburban areas.  
+#### Between the 1960s and 1980s, libraries-on-wheels were a familiar sight as they travelled around Singapore bringing books to residents in rural and suburban areas.  
 By Gracie Lee
 
 

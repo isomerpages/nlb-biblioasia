@@ -4,7 +4,7 @@ permalink: /vol-21/issue-2/jul-sep-2025/toa-payoh-public-library/
 variant: markdown
 description: ""
 ---
-#### Before the Toa Payoh Public Library, the building was used as the secretariat for the 7th SEAP Games.  
+#### Before it became the Toa Payoh Public Library, the building was used as the secretariat for the 7th SEAP Games.  
 By Rebecca Tan
 
 ![](/images/Vol%2021%20Issue%202/Toa%20Payoh/toapayoh_facing2.jpg)
