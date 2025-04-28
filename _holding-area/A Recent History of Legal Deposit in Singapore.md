@@ -114,7 +114,7 @@ While legal deposit in Singapore started out as a regulation for publishers, the
 
 <div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
 <b>ACCESSING THE LEGAL DEPOSIT COLLECTION</b><br><br>
-Library members can search the NLB catalogue for PublicationSG materials and place a reservation to consult the Legal Deposit materials via the “Request for PublicationSG Materials” online form (<a href="https://form.gov.sg/600008f1ba0ee20011f16351">https://form.gov.sg/600008f1ba0ee20011f16351 </a>). For more information, visit <a href="https://eresources.nlb.gov.sg/publicationsg/"> https://eresources.nlb.gov.sg/publicationsg/</a>.<br><br>
+Library members can search the NLB catalogue for PublicationSG materials and place a reservation to consult the Legal Deposit materials via the “Request for PublicationSG Materials” <a href="https://form.gov.sg/600008f1ba0ee20011f16351">online form </a>. For more information, visit <a href="https://eresources.nlb.gov.sg/publicationsg/"> https://eresources.nlb.gov.sg/publicationsg/</a>.<br><br>
 The Legal Deposit electronic collection is available for viewing at a designated computer terminal at Level 11 of the Lee Kong Chian Reference Library at the National Library Building, Victoria Street.<br></div>
 
 
@@ -137,7 +137,7 @@ The Legal Deposit electronic collection is available for viewing at a designated
 
 [^5]: E. Klass, “[Why Locally-Printed Books Must Go to N-Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19761108-1.2.97),” _Straits Times_, 8 November 1976, 14. (From NewspaperSG)
 
-[^6]: Lee Xuan Jin, “First Experience with PublicationSG,” Lycheekoala (blog), 24 September, 2020, [https://lycheekoala.wordpress.com/2020/09/24/first-experience-with-publication-sg/.](https://lycheekoala.wordpress.com/2020/09/24/first-experience-with-publication-sg/)
+[^6]: Lee Xuan Jin, “First Experience with PublicationSG,” Lycheekoala (blog), 24 September 2020, [https://lycheekoala.wordpress.com/2020/09/24/first-experience-with-publication-sg/.](https://lycheekoala.wordpress.com/2020/09/24/first-experience-with-publication-sg/)
 
 [^7]: National Library Board Singapore, “Memes,” PublicationSG, accessed 30 March 2025, [https://eresources.nlb.gov.sg/publicationsg/collections.html?id=39a433a9-d24c-405d-817c-e13cd0630d2c](https://eresources.nlb.gov.sg/publicationsg/collections.html?id=39a433a9-d24c-405d-817c-e13cd0630d2c). &nbsp;
 
