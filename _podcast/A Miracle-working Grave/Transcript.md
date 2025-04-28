@@ -736,194 +736,133 @@ except for those graves.&nbsp;</p>
 And he was an actual person. His name shows up in the newspapers. He was
 the <em>penghulu</em> of Siglap. So, there’s a real history behind that.
 Yeah, but these are the ones that I think are best known that still exist.
-There’s some that linger very strongly in local memory.</p>
-<p>&nbsp;</p>
+There’s some that linger very strongly in local memory.&nbsp;</p>
 <p>There was a <em>keramat</em> up at Bukit Timah Road at the 8th milestone.
 Which was very important not just for Muslims, but for Hindus as well.
 And that was destroyed, and moved to be reburied, whenever they found it
-was reburied in Pusara Abadi, which is in Choa Chu Kang.</p>
-<p>&nbsp;</p>
+was reburied in Pusara Abadi, which is in Choa Chu Kang.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay.</p>
-<p>&nbsp;</p>
+<br>Okay.&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>And it’s still visited. So, does it still exist or not? Yes. That’s an
+<br>And it’s still visited. So, does it still exist or not? Yes. That’s an
 interesting question. The original shrine was destroyed. It’s been moved.
 It’s very hard to get to now. You have to drive all the way out to Choa
-Chu Kang cemeteries but people do make the effort to go there.</p>
-<p>&nbsp;</p>
+Chu Kang cemeteries but people do make the effort to go there.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>This is interesting.</p>
-<p>&nbsp;</p>
+<br>This is interesting.&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>Even though it’s been migrated and the identity is shifted a bit with
+<br>Even though it’s been migrated and the identity is shifted a bit with
 that one. But that was a very important site in Singapore. It’s kind of
-surprising they were allowed to destroy that.</p>
-<p>&nbsp;</p>
+surprising they were allowed to destroy that.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>What was that one called?</p>
-<p>&nbsp;</p>
+<br>What was that one called?&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>It had a lot of different names. If you look for it now online, you usually
+<br>It had a lot of different names. If you look for it now online, you usually
 find it under Batu Lapan but because it was at the 8th milestone. Yeah.
 The Lapan, it’s a short form or just sometimes just the Bukit Timah <em>keramat</em> and
 it was incredibly popular. At one point in the 1950s, it was as popular
-as Habib Noh.</p>
-<p>&nbsp;</p>
+as Habib Noh.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Speaking of Habib Noh. You said you wanted to talk about Habib Noh.</p>
-<p>&nbsp;</p>
+<br>Speaking of Habib Noh. You said you wanted to talk about Habib Noh.&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>Yeah, if you want to talk about the importance of <em>keramat</em> across
+<br>Yeah, if you want to talk about the importance of <em>keramat</em> across
 the spectrum, as a heritage marker, as a very important monument to history,
 as an archive of things in the past. If you want to talk about mythologising
 real figures because he really existed. And if you want to talk about preservation
-issues, Habib Noh captures all of those.</p>
-<p>&nbsp;</p>
+issues, Habib Noh captures all of those.&nbsp;</p>
 <p>I’m very happy that I’ve been asked by the mosque that oversees that shrine
 to participate in the team that is writing an official biography of Habib
 Noh, as well as an official kind of biography of the shrine itself. The <em>makam</em>,
 as well as the <em>masjid</em> next to it and the historical figures involved
-with the founding of that mosque.</p>
-<p>&nbsp;</p>
+with the founding of that mosque.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Is that Masjid Habib Noh?</p>
-<p>&nbsp;</p>
+<br>Is that Masjid Habib Noh?&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>No, Haji Muhammad Saleh. Masjid Haji Muhammad Saleh, which is the name
+<br>No, Haji Muhammad Saleh. Masjid Haji Muhammad Saleh, which is the name
 of the man that founded... and which seems to be in the research we’re
 doing, actually knew Habib Noh. And I have to say, the research team I’m
 working with is just astonishing. I feel like a guppy amongst whales a
-lot of the time.</p>
-<p>&nbsp;</p>
+lot of the time.&nbsp;</p>
 <p>These guys are just incredible. One of them is an NUS professor who has
 an encyclopaedic knowledge of Malay culture and history. Another one is
 very active in the local Sufi community. And has this incredible ability
 to track Arab families that came into Nusantara, through Palembang, through
 Kedah, and he just has a map in his head of where all these people were
 because Habib Noh came, his family came from, Hadji Muhammed. And he was...
-descended from the prophet.</p>
-<p>&nbsp;</p>
+descended from the prophet.&nbsp;</p>
 <p>Which is an important factor when you understand why he came to be worshipped.
 Early history is hard to come by because there’s nothing really written
 about him till he dies in 1866 in Singapore. And he’s buried on this hill
 in what is now Shenton Way. And that site is still there. So, you look
-at him as a historical figure.</p>
-<p>&nbsp;</p>
+at him as a historical figure.&nbsp;</p>
 <p>Very important in understanding Arabic migration patterns into Singapore.
 Understand the way Islam functioned at that time in Singapore since the
 functioning, maybe not the functioning, but the understanding of it and
 the sensibilities of Islam have shifted since that time. Looking at it
 is mythologising because he was a real person, but stories have accrued
-around him of magical powers. He could teleport, for example.</p>
-<p>&nbsp;</p>
+around him of magical powers. He could teleport, for example.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>This is while he was alive?</p>
-<p>&nbsp;</p>
+<br>This is while he was alive?&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>Yes, but when these stories were coming out, did it come out while he
+<br>Yes, but when these stories were coming out, did it come out while he
 was alive or did they come out after he died? These are the questions we’re
 trying to tease up. So, you know, these tales of the incredible associated
 with him. He’s associated as a kind of sea saint because his shrines are
 located on the harbourfront, or were, because of landfill and land reclamation
-now no longer are. But it used to be right on the water.</p>
-<p>&nbsp;</p>
+now no longer are. But it used to be right on the water.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Yeah.</p>
-<p>&nbsp;</p>
+<br>Yeah.&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>And so, it became a kind of patron saint of the sailors who came through
+<br>And so, it became a kind of patron saint of the sailors who came through
 Singapore. These are all important stories. But what you’re doing is essentially
 mythologising an actual historical figure. You can’t throw out the baby
 with the bathwater. Those stories are important to his legacy and power.
-And so we have to contextualise those things.</p>
-<p>&nbsp;</p>
+And so we have to contextualise those things.&nbsp;</p>
 <p>As far as preservation, if you see the shrine today, it runs right near
-where there’s a ramp to the ECP.</p>
-<p>&nbsp;</p>
+where there’s a ramp to the ECP.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Yes, that’s right. I keep passing it.</p>
-<p>&nbsp;</p>
+<br>Yes, that’s right. I keep passing it.&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>And there’s always been discussions in the community of how close that
+<br>And there’s always been discussions in the community of how close that
 came to being destroyed because of that construction. So another fact that
 we have spent an incredible amount of time looking at is the details of
 that time frame, the building of the ECP, planning, responses to preserving
 the <em>keramat</em> etc.. And then there are folktales associated with it.
-Bulldozers couldn’t destroy it.</p>
-<p>&nbsp;</p>
+Bulldozers couldn’t destroy it.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Right. Yeah.</p>
-<p>&nbsp;</p>
+<br>Right. Yeah.&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>Any bulldozer broke down and the people in the village that had been around
-the <em>keramat</em> all testified to this. So, we put all that in there.</p>
-<p>&nbsp;</p>
+<br>Any bulldozer broke down and the people in the village that had been around
+the <em>keramat</em> all testified to this. So, we put all that in there.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>It’s a great story.</p>
-<p>&nbsp;</p>
+<br>It’s a great story.&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>It’s fantastic. You know, and it has to be included because it shows you
+<br>It’s fantastic. You know, and it has to be included because it shows you
 the power of the site. So, whether it was a bureaucratic decision, you
 know, where somebody shuffled some papers and said, “Well, we’ll preserve
 it. I don’t want to rile up the locals”, or if it was divine intervention
-or maybe both.</p>
-<p>&nbsp;</p>
+or maybe both.&nbsp;</p>
 <p>I mean, to me, you shouldn’t try to elevate one at the expense of the
 other. And I think when you're studying <em>keramat</em> it is very important
 to understand that you don’t want to come at it as.... We’re western-trained
 and so we’re always very sceptical about religious things and everything
-has to be categorised as under the box.</p>
-<p>&nbsp;</p>
+has to be categorised as under the box.&nbsp;</p>
 <p>I think you have to accept the fact of multiple truths at these sites
-if you really want to gain insight into them.</p>
-<p>&nbsp;</p>
+if you really want to gain insight into them.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Is this going to be a book or an article?</p>
-<p>&nbsp;</p>
+<br>Is this going to be a book or an article?&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>Yeah, it’s going to be a nice big coffee table book. Lots of illustrations.</p>
-<p>&nbsp;</p>
+<br>Yeah, it’s going to be a nice big coffee table book. Lots of illustrations.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>When will we be able to see this book?</p>
-<p>&nbsp;</p>
+<br>When will we be able to see this book?&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>Let's hope for the beginning of next year? 202.. is that 6 now?</p>
-<p>&nbsp;</p>
+<br>Let's hope for the beginning of next year? 202.. is that 6 now?&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Yeah, it’ll be. So, you’re saying like sometime in 2026.</p>
-<p>&nbsp;</p>
+<br>Yeah, it’ll be. So, you’re saying like sometime in 2026.&nbsp;</p>
 <p>I am very excited because I think a lot of people know the <em>keramat</em> Habib
-Noh, but they don’t know all these stories.</p>
-<p>&nbsp;</p>
+Noh, but they don’t know all these stories.&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>I mean, I lived in Singapore before I lived in Indonesia. I lived here
+<br>I mean, I lived in Singapore before I lived in Indonesia. I lived here
 for eight years and, you know, drove by it.</p>
 <p>&nbsp;</p>
 <p><strong>Jimmy</strong>
