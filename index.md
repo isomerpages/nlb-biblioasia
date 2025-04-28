@@ -17,6 +17,17 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 21 Issue 1/Mazu/HeroImage_Mazu.jpg
   - infopic:
+      title: In Search of Silvestr
+      subtitle: History
+      id: infopic
+      description: Sparked by a box of old family documents, Jan Beránek embarked on
+        an eight-year quest that brough him from a small Czech village to modern
+        Singapore.
+      button: Finding Family
+      url: /people/2025/4/lost-family-silvestr-nemec-war-search-czech-singapore/
+      image: /images/Online Only Articles/In Search of Silvestr/2.jpg
+      alt: In Search of Silvestr
+  - infopic:
       title: Remembering the Part-Time Libraries
       subtitle: Places and Buildings
       id: infopic
@@ -1198,15 +1209,4 @@ sections:
       url: /vol-21/issue-2/jul-sep-2025/toa-payoh-public-library/
       image: /images/Vol 21 Issue 2/Toa Payoh/Toa_Payoh_Library.jpg
       alt: The Toa Payoh Public Library
-  - infopic:
-      title: In Search of Silvestr
-      subtitle: History
-      id: infopic
-      description: Sparked by a box of old family documents, Jan Beránek embarked on
-        an eight-year quest that brough him from a small Czech village to modern
-        Singapore.
-      button: Finding Family
-      url: /people/2025/4/lost-family-silvestr-nemec-war-search-czech-singapore/
-      image: /images/Online Only Articles/In Search of Silvestr/2.jpg
-      alt: In Search of Silvestr
 ---
