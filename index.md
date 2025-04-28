@@ -1198,4 +1198,15 @@ sections:
       url: /vol-21/issue-2/jul-sep-2025/toa-payoh-public-library/
       image: /images/Vol 21 Issue 2/Toa Payoh/Toa_Payoh_Library.jpg
       alt: The Toa Payoh Public Library
+  - infopic:
+      title: In Search of Silvestr
+      subtitle: History
+      id: infopic
+      description: Sparked by a box of old family documents, Jan Beránek embarked on
+        an eight-year quest that brough him from a small Czech village to modern
+        Singapore.
+      button: Finding Family
+      url: /people/2025/4/lost-family-silvestr-nemec-war-search-czech-singapore/
+      image: /images/Online Only Articles/In Search of Silvestr/2.jpg
+      alt: Image alt text
 ---
