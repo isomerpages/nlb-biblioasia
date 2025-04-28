@@ -88,10 +88,10 @@ When it comes to physical legal deposit items, NLB faces a perennial problem: th
 <div style="background-color:white;">This 1964 edition is a reprint of the tale of Hang Tuah retold and popularised by prominent British officer, Abdul Mubin Sheppard. It was published by Donald Moore, himself a notable contributor to Singapore's arts and publishing scene.<i> Collection of the National Library Singapore.</i></div>
 
 ![](/images/Vol%2021%20Issue%202/Legal%20Deposit/history_citizen.jpg)
-<div style="background-color:white;">好公民 (一上 – 六下) (1A–6B) (1996), or <i>Good Citizen</i>, is a series of moral education textbooks launched in 1981 to instil values and equip students with skills to be good individuals and useful citizens.<i> Collection of the National Library Singapore.</i></div>
+<div style="background-color:white;"><i>Mata Intan</i> (1951), a love story, was written in Jawi by the popular Malay novelist Wijaya Mala. In the early years, it was not uncommon for books to be published in Jawi, Arabic or Javanese.<i> Collection of the National Library Singapore.</i></div>
 
 ![](/images/Vol%2021%20Issue%202/Legal%20Deposit/history_mata.jpg)
-<div style="background-color:white;"><i>Mata Intan</i> (1951), a love story, was written in Jawi by the popular Malay novelist Wijaya Mala. In the early years, it was not uncommon for books to be published in Jawi, Arabic or Javanese.<i> Collection of the National Library Singapore.</i></div>
+<div style="background-color:white;">好公民 (一上 – 六下) (1A–6B) (1996), or <i>Good Citizen</i>, is a series of moral education textbooks launched in 1981 to instil values and equip students with skills to be good individuals and useful citizens.<i> Collection of the National Library Singapore.</i></div>
 
 More recently, developments in artificial intelligence (AI) technology mean that novel digital formats, such as algorithms, could potentially fall within the scope of legal deposit. Besides the challenges of collecting and preserving such materials, issues of transparency, copyright protection, fair use and more could also arise when attempting to make such proprietary materials publicly accessible.[^9] Additionally, other libraries have started to encounter AI-generated works in their legal deposit collections. This has raised questions of authenticity and whether such works can, or should, be included in the corpus of a nation’s published heritage – something Singapore could also expect to encounter in the foreseeable future.&nbsp;
 
