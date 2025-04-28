@@ -1209,4 +1209,13 @@ sections:
       url: /vol-21/issue-2/jul-sep-2025/toa-payoh-public-library/
       image: /images/Vol 21 Issue 2/Toa Payoh/Toa_Payoh_Library.jpg
       alt: The Toa Payoh Public Library
+  - infopic:
+      title: "Peng Tsu Ying: Singapore's Pioneering Deaf Educator"
+      subtitle: Podcast
+      id: infopic
+      description: Peng Tsu Ying founded Singapore's first school for the deaf in 1954.
+      button: Listen to the Episode
+      url: /podcast/peng-tsu-ying-singapore-pioneering-deaf-educator-nathaniel-chew/
+      image: /images/Podcast/Nathaniel_Chew_web.jpg
+      alt: Pioneering Deaf Educator
 ---
