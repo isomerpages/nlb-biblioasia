@@ -2,11 +2,11 @@ collections:
   jul-to-sep-2025:
     output: true
     order:
-      - Pioneering Archaeological Research.md
       - "From Colonial Vision to Knowledge Hub: The Story of the National
         Library.md"
+      - "Lady in Red: The Former National Library on Stamford Road.md"
+      - Pioneering Archaeological Research.md
+      - Remembering the Part Time Libraries.md
       - "Books on Wheels: Singapore's Mobile Libraries.md"
       - "Pages of Progress: The Toa Payoh Public Library.md"
       - My Mother Hedwig Anuar.md
-      - Remembering the Part Time Libraries.md
-      - "Lady in Red: The Former National Library on Stamford Road.md"
