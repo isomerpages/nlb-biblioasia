@@ -467,7 +467,6 @@ Zai Shin Yoshimi pō Ryōji Dairi Fuku Ryōji Iwatani Jōkichi Gaimu Daijin Kōs
 
 [^39]: Utsunomiya, [_Nipponrikugun to ajia seisaku_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203876283), vol. 1, 129–30.
 
-[^40]: Shimizu, 19
+[^40]: Shimizu, 19–20.
 
 
-–20.
