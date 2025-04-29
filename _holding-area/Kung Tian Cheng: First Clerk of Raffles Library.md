@@ -51,7 +51,7 @@ In 1914, Kung was appointed Chief Librarian of Yuan Shikai’s Presidential Libr
 
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/SamanthaChe3n.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/BonnyTan.png">
 <b>Bonny Tan</b> is a former librarian with the National Library Singapore. She writes regularly for <i>BiblioAsia</i> .</div>
 	
 
