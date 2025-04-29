@@ -76,7 +76,7 @@ Likewise, web-based materials are “snapshots” that preserve otherwise fleeti
 NLB may also do more targeted collecting under special circumstances. The one-time collection of Covid-19 memes from SGAG is an example.[^7] Memes are a form of image-based digital communication that rely on recontextualising popular images circulated online. The SGAG memes play on Singaporean tropes to grapple with the reality of the pandemic, effectively capturing the zeitgeist of a Singapore during the 2020 circuit breaker.
 
 ![](/images/Vol%2021%20Issue%202/Legal%20Deposit/history_meme4.jpg)
-<div style="background-color:white;"> A Covid-19 meme from SGAG, April–June 2020.<i> Collection of the National Library Singapore.</i></div>
+<div style="background-color:white;"> Covid-19 memes&nbsp;from SGAG, April–June 2020.<i> Collection of the National Library Singapore.</i></div>
 
 Last but not least, legal deposit documents the rich history of publishing itself, and testifies to a once-thriving writing, publishing and retail industry that has shaped Singapore's literary environment today.
 
