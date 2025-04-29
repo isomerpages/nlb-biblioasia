@@ -136,6 +136,9 @@ Ayer Raja (Airraja in the present-day spelling);20 and the other between
 Uyeda and Abdul Rahman Shah, the sultan of the Riau-Lingga Sultanate, who owned the islands (or *pulau*) of Kila, Momoi and Awi near Pulau
 Ayer Raja.21
 
+<img src="/images/COA%202019/Japanese%20Army%20Covert%20Operation/Location_of_Pulau_Ayer_Raja.jpg" style="width:80%;">
+ <div style="background-color: white;">Location of Pulau Ayer Raja (Airraja), Awi, Momoi and Kila.<i> Map data © 2020 Google.</i> </div>
+
 Pulau Ayer Raja, the largest island of the four leased to Uyeda, is situated
 south of Batam Island. According to the mentioned contract, the island was
 to be leased for 2,500 Straits dollars, but after owner Ki had received 500
