@@ -247,6 +247,9 @@ from their miserable colonial condition. Furthermore, he advocates not
 merely Japanese expansion but the full seizure of the Dutch East Indies.
 As the proponent of such ideas, Takekoshi was singled out by the Dutch
 administration for close monitoring.34
+![](/images/COA%202019/Japanese%20Army%20Covert%20Operation/Takekoshi_Yosaburo.jpg)
+<img src="/images/COA%202019/Japanese%20Army%20Covert%20Operation/Takekoshi_Yosaburo.jpg" style="width:50%;">
+ <div style="background-color: white;">Takekoshi Yosaburo.<i> Retrieved from Wikipedia.</i> </div>
 
 In Japan, this discourse was embraced. Seeing that Japan had allied with
 Great Britain in 1902 and defeated Russia in 1905, many Japanese began to
