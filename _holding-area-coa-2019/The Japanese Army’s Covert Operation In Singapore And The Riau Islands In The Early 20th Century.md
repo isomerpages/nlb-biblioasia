@@ -389,11 +389,11 @@ Zai Shin Yoshimi pō Ryōji Dairi Fuku Ryōji Iwatani Jōkichi Gaimu Daijin Kōs
 #### **NOTES**
      
 
-1 Mikihiko Ito 伊藤幹彦, _Nihon ajia kankei-shi kenkyū&nbsp; ― Nihon no nanshin-saku o chūshin ni_ 日本アジア関係史研究―日本の南進策を中心に \[Research on the history of Japan–Asia relations: A focus on Japan’s southern expansion policy\] (東京: 星雲社, 2005), 59–68.
+[^1]: Mikihiko Ito 伊藤幹彦, _Nihon ajia kankei-shi kenkyū&nbsp; ― Nihon no nanshin-saku o chūshin ni_ 日本アジア関係史研究―日本の南進策を中心に \[Research on the history of Japan–Asia relations: A focus on Japan’s southern expansion policy\] (東京: 星雲社, 2005), 59–68.
 
-2 Sumio Hatano 波多野澄雄, “Nipponkaigun to nanshin seisaku no tenkai,” 日本海軍と南進政策の展開 \[Japanese navy and the development of the Southern Expansion Policy\] in _Sugiyama Shin'ya· ian· buraun-hen. Senkanki Tōnan'ajia no keizai masatsu ― Nihon no nanshin to Ajia· Ō kome_ 杉山伸也·イアン·ブラウン編. 戦間期東南アジアの経済摩擦―日本の南進とアジア·欧米 \[Economic conflicts in Southeast Asia during the interwar period\], ed. Shinya Sugimaya and Ian Brown (東京: 同文館出版, 1994), 142.
+[^2]: Sumio Hatano 波多野澄雄, “Nipponkaigun to nanshin seisaku no tenkai,” 日本海軍と南進政策の展開 \[Japanese navy and the development of the Southern Expansion Policy\] in _Sugiyama Shin'ya· ian· buraun-hen. Senkanki Tōnan'ajia no keizai masatsu ― Nihon no nanshin to Ajia· Ō kome_ 杉山伸也·イアン·ブラウン編. 戦間期東南アジアの経済摩擦―日本の南進とアジア·欧米 \[Economic conflicts in Southeast Asia during the interwar period\], ed. Shinya Sugimaya and Ian Brown (東京: 同文館出版, 1994), 142.
 
-3 Nobu Yano 矢野暢, _\`Nanshin' no keifu_ 南進」の系譜 \[Genealogy of “Southern Expansion”\] (東京: 中央公論社, 1975), 147–48.
+[^3]: Nobu Yano 矢野暢, _\`Nanshin' no keifu_ 南進」の系譜 \[Genealogy of “Southern Expansion”\] (東京: 中央公論社, 1975), 147–48.
 
 4 Kiyoshi Ikeda 池田清, “1930-nendai no tai ei-kan ― nanshin seisaku o chūshin ni” 1930年代の対英観―南進政策を中心に \[Japanese view on the UK in the 1930s: A focus on the Southern Expansion Policy\], _Aoyama kokusai seikei ronshū dai_ _青山国際政経論集_ \[Aoyama International Journal of Politics and Economics\] 18 (1990): 38.
 
@@ -468,6 +468,3 @@ Zai Shin Yoshimi pō Ryōji Dairi Fuku Ryōji Iwatani Jōkichi Gaimu Daijin Kōs
 39 Utsunomiya, [_Nipponrikugun to ajia seisaku_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203876283), vol. 1, 129–30.
 
 40 Shimizu, 19–20.
-
-
-
