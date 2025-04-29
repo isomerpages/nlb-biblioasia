@@ -395,51 +395,51 @@ Zai Shin Yoshimi pō Ryōji Dairi Fuku Ryōji Iwatani Jōkichi Gaimu Daijin Kōs
 
 [^3]: Nobu Yano 矢野暢, _\`Nanshin' no keifu_ 南進」の系譜 \[Genealogy of “Southern Expansion”\] (東京: 中央公論社, 1975), 147–48.
 
-4 Kiyoshi Ikeda 池田清, “1930-nendai no tai ei-kan ― nanshin seisaku o chūshin ni” 1930年代の対英観―南進政策を中心に \[Japanese view on the UK in the 1930s: A focus on the Southern Expansion Policy\], _Aoyama kokusai seikei ronshū dai_ _青山国際政経論集_ \[Aoyama International Journal of Politics and Economics\] 18 (1990): 38.
+[^4]: Kiyoshi Ikeda 池田清, “1930-nendai no tai ei-kan ― nanshin seisaku o chūshin ni” 1930年代の対英観―南進政策を中心に \[Japanese view on the UK in the 1930s: A focus on the Southern Expansion Policy\], _Aoyama kokusai seikei ronshū dai_ _青山国際政経論集_ \[Aoyama International Journal of Politics and Economics\] 18 (1990): 38.
 
-5 Sadao Asada, _From Mahan to Pearl Harbor: The Imperial Japanese Navy and the United_ States (Annapolis: Naval Institutional Press, 2006), 207.
+[^5]: Sadao Asada, _From Mahan to Pearl Harbor: The Imperial Japanese Navy and the United_ States (Annapolis: Naval Institutional Press, 2006), 207.
 
-6 Fumihiro Yamamoto 山本文史, _Nichiei kaisen e no michi ― Igirisu no shingapōru senryaku to Nihon no nanshin-ron no shinjitsu_ 日英開戦への道―イギリスのシンガポール戦略と日本の南進論の真実 \[The road to the opening of the Anglo-Japanese War: Britain’s Singapore strategy and the truth of Japan’s southern expansion doctrine\] (東京: 中央公論新社, 2016), 161.
+[^6]: Fumihiro Yamamoto 山本文史, _Nichiei kaisen e no michi ― Igirisu no shingapōru senryaku to Nihon no nanshin-ron no shinjitsu_ 日英開戦への道―イギリスのシンガポール戦略と日本の南進論の真実 \[The road to the opening of the Anglo-Japanese War: Britain’s Singapore strategy and the truth of Japan’s southern expansion doctrine\] (東京: 中央公論新社, 2016), 161.
 
-7 Ikeda, “1930-nendai no tai ei-kan ― nanshin seisaku o chūshin ni,” 40.
+[^7]: Ikeda, “1930-nendai no tai ei-kan ― nanshin seisaku o chūshin ni,” 40.
 
-8 Taro Utsunomiya 宇都宮太, _Nipponrikugun to ajia seisaku: Rikugun taishō utsunomiya tarō nikki_ [日本陸軍とアジア政策：陸軍大将宇都宮太郎日記](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203876283) \[Japanese army and Asia policy: Diary of Army General Utsunomiya Taro\], vol. 1 (東京: 岩波書店, 2007), 331. (From National Library Singapore, call no. RSING 952.03092 UTS)
+[^8]: Taro Utsunomiya 宇都宮太, _Nipponrikugun to ajia seisaku: Rikugun taishō utsunomiya tarō nikki_ [日本陸軍とアジア政策：陸軍大将宇都宮太郎日記](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203876283) \[Japanese army and Asia policy: Diary of Army General Utsunomiya Taro\], vol. 1 (東京: 岩波書店, 2007), 331. (From National Library Singapore, call no. RSING 952.03092 UTS)
 
-9 Utsunomiya, [_Nipponrikugun to ajia seisaku_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203876283), vol. 1, 336–37.
+[^9]: Utsunomiya, [_Nipponrikugun to ajia seisaku_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203876283), vol. 1, 336–37.
 
-10 Utsunomiya, [_Nipponrikugun to ajia seisaku_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203876283), vol. 1, 340.
+[^10]: Utsunomiya, [_Nipponrikugun to ajia seisaku_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203876283), vol. 1, 340.
 
-11 Utsunomiya, [_Nipponrikugun to ajia seisaku_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203876283), vol. 1, 351.
+[^11]: Utsunomiya, [_Nipponrikugun to ajia seisaku_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203876283), vol. 1, 351.
 
-12 Utsunomiya, [_Nipponrikugun to ajia seisaku_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203876283), vol. 1, 346–47.
+[^12]: Utsunomiya, [_Nipponrikugun to ajia seisaku_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203876283), vol. 1, 346–47.
 
-13 Utsunomiya, [_Nipponrikugun to ajia seisaku_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203876283), vol. 1, 355.
+[^13]: Utsunomiya, [_Nipponrikugun to ajia seisaku_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203876283), vol. 1, 355.
 
-14 _Nanpo keiryaku no junbi sagyō ni jiù ki . Meiji 43 toshi 8 tsuki 1 hi . Katajikena chi utsunomiya tarō kashiko hatsu koyama aki saku jinkei otona_ 南方経略ノ準備作業ニ就キ．明治43年8月1日．辱知宇都宮太郎畏発小山秋作仁兄大人 \[On the preparation for the Nanpo Operation, 1 August 1910. From Utsunomiya Taro to Koyama Shusaku\], Lim Shao Bin Collection, National Library Singapore. (Accession no. B32428444I)
+[^14]:  _Nanpo keiryaku no junbi sagyō ni jiù ki . Meiji 43 toshi 8 tsuki 1 hi . Katajikena chi utsunomiya tarō kashiko hatsu koyama aki saku jinkei otona_ 南方経略ノ準備作業ニ就キ．明治43年8月1日．辱知宇都宮太郎畏発小山秋作仁兄大人 \[On the preparation for the Nanpo Operation, 1 August 1910. From Utsunomiya Taro to Koyama Shusaku\], Lim Shao Bin Collection, National Library Singapore. (Accession no. B32428444I)
 
-15 Utsunomiya, [_Nipponrikugun to ajia seisaku_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203876283), vol. 1, 358–59.
+[^15]: Utsunomiya, [_Nipponrikugun to ajia seisaku_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203876283), vol. 1, 358–59.
 
-16 Utsunomiya, [_Nipponrikugun to ajia seisaku_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203876283), vol. 1, 384.
+[^16]: Utsunomiya, [_Nipponrikugun to ajia seisaku_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203876283), vol. 1, 384.
 
-17 The presented 2015 values were calculated according to the consumer price index in urban areas in 1910 and 2015. _Meiji - Heisei nedan-shi_ 明治～平成値段史 \[History of prices from the Meiji to Heisei Period\]
+[^17]: The presented 2015 values were calculated according to the consumer price index in urban areas in 1910 and 2015. _Meiji - Heisei nedan-shi_ 明治～平成値段史 \[History of prices from the Meiji to Heisei Period\]
 
-18 Utsunomiya, [_Nipponrikugun to ajia seisaku_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203876283), vol. 1, 358–59.
+[^18]: Utsunomiya, [_Nipponrikugun to ajia seisaku_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203876283), vol. 1, 358–59.
 
-19 Utsunomiya, [_Nipponrikugun to ajia seisaku_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203876283), vol. 1, 382–84.
+[^19]: Utsunomiya, [_Nipponrikugun to ajia seisaku_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203876283), vol. 1, 382–84.
 
-20 “Kō gō yakubun (Ueda to jì zhi fa no tochi shoyū ken iten keiyaku)” 甲号訳文 (上田と紀芝發の土地所有権移転契約) \[Translation of contract A: contract of land ownership transfer between Uyeda and Ki Hiong Tje\], 1 November 1910. Lim Shao Bin Collection, National Library Singapore. (Accession no. B32428445J)
+[^20]: “Kō gō yakubun (Ueda to jì zhi fa no tochi shoyū ken iten keiyaku)” 甲号訳文 (上田と紀芝發の土地所有権移転契約) \[Translation of contract A: contract of land ownership transfer between Uyeda and Ki Hiong Tje\], 1 November 1910. Lim Shao Bin Collection, National Library Singapore. (Accession no. B32428445J)
 
-21 “Otsu-gō yakubun (Ueda to sarutan· abudaru· rotchimanshiya no tochi baishū keiyaku)” 乙号訳文 (上田とサルタン·アブダル·ロッチマンシヤの土地買収契約) \[Translation of contract B: Contract of land purchase between Uyeda and Raja Abdul Rahman Shah\], 1 November 1910. Lim Shao Bin Collection, National Library. (Accession no. B32428445J)
+[^21]: “Otsu-gō yakubun (Ueda to sarutan· abudaru· rotchimanshiya no tochi baishū keiyaku)” 乙号訳文 (上田とサルタン·アブダル·ロッチマンシヤの土地買収契約) \[Translation of contract B: Contract of land purchase between Uyeda and Raja Abdul Rahman Shah\], 1 November 1910. Lim Shao Bin Collection, National Library. (Accession no. B32428445J)
 
-22 甲号訳文.
+[^22]: 甲号訳文.
 
-23 “Sen kyū hyaku jū ni-nen jū tsuki bō Ni~Tsu ni Ueda Ushimatsu ga tan'npinan· Rio-shū fuzoku-chi riji-kan ni okutta chinjō-sho” 千九百十二年十月某日に上田丑松がタンンピナン·リオ州付属地理事官に送った陳情書 \[Petition sent by Uyeda Ushimatsu to the Resident of Tanjong Pinang, Riau State in October 1912\]. Lim Shao Bin Collection, National Library Singapore. (Accession no. B32428445J)&nbsp;
+[^23]: “Sen kyū hyaku jū ni-nen jū tsuki bō Ni~Tsu ni Ueda Ushimatsu ga tan'npinan· Rio-shū fuzoku-chi riji-kan ni okutta chinjō-sho” 千九百十二年十月某日に上田丑松がタンンピナン·リオ州付属地理事官に送った陳情書 \[Petition sent by Uyeda Ushimatsu to the Resident of Tanjong Pinang, Riau State in October 1912\]. Lim Shao Bin Collection, National Library Singapore. (Accession no. B32428445J)&nbsp;
 
-24 乙号訳文.
+[^24]: 乙号訳文.
 
-25 “Meiji shi jū san-nen jū ichi tsuki shi-nichi ni Koyama aki-saku to Ueda Ushimatsu no ma de musuba reta keiyaku-sho” 明治四十三年十一月四日に小山秋作と上田丑松の間で結ばれた契約書 \[Contract agreed between Koyama Shusaku and Uyeda Ushimatsu on 4 November 1910\]. Lim Shao Bin Collection, National Library Singapore. (Accession no. B32428444I)
+[^25]: “Meiji shi jū san-nen jū ichi tsuki shi-nichi ni Koyama aki-saku to Ueda Ushimatsu no ma de musuba reta keiyaku-sho” 明治四十三年十一月四日に小山秋作と上田丑松の間で結ばれた契約書 \[Contract agreed between Koyama Shusaku and Uyeda Ushimatsu on 4 November 1910\]. Lim Shao Bin Collection, National Library Singapore. (Accession no. B32428444I)
 
-26 Anthony Reid, [_The Indonesian National Revolution 1945–1950_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=750557) (Melbourne: Longman, 1974), 1. (From National Library Singapore, call no. RCLOS 959.803 REI)
+[^26]: Anthony Reid, [_The Indonesian National Revolution 1945–1950_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=750557) (Melbourne: Longman, 1974), 1. (From National Library Singapore, call no. RCLOS 959.803 REI)
 
 27 Theodore Friend, [_Indonesian Destinies_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11900158) (Cambridge, MA: Harvard University Press, 2003), 21 (From National Library, call no. RSEA 959.803 FRI); Adrian Vickers, [_A History of Modern Indonesia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14630064) (Cambridge, UK: Cambridge University Press, 2005), 14. (From National Library Singapore, call no. RSEA 959.803 VIC)
 
