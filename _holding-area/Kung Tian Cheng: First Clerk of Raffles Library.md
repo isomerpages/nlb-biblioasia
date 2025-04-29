@@ -22,6 +22,9 @@ After making his mark at the Raffles Library, Kung headed for revolutionary Chin
 
 A descendant of Confucius, Kung was born in Melaka on 17 June 1879. His father, Kung Chow Ching, moved to Melaka from Yantai (Zhifu), Shandong, in 1876. Kung’s father died a few years after the boy was born and the widowed mother moved to Singapore where she was able to place both Kung and his elder brother, Kung Tian Siong, at the newly opened Anglo-Chinese School on Coleman Street.&nbsp;
 
+![](/images/Vol%2021%20Issue%202/Kung%20Tian/kungtian_family.jpg)
+<div style="background-color:white;">The Kung family, 1899, Singapore. Kung Tian Cheng is standing on the extreme left and his wife Pang Ah Kang is seated at the extreme left. His mother Mrs Kung Chow Ching is seated in the centre with daughters Ah Yin (later Marie-Therese Wong) to her right, Ah Chow to her left and Cheng Neo behind. Standing on the right is his brother Kung Tian Siong and his brother’s wife Siauw Mah Lee is seated at the extreme right. <i> Irene Lim Family Collection, National Library Singapore.</i></div>
+
 After completing his education in 1895, Kung, then 16, joined the Raffles Library as a Junior Clerk. At the library, Kung was tasked to assist Hanitsch in putting together the Raffles Library catalogue of its complete holdings – a momentous project that involved scrutinising decades worth of past catalogues and carefully taking stock of existing holdings.[^4]
 
 In April 1897, Kung was promoted to First Clerk and his salary was raised from a monthly $15 to $25.[^5] He began work on the catalogue in September 1898, which was completed seven years later and published as the _Catalogue of the Raffles Library Singapore 1900_ in November 1905. It is one of the most massive catalogues compiled by the Raffles Library and includes the titles from the Logan and Rost collections acquired in 1880 and 1897 respectively.[^6]
