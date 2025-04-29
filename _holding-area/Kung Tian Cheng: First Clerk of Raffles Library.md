@@ -96,13 +96,13 @@ In 1914, Kung was appointed Chief Librarian of Yuan Shikai’s Presidential Libr
 [^16]: “[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19101024-1.2.39),” _Straits Times_, 24 October 1910,&nbsp; 6; “[A Patriotic Chinaman](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/weeklysun19101105-1.2.28),” _Weekly Sun_, 5 November 1910, 4; “[Social and Personal](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19101222-1.2.48),” _Straits Times_, 22 December 1910, 6. (From NewspaperSG)
 
 
-[^17]: “[Chinese Josses – Interesting Additions to Raffles Museum](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19070912-1.2.86),” _Straits Times_, 12 September 1907, 7. (From NewspaperSG); Raffles Museum and Library, _Annual Report for the Year 1908_ (Singapore: The Musuem, 1909), 3. (From National Library Singapore, call no. RRARE 027.55957 RAF; microfilm no. NL3874)
+[^17]: “[Chinese Josses – Interesting Additions to Raffles Museum](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19070912-1.2.86),” _Straits Times_, 12 September 1907, 7. (From NewspaperSG); Raffles Museum and Library, [_Annual Report for the Year 1908_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4394247) (Singapore: The Musuem, 1909), 3. (From National Library Singapore, call no. RRARE 027.55957 RAF; microfilm no. NL3874)
 
 
-[^18]: Song, _One Hundred Years’ History of the Chinese in Singapore_, 721.
+[^18]: Song, [_One Hundred Years’ History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=204442576), 721.
 
 
-[^19]: “Mr. Kung Tien Cheng,” _Straits Times_, 8 October 1913, 10. (From NewspaperSG)
+[^19]: “[Mr. Kung Tien Cheng](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19131008-1.2.88),” _Straits Times_, 8 October 1913, 10. (From NewspaperSG)
 
 
-[^20]: Song, _One Hundred Years’ History of the Chinese in Singapore_, 721; “Untitled,” _Malaya Tribune_, 6 February 1915, 5. (From NewspaperSG)
+[^20]: Song, [_One Hundred Years’ History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=204442576), 721; “[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19150206-1.2.35),” _Malaya Tribune_, 6 February 1915, 5. (From NewspaperSG)
