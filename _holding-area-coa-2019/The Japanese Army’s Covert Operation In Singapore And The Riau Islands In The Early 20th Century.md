@@ -441,30 +441,33 @@ Zai Shin Yoshimi pō Ryōji Dairi Fuku Ryōji Iwatani Jōkichi Gaimu Daijin Kōs
 
 [^26]: Anthony Reid, [_The Indonesian National Revolution 1945–1950_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=750557) (Melbourne: Longman, 1974), 1. (From National Library Singapore, call no. RCLOS 959.803 REI)
 
-27 Theodore Friend, [_Indonesian Destinies_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11900158) (Cambridge, MA: Harvard University Press, 2003), 21 (From National Library, call no. RSEA 959.803 FRI); Adrian Vickers, [_A History of Modern Indonesia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14630064) (Cambridge, UK: Cambridge University Press, 2005), 14. (From National Library Singapore, call no. RSEA 959.803 VIC)
+[^27]: Theodore Friend, [_Indonesian Destinies_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11900158) (Cambridge, MA: Harvard University Press, 2003), 21 (From National Library, call no. RSEA 959.803 FRI); Adrian Vickers, [_A History of Modern Indonesia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14630064) (Cambridge, UK: Cambridge University Press, 2005), 14. (From National Library Singapore, call no. RSEA 959.803 VIC)
 
-28 Barbara W. Andaya, “From Rum to Tokyo: The Search for Anticolonial Allies by the Rulers of Riau, 1899–1914,” _Indonesia_ 24, no. 24 (October 1977): 136, 148, 152. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^28]: Barbara W. Andaya, “From Rum to Tokyo: The Search for Anticolonial Allies by the Rulers of Riau, 1899–1914,” _Indonesia_ 24, no. 24 (October 1977): 136, 148, 152. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-29 Andaya, “From Rum to Tokyo,” 136, 148, 152–54.
+[^29]: Andaya, “From Rum to Tokyo,” 136, 148, 152–54.
 
-30 Koyama aki saku no ran ryō indo ni yú te tochi soshaku ni kansuru kudan . Kimitsu dai ichi gō ( Meiji 44 Toshi 1 Tsuki 7 Hi ) . Zai Shin Yoshimi pō Ryōji Dairi Fuku Ryōji Iwatani Jōkichi Gaimu Daijin Kōshaku Komura Kotobuki Tarō Tono 小山秋作の蘭領印度に於て土地租借に関する件. 機密第一号(明治44年1月7日). 在新嘉坡領事代理副領事岩谷譲吉外務大臣侯爵小村寿太郎殿 \[Issue regarding Koyama Shusaku’s land lease in the Dutch East Indies. Secret No. 1 (7 Jan 1911). From Iwaya Jokichi, Vice Consul in Singapore, to Marquis Komura Jutaro, Minister of Foreign Affairs\], accessed from Japan Center for Asian Historical Records website. &nbsp;(reference code: C03023033600).
+[^30]: Koyama aki saku no ran ryō indo ni yú te tochi soshaku ni kansuru kudan . Kimitsu dai ichi gō ( Meiji 44 Toshi 1 Tsuki 7 Hi ) . Zai Shin Yoshimi pō Ryōji Dairi Fuku Ryōji Iwatani Jōkichi Gaimu Daijin Kōshaku Komura Kotobuki Tarō Tono 小山秋作の蘭領印度に於て土地租借に関する件. 機密第一号(明治44年1月7日). 在新嘉坡領事代理副領事岩谷譲吉外務大臣侯爵小村寿太郎殿 \[Issue regarding Koyama Shusaku’s land lease in the Dutch East Indies. Secret No. 1 (7 Jan 1911). From Iwaya Jokichi, Vice Consul in Singapore, to Marquis Komura Jutaro, Minister of Foreign Affairs\], accessed from Japan Center for Asian Historical Records website. &nbsp;(reference code: C03023033600).
 
-31 Andaya, “From Rum to Tokyo,” 148–49.
+[^31]: Andaya, “From Rum to Tokyo,” 148–49.
 
-32 Andaya, “From Rum to Tokyo,” 148–49.
+[^32]: Andaya, “From Rum to Tokyo,” 148–49.
 
-33 Utsunomiya, [_Nipponrikugun to ajia seisaku_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203876283), vol. 1, 412–14.
+[^33]: Utsunomiya, [_Nipponrikugun to ajia seisaku_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203876283), vol. 1, 412–14.
 
-34 Andaya, “From Rum to Tokyo,” 146–47.
+[^34]: Anda , “From Rum to Tokyo,” 146–47.
 
-35 Gen Shimizu 清水元, _Senkanki nihon· keizai-teki \`nanshin' no shisō-teki haikei_戦間期日本·経済的「南進」の思想的背景 \[Japan during the interwar period: Ideological background behind economic “southward policy”\] in Sugiyama Shin'ya· ian· buraun-hen. Senkanki Tōnan'ajia no keizai masatsu ― Nihon no nanshin to Ajia· Ō kome 杉山伸也·イアン·ブラウン編. 戦間期東南アジアの経済摩擦―日本の南進とアジア·欧米 \[Economic conflicts in Southeast Asia during the interwar period\], ed. Shinya Sugimaya and Ian Brown (東京: 同文館出版, 1994), 19–20.
+[^35]: Gen Shimizu 清水元, _Senkanki nihon· keizai-teki \`nanshin' no shisō-teki haikei_戦間期日本·経済的「南進」の思想的背景 \[Japan during the interwar period: Ideological background behind economic “southward policy”\] in Sugiyama Shin'ya· ian· buraun-hen. Senkanki Tōnan'ajia no keizai masatsu ― Nihon no nanshin to Ajia· Ō kome 杉山伸也·イアン·ブラウン編. 戦間期東南アジアの経済摩擦―日本の南進とアジア·欧米 \[Economic conflicts in Southeast Asia during the interwar period\], ed. Shinya Sugimaya and Ian Brown (東京: 同文館出版, 1994), 19–20.
 
-36 Shimizu, _Senkanki nihon· keizai-teki \`nanshin' no shisō-teki haikei_, 75.
+[^36]: Shimizu, _Senkanki nihon· keizai-teki \`nanshin' no shisō-teki haikei_, 75.
 
-37 Taro Utsunomiya 宇都宮太郎, _Nipponrikugun to Ajia seisaku: Rikugun taishō utsunomiya tarō nikki_ [日本陸軍とアジア政策：陸軍大将宇都宮太郎日記](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203876283) \[Japanese army and Asia policy: Diary of Army General Utsunomiya Taro\], vol. 2. (東京: 岩波書店, 2007), 147. (From National Library Singapore, call no. RSING 952.03092 UTS)
+[^37]: Taro Utsunomiya 宇都宮太郎, _Nipponrikugun to Ajia seisaku: Rikugun taishō utsunomiya tarō nikki_ [日本陸軍とアジア政策：陸軍大将宇都宮太郎日記](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203876283) \[Japanese army and Asia policy: Diary of Army General Utsunomiya Taro\], vol. 2. (東京: 岩波書店, 2007), 147. (From National Library Singapore, call no. RSING 952.03092 UTS)
 
-38 Seiji Saito 斎藤聖二, “Meiji-ki no utsunomiya tarō ― chūei bukan· rentai-chō· sanbō honbu dainibuchō” &nbsp;明治期の宇都宮太郎―駐英武官·連隊長·参謀本部第二部長 \[Utsunomiya Taro during the Meiji Period: Military Attaché to the UK Embassy, Regimental Commander, and Chief of the Second Division, Department of the Army General Staff\] in Taro Utsunomiya 宇都宮太郎, _Nipponrikugun to Ajia seisaku: Rikugun taishō utsunomiya tarō nikki_ [日本陸軍とアジア政策：陸軍大将宇都宮太郎日記](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203876283) \[Japanese army and Asia policy: Diary of Army General Utsunomiya Taro\], vol. 1. (東京: 岩波書店, 2007), 45. (From National Library Singapore, call no. RSING 952.03092 UTS)
+[^38]: Seiji Saito 斎藤聖二, “Meiji-ki no utsunomiya tarō ― chūei bukan· rentai-chō· sanbō honbu dainibuchō” &nbsp;明治期の宇都宮太郎―駐英武官·連隊長·参謀本部第二部長 \[Utsunomiya Taro during the Meiji Period: Military Attaché to the UK Embassy, Regimental Commander, and Chief of the Second Division, Department of the Army General Staff\] in Taro Utsunomiya 宇都宮太郎, _Nipponrikugun to Ajia seisaku: Rikugun taishō utsunomiya tarō nikki_ [日本陸軍とアジア政策：陸軍大将宇都宮太郎日記](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203876283) \[Japanese army and Asia policy: Diary of Army General Utsunomiya Taro\], vol. 1. (東京: 岩波書店, 2007), 45. (From National Library Singapore, call no. RSING 952.03092 UTS)
 
-39 Utsunomiya, [_Nipponrikugun to ajia seisaku_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203876283), vol. 1, 129–30.
+[^39]: Utsunomiya, [_Nipponrikugun to ajia seisaku_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203876283), vol. 1, 129–30.
 
-40 Shimizu, 19–20.
+[^40]: Shimizu, 19
+
+
+–20.
