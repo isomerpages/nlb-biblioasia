@@ -57,46 +57,46 @@ In 1914, Kung was appointed Chief Librarian of Yuan Shikai’s Presidential Libr
 [^3]: Song Ong Siang, [_One Hundred Years’ History of the Chinese in Singapore: The Annotated Edition_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=204442576) (Singapore: National Library Board and World Scientific, 2020), 719–22. (From National Library Singapore, call no. RSING 959.57 SON)
 
 
-[^4]: Raffles Museum and Library, _Annual Report for the Year 1898_ (Singapore: The Museum, 1899), 3. (From National Library Singapore, call no. RRARE 027.55957 RAF; microfilm no. NL3874)
+[^4]: Raffles Museum and Library, [_Annual Report for the Year 1898_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4394247) (Singapore: The Museum, 1899), 3. (From National Library Singapore, call no. RRARE 027.55957 RAF; microfilm no. NL3874)
 
 
 [^5]: “Minutes of the Raffles Library and Museum Committee,” 2 April 1897.
 
 
-[^6]: Raffles Library and Museum, _Catalogue of the Raffles Library, Singapore 1900_, Foreword.
+[^6]: Raffles Library and Museum, [_Catalogue of the Raffles Library, Singapore 1900_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=351b25e0-7cd0-4a61-8406-766c0c512b67), Foreword.
 
 
-[^7]: Raffles Library and Museum, _Catalogue of Literature Relating to China Contained in the Raffles Library_ (Singapore: American Mission Press, 1901). (From National Library Online)
+[^7]: Raffles Library and Museum, [_Catalogue of Literature Relating to China Contained in the Raffles Library_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=9ae860df-6da5-4137-9540-c7f82fb87b23) (Singapore: American Mission Press, 1901). (From National Library Online)
 
 
-[^8]: K.K. Seet, _A Place for the People_ (Singapore: Times Books International, 1983), 52. (From National Library Singapore, call no. RSING 027.55957 SEE)
+[^8]: K.K. Seet, [_A Place for the People_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082325) (Singapore: Times Books International, 1983), 52. (From National Library Singapore, call no. RSING 027.55957 SEE)
 
 
 [^9]: “Minutes of the Raffles Library and Museum Committee,” 5 January 1900.
 
 
-[^10]: Raffles Museum and Library, _Annual Report for the Year 1899_ (Singapore: The Museum, 1900), 9. (From National Library Singapore, call no. RRARE 027.55957 RAF; microfilm no. NL3874)
+[^10]: Raffles Museum and Library, [_Annual Report for the Year 1899_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4394247) (Singapore: The Museum, 1900), 9. (From National Library Singapore, call no. RRARE 027.55957 RAF; microfilm no. NL3874)
 
 
 [^11]: “Minutes of the Raffles Library and Museum Committee,” 1 February 1901.
 
 
-[^12]: Bonny Tan, “A Magazine for the Straits Chinese,” _BiblioAsia_ 11, no. 4 (January–March 2016): 84–85.
+[^12]: Bonny Tan, “[A Magazine for the Straits Chinese](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/straits-chinese-magazine/),” _BiblioAsia_ 11, no. 4 (January–March 2016): 84–85.
 
 
-[^13]: Song, _One Hundred Years’ History of the Chinese in Singapore_, 357.
+[^13]: Song, [_One Hundred Years’ History of the Chinese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=204442576), 357.
 
 
-[^14]: “Untitled,” _Eastern Daily Mail and Straits Morning Advertiser_, 16 March 1906, 2. (From NewspaperSG)
+[^14]: “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/easterndaily19060316-1.2.20),” _Eastern Daily Mail and Straits Morning Advertiser_, 16 March 1906, 2. (From NewspaperSG)
 
 
-[^15]: “Social and Personal,” _Straits Times_, 1 November 1910, 6. (From NewspaperSG)&nbsp;
+[^15]: “[Social and Personal](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19101101-1.2.42),” _Straits Times_, 1 November 1910, 6. (From NewspaperSG)&nbsp;
 
 
-[^16]: “Untitled,” _Straits Times_, 24 October 1910,&nbsp; 6; “A Patriotic Chinaman,” _Weekly Sun_, 5 November 1910, 4; “Social and Personal,” _Straits Times_, 22 December 1910, 6. (From NewspaperSG)
+[^16]: “[Untitled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19101024-1.2.39),” _Straits Times_, 24 October 1910,&nbsp; 6; “[A Patriotic Chinaman](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/weeklysun19101105-1.2.28),” _Weekly Sun_, 5 November 1910, 4; “[Social and Personal](https://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19101222-1.2.48),” _Straits Times_, 22 December 1910, 6. (From NewspaperSG)
 
 
-[^17]: “Chinese Josses – Interesting Additions to Raffles Museum,” _Straits Times_, 12 September 1907, 7. (From NewspaperSG); Raffles Museum and Library, _Annual Report for the Year 1908_ (Singapore: The Musuem, 1909), 3. (From National Library Singapore, call no. RRARE 027.55957 RAF; microfilm no. NL3874)
+[^17]: “[Chinese Josses – Interesting Additions to Raffles Museum](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19070912-1.2.86),” _Straits Times_, 12 September 1907, 7. (From NewspaperSG); Raffles Museum and Library, _Annual Report for the Year 1908_ (Singapore: The Musuem, 1909), 3. (From National Library Singapore, call no. RRARE 027.55957 RAF; microfilm no. NL3874)
 
 
 [^18]: Song, _One Hundred Years’ History of the Chinese in Singapore_, 721.
