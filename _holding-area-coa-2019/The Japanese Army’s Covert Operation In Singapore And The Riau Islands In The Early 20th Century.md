@@ -61,7 +61,7 @@ However, several years ago, primary sources that appear to erode this argument w
 <img src="/images/COA%202019/Japanese%20Army%20Covert%20Operation/Presentation2.jpg" style="width:80%;">
  <div style="background-color: white;">(Left) Major General
 Utsunomiya Taro.<i> Image from Utsunomiya, 2007, Vol. 1, first page
-(no page number). </i> 
+(no page number). </i> <br>
 (Right) Utsunomiya’s letter, “On the Preparation for the Nanpo Operation”.<i> Lim Shao Bin Collection, National Library Singapore.	</i> </div>
 
 
