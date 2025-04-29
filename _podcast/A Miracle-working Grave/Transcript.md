@@ -863,93 +863,63 @@ if you really want to gain insight into them.&nbsp;</p>
 Noh, but they don’t know all these stories.&nbsp;</p>
 <p><strong>William Gibson</strong>
 <br>I mean, I lived in Singapore before I lived in Indonesia. I lived here
-for eight years and, you know, drove by it.</p>
-<p>&nbsp;</p>
+for eight years and, you know, drove by it.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Yeah, you see it all the time. It’s a very prominent place…</p>
-<p>&nbsp;</p>
+<br>Yeah, you see it all the time. It’s a very prominent place…&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>But I assumed it was some old fancy mosque. and then you realise, oh,
+<br>But I assumed it was some old fancy mosque. and then you realise, oh,
 this is a very important historical monument. It certainly should be preserved
 or conserved in some way and the story of it should be better known. He
-still draws people from all over the world to come to that shrine.</p>
-<p>&nbsp;</p>
+still draws people from all over the world to come to that shrine.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Wait, all over the world?</p>
-<p>&nbsp;</p>
+<br>Wait, all over the world?&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>All over the world, people come from the Middle East...</p>
-<p>&nbsp;</p>
+<br>All over the world, people come from the Middle East...&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Really?</p>
-<p>&nbsp;</p>
+<br>Really?&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>People come from Indonesia, you know, and the mosque has to keep track
-of all of these.</p>
-<p>&nbsp;</p>
+<br>People come from Indonesia, you know, and the mosque has to keep track
+of all of these.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Really? I did not know that.</p>
-<p>&nbsp;</p>
+<br>Really? I did not know that.&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>He is still considered a major saint. He’s considered the grand saint
+<br>He is still considered a major saint. He’s considered the grand saint
 of Singapore. He’s considered the pole of Islam in Malaysia. And he still
-draws people here.</p>
-<p>&nbsp;</p>
+draws people here.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Wow.</p>
-<p>&nbsp;</p>
+<br>Wow.&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>But if you don’t follow that, if you’re not in that kind of culture, then
+<br>But if you don’t follow that, if you’re not in that kind of culture, then
 of course this is all a mystery to you. It’s just this old building by
-the side of the highway, right? I think that needs to change.</p>
-<p>&nbsp;</p>
+the side of the highway, right? I think that needs to change.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>No, that’s amazing. I did not know that <em>keramat</em> Habib Noh is such
+<br>No, that’s amazing. I did not know that <em>keramat</em> Habib Noh is such
 an important institution. Based on what you’ve just talked about, you know,
 in terms of <em>keramat</em> Habib Noh, what sort of allows <em>keramats</em> to
-persist in Singapore? Fame?</p>
-<p>&nbsp;</p>
+persist in Singapore? Fame?&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>Yeah, it’s an interesting question. I mean, because of the state power
+<br>Yeah, it’s an interesting question. I mean, because of the state power
 in Singapore, many of the <em>keramat</em> are on state land and they exist
 at the leisure of the state. Many of them have what are known as temporary
 occupation licenses, <a rel="noopener noreferrer nofollow" target="_blank">T.O.Ls</a>,
 which is the same for Chinese temples and Hindu temples and shrines that
 the state basically says you have a license to stay here. That license
-is renewable. It’s also revocable.</p>
-<p>&nbsp;</p>
+is renewable. It’s also revocable.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Right.</p>
-<p>&nbsp;</p>
+<br>Right.&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>So, it puts a lot of pressure on shrine keepers, you know, to make sure
+<br>So, it puts a lot of pressure on shrine keepers, you know, to make sure
 that they follow all the rules and make sure people aren’t doing bad things
 at these places. Otherwise the license can be revoked and the shrines destroyed.
 And this is different in each of the three countries in the region, each
 approaches that problem very differently but within Singapore, it becomes,
 maybe not surprisingly, a bureaucratic issue and there are religious issues,
 like I said, for many Muslims, these things are considered just haram.
-I mean, they are not permitted.</p>
-<p>&nbsp;</p>
+I mean, they are not permitted.&nbsp;</p>
 <p>And I had a cab driver, a fella who was in his 60s whom I was chatting
 with, who told me he grew up in Geylang Serai. And I always ask guys like
 this, do you ever visit Habib Noh and he said, you know, my parents did,
-my grandparents did. I will never visit one of these shrines.</p>
-<p>&nbsp;</p>
+my grandparents did. I will never visit one of these shrines.&nbsp;</p>
 <p>And he said to me, his exact words were, “You know, eventually God will
 forgive any sin except that one, if you commit that sin, you go straight
 to hell. You never get out.” So that was his perspective. You know, and
@@ -958,106 +928,73 @@ out cabby. But this was very serious for him. So, in the face of, “we need
 to save these things for heritage purposes”, you run up against this and
 that can’t be dismissed either. You can’t just tell these people, oh well,
 you’re wrong. You’ve got to take account of those sensibilities and find
-a way to accommodate all of those different needs at these sites.</p>
-<p>&nbsp;</p>
+a way to accommodate all of those different needs at these sites.&nbsp;</p>
 <p>It’s not easy for a bureaucracy to do that. Bureaucracy likes black-and-white.
 And that’s one of the issues with preserving the <em>keramat</em> that still
-exists.</p>
-<p>&nbsp;</p>
+exists.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay, but out of curiosity, how does it get handled in Malaysia and Indonesia?</p>
-<p>&nbsp;</p>
+<br>Okay, but out of curiosity, how does it get handled in Malaysia and Indonesia?&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>Indonesia is very much open to it and they’re still very, as I was saying
+<br>Indonesia is very much open to it and they’re still very, as I was saying
 before, there’s these kinds of tours that go around and usually go to these
 sites. So, there is a conservative element in Indonesia that doesn’t like
 this, but so far they don’t have the power to really effect that kind of
-change and destroy the sites.</p>
-<p>&nbsp;</p>
+change and destroy the sites.&nbsp;</p>
 <p>Malaysia, exactly the opposite. Especially in the 70s and 80s into the
 90s, it was called the Dakwah movement, which was a bringing of Islamic
 understanding in an effort to remove what were seen as un-Islamic elements
-of traditional Malay Islam.</p>
-<p>&nbsp;</p>
+of traditional Malay Islam.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Or pre-Islam?</p>
-<p>&nbsp;</p>
+<br>Or pre-Islam?&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>No, not even pre-Islamic, the early forms of Islam that came in from India
+<br>No, not even pre-Islamic, the early forms of Islam that came in from India
 and had a lot of Sufi elements, had a lot of Shiite elements in them, wound
 up coming from India and again sitting with other Malay traditions, pre-Islamic
 traditions, and they blended and created a kind of localised version of
 Islam. As the Dakwah movement came in, they said this is not really the
-proper Islam.</p>
-<p>&nbsp;</p>
+proper Islam.&nbsp;</p>
 <p>And a lot of other people agree. It was like, you know, I’m glad you’re
 here to tell us this. You people from Damascus, people from Baghdad, I
 mean, people considered Islamic scholars who say these things need to be
 changed. What you’re doing is not permitted and this is in Malaysia. This
 becomes a kind of default policy position, and a lot of <em>keramat</em> are
-destroyed.</p>
-<p>&nbsp;</p>
+destroyed.&nbsp;</p>
 <p>In Singapore, we call it MUIS, in Malaysia, each state has its own and
 is a federal level kind of, bureaucratic institution to monitor and control
 Islam and it’s under the egis of that organisation or those organisations
 that a lot of these <em>keramat</em> are literally destroyed. As being, you
-know, the best solution to the problem is just to...</p>
-<p>&nbsp;</p>
+know, the best solution to the problem is just to...&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Get rid of it.</p>
-<p>&nbsp;</p>
+<br>Get rid of it.&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>Yeah, just get rid of them. In Singapore, they’re destroyed and put up
+<br>Yeah, just get rid of them. In Singapore, they’re destroyed and put up
 in shopping malls. In Malaysia, they’re destroyed very specifically for
-those religious purposes.</p>
-<p>&nbsp;</p>
+those religious purposes.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Right.</p>
-<p>&nbsp;</p>
+<br>Right.&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>Strangely enough, people are so interested in them and want to rebuild
-them.</p>
-<p>&nbsp;</p>
+<br>Strangely enough, people are so interested in them and want to rebuild
+them.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>They rebuild them?</p>
-<p>&nbsp;</p>
+<br>They rebuild them?&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>They rebuild them or they move them, surreptitiously. Oh, and you also
+<br>They rebuild them or they move them, surreptitiously. Oh, and you also
 find in Malaysia, there’s a really rich heritage, culture, pop heritage
 culture in Malaysia, where people are investigating and researching these
-things and posting videos about them.</p>
-<p>&nbsp;</p>
+things and posting videos about them.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Oh, that’s great. Tell me, why do you think it’s important to study <em>keramat</em>?</p>
-<p>&nbsp;</p>
+<br>Oh, that’s great. Tell me, why do you think it’s important to study <em>keramat</em>?&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>One, they hadn’t been studied. I mean, they were really kind of not considered
-appropriate for academic study because they’re a part of folk culture.</p>
-<p>&nbsp;</p>
+<br>One, they hadn’t been studied. I mean, they were really kind of not considered
+appropriate for academic study because they’re a part of folk culture.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Yeah.</p>
-<p>&nbsp;</p>
+<br>Yeah.&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>And that attitude has shifted and folk culture is becoming important and
+<br>And that attitude has shifted and folk culture is becoming important and
 accepted, along with pop culture. More generally, as a field of academic
 study. And so they’ve been picked up and including myself, there’s maybe
 another half dozen people around the world who work on this. You know,
-we all know each other, and love each other.</p>
-<p>&nbsp;</p>
+we all know each other, and love each other.&nbsp;</p>
 <p>It’s a real kumbaya moment, I got to say, and we all kind of know each
 other. And so as a small group, I think we are pushing the boundaries of
 this a bit to try to get more acknowledgment both from an academic perspective
@@ -1065,114 +1002,73 @@ and for me, importantly, in Singapore, a government perspective to push
 for the preservation of these sites and to do it in a way that comes from
 a very secular perspective of preserving heritage. As opposed to saying
 this is a religious or ethnic issue. It’s something that all of us can
-then use. If it’s heritage, we can all learn something from it.</p>
-<p>&nbsp;</p>
+then use. If it’s heritage, we can all learn something from it.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>So now that your <em>keramat</em> book is out, then you’re, you know, earning
+<br>So now that your <em>keramat</em> book is out, then you’re, you know, earning
 the big bucks from the royalties. When you’re not holidaying in the Seychelles,
-what are you working on?</p>
-<p>&nbsp;</p>
+what are you working on?&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>I’m doing this research into the shrines in North Jakarta. And that’s
+<br>I’m doing this research into the shrines in North Jakarta. And that’s
 taking up a lot of my research bandwidth. I don’t have any support from
 an institution. I don’t work at a university. I don’t work at a major heritage
 institution of any kind, local or global. I do this completely on my own
 and that has pros and cons to it. Pros is that I can do whatever I want.
 I’m not restricted. I don’t have to teach classes etc.. Cons, the biggest
 is simply cash. I have to pay myself to go to Jakarta and go to these sites.
-It’s all completely self-funded.</p>
-<p>&nbsp;</p>
+It’s all completely self-funded.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Right? Okay.</p>
-<p>&nbsp;</p>
+<br>Right? Okay.&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>And it creates an atmosphere, I think, where academics, even though I
+<br>And it creates an atmosphere, I think, where academics, even though I
 have a PhD, even though I’ve published a number of peer reviewed books
-and articles and things, there’s still a sense of, well, he’s an outsider.</p>
-<p>&nbsp;</p>
+and articles and things, there’s still a sense of, well, he’s an outsider.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Yeah. Oh, I wanted to ask you about your brush with fame. You were recently
+<br>Yeah. Oh, I wanted to ask you about your brush with fame. You were recently
 featured in the ChannelNewsAsia documentary on... What’s the name of the
-show?</p>
-<p>&nbsp;</p>
+show?&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>Karikal Mahal, which is.. That documentary was... How should I say this...
-Influence, maybe I’m an influencer now.</p>
-<p>&nbsp;</p>
+<br>Karikal Mahal, which is.. That documentary was... How should I say this...
+Influence, maybe I’m an influencer now.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Oh, yeah, yeah you are...</p>
-<p>&nbsp;</p>
+<br>Oh, yeah, yeah you are...&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>IMHO, that documentary was influenced by my first <a href="https://biblioasia.nlb.gov.sg/vol-16/issue-3/oct-dec-2020/karikal/" rel="noopener noreferrer nofollow" target="_blank">article</a> published
-in <em>BiblioAsia.</em>
-</p>
-<p>&nbsp;</p>
+<br>IMHO, that documentary was influenced by my first <a href="https://biblioasia.nlb.gov.sg/vol-16/issue-3/oct-dec-2020/karikal/" rel="noopener noreferrer nofollow" target="_blank">article</a> published
+in <em>BiblioAsia.</em>&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Yeah. Okay.</p>
-<p>&nbsp;</p>
+<br>Yeah. Okay.&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>Because I lived next to that.</p>
-<p>&nbsp;</p>
+<br>Because I lived next to that.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>So, yeah. One of the photos clearly from your kitchen window.</p>
-<p>&nbsp;</p>
+<br>So, yeah. One of the photos clearly from your kitchen window.&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>Yeah, that’s right. So, a local production company found it an interesting
+<br>Yeah, that’s right. So, a local production company found it an interesting
 piece. And I think the building itself is interesting to the people that
 live in the East and people are curious about it and they created a really
 well done, three-part documentary, docu-drama, I should say. And they asked
 me to come in to be a talking head, which I can do. And my head’s talking,
-my head spoke.</p>
-<p>&nbsp;</p>
+my head spoke.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Yes. Well, it was an interesting speech by your head, but no, it was very
+<br>Yes. Well, it was an interesting speech by your head, but no, it was very
 good because, it’s very nice that work that started from <em>BiblioAsia</em>.
 You know, eventually some gain momentum and we have the docu-drama and
 I think that, you know, Karikal Mahal is an interesting sort of building,
-right?</p>
-<p>&nbsp;</p>
+right?&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>Absolutely. I mean, the story behind that is fascinating and detailed
-very well in my article, which you can find on the <em>BiblioAsia</em> website.</p>
-<p>&nbsp;</p>
+<br>Absolutely. I mean, the story behind that is fascinating and detailed
+very well in my article, which you can find on the <em>BiblioAsia</em> website.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay. Complete this sentence. Mythology is....</p>
-<p>&nbsp;</p>
+<br>Okay. Complete this sentence. Mythology is....&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>Yes, mythology is. So, I think when you say this, people think of it as
-something ancient and old and Zeus.</p>
-<p>&nbsp;</p>
+<br>Yes, mythology is. So, I think when you say this, people think of it as
+something ancient and old and Zeus.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Yeah, that’s what I think, actually.</p>
-<p>&nbsp;</p>
+<br>Yeah, that’s what I think, actually.&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>It’s not, you’re completely wrong.</p>
-<p>&nbsp;</p>
+<br>It’s not, you’re completely wrong.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Not for the first time.</p>
-<p>&nbsp;</p>
+<br>Not for the first time.&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>It’s a process that I think is absolutely essential to humanity itself.
+<br>It’s a process that I think is absolutely essential to humanity itself.
 I think you’re going to struggle to find any grouping of people, whether
 you’re talking a civilization level, nation state level, polity, ethnic
 groups, religious groups, tribal groups who do not mythologise and mythologise
@@ -1181,74 +1077,50 @@ It creates identity and it creates legitimacy for a ruling elite and both
 of those things are essential for organised human activity. Again, whether
 it’s civilisation level, you think of Greek mythology, which is a huge,
 broad topic, you know, or you can put it down to. We talked about Habib
-Noh, this becomes a kind of localised mythology.</p>
-<p>&nbsp;</p>
+Noh, this becomes a kind of localised mythology.&nbsp;</p>
 <p>And I don’t, that word is not pejorative to say that’s a mythological
 figure. Academics have turned their back on it because academics are snooty
 this way. But it’s not a pejorative word. It’s something that humanity
 does in order to understand itself. So, the stories we tell ourselves inevitably
-lead to kind of heroics, good guys, bad guys.</p>
-<p>&nbsp;</p>
+lead to kind of heroics, good guys, bad guys.&nbsp;</p>
 <p>And that leads to this kind of mythologising. Ideas of superhumans, in
 some way. If you look at gods, across the board, they are people who have
-some kind of immense power.</p>
-<p>&nbsp;</p>
+some kind of immense power.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Yeah.</p>
-<p>&nbsp;</p>
+<br>Yeah.&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>Whether it’s time travel or super strength or what have you. And that
+<br>Whether it’s time travel or super strength or what have you. And that
 winds up getting distilled down to us, as a kind of superheroes. I think
 you can even argue that, you know, in a modern consumer society, you say,
-well, we don’t mythologise anymore, to me, like Marvel.</p>
-<p>&nbsp;</p>
+well, we don’t mythologise anymore, to me, like Marvel.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Yeah, yeah.</p>
-<p>&nbsp;</p>
+<br>Yeah, yeah.&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>Or comic book figures like this. Those are mythological figures. They
+<br>Or comic book figures like this. Those are mythological figures. They
 are gods. Superman is a god, you know, in that kind of abstract sense.
 So, this is something that we continually do. And I think, again, to think
 of it as a pejorative or something that just used to happen. And we've
 now grown out of it because we’re so modern these days, to really misunderstand
 the social purpose of mythology and then misunderstand how you can study
-it and how it can inform your own research.</p>
-<p>&nbsp;</p>
+it and how it can inform your own research.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay. Fantastic. William, thank you very much for joining us on <em>BiblioAsia</em>+.
+<br>Okay. Fantastic. William, thank you very much for joining us on <em>BiblioAsia</em>+.
 You know, we urge you very strongly to buy William’s book, which is what’s
-the title again?</p>
-<p>&nbsp;</p>
+the title again?&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p><em>Keramat, Sacred Relics and Forbidden Idols in Singapore</em>.</p>
-<p>&nbsp;</p>
+<br><em>Keramat, Sacred Relics and Forbidden Idols in Singapore</em>.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>I cannot imagine how I can’t remember that, but yes, it is such an exciting
+<br>I cannot imagine how I can’t remember that, but yes, it is such an exciting
 book. It is available in bookstores but you can always borrow it from the
 library and the chapter that he wrote on <a href="https://biblioasia.nlb.gov.sg/vol-21/issue-1/apr-jun-2025/origins-badang-strongman-singapore-stone/" rel="noopener noreferrer nofollow" target="_blank">Badang</a> that
-is in <em>BiblioAsia</em> is actually a chapter from his book.</p>
-<p>&nbsp;</p>
+is in <em>BiblioAsia</em> is actually a chapter from his book.&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>It’s an excerpt. Yes.</p>
-<p>&nbsp;</p>
+<br>It’s an excerpt. Yes.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>And you can find all of this at <em><a rel="noopener noreferrer nofollow" target="_blank">biblioasia</a></em>
-<a rel="noopener noreferrer nofollow" target="_blank">.nlb.gov.sg</a>. William, thank you very much for coming here today.</p>
-<p>&nbsp;</p>
+<br>And you can find all of this at <em><a rel="noopener noreferrer nofollow" target="_blank">biblioasia</a></em>
+<a rel="noopener noreferrer nofollow" target="_blank">.nlb.gov.sg</a>. William, thank you very much for coming here today.&nbsp;</p>
 <p><strong>William Gibson</strong>
-</p>
-<p>Thank you for having me, Jimmy. Thank you.</p>
-<p>&nbsp;</p>
+<br>Thank you for having me, Jimmy. Thank you.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>If you’ve enjoyed this episode, subscribe to this podcast and the <em>BiblioAsia</em> newsletter.
+<br>If you’ve enjoyed this episode, subscribe to this podcast and the <em>BiblioAsia</em> newsletter.
 Thanks for joining us on <em>BiblioAsia+</em>.</p>
