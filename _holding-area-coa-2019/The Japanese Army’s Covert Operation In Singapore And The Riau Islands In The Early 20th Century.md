@@ -64,8 +64,6 @@ Utsunomiya Taro.<i> Image from Utsunomiya, 2007, Vol. 1, first page
 (no page number). </i> <br>
 (Right) Utsunomiya’s letter, “On the Preparation for the Nanpo Operation”.<i> Lim Shao Bin Collection, National Library Singapore.	</i> </div>
 
-
-
 Through studying this set of materials, this paper seeks to resolve two dilemmas. First, it examines how and why Utsunomiya’s Nanpo operation was conducted. Because no literature has ever discussed Japan’s plans for invasion made in the 1910s, including the Nanpo operation, revealing the developments of the operation can illuminate that area of study. Second, the paper examines the impact of the Nanpo operation on the conventional assumptions among historians: that Japan’s expansionist policy towards Southeast Asia began in the 1930s at the earliest, and that the Japanese navy played a vital role in establishing that policy. This paper seeks to analyse whether these beliefs should be reconsidered in light of the discovery of the Nanpo operation not as a Japanese naval operation but as Army General Utsunomiya’s secret land-leasing operation, which occurred long before the 1930s. It also traces the origins of the Nanpo operation and presents its developments in chronological order.
 
 #### **Initial Success of the Nanpo Operation**
@@ -102,7 +100,14 @@ proximity to British Borneo (present-day Sarawak, Sabah and Brunei).
 Banking on the Anglo-Japanese Alliance (1902–23), Japan hoped that the
 British would support their expansion into West Kalimantan. Moreover,
 the lands were thought to be strategically located, along maritime routes
-between Japan and Europe. To secure these areas, the letter continues,  military outposts near Singapore would be pivotal. As a first step, Utsunomiya suggested two desirable areas in which to lease land: some islands located to the west of Pulau Bintan, and some islands to the south of it.14 Given these contents, the letter reveals that some Japanese army staff had already envisioned expanding Japan’s colonies into Southeast Asia as early as the second decade of the 20th century.
+between Japan and Europe. To secure these areas, the letter continues, 
+
+<img src="/images/COA%202019/Japanese%20Army%20Covert%20Operation/Map_of_the_Riau_Islands.jpg" style="width:80%;">
+ <div style="background-color: white;">Map of the Riau Islands, enclosed with Utsunomiya’s letter, showing desirable locations for future military outposts.<i> Lim Shao Bin Collection, National Library Singapore.</i> </div>
+
+
+
+military outposts near Singapore would be pivotal. As a first step, Utsunomiya suggested two desirable areas in which to lease land: some islands located to the west of Pulau Bintan, and some islands to the south of it.14 Given these contents, the letter reveals that some Japanese army staff had already envisioned expanding Japan’s colonies into Southeast Asia as early as the second decade of the 20th century.
 
 To realise the master plan, Tashiro and Koyama were dispatched to Singapore on 6 August, on the same boat departing Kobe, Japan. They had visited their boss separately four days earlier and at different locations, to bid him goodbye. This suggests that the two agents did not have a close relationship.15 Later, Tashiro ran into conflict with Koyama Matsumoto. Tashiro was unable to conclude any land lease agreements,
 whereas Koyama succeeded in signing two contracts.16 
