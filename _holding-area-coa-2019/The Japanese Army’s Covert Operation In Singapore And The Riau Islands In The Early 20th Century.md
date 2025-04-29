@@ -57,6 +57,14 @@ other natural resources.5 The second factor was the long-standing rivalry betwee
 By the end of 1936, as the Washington and London naval treaties approached their expiration, an arms race was expected to begin between Japan, the United Kingdom and the United States. To address the impending situation, the Japanese government formulated the Fundamentals of National Policy and the Imperial Foreign Policy Doctrine. It began planning to seize oil fields on Borneo and Sumatra, among other sites, in case oil imports to Japan were blocked.7 In that sense, Japan’s plan to invade Southeast Asia does indeed seem to have first surfaced in the 1930s.
 
 However, several years ago, primary sources that appear to erode this argument were found by Singaporean collector Lim Shao Bin in a shop for used books in Tokyo, Japan. The letters and contracts suggest that long before the 1930s, some staff members of the Japanese army had already devised a plan to invade and colonise Southeast Asia step-by-step. Among those materials, a letter written by Major General Utsunomiya Taro (宇都宮太郎), then chief of the Second Division, Department of the Japanese Army General Staff, titled “On the Preparation for the Nanpo Operation” (南方経略の準備事業に就き) and dated 1 August 1910, is of particular importance. The letter contains Utsunomiya’s master plan to colonise Southeast Asia and even includes concrete directions addressed to Reserve Colonel Koyama Shusaku (小山秋作), Utsunomiya’s former colleague and personal agent, for a secret operation of the Japanese army. According to these documents, Utsunomiya had dispatched Koyama to Singapore to conclude land lease contracts with landowners on the nearby Riau Islands to build military outposts. Nevertheless, the question remains as to how such newly found materials should be interpreted.
+![](/images/COA%202019/Japanese%20Army%20Covert%20Operation/Presentation2.jpg)
+<img src="/images/COA%202019/Japanese%20Army%20Covert%20Operation/Presentation2.jpg" style="width:80%;">
+ <div style="background-color: white;">(Left) Major General
+Utsunomiya Taro.<i> Image from Utsunomiya, 2007, Vol. 1, first page
+(no page number). </i> 
+(Right) Utsunomiya’s letter, “On the Preparation for the Nanpo Operation”.<i> Lim Shao Bin Collection, National Library Singapore.	</i> </div>
+
+
 
 Through studying this set of materials, this paper seeks to resolve two dilemmas. First, it examines how and why Utsunomiya’s Nanpo operation was conducted. Because no literature has ever discussed Japan’s plans for invasion made in the 1910s, including the Nanpo operation, revealing the developments of the operation can illuminate that area of study. Second, the paper examines the impact of the Nanpo operation on the conventional assumptions among historians: that Japan’s expansionist policy towards Southeast Asia began in the 1930s at the earliest, and that the Japanese navy played a vital role in establishing that policy. This paper seeks to analyse whether these beliefs should be reconsidered in light of the discovery of the Nanpo operation not as a Japanese naval operation but as Army General Utsunomiya’s secret land-leasing operation, which occurred long before the 1930s. It also traces the origins of the Nanpo operation and presents its developments in chronological order.
 
@@ -284,7 +292,3 @@ Southeast Asia can be traced back to the late Meiji period.
 <div>
 <b>Yosuke Watanabe</b> is currently a Visiting Fellow of Osaka University of Economics and Law. In 2013 he received his PhD in Japanese Studies from the National University of Singapore. His research interests include the issues of war and peace, the history of imperialism, collective memories of war, history education, and post-war reconciliation in East and Southeast Asia. Apart from research, he is also involved in a joint project on the creation of a common history textbook for high schools in East Asia, an annual history camp for high school students from China, Japan and South Korea, and an annual tour of war sites in Malaysia and Singapore.
 </div>
-
-
-
-
