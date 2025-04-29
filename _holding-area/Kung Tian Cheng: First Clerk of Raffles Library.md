@@ -8,7 +8,13 @@ description: ""
 By Bonny Tan
 
 
+![](/images/Vol%2021%20Issue%202/Kung%20Tian/kungtian_main.jpg)
+<div style="background-color:white;">An undated portrait of Kung Tian Cheng. <i> Image reproduced from Song Ong Siang, One Hundred Years’ History of the Chinese in Singapore (London: John Murray, 1923). 511. Collection of the National Library Singapore (call no. RRARE 959.57 SON) </i></div>
+
 In 1905, the Raffles Library and Museum, the predecessor to the National Library Singapore, published a 636-page book titled _Catalogue of the Raffles Library, Singapore 1900_.[^1] The massive tome reflected the library’s holdings of more than 26,000 volumes, an almost 10-fold increase from 30 years prior. &nbsp;
+
+![](/images/Vol%2021%20Issue%202/Kung%20Tian/kungtian_catalogue.jpg)
+<div style="background-color:white;"> The title page and first page of the <i>Catalogue of the Raffles Library, Singapore 1900</i>, published in 1905. <i> Collection of the National Library Singapore.</i></div>
 
 Curator-Librarian Karl Richard Hanitsch emphasised that the compilation of the catalogue “entailed much extra work on the Library staff” and singled out one person in particular: “I must especially acknowledge the excellent work of the First Clerk, Mr.&nbsp;Kong Tian Cheng, whose assistance alone has made the issue of the catalogue possible.”[^2]
 
