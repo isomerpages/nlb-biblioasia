@@ -150,3 +150,65 @@ Abdul Rahman, the owner of the three islands, virtually cede his land to
 a Japanese individual? The next section examines the political difficulties
 faced by the sultan at the beginning of the 20th century.
 
+#### **The Sultan’s Need for Japanese Help**
+
+Sultan Abdul Rahman was a descendant of the royal family of the Melaka
+Sultanate, which had been established circa 1400. When the Portuguese
+conquered the Sultanate’s capital, Melaka, in 1511, the royal family fled to
+Johor and established a new kingdom, the Johor Sultanate, with territory
+extending from Johor to the Riau and Lingga Islands. In 1824, Great Britain
+and the Netherlands agreed to draw a boundary between Singapore and
+the Riau Islands, with the British sphere of influence to the north and
+the Dutch to the south. As a result, the Johor Sultanate was split, and
+the Sultanate on the south was named the “Riau-Lingga Sultanate” or
+“Riau Sultanate”.
+
+At the beginning of the 20th century, the Dutch extended their direct rule
+throughout the Dutch East Indies, seizing control from the remaining
+independent local rulers.26 They occupied southwestern Sulawesi in 1905–06,
+subjugated Bali with military campaigns in 1906 and 1908, and conquered the independent kingdoms in Maluku, Sumatra, Kalimantan and Nusa Tenggara. The Riau-Lingga Sultanate was no exception.27
+
+At the time, frequent clashes between the Riau court and the Dutch administration prompted the Dutch to contemplate assuming direct control over Riau-Lingga. In response, the Riau court began seeking powerful allies, and a particularly viable candidate was Japan, a rising nation that had recently defeated a Western power in the Russo-Japanese War (1904–05) and belonged to the same Eastern cultural sphere. As early as 1905, the Riau court had dispatched Raja Hitam, a member of the court, to Singapore. According to an anonymous letter to the Dutch colonial government, Raja Hitam’s reason for visiting Singapore had been to negotiate the handing over of Riau-Lingga to Japan in order to solicit Japanese assistance. Sultan Abdul Rahman, on the advice of his ministers, refused to sign a new political agreement with the Dutch, claiming that it would deprive him of any real authority. In the struggle against colonial masters, he wanted Japan on his side for counterbalance.28 With this objective in mind, Sultan Abdul Rahman thus allowed the lease of land on his islands to Uyeda.
+
+Less than four months later, however, in February 1911, the sultan was deposed by the Dutch and exiled to Singapore. In October 1912, the Riau court wrote a letter to the Japanese emperor asking for his personal intervention so that Riau could come under Japanese rule and the sultan restored to his former position. The Japanese government could not, however, countenance such an anti-Dutch petition, given its basic policy of cooperating with Western powers at the time. Although Raja Hitam, a member of the Riau court, was dispatched to Tokyo twice, in 1912 and 1913, there are no records showing that he met with any prominent Japanese
+politicians or government officials during those visits.29
+
+#### **Opposition to the Nanpo Operation and Utsunomiya’s Response**
+
+Among the Japanese politicians and officials who did not support
+Utsunomiya’s anti-Dutch campaign, was the Japanese Vice Consul in
+Singapore, Iwaya Jokichi (岩谷譲吉), who squarely opposed the operation
+to lease land on nearby islands, for several reasons. Although Matsumoto,
+a military attaché to the Japanese consulate in Singapore, explained that
+Koyama and Uyeda had no intention of using the lands for military
+purposes but only for rubber planting, Iwaya was not convinced. He argued
+that as the leased islands were situated in a strategically vital area – the
+Melaka Straits – and military men such as Koyama and Matsumoto were
+involved, suspicions might be raised that the islands would ultimately be
+used for one military purpose or other.
+
+In parallel, the Dutch were becoming increasingly sensitive to Japanese
+movements in the Dutch East Indies,30 partly because the ousted Riau
+court was actively seeking Japanese assistance to be reinstated. The deposed
+sultan had, on several occasions, met with Japanese representatives privately
+and even written to the commander of the Japanese squadron in Singapore,
+whom he had previously met. Given the sultan’s various appeals for Japanese
+intervention, the Dutch became deeply concerned, and civilians entertained
+fears of a war between the Netherlands and Japan, to the extent that many
+Riau Malays fled to Singapore.31 Under such circumstances, the Nanpo
+operation would have affected the economic activities of the Japanese in the
+Dutch colony.
+
+Troubled by the possible negative ramifications of the Nanpo operation,
+Iwaya sent a report on the matter to Foreign Minister Komura Jutaro
+(小村寿太郎) on 7 January 1911, and in turn, the Ministry of Foreign Affairs
+made an inquiry with the Army Ministry on 1 February. In response, Army Deputy Minister Ishimoto Shinroku (石本新六) asked Army Deputy Chief of Staff Fukushima Yasumasa in an official letter dated 7 February, whether it was accurate to state that Koyama’s land-leasing operation had received the army staff’s informal consent. Eight days later, when Fukushima replied in the negative, stating that the army staff had “nothing to do with” the operation, his reply was relayed to the Ministry of Foreign Affairs, and on 20 February the case was closed.32 However, because the Nanpo operation had been initiated by Utsunomiya, a chief of the general staff, with financial support from Fukushima and Goto, it is clearly inaccurate to say that the army staff had “nothing to do with” the operation.
+
+On 1 February, the day when the inquiry into the Nanpo operation was opened by the Ministry of Foreign Affairs, Utsunomiya visited Goto to show him a copy of the letter he had written to Koyama, which was titled “On the Preparation for the Nanpo Operation”. The following day, he visited Goto again, to inform him that he would send Koyama to the minister in a few days. On 3 February, Utsunomiya invited Koyama to his office to announce that he would be transferring his surface rights to the four islands over to Koyama. On 10 February, Utsunomiya drafted a contract to this effect – which he dated 1 February – in order to prove that he had had “nothing to do with” the Nanpo operation.33 As a result, he now possessed documentary evidence and could use the contract to explain his innocence if necessary.
+
+The question remains why army staff members lied to the Ministry of Foreign Affairs and concealed the land-leasing operation on the Riau Islands. Of course, Army Minister Terauchi, as mentioned, did not support Utsunomiya’s anti-Dutch operation. For most in the government, Japan’s cooperation with Western powers, including the Netherlands, was perhaps more important than Japanese colonial expansion to small islands in Riau. Utsunomiya had continued executing the Nanpo operation even after Terauchi implied that he was not in agreement. As such, the actors involved in the operation perhaps decided to conceal the truth by insisting that the lease agreements for the land had been concluded for purely economic purposes; by doing so, the general staff involved in the Nanpo operation, including Utsunomiya and Fukushima, could avoid responsibility for such a controversial operation. In that way, the covert land-leasing operation
+became a truly secret one known only to the army, for it was not an official
+policy of the Japanese government.
+
+
+
