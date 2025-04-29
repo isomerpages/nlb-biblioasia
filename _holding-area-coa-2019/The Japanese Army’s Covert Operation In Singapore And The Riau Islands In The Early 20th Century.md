@@ -210,5 +210,81 @@ The question remains why army staff members lied to the Ministry of Foreign Affa
 became a truly secret one known only to the army, for it was not an official
 policy of the Japanese government.
 
+#### **Social Background of the Rise of Japan’s Expansionist Policy in Southeast Asia**
+
+In the 1910s, discourse concerning Japanese
+expansionism in Southeast Asia (南進論)
+prevailed in Japan. For instance, Takekoshi
+Yosaburo’s (竹越与三郎) travelogue of
+Southeast Asia and South China, *Lands
+of the South, or Nangoku-ki* (南国記), was
+a bestseller throughout the decade. In his
+book, Takekoshi claims that the Japanese
+emperor should be recognised as a saviour
+of Asia and Japan itself as the succour
+of all Asian peoples. Characterising the
+Netherlands, by contrast, as a tenth-rate
+power that could do nothing to help the
+people under its rule, Takekoshi argues
+that Japan should therefore take the responsibility to free the Malay people
+from their miserable colonial condition. Furthermore, he advocates not
+merely Japanese expansion but the full seizure of the Dutch East Indies.
+As the proponent of such ideas, Takekoshi was singled out by the Dutch
+administration for close monitoring.34
+
+In Japan, this discourse was embraced. Seeing that Japan had allied with
+Great Britain in 1902 and defeated Russia in 1905, many Japanese began to
+regard themselves as members of a first-rate power on the world stage. At the
+same time, however, they lacked confidence in Japan’s capacity to compete
+with other powerful countries such as Britain and the United States and
+yearned for someone who dared to articulate a vision of greatness for Japan
+and its people. Takekoshi’s aggressive expansionism was received well in that
+social atmosphere.35
+
+#### **Conclusion**
+This paper has discussed the three principal reasons for the Nanpo operation. First, the Riau court needed Japanese assistance. As mentioned, since 1905 the court had weathered frequent conflicts with the Dutch when the Dutch Resident in Tanjong Pinang, Bintan Island, attempted to render the court a nominal sultanate. Amid such circumstances, Sultan Abdul Rahman agreed to lease land to a Japanese individual in the hopes of receiving Japanese assistance against the Dutch.
+
+Second, Major General Utsunomiya Taro was an aggressive expansionist, one who believed that Western powers would become Japan’s real enemies in the long run, and perhaps that disposition explains why he conducted the Nanpo operation. Indeed, Utsunomiya’s diary reveals numerous aggressive remarks, including his 25 April 1900 entry, where he criticised the general populace of the army as pacifists and advocates for military development.36 In 1912, Utsunomiya also strongly supported then Army Minister Uehara Yusaku’s (上原勇作) endorsement of the deployment of two divisions of the Japanese army into its colony of Korea.37
+
+Another of Utsunomiya’s beliefs was that an ethnic conflict between the East and West would break out and that Japan should therefore ally with other Asian countries against Western powers. For example, Utsunomiya’s February 1897 report on his survey trip to China and Korea submitted to the chief of the general staff stated that it would be prudent to prepare for such a conflict by allying with China and Korea.38 Similarly, on 25 July 1907, when Utsunomiya received six former Korean ministers and military officers who had been exiled, he shared his ideas with them, including his original Western powers.39 Taken together, such remarks attest to Utsunomiya’s
+perception that Western powers would be Japan’s future enemies. Perhaps
+due to such thinking, Utsunomiya persuaded Koyama to conduct the
+anti-Dutch Nanpo operation, even despite its lack of support from the
+mainstream of the army and the Ministry of Foreign Affairs.
+
+Third, in the 1910s, as exemplified by Takekoshi’s *Lands of the South*,
+a discourse concerning Japanese expansionism toward Southeast Asia
+dominated in Japan. However, because Japanese people were not confident
+in competing against the British Empire and the United States, they yearned
+for someone who would give voice to a rosy vision of Japan in the coming
+years.40 Takekoshi’s aggressive expansionism was received well in that social
+milieu, and Utsunomiya and his colleagues, not entirely immune to such
+ideas, sought to carry out the Nanpo operation.
+
+Ultimately, this paper answers the question of how the Nanpo operation
+affects the accepted understanding of Japan’s expansionist policy towards
+Southeast Asia. Because the Nanpo operation was not adopted as the
+official policy of the Japanese government, its impact on that understanding
+among historians has not been particularly strong. It nevertheless warrants
+attention, because the origin of the idea of a Japanese invasion of Southeast
+Asia can be traced to the operation. Particularly, Utsunomiya’s idea that
+Japan should civilise other parts of Asia under Japanese leadership in order
+to counter Western powers can be seen as a prototype of the Greater East
+Asia Co-Prosperity Sphere propagandised when Japan invaded Southeast
+Asia in the 1940s.
+
+In sum, Japanese army staff already had a master plan to colonise Southeast
+Asia as early as the beginning of the 20th century. That revelation suggests
+that the origin of the doctrine of Japanese militarism and expansionism in
+Southeast Asia can be traced back to the late Meiji period.
+
+#### **Acknowledgments**
+*I would like to thank Gracie Lee and Joanna Tan of the National Library for their support, and Prof Yamada Akira (Meiji University) for his valuable comments on the manuscript. I would also like to thank Prof Takashima Nobuyoshi (University of the Ryukyus) and Lim Shao Bin (donor of the Lim Shao Bin Collection) for their recommendation and help in my application for the Lee Kong Chian Research Fellowship. Finally, I would like to thank the Fellowship for the financial support provided*.
+
+<div>
+<b>Yosuke Watanabe</b> is currently a Visiting Fellow of Osaka University of Economics and Law. In 2013 he received his PhD in Japanese Studies from the National University of Singapore. His research interests include the issues of war and peace, the history of imperialism, collective memories of war, history education, and post-war reconciliation in East and Southeast Asia. Apart from research, he is also involved in a joint project on the creation of a common history textbook for high schools in East Asia, an annual history camp for high school students from China, Japan and South Korea, and an annual tour of war sites in Malaysia and Singapore.
+</div>
+
+
 
 
