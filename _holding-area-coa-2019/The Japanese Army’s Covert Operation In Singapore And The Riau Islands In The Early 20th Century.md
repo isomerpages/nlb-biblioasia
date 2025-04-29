@@ -22,7 +22,7 @@ attack. After the cession of Taiwan in 1895, Japan had begun eyeing the
 province of Fujian, where Xiamen is located. Recognising the arson attack
 as an opportunity to expand into southern China, it dispatched a small
 naval brigade to the Chinese city. However, Britain responded by sending a
-warship and naval brigade, and Japan agreed to immediately withdraw.1
+warship and naval brigade, and Japan agreed to immediately withdraw.[^1]
 
 On the other hand, historians who define “the South” in Asia as
 encompassing Southeast Asia and the South Pacific islands hold a different
@@ -30,7 +30,8 @@ view. Hatano Sumio, for instance, argues that southern expansion as a
 Japanese state policy began in 1914, when Japan first occupied a German
 colony in the South Pacific as part of a military campaign during the
 First World War. Nevertheless, he acknowledges that full-scale southern
-expansion did not commence until the 1930s.2
+expansion did not commence until the 1930s.
+[^2]
 
 However, scholars who understand “the South” in Asia as Southeast Asia
 have mostly argued that Japan did not officially adopt its policy of southern
@@ -42,9 +43,10 @@ former, in describing Japan’s southward expansion, states that “Japan expect
 its national and economic advance into the South, especially into Southeast
 Asia, through gradual and peaceful means”. Similarly, the latter underscores
 the importance of the South for Japan: “The South Seas…is a strategic area
-for world trade and the vital region for the Empire’s industry and defence.”3
+for world trade and the vital region for the Empire’s industry and defence”.[^3]
 Both policies are generally understood to be the earliest official Japanese
-documents to stipulate a policy of expansion into Southeast Asia.4
+documents to stipulate a policy of expansion into Southeast Asia.
+[^4]
 
 On the whole, most historians agree that Japan’s expansionist policy towards
 Southeast Asia began no earlier than in the 1930s. They also largely maintain
@@ -52,9 +54,11 @@ that the Japanese navy played a major role in planning the region’s invasion,
 for two important reasons. First, the navy’s fleets and aircraft needed oil for
 fuel. As the US–Japan relationship deteriorated, the navy began to consider
 using military measures to advance into Southeast Asia to secure oil and
-other natural resources.5 The second factor was the long-standing rivalry between the Japanese navy and army for limited military funding. Once the army had established the puppet state of Manchukuo in China in 1932, it began demanding more of Japan’s military budget in order to defend the puppet state. At that time, the Japanese navy first proposed its plan to invade Southeast Asia in a bid to keep its budget intact.6
+other natural resources.
+[^5] The second factor was the long-standing rivalry between the Japanese navy and army for limited military funding. Once the army had established the puppet state of Manchukuo in China in 1932, it began demanding more of Japan’s military budget in order to defend the puppet state. At that time, the Japanese navy first proposed its plan to invade Southeast Asia in a bid to keep its budget intact.[^6]
 
-By the end of 1936, as the Washington and London naval treaties approached their expiration, an arms race was expected to begin between Japan, the United Kingdom and the United States. To address the impending situation, the Japanese government formulated the Fundamentals of National Policy and the Imperial Foreign Policy Doctrine. It began planning to seize oil fields on Borneo and Sumatra, among other sites, in case oil imports to Japan were blocked.7 In that sense, Japan’s plan to invade Southeast Asia does indeed seem to have first surfaced in the 1930s.
+By the end of 1936, as the Washington and London naval treaties approached their expiration, an arms race was expected to begin between Japan, the United Kingdom and the United States. To address the impending situation, the Japanese government formulated the Fundamentals of National Policy and the Imperial Foreign Policy Doctrine. It began planning to seize oil fields on Borneo and Sumatra, among other sites, in case oil imports to Japan were blocked.
+[^7] In that sense, Japan’s plan to invade Southeast Asia does indeed seem to have first surfaced in the 1930s.
 
 However, several years ago, primary sources that appear to erode this argument were found by Singaporean collector Lim Shao Bin in a shop for used books in Tokyo, Japan. The letters and contracts suggest that long before the 1930s, some staff members of the Japanese army had already devised a plan to invade and colonise Southeast Asia step-by-step. Among those materials, a letter written by Major General Utsunomiya Taro (宇都宮太郎), then chief of the Second Division, Department of the Japanese Army General Staff, titled “On the Preparation for the Nanpo Operation” (南方経略の準備事業に就き) and dated 1 August 1910, is of particular importance. The letter contains Utsunomiya’s master plan to colonise Southeast Asia and even includes concrete directions addressed to Reserve Colonel Koyama Shusaku (小山秋作), Utsunomiya’s former colleague and personal agent, for a secret operation of the Japanese army. According to these documents, Utsunomiya had dispatched Koyama to Singapore to conclude land lease contracts with landowners on the nearby Riau Islands to build military outposts. Nevertheless, the question remains as to how such newly found materials should be interpreted.
 
@@ -67,16 +71,19 @@ Utsunomiya Taro.<i> Image from Utsunomiya, 2007, Vol. 1, first page
 Through studying this set of materials, this paper seeks to resolve two dilemmas. First, it examines how and why Utsunomiya’s Nanpo operation was conducted. Because no literature has ever discussed Japan’s plans for invasion made in the 1910s, including the Nanpo operation, revealing the developments of the operation can illuminate that area of study. Second, the paper examines the impact of the Nanpo operation on the conventional assumptions among historians: that Japan’s expansionist policy towards Southeast Asia began in the 1930s at the earliest, and that the Japanese navy played a vital role in establishing that policy. This paper seeks to analyse whether these beliefs should be reconsidered in light of the discovery of the Nanpo operation not as a Japanese naval operation but as Army General Utsunomiya’s secret land-leasing operation, which occurred long before the 1930s. It also traces the origins of the Nanpo operation and presents its developments in chronological order.
 
 #### **Initial Success of the Nanpo Operation**
-Utsunomiya initiated the covert Nanpo operation following information shared by Tashiro Kyohachi (田代強八) on 26 April 1910 in Tokyo about the possibility of leasing land on the Riau Islands. At the time, Tashiro was serving as financial adviser to Dao Anren (刀安仁) in Ganya (present-day Yingjiang) in Yunnan province, China. When Tashiro visited Utsunomiya in Tokyo, he told Utsunomiya that he had provisionally agreed to lease land on some islands close to Singapore in the Dutch East Indies and hoped that Utsunomiya would complete the land-leasing operation. Responding affirmatively, Utsunomiya said, “This land lease might become an initial step to serve a bigger purpose.”8
+Utsunomiya initiated the covert Nanpo operation following information shared by Tashiro Kyohachi (田代強八) on 26 April 1910 in Tokyo about the possibility of leasing land on the Riau Islands. At the time, Tashiro was serving as financial adviser to Dao Anren (刀安仁) in Ganya (present-day Yingjiang) in Yunnan province, China. When Tashiro visited Utsunomiya in Tokyo, he told Utsunomiya that he had provisionally agreed to lease land on some islands close to Singapore in the Dutch East Indies and hoped that Utsunomiya would complete the land-leasing operation. Responding affirmatively, Utsunomiya said, “This land lease might become an initial step to serve a bigger purpose”.
+[^8]
 
 On 12 May, Utsunomiya handed over a set of documents concerning the plan to lease land in the Riau Islands to Army Minister Terauchi Masatake (寺内正毅) and asked him to issue his judgement of the plan at their next meeting. Terauchi responded that he would relay the documents to Minister of Communications Goto Shinpei (後藤新平), and encouraged Utsunomiya to meet Goto. Two days later, Utsunomiya visited Goto and shared his plan. Meanwhile, Terauchi’s secretary, Yoshida, also visited Goto to show him Utsunomiya’s lease documents. In response to Utsunomiya, Yoshida conveyed Terauchi’s opinion that it would be better to remain uninvolved in leasing land on the islands for the time being.
 
 Despite receiving a negative reply from the army minister, Utsunomiya
-persisted in his vision, believing the operation warranted further research.9
+persisted in his vision, believing the operation warranted further research.
+[^9]
 He wrote a letter dated 25 May 1910, to Lieutenant Matsumoto Gozaemon
 (松本五左衛門), a military attaché to the Japanese consulate in Singapore,
 ordering him to conduct research about leasing land on the Riau
-Islands.10In response, on 23 June, Matsumoto issued a report stating that
+Islands.
+[^10] In response, on 23 June, Matsumoto issued a report stating that
 Japan had some opportunities to lease land there, though the terrain was
 not ideal.11
 
@@ -303,3 +310,163 @@ Southeast Asia can be traced back to the late Meiji period.
 <div>
 <b>Yosuke Watanabe</b> is currently a Visiting Fellow of Osaka University of Economics and Law. In 2013 he received his PhD in Japanese Studies from the National University of Singapore. His research interests include the issues of war and peace, the history of imperialism, collective memories of war, history education, and post-war reconciliation in East and Southeast Asia. Apart from research, he is also involved in a joint project on the creation of a common history textbook for high schools in East Asia, an annual history camp for high school students from China, Japan and South Korea, and an annual tour of war sites in Malaysia and Singapore.
 </div>
+
+#### **REFERENCES**
+    
+Andaya, Watson Barbara. “From Rum to Tokyo: The Search for Anticolonial Allies by the Rulers of Riau, 1899–1914.” _Indonesia_ 24, no. 24 (October 1977): 136, 148, 152. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Asada, Sadao 麻田貞雄_.__Ryō taisen-kan no hi kome kankei ― kaigun to seisaku kettei katei_ 両大戦間の日米関係―海軍と政策決定過程 \[Japan-US relations during the interwar period: Navy and policy-making process\]. 東京: 東京大学出版会, 1993.
+
+—. _From Mahan to Pearl Harbor: The Imperial Japanese Navy and the United_ States (Annapolis: Naval Institutional Press, 2006), 207.
+
+Friend, Theodore. [_Indonesian Destinies_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11900158). Cambridge, MA: Harvard University Press, 2003, 21 (From National Library, call no. RSEA 959.803 FRI)
+
+Kenichi, Goto. 後藤乾一. _Kindainihon to Tōnan'ajia ― nanshin no \`shōgeki' to \`isan'_近代日本と東南アジア―南進の「衝撃」と「遺産」\[Modern Japan and Southeast Asia: “Impact” and “legacy” of Southern Expansion\]. 東京: 岩波書店, 2010.
+
+Hatano, Sumio 波多野澄雄. “Kaisen katei ni okeru rikugun” 開戦過程における陸軍 \[Army in the process of opening the war\]. In _Taiheiyō sensō_ 太平洋戦争 Pacific War, edited by Chihiro Hosoya et al.\]. 東京: 東京大学出版会, 1993.
+
+—. “Nipponkaigun to nanshin seisaku no tenkai,” 日本海軍と南進政策の展開 \[Japanese navy and the development of the Southern Expansion Policy\]. In _Sugiyama Shin'ya· ian· buraun-hen. Senkanki Tōnan'ajia no keizai masatsu ― Nihon no nanshin to Ajia· Ō kome_ 杉山伸也·イアン·ブラウン編. 戦間期東南アジアの経済摩擦―日本の南進とアジア·欧米 \[Economic conflicts in Southeast Asia during the interwar period\], edited by Shinya Sugimaya and Ian Brown. 東京: 同文館出版, 1994.
+
+Ikeda, Kiyoshi. 池田清, “1930-nendai no tai ei-kan ― nanshin seisaku o chūshin ni” 1930年代の対英観―南進政策を中心に \[Japanese view on the UK in the 1930s: A focus on the Southern Expansion Policy\]. _Aoyama kokusai seikei ronshū dai_ _青山国際政経論集_ \[Aoyama International Journal of Politics and Economics\] 18 (1990)
+
+Ito, Mikihiko. 伊藤幹彦, _Nihon ajia kankei-shi kenkyū&nbsp; ― Nihon no nanshin-saku o chūshin ni_ 日本アジア関係史研究―日本の南進策を中心に \[Research on the history of Japan–Asia relations: A focus on Japan’s southern expansion policy\]. 東京: 星雲社, 2005.
+
+Kira, Yoshie and Miyamoto, Masaaki. “Taishō jidai chūki no utsunomiya tarō ― daiyonshidan-chō· Chōsen-gun shirei-kan· gunji sangi-kan jidai” 大正時代中期の宇都宮太郎―第四師団長·朝鮮軍司令官·軍事参議官時代 \[Utsunomiya Taro in the middle of the Taisho Period: Assuming Commander of the 4th Division, Commander of Korean Army and Member of the Supreme War Council\]. In Taro Utsunomiya 宇都宮太郎, _Nipponrikugun to Ajia seisaku: Rikugun taishō utsunomiya tarō nikki_ [日本陸軍とアジア政策：陸軍大将宇都宮太郎日記](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203876283) \[Japanese army and Asia policy: Diary of Army General Utsunomiya Taro\]. Vol. 3. 東京: 岩波書店, 2007. (From National Library Singapore, call no. RSING 952.03092 UTS)
+
+Kitaoka Shinichi 北岡伸一. _Nipponrikugun to tairiku seisaku 1906–1918-nen_ 日本陸軍と大陸政策 1906–1918年 \[Japanese army and its policy toward Asian continent 1906–1918\]. 東京: 東京大学出版会, 1978.
+
+Kubota, Binji 久保田文次. “Utsunomiya tarō to Chūgoku kakumei o meguru jinmyaku ― magofumi· kōkō· reigenkō· tairiku rōnin· fādorī” 宇都宮太郎と中国革命をめぐる人脈―孫文·黄興·黎元洪· 大陸浪人·ファードリー \[Utsunomiya Taro and his personal network surrounding the Chinese Revolution of 1911: Sun Yat Sen, Huang Xing, Li Yuanhong, ronin in China, and Fardouly\]. In Taro Utsunomiya 宇都宮太郎, _Nipponrikugun to Ajia seisaku: Rikugun taishō utsunomiya tarō nikki_ [日本陸軍とアジア政策：陸軍大将宇都宮太郎日記](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203876283) \[Japanese army and Asia policy: Diary of Army General Utsunomiya Taro\]. Vol. 2. 東京: 岩波書店, 2007. (From National Library Singapore, call no. RSING 952.03092 UTS)
+
+Mimaki, Seiko. “Seiki tenkanki no tsūshō rikkoku-ron ― Meiji-ki nanshin-ron saikō” 世紀転換期の通商立国論―明治期南進論再考 \[Development strategy as a trading nation at the turn of the 20th century: Revisiting southern expansion doctrine during the Meiji Period\]. _日本思想史学_ \[Japanese Thought History\] no. 38 (September 2006)
+
+Moriyama Yu 森山優. “‘Nanshin-ron' to \`Hokushin-ron'” “南進論”と “北進論” \[“Southern Expansion Doctrine” and “Northern Expansion Doctrine”\]. In _Ajia Taiheiyōsensō 7: Shihai to bōryoku_ アジア太平洋戦争７: 支配と暴力 \[Asia-Pacific War 7: Domination and Violence\]. Edited by Aiko Kurasawa et al. 東京：岩波書店, 2006.
+
+Ohata,Atsushiro 大畑篤四郎. _Nihon gaikō seisaku no shiteki tenkai_ 日本外交政策の史的展開 \[Historical development of Japanese foreign policy\]. 東京: 成文堂, 1983. &nbsp;
+
+Reid, Anthony. [_The Indonesian National Revolution 1945–1950_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=750557). Melbourne: Longman, 1974. (From National Library Singapore, call no. RCLOS 959.803 REI)
+
+Saito, Seiji 斎藤聖二. “Meiji-ki no utsunomiya tarō ― chūei bukan· rentai-chō· sanbō honbu dainibuchō” &nbsp;明治期の宇都宮太郎―駐英武官·連隊長·参謀本部第二部長 \[Utsunomiya Taro during the Meiji Period: Military Attaché to the UK Embassy, Regimental Commander, and Chief of the Second Division, Department of the Army General Staff\]. In Taro Utsunomiya 宇都宮太郎, _Nipponrikugun to Ajia seisaku: Rikugun taishō utsunomiya tarō nikki_ [日本陸軍とアジア政策：陸軍大将宇都宮太郎日記](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203876283) \[Japanese army and Asia policy: Diary of Army General Utsunomiya Taro\], vol. 1. 東京: 岩波書店, 2007. (From National Library Singapore, call no. RSING 952.03092 UTS)
+
+Sakurai, Yoshiki. “Taishō jidai shoki no utsunomiya tarō ― sanbō honbu dainibuchō·-shi danchō jidai” 大正時代初期の宇都宮太郎―参謀本部第二部長·師団長時代 \[Utsunomiya Taro in the beginning of the Taisho Era: Assuming Chief of the Second Division, Department of the Army General Staff and Divisional Commander\]. In Taro Utsunomiya 宇都宮太郎, _Nipponrikugun to Ajia seisaku: Rikugun taishō utsunomiya tarō nikki_ [日本陸軍とアジア政策：陸軍大将宇都宮太郎日記](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203876283) \[Japanese army and Asia policy: Diary of Army General Utsunomiya Taro\], vol. 2. 東京: 岩波書店, 2007. (From National Library Singapore, call no. RSING 952.03092 UTS)
+
+Shimizu, Gen 清水元, “Senkanki nihon· keizai-teki \`nanshin' no shisō-teki haikei” 戦間期日本·経済的「南進」の思想的背景 \[Japan during the interwar period: Ideological background behind economic “southward policy”\]. In _Sugiyama Shin'ya· ian· buraun-hen. Senkanki Tōnan'ajia no keizai masatsu ― Nihon no nanshin to Ajia· Ō kome_ 杉山伸也·イアン·ブラウン編. 戦間期東南アジアの経済摩擦―日本の南進とアジア·欧米 \[Economic conflicts in Southeast Asia during the interwar period\], edited by Shinya Sugimaya and Ian Brown. 東京: 同文館出版, 1994.
+
+Takekoshi, Yosaburo 竹越与三郎. _Nangoku-ki_ 南国記 \[Lands of the South\]. 東京: 二酉舎, 1910.
+
+The Netherlands Information Bureau. [_Ten Years of Japanese Burrowing in the Netherlands East Indies_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4345175). New York: Netherlands Information Bureau, 1942. (From National Library Singapore, call no. RCLOS 327.12 NET)
+
+Utsunomiya, Taro. 宇都宮太郎, _Nipponrikugun to Ajia seisaku: Rikugun taishō utsunomiya tarō nikki_ [日本陸軍とアジア政策：陸軍大将宇都宮太郎日記](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203876283) \[Japanese army and Asia policy: Diary of Army General Utsunomiya Taro\], vol. 1. 東京: 岩波書店, 2007. (From National Library Singapore, call no. RSING 952.03092 UTS)
+
+—. 宇都宮太郎, _Nipponrikugun to Ajia seisaku: Rikugun taishō utsunomiya tarō nikki_ [日本陸軍とアジア政策：陸軍大将宇都宮太郎日記](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203876283) \[Japanese army and Asia policy: Diary of Army General Utsunomiya Taro\]. Vol. 2. 東京: 岩波書店, 2007. (From National Library Singapore, call no. RSING 952.03092 UTS)
+
+Vickers, Adrian. [_A History of Modern Indonesia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14630064). Cambridge, UK: Cambridge University Press, 2013. (From National Library Singapore, call no. RSEA 959.803 VIC)
+
+Yamada, Akira. _Gunbi kakuchō no kindai-shi_ 軍備拡張の近代史 \[Modern history of military expansion\]. 東京: 吉川弘文館, 1997.
+
+&nbsp;Yamamoto, Fumihiro. “The Japanese Road to Singapore: Japanese Perceptions of the Singapore Naval Base, 1921–41.” PhD diss., National University of Singapore, 2009.
+
+—. _Nichiei kaisen e no michi ― Igirisu no shingapōru senryaku to Nihon no nanshin-ron no shinjitsu_ 日英開戦への道―イギリスのシンガポール戦略と日本の南進論の真実 \[The road to the opening of the Anglo-Japanese War: Britain’s Singapore strategy and the truth of Japan’s southern expansion doctrine\]. 東京: 中央公論新社, 2016.
+
+Yano, Nabo. 矢野暢, _\`Nanshin' no keifu_ 南進」の系譜 \[Genealogy of “Southern Expansion”\]. 東京: 中央公論社, 1975.
+
+—. “Taishō-ki \`nanshin-ron' no tokushitsu” 大正期「南進論」の特質 \[The characteristics of “Southern expansion doctrine” in the Taisho period\], _東南アジア研究_ \[Research on Southeast Asia\] 16, no. 1 (1978)
+
+**_Primary Sources_**
+
+“Kō gō yakubun (Ueda to jì zhi fa no tochi shoyū ken iten keiyaku)” 甲号訳文 (上田と紀芝發の土地所有権移転契約) \[Translation of contract A: contract of land ownership transfer between Uyeda and Ki Hiong Tje\], 1 November 1910. Lim Shao Bin Collection, National Library Singapore. (Accession no. B32428445J)
+
+“Meiji shi jū san-nen jū ichi tsuki shi-nichi ni Koyama aki-saku to Ueda Ushimatsu no ma de musuba reta keiyaku-sho” 明治四十三年十一月四日に小山秋作と上田丑松の間で結ばれた契約書 \[Contract agreed between Koyama Shusaku and Uyeda Ushimatsu on 4 November 1910\]. Lim Shao Bin Collection, National Library Singapore. (Accession no. B32428444I)
+
+_Nanpo keiryaku no junbi sagyō ni jiù ki . Meiji 43 toshi 8 tsuki 1 hi . Katajikena chi utsunomiya tarō kashiko hatsu koyama aki saku jinkei otona_ 南方経略ノ準備作業ニ就キ．明治43年8月1日．辱知宇都宮太郎畏発小山秋作仁兄大人 \[On the preparation for the Nanpo Operation, 1 August 1910. From Utsunomiya Taro to Koyama Shusaku\], Lim Shao Bin Collection, National Library Singapore. (Accession no. B32428444I)
+
+“Otsu-gō yakubun (Ueda to sarutan· abudaru· rotchimanshiya no tochi baishū keiyaku)” 乙号訳文 (上田とサルタン·アブダル·ロッチマンシヤの土地買収契約) \[Translation of contract B: Contract of land purchase between Uyeda and Raja Abdul Rahman Shah\], 1 November 1910. Lim Shao Bin Collection, National Library. (Accession no. B32428445J)
+
+“Sen kyū hyaku jū ni-nen jū tsuki bō Ni~Tsu ni Ueda Ushimatsu ga tan'npinan· Rio-shū fuzoku-chi riji-kan ni okutta chinjō-sho” 千九百十二年十月某日に上田丑松がタンンピナン·リオ州付属地理事官に送った陳情書 \[Petition sent by Uyeda Ushimatsu to the Resident of Tanjong Pinang, Riau State in October 1912\]. Lim Shao Bin Collection, National Library Singapore. (Accession no. B32428445J)&nbsp;
+
+Zai Shin Yoshimi pō Ryōji Dairi Fuku Ryōji Iwatani Jōkichi Gaimu Daijin Kōshaku Komura Kotobuki Tarō Tono 小山秋作の蘭領印度に於て土地租借に関する件. 機密第一号(明治44年1月7日). 在新嘉坡領事代理副領事岩谷譲吉外務大臣侯爵小村寿太郎殿 \[Issue regarding Koyama Shusaku’s land lease in the Dutch East Indies. Secret No. 1 (7 Jan 1911). From Iwaya Jokichi, Vice Consul in Singapore, to Marquis Komura Jutaro, Minister of Foreign Affairs\], accessed from Japan Center for Asian Historical Records website. (reference code: C03023033600)
+
+#### **NOTES**
+     
+
+1 Mikihiko Ito 伊藤幹彦, _Nihon ajia kankei-shi kenkyū&nbsp; ― Nihon no nanshin-saku o chūshin ni_ 日本アジア関係史研究―日本の南進策を中心に \[Research on the history of Japan–Asia relations: A focus on Japan’s southern expansion policy\] (東京: 星雲社, 2005), 59–68.
+
+2 Sumio Hatano 波多野澄雄, “Nipponkaigun to nanshin seisaku no tenkai,” 日本海軍と南進政策の展開 \[Japanese navy and the development of the Southern Expansion Policy\] in _Sugiyama Shin'ya· ian· buraun-hen. Senkanki Tōnan'ajia no keizai masatsu ― Nihon no nanshin to Ajia· Ō kome_ 杉山伸也·イアン·ブラウン編. 戦間期東南アジアの経済摩擦―日本の南進とアジア·欧米 \[Economic conflicts in Southeast Asia during the interwar period\], ed. Shinya Sugimaya and Ian Brown (東京: 同文館出版, 1994), 142.
+
+3 Nobu Yano 矢野暢, _\`Nanshin' no keifu_ 南進」の系譜 \[Genealogy of “Southern Expansion”\] (東京: 中央公論社, 1975), 147–48.
+
+4 Kiyoshi Ikeda 池田清, “1930-nendai no tai ei-kan ― nanshin seisaku o chūshin ni” 1930年代の対英観―南進政策を中心に \[Japanese view on the UK in the 1930s: A focus on the Southern Expansion Policy\], _Aoyama kokusai seikei ronshū dai_ _青山国際政経論集_ \[Aoyama International Journal of Politics and Economics\] 18 (1990): 38.
+
+5 Sadao Asada, _From Mahan to Pearl Harbor: The Imperial Japanese Navy and the United_ States (Annapolis: Naval Institutional Press, 2006), 207.
+
+6 Fumihiro Yamamoto 山本文史, _Nichiei kaisen e no michi ― Igirisu no shingapōru senryaku to Nihon no nanshin-ron no shinjitsu_ 日英開戦への道―イギリスのシンガポール戦略と日本の南進論の真実 \[The road to the opening of the Anglo-Japanese War: Britain’s Singapore strategy and the truth of Japan’s southern expansion doctrine\] (東京: 中央公論新社, 2016), 161.
+
+7 Ikeda, “1930-nendai no tai ei-kan ― nanshin seisaku o chūshin ni,” 40.
+
+8 Taro Utsunomiya 宇都宮太, _Nipponrikugun to ajia seisaku: Rikugun taishō utsunomiya tarō nikki_ [日本陸軍とアジア政策：陸軍大将宇都宮太郎日記](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203876283) \[Japanese army and Asia policy: Diary of Army General Utsunomiya Taro\], vol. 1 (東京: 岩波書店, 2007), 331. (From National Library Singapore, call no. RSING 952.03092 UTS)
+
+9 Utsunomiya, [_Nipponrikugun to ajia seisaku_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203876283), vol. 1, 336–37.
+
+10 Utsunomiya, [_Nipponrikugun to ajia seisaku_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203876283), vol. 1, 340.
+
+11 Utsunomiya, [_Nipponrikugun to ajia seisaku_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203876283), vol. 1, 351.
+
+12 Utsunomiya, [_Nipponrikugun to ajia seisaku_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203876283), vol. 1, 346–47.
+
+13 Utsunomiya, [_Nipponrikugun to ajia seisaku_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203876283), vol. 1, 355.
+
+14 _Nanpo keiryaku no junbi sagyō ni jiù ki . Meiji 43 toshi 8 tsuki 1 hi . Katajikena chi utsunomiya tarō kashiko hatsu koyama aki saku jinkei otona_ 南方経略ノ準備作業ニ就キ．明治43年8月1日．辱知宇都宮太郎畏発小山秋作仁兄大人 \[On the preparation for the Nanpo Operation, 1 August 1910. From Utsunomiya Taro to Koyama Shusaku\], Lim Shao Bin Collection, National Library Singapore. (Accession no. B32428444I)
+
+15 Utsunomiya, [_Nipponrikugun to ajia seisaku_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203876283), vol. 1, 358–59.
+
+16 Utsunomiya, [_Nipponrikugun to ajia seisaku_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203876283), vol. 1, 384.
+
+17 The presented 2015 values were calculated according to the consumer price index in urban areas in 1910 and 2015. _Meiji - Heisei nedan-shi_ 明治～平成値段史 \[History of prices from the Meiji to Heisei Period\]
+
+18 Utsunomiya, [_Nipponrikugun to ajia seisaku_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203876283), vol. 1, 358–59.
+
+19 Utsunomiya, [_Nipponrikugun to ajia seisaku_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203876283), vol. 1, 382–84.
+
+20 “Kō gō yakubun (Ueda to jì zhi fa no tochi shoyū ken iten keiyaku)” 甲号訳文 (上田と紀芝發の土地所有権移転契約) \[Translation of contract A: contract of land ownership transfer between Uyeda and Ki Hiong Tje\], 1 November 1910. Lim Shao Bin Collection, National Library Singapore. (Accession no. B32428445J)
+
+21 “Otsu-gō yakubun (Ueda to sarutan· abudaru· rotchimanshiya no tochi baishū keiyaku)” 乙号訳文 (上田とサルタン·アブダル·ロッチマンシヤの土地買収契約) \[Translation of contract B: Contract of land purchase between Uyeda and Raja Abdul Rahman Shah\], 1 November 1910. Lim Shao Bin Collection, National Library. (Accession no. B32428445J)
+
+22 甲号訳文.
+
+23 “Sen kyū hyaku jū ni-nen jū tsuki bō Ni~Tsu ni Ueda Ushimatsu ga tan'npinan· Rio-shū fuzoku-chi riji-kan ni okutta chinjō-sho” 千九百十二年十月某日に上田丑松がタンンピナン·リオ州付属地理事官に送った陳情書 \[Petition sent by Uyeda Ushimatsu to the Resident of Tanjong Pinang, Riau State in October 1912\]. Lim Shao Bin Collection, National Library Singapore. (Accession no. B32428445J)&nbsp;
+
+24 乙号訳文.
+
+25 “Meiji shi jū san-nen jū ichi tsuki shi-nichi ni Koyama aki-saku to Ueda Ushimatsu no ma de musuba reta keiyaku-sho” 明治四十三年十一月四日に小山秋作と上田丑松の間で結ばれた契約書 \[Contract agreed between Koyama Shusaku and Uyeda Ushimatsu on 4 November 1910\]. Lim Shao Bin Collection, National Library Singapore. (Accession no. B32428444I)
+
+26 Anthony Reid, [_The Indonesian National Revolution 1945–1950_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=750557) (Melbourne: Longman, 1974), 1. (From National Library Singapore, call no. RCLOS 959.803 REI)
+
+27 Theodore Friend, [_Indonesian Destinies_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11900158) (Cambridge, MA: Harvard University Press, 2003), 21 (From National Library, call no. RSEA 959.803 FRI); Adrian Vickers, [_A History of Modern Indonesia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14630064) (Cambridge, UK: Cambridge University Press, 2005), 14. (From National Library Singapore, call no. RSEA 959.803 VIC)
+
+28 Barbara W. Andaya, “From Rum to Tokyo: The Search for Anticolonial Allies by the Rulers of Riau, 1899–1914,” _Indonesia_ 24, no. 24 (October 1977): 136, 148, 152. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+29 Andaya, “From Rum to Tokyo,” 136, 148, 152–54.
+
+30 Koyama aki saku no ran ryō indo ni yú te tochi soshaku ni kansuru kudan . Kimitsu dai ichi gō ( Meiji 44 Toshi 1 Tsuki 7 Hi ) . Zai Shin Yoshimi pō Ryōji Dairi Fuku Ryōji Iwatani Jōkichi Gaimu Daijin Kōshaku Komura Kotobuki Tarō Tono 小山秋作の蘭領印度に於て土地租借に関する件. 機密第一号(明治44年1月7日). 在新嘉坡領事代理副領事岩谷譲吉外務大臣侯爵小村寿太郎殿 \[Issue regarding Koyama Shusaku’s land lease in the Dutch East Indies. Secret No. 1 (7 Jan 1911). From Iwaya Jokichi, Vice Consul in Singapore, to Marquis Komura Jutaro, Minister of Foreign Affairs\], accessed from Japan Center for Asian Historical Records website. &nbsp;(reference code: C03023033600).
+
+31 Andaya, “From Rum to Tokyo,” 148–49.
+
+32 Andaya, “From Rum to Tokyo,” 148–49.
+
+33 Utsunomiya, [_Nipponrikugun to ajia seisaku_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203876283), vol. 1, 412–14.
+
+34 Andaya, “From Rum to Tokyo,” 146–47.
+
+35 Gen Shimizu 清水元, _Senkanki nihon· keizai-teki \`nanshin' no shisō-teki haikei_戦間期日本·経済的「南進」の思想的背景 \[Japan during the interwar period: Ideological background behind economic “southward policy”\] in Sugiyama Shin'ya· ian· buraun-hen. Senkanki Tōnan'ajia no keizai masatsu ― Nihon no nanshin to Ajia· Ō kome 杉山伸也·イアン·ブラウン編. 戦間期東南アジアの経済摩擦―日本の南進とアジア·欧米 \[Economic conflicts in Southeast Asia during the interwar period\], ed. Shinya Sugimaya and Ian Brown (東京: 同文館出版, 1994), 19–20.
+
+36 Shimizu, _Senkanki nihon· keizai-teki \`nanshin' no shisō-teki haikei_, 75.
+
+37 Taro Utsunomiya 宇都宮太郎, _Nipponrikugun to Ajia seisaku: Rikugun taishō utsunomiya tarō nikki_ [日本陸軍とアジア政策：陸軍大将宇都宮太郎日記](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203876283) \[Japanese army and Asia policy: Diary of Army General Utsunomiya Taro\], vol. 2. (東京: 岩波書店, 2007), 147. (From National Library Singapore, call no. RSING 952.03092 UTS)
+
+38 Seiji Saito 斎藤聖二, “Meiji-ki no utsunomiya tarō ― chūei bukan· rentai-chō· sanbō honbu dainibuchō” &nbsp;明治期の宇都宮太郎―駐英武官·連隊長·参謀本部第二部長 \[Utsunomiya Taro during the Meiji Period: Military Attaché to the UK Embassy, Regimental Commander, and Chief of the Second Division, Department of the Army General Staff\] in Taro Utsunomiya 宇都宮太郎, _Nipponrikugun to Ajia seisaku: Rikugun taishō utsunomiya tarō nikki_ [日本陸軍とアジア政策：陸軍大将宇都宮太郎日記](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203876283) \[Japanese army and Asia policy: Diary of Army General Utsunomiya Taro\], vol. 1. (東京: 岩波書店, 2007), 45. (From National Library Singapore, call no. RSING 952.03092 UTS)
+
+39 Utsunomiya, [_Nipponrikugun to ajia seisaku_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203876283), vol. 1, 129–30.
+
+40 Shimizu, 19–20.
+
+
+
