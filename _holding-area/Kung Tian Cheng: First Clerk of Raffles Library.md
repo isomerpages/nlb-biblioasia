@@ -48,10 +48,10 @@ In 1914, Kung was appointed Chief Librarian of Yuan Shikai’s Presidential Libr
 
 #### **Notes**
 
-[^1]: Raffles Library and Museum, _Catalogue of the Raffles Library, Singapore 190_0 (Singapore: American Mission Press, 1905). (From National Library Online)
+[^1]: Raffles Library and Museum, [_Catalogue of the Raffles Library, Singapore 1900_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=351b25e0-7cd0-4a61-8406-766c0c512b67) (Singapore: American Mission Press, 1905). (From National Library Online)
 
 
-[^2]: Raffles Library and Museum, _Catalogue of the Raffles Library, Singapore 1900_, Foreword. Today, his name 孔天增 is transliterated as Kung Tian Cheng. For a more detailed account of Kung Tian Cheng’s life and accomplishments, see Bonny Tan, “Kung Tian Cheng: From Confucian Scholar in Singapore to Reformer in the Chinese Republic,” _Journal of the Malaysian Branch of the Royal Asiatic Society 96_, no. 324 (June 2023):&nbsp; 81–97, https://dx.doi.org/10.1353/ras.2023.a900785.
+[^2]: Raffles Library and Museum, [_Catalogue of the Raffles Library, Singapore 1900_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=351b25e0-7cd0-4a61-8406-766c0c512b67), Foreword. Today, his name 孔天增 is transliterated as Kung Tian Cheng. For a more detailed account of Kung Tian Cheng’s life and accomplishments, see Bonny Tan, “Kung Tian Cheng: From Confucian Scholar in Singapore to Reformer in the Chinese Republic,” _Journal of the Malaysian Branch of the Royal Asiatic Society 96_, no. 324 (June 2023):&nbsp; 81–97, https://dx.doi.org/10.1353/ras.2023.a900785.
 
 
 [^3]: Song Ong Siang, _One Hundred Years’ History of the Chinese in Singapore: The Annotated Edition_ (Singapore: National Library Board and World Scientific, 2020), 719–22. (From National Library Singapore, call no. RSING 959.57 SON)
