@@ -17,6 +17,17 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 21 Issue 1/Deaf Education/HeroImage_deafeducation.jpg
   - infopic:
+      title: "Peng Tsu Ying: Singapore's Pioneering Deaf Educator"
+      subtitle: Podcast
+      id: infopic
+      description: Librarian Nathaniel Chew tells us about Peng's advocacy, his own
+        journey learning the Singapore Sign Language and the different ways it
+        has evolved.
+      button: Listen to the Episode
+      url: /podcast/peng-tsu-ying-singapore-pioneering-deaf-educator-nathaniel-chew/
+      image: /images/Podcast/Nathaniel_Chew_web.jpg
+      alt: Pioneering Deaf Educator
+  - infopic:
       title: In Search of Silvestr
       subtitle: History
       id: infopic
@@ -1209,15 +1220,4 @@ sections:
       url: /vol-21/issue-2/jul-sep-2025/toa-payoh-public-library/
       image: /images/Vol 21 Issue 2/Toa Payoh/Toa_Payoh_Library.jpg
       alt: The Toa Payoh Public Library
-  - infopic:
-      title: "Peng Tsu Ying: Singapore's Pioneering Deaf Educator"
-      subtitle: Podcast
-      id: infopic
-      description: Librarian Nathaniel Chew tells us about Peng's advocacy, his own
-        journey learning the Singapore Sign Language and the different ways it
-        has evolved.
-      button: Listen to the Episode
-      url: /podcast/peng-tsu-ying-singapore-pioneering-deaf-educator-nathaniel-chew/
-      image: /images/Podcast/Nathaniel_Chew_web.jpg
-      alt: Pioneering Deaf Educator
 ---
