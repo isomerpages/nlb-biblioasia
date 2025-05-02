@@ -49,6 +49,9 @@ The SEA Room was officially opened on 28 August 1964, with Culture Minister S. R
 
 In June 1965, the Singapore and Southeast Asia Collection was further enriched by Mrs Loke Yew’s donation of books and journals originally from the personal library of the late Carl Alexander Gibson-Hill (curator at the Raffles Museum and editor of the _Journal of the Malayan Branch of the Royal Asiatic Society_). Mrs Loke Yew was the mother of Loke Wan Tho, the chairman of the board of the National Library from 1960 until his death in 1964.[^14]
 
+![](/images/Vol%2021%20Issue%202/SG%20SEA%20Collection/SEAcollection_carl.jpg)
+<div style="background-color:white;">Carl Alexander Gibson-Hill speaking at an event, 1962. <i>  Yusof Ishak Collection, courtesy of National Archives of Singapore.</i></div>
+
 “I welcome this opportunity of fulfilling my son’s intention, thereby not only perpetuating the memory and names of these two close friends (Dato Loke and the late Dr Gibson-Hill) but also providing a source of knowledge for many young men in the years that lie ahead,” said Mrs Loke Yew at the presentation ceremony.&nbsp;
 
 ![](/images/Vol%2021%20Issue%202/SG%20SEA%20Collection/SEAcollection_presentation.jpg)
