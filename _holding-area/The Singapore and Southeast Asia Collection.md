@@ -118,5 +118,38 @@ As research methods evolve over time with resources available beyond print, the 
 [^9]: 
 
 
-[^0]: 
+[^10]: 
+
+
+[^11]: 
+
+
+[^12]: 
+
+
+[^13]: 
+
+
+[^14]: 
+
+
+[^15]: 
+
+
+[^16]: 
+
+
+[^17]: 
+
+
+[^18]: 
+
+
+[^19]: 
+
+
+[^20]: 
+
+
+[^21]: 
 
