@@ -25,7 +25,7 @@ sections:
         Singapore.
       button: Finding Family
       url: /people/2025/4/lost-family-silvestr-nemec-war-search-czech-singapore/
-      image: /images/Online Only Articles/In Search of Silvestr/2.jpg
+      image: /images/Online Only Articles/In Search of Silvestr/Silvestr_resized.jpg
       alt: In Search of Silvestr
   - infopic:
       title: Remembering the Part-Time Libraries
