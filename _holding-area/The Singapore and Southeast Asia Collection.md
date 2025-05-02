@@ -7,6 +7,9 @@ description: ""
 #### The Singapore and Southeast Asia Collection is an invaluable resource for researchers of all stripes.  
 By Ang Seow Leng
 
+![](/images/Vol%2021%20Issue%202/SG%20SEA%20Collection/SEAcollection_main.jpg)
+<div style="background-color:white;">The Singapore and Southeast Asia Collection on Level 11 of the Lee Kong Chian Reference Library, National Library Building. <i>Photo by Jimmy Yap.</i></div>
+
 First time visitors to Level 11 of the Lee Kong Chian Reference Library at the National Library Building are typically wowed by the space: from the floor-to-ceiling windows offering a spectacular view of the Singapore skyline to the triple-volume ﬂoor with a six-metre-high book wall. But the gorgeous view and the high ceilings pale in comparison to what is on the bookshelves on this floor. Level 11 is the home of the Singapore and Southeast Asia Collection – a valuable source of materials for historical research and discovery into topics relating to Singapore and the region.
 
 The Singapore and Southeast Asia Collection, together with the Rare Materials Collection, the Legal Deposit Collection and the Donors’ Collection, form the National Collection of almost 2 million items at the National Library Singapore.&nbsp;
@@ -18,6 +21,9 @@ The National Library has its beginnings as the Singapore Institution Library, wh
 In 1845, the Singapore Institution Library was renamed the Singapore Library. By 1874, with a collection of 3,000 volumes, the Singapore Library became a part of the museum. The new entity was called the Raffles Library and Museum, and its objective was to collect “valuable works relating to the Straits Settlements, and surrounding countries, as well as standard works on Botany, Zoology, Mineralogy, Geography, and the Arts and Sciences generally”.[^2]
 
 Early acquisitions include the 1879 purchase of the Logan Philological Library belonging to James Richardson Logan, the founder and well-known editor of the _Journal of the Indian Archipelago and Eastern Asia_ (popularly known as Logan’s Journal). This consisted of 1,250 works on the ethnography and philology of the Malay Archipelago.[^3] The Rost Collection was acquired in 1897 from a portion of the private library of Reinhold Rost, the librarian at the India Office Library in London. The 970-volume collection comprises titles relating to the philology, geography and ethnology of the Malay Archipelago.[^4]
+
+![](/images/Vol%2021%20Issue%202/SG%20SEA%20Collection/SEAcollection_rost.jpg)
+<div style="background-color:white;"> The <i>Catalogue of the Rost Collection in the Raffles Library, Singapore</i> was published by the American Mission Press in Singapore in 1897. <i>Collection of the National Library Singapore (call no. RRARE 016.49 RAF).</i></div>
 
 The library’s collection grew steadily and by the end of 1900, there were more than 26,000 volumes.[^5] The appointment of qualified librarian James Johnston in 1920 to manage the Raffles Library was a landmark in the library’s history. He was instrumental in&nbsp;organising&nbsp;works on Malaya and the surrounding islands&nbsp;intoa special Malaysia Collection in 1924. The library’s collection continued to grow and gain traction from there.[^6] In 1923, the library of the Malayan Branch of the Royal Asiatic Society was transferred “on permanent loan” to the Raffles Library as the society’s council felt that it would “receive more attention and care in the larger library”.[^7]
 
