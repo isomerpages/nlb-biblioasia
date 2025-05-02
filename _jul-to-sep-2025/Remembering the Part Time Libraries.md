@@ -64,7 +64,7 @@ The government finally approved the establishment of branch libraries in Septemb
 It would take another two years before the Raffles Library opened the first part-time branch library. It was located within the Social Welfare Centre on Lim Ah Pin Road in Upper Serangoon and began operations on 29 December 1953. “There are books for senior and junior readers as well as a small reference section,” Raffles Librarian Kay Hudson told the _Singapore Free Press_. “It’s starting in a small way – with about 2,000 books – but we have great hopes of it growing.”[^15]
 
 ![](/images/Vol%2021%20Issue%202/Part%20Time%20Libraries/parttime_branch.jpg)
-<div style="background-color:white;">The first part-time branch library, in Upper Serangoon, opened in December 1953. The library “saved book-lovers many a trip to the city library”. <i>Image reproduced from “This Is a Happy Suburb and a Library Helps,” Singapore Free Press, 31 May 1954, 7. (From NewspaperSG).</i></div>
+<div style="background-color:white;">The first part-time branch library in Upper Serangoon opened in December 1953. The library “saved book-lovers many a trip to the city library”. <i>Image reproduced from “This Is a Happy Suburb and a Library Helps,” Singapore Free Press, 31 May 1954, 7. (From NewspaperSG).</i></div>
 
 The library was only open four days a week, from 3 pm to 8 pm on Mondays, Wednesdays and Fridays, and from 2 pm to 5 pm on Saturdays. “It’s unfortunate that we can’t open in the morning because the building is occupied by a children’s welfare centre,” said Hudson. According to Sunny Chiok Hock Siew, who managed the branch, another reason for the later opening hours was to cater to working adults who could only visit after work.[^16]
 
@@ -104,7 +104,7 @@ Part-time libraries continued to play an important role by providing interim ser
 
 The subsequent part-time libraries functioned as a transitory service and were primarily situated in the heartlands to be closer to the residents.
 
-The fifth part-time branch, which opened at Block 28 Chai Chee Avenue in November 1974 became the largest part-time branch to date. It was also the first library to be housed within a rented shophouse owned by the Housing and Development Board (HDB).[^32]
+The fifth part-time branch, which opened at Block 28 Chai Chee Avenue in November 1974, became the largest part-time branch to date. It was also the first library to be housed within a rented shophouse owned by the Housing and Development Board (HDB).[^32]
 
 The sixth part-time branch began operations at the Jurong Town Community Centre on Yung An Road on 15 November 1977.&nbsp; The _New Nation_ reported that although Jurong had a population of 90,000, only 80 people were members of the library. Due to low usage, the branch initially opened only on Tuesdays from 2&nbsp;pm to 8 pm, with services later extended to Mondays, Wednesdays and Fridays, from 3 pm to 9 pm.
 
@@ -117,11 +117,11 @@ The eighth and last part-time branch library opened at the void deck of Block 73
 ![](/images/Vol%2021%20Issue%202/Part%20Time%20Libraries/parttime_whampoa.jpg)
 <div style="background-color:white;">The Whampoa Part-time Branch Library in a void deck, 1981.  <i>Image reproduced from “Bookworms’ Delight,” New Nation, 16 December 1981, 8. (From NewspaperSG).</i></div>
 
-Within two weeks of its opening, 900 adults and 1,714 children joined as members and they borrowed a total of 4,302 and 9,053 books from the adults’ section and children’s section respectively. The Whampoa branch was operational almost daily except on Sundays, opening from 2 pm to 8 pm on Mondays, Wednesday and Fridays, and from 9 am to 6 pm on Tuesdays, Thursdays and Saturdays.[^37]
+Within two weeks of its opening, 900 adults and 1,714 children joined as members and they borrowed a total of 4,302 and 9,053 books from the adults’ and children’s sections respectively. The Whampoa branch was operational almost daily except on Sundays, opening from 2 pm to 8 pm on Mondays, Wednesday and Fridays, and from 9 am to 6 pm on Tuesdays, Thursdays and Saturdays.[^37]
 
 However, by 1985, operating hours were halved due to dwindling usage.[^38] The library eventually closed in July 1987 due to HDB’s demolition exercise, and users were urged to visit the Toa Payoh Branch Library that was nearby.[^39]
 
-In 1981, the National Library announced plans to open eight more fulltime branch libraries in various HDB estates in the next 11 years.[^40] Part-time branch libraries were gradually phased out and the libraries in Whampoa and Jurong were the last to shut before the part-time library scheme fully gave way to fulltime branch libraries by the late 1980s.
+In 1981, the National Library announced plans to open eight more fulltime branch libraries in various HDB estates over the next 11 years.[^40] Part-time branch libraries were gradually phased out and the libraries in Whampoa and Jurong were the last to shut before the part-time library scheme fully gave way to fulltime branch libraries by the late 1980s.
 
 For 30 years, part-time libraries brought books to the people and extended library services to neighbourhoods in the outlying areas. These libraries may be largely forgotten today but while they existed, they played an important role in supporting Singapore’s push for literacy, education and economic development.
 
