@@ -25,7 +25,7 @@ Early acquisitions include the 1879 purchase of the Logan Philological Library b
 ![](/images/Vol%2021%20Issue%202/SG%20SEA%20Collection/SEAcollection_rost.jpg)
 <div style="background-color:white;"> The <i>Catalogue of the Rost Collection in the Raffles Library, Singapore</i> was published by the American Mission Press in Singapore in 1897. <i>Collection of the National Library Singapore (call no. RRARE 016.49 RAF).</i></div>
 
-The library’s collection grew steadily and by the end of 1900, there were more than 26,000 volumes.[^5] The appointment of qualified librarian James Johnston in 1920 to manage the Raffles Library was a landmark in the library’s history. He was instrumental in&nbsp;organising&nbsp;works on Malaya and the surrounding islands&nbsp;intoa special Malaysia Collection in 1924. The library’s collection continued to grow and gain traction from there.[^6] In 1923, the library of the Malayan Branch of the Royal Asiatic Society was transferred “on permanent loan” to the Raffles Library as the society’s council felt that it would “receive more attention and care in the larger library”.[^7]
+The library’s collection grew steadily and by the end of 1900, there were more than 26,000 volumes.[^5] The appointment of qualified librarian James Johnston in 1920 to manage the Raffles Library was a landmark in the library’s history. He was instrumental in&nbsp;organising&nbsp;works on Malaya and the surrounding islands into a special Malaysia Collection in 1924. The library’s collection continued to grow and gain traction from there.[^6] In 1923, the library of the Malayan Branch of the Royal Asiatic Society was transferred “on permanent loan” to the Raffles Library as the society’s council felt that it would “receive more attention and care in the larger library”.[^7]
 
 The move back to the Raffles Institution building in 1876 presented an opportunity to reclassify the growing collection. The simple six-genre arrangement was expanded into 24 subjects, each represented by a letter of the English alphabet. &nbsp;The letter “Q”, for instance, was given to “Works on Singapore, the Straits Settlements and the Eastern Archipelago”.[^8]
 
@@ -34,6 +34,9 @@ Fortunately, the Japanese Occupation (1942–45) did not do much damage to the c
 In 1955, the Raffles Library and Museum was separated into two entities and plans were also made for the library to have its own separate building next door.[^10] Raffles Library was renamed Raffles National Library in 1958 after the Raffles National Library Ordinance took effect. It moved into its new premises in November 1960 and a month later, the Raffles National Library became officially known as the National Library.[^11]
 
 #### **Opening of the South East Asia Room**
+
+![](/images/Vol%2021%20Issue%202/SG%20SEA%20Collection/SEAcollection_room.jpg)
+<div style="background-color:white;">The South East Asia Room with tables for researchers, 1970s. <i> Collection of the National Library Singapore.</i></div>
 
 One of the more important additions to the library’s collection in the early postwar years is the Ya Yin Kwan (Palm Shade Pavilion) Collection, donated by Tan Yeok Seong (1903–84), the founder of Nanyang Book Company. A historian and collector of books and historical artefacts, Tan devoted his life and time researching Southeast Asian history, especially the influence of the Chinese in Southeast Asia.&nbsp;
 
@@ -85,7 +88,10 @@ Although print publications make up the core of the collection, there are also r
 
 As the National Library continues to be a repository of the nation’s documentary heritage and builds the collection through acquisition, donations, gifts and exchange with other libraries and digital acquisition, it also aims to be a leading resource centre on Southeast Asia.
 
-#### **Users of the Singapore and Southeast Asia Collection **
+![](/images/Vol%2021%20Issue%202/SG%20SEA%20Collection/SEAcollection_hikayat.jpg)
+<div style="background-color:white;"> Published in 1849, <i>Hikayat Abdullah</i> (Stories of Abdullah) was written by the Malay teacher and scholar Abdullah Abdul Kadir (Munsyi Abdullah). This copy even travelled overseas for an exhibition, <i>Treasures from the World’s Great Libraries</i>, at the National Library of Australia from 2001–2002. <i> Collection of the National Library Singapore (call no. RRARE 959.503 ABD). </i></div>
+
+#### **Users of the Singapore and Southeast Asia Collection**
 
 Many researchers and scholars have benefitted from the Singapore and Southeast Asia Collection through the years. The late Professor Ian Proudfoot (1946–2011) was an Australian researcher and former SEA Room user. He studied the Malay manuscripts collection held at the National Library during his early career and became one of the greatest philologist scholars on early Malay printing. He also found love in the SEA Room and got married to one of the librarians.
 
