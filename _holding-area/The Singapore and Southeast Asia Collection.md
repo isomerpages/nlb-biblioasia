@@ -113,7 +113,7 @@ As research methods evolve over time with resources available beyond print, the 
 
 
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src="/images/Authors/AngSeowLeng.png">
+<img style="width: 100px; height: 100px;" src="/images/Vol%2018%20Issue%202/Authors/Ang_Seow_Leng.png">
 <b>Ang Seow Leng</b> is a Senior Librarian with the National Library Singapore. Her responsibilities include managing the Singapore and Southeast Asia Collection, developing content as well as providing reference and research services relating to Singapore and Southeast Asia.</div>
 
 
