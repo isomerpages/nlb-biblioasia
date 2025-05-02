@@ -37,7 +37,13 @@ In 1955, the Raffles Library and Museum was separated into two entities and plan
 
 One of the more important additions to the library’s collection in the early postwar years is the Ya Yin Kwan (Palm Shade Pavilion) Collection, donated by Tan Yeok Seong (1903–84), the founder of Nanyang Book Company. A historian and collector of books and historical artefacts, Tan devoted his life and time researching Southeast Asian history, especially the influence of the Chinese in Southeast Asia.&nbsp;
 
+![](/images/Vol%2021%20Issue%202/SG%20SEA%20Collection/SEAcollection_stamp.jpg)
+<div style="background-color:white;"> All titles in the Ya Yin Kwan Collection bear this donation label as well as the stamp in red which says Ya Yin Kwan in Chinese (椰荫馆). <i>Collection of the National Library Singapore.</i></div>
+
 In 1964, Tan donated his collection to the National Library with the condition that a South East Asia Room (SEA Room) be set up to house the collection and make it accessible to the public. His wish was for the donation to be a catalyst for more donations and for the National Library to become a centre for Southeast Asian studies.[^12] Since the majority of the publications about this region in the early 19th and 20th centuries were mainly by Europeans, Tan hoped for more Southeast Asian scholars to write their own history.&nbsp;
+
+![](/images/Vol%2021%20Issue%202/SG%20SEA%20Collection/SEAcollection_tanyeok.jpg)
+<div style="background-color:white;"> Tan Yeok Seong (1903–84). <i> Courtesy of his son, Alex Tan Tiong Tee.</i></div>
 
 The SEA Room was officially opened on 28 August 1964, with Culture Minister S. Rajaratnam as the guest of honour. “Today’s occasion is one that makes Singaporeans and Malaysians proud,” said Rajaratnam. “From the closed stacks at the back of the building our librarians have now brought out this famous collection.”[^13]
 
