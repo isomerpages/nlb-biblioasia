@@ -89,7 +89,7 @@ Although print publications make up the core of the collection, there are also r
 As the National Library continues to be a repository of the nation’s documentary heritage and builds the collection through acquisition, donations, gifts and exchange with other libraries and digital acquisition, it also aims to be a leading resource centre on Southeast Asia.
 
 ![](/images/Vol%2021%20Issue%202/SG%20SEA%20Collection/SEAcollection_hikayat.jpg)
-<div style="background-color:white;"> Published in 1849, <i>Hikayat Abdullah</i> (Stories of Abdullah) was written by the Malay teacher and scholar Abdullah Abdul Kadir (Munsyi Abdullah). This copy even travelled overseas for an exhibition, <i>Treasures from the World’s Great Libraries</i>, at the National Library of Australia from 2001–2002. <i> Collection of the National Library Singapore (call no. RRARE 959.503 ABD). </i></div>
+<div style="background-color:white;"> Published in 1849, <i>Hikayat Abdullah</i> (Stories of Abdullah) was written by the Malay teacher and scholar Abdullah Abdul Kadir (Munsyi Abdullah). This copy even travelled overseas for an exhibition, <i>Treasures from the World’s Great Libraries</i>, at the National Library of Australia from&nbsp;2001 to 2002. <i> Collection of the National Library Singapore (call no. RRARE 959.503 ABD). </i></div>
 
 #### **Users of the Singapore and Southeast Asia Collection**
 
@@ -152,7 +152,7 @@ As research methods evolve over time with resources available beyond print, the 
 [^11]: Hedwig Anuar, “[Singapore’s National Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/stannual19620101-1.2.45),” _Straits Times Annual_, 1 January 1962, 58–59; “[Out Goes the Name Raffles](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19601121-1.2.88),” _Straits Times_, 21 November 1960, 9; “[Raffles’ Name Will Live On: Rajaratnam](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19601201-1.2.60),” _Straits Times_, 1 December 1960, 7. (From NewspaperSG)
 
 
-[^12]: Ang Seow Leng and Jane Wee, comps., [_Catalogue of the Ya Yin Kwan Collection in the Lee Kong Chian Reference Library =_ 椰阴馆藏书目录 _= Ye yin guan cang shu mu lu_](), ed.&nbsp; Lai Yee Pong, Lynn Fong and Noryati Abdul Samad (Singapore: National Library Board, 2006), 16. (From National Library Singapore, call no. RSING q338.092 TAN)
+[^12]: Ang Seow Leng and Jane Wee, comps., [_Catalogue of the Ya Yin Kwan Collection in the Lee Kong Chian Reference Library =_ 椰阴馆藏书目录 _= Ye yin guan cang shu mu lu_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12694409), ed.&nbsp; Lai Yee Pong, Lynn Fong and Noryati Abdul Samad (Singapore: National Library Board, 2006), 16. (From National Library Singapore, call no. RSING q338.092 TAN)
 
 
 [^13]: S. Rajaratnam, “[The Opening of the South East Asia Room and Presentation of the Ya Kin Kwan Collection by Mr Tan Yeok Seong](https://www.nas.gov.sg/archivesonline/speeches/record-details/78d8ebbf-115d-11e3-83d5-0050568939ad),” speech, National Library, 28 August 1964, transcript. (From National Archives of Singapore, document no. PressR19640828)
