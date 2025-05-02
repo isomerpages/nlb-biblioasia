@@ -9,7 +9,7 @@ By Ang Seow Leng
 
 First time visitors to Level 11 of the Lee Kong Chian Reference Library at the National Library Building are typically wowed by the space: from the floor-to-ceiling windows offering a spectacular view of the Singapore skyline to the triple-volume ﬂoor with a six-metre-high book wall. But the gorgeous view and the high ceilings pale in comparison to what is on the bookshelves on this floor. Level 11 is the home of the Singapore and Southeast Asia Collection – a valuable source of materials for historical research and discovery into topics relating to Singapore and the region.
 
-The Singapore and Southeast Asia Collection, together with the Rare Materials Collection, the Legal Deposit Collection and the Donors’ Collection, form the National Collection of almost 2 million items at the National Library Singapore. 
+The Singapore and Southeast Asia Collection, together with the Rare Materials Collection, the Legal Deposit Collection and the Donors’ Collection, form the National Collection of almost 2 million items at the National Library Singapore.&nbsp;
 
 The Early Years of the Singapore and Southeast Asia Collection
 
@@ -19,31 +19,31 @@ In 1845, the Singapore Institution Library was renamed the Singapore Library; by
 
 Early acquisitions include the 1879 purchase of the Logan Philological Library belonging to James Richardson Logan, the founder and well-known editor of the _Journal of the Indian Archipelago and Eastern Asia_ (popularly known as Logan’s Journal). This consisted of 1,250 works on the ethnography and philology of the Malay Archipelago.3 The Rost Collection was acquired in 1897 from a portion of the private library of Reinhold Rost, the librarian at the India Office Library in London. The 970-volume collection comprises titles relating to the philology, geography and ethnology of the Malay Archipelago.4
 
-The library’s collection grew steadily and by the end of 1900, there were more than 26,000 volumes.5  The appointment of qualified librarian James Johnston in 1920 to manage the Raffles Library was a landmark in the library’s history. He was instrumental in separating works on Malaya and the surrounding islands as a special Malaysia Collection in 1924. The library’s collection continued to grow and gain traction from there.6 In 1923, the library of the Malayan Branch of the Royal Asiatic Society was transferred “on permanent loan” to the Raffles Library as the society’s council felt that it would “receive more attention and care in the larger library”.7
+The library’s collection grew steadily and by the end of 1900, there were more than 26,000 volumes.5&nbsp; The appointment of qualified librarian James Johnston in 1920 to manage the Raffles Library was a landmark in the library’s history. He was instrumental in separating works on Malaya and the surrounding islands as a special Malaysia Collection in 1924. The library’s collection continued to grow and gain traction from there.6 In 1923, the library of the Malayan Branch of the Royal Asiatic Society was transferred “on permanent loan” to the Raffles Library as the society’s council felt that it would “receive more attention and care in the larger library”.7
 
-The move back to the Raffles Institution building in 1876 presented an opportunity to reclassify the growing collection. The simple six-genre arrangement was expanded into 24 subjects, each represented by a letter of the English alphabet.  The letter “Q”, for instance, was given to “Works on Singapore, the Straits Settlements and the Eastern Archipelago”.8
+The move back to the Raffles Institution building in 1876 presented an opportunity to reclassify the growing collection. The simple six-genre arrangement was expanded into 24 subjects, each represented by a letter of the English alphabet. &nbsp;The letter “Q”, for instance, was given to “Works on Singapore, the Straits Settlements and the Eastern Archipelago”.8
 
 Fortunately, the Japanese Occupation (1942–45) did not do much damage to the collections of the museum and library. After the war, the library focused on rebuilding its collection which increased to 70,000 volumes by 1947. This figure reached 80,000 volumes by 1955.9
 
 In 1955, the Raffles Library and Museum was separated into two entities and plans were also made for the library to have its own separate building next door.10 Raffles Library was renamed Raffles National Library in 1958 after the Raffles National Library Ordinance took effect. It moved into its new premises in November 1960 and a month later, the Raffles National Library became officially known as the National Library.11
 
-Opening of the South East Asia Room 
+Opening of the South East Asia Room&nbsp;
 
-One of the more important additions to the library’s collection in the early postwar years is the Ya Yin Kwan (Palm Shade Pavilion) Collection, donated by Tan Yeok Seong (1903–84), the founder of Nanyang Book Company. A historian and collector of books and historical artefacts, Tan devoted his life and time researching Southeast Asian history, especially the influence of the Chinese in Southeast Asia. 
+One of the more important additions to the library’s collection in the early postwar years is the Ya Yin Kwan (Palm Shade Pavilion) Collection, donated by Tan Yeok Seong (1903–84), the founder of Nanyang Book Company. A historian and collector of books and historical artefacts, Tan devoted his life and time researching Southeast Asian history, especially the influence of the Chinese in Southeast Asia.&nbsp;
 
-In 1964, Tan donated his collection to the National Library with the condition that a South East Asia Room (SEA Room) be set up to house the collection and make it accessible to the public. His wish was for the donation to be a catalyst for more donations and for the National Library to become a centre for Southeast Asian studies.12 Since the majority of the publications about this region in the early 19th and 20th centuries were mainly by Europeans, Tan hoped for more Southeast Asian scholars to write their own history. 
+In 1964, Tan donated his collection to the National Library with the condition that a South East Asia Room (SEA Room) be set up to house the collection and make it accessible to the public. His wish was for the donation to be a catalyst for more donations and for the National Library to become a centre for Southeast Asian studies.12 Since the majority of the publications about this region in the early 19th and 20th centuries were mainly by Europeans, Tan hoped for more Southeast Asian scholars to write their own history.&nbsp;
 
 The SEA Room was officially opened on 28 August 1964, with Culture Minister S. Rajaratnam as the guest of honour. “Today’s occasion is one that makes Singaporeans and Malaysians proud,” said Rajaratnam. “From the closed stacks at the back of the building our librarians have now brought out this famous collection.”13
 
 In June 1965, the Singapore and Southeast Asia Collection was further enriched by Mrs Loke Yew’s donation of books and journals originally from the personal library of the late Carl Alexander Gibson-Hill (curator at the Raffles Museum and editor of the _Journal of the Malayan Branch of the Royal Asiatic Society_). Mrs Loke Yew was the mother of Loke Wan Tho, the chairman of the board of the National Library from 1960 until his death in 1964.14
 
-“I welcome this opportunity of fulfilling my son’s intention, thereby not only perpetuating the memory and names of these two close friends (Dato Loke and the late Dr Gibson-Hill) but also providing a source of knowledge for many young men in the years that lie ahead,” said Mrs Loke Yew at the presentation ceremony. 
+“I welcome this opportunity of fulfilling my son’s intention, thereby not only perpetuating the memory and names of these two close friends (Dato Loke and the late Dr Gibson-Hill) but also providing a source of knowledge for many young men in the years that lie ahead,” said Mrs Loke Yew at the presentation ceremony.&nbsp;
 
- The SEA room gave prominence and importance to works on Southeast Asia, including titles relating to Singapore. The Gibson-Hill, Logan and Rost collections were housed in the SEA Room, along with materials on Malaysia, Burma (now Myanmar), Thailand, Vietnam, Laos, Cambodia, Brunei, Indonesia and the Philippines.15
+&nbsp;The SEA room gave prominence and importance to works on Southeast Asia, including titles relating to Singapore. The Gibson-Hill, Logan and Rost collections were housed in the SEA Room, along with materials on Malaysia, Burma (now Myanmar), Thailand, Vietnam, Laos, Cambodia, Brunei, Indonesia and the Philippines.15
 
 In the ensuing decades, the National Library continued to add rare and important Singapore and Southeast Asian materials, either through purchase or from donations. The current strengths of the National Library’s collections and services on Southeast Asia owe much to the farsighted policies during this period of the 1960s.
 
-In 1997, the National Library on Stamford Road underwent an extensive six-month makeover. When it reopened in October that year, the SEA Room had been converted into the Singapore Resource Centre, which was publicly accessible.   
+In 1997, the National Library on Stamford Road underwent an extensive six-month makeover. When it reopened in October that year, the SEA Room had been converted into the Singapore Resource Centre, which was publicly accessible.&nbsp; &nbsp;
 
 Part of the collection from the SEA Room was recategorised as the Singapore Collection and placed in the Singapore Resource Centre, while the rare and valuable materials were moved into a new space called the Heritage Room that was not accessible to the public. (The Heritage Room’s collection is now the Rare Materials Collection at the National Library Building on Victoria Street.)16
 
@@ -51,9 +51,9 @@ Growing the Singapore and Southeast Asia Collection
 
 The early acquisitions, donations and titles from the Singapore Library form part of the Rare Materials Collection today. The collection covers language and literature, religion, history and geography, focusing on Singapore and Southeast Asia from the 15th to the early 20th centuries. Many of the titles were produced by Singapore’s earliest printing presses such as the Mission Press of the London Missionary Society.
 
-Donations and gifts, including items that were not available for purchase, add diversity and depth to the National Library’s collections. Over the years, the National Library is fortunate to have been the beneficiary of the personal collections of collectors, researchers and scholars, who systematically accumulated important reference materials over their years of study, or from individuals or institutions that hold heritage materials of value such as manuscripts, private papers, letters and photographs. These items contribute to the preservation of Singapore’s documentary heritage. 
+Donations and gifts, including items that were not available for purchase, add diversity and depth to the National Library’s collections. Over the years, the National Library is fortunate to have been the beneficiary of the personal collections of collectors, researchers and scholars, who systematically accumulated important reference materials over their years of study, or from individuals or institutions that hold heritage materials of value such as manuscripts, private papers, letters and photographs. These items contribute to the preservation of Singapore’s documentary heritage.&nbsp;
 
- The National Library safeguards the published heritage of Singapore. Works published in Singapore are deposited with the National Library and these also make up part of the Singapore and Southeast Asia Collection. Known as legal deposit, it is the legislation by which a country ensures that copies of every publication produced and printed in the country is deposited with one or more designated repositories – usually a library. 
+&nbsp;The National Library safeguards the published heritage of Singapore. Works published in Singapore are deposited with the National Library and these also make up part of the Singapore and Southeast Asia Collection. Known as legal deposit, it is the legislation by which a country ensures that copies of every publication produced and printed in the country is deposited with one or more designated repositories – usually a library.&nbsp;
 
 Legal deposit is enshrined in the National Library Board Act (Chapter 197), which sets out the functions and powers of the National Library Board (NLB) to acquire, organise, preserve and make accessible Singapore’s published legacy. Under the act, all library materials published and distributed in Singapore have to be deposited with the National Library. This includes two copies of every published material in a physical format and one copy of every published material in an electronic format. From 2018 onwards, the National Library also began archiving websites containing the .sg domain without needing to seek written permission from content owners.17
 
@@ -61,24 +61,62 @@ In 2014, NLB became a member of the Biodiversity Heritage Library consortium, th
 
 In 2016, the National Library embarked on the Singapore Digital Resource Project that aims to enrich the Singapore and Southeast Asia Collection and fill gaps. There have been several collaborations with overseas institutions to digitise, acquire digitised copies and make accessible the archival and printed materials of Singapore and Southeast Asia held by them. For instance, a five-year project with the British Library, which began in 2013, saw the digitisation of Malay manuscripts, early maps of Singapore and papers relating to Stamford Raffles, thanks to a kind donation of £125,000 from William and Judith Bollinger.19
 
-The strengths of the Singapore and Southeast Asia Collection are the titles on the history (particularly Malayan colonial history), government, language and literature, and sociocultural descriptions of Singapore, Malaysia and the region. The materials are primarily in the four official languages – English, Malay, Chinese and Tamil. However, there are also items in European languages (for instance French and German), Japanese and some Southeast Asian languages (such as Indonesian, Thai and Tagalog) 
+The strengths of the Singapore and Southeast Asia Collection are the titles on the history (particularly Malayan colonial history), government, language and literature, and sociocultural descriptions of Singapore, Malaysia and the region. The materials are primarily in the four official languages – English, Malay, Chinese and Tamil. However, there are also items in European languages (for instance French and German), Japanese and some Southeast Asian languages (such as Indonesian, Thai and Tagalog)&nbsp;
 
 Although print publications make up the core of the collection, there are also resources in formats such as microforms, maps, photographs, posters, ephemera, audiovisual and electronic databases. Together, they present a sense of the history, time and place of the people, societies and cultures of Singapore and the region, the changes in collection and research focus, as well as hot-button issues and how these have evolved over the years.
 
 As the National Library continues to be a repository of the nation’s documentary heritage and builds the collection through acquisition, donations, gifts and exchange with other libraries and digital acquisition, it also aims to be a leading resource centre on Southeast Asia.
 
-Users of the Singapore and Southeast Asia Collection  
+Users of the Singapore and Southeast Asia Collection &nbsp;
 
 Many researchers and scholars have benefitted from the Singapore and Southeast Asia Collection through the years. The late Professor Ian Proudfoot (1946–2011) was an Australian researcher and former SEA Room user. He studied the Malay manuscripts collection held at the National Library during his early career and became one of the greatest philologist scholars on early Malay printing. He also found love in the SEA Room and got married to one of the librarians.
 
 The library regularly receives visits from former residents of Singapore or their descendants who are tracing the history of their forebears. They would scan newspaper articles or ask for street directories to check whether there have been changes to the street names or places where they used to live.
 
-There have also been requests and visits by overseas institutions to use our resources for their research needs. For instance, in 2019, staff from the Xiamen Tan Kah Kee Memorial Museum requested to view all related resources available at the library on the businessman and philanthropist Tan Kah Kee in preparation for their anniversary celebrations.    
+There have also been requests and visits by overseas institutions to use our resources for their research needs. For instance, in 2019, staff from the Xiamen Tan Kah Kee Memorial Museum requested to view all related resources available at the library on the businessman and philanthropist Tan Kah Kee in preparation for their anniversary celebrations. &nbsp; &nbsp;
 
 The annual Lee Kong Chian Research Fellowship also sees batches of local and overseas researchers diving deep into the collection for their research topics. For instance, Anh Sy Huy Le, an Assistant Professor of History at St. Norbert College, De Pere, Wisconsin, was awarded the Fellowship in January 2020. His research topic, “Trade, Colonialism and Diaspora: Chinese Rice Commerce and the Transformation of Sài Gòn–Chợ Lớn in Colonial Vietnam”, examines the confluence of Chinese migration and diasporic capitalism in transforming Sài Gòn–Chợ Lớn in the 1870s into a central trade emporium and prominent colonial port city.20
 
-More recently, in 2022–23, Sharad Pandian, who graduated from the Nanyang Technological University with a degree in physics and holds a Master of Philosophy in history and philosophy of science at the University of Cambridge, discusses the standardisation and the promulgation of quality-consciousness by the Singapore Institute of Standards and Industrial Research (SISIR) in his topic, “‘Prosperity Through Quality and Reliability’: SISIR and the Making of a Quality Conscious Nation”.21   
+More recently, in 2022–23, Sharad Pandian, who graduated from the Nanyang Technological University with a degree in physics and holds a Master of Philosophy in history and philosophy of science at the University of Cambridge, discusses the standardisation and the promulgation of quality-consciousness by the Singapore Institute of Standards and Industrial Research (SISIR) in his topic, “‘Prosperity Through Quality and Reliability’: SISIR and the Making of a Quality Conscious Nation”.21&nbsp; &nbsp;
 
-Library patrons have increasingly relied on digitised resources that the librarians put up online. The National Library Collections Directory (www.nlb.gov.sg/main/nlcollectionsdirectory) provides an overview of the library’s rich Singapore content through a wide range of resources, including donor materials across different subjects and formats. 
+Library patrons have increasingly relied on digitised resources that the librarians put up online. The National Library Collections Directory (www.nlb.gov.sg/main/nlcollectionsdirectory) provides an overview of the library’s rich Singapore content through a wide range of resources, including donor materials across different subjects and formats.&nbsp;
 
 As research methods evolve over time with resources available beyond print, the strong link between collections, librarians and library users will remain constant.
+
+
+
+<div style="background-color: white;">
+<img style="width: 100px; height: 100px;" src="/images/Authors/DrJohnBray2.png">
+<b>Ang Seow Leng</b> is a Senior Librarian with the National Library Singapore. Her responsibilities include managing the Singapore and Southeast Asia Collection, developing content as well as providing reference and research services relating to Singapore and Southeast Asia.</div>
+
+#### **Notes**
+
+[^1]: 
+
+
+[^2]: 
+
+
+[^3]: 
+
+
+[^4]: 
+
+
+[^5]: 
+
+
+[^6]: 
+
+
+[^7]: 
+
+
+[^8]: 
+
+
+[^9]: 
+
+
+[^0]: 
+
