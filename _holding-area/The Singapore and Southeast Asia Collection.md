@@ -95,12 +95,10 @@ As research methods evolve over time with resources available beyond print, the 
 [^1]:  Singapore Institution Free School, [_Fourth Annual Report 1837–38_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=8d2dc452-e860-453a-b963-06b66e502151) (Singapore: Singapore Free Press Office, 1838), 59. (From National Library Online)
 
 
-[^2]: Walter Makepeace, Gilbert E. Brooke and Roland St. J. Braddell, eds.,  
-[_One Hundred Years of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6203718), vol. 1 (Singapore: Oxford University Press, 1991), 546. (From National Library Singapore, call no. RSING 959.57 ONE)
+[^2]: Walter Makepeace, Gilbert E. Brooke and Roland St. J. Braddell, eds., [_One Hundred Years of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6203718), vol. 1 (Singapore: Oxford University Press, 1991), 546. (From National Library Singapore, call no. RSING 959.57 ONE)
 
 
-[^3]: “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/stoverland18791220-1.2.10.7),” _Straits Times Overland Journal_, 20 December 1879, 7; “[The Council’s Annual Report for 1879](https://eresources.nlb.gov.sg/newspapers/digitised/article/stoverland18800211-1.2.11),” _Straits Times Overland Journal_, 11 February 1880, 3. (From NewspaperSG); Raffles Museum and Library, [_Annual Report for the Year 1879_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4394247) (Singapore: The Museum, 1880), 1.  
-(From National Library Singapore, call no. RRARE 027.55957 RAF; microfilm no. NL3874)
+[^3]: “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/stoverland18791220-1.2.10.7),” _Straits Times Overland Journal_, 20 December 1879, 7; “[The Council’s Annual Report for 1879](https://eresources.nlb.gov.sg/newspapers/digitised/article/stoverland18800211-1.2.11),” _Straits Times Overland Journal_, 11 February 1880, 3. (From NewspaperSG); Raffles Museum and Library, [_Annual Report for the Year 1879_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4394247) (Singapore: The Museum, 1880), 1.  (From National Library Singapore, call no. RRARE 027.55957 RAF; microfilm no. NL3874)
 
 
 [^4]: Makepeace, Brooke and Braddell, [_One Hundred Years of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6203718), 559.
@@ -118,8 +116,7 @@ As research methods evolve over time with resources available beyond print, the 
 [^8]: Gracie Lee, “[Collecting the Scattered Remains: The Raffles Library and Museum](https://biblioasia.nlb.gov.sg/vol-12/issue-1/apr-jun-2016/raffleslibrary-museum/),” _BiblioAsia_ 12, no. 2 (April–June 2016), 39–45.
 
 
-[^9]: “[Raffles Museum Treasures Safe](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19451023-1.2.19),” _Malaya Tribune_, 23 October 1945, 2–3; “[Donor Gives 60 Books to Raffles Library](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaytribune19471109-1.2.42),” _Sunday Tribune_, 9 November 1947, 3; “[Asiatic Readers at Library Have Doubled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19461208-1.2.64),” _Straits Times_,  
-8 December 1946, 7; “[More Asiatic Than European Readers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19470424-1.2.25),” _Singapore Free Press_, 24 April 1947, 2. (From NewspaperSG); National Library Singapore, [_Annual Report 1963_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3408747) (Singapore: Government Printing Office, 1964), 2. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR-\[AR\])
+[^9]: “[Raffles Museum Treasures Safe](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/maltribune19451023-1.2.19),” _Malaya Tribune_, 23 October 1945, 2–3; “[Donor Gives 60 Books to Raffles Library](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/sundaytribune19471109-1.2.42),” _Sunday Tribune_, 9 November 1947, 3; “[Asiatic Readers at Library Have Doubled](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19461208-1.2.64),” _Straits Times_,  8 December 1946, 7; “[More Asiatic Than European Readers](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/freepress19470424-1.2.25),” _Singapore Free Press_, 24 April 1947, 2. (From NewspaperSG); National Library Singapore, [_Annual Report 1963_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3408747) (Singapore: Government Printing Office, 1964), 2. (From National Library Singapore, call no. RCLOS 027.55957 RLSAR-\[AR\])
 
 
 [^10]: “[Start Made on Free Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19570817-1.2.60),” _Straits Times_, 17 August 1957, 4; “[$2½ Mil. Library Is Free](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19570816-1.2.10),” _Singapore Free Press_, 16 August 1957, 2; “[City’s New $2 Mil Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaystandard19551120-1.2.33),” _Sunday Standard_, 20 November 1955, 3. (From NewspaperSG)
