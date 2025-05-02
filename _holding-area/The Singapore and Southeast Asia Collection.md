@@ -51,6 +51,9 @@ In June 1965, the Singapore and Southeast Asia Collection was further enriched b
 
 “I welcome this opportunity of fulfilling my son’s intention, thereby not only perpetuating the memory and names of these two close friends (Dato Loke and the late Dr Gibson-Hill) but also providing a source of knowledge for many young men in the years that lie ahead,” said Mrs Loke Yew at the presentation ceremony.&nbsp;
 
+![](/images/Vol%2021%20Issue%202/SG%20SEA%20Collection/SEAcollection_presentation.jpg)
+<div style="background-color:white;">Mrs Loke Yew with Minister for Culture S. Rajaratnam and Director of the National Library Hedwig Anuar at the presentation of the Carl Alexander Gibson-Hill Collection to the National Library, 1965. <i>  Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
+
 &nbsp;The SEA room gave prominence and importance to works on Southeast Asia, including titles relating to Singapore. The Gibson-Hill, Logan and Rost collections were housed in the SEA Room, along with materials on Malaysia, Burma (now Myanmar), Thailand, Vietnam, Laos, Cambodia, Brunei, Indonesia and the Philippines.[^15]
 
 In the ensuing decades, the National Library continued to add rare and important Singapore and Southeast Asian materials, either through purchase or from donations. The current strengths of the National Library’s collections and services on Southeast Asia owe much to the farsighted policies during this period of the 1960s.
