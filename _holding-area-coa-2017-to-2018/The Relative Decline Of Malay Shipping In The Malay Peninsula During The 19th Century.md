@@ -260,5 +260,21 @@ hierarchy.31 Wealthy Malay traders stood to face political problems if they
 wanted to live on the Malay Peninsula because of the political barriers
 erected by the Malay states.
 
+Arab merchants often worked within Malay political structures and
+perceptions to secure a place within the shipping industry of Malaya. Arab
+shipping merchants often received special privileges from Malay *rajas*,
+making Arab merchants less vulnerable to their whims than Malays. While
+at Pahang, Munshi Abdullah noted that the Arabs there were all merchants
+who lived near *Kampong* China and were revered by Malays as *rajas* and
+were treated as such having come from the Holy Land.32 Aside from
+developing relationships with the Malay states, Arab merchants such as
+Syed Massim bin Salleh Al Jeoffrie settled in Singapore while owning large
+sailing vessels and steamers to conduct trade in the archipelago.33 Straits
+Arab traders had advantages over their Malay counterparts because of
+their more favourable relationships with Malay rulers. These relationships
+allowed them to develop their own shipping networks and prosper, which
+in turn enabled them to acquire more sophisticated shipping technology as
+the century progressed and permitted them to remain competitive in the
+shipping industry.
 
 
