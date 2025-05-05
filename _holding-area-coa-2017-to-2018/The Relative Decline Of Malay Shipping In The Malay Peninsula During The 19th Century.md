@@ -495,6 +495,66 @@ Studies at the University of Michigan and a Lee Kong Chian Research Fellow with 
 National Library Board, Singapore in 2018.
 </div>
 
+#### **BIBLIOGRAPHY**
+   
 
+“A New Phase of Commercial Expansion in Southeast Asia, 1760–1850.” In [_The Last Stand of Asian Autonomies: Responses to Modernity in the Diverse States of Southeast Asia and Korea, 1750–1900_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7982211). Edited by Anthony Reid. New York: St. Martin’s Press, 1997. (From National Library Singapore, call no. RBUS 330.95904 LAS)
 
+Abdullah bin Abdul Kadir. [_The Voyage of Abdullah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4384525). Singapore: Malaya Publishing House, 1949. (From National Library Singapore, call no. RCLOS 959.5 ABD)
+
+Buckley, Charles Burton. [_An Anecdotal History of Old Times in Singapore, 1819–_1867](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082239). Singapore: Oxford University Press, 1984. (From National Library Singapore, call no. RSING 959.57 BUC-\[HS\])
+
+Crawfurd, John. [_History of the Indian Archipelago_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4271203). Vol. 3. London: Frank Cass &amp; Co., 1967. (From National Library Singapore, call no. RCLOS 991 CRA)
+
+Earl, George Windsor. [_The Eastern Seas: Or Voyages and Adventures in the Indian Archipelago in 1832–1834_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=ad9d0845-d805-4ec1-9cec-f26135c14d4a). London: Allen &amp; Co., 1837. (From National Library Online)
+
+Gibson-Hill, C. A. “The Master Attendants at Singapore, 1810–1867.” [_Journal of the Malayan Branch of the Royal Asiatic Society_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4982709) 33, no. 1 (May 1960): 1–64. (From National Library Singapore, call no. RCLOS 959.5 JMBRAS-\[JSB\])
+
+Graham, Walter Armstrong. [_Kelantan: A State of the Malay_ Peninsula](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13555660). Glasgow: James Maclehose &amp; Sons, 1908. (From National Library Singapore, call no. RCLOS 959.593 GRA)
+
+Holloway, C. P. _Tabular Statements of the Shipping of Singapore, Prince of Wales’ Island, and Malacca for the Official Year 1862–63_. Calcutta: Military Orphan Press, 1864.
+
+Ibrahim Ariff and Andik Marinah Ibrahim. [_The Past Malay Entrepreneurs in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202362036)_._ Singapore: Daing Pasandri Achiever Avenue, 2015. (From National Library Singapore, call no. RSING 338.0409225957 IBR)
+
+Jarman, Robert L. ed., [_Annual Reports of the Straits Settlements 1855–1941_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9276660). Vol. 1. London: Archive Editions, 1998. (From National Library Singapore, call no. RSING 959.51 STR-\[AR\])
+
+Kathirithamby-Wells, J. “Siak and Its Changing Strategies of Survival, c. 1700–1870.” In [_The Last Stand of Asian Autonomies: Responses to Modernity in the Diverse States of Southeast Asia and Korea, 1750–1900_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7982211). Edited by Anthony Reid. New York: St. Martin’s Press, 1997. (From National Library Singapore, call no. RBUS 330.95904 LAS)
+
+Khoo, Kay Khim. [_The Western Malay States, 1850–1873: The Effects of Commercial Development on Malay Politics_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=496673). New York: Oxford University Press, 1972. (From National Library Singapore, call no. RSING 959.5103 KHO)
+
+The National Archives (United Kingdom). “[Piracy in The Straits of Malacca](https://www.nas.gov.sg/archivesonline/private_records/record-details/f2a54dda-115b-11e3-83d5-0050568939ad).” Private records, 5 December 1828. (From National Archives of Singapore accession no. ADM 125/44; microfilm NAB 279)
+
+Lohanda, Mona. [_The Kapitan Cina of Batavia, 1837–1942: A History of Chinese Establishment in Colonial Society_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7712172). Jakarta: Djambatan, 1996. (From National Library Singapore, call no. RSEA 959.82004951 LOH)
+
+Mackay, Colin. [_A History of Phuket and the Surrounding Region_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200149027)_._ Bangkok: White Lotus, 2012. (From National Library Singapore, call no. RSEA 959.3 MAC)
+
+Milner, Anthony Crothers. [_Kerajaan: Malay Political Culture on the Eve of Colonial Rule_](https://catalogue.nlb.gov.sg/search/card?recordId=2303945). Petaling Jaya: Strategic Information and Research Development Centre, 2016. (From National Library Singapore, call no. RSING 959.5103 MIL)
+
+—. [_The Malays_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13208713)_._ Oxford: Wiley-Blackwell, 2008. (From National Library Singapore, call no. RSEA 305.89928 MIL)
+
+Nordin Hussin. [_Trade and Society in the Straits of Melaka: Dutch Melaka and English Penang, 1780–1830_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12829152). Singapore: NUS Press, 2007. (From National Library Singapore, call no. RSEA 959.503 NOR)
+
+Phipps, John. _A Practical Treatise on the China and Eastern Trade_. London: W. H. Allen and Company, 1836.
+
+Sampan-Pukat Trade to the Eastward. (1837, January 12). The Singapore Free Press and Mercantile Advertiser, p. 3. Retrieved from NewspaperSG .
+
+_Singapore Free Press and Mercantile Advertiser_. “[Sampan-Pukat Trade to the Eastward](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18370112-1.2.17).” 12 January 1837, 3. (From NewspaperSG)
+
+—. “[Page 3 Miscellaneous Column 1: Imports… Exports](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18410624-1.2.15.1).” 24 June 1841, 3. (From NewspaperSG)
+
+Raffles Museum and Library. [Straits Settlements Records Penang Consultations](https://www.nas.gov.sg/archivesonline/private_records/record-details/6a7b8df1-a817-11e3-927b-0050568939ad). Private records, 29 July 1825, 234. (From National Archives of Singapore accession no. A21; microfilm NL0008)
+
+—. [Straits Settlements Records Penang Consultations](https://www.nas.gov.sg/archivesonline/private_records/record-details/6a907c8d-a817-11e3-927b-0050568939ad). Private records, 7 December 1826. (From National Archives of Singapore accession no. A30; microfilm NL0012)
+
+Swettenham, Frank. [_British Malaya_](https://catalogue.nlb.gov.sg/search/card?recordId=4250035). London: John Lane, 1907. (From National Library Singapore, call no. RDKSC 959.5 SWE)
+
+Thíphaakorawon, Cawphrajaa. [_The Dynastic Chronicle. Bangkok Era, the Fourth Reign_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6343). Vol. 2_._ Tokyo: Tokyo Press Co., 1965. (From National Library Singapore, call no. RCLOS 959.3 CAW-\[HYT\])
+
+Thomson, John. [_The Straits of Malacca, Indo China and China_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2e4711f4-b259-4ef1-9826-9386d3e8f12b)_._ London: Low, &amp; Searle. (From National Library Online)
+
+Turnbull, C. M. [_A History of Modern Singapore, 1819–2005_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13206047)_._ Singapore: NUS Press, 2009. (From National Library Singapore, call no. RSING 959.57 TUR-\[HIS\])
+
+Webster, Anthony. [_Gentlemen Capitalists: British Imperialism in South East Asia 1770–1890_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9348910)_._ New York: Tauris Academic Studies, 1998. (From National Library Singapore, call no. RSING 959 WEB)
+
+Wright, Arnold. ed., [_Twentieth Century Impressions of British Malaya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202711817)_._ London: Lloyd’s Greater Britain Publishing Co., 1908. (From National Library Singapore, call no. RCLOS 959.51033 TWE)
 
