@@ -22,7 +22,7 @@ respectable and honorable profession. The second Resident of Singapore
 John Crawfurd had recounted, “To engage in commerce is reckoned
 no dishonour to anyone, but the contrary, and it is, indeed, among the
 maritime tribes especially, one of the most dignified occupations even of the
-sovereign himself, and of his principal officers…”1 thereby acknowledging shipping as a desirable profession for many in the archipelago. For coastal
+sovereign himself, and of his principal officers…”[^1] thereby acknowledging shipping as a desirable profession for many in the archipelago. For coastal
 communities, engaging in commerce offered opportunities for wealth and
 respectability within society. Partaking in maritime trade, in particular, was
 deemed so honourable for Malays that even sultans had trading interests.
@@ -34,9 +34,9 @@ support followers who were necessary in order to have political power.
 The peninsular Malay kingdoms came under pressure from small polities
 that wished to increase their power and perhaps even become kingdoms
 themselves. The mobility of other *rajas* (elites) enabled them to establish or
-conquer new seats of power for themselves.2 Culturally, the *rajas* maintained
+conquer new seats of power for themselves.[^2] Culturally, the *rajas* maintained
 their prestige and power through the splendour of their palaces, clothing
-worthy of their ranks and appropriate speech that reinforced their authority.3
+worthy of their ranks and appropriate speech that reinforced their authority.[^3]
 The maintenance of political power in Malay states required rulers to act
 appropriately to ensure sufficient political support, while failure to secure
 such support possibly meant the fracturing of the state.
@@ -45,21 +45,21 @@ At the end of the 18th century, Malay shippers dominated the carrying
 trade in the Straits of Malacca and adjacent waters. By 1785, Malacca had
 recovered its role as the leading port in the Straits of Malacca in terms of
 long-distance shipping after Dutch East India Company forces crushed the
-Bugis of Riau.4 Between 1770 and 1785, Malay *nakhoda*, or vessel masters,
+Bugis of Riau.[^4] Between 1770 and 1785, Malay *nakhoda*, or vessel masters,
 made up the largest nationality that commanded vessels entering Malacca.
 In 1785, *nakhoda* identifying as Malay outnumbered all other ethnic groups
-combined as commanders of vessels entering that port.5 Between May 1862
+combined as commanders of vessels entering that port.[^5] Between May 1862
 and April 1863, the most common “native craft” entering Malacca from
-other harbours on the Malay peninsula were Malay state-flagged vessels.6 Malacca remained a bastion for Malay shipping, though its trade routes
+other harbours on the Malay peninsula were Malay state-flagged vessels.[^6] Malacca remained a bastion for Malay shipping, though its trade routes
 likely changed over the decades.
 
 With Malacca’s decreasing relevance as a trade port, its Malay shippers,
 too, became less relevant over the years. Over time, sediment from erosion
 silted up Malacca’s harbour, making arrivals by deep-draft Western squarerig
 vessels more difficult. The town’s merchants petitioned the Straits
-Settlements government in 1826 concerning this but to no avail.7 The
+Settlements government in 1826 concerning this but to no avail.[^7] The
 harbour retained its status long into the 19th century as a destination of tin
-from the Malay states of Selangor and Perak, which arrived in small perahu.8
+from the Malay states of Selangor and Perak, which arrived in small perahu.[^8]
 Without a deep-water harbour for much of the 19th century, Malacca stood
 no chance against other regional ports, such as Singapore, that facilitated
 international trade more efficiently.
@@ -67,12 +67,12 @@ international trade more efficiently.
 On the trading rivalry between Penang and Singapore, Robert Fullerton’s
 statement of 26 July 1825 noted, “the Government [will have] nothing
 to do with the mercantile jealousy of either and must look to the general
-interests of all, and because I think both are eminently useful…”.9
+interests of all, and because I think both are eminently useful…”.[^9]
 Fullerton argued that Singapore and Penang would each draw trade from
 the surrounding region mainly at the expense of foreign ports nearby
 rather than each other, with Malacca likely attracting trade from ports
 located immediately within the Straits of Malacca such as Siak. From the
-Straits Settlements, goods usually went on to distant major markets.10
+Straits Settlements, goods usually went on to distant major markets.[^10]
 The Indian and Straits Settlements governments’ policies of focusing on
 Singapore and Penang relegated Malacca to a small harbour receiving
 goods from only its nearby neighbours. Even though these policies
