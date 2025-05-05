@@ -112,5 +112,21 @@ Palembang and Aceh.13 In the first two decades of the 19th century, there
 remained successful Malay ports, while the archipelago also had systems
 based on royal monopolies and trading privileges.
 
+While sailing along the east coast of Malaya during the early 1830s, George
+Windsor Earl, a British adventurer, noted the existence of commercial
+monopolies that were held by the governments there. During his stay in
+Terengganu in 1833, Earl described the government as an aristocracy with
+the sultan as the nominal authority elected by the *pangerans*, or noble lords. 
+
+They surrounded themselves with dependents who shunned “honest” work.
+“The Sultan and the *pangerans* form a sort of commercial company, and
+monopolize [sic] the whole of foreign trade,” described Earl who also noted
+they required locals to buy solely from them.14 Earl, in contrast to Crawfurd,
+depicted Arabs and their laws as a negative influence on Malay society.15 The
+monopolistic system controlled by Malay elites ensured that no potential
+political challenger arose from the masses and that the state’s wealth was
+kept for themselves and their supporters. The monopolisation of foreign
+shipping rights by the elite inhibited the rise of independent merchants.
+
 
 
