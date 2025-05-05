@@ -296,5 +296,185 @@ demands of government officials. Foreign merchants, especially those from
 China, sailing the trading routes from the Straits Settlements to the Malay
 states, became increasingly assertive in their relationship with governments.
 
+Mercantile shipping became a powerful force within the Straits Settlements
+that promoted and used liberal policies to its advantage. Malay shippers
+from throughout the archipelago sailed to Singapore to trade. According
+to Governor Blundell of the Straits Settlements in 1856, Malay shippers
+particularly enjoyed the policies of free trade, not so much because of the
+monetary benefits, but rather for the lack of government interference. The
+corruption of customs houses throughout the archipelago, practised by local
+rulers and Europeans alike, so frustrated Malay shippers that Singapore’s less
+corrupt system attracted them, because they knew they did not need to pay
+a customs house.37 Within Singapore itself, however, Malay shippers owned
+just three schooners totaling 149 tonnes out of Singapore’s registry of 29,573
+tonnes of Western square-rig shipping – less than one percent of the total
+tonnage at one point during the mid-1850s.38 Though Singapore became a
+popular destination for shipping throughout the archipelago, few Malays
+registered any Western-style vessels there. Without acquiring these vessels,
+keeping up with long-term shipping trends became increasingly difficult.
+
+In the face of a trading environment determined by Britain’s economic
+liberalism, some Malay states outside the peninsula were more adept at
+protecting their shipping industries from foreign firms than their peninsular
+compatriots. Sumatran Malay states, such as Kampar and Siak, prospered
+from trade with Singapore by sending convoys of 12 to 20 *perahu*, each
+with a crew numbering between 20 and 30, as part of the Malay-Arab
+elite’s commercial enterprises. Malays held the Kampar-Singapore route
+with *nakhoda* renting vessels from the ruling elite at a tonnage rate of $30
+for a 20-tonne *perahu* in Kampar. After selling goods in Singapore, they purchased cargo and returned home.39 Malay *nakhoda* and crews all owned
+a portion of the cargo and had no substantive Chinese competition in the
+1830s because of the latter’s absence in Kampar.40 In the early 20th century,
+the royals from Pulau Penyengat purchased a steamship to ferry goods from
+the Riau Archipelago to Singapore.41 Malays outside the Malay Peninsula
+shipped goods to Singapore even into the 20th century despite, or perhaps
+because of, the liberal shipping policies enacted by the Straits Settlements.
+
+#### **Winds of Change**
+Siam’s littoral political economy was remarkably similar to the peninsular
+Malay states. Like the Malay states, much of Siam’s economy consisted of
+monopolies owned by Siamese lords, or *senabodi*. When King Mongkut
+of Siam decided on substantive economic reforms, he received the support
+of the Bunnag family, merchants who were of Iranian decent and were the
+wealthiest and most powerful trading family in the kingdom. One family
+member, Chuang Bunnag, disliked the old system because taxes oppressed
+the poor and limited the goods available for export. Chuang Bunnag
+sought British support to remove the entrenched power structures through
+the Bowring Treaty (signed in 1855 between Great Britain and Siam to
+facilitate greater trade among other issues).42 The Siamese had a system akin
+to the Malay *kerajaan* economics structure and used British influence to
+undermine the previous system. Unlike the Malay *rajas*, Siam transformed
+its economy without sacrificing its sovereignty but at the cost of its previous
+economic and political policies.
+
+Maritime development exemplified the increasing sophistication of the
+central state and the power of the king. Siam removed its previous economic
+restrictions and reformed the kingdom, allowing for economic expansion,
+which enabled the government to expand its naval power. King Mongkut’s reign saw the first steam vessels used by a Siamese government. The new
+steam vessels increased the prestige of the monarchy, while proving useful
+for naval patrols and various government functions. Additionally, the
+Siamese government constructed new sailing vessels as part of its building
+programme during the 1850s. Eventually, both government- and civilianowned
+steam vessels became more common in Siamese waters, with even
+Chinese merchants there acquiring steam vessels.43 The acquisition of steam
+vessels and the development of Siam’s shipping industry during the second
+half of the 19th century required a degree of political centralisation and
+economic reform.
+
+The peninsular Malay states faced similar trade headwinds with the rise
+of free trade and more powerful merchants independent of state control.
+Under the monopolistic system, Malay rulers employed their authority and
+monopolies to acquire goods from their people at below market-value rates
+and then sold the goods to foreign merchants. For instance, the *temenggong*
+in Singapore purchased *agar-agar*, a type of seaweed, as per tradition at
+$6 for 12 *pikuls*, even though its market prices ranged from $30 to $40.44
+The Malay elites then sold the goods they received at much higher prices.
+A monopoly on foreign trade resulted in higher prices than if foreigners
+bought the goods directly from producers. The Straits Settlements’ free trade
+system undermined such monopolies because foreign merchants became
+less willing to accept higher prices. This in turn eroded *kerajaan* revenues
+and contributed to political instability in Malaya because the rulers lacked
+funds to support their political bases.45 By 1837, the sultan of Kelantan
+had adopted “a more liberal system of trade” than other rulers in Malaya,
+attracting more merchants to his harbour by avoiding a monopolistic trade
+system.46 Malay states came under new economic pressures with *kerajaan*
+economics becoming less feasible in the face of free trade.
+
+The peninsular Malay rulers came under heavy pressure to reform their
+revenue systems and move away from the monopolistic aspects of *kerajaan* economics by foreign merchants but such a transition caused great
+challenges. The *bendahara* (chief minister) of Pahang attempted to keep a
+foreign trade monopoly by compelling the *sampan-pukat* shippers to trade
+only with him. The domestic industry suffered as Chinese gold and tin
+miners went on strike and later fled rather than accept the *raja*’s conditions.
+Eventually, the *bendahara* moved from a monopoly-based system to one
+reliant more on heavy customs duties.47 Kelantan experienced dissent
+from Chinese miners during this period, though their motivations were
+murky. Chinese miners had killed the *temenggong* of Kelantan at Pulai,
+Kelatan, supposedly at the instigation of another Malay chief. However,
+the *temenggong*’s son avenged his father’s death by slaughtering the Chinese
+miners there.48 Though the miners’ motives for resorting to violence remains
+unclear, the incident suggested that liberalising commerce exacerbated the
+inter-factional violence within the Malay states. The economic changes of
+the 19th century shook the foundations of the *kerajaan* economics system
+found in the Malay Peninsula, particularly as foreigners gained more power
+within Malay states and used *kerajaan* economics to their advantage.
+
+In contrast, Siam was able to take better advantage of the situation brought
+on by liberalisation, perhaps because of its closer cooperation with locally
+based mercantile elites, whereas peninsular Malay states lacked sufficient
+strength and internal cooperation and cohesiveness to adapt. Shipping
+merchants once deemed non-threatening became too powerful to control
+by either the Straits Settlements or Malay states resulting in Malay shipping
+losing its former market share. Despite the significance of the industry, few,
+if any, regional governments seemed interested in protecting Malay shippers.
+The competition became too fierce for Malays shippers, save a few elites,
+to participate in the steam shipping industry by the close of the century.
+The Siamese centralised their political power and adapted new maritime
+technologies more successfully than their peninsular Malay counterparts
+who took considerably less action in developing their maritime capacity
+along Western lines.
+
+Despite overwhelming odds and a challenging political environment,
+Hajjah Fatimah binte Sulaiman, a peninsular Malay shipping merchant, emerged during the 19th century and set up a successful shipping firm.
+Fatimah was from a prominent family in Malacca. Her first marriage
+failed and she moved to Singapore to start afresh.49 Fatimah employed her
+connections with the *rajas* of the peninsular Malay states in her trading and
+married a Bugis prince from Gowa and bore a child named Raja Siti. With
+Fatimah’s abilities and political connections, she developed a trading fleet
+of numerous *perahu* and other vessels that sailed the waters of Malaya and
+the archipelago.50 Her daughter subsequently married the son of an Arab
+merchant in Singapore, who eventually took over her business. The business
+survived two robberies and a fire, after which the family built a mosque
+on Beach Road in Singapore where they held feasts for Muslims of all
+backgrounds twice a year.51 Fatimah, though independent of Malay rulers,
+likely obtained success through her relationships with them and having royal
+support from her husband’s family. Perhaps Malay *rajas* had dismissed her
+as a threat because of her gender, but, in any case, she managed a shipping
+firm that eventually assimilated into the cosmopolitan Islam of Singapore,
+where non-Malay Muslims, including the overseas Arab community into
+which her daughter married, thrived.
+
+Munshi Abdullah described the policies of Malay rulers in a manner that fit
+the framework of *kerajaan* economics well. After witnessing the destitution
+of Pahang during his voyage in 1838, he considered the reasons for such
+poverty and determined that the “oppression and cruelty of the *rajas*”
+caused such hardship that people gave up trying to obtain wealth because
+the *rajas* seized anything of value.52 He made similar assertions about the
+corruption of Malay rule concerning Terengganu. For commoners, staying
+poor became a survival strategy because if a man obtained anything, the *raja*
+would usually demand a gift or loan. If anyone resisted, the *raja* would likely
+kill the resistors and their families.53 In Kelantan, a man reported a situation
+where *rajas* had seized homes and slaughtered those who disobeyed them.54
+Munshi Abdullah determined that the causes of poverty in Malay states came down to a lack of peace and security for subjects and their properties,
+where the elites perpetually mistreated their people by seizing their
+properties and killing them. As a result, the Malays lacked any incentive to
+develop the land and stayed idle.55 Such analysis by Munshi Abdullah and
+others reflect the concept of *kerajaan* economics. Malay elites monopolised
+the economic capacity of a state out of fear that a leader might become
+strong enough to challenge them and destroy the elite’s hold on power.
+
+The peninsular Malay states sent the Malay carrying trade into a relative
+decline through policies that favoured the Malay ruling elites and their
+political allies who they had deemed as less threatening during the 19th
+century. We can still see visual evidence of this in 21st century Singapore
+through the two old Malay quarters of Kampong Gelam and Telok Blangah,
+each of which possessed its own Malay ruler separated by the formerly
+bustling Singapore River. The Istana Kampong Gelam once housed the
+royal family that ruled from Singapore. Its neighbourhood remains a
+testament to the Islamic cosmopolitanism of Singapore with streets names
+that echo the distant cities of Baghdad, Kandahar and Muscat. Though the
+neighbourhood has changed much since the 19th century, it still hosts shops
+akin to those in the past. Hardly any evidence of the once thriving Malay
+village at Telok Blangah remains, save for Masjid Temenggong Daeng
+Ibrahim and its adjacent cemetery, where the ancestors and relatives of the
+current Sultan of Johor lie. Despite the *rajas* of Telok Blangah ultimately
+attaining greater wealth than the royal family at Kampong Gelam, the
+former Malay village has lost nearly any semblance of its former life.
+*Kerajaan* economics prevented ordinary Malays from obtaining great wealth
+in Telok Blangah. The residents of Kampong Gelam, however, had more
+economic opportunities largely because of the different policies enacted by
+authorities there. This contrast is just one example of the enduring legacy of
+*kerajaan* economics, when rulers stifled Malay enterprise.
+
+
 
 
