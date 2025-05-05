@@ -149,7 +149,10 @@ supply all contributed to the decline in trade. During the early 1830s, there
 were 14 or 15 *sampan-pukat* that sailed between Singapore and East Malaya.
 This dropped to four for most of 1836. By the start of 1837, that number had rebounded to eight vessels and looked set for further growth.18 Such
 volatility required adequate organisation and support to fend off pirates and
-rebuild after potentially devastating losses from their attacks.
+rebuild after potentially devastating losses from their attacks.19
+
+<img src="/images/COA%202017%20to%202018/Decline%20Of%20Malay%20Shipping/Asian_Vessel_Tonnage.jpg" style="width:80%;">
+<div style="background-color: white;">Fig. 1 East Malaya’s trade with Singapore</div>
 
 The organisational restructuring of the trade culminated with Chinese
 merchants dominating the export trade of the Malayan east coast. “The
@@ -670,4 +673,3 @@ Wright, Arnold. ed., [_Twentieth Century Impressions of British Malaya_](https:/
 54 Abdullah bin Abdul Kadir, [_The Voyage of Abdullah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4384525), 43.
 
 55 Abdullah bin Abdul Kadir, [_The Voyage of Abdullah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4384525), 68.
-
