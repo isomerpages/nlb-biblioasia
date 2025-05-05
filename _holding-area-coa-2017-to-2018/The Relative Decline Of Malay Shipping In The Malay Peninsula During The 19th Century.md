@@ -234,4 +234,31 @@ untenable at times and in certain places, it persisted long enough to
 undercut the market share growth of Malay shippers that was critical during
 a long growth period.
 
+#### **Power, Politics and Malay Merchants**
+
+The Malay political leadership saw Malay merchants as potential threats
+to their power, which made them prefer non-Malays as state-sanctioned
+merchants. Despite their fame throughout the archipelago and beyond,
+Malay maritime traders in peninsular Malay states lacked the same status
+for much of the 19th century. Prior to the late 18th century, the Malay
+Peninsula had fewer prominent Malay traders in comparison with other
+ethnic groups, because Malay merchants operated from other ports in
+Southeast Asia instead. The peninsular Malay states likely preferred non-
+Malay merchants to conduct trade.28
+
+Malay *rajas* so feared wealthy Malays, especially traders, that they developed
+policies to prevent their rise because of the way in which wealthy Malays
+obtained power.29 Frank Swettenham, a British official, frequently witnessed
+the loss of property by seizure during the 19th century in Malaya, which
+he partially accounted for the socio-economic problems there.30 Aside from
+a lack of security from theft, Malay commoners lost their wealth to the
+*kerajaan* system, which prevented the rise of political opponents. The Malay
+states permitted Chinese communities to accumulate wealth through their
+own legal system because they were perceived as outsiders. Engaging in
+commerce meant working for the ruler or having status within the political
+hierarchy.31 Wealthy Malay traders stood to face political problems if they
+wanted to live on the Malay Peninsula because of the political barriers
+erected by the Malay states.
+
+
 
