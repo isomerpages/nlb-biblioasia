@@ -151,9 +151,8 @@ This dropped to four for most of 1836. By the start of 1837, that number had reb
 volatility required adequate organisation and support to fend off pirates and
 rebuild after potentially devastating losses from their attacks.19
 
-
 <img src="/images/COA%202017%20to%202018/Decline%20Of%20Malay%20Shipping/Figure_1.jpg" style="width:100%;">
-<div style="background-color: white;">Fig. 1 East Malaya’s trade with Singapore</div>
+<div style="background-color: white;"><center>Fig. 1 East Malaya’s trade with Singapore</center></div>
 
 The organisational restructuring of the trade culminated with Chinese
 merchants dominating the export trade of the Malayan east coast. “The
