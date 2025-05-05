@@ -170,5 +170,68 @@ investments. Chinese merchants in Singapore possibly preferred *nakhoda* of
 their own ethnicity or dialect rather than Malays or other groups, thereby
 weakening them.
 
+#### **Straits Chinese Merchants**
+
+For the Straits Chinese, working with people they trusted, such as family
+and those of a similar ethnic background, meant smoother business
+transactions. European newcomers moving to Penang would hire Chinese
+contractors to construct their homes for them. These contractors in turn
+offered referrals to their relatives who could provide furniture, clothing and
+servants, or services such as regularly purchasing food for the household
+in exchange for a monthly payment.22 Though such methods increased
+efficiency and united families economically, they also kept non-relatives and
+other ethnic groups out of particular sectors of the Malayan economy and
+exacerbated wealth gaps.
+
+By 1837, the trade between the Malayan east coast and Singapore, then
+dominated by Chinese, had only a few Malay shippers. The east coast’s
+exports to Singapore were “…almost entirely imported by Chinese
+*pukats* – a comparatively small portion of the trade being in the hands of
+the Malays themselves.”23 The writer explains that this resulted from “…
+the wretched policy which prevails in all these petty native states, where
+the Rajah himself is generally the principal trader, and almost always a
+monopolist. Each of these *pukats* generally carries twenty-nine men, all
+Chinese, who compose a partnership among themselves, every individual
+on board being interested, some more, some less, in the general result of
+the whole adventure, and no one among them being paid anything under the name of wages.”24 The crew usually comprised 26 common seafarers
+and three officers, who consisted of the *nakhoda*, clerk and business agent
+or sometimes just the *nakhoda* himself. However, the Chinese merchants in
+port “almost always” owned the vessels, rather than the crew, and managed
+them from Singapore, while significant creditors of the vessel often owned a
+stake in the cargo.25 The Chinese, based in Singapore, effectively controlled
+shipping to the east coast of Malaya from the *sampan-pukat* owners down
+to the regular seafarers who manned the vessels and owned cargo. Chinese
+shippers surpassed their Malay counterparts in trade mainly because
+policies of Malay states favoured them.
+
+Why did Malay rulers permit Chinese merchants to engage in commerce
+when they excluded others from doing so? As Crawfurd explained
+concerning the carrying trade of the Indian Archipelago: “The peaceable,
+unambitious, and supple character of the Chinese, and the conviction on the
+part of the native governments, of their exclusive devotion to commercial
+pursuits, disarm all jealousy, and make them welcome guests everywhere.
+This very naturally and very justly gives them an equitable monopoly of
+the carrying trade…”.26 Granting trading monopolies to Chinese merchant
+syndicates appeared to Malay rulers as the politically safest option because
+of their apparent lack of political ambition. Even if a Chinese leader sought
+political power, the leader would almost certainly have had difficulty gaining
+the loyalty of Malay subjects, especially if he did not adopt Malay customs
+and Islam.
+
+The leadership of these Malayan-Chinese communities were also officials
+who governed affairs within the Malay states. The formal leader of the
+Chinese community in Malay state systems became known as the “*kapitan*
+China,” evolving from the Malacca Sultanate position of *shahbandar*.
+After the Portuguese conquered Malacca in 1511, they adapted the
+position to a more militaristic role by mobilising and leading troops
+from a particular community. The Dutch and Malay states borrowed the
+title of “*kapitan*” and offered it to Chinese community leaders for their
+respective governments.27 The *kapitan* China and his followers supported the Malay ruling elite, while Chinese merchants received either commercial
+monopolies or favourable trading terms. The relationship between the
+Chinese merchant community and Malay rulers functioned by splitting
+wealth and power between themselves. Though this relationship proved
+untenable at times and in certain places, it persisted long enough to
+undercut the market share growth of Malay shippers that was critical during
+a long growth period.
 
 
