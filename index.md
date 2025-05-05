@@ -17,6 +17,16 @@ sections:
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
       background: /images/Vol 21 Issue 1/Deaf Education/HeroImage_deafeducation.jpg
   - infopic:
+      title: My Mother Hedwig Anuar
+      subtitle: People
+      id: infopic
+      description: The daughter of Hedwig Anuar reveals a side to the former Director
+        of the National Library that not many people know.
+      button: A TRIBUTE TO A MOTHER
+      url: /vol-21/issue-2/jul-sep-2025/mother-hedwig-anuar-shirin-aroozoo/
+      image: /images/Vol 21 Issue 2/Hedwig/Hedwig_Anuar_daughter_topic.jpg
+      alt: My Mother Hedwig Anuar
+  - infopic:
       title: "Peng Tsu Ying: Singapore's Pioneering Deaf Educator"
       subtitle: Podcast
       id: infopic
@@ -980,59 +990,6 @@ sections:
       image: "/images/Videos: BiblioAsia Reels/yipyewchong_img.png"
       alt: Image alt text
   - infopic:
-      title: The Trishaws and Tricycles of Singapore By Liesel Strauss
-      subtitle: Collection Highlights
-      id: infopic
-      description: These photos by Liesel Strauss spotlight the humble trishaw and
-        cargo tricycle and remind of us of how Singapore used to be not too long
-        ago.
-      button: Transport by three wheels
-      url: /collection-highlights/2024/2/trishaws-cargo-tricycle-transport-singapore/
-      image: /images/Online Only Articles/Liesel_Trishaws/with_passenger.png
-      alt: Transport by three wheels
-  - infopic:
-      title: The Lost Gold Coins of the Old Singapore Library
-      subtitle: podcast
-      id: infopic
-      description: More than 180 years after two ancient gold coins went missing,
-        librarian Foo Shu Tieng tries to solve the case.
-      button: listen to the podcast
-      url: https://biblioasia.nlb.gov.sg/podcast/lost-gold-coins/
-      image: /images/Podcast/isomer_Shu.jpg
-      alt: Lost Gold Coins Library
-  - infopic:
-      title: Pioneering Local Journalist R.B. Ooi
-      subtitle: People
-      id: infopic
-      description: As a journalist, R.B. Ooi always had his finger on the pulse of
-        Malaya, bringing to the fore issues at the heart of the nation.
-      button: A consummate newspaperman
-      url: /vol-20/issue-2/jul-sep-2024/singapore-journalist-newspaper-rb-ooi/
-      image: /images/Online Only Articles/Pioneering Journalist RB Ooi/05.png
-      alt: Image alt text
-  - infopic:
-      title: A History of the Singapore Chin Woo (Athletic) Association
-      subtitle: Collection Highlights
-      id: infopic
-      description: One of Singapore’s oldest martial arts associations donated its
-        unique collection of photographs and materials to the National Library,
-        Singapore.
-      button: An enduring martial arts association
-      url: /vol-20/issue-1/apr-jun-2024/singapore-chin-woo-athletic-association/
-      image: /images/Vol 20 Issue 1/Chin Woo/chin_woo.png
-      alt: Image alt text
-  - infopic:
-      title: New Books on Singapore History (Apr 2024)
-      subtitle: Literature
-      id: infopic
-      description: Introducing five new books available in the National Library’s
-        collection.
-      button: New Reads
-      url: /vol-20/issue-1/apr-jun-2024/new-books-singapore-history/
-      image: /images/Vol 20 Issue 1/New Books on Singapore
-        history/food_peranakan_indian1.png
-      alt: Image alt text
-  - infopic:
       title: The True Story Behind Ubin's German Girl Shrine
       subtitle: podcast
       id: infopic
@@ -1042,27 +999,6 @@ sections:
       alt: Ubin's German Girl Shrine
       url: /podcast/german-girl-shrine/
       image: /images/Podcast/isomer_home_william.jpg
-  - infopic:
-      title: Joseph Conrad's Singapore
-      subtitle: people
-      id: infopic
-      description: Joseph Conrad’s visits to Singapore in the late 19th century are
-        immortalised in some of his novels, such as Lord Jim and The
-        Shadow-Line.
-      button: Sojourn in Singapore
-      url: /vol-20/issue-1/apr-jun-2024/joseph-conrad-singapore/
-      image: /images/Plaque.PNG
-      alt: Joseph Conrad
-  - infopic:
-      title: By the Public and for the Public
-      subtitle: Collection Highlights
-      id: infopic
-      description: Singapore’s National Library is hard at work collecting new forms
-        of documentary materials today for the sake of future generations.
-      url: vol-20/issue-1/apr-jun-2024/contemporary-collecting-national-library/
-      alt: Image alt text
-      button: collecting for posterity
-      image: /images/Contemporary_collecting__10_.JPG
   - infopic:
       title: "Kranji War Memorial: Lest We Forget"
       subtitle: biblioasia reels
@@ -1087,16 +1023,6 @@ sections:
         Savage/victor_savage_5184x3456px.jpg
       alt: Victor savage
   - infopic:
-      title: Growing Food in a Garden City
-      subtitle: Nature and the Environment
-      id: infopic
-      description: Urban edible gardening in Singapore might be all the rage now, but
-        the movement has roots that date back to the early 20th century.
-      button: Eat Your Greens
-      url: /nature-and-the-environment/2024/1/singapore-edible-urban-garden/
-      image: /images/Online Only Articles/Growing Food in a Garden City/kim_tian.png
-      alt: Urban arden
-  - infopic:
       title: Artist Yip Yew Chong Paints His Story in History
       subtitle: PODCAST
       id: infopic
@@ -1107,27 +1033,6 @@ sections:
       image: /images/Podcast/YC_painting_3.jpg
       alt: Image alt text
   - infopic:
-      title: Photo Studios and Photography During the Japanese Occupation
-      subtitle: Photography
-      id: infopic
-      description: During the Japanese Occupation, local photographers worked under
-        challenging conditions.
-      button: Photography in Difficult Times
-      url: /vol-20/issue-1/apr-jun-2024/japanese-occupation-photo-studios/
-      image: /images/Vol 19 Issue 4/Photo Studios/TheJapanesedelegation.jpg
-      alt: Photo Studios
-  - infopic:
-      title: Singapore's Hippie Hysteria and the Ban on Long Hair
-      subtitle: Governance
-      id: infopic
-      description: Hippie culture was seen as a risk to Singapore in the 1960s and
-        1970s. To reduce its influence, the government began a campaign against
-        men with long hair.
-      button: Operation Snip Snip
-      url: /vol-20/issue-1/apr-jun-2024/hippies-operation-snip-snip-long-hair/
-      image: /images/Vol 20 Issue 1/Hippie Hysteria/Image6.png
-      alt: Hippie Hysteria
-  - infopic:
       title: Singapore’s Early Publications
       subtitle: BiblioAsia Reels
       id: infopic
@@ -1137,79 +1042,6 @@ sections:
       url: /videos/reels/print/
       alt: Image alt text
       image: "/images/Videos: BiblioAsia Reels/early_print.jpg"
-  - infopic:
-      title: A Quick History of the Singapore Speedway
-      subtitle: Leisure
-      id: infopic
-      description: The history of the Singapore Speedway was as fast and furious as
-        the races it hosted.
-      button: MOTORCYLE RACING IN SINGAPORE
-      url: /vol-20/issue-1/apr-jun-2024/singapore-speedway-motorcycle-racing
-      image: /images/Vol 20 Issue 1/Singapore Speedway/Image2_edit.png
-      alt: Image alt text
-  - infopic:
-      title: American Troops. Singapore Bands. The Vietnam War
-      subtitle: Music
-      id: infopic
-      description: Lured by the prospects of money and adventure, local performers
-        braved the dangers of the Vietnam War to provide entertainment to
-        American troops.
-      button: GIGS in Vietnam
-      url: /vol-20/issue-1/apr-jun-2024/singapore-bands-vietnam-war/
-      image: /images/Vol 20 Issue 1/Vietnam War/sgband_vietnamwar_boonlai_cropped1.png
-      alt: Image alt text
-  - infopic:
-      title: 炊烟袅袅 甘榜回忆
-      subtitle: Places and Buildings
-      id: infopic
-      description: 甘榜的纯朴生活反映了过去悠然自得的时代，那时的生活要简单得多。
-      button: 甘榜的纯朴生活
-      url: /places-and-buildings/2023/11/childhood-memories-kampong-wak-hassan-chinese/
-      image: /images/Online Only Articles/A Slice of Kampong Life/riding_a_bike.png
-      alt: Image alt text
-  - infopic:
-      title: The Story of Two Whales
-      subtitle: BiblioAsia Reels
-      id: infopic
-      description: The skeleton of a blue whale was once the centrepiece of the former
-        Raffles Museum. What happened to it?
-      button: Watch the Video
-      url: /videos/reels/nature/
-      image: "/images/Videos: BiblioAsia Reels/Whales.jpg"
-      alt: Image alt text
-  - infopic:
-      title: "A Plethora of Tongues: Multilingualism in Malayan Writing"
-      subtitle: Culture
-      id: infopic
-      description: From the melting pot of cultures and languages in postwar Singapore
-        came the search for a Malayan identity, negotiated and presented through
-        multilingualism.
-      button: Multilingualism in Malayan Writing
-      url: /vol-20/issue-1/apr-jun-2024/multilingual-languages-malayan-writing-sg/
-      image: /images/Online Only Articles/A Plethora of
-        Tongues/20100000306_IMG0038.jpg
-      alt: Multilingualism
-  - infopic:
-      title: Conquering Everest, the World’s Tallest Mountain
-      subtitle: Sports
-      id: infopic
-      description: David Lim led the first Singapore team to successfully summit Mount
-        Everest in 1998. This is an excerpt from his book, Mountain to Climb.
-      button: Scale the greatest height
-      url: /vol-20/issue-1/apr-jun-2024/mountain-everest-expedition-david-lim/
-      image: /images/Online Only Articles/Conquer Tallest
-        Mountain_12_23/mok_on_fixed_ropes_homepage.png
-      alt: Image alt text
-  - infopic:
-      title: My Mother Hedwig Anuar
-      subtitle: People
-      id: infopic
-      description: The daughter of Hedwig Anuar reveals a side to the former Director
-        of the National Library that not many people know.
-      button: A TRIBUTE TO A MOTHER
-      url: /vol-21/issue-2/jul-sep-2025/mother-hedwig-anuar-shirin-aroozoo/
-      image: /images/Vol 21 Issue 2/Hedwig/Hedwig_Anuar_daughter_topic.jpg
-      alt: My Mother Hedwig Anuar
   - infopic:
       title: "Pages of Progress: The Toa Payoh Public Library"
       subtitle: Places and Buildings
