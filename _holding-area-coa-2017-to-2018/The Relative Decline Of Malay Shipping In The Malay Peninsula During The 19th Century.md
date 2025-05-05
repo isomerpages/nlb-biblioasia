@@ -94,3 +94,23 @@ followers of their own or incorporating them into their state.11 Given the
 importance of the shipping industry to the Malay peninsula and the wealth
 it generated, an independent Malay merchant class potentially threatened
 the power of the Malay ruling elite.
+
+#### **Malay States and Monopolies**
+
+The shipping industry in the Malay states during the 19th century operated
+largely via royal monopolies. In his 1820 work on the Indian Archipelago,
+John Crawfurd noted the rarity of regular duties implemented by Malay
+governments that instead used commercial monopolies, observing that “[a]
+Malay prince is … in general the first and often the only merchant in his
+country.”12 Foreigners obtained trading rights by gaining permission to do
+so from the local ruler in exchange for gifts. During this time, certain ports
+retained fairly open trading policies, which Crawfurd ascribed especially
+to states where “Arabs and their descendants [had] obtained sovereignty,”
+along with places where an effective *shahbandar* (an official specialising in
+mercantile and foreign affairs) managed the harbour, such as in Malacca,
+Palembang and Aceh.13 In the first two decades of the 19th century, there
+remained successful Malay ports, while the archipelago also had systems
+based on royal monopolies and trading privileges.
+
+
+
