@@ -41,6 +41,10 @@ Hanitsch noted that in compiling the catalogues, Kung had “obtained a most tho
 
 Kung was also active in several other institutions, both as a librarian and as a writer. He wrote for the _Straits Chinese Magazine_, edited by Song Ong Siang and Lim Boon Keng, which served as a platform for articulating the complex identity of the Straits Chinese caught between local and overseas politics.[^12]
 
+
+![](/images/vol-11-issue-4/a-magazine-straits-chinese/C3.JPG)
+<div style="background-color:white;">The title page of the first issue of&nbsp;the&nbsp;<i>Straits Chinese Magazine</i>,&nbsp;March 1897.<i> Collection of the National Library Singapore (call no. RRARE 959.57 STR).</i></div>
+
 Kung first released the _Catalogue of Literature Relating to China_ in instalments in this magazine between September 1899 and the end of 1900. He also volunteered as a Librarian at the Chinese Christian Association from 1898 through to 1905.[^13]
 
 Kung resigned from the Raffles Library on 8 April 1906, purportedly to move into business.[^14] By 1907, Kung had been appointed guardian and teacher of the sons of Yau Tet Shin, a mining tycoon and famed town builder of Ipoh.[^15] Kung decided to relocate to India where his young charges were studying. Upon the completion of their studies in India, Yau’s sons returned to Ipoh via Penang in late 1910.[^16] Kung and his brother headed to China after this.&nbsp;
