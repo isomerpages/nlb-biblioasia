@@ -1,4 +1,6 @@
 collections:
   holding-area-coa-2017-to-2018:
     output: true
-    order: []
+    order:
+      - The Relative Decline Of Malay Shipping In The Malay Peninsula During The
+        19th Century.md
