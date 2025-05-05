@@ -9,13 +9,14 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-21/issue-1/apr-jun-2025/deaf-education-singapore-sign-language/
-      button: "Signs of Progress: Deaf Education in Singapore"
+      url: vol-21/issue-1/apr-jun-2025/liu-kang-forgotten-photographs-bali/
+      button: Forgotten Photographs of the 1952 Bali Trip
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 21 Issue 1/Deaf Education/HeroImage_deafeducation.jpg
+      background: /images/Apr_Jun_2025_hero_images__10___1_.jpg
+      variant: center
   - infopic:
       title: My Mother Hedwig Anuar
       subtitle: People
