@@ -18,6 +18,10 @@ In 1905, the Raffles Library (predecessor to the National Library Singapore) pub
 
 Curator-Librarian Karl Richard Hanitsch emphasised that the compilation of the catalogue “entailed much extra work on the Library staff” and singled out one person in particular: “I must especially acknowledge the excellent work of the First Clerk, Mr.&nbsp;Kong Tian Cheng, whose assistance alone has made the issue of the catalogue possible.”[^2]
 
+
+![](/images/Vol%2021%20Issue%202/Kung%20Tian/kungtian_karl.jpg)
+<div style="background-color:white;">Karl Richard Hanitsch, curator and librarian of the Raffles Library and Museum, 1921. <i> Image reproduced from Walter Makepeace, Gilbert E. Brooke and Roland St J. Braddell, eds., One Hundred Years of Singapore (London: John Murray, 1921), 566. Collection of the National Library Singapore (call no. RRARE 959.57 ONE).</i></div>
+
 After making his mark at the Raffles Library, Kung headed for revolutionary China in the 1910s where, among other things, he was the biographer and librarian for Yuan Shikai, the first official president of the Republic of China. Such was his fame that Kung merited a write-up in Song Ong Siang’s tome, _One Hundred Years’ History of the Chinese in Singapore_, first published in 1923.[^3]
 
 A descendant of Confucius, Kung was born in Melaka on 17 June 1879. His father, Kung Chow Ching, moved to Melaka from Yantai (Zhifu), Shandong, in 1876. Kung’s father died a few years after the boy was born and the widowed mother moved to Singapore where she was able to&nbsp;enrol&nbsp;both Kung and his elder brother, Kung Tian Siong, at the newly opened Anglo-Chinese School on Coleman Street.
