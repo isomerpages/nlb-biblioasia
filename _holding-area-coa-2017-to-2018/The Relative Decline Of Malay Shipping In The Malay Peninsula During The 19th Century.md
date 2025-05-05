@@ -128,5 +128,47 @@ political challenger arose from the masses and that the state’s wealth was
 kept for themselves and their supporters. The monopolisation of foreign
 shipping rights by the elite inhibited the rise of independent merchants.
 
+#### **Singapore’s Trade with the East Coast of Malaya**
+Given the maritime trading needs of the inhabitants of the Malay Peninsula,
+along with the nature of Malay politics, shipping played an important role
+in the economies of the east coast of Malaya. Seafarers plied these waters
+with vessels known as *sampan-pukats*, loading cargo from the states of
+Pahang, Terengganu and Kelantan to Singapore for distribution elsewhere.16
+Earl described one such vessel as “a long open boat” capable of fending off
+pirate attacks, which, in his experience, had a crew of around 35.17 These
+vessels formed an integral part of the trade that enabled goods from the east
+coast of Malaya to be transported elsewhere for consumption, and eventually
+dominated the carrying trade.
+
+Trade between Singapore and the Malayan east coast slumped during the
+mid-1830s but managed to recover by the end of the decade. From around
+1834 to 1837, commerce between the east coast of Malaya and Singapore
+experienced a trading slump (see Figure 1) that forced the industry to
+undertake reforms. Pirate attacks, misconduct of officers and excessive
+supply all contributed to the decline in trade. During the early 1830s, there
+were 14 or 15 *sampan-pukat* that sailed between Singapore and East Malaya.
+This dropped to four for most of 1836. By the start of 1837, that number had rebounded to eight vessels and looked set for further growth.18 Such
+volatility required adequate organisation and support to fend off pirates and
+rebuild after potentially devastating losses from their attacks.
+
+The organisational restructuring of the trade culminated with Chinese
+merchants dominating the export trade of the Malayan east coast. “The
+few Chinese merchants”… who … “exclusively managed” the Singapore-
+Malayan east coast trade became more cautious, selecting *nakhoda* they
+trusted because of their “character and experience,” and who possessed some
+capital.20 Singapore’s merchant community reformed ensuring those engaged
+in the trade were responsible for losses rather than external creditors,
+thereby forcing greater caution onto the shipping industry. With piracy in
+sharp decline after 1836, the trade of gold dust, tin and pepper from East
+Malaya to Singapore recovered.21 The trading reforms hardened the resolve of merchants and seafarers to ensure the success of trading missions. With
+each *nakhoda* personally vested in the voyage, the odds of success increased
+as surrendering cargo to either pirates or other causes became less desirable.
+Seafarers became less likely to give up when their livelihoods were at stake.
+With creditors no longer footing the losses of Singapore merchant traders,
+the latter became more careful with whom they selected to safeguard their
+investments. Chinese merchants in Singapore possibly preferred *nakhoda* of
+their own ethnicity or dialect rather than Malays or other groups, thereby
+weakening them.
+
 
 
