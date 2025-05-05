@@ -277,4 +277,24 @@ in turn enabled them to acquire more sophisticated shipping technology as
 the century progressed and permitted them to remain competitive in the
 shipping industry.
 
+#### **The Rise of Free Trade**
+
+Singapore adopted free trade policies that empowered regional merchants,
+who in turn became more resilient to the demands of Malay *rajas*. Sir
+Stamford Raffles ordered Singapore’s first resident, William Farquhar, not
+to impose tariffs on Singapore’s commerce when they established a factory
+there in 1819. Traders flocked to Singapore, drawn by the promises of no
+tariffs and low port fees. The Malay *rajas* in Singapore demanded gifts from
+the *nakhoda* but by April 1820, with Raffles’ reforms, the *nakhoda* had won
+the right not to offer gifts to them.34 This remained a thorny issue in 1821
+when Sultan Husain ordered a junk master from Amoy, China to be placed
+in the stocks for failing to provide him with a gift, though the junk master
+was freed by Resident Farquhar shortly after.35 Governor Robert Fullerton
+pushed the Straits Settlements even further toward free trade by eliminating fees for *perahu* and junks visiting Penang in December 1826.36 The new
+free trade policies enabled foreign merchants to resist more effectively the
+demands of government officials. Foreign merchants, especially those from
+China, sailing the trading routes from the Straits Settlements to the Malay
+states, became increasingly assertive in their relationship with governments.
+
+
 
