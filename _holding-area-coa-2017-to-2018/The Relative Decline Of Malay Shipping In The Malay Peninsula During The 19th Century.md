@@ -475,6 +475,26 @@ economic opportunities largely because of the different policies enacted by
 authorities there. This contrast is just one example of the enduring legacy of
 *kerajaan* economics, when rulers stifled Malay enterprise.
 
+#### **Acknowledgments**
+*I would like to thank the National Library Board of Singapore for giving me this
+opportunity to conduct research. I would like to credit The British Library, The National
+Archives (United Kingdom), and the National Archives of India for granting me access
+to their material. I would also like to thank Gracie Lee, Gladys Low, Joanna Tan,
+Fiona Tan, Gayathri Kaur Gill and Tony Leow from the National Library Board,
+Singapore. I would also like to thank Tim Yap Fuan, Gandimathy Durairaj, Donna
+Brunero and Tim Barnard from the National University of Singapore. Finally, I would
+like to extend my appreciation to my friends who helped me adjust to life in Singapore.*
+
+<div>
+Originally from the Jersey Shore in the United States, <b>Scott Abel</b> had an early interest
+in maritime history. In 2009, he obtained his bachelor’s degree from Washington
+College in Chestertown, Maryland. He received his masters’ degree from Rutgers
+University-Newark in 2011. He earned his doctorate in history in 2016 from Northern
+Illinois University. He was subsequently a lecturer with the Center for Southeast Asian
+Studies at the University of Michigan and a Lee Kong Chian Research Fellow with the
+National Library Board, Singapore in 2018.
+</div>
+
 
 
 
