@@ -7,6 +7,9 @@ description: ""
 #### The Singapore and Southeast Asia Collection is an invaluable resource for researchers of all stripes.  
 By Ang Seow Leng
 
+![](/images/Vol%2021%20Issue%202/SG%20SEA%20Collection/SEAcollection_main.jpg)
+<div style="background-color:white;">The Singapore and Southeast Asia Collection on Level 11 of the Lee Kong Chian Reference Library, National Library Building. <i>Photo by Jimmy Yap.</i></div>
+
 First time visitors to Level 11 of the Lee Kong Chian Reference Library at the National Library Building are typically wowed by the space: from the floor-to-ceiling windows offering a spectacular view of the Singapore skyline to the triple-volume ﬂoor with a six-metre-high book wall. But the gorgeous view and the high ceilings pale in comparison to what is on the bookshelves on this floor. Level 11 is the home of the Singapore and Southeast Asia Collection – a valuable source of materials for historical research and discovery into topics relating to Singapore and the region.
 
 The Singapore and Southeast Asia Collection, together with the Rare Materials Collection, the Legal Deposit Collection and the Donors’ Collection, form the National Collection of almost 2 million items at the National Library Singapore.&nbsp;
@@ -19,7 +22,10 @@ In 1845, the Singapore Institution Library was renamed the Singapore Library. By
 
 Early acquisitions include the 1879 purchase of the Logan Philological Library belonging to James Richardson Logan, the founder and well-known editor of the _Journal of the Indian Archipelago and Eastern Asia_ (popularly known as Logan’s Journal). This consisted of 1,250 works on the ethnography and philology of the Malay Archipelago.[^3] The Rost Collection was acquired in 1897 from a portion of the private library of Reinhold Rost, the librarian at the India Office Library in London. The 970-volume collection comprises titles relating to the philology, geography and ethnology of the Malay Archipelago.[^4]
 
-The library’s collection grew steadily and by the end of 1900, there were more than 26,000 volumes.[^5] The appointment of qualified librarian James Johnston in 1920 to manage the Raffles Library was a landmark in the library’s history. He was instrumental in&nbsp;organising&nbsp;works on Malaya and the surrounding islands&nbsp;intoa special Malaysia Collection in 1924. The library’s collection continued to grow and gain traction from there.[^6] In 1923, the library of the Malayan Branch of the Royal Asiatic Society was transferred “on permanent loan” to the Raffles Library as the society’s council felt that it would “receive more attention and care in the larger library”.[^7]
+![](/images/Vol%2021%20Issue%202/SG%20SEA%20Collection/SEAcollection_rost.jpg)
+<div style="background-color:white;"> The <i>Catalogue of the Rost Collection in the Raffles Library, Singapore</i> was published by the American Mission Press in Singapore in 1897. <i>Collection of the National Library Singapore (call no. RRARE 016.49 RAF).</i></div>
+
+The library’s collection grew steadily and by the end of 1900, there were more than 26,000 volumes.[^5] The appointment of qualified librarian James Johnston in 1920 to manage the Raffles Library was a landmark in the library’s history. He was instrumental in&nbsp;organising&nbsp;works on Malaya and the surrounding islands into a special Malaysia Collection in 1924. The library’s collection continued to grow and gain traction from there.[^6] In 1923, the library of the Malayan Branch of the Royal Asiatic Society was transferred “on permanent loan” to the Raffles Library as the society’s council felt that it would “receive more attention and care in the larger library”.[^7]
 
 The move back to the Raffles Institution building in 1876 presented an opportunity to reclassify the growing collection. The simple six-genre arrangement was expanded into 24 subjects, each represented by a letter of the English alphabet. &nbsp;The letter “Q”, for instance, was given to “Works on Singapore, the Straits Settlements and the Eastern Archipelago”.[^8]
 
@@ -29,15 +35,30 @@ In 1955, the Raffles Library and Museum was separated into two entities and plan
 
 #### **Opening of the South East Asia Room**
 
+![](/images/Vol%2021%20Issue%202/SG%20SEA%20Collection/SEAcollection_room.jpg)
+<div style="background-color:white;">The South East Asia Room with tables for researchers, 1970s. <i> Collection of the National Library Singapore.</i></div>
+
 One of the more important additions to the library’s collection in the early postwar years is the Ya Yin Kwan (Palm Shade Pavilion) Collection, donated by Tan Yeok Seong (1903–84), the founder of Nanyang Book Company. A historian and collector of books and historical artefacts, Tan devoted his life and time researching Southeast Asian history, especially the influence of the Chinese in Southeast Asia.&nbsp;
 
+![](/images/Vol%2021%20Issue%202/SG%20SEA%20Collection/SEAcollection_stamp.jpg)
+<div style="background-color:white;"> All titles in the Ya Yin Kwan Collection bear this donation label as well as the stamp in red which says Ya Yin Kwan in Chinese (椰荫馆). <i>Collection of the National Library Singapore.</i></div>
+
 In 1964, Tan donated his collection to the National Library with the condition that a South East Asia Room (SEA Room) be set up to house the collection and make it accessible to the public. His wish was for the donation to be a catalyst for more donations and for the National Library to become a centre for Southeast Asian studies.[^12] Since the majority of the publications about this region in the early 19th and 20th centuries were mainly by Europeans, Tan hoped for more Southeast Asian scholars to write their own history.&nbsp;
+
+![](/images/Vol%2021%20Issue%202/SG%20SEA%20Collection/SEAcollection_tanyeok.jpg)
+<div style="background-color:white;"> Tan Yeok Seong (1903–84). <i> Courtesy of his son, Alex Tan Tiong Tee.</i></div>
 
 The SEA Room was officially opened on 28 August 1964, with Culture Minister S. Rajaratnam as the guest of honour. “Today’s occasion is one that makes Singaporeans and Malaysians proud,” said Rajaratnam. “From the closed stacks at the back of the building our librarians have now brought out this famous collection.”[^13]
 
 In June 1965, the Singapore and Southeast Asia Collection was further enriched by Mrs Loke Yew’s donation of books and journals originally from the personal library of the late Carl Alexander Gibson-Hill (curator at the Raffles Museum and editor of the _Journal of the Malayan Branch of the Royal Asiatic Society_). Mrs Loke Yew was the mother of Loke Wan Tho, the chairman of the board of the National Library from 1960 until his death in 1964.[^14]
 
+![](/images/Vol%2021%20Issue%202/SG%20SEA%20Collection/SEAcollection_carl.jpg)
+<div style="background-color:white;">Carl Alexander Gibson-Hill speaking at an event, 1962. <i>  Yusof Ishak Collection, courtesy of National Archives of Singapore.</i></div>
+
 “I welcome this opportunity of fulfilling my son’s intention, thereby not only perpetuating the memory and names of these two close friends (Dato Loke and the late Dr Gibson-Hill) but also providing a source of knowledge for many young men in the years that lie ahead,” said Mrs Loke Yew at the presentation ceremony.&nbsp;
+
+![](/images/Vol%2021%20Issue%202/SG%20SEA%20Collection/SEAcollection_presentation.jpg)
+<div style="background-color:white;">Mrs Loke Yew with Minister for Culture S. Rajaratnam and Director of the National Library Hedwig Anuar at the presentation of the Carl Alexander Gibson-Hill Collection to the National Library, 1965. <i>  Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 &nbsp;The SEA room gave prominence and importance to works on Southeast Asia, including titles relating to Singapore. The Gibson-Hill, Logan and Rost collections were housed in the SEA Room, along with materials on Malaysia, Burma (now Myanmar), Thailand, Vietnam, Laos, Cambodia, Brunei, Indonesia and the Philippines.[^15]
 
@@ -67,7 +88,10 @@ Although print publications make up the core of the collection, there are also r
 
 As the National Library continues to be a repository of the nation’s documentary heritage and builds the collection through acquisition, donations, gifts and exchange with other libraries and digital acquisition, it also aims to be a leading resource centre on Southeast Asia.
 
-#### **Users of the Singapore and Southeast Asia Collection **
+![](/images/Vol%2021%20Issue%202/SG%20SEA%20Collection/SEAcollection_hikayat.jpg)
+<div style="background-color:white;"> Published in 1849, <i>Hikayat Abdullah</i> (Stories of Abdullah) was written by the Malay teacher and scholar Abdullah Abdul Kadir (Munsyi Abdullah). This copy even travelled overseas for an exhibition, <i>Treasures from the World’s Great Libraries</i>, at the National Library of Australia from&nbsp;2001 to 2002. <i> Collection of the National Library Singapore (call no. RRARE 959.503 ABD). </i></div>
+
+#### **Users of the Singapore and Southeast Asia Collection**
 
 Many researchers and scholars have benefitted from the Singapore and Southeast Asia Collection through the years. The late Professor Ian Proudfoot (1946–2011) was an Australian researcher and former SEA Room user. He studied the Malay manuscripts collection held at the National Library during his early career and became one of the greatest philologist scholars on early Malay printing. He also found love in the SEA Room and got married to one of the librarians.
 
@@ -79,6 +103,9 @@ The annual Lee Kong Chian Research Fellowship also sees batches of local and ove
 
 More recently, in 2022–23, Sharad Pandian, who graduated from the Nanyang Technological University with a degree in physics and holds a Master of Philosophy in&nbsp;History and&nbsp;Philosophy of&nbsp;Science&nbsp;at the University of Cambridge, discusses the standardisation and the promulgation of quality-consciousness by the Singapore Institute of Standards and Industrial Research (SISIR) in his topic, “‘Prosperity Through Quality and Reliability’: SISIR and the Making of a Quality Conscious Nation”.[^21]
 
+![](/images/Vol%2021%20Issue%202/SG%20SEA%20Collection/SEAcollection_books.jpg)
+<div style="background-color:white;"> Librarians compile catalogues, bibliographies and resource guides featuring the rich Singapore and Southeast Asia Collection. The National Library also organises talks, exhibitions and programmes to promote the discovery and appreciation of the collection. <i> Collection of the National Library Singapore. </i></div>
+
 Library patrons have increasingly relied on digitised resources that the librarians put up online. The National Library Collections Directory (www.nlb.gov.sg/main/nlcollectionsdirectory) provides an overview of the library’s rich Singapore content through a wide range of resources, including donor materials across different subjects and formats.&nbsp;
 
 As research methods evolve over time with resources available beyond print, the strong link between collections, librarians and library users will remain constant.
@@ -86,7 +113,7 @@ As research methods evolve over time with resources available beyond print, the 
 
 
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src="/images/Authors/AngSeowLeng.png">
+<img style="width: 100px; height: 100px;" src="/images/Vol%2018%20Issue%202/Authors/Ang_Seow_Leng.png">
 <b>Ang Seow Leng</b> is a Senior Librarian with the National Library Singapore. Her responsibilities include managing the Singapore and Southeast Asia Collection, developing content as well as providing reference and research services relating to Singapore and Southeast Asia.</div>
 
 
@@ -125,7 +152,7 @@ As research methods evolve over time with resources available beyond print, the 
 [^11]: Hedwig Anuar, “[Singapore’s National Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/stannual19620101-1.2.45),” _Straits Times Annual_, 1 January 1962, 58–59; “[Out Goes the Name Raffles](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19601121-1.2.88),” _Straits Times_, 21 November 1960, 9; “[Raffles’ Name Will Live On: Rajaratnam](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19601201-1.2.60),” _Straits Times_, 1 December 1960, 7. (From NewspaperSG)
 
 
-[^12]: Ang Seow Leng and Jane Wee, comps., [_Catalogue of the Ya Yin Kwan Collection in the Lee Kong Chian Reference Library =_ 椰阴馆藏书目录 _= Ye yin guan cang shu mu lu_](), ed.&nbsp; Lai Yee Pong, Lynn Fong and Noryati Abdul Samad (Singapore: National Library Board, 2006), 16. (From National Library Singapore, call no. RSING q338.092 TAN)
+[^12]: Ang Seow Leng and Jane Wee, comps., [_Catalogue of the Ya Yin Kwan Collection in the Lee Kong Chian Reference Library =_ 椰阴馆藏书目录 _= Ye yin guan cang shu mu lu_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12694409), ed.&nbsp; Lai Yee Pong, Lynn Fong and Noryati Abdul Samad (Singapore: National Library Board, 2006), 16. (From National Library Singapore, call no. RSING q338.092 TAN)
 
 
 [^13]: S. Rajaratnam, “[The Opening of the South East Asia Room and Presentation of the Ya Kin Kwan Collection by Mr Tan Yeok Seong](https://www.nas.gov.sg/archivesonline/speeches/record-details/78d8ebbf-115d-11e3-83d5-0050568939ad),” speech, National Library, 28 August 1964, transcript. (From National Archives of Singapore, document no. PressR19640828)
