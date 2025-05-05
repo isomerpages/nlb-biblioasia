@@ -6,7 +6,7 @@ variant: markdown
 description: ""
 ---
 #### **Introduction**
-For untold centuries, the *perah*u (sailing vessels) of the Malay people plied
+For untold centuries, the *perahu* (sailing vessels) of the Malay people plied
 the waters of the Indonesian archipelago for the purposes of trade, warfare
 and fishing. Yet, once the legendary Malay shippers who spread Bahasa
 Melayu (the Malay language) throughout the archipelago eventually
@@ -94,6 +94,3 @@ followers of their own or incorporating them into their state.11 Given the
 importance of the shipping industry to the Malay peninsula and the wealth
 it generated, an independent Malay merchant class potentially threatened
 the power of the Malay ruling elite.
-
-
-
