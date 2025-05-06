@@ -275,5 +275,31 @@ Javanese identity to stand alone, as shared by Suryakencana Omar:
    Malay Heritage Centre, Singapore<br> 
    24 February 2018*
 
+Although many Singaporean-Javanese no longer speak Javanese in their
+daily lives, they still preserve their heritage in their own way. Crang
+(2010:139) argues how food can connect people to personal and social
+memories of their homeland. The well-known dish *nasi ambeng*, for
+example, is an integral part of the Selametan or Kenduri. Dishes that
+Singaporeans might be familiar with but are unaware are Javanese include
+*soto*, *satay*, *nasi rawon* and *tempe*. According to the Singaporean-Javanese
+diaspora, their links to Javanese cuisine, albeit adapted to suit local tastes
+with influences from Malay, Indian and Chinese cuisines, is one of their
+most important, particularly when set within the Malay community.
+Therefore, diverse Javanese foods are still consumed among Singaporean
+society. Singaporean-Javanese Haider Surya noted that many Javanese
+dishes such as nasi *ambeng*, *satay* and *tempe* have been commercialised and
+distributed around Singapore. This reproduces the Javanese identity as
+Singaporean-Javanese are able to easily access authentic Javanese food
+in Singapore.
 
+Cuisine aside, there are many intangible Javanese cultural arts found in
+Singapore such as dance, *pencak silat* (martial arts), gamelan (traditional
+ensemble music originating from Java and Bali), *jamu*, *keris* and *kuda
+kepang*. To preserve Javanese heritage in Singapore, several organisations
+have been established, such as Kesenian Tedja Timur/Kuda Kepang
+(established in 1991), Sri Warisan (*wayang kulit* Singapore/Javanese
+puppet show founded in 1997), Perguruan Silat Kembang Wali (*pencak
+silat* group), Perguruan Seni Beladiri Tapak Suci Singapura (*pencak silat*
+group), Pacitan Gamelan (founded in 1991 at the Kembangan Community
+Club), Singa Nglaras at the Department of Southeast Asian Studies in
 
