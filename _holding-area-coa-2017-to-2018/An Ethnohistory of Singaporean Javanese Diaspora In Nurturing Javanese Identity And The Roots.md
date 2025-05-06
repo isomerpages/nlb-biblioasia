@@ -134,7 +134,7 @@ importance of this to them:
    *“…reminiscing the history of the Javanese in Singapore when it<br>
    was a Javanese-Majapahit vassal is our pride of [being] Javanese<br>
    in a place where Gadjah Mada (a Majapahit prime minister who<br>
-   united Nusantara by means of Palapa expedition) was here…”*<br><br><br>
+   united Nusantara by means of Palapa expedition) was here…”*<br><br>
    *Interview with Sri Sulistiyanti<br>
    Orchard Road, Singapore<br>
    21 April 2018*
@@ -270,7 +270,7 @@ Javanese identity to stand alone, as shared by Suryakencana Omar:
    *“Being Javanese among the Malay community in Singapore is not<br> 
    an easy task as we [have to] work much harder in nurturing our<br> 
    identity than the Javanese in Java, who have a ‘taken for granted<br> 
-   identity’ from the ancestors.”<br><br> <br>  
+   identity’ from the ancestors.”<br><br> 
    Interview with Suryakencana Omar<br> 
    Malay Heritage Centre, Singapore<br> 
    24 February 2018*
@@ -355,7 +355,7 @@ Zuraidah Ehsan:
    it has become the uniqueness of the Singaporean-Javanese diaspora<br>
    in being able to adapt to a place where we are living now, in the<br>
    Malay area. Being Malay does not mean we forget our roots<br>
-   as Javanese.”<br><br><br>
+   as Javanese.”<br><br>
    Interview with Zuraidah Ehsan<br>
    Paya Lebar, Singapore<br>
    18 January 2018*
@@ -424,7 +424,7 @@ results in the return to ancestral lands and a new facet in their identity.
    his luggage, including his money and passport. Unfortunately, as<br>
    Orang Atas (a notable and educated Javanese person), he never<br>
    clearly revealed who he was until he died. This mystery strongly<br>
-   motivates me to go on a roots journey again and again.”<br><br><br>
+   motivates me to go on a roots journey again and again.”<br><br>
    – Interview with Sujono<br>
    Jurong, Singapore<br>
    25 February 2018*
@@ -557,7 +557,3 @@ diaspora, for reviewing this essay and providing his input*.
 the issue of Javanese diaspora around the globe. He is a lecturer in Sociology at the
 Universitas Gadjah Mada in Indonesia and the director of Golong Gilig Institute of
 Diaspora and Nusantara Studies. He can be reached at fujiriangprastowo@ugm.ac.id</div>
-
-
-
-
