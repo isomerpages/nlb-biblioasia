@@ -117,7 +117,10 @@ And yet, the myriad of impacts and legacies of the missionary exodus from China 
 
 Tracing the transition of the 1950s, where the theological resources of British missionaries in the crown colony of Singapore were completely eclipsed by American influence, Poon notes that the Chinese evangelicals were better positioned to leverage this aid and represent local Chinese anticolonialism than the ecumenical missionaries at Trinity College.[^51] With the accelerating influence of American capitalism in post-independence Singapore and its attendant cultural and human flows – evangelical Christianity became one of its most visible exports, as evidenced by the religious resurgence and growth of Pentecostal Christianity in 1990s Singapore.[^52] In that regard, we might see the institutional connections established in the 1950s as an important but overlooked backdrop to this subsequent phenomenon.
 
-<div>
+<br>
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/joshua_tan_photo.jpg">
 <b>Joshua Tan</b> is a historian of modern China and the Chinese diaspora, with an interest in the religious and educational politics in Cold War Asia. He is currently a postdoctoral fellow in the department of history at the National University of Singapore and is working on a book about American-Asian educational partnerships during the Cold War.</div>
 
 
