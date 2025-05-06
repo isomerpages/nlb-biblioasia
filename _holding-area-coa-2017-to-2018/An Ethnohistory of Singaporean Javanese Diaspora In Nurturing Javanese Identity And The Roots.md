@@ -38,7 +38,7 @@ often interested in the romanticism of Javanese history and journeying to
  <div style="background-color: white;">Javanese dancers and the writer at the opening of the <i>Pusaka</i> exhibition held by the Javanese
 Association of Singapore on 29 May 2016 at the Malay Heritage Centre.<i> Courtesy of Fuji Prastowo, 2016</i></div>
 
-<img src="/images/COA%202017%20to%202018/Ethnohistory%20of%20Singaporean/Javanese_Dances_Performing.jpg" style="width:80%;">
+<img src="/images/COA%202017%20to%202018/Ethnohistory%20of%20Singaporean/Javanese_Dances_Performing.jpg" style="width:100%;">
  <div style="background-color: white;">Javanese dancers performing at the exhibition’s opening. <i>Courtesy of Fuji Prastowo, 2016</i></div>
 
 Java, Indonesia in search of their roots. They trace their ancestry in Java
