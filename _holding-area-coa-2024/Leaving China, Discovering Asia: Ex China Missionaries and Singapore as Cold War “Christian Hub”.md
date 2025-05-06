@@ -116,11 +116,10 @@ Produced and enabled by the post-1949 missionary exodus from China, neither inst
 And yet, the myriad of impacts and legacies of the missionary exodus from China can still be felt not only by the presence of College graduates in public life but, more importantly, in the institutional and intellectual connections established in the 1950s. Attempting to explain the failure of ecumenical Protestantism to gain support from the large and influential Chinese-speaking Christian community in the 1950s, Michael Poon notes that the Chinese Inter-Church Union was, in fact, an alternative iteration of ecumenism – albeit from an ethnic (Chinese) nationalist perspective that was revivalist, evangelical, and not always legible to Western missionary observers.[^50] Thus, we might see the tension between the two colleges as one iteration of this rivalry. And yet, I propose that a more important commonality was the cultivation of Transpacific (particularly American) networks, which indelibly shaped Protestantism in postwar Singapore. 
 
 Tracing the transition of the 1950s, where the theological resources of British missionaries in the crown colony of Singapore were completely eclipsed by American influence, Poon notes that the Chinese evangelicals were better positioned to leverage this aid and represent local Chinese anticolonialism than the ecumenical missionaries at Trinity College.[^51] With the accelerating influence of American capitalism in post-independence Singapore and its attendant cultural and human flows – evangelical Christianity became one of its most visible exports, as evidenced by the religious resurgence and growth of Pentecostal Christianity in 1990s Singapore.[^52] In that regard, we might see the institutional connections established in the 1950s as an important but overlooked backdrop to this subsequent phenomenon.
-
 <br>
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/joshua_tan_photo.jpg">
+<img style="width: 100px; height: 100px;" src="/images/Authors/joshua1.jpg">
 <b>Joshua Tan</b> is a historian of modern China and the Chinese diaspora, with an interest in the religious and educational politics in Cold War Asia. He is currently a postdoctoral fellow in the department of history at the National University of Singapore and is working on a book about American-Asian educational partnerships during the Cold War.</div>
 
 
@@ -196,7 +195,7 @@ Tracing the transition of the 1950s, where the theological resources of British 
 
 [^35]: Lyall and Steed to Stanley Dixon, 12 October 1951.
 
-[^36]: Joshua Dao-Wei Sim. “Captivating God’s Heart: A History of Independent Christianity, Fundamentalism and Gender in Chin Lien Bible Seminary,” (Master’s thesis, national University of Singapore, 2015)
+[^36]: Joshua Dao-Wei Sim. “Captivating God’s Heart: A History of Independent Christianity, Fundamentalism and Gender in Chin Lien Bible Seminary,” (master’s thesis, national University of Singapore, 2015)
 
 [^37]: Conference of British Missionary Societies, “[Conference of British Missionary Societies: Malaya Christian Council: \[a\] Entry of China Inland Mission, 1951–1952](https://www.nas.gov.sg/archivesonline/private_records/record-details/e18530df-115b-11e3-83d5-0050568939ad),” Quek Keng Hoon to Harry K. Johnston, 15 November 1951, private records. (From National Archives of Singapore, microfilm no. NAF 00015)
 
@@ -218,7 +217,7 @@ Tracing the transition of the 1950s, where the theological resources of British 
 
 [^46]: Ironically, it was purchased from the MCC, which had previously used the two bungalows as a Christian Center affiliated with the University of Malaya. Despite its initial intention to cultivate a space where secular and religious thinking could coexist in community, disinterest of local church groups to sponsor the Christian Center left it underfunded and ultimately defunct by 1958. The SBC subsequently had very little interaction with the secular university across the road. See for instance: University of Malaya, “[Christian Hostel Centre from Malayan Christian Council, 1952–1957](https://www.nas.gov.sg/archivesonline/government_records/record-details/10161878-115a-11e3-83d5-0050568939ad),” William Fleming to Sidney Caine, 25 September 1952, government records. (From National Archives of Singapore, microfilm no. AM 052; record reference no. U.M. 154/52)
 
-[^47]: For example, the libraries at Singapore Bible College still retain an extensive collection of what Chinese evangelical publications published and circulated from Hong Kong, Taiwan, and the United States. These include: _shengming yuekan_ (Life Monthly) published by China Evangelical Fellowship in Hong Kong, _dengta (lighthouse)_ published in Hong Kong by the China Inland Mission / Overseas Missionary Fellowship, *zhongxin yuekan (China Christian Monthly)*, published by the Chinese Christian Mission in Petaluma, California. For an elaboration of Chinese evangelical networks in the mid-20th-century, see: Sim, “Bringing Chinese Christianity to Southeast Asia, 773.
+[^47]: For example, the libraries at Singapore Bible College still retain an extensive collection of what Chinese evangelical publications published and circulated from Hong Kong, Taiwan, and the United States. These include: _shengming yuekan_ (Life Monthly) published by China Evangelical Fellowship in Hong Kong, _dengta (lighthouse)_ published in Hong Kong by the China Inland Mission / Overseas Missionary Fellowship_, zhongxin yuekan (China Christian Monthly),_ published by the Chinese Christian Mission in Petaluma, California. For an elaboration of Chinese evangelical networks in the mid-20th-century, see: Sim, “Bringing Chinese Christianity to Southeast Asia, 773.
 
 [^48]: “Our Milestones 2015,” Trinity Theological College, 2016, https://www.ttc.edu.sg/english/about/our-milestones/.
 
