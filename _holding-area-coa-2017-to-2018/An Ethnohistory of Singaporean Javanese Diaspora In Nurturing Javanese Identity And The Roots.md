@@ -57,6 +57,11 @@ Fort Can ning in Singapore) (Kwa, Heng and Tan, 2009:14; Miksic and Gek, 2004:17
 nurture Javanese cultural heritage in their daily lives in Singapore, and how
 this would in turn encourage them to go on a roots journey to Java.
 
+<img src="/images/COA%202017%20to%202018/Ethnohistory%20of%20Singaporean/Jewellery_Majapahit.jpg" style="width:80%;">
+ <div style="background-color: white;">Jewellery from the Majapahit empire found in Singapore – a pair of earrings and an armlet
+featuring the typical Majapahit demoniac Kala – on display at the National Museum of Singapore.Javanese dancers performing at the exhibition’s opening. <i>Courtesy of Fuji Prastowo, 2018</i></div>
+
+
 In the 2010 census of Singapore, 88,646 Singaporeans identified themselves
 as “Javanese” (Singapore Department of Statistics, 2010:46). However, many
 Singaporeans are still unaware of the history of the Javanese in Singapore.
