@@ -259,7 +259,7 @@ a lack of security from theft, Malay commoners lost their wealth to the
 states permitted Chinese communities to accumulate wealth through their
 own legal system because they were perceived as outsiders. Engaging in
 commerce meant working for the ruler or having status within the political
-hierarchy.31 Wealthy Malay traders stood to face political problems if they
+hierarchy.[^31] Wealthy Malay traders stood to face political problems if they
 wanted to live on the Malay Peninsula because of the political barriers
 erected by the Malay states.
 
@@ -269,10 +269,10 @@ shipping merchants often received special privileges from Malay *rajas*,
 making Arab merchants less vulnerable to their whims than Malays. While
 at Pahang, Munshi Abdullah noted that the Arabs there were all merchants
 who lived near *Kampong* China and were revered by Malays as *rajas* and
-were treated as such having come from the Holy Land.32 Aside from
+were treated as such having come from the Holy Land.[^32] Aside from
 developing relationships with the Malay states, Arab merchants such as
 Syed Massim bin Salleh Al Jeoffrie settled in Singapore while owning large
-sailing vessels and steamers to conduct trade in the archipelago.33 Straits
+sailing vessels and steamers to conduct trade in the archipelago.[^33] Straits
 Arab traders had advantages over their Malay counterparts because of
 their more favourable relationships with Malay rulers. These relationships
 allowed them to develop their own shipping networks and prosper, which
@@ -289,11 +289,11 @@ to impose tariffs on Singapore’s commerce when they established a factory
 there in 1819. Traders flocked to Singapore, drawn by the promises of no
 tariffs and low port fees. The Malay *rajas* in Singapore demanded gifts from
 the *nakhoda* but by April 1820, with Raffles’ reforms, the *nakhoda* had won
-the right not to offer gifts to them.34 This remained a thorny issue in 1821
+the right not to offer gifts to them.[^34] This remained a thorny issue in 1821
 when Sultan Husain ordered a junk master from Amoy, China to be placed
 in the stocks for failing to provide him with a gift, though the junk master
-was freed by Resident Farquhar shortly after.35 Governor Robert Fullerton
-pushed the Straits Settlements even further toward free trade by eliminating fees for *perahu* and junks visiting Penang in December 1826.36 The new
+was freed by Resident Farquhar shortly after.[^35] Governor Robert Fullerton
+pushed the Straits Settlements even further toward free trade by eliminating fees for *perahu* and junks visiting Penang in December 1826.[^36] The new
 free trade policies enabled foreign merchants to resist more effectively the
 demands of government officials. Foreign merchants, especially those from
 China, sailing the trading routes from the Straits Settlements to the Malay
@@ -308,10 +308,10 @@ monetary benefits, but rather for the lack of government interference. The
 corruption of customs houses throughout the archipelago, practised by local
 rulers and Europeans alike, so frustrated Malay shippers that Singapore’s less
 corrupt system attracted them, because they knew they did not need to pay
-a customs house.37 Within Singapore itself, however, Malay shippers owned
+a customs house.[^37] Within Singapore itself, however, Malay shippers owned
 just three schooners totaling 149 tonnes out of Singapore’s registry of 29,573
 tonnes of Western square-rig shipping – less than one percent of the total
-tonnage at one point during the mid-1850s.38 Though Singapore became a
+tonnage at one point during the mid-1850s.[^38] Though Singapore became a
 popular destination for shipping throughout the archipelago, few Malays
 registered any Western-style vessels there. Without acquiring these vessels,
 keeping up with long-term shipping trends became increasingly difficult.
@@ -324,9 +324,9 @@ from trade with Singapore by sending convoys of 12 to 20 *perahu*, each
 with a crew numbering between 20 and 30, as part of the Malay-Arab
 elite’s commercial enterprises. Malays held the Kampar-Singapore route
 with *nakhoda* renting vessels from the ruling elite at a tonnage rate of $30
-for a 20-tonne *perahu* in Kampar. After selling goods in Singapore, they purchased cargo and returned home.39 Malay *nakhoda* and crews all owned
+for a 20-tonne *perahu* in Kampar. After selling goods in Singapore, they purchased cargo and returned home.[^39] Malay *nakhoda* and crews all owned
 a portion of the cargo and had no substantive Chinese competition in the
-1830s because of the latter’s absence in Kampar.40 In the early 20th century,
+1830s because of the latter’s absence in Kampar.[^40] In the early 20th century,
 the royals from Pulau Penyengat purchased a steamship to ferry goods from
 the Riau Archipelago to Singapore.41 Malays outside the Malay Peninsula
 shipped goods to Singapore even into the 20th century despite, or perhaps
