@@ -2,6 +2,7 @@ collections:
   jul-to-sep-2025:
     output: true
     order:
+      - "Kung Tian Cheng: First Clerk of Raffles Library.md"
       - "From Colonial Vision to Knowledge Hub: The Story of the National
         Library.md"
       - "Lady in Red: The Former National Library on Stamford Road.md"
