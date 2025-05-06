@@ -185,19 +185,19 @@ The life of Hedwig Anuar is closely intertwined with the postcolonial developmen
 [^23]: Fiona Tan, “[Pioneers of the Archives](https://biblioasia.nlb.gov.sg/vol-15/issue-1/apr-jun-2019/pioneers-of-archives/),” _BiblioAsia_ 15, no. 1 (April–June 2019): 14–20.
 
 
-[^24]: “[Success Story of the Reading Farmer](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19690615-1.2.53),” _Straits Times_, 15 June 1969, 9; “[Bumper Crowd Sparks Carpark Crush at WTC](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19950907-1.2.65.3.1.1),” _Straits Times_, 7 September 1995, 3; Ong Sor Fern, “Book Festival Put on Ice,” _Straits Times_, 6 May 1998, 4. (From NewspaperSG)
+[^24]: “[Success Story of the Reading Farmer](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19690615-1.2.53),” _Straits Times_, 15 June 1969, 9; “[Bumper Crowd Sparks Carpark Crush at WTC](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19950907-1.2.65.3.1.1),” _Straits Times_, 7 September 1995, 3; Ong Sor Fern, “[Book Festival Put on Ice](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19980506-1.2.121.3.2),” _Straits Times_, 6 May 1998, 4. (From NewspaperSG)
 
 
-[^25]: The Society for Reading and Literacy, _The Society for Reading and Literacy: 35th Anniversary Commemorative Book_ (Singapore: The Society for Reading and Literacy, 2021), 7, 68. (From National Library Singapore, call no. RSING 428.40605957 SOC)
+[^25]: The Society for Reading and Literacy, [_The Society for Reading and Literacy: 35th Anniversary Commemorative Book_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205546537) (Singapore: The Society for Reading and Literacy, 2021), 7, 68. (From National Library Singapore, call no. RSING 428.40605957 SOC)
 
 
-[^26]: Elvira Mata, “Our Golden Girl,” _Her World_ (May 1994): 180–86. (From National Library Singapore, call no. RSING 052 HW)
+[^26]: Elvira Mata, “Our Golden Girl,” [_Her World_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4184741) (May 1994): 180–86. (From National Library Singapore, call no. RSING 052 HW)
 
 
-[^27]: Aroozoo, _Vestiges: Essays 1945–1946_, 100–02.&nbsp;
+[^27]: Aroozoo, [_Vestiges: Essays 1945–1946_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300083094), 100–02.&nbsp;
 
 
-[^28]: Aroozoo, _Vestiges: Essays 1945–1946_, 102.
+[^28]: Aroozoo, [_Vestiges: Essays 1945–1946_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300083094), 102.
 
 
 [^29]: “A Complete List of All the Her World Women of the Year Winners,” _Her World_, 4 October 2024, https://www.herworld.com/pov/people/her-world-women-of-the-year/;&nbsp; The Honoured Inductees to the Singapore Women’s Hall of Fame: Hedwig Anuar,” Singapore Council of Women’s Organisations (SCWO), last updated 11 March 2021, https://www.swhf.sg/profiles/hedwig-anuar/.
