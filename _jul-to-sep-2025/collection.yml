@@ -2,6 +2,7 @@ collections:
   jul-to-sep-2025:
     output: true
     order:
+      - A Recent History of Legal Deposit in Singapore.md
       - "Kung Tian Cheng: First Clerk of Raffles Library.md"
       - "From Colonial Vision to Knowledge Hub: The Story of the National
         Library.md"
