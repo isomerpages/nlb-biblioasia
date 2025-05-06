@@ -179,13 +179,13 @@ The life of Hedwig Anuar is closely intertwined with the postcolonial developmen
 [^21]: Hedwig Anuar, [_Blueprint for Public Library Development in Malaysia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4124874) (Kuala Lumpur: Persatuan Perpustakaan Malaysia, 1968), 86–95. (From National Library Singapore, call no. RCLOS 027.4595 ANU)
 
 
-[^22]: Kennedy Gordon Tregonning, oral history interview by 31 July 2003, transcript and MP3 audio, Reel/Disc 5 of 6, National Archives of Singapore (accession no. 002783), 55–56.
+[^22]: Kennedy Gordon Tregonning, oral history interview by 31 July 2003, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/b/bb5238fa-115e-11e3-83d5-0050568939ad-OHC002783_005/web/html5/index.html) and MP3 audio, Reel/Disc 5 of 6, National Archives of Singapore ([accession no. 002783](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/002783)), 55–56.
 
 
-[^23]: Fiona Tan, “Pioneers of the Archives,” _BiblioAsia_ 15, no. 1 (April–June 2019): 14–20.
+[^23]: Fiona Tan, “[Pioneers of the Archives](https://biblioasia.nlb.gov.sg/vol-15/issue-1/apr-jun-2019/pioneers-of-archives/),” _BiblioAsia_ 15, no. 1 (April–June 2019): 14–20.
 
 
-[^24]: “Success Story of the Reading Farmer,” _Straits Times_, 15 June 1969, 9; “Bumper Crowd Sparks Carpark Crush at WTC,” _Straits Times_, 7 September 1995, 3; Ong Sor Fern, “Book Festival Put on Ice,” _Straits Times_, 6 May 1998, 4. (From NewspaperSG)
+[^24]: “[Success Story of the Reading Farmer](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19690615-1.2.53),” _Straits Times_, 15 June 1969, 9; “[Bumper Crowd Sparks Carpark Crush at WTC](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19950907-1.2.65.3.1.1),” _Straits Times_, 7 September 1995, 3; Ong Sor Fern, “Book Festival Put on Ice,” _Straits Times_, 6 May 1998, 4. (From NewspaperSG)
 
 
 [^25]: The Society for Reading and Literacy, _The Society for Reading and Literacy: 35th Anniversary Commemorative Book_ (Singapore: The Society for Reading and Literacy, 2021), 7, 68. (From National Library Singapore, call no. RSING 428.40605957 SOC)
