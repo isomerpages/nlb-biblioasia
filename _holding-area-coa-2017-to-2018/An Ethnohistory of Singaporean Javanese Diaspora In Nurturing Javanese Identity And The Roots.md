@@ -139,5 +139,85 @@ importance of this to them:
    Orchard Road, Singapore<br>
    21 April 2018*
 
+Many Singaporean-Javanese share Sri’s (a third generation Singaporean-
+Javanese) sentiment – the romanticism of the ancient history of the Javanese
+in Tumasik is a part of respecting their ancestors and understanding the
+lineage of Javanese migration to Singapore to the present day. From that
+story, it can be inferred that the oral tradition is the foremost method in
+transmitting stories of one’s roots in human culture. Supporting this idea
+is existing literature that states that remembering ancestors is a basic part
+of human culture (Fairley, 2003; Geana, 2005; Levitt, 2010; Schenider,
+2008;, Schraam, 2010). Generally, tales about one’s ancestors are passed
+down through the generations through storytelling, at least within families.
+Among the Singaporean-Javanese, there are several stories that are recalled
+and shared, such as the story of Javanese Singhasari-Majapahit kingdoms
+in Tumasik, the story of ancestral migration during Islamic Hajj during
+the colonial era, the story of being Javanese and Malay, and the story of
+reconnecting with one’s roots.
+
+According to Geana (2005:349), one of the most ancient and elaborate
+cultural acts is the devotion of the ancestral cult by remembering and also
+worshipping the deceased, the so-called memorialisation of ancestors that
+answers a fundamental need of humans – the need to remember. This can
+be done by recalling a story of origins that employs genealogies of human
+history (Schraam, 2010:23). According to Schenider (2008:2), telling stories
+is how people construct meaning from memory, but the process is selective and many factors influence which stories are told. Repeating stories of and
+about ancestors, or so-called *Ngeling-eling* in the Javanese language, is one
+of the pillars of Javanese culture. Repeating ancestral stories is also linked to
+a search for selfhood for diasporic people. *Ngeling-ngeling* can be deduced
+as a part of cultivating Javanese identity and maintaining Javanese heritage.
+This can be done by several modes: retelling stories of one’s roots, as well as
+cultivating and finding one’s roots.
+
+This is in line with the wise Javanese saying: “Javanese people without
+the knowledge of their past history is [sic] like a tree without roots, *koyo
+kacang lali kulite* (such as a peanut forgetting its nutshell)”. This is what
+Arora and Sanos (2011:91) call the melancholia of diaspora, where the
+diasporic imagination is filled with stories of loss, past memories and
+recalling history. In the case of Singaporean-Javanese diaspora, recalling
+a story of ancestors can be done by referring to the archeological
+evidence found at Bukit Larangan that shows the Javanese Singhasari-
+Majapahit civilisation in Tumasik as well as modern migration during
+the colonial era.
+
+In fact, the archaeological evidence comprising Javanese-Majapahit
+jewellery, unearthed during excavations in Bukit Larangan between
+1926 and 1928, indicates that Javanese civilisations existed in Singapore
+since the 14th century (Anne and Lim, 2017:4; Bastin, 1994:5 Kwa, Heng
+and Tan, 2009:14; Miksic and Gek, 2004:17; Turnbull, 1989:19; Yeo,
+2017:24). According to a verse in *Nagarakrtagama*2 written in Kawi, an
+ancient Javanese language (Riana, 2009:99),3 Tumasik was a vassal of the
+Javanese-Majapahit kingdom (Robson, 1995:2).
+
+In line with *Nagarakrtagama*, Singapore is also mentioned in the
+majestic pledge4 of Gadjah Mada during his inauguration as Majapahit
+Amangkubhumi (prime minister) in 1336 CE (Hazra, 2007:40). In addition,
+in 1275 CE (prior to the Majapahit period), Kertanegara from the Singhasari
+kingdom invaded Malayu under the Pamalayu expedition as narrated in
+*Pararaton* and *Nagarakertagama* after Kertanegara’s great victory in attacking
+Jambi and Palembang (Adji and Achmad, 2013:94; Barwise and White,
+2012:69; Blagden, 1909:23; Hall, 1960:67; Munoz, 2006:262; Ricklefs,
+2001:22; Rouffaer and Winstedt, 1922:56). The Pamalayu expedition in 1187
+caka, or 1275 CE, is also mentioned in the texts *Pararaton*, *Kidung Panji
+Wijayakrama*, *Kidung Harsawijaya* and *Nagarakrtagama pupuh 41* (Muljana,
+2011:112-113).
+
+Written historical records depicting the Javanese civilisation in Singapore
+after the decline of Majapahit are scarce.5 Singapore was subsequently
+governed under the reign of the Johore-Riau-Lingga Sultanate (Rahim,
+2006:521).6 When Raffles arrived in Singapore, there were already
+indigenous people, including Malays living in *kampongs* (villages) and
+Orang Laut (sea gypsies comprising the Orang Kallang, Orang Seletar/
+Slitar, Orang Selat and Orang Gelam), living around the mouth of the Singapore River, Kallang River, Telok Blangah and along the Johor Straits
+(Diagana and Angresh, 2013:21).
+
+The story of the Javanese in Tumasik can be considered as the pride of
+Singaporean-Javanese in modern Singapore, representing the spirit of
+exploration of the Javanese in modern Singapore. The story of the
+Javanese during the Majapahit and Singhasari eras in Tumasik also
+underscores the importance of commemorating *simbah* (literally
+translated as ancestors in Javanese) as part of nurturing ancestral
+roots and cultivating Javanese identity.
+
 
 
