@@ -203,6 +203,9 @@ and Tan, 2009:14; Miksic and Gek, 2004:17; Turnbull, 1989:19; Yeo,
 ancient Javanese language (Riana, 2009:99),3 Tumasik was a vassal of the
 Javanese-Majapahit kingdom (Robson, 1995:2).
 
+<img src="/images/COA%202017%20to%202018/Ethnohistory%20of%20Singaporean/verse.jpg" style="width:80%;">
+ <div style="background-color: white;">The verse in <i>Nagarakrtagama</i> mentions Tumasik (Singapore) as part of the Majapahit empire. <i>Image source: I Ketut Riana, Kakawin Desa Warnnana Uthawi Nagara Krtagama: Masa Keemasan Majapahit (Jakarta: Penerbit Buku Kompas, 2009), 99.</i></div>
+
 In line with *Nagarakrtagama*, Singapore is also mentioned in the
 majestic pledge4 of Gadjah Mada during his inauguration as Majapahit
 Amangkubhumi (prime minister) in 1336 CE (Hazra, 2007:40). In addition,
