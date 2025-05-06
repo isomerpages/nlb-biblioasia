@@ -115,100 +115,99 @@ The life of Hedwig Anuar is closely intertwined with the postcolonial developmen
 
 #### **Notes**
 
-[^1]: 
+[^1]:  Hedwig Aroozoo, “School Libraries,” in _Vestiges: Essays 1945–1946_ (Singapore: Word Image, 2024), 68–69. (From National Library Singapore, call no. RSING 025.1970092 ANU)
 
+[^2]: Rebecca Chua, “A Lifetime of Reading,” _Straits Times_, 31 August 1985, 1. (From NewspaperSG)
 
-[^2]: 
 
+[^3]: Melanie Chew, _A Pyramid of Public Service: The Pyramid 1963–2005_ (Singapore: SNP Editions, 2005), 86. (From National Library Singapore, call no. RSING 367.95957 CHE)
 
-[^3]: 
 
+[^4]: Chew,&nbsp; _A Pyramid of Public Service_, 87.&nbsp;
 
-[^4]: 
 
+[^5]: Hedwig Anuar, “Recollections of a Pioneer, 1955–1980,” in _Library Association of Singapore Silver Jubilee, 1955–1980_ (Singapore: The Library Association of Singapore, 1980), 25–27. (From National Library Singapore, call no. RSING 020.6225957 LIB)
 
-[^5]: 
 
+[^6]: Wilfred J. Plumbe, _The Golden Pagoda Tree: Adventures in Southeast Asia_ (London: Grey Seal, 1990), 81. (From National Library Singapore, call no. RSING 915.90453 PLU)
 
-[^6]: 
 
+[^7]: Wilfred J. Plumbe, “LAS Silver Jubilee Souvenir Magazine,” in _Library Association of Singapore Silver Jubilee, 1955–1980_ (Singapore: The Library Association of Singapore, 1980), 11–13. (From National Library Singapore, call no. RSING 020.6225957 LIB)
 
-[^7]: 
 
+[^8]: _Malayan Library Group Newsletter_ 1, no. 2 (October 1955): 36. (From National Library Singapore, call no. RCLOS 020.5 MLG); Chew, _A Pyramid of Public Service_, 88.&nbsp;
 
-[^8]: 
 
+[^9]: Sonny Yap, _Men in White: The Untold Story of Singapore’s Ruling Political Party_ (Singapore: Straits Times Press, 2009–2010), 10. (From National Library Singapore, call no. RSING 324.25957 YAP); M. Tharmalingam, “Malayan Forum: Then and Now,” _Suara Merdeka: Organ of the&nbsp; Malayan Forum_ (February 1956): 16. (From National Library Singapore, call no. RCLOS 320.9595 SM)
 
-[^9]: 
 
+[^10]: “‘New Statesman’ on Baling,” _Suara Merdeka: Organ of the&nbsp; Malayan Forum_ (31 January 1956): 3–5. (From National Library Singapore, call no. RCLOS 320.9595 SM)
 
-[^10]: 
 
 
+[^11]: S. Raja Ratnam, “When Malaya Ruled Britain,” _Suara Merdeka: Organ of the Malayan Forum_ (February 1956). (From National Library Singapore, call no. RCLOS 320.9595 SM)
 
-[^11]: 
 
+[^12]: K.K. Seet, _A Place for the People_ (Singapore: Times Books International, 1983), 120. (From National Library Singapore, call no. RSING 027.55957 SEE); Chew, _A Pyramid of Public Service_, 90.&nbsp;
 
-[^12]: 
 
+[^13]: “Removal of Library,” _Straits Times_, 4 October 1960, 4; “New Raffles Library Is Now Open,” _Straits Times_, 3 November 1960, 4. (From NewspaperSG)
 
-[^13]: 
 
+[^14]: Chan Thye Seng, oral history interview by Jason Lim, 12 July 2000, transcript and MP3 audio, Reel/Disc 11 of 15, National Archives of Singapore (accession no. 002265), 118–19.
 
-[^14]: 
 
+[^15]: Magdalene Lum, “I Couldn't Forget Bomb Scare,_” Straits Times_, 14 March 1999, 11. (From NewspaperSG)
 
-[^15]: 
 
+[^16]: Lim Peng Han, “The Teachers’ Training College/Institute of Education Library in Post War Singapore, 1950–1991: A Historical Perspective,” _Malaysian Journal of Library &amp; Information Science_ 17 no. 1 (April 2012): 93–106. (From National Library Singapore, call no. 025.52409595 MJLIS)
 
-[^16]: 
 
+[^17]: “New Library Service for 15–19 Age Group,” _Straits Times_, 14 April 1966, 9. (From NewspaperSG)
 
-[^17]: 
 
+[^18]: “New Mobile Library Service to Schools,” _Singapore Free Press_, 5 September 1960, 11; “National Library to Open on Sundays from Jan 2,” _Straits Times_, 25 November 1990, 30. (From NewspaperSG)
 
-[^18]: 
 
+[^19]: Russell Lim, “Queenstown Library Goes On-line,” _Straits Times_, 24 October 1987, 17;&nbsp; Lois Ng, “Computers Now Zip You Through Library,” _New Paper_, 13 September 1968, 6; Serena Toh, “Farewell of Surprises As Library Legend Hedwig Anuar Retires,” _Straits Times_, 20 November 1988, 20. (From NewspaperSG)
 
-[^19]: 
 
+[^20]: Serena Toh, “Library Head All Set for New Career,” _Straits Times_, 1 October 1988. (From NewspaperSG)
 
-[^20]: 
 
 
+[^21]: Hedwig Anuar, _Blueprint for Public Library Development in Malaysia_ (Kuala Lumpur: Persatuan Perpustakaan Malaysia, 1968), 86–95. (From National Library Singapore, call no. RCLOS 027.4595 ANU)
 
-[^21]: 
 
+[^22]: Kennedy Gordon Tregonning, oral history interview by 31 July 2003, transcript and MP3 audio, Reel/Disc 5 of 6, National Archives of Singapore (accession no. 002783), 55–56.
 
-[^22]: 
 
+[^23]: Fiona Tan, “Pioneers of the Archives,” _BiblioAsia_ 15, no. 1 (April–June 2019): 14–20.
 
-[^23]: 
 
+[^24]: “Success Story of the Reading Farmer,” _Straits Times_, 15 June 1969, 9; “Bumper Crowd Sparks Carpark Crush at WTC,” _Straits Times_, 7 September 1995, 3; Ong Sor Fern, “Book Festival Put on Ice,” _Straits Times_, 6 May 1998, 4. (From NewspaperSG)
 
-[^24]: 
 
+[^25]: The Society for Reading and Literacy, _The Society for Reading and Literacy: 35th Anniversary Commemorative Book_ (Singapore: The Society for Reading and Literacy, 2021), 7, 68. (From National Library Singapore, call no. RSING 428.40605957 SOC)
 
-[^25]: 
 
+[^26]: Elvira Mata, “Our Golden Girl,” _Her World_ (May 1994): 180–86. (From National Library Singapore, call no. RSING 052 HW)
 
-[^26]: 
 
+[^27]: Aroozoo, _Vestiges: Essays 1945–1946_, 100–02.&nbsp;
 
-[^27]: 
 
+[^28]: Aroozoo, _Vestiges: Essays 1945–1946_, 102.
 
-[^28]: 
 
+[^29]: “A Complete List of All the Her World Women of the Year Winners,” _Her World_, 4 October 2024, https://www.herworld.com/pov/people/her-world-women-of-the-year/;&nbsp; The Honoured Inductees to the Singapore Women’s Hall of Fame: Hedwig Anuar,” Singapore Council of Women’s Organisations (SCWO), last updated 11 March 2021, https://www.swhf.sg/profiles/hedwig-anuar/.
 
-[^29]: 
 
+[^30]: Wong Heng, oral history interview by Jason Lim, 28 January 2000, transcript and MP3 audio, Reel/Disc 11 of 13, National Archives of Singapore (accession no. 001702), 138.
 
-[^30]: 
 
 
+[^31]: Sabaratnam Selvarani, “Library Education and Training: The Singapore Scenario,” in _Introduction to ASEAN Librarianship: Library Education and Training_, ed. Khunying Maenmas Chavalit (Kuala Lumpur: ASEAN Committee on Culture and Information, 1993), 107–37. (From National Library Singapore, call no. RSING 026.00959 INT)
 
-[^31]: 
 
-
-[^32]:
+[^32]: R. Ramachandran and Chan Fook Weng, “Library Development in Singapore: An Overview,” _Singapore Libraries_ 25, no. 1 (1996): 3–23. (From National Library Singapore, call no. RSING 020.5 SL-\[LIB\])
