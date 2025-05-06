@@ -82,7 +82,13 @@ In September 1960, Anuar launched the mobile library service to schools just two
 
 Anuar also initiated the process of building fulltime branch libraries rather than continuing to operate part-time branch libraries with limited opening hours. Starting with Queenstown Branch Library in 1970 and Toa Payoh in 1974, this would steadily grow into a network of six such fulltime branch libraries by her retirement in 1988. The collection of vernacular language books (Malay, Tamil and Chinese) was also expanded to cater to Singapore’s general population.
 
+![](/images/Vol%2021%20Issue%202/Hedwig%20%20%20First%20Lady/hedwig2_salute.jpg)
+<div style="background-color:white;">Hedwig Anuar was given a “Books of Honour” salute by library staff at her retirement dinner, 1988. <i>Hedwig Anuar Collection, National Library Singapore.</i></div>
+
 One of Anuar’s final initiatives as director was the computerisation of the library’s card catalogue, as well as the membership database and the borrowing system in the 1980s. While the initial report on computerisation was released in 1975, it was only in October 1987 that the first library was computerised – the Queenstown Library. The National Library on Stamford Road was computerised in August 1988, just before Anuar retired in November that year. [^19] As a result, book borrowing took a matter of seconds instead of minutes. By the time Anuar retired, membership with the National Library had grown from 43,000 to over 330,000. [^20]
+
+![](/images/Vol%2021%20Issue%202/Hedwig%20%20%20First%20Lady/hedwig2_computer.jpg)
+<div style="background-color:white;">Hedwig Anuar led the computerisation of the library’s card catalogue, as well as the membership database and the borrowing system in the 1980s. <i>Collection of the National Library Singapore. </i></div>
 
 Her work in developing libraries was not limited to Singapore. In 1960, the Library Association of Malaya and Singapore was split into two entities: Library Association of Singapore and Persatuan Perpustakaan Tanah Melayu (Library Association of Malaya). As one of the few respected and qualified librarians in Malaya, the Malayan government requested her services in drafting a plan for developing the public libraries in the Federation of Malaya.&nbsp;
 
