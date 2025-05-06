@@ -1,6 +1,6 @@
 ---
 title: "Kung Tian Cheng: First Clerk of Raffles Library"
-permalink: /holding-area/vol-21/issue-2/jul-sep-2025/kung-tian-cheng-first-clerk-of-raffles-library/
+permalink: /holding-area/vol-21/issue-2/jul-sep-2025/kung-tian-cheng-first-clerk-raffles-library/
 variant: markdown
 description: ""
 ---
@@ -9,18 +9,22 @@ By Bonny Tan
 
 
 ![](/images/Vol%2021%20Issue%202/Kung%20Tian/kungtian_main.jpg)
-<div style="background-color:white;">An undated portrait of Kung Tian Cheng. <i> Image reproduced from Song Ong Siang, One Hundred Years’ History of the Chinese in Singapore (London: John Murray, 1923). 511. Collection of the National Library Singapore (call no. RRARE 959.57 SON). </i></div>
+<div style="background-color:white;">An undated portrait of Kung Tian Cheng. <i> Image reproduced from Song Ong Siang, One Hundred Years’ History of the Chinese in Singapore (London: John Murray, 1923), 511. Collection of the National Library Singapore (call no. RRARE 959.57 SON). </i></div>
 
-In 1905, the Raffles Library and Museum, the predecessor to the National Library Singapore, published a 636-page book titled _Catalogue of the Raffles Library, Singapore 1900_.[^1] The massive tome reflected the library’s holdings of more than 26,000 volumes, an almost 10-fold increase from 30 years prior. &nbsp;
+In 1905, the Raffles Library (predecessor to the National Library Singapore) published a 636-page book titled _Catalogue of the Raffles Library, Singapore 1900_.[^1] The massive tome reflected the library’s holdings of more than 26,000 volumes, an almost 10-fold increase from 30 years prior. &nbsp;
 
 ![](/images/Vol%2021%20Issue%202/Kung%20Tian/kungtian_catalogue.jpg)
 <div style="background-color:white;"> The title page and first page of the <i>Catalogue of the Raffles Library, Singapore 1900</i>, published in 1905. <i> Collection of the National Library Singapore.</i></div>
 
 Curator-Librarian Karl Richard Hanitsch emphasised that the compilation of the catalogue “entailed much extra work on the Library staff” and singled out one person in particular: “I must especially acknowledge the excellent work of the First Clerk, Mr.&nbsp;Kong Tian Cheng, whose assistance alone has made the issue of the catalogue possible.”[^2]
 
+
+![](/images/Vol%2021%20Issue%202/Kung%20Tian/kungtian_karl.jpg)
+<div style="background-color:white;">Karl Richard Hanitsch, curator and librarian of the Raffles Library and Museum, 1921. <i> Image reproduced from Walter Makepeace, Gilbert E. Brooke and Roland St J. Braddell, eds., One Hundred Years of Singapore (London: John Murray, 1921), 566. Collection of the National Library Singapore (call no. RRARE 959.57 ONE).</i></div>
+
 After making his mark at the Raffles Library, Kung headed for revolutionary China in the 1910s where, among other things, he was the biographer and librarian for Yuan Shikai, the first official president of the Republic of China. Such was his fame that Kung merited a write-up in Song Ong Siang’s tome, _One Hundred Years’ History of the Chinese in Singapore_, first published in 1923.[^3]
 
-A descendant of Confucius, Kung was born in Melaka on 17 June 1879. His father, Kung Chow Ching, moved to Melaka from Yantai (Zhifu), Shandong, in 1876. Kung’s father died a few years after the boy was born and the widowed mother moved to Singapore where she was able to place both Kung and his elder brother, Kung Tian Siong, at the newly opened Anglo-Chinese School on Coleman Street.&nbsp;
+A descendant of Confucius, Kung was born in Melaka on 17 June 1879. His father, Kung Chow Ching, moved to Melaka from Yantai (Zhifu), Shandong, in 1876. Kung’s father died a few years after the boy was born and the widowed mother moved to Singapore where she was able to&nbsp;enrol&nbsp;both Kung and his elder brother, Kung Tian Siong, at the newly opened Anglo-Chinese School on Coleman Street.
 
 ![](/images/Vol%2021%20Issue%202/Kung%20Tian/kungtian_family.jpg)
 <div style="background-color:white;">The Kung family, 1899, Singapore. Kung Tian Cheng is standing on the extreme left and his wife Pang Ah Kang is seated at the extreme left. His mother Mrs Kung Chow Ching is seated in the centre with daughters Ah Yin (later Marie-Therese Wong) to her right, Ah Chow to her left and Cheng Neo behind. Standing on the right is his brother Kung Tian Siong and his brother’s wife Siauw Mah Lee is seated at the extreme right. <i> Irene Lim Family Collection, National Library Singapore.</i></div>
@@ -37,9 +41,13 @@ Hanitsch noted that in compiling the catalogues, Kung had “obtained a most tho
 
 Kung was also active in several other institutions, both as a librarian and as a writer. He wrote for the _Straits Chinese Magazine_, edited by Song Ong Siang and Lim Boon Keng, which served as a platform for articulating the complex identity of the Straits Chinese caught between local and overseas politics.[^12]
 
+
+![](/images/vol-11-issue-4/a-magazine-straits-chinese/C3.JPG)
+<div style="background-color:white;">The title page of the first issue of&nbsp;the&nbsp;<i>Straits Chinese Magazine</i>,&nbsp;March 1897.<i> Collection of the National Library Singapore (call no. RRARE 959.57 STR).</i></div>
+
 Kung first released the _Catalogue of Literature Relating to China_ in instalments in this magazine between September 1899 and the end of 1900. He also volunteered as a Librarian at the Chinese Christian Association from 1898 through to 1905.[^13]
 
-Kung resigned from the Raffles Library on 8 April 1906, purportedly to move into business.[^14] By 1907, Kung had been appointed guardian and teacher of the sons of Yau Tet Shin, a mining tycoon and famed town builder of Ipoh.[^15] Kung decided to relocate to India where his young charges were studying. Upon the completion of their studies in India, Yau’s sons returned to Ipoh via Penang in late 1910.[^16]Kung and his brother headed to China after this.&nbsp;
+Kung resigned from the Raffles Library on 8 April 1906, purportedly to move into business.[^14] By 1907, Kung had been appointed guardian and teacher of the sons of Yau Tet Shin, a mining tycoon and famed town builder of Ipoh.[^15] Kung decided to relocate to India where his young charges were studying. Upon the completion of their studies in India, Yau’s sons returned to Ipoh via Penang in late 1910.[^16] Kung and his brother headed to China after this.&nbsp;
 
 Throughout his travels in China, Kung would continue to remember the Raffles Library and Museum through donations of rare books, unusual coins and figurines collected from China.[^17]
 
