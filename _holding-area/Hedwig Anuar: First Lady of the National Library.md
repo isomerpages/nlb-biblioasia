@@ -115,33 +115,33 @@ The life of Hedwig Anuar is closely intertwined with the postcolonial developmen
 
 #### **Notes**
 
-[^1]:  Hedwig Aroozoo, “School Libraries,” in _Vestiges: Essays 1945–1946_ (Singapore: Word Image, 2024), 68–69. (From National Library Singapore, call no. RSING 025.1970092 ANU)
+[^1]:  Hedwig Aroozoo, “School Libraries,” in [_Vestiges: Essays 1945–1946_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300083094) (Singapore: Word Image, 2024), 68–69. (From National Library Singapore, call no. RSING 025.1970092 ANU)
 
-[^2]: Rebecca Chua, “A Lifetime of Reading,” _Straits Times_, 31 August 1985, 1. (From NewspaperSG)
-
-
-[^3]: Melanie Chew, _A Pyramid of Public Service: The Pyramid 1963–2005_ (Singapore: SNP Editions, 2005), 86. (From National Library Singapore, call no. RSING 367.95957 CHE)
+[^2]: Rebecca Chua, “[A Lifetime of Reading](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19850831-1.2.84.2.1),” _Straits Times_, 31 August 1985, 1. (From NewspaperSG)
 
 
-[^4]: Chew,&nbsp; _A Pyramid of Public Service_, 87.&nbsp;
+[^3]: Melanie Chew, [_A Pyramid of Public Service: The Pyramid 1963–2005_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12474710) (Singapore: SNP Editions, 2005), 86. (From National Library Singapore, call no. RSING 367.95957 CHE)
 
 
-[^5]: Hedwig Anuar, “Recollections of a Pioneer, 1955–1980,” in _Library Association of Singapore Silver Jubilee, 1955–1980_ (Singapore: The Library Association of Singapore, 1980), 25–27. (From National Library Singapore, call no. RSING 020.6225957 LIB)
+[^4]: Chew,&nbsp; [_A Pyramid of Public Service_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12474710), 87.&nbsp;
 
 
-[^6]: Wilfred J. Plumbe, _The Golden Pagoda Tree: Adventures in Southeast Asia_ (London: Grey Seal, 1990), 81. (From National Library Singapore, call no. RSING 915.90453 PLU)
+[^5]: Hedwig Anuar, “Recollections of a Pioneer, 1955–1980,” in [_Library Association of Singapore Silver Jubilee, 1955–1980_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4183435) (Singapore: The Library Association of Singapore, 1980), 25–27. (From National Library Singapore, call no. RSING 020.6225957 LIB)
 
 
-[^7]: Wilfred J. Plumbe, “LAS Silver Jubilee Souvenir Magazine,” in _Library Association of Singapore Silver Jubilee, 1955–1980_ (Singapore: The Library Association of Singapore, 1980), 11–13. (From National Library Singapore, call no. RSING 020.6225957 LIB)
+[^6]: Wilfred J. Plumbe, [_The Golden Pagoda Tree: Adventures in Southeast Asia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5682438) (London: Grey Seal, 1990), 81. (From National Library Singapore, call no. RSING 915.90453 PLU)
 
 
-[^8]: _Malayan Library Group Newsletter_ 1, no. 2 (October 1955): 36. (From National Library Singapore, call no. RCLOS 020.5 MLG); Chew, _A Pyramid of Public Service_, 88.&nbsp;
+[^7]: Wilfred J. Plumbe, “LAS Silver Jubilee Souvenir Magazine,” in [_Library Association of Singapore Silver Jubilee, 1955–1980_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4183435) (Singapore: The Library Association of Singapore, 1980), 11–13. (From National Library Singapore, call no. RSING 020.6225957 LIB)
 
 
-[^9]: Sonny Yap, _Men in White: The Untold Story of Singapore’s Ruling Political Party_ (Singapore: Straits Times Press, 2009–2010), 10. (From National Library Singapore, call no. RSING 324.25957 YAP); M. Tharmalingam, “Malayan Forum: Then and Now,” _Suara Merdeka: Organ of the&nbsp; Malayan Forum_ (February 1956): 16. (From National Library Singapore, call no. RCLOS 320.9595 SM)
+[^8]: [_Malayan Library Group Newsletter_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200032781) 1, no. 2 (October 1955): 36. (From National Library Singapore, call no. RCLOS 020.5 MLG); Chew, [_A Pyramid of Public Service_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12474710), 88.&nbsp;
 
 
-[^10]: “‘New Statesman’ on Baling,” _Suara Merdeka: Organ of the&nbsp; Malayan Forum_ (31 January 1956): 3–5. (From National Library Singapore, call no. RCLOS 320.9595 SM)
+[^9]: Sonny Yap, [_Men in White: The Untold Story of Singapore’s Ruling Political Party_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13231750) (Singapore: Straits Times Press, 2009–2010), 10. (From National Library Singapore, call no. RSING 324.25957 YAP); M. Tharmalingam, “Malayan Forum: Then and Now,” [_Suara Merdeka: Organ of the&nbsp; Malayan Forum_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5604684) (February 1956): 16. (From National Library Singapore, call no. RCLOS 320.9595 SM)
+
+
+[^10]: “‘New Statesman’ on Baling,” [_Suara Merdeka: Organ of the&nbsp; Malayan Forum_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5604684) (31 January 1956): 3–5. (From National Library Singapore, call no. RCLOS 320.9595 SM)
 
 
 
