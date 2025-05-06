@@ -61,7 +61,6 @@ this would in turn encourage them to go on a roots journey to Java.
  <div style="background-color: white;">Jewellery from the Majapahit empire found in Singapore – a pair of earrings and an armlet
 featuring the typical Majapahit demoniac Kala – on display at the National Museum of Singapore.Javanese dancers performing at the exhibition’s opening. <i>Courtesy of Fuji Prastowo, 2018</i></div>
 
-
 In the 2010 census of Singapore, 88,646 Singaporeans identified themselves
 as “Javanese” (Singapore Department of Statistics, 2010:46). However, many
 Singaporeans are still unaware of the history of the Javanese in Singapore.
@@ -218,6 +217,9 @@ Jambi and Palembang (Adji and Achmad, 2013:94; Barwise and White,
 caka, or 1275 CE, is also mentioned in the texts *Pararaton*, *Kidung Panji
 Wijayakrama*, *Kidung Harsawijaya* and *Nagarakrtagama pupuh 41* (Muljana,
 2011:112-113).
+
+<img src="/images/COA%202017%20to%202018/Ethnohistory%20of%20Singaporean/Majapahit_Territory.jpg" style="width:100%;">
+ <div style="background-color: white;">The Majapahit territory as depicted in court poem <i>Nagarakrtagama</i>.  <i>Image source: Damar Shashangka, Sabda Palon III: Geger Majapahit (Jakarta: Penerbit Dolphin,2013),  4.</i></div>
 
 Written historical records depicting the Javanese civilisation in Singapore
 after the decline of Majapahit are scarce.5 Singapore was subsequently
