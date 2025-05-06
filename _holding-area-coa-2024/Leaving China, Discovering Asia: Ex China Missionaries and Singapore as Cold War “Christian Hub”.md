@@ -173,7 +173,7 @@ Tracing the transition of the 1950s, where the theological resources of British 
 
 [^25]: Anderson and Smith, _The Anderson-Smith Report on Theological Education in Southeast Asia_, 25.
 
-[^26]: Trinity Theological College (Singapore),&nbsp;[_Progress Report from Trinity Theological College, Singapore_](https://eservice.nlb.gov.sg/redir/item_holding.aspx?bid=200039371)&nbsp;(Singapore: Trinity Theological College, 1966). (From PublicationSG)
+[^26]: Trinity Theological College (Singapore), _[Progress Report from Trinity Theological College, Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200039371)_ (Singapore: Trinity Theological College, 1966). (From PublicationSG)
 
 [^27]: Conference of British Missionary Societies, “[Conference of British Missionary Societies: University of Malaya: \[d\] Trinity College, Singapore, 1951–1958](https://www.nas.gov.sg/archivesonline/private_records/record-details/e185d639-115b-11e3-83d5-0050568939ad),” J. W. Decker to Norman Goodall, 27 March 1951, private records. (From National Archives of Singapore, microfilm no. NAF 00020/1)
 
