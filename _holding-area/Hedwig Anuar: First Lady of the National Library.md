@@ -135,7 +135,7 @@ The life of Hedwig Anuar is closely intertwined with the postcolonial developmen
 
 
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src="/images/Authors/DrJohnBray2.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/TimothyPwee.png">
 <b>Timothy Pwee</b> is a Senior Librarian with the National Library Singapore. His interests range from Singapore’s business and natural history to its daily life and religion. Having joined the library in the 1990s, he has always heard about the legendary Hedwig Anuar and is now exploring her legacy. </div>
 
 #### **Notes**
