@@ -218,3 +218,62 @@ Javanese during the Majapahit and Singhasari eras in Tumasik also
 underscores the importance of commemorating *simbah* (literally
 translated as ancestors in Javanese) as part of nurturing ancestral
 roots and cultivating Javanese identity.
+
+#### **Nurturing Javanese Identity in the Malay Community**
+Most discussions of diaspora are firmly rooted in the concepts of
+homeland and identity (see e.g. Arora and Sanos, 2011; Brienkerhoff, 2009;
+Drzewiecka, 2002; Esman, 2009; Oonk, 2007; Peachey, 2011; Safran, 1999;
+Zhao, 2008). One difficulty with the use of the word “identity” is that
+different disciplines use the term to mean different things. According to
+Peachey (2011:14), the term “identity” within diaspora studies is concerned
+with the sense of a people’s conceptualisation of self; the ways in which
+people subjectively perceive or experience themselves in host societies
+through names, labels and identification. From Peachey, it can be inferred
+that diasporic people need to actualise themselves with specific names, labels
+and identification. Hence, Singaporean society may recognise the existence
+of Singaporean-Javanese within the Malay community through their
+adherence to the Javanese identity.
+
+To support the argument, this section elucidates some of the existing
+literature that describes the preservation of cultural heritage and identity.
+Levitt (2010:42) reveals that diasporic people strongly reinforce homeland
+ties by cultivating “the identity of origin”. Supporting Levitt, Allen
+(2013:3) says that to cultivate the identity of origin, diasporic people
+establish and reaffirm their ethnic identity in new places by reconstructing
+an imagined homeland. Other arguments related to theoretical concepts
+are that nurturing one’s historical ethnic background is important for
+diasporic people to commemorate ancestral memories (Leong, 2014;
+Marschall, 2013), to cultivate ancestral identity (Bhandari, 2013; Naho and
+Stronza, 2010; Marschall, 2014), and to romanticise “a home identity”
+(Bandyopadhyay, 2008; Man, 2014). Therefore, in this section it can be
+argued that by maintaining Javanese cultural heritage within the Malay community, Singaporean-Javanese also strengthen their identities
+as Javanese.
+
+At present, the Javanese in Singapore are often linked to the Malays.
+In Singapore’s national context, Malay is used as a race category by the
+government and as an ethnic group referring to the indigenous people of
+Singapore (Ibrahim, 2014:2; Rahim, 2006:521). According to Suryakencana
+Omar, head of the Javanese Association of Singapore (JAS), the earliest
+historical data [as noted by Amin (2017:215–216)] of contemporary Javanese in Singapore dates back to the 1820s.7 The 1980 population census
+states that the Malay include all persons of Malay or Indonesian origin
+such as Malays, Javanese, Boyanese and Bugis, by means of a patrilineal
+system (Amin, 2017:200).
+
+To minimise social conflict among the early immigrants in Singapore,
+Raffles, along with his government, formulated a town plan (also called
+the Jackson Plan) in 1822 to divide residential land based on the different
+races in Singapore (Anne and Lim, 2017:24). These ethnic-based areas were
+assigned names such as Kampong Java and Kampong Bugis.8 Over time,
+close interactions and shared religious values among immigrant communities resulted in the Javanese being labelled as Malay. This made it difficult for the
+Javanese identity to stand alone, as shared by Suryakencana Omar:
+
+   *“Being Javanese among the Malay community in Singapore is not<br> 
+   an easy task as we [have to] work much harder in nurturing our<br> 
+   identity than the Javanese in Java, who have a ‘taken for granted<br> 
+   identity’ from the ancestors.”<br><br> <br>  
+   Interview with Suryakencana Omar<br> 
+   Malay Heritage Centre, Singapore<br> 
+   24 February 2018*
+
+
+
