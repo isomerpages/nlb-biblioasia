@@ -328,7 +328,7 @@ for a 20-tonne *perahu* in Kampar. After selling goods in Singapore, they purcha
 a portion of the cargo and had no substantive Chinese competition in the
 1830s because of the latter’s absence in Kampar.[^40] In the early 20th century,
 the royals from Pulau Penyengat purchased a steamship to ferry goods from
-the Riau Archipelago to Singapore.41 Malays outside the Malay Peninsula
+the Riau Archipelago to Singapore.[^41] Malays outside the Malay Peninsula
 shipped goods to Singapore even into the 20th century despite, or perhaps
 because of, the liberal shipping policies enacted by the Straits Settlements.
 
@@ -343,7 +343,7 @@ member, Chuang Bunnag, disliked the old system because taxes oppressed
 the poor and limited the goods available for export. Chuang Bunnag
 sought British support to remove the entrenched power structures through
 the Bowring Treaty (signed in 1855 between Great Britain and Siam to
-facilitate greater trade among other issues).42 The Siamese had a system akin
+facilitate greater trade among other issues).[^42] The Siamese had a system akin
 to the Malay *kerajaan* economics structure and used British influence to
 undermine the previous system. Unlike the Malay *rajas*, Siam transformed
 its economy without sacrificing its sovereignty but at the cost of its previous
@@ -358,7 +358,7 @@ for naval patrols and various government functions. Additionally, the
 Siamese government constructed new sailing vessels as part of its building
 programme during the 1850s. Eventually, both government- and civilianowned
 steam vessels became more common in Siamese waters, with even
-Chinese merchants there acquiring steam vessels.43 The acquisition of steam
+Chinese merchants there acquiring steam vessels.[^43] The acquisition of steam
 vessels and the development of Siam’s shipping industry during the second
 half of the 19th century required a degree of political centralisation and
 economic reform.
@@ -369,17 +369,17 @@ Under the monopolistic system, Malay rulers employed their authority and
 monopolies to acquire goods from their people at below market-value rates
 and then sold the goods to foreign merchants. For instance, the *temenggong*
 in Singapore purchased *agar-agar*, a type of seaweed, as per tradition at
-$6 for 12 *pikuls*, even though its market prices ranged from $30 to $40.44
+$6 for 12 *pikuls*, even though its market prices ranged from $30 to $40.[^44] 
 The Malay elites then sold the goods they received at much higher prices.
 A monopoly on foreign trade resulted in higher prices than if foreigners
 bought the goods directly from producers. The Straits Settlements’ free trade
 system undermined such monopolies because foreign merchants became
 less willing to accept higher prices. This in turn eroded *kerajaan* revenues
 and contributed to political instability in Malaya because the rulers lacked
-funds to support their political bases.45 By 1837, the sultan of Kelantan
+funds to support their political bases.[^45] By 1837, the sultan of Kelantan
 had adopted “a more liberal system of trade” than other rulers in Malaya,
 attracting more merchants to his harbour by avoiding a monopolistic trade
-system.46 Malay states came under new economic pressures with *kerajaan*
+system.[^46] Malay states came under new economic pressures with *kerajaan*
 economics becoming less feasible in the face of free trade.
 
 The peninsular Malay rulers came under heavy pressure to reform their
@@ -389,12 +389,12 @@ foreign trade monopoly by compelling the *sampan-pukat* shippers to trade
 only with him. The domestic industry suffered as Chinese gold and tin
 miners went on strike and later fled rather than accept the *raja*’s conditions.
 Eventually, the *bendahara* moved from a monopoly-based system to one
-reliant more on heavy customs duties.47 Kelantan experienced dissent
+reliant more on heavy customs duties.[^47] Kelantan experienced dissent
 from Chinese miners during this period, though their motivations were
 murky. Chinese miners had killed the *temenggong* of Kelantan at Pulai,
 Kelatan, supposedly at the instigation of another Malay chief. However,
 the *temenggong*’s son avenged his father’s death by slaughtering the Chinese
-miners there.48 Though the miners’ motives for resorting to violence remains
+miners there.[^48] Though the miners’ motives for resorting to violence remains
 unclear, the incident suggested that liberalising commerce exacerbated the
 inter-factional violence within the Malay states. The economic changes of
 the 19th century shook the foundations of the *kerajaan* economics system
@@ -419,16 +419,16 @@ along Western lines.
 Despite overwhelming odds and a challenging political environment,
 Hajjah Fatimah binte Sulaiman, a peninsular Malay shipping merchant, emerged during the 19th century and set up a successful shipping firm.
 Fatimah was from a prominent family in Malacca. Her first marriage
-failed and she moved to Singapore to start afresh.49 Fatimah employed her
+failed and she moved to Singapore to start afresh.[^49] Fatimah employed her
 connections with the *rajas* of the peninsular Malay states in her trading and
 married a Bugis prince from Gowa and bore a child named Raja Siti. With
 Fatimah’s abilities and political connections, she developed a trading fleet
 of numerous *perahu* and other vessels that sailed the waters of Malaya and
-the archipelago.50 Her daughter subsequently married the son of an Arab
+the archipelago.[^50] Her daughter subsequently married the son of an Arab
 merchant in Singapore, who eventually took over her business. The business
 survived two robberies and a fire, after which the family built a mosque
 on Beach Road in Singapore where they held feasts for Muslims of all
-backgrounds twice a year.51 Fatimah, though independent of Malay rulers,
+backgrounds twice a year.[^51] Fatimah, though independent of Malay rulers,
 likely obtained success through her relationships with them and having royal
 support from her husband’s family. Perhaps Malay *rajas* had dismissed her
 as a threat because of her gender, but, in any case, she managed a shipping
@@ -441,16 +441,16 @@ the framework of *kerajaan* economics well. After witnessing the destitution
 of Pahang during his voyage in 1838, he considered the reasons for such
 poverty and determined that the “oppression and cruelty of the *rajas*”
 caused such hardship that people gave up trying to obtain wealth because
-the *rajas* seized anything of value.52 He made similar assertions about the
+the *rajas* seized anything of value.[^52] He made similar assertions about the
 corruption of Malay rule concerning Terengganu. For commoners, staying
 poor became a survival strategy because if a man obtained anything, the *raja*
 would usually demand a gift or loan. If anyone resisted, the *raja* would likely
-kill the resistors and their families.53 In Kelantan, a man reported a situation
-where *rajas* had seized homes and slaughtered those who disobeyed them.54
+kill the resistors and their families.[^53] In Kelantan, a man reported a situation
+where *rajas* had seized homes and slaughtered those who disobeyed them.[^54]
 Munshi Abdullah determined that the causes of poverty in Malay states came down to a lack of peace and security for subjects and their properties,
 where the elites perpetually mistreated their people by seizing their
 properties and killing them. As a result, the Malays lacked any incentive to
-develop the land and stayed idle.55 Such analysis by Munshi Abdullah and
+develop the land and stayed idle.[^55] Such analysis by Munshi Abdullah and
 others reflect the concept of *kerajaan* economics. Malay elites monopolised
 the economic capacity of a state out of fear that a leader might become
 strong enough to challenge them and destroy the elite’s hold on power.
@@ -564,51 +564,51 @@ Wright, Arnold. ed., [_Twentieth Century Impressions of British Malaya_](https:/
 #### **NOTES**
        
 
-1 John Crawfurd, [_History of the Indian Archipelago_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4271203), vol. 3 (London: Frank Cass &amp; Co., 1967), 142. (From National Library Singapore, call no. RCLOS 991 CRA)
+[^1]: John Crawfurd, [_History of the Indian Archipelago_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4271203), vol. 3 (London: Frank Cass &amp; Co., 1967), 142. (From National Library Singapore, call no. RCLOS 991 CRA)
 
-2 Anthony Crothers Milner, [_The Malays_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13208713) (Oxford: Wiley-Blackwell, 2008), 53–55. (From National Library Singapore, call no. RSEA 305.89928 MIL)
+[^2]: Anthony Crothers Milner, [_The Malays_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13208713) (Oxford: Wiley-Blackwell, 2008), 53–55. (From National Library Singapore, call no. RSEA 305.89928 MIL)
 
-3 Milner, [_The Malays_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13208713), 60–66.
+[^3]: Milner, [_The Malays_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13208713), 60–66.
 
-4 “A New Phase of Commercial Expansion in Southeast Asia, 1760–1850,” in [_The Last Stand of Asian Autonomies: Responses to Modernity in the Diverse States of Southeast Asia and Korea, 1750–1900_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7982211), ed. Anthony Reid. (New York: St. Martin’s Press, 1997), 65–66. (From National Library Singapore, call no. RBUS 330.95904 LAS)
+[^4]: “A New Phase of Commercial Expansion in Southeast Asia, 1760–1850,” in [_The Last Stand of Asian Autonomies: Responses to Modernity in the Diverse States of Southeast Asia and Korea, 1750–1900_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7982211), ed. Anthony Reid. (New York: St. Martin’s Press, 1997), 65–66. (From National Library Singapore, call no. RBUS 330.95904 LAS)
 
-5 Reid, “[A New Phase of Commercial Expansion in Southeast Asia, 1760–1850](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7982211),” 63.
+[^5]: Reid, “[A New Phase of Commercial Expansion in Southeast Asia, 1760–1850](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7982211),” 63.
 
-6 C. P. Holloway, _Tabular Statements of the Shipping of Singapore, Prince of Wales’ Island, and Malacca for the Official Year 1862–63_. (Calcutta: Military Orphan Press, 1864), 122–23.
+[^6]: C. P. Holloway, _Tabular Statements of the Shipping of Singapore, Prince of Wales’ Island, and Malacca for the Official Year 1862–63_. (Calcutta: Military Orphan Press, 1864), 122–23.
 
-7 Nordin Hussin, [_Trade and Society in the Straits of Melaka: Dutch Melaka and English Penang, 1780–1830_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12829152) (Singapore: NUS Press, 2007), 119. (From National Library Singapore, call no. RSEA 959.503 NOR)
+[^7]:  Nordin Hussin, [_Trade and Society in the Straits of Melaka: Dutch Melaka and English Penang, 1780–1830_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12829152) (Singapore: NUS Press, 2007), 119. (From National Library Singapore, call no. RSEA 959.503 NOR)
 
-8 Khoo Kay Khim, [_The Western Malay States, 1850–1873: The Effects of Commercial Development on Malay Politics_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=496673) (New York: Oxford University Press, 1972), 53. (From National Library Singapore, call no. RSING 959.5103 KHO)
+[^8]: Khoo Kay Khim, [_The Western Malay States, 1850–1873: The Effects of Commercial Development on Malay Politics_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=496673) (New York: Oxford University Press, 1972), 53. (From National Library Singapore, call no. RSING 959.5103 KHO)
 
-9 Raffles Museum and Library, [Straits Settlements Records Penang Consultations](https://www.nas.gov.sg/archivesonline/private_records/record-details/6a7b8df1-a817-11e3-927b-0050568939ad). Private records, 29 July 1825, 234. (From National Archives of Singapore accession no. A21; microfilm NL0008)
+[^9]: Raffles Museum and Library, [Straits Settlements Records Penang Consultations](https://www.nas.gov.sg/archivesonline/private_records/record-details/6a7b8df1-a817-11e3-927b-0050568939ad). Private records, 29 July 1825, 234. (From National Archives of Singapore accession no. A21; microfilm NL0008)
 
-10 Raffles Museum and Library, [Straits Settlements Records Penang Consultations](https://www.nas.gov.sg/archivesonline/private_records/record-details/6a7b8df1-a817-11e3-927b-0050568939ad). 29 July 1825, 234–39.
+[^10]: Raffles Museum and Library, [Straits Settlements Records Penang Consultations](https://www.nas.gov.sg/archivesonline/private_records/record-details/6a7b8df1-a817-11e3-927b-0050568939ad). 29 July 1825, 234–39.
 
-11 Milner, [_The Malays_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13208713), 70–71.
+[^11]: Milner, [_The Malays_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13208713), 70–71.
 
-12 Crawfurd, [_History of the Indian Archipelago_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4271203), 152.
+[^12]: Crawfurd, [_History of the Indian Archipelago_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4271203), 152.
 
-13 Crawfurd, [_History of the Indian Archipelago_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4271203), 151–52.
+[^13]: Crawfurd, [_History of the Indian Archipelago_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4271203), 151–52.
 
-14 George Windsor Earl, [_The Eastern Seas: Or Voyages and Adventures in the Indian Archipelago in 1832–1834_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=ad9d0845-d805-4ec1-9cec-f26135c14d4a) (London: Allen &amp; Co., 1837), 185. (From National Library Online)
+[^14]: George Windsor Earl, [_The Eastern Seas: Or Voyages and Adventures in the Indian Archipelago in 1832–1834_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=ad9d0845-d805-4ec1-9cec-f26135c14d4a) (London: Allen &amp; Co., 1837), 185. (From National Library Online)
 
-15 Earl, [_The Eastern Seas: Or Voyages and Adventures in the Indian Archipelago in 1832–1834_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=ad9d0845-d805-4ec1-9cec-f26135c14d4a), 185–86.
+[^15]: Earl, [_The Eastern Seas: Or Voyages and Adventures in the Indian Archipelago in 1832–1834_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=ad9d0845-d805-4ec1-9cec-f26135c14d4a), 185–86.
 
-16 “[Sampan-Pukat Trade to the Eastward](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18370112-1.2.17),” _Singapore Free Press and Mercantile Advertiser_, 12 January 1837, 3. (From NewspaperSG)
+[^16]: “[Sampan-Pukat Trade to the Eastward](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18370112-1.2.17),” _Singapore Free Press and Mercantile Advertiser_, 12 January 1837, 3. (From NewspaperSG)
 
-17 Earl, [_The Eastern Seas: Or Voyages and Adventures in the Indian Archipelago in 1832–1834_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=ad9d0845-d805-4ec1-9cec-f26135c14d4a), 154.
+[^17]: Earl, [_The Eastern Seas: Or Voyages and Adventures in the Indian Archipelago in 1832–1834_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=ad9d0845-d805-4ec1-9cec-f26135c14d4a), 154.
 
-18 “[Sampan-Pukat Trade to the Eastward](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18370112-1.2.17).”
+[^18]: “[Sampan-Pukat Trade to the Eastward](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18370112-1.2.17).”
 
-19 “[Page 3 Miscellaneous Column 1: Imports… Exports](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18410624-1.2.15.1),” _Singapore Free Press and Mercantile Advertiser_, 24 June 1841, 3 (From NewspaperSG); C. P. Holloway, [_Tabular Statements of the Commerce of Singapore, 1823–40 to 1839–40_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=10265530) &nbsp;(microform) (Singapore: Singapore Free Press Office, 1984), 47–49. (From National Library Singapore, call no. RCLOS 380.1095957 SIN)
+[^19]: “[Page 3 Miscellaneous Column 1: Imports… Exports](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18410624-1.2.15.1),” _Singapore Free Press and Mercantile Advertiser_, 24 June 1841, 3 (From NewspaperSG); C. P. Holloway, [_Tabular Statements of the Commerce of Singapore, 1823–40 to 1839–40_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=10265530) &nbsp;(microform) (Singapore: Singapore Free Press Office, 1984), 47–49. (From National Library Singapore, call no. RCLOS 380.1095957 SIN)
 
-20 “[Sampan-Pukat Trade to the Eastward](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18370112-1.2.17).”
+[^20]: “[Sampan-Pukat Trade to the Eastward](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18370112-1.2.17).”
 
-21 “[Sampan-Pukat Trade to the Eastward](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18370112-1.2.17).”
+[^21]: “[Sampan-Pukat Trade to the Eastward](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18370112-1.2.17).”
 
-22 John Thomson, [_The Straits of Malacca, Indo China and China_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2e4711f4-b259-4ef1-9826-9386d3e8f12b) (London: Low, &amp; Searle, 1875), 17. (From National Library Online)
+[^22]: John Thomson, [_The Straits of Malacca, Indo China and China_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2e4711f4-b259-4ef1-9826-9386d3e8f12b) (London: Low, &amp; Searle, 1875), 17. (From National Library Online)
 
-23 “[Sampan-Pukat Trade to the Eastward](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18370112-1.2.17).”
+[^23]: “[Sampan-Pukat Trade to the Eastward](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18370112-1.2.17).”
 
 24 “[Sampan-Pukat Trade to the Eastward](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18370112-1.2.17).”
 
