@@ -166,17 +166,17 @@ The life of Hedwig Anuar is closely intertwined with the postcolonial developmen
 [^17]: “[New Library Service for 15–19 Age Group](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19660414-1.2.58),” _Straits Times_, 14 April 1966, 9. (From NewspaperSG)
 
 
-[^18]: “New Mobile Library Service to Schools,” _Singapore Free Press_, 5 September 1960, 11; “National Library to Open on Sundays from Jan 2,” _Straits Times_, 25 November 1990, 30. (From NewspaperSG)
+[^18]: “[New Mobile Library Service to Schools](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19600905-1.2.103),” _Singapore Free Press_, 5 September 1960, 11; “[National Library to Open on Sundays from Jan 2](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19901125-1.2.30.20),” _Straits Times_, 25 November 1990, 30. (From NewspaperSG)
 
 
-[^19]: Russell Lim, “Queenstown Library Goes On-line,” _Straits Times_, 24 October 1987, 17;&nbsp; Lois Ng, “Computers Now Zip You Through Library,” _New Paper_, 13 September 1968, 6; Serena Toh, “Farewell of Surprises As Library Legend Hedwig Anuar Retires,” _Straits Times_, 20 November 1988, 20. (From NewspaperSG)
+[^19]: Russell Lim, “[Queenstown Library Goes On-line](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19871024-1.2.31.14),” _Straits Times_, 24 October 1987, 17;&nbsp; Lois Ng, “[Computers Now Zip You Through Library](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/newpaper19880913-1.2.8.1),” _New Paper_, 13 September 1968, 6; Serena Toh, “[Farewell of Surprises As Library Legend Hedwig Anuar Retires](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19881120-1.2.26.19),” _Straits Times_, 20 November 1988, 20. (From NewspaperSG)
 
 
-[^20]: Serena Toh, “Library Head All Set for New Career,” _Straits Times_, 1 October 1988. (From NewspaperSG)
+[^20]: Serena Toh, “[Library Head All Set for New Career](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19881001-1.2.25.13),” _Straits Times_, 1 October 1988. (From NewspaperSG)
 
 
 
-[^21]: Hedwig Anuar, _Blueprint for Public Library Development in Malaysia_ (Kuala Lumpur: Persatuan Perpustakaan Malaysia, 1968), 86–95. (From National Library Singapore, call no. RCLOS 027.4595 ANU)
+[^21]: Hedwig Anuar, [_Blueprint for Public Library Development in Malaysia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4124874) (Kuala Lumpur: Persatuan Perpustakaan Malaysia, 1968), 86–95. (From National Library Singapore, call no. RCLOS 027.4595 ANU)
 
 
 [^22]: Kennedy Gordon Tregonning, oral history interview by 31 July 2003, transcript and MP3 audio, Reel/Disc 5 of 6, National Archives of Singapore (accession no. 002783), 55–56.
