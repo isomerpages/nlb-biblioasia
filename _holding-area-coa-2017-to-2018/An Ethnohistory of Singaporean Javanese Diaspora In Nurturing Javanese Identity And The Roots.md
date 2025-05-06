@@ -103,3 +103,40 @@ aspects: identity and history. This paper is centred around these two aspects,
 explaining history and identity as integral parts of understanding the roots
 journey undertaken by the Singaporean-Javanese diaspora.
 
+#### **Navigating Diaspora and the Notion of Homeland**
+
+In many studies, diaspora is linked to the notion of homeland (see e.g. Basu,
+2007; Clifford, 1994; Cohen, 2008; Falzon, 2003; Knoot and McLoughlin,
+2010; Levy and Weingrod, 2005; Morawska, 2011; Rozen, 2008; Sheffer,
+2010; Tololyan, 2007). Levy and Weingrod (2005:3) reveal that home in
+this context is much more than a physical structure (a house), but also an
+imagined place with a set of feelings and imaginative realms. Home is a
+process of creating and understanding forms of living and belonging. This
+means home can evoke a sense of belonging, a memory of the past and
+variable emotions. As a result, links with the ancestral homeland are often
+decorative and deeply embedded in memories of diasporic people (Clifford,
+1994:304). Falzon (2003:664) states that homeland is generally understood as
+a sacred place filled with forms of longing and memory, either about culture
+or ancestors, and diasporic people dislocated from their homeland will
+maintain their imagined-homeland “by making a new home” while living in
+their host countries. According to Tölölyan (2007:649), the continuation of
+home-maintaining can be performed by commemorating and reconstructing
+a collective identity that preserves elements of the homeland’s language,
+religion, social practice and cultural heritage.
+
+In this study, the ethnographic data shows that the historical explanation
+of the Javanese in Singapore since the 12th to 14th centuries (according to
+archaeological remains found in Singapore) is part of the foundation of
+nurturing Javanese identity and maintaining links with their homeland
+by means of cultural preservation. Subjects we interviewed affirmed the
+importance of this to them:
+
+   *“…reminiscing the history of the Javanese in Singapore when it<br>
+   was a Javanese-Majapahit vassal is our pride of [being] Javanese<br>
+   in a place where Gadjah Mada (a Majapahit prime minister who<br>
+   united Nusantara by means of Palapa expedition) was here…”*<br>
+
+        *Interview with Sri Sulistiyanti<br>
+               Orchard Road, Singapore<br>
+                21 April 2018*
+
