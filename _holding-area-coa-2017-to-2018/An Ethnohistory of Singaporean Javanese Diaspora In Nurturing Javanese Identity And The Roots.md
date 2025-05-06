@@ -301,5 +301,134 @@ have been established, such as Kesenian Tedja Timur/Kuda Kepang
 puppet show founded in 1997), Perguruan Silat Kembang Wali (*pencak
 silat* group), Perguruan Seni Beladiri Tapak Suci Singapura (*pencak silat*
 group), Pacitan Gamelan (founded in 1991 at the Kembangan Community
-Club), Singa Nglaras at the Department of Southeast Asian Studies in
+Club), Singa Nglaras at the Department of Southeast Asian Studies in the National University Singapore (established in 2004) and Gamelan
+Asmaradana Ltd (founded in 2004). The first organisation for the Javanese
+in Singapore was Persekutuan Jawa Al-Masakin (loosely translated as the
+Federation of the Javanese Poor), which was formed in 1901 to provide
+material and moral support to Javanese who had moved to Singapore.
+
+In late 2007, with the popularity of social media platform Facebook, three
+Facebook groups – “Javanese Singaporeans”, “Singaporean Javanese” and
+“Orang Jawa in Singapore” (Javanese in Singapore) – were set up. The
+following year, the groups merged to become “Javanese Singaporeans (JS):
+Orang Jawa di Singapura”. It should be noted that the Javanese Association
+of Singapore (JAS), which was formed by members of informal groups such
+as Perkumpulan Anak Jawa Pacitan, Kesenian Tedja Timur and the Javanese
+Singaporeans Facebook groups, had evolved from online entities into a
+legally registered “society” organisation on 10 September 2015. An example
+of concrete action in preserving Javanese culture is the hosting of the May
+2016 exhibition “Pusaka: Heritage and Culture of the Javanese in Singapore”
+(Chew, 2016; Kao, 2016). This validates the claim that the Singaporean-
+Javanese continue to nurture their identity today.
+
+
+Javanese identity is articulated not only at the individual level, but also
+collectively framed into *perkumpulan* (organisations). Referring to Duarte (2005:316), diaspora is similar to collectivism, in which collective identity
+can be reconstructed by several processes and practices shared by members
+of a diaspora in a host country. This is to say that solidarity is the main way
+to build a strong social community (Christenen and Levinson, 2003:134).
+In addition, Drzewiecka (2002:2) suggests that diasporic people struggle to
+reconstitute collective identities by reproducing their familiar environment
+among them. In a collective society, they can enjoy the fellowship and
+relationships with members who share the same culture, sustain the same
+tradition, eat the same food and speak the same language. Generally,
+the Javanese have a strong culture of communalism. Huggan (2010:56)
+argues that diaspora identities are those that are constantly producing and
+reproducing themselves through transformation and difference. Hence, the
+existence of community can be considered as the power of representing and
+strengthening group identity for Singaporean-Javanese so as to differentiate
+themselves from other Malay groups.
+
+This is to say that the theoretical framework of heritage comprises not
+only sites, places, performances or events, but also social construction
+and cultural practice, hence drawing attention to the process of heritagemaintenance.
+This supports the construction of home as the remembrance
+of the past, present and future. “Home is where the heart is” is a phrase
+uttered by many who have experienced migration and displacement.
+In this context, the Singaporean-Javanese construct the “home of
+Java” but in a unique way that is influenced by Malay culture. Thus,
+“in-betweenness” is the way Singaporean-Javanese embrace the identities
+of being simultaneously Javanese and Malay. This sentiment is reflected by
+Zuraidah Ehsan:
+
+   *“In-betweenness is not a bad thing for us [Singaporean-Javanese],<br>
+   it has become the uniqueness of the Singaporean-Javanese diaspora<br>
+   in being able to adapt to a place where we are living now, in the<br>
+   Malay area. Being Malay does not mean we forget our roots<br>
+   as Javanese.”<br><br><br>
+   Interview with Zuraidah Ehsan<br>
+   Paya Lebar, Singapore<br>
+   18 January 2018*
+
+So, who are the Malays?9 The Malays are the indigenous people of
+Singapore, comprising 13.4 percent of Singaporean society, making them
+a minority (Rahman, 2017:1). As the *Report of the Select Committee on
+Parliamentary Elections (Amendment) Bill* of 1998 declared inter alia: “A
+person belonging to the Malay Community means any person, whether
+of the Malay race or otherwise, who considers himself/herself to be a
+member of the Malay community and who is generally accepted as a
+member of the Malay community by that community.” (Tham, 1992:11)
+Because of the importance of the 1998 Bill, the political view of Malays in
+Singapore implies that the definition of being Malay is not only based on
+biological inheritance but also from a self-defined or sense of belonging in
+being Malay.
+
+The role of Islam also provides a meeting point for Javanese and Malay
+identities since universal values in Islam are a powerful factor that facilitates
+assimilation in terms of religious rituals, trade, education and marriage.
+In this case, Malay values have been exchanged and strengthened by the
+education system where generations of Javanese or other tribes from the Nusantara archipelago have sent their children to Malay schools. Therefore,
+the Malay identity would have been formally practiced in education, the
+religious environment, as well as interracial marriage. However, the Javanese
+identity remains sustainable in the smallest environment – the family.
+Javanese identity can be strengthened through the family by inculcating
+children with Javanese manners, teaching members about Javanese cuisine
+and speaking Javanese. Some families in Singapore deliberately send the
+younger generation to Java to immerse them in Javanese culture. Given this
+definitional fluidity, it follows then that a Javanese who assumes a Malay
+identity has not lost their ethnic identity but has come to see themselves as
+simultaneously Javanese and Malay.
+
+On another level of analysis, the preservation of Javanese ancestral heritage
+for the purpose of nurturing the Javanese identity conducted by the
+Singaporean-Javanese has a strong correlation to the reasons that encourage
+them to travel to Java. Travelling to Java can be considered a significant
+effort to preserve Javanese cultural heritage by networking with local people
+in one’s ancestral homeland, sharing stories with Java-born Javanese,
+exchanging views with Javanese cultural experts, studying the development
+of Javanese culture in Java for application in Singapore, cultivating Javanese
+identity, and much more. Therefore, it can be said that the roots journey
+and preservation of Javanese culture are interrelated.
+
+#### **Emerging Trends of the Roots Journey**
+In line with earlier arguments, it can be argued that the preservation of
+the memory of ancestors by reconstructing the “home” and maintaining
+Javanese cultural heritage as a form of representing their identity encourages
+Singaporean-Javanese to go to Java on a roots journey. The internet,
+especially Facebook, is essential in facilitating global interaction among
+Javanese diaspora, which can strengthen the Javanese identity among
+Singaporeans. Like other Javanese diaspora, the Singaporean-Javanese try to
+strengthen their Javanese identity by contacting Javanese in Java via social
+media platforms to find out the latest issues concerning their culture. This
+leads them to undertake the roots journey by tracing the history of their
+ancestors. This is why discussing the contemporary Singaporean-Javanese
+identity cannot be separated from the roots journey phenomenon. Their
+experiences either on Facebook or in Java produce global relationships with
+other Javanese diasporas elsewhere. It reveals the cycle of migration that
+results in the return to ancestral lands and a new facet in their identity.
+
+   *“As a retired person, I [went] on a roots journey around Tuban in<br>
+   East Java where my father came from. My father travelled alone<br>
+   from Java to Singapore around the 1920s when he was 17 years old<br>
+   and ended up here for the rest of his time because someone stole<br>
+   his luggage, including his money and passport. Unfortunately, as<br>
+   Orang Atas (a notable and educated Javanese person), he never<br>
+   clearly revealed who he was until he died. This mystery strongly<br>
+   motivates me to go on a roots journey again and again.”<br><br><br>
+   – Interview with Sujono<br>
+   Jurong, Singapore<br>
+   25 February 2018*
+
+
+
 
