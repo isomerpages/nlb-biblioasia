@@ -1,6 +1,6 @@
 ---
 title: "Kung Tian Cheng: First Clerk of Raffles Library"
-permalink: /holding-area/vol-21/issue-2/jul-sep-2025/kung-tian-cheng-first-clerk-raffles-library/
+permalink: /vol-21/issue-2/jul-sep-2025/kung-tian-cheng-first-clerk-raffles-library/
 variant: markdown
 description: ""
 ---

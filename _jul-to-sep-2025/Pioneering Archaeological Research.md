@@ -116,7 +116,7 @@ Ghosh, Nirmala. “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/a
 <br> <br> 
 McKie, R.C.H. “Callenfels of the Indies: Burly Scientist and ‘Character’.” <i>Sydney Morning Herald</i>, 11 June 1938, 13, <a href="https://trove.nla.gov.au/newspaper/article/17470496">https://trove.nla.gov.au/newspaper/article/17470496 </a>.
 <br> <br> 
-Swanenburg, B.D. <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4407517"> <i>Iwan De Verschrikkelijke: Leven En Eerken Van Dr. P.V. van Stein Callenfels</i> </a> [Ivan the Terrible: Life and Works of Dr. P.V. van Stein Callenfels]. Maastricht: Feiter Nypels, 1951. (From National Library Singapore, call no. RUR 930.1092 SWA)
+Swanenburg, B.D. <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=4407517"> <i>Iwan De Verschrikkelijke: Leven En Werken Van Dr. P.V. van Stein Callenfels</i> </a> [Ivan the Terrible: Life and Works of Dr. P.V. van Stein Callenfels]. Maastricht: Feiter Nypels, 1951. (From National Library Singapore, call no. RUR 930.1092 SWA)
 <br> <br> 
 Tweedie, Michael Willmer Forbes. “The Stone Age in Malaya.” <i>Journal of the Malayan Branch of the Royal Asiatic Society</i> 26, no. 2 (162) (October 1953): 3–90. (From JSTOR via NLB’s <a href="http://eresources.nlb.gov.sg/"> eResources </a> website) 
 <br> <br> 

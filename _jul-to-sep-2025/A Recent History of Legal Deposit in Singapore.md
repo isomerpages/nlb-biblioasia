@@ -1,6 +1,6 @@
 ---
 title: A Recent History of Legal Deposit in Singapore
-permalink: /holding-area/vol-21/issue-2/jul-sep-2025/recent-history-legal-deposit-singapore/
+permalink: /vol-21/issue-2/jul-sep-2025/recent-history-legal-deposit-singapore/
 variant: markdown
 description: ""
 ---
