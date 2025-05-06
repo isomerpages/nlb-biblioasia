@@ -17,11 +17,11 @@ In that time, Anuar, the first Malayan to head the library, oversaw an expansion
 
 Hedwig Elizabeth Aroozoo was born 19 November 1928 in Johor Bahru to a Eurasian Catholic family, the second daughter of Percival Frank Aroozoo and Agnes Danker. Her father was a teacher at Outram School (1918–38) and then headmaster of Gan Eng Seng School (1938–55).&nbsp;
 
-It is perhaps not surprising that Anuar developed a love for reading at an early age. In an interview with _Straits Times_ in 1985, Anuar said she could not remember a time when she could not read and started on political works in her father’s extensive library at age 10 in 1939. [^2]
+It is perhaps not surprising&nbsp;then&nbsp;that Anuar developed a love for reading at an early age. In an interview with _Straits Times_ in 1985, Anuar said she could not remember a time when she could not read and started on political works in her father’s extensive library at age 10 in 1939. [^2]
 
 Anuar studied at the Convent of the Holy Infant Jesus in Johor Bahru and then at the Convent of the Holy Infant Jesus in Singapore. In 1947, she entered Raffles College to read literature. Raffles College became the University of Malaya in 1949, so when she graduated in 1951, it was with a first class honours degree from the newly renamed university.
 
-As the Japanese Occupation (1942–45) had depleted her father’s savings, Anuar taught at the People’s Education Association and tutored other students to get by while studying. This did not stop her from being involved in college life: she joined the Literary Dramatic and Debating Society and was active with the students’ union, becoming known as the “Lady President”, a title she detested. [^3]
+As the Japanese Occupation (1942–45) had depleted her father’s savings, Anuar taught at the People’s Education Association and tutored other students to get by while studying. This did not stop her from getting involved in college life: she joined the Literary Dramatic and Debating Society and was active with the students’ union, becoming known as the “Lady President”, a title she detested. [^3]
 
 Anuar also became involved in politics in university. Just before the end of her honours year in January 1951, there was a wave of arrests in Singapore and Malaya for possession of Malayan Communist Party literature. Among the detainees were former Malayan Democratic Union leaders like John Eber and Devan Nair as well as several University of Malaya students including James Puthucheary.
 
@@ -35,7 +35,7 @@ It did not take long for her to become active in her chosen profession, joining 
 
 In a 1980 letter to Wee Joo Gim, president of the Library Association of Singapore, Plumbe acknowledged Anuar’s role in the formation of the group. He wrote: “It was Hedwig who had the brains and the drive and the ability, even at that time, to shape the incipient profession and plan development on a national scale.” [^7] For her contributions to the library profession in Singapore and Malaysia, Anuar received the Library Association of Singapore Lifetime Contribution Award in 2007.
 
-In 1955, Anuar was awarded a training grant and studied librarianship at North Western Polytechnic in London. When she arrived in London, she got involved with the community of Malayan students there. Most of the crowd were already friends and acquaintances. More importantly, one of her good friends, John Eber, had taken over the Malayan Forum. [^8]
+In 1955, Anuar was awarded a training grant and studied librarianship at North Western Polytechnic in London. When she arrived in London, she got involved with the community of Malayan students there. Most of&nbsp;them&nbsp;were already friends and acquaintances. More importantly, one of her good friends, John Eber, was the secretary of&nbsp;the Malayan Forum. [^8]
 
 The forum was started in 1948 by Tunku Abdul Razak Hussein, Goh Keng Swee and Maurice Baker. It formally became an organisation in October 1949 as a place for young Malayans in the United Kingdom to discuss the future of Malaya and&nbsp; various political possibilities. [^9]
 
@@ -49,7 +49,7 @@ While in London, Anuar met law student Anuar Zainal Abidin and they got married 
 
 #### **Contributions to Reading, Libraries and Archives**
 
-Anuar was sent to the University of Malaya’s Kuala Lumpur campus to start a library there. However, the Raffles National Library Director, Leonard M. Harrod, retired in January 1960 just as the new National Library building on Stamford Road was being completed, which left the library in Singapore without a director. The Singapore government urgently needed a local director for the move of the library from its old premises in the building shared with the museum. Being one of the few qualified local librarians, the Singapore government requested for her to be seconded to Singapore for 14 months as the Raffles National Library’s interim director. [^12]
+Anuar was sent to the University of Malaya’s Kuala Lumpur campus to start a library there. However, the Raffles National Library Director, Leonard M. Harrod, retired in January 1960 just as the new National Library building on Stamford Road was being completed,&nbsp;leaving the&nbsp;library in Singapore without a director. The Singapore government urgently needed a local director for the move of the library from&nbsp;the old premises it shared with the Raffles Museum. Being one of the few qualified local librarians, the Singapore government requested for her to be seconded to Singapore for 14 months as the Raffles National Library’s interim director. [^12]
 
 One of Anuar’s earliest achievements was the move from the old building to the new that she organised. Known as Operation Pindah, it became a legend in the history of the National Library. [^13] For it, Anuar even “rolled up her sleeves and physically assisted in the human chain of transporting books from one building to another, at least from director down to library attendants division for staff”. [^14]
 
