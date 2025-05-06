@@ -429,6 +429,135 @@ results in the return to ancestral lands and a new facet in their identity.
    Jurong, Singapore<br>
    25 February 2018*
 
+As a Singaporean-Javanese, Sujono considers himself like a sturdy tree whose
+branches and flowers blossom in Singapore, but whose roots are still firmly
+planted in his ancestral island of Java. This is the most popular metaphor
+among the diaspora. Sujono experienced the roots journey in Java by
+following an ancestral path from the village where his grandfather had been
+born in Tuban, to the harbour where his ancestors had left Java forever.
+
+There is a myriad of literature on the phenomenon of members of diasporas
+travelling to their homelands for nostalgic tourism (Mitchell, 1998),
+homeland tourism or homeland journeys (Bandyopadhyay, 2008; Iorio
+&amp; Corsale, 2013), ancestral tourism (Bhandari, 2013; Man, 2014; Leong,
+et.al, 2014; Russell, 2008), homesick tourism (Marschall, 2014) and roots
+tourism (Basu, 2005; Pinho, 2008; Naho and Stronza, 2010). The roots
+journey seeks some form of remedy of memories to commemorate ancestral
+histories (Leong &amp; et.al, 2014; Prastowo, 2017), to trace their ancestral
+sites in the homeland (Dubuisson &amp; Genina, 2011; Kuutma, 2013), and
+to remember ancestral routes in the process of becoming diasporic people
+(Iorio and Corsale, 2013; Marschall, 2013; Pinho, 2008). The roots journey
+is an example of how Singaporean-Javanese nurture their ancestral roots by
+travelling to their homeland in Java.
+
+The importance of finding one’s roots strongly underscores how essential
+ancestral roots are to the Singaporean-Javanese, because remembering roots
+is one of the pillars of Javanese culture. Generally, Singaporean-Javanese
+trace their ancestry in Java according to oral stories or historical documents
+that were handed down through the generations. Like Sujono, most of
+them follow the path from the village in Java where their ancestor was born to where (usually the harbour) they had left Java. When in Java, the
+atmosphere of rural life and engaging in small talk with the locals, reaffirms
+and rejuvenates the Singaporean-Javanese’s identity as Javanese. The results
+of travelling to Java vary depending on how travellers feel post-travel.
+
+Social media provides a platform for diverse virtual interactions between
+the Javanese diaspora and Javanese in Java. Often, Javanese diaspora
+meet on Facebook and share the experiences of their roots journey – for
+instance, on Facebook group Ngumpulke Balung Pisah (loosely translated
+as gluing separated bones together).10 These virtual interactions eventually
+led the Javanese diaspora from around the globe, including Singaporean-
+Javanese, to organise the first conference of the Javanese Diaspora in
+Yogyakarta, called Ngumpulke Balung Pisah (Kurniawan, 2015), on 15 and
+16 August 2015.
+
+The Singaporean-Javanese have played an important role not only as
+participants but also as founders of the worldwide organisation, whose
+long-term vision is to preserve Javanese cultural heritage around the globe.
+At present, reflecting on the international interactions among the Javanese
+diaspora across the globe, either in the virtual or physical realms, can
+encourage the Singaporean-Javanese to strengthen their distinctive identity
+as Javanese in Singapore rather than Malay, as Malay is an unfamiliar
+concept for Javanese diaspora living outside of the Nusantara archipelago
+(such as in Suriname, New Caledonia, the Netherlands and parts of the
+Caribbean). It supports reflections on “what should be Javanese” by means
+of mutual dialogue.
+
+As Java is a short trip from Singapore, supported by many affordable
+flights to Jakarta, Yogyakarta and Surabaya, the roots journey has become
+essential for all Singaporean-Javanese. This journey is an integral part of
+strengthening Javanese identity among the Singaporean-Javanese today.
+
+#### **Conclusion**
+
+Coming back to the question that is the essence of this paper – how do
+Singaporean-Javanese nurture their identities by preserving Javanese cultural
+heritage in their daily lives in Singapore, and how does this encourage
+them to undertake the roots journey to Java? There are, of course, no easy
+explanations. This question elicits diverse responses depending on the
+definition of social identity, because identity is never static and always
+responds to socio-political developments of the present-day. Identity is a
+complex, even slippery, concept, shaped by history, culture and imagination
+(Pang and Meyer, 2016:2). Social identity, indeed, focuses on shared social
+characteristics (Mutalib 2012:12; Ratnasingam, 2010:4). To conclude, social
+identity nurtured by the Singaporean-Javanese emphasises shared aspects
+of identity, of being Malay without forgetting one’s Javanese roots. As
+having a dual identity is common in all societies, a Singaporean can be
+Malay and yet Javanese at the same time. There was once a clear distinction
+between Malay and other Nusantara ethnic groups. However, over time,
+through intermarriage, social interaction, education and policy, a new social
+identity was built as a Malay community shaped by religion, customs and
+language. In an individual context, the self-identification of being Javanese is
+important to the reinforcement of the homeland of Java in Singapore.
+
+Present-day Singaporean-Javanese are by and large shaped by their past,
+which is supported by many archeological corroborations relating to
+Javanese civilisation in Singapore around Bukit Larangan and the Singapore
+River. But one thing is very clear: revisiting history is necessary to bridge the
+question of being Singaporean-Javanese. Since mobility can be considered
+a central part of Javanese DNA, this study thus concludes that the history
+of Javanese migration to Singapore can be summarised into four periods:
+First, during the Nusantara era (whether under Singhasari, Majapahit or
+even long before that such as Srivijaya and ancient Mataram); Second,
+during the British colonial period; Third, during the Japanese Occupation
+or Syonan-to period; and fourth, during the present-day modern state of
+Singapore – by which time (as recorded by the Indonesian National Agency
+of the Placement and Protection of Migrant Workers, or BNP2TKI), 13,379
+Indonesians were employed as migrant workers in Singapore (as of 2018),
+most of whom were Javanese. This shows that the migration of the Javanese
+to Singapore has spanned hundreds or maybe even thousands of years.
+
+In a nutshell, the preservation of “home” implies identity and leads diaspora
+to undertake the roots journey or “homecoming”. The reconstruction
+of a Java home among Singaporean-Javanese people may refer to the
+relationships or connections over space and time to their imagined
+homeland in Java, harmonised within the context of Singapore. Through
+the preservation of Javanese cultural heritage in Singapore, the Singaporean-
+Javanese can continue to pass down the stories of their ancestors to the
+present-day to nurture Javanese identity. This is viewed in terms of how
+Singaporean-Javanese people define and represent themselves as Javanese,
+because by having a strong emotional attachment to their homeland and
+constructing their identities as Javanese, they are probably more motivated
+to preserve their ancestral cultural heritage in Singapore, especially in
+Malay society. In short, the existence of Singaporean-Javanese with all their
+uniqueness in syncretizing Javanese and Malay cultures strengthens the
+colour of multiculturalism in Singapore.
+
+To a large degree, and for future research, this study should be continued
+by those who are interested in working with the history of the Javanese in
+Singapore, as this paper only scratches the surface of the missing link in the
+narrative of Singapore’s national history.
+
+#### **Acknowledgments**
+*I would like to extend a special thanks to Professor Dr. Irwan Abdullah, an
+anthropologist at Universitas Gadjah Mada, Indonesia and expert on Nusantara
+diaspora, for reviewing this essay and providing his input*.
+
+<div>
+<b>Fuji Riang Prastowo</b>is an ethnographer with a focus on Nusantara studies and
+the issue of Javanese diaspora around the globe. He is a lecturer in Sociology at the
+Universitas Gadjah Mada in Indonesia and the director of Golong Gilig Institute of
+Diaspora and Nusantara Studies. He can be reached at fujiriangprastowo@ugm.ac.id</div>
+
 
 
 
