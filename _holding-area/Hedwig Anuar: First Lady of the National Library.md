@@ -200,14 +200,14 @@ The life of Hedwig Anuar is closely intertwined with the postcolonial developmen
 [^28]: Aroozoo, [_Vestiges: Essays 1945–1946_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300083094), 102.
 
 
-[^29]: “A Complete List of All the Her World Women of the Year Winners,” _Her World_, 4 October 2024, https://www.herworld.com/pov/people/her-world-women-of-the-year/;&nbsp; The Honoured Inductees to the Singapore Women’s Hall of Fame: Hedwig Anuar,” Singapore Council of Women’s Organisations (SCWO), last updated 11 March 2021, https://www.swhf.sg/profiles/hedwig-anuar/.
+[^29]: “A Complete List of All the Her World Women of the Year Winners,” _Her World_, 4 October 2024, [https://www.herworld.com/pov/people/her-world-women-of-the-year/](https://www.herworld.com/pov/people/her-world-women-of-the-year/); The Honoured Inductees to the Singapore Women’s Hall of Fame: Hedwig Anuar,” Singapore Council of Women’s Organisations (SCWO), last updated 11 March 2021, [https://www.swhf.sg/profiles/hedwig-anuar/](https://www.swhf.sg/profiles/hedwig-anuar/).
 
 
-[^30]: Wong Heng, oral history interview by Jason Lim, 28 January 2000, transcript and MP3 audio, Reel/Disc 11 of 13, National Archives of Singapore (accession no. 001702), 138.
+[^30]: Wong Heng, oral history interview by Jason Lim, 28 January 2000, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/6/6a74c7c4-115e-11e3-83d5-0050568939ad-OHC001702_011/web/html5/index.html) and MP3 audio, Reel/Disc 11 of 13, National Archives of Singapore ([accession no. 001702](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/001702)), 138.
 
 
 
-[^31]: Sabaratnam Selvarani, “Library Education and Training: The Singapore Scenario,” in _Introduction to ASEAN Librarianship: Library Education and Training_, ed. Khunying Maenmas Chavalit (Kuala Lumpur: ASEAN Committee on Culture and Information, 1993), 107–37. (From National Library Singapore, call no. RSING 026.00959 INT)
+[^31]: Sabaratnam Selvarani, “Library Education and Training: The Singapore Scenario,” in [_Introduction to ASEAN Librarianship: Library Education and Training_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6852158), ed. Khunying Maenmas Chavalit (Kuala Lumpur: ASEAN Committee on Culture and Information, 1993), 107–37. (From National Library Singapore, call no. RSING 026.00959 INT)
 
 
-[^32]: R. Ramachandran and Chan Fook Weng, “Library Development in Singapore: An Overview,” _Singapore Libraries_ 25, no. 1 (1996): 3–23. (From National Library Singapore, call no. RSING 020.5 SL-\[LIB\])
+[^32]: R. Ramachandran and Chan Fook Weng, “Library Development in Singapore: An Overview,” [_Singapore Libraries_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4183443) 25, no. 1 (1996): 3–23. (From National Library Singapore, call no. RSING 020.5 SL-\[LIB\])
