@@ -610,66 +610,68 @@ Wright, Arnold. ed., [_Twentieth Century Impressions of British Malaya_](https:/
 
 [^23]: “[Sampan-Pukat Trade to the Eastward](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18370112-1.2.17).”
 
-24 “[Sampan-Pukat Trade to the Eastward](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18370112-1.2.17).”
+[^24]: “[Sampan-Pukat Trade to the Eastward](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18370112-1.2.17).”
 
-25 “[Sampan-Pukat Trade to the Eastward](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18370112-1.2.17).”
+[^25]: “[Sampan-Pukat Trade to the Eastward](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18370112-1.2.17).”
 
-26 Crawfurd, [_History of the Indian Archipelago_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4271203), 185–86.
+[^26]: Crawfurd, [_History of the Indian Archipelago_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4271203), 185–86.
 
-27 Mona Lohanda, [_The Kapitan Cina of Batavia, 1837–1942: A History of Chinese Establishment in Colonial Society_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7712172) (Jakarta: Djambatan, 1996), 33, 53–54. (From National Library Singapore, call no. RSEA 959.82004951 LOH)
+[^27]: Mona Lohanda, [_The Kapitan Cina of Batavia, 1837–1942: A History of Chinese Establishment in Colonial Society_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7712172) (Jakarta: Djambatan, 1996), 33, 53–54. (From National Library Singapore, call no. RSEA 959.82004951 LOH)
 
-28 Anthony Crothers Milner, [_Kerajaan: Malay Political Culture on the Eve of Colonial Rule_](https://catalogue.nlb.gov.sg/search/card?recordId=2303945) (Petaling Jaya: Strategic Information and Research Development Centre, 2016), 35–37. (From National Library Singapore, call no. RSING 959.5103 MIL)
+[^28]: Anthony Crothers Milner, [_Kerajaan: Malay Political Culture on the Eve of Colonial Rule_](https://catalogue.nlb.gov.sg/search/card?recordId=2303945) (Petaling Jaya: Strategic Information and Research Development Centre, 2016), 35–37. (From National Library Singapore, call no. RSING 959.5103 MIL)
 
-29 Milner, [_Kerajaan: Malay Political Culture on the Eve of Colonial Rule_](https://catalogue.nlb.gov.sg/search/card?recordId=2303945), 40–41, 44.
+[^29]: Milner, [_Kerajaan: Malay Political Culture on the Eve of Colonial Rule_](https://catalogue.nlb.gov.sg/search/card?recordId=2303945), 40–41, 44.
 
-30 Frank Swettenham, [_British Malaya_](https://catalogue.nlb.gov.sg/search/card?recordId=4250035) (London: John Lane, 1907), 137. (From National Library Singapore, call no. RDKSC 959.5 SWE)
+[^30]: Frank Swettenham, [_British Malaya_](https://catalogue.nlb.gov.sg/search/card?recordId=4250035) (London: John Lane, 1907), 137. (From National Library Singapore, call no. RDKSC 959.5 SWE)
 
-31 Milner, [_Kerajaan: Malay Political Culture on the Eve of Colonial Rule_](https://catalogue.nlb.gov.sg/search/card?recordId=2303945), 72.
+[^31]: Milner, [_Kerajaan: Malay Political Culture on the Eve of Colonial Rule_](https://catalogue.nlb.gov.sg/search/card?recordId=2303945), 72.
 
-32 Abdullah bin Abdul Kadir, [_The Voyage of Abdullah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4384525) (Singapore: Malaya Publishing House, 1949) 9–10. (From National Library Singapore, call no. RCLOS 959.5 ABD)
+[^32] Abdullah bin Abdul Kadir, [_The Voyage of Abdullah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4384525) (Singapore: Malaya Publishing House, 1949) 9–10. (From National Library Singapore, call no. RCLOS 959.5 ABD)
 
-33 Charles Burton Buckley, [_An Anecdotal History of Old Times in Singapore, 1819–1867_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082239) (Singapore: Oxford University Press, 1984), 564. (From National Library Singapore, call no. RSING 959.57 BUC-\[HS\])
+[^33]: Charles Burton Buckley, [_An Anecdotal History of Old Times in Singapore, 1819–1867_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082239) (Singapore: Oxford University Press, 1984), 564. (From National Library Singapore, call no. RSING 959.57 BUC-\[HS\])
 
-34 C. M. Turnbull, [_A History of Modern Singapore, 1819–2005_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13206047) (Singapore: NUS Press, 2009), 31–32. (From National Library Singapore, call no. RSING 959.57 TUR-\[HIS\])
+[^34]: C. M. Turnbull, [_A History of Modern Singapore, 1819–2005_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13206047) (Singapore: NUS Press, 2009), 31–32. (From National Library Singapore, call no. RSING 959.57 TUR-\[HIS\])
 
-35 C. A. Gibson-Hill, “The Master Attendants at Singapore, 1810–1867,” [_Journal of the Malayan Branch of the Royal Asiatic Society_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4982709) 33, no. 1 (May 1960): 9–10. (From National Library Singapore, call no. RCLOS 959.5 JMBRAS-\[JSB\])
+[^35]: C. A. Gibson-Hill, “The Master Attendants at Singapore, 1810–1867,” [_Journal of the Malayan Branch of the Royal Asiatic Society_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4982709) 33, no. 1 (May 1960): 9–10. (From National Library Singapore, call no. RCLOS 959.5 JMBRAS-\[JSB\])
 
-36 Raffles Museum and Library. [Straits Settlements Records Penang Consultations](https://www.nas.gov.sg/archivesonline/private_records/record-details/6a907c8d-a817-11e3-927b-0050568939ad). Private records, 7 December 1826. (From National Archives of Singapore accession no. A30; microfilm NL0012)
+[^36]: Raffles Museum and Library. [Straits Settlements Records Penang Consultations](https://www.nas.gov.sg/archivesonline/private_records/record-details/6a907c8d-a817-11e3-927b-0050568939ad). Private records, 7 December 1826. (From National Archives of Singapore accession no. A30; microfilm NL0012)
 
-37 Robert L. Jarman, ed., [_Annual Reports of the Straits Settlements 1855–1941_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9276660), vol. 1. (London: Archive Editions, 1998), 32. (From National Library Singapore, call no. RSING 959.51 STR-\[AR\])
+[^37]: Robert L. Jarman, ed., [_Annual Reports of the Straits Settlements 1855–1941_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9276660), vol. 1. (London: Archive Editions, 1998), 32. (From National Library Singapore, call no. RSING 959.51 STR-\[AR\])
 
-38 Jarman, [_Annual Reports of the Straits Settlements 1855–1941_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9276660), 91.
+[^38]: Jarman, [_Annual Reports of the Straits Settlements 1855–1941_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9276660), 91.
 
-39 J. Kathirithamby-Wells, “Siak and Its Changing Strategies of Survival, c. 1700–1870,” in [_The Last Stand of Asian Autonomies: Responses to Modernity in the Diverse States of Southeast Asia and Korea, 1750–1900_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7982211), ed. Anthony Reid. (New York: St. Martin’s Press, 1997), 232–33. (From National Library Singapore, call no. RBUS 330.95904 LAS)
+[^39]: J. Kathirithamby-Wells, “Siak and Its Changing Strategies of Survival, c. 1700–1870,” in [_The Last Stand of Asian Autonomies: Responses to Modernity in the Diverse States of Southeast Asia and Korea, 1750–1900_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7982211), ed. Anthony Reid. (New York: St. Martin’s Press, 1997), 232–33. (From National Library Singapore, call no. RBUS 330.95904 LAS)
 
-40 John Phipps, _A Practical Treatise on the China and Eastern Trade_ (London: W. H. Allen and Company, 1836), 293.
+[^40]: John Phipps, _A Practical Treatise on the China and Eastern Trade_ (London: W. H. Allen and Company, 1836), 293.
 
-41 Ibrahim Ariff and Andik Marinah Ibrahim, [_The Past Malay Entrepreneurs in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202362036) (Singapore: Daing Pasandri Achiever Avenue, 2015), 31–32. (From National Library Singapore, call no. RSING 338.0409225957 IBR)
+[^41]: Ibrahim Ariff and Andik Marinah Ibrahim, [_The Past Malay Entrepreneurs in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202362036) (Singapore: Daing Pasandri Achiever Avenue, 2015), 31–32. (From National Library Singapore, call no. RSING 338.0409225957 IBR)
 
-42 Colin Mackay, [_A History of Phuket and the Surrounding Region_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200149027) (Bangkok: White Lotus, 2012), 282–83. (From National Library Singapore, call no. RSEA 959.3 MAC)
+[^42]: Colin Mackay, [_A History of Phuket and the Surrounding Region_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200149027) (Bangkok: White Lotus, 2012), 282–83. (From National Library Singapore, call no. RSEA 959.3 MAC)
 
-43 Cawphrajaa Thíphaakorawon, [_The Dynastic Chronicle. Bangkok Era, the Fourth Reign_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6343), vol. 2 (Tokyo: Tokyo Press Co., 1965), 423–25. (From National Library Singapore, call no. RCLOS 959.3 CAW-\[HYT\])
+[^43]: Cawphrajaa Thíphaakorawon, [_The Dynastic Chronicle. Bangkok Era, the Fourth Reign_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6343), vol. 2 (Tokyo: Tokyo Press Co., 1965), 423–25. (From National Library Singapore, call no. RCLOS 959.3 CAW-\[HYT\])
 
-44 The National Archives (United Kingdom), “[Piracy in The Straits of Malacca](https://www.nas.gov.sg/archivesonline/private_records/record-details/f2a54dda-115b-11e3-83d5-0050568939ad),” private records, 5 December 1828. (From National Archives of Singapore accession no. ADM 125/44; microfilm NAB 279)
+[^44]: The National Archives (United Kingdom), “[Piracy in The Straits of Malacca](https://www.nas.gov.sg/archivesonline/private_records/record-details/f2a54dda-115b-11e3-83d5-0050568939ad),” private records, 5 December 1828. (From National Archives of Singapore accession no. ADM 125/44; microfilm NAB 279)
 
-45 Anthony Webster, [_Gentlemen Capitalists: British Imperialism in South East Asia 1770–1890_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9348910) (New York: Tauris Academic Studies, 1998), 20. (From National Library Singapore, call no. RSING 959 WEB)
+[^45]: Anthony Webster, [_Gentlemen Capitalists: British Imperialism in South East Asia 1770–1890_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9348910) (New York: Tauris Academic Studies, 1998), 20. (From National Library Singapore, call no. RSING 959 WEB)
 
-46 “[Sampan-Pukat Trade to the Eastward](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18370112-1.2.17).”
+[^46]: “[Sampan-Pukat Trade to the Eastward](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18370112-1.2.17).”
 
-47 “[Sampan-Pukat Trade to the Eastward](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18370112-1.2.17).”
+[^47]: “[Sampan-Pukat Trade to the Eastward](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18370112-1.2.17).”
 
-48 Walter Armstrong Graham, [_Kelantan: A State of the Malay Peninsula_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13555660) (Glasgow: James Maclehose &amp; Sons., 1908), 44. (From National Library Singapore, call no. RCLOS 959.593 GRA)
+[^48]: Walter Armstrong Graham, [_Kelantan: A State of the Malay Peninsula_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13555660) (Glasgow: James Maclehose &amp; Sons., 1908), 44. (From National Library Singapore, call no. RCLOS 959.593 GRA)
 
-49 Ibrahim Ariff and Andik Marinah Ibrahim, [_The Past Malay Entrepreneurs in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202362036), 25; Buckley, [_An Anecdotal History of Old Times in Singapore, 1819–1867_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082239), 564.
+[^49]: Ibrahim Ariff and Andik Marinah Ibrahim, [_The Past Malay Entrepreneurs in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202362036), 25; Buckley, [_An Anecdotal History of Old Times in Singapore, 1819–1867_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082239), 564.
 
-50 Buckley, [_An Anecdotal History of Old Times in Singapore, 1819–1867_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082239), 564; Arnold Wright, ed., [_Twentieth Century Impressions of British Malaya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202711817) (London: Lloyd’s Greater Britain Publishing Co., 1908), 707. (From National Library Singapore, call no. RCLOS 959.51033 TWE)
+[^50]: Buckley, [_An Anecdotal History of Old Times in Singapore, 1819–1867_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082239), 564; Arnold Wright, ed., [_Twentieth Century Impressions of British Malaya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202711817) (London: Lloyd’s Greater Britain Publishing Co., 1908), 707. (From National Library Singapore, call no. RCLOS 959.51033 TWE)
 
-51 Buckley, [_An Anecdotal History of Old Times in Singapore, 1819–1867_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082239), 564.84, p. 564.
+[^51]: Buckley, [_An Anecdotal History of Old Times in Singapore, 1819–1867_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082239), 564.84, p. 564.
 
-52 Abdullah bin Abdul Kadir, [_The Voyage of Abdullah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4384525), pp. 2, 15.
+[^52]: Abdullah bin Abdul Kadir, [_The Voyage of Abdullah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4384525), pp. 2, 15.
 
-53 Abdullah bin Abdul Kadir, [_The Voyage of Abdullah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4384525), 21.
+[^53]: Abdullah bin Abdul Kadir, [_The Voyage of Abdullah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4384525), 21.
 
-54 Abdullah bin Abdul Kadir, [_The Voyage of Abdullah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4384525), 43.
+[^54]: Abdullah bin Abdul Kadir, [_The Voyage of Abdullah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4384525), 43.
 
-55 Abdullah bin Abdul Kadir, [_The Voyage of Abdullah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4384525), 68.
+[^55]: Abdullah bin Abdul Kadir, [_The Voyage of Abdullah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4384525), 68.
+
+
