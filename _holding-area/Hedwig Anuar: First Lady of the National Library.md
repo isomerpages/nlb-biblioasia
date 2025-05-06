@@ -145,25 +145,25 @@ The life of Hedwig Anuar is closely intertwined with the postcolonial developmen
 
 
 
-[^11]: S. Raja Ratnam, “When Malaya Ruled Britain,” _Suara Merdeka: Organ of the Malayan Forum_ (February 1956). (From National Library Singapore, call no. RCLOS 320.9595 SM)
+[^11]: S. Raja Ratnam, “When Malaya Ruled Britain,” [_Suara Merdeka: Organ of the Malayan Forum_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5604684) (February 1956). (From National Library Singapore, call no. RCLOS 320.9595 SM)
 
 
-[^12]: K.K. Seet, _A Place for the People_ (Singapore: Times Books International, 1983), 120. (From National Library Singapore, call no. RSING 027.55957 SEE); Chew, _A Pyramid of Public Service_, 90.&nbsp;
+[^12]: K.K. Seet, [_A Place for the People_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082325) (Singapore: Times Books International, 1983), 120. (From National Library Singapore, call no. RSING 027.55957 SEE); Chew, [_A Pyramid of Public Service_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12474710), 90.&nbsp;
 
 
-[^13]: “Removal of Library,” _Straits Times_, 4 October 1960, 4; “New Raffles Library Is Now Open,” _Straits Times_, 3 November 1960, 4. (From NewspaperSG)
+[^13]: “[Removal of Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19601004-1.2.45),” _Straits Times_, 4 October 1960, 4; “[New Raffles Library Is Now Open](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19601103-1.2.44),” _Straits Times_, 3 November 1960, 4. (From NewspaperSG)
 
 
-[^14]: Chan Thye Seng, oral history interview by Jason Lim, 12 July 2000, transcript and MP3 audio, Reel/Disc 11 of 15, National Archives of Singapore (accession no. 002265), 118–19.
+[^14]: Chan Thye Seng, oral history interview by Jason Lim, 12 July 2000, [transcript](https://www.nas.gov.sg/archivesonline/flipviewer/publish/7/7fe96b76-115e-11e3-83d5-0050568939ad-OHC002265_011/web/html5/index.html) and MP3 audio, Reel/Disc 11 of 15, National Archives of Singapore ([accession no. 002265](https://www.nas.gov.sg/archivesonline/oral_history_interviews/interview/002265)), 118–19.
 
 
-[^15]: Magdalene Lum, “I Couldn't Forget Bomb Scare,_” Straits Times_, 14 March 1999, 11. (From NewspaperSG)
+[^15]: Magdalene Lum, “[I Couldn't Forget Bomb Scare](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19990314-1.2.71.17.4),_” Straits Times_, 14 March 1999, 11. (From NewspaperSG)
 
 
-[^16]: Lim Peng Han, “The Teachers’ Training College/Institute of Education Library in Post War Singapore, 1950–1991: A Historical Perspective,” _Malaysian Journal of Library &amp; Information Science_ 17 no. 1 (April 2012): 93–106. (From National Library Singapore, call no. 025.52409595 MJLIS)
+[^16]: Lim Peng Han, “The Teachers’ Training College/Institute of Education Library in Post War Singapore, 1950–1991: A Historical Perspective,” [_Malaysian Journal of Library &amp; Information Science_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8930334) 17 no. 1 (April 2012): 93–106. (From National Library Singapore, call no. 025.52409595 MJLIS)
 
 
-[^17]: “New Library Service for 15–19 Age Group,” _Straits Times_, 14 April 1966, 9. (From NewspaperSG)
+[^17]: “[New Library Service for 15–19 Age Group](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19660414-1.2.58),” _Straits Times_, 14 April 1966, 9. (From NewspaperSG)
 
 
 [^18]: “New Mobile Library Service to Schools,” _Singapore Free Press_, 5 September 1960, 11; “National Library to Open on Sundays from Jan 2,” _Straits Times_, 25 November 1990, 30. (From NewspaperSG)
