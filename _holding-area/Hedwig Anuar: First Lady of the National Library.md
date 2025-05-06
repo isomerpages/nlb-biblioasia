@@ -30,6 +30,10 @@ Anuar also became involved in politics in university. Just before the end of her
 
 Anuar was among the members of the students’ union who visited the detainees. “Every Saturday I would apply for a pass from Special Branch to visit the detention camp on St John’s Island,” she said. “We would get the pass from Special Branch, and go to the Portmaster’s Pier to catch the launch to St John’s Island. And we bring food and books for the detainees. The British were quite liberal. They allowed the detainees to have books from the university library.” [^4]
 
+![](/images/Vol%2021%20Issue%202/Hedwig%20%20%20First%20Lady/hedwig2_women.jpg)
+<div style="background-color:white;">Hedwig Anuar (far left) with the first women arts and science graduates of the University of Malaya, 1950. <i>Courtesy of Shirin Aroozoo.</i></div>
+
+
 #### **Life in the United Kingdom**
 
 Despite her first class honours, Anuar was not offered a post in the government’s administrative service but in teaching. As a result, she decided to join the library of her alma mater, the University of Malaya, as a library assistant. [^5]
