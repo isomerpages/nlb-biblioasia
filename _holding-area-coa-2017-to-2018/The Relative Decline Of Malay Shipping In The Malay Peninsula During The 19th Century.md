@@ -626,7 +626,7 @@ Wright, Arnold. ed., [_Twentieth Century Impressions of British Malaya_](https:/
 
 [^31]: Milner, [_Kerajaan: Malay Political Culture on the Eve of Colonial Rule_](https://catalogue.nlb.gov.sg/search/card?recordId=2303945), 72.
 
-[^32] Abdullah bin Abdul Kadir, [_The Voyage of Abdullah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4384525) (Singapore: Malaya Publishing House, 1949) 9–10. (From National Library Singapore, call no. RCLOS 959.5 ABD)
+[^32]: Abdullah bin Abdul Kadir, [_The Voyage of Abdullah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4384525) (Singapore: Malaya Publishing House, 1949) 9–10. (From National Library Singapore, call no. RCLOS 959.5 ABD)
 
 [^33]: Charles Burton Buckley, [_An Anecdotal History of Old Times in Singapore, 1819–1867_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082239) (Singapore: Oxford University Press, 1984), 564. (From National Library Singapore, call no. RSING 959.57 BUC-\[HS\])
 
@@ -673,5 +673,3 @@ Wright, Arnold. ed., [_Twentieth Century Impressions of British Malaya_](https:/
 [^54]: Abdullah bin Abdul Kadir, [_The Voyage of Abdullah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4384525), 43.
 
 [^55]: Abdullah bin Abdul Kadir, [_The Voyage of Abdullah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4384525), 68.
-
-
