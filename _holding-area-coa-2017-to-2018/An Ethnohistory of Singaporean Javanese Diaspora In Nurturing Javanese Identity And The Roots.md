@@ -51,9 +51,9 @@ phenomenon is intertwined with the history of the Javanese in Singapore
 when Tumasik (Singapore’s ancient name) was one of the vassals of the
 Javanese-Majapahit empire, as recorded in 14th century Javanese annals
 *Nagarakrtagama* and *Pararaton* (Kriswanto, 2009:106; Riana, 2009:99). This
-has also been supported by archeological evidence1 of jewellery typical of the
+has also been supported by archeological evidence[^1] of jewellery typical of the
 Javanese-Majapahit kingdom unearthed around Bukit Larangan (present-day
-Fort Can ning in Singapore) (Kwa, Heng and Tan, 2009:14; Miksic and Gek, 2004:17). This begets the question of how Singaporean-Javanese can
+Fort Canning in Singapore) (Kwa, Heng and Tan, 2009:14; Miksic and Gek, 2004:17). This begets the question of how Singaporean-Javanese can
 nurture Javanese cultural heritage in their daily lives in Singapore, and how
 this would in turn encourage them to go on a roots journey to Java.
 
