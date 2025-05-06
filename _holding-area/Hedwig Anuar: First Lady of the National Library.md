@@ -113,6 +113,9 @@ While Anuar did try her best to establish a local library school, it did not hap
 
 The life of Hedwig Anuar is closely intertwined with the postcolonial development of Singapore’s libraries and literacy. She was recruited to head the development of library services at a time when Singapore was starting on its journey towards independence. But she never restricted herself to being a bureaucrat; instead, she established relationships and built networks with various people and organisations to promote reading, writing, publishing and even women’s awareness in Singapore. The world-class library system in Singapore today is thanks to the strong foundation laid by Anuar during her time as the director of the National Library.
 
+![](/images/Vol%2021%20Issue%202/Hedwig%20%20%20First%20Lady/hedwig2_hedwig.jpg)
+<div style="background-color:white;">  Hedwig Anuar, 2014. <i>Courtesy of Shirin Aroozoo.</i></div>
+
 
 
 <div style="background-color: white;">
