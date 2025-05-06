@@ -70,9 +70,15 @@ Anuar felt it was important to ensure that the library met the needs of younger 
 
 In 1966, Anuar started the young people’s service for the 15 to 19 age group, today known as the Young People’s Collection in the public libraries, targeting teenagers aged 13 to 19. [^17]
 
+![](/images/Vol%2021%20Issue%202/Hedwig%20%20%20First%20Lady/hedwig2_section.jpg)
+<div style="background-color:white;">Hedwig Anuar created the Young People’s Section in 1966 to bridge the gap in reading materials between the children’s and adult collections. <i>Collection of the National Library Singapore.</i></div>
+
 To make library services widely available, Harrod had opened part-time branch libraries in community centres and social welfare centres, and started preparations for a mobile library service, a library on wheels. In 1957, the purchase of a van for the mobile library service was made possible by a grant from the United Nations Educational, Scientific and Cultural Organization (UNESCO).&nbsp;
 
 In September 1960, Anuar launched the mobile library service to schools just two months before the opening of the new Stamford Road building. This service would serve rural areas by visiting schools and community centres. However, with the opening of more branch libraries around Singapore, usage of the mobile library service dropped and it eventually ceased in 1991. [^18]
+
+![](/images/Vol%2021%20Issue%202/Hedwig%20%20%20First%20Lady/hedwig2_tour.jpg)
+<div style="background-color:white;"> Hedwig Anuar giving Senior Parliamentary Secretary for Defence and Member of Parliament Phua Bah Lee a tour of the mobile library bus at the Tampines Community Centre, 1979. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Anuar also initiated the process of building fulltime branch libraries rather than continuing to operate part-time branch libraries with limited opening hours. Starting with Queenstown Branch Library in 1970 and Toa Payoh in 1974, this would steadily grow into a network of six such fulltime branch libraries by her retirement in 1988. The collection of vernacular language books (Malay, Tamil and Chinese) was also expanded to cater to Singapore’s general population.
 
