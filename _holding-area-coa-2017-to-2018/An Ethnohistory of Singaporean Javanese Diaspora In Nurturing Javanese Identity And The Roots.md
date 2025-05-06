@@ -135,8 +135,9 @@ importance of this to them:
    was a Javanese-Majapahit vassal is our pride of [being] Javanese<br>
    in a place where Gadjah Mada (a Majapahit prime minister who<br>
    united Nusantara by means of Palapa expedition) was here…”*<br>
+   *Interview with Sri Sulistiyanti<br>
+   Orchard Road, Singapore<br>
+   21 April 2018*
 
-        *Interview with Sri Sulistiyanti<br>
-               Orchard Road, Singapore<br>
-                21 April 2018*
+
 
