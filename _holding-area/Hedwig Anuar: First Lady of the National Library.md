@@ -80,6 +80,9 @@ Anuar accomplished this task in a year with a whirlwind tour through the states,
 
 In recognition of her services, Anuar was awarded the Public Administration Medal (Gold) by the Singapore government in 1969.
 
+![](/images/Vol%2021%20Issue%202/Hedwig%20%20%20First%20Lady/hedwig2_president.jpg)
+<div style="background-color:white;"> President Yusof Ishak presenting the Public Administration Medal (Gold) to Director of the National Library Hedwig Elizabeth Anuar at the 1969 National Day Awards investiture ceremony. <i>Courtesy of Shirin Aroozoo.</i></div>
+
 Aside from her contributions to the National Library, Anuar was also responsible for the creation of a national archive for Singapore. Historian K.G. (Kennedy Gordon) Tregonning, Raffles Professor of History at the University of Malaya, credited Anuar with pushing for the creation of the archive as a separate unit rather than just being a department in the library. She was also instrumental in liaising with Dutch archivist Frans Rijndert Johan Verhoeven, who had been the director-general of Malaysia’s National Archives from 1963 to 1966, and was appointed by UNESCO in 1967 to help set up Singapore’s archive. [^22]
 
 A milestone was reached in August 1968 when the National Archives and Records Centre (NARC) was formed, taking over the management, custody and preservation of public archives and government records from the National Library. Anuar was appointed the first director of the NARC and held the post until 1978, while still concurrently the director of the National Library.&nbsp;
