@@ -552,6 +552,10 @@ flights to Jakarta, Yogyakarta and Surabaya, the roots journey has become
 essential for all Singaporean-Javanese. This journey is an integral part of
 strengthening Javanese identity among the Singaporean-Javanese today.
 
+<img src="/images/COA%202017%20to%202018/Ethnohistory%20of%20Singaporean/Global_Javanese_Diaspora.jpg" style="width:100%;">
+<div style="background-color: white;">The opening ceremony of the Global Javanese Diaspora Reunion by HRH Prince of Wironegoro in
+Yogyakarta.<i> Image source: Wasisto “Jogja Tribunews.com”, 2017.</i></div>
+
 #### **Conclusion**
 
 Coming back to the question that is the essence of this paper – how do
