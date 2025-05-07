@@ -472,7 +472,7 @@ Chinese comparison:
    得过二十八小时四十分，外国文，一年至三年至多七小时十五分，四五<br>
    年至多十二小时十五分，余均暹文课程。姑录之，待公文来后再作计<br>
    谋。华侨与犹太可以弟兄矣，暹王拉玛六世之东方犹太一书，立论虽<br>
-   谬，情形近似。昔张之洞警康梁曰：［嗟尔康梁，慎毋犹太我中国］。<br>言是而路不衬也*。
+   谬，情形近似。昔张之洞警康梁曰：［嗟尔康梁，慎毋犹太我中国］。<br>   言是而路不衬也*。
 	 
 Hsu compares older and newer (*dixiong*) cases of the predicament of
 an economically dominant minority with no state to back them up
