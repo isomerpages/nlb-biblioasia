@@ -267,7 +267,7 @@ Stronza, 2010; Marschall, 2014), and to romanticise “a home identity”
 (Bandyopadhyay, 2008; Man, 2014). Therefore, in this section it can be
 argued that by maintaining Javanese cultural heritage within the Malay
 
-<img src="/images/COA%202017%20to%202018/Ethnohistory%20of%20Singaporean/The_Ship_Schedule.jpg" style="width:60%;">
+<img src="/images/COA%202017%20to%202018/Ethnohistory%20of%20Singaporean/The_Ship_Schedule.jpg" style="width:50%;">
  <div style="background-color: white;">The ship schedule from Java to Singapore and around the world during the
 Dutch colonial era, which was produced in the Dutch magazine Soerabaiasch-
 Handelsblad, <i>Maandag</i>, 15 August 1892 No. 187. <i>Image source: Retrieved from www.delpher.nl</i></div>
