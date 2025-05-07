@@ -198,15 +198,15 @@ jewellery, unearthed during excavations in Bukit Larangan between
 1926 and 1928, indicates that Javanese civilisations existed in Singapore
 since the 14th century (Anne and Lim, 2017:4; Bastin, 1994:5 Kwa, Heng
 and Tan, 2009:14; Miksic and Gek, 2004:17; Turnbull, 1989:19; Yeo,
-2017:24). According to a verse in *Nagarakrtagama*2 written in Kawi, an
-ancient Javanese language (Riana, 2009:99),3 Tumasik was a vassal of the
+2017:24). According to a verse in *Nagarakrtagama*[^2] written in Kawi, an
+ancient Javanese language (Riana, 2009:99),[^3] Tumasik was a vassal of the
 Javanese-Majapahit kingdom (Robson, 1995:2).
 
 <img src="/images/COA%202017%20to%202018/Ethnohistory%20of%20Singaporean/verse.jpg" style="width:80%;">
  <div style="background-color: white;">The verse in <i>Nagarakrtagama</i> mentions Tumasik (Singapore) as part of the Majapahit empire. <i>Image source: I Ketut Riana, Kakawin Desa Warnnana Uthawi Nagara Krtagama: Masa Keemasan Majapahit (Jakarta: Penerbit Buku Kompas, 2009), 99.</i></div>
 
 In line with *Nagarakrtagama*, Singapore is also mentioned in the
-majestic pledge4 of Gadjah Mada during his inauguration as Majapahit
+majestic pledge[^4] of Gadjah Mada during his inauguration as Majapahit
 Amangkubhumi (prime minister) in 1336 CE (Hazra, 2007:40). In addition,
 in 1275 CE (prior to the Majapahit period), Kertanegara from the Singhasari
 kingdom invaded Malayu under the Pamalayu expedition as narrated in
