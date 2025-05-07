@@ -97,7 +97,7 @@ gets Hsu’s stamp of approval:
    *Dafa told me: Thai people call the Head of the Royal Library<br>
    the “Father of Siam History” [บิดาของประวัติศาสตร์สยาม bida<br>
    khong prawatisat siam]; he who happens to be the only historian<br>
-   in Thailand.<br>
+   in Thailand.<br><br>
    大发告余，谓暹人称皇家图书馆主任为暹史之父บิดาของประวัติศาสตร์<br>
    สยาม 蓋暹国惟一之历史学家也*。
 	 
@@ -331,3 +331,145 @@ the Nazi Party in Germany] ransacked all of Germany’s libraries<br>
    schools’ group petition, by rejecting an exemption from its rules. By<br> 
    next month they will strongly enforce the law. All I can do is turn<br> 
    up my palms and lament. I don’t know what to do. (p. 132)*
+	 
+   **五月十四日（日）夜83°晴热**<br>
+
+   吴经熊谓宪法草案已考虑妥当，分民族民权民生三篇，行将起初稿云。德<br>
+
+   希特拉 卒青年遍搜全国图书馆，焚去其主义不同之各项书籍，并绘犹太<br>
+
+   人像若干，亦焚以鄙视之。有百馀犹太人已避往帕勒士丁云。暹政府答覆<br>
+
+   华校请愿团, 拒绝通融，出月便将强迫执行云。扼腕叹息，不知之何?<br>
+
+It is clear that Hsu felt sympathy for the plight of the German Jews, whose
+troubles were just beginning, and anxiety about the status of his own minority
+group, the Chinese in Siam, who confronted demands for cultural and
+linguistic assimilation in ways that particularly concerned him as an educator.42
+
+
+Against this backdrop, Hsu invoked Chinese law. The inconclusive debates
+over democracy and dictatorship in China during the 1920s resulted in the
+failure to implement a liberal constitution.43 Finally, in 1933, the Americantrained
+lawyer Wu Jingxiong (John Ching Hsiung Wu) drafted the first version
+of China’s 1946 constitution, known as the Wu draft. Article 1 of the draft
+stated that the Republic of China was a *san-min chu-i* [*sanmin zhuyi*] Republic,
+or a republic based on Sun Yat-sen’s Three Principles of the People, namely,
+“nationalism, democracy and the people’s livelihood”.44 Though promising to
+replace the nominal constitution accepted by the Beiyang generals, or warlords,
+after their defeat by the Kuomintang army during the Northern Expedition
+(1926–28), the Wu draft downplayed two cornerstones of Kuomintang policy
+in earlier times – Sun Yat-sen’s emphasis on the international anti-imperialist
+struggle and the liberal notion of individual rights. It framed the struggle
+for freedom in terms of an essential “Chinese” legacy of national salvation,
+whereby the party-state was now legally authorised to crush Leftist dissent from
+its leader Chiang Kai-shek’s “revolutionary nativism”.45
+
+Hsu does not discuss such ideological overtones in Wu’s 1933 draft
+constitution. What concerns Hsu, as the extract shows, is whether its rule of
+law and political interpretation apply to “overseas Chinese” subjects in Siam.
+Whereas citizens in China might have been concerned that the 1933 draft
+gave the state too much power over them as individuals, it is conceivable
+that a diasporic person like Hsu would want to see state power maximised
+because only then could China intervene in the affairs of countries where
+Chinese sojourners lived. Hsu lamented that China was not doing enough
+and worried about the lack of wartime rights advocacy for minority
+subjects with no backup from a powerful state (again, a situation where
+Jews and Chinese were not precisely in the same plight).46 The dilemma
+of the Kuomintang government’s right and ability to extend its protection
+over “overseas Chinese” populations would be resolved in the succeeding People’s Republic of China premier Zhou Enlai’s 1955 speech at the Afro-
+Asian conference in Bandung, where the overseas Chinese were asked to
+become citizens of either China or the decolonising nation-state where they
+were based.47 Today, this subtext is downplayed against the background of
+Chinese military expansion into Philippine and Vietnamese coastal areas,
+which I will discuss later.
+
+Zhou’s Bandung speech assumed that the citizenship question could be
+clearly defined in an emerging world of no longer colonial nation-states,
+each defined by their predominant ethnicity. Diasporic populations
+would no longer suffer second-class citizenship; their loyalty would no
+longer be suspect, but could be unambiguously declared for one nation or
+another. However, the history of the Chinese diaspora in the South Seas
+is somewhat more complex than an either/or option would allow. For
+one thing, powerful figures among the host nations persisted in justifying
+discrimination against Chinese sojourners. The best-known expression of
+this policy is the essay “The Jews of the Orient” (1914) written by King
+Vajiravudh Rama VI (r. 1910–25) under the pen name of Asavabahu.48
+
+The Jewish-Chinese comparison first given broad circulation in that essay
+normalised, or at very least, symptomatised the racialisation of the Chinese
+as Other in the allegedly ethnic Thai nation. Chinese “racial loyalty”, so
+goes Asavabahu’s accusation, made them “undesirable immigrants”, because
+they felt entitled to “expect to enjoy all the privileges of citizens without
+assuming any of the obligations” such as the corvée labour requirement for
+natives, and their expectation involved an “unstable allegiance” to material
+benefits such as tax evasion and social services – they “suspended work” to
+“protest having to pay THE SAME POLL TAX THAT ALL THAI PAY”
+and would ironically deign to register themselves as “nationals of foreign
+countries, even within China itself”.49
+
+The 1914 essay thus posed the question of Chinese extraterritorial rights
+in Siam, variously described as a semi-colonial, semi-feudal and cryptocolonial
+social formation whose monarchs retained independence from
+directly exercised Western imperialism but reproduced its governing
+structures within.50 For another thing, successive Chinese governments (and
+opposition parties) often depended on the support of émigré communities,
+who by their wealth and standing wielded outsized influence. Many have
+since parsed King Vajiravudh’s racist screed as a complex political and
+social response to changing times – and therefore not to be taken at face
+value. The king was aware of the power of diaspora communities; the fall
+of the Manchu dynasty in 1912 and the influence of republican ideology
+from China made him fearful of a spillover from a revolution against the
+monarchy. Hsu supplies evidence to support this view in *Beidanian shi*
+(*History of Patani*, 1946); indeed, the nationalist anti-Qing, or Patriotic
+Movement (*aiguo yundong*), had spread as far south as Patani.51
+
+Two other local incidents were probably at the back of the king’s mind:
+the three-day strike to protest the increase of the head tax, as mentioned,
+and the failed uprising or Palace Revolt of 1912 against him by young
+military officers, some of whom were Sino-Thai. To these political motives
+may be added an economic one. It is worth noting that, prior to the
+surge of Chinese immigration to Siam in 1918, Vajiravudh had described
+only the recently arrived poor, rural Chinese as “bad”, and criticised
+them for being stubbornly resistant to assimilation, because they refused
+to become Thai by failing to adopt his official nationalism of language,
+culture and service to the king.52 He had “ignor[ed] the Chinese who had
+been absorbed into the bureaucracy and old merchant families that had close business and personal ties to the monarchy”.53 Thus, the ethnic libel
+was perhaps no more than a fig leaf. Given such success in middle- and
+upper-class Thai-Chinese assimilation before the 20th century, Wasana
+Wongsurawat argues that the “Jewish analogy has acted as a sort of red
+herring, distracting observers from better explanations as to why the
+roles of China and the ethnic Chinese in the favorable outcome of the
+Second World War for Thailand have been so successfully expunged”.54
+Instead of state-driven, anti-Chinese discriminatory policies and
+propaganda, Wongsurawat views anticommunist international relations
+as a more satisfactory reason for the forgotten history of the left-leaning
+revolutionary Chinese participation in the Allied-supporting Free Thai
+Movement, which opposed the Japanese-Thai alliance and saved Thailand
+from being defeated (i.e. from being on the wrong side) in the war. In
+hindsight, “Vajiravudh’s railing against the Chinese did not result in a
+purge or genocide (as suffered by the Jews in Europe) but led to political
+policies that began the process of forcing the Chinese to assimilate into
+Thai society”.55
+
+But Hsu could not have possibly anticipated this outcome when he
+mentioned King Vajiravudh’s essay in another diary entry. He took antiassimilation
+Chinese education policies in Siam as his baseline, using an
+erudite instance of late-Qing political relations to disambiguate the Jewish-
+Chinese comparison:
+
+
+   **April 23 (sun) 89° in the afternoon, hot**<br>
+At noon, I went with Da Fa and Ding Yi to the Education<br>
+Bureau to copy out the laws issued by the Minister of Education.<br>
+The important points include: each week classes cannot exceed 28<br>
+hours and 40 minutes, for foreign languages, first to third years can<br>
+have a maximum of 7 hours and 15 minutes, fourth to fifth years a<br>
+maximum of 12 hours and 15 minutes, the remaining hours are for<br>
+Thai language classes. Tentatively we wrote them down, but will<br>
+wait for the official document to make plans. The overseas Chinese<br> and Jews are comparable. Although the arguments in King Rama<br>
+VI’s essay, “The Jews of the Orient”, were ridiculous, the situations<br>
+are similar. In the past Zhang Zhidong warned Kang Youwei<br>
+and Liang Qichao: “Ah, Kang and Liang, be careful not to make<br>
+China Jewish”. He named the problem correctly but the way out<br>
+isn’t clear. (pp. 119-120)
