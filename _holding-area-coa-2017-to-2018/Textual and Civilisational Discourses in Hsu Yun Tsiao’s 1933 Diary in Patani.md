@@ -253,3 +253,56 @@ him, Taksin’s legacy has been controversial and open to debate. The figure
 of Taksin has gone through waves of rehabilitation under both military
 and democratic rule. After the 1932 Siamese revolution, Taksin was used to
 “arouse nationalism, which subtly discredited the Chakri dynasty”.
+
+In 1936, Hsu’s appropriation of Siam’s nationalist histories for Chinese
+diasporic purposes predated revisionist writings of Thai history by
+historians affectionately known as the “Jek” (chink) school in the 1980s,
+once again calling attention to Chinese contributions to the Thai nationstate
+– not forgetting the Chinese bloodline of Siamese monarchs. In 1986,
+Nidhi Eoseewong published *Thai Politics in the Reign of Thonburi*, which
+challenged the “heroic life and tragic death of King Taksin” and has been
+since reprinted constantly.36 It is worth noting that after the founders of the
+Chakri dynasty (c. 1782) staged a palace coup against Taksin and executed
+him, Taksin’s legacy has been controversial and open to debate. The figure
+of Taksin has gone through waves of rehabilitation under both military
+and democratic rule. After the 1932 Siamese revolution, Taksin was used to
+“arouse nationalism, which subtly discredited the Chakri dynasty”.
+
+In 1973, however, the People’s Party of 1932 was “presented as a
+representation of military rule who robbed the Thai people of a chance
+to gain a democratic constitution conferred by the King”. Royalism was
+strengthened via the figure of Taksin, where the “monarch’s traditional
+function as the epitome of ‘Thainess’ made it compulsory for all groups
+jostling for power to display their allegiance to the monarch”.37 In a further
+twist, as Sittithep Eaksittipong observes, while the figure of King Taksin
+helped to “writ[e] the Chinese into Thai history”, its use as a “seditious
+cultural symbol” to “subvert the sacredness of the Thai monarch as an abode
+of pure Thainess” instead “link[ed] the Chinese to the Thai monarchy”.38
+This would cause trouble in academic debates about Chinese assimilation
+in Siam. Historian Wang Gungwu succinctly describes the controversy
+around what is known as the assimilation paradigm: “It was in this
+context that G. William Skinner wrote his two authoritative volumes on
+the Chinese in Thailand and stressed that the Chinese could, if the right In 1973, however, the People’s Party of 1932 was “presented as a
+representation of military rule who robbed the Thai people of a chance
+to gain a democratic constitution conferred by the King”. Royalism was
+strengthened via the figure of Taksin, where the “monarch’s traditional
+function as the epitome of ‘Thainess’ made it compulsory for all groups
+jostling for power to display their allegiance to the monarch”.37 In a further
+twist, as Sittithep Eaksittipong observes, while the figure of King Taksin
+helped to “writ[e] the Chinese into Thai history”, its use as a “seditious
+cultural symbol” to “subvert the sacredness of the Thai monarch as an abode
+of pure Thainess” instead “link[ed] the Chinese to the Thai monarchy”.38
+This would cause trouble in academic debates about Chinese assimilation
+in Siam. Historian Wang Gungwu succinctly describes the controversy
+around what is known as the assimilation paradigm: “It was in this
+context that G. William Skinner wrote his two authoritative volumes on
+the Chinese in Thailand and stressed that the Chinese could, if the right policy were followed, be assimilated in Southeast Asia. Today, scholars
+tend to emphasise the degrees of political assimilation while pointing to the
+continued existence of Chinese ethnicity”.39 The paradoxical claim that the
+Chinese were never “the Other” but required inclusion into Thai society
+would become more perplexing in the “converging intellectual nationalism”
+of the Cold War period. From the mid-1970s, progressive Sino-Thai scholars
+protested against “American academic involvement with Thailand” by
+drawing on the work of nationalistic scholars from the People’s Republic
+of China who reasserted China’s claim to “long-term historical sovereignty
+over the Dai-inhabited areas of Yunnan”.40
