@@ -300,7 +300,12 @@ To minimise social conflict among the early immigrants in Singapore,
 Raffles, along with his government, formulated a town plan (also called
 the Jackson Plan) in 1822 to divide residential land based on the different
 races in Singapore (Anne and Lim, 2017:24). These ethnic-based areas were
-assigned names such as Kampong Java and Kampong Bugis.8 Over time,
+assigned names such as Kampong Java and Kampong Bugis.8 
+
+<img src="/images/COA%202017%20to%202018/Ethnohistory%20of%20Singaporean/Sign_Kampong_Java_Road.jpg" style="width:50%;">
+<div style="background-color: white;">Sign to Kampong Java Road in Little India MRT station. <i>Courtesy of Fuji Prastowo, 2018.</i></div>
+
+Over time,
 close interactions and shared religious values among immigrant communities resulted in the Javanese being labelled as Malay. This made it difficult for the
 Javanese identity to stand alone, as shared by Suryakencana Omar:
 
