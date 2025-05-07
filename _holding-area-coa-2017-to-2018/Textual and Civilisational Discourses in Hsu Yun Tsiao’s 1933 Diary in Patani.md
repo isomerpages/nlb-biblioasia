@@ -306,3 +306,28 @@ protested against “American academic involvement with Thailand” by
 drawing on the work of nationalistic scholars from the People’s Republic
 of China who reasserted China’s claim to “long-term historical sovereignty
 over the Dai-inhabited areas of Yunnan”.40
+
+
+#### **Diasporic Nationalism and Hsu Yun-Tsiao’s Comparative Politics of China and Siam in 1933**
+
+In his diary from 1933, Hsu described the plight of the Chinese minority in
+Siam, and more generally, of the *huaqiao* (Chinese sojourners) in Southeast
+Asia. Responding, no doubt, to the front page of the newspaper, that space
+of simultaneity where, as Benedict Anderson argues,41 modern people find
+their place in the world, Hsu drew a parallel between the misfortunes of two
+minority peoples (the German Jews and Chinese in Siam) confronted with
+nationalist exclusivism:
+
+   **May 14 (sun) 83° at night, hot day**<br> 
+   *Wu Jingxiong said that the draft of the constitution has already<br> 
+   been considered reliable, and is divided into three sections, namely,<br> 
+   nationalism, democracy and the people’s livelihood, and will be<br> 
+   enacted based on this early draft. The Hitler Youth [youth wing of<br> 
+the Nazi Party in Germany] ransacked all of Germany’s libraries<br> 
+   and burned all types of books that differed from their ideology. It<br> 
+   attached some kind of sign to the Jews, in order to permit them<br> 
+   to be burnt and loathed. Hundreds of Jews have already fled<br> 
+   to Palestine. The Siamese government responded to the Chinese<br> 
+   schools’ group petition, by rejecting an exemption from its rules. By<br> 
+   next month they will strongly enforce the law. All I can do is turn<br> 
+   up my palms and lament. I don’t know what to do. (p. 132)*
