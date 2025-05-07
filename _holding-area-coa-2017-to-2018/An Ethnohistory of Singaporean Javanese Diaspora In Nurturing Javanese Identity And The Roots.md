@@ -626,3 +626,303 @@ diaspora, for reviewing this essay and providing his input*.
 the issue of Javanese diaspora around the globe. He is a lecturer in Sociology at the
 Universitas Gadjah Mada in Indonesia and the director of Golong Gilig Institute of
 Diaspora and Nusantara Studies. He can be reached at fujiriangprastowo@ugm.ac.id</div>
+
+#### **REFERENCES**
+   
+
+Adji, Krisna Bayu and Sri Wintala Achmad. [_Sejarah Kejayaan Singasari Dan Kitab Para Datu: Menyingkap Singasari Berdasarkan Fakta Sejarah_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200846472) \[The history of Singasari's success and the book of the datus: Revealing Singasari based on historical facts\]. Yogyakarta: Araska Publisher, 2013. (From National Library Singapore, call no. Malay RSEA 959.828 ADJ)
+
+Ageeth, Sluis and Elise Edwards, “Rethinking Combined Departments: An Argument for History and Anthropology,” _Learning and Teaching: The International_ _Journal of Higher Education in the Social Sciences_ 6, no. 1 (Spring 2013): 72–88. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Agung Kriswanto. [_Pararaton_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200381446)_._ Jakarta: Wedatama Widya Sastra, 2009. (From National Library Singapore, call no. Malay RSEA 899.2221 PRA)
+
+Aidi Abdul Rahim. “The Nusantara Ethnic Communities of Singapore –Javanese, Baweanese, Minangs, and Banjarese.” In [_Majulah!: 50 Years of Malay/Muslim Community in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202511186), edited by Zainul Abidin Rasheed and Norshahril Saat. Singapore: World Scientific, 2016, 519–32. (From National Library Singapore call no. RSING 305.6970959R57 MAJ)
+
+Allen, Pamela. “Diasporic Representations of the Home Culture: Case Studies From Suriname and New Caledonia.” _Asian Ethnicity_ 16, no. 3 (December 2013): 1–18.
+
+Anshory, H. M. Nasruddin and Arbaningsih. _Negara Maritim Nusantara: Jejak Sejarah Yang Terhapus_ \[Archipelago Maritime Countries: Erasing Traces of History\]. Yogyakarta: Tiara Wacana, 2008.
+
+Arora, Anupama and Sandrine Sanos, “Bhangra Blues: Melancholy, Memory, and History in Gurinder Chadha’s _I’m British But ..._.” &nbsp;_Journal of Postcolonial Writing_ 47, no. 1 (2011): 89–100.
+
+Azhar Ibrahim. [_Narrating Presence: Awakening From Cultural Amnesia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200891471). Singapore: Malay Heritage Foundation, 2014. (From National Library Singapore, call no. RSING 305.8992805957 AZH)
+
+“Data Penempatan dan Perlindukan Tenaga Kerja Indonesia (TKI) Periode Bulan Desember Tahun 2017” \[Indonesian Workforce Placement and Protection Data (TKI) for December 2017\]. Badan Nasional Penepatan Dan Perlindungan Tenaga Kerja Indonesia (BN P2TKI), December 2017.
+
+Bagus Kurniawan. “Berbagai Kisah Saat Keturunan Jawa Saling Bertemu dalam Javanese Diaspora” \[Various stories when javanese descendants meet each other in the javanese diaspora\], _DetikNews_, 15 August 2015.
+
+Balfour, Edward, ed. [_Cyclopædia of India and of Eastern and Southern Asia, Commercial, Industrial and Scientific_](https://catalogue.nlb.gov.sg/search/card?recordId=300064726). Madras: Printed at the Scottish &amp; Adelphi presses, 1873. (From National Library Singapore, call no. SBG 954 CYC)
+
+Bandyopadhyay, Ranjan. “Nostalgia, Identity and Tourism: Bollywood in the Indian Diaspora.” _Journal of Tourism and Cultural Change_ 6, no. 2 (September 2008): 79–100.
+
+Bastin, John. [_Travellers’ Singapore: An Anthology_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7062675). Kuala Lumpur: Oxford University Press, 1994. (From National Library Singapore, call no. RSING 959.5705 TRA-\[HIS\])
+
+Basu, Paul. “Roots Tourism As Return Movement: Semantics and the Scottis Diaspora.” In _Emigrant Homecomings: The Return Movement of_ _Emigrants, 1600–2000_, edited by Marjory Harper. Manchester: Manchester University Press, 2005.
+
+–––. _Highland Homecomings: Genealogy and Heritage Tourism in the Scottish Diaspora._ London: Routledge, 2007.
+
+Barwise, J. M. and Nicholas J. White. [_A Traveller’s History of South East Asia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=10519809). London: Cassell, 2002. (From National Library Singapore, call no. RSEA 959 BAR)
+
+Bhandari, Kalyan. “Imagining the Scottish Nation: Tourism and Homeland Nationalism in Scotland.” _Current Issues in Tourism_ 19, no. 1 (2016): 1–18.
+
+Blagden, C. O. “Notes on Malay History.” _Journal of the Straits Branch of the Royal Asiatic Society_ 53 (September 1909): 139–161, 62. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Brinkerhoff, Jennifer M. _Digital Diasporas: Identity and Transnational Engagement._ Cambridge: Cambridge University Press, 2009.
+
+Brown, John W. _World Migration and Labour._ Amsterdam: Bureau Centrale Informatie van Het Emigratiebestuur, 1926. &nbsp;
+
+Calloway, Collin G. “In Defense of Ethnohistory.” _Journal of American Studies_ 17, no. 1 (April 1983): 95–99. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Carmack, Robert M. “Ethnohistory: A Review of Its Development, Definitions, Methods, and Aims,” _Annual Review of Anthropology_ 1 (1972): 227–46. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Chaves, Kelly K. “Ethnohistory: From Inception to Postmodernism and Beyond.” _Historian_ 70, no. 3 (Fall 2008): 486–513. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Chew, W. L. “Exploring Heirlooms of the Singapore-Javanese Community.” _Channel NewsAsia_, 10 June 2016. (From Factiva via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Chia, Jeanette Hwee Hwee. [_A History of the Javanese and Boyanese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202797469). Singapore: NUS, 1992). (From National Library Singapore, call no. RSING 305.89928095957 CHI)
+
+Chia, Priscilla and Trenton James Riggs. “We, the Citizens of Singapore.” In [_Within &amp; Without: Singapore in the World; The World in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202390216), edited by Pang Eng Fong and Arnoud De Meyer. Singapore: Singapore Management University, 2016. (From National Library Singapore, call no. RSING 959.57 WIT-\[HIS\])
+
+Christensen, Karen and David Levinson, ed., [_Encyclopedia of Community: From the Village to the Virtual World_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12247967)_._ California: Sage Publications, 2003. (From National Library Singapore, call no. R q307.03 EN C)
+
+Clifford, James. “Diasporas.” _Cultural Anthropology_ 8, no. 3 (August 1994): 302–8. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Cohen, Robin. _Global Diasporas: An Introduction_. London: Routledge, 2008.
+
+Crang, Philip. “Diasporas and Material Culture.” In _Diaspora: Concepts, Intersections, Identities_, edited by Kim Knott and Sean McLoughlin. England: Zed Books, 2010, 139–244.
+
+Diagana, Melissa and Jyoti Angresh. [_Fort Canning Hill: Exploring Singapore’s Heritage and Nature_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14716750). Singapore: ORO editions, 2013. (From National Library Singapore, call no. RSING 959.57 DIA-\[HIS\])
+
+Drzewiecka, Jolanta A. “Reinventing and Contesting Identities in Constitutive Discourses: Between Diaspora and Its Others.” _Communication Quarterly_ 50, no. 1 (2002): 1–23.
+
+Duarte, Fernanda. “Living in ‘The Betweens’: Diaspora Consciousness Formation and Identity Among Brazilians in Australia.” _Journal of Intercultural Studies_ 26, no. 4 (2005): 315–35.
+
+Dubuisson, Eva-Marie and Anna Genina. “Claiming an Ancestral Homeland: Kazakh Pilgrimage and Migration in Inner Asia.” _Central Asian Survey_ 30, no. 3–4 (2011): 469–85.
+
+Esman, J. Milton. [_Diasporas in the Contemporary World_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13205667). Cambridge: Polity Press, 2009. (From National Library Singapore, call no. RSEA 325 ES M)
+
+Fairley, J. Nancy. “Dreaming Ancestors in Eastern Carolina.” _Journal of Black Studies_ 33, no. 5 (May 2003): 545–61. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Falzon, Mark-Anthony. “‘Bombay, Our Cultural Heart’: Rethinking the Relation Between Homeland and Diaspora.” _Ethnic and Racial Studies_ 26, no. 4 (2003): 662–83.
+
+Fontana, Bernard L. “What Is Ethnohistory?” _Arizoniana_ 2, no. 1 (Spring 1961): 9–11. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Gadacz, Rene R. “The Language of Ethnohistory.” _Anthropologica_ 24, no. 2 (1982): 147–65. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Geana, Gheorghita. “Remembering Ancestors: Commemorative Rituals and the Foundation of Historicity.” _Journal History and Anthropology_ 16, no. 3 (September 2005): 349–61.
+
+Hadi Sidomulyo and Nigel Bullough. _Napak Tilas Perjalanan_ \[Napak Tilas Travel\]. Jakarta: Wedatama, 2007. &nbsp;
+
+Hall, Daniel George Edward. _A History of South-East Asia_. London: Macmillan, 1960.
+
+Harkin, Michael E. “Ethnohistory’s Ethnohistory: Creating a Discipline From the Ground Up.” _Social Science History_ 34, no. 2 (Summer 2010): 113–28. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Hazra, Kanai Lal. [_Indonesia: Political History and Hindu and Buddhist Cultural Influences_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12882093). New Delhi: Decent Books, 2007. (From National Library Singapore, call no. RSEA 959.8 HAZ)
+
+Hening Wasisto. “Javanese Diaspora Event III Resmi Dibuka Siang Ini.” _TribunJogja_, 17 April 2017.
+
+Hidayah Amin. [_Bahasa: A Guide to Malay Languages: Banjar, Bawean, Buginese, Javanese, Malay, Minangkabau, Slitar and Tagalog_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202890270). Singapore: Helang Books, 2017. (From National Library Singapore, call no. RSING 499.28 HID)
+
+Huggan, Graham. “Post-Coloniality.” In _Diaspora: Concepts, Intersections, Identities_, edited by Kim Knott and Sean McLoughlin. England: Zed Books, 2010, 55–58.
+
+Hussin Mutalib. [_Singapore Malays: Being Ethnic Minority and Muslim in a Global Citystate_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14355014). New York: Routledge, 2012. (From National Library Singapore, call no. RSING 305.8992805957 HUS)
+
+I Ketut Riana. _Kakawin Desa Warnnana Uthawi Nagara Krtagama: Masa Keemasan Majapahit_. Jakarta: Penerbit Buku Kompas, 2009. &nbsp;
+
+Ibrahim Tahir, ed. [_A Village Remembered Kampong Radin Mas 1800s–1973_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200131743). Singapore: OPUS Editorial Private Limited, 2013. (From National Library Singapore, call no. RSING 959.57 VIL-\[HIS\])
+
+Iorio, Monica and Andrea Corsale. “Diaspora and Tourism: Transylvanian Saxons Visiting the Homeland.” _Tourism Geographies_ 15, no. 2 (2013): 198–232.
+
+“Javanese Diaspora Event III ‘Ngumpulke Balung Pisah’.” _JogjaTV_, 23 March 2017.
+
+Khachig, Tololyan. “The Contemporary Discourse of Diaspora Studies.” _Journal Comparative Studies of South Asia, Africa and the Middle East_ 27, no. 3 (December 2007): 647–59.
+
+Kim Knott and Sean McLoughlin, eds. _Diaspora: Concepts, Intersections, Identities_. England: Zed Books, 2010.&nbsp;
+
+Kuutma, Kristin. “Concepts and Contingencies in Heritage Politics.” In Anthropological Perspectives on Intangible Cultural Heritage, edited by Arizpe Lourdes and Cristina Amescua. London: Springer, 2013, 1–15.
+
+Kwa, Chong Guan, Heng Derek Thiam Soon and Tan Tai Yong. [_Singapore, a 700-Year History: From Early Emporium to World City_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13205984). Singapore: National Archives of Singapore, 2009. (From National Library Singapore, call no. RSING 959.5703 KWA-\[HIS\])
+
+Leong, Amelia M. W., et al. “Nostalgia As Travel Motivation and Its Impact on Tourists Loyalty.” _Journal of Business Research_ 68, no. 1 (January 2015): 81–86.
+
+Levitt, Peggy. “Transnationalism.” In _Diaspora: Concepts, Intersections, Identities_, edited by Kim Knott and Sean McLoughlin. England: Zed Books, 2010, 39–44.
+
+Levi, Andreh, Andrey Levi and Alex Weingrod. _Homelands and Diasporas: Holy Lands and Other Places_. Stanford: Stanford University Press, 2005.
+
+Long, J. Nicholas. [_Being Malay in Indonesia: Histories, Hopes, and Citizenship in the Riau Archipelago_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200125374). Singapore: Asian Studies Association of Australia in Association with NUS Press and NIAS Press, 2013. (From National Library Singapore, call no RSING 305.89928059814 LON)
+
+Man, U-Lo. “Exploring the Motivation of Chinese Immigrants for Homeland Tourism.” _Current Issues in Tourism_ 20, no. 5 (May 2014): 521–35.
+
+Marschall, Sabine. “Travelling Down Memory Lane: Personal Memory as a Generator of Tourism.” _Tourism Geographies_ 17, no. 1 (2015): 36–53.
+
+–––. “Homesick Tourism: Memory, Identity and (Be)longing.” _Current Issues in Tourism_, 18, no. 9 (2015): 876–982.
+
+Maruyama, Naho and Amanda Stronza. “Roots Tourism of Chinese Americans.” _Ethnology_ 49, no. 1 (Winter 2010): 23–44. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Marwati Djoened Poesponegoro and Nugroho Notosusanto. _Sejarah Nasional Indonesia, Jilid II_. Yogyakarta: Balai Pustaka, 1992.
+
+Miksic, John N. and Cheryl-Ann Low Mei Gek, eds. [_Early Singapore, 1300s–1819: Evidence in Maps, Text, and Artefacts_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12284523). Singapore: Singapore History Museum, 2004. (From National Library Singapore, call no. RSING 959.5703 EAR-\[HIS\])
+
+Mitchell, Jon P. “The Nostalgic Construction of Community: Memory and Social Identity in Urban Malta.” _Ethnos_ 63, no. 1 (1998): 81–101.
+
+Mohamed Nahar Ros. [_Sacred Places: Keramats in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202805786). Singapore: National University of Singapore, 1984. (From National Library Singapore, call no. RSING 305.89928095957 MOH)
+
+Morawska, Ewa. “‘Diaspora’ Diasporas’ Representations of Their Homelands: Exploring the Polymorphs.” _Ethnic and Racial Studies_, 34, no. 6 (2011): 1029–048.
+
+Muljana, Slamet. _Nagara Kretagama: Tafsir Sejarah_. Yogyakarta: LK is Group, 2011.
+
+Munoz, Paul Michel. [_Early Kingdoms of the Indonesian Archipelago and the Malay Peninsula_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12713723). Singapore: Editions Didier Millet, 2006. (From National Library Singapore, call no. RSEA 959.801 MUN)
+
+Nederbragt, J. A. [_Handbook of the Netherlands and Overseas Territories_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4117371)_._ The Hague: Ministry of Foreign Affairs of Nederland, Economic Section, 1931. (From National Library Singapore, call no. RCLOS 949.2 HAN-\[JK\])
+
+Niermeyer, J. F. _De Oost En De West. Groningen_: Wolters, 1909.
+
+Noor Aisha Abdul Rahman and Azhar Ibrahim. [_Malays_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202828649). Singapore: Institute of Policy Studies and Straits Times Press, 2017. (From National Library Singapore, call no. RSING 305.89928095957 NOO)
+
+Oonk, Gijsbert, ed. [_Global Indian Diasporas: Exploring Trajectories of Migration and Theory_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12981122). Amsterdam: Amsterdam University Press, 2007. (From National Library Singapore, call no. R 304.80954 GLO)
+
+Pang, Eng Fong and Armoud De Meyer, eds. [_Within and Without: Singapore in the World, the World in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202390216). Singapore: Singapore Management University, 2016. (From National Library Singapore, call no. RSING 959.57 WIT-\[HIS\])
+
+Peachey, Anna and Mark Childs. _Reinventing Ourselves: Contemporary Concepts of Identity in Virtual Worlds_. London: Springer, 2011.
+
+Pinho, Patricia de Santana. “African-American Roots Tourism in Brazil.” _Latin American Perspectives_ 35, no. 3 (May 2008): 70–86. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Prapanca, Mpu. [_Desawarnana (Nagarakrtagama)_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7810231). Translated by Stuart Robson. Leiden: KITL V., 1995. &nbsp;(From National Library, Singapore, call no. RSEA 959.8012 PRA)
+
+Prastowo, Fuji Riang, et.al. “Babad Jawa Ing Paran “Bab Jawa Ing Landa”, Sejarah Orang Jawa Di Belanda.” \[The chronicle of javanese diaspora in the Netherlands\]_._ Yogyakarta: Dinas Kebudayaan D.I.Yogyakarta, 2017. &nbsp;
+
+Prick van Wely, F. P. H. _Indische Woorden En Hunne Equivalenten in De Moderne Talen_. Batavia: G. Kolff &amp; Co., 1903. (From National Library Singapore, call no. RUR 439.31 PRI)
+
+Purwadi. _Babad Majapahit_. Yogyakarta: Media Abadi, 2005. &nbsp;
+
+Ratnasingam, Malini. “National Identity: A Subset of Social Identity?” In [_Ethnic Relations and National Building: The Way Forward_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13604359), edited by Maya Khemlani David, James McClellan, Yeok Meng Ngeow and Wendy Mei Tien Yee. Petaling Jaya: Strategic Information and Research Development Centre, 2010. (From National Library Singapore, call no. RSEA 959.5 ETH)
+
+Ricklefs, M. C. [_A History of Modern Indonesia since c.1200_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13098443)_._ Basingstoke: Palgrave, 2001. (From National Library Singapore, call no. RSEA 959.8 RIC)
+
+Rouffaer, G. P. and R. O. Winstedt, “The Early History of Singapore, Johore &amp; Malacca.” _Journal of the Straits Branch of the Royal Asiatic Society_ 86 (November 1922): 257–60. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Rozen, Minna. [_Homelands and Diasporas: Greeks, Jews and Their Migrations_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13112869). London: I. B. Tauris, 2008. (From National Library Singapore, call no. R 909.04893 HOM)
+
+Russell, Dale W. “Nostalgic Tourism.” _Journal of Travel &amp; Tourism Marketing,_ 25, no. 2 (October 2008): 103–16.
+
+Safran, William. “Comparing Diasporas: A Review Essay.” Diaspora: _A Journal of Transnational Studies_ 8, no. 3 (Winter 1999): 255–91.
+
+Schneider, William and Aron Crowell. _Living With Stories: Telling, Re-Telling, and Remembering_. Logan: Utah State University Press, 2008. &nbsp;
+
+Schraam, Katharina. _African Homecoming: Pan-African Ideology and Contested Heritage_. California: Left Coast Press, 2010.
+
+Shashangka, Damar. _Sabda Palon III: Geger Majapahit_. Jakarta: Penerbit Dolphin, 2013. &nbsp;
+
+Sheffer, Gabriel. “Homeland and Diaspora: An Analytical Perspective on Israeli–Jewish Diaspora.” _Ethnopolitics_ 9, nos. 3–4 (2010): 379–99.
+
+Singapore. [_Department of Statistics. Census of Population 2010. Statistical Release 1, Demographic Characteristics, Education, Language and Religion_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13785367). Singapore: Department of Statistics, Ministry of Trade and Industry, 2011. (From National Library Singapore, call no. RSING 304.6021095957 CEN)
+
+_Straits Times_. Kao, Delphine. “[On Show: Culture of Local Javanese Community](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20160528-1.2.67.16).” 28 May 2016, 10. (From NewspaperSG)
+
+Tan, Lesley-Anne and Monica Lim. [_Secrets of Singapore: National Museum_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202769140). Singapore: Epigram Books, 2017. (From National Library Singapore, call no. RSING 959.57 TAN)
+
+Tham, Seong Chee. [_Defining “Malay”_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6538629). Singapore: Department of Malay Studies, National University of Singapore, 1992. (From National Library Singapore, call no. RSING 305.899205957 THA)
+
+Turnbull, C. M. [_A History of Singapore 1819–1988_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5178825)_._ Singapore: Oxford University Press, 1989. (From National Library Singapore, call no. RSING 959.57 TUR-\[HIS\])
+
+Vertrekken. “van Soerabaia.” _Soerabaiasch-Handelsblad_ 187 (15 August 1892): 4, accessed from delpher.nl.
+
+Walree, Emile David Van. [_Economic Relations of the Netherlands Indies With Other Far Eastern Countries_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5030866). Amsterdam: National Council for the Netherlands and the Netherlands Indies of the Institute of Pacific Relations, 1935. (From National Library Singapore, call no. RSEA 382.0959805 WAL)
+
+Wood, W. Raymond. “Ethnohistory and Historical Method.” _Archaeological Method and Theory_ 2 (1990): 81–109. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Yeo, Stephanie. [_Re)presenting Histories: Experiences and Perspectives From the National Museum of Singapore_](https://catalogue.nlb.gov.sg/search/card?recordId=202902435). Singapore: National Museum of Singapore, 2017. (From National Library Singapore, call no. RSING 069.5095957 REP)
+
+Zee, D. Van Der. _Batavia De Koningin Van Het Oosten_. Rotterdam: Schueler, 1925.
+
+Zhao, Shanyang, Sherri Grasmuck and Jason Martin. “Identity Construction on Facebook: Digital Empowerment in Anchored Relationships.” _Computers in Human Behavior_ 24, no. 5 (September 2008): 1816–836.
+
+**Anthropological Sources**
+
+This ethnography was conducted through fieldwork by means of interviews and conversations from November 2017 to May 2018: Participation during a “Pesta Pusaka Seni” event held by the Malay Heritage Centre on 24 February 2018; in-depth interviews/FG D with Suryakencana Omar and Zuraidah Ehsan in Paya Lebar on 18 January 2018; visiting Sujono’s flat for in-depth interviews on 25 February 2018, 21 April 2018 and 19 May 2018.
+
+**Suryakencana Omar**
+
+The Head of Javanese Association of Singapore (JAS ); Conversations on Facebook since 2015, in-depth interview in Paya Lebar on 18 January 2018, conversations at the Malay Heritage Centre on 24 February 2018.
+
+**Zuraidah Ehsan**
+
+Member of JAS ; In-depth interview in Paya Lebar on 18 January 2018, conversations at the Malay Heritage Centre on 24 February 2018.
+
+**Sujono**
+
+A retiree; The second descendant of the first Javanese migrant in the 1920s; In-depth interview held in Jurong East on 25 February 2018 and 21 April 2018.
+
+**Sri Sulistiyanti Sujono**
+
+A Facebook group administrator of SambungRoso Java Suriname-Indonesia; Conversations on Facebook since 2016 and Instagram since 2018, conversations at Orchard (Singapore) on 15 January 2018, in-depth interviews in Jurong East on 25 February 2018 and 21 April 2018.
+
+**Fistri Abdul Rahim**
+
+A member of JAS; Conversations on Facebook since 2015 and Instagram since 2017, conversations at the National Library, Singapore on 25 November 2017 and at the Malay Heritage Centre on 24 February 2018.
+
+**Haider Surya Sahle**
+
+A Facebook group administrator of Javanese Singaporeans; Conversations on Facebook since 2016 and at the Malay Heritage Centre on 24 February 2018.
+
+**Hafiz Rashid**
+
+A Boyanese who speaks Javanese and loves its heritage, as well as a JAS member; Conversations at the National Library, Singapore on 25 November 2017 and at the Malay Heritage Centre on 24 February 2018, in-depth discussions at the National Library, Singapore on 12 February 2018 and 19 February 2018.
+
+**Mimie Sulamie**
+
+A member of JAS ; Conversations at the Malay Heritage Centre on 24 February 2018.
+
+**Hidayat Amat**
+
+A member of JAS ; Conversations on Facebook since 2016 and Instagram since 2017, conversations at the Malay Heritage Centre on 24 February 2018.
+
+**Abd Azim Ahmad**
+
+A merchant; Conversations at Arab Street/Kampong Java in Kampong Glam on 20 January 2018.
+
+**Afizul Hakem**
+
+A food-seller; Conversations at Arab Street/Kampong Java in Kampong Glam on 20 January 2018.
+
+**Muh.Musaddiq**
+
+A merchant; Hostel worker; Conversations at Arab Street/Kampong Java in Kampong Glam on 20 January 2018.
+
+#### **NOTES**
+         
+
+1 Jewellery typical of the Majapahit empire were unearthed by archaeologists in the late 20th century in Bukit Larangan (present-day of Fort Canning in Singapore). This points to the presence of the Javanese in Singapore since the 14th century. During the excavations from 1926 to 1928 near the Keramat Iskandar Shah in Bukit Larangan, workers unearthed gold ornaments such as a pair of earrings and an armlet that was engraved with the Majapahit demoniac Kala face, an epithet of Siva (Kwa Chong Guan, Heng Derek Thiam Soon and Tan Tai Yong, [_Singapore, a 700-Year History: From Early Emporium to World City_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13205984)) (Singapore: National Archives of Singapore, 2009), 14 (From National Library Singapore, call no. RSING 959.5703 KWA-\[HIS\]); John N. Miskic and Cheryl-Ann Low Mei Gek, eds., [_Early Singapore, 1300s–1819: Evidence in Maps, Text, and Artefacts_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12284523) (Singapore: Singapore History Museum, 2004, 17 (From National Library Singapore, call no. RSING 959.5703 EAR-\[HIS\]). Some experts believe these artefacts show that Javanese royalty had lived in this area (Lesley-Ann Tan and Monica Lim, [_Secrets of Singapore: National Museum_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202769140) (Singapore: Epigram Books, 2017), 4. (From National Library Singapore, call no. RSING 959.57 TAN)). The bathing princesses and the ruins wall, nearly 5m wide and 3m high, was discovered in 1822 by John Crawfurd. This wall was included in Chinese merchant Wang Da Yuan’s chronicle in 1349. Wang noted that prior to his visit to Singapore in 1330, the Siamese had invaded the city. The locals had withstood the attack from behind a wall, much like a fortress. The 14th century saw the Javanese-Majapahit and Siamese Ayutthaya kingdoms interminably battling for hegemony in the region called Tumasik (Melissa Diagana and Jyoti Angresh, [_Fort Canning Hill: Exploring Singapore’s Heritage and Nature_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14716750) (Singapore: ORO editions, 2013) 33. (From National Library Singapore, call no. RSING 959.57 DIA-\[HIS\]))
+
+2 _Nagarakrtagama_, also known as _Desawarnana_, is an old Javanese eulogy to the Majapahit King Rajasanagara (known informally as Hayam Wuruk) written by the Superintendent of Buddhist Affairs (Dharmadhyaksa Kasogatan), whose pen-name was Mpu Prapanca, in 1365 during the reign of Hayam Wuruk (1330-1367). Hayam Wuruk had wanted to conquer all of Nusantara under the Majapahit kingdom (Hadi Sidomulyo and Nigel Bullough, _Napak Tilas Perjalanan_ \[Napak Tilas Travel\] (Jakarta: Wedatama, 2007, 3)
+
+3 The verse of _Nagarakrtagama_ in Kawi that identifies Tumasik as part of the Javanese-Majapahit kingdom (I Ketut Riana, _Kakawin Desa Warnnana Uthawi Nagara Krtagama: Masa Keemasan Majapahit_ (Jakarta: Penerbit Buku Kompas, 2009, 99), can be translated as follows: “In the territory of Pahang, the main places are Hujung and Medini, Lengkasuka and Sai as well as Kelanten and Tringgano, Nasor, Paka, Muwar, Dungun, Tumasik as Sang Hyang Hujung, Kelang, Keda, Jere, Kanjap, and Niran, the whole region as a group”.
+
+4 This oath pledge was written in _Pararaton_, the book of Kings of Singhasari and Majapahit, in the late 15th century, as follows:
+
+“Sira Gajah Madapatih Amangkubhumi tan ayun amuktia palapa, sira Gajah Mada:
+
+“Lamun huwus kalah nusantara isun amukti palapa, lamun kalah ring Gurun, ring Seran,
+
+Tañjung Pura, ring Haru, ring Pahang, Dompo, ring Bali, Sunda, Palembang, Tumasik,
+
+samana isun amukti palapa.” (Agung Kriswanto, [_Pararaton_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200381446) (Jakarta: Wedatama Widya Sastra, 2009), 106 (From National Library Singapore, call no. Malay RSEA 899.2221 PRA); Purwadi, _Babad Majapahit_ (Yogyakarta: Media Abadi, 2005), 25. &nbsp;
+
+(He, Gajah Mada Patih Amangkubumi, does not wish to cease his fasting. Gajah Mada:
+
+“If \[I succeed\] in defeating (conquering) Nusantara, \[then\] I will break my fast. If Gurun,
+
+Seram, Tanjung Pura, Haru, Pahang, Dompo, Bali, Sunda, Palembang, Temasek/Tumasik,
+
+are all defeated, \[then\] I will break my fast.”)
+
+5 In Java, Demak was declared as the first Islamic Sultanate after Daha, the capital city of Majapahit under the kingship of Girindrawardhana, was conquered in 1517 (Marwati Djoened Poesponegoro and Nugroho Notosusanto, _Sejarah Nasional Indonesia, Jilid II_ (Yogyakarta: Balai Pustaka, 1992, 325); Purwadi, _Babad Majapahit_, 45). In 1511 and 1521, a Javanese expedition to Singapore took place under Pati Unus, the second Sultan of Demak, who accepted the Sultan of Malacca’s request to seize Malacca from Portuguese control. This event was recorded in _Suma Oriental_ by Tome Pires as the expedition of “Pate Onus”. However, the attempt to seize Malacca failed and Pati Unus was later known as Pangeran Sabrang Lor, literally translated as the “prince who crossed the sea to the north, the Malay Peninsula” (Anshory, H. M. Nasruddin and Arbaningsih, _Negara Maritim Nusantara: Jejak Sejarah Yang Terhapus_ \[Archipelago Maritime Countries: Erasing Traces of History\] (Yogyakarta: Tiara Wacana, 2008), 73.
+
+6 It should be noted that on 6 February 1819, Sir Stamford Raffles, Sultan Hussein Shah of Johor and Temenggong Abdul Rahman signed a treaty that permitted the British to set up a trading post on a stretch of land in the southern area of Singapore. In August 1824, a second treaty was signed by Sultan Hussein, the Temenggong and Crawfurd, which allowed the British to control the whole island for the purpose of a port that did not charge taxes (Tan and Lim, [_Secrets of Singapore: National Museum_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202769140), 24; Priscilla Chia and Trenton James Riggs, “We, the Citizens of Singapore,” in [_Within &amp; Without: Singapore in the World; The World in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202390216), ed. Pang Eng Fong and Arnoud De Meyer (Singapore: Singapore Management University, 2016, 40. (From National Library Singapore, call no. RSING 959.57 WIT-\[HIS\])). Due to the free trade policy, Singapore saw an influx of new arrivals from Nusantara comprising mainly the Javanese, Boyanese, Minangs, Baweanese, Bugis and Banjarese, who settled in Singapore in pursuit of better lives (Emile Walree and David Va, [_Economic Relations of the Netherlands Indies With Other Far Eastern Countries_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5030866) (Amsterdam: National Council for the Netherlands and the Netherlands Indies of the Institute of Pacific Relations, 1935), 6. (From National Library Singapore, call no. RSEA 382.0959805 WAL)
+
+7 In the _Ethnographic Survey of Singapore_ conducted by John Clammer in 1999, there were three main groups within the Malay community identified: Indigenous Malays (Orang Seletar, Orang Kallang and Orang Laut), people from the Malay Peninsula and Indonesians of other non-Malay ethnic groups. As described in 1825 census reports, there were 38 people of Javanese origins living in Singapore who mostly stayed in and around Kampong Glam, working as artisans, gardeners, religious teachers and merchants. There were notable Javanese entrepreneurs such as Haji Yusoff Haji Mohamed Noor, also known as Haji Yusoff “Tali Pinggang” (the belt merchant), Haji Hashim Haji Abdullah of Haji Hasjim Bookstore and Haji Ahmad Sonhadji, religious scholar and former principal of Madrasah Aljunied (Hidayah Amin), [_Bahasa: A Guide to Malay Languages: Banjar, Bawean, Buginese, Javanese, Malay, Minangkabau, Slitar and Tagalog_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202890270) (Singapore: Helang Books, 2017), 215–16. (From National Library Singapore, call no. RSING 499.28 HID). In 1825, the Dutch colonial government in Java applied a levy on travel to Mecca for the Hadji, resulting in many Javanese travelling via Singapore instead. Hadji is the annual Islamic pilgrimage to Mecca and Medina (Prick van Wely, F. P. H., _Indische Woorden En Hunne Equivalenten in De Moderne Talen_ (Batavia: G. Kolff &amp; Co., 1903), 21. (From National Library Singapore, call no. RUR 439.31 PRI). Since the 1880s, upon their return from Hadji, many remained in Singapore as there were more job opportunities after western Johor became a business center. These job opportunities were supported by the Dutch East India company or Vereenigde Oostindische Compagnie (VOC). As stated in _Soerabaiasch-Handelsblad_, a Dutch magazine published on 15 August 1892 shown on page 71, the British and Dutch had signed an agreement on a commercial ship route that would travel three times a month from Batavia or Surabaya to Singapore, namely the _Speelman_ on 22 August 1892, _Van Diemen_ on 29 August 1892 and _Borneo_ on 1 September 1892 (J. A. Nederbragt, [_Handbook of the Netherlands and Overseas Territories_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4117371) (The Hague: Ministry of Foreign Affairs of Nederland, Economic Section, 1931), 376. (From National Library Singapore, call no. RCLOS 949.2 HAN-\[JK\]). In addition, there was to be a monthly mail service from Singapore via Java’s ports to Australia by the Streamers (D. Van Der Zee, _Batavia De Koningin Van Het Oosten_. Rotterdam: Schueler, 1925, 71). In 1922, around 281,000 people, 180,000 of whom were Indonesian, were exploited on the east coast of Sumatra (Deli), leading to thousands of Javanese fleeing to the neighbouring area belonging to British-controlled Malaysia and Singapore (John W. Brown, _World Migration and Labour_ (Amsterdam: Bureau Centrale Informatie van Het Emigratiebestuur, 1926), 98–99; J. F. Niermeyer, _De Oost En De West. Groningen_: Wolters, 1909, 50). Since then, the total population of Singapore almost doubled from 29,984 in 1836 to 59,043 in 1849; of which comprised 1,649 Javanese (Edward Balfour, ed., [_Cyclopædia of India and of Eastern and Southern Asia, Commercial, Industrial and Scientific_](https://catalogue.nlb.gov.sg/search/card?recordId=300064726) (Madras: Printed at the Scottish &amp; Adelphi presses, 1873), 398). (From National Library Singapore, call no. SBG 954 CYC)). By 1891, the number of Javanese had increased to 8,541 in Singapore. During the Japanese Occupation of Indonesia, a thousand Javanese laborers were sent to Singapore prior to being hired for the railroad projects in Thailand (Hidayah Amin, [_Bahasa: A Guide to Malay Languages_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202890270), 216)
+
+8 As stated by Rahim (2006:522), there are some areas related to the 19th-century Javanese community living in Singapore, namely Kampong Java (around Arab Street), Kampong Tempei (near today’s Coronation Road), Kampong Chantek (near Binjai Park), Kampong Pachitan (near Kembangan) and various other settlements along Bukit Timah Road. There was a community theater established in the 1840s called Pondok Jawa, located near the Istana Kampong Gelam, which was a cultural venue for Javanese performances such as _wayang kulit_ (shadow puppet theatre), _wayang wong_ (masked drama) and _ketoprak_ (Javanese opera). There was also a Javanese _keramat_ (sacred place) in Singapore, namely the grave of Radin Mas Ayu in Telok Blangah, or in Kampong Radin Mas to be exact. Unfortunately, the _kampong_ was demolished in 1973 to make way for development (Jeanette Chia Hwee Hwee, [_A History of the Javanese and Boyanese in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202797469) (Singapore: NUS, 1992), 37 (From National Library Singapore, call no. RSING 305.89928095957 CHI); Ibrahim Tahir, ed. [_A Village Remembered Kampong Radin Mas 1800s–1973_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200131743) (Singapore: OPUS Editorial Private Limited, 2013, 12. (From National Library Singapore, call no. RSING 959.57 VIL-\[HIS\])). Myth has it that Radin Mas Ayu was a Javanese princess who had suffered greatly during her life (Mohamed Nahar Ros, [_Sacred Places: Keramats in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202805786) (Singapore: National University of Singapore, 1984), 59. (From National Library Singapore, call no. RSING 305.89928095957 MOH)
+
+9 The origin of the term “Melayu” is still clouded in uncertainty. The earliest mention of “Melayu” is in reference to a kingdom in Jambi, Sumatra, as written in Chinese records in 644 CE, which recounts that an emissary from the “Mo-Lo-Yu” of the Jambi or Batang Hari River in Sumatra visited the Chinese Imperial Court (Hussin Mutalib, [_Singapore Malays: Being Ethnic Minority and Muslim in a Global Citystate_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14355014) (New York: Routledge, 2012), 19 (From National Library Singapore, call no. RSING 305.8992805957 HUS); Tham Seong Chee, [_Defining “Malay”_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6538629) (Singapore: Department of Malay Studies, National University of Singapore, 1992), 1. (From National Library Singapore, call no. RSING 305.899205957 THA)). As the Malay language is the lingua franca in the Nusantara archipelago, it provides a generalised identity for anyone from Nusantara as being Malay. However, for a long time, the term Malay was never used as a term for ethnic identity until European travellers began to categorise the indigenous people living in Nusantara as Malay. Besides the Malay language, the Melaka Sultanate in the 15th century played a key role in shaping the modern Malay identity through the practice of language (Malay), religion (Islam) and customary traditions (_adat Melayu_). Thus, a Malay is one who professes to being Muslim, speaks the Malay language and adheres to Malay customs (Nicholas J. Long, [_Being Malay in Indonesia: Histories, Hopes, and Citizenship in the Riau Archipelago_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200125374) (Singapore: Asian Studies Association of Australia in Association with NUS Press and NIAS Press, 2013), 34. (From National Library Singapore, call no RSING 305.89928059814 LON)
+
+10 This Facebook group facilitates interactions among the Javanese diaspora on social media, from places such as Suriname, the Netherlands and Malaysia, to Singapore, New Caledonia and Australia. One concrete manifestation of the roots journey was when the Javanese diaspora from across the world were reunited under the spirit of Ngumpulke Balung Pisah. Facebook plays an important role in bringing together disparate diasporic connections in the virtual realm. Therefore, the success of Ngumpulke Balung Pisah (held in 2015), was repeated from 17 to 23 April 2017 in collaboration with the Royal Palace of Yogyakarta, which saw the participation of hundreds from the Javanese diaspora (“Javanese Diaspora Event III ‘Ngumpulke Balung Pisah’.” _JogjaTV_, 23 March 2017)
