@@ -24,7 +24,7 @@ than is generally known.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ jQQVNMr4GK0"></iframe>
 </div>
-<h4><strong><br>Listen to the Full Episode</strong></h4>
+<h4><strong>Listen to the Full Episode</strong></h4>
 <p>Available on: Spotify, Apple Podcasts, melisten.</p>
 <p>Subscribe to get notified when the next episode drops.</p>
 <p></p>
