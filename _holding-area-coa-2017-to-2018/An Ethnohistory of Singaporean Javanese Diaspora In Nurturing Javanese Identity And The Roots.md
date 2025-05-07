@@ -900,11 +900,11 @@ A merchant; Hostel worker; Conversations at Arab Street/Kampong Java in Kampong 
 [^4]: This oath pledge was written in _Pararaton_, the book of Kings of Singhasari and Majapahit, in the late 15th century, as follows:<br> “Sira Gajah Madapatih Amangkubhumi tan ayun amuktia palapa, sira Gajah Mada:<br>
 “Lamun huwus kalah nusantara isun amukti palapa, lamun kalah ring Gurun, ring Seran,<br>
 Tañjung Pura, ring Haru, ring Pahang, Dompo, ring Bali, Sunda, Palembang, Tumasik,<br>
-samana isun amukti palapa.” (Agung Kriswanto, [_Pararaton_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200381446) (Jakarta: Wedatama Widya Sastra, 2009), 106 (From National Library Singapore, call no. Malay RSEA 899.2221 PRA); Purwadi, _Babad Majapahit_ (Yogyakarta: Media Abadi, 2005), 25.<br>
+samana isun amukti palapa.” <br>
 (He, Gajah Mada Patih Amangkubumi, does not wish to cease his fasting. Gajah Mada:<br>
 “If \[I succeed\] in defeating (conquering) Nusantara, \[then\] I will break my fast. If Gurun,<br>
 Seram, Tanjung Pura, Haru, Pahang, Dompo, Bali, Sunda, Palembang, Temasek/Tumasik,<br>
-are all defeated, \[then\] I will break my fast.”)
+are all defeated, \[then\] I will break my fast.”). (Agung Kriswanto, [_Pararaton_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200381446) (Jakarta: Wedatama Widya Sastra, 2009), 106 (From National Library Singapore, call no. Malay RSEA 899.2221 PRA); Purwadi, _Babad Majapahit_ (Yogyakarta: Media Abadi, 2005), 25.
 
 [^5]: In Java, Demak was declared as the first Islamic Sultanate after Daha, the capital city of Majapahit under the kingship of Girindrawardhana, was conquered in 1517 (Marwati Djoened Poesponegoro and Nugroho Notosusanto, _Sejarah Nasional Indonesia, Jilid II_ (Yogyakarta: Balai Pustaka, 1992, 325); Purwadi, _Babad Majapahit_, 45). In 1511 and 1521, a Javanese expedition to Singapore took place under Pati Unus, the second Sultan of Demak, who accepted the Sultan of Malacca’s request to seize Malacca from Portuguese control. This event was recorded in _Suma Oriental_ by Tome Pires as the expedition of “Pate Onus”. However, the attempt to seize Malacca failed and Pati Unus was later known as Pangeran Sabrang Lor, literally translated as the “prince who crossed the sea to the north, the Malay Peninsula” (Anshory, H. M. Nasruddin and Arbaningsih, _Negara Maritim Nusantara: Jejak Sejarah Yang Terhapus_ \[Archipelago Maritime Countries: Erasing Traces of History\] (Yogyakarta: Tiara Wacana, 2008), 73.
 
