@@ -349,7 +349,6 @@ silat* group), Perguruan Seni Beladiri Tapak Suci Singapura (*pencak silat*
 group), Pacitan Gamelan (founded in 1991 at the Kembangan Community
 Club), Singa Nglaras at the Department of Southeast Asian Studies in
 
-
 <img src="/images/COA%202017%20to%202018/Ethnohistory%20of%20Singaporean/Poster_Pesta_Pusaka_Seni.jpg" style="width:50%;">
 <div style="background-color: white;">The poster for Pesta
 Pusaka Seni, an event
@@ -377,9 +376,15 @@ of concrete action in preserving Javanese culture is the hosting of the May
 (Chew, 2016; Kao, 2016). This validates the claim that the Singaporean-
 Javanese continue to nurture their identity today.
 
-
 Javanese identity is articulated not only at the individual level, but also
-collectively framed into *perkumpulan* (organisations). Referring to Duarte (2005:316), diaspora is similar to collectivism, in which collective identity
+collectively framed into *perkumpulan* (organisations). Referring to Duarte 
+
+
+<img src="/images/COA%202017%20to%202018/Ethnohistory%20of%20Singaporean/Javanese_Singaporeans.jpg" style="width:100%;">
+<div style="background-color: white;">The Javanese Singaporeans (Orang Jawa di Singapura) Facebook page. <i> Image source: Retrieved
+from Facebook, 2018.</i></div>
+
+(2005:316), diaspora is similar to collectivism, in which collective identity
 can be reconstructed by several processes and practices shared by members
 of a diaspora in a host country. This is to say that solidarity is the main way
 to build a strong social community (Christenen and Levinson, 2003:134).
