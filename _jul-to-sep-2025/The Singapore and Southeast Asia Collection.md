@@ -1,11 +1,12 @@
 ---
 title: The Singapore and Southeast Asia Collection
-permalink: /holding-area/vol-21/issue-2/jul-sep-2025/the-singapore-and-southeast-asia-collection/
+permalink: /vol-21/issue-2/jul-sep-2025/singapore-southeast-asia-collection/national-library/
 variant: markdown
 description: ""
 ---
 #### The Singapore and Southeast Asia Collection is an invaluable resource for researchers of all stripes.  
 By Ang Seow Leng
+
 
 ![](/images/Vol%2021%20Issue%202/SG%20SEA%20Collection/SEAcollection_main.jpg)
 <div style="background-color:white;">The Singapore and Southeast Asia Collection on Level 11 of the Lee Kong Chian Reference Library, National Library Building. <i>Photo by Jimmy Yap.</i></div>
@@ -35,20 +36,20 @@ In 1955, the Raffles Library and Museum was separated into two entities and plan
 
 #### **Opening of the South East Asia Room**
 
-![](/images/Vol%2021%20Issue%202/SG%20SEA%20Collection/SEAcollection_room.jpg)
-<div style="background-color:white;">The South East Asia Room with tables for researchers, 1970s. <i> Collection of the National Library Singapore.</i></div>
-
 One of the more important additions to the library’s collection in the early postwar years is the Ya Yin Kwan (Palm Shade Pavilion) Collection, donated by Tan Yeok Seong (1903–84), the founder of Nanyang Book Company. A historian and collector of books and historical artefacts, Tan devoted his life and time researching Southeast Asian history, especially the influence of the Chinese in Southeast Asia.&nbsp;
-
-![](/images/Vol%2021%20Issue%202/SG%20SEA%20Collection/SEAcollection_stamp.jpg)
-<div style="background-color:white;"> All titles in the Ya Yin Kwan Collection bear this donation label as well as the stamp in red which says Ya Yin Kwan in Chinese (椰荫馆). <i>Collection of the National Library Singapore.</i></div>
-
-In 1964, Tan donated his collection to the National Library with the condition that a South East Asia Room (SEA Room) be set up to house the collection and make it accessible to the public. His wish was for the donation to be a catalyst for more donations and for the National Library to become a centre for Southeast Asian studies.[^12] Since the majority of the publications about this region in the early 19th and 20th centuries were mainly by Europeans, Tan hoped for more Southeast Asian scholars to write their own history.&nbsp;
 
 ![](/images/Vol%2021%20Issue%202/SG%20SEA%20Collection/SEAcollection_tanyeok.jpg)
 <div style="background-color:white;"> Tan Yeok Seong (1903–84). <i> Courtesy of his son, Alex Tan Tiong Tee.</i></div>
 
+In 1964, Tan donated his collection to the National Library with the condition that a South East Asia Room (SEA Room) be set up to house the collection and make it accessible to the public. His wish was for the donation to be a catalyst for more donations and for the National Library to become a centre for Southeast Asian studies.[^12] Since the majority of the publications about this region in the early 19th and 20th centuries were mainly by Europeans, Tan hoped for more Southeast Asian scholars to write their own history.&nbsp;
+
+![](/images/Vol%2021%20Issue%202/SG%20SEA%20Collection/SEAcollection_stamp.jpg)
+<div style="background-color:white;"> All titles in the Ya Yin Kwan Collection bear this donation label as well as the stamp in red which says Ya Yin Kwan in Chinese (椰荫馆). <i>Collection of the National Library Singapore.</i></div>
+
 The SEA Room was officially opened on 28 August 1964, with Culture Minister S. Rajaratnam as the guest of honour. “Today’s occasion is one that makes Singaporeans and Malaysians proud,” said Rajaratnam. “From the closed stacks at the back of the building our librarians have now brought out this famous collection.”[^13]
+
+![](/images/Vol%2021%20Issue%202/SG%20SEA%20Collection/SEAcollection_room.jpg)
+<div style="background-color:white;">The South East Asia Room with tables for researchers, 1970s. <i> Collection of the National Library Singapore.</i></div>
 
 In June 1965, the Singapore and Southeast Asia Collection was further enriched by Mrs Loke Yew’s donation of books and journals originally from the personal library of the late Carl Alexander Gibson-Hill (curator at the Raffles Museum and editor of the _Journal of the Malayan Branch of the Royal Asiatic Society_). Mrs Loke Yew was the mother of Loke Wan Tho, the chairman of the board of the National Library from 1960 until his death in 1964.[^14]
 
@@ -158,7 +159,7 @@ As research methods evolve over time with resources available beyond print, the 
 [^13]: S. Rajaratnam, “[The Opening of the South East Asia Room and Presentation of the Ya Kin Kwan Collection by Mr Tan Yeok Seong](https://www.nas.gov.sg/archivesonline/speeches/record-details/78d8ebbf-115d-11e3-83d5-0050568939ad),” speech, National Library, 28 August 1964, transcript. (From National Archives of Singapore, document no. PressR19640828)
 
 
-[^14]: “[Books Gift By Mrs Loke Yew Fulfils Wish of her Late Son](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650611-1.2.44),” _Straits Times_, 11 June 1965, 6; “[Gift of Rare Books to Library](),” _Straits Times_, 19 June 1965, 4. (From NewspaperSG)
+[^14]: “[Books Gift By Mrs Loke Yew Fulfils Wish of her Late Son](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650611-1.2.44),” _Straits Times_, 11 June 1965, 6; “[Gift of Rare Books to Library](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19650619-1.2.21),” _Straits Times_, 19 June 1965, 4. (From NewspaperSG)
 
 
 [^15]: “[SE-Asia Room of Library Opens Today](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19640828-1.2.34),” _Straits Times_, 28 August 1964, 5. (From NewspaperSG)
