@@ -332,15 +332,9 @@ nationalist exclusivism:
    next month they will strongly enforce the law. All I can do is turn<br> 
    up my palms and lament. I don’t know what to do. (p. 132)*
 	 
-   **五月十四日（日）夜83°晴热**<br>
+   **五月十四日（日）夜83°晴热**<br><br>
 
-   吴经熊谓宪法草案已考虑妥当，分民族民权民生三篇，行将起初稿云。德<br>
-
-   希特拉 卒青年遍搜全国图书馆，焚去其主义不同之各项书籍，并绘犹太<br>
-
-   人像若干，亦焚以鄙视之。有百馀犹太人已避往帕勒士丁云。暹政府答覆<br>
-
-   华校请愿团, 拒绝通融，出月便将强迫执行云。扼腕叹息，不知之何?<br>
+   吴经熊谓宪法草案已考虑妥当，分民族民权民生三篇，行将起初稿云。德<br>   希特拉 卒青年遍搜全国图书馆，焚去其主义不同之各项书籍，并绘犹太<br>   人像若干，亦焚以鄙视之。有百馀犹太人已避往帕勒士丁云。暹政府答覆<br>   华校请愿团, 拒绝通融，出月便将强迫执行云。扼腕叹息，不知之何?<br>
 
 It is clear that Hsu felt sympathy for the plight of the German Jews, whose
 troubles were just beginning, and anxiety about the status of his own minority
