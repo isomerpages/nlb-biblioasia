@@ -53,8 +53,7 @@ by drawing on a variety of Thai, Malay and Burmese sources.6 Hsu arrived
 in Patani just after the 1932 Siamese Revolution by the People’s Party
 of Siam, which had partially overthrown the monarchy to introduce a
 constitution. Hsu witnessed the chaotic waves of royalist counter-revolution
-against Bangkok that culminated in the Bowaradej rebellion of October
-1933. In 1932, the future Prime Minister Phibul Songkhram forced Chinese
+against Bangkok that culminated in the Bowaradej rebellion of October 1933.  In 1932, the future Prime Minister Phibul Songkhram forced Chinese
 assimilation by reviving the Primary School Act of 1921 and the Private
 School Act of 1918, requiring Chinese schools, which were then private
 schools, to register with the government, effectively placing them under
@@ -225,3 +224,32 @@ their essays in the Nanyang, namely in *Zhongyuan bao*’s academic journal
 Remarkably, the latter publication was founded in September 1939, a
 few months after Siam became Thailand, and in the wake of Phibun’s
 crackdown on Chinese publications.
+
+Japan’s invasion of China and the pro-Japanese and anti-Chinese sentiments
+that dominated in Thailand, compounded by the Kuomintang’s efforts to
+enlist overseas support for the war, immensely shaped Chinese research on
+Thailand and King Taksin. As I have shown, Hsu’s activism for overseas
+Chinese education was beholden to, and indeed scarred by, the post-1910
+framework of Chinese racialisation during the reign of King Vajiravudh
+Rama VI. Dissatisfied with the annotations in his 1936 translation, Hsu
+published the essay “An Unofficial Biography of Taksin” (*Zhengzhao
+waizhuan*) two years later. Later essays include “A Study of China-Siam
+Historical Relations” (*Zhong Xian tongshi ka*o, 1951), “A Study of Taksin’s
+Tribute to the Qing Court” (*Zhengzhao rugong qingting kao*, 1951) and “An
+Annotated Translation of a Poem Commemorating Taksin’s Tribute and
+Court Appearance in China” (*Zhengzhao gongshi ruchao Zhongguo jixing shi yizhu*, 1940), which was translated from Phraya Maha Nubhab’s account of
+Siam’s tribute to China in 1781.35
+
+In 1936, Hsu’s appropriation of Siam’s nationalist histories for Chinese
+diasporic purposes predated revisionist writings of Thai history by
+historians affectionately known as the “Jek” (chink) school in the 1980s,
+once again calling attention to Chinese contributions to the Thai nationstate
+– not forgetting the Chinese bloodline of Siamese monarchs. In 1986,
+Nidhi Eoseewong published *Thai Politics in the Reign of Thonburi*, which
+challenged the “heroic life and tragic death of King Taksin” and has been
+since reprinted constantly.36 It is worth noting that after the founders of the
+Chakri dynasty (c. 1782) staged a palace coup against Taksin and executed
+him, Taksin’s legacy has been controversial and open to debate. The figure
+of Taksin has gone through waves of rehabilitation under both military
+and democratic rule. After the 1932 Siamese revolution, Taksin was used to
+“arouse nationalism, which subtly discredited the Chakri dynasty”.
