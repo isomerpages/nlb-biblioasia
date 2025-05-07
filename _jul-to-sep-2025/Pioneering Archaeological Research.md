@@ -24,7 +24,7 @@ Those funds were supplemented by a donation from the Empire Grants Committee of 
 This would culminate with the Straits Settlements (comprising Melaka, Penang and Singapore) – represented by the Raffles Library and Museum – hosting its first congress on prehistory in Singapore in January 1938: the Third Congress of Prehistorians of the Far East. These meetings, which rotated its hosts, would later be formalised as the Far-Eastern Prehistory Association in 1953 and reorganised in 1976 as the Indo-Pacific Prehistory Association.[^9]
 
 ![](/images/Vol%2021%20Issue%202/Archaeologic/archaeological_delegates.jpg)
-<div style="background-color:white;">Delegates at the 1938 Third Congress of Prehistorians to the Far East in Singapore admiring Neolithic finds. (From left) H.D. Collings, assistant curator of the Raffles Museum, F.N. Chasen, director of the Raffles Museum, Mrs Von Koengiswald, F.D. McCarthy, G.H.R. von Koenigswald, A.L. Hoops and Charlton Maxwell.  <i> Image reproduced from “Malaya in Ancient Times,” Singapore Free Press and Mercantile Advertiser, 25 January 1938, 2. (From NewspaperSG). </i></div>
+<div style="background-color:white;">Delegates at the 1938 Third Congress of Prehistorians to the Far East in Singapore admiring Neolithic finds. (From left) H.D. Collings, assistant curator of the Raffles Museum, F.N. Chasen, director of the Raffles Museum, Mrs von Koenigswald, F.D. McCarthy, G.H.R. von Koenigswald, A.L. Hoops and Charlton Maxwell.  <i> Image reproduced from “Malaya in Ancient Times,” Singapore Free Press and Mercantile Advertiser, 25 January 1938, 2. (From NewspaperSG). </i></div>
 
 From an attendance of just 30 delegates in 1938, the participation grew to some 800 archaeologists and cultural heritage professionals who attended the congress in Chiang Mai, Thailand, in November 2022.[^10]
 
@@ -107,6 +107,8 @@ Bloembergen, Marieke and Martijn Rickhoff. “The Colonial Archaeological Hero R
 <a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=df2c59db-0c25-4632-8c11-a57af3621aec"> <i>Bulletin of the Raffles Museum Singapore, Straits Settlements</i> </a>, Series B, no. 1 (May 1936). (From National Library Online)
 <br> <br> 
 <a href="https://www.nlb.gov.sg/main/Book-Detail-Page?cmsUuID=5d376acc-3599-45d7-8275-19f10e537f63"> <i>Bulletin of the Raffles Museum, Colony of Singapore</i> </a>, Series B, no. 4 (December 1949). (From National Library Online)
+<br> <br> 
+Doyle, Arthur Conan. Memories and Adventures. Boston: Little, Brown, and Company, 1924. Project Gutenberg. Accessed 9 January 2025,  <a href="https://www.gutenberg.org/cache/epub/66991/pg66991-images.html">https://www.gutenberg.org/cache/epub/66991/pg66991-images.html </a>.
 <br> <br> 
 Duff, Roger. <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=68544"> <i>Stone Adzes of Southeast Asia: An Illustrated Typology</i> </a>. Christchurch: Canterbury Museum Trust Board, 1970. (From National Library Singapore, call no. RUR 915.903 DUF)
 <br> <br> 
