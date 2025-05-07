@@ -454,16 +454,16 @@ Chinese comparison:
 
 
    **April 23 (sun) 89° in the afternoon, hot**<br>
-*At noon, I went with Da Fa and Ding Yi to the Education<br>
-Bureau to copy out the laws issued by the Minister of Education.<br>
-The important points include: each week classes cannot exceed 28<br>
-hours and 40 minutes, for foreign languages, first to third years can<br>
-have a maximum of 7 hours and 15 minutes, fourth to fifth years a<br>
-maximum of 12 hours and 15 minutes, the remaining hours are for<br>
-Thai language classes. Tentatively we wrote them down, but will<br>
-wait for the official document to make plans. The overseas Chinese<br> and Jews are comparable. Although the arguments in King Rama<br>
-VI’s essay, “The Jews of the Orient”, were ridiculous, the situations<br>
-are similar. In the past Zhang Zhidong warned Kang Youwei<br>
-and Liang Qichao: “Ah, Kang and Liang, be careful not to make<br>
-China Jewish”. He named the problem correctly but the way out<br>
-isn’t clear. (pp. 119-120)*
+   *At noon, I went with Da Fa and Ding Yi to the Education<br>
+   Bureau to copy out the laws issued by the Minister of Education.<br>
+   The important points include: each week classes cannot exceed 28<br>
+   hours and 40 minutes, for foreign languages, first to third years can<br>
+   have a maximum of 7 hours and 15 minutes, fourth to fifth years a<br>
+   maximum of 12 hours and 15 minutes, the remaining hours are for<br>
+   Thai language classes. Tentatively we wrote them down, but will<br>
+   wait for the official document to make plans. The overseas Chinese<br>    and Jews are comparable. Although the arguments in King Rama<br>
+   VI’s essay, “The Jews of the Orient”, were ridiculous, the situations<br>
+   are similar. In the past Zhang Zhidong warned Kang Youwei<br>
+   and Liang Qichao: “Ah, Kang and Liang, be careful not to make<br>
+   China Jewish”. He named the problem correctly but the way out<br>
+   isn’t clear. (pp. 119-120)*
