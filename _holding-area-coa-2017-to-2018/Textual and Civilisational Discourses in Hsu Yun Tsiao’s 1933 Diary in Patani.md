@@ -333,7 +333,6 @@ nationalist exclusivism:
    up my palms and lament. I don’t know what to do. (p. 132)*
 	 
    **五月十四日（日）夜83°晴热**<br><br>
-
    吴经熊谓宪法草案已考虑妥当，分民族民权民生三篇，行将起初稿云。德<br>   希特拉 卒青年遍搜全国图书馆，焚去其主义不同之各项书籍，并绘犹太<br>   人像若干，亦焚以鄙视之。有百馀犹太人已避往帕勒士丁云。暹政府答覆<br>   华校请愿团, 拒绝通融，出月便将强迫执行云。扼腕叹息，不知之何?<br>
 
 It is clear that Hsu felt sympathy for the plight of the German Jews, whose
@@ -453,7 +452,7 @@ erudite instance of late-Qing political relations to disambiguate the Jewish-
 Chinese comparison:
 
 
-   **April 23 (sun) 89° in the afternoon, hot**<br>
+   **April 23 (sun) 89° in the afternoon, hot**<br><br>
    *At noon, I went with Da Fa and Ding Yi to the Education<br>
    Bureau to copy out the laws issued by the Minister of Education.<br>
    The important points include: each week classes cannot exceed 28<br>
@@ -467,3 +466,11 @@ Chinese comparison:
    and Liang Qichao: “Ah, Kang and Liang, be careful not to make<br>
    China Jewish”. He named the problem correctly but the way out<br>
    isn’t clear. (pp. 119-120)*
+
+   **四月二十三日（日）午89°炎热**<br><br>
+   *正午与大发定一往教育局抄教育部长颁发之条例，内要点为每周授课不<br>
+   得过二十八小时四十分，外国文，一年至三年至多七小时十五分，四五<br>
+   年至多十二小时十五分，余均暹文课程。姑录之，待公文来后再作计<br>
+   谋。华侨与犹太可以弟兄矣，暹王拉玛六世之东方犹太一书，立论虽<br>
+   谬，情形近似。昔张之洞警康梁曰：［嗟尔康梁，慎毋犹太我中国］。<br>言是而路不衬也*。
+
