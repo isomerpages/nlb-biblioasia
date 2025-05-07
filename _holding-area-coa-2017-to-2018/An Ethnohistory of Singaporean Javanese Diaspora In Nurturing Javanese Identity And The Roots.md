@@ -897,8 +897,7 @@ A merchant; Hostel worker; Conversations at Arab Street/Kampong Java in Kampong 
 
 [^3]: The verse of _Nagarakrtagama_ in Kawi that identifies Tumasik as part of the Javanese-Majapahit kingdom (I Ketut Riana, _Kakawin Desa Warnnana Uthawi Nagara Krtagama: Masa Keemasan Majapahit_ (Jakarta: Penerbit Buku Kompas, 2009, 99), can be translated as follows: “In the territory of Pahang, the main places are Hujung and Medini, Lengkasuka and Sai as well as Kelanten and Tringgano, Nasor, Paka, Muwar, Dungun, Tumasik as Sang Hyang Hujung, Kelang, Keda, Jere, Kanjap, and Niran, the whole region as a group”.
 
-[^4]: This oath pledge was written in _Pararaton_, the book of Kings of Singhasari and Majapahit, in the late 15th century, as follows:<br>
-“Sira Gajah Madapatih Amangkubhumi tan ayun amuktia palapa, sira Gajah Mada:<br>
+[^4]: This oath pledge was written in _Pararaton_, the book of Kings of Singhasari and Majapahit, in the late 15th century, as follows:<br> “Sira Gajah Madapatih Amangkubhumi tan ayun amuktia palapa, sira Gajah Mada:<br>
 “Lamun huwus kalah nusantara isun amukti palapa, lamun kalah ring Gurun, ring Seran,<br>
 Tañjung Pura, ring Haru, ring Pahang, Dompo, ring Bali, Sunda, Palembang, Tumasik,<br>
 samana isun amukti palapa.” (Agung Kriswanto, [_Pararaton_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200381446) (Jakarta: Wedatama Widya Sastra, 2009), 106 (From National Library Singapore, call no. Malay RSEA 899.2221 PRA); Purwadi, _Babad Majapahit_ (Yogyakarta: Media Abadi, 2005), 25.<br>
