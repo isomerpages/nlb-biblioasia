@@ -318,12 +318,12 @@ their place in the world, Hsu drew a parallel between the misfortunes of two
 minority peoples (the German Jews and Chinese in Siam) confronted with
 nationalist exclusivism:
 
-   **May 14 (sun) 83° at night, hot day**<br> 
+   **May 14 (sun) 83° at night, hot day**<br> <br> 
    *Wu Jingxiong said that the draft of the constitution has already<br> 
    been considered reliable, and is divided into three sections, namely,<br> 
    nationalism, democracy and the people’s livelihood, and will be<br> 
    enacted based on this early draft. The Hitler Youth [youth wing of<br> 
-the Nazi Party in Germany] ransacked all of Germany’s libraries<br> 
+   the Nazi Party in Germany] ransacked all of Germany’s libraries<br> 
    and burned all types of books that differed from their ideology. It<br> 
    attached some kind of sign to the Jews, in order to permit them<br> 
    to be burnt and loathed. Hundreds of Jews have already fled<br> 
@@ -460,7 +460,7 @@ Chinese comparison:
 
 
    **April 23 (sun) 89° in the afternoon, hot**<br>
-At noon, I went with Da Fa and Ding Yi to the Education<br>
+*At noon, I went with Da Fa and Ding Yi to the Education<br>
 Bureau to copy out the laws issued by the Minister of Education.<br>
 The important points include: each week classes cannot exceed 28<br>
 hours and 40 minutes, for foreign languages, first to third years can<br>
@@ -472,4 +472,4 @@ VI’s essay, “The Jews of the Orient”, were ridiculous, the situations<br>
 are similar. In the past Zhang Zhidong warned Kang Youwei<br>
 and Liang Qichao: “Ah, Kang and Liang, be careful not to make<br>
 China Jewish”. He named the problem correctly but the way out<br>
-isn’t clear. (pp. 119-120)
+isn’t clear. (pp. 119-120)*
