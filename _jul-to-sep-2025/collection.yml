@@ -2,11 +2,11 @@ collections:
   jul-to-sep-2025:
     output: true
     order:
-      - The Singapore and Southeast Asia Collection.md
       - "From Colonial Vision to Knowledge Hub: The Story of the National
         Library.md"
       - "Kung Tian Cheng: First Clerk of Raffles Library.md"
       - "Lady in Red: The Former National Library on Stamford Road.md"
+      - The Singapore and Southeast Asia Collection.md
       - Pioneering Archaeological Research.md
       - A Recent History of Legal Deposit in Singapore.md
       - Remembering the Part Time Libraries.md
