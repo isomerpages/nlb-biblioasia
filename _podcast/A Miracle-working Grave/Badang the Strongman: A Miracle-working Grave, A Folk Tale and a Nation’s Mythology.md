@@ -13,8 +13,6 @@ description: Many people know of the story of Badang the strongman, an
 image: /images/Podcast/William_600_by_400.jpg
 third_nav_title: A Miracle-working Grave
 ---
-<p><strong>Coming in May</strong>
-</p>
 <p>Many people know of the story of <a href="https://biblioasia.nlb.gov.sg/vol-21/issue-1/apr-jun-2025/origins-badang-strongman-singapore-stone/" rel="noopener nofollow" target="_blank">Badang the strongman</a>,
 an aboriginal slave who gains supernatural strength after eating the vomit
 of a spirit. He throws a stone, which might or might not be the Singapore
@@ -22,6 +20,10 @@ Stone, and his miracle-working grave is believed to be on Pulau Buru in
 the Riau Archipelago. However, independent scholar William Gibson tells
 us the tale of Badang (and the location of his grave) is much more complicated
 than is generally known.</p>
+<h4></h4>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ jQQVNMr4GK0"></iframe>
+</div>
 <h4><strong><br>Listen to the Full Episode</strong></h4>
 <p>Available on: Spotify, Apple Podcasts, melisten.</p>
 <p>Subscribe to get notified when the next episode drops.</p>
