@@ -521,3 +521,23 @@ absence of such leadership during the “Nanjing decade” of Kuomintang
 rule (1928–37), when the government was severely weakened by invading
 Japanese armies, which bombed his hometown Suzhou during the 1932
 Shanghai incident.
+
+#### **The League of Nations and the Mukden Incident**
+During China’s War of Resistance against Japan (*Zhongguo kang Ri
+zhanzheng*, 1931–45), Hsu was right to be less than optimistic about
+the League of Nations’s due process in guaranteeing Chinese national
+sovereignty at Geneva. The Japanese seizure of Manchuria (1931–32), or
+the Mukden Incident, followed by the invasion of Shanghai (1932) and the
+Treaty of Tanggu (1933), where “Chiang was forced to abandon any armed
+resistance against the establishment of Japanese-controlled Manchukuo to the north”, were presented by Japanese imperial propaganda as necessary measures to liberate the Manchurians from the oppressive Chinese warlord regimes of Zhang Zuolin (1916–28) and his son Zhang Xueliang (1928–31).64 “Even foreign observers in China mockingly commented on
+China’s attempts to appeal to Geneva for help”.65 Hsu’s diary entry on
+the Kwantung Army’s capture of Shanhaiguan Pass at the Great Wall
+on 3 January 1933, which ended in the inner Mongolian province Rehe’s
+annexation to Manchukuo two months later, echoes this sentiment:
+
+   **January 5 (water) sunny, 85° in the afternoon**<br><br>
+A dispatch arrived: on New Year’s night, the Japanese military
+launched a fierce attack on the Shanhaiguan Pass, shocking North
+China, which was lost today. Some London newspaper criticised
+Zhang Xueliang’s policy of non-resistance and waiting for the
+League of Nations as wishful thinking and self-deception. (p. 11)
