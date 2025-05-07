@@ -334,6 +334,10 @@ distributed around Singapore. This reproduces the Javanese identity as
 Singaporean-Javanese are able to easily access authentic Javanese food
 in Singapore.
 
+<img src="/images/COA%202017%20to%202018/Ethnohistory%20of%20Singaporean/Grave_Radin_Mas.jpg" style="width:100%;">
+<div style="background-color: white;">The grave of Puteri Radin Mas Ayu, a Javanese princess, was located at Telok Blangah
+(see footnote 8).<i> Courtesy of Fuji Prastowo, 2018.</i></div>
+
 Cuisine aside, there are many intangible Javanese cultural arts found in
 Singapore such as dance, *pencak silat* (martial arts), gamelan (traditional
 ensemble music originating from Java and Bali), *jamu*, *keris* and *kuda
@@ -343,7 +347,17 @@ have been established, such as Kesenian Tedja Timur/Kuda Kepang
 puppet show founded in 1997), Perguruan Silat Kembang Wali (*pencak
 silat* group), Perguruan Seni Beladiri Tapak Suci Singapura (*pencak silat*
 group), Pacitan Gamelan (founded in 1991 at the Kembangan Community
-Club), Singa Nglaras at the Department of Southeast Asian Studies in the National University Singapore (established in 2004) and Gamelan
+Club), Singa Nglaras at the Department of Southeast Asian Studies in
+
+
+<img src="/images/COA%202017%20to%202018/Ethnohistory%20of%20Singaporean/Poster_Pesta_Pusaka_Seni.jpg" style="width:50%;">
+<div style="background-color: white;">The poster for Pesta
+Pusaka Seni, an event
+organised by the Malay
+Heritage Centre in 2018. <i> Image source: Malay
+Heritage Centre.</i></div>
+
+the National University Singapore (established in 2004) and Gamelan
 Asmaradana Ltd (founded in 2004). The first organisation for the Javanese
 in Singapore was Persekutuan Jawa Al-Masakin (loosely translated as the
 Federation of the Javanese Poor), which was formed in 1901 to provide
