@@ -903,7 +903,6 @@ A merchant; Hostel worker; Conversations at Arab Street/Kampong Java in Kampong 
 “Lamun huwus kalah nusantara isun amukti palapa, lamun kalah ring Gurun, ring Seran,<br>
 Tañjung Pura, ring Haru, ring Pahang, Dompo, ring Bali, Sunda, Palembang, Tumasik,<br>
 samana isun amukti palapa.” (Agung Kriswanto, [_Pararaton_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200381446) (Jakarta: Wedatama Widya Sastra, 2009), 106 (From National Library Singapore, call no. Malay RSEA 899.2221 PRA); Purwadi, _Babad Majapahit_ (Yogyakarta: Media Abadi, 2005), 25.<br>
-
 (He, Gajah Mada Patih Amangkubumi, does not wish to cease his fasting. Gajah Mada:<br>
 “If \[I succeed\] in defeating (conquering) Nusantara, \[then\] I will break my fast. If Gurun,<br>
 Seram, Tanjung Pura, Haru, Pahang, Dompo, Bali, Sunda, Palembang, Temasek/Tumasik,<br>
