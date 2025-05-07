@@ -112,8 +112,6 @@ Doyle, Arthur Conan. Memories and Adventures. Boston: Little, Brown, and Company
 <br> <br> 
 Duff, Roger. <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=68544"> <i>Stone Adzes of Southeast Asia: An Illustrated Typology</i> </a>. Christchurch: Canterbury Museum Trust Board, 1970. (From National Library Singapore, call no. RUR 915.903 DUF)
 <br> <br> 
-Doyle, Arthur Conan. Memories and Adventures. Boston: Little, Brown, and Company, 1924. Project Gutenberg. Accessed 9 January 2025,  <a href="https://www.gutenberg.org/cache/epub/66991/pg66991-images.html">https://www.gutenberg.org/cache/epub/66991/pg66991-images.html </a>.
-<br> <br> 
 Ghosh, Nirmala. “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19931225-1.2.26.6">Face Lift for a Grande Dame </a>.” <i>Business Times</i>, 25 December 1993, 18. (From NewspaperSG)
 <br> <br> 
 McKie, R.C.H. “Callenfels of the Indies: Burly Scientist and ‘Character’.” <i>Sydney Morning Herald</i>, 11 June 1938, 13, <a href="https://trove.nla.gov.au/newspaper/article/17470496">https://trove.nla.gov.au/newspaper/article/17470496 </a>.
