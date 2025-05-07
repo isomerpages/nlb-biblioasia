@@ -622,7 +622,7 @@ anthropologist at Universitas Gadjah Mada, Indonesia and expert on Nusantara
 diaspora, for reviewing this essay and providing his input*.
 
 <div>
-<b>Fuji Riang Prastowo</b>is an ethnographer with a focus on Nusantara studies and
+<b>Fuji Riang Prastowo</b> is an ethnographer with a focus on Nusantara studies and
 the issue of Javanese diaspora around the globe. He is a lecturer in Sociology at the
 Universitas Gadjah Mada in Indonesia and the director of Golong Gilig Institute of
 Diaspora and Nusantara Studies. He can be reached at fujiriangprastowo@ugm.ac.id</div>
