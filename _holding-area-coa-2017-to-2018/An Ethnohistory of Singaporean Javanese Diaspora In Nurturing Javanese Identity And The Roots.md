@@ -280,10 +280,20 @@ In Singapore’s national context, Malay is used as a race category by the
 government and as an ethnic group referring to the indigenous people of
 Singapore (Ibrahim, 2014:2; Rahim, 2006:521). According to Suryakencana
 Omar, head of the Javanese Association of Singapore (JAS), the earliest
-historical data [as noted by Amin (2017:215–216)] of contemporary Javanese in Singapore dates back to the 1820s.7 The 1980 population census
+historical data [as noted by Amin (2017:215–216)] of contemporary Javanese in Singapore dates back to the 1820s.7 
+
+<img src="/images/COA%202017%20to%202018/Ethnohistory%20of%20Singaporean/The_Total_Population_Singapore.jpg" style="width:100%;">
+ <div style="background-color: white;">The total population in Singapore in 1849. <i>Image source: Edward Balfour,
+ Encyclopædia of India and of Eastern and Southern
+Asia, Commercial, Industrial and Scientific (Madras: Printed at the
+Scottish &amp; Adelphi presses, 1873).</i></div>
+
+The 1980 population census
 states that the Malay include all persons of Malay or Indonesian origin
 such as Malays, Javanese, Boyanese and Bugis, by means of a patrilineal
 system (Amin, 2017:200).
+
+
 
 To minimise social conflict among the early immigrants in Singapore,
 Raffles, along with his government, formulated a town plan (also called
