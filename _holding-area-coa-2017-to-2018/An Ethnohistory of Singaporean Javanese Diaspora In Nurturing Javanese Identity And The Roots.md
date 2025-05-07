@@ -293,7 +293,8 @@ states that the Malay include all persons of Malay or Indonesian origin
 such as Malays, Javanese, Boyanese and Bugis, by means of a patrilineal
 system (Amin, 2017:200).
 
-
+<img src="/images/COA%202017%20to%202018/Ethnohistory%20of%20Singaporean/Ethnic_Compostion_1.jpg" style="width:100%;">
+<div style="background-color: white;"> <i>Source: Hidayah Amin,  Bahasa: A Guide to Malay Languages: Banjar, Bawean, Buginese, Javanese, Malay, Minangkabau, Slitar and Tagalog (Singapore: Helang Books, 2017),       200–201. (From National Library Singapore, call no. RSING 499.28 HID)</i></div>
 
 To minimise social conflict among the early immigrants in Singapore,
 Raffles, along with his government, formulated a town plan (also called
