@@ -421,6 +421,10 @@ Zuraidah Ehsan:
    Paya Lebar, Singapore<br>
    18 January 2018*
 
+<img src="/images/COA%202017%20to%202018/Ethnohistory%20of%20Singaporean/Javanese_Association.jpg" style="width:100%;">
+<div style="background-color: white;">The Javanese Association of Singapore at Pesta Pusaka and Seni, an event held by the Malay
+Heritage Centre on 24 February 2018. <i> Courtesy of Fuji Prastowo, 2018.</i></div>
+
 So, who are the Malays?9 The Malays are the indigenous people of
 Singapore, comprising 13.4 percent of Singaporean society, making them
 a minority (Rahman, 2017:1). As the *Report of the Select Committee on
