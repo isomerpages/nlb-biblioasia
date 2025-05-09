@@ -52,6 +52,9 @@ The diversity within Singapore had made Singaporeans instinctively skilled at ad
 
 The Library 2000 report was released in March 1994. In his memoirs, published in 2024, Yeo described its proposals as “revolutionary”.[^10]
 
+![](/images/Vol%2021%20Issue%202/Writing%20the%20NLB%20Story/writing_library.jpg)
+<div style="background-color:white;">The Library 2000 Review Committee was convened in 1992 to conduct a comprehensive review of library services in Singapore. <i> Collection of the National Library Singapore (call no. RSING 027.05957 SIN-LIB]).</i></div>
+
 For a start, there was the report’s subtitle – _Investing in a Learning Nation_. “That was the first time the notion of a learning nation, and investing in the learning capacity of the nation, was conceived and presented, which I think is very, very important,” said Tan.
 
 The library, he wrote in the report, should be positioned as “an integral part of our national system actively supporting Singapore as a learning nation”, helping Singaporeans to learn faster and apply knowledge better than others. “This differential lead in our learning capacity will be crucial to our long-term national competitiveness in the global economy where both nations and firms compete with each other on the basis of information and knowledge,” he wrote.&nbsp;
