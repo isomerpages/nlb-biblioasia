@@ -7,7 +7,7 @@ description: ""
 #### **Sparked by a box of old family documents, Jan Beránek embarked on an eight-year quest that brought him from a small Czech village to modern Singapore to uncover the life of his granduncle who died during the Japanese invasion of Singapore.**
 By Jan Beránek
 
-In 2017, my mother showed me a box of old family documents. Among them was a bundle of papers relating to Silvestr Němec – my granduncle. Within those pages laid parts of the story of my granduncle’s life. Silvestr was from a small Czech village in central Europe and was sent thousands of miles away to Singapore by his employer, the Bata Shoe Company, on 31 December 1938. Three years later, during the Japanese invasion of Singapore in 1942, he went missing and was presumed dead at the age of only 22.
+In 2017, my mother showed me a box of old family documents. Among them was a bundle of papers relating to Silvestr Němec – my granduncle. Within those pages lay parts of the story of my granduncle’s life. Silvestr was from a small Czech village in central Europe and was sent thousands of miles away to Singapore by his employer, the Bata Shoe Company, on 31 December 1938. Three years later, during the Japanese invasion of Singapore in 1942, he went missing and was presumed dead at the age of only 22.
 
 <div style="background-color: white;">
 <br>
