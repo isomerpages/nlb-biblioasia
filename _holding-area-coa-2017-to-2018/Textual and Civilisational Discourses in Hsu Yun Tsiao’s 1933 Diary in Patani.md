@@ -543,10 +543,10 @@ annexation to Manchukuo two months later, echoes this sentiment:
    League of Nations as wishful thinking and self-deception. (p. 11)*
 
    **一月五日（水）晴，午85°**<br><br>
-   *电讯传来：日军于元旦夜猛攻山海关，华北震动，今且失守焉。伦敦某<br>
-   报批评张学良之不抵抗待国联之迷梦，将成画饼*。
+   电讯传来：日军于元旦夜猛攻山海关，华北震动，今且失守焉。伦敦某<br>
+   报批评张学良之不抵抗待国联之迷梦，将成画饼。
 	 
-	 International opinion unexpectedly swung in China’s favour. Based on the
+International opinion unexpectedly swung in China’s favour. Based on the
 1932 Lytton Commission report that recommended “shared sovereignty over
 Manchuria”, China’s newly minted Minister to France, Wellington Koo,
 presented China’s case at Geneva and successfully argued that Manchukuo
@@ -614,4 +614,67 @@ time”, Hsu mixes historical and anachronistic registers to make sense of
 his transient residence in Pattani in 1933, and in doing so, updates the
 Chinese tradition of diary keeping.70
 
-#### **Acknowledgments**
+#### **The Paracel Islands Dispute**
+   **May 16 (fire) 83° at night, hot day**<br><br>
+   *Each day Osaka publishes news about the “Javanese Gandhi”,<br>
+   Mohammad Hatta’s, travels in Japan. Hatta is the leader of<br>
+   the independence party for the Javanese; for many years he has<br>
+   worked hard for the struggle and gained fame. On this trip<br>
+   maybe he is getting in touch with various leaders and other<br>
+   parties in Japan; he definitely supports Greater Asia. Today the <br>
+   ideology of Greater Asia that was dead has a new lease on life.<br>
+   Remarkable indeed (p. 133)*.
+
+   **五月十六日（火）午后89°炎晴夜85°**<br><br>
+   大阪每日开载［爪哇甘地］巫哈末吓打氏在日，游历。巫氏为爪哇氏族<br>
+   自由党领袖，数年来努力自工作颇著名。此行或将与日各党领袖及当局<br>
+   接洽；蓋彼为赞同大亚细亚主义者。已死之大亚主义今日復大萌新芽<br>
+   殊足怪也。
+
+Pan-Asianism, according to Okakura Tenshin and others later inspired
+by Russia’s defeat by Japan (1905) such as Sun Yat-sen and Bengali
+poet Rabindranath Tagore, proposed a united Asia to fight European
+imperialism. Incidentally, Hsu’s first publication, a chapbook of poems,
+*Fu Yun* (*Floating Clouds*) was written in imitation of Zheng Zhenduo’s 1922 translation of Tagore’s *Stray Birds* (*Feiniao ji*, 1916).71 In 1933, Hsu
+was presciently skeptical of Japan’s leadership of a Greater Asia. Given a
+“new lease on life”, this form of pan-Asianism would soon become Japan’s
+rationale for military aggression for a Greater East Asian Co-Prosperity
+Sphere. So when the nationalist leader Mohammad Hatta – later Indonesia’s
+first vice-president under Sukarno following Japan’s surrender in 1945 –
+wooed Japan’s support for Dutch East Indies independence, Hsu does not
+say much about this dubious partnership. Instead, he focused on what for
+him represented a clear case of anti-imperial consciousness: a challenge to
+China’s sovereignty in the South China Sea by French Indochina in the
+Paracel Islands dispute.
+
+As in the Manchukuo incident, then as now, China based its claims over
+island chains such as the Paracels (*Xisha* or western sands) and Spratlys
+(*Nansha* or southern sands) on historic right.72 Even before the Sino-French
+war (1884–85), when the Qing conceded Annam and Tonkin (Vietnam) to
+the French, who then consolidated their presence in the region, the Paracels
+had a long, complex diplomatic history of expedition and settlement that
+involved Chinese fishermen and cartographers, British merchants, German
+missionaries and French custom officials and scientists. Japanese economic
+interests, or “indulgence” according to Hsu’s citation of a Soviet newspaper,
+took the form of ocean phosphate mining by Mitsui Bussan Kaisha since
+the 1920s. French occupation of this so-called *terra nullius* was gradual at
+first. Its government formally claimed and annexed the Paracels to Annam
+in 1932, and the Spratlys to Cochinchina in 1933, which set off modern
+sovereignty claims by Japan, Vietnam, China, as well as Malaysia, Taiwan,
+and the Philippines, which continue to this day.73
+
+Hsu followed the Paracels dispute closely in his 1933 diary, and published an
+essay, “The Disgraceful History of Pattle (*Shanhu*) Island”, in the biweekly
+Suzhou-based magazine, *Shanhu* (1932–34), co-founded by Fan Yanqiao after the Mukden Incident.74 In an earlier issue, Hsu had published “The
+Myth of San Bao Gong (Zheng He) in Southeast Asia”, a topic on which he
+expanded.75 These two early examples of Hsu’s Nanyang studies responded to
+the threat to China’s maritime sovereignty. But during this bitter commotion,
+Hsu made room for more positive news. For instance, he notes Siam’s
+prize-winning display of modernity at the World’s Grain Conference and
+Exhibition in Regina, Saskatchewan, Canada (24 July–5 August 1933); a twist
+concerning textbooks in the saga of Chinese school activism; the constant
+stream of fundraising activities besides his teaching duties; his role as a jack-ofall-
+trades for the Chinese community in literary matters (though he did not
+always think highly of his workmanship); the cost of clothes alteration at the
+southern tip of the Malay peninsula; as well as including, as usual, a snippet of
+news that showed the perils of strongman politics and brinkmanship:

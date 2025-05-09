@@ -1,10 +1,10 @@
 ---
-title: My Mother Hedwig Anuar
+title: My Mother, Hedwig Anuar
 permalink: /vol-21/issue-2/jul-sep-2025/mother-hedwig-anuar-shirin-aroozoo/
 variant: markdown
 description: ""
 ---
-#### The daughter of Hedwig Anuar reveals a side to the former Director of the National Library that not many people know.  
+#### The daughter of Hedwig Anuar reveals a side to the former director of the National Library that not many people know.  
 By Shirin Aroozoo
 
 ![](/images/Vol%2021%20Issue%202/Hedwig/hedwig_facing.jpg)
