@@ -743,3 +743,132 @@ modernity. In the next section, I will consider how the genre of the diary
 allows older ideas of diasporic nationalism to converge with Hsu’s “minorpeninsular”
 poetics of discovering Malay-Muslim Patani through textual
 histories and of observing the Bowaradej (royalist) rebellion from afar.
+
+#### **Hsu’s Minor-Peninsular Patani: Literature, Politics and Religion**
+Prince Damrong’s histories, which Hsu admired, said that Patani “belonged
+to the Thai [kingdom] since time immemorial [… which] presumably
+refers to the Sukhothai kingdom, the first recognised “Thai” kingdom”.78
+But Patani was an autonomous territory before it was colonised by
+Bangkok: “the 1909 Anglo-Siamese treaty marked the formal transfer of
+authority to Bangkok in return for the abandoning of Siamese claims to
+Kedah, Kelantan, and the Malay states further south”.79 In the 1930s, the
+encroachment of the Thai imperial project, which combined Theravada
+Buddhism with “European forms of institutional and legal modernity”
+affected Siam’s large Chinese minority but left Jawi-speaking Malay-
+Muslims in its southern provinces of Pattani, Yala and Narathiwat relatively
+untouched.80 Islamic law on polygamy and inheritance, for example,
+was administered as private law so that Malay-Muslims could become
+Thai subjects and citizens. A few years later they became the targets for
+assimilation in cultural, linguistic, education and legal terms.
+
+In a move to decolonise historical methods and write local, autonomous
+histories from new angles, such as examining port-city connections, while
+acknowledging the importance of Chinese sources, new scholarship also
+addresses the recent spate of ethnoreligious violence in the region. Anthony
+Reid has described the Thai South and Malay North as a “plural peninsula”,
+whose “polycultural” nature meant that differences ought to be explained
+by “specific historical dynamics rather than superficial ethnic distinctions”.81
+Since the 16th century, the cosmopolitan Patani has been “the kind of base
+for the Chinese Southeast Asian trade that Bangkok, Batavia and Singapore
+later became, with its ships sailing throughout the Archipelago as far as Makassar, and to Ayuthaya and Hoi An”.82 In fact, the “importance of
+Patani for the Chinese trade in the early 17th century made the Kedah-
+Patani portage also attractive as a journey of about 10 days”.83 Sojourning
+a few centuries later, the Suzhou-born historian Hsu was sensitive to this
+as he taught in Patani and witnessed Siam’s tumultuous constitutional
+struggle and ethnonationalist shaping of the nation. As Hsu reconstructed
+Patani’s cultural pluralism through Thai, Burmese, Malay and Chinese
+sources, he filtered it through the lens of diasporic nationalism, that is, his
+homeland’s civilisational mission of overseas Chinese education and wartime
+mobilisation effort against the Japanese. Patani indigeneity, as such, emerges
+through Hsu’s obsessive archival work of textual histories rather than an
+observation of present-day local customs.84
+
+This counter-temporal layer of politics and erudition in Hsu’s diary is
+“plural”, but not in Reid’s sense. I choose the term “minor-peninsular” to
+evoke Hsu’s Patani, whose “thick transregionalism, a spatially expansive yet
+integrative account of a mobile society”, functions according to diasporic
+scales and agencies.85 Hence, Hsu’s tracing of Chinese migrant knowledge
+and sojourner activism understands local Patani histories in a triangulated
+way. In his short story “The Young Navigator” (1946), Hsu reconstructs
+the trauma of Chinese diaspora in the Asia-Pacific war through the eyes of
+a small boy who flees by boat from Selat (Singapore) through Songkhla,
+Kuantan, Kelantan and Terengganu, hiding at their “peninsular ports”
+that escaped the reach of empires.86 Hsu even used Hokkien phrases such
+as* jiu baxing*, a reference to an important river transport hub in Fuzhou,
+China whose complex system involved pricing goods for foreign customers
+at 98 percent. Fusing the “heroic figures” of Robinson Crusoe and the famous Ming admiral and Muslim eunuch Zheng He’s voyages with
+Malay *merantau* (wandering) culture, Hsu’s survivor’s tale has a naïve,
+ethnographic realism that grounds the adventurous child’s perseverance
+in the militarised war economy. Hsu wrote another story about Japaneseoccupied
+Singapore, narrated through the eyes of a baby chicken.87
+
+Indeed, Hsu’s creative work relied heavily on his research on maritime
+circulations. After leaving Siam in 1938, Hsu continued his Thai studies in
+Singapore. He published the short story “Dufu” (Ferryman) by Thai female
+social realist writer K. Surangkhanang (given name Kanha Kiangsiri, 1911–
+99), translated into Mandarin by Ye Yi, in the journal he edited, *Nanyang
+Miscellany* (*Nanyang zazhi*, 1948).88 Volume 1:4 (1946) contained short
+essays about Patani and Thai customs, as well as a travel account of Malaya
+and Thailand (“Ma Xian jixing”), making it easy to conclude that Hsu
+saw southern Thailand as continuous with the Malay peninsula. In a short
+paragraph titled “The Historical Status of Patani” from his anecdotal history
+“The Development of States on the East Coast”, Hsu notes:
+
+   *“Dani” or “Danian” is short for Patani [in Chinese sources].<br> 
+   Though not included in Malaya’s histories, Patani had a<br> 
+   very close relationship with the Malayan states, and is also on<br> 
+   the Malay peninsula. Patani was the most powerful Malay<br> 
+   kingdom after the Malacca Sultanate fell, and, before Singapore<br> 
+   flourished, the state was most prosperous during the reign of the<br> 
+   Patani queens between 1588 and 1627, when overseas Chinese and<br> 
+   Anglo-Dutch traders would go there to conduct business. At this<br> 
+   time, Johor’s state presence was far less than Patani’s. The reign<br> 
+   of the queens was methodical. They had a close relationship with<br> 
+   Johor and Pahang, but also used military strength [to fight off<br> 
+Siamese invasions].*89
+
+Defined neither by capital flows between Shanghai, Hong Kong and
+Singapore, nor the mainland writer’s exotic desire for the tropics during
+exile, Hsu’s Nanyang imagination lay in its historical geography and sea
+routes used by traders and “pirates”, and occasionally, the orphan child.
+Focused on the high seas, Hsu’s history-writing inverts what Wang Gungwu
+calls an “earthbound continental” mindset, or the neo-Confucian ideology
+of agrarian dedication, that dominates imperial histories, oriented along
+a North-central axis, and the genealogies of southern elite families alike.90
+In his diary, Hsu fixates on the story of the Teochew pirate (*wokou*) Lin
+Daoqian, who attacked the coasts of Fujian and Guangdong when private
+trade with foreign merchants was outlawed during the Ming, and escaped
+to Kaohsiung, Champa, Luzon, and finally, Patani (c. 1566). There Lin
+settled with his 2,000 Cantonese followers, rose to prominence, obtained
+a fief by serving the sultan and marrying his daughter and, according to a
+local legend, built the Krue Se (Gresik) Mosque and died a Muslim. The
+bronze cannon he had cast had blasted him: “one cannon would not go off,
+so Lin went to fix it and it hurled him into the ocean... The other cannon is
+still stored in the Bangkok palace” [v. 2: 158–59] and is “named พระยาตานี
+[*phraya tan*i]” [v. 2: 207].
+
+Buried next to Lin at the mosque is Lim Ko Niao (Lim Guniang), or his
+alleged sister, who pursued him from China and “committed suicide by
+hanging herself from a tree after protesting in vain” against her brother’s
+conversion. As Reid notes, “[t]his lady’s cult was already known locally in
+the late 19th century, but in the nationalist 20th century, she (the upholder
+of pure ‘Chinese’ tradition), rather than the *peranakan* Lin Daoqian (the
+founder of local Chinese identity and fortune), became a hero for the
+Chinese of Singapore and Malaysia”. Hsu describes in detail in his diary a
+festivity at Lim Ko Niao’s shrine in Pattani, and thus gives a hint of why it
+appeals to today’s “cross-border religious tourism” and its view that southern
+Thailand is “a substitute Chinese homeland”.91
+
+In October 1933, Hsu finished his essay, “A Study of Lin Daoqian’s Brief
+Time in Patani”, and had it published in *Dongfang zazhi* in January 1935 (Vol. 32) [v. 2: 282].92 He was proud to correct the mistake in Chinese
+annals that mixed up Brunei (*boni*) with Pattani (*dani*). In his later *History
+of Patani*, Hsu examined Patani’s port-city connections to southern China,
+Japan, as well as Portuguese traders during the age of commerce (1450–
+1680). He also included an appendix of biographies about nine Chinese
+traders or “pirates” who ended up in Patani, such as the aforementioned Lin
+Daoqian and Wang Dayuan.93 A counterpoint to the magisterial histories of
+Zheng He’s expeditions, Hsu’s biographies of swashbuckling seafarers recall
+Liang Qichao’s eight settler colonialists, but also pioneered the local history
+of Chinese in Patani.
+
+
