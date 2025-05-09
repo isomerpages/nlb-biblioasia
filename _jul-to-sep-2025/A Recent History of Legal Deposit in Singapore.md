@@ -4,7 +4,7 @@ permalink: /vol-21/issue-2/jul-sep-2025/recent-history-legal-deposit-singapore/
 variant: markdown
 description: ""
 ---
-#### The scope of Legal Deposit in Singapore expanded to digital materials and web archiving in 2018.  
+#### The scope of legal deposit in Singapore expanded to digital materials and web archiving in 2018.  
 By Samantha Chen
 
 ![](/images/Vol%2021%20Issue%202/Legal%20Deposit/history_main.jpg)
