@@ -2,6 +2,7 @@ collections:
   holding-area:
     output: true
     order:
+      - Writing the NLB Story.md
       - "Hedwig Anuar: First Lady of the National Library.md"
       - Sample article.md
       - Singapore Youth Orchestra Brings Singapore Composers into the

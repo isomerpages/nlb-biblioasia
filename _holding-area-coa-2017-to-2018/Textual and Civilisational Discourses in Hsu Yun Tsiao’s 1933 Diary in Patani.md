@@ -678,3 +678,359 @@ trades for the Chinese community in literary matters (though he did not
 always think highly of his workmanship); the cost of clothes alteration at the
 southern tip of the Malay peninsula; as well as including, as usual, a snippet of
 news that showed the perils of strongman politics and brinkmanship:
+
+   **August 5 (earth) scorching hot, 86° at night**<br><br>
+   *A newspaper report: Siam recently participated in Canada’s<br>
+   Agricultural Exhibition and Competition and won 11 out of the<br>
+   20 prizes, as well as the the top two or three prizes for its rice.<br>
+   I heard that the top prize was won by the display by Bangkok’s<br>
+   nearby government experimental factory. Siam already formally<br>
+   announced that it would cancel its ban on Chinese schools using<br>
+   the textbooks based on the Three People’s Principles (sanmin).76<br>
+   Only Chinese language hours will be limited. It’s like the Monkey<br>
+   King unable to escape Buddha’s palm!*
+
+   **August 6 (sun) 89° in the afternoon, hot, suddenly a typhoon,<br>
+   86° in the afternoon, sunny**
+
+   *In the morning I wrote a formal document requesting to rent<br>
+   film equipment for our school. We plan to screen a movie to raise<br>
+   funds to benefit the traveling artist troupe. Next, I came up with a<br>
+   name for Xuelian’s third son: Hui Yun. It comes from Wang Jian’s<br>
+   “Memorial Inscription for Chu Yuan” in Selections of Refined<br>
+   Literature (Wen Xuan). “One’s style and demeanor as bright as<br>
+   the autumn moon, one’s sentiments and morality as full-bodied<br>
+   as a spring cloud”. Sai Qiu and Sai Yue are the younger sisters’<br>
+   names, and Hui Yin is the name of the eldest son [so Hui Yun is<br>
+   an appropriate extension of the pattern, through the allusion to<br>
+   “autumn” (qiu) and “moon” (yue)]. My shirt is too big, so I asked<br>
+   Kai Yuan to have it altered at the tailor’s. Each shirt costs one<br>
+   baht and 15 satang, and each pair of shorts costs 55 satang, long<br>
+   pants are more expensive by half compared to Johor prices, the rest<br>
+   are cheaper. A newspaper report: Japan maintained its claim of<br>
+   military right over the nine islands where it has industries, a Soviet<br>
+   newspaper claims that its presence there is caused by appeasement.<br>
+   The French Legation officer in Beijing, [Henry August] Wilden,<br>
+   _times schemed and talked about the China-Vietnam treaty, and<br>
+   said that the French occupied the nine small islands, and that<br>
+   boundaries should be drawn to suit the convenience of shipping<br>
+   trade. I heard that Zhua Changnian [Tang Shaoyi’s son-in-law]<br>
+   protested against the intimidation of Chinese sojourners and the<br>
+   deportation of three Chinese. (pp. 205–206)*
+	 
+   **八月五日（土）炙热夜86°**<br><br>
+
+   报载暹米近得加拿大农业展览竞赛会，米谷奖只二十件中之十一件，且<br>
+   头二三均为所得，闻头奖为曼谷附近政府试验场所产云。又暹罗已正式<br>
+   公布，取消禁止华校用三民教科书，惟华文时间已限止，孙行者总跳不<br>
+出如来掌心耳！
+
+   **八月六日（日）午热89°突然狂风雨86°下午晴**<br><br>
+    晨作么出一通，为校中租电影，拟放映筹欵以充游艺会经济。继为学廉<br>
+   茅三子取名［徽云］蓋文选王俭褚渊碑文有句云：［风仪与秋月齐明，<br>
+   音徽与春云等润］。所__者赛秋赛月均(?)其妹名，徽音则其长之名也。<br>
+   衬衫均敞，讬凯元往成衣店制之。衫每件一铢十五丁，短裤每件五十五<br>
+   丁，长裤较柔佛贵半值，余均廉。报载：日对九小岛产业保留军事动<br>
+   作权，俄报则谓係美居宽纵所致，法公使韦礼德在京__外次余谟谈中越<br>
+   条约，谓法之佔九小岛，线为航业便利而已云云。又那威华侨仅六人，<br>
+   乃忽被驱逐三人，闻已令公使诸昌年抗议云。
+
+The layers of politics and erudition in Hsu’s diary evoke “a thick
+transregionalism, a spatially expansive yet integrative account of a mobile
+society”.77 Hsu’s diary urgently shapes and consolidates his public response
+to the evolving relationship between Siam and China, and interwar
+modernity. In the next section, I will consider how the genre of the diary
+allows older ideas of diasporic nationalism to converge with Hsu’s “minorpeninsular”
+poetics of discovering Malay-Muslim Patani through textual
+histories and of observing the Bowaradej (royalist) rebellion from afar.
+
+#### **Hsu’s Minor-Peninsular Patani: Literature, Politics and Religion**
+Prince Damrong’s histories, which Hsu admired, said that Patani “belonged
+to the Thai [kingdom] since time immemorial [… which] presumably
+refers to the Sukhothai kingdom, the first recognised “Thai” kingdom”.78
+But Patani was an autonomous territory before it was colonised by
+Bangkok: “the 1909 Anglo-Siamese treaty marked the formal transfer of
+authority to Bangkok in return for the abandoning of Siamese claims to
+Kedah, Kelantan, and the Malay states further south”.79 In the 1930s, the
+encroachment of the Thai imperial project, which combined Theravada
+Buddhism with “European forms of institutional and legal modernity”
+affected Siam’s large Chinese minority but left Jawi-speaking Malay-
+Muslims in its southern provinces of Pattani, Yala and Narathiwat relatively
+untouched.80 Islamic law on polygamy and inheritance, for example,
+was administered as private law so that Malay-Muslims could become
+Thai subjects and citizens. A few years later they became the targets for
+assimilation in cultural, linguistic, education and legal terms.
+
+In a move to decolonise historical methods and write local, autonomous
+histories from new angles, such as examining port-city connections, while
+acknowledging the importance of Chinese sources, new scholarship also
+addresses the recent spate of ethnoreligious violence in the region. Anthony
+Reid has described the Thai South and Malay North as a “plural peninsula”,
+whose “polycultural” nature meant that differences ought to be explained
+by “specific historical dynamics rather than superficial ethnic distinctions”.81
+Since the 16th century, the cosmopolitan Patani has been “the kind of base
+for the Chinese Southeast Asian trade that Bangkok, Batavia and Singapore
+later became, with its ships sailing throughout the Archipelago as far as Makassar, and to Ayuthaya and Hoi An”.82 In fact, the “importance of
+Patani for the Chinese trade in the early 17th century made the Kedah-
+Patani portage also attractive as a journey of about 10 days”.83 Sojourning
+a few centuries later, the Suzhou-born historian Hsu was sensitive to this
+as he taught in Patani and witnessed Siam’s tumultuous constitutional
+struggle and ethnonationalist shaping of the nation. As Hsu reconstructed
+Patani’s cultural pluralism through Thai, Burmese, Malay and Chinese
+sources, he filtered it through the lens of diasporic nationalism, that is, his
+homeland’s civilisational mission of overseas Chinese education and wartime
+mobilisation effort against the Japanese. Patani indigeneity, as such, emerges
+through Hsu’s obsessive archival work of textual histories rather than an
+observation of present-day local customs.84
+
+This counter-temporal layer of politics and erudition in Hsu’s diary is
+“plural”, but not in Reid’s sense. I choose the term “minor-peninsular” to
+evoke Hsu’s Patani, whose “thick transregionalism, a spatially expansive yet
+integrative account of a mobile society”, functions according to diasporic
+scales and agencies.85 Hence, Hsu’s tracing of Chinese migrant knowledge
+and sojourner activism understands local Patani histories in a triangulated
+way. In his short story “The Young Navigator” (1946), Hsu reconstructs
+the trauma of Chinese diaspora in the Asia-Pacific war through the eyes of
+a small boy who flees by boat from Selat (Singapore) through Songkhla,
+Kuantan, Kelantan and Terengganu, hiding at their “peninsular ports”
+that escaped the reach of empires.86 Hsu even used Hokkien phrases such
+as* jiu baxing*, a reference to an important river transport hub in Fuzhou,
+China whose complex system involved pricing goods for foreign customers
+at 98 percent. Fusing the “heroic figures” of Robinson Crusoe and the famous Ming admiral and Muslim eunuch Zheng He’s voyages with
+Malay *merantau* (wandering) culture, Hsu’s survivor’s tale has a naïve,
+ethnographic realism that grounds the adventurous child’s perseverance
+in the militarised war economy. Hsu wrote another story about Japaneseoccupied
+Singapore, narrated through the eyes of a baby chicken.87
+
+Indeed, Hsu’s creative work relied heavily on his research on maritime
+circulations. After leaving Siam in 1938, Hsu continued his Thai studies in
+Singapore. He published the short story “Dufu” (Ferryman) by Thai female
+social realist writer K. Surangkhanang (given name Kanha Kiangsiri, 1911–
+99), translated into Mandarin by Ye Yi, in the journal he edited, *Nanyang
+Miscellany* (*Nanyang zazhi*, 1948).88 Volume 1:4 (1946) contained short
+essays about Patani and Thai customs, as well as a travel account of Malaya
+and Thailand (“Ma Xian jixing”), making it easy to conclude that Hsu
+saw southern Thailand as continuous with the Malay peninsula. In a short
+paragraph titled “The Historical Status of Patani” from his anecdotal history
+“The Development of States on the East Coast”, Hsu notes:
+
+   *“Dani” or “Danian” is short for Patani [in Chinese sources].<br> 
+   Though not included in Malaya’s histories, Patani had a<br> 
+   very close relationship with the Malayan states, and is also on<br> 
+   the Malay peninsula. Patani was the most powerful Malay<br> 
+   kingdom after the Malacca Sultanate fell, and, before Singapore<br> 
+   flourished, the state was most prosperous during the reign of the<br> 
+   Patani queens between 1588 and 1627, when overseas Chinese and<br> 
+   Anglo-Dutch traders would go there to conduct business. At this<br> 
+   time, Johor’s state presence was far less than Patani’s. The reign<br> 
+   of the queens was methodical. They had a close relationship with<br> 
+   Johor and Pahang, but also used military strength [to fight off<br> 
+Siamese invasions].*89
+
+Defined neither by capital flows between Shanghai, Hong Kong and
+Singapore, nor the mainland writer’s exotic desire for the tropics during
+exile, Hsu’s Nanyang imagination lay in its historical geography and sea
+routes used by traders and “pirates”, and occasionally, the orphan child.
+Focused on the high seas, Hsu’s history-writing inverts what Wang Gungwu
+calls an “earthbound continental” mindset, or the neo-Confucian ideology
+of agrarian dedication, that dominates imperial histories, oriented along
+a North-central axis, and the genealogies of southern elite families alike.90
+In his diary, Hsu fixates on the story of the Teochew pirate (*wokou*) Lin
+Daoqian, who attacked the coasts of Fujian and Guangdong when private
+trade with foreign merchants was outlawed during the Ming, and escaped
+to Kaohsiung, Champa, Luzon, and finally, Patani (c. 1566). There Lin
+settled with his 2,000 Cantonese followers, rose to prominence, obtained
+a fief by serving the sultan and marrying his daughter and, according to a
+local legend, built the Krue Se (Gresik) Mosque and died a Muslim. The
+bronze cannon he had cast had blasted him: “one cannon would not go off,
+so Lin went to fix it and it hurled him into the ocean... The other cannon is
+still stored in the Bangkok palace” [v. 2: 158–59] and is “named พระยาตานี
+[*phraya tan*i]” [v. 2: 207].
+
+Buried next to Lin at the mosque is Lim Ko Niao (Lim Guniang), or his
+alleged sister, who pursued him from China and “committed suicide by
+hanging herself from a tree after protesting in vain” against her brother’s
+conversion. As Reid notes, “[t]his lady’s cult was already known locally in
+the late 19th century, but in the nationalist 20th century, she (the upholder
+of pure ‘Chinese’ tradition), rather than the *peranakan* Lin Daoqian (the
+founder of local Chinese identity and fortune), became a hero for the
+Chinese of Singapore and Malaysia”. Hsu describes in detail in his diary a
+festivity at Lim Ko Niao’s shrine in Pattani, and thus gives a hint of why it
+appeals to today’s “cross-border religious tourism” and its view that southern
+Thailand is “a substitute Chinese homeland”.91
+
+In October 1933, Hsu finished his essay, “A Study of Lin Daoqian’s Brief
+Time in Patani”, and had it published in *Dongfang zazhi* in January 1935 (Vol. 32) [v. 2: 282].92 He was proud to correct the mistake in Chinese
+annals that mixed up Brunei (*boni*) with Pattani (*dani*). In his later *History
+of Patani*, Hsu examined Patani’s port-city connections to southern China,
+Japan, as well as Portuguese traders during the age of commerce (1450–
+1680). He also included an appendix of biographies about nine Chinese
+traders or “pirates” who ended up in Patani, such as the aforementioned Lin
+Daoqian and Wang Dayuan.93 A counterpoint to the magisterial histories of
+Zheng He’s expeditions, Hsu’s biographies of swashbuckling seafarers recall
+Liang Qichao’s eight settler colonialists, but also pioneered the local history
+of Chinese in Patani.
+
+#### **Hsu’s Account of the Bowaradej (Royalist) Rebellion in October 1933**
+It seems perplexing that Hsu draws on textual histories and world reports
+on Jewish diaspora, rather than materials relating to the Patani Malay-
+Muslims in front of him, to establish his diasporic subjectivity and response
+to the erosion of Chinese rights in Siam. From his diaries, it seems that
+international news stimulated his reflections on Nanyang affairs. A history
+that is merely local does not have consequences; a history that resembles
+other histories gains importance. Hsu’s elision of Patani’s modern populace
+indicates that he was mainly concerned with Chinese minority populations,
+and not with minority populations as such. As Sharon Carstens notes, Hsu’s
+foreword to the first issue of *Journal of the South Seas* (1940) “laid out the
+goals of the publication, chief among which was a desire to utilise Chinese
+culture and scholarship to increase respect for the overseas Chinese, who
+were too often characterised as the ‘Jews of the Orient’”.94 Hsu’s minorpeninsular
+Patani emerges most vividly in his detailed accounts of the
+Bowaradej (royalist) rebellion of October 1933. After the unsuccessful coup
+d’état of 20 June 1933, Prince Bowaradej (1877–1947), financed by King Prajadhipok, who had retreated to Hua Hin and later Songkhla [v. 2: 66,
+268, 277], led a revolt against Khana Ratsadon’s constitutional regime,
+following the Siamese Revolution of 1932. Hsu records with alarm that
+“rebels” had occupied the Don Muang airport on 12 October, and the
+transport lines that were cut by the resulting chaos: 
+
+   **October 18 (water) sunny and hot, 83° at night**<br><br>
+   *The chaos in Siam affected traffic. The mail coach from the Malay<br>
+   Federation can only reach Prachin Buri province, which should<br>
+   now be under occupation by the rebel troops. Apparently, the troops<br>
+   at the Don Muang rebel base number 5,000 to 10,000, and are<br>
+   engaged in extremely violent battle with the capital. The telegram<br>
+   lines have been cut, the situation is serious, the government’s<br>
+   declaration to subdue the rebel groups within two days is not<br>
+   tenable. Today I translated The History of Pattani Province, and<br>
+omitted half of it*. [p. 269]
+
+   **十月十八日（水）晴热夜83°**<br><br>
+   暹罗变乱，影响交通，马来联邦邮车祗能通至巴真武里，应该处已为叛<br>
+   军所占据。据云叛军根据地在Don Muang 为数自五千至一万，其在京畿<br>
+   开火者，颇为猛烈云。电线均已隔断，形势严重，政府之宣言能克服之<br>
+于二日内者，不可持矣。今日译大泥府志，去其半矣。
+
+Observing the chaos from afar, Hsu engaged in his translation of Pattani
+and Songkhla histories; completed his essay on Lin Daoqian; wrote about a
+power struggle in the principal ranks of a newly formed Bangkok Chinese
+high school; and gave an anecdotal history of the origins of Deepavali (the
+Hindu festival of lights). In this heady mix of contexts, Hsu’s sympathy for
+Patani sovereignty appears for the first time; the Bowaradej revolt, for Hsu,
+also led to the consolidation of southern Thailand under Siamese rule:
+
+   *Other parts of Thailand were mostly conservative, should the<br>
+   rebel army reach them, they will not be independent (from the<br>
+   monarchy). In Patani, which is in the South, there are Siamese<br>
+   who became officials to consolidate the mostly Malay region under<br>
+   the new regime. In Songkhla, … the Siamese army stationed and<br>
+   set up camp at the English- and European-owned mines. Also, Sing<br>
+   Sian (newspaper?) jointly pronounced that the rebel army has been<br>
+vanquished, and King Rama VI fled by plane. Who to believe?*<br><br>
+   其他各地大多保守觉，一旦被叛军勾通，不难独立也。至南方大年则<br>
+   有暹罗人为长官，统揽政权，惟人口多巫族。宋卡，布吉，多邪 (?) 等<br>
+   地，暹军驻扎处，均英澳人投资矿产所也。又据星暹统称，叛军已溃<br>，
+   亲王乘机出奔。不知信否。
+	 
+	
+#### **Conclusion: The Significance of Hsu’s Diaries to Nanyang Historiography**
+Seen less charitably, Hsu’s interwar Nanyang studies was a partisan
+reflection of the Chinese war mobilisation effort. Just as “disciplined
+diary writing” was introduced “as late as the ‘Nanjing decade’ of GMD
+[Kuomintang] rule” to shape soldiers’ commitment to acts of violence,
+Hsu’s diary helped him, as a historian, be accountable to the Chinese
+nationalist cause and hence not to be considered a “collaborationist” or
+“Chinese traitor” (*hanjian*). Writing the self mobilised his convictions and
+transformed his consciousness to act in his own ways while being far away
+from his hometown of Suzhou, China. Hsu’s personal diary recalls the
+prized genre of loyalist resistance and moral self-reflection by late-Ming
+literati opposing the traumatic Qing transition.95 Perhaps after the 1930s the
+reason for diary-writing faded. After Hsu moved to Singapore in 1938, his
+collaboration with “southbound intellectuals” (*nanlai wenren*) to research
+and publish works through the South Seas Society was interrupted by the
+Japanese Occupation of Singapore (1942–45), which forced him into hiding.
+Diary keeping, if discovered, could have meant death; even his *History
+of Patani* (1946) manuscript, completed in 1940, had to be stashed in the
+ceiling board, and was thankfully only half-eaten by silverfish. Instead of
+private life-writing, Hsu found similar genres such as children’s literature,
+anecdotal histories and testimonies, which he wrote and edited, to satisfy his
+interest in postwar reconstruction via public scholarship.
+
+Hsu’s diaries are valuable because they fill the gap in our understanding of
+his early years, and they bring together contexts that have been overlooked
+in Nanyang historiography. That historiography views the China-Singapore
+connection, via its publication and institutional histories, as an important genealogy. My biographical method instead asks what was politically and
+personally at stake in Hsu’s interwar Nanyang studies. Hsu’s responses to
+current affairs, especially of China and the Nanyang, from the perspectives
+of Siam and its southern region of Patani, suggest that the relationships
+of *huaqiao* to China and their places of residence are in constant
+transformation.
+
+As a newly arrived China-loyalist in Siam, Hsu intervened in communities
+that had perhaps been assimilated through generations of residence, and
+perhaps more strongly affectively linked to networks of Teochew people,
+for instance, than to a distant state headquartered in Nanjing. The complex
+histories of Chinese diaspora continue to be worked out in Hsu’s postwar
+Singapore, where scholarship written in Chinese or from communist
+China was seen as politically suspect. Hsu’s diaries recorded events as they
+unfolded from a viewpoint whose ultimate destiny is unknowable. But they
+also anticipated the trauma of total war, and Hsu’s decision, as a survivor, to
+double down on his efforts to fight for the longevity of Chinese education
+and Nanyang studies in post-1945 Singapore. Hence Hsu’s personal diaries
+are important because they anticipate the geopolitics and scholarly politics
+of the South Seas Society some 20 years later.
+
+Naturally, the postwar history of Nanyang archives and scholarly societies
+would be more familiar to readers. Based mainly at the aforementioned
+Nanyang University (1956–80), the first Chinese-language university
+in Southeast Asia, Nanyang Studies crystallised a scholarly generation’s
+interests in the region they called “home”.96 Notably, Nanyang University
+(or Nantah) graduates majoring in history and geography fondly recall
+their ethnographic trip to India, which Hsu led in 1959. Hsu wrote a parttravel
+memoir, part-cultural-religious history titled *Travels to India* (1964),
+and published it as one of 12 books in the Afro-Asian book series (*Ya Fei
+congshu*) he edited for Singapore’s Youth Bookstore (*Qingnian shuju*, 1955– ),
+which was founded by Chen Mong Chea (Chen Mengzhe, 1920–2016).97
+Incidentally, the publication of this series was related to the opening of
+Nanyang University. The books were used as textbooks, so they sold well and underwent a second print run.98 This was around the time that Chief
+Minister Lim Yew Hock’s government banned the import of all publications
+from China (1958), and local publishers cornered the Malayan market in
+Chinese-language publishing.99 Other well-known book series include the
+*Singaporean and Malayan Literature and Art* book series (*Xin Ma wenyi
+congshu*) and *Literature from the South* (*Nanfang wencong*), which launched
+the careers of many local writers, such as Han Suyin, Ly Singko (Li Xingke),
+Miao Xiu, Lin Cantian, Wei Yun, Lian Shisheng, Qiu Xuxu and Zhao
+Rong.
+ 
+Folk historians (*minjian xueren*) wistfully narrate the rise and decline of
+Nanyang Studies in Singapore (1940–81), and view Hsu’s passing in 1981 as
+marking the end of an era. After 1981, Nanyang Studies took a turn toward
+ethnic Chinese studies.100 This calls for an explanation. Nanyang University
+(1956–80), the first Chinese-language university in Southeast Asia, was
+forcibly closed around that time, to meet the Singapore government’s
+globalising efforts in English. The centre of gravity for overseas Chinese
+studies shifted to departments of Chinese studies at the University of Malaya
+and National University of Singapore. No studies pursued in Chinese
+thereafter could escape questions of ethnic identity. The shift from diasporic
+to local Malayan identities in postwar Nanyang publications, perhaps,
+creates a paradoxical, uneasy feeling where scholars celebrate creolisation but
+wonder if it is attached to the heavy cost of assimilation.101 Hsu’s creolised,
+anti-assimilationist stance in Nanyang studies is worth revisiting. Fledging
+and open to varied intellectual trends and genealogies, his interwar Nanyang
+studies imagined a different outcome, and it is important that we do not
+take its evanescence as a foregone conclusion.
+
+#### **Acknowledgments**
+*I thank Haun Saussy and my reviewer Seng Guo Quan for their comments on an earlier
+draft of the essay; Kenji Chanon Praepipatmongkol for his help with the Thai; Zhuang
+Wubin for inspiring conversations; Senior Librarian Seow Peck Ngiam and library staff
+for their assistance in accessing materials during my fellowship at NLB*.
+
+<div>
+<b>Nicholas Y. H. Wong</b> is a Ph.D. candidate in comparative literature at the University
+of Chicago. As a Lee Kong Chian Research Fellow, he conducted archival research into
+Hsu Yun-Tsiao’s five extant diaries (1930–38), whose contents he transcribed, translated
+and introduces in this essay. His biographical approach to Hsu’s work aims to rethink
+the discipline’s periodisation, historical method and melancholic narrative of Nanyang
+studies’ rise and decline (1940–81).
+</div>
+

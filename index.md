@@ -18,6 +18,17 @@ sections:
       background: /images/Apr_Jun_2025_hero_images__10___1_.jpg
       variant: center
   - infopic:
+      title: Badang the Strongman
+      subtitle: Podcast
+      id: infopic
+      description: Many people know of Badang the strongman. Independent scholar
+        William Gibson tells us the tale of Badang is much more complicated than
+        is generally known.
+      button: Listen to the episode
+      url: /podcast/badang-the-strongman-a-miracle-working-grave-a-folk-tale-and-a-nations-mythology/
+      image: /images/Podcast/William_600_by_400.jpg
+      alt: Badang keramat singapore stone
+  - infopic:
       title: My Mother Hedwig Anuar
       subtitle: People
       id: infopic
