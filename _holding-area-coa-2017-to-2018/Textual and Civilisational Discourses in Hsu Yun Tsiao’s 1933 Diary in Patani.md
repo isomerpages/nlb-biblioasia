@@ -733,5 +733,14 @@ news that showed the perils of strongman politics and brinkmanship:
    丁，长裤较柔佛贵半值，余均廉。报载：日对九小岛产业保留军事动<br>
    作权，俄报则谓係美居宽纵所致，法公使韦礼德在京__外次余谟谈中越<br>
    条约，谓法之佔九小岛，线为航业便利而已云云。又那威华侨仅六人，<br>
-乃忽被驱逐三人，闻已令公使诸昌年抗议云。
+   乃忽被驱逐三人，闻已令公使诸昌年抗议云。
+
+The layers of politics and erudition in Hsu’s diary evoke “a thick
+transregionalism, a spatially expansive yet integrative account of a mobile
+society”.77 Hsu’s diary urgently shapes and consolidates his public response
+to the evolving relationship between Siam and China, and interwar
+modernity. In the next section, I will consider how the genre of the diary
+allows older ideas of diasporic nationalism to converge with Hsu’s “minorpeninsular”
+poetics of discovering Malay-Muslim Patani through textual
+histories and of observing the Bowaradej (royalist) rebellion from afar.
 
