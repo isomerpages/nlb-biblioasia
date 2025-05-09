@@ -720,13 +720,13 @@ news that showed the perils of strongman politics and brinkmanship:
 	 
    **八月五日（土）炙热夜86°**<br><br>
 
-报载暹米近得加拿大农业展览竞赛会，米谷奖只二十件中之十一件，且<br>
-头二三均为所得，闻头奖为曼谷附近政府试验场所产云。又暹罗已正式<br>
-公布，取消禁止华校用三民教科书，惟华文时间已限止，孙行者总跳不<br>
+   报载暹米近得加拿大农业展览竞赛会，米谷奖只二十件中之十一件，且<br>
+   头二三均为所得，闻头奖为曼谷附近政府试验场所产云。又暹罗已正式<br>
+   公布，取消禁止华校用三民教科书，惟华文时间已限止，孙行者总跳不<br>
 出如来掌心耳！
 
    **八月六日（日）午热89°突然狂风雨86°下午晴**<br><br>
-<br>晨作么出一通，为校中租电影，拟放映筹欵以充游艺会经济。继为学廉<br>
+    晨作么出一通，为校中租电影，拟放映筹欵以充游艺会经济。继为学廉<br>
    茅三子取名［徽云］蓋文选王俭褚渊碑文有句云：［风仪与秋月齐明，<br>
    音徽与春云等润］。所__者赛秋赛月均(?)其妹名，徽音则其长之名也。<br>
    衬衫均敞，讬凯元往成衣店制之。衫每件一铢十五丁，短裤每件五十五<br>
@@ -743,4 +743,3 @@ modernity. In the next section, I will consider how the genre of the diary
 allows older ideas of diasporic nationalism to converge with Hsu’s “minorpeninsular”
 poetics of discovering Malay-Muslim Patani through textual
 histories and of observing the Bowaradej (royalist) rebellion from afar.
-
