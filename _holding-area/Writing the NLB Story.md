@@ -125,7 +125,21 @@ By 2001, visitorship had quadrupled, the collection had tripled in size, and mem
 
 Today, the effects of the Library 2000 recommendations can clearly be seen as many of the proposals were implemented – from a network of libraries of different sizes, to libraries with vibrant designs and tech-aided services that are embedded within shopping malls.&nbsp;
 
+![](/images/Vol%2021%20Issue%202/Writing%20the%20NLB%20Story/writing_newspaper.jpg)
+<div style="background-color:white;">The first library to open in a shopping mall is the Jurong West Community Library in Jurong Point. Source: <i> The Straits Times, 23 March 1996 © SPH Media Limited. Permission required for reproduction.</i></div>
+
+
+
+
 The NLB has constantly sought to reinvent itself with more strategic plans. In 2005, there was the _Library 2010: Libraries for Life, Knowledge for Success_ report. This was followed by “Libraries for Life” in 2011 and the latest, LAB25 (“Libraries and Archives Blueprint 2025”), in 2021.
+
+![](/images/Vol%2021%20Issue%202/Writing%20the%20NLB%20Story/writing_courtyard.jpg)
+<div style="background-color:white;">The courtyard at the former National Library on Stamford Road, 2004. Music performances, wellness talks and other cultural events were held there. <i> Collection of the National Library Singapore.</i></div>
+
+
+![](/images/Vol%2021%20Issue%202/Writing%20the%20NLB%20Story/writing_lv5.jpg)
+<div style="background-color:white;">The Courtyard at Level 5 of the National Library Building is opened to the public. It can be booked for special events such as book launches, wedding solemnisations and birthday celebrations. <i> Collection of the National Library Board.</i></div>
+
 
 And that journey of change and transformation, for both the library and Singapore, is far from over. Singaporeans are still buffeted by great changes – new technologies such as artificial intelligence are reshaping the world, and information has long been at everyone’s fingertips, thanks to ubiquitous digital devices. How should the library approach its mission of helping people learn today?&nbsp;
 
