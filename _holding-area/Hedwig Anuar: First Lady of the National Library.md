@@ -22,6 +22,10 @@ Hedwig Elizabeth Aroozoo was born 19 November 1928 in Johor Bahru to a Eurasian 
 
 It is perhaps not surprising&nbsp;then&nbsp;that Anuar developed a love for reading at an early age. In an interview with _Straits Times_ in 1985, Anuar said she could not remember a time when she could not read and started on political works in her father’s extensive library at age 10 in 1939. [^2]
 
+![](/images/Vol%2021%20Issue%202/Hedwig%20%20%20First%20Lady/hedwig2_women.jpg)
+<div style="background-color:white;">Hedwig Anuar (far left) with the first women arts and science graduates of the University of Malaya, 1950. <i>Courtesy of Shirin Aroozoo.</i></div>
+
+
 Anuar studied at the Convent of the Holy Infant Jesus in Johor Bahru and then at the Convent of the Holy Infant Jesus in Singapore. In 1947, she entered Raffles College to read literature. Raffles College became the University of Malaya in 1949, so when she graduated in 1951, it was with a first class honours degree from the newly renamed university.
 
 As the Japanese Occupation (1942–45) had depleted her father’s savings, Anuar taught at the People’s Education Association and tutored other students to get by while studying. This did not stop her from getting involved in college life: she joined the Literary Dramatic and Debating Society and was active with the students’ union, becoming known as the “Lady President”, a title she detested. [^3]
@@ -29,10 +33,6 @@ As the Japanese Occupation (1942–45) had depleted her father’s savings, Anua
 Anuar also became involved in politics in university. Just before the end of her honours year in January 1951, there was a wave of arrests in Singapore and Malaya for possession of Malayan Communist Party literature. Among the detainees were former Malayan Democratic Union leaders like John Eber and Devan Nair as well as several University of Malaya students including James Puthucheary.
 
 Anuar was among the members of the students’ union who visited the detainees. “Every Saturday I would apply for a pass from Special Branch to visit the detention camp on St John’s Island,” she said. “We would get the pass from Special Branch, and go to the Portmaster’s Pier to catch the launch to St John’s Island. And we bring food and books for the detainees. The British were quite liberal. They allowed the detainees to have books from the university library.” [^4]
-
-![](/images/Vol%2021%20Issue%202/Hedwig%20%20%20First%20Lady/hedwig2_women.jpg)
-<div style="background-color:white;">Hedwig Anuar (far left) with the first women arts and science graduates of the University of Malaya, 1950. <i>Courtesy of Shirin Aroozoo.</i></div>
-
 
 #### **Life in the United Kingdom**
 
@@ -82,9 +82,6 @@ In September 1960, Anuar launched the mobile library service to schools just two
 
 Anuar also initiated the process of building fulltime branch libraries rather than continuing to operate part-time branch libraries with limited opening hours. Starting with Queenstown Branch Library in 1970 and Toa Payoh in 1974, this would steadily grow into a network of six such fulltime branch libraries by her retirement in 1988. The collection of vernacular language books (Malay, Tamil and Chinese) was also expanded to cater to Singapore’s general population.
 
-![](/images/Vol%2021%20Issue%202/Hedwig%20%20%20First%20Lady/hedwig2_salute.jpg)
-<div style="background-color:white;">Hedwig Anuar was given a “Books of Honour” salute by library staff at her retirement dinner, 1988. <i>Hedwig Anuar Collection, National Library Singapore.</i></div>
-
 One of Anuar’s final initiatives as director was the computerisation of the library’s card catalogue, as well as the membership database and the borrowing system in the 1980s. While the initial report on computerisation was released in 1975, it was only in October 1987 that the first library was computerised – the Queenstown Library. The National Library on Stamford Road was computerised in August 1988, just before Anuar retired in November that year. [^19] As a result, book borrowing took a matter of seconds instead of minutes. By the time Anuar retired, membership with the National Library had grown from 43,000 to over 330,000. [^20]
 
 ![](/images/Vol%2021%20Issue%202/Hedwig%20%20%20First%20Lady/hedwig2_computer.jpg)
@@ -124,6 +121,9 @@ For her efforts in pushing for women’s rights and her involvement in women’s
 Anuar was uncompromising in her drive to develop professional librarianship locally. To this end, she pushed the development of professional associations, local training and formal education.&nbsp;
 
 One of the library heads who served under her, Wong Heng, credited her with obtaining overseas scholarships for staff to gain their professional qualifications leveraging the Colombo Plan and the British Council. Wong Heng himself was a recipient of one of those scholarships. Aside from that, Anuar worked with the Library Association of Singapore to start a part-time Postgraduate Diploma in Library and Information Science course in 1982. [^30] By the time she retired in 1988, this course had produced 54 graduates from three batches. [^31]
+
+![](/images/Vol%2021%20Issue%202/Hedwig%20%20%20First%20Lady/hedwig2_salute.jpg)
+<div style="background-color:white;">Hedwig Anuar was given a “Books of Honour” salute by library staff at her retirement dinner, 1988. <i>Hedwig Anuar Collection, National Library Singapore.</i></div>
 
 While Anuar did try her best to establish a local library school, it did not happen till after her retirement. In 1991, Temasek Polytechnic and the National Book Development Council started a Certificate in Library and Information Studies course for para-professionals, which has since stopped. Two years later, Nanyang Technological University started a part-time Master of Science in Information Studies. [^32]
 
