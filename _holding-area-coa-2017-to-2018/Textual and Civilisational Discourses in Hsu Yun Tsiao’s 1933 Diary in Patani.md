@@ -1018,3 +1018,19 @@ anti-assimilationist stance in Nanyang studies is worth revisiting. Fledging
 and open to varied intellectual trends and genealogies, his interwar Nanyang
 studies imagined a different outcome, and it is important that we do not
 take its evanescence as a foregone conclusion.
+
+#### **Acknowledgments**
+*I thank Haun Saussy and my reviewer Seng Guo Quan for their comments on an earlier
+draft of the essay; Kenji Chanon Praepipatmongkol for his help with the Thai; Zhuang
+Wubin for inspiring conversations; Senior Librarian Seow Peck Ngiam and library staff
+for their assistance in accessing materials during my fellowship at NLB*.
+
+<div>
+<b>Nicholas Y. H. Wong</b> is a Ph.D. candidate in comparative literature at the University
+of Chicago. As a Lee Kong Chian Research Fellow, he conducted archival research into
+Hsu Yun-Tsiao’s five extant diaries (1930–38), whose contents he transcribed, translated
+and introduces in this essay. His biographical approach to Hsu’s work aims to rethink
+the discipline’s periodisation, historical method and melancholic narrative of Nanyang
+studies’ rise and decline (1940–81).
+</div>
+
