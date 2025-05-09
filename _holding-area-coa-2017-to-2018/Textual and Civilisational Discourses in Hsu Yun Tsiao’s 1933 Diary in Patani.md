@@ -536,8 +536,13 @@ on 3 January 1933, which ended in the inner Mongolian province Rehe’s
 annexation to Manchukuo two months later, echoes this sentiment:
 
    **January 5 (water) sunny, 85° in the afternoon**<br><br>
-A dispatch arrived: on New Year’s night, the Japanese military
-launched a fierce attack on the Shanhaiguan Pass, shocking North
-China, which was lost today. Some London newspaper criticised
-Zhang Xueliang’s policy of non-resistance and waiting for the
-League of Nations as wishful thinking and self-deception. (p. 11)
+   *A dispatch arrived: on New Year’s night, the Japanese military<br>
+   launched a fierce attack on the Shanhaiguan Pass, shocking North<br>
+   China, which was lost today. Some London newspaper criticised<br>
+   Zhang Xueliang’s policy of non-resistance and waiting for the<br>
+   League of Nations as wishful thinking and self-deception. (p. 11)*
+
+   **一月五日（水）晴，午85°**<br><br>
+   *电讯传来：日军于元旦夜猛攻山海关，华北震动，今且失守焉。伦敦某<br>
+   报批评张学良之不抵抗待国联之迷梦，将成画饼*。
+
