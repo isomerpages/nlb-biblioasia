@@ -25,7 +25,8 @@ than is generally known.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/jQQVNMr4GK0"></iframe>
 </div>
 <h4><strong>Listen to the Full Episode</strong></h4>
-<p>Available on: Spotify, Apple Podcasts, melisten.</p>
+<p>Available on: <a href="https://open.spotify.com/episode/27RONFxaqskrEZCypZj2oo" rel="noopener nofollow" target="_blank">Spotify</a>,
+<a href="https://podcasts.apple.com/us/podcast/badang-the-strongman-a-miracle-working-grave-a/id1688142751?i=1000706888764" rel="noopener nofollow" target="_blank">Apple Podcasts</a>, <a href="https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/Badang-the-Strongman--A-Miracle-working-Grave--A-Folk-Tale-and-a-Nation%E2%80%99s-Mythology-2949956" rel="noopener nofollow" target="_blank">melisten</a>.</p>
 <p>Subscribe to get notified when the next episode drops.</p>
 <p></p>
 <h4><strong>What William Talked About</strong></h4>
