@@ -54,7 +54,7 @@ Malayan Breweries, however, was not alone in eyeing the local beer-drinking mark
 <img src="/images/Online%20Only%20Articles/Beer/archipelago_breweries.png" style="width: 85%;">
 <div style="background-color: white;">Archipegalo Brewery Company (ABC) was built at Alexandra Road in 1933. It was later acquired by Malayan Breweries. <i>Source: Straits Times, 17 November 1962 © SPH Media Limited. Permission required for reproduction.</i></div>
 
-ABC became synonymous with its main brew, Anchor Beer, a light pilsener that used English hops and Australian malt.[^15] It also produced Diamond Pilsener, Goat’s Head Stout and ABC Stout. To promote Anchor, ABC partnered with the Phoenix Aerated Water Works to give the beeraway for free with each delivered order of Phoenix Aerated Water.[^16] ABC also worked with Phoenix Aerated Water Works for its retail distribution, which allowed Anchor to be delivered directly to customers at unchanged prices.[^17]
+ABC became synonymous with its main brew, Anchor Beer, a light pilsener that used English hops and Australian malt.[^15] It also produced Diamond Pilsener, Goat’s Head Stout and ABC Stout. To promote Anchor, ABC partnered with the Phoenix Aerated Water Works to give the beer away for free with each delivered order of Phoenix Aerated Water.[^16] ABC also worked with Phoenix Aerated Water Works for its retail distribution, which allowed Anchor to be delivered directly to customers at unchanged prices.[^17]
 
 <img src="/images/Online%20Only%20Articles/Beer/anchor_beer.png" style="width: 55%;">
 <div style="background-color: white;">Advertisement for Anchor Beer. <i>Image reproduced from "The Cure for Thirst," Straits Times, 30 July 1934, 15. (From NewspaperSG).</i></div><br>
