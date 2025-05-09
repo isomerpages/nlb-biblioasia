@@ -543,10 +543,10 @@ annexation to Manchukuo two months later, echoes this sentiment:
    League of Nations as wishful thinking and self-deception. (p. 11)*
 
    **一月五日（水）晴，午85°**<br><br>
-   *电讯传来：日军于元旦夜猛攻山海关，华北震动，今且失守焉。伦敦某<br>
-   报批评张学良之不抵抗待国联之迷梦，将成画饼*。
+   电讯传来：日军于元旦夜猛攻山海关，华北震动，今且失守焉。伦敦某<br>
+   报批评张学良之不抵抗待国联之迷梦，将成画饼。
 	 
-	 International opinion unexpectedly swung in China’s favour. Based on the
+International opinion unexpectedly swung in China’s favour. Based on the
 1932 Lytton Commission report that recommended “shared sovereignty over
 Manchuria”, China’s newly minted Minister to France, Wellington Koo,
 presented China’s case at Geneva and successfully argued that Manchukuo
@@ -678,4 +678,3 @@ trades for the Chinese community in literary matters (though he did not
 always think highly of his workmanship); the cost of clothes alteration at the
 southern tip of the Malay peninsula; as well as including, as usual, a snippet of
 news that showed the perils of strongman politics and brinkmanship:
-
