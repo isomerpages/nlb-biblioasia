@@ -151,7 +151,7 @@ For Tan, leaning into the function of the library as a social space may be a goo
 
 
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src="/images/Authors/DrJohnBray2g5er.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/HongXinyi.png">
 <b>Hong Xinyi</b> is a writer, editor, translator and producer. She is the author of <i>The Remaking of Singapore’s Public Libraries</i> (2019). She also runs <i>dear humans</i>, a newsletter, which features occasional dispatches on gender, technology and culture.</div>
 
 #### **Notes**
