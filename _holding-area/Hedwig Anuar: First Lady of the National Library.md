@@ -57,6 +57,9 @@ Goh Keng Swee, who had returned to London in 1954 to do his PhD, recruited Anuar
 
 Anuar became the secretary and set about editing _Suara Merdeka_. Noticeably, there was no disruption in publication and the February issue came out with news of the takeover. It also reprinted a satirical piece, “When Malaya Ruled Britain”, by S. Raja Ratnam (S. Rajaratnam; future Deputy Prime Minister of Singapore), which reversed the roles with Malaya as the colonial power over a colonised Britain. [^11] This was quite a change in content quality from the previous issue.
 
+![](/images/Vol%2021%20Issue%202/Hedwig%20%20%20First%20Lady/hedwig2_suara.jpg)
+<div style="background-color:white;">The February 1956 issue of&nbsp;<i>Suara Merdeka</i>&nbsp;was the first issue Hedwig Anuar edited after taking over from the John Eber faction. <i>Collection of the National Library Singapore (call no. RCLOS 320.9595 SM).</i></div>
+
 While in London, Anuar met law student Anuar Zainal Abidin and they got married in 1957, after which she took on her husband’s name. Upon attaining her library qualifications in the same year, she returned to Singapore to serve her bond with the University of Malaya and gave birth to her son Azmi.&nbsp;
 
 #### **Contributions to Reading, Libraries and Archives**
