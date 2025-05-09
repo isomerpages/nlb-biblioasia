@@ -7,7 +7,7 @@ description: ""
 #### **The Cheangs were once one of Singapore’s most illustrious Baba-Nonya families.**
 By Professor Walter Woon
 
-On Pasir Panjang Road stands one of the last grand houses that used to line the millionaires’ enclave where rich Baba families built their seaside mansions. Once named “Palm Beach”, the property is a reminder of the opulence that once characterised the prominent Baba-Nonya (or Peranakan) families of Singapore.[^1] The house was built by Cheang Jim Chuan, a scion of the prominent Cheang family in colonial Singapore. Cheang Jim Chuan’s father was the most famous of the Cheangs – Cheang Hong Lim, after whom Hong Lim Park is named. At one time a substantial part of Chinatown was owned by Cheang Hong Lim and his relatives.
+On Pasir Panjang Road stands one of the last grand houses that used to line the millionaires’ enclave where rich Baba families built their seaside mansions. Once named “Palm Beach”, the property is a reminder of the opulence that once characterised the prominent Baba-Nonya (or Peranakan) families of Singapore.[^1] The house was built by Cheang Jim Chuan, a scion of the prominent Cheang family in colonial Singapore. Cheang Jim Chuan’s father was the most famous of the Cheangs – Cheang Hong Lim, after whom Hong Lim Park is named. At one time, a substantial part of Chinatown was owned by Cheang Hong Lim and his relatives.
 
 <div style="background-color: white;">
 <br>
