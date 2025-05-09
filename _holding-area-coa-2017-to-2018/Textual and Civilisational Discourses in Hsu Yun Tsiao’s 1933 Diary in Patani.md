@@ -545,4 +545,72 @@ annexation to Manchukuo two months later, echoes this sentiment:
    **一月五日（水）晴，午85°**<br><br>
    *电讯传来：日军于元旦夜猛攻山海关，华北震动，今且失守焉。伦敦某<br>
    报批评张学良之不抵抗待国联之迷梦，将成画饼*。
+	 
+	 International opinion unexpectedly swung in China’s favour. Based on the
+1932 Lytton Commission report that recommended “shared sovereignty over
+Manchuria”, China’s newly minted Minister to France, Wellington Koo,
+presented China’s case at Geneva and successfully argued that Manchukuo
+was “an unequivocal violation of China’s national sovereignty”.66 As a result
+of Koo’s appeal to multilateral diplomacy and international law to resolve
+the crisis, the League of Nations, in a special assembly on 25 February 1933,
+voted nearly unanimously not to recognise Manchukuo, with only Siam
+abstaining. The Japanese delegation promptly withdrew from the League
+of Nations. China had successfully, though nominally, defended against
+Japanese aggression, but Hsu saw Siam’s “vote” and increasing collaboration
+with Japan as a worrying development for the “overseas Chinese” in Siam.
+
+Indeed, the League of Nations had a dismal record on the issue of minority
+rights: in 1928, it upheld “the principle of national sovereignty in response
+to petitions about racial discrimination”67; and in 1925, 1930 and 1932,
+it “rejected proposals to obligate all members to guarantee the rights of
+minorities”. Hsu further connected Geneva’s unsettling failure to resolve
+the Mukden Incident with the counter-revolutionary aftershocks of the 1932
+Siamese Revolution, which sought to consolidate Siam according to modern
+ethnic notions of the nation-state:
+
+   **February 27 (moon) 89° in the afternoon, 83° at night**<br> <br> 
+   *A newspaper report: The [Special Assembly of the] League of<br> 
+   Nations Report of 19-Nations was resolutely passed, yet Siam<br> 
+   abstained from voting, and as a result, the Japanese applauded and<br> 
+   rewarded them. In the afternoon, Nantong came to chat, and said<br> 
+   that the Siamese king has already retreated to Hua Hin, and the<br> 
+   North might be rebelling soon. At first I couldn’t believe it, but then<br> 
+   I saw that a Penang newspaper received such a telegram, though the<br> 
+   Siamese government denied this. On the one hand, Siam suppresses<br> 
+   the overseas Chinese, and on the other hand, ingratiates itself with<br> 
+   the Japanese, I really fear this will be my misfortune soon! Nantong<br> 
+   said: there are papers to sign in Thai when I get married. Hsu was<br> 
+   getting married to Jingmei, but because of the bombing of Suzhou,<br> 
+   they could not celebrate.68 (p. 66)*
+
+   **二月二十七日（月）午后89°夜83°**<br> <br> 
+   报载：国联十九国报告书__决通过，但暹代表不举手，后日人大加赞<br> 
+   赏。午后南通来谈，云暹王已避居华兴，北部或将叛乱。余初不信，<br> 
+   然见槟城报纸尔有是项电信，但暹政府否认耳。暹一方压迫华侨，一方<br> 
+   面取媚日人，诚恐将来为其本身之祸根耳！南通云：办姑娘事，暹文有<br> 
+   书云。
+
+An examination of Hsu’s diaries reveals that his interwar Nanyang
+studies can be understood as part of a transnational scholarly effort to comprehend the rapidly evolving global framework of human rights
+(especially minority rights of the “diasporic”), the implementation of
+constitutional law in Siam and China, and multilateral diplomacy’s
+guarantee of national sovereignty – emerging norms of law and custom
+that met with varying degrees of success during the rise of fascist
+militarism in the 1930s.
+
+In Hsu’s 27 February 1933 diary entry, the news of King Prajadhipok
+Rama VII’s retreat to Hua Hin and that “the North might be rebelling
+soon” were mediated via a telegram sent to a Penang newspaper in the
+Straits Settlements. The exceptional feature of Hsu’s 1933 diary – the
+longest of the five volumes at 400 pages, written in classical Chinese
+and sometimes illegible handwriting – is its vast expression of “lifewriting”
+by an aspiring historian who also wrote literature (e.g. classicalstyle
+poems), interpreted historical events through the lens of literary
+history, and pioneered the genre of Nanyang “anecdotal histories”
+(*shihua*), which he later popularised through brief radio lectures and
+extracurricular “textbooks” on Nanyang histories in postwar Singapore.69
+To overcome the belatedness or perceived deficiency of his “diasporic
+time”, Hsu mixes historical and anachronistic registers to make sense of
+his transient residence in Pattani in 1933, and in doing so, updates the
+Chinese tradition of diary keeping.70
 
