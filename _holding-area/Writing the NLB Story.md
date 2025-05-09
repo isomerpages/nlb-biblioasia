@@ -7,6 +7,8 @@ description: ""
 #### Established in 1995, the National Library Board was conceived as one of many levers to transform Singapore’s economy and culture.  
 By Hong Xinyi
 
+![](/images/Vol%2021%20Issue%202/Writing%20the%20NLB%20Story/writing_main.jpg)
+<div style="background-color:white;">Minister for Information and the Arts and Minister for Health George Yeo (third from left) touring the exhibition of antique books and other items at the InterContinental Hotel for the launch of the National Library Board’s logo and new strategic directions, 1996. With him are Chairman of the National Library Board Dr Tan Chin Nam, Director R. Ramachandran and Assistant Director Lim Kek Hwa. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 While the National Library Board was established in 1995, the motivation behind its launch goes back at least to the early 1990s and perhaps even earlier.&nbsp;
 
