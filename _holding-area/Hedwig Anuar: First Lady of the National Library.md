@@ -16,6 +16,11 @@ Some two decades later, that student, now Hedwig Anuar, was in the position to d
 
 In that time, Anuar, the first Malayan to head the library, oversaw an expansion of the library, first with part-time libraries and later fulltime branch libraries located in housing estates around Singapore. No meek civil servant, Anuar was an activist and a strong advocate for women’s rights, and also one of the founders of the women’s rights group AWARE, the Association of Women for Action and Research.&nbsp;
 
+
+![](/images/Vol%2021%20Issue%202/Hedwig%20%20%20First%20Lady/hedwig2_hedwig.jpg)
+<div style="background-color:white;">  Hedwig Anuar, 2014. <i>Courtesy of Shirin Aroozoo.</i></div>
+
+
 #### **Love for the Written Word**
 
 Hedwig Elizabeth Aroozoo was born 19 November 1928 in Johor Bahru to a Eurasian Catholic family, the second daughter of Percival Frank Aroozoo and Agnes Danker. Her father was a teacher at Outram School (1918–38) and then headmaster of Gan Eng Seng School (1938–55).&nbsp;
@@ -128,9 +133,6 @@ One of the library heads who served under her, Wong Heng, credited her with obta
 While Anuar did try her best to establish a local library school, it did not happen till after her retirement. In 1991, Temasek Polytechnic and the National Book Development Council started a Certificate in Library and Information Studies course for para-professionals, which has since stopped. Two years later, Nanyang Technological University started a part-time Master of Science in Information Studies. [^32]
 
 The life of Hedwig Anuar is closely intertwined with the postcolonial development of Singapore’s libraries and literacy. She was recruited to head the development of library services at a time when Singapore was starting on its journey towards independence. But she never restricted herself to being a bureaucrat; instead, she established relationships and built networks with various people and organisations to promote reading, writing, publishing and even women’s awareness in Singapore. The world-class library system in Singapore today is thanks to the strong foundation laid by Anuar during her time as the director of the National Library.
-
-![](/images/Vol%2021%20Issue%202/Hedwig%20%20%20First%20Lady/hedwig2_hedwig.jpg)
-<div style="background-color:white;">  Hedwig Anuar, 2014. <i>Courtesy of Shirin Aroozoo.</i></div>
 
 
 
