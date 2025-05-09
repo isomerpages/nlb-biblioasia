@@ -38,6 +38,9 @@ By then, change was on the way. In 1990, some divisions within the Ministry of C
 
 In 1992, Yeo decided to ask Tan, then the chairman of NCB and managing director of EDB, to head a committee that would examine how to reinvent the library.[^9] Tan’s familiarity with technology was an obvious strength for reshaping a library system for the internet era. Equally important was the fact that “Chin Nam is good with people”, Yeo explained. Changing the library would mean changing its culture, and that would require strong people skills.
 
+![](/images/Vol%2021%20Issue%202/Writing%20the%20NLB%20Story/writing_tour.jpg)
+<div style="background-color:white;">Director of the National Library Mrs Yoke-Lan Wicks giving Acting Minister for Information and the Arts and Senior Minister of State for Foreign Affairs George Yeo (right) and Permanent Secretary for Information and the Arts Goh Kim Leong (left) a tour of the National Library on Stamford Road, 1990.  <i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore. </i></div>
+
 Of that first conversation about the library, Tan said of Yeo: “He wanted to challenge conventional wisdom. For instance, he asked: ‘Why shouldn’t a library be located in a shopping mall?’ That question gave me a sense of the mandate – for this reinvention, we could dream of anything, in order to make sure that the library would be able to service its users.”
 
 So Tan got to work. Twenty representatives from the public, academic and private sectors were appointed to the Library 2000 Review Committee. Visits to libraries in San Francisco, New York, London, Paris and Shanghai were organised to gather ideas. “Because you must be humble, you have to learn from others,” Yeo explained.&nbsp;
