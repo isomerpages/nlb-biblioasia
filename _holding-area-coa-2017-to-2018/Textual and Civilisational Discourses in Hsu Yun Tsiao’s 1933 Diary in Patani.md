@@ -717,3 +717,21 @@ news that showed the perils of strongman politics and brinkmanship:
    trade. I heard that Zhua Changnian [Tang Shaoyi’s son-in-law]<br>
    protested against the intimidation of Chinese sojourners and the<br>
    deportation of three Chinese. (pp. 205–206)*
+	 
+   **八月五日（土）炙热夜86°**<br><br>
+
+报载暹米近得加拿大农业展览竞赛会，米谷奖只二十件中之十一件，且<br>
+头二三均为所得，闻头奖为曼谷附近政府试验场所产云。又暹罗已正式<br>
+公布，取消禁止华校用三民教科书，惟华文时间已限止，孙行者总跳不<br>
+出如来掌心耳！
+
+   **八月六日（日）午热89°突然狂风雨86°下午晴**<br><br>
+<br>晨作么出一通，为校中租电影，拟放映筹欵以充游艺会经济。继为学廉<br>
+   茅三子取名［徽云］蓋文选王俭褚渊碑文有句云：［风仪与秋月齐明，<br>
+   音徽与春云等润］。所__者赛秋赛月均(?)其妹名，徽音则其长之名也。<br>
+   衬衫均敞，讬凯元往成衣店制之。衫每件一铢十五丁，短裤每件五十五<br>
+   丁，长裤较柔佛贵半值，余均廉。报载：日对九小岛产业保留军事动<br>
+   作权，俄报则谓係美居宽纵所致，法公使韦礼德在京__外次余谟谈中越<br>
+   条约，谓法之佔九小岛，线为航业便利而已云云。又那威华侨仅六人，<br>
+乃忽被驱逐三人，闻已令公使诸昌年抗议云。
+
