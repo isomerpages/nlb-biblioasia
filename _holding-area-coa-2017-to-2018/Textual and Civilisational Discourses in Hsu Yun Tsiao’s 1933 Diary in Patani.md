@@ -871,4 +871,63 @@ Zheng He’s expeditions, Hsu’s biographies of swashbuckling seafarers recall
 Liang Qichao’s eight settler colonialists, but also pioneered the local history
 of Chinese in Patani.
 
+#### **Hsu’s Account of the Bowaradej (Royalist) Rebellion in October 1933**
+It seems perplexing that Hsu draws on textual histories and world reports
+on Jewish diaspora, rather than materials relating to the Patani Malay-
+Muslims in front of him, to establish his diasporic subjectivity and response
+to the erosion of Chinese rights in Siam. From his diaries, it seems that
+international news stimulated his reflections on Nanyang affairs. A history
+that is merely local does not have consequences; a history that resembles
+other histories gains importance. Hsu’s elision of Patani’s modern populace
+indicates that he was mainly concerned with Chinese minority populations,
+and not with minority populations as such. As Sharon Carstens notes, Hsu’s
+foreword to the first issue of *Journal of the South Seas* (1940) “laid out the
+goals of the publication, chief among which was a desire to utilise Chinese
+culture and scholarship to increase respect for the overseas Chinese, who
+were too often characterised as the ‘Jews of the Orient’”.94 Hsu’s minorpeninsular
+Patani emerges most vividly in his detailed accounts of the
+Bowaradej (royalist) rebellion of October 1933. After the unsuccessful coup
+d’état of 20 June 1933, Prince Bowaradej (1877–1947), financed by King Prajadhipok, who had retreated to Hua Hin and later Songkhla [v. 2: 66,
+268, 277], led a revolt against Khana Ratsadon’s constitutional regime,
+following the Siamese Revolution of 1932. Hsu records with alarm that
+“rebels” had occupied the Don Muang airport on 12 October, and the
+transport lines that were cut by the resulting chaos: 
+
+   **October 18 (water) sunny and hot, 83° at night**<br><br>
+   *The chaos in Siam affected traffic. The mail coach from the Malay<br>
+   Federation can only reach Prachin Buri province, which should<br>
+   now be under occupation by the rebel troops. Apparently, the troops<br>
+   at the Don Muang rebel base number 5,000 to 10,000, and are<br>
+   engaged in extremely violent battle with the capital. The telegram<br>
+   lines have been cut, the situation is serious, the government’s<br>
+   declaration to subdue the rebel groups within two days is not<br>
+   tenable. Today I translated The History of Pattani Province, and<br>
+omitted half of it*. [p. 269]
+
+   **十月十八日（水）晴热夜83°**<br><br>
+   暹罗变乱，影响交通，马来联邦邮车祗能通至巴真武里，应该处已为叛<br>
+   军所占据。据云叛军根据地在Don Muang 为数自五千至一万，其在京畿<br>
+   开火者，颇为猛烈云。电线均已隔断，形势严重，政府之宣言能克服之<br>
+于二日内者，不可持矣。今日译大泥府志，去其半矣。
+
+Observing the chaos from afar, Hsu engaged in his translation of Pattani
+and Songkhla histories; completed his essay on Lin Daoqian; wrote about a
+power struggle in the principal ranks of a newly formed Bangkok Chinese
+high school; and gave an anecdotal history of the origins of Deepavali (the
+Hindu festival of lights). In this heady mix of contexts, Hsu’s sympathy for
+Patani sovereignty appears for the first time; the Bowaradej revolt, for Hsu,
+also led to the consolidation of southern Thailand under Siamese rule:
+
+   *Other parts of Thailand were mostly conservative, should the<br>
+   rebel army reach them, they will not be independent (from the<br>
+   monarchy). In Patani, which is in the South, there are Siamese<br>
+   who became officials to consolidate the mostly Malay region under<br>
+   the new regime. In Songkhla, … the Siamese army stationed and<br>
+   set up camp at the English- and European-owned mines. Also, Sing<br>
+   Sian (newspaper?) jointly pronounced that the rebel army has been<br>
+vanquished, and King Rama VI fled by plane. Who to believe?*<br><br>
+   其他各地大多保守觉，一旦被叛军勾通，不难独立也。至南方大年则<br>
+   有暹罗人为长官，统揽政权，惟人口多巫族。宋卡，布吉，多邪 (?) 等<br>
+   地，暹军驻扎处，均英澳人投资矿产所也。又据星暹统称，叛军已溃<br>，
+   亲王乘机出奔。不知信否。
 
