@@ -79,6 +79,9 @@ The importance of technology was perhaps more self-evident – by then, internet
 
 About six months after Yeo’s speech, the National Library Board (NLB) was formed as a statutory board on 1 September 1995. This structure meant that it had more discretion in financial and human resource matters, such as market-based salaries.[^12]
 
+![](/images/Vol%2021%20Issue%202/Writing%20the%20NLB%20Story/writing_chris.jpg)
+<div style="background-color:white;">Dr Christopher Chia, first chief executive of the National Library Board, 2025.  <i> Photo by Jimmy Yap. </i></div>
+
 Tan was appointed its chairman, and he recruited Dr Christopher Chia, a colleague from his NCB days, as its chief executive. Chia used to head the NCB’s R&amp;D arm. “So I got him involved with the expectation that we would be able to inject a lot of IT expertise into the transformation of the library,” said Tan.&nbsp;
 
 At that point, Chia was in the private sector and had spent just 10 months in his new job.[^13] He decided to return to the public sector for two reasons. First, he was very fond of the library. “I must have gone through the entire collection of the national library’s fairy tales, mysteries and fantasies when I was a child,” he told _BiblioAsia_ in January 2025.[^14] It also felt like an opportunity to continue his previous work in promoting the wider adoption of technology, now in another way through the library.&nbsp;
