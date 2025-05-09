@@ -15,9 +15,9 @@ While both Northern and Southern lion dances are rooted in martial arts, they ar
 
 The first pair of northern lions brought to Singapore were unfortunately destroyed during the Second World War.[^4] Their heads were made of mud and sand, making them heavy and uncomfortable. Each lion weighed around 10 kg and their heft meant that dancers could only manage limited – and therefore clumsy – moves.[^5]
 
-In 1945, Wei ordered another pair of lions from the Shanghai Chin Woo Association, but they only arrived in 1953. However, they were still extremely heavy and difficult to move, let alone dance in. The pair of lions were eventually donated to Nanyang University in Singapore (today’s Nanyang Technological University of Singapore).[^6]
+In 1945, Wei ordered another pair of lions from the Shanghai Chin Woo Association, but they only arrived in 1953. However, they were still extremely heavy and difficult to move, let alone to dance in. The pair of lions were eventually donated to Nanyang University in Singapore (today’s Nanyang Technological University).[^6]
 
-Together with fellow martial arts instructor, Fang You Chang, Wei decided to make the lion’s head out of bamboo, golden paper and golden wool. Golden yellow hemp from the Philippines was then used for the cape of the lion’s body. This resulted in a lion that was about half the weight of the original lions – and, more importantly, one that was easier to manoeuvre.[^7]
+Together with fellow martial arts instructor, Fang You Chang, Wei decided to make the lion’s head out of bamboo, golden paper and golden wool. Golden yellow hemp from the Philippines was used for the cape of the lion’s body. This resulted in a lion that was about half the weight of the original lions – and, more importantly, one that was easier to manoeuvre.[^7]
 
 Hailing from the Chin Woo Athletic Association, the lion dancers were athletic and agile, often performing thrilling stunts such as jumping from heights. They had to realistically express the movements and expressions of the lions, such as yawning, stretching, fighting and sitting.[^8] Each performance was accompanied by drums, gongs and the suona (a traditional double-reeded Chinese musical instrument).[^9]
 
