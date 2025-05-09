@@ -20,6 +20,10 @@ In Singapore, this work of constant adaptation had in fact started in the 1980s,
 
 “Why were we doing all this? It was all about reinvention, about making Singapore competitive,” said Dr Tan Chin Nam, the first chairman of the National Library Board (1995–2002). “We had to find new ways of making a living, of staying relevant,” he told _BiblioAsia_ in an interview in February 2025.[^2] During those years, he was on the frontlines of this transformation through his leadership roles at not just the NLB, but also the NCB, Economic Development Board (EDB), Ministry of Manpower, Ministry of Information, Communications and the Arts (MITA), and several other agencies and statutory boards. It was a time when many levers in the public sector were created and refined to help engender Singapore’s reinvention.
 
+![](/images/Vol%2021%20Issue%202/Writing%20the%20NLB%20Story/writing_tan.jpg)
+<div style="background-color:white;">Dr Tan Chin Nam, first chairman of the National Library Board, 2025.  <i> Photo by Jimmy Yap.</i></div>
+
+
 The national library system was one of these levers. After all, the jobs in a knowledge-based economy could only be filled by people who were up to speed with the world’s innovations and ready to adapt to and lead change. And the library was all about helping people learn. There was just one problem: this system was not in very good shape.&nbsp;
 
 #### **Sparks of Inspiration**
