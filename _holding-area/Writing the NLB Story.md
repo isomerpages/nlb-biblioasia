@@ -86,10 +86,10 @@ The importance of technology was perhaps more self-evident – by then, internet
 
 About six months after Yeo’s speech, the National Library Board (NLB) was formed as a statutory board on 1 September 1995. This structure meant that it had more discretion in financial and human resource matters, such as market-based salaries.[^12]
 
+Tan was appointed its chairman, and he recruited Dr Christopher Chia, a colleague from his NCB days, as its chief executive. Chia used to head the NCB’s R&amp;D arm. “So I got him involved with the expectation that we would be able to inject a lot of IT expertise into the transformation of the library,” said Tan.&nbsp;
+
 ![](/images/Vol%2021%20Issue%202/Writing%20the%20NLB%20Story/writing_chris.jpg)
 <div style="background-color:white;">Dr Christopher Chia, first chief executive of the National Library Board, 2025.  <i> Photo by Jimmy Yap. </i></div>
-
-Tan was appointed its chairman, and he recruited Dr Christopher Chia, a colleague from his NCB days, as its chief executive. Chia used to head the NCB’s R&amp;D arm. “So I got him involved with the expectation that we would be able to inject a lot of IT expertise into the transformation of the library,” said Tan.&nbsp;
 
 At that point, Chia was in the private sector and had spent just 10 months in his new job.[^13] He decided to return to the public sector for two reasons. First, he was very fond of the library. “I must have gone through the entire collection of the national library’s fairy tales, mysteries and fantasies when I was a child,” he told _BiblioAsia_ in January 2025.[^14] It also felt like an opportunity to continue his previous work in promoting the wider adoption of technology, now in another way through the library.&nbsp;
 
@@ -133,6 +133,13 @@ Today, the effects of the Library 2000 recommendations can clearly be seen as ma
 
 The NLB has constantly sought to reinvent itself with more strategic plans. In 2005, there was the _Library 2010: Libraries for Life, Knowledge for Success_ report. This was followed by “Libraries for Life” in 2011 and the latest, LAB25 (“Libraries and Archives Blueprint 2025”), in 2021.
 
+And that journey of change and transformation, for both the library and Singapore, is far from over. Singaporeans are still buffeted by great changes – new technologies such as artificial intelligence are reshaping the world, and information has long been at everyone’s fingertips, thanks to ubiquitous digital devices. How should the library approach its mission of helping people learn today?&nbsp;
+
+“I was in Huawei’s Dongguan campus recently, where they have a magnificent European-style library,” Yeo replied when asked this question. “The idea behind it is to inspire Huawei’s staff. Bookshops are governed by the bottom line. But a public library can go beyond that.” A technology-saturated, hyperconnected world is frenetic; the library can be a space for calm and reflection, he believed. “It can be a place where people can take a step back and see things against the sweep of history and geography. And once you realise how little you know, you become more humble, and less quick to judge and criticise.”
+
+For Tan, leaning into the function of the library as a social space may be a good path forward. “Human beings are social animals, right? We are very fortunate because the library is very much part of our social fabric, and I think as NLB continues to innovate, it will continue to perform a very important role in continuous learning.”
+
+
 ![](/images/Vol%2021%20Issue%202/Writing%20the%20NLB%20Story/writing_courtyard.jpg)
 <div style="background-color:white;">The courtyard at the former National Library on Stamford Road, 2004. Music performances, wellness talks and other cultural events were held there. <i> Collection of the National Library Singapore.</i></div>
 
@@ -141,13 +148,6 @@ The NLB has constantly sought to reinvent itself with more strategic plans. In 2
 <div style="background-color:white;">The Courtyard at Level 5 of the National Library Building is opened to the public. It can be booked for special events such as book launches, wedding solemnisations and birthday celebrations. <i> Collection of the National Library Board.</i></div>
 
 
-And that journey of change and transformation, for both the library and Singapore, is far from over. Singaporeans are still buffeted by great changes – new technologies such as artificial intelligence are reshaping the world, and information has long been at everyone’s fingertips, thanks to ubiquitous digital devices. How should the library approach its mission of helping people learn today?&nbsp;
-
-“I was in Huawei’s Dongguan campus recently, where they have a magnificent European-style library,” Yeo replied when asked this question. “The idea behind it is to inspire Huawei’s staff. Bookshops are governed by the bottom line. But a public library can go beyond that.” A technology-saturated, hyperconnected world is frenetic; the library can be a space for calm and reflection, he believed. “It can be a place where people can take a step back and see things against the sweep of history and geography. And once you realise how little you know, you become more humble, and less quick to judge and criticise.”
-
-For Tan, leaning into the function of the library as a social space may be a good path forward. “Human beings are social animals, right? We are very fortunate because the library is very much part of our social fabric, and I think as NLB continues to innovate, it will continue to perform a very important role in continuous learning.”
-
-	
 
 
 <div style="background-color: white;">
