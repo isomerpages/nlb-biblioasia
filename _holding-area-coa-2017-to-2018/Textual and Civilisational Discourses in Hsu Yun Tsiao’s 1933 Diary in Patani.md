@@ -614,3 +614,4 @@ time”, Hsu mixes historical and anachronistic registers to make sense of
 his transient residence in Pattani in 1933, and in doing so, updates the
 Chinese tradition of diary keeping.70
 
+#### **Acknowledgments**
