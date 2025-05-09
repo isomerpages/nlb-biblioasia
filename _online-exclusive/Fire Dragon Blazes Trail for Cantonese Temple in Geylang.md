@@ -11,7 +11,7 @@ By Angela Sim
 
 Dragons are known to breathe fire but one particular dragon, seen every three years in Singapore, does something even more dramatic – it eventually becomes engulfed in flames.
 
-The Straw Fire Dragon (稻草香火龍) has a body that is made from straw wrapped around a rattan frame. The head and body of the dragon bristles with lit joss sticks that eventually sets the entire dragon on fire, ending the performance.
+The Straw Fire Dragon (稻草香火龍) has a body that is made from straw wrapped around a rattan frame. The head and body of the dragon bristle with lit joss sticks that eventually set the entire dragon on fire, ending the performance.
 
 This particular dragon dance is only performed once every three years, on the second day of the second lunar month to celebrate the birthday of the Earth Deity or Tu Di Ye Ye (土地爷爷). It is organised by the Sar Kong Mun San Fook Tuck Chee Temple (沙岡萬山福德祠) in Sims Drive in Geylang. The Fire Dragon dance originated in Guangdong province in China and the temple decided to perform this dance in the late 1980s.[^1]
 
@@ -104,12 +104,12 @@ Joss sticks adorning the pearl of wisdom, 2023.  <i>Courtesy of Yeo GT.</i></div
 
 The Fire Dragon, at more than 60 m long and festooned with thousands of burning joss sticks, is a striking sight as it manoeuvres through the smoke. The parade of the dragon begins in the temple before going through the nearby streets. The procession is believed to help dissipate anger caused by the disturbance of the land around the temple felt by the temple’s deities.
 
-The dragon is brought to life by about 80 to 100 dancers (including fire throwers) from the temple’s lion dance troupe which was established in 1983. Weighing in at a total of 65 kg, performing with the dragon is exhausting work – just the head alone requires three dancers who take turns to it hold up.
+The dragon is brought to life by about 80 to 100 dancers (including fire throwers) from the temple’s lion dance troupe which was established in 1983. Weighing in at a total of 65 kg, performing with the dragon is exhausting work – just the head alone requires three dancers who take turns to hold it up.
 
 <style>.embed-container {position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class="embed-container"><iframe src="https://www.youtube.com/embed/-mr5YlqKFBs?feature=share" frameborder="0" allowfullscreen=""></iframe></div>
 <div style="background-color: white;">The Fire Dragon in 2024. <i>Video courtesy of Angela Sim.</i></div>
 
-The joss sticks take between three and four hours to burn through which means the performance will need to be concluded by that time. Eventually, the lit joss sticks burn to the point where they are buried into the straw and the straw catches fire. At that point, the dragon is left to rest on the ground to be devoured by the flames. The Fire Dragon ends its sojourn in this world surrounded by smoke and fire, ascending to the heavens bearing the wishes and prayers of its devotees.&nbsp;When the time comes for the next performance, an invitation ritual must be held to invite the dragon to descend from the heavens once again.
+The joss sticks take between three and four hours to burn through, which means the performance will need to be concluded by that time. Eventually, the lit joss sticks burn to the point where they are buried into the straw and the straw catches fire. At that point, the dragon is left to rest on the ground to be devoured by the flames. The Fire Dragon ends its sojourn in this world surrounded by smoke and fire, ascending to the heavens bearing the wishes and prayers of its devotees.&nbsp;When the time comes for the next performance, an invitation ritual must be held to invite the dragon to descend from the heavens once again.
 
 <div style="background-color: white;">
 <br>
@@ -126,7 +126,7 @@ The Fire Dragon in flames, c.1990s. <i>Courtesy of Mun San Fook Tuck Chee.</i></
 
 Although the Fire Dragon dance was first performed in the temple in 1989, it was performed irregularly until 2015 when the temple celebrated its 150th anniversary. Since then, the temple has put up the performance in the neighbourhood every three years. However, outside that schedule, they have also performed during the Chingay parade, most recently in 2024.
 
-The Sar Kong Mun San Fook Tuck Chee Temple was established during the early 1860s according to an inscription on a stele that is dated to 1901. The temple was originally located in the Kallang Basin and its name, Sar Kong, meaning “sand dune”, was the name of a village there. The village got its name from sandy deposits in the area that attracted the earliest brick kiln operators to set up their kilns in the vicinity.[^2]&nbsp;The temple moved to its present site at Sims Drive in 1901.[^3]&nbsp;
+The Sar Kong Mun San Fook Tuck Chee Temple was established during the early 1860s according to an inscription on a stele that dates back to 1901. The temple was originally located in the Kallang Basin and its name, Sar Kong, meaning “sand dune”, was the name of a village there. The village got its name from sandy deposits in the area that attracted the earliest brick kiln operators to set up their kilns in the vicinity.[^2]&nbsp;The temple moved to its present site at Sims Drive in 1901.[^3]&nbsp;
 
 <div style="background-color: white;">
 <br>
@@ -137,7 +137,7 @@ The Sar Kong Mun Fook Tuck Chee Temple at Sims Drive, 2007. <i>Courtesy of Ang Y
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/T1_005.jpg" style="width: 80%;">
 The temple was originally located in the Kallang Basin, 2007. <i>Courtesy of Ang Yik Han.</i></div>
 
-The main deity worshipped at the temple is Tu Di Gong (also known as the Earth Deity, Tu Di Ye Ye, Toh Teh Ye Ye or Bo Gong), likely due to the numerous brick kilns in the area. The workers of these kilns were either Cantonese or Hakka and they brought their custom of worshiping Tu Di Gong along with them.[^4] As a mark of respect to Tu Di Gong, prayers were routinely offered prior to the firing of the kilns. The birthday celebrations of this deity, which falls on the second day of the second lunar month, is the most important occasion in the calendar of events for the temple.
+The main deity worshipped at the temple is Tu Di Gong (also known as the Earth Deity, Tu Di Ye Ye, Toh Teh Ye Ye or Bo Gong), likely due to the numerous brick kilns in the area. The workers of these kilns were either Cantonese or Hakka and they brought their custom of worshiping Tu Di Gong along with them.[^4] As a mark of respect to Tu Di Gong, prayers were routinely offered prior to the firing of the kilns. The birthday celebration of this deity, which falls on the second day of the second lunar month, is the most important occasion in the temple's calendar of events.
 
 A few lesser-known deities are also worshipped at the temple, which is known as a Cantonese temple. One such deity is Jin Hua Fu Ren (金花夫人 or Kam Fa Leung Leung), a female deity unique to the Cantonese. She is a protector of women and a goddess of fertility and childbirth. The deities Hua Gong Hua Po (花公花婆 or Fa Kung Fa Po) are Jin Hua Fu Ren’s subordinates who are in charge of matrimony and childbirth.&nbsp;
 
@@ -160,7 +160,7 @@ One of Jin Hua Fu Ren’s Shi Er Nai Niang, 2008. <i>Courtesy of Ang Yik Han.</i
 <img src="/images/Online%20Only%20Articles/Cantonese%20Fire%20Dragon/Hua_Tuo_Xian_Shi.jpg" style="width: 60%;">
 Hua Tuo Xian Shi, 2008. <i>Courtesy of Ang Yik Han.</i></div>
 
-The temple is also home to Hua Tuo Xian Shi (华陀先师 or Wah To), who was a legendary physician in the _Annals of the Three Kingdoms_. He is the patron deity of physicians and many immigrants prayed to him to resolve medical issues in the absence of access to healthcare.
+The temple is also home to Hua Tuo Xian Shi (华陀先师 or Wah To), a legendary physician in the _Annals of the Three Kingdoms_. He is the patron deity of physicians and many immigrants prayed to him to resolve medical issues in the absence of access to healthcare.
 
 The temple used to be the centre of _kampung_ life.&nbsp;Chin, who is also the Vice-Chairman of the Taoist Federation Singapore, has lived most of his life near the temple. The temple owned much of the land surrounding it, which it rented out.&nbsp;
 
