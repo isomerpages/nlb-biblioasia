@@ -678,3 +678,42 @@ trades for the Chinese community in literary matters (though he did not
 always think highly of his workmanship); the cost of clothes alteration at the
 southern tip of the Malay peninsula; as well as including, as usual, a snippet of
 news that showed the perils of strongman politics and brinkmanship:
+
+   **August 5 (earth) scorching hot, 86° at night**<br><br>
+   *A newspaper report: Siam recently participated in Canada’s<br>
+   Agricultural Exhibition and Competition and won 11 out of the<br>
+   20 prizes, as well as the the top two or three prizes for its rice.<br>
+   I heard that the top prize was won by the display by Bangkok’s<br>
+   nearby government experimental factory. Siam already formally<br>
+   announced that it would cancel its ban on Chinese schools using<br>
+   the textbooks based on the Three People’s Principles (sanmin).76<br>
+   Only Chinese language hours will be limited. It’s like the Monkey<br>
+   King unable to escape Buddha’s palm!*
+
+   **August 6 (sun) 89° in the afternoon, hot, suddenly a typhoon,<br>
+   86° in the afternoon, sunny**
+
+   *In the morning I wrote a formal document requesting to rent<br>
+   film equipment for our school. We plan to screen a movie to raise<br>
+   funds to benefit the traveling artist troupe. Next, I came up with a<br>
+   name for Xuelian’s third son: Hui Yun. It comes from Wang Jian’s<br>
+   “Memorial Inscription for Chu Yuan” in Selections of Refined<br>
+   Literature (Wen Xuan). “One’s style and demeanor as bright as<br>
+   the autumn moon, one’s sentiments and morality as full-bodied<br>
+   as a spring cloud”. Sai Qiu and Sai Yue are the younger sisters’<br>
+   names, and Hui Yin is the name of the eldest son [so Hui Yun is<br>
+   an appropriate extension of the pattern, through the allusion to<br>
+   “autumn” (qiu) and “moon” (yue)]. My shirt is too big, so I asked<br>
+   Kai Yuan to have it altered at the tailor’s. Each shirt costs one<br>
+   baht and 15 satang, and each pair of shorts costs 55 satang, long<br>
+   pants are more expensive by half compared to Johor prices, the rest<br>
+   are cheaper. A newspaper report: Japan maintained its claim of<br>
+   military right over the nine islands where it has industries, a Soviet<br>
+   newspaper claims that its presence there is caused by appeasement.<br>
+   The French Legation officer in Beijing, [Henry August] Wilden,<br>
+   _times schemed and talked about the China-Vietnam treaty, and<br>
+   said that the French occupied the nine small islands, and that<br>
+   boundaries should be drawn to suit the convenience of shipping<br>
+   trade. I heard that Zhua Changnian [Tang Shaoyi’s son-in-law]<br>
+   protested against the intimidation of Chinese sojourners and the<br>
+   deportation of three Chinese. (pp. 205–206)*
