@@ -472,5 +472,77 @@ Chinese comparison:
    得过二十八小时四十分，外国文，一年至三年至多七小时十五分，四五<br>
    年至多十二小时十五分，余均暹文课程。姑录之，待公文来后再作计<br>
    谋。华侨与犹太可以弟兄矣，暹王拉玛六世之东方犹太一书，立论虽<br>
-   谬，情形近似。昔张之洞警康梁曰：［嗟尔康梁，慎毋犹太我中国］。<br>言是而路不衬也*。
+   谬，情形近似。昔张之洞警康梁曰：［嗟尔康梁，慎毋犹太我中国］。<br>   言是而路不衬也*。
+	 
+Hsu compares older and newer (*dixiong*) cases of the predicament of
+an economically dominant minority with no state to back them up
+in the context of late-Qing governance. In 1900, Zhang Zhidong, the governor-general of Hunan and Hubei provinces, with the backing of
+the Emperor Dowager Cixi, crushed the Hunanese revolt led by Tang
+Caichang’s Independence Army (*zili jun*).56 Incidentally, the Independence
+Army Uprising received the financial support of the *baohuang hui*
+(Restoration Party), founded by Kang Youwei and his reform-minded
+students such as Liang Qichao after their escape to Tokyo following the
+failed Hundred Days’ Reform (*wuxu bianfa*) of 1898.57 In his 23 April 1933
+diary entry, Hsu cites the end of Zhang Zhidong’s written proclamation,
+“Exhorting the Shanghai Congress and Students Abroad” (*quanjie Shanghai
+guohui ji chuyang xuesheng wen*), which blamed the uprising on the Kang
+clique and asserted the Qing’s support for overseas Chinese students in
+Japan and elsewhere like Southeast Asia.58 It is worth mentioning that only
+recently had “huaqiao” become a prestigious group relied upon for domestic
+political and financial needs after its denigration during China’s long history
+of banning outward migration and private maritime trade.59 When Zhang
+admonishes, “Ah, Kang and Liang, be careful not to make China Jewish”,
+it is unclear if he was cautioning against making the diaspora dominant
+in Chinese affairs, or identifying the Chinese with their diaspora, or even
+emptying out China through outward migration. Either way, he suggests
+that the Qing was capable of governing an actual nation-state, which the
+Jews lacked, and should not suffer the reformists’ campaign as far as Canada,
+Hawaii, Japan and the U.S. to portray “China’s plight as a nation too weak
+and backward to protect its emigrants from discrimination abroad”.60
+
+Arguing that Kang Youwei’s reformist reading of the *Gongyang
+Commentary on the Spring and Autumn Annals* (*Chunqiu*) to address the
+Qing political crises was wrong, Zhang Zhidong seems to claim that the present order under the Qing was the only possible one if China was to
+avoid breaking up and colonisation.61 Of course, there is some irony in
+the fact that an ethnic minority was ruling China at the time and that
+much of the resentment against Qing rule was cast as a quasi-democratic
+revolt of the Han majority.62 This majority/minority dynamic certainly
+complicates the use of the label “Jew”. Zhang’s speech was part of his
+harried attempt to re-establish diplomatic relations, via Chinese embassies
+in Britain and Japan, with foreign nations of the Eight Nation Alliance,
+in the wake of the Qing’s ill-fated support of the anti-foreign, anti-colonial
+Boxer Rebellion (1899–1901).63 Thirty years later, for Hsu to frame
+the perils of Chinese diaspora in terms of China’s eroded international
+standing due to domestic revolts against the Qing and imperial nations,
+and specifically, via pro-and anti-Empress Dowager factions in the history
+of Chinese political reform, suggests Hsu’s desire for a leadership that still
+extended its care for *huaqiao* despite domestic unrest. Hsu lamented the
+absence of such leadership during the “Nanjing decade” of Kuomintang
+rule (1928–37), when the government was severely weakened by invading
+Japanese armies, which bombed his hometown Suzhou during the 1932
+Shanghai incident.
+
+#### **The League of Nations and the Mukden Incident**
+During China’s War of Resistance against Japan (*Zhongguo kang Ri
+zhanzheng*, 1931–45), Hsu was right to be less than optimistic about
+the League of Nations’s due process in guaranteeing Chinese national
+sovereignty at Geneva. The Japanese seizure of Manchuria (1931–32), or
+the Mukden Incident, followed by the invasion of Shanghai (1932) and the
+Treaty of Tanggu (1933), where “Chiang was forced to abandon any armed
+resistance against the establishment of Japanese-controlled Manchukuo to the north”, were presented by Japanese imperial propaganda as necessary measures to liberate the Manchurians from the oppressive Chinese warlord regimes of Zhang Zuolin (1916–28) and his son Zhang Xueliang (1928–31).64 “Even foreign observers in China mockingly commented on
+China’s attempts to appeal to Geneva for help”.65 Hsu’s diary entry on
+the Kwantung Army’s capture of Shanhaiguan Pass at the Great Wall
+on 3 January 1933, which ended in the inner Mongolian province Rehe’s
+annexation to Manchukuo two months later, echoes this sentiment:
+
+   **January 5 (water) sunny, 85° in the afternoon**<br><br>
+   *A dispatch arrived: on New Year’s night, the Japanese military<br>
+   launched a fierce attack on the Shanhaiguan Pass, shocking North<br>
+   China, which was lost today. Some London newspaper criticised<br>
+   Zhang Xueliang’s policy of non-resistance and waiting for the<br>
+   League of Nations as wishful thinking and self-deception. (p. 11)*
+
+   **一月五日（水）晴，午85°**<br><br>
+   *电讯传来：日军于元旦夜猛攻山海关，华北震动，今且失守焉。伦敦某<br>
+   报批评张学良之不抵抗待国联之迷梦，将成画饼*。
 
