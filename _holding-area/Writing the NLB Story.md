@@ -20,7 +20,7 @@ In Singapore, this work of constant adaptation had in fact started in the 1980s,
 
 The national library system was one of these levers. After all, the jobs in a knowledge-based economy could only be filled by people who were up to speed with the world’s innovations and ready to adapt to and lead change. And the library was all about helping people learn. There was just one problem: this system was not in very good shape.&nbsp;
 
-Sparks of Inspiration
+#### **Sparks of Inspiration**
 
 With roots dating back to the 1837, the National Library Singapore had made tremendous strides since its beginnings as a school library within the Singapore Institution (later renamed Raffles Institution).3 Under the dynamic leadership of Hedwig Anuar, its much-beloved director from 1965 to 1988, the network of libraries and membership grew, and the process of computerisation had begun.4
 
@@ -46,7 +46,7 @@ His longstanding interest in global knowledge arbitrage also influenced the libr
 
 The diversity within Singapore had made Singaporeans instinctively skilled at adapting to people from different cultures, he thought. But instinct was not enough. “Arbitrage should be based upon knowledge about these cultures.” The library, he felt, could provide this knowledge.
 
-A Revolutionary Report
+#### **A Revolutionary Report**
 
 The Library 2000 report was released in March 1994. In his memoirs, published in 2024, Yeo described its proposals as “revolutionary”.10
 
@@ -54,7 +54,7 @@ For a start, there was the report’s subtitle – _Investing in a Learning Nati
 
 The library, he wrote in the report, should be positioned as “an integral part of our national system actively supporting Singapore as a learning nation”, helping Singaporeans to learn faster and apply knowledge better than others. “This differential lead in our learning capacity will be crucial to our long-term national competitiveness in the global economy where both nations and firms compete with each other on the basis of information and knowledge,” he wrote.&nbsp;
 
-Recommendations from the Library 2000 Report&nbsp;
+#### **Recommendations from the Library 2000 Report**
 
 The Library 2000 report drew up the roadmap for the Singapore’s library system today. Among other things, it proposed that a National Reference Library and Specialised Reference Libraries should be complemented by regional, community and neighbourhood public libraries of varying sizes and differentiated collections and services.
 
@@ -70,7 +70,7 @@ In March 1995, Yeo elaborated on this transformation in a speech at the Digital 
 
 The importance of technology was perhaps more self-evident – by then, internet terminals were starting to appear in libraries here. But culture was no less essential. It was culture that “regulates the way human beings cooperate and compete”, he said. “Throughout history, public libraries have not only been repositories of information, they have also been temples of culture… We need access to all sources of knowledge. What we want is to make Singapore a hub for knowledge arbitrage. But we also want to preserve our sense of self and family which is why there must always be a cultural emphasis to all that we do.”&nbsp;
 
-Translating Theory into Practice
+#### **Translating Theory into Practice**
 
 About six months after Yeo’s speech, the National Library Board (NLB) was formed as a statutory board on 1 September 1995. This structure meant that it had more discretion in financial and human resource matters, such as market-based salaries.12&nbsp;
 
@@ -104,7 +104,7 @@ He added that Chia was able to strike a balance between “not rocking the boat�
 
 Resistance to change also ebbed when staff started seeing the tangible results of new ideas. The switch away from the tedious and time-consuming manual processing of library books was one example. Chia and his team collaborated with a local company to come up with a system where radio frequency identification was used to automate the check-out and returning of books. The first prototype was rolled out in three branches. “It worked beautifully,” said Chia. “When staff from other branches started asking ‘when is our turn?’, I knew that we had turned a corner.”&nbsp;
 
-A Lasting Impact
+#### **A Lasting Impact**
 
 By 2001, visitorship had quadrupled, the collection had tripled in size, and membership and the library physical space had doubled. The loan rate also increased from 10 to 25 million books, and time spent in queues was reduced from an hour to 15 mins.21 That year, the NLB was featured in a case study by the Harvard Business School. Case studies of real-world organisations that illustrate business concepts in action form the backbone of the curriculum at this institution.22&nbsp;
 
@@ -192,5 +192,4 @@ For Tan, leaning into the function of the library as a social space may be a goo
 [^21]: 
 
 
-[^22]: 
-
+[^22]:
