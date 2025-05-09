@@ -930,4 +930,91 @@ vanquished, and King Rama VI fled by plane. Who to believe?*<br><br>
    有暹罗人为长官，统揽政权，惟人口多巫族。宋卡，布吉，多邪 (?) 等<br>
    地，暹军驻扎处，均英澳人投资矿产所也。又据星暹统称，叛军已溃<br>，
    亲王乘机出奔。不知信否。
+	 
+	
+#### **Conclusion: The Significance of Hsu’s Diaries to Nanyang Historiography**
+Seen less charitably, Hsu’s interwar Nanyang studies was a partisan
+reflection of the Chinese war mobilisation effort. Just as “disciplined
+diary writing” was introduced “as late as the ‘Nanjing decade’ of GMD
+[Kuomintang] rule” to shape soldiers’ commitment to acts of violence,
+Hsu’s diary helped him, as a historian, be accountable to the Chinese
+nationalist cause and hence not to be considered a “collaborationist” or
+“Chinese traitor” (*hanjian*). Writing the self mobilised his convictions and
+transformed his consciousness to act in his own ways while being far away
+from his hometown of Suzhou, China. Hsu’s personal diary recalls the
+prized genre of loyalist resistance and moral self-reflection by late-Ming
+literati opposing the traumatic Qing transition.95 Perhaps after the 1930s the
+reason for diary-writing faded. After Hsu moved to Singapore in 1938, his
+collaboration with “southbound intellectuals” (*nanlai wenren*) to research
+and publish works through the South Seas Society was interrupted by the
+Japanese Occupation of Singapore (1942–45), which forced him into hiding.
+Diary keeping, if discovered, could have meant death; even his *History
+of Patani* (1946) manuscript, completed in 1940, had to be stashed in the
+ceiling board, and was thankfully only half-eaten by silverfish. Instead of
+private life-writing, Hsu found similar genres such as children’s literature,
+anecdotal histories and testimonies, which he wrote and edited, to satisfy his
+interest in postwar reconstruction via public scholarship.
 
+Hsu’s diaries are valuable because they fill the gap in our understanding of
+his early years, and they bring together contexts that have been overlooked
+in Nanyang historiography. That historiography views the China-Singapore
+connection, via its publication and institutional histories, as an important genealogy. My biographical method instead asks what was politically and
+personally at stake in Hsu’s interwar Nanyang studies. Hsu’s responses to
+current affairs, especially of China and the Nanyang, from the perspectives
+of Siam and its southern region of Patani, suggest that the relationships
+of *huaqiao* to China and their places of residence are in constant
+transformation.
+
+As a newly arrived China-loyalist in Siam, Hsu intervened in communities
+that had perhaps been assimilated through generations of residence, and
+perhaps more strongly affectively linked to networks of Teochew people,
+for instance, than to a distant state headquartered in Nanjing. The complex
+histories of Chinese diaspora continue to be worked out in Hsu’s postwar
+Singapore, where scholarship written in Chinese or from communist
+China was seen as politically suspect. Hsu’s diaries recorded events as they
+unfolded from a viewpoint whose ultimate destiny is unknowable. But they
+also anticipated the trauma of total war, and Hsu’s decision, as a survivor, to
+double down on his efforts to fight for the longevity of Chinese education
+and Nanyang studies in post-1945 Singapore. Hence Hsu’s personal diaries
+are important because they anticipate the geopolitics and scholarly politics
+of the South Seas Society some 20 years later.
+
+Naturally, the postwar history of Nanyang archives and scholarly societies
+would be more familiar to readers. Based mainly at the aforementioned
+Nanyang University (1956–80), the first Chinese-language university
+in Southeast Asia, Nanyang Studies crystallised a scholarly generation’s
+interests in the region they called “home”.96 Notably, Nanyang University
+(or Nantah) graduates majoring in history and geography fondly recall
+their ethnographic trip to India, which Hsu led in 1959. Hsu wrote a parttravel
+memoir, part-cultural-religious history titled *Travels to India* (1964),
+and published it as one of 12 books in the Afro-Asian book series (*Ya Fei
+congshu*) he edited for Singapore’s Youth Bookstore (*Qingnian shuju*, 1955– ),
+which was founded by Chen Mong Chea (Chen Mengzhe, 1920–2016).97
+Incidentally, the publication of this series was related to the opening of
+Nanyang University. The books were used as textbooks, so they sold well and underwent a second print run.98 This was around the time that Chief
+Minister Lim Yew Hock’s government banned the import of all publications
+from China (1958), and local publishers cornered the Malayan market in
+Chinese-language publishing.99 Other well-known book series include the
+*Singaporean and Malayan Literature and Art* book series (*Xin Ma wenyi
+congshu*) and *Literature from the South* (*Nanfang wencong*), which launched
+the careers of many local writers, such as Han Suyin, Ly Singko (Li Xingke),
+Miao Xiu, Lin Cantian, Wei Yun, Lian Shisheng, Qiu Xuxu and Zhao
+Rong.
+ 
+Folk historians (*minjian xueren*) wistfully narrate the rise and decline of
+Nanyang Studies in Singapore (1940–81), and view Hsu’s passing in 1981 as
+marking the end of an era. After 1981, Nanyang Studies took a turn toward
+ethnic Chinese studies.100 This calls for an explanation. Nanyang University
+(1956–80), the first Chinese-language university in Southeast Asia, was
+forcibly closed around that time, to meet the Singapore government’s
+globalising efforts in English. The centre of gravity for overseas Chinese
+studies shifted to departments of Chinese studies at the University of Malaya
+and National University of Singapore. No studies pursued in Chinese
+thereafter could escape questions of ethnic identity. The shift from diasporic
+to local Malayan identities in postwar Nanyang publications, perhaps,
+creates a paradoxical, uneasy feeling where scholars celebrate creolisation but
+wonder if it is attached to the heavy cost of assimilation.101 Hsu’s creolised,
+anti-assimilationist stance in Nanyang studies is worth revisiting. Fledging
+and open to varied intellectual trends and genealogies, his interwar Nanyang
+studies imagined a different outcome, and it is important that we do not
+take its evanescence as a foregone conclusion.
