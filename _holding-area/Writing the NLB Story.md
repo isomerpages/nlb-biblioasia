@@ -127,69 +127,68 @@ For Tan, leaning into the function of the library as a social space may be a goo
 
 #### **Notes**
 
-[^1]: 
+[^1]: Goh Chok Tong, “Speech by the Prime Minister, Mr Goh Chok Tong, at the National Computer Board 10th Anniversary Gala Dinner on Thursday, 26 September 1991, at the Raffles Hotel Ballroom, Westin Plaza Hotel at 7.40 PM,” transcript, Ministry of Information and the Arts. (From National Archives of Singapore, document no. gct19910926)
+
+[^2]: Tan Chin Nam, interview, 21 February 2025.
 
 
-[^2]: 
+[^3]: Singapore Institution Free School, _Fourth Annual Report 1837–38_ (Singapore: Singapore Free Press Office, 1838), 5. (From National Library Online)&nbsp;
 
 
-[^3]: 
+[^4]: Zaubidah Mohamed and Gladys Low, “Hedwig Anuar,” in Singapore Infopedia, National Library Board Singapore. Article published August 2016.
 
 
-[^4]: 
+[^5]: Library 2000 Review Committee, _Library 2000: Investing in a Learning Nation: Report of the Library 2000 Review Committee_ (Singapore: SNP Publishers and Ministry of Information and the Arts, 1994), 12. (From National Library Singapore, call no. RSING 027.05957 SIN-LIB\])&nbsp;
 
 
-[^5]: 
+[^6]: Roger H. Hallowell, Neo Boon Siong and Carin-Isabel Knoop, _Transforming Singapore’s Public Libraries_ (Boston: Mass, Harvard Business School Publishing, 2001), 2. (From National Library Singapore, call no. RCLOS 027.45957 HAL-\[LIB\])
 
 
-[^6]: 
+[^7]: Library 2000 Review Committee, _Library 2000_, 4.
 
 
-[^7]: 
+[^8]: George Yeo, interview, 31 January 2025.
 
 
-[^8]: 
+[^9]: “Permanent Secretary (Information, Communications and the Arts),” Public Service Division, Prime Minister’s Office, 12 November 2007, https://www.psd.gov.sg/files/press-release---12-nov-2007-permanent-secretary-of-mica-retires.pdf.
 
 
-[^9]: 
-
-
-[^10]: 
+[^10]: George Yeo Yong-Boon, _George Yeo: Musings Series 3_ (Singapore; Hackensack, NJ: World Scientific Publishing Co. Pte. Ltd., 2024), 154. (From National Library Singapore, call no. RSING 959.57052092 YEO)&nbsp;
 
 
 '
-[^11]: 
+[^11]: George Yeo, “Libraries of the Future to Develop Along Twin Tracks,” _Straits Times_, 30 March 1995, 28. (From NewspaperSG)
 
 
-[^12]: 
+[^12]: Hallowell, Neo and Knoop, _Transforming Singapore’s Public Libraries_, 4.
 
 
-[^13]: 
+[^13]: “Aztech’s Head of Research Resigns,” _Business Times_, 19 August 1995, 6. (From NewspaperSG)
 
 
-[^14]: 
+[^14]: Christopher Chia, interview, 13 January 2025.
 
 
-[^15]: 
+[^15]: Koh Buck Song, “National Library to Spend $1b over 8 Years,” _Straits Times Weekly Overseas Edition_, 6 July 1996, 3. (From NewspaperSG)
 
 
-[^16]: 
+[^16]: Hallowell, Neo and Knoop, _Transforming Singapore’s Public Libraries_, 4.
 
 
-[^17]: 
+[^17]: Hallowell, Neo and Knoop, _Transforming Singapore’s Public Libraries_, 6.
 
 
-[^18]: 
+[^18]: Sitragandi Arunasalam, “R. Ramachandran,” in Singapore Infopedia, National Library Board Singapore. Article published 2016.
 
 
-[^19]: 
+[^19]: R. Ramachandran, interview, 13 February 2025.
 
 
-[^20]: 
+[^20]: Hallowell, Neo and Knoop, _Transforming Singapore’s Public Libraries_, 6.
 
 
 
-[^21]: 
+[^21]: Hallowell, Neo and Knoop, _Transforming Singapore’s Public Libraries_, 1.
 
 
-[^22]:
+[^22]: Yannis Normand, “The History of the Case Study at Harvard Business School,” Harvard Business School Online, 28 February 2017, https://online.hbs.edu/blog/post/the-history-of-the-case-study-at-harvard-business-school.
