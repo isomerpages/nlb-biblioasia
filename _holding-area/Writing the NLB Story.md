@@ -127,68 +127,68 @@ For Tan, leaning into the function of the library as a social space may be a goo
 
 #### **Notes**
 
-[^1]: Goh Chok Tong, “Speech by the Prime Minister, Mr Goh Chok Tong, at the National Computer Board 10th Anniversary Gala Dinner on Thursday, 26 September 1991, at the Raffles Hotel Ballroom, Westin Plaza Hotel at 7.40 PM,” transcript, Ministry of Information and the Arts. (From National Archives of Singapore, document no. gct19910926)
+[^1]: Goh Chok Tong, “[Speech by the Prime Minister, Mr Goh Chok Tong, at the National Computer Board 10th Anniversary Gala Dinner on Thursday, 26 September 1991, at the Raffles Hotel Ballroom, Westin Plaza Hotel at 7.40 PM](https://www.nas.gov.sg/archivesonline/speeches/record-details/7429af1c-115d-11e3-83d5-0050568939ad),” transcript, Ministry of Information and the Arts. (From National Archives of Singapore, document no. gct19910926)
 
 [^2]: Tan Chin Nam, interview, 21 February 2025.
 
 
-[^3]: Singapore Institution Free School, _Fourth Annual Report 1837–38_ (Singapore: Singapore Free Press Office, 1838), 5. (From National Library Online)&nbsp;
+[^3]: Singapore Institution Free School, [_Fourth Annual Report 1837–38_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=8d2dc452-e860-453a-b963-06b66e502151) (Singapore: Singapore Free Press Office, 1838), 5. (From National Library Online)&nbsp;
 
 
-[^4]: Zaubidah Mohamed and Gladys Low, “Hedwig Anuar,” in Singapore Infopedia, National Library Board Singapore. Article published August 2016.
+[^4]: Zaubidah Mohamed and Gladys Low, “[Hedwig Anuar](https://www.nlb.gov.sg/main/article-detail?cmsuuid=17d0b33b-8b3d-48ab-92dd-c0a16cf766ac),” in Singapore Infopedia, National Library Board Singapore. Article published August 2016.
 
 
-[^5]: Library 2000 Review Committee, _Library 2000: Investing in a Learning Nation: Report of the Library 2000 Review Committee_ (Singapore: SNP Publishers and Ministry of Information and the Arts, 1994), 12. (From National Library Singapore, call no. RSING 027.05957 SIN-LIB\])&nbsp;
+[^5]: Library 2000 Review Committee, [_Library 2000: Investing in a Learning Nation: Report of the Library 2000 Review Committee_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6731571) (Singapore: SNP Publishers and Ministry of Information and the Arts, 1994), 12. (From National Library Singapore, call no. RSING 027.05957 SIN-LIB\])&nbsp;
 
 
-[^6]: Roger H. Hallowell, Neo Boon Siong and Carin-Isabel Knoop, _Transforming Singapore’s Public Libraries_ (Boston: Mass, Harvard Business School Publishing, 2001), 2. (From National Library Singapore, call no. RCLOS 027.45957 HAL-\[LIB\])
+[^6]: Roger H. Hallowell, Neo Boon Siong and Carin-Isabel Knoop, [_Transforming Singapore’s Public Libraries_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=10902778) (Boston: Mass, Harvard Business School Publishing, 2001), 2. (From National Library Singapore, call no. RCLOS 027.45957 HAL-\[LIB\])
 
 
-[^7]: Library 2000 Review Committee, _Library 2000_, 4.
+[^7]: Library 2000 Review Committee, [_Library 2000_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6731571), 4.
 
 
 [^8]: George Yeo, interview, 31 January 2025.
 
 
-[^9]: “Permanent Secretary (Information, Communications and the Arts),” Public Service Division, Prime Minister’s Office, 12 November 2007, https://www.psd.gov.sg/files/press-release---12-nov-2007-permanent-secretary-of-mica-retires.pdf.
+[^9]: “Permanent Secretary (Information, Communications and the Arts),” Public Service Division, Prime Minister’s Office, 12 November 2007, [https://www.psd.gov.sg/files/press-release---12-nov-2007-permanent-secretary-of-mica-retires.pdf](https://www.psd.gov.sg/files/press-release---12-nov-2007-permanent-secretary-of-mica-retires.pdf).
 
 
-[^10]: George Yeo Yong-Boon, _George Yeo: Musings Series 3_ (Singapore; Hackensack, NJ: World Scientific Publishing Co. Pte. Ltd., 2024), 154. (From National Library Singapore, call no. RSING 959.57052092 YEO)&nbsp;
+[^10]: George Yeo Yong-Boon, [_George Yeo: Musings Series 3_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=206112155) (Singapore; Hackensack, NJ: World Scientific Publishing Co. Pte. Ltd., 2024), 154. (From National Library Singapore, call no. RSING 959.57052092 YEO)&nbsp;
 
 
 '
-[^11]: George Yeo, “Libraries of the Future to Develop Along Twin Tracks,” _Straits Times_, 30 March 1995, 28. (From NewspaperSG)
+[^11]: George Yeo, “[Libraries of the Future to Develop Along Twin Tracks](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19950330-1.2.41.4),” _Straits Times_, 30 March 1995, 28. (From NewspaperSG)
 
 
-[^12]: Hallowell, Neo and Knoop, _Transforming Singapore’s Public Libraries_, 4.
+[^12]: Hallowell, Neo and Knoop, [_Transforming Singapore’s Public Libraries_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=10902778), 4.
 
 
-[^13]: “Aztech’s Head of Research Resigns,” _Business Times_, 19 August 1995, 6. (From NewspaperSG)
+[^13]: “[Aztech’s Head of Research Resigns](https://eresources.nlb.gov.sg/newspapers/digitised/article/biztimes19950819-1.2.20.9.14),” _Business Times_, 19 August 1995, 6. (From NewspaperSG)
 
 
 [^14]: Christopher Chia, interview, 13 January 2025.
 
 
-[^15]: Koh Buck Song, “National Library to Spend $1b over 8 Years,” _Straits Times Weekly Overseas Edition_, 6 July 1996, 3. (From NewspaperSG)
+[^15]: Koh Buck Song, “[National Library to Spend $1b over 8 Years](https://eresources.nlb.gov.sg/newspapers/digitised/article/stoverseas19960706-1.2.5.5),” _Straits Times Weekly Overseas Edition_, 6 July 1996, 3. (From NewspaperSG)
 
 
-[^16]: Hallowell, Neo and Knoop, _Transforming Singapore’s Public Libraries_, 4.
+[^16]: Hallowell, Neo and Knoop, [_Transforming Singapore’s Public Libraries_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=10902778), 4.
 
 
-[^17]: Hallowell, Neo and Knoop, _Transforming Singapore’s Public Libraries_, 6.
+[^17]: Hallowell, Neo and Knoop, [_Transforming Singapore’s Public Libraries_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=10902778), 6.
 
 
-[^18]: Sitragandi Arunasalam, “R. Ramachandran,” in Singapore Infopedia, National Library Board Singapore. Article published 2016.
+[^18]: Sitragandi Arunasalam, “[R. Ramachandran](https://www.nlb.gov.sg/main/article-detail?cmsuuid=df3ce6f3-26a2-41ec-98e1-f42ad5d2b555),” in Singapore Infopedia, National Library Board Singapore. Article published 2016.
 
 
 [^19]: R. Ramachandran, interview, 13 February 2025.
 
 
-[^20]: Hallowell, Neo and Knoop, _Transforming Singapore’s Public Libraries_, 6.
+[^20]: Hallowell, Neo and Knoop, [_Transforming Singapore’s Public Libraries_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=10902778), 6.
 
 
 
-[^21]: Hallowell, Neo and Knoop, _Transforming Singapore’s Public Libraries_, 1.
+[^21]: Hallowell, Neo and Knoop, [_Transforming Singapore’s Public Libraries_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=10902778), 1.
 
 
-[^22]: Yannis Normand, “The History of the Case Study at Harvard Business School,” Harvard Business School Online, 28 February 2017, https://online.hbs.edu/blog/post/the-history-of-the-case-study-at-harvard-business-school.
+[^22]: Yannis Normand, “The History of the Case Study at Harvard Business School,” Harvard Business School Online, 28 February 2017, [https://online.hbs.edu/blog/post/the-history-of-the-case-study-at-harvard-business-school](https://online.hbs.edu/blog/post/the-history-of-the-case-study-at-harvard-business-school).
