@@ -156,7 +156,6 @@ For Tan, leaning into the function of the library as a social space may be a goo
 [^10]: George Yeo Yong-Boon, [_George Yeo: Musings Series 3_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=206112155) (Singapore; Hackensack, NJ: World Scientific Publishing Co. Pte. Ltd., 2024), 154. (From National Library Singapore, call no. RSING 959.57052092 YEO)&nbsp;
 
 
-'
 [^11]: George Yeo, “[Libraries of the Future to Develop Along Twin Tracks](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19950330-1.2.41.4),” _Straits Times_, 30 March 1995, 28. (From NewspaperSG)
 
 
