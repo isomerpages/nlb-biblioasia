@@ -743,7 +743,11 @@ news that showed the perils of strongman politics and brinkmanship:
    作权，俄报则谓係美居宽纵所致，法公使韦礼德在京__外次余谟谈中越<br>
    条约，谓法之佔九小岛，线为航业便利而已云云。又那威华侨仅六人，<br>
    乃忽被驱逐三人，闻已令公使诸昌年抗议云。
+	 
 
+<img src="/images/COA%202017%20to%202018/Hsu%20Yun%20Tsiao/5_August_1933_4.jpg" style="width:50%;">
+ <div style="background-color: white;">(Left) 5 August 1933 entry in Hsu Yun-Tsiao’s diary (v. 2: p. 205, Accession no.: B27705372K).<br> (Right) 6 August 1933 entry in Hsu Yun-Tsiao’s diary (v. 2: p. 206, Accession no.: B27705372K). <i> Hsu Yun Tsiao collection, National Library, Singapore.</i></div>
+	 
 The layers of politics and erudition in Hsu’s diary evoke “a thick
 transregionalism, a spatially expansive yet integrative account of a mobile
 society”.77 Hsu’s diary urgently shapes and consolidates his public response
