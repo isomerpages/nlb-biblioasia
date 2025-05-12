@@ -336,7 +336,7 @@ nationalist exclusivism:
    吴经熊谓宪法草案已考虑妥当，分民族民权民生三篇，行将起初稿云。德<br>   希特拉 卒青年遍搜全国图书馆，焚去其主义不同之各项书籍，并绘犹太<br>   人像若干，亦焚以鄙视之。有百馀犹太人已避往帕勒士丁云。暹政府答覆<br>   华校请愿团, 拒绝通融，出月便将强迫执行云。扼腕叹息，不知之何?<br>
 
 <img src="/images/COA%202017%20to%202018/Hsu%20Yun%20Tsiao/14_May_1933_1.jpg" style="width:50%;">
- <div style="background-color: white;">14 May 1933 entry in Hsu Yun Tsiao’s diary (v. 2: p. 132; Accession no. B27705372K). <i>Hsu Yun Tsiao collection, National Library, Singapore.</i></div>
+ <div style="background-color: white;">14 May 1933 entry in Hsu Yun Tsiao’s diary (v. 2: p. 132; Accession no. B27705372K). <i> Hsu Yun Tsiao collection, National Library, Singapore.</i></div>
 
 
 It is clear that Hsu felt sympathy for the plight of the German Jews, whose
@@ -469,6 +469,10 @@ Chinese comparison:
    and Liang Qichao: “Ah, Kang and Liang, be careful not to make<br>
    China Jewish”. He named the problem correctly but the way out<br>
    isn’t clear. (pp. 119-120)*
+	 
+	![](/images/COA%202017%20to%202018/Hsu%20Yun%20Tsiao/23_April_1933_2.jpg) 
+<img src="/images/COA%202017%20to%202018/Hsu%20Yun%20Tsiao/23_April_1933_2.jpg" style="width:50%;">
+ <div style="background-color: white;">(Left) 23 April 1933 entry in Hsu Yun-Tsiao’s diary (v. 2: p. 119; Accession no. B27705372K).<br> (Right) 23 April 1933 entry in Hsu Yun-Tsiao’s diary (v. 2: p. 120; Accession no. B27705372K).<i> Hsu Yun Tsiao collection, National Library, Singapore.</i></div>
 
    **四月二十三日（日）午89°炎热**<br><br>
    *正午与大发定一往教育局抄教育部长颁发之条例，内要点为每周授课不<br>
