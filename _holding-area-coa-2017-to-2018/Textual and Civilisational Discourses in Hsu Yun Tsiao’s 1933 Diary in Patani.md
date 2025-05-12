@@ -470,7 +470,6 @@ Chinese comparison:
    China Jewish”. He named the problem correctly but the way out<br>
    isn’t clear. (pp. 119-120)*
 	 
-	![](/images/COA%202017%20to%202018/Hsu%20Yun%20Tsiao/23_April_1933_2.jpg) 
 <img src="/images/COA%202017%20to%202018/Hsu%20Yun%20Tsiao/23_April_1933_2.jpg" style="width:50%;">
  <div style="background-color: white;">(Left) 23 April 1933 entry in Hsu Yun-Tsiao’s diary (v. 2: p. 119; Accession no. B27705372K).<br> (Right) 23 April 1933 entry in Hsu Yun-Tsiao’s diary (v. 2: p. 120; Accession no. B27705372K).<i> Hsu Yun Tsiao collection, National Library, Singapore.</i></div>
 
@@ -637,6 +636,9 @@ Chinese tradition of diary keeping.70
    自由党领袖，数年来努力自工作颇著名。此行或将与日各党领袖及当局<br>
    接洽；蓋彼为赞同大亚细亚主义者。已死之大亚主义今日復大萌新芽<br>
    殊足怪也。
+	 
+<img src="/images/COA%202017%20to%202018/Hsu%20Yun%20Tsiao/16_May_1933_3.jpg" style="width:50%;">
+ <div style="background-color: white;">16 May 1933 entry in Hsu Yun-Tsiao’s diary (v. 2: p. 133, Accession no.: B27705372K).<i> Hsu Yun Tsiao collection, National Library, Singapore.</i></div>
 
 Pan-Asianism, according to Okakura Tenshin and others later inspired
 by Russia’s defeat by Japan (1905) such as Sun Yat-sen and Bengali
