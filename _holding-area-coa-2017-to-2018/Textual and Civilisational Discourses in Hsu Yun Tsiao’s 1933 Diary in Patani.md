@@ -335,11 +335,14 @@ nationalist exclusivism:
    **五月十四日（日）夜83°晴热**<br><br>
    吴经熊谓宪法草案已考虑妥当，分民族民权民生三篇，行将起初稿云。德<br>   希特拉 卒青年遍搜全国图书馆，焚去其主义不同之各项书籍，并绘犹太<br>   人像若干，亦焚以鄙视之。有百馀犹太人已避往帕勒士丁云。暹政府答覆<br>   华校请愿团, 拒绝通融，出月便将强迫执行云。扼腕叹息，不知之何?<br>
 
+<img src="/images/COA%202017%20to%202018/Hsu%20Yun%20Tsiao/14_May_1933_1.jpg" style="width:50%;">
+ <div style="background-color: white;">14 May 1933 entry in Hsu Yun Tsiao’s diary (v. 2: p. 132; Accession no. B27705372K). <i>Hsu Yun Tsiao collection, National Library, Singapore.</i></div>
+
+
 It is clear that Hsu felt sympathy for the plight of the German Jews, whose
 troubles were just beginning, and anxiety about the status of his own minority
 group, the Chinese in Siam, who confronted demands for cultural and
 linguistic assimilation in ways that particularly concerned him as an educator.42
-
 
 Against this backdrop, Hsu invoked Chinese law. The inconclusive debates
 over democracy and dictatorship in China during the 1920s resulted in the
@@ -1033,4 +1036,3 @@ and introduces in this essay. His biographical approach to Hsu’s work aims to 
 the discipline’s periodisation, historical method and melancholic narrative of Nanyang
 studies’ rise and decline (1940–81).
 </div>
-
