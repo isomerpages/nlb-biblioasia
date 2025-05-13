@@ -802,7 +802,7 @@ paragraph titled “The Historical Status of Patani” from his anecdotal histor
    time, Johor’s state presence was far less than Patani’s. The reign<br> 
    of the queens was methodical. They had a close relationship with<br> 
    Johor and Pahang, but also used military strength [to fight off<br> 
-Siamese invasions].*[^89]
+   *Siamese invasions].*[^89]
 
 Defined neither by capital flows between Shanghai, Hong Kong and
 Singapore, nor the mainland writer’s exotic desire for the tropics during
