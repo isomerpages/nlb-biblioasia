@@ -132,7 +132,7 @@ for Luang Wichit, recalled King Naresuan’s (1555–1605) resistance against
 Taungoo Burma’s (1510–1599) repeated siege of Ayutthaya. Taksin would
 have been a fit specimen for Luang Wichit’s earlier essay, “On Great Men”
 (1928), which included “Napoleon, Bismarck, Disraeli, Gladstone, Okubo
-Toshimichi (of the Meiji Restoration) and Mussolini”.21
+Toshimichi (of the Meiji Restoration) and Mussolini”.[^21]
 
 Luang Wichit’s biography on Taksin venerated Siamese ambition and
 success. But Hsu’s selective, annotated translation of this act of hero
@@ -141,16 +141,16 @@ Qichao (1873–1929) published a famous, short essay, “Biographies of
 China’s Eight Great Colonial Heroes” (*Zhongguo zhimin bada weiren
 zhuan*), which espoused the virtues of settler colonialism and puzzled
 over the paradox of a large Chinese diaspora that had no formal overseas
-colonies.22 Liang named King Taksin as one of the great colonial heroes,
+colonies.[^22] Liang named King Taksin as one of the great colonial heroes,
 among other southern Chinese traders and bandits who settled as far as
 Java and Sumatra. Under the pen name “China’s New Citizen” (*Zhongguo
 zhi xinmin*), Liang argued that “Taksin’s accomplishment as a Siamese
 king far exceeded the Japanese Yamada Nagamasa’s rule” (1617–30) in Siam’s Nakhon Si Thammarat province, but expressed “sorrow that his
-Chinese fellowmen did not know of [Thaksin]”.23 For Liang, the Chinese
-nation was constituted by the strengths of its diaspora.24 Even his call for
+Chinese fellowmen did not know of [Thaksin]”.[^23] For Liang, the Chinese
+nation was constituted by the strengths of its diaspora.[^24] Even his call for
 a Chinese “poetic revolution” in 1899 was based on his favourable view
 of European colonial expansion as a solution for the problems of land
-exhaustion and overproduction.25 When situated in this tradition, Hsu’s
+exhaustion and overproduction.[^25] When situated in this tradition, Hsu’s
 translation of Luang Wichit’s Taksin reminds its readers, ironically, of
 the open secret of a Chinese bloodline of Siamese monarchs – even those
 from the later Rattanakosin period (1782–1932) who suppressed Taksin’s
@@ -161,7 +161,7 @@ or performing one based on ethnic injury, Hsu saw an appeal in ethnonationalist
 Thai histories that otherwise would affront him – or at least,
 the need to unearth a history of peaceful relations between Siam and
 China appealed to him. The figure of Taksin becomes a perverse form of
-what Benedict Anderson calls nationalism’s “unbound seriality”.26
+what Benedict Anderson calls nationalism’s “unbound seriality”.[^26]
 
 I further suggest that the popular or “anecdotal histories” (*shihua*) that
 Hsu often published in postwar Singapore, with their emphasis on writing
@@ -170,23 +170,23 @@ by Chinese “literary biographies” in the style of Sima Qian’s *Shiji* [*Re
 of the Grand Historian*, c. 94 BC]. Hsu prided himself on rectifying
 place-name mistakes in classical Chinese accounts of maritime geography,
 for example, “Dani” was actually Pattani, not Borneo; “Dandan” was
-Kelantan; “Chitu” was Songkhla.27 Hsu’s biographer Lew Bon Hui (Liao
+Kelantan; “Chitu” was Songkhla.[^27] Hsu’s biographer Lew Bon Hui (Liao
 Wenhui) traces Hsu’s textual analyses to the late-Qing scientific mode of “evidential learning” (*kaozheng*) or Han learning (*Hanxue*), which replaced
 earlier cosmological readings of classical texts with linguistic scrutiny,
 and suggests that this style of historical writing is found in Hsu’s primary
-school textbooks on Malayan history.28 Others prefer to call Hsu’s method
+school textbooks on Malayan history.[^28] Others prefer to call Hsu’s method
 one of “empiricism” (*shizheng*), based on models of Western social science
 that Nanyang historians, such as Liu Shimu, encountered when studying
-in Japan.29 Hsu remained aloof from revisionist trends in modern Chinese
+in Japan.[^29] Hsu remained aloof from revisionist trends in modern Chinese
 history such as that of Liang Qichao’s “New Historiography” (*xin shixue*),
 which recommended a causal (or evolutionary) approach focused on
 “popular movements and social life” attuned to “the world, nations, and
 peoples” and its “broader geographical and ethnic framework”, to replace
-the “reign-by-reign approach” of “Han China and its dynastic regimes”.30
+the “reign-by-reign approach” of “Han China and its dynastic regimes”.[^30]
 Hsu hardly commented on the relationship between history and
 narrative, nation and ethnicity, but he had an implicit relation to Chinese
 scholarship about “frontier history” (*bianjiangshi*) and “China-foreign
-communication history (*Zhongwai jiaotongshi*).31
+communication history (*Zhongwai jiaotongshi*).[^31]
 
 When he introduced his compiled lectures on Malaya, Nanyang, Annam
 and *Sejarah Melayu* (*Malay Annals*) at Nanyang University and Ngee Ann
@@ -196,20 +196,13 @@ to history writing: “history was written in a subjective manner because
 historians were limited by their environment, and oppressed by institution
 and kings” and that “history as a new subject examines the truth of historical
 facts – even if it cannot become a science, its methods of study ought to be
-scientific”.32 For Hsu, the three schools of history were classical, scientific When he introduced his compiled lectures on Malaya, Nanyang, Annam
-and Sejarah Melayu (Malay Annals) at Nanyang University and Ngee Ann
-Institution, Hsu said that history writing “required an objective method” –
-distortions to fact arose due to external forces rather than questions intrinsic
-to history writing: “history was written in a subjective manner because
-historians were limited by their environment, and oppressed by institution
-and kings” and that “history as a new subject examines the truth of historical
-facts – even if it cannot become a science, its methods of study ought to be
-scientific”.32 For Hsu, the three schools of history were classical, scientific task of history writing is the collection and verification of minutiae, and not
+scientific”.[^32] For Hsu, the three schools of history were classical, scientific and metaphysical.[^33] Addressing a lay audience, Hsu made it clear that the
+task of history writing is the collection and verification of minutiae, and not
 their interpretation. It is no wonder that Hsu was more concerned about
 dispelling a rumour started by a French missionary in Thonburi – and
 seized upon by later rulers – that Taksin went “insane” and was unfit to
 govern because of his ascetic Buddhist practices; or as Luang Wichit tells it,
-Taksin’s downfall was caused by his two wives.34
+Taksin’s downfall was caused by his two wives.[^34] 
 
 The study of Taksin had already become an industry in China when
 Hsu’s translation of Luang Wichit’s text appeared in Shanghai in 1936.
@@ -238,7 +231,7 @@ Historical Relations” (*Zhong Xian tongshi ka*o, 1951), “A Study of Taksin�
 Tribute to the Qing Court” (*Zhengzhao rugong qingting kao*, 1951) and “An
 Annotated Translation of a Poem Commemorating Taksin’s Tribute and
 Court Appearance in China” (*Zhengzhao gongshi ruchao Zhongguo jixing shi yizhu*, 1940), which was translated from Phraya Maha Nubhab’s account of
-Siam’s tribute to China in 1781.35
+Siam’s tribute to China in 1781.[^35]
 
 In 1936, Hsu’s appropriation of Siam’s nationalist histories for Chinese
 diasporic purposes predated revisionist writings of Thai history by
@@ -247,21 +240,7 @@ once again calling attention to Chinese contributions to the Thai nationstate
 – not forgetting the Chinese bloodline of Siamese monarchs. In 1986,
 Nidhi Eoseewong published *Thai Politics in the Reign of Thonburi*, which
 challenged the “heroic life and tragic death of King Taksin” and has been
-since reprinted constantly.36 It is worth noting that after the founders of the
-Chakri dynasty (c. 1782) staged a palace coup against Taksin and executed
-him, Taksin’s legacy has been controversial and open to debate. The figure
-of Taksin has gone through waves of rehabilitation under both military
-and democratic rule. After the 1932 Siamese revolution, Taksin was used to
-“arouse nationalism, which subtly discredited the Chakri dynasty”.
-
-In 1936, Hsu’s appropriation of Siam’s nationalist histories for Chinese
-diasporic purposes predated revisionist writings of Thai history by
-historians affectionately known as the “Jek” (chink) school in the 1980s,
-once again calling attention to Chinese contributions to the Thai nationstate
-– not forgetting the Chinese bloodline of Siamese monarchs. In 1986,
-Nidhi Eoseewong published *Thai Politics in the Reign of Thonburi*, which
-challenged the “heroic life and tragic death of King Taksin” and has been
-since reprinted constantly.36 It is worth noting that after the founders of the
+since reprinted constantly.[^36] It is worth noting that after the founders of the
 Chakri dynasty (c. 1782) staged a palace coup against Taksin and executed
 him, Taksin’s legacy has been controversial and open to debate. The figure
 of Taksin has gone through waves of rehabilitation under both military
@@ -273,39 +252,25 @@ representation of military rule who robbed the Thai people of a chance
 to gain a democratic constitution conferred by the King”. Royalism was
 strengthened via the figure of Taksin, where the “monarch’s traditional
 function as the epitome of ‘Thainess’ made it compulsory for all groups
-jostling for power to display their allegiance to the monarch”.37 In a further
+jostling for power to display their allegiance to the monarch”.[^37] In a further
 twist, as Sittithep Eaksittipong observes, while the figure of King Taksin
 helped to “writ[e] the Chinese into Thai history”, its use as a “seditious
 cultural symbol” to “subvert the sacredness of the Thai monarch as an abode
-of pure Thainess” instead “link[ed] the Chinese to the Thai monarchy”.38
-This would cause trouble in academic debates about Chinese assimilation
+of pure Thainess” instead “link[ed] the Chinese to the Thai monarchy”.[^38] This would cause trouble in academic debates about Chinese assimilation
 in Siam. Historian Wang Gungwu succinctly describes the controversy
 around what is known as the assimilation paradigm: “It was in this
 context that G. William Skinner wrote his two authoritative volumes on
-the Chinese in Thailand and stressed that the Chinese could, if the right In 1973, however, the People’s Party of 1932 was “presented as a
-representation of military rule who robbed the Thai people of a chance
-to gain a democratic constitution conferred by the King”. Royalism was
-strengthened via the figure of Taksin, where the “monarch’s traditional
-function as the epitome of ‘Thainess’ made it compulsory for all groups
-jostling for power to display their allegiance to the monarch”.37 In a further
-twist, as Sittithep Eaksittipong observes, while the figure of King Taksin
-helped to “writ[e] the Chinese into Thai history”, its use as a “seditious
-cultural symbol” to “subvert the sacredness of the Thai monarch as an abode
-of pure Thainess” instead “link[ed] the Chinese to the Thai monarchy”.38
-This would cause trouble in academic debates about Chinese assimilation
-in Siam. Historian Wang Gungwu succinctly describes the controversy
-around what is known as the assimilation paradigm: “It was in this
-context that G. William Skinner wrote his two authoritative volumes on
-the Chinese in Thailand and stressed that the Chinese could, if the right policy were followed, be assimilated in Southeast Asia. Today, scholars
+the Chinese in Thailand and stressed that the Chinese could, if the right 
+policy were followed, be assimilated in Southeast Asia. Today, scholars
 tend to emphasise the degrees of political assimilation while pointing to the
-continued existence of Chinese ethnicity”.39 The paradoxical claim that the
+continued existence of Chinese ethnicity”.[^39] The paradoxical claim that the
 Chinese were never “the Other” but required inclusion into Thai society
 would become more perplexing in the “converging intellectual nationalism”
 of the Cold War period. From the mid-1970s, progressive Sino-Thai scholars
 protested against “American academic involvement with Thailand” by
 drawing on the work of nationalistic scholars from the People’s Republic
 of China who reasserted China’s claim to “long-term historical sovereignty
-over the Dai-inhabited areas of Yunnan”.40
+over the Dai-inhabited areas of Yunnan”.[^40]
 
 
 #### **Diasporic Nationalism and Hsu Yun-Tsiao’s Comparative Politics of China and Siam in 1933**
@@ -313,7 +278,7 @@ over the Dai-inhabited areas of Yunnan”.40
 In his diary from 1933, Hsu described the plight of the Chinese minority in
 Siam, and more generally, of the *huaqiao* (Chinese sojourners) in Southeast
 Asia. Responding, no doubt, to the front page of the newspaper, that space
-of simultaneity where, as Benedict Anderson argues,41 modern people find
+of simultaneity where, as Benedict Anderson argues,[^41] modern people find
 their place in the world, Hsu drew a parallel between the misfortunes of two
 minority peoples (the German Jews and Chinese in Siam) confronted with
 nationalist exclusivism:
@@ -338,20 +303,19 @@ nationalist exclusivism:
 <img src="/images/COA%202017%20to%202018/Hsu%20Yun%20Tsiao/14_May_1933_1.jpg" style="width:50%;">
  <div style="background-color: white;">14 May 1933 entry in Hsu Yun Tsiao’s diary (v. 2: p. 132; Accession no. B27705372K). <i> Hsu Yun Tsiao collection, National Library, Singapore.</i></div>
 
-
 It is clear that Hsu felt sympathy for the plight of the German Jews, whose
 troubles were just beginning, and anxiety about the status of his own minority
 group, the Chinese in Siam, who confronted demands for cultural and
-linguistic assimilation in ways that particularly concerned him as an educator.42
+linguistic assimilation in ways that particularly concerned him as an educator.[^42]
 
 Against this backdrop, Hsu invoked Chinese law. The inconclusive debates
 over democracy and dictatorship in China during the 1920s resulted in the
-failure to implement a liberal constitution.43 Finally, in 1933, the Americantrained
+failure to implement a liberal constitution.[^43] Finally, in 1933, the Americantrained
 lawyer Wu Jingxiong (John Ching Hsiung Wu) drafted the first version
 of China’s 1946 constitution, known as the Wu draft. Article 1 of the draft
 stated that the Republic of China was a *san-min chu-i* [*sanmin zhuyi*] Republic,
 or a republic based on Sun Yat-sen’s Three Principles of the People, namely,
-“nationalism, democracy and the people’s livelihood”.44 Though promising to
+“nationalism, democracy and the people’s livelihood”.[^44] Though promising to
 replace the nominal constitution accepted by the Beiyang generals, or warlords,
 after their defeat by the Kuomintang army during the Northern Expedition
 (1926–28), the Wu draft downplayed two cornerstones of Kuomintang policy
@@ -359,7 +323,7 @@ in earlier times – Sun Yat-sen’s emphasis on the international anti-imperial
 struggle and the liberal notion of individual rights. It framed the struggle
 for freedom in terms of an essential “Chinese” legacy of national salvation,
 whereby the party-state was now legally authorised to crush Leftist dissent from
-its leader Chiang Kai-shek’s “revolutionary nativism”.45
+its leader Chiang Kai-shek’s “revolutionary nativism”.[^45]
 
 Hsu does not discuss such ideological overtones in Wu’s 1933 draft
 constitution. What concerns Hsu, as the extract shows, is whether its rule of
@@ -371,12 +335,12 @@ because only then could China intervene in the affairs of countries where
 Chinese sojourners lived. Hsu lamented that China was not doing enough
 and worried about the lack of wartime rights advocacy for minority
 subjects with no backup from a powerful state (again, a situation where
-Jews and Chinese were not precisely in the same plight).46 The dilemma
+Jews and Chinese were not precisely in the same plight).[^46] The dilemma
 of the Kuomintang government’s right and ability to extend its protection
 over “overseas Chinese” populations would be resolved in the succeeding People’s Republic of China premier Zhou Enlai’s 1955 speech at the Afro-
 Asian conference in Bandung, where the overseas Chinese were asked to
 become citizens of either China or the decolonising nation-state where they
-were based.47 Today, this subtext is downplayed against the background of
+were based.[^47] Today, this subtext is downplayed against the background of
 Chinese military expansion into Philippine and Vietnamese coastal areas,
 which I will discuss later.
 
@@ -390,7 +354,7 @@ is somewhat more complex than an either/or option would allow. For
 one thing, powerful figures among the host nations persisted in justifying
 discrimination against Chinese sojourners. The best-known expression of
 this policy is the essay “The Jews of the Orient” (1914) written by King
-Vajiravudh Rama VI (r. 1910–25) under the pen name of Asavabahu.48
+Vajiravudh Rama VI (r. 1910–25) under the pen name of Asavabahu.[^48]
 
 The Jewish-Chinese comparison first given broad circulation in that essay
 normalised, or at very least, symptomatised the racialisation of the Chinese
@@ -402,13 +366,13 @@ natives, and their expectation involved an “unstable allegiance” to material
 benefits such as tax evasion and social services – they “suspended work” to
 “protest having to pay THE SAME POLL TAX THAT ALL THAI PAY”
 and would ironically deign to register themselves as “nationals of foreign
-countries, even within China itself”.49
+countries, even within China itself”.[^49]
 
 The 1914 essay thus posed the question of Chinese extraterritorial rights
 in Siam, variously described as a semi-colonial, semi-feudal and cryptocolonial
 social formation whose monarchs retained independence from
 directly exercised Western imperialism but reproduced its governing
-structures within.50 For another thing, successive Chinese governments (and
+structures within.[^50] For another thing, successive Chinese governments (and
 opposition parties) often depended on the support of émigré communities,
 who by their wealth and standing wielded outsized influence. Many have
 since parsed King Vajiravudh’s racist screed as a complex political and
