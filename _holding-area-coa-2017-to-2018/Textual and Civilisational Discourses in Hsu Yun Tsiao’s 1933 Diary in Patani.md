@@ -382,7 +382,7 @@ of the Manchu dynasty in 1912 and the influence of republican ideology
 from China made him fearful of a spillover from a revolution against the
 monarchy. Hsu supplies evidence to support this view in *Beidanian shi*
 (*History of Patani*, 1946); indeed, the nationalist anti-Qing, or Patriotic
-Movement (*aiguo yundong*), had spread as far south as Patani.51
+Movement (*aiguo yundong*), had spread as far south as Patani.[^51]
 
 Two other local incidents were probably at the back of the king’s mind:
 the three-day strike to protest the increase of the head tax, as mentioned,
@@ -393,14 +393,14 @@ surge of Chinese immigration to Siam in 1918, Vajiravudh had described
 only the recently arrived poor, rural Chinese as “bad”, and criticised
 them for being stubbornly resistant to assimilation, because they refused
 to become Thai by failing to adopt his official nationalism of language,
-culture and service to the king.52 He had “ignor[ed] the Chinese who had
-been absorbed into the bureaucracy and old merchant families that had close business and personal ties to the monarchy”.53 Thus, the ethnic libel
+culture and service to the king.[^52] He had “ignor[ed] the Chinese who had
+been absorbed into the bureaucracy and old merchant families that had close business and personal ties to the monarchy”.[^53] Thus, the ethnic libel
 was perhaps no more than a fig leaf. Given such success in middle- and
 upper-class Thai-Chinese assimilation before the 20th century, Wasana
 Wongsurawat argues that the “Jewish analogy has acted as a sort of red
 herring, distracting observers from better explanations as to why the
 roles of China and the ethnic Chinese in the favorable outcome of the
-Second World War for Thailand have been so successfully expunged”.54
+Second World War for Thailand have been so successfully expunged”.[^54]
 Instead of state-driven, anti-Chinese discriminatory policies and
 propaganda, Wongsurawat views anticommunist international relations
 as a more satisfactory reason for the forgotten history of the left-leaning
@@ -410,7 +410,7 @@ from being defeated (i.e. from being on the wrong side) in the war. In
 hindsight, “Vajiravudh’s railing against the Chinese did not result in a
 purge or genocide (as suffered by the Jews in Europe) but led to political
 policies that began the process of forcing the Chinese to assimilate into
-Thai society”.55
+Thai society”.[^55]
 
 But Hsu could not have possibly anticipated this outcome when he
 mentioned King Vajiravudh’s essay in another diary entry. He took antiassimilation
@@ -448,7 +448,7 @@ Hsu compares older and newer (*dixiong*) cases of the predicament of
 an economically dominant minority with no state to back them up
 in the context of late-Qing governance. In 1900, Zhang Zhidong, the governor-general of Hunan and Hubei provinces, with the backing of
 the Emperor Dowager Cixi, crushed the Hunanese revolt led by Tang
-Caichang’s Independence Army (*zili jun*).56 Incidentally, the Independence
+Caichang’s Independence Army (*zili jun*).[^56] Incidentally, the Independence
 Army Uprising received the financial support of the *baohuang hui*
 (Restoration Party), founded by Kang Youwei and his reform-minded
 students such as Liang Qichao after their escape to Tokyo following the
