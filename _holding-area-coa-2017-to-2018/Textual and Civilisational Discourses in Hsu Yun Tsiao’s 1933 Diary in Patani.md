@@ -1175,8 +1175,6 @@ Xu Yunqiao 许云樵, _Xuyunqiao jiaoshou riji ce_ 许云樵教授日记册 \[Di
 
 —. “Lindao qian lue ju bo ni kao” 林道乾略居渤泥考 \[A study on Lin Daoqian's brief residence in Bo Ni\] in _Xu Yunqiao quan ji_ [许云樵全集](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202888520) \[The complete works of Hsu Yun-Tsiao\], vol. 7, edited by Zheng Liangshu 郑良树 .Kuala Lumpur: 马来西亚创价学会, 2015. (From National Library Singapore, call no. Chinese RSING 959.007202 COM)
 
-—.
-
 —. _Bei da nian shi_ [北大年史](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84448723) \[History of Patani\]. \[新加坡\]: 南洋编译所, 1946. (From National Library Singapore, call no. Chinese RCLOS 959.3 HYC-\[HYT\])
 
 —. “Shaonian hanghai jia” 少年航海家 \[The Young Navigator\]. _Ma lai ya shao nian_ [_马来亚少年_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84512172) \[_Young Malayans_\] 1 (1946): 2. (From National Library Singapore, call no. Chinese RCLOS 079.5957 MLYSN-\[HYT\])
