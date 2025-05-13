@@ -39,10 +39,10 @@ sections:
       image: /images/Podcast/William_600_by_400.jpg
       alt: Badang keramat singapore stone
   - infopic:
-      title: My Mother Hedwig Anuar
+      title: My Mother, Hedwig Anuar
       subtitle: People
       id: infopic
-      description: The daughter of Hedwig Anuar reveals a side to the former Director
+      description: The daughter of Hedwig Anuar reveals a side to the former director
         of the National Library that not many people know.
       button: A TRIBUTE TO A MOTHER
       url: /vol-21/issue-2/jul-sep-2025/mother-hedwig-anuar-shirin-aroozoo/
