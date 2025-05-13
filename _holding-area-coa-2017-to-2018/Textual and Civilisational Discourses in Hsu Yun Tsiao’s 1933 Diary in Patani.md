@@ -111,7 +111,7 @@ updated them to include the heroic deeds of common men and women in
 defending the nation.[^15] Drawing on German and Italian Fascism[^16] and their
 “militaristic view of the past”, Luang Wichit’s idea of culture (*watthanatham*)
 saw Thai subjects as part of a civilised nation (*prathet siwilai*) on equal footing
-with Western powers and irrevocably shaped the course of Thai modernity[^17]. 
+with Western powers and irrevocably shaped the course of Thai modernity.[^17] 
 
 Luang Wichit’s 12-volume bestseller *Prawattisat Sakon* [*Universal History*,
 1929–31] impressed Hsu enough for him to translate its sixth and seventh
@@ -661,7 +661,7 @@ news that showed the perils of strongman politics and brinkmanship:
    announced that it would cancel its ban on Chinese schools using<br>
    the textbooks based on the Three People’s Principles (sanmin).<br>
    Only Chinese language hours will be limited. It’s like the Monkey<br>
-   King unable to escape Buddha’s palm!*[^75]
+   King unable to escape Buddha’s palm!*[^76]
 
    **August 6 (sun) 89° in the afternoon, hot, suddenly a typhoon,<br>
    86° in the afternoon, sunny**
