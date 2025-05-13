@@ -18,6 +18,16 @@ sections:
       background: /images/Apr_Jun_2025_hero_images__10___1_.jpg
       variant: center
   - infopic:
+      title: "Pages of Progress: The Toa Payoh Public Library"
+      subtitle: Places and Buildings
+      id: infopic
+      description: Before the Toa Payoh Public Library, the building was used as the
+        secretariat for the 7th SEAP Games.
+      button: THE SECOND BRANCH LIBRARY
+      url: /vol-21/issue-2/jul-sep-2025/toa-payoh-public-library/
+      image: /images/Vol 21 Issue 2/Toa Payoh/Toa_Payoh_Library.jpg
+      alt: The Toa Payoh Public Library
+  - infopic:
       title: Badang the Strongman
       subtitle: Podcast
       id: infopic
@@ -1054,14 +1064,4 @@ sections:
       url: /videos/reels/print/
       alt: Image alt text
       image: "/images/Videos: BiblioAsia Reels/early_print.jpg"
-  - infopic:
-      title: "Pages of Progress: The Toa Payoh Public Library"
-      subtitle: Places and Buildings
-      id: infopic
-      description: Before the Toa Payoh Public Library, the building was used as the
-        secretariat for the 7th SEAP Games.
-      button: THE SECOND BRANCH LIBRARY
-      url: /vol-21/issue-2/jul-sep-2025/toa-payoh-public-library/
-      image: /images/Vol 21 Issue 2/Toa Payoh/Toa_Payoh_Library.jpg
-      alt: The Toa Payoh Public Library
 ---
