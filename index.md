@@ -22,7 +22,7 @@ sections:
       subtitle: Places and Buildings
       id: infopic
       description: Over the last five decades, the library has developed to keep pace
-        ith the changing needs of the residents of Toa Payoh.
+        with the changing needs of the residents of Toa Payoh.
       button: THE SECOND BRANCH LIBRARY
       url: /vol-21/issue-2/jul-sep-2025/toa-payoh-public-library/
       image: /images/Vol 21 Issue 2/Toa Payoh/Toa_Payoh_Library.jpg
