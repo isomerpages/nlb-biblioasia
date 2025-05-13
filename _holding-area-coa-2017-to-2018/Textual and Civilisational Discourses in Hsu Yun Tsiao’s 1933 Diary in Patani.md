@@ -1247,93 +1247,93 @@ Wu Jingxiong 吴经熊. “Sanmin zhuyi he falu” 三民主义和法律 \[The t
 
 [^21]: Christopher John Baker and Pasuk Phongpaichit, [_A History of Thailand_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205941052) (Cambridge: Cambridge University Press, 2009), 127. (From National Library Singapore, call no. RSEA 959.3 BAK)
 
-22 Tang Zhijun 汤志钧 and Tang Renze 汤仁泽, eds., _Liang Qichao quan ji_ [梁启超全集](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12835104) \[Complete works of Liang Qichao\], vol. 3 (北京: 北京出版社, 1999), 1366–368. (From National Library Singapore, call no. Chinese R 085.951 LQC)
+[^22]: Tang Zhijun 汤志钧 and Tang Renze 汤仁泽, eds., _Liang Qichao quan ji_ [梁启超全集](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12835104) \[Complete works of Liang Qichao\], vol. 3 (北京: 北京出版社, 1999), 1366–368. (From National Library Singapore, call no. Chinese R 085.951 LQC)
 
-23 Li Anshang, “Zhongguo huaqiao huaren yanjiu de lishi yu xianzhuang gaishu” in _Huaqiao huaren baike quanshu zong lun juan_ 华侨华人百科全书总论卷 \[Introduction to overseas Chinese encyclopedia\] (2014)
+[^23]: Li Anshang, “Zhongguo huaqiao huaren yanjiu de lishi yu xianzhuang gaishu” in _Huaqiao huaren baike quanshu zong lun juan_ 华侨华人百科全书总论卷 \[Introduction to overseas Chinese encyclopedia\] (2014)
 
-24 Jing Tsu, “Extinction and Adventures on the Chinese Diasporic Frontier,” _Journal of Chinese Overseas_ 2, no. 2 (November 2006): 247–68.
+[^24]: Jing Tsu, “Extinction and Adventures on the Chinese Diasporic Frontier,” _Journal of Chinese Overseas_ 2, no. 2 (November 2006): 247–68.
 
-25 Shelly Chan, [_Diaspora’s Homeland: Modern China in the Age of Global Migration_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203125097) (Durham: Duke University Press, 2018), 63–64 (From National Library Singapore, call no. R 909.0495108 CHA); Tang Xiaobing, “Poetic Revolution, Colonization and Form at the Beginning of Chinese Literature,” in [_Rethinking the 1898 Reform Period: Political and Cultural Change in Late Qing China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11127109), ed. Rebecca E. Karl and Peter Gue Zarrow (Cambridge: Harvard University Press, 2002), 249. (From National Library Singapore, call no. R 951.035 RET)
+[^25]: Shelly Chan, [_Diaspora’s Homeland: Modern China in the Age of Global Migration_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203125097) (Durham: Duke University Press, 2018), 63–64 (From National Library Singapore, call no. R 909.0495108 CHA); Tang Xiaobing, “Poetic Revolution, Colonization and Form at the Beginning of Chinese Literature,” in [_Rethinking the 1898 Reform Period: Political and Cultural Change in Late Qing China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11127109), ed. Rebecca E. Karl and Peter Gue Zarrow (Cambridge: Harvard University Press, 2002), 249. (From National Library Singapore, call no. R 951.035 RET)
 
-26 Benedict Anderson, [_The Spectre of Comparisons: Nationalism, Southeast Asia, and the World_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9123200) (New York: Verso Books, 1998), 30–35. (From National Library Singapore, call no. RSING 320.959 AND)
+[^26]: Benedict Anderson, [_The Spectre of Comparisons: Nationalism, Southeast Asia, and the World_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9123200) (New York: Verso Books, 1998), 30–35. (From National Library Singapore, call no. RSING 320.959 AND)
 
-27 Liao, [_Xuyunqiao pingzhuan_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200449849), 247.
+[^27]: Liao, [_Xuyunqiao pingzhuan_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200449849), 247.
 
-28 Liao, [_Xuyunqiao pingzhuan_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200449849), 244.
+[^28]: Liao, [_Xuyunqiao pingzhuan_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200449849), 244.
 
-29 Ngoi G. P., “Introduction,” in _Liao Wenhui_ _廖文__辉__,_ _Ma xin shixue 80 nian: Cong&nbsp;&nbsp; “nanyang yanjiu” dao “huaren yanjiu”(1930–2009)_ [马新史学80年: 从 “南洋研究” 到 “华人研究”(1930–2009)](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13935560) \[Eighty years of historiography in Malaysia and Singapore: from “Nanyang studies” to “Chinese studies” (1930–2009)\] (Shanghai: Sanlian, 2011) (From National Library Singapore, call no. Chinese RSING 907.20595 LWH); &nbsp;An Huanran 安焕然, “Liubang hui “ma xin shi xue 80 nian” huigu” 刘邦辉 “麻心识学80年” 回顾 \[Review of Lew Bon Hui’s Ma Xin shixue 80 nian\], in _Nanfang daxue xuebao_ [_南方大学学__报_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200356513) \[_Southern University College Academic Journal_\] 2 (2014). (From National Library Singapore, call no. Chinese RSEA 378.595 SUCAJ)
+[^29]: Ngoi G. P., “Introduction,” in _Liao Wenhui_ _廖文__辉__,_ _Ma xin shixue 80 nian: Cong&nbsp;&nbsp; “nanyang yanjiu” dao “huaren yanjiu”(1930–2009)_ [马新史学80年: 从 “南洋研究” 到 “华人研究”(1930–2009)](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13935560) \[Eighty years of historiography in Malaysia and Singapore: from “Nanyang studies” to “Chinese studies” (1930–2009)\] (Shanghai: Sanlian, 2011) (From National Library Singapore, call no. Chinese RSING 907.20595 LWH); &nbsp;An Huanran 安焕然, “Liubang hui “ma xin shi xue 80 nian” huigu” 刘邦辉 “麻心识学80年” 回顾 \[Review of Lew Bon Hui’s Ma Xin shixue 80 nian\], in _Nanfang daxue xuebao_ [_南方大学学__报_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200356513) \[_Southern University College Academic Journal_\] 2 (2014). (From National Library Singapore, call no. Chinese RSEA 378.595 SUCAJ)
 
-30 Haun Saussy and GE Zhaoguang, “Historiography in the Chinese Twentieth Century,” in [_The Oxford Handbook of Modern Chinese Literatures_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202807423), ed. Carlos Rojas and Andrea Bachner (Oxford: Oxford University Press, 2016). (From National Library Singapore, call no. R 895.109005 OXF)
+[^30]: Haun Saussy and GE Zhaoguang, “Historiography in the Chinese Twentieth Century,” in [_The Oxford Handbook of Modern Chinese Literatures_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202807423), ed. Carlos Rojas and Andrea Bachner (Oxford: Oxford University Press, 2016). (From National Library Singapore, call no. R 895.109005 OXF)
 
-31 Chow-Bing Ngeow, Tek Soon Ling and Pik Shy Fan, “Pursuing Chinese Studies Amidst Identity Politics in Malaysia,” _East Asia_ 31, no. 2 (2014): 112.
+[^31]: Chow-Bing Ngeow, Tek Soon Ling and Pik Shy Fan, “Pursuing Chinese Studies Amidst Identity Politics in Malaysia,” _East Asia_ 31, no. 2 (2014): 112.
 
-32 Xu Yunqiao 许云樵, _Shixue tonglun_ [史学通论](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84540406) \[Discourses on Historical Method\] (新加坡: 青年书局, 1966), 1. (From National Library Singapore, call no. Chinese RDTYS 907.2 HYC-\[HYT\])
+[^32]: Xu Yunqiao 许云樵, _Shixue tonglun_ [史学通论](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84540406) \[Discourses on Historical Method\] (新加坡: 青年书局, 1966), 1. (From National Library Singapore, call no. Chinese RDTYS 907.2 HYC-\[HYT\])
 
-33 Xu, [_Shixue tonglun_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84540406), 67.
+[^33]: Xu, [_Shixue tonglun_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84540406), 67.
 
-34 _Journal of M. Descourvieres_, (Thonburi). Dec. 21, 1782, in Launay, _Histoire,_ 309;&nbsp; Luang and Xu, [_Xianluo wang Zheng Zhao zhuan_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202483469), 34.
+[^34]: _Journal of M. Descourvieres_, (Thonburi). Dec. 21, 1782, in Launay, _Histoire,_ 309;&nbsp; Luang and Xu, [_Xianluo wang Zheng Zhao zhuan_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202483469), 34.
 
-35 Liao, [_Xuyunqiao pingzhuan_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200449849), 225, 227, 239.
+[^35]: Liao, [_Xuyunqiao pingzhuan_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200449849), 225, 227, 239.
 
-36 Thak Chaloemtiarana, _Read Till It Shatters: Nationalism and Identity in Modern Thai Literature_ (Canberra, Australia: Australian National University, 2018), 189; Nidhi Eoseewong, _Kanmueang Thai Samai Phrajao Krung Thonburi_ \[Thai politics in the time of the King of Thonburi\] (Bangkok: Silpawatthanatham Press, 1986)
+[^36]: Thak Chaloemtiarana, _Read Till It Shatters: Nationalism and Identity in Modern Thai Literature_ (Canberra, Australia: Australian National University, 2018), 189; Nidhi Eoseewong, _Kanmueang Thai Samai Phrajao Krung Thonburi_ \[Thai politics in the time of the King of Thonburi\] (Bangkok: Silpawatthanatham Press, 1986)
 
-37 Eaksittipong, “Textualizing the ‘Chinese of Thailand,” 201–02.
+[^37]: Eaksittipong, “Textualizing the ‘Chinese of Thailand,” 201–02.
 
-38 Eaksittipong, “Textualizing the ‘Chinese of Thailand,” 218.
+[^38]: Eaksittipong, “Textualizing the ‘Chinese of Thailand,” 218.
 
-39 Wang Gungwu, “Sojourning: The Chinese Experience in Southeast Asia,” in [_Sojourners and Settlers: Histories of Southeast Asia and the Chinese_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8022454), ed. Anthony Reid, Kristine Alilunas-Rodgers and Jennifer Wayne Cushman (St Leonards, NSW: Allen &amp; Unwin, 1996), 10, footnote 11. (From National Library Singapore, call no. RSING 959.004951 SOJ)
+[^39]: Wang Gungwu, “Sojourning: The Chinese Experience in Southeast Asia,” in [_Sojourners and Settlers: Histories of Southeast Asia and the Chinese_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8022454), ed. Anthony Reid, Kristine Alilunas-Rodgers and Jennifer Wayne Cushman (St Leonards, NSW: Allen &amp; Unwin, 1996), 10, footnote 11. (From National Library Singapore, call no. RSING 959.004951 SOJ)
 
-40 Eaksittipong, “Textualizing the ‘Chinese of Thailand,” 220.&nbsp;&nbsp;
+[^40]: Eaksittipong, “Textualizing the ‘Chinese of Thailand,” 220.&nbsp;&nbsp;
 
-41 Benedict Anderson, [_Imagined Communities: Reflections on the Origin and Spread of Nationalism_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3300657) (New York: Verso, 1983). (From National Library Singapore, call no. RUR 320.54 AND)
+[^41]: Benedict Anderson, [_Imagined Communities: Reflections on the Origin and Spread of Nationalism_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3300657) (New York: Verso, 1983). (From National Library Singapore, call no. RUR 320.54 AND)
 
-42 On the parallels, see Anthony Reid and Daniel Chirot, eds., [_Essential Outsiders: Chinese and Jews in the Modern Transformation of Southeast Asia and Central Europe_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8126543) (Seattle: University of Washington Press, 1997) (From National Library Singapore, call no. RSEA 959.004951 ESS)
+[^42]: On the parallels, see Anthony Reid and Daniel Chirot, eds., [_Essential Outsiders: Chinese and Jews in the Modern Transformation of Southeast Asia and Central Europe_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8126543) (Seattle: University of Washington Press, 1997) (From National Library Singapore, call no. RSEA 959.004951 ESS)
 
-43 Thomas E. Greiff, “The Principle of Human Rights in Nationalist China: John C. H. Wu and the Ideological Origins of the 1946 Constitution,” _China Quarterly_ no. 103 (September 1985): 451. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^43]: Thomas E. Greiff, “The Principle of Human Rights in Nationalist China: John C. H. Wu and the Ideological Origins of the 1946 Constitution,” _China Quarterly_ no. 103 (September 1985): 451. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-44 See Wu Jingxiong 吴经熊, “Sanmin zhuyi he falu” 三民主义和法律 \[The three people's principles and the law\], in Falu zhexue yanjiu _法律哲学研究_ \[Legal philosophy research\] (Shanghai: Shanghai chubanshe, 1933)
+[^44]: See Wu Jingxiong 吴经熊, “Sanmin zhuyi he falu” 三民主义和法律 \[The three people's principles and the law\], in Falu zhexue yanjiu _法律哲学研究_ \[Legal philosophy research\] (Shanghai: Shanghai chubanshe, 1933)
 
-45 See Maggie Clinton, _Revolutionary Nativism: Fascism and Culture in China, 1925–1937_ (Durham: Duke University Press, 2017); Marina Svensson, _Debating Human Rights in China: A Conceptual and Political History_ (Lanham, Md.: Rowman and Littlefield, 2002), 176–180.
+[^45]: See Maggie Clinton, _Revolutionary Nativism: Fascism and Culture in China, 1925–1937_ (Durham: Duke University Press, 2017); Marina Svensson, _Debating Human Rights in China: A Conceptual and Political History_ (Lanham, Md.: Rowman and Littlefield, 2002), 176–180.
 
-46 For “wartime rights advocacy”, see Mark Bradley, _The World Reimagined: Americans and Human Rights in the Twentieth Century_ (Cambridge: Cambridge University Press, 2016), 41–69; Rosemary Foot, _Rights Beyond Borders: The Global Community and the Struggle Over Human Rights in China_ (Oxford: Oxford University Press, 2000)
+[^46]: For “wartime rights advocacy”, see Mark Bradley, _The World Reimagined: Americans and Human Rights in the Twentieth Century_ (Cambridge: Cambridge University Press, 2016), 41–69; Rosemary Foot, _Rights Beyond Borders: The Global Community and the Struggle Over Human Rights in China_ (Oxford: Oxford University Press, 2000)
 
-47 Zhou Enlai, “The Plenary Session of the Asian-African Conference,” speech, 19 April 1955, 9–20, Digital Archive Wilson Center.
+[^47]: Zhou Enlai, “The Plenary Session of the Asian-African Conference,” speech, 19 April 1955, 9–20, Digital Archive Wilson Center.
 
-48 For an English translation of Asavabahu, “The Jews of the East”, see Kenneth Parry Landon, [_The Chinese in Thailand_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2463097) (Oxford: Oxford University Press, 1941), 34–39 (From National Library Singapore, call no. RSEA 305.89510593 LAN); Reid and Chirot, [_Essential Outsiders: Chinese and Jews in the Modern Transformation of Southeast Asia and Central Europe_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8126543), 10–11.
+[^48]: For an English translation of Asavabahu, “The Jews of the East”, see Kenneth Parry Landon, [_The Chinese in Thailand_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2463097) (Oxford: Oxford University Press, 1941), 34–39 (From National Library Singapore, call no. RSEA 305.89510593 LAN); Reid and Chirot, [_Essential Outsiders: Chinese and Jews in the Modern Transformation of Southeast Asia and Central Europe_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8126543), 10–11.
 
-49 Landon, [_The Chinese in Thailand_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2463097), 35–36.
+[^49]: Landon, [_The Chinese in Thailand_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2463097), 35–36.
 
-50 Hong, “‘Stranger Within the Gates’: Knowing Semi-Colonial Siam As Extraterritorials,” 327–54; Michael Herzfeld, “The Conceptual Allure of the West: Dilemmas and Ambiguities of Crypto-Colonialism in Thailand,” in [_The Ambiguous Allure of the West: Traces of the Colonial in Thailand_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13368798), ed. Rachel V. Harrison and Peter A. Jackson (Hong Kong: Hong Kong University Press, 2010). (From National Library Singapore, call no. RSEA 959.304 AMB)
+[^50]: Hong, “‘Stranger Within the Gates’: Knowing Semi-Colonial Siam As Extraterritorials,” 327–54; Michael Herzfeld, “The Conceptual Allure of the West: Dilemmas and Ambiguities of Crypto-Colonialism in Thailand,” in [_The Ambiguous Allure of the West: Traces of the Colonial in Thailand_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13368798), ed. Rachel V. Harrison and Peter A. Jackson (Hong Kong: Hong Kong University Press, 2010). (From National Library Singapore, call no. RSEA 959.304 AMB)
 
-51 Xu, Yunqiao 许云樵, _Bei da nian shi_ [北大年史](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84448723) \[History of Patani\] (\[新加坡\]: 南洋编译所, 1946), 126–28. (From National Library Singapore, call no. Chinese RCLOS 959.3 HYC-\[HYT\])
+[^51]: Xu, Yunqiao 许云樵, _Bei da nian shi_ [北大年史](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84448723) \[History of Patani\] (\[新加坡\]: 南洋编译所, 1946), 126–28. (From National Library Singapore, call no. Chinese RCLOS 959.3 HYC-\[HYT\])
 
-52 From 1918 to 1931, Bangkok witnessed a surge of Chinese immigration for its modernisation projects. See Thak Chaloemtiara, “Are We Them? Textual and Literary Representations of the Chinese in Twentieth-Century Thailand,” _Southeast Asian Studies_ 3, no. 3 (December 2014): 475, footnote 1. For King Rama VI’s official nationalism, see Kasian Tejapira, “Imagined Uncommunity: The Lookjin Middle Class and Thai Official Nationalism,” in [_Essential Outsiders: Chinese and Jews in the Modern Transformation of Southeast Asia and Central Europe_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8126543) (Seattle: University of Washington Press, 1997), 75–98. (From National Library Singapore, call no. RSEA 959.004951 ESS)
+[^52]: From 1918 to 1931, Bangkok witnessed a surge of Chinese immigration for its modernisation projects. See Thak Chaloemtiara, “Are We Them? Textual and Literary Representations of the Chinese in Twentieth-Century Thailand,” _Southeast Asian Studies_ 3, no. 3 (December 2014): 475, footnote 1. For King Rama VI’s official nationalism, see Kasian Tejapira, “Imagined Uncommunity: The Lookjin Middle Class and Thai Official Nationalism,” in [_Essential Outsiders: Chinese and Jews in the Modern Transformation of Southeast Asia and Central Europe_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8126543) (Seattle: University of Washington Press, 1997), 75–98. (From National Library Singapore, call no. RSEA 959.004951 ESS)
 
-53 Chaloemtiarana, _Read Till It Shatters: Nationalism and Identity in Modern Thai Literature_, 163.
+[^53]: Chaloemtiarana, _Read Till It Shatters: Nationalism and Identity in Modern Thai Literature_, 163.
 
-54 Wasana Wongsurawat, “Beyond Jews of the Orient: A New Interpretation of the Problematic Relationship Between the Thai State and Its Ethnic Chinese Community,” _Positions: Asia Critique_ 24, no. 2 (May 2016): 555–82.
+[^54]: Wasana Wongsurawat, “Beyond Jews of the Orient: A New Interpretation of the Problematic Relationship Between the Thai State and Its Ethnic Chinese Community,” _Positions: Asia Critique_ 24, no. 2 (May 2016): 555–82.
 
-55 Chaloemtiarana, _Read Till It Shatters: Nationalism and Identity in Modern Thai Literature_, 163.
+[^55]: Chaloemtiarana, _Read Till It Shatters: Nationalism and Identity in Modern Thai Literature_, 163.
 
-56 William T. Rowe, [_China’s Last Empire: The Great Qing_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13226710) (Cambridge: Harvard University Press, 2009), 237 (From National Library Singapore, call no. R 951.03 ROW); See also Stephen R. Platt, [_Provincial Patriots: The Hunanese and Modern_ _Chinese_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13086178) (Cambridge: Harvard University Press, 2007). (From National Library Singapore, call no. R 951.215035 PLA)
+[^66]: William T. Rowe, [_China’s Last Empire: The Great Qing_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13226710) (Cambridge: Harvard University Press, 2009), 237 (From National Library Singapore, call no. R 951.03 ROW); See also Stephen R. Platt, [_Provincial Patriots: The Hunanese and Modern_ _Chinese_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13086178) (Cambridge: Harvard University Press, 2007). (From National Library Singapore, call no. R 951.215035 PLA)
 
-57 Luke S. Kwong, [_A Mosaic of the Hundred Days: Personalities, Politics, and Ideas of 1898_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2941013) (Cambridge, MA: Council on East Asian Studies, Harvard University, 1984). (From National Library Singapore, call no. RCLOS 951.03 KWO-\[GH\])
+[^57]: Luke S. Kwong, [_A Mosaic of the Hundred Days: Personalities, Politics, and Ideas of 1898_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2941013) (Cambridge, MA: Council on East Asian Studies, Harvard University, 1984). (From National Library Singapore, call no. RCLOS 951.03 KWO-\[GH\])
 
-58 Zhang Zhidong 张之洞, “Quanjie shanghai guohui ji chuyang xuesheng wen” 劝诫上海国会及出洋学生文 \[Admonish the Shanghai Congress and students studying abroad\] in _Zhang zhi dong juan_ 张之洞卷 \[Zhang Zhidong Collection\] in 张之洞卷 \[Zhang Zhidong Collection\], vol. 6, ed. Wu Jianjie 吴建杰 (Beijing: China Renmin University Press, 2014), 351–54. &nbsp;
+[^58]: Zhang Zhidong 张之洞, “Quanjie shanghai guohui ji chuyang xuesheng wen” 劝诫上海国会及出洋学生文 \[Admonish the Shanghai Congress and students studying abroad\] in _Zhang zhi dong juan_ 张之洞卷 \[Zhang Zhidong Collection\] in 张之洞卷 \[Zhang Zhidong Collection\], vol. 6, ed. Wu Jianjie 吴建杰 (Beijing: China Renmin University Press, 2014), 351–54. &nbsp;
 
-59 Wang Gungwu, _The Chinese Overseas: From Earthbound China to the Quest for Autonomy_ (Cambridge: Harvard University Press, 2000), 47.
+[^59]: Wang Gungwu, _The Chinese Overseas: From Earthbound China to the Quest for Autonomy_ (Cambridge: Harvard University Press, 2000), 47.
 
-60 Jane Leung Larson, “An Association To Save China, the Baohuang Hui 保皇會: A Documentary Account,” _China Heritage Quarterly_ no. 27 (September 2011)
+[^60]: Jane Leung Larson, “An Association To Save China, the Baohuang Hui 保皇會: A Documentary Account,” _China Heritage Quarterly_ no. 27 (September 2011)
 
-61 Between Kang and Liang, there was already a debate about the advisability of splitting China into a federation of self-governing nations, an idea that Kang thought disastrous from the point of view of maintaining a strong central power.
+[^61]: Between Kang and Liang, there was already a debate about the advisability of splitting China into a federation of self-governing nations, an idea that Kang thought disastrous from the point of view of maintaining a strong central power.
 
-62 The Manchus were a minority and governed a majority of Han subjects. Activism against the Qing was largely driven by ethnic resentments and not political form, it seems, though later historiography effaces this.
+[^62]: The Manchus were a minority and governed a majority of Han subjects. Activism against the Qing was largely driven by ethnic resentments and not political form, it seems, though later historiography effaces this.
 
-63 See Joshua A. Fogel and Peter G. Zarrow, eds., _Imagining the People: Chinese Intellectuals and the Concept of citizenship, 1890–1920_ (London: M. E. Sharpe, 1997)
+[^63]: See Joshua A. Fogel and Peter G. Zarrow, eds., _Imagining the People: Chinese Intellectuals and the Concept of citizenship, 1890–1920_ (London: M. E. Sharpe, 1997)
 
-64 Aaron William Moore, [_Writing War: Soldiers Record the Japanese Empire_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200173397) (Cambridge: Harvard University Press, 2013), 48. (From National Library Singapore, call no. R 940.5352072 MOO-\[WAR\])
+[^64]: Aaron William Moore, [_Writing War: Soldiers Record the Japanese Empire_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200173397) (Cambridge: Harvard University Press, 2013), 48. (From National Library Singapore, call no. R 940.5352072 MOO-\[WAR\])
 
-65 Will Peyton, “Wellington Koo, Mukden and Multilateralism,” _China Story Journal_ (4 September 2016), accessed Australian National University.
+[^65]:  Will Peyton, “Wellington Koo, Mukden and Multilateralism,” _China Story Journal_ (4 September 2016), accessed Australian National University.
 
 66 Peyton, “Wellington Koo, Mukden and Multilateralism.”
 
