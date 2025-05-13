@@ -879,7 +879,7 @@ transport lines that were cut by the resulting chaos:
    lines have been cut, the situation is serious, the government’s<br>
    declaration to subdue the rebel groups within two days is not<br>
    tenable. Today I translated The History of Pattani Province, and<br>
-omitted half of it*. [p. 269]
+   omitted half of it*. [p. 269]
 
    **十月十八日（水）晴热夜83°**<br><br>
    暹罗变乱，影响交通，马来联邦邮车祗能通至巴真武里，应该处已为叛<br>
