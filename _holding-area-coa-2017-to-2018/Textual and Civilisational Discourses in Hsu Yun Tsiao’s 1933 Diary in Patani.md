@@ -452,15 +452,15 @@ Caichang’s Independence Army (*zili jun*).[^56] Incidentally, the Independence
 Army Uprising received the financial support of the *baohuang hui*
 (Restoration Party), founded by Kang Youwei and his reform-minded
 students such as Liang Qichao after their escape to Tokyo following the
-failed Hundred Days’ Reform (*wuxu bianfa*) of 1898.57 In his 23 April 1933
+failed Hundred Days’ Reform (*wuxu bianfa*) of 1898.[^57] In his 23 April 1933
 diary entry, Hsu cites the end of Zhang Zhidong’s written proclamation,
 “Exhorting the Shanghai Congress and Students Abroad” (*quanjie Shanghai
 guohui ji chuyang xuesheng wen*), which blamed the uprising on the Kang
 clique and asserted the Qing’s support for overseas Chinese students in
-Japan and elsewhere like Southeast Asia.58 It is worth mentioning that only
+Japan and elsewhere like Southeast Asia.[^58] It is worth mentioning that only
 recently had “huaqiao” become a prestigious group relied upon for domestic
 political and financial needs after its denigration during China’s long history
-of banning outward migration and private maritime trade.59 When Zhang
+of banning outward migration and private maritime trade.[^59] When Zhang
 admonishes, “Ah, Kang and Liang, be careful not to make China Jewish”,
 it is unclear if he was cautioning against making the diaspora dominant
 in Chinese affairs, or identifying the Chinese with their diaspora, or even
@@ -468,20 +468,20 @@ emptying out China through outward migration. Either way, he suggests
 that the Qing was capable of governing an actual nation-state, which the
 Jews lacked, and should not suffer the reformists’ campaign as far as Canada,
 Hawaii, Japan and the U.S. to portray “China’s plight as a nation too weak
-and backward to protect its emigrants from discrimination abroad”.60
+and backward to protect its emigrants from discrimination abroad”.[^60]
 
 Arguing that Kang Youwei’s reformist reading of the *Gongyang
 Commentary on the Spring and Autumn Annals* (*Chunqiu*) to address the
 Qing political crises was wrong, Zhang Zhidong seems to claim that the present order under the Qing was the only possible one if China was to
-avoid breaking up and colonisation.61 Of course, there is some irony in
+avoid breaking up and colonisation.[^61] Of course, there is some irony in
 the fact that an ethnic minority was ruling China at the time and that
 much of the resentment against Qing rule was cast as a quasi-democratic
-revolt of the Han majority.62 This majority/minority dynamic certainly
+revolt of the Han majority.[^62] This majority/minority dynamic certainly
 complicates the use of the label “Jew”. Zhang’s speech was part of his
 harried attempt to re-establish diplomatic relations, via Chinese embassies
 in Britain and Japan, with foreign nations of the Eight Nation Alliance,
 in the wake of the Qing’s ill-fated support of the anti-foreign, anti-colonial
-Boxer Rebellion (1899–1901).63 Thirty years later, for Hsu to frame
+Boxer Rebellion (1899–1901).[^63] Thirty years later, for Hsu to frame
 the perils of Chinese diaspora in terms of China’s eroded international
 standing due to domestic revolts against the Qing and imperial nations,
 and specifically, via pro-and anti-Empress Dowager factions in the history
@@ -499,8 +499,8 @@ the League of Nations’s due process in guaranteeing Chinese national
 sovereignty at Geneva. The Japanese seizure of Manchuria (1931–32), or
 the Mukden Incident, followed by the invasion of Shanghai (1932) and the
 Treaty of Tanggu (1933), where “Chiang was forced to abandon any armed
-resistance against the establishment of Japanese-controlled Manchukuo to the north”, were presented by Japanese imperial propaganda as necessary measures to liberate the Manchurians from the oppressive Chinese warlord regimes of Zhang Zuolin (1916–28) and his son Zhang Xueliang (1928–31).64 “Even foreign observers in China mockingly commented on
-China’s attempts to appeal to Geneva for help”.65 Hsu’s diary entry on
+resistance against the establishment of Japanese-controlled Manchukuo to the north”, were presented by Japanese imperial propaganda as necessary measures to liberate the Manchurians from the oppressive Chinese warlord regimes of Zhang Zuolin (1916–28) and his son Zhang Xueliang (1928–31).[^64] “Even foreign observers in China mockingly commented on
+China’s attempts to appeal to Geneva for help”.[^65] Hsu’s diary entry on
 the Kwantung Army’s capture of Shanhaiguan Pass at the Great Wall
 on 3 January 1933, which ended in the inner Mongolian province Rehe’s
 annexation to Manchukuo two months later, echoes this sentiment:
@@ -520,7 +520,7 @@ International opinion unexpectedly swung in China’s favour. Based on the
 1932 Lytton Commission report that recommended “shared sovereignty over
 Manchuria”, China’s newly minted Minister to France, Wellington Koo,
 presented China’s case at Geneva and successfully argued that Manchukuo
-was “an unequivocal violation of China’s national sovereignty”.66 As a result
+was “an unequivocal violation of China’s national sovereignty”.[^66] As a result
 of Koo’s appeal to multilateral diplomacy and international law to resolve
 the crisis, the League of Nations, in a special assembly on 25 February 1933,
 voted nearly unanimously not to recognise Manchukuo, with only Siam
@@ -531,7 +531,7 @@ with Japan as a worrying development for the “overseas Chinese” in Siam.
 
 Indeed, the League of Nations had a dismal record on the issue of minority
 rights: in 1928, it upheld “the principle of national sovereignty in response
-to petitions about racial discrimination”67; and in 1925, 1930 and 1932,
+to petitions about racial discrimination”[^67]; and in 1925, 1930 and 1932,
 it “rejected proposals to obligate all members to guarantee the rights of
 minorities”. Hsu further connected Geneva’s unsettling failure to resolve
 the Mukden Incident with the counter-revolutionary aftershocks of the 1932
@@ -551,7 +551,7 @@ ethnic notions of the nation-state:
    the Japanese, I really fear this will be my misfortune soon! Nantong<br> 
    said: there are papers to sign in Thai when I get married. Hsu was<br> 
    getting married to Jingmei, but because of the bombing of Suzhou,<br> 
-   they could not celebrate.68 (p. 66)*
+   they could not celebrate. (p. 66).*[^68]
 
    **二月二十七日（月）午后89°夜83°**<br> <br> 
    报载：国联十九国报告书__决通过，但暹代表不举手，后日人大加赞<br> 
@@ -574,15 +574,15 @@ soon” were mediated via a telegram sent to a Penang newspaper in the
 Straits Settlements. The exceptional feature of Hsu’s 1933 diary – the
 longest of the five volumes at 400 pages, written in classical Chinese
 and sometimes illegible handwriting – is its vast expression of “lifewriting”
-by an aspiring historian who also wrote literature (e.g. classicalstyle
+by an aspiring historian who also wrote literature (e.g. classical-style
 poems), interpreted historical events through the lens of literary
 history, and pioneered the genre of Nanyang “anecdotal histories”
 (*shihua*), which he later popularised through brief radio lectures and
-extracurricular “textbooks” on Nanyang histories in postwar Singapore.69
+extracurricular “textbooks” on Nanyang histories in postwar Singapore.[^69]
 To overcome the belatedness or perceived deficiency of his “diasporic
 time”, Hsu mixes historical and anachronistic registers to make sense of
 his transient residence in Pattani in 1933, and in doing so, updates the
-Chinese tradition of diary keeping.70
+Chinese tradition of diary keeping.[^70]
 
 #### **The Paracel Islands Dispute**
    **May 16 (fire) 83° at night, hot day**<br><br>
@@ -608,7 +608,7 @@ Pan-Asianism, according to Okakura Tenshin and others later inspired
 by Russia’s defeat by Japan (1905) such as Sun Yat-sen and Bengali
 poet Rabindranath Tagore, proposed a united Asia to fight European
 imperialism. Incidentally, Hsu’s first publication, a chapbook of poems,
-*Fu Yun* (*Floating Clouds*) was written in imitation of Zheng Zhenduo’s 1922 translation of Tagore’s *Stray Birds* (*Feiniao ji*, 1916).71 In 1933, Hsu
+*Fu Yun* (*Floating Clouds*) was written in imitation of Zheng Zhenduo’s 1922 translation of Tagore’s *Stray Birds* (*Feiniao ji*, 1916).[^71] In 1933, Hsu
 was presciently skeptical of Japan’s leadership of a Greater Asia. Given a
 “new lease on life”, this form of pan-Asianism would soon become Japan’s
 rationale for military aggression for a Greater East Asian Co-Prosperity
@@ -622,7 +622,7 @@ Paracel Islands dispute.
 
 As in the Manchukuo incident, then as now, China based its claims over
 island chains such as the Paracels (*Xisha* or western sands) and Spratlys
-(*Nansha* or southern sands) on historic right.72 Even before the Sino-French
+(*Nansha* or southern sands) on historic right.[^72] Even before the Sino-French
 war (1884–85), when the Qing conceded Annam and Tonkin (Vietnam) to
 the French, who then consolidated their presence in the region, the Paracels
 had a long, complex diplomatic history of expedition and settlement that
@@ -634,13 +634,13 @@ the 1920s. French occupation of this so-called *terra nullius* was gradual at
 first. Its government formally claimed and annexed the Paracels to Annam
 in 1932, and the Spratlys to Cochinchina in 1933, which set off modern
 sovereignty claims by Japan, Vietnam, China, as well as Malaysia, Taiwan,
-and the Philippines, which continue to this day.73
+and the Philippines, which continue to this day.[^73]
 
 Hsu followed the Paracels dispute closely in his 1933 diary, and published an
 essay, “The Disgraceful History of Pattle (*Shanhu*) Island”, in the biweekly
-Suzhou-based magazine, *Shanhu* (1932–34), co-founded by Fan Yanqiao after the Mukden Incident.74 In an earlier issue, Hsu had published “The
+Suzhou-based magazine, *Shanhu* (1932–34), co-founded by Fan Yanqiao after the Mukden Incident.[^74] In an earlier issue, Hsu had published “The
 Myth of San Bao Gong (Zheng He) in Southeast Asia”, a topic on which he
-expanded.75 These two early examples of Hsu’s Nanyang studies responded to
+expanded.[^75] These two early examples of Hsu’s Nanyang studies responded to
 the threat to China’s maritime sovereignty. But during this bitter commotion,
 Hsu made room for more positive news. For instance, he notes Siam’s
 prize-winning display of modernity at the World’s Grain Conference and
@@ -659,9 +659,9 @@ news that showed the perils of strongman politics and brinkmanship:
    I heard that the top prize was won by the display by Bangkok’s<br>
    nearby government experimental factory. Siam already formally<br>
    announced that it would cancel its ban on Chinese schools using<br>
-   the textbooks based on the Three People’s Principles (sanmin).76<br>
+   the textbooks based on the Three People’s Principles (sanmin).<br>
    Only Chinese language hours will be limited. It’s like the Monkey<br>
-   King unable to escape Buddha’s palm!*
+   King unable to escape Buddha’s palm!*[^76]
 
    **August 6 (sun) 89° in the afternoon, hot, suddenly a typhoon,<br>
    86° in the afternoon, sunny**
@@ -714,7 +714,7 @@ news that showed the perils of strongman politics and brinkmanship:
 	 
 The layers of politics and erudition in Hsu’s diary evoke “a thick
 transregionalism, a spatially expansive yet integrative account of a mobile
-society”.77 Hsu’s diary urgently shapes and consolidates his public response
+society”.[^77] Hsu’s diary urgently shapes and consolidates his public response
 to the evolving relationship between Siam and China, and interwar
 modernity. In the next section, I will consider how the genre of the diary
 allows older ideas of diasporic nationalism to converge with Hsu’s “minorpeninsular”
@@ -724,16 +724,16 @@ histories and of observing the Bowaradej (royalist) rebellion from afar.
 #### **Hsu’s Minor-Peninsular Patani: Literature, Politics and Religion**
 Prince Damrong’s histories, which Hsu admired, said that Patani “belonged
 to the Thai [kingdom] since time immemorial [… which] presumably
-refers to the Sukhothai kingdom, the first recognised “Thai” kingdom”.78
+refers to the Sukhothai kingdom, the first recognised “Thai” kingdom”.[^78]
 But Patani was an autonomous territory before it was colonised by
 Bangkok: “the 1909 Anglo-Siamese treaty marked the formal transfer of
 authority to Bangkok in return for the abandoning of Siamese claims to
-Kedah, Kelantan, and the Malay states further south”.79 In the 1930s, the
+Kedah, Kelantan, and the Malay states further south”.[^79] In the 1930s, the
 encroachment of the Thai imperial project, which combined Theravada
 Buddhism with “European forms of institutional and legal modernity”
 affected Siam’s large Chinese minority but left Jawi-speaking Malay-
 Muslims in its southern provinces of Pattani, Yala and Narathiwat relatively
-untouched.80 Islamic law on polygamy and inheritance, for example,
+untouched.[^80] Islamic law on polygamy and inheritance, for example,
 was administered as private law so that Malay-Muslims could become
 Thai subjects and citizens. A few years later they became the targets for
 assimilation in cultural, linguistic, education and legal terms.
@@ -744,12 +744,12 @@ acknowledging the importance of Chinese sources, new scholarship also
 addresses the recent spate of ethnoreligious violence in the region. Anthony
 Reid has described the Thai South and Malay North as a “plural peninsula”,
 whose “polycultural” nature meant that differences ought to be explained
-by “specific historical dynamics rather than superficial ethnic distinctions”.81
+by “specific historical dynamics rather than superficial ethnic distinctions”[^81].
 Since the 16th century, the cosmopolitan Patani has been “the kind of base
 for the Chinese Southeast Asian trade that Bangkok, Batavia and Singapore
-later became, with its ships sailing throughout the Archipelago as far as Makassar, and to Ayuthaya and Hoi An”.82 In fact, the “importance of
+later became, with its ships sailing throughout the Archipelago as far as Makassar, and to Ayuthaya and Hoi An”.[^82] In fact, the “importance of
 Patani for the Chinese trade in the early 17th century made the Kedah-
-Patani portage also attractive as a journey of about 10 days”.83 Sojourning
+Patani portage also attractive as a journey of about 10 days”.[^83] Sojourning
 a few centuries later, the Suzhou-born historian Hsu was sensitive to this
 as he taught in Patani and witnessed Siam’s tumultuous constitutional
 struggle and ethnonationalist shaping of the nation. As Hsu reconstructed
@@ -758,33 +758,33 @@ sources, he filtered it through the lens of diasporic nationalism, that is, his
 homeland’s civilisational mission of overseas Chinese education and wartime
 mobilisation effort against the Japanese. Patani indigeneity, as such, emerges
 through Hsu’s obsessive archival work of textual histories rather than an
-observation of present-day local customs.84
+observation of present-day local customs.[^84]
 
 This counter-temporal layer of politics and erudition in Hsu’s diary is
 “plural”, but not in Reid’s sense. I choose the term “minor-peninsular” to
 evoke Hsu’s Patani, whose “thick transregionalism, a spatially expansive yet
 integrative account of a mobile society”, functions according to diasporic
-scales and agencies.85 Hence, Hsu’s tracing of Chinese migrant knowledge
+scales and agencies.[^85] Hence, Hsu’s tracing of Chinese migrant knowledge
 and sojourner activism understands local Patani histories in a triangulated
 way. In his short story “The Young Navigator” (1946), Hsu reconstructs
 the trauma of Chinese diaspora in the Asia-Pacific war through the eyes of
 a small boy who flees by boat from Selat (Singapore) through Songkhla,
 Kuantan, Kelantan and Terengganu, hiding at their “peninsular ports”
-that escaped the reach of empires.86 Hsu even used Hokkien phrases such
+that escaped the reach of empires.[^86] Hsu even used Hokkien phrases such
 as* jiu baxing*, a reference to an important river transport hub in Fuzhou,
 China whose complex system involved pricing goods for foreign customers
 at 98 percent. Fusing the “heroic figures” of Robinson Crusoe and the famous Ming admiral and Muslim eunuch Zheng He’s voyages with
 Malay *merantau* (wandering) culture, Hsu’s survivor’s tale has a naïve,
 ethnographic realism that grounds the adventurous child’s perseverance
-in the militarised war economy. Hsu wrote another story about Japaneseoccupied
-Singapore, narrated through the eyes of a baby chicken.87
+in the militarised war economy. Hsu wrote another story about Japanese-occupied
+Singapore, narrated through the eyes of a baby chicken.[^87]
 
 Indeed, Hsu’s creative work relied heavily on his research on maritime
 circulations. After leaving Siam in 1938, Hsu continued his Thai studies in
 Singapore. He published the short story “Dufu” (Ferryman) by Thai female
 social realist writer K. Surangkhanang (given name Kanha Kiangsiri, 1911–
 99), translated into Mandarin by Ye Yi, in the journal he edited, *Nanyang
-Miscellany* (*Nanyang zazhi*, 1948).88 Volume 1:4 (1946) contained short
+Miscellany* (*Nanyang zazhi*, 1948).[^88] Volume 1:4 (1946) contained short
 essays about Patani and Thai customs, as well as a travel account of Malaya
 and Thailand (“Ma Xian jixing”), making it easy to conclude that Hsu
 saw southern Thailand as continuous with the Malay peninsula. In a short
@@ -802,7 +802,7 @@ paragraph titled “The Historical Status of Patani” from his anecdotal histor
    time, Johor’s state presence was far less than Patani’s. The reign<br> 
    of the queens was methodical. They had a close relationship with<br> 
    Johor and Pahang, but also used military strength [to fight off<br> 
-Siamese invasions].*89
+Siamese invasions].*[^89]
 
 Defined neither by capital flows between Shanghai, Hong Kong and
 Singapore, nor the mainland writer’s exotic desire for the tropics during
@@ -811,7 +811,7 @@ routes used by traders and “pirates”, and occasionally, the orphan child.
 Focused on the high seas, Hsu’s history-writing inverts what Wang Gungwu
 calls an “earthbound continental” mindset, or the neo-Confucian ideology
 of agrarian dedication, that dominates imperial histories, oriented along
-a North-central axis, and the genealogies of southern elite families alike.90
+a North-central axis, and the genealogies of southern elite families alike.[^90]
 In his diary, Hsu fixates on the story of the Teochew pirate (*wokou*) Lin
 Daoqian, who attacked the coasts of Fujian and Guangdong when private
 trade with foreign merchants was outlawed during the Ming, and escaped
@@ -834,16 +834,16 @@ founder of local Chinese identity and fortune), became a hero for the
 Chinese of Singapore and Malaysia”. Hsu describes in detail in his diary a
 festivity at Lim Ko Niao’s shrine in Pattani, and thus gives a hint of why it
 appeals to today’s “cross-border religious tourism” and its view that southern
-Thailand is “a substitute Chinese homeland”.91
+Thailand is “a substitute Chinese homeland”.[^91]
 
 In October 1933, Hsu finished his essay, “A Study of Lin Daoqian’s Brief
-Time in Patani”, and had it published in *Dongfang zazhi* in January 1935 (Vol. 32) [v. 2: 282].92 He was proud to correct the mistake in Chinese
+Time in Patani”, and had it published in *Dongfang zazhi* in January 1935 (Vol. 32) [v. 2: 282].[^92] He was proud to correct the mistake in Chinese
 annals that mixed up Brunei (*boni*) with Pattani (*dani*). In his later *History
 of Patani*, Hsu examined Patani’s port-city connections to southern China,
 Japan, as well as Portuguese traders during the age of commerce (1450–
 1680). He also included an appendix of biographies about nine Chinese
 traders or “pirates” who ended up in Patani, such as the aforementioned Lin
-Daoqian and Wang Dayuan.93 A counterpoint to the magisterial histories of
+Daoqian and Wang Dayuan.[^93] A counterpoint to the magisterial histories of
 Zheng He’s expeditions, Hsu’s biographies of swashbuckling seafarers recall
 Liang Qichao’s eight settler colonialists, but also pioneered the local history
 of Chinese in Patani.
@@ -861,7 +861,7 @@ and not with minority populations as such. As Sharon Carstens notes, Hsu’s
 foreword to the first issue of *Journal of the South Seas* (1940) “laid out the
 goals of the publication, chief among which was a desire to utilise Chinese
 culture and scholarship to increase respect for the overseas Chinese, who
-were too often characterised as the ‘Jews of the Orient’”.94 Hsu’s minorpeninsular
+were too often characterised as the ‘Jews of the Orient’”.[^94] Hsu’s minor-peninsular
 Patani emerges most vividly in his detailed accounts of the
 Bowaradej (royalist) rebellion of October 1933. After the unsuccessful coup
 d’état of 20 June 1933, Prince Bowaradej (1877–1947), financed by King Prajadhipok, who had retreated to Hua Hin and later Songkhla [v. 2: 66,
@@ -920,7 +920,7 @@ nationalist cause and hence not to be considered a “collaborationist” or
 transformed his consciousness to act in his own ways while being far away
 from his hometown of Suzhou, China. Hsu’s personal diary recalls the
 prized genre of loyalist resistance and moral self-reflection by late-Ming
-literati opposing the traumatic Qing transition.95 Perhaps after the 1930s the
+literati opposing the traumatic Qing transition.[^95] Perhaps after the 1930s the
 reason for diary-writing faded. After Hsu moved to Singapore in 1938, his
 collaboration with “southbound intellectuals” (*nanlai wenren*) to research
 and publish works through the South Seas Society was interrupted by the
@@ -960,18 +960,18 @@ Naturally, the postwar history of Nanyang archives and scholarly societies
 would be more familiar to readers. Based mainly at the aforementioned
 Nanyang University (1956–80), the first Chinese-language university
 in Southeast Asia, Nanyang Studies crystallised a scholarly generation’s
-interests in the region they called “home”.96 Notably, Nanyang University
+interests in the region they called “home”.[^96] Notably, Nanyang University
 (or Nantah) graduates majoring in history and geography fondly recall
 their ethnographic trip to India, which Hsu led in 1959. Hsu wrote a parttravel
 memoir, part-cultural-religious history titled *Travels to India* (1964),
 and published it as one of 12 books in the Afro-Asian book series (*Ya Fei
 congshu*) he edited for Singapore’s Youth Bookstore (*Qingnian shuju*, 1955– ),
-which was founded by Chen Mong Chea (Chen Mengzhe, 1920–2016).97
+which was founded by Chen Mong Chea (Chen Mengzhe, 1920–2016).[^97]
 Incidentally, the publication of this series was related to the opening of
-Nanyang University. The books were used as textbooks, so they sold well and underwent a second print run.98 This was around the time that Chief
+Nanyang University. The books were used as textbooks, so they sold well and underwent a second print run.[^98] This was around the time that Chief
 Minister Lim Yew Hock’s government banned the import of all publications
 from China (1958), and local publishers cornered the Malayan market in
-Chinese-language publishing.99 Other well-known book series include the
+Chinese-language publishing.[^99] Other well-known book series include the
 *Singaporean and Malayan Literature and Art* book series (*Xin Ma wenyi
 congshu*) and *Literature from the South* (*Nanfang wencong*), which launched
 the careers of many local writers, such as Han Suyin, Ly Singko (Li Xingke),
@@ -981,7 +981,7 @@ Rong.
 Folk historians (*minjian xueren*) wistfully narrate the rise and decline of
 Nanyang Studies in Singapore (1940–81), and view Hsu’s passing in 1981 as
 marking the end of an era. After 1981, Nanyang Studies took a turn toward
-ethnic Chinese studies.100 This calls for an explanation. Nanyang University
+ethnic Chinese studies.[^100] This calls for an explanation. Nanyang University
 (1956–80), the first Chinese-language university in Southeast Asia, was
 forcibly closed around that time, to meet the Singapore government’s
 globalising efforts in English. The centre of gravity for overseas Chinese
@@ -990,7 +990,7 @@ and National University of Singapore. No studies pursued in Chinese
 thereafter could escape questions of ethnic identity. The shift from diasporic
 to local Malayan identities in postwar Nanyang publications, perhaps,
 creates a paradoxical, uneasy feeling where scholars celebrate creolisation but
-wonder if it is attached to the heavy cost of assimilation.101 Hsu’s creolised,
+wonder if it is attached to the heavy cost of assimilation.[^101] Hsu’s creolised,
 anti-assimilationist stance in Nanyang studies is worth revisiting. Fledging
 and open to varied intellectual trends and genealogies, his interwar Nanyang
 studies imagined a different outcome, and it is important that we do not
