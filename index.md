@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: vol-21/issue-1/apr-jun-2025/liu-kang-forgotten-photographs-bali/
-      button: Forgotten Photographs of the 1952 Bali Trip
+      url: vol-20/issue-3/oct-dec-2024/wat-ananda-metyarama-thai-buddhist-temple/
+      button: At Wat Ananda, Thai Buddhism with a Singaporean Twist
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Apr_Jun_2025_hero_images__10___1_.jpg
+      background: /images/Wat_Ananda.jpg
       variant: center
   - infopic:
       title: "Pages of Progress: The Toa Payoh Public Library"
