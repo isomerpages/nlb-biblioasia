@@ -1010,3 +1010,401 @@ and introduces in this essay. His biographical approach to Hsu’s work aims to 
 the discipline’s periodisation, historical method and melancholic narrative of Nanyang
 studies’ rise and decline (1940–81).
 </div>
+
+#### **REFERENCES** 
+
+Amirell, Stefan. “The Blessings and Perils of Female Rule: New Perspectives on the Reigning Queens of Patani, c. 1584–1718.” _Journal of_ _Southeast Asian Studies_ 42, no. 2 (June 2011): 303–23. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Anderson, Benedict. [_Imagined Communities: Reflections on the Origin and Spread of Nationalism_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3300657). New York: Verso, 1983. (From National Library Singapore, call no. RUR 320.54 AND)
+
+—. [_The Spectre of Comparisons: Nationalism, Southeast Asia, and the_ World](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9123200). New York: Verso Books, 1998. (From National Library Singapore, call no. RSING 320.959 AND)
+
+—. “Riddles of Yellow and Red,” _New Left Review_ 97 (January–February 2016)
+
+An, Huanran 安焕然, “Liubang hui “ma xin shi xue 80 nian” huigu” 刘邦辉 “麻心识学80年” 回顾 \[Review of Lew Bon Hui’s Ma Xin shixue 80 nian\], in _Nanfang daxue xuebao_ [_南方大学学__报_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200356513) \[_Southern University College Academic Journal_\] 2 (2014). (From National Library Singapore, call no. Chinese RSEA 378.595 SUCAJ)
+
+Baker, Christopher John and Pasuk Phongpaichit, [_A History of Thailand_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205941052). Cambridge: Cambridge University Press, 2009. (From National Library Singapore, call no. RSEA 959.3 BAK)
+
+Barmé, Scot. [_Luang Wichit Wathakan and the Creation of a Thai Identity_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6420897). Singapore: Institute of Southeast Asian Studies, 1993. (From National Library Singapore, call no. RSEA 959.304 BAR)
+
+Bradley, Mark. _The World Reimagined: Americans and Human Rights in the Twentieth Century_. Cambridge: Cambridge University Press, 2016.
+
+Carstens, A.Sharon, “Chinese Publications in Singapore and Malaysia.” In [_Changing Identities of the Southeast Asian Chinese Since World War II_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5179303), edited by Jennifer Cushman and Wang Gungwu. Hong Kong: Hong Kong University Press, 1988, 75–96. (From National Library Singapore, call no. RSING 305.8951059 CHA)
+
+Cassese, Antonio. _Human Rights in a Changing World_. Philadelphia, PA: Temple University Press, 1990.
+
+Chaloemtiara, Thak. “Are We Them? Textual and Literary Representations of the Chinese in Twentieth-Century Thailand.” _Southeast Asian Studies_ 3, no. 3 (December 2014): 475–526.
+
+—. “Move Over, Madonna: Luang Wichit Wathakan’s Huang Rak Haew Luk,” in [_Southeast Asia Over Three Generations: Essays Presented to Benedict R. O’Gorman Anderson_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12268239), edited by James T. Siegel and Audrey R. Kahin. Ithaca, New York: Southeast Asia Program Publications, 2003. (From National Library Singapore, call no. RSEA 959.SOU)
+
+—. _Read Till It Shatters: Nationalism and Identity in Modern Thai Literature_. Canberra, Australia: Australian National University, 2018.
+
+Chan, Shelly. [_Diaspora’s Homeland: Modern China in the Age of Global Migration_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203125097). Durham: Duke University Press, 2018. (From National Library Singapore, call no. R 909.0495108 CHA)
+
+Chantavanich, Supang and Anusorn Limmanee. “From Siamese-Chinese to Chinese-Thai: Political Conditions and Identity Shifts Among the Chinese in Thailand.” In [_Ethnic Chinese As Southeast_ _Asians_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8188408), edited by Leo Suryadinata_._ Singapore: Institute of Southeast Asian Studies, 1997. (From National Library Singapore, call no. RSING 305.8951059 ETH)
+
+Chen, M. “Zaoqi xin ma huawen shuju cujin xianggang chuban ye de chengzhang” 早期新马华文书局促进香港出版业的成长 \[Early Singaporean and Malayan bookstores encouraging the growth of Hong Kong’s publishing industry\], _Yihe shiji_ [怡和世纪](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13780998) \[Jardine century\] no. 24 (October 2014–January 2015). (From National Library Singapore, call no. Chinese R 369.25957 OPEHHC)
+
+Chonlaworn, Piyada. “Contesting Law and Order: Legal and Judicial Reform in Southern Thailand in the Late Nineteenth to Early Twentieth Century,” _Southeast Asian Studies_ 3, no. 3 (December 2014): 527–46, accessed Kyoto University Research Information Repository.
+
+Clinton, Maggie. _Revolutionary Nativism: Fascism and Culture in China, 1925–1937_. Durham: Duke University Press, 2017.
+
+Eaksittipong, Sittihep. “Textualizing the ‘Chinese of Thailand’: Politics, Knowledge, and the Chinese in Thailand During the Cold War.” PhD. Diss., National University of Singapore, 2017.
+
+Eoseewong, Nidhi. _Kanmueang Thai Samai Phrajao Krung Thonburi_ \[Thai politics in the time of the King of Thonburi\]. Bangkok: Silpawatthanatham Press, 1986.
+
+Fong, Grace. “Writing From Experience: Personal Records of War and Disorder in Jiangnan During the Ming-Qing Transition.” In [_Military Culture in Imperial China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13184561), edited by Nicola Di Cosmo. Cambridge: Harvard University Press, 2009, 257–77. (From National Library Singapore, call no. R 306.270951 MIL)
+
+Foot, Rosemary. _Rights Beyond Borders: The Global Community and the Struggle Over Human Rights in China_. Oxford: Oxford University Press, 2000.&nbsp;
+
+Gesick, Lorraine. “The Rise and Fall of King Taksin: A Drama of Buddhist Kingship,” in [_Centers, Symbols, and Hierarchies: Essays on the Classical States of Southeast Asia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2873278), edited by Lorraine Gesick. New Haven: Yale University Southeast Asia Studies, 1983, 87–105. (From National Library Singapore, call no. RSEA 959.CEN)
+
+Greiff, Thomas. “The Principle of Human Rights in Nationalist China: John C. H. Wu and the Ideological Origins of the 1946 Constitution.” _China Quarterly_ no. 103 (September 1985): 441–461. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Fogel, Joshua and Peter G. Zarrow, eds., _Imagining the People: Chinese Intellectuals and the Concept of citizenship, 1890–1920_. London: M. E. Sharpe, 1997. &nbsp;
+
+Hayton, Bill. “China’s ‘Historic Rights’ in the South China Sea: Made in America?” _Diplomat_ (21 June 2016).
+
+Herzfeld, Michael. “The Conceptual Allure of the West: Dilemmas and Ambiguities of Crypto-Colonialism in Thailand.” In [_The Ambiguous Allure of the West: Traces of the Colonial in Thailand_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13368798), edited by Rachel V. Harrison and Peter A. Jackson. Hong Kong: Hong Kong University Press, 2010. (From National Library Singapore, call no. RSEA 959.304 AMB)
+
+Ho, Engseng. “Empire Through Diasporic Eyes: A View From the Other Boat.” _Society for Comparative Study and History_ 46, no. 2 (April 2004): 210–46. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+—. “Inter-Asian Concepts for Mobile Societies.” _Journal of Asian Studies_ 76, no. 4 (November 2017): 907–928, accessed Duke University website.
+
+Hong, Lysa. “Stranger Within the Gates”: Knowing Semi-Colonial Siam As Extraterritorials.” _Modern Asian Studies_ 38, no. 2 (May 2004): 327–54. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Ibrahim Syukri, [_History of the Malay Kingdom of Patani_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12585505). Chiang Mai: Silkworm Books, 2005. (From National Library Singapore, call no. RSEA 959.3 IBR)
+
+Jerryson, K. Michael. [_Buddhist Fury: Religion and Violence in Southern Thailand_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14259960). &nbsp;Oxford: Oxford University Press, 2011. (From National Library Singapore, call no. RSEA 294.337273 JER)
+
+Jory, Patrick. “Books and the Nation: The Making of Thailand’s National Library,” _Journal of Southeast Asian Studies_ 31, no. 2 (September 2000): 351–73. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+_Journal of M. Descourvieres_, (Thonburi). Dec. 21, 1782, in Launay, _Histoire,_ 309.
+
+Kwong, S. Luke. [_A Mosaic of the Hundred Days: Personalities, Politics, and Ideas of 1898_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2941013). Cambridge, MA: Council on East Asian Studies, Harvard University, 1984. (From National Library Singapore, call no. RCLOS 951.03 KWO-\[GH\])
+
+Landon, Kenneth Parry. [_The Chinese in Thailand_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2463097). Oxford: Oxford University Press, 1941. (From National Library Singapore, call no. RSEA 305.89510593 LAN)
+
+Larson, Jane Leung. “An Association To Save China, the Baohuang Hui 保皇會: A Documentary Account,” _China Heritage Quarterly_ no. 27 (September 2011)
+
+Lee, Sang Kook, “Contentious Development: Southeast Asian Studies in Singapore,” in [_The Historical Construction of Southeast Asian Studies: Korea and Beyond_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200143085), edited by Park Seong Woo and Victor T. King. Singapore: ISEAS, 2013. (From National Library Singapore, call no. RSEA 959.007105 HIS)
+
+Li Anshang. “Zhongguo huaqiao huaren yanjiu de lishi yu xianzhuang gaishu.” In _Huaqiao huaren baike quanshu zong lun juan_ 华侨华人百科全书总论卷 \[Introduction to overseas Chinese encyclopedia\] (2014)
+
+Liau, Bingling 廖冰凌. “Qianzai de zhengzhi huayu: Lun nanyang xuezhe xuyunqiao zhi maoxian xiaoshuo ‘shaonian hanghai jia’” 潜在的政治话语：论南洋学者许云樵之冒险小说 ‘少年航海家’ \[A hidden political discourse: A study of Hsu Yun-Tsiao’s adventure story, ‘The Young Navigator’\], _Huawen wenxue_ (2011): 42–47.
+
+Loos, Tamara Lynn. [_Subject Siam: Family, Law, and Colonial Modernity in Thailand_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12675537). Ithaca: Cornell University Press, 2006. (From National Library Singapore, call no. RSEA 346.593015 LOO)
+
+McKeown, Adam. “Conceptualizing Chinese Diasporas, 1842 to 1949.” _Journal of Asian Studies_ 58, no. 2 (May 1999): 306–337. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Jory, Patrick and Michael J. Montesano, eds. [_Thai South and Malay North: Ethnic Interactions on a Plural Peninsula_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12970671). Singapore: NUS Press, 2008. (From National Library Singapore, call no. RSEA 305.8009593 THA)
+
+Liao, Wenhui 廖文辉, _Xuyunqiao pingzhuan_ [许云樵评传](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200449849) \[A Biography of Hsu Yun-Tsiao\]. 新加坡: 八方文化创作室), 2014. (From National Library Singapore, call no. Chinese RSING 959.007202 LWH)
+
+Moore, Aaron William. [_Writing War: Soldiers Record the Japanese Empire_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200173397). Cambridge: Harvard University Press, 2013. (From National Library Singapore, call no. R 940.5352072 MOO-\[WAR\])
+
+Ngeow, Chow-Bing, Tek Soon Ling and Pik Shy Fan. “Pursuing Chinese Studies Amidst Identity Politics in Malaysia,” _East Asia_ 31, no. 2 (2014): 103–122.
+
+Ngoi, G. P. “Introduction.” In _Liao Wenhui_ _廖文__辉__,_ _Ma xin shixue 80 nian: Cong&nbsp;&nbsp; “nanyang yanjiu” dao “huaren yanjiu”(1930–2009)_ [马新史学80年: 从 “南洋研究” 到 “华人研究”(1930–2009)](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13935560) \[Eighty years of historiography in Malaysia and Singapore: from “Nanyang studies” to “Chinese studies” (1930–2009)\]. Shanghai: Sanlian, 2011. (From National Library Singapore, call no. Chinese RSING 907.20595 LWH)
+
+Nguyen, Thi Lan Anh. “Origins of the South China Sea Dispute.” In [_Territorial Disputes in the South China Sea: Navigating Rough Waters_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201196569), edited by Jing Huang and Andrew Billo. New York: Palgrave Macmillan, 2015, 15–35. (From National Library Singapore, call no. RSEA 341.4480916472 TER)
+
+Peyton, Will. “Wellington Koo, Mukden and Multilateralism,” _China Story Journal_ (4 September 2016), accessed Australian National University.
+
+Platt, R. Stephen. [_Provincial Patriots: The Hunanese and Modern_ _Chinese_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13086178). Cambridge: Harvard University Press, 2007. (From National Library Singapore, call no. R 951.215035 PLA)
+
+Reid, Anthony. “Patani as a Paradigm of Pluralism.” In [_Ghosts of the Past in Southern Thailand: Essays on the History and Historiography of Patani_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14361641), edited by Patrick Jory. Singapore: NUS Press, 2013, 3–30. (From National Library Singapore, call no. RSEA 959.3 GHO)
+
+Reid, Anthony and Daniel Chirot, eds. [_Essential Outsiders: Chinese and Jews in the Modern Transformation of Southeast Asia and Central Europe_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8126543). Seattle: University of Washington Press, 1997. (From National Library Singapore, call no. RSEA 959.004951 ESS)
+
+Rowe, T. William. [_China’s Last Empire: The Great Qing_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13226710)_._ Cambridge: Harvard University Press, 2009. (From National Library Singapore, call no. R 951.03 ROW)
+
+Salmon, Claudine. “C. Hsu Yun Tsiao (1905–1981),” _Archipel_ 25, no. 1 (January 1983): 3–5.
+
+Saussy, Haun and GE Zhaoguang, “Historiography in the Chinese Twentieth Century.” In [_The Oxford Handbook of Modern Chinese Literatures_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202807423), edited by Carlos Rojas and Andrea Bachner. Oxford: Oxford University Press, 2016. (From National Library Singapore, call no. R 895.109005 OXF)
+
+Seah, Leander. “Between East Asia and Southeast Asia: Nanyang Studies, Chinese Migration, and National Jinan University, 1927–1940.” _Translocal Chinese: East Asian Perspectives_ 11, no. 1 (February 2017): 30–56.
+
+Skinner, G. William. [_Chinese Society in Thailand: An Analytical History_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3274325). Ithaca, N.Y.: Cornell University Press, 1957. (From National Library Singapore, call no. RCLOS ENG325.25109593 SKI)
+
+Soontravanich, Chalong. “Sila Viravong’s Phongsawadan Lao: A Reappraisal.” In [_Contesting Visions of the Lao Past: Laos Historiography at the Crossroads_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11789752), edited by Christopher E. Goscha and Soren Ivarsson. Copenhagen: NIAS Press, 2003, 111–28. (From National Library Singapore, call no. RSEA 959.40072 CON)
+
+Svensson, Marina. _Debating Human Rights in China: A Conceptual and Political History_. Lanham, Md.: Rowman and Littlefield, 2002.
+
+Tang, Xiaobing. “Poetic Revolution, Colonization and Form at the Beginning of Chinese Literature.” In [_Rethinking the 1898 Reform Period: Political and Cultural Change in Late Qing China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11127109), edited by Rebecca E. Karl and Peter Gue Zarrow (Cambridge: Harvard University Press, 2002), 245–265. (From National Library Singapore, call no. R 951.035 RET)
+
+Tang, Zhijun 汤志钧 and Tang Renze 汤仁泽, eds., _Liang Qichao quan ji_ [梁启超全集](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12835104) \[Complete works of Liang Qichao\], vol. 3. 北京: 北京出版社, 1999. (From National Library Singapore, call no. Chinese R 085.951 LQC)
+
+Tejapira, Kasian. “Imagined Uncommunity: The Lookjin Middle Class and Thai Official Nationalism.” In [_Essential Outsiders: Chinese and Jews in the Modern Transformation of Southeast Asia and Central Europe_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8126543). Seattle: University of Washington Press, 1997, 75–98. (From National Library Singapore, call no. RSEA 959.004951 ESS)
+
+Tsu, Jing. “Extinction and Adventures on the Chinese Diasporic Frontier.” _Journal of Chinese Overseas_ 2, no. 2 (November 2006): 247–68.
+
+Wade, Geoff. “From Chaiya to Pahang: The Eastern Seaboard of the Peninsula As Recorded in Classical Chinese Texts.” in _Etudes Sur L’histoire Du Sultanat De Patani_, edited by Daniel Perret. \[n.p.\]: Ecole française d’Extrême-Orient, 2005, 375–78.
+
+Wang, Gungwu, “Sojourning: The Chinese Experience in Southeast Asia.” In [_Sojourners and Settlers: Histories of Southeast Asia and the Chinese_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8022454), edited by Anthony Reid, Kristine Alilunas-Rodgers and Jennifer Wayne Cushman. St Leonards, NSW: Allen &amp; Unwin, 1996, 1–14. (From National Library Singapore, call no. RSING 959.004951 SOJ)
+
+—. _The Chinese Overseas: From Earthbound China to the Quest for Autonomy_. Cambridge: Harvard University Press, 2000.
+
+—. “Chinese Political Culture and Scholarship About the Malay World.” In [_Diasporic Chinese Ventures: The Life and Work of Wang Gungwu_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11952442), edited by Gregor Benton and Hong Liu. New York: RoutledgeCurzon, 2004. (From National Library Singapore, call no. R 950.049510092 DIA)
+
+Winichakul, Thongchai. “Writing at the Interstices: Southeast Asian Historians and Postnational Histories in Southeast Asia.” In [_New Terrains in Southeast Asian History_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11902017), edited by Abu Talib Ahmad and Liok Ee Tan. Singapore: Singapore University Press, 2003, 3–29. (From National Library Singapore, call no. RSING 959.00725059 NEW)
+
+—. “Modern Historiography in Southeast Asia: The Case of Thailand’s Royalnationalist History.” In _A Companion to Global Historical Thought_, edited by&nbsp; Prasenjit Duara, Viren Murthy and Andrew Sartori. Oxford: Wiley-Blackwell, 2014, 257–68. &nbsp;
+
+Wongsurawat, Wasana. “Contending for a Claim on Civilization: The Sino-Siamese Struggle To Control Overseas Chinese Education in Siam.” _Journal of Chinese Overseas_ 4, no. 2 (November 2008): 161–82
+
+—. “Beyond Jews of the Orient: A New Interpretation of the Problematic Relationship Between the Thai State and Its Ethnic Chinese Community.” _Positions: Asia Critique_ 24, no. 2 (May 2016): 555–82.
+
+Woolf, Daniel. _A Global History of History._ Cambridge: Cambridge University Press, 2011.
+
+Yan, Qinghuang, “South Seas Society, 1940–2010: A Bulwark of Southeast Asian Studies and Ethnic Chinese Studies.” In [_Ethnicities, Personalities and Politics in the Ethnic Chinese Worlds_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202719686)_._ Singapore: World Scientific Publishing, 2017. (From National Library Singapore, call no. RSING 305.8951 YAN)
+
+Zhang, X., “Qingnian shuju chuangban 55 zhounian jiu xun chuangban ren li bainiandaji” [青年书局创办55周年 九旬创办人立百年大计](https://eresources.nlb.gov.sg/newspapers/digitised/article/lhzb20100828-1.2.38.1) \[The 55th anniversary of Youth Bookstore’s founding: the 90-year-old’s contribution for generations\], _Lianhe Zaobao_ 联合早报, 28 August 2010, 1. (From NewspaperSG)
+
+Zhang Zhidong 张之洞. “Quanjie shanghai guohui ji chuyang xuesheng wen” 劝诫上海国会及出洋学生文 \[Admonish the Shanghai Congress and students studying abroad\]. In _Zhang zhi dong juan_ 张之洞卷 \[Zhang Zhidong Collection\], vol. 6, edited by Wu Jianjie 吴建杰. Beijing: China Renmin University Press, 2014.&nbsp;
+
+Zhou Enlai, “The Plenary Session of the Asian-African Conference,” speech, 19 April 1955, 9–20, Digital Archive Wilson Center. _History and Public Policy Program Digital Archive_ (Translation from China and the Asian-African Conference (Documents)). Peking: Foreign Languages Press. Retrieved from [http://digitalarchive.wilsoncenter.org/document/121623](http://digitalarchive.wilsoncenter.org/document/121623).
+
+Zhou, Weijie 周维介, “Xian shuo jìnshu 60 nian (er zhi yi)” 闲说禁书60年（二之一）\[Part 1 of 2: On 60 years of banned books\], _Yihe shiji_ &nbsp;[怡和世纪](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13780998) \[Jardine century\] no. 24 (October 2014–January 2015). (From National Library Singapore, call no. Chinese R 369.25957 OPEHHC)
+
+Xu Yunqiao 许云樵, _Xuyunqiao jiaoshou riji ce_ 许云樵教授日记册 \[Diaries\] (The Hsu Yun Tsiao collection, National Library Singapore), unpublished. (From National Library Singapore, call no. RRARE C818.8 XYQ-\[HYT\])
+
+—. “Sanbaogong zai Nanyang de chuanshuo” 三宝公在南洋的传说 \[The legend of Sanbaogong in Nanyang\], _Shanhu_ 3, no. 2 (1933): 47–62.
+
+—. “Shanhu chi shi” 珊瑚耻史 \[History of Coral Shame\], _Shanhu_ 珊瑚, 3, no. 6 (1933): 51–70.
+
+—. “Lindao qian lue ju bo ni kao” 林道乾略居渤泥考 \[A study on Lin Daoqian's brief residence in Bo Ni\] in _Xu Yunqiao quan ji_ [许云樵全集](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202888520) \[The complete works of Hsu Yun-Tsiao\], vol. 7, edited by Zheng Liangshu 郑良树 .Kuala Lumpur: 马来西亚创价学会, 2015. (From National Library Singapore, call no. Chinese RSING 959.007202 COM)
+
+—.
+
+—. _Bei da nian shi_ [北大年史](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84448723) \[History of Patani\]. \[新加坡\]: 南洋编译所, 1946. (From National Library Singapore, call no. Chinese RCLOS 959.3 HYC-\[HYT\])
+
+—. “Shaonian hanghai jia” 少年航海家 \[The Young Navigator\]. _Ma lai ya shao nian_ [_马来亚少年_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84512172) \[_Young Malayans_\] 1 (1946): 2. (From National Library Singapore, call no. Chinese RCLOS 079.5957 MLYSN-\[HYT\])
+
+—. “Xiao ji zai xing zhou-zhan qian/shi/hou de women” 小鸡在星洲－战前／时／后的我们 \[A small chick in Singapore: Us in the wake of war\]. _Ma lai ya shao nian_ [_马来亚少年_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84512172) \[_Young Malayans_\] 2, no. 16 (1947): 6. (From National Library Singapore, call no. Chinese RCLOS 079.5957 MLYSN-\[HYT\])
+
+—. “Du fu” 渡夫 \[ferryman\]. _Nanyang zazhi_ [_南洋杂志_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84547137) _\[Nanyang Miscellany\]_ 2, no. 30 (1948): 198–99. (From National Library Singapore, call no. Chinese RCLOS 959 NM-\[HYT\])
+
+—. _Malaiya cong tan_ [马来亚丛谈](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202481711) \[On Malaya\]. 新加坡: 青年书局, 1962. (From National Library Singapore, call no. Chinese RCLOS 959.5 XYQ-\[HYT\])
+
+—. “Ma lai ya jindai shi” 马来亚近代史 \[Modern history of Malaya\]. In _Xu Yunqiao quan ji_ [许云樵全集](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202888520) \[The complete works of Hsu Yun-Tsiao\], vol. 2, edited by Zheng Liangshu 郑良树. Kuala Lumpur: 马来西亚创价学会, 2015, 76. (From National Library Singapore, call no. Chinese RSING 959.007202 COM)
+
+—. _Tian zhu san ji_ [天竺散记](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84488819) \[Travels to India\]. 新加坡: 青年书局, 1964. (From National Library Singapore, call no. Chinese RCLOS 954 HYC)
+
+—. _Shixue tonglun_ [史学通论](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84540406) \[Discourses on Historical Method\]. 新加坡: 青年书局, 1966, 1. (From National Library Singapore, call no. Chinese RDTYS 907.2 HYC-\[HYT\])
+
+—. _Xi yi shi shi wenji_ [希夷室诗文集](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202483207) \[Collection of poems from the house of Xi Yi\]. \[新加坡?\]: 东南亚研究所, 1979. (From National Library Singapore, call no. Chinese RCLOS C810.08 XYQ-\[HYT\])
+
+—. _Lun xuyunqiao de di yi ben shiji “fuyun”_ [论许云樵的第一本诗集 “浮云”](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201370842) \[On Hsu Yun-tsiao’s First Poetry Collection “Floating Clouds”\]. Singapore: NETUCC, 2013. (From National Library Singapore, call no. Chinese RSING C811.5 XYQ)
+
+—. Xiayou hongzhao 呷游鸿爪, _Shanhu_ 2, no. 3 (1933): 66–83.
+
+Luang Wijit Wathakan and Xu Yunqiao 许云樵, _Xianluo wang Zheng Zhao zhuan_ [暹罗王郑昭传](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202483469) \[Biography of King Zheng Zhao of Siam\]. 北京: 中华书局股份有限公司, 1955, 1 (From National Library Singapore, call no. Chinese RCLOS 959.302092 LUA-\[HYT\])
+
+Wu Jingxiong 吴经熊. “Sanmin zhuyi he falu” 三民主义和法律 \[The three people's principles and the law\]. In Falu zhexue yanjiu _法律哲学研究_ \[Legal philosophy research\]. Shanghai: Shanghai chubanshe, 1933.
+
+#### **NOTES**
+       
+[^1]: “Patani” is used to refer to the Malay-Muslim region of southern Thailand and “Pattani” in reference to one of its four provinces, which include Yala, Narathiwat and Songkhla.
+
+[^2]: Xu Yunqiao 许云樵, _Xuyunqiao jiaoshou riji ce_ 许云樵教授日记册 \[Diaries\] (The Hsu Yun Tsiao collection, National Library Singapore), unpublished. (From National Library Singapore, call no. RCLOS C818.8 XYQ-\[HYT\]). _Xinjiapo zong xiang huiguan lianhe zong hui xuyunqiao guancang: Xuyunqiao jiaoshou riji ce_ 新加坡宗乡会馆联合总会许云樵馆藏: 许云樵教授日记册 \[Singapore Federation of Chinese Clan Associations Hsu Yun Tsiao Collection: Diary of Professor Hsu Yun Tsiao\] (From National Library Singapore, call no. RRARE C818.8 XYQ-\[HYT\]). In my transcriptions and translations of the diaries, I converted Hsu’s traditional characters to the simplified form, but kept characters specific to language-groups in the “traditional” forms such as the Cantonese 係. Also, Hsu’s diaries do not have page numbers. The page numbers noted here refer to pages as per the digitised copies.
+
+[^3]: Leander Seah, “Between East Asia and Southeast Asia: Nanyang Studies, Chinese Migration, and National Jinan University, 1927–1940,” _Translocal Chinese: East Asian Perspectives_ 11, no. 1 (February 2017): 43.
+
+[^4]: Yan Qinghuang, “South Seas Society, 1940–2010: A Bulwark of Southeast Asian Studies and Ethnic Chinese Studies,” in [_Ethnicities, Personalities and Politics in the Ethnic Chinese Worlds_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202719686) (Singapore: World Scientific Publishing, 2017), 321. (From National Library Singapore, call no. RSING 305.8951 YAN)
+
+[^5]: Seah, “Between East Asia and Southeast Asia: Nanyang Studies, Chinese Migration, and National Jinan University, 1927–1940,” 38.
+
+[^6]: Wang Gungwu, “Chinese Political Culture and Scholarship About the Malay World,” in [_Diasporic Chinese Ventures: The Life and Work of Wang Gungwu_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11952442), ed. Gregor Benton and Hong Liu (New York: RoutledgeCurzon, 2004), 88–102 (From National Library Singapore, call no. R 950.049510092 DIA); See Lee Sang Kook, “Contentious Development: Southeast Asian Studies in Singapore,” in [_The Historical Construction of Southeast Asian Studies: Korea and Beyond_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200143085), ed. Park Seong Woo and Victor T. King (Singapore: ISEAS, 2013), 159–90. (From National Library Singapore, call no. RSEA 959.007105 HIS)
+
+[^7]: Supang Chantavanich and Anusorn Limmanee, “From Siamese-Chinese to Chinese-Thai: Political Conditions and Identity Shifts Among the Chinese in Thailand,” in [_Ethnic Chinese As Southeast_ _Asians_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8188408), ed. Leo Suryadinata (Singapore: Institute of Southeast Asian Studies, 1997), 241–42 (From National Library Singapore, call no. RSING 305.8951059 ETH); On contemporary Thai politics as a reflection of the interests of Thailand’s five Chinese speechgroups, see Benedict Anderson, “Riddles of Yellow and Red,” _New Left Review_ 97 (January–February 2016)
+
+[^8]: For more about Chinese education in Siam from 1919 to 1934, see G. William Skinner, [_Chinese Society in Thailand: An Analytical History_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3274325) (Ithaca, N.Y.: Cornell University Press, 1957). (From National Library Singapore, call no. RCLOS ENG325.25109593 SKI)
+
+[^9]: Adam McKeown, “Conceptualizing Chinese Diasporas, 1842 to 1949,” Journal of Asian Studies 58, no. 2 (May 1999): 324 (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website); Wasana Wongsurawat, “Contending for a Claim on Civilization: The Sino-Siamese Struggle To Control Overseas Chinese Education in Siam,” _Journal of Chinese Overseas_ 4, no. 2 (November 2008): 161–82; Hong Lysa, “Stranger Within the Gates”: Knowing Semi-Colonial Siam As Extraterritorials,” _Modern Asian Studies_ 38, no. 2 (May 2004): 327–54. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+[^10]: Liao Wenhui 廖文辉, _Xuyunqiao pingzhuan_ [许云樵评传](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200449849) \[A Biography of Hsu Yun-Tsiao\] (新加坡: 八方文化创作室), 2014), 31 (From National Library Singapore, call no. Chinese RSING 959.007202 LWH); Claudine Salmon, “C. Hsu Yun Tsiao (1905–1981),” _Archipel_ 25, no. 1 (January 1983): 3–5.
+
+[^11]: Michael J. Montesano, “Capital, State, and Society in the History of Chinese-Sponsored Education in Trang,” in [_Thai South and Malay North: Ethnic Interactions on a Plural Peninsula_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12970671), ed. Michael John Montesano and Patrick Jory (Singapore: NUS Press, 2008), 231–72 (From National Library Singapore, call no. RSEA 305.8009593 THA). Montesano argues that “cooperation and even collaboration always proved a more important theme than antagonism or resistance” in the “history of Chinese-sponsored education in Trang” (p. 234) and examines the influence of Penang and Southern Chinese community-oriented Chinese schools on the expansion of these schools in Bangkok (pp. 239–240).
+
+[^12]: Liao, [_Xuyunqiao pingzhuan_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200449849), 47.
+
+[^13]: See Thongchai Winichakul, “Modern Historiography in Southeast Asia: The Case of Thailand’s Royalnationalist History,” in _A Companion to Global Historical Thought_, ed. Prasenjit Duara, Viren Murthy and Andrew Sartori (Oxford: Wiley-Blackwell, 2014), 257–68. &nbsp;
+
+[^14]: Tamara Lynn Loos, [_Subject Siam: Family, Law, and Colonial Modernity in Thailand_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12675537) (Ithaca: Cornell University Press, 2006), 3 (From National Library Singapore, call no. RSEA 346.593015 LOO); See Patrick Jory, “Books and the Nation: The Making of Thailand’s National Library,” _Journal of Southeast Asian Studies_ 31, no. 2 (September 2000): 351–73. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+[^15]: Sittihep Eaksittipong, “Textualizing the ‘Chinese of Thailand’: Politics, Knowledge, and the Chinese in Thailand During the Cold War” (PhD. Diss., National University of Singapore, 2017), 208.
+
+[^16]: Scot Barme, [_Luang Wichit Wathakan and the Creation of a Thai Identity_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6420897) (Singapore: Institute of Southeast Asian Studies, 1993) (From National Library Singapore, call no. RSEA 959.304 BAR); Thak Chaloemtiarana, “Move Over, Madonna: Luang Wichit Wathakan’s Huang Rak Haew Luk,” in [_Southeast Asia Over Three Generations: Essays Presented to Benedict R. O’Gorman Anderson_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12268239), ed. James T. Siegel and Audrey R. Kahin (Ithaca, New York: Southeast Asia Program Publications, 2003), 148. (From National Library Singapore, call no. RSEA 959.SOU)
+
+[^17]: Daniel Woolf, _A Global History of History_ (Cambridge: Cambridge University Press, 2011), 427.
+
+[^18]: Luang Wijit Wathakan and Xu Yunqiao 许云樵, _Xianluo wang Zheng Zhao zhuan_[暹罗王郑昭传](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202483469) \[Biography of King Zheng Zhao of Siam\],许云樵 (北京 : 中华书局股份有限公司, 1955), 1 (From National Library Singapore, call no. Chinese RCLOS 959.302092 LUA-\[HYT\]); Chalong Soontravanich, “Sila Viravong’s Phongsawadan Lao: A Reappraisal,” in [_Contesting Visions of the Lao Past: Laos Historiography at the Crossroads_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11789752), ed. Christopher E. Goscha and Soren Ivarsson (Copenhagen: NIAS Press, 2003), 122. (From National Library Singapore, call no. RSEA 959.40072 CON)
+
+[^19]: Lorraine Gesick, “The Rise and Fall of King Taksin: A Drama of Buddhist Kingship,” in [_Centers, Symbols, and Hierarchies: Essays on the Classical States of Southeast Asia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2873278), ed. Lorraine Gesick (New Haven: Yale University Southeast Asia Studies, 1983), 87–105. (From National Library Singapore, call no. RSEA 959.CEN)
+
+[^20]: Luang and Xu, [_Xianluo wang Zheng Zhao zhuan_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202483469), 3.
+
+[^21]: Christopher John Baker and Pasuk Phongpaichit, [_A History of Thailand_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205941052) (Cambridge: Cambridge University Press, 2009), 127. (From National Library Singapore, call no. RSEA 959.3 BAK)
+
+22 Tang Zhijun 汤志钧 and Tang Renze 汤仁泽, eds., _Liang Qichao quan ji_ [梁启超全集](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12835104) \[Complete works of Liang Qichao\], vol. 3 (北京: 北京出版社, 1999), 1366–368. (From National Library Singapore, call no. Chinese R 085.951 LQC)
+
+23 Li Anshang, “Zhongguo huaqiao huaren yanjiu de lishi yu xianzhuang gaishu” in _Huaqiao huaren baike quanshu zong lun juan_ 华侨华人百科全书总论卷 \[Introduction to overseas Chinese encyclopedia\] (2014)
+
+24 Jing Tsu, “Extinction and Adventures on the Chinese Diasporic Frontier,” _Journal of Chinese Overseas_ 2, no. 2 (November 2006): 247–68.
+
+25 Shelly Chan, [_Diaspora’s Homeland: Modern China in the Age of Global Migration_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203125097) (Durham: Duke University Press, 2018), 63–64 (From National Library Singapore, call no. R 909.0495108 CHA); Tang Xiaobing, “Poetic Revolution, Colonization and Form at the Beginning of Chinese Literature,” in [_Rethinking the 1898 Reform Period: Political and Cultural Change in Late Qing China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11127109), ed. Rebecca E. Karl and Peter Gue Zarrow (Cambridge: Harvard University Press, 2002), 249. (From National Library Singapore, call no. R 951.035 RET)
+
+26 Benedict Anderson, [_The Spectre of Comparisons: Nationalism, Southeast Asia, and the World_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9123200) (New York: Verso Books, 1998), 30–35. (From National Library Singapore, call no. RSING 320.959 AND)
+
+27 Liao, [_Xuyunqiao pingzhuan_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200449849), 247.
+
+28 Liao, [_Xuyunqiao pingzhuan_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200449849), 244.
+
+29 Ngoi G. P., “Introduction,” in _Liao Wenhui_ _廖文__辉__,_ _Ma xin shixue 80 nian: Cong&nbsp;&nbsp; “nanyang yanjiu” dao “huaren yanjiu”(1930–2009)_ [马新史学80年: 从 “南洋研究” 到 “华人研究”(1930–2009)](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13935560) \[Eighty years of historiography in Malaysia and Singapore: from “Nanyang studies” to “Chinese studies” (1930–2009)\] (Shanghai: Sanlian, 2011) (From National Library Singapore, call no. Chinese RSING 907.20595 LWH); &nbsp;An Huanran 安焕然, “Liubang hui “ma xin shi xue 80 nian” huigu” 刘邦辉 “麻心识学80年” 回顾 \[Review of Lew Bon Hui’s Ma Xin shixue 80 nian\], in _Nanfang daxue xuebao_ [_南方大学学__报_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200356513) \[_Southern University College Academic Journal_\] 2 (2014). (From National Library Singapore, call no. Chinese RSEA 378.595 SUCAJ)
+
+30 Haun Saussy and GE Zhaoguang, “Historiography in the Chinese Twentieth Century,” in [_The Oxford Handbook of Modern Chinese Literatures_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202807423), ed. Carlos Rojas and Andrea Bachner (Oxford: Oxford University Press, 2016). (From National Library Singapore, call no. R 895.109005 OXF)
+
+31 Chow-Bing Ngeow, Tek Soon Ling and Pik Shy Fan, “Pursuing Chinese Studies Amidst Identity Politics in Malaysia,” _East Asia_ 31, no. 2 (2014): 112.
+
+32 Xu Yunqiao 许云樵, _Shixue tonglun_ [史学通论](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84540406) \[Discourses on Historical Method\] (新加坡: 青年书局, 1966), 1. (From National Library Singapore, call no. Chinese RDTYS 907.2 HYC-\[HYT\])
+
+33 Xu, [_Shixue tonglun_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84540406), 67.
+
+34 _Journal of M. Descourvieres_, (Thonburi). Dec. 21, 1782, in Launay, _Histoire,_ 309;&nbsp; Luang and Xu, [_Xianluo wang Zheng Zhao zhuan_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202483469), 34.
+
+35 Liao, [_Xuyunqiao pingzhuan_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200449849), 225, 227, 239.
+
+36 Thak Chaloemtiarana, _Read Till It Shatters: Nationalism and Identity in Modern Thai Literature_ (Canberra, Australia: Australian National University, 2018), 189; Nidhi Eoseewong, _Kanmueang Thai Samai Phrajao Krung Thonburi_ \[Thai politics in the time of the King of Thonburi\] (Bangkok: Silpawatthanatham Press, 1986)
+
+37 Eaksittipong, “Textualizing the ‘Chinese of Thailand,” 201–02.
+
+38 Eaksittipong, “Textualizing the ‘Chinese of Thailand,” 218.
+
+39 Wang Gungwu, “Sojourning: The Chinese Experience in Southeast Asia,” in [_Sojourners and Settlers: Histories of Southeast Asia and the Chinese_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8022454), ed. Anthony Reid, Kristine Alilunas-Rodgers and Jennifer Wayne Cushman (St Leonards, NSW: Allen &amp; Unwin, 1996), 10, footnote 11. (From National Library Singapore, call no. RSING 959.004951 SOJ)
+
+40 Eaksittipong, “Textualizing the ‘Chinese of Thailand,” 220.&nbsp;&nbsp;
+
+41 Benedict Anderson, [_Imagined Communities: Reflections on the Origin and Spread of Nationalism_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3300657) (New York: Verso, 1983). (From National Library Singapore, call no. RUR 320.54 AND)
+
+42 On the parallels, see Anthony Reid and Daniel Chirot, eds., [_Essential Outsiders: Chinese and Jews in the Modern Transformation of Southeast Asia and Central Europe_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8126543) (Seattle: University of Washington Press, 1997) (From National Library Singapore, call no. RSEA 959.004951 ESS)
+
+43 Thomas E. Greiff, “The Principle of Human Rights in Nationalist China: John C. H. Wu and the Ideological Origins of the 1946 Constitution,” _China Quarterly_ no. 103 (September 1985): 451. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+44 See Wu Jingxiong 吴经熊, “Sanmin zhuyi he falu” 三民主义和法律 \[The three people's principles and the law\], in Falu zhexue yanjiu _法律哲学研究_ \[Legal philosophy research\] (Shanghai: Shanghai chubanshe, 1933)
+
+45 See Maggie Clinton, _Revolutionary Nativism: Fascism and Culture in China, 1925–1937_ (Durham: Duke University Press, 2017); Marina Svensson, _Debating Human Rights in China: A Conceptual and Political History_ (Lanham, Md.: Rowman and Littlefield, 2002), 176–180.
+
+46 For “wartime rights advocacy”, see Mark Bradley, _The World Reimagined: Americans and Human Rights in the Twentieth Century_ (Cambridge: Cambridge University Press, 2016), 41–69; Rosemary Foot, _Rights Beyond Borders: The Global Community and the Struggle Over Human Rights in China_ (Oxford: Oxford University Press, 2000)
+
+47 Zhou Enlai, “The Plenary Session of the Asian-African Conference,” speech, 19 April 1955, 9–20, Digital Archive Wilson Center.
+
+48 For an English translation of Asavabahu, “The Jews of the East”, see Kenneth Parry Landon, [_The Chinese in Thailand_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2463097) (Oxford: Oxford University Press, 1941), 34–39 (From National Library Singapore, call no. RSEA 305.89510593 LAN); Reid and Chirot, [_Essential Outsiders: Chinese and Jews in the Modern Transformation of Southeast Asia and Central Europe_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8126543), 10–11.
+
+49 Landon, [_The Chinese in Thailand_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2463097), 35–36.
+
+50 Hong, “‘Stranger Within the Gates’: Knowing Semi-Colonial Siam As Extraterritorials,” 327–54; Michael Herzfeld, “The Conceptual Allure of the West: Dilemmas and Ambiguities of Crypto-Colonialism in Thailand,” in [_The Ambiguous Allure of the West: Traces of the Colonial in Thailand_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13368798), ed. Rachel V. Harrison and Peter A. Jackson (Hong Kong: Hong Kong University Press, 2010). (From National Library Singapore, call no. RSEA 959.304 AMB)
+
+51 Xu, Yunqiao 许云樵, _Bei da nian shi_ [北大年史](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84448723) \[History of Patani\] (\[新加坡\]: 南洋编译所, 1946), 126–28. (From National Library Singapore, call no. Chinese RCLOS 959.3 HYC-\[HYT\])
+
+52 From 1918 to 1931, Bangkok witnessed a surge of Chinese immigration for its modernisation projects. See Thak Chaloemtiara, “Are We Them? Textual and Literary Representations of the Chinese in Twentieth-Century Thailand,” _Southeast Asian Studies_ 3, no. 3 (December 2014): 475, footnote 1. For King Rama VI’s official nationalism, see Kasian Tejapira, “Imagined Uncommunity: The Lookjin Middle Class and Thai Official Nationalism,” in [_Essential Outsiders: Chinese and Jews in the Modern Transformation of Southeast Asia and Central Europe_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8126543) (Seattle: University of Washington Press, 1997), 75–98. (From National Library Singapore, call no. RSEA 959.004951 ESS)
+
+53 Chaloemtiarana, _Read Till It Shatters: Nationalism and Identity in Modern Thai Literature_, 163.
+
+54 Wasana Wongsurawat, “Beyond Jews of the Orient: A New Interpretation of the Problematic Relationship Between the Thai State and Its Ethnic Chinese Community,” _Positions: Asia Critique_ 24, no. 2 (May 2016): 555–82.
+
+55 Chaloemtiarana, _Read Till It Shatters: Nationalism and Identity in Modern Thai Literature_, 163.
+
+56 William T. Rowe, [_China’s Last Empire: The Great Qing_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13226710) (Cambridge: Harvard University Press, 2009), 237 (From National Library Singapore, call no. R 951.03 ROW); See also Stephen R. Platt, [_Provincial Patriots: The Hunanese and Modern_ _Chinese_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13086178) (Cambridge: Harvard University Press, 2007). (From National Library Singapore, call no. R 951.215035 PLA)
+
+57 Luke S. Kwong, [_A Mosaic of the Hundred Days: Personalities, Politics, and Ideas of 1898_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2941013) (Cambridge, MA: Council on East Asian Studies, Harvard University, 1984). (From National Library Singapore, call no. RCLOS 951.03 KWO-\[GH\])
+
+58 Zhang Zhidong 张之洞, “Quanjie shanghai guohui ji chuyang xuesheng wen” 劝诫上海国会及出洋学生文 \[Admonish the Shanghai Congress and students studying abroad\] in _Zhang zhi dong juan_ 张之洞卷 \[Zhang Zhidong Collection\] in 张之洞卷 \[Zhang Zhidong Collection\], vol. 6, ed. Wu Jianjie 吴建杰 (Beijing: China Renmin University Press, 2014), 351–54. &nbsp;
+
+59 Wang Gungwu, _The Chinese Overseas: From Earthbound China to the Quest for Autonomy_ (Cambridge: Harvard University Press, 2000), 47.
+
+60 Jane Leung Larson, “An Association To Save China, the Baohuang Hui 保皇會: A Documentary Account,” _China Heritage Quarterly_ no. 27 (September 2011)
+
+61 Between Kang and Liang, there was already a debate about the advisability of splitting China into a federation of self-governing nations, an idea that Kang thought disastrous from the point of view of maintaining a strong central power.
+
+62 The Manchus were a minority and governed a majority of Han subjects. Activism against the Qing was largely driven by ethnic resentments and not political form, it seems, though later historiography effaces this.
+
+63 See Joshua A. Fogel and Peter G. Zarrow, eds., _Imagining the People: Chinese Intellectuals and the Concept of citizenship, 1890–1920_ (London: M. E. Sharpe, 1997)
+
+64 Aaron William Moore, [_Writing War: Soldiers Record the Japanese Empire_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200173397) (Cambridge: Harvard University Press, 2013), 48. (From National Library Singapore, call no. R 940.5352072 MOO-\[WAR\])
+
+65 Will Peyton, “Wellington Koo, Mukden and Multilateralism,” _China Story Journal_ (4 September 2016), accessed Australian National University.
+
+66 Peyton, “Wellington Koo, Mukden and Multilateralism.”
+
+67 See Antonio Cassese, _Human Rights in a Changing World_ (Philadelphia, PA: Temple University Press, 1990), 20.
+
+68 Hsu was getting married to Jingmei, but because of the bombing of Suzhou, they could not celebrate. Xu Yunqiao 许云樵, _Xuyunqiao jiaoshou riji ce_ 许云樵教授日记册 \[Diaries\] (The Hsu Yun Tsiao collection, National Library Singapore), vol. 4, 128. (From National Library Singapore, call no. RRARE C818.8 XYQ-\[HYT\]; accession no. B27705375C)
+
+69 Xu Yunqiao 许云樵, _Xi yi shi shi wenji_ [希夷室诗文集](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202483207) \[Collection of poems from the house of Xi Yi\] (\[新加坡?\]: 东南亚研究所, 1979) (From National Library Singapore, call no. Chinese RCLOS C810.08 XYQ-\[HYT\]); Liao, [_Xuyunqiao pingzhuan_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200449849), 167. Hsu’s radio lectures were later compiled into Xu Yunqiao 许云樵, _Malaiya cong tan_ [马来亚丛谈](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202481711) \[On Malaya\] (新加坡: 青年书局, 1962). (From National Library Singapore, call no. Chinese RCLOS 959.5 XYQ-\[HYT\])
+
+70 For the tradition of writing about the self in China, see Moore, [_Writing War: Soldiers Record the Japanese Empire_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200173397), 35–48.
+
+71 Xu Yunqiao 许云樵, _Lun xuyunqiao de di yi ben shiji “fuyun”_ [论许云樵的第一本诗集 “浮云”](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201370842) \[On Hsu Yun-tsiao’s First Poetry Collection “Floating Clouds”\] (Singapore: NETUCC, 2013). (From National Library Singapore, call no. Chinese RSING C811.5 XYQ)
+
+72 Bill Hayton, “China’s ‘Historic Rights’ in the South China Sea: Made in America?” _Diplomat_ (21 June 2016)
+
+73 Nguyen Thi Lan Anh, “Origins of the South China Sea Dispute,” in [_Territorial Disputes in the South China Sea: Navigating Rough Waters_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201196569), ed. Jing Huang and Andrew Billo (New York: Palgrave Macmillan, 2015), 15–35. (From National Library Singapore, call no. RSEA 341.4480916472 TER)
+
+74 Xu Yunqiao, “Shanhu chi shi” 珊瑚耻史 \[History of Coral Shame\], _Shanhu_ 珊瑚, 3, no. 6 (1933): 51–70.
+
+75 Xu Yunhiao, “Sanbaogong zai Nanyang de chuanshuo” 三宝公在南洋的传说 \[The legend of Sanbaogong in Nanyang\], _Shanhu_ 3, no. 2 (1933): 47–62. See also _Xuyunqiao quanji_ [许云樵全集](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202888520) \[The complete works of Hsu Yun-Tsiao\], vol. 6. (Kuala Lumpur: 马来西亚创价学会, 2015–) (From National Library Singapore, call no. Chinese RSING 959.007202 COM). The only other essay Hsu published in 1933 is Xiayou hongzhao 呷游鸿爪, _Shanhu_ 2, no. 3 (1933): 66–83. See also _Xuyunqiao quanji_ [许云樵全集](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202888520) \[The complete works of Hsu Yun-Tsiao\], vol. 8; Liao, [_Xuyunqiao pingzhuan_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200449849), 231.
+
+76 For the Conference on Nanyang Chinese Education, see Seah, “Between East Asia and Southeast Asia: Nanyang Studies, Chinese Migration, and National Jinan University, 1927–1940,” 47–48.
+
+77 Ho Engseng, “Inter-Asian Concepts for Mobile Societies,” _Journal of Asian Studies_ 76, no. 4 (November 2017): 912, accessed Duke University website.
+
+78 Davisakd Puaksom, “Of a Lesser Brilliance: Patani Historiography in Contention,” in [_Thai South and Malay North: Ethnic Interactions on a Plural Peninsula_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12970671), ed. Patrick Jory and Michael J. Montesano (Singapore: NUS Press, 2008), 72. (From National Library Singapore, call no. RSEA 305.8009593 THA)
+
+79 Blurb to Ibrahim Syukri, [_History of the Malay Kingdom of Patani_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12585505) (Chiang Mai: Silkworm Books, 2005). (From National Library Singapore, call no. RSEA 959.3 IBR)
+
+80 Loos, [_Subject Siam: Family, Law, and Colonial Modernity in Thailand_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12675537), 2;
+
+Loos, 2006, p. 2; Michael K. Jerryson, [_Buddhist Fury: Religion and Violence in Southern Thailand_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14259960) (Oxford: Oxford University Press, 2011), 28–49 (From National Library Singapore, call no. RSEA 294.337273 JER); Piyada Chonlaworn, “Contesting Law and Order: Legal and Judicial Reform in Southern Thailand in the Late Nineteenth to Early Twentieth Century,” _Southeast Asian Studies_ 3, no. 3 (December 2014): 527–46, accessed Kyoto University Research Information Repository.
+
+81 Montesano and Jory, [_Thai South and Malay North_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12970671), 23.
+
+82 Anthony Reid, “A Plural Peninsula,” in [_Thai South and Malay North: Ethnic Interactions on a Plural Peninsula_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12970671), ed. Patrick Jory and Michael J. Montesano (Singapore: NUS Press, 2008), 35. (From National Library Singapore, call no. RSEA 305.8009593 THA)
+
+83 Reid, “[A Plural Peninsula](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12970671),” 32.
+
+84 In a rare instance, Hsu briefly describes the festive mood of a male circumcision ritual, but only after a long entry that the Songkhla government issued a new lesson plan for Chinese schools; sex tourism; discussions about vernacular speech (_baihua_) and classical Chinese (_wenyan_) and false binaries about what makes elevated and coarse speech \[v. 2: 180–82\].
+
+85 Ho Engseng, “Empire Through Diasporic Eyes: A View From the Other Boat,” _Society for Comparative Study and History_ 46, no. 2 (April 2004): 210–46. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+86 Xu Yunqiao 许云樵, “Shaonian hanghai jia” 少年航海家 \[The Young Navigator\], _Ma lai ya shao nian_ [_马来亚少年_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84512172) \[Young Malayans\] 1 (1946): 2 (From National Library Singapore, call no. Chinese RCLOS 079.5957 MLYSN-\[HYT\]); See also Liao Bingling 廖冰凌, “Qianzai de zhengzhi huayu: Lun nanyang xuezhe xuyunqiao zhi maoxian xiaoshuo ‘shaonian hanghai jia’,” 潜在的政治话语：论南洋学者许云樵之冒险小说 ‘少年航海家’ \[A hidden political discourse: A study of Hsu Yun-Tsiao’s adventure story, ‘The Young Navigator’\], _Huawen wenxue_ (2011): 42–47; On peninsular ports, see Reid, “[A Plural Peninsula](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12970671), 37.
+
+87 Xu Yunqiao 许云樵, “Xiao ji zai xing zhou-zhan qian/shi/hou de women” 小鸡在星洲－战前／时／后的我们 \[A small chick in Singapore: Us in the wake of war\] “Shaonian hanghai jia” 少年航海家 \[The Young Navigator\], _Ma lai ya shao nian_ [_马来亚少年_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84512172) \[Young Malayans\] 2 (1947): 6 (From National Library Singapore, call no. Chinese RCLOS 079.5957 MLYSN-\[HYT\])
+
+88 Xu Yunqiao 许云樵, “Du fu” 渡夫 \[ferryman\], _Nanyang zazhi_ [_南洋杂志_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84547137) _\[Nanyang Miscellany\]_ 2 (30) (1948): 198–99. (From National Library Singapore, call no. Chinese RCLOS 959 NM-\[HYT\])
+
+89 Xu Yunqiao 许云樵, “Ma lai ya jindai shi” 马来亚近代史 \[Modern history of Malaya\] in _Xu Yunqiao quan ji_ [许云樵全集](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202888520) \[The complete works of Hsu Yun-Tsiao\], vol. 2, ed. Zheng Liangshu 郑良树 (Kuala Lumpur: 马来西亚创价学会, 2015) (From National Library Singapore, call no. Chinese RSING 959.007202 COM); See also Stefan Amirell, “The Blessings and Perils of Female Rule: New Perspectives on the Reigning Queens of Patani, c. 1584–1718,” _Journal of_ _Southeast Asian Studies_ 42, no. 2 (June 2011): 303–23. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+90 Wang, _The Chinese Overseas: From Earthbound China to the Quest for Autonomy_, 20.
+
+91 Anthony Reid, “Patani as a Paradigm of Pluralism,” in [_Ghosts of the Past in Southern Thailand: Essays on the History and Historiography of Patani_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14361641), ed. Patrick Jory (Singapore: NUS Press, 2013), 7. (From National Library Singapore, call no. RSEA 959.3 GHO)
+
+92 Xu Yunqiao 许云樵, “Lindao qian lue ju bo ni kao,” 林道乾略居渤泥考 \[ A study on Lin Daoqian's brief residence in Bo Ni\] in _Xu Yunqiao quan ji_ [许云樵全集](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202888520) \[The complete works of Hsu Yun-Tsiao\], vol. 7, ed. Zheng Liangshu 郑良树 (Kuala Lumpur: 马来西亚创价学会, 2015) (From National Library Singapore, call no. Chinese RSING 959.007202 COM); Liao, [_Xuyunqiao pingzhuan_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200449849), 125.
+
+93 For a translation of Hsu’s chapter on Lin Daoqian in Beidanian shi, see Geoff Wade, “From Chaiya to Pahang: The Eastern Seaboard of the Peninsula As Recorded in Classical Chinese Texts,” in _Etudes Sur L’histoire Du Sultanat De Patani_, ed. Daniel Perret (\[n.p.\]: Ecole française d’Extrême-Orient, 2005, 75–78.
+
+94 Sharon A. Carstens, “Chinese Publications in Singapore and Malaysia,” in [_Changing Identities of the Southeast Asian Chinese Since World War II_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5179303), ed. Jennifer Cushman and Wang Gungwu (Hong Kong: Hong Kong University Press, 1988), 81. (From National Library Singapore, call no. RSING 305.8951059 CHA)
+
+95 Grace S. Fong, “Writing From Experience: Personal Records of War and Disorder in Jiangnan During the Ming-Qing Transition,” in [_Military Culture in Imperial China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13184561), ed. Nicola Di Cosmo (Cambridge: Harvard University Press, 2009), 257–77. (From National Library Singapore, call no. R 306.270951 MIL)
+
+96 On “home scholars”, see Thongchai Winichakul, “Writing at the Interstices: Southeast Asian Historians and Postnational Histories in Southeast Asia,” in [_New Terrains in Southeast Asian History_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11902017), ed. Abu Talib Ahmad and Liok Ee Tan (Singapore: Singapore University Press, 2003), 3–29. (From National Library Singapore, call no. RSING 959.00725059 NEW)
+
+97 Xu Yunqiao 许云樵, _Tian zhu san ji_ [天竺散记](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84488819) \[Travels to India\] (新加坡 : 青年书局, 1964). (From National Library Singapore, call no. Chinese RCLOS 954 HYC)
+
+98 Zhang, X., “Qingnian shuju chuangban 55 zhounian jiu xun chuangban ren li bainiandaji” [青年书局创办55周年 九旬创办人立百年大计](https://eresources.nlb.gov.sg/newspapers/digitised/article/lhzb20100828-1.2.38.1) \[The 55th anniversary of Youth Bookstore’s founding: the 90-year-old’s contribution for generations\], _Lianhe Zaobao_ 联合早报, 28 August 2010, 1. (From NewspaperSG)
+
+99 See Zhou Weijie 周维介, “Xian shuo jìnshu 60 nian (er zhi yi)” 闲说禁书60年（二之一）\[Part 1 of 2: On 60 years of banned books\] _Yihe shiji_ &nbsp;[怡和世纪](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13780998) \[Jardine century\] no. 24 (October 2014–January 2015). (From National Library Singapore, call no. Chinese R 369.25957 OPEHHC). See also Chen, M. “Zaoqi xin ma huawen shuju cujin xianggang chuban ye de chengzhang” 早期新马华文书局促进香港出版业的成长 \[Early Singaporean and Malayan bookstores encouraging the growth of Hong Kong’s publishing industry\], _Yihe shiji_ &nbsp;[怡和世纪](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13780998) \[Jardine century\] no. 24 (October 2014–January 2015). (From National Library Singapore, call no. Chinese R 369.25957 OPEHHC)
+
+100 Liao, [_Xuyunqiao pingzhuan_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200449849); On Nanyang scholars’ marginalisation during the Cold War period, see Wang, [_Diasporic Chinese Ventures_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11952442), 29–30.
+
+101 In Singapore, Chinese speakers are the majority, though policy has determined that Mandarin would be prioritised over dialects, and English over Mandarin in most contexts. This makes manifest a hierarchy of languages, determined by their usefulness on a global market. Naturally, Malay and Tamil speakers as well as non-Mandarin Chinese speakers feel this as an exclusion.
