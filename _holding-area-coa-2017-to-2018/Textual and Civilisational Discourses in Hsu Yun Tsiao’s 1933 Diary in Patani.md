@@ -227,7 +227,7 @@ framework of Chinese racialisation during the reign of King Vajiravudh
 Rama VI. Dissatisfied with the annotations in his 1936 translation, Hsu
 published the essay “An Unofficial Biography of Taksin” (*Zhengzhao
 waizhuan*) two years later. Later essays include “A Study of China-Siam
-Historical Relations” (*Zhong Xian tongshi ka*o, 1951), “A Study of Taksin’s
+Historical Relations” (*Zhong Xian tongshi kao*, 1951), “A Study of Taksin’s
 Tribute to the Qing Court” (*Zhengzhao rugong qingting kao*, 1951) and “An
 Annotated Translation of a Poem Commemorating Taksin’s Tribute and
 Court Appearance in China” (*Zhengzhao gongshi ruchao Zhongguo jixing shi yizhu*, 1940), which was translated from Phraya Maha Nubhab’s account of
@@ -661,7 +661,7 @@ news that showed the perils of strongman politics and brinkmanship:
    announced that it would cancel its ban on Chinese schools using<br>
    the textbooks based on the Three People’s Principles (sanmin).<br>
    Only Chinese language hours will be limited. It’s like the Monkey<br>
-   King unable to escape Buddha’s palm!*[^76]
+   King unable to escape Buddha’s palm!*[^75]
 
    **August 6 (sun) 89° in the afternoon, hot, suddenly a typhoon,<br>
    86° in the afternoon, sunny**
@@ -741,10 +741,10 @@ assimilation in cultural, linguistic, education and legal terms.
 In a move to decolonise historical methods and write local, autonomous
 histories from new angles, such as examining port-city connections, while
 acknowledging the importance of Chinese sources, new scholarship also
-addresses the recent spate of ethnoreligious violence in the region. Anthony
+addresses the recent spate of ethno-religious violence in the region. Anthony
 Reid has described the Thai South and Malay North as a “plural peninsula”,
 whose “polycultural” nature meant that differences ought to be explained
-by “specific historical dynamics rather than superficial ethnic distinctions”[^81].
+by “specific historical dynamics rather than superficial ethnic distinctions”.[^81]
 Since the 16th century, the cosmopolitan Patani has been “the kind of base
 for the Chinese Southeast Asian trade that Bangkok, Batavia and Singapore
 later became, with its ships sailing throughout the Archipelago as far as Makassar, and to Ayuthaya and Hoi An”.[^82] In fact, the “importance of
@@ -885,7 +885,7 @@ transport lines that were cut by the resulting chaos:
    暹罗变乱，影响交通，马来联邦邮车祗能通至巴真武里，应该处已为叛<br>
    军所占据。据云叛军根据地在Don Muang 为数自五千至一万，其在京畿<br>
    开火者，颇为猛烈云。电线均已隔断，形势严重，政府之宣言能克服之<br>
-于二日内者，不可持矣。今日译大泥府志，去其半矣。
+   于二日内者，不可持矣。今日译大泥府志，去其半矣。
 
 Observing the chaos from afar, Hsu engaged in his translation of Pattani
 and Songkhla histories; completed his essay on Lin Daoqian; wrote about a
@@ -902,10 +902,10 @@ also led to the consolidation of southern Thailand under Siamese rule:
    the new regime. In Songkhla, … the Siamese army stationed and<br>
    set up camp at the English- and European-owned mines. Also, Sing<br>
    Sian (newspaper?) jointly pronounced that the rebel army has been<br>
-vanquished, and King Rama VI fled by plane. Who to believe?*<br><br>
+   vanquished, and King Rama VI fled by plane. Who to believe?*<br><br>
    其他各地大多保守觉，一旦被叛军勾通，不难独立也。至南方大年则<br>
    有暹罗人为长官，统揽政权，惟人口多巫族。宋卡，布吉，多邪 (?) 等<br>
-   地，暹军驻扎处，均英澳人投资矿产所也。又据星暹统称，叛军已溃<br>，
+   地，暹军驻扎处，均英澳人投资矿产所也。又据星暹统称，叛军已溃,<br>
    亲王乘机出奔。不知信否。
 	 
 	
@@ -936,7 +936,7 @@ Hsu’s diaries are valuable because they fill the gap in our understanding of
 his early years, and they bring together contexts that have been overlooked
 in Nanyang historiography. That historiography views the China-Singapore
 connection, via its publication and institutional histories, as an important genealogy. My biographical method instead asks what was politically and
-personally at stake in Hsu’s interwar Nanyang studies. Hsu’s responses to
+personally at stake in Hsu’s inter-war Nanyang studies. Hsu’s responses to
 current affairs, especially of China and the Nanyang, from the perspectives
 of Siam and its southern region of Patani, suggest that the relationships
 of *huaqiao* to China and their places of residence are in constant
