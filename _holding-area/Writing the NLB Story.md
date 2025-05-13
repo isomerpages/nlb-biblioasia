@@ -7,6 +7,8 @@ description: ""
 #### Established in 1995, the National Library Board was conceived as one of many levers to transform Singapore’s economy and culture.  
 By Hong Xinyi
 
+![](/images/Vol%2021%20Issue%202/Writing%20the%20NLB%20Story/writing_main.jpg)
+<div style="background-color:white;">Minister for Information and the Arts and Minister for Health George Yeo (third from left) touring the exhibition of antique books and other items at the InterContinental Hotel for the launch of the National Library Board’s logo and new strategic directions, 1996. With him are Chairman of the National Library Board Dr Tan Chin Nam, Director R. Ramachandran and Assistant Director Lim Kek Hwa. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 While the National Library Board was established in 1995, the motivation behind its launch goes back at least to the early 1990s and perhaps even earlier.&nbsp;
 
@@ -17,6 +19,10 @@ Speaking at a gala dinner for the National Computer Board (NCB) in 1991, Prime M
 In Singapore, this work of constant adaptation had in fact started in the 1980s, when the NCB was formed to implement the computerisation of the civil service, and a national IT plan was formulated. Embracing digitalisation was a means to a larger end – engineering a shift towards a more diversified knowledge-based economy. Over the next two decades or so, a concerted array of public policies would seek to position Singapore as a global hub, orientate manpower training and the education system for a globalised technology-driven world, and unlock the potential of new sectors ranging from research and development (R&amp;D) to the creative industries.&nbsp;
 
 “Why were we doing all this? It was all about reinvention, about making Singapore competitive,” said Dr Tan Chin Nam, the first chairman of the National Library Board (1995–2002). “We had to find new ways of making a living, of staying relevant,” he told _BiblioAsia_ in an interview in February 2025.[^2] During those years, he was on the frontlines of this transformation through his leadership roles at not just the NLB, but also the NCB, Economic Development Board (EDB), Ministry of Manpower, Ministry of Information, Communications and the Arts (MITA), and several other agencies and statutory boards. It was a time when many levers in the public sector were created and refined to help engender Singapore’s reinvention.
+
+![](/images/Vol%2021%20Issue%202/Writing%20the%20NLB%20Story/writing_tan.jpg)
+<div style="background-color:white;">Dr Tan Chin Nam, first chairman of the National Library Board, 2025.  <i> Photo by Jimmy Yap.</i></div>
+
 
 The national library system was one of these levers. After all, the jobs in a knowledge-based economy could only be filled by people who were up to speed with the world’s innovations and ready to adapt to and lead change. And the library was all about helping people learn. There was just one problem: this system was not in very good shape.&nbsp;
 
@@ -36,6 +42,9 @@ By then, change was on the way. In 1990, some divisions within the Ministry of C
 
 In 1992, Yeo decided to ask Tan, then the chairman of NCB and managing director of EDB, to head a committee that would examine how to reinvent the library.[^9] Tan’s familiarity with technology was an obvious strength for reshaping a library system for the internet era. Equally important was the fact that “Chin Nam is good with people”, Yeo explained. Changing the library would mean changing its culture, and that would require strong people skills.
 
+![](/images/Vol%2021%20Issue%202/Writing%20the%20NLB%20Story/writing_tour.jpg)
+<div style="background-color:white;">Director of the National Library Mrs Yoke-Lan Wicks giving Acting Minister for Information and the Arts and Senior Minister of State for Foreign Affairs George Yeo (right) and Permanent Secretary for Information and the Arts Goh Kim Leong (left) a tour of the National Library on Stamford Road, 1990.  <i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore. </i></div>
+
 Of that first conversation about the library, Tan said of Yeo: “He wanted to challenge conventional wisdom. For instance, he asked: ‘Why shouldn’t a library be located in a shopping mall?’ That question gave me a sense of the mandate – for this reinvention, we could dream of anything, in order to make sure that the library would be able to service its users.”
 
 So Tan got to work. Twenty representatives from the public, academic and private sectors were appointed to the Library 2000 Review Committee. Visits to libraries in San Francisco, New York, London, Paris and Shanghai were organised to gather ideas. “Because you must be humble, you have to learn from others,” Yeo explained.&nbsp;
@@ -49,6 +58,9 @@ The diversity within Singapore had made Singaporeans instinctively skilled at ad
 #### **A Revolutionary Report**
 
 The Library 2000 report was released in March 1994. In his memoirs, published in 2024, Yeo described its proposals as “revolutionary”.[^10]
+
+![](/images/Vol%2021%20Issue%202/Writing%20the%20NLB%20Story/writing_library.jpg)
+<div style="background-color:white;">The Library 2000 Review Committee was convened in 1992 to conduct a comprehensive review of library services in Singapore. <i> Collection of the National Library Singapore (call no. RSING 027.05957 SIN-LIB]).</i></div>
 
 For a start, there was the report’s subtitle – _Investing in a Learning Nation_. “That was the first time the notion of a learning nation, and investing in the learning capacity of the nation, was conceived and presented, which I think is very, very important,” said Tan.
 
@@ -75,6 +87,9 @@ The importance of technology was perhaps more self-evident – by then, internet
 About six months after Yeo’s speech, the National Library Board (NLB) was formed as a statutory board on 1 September 1995. This structure meant that it had more discretion in financial and human resource matters, such as market-based salaries.[^12]
 
 Tan was appointed its chairman, and he recruited Dr Christopher Chia, a colleague from his NCB days, as its chief executive. Chia used to head the NCB’s R&amp;D arm. “So I got him involved with the expectation that we would be able to inject a lot of IT expertise into the transformation of the library,” said Tan.&nbsp;
+
+![](/images/Vol%2021%20Issue%202/Writing%20the%20NLB%20Story/writing_chris.jpg)
+<div style="background-color:white;">Dr Christopher Chia, first chief executive of the National Library Board, 2025.  <i> Photo by Jimmy Yap. </i></div>
 
 At that point, Chia was in the private sector and had spent just 10 months in his new job.[^13] He decided to return to the public sector for two reasons. First, he was very fond of the library. “I must have gone through the entire collection of the national library’s fairy tales, mysteries and fantasies when I was a child,” he told _BiblioAsia_ in January 2025.[^14] It also felt like an opportunity to continue his previous work in promoting the wider adoption of technology, now in another way through the library.&nbsp;
 
@@ -110,6 +125,12 @@ By 2001, visitorship had quadrupled, the collection had tripled in size, and mem
 
 Today, the effects of the Library 2000 recommendations can clearly be seen as many of the proposals were implemented – from a network of libraries of different sizes, to libraries with vibrant designs and tech-aided services that are embedded within shopping malls.&nbsp;
 
+![](/images/Vol%2021%20Issue%202/Writing%20the%20NLB%20Story/writing_newspaper.jpg)
+<div style="background-color:white;">The first library to open in a shopping mall is the Jurong West Community Library in Jurong Point. Source: <i> The Straits Times, 23 March 1996 © SPH Media Limited. Permission required for reproduction.</i></div>
+
+
+
+
 The NLB has constantly sought to reinvent itself with more strategic plans. In 2005, there was the _Library 2010: Libraries for Life, Knowledge for Success_ report. This was followed by “Libraries for Life” in 2011 and the latest, LAB25 (“Libraries and Archives Blueprint 2025”), in 2021.
 
 And that journey of change and transformation, for both the library and Singapore, is far from over. Singaporeans are still buffeted by great changes – new technologies such as artificial intelligence are reshaping the world, and information has long been at everyone’s fingertips, thanks to ubiquitous digital devices. How should the library approach its mission of helping people learn today?&nbsp;
@@ -118,11 +139,19 @@ And that journey of change and transformation, for both the library and Singapor
 
 For Tan, leaning into the function of the library as a social space may be a good path forward. “Human beings are social animals, right? We are very fortunate because the library is very much part of our social fabric, and I think as NLB continues to innovate, it will continue to perform a very important role in continuous learning.”
 
-	
+
+![](/images/Vol%2021%20Issue%202/Writing%20the%20NLB%20Story/writing_courtyard.jpg)
+<div style="background-color:white;">The courtyard at the former National Library on Stamford Road, 2004. Music performances, wellness talks and other cultural events were held there. <i> Collection of the National Library Singapore.</i></div>
+
+
+![](/images/Vol%2021%20Issue%202/Writing%20the%20NLB%20Story/writing_lv5.jpg)
+<div style="background-color:white;">The Courtyard at Level 5 of the National Library Building is opened to the public. It can be booked for special events such as book launches, wedding solemnisations and birthday celebrations. <i> Collection of the National Library Board.</i></div>
+
+
 
 
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src="/images/Authors/DrJohnBray2g5er.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/HongXinyi.png">
 <b>Hong Xinyi</b> is a writer, editor, translator and producer. She is the author of <i>The Remaking of Singapore’s Public Libraries</i> (2019). She also runs <i>dear humans</i>, a newsletter, which features occasional dispatches on gender, technology and culture.</div>
 
 #### **Notes**

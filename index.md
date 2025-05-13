@@ -9,14 +9,24 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: vol-21/issue-1/apr-jun-2025/liu-kang-forgotten-photographs-bali/
-      button: Forgotten Photographs of the 1952 Bali Trip
+      url: vol-20/issue-3/oct-dec-2024/wat-ananda-metyarama-thai-buddhist-temple/
+      button: At Wat Ananda, Thai Buddhism with a Singaporean Twist
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Apr_Jun_2025_hero_images__10___1_.jpg
+      background: /images/Wat_Ananda.jpg
       variant: center
+  - infopic:
+      title: "Pages of Progress: The Toa Payoh Public Library"
+      subtitle: Places and Buildings
+      id: infopic
+      description: Before the Toa Payoh Public Library, the building was used as the
+        secretariat for the 7th SEAP Games.
+      button: THE SECOND BRANCH LIBRARY
+      url: /vol-21/issue-2/jul-sep-2025/toa-payoh-public-library/
+      image: /images/Vol 21 Issue 2/Toa Payoh/Toa_Payoh_Library.jpg
+      alt: The Toa Payoh Public Library
   - infopic:
       title: Badang the Strongman
       subtitle: Podcast
@@ -29,10 +39,10 @@ sections:
       image: /images/Podcast/William_600_by_400.jpg
       alt: Badang keramat singapore stone
   - infopic:
-      title: My Mother Hedwig Anuar
+      title: My Mother, Hedwig Anuar
       subtitle: People
       id: infopic
-      description: The daughter of Hedwig Anuar reveals a side to the former Director
+      description: The daughter of Hedwig Anuar reveals a side to the former director
         of the National Library that not many people know.
       button: A TRIBUTE TO A MOTHER
       url: /vol-21/issue-2/jul-sep-2025/mother-hedwig-anuar-shirin-aroozoo/
@@ -1054,14 +1064,4 @@ sections:
       url: /videos/reels/print/
       alt: Image alt text
       image: "/images/Videos: BiblioAsia Reels/early_print.jpg"
-  - infopic:
-      title: "Pages of Progress: The Toa Payoh Public Library"
-      subtitle: Places and Buildings
-      id: infopic
-      description: Before the Toa Payoh Public Library, the building was used as the
-        secretariat for the 7th SEAP Games.
-      button: THE SECOND BRANCH LIBRARY
-      url: /vol-21/issue-2/jul-sep-2025/toa-payoh-public-library/
-      image: /images/Vol 21 Issue 2/Toa Payoh/Toa_Payoh_Library.jpg
-      alt: The Toa Payoh Public Library
 ---

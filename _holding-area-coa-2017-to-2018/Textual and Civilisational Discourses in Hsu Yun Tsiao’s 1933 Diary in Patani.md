@@ -8,7 +8,7 @@ description: ""
 Before co-founding Chinese-language Southeast Asian (Nanyang or South
 Seas) studies in Singapore in 1940, the Suzhou-born historian Hsu Yun-
 Tsiao (1905–81) sojourned as a teacher at Zhong Hua School (1933–36) in
-the Malay-Muslim region of Patani in southern Thailand.1
+the Malay-Muslim region of Patani in southern Thailand.[^1]
 
 Known mostly for his academic and editorial work in South Seas Journal
 (*Nanyang xuebao*, 1940–), the popular *South Seas Miscellany* (*Nanyang zazhi,*
@@ -27,21 +27,21 @@ in Nanyang historiography. Recently digitised by the National Library,
 Singapore (NLB) in May 2018, Hsu’s five unpublished diaries (1930–38)
 provide rare glimpses into his interwar Nanyang studies in Siam (now
 Thailand), which anticipate the geopolitics and scholarly politics of Nanyang
-studies in Singapore some 20 years later.2
+studies in Singapore some 20 years later.[^2]
 
 In 1933, in his most detailed 400-page diary, Hsu noted his anticipation
 in receiving publications from Shanghai: “Jinan University’s Bureau of
 Nanyang and American Cultural Affairs (*Nanyang Meizhou wenhua shiye
-bu*) sent over a huge bundle of the *Nanyang Newsletter* (*Nanyang qingbao*).3
+bu*) sent over a huge bundle of the *Nanyang Newsletter* (*Nanyang qingbao*).[^3]
 According to the subscription form it costs one baht, payable to Kaiming
 Press. I ordered 30 numbers, from vol. 1 number 1 through vol. 2 number
 10”. [*Diaries* v.2: 131]. Other interwar Chinese publications on Southeast
 Asia, such as *Nanyang Research* (*Nanyang yanjiu*, 1928– ), were managed by
 this bureau through key figures such as Liu Shimu, Li Changfu and Yao
 Nan, who would later co-found the South Seas Society (1940– ) with Hsu
-in Singapore.4 Anxious yet excited by Japan’s state-sponsored study of the
+in Singapore.[^4] Anxious yet excited by Japan’s state-sponsored study of the
 Nanyang (or Nanyo) in the 1920s, these Chinese intellectuals founded the
-Jinan Cultural Bureau in 1927.5 By producing original work and translating
+Jinan Cultural Bureau in 1927.[^5] By producing original work and translating
 Japanese and Western writings on Southeast Asia, the Jinan scholars hoped
 to redirect intellectual-political energies from Japan, and foster closer ties to
 local Chinese newspapers and journals in Penang, Singapore, Malacca and
@@ -49,7 +49,7 @@ Batavia (now Jakarta).
 
 Entering the scene slightly later and based in the Nanyang itself, Hsu
 transformed the Western- and Japanese-influenced research of Jinan scholars
-by drawing on a variety of Thai, Malay and Burmese sources.6 Hsu arrived
+by drawing on a variety of Thai, Malay and Burmese sources.[^6] Hsu arrived
 in Patani just after the 1932 Siamese Revolution by the People’s Party
 of Siam, which had partially overthrown the monarchy to introduce a
 constitution. Hsu witnessed the chaotic waves of royalist counter-revolution
@@ -62,35 +62,35 @@ instruction. Hsu joined and negotiated for the Chinese schools’ education
 movement (1933–36), which protested against these changes. By 1930, elite
 members from Teochew, Hokkien, Cantonese, Hakka and Hainanese
 language groups in Siam had agreed to teach in Mandarin and consolidate
-a Chinese national identity.7 Lamenting his students’ lack of proficiency,
+a Chinese national identity.[^7] Lamenting his students’ lack of proficiency,
 Hsu had at times taught Chinese using English and *zhuyin zimu* (Mandarin
 phonetic alphabet) [v.2: 234]. But now, Chinese language class time had
 been severely curtailed and other courses had to be taught in Thai. Hsu had
 to learn Thai and pass a language examination within one-and-a-half years of
-arriving in Siam [v.2: 172–73].8
+arriving in Siam [v.2: 172–73].[^8]
 
 Purveying the Chinese Nationalist Party’s (Kuomintang) curricula of
 overseas Chinese education based on the civilisational mission of *Zhonghua
 huiguan* (c. 1900), the “umbrella” organisation for Chinese affairs, Hsu lobbied for Chinese autonomy and cultural upkeep against the new
 regime’s forced assimilation policies, which reversed prior arrangements
-whereby Chinese subjects had been protected by the Siamese monarch.9
+whereby Chinese subjects had been protected by the Siamese monarch.[^9]
 In 1936, Hsu left Zhong Hua School and taught English at Bangkok’s
-National School of Science and Engineering.10 In 1938, Hsu left for
+National School of Science and Engineering.[^10] In 1938, Hsu left for
 Singapore after the fascist Phibun, now a Field Marshal, forced Chinese
 newspapers and schools – those not already closed by the government or
-voluntarily – to shut down nationwide.11
+voluntarily – to shut down nationwide.[^11]
 
 In this section of the essay, I examine the oft-overlooked influence of
 modern Siamese historiography on Hsu’s Nanyang studies. In Hsu’s
 estimation, the three most important scholars of Nanyang histories were
 the French Sinologist Paul Pelliot (1878–1945), Sino-Indian historian
 Feng Chengjun (1887–1946) and Prince Damrong Rajanubhab of Siam
-(1862–1943).12 The latter, though exiled to Penang after the Siamese People’s
+(1862–1943).[^12] The latter, though exiled to Penang after the Siamese People’s
 Party coup in 1932, had famously inaugurated the study of modern Thai
 history (*prawattisat*) by giving a “nationalist reading of the *phongsawadan*”
-(dynastic chronicles).13 “By 1930, Damrong had retired and was leading the
+(dynastic chronicles).[^13] “By 1930, Damrong had retired and was leading the
 effort to build the collection at Siam’s National Library by accumulating
-ephemeral texts”.14 As the “Father of Siam History” [v. 2: 275] and “the royal librarian-in-chief” who played a “crucial role in the establishment of the
+ephemeral texts”.[^14] As the “Father of Siam History” [v. 2: 275] and “the royal librarian-in-chief” who played a “crucial role in the establishment of the
 Thai territorial state during the late 19th and early 20th centuries”, Damrong
 gets Hsu’s stamp of approval:
 
@@ -108,23 +108,23 @@ before he became the chief ideologue for Phibun’s military, ethno-nationalist
 wartime rule. Luang Wichit’s version of world history borrowed heavily from
 Damrong’s traditional-style chronicles of “drum-and-trumpet history” but
 updated them to include the heroic deeds of common men and women in
-defending the nation.15 Drawing on German and Italian Fascism16 and their
+defending the nation.[^15] Drawing on German and Italian Fascism[^16] and their
 “militaristic view of the past”, Luang Wichit’s idea of culture (*watthanatham*)
 saw Thai subjects as part of a civilised nation (*prathet siwilai*) on equal footing
-with Western powers and irrevocably shaped the course of Thai modernity.17
+with Western powers and irrevocably shaped the course of Thai modernity[^17]. 
 
 Luang Wichit’s 12-volume bestseller *Prawattisat Sakon* [*Universal History*,
 1929–31] impressed Hsu enough for him to translate its sixth and seventh
-books, *Prawat Khong Sayam* [*History of Siam*].18 Hsu also published excerpts on the Sino-Thai King Taksin (1734–82) as *Xianluo wang Zheng
+books, *Prawat Khong Sayam* [*History of Siam*].[^18] Hsu also published excerpts on the Sino-Thai King Taksin (1734–82) as *Xianluo wang Zheng
 Zhao zhuan* (*Biography of the Siamese King Zheng Zhao*, 1936). Zheng
 Zhao, the Chinese name of King Taksin (*Daxin*) used by diplomatic
 envoys to Qing China, apparently had a Teochew-Chinese father and
-a Thai mother.19 In his diary, Hsu notes Luang Wichit’s description of
+a Thai mother.[^19] In his diary, Hsu notes Luang Wichit’s description of
 Taksin’s mythic origins: “thunder shook the house” and “a snake curled
 up by the baby’s side”, which his father “took as an unlucky sign and
 ordered his servant to throw the baby into the river” [v. 2: 96]. Rescued by
 a Siamese warrior, Taksin was sent to a Buddhist monastery and mastered
-southern Min, Vietnamese and Indian languages.20 Taksin went on to
+southern Min, Vietnamese and Indian languages.[^20] Taksin went on to
 serve as a governor and acquired the noble title Phraya Tak. He famously
 expelled the Burmese from the fallen Ayutthaya kingdom (1351–1767)
 and founded the Thonburi dynasty (1767–82). Taksin’s achievements,
@@ -335,11 +335,14 @@ nationalist exclusivism:
    **五月十四日（日）夜83°晴热**<br><br>
    吴经熊谓宪法草案已考虑妥当，分民族民权民生三篇，行将起初稿云。德<br>   希特拉 卒青年遍搜全国图书馆，焚去其主义不同之各项书籍，并绘犹太<br>   人像若干，亦焚以鄙视之。有百馀犹太人已避往帕勒士丁云。暹政府答覆<br>   华校请愿团, 拒绝通融，出月便将强迫执行云。扼腕叹息，不知之何?<br>
 
+<img src="/images/COA%202017%20to%202018/Hsu%20Yun%20Tsiao/14_May_1933_1.jpg" style="width:50%;">
+ <div style="background-color: white;">14 May 1933 entry in Hsu Yun Tsiao’s diary (v. 2: p. 132; Accession no. B27705372K). <i> Hsu Yun Tsiao collection, National Library, Singapore.</i></div>
+
+
 It is clear that Hsu felt sympathy for the plight of the German Jews, whose
 troubles were just beginning, and anxiety about the status of his own minority
 group, the Chinese in Siam, who confronted demands for cultural and
 linguistic assimilation in ways that particularly concerned him as an educator.42
-
 
 Against this backdrop, Hsu invoked Chinese law. The inconclusive debates
 over democracy and dictatorship in China during the 1920s resulted in the
@@ -466,6 +469,9 @@ Chinese comparison:
    and Liang Qichao: “Ah, Kang and Liang, be careful not to make<br>
    China Jewish”. He named the problem correctly but the way out<br>
    isn’t clear. (pp. 119-120)*
+	 
+<img src="/images/COA%202017%20to%202018/Hsu%20Yun%20Tsiao/23_April_1933_2.jpg" style="width:100%;">
+ <div style="background-color: white;">(Left) 23 April 1933 entry in Hsu Yun-Tsiao’s diary (v. 2: p. 119; Accession no. B27705372K).<br> (Right) 23 April 1933 entry in Hsu Yun-Tsiao’s diary (v. 2: p. 120; Accession no. B27705372K).<i> Hsu Yun Tsiao collection, National Library, Singapore.</i></div>
 
    **四月二十三日（日）午89°炎热**<br><br>
    *正午与大发定一往教育局抄教育部长颁发之条例，内要点为每周授课不<br>
@@ -630,6 +636,9 @@ Chinese tradition of diary keeping.70
    自由党领袖，数年来努力自工作颇著名。此行或将与日各党领袖及当局<br>
    接洽；蓋彼为赞同大亚细亚主义者。已死之大亚主义今日復大萌新芽<br>
    殊足怪也。
+	 
+<img src="/images/COA%202017%20to%202018/Hsu%20Yun%20Tsiao/16_May_1933_3.jpg" style="width:50%;">
+ <div style="background-color: white;">16 May 1933 entry in Hsu Yun-Tsiao’s diary (v. 2: p. 133, Accession no.: B27705372K).<i> Hsu Yun Tsiao collection, National Library, Singapore.</i></div>
 
 Pan-Asianism, according to Okakura Tenshin and others later inspired
 by Russia’s defeat by Japan (1905) such as Sun Yat-sen and Bengali
@@ -734,7 +743,11 @@ news that showed the perils of strongman politics and brinkmanship:
    作权，俄报则谓係美居宽纵所致，法公使韦礼德在京__外次余谟谈中越<br>
    条约，谓法之佔九小岛，线为航业便利而已云云。又那威华侨仅六人，<br>
    乃忽被驱逐三人，闻已令公使诸昌年抗议云。
+	 
 
+<img src="/images/COA%202017%20to%202018/Hsu%20Yun%20Tsiao/5_August_1933_4.jpg" style="width:100%;">
+ <div style="background-color: white;">(Left) 5 August 1933 entry in Hsu Yun-Tsiao’s diary (v. 2: p. 205, Accession no.: B27705372K).<br> (Right) 6 August 1933 entry in Hsu Yun-Tsiao’s diary (v. 2: p. 206, Accession no.: B27705372K). <i> Hsu Yun Tsiao collection, National Library, Singapore.</i></div>
+	 
 The layers of politics and erudition in Hsu’s diary evoke “a thick
 transregionalism, a spatially expansive yet integrative account of a mobile
 society”.77 Hsu’s diary urgently shapes and consolidates his public response
@@ -1033,4 +1046,3 @@ and introduces in this essay. His biographical approach to Hsu’s work aims to 
 the discipline’s periodisation, historical method and melancholic narrative of Nanyang
 studies’ rise and decline (1940–81).
 </div>
-

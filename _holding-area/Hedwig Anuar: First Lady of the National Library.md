@@ -16,11 +16,20 @@ Some two decades later, that student, now Hedwig Anuar, was in the position to d
 
 In that time, Anuar, the first Malayan to head the library, oversaw an expansion of the library, first with part-time libraries and later fulltime branch libraries located in housing estates around Singapore. No meek civil servant, Anuar was an activist and a strong advocate for women’s rights, and also one of the founders of the women’s rights group AWARE, the Association of Women for Action and Research.&nbsp;
 
+
+![](/images/Vol%2021%20Issue%202/Hedwig%20%20%20First%20Lady/hedwig2_hedwig.jpg)
+<div style="background-color:white;">  Hedwig Anuar, 2014. <i>Courtesy of Shirin Aroozoo.</i></div>
+
+
 #### **Love for the Written Word**
 
 Hedwig Elizabeth Aroozoo was born 19 November 1928 in Johor Bahru to a Eurasian Catholic family, the second daughter of Percival Frank Aroozoo and Agnes Danker. Her father was a teacher at Outram School (1918–38) and then headmaster of Gan Eng Seng School (1938–55).&nbsp;
 
 It is perhaps not surprising&nbsp;then&nbsp;that Anuar developed a love for reading at an early age. In an interview with _Straits Times_ in 1985, Anuar said she could not remember a time when she could not read and started on political works in her father’s extensive library at age 10 in 1939. [^2]
+
+![](/images/Vol%2021%20Issue%202/Hedwig%20%20%20First%20Lady/hedwig2_women.jpg)
+<div style="background-color:white;">Hedwig Anuar (far left) with the first women arts and science graduates of the University of Malaya, 1950. <i>Courtesy of Shirin Aroozoo.</i></div>
+
 
 Anuar studied at the Convent of the Holy Infant Jesus in Johor Bahru and then at the Convent of the Holy Infant Jesus in Singapore. In 1947, she entered Raffles College to read literature. Raffles College became the University of Malaya in 1949, so when she graduated in 1951, it was with a first class honours degree from the newly renamed university.
 
@@ -29,10 +38,6 @@ As the Japanese Occupation (1942–45) had depleted her father’s savings, Anua
 Anuar also became involved in politics in university. Just before the end of her honours year in January 1951, there was a wave of arrests in Singapore and Malaya for possession of Malayan Communist Party literature. Among the detainees were former Malayan Democratic Union leaders like John Eber and Devan Nair as well as several University of Malaya students including James Puthucheary.
 
 Anuar was among the members of the students’ union who visited the detainees. “Every Saturday I would apply for a pass from Special Branch to visit the detention camp on St John’s Island,” she said. “We would get the pass from Special Branch, and go to the Portmaster’s Pier to catch the launch to St John’s Island. And we bring food and books for the detainees. The British were quite liberal. They allowed the detainees to have books from the university library.” [^4]
-
-![](/images/Vol%2021%20Issue%202/Hedwig%20%20%20First%20Lady/hedwig2_women.jpg)
-<div style="background-color:white;">Hedwig Anuar (far left) with the first women arts and science graduates of the University of Malaya, 1950. <i>Courtesy of Shirin Aroozoo.</i></div>
-
 
 #### **Life in the United Kingdom**
 
@@ -51,6 +56,9 @@ After they left (Tunku in 1950 and Goh in 1951), Eber’s group had taken over a
 Goh Keng Swee, who had returned to London in 1954 to do his PhD, recruited Anuar and other Malayans to retake the forum from Eber. They won the elections in a special meeting on 12 February 1956 and formed a majority on the forum’s council.&nbsp;
 
 Anuar became the secretary and set about editing _Suara Merdeka_. Noticeably, there was no disruption in publication and the February issue came out with news of the takeover. It also reprinted a satirical piece, “When Malaya Ruled Britain”, by S. Raja Ratnam (S. Rajaratnam; future Deputy Prime Minister of Singapore), which reversed the roles with Malaya as the colonial power over a colonised Britain. [^11] This was quite a change in content quality from the previous issue.
+
+![](/images/Vol%2021%20Issue%202/Hedwig%20%20%20First%20Lady/hedwig2_suara.jpg)
+<div style="background-color:white;">The February 1956 issue of&nbsp;<i>Suara Merdeka</i>&nbsp;was the first issue Hedwig Anuar edited after taking over from the John Eber faction. <i>Collection of the National Library Singapore (call no. RCLOS 320.9595 SM).</i></div>
 
 While in London, Anuar met law student Anuar Zainal Abidin and they got married in 1957, after which she took on her husband’s name. Upon attaining her library qualifications in the same year, she returned to Singapore to serve her bond with the University of Malaya and gave birth to her son Azmi.&nbsp;
 
@@ -81,9 +89,6 @@ In September 1960, Anuar launched the mobile library service to schools just two
 <div style="background-color:white;"> Hedwig Anuar giving Senior Parliamentary Secretary for Defence and Member of Parliament Phua Bah Lee a tour of the mobile library bus at the Tampines Community Centre, 1979. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore.</i></div>
 
 Anuar also initiated the process of building fulltime branch libraries rather than continuing to operate part-time branch libraries with limited opening hours. Starting with Queenstown Branch Library in 1970 and Toa Payoh in 1974, this would steadily grow into a network of six such fulltime branch libraries by her retirement in 1988. The collection of vernacular language books (Malay, Tamil and Chinese) was also expanded to cater to Singapore’s general population.
-
-![](/images/Vol%2021%20Issue%202/Hedwig%20%20%20First%20Lady/hedwig2_salute.jpg)
-<div style="background-color:white;">Hedwig Anuar was given a “Books of Honour” salute by library staff at her retirement dinner, 1988. <i>Hedwig Anuar Collection, National Library Singapore.</i></div>
 
 One of Anuar’s final initiatives as director was the computerisation of the library’s card catalogue, as well as the membership database and the borrowing system in the 1980s. While the initial report on computerisation was released in 1975, it was only in October 1987 that the first library was computerised – the Queenstown Library. The National Library on Stamford Road was computerised in August 1988, just before Anuar retired in November that year. [^19] As a result, book borrowing took a matter of seconds instead of minutes. By the time Anuar retired, membership with the National Library had grown from 43,000 to over 330,000. [^20]
 
@@ -125,12 +130,12 @@ Anuar was uncompromising in her drive to develop professional librarianship loca
 
 One of the library heads who served under her, Wong Heng, credited her with obtaining overseas scholarships for staff to gain their professional qualifications leveraging the Colombo Plan and the British Council. Wong Heng himself was a recipient of one of those scholarships. Aside from that, Anuar worked with the Library Association of Singapore to start a part-time Postgraduate Diploma in Library and Information Science course in 1982. [^30] By the time she retired in 1988, this course had produced 54 graduates from three batches. [^31]
 
+![](/images/Vol%2021%20Issue%202/Hedwig%20%20%20First%20Lady/hedwig2_salute.jpg)
+<div style="background-color:white;">Hedwig Anuar was given a “Books of Honour” salute by library staff at her retirement dinner, 1988. <i>Hedwig Anuar Collection, National Library Singapore.</i></div>
+
 While Anuar did try her best to establish a local library school, it did not happen till after her retirement. In 1991, Temasek Polytechnic and the National Book Development Council started a Certificate in Library and Information Studies course for para-professionals, which has since stopped. Two years later, Nanyang Technological University started a part-time Master of Science in Information Studies. [^32]
 
 The life of Hedwig Anuar is closely intertwined with the postcolonial development of Singapore’s libraries and literacy. She was recruited to head the development of library services at a time when Singapore was starting on its journey towards independence. But she never restricted herself to being a bureaucrat; instead, she established relationships and built networks with various people and organisations to promote reading, writing, publishing and even women’s awareness in Singapore. The world-class library system in Singapore today is thanks to the strong foundation laid by Anuar during her time as the director of the National Library.
-
-![](/images/Vol%2021%20Issue%202/Hedwig%20%20%20First%20Lady/hedwig2_hedwig.jpg)
-<div style="background-color:white;">  Hedwig Anuar, 2014. <i>Courtesy of Shirin Aroozoo.</i></div>
 
 
 
