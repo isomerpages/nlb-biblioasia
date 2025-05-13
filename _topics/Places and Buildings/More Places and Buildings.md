@@ -7,7 +7,8 @@ variant: markdown
 ---
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/toa-payoh-public-library/">Pages of Progress: The Toa Payoh Public Library</a>
 
-Before the Toa Payoh Public Library, the building was used as the secretariat for the 7th SEAP Games.
+Over the last five decades, the library has developed to keep pace 
+with the changing needs of the residents of Toa Payoh.
 
 <img src="/images/Vol%2021%20Issue%202/Toa%20Payoh/Toa_Payoh_Library.jpg" style="width:80%;">
 <hr>
