@@ -1313,7 +1313,7 @@ Wu Jingxiong 吴经熊. “Sanmin zhuyi he falu” 三民主义和法律 \[The t
 
 [^55]: Chaloemtiarana, _Read Till It Shatters: Nationalism and Identity in Modern Thai Literature_, 163.
 
-[^66]: William T. Rowe, [_China’s Last Empire: The Great Qing_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13226710) (Cambridge: Harvard University Press, 2009), 237 (From National Library Singapore, call no. R 951.03 ROW); See also Stephen R. Platt, [_Provincial Patriots: The Hunanese and Modern_ _Chinese_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13086178) (Cambridge: Harvard University Press, 2007). (From National Library Singapore, call no. R 951.215035 PLA)
+[^56]: William T. Rowe, [_China’s Last Empire: The Great Qing_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13226710) (Cambridge: Harvard University Press, 2009), 237 (From National Library Singapore, call no. R 951.03 ROW); See also Stephen R. Platt, [_Provincial Patriots: The Hunanese and Modern_ _Chinese_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13086178) (Cambridge: Harvard University Press, 2007). (From National Library Singapore, call no. R 951.215035 PLA)
 
 [^57]: Luke S. Kwong, [_A Mosaic of the Hundred Days: Personalities, Politics, and Ideas of 1898_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2941013) (Cambridge, MA: Council on East Asian Studies, Harvard University, 1984). (From National Library Singapore, call no. RCLOS 951.03 KWO-\[GH\])
 
@@ -1362,7 +1362,7 @@ Wu Jingxiong 吴经熊. “Sanmin zhuyi he falu” 三民主义和法律 \[The t
 [^79]: Blurb to Ibrahim Syukri, [_History of the Malay Kingdom of Patani_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12585505) (Chiang Mai: Silkworm Books, 2005). (From National Library Singapore, call no. RSEA 959.3 IBR)
 
 [^80]: Loos, [_Subject Siam: Family, Law, and Colonial Modernity in Thailand_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12675537), 2;
-Loos, 2006, p. 2; Michael K. Jerryson, [_Buddhist Fury: Religion and Violence in Southern Thailand_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14259960) (Oxford: Oxford University Press, 2011), 28–49 (From National Library Singapore, call no. RSEA 294.337273 JER); Piyada Chonlaworn, “Contesting Law and Order: Legal and Judicial Reform in Southern Thailand in the Late Nineteenth to Early Twentieth Century,” _Southeast Asian Studies_ 3, no. 3 (December 2014): 527–46, accessed Kyoto University Research Information Repository.
+Michael K. Jerryson, [_Buddhist Fury: Religion and Violence in Southern Thailand_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14259960) (Oxford: Oxford University Press, 2011), 28–49 (From National Library Singapore, call no. RSEA 294.337273 JER); Piyada Chonlaworn, “Contesting Law and Order: Legal and Judicial Reform in Southern Thailand in the Late Nineteenth to Early Twentieth Century,” _Southeast Asian Studies_ 3, no. 3 (December 2014): 527–46, accessed Kyoto University Research Information Repository.
 
 [^81]: Montesano and Jory, [_Thai South and Malay North_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12970671), 23.
 
