@@ -220,8 +220,7 @@ told him or he was confused, but it winds up in his book that this is the
 rock that Badang threw, and &nbsp;that’s what’s written in his story.<strong>&nbsp;</strong>
 </p>
 <p><strong>Jimmy</strong>
-<br>Right.</p>
-<p><strong>&nbsp;</strong>
+<br>Right.<strong>&nbsp;</strong>
 </p>
 <p><strong>William Gibson</strong>
 <br>Which causes some issues because in the <em>Annals</em>, like we said,
