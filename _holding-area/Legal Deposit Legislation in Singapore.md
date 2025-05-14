@@ -58,6 +58,9 @@ A significant change occurred in 1948 when the Raffles Library and Museum assume
 
 Tan Soo Chye, appointed as the first Archivist, began reporting the annual statistics of newly registered books under the ordinance from 1950 onwards. His 1951 report for the Raffles Library and Museum noted that these figures excluded newspapers and periodicals, while Chinese books remained under the purview of the Chinese Secretariat (formerly Chinese Protectorate). He also noted the continued practice of sending deposit copies to the British Museum Library.[^22]
 
+![](/images/Vol%2021%20Issue%202/Early%20History%20of%20Legal%20Deposit/early_tan.jpg)
+<div style="background-color:white;">Tan Soo Chye, the first archivist appointed by the Straits Settlements government in 1938 to manage the historical records at the archives office at the Raffles Library and Museum. <i>Source: The Straits Times, 13 August 1939 © SPH Media Limited. Permission required for reproduction.</i></div>
+
 A significant reorganisation occurred in 1955 when the management of government archives, microfilming of records and the legal deposit function were transferred from the Archivist to the Librarian. This shift added to the existing “book and information services” of the Raffles Library.[^23] The transfer was partly necessitated by Tan’s departure to the Department of Customs and Excise in December 1953, leaving the Archivist position vacant until 1967.[^24]
 
 The 1955 amendments to the ordinance, now known as the Printers and Publishers Ordinance (Chapter 196), formally authorised the Raffles Library to collect and preserve local publications via deposit.[^25] That same year marked the separation of library and museum functions, with the appointment of a dedicated director for the Raffles Library.[^26] The fine for non-compliance also increased from $25 to $50.
@@ -83,6 +86,9 @@ In Singapore, the very first catalogue of books was published in the 20 May 1887
 Since 1969, the National Library has been compiling the annual _Singapore National Bibliography_ (SNB) which contains local titles deposited with the library under the Printers and Publishers Ordinance. The compilation of current and historical bibliographies was laid out as a statutory function of a national library within the 1957 Raffles National Library Ordinance.&nbsp;
 
 The first issue of the SNB, featuring publications printed in 1967, was released in August 1969 and sold to the public at $3.[^32] Over the years, the SNB has expanded to include titles received through donations and purchases as well as electronic publications. The SNB was produced as a CD-ROM from 1993 and as an online bibliography from 2011.
+
+![](/images/Vol%2021%20Issue%202/Early%20History%20of%20Legal%20Deposit/early_biblio.jpg)
+<div style="background-color:white;"> First issue of the <i>Singapore National Bibliography</i> compiled by the National Library in 1967 and published in 1969. <i>Collection of the National Library Singapore.</i></div>
 
 #### **New Legislations**
 
