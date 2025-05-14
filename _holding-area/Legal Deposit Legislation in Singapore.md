@@ -73,6 +73,10 @@ In 1967, the National Archives and Records Centre Act was enacted, leading to th
 
 The Printers and Publishers Ordinance underwent several amendments in the 1950s and 1960s. The 1960 amendment mandated that the publisher (previously it was the printer) must deposit six copies (instead of the earlier three copies) of a work published and printed in Singapore to the National Library. The penalty for non-delivery of books by the publisher increased from $50 to $500, which became $1,000 and $5,000 in 1968 and 1996 respectively. Subsequently, the number of deposit copies was reduced to five under the Printers and Publishers (Amendment) Act of 1967.[^29] Revisions were made to the act in 1970 and again in 1985.
 
+
+![](/images/Vol%2021%20Issue%202/Early%20History%20of%20Legal%20Deposit/early_registration.jpg)
+<div style="background-color:white;"> Registration form completed by Sing-Ma Educational Publishers when depositing their publication titled&nbsp;<i>Geography</i>&nbsp;in June 1961 as required for the Memoranda of Books under the Printers and Publishers Ordinance. <i>Collection of the National Library Singapore.</i></div>
+
 Out of the five copies deposited with the National Library, two copies would be preserved in the library while “the remaining copies shall be disposed of as the Director of the National Library thinks fit”.[^30]
 
 One of the copies retained by the library was preserved in the Publishers and Printers Act collection (later called the Legal Deposit collection and now PublicationSG), while the other was catalogued and kept in the reference section of the National Library. These reference copies are now part of the Singapore and Southeast Asia Collection at the Lee Kong Chian Reference in the National Library Building. The remaining three copies were given to academic libraries and the Ministry of Culture, or sent to the public libraries as loan copies.
