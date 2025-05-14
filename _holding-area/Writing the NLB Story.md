@@ -36,14 +36,14 @@ A 1992 survey found that the public felt the library system was “generally ina
 
 By then, change was on the way. In 1990, some divisions within the Ministry of Community Development and the Ministry of Communications and Information were placed within the newly formed MITA, which became the library’s parent ministry. A year later, George Yeo, then 37, became the first minister of MITA.
 
+![](/images/Vol%2021%20Issue%202/Writing%20the%20NLB%20Story/writing_tour.jpg)
+<div style="background-color:white;">Director of the National Library Mrs Yoke-Lan Wicks giving Acting Minister for Information and the Arts and Senior Minister of State for Foreign Affairs George Yeo (right) and Permanent Secretary for Information and the Arts Goh Kim Leong (left) a tour of the National Library on Stamford Road, 1990.  <i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore. </i></div>
+
 &nbsp;As Yeo pondered the national library system in Singapore against the backdrop of the country’s percolating transformation in the 1990s, he felt that it was time to do things differently. At the time, there was a formula, one that was simply repeated – when the population of a part of Singapore reached a certain level, budget would be allocated for a standalone library. Each library would always have a wall dedicated to the photographs of the President and First Lady. Libraries also kept office hours – meaning they were closed when people got off work, and during the weekends.&nbsp;
 
 “It seemed so antiquated and unsuited to our way of life,” he recalled in an interview with _BiblioAsia_ in January 2025.[^8] “People should be able to go to library when they are free. And did we need a shrine to the President and First Lady when space was so precious? I was a young man then, and maybe I was a bit insensitive, but to me, it was ridiculous. And I thought: we had to break the mould.”
 
 In 1992, Yeo decided to ask Tan, then the chairman of NCB and managing director of EDB, to head a committee that would examine how to reinvent the library.[^9] Tan’s familiarity with technology was an obvious strength for reshaping a library system for the internet era. Equally important was the fact that “Chin Nam is good with people”, Yeo explained. Changing the library would mean changing its culture, and that would require strong people skills.
-
-![](/images/Vol%2021%20Issue%202/Writing%20the%20NLB%20Story/writing_tour.jpg)
-<div style="background-color:white;">Director of the National Library Mrs Yoke-Lan Wicks giving Acting Minister for Information and the Arts and Senior Minister of State for Foreign Affairs George Yeo (right) and Permanent Secretary for Information and the Arts Goh Kim Leong (left) a tour of the National Library on Stamford Road, 1990.  <i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore. </i></div>
 
 Of that first conversation about the library, Tan said of Yeo: “He wanted to challenge conventional wisdom. For instance, he asked: ‘Why shouldn’t a library be located in a shopping mall?’ That question gave me a sense of the mandate – for this reinvention, we could dream of anything, in order to make sure that the library would be able to service its users.”
 
@@ -103,6 +103,10 @@ With funding secured, actual change got underway, and rapid prototyping became a
 
 Although at the time it had already been decided that the National Library building on Stamford Road would be demolished, it had a lively last chapter. Between 1998 and its eventual demolition in 2005, it was used as a testbed for new ideas, many of which were later replicated in new libraries. These included a café, live music performances and talks on topics ranging from health to life sciences.
 
+
+![](/images/Vol%2021%20Issue%202/Writing%20the%20NLB%20Story/writing_courtyard.jpg)
+<div style="background-color:white;">The courtyard at the former National Library on Stamford Road, 2004. Music performances, wellness talks and other cultural events were held there. <i> Collection of the National Library Singapore.</i></div>
+
 Planning for new libraries was professionalised with the setting up of a properties team, whose members developed expertise in working with architects and interior designers, and optimising the placement of new features such as checkout machines. New standards for operations and frontline customer service were established, and customer service training and more objective staff evaluation criteria were introduced.[^17]
 
 Getting the librarians to accept change, however, was not easy. Few people like change, especially radical change. Fortunately, the responsibility of bridging the old ways with the new landed on the shoulders of R. Ramachandran. Known as Rama to the staff, he was the first director of the National Library after NLB was formed. In many ways, he was the ideal person to be the bridge because he was a dyed-in-the-wool librarian himself. He had joined the National Library back in 1969 as a library officer, and had risen to be the deputy director of its reference and support services when he was appointed to the Library 2000 committee in 1992. (He eventually retired as NLB’s deputy chief executive in 2004.)[^18]
@@ -117,7 +121,7 @@ He added that Chia was able to strike a balance between “not rocking the boat�
 
 “I have discovered when you have a vision, you have to also make sure that there’ll be buy-in of that vision,” said Tan of his approach to change management. “So I think is a very important to have stakeholder engagement. You have to respect the incumbents. You have to provide capacity development, new training, so that everybody can work together and be part of the journey of co-creating new value.”
 
-Resistance to change also ebbed when staff started seeing the tangible results of new ideas. The switch away from the tedious and time-consuming manual processing of library books was one example. Chia and his team collaborated with a local company to come up with a system where radio frequency identification was used to automate the check-out and returning of books. The first prototype was rolled out in three branches. “It worked beautifully,” said Chia. “When staff from other branches started asking ‘when is our turn?’, I knew that we had turned a corner.”&nbsp;
+Resistance to change also ebbed when staff started seeing the tangible results of new ideas. The switch away from the tedious and time-consuming manual processing of library books was one example. Chia and his team collaborated with a local company to come up with a system where radio frequency identification was used to automate the check-out and returning of books. The first prototype was rolled out at the Bukit Batok Community Library, which opened in November 1998. “It worked beautifully,” said Chia. “When staff from other branches started asking ‘when is our turn?’, I knew that we had turned a corner.”&nbsp;
 
 #### **A Lasting Impact**
 
@@ -140,15 +144,11 @@ And that journey of change and transformation, for both the library and Singapor
 For Tan, leaning into the function of the library as a social space may be a good path forward. “Human beings are social animals, right? We are very fortunate because the library is very much part of our social fabric, and I think as NLB continues to innovate, it will continue to perform a very important role in continuous learning.”
 
 
-![](/images/Vol%2021%20Issue%202/Writing%20the%20NLB%20Story/writing_courtyard.jpg)
-<div style="background-color:white;">The courtyard at the former National Library on Stamford Road, 2004. Music performances, wellness talks and other cultural events were held there. <i> Collection of the National Library Singapore.</i></div>
-
-
 ![](/images/Vol%2021%20Issue%202/Writing%20the%20NLB%20Story/writing_lv5.jpg)
 <div style="background-color:white;">The Courtyard at Level 5 of the National Library Building is opened to the public. It can be booked for special events such as book launches, wedding solemnisations and birthday celebrations. <i> Collection of the National Library Board.</i></div>
 
 
-
+<br>
 
 <div style="background-color: white;">
 <img style="width: 100px; height: 100px;" src="/images/Authors/HongXinyi.png">
