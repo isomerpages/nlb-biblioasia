@@ -104,7 +104,7 @@ Over the last 190 years, legal deposit in Singapore has evolved from legislation
 [^3]: Patricia Lim Pui Huen, Marion Southerwood and Katherine Hui, [_Singapore, Malaysian and Brunei Newspapers: An International Union List_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6340966) (Singapore: Institute of Southeast Asian Studies, 1992), ix. (From National Library Singapore, call no. RSING 016.0795957 LIM-\[LIB\]); Ilse Sternberg, “The British Museum Library and Colonial Copyright Deposit,” _The British Library Journal_ 17, no. 1 (Spring 1991): 62. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
 
 
-[^4]: _Acts of the Government of India, from 1834 to 1838 Inclusive: Presented in Pursuance of Act 3 &amp; 4 Will. 4, c. 85, s. 51_ (London: House of Commons, 1840), 22–24. (From National Library Singapore, microfilm no. NL30789; accession no. B20020347G)&nbsp;
+[^4]: [_Acts of the Government of India, from 1834 to 1838 Inclusive: Presented in Pursuance of Act 3 &amp; 4 Will. 4, c. 85, s. 51_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13600246) (London: House of Commons, 1840), 22–24. (From National Library Singapore, microfilm no. NL30789; accession no. B20020347G)&nbsp;
 
 
 [^5]: Sternberg, “The British Museum Library and Colonial Copyright Deposit,” 63.&nbsp;
@@ -116,32 +116,32 @@ Over the last 190 years, legal deposit in Singapore has evolved from legislation
 [^7]: _Acts of the Government of India, from 1834 to 1838 Inclusive_, 125.&nbsp;
 
 
-[^8]: _Acts of the Government of India, from 1834 to 1838 inclusive_, 126–31.
+[^8]: [_Acts of the Government of India, from 1834 to 1838 inclusive_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13600246), 126–31.
 
 
-[^9]: Ilse Sternberg, “The British Museum Library and the India Office,” _The British Library Journal_. 17, no. 2 (Autumn 1991): 153. (From JSTOR via NLB’s eResources website)
+[^9]: Ilse Sternberg, “The British Museum Library and the India Office,” _The British Library Journal_. 17, no. 2 (Autumn 1991): 153. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
 
 
 [^10]: Sternberg, “The British Museum Library and Colonial Copyright Deposit,” 73–74.&nbsp;
 
 
 
-[^11]: “Monday, 15th November, 1886,” _Straits Times Weekly Issue_, 6 December 1886, 9; “Draft Minutes of the Legislative Council,” _Straits Times Weekly Issue_, 29 November 1886, 9; “The Book Registration Ordinance of 1886,” _Penang Patriot_, 27 July 1898, 2. (From NewspaperSG)
+[^11]: “[Monday, 15th November, 1886](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18861206-1.2.26),” _Straits Times Weekly Issue_, 6 December 1886, 9; “[Draft Minutes of the Legislative Council](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18861129-1.2.34),” _Straits Times Weekly Issue_, 29 November 1886, 9; “[The Book Registration Ordinance of 1886](https://eresources.nlb.gov.sg/newspapers/digitised/article/penangpatriot18980727-1.2.7),” _Penang Patriot_, 27 July 1898, 2. (From NewspaperSG)
 
 
-[^12]: _The Press and Registration of Books Act, 1867_ (25 of 1867), Advocate KHOJ, 22 March 1867, https://www.advocatekhoj.com/library/bareacts/pressandregistration/; Straits Settlements, _The Acts and Ordinances of the Legislative Council of the Straits Settlements, from the 1st April 1867 to the 7th March 1898_, vol. 2, 1886–1898 (London: Eyre and Spottiswoode, 1898), 967. (From National Library Singapore, call no. RRARE 348.5957022 SIN))
+[^12]: _The Press and Registration of Books Act, 1867_ (25 of 1867), Advocate KHOJ, 22 March 1867, [https://www.advocatekhoj.com/library/bareacts/pressandregistration/](https://www.advocatekhoj.com/library/bareacts/pressandregistration/); Straits Settlements, [_The Acts and Ordinances of the Legislative Council of the Straits Settlements, from the 1st April 1867 to the 7th March 1898_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4981665), vol. 2, 1886–1898 (London: Eyre and Spottiswoode, 1898), 967. (From National Library Singapore, call no. RRARE 348.5957022 SIN))
 
 
-[^13]: Patricia Lim Pui Huen, Marion Southerwood and Katherine Hui, _Singapore, Malaysian and Brunei Newspapers: An International Union List_ (Singapore: Institute of Southeast Asian Studies, 1992), ix. (From National Library Singapore, call no. RSING 016.0795957 LIM-LIB\]). The Raffles Library’s annual reports from 1903 to 1939 mention receiving annual donations of books from the government of the Straits Settlements or the Colonial Secretary, which could have included the deposit copies.
+[^13]: Patricia Lim Pui Huen, Marion Southerwood and Katherine Hui, [_Singapore, Malaysian and Brunei Newspapers: An International Union List_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6340966) (Singapore: Institute of Southeast Asian Studies, 1992), ix. (From National Library Singapore, call no. RSING 016.0795957 LIM-LIB\]). The Raffles Library’s annual reports from 1903 to 1939 mention receiving annual donations of books from the government of the Straits Settlements or the Colonial Secretary, which could have included the deposit copies.
 
 
-[^14]: Raffles Museum and Library, _Annual Report 1893_ (Singapore: The Museum, 1894), 5. (From National Library Singapore, call no. RRARE 027.55957 RAF; microfilm no. NL25786)&nbsp;
+[^14]: Raffles Museum and Library, [_Annual Report 1893_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4394247) (Singapore: The Museum, 1894), 5. (From National Library Singapore, call no. RRARE 027.55957 RAF; microfilm no. NL25786)&nbsp;
 
 
-[^15]: Seet, _A Place for the People_, 38. &nbsp;
+[^15]: Seet, [_A Place for the People_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082325), 38. &nbsp;
 
 
-[^16]: “Legislative Council,” _Straits Echo_ (Mail Edition), 5 November 1919, 1786. (From NewspaperSG)
+[^16]: “[Legislative Council](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsechomail19191105-1.2.144),” _Straits Echo_ (Mail Edition), 5 November 1919, 1786. (From NewspaperSG)
 
 
 [^17]: The Chinese Protectorate (later known as the Chinese Secretariat) was established in 1877 to oversee matters regarding the Chinese community in the Straits Settlements. A Protector of Chinese was appointed to head it. For more information, see Irene Lim, “The Chinese Protectorate,” in _Singapore Infopedia_. National Library Board Singapore. Article published December 2021.
