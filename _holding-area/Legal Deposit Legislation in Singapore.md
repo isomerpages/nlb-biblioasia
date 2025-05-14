@@ -83,6 +83,13 @@ Like the 1867 Indian Act, the 1886 Book Registration Ordinance required the offi
 
 In Singapore, the very first catalogue of books was published in the 20 May 1887 issue of the gazette for the quarter ending 31 March 1887 with the title _Memoranda of Books Registered in the Catalogue of Books Printed in the Straits Settlements Under the Provisions of Ordinance No. XV of 1886_.[^31] The catalogue listed five publications printed in Singapore: a school textbook in Tamil, the weekly and daily issues of the _Straits Times_, the magazine of St Andrew’s Cathedral and the _Singapore_ &amp; _Straits Directory_ of 1887. The memoranda of books continued to be published in the gazette until April 1995 when the National Library Board Act came into effect.&nbsp;
 
+![](/images/Vol%2021%20Issue%202/Early%20History%20of%20Legal%20Deposit/early_key.jpg)
+<div style="background-color:white;"> Manually keying in the titles deposited under the Printers and Publishers Act into the library’s database, 1989. <i>Collection of the National Library, Singapore.</i></div>
+
+
+![](/images/Vol%2021%20Issue%202/Early%20History%20of%20Legal%20Deposit/early_technician.jpg)
+<div style="background-color:white;"> Library Technician Chong Boey Im records serials deposited under the Printers and Publishers Act at the National Library, Stamford Road, c. early 1980s. <i>Collection of the National Library Singapore.</i></div>
+
 Since 1969, the National Library has been compiling the annual _Singapore National Bibliography_ (SNB) which contains local titles deposited with the library under the Printers and Publishers Ordinance. The compilation of current and historical bibliographies was laid out as a statutory function of a national library within the 1957 Raffles National Library Ordinance.&nbsp;
 
 The first issue of the SNB, featuring publications printed in 1967, was released in August 1969 and sold to the public at $3.[^32] Over the years, the SNB has expanded to include titles received through donations and purchases as well as electronic publications. The SNB was produced as a CD-ROM from 1993 and as an online bibliography from 2011.
