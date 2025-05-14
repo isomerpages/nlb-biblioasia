@@ -90,36 +90,110 @@ Over the last 190 years, legal deposit in Singapore has evolved from legislation
 
 
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src="/images/Authors/DrJohnBray2.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/DrJohnBray25ger.png">
 <b>Makeswary Periasamy</b>&nbsp;is a Senior Librarian with the Rare Collections team at the National Library Singapore. As the librarian in charge of maps, she co-curated <i>Land of Gold and Spices: Early Maps of Southeast Asia and Singapore</i> in 2015, and co-authored <i>Visualising Space: Maps of Singapore and the Region</i> (2015). </div>
 
 #### **Notes**
 
-[^1]: 
+[^1]:  K.K. Seet, _A Place for the People_ (Singapore: Times Books International, 1983), 112. (From National Library Singapore, call no. RSING 027.55957 SEE-\[LIB\])
 
 
-[^2]: 
+[^2]: The first legal deposit system was established in France by King Francis I who signed the Ordonnance de Montpellier on 28 December 1537, requiring printers and booksellers to deposit a copy of every printed book with the Royal Library.&nbsp;
 
 
-[^3]: 
+[^3]: Patricia Lim Pui Huen, Marion Southerwood and Katherine Hui, _Singapore, Malaysian and Brunei Newspapers: An International Union List_ (Singapore: Institute of Southeast Asian Studies, 1992), ix. (From National Library Singapore, call no. RSING 016.0795957 LIM-\[LIB\]); Ilse Sternberg, “The British Museum Library and Colonial Copyright Deposit,” _The British Library Journal_ 17, no. 1 (Spring 1991): 62. (From JSTOR via NLB’s eResources website)
 
 
-[^4]: 
+[^4]: _Acts of the Government of India, from 1834 to 1838 Inclusive: Presented in Pursuance of Act 3 &amp; 4 Will. 4, c. 85, s. 51_ (London: House of Commons, 1840), 22–24. (From National Library Singapore, microfilm no. NL30789; accession no. B20020347G)&nbsp;
 
 
-[^5]: 
+[^5]: Sternberg, “The British Museum Library and Colonial Copyright Deposit,” 63.&nbsp;
 
 
-[^6]: 
+[^6]: Sternberg, “The British Museum Library and Colonial Copyright Deposit,” 63–64.
 
 
-[^7]: 
+[^7]: _Acts of the Government of India, from 1834 to 1838 Inclusive_, 125.&nbsp;
 
 
-[^8]: 
+[^8]: _Acts of the Government of India, from 1834 to 1838 inclusive_, 126–31.
 
 
-[^9]: 
+[^9]: Ilse Sternberg, “The British Museum Library and the India Office,” _The British Library Journal_. 17, no. 2 (Autumn 1991): 153. (From JSTOR via NLB’s eResources website)
 
 
-[^0]:
+[^10]: Sternberg, “The British Museum Library and Colonial Copyright Deposit,” 73–74.&nbsp;
+
+
+
+[^11]: “Monday, 15th November, 1886,” _Straits Times Weekly Issue_, 6 December 1886, 9; “Draft Minutes of the Legislative Council,” _Straits Times Weekly Issue_, 29 November 1886, 9; “The Book Registration Ordinance of 1886,” _Penang Patriot_, 27 July 1898, 2. (From NewspaperSG)
+
+
+[^12]: _The Press and Registration of Books Act, 1867_ (25 of 1867), Advocate KHOJ, 22 March 1867, https://www.advocatekhoj.com/library/bareacts/pressandregistration/; Straits Settlements, _The Acts and Ordinances of the Legislative Council of the Straits Settlements, from the 1st April 1867 to the 7th March 1898_, vol. 2, 1886–1898 (London: Eyre and Spottiswoode, 1898), 967. (From National Library Singapore, call no. RRARE 348.5957022 SIN))
+
+
+[^13]: Patricia Lim Pui Huen, Marion Southerwood and Katherine Hui, _Singapore, Malaysian and Brunei Newspapers: An International Union List_ (Singapore: Institute of Southeast Asian Studies, 1992), ix. (From National Library Singapore, call no. RSING 016.0795957 LIM-LIB\]). The Raffles Library’s annual reports from 1903 to 1939 mention receiving annual donations of books from the government of the Straits Settlements or the Colonial Secretary, which could have included the deposit copies.
+
+
+[^14]: Raffles Museum and Library, _Annual Report 1893_ (Singapore: The Museum, 1894), 5. (From National Library Singapore, call no. RRARE 027.55957 RAF; microfilm no. NL25786)&nbsp;
+
+
+[^15]: Seet, _A Place for the People_, 38. &nbsp;
+
+
+[^16]: “Legislative Council,” _Straits Echo_ (Mail Edition), 5 November 1919, 1786. (From NewspaperSG)
+
+
+[^17]: The Chinese Protectorate (later known as the Chinese Secretariat) was established in 1877 to oversee matters regarding the Chinese community in the Straits Settlements. A Protector of Chinese was appointed to head it. For more information, see Irene Lim, “The Chinese Protectorate,” in _Singapore Infopedia_. National Library Board Singapore. Article published December 2021.
+
+
+[^18]: “Untitled,” _Malaya Tribune_, 8 November 1930, 8. (From NewspaperSG)
+
+
+[^19]: Legislative history from the National Library Board Act 1995, Singapore Statutes Online, last accessed 28 March 2025, https://sso.agc.gov.sg/Act/NLBA1995.&nbsp;
+
+
+[^20]: E.J.H. Corner and L. Birtwistle, _Report of Raffles Library &amp; Museum_, (Typescript), 1945–1946, 6–7; Annabel Teh Gallop, “The Perak Times: A Rare Japanese-Occupation Newspaper from Malaya,” British Library Asian and African Studies Blog, 13 May 2016, https://blogs.bl.uk/asian-and-african/2016/05/the-perak-times-a-rare-japanese-occupation-newspaper-from-malaya.html.
+
+
+
+[^21]: The Archivist was a separate post from the Librarian and took charge of the Straits Settlements archives transferred from the Colonial Secretary’s Office as well as the newspapers and maps collection kept in the storeroom; these were mostly unsorted and uncatalogued. From 1939, the Archivist reported separately from the Raffles Library in the annual reports of the Raffles Library and Museum. Raffles Museum and Library, _Annual Report 1938_ (Singapore: The Museum, 1935–39), 1. (From National Library Singapore, call no. RRARE 027.55957 RAF; microfilm no. NL25786); Raffles Museum and Library, _Annual Report 1948_&nbsp; (Singapore: The Museum, 1949), 5. (From National Library Singapore, call no. RCLOS 027.55957 RAF; microfilm no. NL25786)
+
+
+[^22]: Raffles Museum and Library, _Annual Report 1950–54_&nbsp; (Singapore: The Museum, 1951–55), 11. (From National Library Singapore, call no. RCLOS 027.55957 RAF; microfilm no. NL25786)
+
+
+[^23]: “Malaya, S’pore Lack Library Facilities,” _Singapore Standard_, 1 June 1955, 4. (From NewspaperSG)
+
+
+[^24]: Fiona Tan, “Pioneers of the Archives,” _BiblioAsia 15_, no. 1 (April–June 2019): 14–20.&nbsp;
+
+
+[^25]: Raffles Museum and Library, Annual Report 1957 (Singapore: Raffles Museum and Library, 1958), 1. (From National Library Singapore, call no. RCLOS 027.55957 RAF; microfilm no. NL25786)
+
+
+[^26]: Cecil Byrd, _Books in Singapore: A Survey of Publishing, Printing, Bookselling and Library Activity in the Republic of Singapore_ (Singapore: Published for the National Book Development Council of Singapore by Chopmen Enterprises, 1970), 103. (From National Library Singapore, call no. RCLOS 070.5095957 BYR)
+
+
+[^27]: Raffles Museum and Library, _Annual Report 1957_, 1; Seet, _A Place for the People_, 106.
+
+
+[^28]: Gloria Chandy, “Herein Lie ‘Secrets’ of Our Heritage,” _Straits Times_, 1 December 1978, 21. (From NewspaperSG); Byrd, _Books in Singapore_, 103–104.
+
+
+[^29]: Seet, _A Place for the People_, 122.
+
+
+[^30]: E. Klass, “Why Locally-Printed Books Must Go to the N-Library,” _Straits Times_, 8 November 1976, 14. (From NewspaperSG)
+
+
+
+[^31]: _Straits Settlements Government Gazette_, vol. 21, Apr–Jun 1887 (Singapore: Government Printing Office, 1887), 900–01. (From National Library Singapore, call no. RRARE 959.51 SGG; microfilm no. NL1016–NL1023)
+
+
+[^32]: “First Issue of National Bibliography Is Out,” _Straits Times_, 9 August 1969, 6. (From NewspaperSG)
+
+
+[^33]: The physical collection of books deposited with the National Library has been made available for reference and research since 2015, while the electronic collection can be viewed at a designated computer terminal at Level 11 of the Lee Kong Chian Reference Library at the National Library Building on Victoria Street.
+
+
