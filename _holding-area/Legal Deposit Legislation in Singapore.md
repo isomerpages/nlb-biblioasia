@@ -95,13 +95,13 @@ Over the last 190 years, legal deposit in Singapore has evolved from legislation
 
 #### **Notes**
 
-[^1]:  K.K. Seet, _A Place for the People_ (Singapore: Times Books International, 1983), 112. (From National Library Singapore, call no. RSING 027.55957 SEE-\[LIB\])
+[^1]:  K.K. Seet, [_A Place for the People_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082325) (Singapore: Times Books International, 1983), 112. (From National Library Singapore, call no. RSING 027.55957 SEE-\[LIB\])
 
 
 [^2]: The first legal deposit system was established in France by King Francis I who signed the Ordonnance de Montpellier on 28 December 1537, requiring printers and booksellers to deposit a copy of every printed book with the Royal Library.&nbsp;
 
 
-[^3]: Patricia Lim Pui Huen, Marion Southerwood and Katherine Hui, _Singapore, Malaysian and Brunei Newspapers: An International Union List_ (Singapore: Institute of Southeast Asian Studies, 1992), ix. (From National Library Singapore, call no. RSING 016.0795957 LIM-\[LIB\]); Ilse Sternberg, “The British Museum Library and Colonial Copyright Deposit,” _The British Library Journal_ 17, no. 1 (Spring 1991): 62. (From JSTOR via NLB’s eResources website)
+[^3]: Patricia Lim Pui Huen, Marion Southerwood and Katherine Hui, [_Singapore, Malaysian and Brunei Newspapers: An International Union List_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6340966) (Singapore: Institute of Southeast Asian Studies, 1992), ix. (From National Library Singapore, call no. RSING 016.0795957 LIM-\[LIB\]); Ilse Sternberg, “The British Museum Library and Colonial Copyright Deposit,” _The British Library Journal_ 17, no. 1 (Spring 1991): 62. (From JSTOR via NLB’s [eResources](https://eresources.nlb.gov.sg/main) website)
 
 
 [^4]: _Acts of the Government of India, from 1834 to 1838 Inclusive: Presented in Pursuance of Act 3 &amp; 4 Will. 4, c. 85, s. 51_ (London: House of Commons, 1840), 22–24. (From National Library Singapore, microfilm no. NL30789; accession no. B20020347G)&nbsp;
@@ -195,5 +195,3 @@ Over the last 190 years, legal deposit in Singapore has evolved from legislation
 
 
 [^33]: The physical collection of books deposited with the National Library has been made available for reference and research since 2015, while the electronic collection can be viewed at a designated computer terminal at Level 11 of the Lee Kong Chian Reference Library at the National Library Building on Victoria Street.
-
-
