@@ -144,54 +144,54 @@ Over the last 190 years, legal deposit in Singapore has evolved from legislation
 [^16]: “[Legislative Council](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsechomail19191105-1.2.144),” _Straits Echo_ (Mail Edition), 5 November 1919, 1786. (From NewspaperSG)
 
 
-[^17]: The Chinese Protectorate (later known as the Chinese Secretariat) was established in 1877 to oversee matters regarding the Chinese community in the Straits Settlements. A Protector of Chinese was appointed to head it. For more information, see Irene Lim, “The Chinese Protectorate,” in _Singapore Infopedia_. National Library Board Singapore. Article published December 2021.
+[^17]: The Chinese Protectorate (later known as the Chinese Secretariat) was established in 1877 to oversee matters regarding the Chinese community in the Straits Settlements. A Protector of Chinese was appointed to head it. For more information, see Irene Lim, “[The Chinese Protectorate](https://www.nlb.gov.sg/main/article-detail?cmsuuid=04d3f708-c117-457a-9ea0-9717f9f03971),” in _Singapore Infopedia_. National Library Board Singapore. Article published December 2021.
 
 
-[^18]: “Untitled,” _Malaya Tribune_, 8 November 1930, 8. (From NewspaperSG)
+[^18]: “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19301108-1.2.33),” _Malaya Tribune_, 8 November 1930, 8. (From NewspaperSG)
 
 
-[^19]: Legislative history from the National Library Board Act 1995, Singapore Statutes Online, last accessed 28 March 2025, https://sso.agc.gov.sg/Act/NLBA1995.&nbsp;
+[^19]: Legislative history from the National Library Board Act 1995, Singapore Statutes Online, last accessed 28 March 2025, [https://sso.agc.gov.sg/Act/NLBA1995](https://sso.agc.gov.sg/Act/NLBA1995).
 
 
-[^20]: E.J.H. Corner and L. Birtwistle, _Report of Raffles Library &amp; Museum_, (Typescript), 1945–1946, 6–7; Annabel Teh Gallop, “The Perak Times: A Rare Japanese-Occupation Newspaper from Malaya,” British Library Asian and African Studies Blog, 13 May 2016, https://blogs.bl.uk/asian-and-african/2016/05/the-perak-times-a-rare-japanese-occupation-newspaper-from-malaya.html.
-
-
-
-[^21]: The Archivist was a separate post from the Librarian and took charge of the Straits Settlements archives transferred from the Colonial Secretary’s Office as well as the newspapers and maps collection kept in the storeroom; these were mostly unsorted and uncatalogued. From 1939, the Archivist reported separately from the Raffles Library in the annual reports of the Raffles Library and Museum. Raffles Museum and Library, _Annual Report 1938_ (Singapore: The Museum, 1935–39), 1. (From National Library Singapore, call no. RRARE 027.55957 RAF; microfilm no. NL25786); Raffles Museum and Library, _Annual Report 1948_&nbsp; (Singapore: The Museum, 1949), 5. (From National Library Singapore, call no. RCLOS 027.55957 RAF; microfilm no. NL25786)
-
-
-[^22]: Raffles Museum and Library, _Annual Report 1950–54_&nbsp; (Singapore: The Museum, 1951–55), 11. (From National Library Singapore, call no. RCLOS 027.55957 RAF; microfilm no. NL25786)
-
-
-[^23]: “Malaya, S’pore Lack Library Facilities,” _Singapore Standard_, 1 June 1955, 4. (From NewspaperSG)
-
-
-[^24]: Fiona Tan, “Pioneers of the Archives,” _BiblioAsia 15_, no. 1 (April–June 2019): 14–20.&nbsp;
-
-
-[^25]: Raffles Museum and Library, Annual Report 1957 (Singapore: Raffles Museum and Library, 1958), 1. (From National Library Singapore, call no. RCLOS 027.55957 RAF; microfilm no. NL25786)
-
-
-[^26]: Cecil Byrd, _Books in Singapore: A Survey of Publishing, Printing, Bookselling and Library Activity in the Republic of Singapore_ (Singapore: Published for the National Book Development Council of Singapore by Chopmen Enterprises, 1970), 103. (From National Library Singapore, call no. RCLOS 070.5095957 BYR)
-
-
-[^27]: Raffles Museum and Library, _Annual Report 1957_, 1; Seet, _A Place for the People_, 106.
-
-
-[^28]: Gloria Chandy, “Herein Lie ‘Secrets’ of Our Heritage,” _Straits Times_, 1 December 1978, 21. (From NewspaperSG); Byrd, _Books in Singapore_, 103–104.
-
-
-[^29]: Seet, _A Place for the People_, 122.
-
-
-[^30]: E. Klass, “Why Locally-Printed Books Must Go to the N-Library,” _Straits Times_, 8 November 1976, 14. (From NewspaperSG)
+[^20]: E.J.H. Corner and L. Birtwistle, [_Report of Raffles Library &amp; Museum_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4394247), (Typescript), 1945–1946, 6–7; Annabel Teh Gallop, “[The Perak Times: A Rare Japanese-Occupation Newspaper from Malaya](https://blogs.bl.uk/asian-and-african/2016/05/the-perak-times-a-rare-japanese-occupation-newspaper-from-malaya.html),” British Library Asian and African Studies Blog, 13 May 2016, [https://blogs.bl.uk/asian-and-african/2016/05/the-perak-times-a-rare-japanese-occupation-newspaper-from-malaya.html](https://blogs.bl.uk/asian-and-african/2016/05/the-perak-times-a-rare-japanese-occupation-newspaper-from-malaya.html).
 
 
 
-[^31]: _Straits Settlements Government Gazette_, vol. 21, Apr–Jun 1887 (Singapore: Government Printing Office, 1887), 900–01. (From National Library Singapore, call no. RRARE 959.51 SGG; microfilm no. NL1016–NL1023)
+[^21]: The Archivist was a separate post from the Librarian and took charge of the Straits Settlements archives transferred from the Colonial Secretary’s Office as well as the newspapers and maps collection kept in the storeroom; these were mostly unsorted and uncatalogued. From 1939, the Archivist reported separately from the Raffles Library in the annual reports of the Raffles Library and Museum. Raffles Museum and Library, [_Annual Report 1938_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4394247) (Singapore: The Museum, 1935–39), 1. (From National Library Singapore, call no. RRARE 027.55957 RAF; microfilm no. NL25786); Raffles Museum and Library, [_Annual Report 1948_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4394247) (Singapore: The Museum, 1949), 5. (From National Library Singapore, call no. RCLOS 027.55957 RAF; microfilm no. NL25786)
 
 
-[^32]: “First Issue of National Bibliography Is Out,” _Straits Times_, 9 August 1969, 6. (From NewspaperSG)
+[^22]: Raffles Museum and Library, [_Annual Report 1950–54_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4394247) (Singapore: The Museum, 1951–55), 11. (From National Library Singapore, call no. RCLOS 027.55957 RAF; microfilm no. NL25786)
+
+
+[^23]: “[Malaya, S’pore Lack Library Facilities](https://eresources.nlb.gov.sg/newspapers/digitised/article/singstandard19550601-1.2.51),” _Singapore Standard_, 1 June 1955, 4. (From NewspaperSG)
+
+
+[^24]: Fiona Tan, “[Pioneers of the Archives](https://biblioasia.nlb.gov.sg/vol-15/issue-1/apr-jun-2019/pioneers-of-archives/),” _BiblioAsia 15_, no. 1 (April–June 2019): 14–20.&nbsp;
+
+
+[^25]: Raffles Museum and Library, [Annual Report 1957](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4394247) (Singapore: Raffles Museum and Library, 1958), 1. (From National Library Singapore, call no. RCLOS 027.55957 RAF; microfilm no. NL25786)
+
+
+[^26]: Cecil Byrd, [_Books in Singapore: A Survey of Publishing, Printing, Bookselling and Library Activity in the Republic of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=61309) (Singapore: Published for the National Book Development Council of Singapore by Chopmen Enterprises, 1970), 103. (From National Library Singapore, call no. RCLOS 070.5095957 BYR)
+
+
+[^27]: Raffles Museum and Library, [_Annual Report 1957_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4394247), 1; Seet, [_A Place for the People_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082325), 106.
+
+
+[^28]: Gloria Chandy, “[Herein Lie ‘Secrets’ of Our Heritage](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19781201-1.2.90),” _Straits Times_, 1 December 1978, 21. (From NewspaperSG); Byrd, [_Books in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=61309), 103–104.
+
+
+[^29]: Seet, [_A Place for the People_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082325), 122.
+
+
+[^30]: E. Klass, “[Why Locally-Printed Books Must Go to the N-Library](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19761108-1.2.97),” _Straits Times_, 8 November 1976, 14. (From NewspaperSG)
+
+
+
+[^31]: [_Straits Settlements Government Gazette_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5289724), vol. 21, Apr–Jun 1887 (Singapore: Government Printing Office, 1887), 900–01. (From National Library Singapore, call no. RRARE 959.51 SGG; microfilm no. NL1016–NL1023)
+
+
+[^32]: “[First Issue of National Bibliography Is Out](http://eresources.nlb.gov.sg/newspapers/Digitised/Article/straitstimes19690809-1.2.28),” _Straits Times_, 9 August 1969, 6. (From NewspaperSG)
 
 
 [^33]: The physical collection of books deposited with the National Library has been made available for reference and research since 2015, while the electronic collection can be viewed at a designated computer terminal at Level 11 of the Lee Kong Chian Reference Library at the National Library Building on Victoria Street.
