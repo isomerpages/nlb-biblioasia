@@ -27,11 +27,11 @@ Hedwig Elizabeth Aroozoo was born 19 November 1928 in Johor Bahru to a Eurasian 
 
 It is perhaps not surprising&nbsp;then&nbsp;that Anuar developed a love for reading at an early age. In an interview with _Straits Times_ in 1985, Anuar said she could not remember a time when she could not read and started on political works in her father’s extensive library at age 10 in 1939. [^2]
 
+Anuar studied at the Convent of the Holy Infant Jesus in Johor Bahru and then at the Convent of the Holy Infant Jesus in Singapore. In 1947, she entered Raffles College to read literature. Raffles College became the University of Malaya in 1949, so when she graduated in 1951, it was with a first class honours degree from the newly renamed university.
+
 ![](/images/Vol%2021%20Issue%202/Hedwig%20%20%20First%20Lady/hedwig2_women.jpg)
 <div style="background-color:white;">Hedwig Anuar (far left) with the first women arts and science graduates of the University of Malaya, 1950. <i>Courtesy of Shirin Aroozoo.</i></div>
 
-
-Anuar studied at the Convent of the Holy Infant Jesus in Johor Bahru and then at the Convent of the Holy Infant Jesus in Singapore. In 1947, she entered Raffles College to read literature. Raffles College became the University of Malaya in 1949, so when she graduated in 1951, it was with a first class honours degree from the newly renamed university.
 
 As the Japanese Occupation (1942–45) had depleted her father’s savings, Anuar taught at the People’s Education Association and tutored other students to get by while studying. This did not stop her from getting involved in college life: she joined the Literary Dramatic and Debating Society and was active with the students’ union, becoming known as the “Lady President”, a title she detested. [^3]
 
