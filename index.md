@@ -1074,4 +1074,14 @@ sections:
       url: /vol-21/issue-2/jul-sep-2025/mobile-libraries-books-on-wheels/
       image: /images/Vol 21 Issue 2/Books on Wheels/Mobile_Libraries_topic.png
       alt: Singapore's Mobile Libraries
+  - infopic:
+      title: The Story of the National Library
+      subtitle: Local Icons
+      id: infopic
+      description: The National Library Singapore began life in 1837 with a modest
+        collection of 392 publications belonging to the Singapore Free School.
+      button: COLLECTING SCATTERED LITERATURE
+      url: /vol-21/issue-2/jul-sep-2025/history-story-national-library-singapore/
+      image: /images/Vol 21 Issue 2/Story of National Library/NL_Story_topic.jpg
+      alt: Story of the National Library
 ---
