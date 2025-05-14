@@ -37,6 +37,9 @@ The British Museum’s collecting efforts faced challenges with the UK’s Inter
 
 The Book Registration Ordinance, implemented on 1 January 1887, required three copies of every Straits Settlements publication to be deposited with Singapore’s Colonial Secretary’s Office. One deposited copy and two copies of the memoranda of books were subsequently sent to the British Museum Library.[^11]
 
+![](/images/Vol%2021%20Issue%202/Early%20History%20of%20Legal%20Deposit/early_memoranda.jpg)
+<div style="background-color:white;">First issue of the “Memoranda of Books Registered in the Catalogue of Books Printed in the Straits Settlements” printed in the 20 May 1887 issue of the <i>Straits Settlements Government Gazette</i>. <i>Collection of the National Library Singapore.</i></div>
+
 Similar to the 1867 Indian Act, the 1886 ordinance broadly defined “book” to include “every volume, or part of division of a volume, and pamphlet, in any language, and every sheet of music, map, chart or plan separately printed or lithographed”.[^12] Publication details were recorded in an official catalogue, published quarterly in the government gazette. If printers did not comply, they could be fined up to $25.&nbsp;
 
 Though not officially designated as the local depository, the Raffles Library (National Library’s predecessor) received one of the deposited copies.[^13] This arrangement and the challenge in managing the collection was documented by Librarian G.D. Haviland in 1893.&nbsp; He wrote: “Since 1886, publications have been forwarded to the Library under the Book Registration Ordinance; these have never been arranged at all; this year a small room has been kept especially for them, but they have not yet been sorted sufficiently to make them available for reference.”[^14]
