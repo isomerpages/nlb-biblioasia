@@ -123,13 +123,17 @@ He added that Chia was able to strike a balance between “not rocking the boat�
 
 Resistance to change also ebbed when staff started seeing the tangible results of new ideas. The switch away from the tedious and time-consuming manual processing of library books was one example. Chia and his team collaborated with a local company to come up with a system where radio frequency identification was used to automate the check-out and returning of books. The first prototype was rolled out at the Bukit Batok Community Library, which opened in November 1998. “It worked beautifully,” said Chia. “When staff from other branches started asking ‘when is our turn?’, I knew that we had turned a corner.”&nbsp;
 
+![](/images/Vol%2021%20Issue%202/Writing%20the%20NLB%20Story/writing_lib.jpg)
+<div style="background-color:white;">The Radio Frequency Identification system was piloted at Bukit Batok Community Library, which opened in November 1998. <i> Collection of the National Library Board.</i></div>
+
+
 #### **A Lasting Impact**
 
 By 2001, visitorship had quadrupled, the collection had tripled in size, and membership and the library physical space had doubled. The loan rate also increased from 10 to 25 million books, and time spent in queues was reduced from an hour to 15 mins.[^21] That year, the NLB was featured in a case study by the Harvard Business School. Case studies of real-world organisations that illustrate business concepts in action form the backbone of the curriculum at this institution.[^22]
 
 Today, the effects of the Library 2000 recommendations can clearly be seen as many of the proposals were implemented – from a network of libraries of different sizes, to libraries with vibrant designs and tech-aided services that are embedded within shopping malls.&nbsp;
 
-![](/images/Vol%2021%20Issue%202/Writing%20the%20NLB%20Story/writing_newspaper.jpg)
+![](/images/Vol%2021%20Issue%202/Writing%20the%20NLB%20Story/writing_newspaper2.jpg)
 <div style="background-color:white;">The first library to open in a shopping mall is the Jurong West Community Library in Jurong Point. Source: <i> The Straits Times, 23 March 1996 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 
