@@ -8,6 +8,8 @@ description: ""
 
 By Makeswary Periasamy
 
+![](/images/Vol%2021%20Issue%202/Early%20History%20of%20Legal%20Deposit/early_main.jpg)
+<div style="background-color:white;">A library staff records local newspapers received under the Printers and Publishers Ordinance at the National Library on Stamford Road, 1962. <i>Collection of the National Library Singapore.</i></div>
 
 National libraries worldwide serve as custodians of their nations’ published heritage, collecting and preserving materials for future generations. These collections represent the cultural and literary memory of the respective countries. In early post-independent Singapore, the library was hailed as a symbol of nationhood,[^1] with legal deposit becoming a crucial tool for building and maintaining its collections. &nbsp;
 
