@@ -89,4 +89,39 @@ canonisation. To quote Parr and Badger at length:
    ‘greatest hits’, a career review. Monographs, or anthologies of<br>
    a particular photographer’s work at a given time in his or her<br>
    career have therefore not been included.*8
+	 
+Having provided what seems like an all-encompassing definition of the
+photobook, they immediately temper it by including in their selection
+the monographs of Henri Cartier-Bresson (*The Decisive Moment*, 1952)
+and Walker Evans (*American Photographs*, 1938), while excluding those
+made by some of the most important American Pictorialists, such as
+Alfred Stieglitz, Edward Weston and Ansel Adams. According to Parr and
+Badger, while the publications of the Pictorialists are typically sumptuous
+in production, they are more like anthologies than cogent photobooks.9
+And yet, in *The Chinese Photobook: From the 1900s to the Present* (2015),
+co-edited by Parr – again based on his ever-growing collection – and
+WassinkLundgren (with Badger serving as a contributor), anthologies
+and exhibition catalogues such as *Peking Light Society Annual* (1929)
+and *Holidays in Hong Kong* (1968) from the milieus of Pictorialism are
+included in the selection.10 There is no doubt that these are significant
+publications in the history of China photography. The same can be said
+of the photobooks made by the aforementioned American Pictorialists,
+*vis-à-vis* the historiography of American photography. Why do Parr and
+his associates treat the productions of American and China Pictorialists
+differently? It is beyond the scope of this paper to delve into the question.
+But if I may suggest a possible reason, the discrepancy is perhaps due
+to the fact that the imprint of the American Pictorialists has already
+been fully acknowledged in the history of global photography, whereas
+the historiography of China photography remains a work-in-progress,
+especially for the English-speaking world. In this context, it is possible that
+Parr and WassinkLundgren had felt somewhat obliged to present a history
+of China photography via their valorisation of photobooks.
+
+Returning to the issue of definition, U.S.-based Jörg Colberg, a widely
+followed proponent of the photobook, offers a slightly different view. He
+defines the photobook as a book that is viewed primarily for its photographs.
+This is different from a cookbook, for instance, which is probably read for
+its recipes rather than photographs.11 In contrast, Parr and Badger devote
+a full chapter in *The Photobook: A History Volume II* to the company book because many of the greatest photographers produced books that had been
+subsidised and commissioned by commercial corporations.12
 
