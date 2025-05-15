@@ -357,3 +357,198 @@ it would have hardly mattered, here in Southeast Asia, what Parr and
 Badger have been trying to advocate. In this regard, the unevenness in the
 appreciation and making of photobooks across different parts of the region
 validates my point.
+
+#### **Translating the Photobook: Initiatives**
+In the decades that followed World War II, the state, elite class and
+corporations were the major drivers of photo publications in Indonesia
+(as was the case in other parts of Southeast Asia). Amateur photo clubs
+also published catalogues of their exhibitions. By the mid-80s, grandiose
+coffee-table books had become extremely popular, as the world’s most
+famous photographers were parachuted across the archipelago in search of
+“mystical, mythical Indonesia” to cash in on the “West’s surging interest
+in exotic lands”.29 In 1992, the national news agency of Antara (founded
+in 1937) decided to reopen its old office in Pasar Baru, Jakarta and convert
+it into Antara Photojournalism Gallery (GFJA), perhaps the first nonprofit
+space in Southeast Asia dedicated to photography. At least since the
+late 1990s, GFJA has been producing brochures, exhibition catalogues,
+zines and photobooks for its various initiatives. In short, without access
+to wealth or patronage, a photographer would have to work with an
+established publisher or exhibition space to publish a photobook. The
+current spate of photobook-making on a more independent basis has
+taken some time to germinate.
+
+In 2008, with the support of German Photobook Prize, PannaFoto Institute
+(established in 2006), a non-profit foundation in Indonesia that focuses on
+photographic education and visual literacy, initiated a long-term relationship
+with Goethe-Institut in Jakarta to mount a series of photobook exhibitions.30
+At the inaugural exhibition in 2008, some 100 books were on display,
+outnumbering the 20 or so attendees at the opening. The exhibition had
+received scant interest because, for aspiring photographers in Indonesia, the
+preferred mode of validating one’s work had always been to win awards,
+mount a solo show or have one’s photographs published in magazines.
+
+In 2011, Ahmad Salman, one of PannaFoto’s founding members, set up
+the public Facebook group of Buku Fotografi Indonesia (Photo Books
+Indonesia) and encouraged its followers to post photographs of their
+photobooks to the group. This initiative worked to crowdsource the history
+of photobooks in Indonesia. The fact that people responded to Ahmad’s call
+suggests that the photobook form had gained a degree of traction by then.
+In that same year, photobook evangelist Markus Schaden (b. 1965, Cologne)
+ran a workshop sharing his book-making methodology in Jakarta.
+
+Beyond the PannaFoto ecology, esteemed street photographer Erik Prasetya
+(b. 1958, Padang) was finally able to publish, in 2011, his first and longawaited
+photobook, *Jakarta: Estetika Banal*, with the most visible bookstore
+retailer in Indonesia, Kepustakaan Populer Gramedia. Funded by the Jakarta
+Arts Council (DKJ), the photobook brought to fruition Erik’s unwavering
+desire, over the past two decades, to photograph his adopted city of Jakarta.
+The endeavour bears testament to his intent to leave behind an artefact in
+the photobook form for future photographers in Indonesia. “Young people
+tend to work when everything is in place – when the money is there and the
+concept is ready. It’s not like that,” Erik explains. “When you shoot, you
+think of doing one good essay. And when you have 10 good essays, then you
+can make a book.”31
+
+In April 2012, with the support of PannaFoto, Ahmad and photojournalist
+Julian Sihombing (b. 1959, Jakarta–d. 2012) initiated a series of *kumpul buku*
+(book gathering) in Jakarta. The event incorporated a bazaar of new and used photobooks, book signing sessions and public forums. Visitors were
+encouraged to share their photobooks during each gathering. Kumpul Buku
+has since inspired similar events across Indonesia, in Surabaya, Bandung,
+Solo and Yogyakarta.32 Over in Malaysia, on 1 May 2013, Faisal Aziz (b. 1988,
+Johor) and Liyana Jaafar founded the now-dormant Photobook Club
+Kuala Lumpur (PBCKL), which was partly modelled after the UK-based
+Photobook Club (established in 2011 by Matt Johnston). PBCKL positioned
+itself as a grassroots platform to promote and nurture discussions on the
+photobook, with the explicit aim of reaching the general public, beyond
+the photography community.33 PBCKL started with the couple’s personal
+collection of books and was informed by their desire to share them with the
+public. Its launch event was held at a lake garden in Selangor, featuring a
+discussion on photobooks and a browsing session at the
+garden’s benches.
+
+Inspired by PBCKL and PannaFoto’s Kumpul Buku, Ridzki Noviansyah
+(b. 1986, Bandar Lampung) and Tommy N. Armansyah (b. 1974,
+Bandung) co-founded the Photobook Club-Jakarta in 2013. During its
+most active period, the club routinely organised public forums to discuss
+photobooks from around the world.34 On 15 and 16 November 2013,
+PBCKL was invited to a *kumpul buku* in Yogyakarta where they displayed
+a selection of Malaysian and Japanese books from its collection. The
+following year, on 18 May 2014, PBCKL hosted Ridzki for a talk at the
+Centre for Asian Photographers, Selangor, where he introduced a selection
+of Indonesian photobooks to the Malaysian audience. This brief account
+of photobook club initiatives helps to map the circuitous translation of
+photobook hype from Europe to Malaysia and Indonesia. It is also clear
+that practitioners from both countries inter-referenced the experiences of
+each other in localising the interest in photobooks.
+
+In 2012, PannaFoto decided to try its hand at self-publishing. Led by
+current director and founding member Ng Swan Ti (b. 1972, Malang),
+they approached the endeavour with trepidation. Like Ng, many of her
+peers at PannaFoto came to photography during or after Reformasi,
+which was triggered by the Asian Financial Crisis in 1997 and resulted in the fall of Suharto in 1998. Since then,
+they had harboured hopes of publishing
+photobooks. The main challenge was to
+find a way to do so without substantial
+financial support. As a first attempt,
+Ng decided to play it safe and publish a
+book for her husband, fellow PannaFoto
+member Edy Purnomo (b.1968, Ponorogo),
+“who has no worry about his prestige as
+a photographer”.35 Ahmad and designer
+Bobby Haryanto worked on the project
+*pro bono*. The first print run of *Passing* was
+a tentative 200 copies. After everything for
+the launch had been booked PannaFoto
+promptly printed another 500 copies. Their
+initial uncertainty over the publication is
+reflected in the comparatively small size of
+the photobook, which measures 16 cm by
+14 cm.
+
+In 2013, Rony Zakaria (b. 1984, Jakarta) self published his first photobook,
+*Encounters*, to a warm reception. The market success of these two
+publications, with buyers largely coming from within Indonesia, helped, on
+a practical level, to offset production cost and instil a sense of confidence
+among local photographers to self publish their works. Since then,
+PannaFoto has published Ng’s *Illusion* in 2014, Mamuk Ismuntoro’s
+*Tanah Yang Hilang* in 2014 and Yoppy Pieter’s *Saujana Sumpu* in 2015.
+The institute did not finance any of these photobooks. Instead, each was
+financed differently – through private patronage, discounted materials or
+crowd funding. Beyond PannaFoto, other independent titles that have
+been published in Indonesia include Aji Susanto Anom’s *Nothing Personal*
+(published in 2013 by the Solo-based collective, Srawung Photo Forum),
+Arum Tresnaningtyas Dayaputri’s *Goddess of Pantura* (published in 2016),
+Flock Project’s *Flock Volume 01* (published in 2016) and Tandia Bambang
+Permadi’s *Coming Home* (published in 2017). While this brief account may
+give the impression of a vibrant photobook publishing culture in Indonesia,
+it has to be framed against the context of the country’s population of over 250 million. In this sense, the photobook community – in terms of its
+producers, buyers and enthusiasts – remains extremely small.
+
+Nevertheless, it is obvious that the ecology of photobooks in Indonesia has
+become more sophisticated over the past few years. In 2014, PannaFoto
+organised another photobook exhibition in Jakarta, in collaboration with
+Goethe-Institut. During the event, it invited Ahmad, publisher Lans
+Brahmantyo (b. 1966, Surabaya) and educator-photographer Kurniadi
+Widodo (b. 1985, Medan) to curate 20 Indonesian photobooks for the
+exhibition. In this way, the community in Indonesia started historicising its
+photobook production.
+
+In 2015, Aditya Pratama (b. 1983, Jakarta) and Ferry Ferdianta Ginting
+(b. 1983, Bandung) established Unobtainium, an online store specialising
+in photobooks. Without a physical bookstore dedicated to the photobook,
+Unobtainium makes absolute sense, especially in a sprawling archipelago
+like Indonesia. It started by stocking foreign books, which were hard to find
+in Indonesia. A year later, they began selling Indonesian photobooks, which,
+in truth, turned minimal profits. Nevertheless, Aditya feels that it is part of
+Unobtainium’s responsibility to stock local books as a means to grow the
+photobook community.36 It has also given them an edge in the international
+market, with foreign collectors interested in Indonesian photobooks actively
+seeking Unobtainium out. In fact, Martin Parr recently bought a stash of
+Indonesian photobooks from them.
+
+A quick comparison can be made with the situation in Thailand when
+photographer Akkara Naktamna (b. 1979, Bangkok) established the Good
+Art Book online store in 2015. Its intention is to encourage Thai artists to
+produce their own photobooks by establishing a sales and promotion channel
+that offers more favourable terms and greater visibility to practitioners
+who want to self-publish. The logic of strength in numbers is at work here,
+similar to Unobtainium, with Good Art Book focusing predominantly on
+photobooks made by Thai practitioners. Its listing of Thai photobooks is
+shorter than Unobtainium’s stock list of Indonesian photobooks, reflecting
+the liveliness of photobook publishing in Indonesia. With its Thai focus,
+Good Art Book receives more overseas than local orders.37
+
+According to Aditya, the market for photobooks in Indonesia has
+been recalibrated in recent years. A few years back, people would buy
+a photobook with the simple intention of owning one. Today’s buyers
+have become more discerning. While Aditya expresses this as a cautionary
+note vis-à-vis the long-term sustainability of the photobook market in
+Indonesia,38 I feel that this is actually a healthy development in terms of
+evolving the taste of local buyers in purchasing photobooks and appreciating
+photography. In any case, beyond mounting an exhibition, the photobook
+has become an acknowledged means among Indonesian photographers
+to showcase their work. This is one of the most discernible outcomes in
+translating the photobook hype in Indonesia.
+
+This prompts us to cast a glance at the photobook ecology in the
+Philippines. At first sight, the Philippines would seem primed for the
+translation of the recent photobook craze. The country boasts a rising
+middle-class, critical mass in terms of population, a vivacious heritage of
+photographic practices, and general openness towards American trends
+and information. It has had a long history of producing photobooks,
+starting perhaps with Filipino photographer Felix Laureano (b. 1866,
+Patnongon, Antique Province –d. 1952) who, in 1895, published the
+album-book *Memories of the Philippines* in Barcelona. A cheaper facsimile
+was made in 2001 in the Philippines.39 Short of narrating a linear history
+here, it is worth pointing out that the fall of Marcos heralded a spate
+of photobooks being published, including *Kasama: A Collection of
+Photographs of the New People’s Army of the Philippines* (published in 1987),
+which garnered the National Book Award for its photographers Alex
+Baluyut (b. 1956, Manila) and Lenny Limjoco (b. 1954, Manila–d. 2012).
+Other notable photobooks that followed in that period include *Depth of
+Field: Photographs of Poverty*, Repression, and Struggle in the Philippines
+(published in 1987), *Sipat: A Collection of Photographs from the Philippine
+Collegian 1987–88* (published in 1988), Limjoco’s *Larawan: Portraits
+of Filipinos* (published in 1989) and *Dwell on Their Faces, Probe Their
+Thoughts: Photographs of Filipino Children* (published in 1990).
+
