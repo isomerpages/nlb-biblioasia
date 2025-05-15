@@ -112,7 +112,7 @@ Over the last 190 years, legal deposit in Singapore has evolved from legislation
 
 
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src="/images/Authors/DrJohnBray25ger.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/MakeswaryPeriasamy1.png">
 <b>Makeswary Periasamy</b>&nbsp;is a Senior Librarian with the Rare Collections team at the National Library Singapore. As the librarian in charge of maps, she co-curated <i>Land of Gold and Spices: Early Maps of Southeast Asia and Singapore</i> in 2015, and co-authored <i>Visualising Space: Maps of Singapore and the Region</i> (2015). </div>
 
 #### **Notes**
