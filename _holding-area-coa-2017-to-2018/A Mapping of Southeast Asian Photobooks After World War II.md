@@ -125,3 +125,103 @@ its recipes rather than photographs.11 In contrast, Parr and Badger devote
 a full chapter in *The Photobook: A History Volume II* to the company book because many of the greatest photographers produced books that had been
 subsidised and commissioned by commercial corporations.12
 
+Colberg considers albums, catalogues and monographs as the three
+subcategories of the photobook, differing from the definition offered by
+Parr and Badger. He also uses the term monograph differently from Parr and
+Badger, although it is clear that both parties actually valorise the same kind
+of object. Colberg demarcates the *monograph* from the catalogue, which
+typically does not feature a narrative arc. In contrast, it is very difficult to
+remove a photograph or a page from a monograph without dramatically
+altering the book. The placement of the photographs and the overall design
+create the “connective tissue” that makes the monograph more than just a
+sum of its parts.13
+
+Like most proponents of the photobook, Colberg cannot help but speak
+of it in a somewhat mythologising manner. He adds, “When a photobook
+is made well, it is quite likely that you will not notice many of the great
+decisions that went into its making. That, ultimately, is the goal: while
+problems with photobooks are like hangnails that can be noticed even by
+those who do not know much about photobooks, many of the properties of
+perfectly made photobooks can only be appreciated by experts (designers,
+book binders, editors) or people who are aware of the various details to look
+out for”.14 Parr and Badger express a similar sentiment: “Often the difference
+between a great photobook and a good photobook is an indefinable quality
+that one recognizes when one sees it”. They add, rather perspicaciously, “Of
+course, photobooks have become extremely desirable objects in their own
+right. There is an element of fetishism at work”.15
+
+Indeed, the transfer of the photobook hype to Southeast Asia has already
+generated a degree of fetishism. A case in point is the setting up of the
+Facebook group, ominously titled Photobook Fetish Singapore, by Invisible
+Photographer Asia (IPA) in 2015. Fetish for the smell of ink and the sound
+of a falling page in a photobook arrived via German printer Gerhard Steidl
+through his collaborations with designer Theseus Chan and DECK, a photo gallery in Singapore. Perhaps it is unsurprising that the fetish finds a ready
+audience in Singapore, one of the richest nations in Southeast Asia.
+
+These definitions of the photobook have largely been articulated from Euro-
+American experiences and universalising desires. While not discounting
+their usefulness, they remain problematic on different levels. In this paper,
+I will surface and consolidate our experiences in making photobooks across
+Southeast Asia since 1945. In this context, it is paramount that we begin with
+a definition of the photobook that is as open-ended as possible. This will
+hopefully prevent certain types of publications from being excluded simply
+because they do not fit within the parameters of existing definitions. Here,
+I define the photobook as any publication with substantial photographic
+content. By surveying the collections in the National Library Board (NLB),
+I aim to create an evolving typology of photobooks based on our experiences
+in Southeast Asia.
+
+What counts as a Southeast Asian photobook? Does the nationality of
+its author or location of its publisher define whether a photobook is
+Malaysian or Thai? In most cases, people would consider a book to be
+Vietnamese, if, for instance, its creator were Vietnamese. I do not disagree
+with such an inclination, even though this disguises the fact that the
+photobook, like photography itself, is a product that traverses national
+borders. *Viet Nam in Flames*, for instance, was published around 1969
+with the support of the General Staff of the Armed Forces of the Republic
+of Vietnam (ARVN).16 The photographers involved were Nguyê˜n Ma·nh
+Đan (b. 1925, Nam Dinh Province–d. 2019) and Major Nguyê˜n Ngo· c
+Ha· nh (b. 1927, Ha Dong–d. 2017, San Jose). The English-language
+version of the photobook offered an account of the Vietnam War from
+the perspective of the South Vietnamese establishment in an attempt to
+garner global support. Unsurprisingly, in the virtual sphere today, there
+are very few passing references in the Vietnamese language concerning
+this photobook.17 Perhaps to ensure its quality, Kwok Hing Printing Press
+in Hong Kong was entrusted with the printing of the photobook. Before
+the 1997 British handover to China, Hong Kong had been an important
+printing hub for publishers around the world, especially those with an
+active presence in East Asia and Southeast Asia. In short, *Viet Nam in Flames* is a hybrid product informed by Hong Kong print technology and
+a presumed target audience mainly located outside of Vietnam.
+
+By extension, I wish to suggest that it is also possible to consider a
+photobook to be Laotian, for instance, if the subject matter is deemed to
+be Lao. The main intent is to temper the authority of the auteur, allowing
+those who appear in the photobook their inalienable rights as collaborators
+to claim (or reject) the publication. Naturally, instead of considering every
+tatty book published about Laos as a Lao photobook, it would only be
+productive to re-contextualise publications by photographers from elsewhere
+who have developed a longstanding and committed relationship with their
+sitters. By identifying a photobook through the claims of its sitters, we
+also allow them conversely to reject association with all the problematic
+publications in circulation.
+
+Finally, it is worth remembering that Southeast Asia is not a regional
+framing that has come from within. The geographical terms of “Nanyang”
+in Chinese, “Nampo” in Japanese or “Nusantara” in Malay all predate
+“Southeast Asia”. The latter started creeping into popular use following the
+establishment of the Southeast Asia Command, an Allied force set up during
+World War II to “liberate” the region. After the war, driven by the U.S.’ desire to dominate the entire region between India and China, Southeast
+Asia became a region of strategic importance and an area of scholarship.18
+Since then, the idea of Southeast Asia has gained limited traction from
+within. While it is beyond the scope of this paper to further unpack the
+imaginary of Southeast Asia, we should, at the very least, take it as an
+evolving geographical framing that may or may not include places such as
+Timor-Leste, Papua New Guinea, Sri Lanka, Hong Kong or even Christmas
+Island. This is not a call to increase the clout of Southeast Asia in order to
+redress the balance of power in Asia. Instead, this ever-morphing sense of
+the region serves to remind us of the problematic origins of Southeast Asia,
+while marking a productive space within to do inter-referencing work;19
+in full recognition that we share enough similarities and differences in our
+cultural and political experiences to make critical comparisons worthwhile.
+This should prevent us from glossing over the imprint of Hong Kong or
+China, for instance, in our photobook experiences across Southeast Asia.
