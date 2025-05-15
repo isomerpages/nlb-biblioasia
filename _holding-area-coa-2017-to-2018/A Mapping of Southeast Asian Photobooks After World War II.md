@@ -225,3 +225,135 @@ in full recognition that we share enough similarities and differences in our
 cultural and political experiences to make critical comparisons worthwhile.
 This should prevent us from glossing over the imprint of Hong Kong or
 China, for instance, in our photobook experiences across Southeast Asia.
+
+#### **Locating Photobooks in NLB’s Collections**
+Photobooks have been produced since the inception of photography. Early
+examples include Anna Atkins’ *Photographs of British Algae: Cyanotype
+Impressions* (1843–53) and William Henry Fox Talbot’s *The Pencil of Nature*
+(1844–46). In contrast, the current valorisation of the photobook form has
+been cultivated only since 2004. If we search the NLB catalogue using the
+keyword “photobook”, the results will be extremely limited. Previously,
+when a photobook was added to the NLB catalogue, the term “photobook”
+was not used to tag the entry’s subject field. The common term used then
+was “pictorial works”. The content is sometimes indicated, with the creation
+of subject tags such as “Vietnam – Pictorial works” or “Cats – Pictorial
+works”. However, the subject tags of “pictorial works” and “photobook”
+do not always refer to the same kind of object, as the former can denote,
+for instance, a book of illustrations. For the small number of publications
+tagged as “photobook”, almost all of them were published during and after
+2007. An alternative is to look at the “physical description” field of each title
+in the NLB catalogue to ascertain if the publication contains illustrations or plates. Of course, this is not a sure-fire way of locating photobooks within
+NLB’s collections.
+
+In May 2018, I met a photobook enthusiast from England who had
+recently relocated to Singapore. To acquaint himself with photobooks
+produced in Southeast Asia, he visited the reference section of the National
+Library at Victoria Street. Books on photography are typically found in
+the Singapore &amp; Southeast Asia Collection, segregated from similar titles
+published elsewhere in the world. In the reference section, he noticed that
+photo-related publications from Southeast Asia, including photobooks,
+filled only slightly more than a shelf. As a region peripheral to the Euro-
+American centres of art, this was perhaps unsurprising to him, even though
+he remained unconvinced that the region had produced so few photobooks.
+In truth, his way of locating Southeast Asian photobooks in the National
+Library is common, even for Singaporeans who assume that Singapore has
+only ever published English books throughout its history. There are other
+Southeast Asian photobooks produced in other languages, which can be
+found in the library’s Malay and Chinese collections.
+
+In fact, if we return to the definition of the photobook that I proposed
+earlier, then photobooks can be found across the different collections within
+NLB. Hence, in order to generate a typology of photobooks in Southeast
+Asia, it is important to physically flip through a publication to see if its
+photographic content forms a substantial component. Although it will take
+months or years to do so, this is technically possible for publications that
+can be physically accessed in the National Library’s reference section and
+the borrowing collections in libraries across the country. However, there
+are many publications that are not accessible on-site at the libraries, such as
+the Reference Used (RU) and PublicationSG (PubSG) collections. While
+the Rare Collection holds titles published before 1945, which fall beyond
+the scope of my research, the Reference Closed (RCLOS), RU and PubSG
+collections likely hold many publications that would fit my definition of the
+photobook. RCLOS titles can be accessed on-site at the National Library,
+but RU and PubSG collections are located off-site, complicating the
+research process, as they need to be requested specifically by title instead of
+browsing at the shelves.
+
+On a practical level, it is impossible to flip through most of the titles within
+the NLB collections. This is testament to the massive collection that NLB
+has amassed over the years. Thus, one of the key challenges has been to make
+an intelligent guess based on the information available in each catalogue entry, so that the process of requesting for a potential photobook from the
+RCLOS, RU and PubSG collections would at least yield the right type of
+publication, while recognising the risk of missing out a peculiar publication
+that might complicate the typology that I wish to produce here. In short,
+the typology that I intend to map can only be evolving.
+
+#### **Translating the Photobook: Terminologies**
+Photographic publications have been produced by practitioners from the
+region long before the current craze in photobooks. As this craze trickles back
+to parts of Asia, the term “photobook”, in some cases, has had to be translated
+or re-adapted for localised usage. In Vietnam, for instance, *sách anh*, which
+literally means “photobook”, is commonly used.20 Similarly, in Myanmar,
+“photobook” is translated as *dat-pone sar-oak*.21 Sometimes, even a fairly
+straightforward translation of the term “photobook” might bring about a
+sense of consternation. For example, photo curator Ahmad Salman (b. 1970,
+Semarang) insists that the accurate translation of “photobook” into Bahasa
+Indonesia should be *buku foto* rather than* buku fotografi* because the latter can
+be taken to mean a book about photography. *Buku foto*, on the other hand,
+should be a publication that uses photography to deliver its content. Ahmad
+sounds pedantic only because he feels that Indonesians have historically been
+far too lax in using translated words and ideas.22
+
+Meanwhile, there are many pre-existing terms in Southeast Asia, which
+precede the current photobook hype, some of which remain relevant
+today. In Mandarin, for instance, the formal term for a book, *tushu* [图
+书], comprises the characters for “picture” and “book”, which already
+conveys the idea of a picture or an illustrated book. According to China
+photo historian Gu Zheng, in the present context “*tushu* has at least three
+denotations – a book of text, of images, or both – whereas an alternate
+term, *huace* [画册], refers more narrowly to a picture album composed of ink
+paintings, drawings, or other illustrations”.23
+
+In other words, the terms *tushu* and *huace* already embody the myriad of
+possibilities that such a publication may offer, which is not necessarily
+conveyed through the somewhat prosaic nomenclature of the photobook.
+This quick consideration of the Mandarin term for the photobook is
+relevant for Southeast Asia, as many of the early photobooks published
+in the region since 1945 had been produced by Mandarin-speaking
+practitioners (or made for Chinese readers). The term *huace* is used to refer
+to some of these publications, such as *The People and the Country* (《人民与
+国家》). This is a modest, saddle-stitched photobook produced by the
+Tanjong Pagar Branch of the People’s Action Party (PAP) in 1972, which
+visualises the evolution of the party branch as the national history of
+Singapore.24 Another common term in Chinese is *tekan* [特刊], or “special
+issue”. While most people associate *kan* with the term “periodical”, it can
+also mean “publication”. In Southeast Asia, news companies, Chinese
+schools and political parties, among others, have published numerous
+*tekan*, some of which are sumptuously illustrated with photographs,
+commemorating milestone events.
+
+In the Thai language, *nangsue phapthai* [หนังสือ ภาพถ่าย] is a somewhat
+literal translation of the term “photobook”.25 It is a relatively new term that
+can already be found in the Thai dictionary.26 *Phapthai* and *nangsue* refer
+to “photographs” and “book” respectively. On the other hand, a term like
+*samut phap* [สมุดภาพ] was already in use during the reign of Rama V
+(r. 1868–1910). *Samut* means “book” while *phap* refers, more broadly, to
+“illustrations”. In a way, *phap* is similar to the Chinese term *tu* [图]. In other
+words, *samut phap* can be used to refer to a book of drawings, paintings or
+photographs. Other terms in use since the reign of Rama V include อัลบ้มั
+[pronounced as *album*] and *pramuan phap* [ประมวลภาพ]. In the 1970s, for
+instance, photobooks published to record the popular political movements
+of 1973 and 1976 were known as *pramuan phap*.27 *Pramuan* translates to
+“collection” and conveys a sense of archival in terms of putting together materials from different sources.28 These terms have since lapsed from
+popular usage.
+
+This quick survey of terminologies referring to the photobook points to
+the longstanding practice of producing such publications in Southeast
+Asia. Despite the current interest in photobooks, its transfer from the
+metropole to Southeast Asia has been far from uneventful. In fact, without
+the active intervention of local practitioners trying to translate and make
+sense of the term “photobook” and the practice of photobook-making,
+it would have hardly mattered, here in Southeast Asia, what Parr and
+Badger have been trying to advocate. In this regard, the unevenness in the
+appreciation and making of photobooks across different parts of the region
+validates my point.
