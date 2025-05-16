@@ -1,7 +1,7 @@
 ---
 title: "Leaving China, Discovering Asia: Ex China Missionaries and Singapore as
   Cold War “Christian Hub”"
-permalink: /holding-area/china-missionaries-theological-college-bible-school-church-christianity-singapore/
+permalink: /chapters-on-asia-2024/china-missionaries-singapore/
 variant: markdown
 description: ""
 ---
@@ -217,7 +217,7 @@ Tracing the transition of the 1950s, where the theological resources of British 
 
 [^46]: Ironically, it was purchased from the MCC, which had previously used the two bungalows as a Christian Center affiliated with the University of Malaya. Despite its initial intention to cultivate a space where secular and religious thinking could coexist in community, disinterest of local church groups to sponsor the Christian Center left it underfunded and ultimately defunct by 1958. The SBC subsequently had very little interaction with the secular university across the road. See for instance: University of Malaya, “[Christian Hostel Centre from Malayan Christian Council, 1952–1957](https://www.nas.gov.sg/archivesonline/government_records/record-details/10161878-115a-11e3-83d5-0050568939ad),” William Fleming to Sidney Caine, 25 September 1952, government records. (From National Archives of Singapore, microfilm no. AM 052; record reference no. U.M. 154/52)
 
-[^47]: For example, the libraries at Singapore Bible College still retain an extensive collection of what Chinese evangelical publications published and circulated from Hong Kong, Taiwan, and the United States. These include: _shengming yuekan_ (Life Monthly) published by China Evangelical Fellowship in Hong Kong, _dengta (lighthouse)_ published in Hong Kong by the China Inland Mission / Overseas Missionary Fellowship, zhongxin yuekan (China Christian Monthly), published by the Chinese Christian Mission in Petaluma, California. For an elaboration of Chinese evangelical networks in the mid-20th-century, see: Sim, “Bringing Chinese Christianity to Southeast Asia, 773.
+[^47]: For example, the libraries at Singapore Bible College still retain an extensive collection of what Chinese evangelical publications published and circulated from Hong Kong, Taiwan, and the United States. These include: _shengming yuekan_ (Life Monthly) published by China Evangelical Fellowship in Hong Kong, _dengta (lighthouse)_ published in Hong Kong by the China Inland Mission / Overseas Missionary Fellowship, <i>zhongxin yuekan</i> (China Christian Monthly), published by the Chinese Christian Mission in Petaluma, California. For an elaboration of Chinese evangelical networks in the mid-20th-century, see: Sim, “Bringing Chinese Christianity to Southeast Asia, 773.
 
 [^48]: “Our Milestones 2015,” Trinity Theological College, 2016, https://www.ttc.edu.sg/english/about/our-milestones/.
 

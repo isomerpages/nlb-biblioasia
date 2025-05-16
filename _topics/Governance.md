@@ -4,6 +4,13 @@ permalink: /topics/governance/
 description: ""
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/recent-history-legal-deposit-singapore/">A Recent History of Legal Deposit in Singapore</a>
+
+The scope of legal deposit in Singapore expanded to digital materials and web archiving in 2018.
+
+<img src="/images/Vol%2021%20Issue%202/Legal%20Deposit/history_selection.jpg" style="width:100%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/sing-singapore-national-day-songs/">The Search for Home, Truly (and Other National Day Songs)</a>
 
 The effort to find songs that express a national identity goes back to the 1970s.

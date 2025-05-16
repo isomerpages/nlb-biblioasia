@@ -4,7 +4,7 @@ permalink: /vol-21/issue-2/jul-sep-2025/national-library-stamford-road-photos/
 variant: markdown
 description: ""
 ---
-#### Beyond being a mere repository of books, the former landmark on Stamford Road was a place for acquiring knowledge, making memories and creating friendships.  
+#### Beyond being a mere repository of books, the library on Stamford Road was a place for acquiring knowledge, making memories and creating friendships.  
 By Lim Tin Seng
 
 

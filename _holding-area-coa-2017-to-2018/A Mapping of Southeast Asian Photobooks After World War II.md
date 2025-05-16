@@ -193,6 +193,11 @@ printing hub for publishers around the world, especially those with an
 active presence in East Asia and Southeast Asia. In short, *Viet Nam in Flames* is a hybrid product informed by Hong Kong print technology and
 a presumed target audience mainly located outside of Vietnam.
 
+<img src="/images/COA%202017%20to%202018/Southeast%20Asian%20Photobooks/Viet_Nam_in_Flames_1.jpg" style="width:100%;">
+ <div style="background-color: white;"><i>Viet Nam in Flames</i> (1969). Hardcover with dust jacket, 33 x 26.3 cm, 222 pages.<i> Image source:
+Nguyê˜ n, M.Đ., &amp; Nguyê˜ n, N.H. (1969). Vietnam in flames. [S.I.: s.n.]. (Call no.: RSEA 959.7043 NGU)</i></div>
+
+
 By extension, I wish to suggest that it is also possible to consider a
 photobook to be Laotian, for instance, if the subject matter is deemed to
 be Lao. The main intent is to temper the authority of the auteur, allowing
@@ -888,3 +893,124 @@ commonly used in Southeast Asia as compared to Taiwan (where Chen
 is based), a semblance of the *minjian* that Chen evokes continues to exist
 across Southeast Asia.
 
+For the purpose of discussion, a publication such as *A Pictorial History of
+Hin Hua High School* can be considered a *minjian* photobook.63 Founded
+in 1947 and funded partially through *minjian* society, Hin Hua is a Chinese
+independent school in Klang, Malaysia. This 364-page photobook is part
+of a three-volume publication that commemorates the arduous journey
+Hin Hua High School has undertaken to provide education in Klang. The
+publication’s intention is to record the sacrifices of its founders, tying the
+photobook to the Chinese cultural tradition and placing it within the context
+of the marginalisation of Chinese experiences within the national history of
+Malaysia.64 In this way, this photobook has been bestowed with a burden
+larger than just the recording of Hin Hua’s development over the decades.
+
+Printed on an understated yet elegant paper stock, the publication features
+a wonderful selection of historic and recent photographs, juxtaposed
+against archival materials and news reports relating to Hin Hua High
+School. The layout is an attempt to translate the viewing experience of a
+physical exhibition into the book format. Interestingly, the designer of
+the book is TsuJi Lam, a founding member of Lostgens’ *Contemporary
+Art Space*. Despite its name, Lostgens’ is actually more of a *minjian* space-collective
+facilitating initiatives in art, politics, heritage and culture. Over
+the years, it has intervened in community sites that have come under
+the threat of gentrification and destruction. In these interventions, one
+of its key initiatives has been the collection of oral history interviews
+and old photographs from members of the affected communities. These
+photographs are then displayed onsite, perhaps in a disused shop lot or
+*kopitiam* (coffeeshop), as a means to generate discussions. Very often, the
+photographs serve as an additional trigger for other community members to
+come forward, hence crowdsourcing a *minjian* history of the affected sites.
+Lam’s involvement in these initiatives can be perceived as a parallel to her
+design work in *A Pictorial History of Hin Hua High School*.
+
+***7. Scenes and Landscapes: Photobooks as Record***
+
+Prior to the proliferation of television sets and budget travel, periodicals and
+photobooks helped to bring views of the world to eager audiences across
+Southeast Asia. In some cases, these publications helped Southeast Asians experience the formation and boundaries of the nations to which they
+pledged allegiance by bringing them sights and landscapes from these newlyformed
+states. In other instances, they brought – and continue to bring – us
+views from faraway places. Some of these photobooks might have been made
+to mirror the state agenda. But the ethos of time has somewhat tempered
+their political motivations, rendering these publications as records from a
+different time and place.
+
+An obvious example is *Characters of Light: A Guide to the Buildings of
+Singapore*, written and photographed by Marjorie Doggett (b. 1921, Sussex,
+UK–d. 2010, Singapore).65 Writer, publisher, gallery owner and impresario
+Donald Moore (b. 1923, Leicestershire, UK–d. 2000) was responsible
+for putting out *Characters of Light* in 1957. Doggett and Moore arrived
+in Singapore through the colonial milieu – the Royal Air Force posted
+Doggett’s husband to the island in 1947, while Moore arrived that same year
+to work for British publishing houses. The opening section of Doggett’s
+book features a verse penned by Sir Stamford Raffles, which reads: “Let it
+still be the boast of Britain to write her name in characters of light; let her
+not be remembered as the tempest whose course was desolation, but as the
+gale of spring reviving the slumbering seeds of mind and calling them to life
+from the winter of ignorance and oppression. If the time shall come when
+her empire shall have passed away, these monuments will endure when her
+triumphs shall have become an empty name.”
+
+Doggett wrote in the foreword that her book made “no pretence to be
+a technical work on Colonial architecture”.66 In the short history of
+Singapore that follows the foreword, the narrative of Singapore’s evolution
+from a mangrove swamp to a great port, a development “beyond Raffles’
+wildest dreams”, is predictably repeated, with no mention of Britain’s
+exploitation of Malaya before and after World War II.67 While it is
+doubtful that the photobook was ostensibly made to perform the colonial
+state’s politics, Doggett’s straight-up and considered recording of colonial
+buildings, riverside godowns, elegant mosques and elaborate temples
+should be seen as a tacit acknowledgement (and visualisation) of the
+flourishing of Singapore through British colonialism.
+
+In 1960, the Doggetts became Singapore citizens. In 1985, Times Books
+International made a flimsy reproduction of the original book, with
+a different sequence of photographs and the addition of previously
+unpublished images.68 The new foreword explained that the rationale
+for the reproduction was nostalgia for old Singapore and Doggett’s plea
+for heritage conservation. After accounting for the fact that a newly
+independent nation would have little interest in the colonial past, Doggett
+wrote: “But time has its mellowing effect. History is always a mixture, and
+whether good or evil prevails for a time, each period has its place in the
+making of a nation”.69 Indeed, Doggett’s photographs come to us today
+with their colonial imprint somewhat withered, only to be detected in the
+young nation’s nostalgia for its distant past.
+
+#### **Conclusion**
+In closing, this essay has offered a tentative overview of our photobookmaking
+experiences in Southeast Asia, based on NLB’s collections. It
+is also clear that much work remains to be done. Our knowledge of
+photobooks published in *chu~’
+quô´c ngu~’*
+or the Thai language, for instance,
+remains limited. Furthermore, despite the years of upheaval that countries
+like Cambodia and Myanmar have experienced in the recent past, it is
+problematic to assume that photobook-making had been halted simply
+because of that. The typology that I have proposed should help us broaden
+the scope in terms of locating and defining our photobook experiences in
+the region. To this end, it is also an evolving typology that invites further
+scrutiny. Finally, photobooks should not be studied only in relation to the
+history of photography in Southeast Asia. In fact, future reseachers would
+be able to cast a different light when considering our photobook experiences
+through the perspectives of design history, evolution of print technology and
+the routes of distribution (of materials needed to make photobooks and how
+they are being sold across the world).
+68
+
+#### **Acknowledgments**
+*Zhuang Wubin would like to thank everyone who has contributed to
+this paper. In particular, he would like to thank the following
+for their kind assistance: Karen Strassler, Sandra Matthews, Clare Veal, Kong Leng
+Foong, Joanna Tan, Gladys Low, Nicholas Y. H. Wong,
+Justin Zhuang, Lee Chang Ming and Michelle Wong*.
+
+<div>
+<b>Zhuang Wubin</b> is a writer, curator and artist. As a writer and curator, Zhuang focuses
+on the photographic practices of Southeast Asia and Hong Kong. He uses the medium
+as a prism to explore trajectories such as photography and Chineseness; periodicals and
+photobooks as sites of historiography; and photography’s entanglements with nationalism
+and the Cold War. Zhuang has written several books and has recently published
+Photography in Southeast Asia: A Survey (NUS Press, 2016) and Shifting Currents:
+Glimpses of a Changing Nation (NLB, 2018). As an artist, Zhuang uses photography
+and text to visualise the shifting experiences of Chineseness in Southeast Asia.</div>

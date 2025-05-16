@@ -13,7 +13,7 @@ By Shirin Aroozoo
 ![](/images/Vol%2021%20Issue%202/Hedwig/hedwig_family.jpg)
 <div style="background-color:white;">The Aroozoo family. (From Left) Edmund (brother), Hedwig, Percival (father), Lydia (sister), Agnes (mother), Joyce (sister), Marie (sister), Kim (Marie’s husband) and Eleanor (sister). <i>Courtesy of Shirin Aroozoo.</i></div>
 
-Books have always been a big part of my life. I was born in 1962 and one of my earliest childhood memories is of my mother reading a bedtime story or a nursery rhyme to me almost every night.
+Books have always been a big part of my life. I was born in 1962 and one of my earliest childhood memories is of my mother reading a bedtime story or singing a nursery rhyme to me almost every night.
 
 As the director of the National Library, she would inevitably bring home a wide range of books for me to read. She started with picture books when I was younger, and as I grew older, she brought home books by Judy Blume and also the Nancy Drew series. Looking back, many of the books that she encouraged me to read had women as the main protagonists. I think this influenced my outlook, teaching me that women are just as capable as men and that we can achieve anything if we put our minds to it.
 
