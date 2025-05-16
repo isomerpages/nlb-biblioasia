@@ -5,6 +5,14 @@ description: ""
 third_nav_title: People
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/kung-tian-cheng-first-clerk-raffles-library/">Kung Tian Cheng, First Clerk of Raffles Library</a>
+
+In the late 19th century, Kung Tian Cheng helped compile a complete catalogue of the Raffles Library, before going to China to work for President Yuan Shikai.
+
+<img src="/images/Vol%2021%20Issue%202/Kung%20Tian/kungtian_family.jpg" style="width:100%;"> 
+
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/people/2025/4/lost-family-silvestr-nemec-war-search-czech-singapore/">In Search of Silvestr</a>
  <p>Sparked by a box of old family documents, Jan Beránek embarked on an eight-year quest that brought him from a small Czech village to modern Singapore to uncover the life of his granduncle who died during the Japanese invasion of Singapore.</p> 
 
