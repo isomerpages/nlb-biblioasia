@@ -52,17 +52,17 @@ Working together with community partners to help these families become familiar 
 
 #### **Notes**
 
-[^1]: “About MOLLY Mobile Library,” National Library Board, last updated 20 February 2025, https://www.nlb.gov.sg/main/visit-us/public-libraries-singapore/mobile-library-molly.
+[^1]: “About MOLLY Mobile Library,” National Library Board, last updated 20 February 2025, [https://www.nlb.gov.sg/main/visit-us/public-libraries-singapore/mobile-library-molly](https://www.nlb.gov.sg/main/visit-us/public-libraries-singapore/mobile-library-molly).
 
 
-[^2]: “Molly Mobile Library @ Nee Soon Link Is Here Till End of the Year! Check It Out!”, Youth-niverse - Nee Soon Link Youth Network Facebook, 16 May 2024, https://www.facebook.com/nsl.youthniverse/posts/molly-mobile-library-nee-soon-link-is-here-till-end-of-the-year-check-it-out/872616714903914/.
+[^2]: “Molly Mobile Library @ Nee Soon Link Is Here Till End of the Year! Check It Out!”, Youth-niverse - Nee Soon Link Youth Network Facebook, 16 May 2024, [https://www.facebook.com/nsl.youthniverse/posts/molly-mobile-library-nee-soon-link-is-here-till-end-of-the-year-check-it-out/872616714903914/](https://www.facebook.com/nsl.youthniverse/posts/molly-mobile-library-nee-soon-link-is-here-till-end-of-the-year-check-it-out/872616714903914/).
 
 
 [^3]: “Catch Molly As She Visits Whampoa and McNair Estate on Sunday, 1.30 PM to 4.30 PM,”  
-Whampoa Community Facebook, 22 January 2025, https://www.facebook.com/whampoacommunity.sg/photos/-attention-parents-exciting-news-for-families-who-love-books-molly-the-amazing-m/1037145995125388/?\_rdr.
+Whampoa Community Facebook, 22 January 2025, [https://www.facebook.com/whampoacommunity.sg/photos/-attention-parents-exciting-news-for-families-who-love-books-molly-the-amazing-m/1037145995125388/?\_rdr](https://www.facebook.com/whampoacommunity.sg/photos/-attention-parents-exciting-news-for-families-who-love-books-molly-the-amazing-m/1037145995125388/?_rdr).
 
 
-[^4]: “Molly by NLB,” National Library Board Singapore Facebook, 21 October 2020, https://www.facebook.com/story.php?story\_fbid=10157538455505924&amp;id=15924095923.
+[^4]: “Molly by NLB,” National Library Board Singapore Facebook, 21 October 2020, [https://www.facebook.com/story.php?story\_fbid=10157538455505924&amp;id=15924095923](https://www.facebook.com/story.php?story_fbid=10157538455505924&amp;id=15924095923).
 
 
-[^5]: Sun Baoqi, Loh Chin Ee and Beth A. O’Brien, “Report on the Reading Habits of Bilingual Children in Singapore 2021,” National Institute of Education, 2021, https://repository.nie.edu.sg/entities/publication/803fa867-3b18-45eb-b1f6-af0c385b06e1/details.
+[^5]: Sun Baoqi, Loh Chin Ee and Beth A. O’Brien, “Report on the Reading Habits of Bilingual Children in Singapore 2021,” National Institute of Education, 2021, [https://repository.nie.edu.sg/entities/publication/803fa867-3b18-45eb-b1f6-af0c385b06e1/details](https://repository.nie.edu.sg/entities/publication/803fa867-3b18-45eb-b1f6-af0c385b06e1/details).
