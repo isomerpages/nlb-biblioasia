@@ -193,7 +193,7 @@ printing hub for publishers around the world, especially those with an
 active presence in East Asia and Southeast Asia. In short, *Viet Nam in Flames* is a hybrid product informed by Hong Kong print technology and
 a presumed target audience mainly located outside of Vietnam.
 
-<img src="/images/COA%202017%20to%202018/Southeast%20Asian%20Photobooks/Viet_Nam_in_Flames_1.jpg" style="width:80%;">
+<img src="/images/COA%202017%20to%202018/Southeast%20Asian%20Photobooks/Viet_Nam_in_Flames_1.jpg" style="width:100%;">
  <div style="background-color: white;"><i>Viet Nam in Flames</i> (1969). Hardcover with dust jacket, 33 x 26.3 cm, 222 pages.<i> Image source:
 Nguyê˜ n, M.Đ., &amp; Nguyê˜ n, N.H. (1969). Vietnam in flames. [S.I.: s.n.]. (Call no.: RSEA 959.7043 NGU)</i></div>
 
