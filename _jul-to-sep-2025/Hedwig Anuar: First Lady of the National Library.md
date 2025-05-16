@@ -10,7 +10,7 @@ By Timothy Pwee
 ![](/images/Vol%2021%20Issue%202/Hedwig%20%20%20First%20Lady/hedwig2_main.jpg)
 <div style="background-color:white;">An undated photo of Hedwig Anuar at her desk at the National Library. <i>Hedwig Anuar Collection, National Library Singapore.</i></div>
 
-In 1946, at the age of 18, a young student by the name of Hedwig Aroozoo wrote an essay on “School Libraries” where she noted that it is “greatly to be deplored that Singapore has only one public library”. [^1]
+In 1946, an 18 year old student by the name of Hedwig Aroozoo wrote an essay on “School Libraries” where she noted that it is “greatly to be deplored that Singapore has only one public library”. [^1]
 
 Some two decades later, that student, now Hedwig Anuar, was in the position to do something about that deplorable fact when she became the director of the National Library of Singapore, a position she would hold for 23 years until her retirement in 1988.
 
