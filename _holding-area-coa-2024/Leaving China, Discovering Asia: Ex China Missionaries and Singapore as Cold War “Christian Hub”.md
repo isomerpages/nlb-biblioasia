@@ -119,7 +119,7 @@ Tracing the transition of the 1950s, where the theological resources of British 
 <br>
 <div style="background-color: white;">
 <br>
-<img style="width: 100px; height: 100px;" src="/images/Authors/joshua1.jpg">
+<img style="width: 100px; height: 100px;" src="/images/Authors/joshua_photov1.jpg">
 <b>Joshua Tan</b> is a historian of modern China and the Chinese diaspora, with an interest in the religious and educational politics in Cold War Asia. He is currently a postdoctoral fellow in the department of history at the National University of Singapore and is working on a book about American-Asian educational partnerships during the Cold War.</div>
 
 
