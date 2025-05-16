@@ -888,3 +888,35 @@ commonly used in Southeast Asia as compared to Taiwan (where Chen
 is based), a semblance of the *minjian* that Chen evokes continues to exist
 across Southeast Asia.
 
+For the purpose of discussion, a publication such as *A Pictorial History of
+Hin Hua High School* can be considered a *minjian* photobook.63 Founded
+in 1947 and funded partially through *minjian* society, Hin Hua is a Chinese
+independent school in Klang, Malaysia. This 364-page photobook is part
+of a three-volume publication that commemorates the arduous journey
+Hin Hua High School has undertaken to provide education in Klang. The
+publication’s intention is to record the sacrifices of its founders, tying the
+photobook to the Chinese cultural tradition and placing it within the context
+of the marginalisation of Chinese experiences within the national history of
+Malaysia.64 In this way, this photobook has been bestowed with a burden
+larger than just the recording of Hin Hua’s development over the decades.
+
+Printed on an understated yet elegant paper stock, the publication features
+a wonderful selection of historic and recent photographs, juxtaposed
+against archival materials and news reports relating to Hin Hua High
+School. The layout is an attempt to translate the viewing experience of a
+physical exhibition into the book format. Interestingly, the designer of
+the book is TsuJi Lam, a founding member of Lostgens’ *Contemporary
+Art Space*. Despite its name, Lostgens’ is actually more of a *minjian* space-collective
+facilitating initiatives in art, politics, heritage and culture. Over
+the years, it has intervened in community sites that have come under
+the threat of gentrification and destruction. In these interventions, one
+of its key initiatives has been the collection of oral history interviews
+and old photographs from members of the affected communities. These
+photographs are then displayed onsite, perhaps in a disused shop lot or
+*kopitiam* (coffeeshop), as a means to generate discussions. Very often, the
+photographs serve as an additional trigger for other community members to
+come forward, hence crowdsourcing a *minjian* history of the affected sites.
+Lam’s involvement in these initiatives can be perceived as a parallel to her
+design work in *A Pictorial History of Hin Hua High School*.
+
+
