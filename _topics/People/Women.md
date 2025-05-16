@@ -5,7 +5,7 @@ description: ""
 third_nav_title: People
 variant: markdown
 ---
-#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/hedwig-anuar-director-national-library-singapore/">Hedwig Anuar: First Lady of the National Library</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/hedwig-anuar-first-lady-of-the-national-library/">Hedwig Anuar: First Lady of the National Library</a>
 
 Hedwig Anuar was not only known for being the director of the National Library, she was also an activist and advocate for women’s rights.
 
