@@ -45,6 +45,10 @@ Originally an effort to bring library services to children living in rural distr
 Working together with community partners to help these families become familiar with the Molly bus and establishing regular visits is one way to give our children a headstart in their reading journey.
 
 
+<div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
+This study is conducted by researchers from the National Institute of Education, Nanyang Technological University, in partnership with the National Library Board, and supported by the Lee Kuan Yew School of Public Policy, National University of Singapore, under the Social Mobility Foundation Grant. To read the study, please visit https://hdl.handle.net/10497/29434.<br></div>
+
+
 <div style="background-color: white;">
 <img style="width: 100px; height: 100px;" src="/images/Authors/DrJohnBray2htr.png">
 <b>Loh Chin Ee</b>  is an Associate Professor with the English Language and Literature Academic Group, National Institute of Education, Nanyang Technological University. Her research focuses on literacy and literature education at the intersection of social class and globalisation.</div>
