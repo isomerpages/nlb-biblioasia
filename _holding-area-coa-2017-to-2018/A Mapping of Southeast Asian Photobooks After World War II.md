@@ -552,3 +552,124 @@ Collegian 1987–88* (published in 1988), Limjoco’s *Larawan: Portraits
 of Filipinos* (published in 1989) and *Dwell on Their Faces, Probe Their
 Thoughts: Photographs of Filipino Children* (published in 1990).
 
+As a parallel, when Indonesian president Suharto stepped down during
+the Reformasi in 1998, the lid was suddenly removed and several critical
+photobooks (including exhibition catalogues) were published during that
+period, including Oscar Motuloh’s satirical *Carnaval* (published in 2000)
+and Eddy Hasby’s *East Timor: The Long and Winding Road* (published in
+2001).40 On hindsight, the latter received limited interest then possibly
+because the photobook form was seen as a luxury object beyond the means
+of most Indonesians who were still recovering from the economic fallout
+of the Reformasi. Eddy’s interest in East Timor might have also been
+misinterpreted by some as a slight against Indonesia’s sovereignty. But,
+as photobook-making gains traction in Indonesia, Eddy’s book has since
+resurfaced as an important reference.
+
+In the Philippines, an important publisher of critical books since the fall of
+Marcos has been the Philippine Center for Investigative Journalism (PCIJ),
+a non-profit media agency established in 1989. While it does not have a
+specific focus on photobooks, PCIJ did publish Alex Baluyut’s *Brother Hood*
+in 1995, an in-depth photo story on police brutality in Manila. The book
+registered record sales and won Baluyut his second National Book Award.
+In 2002, PCIJ published veteran photographer Sonny Yabao’s *Memory of
+Dances*, which examines, through his enigmatic photographs, the story of
+cultural loss experienced by the Bugkalot and Igorot at Nueva Vizcaya, the
+Tagbanua at Coron and the Manobo at Mount Apo.41
+
+Sheila S. Coronel (b. 1958), one of Asia’s most eminent investigative
+journalists, served as PCIJ’s executive director from 1989 to 2006. Apart
+from the freedom heralded by the post-Marcos era, Coronel notes that the
+economy had improved significantly enough for people to start buying
+books, fuelling even the publication of expensive coffee table books during
+the 1990s. In PCIJ’s remit, photography remains integral to many of its
+publications because the medium is essential to the documentation of
+wrongdoing, such as police abuses or corruption in procurement and
+public works, while lending credibility and humanity to its investigative
+work.42 While photography took centre stage in *Brother Hood and Memory
+of Dances*, Coronel admits that the production value for both photobooks
+was deliberately modest in order to keep costs low, so as to make them more
+affordable and extend their reach. In fact, she suspects that buyers of both
+photobooks mainly came from beyond the photography community.43
+
+Since the valorisation of the photobook by Parr and Badger, there have
+been attempts to translate that interest to Manila. In 2015, contemporary
+artist Wawi Navarroza (b. 1979, Manila) established Thousandfold, which
+featured a public photobook library and the Thousandfold Small Press, an
+initiative to encourage Filipino practitioners to make small-edition photo
+publications. Thousandfold also initiated the Photobook Club Manila
+in 2015. Some of these initiatives were cut short due to a fire in 2016 that
+destroyed Navarroza’s studio.
+
+In 2017, Filipino photographer-printer RJ Fernandez (b. 1979, Manila)
+officially established MAPA Books, an independent publishing house in
+London. Predictably, its first photobook titles are dedicated to two Filipino
+photographers: Tommy Hafalla’s *Ili* (published in 2016)44 and Veejay
+Villafranca’s *Signos* (published in 2017). Informed by Fernandez’s desire to
+bring the quality of production in London to the Philippines, and given that
+MAPA Books prints their titles in Italy, the pricing of these photobooks is
+at a similar level to that of a European publication.45 Thus, it remains to be
+seen whether the price-point of both publications will hinder their broader
+reception in Manila.
+
+In Java, it is clear that the photography community has become invested
+in the photobook form. Their support in terms of interest and purchases
+directly fuels the photobook ecology in Indonesia.46 While they may have
+differing views on the medium, senior photographers remain active as
+role models, mediating the relevance of photobooks in local terms. There
+have also been initiatives to promote the photobook among Filipino
+practitioners. They are typically short-lived or one-off endeavours,
+taking the form of a photobook exhibition or a booth at the art fair. The
+unglamorous and long-term work of creating a community invested in the
+photobook has not been taken up, unlike the interventions of PannaFoto
+Institute or GFJA in Indonesia. Some of the senior photographers have
+also faded from the scene, with the likes of Baluyut and Yabao moving out
+of Manila and relocating to Laguna.
+
+An attempt by Photobook Club Manila in 2017 to replicate Buku Fotografi
+Indonesia’s initiative to crowdsource the history of Philippine photobooks (via its Facebook group) also fizzled out before it could gain any traction. There
+seems to be a defeatist sentiment in the Filipino photography scene. This is
+most evident when a senior photographer, somewhat exasperated, said that she
+is simply too broke to make a photobook, as though the modest movement of
+independent photobook publishing across Java has been undertaken only by
+the privileged class. This is far from the truth. When Ng Swan Ti decided to
+set the first print run of Edy Purnomo’s *Passing* at 200 copies, it was based on
+the calculation that they would be able to coerce at least 200 of their friends
+to support the project.47 Is it impossible to garner similar support for an
+accomplished Filipino photographer in Manila? I have no idea. Nevertheless,
+it is obvious that Manila lacks respected interlocutors who have a sustained
+commitment in translating the photobook interest and making it relevant to
+local practitioners. While it is certainly useful to learn about the production of
+photobooks in Europe and America, the experiences of practitioners in Java
+may be of greater relevance to those in Manila.
+
+#### **An Evolving Typology of Photobooks in Southeast Asia**
+Instead of proposing a catchall definition for the Southeast Asian
+photobook, I offer here an evolving typology of such publications based
+on the NLB collections. This typology is largely derived from the function
+and intent of each photobook, with its content a secondary consideration.
+I propose this typology, not because I wish to create another system to
+pigeonhole a particular publication. This typology will only be productive
+if it is thought of as a mapping of photobook experiences in Southeast Asia
+since 1945. The typology should help us think of the kinds of photobooks
+that have been produced under specific desires and conditions across the
+region. In this way, the desires and conditions that inform the making
+of a particular kind of photobook can then be compared to the situation
+elsewhere, beyond Southeast Asia. It is true that a particular title can be
+placed under several categories. Ideally, this should open up different ways
+of reading a particular photobook.
+
+There is a degree of tentativeness in proposing this typology, given the
+way NLB catalogues and organises its collections, as highlighted earlier
+in the essay. As and when a photobook that complicates this typology is
+encountered, it will become necessary to include a new type.
+
+These are the types of photobooks:<br>
+ 1. Photobooks as Performing State Politics<br>
+ 2. Photobooks as Repository of Marginalised Politics<br>
+ 3. Exhibition Catalogues<br>
+ 4. Photobooks as Portfolio/Exhibition<br>
+ 5. Corporate Books as Photobooks<br>
+ 6. Minjian (民间) Books as Photobooks<br>
+ 7. Scenes and Landscapes: Photobooks as Record<br><br>
+Let me explain the typology in greater detail.
+
