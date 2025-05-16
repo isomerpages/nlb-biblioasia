@@ -1000,3 +1000,12 @@ for their kind assistance: Karen Strassler, Sandra Matthews, Clare Veal, Kong Le
 Foong, Joanna Tan, Gladys Low, Nicholas Y. H. Wong,
 Justin Zhuang, Lee Chang Ming and Michelle Wong*.
 
+<div>
+<b>Zhuang Wubin</b> is a writer, curator and artist. As a writer and curator, Zhuang focuses
+on the photographic practices of Southeast Asia and Hong Kong. He uses the medium
+as a prism to explore trajectories such as photography and Chineseness; periodicals and
+photobooks as sites of historiography; and photography’s entanglements with nationalism
+and the Cold War. Zhuang has written several books and has recently published
+Photography in Southeast Asia: A Survey (NUS Press, 2016) and Shifting Currents:
+Glimpses of a Changing Nation (NLB, 2018). As an artist, Zhuang uses photography
+and text to visualise the shifting experiences of Chineseness in Southeast Asia.</div>
