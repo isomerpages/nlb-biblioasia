@@ -6,7 +6,7 @@ description: ""
 ---
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/singapore-southeast-asia-collection/national-library">The Singapore and Southeast Asia Collection</a>
 
-The Singapore and Southeast Asia Collection is an invaluable resource for researchers of all stripes.
+An invaluable resource for researchers of Singapore and the region.
 
 <img src="/images/Vol%2021%20Issue%202/SG%20SEA%20Collection/image002__1_.png" style="width:80%;">
 <hr>
