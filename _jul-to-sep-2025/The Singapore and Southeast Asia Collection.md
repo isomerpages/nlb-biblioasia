@@ -4,7 +4,7 @@ permalink: /vol-21/issue-2/jul-sep-2025/singapore-southeast-asia-collection/nati
 variant: markdown
 description: ""
 ---
-#### The Singapore and Southeast Asia Collection is an invaluable resource for researchers of all stripes.  
+#### An invaluable resource for researchers of Singapore and the region.
 By Ang Seow Leng
 
 
