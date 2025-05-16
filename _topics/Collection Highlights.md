@@ -4,6 +4,13 @@ permalink: /topics/collection-highlights/
 variant: markdown
 description: ""
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/singapore-southeast-asia-collection/national-library">The Singapore and Southeast Asia Collection</a>
+
+The Singapore and Southeast Asia Collection is an invaluable resource for researchers of all stripes.
+
+<img src="/images/Vol%2021%20Issue%202/SG%20SEA%20Collection/image002__1_.png" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-20/issue-3/oct-dec-2024/phan-kim-sam-thye-seng/">The Search for a “Lost” Towkay of Malaya</a>
 
 A man looks at his grandfather with new eyes after a mysterious envelope is found in an old workman’s outfit that was about to be thrown away.
