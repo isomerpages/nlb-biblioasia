@@ -240,8 +240,7 @@ of subject tags such as “Vietnam – Pictorial works” or “Cats – Pictori
 works”. However, the subject tags of “pictorial works” and “photobook”
 do not always refer to the same kind of object, as the former can denote,
 for instance, a book of illustrations. For the small number of publications
-tagged as “photobook”, almost all of them were published during and after
-2007. An alternative is to look at the “physical description” field of each title
+tagged as “photobook”, almost all of them were published during and after 2007. An alternative is to look at the “physical description” field of each title
 in the NLB catalogue to ascertain if the publication contains illustrations or plates. Of course, this is not a sure-fire way of locating photobooks within
 NLB’s collections.
 
@@ -672,4 +671,3 @@ These are the types of photobooks:<br>
  6. Minjian (民间) Books as Photobooks<br>
  7. Scenes and Landscapes: Photobooks as Record<br><br>
 Let me explain the typology in greater detail.
-
