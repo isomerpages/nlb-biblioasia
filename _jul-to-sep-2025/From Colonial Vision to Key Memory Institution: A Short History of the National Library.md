@@ -1,12 +1,12 @@
 ---
-title: "From Colonial Vision to Key Memory Institution: The Story of the
+title: "From Colonial Vision to Key Memory Institution: A Short History of the
   National Library"
 permalink: /vol-21/issue-2/jul-sep-2025/history-story-national-library-singapore/
 variant: markdown
 description: "From Colonial Vision to Knowledge Hub: The Story of the National Library"
 image: /images/Vol 21 Issue 2/Story of National Library/image_1.png
 ---
-#### The National Library Singapore began life in 1837 with a modest collection of 392 publications belonging to the Singapore Free School.
+#### The National Library began life in 1837 with a modest collection of 392 publications belonging to the Singapore Free School.
 
 By Lim Tin Seng
 

@@ -1,6 +1,6 @@
 ---
 title: "Hedwig Anuar: First Lady of the National Library"
-permalink: /holding-area/vol-21/issue-2/jul-sep-2025/hedwig-anuar-first-lady-of-the-national-library/
+permalink: /vol-21/issue-2/jul-sep-2025/hedwig-anuar-first-lady-of-the-national-library/
 variant: markdown
 description: ""
 ---

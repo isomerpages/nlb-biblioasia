@@ -4,7 +4,7 @@ permalink: /vol-21/issue-2/jul-sep-2025/singapore-southeast-asia-collection/nati
 variant: markdown
 description: ""
 ---
-#### The Singapore and Southeast Asia Collection is an invaluable resource for researchers of all stripes.  
+#### An invaluable resource for researchers of Singapore and the region.
 By Ang Seow Leng
 
 
@@ -17,7 +17,7 @@ The Singapore and Southeast Asia Collection, together with the Rare Materials Co
 
 #### **The Early Years of the Singapore and Southeast Asia Collection**
 
-The National Library has its beginnings as the Singapore Institution Library, which was established in 1827 with just 392 elementary education primers.[^1]
+The National Library has its beginnings as the Singapore Institution Library, which was established in 1837 with just 392 elementary education primers.[^1]
 
 In 1845, the Singapore Institution Library was renamed the Singapore Library. By 1874, with a collection of 3,000 volumes, the Singapore Library became a part of the museum. The new entity was called the Raffles Library and Museum, and its objective was to collect “valuable works relating to the Straits Settlements, and surrounding countries, as well as standard works on Botany, Zoology, Mineralogy, Geography, and the Arts and Sciences generally”.[^2]
 
