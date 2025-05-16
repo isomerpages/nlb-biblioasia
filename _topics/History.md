@@ -6,7 +6,7 @@ description: ""
 ---
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/history-story-national-library-singapore/">From Colonial Vision to Key Memory Institution: A Short History of the National Library</a>
 
-The zoo was able to overcome major setbacks in its formative years to become the well-loved tourist attraction it is today.
+The National Library began life in 1837 with a modest collection of 392 publications belonging to the Singapore Free School.
 
 <img src="/images/Vol%2021%20Issue%202/Story%20of%20National%20Library/NL_Story_topic.jpg" style="width:80%;">
 <hr>
