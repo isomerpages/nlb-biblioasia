@@ -671,3 +671,220 @@ These are the types of photobooks:<br>
  6. Minjian (民间) Books as Photobooks<br>
  7. Scenes and Landscapes: Photobooks as Record<br><br>
 Let me explain the typology in greater detail.
+
+***1. Photobooks as Performing State Politics***
+Given the cost of producing a photobook, the state has always been a major
+publisher of books with significant photographic content. Photography is
+seen as an efficient way to convey the state’s agenda, especially when the
+intended audience is deemed to be an unwilling reader of text. In this sense,
+*The People and the Country* (《人民与国家》) and *Viet Nam in Flames* can be
+thought of as photobooks that perform state politics. While the latter was
+intended for an English-speaking audience, presumably located outside
+of South Vietnam, *The People and the Country* was meant for domestic
+consumption, especially among Singapore’s Chinese-reading population.
+
+While the state might understandably be invested in advancing its agenda
+through photobooks, it is worth noting that there have also been numerous
+photo publications, credited to photographers and commercial publishers,
+which willingly mirror the state narrative. Quite a number feature the works
+of foreign photographers. A good example is *The Royal Family of Thailand*,
+authored and photographed by London-based Jewish photographer
+Reginald Davis.48 A fellow of the Royal Photographic Society (RPS) of Great
+Britain since 1971, Davis made a name for himself photographing royal
+families across the world. While the photobook was published in London
+in 1981, it was printed and bound by Dai Nippon’s Hong Kong office. The
+Japanese printing house had established its Hong Kong branch in 1964,
+bringing its services one step closer to Southeast Asia.
+
+Published in English, *The Royal Family of Thailand* was distributed by
+Central Department Store, a retail giant from Bangkok. While this suggests that the English-reading public in Thailand would have reasonable access to
+the photobook, it is likely that the publication would have been of interest
+to readers beyond the country. The blurb on the front flap of the dust jacket
+states: “In an age of turmoil in South-East Asia, the constitutional monarchy
+of Thailand, situated as it is in a sub-continent of intensive political
+change, has variously excited outside observers with bafflement, curiosity
+and respect. How can such a kingdom flourish, the world asks, how can it
+even survive such an environment?” The turmoil of the region mentioned
+here probably refers to the October 1973 uprising and the 6 October 1976
+massacre in Bangkok, the fall of Saigon in 1975, the takeover of Cambodia
+by the Khmer Rouge and its subsequent dispersal in 1979 by Vietnamese
+forces, as well as the Communist-turn in Laos.
+
+The Thai kingdom’s stability then, as spelt out by the book’s blurb, was
+only guaranteed by the “extraordinary power of the good exercised by Their
+Majesties King Bhumipol and Queen Sirikit over the Thai people”. The
+photographs subsequently show the royal family decked in regalia, traversing
+the country and visiting their subjects. More crucially, readers are afforded
+a glimpse of the royal family in scenes of leisure and pleasure, reminiscent
+of the colourful fashion spreads of that era. Davis’ photographs appear in
+contrast to the turmoil referenced in the blurb. The circulation of Davis’
+photobook through the English-speaking milieu helped to popularise the
+perception that the well being of the Thai nation was inevitably pegged to
+the steady hands of the royal family.
+
+***2. Photobooks as Repository of Marginalised Politics***
+The second kind of photobook can be thought of as publications produced
+in partial response to the previous type of photobook. Broadly speaking,
+these photobooks use the book format to record, recall and visualise other
+articulations of politics that have been made marginal by the state or
+mainstream society. They are sometimes, though not always, produced by civil
+society. For instance, *Labour Party of Malaya Album of Historical Photographs*
+(《马来亚劳工党历史图片集》) was published by surviving members of the
+political party in 2000, decades after its deregistration in 1972.49
+
+The Labour Party of Malaya (LPM) originated from an amalgamation of
+different labour parties across Malaya in 1952, and gained control of the
+George Town Municipal Council during the Penang municipal council
+elections of December 1956. In the 1959 General Election, under the
+Socialist Front (SF) coalition, LPM won six parliamentary seats and 13 seats
+in different state assemblies. Internal disagreements over the formation of
+Malaysia in 1963, waves of arrests without trial targeting many LPM cadres
+under the Internal Security Act (ISA) and the party’s eventual decision to
+boycott parliament gradually brought about its demise.50
+
+In its introduction, editor’s foreword and afterword, the fact that LPM
+members risked potential state reprisal to preserve these images for posterity
+is repeatedly mentioned or implied. The afterword notes the publication’s
+aim to “reflect the real side of Malayan history” through these historical
+photographs. While the photobook focuses on the milestones of LPM, the
+latter sections strive to visualise the state violence enacted on its comrades
+and their family members. To heighten the visual drama of the forceful
+dispersals of family members outside a detention camp, a strategy of montage and juxtaposition is used, recalling the graphic nature of protest
+books from across the region.51 Portraits of former LPM and SF detainees,
+neatly laid out in a grid, run for nine pages in the closing section of the
+photobook, a reminder of their sacrifices for Malaysia.52
+
+***3. Exhibition Catalogues***
+
+The cost of producing photobooks remains exorbitant for most
+photographers in Southeast Asia. Publications made in conjunction with
+exhibitions, published or partially subsidised by the exhibiting venue, offers
+an opportunity for practitioners to produce photobooks. While some of
+these publications provide nothing more than a listing of exhibited works,
+others are well designed and offer a narrative or political reading that is not
+limited to the content of the printed photographs.
+
+In the decades following the end of World War II, as the nations in
+Southeast Asia broke away from colonialism, a particular kind of exhibition
+catalogue abounded – those produced by amateur photo clubs. As advocates
+of Pictorialism or salon photography, these clubs offered tutelage to eager
+adherents interested in learning the medium, prior to the institutionalisation
+of photo education in academies and universities across the region.53 They
+operated through the logic of strength in numbers and typically enjoyed
+patronage, directly or otherwise, from the state or elite class. An example is
+*Pictorial Photography: Seven Men Photo Exhibition*, an exhibition catalogue
+published by the Photographic Society of Singapore (PSS) in 1965.54 The PSS
+originated from the Singapore Camera Club, which was established in 1950
+under the British-backed Singapore Art Society umbrella. Police inspector
+Yee Joon Toh served as its founding president. Since its inception, the club
+has published numerous catalogues for its exhibitions and competitions.
+Many of these catalogues are forgettable, with a few exceptions, including
+*Pictorial Photography: Seven Men Photo Exhibition*, which was published
+in conjunction with a group exhibition at Victoria Memorial Hall. The
+exhibition featured the works of seven Chinese male photographers active
+in the milieu of salon photography, namely: Lee Lim, Mun Chor Koon, Tan Boon Yean, Wang Su Fah, Wu Peng Seng, Yam Pak Nin and Yip
+Cheong Fun (b. 1903, Hong Kong–d. 1989, Singapore).
+
+Then Minister for Culture S. Rajaratnam officiated the opening of the
+exhibition on 5 March 1965. In the catalogue’s foreword, Rajaratnam wrote,
+just months before Singapore was ousted from Malaysia, “Photography is an
+art form which cuts across barriers of language, race and creed. In our multiracial
+society it is an effective and essential method of communication to
+promote better understanding amongst the various communities of our new
+nation. … In the not too distant past, it was not uncommon for Singapore
+to be dismissed as ‘a cultural desert’, but it is gratifying to note that world
+opinion has changed completely, thanks to the efforts and diligence of our
+people and organisations such as yours [PSS] which have focused attention
+on our cultural life.”55
+
+An important aide to Lee Kuan Yew in the PAP, Rajaratnam’s words held
+sway in terms of the way photography would be mobilised for the party’s
+agenda and to mark Singapore’s relevance to the world. It is likely that Chua
+Soo Bin (b. 1932, Singapore) helped to produce or design the thoughtful
+catalogue.56 Chua had started out as a PSS member whose practice would
+eventually evolve to encompass advertising and portraiture. In 1988, Chua
+was conferred the Cultural Medallion (Photography), the highest award for
+the arts in Singapore.
+
+The dust jacket of *Pictorial Photography: Seven Men Photo Exhibition*
+presents a group portrait of the featured photographers staring at the camera
+and the intended viewers of this publication. The end-paper of the book
+presents the negative image of this group portrait. A crop of the portrait
+reappears in the photobook, above the spread listing the featured works.
+This interplay of positive and negative images articulates the designer’s keen
+awareness of the photographic process and helps to project, through the
+photographers’ unwavering gaze (at the viewers), their modernist profile as
+art photographers. Echoing the title of the photobook, the numeral seven
+is repeated in the opening spread of each photographer’s chapter of his
+works. As a whole, the design of the catalogue exudes confidence that seems
+befitting of that era and the status of the exhibiting photographers.
+
+
+***4. Photobooks as Portfolio/Exhibition***
+
+Earlier, I argued that it is important to re-contextualise certain exhibition
+catalogues as potential photobooks. Here, the focus is on photobooks
+that are conceived as an exhibition or portfolio of the practitioner’s
+work. In certain cases, these photobooks function as a manifesto of the
+photographer’s practice. It is also possible to place the artist’s book in
+this section. In this way, the collaboration between artist Robert Zhao
+(b. 1983, Singapore) and designer Hanson Ho, resulting in publications
+such as *Mynas*,57 can be placed in dialogue with salon photographer
+Chua Tiag Ming’s *Photography in Action* (《哲民影集》).58
+
+While Zhao’s photobook feels sumptuous and very designed, which
+transforms his work into a tactile experience, Chua’s book, designed
+by fellow salon photographer Foo Tee Jun, seems almost unadorned.
+The front end-paper features a picture of Chua prone on the ground,
+photographing a lady (whom I presume to be his wife, given that
+his dedication to her appears in the top left corner). Chua’s wife had
+apparently also contributed to the photobook by touching up the
+photographs and proofreading the English text.59 On one hand, Chua’s
+photobook looks like a portfolio of his best hits. The accompanying
+captions oscillate between providing context to the images, articulating his
+perspectives on the subject matter, and delving into the technical issues
+of a particular photograph. On the other hand, the book also features text
+by other esteemed salon practitioners on various aspects of photography.
+Hence, Chua’s photobook feels like a hybrid object that serves as a
+portfolio, manual for other photographers, as well as a vehicle to express
+his thoughts.
+
+
+***5. Corporate Books as Photobooks***
+
+Corporations have always sought out and commissioned the best
+photographers for their book projects. This is another avenue where we
+may encounter exemplars of photobooks in Southeast Asia. One curious
+example from NLB’s collections that merits a quick mention is *Brunei Darus
+Salam: A Pictorial Review of the Land and People*, published by Brunei Shell Petroleum Company.60 At first glance, this photobook published in 1968
+was to commemorate the coronation of Hassanal Bolkiah, the current sultan
+and prime minister of Brunei. The photobook takes us through the ways-oflife
+and development of the state, with the closing section dedicated to the
+extraction of oil, the *raison d’être* for Shell’s existence in Brunei. Within my
+proposed typology, this publication can be thought of as a photobook that
+performs state politics. However, it is also a corporate book published by the
+oil company to portray Brunei, on behalf of the state, which only attained
+independence from the United Kingdom in 1984. Locating this publication
+in this category allows us to consider the intricate connection between the
+oil conglomerate and logic of political power in Brunei.
+
+***6. Minjian (民间) Books as Photobooks***
+
+In Southeast Asia, another source of photobooks comes from the *minjian*
+(民间). As Taiwanese theorist Chen Kuan-Hsing points out, *minjian* refers
+to “a folk, people’s, or commoners’ society, but not exactly – because while
+min means people or populace, *jian* connotes space and in-betweenness”.61
+In short, *minjian* refers to the “space where traditions are maintained as
+resources to help common people survive the violent rupture brought about
+by the modernising of state and civil society”. The examples of *minjian*
+groups that Chen gives include religious sects, sex workers and street
+vendors.62 It is also possible to think of the Chinese-medium schools in
+Malaysia and Cambodia, self-help groups and clan associations across the
+region, as well as certain cultural organisations (such as KUNCI Cultural
+Studies Centre at Yogyakarta, Lostgens’ Contempoary Art Space at Kuala
+Lumpur and Bras Basah Open in Singapore) as different manifestations
+of the *minjian* society in Southeast Asia. While the term *minjian* is not as
+commonly used in Southeast Asia as compared to Taiwan (where Chen
+is based), a semblance of the *minjian* that Chen evokes continues to exist
+across Southeast Asia.
+
