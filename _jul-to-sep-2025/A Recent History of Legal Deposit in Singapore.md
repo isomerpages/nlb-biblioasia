@@ -78,7 +78,7 @@ NLB may also do more targeted collecting under special circumstances. The one-ti
 ![](/images/Vol%2021%20Issue%202/Legal%20Deposit/history_meme4.jpg)
 <div style="background-color:white;"> Memes from SGAG during the Covid-19 pandemic, April–June 2020.<i> Collection of the National Library Singapore.</i></div>
 
-Last but not least, legal deposit documents the rich history of publishing itself, and testifies to a once-thriving writing, publishing and retail industry that has shaped Singapore's literary environment today.
+Last but not least, legal deposit documents the rich history of publishing itself, and testifies to a writing, publishing and retail industry that has shaped Singapore's literary environment today.
 
 #### **Challenges and New Formats&nbsp;**
 
