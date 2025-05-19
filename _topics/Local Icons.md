@@ -13,7 +13,7 @@ The National Library began life in 1837 with a modest collection of 392 publicat
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/mobile-libraries-books-on-wheels/">Books on Wheels: Singapore's Mobile Libraries</a>
 
- <p>Between the 1960s and 1980s, libraries-on-wheels were a familiar sight as they travelled around Singapore bringing books to residents in the rural and suburban areas.  </p> 
+ <p>Between the 1960s and 1980s, libraries-on-wheels were a familiar sight as they travelled around Singapore bringing books to residents in rural and suburban areas.  </p> 
  
 <img src="/images/Vol%2021%20Issue%202/Books%20on%20Wheels/Mobile_Libraries_topic.png" style="width:80%;">
 <hr>
