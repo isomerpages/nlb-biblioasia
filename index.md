@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: vol-20/issue-3/oct-dec-2024/wat-ananda-metyarama-thai-buddhist-temple/
-      button: At Wat Ananda, Thai Buddhism with a Singaporean Twist
+      url: /vol-21/issue-1/apr-jun-2025/liu-kang-collection/
+      button: "The Liu Kang Collection: A Portrait of the Artist as a Young Man"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Wat_Ananda.jpg
+      background: /images/Vol 21 Issue 1/Liu Kang/HeroImage_liukang_2.jpg
       variant: center
   - infopic:
       title: "Pages of Progress: The Toa Payoh Public Library"
