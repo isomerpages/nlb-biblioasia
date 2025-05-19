@@ -22,7 +22,7 @@ sections:
       subtitle: Local Icons
       id: infopic
       description: Between the 1960s and 1980s, libraries-on-wheels travelled around
-        Singapore bringing books to residents in the rural and suburban areas.
+        Singapore bringing books to residents in rural and suburban areas.
       button: THE TRAVELLING LIBRARIES
       url: /vol-21/issue-2/jul-sep-2025/mobile-libraries-books-on-wheels/
       image: /images/Vol 21 Issue 2/Books on Wheels/Mobile_Libraries_topic.png
