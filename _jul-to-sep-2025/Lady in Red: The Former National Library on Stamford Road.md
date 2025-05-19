@@ -150,7 +150,7 @@ The long snaking queues became a thing of the past as self-check machines and an
 ![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_lobby.jpg)
 <div>The foyer of the revamped National Library with the self-check borrowing stations, 1997.&nbsp; The St Andrew’s Cross on the floor at the entrance is now located outside the National Library Building on Victoria Street. <i>Collection of the National Library Singapore.</i></div>
 
-The 300-square-metre courtyard of the National Library also underwent a transformation. After upgrading works, the courtyard was repurposed as a public space to “promote the library as a vibrant place and as a venue for creative expressions like poetry, readings, drama or dance performances, or forum discussions on an art topic,” said Lim Siew Kim, deputy director of the National Reference Library. The addition of a fountain and a cafe enhanced the ambience and further improved library user experience.[^10]
+The 300-square-metre courtyard of the National Library also underwent a transformation. After upgrading works, the courtyard was repurposed as a public space to “promote the library as a vibrant place and as a venue for creative expressions like poetry, readings, drama or dance performances, or forum discussions on an art topic,” said Lim Siew Kim, deputy director of the National Reference Library. The addition of a fountain and a café enhanced the ambience and further improved library user experience.[^10]
 
 ![](/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_renaissance.jpg)
 <div>A Renaissance fountain takes pride of place in the courtyard, 2004. <i>Collection of the National Library Singapore.</i></div>

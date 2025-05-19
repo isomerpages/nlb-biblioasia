@@ -9,14 +9,24 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: vol-20/issue-3/oct-dec-2024/wat-ananda-metyarama-thai-buddhist-temple/
-      button: At Wat Ananda, Thai Buddhism with a Singaporean Twist
+      url: /vol-21/issue-1/apr-jun-2025/liu-kang-collection/
+      button: "The Liu Kang Collection: A Portrait of the Artist as a Young Man"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Wat_Ananda.jpg
+      background: /images/Vol 21 Issue 1/Liu Kang/HeroImage_liukang_2.jpg
       variant: center
+  - infopic:
+      title: "Books on Wheels: Singapore's Mobile Libraries"
+      subtitle: Local Icons
+      id: infopic
+      description: Between the 1960s and 1980s, libraries-on-wheels travelled around
+        Singapore bringing books to residents in the rural and suburban areas.
+      button: THE TRAVELLING LIBRARIES
+      url: /vol-21/issue-2/jul-sep-2025/mobile-libraries-books-on-wheels/
+      image: /images/Vol 21 Issue 2/Books on Wheels/Mobile_Libraries_topic.png
+      alt: Singapore's Mobile Libraries
   - infopic:
       title: "Pages of Progress: The Toa Payoh Public Library"
       subtitle: Places and Buildings
@@ -1064,16 +1074,6 @@ sections:
       url: /videos/reels/print/
       alt: Image alt text
       image: "/images/Videos: BiblioAsia Reels/early_print.jpg"
-  - infopic:
-      title: "Books on Wheels: Singapore's Mobile Libraries"
-      subtitle: Local Icons
-      id: infopic
-      description: Between the 1960s and 1980s, libraries-on-wheels travelled around
-        Singapore bringing books to residents in the rural and suburban areas.
-      button: THE TRAVELLING LIBRARIES
-      url: /vol-21/issue-2/jul-sep-2025/mobile-libraries-books-on-wheels/
-      image: /images/Vol 21 Issue 2/Books on Wheels/Mobile_Libraries_topic.png
-      alt: Singapore's Mobile Libraries
   - infopic:
       title: The Story of the National Library
       subtitle: Local Icons

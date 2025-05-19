@@ -22,7 +22,7 @@ Part-time branch libraries served residents living in suburban Singapore before 
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/national-library-stamford-road-photos/">Lady in Red: The Former National Library on Stamford Road</a>
 
-Beyond being a mere repository of books, the former landmark on Stamford Road was a place for acquiring knowledge, making memories and creating friendships.
+Beyond being a mere repository of books, the library on Stamford Road was a place for acquiring knowledge, making memories and creating friendships.
 
 <img src="/images/Vol%2021%20Issue%202/Frames%20of%20Memory/frames_topic.jpg" style="width:80%;">
 <hr>

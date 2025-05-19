@@ -76,9 +76,9 @@ Likewise, web-based materials are “snapshots” that preserve otherwise fleeti
 NLB may also do more targeted collecting under special circumstances. The one-time collection of Covid-19 memes from SGAG is an example.[^7] Memes are a form of image-based digital communication that rely on recontextualising popular images circulated online. The SGAG memes play on Singaporean tropes to grapple with the reality of the pandemic, effectively capturing the zeitgeist of a Singapore during the 2020 circuit breaker.
 
 ![](/images/Vol%2021%20Issue%202/Legal%20Deposit/history_meme4.jpg)
-<div style="background-color:white;"> Covid-19 memes&nbsp;from SGAG, April–June 2020.<i> Collection of the National Library Singapore.</i></div>
+<div style="background-color:white;"> Memes from SGAG during the Covid-19 pandemic, April–June 2020.<i> Collection of the National Library Singapore.</i></div>
 
-Last but not least, legal deposit documents the rich history of publishing itself, and testifies to a once-thriving writing, publishing and retail industry that has shaped Singapore's literary environment today.
+Last but not least, legal deposit documents the rich history of publishing itself, and testifies to a writing, publishing and retail industry that has shaped Singapore's literary environment today.
 
 #### **Challenges and New Formats&nbsp;**
 
@@ -106,7 +106,7 @@ For now, NLB continues to grow its Legal Deposit Collection and has even embarke
 ![](/images/Vol%2021%20Issue%202/Legal%20Deposit/history_screenshot_fb.jpg)
 <div style="background-color:white;"> Screenshot of the Facebook page of Sri Warisan Som Said Performing Arts Ltd. <i> Collection of the National Library Singapore.</i></div>
 
-Members of the public can get involved by recommending Instagram, Facebook and YouTube accounts for archiving via “Internet Gems”, the annual callout for public nominations. NLB intends to make the archived social media accounts accessible in future when the technology to do so has been developed.&nbsp;
+Members of the public can get involved by recommending Instagram, Facebook and YouTube accounts for archiving via “Internet Gems”, the annual callout on social media for public nominations. NLB intends to make the archived social media accounts accessible in future when the technology to do so has been developed.&nbsp;
 
 ![](/images/Vol%2021%20Issue%202/Legal%20Deposit/history_was.jpg)
 <div style="background-color:white;">Website banner from the 2024 “Internet Gems” public callout for recommendations. </div>
