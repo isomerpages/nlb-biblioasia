@@ -1,5 +1,5 @@
 ---
-title: "Leaving China, Discovering Asia: Ex China Missionaries and Singapore as
+title: "Leaving China, Discovering Asia: Ex-China Missionaries and Singapore as
   Cold War “Christian Hub”"
 permalink: /chapters-on-asia-2024/china-missionaries-singapore/
 variant: markdown
