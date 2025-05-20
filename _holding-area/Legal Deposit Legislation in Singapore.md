@@ -79,7 +79,7 @@ Out of the five copies deposited with the National Library, two copies would be 
 One of the copies retained by the library was preserved in the Publishers and Printers Act collection (later called the Legal Deposit collection and now PublicationSG), while the other was catalogued and kept in the reference section of the National Library. These reference copies are now part of the Singapore and Southeast Asia Collection at the Lee Kong Chian Reference in the National Library Building. The remaining three copies were given to academic libraries and the Ministry of Culture, or sent to the public libraries as loan copies.
 
 ![](/images/Vol%2021%20Issue%202/Early%20History%20of%20Legal%20Deposit/early_key.jpg)
-<div style="background-color:white;"> Manually keying in the titles deposited under the Printers and Publishers Act into the library’s database, 1989. <i>Collection of the National Library, Singapore.</i></div>
+<div style="background-color:white;"> Manually keying in the titles deposited under the Printers and Publishers Act into the library’s database, 1989. <i>Collection of the National Library Singapore.</i></div>
 
 #### **Catalogues and Bibliographies**
 
