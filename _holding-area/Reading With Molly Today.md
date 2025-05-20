@@ -36,9 +36,16 @@ During Molly visits, researchers provided information about library loan periods
 
 Nur Maya Edora, 7, is an avid reader both at home and in school. A library enthusiast, Maya often bugs her mother, Nur Hirma Sheeryn, to take her and her siblings to Punggol Regional Library, the library nearest to their residence. However, due to childcare reasons, travelling to the library as a family can be challenging for them.&nbsp;
 
+![](/images/Vol%2021%20Issue%202/Molly/molly_maya.jpg)
+<div style="background-color:white;"> Nur Maya Edora and her dad Kamarul,
+12 April 2025. <i> Photo by Jimmy Yap.</i></div>
+
 Molly’s regular visits to their neighbourhood in Punggol allowed the family to visit and experience the library with convenience due to its proximity to their home. During the six months, Maya not only borrowed books for herself, but also picked out books for her younger sister. When asked how often she would like to visit Molly, Maya said: “I wish like every day.”&nbsp;
 
 Nur Yarah is a bubbly 9-year-old and one of the most regular visitors to Molly. Jannah Belhida, her mother, found out about the bus through her friend and decided to take Yarah and her 3-year-old sister, Nur Farasha, to the bus to find out more. An advantage of regular visits to Molly was that it provided a Saturday routine for the family and gave Yarah access to new books. Yarah told us: “I now read before bed all the time. I will ask my mummy if there’s the library bus. I’m pretty disappointed if she says no.” After the intervention, Jannah decided to take the children to the nearby Punggol Regional Library as she preferred the huge selection of library books and the numerous activities for her children.&nbsp;
+
+![](/images/Vol%2021%20Issue%202/Molly/molly_yarah.jpg)
+<div style="background-color:white;"> Nur Yarah (left) with her mother Jannah Belhida and sister Nur Farasha, 12 April 2025.  <i> Photo by Jimmy Yap.</i></div>
 
 Originally an effort to bring library services to children living in rural districts, NLB’s mobile library service today continues its aims to of making library services more accessible to Singapore’s children. The study highlights that regular visits to Molly can empower low-income families by giving them more access to books, improving their children’s reading enjoyment and frequency, and directing them to public library services.&nbsp;
 

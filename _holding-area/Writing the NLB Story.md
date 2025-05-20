@@ -152,6 +152,30 @@ For Tan, leaning into the function of the library as a social space may be a goo
 <div style="background-color:white;">The Courtyard at Level 5 of the National Library Building is opened to the public. It can be booked for special events such as book launches, wedding solemnisations and birthday celebrations. <i> Collection of the National Library Board.</i></div>
 
 
+<div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
+<b>THE NATIONAL ARCHIVES JOINS NLB
+</b><br><br>
+When the National Archives of Singapore became part of the National Library Board in 2012, it was, in many ways, a homecoming. The archives had begun life in the late 1930s as part of the old Raffles Library and Museum, the predecessor institution of the National Library. 
+	<br><br>
+The history of the archives in Singapore dates back to 1938 with the appointment of Tan Soo Chye as the first Archivist to manage the historical records of the archives unit at the Raffles Library and Museum. 
+	<br><br>
+In January 1955, the administration of the Raffles Library was separated from that of the Raffles Museum and the archives unit came under the Raffles Library. (The Raffles Library was renamed Raffles National Library in 1958 and then the National Library in 1960).
+	<br><br>
+The archives unit became a separate unit – the National Archives and Records Centre (NARC) – in August 1968. The newly established unit took over the management, custody and preservation of public archives and government records from the National Library. Hedwig Anuar, the director of the National Library, was concurrently appointed the first director of the NARC.
+	<br><br>
+Two years later, in January 1970, the NARC moved into its own premises at 17–18 Lewin Terrace on Fort Canning Hill.
+	<br><br>
+The NARC was expanded in 1979 when the Oral History Unit was set up as a department under the NARC. The mission of the Oral History Unit was to collect and document the memories of people through oral history recordings. In 1981, the NARC was renamed the Archives and Oral History Department following the merger of the Oral History Unit with the NARC.
+	<br><br>
+In May 1984, the Archives and Oral History Department relocated to the Old Hill Street Police Station, sharing the space with several government agencies. The new premises had better facilities such as a bigger climate-controlled archival repository. Just a year later, the Archives and Oral History Department was split into the National Archives and the Oral History Department.
+	<br><br>
+In August 1993, the National Archives, the Oral History Department and the National Museum became part of the National Heritage Board. The National Archives and the Oral History Department became a single entity known as the National Archives of Singapore, and the Oral History Department was renamed the Oral History Centre.
+	<br><br>
+In 1997, the National Archives of Singapore moved into the former Anglo-Chinese Primary School building at 1 Canning Rise, where it remains to this day. Finally, in November 2012, the National Archives of Singapore became an institution of the National Library Board.
+<br></div>
+
+	
+
 <br>
 
 <div style="background-color: white;">

@@ -4,7 +4,7 @@ permalink: /holding-area/vol-21/issue-2/jul-sep-2025/legal-deposit-legislation-i
 variant: markdown
 description: ""
 ---
-#### The legal deposit function in Singapore can be traced back to an 1835 act enacted in India to control and regulate the flow of information.&nbsp;
+#### The legal deposit function in Singapore can be traced back to an 1835 law enacted in India to control and regulate the flow of information.&nbsp;
 
 By Makeswary Periasamy
 
@@ -36,9 +36,6 @@ The British Museum’s collecting efforts faced challenges with the UK’s Inter
 #### **Book Registration Ordinance of 1886**
 
 The Book Registration Ordinance, implemented on 1 January 1887, required three copies of every Straits Settlements publication to be deposited with Singapore’s Colonial Secretary’s Office. One deposited copy and two copies of the memoranda of books were subsequently sent to the British Museum Library.[^11]
-
-![](/images/Vol%2021%20Issue%202/Early%20History%20of%20Legal%20Deposit/early_memoranda.jpg)
-<div style="background-color:white;">First issue of the “Memoranda of Books Registered in the Catalogue of Books Printed in the Straits Settlements” printed in the 20 May 1887 issue of the <i>Straits Settlements Government Gazette</i>. <i>Collection of the National Library Singapore.</i></div>
 
 Similar to the 1867 Indian Act, the 1886 ordinance broadly defined “book” to include “every volume, or part of division of a volume, and pamphlet, in any language, and every sheet of music, map, chart or plan separately printed or lithographed”.[^12] Publication details were recorded in an official catalogue, published quarterly in the government gazette. If printers did not comply, they could be fined up to $25.&nbsp;
 
@@ -81,18 +78,18 @@ Out of the five copies deposited with the National Library, two copies would be 
 
 One of the copies retained by the library was preserved in the Publishers and Printers Act collection (later called the Legal Deposit collection and now PublicationSG), while the other was catalogued and kept in the reference section of the National Library. These reference copies are now part of the Singapore and Southeast Asia Collection at the Lee Kong Chian Reference in the National Library Building. The remaining three copies were given to academic libraries and the Ministry of Culture, or sent to the public libraries as loan copies.
 
+![](/images/Vol%2021%20Issue%202/Early%20History%20of%20Legal%20Deposit/early_key.jpg)
+<div style="background-color:white;"> Manually keying in the titles deposited under the Printers and Publishers Act into the library’s database, 1989. <i>Collection of the National Library, Singapore.</i></div>
+
 #### **Catalogues and Bibliographies**
 
 Like the 1867 Indian Act, the 1886 Book Registration Ordinance required the officer registering the deposit copy to maintain a catalogue of books containing all the essential details, known as memorandum, that would be published in the government gazette every quarter. The Colonial Secretary’s Office served as the local depository and an officer there was assigned to register the deposited copies and compile the catalogue. &nbsp;
 
 In Singapore, the very first catalogue of books was published in the 20 May 1887 issue of the gazette for the quarter ending 31 March 1887 with the title _Memoranda of Books Registered in the Catalogue of Books Printed in the Straits Settlements Under the Provisions of Ordinance No. XV of 1886_.[^31] The catalogue listed five publications printed in Singapore: a school textbook in Tamil, the weekly and daily issues of the _Straits Times_, the magazine of St Andrew’s Cathedral and the _Singapore_ &amp; _Straits Directory_ of 1887. The memoranda of books continued to be published in the gazette until April 1995 when the National Library Board Act came into effect.&nbsp;
 
-![](/images/Vol%2021%20Issue%202/Early%20History%20of%20Legal%20Deposit/early_key.jpg)
-<div style="background-color:white;"> Manually keying in the titles deposited under the Printers and Publishers Act into the library’s database, 1989. <i>Collection of the National Library, Singapore.</i></div>
+![](/images/Vol%2021%20Issue%202/Early%20History%20of%20Legal%20Deposit/early_memoranda.jpg)
+<div style="background-color:white;">First issue of the “Memoranda of Books Registered in the Catalogue of Books Printed in the Straits Settlements” printed in the 20 May 1887 issue of the <i>Straits Settlements Government Gazette</i>. <i>Collection of the National Library Singapore.</i></div>
 
-
-![](/images/Vol%2021%20Issue%202/Early%20History%20of%20Legal%20Deposit/early_technician.jpg)
-<div style="background-color:white;"> Library Technician Chong Boey Im records serials deposited under the Printers and Publishers Act at the National Library, Stamford Road, c. early 1980s. <i>Collection of the National Library Singapore.</i></div>
 
 Since 1969, the National Library has been compiling the annual _Singapore National Bibliography_ (SNB) which contains local titles deposited with the library under the Printers and Publishers Ordinance. The compilation of current and historical bibliographies was laid out as a statutory function of a national library within the 1957 Raffles National Library Ordinance.&nbsp;
 
@@ -104,6 +101,10 @@ The first issue of the SNB, featuring publications printed in 1967, was released
 #### **New Legislations**
 
 In 1995, both the 1985 revised National Library Act and&nbsp; Printers and Publishers Act were subsumed under the National Library Board Act (No. 5 of 1995), establishing the National Library Board (NLB) as the custodian of Singapore’s published heritage. All works that are published or produced in Singapore are required to be deposited with the National Library Singapore within four weeks from the date of publication under Section 10 of the NLB Act.
+
+
+![](/images/Vol%2021%20Issue%202/Early%20History%20of%20Legal%20Deposit/early_technician.jpg)
+<div style="background-color:white;"> Library Technician Chong Boey Im records serials deposited under the Printers and Publishers Act at the National Library, Stamford Road, c. early 1980s. <i>Collection of the National Library Singapore.</i></div>
 
 The number of copies to be deposited by the publisher was reduced to two, and both copies were retained by the National Library. The NLB Act also mandated that only works published and distributed, not printed, in Singapore need to be deposited. Over the years, with the increasing popularity of electronic and online publishing, the act was updated in 2018 to include digital content.[^33]
 

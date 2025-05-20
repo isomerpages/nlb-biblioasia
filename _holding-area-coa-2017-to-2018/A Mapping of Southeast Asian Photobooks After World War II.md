@@ -18,11 +18,11 @@ photobook as a field of interest and an object of desire.
 In the preface of *The Photobook: A History Volume I*, Parr claims that
 the photobook is the “final frontier of the undiscovered” in the research
 of photography. Hence, his promotion of the photobook is an attempt
-to “narrate a new history of photography”.1 Together, Badger and
+to “narrate a new history of photography”.[^1] Together, Badger and
 Parr position the photobook at the chasms “between the aesthetic and
 contextual battalions in the photo-critical wars”, and between art and the
 mass medium, offering, in effect, a third way for photographers, curators,
-collectors and art historians to approach photography.2
+collectors and art historians to approach photography.[^2]
 
 Because the titles featured in these volumes are largely based on Parr’s
 enormous collection of photobooks, the selection is inevitably subjective and
@@ -32,7 +32,7 @@ themselves receive serious treatment from the series, partly because Parr is
 personally invested in these photobooks. In a limited way, this has helped to
 broaden the art of photography. Parr adds, “We have gone out of our way to
 be inclusive, welcoming books from countries beyond the usual European-
-American axis, which are normally overlooked in other histories”.3 Hence,
+American axis, which are normally overlooked in other histories”.[^3] Hence,
 out of the 472 books chosen for the first two volumes of *The Photobook* series,
 some have been placed in the chapter “Other Territories: The Worldwide
 Photobook”, while productions from Japan are featured in the chapter,
@@ -45,24 +45,24 @@ in these volumes where the references are overwhelmingly Euro-American
 and the arguments intended as universal proclamations. While they claim
 to attempt an “unofficial revisionist history” of photography through the
 valorisation of photobooks, their account is based on and inevitably bound to
-the official historiography, which continues to operate from imperial centres.4
+the official historiography, which continues to operate from imperial centres.[^4]
 
 This explains their claim, 10 years after the publication of *The Photobook:
 A History Volume I*, that there is now a global photographic culture and
 that the “photobook can be said to have been responsible for at least one
-conspicuous success in the ongoing story of globalization”.5 Globalisation,
+conspicuous success in the ongoing story of globalization”.[^5] Globalisation,
 in this sense, refers to the uni-directional export of the photobook craze to
 the rest of the world, as there is little evidence in the publications of Parr
 and Badger to suggest that photobooks from any place in Asia, for instance,
 have significantly impacted communities of practitioners in the imperial
 centres. Furthermore, when they make the universalising claim that the
 photobook has been more important to the history of creative photography than the mass-media journal or the gallery print, it is clear that experiences
-in Southeast Asia have not been taken into account.6
+in Southeast Asia have not been taken into account.[^6]
 
 While Parr and Badger assert that they have no interest in creating a new
 canon in photography, the Phaidon publications have effectively accelerated
 the canonisation and commodification of photobooks, chiefly benefitting
-Parr and his associates.7 In effect, their narrative leaves photobook
+Parr and his associates.[^7] In effect, their narrative leaves photobook
 productions from Southeast Asia outside of history and historiography.
 When a photobook from Southeast Asia appears in their selection, it serves
 to legitimise their global and eclectic taste. In other words, when they pick
@@ -88,7 +88,7 @@ canonisation. To quote Parr and Badger at length:
    in the main, it will not simply be a survey of a photographer’s<br>
    ‘greatest hits’, a career review. Monographs, or anthologies of<br>
    a particular photographer’s work at a given time in his or her<br>
-   career have therefore not been included.*8
+   career have therefore not been included.*[^8]
 	 
 Having provided what seems like an all-encompassing definition of the
 photobook, they immediately temper it by including in their selection
@@ -97,13 +97,13 @@ and Walker Evans (*American Photographs*, 1938), while excluding those
 made by some of the most important American Pictorialists, such as
 Alfred Stieglitz, Edward Weston and Ansel Adams. According to Parr and
 Badger, while the publications of the Pictorialists are typically sumptuous
-in production, they are more like anthologies than cogent photobooks.9
+in production, they are more like anthologies than cogent photobooks.[^9]
 And yet, in *The Chinese Photobook: From the 1900s to the Present* (2015),
 co-edited by Parr – again based on his ever-growing collection – and
 WassinkLundgren (with Badger serving as a contributor), anthologies
 and exhibition catalogues such as *Peking Light Society Annual* (1929)
 and *Holidays in Hong Kong* (1968) from the milieus of Pictorialism are
-included in the selection.10 There is no doubt that these are significant
+included in the selection.[^10] There is no doubt that these are significant
 publications in the history of China photography. The same can be said
 of the photobooks made by the aforementioned American Pictorialists,
 *vis-à-vis* the historiography of American photography. Why do Parr and
@@ -121,9 +121,9 @@ Returning to the issue of definition, U.S.-based Jörg Colberg, a widely
 followed proponent of the photobook, offers a slightly different view. He
 defines the photobook as a book that is viewed primarily for its photographs.
 This is different from a cookbook, for instance, which is probably read for
-its recipes rather than photographs.11 In contrast, Parr and Badger devote
+its recipes rather than photographs.[^11] In contrast, Parr and Badger devote
 a full chapter in *The Photobook: A History Volume II* to the company book because many of the greatest photographers produced books that had been
-subsidised and commissioned by commercial corporations.12
+subsidised and commissioned by commercial corporations.[^12]
 
 Colberg considers albums, catalogues and monographs as the three
 subcategories of the photobook, differing from the definition offered by
@@ -134,7 +134,7 @@ typically does not feature a narrative arc. In contrast, it is very difficult to
 remove a photograph or a page from a monograph without dramatically
 altering the book. The placement of the photographs and the overall design
 create the “connective tissue” that makes the monograph more than just a
-sum of its parts.13
+sum of its parts.[^13]
 
 Like most proponents of the photobook, Colberg cannot help but speak
 of it in a somewhat mythologising manner. He adds, “When a photobook
@@ -144,11 +144,11 @@ problems with photobooks are like hangnails that can be noticed even by
 those who do not know much about photobooks, many of the properties of
 perfectly made photobooks can only be appreciated by experts (designers,
 book binders, editors) or people who are aware of the various details to look
-out for”.14 Parr and Badger express a similar sentiment: “Often the difference
+out for”.[^14] Parr and Badger express a similar sentiment: “Often the difference
 between a great photobook and a good photobook is an indefinable quality
 that one recognizes when one sees it”. They add, rather perspicaciously, “Of
 course, photobooks have become extremely desirable objects in their own
-right. There is an element of fetishism at work”.15
+right. There is an element of fetishism at work”.[^15] 
 
 Indeed, the transfer of the photobook hype to Southeast Asia has already
 generated a degree of fetishism. A case in point is the setting up of the
@@ -179,14 +179,14 @@ with such an inclination, even though this disguises the fact that the
 photobook, like photography itself, is a product that traverses national
 borders. *Viet Nam in Flames*, for instance, was published around 1969
 with the support of the General Staff of the Armed Forces of the Republic
-of Vietnam (ARVN).16 The photographers involved were Nguyê˜n Ma·nh
+of Vietnam (ARVN).[^16] The photographers involved were Nguyê˜n Ma·nh
 Đan (b. 1925, Nam Dinh Province–d. 2019) and Major Nguyê˜n Ngo· c
 Ha· nh (b. 1927, Ha Dong–d. 2017, San Jose). The English-language
 version of the photobook offered an account of the Vietnam War from
 the perspective of the South Vietnamese establishment in an attempt to
 garner global support. Unsurprisingly, in the virtual sphere today, there
 are very few passing references in the Vietnamese language concerning
-this photobook.17 Perhaps to ensure its quality, Kwok Hing Printing Press
+this photobook.[^17] Perhaps to ensure its quality, Kwok Hing Printing Press
 in Hong Kong was entrusted with the printing of the photobook. Before
 the 1997 British handover to China, Hong Kong had been an important
 printing hub for publishers around the world, especially those with an
@@ -216,7 +216,7 @@ in Chinese, “Nampo” in Japanese or “Nusantara” in Malay all predate
 “Southeast Asia”. The latter started creeping into popular use following the
 establishment of the Southeast Asia Command, an Allied force set up during
 World War II to “liberate” the region. After the war, driven by the U.S.’ desire to dominate the entire region between India and China, Southeast
-Asia became a region of strategic importance and an area of scholarship.18
+Asia became a region of strategic importance and an area of scholarship.[^18] 
 Since then, the idea of Southeast Asia has gained limited traction from
 within. While it is beyond the scope of this paper to further unpack the
 imaginary of Southeast Asia, we should, at the very least, take it as an
@@ -225,7 +225,7 @@ Timor-Leste, Papua New Guinea, Sri Lanka, Hong Kong or even Christmas
 Island. This is not a call to increase the clout of Southeast Asia in order to
 redress the balance of power in Asia. Instead, this ever-morphing sense of
 the region serves to remind us of the problematic origins of Southeast Asia,
-while marking a productive space within to do inter-referencing work;19
+while marking a productive space within to do inter-referencing work;[^19] 
 in full recognition that we share enough similarities and differences in our
 cultural and political experiences to make critical comparisons worthwhile.
 This should prevent us from glossing over the imprint of Hong Kong or
@@ -297,8 +297,8 @@ Photographic publications have been produced by practitioners from the
 region long before the current craze in photobooks. As this craze trickles back
 to parts of Asia, the term “photobook”, in some cases, has had to be translated
 or re-adapted for localised usage. In Vietnam, for instance, *sách anh*, which
-literally means “photobook”, is commonly used.20 Similarly, in Myanmar,
-“photobook” is translated as *dat-pone sar-oak*.21 Sometimes, even a fairly
+literally means “photobook”, is commonly used.[^20] Similarly, in Myanmar,
+“photobook” is translated as *dat-pone sar-oak*.[^21] Sometimes, even a fairly
 straightforward translation of the term “photobook” might bring about a
 sense of consternation. For example, photo curator Ahmad Salman (b. 1970,
 Semarang) insists that the accurate translation of “photobook” into Bahasa
@@ -306,7 +306,7 @@ Indonesia should be *buku foto* rather than* buku fotografi* because the latter 
 be taken to mean a book about photography. *Buku foto*, on the other hand,
 should be a publication that uses photography to deliver its content. Ahmad
 sounds pedantic only because he feels that Indonesians have historically been
-far too lax in using translated words and ideas.22
+far too lax in using translated words and ideas.[^22] 
 
 Meanwhile, there are many pre-existing terms in Southeast Asia, which
 precede the current photobook hype, some of which remain relevant
@@ -316,7 +316,7 @@ conveys the idea of a picture or an illustrated book. According to China
 photo historian Gu Zheng, in the present context “*tushu* has at least three
 denotations – a book of text, of images, or both – whereas an alternate
 term, *huace* [画册], refers more narrowly to a picture album composed of ink
-paintings, drawings, or other illustrations”.23
+paintings, drawings, or other illustrations”.[^23]
 
 In other words, the terms *tushu* and *huace* already embody the myriad of
 possibilities that such a publication may offer, which is not necessarily
@@ -329,7 +329,7 @@ to some of these publications, such as *The People and the Country* (《人民�
 国家》). This is a modest, saddle-stitched photobook produced by the
 Tanjong Pagar Branch of the People’s Action Party (PAP) in 1972, which
 visualises the evolution of the party branch as the national history of
-Singapore.24 Another common term in Chinese is *tekan* [特刊], or “special
+Singapore.[^24] Another common term in Chinese is *tekan* [特刊], or “special
 issue”. While most people associate *kan* with the term “periodical”, it can
 also mean “publication”. In Southeast Asia, news companies, Chinese
 schools and political parties, among others, have published numerous
@@ -337,8 +337,8 @@ schools and political parties, among others, have published numerous
 commemorating milestone events.
 
 In the Thai language, *nangsue phapthai* [หนังสือ ภาพถ่าย] is a somewhat
-literal translation of the term “photobook”.25 It is a relatively new term that
-can already be found in the Thai dictionary.26 *Phapthai* and *nangsue* refer
+literal translation of the term “photobook”.[^25] It is a relatively new term that
+can already be found in the Thai dictionary.[^26] *Phapthai* and *nangsue* refer
 to “photographs” and “book” respectively. On the other hand, a term like
 *samut phap* [สมุดภาพ] was already in use during the reign of Rama V
 (r. 1868–1910). *Samut* means “book” while *phap* refers, more broadly, to
@@ -347,8 +347,8 @@ words, *samut phap* can be used to refer to a book of drawings, paintings or
 photographs. Other terms in use since the reign of Rama V include อัลบ้มั
 [pronounced as *album*] and *pramuan phap* [ประมวลภาพ]. In the 1970s, for
 instance, photobooks published to record the popular political movements
-of 1973 and 1976 were known as *pramuan phap*.27 *Pramuan* translates to
-“collection” and conveys a sense of archival in terms of putting together materials from different sources.28 These terms have since lapsed from
+of 1973 and 1976 were known as *pramuan phap*.[^27] *Pramuan* translates to
+“collection” and conveys a sense of archival in terms of putting together materials from different sources.[^28] These terms have since lapsed from
 popular usage.
 
 This quick survey of terminologies referring to the photobook points to
@@ -370,7 +370,7 @@ also published catalogues of their exhibitions. By the mid-80s, grandiose
 coffee-table books had become extremely popular, as the world’s most
 famous photographers were parachuted across the archipelago in search of
 “mystical, mythical Indonesia” to cash in on the “West’s surging interest
-in exotic lands”.29 In 1992, the national news agency of Antara (founded
+in exotic lands”.[^29] In 1992, the national news agency of Antara (founded
 in 1937) decided to reopen its old office in Pasar Baru, Jakarta and convert
 it into Antara Photojournalism Gallery (GFJA), perhaps the first nonprofit
 space in Southeast Asia dedicated to photography. At least since the
@@ -384,7 +384,7 @@ taken some time to germinate.
 In 2008, with the support of German Photobook Prize, PannaFoto Institute
 (established in 2006), a non-profit foundation in Indonesia that focuses on
 photographic education and visual literacy, initiated a long-term relationship
-with Goethe-Institut in Jakarta to mount a series of photobook exhibitions.30
+with Goethe-Institut in Jakarta to mount a series of photobook exhibitions.[^30]
 At the inaugural exhibition in 2008, some 100 books were on display,
 outnumbering the 20 or so attendees at the opening. The exhibition had
 received scant interest because, for aspiring photographers in Indonesia, the
@@ -411,20 +411,20 @@ the photobook form for future photographers in Indonesia. “Young people
 tend to work when everything is in place – when the money is there and the
 concept is ready. It’s not like that,” Erik explains. “When you shoot, you
 think of doing one good essay. And when you have 10 good essays, then you
-can make a book.”31
+can make a book.”[^31]
 
 In April 2012, with the support of PannaFoto, Ahmad and photojournalist
 Julian Sihombing (b. 1959, Jakarta–d. 2012) initiated a series of *kumpul buku*
 (book gathering) in Jakarta. The event incorporated a bazaar of new and used photobooks, book signing sessions and public forums. Visitors were
 encouraged to share their photobooks during each gathering. Kumpul Buku
 has since inspired similar events across Indonesia, in Surabaya, Bandung,
-Solo and Yogyakarta.32 Over in Malaysia, on 1 May 2013, Faisal Aziz (b. 1988,
+Solo and Yogyakarta.[^32] Over in Malaysia, on 1 May 2013, Faisal Aziz (b. 1988,
 Johor) and Liyana Jaafar founded the now-dormant Photobook Club
 Kuala Lumpur (PBCKL), which was partly modelled after the UK-based
 Photobook Club (established in 2011 by Matt Johnston). PBCKL positioned
 itself as a grassroots platform to promote and nurture discussions on the
 photobook, with the explicit aim of reaching the general public, beyond
-the photography community.33 PBCKL started with the couple’s personal
+the photography community.[^33] PBCKL started with the couple’s personal
 collection of books and was informed by their desire to share them with the
 public. Its launch event was held at a lake garden in Selangor, featuring a
 discussion on photobooks and a browsing session at the
@@ -434,7 +434,7 @@ Inspired by PBCKL and PannaFoto’s Kumpul Buku, Ridzki Noviansyah
 (b. 1986, Bandar Lampung) and Tommy N. Armansyah (b. 1974,
 Bandung) co-founded the Photobook Club-Jakarta in 2013. During its
 most active period, the club routinely organised public forums to discuss
-photobooks from around the world.34 On 15 and 16 November 2013,
+photobooks from around the world.[^34] On 15 and 16 November 2013,
 PBCKL was invited to a *kumpul buku* in Yogyakarta where they displayed
 a selection of Malaysian and Japanese books from its collection. The
 following year, on 18 May 2014, PBCKL hosted Ridzki for a talk at the
@@ -458,7 +458,7 @@ Ng decided to play it safe and publish a
 book for her husband, fellow PannaFoto
 member Edy Purnomo (b.1968, Ponorogo),
 “who has no worry about his prestige as
-a photographer”.35 Ahmad and designer
+a photographer”.[^35] Ahmad and designer
 Bobby Haryanto worked on the project
 *pro bono*. The first print run of *Passing* was
 a tentative 200 copies. After everything for
@@ -468,6 +468,14 @@ initial uncertainty over the publication is
 reflected in the comparatively small size of
 the photobook, which measures 16 cm by
 14 cm.
+
+<img src="/images/COA%202017%20to%202018/Southeast%20Asian%20Photobooks/Passing_2.jpg" style="width:50%;">
+ <div style="background-color: white;"><i>Passing</i> (Edy Purnomo, 2012). Hardcover,
+16 x 14 cm, 96 pages.<i> Image source:
+Courtesy
+of Edy Purnomo. Edy Purnomo,
+Passing (Jakarta, Indonesia: PannaFoto
+Institute, 2012). Collection of Zhuang Wubin.</i></div>
 
 In 2013, Rony Zakaria (b. 1984, Jakarta) self published his first photobook,
 *Encounters*, to a warm reception. The market success of these two
@@ -505,7 +513,7 @@ like Indonesia. It started by stocking foreign books, which were hard to find
 in Indonesia. A year later, they began selling Indonesian photobooks, which,
 in truth, turned minimal profits. Nevertheless, Aditya feels that it is part of
 Unobtainium’s responsibility to stock local books as a means to grow the
-photobook community.36 It has also given them an edge in the international
+photobook community.[^36] It has also given them an edge in the international
 market, with foreign collectors interested in Indonesian photobooks actively
 seeking Unobtainium out. In fact, Martin Parr recently bought a stash of
 Indonesian photobooks from them.
@@ -520,14 +528,14 @@ similar to Unobtainium, with Good Art Book focusing predominantly on
 photobooks made by Thai practitioners. Its listing of Thai photobooks is
 shorter than Unobtainium’s stock list of Indonesian photobooks, reflecting
 the liveliness of photobook publishing in Indonesia. With its Thai focus,
-Good Art Book receives more overseas than local orders.37
+Good Art Book receives more overseas than local orders.[^37]
 
 According to Aditya, the market for photobooks in Indonesia has
 been recalibrated in recent years. A few years back, people would buy
 a photobook with the simple intention of owning one. Today’s buyers
 have become more discerning. While Aditya expresses this as a cautionary
 note vis-à-vis the long-term sustainability of the photobook market in
-Indonesia,38 I feel that this is actually a healthy development in terms of
+Indonesia,[^38] I feel that this is actually a healthy development in terms of
 evolving the taste of local buyers in purchasing photobooks and appreciating
 photography. In any case, beyond mounting an exhibition, the photobook
 has become an acknowledged means among Indonesian photographers
@@ -543,7 +551,7 @@ and information. It has had a long history of producing photobooks,
 starting perhaps with Filipino photographer Felix Laureano (b. 1866,
 Patnongon, Antique Province –d. 1952) who, in 1895, published the
 album-book *Memories of the Philippines* in Barcelona. A cheaper facsimile
-was made in 2001 in the Philippines.39 Short of narrating a linear history
+was made in 2001 in the Philippines.[^39] Short of narrating a linear history
 here, it is worth pointing out that the fall of Marcos heralded a spate
 of photobooks being published, including *Kasama: A Collection of
 Photographs of the New People’s Army of the Philippines* (published in 1987),
@@ -561,7 +569,7 @@ the Reformasi in 1998, the lid was suddenly removed and several critical
 photobooks (including exhibition catalogues) were published during that
 period, including Oscar Motuloh’s satirical *Carnaval* (published in 2000)
 and Eddy Hasby’s *East Timor: The Long and Winding Road* (published in
-2001).40 On hindsight, the latter received limited interest then possibly
+2001).[^40] On hindsight, the latter received limited interest then possibly
 because the photobook form was seen as a luxury object beyond the means
 of most Indonesians who were still recovering from the economic fallout
 of the Reformasi. Eddy’s interest in East Timor might have also been
@@ -578,7 +586,15 @@ registered record sales and won Baluyut his second National Book Award.
 In 2002, PCIJ published veteran photographer Sonny Yabao’s *Memory of
 Dances*, which examines, through his enigmatic photographs, the story of
 cultural loss experienced by the Bugkalot and Igorot at Nueva Vizcaya, the
-Tagbanua at Coron and the Manobo at Mount Apo.41
+Tagbanua at Coron and the Manobo at Mount Apo.[^41]
+
+<img src="/images/COA%202017%20to%202018/Southeast%20Asian%20Photobooks/Brother_Hood_3.jpg" style="width:50%;">
+ <div style="background-color: white;"><i>Brother Hood</i> (Alex Baluyut &amp; Gemma Luz
+Corotan, 1995). Paperback, 23 x 21 cm, 97 pages. <i> Image source:
+Corotan, G. L. [Author] and
+Baluyut, A. [Photographer]. (1995). Brother Hood.
+Philippines: Philippine Center for Investigative
+Journalism. Collection of Zhuang Wubin.</i></div>
 
 Sheila S. Coronel (b. 1958), one of Asia’s most eminent investigative
 journalists, served as PCIJ’s executive director from 1989 to 2006. Apart
@@ -589,11 +605,11 @@ the 1990s. In PCIJ’s remit, photography remains integral to many of its
 publications because the medium is essential to the documentation of
 wrongdoing, such as police abuses or corruption in procurement and
 public works, while lending credibility and humanity to its investigative
-work.42 While photography took centre stage in *Brother Hood and Memory
+work.[^42] While photography took centre stage in *Brother Hood and Memory
 of Dances*, Coronel admits that the production value for both photobooks
 was deliberately modest in order to keep costs low, so as to make them more
 affordable and extend their reach. In fact, she suspects that buyers of both
-photobooks mainly came from beyond the photography community.43
+photobooks mainly came from beyond the photography community.[^43]
 
 Since the valorisation of the photobook by Parr and Badger, there have
 been attempts to translate that interest to Manila. In 2015, contemporary
@@ -607,17 +623,22 @@ destroyed Navarroza’s studio.
 In 2017, Filipino photographer-printer RJ Fernandez (b. 1979, Manila)
 officially established MAPA Books, an independent publishing house in
 London. Predictably, its first photobook titles are dedicated to two Filipino
-photographers: Tommy Hafalla’s *Ili* (published in 2016)44 and Veejay
+photographers: Tommy Hafalla’s *Ili* (published in 2016)[^44] and Veejay
 Villafranca’s *Signos* (published in 2017). Informed by Fernandez’s desire to
 bring the quality of production in London to the Philippines, and given that
 MAPA Books prints their titles in Italy, the pricing of these photobooks is
-at a similar level to that of a European publication.45 Thus, it remains to be
+at a similar level to that of a European publication.[^45] Thus, it remains to be
 seen whether the price-point of both publications will hinder their broader
 reception in Manila.
 
+<img src="/images/COA%202017%20to%202018/Southeast%20Asian%20Photobooks/Ili_4.jpg" style="width:100%;">
+ <div style="background-color: white;"><i>Ili</i> (Tommy Hafalla, 2016). Clothbound hardback, 29.5 x 25.4 cm, 160 pages. <i> Image source:
+Courtesy
+of MAPA Books. Hafalla, T. (2016). Ili. Manila: MAPA Books. (Call no.: RART 779.2095991 HAF)</i></div>
+
 In Java, it is clear that the photography community has become invested
 in the photobook form. Their support in terms of interest and purchases
-directly fuels the photobook ecology in Indonesia.46 While they may have
+directly fuels the photobook ecology in Indonesia.[^46] While they may have
 differing views on the medium, senior photographers remain active as
 role models, mediating the relevance of photobooks in local terms. There
 have also been initiatives to promote the photobook among Filipino
@@ -638,7 +659,7 @@ independent photobook publishing across Java has been undertaken only by
 the privileged class. This is far from the truth. When Ng Swan Ti decided to
 set the first print run of Edy Purnomo’s *Passing* at 200 copies, it was based on
 the calculation that they would be able to coerce at least 200 of their friends
-to support the project.47 Is it impossible to garner similar support for an
+to support the project.[^47] Is it impossible to garner similar support for an
 accomplished Filipino photographer in Manila? I have no idea. Nevertheless,
 it is obvious that Manila lacks respected interlocutors who have a sustained
 commitment in translating the photobook interest and making it relevant to
@@ -694,7 +715,7 @@ photo publications, credited to photographers and commercial publishers,
 which willingly mirror the state narrative. Quite a number feature the works
 of foreign photographers. A good example is *The Royal Family of Thailand*,
 authored and photographed by London-based Jewish photographer
-Reginald Davis.48 A fellow of the Royal Photographic Society (RPS) of Great
+Reginald Davis.[^48] A fellow of the Royal Photographic Society (RPS) of Great
 Britain since 1971, Davis made a name for himself photographing royal
 families across the world. While the photobook was published in London
 in 1981, it was printed and bound by Dai Nippon’s Hong Kong office. The
@@ -735,7 +756,12 @@ articulations of politics that have been made marginal by the state or
 mainstream society. They are sometimes, though not always, produced by civil
 society. For instance, *Labour Party of Malaya Album of Historical Photographs*
 (《马来亚劳工党历史图片集》) was published by surviving members of the
-political party in 2000, decades after its deregistration in 1972.49
+political party in 2000, decades after its deregistration in 1972.[^49]
+
+<img src="/images/COA%202017%20to%202018/Southeast%20Asian%20Photobooks/Labour_Party_of_Malaya_5.jpg" style="width:100%;">
+ <div style="background-color: white;"> Labour Party of Malaya album of historical photographs (2000). Softcover, 21.8 x 29 cm, 184 pages. <i> Image source:
+马来亚劳工党历史图片集 [Labour Party of Malaya album of historical
+photographs]. (2000). 吉隆坡：劳工党党史全国工委会. pp. 154–155 (Call no.: Chinese RSING 324.259507 MLY-[YOS])</i></div>
 
 The Labour Party of Malaya (LPM) originated from an amalgamation of
 different labour parties across Malaya in 1952, and gained control of the
@@ -745,7 +771,7 @@ Socialist Front (SF) coalition, LPM won six parliamentary seats and 13 seats
 in different state assemblies. Internal disagreements over the formation of
 Malaysia in 1963, waves of arrests without trial targeting many LPM cadres
 under the Internal Security Act (ISA) and the party’s eventual decision to
-boycott parliament gradually brought about its demise.50
+boycott parliament gradually brought about its demise.[^50]
 
 In its introduction, editor’s foreword and afterword, the fact that LPM
 members risked potential state reprisal to preserve these images for posterity
@@ -755,9 +781,9 @@ photographs. While the photobook focuses on the milestones of LPM, the
 latter sections strive to visualise the state violence enacted on its comrades
 and their family members. To heighten the visual drama of the forceful
 dispersals of family members outside a detention camp, a strategy of montage and juxtaposition is used, recalling the graphic nature of protest
-books from across the region.51 Portraits of former LPM and SF detainees,
+books from across the region.[^51] Portraits of former LPM and SF detainees,
 neatly laid out in a grid, run for nine pages in the closing section of the
-photobook, a reminder of their sacrifices for Malaysia.52
+photobook, a reminder of their sacrifices for Malaysia.[^52]
 
 ***3. Exhibition Catalogues***
 
@@ -774,11 +800,11 @@ Southeast Asia broke away from colonialism, a particular kind of exhibition
 catalogue abounded – those produced by amateur photo clubs. As advocates
 of Pictorialism or salon photography, these clubs offered tutelage to eager
 adherents interested in learning the medium, prior to the institutionalisation
-of photo education in academies and universities across the region.53 They
+of photo education in academies and universities across the region.[^53] They
 operated through the logic of strength in numbers and typically enjoyed
 patronage, directly or otherwise, from the state or elite class. An example is
 *Pictorial Photography: Seven Men Photo Exhibition*, an exhibition catalogue
-published by the Photographic Society of Singapore (PSS) in 1965.54 The PSS
+published by the Photographic Society of Singapore (PSS) in 1965.[^54] The PSS
 originated from the Singapore Camera Club, which was established in 1950
 under the British-backed Singapore Art Society umbrella. Police inspector
 Yee Joon Toh served as its founding president. Since its inception, the club
@@ -800,13 +826,13 @@ nation. … In the not too distant past, it was not uncommon for Singapore
 to be dismissed as ‘a cultural desert’, but it is gratifying to note that world
 opinion has changed completely, thanks to the efforts and diligence of our
 people and organisations such as yours [PSS] which have focused attention
-on our cultural life.”55
+on our cultural life”.[^55]
 
 An important aide to Lee Kuan Yew in the PAP, Rajaratnam’s words held
 sway in terms of the way photography would be mobilised for the party’s
 agenda and to mark Singapore’s relevance to the world. It is likely that Chua
 Soo Bin (b. 1932, Singapore) helped to produce or design the thoughtful
-catalogue.56 Chua had started out as a PSS member whose practice would
+catalogue.[^56] Chua had started out as a PSS member whose practice would
 eventually evolve to encompass advertising and portraiture. In 1988, Chua
 was conferred the Cultural Medallion (Photography), the highest award for
 the arts in Singapore.
@@ -834,8 +860,8 @@ work. In certain cases, these photobooks function as a manifesto of the
 photographer’s practice. It is also possible to place the artist’s book in
 this section. In this way, the collaboration between artist Robert Zhao
 (b. 1983, Singapore) and designer Hanson Ho, resulting in publications
-such as *Mynas*,57 can be placed in dialogue with salon photographer
-Chua Tiag Ming’s *Photography in Action* (《哲民影集》).58
+such as *Mynas*,[^57] can be placed in dialogue with salon photographer
+Chua Tiag Ming’s *Photography in Action* (《哲民影集》).[^58]
 
 While Zhao’s photobook feels sumptuous and very designed, which
 transforms his work into a tactile experience, Chua’s book, designed
@@ -844,7 +870,7 @@ The front end-paper features a picture of Chua prone on the ground,
 photographing a lady (whom I presume to be his wife, given that
 his dedication to her appears in the top left corner). Chua’s wife had
 apparently also contributed to the photobook by touching up the
-photographs and proofreading the English text.59 On one hand, Chua’s
+photographs and proofreading the English text.[^59] On one hand, Chua’s
 photobook looks like a portfolio of his best hits. The accompanying
 captions oscillate between providing context to the images, articulating his
 perspectives on the subject matter, and delving into the technical issues
@@ -861,7 +887,7 @@ Corporations have always sought out and commissioned the best
 photographers for their book projects. This is another avenue where we
 may encounter exemplars of photobooks in Southeast Asia. One curious
 example from NLB’s collections that merits a quick mention is *Brunei Darus
-Salam: A Pictorial Review of the Land and People*, published by Brunei Shell Petroleum Company.60 At first glance, this photobook published in 1968
+Salam: A Pictorial Review of the Land and People*, published by Brunei Shell Petroleum Company.[^60] At first glance, this photobook published in 1968
 was to commemorate the coronation of Hassanal Bolkiah, the current sultan
 and prime minister of Brunei. The photobook takes us through the ways-oflife
 and development of the state, with the closing section dedicated to the
@@ -878,12 +904,12 @@ oil conglomerate and logic of political power in Brunei.
 In Southeast Asia, another source of photobooks comes from the *minjian*
 (民间). As Taiwanese theorist Chen Kuan-Hsing points out, *minjian* refers
 to “a folk, people’s, or commoners’ society, but not exactly – because while
-min means people or populace, *jian* connotes space and in-betweenness”.61
+min means people or populace, *jian* connotes space and in-betweenness”.[^61]
 In short, *minjian* refers to the “space where traditions are maintained as
 resources to help common people survive the violent rupture brought about
 by the modernising of state and civil society”. The examples of *minjian*
 groups that Chen gives include religious sects, sex workers and street
-vendors.62 It is also possible to think of the Chinese-medium schools in
+vendors.[^62] It is also possible to think of the Chinese-medium schools in
 Malaysia and Cambodia, self-help groups and clan associations across the
 region, as well as certain cultural organisations (such as KUNCI Cultural
 Studies Centre at Yogyakarta, Lostgens’ Contempoary Art Space at Kuala
@@ -894,7 +920,7 @@ is based), a semblance of the *minjian* that Chen evokes continues to exist
 across Southeast Asia.
 
 For the purpose of discussion, a publication such as *A Pictorial History of
-Hin Hua High School* can be considered a *minjian* photobook.63 Founded
+Hin Hua High School* can be considered a *minjian* photobook.[^63] Founded
 in 1947 and funded partially through *minjian* society, Hin Hua is a Chinese
 independent school in Klang, Malaysia. This 364-page photobook is part
 of a three-volume publication that commemorates the arduous journey
@@ -902,7 +928,7 @@ Hin Hua High School has undertaken to provide education in Klang. The
 publication’s intention is to record the sacrifices of its founders, tying the
 photobook to the Chinese cultural tradition and placing it within the context
 of the marginalisation of Chinese experiences within the national history of
-Malaysia.64 In this way, this photobook has been bestowed with a burden
+Malaysia.[^64] In this way, this photobook has been bestowed with a burden
 larger than just the recording of Hin Hua’s development over the decades.
 
 Printed on an understated yet elegant paper stock, the publication features
@@ -938,7 +964,7 @@ different time and place.
 
 An obvious example is *Characters of Light: A Guide to the Buildings of
 Singapore*, written and photographed by Marjorie Doggett (b. 1921, Sussex,
-UK–d. 2010, Singapore).65 Writer, publisher, gallery owner and impresario
+UK–d. 2010, Singapore).[^65] Writer, publisher, gallery owner and impresario
 Donald Moore (b. 1923, Leicestershire, UK–d. 2000) was responsible
 for putting out *Characters of Light* in 1957. Doggett and Moore arrived
 in Singapore through the colonial milieu – the Royal Air Force posted
@@ -953,11 +979,11 @@ her empire shall have passed away, these monuments will endure when her
 triumphs shall have become an empty name.”
 
 Doggett wrote in the foreword that her book made “no pretence to be
-a technical work on Colonial architecture”.66 In the short history of
+a technical work on Colonial architecture”.[^66] In the short history of
 Singapore that follows the foreword, the narrative of Singapore’s evolution
 from a mangrove swamp to a great port, a development “beyond Raffles’
 wildest dreams”, is predictably repeated, with no mention of Britain’s
-exploitation of Malaya before and after World War II.67 While it is
+exploitation of Malaya before and after World War II.[^67] While it is
 doubtful that the photobook was ostensibly made to perform the colonial
 state’s politics, Doggett’s straight-up and considered recording of colonial
 buildings, riverside godowns, elegant mosques and elaborate temples
@@ -967,13 +993,13 @@ flourishing of Singapore through British colonialism.
 In 1960, the Doggetts became Singapore citizens. In 1985, Times Books
 International made a flimsy reproduction of the original book, with
 a different sequence of photographs and the addition of previously
-unpublished images.68 The new foreword explained that the rationale
+unpublished images.[^68] The new foreword explained that the rationale
 for the reproduction was nostalgia for old Singapore and Doggett’s plea
 for heritage conservation. After accounting for the fact that a newly
 independent nation would have little interest in the colonial past, Doggett
 wrote: “But time has its mellowing effect. History is always a mixture, and
 whether good or evil prevails for a time, each period has its place in the
-making of a nation”.69 Indeed, Doggett’s photographs come to us today
+making of a nation”.[^69] Indeed, Doggett’s photographs come to us today
 with their colonial imprint somewhat withered, only to be detected in the
 young nation’s nostalgia for its distant past.
 
@@ -1014,3 +1040,200 @@ and the Cold War. Zhuang has written several books and has recently published
 Photography in Southeast Asia: A Survey (NUS Press, 2016) and Shifting Currents:
 Glimpses of a Changing Nation (NLB, 2018). As an artist, Zhuang uses photography
 and text to visualise the shifting experiences of Chineseness in Southeast Asia.</div>
+
+#### **REFERENCES**
+     
+Aditya Pratama. Photo Books From Indonesia – Development and Role of Communities, November 2017, accessed 30 June 2018, https://www.goethe.de/ins/id/en/kul/mag/21126073.html.
+
+Anderson, Benedict. [_A Life Beyond Boundaries_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202513186)_._ London: Verso, 2016. (From National Library Singapore, call no. RSING 907.202 AND)
+
+Brunei Shell Petroleum Company. [_Brunei Darus Salam: Gambar2 Menunjokkan Negeri Dan Pendudok-Nya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5260096). Brunei Darus Salam: A pictorial review of the land and people\] (\[Seria\]: Brunei Shell Petroleum, \[1968?\]. (From National Library, Singapore call no. Malay R 959.55 BRU)
+
+Cheah, Boon-Kheng. “The Left-Wing Movement in Malaya, Singapore and Borneo in the 1960s: ‘An Era of Hope or Devil’s Decade’?” _Inter-Asia Cultural Studies_ 7, no. 4 (December 2006): 634–649, [https://www.tandfonline.com/doi/abs/10.1080/14649370600983196](https://www.tandfonline.com/doi/abs/10.1080/14649370600983196).
+
+Chen, Kuan-Hsing. [_Asia As Method: Toward Deimperialization_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13585903). Durham \[N.C.\]: Duke University Press, 2010. (From National Library Singapore, call no. R 950.072 CHE)
+
+Chua, Tiag Ming 蔡哲民. _Zhemin ying ji_ [哲民影集](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14305499) \[Photography in action\]. Singapore: s.n., 1978. (From National Library Singapore, call no. Chinese R 779 CTM)
+
+Colberg, Jorg. [_Understanding Photobooks: The Form and Content of the Photographic Book_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202955638)_._ New York: Routledge, 2017. (From National Library Singapore, call no. 745.5938 COL-\[REC\])
+
+Coronel, Sheila. [_Memory of Dances_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11934290). Manila: Philippine Center for Investigative Journalism, 2002. (From National Library Singapore, call no. RSEA 959.90049921 COR)
+
+Davis, Reginald. [_The Royal Family of Thailand_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4347591). London: Nicholas Publications, 1981. (From National Library Singapore, call no. RSEA 959.3040924 DAV)
+
+Doggett, Marjorie. [_Characters of Light: A Guide to the Buildings of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4139976). Singapore: Donald Moore, 1957. (From National Library Singapore, call no. RCLOS 722.4095957 DOG)
+
+–––. [_Characters of Light_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4139976). Singapore: Times Books International, 1985. (From National Library Singapore, call no. RSING 722.4095957 DOG)
+
+Hafalla, Tommy. [_Ili_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203140463). Manila: MAPA Books, 2016. (From National Library Singapore, call no. RART 779.2095991 HAF)
+
+Laureano, Felix. [_Recuerdos de Filipinas : album-libro : util para el estudio y conocimiento de los usos y costumbres de aquellas islas con treinta y siete fototipias tomadas y copiadas del natural_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13155603) \[Memories of the Philippines: Album-book; A tool for the study and understanding of the ways and customs of these islands with thirty-seven phototypies taken and copied from real life\]. Mandaluyong, Philippines: Cacho Publishing House, 2001. (From National Library Singapore, call no. RSEA 959.9 LAU)
+
+Liang, Wen Gui 梁文贵. _Ren min zhen xian xuan yan_ [人民阵线宣言](https://catalogue.nlb.gov.sg/search/card?recordId=84452920) \[The people and the country\]. 新加坡: 人民阵线, 1972. (From National Library Singapore, call no. RCLOS 329.95957 LWK)
+
+Nguyen, Manh Dan and Nguyen Ngoc Hanh. [_Vietnam in Flames_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4117102). \[s.i.: s.n.\], 1969. (From National Library Singapore, call no. RUR 959.7043 NGU)
+
+Parr, Martin and Gerry Badger, eds. [_The Photobook: A History_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12455223), vol. 1. London: Phaidon, 2004. (From National Library Singapore, call no. RART q770.9 PAR)
+
+–––. [_The Photobook: A History_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12455223), vol. 2. London: Phaidon, 2006. (From National Library Singapore, call no. RART q770.9 PAR)
+
+–––. [_The Photobook: A History_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203828572), vol. 3. London: Phaidon, 2014. (From National Library Singapore, call no. RART q770.9 PAR)
+
+Parr, Martin and WassinkLundgren, eds. [_The Chinese Photobook: From the 1900s to the Present_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203825712)_._ New York: Aperture Foundation, 2015. (From National Library Singapore, call no. RART 770.951 CHI)
+
+Photographic Society of Singapore. [_Photographic Society of Singapore, Seven Men Photo Exhibition at the Victoria Memorial Hall, 6th and 7th March, 1965_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4407104). \[Singapore: Photographic Society of Singapore, 1965\]. (From National Library Singapore, call no. RCLOS 779 PHO)
+
+Reed, Jane Levy. [_Toward Independence: A Century of Indonesia Photographed_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6266119), ed. Jane Levy Reed. San Francisco: Friends of Photography, 1991. (From National Library Singapore, call no. RUR 959.800222 REE)
+
+[_The Long and Winding Road East Timor_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=10823937). Jakarta: Alliance of Independent Journalists, 2001. (From National Library Singapore, call no. RART q779.91598092 HAS)
+
+_Renmin yu guojia_ 人民与国家 \[The people and the country\] (Singapore: P.A.P. Tanjong Pagar Branch, 1972)
+
+Zhao, Renhui Robert. [_Mynas_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202919391). Singapore: Institute of Critical Zoologists, 2016. (From PublicationSG)
+
+_Feng zhi juan: Xing Hua tu zhi_ [风之卷: 兴华图志](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202637201) \[A pictorial history of Hin Hua High School\]. Malaysia: 兴华中学, 2013. (From National Library Singapore, call no. Chinese RSEA 373.5951 XHZ
+
+_Malaiya lao gong dang li shi tu pian ji_ [马来亚劳工党历史图片集](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14368135) \[Labour Party of Malaya album of historical photographs\]. 吉隆坡：劳工党党史全国工委会, 2000. (From National Library Singapore, call no. Chinese RSING 324.259507 MLY-\[YOS\])
+
+Zhuang, Wubin 庄吴斌. [_Shi hui dong nan ya she ying jiao xue de tu pu_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203103819) 试绘东南亚摄影教学的图谱 \[Teaching photography in Southeast Asia: Altentative mapping\]. 台北市: 国立台北艺术大学关渡美术馆, 2017. (From National Library Singapore, call no. Chinese RSEA 770.71059 ZWB)
+
+#### **NOTES**
+  
+
+1 Martin Parr, “Preface,” in [_The Photobook: A History_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12455223), vol. 1, ed. Martin Parr and Gerry Badger (London: Phaidon, 2004), 4–5. (From National Library Singapore, call no. RART q770.9 PAR)
+
+2 Parr and Badger, “[Preface](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12455223),” 10–11.
+
+3 Parr and Badger, “[Preface](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12455223),” 5.
+
+4 Martin Parr, “Preface,” in [_The Photobook: A History_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203828572), vol. 3, ed. Martin Parr and Gerry Badger (London: Phaidon, 2014), 5. (From National Library Singapore, call no. RART q770.9 PAR)
+
+5 Parr and Badger, “[Preface](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203828572),” 9.
+
+6 Parr and Badger, “[Preface](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12455223),” 10.
+
+7 Parr and Badger, “[Preface](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203828572),” 4.
+
+8 Parr and Badger, “[Preface](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203828572),” 6–8.
+
+9 Parr and Badger, “[Preface](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203828572),” 8–9.
+
+10 Martin Parr and WassinkLundgren, eds., [_The Chinese Photobook: From the 1900s to the Present_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203825712) (New York: Aperture Foundation, 2015), 50, 350. (From National Library Singapore, call no. RART 770.951 CHI)
+
+11 Jorg Colberg, [_Understanding Photobooks: The Form and Content of the Photographic Book_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202955638) (New York: Routledge, 2017), 1. (From National Library Singapore, call no. 745.5938 COL-\[REC\])
+
+12 Martin Parr, “Preface,” in [_The Photobook: A History_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12455223), ed. Martin Parr and Gerry Badger (London: Phaidon, 2006), 6. (From National Library Singapore, call no. RART q770.9 PAR)
+
+13 Colberg, [_Understanding Photobooks: The Form and Content of the Photographic Book_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202955638), 1–2.
+
+14 Colberg, [_Understanding Photobooks: The Form and Content of the Photographic Book_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202955638), 12.
+
+15 Parr and Badger, “[Preface](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12455223),” 7.
+
+16 Manh Dan Nguyen and Nguyen Ngoc Hanh, [_Vietnam in Flames_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4117102) (\[s.i.: s.n.\], 1969). (From National Library Singapore, call no. RUR 959.7043 NGU)
+
+17 I would like to thank Ha Dao for pointing out this observation.
+
+18 Benedict Anderson, [_A Life Beyond Boundaries_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202513186) (London: Verso, 2016), 35–38. (From National Library Singapore, call no. RSING 907.202 AND)
+
+19 Chen Kuan-Hsing, [_Asia As Method: Toward Deimperialization_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13585903) (Durham \[N.C.\]: Duke University Press, 2010), 243–45, 250, 252–55. (From National Library Singapore, call no. R 950.072 CHE)
+
+20 Ha Dao, Facebook message to author, 25 Mar 2018.
+
+21 Minzayar Oo, Facebook message to author, 25 Mar 2018.
+
+22 Ahmad Salman, Facebook message to author, 25 Mar 2018.
+
+23 Zheng Gu, “Introduction,” [_The Chinese Photobook: From the 1900s to the Present_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203825712), ed. Martin Parr and WassinkLundgren (New York: Aperture Foundation, 2015), 13. (From National Library Singapore, call no. RART 770.951 CHI)
+
+24 Liang Wen Gui 梁文贵, _Ren min zhen xian xuan yan_ [人民阵线宣言](https://catalogue.nlb.gov.sg/search/card?recordId=84452920) \[The people and the country\] (新加坡: 人民阵线, 1972). (From National Library Singapore, call no. RCLOS 329.95957 LWK)
+
+25 I would like to acknowledge Clare Veal’s help in double-checking the English transliteration of these Thai terms denoting the photobook.
+
+26 Akkara Naktamna, Facebook message to author, 25 Mar 2018.
+
+27 Manit Sriwanichpoom, e-mail message to author, 26 Mar 2018.
+
+28 Manit Sriwanichpoom, Facebook message to author, 23 Jun 2018.
+
+29 Yudhi Soerjoatmodjo, “Beyond Pictorialism: Photography in Modern Indonesia,” in [_Toward Independence: A Century of Indonesia Photographed_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6266119), ed. Jane Levy Reed (San Francisco: Friends of Photography, 1991), 119. (From National Library Singapore, call no. RUR 959.800222 REE)
+
+30 My interest in Indonesian photobooks was germinated by PannaFoto Institute when they funded my research trip to Jakarta in December 2015 to interview its founding members, alumni and collaborators for another book project.
+
+31 Erik Prasetya, interview by author, Jakarta, Indonesia, 21 Jun 2009.
+
+32 Ahmad Salman, Facebook message to author, 11 Jul 2016.
+
+33 Faisal Aziz, Facebook message to author, 17 Feb 2014.
+
+34 Ridzki Noviansyah, interview by author, Jakarta, Indonesia, 15 Dec 2015.
+
+35 Ng Swan Ti, interview by author, Jakarta, Indonesia, 14 Dec 2015.
+
+36 Aditya Pratama, e-mail message to author, 26 Mar 2018.
+
+37 Akkara Naktamna, e-mail message to author, 28 Mar 2018.
+
+38 Aditya Pratama, _Photo Books From Indonesia – Development and Role of Communities_, November 2017, accessed 30 June 2018, https://www.goethe.de/ins/id/en/kul/mag/21126073.html.
+
+39 Felix Laureano, [_Recuerdos de Filipinas : album-libro : util para el estudio y conocimiento de los usos y costumbres de aquellas islas con treinta y siete fototipias tomadas y copiadas del natural_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13155603) \[Memories of the Philippines: Album-book; A tool for the study and understanding of the ways and customs of these islands with thirty-seven phototypies taken and copied from real life\] (Mandaluyong, Philippines: Cacho Publishing House, 2001). (From National Library Singapore, call no. RSEA 959.9 LAU)
+
+40 [_The Long and Winding Road East Timor_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=10823937) (Jakarta: Alliance of Independent Journalists, 2001). (From National Library Singapore, call no. RART q779.91598092 HAS)
+
+41 Sheila S. Coronel, [_Memory of Dances_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11934290) (Manila: Philippine Center for Investigative Journalism, 2002). (From National Library Singapore, call no. RSEA 959.90049921 COR)
+
+42 Sheila S. Coronel, e-mail message to author, 29 Mar 2018.
+
+43 Sheila S. Coronel, e-mail message to author, 4 Apr 2018.
+
+44 Tommy Hafalla, [_Ili_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203140463) (Manila: MAPA Books, 2016). (From National Library Singapore, call no. RART 779.2095991 HAF)
+
+45 RJ Fernandez, e-mail message to author, 4 Apr 2018.
+
+46 Pratama, _Photo Books From Indonesia – Development and Role of Communities._
+
+47 Ng, interview, 14 Dec 2015.
+
+48 Reginald Davis, [_The Royal Family of Thailand_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4347591) (London: Nicholas Publications, 1981). (From National Library Singapore, call no. RSEA 959.3040924 DAV)
+
+49 Malaiya lao gong dang li shi tu pian ji [马来亚劳工党历史图片集](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14368135) \[Labour Party of Malaya album of historical photographs\] (吉隆坡：劳工党党史全国工委会, 2000). (From National Library Singapore, call no. Chinese RSING 324.259507 MLY-\[YOS\])
+
+50 Cheah Boon-Kheng, “The Left-Wing Movement in Malaya, Singapore and Borneo in the 1960s: ‘An Era of Hope or Devil’s Decade’?” _Inter-Asia Cultural Studies_ 7, no. 4 (December 2006): 639–43, [https://www.tandfonline.com/doi/abs/10.1080/14649370600983196](https://www.tandfonline.com/doi/abs/10.1080/14649370600983196).
+
+51 [_Malaiya lao gong dang li shi tu pian ji_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14368135), 152–56.
+
+52 [_Malaiya lao gong dang li shi tu pian ji_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14368135), 170–78.
+
+53 Zhuang Wubin 庄吴斌, [_Shi hui dong nan ya she ying jiao xue de tu pu_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203103819) 试绘东南亚摄影教学的图谱 \[Teaching photography in Southeast Asia: Altentative mapping\] (台北市: 国立台北艺术大学关渡美术馆, 2017). (From National Library Singapore, call no. Chinese RSEA 770.71059 ZWB)
+
+54 Photographic Society of Singapore, [_Photographic Society of Singapore, Seven Men Photo Exhibition at the Victoria Memorial Hall, 6th and 7th March, 1965_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4407104) (\[Singapore: Photographic Society of Singapore, 1965\]). (From National Library Singapore, call no. RCLOS 779 PHO)
+
+55 Photographic Society of Singapore, [_Photographic Society of Singapore, Seven Men Photo Exhibition at the Victoria Memorial Hall, 6th and 7th March, 1965_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4407104), foreword.
+
+56 Photographic Society of Singapore, [_Photographic Society of Singapore, Seven Men Photo Exhibition at the Victoria Memorial Hall, 6th and 7th March, 1965_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4407104), 135.
+
+57 Renhui Robert Zhao, [_Mynas_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202919391) (Singapore: Institute of Critical Zoologists, 2016). (From PublicationSG)
+
+58 Chua Tiag Ming 蔡哲民, _Zhemin ying ji_ [哲民影集](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14305499) \[Photography in action\] (Singapore: s.n., 1978). (From National Library Singapore, call no. Chinese R 779 CTM)
+
+59 Chua, [_Zhemin ying ji_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14305499), 1.
+
+60 Brunei Shell Petroleum Company, [_Brunei Darus Salam: Gambar2 Menunjokkan Negeri Dan Pendudok-Nya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5260096) \[Brunei Darus Salam: A pictorial review of the land and people\] (\[Seria\]: Brunei Shell Petroleum, \[1968?\]). (From National Library, Singapore call no. Malay R 959.55 BRU)
+
+61 Chen, [_Asia As Method: Toward Deimperialization_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13585903), 237.
+
+62 Chen, [_Asia As Method: Toward Deimperialization_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13585903), 240.
+
+63 _Feng zhi juan: Xing Hua tu zhi_ [风之卷: 兴华图志](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202637201) \[A pictorial history of Hin Hua High School\]. (Malaysia: 兴华中学, 2013), 13. (From National Library Singapore, call no. Chinese RSEA 373.5951 XHZ
+
+64 [_Feng zhi juan: Xing Hua tu zhi_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202637201), 13.
+
+65 Marjorie Doggett, [_Characters of Light: A Guide to the Buildings of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4139976) (Singapore: Donald Moore, 1957). (From National Library Singapore, call no. RCLOS 722.4095957 DOG)
+
+66 Doggett, [_Characters of Light_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4139976), vi.
+
+67 Doggett, [_Characters of Light_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4139976), vii–ix.
+
+68 Marjorie Doggett, [_Characters of Light_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4139976) (Singapore: Times Books International, 1985). (From National Library Singapore, call no. RSING 722.4095957 DOG)
+
+69 Doggett, [_Characters of Light_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4139976), viii.
