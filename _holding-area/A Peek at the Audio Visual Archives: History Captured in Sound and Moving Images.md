@@ -133,38 +133,38 @@ This transformation from physical to digital access represents more than just te
 
 #### **Notes**
 
-[^1]:  Chua Ai Lin, “The Story of Singapore Radio (1924–41),” _BiblioAsia_ 12, no. 1 (April–June 2016): 22–27; Lau Joon-Nie, “Singapore TV: From Local to Global,” _BiblioAsia_, 12, no. 1 (April–June 2016): 32–38.
+[^1]:  Chua Ai Lin, “[The Story of Singapore Radio (1924–41)](https://biblioasia.nlb.gov.sg/vol-12/issue-1/apr-jun-2016/story-of-sg-radio/),” _BiblioAsia_ 12, no. 1 (April–June 2016): 22–27; Lau Joon-Nie, “[Singapore TV: From Local to Global](https://biblioasia.nlb.gov.sg/vol-12/issue-1/apr-jun-2016/singapore-tv/),” _BiblioAsia_, 12, no. 1 (April–June 2016): 32–38.
 
 
-[^2]: Advisory Council on Culture and the Arts, _Report of the Advisory Council on Culture and the Arts_ (Singapore: The Council, 1989). (From National Library Singapore, call no. RCLOS 700.95957 SIN)&nbsp;
+[^2]: Advisory Council on Culture and the Arts, [_Report of the Advisory Council on Culture and the Arts_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200087955) (Singapore: The Council, 1989). (From National Library Singapore, call no. RCLOS 700.95957 SIN)&nbsp;
 
 
-[^3]: National Heritage Board, _Annual Report 1995/96_ (Singapore: The Board, 1996), 48. (From National Library Singapore, call no. RCLOS 363.690605957 SNHBAR)
+[^3]: National Heritage Board, [_Annual Report 1995/96_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7460867) (Singapore: The Board, 1996), 48. (From National Library Singapore, call no. RCLOS 363.690605957 SNHBAR)
 
 
-[^4]: Ministry of Culture, “List of Documentary Films by Ministry of Culture,” 1952–1969, 16 mm films and video recordings. (From National Archives of Singapore)
+[^4]: Ministry of Culture, “[List of Documentary Films by Ministry of Culture](https://www.nas.gov.sg/archivesonline/audiovisual_records/inst?sc=136),” 1952–1969, 16 mm films and video recordings. (From National Archives of Singapore)
 
 
-[^5]: _State of Singapore Annual Report 1960_ (Singapore: Government Printing Office, 1960), 206. (From National Library Online).
+[^5]: [_State of Singapore Annual Report 1960_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=00803e3e-4b1a-4905-8675-b5aeff017dcd) (Singapore: Government Printing Office, 1960), 206. (From National Library Online).
 
 
-[^6]: “Page 4 Advertisements Column 4,” _Straits Times_, 5 January 1963, 4. (From NewspaperSG)
+[^6]: “[Page 4 Advertisements Column 4](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19630105-1.2.26.4),” _Straits Times_, 5 January 1963, 4. (From NewspaperSG)
 
 
-[^7]: _State of Singapore Annual Report 1960_, 206.&nbsp;
+[^7]: [_State of Singapore Annual Report 1960_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=00803e3e-4b1a-4905-8675-b5aeff017dcd), 206.&nbsp;
 
 
-[^8]: Ministry of Culture, “Visiting New Flats,” 1967, clip 2, 16 mm film, 02:06. (From National Archives of Singapore, accession no. 1982000183)
+[^8]: Ministry of Culture, “[Visiting New Flats](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/457a5f1f-1164-11e3-83d5-0050568939ad),” 1967, clip 2, 16 mm film, 02:06. (From National Archives of Singapore, accession no. 1982000183)
 
 
-[^9]: Ministry of Culture, “Bird Singing Competition,” 1963, clip 3, 16 mm film, 01:30. (From National Archives of Singapore, accession no. 1982000048)
+[^9]: Ministry of Culture, “[Bird Singing Competition](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/457941a8-1164-11e3-83d5-0050568939ad),” 1963, clip 3, 16 mm film, 01:30. (From National Archives of Singapore, accession no. 1982000048)
 
 
 [^10]: Radio Singapore International was set up in 1994 to reach out to the region and help Singaporeans overseas keep pace with developments in Singapore. It ceased broadcasting on 31 July 2008. SPH MediaWorks was the second terrestrial television broadcaster in Singapore, established by Singapore Press Holdings in June 2000. It merged with Mediacorp on 1 January 2005.
 
 
 
-[^11]: Mohamad Karazie and Tan Jie Ling, “The Awakening of the Modern Television Era: 50 Years of Colour TV in Singapore,” _BiblioAsia_ 20, no. 3 (October–December 2024): 4–9.
+[^11]: Mohamad Karazie and Tan Jie Ling, “[The Awakening of the Modern Television Era: 50 Years of Colour TV in Singapore](https://biblioasia.nlb.gov.sg/vol-20/issue-3/oct-dec-2024/colour-tv-history-singapore/),” _BiblioAsia_ 20, no. 3 (October–December 2024): 4–9.
 
 
 [^12]: Jack Sim Juek Wah, oral history interview by Mark Wong, 11 June 2012, transcript and MP3 audio, Reel/Disc 16 of 16, National Archives of Singapore (accession no. 003716), 385.
