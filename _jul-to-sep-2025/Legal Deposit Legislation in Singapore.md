@@ -1,6 +1,6 @@
 ---
 title: Legal Deposit Legislation in Singapore
-permalink: /holding-area/vol-21/issue-2/jul-sep-2025/legal-deposit-legislation-in-singapore/
+permalink: /vol-21/issue-2/jul-sep-2025/legal-deposit-legislation-singapore/
 variant: markdown
 description: ""
 ---
@@ -76,10 +76,10 @@ The Printers and Publishers Ordinance underwent several amendments in the 1950s 
 
 Out of the five copies deposited with the National Library, two copies would be preserved in the library while “the remaining copies shall be disposed of as the Director of the National Library thinks fit”.[^30]
 
-One of the copies retained by the library was preserved in the Publishers and Printers Act collection (later called the Legal Deposit collection and now PublicationSG), while the other was catalogued and kept in the reference section of the National Library. These reference copies are now part of the Singapore and Southeast Asia Collection at the Lee Kong Chian Reference in the National Library Building. The remaining three copies were given to academic libraries and the Ministry of Culture, or sent to the public libraries as loan copies.
+One of the copies retained by the library was preserved in the Publishers and Printers Act collection (later called the Legal Deposit collection and now PublicationSG), while the other was catalogued and kept in the reference section of the National Library. These reference copies are now part of the Singapore and Southeast Asia Collection at the Lee Kong Chian&nbsp;Reference Library. The remaining three copies were given to academic libraries and the Ministry of Culture, or sent to the public libraries as loan copies.
 
 ![](/images/Vol%2021%20Issue%202/Early%20History%20of%20Legal%20Deposit/early_key.jpg)
-<div style="background-color:white;"> Manually keying in the titles deposited under the Printers and Publishers Act into the library’s database, 1989. <i>Collection of the National Library, Singapore.</i></div>
+<div style="background-color:white;"> Manually keying in the titles deposited under the Printers and Publishers Act into the library’s database, 1989. <i>Collection of the National Library Singapore.</i></div>
 
 #### **Catalogues and Bibliographies**
 
@@ -93,7 +93,7 @@ In Singapore, the very first catalogue of books was published in the 20 May 1887
 
 Since 1969, the National Library has been compiling the annual _Singapore National Bibliography_ (SNB) which contains local titles deposited with the library under the Printers and Publishers Ordinance. The compilation of current and historical bibliographies was laid out as a statutory function of a national library within the 1957 Raffles National Library Ordinance.&nbsp;
 
-The first issue of the SNB, featuring publications printed in 1967, was released in August 1969 and sold to the public at $3.[^32] Over the years, the SNB has expanded to include titles received through donations and purchases as well as electronic publications. The SNB was produced as a CD-ROM from 1993 and as an online bibliography from 2011.
+The first issue of the SNB, featuring publications printed in 1967, was released in August 1969 and sold to the public at $3.[^32] Over the years, the SNB was expanded to include titles received through donations and purchases as well as electronic publications. It was produced in CD-ROM format from 1993, as a DVD from 2009 and as an online bibliography from 2011. The&nbsp;SNB was decommissioned after the launch of PublicationSG in October 2015, an online catalogue that made publicly available the more than one million legal deposit titles.
 
 ![](/images/Vol%2021%20Issue%202/Early%20History%20of%20Legal%20Deposit/early_biblio.jpg)
 <div style="background-color:white;"> First issue of the <i>Singapore National Bibliography</i> compiled by the National Library in 1967 and published in 1969. <i>Collection of the National Library Singapore.</i></div>

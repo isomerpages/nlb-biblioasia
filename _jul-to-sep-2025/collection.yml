@@ -2,6 +2,8 @@ collections:
   jul-to-sep-2025:
     output: true
     order:
+      - Writing the NLB Story.md
+      - Legal Deposit Legislation in Singapore.md
       - "Hedwig Anuar: First Lady of the National Library.md"
       - "From Colonial Vision to Key Memory Institution: A Short History of the
         National Library.md"
