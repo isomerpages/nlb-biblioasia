@@ -5,35 +5,35 @@ permalink: /holding-area/vol-21/issue-2/jul-sep-2025/a-peek-at-the-audio-visual-
 variant: markdown
 description: ""
 ---
-#### The National Archives of Singapore has been safeguarding Singapore’s rich audiovisual legacy for the last 30 years. 
+#### The National Archives of Singapore has been safeguarding Singapore’s rich audiovisual legacy for the last 30 years.&nbsp;
 
 By Phang Lai Tee
 
-As the National Library Board celebrates its 30th anniversary in 2025, another milestone quietly unfolds at the National Archives of Singapore (NAS). The Audio-Visual Archives (AVA) department of the NAS also celebrates three decades of safeguarding and preserving Singapore’s audiovisual heritage. 
+As the National Library Board celebrates its 30th anniversary in 2025, another milestone quietly unfolds at the National Archives of Singapore (NAS). The Audio-Visual Archives (AVA) department of the NAS also celebrates three decades of safeguarding and preserving Singapore’s audiovisual heritage.&nbsp;
 
-The AVA department manages an extensive collection of audiovisual documents such as films, radio and television programmes. It also preserves audio records dating to as early as 1903.  These records offer a glimpse into the rich tapestry of Singapore’s history, culture and heritage.
+The AVA department manages an extensive collection of audiovisual documents such as films, radio and television programmes. It also preserves audio records dating to as early as 1903.&nbsp; These records offer a glimpse into the rich tapestry of Singapore’s history, culture and heritage.
 
 #### **Setting up the Audio-Visual Archives Unit**
 
 Singapore’s broadcasting history goes back to 1924 with the launch of radio here. This was followed by the introduction of television in 1963.1 However the idea of systematically preserving Singapore’s audiovisual heritage only dates to the late 1980s.
 
-The turning point came in 1989 with the landmark report from the Advisory Council on Culture and the Arts, chaired by Second Deputy Prime Minister Ong Teng Cheong.2 The council’s recommendation to “strengthen the national heritage collection in all media to cover sound-and-moving images” led to the setup of an AVA Unit within the NAS in April 1995.  In preparation for a dedicated audiovisual preservation programme, the pioneers of the unit were sent for specialised training in Canada, the United Kingdom and the United States.
+The turning point came in 1989 with the landmark report from the Advisory Council on Culture and the Arts, chaired by Second Deputy Prime Minister Ong Teng Cheong.2 The council’s recommendation to “strengthen the national heritage collection in all media to cover sound-and-moving images” led to the setup of an AVA Unit within the NAS in April 1995.&nbsp; In preparation for a dedicated audiovisual preservation programme, the pioneers of the unit were sent for specialised training in Canada, the United Kingdom and the United States.
 
-The new AVA Unit had modest beginnings. It operated with 13 staff members on project contracts: three archivists who would champion the cause of preservation, supported by 10 technical and support staff. The dedication and achievements of these pioneers over the next eight years proved significant. By 2003, what had begun as a project became a permanent division comprising 10 professional archivists, technical specialists and support personnel. With this came an annual preservation funding and the responsibility to preserve 5,000 hours of audiovisual records annually. 
+The new AVA Unit had modest beginnings. It operated with 13 staff members on project contracts: three archivists who would champion the cause of preservation, supported by 10 technical and support staff. The dedication and achievements of these pioneers over the next eight years proved significant. By 2003, what had begun as a project became a permanent division comprising 10 professional archivists, technical specialists and support personnel. With this came an annual preservation funding and the responsibility to preserve 5,000 hours of audiovisual records annually.&nbsp;
 
 The transformation from a project to a permanent setup marked a crucial milestone in Singapore’s archival history. It acknowledged that preserving our audiovisual heritage required not just dedicated expertise but sustained resources and long-term vision. It also reflected the government’s recognition of the importance of audiovisual preservation and its commitment to protect Singapore’s audiovisual heritage.
 
 #### **Audiovisual Collections**
 
-Even before the NAS set up its dedicated audiovisual preservation facilities, it had already amassed some 8,000 reels of motion picture films and videotapes in various formats, each holding fragments of Singapore’s past.3 The film records came from a series of transfers in the 1980s and 1990s by government departments such as the Ministry of Culture, the Primary Production Department and the Mass Rapid Transit Corporation. 
+Even before the NAS set up its dedicated audiovisual preservation facilities, it had already amassed some 8,000 reels of motion picture films and videotapes in various formats, each holding fragments of Singapore’s past.3 The film records came from a series of transfers in the 1980s and 1990s by government departments such as the Ministry of Culture, the Primary Production Department and the Mass Rapid Transit Corporation.&nbsp;
 
-The videotape collection primarily comprised news programmes. In the mid-1980s, the NAS sent professional-grade videotapes to the Singapore Broadcasting Corporation to record live news broadcasts. This practice laid the foundation for what would become an extensive, multilingual news repository. In the initial years, due to the high cost of such videotapes, only English television news programmes were recorded every day. Daily vernacular news recording started almost two decades later. 
+The videotape collection primarily comprised news programmes. In the mid-1980s, the NAS sent professional-grade videotapes to the Singapore Broadcasting Corporation to record live news broadcasts. This practice laid the foundation for what would become an extensive, multilingual news repository. In the initial years, due to the high cost of such videotapes, only English television news programmes were recorded every day. Daily vernacular news recording started almost two decades later.&nbsp;
 
 Today, the Sound and Moving Image Laboratory (SMIL) of the NAS operates its own off-air recording facility. It records prime-time television news in all four official languages (English, Mandarin, Malay and Tamil) and CNA broadcasts. It has also preserved radio news in the official languages till 2023. These efforts ensure the documentation of Singapore’s broadcast news and multilingual media landscape.
 
 #### The First Films
 
-The first documentary films that came under the custody of the NAS were produced by the Ministry of Culture in the 1960s.4 _Berita Singapura_, a key series, was produced in a news magazine format to document Singapore’s economic and sociocultural developments. They were shot in 35 mm silent film and released with voice-overs in all four official languages and two widely spoken Chinese dialects (Hokkien and Cantonese). 
+The first documentary films that came under the custody of the NAS were produced by the Ministry of Culture in the 1960s.4 _Berita Singapura_, a key series, was produced in a news magazine format to document Singapore’s economic and sociocultural developments. They were shot in 35 mm silent film and released with voice-overs in all four official languages and two widely spoken Chinese dialects (Hokkien and Cantonese).&nbsp;
 
 Each episode typically featured two to four segments, half devoted to serious informational topics illustrating schemes undertaken by the government for the benefit of the people, and the other half on light-hearted items depicting some interesting facet of Singapore life.5 This balanced approach both informed and entertained, making government policies accessible to the general public while celebrating Singapore’s diversity.
 
@@ -53,7 +53,7 @@ These records span more than seven decades of Singapore’s broadcasting history
 
 When Governor Franklin Gimson officially launched Rediffusion (Singapore) in 1949, few could have predicted how deeply this commercial cable radio service would weave itself into the fabric of Singapore life. While Radio Malaya, the government broadcaster, maintained its official tone, Rediffusion carved out a unique space in Singapore’s cultural landscape through its vibrant Chinese dialect programming. For many Singaporeans, particularly those growing up in the 1950s to 1970s, Rediffusion was their primary source of entertainment and connection to their cultural roots, making it an integral part of Singapore’s social history.
 
-It is not well known but Singapore nearly lost all its dialect Rediffusion archives in the mid-1990s. These were saved thanks to the efforts of Jack Sim, popularly known as “Mr Toilet”, the founder of the World Toilet Organisation. Sim recalled in his oral history interview in 2012 how he came to purchase and “rescue” the Rediffusion archives from destruction. 
+It is not well known but Singapore nearly lost all its dialect Rediffusion archives in the mid-1990s. These were saved thanks to the efforts of Jack Sim, popularly known as “Mr Toilet”, the founder of the World Toilet Organisation. Sim recalled in his oral history interview in 2012 how he came to purchase and “rescue” the Rediffusion archives from destruction.&nbsp;
 
   
 
@@ -70,15 +70,15 @@ The only problem was that Sim was given only a day to collect them, and once he 
 
   
 
-Sim eventually donated over 4,700 open reels of Rediffusion broadcasts to the NAS for preservation. Some of the highlights in this collection include popular Hokkien radio plays adapted from the Chinese classic _Journey to the West_ (西游记) performed by Rediffusion’s Hokkien drama group and Sunday Cantonese Drama (粤语星期日剧场) by its Cantonese drama group.14 Some of the performers in these early Hokkien radio plays, such as Lin Ru Ping (林茹萍), have become well-known local media personalities today. 
+Sim eventually donated over 4,700 open reels of Rediffusion broadcasts to the NAS for preservation. Some of the highlights in this collection include popular Hokkien radio plays adapted from the Chinese classic _Journey to the West_ (西游记) performed by Rediffusion’s Hokkien drama group and Sunday Cantonese Drama (粤语星期日剧场) by its Cantonese drama group.14 Some of the performers in these early Hokkien radio plays, such as Lin Ru Ping (林茹萍), have become well-known local media personalities today.&nbsp;
 
 #### Through Private Lenses: Home Movies
 
-Beyond official broadcasts and government documentaries lie a more intimate window into Singapore’s past – home movies. These amateur films, shot on 8 mm, Super 8 and 16 mm film by ordinary citizens and expatriates working in Singapore, offer glimpses into the private lives of Singapore residents from the 1930s to the 1970s. 
+Beyond official broadcasts and government documentaries lie a more intimate window into Singapore’s past – home movies. These amateur films, shot on 8 mm, Super 8 and 16 mm film by ordinary citizens and expatriates working in Singapore, offer glimpses into the private lives of Singapore residents from the 1930s to the 1970s.&nbsp;
 
-These early home movies are particularly valuable as they were made at a time when film cameras were luxury items typically owned by more affluent families and expatriates. Wedding ceremonies, birthday celebrations, family holidays in neighbouring countries as well as casual street scenes shot in Chinatown and by the Singapore River document Singapore’s family lives and changing urban landscapes as seen through private eyes.15 
+These early home movies are particularly valuable as they were made at a time when film cameras were luxury items typically owned by more affluent families and expatriates. Wedding ceremonies, birthday celebrations, family holidays in neighbouring countries as well as casual street scenes shot in Chinatown and by the Singapore River document Singapore’s family lives and changing urban landscapes as seen through private eyes.15&nbsp;
 
-The oldest home movie preserved by the NAS is a 16 mm film titled _Wedding and Family Footage of Peranakan Family, Circa 1930_ from the Tan Geok Choo (née Law) Collection.16 Although the identities of the bride and groom remain unknown, this black-and-white film provides rare documentation of a Peranakan wedding and glimpses of  family life during that era.
+The oldest home movie preserved by the NAS is a 16 mm film titled _Wedding and Family Footage of Peranakan Family, Circa 1930_ from the Tan Geok Choo (née Law) Collection.16 Although the identities of the bride and groom remain unknown, this black-and-white film provides rare documentation of a Peranakan wedding and glimpses of&nbsp; family life during that era.
 
 John Christianse’s _Singapore 1960_, on 8 mm colour film, showcases various street scenes in Singapore. Locations such as Chinatown, the Singapore River and the Kallang Basin areas have since undergone significant transformation or given way to urban development.17
 
@@ -90,7 +90,7 @@ The evolution of audiovisual formats in the NAS mirrors Singapore’s broadcasti
 
 Among these audio treasures are recordings that shaped Singapore’s political landscape: Prime Minister Lee Kuan Yew’s compelling 12-part Battle for Merger radio talks in English, Mandarin and Malay in 1961,18 the melodious Chinese election song encouraging the public to vote in the Legislative Assembly General Election on 30 May 1959,19 and the acceptance speech delivered by Minister for Foreign Affairs S. Rajaratnam on the admission of Singapore into the United Nations on 21 September 1965.20 Each reel captures not just sounds, but the hopes, anxieties and determination of a young nation finding its feet.
 
-The arrival of television in 1963 ushered in a new chapter in the media archives. Initially, broadcasters relied on 16 mm silent films, with sound recorded separately on open reels – a technical challenge that required precise and meticulous synchronisation. The National Day Rally speech delivered in English by Prime Minister Lee at the National Theatre on 16 August 1968 was one example. 
+The arrival of television in 1963 ushered in a new chapter in the media archives. Initially, broadcasters relied on 16 mm silent films, with sound recorded separately on open reels – a technical challenge that required precise and meticulous synchronisation. The National Day Rally speech delivered in English by Prime Minister Lee at the National Theatre on 16 August 1968 was one example.&nbsp;
 
 For many years, Singaporeans were unable to see and hear Mr Lee’s speech at the same time as the film footage captured only the moving image of Mr Lee  
 while the sound was recorded on an open-reel audiotape. However, digitisation of the film and the audio in 2015 enabled the preservation specialist to painstakingly synchronise the digitised image with the sound. This synchronised digital video has been streamed online for public access since 2016.21
@@ -119,8 +119,46 @@ Behind the scenes, the work of making these materials discoverable has undergone
 
 Challenges still persist in the access of content. Despite using technology to improve search, pinpointing specific moments within recordings remains time-consuming. Often, users conducting keyword searches must still view or listen to entire recordings to locate precise segments of interest, a process that can test the patience of today’s social media-savvy audiences.
 
-Nevertheless, access to Singapore’s audiovisual heritage has never been more diverse or widespread. Through Archives Online (https://www.nas.gov.sg/archivesonline/audiovisual\_records/), the public can now explore a selection of historical sound recordings in “Sounds of Yesteryear (1903–1941)”, an initiative launched in 2017 to trace the development of the recording industry in Singapore, and its recent sequel released in 2024 that covers the period from 1945 to 1955.25 
+Nevertheless, access to Singapore’s audiovisual heritage has never been more diverse or widespread. Through Archives Online (https://www.nas.gov.sg/archivesonline/audiovisual\_records/), the public can now explore a selection of historical sound recordings in “Sounds of Yesteryear (1903–1941)”, an initiative launched in 2017 to trace the development of the recording industry in Singapore, and its recent sequel released in 2024 that covers the period from 1945 to 1955.25&nbsp;
 
 These collections have transcended traditional boundaries, finding new audiences through platforms like Mediacorp’s mewatch, where _Stories of Yesteryear_ brings these historical treasures to contemporary viewers. Even air travellers can encounter curated selections from our archives through Singapore Airlines’ _Museum Showcase_ series on KrisWorld.
 
 This transformation from physical to digital access represents more than just technological progress, it reflects a fundamental shift in how we share and experience our collective memory. Machine learning and artificial intelligence (AI) are revolutionising how archives catalogue and access their collections. Besides speech-to-text technology, the AVA will continue to explore and use AI such as image recognition technology to identify faces and places in the vast video archives under its care and make them more searchable. It will pursue its objective to preserve and make Singapore’s audiovisual heritage more accessible than ever before.
+
+
+
+<div style="background-color: white;">
+<img style="width: 100px; height: 100px;" src="/images/Authors/DrJohnBray2t.png">
+<b>Dr Phang Lai Tee</b>&nbsp;is a Senior Principal Archivist at the National Archives of Singapore. Since her early days recording children's radio programmes at the Radio and Television Singapore, she has nurtured a deep passion for audiovisual archiving. </div>
+
+#### **Notes**
+
+[^1]: 
+
+
+[^2]: 
+
+
+[^3]: 
+
+
+[^4]: 
+
+
+[^5]: 
+
+
+[^6]: 
+
+
+[^7]: 
+
+
+[^8]: 
+
+
+[^9]: 
+
+
+[^0]: 
+
