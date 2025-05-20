@@ -133,9 +133,6 @@ In the 1980s, Anuar led the National Library on its path to computerisation. Boo
 ![](/images/Vol%2021%20Issue%202/Story%20of%20National%20Library/image_8.png)
 <div style="background-color: white;"> The former National Library building on Stamford Road after an extensive makeover in 1997. <i>Collection of the National Library Singapore</i>.</div>
 
-![](/images/Vol%2021%20Issue%202/Story%20of%20National%20Library/image_2.png)
-<div style="background-color: white;"> Level 11 of the Lee Kong Chian Reference Library at the National Library Building on Victoria Street. <i>Photo by Jimmy Yap.</i></div>
-
 #### **The National Library Board: Revolutionising Library Services**
 
 In 1992, the Library 2000 Review Committee was convened to conduct a comprehensive review of library services in Singapore. A key outcome of the committee’s report, released in 1994, was the establishment of the National Library Board (NLB) on 1 September 1995 to oversee the development and management of the National Library and public libraries.[^40]
@@ -147,6 +144,9 @@ In tandem with technological advancements, the physical library network was enla
 One of the National Library’s main focus areas is the preservation and promotion of Singapore’s literary heritage for future generations. In 2003, it embarked on digitising materials relating to Singapore, including historical newspapers, rare and out-of-print books and digital content. These efforts led to the launch of Web Archive Singapore in 2006 (revamped in 2018) which offers access to archived Singapore websites, and NewspaperSG in 2010, an online resource of more than 200 Singapore and Malaya newspapers published since 1831.[^43]
 
 To grow the National Collection, the National Library welcomes donation of materials such as diaries, personal papers, letters, business documents, manuscripts, photographs and architectural plans. To date, it has received over 116,000 items from more than 425 individual donors, organisations and associations.[^44]
+
+![](/images/Vol%2021%20Issue%202/Story%20of%20National%20Library/image_2.png)
+<div style="background-color: white;"> Level 11 of the Lee Kong Chian Reference Library at the National Library Building on Victoria Street. <i>Photo by Jimmy Yap.</i></div>
 
 In November 2012, the National Archives of Singapore – which is the “official custodian of all government records and the people’s collective memory” – became an institution of NLB. Two years later, on 1 January 2014, the Asian Film Archive, a nonprofit organisation established in 2005 to preserve Asian film heritage, became a subsidiary of NLB.[^45]
 
@@ -271,4 +271,4 @@ Today, NLB is a key memory institution dedicated to preserving Singapore’s cul
 
 [^48]:  “LAB25 (Libraries and Archives Blueprint 2025),” National Library Board, accessed 18 March 2025, [https://www.nlb.gov.sg/main/about-us/About-NLB/lab25-libraries-and-archives-blueprint-2025](https://www.nlb.gov.sg/main/about-us/About-NLB/lab25-libraries-and-archives-blueprint-2025).
 
-[^49]:  B’s 2024 Year in Preview – Innovative Services and New Experiences for All,” National Library Board, accessed 18 March 2025, [https://www.nlb.gov.sg/main/about-us/press-room-and-publications/media-releases/2023/2024-Year-in-Preview](https://www.nlb.gov.sg/main/about-us/press-room-and-publications/media-releases/2023/2024-Year-in-Preview).
+[^49]:  NLB’s 2024 Year in Preview – Innovative Services and New Experiences for All,” National Library Board, accessed 18 March 2025, [https://www.nlb.gov.sg/main/about-us/press-room-and-publications/media-releases/2023/2024-Year-in-Preview](https://www.nlb.gov.sg/main/about-us/press-room-and-publications/media-releases/2023/2024-Year-in-Preview).
