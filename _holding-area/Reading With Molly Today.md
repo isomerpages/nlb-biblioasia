@@ -57,12 +57,12 @@ This study is conducted by researchers from the National Institute of Education,
 
 
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src="/images/Authors/DrJohnBray2htr.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/LohChinEe.png">
 <b>Loh Chin Ee</b>  is an Associate Professor with the English Language and Literature Academic Group, National Institute of Education, Nanyang Technological University. Her research focuses on literacy and literature education at the intersection of social class and globalisation.</div>
 
 
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src="/images/Authors/DrJohnBray2htr.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/KohYuQun.png">
 <b>Koh Yu Qun</b> is a Research Assistant with the English Language and Literature Academic Group, National Institute of Education, Nanyang Technological University.</div>
 
 
