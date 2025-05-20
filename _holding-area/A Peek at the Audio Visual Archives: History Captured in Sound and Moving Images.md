@@ -156,7 +156,7 @@ This transformation from physical to digital access represents more than just te
 
 
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src="/images/Authors/DrJohnBray2t.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/PhangLaiTee.png">
 <b>Dr Phang Lai Tee</b>&nbsp;is a Senior Principal Archivist at the National Archives of Singapore. Since her early days recording children's radio programmes at the Radio and Television Singapore, she has nurtured a deep passion for audiovisual archiving. </div>
 
 #### **Notes**
