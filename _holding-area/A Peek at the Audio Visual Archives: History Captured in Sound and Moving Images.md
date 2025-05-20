@@ -9,6 +9,9 @@ description: ""
 
 By Phang Lai Tee
 
+![](/images/Vol%2021%20Issue%202/Audiovisual/visual_main.jpg)
+<div style="background-color:white;"> A screen grab showing residents looking out of their new flat in Toa Payoh housing estate, March 1967. <i> Image reproduced from Ministry of Culture, “Visiting New Flats,” 1967, 16 mm film, 02:06. (From National Archives of Singapore, accession no. 1982000183).</i></div>
+
 As the National Library Board celebrates its 30th anniversary in 2025, another milestone quietly unfolds at the National Archives of Singapore (NAS). The Audio-Visual Archives (AVA) department of the NAS also celebrates three decades of safeguarding and preserving Singapore’s audiovisual heritage.&nbsp;
 
 The AVA department manages an extensive collection of audiovisual documents such as films, radio and television programmes. It also preserves audio records dating to as early as 1903.&nbsp; These records offer a glimpse into the rich tapestry of Singapore’s history, culture and heritage.
@@ -75,6 +78,10 @@ Sim eventually donated over 4,700 open reels of Rediffusion broadcasts to the NA
 #### Through Private Lenses: Home Movies
 
 Beyond official broadcasts and government documentaries lie a more intimate window into Singapore’s past – home movies. These amateur films, shot on 8 mm, Super 8 and 16 mm film by ordinary citizens and expatriates working in Singapore, offer glimpses into the private lives of Singapore residents from the 1930s to the 1970s.&nbsp;
+
+
+![](/images/Vol%2021%20Issue%202/Audiovisual/visual_residents.jpg)
+<div style="background-color:white;"> A screen grab showing residents admiring the view of Toa Payoh housing estate, March 1967. <i> Image reproduced from Ministry of Culture, “Visiting New Flats,” 1967, 16 mm film, 02:06. (From National Archives of Singapore, accession no. 1982000183).</i></div>
 
 These early home movies are particularly valuable as they were made at a time when film cameras were luxury items typically owned by more affluent families and expatriates. Wedding ceremonies, birthday celebrations, family holidays in neighbouring countries as well as casual street scenes shot in Chinatown and by the Singapore River document Singapore’s family lives and changing urban landscapes as seen through private eyes.[^15]
 
