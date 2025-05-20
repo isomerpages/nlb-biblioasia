@@ -49,6 +49,9 @@ Highlights include a film titled _Visiting New Flats_, which captures a historic
 
 The series also documents a charming slice of local culture from 1963, featuring an annual bird singing competition at the now-defunct Jubilee Malay School.[^9]
 
+![](/images/Vol%2021%20Issue%202/Audiovisual/visual_bird.jpg)
+<div style="background-color:white;"> A screen grab from the annual bird singing competition at Jubilee Malay School, 1963. <i>Image reproduced from Ministry of Culture, “Bird Singing Competition,” 1963, 16 mm film, 01:30. (From National Archives of Singapore, accession no. 1982000048).</i></div>
+
 #### Radio and Television Programmes
 
 The core of this collection lies in its extensive broadcast archives, encompassing materials from early broadcasters such as Rediffusion and the predecessor organisations of Mediacorp – Radio and Television Singapore, Singapore Broadcasting Corporation and Television Corporation of Singapore – as well as later entrants like Radio Singapore International and SPH MediaWorks.[^10]
@@ -89,6 +92,10 @@ Beyond official broadcasts and government documentaries lie a more intimate wind
 These early home movies are particularly valuable as they were made at a time when film cameras were luxury items typically owned by more affluent families and expatriates. Wedding ceremonies, birthday celebrations, family holidays in neighbouring countries as well as casual street scenes shot in Chinatown and by the Singapore River document Singapore’s family lives and changing urban landscapes as seen through private eyes.[^15]
 
 The oldest home movie preserved by the NAS is a 16 mm film titled _Wedding and Family Footage of Peranakan Family, Circa 1930_ from the Tan Geok Choo (née Law) Collection.[^16] Although the identities of the bride and groom remain unknown, this black-and-white film provides rare documentation of a Peranakan wedding and glimpses of&nbsp; family life during that era.
+
+![](/images/Vol%2021%20Issue%202/Audiovisual/visual_peranakan.jpg)
+<div style="background-color:white;"> A screen grab from a Peranakan wedding,
+c. 1930. <i>Image reproduced from Tan Geok Choo (née Law) Collection, “Wedding and Family Footage of Peranakan Family, Circa 1930,” 16mm film, 06:44. (From National Archives of Singapore, accession no. 2010000429).</i></div>
 
 John Christianse’s _Singapore 1960_, on 8 mm colour film, showcases various street scenes in Singapore. Locations such as Chinatown, the Singapore River and the Kallang Basin areas have since undergone significant transformation or given way to urban development.[^17]
 
