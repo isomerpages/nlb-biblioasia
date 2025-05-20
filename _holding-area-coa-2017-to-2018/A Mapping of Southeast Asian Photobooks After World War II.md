@@ -757,6 +757,11 @@ mainstream society. They are sometimes, though not always, produced by civil
 society. For instance, *Labour Party of Malaya Album of Historical Photographs*
 (《马来亚劳工党历史图片集》) was published by surviving members of the
 political party in 2000, decades after its deregistration in 1972.49
+![](/images/COA%202017%20to%202018/Southeast%20Asian%20Photobooks/Labour_Party_of_Malaya_5.jpg)
+<img src="/images/COA%202017%20to%202018/Southeast%20Asian%20Photobooks/Labour_Party_of_Malaya_5.jpg" style="width:100%;">
+ <div style="background-color: white;"> Labour Party of Malaya album of historical photographs (2000). Softcover, 21.8 x 29 cm, 184 pages. <i> Image source:
+马来亚劳工党历史图片集 [Labour Party of Malaya album of historical
+photographs]. (2000). 吉隆坡：劳工党党史全国工委会. pp. 154–155 (Call no.: Chinese RSING 324.259507 MLY-[YOS])</i></div>
 
 The Labour Party of Malaya (LPM) originated from an amalgamation of
 different labour parties across Malaya in 1952, and gained control of the
