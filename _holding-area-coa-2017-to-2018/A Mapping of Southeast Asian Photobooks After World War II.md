@@ -630,7 +630,7 @@ MAPA Books prints their titles in Italy, the pricing of these photobooks is
 at a similar level to that of a European publication.45 Thus, it remains to be
 seen whether the price-point of both publications will hinder their broader
 reception in Manila.
-![](/images/COA%202017%20to%202018/Southeast%20Asian%20Photobooks/Ili_4.jpg)
+
 <img src="/images/COA%202017%20to%202018/Southeast%20Asian%20Photobooks/Ili_4.jpg" style="width:100%;">
  <div style="background-color: white;"><i>Ili</i> (Tommy Hafalla, 2016). Clothbound hardback, 29.5 x 25.4 cm, 160 pages. <i> Image source:
 Courtesy
