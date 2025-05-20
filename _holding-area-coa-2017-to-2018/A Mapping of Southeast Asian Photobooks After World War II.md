@@ -1100,71 +1100,71 @@ Zhuang, Wubin 庄吴斌. [_Shi hui dong nan ya she ying jiao xue de tu pu_](http
 #### **NOTES**
   
 
-1 Martin Parr, “Preface,” in [_The Photobook: A History_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12455223), vol. 1, ed. Martin Parr and Gerry Badger (London: Phaidon, 2004), 4–5. (From National Library Singapore, call no. RART q770.9 PAR)
+[^1]: Martin Parr, “Preface,” in [_The Photobook: A History_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12455223), vol. 1, ed. Martin Parr and Gerry Badger (London: Phaidon, 2004), 4–5. (From National Library Singapore, call no. RART q770.9 PAR)
 
-2 Parr and Badger, “[Preface](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12455223),” 10–11.
+[^2]: Parr and Badger, “[Preface](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12455223),” 10–11.
 
-3 Parr and Badger, “[Preface](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12455223),” 5.
+[^3]: Parr and Badger, “[Preface](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12455223),” 5.
 
-4 Martin Parr, “Preface,” in [_The Photobook: A History_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203828572), vol. 3, ed. Martin Parr and Gerry Badger (London: Phaidon, 2014), 5. (From National Library Singapore, call no. RART q770.9 PAR)
+[^4]: Martin Parr, “Preface,” in [_The Photobook: A History_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203828572), vol. 3, ed. Martin Parr and Gerry Badger (London: Phaidon, 2014), 5. (From National Library Singapore, call no. RART q770.9 PAR)
 
-5 Parr and Badger, “[Preface](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203828572),” 9.
+[^5]: Parr and Badger, “[Preface](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203828572),” 9.
 
-6 Parr and Badger, “[Preface](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12455223),” 10.
+[^6]: Parr and Badger, “[Preface](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12455223),” 10.
 
-7 Parr and Badger, “[Preface](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203828572),” 4.
+[^7]: Parr and Badger, “[Preface](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203828572),” 4.
 
-8 Parr and Badger, “[Preface](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203828572),” 6–8.
+[^8]: Parr and Badger, “[Preface](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203828572),” 6–8.
 
-9 Parr and Badger, “[Preface](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203828572),” 8–9.
+[^9]: Parr and Badger, “[Preface](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203828572),” 8–9.
 
-10 Martin Parr and WassinkLundgren, eds., [_The Chinese Photobook: From the 1900s to the Present_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203825712) (New York: Aperture Foundation, 2015), 50, 350. (From National Library Singapore, call no. RART 770.951 CHI)
+[^10]: Martin Parr and WassinkLundgren, eds., [_The Chinese Photobook: From the 1900s to the Present_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203825712) (New York: Aperture Foundation, 2015), 50, 350. (From National Library Singapore, call no. RART 770.951 CHI)
 
-11 Jorg Colberg, [_Understanding Photobooks: The Form and Content of the Photographic Book_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202955638) (New York: Routledge, 2017), 1. (From National Library Singapore, call no. 745.5938 COL-\[REC\])
+[^11]: Jorg Colberg, [_Understanding Photobooks: The Form and Content of the Photographic Book_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202955638) (New York: Routledge, 2017), 1. (From National Library Singapore, call no. 745.5938 COL-\[REC\])
 
-12 Martin Parr, “Preface,” in [_The Photobook: A History_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12455223), ed. Martin Parr and Gerry Badger (London: Phaidon, 2006), 6. (From National Library Singapore, call no. RART q770.9 PAR)
+[^12]: Martin Parr, “Preface,” in [_The Photobook: A History_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12455223), ed. Martin Parr and Gerry Badger (London: Phaidon, 2006), 6. (From National Library Singapore, call no. RART q770.9 PAR)
 
-13 Colberg, [_Understanding Photobooks: The Form and Content of the Photographic Book_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202955638), 1–2.
+[^13]: Colberg, [_Understanding Photobooks: The Form and Content of the Photographic Book_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202955638), 1–2.
 
-14 Colberg, [_Understanding Photobooks: The Form and Content of the Photographic Book_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202955638), 12.
+[^14]: Colberg, [_Understanding Photobooks: The Form and Content of the Photographic Book_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202955638), 12.
 
-15 Parr and Badger, “[Preface](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12455223),” 7.
+[^15]: Parr and Badger, “[Preface](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12455223),” 7.
 
-16 Manh Dan Nguyen and Nguyen Ngoc Hanh, [_Vietnam in Flames_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4117102) (\[s.i.: s.n.\], 1969). (From National Library Singapore, call no. RUR 959.7043 NGU)
+[^16]: Manh Dan Nguyen and Nguyen Ngoc Hanh, [_Vietnam in Flames_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4117102) (\[s.i.: s.n.\], 1969). (From National Library Singapore, call no. RUR 959.7043 NGU)
 
-17 I would like to thank Ha Dao for pointing out this observation.
+[^17]: I would like to thank Ha Dao for pointing out this observation.
 
-18 Benedict Anderson, [_A Life Beyond Boundaries_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202513186) (London: Verso, 2016), 35–38. (From National Library Singapore, call no. RSING 907.202 AND)
+[^18]: Benedict Anderson, [_A Life Beyond Boundaries_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202513186) (London: Verso, 2016), 35–38. (From National Library Singapore, call no. RSING 907.202 AND)
 
-19 Chen Kuan-Hsing, [_Asia As Method: Toward Deimperialization_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13585903) (Durham \[N.C.\]: Duke University Press, 2010), 243–45, 250, 252–55. (From National Library Singapore, call no. R 950.072 CHE)
+[^19]: Chen Kuan-Hsing, [_Asia As Method: Toward Deimperialization_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13585903) (Durham \[N.C.\]: Duke University Press, 2010), 243–45, 250, 252–55. (From National Library Singapore, call no. R 950.072 CHE)
 
-20 Ha Dao, Facebook message to author, 25 Mar 2018.
+[^20]: Ha Dao, Facebook message to author, 25 Mar 2018.
 
-21 Minzayar Oo, Facebook message to author, 25 Mar 2018.
+[^21]: Minzayar Oo, Facebook message to author, 25 Mar 2018.
 
-22 Ahmad Salman, Facebook message to author, 25 Mar 2018.
+[^22]: Ahmad Salman, Facebook message to author, 25 Mar 2018.
 
-23 Zheng Gu, “Introduction,” [_The Chinese Photobook: From the 1900s to the Present_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203825712), ed. Martin Parr and WassinkLundgren (New York: Aperture Foundation, 2015), 13. (From National Library Singapore, call no. RART 770.951 CHI)
+[^23]: Zheng Gu, “Introduction,” [_The Chinese Photobook: From the 1900s to the Present_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203825712), ed. Martin Parr and WassinkLundgren (New York: Aperture Foundation, 2015), 13. (From National Library Singapore, call no. RART 770.951 CHI)
 
-24 Liang Wen Gui 梁文贵, _Ren min zhen xian xuan yan_ [人民阵线宣言](https://catalogue.nlb.gov.sg/search/card?recordId=84452920) \[The people and the country\] (新加坡: 人民阵线, 1972). (From National Library Singapore, call no. RCLOS 329.95957 LWK)
+[^24]: Liang Wen Gui 梁文贵, _Ren min zhen xian xuan yan_ [人民阵线宣言](https://catalogue.nlb.gov.sg/search/card?recordId=84452920) \[The people and the country\] (新加坡: 人民阵线, 1972). (From National Library Singapore, call no. RCLOS 329.95957 LWK)
 
-25 I would like to acknowledge Clare Veal’s help in double-checking the English transliteration of these Thai terms denoting the photobook.
+[^25]: I would like to acknowledge Clare Veal’s help in double-checking the English transliteration of these Thai terms denoting the photobook.
 
-26 Akkara Naktamna, Facebook message to author, 25 Mar 2018.
+[^26]: Akkara Naktamna, Facebook message to author, 25 Mar 2018.
 
-27 Manit Sriwanichpoom, e-mail message to author, 26 Mar 2018.
+[^27]: Manit Sriwanichpoom, e-mail message to author, 26 Mar 2018.
 
-28 Manit Sriwanichpoom, Facebook message to author, 23 Jun 2018.
+[^28]: Manit Sriwanichpoom, Facebook message to author, 23 Jun 2018.
 
-29 Yudhi Soerjoatmodjo, “Beyond Pictorialism: Photography in Modern Indonesia,” in [_Toward Independence: A Century of Indonesia Photographed_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6266119), ed. Jane Levy Reed (San Francisco: Friends of Photography, 1991), 119. (From National Library Singapore, call no. RUR 959.800222 REE)
+[^29]: Yudhi Soerjoatmodjo, “Beyond Pictorialism: Photography in Modern Indonesia,” in [_Toward Independence: A Century of Indonesia Photographed_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6266119), ed. Jane Levy Reed (San Francisco: Friends of Photography, 1991), 119. (From National Library Singapore, call no. RUR 959.800222 REE)
 
-30 My interest in Indonesian photobooks was germinated by PannaFoto Institute when they funded my research trip to Jakarta in December 2015 to interview its founding members, alumni and collaborators for another book project.
+[^30]: My interest in Indonesian photobooks was germinated by PannaFoto Institute when they funded my research trip to Jakarta in December 2015 to interview its founding members, alumni and collaborators for another book project.
 
-31 Erik Prasetya, interview by author, Jakarta, Indonesia, 21 Jun 2009.
+[^31]: Erik Prasetya, interview by author, Jakarta, Indonesia, 21 Jun 2009.
 
-32 Ahmad Salman, Facebook message to author, 11 Jul 2016.
+[^32]: Ahmad Salman, Facebook message to author, 11 Jul 2016.
 
-33 Faisal Aziz, Facebook message to author, 17 Feb 2014.
+[^33]: Faisal Aziz, Facebook message to author, 17 Feb 2014.
 
 34 Ridzki Noviansyah, interview by author, Jakarta, Indonesia, 15 Dec 2015.
 
