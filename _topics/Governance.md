@@ -4,6 +4,13 @@ permalink: /topics/governance/
 description: ""
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/legal-deposit-legislation-singapore/">Legal Deposit Legislation in Singapore</a>
+
+The legal deposit function in Singapore can be traced back to an 1835 law enacted in India to control and regulate the flow of information.
+
+<img src="/images/Vol%2021%20Issue%202/Legal%20Deposit/Legal_Deposit_topic.png" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/recent-history-legal-deposit-singapore/">A Recent History of Legal Deposit in Singapore</a>
 
 The scope of legal deposit in Singapore expanded to digital materials and web archiving in 2018.
