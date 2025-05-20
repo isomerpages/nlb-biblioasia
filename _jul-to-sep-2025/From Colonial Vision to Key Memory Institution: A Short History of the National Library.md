@@ -108,9 +108,6 @@ Harrod retired in January 1960 while the new National Library building on Stamfo
 
 The new red-brick National Library building on Stamford Road was officially opened on 12 November 1960 by Yang di-Pertuan Negara (Head of State) Yusof Ishak. It accommodated a collection of some 140,000 volumes spread across an Adult Lending Library, a Children’s Library and a Reference Library. The building also included administrative offices, a conference room, lecture halls, as well as storage and maintenance spaces for library and archival materials. 
 
-![](/images/Vol%2021%20Issue%202/Story%20of%20National%20Library/image_7.png)
-<div style="background-color: white;"> Prime Minister Lee Kuan Yew’s letter to the Minister for Culture pledging the government’s support to expand the facilities of the Children’s Library at the National Library, 20 April 1967. <i>From National Archives of Singapore, microfilm no. AR 006</i>.</div>
-
 On 9 December 1960, Raffles National Library was renamed the National Library after the Raffles National Library (Change of Name) Ordinance was passed.[^32]
 
 ![](/images/Vol%2021%20Issue%202/Story%20of%20National%20Library/image_9.png)
@@ -127,6 +124,9 @@ These donations, along with the existing “Q” collection, formed the foundati
 Anuar implemented various initiatives to encourage people to visit the library and to read.[^36] She launched the mobile library service, first proposed by Harrod, and set up fulltime branch libraries in housing estates to reach residents in the outlying areas. Queenstown Branch Library was the first to open in 1970. By 1990, there were eight branch libraries, contributing to a substantial increase in library membership from approximately 45,000 members in 1960 to over 640,000 members by 1990. Correspondingly, book borrowing surged from 703,000 loans to 9.2 million loans during the same period.[^37]
 
 Anuar placed great emphasis on growing the children’s collection and sought to promote services to children. The Children’s Library became so popular that it was usually packed during the school holidays. On 20 April 1967, &nbsp;Prime Minister Lee Kuan Yew wrote to the Minister for Culture: “I understand from my children that during school holidays the Junior Library is crowded to overflowing. Can you confirm if this is so? If it is, it is a development to be welcomed and encouraged and the facilities must be expanded to take in our ever growing educated youths. You will find Cabinet ready to support expansion of library projects.”[^38]
+
+![](/images/Vol%2021%20Issue%202/Story%20of%20National%20Library/image_7.png)
+<div style="background-color: white;"> Prime Minister Lee Kuan Yew’s letter to the Minister for Culture pledging the government’s support to expand the facilities of the Children’s Library at the National Library, 20 April 1967. <i>From National Archives of Singapore, microfilm no. AR 006</i>.</div>
 
 In the 1980s, Anuar led the National Library on its path to computerisation. Book borrowing, book returns and membership registration were computerised, and the Online Public Access Catalogue to search and locate library materials replaced card catalogues.[^39]
 
