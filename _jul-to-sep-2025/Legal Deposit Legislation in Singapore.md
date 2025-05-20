@@ -93,7 +93,7 @@ In Singapore, the very first catalogue of books was published in the 20 May 1887
 
 Since 1969, the National Library has been compiling the annual _Singapore National Bibliography_ (SNB) which contains local titles deposited with the library under the Printers and Publishers Ordinance. The compilation of current and historical bibliographies was laid out as a statutory function of a national library within the 1957 Raffles National Library Ordinance.&nbsp;
 
-The first issue of the SNB, featuring publications printed in 1967, was released in August 1969 and sold to the public at $3.[^32] Over the years, the SNB has expanded to include titles received through donations and purchases as well as electronic publications. The SNB was produced as a CD-ROM from 1993 and as an online bibliography from 2011.
+The first issue of the SNB, featuring publications printed in 1967, was released in August 1969 and sold to the public at $3.[^32] Over the years, the SNB was expanded to include titles received through donations and purchases as well as electronic publications. It was produced in CD-ROM format from 1993, as a DVD from 2009 and as an online bibliography from 2011. The&nbsp;SNB was decommissioned after the launch of PublicationSG in October 2015, an online catalogue that made publicly available the more than one million legal deposit titles.
 
 ![](/images/Vol%2021%20Issue%202/Early%20History%20of%20Legal%20Deposit/early_biblio.jpg)
 <div style="background-color:white;"> First issue of the <i>Singapore National Bibliography</i> compiled by the National Library in 1967 and published in 1969. <i>Collection of the National Library Singapore.</i></div>
