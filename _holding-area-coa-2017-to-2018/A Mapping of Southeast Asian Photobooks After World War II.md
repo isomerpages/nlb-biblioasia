@@ -1220,11 +1220,11 @@ Zhuang, Wubin 庄吴斌. [_Shi hui dong nan ya she ying jiao xue de tu pu_](http
 
 [^60]: Brunei Shell Petroleum Company, [_Brunei Darus Salam: Gambar2 Menunjokkan Negeri Dan Pendudok-Nya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5260096) \[Brunei Darus Salam: A pictorial review of the land and people\] (\[Seria\]: Brunei Shell Petroleum, \[1968?\]). (From National Library, Singapore call no. Malay R 959.55 BRU)
 
-[^61]: 61 Chen, [_Asia As Method: Toward Deimperialization_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13585903), 237.
+[^61]: Chen, [_Asia As Method: Toward Deimperialization_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13585903), 237.
 
 [^62]: Chen, [_Asia As Method: Toward Deimperialization_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13585903), 240.
 
-[^63]: [_Feng zhi juan: Xing Hua tu zhi_ [风之卷: 兴华图志](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202637201) \[A pictorial history of Hin Hua High School\]. (Malaysia: 兴华中学, 2013), 13. (From National Library Singapore, call no. Chinese RSEA 373.5951 XHZ
+[^63]: _Feng zhi juan: Xing Hua tu zhi_ [风之卷: 兴华图志](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202637201) \[A pictorial history of Hin Hua High School\]. (Malaysia: 兴华中学, 2013), 13. (From National Library Singapore, call no. Chinese RSEA 373.5951 XHZ
 
 [^64]: [_Feng zhi juan: Xing Hua tu zhi_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202637201), 13.
 
