@@ -118,6 +118,10 @@ while the sound was recorded on an open-reel audiotape. However, digitisation of
 
 A significant change came in 1967 when the Curriculum Development Institute of Singapore pioneered the use of two-inch quadruplex videotapes[^22] for educational programming, marking Singapore’s first steps into the video age. From 1967 to the 1980s, educational television programmes complemented classroom teaching and textbook learning.
 
+![](/images/Vol%2021%20Issue%202/Audiovisual/visual_tape.jpg)
+<div style="background-color:white;"> A two-inch quadruplex tape weighing 5.5 kg per tape. <i>Courtesy of National Archives of Singapore. </i></div>
+
+
 The 1970s brought further technological advancement with the introduction of one-inch Type B and C tapes. Radio and Television Singapore readily adopted these new formats, using them for recording current affairs programmes, school debates, music programmes like Talentime and variety shows in the studios. The one-inch tapes were replaced by betacam tapes and DVCPro tapes in the 1990s. For every format used by the broadcasting stations, the NAS had to correspondingly invest in a wide range of obsolete replay equipment to playback, manage and preserve these analogue formats used in production and broadcast.
 
 A new milestone was reached in December 2013 when Singapore’s free-to-air television channels went fully digital.[^23] This shift to full digital production and broadcasting marked the end of physical tape formats, ushering in an era of digital audiovisual preservation in the NAS.
