@@ -15,9 +15,9 @@ The AVA department manages an extensive collection of audiovisual documents such
 
 #### **Setting up the Audio-Visual Archives Unit**
 
-Singapore’s broadcasting history goes back to 1924 with the launch of radio here. This was followed by the introduction of television in 1963.1 However the idea of systematically preserving Singapore’s audiovisual heritage only dates to the late 1980s.
+Singapore’s broadcasting history goes back to 1924 with the launch of radio here. This was followed by the introduction of television in 1963[^]1. However the idea of systematically preserving Singapore’s audiovisual heritage only dates to the late 1980s.
 
-The turning point came in 1989 with the landmark report from the Advisory Council on Culture and the Arts, chaired by Second Deputy Prime Minister Ong Teng Cheong.2 The council’s recommendation to “strengthen the national heritage collection in all media to cover sound-and-moving images” led to the setup of an AVA Unit within the NAS in April 1995.&nbsp; In preparation for a dedicated audiovisual preservation programme, the pioneers of the unit were sent for specialised training in Canada, the United Kingdom and the United States.
+The turning point came in 1989 with the landmark report from the Advisory Council on Culture and the Arts, chaired by Second Deputy Prime Minister Ong Teng Cheong.[^2] The council’s recommendation to “strengthen the national heritage collection in all media to cover sound-and-moving images” led to the setup of an AVA Unit within the NAS in April 1995.&nbsp; In preparation for a dedicated audiovisual preservation programme, the pioneers of the unit were sent for specialised training in Canada, the United Kingdom and the United States.
 
 The new AVA Unit had modest beginnings. It operated with 13 staff members on project contracts: three archivists who would champion the cause of preservation, supported by 10 technical and support staff. The dedication and achievements of these pioneers over the next eight years proved significant. By 2003, what had begun as a project became a permanent division comprising 10 professional archivists, technical specialists and support personnel. With this came an annual preservation funding and the responsibility to preserve 5,000 hours of audiovisual records annually.&nbsp;
 
@@ -25,7 +25,7 @@ The transformation from a project to a permanent setup marked a crucial mileston
 
 #### **Audiovisual Collections**
 
-Even before the NAS set up its dedicated audiovisual preservation facilities, it had already amassed some 8,000 reels of motion picture films and videotapes in various formats, each holding fragments of Singapore’s past.3 The film records came from a series of transfers in the 1980s and 1990s by government departments such as the Ministry of Culture, the Primary Production Department and the Mass Rapid Transit Corporation.&nbsp;
+Even before the NAS set up its dedicated audiovisual preservation facilities, it had already amassed some 8,000 reels of motion picture films and videotapes in various formats, each holding fragments of Singapore’s past.[^3] The film records came from a series of transfers in the 1980s and 1990s by government departments such as the Ministry of Culture, the Primary Production Department and the Mass Rapid Transit Corporation.&nbsp;
 
 The videotape collection primarily comprised news programmes. In the mid-1980s, the NAS sent professional-grade videotapes to the Singapore Broadcasting Corporation to record live news broadcasts. This practice laid the foundation for what would become an extensive, multilingual news repository. In the initial years, due to the high cost of such videotapes, only English television news programmes were recorded every day. Daily vernacular news recording started almost two decades later.&nbsp;
 
@@ -33,21 +33,21 @@ Today, the Sound and Moving Image Laboratory (SMIL) of the NAS operates its own 
 
 #### The First Films
 
-The first documentary films that came under the custody of the NAS were produced by the Ministry of Culture in the 1960s.4 _Berita Singapura_, a key series, was produced in a news magazine format to document Singapore’s economic and sociocultural developments. They were shot in 35 mm silent film and released with voice-overs in all four official languages and two widely spoken Chinese dialects (Hokkien and Cantonese).&nbsp;
+The first documentary films that came under the custody of the NAS were produced by the Ministry of Culture in the 1960s.[^4] _Berita Singapura_, a key series, was produced in a news magazine format to document Singapore’s economic and sociocultural developments. They were shot in 35 mm silent film and released with voice-overs in all four official languages and two widely spoken Chinese dialects (Hokkien and Cantonese).&nbsp;
 
-Each episode typically featured two to four segments, half devoted to serious informational topics illustrating schemes undertaken by the government for the benefit of the people, and the other half on light-hearted items depicting some interesting facet of Singapore life.5 This balanced approach both informed and entertained, making government policies accessible to the general public while celebrating Singapore’s diversity.
+Each episode typically featured two to four segments, half devoted to serious informational topics illustrating schemes undertaken by the government for the benefit of the people, and the other half on light-hearted items depicting some interesting facet of Singapore life.[^5] This balanced approach both informed and entertained, making government policies accessible to the general public while celebrating Singapore’s diversity.
 
-These films were initially screened in local cinemas.6 After Television Singapura’s historic launch on 15 February 1963, they were also broadcast on television. Versions in 16 mm format were issued to the Ministry of Culture’s Field Section for screening at public gathering spots such as community centres and rural villages. Copies were also made available in the film library for borrowing by schools, associations, clubs and other organisations.7
+These films were initially screened in local cinemas.[^6] After Television Singapura’s historic launch on 15 February 1963, they were also broadcast on television. Versions in 16 mm format were issued to the Ministry of Culture’s Field Section for screening at public gathering spots such as community centres and rural villages. Copies were also made available in the film library for borrowing by schools, associations, clubs and other organisations.[^7]
 
-Highlights include a film titled _Visiting New Flats_, which captures a historic moment in Singapore’s public housing journey.8 In March 1967, residents from the Crawford and Outram areas were invited to tour their future homes in Toa Payoh housing estate. These weekend tours were organised by the Housing and Development Board for families who were being relocated from their villages.
+Highlights include a film titled _Visiting New Flats_, which captures a historic moment in Singapore’s public housing journey.[^8] In March 1967, residents from the Crawford and Outram areas were invited to tour their future homes in Toa Payoh housing estate. These weekend tours were organised by the Housing and Development Board for families who were being relocated from their villages.
 
-The series also documents a charming slice of local culture from 1963, featuring an annual bird singing competition at the now-defunct Jubilee Malay School.9
+The series also documents a charming slice of local culture from 1963, featuring an annual bird singing competition at the now-defunct Jubilee Malay School.[^9]
 
 #### Radio and Television Programmes
 
-The core of this collection lies in its extensive broadcast archives, encompassing materials from early broadcasters such as Rediffusion and the predecessor organisations of Mediacorp – Radio and Television Singapore, Singapore Broadcasting Corporation and Television Corporation of Singapore – as well as later entrants like Radio Singapore International and SPH MediaWorks.10
+The core of this collection lies in its extensive broadcast archives, encompassing materials from early broadcasters such as Rediffusion and the predecessor organisations of Mediacorp – Radio and Television Singapore, Singapore Broadcasting Corporation and Television Corporation of Singapore – as well as later entrants like Radio Singapore International and SPH MediaWorks.[^10]
 
-These records span more than seven decades of Singapore’s broadcasting history and are vital records of Singapore’s daily life and developments.11 They offer researchers and historians a window into the nation’s evolving media landscape, and gives the general public a chance to discover and relive the sounds and memories of yesteryear.
+These records span more than seven decades of Singapore’s broadcasting history and are vital records of Singapore’s daily life and developments.[^11] They offer researchers and historians a window into the nation’s evolving media landscape, and gives the general public a chance to discover and relive the sounds and memories of yesteryear.
 
 #### “Mr Toilet” and the Dialect Rediffusion Archives
 
@@ -58,7 +58,7 @@ It is not well known but Singapore nearly lost all its dialect Rediffusion archi
   
 
 “When Rediffusion wanted to demolish their building in Hillview Road, there is a very big building and it has a lot of archive there, so I heard about it at a party in Cai Xuan’s (蔡萱)  
-house, Cai Xuan is a Senior Producer in Mediacorp and he is my neighbour, so I say, ‘Then, can I go and buy up the audio tapes?’ So he introduced me to the Rediffusion guy and then he has to ask his boss and it was really quite late when he told me, ‘You can have everything you want for $2,000.’”12
+house, Cai Xuan is a Senior Producer in Mediacorp and he is my neighbour, so I say, ‘Then, can I go and buy up the audio tapes?’ So he introduced me to the Rediffusion guy and then he has to ask his boss and it was really quite late when he told me, ‘You can have everything you want for $2,000.’”[^12]
 
   
 
@@ -66,21 +66,21 @@ The only problem was that Sim was given only a day to collect them, and once he 
 
   
 
-“I ask the two workers to collect as much as possible, and then as we are collecting, about half a lorry then the downpour came, the rain was so heavy, so we could not collect some more, so we have to go, otherwise, we would have damaged a lot of the tapes.”13
+“I ask the two workers to collect as much as possible, and then as we are collecting, about half a lorry then the downpour came, the rain was so heavy, so we could not collect some more, so we have to go, otherwise, we would have damaged a lot of the tapes.”[^13]
 
   
 
-Sim eventually donated over 4,700 open reels of Rediffusion broadcasts to the NAS for preservation. Some of the highlights in this collection include popular Hokkien radio plays adapted from the Chinese classic _Journey to the West_ (西游记) performed by Rediffusion’s Hokkien drama group and Sunday Cantonese Drama (粤语星期日剧场) by its Cantonese drama group.14 Some of the performers in these early Hokkien radio plays, such as Lin Ru Ping (林茹萍), have become well-known local media personalities today.&nbsp;
+Sim eventually donated over 4,700 open reels of Rediffusion broadcasts to the NAS for preservation. Some of the highlights in this collection include popular Hokkien radio plays adapted from the Chinese classic _Journey to the West_ (西游记) performed by Rediffusion’s Hokkien drama group and Sunday Cantonese Drama (粤语星期日剧场) by its Cantonese drama group.[^14] Some of the performers in these early Hokkien radio plays, such as Lin Ru Ping (林茹萍), have become well-known local media personalities today.&nbsp;
 
 #### Through Private Lenses: Home Movies
 
 Beyond official broadcasts and government documentaries lie a more intimate window into Singapore’s past – home movies. These amateur films, shot on 8 mm, Super 8 and 16 mm film by ordinary citizens and expatriates working in Singapore, offer glimpses into the private lives of Singapore residents from the 1930s to the 1970s.&nbsp;
 
-These early home movies are particularly valuable as they were made at a time when film cameras were luxury items typically owned by more affluent families and expatriates. Wedding ceremonies, birthday celebrations, family holidays in neighbouring countries as well as casual street scenes shot in Chinatown and by the Singapore River document Singapore’s family lives and changing urban landscapes as seen through private eyes.15&nbsp;
+These early home movies are particularly valuable as they were made at a time when film cameras were luxury items typically owned by more affluent families and expatriates. Wedding ceremonies, birthday celebrations, family holidays in neighbouring countries as well as casual street scenes shot in Chinatown and by the Singapore River document Singapore’s family lives and changing urban landscapes as seen through private eyes.[^15]
 
-The oldest home movie preserved by the NAS is a 16 mm film titled _Wedding and Family Footage of Peranakan Family, Circa 1930_ from the Tan Geok Choo (née Law) Collection.16 Although the identities of the bride and groom remain unknown, this black-and-white film provides rare documentation of a Peranakan wedding and glimpses of&nbsp; family life during that era.
+The oldest home movie preserved by the NAS is a 16 mm film titled _Wedding and Family Footage of Peranakan Family, Circa 1930_ from the Tan Geok Choo (née Law) Collection.[^16] Although the identities of the bride and groom remain unknown, this black-and-white film provides rare documentation of a Peranakan wedding and glimpses of&nbsp; family life during that era.
 
-John Christianse’s _Singapore 1960_, on 8 mm colour film, showcases various street scenes in Singapore. Locations such as Chinatown, the Singapore River and the Kallang Basin areas have since undergone significant transformation or given way to urban development.17
+John Christianse’s _Singapore 1960_, on 8 mm colour film, showcases various street scenes in Singapore. Locations such as Chinatown, the Singapore River and the Kallang Basin areas have since undergone significant transformation or given way to urban development.[^17]
 
 #### **Preservation Technology Then and Now**
 
@@ -88,22 +88,22 @@ Three decades of dedicated acquisition and preservation efforts have transformed
 
 The evolution of audiovisual formats in the NAS mirrors Singapore’s broadcasting technological developments and adoption. In the days before television, when radio ruled the airwaves, the voices of Singapore were captured on open-reel tapes – both from Radio Singapore and Rediffusion. These magnetic reels preserve crucial moments of our nation-building years in the 1950s and 1960s and were used till the early 1990s.
 
-Among these audio treasures are recordings that shaped Singapore’s political landscape: Prime Minister Lee Kuan Yew’s compelling 12-part Battle for Merger radio talks in English, Mandarin and Malay in 1961,18 the melodious Chinese election song encouraging the public to vote in the Legislative Assembly General Election on 30 May 1959,19 and the acceptance speech delivered by Minister for Foreign Affairs S. Rajaratnam on the admission of Singapore into the United Nations on 21 September 1965.20 Each reel captures not just sounds, but the hopes, anxieties and determination of a young nation finding its feet.
+Among these audio treasures are recordings that shaped Singapore’s political landscape: Prime Minister Lee Kuan Yew’s compelling 12-part Battle for Merger radio talks in English, Mandarin and Malay in 1961,[^18] the melodious Chinese election song encouraging the public to vote in the Legislative Assembly General Election on 30 May 1959,[^19] and the acceptance speech delivered by Minister for Foreign Affairs S. Rajaratnam on the admission of Singapore into the United Nations on 21 September 1965.[^20] Each reel captures not just sounds, but the hopes, anxieties and determination of a young nation finding its feet.
 
 The arrival of television in 1963 ushered in a new chapter in the media archives. Initially, broadcasters relied on 16 mm silent films, with sound recorded separately on open reels – a technical challenge that required precise and meticulous synchronisation. The National Day Rally speech delivered in English by Prime Minister Lee at the National Theatre on 16 August 1968 was one example.&nbsp;
 
 For many years, Singaporeans were unable to see and hear Mr Lee’s speech at the same time as the film footage captured only the moving image of Mr Lee  
-while the sound was recorded on an open-reel audiotape. However, digitisation of the film and the audio in 2015 enabled the preservation specialist to painstakingly synchronise the digitised image with the sound. This synchronised digital video has been streamed online for public access since 2016.21
+while the sound was recorded on an open-reel audiotape. However, digitisation of the film and the audio in 2015 enabled the preservation specialist to painstakingly synchronise the digitised image with the sound. This synchronised digital video has been streamed online for public access since 2016.[^21]
 
-A significant change came in 1967 when the Curriculum Development Institute of Singapore pioneered the use of two-inch quadruplex videotapes22 for educational programming, marking Singapore’s first steps into the video age. From 1967 to the 1980s, educational television programmes complemented classroom teaching and textbook learning.
+A significant change came in 1967 when the Curriculum Development Institute of Singapore pioneered the use of two-inch quadruplex videotapes[^22] for educational programming, marking Singapore’s first steps into the video age. From 1967 to the 1980s, educational television programmes complemented classroom teaching and textbook learning.
 
 The 1970s brought further technological advancement with the introduction of one-inch Type B and C tapes. Radio and Television Singapore readily adopted these new formats, using them for recording current affairs programmes, school debates, music programmes like Talentime and variety shows in the studios. The one-inch tapes were replaced by betacam tapes and DVCPro tapes in the 1990s. For every format used by the broadcasting stations, the NAS had to correspondingly invest in a wide range of obsolete replay equipment to playback, manage and preserve these analogue formats used in production and broadcast.
 
-A new milestone was reached in December 2013 when Singapore’s free-to-air television channels went fully digital.23 This shift to full digital production and broadcasting marked the end of physical tape formats, ushering in an era of digital audiovisual preservation in the NAS.
+A new milestone was reached in December 2013 when Singapore’s free-to-air television channels went fully digital.[^23] This shift to full digital production and broadcasting marked the end of physical tape formats, ushering in an era of digital audiovisual preservation in the NAS.
 
 #### **Futureproofing Our Shared History**
 
-Around the world, audiovisual archives are racing against time to digitise their magnetic tape collection. The Magnetic Tape Alert Project is an initiative that was launched in 2019 by UNESCO’s Information for All Programme Working Group on Information Preservation and the International Association of Sound and Audiovisual Archives.24 It sought to alert stakeholders and memory institutions of the imminent threat of losing access to their cultural and linguistic heritage trapped in obsolete magnetic media and the urgency to digitise them, preferably by 2025.
+Around the world, audiovisual archives are racing against time to digitise their magnetic tape collection. The Magnetic Tape Alert Project is an initiative that was launched in 2019 by UNESCO’s Information for All Programme Working Group on Information Preservation and the International Association of Sound and Audiovisual Archives.[^24] It sought to alert stakeholders and memory institutions of the imminent threat of losing access to their cultural and linguistic heritage trapped in obsolete magnetic media and the urgency to digitise them, preferably by 2025.
 
 Memory institutions have begun digitising their magnetic tapes into digital files while the obsolete equipment that still exists to replay these tapes still works. This global shift represents not just a change in format but a fundamental transformation in how we preserve and how the public can access our collective memory.
 
@@ -119,7 +119,7 @@ Behind the scenes, the work of making these materials discoverable has undergone
 
 Challenges still persist in the access of content. Despite using technology to improve search, pinpointing specific moments within recordings remains time-consuming. Often, users conducting keyword searches must still view or listen to entire recordings to locate precise segments of interest, a process that can test the patience of today’s social media-savvy audiences.
 
-Nevertheless, access to Singapore’s audiovisual heritage has never been more diverse or widespread. Through Archives Online (https://www.nas.gov.sg/archivesonline/audiovisual\_records/), the public can now explore a selection of historical sound recordings in “Sounds of Yesteryear (1903–1941)”, an initiative launched in 2017 to trace the development of the recording industry in Singapore, and its recent sequel released in 2024 that covers the period from 1945 to 1955.25&nbsp;
+Nevertheless, access to Singapore’s audiovisual heritage has never been more diverse or widespread. Through Archives Online (https://www.nas.gov.sg/archivesonline/audiovisual\_records/), the public can now explore a selection of historical sound recordings in “Sounds of Yesteryear (1903–1941)”, an initiative launched in 2017 to trace the development of the recording industry in Singapore, and its recent sequel released in 2024 that covers the period from 1945 to 1955.[^25]
 
 These collections have transcended traditional boundaries, finding new audiences through platforms like Mediacorp’s mewatch, where _Stories of Yesteryear_ brings these historical treasures to contemporary viewers. Even air travellers can encounter curated selections from our archives through Singapore Airlines’ _Museum Showcase_ series on KrisWorld.
 
@@ -209,4 +209,3 @@ This transformation from physical to digital access represents more than just te
 
 
 [^25]: National Archives of Singapore, “Sounds of Yesteryear (1903–1941)” and “Sounds of Yesteryear Vol. 2 (1945–1955),” shellac and vinyl records. (From National Archives of Singapore)
-
