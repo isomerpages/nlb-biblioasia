@@ -588,6 +588,14 @@ Dances*, which examines, through his enigmatic photographs, the story of
 cultural loss experienced by the Bugkalot and Igorot at Nueva Vizcaya, the
 Tagbanua at Coron and the Manobo at Mount Apo.41
 
+<img src="/images/COA%202017%20to%202018/Southeast%20Asian%20Photobooks/Brother_Hood_3.jpg" style="width:50%;">
+ <div style="background-color: white;"><i>Brother Hood</i> (Alex Baluyut &amp; Gemma Luz
+Corotan, 1995). Paperback, 23 x 21 cm, 97 pages. <i> Image source:
+Corotan, G. L. [Author] and
+Baluyut, A. [Photographer]. (1995). Brother Hood.
+Philippines: Philippine Center for Investigative
+Journalism. Collection of Zhuang Wubin.</i></div>
+
 Sheila S. Coronel (b. 1958), one of Asia’s most eminent investigative
 journalists, served as PCIJ’s executive director from 1989 to 2006. Apart
 from the freedom heralded by the post-Marcos era, Coronel notes that the
