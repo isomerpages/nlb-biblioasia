@@ -469,6 +469,14 @@ reflected in the comparatively small size of
 the photobook, which measures 16 cm by
 14 cm.
 
+<img src="/images/COA%202017%20to%202018/Southeast%20Asian%20Photobooks/Passing_2.jpg" style="width:50%;">
+ <div style="background-color: white;"><i>Passing</i> (Edy Purnomo, 2012). Hardcover,
+16 x 14 cm, 96 pages.<i> Image source:
+Courtesy
+of Edy Purnomo. Edy Purnomo,
+Passing (Jakarta, Indonesia: PannaFoto
+Institute, 2012). Collection of Zhuang Wubin.</i></div>
+
 In 2013, Rony Zakaria (b. 1984, Jakarta) self published his first photobook,
 *Encounters*, to a warm reception. The market success of these two
 publications, with buyers largely coming from within Indonesia, helped, on
