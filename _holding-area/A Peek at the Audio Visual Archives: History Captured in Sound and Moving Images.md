@@ -155,6 +155,25 @@ This transformation from physical to digital access represents more than just te
 
 
 
+<div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
+<b>FAR AND WIDE 
+</b><br><br>Since its formation in 1995, the Audio-Visual Archives department has been proactive in forging ties with the international audiovisual archival community and professional associations around the world. These provide the forums for audiovisual archivists to congregate with the archive fraternity to exchange ideas and keep abreast of international and regional developments in audiovisual archiving, as well as seek new and continual training for archivists.
+	<br><br>
+Some of the key audiovisual conferences, symposiums and workshops that the National Archives of Singapore (NAS) has hosted/co-hosted include:
+<br>
+•	Joint IASA-SEAPAVAA (Southeast Asia-Pacific Audiovisual Archive Association) Conference, 3–7 July 2000. This is the first time that the International Association of Sound and Audiovisual Archives (IASA) held its conference in Southeast Asia. It also marked the first time that the National Archives of Singapore hosted an international conference on audiovisual archiving.
+<br>
+•	ASEAN-COCI (Committee on Culture and Information) Workshop on the Preservation of Audiovisual Records, 17–20 November 2008.
+	<br>
+•	Workshop on Digital Preservation of Audiovisual Archives, 27– 29 February 2012. The workshop was organised as part of a series of skills development lectures and workshops tapping into Singapore-France funding.
+	<br>
+•	Joint Technical Symposium (JTS) 2016, an event of the Coordinating Council of Audiovisual Archives Associations. This is the first time that the symposium came to Asia since the JTS started in 1983. It was co-hosted by the National Archives of Singapore and SEAPAVAA.
+	<br>
+•	Workshop on Preservation of AV Materials, 24–25 June 2019. Organised in conjunction with the 2019 SARBICA (Southeast Asia Regional Branch of the International Council on Archives) International Symposium.
+</div>
+
+
+
 <div style="background-color: white;">
 <img style="width: 100px; height: 100px;" src="/images/Authors/PhangLaiTee.png">
 <b>Dr Phang Lai Tee</b>&nbsp;is a Senior Principal Archivist at the National Archives of Singapore. Since her early days recording children's radio programmes at the Radio and Television Singapore, she has nurtured a deep passion for audiovisual archiving. </div>
