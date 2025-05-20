@@ -15,7 +15,7 @@ The AVA department manages an extensive collection of audiovisual documents such
 
 #### **Setting up the Audio-Visual Archives Unit**
 
-Singapore’s broadcasting history goes back to 1924 with the launch of radio here. This was followed by the introduction of television in 1963[^]1. However the idea of systematically preserving Singapore’s audiovisual heritage only dates to the late 1980s.
+Singapore’s broadcasting history goes back to 1924 with the launch of radio here. This was followed by the introduction of television in 1963.[^1] However the idea of systematically preserving Singapore’s audiovisual heritage only dates to the late 1980s.
 
 The turning point came in 1989 with the landmark report from the Advisory Council on Culture and the Arts, chaired by Second Deputy Prime Minister Ong Teng Cheong.[^2] The council’s recommendation to “strengthen the national heritage collection in all media to cover sound-and-moving images” led to the setup of an AVA Unit within the NAS in April 1995.&nbsp; In preparation for a dedicated audiovisual preservation programme, the pioneers of the unit were sent for specialised training in Canada, the United Kingdom and the United States.
 
