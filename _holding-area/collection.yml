@@ -2,6 +2,7 @@ collections:
   holding-area:
     output: true
     order:
+      - A Peek at the Audio Visual Archives.md
       - Reading With Molly Today.md
       - Sample article.md
       - Singapore Youth Orchestra Brings Singapore Composers into the
