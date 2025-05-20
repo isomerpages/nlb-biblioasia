@@ -271,4 +271,4 @@ Today, NLB is a key memory institution dedicated to preserving Singapore’s cul
 
 [^48]:  “LAB25 (Libraries and Archives Blueprint 2025),” National Library Board, accessed 18 March 2025, [https://www.nlb.gov.sg/main/about-us/About-NLB/lab25-libraries-and-archives-blueprint-2025](https://www.nlb.gov.sg/main/about-us/About-NLB/lab25-libraries-and-archives-blueprint-2025).
 
-[^49]:  B’s 2024 Year in Preview – Innovative Services and New Experiences for All,” National Library Board, accessed 18 March 2025, [https://www.nlb.gov.sg/main/about-us/press-room-and-publications/media-releases/2023/2024-Year-in-Preview](https://www.nlb.gov.sg/main/about-us/press-room-and-publications/media-releases/2023/2024-Year-in-Preview).
+[^49]:  NLB’s 2024 Year in Preview – Innovative Services and New Experiences for All,” National Library Board, accessed 18 March 2025, [https://www.nlb.gov.sg/main/about-us/press-room-and-publications/media-releases/2023/2024-Year-in-Preview](https://www.nlb.gov.sg/main/about-us/press-room-and-publications/media-releases/2023/2024-Year-in-Preview).
