@@ -148,7 +148,7 @@ In tandem with technological advancements, the physical library network was enla
 
 One of the National Library’s main focus areas is the preservation and promotion of Singapore’s literary heritage for future generations. In 2003, it embarked on digitising materials relating to Singapore, including historical newspapers, rare and out-of-print books and digital content. These efforts led to the launch of Web Archive Singapore in 2006 (revamped in 2018) which offers access to archived Singapore websites, and NewspaperSG in 2010, an online resource of more than 200 Singapore and Malaya newspapers published since 1831.[^44]
 
-To grow the National Collection, NLB welcomes donation of materials such as diaries, personal papers, letters, business documents, manuscripts, photographs and architectural plans. To date, NLB has received over 116,000 items from more than 425 individual donors, organisations and associations.[^45]
+To grow the National Collection, the National Library welcomes donation of materials such as diaries, personal papers, letters, business documents, manuscripts, photographs and architectural plans. To date, it has received over 116,000 items from more than 425 individual donors, organisations and associations.[^45]
 
 In November 2012, the National Archives of Singapore – which is the “official custodian of all government records and the people’s collective memory” – became an institution of NLB. Two years later, on 1 January 2014, the Asian Film Archive, a nonprofit organisation established in 2005 to preserve Asian film heritage, became a subsidiary of NLB.[^46]
 
