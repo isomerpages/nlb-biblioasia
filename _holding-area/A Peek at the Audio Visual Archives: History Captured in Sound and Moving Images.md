@@ -45,9 +45,9 @@ Each episode typically featured two to four segments, half devoted to serious in
 
 These films were initially screened in local cinemas.[^6] After Television Singapura’s historic launch on 15 February 1963, they were also broadcast on television. Versions in 16 mm format were issued to the Ministry of Culture’s Field Section for screening at public gathering spots such as community centres and rural villages. Copies were also made available in the film library for borrowing by schools, associations, clubs and other organisations.[^7]
 
-Highlights include a film titled _Visiting New Flats_, which captures a historic moment in Singapore’s public housing journey.[^8] In March 1967, residents from the Crawford and Outram areas were invited to tour their future homes in Toa Payoh housing estate. These weekend tours were organised by the Housing and Development Board for families who were being relocated from their villages.
+Highlights include a film titled [_Visiting New Flats_](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/457a5f1f-1164-11e3-83d5-0050568939ad), which captures a historic moment in Singapore’s public housing journey.[^8] In March 1967, residents from the Crawford and Outram areas were invited to tour their future homes in Toa Payoh housing estate. These weekend tours were organised by the Housing and Development Board for families who were being relocated from their villages.
 
-The series also documents a charming slice of local culture from 1963, featuring an annual bird singing competition at the now-defunct Jubilee Malay School.[^9]
+The series also documents a charming slice of local culture from 1963, featuring an annual [bird singing competition](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/457941a8-1164-11e3-83d5-0050568939ad) at the now-defunct Jubilee Malay School.[^9]
 
 ![](/images/Vol%2021%20Issue%202/Audiovisual/visual_bird.jpg)
 <div style="background-color:white;"> A screen grab from the annual bird singing competition at Jubilee Malay School, 1963. <i>Image reproduced from Ministry of Culture, “Bird Singing Competition,” 1963, 16 mm film, 01:30. (From National Archives of Singapore, accession no. 1982000048).</i></div>
