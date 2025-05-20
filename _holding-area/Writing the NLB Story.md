@@ -172,7 +172,9 @@ In May 1984, the Archives and Oral History Department relocated to the Old Hill 
 In August 1993, the National Archives, the Oral History Department and the National Museum became part of the National Heritage Board. The National Archives and the Oral History Department became a single entity known as the National Archives of Singapore, and the Oral History Department was renamed the Oral History Centre.
 	<br><br>
 In 1997, the National Archives of Singapore moved into the former Anglo-Chinese Primary School building at 1 Canning Rise, where it remains to this day. Finally, in November 2012, the National Archives of Singapore became an institution of the National Library Board.
-<br></div>
+<br>
+<br>
+<img src="/images/Vol%2021%20Issue%202/Writing%20the%20NLB%20Story/writing_joins.png" style="width: 60%;"></div>
 
 	
 
