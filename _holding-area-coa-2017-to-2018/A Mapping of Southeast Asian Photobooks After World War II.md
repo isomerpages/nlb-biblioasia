@@ -781,9 +781,9 @@ photographs. While the photobook focuses on the milestones of LPM, the
 latter sections strive to visualise the state violence enacted on its comrades
 and their family members. To heighten the visual drama of the forceful
 dispersals of family members outside a detention camp, a strategy of montage and juxtaposition is used, recalling the graphic nature of protest
-books from across the region.51 Portraits of former LPM and SF detainees,
+books from across the region.[^51] Portraits of former LPM and SF detainees,
 neatly laid out in a grid, run for nine pages in the closing section of the
-photobook, a reminder of their sacrifices for Malaysia.52
+photobook, a reminder of their sacrifices for Malaysia.[^52]
 
 ***3. Exhibition Catalogues***
 
@@ -800,11 +800,11 @@ Southeast Asia broke away from colonialism, a particular kind of exhibition
 catalogue abounded – those produced by amateur photo clubs. As advocates
 of Pictorialism or salon photography, these clubs offered tutelage to eager
 adherents interested in learning the medium, prior to the institutionalisation
-of photo education in academies and universities across the region.53 They
+of photo education in academies and universities across the region.[^53] They
 operated through the logic of strength in numbers and typically enjoyed
 patronage, directly or otherwise, from the state or elite class. An example is
 *Pictorial Photography: Seven Men Photo Exhibition*, an exhibition catalogue
-published by the Photographic Society of Singapore (PSS) in 1965.54 The PSS
+published by the Photographic Society of Singapore (PSS) in 1965.[^54] The PSS
 originated from the Singapore Camera Club, which was established in 1950
 under the British-backed Singapore Art Society umbrella. Police inspector
 Yee Joon Toh served as its founding president. Since its inception, the club
@@ -826,13 +826,13 @@ nation. … In the not too distant past, it was not uncommon for Singapore
 to be dismissed as ‘a cultural desert’, but it is gratifying to note that world
 opinion has changed completely, thanks to the efforts and diligence of our
 people and organisations such as yours [PSS] which have focused attention
-on our cultural life.”55
+on our cultural life”.[^55]
 
 An important aide to Lee Kuan Yew in the PAP, Rajaratnam’s words held
 sway in terms of the way photography would be mobilised for the party’s
 agenda and to mark Singapore’s relevance to the world. It is likely that Chua
 Soo Bin (b. 1932, Singapore) helped to produce or design the thoughtful
-catalogue.56 Chua had started out as a PSS member whose practice would
+catalogue.[^56] Chua had started out as a PSS member whose practice would
 eventually evolve to encompass advertising and portraiture. In 1988, Chua
 was conferred the Cultural Medallion (Photography), the highest award for
 the arts in Singapore.
@@ -860,8 +860,8 @@ work. In certain cases, these photobooks function as a manifesto of the
 photographer’s practice. It is also possible to place the artist’s book in
 this section. In this way, the collaboration between artist Robert Zhao
 (b. 1983, Singapore) and designer Hanson Ho, resulting in publications
-such as *Mynas*,57 can be placed in dialogue with salon photographer
-Chua Tiag Ming’s *Photography in Action* (《哲民影集》).58
+such as *Mynas*,[^57] can be placed in dialogue with salon photographer
+Chua Tiag Ming’s *Photography in Action* (《哲民影集》).[^58]
 
 While Zhao’s photobook feels sumptuous and very designed, which
 transforms his work into a tactile experience, Chua’s book, designed
@@ -870,7 +870,7 @@ The front end-paper features a picture of Chua prone on the ground,
 photographing a lady (whom I presume to be his wife, given that
 his dedication to her appears in the top left corner). Chua’s wife had
 apparently also contributed to the photobook by touching up the
-photographs and proofreading the English text.59 On one hand, Chua’s
+photographs and proofreading the English text.[^59] On one hand, Chua’s
 photobook looks like a portfolio of his best hits. The accompanying
 captions oscillate between providing context to the images, articulating his
 perspectives on the subject matter, and delving into the technical issues
@@ -887,7 +887,7 @@ Corporations have always sought out and commissioned the best
 photographers for their book projects. This is another avenue where we
 may encounter exemplars of photobooks in Southeast Asia. One curious
 example from NLB’s collections that merits a quick mention is *Brunei Darus
-Salam: A Pictorial Review of the Land and People*, published by Brunei Shell Petroleum Company.60 At first glance, this photobook published in 1968
+Salam: A Pictorial Review of the Land and People*, published by Brunei Shell Petroleum Company.[^60] At first glance, this photobook published in 1968
 was to commemorate the coronation of Hassanal Bolkiah, the current sultan
 and prime minister of Brunei. The photobook takes us through the ways-oflife
 and development of the state, with the closing section dedicated to the
@@ -904,12 +904,12 @@ oil conglomerate and logic of political power in Brunei.
 In Southeast Asia, another source of photobooks comes from the *minjian*
 (民间). As Taiwanese theorist Chen Kuan-Hsing points out, *minjian* refers
 to “a folk, people’s, or commoners’ society, but not exactly – because while
-min means people or populace, *jian* connotes space and in-betweenness”.61
+min means people or populace, *jian* connotes space and in-betweenness”.[^61]
 In short, *minjian* refers to the “space where traditions are maintained as
 resources to help common people survive the violent rupture brought about
 by the modernising of state and civil society”. The examples of *minjian*
 groups that Chen gives include religious sects, sex workers and street
-vendors.62 It is also possible to think of the Chinese-medium schools in
+vendors.[^62] It is also possible to think of the Chinese-medium schools in
 Malaysia and Cambodia, self-help groups and clan associations across the
 region, as well as certain cultural organisations (such as KUNCI Cultural
 Studies Centre at Yogyakarta, Lostgens’ Contempoary Art Space at Kuala
@@ -920,7 +920,7 @@ is based), a semblance of the *minjian* that Chen evokes continues to exist
 across Southeast Asia.
 
 For the purpose of discussion, a publication such as *A Pictorial History of
-Hin Hua High School* can be considered a *minjian* photobook.63 Founded
+Hin Hua High School* can be considered a *minjian* photobook.[^63] Founded
 in 1947 and funded partially through *minjian* society, Hin Hua is a Chinese
 independent school in Klang, Malaysia. This 364-page photobook is part
 of a three-volume publication that commemorates the arduous journey
@@ -928,7 +928,7 @@ Hin Hua High School has undertaken to provide education in Klang. The
 publication’s intention is to record the sacrifices of its founders, tying the
 photobook to the Chinese cultural tradition and placing it within the context
 of the marginalisation of Chinese experiences within the national history of
-Malaysia.64 In this way, this photobook has been bestowed with a burden
+Malaysia.[^64] In this way, this photobook has been bestowed with a burden
 larger than just the recording of Hin Hua’s development over the decades.
 
 Printed on an understated yet elegant paper stock, the publication features
@@ -964,7 +964,7 @@ different time and place.
 
 An obvious example is *Characters of Light: A Guide to the Buildings of
 Singapore*, written and photographed by Marjorie Doggett (b. 1921, Sussex,
-UK–d. 2010, Singapore).65 Writer, publisher, gallery owner and impresario
+UK–d. 2010, Singapore).[^65] Writer, publisher, gallery owner and impresario
 Donald Moore (b. 1923, Leicestershire, UK–d. 2000) was responsible
 for putting out *Characters of Light* in 1957. Doggett and Moore arrived
 in Singapore through the colonial milieu – the Royal Air Force posted
@@ -979,11 +979,11 @@ her empire shall have passed away, these monuments will endure when her
 triumphs shall have become an empty name.”
 
 Doggett wrote in the foreword that her book made “no pretence to be
-a technical work on Colonial architecture”.66 In the short history of
+a technical work on Colonial architecture”.[^66] In the short history of
 Singapore that follows the foreword, the narrative of Singapore’s evolution
 from a mangrove swamp to a great port, a development “beyond Raffles’
 wildest dreams”, is predictably repeated, with no mention of Britain’s
-exploitation of Malaya before and after World War II.67 While it is
+exploitation of Malaya before and after World War II.[^67] While it is
 doubtful that the photobook was ostensibly made to perform the colonial
 state’s politics, Doggett’s straight-up and considered recording of colonial
 buildings, riverside godowns, elegant mosques and elaborate temples
@@ -993,13 +993,13 @@ flourishing of Singapore through British colonialism.
 In 1960, the Doggetts became Singapore citizens. In 1985, Times Books
 International made a flimsy reproduction of the original book, with
 a different sequence of photographs and the addition of previously
-unpublished images.68 The new foreword explained that the rationale
+unpublished images.[^68] The new foreword explained that the rationale
 for the reproduction was nostalgia for old Singapore and Doggett’s plea
 for heritage conservation. After accounting for the fact that a newly
 independent nation would have little interest in the colonial past, Doggett
 wrote: “But time has its mellowing effect. History is always a mixture, and
 whether good or evil prevails for a time, each period has its place in the
-making of a nation”.69 Indeed, Doggett’s photographs come to us today
+making of a nation”.[^69] Indeed, Doggett’s photographs come to us today
 with their colonial imprint somewhat withered, only to be detected in the
 young nation’s nostalgia for its distant past.
 
