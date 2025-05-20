@@ -174,7 +174,9 @@ In August 1993, the National Archives, the Oral History Department and the Natio
 In 1997, the National Archives of Singapore moved into the former Anglo-Chinese Primary School building at 1 Canning Rise, where it remains to this day. Finally, in November 2012, the National Archives of Singapore became an institution of the National Library Board.
 <br>
 <br>
-<img src="/images/Vol%2021%20Issue%202/Writing%20the%20NLB%20Story/writing_joins.png" style="width: 60%;"></div>
+<img src="/images/Vol%2021%20Issue%202/Writing%20the%20NLB%20Story/writing_joins.png" style="width: 60%;"><br>
+The National Archives of Singapore building at Canning Rise. <i>Collection of the National Library Board.</i>
+<br></div>
 
 	
 
