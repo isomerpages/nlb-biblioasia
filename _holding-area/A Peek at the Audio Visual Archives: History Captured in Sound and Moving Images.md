@@ -91,6 +91,10 @@ Beyond official broadcasts and government documentaries lie a more intimate wind
 
 These early home movies are particularly valuable as they were made at a time when film cameras were luxury items typically owned by more affluent families and expatriates. Wedding ceremonies, birthday celebrations, family holidays in neighbouring countries as well as casual street scenes shot in Chinatown and by the Singapore River document Singapore’s family lives and changing urban landscapes as seen through private eyes.[^15]
 
+![](/images/Vol%2021%20Issue%202/Audiovisual/visual_river.jpg)
+<div style="background-color:white;"> A screen grab showing the Singapore River, 1960. <i>Image reproduced from John Christianse, Singapore 1960 (Singapore Street Scenes), 1960, 8 mm film, 19:34 (From National Archives of Singapore, accession no. 2005003229).</i></div>
+
+
 The oldest home movie preserved by the NAS is a 16 mm film titled _Wedding and Family Footage of Peranakan Family, Circa 1930_ from the Tan Geok Choo (née Law) Collection.[^16] Although the identities of the bride and groom remain unknown, this black-and-white film provides rare documentation of a Peranakan wedding and glimpses of&nbsp; family life during that era.
 
 ![](/images/Vol%2021%20Issue%202/Audiovisual/visual_peranakan.jpg)
