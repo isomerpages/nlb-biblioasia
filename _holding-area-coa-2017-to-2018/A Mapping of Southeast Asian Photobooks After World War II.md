@@ -1040,3 +1040,61 @@ and the Cold War. Zhuang has written several books and has recently published
 Photography in Southeast Asia: A Survey (NUS Press, 2016) and Shifting Currents:
 Glimpses of a Changing Nation (NLB, 2018). As an artist, Zhuang uses photography
 and text to visualise the shifting experiences of Chineseness in Southeast Asia.</div>
+
+#### **REFERENCES**
+     
+
+Aditya Pratama. Photo Books From Indonesia – Development and Role of Communities, November 2017, accessed 30 June 2018, https://www.goethe.de/ins/id/en/kul/mag/21126073.html.
+
+Anderson, Benedict. [_A Life Beyond Boundaries_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202513186)_._ London: Verso, 2016. (From National Library Singapore, call no. RSING 907.202 AND)
+
+Brunei Shell Petroleum Company. [_Brunei Darus Salam: Gambar2 Menunjokkan Negeri Dan Pendudok-Nya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5260096). Brunei Darus Salam: A pictorial review of the land and people\] (\[Seria\]: Brunei Shell Petroleum, \[1968?\]. (From National Library, Singapore call no. Malay R 959.55 BRU)
+
+Cheah, Boon-Kheng. “The Left-Wing Movement in Malaya, Singapore and Borneo in the 1960s: ‘An Era of Hope or Devil’s Decade’?” _Inter-Asia Cultural Studies_ 7, no. 4 (December 2006): 634–649, [https://www.tandfonline.com/doi/abs/10.1080/14649370600983196](https://www.tandfonline.com/doi/abs/10.1080/14649370600983196).
+
+Chen, Kuan-Hsing. [_Asia As Method: Toward Deimperialization_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13585903). Durham \[N.C.\]: Duke University Press, 2010. (From National Library Singapore, call no. R 950.072 CHE)
+
+Chua, Tiag Ming 蔡哲民. _Zhemin ying ji_ [哲民影集](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14305499) \[Photography in action\]. Singapore: s.n., 1978. (From National Library Singapore, call no. Chinese R 779 CTM)
+
+Colberg, Jorg. [_Understanding Photobooks: The Form and Content of the Photographic Book_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202955638)_._ New York: Routledge, 2017. (From National Library Singapore, call no. 745.5938 COL-\[REC\])
+
+Coronel, Sheila. [_Memory of Dances_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11934290). Manila: Philippine Center for Investigative Journalism, 2002. (From National Library Singapore, call no. RSEA 959.90049921 COR)
+
+Davis, Reginald. [_The Royal Family of Thailand_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4347591). London: Nicholas Publications, 1981. (From National Library Singapore, call no. RSEA 959.3040924 DAV)
+
+Doggett, Marjorie. [_Characters of Light: A Guide to the Buildings of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4139976). Singapore: Donald Moore, 1957. (From National Library Singapore, call no. RCLOS 722.4095957 DOG)
+
+–––. [_Characters of Light_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4139976). Singapore: Times Books International, 1985. (From National Library Singapore, call no. RSING 722.4095957 DOG)
+
+Hafalla, Tommy. [_Ili_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203140463). Manila: MAPA Books, 2016. (From National Library Singapore, call no. RART 779.2095991 HAF)
+
+Laureano, Felix. [_Recuerdos de Filipinas : album-libro : util para el estudio y conocimiento de los usos y costumbres de aquellas islas con treinta y siete fototipias tomadas y copiadas del natural_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13155603) \[Memories of the Philippines: Album-book; A tool for the study and understanding of the ways and customs of these islands with thirty-seven phototypies taken and copied from real life\]. Mandaluyong, Philippines: Cacho Publishing House, 2001. (From National Library Singapore, call no. RSEA 959.9 LAU)
+
+Liang, Wen Gui 梁文贵. _Ren min zhen xian xuan yan_ [人民阵线宣言](https://catalogue.nlb.gov.sg/search/card?recordId=84452920) \[The people and the country\]. 新加坡: 人民阵线, 1972. (From National Library Singapore, call no. RCLOS 329.95957 LWK)
+
+Nguyen, Manh Dan and Nguyen Ngoc Hanh. [_Vietnam in Flames_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4117102). \[s.i.: s.n.\], 1969. (From National Library Singapore, call no. RUR 959.7043 NGU)
+
+Parr, Martin and Gerry Badger, eds. [_The Photobook: A History_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12455223), vol. 1. London: Phaidon, 2004. (From National Library Singapore, call no. RART q770.9 PAR)
+
+–––. [_The Photobook: A History_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12455223), vol. 2. London: Phaidon, 2006. (From National Library Singapore, call no. RART q770.9 PAR)
+
+–––. [_The Photobook: A History_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203828572), vol. 3. London: Phaidon, 2014. (From National Library Singapore, call no. RART q770.9 PAR)
+
+Parr, Martin and WassinkLundgren, eds. [_The Chinese Photobook: From the 1900s to the Present_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203825712)_._ New York: Aperture Foundation, 2015. (From National Library Singapore, call no. RART 770.951 CHI)
+
+Photographic Society of Singapore. [_Photographic Society of Singapore, Seven Men Photo Exhibition at the Victoria Memorial Hall, 6th and 7th March, 1965_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4407104). \[Singapore: Photographic Society of Singapore, 1965\]. (From National Library Singapore, call no. RCLOS 779 PHO)
+
+Reed, Jane Levy. [_Toward Independence: A Century of Indonesia Photographed_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6266119), ed. Jane Levy Reed. San Francisco: Friends of Photography, 1991. (From National Library Singapore, call no. RUR 959.800222 REE)
+
+[_The Long and Winding Road East Timor_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=10823937). Jakarta: Alliance of Independent Journalists, 2001. (From National Library Singapore, call no. RART q779.91598092 HAS)
+
+_Renmin yu guojia_ 人民与国家 \[The people and the country\] (Singapore: P.A.P. Tanjong Pagar Branch, 1972)
+
+Zhao, Renhui Robert. [_Mynas_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202919391). Singapore: Institute of Critical Zoologists, 2016. (From PublicationSG)
+
+_Feng zhi juan: Xing Hua tu zhi_ [风之卷: 兴华图志](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202637201) \[A pictorial history of Hin Hua High School\]. Malaysia: 兴华中学, 2013. (From National Library Singapore, call no. Chinese RSEA 373.5951 XHZ
+
+_Malaiya lao gong dang li shi tu pian ji_ [马来亚劳工党历史图片集](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14368135) \[Labour Party of Malaya album of historical photographs\]. 吉隆坡：劳工党党史全国工委会, 2000. (From National Library Singapore, call no. Chinese RSING 324.259507 MLY-\[YOS\])
+
+Zhuang, Wubin 庄吴斌. [_Shi hui dong nan ya she ying jiao xue de tu pu_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203103819) 试绘东南亚摄影教学的图谱 \[Teaching photography in Southeast Asia: Altentative mapping\]. 台北市: 国立台北艺术大学关渡美术馆, 2017. (From National Library Singapore, call no. Chinese RSEA 770.71059 ZWB)
+
