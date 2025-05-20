@@ -165,7 +165,7 @@ Aligned with this new blueprint, and with augmented reality and artificial intel
 ![](/images/Vol%2021%20Issue%202/Story%20of%20National%20Library/image_10.png)
 <div style="background-color: white;">The generative AI-powered chatbook featuring S. Rajaratnam, 2024. <i>Photo by Jimmy Yap</i>. </div>
 
-Today, NLB is a key memory institution dedicated to preserving Singapore’s cultural heritage. As it looks to the future, it will continue to experiment and innovate to serve a new generation of library users. At the same time, NLB’s mission of nurturing readers for life, developing learning communities and creating a knowledgeable nation will remain at the heart of everything it does.
+Today, NLB is a key memory institution dedicated to preserving Singapore’s cultural heritage. As it looks to the future, it will continue to experiment and innovate to serve a new generation of library users. At the same time, NLB’s vision of nurturing readers for life, developing learning communities and creating a knowledgeable nation will remain at the heart of everything it does.
 	
 
 <div style="background-color: white;">
