@@ -298,7 +298,7 @@ region long before the current craze in photobooks. As this craze trickles back
 to parts of Asia, the term “photobook”, in some cases, has had to be translated
 or re-adapted for localised usage. In Vietnam, for instance, *sách anh*, which
 literally means “photobook”, is commonly used.[^20] Similarly, in Myanmar,
-“photobook” is translated as *dat-pone sar-oak*.21 Sometimes, even a fairly
+“photobook” is translated as *dat-pone sar-oak*.[^21] Sometimes, even a fairly
 straightforward translation of the term “photobook” might bring about a
 sense of consternation. For example, photo curator Ahmad Salman (b. 1970,
 Semarang) insists that the accurate translation of “photobook” into Bahasa
@@ -306,7 +306,7 @@ Indonesia should be *buku foto* rather than* buku fotografi* because the latter 
 be taken to mean a book about photography. *Buku foto*, on the other hand,
 should be a publication that uses photography to deliver its content. Ahmad
 sounds pedantic only because he feels that Indonesians have historically been
-far too lax in using translated words and ideas.22
+far too lax in using translated words and ideas.[^22] 
 
 Meanwhile, there are many pre-existing terms in Southeast Asia, which
 precede the current photobook hype, some of which remain relevant
@@ -316,7 +316,7 @@ conveys the idea of a picture or an illustrated book. According to China
 photo historian Gu Zheng, in the present context “*tushu* has at least three
 denotations – a book of text, of images, or both – whereas an alternate
 term, *huace* [画册], refers more narrowly to a picture album composed of ink
-paintings, drawings, or other illustrations”.23
+paintings, drawings, or other illustrations”.[^23]
 
 In other words, the terms *tushu* and *huace* already embody the myriad of
 possibilities that such a publication may offer, which is not necessarily
@@ -329,7 +329,7 @@ to some of these publications, such as *The People and the Country* (《人民�
 国家》). This is a modest, saddle-stitched photobook produced by the
 Tanjong Pagar Branch of the People’s Action Party (PAP) in 1972, which
 visualises the evolution of the party branch as the national history of
-Singapore.24 Another common term in Chinese is *tekan* [特刊], or “special
+Singapore.[^24] Another common term in Chinese is *tekan* [特刊], or “special
 issue”. While most people associate *kan* with the term “periodical”, it can
 also mean “publication”. In Southeast Asia, news companies, Chinese
 schools and political parties, among others, have published numerous
@@ -337,8 +337,8 @@ schools and political parties, among others, have published numerous
 commemorating milestone events.
 
 In the Thai language, *nangsue phapthai* [หนังสือ ภาพถ่าย] is a somewhat
-literal translation of the term “photobook”.25 It is a relatively new term that
-can already be found in the Thai dictionary.26 *Phapthai* and *nangsue* refer
+literal translation of the term “photobook”.[^25] It is a relatively new term that
+can already be found in the Thai dictionary.[^26] *Phapthai* and *nangsue* refer
 to “photographs” and “book” respectively. On the other hand, a term like
 *samut phap* [สมุดภาพ] was already in use during the reign of Rama V
 (r. 1868–1910). *Samut* means “book” while *phap* refers, more broadly, to
@@ -347,8 +347,8 @@ words, *samut phap* can be used to refer to a book of drawings, paintings or
 photographs. Other terms in use since the reign of Rama V include อัลบ้มั
 [pronounced as *album*] and *pramuan phap* [ประมวลภาพ]. In the 1970s, for
 instance, photobooks published to record the popular political movements
-of 1973 and 1976 were known as *pramuan phap*.27 *Pramuan* translates to
-“collection” and conveys a sense of archival in terms of putting together materials from different sources.28 These terms have since lapsed from
+of 1973 and 1976 were known as *pramuan phap*.[^27] *Pramuan* translates to
+“collection” and conveys a sense of archival in terms of putting together materials from different sources.[^28] These terms have since lapsed from
 popular usage.
 
 This quick survey of terminologies referring to the photobook points to
@@ -370,7 +370,7 @@ also published catalogues of their exhibitions. By the mid-80s, grandiose
 coffee-table books had become extremely popular, as the world’s most
 famous photographers were parachuted across the archipelago in search of
 “mystical, mythical Indonesia” to cash in on the “West’s surging interest
-in exotic lands”.29 In 1992, the national news agency of Antara (founded
+in exotic lands”.[^29] In 1992, the national news agency of Antara (founded
 in 1937) decided to reopen its old office in Pasar Baru, Jakarta and convert
 it into Antara Photojournalism Gallery (GFJA), perhaps the first nonprofit
 space in Southeast Asia dedicated to photography. At least since the
@@ -384,7 +384,7 @@ taken some time to germinate.
 In 2008, with the support of German Photobook Prize, PannaFoto Institute
 (established in 2006), a non-profit foundation in Indonesia that focuses on
 photographic education and visual literacy, initiated a long-term relationship
-with Goethe-Institut in Jakarta to mount a series of photobook exhibitions.30
+with Goethe-Institut in Jakarta to mount a series of photobook exhibitions.[^30]
 At the inaugural exhibition in 2008, some 100 books were on display,
 outnumbering the 20 or so attendees at the opening. The exhibition had
 received scant interest because, for aspiring photographers in Indonesia, the
@@ -411,20 +411,20 @@ the photobook form for future photographers in Indonesia. “Young people
 tend to work when everything is in place – when the money is there and the
 concept is ready. It’s not like that,” Erik explains. “When you shoot, you
 think of doing one good essay. And when you have 10 good essays, then you
-can make a book.”31
+can make a book.”[^31]
 
 In April 2012, with the support of PannaFoto, Ahmad and photojournalist
 Julian Sihombing (b. 1959, Jakarta–d. 2012) initiated a series of *kumpul buku*
 (book gathering) in Jakarta. The event incorporated a bazaar of new and used photobooks, book signing sessions and public forums. Visitors were
 encouraged to share their photobooks during each gathering. Kumpul Buku
 has since inspired similar events across Indonesia, in Surabaya, Bandung,
-Solo and Yogyakarta.32 Over in Malaysia, on 1 May 2013, Faisal Aziz (b. 1988,
+Solo and Yogyakarta.[^32] Over in Malaysia, on 1 May 2013, Faisal Aziz (b. 1988,
 Johor) and Liyana Jaafar founded the now-dormant Photobook Club
 Kuala Lumpur (PBCKL), which was partly modelled after the UK-based
 Photobook Club (established in 2011 by Matt Johnston). PBCKL positioned
 itself as a grassroots platform to promote and nurture discussions on the
 photobook, with the explicit aim of reaching the general public, beyond
-the photography community.33 PBCKL started with the couple’s personal
+the photography community.[^33] PBCKL started with the couple’s personal
 collection of books and was informed by their desire to share them with the
 public. Its launch event was held at a lake garden in Selangor, featuring a
 discussion on photobooks and a browsing session at the
@@ -434,7 +434,7 @@ Inspired by PBCKL and PannaFoto’s Kumpul Buku, Ridzki Noviansyah
 (b. 1986, Bandar Lampung) and Tommy N. Armansyah (b. 1974,
 Bandung) co-founded the Photobook Club-Jakarta in 2013. During its
 most active period, the club routinely organised public forums to discuss
-photobooks from around the world.34 On 15 and 16 November 2013,
+photobooks from around the world.[^34] On 15 and 16 November 2013,
 PBCKL was invited to a *kumpul buku* in Yogyakarta where they displayed
 a selection of Malaysian and Japanese books from its collection. The
 following year, on 18 May 2014, PBCKL hosted Ridzki for a talk at the
@@ -458,7 +458,7 @@ Ng decided to play it safe and publish a
 book for her husband, fellow PannaFoto
 member Edy Purnomo (b.1968, Ponorogo),
 “who has no worry about his prestige as
-a photographer”.35 Ahmad and designer
+a photographer”.[^35] Ahmad and designer
 Bobby Haryanto worked on the project
 *pro bono*. The first print run of *Passing* was
 a tentative 200 copies. After everything for
@@ -513,7 +513,7 @@ like Indonesia. It started by stocking foreign books, which were hard to find
 in Indonesia. A year later, they began selling Indonesian photobooks, which,
 in truth, turned minimal profits. Nevertheless, Aditya feels that it is part of
 Unobtainium’s responsibility to stock local books as a means to grow the
-photobook community.36 It has also given them an edge in the international
+photobook community.[^36] It has also given them an edge in the international
 market, with foreign collectors interested in Indonesian photobooks actively
 seeking Unobtainium out. In fact, Martin Parr recently bought a stash of
 Indonesian photobooks from them.
@@ -528,14 +528,14 @@ similar to Unobtainium, with Good Art Book focusing predominantly on
 photobooks made by Thai practitioners. Its listing of Thai photobooks is
 shorter than Unobtainium’s stock list of Indonesian photobooks, reflecting
 the liveliness of photobook publishing in Indonesia. With its Thai focus,
-Good Art Book receives more overseas than local orders.37
+Good Art Book receives more overseas than local orders.[^37]
 
 According to Aditya, the market for photobooks in Indonesia has
 been recalibrated in recent years. A few years back, people would buy
 a photobook with the simple intention of owning one. Today’s buyers
 have become more discerning. While Aditya expresses this as a cautionary
 note vis-à-vis the long-term sustainability of the photobook market in
-Indonesia,38 I feel that this is actually a healthy development in terms of
+Indonesia,[^38] I feel that this is actually a healthy development in terms of
 evolving the taste of local buyers in purchasing photobooks and appreciating
 photography. In any case, beyond mounting an exhibition, the photobook
 has become an acknowledged means among Indonesian photographers
@@ -551,7 +551,7 @@ and information. It has had a long history of producing photobooks,
 starting perhaps with Filipino photographer Felix Laureano (b. 1866,
 Patnongon, Antique Province –d. 1952) who, in 1895, published the
 album-book *Memories of the Philippines* in Barcelona. A cheaper facsimile
-was made in 2001 in the Philippines.39 Short of narrating a linear history
+was made in 2001 in the Philippines.[^39] Short of narrating a linear history
 here, it is worth pointing out that the fall of Marcos heralded a spate
 of photobooks being published, including *Kasama: A Collection of
 Photographs of the New People’s Army of the Philippines* (published in 1987),
@@ -569,7 +569,7 @@ the Reformasi in 1998, the lid was suddenly removed and several critical
 photobooks (including exhibition catalogues) were published during that
 period, including Oscar Motuloh’s satirical *Carnaval* (published in 2000)
 and Eddy Hasby’s *East Timor: The Long and Winding Road* (published in
-2001).40 On hindsight, the latter received limited interest then possibly
+2001).[^40] On hindsight, the latter received limited interest then possibly
 because the photobook form was seen as a luxury object beyond the means
 of most Indonesians who were still recovering from the economic fallout
 of the Reformasi. Eddy’s interest in East Timor might have also been
@@ -586,7 +586,7 @@ registered record sales and won Baluyut his second National Book Award.
 In 2002, PCIJ published veteran photographer Sonny Yabao’s *Memory of
 Dances*, which examines, through his enigmatic photographs, the story of
 cultural loss experienced by the Bugkalot and Igorot at Nueva Vizcaya, the
-Tagbanua at Coron and the Manobo at Mount Apo.41
+Tagbanua at Coron and the Manobo at Mount Apo.[^41]
 
 <img src="/images/COA%202017%20to%202018/Southeast%20Asian%20Photobooks/Brother_Hood_3.jpg" style="width:50%;">
  <div style="background-color: white;"><i>Brother Hood</i> (Alex Baluyut &amp; Gemma Luz
@@ -605,11 +605,11 @@ the 1990s. In PCIJ’s remit, photography remains integral to many of its
 publications because the medium is essential to the documentation of
 wrongdoing, such as police abuses or corruption in procurement and
 public works, while lending credibility and humanity to its investigative
-work.42 While photography took centre stage in *Brother Hood and Memory
+work.[^42] While photography took centre stage in *Brother Hood and Memory
 of Dances*, Coronel admits that the production value for both photobooks
 was deliberately modest in order to keep costs low, so as to make them more
 affordable and extend their reach. In fact, she suspects that buyers of both
-photobooks mainly came from beyond the photography community.43
+photobooks mainly came from beyond the photography community.[^43]
 
 Since the valorisation of the photobook by Parr and Badger, there have
 been attempts to translate that interest to Manila. In 2015, contemporary
@@ -623,11 +623,11 @@ destroyed Navarroza’s studio.
 In 2017, Filipino photographer-printer RJ Fernandez (b. 1979, Manila)
 officially established MAPA Books, an independent publishing house in
 London. Predictably, its first photobook titles are dedicated to two Filipino
-photographers: Tommy Hafalla’s *Ili* (published in 2016)44 and Veejay
+photographers: Tommy Hafalla’s *Ili* (published in 2016)[^44] and Veejay
 Villafranca’s *Signos* (published in 2017). Informed by Fernandez’s desire to
 bring the quality of production in London to the Philippines, and given that
 MAPA Books prints their titles in Italy, the pricing of these photobooks is
-at a similar level to that of a European publication.45 Thus, it remains to be
+at a similar level to that of a European publication.[^45] Thus, it remains to be
 seen whether the price-point of both publications will hinder their broader
 reception in Manila.
 
@@ -638,7 +638,7 @@ of MAPA Books. Hafalla, T. (2016). Ili. Manila: MAPA Books. (Call no.: RART 779.
 
 In Java, it is clear that the photography community has become invested
 in the photobook form. Their support in terms of interest and purchases
-directly fuels the photobook ecology in Indonesia.46 While they may have
+directly fuels the photobook ecology in Indonesia.[^46] While they may have
 differing views on the medium, senior photographers remain active as
 role models, mediating the relevance of photobooks in local terms. There
 have also been initiatives to promote the photobook among Filipino
@@ -659,7 +659,7 @@ independent photobook publishing across Java has been undertaken only by
 the privileged class. This is far from the truth. When Ng Swan Ti decided to
 set the first print run of Edy Purnomo’s *Passing* at 200 copies, it was based on
 the calculation that they would be able to coerce at least 200 of their friends
-to support the project.47 Is it impossible to garner similar support for an
+to support the project.[^47] Is it impossible to garner similar support for an
 accomplished Filipino photographer in Manila? I have no idea. Nevertheless,
 it is obvious that Manila lacks respected interlocutors who have a sustained
 commitment in translating the photobook interest and making it relevant to
@@ -715,7 +715,7 @@ photo publications, credited to photographers and commercial publishers,
 which willingly mirror the state narrative. Quite a number feature the works
 of foreign photographers. A good example is *The Royal Family of Thailand*,
 authored and photographed by London-based Jewish photographer
-Reginald Davis.48 A fellow of the Royal Photographic Society (RPS) of Great
+Reginald Davis.[^48] A fellow of the Royal Photographic Society (RPS) of Great
 Britain since 1971, Davis made a name for himself photographing royal
 families across the world. While the photobook was published in London
 in 1981, it was printed and bound by Dai Nippon’s Hong Kong office. The
@@ -756,8 +756,8 @@ articulations of politics that have been made marginal by the state or
 mainstream society. They are sometimes, though not always, produced by civil
 society. For instance, *Labour Party of Malaya Album of Historical Photographs*
 (《马来亚劳工党历史图片集》) was published by surviving members of the
-political party in 2000, decades after its deregistration in 1972.49
-![](/images/COA%202017%20to%202018/Southeast%20Asian%20Photobooks/Labour_Party_of_Malaya_5.jpg)
+political party in 2000, decades after its deregistration in 1972.[^49]
+
 <img src="/images/COA%202017%20to%202018/Southeast%20Asian%20Photobooks/Labour_Party_of_Malaya_5.jpg" style="width:100%;">
  <div style="background-color: white;"> Labour Party of Malaya album of historical photographs (2000). Softcover, 21.8 x 29 cm, 184 pages. <i> Image source:
 马来亚劳工党历史图片集 [Labour Party of Malaya album of historical
@@ -771,7 +771,7 @@ Socialist Front (SF) coalition, LPM won six parliamentary seats and 13 seats
 in different state assemblies. Internal disagreements over the formation of
 Malaysia in 1963, waves of arrests without trial targeting many LPM cadres
 under the Internal Security Act (ISA) and the party’s eventual decision to
-boycott parliament gradually brought about its demise.50
+boycott parliament gradually brought about its demise.[^50]
 
 In its introduction, editor’s foreword and afterword, the fact that LPM
 members risked potential state reprisal to preserve these images for posterity
