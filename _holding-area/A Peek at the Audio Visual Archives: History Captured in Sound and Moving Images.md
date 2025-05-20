@@ -167,36 +167,36 @@ This transformation from physical to digital access represents more than just te
 [^11]: Mohamad Karazie and Tan Jie Ling, “[The Awakening of the Modern Television Era: 50 Years of Colour TV in Singapore](https://biblioasia.nlb.gov.sg/vol-20/issue-3/oct-dec-2024/colour-tv-history-singapore/),” _BiblioAsia_ 20, no. 3 (October–December 2024): 4–9.
 
 
-[^12]: Jack Sim Juek Wah, oral history interview by Mark Wong, 11 June 2012, transcript and MP3 audio, Reel/Disc 16 of 16, National Archives of Singapore (accession no. 003716), 385.
+[^12]: Jack Sim Juek Wah, oral history interview by Mark Wong, 11 June 2012, transcript and MP3 audio, Reel/Disc 16 of 16, National Archives of Singapore ([accession no. 003716](https://safe.menlosecurity.com/https:/www.nas.gov.sg/archivesonline/oral_history_interviews/interview/0037161)), 385.
 
 
 [^13]: Jack Sim Juek Wah, oral history interview, 11 June 2012, Reel/Disc 16 of 16, 386.
 
 
-[^14]: Jack Sim Collection, “厦语西游记：火焰山（第一场）Xia Yu Xi You Ji: Huo Yan Shan (1),” 2 March 1979, sound recording, 28:24. (From National Archives of Singapore, accession no. 2010002384); Jack Sim Collection,“粤语星期日剧场: 从心所愿 Yue Yu Xing Qi Ri Ju Chang: Cong Xin Suo Yuan,” 26 April 1979, sound recording, 29:30. (From National Archives of Singapore, accession no. 2010002403)
+[^14]: Jack Sim Collection, “厦语西游记：火焰山（第一场）Xia Yu Xi You Ji: Huo Yan Shan (1),” 2 March 1979, sound recording, 28:24. (From National Archives of Singapore, accession no. 2010002384); Jack Sim Collection,“[粤语星期日剧场: 从心所愿 Yue Yu Xing Qi Ri Ju Chang: Cong Xin Suo Yuan](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/683d0ffc-1164-11e3-83d5-0050568939ad),” 26 April 1979, sound recording, 29:30. (From National Archives of Singapore, accession no. 2010002403)
 
 
-[^15]: National Archives of Singapore, “Home Movies,” 1930---–2023. (From National Archives of Singapore)
+[^15]: National Archives of Singapore, “[Home Movies](https://www.nas.gov.sg/archivesonline/audiovisual_records/genre?gc=010),” 1930---–2023. (From National Archives of Singapore)
 
 
-[^16]: Tan Geok Choo (née Law) Collection, “Wedding and Family Footage of Peranakan Family, Circa 1930,” 1930, 16 mm film, 06:44. (From National Archives of Singapore, accession no. 2010000429)
+[^16]: Tan Geok Choo (née Law) Collection, “[Wedding and Family Footage of Peranakan Family, Circa 1930](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/6793a637-1164-11e3-83d5-0050568939ad),” 1930, 16 mm film, 06:44. (From National Archives of Singapore, accession no. 2010000429)
 
 
-[^17]: John Christianse, “Singapore 1960 (Singapore Street Scenes),” 1960, 8mm film, 19:34. (From National Archives of Singapore, accession no. 2005003229)
+[^17]: John Christianse, “[Singapore 1960 (Singapore Street Scenes)](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/5b00d128-1164-11e3-83d5-0050568939ad),” 1960, 8mm film, 19:34. (From National Archives of Singapore, accession no. 2005003229)
 
 
-[^18]: Radio Singapore, “Radio Talks By Prime Minister Lee Kuan Yew on ‘The Battle for Merger’,” 13 September 1961 to 9 October 1961, sound recordings. (From National Archives of Singapore, accession no. 1998001863)
+[^18]: Radio Singapore, “[Radio Talks By Prime Minister Lee Kuan Yew on ‘The Battle for Merger’](https://www.nas.gov.sg/archivesonline/audiovisual_records/TheBattleForMergerRadioTalks),” 13 September 1961 to 9 October 1961, sound recordings. (From National Archives of Singapore, accession no. 1998001863)
 
 
-[^19]: Radio Singapore, “选举歌 Election Song,” 19 May 1959, sound recording, 03:54. (From National Archives of Singapore, accession no. 1997019649)
-
-
-
-[^20]: United Nations Radio, “S. Rajaratnam’s Speech on Singapore’s Admission to the United Nations at UN’s 20th General Assembly,” 21 September 1965, sound recording, 14:18. (From National Archives of Singapore, accession no. 1997021196)
+[^19]: Radio Singapore, “[选举歌 Election Song](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/4cb136db-1164-11e3-83d5-0050568939ad),” 19 May 1959, sound recording, 03:54. (From National Archives of Singapore, accession no. 1997019649)
 
 
 
-[^21]: National Archives of Singapore, “National Day Rally Highlights,” 16 August 1968, video recording, 11.58. (From National Archives of Singapore, accession no. 2015004542)
+[^20]: United Nations Radio, “[S. Rajaratnam’s Speech on Singapore’s Admission to the United Nations at UN’s 20th General Assembly](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/4d33441f-1164-11e3-83d5-0050568939ad),” 21 September 1965, sound recording, 14:18. (From National Archives of Singapore, accession no. 1997021196)
+
+
+
+[^21]: National Archives of Singapore, “[National Day Rally Highlights](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/f4aee212-1332-11e5-9f6b-0050568939ad),” 16 August 1968, video recording, 11.58. (From National Archives of Singapore, accession no. 2015004542)
 
 
 [^22]: The two-inch quadruplex videotape format was developed and released by Ampex in 1956.
@@ -205,7 +205,7 @@ This transformation from physical to digital access represents more than just te
 [^23]: Media Development Authority Singapore, “MDA Digital Switchover,” 21 April 2015 (Factsheet).
 
 
-[^24]: The urgency to digitise documentary heritage stored on obsolete magnetic media was highlighted in the Magnetic Tape Alert Project. See Andrew Pace, “Magnetic Tape Alert Project,” International Association of Sound and Audiovisual Archives, accessed 6 April 2025, https://www.iasa-web.org/magnetic-tape-alert-project.
+[^24]: The urgency to digitise documentary heritage stored on obsolete magnetic media was highlighted in the Magnetic Tape Alert Project. See Andrew Pace, “Magnetic Tape Alert Project,” International Association of Sound and Audiovisual Archives, accessed 6 April 2025, [https://www.iasa-web.org/magnetic-tape-alert-project](https://www.iasa-web.org/magnetic-tape-alert-project).
 
 
-[^25]: National Archives of Singapore, “Sounds of Yesteryear (1903–1941)” and “Sounds of Yesteryear Vol. 2 (1945–1955),” shellac and vinyl records. (From National Archives of Singapore)
+[^25]: National Archives of Singapore, “[Sounds of Yesteryear (1903–1941)](https://www.nas.gov.sg/archivesonline/audiovisual_records/highlights/f3f86c2d-6764-11e5-ac2a-0050568939ad)” and “[Sounds of Yesteryear Vol. 2 (1945–1955)](https://www.nas.gov.sg/archivesonline/soy2),” shellac and vinyl records. (From National Archives of Singapore)
