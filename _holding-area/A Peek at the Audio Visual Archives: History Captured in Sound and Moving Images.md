@@ -146,6 +146,9 @@ Challenges still persist in the access of content. Despite using technology to i
 
 Nevertheless, access to Singapore’s audiovisual heritage has never been more diverse or widespread. Through Archives Online (https://www.nas.gov.sg/archivesonline/audiovisual\_records/), the public can now explore a selection of historical sound recordings in “Sounds of Yesteryear (1903–1941)”, an initiative launched in 2017 to trace the development of the recording industry in Singapore, and its recent sequel released in 2024 that covers the period from 1945 to 1955.[^25]
 
+![](/images/Vol%2021%20Issue%202/Audiovisual/visual_banner.jpg)
+<div style="background-color:white;">Be enthralled by newly digitised classics, rarities and novelties from “Sounds of Yesteryear Vol. 2 (1945–1955)”, the latest instalment of the initiative launched in 2017 to trace the development of the recording industry in Singapore. <i>Courtesy of National Archives of Singapore.</i></div>
+
 These collections have transcended traditional boundaries, finding new audiences through platforms like Mediacorp’s mewatch, where _Stories of Yesteryear_ brings these historical treasures to contemporary viewers. Even air travellers can encounter curated selections from our archives through Singapore Airlines’ _Museum Showcase_ series on KrisWorld.
 
 This transformation from physical to digital access represents more than just technological progress, it reflects a fundamental shift in how we share and experience our collective memory. Machine learning and artificial intelligence (AI) are revolutionising how archives catalogue and access their collections. Besides speech-to-text technology, the AVA will continue to explore and use AI such as image recognition technology to identify faces and places in the vast video archives under its care and make them more searchable. It will pursue its objective to preserve and make Singapore’s audiovisual heritage more accessible than ever before.
