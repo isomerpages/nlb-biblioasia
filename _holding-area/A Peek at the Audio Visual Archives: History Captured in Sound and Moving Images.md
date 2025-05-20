@@ -9,7 +9,7 @@ description: ""
 
 By Phang Lai Tee
 
-![](/images/Vol%2021%20Issue%202/Audiovisual/visual_main.jpg)
+![](/images/Vol%2021%20Issue%202/Audiovisual/visual_main2.jpg)
 <div style="background-color:white;"> A screen grab showing residents looking out of their new flat in Toa Payoh housing estate, March 1967. <i> Image reproduced from Ministry of Culture, “Visiting New Flats,” 1967, 16 mm film, 02:06. (From National Archives of Singapore, accession no. 1982000183).</i></div>
 
 As the National Library Board celebrates its 30th anniversary in 2025, another milestone quietly unfolds at the National Archives of Singapore (NAS). The Audio-Visual Archives (AVA) department of the NAS also celebrates three decades of safeguarding and preserving Singapore’s audiovisual heritage.&nbsp;
