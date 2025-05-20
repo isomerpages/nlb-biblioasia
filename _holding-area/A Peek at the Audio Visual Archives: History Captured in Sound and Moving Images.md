@@ -38,7 +38,7 @@ Today, the Sound and Moving Image Laboratory (SMIL) of the NAS operates its own 
 
 The first documentary films that came under the custody of the NAS were produced by the Ministry of Culture in the 1960s.[^4] _Berita Singapura_, a key series, was produced in a news magazine format to document Singapore’s economic and sociocultural developments. They were shot in 35 mm silent film and released with voice-overs in all four official languages and two widely spoken Chinese dialects (Hokkien and Cantonese).&nbsp;
 
-![](/images/Vol%2021%20Issue%202/Audiovisual/visual_berita.jpg)
+![](/images/Vol%2021%20Issue%202/Audiovisual/visual_berita2.jpg)
 <div style="background-color:white;">A Berita Singapura film was screened at the Capitol with the movie, <i>Mission to Del Cobre</i>. <i>Image reproduced from The Straits Times, 5 January 1963, 4. (From NewspaperSG).</i></div>
 
 Each episode typically featured two to four segments, half devoted to serious informational topics illustrating schemes undertaken by the government for the benefit of the people, and the other half on light-hearted items depicting some interesting facet of Singapore life.[^5] This balanced approach both informed and entertained, making government policies accessible to the general public while celebrating Singapore’s diversity.
