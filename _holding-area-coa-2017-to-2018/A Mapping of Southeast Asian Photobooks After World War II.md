@@ -1166,74 +1166,74 @@ Zhuang, Wubin 庄吴斌. [_Shi hui dong nan ya she ying jiao xue de tu pu_](http
 
 [^33]: Faisal Aziz, Facebook message to author, 17 Feb 2014.
 
-34 Ridzki Noviansyah, interview by author, Jakarta, Indonesia, 15 Dec 2015.
+[^34]: Ridzki Noviansyah, interview by author, Jakarta, Indonesia, 15 Dec 2015.
 
-35 Ng Swan Ti, interview by author, Jakarta, Indonesia, 14 Dec 2015.
+[^35]: Ng Swan Ti, interview by author, Jakarta, Indonesia, 14 Dec 2015.
 
-36 Aditya Pratama, e-mail message to author, 26 Mar 2018.
+[^36]: Aditya Pratama, e-mail message to author, 26 Mar 2018.
 
-37 Akkara Naktamna, e-mail message to author, 28 Mar 2018.
+[^37]: Akkara Naktamna, e-mail message to author, 28 Mar 2018.
 
-38 Aditya Pratama, _Photo Books From Indonesia – Development and Role of Communities_, November 2017, accessed 30 June 2018, https://www.goethe.de/ins/id/en/kul/mag/21126073.html.
+[^38]: Aditya Pratama, _Photo Books From Indonesia – Development and Role of Communities_, November 2017, accessed 30 June 2018, https://www.goethe.de/ins/id/en/kul/mag/21126073.html.
 
-39 Felix Laureano, [_Recuerdos de Filipinas : album-libro : util para el estudio y conocimiento de los usos y costumbres de aquellas islas con treinta y siete fototipias tomadas y copiadas del natural_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13155603) \[Memories of the Philippines: Album-book; A tool for the study and understanding of the ways and customs of these islands with thirty-seven phototypies taken and copied from real life\] (Mandaluyong, Philippines: Cacho Publishing House, 2001). (From National Library Singapore, call no. RSEA 959.9 LAU)
+[^39]: Felix Laureano, [_Recuerdos de Filipinas : album-libro : util para el estudio y conocimiento de los usos y costumbres de aquellas islas con treinta y siete fototipias tomadas y copiadas del natural_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13155603) \[Memories of the Philippines: Album-book; A tool for the study and understanding of the ways and customs of these islands with thirty-seven phototypies taken and copied from real life\] (Mandaluyong, Philippines: Cacho Publishing House, 2001). (From National Library Singapore, call no. RSEA 959.9 LAU)
 
-40 [_The Long and Winding Road East Timor_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=10823937) (Jakarta: Alliance of Independent Journalists, 2001). (From National Library Singapore, call no. RART q779.91598092 HAS)
+[^40]: [_The Long and Winding Road East Timor_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=10823937) (Jakarta: Alliance of Independent Journalists, 2001). (From National Library Singapore, call no. RART q779.91598092 HAS)
 
-41 Sheila S. Coronel, [_Memory of Dances_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11934290) (Manila: Philippine Center for Investigative Journalism, 2002). (From National Library Singapore, call no. RSEA 959.90049921 COR)
+[^41]: Sheila S. Coronel, [_Memory of Dances_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11934290) (Manila: Philippine Center for Investigative Journalism, 2002). (From National Library Singapore, call no. RSEA 959.90049921 COR)
 
-42 Sheila S. Coronel, e-mail message to author, 29 Mar 2018.
+[^42]: Sheila S. Coronel, e-mail message to author, 29 Mar 2018.
 
-43 Sheila S. Coronel, e-mail message to author, 4 Apr 2018.
+[^43]: Sheila S. Coronel, e-mail message to author, 4 Apr 2018.
 
-44 Tommy Hafalla, [_Ili_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203140463) (Manila: MAPA Books, 2016). (From National Library Singapore, call no. RART 779.2095991 HAF)
+[^44]: Tommy Hafalla, [_Ili_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203140463) (Manila: MAPA Books, 2016). (From National Library Singapore, call no. RART 779.2095991 HAF)
 
-45 RJ Fernandez, e-mail message to author, 4 Apr 2018.
+[^45]: RJ Fernandez, e-mail message to author, 4 Apr 2018.
 
-46 Pratama, _Photo Books From Indonesia – Development and Role of Communities._
+[^46]: Pratama, _Photo Books From Indonesia – Development and Role of Communities._
 
-47 Ng, interview, 14 Dec 2015.
+[^47]: Ng, interview, 14 Dec 2015.
 
-48 Reginald Davis, [_The Royal Family of Thailand_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4347591) (London: Nicholas Publications, 1981). (From National Library Singapore, call no. RSEA 959.3040924 DAV)
+[^48]: Reginald Davis, [_The Royal Family of Thailand_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4347591) (London: Nicholas Publications, 1981). (From National Library Singapore, call no. RSEA 959.3040924 DAV)
 
-49 Malaiya lao gong dang li shi tu pian ji [马来亚劳工党历史图片集](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14368135) \[Labour Party of Malaya album of historical photographs\] (吉隆坡：劳工党党史全国工委会, 2000). (From National Library Singapore, call no. Chinese RSING 324.259507 MLY-\[YOS\])
+[^49]: Malaiya lao gong dang li shi tu pian ji [马来亚劳工党历史图片集](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14368135) \[Labour Party of Malaya album of historical photographs\] (吉隆坡：劳工党党史全国工委会, 2000). (From National Library Singapore, call no. Chinese RSING 324.259507 MLY-\[YOS\])
 
-50 Cheah Boon-Kheng, “The Left-Wing Movement in Malaya, Singapore and Borneo in the 1960s: ‘An Era of Hope or Devil’s Decade’?” _Inter-Asia Cultural Studies_ 7, no. 4 (December 2006): 639–43, [https://www.tandfonline.com/doi/abs/10.1080/14649370600983196](https://www.tandfonline.com/doi/abs/10.1080/14649370600983196).
+[^50]: Cheah Boon-Kheng, “The Left-Wing Movement in Malaya, Singapore and Borneo in the 1960s: ‘An Era of Hope or Devil’s Decade’?” _Inter-Asia Cultural Studies_ 7, no. 4 (December 2006): 639–43, [https://www.tandfonline.com/doi/abs/10.1080/14649370600983196](https://www.tandfonline.com/doi/abs/10.1080/14649370600983196).
 
-51 [_Malaiya lao gong dang li shi tu pian ji_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14368135), 152–56.
+[^51]: [_Malaiya lao gong dang li shi tu pian ji_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14368135), 152–56.
 
-52 [_Malaiya lao gong dang li shi tu pian ji_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14368135), 170–78.
+[^52]: [_Malaiya lao gong dang li shi tu pian ji_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14368135), 170–78.
 
-53 Zhuang Wubin 庄吴斌, [_Shi hui dong nan ya she ying jiao xue de tu pu_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203103819) 试绘东南亚摄影教学的图谱 \[Teaching photography in Southeast Asia: Altentative mapping\] (台北市: 国立台北艺术大学关渡美术馆, 2017). (From National Library Singapore, call no. Chinese RSEA 770.71059 ZWB)
+[^53]: Zhuang Wubin 庄吴斌, [_Shi hui dong nan ya she ying jiao xue de tu pu_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203103819) 试绘东南亚摄影教学的图谱 \[Teaching photography in Southeast Asia: Altentative mapping\] (台北市: 国立台北艺术大学关渡美术馆, 2017). (From National Library Singapore, call no. Chinese RSEA 770.71059 ZWB)
 
-54 Photographic Society of Singapore, [_Photographic Society of Singapore, Seven Men Photo Exhibition at the Victoria Memorial Hall, 6th and 7th March, 1965_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4407104) (\[Singapore: Photographic Society of Singapore, 1965\]). (From National Library Singapore, call no. RCLOS 779 PHO)
+[^54]: Photographic Society of Singapore, [_Photographic Society of Singapore, Seven Men Photo Exhibition at the Victoria Memorial Hall, 6th and 7th March, 1965_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4407104) (\[Singapore: Photographic Society of Singapore, 1965\]). (From National Library Singapore, call no. RCLOS 779 PHO)
 
-55 Photographic Society of Singapore, [_Photographic Society of Singapore, Seven Men Photo Exhibition at the Victoria Memorial Hall, 6th and 7th March, 1965_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4407104), foreword.
+[^55]: Photographic Society of Singapore, [_Photographic Society of Singapore, Seven Men Photo Exhibition at the Victoria Memorial Hall, 6th and 7th March, 1965_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4407104), foreword.
 
-56 Photographic Society of Singapore, [_Photographic Society of Singapore, Seven Men Photo Exhibition at the Victoria Memorial Hall, 6th and 7th March, 1965_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4407104), 135.
+[^56]: Photographic Society of Singapore, [_Photographic Society of Singapore, Seven Men Photo Exhibition at the Victoria Memorial Hall, 6th and 7th March, 1965_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4407104), 135.
 
-57 Renhui Robert Zhao, [_Mynas_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202919391) (Singapore: Institute of Critical Zoologists, 2016). (From PublicationSG)
+[^57]: Renhui Robert Zhao, [_Mynas_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202919391) (Singapore: Institute of Critical Zoologists, 2016). (From PublicationSG)
 
-58 Chua Tiag Ming 蔡哲民, _Zhemin ying ji_ [哲民影集](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14305499) \[Photography in action\] (Singapore: s.n., 1978). (From National Library Singapore, call no. Chinese R 779 CTM)
+[^58]: Chua Tiag Ming 蔡哲民, _Zhemin ying ji_ [哲民影集](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14305499) \[Photography in action\] (Singapore: s.n., 1978). (From National Library Singapore, call no. Chinese R 779 CTM)
 
-59 Chua, [_Zhemin ying ji_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14305499), 1.
+[^59]: Chua, [_Zhemin ying ji_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14305499), 1.
 
-60 Brunei Shell Petroleum Company, [_Brunei Darus Salam: Gambar2 Menunjokkan Negeri Dan Pendudok-Nya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5260096) \[Brunei Darus Salam: A pictorial review of the land and people\] (\[Seria\]: Brunei Shell Petroleum, \[1968?\]). (From National Library, Singapore call no. Malay R 959.55 BRU)
+[^60]: Brunei Shell Petroleum Company, [_Brunei Darus Salam: Gambar2 Menunjokkan Negeri Dan Pendudok-Nya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5260096) \[Brunei Darus Salam: A pictorial review of the land and people\] (\[Seria\]: Brunei Shell Petroleum, \[1968?\]). (From National Library, Singapore call no. Malay R 959.55 BRU)
 
-61 Chen, [_Asia As Method: Toward Deimperialization_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13585903), 237.
+[^61]: 61 Chen, [_Asia As Method: Toward Deimperialization_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13585903), 237.
 
-62 Chen, [_Asia As Method: Toward Deimperialization_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13585903), 240.
+[^62]: Chen, [_Asia As Method: Toward Deimperialization_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13585903), 240.
 
-63 _Feng zhi juan: Xing Hua tu zhi_ [风之卷: 兴华图志](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202637201) \[A pictorial history of Hin Hua High School\]. (Malaysia: 兴华中学, 2013), 13. (From National Library Singapore, call no. Chinese RSEA 373.5951 XHZ
+[^63]: [_Feng zhi juan: Xing Hua tu zhi_ [风之卷: 兴华图志](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202637201) \[A pictorial history of Hin Hua High School\]. (Malaysia: 兴华中学, 2013), 13. (From National Library Singapore, call no. Chinese RSEA 373.5951 XHZ
 
-64 [_Feng zhi juan: Xing Hua tu zhi_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202637201), 13.
+[^64]: [_Feng zhi juan: Xing Hua tu zhi_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202637201), 13.
 
-65 Marjorie Doggett, [_Characters of Light: A Guide to the Buildings of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4139976) (Singapore: Donald Moore, 1957). (From National Library Singapore, call no. RCLOS 722.4095957 DOG)
+[^65]: Marjorie Doggett, [_Characters of Light: A Guide to the Buildings of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4139976) (Singapore: Donald Moore, 1957). (From National Library Singapore, call no. RCLOS 722.4095957 DOG)
 
-66 Doggett, [_Characters of Light_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4139976), vi.
+[^66]: Doggett, [_Characters of Light_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4139976), vi.
 
-67 Doggett, [_Characters of Light_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4139976), vii–ix.
+[^67]: Doggett, [_Characters of Light_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4139976), vii–ix.
 
-68 Marjorie Doggett, [_Characters of Light_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4139976) (Singapore: Times Books International, 1985). (From National Library Singapore, call no. RSING 722.4095957 DOG)
+[^68]: Marjorie Doggett, [_Characters of Light_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4139976) (Singapore: Times Books International, 1985). (From National Library Singapore, call no. RSING 722.4095957 DOG)
 
-69 Doggett, [_Characters of Light_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4139976), viii.
+[^69]: Doggett, [_Characters of Light_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4139976), viii.
