@@ -1,7 +1,7 @@
 ---
 title: BiblioAsia Apr–Jun 2025
 permalink: /vol-21/issue-1/apr-jun-2025/
-date: 2025-03-04
+date: 2025-04-01
 layout: post
 description: ""
 image: ""
