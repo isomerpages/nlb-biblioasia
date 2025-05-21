@@ -9,6 +9,9 @@ description: ""
 
 By Phang Lai Tee
 
+![](/images/Vol%2021%20Issue%202/Audiovisual/visual_main2.jpg)
+<div style="background-color:white;"> A screen grab showing residents looking out of their new flat in Toa Payoh housing estate, March 1967. <i> Image reproduced from Ministry of Culture, “Visiting New Flats,” 1967, 16 mm film, 02:06. (From National Archives of Singapore, accession no. 1982000183).</i></div>
+
 As the National Library Board celebrates its 30th anniversary in 2025, another milestone quietly unfolds at the National Archives of Singapore (NAS). The Audio-Visual Archives (AVA) department of the NAS also celebrates three decades of safeguarding and preserving Singapore’s audiovisual heritage.&nbsp;
 
 The AVA department manages an extensive collection of audiovisual documents such as films, radio and television programmes. It also preserves audio records dating to as early as 1903.&nbsp; These records offer a glimpse into the rich tapestry of Singapore’s history, culture and heritage.
@@ -35,13 +38,19 @@ Today, the Sound and Moving Image Laboratory (SMIL) of the NAS operates its own 
 
 The first documentary films that came under the custody of the NAS were produced by the Ministry of Culture in the 1960s.[^4] _Berita Singapura_, a key series, was produced in a news magazine format to document Singapore’s economic and sociocultural developments. They were shot in 35 mm silent film and released with voice-overs in all four official languages and two widely spoken Chinese dialects (Hokkien and Cantonese).&nbsp;
 
+![](/images/Vol%2021%20Issue%202/Audiovisual/visual_berita2.jpg)
+<div style="background-color:white;">A Berita Singapura film was screened at the Capitol with the movie, <i>Mission to Del Cobre</i>. <i>Image reproduced from The Straits Times, 5 January 1963, 4. (From NewspaperSG).</i></div>
+
 Each episode typically featured two to four segments, half devoted to serious informational topics illustrating schemes undertaken by the government for the benefit of the people, and the other half on light-hearted items depicting some interesting facet of Singapore life.[^5] This balanced approach both informed and entertained, making government policies accessible to the general public while celebrating Singapore’s diversity.
 
 These films were initially screened in local cinemas.[^6] After Television Singapura’s historic launch on 15 February 1963, they were also broadcast on television. Versions in 16 mm format were issued to the Ministry of Culture’s Field Section for screening at public gathering spots such as community centres and rural villages. Copies were also made available in the film library for borrowing by schools, associations, clubs and other organisations.[^7]
 
-Highlights include a film titled _Visiting New Flats_, which captures a historic moment in Singapore’s public housing journey.[^8] In March 1967, residents from the Crawford and Outram areas were invited to tour their future homes in Toa Payoh housing estate. These weekend tours were organised by the Housing and Development Board for families who were being relocated from their villages.
+Highlights include a film titled [_Visiting New Flats_](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/457a5f1f-1164-11e3-83d5-0050568939ad), which captures a historic moment in Singapore’s public housing journey.[^8] In March 1967, residents from the Crawford and Outram areas were invited to tour their future homes in Toa Payoh housing estate. These weekend tours were organised by the Housing and Development Board for families who were being relocated from their villages.
 
-The series also documents a charming slice of local culture from 1963, featuring an annual bird singing competition at the now-defunct Jubilee Malay School.[^9]
+The series also documents a charming slice of local culture from 1963, featuring an annual [bird singing competition](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/457941a8-1164-11e3-83d5-0050568939ad) at the now-defunct Jubilee Malay School.[^9]
+
+![](/images/Vol%2021%20Issue%202/Audiovisual/visual_bird.jpg)
+<div style="background-color:white;"> A screen grab from the annual bird singing competition at Jubilee Malay School, 1963. <i>Image reproduced from Ministry of Culture, “Bird Singing Competition,” 1963, 16 mm film, 01:30. (From National Archives of Singapore, accession no. 1982000048).</i></div>
 
 #### Radio and Television Programmes
 
@@ -70,17 +79,29 @@ The only problem was that Sim was given only a day to collect them, and once he 
 
   
 
-Sim eventually donated over 4,700 open reels of Rediffusion broadcasts to the NAS for preservation. Some of the highlights in this collection include popular Hokkien radio plays adapted from the Chinese classic _Journey to the West_ (西游记) performed by Rediffusion’s Hokkien drama group and Sunday Cantonese Drama (粤语星期日剧场) by its Cantonese drama group.[^14] Some of the performers in these early Hokkien radio plays, such as Lin Ru Ping (林茹萍), have become well-known local media personalities today.&nbsp;
+Sim eventually donated over 4,700 open reels of Rediffusion broadcasts to the NAS for preservation. Some of the highlights in this collection include popular Hokkien radio plays adapted from the Chinese classic [_Journey to the West_ (西游记)](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/683babdd-1164-11e3-83d5-0050568939ad) performed by Rediffusion’s Hokkien drama group and [Sunday Cantonese Drama (粤语星期日剧场)](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/683d0ffc-1164-11e3-83d5-0050568939ad) by its Cantonese drama group.[^14] Some of the performers in these early Hokkien radio plays, such as Lin Ru Ping (林茹萍), have become well-known local media personalities today.&nbsp;
 
 #### Through Private Lenses: Home Movies
 
 Beyond official broadcasts and government documentaries lie a more intimate window into Singapore’s past – home movies. These amateur films, shot on 8 mm, Super 8 and 16 mm film by ordinary citizens and expatriates working in Singapore, offer glimpses into the private lives of Singapore residents from the 1930s to the 1970s.&nbsp;
 
+
+![](/images/Vol%2021%20Issue%202/Audiovisual/visual_residents.jpg)
+<div style="background-color:white;"> A screen grab showing residents admiring the view of Toa Payoh housing estate, March 1967. <i> Image reproduced from Ministry of Culture, “Visiting New Flats,” 1967, 16 mm film, 02:06. (From National Archives of Singapore, accession no. 1982000183).</i></div>
+
 These early home movies are particularly valuable as they were made at a time when film cameras were luxury items typically owned by more affluent families and expatriates. Wedding ceremonies, birthday celebrations, family holidays in neighbouring countries as well as casual street scenes shot in Chinatown and by the Singapore River document Singapore’s family lives and changing urban landscapes as seen through private eyes.[^15]
 
-The oldest home movie preserved by the NAS is a 16 mm film titled _Wedding and Family Footage of Peranakan Family, Circa 1930_ from the Tan Geok Choo (née Law) Collection.[^16] Although the identities of the bride and groom remain unknown, this black-and-white film provides rare documentation of a Peranakan wedding and glimpses of&nbsp; family life during that era.
+![](/images/Vol%2021%20Issue%202/Audiovisual/visual_river.jpg)
+<div style="background-color:white;"> A screen grab showing the Singapore River, 1960. <i>Image reproduced from John Christianse, Singapore 1960 (Singapore Street Scenes), 1960, 8 mm film, 19:34 (From National Archives of Singapore, accession no. 2005003229).</i></div>
 
-John Christianse’s _Singapore 1960_, on 8 mm colour film, showcases various street scenes in Singapore. Locations such as Chinatown, the Singapore River and the Kallang Basin areas have since undergone significant transformation or given way to urban development.[^17]
+
+The oldest home movie preserved by the NAS is a 16 mm film titled [_Wedding and Family Footage of Peranakan Family, Circa 1930_](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/6793a637-1164-11e3-83d5-0050568939ad) from the Tan Geok Choo (née Law) Collection.[^16] Although the identities of the bride and groom remain unknown, this black-and-white film provides rare documentation of a Peranakan wedding and glimpses of&nbsp; family life during that era.
+
+![](/images/Vol%2021%20Issue%202/Audiovisual/visual_peranakan.jpg)
+<div style="background-color:white;"> A screen grab from a Peranakan wedding,
+c. 1930. <i>Image reproduced from Tan Geok Choo (née Law) Collection, “Wedding and Family Footage of Peranakan Family, Circa 1930,” 16mm film, 06:44. (From National Archives of Singapore, accession no. 2010000429).</i></div>
+
+John Christianse’s [_Singapore 1960_](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/5b00d128-1164-11e3-83d5-0050568939ad), on 8 mm colour film, showcases various street scenes in Singapore. Locations such as Chinatown, the Singapore River and the Kallang Basin areas have since undergone significant transformation or given way to urban development.[^17]
 
 #### **Preservation Technology Then and Now**
 
@@ -88,14 +109,18 @@ Three decades of dedicated acquisition and preservation efforts have transformed
 
 The evolution of audiovisual formats in the NAS mirrors Singapore’s broadcasting technological developments and adoption. In the days before television, when radio ruled the airwaves, the voices of Singapore were captured on open-reel tapes – both from Radio Singapore and Rediffusion. These magnetic reels preserve crucial moments of our nation-building years in the 1950s and 1960s and were used till the early 1990s.
 
-Among these audio treasures are recordings that shaped Singapore’s political landscape: Prime Minister Lee Kuan Yew’s compelling 12-part Battle for Merger radio talks in English, Mandarin and Malay in 1961,[^18] the melodious Chinese election song encouraging the public to vote in the Legislative Assembly General Election on 30 May 1959,[^19] and the acceptance speech delivered by Minister for Foreign Affairs S. Rajaratnam on the admission of Singapore into the United Nations on 21 September 1965.[^20] Each reel captures not just sounds, but the hopes, anxieties and determination of a young nation finding its feet.
+Among these audio treasures are recordings that shaped Singapore’s political landscape: Prime Minister Lee Kuan Yew’s compelling 12-part [Battle for Merger radio talks](https://www.nas.gov.sg/archivesonline/audiovisual_records/TheBattleForMergerRadioTalks) in English, Mandarin and Malay in 1961,[^18] the melodious [Chinese election song](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/4cb136db-1164-11e3-83d5-0050568939ad) encouraging the public to vote in the Legislative Assembly General Election on 30 May 1959,[^19] and the acceptance speech delivered by Minister for Foreign Affairs S. Rajaratnam on the [admission of Singapore into the United Nations](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/4d33441f-1164-11e3-83d5-0050568939ad) on 21 September 1965.[^20] Each reel captures not just sounds, but the hopes, anxieties and determination of a young nation finding its feet.
 
 The arrival of television in 1963 ushered in a new chapter in the media archives. Initially, broadcasters relied on 16 mm silent films, with sound recorded separately on open reels – a technical challenge that required precise and meticulous synchronisation. The National Day Rally speech delivered in English by Prime Minister Lee at the National Theatre on 16 August 1968 was one example.&nbsp;
 
 For many years, Singaporeans were unable to see and hear Mr Lee’s speech at the same time as the film footage captured only the moving image of Mr Lee  
-while the sound was recorded on an open-reel audiotape. However, digitisation of the film and the audio in 2015 enabled the preservation specialist to painstakingly synchronise the digitised image with the sound. This synchronised digital video has been streamed online for public access since 2016.[^21]
+while the sound was recorded on an open-reel audiotape. However, digitisation of the film and the audio in 2015 enabled the preservation specialist to painstakingly synchronise the digitised image with the sound. This [synchronised digital video](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/f4aee212-1332-11e5-9f6b-0050568939ad) has been streamed online for public access since 2016.[^21]
 
 A significant change came in 1967 when the Curriculum Development Institute of Singapore pioneered the use of two-inch quadruplex videotapes[^22] for educational programming, marking Singapore’s first steps into the video age. From 1967 to the 1980s, educational television programmes complemented classroom teaching and textbook learning.
+
+![](/images/Vol%2021%20Issue%202/Audiovisual/visual_tape.jpg)
+<div style="background-color:white;"> A two-inch quadruplex tape weighing 5.5 kg per tape. <i>Courtesy of National Archives of Singapore. </i></div>
+
 
 The 1970s brought further technological advancement with the introduction of one-inch Type B and C tapes. Radio and Television Singapore readily adopted these new formats, using them for recording current affairs programmes, school debates, music programmes like Talentime and variety shows in the studios. The one-inch tapes were replaced by betacam tapes and DVCPro tapes in the 1990s. For every format used by the broadcasting stations, the NAS had to correspondingly invest in a wide range of obsolete replay equipment to playback, manage and preserve these analogue formats used in production and broadcast.
 
@@ -119,7 +144,10 @@ Behind the scenes, the work of making these materials discoverable has undergone
 
 Challenges still persist in the access of content. Despite using technology to improve search, pinpointing specific moments within recordings remains time-consuming. Often, users conducting keyword searches must still view or listen to entire recordings to locate precise segments of interest, a process that can test the patience of today’s social media-savvy audiences.
 
-Nevertheless, access to Singapore’s audiovisual heritage has never been more diverse or widespread. Through Archives Online (https://www.nas.gov.sg/archivesonline/audiovisual\_records/), the public can now explore a selection of historical sound recordings in “Sounds of Yesteryear (1903–1941)”, an initiative launched in 2017 to trace the development of the recording industry in Singapore, and its recent sequel released in 2024 that covers the period from 1945 to 1955.[^25]
+Nevertheless, access to Singapore’s audiovisual heritage has never been more diverse or widespread. Through [Archives Online](https://www.nas.gov.sg/archivesonline/audiovisual\_records/), the public can now explore a selection of historical sound recordings in “[Sounds of Yesteryear (1903–1941)](https://www.nas.gov.sg/archivesonline/audiovisual_records/highlights/f3f86c2d-6764-11e5-ac2a-0050568939ad)”, an initiative launched in 2017 to trace the development of the recording industry in Singapore, and its recent sequel released in 2024 that covers the period from 1945 to 1955.[^25]
+
+![](/images/Vol%2021%20Issue%202/Audiovisual/visual_banner.jpg)
+<div style="background-color:white;">Be enthralled by newly digitised classics, rarities and novelties from “Sounds of Yesteryear Vol. 2 (1945–1955)”, the latest instalment of the initiative launched in 2017 to trace the development of the recording industry in Singapore. <i>Courtesy of National Archives of Singapore.</i></div>
 
 These collections have transcended traditional boundaries, finding new audiences through platforms like Mediacorp’s mewatch, where _Stories of Yesteryear_ brings these historical treasures to contemporary viewers. Even air travellers can encounter curated selections from our archives through Singapore Airlines’ _Museum Showcase_ series on KrisWorld.
 
@@ -127,8 +155,27 @@ This transformation from physical to digital access represents more than just te
 
 
 
+<div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
+<b>FAR AND WIDE 
+</b><br><br>Since its formation in 1995, the Audio-Visual Archives department has been proactive in forging ties with the international audiovisual archival community and professional associations around the world. These provide the forums for audiovisual archivists to congregate with the archive fraternity to exchange ideas and keep abreast of international and regional developments in audiovisual archiving, as well as seek new and continual training for archivists.
+	<br><br>
+Some of the key audiovisual conferences, symposiums and workshops that the National Archives of Singapore (NAS) has hosted/co-hosted include:
+<br>
+•	Joint IASA-SEAPAVAA (Southeast Asia-Pacific Audiovisual Archive Association) Conference, 3–7 July 2000. This is the first time that the International Association of Sound and Audiovisual Archives (IASA) held its conference in Southeast Asia. It also marked the first time that the National Archives of Singapore hosted an international conference on audiovisual archiving.
+<br>
+•	ASEAN-COCI (Committee on Culture and Information) Workshop on the Preservation of Audiovisual Records, 17–20 November 2008.
+	<br>
+•	Workshop on Digital Preservation of Audiovisual Archives, 27– 29 February 2012. The workshop was organised as part of a series of skills development lectures and workshops tapping into Singapore-France funding.
+	<br>
+•	Joint Technical Symposium (JTS) 2016, an event of the Coordinating Council of Audiovisual Archives Associations. This is the first time that the symposium came to Asia since the JTS started in 1983. It was co-hosted by the National Archives of Singapore and SEAPAVAA.
+	<br>
+•	Workshop on Preservation of AV Materials, 24–25 June 2019. Organised in conjunction with the 2019 SARBICA (Southeast Asia Regional Branch of the International Council on Archives) International Symposium.
+</div>
+
+
+
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src="/images/Authors/DrJohnBray2t.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/PhangLaiTee.png">
 <b>Dr Phang Lai Tee</b>&nbsp;is a Senior Principal Archivist at the National Archives of Singapore. Since her early days recording children's radio programmes at the Radio and Television Singapore, she has nurtured a deep passion for audiovisual archiving. </div>
 
 #### **Notes**
