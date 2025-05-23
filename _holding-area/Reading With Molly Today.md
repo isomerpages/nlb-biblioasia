@@ -59,7 +59,8 @@ Working together with community partners to help these families become familiar 
 
 
 <div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
-This study is conducted by researchers from the National Institute of Education, Nanyang Technological University, in partnership with the National Library Board, and supported by the Lee Kuan Yew School of Public Policy, National University of Singapore, under the Social Mobility Foundation Grant. To read the study, please visit https://hdl.handle.net/10497/29434.<br></div>
+This study is conducted by researchers from the National Institute of Education, Nanyang Technological University, in partnership with the National Library Board, and supported by the Lee Kuan Yew School of Public Policy, National University of Singapore, under the Social Mobility Foundation Grant. To read the study, please visit 
+<a href="https://hdl.handle.net/10497/29434">https://hdl.handle.net/10497/29434</a>.<br></div>
 
 
 <div style="background-color: white;">
