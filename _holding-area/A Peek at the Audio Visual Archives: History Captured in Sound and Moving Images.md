@@ -112,8 +112,7 @@ Among these audio treasures are recordings that shaped Singapore’s political l
 
 The arrival of television in 1963 ushered in a new chapter in the media archives. Initially, broadcasters relied on 16 mm silent films, with sound recorded separately on open reels – a technical challenge that required precise and meticulous synchronisation. The National Day Rally speech delivered in English by Prime Minister Lee at the National Theatre on 16 August 1968 was one example.&nbsp;
 
-For many years, Singaporeans were unable to see and hear Mr Lee’s speech at the same time as the film footage captured only the moving image of Mr Lee  
-while the sound was recorded on an open-reel audiotape. However, digitisation of the film and the audio in 2015 enabled the preservation specialist to painstakingly synchronise the digitised image with the sound. This [synchronised digital video](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/f4aee212-1332-11e5-9f6b-0050568939ad) has been streamed online for public access since 2016.[^21]
+For many years, Singaporeans were unable to see and hear Mr Lee’s speech at the same time as the film footage captured only the moving image of Mr Lee while the sound was recorded on an open-reel audiotape. However, digitisation of the film and the audio in 2015 enabled the preservation specialist to painstakingly synchronise the digitised image with the sound. This [synchronised digital video](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/f4aee212-1332-11e5-9f6b-0050568939ad) has been streamed online for public access since 2016.[^21]
 
 A significant change came in 1967 when the Curriculum Development Institute of Singapore pioneered the use of two-inch quadruplex videotapes[^22] for educational programming, marking Singapore’s first steps into the video age. From 1967 to the 1980s, educational television programmes complemented classroom teaching and textbook learning.
 
@@ -159,7 +158,7 @@ This transformation from physical to digital access represents more than just te
 </b><br><br>Since its formation in 1995, the Audio-Visual Archives department has been proactive in forging ties with the international audiovisual archival community and professional associations around the world. These provide the forums for audiovisual archivists to congregate with the archive fraternity to exchange ideas and keep abreast of international and regional developments in audiovisual archiving, as well as seek new and continual training for archivists.
 	<br><br>
 Some of the key audiovisual conferences, symposiums and workshops that the National Archives of Singapore (NAS) has hosted/co-hosted include:
-<br>
+<br><br>
 •	Joint IASA-SEAPAVAA (Southeast Asia-Pacific Audiovisual Archive Association) Conference, 3–7 July 2000. This is the first time that the International Association of Sound and Audiovisual Archives (IASA) held its conference in Southeast Asia. It also marked the first time that the National Archives of Singapore hosted an international conference on audiovisual archiving.
 <br>
 •	ASEAN-COCI (Committee on Culture and Information) Workshop on the Preservation of Audiovisual Records, 17–20 November 2008.
