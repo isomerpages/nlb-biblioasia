@@ -2,6 +2,8 @@ collections:
   holding-area:
     output: true
     order:
+      - "A Tale of Two Cities: Singapore Through the Lens of PS Teo and Ronni
+        Pinsler.md"
       - "A Peek at the Audio Visual Archives: History Captured in Sound and
         Moving Images.md"
       - Reading With Molly Today.md
