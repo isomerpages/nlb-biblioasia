@@ -53,7 +53,7 @@ My mother travelled a fair bit for work, attending conferences all over the worl
 <div style="background-color:white;"> Hedwig Aroozoo’s graduation from the University of Malaya, 1951. <i>Courtesy of Shirin Aroozoo.</i></div>
 
 ![](/images/Vol%2021%20Issue%202/Hedwig/hedwig_union.jpg)
-<div style="background-color:white;">Hedwig Aroozoo (in printed dress) with members of the 1st Students Union Council of the University of Malaya, 1950. <i>Courtesy of Shirin Aroozoo.</i></div>
+<div style="background-color:white;">Hedwig Aroozoo (in printed dress) with members of the first Students Union Council of the University of Malaya, 1950. <i>Courtesy of Shirin Aroozoo.</i></div>
 
 She would also bring home books on the countries she visited so that she could share her experiences with me. Hearing about all these places as a child made it all sound so exciting and exotic to me. As a result of her travels, she had friends from all over the world and I got to meet many of them, an experience that exposed me to lots of different cultures.&nbsp;
 
@@ -67,7 +67,7 @@ As I grew older, the idea of living abroad kept returning and I decided that I w
 My mother’s parenting style was ahead of her time and very forward-thinking. It was very important to her that I learn to be independent and not have to depend on anyone. I believe this is because she was a divorced woman in the 1960s and she had to raise me single-handedly. She was extremely proud and independent as a result. Her good friend Daisy Vaithilingam told me that when my mother was about to give birth to me at the hospital, she told Daisy to go home and that she would be fine. My mother gave birth to me alone with no family or friends around.
 
 ![](/images/Vol%2021%20Issue%202/Hedwig/hedwig_friend.jpg)
-<div style="background-color:white;">Hedwig Anuar with her good friend friend Daisy Vaithilingam, 1950s. <i>Courtesy of Shirin Aroozoo.</i></div>
+<div style="background-color:white;">Hedwig Anuar with her good friend Daisy Vaithilingam, 1950s. <i>Courtesy of Shirin Aroozoo.</i></div>
 
 #### **A Long-Distance Relationship**
 

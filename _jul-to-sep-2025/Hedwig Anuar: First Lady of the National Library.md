@@ -102,7 +102,7 @@ Anuar accomplished this task in a year with a whirlwind tour through the states,
 In recognition of her services, Anuar was awarded the Public Administration Medal (Gold) by the Singapore government in 1969.
 
 ![](/images/Vol%2021%20Issue%202/Hedwig%20%20%20First%20Lady/hedwig2_president.jpg)
-<div style="background-color:white;"> President Yusof Ishak presenting the Public Administration Medal (Gold) to Director of the National Library Hedwig Elizabeth Anuar at the 1969 National Day Awards investiture ceremony. <i>Courtesy of Shirin Aroozoo.</i></div>
+<div style="background-color:white;"> President Yusof Ishak presenting the Public Administration Medal (Gold) to National Library Director Hedwig Elizabeth Anuar at the 1969 National Day Awards investiture ceremony. <i>Courtesy of Shirin Aroozoo.</i></div>
 
 Aside from her contributions to the National Library, Anuar was also responsible for the creation of a national archive for Singapore. Historian K.G. (Kennedy Gordon) Tregonning, Raffles Professor of History at the University of Malaya, credited Anuar with pushing for the creation of the archive as a separate unit rather than just being a department in the library. She was also instrumental in liaising with Dutch archivist Frans Rijndert Johan Verhoeven, who had been the director-general of Malaysia’s National Archives from 1963 to 1966, and was appointed by UNESCO in 1967 to help set up Singapore’s archive. [^22]
 
@@ -135,7 +135,7 @@ One of the library heads who served under her, Wong Heng, credited her with obta
 
 While Anuar did try her best to establish a local library school, it did not happen till after her retirement. In 1991, Temasek Polytechnic and the National Book Development Council started a Certificate in Library and Information Studies course for para-professionals, which has since stopped. Two years later, Nanyang Technological University started a part-time Master of Science in Information Studies. [^32]
 
-The life of Hedwig Anuar is closely intertwined with the postcolonial development of Singapore’s libraries and literacy. She was recruited to head the development of library services at a time when Singapore was starting on its journey towards independence. But she never restricted herself to being a bureaucrat; instead, she established relationships and built networks with various people and organisations to promote reading, writing, publishing and even women’s awareness in Singapore. The world-class library system in Singapore today is thanks to the strong foundation laid by Anuar during her time as the director of the National Library.
+The life of Hedwig Anuar is closely intertwined with the postcolonial development of Singapore’s libraries and literacy. She was recruited to head the development of library services at a time when Singapore was starting on its journey towards independence. But she never restricted herself to being a bureaucrat; instead, she established relationships and built networks with various people and organisations to promote reading, writing, publishing and even women’s awareness in Singapore. The world-class library system in Singapore today exists thanks to the strong foundation laid by Anuar during her time as the director of the National Library.
 
 
 
