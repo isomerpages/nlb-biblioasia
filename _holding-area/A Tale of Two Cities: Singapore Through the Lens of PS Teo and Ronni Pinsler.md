@@ -73,5 +73,11 @@ The writers are also grateful to Ronni Pinsler for generously sharing his experi
 
 
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src="/images/Authors/LohChinEe.png">
-<b>Lu Wenshi</b>  is an Associate Professor with the English Language and Literature Academic Group, National Institute of Education, Nanyang Technological University. Her research focuses on literacy and literature education at the intersection of social class and globalisation.</div>
+<img style="width: 100px; height: 100px;" src="/images/Authors/LohChinEe654.png">
+<b>Lu Wenshi</b> &nbsp;is a Senior Manager with the National Archives of Singapore, who has an innate interest in photographs, old and contemporary. She oversees the speeches and press releases collections, content curation and crowdsourcing for the Archives Services department.</div>
+
+
+
+<div style="background-color: white;">
+<img style="width: 100px; height: 100px;" src="/images/Authors/LohChinEe654.png">
+<b>Ronnie Tan</b>&nbsp;is a Senior Archivist with the National Archives of Singapore, who has a keen interest in photography and history. He was previously a Senior Manager (Research) with the National Library Singapore, where he conducted research on public policy, library-related topics as well as historical research, including the Malayan Emergency (1948–60) and military history.</div>
