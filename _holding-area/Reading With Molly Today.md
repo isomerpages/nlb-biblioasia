@@ -12,7 +12,13 @@ Molly, the mobile library service by the National Library Board (NLB), continues
 
 The library service is supported by donations from the Kwan Im Thong Hood Cho Temple. Mini Mollys were introduced in 2014 to serve preschools under two schemes run by the Early Childhood Development Agency (ECDA) as well as children from lower-income households.[^1]
 
+![](/images/Vol%2021%20Issue%202/Molly/molly_mini.jpg)
+<div style="background-color:white;"> A Mini Molly, 2014. <i> Collection of the National Library Board.</i></div>
+
 Rolled out in 2016, the larger Big Molly serves disadvantaged communities such as individuals from orphanages, rental flats and welfare homes by bringing reading materials and library services to them. Big Molly visits neighbourhoods like Nee Soon,[^2] Punggol and Whampoa[^3] among many other heartlands and estates in Singapore on weekends,[^4] and special education schools and primary schools on weekdays.
+
+![](/images/Vol%2021%20Issue%202/Molly/molly_big.jpg)
+<div style="background-color:white;"> Big Molly was introduced in 2016 to replace an older Molly bus that was decommissioned. <i> Collection of the National Library Board.</i></div>
 
 Having access to a wide variety of books is a crucial factor to cultivate the joy of reading.[^5] Bringing Molly to neighbourhoods that include families living in rental flats is one way to ensure low-income families have access to books, narrowing the physical distance to public library resources.&nbsp;
 
@@ -37,7 +43,7 @@ During Molly visits, researchers provided information about library loan periods
 Nur Maya Edora, 7, is an avid reader both at home and in school. A library enthusiast, Maya often bugs her mother, Nur Hirma Sheeryn, to take her and her siblings to Punggol Regional Library, the library nearest to their residence. However, due to childcare reasons, travelling to the library as a family can be challenging for them.&nbsp;
 
 ![](/images/Vol%2021%20Issue%202/Molly/molly_maya.jpg)
-<div style="background-color:white;"> Nur Maya Edora and her dad Kamarul,
+<div style="background-color:white;"> Nur Maya Edora and her dad Kamarul Ariffin Hasrat Ali,
 12 April 2025. <i> Photo by Jimmy Yap.</i></div>
 
 Molly’s regular visits to their neighbourhood in Punggol allowed the family to visit and experience the library with convenience due to its proximity to their home. During the six months, Maya not only borrowed books for herself, but also picked out books for her younger sister. When asked how often she would like to visit Molly, Maya said: “I wish like every day.”&nbsp;
