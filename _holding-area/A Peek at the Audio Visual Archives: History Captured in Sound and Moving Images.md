@@ -95,7 +95,7 @@ The oldest home movie preserved by the NAS is a 16 mm film titled [_Wedding and 
 
 ![](/images/Vol%2021%20Issue%202/Audiovisual/visual_peranakan.jpg)
 <div style="background-color:white;"> A screen grab from a Peranakan wedding,
-c. 1930. <i>Image reproduced from Tan Geok Choo (née Law) Collection, “Wedding and Family Footage of Peranakan Family, Circa 1930,” 16mm film, 06:44. (From National Archives of Singapore, accession no. 2010000429).</i></div>
+c. 1930. <i>Image reproduced from Tan Geok Choo (née Law) Collection, “Wedding and Family Footage of Peranakan Family, Circa 1930,” 16 mm film, 06:44. (From National Archives of Singapore, accession no. 2010000429).</i></div>
 
 John Christianse’s [_Singapore 1960_](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/5b00d128-1164-11e3-83d5-0050568939ad), on 8 mm colour film, showcases various street scenes in Singapore. Locations such as Chinatown, the Singapore River and the Kallang Basin areas have since undergone significant transformation or given way to urban development.[^17]
 
@@ -212,7 +212,7 @@ Some of the key audiovisual conferences, symposiums and workshops that the Natio
 [^11]: Mohamad Karazie and Tan Jie Ling, “[The Awakening of the Modern Television Era: 50 Years of Colour TV in Singapore](https://biblioasia.nlb.gov.sg/vol-20/issue-3/oct-dec-2024/colour-tv-history-singapore/),” _BiblioAsia_ 20, no. 3 (October–December 2024): 4–9.
 
 
-[^12]: Jack Sim Juek Wah, oral history interview by Mark Wong, 11 June 2012, transcript and MP3 audio, Reel/Disc 16 of 16, National Archives of Singapore ([accession no. 003716](https://safe.menlosecurity.com/https:/www.nas.gov.sg/archivesonline/oral_history_interviews/interview/0037161)), 385.
+[^12]: Jack Sim Juek Wah, oral history interview by Mark Wong, 11 June 2012, transcript and MP3 audio, Reel/Disc 16 of 16, National Archives of Singapore ([accession no. 003716](https://safe.menlosecurity.com/https:/www.nas.gov.sg/archivesonline/oral_history_interviews/interview/003716)), 385.
 
 
 [^13]: Jack Sim Juek Wah, oral history interview, 11 June 2012, Reel/Disc 16 of 16, 386.
