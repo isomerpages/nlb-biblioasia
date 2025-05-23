@@ -39,7 +39,7 @@ Mazu devotion, which first came to Singapore in 1810, lives on in its traditions
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/origins-badang-strongman-singapore-stone/">Uncovering the Origins of Badang the Strongman</a><br>
-Badang the Strongman has become part of the story of early Singapore. But there is more to the story that meets the eye. *William L. Gibson*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_BadangtheStrongman.pdf)
+Badang the Strongman has become part of the story of early Singapore. But there is more to the story that meets the eye. *William L. Gibson*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_BadangtheStrongman2.pdf)
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/barbara-kerr-sharpshooter-school-principal-girl-guide/">Barbara Kerr: Sharpshooter, School Principal, Girl Guide Extraordinaire	</a><br>
