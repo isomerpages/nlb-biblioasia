@@ -12,7 +12,7 @@ By Phang Lai Tee
 ![](/images/Vol%2021%20Issue%202/Audiovisual/visual_main2.jpg)
 <div style="background-color:white;"> A screen grab showing residents looking out of their new flat in Toa Payoh housing estate, March 1967. <i> Image reproduced from Ministry of Culture, “Visiting New Flats,” 1967, 16 mm film, 02:06. (From National Archives of Singapore, accession no. 1982000183).</i></div>
 
-As the National Library Board celebrates its 30th anniversary in 2025, another milestone quietly unfolds at the National Archives of Singapore (NAS). The Audio-Visual Archives (AVA) department of the NAS also celebrates three decades of safeguarding and preserving Singapore’s audiovisual heritage.&nbsp;
+As the National Library Board celebrates its 30th anniversary in 2025, another milestone quietly unfolds at the National Archives of Singapore (NAS): This year, the Audio-Visual Archives (AVA) department of the NAS also celebrates three decades of safeguarding and preserving Singapore’s audiovisual heritage.&nbsp;
 
 The AVA department manages an extensive collection of audiovisual documents such as films, radio and television programmes. It also preserves audio records dating to as early as 1903.&nbsp; These records offer a glimpse into the rich tapestry of Singapore’s history, culture and heritage.
 
@@ -47,6 +47,10 @@ These films were initially screened in local cinemas.[^6] After Television Singa
 
 Highlights include a film titled [_Visiting New Flats_](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/457a5f1f-1164-11e3-83d5-0050568939ad), which captures a historic moment in Singapore’s public housing journey.[^8] In March 1967, residents from the Crawford and Outram areas were invited to tour their future homes in Toa Payoh housing estate. These weekend tours were organised by the Housing and Development Board for families who were being relocated from their villages.
 
+
+![](/images/Vol%2021%20Issue%202/Audiovisual/visual_residents.jpg)
+<div style="background-color:white;"> A screen grab showing residents admiring the view of Toa Payoh housing estate, March 1967. <i> Image reproduced from Ministry of Culture, “Visiting New Flats,” 1967, 16 mm film, 02:06. (From National Archives of Singapore, accession no. 1982000183).</i></div>
+
 The series also documents a charming slice of local culture from 1963, featuring an annual [bird singing competition](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/457941a8-1164-11e3-83d5-0050568939ad) at the now-defunct Jubilee Malay School.[^9]
 
 ![](/images/Vol%2021%20Issue%202/Audiovisual/visual_bird.jpg)
@@ -66,8 +70,7 @@ It is not well known but Singapore nearly lost all its dialect Rediffusion archi
 
   
 
-“When Rediffusion wanted to demolish their building in Hillview Road, there is a very big building and it has a lot of archive there, so I heard about it at a party in Cai Xuan’s (蔡萱)  
-house, Cai Xuan is a Senior Producer in Mediacorp and he is my neighbour, so I say, ‘Then, can I go and buy up the audio tapes?’ So he introduced me to the Rediffusion guy and then he has to ask his boss and it was really quite late when he told me, ‘You can have everything you want for $2,000.’”[^12]
+“When Rediffusion wanted to demolish their building in Hillview Road, there is a very big building and it has a lot of archive there, so I heard about it at a party in Cai Xuan’s (蔡萱) house, Cai Xuan is a Senior Producer in Mediacorp and he is my neighbour, so I say, ‘Then, can I go and buy up the audio tapes?’ So he introduced me to the Rediffusion guy and then he has to ask his boss and it was really quite late when he told me, ‘You can have everything you want for $2,000.’”[^12]
 
   
 
@@ -85,14 +88,7 @@ Sim eventually donated over 4,700 open reels of Rediffusion broadcasts to the NA
 
 Beyond official broadcasts and government documentaries lie a more intimate window into Singapore’s past – home movies. These amateur films, shot on 8 mm, Super 8 and 16 mm film by ordinary citizens and expatriates working in Singapore, offer glimpses into the private lives of Singapore residents from the 1930s to the 1970s.&nbsp;
 
-
-![](/images/Vol%2021%20Issue%202/Audiovisual/visual_residents.jpg)
-<div style="background-color:white;"> A screen grab showing residents admiring the view of Toa Payoh housing estate, March 1967. <i> Image reproduced from Ministry of Culture, “Visiting New Flats,” 1967, 16 mm film, 02:06. (From National Archives of Singapore, accession no. 1982000183).</i></div>
-
 These early home movies are particularly valuable as they were made at a time when film cameras were luxury items typically owned by more affluent families and expatriates. Wedding ceremonies, birthday celebrations, family holidays in neighbouring countries as well as casual street scenes shot in Chinatown and by the Singapore River document Singapore’s family lives and changing urban landscapes as seen through private eyes.[^15]
-
-![](/images/Vol%2021%20Issue%202/Audiovisual/visual_river.jpg)
-<div style="background-color:white;"> A screen grab showing the Singapore River, 1960. <i>Image reproduced from John Christianse, Singapore 1960 (Singapore Street Scenes), 1960, 8 mm film, 19:34 (From National Archives of Singapore, accession no. 2005003229).</i></div>
 
 
 The oldest home movie preserved by the NAS is a 16 mm film titled [_Wedding and Family Footage of Peranakan Family, Circa 1930_](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/6793a637-1164-11e3-83d5-0050568939ad) from the Tan Geok Choo (née Law) Collection.[^16] Although the identities of the bride and groom remain unknown, this black-and-white film provides rare documentation of a Peranakan wedding and glimpses of&nbsp; family life during that era.
@@ -102,6 +98,9 @@ The oldest home movie preserved by the NAS is a 16 mm film titled [_Wedding and 
 c. 1930. <i>Image reproduced from Tan Geok Choo (née Law) Collection, “Wedding and Family Footage of Peranakan Family, Circa 1930,” 16mm film, 06:44. (From National Archives of Singapore, accession no. 2010000429).</i></div>
 
 John Christianse’s [_Singapore 1960_](https://www.nas.gov.sg/archivesonline/audiovisual_records/record-details/5b00d128-1164-11e3-83d5-0050568939ad), on 8 mm colour film, showcases various street scenes in Singapore. Locations such as Chinatown, the Singapore River and the Kallang Basin areas have since undergone significant transformation or given way to urban development.[^17]
+
+![](/images/Vol%2021%20Issue%202/Audiovisual/visual_river.jpg)
+<div style="background-color:white;"> A screen grab showing the Singapore River, 1960. <i>Image reproduced from John Christianse, Singapore 1960 (Singapore Street Scenes), 1960, 8 mm film, 19:34 (From National Archives of Singapore, accession no. 2005003229).</i></div>
 
 #### **Preservation Technology Then and Now**
 
