@@ -27,6 +27,13 @@ The former category of photographs is found in the Studio De Luxe Collection, ca
 
 Before the advent of compact cameras, the photo studio was where most people were photographed, especially if portraits were needed. An individual might want or need a portrait, newlyweds would typically desire a wedding photograph to display at home, and families would take photographs, perhaps to mark a momentous event like a graduation or an addition to the family.&nbsp;
 
+![](/images/Vol%2021%20Issue%202/PS%20Teo/psteo_boy.jpg)
+<div style="background-color: white;"> A young boy posing for a studio photo to commemorate his birthday. Portraits taken on auspicious occasions in photo studios used to be the norm.  <i>Studio De Luxe Collection, courtesy of National Archives of Singapore (Media - Image no. 20090000119 – 0013).</i></div>
+
+
+![](/images/Vol%2021%20Issue%202/PS%20Teo/psteo_weddingfamily.jpg)
+<div style="background-color: white;"> Wedding photos like this one showcase how bridal fashions have changed over the years. <i>Studio De Luxe Collection, courtesy of National Archives of Singapore (Media - Image no. 20090000116 - 0035).</i></div>
+
 In 2007, the family of the late award-winning photographer Teo Poh Seng donated 26,000 negatives and photographs to the National Archives. Teo Poh Seng, or P.S. Teo as he was professionally known, was famous for capturing artistic black-and-white portraits of prominent people in Singapore, including supreme court judges, politicians, businessmen and local artistes.[^1]
 
 
