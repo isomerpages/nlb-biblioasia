@@ -5,6 +5,13 @@ description: ""
 third_nav_title: Arts
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/audio-visual-national-archives-singapore/">A Peek at the Audio-Visual Archives: History Captured in Sound and Moving Images</a>
+
+The National Archives of Singapore has been safeguarding Singapore’s rich audiovisual legacy for the last 30 years.
+
+<img src="/images/Vol%2021%20Issue%202/Audiovisual/visual_main2.jpg" style="width:80%;">  
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/liu-kang-forgotten-photographs-bali/">Forgotten Photographs of the 1952 Trip to Bali</a>
 A treasure trove of negatives found in an old shoebox sheds new light on a trip that led to an exhibition now regarded as a milestone in the history of Singapore art.
 
