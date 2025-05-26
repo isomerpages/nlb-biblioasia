@@ -26,13 +26,16 @@ Before the advent of compact cameras, the photo studio was where most people wer
 
 In 2007, the family of the late award-winning photographer Teo Poh Seng donated 26,000 negatives and photographs to the National Archives. Teo Poh Seng, or P.S. Teo as he was professionally known, was famous for capturing artistic black-and-white portraits of prominent people in Singapore, including supreme court judges, politicians, businessmen and local artistes.[^1]
 
-![](/images/Vol%2021%20Issue%202/PS%20Teo/psteo_colour.jpg)
-<div style="background-color: white;">Photos taken by Studio De Luxe were largely in black and white, before the advent of colour photography. This portrait of Singapore’s first chief minister, David Marshall, was among the first few portraits taken in colour. <i>Studio De Luxe Collection, courtesy of National Archives of Singapore (Media - Image no. 20250000067 - 0007).</i></div>
-
 
 ![](/images/Vol%2021%20Issue%202/PS%20Teo/psteo_chan.jpg)
 <div style="background-color: white;">Chan Choy Siong, wife of Ong Pang Boon, the first minister for home affairs. She was a city councillor, a member of the Legislative Assembly and member of parliament for Delta constituency. She was instrumental in setting up the People’s Action Party Women’s League (now known as the PAP Women’s Wing) and pushed for the passage of the Women’s Charter and monogamous marriages. <i>Studio De Luxe Collection, courtesy of National Archives of Singapore (Media - Image no. 20250000067 - 0006).</i></div>
 
+
+![](/images/Vol%2021%20Issue%202/PS%20Teo/psteo_sailor.jpg)
+<div style="background-color: white;">A sailor with the Royal Australian Navy serving onboard the Australian warship <i>HMAS Melbourne</i>. <i>Studio De Luxe Collection, courtesy of National Archives of Singapore (Media - Image no. 20090000121 - 0004).</i></div>
+
+![](/images/Vol%2021%20Issue%202/PS%20Teo/psteo_nurse.jpg)
+<div style="background-color: white;">This photo shows the sharp contrast in nurses’ uniforms in the 1960s and 1970s compared with the uniforms worn by nurses today. An obvious difference is that nurses today do not wear the headdress, also known as the nursing cap. <i>Studio De Luxe Collection, courtesy of National Archives of Singapore (Media - Image no. 20090000122 - 0003).</i></div>
 
 Born in 1930 in Sibu, Sarawak, Teo was the eldest of eight children. His father Teo Chong Kim, also known as Teo Chong Khim or C.K. Teo, and mother Lim Geok Lian relocated to Singapore in 1934.[^2]
 
@@ -52,6 +55,15 @@ After completing his secondary school education in 1949, Teo joined his father a
 Encouraged by his father, Teo took up a correspondence course at the Alpha School of Photography in London in 1952. He also subscribed to photography magazines and read books by well-known photographers such as Yousuf Karsh and Francis Wu, who both specialised in portraits; Wellington Lee, who did portrait and commercial work; and renowned landscape photographer Ansel Adams. Teo also participated in photography competitions and won awards.&nbsp;
 
 Teo was a master of his trade.[^5] He started taking photographs of notable people when he was only in his early 20s. He directed people like prominent businessmen, judges and politicians on how to pose.[^6] He took portraits of well-known personalities of the time – colonial judges, sultans, presidents, prime ministers and artistes including Rathi Karthigesu, a well-known classical Indian dancer and wife of Justice M. Karthigesu, a former High Court judge. Wedding photography was his specialty. The wedding photograph of Neo Chwee Kok, who, to date, is the only local swimmer to have won four gold medals in the Asian Games (an achievement that took place in 1951), is included in Studio De Luxe’s collection with the NAS.&nbsp;
+
+
+![](/images/Vol%2021%20Issue%202/PS%20Teo/psteo_colour.jpg)
+<div style="background-color: white;">Photos taken by Studio De Luxe were largely in black and white, before the advent of colour photography. This portrait of Singapore’s first chief minister, David Marshall, was among the first few portraits taken in colour. <i>Studio De Luxe Collection, courtesy of National Archives of Singapore (Media - Image no. 20250000067 - 0007).</i></div>
+
+![](/images/Vol%2021%20Issue%202/PS%20Teo/psteo_rathi.jpg)
+<div style="background-color: white;">Rathi Karthigesu, a well-known classical Indian dancer and wife of Justice
+M. Karthigesu, a former High Court judge. <i>Studio De Luxe Collection, courtesy of National Archives of Singapore (Media - Image no. 20250000067 - 0005).</i></div>
+
 
 
 ![](/images/Vol%2021%20Issue%202/PS%20Teo/psteo_wedding.jpg)
