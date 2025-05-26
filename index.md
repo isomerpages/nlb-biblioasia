@@ -9,13 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-21/issue-1/apr-jun-2025/liu-kang-collection/
-      button: "The Liu Kang Collection: A Portrait of the Artist as a Young Man"
+      url: /vol-21/issue-1/apr-jun-2025/origins-badang-strongman-singapore-stone/
+      button: Uncovering the Origins of Badang the Strongman
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 21 Issue 1/Liu Kang/HeroImage_liukang_2.jpg
+      background: /images/Vol 21 Issue 1/Badang/heroimg_badang1.jpg
       variant: center
   - infopic:
       title: "Books on Wheels: Singapore's Mobile Libraries"
