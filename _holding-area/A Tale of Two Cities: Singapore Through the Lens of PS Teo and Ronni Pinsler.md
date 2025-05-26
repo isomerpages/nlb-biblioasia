@@ -115,6 +115,9 @@ His rich knowledge of the extensive Taoist pantheon and his ability to identify 
 <div style="background-color: white;">  Man carrying night soil buckets along Clarke Quay, 1981.  <i>Ronni Pinsler Collection, courtesy of National Archives of Singapore (Media - Image no. 19990007086 - 018).</i></div>
 
 
+![](/images/Vol%2021%20Issue%202/PS%20Teo/psteo_karung.jpg)
+<div style="background-color: white;">A <i>karung guni</i> (or rag-and-bone) man collecting old newspapers in Serangoon Road, 1982.  <i>Ronni Pinsler Collection, courtesy of National Archives of Singapore (Media - Image no: 19990007467 - 0026).</i></div>
+
 Unlike studio photography, street photography captures spontaneous moments that are not posed, with the subject often unaware that they are being photographed. A photograph of _samsui_ women on a lorry was taken from Pinsler’s car while he was at a traffic stop. He said that _samsui_ women were mostly too shy to have their images taken, and recalled that one in front covered her face as soon as she saw his camera.[^13]
 
 ![](/images/Vol%2021%20Issue%202/PS%20Teo/psteo_samsui.jpg)
