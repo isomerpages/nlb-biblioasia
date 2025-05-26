@@ -26,6 +26,10 @@ Before the advent of compact cameras, the photo studio was where most people wer
 
 In 2007, the family of the late award-winning photographer Teo Poh Seng donated 26,000 negatives and photographs to the National Archives. Teo Poh Seng, or P.S. Teo as he was professionally known, was famous for capturing artistic black-and-white portraits of prominent people in Singapore, including supreme court judges, politicians, businessmen and local artistes.[^1]
 
+![](/images/Vol%2021%20Issue%202/PS%20Teo/psteo_colour.jpg)
+<div style="background-color: white;">Photos taken by Studio De Luxe were largely in black and white, before the advent of colour photography. This portrait of Singapore’s first chief minister, David Marshall, was among the first few portraits taken in colour. <i>Studio De Luxe Collection, courtesy of National Archives of Singapore (Media - Image no. 20250000067 - 0007).</i></div>
+
+
 Born in 1930 in Sibu, Sarawak, Teo was the eldest of eight children. His father Teo Chong Kim, also known as Teo Chong Khim or C.K. Teo, and mother Lim Geok Lian relocated to Singapore in 1934.[^2]
 
 
