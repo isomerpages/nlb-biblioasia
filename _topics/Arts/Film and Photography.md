@@ -9,7 +9,7 @@ variant: markdown
 
 The National Archives of Singapore has been safeguarding Singapore’s rich audiovisual legacy for the last 30 years.
 
-<img src="/images/Vol%2021%20Issue%202/Audiovisual/visual_main2.jpg" style="width:80%;">  
+<img src="/images/Vol%2021%20Issue%202/Audiovisual/visual_main2.jpg" style="width:100%;">  
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/liu-kang-forgotten-photographs-bali/">Forgotten Photographs of the 1952 Trip to Bali</a>
