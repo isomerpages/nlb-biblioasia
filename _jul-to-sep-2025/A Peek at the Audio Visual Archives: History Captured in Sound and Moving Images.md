@@ -1,7 +1,7 @@
 ---
 title: "A Peek at the Audio Visual Archives: History Captured in Sound and
   Moving Images"
-permalink: /holding-area/vol-21/issue-2/jul-sep-2025/a-peek-at-the-audio-visual-archives/
+permalink: /vol-21/issue-2/jul-sep-2025/audio-visual-national-archives-singapore/
 variant: markdown
 description: ""
 ---
