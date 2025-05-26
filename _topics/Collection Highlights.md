@@ -27,7 +27,7 @@ Materials donated by the Singapore Hokkien Huay Kuan offer unique perspectives i
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/collection-highlights/2024/2/trishaws-cargo-tricycle-transport-singapore/">The Trishaws and Tricycles of Singapore: Selected Photos by Liesel Strauss</a>
 
-These photos by Liesel Strauss spotlight the humble trishaw and cargo tricycle and remind of us of how Singapore used to be not too long ago.
+These photos by Liesel Strauss spotlight the humble trishaw and cargo tricycle and remind us of how Singapore used to be not too long ago.
   
 <img src="/images/Online%20Only%20Articles/Liesel_Trishaws/with_passenger.png" style="width:80%;">
 <hr>
