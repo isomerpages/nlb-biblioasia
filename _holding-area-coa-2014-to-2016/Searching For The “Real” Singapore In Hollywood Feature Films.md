@@ -4,7 +4,6 @@ permalink: /holding-area/chapters-on-asia-2014-2017/singapore-hollywood-feature-
 variant: markdown
 description: ""
 ---
-
 #### **Introduction**
 In January 1936, an article in *The Singapore Free Press and Mercantile
 Advertiser* remarked that with so many American filmmakers arriving
@@ -115,4 +114,75 @@ way for its cinematic success. Box office takings hit a million dollars within
 eight months of its release and the film was one of RKO ’s most profitable
 releases in 1932.16 Following its release, Buck travelled to London and the
 US , giving speeches to coincide with screenings.17
+
+Ostensibly a documentary, *Bring ’Em Back Alive* was heavily criticised by
+audiences in the know, with American naturalist Harry McGuire caustically
+calling Buck’s film a “hocus pocus” work of “nature faking” and *The Straits
+Times*’ correspondent going “hot under the collar” at the string of inaccuracies
+in the film.18 Buck bore the brunt of the bad press but pointed the finger of
+blame at Elliott instead. Elliott had readily admitted in public that scenes
+of a tiger being shot dead and a python fighting a crocodile had been staged
+for the camera.19 Buck said, “To my mind he has been very silly and rather
+ridiculous. All pictures are made to entertain people and if a fellow stands up
+and deliberately spoils the illusion he is biting the hand that feeds him…. I
+don’t mean we want to fool people – as a matter of fact the picture was made
+under more natural circumstances than any other of its kind.”20
+
+Such controversies were nothing new in the context of the times. Java expert
+Huber S. Banner commented, “The trouble is, though, that after seeing
+one of these jungle films that are all the rage nowadays – Frank Buck’s epic
+of the Malayan forests, *Bring ’Em Back Alive’*, for instance – nobody will
+believe that one doesn’t go about in constant peril.”21 *Bring ’Em Back Alive'*
+was quite likely one of the more realistic films of the genre, as Buck asserted,
+going by the detailed description in “How Frank Buck Filmed His Tiger-
+Python Battle”, an article from the American periodical *Modern Mechanix*
+and Inventions. When interviewed, Buck and the main cameraman, Nick
+Cavaliere, explained how they capitalised on normal patterns of animal
+behaviour around a watering hole by steering a tiger into a forced encounter
+with a python.22
+
+Yet there were many different levels of artifice involved in making *Bring ’Em
+Back Alive*; the realism of animal behaviour was only one aspect. The other
+was the locations where these scenes were shot. Viewers were led to believe that they were watching action from the heart of the Malayan jungle when,
+in fact, the close-up scenes were shot at Jurong Road just a few miles away
+from downtown Singapore.23 By providing a tropical location for filming,
+Singapore was an essential component in creating the illusion of realism
+that caught the attention of international audiences. Buck’s emphasis on
+a successful “illusion” and that “all pictures are made to entertain” made
+it clear that this form of filmmaking was of a different spirit from the
+newsreels and documentary films of an earlier era, which news agencies had
+continued to shoot.
+
+The criticisms of *Bring ’Em Back Alive* did not hold the Texan adventurer
+back from international fame and Buck churned out a constant succession
+of books and films in a similar vein: *Wild Cargo* (book, 1932; film, 1934),
+*Fang and Claw* (book and film, 1935), *On Jungle Trails* (book, 1936), *Jungle
+Menace* (a 15-part film serial, 1937), *Animals Are Like That* (book, 1939),
+*Jungle Cavalcade* (film compilation of footage from his first three films,
+1941), *All in a Lifetime* (autobiography, 1941), *Jacaré* (film, 1942), *Tiger Fangs*
+(film, 1943) and *Jungle Animals* (book, 1945).24
+
+Buck’s success was due partly to his larger-than-life persona but also to
+the prolific stream of works that kept him in the spotlight. A strategic
+interfacing of his stories in different forms exposed his works to different
+audiences and reinforced their impact. For example, in 1930, the book *Bring
+’Em Back Alive* became an international bestseller – appealing to audiences
+in both Buck’s own America, as well as to the British public, who were
+intrigued by the Malayan aspect of the empire. Two years later, the stories from *Bring ’Em Back Alive* were brought to life via moving pictures and the
+following year, in 1933, Buck set up a wild animal camp at the Century of
+Progress World’s Fair in Chicago, which was visited by two million visitors
+in the two years of its existence. In 1939, Buck brought the same camp
+exhibit, with thousands of wild animals, to the New York World’s Fair.25
+
+In this respect, Buck’s work made a far greater impact than that of his
+contemporary, Ernest B. Schoedsack, a director of travelogues on Persia and
+Siam who had travelled to Sumatra to make the orang-utan film, *Rango*
+(1931). Despite the fact that Elliot had noted that *Rango* was more authentic
+than *Bring ’Em Back Alive*, and that it was regarded by cinema historian
+Derek Bouse as possibly the “first fully-realised wildlife film, in the modern
+sense”, it failed to achieve box office success.26 *Bring ’Em Back Alive* brought
+fame not only to Buck, but also thrust Malaya into the consciousness of
+international audiences, with many cinemas even displaying maps. “At last,
+many people realised that Singapore is not in South Africa or China, or
+anywhere but where it is,” declared Elliott.27
 
