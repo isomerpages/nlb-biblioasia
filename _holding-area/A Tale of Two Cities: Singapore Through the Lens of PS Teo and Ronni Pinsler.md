@@ -189,13 +189,13 @@ The NAS receives photographs through transfers from two sources: namely governme
 
 
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src="/images/Authors/LohChinEe654.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/LuWenshi.png">
 <b>Lu Wenshi</b> &nbsp;is a Senior Manager with the National Archives of Singapore, who has an innate interest in photographs, old and contemporary. She oversees the speeches and press release collections, content curation and crowdsourcing for the Archives Services department.</div>
 
 
 
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src="/images/Authors/LohChinEe654.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/Ronnietan.png">
 <b>Ronnie Tan</b>&nbsp;is a Senior Archivist with the National Archives of Singapore, who has a keen interest in photography and history. He was previously a Senior Manager (Research) with the National Library Singapore, where he conducted research on public policy, library-related topics as well as historical research, including the Malayan Emergency (1948–60) and military history.</div>
 
 
