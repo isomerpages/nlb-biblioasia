@@ -2,8 +2,6 @@ collections:
   jul-to-sep-2025:
     output: true
     order:
-      - "A Peek at the Audio Visual Archives: History Captured in Sound and
-        Moving Images.md"
       - "From Colonial Vision to Key Memory Institution: A Short History of the
         National Library.md"
       - Writing the NLB Story.md
@@ -17,5 +15,7 @@ collections:
       - "Books on Wheels: Singapore's Mobile Libraries.md"
       - Reading With Molly Today.md
       - "Pages of Progress: The Toa Payoh Public Library.md"
+      - "A Peek at the Audio Visual Archives: History Captured in Sound and
+        Moving Images.md"
       - "Hedwig Anuar: First Lady of the National Library.md"
       - My Mother, Hedwig Anuar.md
