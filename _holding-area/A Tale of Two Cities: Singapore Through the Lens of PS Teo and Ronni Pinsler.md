@@ -16,6 +16,9 @@ The former category of photographs is found in the Studio De Luxe Collection, ca
 <div style="background-color: white;"> Run Run Shaw (left) and Runme Shaw (right) were collectively known as the Shaw brothers. They were the pioneers of the film and entertainment industry in Singapore and Malaya. <i>Studio De Luxe Collection, courtesy of National Archives of Singapore (Media – Image no. 20250000067 - 0002).</i></div>
 
 
+![](/images/Vol%2021%20Issue%202/PS%20Teo/psteo_hon.jpg)
+<div style="background-color: white;">Hon Sui Sen, Singapore’s minister for finance from 1970 until his death in 1983. <i>Studio De Luxe Collection, courtesy of National Archives of Singapore (Media -Image no. 20250000067 - 0004).</i></div>
+
 ![](/images/Vol%2021%20Issue%202/PS%20Teo/psteo_deluxe.jpg)
 <div style="background-color: white;"> Portrait of a child taken at Studio De Luxe. This is but one of the many artistic poses of P.S. Teo’s subjects for their studio photos.  <i>Studio De Luxe Collection, courtesy of National Archives of Singapore (Media – Image no. 20250000067 - 0001).</i></div>
 
