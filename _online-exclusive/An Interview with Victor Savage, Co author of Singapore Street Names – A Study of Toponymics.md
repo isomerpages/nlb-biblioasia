@@ -10,7 +10,7 @@ By Jimmy Yap
 
 <i>Singapore Street Names: A Study of Toponymics</i> was first published in 2003 and is now into its fourth edition. The fact that it has gone through so many updates is a testament to its enduring popularity.
 
-The work is co-authored by Victor Savage and Brenda Yeoh. When the book was first published two decades ago, both authors were colleagues at the Geography department at the National University of Singapore (NUS). Today, Yeoh continues to be a Professor with the department. She is also the Raffles Professor of Social Sciences at the university and is the research leader of the Asian Migration Research Cluster at the Asia Research Institute. Savage is a visiting fellow at the S Rajaratnam School of International Studies at Nanyang Technological University. Previously the head of the Geography department at NUS, he was also a director with the Office of Alumni Relations at the university.
+The work is co-authored by Victor Savage and Brenda Yeoh. When the book was first published two decades ago, both authors were colleagues at the Geography department at the National University of Singapore (NUS). Today, Yeoh continues to be a Professor with the department. She is also the Raffles Professor of Social Sciences at the university and is the research leader of the Asian Migration Research Cluster at the Asia Research Institute. Savage is a visiting fellow at the S. Rajaratnam School of International Studies at Nanyang Technological University. Previously the head of the Geography department at NUS, he was also a director with the Office of Alumni Relations at the university.
 
 In this interview, which has been condensed and edited for clarity, Jimmy Yap speaks to Savage to find out about how the book originally came about. Savage also recounts the stories behind how some of the entries were corrected or updated and reveals which road names gave him the biggest headaches.
 
@@ -63,7 +63,7 @@ Now we have the fourth edition. The third edition was about eight or nine years 
 <b>Victor</b><br>
 There is great demand for the book. When the publisher gives me trouble, I remind them that I’ve got five other publishers that would want this book. Nothing beats commercial success. For this kind of book, you’ve to piece together the bits and pieces, all the stories. It’s not something you can search. We understood this from the very first edition, so we knew that it [would] take time to cross-check. 
 
-One example is Mount Sophia. There is so much debate about who it’s named after. The owner of the land, Prinsep, had a daughter named Sophia. And then there was a headmistress of a school there [Methodist Mission Girls’ School] who was also named Sophia. The final verdict now is that it was named after Raffles’s second wife, Sophia Hull. Mount Sophia is also called the Second Governor’s Hill. His first residence is at Fort Canning Hill. You see the whole thing is hard to detect. 
+One example is Mount Sophia. There is so much debate about who it’s named after. The owner of the land, Prinsep, had a daughter named Sophia. And then there was a headmistress of a school there [Methodist Mission Girls’ School] who was also named Sophia. The final verdict now is that it was named after Raffles’ second wife, Sophia Hull. Mount Sophia is also called the Second Governor’s Hill. His first residence is at Fort Canning Hill. You see the whole thing is hard to detect. 
 
 <img style="width:40%;" src="/images/Online%20Only%20Articles/Interview%20with%20Victor%20Savage/sophia_blackmore.jpg">
 <div style="background-color: white;">Sophia Blackmore was the founder of the Methodist Mission Girls’ School which was, at one point, located on Sophia Road. <i>Image Reproduced From the Methodist Girls’ School Alumnae Presents a Night at the Opera With the Stars of the New York Metropolitan Opera. (Singapore: Methodist Girls’ School Alumnae Association, 1982), 4.</i>  From <a href="https://www.nlb.gov.sg/main/image-detail?cmsuuid=972f43e4-5f81-4ff1-86d4-e29882151ed5">National Library Online</a>.<br></div>
@@ -104,7 +104,7 @@ What were the main challenges?
 <b>Victor</b><br>
 Well, you go through every entry, and then you slowly correct them. It’s very tedious. It’s a back-breaking exercise. And you have to be patient and systematic. It's not like writing a political analysis, where you're at liberty to flog your ideas. Sometimes two people claim one road name, and we can’t solve the problem. 
 
-This French guy by the name of Jean Claude Fuchs, who lives in Normandy and has a Singaporean wife, was very fascinated with Farquhar, because Farquhar had a mistress, a Eurasian woman from Malacca with French ancestry. So, he would bug me about Farquhar. There is no road named after him. People get so worked up. It's not that Farquhar is French, but this guy is French and Farquhar’s mistress had French ancestry, so a road must be named after Farquhar.
+This French guy by the name of Jean-Claude Fuchs, who lives in Normandy and has a Singaporean wife, was very fascinated with Farquhar, because Farquhar had a mistress, a Eurasian woman from Malacca with French ancestry. So, he would bug me about Farquhar. There is no road named after him. People get so worked up. It's not that Farquhar is French, but this guy is French and Farquhar’s mistress had French ancestry, so a road must be named after Farquhar.
 
 <b>Jimmy</b><br> 
 Farquhar is obviously very important. Yet we see so many places named after Raffles. 
@@ -138,13 +138,13 @@ That would be nice.
 <b>Victor</b><br> 
 We talked about Changi Airport being named after Lee Kuan Yew, just like the Kennedy airport. We can have the LKY Airport. All these suggestions were there, but nothing never took off. I don't know whether the minister or whoever was too nervous to bring up these things. 
 
-There’s one more reason for the book: Petain Road. There’s a French guy who owns a gallery. He was very upset that there was a road named after Philippe Petain [head of the collaborationist regime of Vichy France during the Second World War]. He got hold of the residents of Petain Road. And 14 of them wanted to have the road name changed. I don't know how they got me into the picture. They said my name carries more weight when I write to the minister. So, I was the guy who wrote the petition with all their inputs. 
+There’s one more reason for the book: Petain Road. There’s a French guy who owns a gallery. He was very upset that there was a road named after Philippe Pétain [head of the collaborationist regime of Vichy France during the Second World War]. He got hold of the residents of Petain Road. And 14 of them wanted to have the road name changed. I don't know how they got me into the picture. They said my name carries more weight when I write to the minister. So, I was the guy who wrote the petition with all their inputs. 
 
 <b>Jimmy</b><br>
 When was this?
 
 <b>Victor</b><br>
-About two, three years ago. I wrote to the minister in charge at that time, Grace Foo. The research showed that all roads named after Petain throughout the world were all eradicated – except Singapore – because he was a traitor, a collaborator with the Nazi Germans. He collaborated with a regime that killed many Jews.  
+About two, three years ago. I wrote to the minister in charge at that time, Grace Fu. The research showed that all roads named after Petain throughout the world were all eradicated – except Singapore – because he was a traitor, a collaborator with the Nazi Germans. He collaborated with a regime that killed many Jews.  
 
 <b>Jimmy</b><br>
 It’s a compelling reason.
@@ -176,7 +176,7 @@ So we don’t know who Chip Bee is? It sounds like the name of a shop.
 <b>Victor</b><br>
 Holland Village was a swamp area. Then it got rejuvenated because of the British military down the road at Buona Vista. Then the British government built terrace houses at Chip Bee for the military commissioned officers. The other place name we don’t know about is Kovan. When you're dealing with place names, you need to find a connection that is plausible. Not just hearsay. 
 
-We’ve dealt with other issues, like red light districts [such as Desker Road]. I interviewed Barry Desker. He said that that they are a Portuguese-Malacca family, and their name was not Desker. It was originally Desquer. When his great-grandfather came to Singapore, because Singapore is a British colony, he anglicised the name from Desquer to Desker. 
+We’ve dealt with other issues, like red light districts [such as Desker Road]. I interviewed Barry Desker. He said that that they are a Portuguese-Malacca family, and their name was not Desker. It was originally Desquer. When his great-grandfather came to Singapore, because Singapore was a British colony, he anglicised the name from Desquer to Desker. 
 
 And then there is Xilin Avenue. Xilin is a <i>hanyu pinyin</i> name for Sek Lim, a Chinese man. I interviewed his grandchildren. He had a huge piece of land from Changi all the way to Bedok. The grandchildren said that their grandfather had seven wives. And he had built houses for all seven: four on one side of the Bedok river and three on the other side. The grandfather was very strict, and they were very scared of him. Yet his inheritance didn’t go to his children, but to the grandchildren. 
 	
