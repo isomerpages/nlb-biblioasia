@@ -62,7 +62,7 @@ Both the Ronni Pinsler and Studio De Luxe collections can be accessed on Archive
 
 The NAS has about 600 different photograph collections. Some of these come from private collections from personalities such as Yusof Ishak, Singapore’s first president, and Lim Nang Seng, the sculptor of the Merlion. There are also collections from local and foreign institutions like the Ministry of Information and the Arts (now Ministry of Digital Development and Information) and the National Archives of Australia.&nbsp;
 
-Members of the public are encouraged to explore all these photographs at https://www.nas.gov.sg/archivesonline/ and also check out what’s featured on our new virtual photographs curation at https://www.nas.gov.sg/archivesonline/throughthelens.
+Members of the public are encouraged to explore all these photographs at [https://www.nas.gov.sg/archivesonline/](https://www.nas.gov.sg/archivesonline/) and also check out what’s featured on our new virtual photographs curation at [https://www.nas.gov.sg/archivesonline/throughthelens](https://www.nas.gov.sg/archivesonline/throughthelens).
 
 
 <div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">The writers would like to thank Teo Soh Lung, sister of the late P.S. Teo, for consenting to the use of his photographs in this article. References have also been made to the book, <i>P.S. Teo, Photographer (1930–2005)</i>.
