@@ -1,10 +1,10 @@
 ---
 title: Reading With Molly Today
-permalink: /holding-area/vol-21/issue-2/jul-sep-2025/reading-with-molly-today/
+permalink: /vol-21/issue-2/jul-sep-2025/reading-molly-national-library-board/
 variant: markdown
 description: ""
 ---
-#### NLB’s mobile library service provides children with access to books and library services.&nbsp;
+#### According to a study, the mobile library service continues to be relevant as it helps children get more access to books.
 
 By Loh Chin Ee and Koh Yu Qun
 
@@ -12,7 +12,13 @@ Molly, the mobile library service by the National Library Board (NLB), continues
 
 The library service is supported by donations from the Kwan Im Thong Hood Cho Temple. Mini Mollys were introduced in 2014 to serve preschools under two schemes run by the Early Childhood Development Agency (ECDA) as well as children from lower-income households.[^1]
 
+![](/images/Vol%2021%20Issue%202/Molly/molly_mini.jpg)
+<div style="background-color:white;"> A Mini Molly, 2014. <i> Collection of the National Library Board.</i></div>
+
 Rolled out in 2016, the larger Big Molly serves disadvantaged communities such as individuals from orphanages, rental flats and welfare homes by bringing reading materials and library services to them. Big Molly visits neighbourhoods like Nee Soon,[^2] Punggol and Whampoa[^3] among many other heartlands and estates in Singapore on weekends,[^4] and special education schools and primary schools on weekdays.
+
+![](/images/Vol%2021%20Issue%202/Molly/molly_big.jpg)
+<div style="background-color:white;"> Big Molly was introduced in 2016 to replace an older Molly bus that was decommissioned. <i> Collection of the National Library Board.</i></div>
 
 Having access to a wide variety of books is a crucial factor to cultivate the joy of reading.[^5] Bringing Molly to neighbourhoods that include families living in rental flats is one way to ensure low-income families have access to books, narrowing the physical distance to public library resources.&nbsp;
 
@@ -37,7 +43,7 @@ During Molly visits, researchers provided information about library loan periods
 Nur Maya Edora, 7, is an avid reader both at home and in school. A library enthusiast, Maya often bugs her mother, Nur Hirma Sheeryn, to take her and her siblings to Punggol Regional Library, the library nearest to their residence. However, due to childcare reasons, travelling to the library as a family can be challenging for them.&nbsp;
 
 ![](/images/Vol%2021%20Issue%202/Molly/molly_maya.jpg)
-<div style="background-color:white;"> Nur Maya Edora and her dad Kamarul,
+<div style="background-color:white;"> Nur Maya Edora and her dad Kamarul Ariffin Hasrat Ali,
 12 April 2025. <i> Photo by Jimmy Yap.</i></div>
 
 Molly’s regular visits to their neighbourhood in Punggol allowed the family to visit and experience the library with convenience due to its proximity to their home. During the six months, Maya not only borrowed books for herself, but also picked out books for her younger sister. When asked how often she would like to visit Molly, Maya said: “I wish like every day.”&nbsp;
@@ -53,7 +59,8 @@ Working together with community partners to help these families become familiar 
 
 
 <div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
-This study is conducted by researchers from the National Institute of Education, Nanyang Technological University, in partnership with the National Library Board, and supported by the Lee Kuan Yew School of Public Policy, National University of Singapore, under the Social Mobility Foundation Grant. To read the study, please visit https://hdl.handle.net/10497/29434.<br></div>
+This study is conducted by researchers from the National Institute of Education, Nanyang Technological University, in partnership with the National Library Board, and supported by the Lee Kuan Yew School of Public Policy, National University of Singapore, under the Social Mobility Foundation Grant. To read the study, please visit 
+<a href="https://hdl.handle.net/10497/29434">https://hdl.handle.net/10497/29434</a>.<br></div>
 
 
 <div style="background-color: white;">
@@ -75,8 +82,7 @@ This study is conducted by researchers from the National Institute of Education,
 [^2]: “Molly Mobile Library @ Nee Soon Link Is Here Till End of the Year! Check It Out!”, Youth-niverse - Nee Soon Link Youth Network Facebook, 16 May 2024, [https://www.facebook.com/nsl.youthniverse/posts/molly-mobile-library-nee-soon-link-is-here-till-end-of-the-year-check-it-out/872616714903914/](https://www.facebook.com/nsl.youthniverse/posts/molly-mobile-library-nee-soon-link-is-here-till-end-of-the-year-check-it-out/872616714903914/).
 
 
-[^3]: “Catch Molly As She Visits Whampoa and McNair Estate on Sunday, 1.30 PM to 4.30 PM,”  
-Whampoa Community Facebook, 22 January 2025, [https://www.facebook.com/whampoacommunity.sg/photos/-attention-parents-exciting-news-for-families-who-love-books-molly-the-amazing-m/1037145995125388/?\_rdr](https://www.facebook.com/whampoacommunity.sg/photos/-attention-parents-exciting-news-for-families-who-love-books-molly-the-amazing-m/1037145995125388/?_rdr).
+[^3]: “Catch Molly As She Visits Whampoa and McNair Estate on Sunday, 1.30 PM to 4.30 PM,” Whampoa Community Facebook, 22 January 2025, [https://www.facebook.com/whampoacommunity.sg/photos/-attention-parents-exciting-news-for-families-who-love-books-molly-the-amazing-m/1037145995125388/?\_rdr](https://www.facebook.com/whampoacommunity.sg/photos/-attention-parents-exciting-news-for-families-who-love-books-molly-the-amazing-m/1037145995125388/?_rdr).
 
 
 [^4]: “Molly by NLB,” National Library Board Singapore Facebook, 21 October 2020, [https://www.facebook.com/story.php?story\_fbid=10157538455505924&amp;id=15924095923](https://www.facebook.com/story.php?story_fbid=10157538455505924&amp;id=15924095923).

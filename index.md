@@ -9,14 +9,24 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-21/issue-1/apr-jun-2025/liu-kang-collection/
-      button: "The Liu Kang Collection: A Portrait of the Artist as a Young Man"
+      url: /vol-21/issue-1/apr-jun-2025/origins-badang-strongman-singapore-stone/
+      button: Uncovering the Origins of Badang the Strongman
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 21 Issue 1/Liu Kang/HeroImage_liukang_2.jpg
+      background: /images/Vol 21 Issue 1/Badang/heroimg_badang1.jpg
       variant: center
+  - infopic:
+      title: The Story of the National Library
+      subtitle: Local Icons
+      id: infopic
+      description: The National Library Singapore began life in 1837 with a modest
+        collection of 392 publications belonging to the Singapore Free School.
+      button: COLLECTING SCATTERED LITERATURE
+      url: /vol-21/issue-2/jul-sep-2025/history-story-national-library-singapore/
+      image: /images/Vol 21 Issue 2/Story of National Library/NL_Story_topic.jpg
+      alt: Story of the National Library
   - infopic:
       title: "Books on Wheels: Singapore's Mobile Libraries"
       subtitle: Local Icons
@@ -1074,14 +1084,4 @@ sections:
       url: /videos/reels/print/
       alt: Image alt text
       image: "/images/Videos: BiblioAsia Reels/early_print.jpg"
-  - infopic:
-      title: The Story of the National Library
-      subtitle: Local Icons
-      id: infopic
-      description: The National Library Singapore began life in 1837 with a modest
-        collection of 392 publications belonging to the Singapore Free School.
-      button: COLLECTING SCATTERED LITERATURE
-      url: /vol-21/issue-2/jul-sep-2025/history-story-national-library-singapore/
-      image: /images/Vol 21 Issue 2/Story of National Library/NL_Story_topic.jpg
-      alt: Story of the National Library
 ---

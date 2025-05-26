@@ -4,6 +4,13 @@ permalink: /topics/print/
 description: ""
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/reading-molly-national-library-board/">Reading With Molly Today</a>
+
+According to a study, the mobile library service continues to be relevant as it helps children get more access to books.
+
+<img src="/images/Vol%2021%20Issue%202/Molly/Mollytruck_topic.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/ba-reels-print/2024/6/tools-of-the-trade/">Tools of the Trade: Letterpress Printing in Singapore</a>
 
 Letterpress printing may be obsolete today but the tools involved continue to be objects of fascination.
@@ -320,5 +327,3 @@ Records of family lineage were important in traditional Chinese society.&nbsp;**
 
 <img src="/images/vol-9-issue-4/jiapu/bg.jpg" style="width:80%;">
 <hr>
-
-

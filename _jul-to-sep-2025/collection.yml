@@ -2,6 +2,7 @@ collections:
   jul-to-sep-2025:
     output: true
     order:
+      - Reading With Molly Today.md
       - Writing the NLB Story.md
       - Legal Deposit Legislation in Singapore.md
       - "Hedwig Anuar: First Lady of the National Library.md"

@@ -85,7 +85,7 @@ The interior of Eu Villa, 1979. <i>Courtesy of National Archives of Singapore.</
 
 As a member of “the King’s Chinese”,[^14] Eu was mindful to hang an oil painting of King George V and Queen Mary prominently overlooking the dining room. Two massive gongs in the shape of bells summoned guests to dinner in the dining room lit by three huge chandeliers.[^15]&nbsp;
 
-The staircase leading up to the ballroom was flanked by a pair of Florentine nudes in white marble, and the stairs themselves were carpeted in red plush. In its heyday, the ballroom was said to have been the scene of many a glittering event. A key feature of the ballroom was the large stained glass window.[^16]&nbsp;
+The staircase leading up to the ballroom was flanked by a pair of Florentine nudes in white marble and the stairs themselves were carpeted in red plush. In its heyday, the ballroom was said to have been the scene of many a glittering event. A key feature of the ballroom was the large stained glass windows.[^16]&nbsp;
 
 <div style="background-color: white;">
 <br>
@@ -109,7 +109,7 @@ More bedrooms and bathrooms were found on the third floor, which also boasted a 
 
 #### **Other Amenities**
 
-The sheer size of Eu Villa according necessitated a large kennel of dogs to patrol and guard the property.[^21] The security staff included five watchmen and a pack of Alsatians, Mastiffs and Great Danes.
+The sheer size of Eu Villa accordingly necessitated a large kennel of dogs to patrol and guard the property.[^21] The security staff included five watchmen and a pack of Alsatians, Mastiffs and Great Danes.
 
 With the huge amount of expensive jade, statues, paintings, jewellery and other precious artifacts in the villa, security was a major concern for the household. All in all, it was estimated that there were about a hundred servants, chauffeurs, gardeners, dog handlers, amahs and cooks who attended to and served the Eu family.[^22]
 
@@ -140,7 +140,7 @@ A children’s performance at Eu Villa, 1962. <i>Ministry of Information and the
 
 In 1973, as various family members and their different business enterprises ran into difficulties, Eu Villa was sold after competitive bidding by several companies, including realty companies from Hong Kong. They were eventually outbid by Joiner Enterprises Pte. Ltd. of Cecil Street, Singapore, who paid $8.19 million for the venerable villa. The villa was demolished in the early 1980s to make way for condominium project, Sophia Court.[^32] (Sophia Court was sold in 2006 and on the site today is Sophia Residence.)
 
-Besides Eu Villa, there were a number of other palatial mansions built for the wealthy Straits Chinese in the first quarter of the 20th century. However, neither the personalities of their owners nor the opulence of the houses themselves came close to rivaling the likes of Eu Tong Sen or his villa on Adis Road.
+Besides Eu Villa, there were a number of other palatial mansions built for the wealthy Straits Chinese in the first quarter of the 20th century. However, neither the personalities of their owners nor the opulence of the houses themselves came close to rivalling the likes of Eu Tong Sen or his villa on Adis Road.
 
 
 <div style="background-color: white;">
