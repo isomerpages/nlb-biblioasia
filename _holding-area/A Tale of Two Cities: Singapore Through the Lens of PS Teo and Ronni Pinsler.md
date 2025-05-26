@@ -10,7 +10,7 @@ By Lu Wenshi and Ronnie Tan
 
 Photographs of people generally fall into one of two categories. The first is a carefully staged, posed photograph of the subject, typically in controlled situations. The other is a candid shot of the subject in action, whether he or she is aware of the photographer or not. While these approaches have very different outcomes, both types of photographs in the National Archives of Singapore (NAS) are of interest to historians and history enthusiasts.
 
-The former category of photographs is found in the Studio De Luxe Collection, captured by P.S. Teo, while the latter category makes up the bulk of the Ronni Pinsler Collection. These photos are available on Archives Online ([https://www.nas.gov.sg/archivesonline/](https://www.nas.gov.sg/archivesonline/)), the portal of the NAS providing access to photographs, maps, building plans, oral history interviews, audiovisual recordings and other archival records of Singapore.
+The former category of photographs is found in the Studio De Luxe Collection, captured by P.S. Teo, while the latter category makes up the bulk of the Ronni Pinsler Collection. These photos are available on [Archives Online](https://www.nas.gov.sg/archivesonline/), the portal of the NAS providing access to photographs, maps, building plans, oral history interviews, audiovisual recordings and other archival records of Singapore.
 
 #### **P.S. Teo, Studio Photographer**
 
@@ -67,12 +67,40 @@ Both the Ronni Pinsler and Studio De Luxe collections can be accessed on Archive
 
 The NAS has about 600 different photograph collections. Some of these come from private collections from personalities such as Yusof Ishak, Singapore’s first president, and Lim Nang Seng, the sculptor of the Merlion. There are also collections from local and foreign institutions like the Ministry of Information and the Arts (now Ministry of Digital Development and Information) and the National Archives of Australia.&nbsp;
 
-Members of the public are encouraged to explore all these photographs at [https://www.nas.gov.sg/archivesonline/](https://www.nas.gov.sg/archivesonline/) and also check out what’s featured on our new virtual photographs curation at [https://www.nas.gov.sg/archivesonline/throughthelens](https://www.nas.gov.sg/archivesonline/throughthelens).
+Members of the public are encouraged to explore all these photographs on [Archives Online](https://www.nas.gov.sg/archivesonline/) and also check out what’s featured on our new [virtual photographs curation](https://www.nas.gov.sg/archivesonline/throughthelens).
 
 
 <div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">The writers would like to thank Teo Soh Lung, sister of the late P.S. Teo, for consenting to the use of his photographs in this article. References have also been made to the book, <i>P.S. Teo, Photographer (1930–2005)</i>.
 <br><br>
 The writers are also grateful to Ronni Pinsler for generously sharing his experiences in taking the photographs showcased in this article.<br></div>
+
+
+
+<div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%"><b>BEHIND THE SCENES</b>
+<br><br>
+<b>What guides the National Archives of Singapore’s collection policy on photographs?</b>
+<br>
+The National Archives of Singapore (NAS) will collect and preserve records, including photographs, based on the following criteria:
+<br>
+· Their value to the Singapore government in terms of policy, governance and decision-making, particularly those that document the thinking process behind policies and programmes, like photographs of the Singapore River Clean-up that began in the 1970s.
+<br>
+· Their value to the nation, those pertaining to Singapore as a sovereign state and the international agreements which Singapore is party to, such as photographs of the visits of foreign heads of state to Singapore.
+<br>
+· Their value to the community, with reference to preserving social memories, including photographs of past events and scenes of Singapore in bygone days.
+<br>
+· Their value to the individual, with a view to safeguarding individual rights, such as marriage records.
+<br><br>
+<b>Processing print format photographs, negatives and slides</b>
+<br>
+Photographs – be they prints of various sizes, slides (also known as positives) or negative formats – are first assessed to determine if they could be preserved. If these are in good condition, they would be described and stored in photograph sleeves and archival boxes for the Photographic Activity Test (PAT), which assesses the potential for materials to cause damage to the photographs over time. Those that pass the PAT are barcoded and fumigated, and sent to climate controlled storehouses called repositories for preservation. The temperature and humidity levels in the repositories are set at 19 °C ± 2 and 50% ± 5%, which are the best conditions for their long-term preservation.
+
+**How are the photographs made available online?**
+
+After the physical photographs have been recorded and stored in archival quality sleeve protectors, the photographs are sent for digitisation and the metadata uploaded onto the NAS’s Archives Online system. Each photograph is given a unique media image number for ease of identification and to facilitate retrieval.
+
+**Where do the photographs come from?**
+
+The NAS receives photographs through transfers from two sources: namely government agencies and donations from private individuals and organisations. The Ministry of Digital Development and Information and its predecessors – the Ministry of Culture, the Ministry of Culture and Information, and the Ministry of Information and the Arts – are the biggest contributors of photographs, with about 200,000 transferred to the NAS each year.<br></div>
 
 
 
