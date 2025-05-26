@@ -121,10 +121,6 @@ Many of Pinsler’s photographs feature Taoist rituals, given his fascination fo
 
 His rich knowledge of the extensive Taoist pantheon and his ability to identify the many deities added value to his collection of photographs.&nbsp; Pinsler also captured trades of yesteryear such as the _samsui_ women, night soil carriers, _karung guni_ (rag-and-bone) men and trishaw riders.
 
-![](/images/Vol%2021%20Issue%202/PS%20Teo/psteo_bucket.jpg)
-<div style="background-color: white;">  Man carrying night soil buckets along Clarke Quay, 1981.  <i>Ronni Pinsler Collection, courtesy of National Archives of Singapore (Media - Image no. 19990007086 - 018).</i></div>
-
-
 ![](/images/Vol%2021%20Issue%202/PS%20Teo/psteo_karung.jpg)
 <div style="background-color: white;">A <i>karung guni</i> (or rag-and-bone) man collecting old newspapers in Serangoon Road, 1982.  <i>Ronni Pinsler Collection, courtesy of National Archives of Singapore (Media - Image no: 19990007467 - 0026).</i></div>
 
@@ -134,6 +130,10 @@ Unlike studio photography, street photography captures spontaneous moments that 
 <div style="background-color: white;">Samsui women on the back of a lorry, c. 1980. The one in front is covering her face. <i>Ronni Pinsler Collection, courtesy of National Archives of Singapore (Media - Image no. 20090000104 - 0173).</i></div>
 
 Pinsler occasionally had to literally chase people to get a shot. In 1981, Pinsler was at a goldsmith shop in the Arab Street area for work when he spotted a night soil carrier by chance. These were people who collected human excrement (known euphemistically as “night soil”) from homes in buckets for disposal at designated areas or for use as fertiliser on farms and plantations. Pinsler ran after the man to capture the shot and remembers the smell to this day.[^14]
+
+![](/images/Vol%2021%20Issue%202/PS%20Teo/psteo_bucket.jpg)
+<div style="background-color: white;">  Man carrying night soil buckets along Clarke Quay, 1981.  <i>Ronni Pinsler Collection, courtesy of National Archives of Singapore (Media - Image no. 19990007086 - 018).</i></div>
+
 
 Pinsler’s photographs provide a raw and intimate look into the sights and scenes of a Singapore that no longer exists. For his invaluable efforts to document Singapore’s history through photography and for the permanent loan of these photographs to the NAS, he received the prestigious Supporter of Heritage award from the National Heritage Board in 2010.[^15] (The NAS was then under the management of the National Heritage Board. It became an institution of the National Library Board in November 2012.)
 
