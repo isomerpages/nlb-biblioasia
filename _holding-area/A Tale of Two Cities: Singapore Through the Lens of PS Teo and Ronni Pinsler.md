@@ -73,7 +73,7 @@ The writers are also grateful to Ronni Pinsler for generously sharing his experi
 
 <div style="background-color: white;">
 <img style="width: 100px; height: 100px;" src="/images/Authors/LohChinEe654.png">
-<b>Lu Wenshi</b> &nbsp;is a Senior Manager with the National Archives of Singapore, who has an innate interest in photographs, old and contemporary. She oversees the speeches and press releases collections, content curation and crowdsourcing for the Archives Services department.</div>
+<b>Lu Wenshi</b> &nbsp;is a Senior Manager with the National Archives of Singapore, who has an innate interest in photographs, old and contemporary. She oversees the speeches and press release collections, content curation and crowdsourcing for the Archives Services department.</div>
 
 
 
