@@ -138,6 +138,13 @@ Pinsler occasionally had to literally chase people to get a shot. In 1981, Pinsl
 Pinsler’s photographs provide a raw and intimate look into the sights and scenes of a Singapore that no longer exists. For his invaluable efforts to document Singapore’s history through photography and for the permanent loan of these photographs to the NAS, he received the prestigious Supporter of Heritage award from the National Heritage Board in 2010.[^15] (The NAS was then under the management of the National Heritage Board. It became an institution of the National Library Board in November 2012.)
 
 
+![](/images/Vol%2021%20Issue%202/PS%20Teo/psteo_goods.jpg)
+<div style="background-color: white;">  An old man selling dry goods, washing powder and cigarettes from his pushcart along South Boat Quay, 1982. <i>Ronni Pinsler Collection, courtesy of National Archives of Singapore (Media - Image no. 19990007084 - 003).</i></div>
+
+
+![](/images/Vol%2021%20Issue%202/PS%20Teo/psteo_oranges.jpg)
+<div style="background-color: white;">  Oranges sold from a pushcart at a corner of Read Street, with a coffeeshop in the background, 1982. This was an area that Ronni Pinsler frequented. <i>Ronni Pinsler Collection, courtesy of National Archives of Singapore (Media - Image no. 19990007085 - 056).</i></div>
+
 #### **The Photograph Collection in Archives Online**
 
 Both the Ronni Pinsler and Studio De Luxe collections can be accessed on Archives Online, which has more than 2.3 million photographs about Singapore. These photographs were either transferred or donated to the NAS over time. One of the oldest photos is that of Captain William G. Scott, the Harbour Master Attendant and Postmaster of Singapore in 1836.
