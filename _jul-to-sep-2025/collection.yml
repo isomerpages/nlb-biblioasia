@@ -2,6 +2,8 @@ collections:
   jul-to-sep-2025:
     output: true
     order:
+      - "A Peek at the Audio Visual Archives: History Captured in Sound and
+        Moving Images.md"
       - "From Colonial Vision to Key Memory Institution: A Short History of the
         National Library.md"
       - Writing the NLB Story.md
