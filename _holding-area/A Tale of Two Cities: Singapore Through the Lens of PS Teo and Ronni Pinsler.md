@@ -102,6 +102,9 @@ Pinsler’s collection includes significant photographs of Chinese customs, fest
 
 Many of Pinsler’s photographs feature Taoist rituals, given his fascination for the subject. In 1978, while on a visit to the temple at the Delta Road housing estate, he saw spirit mediums (_tangki_ in Hokkien) in a trance including one who had his back pierced with spears as Nezha San Tai Zi, the Third Prince (哪吒  三太子), at the birthday procession of Taoist deity Guan Gong (关公). Pinsler managed to capture the unfolding scenes, allowing viewers a peek into the lives and practices of these spirit mediums.
 
+![](/images/Vol%2021%20Issue%202/PS%20Teo/psteo_spirit.jpg)
+<div style="background-color: white;">A spirit medium having his back pierced with spears and then went into a trance as Nezha San Tai Zi, the Third Prince (哪吒三太子), and sucking on a pacifier, 1978. The photographs were taken during the birthday procession of Taoist deity Guan Gong (关公) organised by the Delta Road temple. <i>Ronni Pinsler Collection, courtesy of National Archives of Singapore (Media - Image nos. 19990008729 - 0061 and 19990008729 - 0082).</i></div>
+
 His rich knowledge of the extensive Taoist pantheon and his ability to identify the many deities added value to his collection of photographs.&nbsp; Pinsler also captured trades of yesteryear such as the _samsui_ women, night soil carriers, _karung guni_ (rag-and-bone) men and trishaw riders.
 
 Unlike studio photography, street photography captures spontaneous moments that are not posed, with the subject often unaware that they are being photographed. A photograph of _samsui_ women on a lorry was taken from Pinsler’s car while he was at a traffic stop. He said that _samsui_ women were mostly too shy to have their images taken, and recalled that one in front covered her face as soon as she saw his camera.[^13]
