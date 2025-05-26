@@ -186,3 +186,21 @@ international audiences, with many cinemas even displaying maps. “At last,
 many people realised that Singapore is not in South Africa or China, or
 anywhere but where it is,” declared Elliott.27
 
+#### **Ethnographic Fiction Films**
+Inspired by the success of *Bring ’Em Back Alive* and the cinematic potential
+of Malaya, Elliott was back in Singapore by November 1932, with a
+Hollywood crew and a cast led by rising star Marion Burns, to film *Man-
+Eater*, “the first talkie made entirely in the jungle” for Fox Film Corporation
+(released in 1934 as *Devil Tiger*). While *Bring ’Em Back Alive* was “a purely
+animal story”, *Man-Eater* moved one step further from documentary
+films with its dramatised storyline.28 However, *Man-Eater* was not the
+first American feature drama to go on location in Malaya. Barely a month earlier, an American crew under the direction of Ward Wing and funded by
+the independent B.F. Zeidman Productions, with a script by the director’s
+wife Lori Bara, had started filming Samarang, a “simple native romance”,
+set in a pearl-diving community in Singapore.29 These movies were part of a
+trend of “natural dramas” beginning in the late 1920s, which were scripted,
+fictional films shot in exotic locations with a cast of local actors.30 Elliott’s
+progression from animal behaviour to human drama was mirrored by the
+career of Ernest Schoedsack, whose biography and documentary film Rango
+provided inspiration for the iconic movie King Kong, which was written by
+Schoedsack’s long-time collaborator and friend, Merian Cooper.31
