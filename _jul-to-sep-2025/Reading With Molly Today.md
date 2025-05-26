@@ -4,7 +4,7 @@ permalink: /vol-21/issue-2/jul-sep-2025/reading-molly-national-library-board/
 variant: markdown
 description: ""
 ---
-#### NLB’s mobile library service provides children with access to books and library services.&nbsp;
+#### According to a study, the mobile library service continues to be relevant as it helps children get more access to books.
 
 By Loh Chin Ee and Koh Yu Qun
 
