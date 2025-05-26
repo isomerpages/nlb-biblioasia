@@ -90,47 +90,45 @@ The writers are also grateful to Ronni Pinsler for generously sharing his experi
 
 #### **Notes**
 
-[^1]: 
+[^1]: P.S. Teo was awarded the Associateship of the Institute of British Photographers (AIBP) for portrait photography in 1956. He became an Associate of the Royal Photographic Society of Great Britain (ARPS) in 1957, and was made a Fellow of the Royal Society of Arts (FRSA) in 1958. See Teo Soh Lung, ed., _P.S. Teo, Photographer (1930–2005)_ (Singapore: Word Image, 2020), 8. (From National Library Singapore, call no. R 770.92 P)
+
+[^2]: Teo, _P.S. Teo, Photographer (1930–2005)_, 10.
 
 
-[^2]: 
+[^3]: Teo, _P.S. Teo, Photographer (1930–2005)_, 10, 64.&nbsp;
 
 
-[^3]: 
+[^4]: Teo Yeow Seng, oral history interview by Claire Yeo, 8 June 2007, Reel/Disc 4 of 5, 20:30–20:57; Teo, _P.S. Teo, Photographer (1930–2005)_, 13, 14, 18.
 
 
-[^4]: 
+[^5]: Teo, _P.S. Teo, Photographer (1930–2005)_, 18–19, 22, 27.&nbsp;
 
 
-[^5]: 
+[^6]: Teo, interview, 8 June 2007, Reel/Disc 4 of 5, 07:55–08:21.
 
 
-[^6]: 
+[^7]: Teo, _P.S. Teo, Photographer (1930–2005)_, 7.&nbsp;
 
 
-[^7]: 
+[^8]: Teo, _P.S. Teo, Photographer (1930–2005)_, 7, 33.&nbsp;
 
 
-[^8]: 
+[^9]: “Why the Chinese Do What They Do,” _Straits Times_, 24 January 1987, 1. (From NewspaperSG); Jessica Novia, “Treasure Hunters: Meet the Collectors Archiving Singapore’s History,” _Straits Times_, 12 August 2024, https://www.straitstimes.com/singapore/treasure-hunters-meet-the-collectors-archiving-singapore-s-history.
 
 
-[^9]: 
+[^10]: Novia, “Treasure Hunters: Meet the Collectors Archiving Singapore’s History.”
 
 
-[^10]: 
+[^11]: Novia, “Treasure Hunters: Meet the Collectors Archiving Singapore’s History.”
 
 
-[^11]: 
+[^12]: Novia, “Treasure Hunters: Meet the Collectors Archiving Singapore’s History.” &nbsp;
 
 
-[^12]: 
+[^13]: Ronni Pinsler, email interview, 24 February 2025.
 
 
-[^13]: 
+[^14]: Ronni Pinsler, email interview, 24 February 2025.
 
 
-[^14]: 
-
-
-[^15]: 
-
+[^15]: Novia, “Treasure Hunters: Meet the Collectors Archiving Singapore’s History.”
