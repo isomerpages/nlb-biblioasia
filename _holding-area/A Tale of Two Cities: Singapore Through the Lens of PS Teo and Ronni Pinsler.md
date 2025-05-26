@@ -30,6 +30,10 @@ In 2007, the family of the late award-winning photographer Teo Poh Seng donated 
 <div style="background-color: white;">Photos taken by Studio De Luxe were largely in black and white, before the advent of colour photography. This portrait of Singapore’s first chief minister, David Marshall, was among the first few portraits taken in colour. <i>Studio De Luxe Collection, courtesy of National Archives of Singapore (Media - Image no. 20250000067 - 0007).</i></div>
 
 
+![](/images/Vol%2021%20Issue%202/PS%20Teo/psteo_chan.jpg)
+<div style="background-color: white;">Chan Choy Siong, wife of Ong Pang Boon, the first minister for home affairs. She was a city councillor, a member of the Legislative Assembly and member of parliament for Delta constituency. She was instrumental in setting up the People’s Action Party Women’s League (now known as the PAP Women’s Wing) and pushed for the passage of the Women’s Charter and monogamous marriages. <i>Studio De Luxe Collection, courtesy of National Archives of Singapore (Media - Image no. 20250000067 - 0006).</i></div>
+
+
 Born in 1930 in Sibu, Sarawak, Teo was the eldest of eight children. His father Teo Chong Kim, also known as Teo Chong Khim or C.K. Teo, and mother Lim Geok Lian relocated to Singapore in 1934.[^2]
 
 
