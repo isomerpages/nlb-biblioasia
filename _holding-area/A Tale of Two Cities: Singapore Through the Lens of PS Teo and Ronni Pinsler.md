@@ -28,6 +28,11 @@ In 2007, the family of the late award-winning photographer Teo Poh Seng donated 
 
 Born in 1930 in Sibu, Sarawak, Teo was the eldest of eight children. His father Teo Chong Kim, also known as Teo Chong Khim or C.K. Teo, and mother Lim Geok Lian relocated to Singapore in 1934.[^2]
 
+
+![](/images/Vol%2021%20Issue%202/PS%20Teo/psteo_mom.jpg)
+<div style="background-color: white;">  P.S. Teo with his mother, undated. <i>Courtesy of the family of P.S. Teo.</i></div>
+
+
 The family lived in Outram. Teo Chong Kim worked as a manager at the Great World Amusement Park on Kim Seng Road until the outbreak of World War II. The Teo family then moved to Pek San Teng village off Thomson Road where the senior Teo became a farmer during the Japanese Occupation.[^3]
 
 After the war, Teo Chong Kim found work as a clerk at Jazz Studio along North Bridge Road. When Jazz Studio expanded and set up Studio De Luxe at 33 Stamford Road, which opened for business on 16 February 1946, Teo Chong Kim became its manager. The studio provided both indoor and outdoor photography services. (The premises of the studio is today part of Hotel Kempinski.)
