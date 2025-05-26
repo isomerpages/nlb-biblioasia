@@ -5,12 +5,12 @@ variant: markdown
 description: Trishaws and Tricycles
 image: /images/Online Only Articles/Liesel_Trishaws/with_passenger.png
 ---
-#### These photos by Liesel Strauss spotlight the humble trishaw and cargo tricycle and remind of us of how Singapore used to be not too long ago.
+#### These photos by Liesel Strauss spotlight the humble trishaw and cargo tricycle and remind us of how Singapore used to be not too long ago.
 By Stephanie Pee
 
 Our most recent memories of trishaws (bicycles fitted with a sidecar) might be a convoy of (sometimes) brightly lit trishaws in Bugis or Chinatown, ferrying tourists around the Bugis or Chinatown areas to take in their sights and sounds. Trishaws were once an essential, affordable, and common mode of transport in Singapore. Scrap collectors transporting their bulky hauls on cargo tricycles offer another reminder of how Singapore once was.
 
-These photographs of trishaws and cargo tricycles in Singapore in the 1990s and 2000s were taken by Liesel Strauss while she was living here. Liesel came to Singapore with her husband Werner, a Lutheran pastor, in 1992, after spending 20 years in Papua New Guinea and a year in Australia. By that time she had spent more time out of her native Germany than in it. She spent 16 years in Singapore and, in the words of her friend Sue Williams, “quite literally ‘pounded’ the streets of Singapore in search of its history, traditions and culture and, wherever \[Liesel\] goes, her trusty camera is there to record every detail. With her flair for capturing the moment in a photograph, she has lovingly documented life both on the busy thoroughfare and in the hidden back lanes of this modern city.”[^1]
+These photographs of trishaws and cargo tricycles in Singapore in the 1990s and 2000s were taken by Liesel Strauss while she was living here. Liesel came to Singapore with her husband Werner, a Lutheran pastor, in 1992, after spending 20 years in Papua New Guinea and a year in Australia. By that time, she had spent more time out of her native Germany than in it. She spent 16 years in Singapore and, in the words of her friend Sue Williams, “quite literally ‘pounded’ the streets of Singapore in search of its history, traditions and culture and, wherever \[Liesel\] goes, her trusty camera is there to record every detail. With her flair for capturing the moment in a photograph, she has lovingly documented life both on the busy thoroughfare and in the hidden back lanes of this modern city.”[^1]
 
 These photos make up just a small handful of pictures of Singapore that Liesel took before she and her husband left Singapore. Others include Singapore street scenes, food, and even vanishing local trades. Liesel’s photographs reveal both her passion for the medium and her love for heritage. Thanks to her curiosity and her camera, we can revisit, not only the different facets of the humble trishaw and cargo tricycle, but other aspects of Singapore life that we might have otherwise forgotten.
 
@@ -25,7 +25,7 @@ These photos make up just a small handful of pictures of Singapore that Liesel t
 <img src="/images/Online%20Only%20Articles/Liesel_Trishaws/trishaw_naps.png" style="width: 65%; height: 60%;">
 <div style="background-color: white;">A trishaw rider naps in his trishaw along Cuff Road, 2002. <i>Liesel Strauss Collection, National Library, Singapore.</i></div><br>
 <img src="/images/Online%20Only%20Articles/Liesel_Trishaws/rider_resting.png" style="width: 80%;">
-<div style="background-color: white;">A rider rests along the busy street of Orchard Road, c.1990s. <i>Liesel Strauss Collection, National Library, Singapore.</i></div><br>
+<div style="background-color: white;">A rider rests along the busy street of Orchard Road, 1990s. <i>Liesel Strauss Collection, National Library, Singapore.</i></div><br>
 <img src="/images/Online%20Only%20Articles/Liesel_Trishaws/man_pedalling_trishaw.png" style="width: 80%;">
 <div style="background-color: white;">Man pedalling trishaw along Dunlop Street, c.2002. <i>Liesel Strauss Collection, National Library, Singapore.</i></div><br>
 <img src="/images/Online%20Only%20Articles/Liesel_Trishaws/cargo_tricycle_crop.png" style="width: 80%; height: 75%;">
@@ -42,7 +42,7 @@ These photos make up just a small handful of pictures of Singapore that Liesel t
 <div style="background-color: #fff6ba; padding:15px; margin: 10px; font-size=120%"><b>ABOUT THE LIESEL STRAUSS COLLECTION</b><br><br> 
 <div style="background-color: #fff6ba; text-align:left">
 Liesel Strauss lives in Germany and is a nurse by training. She came to Singapore in 1992 when her husband, Werner, a Lutheran pastor, was offered the position of Port Chaplain by the Lutheran Church of Singapore. During her time here, Liesel was an active member of Friends of the Museum, an avid docent, and volunteer for the elderly.<br><br>
-Between 2020-22 she donated more than 3,900 photos and slides of heritage districts, places of interest, places of worship, festivals and street scenes of Singapore to the National Library Board. Her images capture the richness of life in Singapore in the 1990s and 2000s and feature traditional businesses, industries and itinerant trades as well as places and streets that today are rare sights or no longer exist.<br><br>
+Between 2020–22 she donated more than 3,900 photos and slides of heritage districts, places of interest, places of worship, festivals and street scenes of Singapore to the National Library Board. Her images capture the richness of life in Singapore in the 1990s and 2000s and feature traditional businesses, industries and itinerant trades as well as places and streets that today are rare sights or no longer exist.<br><br>
 Materials from the Liesel Strauss Collection at Level 11 of the Lee Kong Chian Reference Library can be found by searching “Liesel Strauss” on the <a href="https://catalogue.nlb.gov.sg/">NLB catalogue</a> or viewed at <a href="https://www.nlb.gov.sg/main/onesearch/result?type=image&amp;page=1&amp;collection=Liesel+Strauss+Collection&amp;nlonline=true">NL Online</a>.
 </div><br></div>
 

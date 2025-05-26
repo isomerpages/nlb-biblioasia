@@ -10,7 +10,7 @@ By Lu Wenshi and Ronnie Tan
 
 Photographs of people generally fall into one of two categories. The first is a carefully staged, posed photograph of the subject, typically in controlled situations. The other is a candid shot of the subject in action, whether he or she is aware of the photographer or not. While these approaches have very different outcomes, both types of photographs in the National Archives of Singapore (NAS) are of interest to historians and history enthusiasts.
 
-The former category of photographs is found in the Studio De Luxe Collection, captured by P.S. Teo, while the latter category makes up the bulk of the Ronni Pinsler Collection. These photos are available on Archives Online (https://www.nas.gov.sg/archivesonline/), the portal of the NAS providing access to photographs, maps, building plans, oral history interviews, audiovisual recordings and other archival records of Singapore.
+The former category of photographs is found in the Studio De Luxe Collection, captured by P.S. Teo, while the latter category makes up the bulk of the Ronni Pinsler Collection. These photos are available on Archives Online ([https://www.nas.gov.sg/archivesonline/](https://www.nas.gov.sg/archivesonline/)), the portal of the NAS providing access to photographs, maps, building plans, oral history interviews, audiovisual recordings and other archival records of Singapore.
 
 P.S. Teo, Studio Photographer
 
@@ -20,9 +20,9 @@ In 2007, the family of the late award-winning photographer Teo Poh Seng donated 
 
 Born in 1930 in Sibu, Sarawak, Teo was the eldest of eight children. His father Teo Chong Kim, also known as Teo Chong Khim or C.K. Teo, and mother Lim Geok Lian relocated to Singapore in 1934.2
 
-Teo Chong Kim worked as a manager at the Great World Amusement Park on Kim Seng Road until the outbreak of World War II. The Teo family then moved to Pek San Teng village off Thomson Road where the senior Teo became a farmer during the Japanese Occupation.3
+The family lived in Outram. Teo Chong Kim worked as a manager at the Great World Amusement Park on Kim Seng Road until the outbreak of World War II. The Teo family then moved to Pek San Teng village off Thomson Road where the senior Teo became a farmer during the Japanese Occupation.3
 
-After the war, the family moved to Outram Road and Teo Chong Kim found work as a clerk at Jazz Studio along North Bridge Road. When Jazz Studio expanded and set up Studio De Luxe at 33 Stamford Road, which opened for business on 16 February 1946, Teo Chong Kim became its manager. The studio provided both indoor and outdoor photography services. (The premises of the studio is today part of Hotel Kempinski.)
+After the war, Teo Chong Kim found work as a clerk at Jazz Studio along North Bridge Road. When Jazz Studio expanded and set up Studio De Luxe at 33 Stamford Road, which opened for business on 16 February 1946, Teo Chong Kim became its manager. The studio provided both indoor and outdoor photography services. (The premises of the studio is today part of Hotel Kempinski.)
 
 P.S. Teo was enrolled at St Anthony Boys’ School and then at Anglo-Chinese School, Coleman Street. As a schoolboy, he was already helping out at Studio De Luxe. Besides doing odd jobs such as sweeping and washing the floor, Teo also observed and assisted the chief photographer and his father, who handled the lighting.
 
@@ -50,8 +50,7 @@ Armed with an eye for detail and his trusty Leica camera, Pinsler travelled arou
 
 Pinsler’s collection includes significant photographs of Chinese customs, festivals and the birthdays of various gods. He attributed his interest in all things Chinese to Ah Toh, the Cantonese _majie_ (domestic helper) employed to look after him. As his parents travelled a lot for work, he would accompany Ah Toh to her village in Changi to attend festivals and temple celebrations.12 &nbsp;
 
-Many of Pinsler’s photographs feature Taoist rituals, given his fascination for the subject. In 1978, while on a visit to the temple at the Delta Road housing estate, he saw spirit mediums (_tangki_ in Hokkien) in a trance including one who had his back pierced with spears as Nezha San Tai Zi, the Third Prince (哪吒  
-三太子), at the birthday procession of Taoist deity Guan Gong (关公). Pinsler managed to capture the unfolding scenes, allowing viewers a peek into the lives and practices of these spirit mediums.
+Many of Pinsler’s photographs feature Taoist rituals, given his fascination for the subject. In 1978, while on a visit to the temple at the Delta Road housing estate, he saw spirit mediums (_tangki_ in Hokkien) in a trance including one who had his back pierced with spears as Nezha San Tai Zi, the Third Prince (哪吒  三太子), at the birthday procession of Taoist deity Guan Gong (关公). Pinsler managed to capture the unfolding scenes, allowing viewers a peek into the lives and practices of these spirit mediums.
 
 His rich knowledge of the extensive Taoist pantheon and his ability to identify the many deities added value to his collection of photographs.&nbsp; Pinsler also captured trades of yesteryear such as the _samsui_ women, night soil carriers, _karung guni_ (rag-and-bone) men and trishaw riders.
 
@@ -63,7 +62,7 @@ Both the Ronni Pinsler and Studio De Luxe collections can be accessed on Archive
 
 The NAS has about 600 different photograph collections. Some of these come from private collections from personalities such as Yusof Ishak, Singapore’s first president, and Lim Nang Seng, the sculptor of the Merlion. There are also collections from local and foreign institutions like the Ministry of Information and the Arts (now Ministry of Digital Development and Information) and the National Archives of Australia.&nbsp;
 
-Members of the public are encouraged to explore all these photographs at https://www.nas.gov.sg/archivesonline/ and also check out what’s featured on our new virtual photographs curation at https://www.nas.gov.sg/archivesonline/throughthelens.
+Members of the public are encouraged to explore all these photographs at [https://www.nas.gov.sg/archivesonline/](https://www.nas.gov.sg/archivesonline/) and also check out what’s featured on our new virtual photographs curation at [https://www.nas.gov.sg/archivesonline/throughthelens](https://www.nas.gov.sg/archivesonline/throughthelens).
 
 
 <div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">The writers would like to thank Teo Soh Lung, sister of the late P.S. Teo, for consenting to the use of his photographs in this article. References have also been made to the book, <i>P.S. Teo, Photographer (1930–2005)</i>.
@@ -74,7 +73,7 @@ The writers are also grateful to Ronni Pinsler for generously sharing his experi
 
 <div style="background-color: white;">
 <img style="width: 100px; height: 100px;" src="/images/Authors/LohChinEe654.png">
-<b>Lu Wenshi</b> &nbsp;is a Senior Manager with the National Archives of Singapore, who has an innate interest in photographs, old and contemporary. She oversees the speeches and press releases collections, content curation and crowdsourcing for the Archives Services department.</div>
+<b>Lu Wenshi</b> &nbsp;is a Senior Manager with the National Archives of Singapore, who has an innate interest in photographs, old and contemporary. She oversees the speeches and press release collections, content curation and crowdsourcing for the Archives Services department.</div>
 
 
 
