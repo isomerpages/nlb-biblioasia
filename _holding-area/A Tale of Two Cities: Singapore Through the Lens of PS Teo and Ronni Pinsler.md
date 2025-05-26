@@ -106,6 +106,9 @@ His rich knowledge of the extensive Taoist pantheon and his ability to identify 
 
 Unlike studio photography, street photography captures spontaneous moments that are not posed, with the subject often unaware that they are being photographed. A photograph of _samsui_ women on a lorry was taken from Pinsler’s car while he was at a traffic stop. He said that _samsui_ women were mostly too shy to have their images taken, and recalled that one in front covered her face as soon as she saw his camera.[^13]
 
+![](/images/Vol%2021%20Issue%202/PS%20Teo/psteo_samsui.jpg)
+<div style="background-color: white;">Samsui women on the back of a lorry, c. 1980. The one in front is covering her face. <i>Ronni Pinsler Collection, courtesy of National Archives of Singapore (Media - Image no. 20090000104 - 0173).</i></div>
+
 Pinsler occasionally had to literally chase people to get a shot. In 1981, Pinsler was at a goldsmith shop in the Arab Street area for work when he spotted a night soil carrier by chance. These were people who collected human excrement (known euphemistically as “night soil”) from homes in buckets for disposal at designated areas or for use as fertiliser on farms and plantations. Pinsler ran after the man to capture the shot and remembers the smell to this day.[^14]
 
 Pinsler’s photographs provide a raw and intimate look into the sights and scenes of a Singapore that no longer exists. For his invaluable efforts to document Singapore’s history through photography and for the permanent loan of these photographs to the NAS, he received the prestigious Supporter of Heritage award from the National Heritage Board in 2010.[^15] (The NAS was then under the management of the National Heritage Board. It became an institution of the National Library Board in November 2012.)
