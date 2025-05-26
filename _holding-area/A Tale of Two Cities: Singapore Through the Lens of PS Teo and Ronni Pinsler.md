@@ -93,13 +93,13 @@ The National Archives of Singapore (NAS) will collect and preserve records, incl
 <b>Processing print format photographs, negatives and slides</b>
 <br>
 Photographs – be they prints of various sizes, slides (also known as positives) or negative formats – are first assessed to determine if they could be preserved. If these are in good condition, they would be described and stored in photograph sleeves and archival boxes for the Photographic Activity Test (PAT), which assesses the potential for materials to cause damage to the photographs over time. Those that pass the PAT are barcoded and fumigated, and sent to climate controlled storehouses called repositories for preservation. The temperature and humidity levels in the repositories are set at 19 °C ± 2 and 50% ± 5%, which are the best conditions for their long-term preservation.
-
-**How are the photographs made available online?**
-
+<br><br>
+<b>How are the photographs made available online?</b>
+<br>
 After the physical photographs have been recorded and stored in archival quality sleeve protectors, the photographs are sent for digitisation and the metadata uploaded onto the NAS’s Archives Online system. Each photograph is given a unique media image number for ease of identification and to facilitate retrieval.
-
-**Where do the photographs come from?**
-
+<br><br>
+<b>Where do the photographs come from?</b>
+<br>
 The NAS receives photographs through transfers from two sources: namely government agencies and donations from private individuals and organisations. The Ministry of Digital Development and Information and its predecessors – the Ministry of Culture, the Ministry of Culture and Information, and the Ministry of Information and the Arts – are the biggest contributors of photographs, with about 200,000 transferred to the NAS each year.<br></div>
 
 
