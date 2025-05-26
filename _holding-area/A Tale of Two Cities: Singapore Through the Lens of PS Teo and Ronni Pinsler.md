@@ -8,13 +8,17 @@ description: ""
 
 By Lu Wenshi and Ronnie Tan
 
+Photographs of people generally fall into one of two categories. The first is a carefully staged, posed photograph of the subject, typically in controlled situations. The other is a candid shot of the subject in action, whether he or she is aware of the photographer or not. While these approaches have very different outcomes, both types of photographs in the National Archives of Singapore (NAS) are of interest to historians and history enthusiasts.
+
+The former category of photographs is found in the Studio De Luxe Collection, captured by P.S. Teo, while the latter category makes up the bulk of the Ronni Pinsler Collection. These photos are available on [Archives Online](https://www.nas.gov.sg/archivesonline/), the portal of the NAS providing access to photographs, maps, building plans, oral history interviews, audiovisual recordings and other archival records of Singapore.
+
 ![](/images/Vol%2021%20Issue%202/PS%20Teo/psteo_main.jpg)
 <div style="background-color: white;"> Run Run Shaw (left) and Runme Shaw (right) were collectively known as the Shaw brothers. They were the pioneers of the film and entertainment industry in Singapore and Malaya. <i>Studio De Luxe Collection, courtesy of National Archives of Singapore (Media – Image no. 20250000067 - 0002).</i></div>
 
 
-Photographs of people generally fall into one of two categories. The first is a carefully staged, posed photograph of the subject, typically in controlled situations. The other is a candid shot of the subject in action, whether he or she is aware of the photographer or not. While these approaches have very different outcomes, both types of photographs in the National Archives of Singapore (NAS) are of interest to historians and history enthusiasts.
+![](/images/Vol%2021%20Issue%202/PS%20Teo/psteo_deluxe.jpg)
+<div style="background-color: white;"> Portrait of a child taken at Studio De Luxe. This is but one of the many artistic poses of P.S. Teo’s subjects for their studio photos.  <i>Studio De Luxe Collection, courtesy of National Archives of Singapore (Media – Image no. 20250000067 - 0001).</i></div>
 
-The former category of photographs is found in the Studio De Luxe Collection, captured by P.S. Teo, while the latter category makes up the bulk of the Ronni Pinsler Collection. These photos are available on [Archives Online](https://www.nas.gov.sg/archivesonline/), the portal of the NAS providing access to photographs, maps, building plans, oral history interviews, audiovisual recordings and other archival records of Singapore.
 
 #### **P.S. Teo, Studio Photographer**
 
@@ -35,6 +39,11 @@ After completing his secondary school education in 1949, Teo joined his father a
 Encouraged by his father, Teo took up a correspondence course at the Alpha School of Photography in London in 1952. He also subscribed to photography magazines and read books by well-known photographers such as Yousuf Karsh and Francis Wu, who both specialised in portraits; Wellington Lee, who did portrait and commercial work; and renowned landscape photographer Ansel Adams. Teo also participated in photography competitions and won awards.&nbsp;
 
 Teo was a master of his trade.[^5] He started taking photographs of notable people when he was only in his early 20s. He directed people like prominent businessmen, judges and politicians on how to pose.[^6] He took portraits of well-known personalities of the time – colonial judges, sultans, presidents, prime ministers and artistes including Rathi Karthigesu, a well-known classical Indian dancer and wife of Justice M. Karthigesu, a former High Court judge. Wedding photography was his specialty. The wedding photograph of Neo Chwee Kok, who, to date, is the only local swimmer to have won four gold medals in the Asian Games (an achievement that took place in 1951), is included in Studio De Luxe’s collection with the NAS.&nbsp;
+
+
+![](/images/Vol%2021%20Issue%202/PS%20Teo/psteo_wedding.jpg)
+<div style="background-color: white;"> Wedding photo of Neo Chwee Kok. He was nicknamed “The Flying Fish” for his exploits in the swimming pool during the Asian Games in 1951 in New Delhi, where he won four gold medals. <i>Studio De Luxe Collection, courtesy of National Archives of Singapore (Media - Image no. 20250000067 - 0008).</i></div>
+
 
 As the eldest son, Teo set aside his personal ambitions to help care for his younger siblings. “He had worked so hard throughout his life, taking care of his parents and siblings,” said his siblings in the book, _P.S. Teo, Photographer (1930–2005)_. “He did not take any holidays and never visited his country \[sic\] of birth, Sarawak… \[w\]hile we, his siblings received tertiary and professional qualifications with his financial support and went through the usual education system.”[^7]
 
