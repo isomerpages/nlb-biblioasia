@@ -63,6 +63,18 @@ Armed with an eye for detail and his trusty Leica camera, Pinsler travelled arou
 
 Pinsler’s collection includes significant photographs of Chinese customs, festivals and the birthdays of various gods. He attributed his interest in all things Chinese to Ah Toh, the Cantonese _majie_ (domestic helper) employed to look after him. As his parents travelled a lot for work, he would accompany Ah Toh to her village in Changi to attend festivals and temple celebrations.[^12]
 
+![](/images/Vol%2021%20Issue%202/PS%20Teo/psteo_trishaw.jpg)
+<div style="background-color: white;">  A woman with food offerings riding in a trishaw on her way to the temple on Duxton Road for the birthday celebration of Guan Yin, Goddess of Mercy, 1980. <i>Ronni Pinsler Collection, courtesy of National Archives of Singapore (Media - Image no. 19990008731 - 0068).</i></div>
+
+
+![](/images/Vol%2021%20Issue%202/PS%20Teo/psteo_hawker.jpg)
+<div style="background-color: white;">  A hawker’s three-wheeled vehicle laden with wares such as brooms, brushes, fans, feather dusters, plastic basins and scoops, 1980s. <i>Ronni Pinsler Collection, courtesy of National Archives of Singapore (Media - Image no. 19990007084 - 003).</i></div>
+
+
+![](/images/Vol%2021%20Issue%202/PS%20Teo/psteo_elderly.jpg)
+<div style="background-color: white;">  An elderly hawker heading towards Kampong River Valley Close, 1980. <i>Ronni Pinsler Collection, courtesy of National Archives of Singapore (Media - Image no. 19990007453 - 099).</i></div>
+
+
 Many of Pinsler’s photographs feature Taoist rituals, given his fascination for the subject. In 1978, while on a visit to the temple at the Delta Road housing estate, he saw spirit mediums (_tangki_ in Hokkien) in a trance including one who had his back pierced with spears as Nezha San Tai Zi, the Third Prince (哪吒  三太子), at the birthday procession of Taoist deity Guan Gong (关公). Pinsler managed to capture the unfolding scenes, allowing viewers a peek into the lives and practices of these spirit mediums.
 
 His rich knowledge of the extensive Taoist pantheon and his ability to identify the many deities added value to his collection of photographs.&nbsp; Pinsler also captured trades of yesteryear such as the _samsui_ women, night soil carriers, _karung guni_ (rag-and-bone) men and trishaw riders.
