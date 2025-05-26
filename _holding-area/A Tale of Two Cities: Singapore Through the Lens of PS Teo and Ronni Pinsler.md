@@ -8,6 +8,10 @@ description: ""
 
 By Lu Wenshi and Ronnie Tan
 
+![](/images/Vol%2021%20Issue%202/PS%20Teo/psteo_main.jpg)
+<div style="background-color: white;"> Run Run Shaw (left) and Runme Shaw (right) were collectively known as the Shaw brothers. They were the pioneers of the film and entertainment industry in Singapore and Malaya. <i>Studio De Luxe Collection, courtesy of National Archives of Singapore (Media – Image no. 20250000067 - 0002).</i></div>
+
+
 Photographs of people generally fall into one of two categories. The first is a carefully staged, posed photograph of the subject, typically in controlled situations. The other is a candid shot of the subject in action, whether he or she is aware of the photographer or not. While these approaches have very different outcomes, both types of photographs in the National Archives of Singapore (NAS) are of interest to historians and history enthusiasts.
 
 The former category of photographs is found in the Studio De Luxe Collection, captured by P.S. Teo, while the latter category makes up the bulk of the Ronni Pinsler Collection. These photos are available on [Archives Online](https://www.nas.gov.sg/archivesonline/), the portal of the NAS providing access to photographs, maps, building plans, oral history interviews, audiovisual recordings and other archival records of Singapore.
