@@ -45,7 +45,7 @@ Chong Joo Beng, whose family was Lim’s tenant, was born in an annexed portion 
 <img src="/images/Online%20Only%20Articles/Lim%20Boon%20Keng%20Mansion/LBK_Attap_Roof.jpg" style="width: 80%;">
 Lim Boon Keng and family in an upstairs porch of the house with the attap roof, 1935.<i> Courtesy of Lim Kok Lian.</i></div>
 
-Both Chong and Lim’s grandson, Lim Kok Lian, who spent a great deal of his childhood years in the Paterson Hill mansion, recall that there were several long-term Chinese families as well as Punjabi, Malay and Eurasian families living in huts on the compound and in the mansion itself.&nbsp; Members of the Royal Air Force and Royal Navy also rented rooms in the main house from Mrs Lim Boon Keng nee Grace Yin Pek Ha. In residence too were Lim Kok Lian’s father, the legendary auto racer Lim Peng Han, his mother and his two siblings.[^8]
+Both Chong and Lim’s grandson, Lim Kok Lian, who spent a great deal of his childhood years in the Paterson Hill mansion, recall that there were several long-term Chinese families as well as Punjabi, Malay and Eurasian families living in huts on the compound and in the mansion itself.&nbsp; Members of the Royal Air Force and Royal Navy also rented rooms in the main house from Mrs Lim Boon Keng née Grace Yin Pek Ha. In residence too were Lim Kok Lian’s father, the legendary auto racer Lim Peng Han, his mother and his two siblings.[^8]
 
 <div style="background-color: white;">
 <br>
@@ -82,7 +82,7 @@ In all likelihood, the “gift” had been made by Tan Chay Yan’s wife, Chua W
 
 Aside for a period in 1942 when Lim and his wife were interned in a concentration camp on Arab Street during the Japanese Occupation of Singapore (1942–45), the man who came to be known as “the Grand Old Man”, or “the Sage of Singapore”, would spend the remaining years of his life in the mansion with the attap roof surrounded by his kampong as its “Sen-si kung” (“venerable sage”).[^15]
 
-Despite the reverence and respect accorded him, family and former residents of the mansion and surrounding kampong recall that it was Mrs Lim Boon Keng who quietly presided over the often chaotic and unorthodox household. Over the years, 1 Paterson Hill became something of a halfway house for various progeny or relatives in need of temporary lodgings before they moved to more permanent places of domicile.[^16]
+Despite the reverence and respect accorded to him, family and former residents of the mansion and surrounding kampong recall that it was Mrs Lim Boon Keng who quietly presided over the often chaotic and unorthodox household. Over the years, 1 Paterson Hill became something of a halfway house for various progenies or relatives in need of temporary lodgings before they moved to more permanent places of domicile.[^16]
 
 Lim, as his grandson Lim Kok Lian recalls, lived the life not unlike any other retiree. On any given day, residents nearby would be greeted by the sight of a small, elderly man with a wispy goatee taking his walk along Paterson Hill. Immaculately attired in his tropical whites, he would often make the somewhat precarious crossing across the road to visit his friend and fellow physician Hu Tsai Kuen who resided in the _Crazy Rich Asians_ mansion. Conversations between the two doctors were purportedly extended over more beers than probably what Mrs Lim would have permitted above the daily swig of Johnny Walker that the old man prescribed for himself.[^17]
 
