@@ -8,7 +8,7 @@ variant: markdown
 
 According to a study, the mobile library service continues to be relevant as it helps children get more access to books.
 
-<img src="/images/Vol%2019%20Issue%203/10%20Printing/image_1-edit.png" style="width:80%;">
+<img src="/images/Vol%2021%20Issue%202/Molly/Mollytruck_topic.jpg" style="width:80%;">
 <hr>
 
 #### <a style="text-decoration: none; font-weight: bold;" href="/ba-reels-print/2024/6/tools-of-the-trade/">Tools of the Trade: Letterpress Printing in Singapore</a>
