@@ -10,7 +10,7 @@ By Lu Wenshi and Ronnie Tan
 
 Photographs of people generally fall into one of two categories. The first is a carefully staged, posed photograph of the subject, typically in controlled situations. The other is a candid shot of the subject in action, whether he or she is aware of the photographer or not. While these approaches have very different outcomes, both types of photographs in the National Archives of Singapore (NAS) are of interest to historians and history enthusiasts.
 
-The former category of photographs is found in the Studio De Luxe Collection, captured by P.S. Teo, while the latter category makes up the bulk of the Ronni Pinsler Collection. These photos are available on Archives Online (https://www.nas.gov.sg/archivesonline/), the portal of the NAS providing access to photographs, maps, building plans, oral history interviews, audiovisual recordings and other archival records of Singapore.
+The former category of photographs is found in the Studio De Luxe Collection, captured by P.S. Teo, while the latter category makes up the bulk of the Ronni Pinsler Collection. These photos are available on Archives Online ([https://www.nas.gov.sg/archivesonline/](https://www.nas.gov.sg/archivesonline/)), the portal of the NAS providing access to photographs, maps, building plans, oral history interviews, audiovisual recordings and other archival records of Singapore.
 
 P.S. Teo, Studio Photographer
 
@@ -20,7 +20,7 @@ In 2007, the family of the late award-winning photographer Teo Poh Seng donated 
 
 Born in 1930 in Sibu, Sarawak, Teo was the eldest of eight children. His father Teo Chong Kim, also known as Teo Chong Khim or C.K. Teo, and mother Lim Geok Lian relocated to Singapore in 1934.2
 
-Teo Chong Kim worked as a manager at the Great World Amusement Park on Kim Seng Road until the outbreak of World War II. The Teo family then moved to Pek San Teng village off Thomson Road where the senior Teo became a farmer during the Japanese Occupation.3
+The family lived in Outram. Teo Chong Kim worked as a manager at the Great World Amusement Park on Kim Seng Road until the outbreak of World War II. The Teo family then moved to Pek San Teng village off Thomson Road where the senior Teo became a farmer during the Japanese Occupation.3
 
 After the war, the family moved to Outram Road and Teo Chong Kim found work as a clerk at Jazz Studio along North Bridge Road. When Jazz Studio expanded and set up Studio De Luxe at 33 Stamford Road, which opened for business on 16 February 1946, Teo Chong Kim became its manager. The studio provided both indoor and outdoor photography services. (The premises of the studio is today part of Hotel Kempinski.)
 
