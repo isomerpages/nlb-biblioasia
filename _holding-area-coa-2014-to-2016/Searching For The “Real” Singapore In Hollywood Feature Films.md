@@ -7,15 +7,15 @@ description: ""
 #### **Introduction**
 In January 1936, an article in *The Singapore Free Press and Mercantile
 Advertiser* remarked that with so many American filmmakers arriving
-on local shores, “Singapore is becoming the equatorial Hollywood”.1
+on local shores, “Singapore is becoming the equatorial Hollywood”.[^1]
 Two months later, an editorial in the same newspaper entitled “The
 Film Invasion” described the “invasion of film people from Hollywood”
 including “such famous names as Frank Buck, Ward Wing, Tay Garnett,
 James A. Fitzpatrick, and Percy Marmont, to say nothing of Charlie
-Chaplin”.2 It should be no surprise that the American film industry had
+Chaplin”.[^2] It should be no surprise that the American film industry had
 such a strong impression of Singapore, which, as a major port in the British
 Empire, had gained a reputation for being the “Charing Cross of the East”
-and “Clapham Junction of the East” since the 1880s.3
+and “Clapham Junction of the East” since the 1880s.[^3]
 
 With motion pictures at the turn of the century showing scenes of a
 modern, Asian port city inhabited by an exotic mix of cultures, Singapore
@@ -24,7 +24,7 @@ Twenty-four such films from 1900 to 1919 and nine from 1920 to 1928 have
 been identified, most notably works by leading international newsreel
 production company, Pathé, as well as four 1913 films by Gaston Méliès,
 brother of renowned French filmmaker Georges Méliès, which were
-screened in American cinemas that year.4
+screened in American cinemas that year.[^4]
 
 This paper looks at Singapore in the Hollywood imagination and how this
 was expressed in non-travelogue feature films from the late 1920s to 1940,
@@ -48,26 +48,26 @@ began to be produced. The period from 1928 to 1933 saw several of these:
 Italian title: *La schiava di Singapore)*, *The Letter* (1928), *The Road to Singapore*
 (1931), *Rich and Strange* (1931), *Out of Singapore* (1932), *Malay Nights* (also
 titled as: *Shadows of Singapore*, 1932), *Singapore Sue* (1932) and *West of
-Singapore* (1933).5 None of these films were shot near the tropics and only one, Alfred Hitchcock’s *Rich and Strange*, included authentic scenes of
-Singapore – albeit only from stock footage.6
+Singapore* (1933).[^5] None of these films were shot near the tropics and only one, Alfred Hitchcock’s *Rich and Strange*, included authentic scenes of
+Singapore – albeit only from stock footage.[^6]
 
 Several of these were adaptations from other mediums. Across to Singapore
 was based on the 1919 novel *All the Brothers Were Valiant* by Ben Ames
 Williams, while works by Australian author Dale Collins inspired two film
 adaptations – *Sal of Singapore* (based on the novel *The Sentimentalists*) and
-*Rich and Strange* (based on a book of the same name).7 *The Road to Singapore*
+*Rich and Strange* (based on a book of the same name).[^7] *The Road to Singapore*
 was adapted from a 1929 British stage play, *Heatwave*, by Mills &amp; Boon
 writer Denise Robins and playwright Roland Pertwee, while *The Letter*
 had a more respectable literary pedigree as the dramatisation of a Somerset
-Maugham short story of the same title.8
+Maugham short story of the same title.[^8]
 
 Of these works, those by Dale Collins and Somerset Maugham were
 based on personal observations by the authors. Both made numerous trips
 around the world to gather ideas for their writings and both passed through
-Singapore in the early 1920s.9 Each chose settings and storylines that echoed
+Singapore in the early 1920s.[^9] Each chose settings and storylines that echoed
 their own experiences. *The Sentimentalists* was set on a long sea journey
 that paralleled Collins’ journey round the world in a yacht owned by
-American millionaire A.Y. Gowen, reporting on their travels for *The Herald* (of Melbourne, Australia).10 Rather than focus on the liminal experience in
+American millionaire A.Y. Gowen, reporting on their travels for *The Herald* (of Melbourne, Australia).[^10] Rather than focus on the liminal experience in
 between ports of call, Maugham spent months at a time in specific regions
 so as to understand those societies in greater depth.11 *The Letter* was based
 on the sensational real-life murder of William Steward, a mine manager, by
@@ -768,4 +768,4 @@ Wright, H. Nadia. [_Respected Citizens: The History of Armenians in Singapore an
 
 75 “[The Film Invasion](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19360320-1.2.58.2).”
 
-76 “[‘Booloo’ Girl Not Found Yet](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19370919-1.2.45).” F
+76 “[‘Booloo’ Girl Not Found Yet](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19370919-1.2.45).” 
