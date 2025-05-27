@@ -6,79 +6,60 @@ description: ""
 third_nav_title: Hawker Culture in Singapore
 ---
 <p><strong>Ryan</strong>
-</p>
-<p>Most people around the world conceive of hawkers as itinerant, transient,
+<br>Most people around the world conceive of hawkers as itinerant, transient,
 and they move from place to place. So, I think for example Mexico and Malaysia,
 or Thailand. Okay, when you go to the streets of Bangkok. People are flanking
-the streets selling…</p>
-<p>&nbsp;</p>
+the streets selling…&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>They have kiosks, they’re pushing them about.</p>
-<p>&nbsp;</p>
+<br>They have kiosks, they’re pushing them about.&nbsp;</p>
 <p><strong>Ryan</strong>
-</p>
-<p>Yeah. Sometimes they don’t even have a kiosk, they have a basket. They
+<br>Yeah. Sometimes they don’t even have a kiosk, they have a basket. They
 carry their basket around, or they sit on the streets. But I think for
 most Singaporeans, and especially the younger generations, “hawkers” means
 something completely different. When I think of hawker, I think of a hawker
 centre, something that’s very formalised, very institutionalised and very
-clean.</p>
-<p>&nbsp;</p>
+clean.&nbsp;</p>
 <p>And Singapore has made that journey from being itinerant, informal in
 some sense, to a hawking culture that is very formalised. And this is a
 very intentional move, informed by the circumstances of Singapore throughout
-our history.</p>
-<p>&nbsp;</p>
-<p>[Music playing]</p>
-<p>&nbsp;</p>
+our history.&nbsp;</p>
+<p>[Music playing]&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>You’re listening to<em> BiblioAsia+</em>, a podcast produced by the National
+<br>You’re listening to<em> BiblioAsia+</em>, a podcast produced by the National
 Library of Singapore. At <em>BiblioAsia</em>, we tell stories about Singapore’s
-past. Some familiar, others forgotten, all fascinating.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+past. Some familiar, others forgotten, all fascinating.&nbsp;</p>
 <p>Chicken rice, <em>mee siam</em>, <em>roti prata</em>. Hawker food is one
 of the best things about life in Singapore. Hawkers, hawker food and hawker
 centres are part of what makes Singapore so unique. Hawker culture is so
 important to us that we succeeded in having it inscribed on UNESCO’s list
-of humanity’s intangible cultural heritage.</p>
-<p>&nbsp;</p>
+of humanity’s intangible cultural heritage.&nbsp;</p>
 <p>That’s all well and good, but have you ever stopped to think? What exactly
 is a hawker? When you say hawker in Singapore, you think of a person selling
 cooked food in a place called a hawker centre, where a lot of other people
 are selling cooked food. The food is tasty and perhaps, more importantly,
 it’s affordable. However, if you consult a dictionary, the definition you’ll
-find doesn’t really match what we see in Singapore.</p>
-<p>&nbsp;</p>
+find doesn’t really match what we see in Singapore.&nbsp;</p>
 <p>The Oxford English Dictionary, for example, defines a hawker as a person
 who goes from place-to-place selling goods. Wikipedia says a hawker is
 a vendor of merchandise that is easily transported. In both these definitions,
 mobility is a key concept. However, hawker centres are the opposite of
 mobile, and that’s perhaps the first clue that the word hawker is used
 differently in Singapore compared to other places where at least today,
-it is used differently compared to other places.</p>
-<p>&nbsp;</p>
+it is used differently compared to other places.&nbsp;</p>
 <p>Here to tell us all about hawker and hawker culture is the aptly named
 Ryan Kueh<em>.</em> Ryan is the author of <em>From Streets to Stalls</em>,
 which traces the evolution of hawkers in Singapore, starting all the way
 back in the 14th century. He has a bachelor’s degree from Yale-NUS, and
 a master’s degree from Tsinghua University under the Schwarzman Scholars
-programme. Research is a particular passion of his.</p>
-<p>&nbsp;</p>
-<p>Welcome to the show, Ryan. How have you been?</p>
-<p>&nbsp;</p>
+programme. Research is a particular passion of his.&nbsp;</p>
+<p>Welcome to the show, Ryan. How have you been?&nbsp;</p>
 <p><strong>Ryan</strong>
-</p>
-<p>Hi Jimmy, thank you for welcoming me to the show. I’ve been well. Looking
+<br>Hi Jimmy, thank you for welcoming me to the show. I’ve been well. Looking
 forward to sharing my thoughts on hawker culture. And as you’ve introduced,
 I think Singaporeans conceive of hawkers quite differently to most people
-around the world and I’m very glad to share more about that.</p>
-<p>&nbsp;</p>
+around the world and I’m very glad to share more about that.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay, I’d like you to perhaps tell me then, how is it that in Singapore
+<br>Okay, I’d like you to perhaps tell me then, how is it that in Singapore
 we have this concept of hawker and hawker centres, but that’s different
 from everywhere else.</p>
 <p>&nbsp;</p>
@@ -919,8 +900,7 @@ it’s also like a sheltered area.</p>
 </p>
 <p>Complete the sentence “Hawking is...?”</p>
 <p><strong>Ryan</strong>
-</p>
-<p>Hawking is a representation of our past, present and future.</p>
+<br>Hawking is a representation of our past, present and future.</p>
 <p>&nbsp;</p>
 <p><strong>Jimmy</strong>
 </p>
