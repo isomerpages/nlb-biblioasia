@@ -69,10 +69,10 @@ their own experiences. *The Sentimentalists* was set on a long sea journey
 that paralleled Collins’ journey round the world in a yacht owned by
 American millionaire A.Y. Gowen, reporting on their travels for *The Herald* (of Melbourne, Australia).[^10] Rather than focus on the liminal experience in
 between ports of call, Maugham spent months at a time in specific regions
-so as to understand those societies in greater depth.11 *The Letter* was based
+so as to understand those societies in greater depth.[^11] *The Letter* was based
 on the sensational real-life murder of William Steward, a mine manager, by
 Mrs Ethel Proudlock, a Eurasian woman married to an English headmaster
-of the prestigious Victoria Institution in Kuala Lumpur.12
+of the prestigious Victoria Institution in Kuala Lumpur.[^12]
 
 In contrast, *Across to Singapore* and *The Road to Singapore* were based on a
 fictional setting, whereby Singapore was used in symbolic terms to evoke
@@ -80,7 +80,7 @@ certain characteristics of an exotic seaport. *All the Brothers Were Valiant*,
 the novel that *Across to Singapore* was based on, was originally set in the
 Gilbert Islands in the Pacific Ocean. Like *The Road to Singapore*, the story
 was primarily set on a ship in the Pacific, with Singapore appearing only
-briefly as a port of call.13 Nevertheless, these romanticised renderings
+briefly as a port of call.[^13] Nevertheless, these romanticised renderings
 presented an image of Singapore generally similar to that unveiled by
 films based on first-hand research. All the off-location films shot between
 1928 and 1933 fell into one of two categories: the seafaring tale (*Across to
@@ -97,7 +97,7 @@ stereotype of flirtatious girls and adulterous wives in the British Raj.
 Gossip newspapers such as *The Civil and Military Gazette* and the stories
 of Rudyard Kipling popularised the dramatic potential of such tales,
 which were reproduced in a new setting and medium within these early
-movies set in Singapore.14
+movies set in Singapore.[^14]
 
 #### **Jungle Documentaries**
 The first on-location foreign film made in Singapore emerged from a
@@ -107,45 +107,45 @@ filming, *Bring ’Em Back Alive* was a documentary feature based on the
 adventures of Frank Howard Buck, a Texan wildlife collector who had
 established his base in Singapore since World War I. The book of the same
 title by Buck, already known as a major animal supplier to zoos in America,
-became a bestseller in the US when it was released in 1930.15 Backed by
+became a bestseller in the US when it was released in 1930.[^15] Backed by
 Van Beuren Studios, produced by Buck and director Clyde Elliot, and
 distributed by RKO Pictures, the strong reception of the book paved the
 way for its cinematic success. Box office takings hit a million dollars within
 eight months of its release and the film was one of RKO ’s most profitable
-releases in 1932.16 Following its release, Buck travelled to London and the
-US , giving speeches to coincide with screenings.17
+releases in 1932.[^16] Following its release, Buck travelled to London and the
+US , giving speeches to coincide with screenings.[^17]
 
 Ostensibly a documentary, *Bring ’Em Back Alive* was heavily criticised by
 audiences in the know, with American naturalist Harry McGuire caustically
 calling Buck’s film a “hocus pocus” work of “nature faking” and *The Straits
 Times*’ correspondent going “hot under the collar” at the string of inaccuracies
-in the film.18 Buck bore the brunt of the bad press but pointed the finger of
+in the film.[^18] Buck bore the brunt of the bad press but pointed the finger of
 blame at Elliott instead. Elliott had readily admitted in public that scenes
 of a tiger being shot dead and a python fighting a crocodile had been staged
-for the camera.19 Buck said, “To my mind he has been very silly and rather
+for the camera.[^19] Buck said, “To my mind he has been very silly and rather
 ridiculous. All pictures are made to entertain people and if a fellow stands up
 and deliberately spoils the illusion he is biting the hand that feeds him…. I
 don’t mean we want to fool people – as a matter of fact the picture was made
-under more natural circumstances than any other of its kind.”20
+under more natural circumstances than any other of its kind.”[^20]
 
 Such controversies were nothing new in the context of the times. Java expert
 Huber S. Banner commented, “The trouble is, though, that after seeing
 one of these jungle films that are all the rage nowadays – Frank Buck’s epic
 of the Malayan forests, *Bring ’Em Back Alive’*, for instance – nobody will
-believe that one doesn’t go about in constant peril.”21 *Bring ’Em Back Alive'*
+believe that one doesn’t go about in constant peril.”[^21] *Bring ’Em Back Alive'*
 was quite likely one of the more realistic films of the genre, as Buck asserted,
 going by the detailed description in “How Frank Buck Filmed His Tiger-
 Python Battle”, an article from the American periodical *Modern Mechanix*
 and Inventions. When interviewed, Buck and the main cameraman, Nick
 Cavaliere, explained how they capitalised on normal patterns of animal
 behaviour around a watering hole by steering a tiger into a forced encounter
-with a python.22
+with a python.[^22]
 
 Yet there were many different levels of artifice involved in making *Bring ’Em
 Back Alive*; the realism of animal behaviour was only one aspect. The other
 was the locations where these scenes were shot. Viewers were led to believe that they were watching action from the heart of the Malayan jungle when,
 in fact, the close-up scenes were shot at Jurong Road just a few miles away
-from downtown Singapore.23 By providing a tropical location for filming,
+from downtown Singapore.[^23] By providing a tropical location for filming,
 Singapore was an essential component in creating the illusion of realism
 that caught the attention of international audiences. Buck’s emphasis on
 a successful “illusion” and that “all pictures are made to entertain” made
@@ -160,7 +160,7 @@ of books and films in a similar vein: *Wild Cargo* (book, 1932; film, 1934),
 Menace* (a 15-part film serial, 1937), *Animals Are Like That* (book, 1939),
 *Jungle Cavalcade* (film compilation of footage from his first three films,
 1941), *All in a Lifetime* (autobiography, 1941), *Jacaré* (film, 1942), *Tiger Fangs*
-(film, 1943) and *Jungle Animals* (book, 1945).24
+(film, 1943) and *Jungle Animals* (book, 1945).[^24]
 
 Buck’s success was due partly to his larger-than-life persona but also to
 the prolific stream of works that kept him in the spotlight. A strategic
@@ -172,7 +172,7 @@ intrigued by the Malayan aspect of the empire. Two years later, the stories from
 following year, in 1933, Buck set up a wild animal camp at the Century of
 Progress World’s Fair in Chicago, which was visited by two million visitors
 in the two years of its existence. In 1939, Buck brought the same camp
-exhibit, with thousands of wild animals, to the New York World’s Fair.25
+exhibit, with thousands of wild animals, to the New York World’s Fair.[^25]
 
 In this respect, Buck’s work made a far greater impact than that of his
 contemporary, Ernest B. Schoedsack, a director of travelogues on Persia and
@@ -180,11 +180,11 @@ Siam who had travelled to Sumatra to make the orang-utan film, *Rango*
 (1931). Despite the fact that Elliot had noted that *Rango* was more authentic
 than *Bring ’Em Back Alive*, and that it was regarded by cinema historian
 Derek Bouse as possibly the “first fully-realised wildlife film, in the modern
-sense”, it failed to achieve box office success.26 *Bring ’Em Back Alive* brought
+sense”, it failed to achieve box office success.[^26] *Bring ’Em Back Alive* brought
 fame not only to Buck, but also thrust Malaya into the consciousness of
 international audiences, with many cinemas even displaying maps. “At last,
 many people realised that Singapore is not in South Africa or China, or
-anywhere but where it is,” declared Elliott.27
+anywhere but where it is,” declared Elliott.[^27]
 
 #### **Ethnographic Fiction Films**
 Inspired by the success of *Bring ’Em Back Alive* and the cinematic potential
@@ -193,29 +193,29 @@ Hollywood crew and a cast led by rising star Marion Burns, to film *Man-
 Eater*, “the first talkie made entirely in the jungle” for Fox Film Corporation
 (released in 1934 as *Devil Tiger*). While *Bring ’Em Back Alive* was “a purely
 animal story”, *Man-Eater* moved one step further from documentary
-films with its dramatised storyline.28 However, *Man-Eater* was not the
+films with its dramatised storyline.[^28] However, *Man-Eater* was not the
 first American feature drama to go on location in Malaya. Barely a month earlier, an American crew under the direction of Ward Wing and funded by
 the independent B.F. Zeidman Productions, with a script by the director’s
 wife Lori Bara, had started filming *Samarang*, a “simple native romance”,
-set in a pearl-diving community in Singapore.29 These movies were part of a
+set in a pearl-diving community in Singapore.[^29] These movies were part of a
 trend of “natural dramas” beginning in the late 1920s, which were scripted,
-fictional films shot in exotic locations with a cast of local actors.30 Elliott’s
+fictional films shot in exotic locations with a cast of local actors.[^30] Elliott’s
 progression from animal behaviour to human drama was mirrored by the
 career of Ernest Schoedsack, whose biography and documentary film *Rango*
 provided inspiration for the iconic movie *King Kong*, which was written by
-Schoedsack’s long-time collaborator and friend, Merian Cooper.31
+Schoedsack’s long-time collaborator and friend, Merian Cooper.[^31]
 
 Moving away from a jungle setting, *Samarang* was shot on location along
-the coasts and offshore islands near Singapore.32 The cast were all local
+the coasts and offshore islands near Singapore.[^32] The cast were all local
 amateurs. Playing the female lead, “Sai-Yu, beautiful daughter of the tribal
 chieftain” was Therese Seth, an amateur dancer of Armenian ancestry who
 was talent-spotted by the film’s producers when she performed at the Capitol
-Follies.33 The male protagonist, a pearl diver named Ahmang, was played by
+Follies.[^33] The male protagonist, a pearl diver named Ahmang, was played by
 an Englishman, Captain Albert Victor Cockle, who was Chief Inspector of
-Police as well as an amateur actor.34 His “exceptionally fine physique” earned
+Police as well as an amateur actor.[^34] His “exceptionally fine physique” earned
 him the “reputation of being the ‘new Tarzan’” and direct comparisons with
-*Tarzan* star Johnny Weissmuller.35 The director, Ward Wing, went to great lengths to make the movie convincing. Screen tests were held and several
-*bangsawan* actors auditioned.36 To play the “natives” he took the trouble of
+*Tarzan* star Johnny Weissmuller.[^35] The director, Ward Wing, went to great lengths to make the movie convincing. Screen tests were held and several
+*bangsawan* actors auditioned.[^36] To play the “natives” he took the trouble of
 engaging extras from the Sakai tribe, who were “reputed to be cannibals”,
 in spite of the difficulties involved:
 
@@ -227,21 +227,21 @@ in spite of the difficulties involved:
    tell the Chinaman, who would tell the Sakai!*<br><br> 
    *This lengthy procedure had its difficulties for, by the time so many<br>
    people had translated Wing’s directions, they were sometimes<br>
-   entirely different*.37
+   entirely different*.[^37] 
 	 
 Even Captain Cockle had to assist the director in translating instructions
 into Malay, and additional Tamil interpreters were also hired for Indian
-supporting cast members.38 No effort was spared in maximising the
+supporting cast members.[^38] No effort was spared in maximising the
 dramatic potential of the natural surroundings as well. The underwater
 scenes of a real-life fight between a tiger shark and octopus, shot by
 cinematographer Stacy Woodward, were considered of important
 documentary value and caught the attention of American “biological
-experts” such as Dr Hazel Branch of Wichita University.39 A *New York Times*
+experts” such as Dr Hazel Branch of Wichita University.[^39] A *New York Times*
 review of the film expressed that it “is a picture distinguished by the obvious
 authenticity of many of its scenes. The flashes of the divers are shrewdly
 pictured – first by the men plunging into the sea and later by revealing them
 below, picking up shells. It is, of course, a fiction story, to which a certain
-realism is lent by the portrayals by the natives.”40
+realism is lent by the portrayals by the natives".[^40]
 
 <img src="/images/COA%202014%20to%202016/Real%20Singapore/Stills_from_Samarang_1.jpg" style="width:100%;">
  <div style="background-color: white;">Stills from <i>Samarang. (Alhambra Magazine (Vol. 5, no. 5), 29 September 1933).</i></div>
@@ -768,4 +768,4 @@ Wright, H. Nadia. [_Respected Citizens: The History of Armenians in Singapore an
 
 75 “[The Film Invasion](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19360320-1.2.58.2).”
 
-76 “[‘Booloo’ Girl Not Found Yet](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19370919-1.2.45).” 
+76 “[‘Booloo’ Girl Not Found Yet](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19370919-1.2.45).”
