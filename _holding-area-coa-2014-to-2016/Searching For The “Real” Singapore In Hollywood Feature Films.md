@@ -228,4 +228,94 @@ in spite of the difficulties involved:
    *This lengthy procedure had its difficulties for, by the time so many<br>
    people had translated Wing’s directions, they were sometimes<br>
    entirely different*.37
+	 
+Even Captain Cockle had to assist the director in translating instructions
+into Malay, and additional Tamil interpreters were also hired for Indian
+supporting cast members.38 No effort was spared in maximising the
+dramatic potential of the natural surroundings as well. The underwater
+scenes of a real-life fight between a tiger shark and octopus, shot by
+cinematographer Stacy Woodward, were considered of important
+documentary value and caught the attention of American “biological
+experts” such as Dr Hazel Branch of Wichita University.39 A *New York Times*
+review of the film expressed that it “is a picture distinguished by the obvious
+authenticity of many of its scenes. The flashes of the divers are shrewdly
+pictured – first by the men plunging into the sea and later by revealing them
+below, picking up shells. It is, of course, a fiction story, to which a certain
+realism is lent by the portrayals by the natives.”40
+
+Th e ethnographic tone of parts of the fi lm, particularly the introductory
+section filmed in a malay *kampong* (village), provided a veneer of
+respectability for the unabashedly risqué scenes featuring Cockle and seth.
+Th ey were clothed in the skimpiest of loincloths and a bikini top, and fl irted
+suggestively with each other. seth also appeared topless for most of the 58
+minutes of the fi lm (Fig. 1).41 Th e fi lm inspired a mini-revolution of public
+exposure of the human body in america. For its opening in new york, the
+samarang Club was inaugurated, “which provided that all its members
+should wear bathing shorts and not the complete costume”.42 at Californian seaside resorts, men flouted local laws and went swimming with bare chests
+causing “large batches of swimmers [to] have found themselves before the
+local magistrate”. As members of clubs were exempt from such laws, many
+joined the Samarang Club.43
+
+Passing for a quasi-documentary on natives of the South Seas, *Samarang*
+could depict the nude female body in a way that mainstream films set in
+western society could not. The Pacific Islands and Bali, in particular, were
+popular locations for similar “nature dramas” that capitalised on the sexual
+potential of native scenes in exotic locations. F.W. Murnau’s sexually-charged
+*Tabu* (1931), filmed in Bora Bora with amateur actors and a local
+cast, was the most successful of these; but there were others, such as *Balinese
+Love* (1931), *Goona Goona* (1932, also known as *Kriss*), *Isle of Paradise* (1932),
+*Virgins of Bali*(*Land of Love and Romance*) (1932), *Wajan* (1933) and *Legong:
+Dance of the Virgins* (1935).44
+
+In the words of film studies scholar Peter Bloom, this “was an auspicious
+genre of documentary filmmaking because it supported the fantasy
+and mythology that accompanied the first wave of the far-flung mass
+international tourist trade”.45 The term “goona-goona” became Hollywood
+industry slang for shots of bare-breasted non-white women.46 On-location
+filming and the use of a local amateur cast, even if the action was fictional
+rather than ethnographic documentation, was likely to have been the
+key to sneaking salacious content past conservative forces in Hollywood
+and the American public under the veneer of realism. Following *Tabu’s*
+positive reception, it was remade by RKO as a studio film called *Bird of
+Paradise* (1932), directed by Oscar-winning director King Vidor with a
+professional cast. But the topless shots and nude swimming scene were
+found objectionable under the strict moral standards of the Hays Production
+Code, curtailing the film’s circulation and resulting in – despite the reputation of Vidor and renowned producer David O. Selznick – a loss of
+US $250,000 at the box office.47
+
+As a silent film by an independent production company, *Samarang* was quite
+different in scale from *Devil Tiger*. The latter was funded by a major studio,
+featured a well-known Hollywood cast and, most importantly, was the
+first talkie entirely produced in Malaya and Singapore.48 Elliott arrived in
+Singapore with eight tonnes of equipment, a cameraman, sound engineers,
+“three rising stars in Hollywood” – Marion Burns, Kane Richmond and
+Harry Woods – as well as a *New York Times* reporter. After his fallout with
+Buck, Elliott turned to a local Eurasian zoological collector, Herbert de
+Souza, for professional advice on the animal scenes.49
+
+*Devil Tiger* was tame in comparison to the challenges *Samarang* had
+faced working with a native cast and public attention arising from its
+daring nudity. Locals – many were Caucasian residents in Singapore –
+were cast as extras in genteel hotel party scenes.50 Mishaps that occurred
+during production were kept under wraps for fear of bad publicity, but
+after the movie’s release, it was revealed that cameraman Jack Dunn had
+been “mauled by a black panther” and “Kane Richmond had two ribs
+fractured by a constricting python”.51 While American film reviewers
+described *Devil Tiger* as “thrilling”, “realistic” and “informative”, and one
+of Fox Films’ best films of 1934, local audiences found it forgettable and
+were nonplussed by the exaggerated portrayal of the Malayan jungle.52
+Perceptions of realism and authenticity, and the value attached to these
+qualities, were at odds with the film’s shooting location and its target
+market on the other side of the globe.
+
+Other filmmakers also expressed a desire for the kind of approach used in
+*Devil Tiger*. In March 1936, the well-known travelogue producer James A.
+Fitzpatrick was in Singapore to collect scenes and background for two films.
+In an interview he said that he hoped to return to make a feature film:
+“It will have a plot drawn from the life of this unique city of the East. My
+stars I will bring with me. There will be no superimposing of plot or players
+against a pre-photographed Singapore background.” He also criticised
+the “over-coloured imaginations of ‘hokum’ writers who spend a few days
+here, then go back to the States and write of the gin-sling and champagne
+imbibing ‘beachcombers’ and such characters dear to the penny novelettes”.53
 
