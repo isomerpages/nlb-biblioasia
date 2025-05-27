@@ -251,13 +251,13 @@ section filmed in a malay *kampong* (village), provided a veneer of
 respectability for the unabashedly risqué scenes featuring Cockle and seth.
 Th ey were clothed in the skimpiest of loincloths and a bikini top, and fl irted
 suggestively with each other. seth also appeared topless for most of the 58
-minutes of the fi lm (Fig. 1).41 Th e fi lm inspired a mini-revolution of public
+minutes of the fi lm (Fig. 1).[^41] The film inspired a mini-revolution of public
 exposure of the human body in america. For its opening in new york, the
 samarang Club was inaugurated, “which provided that all its members
-should wear bathing shorts and not the complete costume”.42 at Californian seaside resorts, men flouted local laws and went swimming with bare chests
+should wear bathing shorts and not the complete costume”.[^42] at Californian seaside resorts, men flouted local laws and went swimming with bare chests
 causing “large batches of swimmers [to] have found themselves before the
 local magistrate”. As members of clubs were exempt from such laws, many
-joined the Samarang Club.43
+joined the Samarang Club.[^43]
 
 Passing for a quasi-documentary on natives of the South Seas, *Samarang*
 could depict the nude female body in a way that mainstream films set in
@@ -268,13 +268,13 @@ potential of native scenes in exotic locations. F.W. Murnau’s sexually-charged
 cast, was the most successful of these; but there were others, such as *Balinese
 Love* (1931), *Goona Goona* (1932, also known as *Kriss*), *Isle of Paradise* (1932),
 *Virgins of Bali*(*Land of Love and Romance*) (1932), *Wajan* (1933) and *Legong:
-Dance of the Virgins* (1935).44
+Dance of the Virgins* (1935).[^44]
 
 In the words of film studies scholar Peter Bloom, this “was an auspicious
 genre of documentary filmmaking because it supported the fantasy
 and mythology that accompanied the first wave of the far-flung mass
-international tourist trade”.45 The term “goona-goona” became Hollywood
-industry slang for shots of bare-breasted non-white women.46 On-location
+international tourist trade”.[^45] The term “goona-goona” became Hollywood
+industry slang for shots of bare-breasted non-white women.[^46] On-location
 filming and the use of a local amateur cast, even if the action was fictional
 rather than ethnographic documentation, was likely to have been the
 key to sneaking salacious content past conservative forces in Hollywood
@@ -284,29 +284,30 @@ Paradise* (1932), directed by Oscar-winning director King Vidor with a
 professional cast. But the topless shots and nude swimming scene were
 found objectionable under the strict moral standards of the Hays Production
 Code, curtailing the film’s circulation and resulting in – despite the reputation of Vidor and renowned producer David O. Selznick – a loss of
-US $250,000 at the box office.47
+US $250,000 at the box office.[^47]
 
 As a silent film by an independent production company, *Samarang* was quite
 different in scale from *Devil Tiger*. The latter was funded by a major studio,
 featured a well-known Hollywood cast and, most importantly, was the
-first talkie entirely produced in Malaya and Singapore.48 Elliott arrived in
+first talkie entirely produced in Malaya and Singapore.[^48] Elliott arrived in
 Singapore with eight tonnes of equipment, a cameraman, sound engineers,
 “three rising stars in Hollywood” – Marion Burns, Kane Richmond and
 Harry Woods – as well as a *New York Times* reporter. After his fallout with
 Buck, Elliott turned to a local Eurasian zoological collector, Herbert de
-Souza, for professional advice on the animal scenes.49
+Souza, for professional advice on the animal scenes.[^49]
 
 *Devil Tiger* was tame in comparison to the challenges *Samarang* had
 faced working with a native cast and public attention arising from its
 daring nudity. Locals – many were Caucasian residents in Singapore –
-were cast as extras in genteel hotel party scenes.50 Mishaps that occurred
+were cast as extras in genteel hotel party scenes.[^50] Mishaps that occurred
 during production were kept under wraps for fear of bad publicity, but
 after the movie’s release, it was revealed that cameraman Jack Dunn had
 been “mauled by a black panther” and “Kane Richmond had two ribs
-fractured by a constricting python”.51 While American film reviewers
+fractured by a constricting python”.[^51] While American film reviewers
 described *Devil Tiger* as “thrilling”, “realistic” and “informative”, and one
 of Fox Films’ best films of 1934, local audiences found it forgettable and
-were nonplussed by the exaggerated portrayal of the Malayan jungle.52
+were nonplussed by the exaggerated portrayal of the Malayan jungle.[^52] 
+
 Perceptions of realism and authenticity, and the value attached to these
 qualities, were at odds with the film’s shooting location and its target
 market on the other side of the globe.
@@ -320,34 +321,34 @@ stars I will bring with me. There will be no superimposing of plot or players
 against a pre-photographed Singapore background.” He also criticised
 the “over-coloured imaginations of ‘hokum’ writers who spend a few days
 here, then go back to the States and write of the gin-sling and champagne
-imbibing ‘beachcombers’ and such characters dear to the penny novelettes”.53
+imbibing ‘beachcombers’ and such characters dear to the penny novelettes”.[^53] 
 
 #### **Realistic Fiction Over Dramatised Realism**
 *Devil Tiger*, however, failed to make its mark at the box office. That honour
 went to *The Jungle Princess* (1936), a Paramount Pictures film written and
 directed by William Thiele, which became the most successful film set
-in Malaya since *Bring ’Em Back Alive*.54 The film launched the career of
+in Malaya since *Bring ’Em Back Alive*.[^54] The film launched the career of
 Dorothy Lamour, who became known for her sarong costumes in many
 films, an image created by her role as a native girl in *The Jungle Princess*.
 Although filmed in Hawaii, this was the first talkie film to use actual Malay
 dialogue. The story reflected a multi-ethnic Malayan society by including
-a Chinese servant alongside the Malay villagers and European hunters.55
+a Chinese servant alongside the Malay villagers and European hunters.[^55] 
 Ray Milland acted as a British explorer rescued in the jungle by a native girl
 (Dorothy Lamour) who had grown up in the jungle with only a pet tiger
 and pet chimpanzee for company. Tightly directed and combining drama,
 comedy, romance and jungle action with captivating singing from Lamour,
 the film played to full houses in Singapore and, unlike all the other previous
-Malayan films, received the Singapore critics’ thumbs up.56 *The Jungle Princess* even inspired a remake entitled *Terang Boelan* (1937), which was the
+Malayan films, received the Singapore critics’ thumbs up.[^56] *The Jungle Princess* even inspired a remake entitled *Terang Boelan* (1937), which was the
 first Indonesian film in Malay, scripted by Indonesian journalist Saeroen,
-with cinematography by David Wong, an Indonesian-Chinese.57
+with cinematography by David Wong, an Indonesian-Chinese.[^57] 
 
 Just months after the well-received release of *The Jungle Princess*, Paramount
 Pictures set out to go one step further with a similar Malayan jungle
 romance-adventure filmed on location in the tropics. The director of *Booloo*
 was Elliott, who had established his Malayan credentials with *Bring ’Em
-Back Alive* and *Devil Tiger*.58 With 10 tonnes of “the most up-to-date,
+Back Alive* and *Devil Tiger*.[^58] With 10 tonnes of “the most up-to-date,
 portable, light and sound equipment”, Elliott had even better resources to
-work with on *Booloo* compared to his previous Malayan films.59 The story
+work with on *Booloo* compared to his previous Malayan films.[^59] The story
 behind *Booloo* expresses most clearly the tension between realism and staged
 fiction. Although Elliott had been criticised for taking creative licence
 in both *Bring ’Em Back Alive* and *Devil Tiger*, he struggled against the
@@ -355,25 +356,25 @@ commercial impositions by Paramount Studios in Hollywood to preserve
 authenticity in *Booloo*.
 
 Like *Samarang*, *Booloo* intended to feature local amateur actors from Malaya
-cast alongside Paramount actor Colin Tapely.60 After an exhaustive search
+cast alongside Paramount actor Colin Tapely.[^60] After an exhaustive search
 where “girls from practically every class of Singapore society from Tanglin
 to Chinatown [were] given film tests”, a Javanese dancer named Ratna
 Asmara, from the Dardenalla travelling performance troupe, was cast in the
 lead role of a Malay girl. Playing her Malay lover was Singaporean-Eurasian
-Fred Pullen.61 Supporting roles were assigned to locals Elliott was familiar
+Fred Pullen.[^61] Supporting roles were assigned to locals Elliott was familiar
 with from *Devil Tiger* – the wildlife collector Herbert de Souza, Ah Ho (a
 Chinese male) and Ah Lee (a young boy of not more than 10 years old), who
 had played a minor role; as well as Europeans based in Singapore, such as
-professional actor Carl Lawson, and two army officers.62
+professional actor Carl Lawson, and two army officers.[^62] 
 
 With the casting of Ratna Asmara, it would seem that *Booloo* did what both
 *Samarang* and *The Jungle Princess* could not – a Malay protagonist played by
 a local actress speaking in her natural vernacular. However, this was perhaps
 simply too real for American audiences and, to Elliott’s dismay, most of his
-location shoots with the Malayan cast were left on the cutting room floor.63
+location shoots with the Malayan cast were left on the cutting room floor.[^63]
 Paramount decided to reshoot most of the film in Hollywood and Ratna
 Asmara was replaced by Mamo Clark, famed for *Mutiny on the Bounty*
-(1935), where she had starred alongside Clark Gable.64
+(1935), where she had starred alongside Clark Gable.[^64]
 
 If Dorothy Lamour had been convincing enough as a native Malay girl,
 then casting a genuine native girl was less important than Clark’s celebrity
@@ -381,10 +382,10 @@ status. While *The Jungle Princess* was enhanced with a dose of realistic
 elements, *Booloo’s* attempt at realism seemed to have crossed a line. It never
 achieved the success of *The Jungle Princess*, instead receiving scathing reviews
 that panned the “silly story” and the “jungle and Hollywood sequences
-[which had] been spliced together so crudely”.65 Not even the Caucasianlooking
+[which had] been spliced together so crudely”.[^65] Not even the Caucasianlooking
 Pullen, acting as a Malay boy, passed muster, and only one of his
 scenes was retained. Pullen was “extremely disappointed” and wrote to the
-producers to complain.66 *Booloo* was the last of the pre-war, location feature
+producers to complain.[^66] *Booloo* was the last of the pre-war, location feature
 films that received an international commercial release.
 
 Two other efforts around this time deserve mention, as well as to provide a
@@ -397,17 +398,17 @@ Chinatown, cabarets and night-life, Malay *kampongs*, jungles, rubber
 plantations, fauna and other features of Malaya”.
 
 The footage was to be used back in Hollywood as a backdrop for the
-cast to act in front of “so that they [would] have a genuine Malayan background instead of a fake one”.67 Garnett wanted to avoid the pitfalls
+cast to act in front of “so that they [would] have a genuine Malayan background instead of a fake one”.[^67] Garnett wanted to avoid the pitfalls
 of other motion pictures, which “did not always depict Eastern scenes and
 atmosphere faithfully”, particularly by showing “advanced Asiatic races as
 barbarians”. He planned for two films to be made with his location footage:
 *Trade Winds*, which was released in 1938, and *Singapore Bound*, which was
 ultimately never made. The former was a detective romantic comedy starring
 Joan Bennett and Fredric March, which was, in addition to Singapore,
-also set in Japan, Shanghai, Colombo and Bombay.68 Bob Hope’s classic
+also set in Japan, Shanghai, Colombo and Bombay.[^68] Bob Hope’s classic
 *Road to Singapore* (1940) revived the trope of seafaring stories set on a ship
 headed for the exotic tropical port, with no attempt or need for any sense of
-Malayan realism.69
+Malayan realism.[^69] 
 
 #### **The Real Singapore**
 Parallel to an analysis of the interplay of realism and romanticisation in
@@ -417,7 +418,7 @@ were set in the tropical jungle, and locations in Singapore were chosen
 to depict the habitat of wild animals in *Bring ’Em Back Alive*, or a Malay
 village in *Samarang*. Whether accused of zoological “fakery” or showing
 a genuine Malay *kampong* in Bedok, both films were successful at the
-Singapore box office.70 The local setting and familiar faces seen on the big
+Singapore box office.[^70] The local setting and familiar faces seen on the big
 screen for the first time were enough to attract Singapore viewers, out of
 curiosity, if nothing else. The urban cinemagoers of Singapore who admired
 all things modern suddenly had rural, traditional life presented to them
@@ -436,11 +437,11 @@ Singapore’s leading Malay journalist and the community’s representative
 on the Straits Settlements Legislative Council. The association called for
 the purchase of land in Singapore where “Malays could build their own
 houses, plant a few fruit trees and live among their own people in the
-manner in which they were accustomed”.71 Like the obfuscation of reality
+manner in which they were accustomed”.[^71] Like the obfuscation of reality
 in Hollywood films, this idealisation of the Malay kampong obscured the
 suburban location in Geylang of Kampong Melayu, as the completed
 settlement came to be called, as well as the residents’ occupations in the
-urban service industry rather than agriculture.72
+urban service industry rather than agriculture.[^72]
 
 Aside from the genre conventions of ethnographic and wildlife films,
 Singapore also played into other stereotypes, as with the early seafaring
@@ -448,12 +449,12 @@ and illicit romance-themed films, which lacked authentic location footage.
 A range of strategies was employed in the representation of Singapore as
 a bustling Asian urban centre, which attracted critical responses within
 Singapore. Alfred Hitchcock’s *Rich and Strange* included only brief street
-scenes of downtown Singapore, most likely taken from stock footage.73 In
+scenes of downtown Singapore, most likely taken from stock footage.[^73]  In
 1936, Garnett filmed Singapore scenes to be used as rear projections for
 actors in a Hollywood studio, while *Booloo* reached further for authenticity
 in hiring over 200 extras – Malays, Chinese and Indian men, women and
 children, including “Chinese coolies and ricksha boys” to film train scenes
-at the railway station.74
+at the railway station.[^74]
 
 By March 1936, Singapore audiences had seen enough Hollywood versions
 of Singapore to elicit a scathing critique in an editorial by *The Singapore
@@ -473,14 +474,14 @@ out, nor the rubber and produce godowns, dull-looking indeed but full
 of interest and romance, not the obvious poverty and diseases of ‘cheery
 Chinatown’, nor the essentially hardworking and thrifty Chinese, but only
 his ‘sinister’ brother, nor the harmless booths at the amusement parks, but
-an opium den.”75
+an opium den”.[^75]
 
 A year and a half later, when *Booloo* was finally screened in Singapore, its
 concerted attempt at a realistic portrayal of Singapore urban life also came
 under fire. A letter to *The Straits Times* asked why the film was “trying to
 show the world that the Asiatic population of this city consists of nothing
 but hawkers, satai-men, poultry-farmers, ice-water sellers, pig rearers, and
-half-naked Chinese coolies”.76 The author, calling himself “No Hokum
+half-naked Chinese coolies”.[^76] The author, calling himself “No Hokum
 Here”, demanded to know if the authorities would “allow this sort of thing
 to be shown to the rest of the world”. It would seem that the author was
 defending the prestige of the island and, more specifically, the educated,
