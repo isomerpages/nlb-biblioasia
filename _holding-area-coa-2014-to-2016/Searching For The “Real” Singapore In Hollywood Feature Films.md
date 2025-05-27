@@ -618,106 +618,107 @@ Wolfe, Charles. “The Poetics and Politics of Nonfiction: Documentary Film.” 
 
 Wright, H. Nadia. [_Respected Citizens: The History of Armenians in Singapore and Malaysia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12231618). Middle Park, Vic.: Amassia Publishing, 2003. (From National Library Singapore, call no. RSING 305.891992 WRI)
 
-#### **NOTES**
-         
+#### **NOTES**    
 
-1 “[Singapore May Become Hollywood of East](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19360109-1.2.55),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 9 January 1936, 6. (From NewspaperSG)
+[^1]: “[Singapore May Become Hollywood of East](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19360109-1.2.55),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 9 January 1936, 6. (From NewspaperSG)
 
-2 “[The Film Invasion](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19360320-1.2.58.2),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 20 March 1936, 8. (From NewspaperSG)
+[^2]: “[The Film Invasion](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19360320-1.2.58.2),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 20 March 1936, 8. (From NewspaperSG)
 
-3 Mark Ravinder Frost and Yu-Mei Balasingamchow, [_Singapore: A Biography_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13229116) (Singapore: Editions Didier Millet, 2009), 135. (From National Library Singapore, Call no. RSING 959.57 FRO-\[HIS\])
+[^3]: Mark Ravinder Frost and Yu-Mei Balasingamchow, [_Singapore: A Biography_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13229116) (Singapore: Editions Didier Millet, 2009), 135. (From National Library Singapore, Call no. RSING 959.57 FRO-\[HIS\])
 
-4 Raphael Millet, [_Singapore Cinema_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12716044) (Singapore: Editions Didier Millet, 2006), 19 (From National Library Singapore, call no. RSING q791.43095957 MIL); Raphael Millet, “[Gaston Méliès and His Lost Films of Singapore](https://biblioasia.nlb.gov.sg/vol-12/issue-1/apr-jun-2016/gaston-melies/),” _BiblioAsia_ 12, no. 1 (April–June 2016); Toh Hun Ping, _Singapore Film Locations Archives_, accessed 21 July 2016, [https://sgfilmlocations.com](https://sgfilmlocations.com).
+[^4]: Raphael Millet, [_Singapore Cinema_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12716044) (Singapore: Editions Didier Millet, 2006), 19 (From National Library Singapore, call no. RSING q791.43095957 MIL); Raphael Millet, “[Gaston Méliès and His Lost Films of Singapore](https://biblioasia.nlb.gov.sg/vol-12/issue-1/apr-jun-2016/gaston-melies/),” _BiblioAsia_ 12, no. 1 (April–June 2016); Toh Hun Ping, _Singapore Film Locations Archives_, accessed 21 July 2016, [https://sgfilmlocations.com](https://sgfilmlocations.com).
 
-5 Millet, [_Singapore Cinema_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12716044), 143–44; Lai Chee Keong, “The Native in Her Place: Hollywood Depictions of Singapore From 1940–1980,” unpublished paper, 2001. Prints of these films are not easily available, with some existing only as non-circulating archival copies. The only print of _Sal of Singapore_, which is held in the UCLA library, is currently undergoing preservation and is inaccessible to researchers, while the sole known copy of _The Crimson City_ was rediscovered in 2010 in the archives of the Museo del Cine in Buenos Aires, Argentina. See Larry Rohter, “Footage Restored to Fritz Lang’s ‘Metropolis’,” _New York Times_, 4 May 2010, accessed 21 May 2013, [https://www.nytimes.com/2010/05/05/movies/05metropolis.html](https://www.nytimes.com/2010/05/05/movies/05metropolis.html).
+[^5]: Millet, [_Singapore Cinema_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12716044), 143–44; Lai Chee Keong, “The Native in Her Place: Hollywood Depictions of Singapore From 1940–1980,” unpublished paper, 2001. Prints of these films are not easily available, with some existing only as non-circulating archival copies. The only print of _Sal of Singapore_, which is held in the UCLA library, is currently undergoing preservation and is inaccessible to researchers, while the sole known copy of _The Crimson City_ was rediscovered in 2010 in the archives of the Museo del Cine in Buenos Aires, Argentina. See Larry Rohter, “Footage Restored to Fritz Lang’s ‘Metropolis’,” _New York Times_, 4 May 2010, accessed 21 May 2013, [https://www.nytimes.com/2010/05/05/movies/05metropolis.html](https://www.nytimes.com/2010/05/05/movies/05metropolis.html).
 
-6 Toh Hun Ping, “Singapore Is the MacGuffin,” Sgfilmlocations, 18 January 2013, [https://sgfilmhunter.wordpress.com/2013/01/18/rich-and-strange/](https://sgfilmhunter.wordpress.com/2013/01/18/rich-and-strange/).
+[^6]: Toh Hun Ping, “Singapore Is the MacGuffin,” Sgfilmlocations, 18 January 2013, [https://sgfilmhunter.wordpress.com/2013/01/18/rich-and-strange/](https://sgfilmhunter.wordpress.com/2013/01/18/rich-and-strange/).
 
-7 _Across to Singapore_, written by Ben Anne Williams and Ted Shane and directed by Nigh William (Metro-Goldwyn-Mayer, 1928), 1:25, &nbsp;[http://www.imdb.com/title/tt0018618](http://www.imdb.com/title/tt0018618); _Sal of Singapore_, written by Dale Collins and directed by Howard Higgin (Pathe Exchange, 1928), 1:10, [http://www.imdb.com/title/tt0019348](http://www.imdb.com/title/tt0019348); _East of Shanghai_, written by Dale Collins and Howard Higgin (British International Pictures, 1931), 1:23, http:// [www.imdb.com/title/tt0023395](http://www.imdb.com/title/tt0023395). (_Rich and Strange_ was the original release title in the UK, the film was renamed for the US market)
+[^7] _Across to Singapore_, written by Ben Anne Williams and Ted Shane and directed by Nigh William (Metro-Goldwyn-Mayer, 1928), 1:25, &nbsp;[http://www.imdb.com/title/tt0018618](http://www.imdb.com/title/tt0018618); _Sal of Singapore_, written by Dale Collins and directed by Howard Higgin (Pathe Exchange, 1928), 1:10, [http://www.imdb.com/title/tt0019348](http://www.imdb.com/title/tt0019348); _East of Shanghai_, written by Dale Collins and Howard Higgin (British International Pictures, 1931), 1:23, http:// [www.imdb.com/title/tt0023395](http://www.imdb.com/title/tt0023395). (_Rich and Strange_ was the original release title in the UK, the film was renamed for the US market)
 
-8 _The Road to Singapore_, written by Denis Robins and Roland Pertwee and directed by Alfred E. Green (Paramount Pictures, 1931), 1:09, [http://www.imdb.com/title/tt0022321](http://www.imdb.com/title/tt0022321); Denise Robins, _Stranger Than Fiction: An Autobiography_ (London: Hodder &amp; Stoughton, 1965); _The Letter_, written by W. Somerset Maugham and directed by Jean De Limur (Warner Bros, 1929), 1:05, [http://www.imdb.com/title/tt0020092](http://www.imdb.com/title/tt0020092).
+[^8]: _The Road to Singapore_, written by Denis Robins and Roland Pertwee and directed by Alfred E. Green (Paramount Pictures, 1931), 1:09, [http://www.imdb.com/title/tt0022321](http://www.imdb.com/title/tt0022321); Denise Robins, _Stranger Than Fiction: An Autobiography_ (London: Hodder &amp; Stoughton, 1965); _The Letter_, written by W. Somerset Maugham and directed by Jean De Limur (Warner Bros, 1929), 1:05, [http://www.imdb.com/title/tt0020092](http://www.imdb.com/title/tt0020092).
 
-9 Somerset Maugham’s visits to Singapore took place in 1921 and 1925, and Dale Collins’ sojourns in 1922 and 1926, see “[Social and Personal](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19210804-1.2.37),” _Straits Times_, 4 August 1921, 6; “Cruise of the Speejacks,” _Straits Times_, 20 June 1922, 7; “[Mr. Somerset Maugham](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19251109-1.2.69),” _Straits Times_, 9 November 1925, 9; “[Social and Personal](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19260127-1.2.39),” _Straits Times_, 27 January 1926, 8. (From NewspaperSG)
+[^9]: Somerset Maugham’s visits to Singapore took place in 1921 and 1925, and Dale Collins’ sojourns in 1922 and 1926, see “[Social and Personal](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19210804-1.2.37),” _Straits Times_, 4 August 1921, 6; “Cruise of the Speejacks,” _Straits Times_, 20 June 1922, 7; “[Mr. Somerset Maugham](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19251109-1.2.69),” _Straits Times_, 9 November 1925, 9; “[Social and Personal](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19260127-1.2.39),” _Straits Times_, 27 January 1926, 8. (From NewspaperSG)
 
-10 “[Round the World in a Yacht](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19220620-1.2.33),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 20 June 1922, 7 (From NewspaperSG); Dale Collins, _The Sentimentalists_ (London: Heinemann, 1927)
+[^10]: “[Round the World in a Yacht](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19220620-1.2.33),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 20 June 1922, 7 (From NewspaperSG); Dale Collins, _The Sentimentalists_ (London: Heinemann, 1927)
 
-11 “[Mr. Somerset Maugham](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19251109-1.2.69)”; “[The Plays and Public](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19251110-1.2.34),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 10 November 1925, 8. (From NewspaperSG)
+[^11]: “[Mr. Somerset Maugham](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19251109-1.2.69)”; “[The Plays and Public](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19251110-1.2.34),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 10 November 1925, 8. (From NewspaperSG)
 
-12 Fiona Tan, “Four Accounts of a Shooting” (blog), Malaya Black and White, 10 April 2013, http://malayablackandwhite.wordpress.com/2013/04/10/four-accountsof- a-shooting/; “[An Occasional Note](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19261013-1.2.26),” _Straits Times_, 13 October 1926, 8 (From NewspaperSG); London: Public Record Office, “Public Prosecutor vs Ethel Mabel Proudlock,” 7 June 2011 (Criminal Case No. 22/11, C.O. 273/274), accessed 23 May 2013, MalayaBlack and white Files,&nbsp; http://malayablackandwhite.files.wordpress.com/2013/04/co273-374-proudlock-evidence.pdf.
+[^12]: Fiona Tan, “Four Accounts of a Shooting” (blog), Malaya Black and White, 10 April 2013, http://malayablackandwhite.wordpress.com/2013/04/10/four-accountsof- a-shooting/; “[An Occasional Note](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19261013-1.2.26),” _Straits Times_, 13 October 1926, 8 (From NewspaperSG); London: Public Record Office, “Public Prosecutor vs Ethel Mabel Proudlock,” 7 June 2011 (Criminal Case No. 22/11, C.O. 273/274), accessed 23 May 2013, MalayaBlack and white Files,&nbsp; http://malayablackandwhite.files.wordpress.com/2013/04/co273-374-proudlock-evidence.pdf.
 
-13 Ben Ames Williams, _All the Brothers Were Valiant_ (New York: The Macmillan Company, 1919), [http://www.gutenberg.org/files/25885/25885-h/25885-h.htm](http://www.gutenberg.org/files/25885/25885-h/25885-h.htm); R. Buccicone, “The Road to Singapore,” (blog), Macguffinmovies, 30 January 2012, accessed 30 May 2013, [http://macguffinmovies.wordpress.com/2012/01/30/the-road-tosingapore/](http://macguffinmovies.wordpress.com/2012/01/30/the-road-tosingapore/); Margarita Landazuri, “The Road to Singapore,” 1931, accessed 30 May 2013, Turner Classic Movies; Une Cinephile “Road to Singapore,” (blog), 26 January 2012, accessed 30 May 2013, http://unecinephile.blogspot.com/2012/01/road-to-singapore-1931.html.
+[^13]: Ben Ames Williams, _All the Brothers Were Valiant_ (New York: The Macmillan Company, 1919), [http://www.gutenberg.org/files/25885/25885-h/25885-h.htm](http://www.gutenberg.org/files/25885/25885-h/25885-h.htm); R. Buccicone, “The Road to Singapore,” (blog), Macguffinmovies, 30 January 2012, accessed 30 May 2013, [http://macguffinmovies.wordpress.com/2012/01/30/the-road-tosingapore/](http://macguffinmovies.wordpress.com/2012/01/30/the-road-tosingapore/); Margarita Landazuri, “The Road to Singapore,” 1931, accessed 30 May 2013, Turner Classic Movies; Une Cinephile “Road to Singapore,” (blog), 26 January 2012, accessed 30 May 2013, http://unecinephile.blogspot.com/2012/01/road-to-singapore-1931.html.
 
-14 Ronald Hyam, _Empire and Sexuality: The British Experience_ (Manchester: Manchester University Press, 1990), 179–80.
+[^14]: Ronald Hyam, _Empire and Sexuality: The British Experience_ (Manchester: Manchester University Press, 1990), 179–80.
 
-15 “[Slump in the Tiger Trade](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19320921-1.2.53),” _Singapore Free Press and Mercantile Advertiser_ (1884–1942), 21 September 1932, 7. (From NewspaperSG)
+[^15]: “[Slump in the Tiger Trade](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19320921-1.2.53),” _Singapore Free Press and Mercantile Advertiser_ (1884–1942), 21 September 1932, 7. (From NewspaperSG)
 
-16 [“$1,000,000 Picture Maker in Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19330405-1.2.49),” _Straits Times_, 5 April 1933, 12 (From NewspaperSG); Charles Wolfe, “The Poetics and Politics of Nonfiction: Documentary Film,” in _Grand Design: Hollywood as a Modern Business Enterprise, 1930–1939_, ed. Tino Balio [_History of the American Cinema_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6791129) 5 (New York: Maxwell Macmillan International, 1996), 380. (From National Library Singapore, call no. 791.430973 HIS)
+[^16]: [“$1,000,000 Picture Maker in Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19330405-1.2.49),” _Straits Times_, 5 April 1933, 12 (From NewspaperSG); Charles Wolfe, “The Poetics and Politics of Nonfiction: Documentary Film,” in _Grand Design: Hollywood as a Modern Business Enterprise, 1930–1939_, ed. Tino Balio [_History of the American Cinema_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6791129) 5 (New York: Maxwell Macmillan International, 1996), 380. (From National Library Singapore, call no. 791.430973 HIS)
 
-17 “[Slump in the Tiger Trade](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19320921-1.2.53)”; “[Bring ‘Em Back Alive](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19321117-1.2.106),” _Straits Times_, 17 November 1932, 18. (From NewspaperSG)
+[^17]: “[Slump in the Tiger Trade](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19320921-1.2.53)”; “[Bring ‘Em Back Alive](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19321117-1.2.106),” _Straits Times_, 17 November 1932, 18. (From NewspaperSG)
 
-18 McGuire was writing in the magazine, _Outdoor Life_, as reported in “[Bring ‘Em Back Alive](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19321117-1.2.106)”; See also “[Another Critic of Mr. Frank Buck](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19330409-1.2.60),” _Straits Times_, 9 April 1933, 9. (From NewspaperSG)
+[^18]: McGuire was writing in the magazine, _Outdoor Life_, as reported in “[Bring ‘Em Back Alive](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19321117-1.2.106)”; See also “[Another Critic of Mr. Frank Buck](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19330409-1.2.60),” _Straits Times_, 9 April 1933, 9. (From NewspaperSG)
 
-19 “[Pictures and How They Are Made](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19321208-1.2.90),” _Straits Times_, 8 December 1932, 16. (From NewspaperSG)
+[^19]: “[Pictures and How They Are Made](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19321208-1.2.90),” _Straits Times_, 8 December 1932, 16. (From NewspaperSG)
 
-20 “[Another Critic of Mr. Frank Buck](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19330409-1.2.60).”
+[^20]: “[Another Critic of Mr. Frank Buck](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19330409-1.2.60).”
 
-21 “[When Jungle Gangsters Meet](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19321003-1.2.16),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 3 October 1932, 3. (From NewspaperSG)
+[^21]: “[When Jungle Gangsters Meet](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19321003-1.2.16),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 3 October 1932, 3. (From NewspaperSG)
 
-22 A. Albelli, “How Frank Buck Filmed His Tiger-Python Battle,” November 1932, accessed Modern Mechanix website.
+[^22]: A. Albelli, “How Frank Buck Filmed His Tiger-Python Battle,” November 1932, accessed Modern Mechanix website.
 
-23 In a press interview, Buck admitted the close-up scenes were filmed at Jurong Road, Singapore; see [“$1,000,000 Picture Maker in Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19330405-1.2.49).” He was also reported to have had animal camps off Orchard Road, on the fringes of the downtown zone, and in the residential suburb of Katong; see Frank Buck and Ferrin L. Fraser, _All in a Lifetime_ (New York: R. M. McBride &amp; Company, 1941), 108.
+[^23]: In a press interview, Buck admitted the close-up scenes were filmed at Jurong Road, Singapore; see [“$1,000,000 Picture Maker in Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19330405-1.2.49).” He was also reported to have had animal camps off Orchard Road, on the fringes of the downtown zone, and in the residential suburb of Katong; see Frank Buck and Ferrin L. Fraser, _All in a Lifetime_ (New York: R. M. McBride &amp; Company, 1941), 108.
 
-24 _Wild Cargo_, directed by Armand Denis and written by Frank Buck and Courtney Ryley Cooper (Amedee J. Van Beuren, 1934), 1:36, http://www.imdb.com/title/tt0025991; _Fang and Claw_, directed by Frank Buck and written by Frank Buck and Ferrin Fraser (Amedee J. Van Beuren, 1935), 1:13, http://www.imdb.com/title/tt0026337; _Jungle Menace_, directed by Harry L. Fraser and George Melford and written by George M. Merrick, Sherman L. Lowe and Harry O, Hoyt ( Robert Mintz (executive) and Louis Weiss, 1937), 5:08, [http://www.imdb.com/title/tt0029071](http://www.imdb.com/title/tt0029071); _Jungle Cavalcade_, directed by William C. Ament, Armand Denis and Clyde E. Elliott and written by Edward Anthony, Frank Buck and Courtney Ryley Cooper (Walton C. Ament, 1941), 1:16, http://www.imdb.com/title/tt0033775; _Jacare_ directed by Charles E. Ford and written by Thomas Lennon (Jules Levey, 1942), 1:05, http://www.imdb.com/title/tt0034908; Tiger Fangs, directed by Sam Newfield and written by Arthur St. Claire (Producers Releasing Corporation, 1943), 59m, [http://www.imdb.com/title/tt0036439](http://www.imdb.com/title/tt0036439).
+[^24]: _Wild Cargo_, directed by Armand Denis and written by Frank Buck and Courtney Ryley Cooper (Amedee J. Van Beuren, 1934), 1:36, http://www.imdb.com/title/tt0025991; _Fang and Claw_, directed by Frank Buck and written by Frank Buck and Ferrin Fraser (Amedee J. Van Beuren, 1935), 1:13, http://www.imdb.com/title/tt0026337; _Jungle Menace_, directed by Harry L. Fraser and George Melford and written by George M. Merrick, Sherman L. Lowe and Harry O, Hoyt ( Robert Mintz (executive) and Louis Weiss, 1937), 5:08, [http://www.imdb.com/title/tt0029071](http://www.imdb.com/title/tt0029071); _Jungle Cavalcade_, directed by William C. Ament, Armand Denis and Clyde E. Elliott and written by Edward Anthony, Frank Buck and Courtney Ryley Cooper (Walton C. Ament, 1941), 1:16, http://www.imdb.com/title/tt0033775; _Jacare_ directed by Charles E. Ford and written by Thomas Lennon (Jules Levey, 1942), 1:05, http://www.imdb.com/title/tt0034908; Tiger Fangs, directed by Sam Newfield and written by Arthur St. Claire (Producers Releasing Corporation, 1943), 59m, [http://www.imdb.com/title/tt0036439](http://www.imdb.com/title/tt0036439).
 
-25 Van Dart, _Frank Buck's Jungleland_, 1939, accessed 8 January 2018, http://www.1939nyworldsfair.com/worlds\_fair/wf\_tour/zone-7/jungle\_land.htm; Samantha Gleisten, “Frank Buck’s Jungle Camp on the Midway Broadwalk,” in&nbsp; _Chicago’s 1933–34 World’s Fair:_ _A Century of Progress in Vintage Postcards_ &nbsp;(Illinois: Arcadia Publishing, 2002), 121; “Big Game Hunting and “Wild Animal” Spectacles in the Wolfsonian Museum Collection,” accessed 8 January 2018, &nbsp;Wolfsonian-FIU Library, https://wolfsonianfiulibrary.wordpress.com/2015/07/31/big-game-hunting-and-wild-animal-spectacles-in-the-wolfsonian-museumcollection.
+[^25]: Van Dart, _Frank Buck's Jungleland_, 1939, accessed 8 January 2018, http://www.1939nyworldsfair.com/worlds\_fair/wf\_tour/zone-7/jungle\_land.htm; Samantha Gleisten, “Frank Buck’s Jungle Camp on the Midway Broadwalk,” in&nbsp; _Chicago’s 1933–34 World’s Fair:_ _A Century of Progress in Vintage Postcards_ &nbsp;(Illinois: Arcadia Publishing, 2002), 121; “Big Game Hunting and “Wild Animal” Spectacles in the Wolfsonian Museum Collection,” accessed 8 January 2018, &nbsp;Wolfsonian-FIU Library, https://wolfsonianfiulibrary.wordpress.com/2015/07/31/big-game-hunting-and-wild-animal-spectacles-in-the-wolfsonian-museumcollection.
 
-26 Derek Bouse, [_Wildlife Films_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9805150) (Philadelphia: University of Pennsylvania Press, 2000), 120. (From National Library Singapore, call no. RART 778.53859 BOU); “[A Real Jungle Film](https://eresources.nlb.gov.sg/newspapers/digitised/article/singdailynews19321205-1.2.56),” _Singapore Daily News_, 5 December 1932, 7. (From NewspaperSG)
+[^26]: Derek Bouse, [_Wildlife Films_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9805150) (Philadelphia: University of Pennsylvania Press, 2000), 120. (From National Library Singapore, call no. RART 778.53859 BOU); “[A Real Jungle Film](https://eresources.nlb.gov.sg/newspapers/digitised/article/singdailynews19321205-1.2.56),” _Singapore Daily News_, 5 December 1932, 7. (From NewspaperSG)
 
-27 “[A Real Jungle Film](https://eresources.nlb.gov.sg/newspapers/digitised/article/singdailynews19321205-1.2.56).”
+[^27]: “[A Real Jungle Film](https://eresources.nlb.gov.sg/newspapers/digitised/article/singdailynews19321205-1.2.56).”
 
-28 “[A Real Jungle Film](https://eresources.nlb.gov.sg/newspapers/digitised/article/singdailynews19321205-1.2.56).”
+[^28]: “[A Real Jungle Film](https://eresources.nlb.gov.sg/newspapers/digitised/article/singdailynews19321205-1.2.56).”
 
-29 “[‘Out of the Sea” off Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19321009-1.2.64),” _Straits Times_, 9 October 1932, 9. (From NewspaperSG)
+[^29]: “[‘Out of the Sea” off Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19321009-1.2.64),” _Straits Times_, 9 October 1932, 9. (From NewspaperSG)
 
-30 Desley Deacon, “Films As Foreign Offices: Transnationalism at Paramount in the Twenties and Early Thirties,” in _Connected Worlds: History in Transnational Perspective_, ed. Ann Curthoys and Marilyn Lake (Canberra, Australia: ANU Press, 2005), 145; Karl G. Heider, _Ethnographic Film_ (Austin: University of Texas Press, 2006), 25–26. &nbsp;
+[^30]: Desley Deacon, “Films As Foreign Offices: Transnationalism at Paramount in the Twenties and Early Thirties,” in _Connected Worlds: History in Transnational Perspective_, ed. Ann Curthoys and Marilyn Lake (Canberra, Australia: ANU Press, 2005), 145; Karl G. Heider, _Ethnographic Film_ (Austin: University of Texas Press, 2006), 25–26. &nbsp;
 
-31 Heider, _Ethnographic Film_, 25; J. Geiger, “Ernest B Schoedsack,” in _The Concise Routledge Encyclopedia of the Documentary Film_, ed. Ian Aitken (New York: Routledge, 2013) 32; Samarang: Highlights of the film. (1933, September 29). _Alhambra Magazine_. (Not available in NLB holdings)
+[^31]: Heider, _Ethnographic Film_, 25; J. Geiger, “Ernest B Schoedsack,” in _The Concise Routledge Encyclopedia of the Documentary Film_, ed. Ian Aitken (New York: Routledge, 2013) 
 
-33 Nadia H. Wright, [_Respected Citizens: The History of Armenians in Singapore and Malaysia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12231618) (Middle Park, Vic.: Amassia Publishing, 2003), 293. (From National Library Singapore, call no. RSING 305.891992 WRI)
+[^32]: Samarang: Highlights of the film. (1933, September 29). _Alhambra Magazine_. (Not available in NLB holdings)
 
-34 “Samarang: Highlights of the Film,” _Alhambra Magazine_, 29 September 1933; [_Who’s Who in Malaya 1939: A Biographical Record of Prominent Members of Malaya’s_ _Community in Official, Professional and Commercial Circles_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5627978) (Singapore: Fishers Ltd., 1939) (From National Library Singapore, call no. RCLOS 9595 WHO-\[RFL\]); “[Thrills by Edgar Wallace](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19321003-1.2.74),” _Straits Times_, 3 October 1932, 12. (From NewspaperSG)
+[^33]: Nadia H. Wright, [_Respected Citizens: The History of Armenians in Singapore and Malaysia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12231618) (Middle Park, Vic.: Amassia Publishing, 2003), 293. (From National Library Singapore, call no. RSING 305.891992 WRI)
 
-35 “Samarang: Highlights of the Film.”
+[^34]: “Samarang: Highlights of the Film,” _Alhambra Magazine_, 29 September 1933; [_Who’s Who in Malaya 1939: A Biographical Record of Prominent Members of Malaya’s_ _Community in Official, Professional and Commercial Circles_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5627978) (Singapore: Fishers Ltd., 1939) (From National Library Singapore, call no. RCLOS 9595 WHO-\[RFL\]); “[Thrills by Edgar Wallace](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19321003-1.2.74),” _Straits Times_, 3 October 1932, 12. (From NewspaperSG)
 
-36 “[Trial of Malay Film Talent](https://eresources.nlb.gov.sg/newspapers/digitised/article/singdailynews19321010-1.2.71),” _Singapore Daily News_, 10 October 1932, 6. (From NewspaperSG)
+[^35]: “Samarang: Highlights of the Film.”
 
-37 “Telling the World,” _Alhambra Magazine_, 29 September 1933. &nbsp;
+[^36]: “[Trial of Malay Film Talent](https://eresources.nlb.gov.sg/newspapers/digitised/article/singdailynews19321010-1.2.71),” _Singapore Daily News_, 10 October 1932, 6. (From NewspaperSG)
 
-38 “[Pearl and Shark Story Filmed Here](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19321201-1.2.52),” _Malaya Tribune_, 1 December 1932, 9. (From NewspaperSG)
+[^37]: “Telling the World,” _Alhambra Magazine_, 29 September 1933. &nbsp;
 
-39 “Mortal Combat of Tiger Shark and Octopus in “Samarang” Is Remarkable Camera Record,” _Alhambra Magazine_, 20 September 1933. &nbsp;
+[^38]: “[Pearl and Shark Story Filmed Here](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19321201-1.2.52),” _Malaya Tribune_, 1 December 1932, 9. (From NewspaperSG)
 
-40 Mordaunt Hall, “Dramatic Adventures of a Pearl Diver Featured in a Film at the Rivoli,” _New York Times_, 29 June 1933.
+[^39]: “Mortal Combat of Tiger Shark and Octopus in “Samarang” Is Remarkable Camera Record,” _Alhambra Magazine_, 20 September 1933. &nbsp;
 
-41 Ward Wing, _Shark Woman, a.k.a. Samarang_. Alpha Home Entertainment (2012; repr., 1933)
+[^40]: Mordaunt Hall, “Dramatic Adventures of a Pearl Diver Featured in a Film at the Rivoli,” _New York Times_, 29 June 1933.
 
-42 Wing, _Shark Woman_.
+[^41]: Ward Wing, _Shark Woman, a.k.a. Samarang_. Alpha Home Entertainment (2012; repr., 1933)
 
-43 “[Shocked by Bathers](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340318-1.2.32),” _Straits Times_, 18 March 1934, 3. (From NewspaperSG)
+[^42]: Wing, _Shark Woman_.
 
-44 T. Dirks, _History of Sex in Cinema: The Greatest and Most Influential Sexual Films and Scenes (Illustrated)_, accessed 11 June 2013, American Movie Classics, http://www.filmsite.org/sexinfilms4.html.
+[^43]: “[Shocked by Bathers](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340318-1.2.32),” _Straits Times_, 18 March 1934, 3. (From NewspaperSG)
 
-45 Peter J. Bloom and Katherine J. Hagedorn, _Film and Music Liner Notes for DVD Release of Legong: Dance of the Virgins (1935)_. (2003)
+[^44]: T. Dirks, _History of Sex in Cinema: The Greatest and Most Influential Sexual Films and Scenes (Illustrated)_, accessed 11 June 2013, American Movie Classics, http://www.filmsite.org/sexinfilms4.html.
 
-46 Fatimah Tobing Rony, _The Third Eye: Race, Cinema and Ethnographic Spectacle_ (Durham, NC: Duke University Press, 1996), 148. (From National Library Singapore, call no. RUR 305.8 RON-\[LYF\])
+[^45]: Peter J. Bloom and Katherine J. Hagedorn, _Film and Music Liner Notes for DVD Release of Legong: Dance of the Virgins (1935)_. (2003)
 
-47 Mark A. Vieira, Sin in Soft Focus: Pre-Code Hollywood (New York: Harry N. Abrahams, 1999), 63; Richard B. Jewell, “RKO Film Grosses, 1929–1951: The C. J. Tevlin Ledger,” _Historical Journal of Film, Radio and Television_ 14, no. 1 (1994): 39.
+[^46]: Fatimah Tobing Rony, _The Third Eye: Race, Cinema and Ethnographic Spectacle_ (Durham, NC: Duke University Press, 1996), 148. (From National Library Singapore, call no. RUR 305.8 RON-\[LYF\])
 
-48 “[Page 7 Advertisements Column 3: ‘Devil Tiger’](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340511-1.2.16.3),” _Straits Times_, 11 May 1934, 7. (From NewspaperSG)
+[^47]: Mark A. Vieira, Sin in Soft Focus: Pre-Code Hollywood (New York: Harry N. Abrahams, 1999), 63; Richard B. Jewell, “RKO Film Grosses, 1929–1951: The C. J. Tevlin Ledger,” _Historical Journal of Film, Radio and Television_ 14, no. 1 (1994): 39.
 
-49 “[‘Man-Eater’](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19321117-1.2.82),” _Straits Times_, 17 November 1932, 15. (From NewspaperSG)
+[^48]: “[Page 7 Advertisements Column 3: ‘Devil Tiger’](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340511-1.2.16.3),” _Straits Times_, 11 May 1934, 7. (From NewspaperSG)
 
-50 “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/malayansatpost19330325-1.2.7.33),” _Malayan Saturday Post_, 25 March 1933, 14. (From NewspaperSG)
+[^49]: “[‘Man-Eater’](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19321117-1.2.82),” _Straits Times_, 17 November 1932, 15. (From NewspaperSG)
+
+[^50]: “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/malayansatpost19330325-1.2.7.33),” _Malayan Saturday Post_, 25 March 1933, 14. (From NewspaperSG)
 
 51 “[Deep Mystery of ‘Man-Eater’](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19330521-1.2.55),” _Straits Times_, 21 May 1933, 9; “[Notes of the Day: “Devil” Insects](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340523-1.2.62),” _Straits Times_, 23 May 1934, 10. (From NewspaperSG)
 
