@@ -508,3 +508,13 @@ global centre of modern popular culture, it gave them a strong sense of
 Singapore’s place in the modern world and their own identity as residents
 of this global port city.
 
+<div>
+<b>Chua Ai Lin</b> is an independent researcher with substantial experience in academia,
+the public sector, private consultancy and civil society. She spent six years as Assistant
+Professor in the Department of History at the National University of Singapore. She is
+the former president of the Singapore Heritage Society and a member of the National
+Library Advisory Committee. In 2012, she was the first Singaporean representative
+selected for the United States Department of State’s International Visitor Leadership
+Program Cultural Heritage Preservation project. Her research interests relate to popular
+culture and cosmopolitan societies, in particular the social and cultural history of
+colonial Malaya.</div>
