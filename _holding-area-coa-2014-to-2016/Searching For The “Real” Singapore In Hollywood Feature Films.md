@@ -56,7 +56,7 @@ was based on the 1919 novel *All the Brothers Were Valiant* by Ben Ames
 Williams, while works by Australian author Dale Collins inspired two film
 adaptations – *Sal of Singapore* (based on the novel *The Sentimentalists*) and
 *Rich and Strange* (based on a book of the same name).7 *The Road to Singapore*
-was adapted from a 1929 British stage play, *Heatwave*, by Mills & Boon
+was adapted from a 1929 British stage play, *Heatwave*, by Mills &amp; Boon
 writer Denise Robins and playwright Roland Pertwee, while *The Letter*
 had a more respectable literary pedigree as the dramatisation of a Somerset
 Maugham short story of the same title.8
@@ -196,11 +196,36 @@ animal story”, *Man-Eater* moved one step further from documentary
 films with its dramatised storyline.28 However, *Man-Eater* was not the
 first American feature drama to go on location in Malaya. Barely a month earlier, an American crew under the direction of Ward Wing and funded by
 the independent B.F. Zeidman Productions, with a script by the director’s
-wife Lori Bara, had started filming Samarang, a “simple native romance”,
+wife Lori Bara, had started filming *Samarang*, a “simple native romance”,
 set in a pearl-diving community in Singapore.29 These movies were part of a
 trend of “natural dramas” beginning in the late 1920s, which were scripted,
 fictional films shot in exotic locations with a cast of local actors.30 Elliott’s
 progression from animal behaviour to human drama was mirrored by the
-career of Ernest Schoedsack, whose biography and documentary film Rango
-provided inspiration for the iconic movie King Kong, which was written by
+career of Ernest Schoedsack, whose biography and documentary film *Rango*
+provided inspiration for the iconic movie *King Kong*, which was written by
 Schoedsack’s long-time collaborator and friend, Merian Cooper.31
+
+Moving away from a jungle setting, *Samarang* was shot on location along
+the coasts and offshore islands near Singapore.32 The cast were all local
+amateurs. Playing the female lead, “Sai-Yu, beautiful daughter of the tribal
+chieftain” was Therese Seth, an amateur dancer of Armenian ancestry who
+was talent-spotted by the film’s producers when she performed at the Capitol
+Follies.33 The male protagonist, a pearl diver named Ahmang, was played by
+an Englishman, Captain Albert Victor Cockle, who was Chief Inspector of
+Police as well as an amateur actor.34 His “exceptionally fine physique” earned
+him the “reputation of being the ‘new Tarzan’” and direct comparisons with
+*Tarzan* star Johnny Weissmuller.35 The director, Ward Wing, went to great lengths to make the movie convincing. Screen tests were held and several
+*bangsawan* actors auditioned.36 To play the “natives” he took the trouble of
+engaging extras from the Sakai tribe, who were “reputed to be cannibals”,
+in spite of the difficulties involved:
+
+   *Only one man could be found who could speak the Sakai language,<br> 
+   but he was Chinese and knew no English, so a Malay who spoke<br> 
+   Chinese was found, but he, in turn, could not speak English,<br> 
+   so Wing had to tell an English-speaking Malay what he wanted.<br> 
+   The Malay would tell the Malay speaking Chinese, who would<br> 
+   tell the Chinaman, who would tell the Sakai!*<br><br> 
+   *This lengthy procedure had its difficulties for, by the time so many<br>
+   people had translated Wing’s directions, they were sometimes<br>
+   entirely different*.37
+
