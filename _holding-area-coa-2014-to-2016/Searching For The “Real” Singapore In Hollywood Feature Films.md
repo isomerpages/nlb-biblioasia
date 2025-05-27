@@ -319,3 +319,92 @@ the “over-coloured imaginations of ‘hokum’ writers who spend a few days
 here, then go back to the States and write of the gin-sling and champagne
 imbibing ‘beachcombers’ and such characters dear to the penny novelettes”.53
 
+#### **Realistic Fiction Over Dramatised Realism**
+*Devil Tiger*, however, failed to make its mark at the box office. That honour
+went to *The Jungle Princess* (1936), a Paramount Pictures film written and
+directed by William Thiele, which became the most successful film set
+in Malaya since *Bring ’Em Back Alive*.54 The film launched the career of
+Dorothy Lamour, who became known for her sarong costumes in many
+films, an image created by her role as a native girl in *The Jungle Princess*.
+Although filmed in Hawaii, this was the first talkie film to use actual Malay
+dialogue. The story reflected a multi-ethnic Malayan society by including
+a Chinese servant alongside the Malay villagers and European hunters.55
+Ray Milland acted as a British explorer rescued in the jungle by a native girl
+(Dorothy Lamour) who had grown up in the jungle with only a pet tiger
+and pet chimpanzee for company. Tightly directed and combining drama,
+comedy, romance and jungle action with captivating singing from Lamour,
+the film played to full houses in Singapore and, unlike all the other previous
+Malayan films, received the Singapore critics’ thumbs up.56 *The Jungle Princess* even inspired a remake entitled *Terang Boelan* (1937), which was the
+first Indonesian film in Malay, scripted by Indonesian journalist Saeroen,
+with cinematography by David Wong, an Indonesian-Chinese.57
+
+Just months after the well-received release of *The Jungle Princess*, Paramount
+Pictures set out to go one step further with a similar Malayan jungle
+romance-adventure filmed on location in the tropics. The director of *Booloo*
+was Elliott, who had established his Malayan credentials with *Bring ’Em
+Back Alive* and *Devil Tiger*.58 With 10 tonnes of “the most up-to-date,
+portable, light and sound equipment”, Elliott had even better resources to
+work with on *Booloo* compared to his previous Malayan films.59 The story
+behind *Booloo* expresses most clearly the tension between realism and staged
+fiction. Although Elliott had been criticised for taking creative licence
+in both *Bring ’Em Back Alive* and *Devil Tiger*, he struggled against the
+commercial impositions by Paramount Studios in Hollywood to preserve
+authenticity in *Booloo*.
+
+Like *Samarang*, *Booloo* intended to feature local amateur actors from Malaya
+cast alongside Paramount actor Colin Tapely.60 After an exhaustive search
+where “girls from practically every class of Singapore society from Tanglin
+to Chinatown [were] given film tests”, a Javanese dancer named Ratna
+Asmara, from the Dardenalla travelling performance troupe, was cast in the
+lead role of a Malay girl. Playing her Malay lover was Singaporean-Eurasian
+Fred Pullen.61 Supporting roles were assigned to locals Elliott was familiar
+with from *Devil Tiger* – the wildlife collector Herbert de Souza, Ah Ho (a
+Chinese male) and Ah Lee (a young boy of not more than 10 years old), who
+had played a minor role; as well as Europeans based in Singapore, such as
+professional actor Carl Lawson, and two army officers.62
+
+With the casting of Ratna Asmara, it would seem that *Booloo* did what both
+*Samarang* and *The Jungle Princess* could not – a Malay protagonist played by
+a local actress speaking in her natural vernacular. However, this was perhaps
+simply too real for American audiences and, to Elliott’s dismay, most of his
+location shoots with the Malayan cast were left on the cutting room floor.63
+Paramount decided to reshoot most of the film in Hollywood and Ratna
+Asmara was replaced by Mamo Clark, famed for *Mutiny on the Bounty*
+(1935), where she had starred alongside Clark Gable.64
+
+If Dorothy Lamour had been convincing enough as a native Malay girl,
+then casting a genuine native girl was less important than Clark’s celebrity
+status. While *The Jungle Princess* was enhanced with a dose of realistic
+elements, *Booloo’s* attempt at realism seemed to have crossed a line. It never
+achieved the success of *The Jungle Princess*, instead receiving scathing reviews
+that panned the “silly story” and the “jungle and Hollywood sequences
+[which had] been spliced together so crudely”.65 Not even the Caucasianlooking
+Pullen, acting as a Malay boy, passed muster, and only one of his
+scenes was retained. Pullen was “extremely disappointed” and wrote to the
+producers to complain.66 *Booloo* was the last of the pre-war, location feature
+films that received an international commercial release.
+
+Two other efforts around this time deserve mention, as well as to provide a
+contrast with Elliot’s attempt at realism in *Booloo*. Tay Garnett, a freelance
+director for leading studios Paramount, Metro-Goldwyn-Meyer, Columbia
+and Twentieth Century, arrived to much fanfare in February 1936, taking
+the unusual step of spending two weeks in Singapore to capture authentic
+footage of “[the] Singapore harbour and shipping, of streets and buildings,
+Chinatown, cabarets and night-life, Malay *kampongs*, jungles, rubber
+plantations, fauna and other features of Malaya”.
+
+The footage was to be used back in Hollywood as a backdrop for the
+cast to act in front of “so that they [would] have a genuine Malayan background instead of a fake one”.67 Garnett wanted to avoid the pitfalls
+of other motion pictures, which “did not always depict Eastern scenes and
+atmosphere faithfully”, particularly by showing “advanced Asiatic races as
+barbarians”. He planned for two films to be made with his location footage:
+*Trade Winds*, which was released in 1938, and *Singapore Bound*, which was
+ultimately never made. The former was a detective romantic comedy starring
+Joan Bennett and Fredric March, which was, in addition to Singapore,
+also set in Japan, Shanghai, Colombo and Bombay.68 Bob Hope’s classic
+*Road to Singapore* (1940) revived the trope of seafaring stories set on a ship
+headed for the exotic tropical port, with no attempt or need for any sense of
+Malayan realism.69
+
+
+
