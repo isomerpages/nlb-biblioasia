@@ -406,5 +406,105 @@ also set in Japan, Shanghai, Colombo and Bombay.68 Bob Hope’s classic
 headed for the exotic tropical port, with no attempt or need for any sense of
 Malayan realism.69
 
+#### **The Real Singapore**
+Parallel to an analysis of the interplay of realism and romanticisation in
+cinematic history would be a consideration of the degree of fact and fantasy
+in portrayals of Singapore itself. All the Hollywood films shot on location
+were set in the tropical jungle, and locations in Singapore were chosen
+to depict the habitat of wild animals in *Bring ’Em Back Alive*, or a Malay
+village in *Samarang*. Whether accused of zoological “fakery” or showing
+a genuine Malay *kampong* in Bedok, both films were successful at the
+Singapore box office.70 The local setting and familiar faces seen on the big
+screen for the first time were enough to attract Singapore viewers, out of
+curiosity, if nothing else. The urban cinemagoers of Singapore who admired
+all things modern suddenly had rural, traditional life presented to them
+in a new light. This orientalist, cinematic glamorisation of Malay rural life
+presented an interesting juxtaposition against a recent movement to develop
+the *kampong* as a political symbol. The idea of the *kampong*, or small and
+generally rural settlement, had been closely associated with the way of life
+typical of the Malay community, and early Malay ethnic nationalists saw
+the *kampong* as a powerful representation of the Malay race.
 
+Inspired by Kampong Bahru, the “Malay Agricultural Settlement”, which
+was built in 1899 as a model Malay settlement in Kuala Lumpur, the
+Singapore Malay Union petitioned the governor of the Straits Settlements
+in 1926 through their president, Mohamed Eunos Abdullah, who was
+Singapore’s leading Malay journalist and the community’s representative
+on the Straits Settlements Legislative Council. The association called for
+the purchase of land in Singapore where “Malays could build their own
+houses, plant a few fruit trees and live among their own people in the
+manner in which they were accustomed”.71 Like the obfuscation of reality
+in Hollywood films, this idealisation of the Malay kampong obscured the
+suburban location in Geylang of Kampong Melayu, as the completed
+settlement came to be called, as well as the residents’ occupations in the
+urban service industry rather than agriculture.72
+
+Aside from the genre conventions of ethnographic and wildlife films,
+Singapore also played into other stereotypes, as with the early seafaring
+and illicit romance-themed films, which lacked authentic location footage.
+A range of strategies was employed in the representation of Singapore as
+a bustling Asian urban centre, which attracted critical responses within
+Singapore. Alfred Hitchcock’s *Rich and Strange* included only brief street
+scenes of downtown Singapore, most likely taken from stock footage.73 In
+1936, Garnett filmed Singapore scenes to be used as rear projections for
+actors in a Hollywood studio, while *Booloo* reached further for authenticity
+in hiring over 200 extras – Malays, Chinese and Indian men, women and
+children, including “Chinese coolies and ricksha boys” to film train scenes
+at the railway station.74
+
+By March 1936, Singapore audiences had seen enough Hollywood versions
+of Singapore to elicit a scathing critique in an editorial by *The Singapore
+Free Press and Mercantile Advertiser* on the “romanticising of our tropic city” that led film producers to desire making “films which would capture
+of that legendary lure of the East and magic of the tropics and all the other
+ingredients that go to make up the exotic novel” or reinforce the stereotype
+of “Singapore as a tropical playground for its amorous and loose-moralled
+inhabitants”. While reserving judgement on films still in production,
+for which backdrop footage had recently been filmed in Singapore (an
+obvious reference to Garnett, who had departed Singapore just two weeks
+before the writing of the editorial), the writer expressed that the “previous
+experience of the methods of Hollywood leads us to fear that it will be a
+far different Singapore from that which all of us know”. The writer listed
+realistic elements that did not fit the Hollywood imagination: “The fact
+that Singapore is a leading port of the world… is unlikely to be brought
+out, nor the rubber and produce godowns, dull-looking indeed but full
+of interest and romance, not the obvious poverty and diseases of ‘cheery
+Chinatown’, nor the essentially hardworking and thrifty Chinese, but only
+his ‘sinister’ brother, nor the harmless booths at the amusement parks, but
+an opium den.”75
+
+A year and a half later, when *Booloo* was finally screened in Singapore, its
+concerted attempt at a realistic portrayal of Singapore urban life also came
+under fire. A letter to *The Straits Times* asked why the film was “trying to
+show the world that the Asiatic population of this city consists of nothing
+but hawkers, satai-men, poultry-farmers, ice-water sellers, pig rearers, and
+half-naked Chinese coolies”.76 The author, calling himself “No Hokum
+Here”, demanded to know if the authorities would “allow this sort of thing
+to be shown to the rest of the world”. It would seem that the author was
+defending the prestige of the island and, more specifically, the educated,
+middle-class and elite section of the Asian population. Singaporean
+audiences were astute enough to spot “fakery” as well as orientalist
+stereotypes in western films.
+
+#### **Conclusion**
+That Singapore was on Hollywood’s mental map of the world was clear, but
+whether that impression was much like the real Singapore was questioned by
+Singapore residents and critical cinemagoers. Over the period, there was a move towards more authentic representations, albeit sometimes in superficial
+ways such as using on-location footage as a filming backdrop in Hollywood
+studios. In particular, director Clyde Elliot managed to complete filming
+three location feature films between 1931 and 1938, each time attempting a
+deeper, more realistic depiction of Malayan society. But realism was not the
+most important factor when it came to the commercial considerations of
+Hollywood studios. Attempts to depict Asian society more accurately failed
+to make it to the big screen and misrepresentations of Singapore as a seedy
+maritime port-of-call or where life-threatening jungle encounters were a
+regular occurrence continued.
+
+For audiences in Singapore, the release of these films were received with
+far less enthusiasm than the excitement of witnessing American cast and
+crew working on location during the films’ production. In contrast to
+their disdain for demeaning clichés shown in the films, when Singapore
+residents witnessed the constant stream of visitors from Hollywood, the
+global centre of modern popular culture, it gave them a strong sense of
+Singapore’s place in the modern world and their own identity as residents
+of this global port city.
 
