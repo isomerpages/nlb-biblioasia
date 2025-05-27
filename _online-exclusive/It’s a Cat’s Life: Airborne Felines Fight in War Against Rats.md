@@ -48,7 +48,7 @@ However, on 22 April 1965, the _Straits Times_ reported the sad news that “\[t
 <img src="/images/Online%20Only%20Articles/Cats/straittimes_19650422_0017.png" style="width: 85%;">
 <div style="background-color: white;">The <i>Straits Times</i> ran the news of the deaths of five cats by large and aggressive rats in Sarawak on 22 April 1965. <i>Source: The Straits Times, 22 April 1965 © SPH Media Limited. Permission required for reproduction. </i></div>
 
-In response to the news of the cats demise, the RAF in Labuan had some advice for “any military unit throwing cats into action against border rats: Get them in peak condition first by feeding them well".[^13]
+In response to the news of the cats' demise, the RAF in Labuan had some advice for “any military unit throwing cats into action against border rats: Get them in peak condition first by feeding them well".[^13]
 
 A grey-and-brown tabby named Mum was held up as proof that well-fed and cared-for cats would make quick work of rats. “[R]ats in the Bario area of Sarawak’s Fourth Division seem to have met their match in ‘Mum’… \[In the officers’ mess on Labuan\], she lived on the fat of the land – chicken, beef, mutton and fish.” However, in response to an SOS request for a cat from 101 Squadron in Bario, Mum and her three kittens were sent off to duty by helicopter. The foursome were reported to be “more than holding \[their\] own against overwhelming odds".[^14]
 
