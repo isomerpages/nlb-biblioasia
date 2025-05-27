@@ -720,54 +720,54 @@ Wright, H. Nadia. [_Respected Citizens: The History of Armenians in Singapore an
 
 [^50]: “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/malayansatpost19330325-1.2.7.33),” _Malayan Saturday Post_, 25 March 1933, 14. (From NewspaperSG)
 
-51 “[Deep Mystery of ‘Man-Eater’](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19330521-1.2.55),” _Straits Times_, 21 May 1933, 9; “[Notes of the Day: “Devil” Insects](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340523-1.2.62),” _Straits Times_, 23 May 1934, 10. (From NewspaperSG)
+[^51]: “[Deep Mystery of ‘Man-Eater’](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19330521-1.2.55),” _Straits Times_, 21 May 1933, 9; “[Notes of the Day: “Devil” Insects](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19340523-1.2.62),” _Straits Times_, 23 May 1934, 10. (From NewspaperSG)
 
-52 “[‘Devil Tiger’](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19340511-1.2.16),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 11 May 1934, 2 (From NewspaperSG); Aubrey Solomon, _The Fox Film Corporation, 1915–1935: A History and Filmography_ (Jefferson, N.C.: McFarland, 2011), 190.
+[^52]: “[‘Devil Tiger’](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19340511-1.2.16),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 11 May 1934, 2 (From NewspaperSG); Aubrey Solomon, _The Fox Film Corporation, 1915–1935: A History and Filmography_ (Jefferson, N.C.: McFarland, 2011), 190.
 
-53 “[New Film of Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19360320-1.2.42),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 20 March 1936, 6. (From NewspaperSG)
+[^53]: “[New Film of Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19360320-1.2.42),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 20 March 1936, 6. (From NewspaperSG)
 
-54 _The Jungle Princess_ directed by Wilhelm Thiele and written by Cyril Hume and&nbsp; Gerald Geraghty (Paramount Pictures, 1936), 1:25, http://www.imdb.com/title/tt0027830.
+[^54]: _The Jungle Princess_ directed by Wilhelm Thiele and written by Cyril Hume and&nbsp; Gerald Geraghty (Paramount Pictures, 1936), 1:25, http://www.imdb.com/title/tt0027830.
 
-55 William Van der Heide, [_Malaysian Cinema, Asian Film: Border Crossings and National Cultures_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11901462) (Amsterdam: Amsterdam University Press, 2002), 128 (From National Library Singapore, call no. RSEA 791.43 VAN). _The Jungle Princess_ is also commercially available on DVD.
+[^55]: William Van der Heide, [_Malaysian Cinema, Asian Film: Border Crossings and National Cultures_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11901462) (Amsterdam: Amsterdam University Press, 2002), 128 (From National Library Singapore, call no. RSEA 791.43 VAN). _The Jungle Princess_ is also commercially available on DVD.
 
-56 “[‘Jungle Princess’ With a Lisp](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19370401-1.2.15),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 1 April 1937, 2; “[Page 7 Advertisements Column 1: ‘The Jungle Princess’](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19370402-1.2.61.1),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 2 April 1937, 7; “[Page 7 Advertisements Column 2: ‘The Jungle Princess’](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19370708-1.2.82.2),” _Singapore Free Press and Mercantile Advertiser (1884– 1942)_, 8 July 1937, 7. (From NewspaperSG)
+[^56]: “[‘Jungle Princess’ With a Lisp](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19370401-1.2.15),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 1 April 1937, 2; “[Page 7 Advertisements Column 1: ‘The Jungle Princess’](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19370402-1.2.61.1),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 2 April 1937, 7; “[Page 7 Advertisements Column 2: ‘The Jungle Princess’](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19370708-1.2.82.2),” _Singapore Free Press and Mercantile Advertiser (1884– 1942)_, 8 July 1937, 7. (From NewspaperSG)
 
-57 Van der Heide, [_Malaysian Cinema, Asian Film_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11901462), 128.
+[^57]: Van der Heide, [_Malaysian Cinema, Asian Film_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11901462), 128.
 
-58 _Booloo_ written and directed by Clyde E. Elliot (Paramount Pictures, 1938), 1:01, http://www.imdb.com/title/tt0029935.
+[^58]: _Booloo_ written and directed by Clyde E. Elliot (Paramount Pictures, 1938), 1:01, http://www.imdb.com/title/tt0029935.
 
-59 “[Real Malayan Jungle for Screen](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19370718-1.2.39),” _Straits Times_, 18 July 1937, 5; “[Ten Tons of Film Kit for Jungle Picture](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19370819-1.2.18),” _Straits Times_, 17 August 1937, 13. (From NewspaperSG)
+[^59]: “[Real Malayan Jungle for Screen](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19370718-1.2.39),” _Straits Times_, 18 July 1937, 5; “[Ten Tons of Film Kit for Jungle Picture](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19370819-1.2.18),” _Straits Times_, 17 August 1937, 13. (From NewspaperSG)
 
-60 “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19370805-1.2.70.4),” _Straits Times_, 5 August 1937, 12. (From NewspaperSG)
+[^60]: “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19370805-1.2.70.4),” _Straits Times_, 5 August 1937, 12. (From NewspaperSG)
 
-61 “[Movie Cameras Click in Jungle](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19371121-1.2.17),” _Straits Times_, 21 November 1937, 2. (From NewspaperSG)
+[^61]: “[Movie Cameras Click in Jungle](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19371121-1.2.17),” _Straits Times_, 21 November 1937, 2. (From NewspaperSG)
 
-62 “[Dorothy Lamour Type Sought](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19370805-1.2.70.5),” _Straits Times_, 5 August 1937, 12; “[‘Booloo’ Girl Not Found Yet](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19370919-1.2.45),” _Straits Times_, 19 September 1937, 5; Crux Australis, “[Notes of the Day: Coy Officers](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19371120-1.2.49),” _Straits Times_, 20 November 1937, 10. (From NewspaperSG)
+[^62]: “[Dorothy Lamour Type Sought](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19370805-1.2.70.5),” _Straits Times_, 5 August 1937, 12; “[‘Booloo’ Girl Not Found Yet](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19370919-1.2.45),” _Straits Times_, 19 September 1937, 5; Crux Australis, “[Notes of the Day: Coy Officers](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19371120-1.2.49),” _Straits Times_, 20 November 1937, 10. (From NewspaperSG)
 
-63 “[Where Are “Booloo” Shots of Javanese Girl?](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19380911-1.2.23)” _Straits Times_, 11 September 1938, 2. (From NewspaperSG)
+[^63]: “[Where Are “Booloo” Shots of Javanese Girl?](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19380911-1.2.23)” _Straits Times_, 11 September 1938, 2. (From NewspaperSG)
 
-64 T. F. Brady, “Hollywood’s Story Marts Dry Up,” _New York Times_, 24 May 1942, x3.
+[^64]: T. F. Brady, “Hollywood’s Story Marts Dry Up,” _New York Times_, 24 May 1942, x3.
 
-65 “[Fred Pullen Protests to Hollywood](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19380910-1.2.80),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 10 September 1938, 9. (From NewspaperSG)
+[^65]: “[Fred Pullen Protests to Hollywood](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19380910-1.2.80),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 10 September 1938, 9. (From NewspaperSG)
 
-66 “[Fred Pullen Protests to Hollywood](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19380910-1.2.80).”
+[^66]: “[Fred Pullen Protests to Hollywood](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19380910-1.2.80).”
 
-67 “[Hollywood Celebrities Arrive in Luxury](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19360229-1.2.60),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 29 February 1936, 9. (From NewspaperSG)
+[^67]: “[Hollywood Celebrities Arrive in Luxury](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19360229-1.2.60),” _Singapore Free Press and Mercantile Advertiser (1884–1942)_, 29 February 1936, 9. (From NewspaperSG)
 
-68 Toh Hun Ping, Trade Winds, 1938, accessed 10 May 2016, https://sgfilmlocations.com/2014/08/08/trade-winds-1938.
+[^68]: Toh Hun Ping, Trade Winds, 1938, accessed 10 May 2016, https://sgfilmlocations.com/2014/08/08/trade-winds-1938.
 
-69 _Road to Singapore_ directed by Victor Schertzinger and written by Don Hartman and Frank Butler (Paramount Pictures, 1940), 1:25, http://www.imdb.com/title/tt0032993.
+[^69]: _Road to Singapore_ directed by Victor Schertzinger and written by Don Hartman and Frank Butler (Paramount Pictures, 1940), 1:25, http://www.imdb.com/title/tt0032993.
 
-70 Roland St. John Braddell, [_The Lights of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4499990) (London: Methuen, 1935), 122. (From National Library Singapore, call no. RCLOS 959.57 BRA)
+[^70]: Roland St. John Braddell, [_The Lights of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4499990) (London: Methuen, 1935), 122. (From National Library Singapore, call no. RCLOS 959.57 BRA)
 
-71 William R. Roff, [_The Origins of Malay Nationalism_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7122266) (Kuala Lumpur: Oxford University Press, 1994), 193. (From National Library Singapore, call no. RSING 320.54 ROF)
+[^71]: William R. Roff, [_The Origins of Malay Nationalism_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7122266) (Kuala Lumpur: Oxford University Press, 1994), 193. (From National Library Singapore, call no. RSING 320.54 ROF)
 
-72 For a fuller discussion of the Kampong Melayu project, see Joel S. Kahn, [_Other Malays: Nationalism and Cosmopolitanism in the Modern Malay World_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12728340) (Singapore: Asian Studies Association of Australia in association with Singapore University Press and NIAS Press, 2006), 4–28. (From National Library Singapore, call no. RSING 307.76209595 KAH)
+[^72]: For a fuller discussion of the Kampong Melayu project, see Joel S. Kahn, [_Other Malays: Nationalism and Cosmopolitanism in the Modern Malay World_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12728340) (Singapore: Asian Studies Association of Australia in association with Singapore University Press and NIAS Press, 2006), 4–28. (From National Library Singapore, call no. RSING 307.76209595 KAH)
 
-73 Toh, “Singapore Is the MacGuffin.”
+[^73]: Toh, “Singapore Is the MacGuffin.”
 
-74 “[‘Booloo’ Girl Not Found Yet](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19370919-1.2.45).”
+[^74]: “[‘Booloo’ Girl Not Found Yet](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19370919-1.2.45).”
 
-75 “[The Film Invasion](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19360320-1.2.58.2).”
+[^75]: “[The Film Invasion](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19360320-1.2.58.2).”
 
-76 “[‘Booloo’ Girl Not Found Yet](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19370919-1.2.45).”
+[^76]: “[‘Booloo’ Girl Not Found Yet](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19370919-1.2.45).”
