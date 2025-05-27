@@ -12,7 +12,7 @@ In June 2020, the National Parks Board (NParks) launched Gardening with Edibles,
 
 Due to Singapore’s heavy reliance on imported food, most locals rarely have a hand in producing the food they eat. In 2020, fewer than 3,100 Singapore residents (or 0.14 percent of the labour force) were involved in industries such as agriculture and fishing.[^3]  Gardening with Edibles bridges this wide disconnect between farm and table by providing Singaporeans with the experience of growing their own food.
 
-Edible gardening is not a recent phenomenon in Singapore; gardening with Edibles was preceded by the Grow More Food campaigns. These initiatives and practices of edible gardening in modern Singapore emerged from a confluence of food security concerns and planning ideals from the Garden City Movement in Britain, and demonstrate just how deeply rooted edible gardening is in the Singapore Story.
+Edible gardening is not a recent phenomenon in Singapore; Gardening with Edibles was preceded by the Grow More Food campaigns. These initiatives and practices of edible gardening in modern Singapore emerged from a confluence of food security concerns and planning ideals from the Garden City Movement in Britain, and demonstrate just how deeply rooted edible gardening is in the Singapore Story.
 
 ![](/images/Online%20Only%20Articles/Growing%20Food%20in%20a%20Garden%20City/punggol_farm.png)
 <div style="background-color: white;"> A vegetable farm in Punggol, 1970s. <i>Collection of the National Museum of Singapore, National Heritage Board.</i>
