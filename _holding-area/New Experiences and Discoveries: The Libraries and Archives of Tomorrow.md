@@ -44,6 +44,12 @@ That depends on how you structure your algorithm. Commercial operators may choos
 
 We do have to think carefully about how we can provide browsing as a service in the digital space. People are so used to social media feeds. Can a digital library look like a social media feed? Can a digital library’s interface appear almost infinite in the same? How and what can we learn from social media algorithms – what lessons can we take from them?
 
+![](/images/Vol%2021%20Issue%202/Libraries%20of%20Tomorrow/tomorrow_browse.jpg)
+<div style="background-color: white;"> “Browse-n-Borrow” at West Mall where patrons can explore, flip through and borrow books from a diverse collection of up to 750 titles that are regularly refreshed. <i>Collection of the National Library Board.</i></div>
+
+![](/images/Vol%2021%20Issue%202/Libraries%20of%20Tomorrow/tomorrow_browse.jpg)
+<div style="background-color: white;"> “Browse-n-Borrow” at West Mall where patrons can explore, flip through and borrow books from a diverse collection of up to 750 titles that are regularly refreshed. <i>Collection of the National Library Board.</i></div>
+
 **Do you think it’s possible for NLB to compete with social media for attention? Do we have the capabilities to match the experience of, for instance, TikTok?**
 
 We aren’t directly competing with social media. We may learn from and emulate their interfaces but the content we offer is different: we are reputable, substantial and of guaranteed quality. In fact, NLB is uniquely placed to offer this content because we’re a combined institution: we not only have the public libraries but also the National Library and the National Archives.&nbsp;
