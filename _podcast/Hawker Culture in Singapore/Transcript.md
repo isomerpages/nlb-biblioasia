@@ -665,53 +665,35 @@ it’s also like a sheltered area.&nbsp;</p>
 <p><strong>Ryan</strong>
 <br>Hawking is dynamic and as Singaporeans change, so will hawking. Given
 how much interesting stuff Singaporeans are coming up with now in hawker
-centres, I’m sure it’ll be a yummy, yummy future.</p>
-<p>&nbsp;</p>
+centres, I’m sure it’ll be a yummy, yummy future.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Do you ever see yourself being a hawker?</p>
-<p>&nbsp;</p>
+<br>Do you ever see yourself being a hawker?&nbsp;</p>
 <p><strong>Ryan</strong>
-</p>
-<p>Well, I’ve thought about it many times. Many times when I’m at work...</p>
-<p>&nbsp;</p>
+<br>Well, I’ve thought about it many times. Many times when I’m at work...&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>I mean, that’s your grandmother’s fish, what fish soup? Teochew fish soup.</p>
-<p>&nbsp;</p>
+<br>I mean, that’s your grandmother’s fish, what fish soup? Teochew fish soup.&nbsp;</p>
 <p><strong>Ryan</strong>
-</p>
-<p>I myself do not cook a good enough fish soup as comparable.</p>
-<p>&nbsp;</p>
+<br>I myself do not cook a good enough fish soup as comparable.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay.</p>
-<p>&nbsp;</p>
+<br>Okay.&nbsp;</p>
 <p><strong>Ryan</strong>
-</p>
-<p>But perhaps sometime in the future, I think being a hawker would be quite
-interesting. I mean, maybe a retirement job, maybe.</p>
-<p>&nbsp;</p>
+<br>But perhaps sometime in the future, I think being a hawker would be quite
+interesting. I mean, maybe a retirement job, maybe.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Maybe a retirement job. Okay, Ryan, I want to thank you for coming on
+<br>Maybe a retirement job. Okay, Ryan, I want to thank you for coming on
 the show. If you want to read Ryan’s book <em>From Streets to Stalls</em>,
 you can find it in good bookshops everywhere or you can borrow it from
 a library near you, obviously, and if you’re interested to know more about
 the history of food and food culture in Singapore, check out the <em>BiblioAsia</em> website
-at <a rel="noopener noreferrer nofollow" target="_blank">biblioasia.nlb.gov.sg</a>.</p>
-<p>&nbsp;</p>
+at <a rel="noopener noreferrer nofollow" target="_blank">biblioasia.nlb.gov.sg</a>.&nbsp;</p>
 <p>Ryan, I want to thank you for coming today. It’s a real pleasure having
 you. I learned a lot, and I may give, is it Taman Jurong hawker centre?
-I’ll give it a visit and see what it’s like.</p>
-<p>&nbsp;</p>
+I’ll give it a visit and see what it’s like.&nbsp;</p>
 <p><strong>Ryan</strong>
-</p>
-<p>Yes. Thank you so much for having me. It’s my pleasure.</p>
-<p>&nbsp;</p>
+<br>Yes. Thank you so much for having me. It’s my pleasure.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Thank you for coming.</p>
-<p>&nbsp;</p>
+<br>Thank you for coming.&nbsp;</p>
 <p>If you’ve enjoyed this episode, subscribe to this podcast and the <em>BiblioAsia</em> newsletter.
 Thanks for joining us on BiblioAsia<em>+</em>.</p>
+<p></p>
+<p></p>
