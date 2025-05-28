@@ -121,7 +121,7 @@ This is part of the natural synergy between the National Archives and National L
 
 
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src="/images/Authors/DrJohnBray27.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/KimberleyChiu.png">
 <b>Kimberley Chiu</b> is a Librarian with the Collection Planning and Development division. She selects books and eResources for children and young people across the public libraries. </div>
 
 #### **Notes**
