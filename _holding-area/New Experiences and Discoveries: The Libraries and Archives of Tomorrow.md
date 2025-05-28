@@ -78,6 +78,9 @@ Most importantly, we have to keep in mind that public libraries serve a broad sw
 
 At the moment, the library is seen primarily as a space for the young, so we are working hard to offer services to appeal to working adults as well as seniors. It’s especially important to serve our seniors well because Singapore’s population is ageing rapidly and we will soon become a super-aged society.
 
+![](/images/Vol%2021%20Issue%202/Libraries%20of%20Tomorrow/tomorrow_seniors.jpg)
+<div style="background-color: white;">Comprising seniors, the Tampines Uke Jammers of the Tampines Regional Library meet on the first and third Fridays of the month.<i>Collection of the National Library Board.</i></div>
+
 The profile of our seniors is also changing rapidly. Singapore went through a huge and rapid shift in our education system after independence, so the needs of the new generation of seniors are very different from their predecessors. The seniors of today are increasingly looking for new experiences: they travel, seek out educational opportunities and want exciting places where they can spend time without being forced to spend money. We have a lot to offer people at this stage of their lives, such as programmes where they can discover digital technology, workshops that help them develop new skills, and learning communities that will allow them to explore new interests and connect with other seniors.
 
 We are also committed to making our spaces accessible to persons with disabilities. While Singapore has become increasingly inclusive, there are still too few public spaces designed for persons with disabilities – that not only accommodate them but make it possible for them to participate in the same way as any other user, and are built with their needs and desires in mind.
