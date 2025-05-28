@@ -61,61 +61,47 @@ around the world and I’m very glad to share more about that.&nbsp;</p>
 <p><strong>Jimmy</strong>
 <br>Okay, I’d like you to perhaps tell me then, how is it that in Singapore
 we have this concept of hawker and hawker centres, but that’s different
-from everywhere else.</p>
-<p>&nbsp;</p>
+from everywhere else.&nbsp;</p>
 <p><strong>Ryan</strong>
-</p>
-<p>I think that’s a great question. I think as you rightly pointed out, most
+<br>I think that’s a great question. I think as you rightly pointed out, most
 people around the world conceive of hawkers as itinerant, transient, and
 they move from place-to-place. So I think for example Mexico and Malaysia,
 or Thailand. Okay, when you go to the streets of Bangkok. People are flanking
-the streets selling –</p>
-<p>&nbsp;</p>
+the streets selling –&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>They have kiosks, they’re pushing them about.</p>
-<p>&nbsp;</p>
+<br>They have kiosks, they’re pushing them about.&nbsp;</p>
 <p><strong>Ryan</strong>
-</p>
-<p>Yeah. Sometimes they don’t even have a kiosk, they have a basket. They
+<br>Yeah. Sometimes they don’t even have a kiosk, they have a basket. They
 carry their basket around, or they sit on the streets. But I think for
 most Singaporeans, and especially the younger generations, “hawkers” means
 something completely different. When I think of hawker, I think of a hawker
 centre, something that’s very formalised, very institutionalised and very
-clean.</p>
-<p>&nbsp;</p>
+clean.&nbsp;</p>
 <p>And Singapore has made that journey from being itinerant, informal in
 some sense, to a hawking culture that is very formalised. And this is a
 very intentional move, informed by the circumstances of Singapore throughout
-our history.</p>
-<p>&nbsp;</p>
+our history.&nbsp;</p>
 <p>And I think that was what the book was trying to elucidate. I think the
 most unique thing is how these different hawker evolution has come to let
 Singaporeans conceive of it as a culture? It’s something that is uniquely
 Singaporean, and I think especially for a small country like ourselves,
-that’s extremely important.</p>
-<p>&nbsp;</p>
+that’s extremely important.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay. I want to get back to that evolution in a bit, but what I was really
+<br>Okay. I want to get back to that evolution in a bit, but what I was really
 fascinated to find is that you start off your history of hawker culture
 or hawkers in Singapore by going back to the 14th century. And I didn’t
 know where the fossils of <em>char kway teow</em> were found on Fort Canning.
-How did you do that?</p>
-<p>&nbsp;</p>
+How did you do that?&nbsp;</p>
 <p><strong>Ryan</strong>
-</p>
-<p>Unfortunately, there were no fossils of <em>char kway teow</em> or chicken
+<br>Unfortunately, there were no fossils of <em>char kway teow</em> or chicken
 rice in the 14th century. But I think what I really wanted to challenge
 was the idea that currently, in common parlance, we conceive of hawkers
 as starting during the colonial era. And I wanted to see whether that could
-be challenged and whether we could go further back.</p>
-<p>&nbsp;</p>
+be challenged and whether we could go further back.&nbsp;</p>
 <p>And the way I did this was to relook the pre-conditions of hawking. What
 were the conditions that encouraged hawkers to be present in a polity.
 And I think I found three conditions. The first condition was transient
-travelers and merchants looking to trade.</p>
-<p>&nbsp;</p>
+travelers and merchants looking to trade.&nbsp;</p>
 <p>Two was a local market that facilitated trade and three is some currency.
 So I think looking back at Singapore’s history, Temasek, that empire that
 existed in Singapore during the 13th, 14th century, seems to fit those
@@ -123,28 +109,22 @@ pre-conditions. It was very intertwined regional trade. It routinely hosted
 Arab and Chinese visitors. And literary sources from <em>Sejarah Melayu</em>,
 Wang Dayuan points to how there was indeed a marketplace in Temasek and
 that’s fascinating. How they used currencies to trade in Singapore. It
-could be Sri Lankan coins. We also found cowries, which is a form of seashell.</p>
-<p><strong>&nbsp;</strong>
+could be Sri Lankan coins. We also found cowries, which is a form of seashell.<strong>&nbsp;</strong>
 </p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay, so there was money. There was a kind of market and I think there
+<br>Okay, so there was money. There was a kind of market and I think there
 were transient travelers or traders but the transient element, why is that
-important?</p>
-<p>&nbsp;</p>
+important?&nbsp;</p>
 <p><strong>Ryan</strong>
-</p>
-<p>I think a transient element is tremendously important because if you think
+<br>I think a transient element is tremendously important because if you think
 about an empire, if they [were] hosting dignitaries or ambassadors, they
 usually would go out to the market and buy their food but what you really
 needed was, I would say, a class of individuals who would not be hosted
 and who had to go out and buy food in inns or restaurants, that might happen.
 In that formalisation, they could have been hawkers themselves. So I think
-the transient element is very important.</p>
-<p>&nbsp;</p>
+the transient element is very important.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay, you’re really extrapolating from environmental conditions to say,
+<br>Okay, you’re really extrapolating from environmental conditions to say,
 well, makes sense, and I agree with you. I mean, a bunch of people, they
 come on their ships. They need to eat something. They don’t have a lot
 of money, maybe. Restaurants are full because they check their Google Maps
@@ -154,28 +134,21 @@ food for these people. But down into the 19th century, we actually have
 colonial records of people recording this in action. People springing up,
 the ones paying them. They see a gap in the market and they go and fill
 it. It wasn’t necessarily welcomed during the colonial period. You want
-to talk about that?</p>
-<p>&nbsp;</p>
+to talk about that?&nbsp;</p>
 <p><strong>Ryan</strong>
-</p>
-<p>I think hawking during the colonial times wasn’t really welcomed for two
+<br>I think hawking during the colonial times wasn’t really welcomed for two
 main reasons. I think first is because they provided a lot of administrative
 challenges. For example, they would challenge public health. I think hawkers
 back then weren’t the cleanest. They would improperly dispose of waste,
 they would use one water source to cook your <em>bak chor mee</em> and wash
-it and use the same water source to wash your dishes and then cook your <em>bak chor mee</em> again.</p>
-<p>&nbsp;</p>
+it and use the same water source to wash your dishes and then cook your <em>bak chor mee</em> again.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>That’s why it tasted so good.</p>
-<p>&nbsp;</p>
+<br>That’s why it tasted so good.&nbsp;</p>
 <p><strong>Ryan</strong>
-</p>
-<p>Perhaps that’s why the food used to taste better. No, I’m joking but yes,
+<br>Perhaps that’s why the food used to taste better. No, I’m joking but yes,
 I think it was linked to cholera, typhoid and varying degrees of public
 health issues and this was even exacerbated by the fact that people weren’t
-inoculated back then.</p>
-<p>&nbsp;</p>
+inoculated back then.&nbsp;</p>
 <p>I think the second issue was urban discipline. They would flank the streets.
 There weren’t really any licensing or hawker centres back then and they
 would go where the crowd was, and this was usually at the docks. This really
@@ -184,46 +157,34 @@ people and motor vehicles. And from the administration’s perspective, those
 were a few headaches for them. But I think it is also important to understand
 the drivers of why people went into hawking. At the end of the day, there
 were a lot of immigrants, especially when they came to Singapore looking
-for a job or vocation.</p>
-<p>&nbsp;</p>
+for a job or vocation.&nbsp;</p>
 <p>There were a lot of males of working age, and when they couldn’t find
 a job, I think hawking was usually one of the easiest transitory vocations
 to go into. For example, [if] I were a bricklayer and the jobs closed or
 it was a contract job, I could buy a wok and sell some stuff on the streets
 and when I found a job, I could move on again. So, it’s a very low barrier
-of entry vocation and that’s what made it so appealing.</p>
-<p>&nbsp;</p>
+of entry vocation and that’s what made it so appealing.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Not much capex required.</p>
-<p>&nbsp;</p>
+<br>Not much capex required.&nbsp;</p>
 <p><strong>Ryan</strong>
-</p>
-<p>Not much capex required and at that time, not much tax.</p>
-<p>&nbsp;</p>
+<br>Not much capex required and at that time, not much tax.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>The thing is, however, even though they were obviously a nuisance and
+<br>The thing is, however, even though they were obviously a nuisance and
 clearly you were describing how the hawker was using the same water, cholera
 would spread wildly but at the same time, these hawkers were meeting a
-need, weren’t they?</p>
-<p>&nbsp;</p>
+need, weren’t they?&nbsp;</p>
 <p><strong>Ryan</strong>
-</p>
-<p>Yes, they were meeting a huge need. I think largely to provide affordable
+<br>Yes, they were meeting a huge need. I think largely to provide affordable
 food to many people. A lot of the immigrants were single males. They didn’t
-have family in Singapore.</p>
-<p>&nbsp;</p>
+have family in Singapore.&nbsp;</p>
 <p>They wouldn’t have agriculture, they wouldn’t be fishing. And they would
 need to meet their sustenance needs outside. When you're working at the
 docks, hawkers congregate around the breakfast, lunchtime period. And they
 really sold cheap food for most of these labourers. In some sense, hawkers
 were really fundamental in incentivising and encouraging that economy to
-go along.</p>
-<p>&nbsp;</p>
+go along.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Because if you don’t have food, you’re not going to be able to work.</p>
+<br>Because if you don’t have food, you’re not going to be able to work.</p>
 <p>&nbsp;</p>
 <p><strong>Ryan</strong>
 </p>
