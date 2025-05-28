@@ -64,6 +64,9 @@ I believe that we need to meet our patrons where they are if we want to make our
 
 This could involve co-locating with other services or businesses. A natural partner would be cafés, since there is already a strong association between books and coffee. Many of our libraries already have cafés, but there is a clear delineation between the café space and the library space: we can’t bring food and drinks from the café into the library, forcing an arbitrary interruption of what could have been a seamless experience of reading over a cup of coffee.&nbsp;
 
+![](/images/Vol%2021%20Issue%202/Libraries%20of%20Tomorrow/tomorrow_fortytwo.jpg)
+<div style="background-color: white;">As part of community takeover, the National Library Board partnered with homegrown furniture brands to reimagine reading spaces and offer library patrons a new reading experience. Pictured here is the Jurong West Public Library in partnership with FortyTwo. <i>Collection of the National Library Board.</i></div>
+
 One day we should have a library where the café is not sequestered in one corner but instead occupies a central space in the library, with the ability to serve food and drinks throughout the library space.&nbsp;
 
 The House of Wisdom Library in Sharjah in the United Arab Emirates has a similar concept,[^3] where you can even order a coffee at your seat using a QR code.&nbsp;
