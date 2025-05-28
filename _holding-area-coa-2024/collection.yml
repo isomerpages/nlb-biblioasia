@@ -1,4 +1,5 @@
 collections:
   holding-area-coa-2024:
     output: true
-    order: []
+    order:
+      - "Then and Now: The Keramat Phenomenon in Singapore.md"
