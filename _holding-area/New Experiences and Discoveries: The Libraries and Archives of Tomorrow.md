@@ -18,6 +18,9 @@ Libraries and archives are repositories of knowledge, information and cultural h
 
 The starting point for thinking about the libraries and archives of the future is the idea that we need to go beyond transactions. Our spaces will increasingly be about experiences. This brings us to the question: why would someone choose to visit a library?&nbsp;
 
+![](/images/Vol%2021%20Issue%202/Libraries%20of%20Tomorrow/tomorrow_comics.jpg)
+<div style="background-color: white;">Nodes provide reading and learning experiences beyond the physical libraries. Shown here is the Comics &amp; Games Library at Punggol Coast Mall developed in partnership with JTC and local board games company Origame. The pop-up library features a collection of more than 7,000 comics, game-themed reads, graphic novels and board games. <i>Collection of the National Library Board.</i></div>
+
 Compare this with the retail industry: you can buy most things through e-commerce and have them delivered to your home. Why would anyone go to a retail store? Libraries are not dissimilar; after all, you can now get library books delivered to your home or to reservation lockers. You can even access eBooks from your phone. Therefore, the library needs to offer you something more than books.&nbsp;
 
 In 2024, the total visitorship at the National Library, public libraries, National Archives and the Former Ford Factory was 19.8 million. This is a healthy number but it is not something to take for granted. To maintain and grow this number, we have to figure out how our spaces can create experiences that add value to our patrons.&nbsp;
@@ -43,9 +46,6 @@ But we do know that many people visit libraries – and bookshops – because th
 That depends on how you structure your algorithm. Commercial operators may choose to keep pushing the same types of resources and products to a user because doing so makes the user more likely to buy something. By doing so, you are indeed restricting a user’s browsing behaviour. But for NLB, we are not constrained by such commercial considerations. We have freer rein to be more creative with the content we recommend, and to offer a broader range of reading materials to our patrons, including from our archives. We can take more risks and offer greater variety because we’re not under pressure to monetise what people choose, and because we genuinely believe in providing breadth.
 
 We do have to think carefully about how we can provide browsing as a service in the digital space. People are so used to social media feeds. Can a digital library look like a social media feed? Can a digital library’s interface appear almost infinite in the same? How and what can we learn from social media algorithms – what lessons can we take from them?
-
-![](/images/Vol%2021%20Issue%202/Libraries%20of%20Tomorrow/tomorrow_browse.jpg)
-<div style="background-color: white;"> “Browse-n-Borrow” at West Mall where patrons can explore, flip through and borrow books from a diverse collection of up to 750 titles that are regularly refreshed. <i>Collection of the National Library Board.</i></div>
 
 ![](/images/Vol%2021%20Issue%202/Libraries%20of%20Tomorrow/tomorrow_browse.jpg)
 <div style="background-color: white;"> “Browse-n-Borrow” at West Mall where patrons can explore, flip through and borrow books from a diverse collection of up to 750 titles that are regularly refreshed. <i>Collection of the National Library Board.</i></div>
