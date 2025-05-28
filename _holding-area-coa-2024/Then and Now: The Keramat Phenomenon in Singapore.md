@@ -150,8 +150,6 @@ The *keramat* of Singapore now face a second vanishing as memories of them fade.
 [Keramat, Sacred Relics and Forbidden Idols in Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300071320)
 *by William Gibson was published by Routledge as part of their Contemporary Southeast Asia series in 2024. This work is an outcome of Gibson’s 2022 Lee Kong Chian Research Fellowship at the National Library of Singapore*.
 
-
-<br>
 <div style="background-color: white;">
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/william_gibson.png">
