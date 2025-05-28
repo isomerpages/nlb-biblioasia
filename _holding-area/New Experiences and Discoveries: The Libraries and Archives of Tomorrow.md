@@ -7,6 +7,9 @@ description: ""
 #### Ng Cher Pong, Chief Executive Officer of the National Library Board,  shares his thoughts and insights on how libraries and archives can stay relevant in today’s world.  
 By Kimberley Chiu
 
+![](/images/Vol%2021%20Issue%202/Libraries%20of%20Tomorrow/tomorrow_main.jpg)
+<div style="background-color: white;">Ng Cher Pong, Chief Executive Officer, National Library Board. <i>Collection of the National Library Board.</i></div>
+
 **The three pillars of the National Library Board are the National Library, the National Archives and the public libraries. How will the libraries and archives of the future look like to you?**
 
 Libraries and archives are repositories of knowledge, information and cultural heritage. Their objectives are to collect and preserve materials, and make these accessible to library patrons for their educational, recreational and informational needs. At the National Library Board (NLB), in addition to the provision of traditional library and archives services, it’s increasingly going to be about experiences – the experience of discovery, and the idea of library and archives as enablers of discovery. This is important because when we reflect on how we want patrons to experience our services, we have to think beyond the traditional roles of libraries and archives. We have to innovate, experiment and keep people interested, inspired, engaged and curious to know more. These are things that institutions like libraries and archives should do.
@@ -19,11 +22,17 @@ Compare this with the retail industry: you can buy most things through e-commerc
 
 In 2024, the total visitorship at the National Library, public libraries, National Archives and the Former Ford Factory was 19.8 million. This is a healthy number but it is not something to take for granted. To maintain and grow this number, we have to figure out how our spaces can create experiences that add value to our patrons.&nbsp;
 
+![](/images/Vol%2021%20Issue%202/Libraries%20of%20Tomorrow/tomorrow_rediscover.jpg)
+<div style="background-color: white;"> Chief Executive Officer Ng Cher Pong at <i>Rediscover Rediffusion</i> in Chinatown Point, 5–18 August 2024. The pop-up featured a curated collection of Mandarin and Chinese dialect Rediffusion programmes and photographs from the National Archives of Singapore. <i>Collection of the National Library Board.</i></div>
+
 Our patrons’ needs are at the heart of what we do, and they come to us for many different reasons. Some want individual seats and quiet corners where they can have a respite; others come for books and programmes. These core services continue to be important to us. But we have to also provide interesting content-based experiences that present our patrons with something unexpected, such that they will want to keep coming back regularly. &nbsp;
 
 I recently visited the Beijing Capital Library, which won the Public Library of the Year Award by the International Federation of Library Associations and Institutions (IFLA) in October 2024. That library invested heavily in experiences for patrons across the age spectrum. For example, the children’s section has a 4D cinema complete with moving seats and special effects to make storytelling come alive. Such an experience may not usually be associated with libraries, but it is an illustration of how we need to break out of our traditional thinking and consider what makes sense from the user’s point of view.&nbsp;
 
 Many of these experiences will also be omni-channel – an experience that blurs the line between physical and digital – which allows you to access digital content in a physical space. We’ve already done this with new technology like the AR (augmented reality) artwork at the Central Public Library showcasing Singapore’s landmarks, but there is scope to do much more.
+
+![](/images/Vol%2021%20Issue%202/Libraries%20of%20Tomorrow/tomorrow_cpl.jpg)
+<div style="background-color: white;">The augmented reality artwork at the Central Public Library, titled “In Our Time”, by artist and illustrator Lee Xin Li. Visitors can use their mobile devices to scan the mural and unlock special content, including articles, images and videos about Singapore’s landmarks. <i>Photo by Veronica Chee.</i></div>
 
 My last point about the libraries and archives of the future is that we must be driven by discovery. This has always been the underlying reason people come to the library: to discover new and unexpected things. If you already have a clear idea of what you want, such as a specific title, there are many options to fulfil this need. This includes ordering from Amazon.
 
