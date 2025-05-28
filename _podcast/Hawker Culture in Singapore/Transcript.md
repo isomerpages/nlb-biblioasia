@@ -338,7 +338,7 @@ run, some of them government run. But in terms of the operationalisation
 of the shelter, it was mostly run by the hawkers themselves. Think about,
 for example, the markets that you have in Penang or in Malacca. The area
 outside the hawkers. I’d say the hawker stall is their territory. Because
-it’s the hawkers’ table. So and so forth.&nbsp;</p>
+it’s the hawkers’ table. So on and so forth.&nbsp;</p>
 <p><strong>Jimmy</strong>
 <br>Yeah.&nbsp;</p>
 <p><strong>Ryan</strong>
