@@ -149,3 +149,10 @@ The *keramat* of Singapore now face a second vanishing as memories of them fade.
 
 [Keramat, Sacred Relics and Forbidden Idols in Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300071320)
 *by William Gibson was published by Routledge as part of their Contemporary Southeast Asia series in 2024. This work is an outcome of Gibson’s 2022 Lee Kong Chian Research Fellowship at the National Library of Singapore*.
+
+
+<br>
+<div style="background-color: white;">
+<br>
+<img style="width: 100px; height: 100px;" src="/images/Authors/william_gibson.png">
+<b>William L. Gibson</b> is an author and researcher based in Southeast Asia since 2005. A former Lee Kong Chian Research Fellow of the National Library Singapore, his most recent book is <i>Keramat, Sacred Relics and Forbidden Idols in Singapore</i> (2024), published by Routledge as part of their Contemporary Southeast Asia series. His book <i> Alfred Raquez</i>  and the <i> French Experience of the Far East, 1898–1906</i>  (2021) was published by Routledge as part of its Studies in the Modern History of Asia series. Gibson’s articles have appeared in <i> Signal to Noise</i> , PopMatters.com, <i> The Mekong Review</i> , <i> Archipel</i> , <i> History and Anthropology</i> , the <i> Bulletin de l’École française d’Extrême-Orient</i>  and <i> BiblioAsia</i> , among others. He is also behind a trilogy of hard-boiled crime novels set in 1890s Singapore, the Detective Hawksworth series, published by Monsoon Books.</div>
