@@ -102,10 +102,6 @@ Armed with an eye for detail and his trusty Leica camera, Pinsler travelled arou
 
 Pinsler’s collection includes significant photographs of Chinese customs, festivals and the birthdays of various gods. He attributed his interest in all things Chinese to Ah Toh, the Cantonese _majie_ (domestic helper) employed to look after him. As his parents travelled a lot for work, he would accompany Ah Toh to her village in Changi to attend festivals and temple celebrations.[^12]
 
-![](/images/Vol%2021%20Issue%202/PS%20Teo/psteo_trishaw.jpg)
-<div style="background-color: white;">  A woman with food offerings riding in a trishaw on her way to the temple on Duxton Road for the birthday celebration of Guan Yin, Goddess of Mercy, 1980. <i>Ronni Pinsler Collection, courtesy of National Archives of Singapore (Media - Image no. 19990008731 - 0068).</i></div>
-
-
 ![](/images/Vol%2021%20Issue%202/PS%20Teo/psteo_hawker.jpg)
 <div style="background-color: white;">  A hawker’s three-wheeled vehicle laden with wares such as brooms, brushes, fans, feather dusters, plastic basins and scoops, 1980s. <i>Ronni Pinsler Collection, courtesy of National Archives of Singapore (Media - Image no. 19990007084 - 003).</i></div>
 
@@ -123,6 +119,10 @@ His rich knowledge of the extensive Taoist pantheon and his ability to identify 
 
 ![](/images/Vol%2021%20Issue%202/PS%20Teo/psteo_karung.jpg)
 <div style="background-color: white;">A <i>karung guni</i> (or rag-and-bone) man collecting old newspapers in Serangoon Road, 1982.  <i>Ronni Pinsler Collection, courtesy of National Archives of Singapore (Media - Image no: 19990007467 - 0026).</i></div>
+
+![](/images/Vol%2021%20Issue%202/PS%20Teo/psteo_trishaw.jpg)
+<div style="background-color: white;">  A woman with food offerings riding in a trishaw on her way to the temple on Duxton Road for the birthday celebration of Guan Yin, Goddess of Mercy, 1980. <i>Ronni Pinsler Collection, courtesy of National Archives of Singapore (Media - Image no. 19990008731 - 0068).</i></div>
+
 
 Unlike studio photography, street photography captures spontaneous moments that are not posed, with the subject often unaware that they are being photographed. A photograph of _samsui_ women on a lorry was taken from Pinsler’s car while he was at a traffic stop. He said that _samsui_ women were mostly too shy to have their images taken, and recalled that one in front covered her face as soon as she saw his camera.[^13]
 
@@ -154,7 +154,7 @@ The NAS has about 600 different photograph collections. Some of these come from 
 Members of the public are encouraged to explore all these photographs on [Archives Online](https://www.nas.gov.sg/archivesonline/) and also check out what’s featured on our new [virtual photographs curation](https://www.nas.gov.sg/archivesonline/throughthelens).
 
 
-<div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">The writers would like to thank Teo Soh Lung, sister of the late P.S. Teo, for consenting to the use of his photographs in this article. References have also been made to the book, <i>P.S. Teo, Photographer (1930–2005)</i>.
+<div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">The writers would like to thank Teo Soh Lung, sister of the late P.S. Teo, for consenting to the use of his photographs in this article. References have also been made to the book, <a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=204438628"><i>P.S. Teo, Photographer (1930–2005)</i></a>.
 <br><br>
 The writers are also grateful to Ronni Pinsler for generously sharing his experiences in taking the photographs showcased in this article.<br></div>
 
