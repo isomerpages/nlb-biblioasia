@@ -85,6 +85,9 @@ The profile of our seniors is also changing rapidly. Singapore went through a hu
 
 We are also committed to making our spaces accessible to persons with disabilities. While Singapore has become increasingly inclusive, there are still too few public spaces designed for persons with disabilities – that not only accommodate them but make it possible for them to participate in the same way as any other user, and are built with their needs and desires in mind.
 
+![](/images/Vol%2021%20Issue%202/Libraries%20of%20Tomorrow/tomorrow_lv1.jpg)
+<div style="background-color: white;">“Borrow-n-Go” on Level 1 of the Punggol Regional Library enables persons with disabilities to borrow books more easily. It is designed as a portal to provide users with a smoother borrowing experience and features a screen positioned at an accessible height for wheelchair users. <i>Collection of the National Library Board.</i></div>
+
 We tried to do so when we built Punggol Regional Library and learnt much from serving persons with disabilities. We now need to extend this approach to all our libraries going forward.[^4] It is important that anyone who wants to use the library can do so. It’s not just a numbers game for us: every patron matters, every segment of the population matters, and that includes persons with disabilities.
 
 **Society can feel increasingly atomised and isolating with the changes brought about by technology and other social forces. What can NLB do to combat this?**
