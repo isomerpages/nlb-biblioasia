@@ -105,8 +105,7 @@ This is part of the natural synergy between the National Archives and National L
 [^1]: In 2024, NLB launched the prototype of a generative AI-powered chatbook featuring founding father S. Rajaratnam. It enabled users to learn about his life and contributions to Singapore from content obtained from his authorised biography as well as collections from the National Archives and National Library.
 
 
-[^2]: Nodes are new curated entry points into the National Library Board’s wide array of services and collections. They are an extension of learning experiences beyond physical libraries, and aim to bring content and services to wherever people frequent such as shopping malls, community centres, MRT stations, parks and even  
-McDonald’s outlets.&nbsp;
+[^2]: Nodes are new curated entry points into the National Library Board’s wide array of services and collections. They are an extension of learning experiences beyond physical libraries, and aim to bring content and services to wherever people frequent such as shopping malls, community centres, MRT stations, parks and even  McDonald’s outlets.&nbsp;
 
 
 [^3]: The House of Wisdom, a library and cultural centre, was commissioned in celebration of Sharjah winning the 2019 UNESCO World Book Capital. It is envisioned as a social hub for learning, supported by innovation and technology.
