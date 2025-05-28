@@ -142,3 +142,10 @@ Proscribed activities include circumambulating the grave or stroking its soil, a
 Their best chance of survival lies in their role as a heritage objects, as exemplified by Keramat Iskandar Shah in Fort Canning Park. While not a national monument, a sign beside the *keramat* indicates that it is a “designated Singapore historical site”, an ambiguous status that would seem to allow official rules to apply. The sign also prohibits religious activities, while not granting any official protection. In other words, the *keramat* on Fort Canning Hill is considered as an outdoor museum piece washed clean of local faith.
 
 Yet, the *keramat* remains an active shrine, a characteristic that sets it at odds with the official rhetoric of both MUIS and the state-led heritage industry, which seeks to preserve it as a historic point of interest. This paradoxical fate is worth remembering as discussion of preserving other *keramat* as heritage sites gains traction.
+
+#### **Conclusion**
+
+The *keramat* of Singapore now face a second vanishing as memories of them fade. The studies that have appeared over the decades were often recorded in ephemeral media such as newspapers, unpublished fieldnotes or dissertations, academic exercises or conference proceedings, with only a few published journal articles or book chapters. My in-depth study of *keramat* provides a foundation for further research into the phenomenon for academic studies and urban planning policy. However, the study of social use of *keramat* across Singapore and the region, addressing questions such as the patterns of use and exclusivity of devotees from various ethno-social groups, are beyond the scope of this study.
+
+[Keramat, Sacred Relics and Forbidden Idols in Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300071320)
+Keramat, Sacred Relics and Forbidden Idols in Singapore *by William Gibson was published by Routledge as part of their Contemporary Southeast Asia series in 2024. This work is an outcome of Gibson’s 2022 Lee Kong Chian Research Fellowship at the National Library of Singapore*.
