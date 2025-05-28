@@ -2,6 +2,8 @@ collections:
   holding-area:
     output: true
     order:
+      - "New Experiences and Discoveries: The Libraries and Archives of
+        Tomorrow.md"
       - "A Tale of Two Cities: Singapore Through the Lens of PS Teo and Ronni
         Pinsler.md"
       - Sample article.md
