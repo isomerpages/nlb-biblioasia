@@ -5,6 +5,13 @@ description: ""
 third_nav_title: Arts
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/ps-teo-ronni-pinsler/">Singapore Through the Lens of P.S. Teo and Ronni Pinsler</a>
+
+The photographs of P.S. Teo and Ronni Pinsler of a bygone Singapore form part of the National Archives of Singapore’s 5.5-million strong collection.
+
+<img src="/images/Vol%2021%20Issue%202/PS%20Teo/karang_guni_topic.jpg" style="width:80%;">  
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/audio-visual-national-archives-singapore/">A Peek at the Audio-Visual Archives: History Captured in Sound and Moving Images</a>
 
 The National Archives of Singapore has been safeguarding Singapore’s rich audiovisual legacy for the last 30 years.
