@@ -18,7 +18,7 @@ sections:
       background: /images/Vol 21 Issue 1/Badang/heroimg_badang1.jpg
       variant: center
   - infopic:
-      title: A Story History of the National Library
+      title: A Short History of the National Library
       subtitle: Local Icons
       id: infopic
       description: The National Library Singapore began life in 1837 with a modest
