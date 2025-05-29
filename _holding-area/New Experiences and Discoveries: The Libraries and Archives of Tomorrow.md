@@ -7,6 +7,9 @@ description: ""
 #### Ng Cher Pong, Chief Executive Officer of the National Library Board,  shares his thoughts and insights on how libraries and archives can stay relevant in today’s world.  
 By Kimberley Chiu
 
+![](/images/Vol%2021%20Issue%202/Libraries%20of%20Tomorrow/tomorrow_main.jpg)
+<div style="background-color: white;">Ng Cher Pong, Chief Executive Officer, National Library Board. <i>Collection of the National Library Board.</i></div>
+
 **The three pillars of the National Library Board are the National Library, the National Archives and the public libraries. How will the libraries and archives of the future look like to you?**
 
 Libraries and archives are repositories of knowledge, information and cultural heritage. Their objectives are to collect and preserve materials, and make these accessible to library patrons for their educational, recreational and informational needs. At the National Library Board (NLB), in addition to the provision of traditional library and archives services, it’s increasingly going to be about experiences – the experience of discovery, and the idea of library and archives as enablers of discovery. This is important because when we reflect on how we want patrons to experience our services, we have to think beyond the traditional roles of libraries and archives. We have to innovate, experiment and keep people interested, inspired, engaged and curious to know more. These are things that institutions like libraries and archives should do.
@@ -15,15 +18,24 @@ Libraries and archives are repositories of knowledge, information and cultural h
 
 The starting point for thinking about the libraries and archives of the future is the idea that we need to go beyond transactions. Our spaces will increasingly be about experiences. This brings us to the question: why would someone choose to visit a library?&nbsp;
 
+![](/images/Vol%2021%20Issue%202/Libraries%20of%20Tomorrow/tomorrow_comics.jpg)
+<div style="background-color: white;">Nodes provide reading and learning experiences beyond the physical libraries. Shown here is the Comics &amp; Games Library at Punggol Coast Mall developed in partnership with JTC and local board games company Origame. The pop-up library features a collection of more than 7,000 comics, game-themed reads, graphic novels and board games. <i>Collection of the National Library Board.</i></div>
+
 Compare this with the retail industry: you can buy most things through e-commerce and have them delivered to your home. Why would anyone go to a retail store? Libraries are not dissimilar; after all, you can now get library books delivered to your home or to reservation lockers. You can even access eBooks from your phone. Therefore, the library needs to offer you something more than books.&nbsp;
 
 In 2024, the total visitorship at the National Library, public libraries, National Archives and the Former Ford Factory was 19.8 million. This is a healthy number but it is not something to take for granted. To maintain and grow this number, we have to figure out how our spaces can create experiences that add value to our patrons.&nbsp;
+
+![](/images/Vol%2021%20Issue%202/Libraries%20of%20Tomorrow/tomorrow_rediscover.jpg)
+<div style="background-color: white;"> Chief Executive Officer Ng Cher Pong at <i>Rediscover Rediffusion</i> in Chinatown Point, 5–18 August 2024. The pop-up featured a curated collection of Mandarin and Chinese dialect Rediffusion programmes and photographs from the National Archives of Singapore. <i>Collection of the National Library Board.</i></div>
 
 Our patrons’ needs are at the heart of what we do, and they come to us for many different reasons. Some want individual seats and quiet corners where they can have a respite; others come for books and programmes. These core services continue to be important to us. But we have to also provide interesting content-based experiences that present our patrons with something unexpected, such that they will want to keep coming back regularly. &nbsp;
 
 I recently visited the Beijing Capital Library, which won the Public Library of the Year Award by the International Federation of Library Associations and Institutions (IFLA) in October 2024. That library invested heavily in experiences for patrons across the age spectrum. For example, the children’s section has a 4D cinema complete with moving seats and special effects to make storytelling come alive. Such an experience may not usually be associated with libraries, but it is an illustration of how we need to break out of our traditional thinking and consider what makes sense from the user’s point of view.&nbsp;
 
 Many of these experiences will also be omni-channel – an experience that blurs the line between physical and digital – which allows you to access digital content in a physical space. We’ve already done this with new technology like the AR (augmented reality) artwork at the Central Public Library showcasing Singapore’s landmarks, but there is scope to do much more.
+
+![](/images/Vol%2021%20Issue%202/Libraries%20of%20Tomorrow/tomorrow_cpl.jpg)
+<div style="background-color: white;">The augmented reality artwork at the Central Public Library, titled “In Our Time”, by artist and illustrator Lee Xin Li. Visitors can use their mobile devices to scan the mural and unlock special content, including articles, images and videos about Singapore’s landmarks. <i>Photo by Veronica Chee.</i></div>
 
 My last point about the libraries and archives of the future is that we must be driven by discovery. This has always been the underlying reason people come to the library: to discover new and unexpected things. If you already have a clear idea of what you want, such as a specific title, there are many options to fulfil this need. This includes ordering from Amazon.
 
@@ -34,6 +46,9 @@ But we do know that many people visit libraries – and bookshops – because th
 That depends on how you structure your algorithm. Commercial operators may choose to keep pushing the same types of resources and products to a user because doing so makes the user more likely to buy something. By doing so, you are indeed restricting a user’s browsing behaviour. But for NLB, we are not constrained by such commercial considerations. We have freer rein to be more creative with the content we recommend, and to offer a broader range of reading materials to our patrons, including from our archives. We can take more risks and offer greater variety because we’re not under pressure to monetise what people choose, and because we genuinely believe in providing breadth.
 
 We do have to think carefully about how we can provide browsing as a service in the digital space. People are so used to social media feeds. Can a digital library look like a social media feed? Can a digital library’s interface appear almost infinite in the same? How and what can we learn from social media algorithms – what lessons can we take from them?
+
+![](/images/Vol%2021%20Issue%202/Libraries%20of%20Tomorrow/tomorrow_browse.jpg)
+<div style="background-color: white;"> “Browse-n-Borrow” at West Mall where patrons can explore, flip through and borrow books from a diverse collection of up to 750 titles that are regularly refreshed. <i>Collection of the National Library Board.</i></div>
 
 **Do you think it’s possible for NLB to compete with social media for attention? Do we have the capabilities to match the experience of, for instance, TikTok?**
 
@@ -49,6 +64,9 @@ I believe that we need to meet our patrons where they are if we want to make our
 
 This could involve co-locating with other services or businesses. A natural partner would be cafés, since there is already a strong association between books and coffee. Many of our libraries already have cafés, but there is a clear delineation between the café space and the library space: we can’t bring food and drinks from the café into the library, forcing an arbitrary interruption of what could have been a seamless experience of reading over a cup of coffee.&nbsp;
 
+![](/images/Vol%2021%20Issue%202/Libraries%20of%20Tomorrow/tomorrow_fortytwo.jpg)
+<div style="background-color: white;">As part of community takeover, the National Library Board partnered with homegrown furniture brands to reimagine reading spaces and offer library patrons a new reading experience. Pictured here is the Jurong West Public Library in partnership with FortyTwo. <i>Collection of the National Library Board.</i></div>
+
 One day we should have a library where the café is not sequestered in one corner but instead occupies a central space in the library, with the ability to serve food and drinks throughout the library space.&nbsp;
 
 The House of Wisdom Library in Sharjah in the United Arab Emirates has a similar concept,[^3] where you can even order a coffee at your seat using a QR code.&nbsp;
@@ -63,9 +81,15 @@ Most importantly, we have to keep in mind that public libraries serve a broad sw
 
 At the moment, the library is seen primarily as a space for the young, so we are working hard to offer services to appeal to working adults as well as seniors. It’s especially important to serve our seniors well because Singapore’s population is ageing rapidly and we will soon become a super-aged society.
 
+![](/images/Vol%2021%20Issue%202/Libraries%20of%20Tomorrow/tomorrow_seniors.jpg)
+<div style="background-color: white;">Comprising seniors, the Tampines Uke Jammers of the Tampines Regional Library meet on the first and third Fridays of the month.<i>Collection of the National Library Board.</i></div>
+
 The profile of our seniors is also changing rapidly. Singapore went through a huge and rapid shift in our education system after independence, so the needs of the new generation of seniors are very different from their predecessors. The seniors of today are increasingly looking for new experiences: they travel, seek out educational opportunities and want exciting places where they can spend time without being forced to spend money. We have a lot to offer people at this stage of their lives, such as programmes where they can discover digital technology, workshops that help them develop new skills, and learning communities that will allow them to explore new interests and connect with other seniors.
 
 We are also committed to making our spaces accessible to persons with disabilities. While Singapore has become increasingly inclusive, there are still too few public spaces designed for persons with disabilities – that not only accommodate them but make it possible for them to participate in the same way as any other user, and are built with their needs and desires in mind.
+
+![](/images/Vol%2021%20Issue%202/Libraries%20of%20Tomorrow/tomorrow_lv1.jpg)
+<div style="background-color: white;">“Borrow-n-Go” on Level 1 of the Punggol Regional Library enables persons with disabilities to borrow books more easily. It is designed as a portal to provide users with a smoother borrowing experience and features a screen positioned at an accessible height for wheelchair users. <i>Collection of the National Library Board.</i></div>
 
 We tried to do so when we built Punggol Regional Library and learnt much from serving persons with disabilities. We now need to extend this approach to all our libraries going forward.[^4] It is important that anyone who wants to use the library can do so. It’s not just a numbers game for us: every patron matters, every segment of the population matters, and that includes persons with disabilities.
 
@@ -97,7 +121,7 @@ This is part of the natural synergy between the National Archives and National L
 
 
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src="/images/Authors/DrJohnBray27.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/KimberleyChiu.png">
 <b>Kimberley Chiu</b> is a Librarian with the Collection Planning and Development division. She selects books and eResources for children and young people across the public libraries. </div>
 
 #### **Notes**
@@ -105,8 +129,7 @@ This is part of the natural synergy between the National Archives and National L
 [^1]: In 2024, NLB launched the prototype of a generative AI-powered chatbook featuring founding father S. Rajaratnam. It enabled users to learn about his life and contributions to Singapore from content obtained from his authorised biography as well as collections from the National Archives and National Library.
 
 
-[^2]: Nodes are new curated entry points into the National Library Board’s wide array of services and collections. They are an extension of learning experiences beyond physical libraries, and aim to bring content and services to wherever people frequent such as shopping malls, community centres, MRT stations, parks and even  
-McDonald’s outlets.&nbsp;
+[^2]: Nodes are new curated entry points into the National Library Board’s wide array of services and collections. They are an extension of learning experiences beyond physical libraries, and aim to bring content and services to wherever people frequent such as shopping malls, community centres, MRT stations, parks and even  McDonald’s outlets.&nbsp;
 
 
 [^3]: The House of Wisdom, a library and cultural centre, was commissioned in celebration of Sharjah winning the 2019 UNESCO World Book Capital. It is envisioned as a social hub for learning, supported by innovation and technology.

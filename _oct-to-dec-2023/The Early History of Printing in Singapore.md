@@ -99,7 +99,7 @@ By 1841, the Mission Press of the ABCFM had printed over 14 million pages of wor
 <div style="background-color: white;"> 
 	Pages from <i>Sejarah Melayu</i> (<i>Malay Annals</i>) edited by Munshi Abdullah. <i>Collection of the National Library, Singapore (Call no. RRARE 959.503 SEJ; Accession no. B31655050C).</i></div>
 
-The Mission Press of the ABCFM also produced the earliest extant Chinese publication printed in Singapore in the National Library’s collection: [全人矩矱](/vol-11/issue-4/jan-mar-2016/gospel-chinese-karl-friedrich-august-gutzlaff/) (*Quan Ren Ju Yue*), translated as *The Perfect Man’s Model* or *The Complete Duty of Man*. It was written by German Protestant missionary Karl Friedrich August Gützlaff under the pen name 爱汉者 (“Lover of the Chinese”) and printed in 1836 in 3,000 copies by 坚夏书院 (Jian Xia Shuyuan), the printing arm of the American mission in Singapore. The book presents Jesus as the “perfect man” through the tenets of Confucianism.[^22]
+The Mission Press of the ABCFM also produced the earliest locally printed Chinese book held in the National Library’s collection: [全人矩矱](/vol-11/issue-4/jan-mar-2016/gospel-chinese-karl-friedrich-august-gutzlaff/) (*Quan Ren Ju Yue*), translated as *The Perfect Man’s Model* or *The Complete Duty of Man*. It was written by German Protestant missionary Karl Friedrich August Gützlaff under the pen name 爱汉者 (“Lover of the Chinese”) and printed in 1836 in 3,000 copies by 坚夏书院 (Jian Xia Shuyuan), the printing arm of the American mission in Singapore. The book presents Jesus as the “perfect man” through the tenets of Confucianism.[^22]
 
 ![](/images/Vol%2019%20Issue%203/10%20Printing/image_8-edit.png)
 <div style="background-color: white;"> 
@@ -218,7 +218,7 @@ This is the first printed edition of the <i>Sulalat al-Salatin (Genealogy of Kin
          
 <div style="background-color: #fff6ba; text-align:left; font-size:100%">
 <a href="https://www.nlb.gov.sg/main/book-detail?cmsuuid=29ccbe1a-d854-4520-bf05-b3d085114375"><b>全人矩矱&nbsp; (Quan Ren Ju Yue)</b></a><br>新嘉坡 坚夏書院, 1836.<br>Call no. RRARE 243 AHZ; Accession no. B02890695F.<br><br>
-The title of this publication has been translated as The Perfect Man’s Model or The Complete Duty of Man. This is the earliest extant Chinese publication printed in Singapore and is held in the National Library’s collection. This book was written by German Protestant missionary Karl Friedrich August Gützlaff under his pen name 爱汉者 (“Lover of the Chinese”) and by printed by 坚夏書院 (Jian Xia Shuyuan), the printing arm of the American mission in Singapore.</div><br>
+The title of this publication has been translated as The Perfect Man’s Model or The Complete Duty of Man. This is the earliest locally printed Chinese book held in the National Library’s collection. This book was written by German Protestant missionary Karl Friedrich August Gützlaff under his pen name 爱汉者 (“Lover of the Chinese”) and by printed by 坚夏書院 (Jian Xia Shuyuan), the printing arm of the American mission in Singapore.</div><br>
 
 <img style="width:65%;" src="/images/Vol%2019%20Issue%203/10%20Printing/image_8-edit.png">
 <div style="background-color: #fff6ba;text-align:left">
