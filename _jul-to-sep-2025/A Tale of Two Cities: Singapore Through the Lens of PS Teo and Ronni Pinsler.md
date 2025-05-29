@@ -1,5 +1,5 @@
 ---
-title: "A Tale of Two Cities: Singapore Through the Lens of PS Teo and Ronni Pinsler"
+title: "A Tale of Two Cities: Singapore Through the Lens of P.S. Teo and Ronni Pinsler"
 permalink: /vol-21/issue-2/jul-sep-2025/ps-teo-ronni-pinsler/
 variant: markdown
 description: ""
