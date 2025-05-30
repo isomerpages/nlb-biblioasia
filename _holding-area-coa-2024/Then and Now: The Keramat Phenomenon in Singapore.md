@@ -62,7 +62,7 @@ Sometimes these *datuk* shrines include a “grave” for the *keramat* spirit. 
 In 1954, this shrine was identified as the grave of one Siti Mariam, the eldest of the Tiga Adik Beradik Keramat, three sisters buried within or beside police stations along Serangoon Road. “The feature of Siti Mariam’s tomb is that a bole of an old jackfruit tree grows out its center and protrudes through the zinc roof. The tree rarely bears fruit but when it does, the fruit is said to be the sweetest one can eat.”  Yet another story has the grave belonging to an Arab *wali* named Syed Zahid, though this version appears not to have been very popular.
 
 The *keramat* sisters of Serangoon Road were joined in the 1980s by another named Siti Subaida, whose “grave” located nearby was a large mound of earth, shaped like a frog, also marked as a *datuk kong*. This expanding *keramat* family was said to include the *datuk keramat* at Kusu Island*, Syed Abdul Rahman, and the adjacent *datuk nenek* shrines of his wife and sister (or mother and daughter, depending on the version). 
-![](/images/COA%202024/Keramat/01_entrance.jpg)
+
 <img src="/images/COA%202024/Keramat/01_entrance.jpg" style="width:100%;">
  <div style="background-color: white;"> The entrance to the <i>keramat</i> at Kusu Island, a few months before the devasting fire in 2022. <i> Courtesy of William Gibson.</i></div>
 
