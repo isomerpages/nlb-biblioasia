@@ -25,3 +25,13 @@ Closer to the present day, we pay tribute to [Hedwig Anuar](https://staging-lite
 This special edition is not just about looking back of course; it is also an opportunity to look ahead. In an age of ubiquitous information and generative AI, do libraries and librarians still have a future? In an interview, NLB Chief Executive Officer Ng Cher Pong sketches out how he thinks the [libraries and archives can remain relevant](https://staging-lite.d3lqsdaf68v737.amplifyapp.com/vol-21/issue-2/jul-sep-2025/toa-payoh-public-library/) in the face of these new challenges.
 
 We are certainly optimistic. We have been around for 188 years, and we plan on being around for another 188 more. Thank you for looking back and looking forward with us.
+
+
+
+
+
+<div style="background-color: white;">
+<br>
+<img src="/images/vol-17-issue-3/Director.png" style="width: 100px; height: 100px;">
+<center><b>Alicia Yeo</b><br>Director<br>National Library, Singapore</center>
+</div>
