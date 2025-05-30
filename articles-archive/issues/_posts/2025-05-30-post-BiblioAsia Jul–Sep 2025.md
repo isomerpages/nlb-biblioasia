@@ -27,19 +27,19 @@ In the late 19th century, Kung Tian Cheng helped compile a complete catalogue of
 Beyond being a mere repository of books, the library on Stamford Road was a place for acquiring knowledge, making memories and creating friendships. *Lim Tin Seng*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_SingSingapore-.pdf)
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/deaf-education-singapore-sign-language/">Signs of Progress: Deaf Education in Singapore</a><br>
-The first school for the deaf in Singapore was established in 1954, paving the way for deaf education and the development of Singapore Sign Language. *Rosxalynd Liu and Nathaniel Chew*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_DeafEducation2.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/deaf-education-singapore-sign-language/">The Singapore and Southeast Asia Collection</a><br>
+An invaluable resource for researchers of Singapore and the region. *Ang Seow Leng*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_DeafEducation2-.pdf)
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/1954-floods-singapore/">The Floods of 1954 </a><br> The severe floods of 1954 tested community resilience, spurred significant infrastructure improvements and left a lasting impact on Singapore’s flood preparedness measures. *Darren Seow*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_Floods.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/1954-floods-singapore/">Pioneering Archaeological Research</a><br> Research into Malaya’s prehistory took off in the 1930s under the leadership of the Raffles Library and Museum.*Foo Shu Tieng*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_Floods-.pdf)
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/mazu-goddess-of-the-sea-worship-birthday-thian-hock-keng/">Mazu Worship in Singapore</a><br>
-Mazu devotion, which first came to Singapore in 1810, lives on in its traditions and processions. *Alvin Tan*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_Mazu.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/mazu-goddess-of-the-sea-worship-birthday-thian-hock-keng/">Legal Deposit Legislation in Singapore</a><br>
+The legal deposit function in Singapore can be traced back to an 1835 law enacted in India to control and regulate the flow of information. *Makeswary Periasamy*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_Mazu.pdf)
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/origins-badang-strongman-singapore-stone/">Uncovering the Origins of Badang the Strongman</a><br>
-Badang the Strongman has become part of the story of early Singapore. But there is more to the story that meets the eye. *William L. Gibson*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_BadangtheStrongman2.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/origins-badang-strongman-singapore-stone/">A Recent History of Legal Deposit in Singapore</a><br>
+The scope of legal deposit in Singapore expanded to digital materials and web archiving in 2018. *Samantha Chen*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_BadangtheStrongman2-.pdf)
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/barbara-kerr-sharpshooter-school-principal-girl-guide/">Barbara Kerr: Sharpshooter, School Principal, Girl Guide Extraordinaire	</a><br>
