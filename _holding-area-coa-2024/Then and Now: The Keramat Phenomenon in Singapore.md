@@ -4,7 +4,7 @@ permalink: /holding-area/chapters-on-asia-2024/keramat-phenomenon-singapore/
 variant: markdown
 description: ""
 ---
-Singapore once abounded with *keramat* that ranged from sturdy structures, such as the Keramat Iskandar Shah* at Fort Canning, to simple roadside shrines, such as the vanished Orang Halus* *keramat* at the Havelock Road Police Station.  Sadly, most of these *keramat* were demolished over the past half century to make way for development. The most recent of these demolitions, Keramat Siti Mariam in Kallang*, was followed by an exhibition at the National University of Singapore’s museum in 2011, but most of the demolitions were carried out without much notice.
+Singapore once abounded with *keramat* that ranged from sturdy structures, such as the Keramat Iskandar Shah* at Fort Canning, to simple roadside shrines, such as the vanished Orang Halus* *keramat* at the Havelock Road Police Station.[^1] Sadly, most of these *keramat* were demolished over the past half century to make way for development. The most recent of these demolitions, Keramat Siti Mariam in Kallang*, was followed by an exhibition at the National University of Singapore’s museum in 2011, but most of the demolitions were carried out without much notice.
 
 *Keramat* represent physical markers of Singapore’s history as a maritime trading centre, yet they are also focal points for the communities in which they stood, offering a sanctified space where people could seek solace or ask for dispensation or intervention in personal problems. Maintained by self-appointed caretakers, each *keramat* has folklore that interweaves historical facts with a syncretic spirituality mirroring the sensibilities of the community.
 
@@ -13,7 +13,7 @@ This paper will offer a brief of analysis of the various types of keramat that w
 #### **What’s a Keramat?**
 *Keramat* are sacred objects that possess a special energy known as *semangat*. These may be natural objects like trees, rocks, termite mounds, whirlpools, waterfalls; living animals; living people; graves of *wali* or venerated persons; old graves of unknown origin; spirits of animals or holy men; or a combination thereof. 
 
-Each *kerama*t is unique, yet different ethnic groups may have varying perspectives on a single *kerama*t. It was common for a *keramat* to have multiple identities: names, ages, origins, and even genders could change over time. 
+Each *kerama*t is unique, yet different ethnic groups may have varying perspectives on a single *keramat*. It was common for a *keramat* to have multiple identities: names, ages, origins, and even genders could change over time. 
 
 However, some *keramat* have maintained relatively stable identities over the decades. It is perhaps not a coincidence that most of these tend to be the *keramat* that still exist, for instance, Habib Nuh*, Iskandar Shah, Radin Mas* and Tok Lasam*.
 
@@ -30,22 +30,22 @@ Some *keramat* are known for special powers such as helping to conceive children
 <u>Living Keramat</u><br> 
 *Keramat hidup*, literally “living *keramat*”, are not magicians but rather a type of saint who can perform miraculous feats such as teleportation, mind-reading, fortune-telling and healing the sick. C.O. Blagden mentioned a living keramat in his letter published in Walter Skeat’s seminal (if problematic) 2005 study *Malay Magic*: 
 
-“I remember, in 1895, hearing of a little girl, living with her parents at Sungei Baru in the Alor Gajah district of Malacca, who was reputed to be *kramat*.  People used to travel considerable distances to visit her, and thereby gain some benefit or other. I was informed that the modus operandi was to swallow a small quantity of her saliva in a cup of water, but I never verified this statement.” 
+“I remember, in 1895, hearing of a little girl, living with her parents at Sungei Baru in the Alor Gajah district of Malacca, who was reputed to be *kramat*.[^2] People used to travel considerable distances to visit her, and thereby gain some benefit or other. I was informed that the modus operandi was to swallow a small quantity of her saliva in a cup of water, but I never verified this statement”.[^3]
 
 Within the Islamic tradition, living *keramat* may be considered as *wali*, friends of God. Some of these people are known to be pious ascetics, while others merge with a South Asian tradition of “mad *fakirs*”, holy men who behave outrageously yet whose behaviours are tolerated as acts of the venerable. After death, the graves of such men may become *keramat*, the *wali* continuing to meditate and hear requests for intercession after his or her demise. It is said that *keramat* never die – energy cannot be destroyed.
 
-In Singapore, the most famous *keramat* hidup is Habib Nuh, the “grand saint of Singapore”.  The biography of this man is vague. At his death in 1866, newspapers referred to him as “an old Kling man” who styled himself as Nabi Noah (Prophet Noah), who died in a house at Tanjong Pagar and was buried on a hill in the nearby cemetery.  In 1880, the owner of this burying ground declared a *wakaf* (land donated by a pious person and maintained by trustees) in the name of Habib Nuh bin Muhammed Puteh Alhabshi. Later that decade, an elaborate tomb was erected by Syed Mohamed bin Ahmad Alsagoff (1836–1906), a leading figure in the Muslim business world of Singapore and one of the original trustees of the *wakaf*. This tomb near Palmer Road remains the largest and most popular *keramat* on the island and attracts visitors from around the Muslim world.
+In Singapore, the most famous *keramat* hidup is Habib Nuh, the “grand saint of Singapore”.[^4] The biography of this man is vague. At his death in 1866, newspapers referred to him as “an old Kling man” who styled himself as Nabi Noah (Prophet Noah), who died in a house at Tanjong Pagar and was buried on a hill in the nearby cemetery.[^5] In 1880, the owner of this burying ground declared a *wakaf* (land donated by a pious person and maintained by trustees) in the name of Habib Nuh bin Muhammed Puteh Alhabshi. Later that decade, an elaborate tomb was erected by Syed Mohamed bin Ahmad Alsagoff (1836–1906), a leading figure in the Muslim business world of Singapore and one of the original trustees of the *wakaf*. This tomb near Palmer Road remains the largest and most popular *keramat* on the island and attracts visitors from around the Muslim world.
 
 <img src="/images/COA%202024/Keramat/04_1.jpg" style="width:50%;">
  <div style="background-color: white;"><center> The steps to Habib Nuh’s <i>makam</i> at Palmer Road, 2022.</center> <i> Courtesy of William Gibson.</i></div>
 
-Habib Nuh was not the only *keramat hidup* found in Singapore, nor were they always Muslims. In 1939, the *Sunday Tribune* featured an article about a 65-year-old Hindu man considered “Kramat Idop”. He was known as Swamy Kalian, and devotees, both Chinese and Malay, thronged his domicile on Mohamed Sultan Road. The article noted that “[e]verything in the *kramat* is primitive in the extreme. Three little bamboo huts and a pen about 15 feet long and just broad enough for two people to stand abreast in, are the only semi-permanent structures that this *kramat* contains”.  After living at this location for 30 years, it was said that one day the Swamy received “a visitation from the deity who watches over the premises during which he was told that from that day he would have the power to heal the sick, give sight to the blind, make the dumb talk, set cripples erect and raise the bedridden.” The deity instructed him not to accept money from his patients – a noble endeavor, although the treatments often involved slapping and hair pulling. 
+Habib Nuh was not the only *keramat hidup* found in Singapore, nor were they always Muslims. In 1939, the *Sunday Tribune* featured an article about a 65-year-old Hindu man considered “Kramat Idop”. He was known as Swamy Kalian, and devotees, both Chinese and Malay, thronged his domicile on Mohamed Sultan Road. The article noted that “[e]verything in the *kramat* is primitive in the extreme. Three little bamboo huts and a pen about 15 feet long and just broad enough for two people to stand abreast in, are the only semi-permanent structures that this *kramat* contains”.[^6] After living at this location for 30 years, it was said that one day the Swamy received “a visitation from the deity who watches over the premises during which he was told that from that day he would have the power to heal the sick, give sight to the blind, make the dumb talk, set cripples erect and raise the bedridden.” The deity instructed him not to accept money from his patients – a noble endeavor, although the treatments often involved slapping and hair pulling.[^7]
 
-While it is unclear if the deity who appeared to Swamy Kalian was a *keramat* or a Hindu god, it was believed that people could become *keramat hidup* through their interaction with a *wali*, often through a dream in which the saint revealed the location of his tomb. These people then became the caretakers of the *wali*’s *keramat* and could even become *keramat* themselves. 
+While it is unclear if the deity who appeared to Swamy Kalian was a *keramat* or a Hindu god, it was believed that people could become *keramat hidup* through their interaction with a *wali*, often through a dream in which the saint revealed the location of his tomb. These people then became the caretakers of the *wali*’s *keramat* and could even become *keramat* themselves.[^8]
 
-One such person was Oli Chivli Kutti Mamoo, an Indian immigrant to Singapore who opened an *unani* pharmacy (a form of traditional medicine practiced by South Asian Muslims) on Arab Street in the 1920s. He named the pharmacy Bismillah Wali* (friend of God most merciful), a moniker he took on after a *wali* named Syed Mustapha revealed in a dream the location of his grave at an isolated bend of Upper Changi Road. Bismillah Wali bought the land in the 1930s and built an elaborate *keramat* for Syed, then moved his pharmacy to the site. He soon acquired a reputation as a *keramat hidup*. The sort of miracles attributed to Habib Nuh are lacking in the Bismillah Wali story, which took place well into the era of radio and television: his powers were more attuned to his knowledge of esoteric pharmacology and prognosticating winning lottery numbers.  After he died in 1962, Bismillah Wali was given special permission to be buried beside Syed Mustapha, and both were exhumed and reburied together in one grave at Pusara Abadi cemetery at Chua Chu Kang when the land was cleared for a public housing estate in 1979.
+One such person was Oli Chivli Kutti Mamoo, an Indian immigrant to Singapore who opened an *unani* pharmacy (a form of traditional medicine practiced by South Asian Muslims) on Arab Street in the 1920s. He named the pharmacy Bismillah Wali* (friend of God most merciful), a moniker he took on after a *wali* named Syed Mustapha revealed in a dream the location of his grave at an isolated bend of Upper Changi Road. Bismillah Wali bought the land in the 1930s and built an elaborate *keramat* for Syed, then moved his pharmacy to the site. He soon acquired a reputation as a *keramat hidup*. The sort of miracles attributed to Habib Nuh are lacking in the Bismillah Wali story, which took place well into the era of radio and television: his powers were more attuned to his knowledge of esoteric pharmacology and prognosticating winning lottery numbers.[^9] After he died in 1962, Bismillah Wali was given special permission to be buried beside Syed Mustapha, and both were exhumed and reburied together in one grave at Pusara Abadi cemetery at Chua Chu Kang when the land was cleared for a public housing estate in 1979.
 
-While the designation *keramat hidup* is usually reserved for humans, animals can also be living keramat, although the distinction could be blurry as there are stories of *keramat hidup* who could transform into tigers and even lead an entire village of were-tigers.  Tigers and crocodiles – big predators who could also function as guardian spirits – were often considered *keramat*. However, any animal could be especially so if they were albino, deformed (such as being club-footed) or able to escape easily from traps. 
+While the designation *keramat hidup* is usually reserved for humans, animals can also be living keramat, although the distinction could be blurry as there are stories of *keramat hidup* who could transform into tigers and even lead an entire village of were-tigers.[^10] Tigers and crocodiles – big predators who could also function as guardian spirits – were often considered *keramat*. However, any animal could be especially so if they were albino, deformed (such as being club-footed) or able to escape easily from traps. 
 
 Animals in both corporeal and spirit forms are frequently seen near keramat, including a three-legged tiger at Radin Mas, a white tiger at Iskandar Shah, a white crocodile at Jangal Pir*, a black cobra at Keramat Maliki, a snake half-brother of the caretaker at Keramat Siti Mariam in Kallang, and a fierce black turkey at Dato Mulia*. *Keramat* are also known for attracting huge flocks of pigeons.
 
@@ -169,3 +169,96 @@ The *keramat* of Singapore now face a second vanishing as memories of them fade.
 <br>
 <img style="width: 100px; height: 100px;" src="/images/Authors/william_gibson.png">
 <b>William L. Gibson</b> is an author and researcher based in Southeast Asia since 2005. A former Lee Kong Chian Research Fellow of the National Library Singapore, his most recent book is <i>Keramat, Sacred Relics and Forbidden Idols in Singapore</i> (2024), published by Routledge as part of their Contemporary Southeast Asia series. His book <i> Alfred Raquez</i>  and the <i> French Experience of the Far East, 1898–1906</i>  (2021) was published by Routledge as part of its Studies in the Modern History of Asia series. Gibson’s articles have appeared in <i> Signal to Noise</i> , PopMatters.com, <i> The Mekong Review</i> , <i> Archipel</i> , <i> History and Anthropology</i> , the <i> Bulletin de l’École française d’Extrême-Orient</i>  and <i> BiblioAsia</i> , among others. He is also behind a trilogy of hard-boiled crime novels set in 1890s Singapore, the Detective Hawksworth series, published by Monsoon Books.</div>
+
+#### **NOTES**
+      
+
+\[1\] _Keramat_ marked with an asterisk (\*) are discussed only briefly here. For more information about these shrines, see my book William L. Gibson, [_Keramat, Sacred Relics and Forbidden Idols in Singapore_](hhttps://eservice.nlb.gov.sg/redir/itemdetails?bid=300071320) (Abingdon, Oxon: Routledge, 2024) (From National Library Singapore, call no. RSING 363.69095957 GIB)
+
+\[1\] While I use the modern _keramat_, the older, more colloquial transliteration _kramat_ is retained in quoted sources.
+
+\[1\] “A Note on the Word Kramat,” in Walter William Skeat, [Malay Magic: Being an Introduction to the Folklore and Popular Religion of the Malay Peninsula](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300071320) (Kuala Lumpur: Academe Art &amp; Printing Services, 2005), 673–74. (From National Library Singapore, call no. RSEA 398.4 SKE)
+
+\[1\] Muhammad Ghouse Khan Surattee, [_The Grand Saint of Singapore, The Life of Habib Nuh bin Muhammad Al-Habshi_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13045642) (Singapore: Masjid Firdaus, 2008) (From National Library Singapore, call no. RSING 297.4092 GRA). See also Teren Sevea, “Miracles and Madness: A ‘Prophet’ of Singapore Islam,” _Comparative Islamic Studies_ 14, nos. 1–2 (2018): 5–52. [https://doi.org/10.1558/cis.19152](https://doi.org/10.1558/cis.19152).
+
+\[1\] “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18660802-1.2.3),” _Singapore Free Press and Mercantile Advertiser_, 2 August 1866, 2; &nbsp;“[Criminal Session](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18661011-1.2.4),” _Singapore Free Press and Mercantile Advertiser_, 11 October 1866, 2. (From NewspaperSG)
+
+\[1\] “[Dumb Speak, Lame Walk When Singapore Healer Raises Hand](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaytribune19390702-1.2.15),” _Sunday Tribune_ (Singapore), 2 July 1939, 2. (From NewspaperSG)
+
+\[1\] “[Dumb Speak, Lame Walk When Singapore Healer Raises Hand](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaytribune19390702-1.2.15).”
+
+\[1\] Mohd Taib Osman, _[Malay Folk Beliefs: An Integration of Disparate Elements](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5391123)_ (Kuala Lumpur: Dewan Bahasa dan Pustaka, 1989), 126–7. (From National Library Singapore, call no. RSING 398.4109595 MOH)
+
+\[1\] Mohd Zain Mahmood, “A Study of Keramat Worship (With Special Reference to Singapore),” (BA honours, University of Malaya, 1959), 20.
+
+\[1\] Zainal Abidin Ahmad, “Dato’ Paroi, Were-Tiger,” _Journal of the Malayan Branch of the Royal Asiatic Society_ 3, no. 1 (93) (April 1925): 74–78. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+\[1\] A full discussion of the very fascinating _datuk kong_ phenomenon is beyond the scope of this study. For a relevant recent study, see Lee Yoke Fee and Chin Yee Mun, “Datuk Kong Worship and Chinese Religion in Malaysia: Reflections of Syncretism, Pragmatism and Inclusiveness,” in _[After Migration and Religious Affiliation: Religions, Chinese Identities and Transnational Networks](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200921582)_, ed. Tan Chee-Beng (Singapore: World Scientific Publishing, 2015), 157–63. (From National Library Singapore, call no. RSEA 200.89951 AFT)
+
+\[1\] See Jerome Lim, “A Pauper’s House Under the Jackfruit Tree?,” _The Long and Winding Road_, published 24 May 2010, [https://thelongnwindingroad.wordpress.com/2010/05/24/a-paupers-house-under-the-jackfruit-tree/amp/](https://thelongnwindingroad.wordpress.com/2010/05/24/a-paupers-house-under-the-jackfruit-tree/amp/).
+
+\[1\] S. Ramachandra, “[The Unusual Kramats of Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaystandard19540502-1.2.61),” _Sunday Standard_, 2 May 1954, 5. (From NewspaperSG)
+
+\[1\] R.O. Winstedt, “Karamat: Sacred Places and Persons in Malaya,” Journal of the Malayan Branch of the Royal Asiatic Society 2, no. 3 (December 1924), 264–79 (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website); “A Malay Keramat,” [_The Straits Times Annual_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4181897) (1957): 66–7. (From National Library Singapore, call no. RCLOS 959.5 STR). _Berhala_ is the Malay word for “idol”.
+
+\[1\] “[Fishermen Say This Kramat Brings Them Good Luck](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19600829-1.2.103),” _Singapore Free Press_, 29 August 1960, 8. (From NewspaperSG)
+
+\[1\] See the notes to the [_Singapore Street Directory and Guide_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4197799) (1954) (From National Library Singapore, call no. 959.57 SIN-\[GBH\]). It has long been speculated that Gibson-Hill wrote these notes; he definitely did so as drafts can be found in his correspondence, see National Library Singapore Gibson-Hill Collection, MS 508.092 GIB.
+
+\[1\] Monika Janowski, “Stones Alive!: An Exploration of the Relationship between Humans and Stone in Southeast Asia,” _Bijdragen Tot De Taal-, Land- En Volkenkunde_ 176, no. 1 (2020), 105–46. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+\[1\] William L. Gibson, “[Unraveling the Mystery of Ubin's German Girl Shrine](https://biblioasia.nlb.gov.sg/vol-17/issue-3/oct-dec-2021/ubinsgermangirlshrine/),” _BiblioAsia_ 17, no. 3 (2021). The physical changes of the site from a venerated natural object to a _datuk_ _keramat_ to the grave of a Javanese princess to a Taoist shrine dedicated to a local deity closely tracks the process examined by Cheu Hock Tong in his essential study “The Sinicization of Malay Keramat in Malaysia,” _Journal of the Malaysian Branch of the Royal Asiatic Society_ 71 no. 2 (275) (1998): 29–61. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+\[1\] Alan J. A. Elliott, _[Chinese Spirit-Medium Cults in Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205658726)_ (2020; repr., \[London\]: Published for Department of Anthropology, The London School of Economics and Political Science \[by Royal Anthropological Institute\], 1955), 113–16 (From National Library Singapore, call no. RCLOS 299.51095957 ELL). The Dato Machap _keramat_ in Malacca existed in the 19th century. (See C. Otto Blagden, “Notes on the Folklore and Popular Religion of the Malays,” _Journal of the Straits Branch of the Royal Asiatic Society_ (1896): 3–4 (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website). The Machap Estate, owned by Baba Neo Tek Jin, existed at least from 1888. (See Kurang Pareksaw, “[Letters To The Editor](https://eresources.nlb.gov.sg/newspapers/digitised/article/malaccawkchronicle18881208-1.2.8),” _Malacca Weekly Chronicle and Mercantile Advertiser_, 8 December 1888, 3 (From NewspaperSG). Tan Chee Beng points out that the Machap _keramat_ was a complex of several _keramat_ known collectively as “Dato Machap”; Kramat Ga'ong Sembilan appears to have been one of these. (See Tan Chee Beng, _[The Baba of Melaka: Culture and Identity of a Chinese Peranakan Community in Malaysia](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4829447)_ (Petaling Jaya, Selangor: Pelanduk Publications, 1988) 162 (From National Library Singapore, call no. RSEA 305.89510595118 TAN), and “[Page 7 Advertisements Column 2: Notice](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19460905-1.2.92.2),” _Straits Times_, 5 September 1946, 7. (From NewspaperSG). The Dato Machap shrine in Singapore was erected in 1941 and located in a private home at 106 Lorong J Telok Kurau. (See “[Birthday of Local Saint](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19460904-1.2.33),” _Straits Times_, 4 September 1946, 3. (From NewspaperSG))
+
+\[1\] Gwee Thian Hick, W. “Baba and Nyonya Mediums,” _[The Peranakan](https://eservice.nlb.gov.sg/redir/itemdetails?bid=cf470d22-2dde-4053-b3f1-88ff88538a0d:oaipm)_, January–March 2009, 32 (From National Library Online). “Semilan” is Baba Chinese orthography for the Malay _sembilan_, or the numeral 9.
+
+\[1\] Ng Siew Hua, “The Sam Poh Neo Neo Keramat: A Study of a Baba Chinese Temple,” in _Contributions to Southeast Asian Ethnography_ 2 (1983): 98–131.
+
+\[1\] P. J. Rivers, “Keramat in Singapore in the Mid-Twentieth Century_,” Journal of the Malaysian Branch of the Royal Asiatic Society_ 76, no. 2 (285) (2003): 115, 117. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+\[1\] “[The Free Press](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18450220-1.2.12),” _Singapore Free Press and Mercantile Advertiser_, 20 February 1845, 3. (From NewspaperSG)
+
+\[1\] “[The Free Press](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18450220-1.2.12).”
+
+\[1\] “[The Free Press](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18450220-1.2.12).”&nbsp; &nbsp;
+
+\[1\] Torsten Tschacher, “From Local Practice to Transnational Network – Saints, Shrines and Sufis among Tamil Muslims in Singapore,” _Asian Journal of Social Science_ 3, no. 2 (2006): 228.
+
+\[1\] Rivers, “Keramat in Singapore in the Mid-Twentieth Century,” 108, 115.
+
+\[1\] John Turnbull Thomson, _[Singapore Island](file:///C:/Users/nlspcz/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/GC627G91/,%20%20https:/www.nlb.gov.sg/main/book-detail%3fcmsuuid=16447179-827b-4bc5-8053-61e5fff9f03e)_, 20 December 1844, map. (From National Library Online)&nbsp;
+
+\[1\] S. Ramachandra, S. “[S’pore Abounds with Kramats](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaystandard19551009-1.2.84),” _Sunday Standard_, 9 October 1955, 9. (From NewspaperSG)
+
+\[1\] Tschacher, “From Local Practice to Transnational Network,” 238.
+
+\[1\] “[Hindu Worshippers at a Mohamedan Shrine](https://eresources.nlb.gov.sg/newspapers/digitised/article/malayansatpost19280512-1.2.40),” _Malayan Saturday Post_, 12 May 1928, 23. (From NewspaperSG)
+
+\[1\] Yahya, “[Singapore’s Keramats](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19390611-1.2.119),” _Straits Times_, 11 June 1939, 16. (From NewspaperSG)
+
+\[1\] Richard M. Eaton, _The Rise of Islam and the Bengal Frontier, 1204–1760_ (Berkeley: University of California Press: 1993), 256.
+
+\[1\] Google Street Views show that there was no grave or other shrine here prior to 2015.
+
+\[1\] Thank you to Hikari D. Azuyre and the Urban Explorers of Singapore.
+
+\[1\] S. Siddique, [_Persidangan Antarabangsa Pengajian Melayu Mengenai Bahasa Kesusasteraan Dan Kebudayaan Melayu_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11366329) \[Report on a preliminary survey of keramat graves in Singapore\] (Kuala Lumpur: Unit Mikrofilem Universiti Malaya, 1979). (From National Library Singapore, call no. RCLOS 499.28 PER-\[LYF\])
+
+\[1\] Kevin Y. L. Tan, ed., _[Space of the Dead: A Case from the Living](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13950617)_ (Singapore: Ethos Books, 2011), 216–19. (From National Library Singapore, call no. RSING 363.75095957 SPA)
+
+\[1\] “[Singaporeana](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19510714-1.2.95),” _Straits Times_, 14 July 1951, 6. (From NewspaperSG)
+
+\[1\] The phenomenon can be found throughout Nusantara, with examples in peninsular Malaysia, Sumatra, the Riau islands, and Java. See, for example, J.N. Miksic, “From Seri Vijaya to Melaka: Batu Tagak in Historical and Cultural Context,” Journal of the Malaysian Branch of the Royal Asiatic Society 60, no. 2 (1987): 1–42. (From JSTOR via NLB’s eResources website)
+
+\[1\] Miksic, “From Seri Vijaya to Melaka,” 30. See also Othman Mohamed Yatim, Batu Aceh: Early Islamic Gravestones in Peninsular Malaysia (2006, repr., Kuala Lumpur: Museum Association of Malaysia, 1988), 126–28.
+
+\[1\] Quoted in Ronald Braddell, “Lung-ya-men and Tan-ma-shi,” reprinted in Kwa Chong Guan and Peter Borschberg, eds., [_Studying Singapore Before 1800_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203074612) (Singapore: NUS Press, 2018), 29. (From National Library Singapore, call no. RSING 959.57 STU-\[HIS\])
+
+\[1\] L.N. Hull to W. Montgomerie, 10 February 1823, &nbsp;[Raffles: Letters to Singapore (Farquhar)](https://www.nas.gov.sg/archivesonline/private_records/record-details/5333d2e3-d0a7-11ea-9f50-001a4a5ba61b), 135. (From National Archives of Singapore)
+
+\[1\] “[Why Shrine Must be Moved – Lee Explains to the Sikhs](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19651103-1.2.171),” _Straits Times_, 3 November 1965, 24. (From NewspaperSG)
+
+\[1\] For a discussion, see Nurzafirah binte Azahari, “Exploring Sacred Geographies of Singapore's Keramats: Views from Above and Below,” (diss., National University of Singapore, 2012/2013)
+
+\[1\] Quoted from a notice posted at Keramat Radin Mas in 2019. Emphasis in original.
