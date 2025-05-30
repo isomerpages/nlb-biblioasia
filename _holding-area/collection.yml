@@ -2,6 +2,7 @@ collections:
   holding-area:
     output: true
     order:
+      - Director's Note.md
       - "New Experiences and Discoveries: The Libraries and Archives of
         Tomorrow.md"
       - Sample article.md
