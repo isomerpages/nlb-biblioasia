@@ -42,8 +42,8 @@ The legal deposit function in Singapore can be traced back to an 1835 law enacte
 The scope of legal deposit in Singapore expanded to digital materials and web archiving in 2018. *Samantha Chen*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_BadangtheStrongman2-.pdf)
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/barbara-kerr-sharpshooter-school-principal-girl-guide/">Barbara Kerr: Sharpshooter, School Principal, Girl Guide Extraordinaire	</a><br>
-Barbara Kerr made contributions to the Girl Guides, sports and animal welfare. She was also a talented soprano. *Nick Aplin*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_BarbaraKerr.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/barbara-kerr-sharpshooter-school-principal-girl-guide/">Remembering the Part-Time Libraries	</a><br>
+Part-time branch libraries served residents living in suburban Singapore before fulltime public libraries were built. *Nick Aplin*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_BarbaraKerr-.pdf)
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/new-books-on-singapore-history/">New Books on Singapore History</a><br>
