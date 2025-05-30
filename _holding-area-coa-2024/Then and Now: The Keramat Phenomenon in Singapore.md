@@ -17,6 +17,9 @@ Each *kerama*t is unique, yet different ethnic groups may have varying perspecti
 
 However, some *keramat* have maintained relatively stable identities over the decades. It is perhaps not a coincidence that most of these tend to be the *keramat* that still exist, for instance, Habib Nuh*, Iskandar Shah, Radin Mas* and Tok Lasam*.
 
+<img src="/images/COA%202024/Keramat/01.jpg" style="width:100%;">
+ <div style="background-color: white;">The graves of Tok Lassam and his wife Nyai in Siglap, 2021. <i> Courtesy of William Gibson.</i></div>
+
 While the *keramat* tradition is rooted in the Islamic culture of the region, the relationship between *keramat* and Islam is complex. Some modern Muslims are regular devotees at *keramat*, while others consider them to be idolatrous. The belief of most Muslims I spoke with falls somewhere between these two polarities. 
 
 In the simplest sense, *keramat* are grounded in a localised version of Islam that incorporates Sufi practices from the Hadhramout (a region in Yemen) filtered through South Asia. Some *keramat* demonstrate a syncretic blend of Taoist, Hindu and local animistic practices. There is also a tradition of Baba Chinese *keramat* that invoke spirits with Muslim/Malay names and iconography.
