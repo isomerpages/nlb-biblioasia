@@ -155,6 +155,9 @@ Their best chance of survival lies in their role as a heritage objects, as exemp
 
 Yet, the *keramat* remains an active shrine, a characteristic that sets it at odds with the official rhetoric of both MUIS and the state-led heritage industry, which seeks to preserve it as a historic point of interest. This paradoxical fate is worth remembering as discussion of preserving other *keramat* as heritage sites gains traction.
 
+<img src="/images/COA%202024/Keramat/05.jpg" style="width:50%;">
+ <div style="background-color: white;">Flowers arranged on the <i>makam</i> of Iskandar Shah at Fort Canning Park, 2023. <i> Courtesy of William Gibson.</i></div>
+
 #### **Conclusion**
 
 The *keramat* of Singapore now face a second vanishing as memories of them fade. The studies that have appeared over the decades were often recorded in ephemeral media such as newspapers, unpublished fieldnotes or dissertations, academic exercises or conference proceedings, with only a few published journal articles or book chapters. My in-depth study of *keramat* provides a foundation for further research into the phenomenon for academic studies and urban planning policy. However, the study of social use of *keramat* across Singapore and the region, addressing questions such as the patterns of use and exclusivity of devotees from various ethno-social groups, are beyond the scope of this study.
