@@ -23,8 +23,8 @@ Established in 1995, the National Library Board was conceived as one of many lev
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/liu-kang-collection/">Kung Tian Cheng, First Clerk of Raffles Library</a><br>
 In the late 19th century, Kung Tian Cheng helped compile a complete catalogue of the Raffles Library, before going to China to work for President Yuan Shikai. *Bonny Tan*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_LiuKangCollections-.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/sing-singapore-national-day-songs/">The Search for Home, Truly (and Other National Day Songs)</a><br>
-The effort to find songs that express a national identity goes back to the 1970s. *Bernard T.G. Tan*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_SingSingapore.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/sing-singapore-national-day-songs/">Lady in Red: The Former National Library on Stamford Road</a><br>
+Beyond being a mere repository of books, the library on Stamford Road was a place for acquiring knowledge, making memories and creating friendships. *Lim Tin Seng*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_SingSingapore-.pdf)
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/deaf-education-singapore-sign-language/">Signs of Progress: Deaf Education in Singapore</a><br>
