@@ -18,9 +18,6 @@ Libraries and archives are repositories of knowledge, information and cultural h
 
 The starting point for thinking about the libraries and archives of the future is the idea that we need to go beyond transactions. Our spaces will increasingly be about experiences. This brings us to the question: why would someone choose to visit a library?&nbsp;
 
-![](/images/Vol%2021%20Issue%202/Libraries%20of%20Tomorrow/tomorrow_comics.jpg)
-<div style="background-color: white;">Nodes provide reading and learning experiences beyond the physical libraries. Shown here is the Comics &amp; Games Library at Punggol Coast Mall developed in partnership with JTC and local board games company Origame. The pop-up library features a collection of more than 7,000 comics, game-themed reads, graphic novels and board games. <i>Collection of the National Library Board.</i></div>
-
 Compare this with the retail industry: you can buy most things through e-commerce and have them delivered to your home. Why would anyone go to a retail store? Libraries are not dissimilar; after all, you can now get library books delivered to your home or to reservation lockers. You can even access eBooks from your phone. Therefore, the library needs to offer you something more than books.&nbsp;
 
 In 2024, the total visitorship at the National Library, public libraries, National Archives and the Former Ford Factory was 19.8 million. This is a healthy number but it is not something to take for granted. To maintain and grow this number, we have to figure out how our spaces can create experiences that add value to our patrons.&nbsp;
@@ -47,9 +44,6 @@ That depends on how you structure your algorithm. Commercial operators may choos
 
 We do have to think carefully about how we can provide browsing as a service in the digital space. People are so used to social media feeds. Can a digital library look like a social media feed? Can a digital library’s interface appear almost infinite in the same? How and what can we learn from social media algorithms – what lessons can we take from them?
 
-![](/images/Vol%2021%20Issue%202/Libraries%20of%20Tomorrow/tomorrow_browse.jpg)
-<div style="background-color: white;"> “Browse-n-Borrow” at West Mall where patrons can explore, flip through and borrow books from a diverse collection of up to 750 titles that are regularly refreshed. <i>Collection of the National Library Board.</i></div>
-
 **Do you think it’s possible for NLB to compete with social media for attention? Do we have the capabilities to match the experience of, for instance, TikTok?**
 
 We aren’t directly competing with social media. We may learn from and emulate their interfaces but the content we offer is different: we are reputable, substantial and of guaranteed quality. In fact, NLB is uniquely placed to offer this content because we’re a combined institution: we not only have the public libraries but also the National Library and the National Archives.&nbsp;
@@ -62,10 +56,10 @@ More importantly, we are not competing with social media to achieve the same aim
 
 I believe that we need to meet our patrons where they are if we want to make our collections, programmes, services and the resources we offer a seamless part of their lives. There is, at present, a very clear line between “library spaces” and “non-library spaces”, but the libraries of the future ought to blur that line. One way that NLB has tried to do this is with Nodes, which bring library services into spaces that are not traditionally “library spaces”, like offices, cafés and even public transport.[^2] Beyond that, I think we can also blur these lines within our libraries.
 
-This could involve co-locating with other services or businesses. A natural partner would be cafés, since there is already a strong association between books and coffee. Many of our libraries already have cafés, but there is a clear delineation between the café space and the library space: we can’t bring food and drinks from the café into the library, forcing an arbitrary interruption of what could have been a seamless experience of reading over a cup of coffee.&nbsp;
+![](/images/Vol%2021%20Issue%202/Libraries%20of%20Tomorrow/tomorrow_comics.jpg)
+<div style="background-color: white;">Nodes provide reading and learning experiences beyond the physical libraries. Shown here is the Comics &amp; Games Library at Punggol Coast Mall developed in partnership with JTC and local board games company Origame. The pop-up library features a collection of more than 7,000 comics, game-themed reads, graphic novels and board games. <i>Collection of the National Library Board.</i></div>
 
-![](/images/Vol%2021%20Issue%202/Libraries%20of%20Tomorrow/tomorrow_fortytwo.jpg)
-<div style="background-color: white;">As part of community takeover, the National Library Board partnered with homegrown furniture brands to reimagine reading spaces and offer library patrons a new reading experience. Pictured here is the Jurong West Public Library in partnership with FortyTwo. <i>Collection of the National Library Board.</i></div>
+This could involve co-locating with other services or businesses. A natural partner would be cafés, since there is already a strong association between books and coffee. Many of our libraries already have cafés, but there is a clear delineation between the café space and the library space: we can’t bring food and drinks from the café into the library, forcing an arbitrary interruption of what could have been a seamless experience of reading over a cup of coffee.&nbsp;
 
 One day we should have a library where the café is not sequestered in one corner but instead occupies a central space in the library, with the ability to serve food and drinks throughout the library space.&nbsp;
 
@@ -88,10 +82,10 @@ The profile of our seniors is also changing rapidly. Singapore went through a hu
 
 We are also committed to making our spaces accessible to persons with disabilities. While Singapore has become increasingly inclusive, there are still too few public spaces designed for persons with disabilities – that not only accommodate them but make it possible for them to participate in the same way as any other user, and are built with their needs and desires in mind.
 
+We tried to do so when we built Punggol Regional Library and learnt much from serving persons with disabilities. We now need to extend this approach to all our libraries going forward.[^4] It is important that anyone who wants to use the library can do so. It’s not just a numbers game for us: every patron matters, every segment of the population matters, and that includes persons with disabilities.
+
 ![](/images/Vol%2021%20Issue%202/Libraries%20of%20Tomorrow/tomorrow_lv1.jpg)
 <div style="background-color: white;">“Borrow-n-Go” on Level 1 of the Punggol Regional Library enables persons with disabilities to borrow books more easily. It is designed as a portal to provide users with a smoother borrowing experience and features a screen positioned at an accessible height for wheelchair users. <i>Collection of the National Library Board.</i></div>
-
-We tried to do so when we built Punggol Regional Library and learnt much from serving persons with disabilities. We now need to extend this approach to all our libraries going forward.[^4] It is important that anyone who wants to use the library can do so. It’s not just a numbers game for us: every patron matters, every segment of the population matters, and that includes persons with disabilities.
 
 **Society can feel increasingly atomised and isolating with the changes brought about by technology and other social forces. What can NLB do to combat this?**
 
@@ -99,9 +93,15 @@ Community building is an important part of the work of the library, both now and
 
 Under LAB25 (“Libraries and Archives Blueprint 2025”), we have tested this idea with corporate partnerships. One example is the collaboration with local furniture stores where they deployed their furniture in our libraries, making our libraries feel more homely. In turn, they benefited from having a wider exposure of their furniture to the public. Such partnerships have the potential to shift the public perception of libraries – our patrons saw us as more welcoming and as a space with possibilities beyond what they’d expect of a traditional library. It helped them see the library as a place where you can do unexpected things.
 
+![](/images/Vol%2021%20Issue%202/Libraries%20of%20Tomorrow/tomorrow_fortytwo.jpg)
+<div style="background-color: white;">As part of community takeover, the National Library Board partnered with homegrown furniture brands to reimagine reading spaces and offer library patrons a new reading experience. Pictured here is the Jurong West Public Library in partnership with FortyTwo. <i>Collection of the National Library Board.</i></div>
+
 **What can we do when many of the things that keep people from the library – for instance, long working hours, or a lack of leisure time – are obstacles that are beyond our control?**
 
 We focus on addressing what is within our control. For instance, working adults may not have as much time to come and enjoy our spaces. We can’t do anything about their working hours, but we can make it easier for them to use our resources by offering delivery and reservation services, or by expanding our collection of eResources. We can make our libraries enticing to visit in their limited free time so that they choose to come to us when they _do_ have time to spare.
+
+![](/images/Vol%2021%20Issue%202/Libraries%20of%20Tomorrow/tomorrow_browse.jpg)
+<div style="background-color: white;"> “Browse-n-Borrow” at West Mall where patrons can explore, flip through and borrow books from a diverse collection of up to 750 titles that are regularly refreshed. <i>Collection of the National Library Board.</i></div>
 
 **With all the changes that libraries and archives will face, what do you think is the core value that they will continue to carry into the future?**
 
