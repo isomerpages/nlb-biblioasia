@@ -172,25 +172,25 @@ The *keramat* of Singapore now face a second vanishing as memories of them fade.
 #### **NOTES**
       
 
-\[1\] _Keramat_ marked with an asterisk (\*) are discussed only briefly here. For more information about these shrines, see my book William L. Gibson, [_Keramat, Sacred Relics and Forbidden Idols in Singapore_](hhttps://eservice.nlb.gov.sg/redir/itemdetails?bid=300071320) (Abingdon, Oxon: Routledge, 2024) (From National Library Singapore, call no. RSING 363.69095957 GIB)
+[^1]: _Keramat_ marked with an asterisk (\*) are discussed only briefly here. For more information about these shrines, see my book William L. Gibson, [_Keramat, Sacred Relics and Forbidden Idols in Singapore_](hhttps://eservice.nlb.gov.sg/redir/itemdetails?bid=300071320) (Abingdon, Oxon: Routledge, 2024) (From National Library Singapore, call no. RSING 363.69095957 GIB)
 
-\[1\] While I use the modern _keramat_, the older, more colloquial transliteration _kramat_ is retained in quoted sources.
+[^2]: While I use the modern _keramat_, the older, more colloquial transliteration _kramat_ is retained in quoted sources.
 
-\[1\] “A Note on the Word Kramat,” in Walter William Skeat, [Malay Magic: Being an Introduction to the Folklore and Popular Religion of the Malay Peninsula](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300071320) (Kuala Lumpur: Academe Art &amp; Printing Services, 2005), 673–74. (From National Library Singapore, call no. RSEA 398.4 SKE)
+[^3]: “A Note on the Word Kramat,” in Walter William Skeat, [Malay Magic: Being an Introduction to the Folklore and Popular Religion of the Malay Peninsula](https://eservice.nlb.gov.sg/redir/itemdetails?bid=300071320) (Kuala Lumpur: Academe Art &amp; Printing Services, 2005), 673–74. (From National Library Singapore, call no. RSEA 398.4 SKE)
 
-\[1\] Muhammad Ghouse Khan Surattee, [_The Grand Saint of Singapore, The Life of Habib Nuh bin Muhammad Al-Habshi_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13045642) (Singapore: Masjid Firdaus, 2008) (From National Library Singapore, call no. RSING 297.4092 GRA). See also Teren Sevea, “Miracles and Madness: A ‘Prophet’ of Singapore Islam,” _Comparative Islamic Studies_ 14, nos. 1–2 (2018): 5–52. [https://doi.org/10.1558/cis.19152](https://doi.org/10.1558/cis.19152).
+[^4]: Muhammad Ghouse Khan Surattee, [_The Grand Saint of Singapore, The Life of Habib Nuh bin Muhammad Al-Habshi_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13045642) (Singapore: Masjid Firdaus, 2008) (From National Library Singapore, call no. RSING 297.4092 GRA). See also Teren Sevea, “Miracles and Madness: A ‘Prophet’ of Singapore Islam,” _Comparative Islamic Studies_ 14, nos. 1–2 (2018): 5–52. [https://doi.org/10.1558/cis.19152](https://doi.org/10.1558/cis.19152).
 
-\[1\] “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18660802-1.2.3),” _Singapore Free Press and Mercantile Advertiser_, 2 August 1866, 2; &nbsp;“[Criminal Session](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18661011-1.2.4),” _Singapore Free Press and Mercantile Advertiser_, 11 October 1866, 2. (From NewspaperSG)
+[^5]: “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18660802-1.2.3),” _Singapore Free Press and Mercantile Advertiser_, 2 August 1866, 2; &nbsp;“[Criminal Session](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18661011-1.2.4),” _Singapore Free Press and Mercantile Advertiser_, 11 October 1866, 2. (From NewspaperSG)
 
-\[1\] “[Dumb Speak, Lame Walk When Singapore Healer Raises Hand](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaytribune19390702-1.2.15),” _Sunday Tribune_ (Singapore), 2 July 1939, 2. (From NewspaperSG)
+[^6]: “[Dumb Speak, Lame Walk When Singapore Healer Raises Hand](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaytribune19390702-1.2.15),” _Sunday Tribune_ (Singapore), 2 July 1939, 2. (From NewspaperSG)
 
-\[1\] “[Dumb Speak, Lame Walk When Singapore Healer Raises Hand](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaytribune19390702-1.2.15).”
+[^7]: “[Dumb Speak, Lame Walk When Singapore Healer Raises Hand](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaytribune19390702-1.2.15).”
 
-\[1\] Mohd Taib Osman, _[Malay Folk Beliefs: An Integration of Disparate Elements](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5391123)_ (Kuala Lumpur: Dewan Bahasa dan Pustaka, 1989), 126–7. (From National Library Singapore, call no. RSING 398.4109595 MOH)
+[^8]: Mohd Taib Osman, _[Malay Folk Beliefs: An Integration of Disparate Elements](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5391123)_ (Kuala Lumpur: Dewan Bahasa dan Pustaka, 1989), 126–7. (From National Library Singapore, call no. RSING 398.4109595 MOH)
 
-\[1\] Mohd Zain Mahmood, “A Study of Keramat Worship (With Special Reference to Singapore),” (BA honours, University of Malaya, 1959), 20.
+[^9]: Mohd Zain Mahmood, “A Study of Keramat Worship (With Special Reference to Singapore),” (BA honours, University of Malaya, 1959), 20.
 
-\[1\] Zainal Abidin Ahmad, “Dato’ Paroi, Were-Tiger,” _Journal of the Malayan Branch of the Royal Asiatic Society_ 3, no. 1 (93) (April 1925): 74–78. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^10]: Zainal Abidin Ahmad, “Dato’ Paroi, Were-Tiger,” _Journal of the Malayan Branch of the Royal Asiatic Society_ 3, no. 1 (93) (April 1925): 74–78. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
 \[1\] A full discussion of the very fascinating _datuk kong_ phenomenon is beyond the scope of this study. For a relevant recent study, see Lee Yoke Fee and Chin Yee Mun, “Datuk Kong Worship and Chinese Religion in Malaysia: Reflections of Syncretism, Pragmatism and Inclusiveness,” in _[After Migration and Religious Affiliation: Religions, Chinese Identities and Transnational Networks](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200921582)_, ed. Tan Chee-Beng (Singapore: World Scientific Publishing, 2015), 157–63. (From National Library Singapore, call no. RSEA 200.89951 AFT)
 
