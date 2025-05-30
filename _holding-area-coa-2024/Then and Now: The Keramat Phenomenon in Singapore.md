@@ -192,72 +192,72 @@ The *keramat* of Singapore now face a second vanishing as memories of them fade.
 
 [^10]: Zainal Abidin Ahmad, “Dato’ Paroi, Were-Tiger,” _Journal of the Malayan Branch of the Royal Asiatic Society_ 3, no. 1 (93) (April 1925): 74–78. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-\[1\] A full discussion of the very fascinating _datuk kong_ phenomenon is beyond the scope of this study. For a relevant recent study, see Lee Yoke Fee and Chin Yee Mun, “Datuk Kong Worship and Chinese Religion in Malaysia: Reflections of Syncretism, Pragmatism and Inclusiveness,” in _[After Migration and Religious Affiliation: Religions, Chinese Identities and Transnational Networks](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200921582)_, ed. Tan Chee-Beng (Singapore: World Scientific Publishing, 2015), 157–63. (From National Library Singapore, call no. RSEA 200.89951 AFT)
+[^11]: A full discussion of the very fascinating _datuk kong_ phenomenon is beyond the scope of this study. For a relevant recent study, see Lee Yoke Fee and Chin Yee Mun, “Datuk Kong Worship and Chinese Religion in Malaysia: Reflections of Syncretism, Pragmatism and Inclusiveness,” in _[After Migration and Religious Affiliation: Religions, Chinese Identities and Transnational Networks](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200921582)_, ed. Tan Chee-Beng (Singapore: World Scientific Publishing, 2015), 157–63. (From National Library Singapore, call no. RSEA 200.89951 AFT)
 
-\[1\] See Jerome Lim, “A Pauper’s House Under the Jackfruit Tree?,” _The Long and Winding Road_, published 24 May 2010, [https://thelongnwindingroad.wordpress.com/2010/05/24/a-paupers-house-under-the-jackfruit-tree/amp/](https://thelongnwindingroad.wordpress.com/2010/05/24/a-paupers-house-under-the-jackfruit-tree/amp/).
+[^12]: See Jerome Lim, “A Pauper’s House Under the Jackfruit Tree?,” _The Long and Winding Road_, published 24 May 2010, [https://thelongnwindingroad.wordpress.com/2010/05/24/a-paupers-house-under-the-jackfruit-tree/amp/](https://thelongnwindingroad.wordpress.com/2010/05/24/a-paupers-house-under-the-jackfruit-tree/amp/).
 
-\[1\] S. Ramachandra, “[The Unusual Kramats of Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaystandard19540502-1.2.61),” _Sunday Standard_, 2 May 1954, 5. (From NewspaperSG)
+[^13]: S. Ramachandra, “[The Unusual Kramats of Singapore](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaystandard19540502-1.2.61),” _Sunday Standard_, 2 May 1954, 5. (From NewspaperSG)
 
-\[1\] R.O. Winstedt, “Karamat: Sacred Places and Persons in Malaya,” Journal of the Malayan Branch of the Royal Asiatic Society 2, no. 3 (December 1924), 264–79 (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website); “A Malay Keramat,” [_The Straits Times Annual_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4181897) (1957): 66–7. (From National Library Singapore, call no. RCLOS 959.5 STR). _Berhala_ is the Malay word for “idol”.
+[^14]: R.O. Winstedt, “Karamat: Sacred Places and Persons in Malaya,” Journal of the Malayan Branch of the Royal Asiatic Society 2, no. 3 (December 1924), 264–79 (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website); “A Malay Keramat,” [_The Straits Times Annual_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4181897) (1957): 66–7. (From National Library Singapore, call no. RCLOS 959.5 STR). _Berhala_ is the Malay word for “idol”.
 
-\[1\] “[Fishermen Say This Kramat Brings Them Good Luck](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19600829-1.2.103),” _Singapore Free Press_, 29 August 1960, 8. (From NewspaperSG)
+[^15]: “[Fishermen Say This Kramat Brings Them Good Luck](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19600829-1.2.103),” _Singapore Free Press_, 29 August 1960, 8. (From NewspaperSG)
 
-\[1\] See the notes to the [_Singapore Street Directory and Guide_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4197799) (1954) (From National Library Singapore, call no. 959.57 SIN-\[GBH\]). It has long been speculated that Gibson-Hill wrote these notes; he definitely did so as drafts can be found in his correspondence, see National Library Singapore Gibson-Hill Collection, MS 508.092 GIB.
+[^16]: See the notes to the [_Singapore Street Directory and Guide_](https://eservice.nlb.gov.sg/item_holding.aspx?bid=4197799) (1954) (From National Library Singapore, call no. 959.57 SIN-\[GBH\]). It has long been speculated that Gibson-Hill wrote these notes; he definitely did so as drafts can be found in his correspondence, see National Library Singapore Gibson-Hill Collection, MS 508.092 GIB.
 
-\[1\] Monika Janowski, “Stones Alive!: An Exploration of the Relationship between Humans and Stone in Southeast Asia,” _Bijdragen Tot De Taal-, Land- En Volkenkunde_ 176, no. 1 (2020), 105–46. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^17]: Monika Janowski, “Stones Alive!: An Exploration of the Relationship between Humans and Stone in Southeast Asia,” _Bijdragen Tot De Taal-, Land- En Volkenkunde_ 176, no. 1 (2020), 105–46. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-\[1\] William L. Gibson, “[Unraveling the Mystery of Ubin's German Girl Shrine](https://biblioasia.nlb.gov.sg/vol-17/issue-3/oct-dec-2021/ubinsgermangirlshrine/),” _BiblioAsia_ 17, no. 3 (2021). The physical changes of the site from a venerated natural object to a _datuk_ _keramat_ to the grave of a Javanese princess to a Taoist shrine dedicated to a local deity closely tracks the process examined by Cheu Hock Tong in his essential study “The Sinicization of Malay Keramat in Malaysia,” _Journal of the Malaysian Branch of the Royal Asiatic Society_ 71 no. 2 (275) (1998): 29–61. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^18]: William L. Gibson, “[Unraveling the Mystery of Ubin's German Girl Shrine](https://biblioasia.nlb.gov.sg/vol-17/issue-3/oct-dec-2021/ubinsgermangirlshrine/),” _BiblioAsia_ 17, no. 3 (2021). The physical changes of the site from a venerated natural object to a _datuk_ _keramat_ to the grave of a Javanese princess to a Taoist shrine dedicated to a local deity closely tracks the process examined by Cheu Hock Tong in his essential study “The Sinicization of Malay Keramat in Malaysia,” _Journal of the Malaysian Branch of the Royal Asiatic Society_ 71 no. 2 (275) (1998): 29–61. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-\[1\] Alan J. A. Elliott, _[Chinese Spirit-Medium Cults in Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205658726)_ (2020; repr., \[London\]: Published for Department of Anthropology, The London School of Economics and Political Science \[by Royal Anthropological Institute\], 1955), 113–16 (From National Library Singapore, call no. RCLOS 299.51095957 ELL). The Dato Machap _keramat_ in Malacca existed in the 19th century. (See C. Otto Blagden, “Notes on the Folklore and Popular Religion of the Malays,” _Journal of the Straits Branch of the Royal Asiatic Society_ (1896): 3–4 (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website). The Machap Estate, owned by Baba Neo Tek Jin, existed at least from 1888. (See Kurang Pareksaw, “[Letters To The Editor](https://eresources.nlb.gov.sg/newspapers/digitised/article/malaccawkchronicle18881208-1.2.8),” _Malacca Weekly Chronicle and Mercantile Advertiser_, 8 December 1888, 3 (From NewspaperSG). Tan Chee Beng points out that the Machap _keramat_ was a complex of several _keramat_ known collectively as “Dato Machap”; Kramat Ga'ong Sembilan appears to have been one of these. (See Tan Chee Beng, _[The Baba of Melaka: Culture and Identity of a Chinese Peranakan Community in Malaysia](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4829447)_ (Petaling Jaya, Selangor: Pelanduk Publications, 1988) 162 (From National Library Singapore, call no. RSEA 305.89510595118 TAN), and “[Page 7 Advertisements Column 2: Notice](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19460905-1.2.92.2),” _Straits Times_, 5 September 1946, 7. (From NewspaperSG). The Dato Machap shrine in Singapore was erected in 1941 and located in a private home at 106 Lorong J Telok Kurau. (See “[Birthday of Local Saint](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19460904-1.2.33),” _Straits Times_, 4 September 1946, 3. (From NewspaperSG))
+[^19]: Alan J. A. Elliott, _[Chinese Spirit-Medium Cults in Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=205658726)_ (2020; repr., \[London\]: Published for Department of Anthropology, The London School of Economics and Political Science \[by Royal Anthropological Institute\], 1955), 113–16 (From National Library Singapore, call no. RCLOS 299.51095957 ELL). The Dato Machap _keramat_ in Malacca existed in the 19th century. (See C. Otto Blagden, “Notes on the Folklore and Popular Religion of the Malays,” _Journal of the Straits Branch of the Royal Asiatic Society_ (1896): 3–4 (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website). The Machap Estate, owned by Baba Neo Tek Jin, existed at least from 1888. (See Kurang Pareksaw, “[Letters To The Editor](https://eresources.nlb.gov.sg/newspapers/digitised/article/malaccawkchronicle18881208-1.2.8),” _Malacca Weekly Chronicle and Mercantile Advertiser_, 8 December 1888, 3 (From NewspaperSG). Tan Chee Beng points out that the Machap _keramat_ was a complex of several _keramat_ known collectively as “Dato Machap”; Kramat Ga'ong Sembilan appears to have been one of these. (See Tan Chee Beng, _[The Baba of Melaka: Culture and Identity of a Chinese Peranakan Community in Malaysia](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4829447)_ (Petaling Jaya, Selangor: Pelanduk Publications, 1988) 162 (From National Library Singapore, call no. RSEA 305.89510595118 TAN), and “[Page 7 Advertisements Column 2: Notice](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19460905-1.2.92.2),” _Straits Times_, 5 September 1946, 7. (From NewspaperSG). The Dato Machap shrine in Singapore was erected in 1941 and located in a private home at 106 Lorong J Telok Kurau. (See “[Birthday of Local Saint](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19460904-1.2.33),” _Straits Times_, 4 September 1946, 3. (From NewspaperSG))
 
-\[1\] Gwee Thian Hick, W. “Baba and Nyonya Mediums,” _[The Peranakan](https://eservice.nlb.gov.sg/redir/itemdetails?bid=cf470d22-2dde-4053-b3f1-88ff88538a0d:oaipm)_, January–March 2009, 32 (From National Library Online). “Semilan” is Baba Chinese orthography for the Malay _sembilan_, or the numeral 9.
+[^20]: Gwee Thian Hick, W. “Baba and Nyonya Mediums,” _[The Peranakan](https://eservice.nlb.gov.sg/redir/itemdetails?bid=cf470d22-2dde-4053-b3f1-88ff88538a0d:oaipm)_, January–March 2009, 32 (From National Library Online). “Semilan” is Baba Chinese orthography for the Malay _sembilan_, or the numeral 9.
 
-\[1\] Ng Siew Hua, “The Sam Poh Neo Neo Keramat: A Study of a Baba Chinese Temple,” in _Contributions to Southeast Asian Ethnography_ 2 (1983): 98–131.
+[^21]: Ng Siew Hua, “The Sam Poh Neo Neo Keramat: A Study of a Baba Chinese Temple,” in _Contributions to Southeast Asian Ethnography_ 2 (1983): 98–131.
 
-\[1\] P. J. Rivers, “Keramat in Singapore in the Mid-Twentieth Century_,” Journal of the Malaysian Branch of the Royal Asiatic Society_ 76, no. 2 (285) (2003): 115, 117. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^22]: P. J. Rivers, “Keramat in Singapore in the Mid-Twentieth Century_,” Journal of the Malaysian Branch of the Royal Asiatic Society_ 76, no. 2 (285) (2003): 115, 117. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-\[1\] “[The Free Press](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18450220-1.2.12),” _Singapore Free Press and Mercantile Advertiser_, 20 February 1845, 3. (From NewspaperSG)
+[^23]: “[The Free Press](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18450220-1.2.12),” _Singapore Free Press and Mercantile Advertiser_, 20 February 1845, 3. (From NewspaperSG)
 
-\[1\] “[The Free Press](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18450220-1.2.12).”
+[^24]: “[The Free Press](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18450220-1.2.12).”
 
-\[1\] “[The Free Press](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18450220-1.2.12).”&nbsp; &nbsp;
+[^25]: “[The Free Press](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressa18450220-1.2.12).”&nbsp; &nbsp;
 
-\[1\] Torsten Tschacher, “From Local Practice to Transnational Network – Saints, Shrines and Sufis among Tamil Muslims in Singapore,” _Asian Journal of Social Science_ 3, no. 2 (2006): 228.
+[^26]: Torsten Tschacher, “From Local Practice to Transnational Network – Saints, Shrines and Sufis among Tamil Muslims in Singapore,” _Asian Journal of Social Science_ 3, no. 2 (2006): 228.
 
-\[1\] Rivers, “Keramat in Singapore in the Mid-Twentieth Century,” 108, 115.
+[^27]: Rivers, “Keramat in Singapore in the Mid-Twentieth Century,” 108, 115.
 
-\[1\] John Turnbull Thomson, _[Singapore Island](file:///C:/Users/nlspcz/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/GC627G91/,%20%20https:/www.nlb.gov.sg/main/book-detail%3fcmsuuid=16447179-827b-4bc5-8053-61e5fff9f03e)_, 20 December 1844, map. (From National Library Online)&nbsp;
+[^28]: John Turnbull Thomson, _[Singapore Island](file:///C:/Users/nlspcz/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/GC627G91/,%20%20https:/www.nlb.gov.sg/main/book-detail%3fcmsuuid=16447179-827b-4bc5-8053-61e5fff9f03e)_, 20 December 1844, map. (From National Library Online)&nbsp;
 
-\[1\] S. Ramachandra, S. “[S’pore Abounds with Kramats](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaystandard19551009-1.2.84),” _Sunday Standard_, 9 October 1955, 9. (From NewspaperSG)
+[^29]: S. Ramachandra, S. “[S’pore Abounds with Kramats](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaystandard19551009-1.2.84),” _Sunday Standard_, 9 October 1955, 9. (From NewspaperSG)
 
-\[1\] Tschacher, “From Local Practice to Transnational Network,” 238.
+[^30]: Tschacher, “From Local Practice to Transnational Network,” 238.
 
-\[1\] “[Hindu Worshippers at a Mohamedan Shrine](https://eresources.nlb.gov.sg/newspapers/digitised/article/malayansatpost19280512-1.2.40),” _Malayan Saturday Post_, 12 May 1928, 23. (From NewspaperSG)
+[^31]: “[Hindu Worshippers at a Mohamedan Shrine](https://eresources.nlb.gov.sg/newspapers/digitised/article/malayansatpost19280512-1.2.40),” _Malayan Saturday Post_, 12 May 1928, 23. (From NewspaperSG)
 
-\[1\] Yahya, “[Singapore’s Keramats](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19390611-1.2.119),” _Straits Times_, 11 June 1939, 16. (From NewspaperSG)
+[^32]: Yahya, “[Singapore’s Keramats](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19390611-1.2.119),” _Straits Times_, 11 June 1939, 16. (From NewspaperSG)
 
-\[1\] Richard M. Eaton, _The Rise of Islam and the Bengal Frontier, 1204–1760_ (Berkeley: University of California Press: 1993), 256.
+[^33]: Richard M. Eaton, _The Rise of Islam and the Bengal Frontier, 1204–1760_ (Berkeley: University of California Press: 1993), 256.
 
-\[1\] Google Street Views show that there was no grave or other shrine here prior to 2015.
+[^34]: Google Street Views show that there was no grave or other shrine here prior to 2015.
 
-\[1\] Thank you to Hikari D. Azuyre and the Urban Explorers of Singapore.
+[^35]: Thank you to Hikari D. Azuyre and the Urban Explorers of Singapore.
 
-\[1\] S. Siddique, [_Persidangan Antarabangsa Pengajian Melayu Mengenai Bahasa Kesusasteraan Dan Kebudayaan Melayu_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11366329) \[Report on a preliminary survey of keramat graves in Singapore\] (Kuala Lumpur: Unit Mikrofilem Universiti Malaya, 1979). (From National Library Singapore, call no. RCLOS 499.28 PER-\[LYF\])
+[^36]: S. Siddique, [_Persidangan Antarabangsa Pengajian Melayu Mengenai Bahasa Kesusasteraan Dan Kebudayaan Melayu_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11366329) \[Report on a preliminary survey of keramat graves in Singapore\] (Kuala Lumpur: Unit Mikrofilem Universiti Malaya, 1979). (From National Library Singapore, call no. RCLOS 499.28 PER-\[LYF\])
 
-\[1\] Kevin Y. L. Tan, ed., _[Space of the Dead: A Case from the Living](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13950617)_ (Singapore: Ethos Books, 2011), 216–19. (From National Library Singapore, call no. RSING 363.75095957 SPA)
+[^37]: Kevin Y. L. Tan, ed., _[Space of the Dead: A Case from the Living](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13950617)_ (Singapore: Ethos Books, 2011), 216–19. (From National Library Singapore, call no. RSING 363.75095957 SPA)
 
-\[1\] “[Singaporeana](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19510714-1.2.95),” _Straits Times_, 14 July 1951, 6. (From NewspaperSG)
+[^38]: “[Singaporeana](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19510714-1.2.95),” _Straits Times_, 14 July 1951, 6. (From NewspaperSG)
 
-\[1\] The phenomenon can be found throughout Nusantara, with examples in peninsular Malaysia, Sumatra, the Riau islands, and Java. See, for example, J.N. Miksic, “From Seri Vijaya to Melaka: Batu Tagak in Historical and Cultural Context,” Journal of the Malaysian Branch of the Royal Asiatic Society 60, no. 2 (1987): 1–42. (From JSTOR via NLB’s eResources website)
+[^39]: The phenomenon can be found throughout Nusantara, with examples in peninsular Malaysia, Sumatra, the Riau islands, and Java. See, for example, J.N. Miksic, “From Seri Vijaya to Melaka: Batu Tagak in Historical and Cultural Context,” Journal of the Malaysian Branch of the Royal Asiatic Society 60, no. 2 (1987): 1–42. (From JSTOR via NLB’s eResources website)
 
-\[1\] Miksic, “From Seri Vijaya to Melaka,” 30. See also Othman Mohamed Yatim, Batu Aceh: Early Islamic Gravestones in Peninsular Malaysia (2006, repr., Kuala Lumpur: Museum Association of Malaysia, 1988), 126–28.
+[^40]: Miksic, “From Seri Vijaya to Melaka,” 30. See also Othman Mohamed Yatim, Batu Aceh: Early Islamic Gravestones in Peninsular Malaysia (2006, repr., Kuala Lumpur: Museum Association of Malaysia, 1988), 126–28.
 
-\[1\] Quoted in Ronald Braddell, “Lung-ya-men and Tan-ma-shi,” reprinted in Kwa Chong Guan and Peter Borschberg, eds., [_Studying Singapore Before 1800_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203074612) (Singapore: NUS Press, 2018), 29. (From National Library Singapore, call no. RSING 959.57 STU-\[HIS\])
+[^41]: Quoted in Ronald Braddell, “Lung-ya-men and Tan-ma-shi,” reprinted in Kwa Chong Guan and Peter Borschberg, eds., [_Studying Singapore Before 1800_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203074612) (Singapore: NUS Press, 2018), 29. (From National Library Singapore, call no. RSING 959.57 STU-\[HIS\])
 
-\[1\] L.N. Hull to W. Montgomerie, 10 February 1823, &nbsp;[Raffles: Letters to Singapore (Farquhar)](https://www.nas.gov.sg/archivesonline/private_records/record-details/5333d2e3-d0a7-11ea-9f50-001a4a5ba61b), 135. (From National Archives of Singapore)
+[^42]: L.N. Hull to W. Montgomerie, 10 February 1823, &nbsp;[Raffles: Letters to Singapore (Farquhar)](https://www.nas.gov.sg/archivesonline/private_records/record-details/5333d2e3-d0a7-11ea-9f50-001a4a5ba61b), 135. (From National Archives of Singapore)
 
-\[1\] “[Why Shrine Must be Moved – Lee Explains to the Sikhs](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19651103-1.2.171),” _Straits Times_, 3 November 1965, 24. (From NewspaperSG)
+[^43]: “[Why Shrine Must be Moved – Lee Explains to the Sikhs](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19651103-1.2.171),” _Straits Times_, 3 November 1965, 24. (From NewspaperSG)
 
-\[1\] For a discussion, see Nurzafirah binte Azahari, “Exploring Sacred Geographies of Singapore's Keramats: Views from Above and Below,” (diss., National University of Singapore, 2012/2013)
+[^44]: For a discussion, see Nurzafirah binte Azahari, “Exploring Sacred Geographies of Singapore's Keramats: Views from Above and Below,” (diss., National University of Singapore, 2012/2013)
 
-\[1\] Quoted from a notice posted at Keramat Radin Mas in 2019. Emphasis in original.
+[^45]: Quoted from a notice posted at Keramat Radin Mas in 2019. Emphasis in original.
