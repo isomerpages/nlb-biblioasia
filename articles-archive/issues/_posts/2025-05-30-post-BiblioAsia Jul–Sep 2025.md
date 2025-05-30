@@ -43,8 +43,8 @@ The scope of legal deposit in Singapore expanded to digital materials and web ar
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/barbara-kerr-sharpshooter-school-principal-girl-guide/">Remembering the Part-Time Libraries	</a><br>
-Part-time branch libraries served residents living in suburban Singapore before fulltime public libraries were built. *Nick Aplin*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_BarbaraKerr-.pdf)
+Part-time branch libraries served residents living in suburban Singapore before fulltime public libraries were built. *Goh Lee Kim*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_BarbaraKerr-.pdf)
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/new-books-on-singapore-history/">New Books on Singapore History</a><br>
-_Bali 1952: Through the Lens of Liu Kang; My Journey of Peace to Estonia, Latvia, Lithuania and Russia_ and _The Story of Southeast Asia_ are some of the new books available at the National Library. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_NewBooks.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/new-books-on-singapore-history/">Books on Wheels: Singapore’s Mobile Libraries</a><br>
+Between the 1960s and 1980s, libraries-on-wheels were a familiar sight as they travelled around Singapore bringing books to residents in rural and suburban areas. *Gracie Lee*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_NewBooks-.pdf)
