@@ -10,18 +10,18 @@ To celebrate this milestone, do allow us to depart from our regular lineup of fa
 
 
 
-We also look at the National Archives, which originally began life as a department in the library. Two fascinating stories – on the [sound and audiovisual records](https://staging-lite.d3lqsdaf68v737.amplifyapp.com/vol-21/issue-2/jul-sep-2025/audio-visual-national-archives-singapore/), as well as the photo collections of Studio De Luxe and Ronni Pinsler – give a flavour of the vast treasure trove that resides in the archives.
+We also look at the National Archives, which originally began life as a department in the library. Two fascinating stories – on the [sound and audiovisual records](https://staging-lite.d3lqsdaf68v737.amplifyapp.com/vol-21/issue-2/jul-sep-2025/audio-visual-national-archives-singapore/), as well as the photo collections of [Studio De Luxe and Ronni Pinsler](https://staging-lite.d3lqsdaf68v737.amplifyapp.com/vol-21/issue-2/jul-sep-2025/ps-teo-ronni-pinsler/) – give a flavour of the vast treasure trove that resides in the archives.
 
 
 
-This issue is not merely about the history of institutions though. It is also important to also remember the men and women whose contributions have left a mark. Kung Tian Cheng rose to become First Clerk at the Raffles Library in the early 20th century. He helped compile a catalogue of the library’s holdings and, after leaving the library, lived a colourful life. He went to China where he became a journalist and also joined the library of Republic of China President Yuan Shikai.
+This issue is not merely about the history of institutions though. It is also important to also remember the men and women whose contributions have left a mark. [Kung Tian Cheng](https://staging-lite.d3lqsdaf68v737.amplifyapp.com/vol-21/issue-2/jul-sep-2025/kung-tian-cheng-first-clerk-raffles-library/) rose to become First Clerk at the Raffles Library in the early 20th century. He helped compile a catalogue of the library’s holdings and, after leaving the library, lived a colourful life. He went to China where he became a journalist and also joined the library of Republic of China President Yuan Shikai.
 
 
 
-Closer to the present day, we pay tribute to Hedwig Anuar, the first local director of the National Library. This larger-than-life woman was synonymous with the library, which is not surprising because she helmed it for more than two decades after Singapore’s independence. That article is accompanied by a personal essay penned by her daughter, Shirin Aroozoo, about what it was like growing up as Hedwig Anuar’s daughter.
+Closer to the present day, we pay tribute to [Hedwig Anuar](https://staging-lite.d3lqsdaf68v737.amplifyapp.com/vol-21/issue-2/jul-sep-2025/hedwig-anuar-first-lady-of-the-national-library/), the first local director of the National Library. This larger-than-life woman was synonymous with the library, which is not surprising because she helmed it for more than two decades after Singapore’s independence. That article is accompanied by a personal essay penned by her daughter, Shirin Aroozoo, about what it was like growing up as [Hedwig Anuar’s daughter](https://staging-lite.d3lqsdaf68v737.amplifyapp.com/vol-21/issue-2/jul-sep-2025/mother-hedwig-anuar-shirin-aroozoo/).
 
 
 
-This special edition is not just about looking back of course; it is also an opportunity to look ahead. In an age of ubiquitous information and generative AI, do libraries and librarians still have a future? In an interview, NLB Chief Executive Officer Ng Cher Pong sketches out how he thinks the libraries and archives can remain relevant in the face of these new challenges.
+This special edition is not just about looking back of course; it is also an opportunity to look ahead. In an age of ubiquitous information and generative AI, do libraries and librarians still have a future? In an interview, NLB Chief Executive Officer Ng Cher Pong sketches out how he thinks the [libraries and archives can remain relevant](https://staging-lite.d3lqsdaf68v737.amplifyapp.com/vol-21/issue-2/jul-sep-2025/toa-payoh-public-library/) in the face of these new challenges.
 
 We are certainly optimistic. We have been around for 188 years, and we plan on being around for another 188 more. Thank you for looking back and looking forward with us.
