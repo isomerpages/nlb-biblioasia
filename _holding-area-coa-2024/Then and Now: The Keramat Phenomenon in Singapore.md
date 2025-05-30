@@ -128,6 +128,9 @@ In the mid-1930s, a *bangsawan* (Malay opera) that used elements of the popular 
 
 The *keramat* at Radin Mas still generates passionate arguments, with factions forming around individuals such as the long-serving caretaker, heritage enthusiasts and online commentators. The question of whether there is a Javanese princess buried on Mount Faber seems less important than why the identity of the grave creates such foment. It points to the important role played by *keramat* in forming a Singaporean-Malay identity, distinct from that of the peninsula. Many of the *keramat* here are said to be the graves of pious people who came before the British (and in some cases, before Islam arrived). Such stories reify ethno-religious pride – a claim to the land of the forefathers that posits Malays as the authentic people and Islam as the authentic religion and show how easily social traditions can take on a political hue.
 
+<img src="/images/COA%202024/Keramat/02.jpg" style="width:100%;">
+ <div style="background-color: white;">The <i>makam</i> of Radin Mas Ayu at Mount Faber in 2021.  <i> Courtesy of William Gibson.</i></div>
+
 #### **Keramat and Authority**
 
 On 21 January 1823, Sir Samford Raffles wrote a letter to William Marsden from Government House, atop what is now Fort Canning Hill, describing how if he were to die there, he would pleasurably mingle his bones with those of the “Malay Kings” whose tombs he believed were located on the hill. 
