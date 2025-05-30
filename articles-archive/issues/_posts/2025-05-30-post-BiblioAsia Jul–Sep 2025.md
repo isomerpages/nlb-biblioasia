@@ -9,20 +9,19 @@ variant: markdown
 ---
 <img src="/images/Vol%2021%20Issue%201/vol211cover.jpg">
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/director-note/">Director's Note</a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/holding-area/vol-21/issue-2/jul-sep-2025/director-s-note/">Director's Note</a><br>
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/liu-kang-forgotten-photographs-bali/">New Experiences and Discoveries: The Libraries and
-Archives of Tomorrow </a><br>
-Ng Cher Pong, Chief Executive Officer of the National Library Board, shares his thoughts and insights on how libraries and archives can stay relevant in today’s world. *Kimberley Chiu*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_ForgottenBali.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/holding-area/vol-21/issue-2/jul-sep-2025/the-libraries-and-archives-of-tomorrow/">New Experiences and Discoveries: The Libraries and Archives of Tomorrow </a><br>
+Ng Cher Pong, Chief Executive Officer of the National Library Board, shares his thoughts and insights on how libraries and archives can stay relevant in today’s world. *Kimberley Chiu*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_ForgottenBali-.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/mystique-bali-travel-paradise/">The Construction of Bali’s Mystique</a><br>
-In 1953, four pioneering Singapore artists held an exhibition of artworks arising from their travels to Bali the previous year. Their trip was inspired by an image of the island as an untouched Eden. *Nadia Ramli and Goh Yu Mei*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_BaliMystique.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/mystique-bali-travel-paradise/">From Colonial Vision to Key Memory Institution: A Short History of the National Library</a><br>
+The National Library began life in 1837 with a modest collection of 392 publications belonging to the Singapore Free School. *Lim Tin Seng*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_BaliMystique-.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/liu-kang-bridge-east-west/">A Bridge Between East and West</a><br>
-Liu Kang’s works show the influence of Western artists such as Cézanne, Gauguin, Van Gogh and Matisse, as well as the tradition of Chinese ink painting. *Low Sze Wee*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_LiuKangtheArtist.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/liu-kang-bridge-east-west/">Writing the NLB Story</a><br>
+Established in 1995, the National Library Board was conceived as one of many levers to transform Singapore’s economy and culture. *Hong Xinyi*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_LiuKangtheArtist-.pdf)
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/liu-kang-collection/">The Liu Kang Collection: A Portrait of the Artist as a Young Man</a><br>
-The Liu Kang Collection at the National Library Singapore provides an intimate look at the creative process of one of Singapore’s most celebrated artists. *Goh Yu Mei and Nadia Ramli*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_LiuKangCollections.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/liu-kang-collection/">Kung Tian Cheng, First Clerk of Raffles Library</a><br>
+In the late 19th century, Kung Tian Cheng helped compile a complete catalogue of the Raffles Library, before going to China to work for President Yuan Shikai. *Bonny Tan*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_LiuKangCollections-.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/sing-singapore-national-day-songs/">The Search for Home, Truly (and Other National Day Songs)</a><br>
 The effort to find songs that express a national identity goes back to the 1970s. *Bernard T.G. Tan*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_SingSingapore.pdf)
