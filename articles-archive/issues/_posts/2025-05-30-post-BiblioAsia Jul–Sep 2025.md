@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-<img src="/images/Vol%2021%20Issue%201/vol211cover.jpg">
+<img src="/images/Vol%2021%20Issue%202/ContentPage_Cover.jpg">
 
 <a style="text-decoration: none; font-weight: bold;" href="/holding-area/vol-21/issue-2/jul-sep-2025/director-s-note/">Director's Note</a><br>
 
@@ -85,4 +85,3 @@ advocate for women’s rights. *Timothy Pwee*. [(PDF)](/files/pdf/Vol%2021/Bibli
 The daughter of Hedwig Anuar reveals a side to the
 former director of the National Library that not many
 people know. *Shirin Aroozoo*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_NewBooks-.pdf)
-
