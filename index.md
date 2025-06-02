@@ -9,14 +9,24 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-21/issue-1/apr-jun-2025/origins-badang-strongman-singapore-stone/
-      button: Uncovering the Origins of Badang the Strongman
+      url: /vol-21/issue-1/apr-jun-2025/mystique-bali-travel-paradise/
+      button: The Construction of Bali’s Mystique
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 21 Issue 1/Badang/heroimg_badang1.jpg
+      background: /images/Vol 21 Issue 1/Bali's Mystique/HeroImage_mystique.jpg
       variant: center
+  - infopic:
+      title: Pioneering Archaeological Research
+      subtitle: Archaeology
+      id: infopic
+      description: Research into Malaya’s prehistory took off in the 1930s under the
+        leadership of the Raffles Library and Museum.
+      button: EXCAVATING GUAR KEPAH
+      url: /vol-21/issue-2/jul-sep-2025/archaeology-research-national-library-museum/
+      image: /images/Vol 21 Issue 2/Archaeologic/archaeological_topic.jpg
+      alt: Image alt text
   - infopic:
       title: A Short History of the National Library
       subtitle: Local Icons

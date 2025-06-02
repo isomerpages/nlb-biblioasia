@@ -2,6 +2,9 @@ collections:
   jul-to-sep-2025:
     output: true
     order:
+      - Director's Note.md
+      - "New Experiences and Discoveries: The Libraries and Archives of
+        Tomorrow.md"
       - "From Colonial Vision to Key Memory Institution: A Short History of the
         National Library.md"
       - Writing the NLB Story.md
