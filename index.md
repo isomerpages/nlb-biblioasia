@@ -18,6 +18,16 @@ sections:
       background: /images/Vol 21 Issue 1/Bali's Mystique/HeroImage_mystique.jpg
       variant: center
   - infopic:
+      title: Pioneering Archaeological Research
+      subtitle: Archaeology
+      id: infopic
+      description: Research into Malaya’s prehistory took off in the 1930s under the
+        leadership of the Raffles Library and Museum.
+      button: EXCAVATING GUAR KEPAH
+      url: /vol-21/issue-2/jul-sep-2025/archaeology-research-national-library-museum/
+      image: /images/Vol 21 Issue 2/Archaeologic/archaeological_topic.jpg
+      alt: Image alt text
+  - infopic:
       title: A Short History of the National Library
       subtitle: Local Icons
       id: infopic
@@ -1084,14 +1094,4 @@ sections:
       url: /videos/reels/print/
       alt: Image alt text
       image: "/images/Videos: BiblioAsia Reels/early_print.jpg"
-  - infopic:
-      title: Pioneering Archaeological Research
-      subtitle: Archaeology
-      id: infopic
-      description: Research into Malaya’s prehistory took off in the 1930s under the
-        leadership of the Raffles Library and Museum.
-      button: EXCAVATING GUAR KEPAH
-      url: /vol-21/issue-2/jul-sep-2025/archaeology-research-national-library-museum/
-      image: /images/Vol 21 Issue 2/Archaeologic/archaeological_topic.jpg
-      alt: Image alt text
 ---
