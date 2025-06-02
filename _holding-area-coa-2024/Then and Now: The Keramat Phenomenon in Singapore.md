@@ -17,7 +17,7 @@ Each *kerama*t is unique, yet different ethnic groups may have varying perspecti
 
 However, some *keramat* have maintained relatively stable identities over the decades. It is perhaps not a coincidence that most of these tend to be the *keramat* that still exist, for instance, Habib Nuh*, Iskandar Shah, Radin Mas* and Tok Lasam*.
 
-<img src="/images/COA%202024/Keramat/03.jpg" style="width:100%;">
+<img src="/images/COA%202024/Keramat/03.jpg" style="width: 80%;">
  <div style="background-color: white;">The graves of Tok Lassam and his wife Nyai in Siglap, 2021. <i> Courtesy of William Gibson.</i></div>
 
 While the *keramat* tradition is rooted in the Islamic culture of the region, the relationship between *keramat* and Islam is complex. Some modern Muslims are regular devotees at *keramat*, while others consider them to be idolatrous. The belief of most Muslims I spoke with falls somewhere between these two polarities. 
@@ -63,7 +63,7 @@ In 1954, this shrine was identified as the grave of one Siti Mariam, the eldest 
 
 The *keramat* sisters of Serangoon Road were joined in the 1980s by another named Siti Subaida, whose “grave” located nearby was a large mound of earth, shaped like a frog, also marked as a *datuk kong*. This expanding *keramat* family was said to include the *datuk keramat* at Kusu Island*, Syed Abdul Rahman, and the adjacent *datuk nenek* shrines of his wife and sister (or mother and daughter, depending on the version). 
 
-<img src="/images/COA%202024/Keramat/01_entrance.jpg" style="width:100%;">
+<img src="/images/COA%202024/Keramat/01_entrance.jpg" style="width:80%;">
  <div style="background-color: white;"> The entrance to the <i>keramat</i> at Kusu Island, a few months before the devasting fire in 2022. <i> Courtesy of William Gibson.</i></div>
 
 *Datuk keramat* also inhabited rocks and whirlpools. In the 1920s, R.O. Winstedt noted a Dato Berhala near a whirlpool on the Perak River. While mourning his wife, Embun, who had disappeared after going to bathe near a big rock, the Dato also disappeared. For boatmen, prayer at the *keramat* rock ensured safe passage through this rough stretch of water, while forgetting to propitiate the *datuk* could bring disaster.[^14] 
@@ -128,7 +128,7 @@ In the mid-1930s, a *bangsawan* (Malay opera) that used elements of the popular 
 
 The *keramat* at Radin Mas still generates passionate arguments, with factions forming around individuals such as the long-serving caretaker, heritage enthusiasts and online commentators. The question of whether there is a Javanese princess buried on Mount Faber seems less important than why the identity of the grave creates such foment. It points to the important role played by *keramat* in forming a Singaporean-Malay identity, distinct from that of the peninsula. Many of the *keramat* here are said to be the graves of pious people who came before the British (and in some cases, before Islam arrived). Such stories reify ethno-religious pride – a claim to the land of the forefathers that posits Malays as the authentic people and Islam as the authentic religion and show how easily social traditions can take on a political hue.
 
-<img src="/images/COA%202024/Keramat/02.jpg" style="width:100%;">
+<img src="/images/COA%202024/Keramat/02.jpg" style="width:80%;">
  <div style="background-color: white;">The <i>makam</i> of Radin Mas Ayu at Mount Faber in 2021.  <i> Courtesy of William Gibson.</i></div>
 
 #### **Keramat and Authority**
