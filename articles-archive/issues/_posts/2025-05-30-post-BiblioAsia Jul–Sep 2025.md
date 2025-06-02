@@ -9,9 +9,9 @@ variant: markdown
 ---
 <img src="/images/Vol%2021%20Issue%202/ContentPage_Cover.jpg">
 
-<a style="text-decoration: none; font-weight: bold;" href="/holding-area/vol-21/issue-2/jul-sep-2025/director-s-note/">Director's Note</a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/director-s-note/">Director's Note</a><br>
 
-<a style="text-decoration: none; font-weight: bold;" href="/holding-area/vol-21/issue-2/jul-sep-2025/the-libraries-and-archives-of-tomorrow/">New Experiences and Discoveries: The Libraries and Archives of Tomorrow </a><br>
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/libraries-archives-future-experiences-discoveries/">New Experiences and Discoveries: The Libraries and Archives of Tomorrow </a><br>
 Ng Cher Pong, Chief Executive Officer of the National Library Board, shares his thoughts and insights on how libraries and archives can stay relevant in today’s world. *Kimberley Chiu*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_ForgottenBali-.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/history-story-national-library-singapore/">From Colonial Vision to Key Memory Institution: A Short History of the National Library</a><br>
