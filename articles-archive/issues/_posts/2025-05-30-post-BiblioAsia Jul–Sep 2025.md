@@ -48,3 +48,41 @@ Part-time branch libraries served residents living in suburban Singapore before 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/new-books-on-singapore-history/">Books on Wheels: Singapore’s Mobile Libraries</a><br>
 Between the 1960s and 1980s, libraries-on-wheels were a familiar sight as they travelled around Singapore bringing books to residents in rural and suburban areas. *Gracie Lee*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_NewBooks-.pdf)
+
+
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/new-books-on-singapore-history/">Reading with Molly Today</a><br>
+According to a study, the mobile library service continues to be relevant as it helps children get more access to books. *Loh Chin Ee and Koh Yu Qun*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_NewBooks-.pdf)
+
+
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/new-books-on-singapore-history/">Pages of Progress: The Toa Payoh Public Library</a><br>
+Over the last five decades, the library has developed to
+keep pace with the changing needs of the residents of
+Toa Payoh. *Rebecca Tan*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_NewBooks-.pdf)
+
+
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/barbara-kerr-sharpshooter-school-principal-girl-guide/">A Tale of Two Cities: Singapore Through the Lens of P.S. Teo and Ronni Pinsler	</a><br>
+The photographs by P.S. Teo and Ronni Pinsler of a bygone
+Singapore form part of the National Archives of Singapore’s 5.5 million collection. *Lu Wenshi and Ronnie Tan*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_BarbaraKerr-.pdf)
+
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/new-books-on-singapore-history/">A Peek at the Audio-Visual Archives: History Captured in Sound and Moving Images</a><br>
+The National Archives of Singapore has been safeguarding
+Singapore’s rich audiovisual legacy for the last 30 years. *Phang Lai Tee*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_NewBooks-.pdf)
+
+
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/new-books-on-singapore-history/">Hedwig Anuar: First Lady of the National Library</a><br>
+Hedwig Anuar was not only known for being the director
+of the National Library, she was also an activist and
+advocate for women’s rights. *Timothy Pwee*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_NewBooks-.pdf)
+
+
+
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-1/apr-jun-2025/new-books-on-singapore-history/">My Mother, Hedwig Anuar</a><br>
+The daughter of Hedwig Anuar reveals a side to the
+former director of the National Library that not many
+people know. *Shirin Aroozoo*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_NewBooks-.pdf)
+
