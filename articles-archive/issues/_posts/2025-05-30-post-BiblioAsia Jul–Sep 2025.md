@@ -43,45 +43,45 @@ The scope of legal deposit in Singapore expanded to digital materials and web ar
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/part-time-libraries/">Remembering the Part-Time Libraries	</a><br>
-Part-time branch libraries served residents living in suburban Singapore before fulltime public libraries were built. *Goh Lee Kim*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_BarbaraKerr-.pdf)
+Part-time branch libraries served residents living in suburban Singapore before fulltime public libraries were built. *Goh Lee Kim*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Jul_Sep2025_FA_Parttime_Library.pdf)
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/mobile-libraries-books-on-wheels/">Books on Wheels: Singapore’s Mobile Libraries</a><br>
-Between the 1960s and 1980s, libraries-on-wheels were a familiar sight as they travelled around Singapore bringing books to residents in rural and suburban areas. *Gracie Lee*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_NewBooks-.pdf)
+Between the 1960s and 1980s, libraries-on-wheels were a familiar sight as they travelled around Singapore bringing books to residents in rural and suburban areas. *Gracie Lee*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Jul_Sep2025_FA_Books_On_Wheel.pdf)
 
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/reading-molly-national-library-board/">Reading with Molly Today</a><br>
-According to a study, the mobile library service continues to be relevant as it helps children get more access to books. *Loh Chin Ee and Koh Yu Qun*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_NewBooks-.pdf)
+According to a study, the mobile library service continues to be relevant as it helps children get more access to books. *Loh Chin Ee and Koh Yu Qun*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Jul_Sep2025_FA_Molly.pdf)
 
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/toa-payoh-public-library/">Pages of Progress: The Toa Payoh Public Library</a><br>
 Over the last five decades, the library has developed to
 keep pace with the changing needs of the residents of
-Toa Payoh. *Rebecca Tan*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_NewBooks-.pdf)
+Toa Payoh. *Rebecca Tan*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Jul_Sep2025_FA_Toapayoh_Library.pdf)
 
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/ps-teo-ronni-pinsler/">A Tale of Two Cities: Singapore Through the Lens of P.S. Teo and Ronni Pinsler	</a><br>
 The photographs by P.S. Teo and Ronni Pinsler of a bygone
-Singapore form part of the National Archives of Singapore’s 5.5 million collection. *Lu Wenshi and Ronnie Tan*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_BarbaraKerr-.pdf)
+Singapore form part of the National Archives of Singapore’s 5.5 million collection. *Lu Wenshi and Ronnie Tan*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Jul_Sep2025_FA_TwoCities.pdf)
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/audio-visual-national-archives-singapore/">A Peek at the Audio-Visual Archives: History Captured in Sound and Moving Images</a><br>
 The National Archives of Singapore has been safeguarding
-Singapore’s rich audiovisual legacy for the last 30 years. *Phang Lai Tee*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_NewBooks-.pdf)
+Singapore’s rich audiovisual legacy for the last 30 years. *Phang Lai Tee*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Jul_Sep2025_FA_Audio_Visual_Archives.pdf)
 
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/hedwig-anuar-first-lady-of-the-national-library/">Hedwig Anuar: First Lady of the National Library</a><br>
 Hedwig Anuar was not only known for being the director
 of the National Library, she was also an activist and
-advocate for women’s rights. *Timothy Pwee*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_NewBooks-.pdf)
+advocate for women’s rights. *Timothy Pwee*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Jul_Sep2025_FA_Hedwig_Anuar..pdf)
 
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/mother-hedwig-anuar-shirin-aroozoo/">My Mother, Hedwig Anuar</a><br>
 The daughter of Hedwig Anuar reveals a side to the
 former director of the National Library that not many
-people know. *Shirin Aroozoo*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_NewBooks-.pdf)
+people know. *Shirin Aroozoo*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Jul_Sep2025_FA_My_Mother_Hedwig.pdf)
