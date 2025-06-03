@@ -4,7 +4,7 @@ permalink: /topics/culture/
 description: ""
 variant: markdown
 ---
-#### <a style="text-decoration: none; font-weight: bold;" href="/culture/2025/3/history-northern-lion-dance-chin-woo-athletic-association-singapore-photos/">History of the Golden Lions in Singapore</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/culture/2025/3/history-northern-lion-dance-chin-woo-athletic-association-singapore-photos/">Historical Photos of Chin Woo’s Golden Lions</a>
 
 The Singapore Chin Woo (Athletic) Association’s lion dance troupe opens their archives for a peek into the rich history of their Golden Lions.
 
