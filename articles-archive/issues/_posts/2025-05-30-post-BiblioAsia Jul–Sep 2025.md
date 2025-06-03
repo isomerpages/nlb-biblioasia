@@ -21,10 +21,10 @@ The National Library began life in 1837 with a modest collection of 392 publicat
 Established in 1995, the National Library Board was conceived as one of many levers to transform Singapore’s economy and culture. *Hong Xinyi*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Jul_Sep2025_FA_Writing_History.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/kung-tian-cheng-first-clerk-raffles-library/">Kung Tian Cheng, First Clerk of Raffles Library</a><br>
-In the late 19th century, Kung Tian Cheng helped compile a complete catalogue of the Raffles Library, before going to China to work for President Yuan Shikai. *Bonny Tan*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_LiuKangCollections-.pdf)
+In the late 19th century, Kung Tian Cheng helped compile a complete catalogue of the Raffles Library, before going to China to work for President Yuan Shikai. *Bonny Tan*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Jul_Sep2025_FA_Kung_Tian_Cheng.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/national-library-stamford-road-photos/">Lady in Red: The Former National Library on Stamford Road</a><br>
-Beyond being a mere repository of books, the library on Stamford Road was a place for acquiring knowledge, making memories and creating friendships. *Lim Tin Seng*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_SingSingapore-.pdf)
+Beyond being a mere repository of books, the library on Stamford Road was a place for acquiring knowledge, making memories and creating friendships. *Lim Tin Seng*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Jul_Sep2025_FA_Lady_In_Red.pdf)
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/singapore-southeast-asia-collection/national-library/">The Singapore and Southeast Asia Collection</a><br>
