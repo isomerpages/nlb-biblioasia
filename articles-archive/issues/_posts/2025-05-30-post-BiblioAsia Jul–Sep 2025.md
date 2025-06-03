@@ -12,10 +12,10 @@ variant: markdown
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/director-s-note/">Director's Note</a><br>
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/libraries-archives-future-experiences-discoveries/">New Experiences and Discoveries: The Libraries and Archives of Tomorrow </a><br>
-Ng Cher Pong, Chief Executive Officer of the National Library Board, shares his thoughts and insights on how libraries and archives can stay relevant in today’s world. *Kimberley Chiu*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_ForgottenBali-.pdf)
+Ng Cher Pong, Chief Executive Officer of the National Library Board, shares his thoughts and insights on how libraries and archives can stay relevant in today’s world. *Kimberley Chiu*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Jul_Sep2025_FA_Library_of_Tomorrow.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/history-story-national-library-singapore/">From Colonial Vision to Key Memory Institution: A Short History of the National Library</a><br>
-The National Library began life in 1837 with a modest collection of 392 publications belonging to the Singapore Free School. *Lim Tin Seng*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_BaliMystique-.pdf)
+The National Library began life in 1837 with a modest collection of 392 publications belonging to the Singapore Free School. *Lim Tin Seng*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Jul_Sep2025_FA_History_of_NLB.pdf)
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/formation-national-library-board/">Writing the NLB Story</a><br>
 Established in 1995, the National Library Board was conceived as one of many levers to transform Singapore’s economy and culture. *Hong Xinyi*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_LiuKangtheArtist-.pdf)
