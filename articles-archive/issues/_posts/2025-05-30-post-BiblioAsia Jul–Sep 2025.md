@@ -28,10 +28,10 @@ Beyond being a mere repository of books, the library on Stamford Road was a plac
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/singapore-southeast-asia-collection/national-library/">The Singapore and Southeast Asia Collection</a><br>
-An invaluable resource for researchers of Singapore and the region. *Ang Seow Leng*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_DeafEducation2-.pdf)
+An invaluable resource for researchers of Singapore and the region. *Ang Seow Leng*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Jul_Sep2025_FA_SEA_Collection.pdf)
 
 
-<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/archaeology-research-national-library-museum/">Pioneering Archaeological Research</a><br> Research into Malaya’s prehistory took off in the 1930s under the leadership of the Raffles Library and Museum.*Foo Shu Tieng*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_Floods-.pdf)
+<a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/archaeology-research-national-library-museum/">Pioneering Archaeological Research</a><br> Research into Malaya’s prehistory took off in the 1930s under the leadership of the Raffles Library and Museum.*Foo Shu Tieng*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Jul_Sep2025_FA_Archaleological.pdf)
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/legal-deposit-legislation-singapore/">Legal Deposit Legislation in Singapore</a><br>
