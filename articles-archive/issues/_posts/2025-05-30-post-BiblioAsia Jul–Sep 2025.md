@@ -35,7 +35,7 @@ An invaluable resource for researchers of Singapore and the region. *Ang Seow Le
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/legal-deposit-legislation-singapore/">Legal Deposit Legislation in Singapore</a><br>
-The legal deposit function in Singapore can be traced back to an 1835 law enacted in India to control and regulate the flow of information. *Makeswary Periasamy*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_Mazu.pdf)
+The legal deposit function in Singapore can be traced back to an 1835 law enacted in India to control and regulate the flow of information. *Makeswary Periasamy*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Jul_Sep2025_FA_Legal_Deposit.pdf)
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/recent-history-legal-deposit-singapore/">A Recent History of Legal Deposit in Singapore</a><br>
