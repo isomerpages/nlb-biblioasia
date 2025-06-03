@@ -77,7 +77,7 @@ Singapore’s rich audiovisual legacy for the last 30 years. *Phang Lai Tee*. [(
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/hedwig-anuar-first-lady-of-the-national-library/">Hedwig Anuar: First Lady of the National Library</a><br>
 Hedwig Anuar was not only known for being the director
 of the National Library, she was also an activist and
-advocate for women’s rights. *Timothy Pwee*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Jul_Sep2025_FA_Hedwig_Anuar..pdf)
+advocate for women’s rights. *Timothy Pwee*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Jul_Sep2025_FA_Hedwig_Anuar.pdf)
 
 
 
