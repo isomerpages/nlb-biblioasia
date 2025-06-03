@@ -39,7 +39,7 @@ The legal deposit function in Singapore can be traced back to an 1835 law enacte
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/recent-history-legal-deposit-singapore/">A Recent History of Legal Deposit in Singapore</a><br>
-The scope of legal deposit in Singapore expanded to digital materials and web archiving in 2018. *Samantha Chen*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Apr_Jun_2025_BadangtheStrongman2-.pdf)
+The scope of legal deposit in Singapore expanded to digital materials and web archiving in 2018. *Samantha Chen*. [(PDF)](/files/pdf/Vol%2021/BiblioAsia_Jul_Sep2025_FA_Recent_History_of_Legal_Deposit.pdf)
 
 
 <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/part-time-libraries/">Remembering the Part-Time Libraries	</a><br>
