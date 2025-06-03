@@ -144,7 +144,7 @@ sections:
       image: /images/Vol 21 Issue 2/Frames of Memory/frames_topic.jpg
       alt: Former National Library
   - infopic:
-      title: History of the Golden Lions in Singapore
+      title: Historical Photos of Chin Woo’s Golden Lions
       subtitle: Culture
       id: infopic
       button: Golden Lions in Pictures

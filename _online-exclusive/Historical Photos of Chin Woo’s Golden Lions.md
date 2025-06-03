@@ -1,5 +1,5 @@
 ---
-title: History of the Golden Lions in Singapore
+title: Historical Photos of Chin Woo’s Golden Lions
 permalink: /culture/2025/3/history-northern-lion-dance-chin-woo-athletic-association-singapore-photos/
 variant: markdown
 description: ""
