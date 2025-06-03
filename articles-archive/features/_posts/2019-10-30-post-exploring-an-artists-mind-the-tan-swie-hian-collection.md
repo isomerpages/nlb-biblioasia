@@ -3,6 +3,7 @@ title: "Exploring an Artist’s Mind: The Tan Swie Hian Collection"
 date: 2019-10-30
 permalink: /vol-15/issue-3/oct-dec-2019/tan-swie-hian-coll/
 layout: post
+variant: markdown
 ---
 #### What makes the difference between a good artist and a brilliant one? **Goh Yu Mei** delves into the books and artworks that have inspired a literary and artistic genius.
 
@@ -67,12 +68,7 @@ As his personal collection comprises mainly books and publications, the decision
 <img style="width: 250px; height: 320px;" src="/images/Vol-15-issue-3/exploring-an-artist-s-mind/Explore7.JPG">
 <div style="background-color: white;">The Tan Swie Hian Collection includes autographed books that Tan received as gifts, one of which is <i>Let’s Talk about the Weather… and Other Poems</i> by the Romanian poet, playwright and novelist Marin Sorescu. <i>Image reproduced from Sorescu, M. (1985). Let’s Talk about the Weather… and other Poems. London; Boston: Forest Books. (Call no.: RDTSH 859.134 SOR). Tan Swie Hian Collection, National Library, Singapore.</i></div>
 
-<span style="background-colour: #fdf5e6; padding: 20px; margin: 20px; background:#fdf5e6; display:block; font-size:1rem; line-height:1.5rem;"> 
-	<b>UP CLOSE AND PERSONAL WITH TAN SWIE HIAN</b><br><br>
-In a video interview, Tan Swie Hian tells us how he gathered an impressive collection of materials – books, periodicals, journals, calligraphic works and paintings – over the decades, and his reasons for donating the collection to the National Library. He also reveals the creative process behind many of his artworks. Scan this QR code to access the video.
-	<br><br>
-	<img style="width: 200px; height: 200px;" src="/images/Vol-15-issue-3/exploring-an-artist-s-mind/Explore9.JPG">
-</span>
+
 
 <br>
 <div style="background-color: white;">
