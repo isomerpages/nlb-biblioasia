@@ -16,8 +16,10 @@ though, they ply their trade in fixed stalls in hawker centres. Ryan Kueh,
 author of the bestselling <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=300064010" rel="noopener nofollow" target="_blank">From Streets to Stalls</a></em>,
 tells us how the hawker culture has evolved&nbsp;in Singapore since the
 colonial period and what hawker centres have come to represent.</p>
-<p></p>
-<h4><strong><br>Listen to the Full Episode</strong></h4>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/DIezw5VWpvg"></iframe>
+</div>
+<h4><strong>Listen to the Full Episode</strong></h4>
 <p>Available on: Spotify, Apple Podcasts, melisten.</p>
 <p>Subscribe to get notified when the next episode drops.</p>
 <p></p>
