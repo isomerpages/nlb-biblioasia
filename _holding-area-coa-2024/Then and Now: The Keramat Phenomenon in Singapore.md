@@ -13,7 +13,7 @@ This paper will offer a brief of analysis of the various types of keramat that w
 #### **What’s a Keramat?**
 *Keramat* are sacred objects that possess a special energy known as *semangat*. These may be natural objects like trees, rocks, termite mounds, whirlpools, waterfalls; living animals; living people; graves of *wali* or venerated persons; old graves of unknown origin; spirits of animals or holy men; or a combination thereof. 
 
-Each *kerama*t is unique, yet different ethnic groups may have varying perspectives on a single *keramat*. It was common for a *keramat* to have multiple identities: names, ages, origins, and even genders could change over time. 
+Each *keramat* is unique, yet different ethnic groups may have varying perspectives on a single *keramat*. It was common for a *keramat* to have multiple identities: names, ages, origins, and even genders could change over time. 
 
 However, some *keramat* have maintained relatively stable identities over the decades. It is perhaps not a coincidence that most of these tend to be the *keramat* that still exist, for instance, Habib Nuh*, Iskandar Shah, Radin Mas* and Tok Lasam*.
 
