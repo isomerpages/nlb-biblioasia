@@ -72,10 +72,8 @@ Haven. Special thanks to Simon for coming on the show.</p>
 <summary>About the Podcast</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>BiblioAsia+ is a podcast about Singapore history by the National Library
-of Singapore.</p>
+Singapore.</p>
 </div>
 </details>
 </div>
-<p>
-<br>
-</p>
+<p></p>
