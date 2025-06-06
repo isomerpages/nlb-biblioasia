@@ -18,6 +18,17 @@ sections:
       background: /images/Vol 21 Issue 1/Bali's Mystique/HeroImage_mystique.jpg
       variant: center
   - infopic:
+      title: Hawker Culture in Singapore
+      subtitle: Podcast
+      id: infopic
+      description: Researcher Ryan Kueh explains why hawkers in Singapore sell their
+        food in fixed stalls in hawker centres, rather than on streets, like in
+        other countries.
+      button: Listen to the episode
+      url: /podcast/hawker-culture-in-singapore-ryan-kueh/
+      image: /images/Podcast/Ryan_600_by_400.jpg
+      alt: Hawker Culture in Singapore
+  - infopic:
       title: Pioneering Archaeological Research
       subtitle: Archaeology
       id: infopic
@@ -1094,15 +1105,4 @@ sections:
       url: /videos/reels/print/
       alt: Image alt text
       image: "/images/Videos: BiblioAsia Reels/early_print.jpg"
-  - infopic:
-      title: Hawker Culture in Singapore
-      subtitle: Podcast
-      id: infopic
-      description: Researcher Ryan Kueh explains why hawkers in Singapore sell their
-        food in fixed stalls in hawker centres, rather than on streets, like in
-        other countries.
-      button: Listen to the episode
-      url: /podcast/hawker-culture-in-singapore-ryan-kueh/
-      image: /images/Podcast/Ryan_600_by_400.jpg
-      alt: Hawker Culture in Singapore
 ---
