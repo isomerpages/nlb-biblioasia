@@ -9,9 +9,7 @@ description: Hawkers traditionally sell their food on streets. Uniquely in
 image: /images/Podcast/Ryan_600_by_400.jpg
 third_nav_title: Hawker Culture in Singapore
 ---
-<p><strong>Coming in June</strong>
-<br>
-<br>Hawkers traditionally sell their food on streets. Uniquely in Singapore
+<p>Hawkers traditionally sell their food on streets. Uniquely in Singapore
 though, they ply their trade in fixed stalls in hawker centres. Ryan Kueh,
 author of the bestselling <em><a href="https://catalogue.nlb.gov.sg/search/card?recordId=300064010" rel="noopener nofollow" target="_blank">From Streets to Stalls</a></em>,
 tells us how the hawker culture has evolved&nbsp;in Singapore since the
@@ -20,7 +18,8 @@ colonial period and what hawker centres have come to represent.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/DIezw5VWpvg"></iframe>
 </div>
 <h4><strong>Listen to the Full Episode</strong></h4>
-<p>Available on: Spotify, Apple Podcasts, melisten.</p>
+<p>Available on: <a href="https://open.spotify.com/episode/7eXPUKouHS8acPYOIrJDFH" rel="noopener nofollow" target="_blank">Spotify</a>,
+<a href="https://podcasts.apple.com/us/podcast/hawker-culture-in-singapore/id1688142751?i=1000711741158" rel="noopener nofollow" target="_blank">Apple Podcasts</a>, <a href="https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/Hawker%C2%A0Culture-in-Singapore-2966771" rel="noopener nofollow" target="_blank">melisten</a>.</p>
 <p>Subscribe to get notified when the next episode drops.</p>
 <p></p>
 <h4><strong>What Ryan Talked About</strong></h4>
@@ -86,7 +85,7 @@ Haven. Special thanks to Ryan for coming on the show.</p>
 <summary>About the Podcast</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>BiblioAsia+ is a podcast about Singapore history by the National Library
-of Singapore.</p>
+Singapore.</p>
 </div>
 </details>
 </div>
