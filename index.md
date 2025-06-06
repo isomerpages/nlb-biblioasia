@@ -1098,9 +1098,9 @@ sections:
       title: Hawker Culture in Singapore
       subtitle: Podcast
       id: infopic
-      description: Hawkers traditionally sell their food on streets. Uniquely in
-        Singapore though, they ply their trade in fixed stalls in hawker
-        centres.
+      description: Researcher Ryan Kueh explains why hawkers in Singapore sell their
+        food in fixed stalls in hawker centres, rather than on streets, like in
+        other countries.
       button: Listen to the episode
       url: /podcast/hawker-culture-in-singapore-ryan-kueh/
       image: /images/Podcast/Ryan_600_by_400.jpg
