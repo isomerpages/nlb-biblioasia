@@ -18,7 +18,8 @@ colonial period and what hawker centres have come to represent.</p>
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/DIezw5VWpvg"></iframe>
 </div>
 <h4><strong>Listen to the Full Episode</strong></h4>
-<p>Available on: Spotify, Apple Podcasts, melisten.</p>
+<p>Available on: <a href="https://open.spotify.com/episode/7eXPUKouHS8acPYOIrJDFH" rel="noopener nofollow" target="_blank">Spotify</a>,
+<a href="https://podcasts.apple.com/us/podcast/hawker-culture-in-singapore/id1688142751?i=1000711741158" rel="noopener nofollow" target="_blank">Apple Podcasts</a>, <a href="https://www.melisten.sg/podcast/playlist/BiblioAsia%2B-2115156/Hawker%C2%A0Culture-in-Singapore-2966771" rel="noopener nofollow" target="_blank">melisten</a>.</p>
 <p>Subscribe to get notified when the next episode drops.</p>
 <p></p>
 <h4><strong>What Ryan Talked About</strong></h4>
