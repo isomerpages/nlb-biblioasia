@@ -9,13 +9,14 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-21/issue-1/apr-jun-2025/mystique-bali-travel-paradise/
-      button: The Construction of Bali’s Mystique
+      url: /vol-21/issue-1/apr-jun-2025/liu-kang-bridge-east-west/
+      button: A Bridge Between East and West
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 21 Issue 1/Bali's Mystique/HeroImage_mystique.jpg
+      background: /images/Vol 21 Issue 1/Liu Kang The
+        Artist/HeroImage_LiuKangTheArtist_2.jpg
       variant: center
   - infopic:
       title: Hawker Culture in Singapore
