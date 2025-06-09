@@ -1106,4 +1106,14 @@ sections:
       url: /videos/reels/print/
       alt: Image alt text
       image: "/images/Videos: BiblioAsia Reels/early_print.jpg"
+  - infopic:
+      title: A Recent History of Legal Deposit in Singapore
+      subtitle: Governance
+      id: infopic
+      description: The scope of legal deposit in Singapore expanded to digital
+        materials and web archiving in 2018.
+      button: PRESERVING PUBLISHED HERITAGE
+      url: /vol-21/issue-2/jul-sep-2025/recent-history-legal-deposit-singapore/
+      image: /images/Vol 21 Issue 2/Legal Deposit/LegalDeposit_topic.jpg
+      alt: Image alt text
 ---
