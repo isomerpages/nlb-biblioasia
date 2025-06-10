@@ -724,13 +724,13 @@ Wang Zhenchun 王振. _Gen de xilie_ 根的系列 \[Root series\]. 新加坡: �
 
 #### **NOTES**
        
-1 Adeline Foo, “[The ‘Lancing’ Girls From a Glitzy World](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20160430-1.2.45.3),” _Straits Times_, 30 April 2016, 45. (From NewspaperSG) &nbsp;
+[^1]: Adeline Foo, “[The ‘Lancing’ Girls From a Glitzy World](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20160430-1.2.45.3),” _Straits Times_, 30 April 2016, 45. (From NewspaperSG) &nbsp;
 
-2 National Library Board, [_The Three Worlds (__大世界、新世界、繁__华世界__) : Great, New and Happy_](https://www.nlb.gov.sg/main/music-article-detail?cmsuuid=3925be16-a91a-4900-bf6f-bbf143f1667b), 2012. (From National Library Online)
+[^2]: National Library Board, [_The Three Worlds (__大世界、新世界、繁__华世界__) : Great, New and Happy_](https://www.nlb.gov.sg/main/music-article-detail?cmsuuid=3925be16-a91a-4900-bf6f-bbf143f1667b), 2012. (From National Library Online)
 
-3 “[Amusements: Happy World](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19391117-1.2.56),” _Straits Times_, 17 November 1939, 10. (From NewspaperSG)
+[^3]: “[Amusements: Happy World](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19391117-1.2.56),” _Straits Times_, 17 November 1939, 10. (From NewspaperSG)
 
-4 “[Musical Practices of Jazz](https://www.nlb.gov.sg/main/music-article-detail?cmsuuid=10e84565-9ec5-4c1b-b0f9-1ef6e969edbb),” in Eugene I. Dairianathan, _A Narrative History of Music in Singapore 1819 to the Present_ (From National Library Online)
+[^4]: "[Musical Practices of Jazz](https://www.nlb.gov.sg/main/music-article-detail?cmsuuid=10e84565-9ec5-4c1b-b0f9-1ef6e969edbb),” in Eugene I. Dairianathan, _A Narrative History of Music in Singapore 1819 to the Present_ (From National Library Online)
 
 5 Interview with Ong Swee Neo on 24 February 2016.
 
