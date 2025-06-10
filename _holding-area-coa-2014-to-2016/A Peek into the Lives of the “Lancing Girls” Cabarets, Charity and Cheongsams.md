@@ -648,3 +648,168 @@ University of Singapore. She is currently an Adjunct Lecturer at Ngee Ann Polyte
 where she teaches non-fiction writing in the Faculty of Arts. She was on the Library
 Consultative Panel (2015–8) as well as Advisory Panel for the School of the Arts’ Literary
 Arts Programme (2015–8).</div>
+
+#### **BIBLIOGRAPHY**
+     
+
+Abdul Samad Said. [_T. Pinkie’s Floor: A Nostalgic Play_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12096523). Kuala Lumpur: Institut Terjemahan Negara Malaysia, 2010). (Call no. RSEA 899. 282 ABD)
+
+Abisheganaden, Paul. [_Notes Across the Years: Anecdotes From a Musical Life_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12654614). Singapore: Unipress, 2005. (Call no. RSING 780.95957)
+
+[Anonymous 2](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/7edc94e9-1160-11e3-83d5-0050568939ad), oral history interview by Daniel Chew, 27 February 1985, MP3 audio, Reels/Discs 1–4, National Archives of Singapore (accession no. 000529)
+
+Interview with Edward Khoo on 30 May 2016.
+
+Interview with Ong Swee Neo on 24 February 2016.
+
+Interview with Wong Siew Wah on 11 February 2016.
+
+Kua, Kia Soong. [_The Chinese Schools of Malaysia: A Protean Saga_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13224576). Selangor Darul Ehsan, Malaysia: Malaysian Centre for Ethnic Centre, New Era College, 2008, 31, 34. (Call no. RSEA 371.009595 KUA)
+
+Lee, Chor Lin and Chung May Khuen. [_In the Mood for Cheongsam_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14331327). Singapore: Editions Didier Millet: National Museum of Singapore, 2012, 28. (Call no. RSING 391.00951 LEE-\[CUS\])
+
+Lee, Peter. [_Sarong Kebaya: Peranakan Fashion in an Interconnected World, 1500–1950_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200480968). Singapore: Asian Civilisations Museum, 2014, 286–87. (Call no. RSING 391.20899510595 LEE-\[CUS\])
+
+“[Musical Practices of Jazz](https://www.nlb.gov.sg/main/music-article-detail?cmsuuid=10e84565-9ec5-4c1b-b0f9-1ef6e969edbb),” in Eugene I. Dairianathan, _A Narrative History of Music in Singapore 1819 to the Present_ (From National Library Online)
+
+_Nanyang Siang Pau_. “Wunu de xinli xue” [舞女的心理学](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19370201-1.2.125) \[The psychology of dancing girls\]. 1 February 1937, 24. (From NewspaperSG)
+
+—. “Wunu shenghuo ku huan chang re bing” 舞女生活苦患肠热病 \[Dancing girl suffers from enteric fever\]. 1 July 1938, 6. (From NewspaperSG)
+
+—. “Wu guo de yi duo qing lian heyanna” [舞国的一朵青春何燕娜](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19470125-1.2.148.1) \[He Yanna, a green lotus in the dancing country\]. 25 January 1947, 12. (From NewspaperSG)
+
+—. “Kuai yue xuexiao cishan wu hou xuqianhong fangwen ji” [快乐学校慈善舞后许千红访问记](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19470610-1.2.47) \[Interview with Happy School Charity Dance Queen Xu Qianhong\]. 10 June 1947, 5. (From NewspaperSG)
+
+—. “Wunu xuqianhong goumai nu an panjue beigao qian bao wubai yuan zai yi niannei bude zaifan” [舞女许千红购买女案判决被告签保五百元在一年内不得再犯](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19490314-1.2.31.2) \[In the case of dancing girl Xu Qianhong purchasing a girl, the defendant was sentenced to a five-hundred-yuan bond and must not commit the crime again within one year\]. 14 March 1949, 6. (From NewspaperSG)
+
+—. “Wunu de shenghuo” [舞女的生活](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19761130-1.2.30.2.1) \[Dancer's life\]. 30 November 1976, 10. (From NewspaperSG)
+
+National Library Board. [_The Three Worlds (__大世界、新世界、繁__华世界__) : Great, New and Happy_](https://www.nlb.gov.sg/main/music-article-detail?cmsuuid=3925be16-a91a-4900-bf6f-bbf143f1667b), 2012. (From National Library Online)
+
+_New Nation_. Yeo, Toon Joo et al., “[Glamour Only a Façade](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19721005-1.2.75.2).” 5 October 1972, 11. (From NewspaperSG)
+
+Ong, Christopher. [Rose Chan](https://www.nlb.gov.sg/main/article-detail?cmsuuid=5889a8cb-951d-4fe6-8bfd-f9a48baa4db3). _Singapore Infopedia_, published May 2021.
+
+_Singapore Free Press._ “[Pay Talks: Clerks Not Satisfied](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19520823-1.2.55).” 23 August 1952, 5. (From NewspaperSG)  
+  
+—. “[Income Tax Deduction for Glamour](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19490120-1.2.81).” 20 January 1949, 6. (From NewspaperSG)
+
+—. “[Club Aids Cabaret Girls](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19530827-1.2.50).” 27 August 1953, 5. (From NewspaperSG)
+
+_Singapore Free Press &amp; Mercantile Advertiser (1884–1942)_. “[Cabaret Girls’ Association](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19391107-1.2.56).” 7 November 1939, 5. (From NewspaperSG)
+
+_Straits Times._ “[Amusements: Happy World](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19391117-1.2.56).” 17 November 1939, 10. (From NewspaperSG)
+
+—. “[Singapore Needs More Schools](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19471123-1.2.41).” 23 November 1947, 3. (From NewspaperSG)
+
+—. “[Cabaret Girls Help in Registration](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19481030-1.2.45).” 30 October 1948, 3. (From NewspaperSG)
+
+—. “[Kindest Cut by Women Barbers](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19491023-1.2.88).” 23 October 1949, 9. (From NewspaperSG)
+
+—. Hwang, T. F. and Dorothy Thatcher. “[Nancy and Judy, Two Women With Courage](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19520824-1.2.77).” 24 August 1952, 8. (From NewspaperSG)
+
+—. “[Victim of an Abortionist Takes Secret to the Grave](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19621103-1.2.100).” 3 November 1962, 11. (From NewspaperSG)
+
+—. “[Bar Girl Tells of an Abortionist, Then Dies](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19621221-1.2.70).” 21 December 1962, 13. (From NewspaperSG)
+
+—. Yeo, Robert. “[Something To Celebrate a Landmark Musical](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19880703-1.2.84.17.4).” 3 July 1988, 10. (From NewspaperSG)
+
+—. Foo, Adeline. “[The ‘Lancing’ Girls From a Glitzy World](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20160430-1.2.45.3).” 30 April 2016, 45. (From NewspaperSG)&nbsp;
+
+Ong, K. S. “Introduction.” In Michael Chiang. [_Private Parts and Other Play Things: A Collection of Popular Singapore Comedies_](https://eresources.nlb.gov.sg/publicationsg/details.html?uuid=bc2e28ed-a180-4ca5-a8ee-20bdf801f293). Singapore: Landmark Books, 1993. (From PublicationSG)
+
+Pan, Xinghua 潘星华, ed., _Xiaoshi de hua xiao: Guojia yongyuan de zichan_ [消失的华校: 国家永远的资产](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200946548) \[Disappeared Chinese schools: a permanent asset to the country\]. 新加坡: 华校校友会联合会出版, 2014. (Call no. Chinese RSING 371.82995105957 XSD)
+
+Wang Zhenchun 王振. _Gen de xilie_ 根的系列 \[Root series\]. 新加坡: 胜友书局, 1988, 153. (From PublicationSG)
+
+#### **NOTES**
+       
+1 Adeline Foo, “[The ‘Lancing’ Girls From a Glitzy World](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20160430-1.2.45.3),” _Straits Times_, 30 April 2016, 45. (From NewspaperSG) &nbsp;
+
+2 National Library Board, [_The Three Worlds (__大世界、新世界、繁__华世界__) : Great, New and Happy_](https://www.nlb.gov.sg/main/music-article-detail?cmsuuid=3925be16-a91a-4900-bf6f-bbf143f1667b), 2012. (From National Library Online)
+
+3 “[Amusements: Happy World](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19391117-1.2.56),” _Straits Times_, 17 November 1939, 10. (From NewspaperSG)
+
+4 “[Musical Practices of Jazz](https://www.nlb.gov.sg/main/music-article-detail?cmsuuid=10e84565-9ec5-4c1b-b0f9-1ef6e969edbb),” in Eugene I. Dairianathan, _A Narrative History of Music in Singapore 1819 to the Present_ (From National Library Online)
+
+5 Interview with Ong Swee Neo on 24 February 2016.
+
+6 Interview with Wong Siew Wah on 11 February 2016.
+
+7 “[Pay Talks: Clerks Not Satisfied](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19520823-1.2.55),” _Singapore Free Press_, 23 August 1952, 5. (From NewspaperSG)
+
+8 “[Cabaret Girls’ Association](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19391107-1.2.56),” _Singapore Free Press &amp; Mercantile Advertiser (1884–1942)_, 7 November 1939, 5. (From NewspaperSG)
+
+9 “[Income Tax Deduction for Glamour](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19490120-1.2.81),” _Singapore Free Press_, 20 January 1949, 6. (From NewspaperSG)
+
+10 T. F. Hwang and Dorothy Thatcher, “[Nancy and Judy, Two Women With Courage](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19520824-1.2.77),” _Straits Times_, 24 August 1952, 8. (From NewspaperSG)
+
+11 Christopher Ong, [Rose Chan](https://www.nlb.gov.sg/main/article-detail?cmsuuid=5889a8cb-951d-4fe6-8bfd-f9a48baa4db3), _Singapore Infopedia_, published May 2021.
+
+12 Ong, [Rose Chan](https://www.nlb.gov.sg/main/article-detail?cmsuuid=5889a8cb-951d-4fe6-8bfd-f9a48baa4db3).
+
+13 Interview with Edward Khoo on 30 May 2016.
+
+14 “[Club Aids Cabaret Girls](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19530827-1.2.50),” _Singapore Free Press_, 27 August 1953, 5. (From NewspaperSG)
+
+15 Wang Zhenchun 王振春, _Gen de xilie_ 根的系列 \[Root series\] (新加坡: 胜友书局, 1988), 153. (From PublicationSG)
+
+16 Wang, _Gen de xilie_, 153.
+
+17 “Wu guo de yi duo qing lian heyanna” [舞国的一朵青春何燕娜](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19470125-1.2.148.1) \[He Yanna, a green lotus in the dancing country\], _Nanyang Siang Pau_ 南洋商报, 25 January 1947, 12. (From NewspaperSG)
+
+18 “Kuai yue xuexiao cishan wu hou xuqianhong fangwen ji” [快乐学校慈善舞后许千红访问记](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19470610-1.2.47) \[Interview with Happy School Charity Dance Queen Xu Qianhong\],&nbsp;&nbsp;&nbsp; _Nanyang Siang Pau_ 南洋商报, 10 June 1947, 5. (From NewspaperSG)
+
+19 “[Singapore Needs More Schools](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19471123-1.2.41),” _Straits Times_, 23 November 1947, 3. (From NewspaperSG)
+
+20 Kua Kia Soong, [_The Chinese Schools of Malaysia: A Protean Saga_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13224576) (Selangor Darul Ehsan, Malaysia: Malaysian Centre for Ethnic Centre, New Era College, 2008), 31, 34. (Call no. RSEA 371.009595 KUA)
+
+21 Pan Xinghua 潘星华, ed., _Xiaoshi de hua xiao: Guojia yongyuan de zichan_ [消失的华校: 国家永远的资产](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200946548) \[Disappeared Chinese schools: a permanent asset to the country\] (新加坡: 华校校友会联合会出版, 2014), 140–41. (Call no. Chinese RSING 371.82995105957 XSD)
+
+22 “Wunu xuqianhong goumai nu an panjue beigao qian bao wubai yuan zai yi niannei bude zaifan” [舞女许千红购买女案判决被告签保五百元在一年内不得再犯](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19490314-1.2.31.2) \[In the case of dancing girl Xu Qianhong purchasing a girl, the defendant was sentenced to a five-hundred-yuan bond and must not commit the crime again within one year\], _Nanyang Siang Pau_ 南洋商报, 14 March 1949, 6. (From NewspaperSG)
+
+23 Wang, _Gen de xilie_, 149.
+
+24 Wang, _Gen de xilie_, 149.
+
+25 “Wunu de xinli xue” [舞女的心理学](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19370201-1.2.125) \[The psychology of dancing girls\], _Nanyang Siang Pau_ 南洋商报, 1 February 1937, 24. (From NewspaperSG)
+
+26 “Wunu shenghuo ku huan chang re bing” 舞女生活苦患肠热病 \[Dancing girl suffers from enteric fever\], _Nanyang Siang Pau_ 南洋商报, 1 July 1938, 6. (From NewspaperSG)
+
+27 “Wunu de shenghuo” [舞女的生活](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19761130-1.2.30.2.1) \[Dancer's life\], _Nanyang Siang Pau_ 南洋商报, 30 November 1976, 10. (From NewspaperSG)
+
+28 “[Cabaret Girls Help in Registration](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19481030-1.2.45),” _Straits Times_, 30 October 1948, 3. (From NewspaperSG)
+
+29 “[Kindest Cut by Women Barbers](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19491023-1.2.88),” _Straits Times_, 23 October 1949, 9. (From NewspaperSG)
+
+30 [Anonymous 2](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/7edc94e9-1160-11e3-83d5-0050568939ad), oral history interview by Daniel Chew, 27 February 1985, MP3 audio, Reels/Discs 1–4, National Archives of Singapore (accession no. 000529)
+
+31 “[Victim of an Abortionist Takes Secret to the Grave](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19621103-1.2.100),” _Straits Times_, 3 November 1962, 11. (From NewspaperSG)
+
+32 “[Bar Girl Tells of an Abortionist, Then Dies](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19621221-1.2.70),” _Straits Times_, 21 December 1962, 13. (From NewspaperSG)
+
+33 Yeo Toon Joo et al., “[Glamour Only a Façade](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19721005-1.2.75.2),” _New Nation_, 5 October 1972, 11. (From NewspaperSG)
+
+34 Lee Chor Lin and Chung May Khuen, [_In the Mood for Cheongsam_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14331327) (Singapore: Editions Didier Millet: National Museum of Singapore, 2012), 28. (Call no. RSING 391.00951 LEE-\[CUS\])
+
+35 Peter Lee, [_Sarong Kebaya: Peranakan Fashion in an Interconnected World, 1500–1950_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200480968) (Singapore: Asian Civilisations Museum, 2014), 286–87. (Call no. RSING 391.20899510595 LEE-\[CUS\])
+
+36 Lee and Chung, [_In the Mood for Cheongsam_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14331327), 53.
+
+37 Lee, [_Sarong Kebaya: Peranakan Fashion in an Interconnected World, 1500–1950_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200480968), 285.
+
+38 Paul Abisheganaden, [_Notes Across the Years: Anecdotes From a Musical Life_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12654614) (Singapore: Unipress, 2005), 9. (Call no. RSING 780.95957 AB)
+
+39 Abdul Samad Said, [_T. Pinkie’s Floor: A Nostalgic Play_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12096523) (Kuala Lumpur: Institut Terjemahan Negara Malaysia, 2010), 120–21. (Call no. RSEA 899. 282 ABD)
+
+40 Abdul Samad Said, [_T. Pinkie’s Floor: A Nostalgic Play_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12096523), 120–22.
+
+41 Abdul Samad Said, [_T. Pinkie’s Floor: A Nostalgic Play_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12096523), 123.
+
+42 Abdul Samad Said, [_T. Pinkie’s Floor: A Nostalgic Play_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12096523), 124–25.
+
+43 Robert Yeo, “[Something To Celebrate a Landmark Musical](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19880703-1.2.84.17.4),” _Straits Times_, 3 July 1988, 10. (From NewspaperSG)
+
+44 Ong K. S., “Introduction,” in Michael Chiang, [_Private Parts and Other Play Things: A Collection of Popular Singapore Comedies_](https://eresources.nlb.gov.sg/publicationsg/details.html?uuid=bc2e28ed-a180-4ca5-a8ee-20bdf801f293) (Singapore: Landmark Books, 1993), 8. (From PublicationSG)
+
+
