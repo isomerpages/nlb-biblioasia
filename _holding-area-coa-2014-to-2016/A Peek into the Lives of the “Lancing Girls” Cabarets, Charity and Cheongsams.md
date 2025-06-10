@@ -494,6 +494,15 @@ beauties with very little makeup. They loved music and they loved dancing.
 It doesn’t matter what I was singing, whether it was Western, Cantonese or
 Baba Malay songs, they would know the steps.”
 
+<img src="/images/COA%202014%20to%202016/Lancing%20Girls/A_photograph_of_five_dances_3.jpg" style="width:80%;">
+ <div style="background-color: white;">A photograph of five dance
+hostesses taken inside a cabaret in
+the 1930s. The women are dressed
+in figure-hugging cheongsams with
+daring side slits that showed off
+their legs.<i> Courtesy
+of Mr and Mrs Lee Kip Lee.</i></div>
+
 In the 1950s, when Singapore was a regional distribution centre for textiles
 because of its entrepôt trade and free port status, women were able to buy
 the trendiest fabrics for their *cheongsams*, which were also made affordable
