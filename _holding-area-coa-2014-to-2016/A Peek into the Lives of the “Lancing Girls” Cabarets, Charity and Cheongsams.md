@@ -9,7 +9,7 @@ Who were the so-called “lancing” girls1 of yesteryear? They were the
 glamorous dance hostesses from the cabarets of the “big three” worlds of
 entertainment in Singapore’s past – New World, Great World and Happy
 World – who made a living from “lancing”, a Singlish mispronunciation
-of “dancing”. This paper examines the way of life of these women in the
+of “dancing”.1 This paper examines the way of life of these women in the
 cabaret industry, with a focus on two of them who founded The Happy
 School, a Chinese school that provided free education for street kids after
 World War II . In a bid to regain their pride after having been being looked
@@ -32,7 +32,7 @@ the last of the three to open, in 1936. Its name was changed to Gay World in
 These parks were similar in their entertainment offerings, which included
 shopping, film-going and dining. But what really drew the crowds were
 the dance halls or cabarets. New World was famous for Bunga Tanjong,
-a cabaret that hosted bands playing Malay tunes and* ronggeng* (a couple
+a cabaret that hosted bands playing Malay tunes and *ronggeng* (a couple
 dance likely to have originated from Java, also known as *joget*). Great World
 attracted British servicemen and the middle class, with free films, Peking
 operas as well as wrestling and boxing matches. Happy World was known
