@@ -145,7 +145,7 @@ Chan had married at 16 to a much older man. After her marriage failed,
 she turned to the cabaret for a job at Happy World. She taught herself to
 dance and was a quick learner. She finished runner-up in the All-Women’s
 Ballroom Dancing Championships in 1949 and was also runner-up in the
-Miss Singapore Beauty Contest in 1950.11 Chan’s colourful life attracted
+Miss Singapore Beauty Contest in 1950.[^11] Chan’s colourful life attracted
 a great deal of attention in the 1950s. She was known as the “Queen of
 Striptease” for her sensational acts, which included a circus stunt known as
 the “Python Act” where she would wrestle with a python.
@@ -153,7 +153,7 @@ the “Python Act” where she would wrestle with a python.
 In August 2008, Singapore theatre group The Theatre Practice staged
 *I am Queen*, a play that told the story of stripper Betty Yong, a character
 modelled after Chan. A biopic of Chan’s life, titled *Chinese Rose*, was to have
-been directed by Eric Khoo.12 Leading actress, Christy Yow, had been cast,
+been directed by Eric Khoo..[^12] Leading actress, Christy Yow, had been cast,
 but for reasons unannounced, the project was called off by late 2009.
 
 The third person I interviewed was Chan’s boyfriend, Edward Khoo, 85. He
@@ -162,7 +162,7 @@ backed down from a challenge. “She was very popular in the cabaret,” he said
 “I had heard about her, and I wanted to meet her. I finally got the chance.
 After I got to know her well, I asked her to be my girlfriend. She agreed and
 I put her up in a house in 40F Lorong Melayu at Sims Avenue East. But we
-were never married as my parents objected to our relationship.”13
+were never married as my parents objected to our relationship”..[^13]
 
 I spoke with Khoo for almost an hour and his face would light up each time
 he mentioned the cabaret and his relationship with Chan.
@@ -172,7 +172,7 @@ Dancing was not all that the cabaret women did. Not many people are
 aware that they were also involved in charity. In a report dated 27 August
 1953 in *The Singapore Free Press*, an amount of $13,000 had been raised
 by the Singapore Dance Hostesses’ Association in aid of the Nanyang
-University building fund.14 The funds were raised through the staging
+University building fund..[^14] The funds were raised through the staging
 of several charity night performances. Rose Chan was part of the act
 that raised this huge amount of money. Her generosity earned her the
 nickname “Charity Queen”. She would donate to charities, including
@@ -203,7 +203,7 @@ and stationery the children needed would be provided free. The first
 enrolment in 1946 attracted about 90 students. Operating out of a rented
 shophouse at Lorong 14, He named the school “Happy Charity School” in
 an obvious nod to the most popular landmark in Geylang then – the Happy
-World amusement park.15
+World amusement park..[^15]
 
 The first principal of the school was Wong Guo Liang, a well-known
 calligrapher. When Wong first met He at the interview for the position, he
@@ -213,7 +213,7 @@ to the responsibility of being a role model for his charges and should never
 visit the Happy World Cabaret. He also related how her impoverished past,
 which led to her missing out on an education, made her determined to help
 the children. Education would give the children the means to do something
-worthy with their lives.16
+worthy with their lives..[^16]
 
 Giving insight into how He viewed her position as a cabaret dancer, she
 frankly shared her frustration that “the profession of dancing girls is seen
@@ -221,7 +221,7 @@ as inferior. If society can abandon its prejudice and be rational, they would
 understand that they have misunderstood the art of dancing. They are being
 cruel to cabaret girls due to their ignorance. If dancing is corrupt, then this
 negative image comes not from the dancers, but the vice that tarnishes the
-environment. To punish and shame the girls is ridiculous.”17
+environment. To punish and shame the girls is ridiculous”..[^17]
 
 The co-founder of Happy Charity School, Xu Qian Hong, was a great
 beauty with a generous heart. An article in the *Nanyang Siang Pau* dated
@@ -229,14 +229,14 @@ beauty with a generous heart. An article in the *Nanyang Siang Pau* dated
 Cantonese, Xu became a cabaret girl at 16 to help her father support her younger siblings after the death of her mother. She only had two years of
 Chinese education at the time. A widely sought-after cabaret girl, Xu earned
 about $1,000 a month; from out of her own pocket, she would donate about
-$500 each month to help the school defray its expenses.18
+$500 each month to help the school defray its expenses..[^18]
 
 What the two women and their comrades did was admirable in the context
 of the urgent need to keep children off the streets. An article in *The Straits
 Times* dated 23 November 1947 declared that “Singapore Needs More
 Schools”. The number of children in need of schooling had increased because
 of the interruption of the Japanese Occupation. There were approximately
-90,000 children of school-going age.19 The situation was made worse by the
+90,000 children of school-going age..[^19] The situation was made worse by the
 fact that there were not enough teachers, and a shortage of books. During
 the Japanese Occupation, the Japanese had targeted the Chinese for the
 most severe and cruel treatment. Anti-Japanese imperialist campaigns led
@@ -245,7 +245,7 @@ the occupation had ensured their persecution. Chinese schoolteachers
 were systematically targeted during the Sook Ching (“ethnic cleansing”)
 massacre, with many taken away and killed. Chinese books were also not
 spared. An estimated 200,000 books were destroyed by the Japanese during
-this period.20
+this period..[^20]
 
 In the face of this dire situation, He and Xu became actively involved in the
 running of the school from 1946 to 1950. With increasing challenges such as
