@@ -622,3 +622,10 @@ For Wong Siew Wah, Ong Swee Neo, Edward Khoo and Johnny Chia, I
 have no doubt that if any of them were given a chance to relive their pasts
 all over again, they would not change a single thing.
 
+<div>
+<b>Adeline Foo</b> is the author of The Diary of Amos Lee series of children’s books and
+a graduate of New York University’s Tisch Asia School of the Arts and the National
+University of Singapore. She is currently an Adjunct Lecturer at Ngee Ann Polytechnic,
+where she teaches non-fiction writing in the Faculty of Arts. She was on the Library
+Consultative Panel (2015–8) as well as Advisory Panel for the School of the Arts’ Literary
+Arts Programme (2015–8).</div>
