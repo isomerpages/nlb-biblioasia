@@ -134,3 +134,158 @@ three children, two girls and a boy. She also converted to Catholicism. Ong
 married her sweetheart and had five children. Today, she is a grandmother
 of 11.
 
+#### **An Infamous Cabaret Girl Turned Striptease Dancer**
+
+Many people I spoke to about cabaret life wanted to talk about the most
+famous cabaret striptease dancer of the time, Rose Chan. And although
+there was grudging respect for Chan’s daring to strip fully, the person
+commenting would invariably call her an impolite term.
+
+Chan had married at 16 to a much older man. After her marriage failed,
+she turned to the cabaret for a job at Happy World. She taught herself to
+dance and was a quick learner. She finished runner-up in the All-Women’s
+Ballroom Dancing Championships in 1949 and was also runner-up in the
+Miss Singapore Beauty Contest in 1950.11 Chan’s colourful life attracted
+a great deal of attention in the 1950s. She was known as the “Queen of
+Striptease” for her sensational acts, which included a circus stunt known as
+the “Python Act” where she would wrestle with a python.
+
+In August 2008, Singapore theatre group The Theatre Practice staged
+*I am Queen*, a play that told the story of stripper Betty Yong, a character
+modelled after Chan. A biopic of Chan’s life, titled *Chinese Rose*, was to have
+been directed by Eric Khoo.12 Leading actress, Christy Yow, had been cast,
+but for reasons unannounced, the project was called off by late 2009.
+
+The third person I interviewed was Chan’s boyfriend, Edward Khoo, 85. He
+had known Chan for five years in the 1950s. He wistfully recalled that Rose was a feisty character. She loved to dance, she loved music, and she never
+backed down from a challenge. “She was very popular in the cabaret,” he said.
+“I had heard about her, and I wanted to meet her. I finally got the chance.
+After I got to know her well, I asked her to be my girlfriend. She agreed and
+I put her up in a house in 40F Lorong Melayu at Sims Avenue East. But we
+were never married as my parents objected to our relationship.”13
+
+I spoke with Khoo for almost an hour and his face would light up each time
+he mentioned the cabaret and his relationship with Chan.
+
+#### **Cabaret Girls and Their Hearts of Gold**
+Dancing was not all that the cabaret women did. Not many people are
+aware that they were also involved in charity. In a report dated 27 August
+1953 in *The Singapore Free Press*, an amount of $13,000 had been raised
+by the Singapore Dance Hostesses’ Association in aid of the Nanyang
+University building fund.14 The funds were raised through the staging
+of several charity night performances. Rose Chan was part of the act
+that raised this huge amount of money. Her generosity earned her the
+nickname “Charity Queen”. She would donate to charities, including
+those benefiting children, old folks’ homes, tuberculosis patients and
+the blind.
+
+But Chan wasn’t the only “Charity Queen” in the cabaret world. There were
+also two other women who had piqued my interest: the founders of The
+Happy School that once stood in Geylang, He Yan Na and Xu Qian Hong.
+
+#### **The Happy School**
+In 1946, local cabaret girls from Happy World in Geylang answered the
+call from one of their “big sisters”, He Yan Na, to donate money to set
+up a Chinese-medium school. He, the chairperson of the Happy World
+Dance Troupe (which later became Happy Opera Society), had been
+deeply troubled by the large number of idle children roaming the streets of
+Geylang. These were the unfortunate children who had had their education
+interrupted by the war.
+
+He roped in her fellow dance hostesses to set up the school. She became the
+chairperson of the school’s board of governors, and another dancer, Xu Qian
+Hong, was recruited to be the accounts head. Other girls from the Happy
+Opera Society became board members.
+
+Determined that the children should receive a free education, He insisted
+that no school fees would be collected from the families. Whatever books
+and stationery the children needed would be provided free. The first
+enrolment in 1946 attracted about 90 students. Operating out of a rented
+shophouse at Lorong 14, He named the school “Happy Charity School” in
+an obvious nod to the most popular landmark in Geylang then – the Happy
+World amusement park.15
+
+The first principal of the school was Wong Guo Liang, a well-known
+calligrapher. When Wong first met He at the interview for the position, he
+related how he had been struck by her charisma and generosity. She in turn
+advised him that as a principal, he had to set a good example and live up
+to the responsibility of being a role model for his charges and should never
+visit the Happy World Cabaret. He also related how her impoverished past,
+which led to her missing out on an education, made her determined to help
+the children. Education would give the children the means to do something
+worthy with their lives.16
+
+Giving insight into how He viewed her position as a cabaret dancer, she
+frankly shared her frustration that “the profession of dancing girls is seen
+as inferior. If society can abandon its prejudice and be rational, they would
+understand that they have misunderstood the art of dancing. They are being
+cruel to cabaret girls due to their ignorance. If dancing is corrupt, then this
+negative image comes not from the dancers, but the vice that tarnishes the
+environment. To punish and shame the girls is ridiculous.”17
+
+The co-founder of Happy Charity School, Xu Qian Hong, was a great
+beauty with a generous heart. An article in the *Nanyang Siang Pau* dated
+10 June 1947 described her as “enchanting” and “energetic” by turns. A
+Cantonese, Xu became a cabaret girl at 16 to help her father support her younger siblings after the death of her mother. She only had two years of
+Chinese education at the time. A widely sought-after cabaret girl, Xu earned
+about $1,000 a month; from out of her own pocket, she would donate about
+$500 each month to help the school defray its expenses.18
+
+What the two women and their comrades did was admirable in the context
+of the urgent need to keep children off the streets. An article in *The Straits
+Times* dated 23 November 1947 declared that “Singapore Needs More
+Schools”. The number of children in need of schooling had increased because
+of the interruption of the Japanese Occupation. There were approximately
+90,000 children of school-going age.19 The situation was made worse by the
+fact that there were not enough teachers, and a shortage of books. During
+the Japanese Occupation, the Japanese had targeted the Chinese for the
+most severe and cruel treatment. Anti-Japanese imperialist campaigns led
+by the Chinese community and Chinese schools in Malaya throughout
+the occupation had ensured their persecution. Chinese schoolteachers
+were systematically targeted during the Sook Ching (“ethnic cleansing”)
+massacre, with many taken away and killed. Chinese books were also not
+spared. An estimated 200,000 books were destroyed by the Japanese during
+this period.20
+
+In the face of this dire situation, He and Xu became actively involved in the
+running of the school from 1946 to 1950. With increasing challenges such as
+rising costs and the need to recruit more teachers, the school implemented a
+school fee of between $2.50 and $3.50 per student in January 1950. Following
+this, the Happy Charity School relinquished its “free” status and renamed
+itself The Happy School.21
+
+For unknown reasons, the two women left the school after this period.
+Their whereabouts were untraceable, although a search in the Chinese press
+revealed a controversial court case that involved Xu, over the purchase of a female child whom she had wanted to adopt.22 In my interview with former
+cabaret girl Ong Swee Neo, I learnt that there had been a general acceptance
+back in the day for unmarried cabaret women to adopt young female
+children to be groomed as cabaret girls. I assumed that these girls would
+then be expected to take care of their adoptive mothers after their retirement
+from the cabaret world.
+
+The Happy School operated out of Geylang from 1946 to 1979. It moved once
+in 1947, from Unit 24 on Lorong 14 to Units 67 and 69 along the same lane,
+after receiving financial help from George Lee, the owner of Happy World.
+
+In 1946, The Happy School started with 90 students. By 1959, its enrolment
+had ballooned to about 600 students. Due to insufficient space at its
+Geylang premises, some lessons had to be conducted out of two rented
+classrooms at the Mountbatten Community Centre.23
+
+Unfortunately, in the 1960s and 1970s, the school experienced a similar
+trend seen across all Chinese-medium schools in Singapore. As Singapore’s
+economy shifted towards industrialisation and English became recognised
+as the de facto working language, more and more parents decided to send
+their children to English-stream schools. Dwindling student numbers at
+Chinese-medium schools islandwide eventually sounded the death knell for
+The Happy School.
+
+In 1979, the school announced its closure. By that time, The Happy School
+had amassed $400,000 in savings, which it donated to 10 Chinese schools
+and grassroots organisations.24 After 33 years, The Happy School closed a
+chapter in the history of free schools for children in Singapore. Without a
+doubt, its inception was graced with a touch of glamour (and controversy)
+by cabaret women. Yet, were it not for the founders He and Xu, many of
+these destitute children would not have had a primary school education in
+post-war Singapore.
+
