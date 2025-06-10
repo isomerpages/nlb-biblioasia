@@ -520,3 +520,105 @@ places for family outings. The dance halls, with their soothing sounds of
 mellifluous saxes, complemented by the steady rhythms of a slow foxtrot or
 waltz, could have been the scenes of seduction where many men fell in love
 with dance music and the cabaret girls.38
+
+#### **Bunga Tanjong and the Perempuan Joget**
+When examining the influences of the cabaret, I came across a play that
+was inspired by a well-known cabaret in the Malay-speaking world.
+Originally titled *Lantai T. Pinkie*, the play was written by A. Samad Said,
+a Malaysian playwright and author. The Institut Terjemahan Negara
+Malaysia Berhad republished the play as a book in 2010, with permission
+from Dewan Bahasa dan Pustaka, Malaysia, using their translated work
+published in 2003.
+
+*T. Pinkie’s Floor* was first performed by Teater Kami from 5 to 6 June 1996
+at the World Trade Centre Auditorium, Singapore, as part of the Singapore
+Arts Festival.
+
+A. Samad Said revealed in an interview that he had written the play based
+on his memories of the early 1950s and 1960s, when he used to frequent
+New World. He identified himself as one of the gangsters who kept watch
+over his “base” around Maude, Syed Alwi, Owen, Kerbau and Hindoo
+roads, noting that the area was “a busy world unto itself with hotels and the
+entertainment district, and there were gangsters all over!”39
+
+This is the missing element in descriptions of the cabaret world: one of
+danger, where secret societies cast their long shadows over the cabaret girls.
+In the words of A. Samad Said, gang members “struck terror and [were]
+greatly feared”.
+
+The cabaret referred to in the area was none other than Bunga Tanjong. A gang
+that was mentioned was the “Gang Jambatan Merah” (Red Bridge Gang),
+which operated around the Newton area. A. Samad Said worked for this gang
+and was tasked to collect “protection money” from the *joget* dancers under his
+watch. He described this world as one where “there were always fights, between
+gangs, between the police and the army”. A. Samad Said also added that “if a
+fight broke out, the police would arrive in their lorry”.40
+
+A. Samad Said described writing *T. Pinkie’s Floor* as a “document of an era,
+a decade, a way of life that when it’s no longer there, it becomes important.
+You take all those stories, they all happened around me, and they become a
+documentary about an era”.41
+
+The play traces a series of flashbacks unveiled by former accordion player
+Muhairi Tirus to a young man named Loiran Sindu, who was piecing
+together the story of a lost world that his mother had shared before she
+died. This lost world comprised the lives of several *perempuan joget*(female
+dancers) of a “dance floor” (hence the title of the play). T. Pinkie was later
+revealed to be Loiran’s grandmother, told through a sad account of how she
+had been raped and held captive by a gangster head.
+
+In a wistful sharing of how A. Samad Said arrived at the name of “Pinkie”
+for the protagonist, he described her as the “most beautiful woman” in the
+*joget* world. “Her beauty is represented by her pink *baju* (blouse). Pinkie
+epitomises all the desires, the impossibilities, the love and the brawls of men
+who want her. Men went to the* joget* world to possess her. If they could,
+they would buy 12 or 20 tickets and they would want to give all of them to
+Pinkie so that they would be the only one to dance the night away with her.
+They would want to have sole monopoly over Pinkie and this was the source
+of all the fights and brawls. Pinkie of New World was an amalgamation of
+many beautiful women of the *joget* world.”42
+
+#### **The “Singaporeanness” of the Cabaret**
+In 1988, as part of the Singapore Arts Festival, four young men got together
+for the first time to write, produce, cast and direct Singapore’s first English
+musical, *Beauty World*. Writer Michael Chiang, 33, songwriter Dick Lee, 31,
+choreographer Mohd Najip Ali, 23, and director Ong Keng Sen, 24, would
+later go on to headline the local creative arts scene for several decades. The
+cast also featured a stellar line-up of actors, with Claire Wong, Ivan Heng
+and Jacinta Abisheganaden, who would all become familiar names in
+Singapore’s playwriting and acting community.
+
+Set in the 1960s, the story is about a small-town Malaysian girl from
+Batu Pahat, Ivy Chan Poh Choo, who travels to Singapore to uncover
+the mystery of her parentage. Her only clue to finding her father is a jade
+locket inscribed with the words “Beauty World”, which leads her to join the
+seedy cabaret where most of the action unfolds. Within the complex world
+of caterwauling cabaret girls and lecherous men, Ivy has to keep her head
+above water and still remain true to her boyfriend, Frankie.
+
+The inspiration for the musical was drawn from the cabaret world of the
+1960s, replete with music and lyrics reminiscent of the *cha-cha-cha* dance
+era. In the style of Broadway, *Beauty World*’s tunes were catchy, although
+some criticised that the songwriter had written 1980s contemporary pop
+music for a 1960s world.43
+
+When asked why the story was set in a cabaret, Chiang shared that it was
+“something nostalgic that was also unique to Singapore”. In a commentary
+made in *Private Parts &amp; Other Play Things: A Collection of Popular Singapore
+Comedies* by *Michael Chiang*, Ong Keng Sen said that “the performance of
+Michael’s plays are charged with a raw community energy and pride which
+reverberates in the theatre. His work crosses language and racial boundaries
+by celebrating our ‘Singaporeanness’ rather than by dividing us.”44
+
+Echoing the sentiments of this statement, I would say how true it is that
+the cabaret is a celebration of a slice of our unique history; its indelible
+“Singaporeanness” is affirmed by the attitudes of the people I interviewed
+for this paper. Every one of them spoke of the past with whimsical
+longing, and even if their lives had been scarred by pain and struggle,
+they shared their stories with the quiet pride of having experienced life in
+the cabaret.
+
+For Wong Siew Wah, Ong Swee Neo, Edward Khoo and Johnny Chia, I
+have no doubt that if any of them were given a chance to relive their pasts
+all over again, they would not change a single thing.
+
