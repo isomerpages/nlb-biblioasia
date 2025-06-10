@@ -245,18 +245,18 @@ the occupation had ensured their persecution. Chinese schoolteachers
 were systematically targeted during the Sook Ching (“ethnic cleansing”)
 massacre, with many taken away and killed. Chinese books were also not
 spared. An estimated 200,000 books were destroyed by the Japanese during
-this period..[^20]
+this period.[^20]
 
 In the face of this dire situation, He and Xu became actively involved in the
 running of the school from 1946 to 1950. With increasing challenges such as
 rising costs and the need to recruit more teachers, the school implemented a
 school fee of between $2.50 and $3.50 per student in January 1950. Following
 this, the Happy Charity School relinquished its “free” status and renamed
-itself The Happy School.21
+itself The Happy School.[^21]
 
 For unknown reasons, the two women left the school after this period.
 Their whereabouts were untraceable, although a search in the Chinese press
-revealed a controversial court case that involved Xu, over the purchase of a female child whom she had wanted to adopt.22 In my interview with former
+revealed a controversial court case that involved Xu, over the purchase of a female child whom she had wanted to adopt.[^22] In my interview with former
 cabaret girl Ong Swee Neo, I learnt that there had been a general acceptance
 back in the day for unmarried cabaret women to adopt young female
 children to be groomed as cabaret girls. I assumed that these girls would
@@ -270,7 +270,7 @@ after receiving financial help from George Lee, the owner of Happy World.
 In 1946, The Happy School started with 90 students. By 1959, its enrolment
 had ballooned to about 600 students. Due to insufficient space at its
 Geylang premises, some lessons had to be conducted out of two rented
-classrooms at the Mountbatten Community Centre.23
+classrooms at the Mountbatten Community Centre.[^23]
 
 Unfortunately, in the 1960s and 1970s, the school experienced a similar
 trend seen across all Chinese-medium schools in Singapore. As Singapore’s
@@ -282,7 +282,7 @@ The Happy School.
 
 In 1979, the school announced its closure. By that time, The Happy School
 had amassed $400,000 in savings, which it donated to 10 Chinese schools
-and grassroots organisations.24 After 33 years, The Happy School closed a
+and grassroots organisations.[^24] After 33 years, The Happy School closed a
 chapter in the history of free schools for children in Singapore. Without a
 doubt, its inception was graced with a touch of glamour (and controversy)
 by cabaret women. Yet, were it not for the founders He and Xu, many of
@@ -301,7 +301,7 @@ feminine wiles. These girls were very popular with older, rich men who
 were liberal with their wallets. The second category of girls were excellent
 dancers. Though not very pretty, they prided themselves on doing their jobs
 professionally, which meant dancing and giving their customers an enjoyable
-time. These girls usually drew younger men, mostly students.25
+time. These girls usually drew younger men, mostly students.[^25]
 
 The 1938 letter lamented the working conditions of cabaret women:
 long working hours in close confines with large crowds, and being often
@@ -310,7 +310,7 @@ illnesses such as typhoid fever (characterised by fever, diarrhoea, headaches
 and intestinal inflammation). When admitted to the hospital, they could
 only stay in third-class wards, the cheapest form of medical care available,
 as the dance halls that employed these girls made no provision to help
-them financially.26
+them financially.[^26]
 
 The 1976 letter shared a brutally honest account of cabaret life: beneath
 all the glitz and attraction of the cabaret, life was tough. To survive, the
@@ -325,7 +325,7 @@ very few girls would be able to reject them. Some girls became mistresses
 (kept women) of their customers. This was something affirmed by Rose Chan’s then-boyfriend, Khoo, during my interview with him. The letter
 ended with the remark that “the ugly profession of the cabaret girls is an
 open secret; *mai yin* (卖淫) [to prostitute oneself for money] is a commonly
-accepted practice”.27
+accepted practice”.[^27]
 
 So if working in the cabaret subjected women to prejudice and numerous
 “sacrifices”, why did they take on such jobs? To answer this question, let’s
@@ -343,7 +343,7 @@ stated that up to 300 women were on the payroll to perform these tasks.
 Work started at 8am and went on until 5pm, with 15-minute breaks every
 two hours to provide relief. A large proportion of the 112 female clerks doing
 this registration job were cabaret girls who needed a day job to supplement
-their earnings from the cabaret.28 Besides the cabaret girls, there were also
+their earnings from the cabaret.[^28] Besides the cabaret girls, there were also
 European and Eurasian housewives, as well as girls who had just left school.
 Filling out 160 cards a day, the girls knew that it was only a temporary job
 that would end once the NRO achieved its target to issue all ICs. What else
@@ -356,7 +356,7 @@ the job of a barber was not easy. An hour’s schedule of service involved hair
 clipping, shaving, shampooing and ear cleaning. Tending to an average of 50
 heads a day, the female barber had to be on her feet for 15 hours daily. They
 would only get to keep 70 percent of their takings if they lived on their own; if they were boarding with their salon proprietors, they would only get to
-keep 50 percent, with the balance used to pay for food and material costs.29
+keep 50 percent, with the balance used to pay for food and material costs.[^29]
 
 The average salary for a female barber was about $100 a month, a pittance
 compared to working in the cabaret. From 1955 to 1959, other jobs that
@@ -409,7 +409,7 @@ customer’s experience:
    These “Mummies” would take a cut from the booking ($2 out of<br>
    $12 an hour, this was the rate after the war). The standard of the<br>
    cabaret dropped when [the] more respectable girls left the cabaret<br>
-   because of this*.30
+   because of this*.[^30]
 	 
 
 If the cabaret girls were expecting, they would find it hard to continue
@@ -423,13 +423,13 @@ the name of the medical worker who had operated on her. Complications
 from the botched operation led to tetanus, which eventually took her life.
 This was not Pinto’s first operation by the same man, and it was revealed
 that the clandestine operation had been performed in the “staff quarters” of
-the General Hospital at New Bridge Road.31
+the General Hospital at New Bridge Road.[^31]
 
 Another article in *The Straits Times*, “Bar Girl Tells of An Abortionist, Then
 Dies”, dated 21 December 1962, reported that 21-year-old Lim Ai Choo went
 to a woman who ran a private maternity service in a garment shop at North
 Bridge Road. Lim paid $100 for the abortion, and was rushed to Kandang Kerbau Maternity Hospital when problems arose. Despite an emergency
-operation to save her, she died.32
+operation to save her, she died.[^32]
 
 Besides losing their moral compasses, the cabaret girls were also subjected
 to another harsh reality of the job – losing their appeal to customers as
@@ -438,7 +438,7 @@ report, headlined “Glamour Only a Façade”, on the lives of cabaret girls,
 stating that “age is a hard fact of a cabaret girl’s life. The older she gets, the
 less marketable she is. The old and unsuccessful usually turn to full-time
 prostitution. Only about 5 percent marry and settle down to security and a
-home of their own.”33
+home of their own”.[^33]
 
 #### **The Glamour of a “Lancing Girl”**
 
@@ -474,12 +474,12 @@ sectors, with the *cheongsam* being worn as a symbol of strong feminine
 expression. After World War II , more women turned to wearing western
 clothes, but there were those who remained faithful to the traditional *cheongsam*, preferring its tighter fit. But due to influences from the west,
 the cheongsam was embellished and accessorised in line with European and
-American trends.34
+American trends.[^34]
 
 For Straits Chinese (Peranakan) women, or *nonyas*, the *sarong kebaya*
 became increasingly reserved only for special occasions, such as weddings.
 However, older Peranakan women still wore the outfit on a daily basis,
-throughout the 1950s up until the late 20th century.35
+throughout the 1950s up until the late 20th century.[^35]
 
 With the influx of Cantonese and Shanghainese tailors who set up shop
 along Orchard Road, High Street, North Bridge Road, Bras Basah Road and
@@ -509,7 +509,7 @@ the trendiest fabrics for their *cheongsams*, which were also made affordable
 with the introduction of synthetic textiles. Artificial fabrics were popular
 because they were easy to wear and maintain. Durable, lightweight and not
 easily creased, they made *cheongsam*-wearing hassle-free for the working
-cabaret girl.36
+cabaret girl.[^36]
 
 By the 1960s, there emerged the concept of a “national dress” that appeared
 on fashion models in advertisements. In Malaysia, women were encouraged
@@ -518,7 +518,7 @@ to wear the modern *sarong kebaya*, often together with other models in
 women would wear the *cheongsam*, and Indian women would wear the *sari*. Fashionable pairings, such as wearing a *sarong* and *kebaya* made of the
 same *batik* fabric, emerged around this period and inspired the uniform for
 Malaysia-Singapore Airlines. *Batik* was also adapted for swimwear, westernstyle
-dresses, and of course, the ubiquitous *cheongsam*.37
+dresses, and of course, the ubiquitous *cheongsam*.[^37]
 
 Fashion aside, Singapore’s music scene, too, could claim to have been
 influenced by the cabarets. From the 1920s to the 1940s, music in churches
@@ -538,7 +538,7 @@ restaurants, jugglers, magicians, *wayang* and sporting events, were ideal
 places for family outings. The dance halls, with their soothing sounds of
 mellifluous saxes, complemented by the steady rhythms of a slow foxtrot or
 waltz, could have been the scenes of seduction where many men fell in love
-with dance music and the cabaret girls.38
+with dance music and the cabaret girls.[^38]
 
 #### **Bunga Tanjong and the Perempuan Joget**
 When examining the influences of the cabaret, I came across a play that
@@ -558,7 +558,7 @@ on his memories of the early 1950s and 1960s, when he used to frequent
 New World. He identified himself as one of the gangsters who kept watch
 over his “base” around Maude, Syed Alwi, Owen, Kerbau and Hindoo
 roads, noting that the area was “a busy world unto itself with hotels and the
-entertainment district, and there were gangsters all over!”39
+entertainment district, and there were gangsters all over!”[^39]
 
 This is the missing element in descriptions of the cabaret world: one of
 danger, where secret societies cast their long shadows over the cabaret girls.
@@ -571,12 +571,12 @@ which operated around the Newton area. A. Samad Said worked for this gang
 and was tasked to collect “protection money” from the *joget* dancers under his
 watch. He described this world as one where “there were always fights, between
 gangs, between the police and the army”. A. Samad Said also added that “if a
-fight broke out, the police would arrive in their lorry”.40
+fight broke out, the police would arrive in their lorry”.[^40]
 
 A. Samad Said described writing *T. Pinkie’s Floor* as a “document of an era,
 a decade, a way of life that when it’s no longer there, it becomes important.
 You take all those stories, they all happened around me, and they become a
-documentary about an era”.41
+documentary about an era”.[^41]
 
 The play traces a series of flashbacks unveiled by former accordion player
 Muhairi Tirus to a young man named Loiran Sindu, who was piecing
@@ -595,7 +595,7 @@ they would buy 12 or 20 tickets and they would want to give all of them to
 Pinkie so that they would be the only one to dance the night away with her.
 They would want to have sole monopoly over Pinkie and this was the source
 of all the fights and brawls. Pinkie of New World was an amalgamation of
-many beautiful women of the *joget* world.”42
+many beautiful women of the *joget* world.”.[^42]
 
 #### **The “Singaporeanness” of the Cabaret**
 In 1988, as part of the Singapore Arts Festival, four young men got together
@@ -619,7 +619,7 @@ The inspiration for the musical was drawn from the cabaret world of the
 1960s, replete with music and lyrics reminiscent of the *cha-cha-cha* dance
 era. In the style of Broadway, *Beauty World*’s tunes were catchy, although
 some criticised that the songwriter had written 1980s contemporary pop
-music for a 1960s world.43
+music for a 1960s world.[^43]
 
 When asked why the story was set in a cabaret, Chiang shared that it was
 “something nostalgic that was also unique to Singapore”. In a commentary
@@ -627,7 +627,7 @@ made in *Private Parts &amp; Other Play Things: A Collection of Popular Singapor
 Comedies* by *Michael Chiang*, Ong Keng Sen said that “the performance of
 Michael’s plays are charged with a raw community energy and pride which
 reverberates in the theatre. His work crosses language and racial boundaries
-by celebrating our ‘Singaporeanness’ rather than by dividing us.”44
+by celebrating our ‘Singaporeanness’ rather than by dividing us”.[^44]
 
 Echoing the sentiments of this statement, I would say how true it is that
 the cabaret is a celebration of a slice of our unique history; its indelible
