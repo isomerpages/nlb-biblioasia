@@ -732,59 +732,59 @@ Wang Zhenchun 王振. _Gen de xilie_ 根的系列 \[Root series\]. 新加坡: �
 
 [^4]: "[Musical Practices of Jazz](https://www.nlb.gov.sg/main/music-article-detail?cmsuuid=10e84565-9ec5-4c1b-b0f9-1ef6e969edbb),” in Eugene I. Dairianathan, _A Narrative History of Music in Singapore 1819 to the Present_ (From National Library Online)
 
-5 Interview with Ong Swee Neo on 24 February 2016.
+[^5]: Interview with Ong Swee Neo on 24 February 2016.
 
-6 Interview with Wong Siew Wah on 11 February 2016.
+[^6]: Interview with Wong Siew Wah on 11 February 2016.
 
-7 “[Pay Talks: Clerks Not Satisfied](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19520823-1.2.55),” _Singapore Free Press_, 23 August 1952, 5. (From NewspaperSG)
+[^7]: “[Pay Talks: Clerks Not Satisfied](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19520823-1.2.55),” _Singapore Free Press_, 23 August 1952, 5. (From NewspaperSG)
 
-8 “[Cabaret Girls’ Association](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19391107-1.2.56),” _Singapore Free Press &amp; Mercantile Advertiser (1884–1942)_, 7 November 1939, 5. (From NewspaperSG)
+[^8]: "[Cabaret Girls’ Association](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19391107-1.2.56),” _Singapore Free Press &amp; Mercantile Advertiser (1884–1942)_, 7 November 1939, 5. (From NewspaperSG)
 
-9 “[Income Tax Deduction for Glamour](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19490120-1.2.81),” _Singapore Free Press_, 20 January 1949, 6. (From NewspaperSG)
+[^9]: “[Income Tax Deduction for Glamour](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19490120-1.2.81),” _Singapore Free Press_, 20 January 1949, 6. (From NewspaperSG)
 
-10 T. F. Hwang and Dorothy Thatcher, “[Nancy and Judy, Two Women With Courage](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19520824-1.2.77),” _Straits Times_, 24 August 1952, 8. (From NewspaperSG)
+[^10]: T. F. Hwang and Dorothy Thatcher, “[Nancy and Judy, Two Women With Courage](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19520824-1.2.77),” _Straits Times_, 24 August 1952, 8. (From NewspaperSG)
 
-11 Christopher Ong, [Rose Chan](https://www.nlb.gov.sg/main/article-detail?cmsuuid=5889a8cb-951d-4fe6-8bfd-f9a48baa4db3), _Singapore Infopedia_, published May 2021.
+[^11]: Christopher Ong, [Rose Chan](https://www.nlb.gov.sg/main/article-detail?cmsuuid=5889a8cb-951d-4fe6-8bfd-f9a48baa4db3), _Singapore Infopedia_, published May 2021.
 
-12 Ong, [Rose Chan](https://www.nlb.gov.sg/main/article-detail?cmsuuid=5889a8cb-951d-4fe6-8bfd-f9a48baa4db3).
+[^12]: Ong, [Rose Chan](https://www.nlb.gov.sg/main/article-detail?cmsuuid=5889a8cb-951d-4fe6-8bfd-f9a48baa4db3).
 
-13 Interview with Edward Khoo on 30 May 2016.
+[^13]: Interview with Edward Khoo on 30 May 2016.
 
-14 “[Club Aids Cabaret Girls](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19530827-1.2.50),” _Singapore Free Press_, 27 August 1953, 5. (From NewspaperSG)
+[^14]: “[Club Aids Cabaret Girls](https://eresources.nlb.gov.sg/newspapers/digitised/article/freepress19530827-1.2.50),” _Singapore Free Press_, 27 August 1953, 5. (From NewspaperSG)
 
-15 Wang Zhenchun 王振春, _Gen de xilie_ 根的系列 \[Root series\] (新加坡: 胜友书局, 1988), 153. (From PublicationSG)
+[^15]: Wang Zhenchun 王振春, _Gen de xilie_ 根的系列 \[Root series\] (新加坡: 胜友书局, 1988), 153. (From PublicationSG)
 
-16 Wang, _Gen de xilie_, 153.
+[^16]: Wang, _Gen de xilie_, 153.
 
-17 “Wu guo de yi duo qing lian heyanna” [舞国的一朵青春何燕娜](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19470125-1.2.148.1) \[He Yanna, a green lotus in the dancing country\], _Nanyang Siang Pau_ 南洋商报, 25 January 1947, 12. (From NewspaperSG)
+[^17]: “Wu guo de yi duo qing lian heyanna” [舞国的一朵青春何燕娜](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19470125-1.2.148.1) \[He Yanna, a green lotus in the dancing country\], _Nanyang Siang Pau_ 南洋商报, 25 January 1947, 12. (From NewspaperSG)
 
-18 “Kuai yue xuexiao cishan wu hou xuqianhong fangwen ji” [快乐学校慈善舞后许千红访问记](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19470610-1.2.47) \[Interview with Happy School Charity Dance Queen Xu Qianhong\],&nbsp;&nbsp;&nbsp; _Nanyang Siang Pau_ 南洋商报, 10 June 1947, 5. (From NewspaperSG)
+[^18]: “Kuai yue xuexiao cishan wu hou xuqianhong fangwen ji” [快乐学校慈善舞后许千红访问记](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19470610-1.2.47) \[Interview with Happy School Charity Dance Queen Xu Qianhong\],&nbsp;&nbsp;&nbsp; _Nanyang Siang Pau_ 南洋商报, 10 June 1947, 5. (From NewspaperSG)
 
-19 “[Singapore Needs More Schools](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19471123-1.2.41),” _Straits Times_, 23 November 1947, 3. (From NewspaperSG)
+[^19]: “[Singapore Needs More Schools](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19471123-1.2.41),” _Straits Times_, 23 November 1947, 3. (From NewspaperSG)
 
-20 Kua Kia Soong, [_The Chinese Schools of Malaysia: A Protean Saga_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13224576) (Selangor Darul Ehsan, Malaysia: Malaysian Centre for Ethnic Centre, New Era College, 2008), 31, 34. (Call no. RSEA 371.009595 KUA)
+[^20]: Kua Kia Soong, [_The Chinese Schools of Malaysia: A Protean Saga_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13224576) (Selangor Darul Ehsan, Malaysia: Malaysian Centre for Ethnic Centre, New Era College, 2008), 31, 34. (Call no. RSEA 371.009595 KUA)
 
-21 Pan Xinghua 潘星华, ed., _Xiaoshi de hua xiao: Guojia yongyuan de zichan_ [消失的华校: 国家永远的资产](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200946548) \[Disappeared Chinese schools: a permanent asset to the country\] (新加坡: 华校校友会联合会出版, 2014), 140–41. (Call no. Chinese RSING 371.82995105957 XSD)
+[^21]: Pan Xinghua 潘星华, ed., _Xiaoshi de hua xiao: Guojia yongyuan de zichan_ [消失的华校: 国家永远的资产](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200946548) \[Disappeared Chinese schools: a permanent asset to the country\] (新加坡: 华校校友会联合会出版, 2014), 140–41. (Call no. Chinese RSING 371.82995105957 XSD)
 
-22 “Wunu xuqianhong goumai nu an panjue beigao qian bao wubai yuan zai yi niannei bude zaifan” [舞女许千红购买女案判决被告签保五百元在一年内不得再犯](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19490314-1.2.31.2) \[In the case of dancing girl Xu Qianhong purchasing a girl, the defendant was sentenced to a five-hundred-yuan bond and must not commit the crime again within one year\], _Nanyang Siang Pau_ 南洋商报, 14 March 1949, 6. (From NewspaperSG)
+[^22]: “Wunu xuqianhong goumai nu an panjue beigao qian bao wubai yuan zai yi niannei bude zaifan” [舞女许千红购买女案判决被告签保五百元在一年内不得再犯](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19490314-1.2.31.2) \[In the case of dancing girl Xu Qianhong purchasing a girl, the defendant was sentenced to a five-hundred-yuan bond and must not commit the crime again within one year\], _Nanyang Siang Pau_ 南洋商报, 14 March 1949, 6. (From NewspaperSG)
 
-23 Wang, _Gen de xilie_, 149.
+[^23]: Wang, _Gen de xilie_, 149.
 
-24 Wang, _Gen de xilie_, 149.
+[^24]: Wang, _Gen de xilie_, 149.
 
-25 “Wunu de xinli xue” [舞女的心理学](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19370201-1.2.125) \[The psychology of dancing girls\], _Nanyang Siang Pau_ 南洋商报, 1 February 1937, 24. (From NewspaperSG)
+[^25]: “Wunu de xinli xue” [舞女的心理学](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19370201-1.2.125) \[The psychology of dancing girls\], _Nanyang Siang Pau_ 南洋商报, 1 February 1937, 24. (From NewspaperSG)
 
-26 “Wunu shenghuo ku huan chang re bing” 舞女生活苦患肠热病 \[Dancing girl suffers from enteric fever\], _Nanyang Siang Pau_ 南洋商报, 1 July 1938, 6. (From NewspaperSG)
+[^26]: “Wunu shenghuo ku huan chang re bing” 舞女生活苦患肠热病 \[Dancing girl suffers from enteric fever\], _Nanyang Siang Pau_ 南洋商报, 1 July 1938, 6. (From NewspaperSG)
 
-27 “Wunu de shenghuo” [舞女的生活](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19761130-1.2.30.2.1) \[Dancer's life\], _Nanyang Siang Pau_ 南洋商报, 30 November 1976, 10. (From NewspaperSG)
+[^27]: “Wunu de shenghuo” [舞女的生活](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19761130-1.2.30.2.1) \[Dancer's life\], _Nanyang Siang Pau_ 南洋商报, 30 November 1976, 10. (From NewspaperSG)
 
-28 “[Cabaret Girls Help in Registration](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19481030-1.2.45),” _Straits Times_, 30 October 1948, 3. (From NewspaperSG)
+[^28]: “[Cabaret Girls Help in Registration](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19481030-1.2.45),” _Straits Times_, 30 October 1948, 3. (From NewspaperSG)
 
-29 “[Kindest Cut by Women Barbers](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19491023-1.2.88),” _Straits Times_, 23 October 1949, 9. (From NewspaperSG)
+[^29]: “[Kindest Cut by Women Barbers](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19491023-1.2.88),” _Straits Times_, 23 October 1949, 9. (From NewspaperSG)
 
-30 [Anonymous 2](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/7edc94e9-1160-11e3-83d5-0050568939ad), oral history interview by Daniel Chew, 27 February 1985, MP3 audio, Reels/Discs 1–4, National Archives of Singapore (accession no. 000529)
+[^30]: [Anonymous 2](https://www.nas.gov.sg/archivesonline/oral_history_interviews/record-details/7edc94e9-1160-11e3-83d5-0050568939ad), oral history interview by Daniel Chew, 27 February 1985, MP3 audio, Reels/Discs 1–4, National Archives of Singapore (accession no. 000529)
 
-31 “[Victim of an Abortionist Takes Secret to the Grave](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19621103-1.2.100),” _Straits Times_, 3 November 1962, 11. (From NewspaperSG)
+[^31]: “[Victim of an Abortionist Takes Secret to the Grave](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19621103-1.2.100),” _Straits Times_, 3 November 1962, 11. (From NewspaperSG)
 
 32 “[Bar Girl Tells of an Abortionist, Then Dies](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19621221-1.2.70),” _Straits Times_, 21 December 1962, 13. (From NewspaperSG)
 
