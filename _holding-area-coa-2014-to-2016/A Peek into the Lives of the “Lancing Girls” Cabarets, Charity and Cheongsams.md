@@ -49,7 +49,7 @@ hotchpotch of music lovers forming dance bands.
 The repertoire of music ranged from Broadway to those by famous
 composers such as Cole Porter and George Gershwin, to the music of the
 swing era; anything that would draw in the masses – even local music
-played by* keroncong* (an Indonesian musical style) bands – filled the air of
+played by *keroncong* (an Indonesian musical style) bands – filled the air of
 dance halls. Some of the more popular big bands included those led by
 Cecil Wilson, Gerry Soliano, H.H. Tan and Peggy Tan, Sid Gomez and
 Alfredo (Fred) Libio, who had his “all-star” Filipino Swing Band.4
