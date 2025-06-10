@@ -457,6 +457,13 @@ fashion trends featured in entertainment magazines. They naturally looked
 towards Shanghai and Hong Kong for inspiration, as these cities were
 acknowledged as the leading fashion capitals of the time.
 
+<img src="/images/COA%202014%20to%202016/Lancing%20Girls/Eurasian_and_Chinese_2.jpg" style="width:80%;">
+ <div style="background-color: white;">Eurasian and Chinese dance hostesses of the New World Cabaret posing for this photograph in the 1930s.<i> Courtesy
+of Mr and Mrs Lee Kip Lee.</i></div>
+
+							
+
+
 What did Chinese women wear back in the 1920s? The *samfoo* (or *samfu*)
 was the preferred casual attire, comprising a short-sleeved cotton blouse
 with a Mandarin collar and frog-buttons, with a matching pair of trousers
