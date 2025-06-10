@@ -24,8 +24,8 @@ and Happy Worlds.
 
 #### **Background of the Cabaret World**
 The New World Amusement Park was the first to open in 1923 at Jalan
-Besar. Great World Amusement Park at Kim Seng Road opened next in
-1931. Happy World, located between Mountbatten and Geylang roads, was
+Besar. Great World Amusement Park at Kim Seng Road opened next in 1931. 
+Happy World, located between Mountbatten and Geylang roads, was
 the last of the three to open, in 1936. Its name was changed to Gay World in
 1964 when cinema operator Eng Wah took over the ownership.2
 
@@ -53,4 +53,3 @@ played by* keroncong* (an Indonesian musical style) bands – filled the air of
 dance halls. Some of the more popular big bands included those led by
 Cecil Wilson, Gerry Soliano, H.H. Tan and Peggy Tan, Sid Gomez and
 Alfredo (Fred) Libio, who had his “all-star” Filipino Swing Band.4
-
