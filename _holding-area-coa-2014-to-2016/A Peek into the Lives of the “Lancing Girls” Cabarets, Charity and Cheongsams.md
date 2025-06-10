@@ -288,4 +288,3 @@ doubt, its inception was graced with a touch of glamour (and controversy)
 by cabaret women. Yet, were it not for the founders He and Xu, many of
 these destitute children would not have had a primary school education in
 post-war Singapore.
-
