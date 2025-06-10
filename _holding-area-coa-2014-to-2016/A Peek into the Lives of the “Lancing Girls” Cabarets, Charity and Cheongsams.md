@@ -330,3 +330,85 @@ accepted practice”.27
 So if working in the cabaret subjected women to prejudice and numerous
 “sacrifices”, why did they take on such jobs? To answer this question, let’s
 take a look at the jobs that were available for women back in the 1940s.
+
+#### **The Lot of Women in the Past**
+In 1948 when the National Registration Ordinance was passed, the National
+Registration Office (NRO ) of the colonial government began issuing paper
+ICs (identity cards) to identify individuals born in Singapore. Women
+signed up as clerks to help with the registration process. At a rate of $6 a
+day, they reported for work in the writing section of the NRO Headquarters
+at Beach Road, filling out particulars of individuals to process their new
+ICs. In an article published in *The Straits Times* on 30 October 1948, it was
+stated that up to 300 women were on the payroll to perform these tasks.
+Work started at 8am and went on until 5pm, with 15-minute breaks every
+two hours to provide relief. A large proportion of the 112 female clerks doing
+this registration job were cabaret girls who needed a day job to supplement
+their earnings from the cabaret.28 Besides the cabaret girls, there were also
+European and Eurasian housewives, as well as girls who had just left school.
+Filling out 160 cards a day, the girls knew that it was only a temporary job
+that would end once the NRO achieved its target to issue all ICs. What else
+could women do then?
+
+There were alternative jobs, such as working as barbers. In a *Straits Times*
+article dated 23 October 1949, titled “Kindest Cut by Women Barbers”, an
+estimated one-third of about 2,000 Chinese barbers were young women. But
+the job of a barber was not easy. An hour’s schedule of service involved hair
+clipping, shaving, shampooing and ear cleaning. Tending to an average of 50
+heads a day, the female barber had to be on her feet for 15 hours daily. They
+would only get to keep 70 percent of their takings if they lived on their own; if they were boarding with their salon proprietors, they would only get to
+keep 50 percent, with the balance used to pay for food and material costs.29
+
+The average salary for a female barber was about $100 a month, a pittance
+compared to working in the cabaret. From 1955 to 1959, other jobs that
+were available to women included working as seamstresses, sales assistants,
+tour guides, singers in the dance halls and restaurant waitresses. If a girl
+was educated, she could consider becoming an office secretary or a private
+tutor. Objectively, these jobs did not pay as well as that of a cabaret dance
+girl. So if a woman needed cash urgently, cabaret dancing provided a
+means to quick and good money.
+
+Most of the cabaret girls probably thought they could take care of
+themselves. But Khoo and Wong shared that it was easy to be led astray;
+they knew of cabaret girls who had become pregnant on the job. But
+because they wanted to keep on dancing, they risked their lives when they
+chose to undergo abortions. In an abortion, complications could arise,
+such as getting lacerations in the womb or being left with an incomplete,
+septic abortion that could lead to severe infection. There were legalised
+clinics to turn to, such as the “well-known” clinic in Geylang managed
+by a Dr Harold Chan who was quoted as one that women turned to. But
+sometimes, these girls turned to cheaper alternatives to terminate their
+pregnancies, such as unlicensed medical workers or private midwives, which
+sometimes led to disastrous consequences.
+
+Of course, it is not fair to generalise all cabaret women as “unchaste”, for
+want of a better word. But the negative perception towards these women
+was something difficult to shake off, as seen from this former cabaret
+customer’s experience:
+
+   *Happy World Cabaret was the most popular one among the<br>
+   three amusement parks. The cabaret girls would live near their<br>
+   workplace, so for those working in Happy World, they would live<br>
+   in Geylang. I would visit the cabaret five, or up to six, times a<br>
+   week. I was working as an engineer in the late 1930s; I had a car,<br>
+   so I could drive my friends around. Most of the customers attracted<br>
+   to Happy World were the Europeans. The band was really good,<br>
+   a Filipino one*.<br><br>
+
+   *When the Navy officers from America and Britain were on shore<br>
+   leave and came to visit the cabarets, fights would break out,<br>
+   usually over the choice of dance partners. One of the regulations<br>
+   of the cabaret was that a girl could not refuse a dance. She could<br>
+   complain if the customer was abusive or difficult, but she couldn’t<br>
+   say no. These girls were allowed to be booked out when “Mummies”<br>
+   came into the picture. They controlled these girls, where they lived,<br>
+   what they ate, et cetera*.<br><br>
+
+   *When the “Mummies” said the girls could leave the cabaret,<br>
+   usually near closing time, the girls would be booked out an hour<br>
+   before they left the cabaret, and this was when prostitution started.<br>
+   These “Mummies” would take a cut from the booking ($2 out of<br>
+   $12 an hour, this was the rate after the war). The standard of the<br>
+   cabaret dropped when [the] more respectable girls left the cabaret<br>
+   because of this*.30
+
+
