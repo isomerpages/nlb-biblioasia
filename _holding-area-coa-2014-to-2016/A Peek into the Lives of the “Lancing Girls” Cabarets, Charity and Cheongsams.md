@@ -410,5 +410,113 @@ customer’s experience:
    $12 an hour, this was the rate after the war). The standard of the<br>
    cabaret dropped when [the] more respectable girls left the cabaret<br>
    because of this*.30
+	 
 
+If the cabaret girls were expecting, they would find it hard to continue
+working, so they would usually choose to terminate the pregnancy. In
+the 3 November 1962 *The Straits Times* article “Victim of An Abortionist
+Takes Secret to the Grave”, it was apparent that there was a veil of secrecy
+surrounding the subject of abortions, even to the extent of shielding the
+identities of medical workers who conducted such procedures on the sly. In
+this case, a 34-year old bar waitress, Gertrude June Pinto, refused to reveal
+the name of the medical worker who had operated on her. Complications
+from the botched operation led to tetanus, which eventually took her life.
+This was not Pinto’s first operation by the same man, and it was revealed
+that the clandestine operation had been performed in the “staff quarters” of
+the General Hospital at New Bridge Road.31
 
+Another article in *The Straits Times*, “Bar Girl Tells of An Abortionist, Then
+Dies”, dated 21 December 1962, reported that 21-year-old Lim Ai Choo went
+to a woman who ran a private maternity service in a garment shop at North
+Bridge Road. Lim paid $100 for the abortion, and was rushed to Kandang Kerbau Maternity Hospital when problems arose. Despite an emergency
+operation to save her, she died.32
+
+Besides losing their moral compasses, the cabaret girls were also subjected
+to another harsh reality of the job – losing their appeal to customers as
+they advanced in age. On 5 October 1972, the *New Nation* ran a four-part
+report, headlined “Glamour Only a Façade”, on the lives of cabaret girls,
+stating that “age is a hard fact of a cabaret girl’s life. The older she gets, the
+less marketable she is. The old and unsuccessful usually turn to full-time
+prostitution. Only about 5 percent marry and settle down to security and a
+home of their own.”33
+
+#### **The Glamour of a “Lancing Girl”**
+
+Much has been said about the tough life of a cabaret girl. On a lighter
+note, let us look at the glitz associated with the cabaret. In particular, I was
+interested in seeing how cabaret girls dressed from the late 1920s to 1960s.
+Looking good and being well-groomed for the job meant spending on
+clothes, hair and cosmetics. Advertisements and pictures from newspapers
+provide a peek into the fashion of these cabaret girls (see Images 1, 2, 3).
+
+Like most women in Singapore, cabaret girls were probably influenced by
+fashion trends featured in entertainment magazines. They naturally looked
+towards Shanghai and Hong Kong for inspiration, as these cities were
+acknowledged as the leading fashion capitals of the time.
+
+What did Chinese women wear back in the 1920s? The *samfoo* (or *samfu*)
+was the preferred casual attire, comprising a short-sleeved cotton blouse
+with a Mandarin collar and frog-buttons, with a matching pair of trousers
+in the same material, which was usually pastel, printed cotton. By the
+1930s, women in the upper social classes had turned to the *cheongsam*, or
+*qipao* in Mandarin, as their preferred dress. This trend soon cut across all
+sectors, with the *cheongsam* being worn as a symbol of strong feminine
+expression. After World War II , more women turned to wearing western
+clothes, but there were those who remained faithful to the traditional *cheongsam*, preferring its tighter fit. But due to influences from the west,
+the cheongsam was embellished and accessorised in line with European and
+American trends.34
+
+For Straits Chinese (Peranakan) women, or *nonyas*, the *sarong kebaya*
+became increasingly reserved only for special occasions, such as weddings.
+However, older Peranakan women still wore the outfit on a daily basis,
+throughout the 1950s up until the late 20th century.35
+
+With the influx of Cantonese and Shanghainese tailors who set up shop
+along Orchard Road, High Street, North Bridge Road, Bras Basah Road and
+Bukit Timah, women who chose to wear *cheongsams* were offered top-class
+workmanship as well as a wide range of fabrics in *cheongsam* tailoring. There
+were also smaller tailor shops that catered to women with more modest means.
+
+Johnny Chia, in his 60s, a former singer at the Happy World Cabaret whom
+I interviewed, recalled the cabaret women he had known and respected:
+“They were so beautiful in their *cheongsams*! Many of them were natural
+beauties with very little makeup. They loved music and they loved dancing.
+It doesn’t matter what I was singing, whether it was Western, Cantonese or
+Baba Malay songs, they would know the steps.”
+
+In the 1950s, when Singapore was a regional distribution centre for textiles
+because of its entrepôt trade and free port status, women were able to buy
+the trendiest fabrics for their *cheongsams*, which were also made affordable
+with the introduction of synthetic textiles. Artificial fabrics were popular
+because they were easy to wear and maintain. Durable, lightweight and not
+easily creased, they made *cheongsam*-wearing hassle-free for the working
+cabaret girl.36
+
+By the 1960s, there emerged the concept of a “national dress” that appeared
+on fashion models in advertisements. In Malaysia, women were encouraged
+to wear the modern *sarong kebaya*, often together with other models in
+*cheongsam* and *sari*, as an expression of multiracial harmony. Chinese
+women would wear the *cheongsam*, and Indian women would wear the *sari*. Fashionable pairings, such as wearing a *sarong* and *kebaya* made of the
+same *batik* fabric, emerged around this period and inspired the uniform for
+Malaysia-Singapore Airlines. *Batik* was also adapted for swimwear, westernstyle
+dresses, and of course, the ubiquitous *cheongsam*.37
+
+Fashion aside, Singapore’s music scene, too, could claim to have been
+influenced by the cabarets. From the 1920s to the 1940s, music in churches
+and at the cinemas provided artistic enjoyment, but the venues of Singapore’s
+mass entertainment facilities, the dance halls, also provided a platform for the
+growth of music appreciation. The cabarets played a special role in hosting
+foreign bands set up along the lines of the European big bands. The audiences
+were able to listen to a properly constituted dance orchestra. Comprising three
+sections, with saxophones, trumpets and trombones, and rhythm provided
+by the pianos, drums, guitars and double bass, cabaret dance orchestras were
+no different from European or American swing bands, which were then all
+the rage. Popular music from the films of those days was standard fare for the
+bands and they made up “combos” of various descriptions.
+
+The three entertainment Worlds, with their multifarious attractions,
+restaurants, jugglers, magicians, *wayang* and sporting events, were ideal
+places for family outings. The dance halls, with their soothing sounds of
+mellifluous saxes, complemented by the steady rhythms of a slow foxtrot or
+waltz, could have been the scenes of seduction where many men fell in love
+with dance music and the cabaret girls.38
