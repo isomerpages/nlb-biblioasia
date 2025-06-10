@@ -447,7 +447,10 @@ note, let us look at the glitz associated with the cabaret. In particular, I was
 interested in seeing how cabaret girls dressed from the late 1920s to 1960s.
 Looking good and being well-groomed for the job meant spending on
 clothes, hair and cosmetics. Advertisements and pictures from newspapers
-provide a peek into the fashion of these cabaret girls (see Images 1, 2, 3).
+provide a peek into the fashion of these cabaret girls.
+
+<img src="/images/COA%202014%20to%202016/Lancing%20Girls/A_New_World_Cabaret_1.jpg" style="width:80%;">
+ <div style="background-color: white;">New World Cabaret advertisement announcing the arrival of cabaret girl Poh Seow Chan from Hong Kong’s leading cabaret, Dance Palace, <i>"Page 13 Advertisements Column 1" Morning Tribune, 28 September 1940, 13. (From NewspaperSG).</i></div>
 
 Like most women in Singapore, cabaret girls were probably influenced by
 fashion trends featured in entertainment magazines. They naturally looked
