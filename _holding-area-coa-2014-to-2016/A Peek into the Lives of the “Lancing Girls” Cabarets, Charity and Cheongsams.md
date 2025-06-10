@@ -288,3 +288,45 @@ doubt, its inception was graced with a touch of glamour (and controversy)
 by cabaret women. Yet, were it not for the founders He and Xu, many of
 these destitute children would not have had a primary school education in
 post-war Singapore.
+
+#### **Further Research into the Lives of Cabaret Girls**
+Being a cabaret woman back in the day came with some form of social
+stigma attached. In three letters that I came across, addressed to the
+Chinese news daily *Nanyang Siang Pau* in 1937, 1938 and 1976, the writers,
+all cabaret women, shared candid reflections of their lives. The first letter in
+1937 sought to paint an accurate picture of cabaret girls, placing them into
+two categories. The first comprised girls with mediocre dancing abilities
+but who were able to engage customers easily because of their looks and
+feminine wiles. These girls were very popular with older, rich men who
+were liberal with their wallets. The second category of girls were excellent
+dancers. Though not very pretty, they prided themselves on doing their jobs
+professionally, which meant dancing and giving their customers an enjoyable
+time. These girls usually drew younger men, mostly students.25
+
+The 1938 letter lamented the working conditions of cabaret women:
+long working hours in close confines with large crowds, and being often
+“manhandled” by customers. The women would fall sick easily, contracting
+illnesses such as typhoid fever (characterised by fever, diarrhoea, headaches
+and intestinal inflammation). When admitted to the hospital, they could
+only stay in third-class wards, the cheapest form of medical care available,
+as the dance halls that employed these girls made no provision to help
+them financially.26
+
+The 1976 letter shared a brutally honest account of cabaret life: beneath
+all the glitz and attraction of the cabaret, life was tough. To survive, the
+women had to be extremely wary of their customers. These men could
+be businessmen or secret society members, and offending the wrong men
+would mean trouble. To stay popular, girls were expected to be welldressed
+and to look beautiful. They had to have a demure disposition and
+be accommodating and caring. Girls had to learn to be subservient to the
+needs of the customer; it would help if they were eloquent or were adept
+at socialising. When it came to money or gifts, the writers claimed that
+very few girls would be able to reject them. Some girls became mistresses
+(kept women) of their customers. This was something affirmed by Rose Chan’s then-boyfriend, Khoo, during my interview with him. The letter
+ended with the remark that “the ugly profession of the cabaret girls is an
+open secret; *mai yin* (卖淫) [to prostitute oneself for money] is a commonly
+accepted practice”.27
+
+So if working in the cabaret subjected women to prejudice and numerous
+“sacrifices”, why did they take on such jobs? To answer this question, let’s
+take a look at the jobs that were available for women back in the 1940s.
