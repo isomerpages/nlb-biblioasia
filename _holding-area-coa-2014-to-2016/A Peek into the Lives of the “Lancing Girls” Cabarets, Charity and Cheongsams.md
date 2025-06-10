@@ -5,11 +5,11 @@ variant: markdown
 description: ""
 ---
 #### **Introduction**
-Who were the so-called “lancing” girls1 of yesteryear? They were the
+Who were the so-called “lancing” girls[^1] of yesteryear? They were the
 glamorous dance hostesses from the cabarets of the “big three” worlds of
 entertainment in Singapore’s past – New World, Great World and Happy
 World – who made a living from “lancing”, a Singlish mispronunciation
-of “dancing”.1 This paper examines the way of life of these women in the
+of “dancing”. This paper examines the way of life of these women in the
 cabaret industry, with a focus on two of them who founded The Happy
 School, a Chinese school that provided free education for street kids after
 World War II . In a bid to regain their pride after having been being looked
@@ -27,7 +27,7 @@ The New World Amusement Park was the first to open in 1923 at Jalan
 Besar. Great World Amusement Park at Kim Seng Road opened next in 1931. 
 Happy World, located between Mountbatten and Geylang roads, was
 the last of the three to open, in 1936. Its name was changed to Gay World in
-1964 when cinema operator Eng Wah took over the ownership.2
+1964 when cinema operator Eng Wah took over the ownership.[^2]
 
 These parks were similar in their entertainment offerings, which included
 shopping, film-going and dining. But what really drew the crowds were
@@ -36,7 +36,7 @@ a cabaret that hosted bands playing Malay tunes and *ronggeng* (a couple
 dance likely to have originated from Java, also known as *joget*). Great World
 attracted British servicemen and the middle class, with free films, Peking
 operas as well as wrestling and boxing matches. Happy World was known
-for its Sarong Kebaya Nights at the Happy Cabaret.3
+for its Sarong Kebaya Nights at the Happy Cabaret.[^3]
 
 During the war, all three worlds were converted into gambling farms. After
 the end of the Japanese Occupation, western music could once again be
@@ -52,7 +52,7 @@ swing era; anything that would draw in the masses – even local music
 played by *keroncong* (an Indonesian musical style) bands – filled the air of
 dance halls. Some of the more popular big bands included those led by
 Cecil Wilson, Gerry Soliano, H.H. Tan and Peggy Tan, Sid Gomez and
-Alfredo (Fred) Libio, who had his “all-star” Filipino Swing Band.4
+Alfredo (Fred) Libio, who had his “all-star” Filipino Swing Band.[^4]
 
 #### **Working in the Cabaret in the 1940s and 50s**
 So why were women drawn to work in the cabarets? Were they not afraid
@@ -70,19 +70,19 @@ Ong did not seem ashamed that she was 12 when she was brought into the
 cabaret. “The money was good. My mother kept all my earnings. All I had
 to do was sit, chat and dance. I was big-sized. No one could tell my real age.
 Customers were kind. They never forced me to drink hard liquor. I would
-only drink Green Spot or Red Lion orange crush.”5
+only drink Green Spot or Red Lion orange crush”.[^5] 
 
 Wong, 69, said, “My adoptive mother, Nancy Ho, worked as a ‘Mummy’ in
 the cabaret. Her job was to look after the ‘lancing’ girls under her and make
 sure that the clients did not try any funny business. These girls were also
 known as taxi dancers or *mou luei* in Cantonese. What I remembered about
-them was that they were tough women who had to adapt to hard times.”6
+them was that they were tough women who had to adapt to hard times".[^6]
 
 Further research into articles on the cabaret women made me realise that
 life for the “lancing” girl wasn’t all hunky-dory. An average cabaret girl
 could expect to earn about $200 a month, although the more popular girls
 had been known to bring home $1,000 a month. In comparison, a senior
-clerk working in the government in 1952 earned about $280 a month.7 For
+clerk working in the government in 1952 earned about $280 a month.[^7] For
 just about anyone back then, earnings of $1,000 a month was a lot of money!
 
 Cabaret girls were easily hired and fired. They had to be mindful of cabaret
@@ -98,7 +98,7 @@ the toilet was the safest place to seek refuge.
 
 In the first meeting of the Singapore Cabaret Girls’ Association held in
 1939 at Great World, 180 members were warmly welcomed – the real
-test, however, was realising “a potential membership of 500 girls”.8 The
+test, however, was realising “a potential membership of 500 girls”.[^8] The
 early batch of *mou luei* (meaning dancing girl in Cantonese) hailed
 from Shanghai and Hong Kong; they too had been members of similar
 associations. What could a member expect from the Singapore Cabaret
@@ -109,7 +109,7 @@ Exactly 10 years later, in 1949, membership figures at the Association stood
 at 600. When I asked Wong what she recalled of her mother, she said, “She
 was very active. She was always looking out for the girls.” As chairperson
 of the association, Ho had fought for her girls to receive a tax deduction of
-$125 a month “to keep up good appearances essential to their profession”.9
+$125 a month “to keep up good appearances essential to their profession”.[^9]
 The amount represented about 15 percent of their total earnings. This was
 unusual as the tax relief would have meant an official acceptance of the
 Association’s recommendation that the girls’ “dresses, shoes, hair setting and
@@ -119,7 +119,7 @@ Following this, Ho successfully lobbied for the Association to change
 their name to Singapore Dance Hostesses’ Association, which was a more
 accurate reflection of what they did. In addition, she raised money for the
 purchase and furnishing of a clubhouse at Lorong 10 Geylang, which cost
-close to $15,000, for use by her dance hostesses.10
+close to $15,000, for use by her dance hostesses.[^10]
 
 When I asked Ong if she missed the glitzy world of cabaret after her
 fiancé forced her to leave, she said no, adding: “We were poor, I had little
@@ -811,5 +811,3 @@ Wang Zhenchun 王振. _Gen de xilie_ 根的系列 \[Root series\]. 新加坡: �
 43 Robert Yeo, “[Something To Celebrate a Landmark Musical](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19880703-1.2.84.17.4),” _Straits Times_, 3 July 1988, 10. (From NewspaperSG)
 
 44 Ong K. S., “Introduction,” in Michael Chiang, [_Private Parts and Other Play Things: A Collection of Popular Singapore Comedies_](https://eresources.nlb.gov.sg/publicationsg/details.html?uuid=bc2e28ed-a180-4ca5-a8ee-20bdf801f293) (Singapore: Landmark Books, 1993), 8. (From PublicationSG)
-
-
