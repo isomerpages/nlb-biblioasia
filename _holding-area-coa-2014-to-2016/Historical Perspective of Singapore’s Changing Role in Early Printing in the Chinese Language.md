@@ -174,3 +174,14 @@ existing research and examine the changing role of Singapore as a place of
 Chinese publications during the entire 19th century.
 
 
+#### **Singapore as a Centre of Printing and Publishing of Chinese Materials Outside China (1825–1846)**
+
+Failing to establish a missionary enterprise among the Chinese in
+Guangdong, Robert Morrison (1782–1834) of the LMS turned his attention
+to Southeast Asia while waiting for an opportune time to return to a more
+open and welcoming China. Between 1815 and 1819, LMS established
+missions in Malacca, Penang, Batavia and Singapore.19 In 1815, William
+Milne founded the Malaccan mission and started printing Chinese Monthly Magazine, the first Chinese magazine published outside of China, which
+had a great impact on the emergence of modern Chinese magazines in
+mainland China.20
+
