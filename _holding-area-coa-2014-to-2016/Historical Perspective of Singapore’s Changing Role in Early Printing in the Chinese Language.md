@@ -181,7 +181,79 @@ Guangdong, Robert Morrison (1782–1834) of the LMS turned his attention
 to Southeast Asia while waiting for an opportune time to return to a more
 open and welcoming China. Between 1815 and 1819, LMS established
 missions in Malacca, Penang, Batavia and Singapore.19 In 1815, William
-Milne founded the Malaccan mission and started printing Chinese Monthly Magazine, the first Chinese magazine published outside of China, which
+Milne founded the Malaccan mission and started printing *Chinese Monthly Magazine*, the first Chinese magazine published outside of China, which
 had a great impact on the emergence of modern Chinese magazines in
 mainland China.20
+
+Between 1819 and 1822, LMS shifted part of its printing resources to
+Singapore.21 On 23 January 1823 Claudius Henry Thomsen set up a printing
+press to print English and Malay documents, as well as bind books. Samuel
+Milton, also from LMS , made an unauthorised acquisition trip to Calcutta,
+India on 8 December 1822 and returned with three printing presses that
+enabled the Mission Press to print in five languages: English, Siamese,
+Malay, Arabic and Chinese.22
+
+The Press operated from the Singapore Institute for a few years with Milton
+in charge, followed by Thomsen. Publications produced between 1825
+and 1826 were published under Institution Press or Mission Press. In 1825,
+the Press began to print religious tracts in the Chinese language. From
+then on, Singapore overtook Malacca as LMS ’ printing and publishing
+centre in Southeast Asia. Blocks for the reprint of Milne and Walter
+Henry Medhurst’s religious tracts in Chinese were engraved and printed in Singapore. The Press also published the first Chinese textbook, *Xunnu
+Sanzijing* (《训女三字经》), in 1832.23
+
+The ABCFM also undertook a special task to start the mass printing
+of a Chinese publication for the SDK , which was established by some
+foreign merchants and Protestant pioneers based in Guangzhou.24
+
+From 1815 to 1845, the Singapore mission presses (LMS and ABCFM)
+produced a total of 102 Chinese titles comprising religious pamphlets, as
+well as secular materials written in Chinese by Protestant missionaries and
+their assistants.25 Most of the publications were first printed, or reprinted,
+in Singapore. About half a million volumes were estimated to have been
+printed in Singapore,26 significantly more than those printed in Malacca,
+Batavia, Penang and Serampore.
+
+As a printing and publishing centre, LMS and ABCFM also developed a
+distribution network in Singapore. While in Malacca, Milne had established
+a distribution network through ships’ captains, as well as masters of junks
+and boats, with books reportedly reaching America, St. Helena, Bombay,
+Madras, Bengal, Burma, Tibet, China, Irkutsk, Japan, Cochin China, Siam,
+Kedah, Penang, the islands in the Malacca Straits, Bencoolen, Padang,
+Bangka, Borneo, the Moluccas, the Celebes, Java and Manila.27
+
+Milne’s successor followed the same modus operandi, but increasingly
+turned to ship captains and crew in Singapore. In addition, thousands of
+copies of the New Testament and religious tracts were distributed by Karl Gützlaff, Medhurst and Jacob Tomlin on their travels,28 and by all willing
+callers at the missions. American missionaries followed the same distribution
+pattern as the English, but with one innovation – they chartered a ship for
+wider literature dissemination rather than passively depending on ships
+visiting the harbour.29
+
+#### **Singapore’s Supporting Role in the “Information War” on China (1834–1834)**
+One of the outcomes of early Singapore imprints in the Chinese language
+reaching the Chinese in mainland China and Southeast Asia was the
+introduction of modern science and technology to the Chinese-speaking
+world. As early as 1833, when Gützlaff established the *East-West Magazine*
+in Guangzhou, his intention was to fill the Chinese magazine with “useful
+knowledge and science”. A year later he advocated the establishment of
+SDK and placed the Chinese magazine under its auspices. The magazine
+was subsequently printed in Singapore, as were the other titles published
+by the Society.30 Gützlaff defined scientific knowledge broadly to include
+history, geography and economics, subjects he frequently covered.31
+
+Active in the five years before the First Opium War, SDK represented a
+third form of British engagement with the Chinese, besides the diplomatic
+attempts of 1793 and 1816, and the First Opium War. The SDK waged
+an “information war” to penetrate the information barrier that the Qing
+government had established to contain European trade and missions.32
+
+In the early 1830s, foreign missionaries and merchants in Guangzhou
+believed that restrictions placed on Westerners were due to inadequate and
+insufficient knowledge of the West. Thus, they convened in November
+1834 and decided to engage in “warfare” that involved the publication of
+books in Chinese.33 Through the publication and distribution of these
+books, they hoped to give the Chinese access to information barred by the
+Qing government and believed this would enable them to understand the
+true character of the Europeans and be open to trade and proselytising.34
 
