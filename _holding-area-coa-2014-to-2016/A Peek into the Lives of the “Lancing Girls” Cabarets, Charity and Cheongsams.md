@@ -786,28 +786,28 @@ Wang Zhenchun 王振. _Gen de xilie_ 根的系列 \[Root series\]. 新加坡: �
 
 [^31]: “[Victim of an Abortionist Takes Secret to the Grave](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19621103-1.2.100),” _Straits Times_, 3 November 1962, 11. (From NewspaperSG)
 
-32 “[Bar Girl Tells of an Abortionist, Then Dies](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19621221-1.2.70),” _Straits Times_, 21 December 1962, 13. (From NewspaperSG)
+[^32]: “[Bar Girl Tells of an Abortionist, Then Dies](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19621221-1.2.70),” _Straits Times_, 21 December 1962, 13. (From NewspaperSG)
 
-33 Yeo Toon Joo et al., “[Glamour Only a Façade](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19721005-1.2.75.2),” _New Nation_, 5 October 1972, 11. (From NewspaperSG)
+[^33]: Yeo Toon Joo et al., “[Glamour Only a Façade](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19721005-1.2.75.2),” _New Nation_, 5 October 1972, 11. (From NewspaperSG)
 
-34 Lee Chor Lin and Chung May Khuen, [_In the Mood for Cheongsam_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14331327) (Singapore: Editions Didier Millet: National Museum of Singapore, 2012), 28. (Call no. RSING 391.00951 LEE-\[CUS\])
+[^34]: Lee Chor Lin and Chung May Khuen, [_In the Mood for Cheongsam_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14331327) (Singapore: Editions Didier Millet: National Museum of Singapore, 2012), 28. (Call no. RSING 391.00951 LEE-\[CUS\])
 
-35 Peter Lee, [_Sarong Kebaya: Peranakan Fashion in an Interconnected World, 1500–1950_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200480968) (Singapore: Asian Civilisations Museum, 2014), 286–87. (Call no. RSING 391.20899510595 LEE-\[CUS\])
+[^35]: Peter Lee, [_Sarong Kebaya: Peranakan Fashion in an Interconnected World, 1500–1950_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200480968) (Singapore: Asian Civilisations Museum, 2014), 286–87. (Call no. RSING 391.20899510595 LEE-\[CUS\])
 
-36 Lee and Chung, [_In the Mood for Cheongsam_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14331327), 53.
+[^36]: Lee and Chung, [_In the Mood for Cheongsam_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14331327), 53.
 
-37 Lee, [_Sarong Kebaya: Peranakan Fashion in an Interconnected World, 1500–1950_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200480968), 285.
+[^37]: Lee, [_Sarong Kebaya: Peranakan Fashion in an Interconnected World, 1500–1950_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200480968), 285.
 
-38 Paul Abisheganaden, [_Notes Across the Years: Anecdotes From a Musical Life_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12654614) (Singapore: Unipress, 2005), 9. (Call no. RSING 780.95957 AB)
+[^38]: Paul Abisheganaden, [_Notes Across the Years: Anecdotes From a Musical Life_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12654614) (Singapore: Unipress, 2005), 9. (Call no. RSING 780.95957 AB)
 
-39 Abdul Samad Said, [_T. Pinkie’s Floor: A Nostalgic Play_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12096523) (Kuala Lumpur: Institut Terjemahan Negara Malaysia, 2010), 120–21. (Call no. RSEA 899. 282 ABD)
+[^39]: Abdul Samad Said, [_T. Pinkie’s Floor: A Nostalgic Play_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12096523) (Kuala Lumpur: Institut Terjemahan Negara Malaysia, 2010), 120–21. (Call no. RSEA 899. 282 ABD)
 
-40 Abdul Samad Said, [_T. Pinkie’s Floor: A Nostalgic Play_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12096523), 120–22.
+[^40]: Abdul Samad Said, [_T. Pinkie’s Floor: A Nostalgic Play_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12096523), 120–22.
 
-41 Abdul Samad Said, [_T. Pinkie’s Floor: A Nostalgic Play_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12096523), 123.
+[^41]: Abdul Samad Said, [_T. Pinkie’s Floor: A Nostalgic Play_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12096523), 123.
 
-42 Abdul Samad Said, [_T. Pinkie’s Floor: A Nostalgic Play_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12096523), 124–25.
+[^42]: Abdul Samad Said, [_T. Pinkie’s Floor: A Nostalgic Play_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12096523), 124–25.
 
-43 Robert Yeo, “[Something To Celebrate a Landmark Musical](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19880703-1.2.84.17.4),” _Straits Times_, 3 July 1988, 10. (From NewspaperSG)
+[^43]: Robert Yeo, “[Something To Celebrate a Landmark Musical](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19880703-1.2.84.17.4),” _Straits Times_, 3 July 1988, 10. (From NewspaperSG)
 
-44 Ong K. S., “Introduction,” in Michael Chiang, [_Private Parts and Other Play Things: A Collection of Popular Singapore Comedies_](https://eresources.nlb.gov.sg/publicationsg/details.html?uuid=bc2e28ed-a180-4ca5-a8ee-20bdf801f293) (Singapore: Landmark Books, 1993), 8. (From PublicationSG)
+[^44]: Ong K. S., “Introduction,” in Michael Chiang, [_Private Parts and Other Play Things: A Collection of Popular Singapore Comedies_](https://eresources.nlb.gov.sg/publicationsg/details.html?uuid=bc2e28ed-a180-4ca5-a8ee-20bdf801f293) (Singapore: Landmark Books, 1993), 8. (From PublicationSG)
