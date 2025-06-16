@@ -243,8 +243,8 @@ pictured – first by the men plunging into the sea and later by revealing them
 below, picking up shells. It is, of course, a fiction story, to which a certain
 realism is lent by the portrayals by the natives".[^40]
 
-<img src="/images/COA%202014%20to%202016/Real%20Singapore/Stills_from_Samarang_1.jpg" style="width:100%;">
- <div style="background-color: white;">Stills from <i>Samarang. (Alhambra Magazine (Vol. 5, no. 5), 29 September 1933).</i></div>
+<img src="/images/COA%202014%20to%202016/Real%20Singapore/Stills_from_Samarang_1.jpg" style="width:80%;">
+ <div style="background-color: white;">Stills from <i>Samarang. Alhambra Magazine 5, no. 5 (29 September 1933).</i></div>
 
 Th e ethnographic tone of parts of the fi lm, particularly the introductory
 section filmed in a malay *kampong* (village), provided a veneer of
