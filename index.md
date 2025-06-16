@@ -9,14 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-21/issue-1/apr-jun-2025/liu-kang-bridge-east-west/
-      button: A Bridge Between East and West
+      url: /vol-21/issue-1/apr-jun-2025/1954-floods-singapore/
+      button: The Floods of 1954
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 21 Issue 1/Liu Kang The
-        Artist/HeroImage_LiuKangTheArtist_2.jpg
+      background: /images/Vol 21 Issue 1/Floods/HeroImage_Floods.jpg
       variant: center
   - infopic:
       title: Kung Tian Cheng, First Clerk of Raffles Library
