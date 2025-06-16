@@ -1125,6 +1125,6 @@ sections:
         President Yuan Shikai.
       button: LIBRARIAN, WRITER, EDITOR
       url: /vol-21/issue-2/jul-sep-2025/kung-tian-cheng-first-clerk-raffles-library/
-      image: /images/Vol 21 Issue 2/Kung Tian/kungtian_family.jpg
+      image: /images/Vol 21 Issue 2/Kung Tian/kungtian_family_v2.jpg
       alt: Kung Tian Cheng
 ---
