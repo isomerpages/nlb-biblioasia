@@ -453,3 +453,28 @@ championing local Chinese opinions and views in Singapore, *Lat Pau* also
 assumed the role of public educator. This was more pronounced in the
 newspaper’s earlier days.56
 
+The *Xing Pao* (《星报》, 1890–9), owned by Lin Hengnan and published by
+his Koh Yew Hean Press since January 1890, was just as conservative as
+*Lat Pau*. Its editors were more outspoken with regard to Confucian values.
+For example, in an editorial on 13 March 1894, the editor observed that
+many of the local-born Chinese no longer understood and observed the
+traditional five relationships57 laid down by Confucius, and considered it
+the duty of the press to bring the local-born Chinese back to the ancient
+ways of China.
+
+Besides *Lat Pau* and *Xing Pao*, two other Chinese dailies emerged after the
+Sino-Japanese War (1894–1895). They were *Thien Nan Shin Pao* (《天南新报》,
+1899–1901) founded by Khoo Seok Wan and *Jit Shin Pau* (《日新报》, 1898–
+1905) founded by Lim Boon Keng.
+
+These four Chinese dailies emerged during the last 20 years of the
+19th century when Confucianism and Chinese nationalism were the
+norms among the Chinese in Southeast Asia. The three most prominent
+journalists of the time, Ye Ji Yun, Lim Boon Keng and Khoo Seok Wan,
+were themselves Confucian scholars and enthusiastic nationalists, and were actively engaged in a Confucian revival movement.58 Therefore, it
+was unsurprising that the dailies had these themes in common. Singapore,
+under the British colonial government during that same period, flourished
+under a relatively permissive environment towards printing in the Chinese
+language. As such, Singapore had, in a way, provided a free platform for
+Confucianism and Chinese nationalism to emerge and grow in this multiethnic
+society.
