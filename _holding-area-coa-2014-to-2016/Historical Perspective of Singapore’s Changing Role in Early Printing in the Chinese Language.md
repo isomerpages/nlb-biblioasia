@@ -105,7 +105,7 @@ what the Protestant pioneers of the 19th century wrote in Chinese for their
 target audiences.11
 
 Following the precedence of ABCFM, LMS donated their archives and
-collections to the School of Oriental & African Studies Library at the University of London in 1973.12 Studies, such as the one on the Anglo-
+collections to the School of Oriental &amp; African Studies Library at the University of London in 1973.12 Studies, such as the one on the Anglo-
 Chinese College of Malacca by Brian Harrison (1979),13 the London
 Missionary Society by Leona O’Sullivan (1984),14 and *The Printing Presses of
 the London Missionary Society Among the Chinese* by Ching Su (1996), as well
@@ -334,7 +334,7 @@ newer ones while many are still widely used today. The following terms are
 some examples from the Singapore imprints and showcase their contribution
 in the development of modern Chinese lexicology:46
 
-|Chinese term|Meaning & First Appearance|Reference|
+|Chinese term|Meaning &amp; First Appearance|Reference|
 | -------- | -------- | -------- |
 |犹太教|Judaism: derived from the Greek “Ioudaios” and first used in the New Testament of the Bible in the Epistle of Galatians《救世主耶稣新遗诏书. 圣差保罗寄伽拉太人书》(新加坡, 新加坡坚夏书院, 1840; Chap 1, para 13, p.1, lower portion)|Chng 2010:5|
 |蒸船| Steamboat: first used by Gützlaff in *Correction of Erroneous Impression*《是非略论》(新加坡坚夏书院, 1835). The term has now been replaced by 轮船.|Chng 2010:5|
@@ -476,5 +476,75 @@ was unsurprising that the dailies had these themes in common. Singapore,
 under the British colonial government during that same period, flourished
 under a relatively permissive environment towards printing in the Chinese
 language. As such, Singapore had, in a way, provided a free platform for
-Confucianism and Chinese nationalism to emerge and grow in this multiethnic
+Confucianism and Chinese nationalism to emerge and grow in this multi-ethnic
 society.
+
+#### **Singapore as a Nursery for Nanyang Literature**
+During the 19th century, the term “Nanyang” referred to the “South Sea”
+region and was most commonly used by the Chinese to refer to today’s
+Southeast Asia.59 The term “Nanyang Literature” therefore refers to Chinese
+Literature from the Nanyang region. This term was used by Yeap Chong
+Leng in his book *Huang Tsun-Hsien* and *Nanyang Literature* (《黄宗宪与南洋
+文学》, Singapore: Singapore Society of Asian Studies, 2002). Yeap did not
+define the term, but explained that Huang Tsun-hsien, the first Chinese
+Consul General in Singapore from November 1891 to November 1894,
+conducted monthly region-wide competitions in couplet and essay writing
+on topics pertaining to Nanyang such as current affairs, culture, traditions
+and customs.
+
+These activities were mostly conducted through two literary clubs in
+Singapore, namely the *Tu-Nan she* (图南社) and *Hui-Yin she* (会贤社). The
+essay competitions attracted hundreds of participants every month from
+all over the region, with the most number of participants from Singapore,
+Malacca and Penang. The winning couplets and essays were first published
+in *Lat Pau* and *Xing Po*, and reproduced in books by leading Chinese writers
+in Guangdong and Shanghai. Huang served as both patron and chief judge
+of *Xianlai ge* (闲来阁) and *Yingbi xuan* (映碧轩), literary clubs in Yangon, Myanmar.60 In the late 19th century, Singapore was a centre and nursery for
+this form of literature.
+
+During the same period in Nanyang, there was also a commercial and
+cultural network that was centred on Singapore and largely orchestrated by
+the Straits Chinese.61 These Straits Chinese translated works from classical
+Chinese and expressed Nanyang sentiments in their writings, which (in
+my opinion) also forms part of Nanyang Literature. Compared to Chineselanguage
+printing, the survival rate of printed Nanyang Literature in
+romanised Malay during the same period was much higher.
+
+According to a survey conducted in 2002, it was revealed that 18 Chinese
+literary works translated into the Baba Malay language between 1889 and
+1899 had survived in the major libraries in Singapore and Malaysia.62 (See
+Appendix II for a list of these titles.) The key persons responsible for these
+translated works were Chan Kim Boon and Tan Beng Teck (translators),
+Chek Swee Liong and Peng Swee (translator and publisher respectively), Lim
+Hock Kee (editor), Pang Teck Joon (translator), Lye Kim Lim (publisher)
+and Goh Len Joo (translator).
+
+#### **Conclusion**
+Singapore played multiple roles in the early printing of Chinese language
+materials over time as well as in response to historical events. In the first half
+of the 19th century, two events occurring almost simultaneously incidentally
+made Singapore into a centre of Chinese-language printing outside China. It
+later played a supporting role in the information war waged in Guangdong.
+
+Through LMS ’s, ABCFM’s and SDK ’s Singapore Chinese language
+publications, Singapore became a conduit of Western culture and ideology
+to China and contributed new Chinese terms to the Chinese language.
+
+After the Protestant missionaries left Singapore, local commercial presses
+and newspaper presses run by local Chinese emerged to meet domestic and
+regional demand.
+
+They contributed to making Singapore conducive for learning the lingua
+franca of society, a platform to champion Confucianism and Chinese
+nationalism, as well as a nursery for regional literature in the Chinese
+language and romanised Malay to emerge and grow over time.
+
+<div>
+<b>Lee Ching Seng</b> joined National University of Singapore Libraries as a librarian in
+1991 and retired as the Head of Chinese Library in 2015. He has more than 40 years of
+experience in collection development and has developed an in-depth subject knowledge
+on the Chinese in Southeast Asia. He is recognised as a subject expert in this area by
+his peers, and has extensive networks with librarians and researchers both locally and
+abroad on the subject of overseas Chinese and early printing and publishing.</div>
+
+
