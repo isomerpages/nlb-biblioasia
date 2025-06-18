@@ -431,3 +431,25 @@ The existence of multilingual presses in the later part of the 19th century
 could be due to the volume print services they had to undertake to ensure
 their survival, but in a way it fostered inter-ethnic communications between
 races in a multiracial society.
+
+#### **Singapore as a Platform to Champion Confucianism and Chinese Nationalism (1881–1901)**
+
+The emergence of Chinese daily newspapers in the last two decades of
+the 19th century contributed to the formation of a community identity.
+In 19th-century Singapore, the newspapers of the different communities
+carried news and social commentaries that would have been of interest to
+their readers. Hence, they were very parochial, featuring news about the
+community and events in their homelands for the most part.52 For this
+reason, despite its Straits Chinese origin,53 *Lat Pau* was very China-centric, perhaps because its editor, Ye Ji Yun (叶季允), was a native of Anhui who had
+been invited to Singapore to serve as the editor for the paper, or possibly
+because its founder’s, See Ewee Lay, father had belatedly discovered his
+Chinese roots.54
+
+Ye edited the paper for 40 years and Lat Pau was a powerful force
+in promoting Confucian values in the Chinese community. Chen
+Mong Hock described *Lat Pau* as a “public institution” of the Chinese
+community, “nonpartisan” in stand and “patriotic” in nature.55 Besides
+championing local Chinese opinions and views in Singapore, *Lat Pau* also
+assumed the role of public educator. This was more pronounced in the
+newspaper’s earlier days.56
+
