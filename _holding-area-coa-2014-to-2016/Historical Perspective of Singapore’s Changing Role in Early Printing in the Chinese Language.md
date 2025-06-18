@@ -336,20 +336,22 @@ in the development of modern Chinese lexicology:46
 
 |Chinese term|Meaning & First Appearance|Reference|
 | -------- | -------- | -------- |
-|犹太教|Judaism: derived from the Greek “Ioudaios” and first used in the New Testament of the Bible in the Epistle of Galatians《救世主耶稣新遗诏书. 圣差保罗寄伽拉太人书》(新加坡，新加坡坚夏书院, 1840; Chap 1, para 13, p.1, lower portion)|Chng 2010:5|
+|犹太教|Judaism: derived from the Greek “Ioudaios” and first used in the New Testament of the Bible in the Epistle of Galatians《救世主耶稣新遗诏书. 圣差保罗寄伽拉太人书》(新加坡, 新加坡坚夏书院, 1840; Chap 1, para 13, p.1, lower portion)|Chng 2010:5|
 |蒸船| Steamboat: first used by Gützlaff in *Correction of Erroneous Impression*《是非略论》(新加坡坚夏书院, 1835). The term has now been replaced by 轮船.|Chng 2010:5|
-|火车|Train: first used by 裨治文 in *A Short Account of the United Provinces of America* (新加坡：坚夏书院，1838; v.1, p. 19, lower portion)|Chng 2010:7–8|
-|医学院|Medical college/school: first used in *East-West Magazine*, 道光丁酉年 (1837年) 四月，页2下 (221).|Chng 2010:9 |
-|凸字书|Braille: first used in *A Short Account of the United Provinces of America* 帙2，卷之二十四，页61下，“教之盲者即有凸字书，使他以手揣摩而读” | Chng 2010:9 | 
-|文凭 | Diploma: Bridgman used the existing term from《 水浒全传》to refer to “diploma” in English in *A Short Account of the United Provinces of America* 序，帙1，页2上. | Chng 2010:10 |
-| 博物院 | Museum: first used by Bridgman in *A Short Account of the United Provinces of America* (帙一，卷之首，页25上). It is still used as an alternative to 博物馆. | Chng 2010:10 |
+|火车|Train: first used by 裨治文 in *A Short Account of the United Provinces of America* (新加坡：坚夏书院, 1838; v. 1, p. 19, lower portion)|Chng 2010:7–8|
+|医学院|Medical college/school: first used in *East-West Magazine*, 道光丁酉年 (1837年) 四月, 页2下 (221).|Chng 2010:9 |
+|凸字书|Braille: first used in *A Short Account of the United Provinces of America* 帙2, 卷之二十四, 页61下，“教之盲者即有凸字书, 使他以手揣摩而读” | Chng 2010:9 | 
+|文凭 | Diploma: Bridgman used the existing term from《 水浒全传》to refer to “diploma” in English in *A Short Account of the United Provinces of America* 序, 帙1, 页2上. | Chng 2010:10 |
+| 博物院 | Museum: first used by Bridgman in *A Short Account of the United Provinces of America* (帙一, 卷之首，页25上). It is still used as an alternative to 博物馆. | Chng 2010:10 |
 | 统领, 正统领, 副领, 副统领 | 统领 and 正统领 refer to the president of the United States; while 副领 and 副统领 refer to its vice-president. These terms were created by Bridgman in *A Short Account of the United Provinces of America* and widely used in China in the 19th century before they were replaced by 总统 and 副总统 in the 20th century. | Chng 2010:13 | 
 | 国旗 | National flag: first used by Bridgman in *A Short Account of the United Provinces of America* to refer to the national flag of the U.S.| Chng 2010:14 |
 | 国父 | “Father of His Country”: first used by Bridgman in *A Short Account of the United Provinces of America* to refer to George Washington, the “Father of USA”. | Chng 2010:15 |
 | 新加坡 | Singapore: first used in* East-West Magazine*, which is still in use today (道光戊戌年正月, 叶13上). |  |
-| 新西兰 | New Zealand: first used in *East-West Magazine* [道光戊戌年（1838年）七月，页12上 394], it is still being used to date. | Chng 2010:17 |
-| 波士顿 | Boston: first used by Bridgman in *A Short Account of the United Provinces of America* (帙二，页11上 – 11下). | Chng 2010:15 |
-|华盛顿 | Washington, D.C., first used by Bridgman in *A Short Account of the United Provinces of America* (帙二，页27下). | Chng 2010:19 |
-| 犹太人 | Jew: this term was first used by Gützlaff in his Chinese works in 1836, one of which is *Descent of Jesus* (耶稣降世之传) [新加坡：新加坡坚夏书院藏板, 道光十六年 (1836年) 镌, 页2下]. | Chng 2010:22 |
-| 文艺复兴 | Renaissance: first used in *East-West Magazine* (道光丁酉年 (1837年 二月，页8下 (204)). | Chng 2010:22 |
+| 新西兰 | New Zealand: first used in *East-West Magazine* [道光戊戌年（1838年) 七月, 页12上 394], it is still being used to date. | Chng 2010:17 |
+| 波士顿 | Boston: first used by Bridgman in *A Short Account of the United Provinces of America* (帙二, 页11上 – 11下). | Chng 2010:15 |
+|华盛顿 | Washington, D.C., first used by Bridgman in *A Short Account of the United Provinces of America* (帙二, 页27下). | Chng 2010:19 |
+| 犹太人 | Jew: this term was first used by Gützlaff in his Chinese works in 1836, one of which is *Descent of Jesus* (耶稣降世之传) [新加坡: 新加坡坚夏书院藏板, 道光十六年 (1836年) 镌, 页2下]. | Chng 2010:22 |
+| 文艺复兴 | Renaissance: first used in *East-West Magazine* (道光丁酉年 (1837年 二月, 页8下 (204)). | Chng 2010:22 |
 | 贵妇人 | Gracious lady: first used by Gützlaff in *Life of Paul* (保罗言行录) (新加坡: 坚夏书院, 1837, 页13上). | Chng 2010:22 |
+
+#### **Singapore as Conducive for Multilingual Presses and Cultural Communications (1877–1902)**
