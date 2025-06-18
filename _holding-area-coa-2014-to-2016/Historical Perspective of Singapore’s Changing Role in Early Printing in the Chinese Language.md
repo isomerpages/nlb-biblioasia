@@ -340,6 +340,10 @@ in the development of modern Chinese lexicology:46
 |蒸船| Steamboat: first used by Gützlaff in *Correction of Erroneous Impression*《是非略论》(新加坡坚夏书院, 1835). The term has now been replaced by 轮船.|Chng 2010:5|
 |火车|Train: first used by 裨治文 in *A Short Account of the United Provinces of America* (新加坡：坚夏书院，1838; v.1, p. 19, lower portion)|Chng 2010:7–8|
 |医学院|Medical college/school: first used in *East-West Magazine*, 道光丁酉年 (1837年) 四月，页2下 (221).| Chng 2010:9
-|凸字书|Braille: first used in *A Short Account of the United
-Provinces of America* 帙2，卷之二十四，页61下，“教之盲者即有凸字书，使他以手揣摩而读”|Chng 2010:9|
-| -------- | -------- | -------- |
+|凸字书|Braille: first used in *A Short Account of the United Provinces of America* 帙2，卷之二十四，页61下，“教之盲者即有凸字书，使他以手揣摩而读”|Chng 2010:9|
+|文凭 | Diploma: Bridgman used the existing term from《 水浒全传》to refer to “diploma” in English in *A Short Account of the United Provinces of America* 序，帙1，页2上. | Chng 2010:10 |
+| 博物院 | Museum: first used by Bridgman in *A Short Account of the United Provinces of America* (帙一，卷之首，页25上). It is still used as an alternative to 博物馆. | Chng 2010:10 |
+| 统领, 正统领, 副领, 副统领 | 统领 and 正统领 refer to the president of the United States; while 副领 and 副统领 refer to its vice-president. These terms were created by Bridgman in *A Short Account of the United Provinces of America* and widely used in China in the 19th century before they were replaced by 总统 and 副总统 in the 20th century. | Chng 2010:13 | 
+| 国旗 | National flag: first used by Bridgman in *A Short Account of the United Provinces of America* to refer to the national flag of the U.S.| Chng 2010:14 |
+| 国父 | “Father of His Country”: first used by Bridgman in *A Short Account of the United Provinces of America* to refer to George Washington, the “Father of USA”. | Chng 2010:15 |
+
