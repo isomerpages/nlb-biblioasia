@@ -257,3 +257,79 @@ books, they hoped to give the Chinese access to information barred by the
 Qing government and believed this would enable them to understand the
 true character of the Europeans and be open to trade and proselytising.34
 
+Between 1834 and 1840, SDK reprinted or published one magazine and six
+Chinese books in Singapore, including *East-West Magazine* (1834–1839);
+A History of England (《大英国统志》 by Gützlaff, 1834); *A General History of
+the World* (《古今万国纲鉴》 by Gützlaff, 1838); *A Short Account of the United
+Provinces of America* (《美理哥合省国志略》 by E.J. Bridgman, 1838); *Aesop’s
+Fables* (《意拾秘传》 by Robert Thom, 1838–1839), *Outline of Old Testament
+History* (《古时如氐亚国历代列传》 by Robert Morrison, 1838) and *A Treatise
+on Political Economy* (《贸易通志》 by Gützflaff, 1840). The treatises on
+history and geography were prioritised and hence were among the earliest
+books published.35
+
+The impact of SDK ’s publications was felt during the First Opium War
+in mainland China. After the British defeated the Qing Empire, scholars
+such as Wei Yuan (魏源, 1794–1856), Xu Jiyu (徐继畬, 1795–1873) and Liang
+Tingnan (梁廷枬, 1796–1861) witnessed, or became concerned with, the
+power of the maritime nations of the West and stepped up efforts to
+understand these foreigners. When these scholar-officials sought to gather
+materials to write treatises on the new maritime nations, the Singapore
+imprints were able to meet this need.36
+
+Wei Yuan’s work, *Illustrated Treatise on Maritime Countries* (《海国图志》),
+was first published in 1842 in 50 *juan* (chapters); revised and expanded
+editions were published in 60 *juan* in 1847 and 100 juan in 1852, with more
+materials in Chinese. Researchers have pointed out that *Illustrated Treatise on Maritime Countries* resembles an organised scrapbook with materials
+from different books (with minor changes) cut-and-pasted into it, sorted by
+continents and sub-categorised by nations.
+
+Information related to the Society and the geo-history of the maritime
+countries that was “borrowed” from the Singapore imprints include 12 from
+the *East-West Magazine*,37 14 from *General Account of Trade* (《贸易通志》)38
+and 42 from Bridgman’s *A Short Account of the United Provinces of America*.39
+*The Illustrated Treatise on Maritime Countries*, in turn, became one of the
+most important reference books on the subject of global geo-history in
+the second half of the 19th century. In China, the scholar-officials of the
+Qing Empire used this resource when they were forced to learn more about
+the new world power struggles between the maritime empires. In Japan,
+*Illustrated Treatise on Maritime Countries* was widely circulated and made an
+impact on the Japanese reform era.40
+
+Xu Jiyu’s *A Brief Description of the Ocean Circuit* (《瀛寰志略》), published in
+1848, along with *Illustrated Treatise on Maritime Countries*, influenced both
+Qing China and Japan. To write the book, Xu studied materials collected in
+Chinese and interviewed foreigners on the subjects of global geography and
+world history.41
+
+Liang Tingnan’s *Accounts on the United States* (《合省国说》, 1844) and
+Accounts of London (《兰伦偶说》, 1845) also relied heavily on *A Short Account
+of the United Provinces of America* and *East-West Magazine* respectively.42
+Until at least the 1880s, these Chinese publications printed or published
+in Singapore were the main resources for understanding the maritime
+nations in the Qing Empire.43
+
+#### **Singapore’s Linguistic Contribution to Modern Chinese Lexicology (1807–1843)**
+In order to express certain Western ideas in their translated works, pioneer
+missionaries had to coin new words that were later adopted by Chinese
+scholars. These new words were the tools that allowed intellectuals to tap
+into western knowledge and widen their perspective of the world.44 As a
+substantial number of these new words were formed between 1807 and
+1843, and were first used in publications published in Singapore, Singapore
+therefore had a role in contributing to modern Chinese lexicology.
+
+Pioneer missionaries generally employed two approaches in coming up with
+new Chinese words or phrases. Firstly, they adopted an existing classical
+Chinese term and gave it a new meaning, extended its original meaning
+to add dimensions of meaning to it, or Christianised the original term.
+Secondly, if they could not transform an old word or phrase, they would
+then create new ones.45
+
+During the 36 years of proselytisation through writing and translation
+work, the pioneer missionaries created a great number of new Chinese
+terms, which covered a wide range of subjects (such as religion, science and
+technology, social science, culture, political science, history and geography)
+that became rich cultural resources. Some terms were later replaced by
+newer ones while many are still widely used today. The following terms are
+some examples from the Singapore imprints and showcase their contribution
+in the development of modern Chinese lexicology:46
