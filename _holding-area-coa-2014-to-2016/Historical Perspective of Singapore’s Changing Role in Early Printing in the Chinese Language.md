@@ -336,4 +336,10 @@ in the development of modern Chinese lexicology:46
 
 |Chinese term|Meaning & First Appearance|Reference|
 | -------- | -------- | -------- |
-|犹太教|Judaism: derived from the Greek “Ioudaios” and first used in the New Testament of the Bible in the Epistle of Galatians《救世主耶稣新遗诏书. 圣差保罗寄伽拉太人书》(新加坡，新加坡坚夏书院，1840; Chap 1, para 13, p.1, lower portion)|Chng 2010:5|
+|犹太教|Judaism: derived from the Greek “Ioudaios” and first used in the New Testament of the Bible in the Epistle of Galatians《救世主耶稣新遗诏书. 圣差保罗寄伽拉太人书》(新加坡，新加坡坚夏书院, 1840; Chap 1, para 13, p.1, lower portion)|Chng 2010:5|
+|蒸船| Steamboat: first used by Gützlaff in *Correction of Erroneous Impression*《是非略论》(新加坡坚夏书院, 1835). The term has now been replaced by 轮船.|Chng 2010:5|
+|火车|Train: first used by 裨治文 in *A Short Account of the United Provinces of America* (新加坡：坚夏书院，1838; v.1, p. 19, lower portion)|Chng 2010:7–8|
+|医学院|Medical college/school: first used in *East-West Magazine*, 道光丁酉年 (1837年) 四月，页2下 (221).| Chng 2010:9
+|凸字书|Braille: first used in *A Short Account of the United
+Provinces of America* 帙2，卷之二十四，页61下，“教之盲者即有凸字书，使他以手揣摩而读”|Chng 2010:9|
+| -------- | -------- | -------- |
