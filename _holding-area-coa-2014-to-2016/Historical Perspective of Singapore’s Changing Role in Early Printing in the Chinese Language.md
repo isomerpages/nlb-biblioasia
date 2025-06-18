@@ -355,3 +355,79 @@ in the development of modern Chinese lexicology:46
 | 贵妇人 | Gracious lady: first used by Gützlaff in *Life of Paul* (保罗言行录) (新加坡: 坚夏书院, 1837, 页13上). | Chng 2010:22 |
 
 #### **Singapore as Conducive for Multilingual Presses and Cultural Communications (1877–1902)**
+After the end of the First Opium War in 1842, China opened up five more
+ports in addition to Guangzhou for foreign trade and proselytisation. The
+Protestant missionary presses moved their bases away from Singapore,
+leaving behind an infant printing industry that continued to grow with the
+settlement. The American and British missionaries moved to China in 1843
+and 1846 respectively.
+
+The presence of missionary presses encouraged the growth of the multilingual
+printing and publishing industry in the colony, aided by growing prosperity
+and a burgeoning population. Right from the beginning, Singapore was a
+multi-ethnic society comprising Malays, Chinese, Indians, Europeans and
+others. After 1825, the missionary presses were able to print religious tracts in
+five languages – English, Siamese, Malay, Arabic and Chinese – with printing
+equipment from Europe and domestic and Chinese manpower.
+
+Benjamin Peach Keasberry (1811–1875), LMS ’ last agent in Singapore, ran
+the presses that were left behind as the Mission Press at Commercial Square.
+He printed letterheads for merchants, bills of lading and other commercial
+paper, in addition to printing religious publications, books, journals and
+half a dozen Singapore newspapers that appeared briefly before 1859.47
+Among them were the earliest Chinese newspapers in Singapore, such as *Local News* (地方日报, 1845) and *Rising Sun* (日升报, 1858), which may have
+encouraged the birth of *Lat Pau* (叻报), the longest-running Chinese daily,
+in the later part of the century.
+
+Around 1861, Lim Kong Chuan (林光铨，字衡南), a Chinese immigrant from
+Jinmen, soon saw an opportunity in the printing business and learnt the
+technique of western printing from a European press,48 possibly the Mission
+Press. While Lim may have established the first Chinese commercial
+printing company Koh Yew Hean Press (古友轩) in early 1870s,49 the first two
+Chinese-language publications were not published until 1877. These were *A
+Genealogy of the Lim Clan* (《西河林氏族谱》) and a Malay-language learning
+text *A Book to Learn the Barbaric Language* (《通夷新语》). A Genealogy of
+the Lim Clan was funded by donations and distributed free-of-charge to
+donors and clan members,50 while the latter was a commercial title that
+sold well. Lim reprinted the Malay-language learning book in 1883 and
+subsequently changed its title to *A Chinese-Malay Dictionary* (《华夷通语》).
+This publication was a best-seller and was reprinted in 1888 and 1900.
+
+By this time, new Chinese immigrants to the colony, as well as residents,
+had increased significantly and there was a demand for learning the Malay
+language. Lim Tsai Tak (林采达), a Chinese physician who arrived from
+Batavia, published *A Bridge to Understanding the Malay Language* (《通语
+津梁》) in 1889, which was also widely distributed. This new edition of the
+author’s earlier dictionary *Kitap Tong Gi Tjin Liong* was first published in
+Batavia. The Singapore edition was published by Jiwenzhai Press (集文斋印务
+馆) that was founded in 1889. Lim was a co-partner of the newly established
+press.
+
+Beside printing and publishing Chinese materials, Chinese commercial
+presses in the second half of the 19th century also printed books and
+articles in English and Malay. The Koh Yew Hean Press, for example, was
+commissioned by the Straits Branch of The Royal Asiatic Society in 1880
+to print *Hikayat Abdullah*, the well-known autobiography of Malay literati
+Abdullah bin Abdul Kadir Munshi (1797–1840) in Jawi script. It was also one of the printers of the *Straits Chinese Magazine*, a Peranakan magazine
+founded by Straits Chinese Lim Boon Keng and Song Ong Siang in 1897.
+
+The Lat Pau Press, established in 1881, also engaged in multilingual
+publishing and printing activities in the 19th century. Titles printed or
+published included *A General Index to the Proceedings of the Legislative Council
+of the Straits Settlements from April 1867 to December 1882* by Benj. B.J. and
+Rozells (1884), *Picturesque and Busy Singapore* by T.J. Keaughram (1887),
+Yuenan Youji (《越南游记》) by Tan Keong Sum (陈恭三, 1888), *The Straits
+Eurasian Advocate* by Henry Arnold Chopard (1888),* Cherita dahulu kala
+dari pasal Hong Keow sama Lee Tan*, *Turon-kan dari buku “Hwan Tong”,
+Di jaman Tong Teow sama Chew Teow, Vol 3–8* by Chan Kim Boon
+(Batu Gantong, 1891–2), and the *Heiat-al-heia-wan* by Wan Abdullah bin
+Umar (1896).51
+
+The Chinese presses also printed or published a great number of Baba
+literature, written by Straits-born Chinese or translated by them from
+Chinese classical works. (See Appendix II for a list of works.)
+
+The existence of multilingual presses in the later part of the 19th century
+could be due to the volume print services they had to undertake to ensure
+their survival, but in a way it fostered inter-ethnic communications between
+races in a multiracial society.
