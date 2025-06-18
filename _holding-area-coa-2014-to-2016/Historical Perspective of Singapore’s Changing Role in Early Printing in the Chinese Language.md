@@ -333,3 +333,7 @@ that became rich cultural resources. Some terms were later replaced by
 newer ones while many are still widely used today. The following terms are
 some examples from the Singapore imprints and showcase their contribution
 in the development of modern Chinese lexicology:46
+
+|Chinese term|Meaning & First Appearance|Reference|
+| -------- | -------- | -------- |
+|犹太教|Judaism: derived from the Greek “Ioudaios” and first used in the New Testament of the Bible in the Epistle of Galatians《救世主耶稣新遗诏书. 圣差保罗寄伽拉太人书》(新加坡，新加坡坚夏书院，1840; Chap 1, para 13, p.1, lower portion)|Chng 2010:5|
