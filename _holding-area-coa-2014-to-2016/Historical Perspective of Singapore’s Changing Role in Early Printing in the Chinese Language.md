@@ -346,3 +346,10 @@ in the development of modern Chinese lexicology:46
 | 统领, 正统领, 副领, 副统领 | 统领 and 正统领 refer to the president of the United States; while 副领 and 副统领 refer to its vice-president. These terms were created by Bridgman in *A Short Account of the United Provinces of America* and widely used in China in the 19th century before they were replaced by 总统 and 副总统 in the 20th century. | Chng 2010:13 | 
 | 国旗 | National flag: first used by Bridgman in *A Short Account of the United Provinces of America* to refer to the national flag of the U.S.| Chng 2010:14 |
 | 国父 | “Father of His Country”: first used by Bridgman in *A Short Account of the United Provinces of America* to refer to George Washington, the “Father of USA”. | Chng 2010:15 |
+| 新加坡 | Singapore: first used in* East-West Magazine*, which is still in use today (道光戊戌年正月, 叶13上). |  |
+| 新西兰 | New Zealand: first used in *East-West Magazine* [道光戊戌年（1838年）七月，页12上 394], it is still being used to date. | Chng 2010:17 |
+| 波士顿 | Boston: first used by Bridgman in *A Short Account of the United Provinces of America* (帙二，页11上 – 11下). | Chng 2010:15 |
+|华盛顿 | Washington, D.C., first used by Bridgman in *A Short Account of the United Provinces of America* (帙二，页27下). | Chng 2010:19 |
+| 犹太人 | Jew: this term was first used by Gützlaff in his Chinese works in 1836, one of which is *Descent of Jesus* (耶稣降世之传) [新加坡：新加坡坚夏书院藏板, 道光十六年 (1836年) 镌, 页2下]. | Chng 2010:22 |
+| 文艺复兴 | Renaissance: first used in *East-West Magazine* (道光丁酉年 (1837年 二月，页8下 (204)). | Chng 2010:22 |
+| 贵妇人 | Gracious lady: first used by Gützlaff in *Life of Paul* (保罗言行录) (新加坡: 坚夏书院, 1837, 页13上). | Chng 2010:22 |
