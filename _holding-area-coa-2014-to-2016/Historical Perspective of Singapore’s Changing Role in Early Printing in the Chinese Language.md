@@ -548,3 +548,71 @@ his peers, and has extensive networks with librarians and researchers both local
 abroad on the subject of overseas Chinese and early printing and publishing.</div>
 
 #### **BIBLIOGRAPHY**
+         
+
+Byrd, Cecil K. [_Early Printing in the Straits Settlements, 1806–1858_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200065951). Singapore: Singapore National Library, 1970. (Call no. RSING 686.2095957 BYR)
+
+Chen, SongChuan. “An Information War Waged by Merchants and Missionaries at Canton: The Society for the Diffusion of Useful Knowledge in China, 1834–1839.” _Modern Asia Studies_ 46, no. 6 (November 2012): 1707 note 2. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Ching, Su. “The Printing Presses of the London Missionary Society Among the Chinese.” (PhD. Diss. University of London, 1996)
+
+Chng, David Khin Yong. “A Note on the Chinese Newspapers Jit Sheng.” [_Kekal Abadi_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4360499) 6, no. 3 (September 1987): 2–5. (Call no. Malay R 027.7595 UMPKA-\[LIB\])
+
+—. _Xīijiapo huaren shi lun cong_ [新加坡华人史论丛](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84514963) \[Collected essays on Chinese in nineteenth century Singapore\]. 新加坡: 新加坡南洋学会, 1986, 78–86. (Call no. Chinese RSING 959.57 CDK-\[HIS\])
+
+—. “Some Notes on the Lau Pat Press.” In [_The Need To Read: Essays in Honour of Hedwig Anuar_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5421944), ed. Saravanan Gopinathan and Valerie Barth. Singapore: Festival of Books, 1989, 351–60. (Call no. RSING 020.95957 NEE-\[LIB\])
+
+—. _Xin jia huaren shi shiliao kaoshi_ [新甲华人史史料考释](https://www.nlb.gov.sg/main/book-detail?cmsuuid=c9000fd1-dc09-4f3a-8799-062ffd6bc23b) \[A textual research and interpretation of historical materials on chinese history in xinjia\]. 新加坡: 新加坡青年书局, 2007. &nbsp;(From National Library Online)
+
+—. “Shenzhou cheng wai xihu anliu: Shijiu shiji shang ban ye maliujia xinjiapo zhongwen chuban chutan” “神州城外西湖暗流: 十九世纪上半叶马六甲新加坡中文出版初探” \[Western undercurrent along the China coast: a study of chinese printing and publishing in the first half of 19th-century Malacca and Singapore\] (CCLC theses, Nanyang Technological University, 2006), 3.
+
+—. 刊北京外国语大学中国海外汉学研究中心、中国 近现代新闻出版博物馆编《西学东渐与东亚近代知识的形成和交流》\[Yells in the “Gilded bird cage”: An analysis of the political novel Shifei lüe lun by Karl Gützlaff\]. 上海: 上海人民出版社, 2012, 页 259–90.
+
+Drake W. Fred. “Protestant Geography in China: E. C. Bridgman’s Portrayal of the West,” in [_Christianity in China: Early Protestant Missionary Writings_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3190692), ed. Suzanne Wilson Barnett and John King Fairbank. Cambridge, Mass.: Harvard University Press, 1985, 96. (Call no. RCLOS 266.00951 CHR)
+
+—. _China Charts the World: Hsu Chi-Yu and His Geography of 1848_. Cambridge, Massachusetts: Harvard University Press, 1975.
+
+—. “Protestant Geography in China: E. C. Bridgman’s Portrayal of the West,” in [_Christianity in China: Early Protestant Missionary Writings_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3190692), ed. Suzanne Wilson Barnett and John King Fairbank. Cambridge, Mass.: Harvard University Press, 1985, 96. (Call no. RCLOS 266.00951 CHR)
+
+Fairbank, John King. “Introduction,” in [_Christianity in China: Early Protestant Missionary Writings_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3190692), ed. Suzanne Wilson Barnett and John King Fairbank. Cambridge, Mass.: Harvard University Press, 1985, 1–18. (Call no. RCLOS 266.00951 CHR)
+
+—. Frost, Mark Ravinder. “Emporium in Imperio: Nanyang Networks and the Straits Chinese in Singapore, 1819–1914.” _Journal of Southeast Asian Studies_ 36, no. 1 (February 2005): 29–66. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Ge Gongzhen 戈公._Zhongguo bao xue shi_ 中国报学史 \[History of Chinese newspaper press\]. 上海: 商务印书馆, 1927.
+
+Gützlaff, Karl Friedrich August. [_The Journal of Two Voyages Along the Coast of China, in 1831 and 1832_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12751545). New York: J. P. Haven, 1833. (Call no. RRARE 915.10433 GUT; microfilm NL28909)
+
+Gützlaff, Karl Friedrich and William Ellis, [_The Journal of Three Voyages Along the Coast of China_ _1831, 1832 and&nbsp; 1833_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=302249e7-6339-4c62-8a71-927be3973948). London: F. Westley &amp; A. H. Davies, 1834. (From National Library Online)
+
+Harrison, Brian. [_Waiting for China: The Anglo-Chinese College at Malacca, 1818–1843, and Early Nineteenth-Century Missions_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1710735). Hong Kong: Hong Kong University Press, 1979. (Call no. RSING 207.595141 HAR)
+
+Lee, Geok Boi. [_Pages From Yesteryear: A Look at the Printed Works of Singapore, 1819–1959_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5360274). Singapore: Singapore Heritage Society, 1989. (Call no. RSING 070.5095957 PAG)
+
+Letters of Milton to Director, 23 December 1824; 20 June 1825, 15 August 1825, 30 November 1825, LMS Archives.
+
+Li Jinsheng 李金生, “Nanyang yi ci, gezi jie shuo: Nanyang gainian de lishi yanbian” 南洋一词，各自界说: 南洋概念的历史演变 \[The term “Nanyang” has its own definition: the historical evolution of the concept of “Nanyang”\], [_亚洲文化_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7317634) _Asian Culture_ 30 (June 2006): 120–21. (Call no. Chinese RSING 950.05 AC)
+
+林光铨校《西河林氏族谱》(清光绪三年 \[1877年\] 新加坡古友轩石印本)
+
+Lin Guangquan School 林光铨校, [西河林氏族谱. 载《北京图书馆藏家谱丛刊: 闽粤（侨乡）卷](https://eservice.nlb.gov.sg/redir/itemdetails?bid=10088407)》\[Beijing Library’s Genealogy Reprint Series\] (北京: 北京图书馆出版社, 2001), 424. (Call no. Chinese q929.10720512BJT)
+
+Lutz, Jessie Gregory. “Karl F. A. Gützlaff: Missionary Entrepreneur.” In [_Christianity in China: Early Protestant Missionary Writings_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3190692), ed. Suzanne Wilson Barnett and John King Fairbank. Cambridge, Mass.: Harvard University Press, 1985, 71. (Call no. RCLOS 266.00951 CHR)
+
+Milne, William. [_A Retrospect of the First Ten Years of the Protestant Mission to China_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=176afa75-9aa1-4c37-9a62-3a805266accf). Malacca: Printed at the Anglo-Chinese Press, 1820, 285. (From National Library Online); see O’Sullivan, “The London Missionary Society: A Written Record of Missionaries and Printing Presses in the Straits Settlements, 1815–1847,” 97.
+
+O’Sullivan, Leona. “The London Missionary Society: A Written Record of Missionaries and Printing Presses in the Straits Settlements, 1815–1847,” _Journal of the Malaysian Branch of the Royal Asiatic_ _Society_ 57, no. 2 (1984): 61–104. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Wang, Kangding 王慷鼎. _Xinjiapo di yi fen huawen zhoubao “ri sheng bao”_ [新加坡第份华文周报 “日昇报”](https://catalogue.nlb.gov.sg/search/card?recordId=84452271) Singapore's first Chinese-language weekly newspaper “Risheng Bao.” 新加坡: 新加坡新社, 1987, 35–42. (Call no. Chinese RSING 079.5957 WKD)
+
+Wu Qingtang 吴庆棠. _Xinjiapo hua wen bao ye yu zhong guo_ [新加坡华文报业与中国](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84510292) \[Singapore chinese newspaper industry and china\]. 上海: 上海社会科学院出版社, 1987. (Call no. Chinese RSING 079.5957 WQT)
+
+Ye Zhongling 叶钟铃. _Huang Zunxian yu Nanyang wen xue_ [黄宗宪与南洋文学](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11673386) \[Huang Zongxian and nanyang literature\]. 新加坡: 新加坡亚洲研究学会, 2002. (Call no. Chinese R C810.08 YZL)
+
+Yen, Ching-Hwang, “Overseas Chinese Nationalism in Singapore and Malaya, 1877–1912,” (A paper presented at the Second National Conference of Asian Studies Association of Australia, held at University of New South Wales, Sydney, 14–18 May 1978). _Modern Asian Studies_ 16, no. 3 (July 1982): 397–25. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Yoong, S. K. and A. N. Zainab. “Chinese Literary Works Translated Into Baba Malay: A Bibliometric Study.” _Malaysian Journal of Library &amp; Information Science_ 7, no. 2 (December 2002): 1–23.
+
+Zhuang Qinyong and Zhou Qinghai 庄钦永 and 周清海._Ji du jiaochuan jiao shi yu jin xian dai Han yu xin ci_ [基督教传教士与近现代汉语新词](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13693298) \[Christian missionaries and new words in modern Chinese\]. 新加 坡: 新加坡青年书局, 2010. (Call no. Chinese RSING 495.124 CDK)
+
+Zhuo Nan Sheng 卓南生. _Zhong guo jin dai bao ye fa zhan shi 1815–1874_ [中国近代报业发展史, 1815–1874](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84541580) \[The development history of the newspaper industry in modern China, 1815–1874\]. 台北: 正中书局, 1998. (Call no. Chinese RSING 079.5109034 ZNS)
+
