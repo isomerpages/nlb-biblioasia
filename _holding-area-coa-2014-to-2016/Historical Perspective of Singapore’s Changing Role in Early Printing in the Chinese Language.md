@@ -615,4 +615,3 @@ Yoong, S. K. and A. N. Zainab. “Chinese Literary Works Translated Into Baba Ma
 Zhuang Qinyong and Zhou Qinghai 庄钦永 and 周清海._Ji du jiaochuan jiao shi yu jin xian dai Han yu xin ci_ [基督教传教士与近现代汉语新词](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13693298) \[Christian missionaries and new words in modern Chinese\]. 新加 坡: 新加坡青年书局, 2010. (Call no. Chinese RSING 495.124 CDK)
 
 Zhuo Nan Sheng 卓南生. _Zhong guo jin dai bao ye fa zhan shi 1815–1874_ [中国近代报业发展史, 1815–1874](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84541580) \[The development history of the newspaper industry in modern China, 1815–1874\]. 台北: 正中书局, 1998. (Call no. Chinese RSING 079.5109034 ZNS)
-
