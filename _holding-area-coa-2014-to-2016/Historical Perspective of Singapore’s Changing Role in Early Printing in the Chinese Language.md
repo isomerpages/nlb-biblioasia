@@ -615,3 +615,51 @@ Yoong, S. K. and A. N. Zainab. “Chinese Literary Works Translated Into Baba Ma
 Zhuang Qinyong and Zhou Qinghai 庄钦永 and 周清海._Ji du jiaochuan jiao shi yu jin xian dai Han yu xin ci_ [基督教传教士与近现代汉语新词](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13693298) \[Christian missionaries and new words in modern Chinese\]. 新加 坡: 新加坡青年书局, 2010. (Call no. Chinese RSING 495.124 CDK)
 
 Zhuo Nan Sheng 卓南生. _Zhong guo jin dai bao ye fa zhan shi 1815–1874_ [中国近代报业发展史, 1815–1874](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84541580) \[The development history of the newspaper industry in modern China, 1815–1874\]. 台北: 正中书局, 1998. (Call no. Chinese RSING 079.5109034 ZNS)
+
+#### **APPENDIX I**       
+
+**References**
+
+**_Chinese Works_**
+
+
+Guo Shilie 郭实猎著. Editor and Annotater. _Shúzuì zhī dào chuán: Guō shí liè jīdūjiào xiǎoshuō jí_ 赎罪之道传：郭实猎基督教小说集 \[Collection of Gützlaff’s missionary fictions\]. 台北: 橄榄出版, 2013,
+
+Lin Guangquan: “The Star,” 林光铨: “星报.” _Jinmen xian xian lu. Xinjiapo pian_ [金门先贤录. 新加坡篇](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201430754) \[Kinmen eminent persons in history. Singapore edition\]. 新加坡: 新加坡金门会馆, 2015, 102–05, 222. (From National Library Singapore, call no. RCO 305.895105957 KIN)
+
+“Zhōnghuá zuìzǎo de bùdào zhě liáng fā” “中华最早的布道者梁发” “Liang Fa, The Earliest Preacher in China.” Written by Mai Zhanne and Translated by Hu Haoyun. _Modern History Materials_ _近代史__资__料_ no. 39 (1979): 142–228.
+
+Yuan Ding 袁丁, “Sān zhōu fǔ wénjiàn xiū jí” “三州府文件修集 初探” “Compiled collection of documents from the three states, research.” [_华侨华__人__历__史研究_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84586130) _Overseas Chinese history studies_ no. 4 (2000): 65–69. (From National Library Singapore, call no. Chinese 909.04951 OCHS)
+
+Zhuang Qinyong 莊钦永. “Māzǔ pó shēngrì zhī lùn”– fù 1832–1842 nián xīnjiāpō huáwén chūbǎn yīlǎnbiǎo” “妈祖婆生日之论– 附1832–1842年新加坡华文出版一览表" “On Mazu's Birthday" – with a list of Chinese publications in Singapore from 1832 to 1842.” In _Xinjiapo Hua ren shi lun cong_ [新加坡华人史论丛](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84514963) \[Collected essays on Chinese in nineteenth century Singapore\]. 新加坡: 新加坡南洋学会, 1986, 2–77. (From National Library Singapore, call no. RCO 959.57 CDK-\[HIS\])
+
+—. “Zhūbólú xiānshēng jiā xùn” yǔqí yì zhě líncǎidá” “朱伯庐先生家训与其译者林采达” "Mr. Zhu Bolu's Family Instructions." Translated by Lin Caida. In _Xinjiapo Hua ren shi lun cong_ [新加坡华人史论丛](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84514963) \[Collected essays on Chinese in nineteenth century Singapore\]. 新加坡: 新加坡南洋学会, 1986, 94–106. (From National Library Singapore, call no. RCO 959.57 CDK-\[HIS\])
+
+—. “Xùn nǚ sānzìjīng”– xiàncún zuìzǎo de yī běn xīnjiāpō huáwén kānwù” “训女三字经》– 现存最早的一本新加坡华文刊物” “The three-character classic of training Women – the earliest extant Chinese-language publication in Singapore.” In _Xinjiapo Hua ren shi lun cong_ [新加坡华人史论丛](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84514963) \[Collected essays on Chinese in nineteenth century Singapore\]. 新加坡: 新加坡南洋学会, 1986, 78–86. (From National Library Singapore, call no. RCO 959.57 CDK-\[HIS\])
+
+—. “Zhàn qián xīnjiāpō huáwén shūjí xī lùn (1832–1941). Jiàn zhuāng qīn yǒngzhe” “战前新加坡华文书籍析论 (1832–1941). 见莊钦永著” “An analysis of Chinese books in pre-war Singapore (1832–1941). See Chong Chin Yong.” In _Xin xia Hua ren shi xin kao_ [新呷华人史新考](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84447091) \[History of the Chinese in Singapore &amp; Malacca: Some notes\]. 新加坡: 南洋学会, 1990, 129–52. (From National Library Singapore, call no. RCO 305.895105957 CDK-\[HIS\])
+
+—. “Shí lè shū lín sǎnjì. Jiàn zhuāng qīn yǒngzhe” “石叻书林散记. 见莊钦永著” “Essays on Shi La Shu Lin. See Zhuang Qinyong.” In _Xin xia Hua ren shi xin kao_ [新呷华人史新考](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84447091) \[History of the Chinese in Singapore &amp; Malacca: Some notes\]. 新加坡: 南洋学会, 1990, 153–63. (From National Library Singapore, call no. RCO 305.895105957 CDK-\[HIS\])
+
+—. “Guānyú shíjiǔ shìjì xīnhuá shè huì shǐ de yīxiē yuánshǐ zīliào” “关于十九世纪新华社会史的一些原始资料” “Some original materials on the social history of Xinhua in the 19th century.” In _Xin xia Hua ren shi xin kao_ [新呷华人史新考](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84447091) \[History of the Chinese in Singapore &amp; Malacca: Some notes\]. 新加坡: 南洋学会, 1990, 165–78. (From National Library Singapore, call no. RCO 305.895105957 CDK-\[HIS\])
+
+—. “Yuènán yóujì”– xiàncún zuìzǎo de xīnjiāpō huáwén wénxué chuàngzuò dānxíngběn” “越南游记 – 现存最早的新加坡华文文学创作单行本” “Vietnam travel notes” - the earliest existing single volume of Singaporean Chinese literature creations.” _Asian Culture [亚洲文化](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082210)_ no. 14 (April 1990): 210–13. (From National Library Singapore, call no. q950.05 AC)
+
+—. _Shénzhōu yùwài xī cháo ànliú: Shíjiǔ shìjì shàng bàn yè mǎliùjiǎ, xīnjiāpō zhōngwén chūbǎn chūtàn_ 神州域外西潮暗流：十九世纪上半叶马六甲、新加坡中文出版初探 \[Western under current along the China Coast: A Study of Chinese printing and publishing in the first half of 19th century Malacca and Singapore\] 新加坡: 中华语言文化中心, 2006.
+
+—. _Ji du jiao chuan jiao shi yu jin xian dai Han yu xin ci_ [基督教传教士与近现代汉语新词](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13693298) \[Christian missionaries and new words in modern Chinese\]. 新加坡: 青年书局, 2010. (From National Library Singapore, call no. Chinese RSING 495.124 CDK)
+
+Zhuang Qinyong 莊钦永 and Wang Kangding 王康鼎. “Rì shēng bào yánjiū. Jiàn zhuāng qīn yǒngzhe” 日升报 研究. 见莊钦永著 “Research on Sunrise Daily. See Zhuang Qinyong’s work.” In _Xinjiapo Hua ren shi lun cong_ [新加坡华人史论丛](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84514963) \[Collected essays on Chinese in nineteenth century Singapore\]. 新加坡: 新加坡南洋学会, 1986, 87–93. (From National Library Singapore, call no. RCO 959.57 CDK-\[HIS\])
+
+      
+**_English Works_**
+
+Chan, Fook Weng, Ang Seow Leng, Noryati Abdul Samad and Ong Eng Chuan, eds.&nbsp; [_Catalogue of Rare Materials in Lee Kong Chian Reference Library_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12995119). Singapore National Library Board, 2008. (Call no. RSING 016.95 CAT-\[LIB\])
+
+Chen, Song Chuan, “An Information War Waged by Merchants and Missionaries at Canton: The Society for the Diffusion of Useful Knowledge in China, 1834–1839,” _Modern Asia Studies_ 46, no. 6 (November 2012): 1707–735. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Chng, David K. Y. [_A Select Bibliography of Chinese Sources for Nineteenth-Century Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4770396). Singapore: National Library, 1987. (Call no. RSING 016.9595702 CHN-\[LIB\])
+
+Su, Ching, “The Printing Presses of the London Missionary Society Among the Chinese.” PhD. Diss. University of London, 1996.
+
+Wylie, A. [_Memorials of Protestant Missionaries to the Chinese: Giving a List of Their Publications, and Obituary Notices of the Deceased, With Copious Indexes_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5031695). (Call no. RCLOS 266.40951 MEM)
