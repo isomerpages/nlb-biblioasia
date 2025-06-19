@@ -702,65 +702,65 @@ Yoong, S. K. and A. N. Zainab. “Chinese Literary Works Translated Into Baba Ma
 
 [^10]: Chen SongChuan, “An Information War Waged by Merchants and Missionaries at Canton: The Society for the Diffusion of Useful Knowledge in China, 1834–1839,” _Modern Asia Studies_ 46, no. 6 (November 2012): 1707 note 2. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-11 John King Fairbank, “Introduction,” in [_Christianity in China: Early Protestant Missionary Writings_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3190692), ed. Suzanne Wilson Barnett and John King Fairbank (Cambridge, Mass.: Harvard University Press, 1985), 1–18. (Call no. RCLOS 266.00951 CHR)
+[^11]: John King Fairbank, “Introduction,” in [_Christianity in China: Early Protestant Missionary Writings_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3190692), ed. Suzanne Wilson Barnett and John King Fairbank (Cambridge, Mass.: Harvard University Press, 1985), 1–18. (Call no. RCLOS 266.00951 CHR)
 
-12 Chng, “An Information War Waged by Merchants and Missionaries at Canton: The Society for the Diffusion of Useful Knowledge in China, 1834–1839,” 3.
+[^12]: Chng, “An Information War Waged by Merchants and Missionaries at Canton: The Society for the Diffusion of Useful Knowledge in China, 1834–1839,” 3.
 
-13 Brian Harrison, [_Waiting for China: The Anglo-Chinese College at Malacca, 1818–1843, and Early Nineteenth-Century Missions_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1710735) (Hong Kong: Hong Kong University Press, 1979). (Call no. RSING 207.595141 HAR)
+[^13]: Brian Harrison, [_Waiting for China: The Anglo-Chinese College at Malacca, 1818–1843, and Early Nineteenth-Century Missions_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1710735) (Hong Kong: Hong Kong University Press, 1979). (Call no. RSING 207.595141 HAR)
 
-14 Leona O’Sullivan, “The London Missionary Society: A Written Record of Missionaries and Printing Presses in the Straits Settlements, 1815–1847,” _Journal of the Malaysian Branch of the Royal Asiatic_ _Society_ 57, no. 2 (1984): 61–104. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^14]: Leona O’Sullivan, “The London Missionary Society: A Written Record of Missionaries and Printing Presses in the Straits Settlements, 1815–1847,” _Journal of the Malaysian Branch of the Royal Asiatic_ _Society_ 57, no. 2 (1984): 61–104. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-15 Ching Su, “The Printing Presses of the London Missionary Society Among the Chinese,” (PhD. Diss. University of London, 1996)
+[^15]: Ching Su, “The Printing Presses of the London Missionary Society Among the Chinese,” (PhD. Diss. University of London, 1996)
 
-16 Chng, “Shenzhou cheng wai xihu anliu: Shijiu shiji shang ban ye maliujia xinjiapo zhongwen chuban chutan” 7.
+[^16]: Chng, “Shenzhou cheng wai xihu anliu: Shijiu shiji shang ban ye maliujia xinjiapo zhongwen chuban chutan” 7.
 
-17 Zhuang Qinyong 庄钦永, 刊北京外国语大学中国海外汉学研究中心、中国 近现代新闻出版博物馆编《西学东渐与东亚近代知识的形成和交流》\[Yells in the “Gilded bird cage”: An analysis of the political novel Shifei lüe lun by Karl Gützlaff\] (上海: 上海人民出版社, 2012), 页 259–90.
+[^17]: Zhuang Qinyong 庄钦永, 刊北京外国语大学中国海外汉学研究中心、中国 近现代新闻出版博物馆编《西学东渐与东亚近代知识的形成和交流》\[Yells in the “Gilded bird cage”: An analysis of the political novel Shifei lüe lun by Karl Gützlaff\] (上海: 上海人民出版社, 2012), 页 259–90.
 
-18 Patrick Hanan, “The Missionary Novels of Nineteenth-Century China,” _Harvard Journal of Asiatic Studies_ 60, no. 2 (December 2000): 413–43. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^18]: Patrick Hanan, “The Missionary Novels of Nineteenth-Century China,” _Harvard Journal of Asiatic Studies_ 60, no. 2 (December 2000): 413–43. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-19 Chng, 1996, 7.
+[^19]: Chng, 1996, 7.
 
-20 Ge, _Zhongguo bao xue shi_.
+[^20]: Ge, _Zhongguo bao xue shi_.
 
-21 Claudius Henry Thomsen brought a small press and workmen with him and set up a printing press on 23 January 1823. See Byrd, [_Early Printing in the Straits Settlements, 1806–1858_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200065951), 13; O’Sullivan, “The London Missionary Society: A Written Record of Missionaries and Printing Presses in the Straits Settlements, 1815–1847,” 73.
+[^21]: Claudius Henry Thomsen brought a small press and workmen with him and set up a printing press on 23 January 1823. See Byrd, [_Early Printing in the Straits Settlements, 1806–1858_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200065951), 13; O’Sullivan, “The London Missionary Society: A Written Record of Missionaries and Printing Presses in the Straits Settlements, 1815–1847,” 73.
 
-22 Letters of Milton to Director, 23 December 1824; 20 June 1825, 15 August 1825, 30 November 1825, LMS Archives.
+[^22]: Letters of Milton to Director, 23 December 1824; 20 June 1825, 15 August 1825, 30 November 1825, LMS Archives.
 
-23 Zhuang Qinyong 庄钦永, _Xīijiapo huaren shi lun cong_ [新加坡华人史论丛](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84514963) \[Collected essays on Chinese in nineteenth century Singapore\] (新加坡: 新加坡南洋学会, 1986), 78–86. (Call no. Chinese RSING 959.57 CDK-\[HIS\])
+[^23]: Zhuang Qinyong 庄钦永, _Xīijiapo huaren shi lun cong_ [新加坡华人史论丛](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84514963) \[Collected essays on Chinese in nineteenth century Singapore\] (新加坡: 新加坡南洋学会, 1986), 78–86. (Call no. Chinese RSING 959.57 CDK-\[HIS\])
 
-24 Chen, “An Information War Waged by Merchants and Missionaries at Canton: The Society for the Diffusion of Useful Knowledge in China, 1834–1839,” 1705–35.
+[^24]: Chen, “An Information War Waged by Merchants and Missionaries at Canton: The Society for the Diffusion of Useful Knowledge in China, 1834–1839,” 1705–35.
 
-25 See Appendix I, “A Chronology of Printing in the Chinese Language, 1825–1902”.
+[^25]: See Appendix I, “A Chronology of Printing in the Chinese Language, 1825–1902”.
 
-26 Based on figures provided by Chng, “Shenzhou cheng wai xihu anliu: Shijiu shiji shang ban ye maliujia xinjiapo zhongwen chuban chutan,” 294–97.
+[^26]: Based on figures provided by Chng, “Shenzhou cheng wai xihu anliu: Shijiu shiji shang ban ye maliujia xinjiapo zhongwen chuban chutan,” 294–97.
 
-27 William Milne, [_A Retrospect of the First Ten Years of the Protestant Mission to China_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=176afa75-9aa1-4c37-9a62-3a805266accf) (Malacca: Printed at the Anglo-Chinese Press, 1820), 285 (From National Library Online); see O’Sullivan, “The London Missionary Society: A Written Record of Missionaries and Printing Presses in the Straits Settlements, 1815–1847,” 97.
+[^27]: William Milne, [_A Retrospect of the First Ten Years of the Protestant Mission to China_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=176afa75-9aa1-4c37-9a62-3a805266accf) (Malacca: Printed at the Anglo-Chinese Press, 1820), 285 (From National Library Online); see O’Sullivan, “The London Missionary Society: A Written Record of Missionaries and Printing Presses in the Straits Settlements, 1815–1847,” 97.
 
-28 Gützlaff published accounts of his trips along the coast of China in _Chinese Repository, Vol 1 and 2_ (1832, 1833); he later issued his journals in book form: Karl Friedrich Gutzlaff and William Ellis, [_The Journal of Three Voyages Along the Coast of China_ _1831, 1832 and&nbsp; 1833_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=302249e7-6339-4c62-8a71-927be3973948) (London: F. Westley &amp; A. H. Davies, 1834) (From National Library Online); or Karl Friedrich August Gutzlaff, [_The Journal of Two Voyages Along the Coast of China, in 1831 and 1832_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12751545) (New York: J. P. Haven, 1833). (Call no. RRARE 915.10433 GUT; microfilm NL28909)
+[^28]: Gützlaff published accounts of his trips along the coast of China in _Chinese Repository, Vol 1 and 2_ (1832, 1833); he later issued his journals in book form: Karl Friedrich Gutzlaff and William Ellis, [_The Journal of Three Voyages Along the Coast of China_ _1831, 1832 and&nbsp; 1833_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=302249e7-6339-4c62-8a71-927be3973948) (London: F. Westley &amp; A. H. Davies, 1834) (From National Library Online); or Karl Friedrich August Gutzlaff, [_The Journal of Two Voyages Along the Coast of China, in 1831 and 1832_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12751545) (New York: J. P. Haven, 1833). (Call no. RRARE 915.10433 GUT; microfilm NL28909)
 
-29 The vessel, _Himmaleh_, left Singapore in January 1837 on a voyage that took several months, with missionary passengers and cargo of Chinese and Malay literature for distribution in Borneo and other islands of Southeast Asia. See Byrd, [_Early Printing in the Straits Settlements, 1806–1858_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200065951), 18.
+[^29]: The vessel, _Himmaleh_, left Singapore in January 1837 on a voyage that took several months, with missionary passengers and cargo of Chinese and Malay literature for distribution in Borneo and other islands of Southeast Asia. See Byrd, [_Early Printing in the Straits Settlements, 1806–1858_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200065951), 18.
 
-30 Fred W. Drake, “Protestant Geography in China: E. C. Bridgman’s Portrayal of the West,” in [_Christianity in China: Early Protestant Missionary Writings_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3190692), ed. Suzanne Wilson Barnett and John King Fairbank (Cambridge, Mass.: Harvard University Press, 1985), 96. (Call no. RCLOS 266.00951 CHR)
+[^30]: Fred W. Drake, “Protestant Geography in China: E. C. Bridgman’s Portrayal of the West,” in [_Christianity in China: Early Protestant Missionary Writings_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3190692), ed. Suzanne Wilson Barnett and John King Fairbank (Cambridge, Mass.: Harvard University Press, 1985), 96. (Call no. RCLOS 266.00951 CHR)
 
-31 Jessie Gregory Lutz, “Karl F. A. Gützlaff: Missionary Entrepreneur,” in [_Christianity in China: Early Protestant Missionary Writings_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3190692), ed. Suzanne Wilson Barnett and John King Fairbank (Cambridge, Mass.: Harvard University Press, 1985), 71. (Call no. RCLOS 266.00951 CHR)
+[^31]: Jessie Gregory Lutz, “Karl F. A. Gützlaff: Missionary Entrepreneur,” in [_Christianity in China: Early Protestant Missionary Writings_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=3190692), ed. Suzanne Wilson Barnett and John King Fairbank (Cambridge, Mass.: Harvard University Press, 1985), 71. (Call no. RCLOS 266.00951 CHR)
 
-32 Chen, “An Information War Waged by Merchants and Missionaries at Canton: The Society for the Diffusion of Useful Knowledge in China, 1834–1839,” 1705.
+[^32]: Chen, “An Information War Waged by Merchants and Missionaries at Canton: The Society for the Diffusion of Useful Knowledge in China, 1834–1839,” 1705.
 
-33 “Proceedings Relative to the Formation of a Society for the Diffusion of Useful Knowledge in China_,”_ National Archives UK(NAUK), FO17/89; also in _Chinese Repository_ 3, no. 8 (December 1834): 378–84; Chen, “An Information War Waged by Merchants and Missionaries at Canton: The Society for the Diffusion of Useful Knowledge in China, 1834–1839,” 1706.
+[^33]: “Proceedings Relative to the Formation of a Society for the Diffusion of Useful Knowledge in China_,”_ National Archives UK(NAUK), FO17/89; also in _Chinese Repository_ 3, no. 8 (December 1834): 378–84; Chen, “An Information War Waged by Merchants and Missionaries at Canton: The Society for the Diffusion of Useful Knowledge in China, 1834–1839,” 1706.
 
-34 Chen, “An Information War Waged by Merchants and Missionaries at Canton: The Society for the Diffusion of Useful Knowledge in China, 1834–1839,” 1706.
+[^34]: Chen, “An Information War Waged by Merchants and Missionaries at Canton: The Society for the Diffusion of Useful Knowledge in China, 1834–1839,” 1706.
 
-35 Chen, “An Information War Waged by Merchants and Missionaries at Canton: The Society for the Diffusion of Useful Knowledge in China, 1834–1839,” 1719.
+[^35]: Chen, “An Information War Waged by Merchants and Missionaries at Canton: The Society for the Diffusion of Useful Knowledge in China, 1834–1839,” 1719.
 
-36 Chen, “An Information War Waged by Merchants and Missionaries at Canton: The Society for the Diffusion of Useful Knowledge in China, 1834–1839,” 1723.
+[^36]: Chen, “An Information War Waged by Merchants and Missionaries at Canton: The Society for the Diffusion of Useful Knowledge in China, 1834–1839,” 1723.
 
-37 Chng, “Shenzhou cheng wai xihu anliu: Shijiu shiji shang ban ye maliujia xinjiapo zhongwen chuban chutan,” 211; 表六，丁酉年四月《史记麦西国古史》(222) 至戊戌年九月《公班衙》(418下–420上)
+[^37]: Chng, “Shenzhou cheng wai xihu anliu: Shijiu shiji shang ban ye maliujia xinjiapo zhongwen chuban chutan,” 211; 表六，丁酉年四月《史记麦西国古史》(222) 至戊戌年九月《公班衙》(418下–420上)
 
-38 Chen, “An Information War Waged by Merchants and Missionaries at Canton: The Society for the Diffusion of Useful Knowledge in China, 1834–1839,” 1724.
+[^38]: Chen, “An Information War Waged by Merchants and Missionaries at Canton: The Society for the Diffusion of Useful Knowledge in China, 1834–1839,” 1724.
 
-39 Chng, “Shenzhou cheng wai xihu anliu: Shijiu shiji shang ban ye maliujia xinjiapo zhongwen chuban chutan,” 212–213，表7:《海国图志》辑录《美理哥合省国志略》文字一览表.
+[^39]: Chng, “Shenzhou cheng wai xihu anliu: Shijiu shiji shang ban ye maliujia xinjiapo zhongwen chuban chutan,” 212–213，表7:《海国图志》辑录《美理哥合省国志略》文字一览表.
 
-40 Chen, “An Information War Waged by Merchants and Missionaries at Canton: The Society for the Diffusion of Useful Knowledge in China, 1834–1839,” 1724, see also note 49.
+[^40]: Chen, “An Information War Waged by Merchants and Missionaries at Canton: The Society for the Diffusion of Useful Knowledge in China, 1834–1839,” 1724, see also note 49.
 
 41 Chen, “An Information War Waged by Merchants and Missionaries at Canton: The Society for the Diffusion of Useful Knowledge in China, 1834–1839,” 1724.
 
