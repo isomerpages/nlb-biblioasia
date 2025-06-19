@@ -300,20 +300,20 @@ Xu Jiyu’s *A Brief Description of the Ocean Circuit* (《瀛寰志略》), pub
 1848, along with *Illustrated Treatise on Maritime Countries*, influenced both
 Qing China and Japan. To write the book, Xu studied materials collected in
 Chinese and interviewed foreigners on the subjects of global geography and
-world history.41
+world history.[^41]
 
 Liang Tingnan’s *Accounts on the United States* (《合省国说》, 1844) and
 Accounts of London (《兰伦偶说》, 1845) also relied heavily on *A Short Account
-of the United Provinces of America* and *East-West Magazine* respectively.42
+of the United Provinces of America* and *East-West Magazine* respectively.[^42]
 Until at least the 1880s, these Chinese publications printed or published
 in Singapore were the main resources for understanding the maritime
-nations in the Qing Empire.43
+nations in the Qing Empire.[^43]
 
 #### **Singapore’s Linguistic Contribution to Modern Chinese Lexicology (1807–1843)**
 In order to express certain Western ideas in their translated works, pioneer
 missionaries had to coin new words that were later adopted by Chinese
 scholars. These new words were the tools that allowed intellectuals to tap
-into western knowledge and widen their perspective of the world.44 As a
+into western knowledge and widen their perspective of the world.[^44] As a
 substantial number of these new words were formed between 1807 and
 1843, and were first used in publications published in Singapore, Singapore
 therefore had a role in contributing to modern Chinese lexicology.
@@ -323,7 +323,7 @@ new Chinese words or phrases. Firstly, they adopted an existing classical
 Chinese term and gave it a new meaning, extended its original meaning
 to add dimensions of meaning to it, or Christianised the original term.
 Secondly, if they could not transform an old word or phrase, they would
-then create new ones.45
+then create new ones.[^45]
 
 During the 36 years of proselytisation through writing and translation
 work, the pioneer missionaries created a great number of new Chinese
@@ -332,7 +332,7 @@ technology, social science, culture, political science, history and geography)
 that became rich cultural resources. Some terms were later replaced by
 newer ones while many are still widely used today. The following terms are
 some examples from the Singapore imprints and showcase their contribution
-in the development of modern Chinese lexicology:46
+in the development of modern Chinese lexicology:[^46]
 
 |Chinese term|Meaning &amp; First Appearance|Reference|
 | -------- | -------- | -------- |
@@ -346,7 +346,7 @@ in the development of modern Chinese lexicology:46
 | 统领, 正统领, 副领, 副统领 | 统领 and 正统领 refer to the president of the United States; while 副领 and 副统领 refer to its vice-president. These terms were created by Bridgman in *A Short Account of the United Provinces of America* and widely used in China in the 19th century before they were replaced by 总统 and 副总统 in the 20th century. | Chng 2010:13 | 
 | 国旗 | National flag: first used by Bridgman in *A Short Account of the United Provinces of America* to refer to the national flag of the U.S.| Chng 2010:14 |
 | 国父 | “Father of His Country”: first used by Bridgman in *A Short Account of the United Provinces of America* to refer to George Washington, the “Father of USA”. | Chng 2010:15 |
-| 新加坡 | Singapore: first used in* East-West Magazine*, which is still in use today (道光戊戌年正月, 叶13上). |  |
+| 新加坡 | Singapore: first used in* East-West Magazine*, which is still in use today (道光戊戌年正月, 叶13上). | 
 | 新西兰 | New Zealand: first used in *East-West Magazine* [道光戊戌年（1838年) 七月, 页12上 394], it is still being used to date. | Chng 2010:17 |
 | 波士顿 | Boston: first used by Bridgman in *A Short Account of the United Provinces of America* (帙二, 页11上 – 11下). | Chng 2010:15 |
 |华盛顿 | Washington, D.C., first used by Bridgman in *A Short Account of the United Provinces of America* (帙二, 页27下). | Chng 2010:19 |
@@ -374,21 +374,21 @@ Benjamin Peach Keasberry (1811–1875), LMS ’ last agent in Singapore, ran
 the presses that were left behind as the Mission Press at Commercial Square.
 He printed letterheads for merchants, bills of lading and other commercial
 paper, in addition to printing religious publications, books, journals and
-half a dozen Singapore newspapers that appeared briefly before 1859.47
+half a dozen Singapore newspapers that appeared briefly before 1859.[^47]
 Among them were the earliest Chinese newspapers in Singapore, such as *Local News* (地方日报, 1845) and *Rising Sun* (日升报, 1858), which may have
 encouraged the birth of *Lat Pau* (叻报), the longest-running Chinese daily,
 in the later part of the century.
 
 Around 1861, Lim Kong Chuan (林光铨，字衡南), a Chinese immigrant from
 Jinmen, soon saw an opportunity in the printing business and learnt the
-technique of western printing from a European press,48 possibly the Mission
+technique of western printing from a European press,[^48] possibly the Mission
 Press. While Lim may have established the first Chinese commercial
-printing company Koh Yew Hean Press (古友轩) in early 1870s,49 the first two
+printing company Koh Yew Hean Press (古友轩) in early 1870s,[^49] the first two
 Chinese-language publications were not published until 1877. These were *A
 Genealogy of the Lim Clan* (《西河林氏族谱》) and a Malay-language learning
 text *A Book to Learn the Barbaric Language* (《通夷新语》). A Genealogy of
 the Lim Clan was funded by donations and distributed free-of-charge to
-donors and clan members,50 while the latter was a commercial title that
+donors and clan members,[^50] while the latter was a commercial title that
 sold well. Lim reprinted the Malay-language learning book in 1883 and
 subsequently changed its title to *A Chinese-Malay Dictionary* (《华夷通语》).
 This publication was a best-seller and was reprinted in 1888 and 1900.
@@ -421,7 +421,7 @@ Eurasian Advocate* by Henry Arnold Chopard (1888),* Cherita dahulu kala
 dari pasal Hong Keow sama Lee Tan*, *Turon-kan dari buku “Hwan Tong”,
 Di jaman Tong Teow sama Chew Teow, Vol 3–8* by Chan Kim Boon
 (Batu Gantong, 1891–2), and the *Heiat-al-heia-wan* by Wan Abdullah bin
-Umar (1896).51
+Umar (1896).[^51]
 
 The Chinese presses also printed or published a great number of Baba
 literature, written by Straits-born Chinese or translated by them from
@@ -439,26 +439,26 @@ the 19th century contributed to the formation of a community identity.
 In 19th-century Singapore, the newspapers of the different communities
 carried news and social commentaries that would have been of interest to
 their readers. Hence, they were very parochial, featuring news about the
-community and events in their homelands for the most part.52 For this
-reason, despite its Straits Chinese origin,53 *Lat Pau* was very China-centric, perhaps because its editor, Ye Ji Yun (叶季允), was a native of Anhui who had
+community and events in their homelands for the most part.[^52] For this
+reason, despite its Straits Chinese origin,[^53] *Lat Pau* was very China-centric, perhaps because its editor, Ye Ji Yun (叶季允), was a native of Anhui who had
 been invited to Singapore to serve as the editor for the paper, or possibly
 because its founder’s, See Ewee Lay, father had belatedly discovered his
-Chinese roots.54
+Chinese roots.[^54]
 
 Ye edited the paper for 40 years and Lat Pau was a powerful force
 in promoting Confucian values in the Chinese community. Chen
 Mong Hock described *Lat Pau* as a “public institution” of the Chinese
-community, “nonpartisan” in stand and “patriotic” in nature.55 Besides
+community, “nonpartisan” in stand and “patriotic” in nature.[^55] Besides
 championing local Chinese opinions and views in Singapore, *Lat Pau* also
 assumed the role of public educator. This was more pronounced in the
-newspaper’s earlier days.56
+newspaper’s earlier days.[^56]
 
 The *Xing Pao* (《星报》, 1890–9), owned by Lin Hengnan and published by
 his Koh Yew Hean Press since January 1890, was just as conservative as
 *Lat Pau*. Its editors were more outspoken with regard to Confucian values.
 For example, in an editorial on 13 March 1894, the editor observed that
 many of the local-born Chinese no longer understood and observed the
-traditional five relationships57 laid down by Confucius, and considered it
+traditional five relationships[^57] laid down by Confucius, and considered it
 the duty of the press to bring the local-born Chinese back to the ancient
 ways of China.
 
@@ -471,7 +471,7 @@ These four Chinese dailies emerged during the last 20 years of the
 19th century when Confucianism and Chinese nationalism were the
 norms among the Chinese in Southeast Asia. The three most prominent
 journalists of the time, Ye Ji Yun, Lim Boon Keng and Khoo Seok Wan,
-were themselves Confucian scholars and enthusiastic nationalists, and were actively engaged in a Confucian revival movement.58 Therefore, it
+were themselves Confucian scholars and enthusiastic nationalists, and were actively engaged in a Confucian revival movement.[^58] Therefore, it
 was unsurprising that the dailies had these themes in common. Singapore,
 under the British colonial government during that same period, flourished
 under a relatively permissive environment towards printing in the Chinese
@@ -482,7 +482,7 @@ society.
 #### **Singapore as a Nursery for Nanyang Literature**
 During the 19th century, the term “Nanyang” referred to the “South Sea”
 region and was most commonly used by the Chinese to refer to today’s
-Southeast Asia.59 The term “Nanyang Literature” therefore refers to Chinese
+Southeast Asia.[^59] The term “Nanyang Literature” therefore refers to Chinese
 Literature from the Nanyang region. This term was used by Yeap Chong
 Leng in his book *Huang Tsun-Hsien* and *Nanyang Literature* (《黄宗宪与南洋
 文学》, Singapore: Singapore Society of Asian Studies, 2002). Yeap did not
@@ -499,20 +499,20 @@ all over the region, with the most number of participants from Singapore,
 Malacca and Penang. The winning couplets and essays were first published
 in *Lat Pau* and *Xing Po*, and reproduced in books by leading Chinese writers
 in Guangdong and Shanghai. Huang served as both patron and chief judge
-of *Xianlai ge* (闲来阁) and *Yingbi xuan* (映碧轩), literary clubs in Yangon, Myanmar.60 In the late 19th century, Singapore was a centre and nursery for
+of *Xianlai ge* (闲来阁) and *Yingbi xuan* (映碧轩), literary clubs in Yangon, Myanmar.[^60] In the late 19th century, Singapore was a centre and nursery for
 this form of literature.
 
 During the same period in Nanyang, there was also a commercial and
 cultural network that was centred on Singapore and largely orchestrated by
-the Straits Chinese.61 These Straits Chinese translated works from classical
+the Straits Chinese..[^61] These Straits Chinese translated works from classical
 Chinese and expressed Nanyang sentiments in their writings, which (in
-my opinion) also forms part of Nanyang Literature. Compared to Chineselanguage
+my opinion) also forms part of Nanyang Literature. Compared to Chinese-language
 printing, the survival rate of printed Nanyang Literature in
 romanised Malay during the same period was much higher.
 
 According to a survey conducted in 2002, it was revealed that 18 Chinese
 literary works translated into the Baba Malay language between 1889 and
-1899 had survived in the major libraries in Singapore and Malaysia.62 (See
+1899 had survived in the major libraries in Singapore and Malaysia.[^62] (See
 Appendix II for a list of these titles.) The key persons responsible for these
 translated works were Chan Kim Boon and Tan Beng Teck (translators),
 Chek Swee Liong and Peng Swee (translator and publisher respectively), Lim
