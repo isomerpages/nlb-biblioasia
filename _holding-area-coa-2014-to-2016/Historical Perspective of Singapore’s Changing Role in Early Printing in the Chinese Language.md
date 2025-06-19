@@ -762,46 +762,46 @@ Yoong, S. K. and A. N. Zainab. “Chinese Literary Works Translated Into Baba Ma
 
 [^40]: Chen, “An Information War Waged by Merchants and Missionaries at Canton: The Society for the Diffusion of Useful Knowledge in China, 1834–1839,” 1724, see also note 49.
 
-41 Chen, “An Information War Waged by Merchants and Missionaries at Canton: The Society for the Diffusion of Useful Knowledge in China, 1834–1839,” 1724.
+[^41]: Chen, “An Information War Waged by Merchants and Missionaries at Canton: The Society for the Diffusion of Useful Knowledge in China, 1834–1839,” 1724.
 
-42 See Fred W. Drake, _China Charts the World: Hsu Chi-Yu and His Geography of 1848_ (Cambridge, Massachusetts: Harvard University Press, 1975)
+[^42]: See Fred W. Drake, _China Charts the World: Hsu Chi-Yu and His Geography of 1848_ (Cambridge, Massachusetts: Harvard University Press, 1975)
 
-43 41 Chen, “An Information War Waged by Merchants and Missionaries at Canton: The Society for the Diffusion of Useful Knowledge in China, 1834–1839,” 1725.
+[^43]: Chen, “An Information War Waged by Merchants and Missionaries at Canton: The Society for the Diffusion of Useful Knowledge in China, 1834–1839,” 1725.
 
-44 Zhuang Qinyong and Zhou Qinghai 庄钦永 and 周清海,_Ji du jiaochuan jiao shi yu jin xian dai Han yu xin ci_ [基督教传教士与近现代汉语新词](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13693298) \[Christian missionaries and new words in modern Chinese\] (新加 坡: 新加坡青年书局, 2010), (Call no. Chinese RSING 495.124 CDK)
+[^44]: Zhuang Qinyong and Zhou Qinghai 庄钦永 and 周清海,_Ji du jiaochuan jiao shi yu jin xian dai Han yu xin ci_ [基督教传教士与近现代汉语新词](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13693298) \[Christian missionaries and new words in modern Chinese\] (新加 坡: 新加坡青年书局, 2010), (Call no. Chinese RSING 495.124 CDK)
 
-45 Zhuang and Zhou,_[Ji du jiaochuan jiao shi yu jin xian dai Han yu xin ci](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13693298)_, 4.
+[^45]: Zhuang and Zhou,_[Ji du jiaochuan jiao shi yu jin xian dai Han yu xin ci](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13693298)_, 4.
 
-46 Selections from Zhuang and Zhou,_[Ji du jiaochuan jiao shi yu jin xian dai Han yu xin ci](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13693298)_, 5–39.
+[^46]: Selections from Zhuang and Zhou,_[Ji du jiaochuan jiao shi yu jin xian dai Han yu xin ci](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13693298)_, 5–39.
 
-47 Lee Geok Boi, [_Pages From Yesteryear: A Look at the Printed Works of Singapore, 1819–1959_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5360274) (Singapore: Singapore Heritage Society, 1989), 5. (Call no. RSING 070.5095957 PAG)
+[^47]: Lee Geok Boi, [_Pages From Yesteryear: A Look at the Printed Works of Singapore, 1819–1959_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5360274) (Singapore: Singapore Heritage Society, 1989), 5. (Call no. RSING 070.5095957 PAG)
 
-48 See footnote, 林光铨校《西河林氏族谱》(清光绪三年 \[1877年\] 新加坡古友轩石印本).
+[^48]: See footnote, 林光铨校《西河林氏族谱》(清光绪三年 \[1877年\] 新加坡古友轩石印本).
 
-49 Chen Mong Hock, [_The Early Chinese Newspapers of Singapore, 1881–1912_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082030) (Singapore: University of Malaya Press, 1967), 55. (Call no. RSING 079.5702 CHE)
+[^49]: Chen Mong Hock, [_The Early Chinese Newspapers of Singapore, 1881–1912_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082030) (Singapore: University of Malaya Press, 1967), 55. (Call no. RSING 079.5702 CHE)
 
-50 Lin Guangquan School 林光铨校, [西河林氏族谱. 载《北京图书馆藏家谱丛刊: 闽粤（侨乡）卷](https://eservice.nlb.gov.sg/redir/itemdetails?bid=10088407)》\[Beijing Library’s Genealogy Reprint Series\] (北京: 北京图书馆出版社, 2001), 424. (Call no. Chinese q929.10720512BJT)
+[^50]: Lin Guangquan School 林光铨校, [西河林氏族谱. 载《北京图书馆藏家谱丛刊: 闽粤（侨乡）卷](https://eservice.nlb.gov.sg/redir/itemdetails?bid=10088407)》\[Beijing Library’s Genealogy Reprint Series\] (北京: 北京图书馆出版社, 2001), 424. (Call no. Chinese q929.10720512BJT)
 
-51 David K. Y. Chng, “Some Notes on the Lau Pat Press,” in [_The Need To Read: Essays in Honour of Hedwig Anuar_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5421944), ed. Saravanan Gopinathan and Valerie Barth (Singapore: Festival of Books, 1989), 351–60. (Call no. RSING 020.95957 NEE-\[LIB\])
+[^51]: David K. Y. Chng, “Some Notes on the Lau Pat Press,” in [_The Need To Read: Essays in Honour of Hedwig Anuar_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5421944), ed. Saravanan Gopinathan and Valerie Barth (Singapore: Festival of Books, 1989), 351–60. (Call no. RSING 020.95957 NEE-\[LIB\])
 
-52 Lee, [_Pages From Yesteryear: A Look at the Printed Works of Singapore, 1819–1959_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5360274), . 27.
+[^52]: Lee, [_Pages From Yesteryear: A Look at the Printed Works of Singapore, 1819–1959_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5360274), . 27.
 
-53 _Lat Pau_ was founded by See Ewee Lay, a descendant of a well-known Malacca Baba family that had business in Singapore.&nbsp;&nbsp;
+[^53]: _Lat Pau_ was founded by See Ewee Lay, a descendant of a well-known Malacca Baba family that had business in Singapore.&nbsp;&nbsp;
 
-54 See Ewee Lay’s father, See Eng Wat (薛荣樾), was born and bred in Malacca. However, as conditions for travelling between Malaya and China were somewhat easier after the arrival of the British, See Eng Wat went to Amoy to trade. See Chen, [_The Early Chinese Newspapers of Singapore, 1881–1912_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082030), 24.
+[^54]: See Ewee Lay’s father, See Eng Wat (薛荣樾), was born and bred in Malacca. However, as conditions for travelling between Malaya and China were somewhat easier after the arrival of the British, See Eng Wat went to Amoy to trade. See Chen, [_The Early Chinese Newspapers of Singapore, 1881–1912_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082030), 24.
 
-55 Chen, [_The Early Chinese Newspapers of Singapore, 1881–1912_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082030), 22, 42.
+[^55]: Chen, [_The Early Chinese Newspapers of Singapore, 1881–1912_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082030), 22, 42.
 
-56 Chen, [_The Early Chinese Newspapers of Singapore, 1881–1912_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082030), 22, 46.
+[^56]: Chen, [_The Early Chinese Newspapers of Singapore, 1881–1912_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082030), 22, 46.
 
-57 五伦, i.e. the rules of conduct governing relations between Sovereign and Minister, Father and Son, Elder Brother and Younger Brother, Husband and Wife, and Relative and Friend.
+[^57]: 五伦, i.e. the rules of conduct governing relations between Sovereign and Minister, Father and Son, Elder Brother and Younger Brother, Husband and Wife, and Relative and Friend.
 
-58 For the Confucian revival movement and the origins of Singapore Chinese Nationalism, see Yen Ching-Hwang, “Overseas Chinese Nationalism in Singapore and Malaya, 1877–1912,” (A paper presented at the Second National Conference of Asian Studies Association of Australia, held at University of New South Wales, Sydney, 14–18 May 1978). _Modern Asian Studies_ 16, no. 3 (July 1982): 397–25. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^58]: For the Confucian revival movement and the origins of Singapore Chinese Nationalism, see Yen Ching-Hwang, “Overseas Chinese Nationalism in Singapore and Malaya, 1877–1912,” (A paper presented at the Second National Conference of Asian Studies Association of Australia, held at University of New South Wales, Sydney, 14–18 May 1978). _Modern Asian Studies_ 16, no. 3 (July 1982): 397–25. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-59 Li Jinsheng 李金生, “Nanyang yi ci, gezi jie shuo: Nanyang gainian de lishi yanbian” 南洋一词，各自界说: 南洋概念的历史演变 \[The term “Nanyang” has its own definition: the historical evolution of the concept of “Nanyang”\], [_亚洲文化_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7317634) _Asian Culture_ 30 (June 2006): 120–21. (Call no. Chinese RSING 950.05 AC)
+[^59]: Li Jinsheng 李金生, “Nanyang yi ci, gezi jie shuo: Nanyang gainian de lishi yanbian” 南洋一词，各自界说: 南洋概念的历史演变 \[The term “Nanyang” has its own definition: the historical evolution of the concept of “Nanyang”\], [_亚洲文化_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7317634) _Asian Culture_ 30 (June 2006): 120–21. (Call no. Chinese RSING 950.05 AC)
 
-60 Ye Zhongling 叶钟铃, _Huang Zunxian yu Nanyang wen xue_ [黄宗宪与南洋文学](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11673386) \[Huang Zongxian and nanyang literature\] (新加坡: 新加坡亚洲研究学会, 2002). &nbsp;(Call no. Chinese R C810.08 YZL)
+[^60]: Ye Zhongling 叶钟铃, _Huang Zunxian yu Nanyang wen xue_ [黄宗宪与南洋文学](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11673386) \[Huang Zongxian and nanyang literature\] (新加坡: 新加坡亚洲研究学会, 2002). &nbsp;(Call no. Chinese R C810.08 YZL)
 
-61 Mark Ravinder Frost, “Emporium in Imperio: Nanyang Networks and the Straits Chinese in Singapore, 1819–1914,” _Journal of Southeast Asian Studies_ 36, no. 1 (February 2005): 29–66. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^61]: Mark Ravinder Frost, “Emporium in Imperio: Nanyang Networks and the Straits Chinese in Singapore, 1819–1914,” _Journal of Southeast Asian Studies_ 36, no. 1 (February 2005): 29–66. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-62 S. K. Yoong and A. N. Zainab, “ Chinese Literary Works Translated Into Baba Malay: A Bibliometric Study,” _Malaysian Journal of Library &amp; Information Science_ 7, no. 2 (December 2002): 1–23.
+[^62]: S. K. Yoong and A. N. Zainab, “ Chinese Literary Works Translated Into Baba Malay: A Bibliometric Study,” _Malaysian Journal of Library &amp; Information Science_ 7, no. 2 (December 2002): 1–23.
