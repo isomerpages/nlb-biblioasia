@@ -27,7 +27,7 @@ in Chinese-language printing were not well preserved. Despite the
 introduction of *The Book Registration Ordinance*, 1886, the situation did not improve, as observed by Cecil Byrd in 1970 when he visited Singapore.
 He conducted a survey of early printing in the Straits Settlements, which
 was a preliminary exploration of the nascent print industries in the
-three settlements.1 Since then, a lot of effort – by local and international
+three settlements.[^1] Since then, a lot of effort – by local and international
 academics, librarians and curators – has been put into compiling a set
 of documentation. They have worked to source for samples, including
 unrecorded extant titles, so that we now have a better picture of the total
@@ -61,18 +61,18 @@ Press* (《中国报学史》) that the significance of publications such as Mal
 first Chinese periodical, *Chinese Monthly Magazine* (《察世俗每月统记传》), and
 Singapore’s first Chinese-language magazine, *East-West Magazine* (《东西洋考每
 月统记传》), was their contributions to the development of the modern Chinese
-press in China.2
+press in China.[^2]
 
 Ge also made a special trip to London to read the two magazines and
-subsequently wrote an article about them.3 His initial attempt to chronicle
+subsequently wrote an article about them.[^3] His initial attempt to chronicle
 Chinese-language printing may have prompted the first academic study
 of early Chinese newspapers by Singaporean Chen Mong Hock. Her MA
 thesis, *The Early Chinese Newspapers of Singapore*, 1881–1912 (Singapore:
 University of Malayan Press, 1967), remains one of the most authoritative
 studies on this subject to this day. Following Chen, a few local and foreign
-academics, including He Shumin (何舒敏, 1977),4 David Chng (莊钦永, 1982),5
-Wong Hong Ting (王慷鼎, 1982),6 Wu Qing Tang (吴庆棠, 1997),7 and Zhuo
-Nan Sheng (卓南生, 1998),8 also added new findings to these studies.
+academics, including He Shumin (何舒敏, 1977),[^4] David Chng (莊钦永, 1982),[^5]
+Wong Hong Ting (王慷鼎, 1982),[^6] Wu Qing Tang (吴庆棠, 1997),[^7] and Zhuo
+Nan Sheng (卓南生, 1998),[^8] also added new findings to these studies.
 
 During the first half of the 19th century, the printing and publishing scene
 in Singapore was very active. Soon after Sir Stamford Raffles had founded Singapore and established it as a modern and free entrepôt centre linking
@@ -91,10 +91,10 @@ during this period inevitably became difficult to achieve.
 As such, it is unsurprising that the study of the missionary press and its
 printing activities was not feasible until 1960, when ABCFM donated their
 library materials to Harvard University, and their archives to the Houghton
-Rare Book Library in the U.S.9 Since then, John King Fairbank, Susan
+Rare Book Library in the U.S.[^9] Since then, John King Fairbank, Susan
 Barnett and the Harvard University group have embarked on a series of
 studies into the Protestant missionaries’ legacy concerning the spread of
-Christianity and their role in China’s modernisation.10 Cross-cultural
+Christianity and their role in China’s modernisation.[^10] Cross-cultural
 communications by the western Protestants and their Chinese respondents
 subsequently became the main subject of study.
 
