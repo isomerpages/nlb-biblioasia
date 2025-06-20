@@ -594,4 +594,282 @@ and a Nation, 1819–2015. Her research focus is Southeast Asia, particularly Si
 She has also previously worked as a humanitarian aid worker in Cambodia, Indonesia,
 Thailand and Kosovo.</div>
 
+#### **BIBLIOGRAPHY**
+ 
+Abdullah bin Kadir. Translated by A. H. Hill. _The Hikayat Abdullah: An Autobiography of Abdullah bin Kadir 1797–1854_. [1985](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4437767). Reprint. Singapore: Oxford University Press, 1969. (From National Library Singapore, call no. RSING 959.51032 ABD-\[GH\])
 
+Anderson, R. Benedict. [_Imagined Communities: Reflections on the Origin and Spread of Nationalism_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12799969). London: Verso, 2006. (From National Library Singapore, call no. RSING 320.54 AND)
+
+Ang, Seow Leng. “[Stories of Abdullah](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/hikayat-abdullah-abdul-kadir-munsyi/).” _BiblioAsia_ 11, no. 4 (January–March 2016) &nbsp;
+
+Ballantyne, Tony. _Entanglements of Empire: Missionaries, Maori, and the Question of the Body_. Durham: Duke University Press, 2014.
+
+Bohr, P. Richard. “The Legacy of William Milne.” _International Bulletin of Missionary Research_ 25, no. 4 (October 2001): 173–78.
+
+Bowman, Marilyn. _James Legge and the Chinese Classics: A Brilliant Scot in the Turmoil of Colonial Hong Kong_. Canada: FreisenPress, 2016.
+
+Byrd, Cecil K. [_Early Printing in the Straits Settlements, 1806–1858_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4081984)_._ Singapore: National Library, 1970, 13. (From National Library Singapore, call no. RSING 686.2095927 BYR)
+
+Chang, Elizabeth E. “Converting Chinese Eyes: Rev. W. H. Medhurst, “Passing” and the Victorian Vision of China.” In [_A Century of Travels in China: Critical Essays on Travel Writing From the 1840s to the 1940s_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13040033), edited by Douglas Kerr and Julia Kuehn. Hong Kong: Hong Kong University Press, 2007. (From National Library Singapore, call no. RSING 820.93251 CEN)
+
+Chen, Mong Hock. [_The Early Chinese Newspapers of Singapore, 1881–1912_](https://catalogue.nlb.gov.sg/search/card?recordId=4082030). &nbsp;Singapore: University of Malaya Press, 1967, 1. (From National Library Singapore, call no. RCLOS 079.5702 CHE)
+
+Colley, Ann C. “Colonies of Memory.” _Victorian Literature and Culture_ 31, no. 2 (2003): 405–27. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Darch, John. “Love and Death in the Mission Compound: The Hardships of Life in the Tropics for Victorian Missionaries and Their Families.” _Anvil_ 17, no. 1 (2000): 29–39.
+
+Doran, Christine. “A Fine Sphere of Female Usefulness”: Missionary Women in the Straits Settlements, 1815–1845.” _Journal of the Malaysian Branch of the Royal Asiatic Society_ 69, no. 1 (270) (1996): 100–11. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+—. “Instruments in the Hand of God: Missionary Women in Malaya, 1815–1845.” _Asian Journal of Women’s Studies_ 10, no. 1 (2004): 7–24.
+
+Fischer, Benjamin Louis. “Opium Pushing and Bible Smuggling: Religion and the Cultural Politics of British Imperial Ambition in China.” PhD diss., University of Notre Dame, April 2008.&nbsp;&nbsp;
+
+Forman, G. Ross. [_China and the Victorian Imagination: Empires Entwined_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200170166). Cambridge: Cambridge University Press, 2013. (From National Library Singapore, call no. R 820.93251 FOR)
+
+Frost, Mark Ravinder and Yu-Mei Balasingamchow. [_Singapore: A Biography_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13229116). Singapore: Editions Didier Millet: National Museum of Singapore, 2009. (From National Library Singapore, call no. RSING 959.57 FRO-\[HIS\])
+
+Gibson-Hill, Carl Alexander. [_The Singapore Chronicle (1824–1837)_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4078469)_._ \[Singapore\]: \[Malayan Branch, Royal Asiatic Society\], 1953, 175–99. (From National Library Singapore, call no. RCLOS 959.59 JMBRAS-\[JSB\])
+
+Glendinning, Victoria. [_Raffles and the Golden Opportunity 1781–1826_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14482247). London: Profile Books, 2012. (From National Library Singapore, call no. RSING 959.57021092 GLE-\[HIS\])
+
+Gunson, Niel. _Messengers of Grace: Evangelical Missionaries in the South Seas, 1797–1860_. Oxford: Oxford University Press, 1978.
+
+Harrison, Brian. [_Waiting for China: The Anglo-Chinese College at Malacca, 1818–1843, and Early Nineteenth-Century Missions_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1710735). Hong Kong: Hong Kong University Press, 1979. (From National Library Singapore, call no. RSING 207.595141 HAR)
+
+Hay, James and Henry Belfrage. _A Memoir of the Rev. Alexander Waugh D.D. With Selections From His Epistolary Correspondence, Pulpit Recollections, &amp; C._, 2nd ed. London: Hamilton, Adams &amp; Co., 1831.&nbsp;
+
+Horne, C. Silvester. _The Story of the L.M.S.: With an Appendix Bringing the Story up to Year 1904_. Blackfriars: London Missionary Society, 1904.
+
+Ibrahim bin Ismail. “Samuel Dyer and His Contribution to Chinese Typography.” _Library Quarterly: Information, Community, Policy_ 54, no. 2 (April 1984): 157–69. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Johnston, Anna. _Missionary Writing and Empire, 1800–1860._ New York: Cambridge University Press, 2003.
+
+—. _The Paper War: Morality, Print Culture, and Power in Colonial New South Wales_. Crawley: University of Western Australia Publishing, 2011.
+
+Liew, Clement. “[A Survey of the Development of the Singapore Chinese Catholic Mission in the 19th Century](https://biblioasia.nlb.gov.sg/vol-3/issue-4/jan-2008/chinese-catholic-mission-development/).” _BiblioAsia_ 3, no, 4 (January 2008)
+
+Lim, Peng Han. “[Singapore: An Emerging Centre of 19th-Century Malay School Book Printing and Publishing in the Straits Settlements, 1819–1899: Identifying the Four Phases of Development](https://biblioasia.nlb.gov.sg/vol-4/issue4/jan-2009/emerging-centre-malay-school-book-printing/),” _BiblioAsia_ 4, no. 4 (January–March 2009)
+
+Macartney, George. [_An Embassy to China: Being the Journal Kept by Lord Macartney During His Embassy to the Emperor Ch’ien-Lung 1793–1794_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202798293). London: The Folio Society, 2004. (From National Library Singapore, call no. RCLOS 951.032 MAC-\[JSB\])
+
+Manktelow, Emily J. _Missionary Families: Race, Gender and Generation on the Spiritual Frontier_. Manchester: Manchester University Press, 2013.
+
+Medhurst, Walter Henry. _China: Its State and Prospects, With Special Reference to the Spread of the Gospel_. London: John Snow, 1838. (From National Library Singapore, call no. RRARE 266.0230951 MED-\[GH\])
+
+Milne, William C. [_Retrospect of the First Ten Years of the Protestant Mission to China (Now in Connection With the Malay, Denominated, the Ultra-Ganges Missions); Accompanied With Miscellaneous Remarks on the Literature, History and Mythology of China, &amp; C._](https://www.nlb.gov.sg/main/book-detail?cmsuuid=176afa75-9aa1-4c37-9a62-3a805266accf). Malacca: Anglo-Chinese Press, 1820. (From National Library Online; call no. RRARE 266.02341051 MIL-\[JSB\]; microfilm NL6603)
+
+Milner, A. C. “The Sultan and the Missionary.” _Jebat: Malaysian Journal of History, Politics and Strategic Studies_ 9 (1979): 1–15.
+
+O’Sullivan, Leona. “The London Missionary Society: A Written Record of Missionaries and Printing Presses in the Straits Settlements, 1815–1847.” _Journal of the Malaysian Branch of the Royal Asiatic_ _Society_ 57, no. 2 (247) (1984): 61–104. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+O’Sullivan, Ronnie Leona. [_A History of the London Missionary Society in the Straits Settlements (C. 1815–1847)_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5701470). London: University of London Library, 1990. (From National Library Singapore, call no. RCLOS 266.0234105957 OSU)
+
+Phillip, Robert. _The Life and Opinions of the Rev. William Milne, D.D., Missionary to China_. London: John Snow, 1840. (From National Library Singapore, call no. RRARE 266.02341051 PHI-\[JSB\])
+
+Porter, Andrew N. [_Religion Versus Empire? British Protestant Missions and Overseas Expansion, 1700–1914_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202743697). Manchester; New York: Manchester University Press, 2004. (From National Library Singapore, call no. RSEA 266.02341 POR)
+
+Porter, David. _The Chinese Taste in Eighteenth-Century England_. United Kingdom: Cambridge University Press, 2010.
+
+Proudfoot, Ian. [_Early Malay Printed Books: A Provisional Account of Material Published in the Singapore-Malaysia Area up to 1920, Noting Holdings in Major Public Collections_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6712616). Kuala Lumpur: Academy of Malay Studies and the Library, University of Malaya, 1993. (From National Library Singapore, call no. RSING 015.5957 PRO-\[LIB\])
+
+—. “Lithography at the Crossroads of the East.” _Journal of the Printing Historical Society_ no. 27 (1998): 113–31.
+
+—. “From Recital To Sight-Reading: The Silencing of Texts in Malaysia.” [_Indonesia and the Malay World_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8347428) 30, no. 87 (2002): 117–44. (From National Library Singapore, call no. RSEA 959.8 IMW)
+
+Reid, Anthony. “Fr Pcot and the Earliest Catholic Imprints in Malay.” In [_Lost Times and Untold Tales From the Malay World_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13101337), edited by Jan Van Der Putten and Mary Kilcline Cody. Singapore: NUS Press, 2009. (From National Library Singapore, call no. RSING 001.0899928 LOS)
+
+Reinders, Eric. _Borrowed Gods and Foreign Bodies: Christian Missionaries Imagine Chinese Religion_. Los Angeles: University of California Press, 2004.
+
+Roxborogh, John. “Early Nineteenth-Century Foundations of Christianity in Malaya: Churches and Missions in Penang, Melaka and Singapore From 1786–1842.” _Asian Journal of Theology_ 6, no. 1 (April 1992):54–72.
+
+Saw, Swee-Hock. [_The Population of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14383911). 3rd ed. Singapore: Institute of Southeast Asian Studies, 2012. (From National Library Singapore, call no. RSING 304.6095957 SAW)
+
+Singapore Christian Union. [_The First Report of the Singapore Christian Union, 1830_](https://www.nlb.gov.sg/main/Book-Detail-Page?cmsUuID=f6c7e4f9-05d1-4281-85c4-ad2bfbbaf28d). Singapore: The Mission Press, 1830. (From National Library Online; microfilm NL30804)
+
+Stanley, Brian. “From “The Poor Heathen” to “The Glory and Honour of All Nations”: Vocabularies of Race and Custom in Protestant Missions, 1844–1928.” _International Bulletin of Missionary Research_ 34, no. 1 (January 2010): 3–10.
+
+Su, Ching. “The Printing Presses of the London Missionary Society Among the Chinese.” PhD diss. University of London, 1996.
+
+Sweeney, Amin. “Abdullah bin Abdul Kadir Munsyi: A Man of Bananas and Thorns.” [_Indonesia and the Malay World_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8347428) 34, no. 100 (2006): 223–45. (From National Library Singapore, call no. RSEA 959.8 IMW)
+
+Tan, Bonny. “[Claudius Henry Thomsen: A Pioneer in Malay Printing](https://biblioasia.nlb.gov.sg/vol-12/issue-4/jan-mar-2017/claudiushenrythomsen/).” _BiblioAsia_ 12, no. 4 (January–March 2017)
+
+Thorne, Susan. _Congregational Missions and the Making of an Imperial Culture in Nineteenth-Century England_. Stanford: Stanford University Press, 1999.
+
+Townsend, William John. _Robert Morrison: The Pioneer of Chinese Missions_. London: S. W. Partridge &amp; Co., 1888.&nbsp;&nbsp; &nbsp;
+
+Twells, A. _The Civilising Mission and the English Middle Class, 1792–1850: The ‘Heathen’ at Home and Overseas_. London: Palgrave Macmillan, 2009.
+
+Van der Putten, Jan. “Abdullah Munsyi and the Missionaries.” _Journal of the Humanities and Social Sciences of Southeast Asia and Oceania_ (2006): 162–4, 407–40.
+
+Wylie, Alexander. _Memorials of Protestant Missionaries to the Chinese: Giving a List of Their Publications, and Obituary Notices of the Deceased With Copious Indexes_. Shanghai: American Presbyterian Mission Press, 1867.
+
+#### **NOTES**
+         
+
+1 “Letter to Rev. Dr Thomas Raffles, February 1815,” quoted in Victoria Glendinning, [_Raffles and the Golden Opportunity 1781–1826_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14482247) (London: Profile Books, 2012), 243. (From National Library Singapore, call no. RSING 959.57021092 GLE-\[HIS\])
+
+2 Glendinning, [_Raffles and the Golden Opportunity 1781–1826_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14482247), 243.
+
+3 Abdullah bin Kadir, trans. A. H. Hill, _The Hikayat Abdullah: An Autobiography of Abdullah bin Kadir 1797–1854_ ([1985](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4437767); repr.,). Singapore: Oxford University Press, 1969), 188. (From National Library Singapore, call no. RSING 959.51032 ABD-\[GH\])
+
+4 “Letter from Thomsen in Singapore to LMS Directors, February 1823,” quoted in Cecil K. Byrd, [_Early Printing in the Straits Settlements, 1806–1858_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4081984) (Singapore: National Library, 1970), 13. (From National Library Singapore, call no. RSING 686.2095927 BYR)
+
+5 Anna Johnston, _Missionary Writing and Empire, 1800–1860_ (New York: Cambridge University Press, 2003), 15. Note that the LMS was known as the Missionary Society until 1818.
+
+6 C. Silvester Horne, _The Story of the L.M.S.: With an Appendix Bringing the Story up to Year 1904_ (Blackfriars: London Missionary Society, 1904, 10.
+
+7 Horne, _The Story of the L.M.S.: With an Appendix Bringing the Story up to Year 1904_, 10.
+
+8 “Rev. David Bogue, Writing in the Evangelical Magazine, September 1794,” quoted in James Hay and Henry Belfrage, _A Memoir of the Rev. Alexander Waugh D.D. With Selections From His Epistolary Correspondence, Pulpit Recollections, &amp; C._, 2nd ed. (London: Hamilton, Adams &amp; Co., 1831), 203. &nbsp;
+
+9 Rev. James Steven, “Christianity, the True Light To Illuminate the World.” A sermon preached before the Missionary Society in London, 9 May 1811. Quoted in Susan Thorne, _Congregational Missions and the Making of an Imperial Culture in Nineteenth-Century England_ (Stanford: Stanford University Press, 1999), 75.
+
+10 Brian Stanley, “From “The Poor Heathen” to “The Glory and Honour of All Nations”: Vocabularies of Race and Custom in Protestant Missions, 1844–1928,” _International Bulletin of Missionary Research_ 34, no. 1 (January 2010): 4.
+
+11 For a more detailed account of the Tahiti mission, see Niel Gunson, _Messengers of Grace: Evangelical Missionaries in the South Seas, 1797–1860_ (Oxford: Oxford University Press, 1978)
+
+12 David Porter, _The Chinese Taste in Eighteenth-Century England_ (United Kingdom: Cambridge University Press, 2010), 4, 10.  
+  
+
+13 George Macartney, [_An Embassy to China: Being the Journal Kept by Lord Macartney During His Embassy to the Emperor Ch’ien-Lung 1793–1794_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202798293) (London: The Folio Society, 2004). (From National Library Singapore, call no. RCLOS 951.032 MAC-\[JSB\])
+
+14 Ross G. Forman, [_China and the Victorian Imagination: Empires Entwined_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200170166) (Cambridge: Cambridge University Press, 2013), 14. (From National Library Singapore, call no. R 820.93251 FOR)
+
+15 William C. Milne, [_Retrospect of the First Ten Years of the Protestant Mission to China (Now in Connection With the Malay, Denominated, the Ultra-Ganges Missions); Accompanied With Miscellaneous Remarks on the Literature, History and Mythology of China, &amp; C._](https://www.nlb.gov.sg/main/book-detail?cmsuuid=176afa75-9aa1-4c37-9a62-3a805266accf) (Malacca: Anglo-Chinese Press, 1820), 43. (From National Library Online; call no. RRARE 266.02341051 MIL-\[JSB\]; microfilm NL6603)
+
+16 Leona O’Sullivan, “The London Missionary Society: A Written Record of Missionaries and Printing Presses in the Straits Settlements, 1815–1847,” _Journal of the Malaysian Branch of the Royal Asiatic_ _Society_ 57, no. 2 (247) (1984): 70. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+17 Carl Alexander Gibson-Hill, [_The Singapore Chronicle (1824–1837)_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4078469) (\[Singapore\]: \[Malayan Branch, Royal Asiatic Society\], 1953), 175–99. (From National Library Singapore, call no. RCLOS 959.59 JMBRAS-\[JSB\])
+
+18 Singapore Christian Union, [_The First Report of the Singapore Christian Union, 1830_](https://www.nlb.gov.sg/main/Book-Detail-Page?cmsUuID=f6c7e4f9-05d1-4281-85c4-ad2bfbbaf28d) (Singapore: The Mission Press, 1830), 11. (From National Library Online; microfilm NL30804)
+
+19 Singapore Christian Union, [_The First Report of the Singapore Christian Union, 1830_](https://www.nlb.gov.sg/main/Book-Detail-Page?cmsUuID=f6c7e4f9-05d1-4281-85c4-ad2bfbbaf28d), 16.
+
+20 Ching Su, “The Printing Presses of the London Missionary Society Among the Chinese,” (PhD diss. University of London, 1996), 160–62.
+
+21 George Bennet, “Letter”, 18 February 1832,” cited in Anna Johnston, _The Paper War: Morality, Print Culture, and Power in Colonial New South Wales_ (Crawley: University of Western Australia Publishing, 2011), 1.
+
+22 For a more detailed discussion of the events surrounding Thomsen, see Marilyn Bowman, _James Legge and the Chinese Classics: A Brilliant Scot in the Turmoil of Colonial Hong Kong_ (Canada: FreisenPress, 2016), 69–73.
+
+23 Ronnie Leona O’Sullivan, [_A History of the London Missionary Society in the Straits Settlements (C. 1815–1847)_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5701470) (London: University of London Library, 1990), 112. (From National Library Singapore, call no. RCLOS 266.0234105957 OSU)
+
+24 Thorne, _Congregational Missions and the Making of an Imperial Culture in Nineteenth-Century England_, 62.
+
+25 _Congregational Missions and the Making of an Imperial Culture in Nineteenth-Century England_, 63.
+
+26 _Congregational Missions and the Making of an Imperial Culture in Nineteenth-Century England_, 64.
+
+27 William John Townsend, _Robert Morrison: The Pioneer of Chinese Missions_ (London: S. W. Partridge &amp; Co., 1888), 113–15, 117–20.&nbsp; &nbsp;
+
+28 Johnston, _Missionary Writing and Empire, 1800–1860_, 40.
+
+29 Johnston, Johnston, _Missionary Writing and Empire, 1800–1860_, 41.
+
+30 Emily J. Manktelow, _Missionary Families: Race, Gender and Generation on the Spiritual Frontier_ (Manchester: Manchester University Press, 2013), 25.
+
+31 Manktelow, _Missionary Families: Race, Gender and Generation on the Spiritual Frontier_, 29.
+
+32 Horne, _The Story of the L.M.S.: With an Appendix Bringing the Story up to Year_, 431.
+
+33 Considerations and regulations respecting missionaries in connection with the Missionary Society, London, February 1811, quoted in A. Twells, The Civilising Mission and the English Middle Class, 1792–1850: The ‘Heathen’ at Home and Overseas (London: Palgrave Macmillan, 2009), 118.
+
+34 John Darch, “Love and Death in the Mission Compound: The Hardships of Life in the Tropics for Victorian Missionaries and Their Families,” _Anvil_ 17, no. 1 (2000): 30. Draws on experiences of the Church Missionary Society, London Missionary Society and the Methodist Church.
+
+35 Letter from Stamford Raffles to the Reverend Doctor Thomas Raffles, 12 January 1823. Reproduced in Mark Ravinder Frost and Yu-Mei Balasingamchow, [_Singapore: A Biography_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13229116) (Singapore: Editions Didier Millet: National Museum of Singapore, 2009), 67. (From National Library Singapore, call no. RSING 959.57 FRO-\[HIS\])
+
+36 Saw Swee-Hock, [_The Population of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14383911), 3rd ed. (Singapore: Institute of Southeast Asian Studies, 2012), 9. (From National Library Singapore, call no. RSING 304.6095957 SAW). Actual population was 10,683.
+
+37 Frost and Balasingamchow, [_Singapore: A Biography_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13229116), 118–19.
+
+38 Clement Liew, “[A Survey of the Development of the Singapore Chinese Catholic Mission in the 19th Century](https://biblioasia.nlb.gov.sg/vol-3/issue-4/jan-2008/chinese-catholic-mission-development/),” _BiblioAsia_ 3, no, 4 (January 2008), citing _Annals de la Propogation de la Foi (APF)_ 42 (September 1825): 124–34, specifically 10 September 1833 and 26 December 1833.
+
+39 “Letter from Milton in Singapore to LMS Directors in London, 25 December 1821,” in Council for World Mission (Great Britain), [_The Archives of the Council for World Mission: 1775–1940_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9888150) (Zug, Switzerland: Inter Documentation Co., 1978). (From National Library Singapore, call no. RCLOS 016.266 ARC-\[LIB\])
+
+40 Johnston, _Missionary Writing and Empire, 1800–1860_, 9.
+
+41 Ann C. Colley, “Colonies of Memory,” _Victorian Literature and Culture_ 31, no. 2 (2003): 405. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+42 P. Richard Bohr, “The Legacy of William Milne,” _International Bulletin of Missionary Research_ 25, no. 4 (October 2001): 174.
+
+43 From Milne’s Journal, 1816–1817, LMS: Journals, S. China. Cited in Brian Harrison, [_Waiting for China: The Anglo-Chinese College at Malacca, 1818–1843, and Early Nineteenth-Century Missions_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1710735) (Hong Kong: Hong Kong University Press, 1979), 24. (From National Library Singapore, call no. RSING 207.595141 HAR)
+
+44 For a discussion of how missionaries perceived the Chinese, and vice versa, see Eric Reinders, _Borrowed Gods and Foreign Bodies: Christian Missionaries Imagine Chinese Religion_ (Los Angeles: University of California Press, 2004); also Elizabeth E. Chang, “Converting Chinese Eyes: Rev. W. H. Medhurst, “Passing” and the Victorian Vision of China,” in [_A Century of Travels in China: Critical Essays on Travel Writing From the 1840s to the 1940s_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13040033), ed. Douglas Kerr and Julia Kuehn (Hong Kong: Hong Kong University Press, 2007), 27–38. (From National Library Singapore, call no. RSING 820.93251 CEN)
+
+45 Abdullah bin Kadir, _The Hikayat Abdullah: An Autobiography of Abdullah bin Kadir 1797–1854_, 282–86.
+
+46 O’Sullivan, [_A History of the London Missionary Society in the Straits Settlements (C. 1815–1847)_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5701470), 109.
+
+47 O’Sullivan, [_A History of the London Missionary Society in the Straits Settlements (C. 1815–1847)_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5701470), 252.
+
+48 Thorne, _Congregational Missions and the Making of an Imperial Culture in Nineteenth-Century England_, 78.
+
+49 Alexander Wylie, _Memorials of Protestant Missionaries to the Chinese: Giving a List of Their Publications, and Obituary Notices of the Deceased With Copious Indexes_ (Shanghai: American Presbyterian Mission Press, 1867), v.
+
+50 Christine Doran, “A Fine Sphere of Female Usefulness”: Missionary Women in the Straits Settlements, 1815–1845,” _Journal of the Malaysian Branch of the Royal Asiatic Society_ 69, no. 1 (270) (1996): 107. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website). Tony Ballantyne has estimated that, amongst missionaries to New Zealand, missionary wives died significantly earlier that their husbands – on the North Island, wives died on average in their early 40s, compared to husbands in their early 70s; and on the South Island, husbands outlived their wives by an average of 9 years – see Tony Ballantyne, _Entanglements of Empire: Missionaries, Maori, and the Question of the Body_ (Durham: Duke University Press, 2014), 179.
+
+51 Manktelow, _Missionary Families: Race, Gender and Generation on the Spiritual Frontier_, 40–41.
+
+52 Manktelow, _Missionary Families: Race, Gender and Generation on the Spiritual Frontier_, 42–44.
+
+53 O’Sullivan, [_A History of the London Missionary Society in the Straits Settlements (C. 1815–1847)_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5701470), 46.
+
+54 Doran, “A Fine Sphere of Female Usefulness”: Missionary Women in the Straits Settlements, 1815–1845,” 105.
+
+55 Doran, “A Fine Sphere of Female Usefulness”: Missionary Women in the Straits Settlements, 1815–1845,” 101. See also Christine Doran, “Instruments in the Hand of God: Missionary Women in Malaya, 1815–1845,” _Asian Journal of Women’s Studies_ 10, no. 1 (2004): 11.
+
+56 See “Mary Dyer,” Singapore Women’s Hall of Fame, accessed 6 February 2017. The Women’s Hall of Fame was established by the Singapore Council of Women’s Organisations as a “celebration of the women who have made, or are making, an impact on our nation”.
+
+57 “William Milne, 1814,” quoted in Robert Phillip, _The Life and Opinions of the Rev. William Milne, D.D., Missionary to China_ (London: John Snow, 1840), 137. (From National Library Singapore, call no. RRARE 266.02341051 PHI-\[JSB\])
+
+58 Abdullah bin Kadir, _The Hikayat Abdullah: An Autobiography of Abdullah bin Kadir 1797–1854_, 112, 133.
+
+59 John Roxborogh, “Early Nineteenth-Century Foundations of Christianity in Malaya: Churches and Missions in Penang, Melaka and Singapore From 1786–1842,” _Asian Journal of Theology_ 6, no. 1 (April 1992): 60. On a broader level, the field of “missionary linguistics” has grown up in recent years to study the grammars and dictionaries written by missionaries, since how a language is described and translated operates to establish norms, potentially influencing the way the language is understood and taught, as well as the cultural perception of the language.
+
+60 Byrd, [_Early Printing in the Straits Settlements, 1806–1858_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4081984), 13.
+
+61 Ibrahim bin Ismail, “Samuel Dyer and His Contribution to Chinese Typography,” _Library Quarterly: Information, Community, Policy_ 54, no. 2 (April 1984): 157–69. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+62 Walter Henry Medhurst, _China: Its State and Prospects, With Special Reference to the Spread of the Gospel_ (London: John Snow, 1838), 472. (From National Library Singapore, call no. RRARE 266.0230951 MED-\[GH\]). Medhurst cautioned that this was his estimate, noting that not all publications were regularly reported and that he might not have all of the records.
+
+63 Letter from “A Churchgoer”, “[Correspondence](https://eresources.nlb.gov.sg/newspapers/digitised/article/singchronicle18300923-1.2.7),” _Singapore Chronicle and The Commercial Register_, 23 September 1830, 2. (From NewspaperSG)
+
+64 O’Sullivan, “The London Missionary Society: A Written Record of Missionaries and Printing Presses in the Straits Settlements, 1815–1847,” 97.
+
+65 A. C. Milner, “The Sultan and the Missionary,” _Jebat: Malaysian Journal of History, Politics and Strategic Studies_ 9 (1979): 3.
+
+66 Milner, “The Sultan and the Missionary,” 4.
+
+67 Anthony Reid, “Fr Pcot and the Earliest Catholic Imprints in Malay,” in [_Lost Times and Untold Tales From the Malay World_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13101337), ed. Jan Van Der Putten and Mary Kilcline Cody (Singapore: NUS Press, 2009), 177–78. (From National Library Singapore, call no. RSING 001.0899928 LOS)
+
+68 Ian Proudfoot, [_Early Malay Printed Books: A Provisional Account of Material Published in the Singapore-Malaysia Area up to 1920, Noting Holdings in Major Public Collections_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6712616) (Kuala Lumpur: Academy of Malay Studies and the Library, University of Malaya, 1993), 9. (From National Library Singapore, call no. RSING 015.5957 PRO-\[LIB\])
+
+69 Proudfoot, [_Early Malay Printed Books_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6712616), 15–16; See also Lim Peng Han, “[Singapore: An Emerging Centre of 19th-Century Malay School Book Printing and Publishing in the Straits Settlements, 1819–1899: Identifying the Four Phases of Development](https://biblioasia.nlb.gov.sg/vol-4/issue4/jan-2009/emerging-centre-malay-school-book-printing/),” _BiblioAsia_ 4, no. 4 (January–March 2009)
+
+70 Chen Mong Hock, [_The Early Chinese Newspapers of Singapore, 1881–1912_](https://catalogue.nlb.gov.sg/search/card?recordId=4082030) (Singapore: University of Malaya Press, 1967), 1. (From National Library Singapore, call no. RCLOS 079.5702 CHE)
+
+71 O’Sullivan, “The London Missionary Society: A Written Record of Missionaries and Printing Presses in the Straits Settlements, 1815–1847,” 66–67. Quotation is taken from the subtitle of the magazine.
+
+72 O’Sullivan, “The London Missionary Society: A Written Record of Missionaries and Printing Presses in the Straits Settlements, 1815–1847,” 67.
+
+73 Su, “The Printing Presses of the London Missionary Society Among the Chinese,” (PhD diss. University of London, 1996), 160–62.
+
+74 Proudfoot, [_Early Malay Printed Books_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6712616), 14. The most well-known of Abdullah’s works is the Hikayat Abdullah (Stories of Abdullah), published in 1849 and used as a textbook in Malay schools in Singapore until the 1970s: see Ang Seow Leng, “[Stories of Abdullah](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/hikayat-abdullah-abdul-kadir-munsyi/),” _BiblioAsia_ 11, no. 4 (January–March 2016) &nbsp;
+
+75 Proudfoot, [_Early Malay Printed Books_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6712616), 14.
+
+76 Ian Proudfoot, “From Recital To Sight-Reading: The Silencing of Texts in Malaysia,” [_Indonesia and the Malay World_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8347428) 30, no. 87 (2002): 117–44. (From National Library Singapore, call no. RSEA 959.8 IMW)
+
+77 Ian Proudfoot, “Lithography at the Crossroads of the East,” _Journal of the Printing Historical Society_ no. 27 (1998): 131.
+
+78 Benedict R. Anderson, [_Imagined Communities: Reflections on the Origin and Spread of Nationalism_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12799969) (London: Verso, 2006). (From National Library Singapore, call no. RSING 320.54 AND)
+
+79 See for example Andrew N. Porter, [_Religion Versus Empire? British Protestant Missions and Overseas Expansion, 1700–1914_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202743697) (Manchester; New York: Manchester University Press, 2004). (From National Library Singapore, call no. RSEA 266.02341 POR). Also, as a case example of missionaries in New Zealand, see Ballantyne, _Entanglements of Empire: Missionaries, Maori, and the Question of the Body_.
+
+80 Amin Sweeney, “Abdullah bin Abdul Kadir Munsyi: A Man of Bananas and Thorns” [_Indonesia and the Malay World_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8347428) 34, no. 100 (2006): 224. (From National Library Singapore, call no. RSEA 959.8 IMW)
+
+81 O’Sullivan, [_A History of the London Missionary Society in the Straits Settlements (C. 1815–1847)_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5701470), 47.
+
+82 Sweeney, “[Abdullah bin Abdul Kadir Munsyi: A Man of Bananas and Thorns](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8347428),” 226. See also Jan van der Putten, “Abdullah Munsyi and the Missionaries,” _Journal of the Humanities and Social Sciences of Southeast Asia and Oceania_ (2006): 162–64, 407–40.
+
+83 Roxborogh, “Early Nineteenth-Century Foundations of Christianity in Malaya,” 69.
