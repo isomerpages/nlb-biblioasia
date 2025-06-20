@@ -766,45 +766,45 @@ Wylie, Alexander. _Memorials of Protestant Missionaries to the Chinese: Giving a
 
 [^30]: Emily J. Manktelow, _Missionary Families: Race, Gender and Generation on the Spiritual Frontier_ (Manchester: Manchester University Press, 2013), 25.
 
-31 Manktelow, _Missionary Families: Race, Gender and Generation on the Spiritual Frontier_, 29.
+[^31]: Manktelow, _Missionary Families: Race, Gender and Generation on the Spiritual Frontier_, 29.
 
-32 Horne, _The Story of the L.M.S.: With an Appendix Bringing the Story up to Year_, 431.
+[^32]: Horne, _The Story of the L.M.S.: With an Appendix Bringing the Story up to Year_, 431.
 
-33 Considerations and regulations respecting missionaries in connection with the Missionary Society, London, February 1811, quoted in A. Twells, The Civilising Mission and the English Middle Class, 1792–1850: The ‘Heathen’ at Home and Overseas (London: Palgrave Macmillan, 2009), 118.
+[^33]: Considerations and regulations respecting missionaries in connection with the Missionary Society, London, February 1811, quoted in A. Twells, The Civilising Mission and the English Middle Class, 1792–1850: The ‘Heathen’ at Home and Overseas (London: Palgrave Macmillan, 2009), 118.
 
-34 John Darch, “Love and Death in the Mission Compound: The Hardships of Life in the Tropics for Victorian Missionaries and Their Families,” _Anvil_ 17, no. 1 (2000): 30. Draws on experiences of the Church Missionary Society, London Missionary Society and the Methodist Church.
+[^34]: John Darch, “Love and Death in the Mission Compound: The Hardships of Life in the Tropics for Victorian Missionaries and Their Families,” _Anvil_ 17, no. 1 (2000): 30. Draws on experiences of the Church Missionary Society, London Missionary Society and the Methodist Church.
 
-35 Letter from Stamford Raffles to the Reverend Doctor Thomas Raffles, 12 January 1823. Reproduced in Mark Ravinder Frost and Yu-Mei Balasingamchow, [_Singapore: A Biography_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13229116) (Singapore: Editions Didier Millet: National Museum of Singapore, 2009), 67. (From National Library Singapore, call no. RSING 959.57 FRO-\[HIS\])
+[^35]: Letter from Stamford Raffles to the Reverend Doctor Thomas Raffles, 12 January 1823. Reproduced in Mark Ravinder Frost and Yu-Mei Balasingamchow, [_Singapore: A Biography_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13229116) (Singapore: Editions Didier Millet: National Museum of Singapore, 2009), 67. (From National Library Singapore, call no. RSING 959.57 FRO-\[HIS\])
 
-36 Saw Swee-Hock, [_The Population of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14383911), 3rd ed. (Singapore: Institute of Southeast Asian Studies, 2012), 9. (From National Library Singapore, call no. RSING 304.6095957 SAW). Actual population was 10,683.
+[^36]: Saw Swee-Hock, [_The Population of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14383911), 3rd ed. (Singapore: Institute of Southeast Asian Studies, 2012), 9. (From National Library Singapore, call no. RSING 304.6095957 SAW). Actual population was 10,683.
 
-37 Frost and Balasingamchow, [_Singapore: A Biography_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13229116), 118–19.
+[^37]: Frost and Balasingamchow, [_Singapore: A Biography_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13229116), 118–19.
 
-38 Clement Liew, “[A Survey of the Development of the Singapore Chinese Catholic Mission in the 19th Century](https://biblioasia.nlb.gov.sg/vol-3/issue-4/jan-2008/chinese-catholic-mission-development/),” _BiblioAsia_ 3, no, 4 (January 2008), citing _Annals de la Propogation de la Foi (APF)_ 42 (September 1825): 124–34, specifically 10 September 1833 and 26 December 1833.
+[^38]: Clement Liew, “[A Survey of the Development of the Singapore Chinese Catholic Mission in the 19th Century](https://biblioasia.nlb.gov.sg/vol-3/issue-4/jan-2008/chinese-catholic-mission-development/),” _BiblioAsia_ 3, no, 4 (January 2008), citing _Annals de la Propogation de la Foi (APF)_ 42 (September 1825): 124–34, specifically 10 September 1833 and 26 December 1833.
 
-39 “Letter from Milton in Singapore to LMS Directors in London, 25 December 1821,” in Council for World Mission (Great Britain), [_The Archives of the Council for World Mission: 1775–1940_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9888150) (Zug, Switzerland: Inter Documentation Co., 1978). (From National Library Singapore, call no. RCLOS 016.266 ARC-\[LIB\])
+[^39]: “Letter from Milton in Singapore to LMS Directors in London, 25 December 1821,” in Council for World Mission (Great Britain), [_The Archives of the Council for World Mission: 1775–1940_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9888150) (Zug, Switzerland: Inter Documentation Co., 1978). (From National Library Singapore, call no. RCLOS 016.266 ARC-\[LIB\])
 
-40 Johnston, _Missionary Writing and Empire, 1800–1860_, 9.
+[^40]: Johnston, _Missionary Writing and Empire, 1800–1860_, 9.
 
-41 Ann C. Colley, “Colonies of Memory,” _Victorian Literature and Culture_ 31, no. 2 (2003): 405. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^41]: Ann C. Colley, “Colonies of Memory,” _Victorian Literature and Culture_ 31, no. 2 (2003): 405. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-42 P. Richard Bohr, “The Legacy of William Milne,” _International Bulletin of Missionary Research_ 25, no. 4 (October 2001): 174.
+[^42]: P. Richard Bohr, “The Legacy of William Milne,” _International Bulletin of Missionary Research_ 25, no. 4 (October 2001): 174.
 
-43 From Milne’s Journal, 1816–1817, LMS: Journals, S. China. Cited in Brian Harrison, [_Waiting for China: The Anglo-Chinese College at Malacca, 1818–1843, and Early Nineteenth-Century Missions_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1710735) (Hong Kong: Hong Kong University Press, 1979), 24. (From National Library Singapore, call no. RSING 207.595141 HAR)
+[^43]: From Milne’s Journal, 1816–1817, LMS: Journals, S. China. Cited in Brian Harrison, [_Waiting for China: The Anglo-Chinese College at Malacca, 1818–1843, and Early Nineteenth-Century Missions_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=1710735) (Hong Kong: Hong Kong University Press, 1979), 24. (From National Library Singapore, call no. RSING 207.595141 HAR)
 
-44 For a discussion of how missionaries perceived the Chinese, and vice versa, see Eric Reinders, _Borrowed Gods and Foreign Bodies: Christian Missionaries Imagine Chinese Religion_ (Los Angeles: University of California Press, 2004); also Elizabeth E. Chang, “Converting Chinese Eyes: Rev. W. H. Medhurst, “Passing” and the Victorian Vision of China,” in [_A Century of Travels in China: Critical Essays on Travel Writing From the 1840s to the 1940s_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13040033), ed. Douglas Kerr and Julia Kuehn (Hong Kong: Hong Kong University Press, 2007), 27–38. (From National Library Singapore, call no. RSING 820.93251 CEN)
+[^44]: For a discussion of how missionaries perceived the Chinese, and vice versa, see Eric Reinders, _Borrowed Gods and Foreign Bodies: Christian Missionaries Imagine Chinese Religion_ (Los Angeles: University of California Press, 2004); also Elizabeth E. Chang, “Converting Chinese Eyes: Rev. W. H. Medhurst, “Passing” and the Victorian Vision of China,” in [_A Century of Travels in China: Critical Essays on Travel Writing From the 1840s to the 1940s_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13040033), ed. Douglas Kerr and Julia Kuehn (Hong Kong: Hong Kong University Press, 2007), 27–38. (From National Library Singapore, call no. RSING 820.93251 CEN)
 
-45 Abdullah bin Kadir, _The Hikayat Abdullah: An Autobiography of Abdullah bin Kadir 1797–1854_, 282–86.
+[^45]: Abdullah bin Kadir, _The Hikayat Abdullah: An Autobiography of Abdullah bin Kadir 1797–1854_, 282–86.
 
-46 O’Sullivan, [_A History of the London Missionary Society in the Straits Settlements (C. 1815–1847)_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5701470), 109.
+[^46]: O’Sullivan, [_A History of the London Missionary Society in the Straits Settlements (C. 1815–1847)_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5701470), 109.
 
-47 O’Sullivan, [_A History of the London Missionary Society in the Straits Settlements (C. 1815–1847)_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5701470), 252.
+[^47]: O’Sullivan, [_A History of the London Missionary Society in the Straits Settlements (C. 1815–1847)_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5701470), 252.
 
-48 Thorne, _Congregational Missions and the Making of an Imperial Culture in Nineteenth-Century England_, 78.
+[^48]: Thorne, _Congregational Missions and the Making of an Imperial Culture in Nineteenth-Century England_, 78.
 
-49 Alexander Wylie, _Memorials of Protestant Missionaries to the Chinese: Giving a List of Their Publications, and Obituary Notices of the Deceased With Copious Indexes_ (Shanghai: American Presbyterian Mission Press, 1867), v.
+[^49]: Alexander Wylie, _Memorials of Protestant Missionaries to the Chinese: Giving a List of Their Publications, and Obituary Notices of the Deceased With Copious Indexes_ (Shanghai: American Presbyterian Mission Press, 1867), v.
 
-50 Christine Doran, “A Fine Sphere of Female Usefulness”: Missionary Women in the Straits Settlements, 1815–1845,” _Journal of the Malaysian Branch of the Royal Asiatic Society_ 69, no. 1 (270) (1996): 107. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website). Tony Ballantyne has estimated that, amongst missionaries to New Zealand, missionary wives died significantly earlier that their husbands – on the North Island, wives died on average in their early 40s, compared to husbands in their early 70s; and on the South Island, husbands outlived their wives by an average of 9 years – see Tony Ballantyne, _Entanglements of Empire: Missionaries, Maori, and the Question of the Body_ (Durham: Duke University Press, 2014), 179.
+[^50]: Christine Doran, “A Fine Sphere of Female Usefulness”: Missionary Women in the Straits Settlements, 1815–1845,” _Journal of the Malaysian Branch of the Royal Asiatic Society_ 69, no. 1 (270) (1996): 107. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website). Tony Ballantyne has estimated that, amongst missionaries to New Zealand, missionary wives died significantly earlier that their husbands – on the North Island, wives died on average in their early 40s, compared to husbands in their early 70s; and on the South Island, husbands outlived their wives by an average of 9 years – see Tony Ballantyne, _Entanglements of Empire: Missionaries, Maori, and the Question of the Body_ (Durham: Duke University Press, 2014), 179.
 
 51 Manktelow, _Missionary Families: Race, Gender and Generation on the Spiritual Frontier_, 40–41.
 
