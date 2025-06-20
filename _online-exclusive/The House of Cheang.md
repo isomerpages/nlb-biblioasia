@@ -35,7 +35,7 @@ Cheang Hong Lim (1841–93) was one of the great philanthropists of Singapore an
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/Cheanh_Hong_Lim.png" style="width: 60%;">This photo of Cheang Hong Lim adorned the walls in the homes of many of his descendants, even two generations removed.<i> Courtesy of Professor Walter Woon.</i></div>
+<img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/Cheanh_Hong_Lim.png" style="width: 60%;">This photo of Cheang Hong Lim adorned the walls in the homes of many of his descendants, even two generations removed.<i> Image reproduced from Song Ong Siang, One Hundred Years’ History of the Chinese in Singapore (London: John Murray, 1923), 168. Collection of the National Library Singapore (call no. RRARE 959.57 SON).</i></div>
 
 Besides being the farmer for opium and spirits, he also owned extensive tracts of land in Chinatown and was a “large house-property owner” particularly along Havelock Road. In 1876, he contributed funds to convert the empty land in front of the then Police Courts into a public garden.[^14] This still bears his name today as Hong Lim Park.&nbsp; He also owned Hong Lim Market and would advance money liberally to stallholders. According to Song Ong Siang in _One Hundred Years’ History of the Chinese in Singapore,_ “\[Cheang Hong Lim\] was a man who trusted too readily to other people’s honesty”.&nbsp; When he died, it was discovered that the enormous sum of over $400,000 had been lent to “friends” and could not be recovered.[^15]
 
