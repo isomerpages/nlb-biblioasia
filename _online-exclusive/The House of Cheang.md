@@ -152,7 +152,7 @@ The Japanese Occupation ruined many of the old Baba-Nonya families. The Japanese
 
 [^25]:  Straits Settlements, _Government Gazette_, 9 September 1892.
 
-[^26]:  Song, _[One Hundred Years’ History of the Chinese in Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287)_, 167-168. “[Fortnight’s Summary](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18720427-1.2.4),” _Straits Times_, 27 April 1872, 1. (From NewspaperSG)
+[^26]:  Song, _[One Hundred Years’ History of the Chinese in Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287)_, 167–168. “[Fortnight’s Summary](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18720427-1.2.4),” _Straits Times_, 27 April 1872, 1. (From NewspaperSG)
 
 [^27]:  Trocki, “The Rise of Singapore’s Great Opium Syndicate 1840–86,” 78.
 
@@ -172,11 +172,11 @@ The Japanese Occupation ruined many of the old Baba-Nonya families. The Japanese
 
 [^35]:  Cheang Hong Lim’s eldest daughter, Cheang Chow Lean Neo, had married Lim Kwee Eng, Cheang Hong Lim’s manager and agent. A notice announcing his appointment was published in the newspapers on 13 October 1890. By custom, Cheang Chow Lian Neo became part of Lim Kwee Eng’s family upon her marriage; her descendants did not bear the Cheang name.
 
-[^36]:  Arnold Wright and H. A. Cartwright (Eds.), _[Twentieth Century Impressions of British Malaya](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202711817)_ (London: Lloyd’s Greater Britain Publishing Company Ltd, 1908), 637.&nbsp; (From National Library Singapore, call no. RSING 959.51033 TWE). This monumental work cost the princely sum of $150 in 1908, which was beyond the means of most people then.
+[^36]:  Arnold Wright and H. A. Cartwright (Eds.), _[Twentieth Century Impressions of British Malaya](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202711817)_ (London: Lloyd’s Greater Britain Publishing Company Ltd, 1908), 637.&nbsp; (From National Library Singapore, call no. RSING 959.51033 TWE)
 
-[^37]:  [Will of Chan Kim Hong Neo dated 13 January 1933](https://www.nlb.gov.sg/main/book-detail?cmsuuid=da2f2606-527b-4fa9-b281-fce11b209d8d) (From NL Online).&nbsp; Chan Kim Hong Neo was herself wealthy, owning several properties and substantial jewellery.&nbsp; These properties were probably inherited from her father Chan Cheng Wah.
+[^37]:  [Will of Chan Kim Hong Neo dated 13 January 1933.](https://www.nlb.gov.sg/main/book-detail?cmsuuid=da2f2606-527b-4fa9-b281-fce11b209d8d) (From NL Online).&nbsp; Chan Kim Hong Neo was herself wealthy, owning several properties and substantial jewellery.&nbsp; These properties were probably inherited from her father Chan Cheng Wah.
 
-[^38]:  Renunciation of Probate filed on 22 March 1934.&nbsp; Probate No 92 of 1934.
+[^38]:  Renunciation of Probate filed on 22 March 1934.&nbsp; Probate No. 92 of 1934.
 
 [^39]:   “[Property Sale](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19350418-1.2.42),” _Straits Times_, 18 April 1935, 9. (From NewspaperSG)
 
@@ -186,4 +186,4 @@ The Japanese Occupation ruined many of the old Baba-Nonya families. The Japanese
 
 [^42]:  “[Domestic Occurrences Announcement](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19370616-1.2.81),” _Malaya Tribune_, 16 June 1937, 12. (From NewspaperSG)
 
-[^43]:  An application for leave by Woon Chow Tat dated 11 December 1941 listed the reason for application (somewhat blandly) as “evacuation”.&nbsp; (From Professor Walter Woon’s personal collection).
+[^43]:  An application for leave by Woon Chow Tat dated 11 December 1941 listed the reason for application (somewhat blandly) as “evacuation”.&nbsp; (From Professor Walter Woon’s personal collection.)
