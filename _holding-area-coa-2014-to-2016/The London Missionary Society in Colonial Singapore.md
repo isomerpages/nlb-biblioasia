@@ -704,49 +704,47 @@ Van der Putten, Jan. “Abdullah Munsyi and the Missionaries.” _Journal of the
 
 Wylie, Alexander. _Memorials of Protestant Missionaries to the Chinese: Giving a List of Their Publications, and Obituary Notices of the Deceased With Copious Indexes_. Shanghai: American Presbyterian Mission Press, 1867.
 
-#### **NOTES**
-         
+#### **NOTES**         
 
-1 “Letter to Rev. Dr Thomas Raffles, February 1815,” quoted in Victoria Glendinning, [_Raffles and the Golden Opportunity 1781–1826_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14482247) (London: Profile Books, 2012), 243. (From National Library Singapore, call no. RSING 959.57021092 GLE-\[HIS\])
+[^1]:1 “Letter to Rev. Dr Thomas Raffles, February 1815,” quoted in Victoria Glendinning, [_Raffles and the Golden Opportunity 1781–1826_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14482247) (London: Profile Books, 2012), 243. (From National Library Singapore, call no. RSING 959.57021092 GLE-\[HIS\])
 
-2 Glendinning, [_Raffles and the Golden Opportunity 1781–1826_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14482247), 243.
+[^2]: Glendinning, [_Raffles and the Golden Opportunity 1781–1826_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14482247), 243.
 
-3 Abdullah bin Kadir, trans. A. H. Hill, _The Hikayat Abdullah: An Autobiography of Abdullah bin Kadir 1797–1854_ ([1985](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4437767); repr.,). Singapore: Oxford University Press, 1969), 188. (From National Library Singapore, call no. RSING 959.51032 ABD-\[GH\])
+[^3]: Abdullah bin Kadir, trans. A. H. Hill, _The Hikayat Abdullah: An Autobiography of Abdullah bin Kadir 1797–1854_ ([1985](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4437767); repr.,). Singapore: Oxford University Press, 1969), 188. (From National Library Singapore, call no. RSING 959.51032 ABD-\[GH\])
 
-4 “Letter from Thomsen in Singapore to LMS Directors, February 1823,” quoted in Cecil K. Byrd, [_Early Printing in the Straits Settlements, 1806–1858_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4081984) (Singapore: National Library, 1970), 13. (From National Library Singapore, call no. RSING 686.2095927 BYR)
+[^4]: “Letter from Thomsen in Singapore to LMS Directors, February 1823,” quoted in Cecil K. Byrd, [_Early Printing in the Straits Settlements, 1806–1858_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4081984) (Singapore: National Library, 1970), 13. (From National Library Singapore, call no. RSING 686.2095927 BYR)
 
-5 Anna Johnston, _Missionary Writing and Empire, 1800–1860_ (New York: Cambridge University Press, 2003), 15. Note that the LMS was known as the Missionary Society until 1818.
+[^5]: Anna Johnston, _Missionary Writing and Empire, 1800–1860_ (New York: Cambridge University Press, 2003), 15. Note that the LMS was known as the Missionary Society until 1818.
 
-6 C. Silvester Horne, _The Story of the L.M.S.: With an Appendix Bringing the Story up to Year 1904_ (Blackfriars: London Missionary Society, 1904, 10.
+[^6]: C. Silvester Horne, _The Story of the L.M.S.: With an Appendix Bringing the Story up to Year 1904_ (Blackfriars: London Missionary Society, 1904, 10.
 
-7 Horne, _The Story of the L.M.S.: With an Appendix Bringing the Story up to Year 1904_, 10.
+[^7]: Horne, _The Story of the L.M.S.: With an Appendix Bringing the Story up to Year 1904_, 10.
 
-8 “Rev. David Bogue, Writing in the Evangelical Magazine, September 1794,” quoted in James Hay and Henry Belfrage, _A Memoir of the Rev. Alexander Waugh D.D. With Selections From His Epistolary Correspondence, Pulpit Recollections, &amp; C._, 2nd ed. (London: Hamilton, Adams &amp; Co., 1831), 203. &nbsp;
+[^8]: “Rev. David Bogue, Writing in the Evangelical Magazine, September 1794,” quoted in James Hay and Henry Belfrage, _A Memoir of the Rev. Alexander Waugh D.D. With Selections From His Epistolary Correspondence, Pulpit Recollections, &amp; C._, 2nd ed. (London: Hamilton, Adams &amp; Co., 1831), 203. &nbsp;
 
-9 Rev. James Steven, “Christianity, the True Light To Illuminate the World.” A sermon preached before the Missionary Society in London, 9 May 1811. Quoted in Susan Thorne, _Congregational Missions and the Making of an Imperial Culture in Nineteenth-Century England_ (Stanford: Stanford University Press, 1999), 75.
+[^9]: Rev. James Steven, “Christianity, the True Light To Illuminate the World.” A sermon preached before the Missionary Society in London, 9 May 1811. Quoted in Susan Thorne, _Congregational Missions and the Making of an Imperial Culture in Nineteenth-Century England_ (Stanford: Stanford University Press, 1999), 75.
 
-10 Brian Stanley, “From “The Poor Heathen” to “The Glory and Honour of All Nations”: Vocabularies of Race and Custom in Protestant Missions, 1844–1928,” _International Bulletin of Missionary Research_ 34, no. 1 (January 2010): 4.
+[^10]: Brian Stanley, “From “The Poor Heathen” to “The Glory and Honour of All Nations”: Vocabularies of Race and Custom in Protestant Missions, 1844–1928,” _International Bulletin of Missionary Research_ 34, no. 1 (January 2010): 4.
 
-11 For a more detailed account of the Tahiti mission, see Niel Gunson, _Messengers of Grace: Evangelical Missionaries in the South Seas, 1797–1860_ (Oxford: Oxford University Press, 1978)
+[^11]: For a more detailed account of the Tahiti mission, see Niel Gunson, _Messengers of Grace: Evangelical Missionaries in the South Seas, 1797–1860_ (Oxford: Oxford University Press, 1978)
 
-12 David Porter, _The Chinese Taste in Eighteenth-Century England_ (United Kingdom: Cambridge University Press, 2010), 4, 10.  
+[^12]: David Porter, _The Chinese Taste in Eighteenth-Century England_ (United Kingdom: Cambridge University Press, 2010), 4, 10.  
   
+[^13]: George Macartney, [_An Embassy to China: Being the Journal Kept by Lord Macartney During His Embassy to the Emperor Ch’ien-Lung 1793–1794_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202798293) (London: The Folio Society, 2004). (From National Library Singapore, call no. RCLOS 951.032 MAC-\[JSB\])
 
-13 George Macartney, [_An Embassy to China: Being the Journal Kept by Lord Macartney During His Embassy to the Emperor Ch’ien-Lung 1793–1794_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202798293) (London: The Folio Society, 2004). (From National Library Singapore, call no. RCLOS 951.032 MAC-\[JSB\])
+[^14]: Ross G. Forman, [_China and the Victorian Imagination: Empires Entwined_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200170166) (Cambridge: Cambridge University Press, 2013), 14. (From National Library Singapore, call no. R 820.93251 FOR)
 
-14 Ross G. Forman, [_China and the Victorian Imagination: Empires Entwined_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200170166) (Cambridge: Cambridge University Press, 2013), 14. (From National Library Singapore, call no. R 820.93251 FOR)
+[^15]: William C. Milne, [_Retrospect of the First Ten Years of the Protestant Mission to China (Now in Connection With the Malay, Denominated, the Ultra-Ganges Missions); Accompanied With Miscellaneous Remarks on the Literature, History and Mythology of China, &amp; C._](https://www.nlb.gov.sg/main/book-detail?cmsuuid=176afa75-9aa1-4c37-9a62-3a805266accf) (Malacca: Anglo-Chinese Press, 1820), 43. (From National Library Online; call no. RRARE 266.02341051 MIL-\[JSB\]; microfilm NL6603)
 
-15 William C. Milne, [_Retrospect of the First Ten Years of the Protestant Mission to China (Now in Connection With the Malay, Denominated, the Ultra-Ganges Missions); Accompanied With Miscellaneous Remarks on the Literature, History and Mythology of China, &amp; C._](https://www.nlb.gov.sg/main/book-detail?cmsuuid=176afa75-9aa1-4c37-9a62-3a805266accf) (Malacca: Anglo-Chinese Press, 1820), 43. (From National Library Online; call no. RRARE 266.02341051 MIL-\[JSB\]; microfilm NL6603)
+[^16]: Leona O’Sullivan, “The London Missionary Society: A Written Record of Missionaries and Printing Presses in the Straits Settlements, 1815–1847,” _Journal of the Malaysian Branch of the Royal Asiatic_ _Society_ 57, no. 2 (247) (1984): 70. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-16 Leona O’Sullivan, “The London Missionary Society: A Written Record of Missionaries and Printing Presses in the Straits Settlements, 1815–1847,” _Journal of the Malaysian Branch of the Royal Asiatic_ _Society_ 57, no. 2 (247) (1984): 70. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^17]: Carl Alexander Gibson-Hill, [_The Singapore Chronicle (1824–1837)_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4078469) (\[Singapore\]: \[Malayan Branch, Royal Asiatic Society\], 1953), 175–99. (From National Library Singapore, call no. RCLOS 959.59 JMBRAS-\[JSB\])
 
-17 Carl Alexander Gibson-Hill, [_The Singapore Chronicle (1824–1837)_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4078469) (\[Singapore\]: \[Malayan Branch, Royal Asiatic Society\], 1953), 175–99. (From National Library Singapore, call no. RCLOS 959.59 JMBRAS-\[JSB\])
+[^18]: Singapore Christian Union, [_The First Report of the Singapore Christian Union, 1830_](https://www.nlb.gov.sg/main/Book-Detail-Page?cmsUuID=f6c7e4f9-05d1-4281-85c4-ad2bfbbaf28d) (Singapore: The Mission Press, 1830), 11. (From National Library Online; microfilm NL30804)
 
-18 Singapore Christian Union, [_The First Report of the Singapore Christian Union, 1830_](https://www.nlb.gov.sg/main/Book-Detail-Page?cmsUuID=f6c7e4f9-05d1-4281-85c4-ad2bfbbaf28d) (Singapore: The Mission Press, 1830), 11. (From National Library Online; microfilm NL30804)
+[^19]: Singapore Christian Union, [_The First Report of the Singapore Christian Union, 1830_](https://www.nlb.gov.sg/main/Book-Detail-Page?cmsUuID=f6c7e4f9-05d1-4281-85c4-ad2bfbbaf28d), 16.
 
-19 Singapore Christian Union, [_The First Report of the Singapore Christian Union, 1830_](https://www.nlb.gov.sg/main/Book-Detail-Page?cmsUuID=f6c7e4f9-05d1-4281-85c4-ad2bfbbaf28d), 16.
-
-20 Ching Su, “The Printing Presses of the London Missionary Society Among the Chinese,” (PhD diss. University of London, 1996), 160–62.
+[^20]: Ching Su, “The Printing Presses of the London Missionary Society Among the Chinese,” (PhD diss. University of London, 1996), 160–62.
 
 21 George Bennet, “Letter”, 18 February 1832,” cited in Anna Johnston, _The Paper War: Morality, Print Culture, and Power in Colonial New South Wales_ (Crawley: University of Western Australia Publishing, 2011), 1.
 
