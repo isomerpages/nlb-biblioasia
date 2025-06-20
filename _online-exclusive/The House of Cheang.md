@@ -106,7 +106,7 @@ The Japanese Occupation ruined many of the old Baba-Nonya families. The Japanese
 
 [^2]:  Information from a delegation of officials from Changtai District of Zhangzhou Municipality, 19 December 2024. The delegation was researching the history of people from Changtai who had emigrated to the Nanyang.&nbsp; Before arriving in Singapore they had visited Jakarta.
 
-[^3]:  Song Ong Siang, _[One Hundred Years’ History of the Chinese in Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287)_ (Singapore: Oxford University Press, 1984), 168–170. (From National Library Singapore, call no. RSING 959.57 SON-\[HIS\])
+[^3]:  Song Ong Siang, _[One Hundred Years’ History of the Chinese in Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287)_ (Singapore: Oxford University Press, 1984), 168–70. (From National Library Singapore, call no. RSING 959.57 SON-\[HIS\])
 
 [^4]:  Carl A. Trocki, “The Rise of Singapore’s Great Opium Syndicate 1840–86,” _Journal of Southeast Asian Studies_ 18, no. 1 (March 1987): 65 (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website). He held the Johore and Singapore Opium and Spirit Farms together with Lao Joon Teck from 1847–60.
 
@@ -134,7 +134,7 @@ The Japanese Occupation ruined many of the old Baba-Nonya families. The Japanese
 
 [^16]:  Song, _[One Hundred Years’ History of the Chinese in Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287)_, 169.
 
-[^17]:  Epitaph for Cheang Hong Lim composed by Huan Zunxian, Chinese Consul General in Singapore, in 1893.&nbsp; Reproduced in Kenneth Dean and Hue Guan Thyre, _[Chinese Epigraphy in Singapore 1819–1911](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202761291)_ (Singapore: NUS Press, 2017), chapter 41. (From National Library Singapore, call no. RSING 495.111 DEA)
+[^17]:  Epitaph for Cheang Hong Lim composed by Huan Zunxian, Chinese Consul General in Singapore, in 1893.&nbsp; Reproduced in Kenneth Dean and Hue Guan Thye, _[Chinese Epigraphy in Singapore 1819–1911](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202761291)_ (Singapore: NUS Press, 2017), chapter 41. (From National Library Singapore, call no. RSING 495.111 DEA)
 
 [^18]:  Dean and Hue, _[Chinese Epigraphy in Singapore 1819–1911](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202761291)_, chapter 41.
 
@@ -146,13 +146,13 @@ The Japanese Occupation ruined many of the old Baba-Nonya families. The Japanese
 
 [^22]:  “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/stoverland18730410-1.2.7.25),” _Straits Times Overland Journal_, 10 April 1873, 8. (From NewspaperSG)
 
-[^23]:  Letter from W.E. Maxwell, Colonial Secretary, dated 7 September 1892; reported in the _Daily Advertiser_, 13 September 1892. See “[Local and General](https://eresources.nlb.gov.sg/newspapers/digitised/article/dailyadvertiser18920913-1.2.8),” _Daily Advertiser_, 13 September 1892, 3. (From NewspaperSG)).
+[^23]:  Letter from W.E. Maxwell, Colonial Secretary, dated 7 September 1892; reported in the _Daily Advertiser_, 13 September 1892. See “[Local and General](https://eresources.nlb.gov.sg/newspapers/digitised/article/dailyadvertiser18920913-1.2.8),” _Daily Advertiser_, 13 September 1892, 3. (From NewspaperSG)
 
 [^24]:   “[Local and General](https://eresources.nlb.gov.sg/newspapers/digitised/article/dailyadvertiser18921001-1.2.8),” _Daily Advertiser_, 1 October 1892, 3; “[Summary of the Week](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18921005-1.2.5),” _Straits Times Weekly Issue_, 5 October 1892, 1. (From NewspaperSG)
 
 [^25]:  Straits Settlements, _Government Gazette_, 9 September 1892.
 
-[^26]:  Song, _[One Hundred Years’ History of the Chinese in Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287)_, 167–168. “[Fortnight’s Summary](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18720427-1.2.4),” _Straits Times_, 27 April 1872, 1. (From NewspaperSG)
+[^26]:  Song, _[One Hundred Years’ History of the Chinese in Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287)_, 167–68. “[Fortnight’s Summary](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18720427-1.2.4)” _Straits Times_, 27 April 1872, 1. (From NewspaperSG)
 
 [^27]:  Trocki, “The Rise of Singapore’s Great Opium Syndicate 1840–86,” 78.
 
@@ -160,7 +160,7 @@ The Japanese Occupation ruined many of the old Baba-Nonya families. The Japanese
 
 [^29]:  Song, _[One Hundred Years’ History of the Chinese in Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287)_, 168.
 
-[^30]:   “[Fortnight’s Summary](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18720427-1.2.4).”; Song, _[One Hundred Years’ History of the Chinese in Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287)_, 168.
+[^30]:   “[Fortnight’s Summary](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18720427-1.2.4)”; Song, _[One Hundred Years’ History of the Chinese in Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287)_, 168.
 
 [^31]:  “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18830224-1.2.18),” _Straits Times_, 24 February 1883, 2. (From NewspaperSG)
 
