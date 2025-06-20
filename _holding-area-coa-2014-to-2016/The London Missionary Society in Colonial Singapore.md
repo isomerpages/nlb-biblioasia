@@ -283,26 +283,26 @@ consideration and that, although the wife’s role would primarily be to take
 care of the household, “the time which can be spared from domestic affairs,
 shall be devoted to Missionary Purposes, more especially among the female
 heathen and their children, both in promoting their civilisation… and their
-religious instruction”.33
+religious instruction”.[^33]
 
 The exciting picture painted of missionary life abroad omitted the practical
 challenges of life in the foreign missions. John Darch, writing about the
 hardships of life in the tropics for missionaries, has argued that isolation and
 loneliness “should be seen as the key determining factor underpinning, and
-to a large extent exacerbating, all the other hardships of missionary life”.34
+to a large extent exacerbating, all the other hardships of missionary life”.[^34]
 Life in Singapore was not as isolated as that of missionaries in the remote
 areas of Africa or the Pacific – by 1823, Raffles had written that Singapore
-“has become a great Emporium” and “a fine field for European speculation”,35
-and by the following year the population was already over 10,000.36
+“has become a great Emporium” and “a fine field for European speculation,”[^35]
+and by the following year the population was already over 10,000.[^36]
 
 Nonetheless, the settlement in the early years was small and not without
 some dangers, since “the flipside to the successful emporium was an
-underbelly of piracy, injustice and… secret societies, vice and opium”.37
+underbelly of piracy, injustice and… secret societies, vice and opium”.[^37]
 There is no suggestion that it was in this sense inherently *dangerous* for the LMS missionaries – unlike for the first resident Catholic priest, Father
 Albrand, who arrived in Singapore in 1833. His attempts to convert Chinese
 workers led to him being regarded by the secret societies as the “Head of the
 Devil” – his catechist was followed daily and converts were threatened with
-having their clothes removed and pigtails cut off.38
+having their clothes removed and pigtails cut off.[^38]
 
 Still, Singapore was a long way from England and life was very different.
 Europeans were vastly outnumbered by the Chinese, Malay, Indian, Bugis
@@ -311,7 +311,7 @@ translations of texts could be done was a major undertaking. Letters took
 months to send and receive, and the long delays in receiving approvals,
 directions and support from the LMS directors in London often caused
 additional stress. Samuel Milton wrote despairingly of his “great distress”
-that he had only received one letter from the directors in three years.39 The
+that he had only received one letter from the directors in three years.[^39]  The
 East India Company tolerated missionaries as long as they did not interfere
 with trade, and realised that they could be useful in providing services such
 as schools that the Company did not want to fund itself.
@@ -324,7 +324,7 @@ there was an over-emphasis on Chinese translations and printing at the
 expense of Malay. Overall, it seems likely that all of the missionaries felt
 some measure of linguistic and cultural isolation. Johnston has suggested
 that missionary figures were “anomalous in a colonial environment” and
-“always conscious of their liminality”.40
+“always conscious of their liminality”.[^40]
 
 Along with this, there was the overarching and ongoing task of seeking
 converts. In Singapore, the missionaries handed out their Christian texts freeof-
