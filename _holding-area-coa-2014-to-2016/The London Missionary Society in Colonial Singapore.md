@@ -468,10 +468,10 @@ most common characters, then a list of how many would be needed for
 missionary printing, and finally, through trial and error, determined the
 best way to make the metal types, eventually using punches and matrices.
 He is acknowledged as being the first to create a Chinese font of useful
-cast type.61 Despite these challenges, it is estimated that between 1810 and
+cast type.[^61] Despite these challenges, it is estimated that between 1810 and
 1836, the combined output of the Ultra-Ganges Mission was 751,763 books
 and tracts (of which 66,000 were printed in Singapore) – almost eight
-million pages.62
+million pages.[^62]
 
 Yet, even when material was successfully printed, was it read? In early colonial
 Singapore, literacy levels were low and it is unknown just how many of the
@@ -482,69 +482,69 @@ and held together by cotton thread. They were also free until Keasberry later
 insisted on distributing them only to those who were literate. The writer
 of a letter published in the *Singapore Chronicle* in 1830 complained that “I
 occasionally observe these said Tracts used for the purpose of protecting the
-Fruit on the Vines in some of the Chinamen’s gardens”.63
+Fruit on the Vines in some of the Chinamen’s gardens”.[^63]
 
 It is also possible that some were taken for subsequent sale – Thomas
 Beighton in Penang complained that he sometimes met his own books
 for sale at the door of the mission, and Milne discovered that a Catholic
-missionary was gathering up his books and burning them.64 Some could
+missionary was gathering up his books and burning them.[^64] Some could
 have also been read with interest. Beighton had developed a friendship
 with Sultan Ahmad of Kedah and gave him a copy of the New Testament,
 writing that the sultan had “so far sanctioned it as to say that part was
-received by the Islams but not the whole”.65 Similarly, Walter Medhurst was
+received by the Islams but not the whole”.[^65] Similarly, Walter Medhurst was
 asked by the Sultan of Trengganu to explain “what our books said about
-the judgement day and the world to come”.66 Significantly, several students
+the judgement day and the world to come”.[^66] Significantly, several students
 at Keasberry’s boarding school were members of the Johore Royal family,
 including Abu Bakar, who later became the Sultan of Johore.
 
 #### **Printing Legacies, Imagined Communities**
 There had been some isolated early printing in the region before the arrival
 of the LMS . In 1545, the Catholic priest Francis Xavier translated several
-prayers and commandments into Malay in Malacca.67 Later, in 1629, the Dutch East India Company financed a Malay translation of the Bible.68 It
+prayers and commandments into Malay in Malacca.[^67] Later, in 1629, the Dutch East India Company financed a Malay translation of the Bible.[^68] It
 is the LMS , however, that has been credited with having introduced mass
 communication to Peninsula Malaya and Singapore through its book and
 journal publishing, and through its dictionaries and school texts that were
-used long after its formal demise in Singapore.69 In the early period, there
+used long after its formal demise in Singapore.[^69] In the early period, there
 were key achievements, particularly from the Malacca mission.
 
 The *Chinese Monthly Magazine* (1815–21) was the first Chinese magazine
 produced in Malaya and, besides evangelical material, contained articles
 on general knowledge and science. It has also been credited with being the
-beginning of modern journalism in China as it inspired writers there.70 *The
+beginning of modern journalism in China as it inspired writers there.[^70] *The
 Indo-Chinese Gleaner* (1817–21) was the first completely Western periodical
 produced in the peninsular, and included “miscellaneous notices relative
 to the philosophy, mythology, history, and literature of the Indo-Chinese
-nations; drawn chiefly from the native languages”.71 Milne and Morrison’s
+nations; drawn chiefly from the native languages”.[^71] Milne and Morrison’s
 1823 translation of the Bible into Chinese was the first in Southeast Asia and
-the second anywhere.72 In Singapore, Thomsen produced *Bustan Arifin* from
+the second anywhere.[^72] In Singapore, Thomsen produced *Bustan Arifin* from
 1821 to 1822, the first Malay magazine to be published in the peninsula, and
-he has been described as “a forgotten pioneer of Bugis translated works”.73
+he has been described as “a forgotten pioneer of Bugis translated works”.[^73] 
 
 Significantly, too, although printing in Jawi had been done earlier by
 Medhurst in Batavia, Keasberry perfected the technique of lithographic
 printing in Jawi. Among these were Keasberry’s magazine, the *Cermin
 Mata* (*The Eye-Glass*), “crafted in beautifully decorated multi-coloured
-lithography”, and Abdullah’s books, considered to be the first printed works that could be comfortably read by literate Malays.74 This has been described
+lithography”, and Abdullah’s books, considered to be the first printed works that could be comfortably read by literate Malays.[^74] This has been described
 as a major initiative in Malay publishing. Ian Proudfoot has been critical of
 earlier missionary efforts that he considered as difficult for Malay readers
 to read or understand, being often printed “in clumsy jawi typefaces” or
 “in an alien Roman script”, and in “sometimes nonsensical Malay idiom”.
 In contrast, he admired Keasberry’s works as “beautifully decorated multicoloured
 lithographs, giving a creditable imitation of the rubrication and
-illumination found in superior manuscripts”.75
+illumination found in superior manuscripts”.[^75] 
 
 Yet, Proudfoot also contrasted these printed works, designed for individual
 reading, with the practice of the Quran schools where texts were read aloud.
 He described this transition from recitation to individual silent reading as
-“the silencing of texts”, so that printing turned texts into products.76 He
+“the silencing of texts”, so that printing turned texts into products.[^76] He
 argued that the publication of material in Malay and the fact that many
 missionary works were printed in roman script, was “able to influence Malay
 literate culture, drawing it in the direction of the West”, so that “the new
 printing technology… had, in the Muslim world, an impact comparable to
-that of Gutenberg’s typography in the West”.77
+that of Gutenberg’s typography in the West”.[^77] 
 
 Benedict Anderson famously proposed that nations are a social construct,
-that they are “imagined communities”.78 He argued that this was historically
+that they are “imagined communities”.[^78] He argued that this was historically
 brought about by the introduction of the printing press, which enabled the
 circulation of many copies of books and other printed works at an affordable
 cost. As newspapers were developed and widely disseminated, people read
@@ -561,7 +561,7 @@ place in that world.
 Historians are still debating the role of missionaries in the British Empire:
 were they insensitive agents of empire, imposing their views of civilisation,
 or did they improve people’s lives with their values, schools and medical
-programmes – or both?79 I argue that the LMS missionaries in the Straits
+programmes – or both?[^79] I argue that the LMS missionaries in the Straits
 Settlements were not overtly imperialistic, but it is fair to say that, through
 their evangelical efforts, and by undertaking government and commercial
 printing, they helped to enforce colonial rule and ideas of modernity.
@@ -570,17 +570,17 @@ Interestingly, there has been a similar debate about Abdullah, who was
 Muslim but worked closely with Raffles and then the LMS missionaries
 (as well as Alfred North of the ABCFM). He admired western technology
 such as the camera and wrote favourably of Raffles and Farquhar – although
-neither mentioned him in print or in their letters80 – and neither Milne nor
-Thomsen referred to Abdullah by name in their reports to the directors.81
+neither mentioned him in print or in their letters[^80] – and neither Milne nor
+Thomsen referred to Abdullah by name in their reports to the directors.[^81] 
 Abdullah has been described as both the “Father of Malay literature” and
 as a mouthpiece for the British, invoking, as Amin Sweeney put it, “the
-double-headed formula of Father vs Stooge”.82
+double-headed formula of Father vs Stooge”.[^82] 
 
 John Roxborogh has argued for a balanced evaluation of the LMS in
 the region, which neither undervalues nor overestimates their work. He
 noted that it was the missionaries who published Abdullah’s writings, who
 recorded aspects of local religious practice and culture that might otherwise have been lost, and argued that “if some missionaries were not especially
-competent, others like Milne and Keasberry were able and sensitive”.83
+competent, others like Milne and Keasberry were able and sensitive”.[^83] 
 
 Amid this debate, what is clear is that the LMS missionaries were an
 important part of the early history of colonial Singapore and the region, and
