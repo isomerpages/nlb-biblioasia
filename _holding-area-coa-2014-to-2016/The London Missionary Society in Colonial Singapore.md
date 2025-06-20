@@ -354,4 +354,168 @@ It seems likely, though, that at least to some extent, they were also regarded
 as strange beings.44 When the Anglican church was being built in 1838,
 there were rumours that trespassers were being killed and their heads put
 into a hole in the church to feed the devils that lived there.45 In the Malay
-community, Thomsen found it hard to retain pupils and believed that this
+community, Thomsen found it hard to retain pupils and believed that this was because the Sultan’s men claimed that the children were being taught
+English so that they could be enslaved and taken to England.46
+
+Despite the missionary efforts, there were no conversions in the early years.
+Baptisms were likely to have been of babies born to existing Christians –
+three from 1826 to 1830, four from 1836 to 1840 and five from 1841 to 1845.47
+Thorne, noting that the 1830s and 1840s were the high point of LMS
+popularity in Britain, has commented on the paradox that foreign missions
+enjoyed their greatest metropolitan support during their* least* successful
+period in the field.48
+
+Along with the stresses of continuing their work without seeing the
+conversions they sought, premature death, illness and incapacity were
+always risks. In Alexander Wylie’s *Memorials of Protestant Missionaries to
+the Chinese*, he lists the causes of violent deaths as being by: the Battak
+cannibals in Sumatra; pirates on the way from Shanghai to Ningpo; pirates
+on the Min river; (two) by the *neen fei* rebels in Shantung; and the natives
+in Corea.49 Others died by a fall off a horse in Canton during a typhoon; a
+fall through a bridge while on horseback into a canal in Ningpo; drowned
+in the river Menam in Siam; drowned in a wreck off the coast of China;
+died during a typhoon on the passage to Hong Kong; and by the capsizing
+of a schooner between Canton and Hong Kong. Eight others died of natural
+causes while on board ships.
+
+For wives, childbirth was another potential danger. On the voyage from
+Macao to Malacca in 1814, Rachel Milne gave birth to premature twins.
+There was no doctor on board the ship and they had no servant with them
+(to save money). She suffered from a severe fever after birth, but still had to
+nurse the twins and care for her other child.50
+
+By 1818, the LMS directors had introduced a series of resolutions
+consolidating and defining the status of missionaries’ wives, particularly
+what would happen to them and their children in the event of their
+husbands’ deaths. Given that the women were not considered missionaries
+in their own right, it is surprising that the directors had resolved that the
+engagement was not dissolved upon the death of a husband, rather “[the
+wife would] be expected to remain at her station, or exert herself according
+to her ability in the maintenance of her self and family, and generally to
+promote the objects of the mission”.51
+
+These widows had to apply to leave the mission, were given one year’s “frugal
+maintenance”, and had to take measures to “procure a subsistence”. Orphans
+were not to be sent back to Europe unless friends had agreed to cover their
+costs. Manktelow has argued that this reflected the ongoing ambivalence in
+the LMS toward women in mission and their fear that women and children
+would be a drain on resources. Public support nonetheless eventually led to
+the establishment of a Widows and Orphans Fund in 1824.52
+
+In these difficult circumstances, missionary wives juggled their domestic
+and (unpaid) mission roles, taking on tasks such as running small schools
+for children, often in their own homes. In Singapore, various schools were
+started by LMS missionary wives. Mrs Thomsen, for example, ran a school
+for Malay girls in 1823. It offered both day classes and boarding, and classes
+in reading, writing, arithmetic and sewing.53 Most schools, though, were
+short-lived, failing for a range of reasons, including language difficulties
+and, no doubt as Christine Doran has surmised (and which could apply to
+both genders and to their work generally), “the missionaries were intruders
+in a cultural milieu they did not fully comprehend”.54
+
+While reports from male missionaries often contained brief mentions of
+the number of children attending the schools, the history of LMS missions
+has been based on reports of male missionaries to male directors, resulting in the wives’ contributions being largely overlooked. Doran has noted the
+absence of women from the accounts of the Strait Settlement missions, and
+argued that “missionary women have been stranded in something of an
+historiographical lacuna”.55 Interestingly, this lack of recognition has been
+countered to some extent today in Singapore with the inclusion of Maria
+Dyer in the Singapore Women’s Hall of Fame.56
+
+Maria came to Singapore in 1842 with her missionary husband Samuel
+Dyer, and started a small day and boarding school for Chinese girls. When
+her husband died the next year and she left Singapore, the school could
+easily have closed like so many others. In this case, the school was taken
+over by the Society for the Promotion of Female Education in China, India
+and the East and evolved into St Margaret’s School, which still exists today.
+
+#### **Printing Challenges**
+Translation of Christian texts into local languages as well as printing and
+distributing texts were at the core of the LMS approach to mission. Today
+this seems a simple matter but in the early 1800s, it was an enormous
+challenge. The LMS missionaries first had to learn the languages; Milne,
+perhaps exasperated, wrote: “To acquire the Chinese is a work for men with
+bodies of brass, lungs of steel, heads of oak, hands of spring-steel, eyes of
+eagles, hearts of apostles, memories of angels, and lives of Methuselah!”57
+
+Thomsen’s Malay tutor was clearly frustrated with his pupil who insisted
+that he knew best how to speak Malay, with Abdullah writing that “he
+does not want to learn the language but to ruin it”, and “people quickly
+recognise the work done by Mr Thomsen, the words only being in Malay,
+the construction in English which does not resemble Malay style”.58 They
+also often published in romanised Malay which was difficult for many
+Malays to read, as they were used to Jawi, an Arabic language adapted for use in writing Malay. Added to this were the difficulties inherent in
+translating some Christian concepts, such as the Holy Spirit and Son of
+God, into other languages.59
+
+Printing presses and types had to be procured or made by hand – which
+was no easy task. Printing was done by xylography (carved wooden blocks),
+letterpress or lithography but acquiring the right equipment was a continual
+challenge, often requiring repeated requests to London. The press used for
+the printing of Raffles’ proclamations in 1823 was a small hand press that
+Thomsen brought from Penang – his report to the directors told them of
+its successful use and included the plea, “the little travelling Press is merely
+provided with a small quantity of Malay types &amp; old Engl. Types barely
+enough to set up 4 pages smo [*sic*] which will be nearly worn out in 12
+months – regular Bookprinting must be deferred ’till the Directors supply
+our wants”.60
+
+It also meant that the missionaries had to be resourceful and innovative.
+Samuel Dyer, who worked in Malacca, Penang and Singapore, pioneered
+the printing of Chinese characters by metallic types, rather than
+xylography. This was a major undertaking. He first prepared a list of the
+most common characters, then a list of how many would be needed for
+missionary printing, and finally, through trial and error, determined the
+best way to make the metal types, eventually using punches and matrices.
+He is acknowledged as being the first to create a Chinese font of useful
+cast type.61 Despite these challenges, it is estimated that between 1810 and
+1836, the combined output of the Ultra-Ganges Mission was 751,763 books
+and tracts (of which 66,000 were printed in Singapore) – almost eight
+million pages.62
+
+Yet, even when material was successfully printed, was it read? In early colonial
+Singapore, literacy levels were low and it is unknown just how many of the
+printed tracts, books and magazines could be read or were read. Low literacy
+levels, problems with translation, the use of romanised Malay – all of these
+factors added to difficulties. Many of the works were fragile, with paper covers
+and held together by cotton thread. They were also free until Keasberry later
+insisted on distributing them only to those who were literate. The writer
+of a letter published in the *Singapore Chronicle* in 1830 complained that “I
+occasionally observe these said Tracts used for the purpose of protecting the
+Fruit on the Vines in some of the Chinamen’s gardens”.63
+
+It is also possible that some were taken for subsequent sale – Thomas
+Beighton in Penang complained that he sometimes met his own books
+for sale at the door of the mission, and Milne discovered that a Catholic
+missionary was gathering up his books and burning them.64 Some could
+have also been read with interest. Beighton had developed a friendship
+with Sultan Ahmad of Kedah and gave him a copy of the New Testament,
+writing that the sultan had “so far sanctioned it as to say that part was
+received by the Islams but not the whole”.65 Similarly, Walter Medhurst was
+asked by the Sultan of Trengganu to explain “what our books said about
+the judgement day and the world to come”.66 Significantly, several students
+at Keasberry’s boarding school were members of the Johore Royal family,
+including Abu Bakar, who later became the Sultan of Johore.
+
+#### **Printing Legacies, Imagined Communities**
+There had been some isolated early printing in the region before the arrival
+of the LMS . In 1545, the Catholic priest Francis Xavier translated several
+prayers and commandments into Malay in Malacca.67 Later, in 1629, the Dutch East India Company financed a Malay translation of the Bible.68 It
+is the LMS , however, that has been credited with having introduced mass
+communication to Peninsula Malaya and Singapore through its book and
+journal publishing, and through its dictionaries and school texts that were
+used long after its formal demise in Singapore.69 In the early period, there
+were key achievements, particularly from the Malacca mission.
+
+The *Chinese Monthly Magazine* (1815–21) was the first Chinese magazine
+produced in Malaya and, besides evangelical material, contained articles
+on general knowledge and science. It has also been credited with being the
+beginning of modern journalism in China as it inspired writers there.70 *The
+Indo-Chinese Gleaner* (1817–21) was the first completely Western periodical
+produced in the peninsular, and included “miscellaneous notices relative
+to the philosophy, mythology, history, and literature of the Indo-Chinese
+nations; drawn chiefly from the native languages”.71 Milne and Morrison’s
+1823 translation of the Bible into Chinese was the first in Southeast Asia and
+the second anywhere.72 In Singapore, Thomsen produced *Bustan Arifin* from
+1821 to 1822, the first Malay magazine to be published in the peninsula, and
+he has been described as “a forgotten pioneer of Bugis translated works”.73
