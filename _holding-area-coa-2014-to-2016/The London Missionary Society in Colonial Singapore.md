@@ -519,3 +519,71 @@ nations; drawn chiefly from the native languages”.71 Milne and Morrison’s
 the second anywhere.72 In Singapore, Thomsen produced *Bustan Arifin* from
 1821 to 1822, the first Malay magazine to be published in the peninsula, and
 he has been described as “a forgotten pioneer of Bugis translated works”.73
+
+Significantly, too, although printing in Jawi had been done earlier by
+Medhurst in Batavia, Keasberry perfected the technique of lithographic
+printing in Jawi. Among these were Keasberry’s magazine, the *Cermin
+Mata* (*The Eye-Glass*), “crafted in beautifully decorated multi-coloured
+lithography”, and Abdullah’s books, considered to be the first printed works that could be comfortably read by literate Malays.74 This has been described
+as a major initiative in Malay publishing. Ian Proudfoot has been critical of
+earlier missionary efforts that he considered as difficult for Malay readers
+to read or understand, being often printed “in clumsy jawi typefaces” or
+“in an alien Roman script”, and in “sometimes nonsensical Malay idiom”.
+In contrast, he admired Keasberry’s works as “beautifully decorated multicoloured
+lithographs, giving a creditable imitation of the rubrication and
+illumination found in superior manuscripts”.75
+
+Yet, Proudfoot also contrasted these printed works, designed for individual
+reading, with the practice of the Quran schools where texts were read aloud.
+He described this transition from recitation to individual silent reading as
+“the silencing of texts”, so that printing turned texts into products.76 He
+argued that the publication of material in Malay and the fact that many
+missionary works were printed in roman script, was “able to influence Malay
+literate culture, drawing it in the direction of the West”, so that “the new
+printing technology… had, in the Muslim world, an impact comparable to
+that of Gutenberg’s typography in the West”.77
+
+Benedict Anderson famously proposed that nations are a social construct,
+that they are “imagined communities”.78 He argued that this was historically
+brought about by the introduction of the printing press, which enabled the
+circulation of many copies of books and other printed works at an affordable
+cost. As newspapers were developed and widely disseminated, people read
+the same information and in the process, came to think of themselves as
+part of a broader shared community. I suggest that this is part of the larger
+significance of the introduction of the printing press into the region by the
+LMS . As missionaries, they would have liked to have seen an “imagined” Christian community – but that was not to be. Yet perhaps they did help to
+bring about a more literate community with new ideas of the larger world,
+and one that could begin to think of “Singapore”, and the region, and its
+place in that world.
+
+
+#### **Agents of Empire?**
+Historians are still debating the role of missionaries in the British Empire:
+were they insensitive agents of empire, imposing their views of civilisation,
+or did they improve people’s lives with their values, schools and medical
+programmes – or both?79 I argue that the LMS missionaries in the Straits
+Settlements were not overtly imperialistic, but it is fair to say that, through
+their evangelical efforts, and by undertaking government and commercial
+printing, they helped to enforce colonial rule and ideas of modernity.
+
+Interestingly, there has been a similar debate about Abdullah, who was
+Muslim but worked closely with Raffles and then the LMS missionaries
+(as well as Alfred North of the ABCFM). He admired western technology
+such as the camera and wrote favourably of Raffles and Farquhar – although
+neither mentioned him in print or in their letters80 – and neither Milne nor
+Thomsen referred to Abdullah by name in their reports to the directors.81
+Abdullah has been described as both the “Father of Malay literature” and
+as a mouthpiece for the British, invoking, as Amin Sweeney put it, “the
+double-headed formula of Father vs Stooge”.82
+
+John Roxborogh has argued for a balanced evaluation of the LMS in
+the region, which neither undervalues nor overestimates their work. He
+noted that it was the missionaries who published Abdullah’s writings, who
+recorded aspects of local religious practice and culture that might otherwise have been lost, and argued that “if some missionaries were not especially
+competent, others like Milne and Keasberry were able and sensitive”.83
+
+Amid this debate, what is clear is that the LMS missionaries were an
+important part of the early history of colonial Singapore and the region, and
+made a significant contribution to early printing in the Straits Settlements.
+
+
