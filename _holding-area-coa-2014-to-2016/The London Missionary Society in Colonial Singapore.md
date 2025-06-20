@@ -226,3 +226,132 @@ impacts of their time in Singapore and the region, it is useful to first look at
 the practical challenges they faced and how they approached their mission,
 before assessing their legacy.
 
+#### **Celebrity and Reality**
+By the 1840s, LMS meetings in London were still attracting large crowds of
+supporters, sometimes up to 4,000 to 5,000.24 Susan Thorne has described
+the May missionary meetings as “a signal event in the Congregational social
+calendar, equivalent perhaps to the London season itself”.25 Such public
+missionary meetings, held annually or biannually throughout Britain, heard
+reports from the foreign missions and were often addressed by missionaries
+themselves, who had completed their mission or returned on leave.
+
+Thorne notes that they returned “as conquering heroes of an unchartered
+heathen wilderness and were greeted by receptions not unlike those that would be accorded the military heroes and monarchs later in the century”.26
+David Livingstone famously returned from Africa in 1856 to a celebrity
+reception, but missionaries such as Robert Morrison also undertook the
+lecture circuit. Morrison was even presented to the King in 1824, with
+Morrison giving the monarch a copy of his Chinese translation of the Bible
+and a map of Peking.27
+
+This emphasis on the heroic missionary overcoming trials in faraway
+lands has been described as “muscular Christianity”, a term first coined in
+1857 to describe the ideal male missionary attributes of Christian virtue,
+physical prowess and morality.28 As Anna Johnston has noted, “muscular
+Christianity… [provided] a masculine complement to the evangelical
+view of women’s innate piety: it provided men with equal opportunity
+for religious sanctity”.29 The LMS had initially only recruited single men.
+Emily Mantekelow has suggested that this was for a range of reasons:
+“pre-embarkation marriage was extremely costly; including women in a
+potentially dangerous enterprise threatened the propriety of a respectable
+institution; and women and families were burdensome, requiring expensive
+and inconvenient material and physical concessions… while at the same
+time potentially distracting male missionaries from their spiritual work”.30
+
+There were also concerns about their financial support if they were
+widowed, or their children orphaned. Far better to send out single men
+who could potentially marry local converts. Soon, though, it was resolved
+that married men and their wives would be accepted, as the presence of
+women and children at the mission could act as a model of Christian
+domesticity, provide a means of outreach to local women and act as a
+counter to the temptations of illicit sexual liaisons.31 As Silvester Horne, in
+his history of the LMS , wrote, “the spectacle of a true Christian home [is]
+26 Thorne, 1999, p. 64.
+27 Townsend, W. J. (1888). Robert Morrison: The pioneer of Chinese missions (pp. 113–115, 117–120).
+London: S. W. Partridge &amp; Co. (Not available in NLB holdings)
+28 Johnston, 2003, p. 40.
+29 Johnston, 2003, p. 41.
+30 Manktelow, E. J.. (2013). Missionary families: Race, gender and generation on the spiritual frontier
+(p. 25). Manchester: Manchester University Press. (Not available in NLB holdings)
+31 Manktelow, the most powerful, concrete argument of Christianity, and the most easy of
+appreciation by the common people”.32
+
+It was understood that the wifely role would also include running
+schools, taking in orphans and boarders and organising prayer meetings
+and Bible classes – that is, acting as an unpaid helpmate. The 1811 LMS
+Candidates Papers stated that the qualities of the wives would be taken into
+consideration and that, although the wife’s role would primarily be to take
+care of the household, “the time which can be spared from domestic affairs,
+shall be devoted to Missionary Purposes, more especially among the female
+heathen and their children, both in promoting their civilisation… and their
+religious instruction”.33
+
+The exciting picture painted of missionary life abroad omitted the practical
+challenges of life in the foreign missions. John Darch, writing about the
+hardships of life in the tropics for missionaries, has argued that isolation and
+loneliness “should be seen as the key determining factor underpinning, and
+to a large extent exacerbating, all the other hardships of missionary life”.34
+Life in Singapore was not as isolated as that of missionaries in the remote
+areas of Africa or the Pacific – by 1823, Raffles had written that Singapore
+“has become a great Emporium” and “a fine field for European speculation”,35
+and by the following year the population was already over 10,000.36
+
+Nonetheless, the settlement in the early years was small and not without
+some dangers, since “the flipside to the successful emporium was an
+underbelly of piracy, injustice and… secret societies, vice and opium”.37
+There is no suggestion that it was in this sense inherently *dangerous* for the LMS missionaries – unlike for the first resident Catholic priest, Father
+Albrand, who arrived in Singapore in 1833. His attempts to convert Chinese
+workers led to him being regarded by the secret societies as the “Head of the
+Devil” – his catechist was followed daily and converts were threatened with
+having their clothes removed and pigtails cut off.38
+
+Still, Singapore was a long way from England and life was very different.
+Europeans were vastly outnumbered by the Chinese, Malay, Indian, Bugis
+and other inhabitants, and learning their languages to a standard where
+translations of texts could be done was a major undertaking. Letters took
+months to send and receive, and the long delays in receiving approvals,
+directions and support from the LMS directors in London often caused
+additional stress. Samuel Milton wrote despairingly of his “great distress”
+that he had only received one letter from the directors in three years.39 The
+East India Company tolerated missionaries as long as they did not interfere
+with trade, and realised that they could be useful in providing services such
+as schools that the Company did not want to fund itself.
+
+Yet, while they were accepted in British colonial society, it was a very small
+community, and that of the missionaries even smaller – getting along on a
+personal level was crucial but sometimes difficult, and differences in opinion
+were at times challenging, as in the Malacca mission where some felt that
+there was an over-emphasis on Chinese translations and printing at the
+expense of Malay. Overall, it seems likely that all of the missionaries felt
+some measure of linguistic and cultural isolation. Johnston has suggested
+that missionary figures were “anomalous in a colonial environment” and
+“always conscious of their liminality”.40
+
+Along with this, there was the overarching and ongoing task of seeking
+converts. In Singapore, the missionaries handed out their Christian texts freeof-
+charge and proselytised where they could. They were consistently critical
+and disparaging of what they regarded as the veneration of idols in temples, but there were no instances of attempting to remove or damage them, unlike
+some other mission fields such as the Pacific. There, as Ann Colley has noted:
+
+   *The early missionary literature is replete with passages relishing the<br>
+   conflagration of maraes (idol temples), the driving of large herds<br>
+   of pigs into sacred enclosures, the hanging of gods disrobed of their<br>
+   apparel, the public burning of idols, the drowning of ritual mats,<br>
+   the throwing of the gods made of coral into the sea, and the forced<br>
+   eating of food thought to contain the spirit of a god*.41
+
+Instead, Morrison and Milne, in particular, tried to approach mission
+through the prism of cultural exchange – opening schools on auspicious
+days, writing in the style of Confucian “morality books” and including
+Christian themes in lessons on Confucian ethics.42 Milne often preached
+in Chinese temples: on a visit to Penang in 1816, he wrote in his diary that
+he “went to the temple of the goddess Kwan-Yin, whither a great number of
+Chinese followed. I stood up on the altar, addressed them, and gave away
+many tracts”.43
+
+The Singapore missionaries were generally politely tolerated in the Chinese
+and Malay communities, with tracts being accepted and at times discussed.
+It seems likely, though, that at least to some extent, they were also regarded
+as strange beings.44 When the Anglican church was being built in 1838,
+there were rumours that trespassers were being killed and their heads put
+into a hole in the church to feed the devils that lived there.45 In the Malay
+community, Thomsen found it hard to retain pupils and believed that this
