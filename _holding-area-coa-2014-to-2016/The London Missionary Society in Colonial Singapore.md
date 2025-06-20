@@ -327,7 +327,7 @@ that missionary figures were “anomalous in a colonial environment” and
 “always conscious of their liminality”.[^40]
 
 Along with this, there was the overarching and ongoing task of seeking
-converts. In Singapore, the missionaries handed out their Christian texts freeof-
+converts. In Singapore, the missionaries handed out their Christian texts free-of-
 charge and proselytised where they could. They were consistently critical
 and disparaging of what they regarded as the veneration of idols in temples, but there were no instances of attempting to remove or damage them, unlike
 some other mission fields such as the Pacific. There, as Ann Colley has noted:
@@ -337,33 +337,33 @@ some other mission fields such as the Pacific. There, as Ann Colley has noted:
    of pigs into sacred enclosures, the hanging of gods disrobed of their<br>
    apparel, the public burning of idols, the drowning of ritual mats,<br>
    the throwing of the gods made of coral into the sea, and the forced<br>
-   eating of food thought to contain the spirit of a god*.41
+   eating of food thought to contain the spirit of a god*.[^41]
 
 Instead, Morrison and Milne, in particular, tried to approach mission
 through the prism of cultural exchange – opening schools on auspicious
 days, writing in the style of Confucian “morality books” and including
-Christian themes in lessons on Confucian ethics.42 Milne often preached
+Christian themes in lessons on Confucian ethics.[^42] Milne often preached
 in Chinese temples: on a visit to Penang in 1816, he wrote in his diary that
 he “went to the temple of the goddess Kwan-Yin, whither a great number of
 Chinese followed. I stood up on the altar, addressed them, and gave away
-many tracts”.43
+many tracts”.[^43]
 
 The Singapore missionaries were generally politely tolerated in the Chinese
 and Malay communities, with tracts being accepted and at times discussed.
 It seems likely, though, that at least to some extent, they were also regarded
-as strange beings.44 When the Anglican church was being built in 1838,
+as strange beings.[^44] When the Anglican church was being built in 1838,
 there were rumours that trespassers were being killed and their heads put
-into a hole in the church to feed the devils that lived there.45 In the Malay
+into a hole in the church to feed the devils that lived there.[^45] In the Malay
 community, Thomsen found it hard to retain pupils and believed that this was because the Sultan’s men claimed that the children were being taught
-English so that they could be enslaved and taken to England.46
+English so that they could be enslaved and taken to England.[^46] 
 
 Despite the missionary efforts, there were no conversions in the early years.
 Baptisms were likely to have been of babies born to existing Christians –
-three from 1826 to 1830, four from 1836 to 1840 and five from 1841 to 1845.47
+three from 1826 to 1830, four from 1836 to 1840 and five from 1841 to 1845.[^47]
 Thorne, noting that the 1830s and 1840s were the high point of LMS
 popularity in Britain, has commented on the paradox that foreign missions
 enjoyed their greatest metropolitan support during their* least* successful
-period in the field.48
+period in the field.[^48]
 
 Along with the stresses of continuing their work without seeing the
 conversions they sought, premature death, illness and incapacity were
@@ -371,7 +371,7 @@ always risks. In Alexander Wylie’s *Memorials of Protestant Missionaries to
 the Chinese*, he lists the causes of violent deaths as being by: the Battak
 cannibals in Sumatra; pirates on the way from Shanghai to Ningpo; pirates
 on the Min river; (two) by the *neen fei* rebels in Shantung; and the natives
-in Corea.49 Others died by a fall off a horse in Canton during a typhoon; a
+in Corea.[^49] Others died by a fall off a horse in Canton during a typhoon; a
 fall through a bridge while on horseback into a canal in Ningpo; drowned
 in the river Menam in Siam; drowned in a wreck off the coast of China;
 died during a typhoon on the passage to Hong Kong; and by the capsizing
@@ -382,7 +382,7 @@ For wives, childbirth was another potential danger. On the voyage from
 Macao to Malacca in 1814, Rachel Milne gave birth to premature twins.
 There was no doctor on board the ship and they had no servant with them
 (to save money). She suffered from a severe fever after birth, but still had to
-nurse the twins and care for her other child.50
+nurse the twins and care for her other child.[^50]
 
 By 1818, the LMS directors had introduced a series of resolutions
 consolidating and defining the status of missionaries’ wives, particularly
