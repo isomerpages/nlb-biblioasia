@@ -586,4 +586,12 @@ Amid this debate, what is clear is that the LMS missionaries were an
 important part of the early history of colonial Singapore and the region, and
 made a significant contribution to early printing in the Straits Settlements.
 
+<div>
+<b>Dr Sandra Hudd</b> is a University Associate at the School of Humanities, University of
+Tasmania. In 2016, she published a book on Chijmes called The Site of the Convent
+of the Holy Infant Jesus in Singapore: Entwined Histories of a Colonial Convent
+and a Nation, 1819–2015. Her research focus is Southeast Asia, particularly Singapore.
+She has also previously worked as a humanitarian aid worker in Cambodia, Indonesia,
+Thailand and Kosovo.</div>
+
 
