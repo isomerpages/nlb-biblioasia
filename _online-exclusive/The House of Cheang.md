@@ -172,7 +172,7 @@ The Japanese Occupation ruined many of the old Baba-Nonya families. The Japanese
 
 [^35]:  Cheang Hong Lim’s eldest daughter, Cheang Chow Lean Neo, had married Lim Kwee Eng, Cheang Hong Lim’s manager and agent. A notice announcing his appointment was published in the newspapers on 13 October 1890. By custom, Cheang Chow Lian Neo became part of Lim Kwee Eng’s family upon her marriage; her descendants did not bear the Cheang name.
 
-[^36]:  Arnold Wright and H. A. Cartwright (Eds.), _[Twentieth Century Impressions of British Malaya](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202711817)_ (London: Lloyd’s Greater Britain Publishing Company Ltd, 1908), 637.&nbsp; (From National Library Singapore, call no. RSING 959.51033 TWE)
+[^36]:  Arnold Wright and H.A. Cartwright (Eds.), _[Twentieth Century Impressions of British Malaya](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202711817)_ (London: Lloyd’s Greater Britain Publishing Company Ltd, 1908), 637.&nbsp; (From National Library Singapore, call no. RSING 959.51033 TWE)
 
 [^37]:  [Will of Chan Kim Hong Neo dated 13 January 1933.](https://www.nlb.gov.sg/main/book-detail?cmsuuid=da2f2606-527b-4fa9-b281-fce11b209d8d) (From NL Online).&nbsp; Chan Kim Hong Neo was herself wealthy, owning several properties and substantial jewellery.&nbsp; These properties were probably inherited from her father Chan Cheng Wah.
 
