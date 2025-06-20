@@ -392,7 +392,7 @@ in their own right, it is surprising that the directors had resolved that the
 engagement was not dissolved upon the death of a husband, rather “[the
 wife would] be expected to remain at her station, or exert herself according
 to her ability in the maintenance of her self and family, and generally to
-promote the objects of the mission”.51
+promote the objects of the mission”.[^51]
 
 These widows had to apply to leave the mission, were given one year’s “frugal
 maintenance”, and had to take measures to “procure a subsistence”. Orphans
@@ -400,27 +400,27 @@ were not to be sent back to Europe unless friends had agreed to cover their
 costs. Manktelow has argued that this reflected the ongoing ambivalence in
 the LMS toward women in mission and their fear that women and children
 would be a drain on resources. Public support nonetheless eventually led to
-the establishment of a Widows and Orphans Fund in 1824.52
+the establishment of a Widows and Orphans Fund in 1824.[^52]
 
 In these difficult circumstances, missionary wives juggled their domestic
 and (unpaid) mission roles, taking on tasks such as running small schools
 for children, often in their own homes. In Singapore, various schools were
 started by LMS missionary wives. Mrs Thomsen, for example, ran a school
 for Malay girls in 1823. It offered both day classes and boarding, and classes
-in reading, writing, arithmetic and sewing.53 Most schools, though, were
+in reading, writing, arithmetic and sewing.[^53] Most schools, though, were
 short-lived, failing for a range of reasons, including language difficulties
 and, no doubt as Christine Doran has surmised (and which could apply to
 both genders and to their work generally), “the missionaries were intruders
-in a cultural milieu they did not fully comprehend”.54
+in a cultural milieu they did not fully comprehend”.[^54]
 
 While reports from male missionaries often contained brief mentions of
 the number of children attending the schools, the history of LMS missions
 has been based on reports of male missionaries to male directors, resulting in the wives’ contributions being largely overlooked. Doran has noted the
 absence of women from the accounts of the Strait Settlement missions, and
 argued that “missionary women have been stranded in something of an
-historiographical lacuna”.55 Interestingly, this lack of recognition has been
+historiographical lacuna”.[^55] Interestingly, this lack of recognition has been
 countered to some extent today in Singapore with the inclusion of Maria
-Dyer in the Singapore Women’s Hall of Fame.56
+Dyer in the Singapore Women’s Hall of Fame.[^56] 
 
 Maria came to Singapore in 1842 with her missionary husband Samuel
 Dyer, and started a small day and boarding school for Chinese girls. When
@@ -436,17 +436,17 @@ this seems a simple matter but in the early 1800s, it was an enormous
 challenge. The LMS missionaries first had to learn the languages; Milne,
 perhaps exasperated, wrote: “To acquire the Chinese is a work for men with
 bodies of brass, lungs of steel, heads of oak, hands of spring-steel, eyes of
-eagles, hearts of apostles, memories of angels, and lives of Methuselah!”57
+eagles, hearts of apostles, memories of angels, and lives of Methuselah!”[^57]
 
 Thomsen’s Malay tutor was clearly frustrated with his pupil who insisted
 that he knew best how to speak Malay, with Abdullah writing that “he
 does not want to learn the language but to ruin it”, and “people quickly
 recognise the work done by Mr Thomsen, the words only being in Malay,
-the construction in English which does not resemble Malay style”.58 They
+the construction in English which does not resemble Malay style”.[^58] They
 also often published in romanised Malay which was difficult for many
 Malays to read, as they were used to Jawi, an Arabic language adapted for use in writing Malay. Added to this were the difficulties inherent in
 translating some Christian concepts, such as the Holy Spirit and Son of
-God, into other languages.59
+God, into other languages.[^59]
 
 Printing presses and types had to be procured or made by hand – which
 was no easy task. Printing was done by xylography (carved wooden blocks),
@@ -458,7 +458,7 @@ its successful use and included the plea, “the little travelling Press is mere
 provided with a small quantity of Malay types &amp; old Engl. Types barely
 enough to set up 4 pages smo [*sic*] which will be nearly worn out in 12
 months – regular Bookprinting must be deferred ’till the Directors supply
-our wants”.60
+our wants”.[^60]
 
 It also meant that the missionaries had to be resourceful and innovative.
 Samuel Dyer, who worked in Malacca, Penang and Singapore, pioneered
