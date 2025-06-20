@@ -806,68 +806,68 @@ Wylie, Alexander. _Memorials of Protestant Missionaries to the Chinese: Giving a
 
 [^50]: Christine Doran, “A Fine Sphere of Female Usefulness”: Missionary Women in the Straits Settlements, 1815–1845,” _Journal of the Malaysian Branch of the Royal Asiatic Society_ 69, no. 1 (270) (1996): 107. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website). Tony Ballantyne has estimated that, amongst missionaries to New Zealand, missionary wives died significantly earlier that their husbands – on the North Island, wives died on average in their early 40s, compared to husbands in their early 70s; and on the South Island, husbands outlived their wives by an average of 9 years – see Tony Ballantyne, _Entanglements of Empire: Missionaries, Maori, and the Question of the Body_ (Durham: Duke University Press, 2014), 179.
 
-51 Manktelow, _Missionary Families: Race, Gender and Generation on the Spiritual Frontier_, 40–41.
+[^51]: Manktelow, _Missionary Families: Race, Gender and Generation on the Spiritual Frontier_, 40–41.
 
-52 Manktelow, _Missionary Families: Race, Gender and Generation on the Spiritual Frontier_, 42–44.
+[^52]: Manktelow, _Missionary Families: Race, Gender and Generation on the Spiritual Frontier_, 42–44.
 
-53 O’Sullivan, [_A History of the London Missionary Society in the Straits Settlements (C. 1815–1847)_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5701470), 46.
+[^53]: O’Sullivan, [_A History of the London Missionary Society in the Straits Settlements (C. 1815–1847)_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5701470), 46.
 
-54 Doran, “A Fine Sphere of Female Usefulness”: Missionary Women in the Straits Settlements, 1815–1845,” 105.
+[^54]: Doran, “A Fine Sphere of Female Usefulness”: Missionary Women in the Straits Settlements, 1815–1845,” 105.
 
-55 Doran, “A Fine Sphere of Female Usefulness”: Missionary Women in the Straits Settlements, 1815–1845,” 101. See also Christine Doran, “Instruments in the Hand of God: Missionary Women in Malaya, 1815–1845,” _Asian Journal of Women’s Studies_ 10, no. 1 (2004): 11.
+[^55]: Doran, “A Fine Sphere of Female Usefulness”: Missionary Women in the Straits Settlements, 1815–1845,” 101. See also Christine Doran, “Instruments in the Hand of God: Missionary Women in Malaya, 1815–1845,” _Asian Journal of Women’s Studies_ 10, no. 1 (2004): 11.
 
-56 See “Mary Dyer,” Singapore Women’s Hall of Fame, accessed 6 February 2017. The Women’s Hall of Fame was established by the Singapore Council of Women’s Organisations as a “celebration of the women who have made, or are making, an impact on our nation”.
+[^56]: See “Mary Dyer,” Singapore Women’s Hall of Fame, accessed 6 February 2017. The Women’s Hall of Fame was established by the Singapore Council of Women’s Organisations as a “celebration of the women who have made, or are making, an impact on our nation”.
 
-57 “William Milne, 1814,” quoted in Robert Phillip, _The Life and Opinions of the Rev. William Milne, D.D., Missionary to China_ (London: John Snow, 1840), 137. (From National Library Singapore, call no. RRARE 266.02341051 PHI-\[JSB\])
+[^57]: “William Milne, 1814,” quoted in Robert Phillip, _The Life and Opinions of the Rev. William Milne, D.D., Missionary to China_ (London: John Snow, 1840), 137. (From National Library Singapore, call no. RRARE 266.02341051 PHI-\[JSB\])
 
-58 Abdullah bin Kadir, _The Hikayat Abdullah: An Autobiography of Abdullah bin Kadir 1797–1854_, 112, 133.
+[^58]: Abdullah bin Kadir, _The Hikayat Abdullah: An Autobiography of Abdullah bin Kadir 1797–1854_, 112, 133.
 
-59 John Roxborogh, “Early Nineteenth-Century Foundations of Christianity in Malaya: Churches and Missions in Penang, Melaka and Singapore From 1786–1842,” _Asian Journal of Theology_ 6, no. 1 (April 1992): 60. On a broader level, the field of “missionary linguistics” has grown up in recent years to study the grammars and dictionaries written by missionaries, since how a language is described and translated operates to establish norms, potentially influencing the way the language is understood and taught, as well as the cultural perception of the language.
+[^59]: John Roxborogh, “Early Nineteenth-Century Foundations of Christianity in Malaya: Churches and Missions in Penang, Melaka and Singapore From 1786–1842,” _Asian Journal of Theology_ 6, no. 1 (April 1992): 60. On a broader level, the field of “missionary linguistics” has grown up in recent years to study the grammars and dictionaries written by missionaries, since how a language is described and translated operates to establish norms, potentially influencing the way the language is understood and taught, as well as the cultural perception of the language.
 
-60 Byrd, [_Early Printing in the Straits Settlements, 1806–1858_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4081984), 13.
+[^60]: Byrd, [_Early Printing in the Straits Settlements, 1806–1858_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4081984), 13.
 
-61 Ibrahim bin Ismail, “Samuel Dyer and His Contribution to Chinese Typography,” _Library Quarterly: Information, Community, Policy_ 54, no. 2 (April 1984): 157–69. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^61]: Ibrahim bin Ismail, “Samuel Dyer and His Contribution to Chinese Typography,” _Library Quarterly: Information, Community, Policy_ 54, no. 2 (April 1984): 157–69. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-62 Walter Henry Medhurst, _China: Its State and Prospects, With Special Reference to the Spread of the Gospel_ (London: John Snow, 1838), 472. (From National Library Singapore, call no. RRARE 266.0230951 MED-\[GH\]). Medhurst cautioned that this was his estimate, noting that not all publications were regularly reported and that he might not have all of the records.
+[^62]: Walter Henry Medhurst, _China: Its State and Prospects, With Special Reference to the Spread of the Gospel_ (London: John Snow, 1838), 472. (From National Library Singapore, call no. RRARE 266.0230951 MED-\[GH\]). Medhurst cautioned that this was his estimate, noting that not all publications were regularly reported and that he might not have all of the records.
 
-63 Letter from “A Churchgoer”, “[Correspondence](https://eresources.nlb.gov.sg/newspapers/digitised/article/singchronicle18300923-1.2.7),” _Singapore Chronicle and The Commercial Register_, 23 September 1830, 2. (From NewspaperSG)
+[^63]: Letter from “A Churchgoer”, “[Correspondence](https://eresources.nlb.gov.sg/newspapers/digitised/article/singchronicle18300923-1.2.7),” _Singapore Chronicle and The Commercial Register_, 23 September 1830, 2. (From NewspaperSG)
 
-64 O’Sullivan, “The London Missionary Society: A Written Record of Missionaries and Printing Presses in the Straits Settlements, 1815–1847,” 97.
+[^64]: O’Sullivan, “The London Missionary Society: A Written Record of Missionaries and Printing Presses in the Straits Settlements, 1815–1847,” 97.
 
-65 A. C. Milner, “The Sultan and the Missionary,” _Jebat: Malaysian Journal of History, Politics and Strategic Studies_ 9 (1979): 3.
+[^65]: A. C. Milner, “The Sultan and the Missionary,” _Jebat: Malaysian Journal of History, Politics and Strategic Studies_ 9 (1979): 3.
 
-66 Milner, “The Sultan and the Missionary,” 4.
+[^66]: Milner, “The Sultan and the Missionary,” 4.
 
-67 Anthony Reid, “Fr Pcot and the Earliest Catholic Imprints in Malay,” in [_Lost Times and Untold Tales From the Malay World_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13101337), ed. Jan Van Der Putten and Mary Kilcline Cody (Singapore: NUS Press, 2009), 177–78. (From National Library Singapore, call no. RSING 001.0899928 LOS)
+[^67]: Anthony Reid, “Fr Pcot and the Earliest Catholic Imprints in Malay,” in [_Lost Times and Untold Tales From the Malay World_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13101337), ed. Jan Van Der Putten and Mary Kilcline Cody (Singapore: NUS Press, 2009), 177–78. (From National Library Singapore, call no. RSING 001.0899928 LOS)
 
-68 Ian Proudfoot, [_Early Malay Printed Books: A Provisional Account of Material Published in the Singapore-Malaysia Area up to 1920, Noting Holdings in Major Public Collections_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6712616) (Kuala Lumpur: Academy of Malay Studies and the Library, University of Malaya, 1993), 9. (From National Library Singapore, call no. RSING 015.5957 PRO-\[LIB\])
+[^68]: Ian Proudfoot, [_Early Malay Printed Books: A Provisional Account of Material Published in the Singapore-Malaysia Area up to 1920, Noting Holdings in Major Public Collections_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6712616) (Kuala Lumpur: Academy of Malay Studies and the Library, University of Malaya, 1993), 9. (From National Library Singapore, call no. RSING 015.5957 PRO-\[LIB\])
 
-69 Proudfoot, [_Early Malay Printed Books_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6712616), 15–16; See also Lim Peng Han, “[Singapore: An Emerging Centre of 19th-Century Malay School Book Printing and Publishing in the Straits Settlements, 1819–1899: Identifying the Four Phases of Development](https://biblioasia.nlb.gov.sg/vol-4/issue4/jan-2009/emerging-centre-malay-school-book-printing/),” _BiblioAsia_ 4, no. 4 (January–March 2009)
+[^69]: Proudfoot, [_Early Malay Printed Books_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6712616), 15–16; See also Lim Peng Han, “[Singapore: An Emerging Centre of 19th-Century Malay School Book Printing and Publishing in the Straits Settlements, 1819–1899: Identifying the Four Phases of Development](https://biblioasia.nlb.gov.sg/vol-4/issue4/jan-2009/emerging-centre-malay-school-book-printing/),” _BiblioAsia_ 4, no. 4 (January–March 2009)
 
-70 Chen Mong Hock, [_The Early Chinese Newspapers of Singapore, 1881–1912_](https://catalogue.nlb.gov.sg/search/card?recordId=4082030) (Singapore: University of Malaya Press, 1967), 1. (From National Library Singapore, call no. RCLOS 079.5702 CHE)
+[^70]: Chen Mong Hock, [_The Early Chinese Newspapers of Singapore, 1881–1912_](https://catalogue.nlb.gov.sg/search/card?recordId=4082030) (Singapore: University of Malaya Press, 1967), 1. (From National Library Singapore, call no. RCLOS 079.5702 CHE)
 
-71 O’Sullivan, “The London Missionary Society: A Written Record of Missionaries and Printing Presses in the Straits Settlements, 1815–1847,” 66–67. Quotation is taken from the subtitle of the magazine.
+[^71]: O’Sullivan, “The London Missionary Society: A Written Record of Missionaries and Printing Presses in the Straits Settlements, 1815–1847,” 66–67. Quotation is taken from the subtitle of the magazine.
 
-72 O’Sullivan, “The London Missionary Society: A Written Record of Missionaries and Printing Presses in the Straits Settlements, 1815–1847,” 67.
+[^72]: O’Sullivan, “The London Missionary Society: A Written Record of Missionaries and Printing Presses in the Straits Settlements, 1815–1847,” 67.
 
-73 Su, “The Printing Presses of the London Missionary Society Among the Chinese,” (PhD diss. University of London, 1996), 160–62.
+[^73]: Su, “The Printing Presses of the London Missionary Society Among the Chinese,” (PhD diss. University of London, 1996), 160–62.
 
-74 Proudfoot, [_Early Malay Printed Books_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6712616), 14. The most well-known of Abdullah’s works is the Hikayat Abdullah (Stories of Abdullah), published in 1849 and used as a textbook in Malay schools in Singapore until the 1970s: see Ang Seow Leng, “[Stories of Abdullah](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/hikayat-abdullah-abdul-kadir-munsyi/),” _BiblioAsia_ 11, no. 4 (January–March 2016) &nbsp;
+[^74]: Proudfoot, [_Early Malay Printed Books_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6712616), 14. The most well-known of Abdullah’s works is the Hikayat Abdullah (Stories of Abdullah), published in 1849 and used as a textbook in Malay schools in Singapore until the 1970s: see Ang Seow Leng, “[Stories of Abdullah](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/hikayat-abdullah-abdul-kadir-munsyi/),” _BiblioAsia_ 11, no. 4 (January–March 2016) &nbsp;
 
-75 Proudfoot, [_Early Malay Printed Books_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6712616), 14.
+[^75]: Proudfoot, [_Early Malay Printed Books_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6712616), 14.
 
-76 Ian Proudfoot, “From Recital To Sight-Reading: The Silencing of Texts in Malaysia,” [_Indonesia and the Malay World_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8347428) 30, no. 87 (2002): 117–44. (From National Library Singapore, call no. RSEA 959.8 IMW)
+[^76]: Ian Proudfoot, “From Recital To Sight-Reading: The Silencing of Texts in Malaysia,” [_Indonesia and the Malay World_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8347428) 30, no. 87 (2002): 117–44. (From National Library Singapore, call no. RSEA 959.8 IMW)
 
-77 Ian Proudfoot, “Lithography at the Crossroads of the East,” _Journal of the Printing Historical Society_ no. 27 (1998): 131.
+[^77]: Ian Proudfoot, “Lithography at the Crossroads of the East,” _Journal of the Printing Historical Society_ no. 27 (1998): 131.
 
-78 Benedict R. Anderson, [_Imagined Communities: Reflections on the Origin and Spread of Nationalism_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12799969) (London: Verso, 2006). (From National Library Singapore, call no. RSING 320.54 AND)
+[^78]: Benedict R. Anderson, [_Imagined Communities: Reflections on the Origin and Spread of Nationalism_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12799969) (London: Verso, 2006). (From National Library Singapore, call no. RSING 320.54 AND)
 
-79 See for example Andrew N. Porter, [_Religion Versus Empire? British Protestant Missions and Overseas Expansion, 1700–1914_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202743697) (Manchester; New York: Manchester University Press, 2004). (From National Library Singapore, call no. RSEA 266.02341 POR). Also, as a case example of missionaries in New Zealand, see Ballantyne, _Entanglements of Empire: Missionaries, Maori, and the Question of the Body_.
+[^79]: See for example Andrew N. Porter, [_Religion Versus Empire? British Protestant Missions and Overseas Expansion, 1700–1914_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202743697) (Manchester; New York: Manchester University Press, 2004). (From National Library Singapore, call no. RSEA 266.02341 POR). Also, as a case example of missionaries in New Zealand, see Ballantyne, _Entanglements of Empire: Missionaries, Maori, and the Question of the Body_.
 
-80 Amin Sweeney, “Abdullah bin Abdul Kadir Munsyi: A Man of Bananas and Thorns” [_Indonesia and the Malay World_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8347428) 34, no. 100 (2006): 224. (From National Library Singapore, call no. RSEA 959.8 IMW)
+[^80]: Amin Sweeney, “Abdullah bin Abdul Kadir Munsyi: A Man of Bananas and Thorns” [_Indonesia and the Malay World_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8347428) 34, no. 100 (2006): 224. (From National Library Singapore, call no. RSEA 959.8 IMW)
 
-81 O’Sullivan, [_A History of the London Missionary Society in the Straits Settlements (C. 1815–1847)_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5701470), 47.
+[^81]: O’Sullivan, [_A History of the London Missionary Society in the Straits Settlements (C. 1815–1847)_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5701470), 47.
 
-82 Sweeney, “[Abdullah bin Abdul Kadir Munsyi: A Man of Bananas and Thorns](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8347428),” 226. See also Jan van der Putten, “Abdullah Munsyi and the Missionaries,” _Journal of the Humanities and Social Sciences of Southeast Asia and Oceania_ (2006): 162–64, 407–40.
+[^82]: Sweeney, “[Abdullah bin Abdul Kadir Munsyi: A Man of Bananas and Thorns](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8347428),” 226. See also Jan van der Putten, “Abdullah Munsyi and the Missionaries,” _Journal of the Humanities and Social Sciences of Southeast Asia and Oceania_ (2006): 162–64, 407–40.
 
-83 Roxborogh, “Early Nineteenth-Century Foundations of Christianity in Malaya,” 69.
+[^83]: Roxborogh, “Early Nineteenth-Century Foundations of Christianity in Malaya,” 69.
