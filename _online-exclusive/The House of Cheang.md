@@ -41,11 +41,11 @@ Besides being the farmer for opium and spirits, he also owned extensive tracts o
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/hong_lim_green.png" style="width: 80%;">Hong Lim Green was later renamed as Hong Lim Park, c. 1900.<i> Image reproduced from Singapore River Planning Area: Planning Report 1994 (Singapore: Urban Redevelopment Authority, 1994), 7. (From National Library Singapore, call no.: RSING 711.4095957 SIN).</i></div>
+<img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/hong_lim_greenq.png" style="width: 80%;">Hong Lim Green was later renamed as Hong Lim Park, c. 1900.<i> Image reproduced from Singapore River Planning Area: Planning Report 1994 (Singapore: Urban Redevelopment Authority, 1994), 7. (From National Library Singapore, call no.: RSING 711.4095957 SIN).</i></div>
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/temple.png" style="width: 80%;">Another of Cheang Hong Lim’s contributions was Giok Hong Tian temple (玉皇殿) located near the junction of Havelock and Zion roads. The temple is dedicated to the Jade Emperor (玉皇上帝, Yu Huang Shang Ti) and established in 1887.<i> Image reproduced from 陈汉荣 [Chen Hanrong]. 新加坡古迹. [Xin jia po gu ji]. (Singapore, 1978), 96. (From National Library Singapore, call no. RSING 959.57 CYY -[HIS]).</i></div>
+<img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/templeq.png" style="width: 80%;">Another of Cheang Hong Lim’s contributions was Giok Hong Tian temple (玉皇殿) located near the junction of Havelock and Zion roads. The temple is dedicated to the Jade Emperor (玉皇上帝, Yu Huang Shang Ti) and established in 1887.<i> Image reproduced from 陈汉荣 [Chen Hanrong]. 新加坡古迹. [Xin jia po gu ji]. (Singapore, 1978), 96. (From National Library Singapore, call no. RSING 959.57 CYY -[HIS]).</i></div>
 
 Among his many public contributions to Singapore and the Straits Settlements was his donation to the Convent of the Holy Infant Jesus (today’s CHIJMES) for the construction of the long building on its southern boundary.[^16] He also supported the charitable school in Penang, the Dutch elementary school and the Portuguese kindergarten. Together with his eldest son, Cheang Jim Hean, he established Yangzheng Academy, which taught Chinese and Western studies with six Chinese and six English teachers.[^17]
 
@@ -79,13 +79,13 @@ What then became of the House of Cheang? It is said that wealth only lasts three
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/Cheang_Jim_Chuan.png" style="width: 60%;">Photo of Cheang Hong Lim’s second son, Cheang Jim Chuan, taken in 1929 at his former house, named Riviera, at 112 Pasir Panjang Road.<i> Courtesy of Professor Walter Woon.</i></div>
+<img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/Cheang_Jim_Chuan.png" style="width: 60%;">Photo of Cheang Hong Lim’s second son, Cheang Jim Chuan, taken on 23 May 1937 at his house, Palm Beach, 113 Pasir Panjang Road. <i> Courtesy of Professor Walter Woon.</i></div>
 
 Very little is recorded of Cheang Jim Chuan.&nbsp; He was known principally as the son of Cheang Hong Lim. His income was derived from landed property.[^36]&nbsp;At the beginning of the 20th century, he lived at 10 Mohamad Sultan Road before moving to 6 Nassim Road. In the 1920s, the family moved again, this time to a grand house named Riviera at 112 Pasir Panjang Road owned by Cheang Jim Chuan’s wife, Chan Kim Hong Neo.[^37]
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/wedding_procession.png" style="width: 80%;">Wedding procession of Cheang Seok Cheng Neo (Cheang Jim Chuan’s daughter) and Woon Chow Tat leaving Riviera 112 Pasir Panjang Road, 27 September 1930. Riviera was acquired by the government and likely demolished in the 1970s.&nbsp; A road now runs through it.<i> Courtesy of Professor Walter Woon.</i></div>
+<img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/wedding_procession.png" style="width: 80%;"> Wedding procession of Cheang Seok Cheng Neo (Cheang Jim Chuan’s daughter) and Woon Chow Tat leaving Riviera at 112 Pasir Panjang Road, 27 September 1930. Riviera was acquired by the government and likely demolished in the 1970s.  Pasir Panjang Road now runs through it.<i> Courtesy of Professor Walter Woon.</i></div>
 
 Chan Kim Hong Neo died on 1 March 1934.&nbsp; Riviera was sold by the executors of her will, Cheang Theam Chu, Cheang Theam Kee and Cheang Seok Hean Neo (who were also her children. Her husband, Cheang Jim Chuan, had renounced his appointment as executor of her will).[^38] The house was purchased by Cheang Jim Chuan from the estate in April 1935 for $20,000.[^39]
 
