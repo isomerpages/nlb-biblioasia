@@ -106,17 +106,17 @@ The Japanese Occupation ruined many of the old Baba-Nonya families. The Japanese
 
 [^2]:  Information from a delegation of officials from Changtai District of Zhangzhou Municipality, 19 December 2024. The delegation was researching the history of people from Changtai who had emigrated to the Nanyang.&nbsp; Before arriving in Singapore they had visited Jakarta.
 
-[^3]:  Song Ong Siang, _[One Hundred Years’ History of the Chinese in Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287)_ (Singapore: Oxford University Press, 1984), 168-170. (From National Library Singapore, call no. RSING 959.57 SON-\[HIS\])
+[^3]:  Song Ong Siang, _[One Hundred Years’ History of the Chinese in Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287)_ (Singapore: Oxford University Press, 1984), 168–170. (From National Library Singapore, call no. RSING 959.57 SON-\[HIS\])
 
-[^4]:  Carl A Trocki, “The Rise of Singapore’s Great Opium Syndicate 1840–86,” _Journal of Southeast Asian Studies_ 18, no. 1 (March 1987): 65 (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website). He held the Johore and Singapore Opium and Spirit Farms together with Lao Joon Teck from 1847–60.
+[^4]:  Carl A. Trocki, “The Rise of Singapore’s Great Opium Syndicate 1840–86,” _Journal of Southeast Asian Studies_ 18, no. 1 (March 1987): 65 (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website). He held the Johore and Singapore Opium and Spirit Farms together with Lao Joon Teck from 1847–60.
 
 [^5]:  Trocki, “The Rise of Singapore’s Great Opium Syndicate 1840–86,” 60–62.
 
 [^6]:  Trocki, “The Rise of Singapore’s Great Opium Syndicate 1840–86,” 62. For a discussion of the nature of these business organisations see Lynn Pan, ed. _[The Encyclopedia of the Chinese Overseas](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9237625)_ (Singapore: Archipelago Press, 1998), 91–92. (From National Library Singapore, call no. RSING 304.80951 ENC)
 
-[^7]:  This was eventually formalized in the Civil Law Ordinance 1878, which provided that English commercial law would apply in the Straits Settlements. The English Partnership Act 1890 remains law in Singapore till today.
+[^7]:  This was eventually formalised in the Civil Law Ordinance 1878, which provided that English commercial law would apply in the Straits Settlements. The English Partnership Act 1890 remains law in Singapore till today.
 
-[^8]:  Joint stock companies as we know them today are legal entities separate from the persons who own the shares.&nbsp; This means that a company can hold property (e.g. a licence) in its own name. A partnership does not have a legal personality; consequently, one of the partners must be registered as licence-holder even though it is the partnership that runs the business.
+[^8]:  Joint-stock companies as we know them today are legal entities separate from the persons who own the shares.&nbsp; This means that a company can hold property (e.g. a licence) in its own name. A partnership does not have a legal personality; consequently, one of the partners must be registered as licence-holder even though it is the partnership that runs the business.
 
 [^9]:  Irene Lim, _[Secret Societies in Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9373792)_ (Singapore: National Heritage Board, Singapore History Museum, 1999), 9–10. (From National Library Singapore, call no. RSING 366.095957 LIM)
 
@@ -146,7 +146,7 @@ The Japanese Occupation ruined many of the old Baba-Nonya families. The Japanese
 
 [^22]:  “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/stoverland18730410-1.2.7.25),” _Straits Times Overland Journal_, 10 April 1873, 8. (From NewspaperSG)
 
-[^23]:  Letter from W E Maxwell, Colonial Secretary dated 7 September 1892; reported in the _Daily Advertiser_, 13 September 1892 (see “[Local and General](https://eresources.nlb.gov.sg/newspapers/digitised/article/dailyadvertiser18920913-1.2.8),” _Daily Advertiser_, 13 September 1892, 3. (From NewspaperSG)).
+[^23]:  Letter from W.E. Maxwell, Colonial Secretary, dated 7 September 1892; reported in the _Daily Advertiser_, 13 September 1892. See “[Local and General](https://eresources.nlb.gov.sg/newspapers/digitised/article/dailyadvertiser18920913-1.2.8),” _Daily Advertiser_, 13 September 1892, 3. (From NewspaperSG)).
 
 [^24]:   “[Local and General](https://eresources.nlb.gov.sg/newspapers/digitised/article/dailyadvertiser18921001-1.2.8),” _Daily Advertiser_, 1 October 1892, 3; “[Summary of the Week](https://eresources.nlb.gov.sg/newspapers/digitised/article/stweekly18921005-1.2.5),” _Straits Times Weekly Issue_, 5 October 1892, 1. (From NewspaperSG)
 
