@@ -746,25 +746,25 @@ Wylie, Alexander. _Memorials of Protestant Missionaries to the Chinese: Giving a
 
 [^20]: Ching Su, “The Printing Presses of the London Missionary Society Among the Chinese,” (PhD diss. University of London, 1996), 160–62.
 
-21 George Bennet, “Letter”, 18 February 1832,” cited in Anna Johnston, _The Paper War: Morality, Print Culture, and Power in Colonial New South Wales_ (Crawley: University of Western Australia Publishing, 2011), 1.
+[^21]: George Bennet, “Letter”, 18 February 1832,” cited in Anna Johnston, _The Paper War: Morality, Print Culture, and Power in Colonial New South Wales_ (Crawley: University of Western Australia Publishing, 2011), 1.
 
-22 For a more detailed discussion of the events surrounding Thomsen, see Marilyn Bowman, _James Legge and the Chinese Classics: A Brilliant Scot in the Turmoil of Colonial Hong Kong_ (Canada: FreisenPress, 2016), 69–73.
+[^22]: For a more detailed discussion of the events surrounding Thomsen, see Marilyn Bowman, _James Legge and the Chinese Classics: A Brilliant Scot in the Turmoil of Colonial Hong Kong_ (Canada: FreisenPress, 2016), 69–73.
 
-23 Ronnie Leona O’Sullivan, [_A History of the London Missionary Society in the Straits Settlements (C. 1815–1847)_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5701470) (London: University of London Library, 1990), 112. (From National Library Singapore, call no. RCLOS 266.0234105957 OSU)
+[^23]: Ronnie Leona O’Sullivan, [_A History of the London Missionary Society in the Straits Settlements (C. 1815–1847)_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5701470) (London: University of London Library, 1990), 112. (From National Library Singapore, call no. RCLOS 266.0234105957 OSU)
 
-24 Thorne, _Congregational Missions and the Making of an Imperial Culture in Nineteenth-Century England_, 62.
+[^24]: Thorne, _Congregational Missions and the Making of an Imperial Culture in Nineteenth-Century England_, 62.
 
-25 _Congregational Missions and the Making of an Imperial Culture in Nineteenth-Century England_, 63.
+[^25]: _Congregational Missions and the Making of an Imperial Culture in Nineteenth-Century England_, 63.
 
-26 _Congregational Missions and the Making of an Imperial Culture in Nineteenth-Century England_, 64.
+[^26]: _Congregational Missions and the Making of an Imperial Culture in Nineteenth-Century England_, 64.
 
-27 William John Townsend, _Robert Morrison: The Pioneer of Chinese Missions_ (London: S. W. Partridge &amp; Co., 1888), 113–15, 117–20.&nbsp; &nbsp;
+[^27]: William John Townsend, _Robert Morrison: The Pioneer of Chinese Missions_ (London: S. W. Partridge &amp; Co., 1888), 113–15, 117–20.&nbsp; &nbsp;
 
-28 Johnston, _Missionary Writing and Empire, 1800–1860_, 40.
+[^28]: Johnston, _Missionary Writing and Empire, 1800–1860_, 40.
 
-29 Johnston, Johnston, _Missionary Writing and Empire, 1800–1860_, 41.
+[^29]: Johnston, Johnston, _Missionary Writing and Empire, 1800–1860_, 41.
 
-30 Emily J. Manktelow, _Missionary Families: Race, Gender and Generation on the Spiritual Frontier_ (Manchester: Manchester University Press, 2013), 25.
+[^30]: Emily J. Manktelow, _Missionary Families: Race, Gender and Generation on the Spiritual Frontier_ (Manchester: Manchester University Press, 2013), 25.
 
 31 Manktelow, _Missionary Families: Race, Gender and Generation on the Spiritual Frontier_, 29.
 
