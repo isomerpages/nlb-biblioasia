@@ -706,7 +706,7 @@ Wylie, Alexander. _Memorials of Protestant Missionaries to the Chinese: Giving a
 
 #### **NOTES**         
 
-[^1]:1 “Letter to Rev. Dr Thomas Raffles, February 1815,” quoted in Victoria Glendinning, [_Raffles and the Golden Opportunity 1781–1826_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14482247) (London: Profile Books, 2012), 243. (From National Library Singapore, call no. RSING 959.57021092 GLE-\[HIS\])
+[^1]: “Letter to Rev. Dr Thomas Raffles, February 1815,” quoted in Victoria Glendinning, [_Raffles and the Golden Opportunity 1781–1826_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14482247) (London: Profile Books, 2012), 243. (From National Library Singapore, call no. RSING 959.57021092 GLE-\[HIS\])
 
 [^2]: Glendinning, [_Raffles and the Golden Opportunity 1781–1826_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14482247), 243.
 
