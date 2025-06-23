@@ -46,4 +46,35 @@ Tamil literature written between 1965 and 2015. The authors mentioned in
 this paper have won coveted literary awards in Singapore and abroad. The
 original quotes in Tamil have been listed in Appendix I.
 
+#### **Becoming an Independent Nation**
+Unlike many countries in Asia that fought bitterly for independence,
+Singapore became a republic like a “bolt from blue”5 on 9 August 1965. The
+country remembers the historic press conference during which founding Prime Minister Lee Kuan Yew was in tears as he announced Singapore’s
+separation from the Federation of Malaysia.
 
+For the fledgling government, the challenges for a country with no
+natural resources involved many pressing “bread and butter” issues,
+including developing a robust economy and building a strong armed
+forces. The determined work and far-sighted intelligence of the founding
+cabinet brought about considerable improvements in the lives of many
+Singaporeans. According to well-known sociologist Dr A. Veeramani, the
+three major initiatives that transformed the lives of Singaporeans were
+“housing, education and the rapid pace of economic growth”.6
+
+At first, the local media and communities believed that the separation was
+merely a miscommunication and that Singapore would eventually re-join
+Malaysia.7 Later, as reality sank in, poets produced works praising Singapore
+and its leadership.
+
+K. Perumal produced 133 songs and poems about the new nation in
+*Singapore Padalkal (Hymns on Singapore)*.8 In the book’s preface, V.T. Arasu
+says, “Out and out all the songs are on Singapore. Yet the poet has not
+drowned the songs on the description of the landscape and in exaggeration.
+
+On the contrary, he points out the basic values of Singapore.”9
+Paranan, a 1986 S.E.A. Write Award winner, devoted 19 out of 100 poems to
+praising the republic in his collection *Thoni (Boat)*.10
+
+National Day has been particularly inspiring for poets. During the country’s
+10th anniversary, 1986 Cultural Medallion winner Na. Palanivelu wrote a
+eulogy, “Kadamai” (“Duty”):
