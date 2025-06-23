@@ -91,3 +91,28 @@ Poet Naa. Aandeappan describes Singapore as a “classy diamond / in the
 saline sea” in “Uyarthara Vairam” (“Classy Diamond”).12 In a similar
 fashion, poet Pichinikkadu Elango symbolises “Singapore as golden plate
 floating in deep sea” in his work “August 9”.13
+
+#### **From Kampong to HDB**
+As Singapore underwent rapid urbanisation, several hundred *kampong*
+(village) houses were transformed into high-rise apartments. By 1962, in
+just two years, the Housing Board (HD B) had built 26,168 flats, almost
+equalling the number of units its predecessor, the Singapore Improvement
+Trust (SIT ), built in 32 years. By the end of 1965, its tally exceeded 50,000
+units.14 In only nine years, some 150,000 people had been resettled.15
+
+For many Singaporeans, the relocation from rickety attap houses with no
+electricity to concrete blocks with tiled floors was a journey from a primitive
+past to a promising future; from aggravation to advantage; and from misery
+to modernity.
+
+Mayandiambalam Balakrishnan (Singai. Ma. Elangkannan), the first Tamil
+writer to receive the S.E.A. Write Award in 1982, depicts the excitement of
+arriving at a new flat:
+
+   *Getting down from the taxi, Velu and Ezhilarsi looked up at the highrise<br>
+   building. “Do you see a sari drying on the cloth line? At the 10th<br>
+   floor? That is our house. Maragatham also got a flat close to us,” said<br>
+   Muthammal, walking towards the elevator. The flat looked nice. Floors<br>
+   were paved with tiles. The kitchen looked clean and neat. Peeping into<br>
+   the kitchen, Velu expressed his surprise, “Is this our kitchen?”* 16
+
