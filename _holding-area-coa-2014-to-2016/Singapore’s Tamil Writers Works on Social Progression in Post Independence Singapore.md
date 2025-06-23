@@ -78,3 +78,16 @@ praising the republic in his collection *Thoni (Boat)*.10
 National Day has been particularly inspiring for poets. During the country’s
 10th anniversary, 1986 Cultural Medallion winner Na. Palanivelu wrote a
 eulogy, “Kadamai” (“Duty”):
+
+   *Ten years of independent rule<br> 
+   Has made us undeniably world renowned<br> 
+   Small pearl like clusters of islands fronting it<br> 
+   Our Singapore emerges like a diamond radiating in all directions<br> 
+   Telling for the splendour and affluence of the land<br> 
+   Let us put our earnest resolve to prosper further<br> 
+This is our duty*11
+
+Poet Naa. Aandeappan describes Singapore as a “classy diamond / in the
+saline sea” in “Uyarthara Vairam” (“Classy Diamond”).12 In a similar
+fashion, poet Pichinikkadu Elango symbolises “Singapore as golden plate
+floating in deep sea” in his work “August 9”.13
