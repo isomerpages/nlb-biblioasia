@@ -11,7 +11,7 @@ On Pasir Panjang Road stood&nbsp;one of the last grand houses that used to line 
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/house_pasir_panjang.png" style="width: 80%;">The house at 233 Pasir Panjang Road, built circa 1937 by Cheang Jim Chuan. It was originally numbered 113 and named Palm Beach.<i> Courtesy of Professor Walter Woon.</i></div>
+<img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/cheang_main.jpg" style="width: 80%;">The house at 233 Pasir Panjang Road, built circa 1937 by Cheang Jim Chuan. It was originally numbered 113 and named Palm Beach.<i> Courtesy of Professor Walter Woon.</i></div>
 
 #### **Cheang Sam Teo and the Opium Farm**
 
@@ -41,11 +41,11 @@ Besides being the farmer for opium and spirits, he also owned extensive tracts o
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/hong_lim_greenq.png" style="width: 80%;">Hong Lim Green was later renamed as Hong Lim Park, c. 1900.<i> Image reproduced from Singapore River Planning Area: Planning Report 1994 (Singapore: Urban Redevelopment Authority, 1994), 7. (From National Library Singapore, call no.: RSING 711.4095957 SIN).</i></div>
+<img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/cheang_market.jpg" style="width: 80%;">Hong Lim Market, 1974.<i>Lim Hock Heng Collection, courtesy of National Archives of Singapore.</i></div>
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/templeq.png" style="width: 80%;">Another of Cheang Hong Lim’s contributions was Giok Hong Tian temple (玉皇殿) located near the junction of Havelock and Zion roads. The temple is dedicated to the Jade Emperor (玉皇上帝, Yu Huang Shang Ti) and established in 1887.<i> Image reproduced from 陈汉荣 [Chen Hanrong]. 新加坡古迹. [Xin jia po gu ji]. (Singapore, 1978), 96. (From National Library Singapore, call no. RSING 959.57 CYY -[HIS]).</i></div>
+<img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/cheang_temple.jpg" style="width: 80%;">One of Cheang Hong Lim’s contributions was the construction of Giok Hong Tian temple (玉皇殿) located near the junction of Havelock and Zion roads. The temple is dedicated to the Jade Emperor (玉皇上帝; Yu Huang Shang Di) and established in 1887.<i> Photo by Jimmy Yap.</i></div>
 
 Among his many public contributions to Singapore and the Straits Settlements was his donation to the Convent of the Holy Infant Jesus (today’s CHIJMES) for the construction of the long building on its southern boundary.[^16] He also supported the charitable school in Penang, the Dutch elementary school and the Portuguese kindergarten. Together with his eldest son, Cheang Jim Hean, he established Yangzheng Academy, which taught Chinese and Western studies with six Chinese and six English teachers.[^17]
 
