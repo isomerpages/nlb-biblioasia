@@ -115,4 +115,43 @@ arriving at a new flat:
    Muthammal, walking towards the elevator. The flat looked nice. Floors<br>
    were paved with tiles. The kitchen looked clean and neat. Peeping into<br>
    the kitchen, Velu expressed his surprise, “Is this our kitchen?”* 16
+	 
+Like Velu in Elangkannan’s story, many Tamil poets were excited about
+the new high-rise apartments, which softened the pains of relocation.
+Na. Palanivelu, recipient of the Cultural Medallion, claimed in his poems
+that the old miseries had vanished like a dream when he moved into his
+HD B flat.17 K.T.M. Iqbal, an eminent poet and recipient of both the S.E.A.
+Write Award and Cultural Medallion, was fascinated by the cloud-kissing
+skyscrapers.18 Paranan, another veteran poet, seemed even more awestruck
+by tall residential flats that blocked the sun.19
+
+C. Kumarasami, a veteran Tamil activist, describes the misery of living in
+cramped quarters in “Life in Pasir Panjang”:
+
+
+   *Crowded in a small space, people lived in huts in kampongs. Most<br>
+   of the huts were single-room accommodations, and in many of them,<br>
+   there were no kitchens. One had to cook, eat and sleep in that small<br>
+   room. And there were no cots to sleep in. Every family had four or five<br>
+   children. Like seeds arranged in a pod, all of them slept next to each<br>
+   other. Yet efforts for procreating another child was also initiated in<br>
+   that milieu*.20
+
+Perhaps more importantly, there was less fear. The *kampongs* were rife with
+gangsters, whom landlords often hired to evict tenants. Former Member
+of Parliament Pathmanaban Selvadurai recounts an experience in *Bukit
+Panjang: From Kampong to Town*:
+
+I had a representative from this company – he saw me in my
+branch and said, “We will help you in getting rid of the Barisan
+Sosialis (an opposition political party) because all these squatters
+were Barisan Sosialis supporters. If [we support them] they [will]
+send in their gangsters and employ strong-arm tactics.” I had to
+tell them: “Well, look, thank you very much, we are a government
+party, we can’t indulge in that kind of activities. But if you give
+these fellows a fair deal in terms of compensation, I will assist you,
+fellows, to get [the squatters] out.” 21
+
+
+
 
