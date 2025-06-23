@@ -1130,8 +1130,8 @@ sections:
       title: The Singapore and Southeast Asia Collection
       subtitle: Collections
       id: infopic
-      description: Infopic description
-      button: An invaluable resource for researchers of Singapore and the region.
+      description: An invaluable resource for researchers of Singapore and the region.
+      button: GEMS OF THE NATIONAL LIBRARY
       url: /vol-21/issue-2/jul-sep-2025/singapore-southeast-asia-collection/national-library/
       image: /images/Vol 21 Issue 2/SG SEA Collection/image002__1_.png
       alt: Singapore and SEA Collection
