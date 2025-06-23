@@ -9,14 +9,24 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-21/issue-1/apr-jun-2025/1954-floods-singapore/
-      button: The Floods of 1954
+      url: /vol-21/issue-2/jul-sep-2025/libraries-archives-future-experiences-discoveries/
+      button: The Libraries and Archives of Tomorrow
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 21 Issue 1/Floods/HeroImage_Floods.jpg
+      background: /images/Vol 21 Issue 2/Libraries of
+        Tomorrow/HeroImage_LibrariesofTomorrow.jpg
       variant: center
+  - infopic:
+      title: The Singapore and Southeast Asia Collection
+      subtitle: Collections
+      id: infopic
+      description: An invaluable resource for researchers of Singapore and the region.
+      button: GEMS OF THE NATIONAL LIBRARY
+      url: /vol-21/issue-2/jul-sep-2025/singapore-southeast-asia-collection/national-library/
+      image: /images/Vol 21 Issue 2/SG SEA Collection/NL_Library.jpg
+      alt: Singapore and SEA Collection
   - infopic:
       title: Kung Tian Cheng, First Clerk of Raffles Library
       subtitle: People
@@ -1126,13 +1136,4 @@ sections:
       url: /videos/reels/print/
       alt: Image alt text
       image: "/images/Videos: BiblioAsia Reels/early_print.jpg"
-  - infopic:
-      title: The Singapore and Southeast Asia Collection
-      subtitle: Collections
-      id: infopic
-      description: An invaluable resource for researchers of Singapore and the region.
-      button: GEMS OF THE NATIONAL LIBRARY
-      url: /vol-21/issue-2/jul-sep-2025/singapore-southeast-asia-collection/national-library/
-      image: /images/Vol 21 Issue 2/SG SEA Collection/NL_Library.jpg
-      alt: Singapore and SEA Collection
 ---
