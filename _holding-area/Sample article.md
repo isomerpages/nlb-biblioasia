@@ -11,7 +11,7 @@ By John Bray
 ![](/images/Vol%2020%20Issue%204/Japanese%20Anglican/anglican_facing2.jpg)
 
 
-In February 1942, a week after the fall of Singapore, Reverend John B.H. Lee, the vicar of the Holy Trinity Anglican Church on Hamiliton Road, was surprised – and probably more than a little alarmed – to receive a visit from a Japanese military officer.[^1] The officer, Taka Sakurai (1914–2010), did his best to put the vicar at ease. He explained that he too was an Anglican Christian and that, like Holy Trinity, his home church in Japan was affiliated with a London-based Anglican missionary group, the Society for the Propagation of the Gospel.&nbsp;
+In February 1942, a week after the fall of Singapore, Reverend John B.H. Lee, the vicar of the Holy Trinity Anglican Church on Hamiliton Road, was surprised – and probably more than a little alarmed – to receive a visit from a Japanese military officer.[^1] The officer, Taka Sakurai (1914–2010), did his best to put the vicar at ease. <a target="_blank" href="https://www.apple.com">Visit Example</a> He explained that he too was an Anglican Christian and that, like Holy Trinity, his home church in Japan was affiliated with a London-based Anglican missionary group, the Society for the Propagation of the Gospel.&nbsp;
 
 A week later, Sakurai returned with another Japanese Anglican officer, Andrew Tokuji Ogawa (1905–2001). The two men said that the vicar need&nbsp; not fear: the churches were to leave their doors open, and services could continue.&nbsp;
 
