@@ -1133,6 +1133,6 @@ sections:
       description: An invaluable resource for researchers of Singapore and the region.
       button: GEMS OF THE NATIONAL LIBRARY
       url: /vol-21/issue-2/jul-sep-2025/singapore-southeast-asia-collection/national-library/
-      image: /images/Vol 21 Issue 2/SG SEA Collection/image002__1_.png
+      image: /images/Vol 21 Issue 2/SG SEA Collection/NL_Library.jpg
       alt: Singapore and SEA Collection
 ---
