@@ -11,7 +11,7 @@ On Pasir Panjang Road stood&nbsp;one of the last grand houses that used to line 
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/cheang_main.jpg" style="width: 80%;">The house at 233 Pasir Panjang Road, January 2024.  It was built by Cheang Jim Chuan in around 1937. It was originally numbered 113 and named Palm Beach. The house has since been demolished and the Singapore Temple of the Church of Jesus Christ of Latter-day Saints will be built on the site.<i> Photo by Benjamin Teo (@thelionbricks on Instagram).</i></div>
+<img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/cheang_main2.jpg" style="width: 80%;">The house at 233 Pasir Panjang Road, January 2024.  It was built by Cheang Jim Chuan in around 1937. It was originally numbered 113 and named Palm Beach. The house has since been demolished and the Singapore Temple of the Church of Jesus Christ of Latter-day Saints will be built on the site.<i> Photo by Benjamin Teo (@thelionbricks on Instagram).</i></div>
 
 #### **Cheang Sam Teo and the Opium Farm**
 
