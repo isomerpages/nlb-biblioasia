@@ -159,7 +159,7 @@ sections:
       description: The Cheangs were once one of Singapore’s most illustrious
         Baba-Nonya families.
       button: Uncover their stories
-      url: /people/2025/4/cheang-family-history/
+      url: /vol-21/issue-3/oct-dec-2025/cheang-hong-lim-family-history/
       image: /images/Online Only Articles/The House of Cheang/cheang_main3.jpg
       alt: The House of Cheang
   - infopic:
