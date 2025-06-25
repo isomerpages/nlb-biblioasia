@@ -95,7 +95,7 @@ Upon Chan Kim Hong Neo’s death, the family of Cheang Jim Chuan lived temporari
 
 Cheang Jim Chuan did not live in Palm Beach for very long as he died on 22 May 1940. According to his will, dated 15 April 1939, his fortune was left to his two sons, four daughters and several grandchildren. Palm Beach was left to his second wife Koh Guek Chew Neo, his son Cheang Theam Kee and daughters Cheang Seok Hean Neo and Cheang Seok Chin Neo.
 
-Following Japan’s attack on Malaya on 8 December 1941 that signalled the start of the Second World War in Singapore, the British ordered the residents of the beachfront houses in Pasir Panjang to evacuate sometime around 12 December 1941.[^43] The Cheangs never returned to 113 Pasir Panjang Road. It was sold to Yap Ee Chian on 15 June 1946 and was eventually bought by the Church of Jesus Christ of the Latter Day Saints in the 1980s.
+Following Japan’s attack on Malaya on 8 December 1941 that signalled the start of the Second World War in Singapore, the British ordered the residents of the beachfront houses in Pasir Panjang to evacuate sometime around 12 December 1941.[^43] The Cheangs never returned to 113 Pasir Panjang Road. It was sold to Yap Ee Chian on 15 June 1946 and was eventually bought by the Church of Jesus Christ of Latter-day Saints in the 1980s.
 
 The Japanese Occupation ruined many of the old Baba-Nonya families. The Japanese extorted money from the Chinese of the Straits Settlements and stole whatever valuables they could from the grand houses of the Baba-Nonya community. Many families had to sell their properties to survive. The end of the war and the return of the King in 1945 found the Baba-Nonya community much diminished in influence and affluence. After the war, rent control (the Control of Rent Ordinance was passed in 1947) also made it impossible to live off income from property. The last tangible reminder of the House of Cheang was the big house on Pasir Panjang Road. However, this house was recently demolished and the Singapore Temple of the Church of Jesus Christ of Latter-day Saints will be built on the site.
 
@@ -110,7 +110,7 @@ The Japanese Occupation ruined many of the old Baba-Nonya families. The Japanese
 
 [^3]:  Song Ong Siang, _[One Hundred Years’ History of the Chinese in Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287)_ (Singapore: Oxford University Press, 1984), 168–70. (From National Library Singapore, call no. RSING 959.57 SON-\[HIS\])
 
-[^4]:  Carl A. Trocki, “The Rise of Singapore’s Great Opium Syndicate 1840–86,” _Journal of Southeast Asian Studies_ 18, no. 1 (March 1987): 65 (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website). He held the Johore and Singapore Opium and Spirit Farms together with Lao Joon Teck from 1847–60.
+[^4]:  Carl A. Trocki, “The Rise of Singapore’s Great Opium Syndicate 1840–86,” _Journal of Southeast Asian Studies_ 18, no. 1 (March 1987): 65 (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website). He held the Johor and Singapore Opium and Spirit Farms together with Lao Joon Teck from 1847–60.
 
 [^5]:  Trocki, “The Rise of Singapore’s Great Opium Syndicate 1840–86,” 60–62.
 
@@ -188,4 +188,4 @@ The Japanese Occupation ruined many of the old Baba-Nonya families. The Japanese
 
 [^42]:  “[Domestic Occurrences Announcement](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19370616-1.2.81),” _Malaya Tribune_, 16 June 1937, 12. (From NewspaperSG)
 
-[^43]:  An application for leave by Woon Chow Tat dated 11 December 1941 listed the reason for application (somewhat blandly) as “evacuation”.&nbsp; (From Professor Walter Woon’s personal collection.)
+[^43]:  An application for leave by Woon Chow Tat dated 11 December 1941 listed the reason for application (somewhat blandly) as “evacuation”.&nbsp; (From Professor Walter Woon’s personal collection)
