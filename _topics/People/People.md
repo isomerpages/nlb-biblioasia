@@ -19,11 +19,11 @@ In the late 19th century, Kung Tian Cheng helped compile a complete catalogue of
 <img src="/images/Online%20Only%20Articles/In%20Search%20of%20Silvestr/Silvestr_resized.jpg" style="width:80%;">
 <hr>
 
-#### <a style="text-decoration: none; font-weight: bold;" href="/people/2025/4/cheang-family-history/">The House of Cheang</a>
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/cheang-hong-lim-family-history/">The House of Cheang</a>
 
 The Cheangs were once one of Singapore’s most illustrious Baba-Nonya families.
 
-<img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/house_pasir_panjang_topic.png" style="width:80%;"> 
+<img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/cheang_main3.jpg" style="width:80%;"> 
 
 <hr>
 

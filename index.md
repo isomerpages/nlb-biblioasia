@@ -159,9 +159,8 @@ sections:
       description: The Cheangs were once one of Singapore’s most illustrious
         Baba-Nonya families.
       button: Uncover their stories
-      url: /people/2025/4/cheang-family-history/
-      image: /images/Online Only Articles/The House of
-        Cheang/house_pasir_panjang_topic.png
+      url: /vol-21/issue-3/oct-dec-2025/cheang-hong-lim-family-history/
+      image: /images/Online Only Articles/The House of Cheang/cheang_main3.jpg
       alt: The House of Cheang
   - infopic:
       title: The Trip That Led to the 1953 Landmark Art Exhibition
@@ -1136,4 +1135,15 @@ sections:
       url: /videos/reels/print/
       alt: Image alt text
       image: "/images/Videos: BiblioAsia Reels/early_print.jpg"
+  - infopic:
+      title: "Hedwig Anuar: First Lady of the National Library"
+      subtitle: Women
+      id: infopic
+      description: Hedwig Anuar was not only known for being the director of the
+        National Library, she was also an activist and advocate for women’s
+        rights.
+      button: LIBRARIAN.ACTIVIST.ADVOCATE
+      url: /vol-21/issue-2/jul-sep-2025/hedwig-anuar-director-national-library-singapore/
+      image: /images/Vol 21 Issue 2/Hedwig   First Lady/hedwig_1stLady_Topic.jpg
+      alt: "Hedwig Anuar: First Lady"
 ---

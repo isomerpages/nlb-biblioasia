@@ -1,6 +1,6 @@
 ---
 title: The House of Cheang
-permalink: /people/2025/4/cheang-family-history/
+permalink: /vol-21/issue-3/oct-dec-2025/cheang-hong-lim-family-history/
 variant: markdown
 description: ""
 ---
@@ -11,7 +11,7 @@ On Pasir Panjang Road stood&nbsp;one of the last grand houses that used to line 
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/house_pasir_panjang.png" style="width: 80%;">The house at 233 Pasir Panjang Road, built circa 1937 by Cheang Jim Chuan. It was originally numbered 113 and named Palm Beach.<i> Courtesy of Professor Walter Woon.</i></div>
+<img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/cheang_main3.jpg" style="width: 80%;">The house at 233 Pasir Panjang Road, January 2024.  It was built by Cheang Jim Chuan in around 1937. It was originally numbered 113 and named Palm Beach. The house has since been demolished and the Singapore Temple of the Church of Jesus Christ of Latter-day Saints will be built on the site.<i> Photo by Benjamin Teo (@thelionbricks on Instagram).</i></div>
 
 #### **Cheang Sam Teo and the Opium Farm**
 
@@ -41,33 +41,35 @@ Besides being the farmer for opium and spirits, he also owned extensive tracts o
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/hong_lim_greenq.png" style="width: 80%;">Hong Lim Green was later renamed as Hong Lim Park, c. 1900.<i> Image reproduced from Singapore River Planning Area: Planning Report 1994 (Singapore: Urban Redevelopment Authority, 1994), 7. (From National Library Singapore, call no.: RSING 711.4095957 SIN).</i></div>
-
-<div style="background-color: white;">
-<br>
-<img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/templeq.png" style="width: 80%;">Another of Cheang Hong Lim’s contributions was Giok Hong Tian temple (玉皇殿) located near the junction of Havelock and Zion roads. The temple is dedicated to the Jade Emperor (玉皇上帝, Yu Huang Shang Ti) and established in 1887.<i> Image reproduced from 陈汉荣 [Chen Hanrong]. 新加坡古迹. [Xin jia po gu ji]. (Singapore, 1978), 96. (From National Library Singapore, call no. RSING 959.57 CYY -[HIS]).</i></div>
+<img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/cheang_market.jpg" style="width: 100%;">Hong Lim Market, 1974.<i>Lim Hock Heng Collection, courtesy of National Archives of Singapore.</i></div>
 
 Among his many public contributions to Singapore and the Straits Settlements was his donation to the Convent of the Holy Infant Jesus (today’s CHIJMES) for the construction of the long building on its southern boundary.[^16] He also supported the charitable school in Penang, the Dutch elementary school and the Portuguese kindergarten. Together with his eldest son, Cheang Jim Hean, he established Yangzheng Academy, which taught Chinese and Western studies with six Chinese and six English teachers.[^17]
 
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/cheang_temple.jpg" style="width: 100%;">One of Cheang Hong Lim’s contributions was the construction of Giok Hong Tian temple (玉皇殿) located near the junction of Havelock and Zion roads. The temple is dedicated to the Jade Emperor (玉皇上帝; Yu Huang Shang Di) and established in 1887.<i> Photo by Jimmy Yap.</i></div>
+
 Cheang Hong Lim’s generosity extended beyond Singapore.&nbsp; He regularly contributed to flood and disaster relief in China, India and Egypt, raising large sums for the purpose. His philanthropy included hospitals, orphanages, homeless shelters, shelters for widows and community cemeteries.[^18]
 
-Despite being in Singapore, Cheang Hong Lim supported China’s various war efforts. In 1869, he bought weapons and helped to transport provisions for troops defending Fukien against the French. In 1884, he provided intelligence on French military movements against China. For his efforts in supporting the coastal defence in Fukien, the Governor-General of the Fukien Province conferred upon him the title of Circuit Intendant.[^19] Ironically, on the recommendation of Bishop Edouard Gasnier of Malacca-Singapore, he also received a medal for his acts of charity in Saigon (Vietnam) from the French government, who were presumably unaware of his support of China against French aggression.[^20]
+Despite being in Singapore, Cheang Hong Lim supported China’s various war efforts. In 1869, he bought weapons and helped to transport provisions for troops defending Fukien against the French. In 1884, he provided intelligence on French military movements against China. For his efforts in supporting the coastal defence in Fukien, the Governor-General of the Fukien Province conferred upon him the title of Circuit Intendant.[^19] Ironically, on the recommendation of Bishop Edouard Gasnier of Melaka-Singapore, he also received a medal for his acts of charity in Saigon (Vietnam) from the French government, who were presumably unaware of his support of China against French aggression.[^20]
 
 Chinese statesman Grand Mentor Li Hongzhang (1823–1901) sent a request to the Chinese Imperial Court in 1881 for the words “He takes delight in good deeds and loves to give aid to others” to be inscribed on a memorial arch in Cheang Hong Lim’s ancestral village of Teang Thye (unfortunately, this arch no longer exists). In recognition of his contributions, Cheang Hong Lim was accorded Second Rank status and honours from the Ministry of Rites and was specially promoted to become a Salt Commissioner.[^21]
 
 Cheang Hong Lim was appointed a Justice of the Peace in Singapore in 1873.[^22]&nbsp; Towards the end of his life, in 1892, he was recognised by colonial authorities (and succeeding Tan Kim Cheng) as the “head of the Hokien (sic) community, to whom disputes and misunderstandings among members of that community may properly be referred”.[^23] There was a grand celebration by the community on 1 October 1892 accompanied by the band of St Joseph’s Institution.[^24]&nbsp; He was also appointed to the Chinese Advisory Board, Singapore, in September 1892.[^25]
 
-However, great wealth attracts great envy. In 1872, Cheang Hong Lim was prosecuted by his younger brother, Cheang Hong Guan, for the alleged forgery of his father’s will.[^26] Cheang Hong Guan had won the bid for the Singapore, Johore and Malacca opium and spirit farms from 1870–71, but made a hash of it and lost a fortune.[^27] Cheang Hong Lim and other merchants formed the Great Syndicate and took over the Farms from 1871–79.[^28]&nbsp; The prosecution brought by Cheang Hong Guan against his brother was presumably a form of retaliation.
+However, great wealth attracts great envy. In 1872, Cheang Hong Lim was prosecuted by his younger brother, Cheang Hong Guan, for the alleged forgery of his father’s will.[^26] Cheang Hong Guan had won the bid for the Singapore, Johor and Melaka opium and spirit farms from 1870–71, but made a hash of it and lost a fortune.[^27] Cheang Hong Lim and other merchants formed the Great Syndicate and took over the Farms from 1871–79.[^28]&nbsp; The prosecution brought by Cheang Hong Guan against his brother was presumably a form of retaliation.
 
 The trial lasted five days. Cheang Hong Guan was the principal witness. The case collapsed ignominiously. Before the Defence Counsel had finished his speech, the jury stopped the trial because of the patent absurdity of the charge and the contradictions in the evidence of the witnesses. The Chief Justice of the Straits Settlements declared to Cheang Hong Lim that “you leave the Court without a stain on your honour”.[^29]&nbsp; Cheang Hong Guan, on the other hand, was jailed for his part in this farce.[^30]
 
-<div style="background-color: white;">
-<br>
-<img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/fortnight_summary_linkedRevq.jpg" style="width: 70%;">Newspaper excerpt of Cheang Hong Lim’s trial. He had been accused by his younger brother for forging their father’s will. He was acquitted and his brother jailed.<i> Source: “<a href="https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18720427-1.2.4">[Fortnight’s Summary]</a>,” Straits Times, 27 April 1872 © SPH Media Limited. Permission required for reproduction.</i></div>
-
 After 1879, the farm changed hands again. The new opium farmer alleged that the losers were smuggling opium to undermine their monopoly. Cheang Hong Lim was accused of being part of this so-called “Opium Conspiracy”. In 1883, he was removed as a Justice of the Peace due to these allegations.[^31] An article was published in the _Straits Intelligence_ on 24 February 1883 giving vent to the allegations of conspiracy. Cheang Hong Lim responded in a very Singaporean way – he sued for defamation. Technically, he instituted a private prosecution for criminal defamation to be heard by the Police Magistrate.[^32]&nbsp;There is no record of the result, but the _Straits Intelligence_ disappears after that. Cheang Hong Lim was vindicated and reinstated as a Justice of the Peace in 1887.[^33]
 
-Cheang Hong Lim died on 11 February 1893, leaving a considerable fortune both in the Straits Settlements as well as China. The executors of his will (which is now part of the National Library’s collection) were his eldest daughter, Cheang Cheow Lian Neo, and his two eldest sons, Cheang Jim Hean and Cheang Jim Chuan, who were minors at the time of his death. Unsurprisingly, there was a controversy about the administration of the estate – Lim Kwee Eng, his agent and his daughter’s (Cheang Cheow Lian Neo) husband, had presumably wanted to control everything. Litigation followed in 1896. The court ordered Dr Lim Boon Keng (an eminent figure in the Straits Chinese community, who had also worked for Cheang Hong Lim) to prepare a scheme for the division of Cheang Hong Lim’s estate. The scheme was duly approved by Chief Justice Cox on 4 February 1901.[^34]&nbsp; Unfortunately, it was not wholly carried out and to this day, there remain slivers of land in Singapore still registered in the name of the Estate of Cheang Hong Lim.
+Cheang Hong Lim died on 11 February 1893, leaving a considerable fortune both in the Straits Settlements as well as China. The executors of his will (which is now part of the National Library’s collection) were his eldest daughter, Cheang Cheow Lian Neo, and his two eldest sons, Cheang Jim Hean and Cheang Jim Chuan, who were minors at the time of his death. 
+
+<div style="background-color: white;">
+<br>
+<img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/cheang_will.jpg" style="width: 100%;">The first page of the last will and testament of Cheang Hong Lim dated 13 December 1891. His two eldest sons Cheang Jim Hean and Cheang Jim Chuan, and eldest daughter Cheang Cheow Lean Neo were named the executors and trustees of his will.<i> Collection of the National Library Singapore.</i></div>
+
+Unsurprisingly, there was a controversy about the administration of the estate – Lim Kwee Eng, his agent and his daughter’s (Cheang Cheow Lian Neo) husband, had presumably wanted to control everything. Litigation followed in 1896. The court ordered Dr Lim Boon Keng (an eminent figure in the Straits Chinese community, who had also worked for Cheang Hong Lim) to prepare a scheme for the division of Cheang Hong Lim’s estate. The scheme was duly approved by Chief Justice Cox on 4 February 1901.[^34]&nbsp; Unfortunately, it was not wholly carried out and to this day, there remain slivers of land in Singapore still registered in the name of the Estate of Cheang Hong Lim.
 
 <div style="background-color: white;">
 <br>
@@ -93,7 +95,7 @@ Upon Chan Kim Hong Neo’s death, the family of Cheang Jim Chuan lived temporari
 
 Cheang Jim Chuan did not live in Palm Beach for very long as he died on 22 May 1940. According to his will, dated 15 April 1939, his fortune was left to his two sons, four daughters and several grandchildren. Palm Beach was left to his second wife Koh Guek Chew Neo, his son Cheang Theam Kee and daughters Cheang Seok Hean Neo and Cheang Seok Chin Neo.
 
-Following Japan’s attack on Malaya on 8 December 1941 that signalled the start of the Second World War in Singapore, the British ordered the residents of the beachfront houses in Pasir Panjang to evacuate sometime around 12 December 1941.[^43] The Cheangs never returned to 113 Pasir Panjang Road. It was sold to Yap Ee Chian on 15 June 1946 and was eventually bought by the Church of Jesus Christ of the Latter Day Saints in the 1980s.
+Following Japan’s attack on Malaya on 8 December 1941 that signalled the start of the Second World War in Singapore, the British ordered the residents of the beachfront houses in Pasir Panjang to evacuate sometime around 12 December 1941.[^43] The Cheangs never returned to 113 Pasir Panjang Road. It was sold to Yap Ee Chian on 15 June 1946 and was eventually bought by the Church of Jesus Christ of Latter-day Saints in the 1980s.
 
 The Japanese Occupation ruined many of the old Baba-Nonya families. The Japanese extorted money from the Chinese of the Straits Settlements and stole whatever valuables they could from the grand houses of the Baba-Nonya community. Many families had to sell their properties to survive. The end of the war and the return of the King in 1945 found the Baba-Nonya community much diminished in influence and affluence. After the war, rent control (the Control of Rent Ordinance was passed in 1947) also made it impossible to live off income from property. The last tangible reminder of the House of Cheang was the big house on Pasir Panjang Road. However, this house was recently demolished and the Singapore Temple of the Church of Jesus Christ of Latter-day Saints will be built on the site.
 
@@ -108,7 +110,7 @@ The Japanese Occupation ruined many of the old Baba-Nonya families. The Japanese
 
 [^3]:  Song Ong Siang, _[One Hundred Years’ History of the Chinese in Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082287)_ (Singapore: Oxford University Press, 1984), 168–70. (From National Library Singapore, call no. RSING 959.57 SON-\[HIS\])
 
-[^4]:  Carl A. Trocki, “The Rise of Singapore’s Great Opium Syndicate 1840–86,” _Journal of Southeast Asian Studies_ 18, no. 1 (March 1987): 65 (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website). He held the Johore and Singapore Opium and Spirit Farms together with Lao Joon Teck from 1847–60.
+[^4]:  Carl A. Trocki, “The Rise of Singapore’s Great Opium Syndicate 1840–86,” _Journal of Southeast Asian Studies_ 18, no. 1 (March 1987): 65 (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website). He held the Johor and Singapore Opium and Spirit Farms together with Lao Joon Teck from 1847–60.
 
 [^5]:  Trocki, “The Rise of Singapore’s Great Opium Syndicate 1840–86,” 60–62.
 
@@ -186,4 +188,4 @@ The Japanese Occupation ruined many of the old Baba-Nonya families. The Japanese
 
 [^42]:  “[Domestic Occurrences Announcement](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19370616-1.2.81),” _Malaya Tribune_, 16 June 1937, 12. (From NewspaperSG)
 
-[^43]:  An application for leave by Woon Chow Tat dated 11 December 1941 listed the reason for application (somewhat blandly) as “evacuation”.&nbsp; (From Professor Walter Woon’s personal collection.)
+[^43]:  An application for leave by Woon Chow Tat dated 11 December 1941 listed the reason for application (somewhat blandly) as “evacuation”.&nbsp; (From Professor Walter Woon’s personal collection)
