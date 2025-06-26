@@ -1146,4 +1146,25 @@ sections:
       url: /vol-21/issue-2/jul-sep-2025/hedwig-anuar-director-national-library-singapore/
       image: /images/Vol 21 Issue 2/Hedwig   First Lady/hedwig_1stLady_Topic.jpg
       alt: "Hedwig Anuar: First Lady"
+  - infopic:
+      title: Writing the NLB Story
+      subtitle: History
+      id: infopic
+      description: Established in 1995, the National Library Board was conceived as
+        one of many levers to transform Singapore’s economy and culture.
+      button: A NEW CHAPTER
+      url: /vol-21/issue-2/jul-sep-2025/formation-national-library-board/
+      image: /images/Vol 21 Issue 2/Writing the NLB Story/WritingNLBStory_Topic.jpg
+      alt: Writing the NLB Story
+  - infopic:
+      title: Legal Deposit Legislation in Singapore
+      subtitle: Governance
+      id: infopic
+      description: The legal deposit function in Singapore can be traced back to an
+        1835 law enacted in India to control and regulate the flow of
+        information
+      button: COLLECTING MATERIALS FOR POSTERITY
+      url: /vol-21/issue-2/jul-sep-2025/legal-deposit-legislation-singapore/
+      image: /images/Vol 21 Issue 2/Legal Deposit/Legal_Deposit_topic.png
+      alt: Legal Deposit Legislation
 ---
