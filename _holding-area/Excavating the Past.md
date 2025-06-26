@@ -76,6 +76,22 @@ When I sit down to write, there will be things I will not get exactly right, the
 
 
 
+
+
+
+<div style="background-colour:#fff6ba; padding:20px; margin: 20px; background: #fff6ba">
+<b>SEARCHING FOR FACTS</b><br><br> A memoir may be a historical account, or a biographical memory written from personal knowledge, but facts remain facts and cannot be moulded to the author’s liking as they can in fiction. Memoirs often necessarily delve into past times or historical episodes, and getting facts right is of the utmost importance. If facts do not ring true then the finished work does not hold verity; the author will be seen as unreliable and the work will not be taken seriously.&nbsp;
+<br><br>
+I can give a small example of this. As a young writer, I was horrified after the publication of my first novel, <i>The Gossamer Fly</i>, in 1979 to receive an irate letter from a nature lover complaining that I had written about dragonflies emerging about two months before the correct season. This showed me forevermore how careful an author must be to get even the smallest facts right.
+<br><br>
+Anyone in Singapore thinking to research and write a memoir is fortunate. Singapore has made enormous efforts to document its short modern history. There is an abundance of material assiduously collected in a variety of archives. For the research of my novels, <i>A Different Sky</i> (2010) and <i>Sacred Waters</i> (2018), I will always be grateful to the National Library Singapore and the National Archives of Singapore for not only their wide collection of books but also for their archives of photographs and rare items. Without the indispensable material I found in the Oral History Centre, with its wealth of recordings and transcripts; the online NewspaperSG collection, with newspapers that go back as far as 1827; and the 2.3 million photographs in the National Archives of Singapore, my books could not have been written.&nbsp;
+<br><br>
+Such a treasure trove of research material allows an author to not only crosscheck facts but to expand and fill out a memory or historical picture that may be otherwise incomplete. Or, as was the case for me, grow a whole new virtual memory.
+</div>
+	
+
+
+
 <div style="background-color: white;">
 <img style="width: 100px; height: 100px;" src="/images/Authors/DrJohnBray2a.png">
 <b>Dr Meira Chand</b>’s multicultural heritage is reflected in the nine novels she has published. <i>A Different Sky</i> (2010) made it to Oprah Winfrey’s reading list for November 2011, and was long-listed for the International IMPAC Dublin Literary Award in 2012. Her latest book, <i>Sacred Waters</i>, was published in 2018. She has a PhD in creative writing, and lived in Japan and India before moving to Singapore in 1997. She was awarded Singapore’s Cultural Medallion in 2024. </div>
