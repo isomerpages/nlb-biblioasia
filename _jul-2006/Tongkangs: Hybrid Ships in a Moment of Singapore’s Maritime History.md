@@ -6,6 +6,7 @@ description: The history of the tongkang industry in Singapore began with the
   trading centre, merchants from around the region and beyond began flocking
   here. Tongkangs were the chief means of sea transport, carrying men and goods
   between South China and Nanyang.
+variant: markdown
 ---
 #### The history of the tongkang industry in Singapore began with the arrival of Stamford Raffles in 1819. With the establishment of the island as a trading centre, merchants from around the region and beyond began flocking here. Tongkangs were the chief means of sea transport, carrying men and goods between South China and Nanyang.
 
@@ -43,7 +44,7 @@ The “Singapore Trader” was 60–90 feet long with a breadth of 16–33 feet 
 
 The small vessels had two masts – the main-mast and the foremast, whereas the large vessels i.e. those above 50 tons stepped three masts; that is, the main-mast, the fore-mast and the mizzen-mast. In the 1950s, the main-sail costed between $250–$300 each, while smaller sails were priced at $150–$200 each.
 
-Tongkangs were full utility vessels and about four-fifths of the space on a tongkang was used for storing cargo. A small area of deck at the stern of the ship, which was roofed, was used as the crew’s living quarters in the form of two small cubicles. The rest of the roofed area was taken up by the kitchen. A shrine to the goddess Ma-cheh, the guardian of seamen was always affixed on every vessel.
+Tongkangs were full utility vessels and about four-fifths of the space on a tongkang was used for storing cargo. A small area of deck at the stern of the ship, which was roofed, was used as the crew’s living quarters in the form of two small cubicles. The rest of the roofed area was taken up by the kitchen. A shrine to the goddess Mazu, the guardian of seamen was always affixed on every vessel.
 
 #### **Capital and Recurrent Costs**
 In the 1950s, a new tongkang below 50 tons costed between $10,000 to $15,000 to build while those above 100 tons ranged from $70,000 to $80,000. Very few tongkangs were built by about late 1958 because of the trade recession which began in early 1957, and also the declining importance of tongkangs as cargo carriers. The few that were built were below 50 tons, for service as charcoal and fuelwood carriers.
