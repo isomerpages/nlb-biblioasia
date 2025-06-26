@@ -7,15 +7,25 @@ description: ""
 #### Writing a memoir involves personal experiences, digging deep into our memories and the emphasis on factual information.&nbsp;  
 By Meira Chand
 
+![](/images/Vol%2021%20Issue%203/Excavating%20the%20Past/excavating_main.jpg)
+<div style="background-color: white;"> Meira Chand is an award-winning novelist of Swiss-Indian parentage. She is now a Singapore citizen. <i>Courtesy of Meira Chand.</i></div>
+
+
 Many people assume that a memoir is the same as a biography or an autobiography, but it is a category of writing entirely on its own. I might not have given much thought to the uniqueness of memoir as a genre, if it were not for my elder brother Roy’s insistence that I write about our father’s extraordinary life.&nbsp;
 
 Our father, Dr Harbans Lal Gulati, went from India to London for medical studies in 1919, at the height of the colonial era. Already a qualified doctor in the British Army in India, he had been posted to the Khyber Pass, had been taken hostage by Afghan tribes and had also witnessed the Amritsar Massacre. In England, despite the formidable discrimination prevalent in that era, he requalified and established himself as a doctor, became a pioneering force in the early National Health Service (NHS) and even stood for parliament in the United Kingdom.
+
+![](/images/Vol%2021%20Issue%203/Excavating%20the%20Past/excavating_family.jpg)
+<div style="background-color: white;"> Meira Chand (left) with her dad Dr Harbans Lal Gulati, mum Norah Louise Knobel, elder brother Roy and younger brother Anand, 1945. <i>Courtesy of Meira Chand.</i></div>
 
 Roy wanted a full-scale biography but I felt it would be a difficult undertaking as so much of our father’s early life was irretrievably lost to time.&nbsp; It was only at Roy’s continued insistence that I reluctantly decided to consider writing a memoir. Unlike a biography or an autobiography, which takes in the entire chronological sweep of a life, a memoir is limited in its scope and supportive of whimsy. It focuses on a reduced canvas of emotional depth, examining from the author’s point of view a particular period, person or event, experiences or themes. Rather like an archaeologist, the memoirist is expected to excavate specific recollections and reveal the hidden truth of what they find. Penning a memoir appeared a more achievable project than a full-blown biography, but I had not attempted the genre before and was wary of the perils awaiting me.&nbsp;
 
 I am by trade a writer of fiction; my work depends on imaginative flights of fantasy. Memoirs have to do with personal experience and are corseted by truth and dependent on fact. However, I was beginning to see the venture as a legacy-type project that would give my children and grandchildren a better sense of who they are. The lives of ancestors, whether recently departed or distantly dead, are shadows stretching away around a family tree, shaping its outline, giving substance and inspiration to future generations. I am always telling people: if you do not write it down, it is gone and lost to history. Now, it seems, I would have to practise what I preached.
 
 I thought the project would unfold without too much difficulty as I dug into memories and assembled assorted memorabilia. Instead, I quickly found that remembering incidents and assembling old photographs, letters and documents into some kind of chronological order was very different from putting down a corresponding connecting narrative in a coherent and interesting form on paper. In my novel writing life, the only way I knew of making sense of disparate scraps of knowledge and the half-formed ghostly images blowing through my mind was in the form of a story.&nbsp;
+
+![](/images/Vol%2021%20Issue%203/Excavating%20the%20Past/excavating_letter.jpg)
+<div style="background-color: white;"> A letter written by Meira Chand’s father to her mother, 21 August 1933. <i>Courtesy of Meira Chand.</i></div>
 
 I was, however, quickly beginning to realise that a memoir was as much a piece of imaginative narrative as was any novel. The only clear difference seemed to be that with memoirs, unlike fiction, things could not be blatantly made up. I could not build fictional bridges to reach a solid edifice as I could in both fiction and historical fiction. When writing historical fiction, facts are inviolable and cannot be tampered with, but unending fictional licence is given to all that lies between. This is not the case with memoirs where the truth of every word is dauntingly important.&nbsp;
 
