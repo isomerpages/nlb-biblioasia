@@ -4,6 +4,9 @@ permalink: /holding-area/vol-21/issue-3/oct-dec-2025/excavating-the-past/
 variant: markdown
 description: ""
 ---
+#### Writing a memoir involves personal experiences, digging deep into our memories and the emphasis on factual information.&nbsp;  
+By Meira Chand
+
 Many people assume that a memoir is the same as a biography or an autobiography, but it is a category of writing entirely on its own. I might not have given much thought to the uniqueness of memoir as a genre, if it were not for my elder brother Roy’s insistence that I write about our father’s extraordinary life.&nbsp;
 
 Our father, Dr Harbans Lal Gulati, went from India to London for medical studies in 1919, at the height of the colonial era. Already a qualified doctor in the British Army in India, he had been posted to the Khyber Pass, had been taken hostage by Afghan tribes and had also witnessed the Amritsar Massacre. In England, despite the formidable discrimination prevalent in that era, he requalified and established himself as a doctor, became a pioneering force in the early National Health Service (NHS) and even stood for parliament in the United Kingdom.
