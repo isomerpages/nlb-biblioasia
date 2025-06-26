@@ -47,7 +47,7 @@ The small vessels had two masts – the main-mast and the foremast, whereas the 
 Tongkangs were full utility vessels and about four-fifths of the space on a tongkang was used for storing cargo. A small area of deck at the stern of the ship, which was roofed, was used as the crew’s living quarters in the form of two small cubicles. The rest of the roofed area was taken up by the kitchen. A shrine to the goddess Mazu, the guardian of seamen was always affixed on every vessel.
 
 #### **Capital and Recurrent Costs**
-In the 1950s, a new tongkang below 50 tons costed between $10,000 to $15,000 to build while those above 100 tons ranged from $70,000 to $80,000. Very few tongkangs were built by about late 1958 because of the trade recession which began in early 1957, and also the declining importance of tongkangs as cargo carriers. The few that were built were below 50 tons, for service as charcoal and fuelwood carriers.
+In the 1950s, a new tongkang below 50 tons cost between $10,000 and $15,000 to build while those above 100 tons ranged from $70,000 to $80,000. Very few tongkangs were built by about late 1958 because of the trade recession which began in early 1957, and also the declining importance of tongkangs as cargo carriers. The few that were built were below 50 tons, for service as charcoal and fuelwood carriers.
 
 Tongkangs were overhauled about three times a year, when barnacles were cleared from the hulls, minor repairs made and generally a spring-cleaning given, at the cost of between $50 to $200 depending on the size of the ship. Sails were changed once a year, unless they were badly torn as a result of tongkangs being lashed by storms.
 
