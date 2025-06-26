@@ -115,7 +115,6 @@ Such a treasure trove of research material allows an author to not only crossche
 
 
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src="/images/Authors/DrJohnBray2a.png">
 <b>Dr Meira Chand</b>’s multicultural heritage is reflected in the nine novels she has published. <i>A Different Sky</i> (2010) made it to Oprah Winfrey’s reading list for November 2011, and was long-listed for the International IMPAC Dublin Literary Award in 2012. Her latest book, <i>Sacred Waters</i>, was published in 2018. She has a PhD in creative writing, and lived in Japan and India before moving to Singapore in 1997. She was awarded Singapore’s Cultural Medallion in 2024. </div>
 
 #### **Notes**
