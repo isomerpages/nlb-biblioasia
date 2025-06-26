@@ -82,20 +82,20 @@ When I sit down to write, there will be things I will not get exactly right, the
 
 #### **Notes**
 
-[^1]: Dani Shapiro, _Still Writing: The Perils and Pleasures of a Creative Life_ (New York: Grove Atlantic, 2013), 183. (From NLB OverDrive)
+[^1]: Dani Shapiro, [_Still Writing: The Perils and Pleasures of a Creative Life_](https://nlb.overdrive.com/media/1286500) (New York: Grove Atlantic, 2013), 183. (From NLB OverDrive)
 
 
 
-[^2]: Meira Chand, _A Different Sky_ (London: Random House, 2010). (From NLB OverDrive); Meira Chand, “A Journey into Memory,” _BiblioAsia_ 10, no. 1 (April–June 2014): 10–11; Meira Chand, “A Different Sky: The Other Side of the Looking Glass,” _BiblioAsia_ 16, no. 3 (October–December 2020): 44–47.
+[^2]: Meira Chand, [_A Different Sky_](https://nlb.overdrive.com/media/355948) (London: Random House, 2010). (From NLB OverDrive); Meira Chand, “[A Journey into Memory](https://biblioasia.nlb.gov.sg/vol-10/issue-1/apr-jun-2014/meira-chand-opinion/),” _BiblioAsia_ 10, no. 1 (April–June 2014): 10–11; Meira Chand, “[A Different Sky: The Other Side of the Looking Glass](https://biblioasia.nlb.gov.sg/vol-16/issue-3/oct-dec-2020/diff-sky/),” _BiblioAsia_ 16, no. 3 (October–December 2020): 44–47.
 
 
-[^3]: Oliver Sacks, _Hallucinations_ (New York, Toronto: Alfred A. Knopf, 2012), 93. (From NLB OverDrive)
+[^3]: Oliver Sacks, [_Hallucinations_](https://nlb.overdrive.com/media/902295) (New York, Toronto: Alfred A. Knopf, 2012), 93. (From NLB OverDrive)
 
 
-[^4]: Oliver Sacks, _Uncle Tungsten: Memories of a Chemical Boyhood_ (New York, Toronto: Alfred A. Knopf, 2013), 22–24. (From NLB OverDrive); Oliver Sacks, “On Memory,” The Threepenny Review, Winter 2005, https://www.threepennyreview.com/on-memory-winter-2005/.
+[^4]: Oliver Sacks, [_Uncle Tungsten: Memories of a Chemical Boyhood_](https://nlb.overdrive.com/media/1429909) (New York, Toronto: Alfred A. Knopf, 2013), 22–24. (From NLB OverDrive); Oliver Sacks, “On Memory,” The Threepenny Review, Winter 2005, [https://www.threepennyreview.com/on-memory-winter-2005/](https://www.threepennyreview.com/on-memory-winter-2005/).
 
 
-[^5]: Sacks, _Uncle Tungsten_, 22–24.
+[^5]: Sacks, [_Uncle Tungsten_](https://nlb.overdrive.com/media/1429909), 22–24.
 
 
-[^6]: Oliver Sacks, _The Man Who Mistook His Wife for a Hat_ (New York: Picador, 2014), 101. (From NLB OverDrive)
+[^6]: Oliver Sacks, [_The Man Who Mistook His Wife for a Hat_](https://nlb.overdrive.com/media/2112279) (New York: Picador, 2014), 101. (From NLB OverDrive)
