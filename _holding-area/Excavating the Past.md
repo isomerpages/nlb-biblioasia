@@ -42,10 +42,10 @@ I had encountered the problem of time before in my writing life, particularly wh
 
 A good example of this is the research I did for my novel _A Different Sky_ (2010), a story set in pre-independence Singapore, an era I knew little about, not having grown up here. The Oral History Centre at the National Archives of Singapore became for me a treasure trove of borrowed memories. I could put on headphones and be immediately surrounded by the recorded voices of numerous people of a bygone time, telling me the details of their lives. In their own voices, a legion of persons no longer living were able to recreate for me the nation’s short but traumatic history.[^2]
 
-![](/images/Vol%2021%20Issue%203/Excavating%20the%20Past/excavating_sky.jpg)
+![](/images/Vol%2021%20Issue%203/Excavating%20the%20Past/excavating_sky2.jpg)
 <div style="background-color: white;"><i>A Different Sky</i> published by Vintage UK in 2011. First published by Harvill Secker/Random in 2010, the book made it to Oprah Winfrey’s reading list for November 2011, and was long-listed for the International IMPAC Dublin Literary Award in 2012.</div>
 
-![](/images/Vol%2021%20Issue%203/Excavating%20the%20Past/excavating_water.jpg)
+![](/images/Vol%2021%20Issue%203/Excavating%20the%20Past/excavating_water2.jpg)
 <div style="background-color: white;"><i>Sacred Waters</i> was published by Marshall Cavendish International, Singapore, in 2018.</div>
 
 Old newspapers in NewspaperSG and the treasure trove of archival photographs and rare books held by the National Library Singapore gave me added contextual information about time, place and events. Through the laborious process of research, I realised I was building a scant Singapore memory of my own upon the wealth of other people’s memories. The process took time, for the learnings and experiences obtained through research had to be absorbed and fully digested before they could, in some strange way, become my own limited memory for me to write successfully.&nbsp;
