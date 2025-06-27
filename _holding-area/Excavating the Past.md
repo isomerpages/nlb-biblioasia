@@ -13,12 +13,9 @@ By Meira Chand
 
 Many people assume that a memoir is the same as a biography or an autobiography, but it is a category of writing entirely on its own. I might not have given much thought to the uniqueness of memoir as a genre, if it were not for my elder brother Roy’s insistence that I write about our father’s extraordinary life.&nbsp;
 
-![](/images/Vol%2021%20Issue%203/Excavating%20the%20Past/excavating_brother.jpg)
-<div style="background-color: white;"> Meira and her brother Roy, 1944. <i>Courtesy of Meira Chand.</i></div>
-
 Our father, Dr Harbans Lal Gulati, went from India to London for medical studies in 1919, at the height of the colonial era. Already a qualified doctor in the British Army in India, he had been posted to the Khyber Pass, had been taken hostage by Afghan tribes and had also witnessed the Amritsar Massacre. In England, despite the formidable discrimination prevalent in that era, he requalified and established himself as a doctor, became a pioneering force in the early National Health Service (NHS) and even stood for parliament in the United Kingdom.
 
-![](/images/Vol%2021%20Issue%203/Excavating%20the%20Past/excavating_family.jpg)
+![](/images/Vol%2021%20Issue%203/Excavating%20the%20Past/excavating_family2.jpg)
 <div style="background-color: white;"> Meira Chand (left) with her dad Dr Harbans Lal Gulati, mum Norah Louise Knobel, elder brother Roy and younger brother Anand, 1945. <i>Courtesy of Meira Chand.</i></div>
 
 Roy wanted a full-scale biography but I felt it would be a difficult undertaking as so much of our father’s early life was irretrievably lost to time.&nbsp; It was only at Roy’s continued insistence that I reluctantly decided to consider writing a memoir. Unlike a biography or an autobiography, which takes in the entire chronological sweep of a life, a memoir is limited in its scope and supportive of whimsy. It focuses on a reduced canvas of emotional depth, examining from the author’s point of view a particular period, person or event, experiences or themes. Rather like an archaeologist, the memoirist is expected to excavate specific recollections and reveal the hidden truth of what they find. Penning a memoir appeared a more achievable project than a full-blown biography, but I had not attempted the genre before and was wary of the perils awaiting me.&nbsp;
@@ -51,6 +48,9 @@ A good example of this is the research I did for my novel _A Different Sky_ (201
 Old newspapers in NewspaperSG and the treasure trove of archival photographs and rare books held by the National Library Singapore gave me added contextual information about time, place and events. Through the laborious process of research, I realised I was building a scant Singapore memory of my own upon the wealth of other people’s memories. The process took time, for the learnings and experiences obtained through research had to be absorbed and fully digested before they could, in some strange way, become my own limited memory for me to write successfully.&nbsp;
 
 No such help was available for the personal histories of my parents. I was left with my own and my brother’s meagre store of hazy memories as well as a small stash of letters, documents, photographs and diaries. Yet, as I struggled to begin my memoir, two incidents, one from my own life, and the other the experience of the writer Oliver Sacks – and both coincidentally to do with bombs – revealed to me not only the plasticity of memory, as I had learned through my absorption of the memories of others at the Oral History Centre, but also about its utter untrustworthiness.&nbsp;
+
+![](/images/Vol%2021%20Issue%203/Excavating%20the%20Past/excavating_brother2.jpg)
+<div style="background-color: white;"> Meira and her brother Roy, 1944. <i>Courtesy of Meira Chand.</i></div>
 
 I was born in an air-raid during the Second World War in London, and my early years were shaped by the trauma of those chilling times. In the garden of our home, my father had installed an Anderson shelter into which we ran when the shriek of sirens was heard, not emerging until the all-clear sounded. On one such occasion, my weary mother, after spending an uncomfortable night in the cramped and ill-smelling underground refuge, could stand it no more. It was already early morning and even though there had been no all-clear siren, there had also been no air-raid and she was sure, as sometimes happened, it was all a false alarm. Seeing everyone around her asleep, she picked me up and, crossing the garden, took me back into the house. She was filling a basin with water to give me a bath when she heard the ominous sound.&nbsp;
 
