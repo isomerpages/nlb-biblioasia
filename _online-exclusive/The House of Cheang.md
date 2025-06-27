@@ -41,7 +41,7 @@ Besides being the farmer for opium and spirits, he also owned extensive tracts o
 
 <div style="background-color: white;">
 <br>
-<img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/cheang_market.jpg" style="width: 100%;">Hong Lim Market, 1974.<i>Lim Hock Heng Collection, courtesy of National Archives of Singapore.</i></div>
+<img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/cheang_market.jpg" style="width: 100%;">Hong Lim Market, 1974.<i> Lim Hock Heng Collection, courtesy of National Archives of Singapore.</i></div>
 
 Among his many public contributions to Singapore and the Straits Settlements was his donation to the Convent of the Holy Infant Jesus (today’s CHIJMES) for the construction of the long building on its southern boundary.[^16] He also supported the charitable school in Penang, the Dutch elementary school and the Portuguese kindergarten. Together with his eldest son, Cheang Jim Hean, he established Yangzheng Academy, which taught Chinese and Western studies with six Chinese and six English teachers.[^17]
 
