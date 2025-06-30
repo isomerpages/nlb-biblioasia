@@ -9,8 +9,8 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-21/issue-2/jul-sep-2025/libraries-archives-future-experiences-discoveries/
-      button: The Libraries and Archives of Tomorrow
+      url: /vol-21/issue-2/jul-sep-2025/formation-national-library-board/
+      button: Writing the NLB Story
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
