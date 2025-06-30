@@ -2,4 +2,5 @@ collections:
   oct-to-dec-2025:
     output: true
     order:
+      - The House of Cheang.md
       - Excavating the Past.md
