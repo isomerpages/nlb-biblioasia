@@ -1,4 +1,5 @@
 collections:
   oct-to-dec-2025:
     output: true
-    order: []
+    order:
+      - Excavating the Past.md
