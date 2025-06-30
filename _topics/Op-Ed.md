@@ -4,6 +4,13 @@ permalink: /topic/fake-news/
 variant: markdown
 description: ""
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/writing-memoirs-meira-chand/">**Excavating the Past**</a>
+
+Writing a memoir involves personal experiences, digging deep into our memories and the emphasis on factual information.
+
+<img src="/images/Vol%2021%20Issue%203/Excavating%20the%20Past/Excavating_Topic.png" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-13/issue-2/jul-sep-2017/fake-news/">“Fake” News: Since When Was It News?</a>
 
 Lying, as it appears, is as old as history.&nbsp;**Farish A. Noor**&nbsp;explains.
@@ -50,6 +57,3 @@ Travel writer&nbsp;**Desiree Koh**&nbsp;shares her wanderlust and love for South
 
 <img src="/images/vol-10-issue-2/singaporean/outside_City_Hall.jpg" style="width:80%;">
 <hr>
-
-
-
