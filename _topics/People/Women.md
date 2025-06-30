@@ -5,6 +5,13 @@ description: ""
 third_nav_title: People
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/writing-memoirs-meira-chand/">**Excavating the Past**</a>
+
+Writing a memoir involves personal experiences, digging deep into our memories and the emphasis on factual information.
+
+<img src="/images/Vol%2021%20Issue%203/Excavating%20the%20Past/Excavating_Topic.png" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/hedwig-anuar-first-lady-of-the-national-library/">Hedwig Anuar: First Lady of the National Library</a>
 
 Hedwig Anuar was not only known for being the director of the National Library, she was also an activist and advocate for women’s rights.
