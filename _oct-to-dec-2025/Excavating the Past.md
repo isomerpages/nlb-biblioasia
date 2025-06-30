@@ -1,6 +1,6 @@
 ---
 title: Excavating the Past
-permalink: /holding-area/vol-21/issue-3/oct-dec-2025/excavating-the-past/
+permalink: /vol-21/issue-3/oct-dec-2025/writing-memoirs-meira-chand/
 variant: markdown
 description: ""
 ---
