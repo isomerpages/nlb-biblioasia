@@ -9,15 +9,26 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-21/issue-2/jul-sep-2025/libraries-archives-future-experiences-discoveries/
-      button: The Libraries and Archives of Tomorrow
+      url: /vol-21/issue-2/jul-sep-2025/formation-national-library-board/
+      button: Writing the NLB Story
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 21 Issue 2/Libraries of
-        Tomorrow/HeroImage_LibrariesofTomorrow.jpg
+      background: /images/Vol 21 Issue 2/Writing the NLB
+        Story/HeroImage_WritingTheNLBStory2.jpg
       variant: center
+  - infopic:
+      title: "Hedwig Anuar: First Lady of the National Library"
+      subtitle: Women
+      id: infopic
+      description: Hedwig Anuar was not only known for being the director of the
+        National Library, she was also an activist and advocate for women’s
+        rights.
+      button: LIBRARIAN.ACTIVIST.ADVOCATE
+      url: /vol-21/issue-2/jul-sep-2025/hedwig-anuar-first-lady-of-the-national-library/
+      image: /images/Vol 21 Issue 2/Hedwig   First Lady/hedwig_1stLady_Topic.jpg
+      alt: "Hedwig Anuar: First Lady"
   - infopic:
       title: The Singapore and Southeast Asia Collection
       subtitle: Collections
@@ -1135,17 +1146,6 @@ sections:
       url: /videos/reels/print/
       alt: Image alt text
       image: "/images/Videos: BiblioAsia Reels/early_print.jpg"
-  - infopic:
-      title: "Hedwig Anuar: First Lady of the National Library"
-      subtitle: Women
-      id: infopic
-      description: Hedwig Anuar was not only known for being the director of the
-        National Library, she was also an activist and advocate for women’s
-        rights.
-      button: LIBRARIAN.ACTIVIST.ADVOCATE
-      url: /vol-21/issue-2/jul-sep-2025/hedwig-anuar-first-lady-of-the-national-library/
-      image: /images/Vol 21 Issue 2/Hedwig   First Lady/hedwig_1stLady_Topic.jpg
-      alt: "Hedwig Anuar: First Lady"
   - infopic:
       title: Writing the NLB Story
       subtitle: History
