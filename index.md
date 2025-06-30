@@ -15,8 +15,8 @@ sections:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 21 Issue 2/Libraries of
-        Tomorrow/HeroImage_LibrariesofTomorrow.jpg
+      background: /images/Vol 21 Issue 2/Writing the NLB
+        Story/HeroImage_WritingTheNLBStory2.jpg
       variant: center
   - infopic:
       title: "Hedwig Anuar: First Lady of the National Library"
