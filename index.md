@@ -19,6 +19,17 @@ sections:
         Tomorrow/HeroImage_LibrariesofTomorrow.jpg
       variant: center
   - infopic:
+      title: "Hedwig Anuar: First Lady of the National Library"
+      subtitle: Women
+      id: infopic
+      description: Hedwig Anuar was not only known for being the director of the
+        National Library, she was also an activist and advocate for women’s
+        rights.
+      button: LIBRARIAN.ACTIVIST.ADVOCATE
+      url: /vol-21/issue-2/jul-sep-2025/hedwig-anuar-first-lady-of-the-national-library/
+      image: /images/Vol 21 Issue 2/Hedwig   First Lady/hedwig_1stLady_Topic.jpg
+      alt: "Hedwig Anuar: First Lady"
+  - infopic:
       title: The Singapore and Southeast Asia Collection
       subtitle: Collections
       id: infopic
@@ -1135,17 +1146,6 @@ sections:
       url: /videos/reels/print/
       alt: Image alt text
       image: "/images/Videos: BiblioAsia Reels/early_print.jpg"
-  - infopic:
-      title: "Hedwig Anuar: First Lady of the National Library"
-      subtitle: Women
-      id: infopic
-      description: Hedwig Anuar was not only known for being the director of the
-        National Library, she was also an activist and advocate for women’s
-        rights.
-      button: LIBRARIAN.ACTIVIST.ADVOCATE
-      url: /vol-21/issue-2/jul-sep-2025/hedwig-anuar-first-lady-of-the-national-library/
-      image: /images/Vol 21 Issue 2/Hedwig   First Lady/hedwig_1stLady_Topic.jpg
-      alt: "Hedwig Anuar: First Lady"
   - infopic:
       title: Writing the NLB Story
       subtitle: History
