@@ -44,7 +44,7 @@ Suddenly in the face of precious information I had been unable to gather for hal
 <div style="background-color: white;">
 <br>
 <img style="width:70%" src="/images/vol-10-issue-4/francispng/The_Waste_Land_re.jpg">
-A copy of <i>F.M.S.R.</i> and T.S. Eliot's <i>The Waste Land. </i>Both the poem and the poet influenced Teo Poh Leng to write his poem <i>F.M.S.R.</i>, using the pen name Francis P. Ng. <i>F.M.S.R.</i> has been claimed to be the first book-length English poem by a Singapore author. National Library of Singapore is one of five libraries in the world that hold this book. <i>F.M.S.R.</i>, <i>London: Arthur H Stockwell, 1937; The Waste Land, San Diego; Harcourt Brace &amp; Co. All rights reserved, 1997. </i>
+A copy of <i>F.M.S.R.</i> and T.S. Eliot's <i>The Waste Land. </i>Both the poem and the poet influenced Teo Poh Leng to write his poem <i>F.M.S.R.</i>, using the pen name Francis P. Ng. <i>F.M.S.R.</i> has been claimed to be the first book-length English poem by a Singapore author. National Library of Singapore is one of five libraries in the world that has this book. <i>F.M.S.R.</i>, <i>London: Arthur H Stockwell, 1937; The Waste Land, San Diego; Harcourt Brace &amp; Co. All rights reserved, 1997. </i>
 </div>
 
 #### **Piecing Together a Puzzle: Teo's Biography** 
