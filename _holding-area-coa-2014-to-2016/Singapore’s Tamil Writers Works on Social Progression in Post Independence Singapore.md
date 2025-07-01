@@ -85,7 +85,7 @@ eulogy, “Kadamai” (“Duty”):
    Our Singapore emerges like a diamond radiating in all directions<br> 
    Telling for the splendour and affluence of the land<br> 
    Let us put our earnest resolve to prosper further<br> 
-This is our duty*11
+   This is our duty*11
 
 Poet Naa. Aandeappan describes Singapore as a “classy diamond / in the
 saline sea” in “Uyarthara Vairam” (“Classy Diamond”).12 In a similar
@@ -151,7 +151,3 @@ tell them: “Well, look, thank you very much, we are a government
 party, we can’t indulge in that kind of activities. But if you give
 these fellows a fair deal in terms of compensation, I will assist you,
 fellows, to get [the squatters] out.” 21
-
-
-
-
