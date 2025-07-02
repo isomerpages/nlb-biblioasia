@@ -120,121 +120,80 @@ staff will send some thoughts about him. All they told me was he was quite
 a good boss, you know. Always took time with them. I mean, all very nice
 things.&nbsp;</p>
 <p><strong>Jimmy</strong>
-<br>Yes.</p>
-<p>&nbsp;</p>
+<br>Yes.&nbsp;</p>
 <p><strong>Simon</strong>
-</p>
-<p>Like they of course, never said a word about the actual work.</p>
-<p>&nbsp;</p>
+<br>Like they of course, never said a word about the actual work.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Right.</p>
-<p>&nbsp;</p>
+<br>Right.&nbsp;</p>
 <p><strong>Simon</strong>
-</p>
-<p>Mr Nathan has a very long memoir as president.</p>
-<p>&nbsp;</p>
+<br>Mr Nathan has a very long memoir as president.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Yes.</p>
-<p>&nbsp;</p>
+<br>Yes.&nbsp;</p>
 <p><strong>Simon</strong>
-</p>
-<p>And if you look through that memoir, <em>Laju</em> was mentioned but the
+<br>And if you look through that memoir, <em>Laju</em> was mentioned but the
 work of the Security Integrity Division, which he headed after my father,
 that’s said to be like one page and one sentence. [He] sums it up that
 in the national interest of Singapore, he hopes you understand he’s not
-going to write about it.</p>
-<p>&nbsp;</p>
+going to write about it.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay. It’s very disappointing for the readers because we don’t get any
-meat. But I suppose we’ll have to make do with what we get.</p>
-<p>&nbsp;</p>
-<p>Can I ask you, how did this book come about? Because it came out, you
-know, in 2024, how did all this happen?</p>
-<p>&nbsp;</p>
+<br>Okay. It’s very disappointing for the readers because we don’t get any
+meat. But I suppose we’ll have to make do with what we get.&nbsp;
+<br>Can I ask you, how did this book come about? Because it came out, you
+know, in 2024, how did all this happen?&nbsp;</p>
 <p><strong>Simon</strong>
-</p>
-<p>Well, I think that I’ve always been a writer. My father in fact encouraged
-my writing.</p>
-<p>&nbsp;</p>
-<p>And so when you write, you deal with things you kind of know or want to
+<br>Well, I think that I’ve always been a writer. My father in fact encouraged
+my writing.
+<br>And so when you write, you deal with things you kind of know or want to
 know. And having lost my father when I was 19, I did want to understand
 him more deeply. So it was always in my mind that should I write a book
 and one can look back at some of my own writing, <em><a href="https://catalogue.nlb.gov.sg/search/card?id=dce58649-821e-5c9d-82b4-4c1c6476f455&amp;entityType=FormatGroup" rel="noopener noreferrer nofollow" target="_blank">City of Small Blessings</a></em>,
 my novel, and that all men know all that my father would have been, could
-more or less live through some of the same tropes that my father went through.</p>
-<p>&nbsp;</p>
-<p>So imaginatively, I was always trying to figure out the trajectory my
+more or less live through some of the same tropes that my father went through.
+<br>So imaginatively, I was always trying to figure out the trajectory my
 father had, or people his generation had. And of course, the second thing
-was that there was this thing called the pandemic.</p>
-<p>&nbsp;</p>
+was that there was this thing called the pandemic.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Yes, I seem to remember that.</p>
-<p>&nbsp;</p>
+<br>Yes, I seem to remember that.&nbsp;</p>
 <p><strong>Simon</strong>
-</p>
-<p>You know, I mean, there’s a lot of global suffering. But for those of
-us who didn’t.</p>
-<p>&nbsp;</p>
+<br>You know, I mean, there’s a lot of global suffering. But for those of
+us who didn’t.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>We were more fortunate. Yes.</p>
-<p>&nbsp;</p>
+<br>We were more fortunate. Yes.&nbsp;</p>
 <p><strong>Simon</strong>
-</p>
-<p>I’m well sheltered from that. At times, I think you can either watch a
+<br>I’m well sheltered from that. At times, I think you can either watch a
 lot of Netflix and snack yourself to death or you could try to do something.
-And I thought, try to write about my father.</p>
-<p>&nbsp;</p>
+And I thought, try to write about my father.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>So how long did it take then?</p>
-<p>&nbsp;</p>
+<br>So how long did it take then?&nbsp;</p>
 <p><strong>Simon</strong>
-</p>
-<p>I wrote it in stretches, so maybe about 18 months for the actual writing.</p>
-<p>&nbsp;</p>
+<br>I wrote it in stretches, so maybe about 18 months for the actual writing.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Wow.</p>
-<p>&nbsp;</p>
+<br>Wow.&nbsp;</p>
 <p><strong>Simon</strong>
-</p>
-<p>But of course, it’s the time to go through the editing, the writing parts
-etc.</p>
-<p>&nbsp;</p>
+<br>But of course, it’s the time to go through the editing, the writing parts
+etc.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Your father helmed Singapore’s response, the <em>Laju</em> hijacking but
+<br>Your father helmed Singapore’s response, the <em>Laju</em> hijacking but
 I think that maybe if for the benefit of the people who [are] a little
 bit younger, they may not know very much about the <em>Laju</em> hijacking.
-Could you tell us a little bit about the <em>Laju</em> hijacking?</p>
-<p>&nbsp;</p>
+Could you tell us a little bit about the <em>Laju</em> hijacking?&nbsp;</p>
 <p><strong>Simon</strong>
-</p>
-<p>So basically, I guess you have to call them terrorists. They took to them
+<br>So basically, I guess you have to call them terrorists. They took to them
 a noble cause. Two from Japan and two from the Middle East, from the Arabs,
-were very taken up by the Palestinian cause.</p>
-<p>&nbsp;</p>
+were very taken up by the Palestinian cause.
+<br>
+</p>
 <p>And they also saw that there was anger against America as an ally of Israel
 and a weakness, America suffering in our region, the Vietnam War. And in
 that tumultuous time, there was also the oil shock. And so they felt that
 if they could take out, literally blow up the Bukom refinery, they would
-be striking a blow against international capitalism, against America.</p>
-<p>&nbsp;</p>
+be striking a blow against international capitalism, against America.&nbsp;</p>
 <p>The oil from that refinery was the one that is fuelling the trucks and
-tanks of the Americans in the Vietnam War—</p>
-<p>&nbsp;</p>
+tanks of the Americans in the Vietnam War—&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Oh, right.</p>
-<p>&nbsp;</p>
+<br>Oh, right.&nbsp;</p>
 <p><strong>Simon</strong>
-</p>
-<p>—is the major refinery of our region. And so for all those reasons, they
+<br>—is the major refinery of our region. And so for all those reasons, they
 attacked Singapore. They weren’t attacking Singapore per se. It was just
 the installation in Singapore. And this of course, has to be seen in a
 context of the time.</p>
