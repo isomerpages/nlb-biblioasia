@@ -14,13 +14,13 @@ Working with theatre company Wild Rice, musical director Julian Wong put togethe
 
   
 
-**Julian:** I think the most interesting thing to me, and I didn’t know this until I researched about him, was that he was not Singaporean. He was from Bukit Tinggi \[in Sumatra\]. And that he had come here to Singapore as a way of rebelling against his father, the village chief, the _penghulu_, who didn’t allow him to pursue music because music was _haram_ \[forbidden or unlawful in Islam\]. 
+**Julian:** I think the most interesting thing to me, and I didn’t know this until I researched about him, was that he was not Singaporean. He was from Bukit Tinggi \[in Sumatra\]. And that he had come here to Singapore as a way of rebelling against his father, the village chief, the _penghulu_, who didn’t allow him to pursue music because music was _haram_ \[forbidden or unlawful in Islam\].&nbsp;
 
 When he was 21 years old, Pak Zubir fell very ill. His father took him to the hospital and gave the doctor a shroud, and said, “If my son dies, please bury him in this. If my son lives, please tell him to come home.”
 
 So, after one-and-a-half months, miraculously Pak Zubir recovered, and then he thought life was too short to stay in Bukit Tinggi. So he walked and took a horse cart to Pekanbaru and then a ferry to Singapore because a friend told him, “You want to be a musician? Singapore might be a better place.”
 
-And he used the shroud as a towel. Just the shirt on his back and that shroud. 
+And he used the shroud as a towel. Just the shirt on his back and that shroud.&nbsp;
 
 **Jimmy:** It’s an amazing story.
 
@@ -28,7 +28,7 @@ And he used the shroud as a towel. Just the shirt on his back and that shroud. 
 
 **Julian:** When he came here, he worked as a violinist with the _bangsawan_ theatre companies. Then he learned how to read Western music notation and became the arranger, the conductor and music director.
 
-Then his father found him and wrote to him, “Please come back home. A Dutch officer’s daughter wants to marry you. You can come back, marry her and lead a good life.” And he wrote back to his father, used his words against him: “But marrying a non-Muslim is _haram_.” 
+Then his father found him and wrote to him, “Please come back home. A Dutch officer’s daughter wants to marry you. You can come back, marry her and lead a good life.” And he wrote back to his father, used his words against him: “But marrying a non-Muslim is _haram_.”&nbsp;
 
   
 
@@ -54,7 +54,7 @@ After knowing that story, when you hear “Majulah Singapura”, and especially 
 
   
 
-**Julian:** Pak Zubir said it’s a prayer. So let’s do it quietly in a personal way.  
+**Julian:** Pak Zubir said it’s a prayer. So let’s do it quietly in a personal way. &nbsp;
 
   
 
@@ -62,4 +62,18 @@ After knowing that story, when you hear “Majulah Singapura”, and especially 
 
   
 
-**Julian:** Till today, I’m surprised by the reaction of the audience because we didn’t know if anybody would come. It was the title _Mr Mari Kita_, Zubir Said, and then who’s this guy Julian Wong? And then it was Covid, right? So when we opened, we didn’t know what the reaction would be and certainly did not expect it to be this warm.
+**Julian:** Till today, I’m surprised by the reaction of the audience because we didn’t know if anybody would come. It was the title _Mr Mari Kita_, Zubir Said, and then who’s this guy Julian Wong? And then it was Covid, right? So when we opened, we didn’t know what the reaction would be and certainly did not expect it to be this warm. 
+
+
+
+
+<div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
+<br>
+Scan the QR code to listen to the full interview with Julian Wong on the BiblioAsia+ podcast, “More Than Mr Mari Kita: The Life and Legacy of Zubir Said”.
+	<br><br>
+<img src="/images/Vol%2021%20Issue%202/Writing%20the%20NLB%20Story/writing_joinsa.png" style="width: 100%;">
+<br></div>
+
+	
+
+<br>
