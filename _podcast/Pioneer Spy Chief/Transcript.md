@@ -196,132 +196,87 @@ tanks of the Americans in the Vietnam War—&nbsp;</p>
 <br>—is the major refinery of our region. And so for all those reasons, they
 attacked Singapore. They weren’t attacking Singapore per se. It was just
 the installation in Singapore. And this of course, has to be seen in a
-context of the time.</p>
-<p>&nbsp;</p>
-<p>Singapore had not even finished its first decade of independence.</p>
-<p>&nbsp;</p>
+context of the time.&nbsp;</p>
+<p>Singapore had not even finished its first decade of independence.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>That’s right.</p>
-<p>&nbsp;</p>
+<br>That’s right.&nbsp;</p>
 <p><strong>Simon</strong>
-</p>
-<p>Singapore Airlines was getting its first planes, you know, and our overall
+<br>Singapore Airlines was getting its first planes, you know, and our overall
 capability, our resources were far thinner. And so when they hijacked the <em>Laju</em> ferry
 and held these people hostage, there was a long standoff accentuated by
 the fact that they wanted to be flown out. And I think the calculation
 of Mr Lee Kuan Yew, our prime minister at the time, flowed down to my father,
-was that we had to negotiate a way out.</p>
-<p>&nbsp;</p>
+was that we had to negotiate a way out.&nbsp;</p>
 <p>We couldn’t be too soft because then we might be struck again. But unlike
 the Munich incident where they tried to shoot the terrorists and it all
 went very badly, we didn’t want too harsh a response. Otherwise, there
 would be anger among the Muslim world and we would open ourselves to more
 attacks. So that was a fine calibrated balance. Besides the otherwise standoff
 at sea, which I feel was a bit boring. You know, watching boats bobbing
-up and down the water.</p>
-<p>&nbsp;</p>
+up and down the water.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Because you couldn’t see very much</p>
-<p>&nbsp;</p>
+<br>Because you couldn’t see very much.&nbsp;</p>
 <p><strong>Simon</strong>
-</p>
-<p>There’s a lot of stuff behind the scenes.</p>
-<p>&nbsp;</p>
+<br>There’s a lot of stuff behind the scenes.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Yeah.</p>
-<p>&nbsp;</p>
+<br>Yeah.&nbsp;</p>
 <p><strong>Simon</strong>
-</p>
-<p>And I think it has helped Singapore well. So that you see that though
+<br>And I think it has helped Singapore well. So that you see that though
 we are really a hub for a lot of multinationals and American money, Americans
-are invested more in Singapore than any other part of Southeast Asia.</p>
-<p>&nbsp;</p>
+are invested more in Singapore than any other part of Southeast Asia.&nbsp;</p>
 <p>You know, we have not become so much targeted again until of course, the
-post-9/11 period.</p>
-<p>&nbsp;</p>
+post-9/11 period.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Can I ask you know, Lee Kuan Yew, the prime minister then, placed your
+<br>Can I ask you know, Lee Kuan Yew, the prime minister then, placed your
 father in charge of the negotiations with the terrorists and dealing with
 the media. What do you think gave Lee Kuan Yew that confidence in your
-father?</p>
-<p>&nbsp;</p>
+father?&nbsp;</p>
 <p><strong>Simon</strong>
-</p>
-<p>I’m not sure I have the confidence to speak on behalf of Lee Kuan Yew.</p>
-<p>&nbsp;</p>
+<br>I’m not sure I have the confidence to speak on behalf of Lee Kuan Yew.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>But as his son, you can say something nice about your father.</p>
-<p>&nbsp;</p>
+<br>But as his son, you can say something nice about your father.&nbsp;</p>
 <p><strong>Simon</strong>
-</p>
-<p>Yeah, well, I could tell the facts. My father in 1965 got a call from
+<br>Yeah, well, I could tell the facts. My father in 1965 got a call from
 Mr Lee Kuan Yew at the helm of the newly independent republic, and basically
 got told to head the Special Branch. Why him? Well prior to this, he was
 the port manager at the Harbour Board, today the Maritime Port Authority
-and in between that, the PSA.</p>
-<p>&nbsp;</p>
+and in between that, the PSA.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Right?</p>
-<p>&nbsp;</p>
+<br>Right?&nbsp;</p>
 <p><strong>Simon</strong>
-</p>
-<p>How did a port manager in charge of human resources get entrusted by Mr
+<br>How did a port manager in charge of human resources get entrusted by Mr
 Lee to head the Special Branch? And that’s where a lot of the writing about
 his pre-<em>Laju</em> career, I have to sort of delve and in a way speculate.
 One of the speculations was that he was involved in politics of the highest
 order. At that time, the port and the unions were riddled with leftists
 and there was a huge tension. A strike or closure of the port would have
-been ruinous for Singapore.</p>
-<p>&nbsp;</p>
+been ruinous for Singapore.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Right.</p>
-<p>&nbsp;</p>
+<br>Right.&nbsp;</p>
 <p><strong>Simon</strong>
-</p>
-<p>The port is in the ward of Tanjong Pagar, which is the heart of Lee Kuan
-Yew’s constituency.</p>
-<p>&nbsp;</p>
+<br>The port is in the ward of Tanjong Pagar, which is the heart of Lee Kuan
+Yew’s constituency.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Right.</p>
-<p>&nbsp;</p>
+<br>Right.&nbsp;</p>
 <p><strong>Simon</strong>
-</p>
-<p>So in many senses it was highly precise. When Mr Lee met the Port Union
+<br>So in many senses it was highly precise. When Mr Lee met the Port Union
 workers, the only civil servant in the room as far as the records show,
-was my father.</p>
-<p>&nbsp;</p>
+was my father.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Okay.</p>
-<p>&nbsp;</p>
+<br>Okay.&nbsp;</p>
 <p><strong>Simon</strong>
-</p>
-<p>I think that trust in handling highly politically dangerous situations
-grew between Mr Lee and my civil servant father. My father was not a politician.</p>
-<p>&nbsp;</p>
+<br>I think that trust in handling highly politically dangerous situations
+grew between Mr Lee and my civil servant father. My father was not a politician.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Right.</p>
-<p>&nbsp;</p>
+<br>Right.&nbsp;</p>
 <p><strong>Simon</strong>
-</p>
-<p>And then when this special branch evolved, my father was entrusted to
+<br>And then when this special branch evolved, my father was entrusted to
 split the Special Branch into two parts. The Security Services Division
 took outwards, and the Internal Security Division to deal with internal
 issues at that time was under a single ministry, the Ministry of Interior
-and Defence. And my father therefore headed both agencies.</p>
-<p>&nbsp;</p>
+and Defence. And my father therefore headed both agencies.&nbsp;</p>
 <p><strong>Jimmy</strong>
-</p>
-<p>Right.</p>
+<br>Right.</p>
 <p>&nbsp;</p>
 <p><strong>Simon</strong>
 </p>
