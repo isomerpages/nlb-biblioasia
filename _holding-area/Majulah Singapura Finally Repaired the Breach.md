@@ -8,6 +8,13 @@ description: ""
 
 Working with theatre company Wild Rice, musical director Julian Wong put together a critically acclaimed production on the life of Zubir Said (fondly known as Pak Zubir) that mixed history, music and memory in a moving show, _Don’t Call Him Mr Mari Kita_. Performances were sold out in 2022 and 2024. Editor-in-chief Jimmy Yap interviews Julian Wong on his research on Pak Zubir’s life and the challenges of putting up the show.
 
+![](/images/Vol%2021%20Issue%203/Composer/composer_main.jpg)
+<div style="background-color:white;">Zubir Said playing the piano at his home in Joo Chiat Place, 1967. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore (Media - Image no. 19980005388 – 0075).</i></div>
+
+ 
+![](/images/Vol%2021%20Issue%203/Composer/composer_julian.jpg)
+<div style="background-color:white;">Musical director Julian Wong, recipient of the National Art Council’s 2023 Young Artist Award, Singapore’s highest award for young arts practitioners. <i>Photo by Jimmy Yap. </i></div>
+
   
 
 **Jimmy:** What’s the most interesting thing you learned about Pak Zubir from your research?
@@ -48,7 +55,10 @@ Then his father found him and wrote to him, “Please come back home. A Dutch of
 
 After knowing that story, when you hear “Majulah Singapura”, and especially because Pak Zubir said “Majulah Singapura” is a prayer, you hear it in a totally different light. That’s why there was no way I could do a version of “Majulah Singapura” and sing it during the show.
 
-  
+ 
+![](/images/Vol%2021%20Issue%203/Composer/composer_anthem.jpg)
+<div style="background-color:white;">“Majulah Singapura” being sung for the first time as the state anthem on 3 December 1959, with the installation of Yusof Ishak as the first Malayan-born Yang di-Pertuan Negara (Head of State). <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore (Media - Image no. 20090000506 - 0010).</i></div>
+
 
 **Jimmy:** It would be weird to do it in the theatre.
 
@@ -64,6 +74,9 @@ After knowing that story, when you hear “Majulah Singapura”, and especially 
 
 **Julian:** Till today, I’m surprised by the reaction of the audience because we didn’t know if anybody would come. It was the title _Mr Mari Kita_, Zubir Said, and then who’s this guy Julian Wong? And then it was Covid, right? So when we opened, we didn’t know what the reaction would be and certainly did not expect it to be this warm. 
 
+
+![](/images/Vol%2021%20Issue%203/Composer/composer_yangdi.jpg)
+<div style="background-color:white;">Yang Di-Pertuan Negara Yusof Ishak conferring the Certificate of Honour on Zubir Said, composer of Singapore's national anthem “Majulah Singapura”, 1963. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore (Media - Image no. 19980000462 - 0077).</i></div>
 
 
 
