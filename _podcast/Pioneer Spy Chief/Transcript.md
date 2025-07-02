@@ -30,8 +30,7 @@ Yew’s constituency.&nbsp;</p>
 <br>Right.&nbsp;</p>
 <p><strong>Simon</strong>
 <br>So in many senses it was highly precise.<strong>&nbsp;</strong>
-</p>
-<p>[Music playing]&nbsp;</p>
+<br>[Music playing]&nbsp;</p>
 <p><strong>Jimmy</strong>
 <br>You’re listening to <em>BiblioAsia</em>+, a podcast produced by the National
 Library of Singapore. At <em>BiblioAsia</em>, we tell stories about Singapore’s
