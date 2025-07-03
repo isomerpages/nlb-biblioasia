@@ -162,15 +162,15 @@ broadcast weekly for 52 weeks, Cultural Medallion recipient Pudumaithasan
 
    *Santhammal: Did you notice how comfortable this house is? There is<br>
    a hall, a bathroom and kitchen. We lived in a kampong. You were<br>
-   so adamant to stay there. But, now look at this place. Nice, isn’t it?*<br><br>
+   so adamant to stay there. But, now look at this place. Nice, isn’t it?*<br>
 
    *Arockiasamy: What was the rent you were paying there? Do you<br>
    remember? It was 15 dollars. And the rent here? 46.5 dollars. If you<br>
-   add water and electricity charges, it would easily exceed 55 dollars*.<br><br>
+   add water and electricity charges, it would easily exceed 55 dollars*.<br>
 
    *Santhammal: This being an HDB flat, the rent is limited to 46.5<br>
    dollars. Go and check what the rent would have been had this<br>
-   been a private flat; the rent would have been 80 or 100 dollars*.<br><br>
+   been a private flat; the rent would have been 80 or 100 dollars*.<br>
 
    *Arockiasami: Should comfort cost that much? Can’t that be made<br>
    available for 15 dollars?* 23
@@ -208,4 +208,3 @@ poignant picture of parting with cattle in his novel *Ninaivukalin Kolangal*
    became better off with her. Let us not sell it. Let her die here.” Her<br> 
    husband’s words passed through her mind. Tears rolled down her<br> 
    cheeks. Unable to bear the sight she rushed in*.25
-
