@@ -283,7 +283,7 @@ mother tongue may have come true (see Appendix II ).34 According to the
    of English at home became more prevalent. Correspondingly, the<br>
    use of Malay and Tamil as a home language was less prevalent<br>
    among the Malays and Indians respectively in 2010 compared<br>
-to 2000*.35
+   to 2000*.35
 
 ***Primary School Leaving Examination (PSLE)***
 
