@@ -337,3 +337,24 @@ higher divorce rates:
    postponement in marriages and greater tendency for individuals<br>
    to remain unmarried. The proportion who were either divorced or<br>
    separated increased from 2.5 percent in 2000 to 3.3 percent in 2010*.<br>45
+	 
+   *[…] The increase in the proportion of singles between 2000 and<br>
+   2010 was more prominent for the younger age groups. Among<br>
+   Singapore citizens aged 30–34 years, the proportion of singles rose<br>
+   significantly from 33 percent to 43 percent for the males, and from<br>
+   22 percent to 31 percent for the females*.46
+
+In the late 1980s and early 1990s, writers discussed the issues of marriage as
+an institution that denies self-esteem, identity and freedom to women, as
+well as the modern woman’s increasing assertiveness.
+
+Elangovan, a 1997 S.E.A. Write Award winner, illustrates the loss of identity
+in a father’s tale to his daughter, Nisha, in the play *Talaq* (*Divorce*):
+
+   *There was a beautiful salt doll. It did not know what it was. So it<br>
+   journeyed for thousands of miles over land until it finally came to<br>
+   the sea. It was fascinated by this strange moving mass, quite unlike<br>
+   anything it had ever seen before. It kept watching the huge waves*.<br>
+
+   *Hey, who are you? Said the salt doll to the sea*.<br>
+
