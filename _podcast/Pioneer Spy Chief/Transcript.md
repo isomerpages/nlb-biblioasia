@@ -55,10 +55,12 @@ much of his work has been shrouded in secrecy. Then there’s also the fact
 that he died at 47, the prime of his life.&nbsp;</p>
 <p>However, thanks to his son, we now have a slightly more detailed account
 of one of Singapore’s pioneer civil servants. His son has penned a book, <em><a href="https://eservice.nlb.gov.sg/redir/itemdetails?bid=300038279" rel="noopener noreferrer nofollow" target="_blank">Enigmas: Tay Seow Huah, My Father, Singapore’s Pioneer Spy Chief</a></em>.
-The author is no ordinary writer, though. In addition, he’s also won the
-Singapore Literature Prize and the Southeast Asia Write Prize. Welcome
-to <em>BiblioAsia</em>+, Simon. Thank you very much for coming today. How
-are you?&nbsp;</p>
+The author is no ordinary writer, though. He is Simon Tay, former Nominated
+MP, chairman of the Singapore Institute of International Affairs and an
+associate professor teaching international law at the National University
+of Singapore. In addition, he’s also won the Singapore Literature Prize
+and the Southeast Asia Write Prize. Welcome to <em>BiblioAsia</em>+, Simon.
+Thank you very much for coming today. How are you?&nbsp;</p>
 <p><strong>Simon</strong>
 <br>Thank you very much for inviting me. I’m always delighted when people
 are interested in a book which is published in 2024.&nbsp;</p>
