@@ -208,3 +208,31 @@ poignant picture of parting with cattle in his novel *Ninaivukalin Kolangal*
    became better off with her. Let us not sell it. Let her die here.” Her<br> 
    husband’s words passed through her mind. Tears rolled down her<br> 
    cheeks. Unable to bear the sight she rushed in*.25
+	 
+#### **National Service**
+After Singapore became independent and British troops withdrew from the
+region, government leaders were forced to re-think their defence strategy.
+Initially, a part-time reservist force, the People’s Defence Force, with 3,200
+volunteers was formed. However, Minister for Interior and Defence Goh
+Keng Swee realised that with Singapore’s population being at less than two
+million, it was impossible to form and maintain a large regular army like
+those in neighbouring countries.26 Thus he proposed a citizens’ army and the
+National Service Act was passed in July 1967.
+
+For the conscripted, enlistment evoked two emotions: pride and sadness.
+S. Rajaratnam wrote, “When young Chinese, Malays, Indians and
+Eurasians train together to defend and die for their country, then they
+become true blood brothers.”27 On the other hand, being away from family
+would cause sadness; according to a Mr Lee, “[s]oldiers and uniforms of any
+type used to have unhappy memories for us”.28
+
+Rama Kannapiran, a 1990 S.E.A. Write Award winner, expressed both these
+sentiments in his story “Tanah Merah Diary”.29 Kannapiran’s contemporary,
+Se. Ve. Shanmugam, said of the book: 
+
+   *Amot, the drill master, a benevolent man under the guise of a strict<br>
+   disciplinarian, touches our heart, relegating the main characters to<br>
+   the background, in Tanah Merah Diary. If a character, which is<br>
+   minor and appears for a fraction of a second in a story, can move<br>
+   us, then it is a testament to the skill of the author*.30<br>
+
