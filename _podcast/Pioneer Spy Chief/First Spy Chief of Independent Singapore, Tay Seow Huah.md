@@ -22,8 +22,8 @@ on Pulau Bukom Besar and subsequently took five hostages. Little is known
 about the enigmatic <a href="https://catalogue.nlb.gov.sg/search/card?recordId=300038279" rel="noopener nofollow" target="_blank">spy chief</a>,
 who was the founding Director of the Security and Intelligence Division.
 Simon Tay, lawyer, academic and winner of the 2010 Singapore Literature
-Prize, tells us about how his Penang-born father – who lived through WWII,
-the Malayan Emergency and the political tumult of the 1960s – came to play
+Prize, tells us how his Penang-born father – who lived through WWII, the
+Malayan Emergency and the political tumult of the 1960s – came to play
 a giant role serving a newly independent Singapore.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/fpSKnZrvUkk"></iframe>
@@ -64,10 +64,10 @@ habits
 <details class="isomer-details">
 <summary>About the Guest</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Simon Tay is chairman of the Singapore Institute of International Affairs,
-a non-profit think tank. He is a National University of Singapore associate
-law professor and a former Nominated Member of Parliament. In 1995, Simon
-was named a Singapore Young Artist, and his novel&nbsp;<em>City of Small Blessings</em> won
+<p>Simon Tay is the chairman of the Singapore Institute of International
+Affairs, a non-profit think tank. He is an associate law professor at the
+National University of Singapore and a former Nominated Member of Parliament.
+In 1995, Simon was named a Singapore Young Artist, and his novel&nbsp;<em>City of Small Blessings</em> won
 the Singapore Literature Prize in 2010. In 2021, he received the S.E.A.
 Write Award, a regional award given to leading ASEAN poets and writers.</p>
 </div>
