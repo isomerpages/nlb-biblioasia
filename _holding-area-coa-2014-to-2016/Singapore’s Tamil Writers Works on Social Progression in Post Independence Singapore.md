@@ -184,3 +184,28 @@ taking the stairs. Others sorely missed rearing livestock and poultry.
 Kanagalatha, who writes under the pseudonym Latha, expressed the
 anguish of the loss of comradeship due to relocation through one of her
 characters in the short fiction piece, *Veedu* (*Home*):
+
+   *We were moving with each other like sisters, but the relocation<br>
+   threw us apart to different directions. Having been accustomed to<br>
+   living close to the ground and next to trees, I found high-rise living<br>
+   challenging. It was living as if confined to four walls and was<br>
+   suffocating. I couldn’t sleep and it took a long time for me to adjust<br>
+   to the new surroundings*.24
+
+Mayandiambalam Balakrishnan (Singai. Ma. Elangkannan) painted a
+poignant picture of parting with cattle in his novel *Ninaivukalin Kolangal*
+(*Designs of Memories*):
+
+   *Those standing in the truck pulled the cow by the rope in its nose.<br> 
+   Refusing to walk in, the cow pulled them back. A person standing<br> 
+   behind the cow twisted its tail to nudge it forward. The cow, still<br> 
+   resisting, plodded into the truck. It shivered in fear and shat.<br> 
+   Thrusting its neck forward, it cried helplessly, “Moo!” Tears appeared<br> 
+   in the eyes of Maragatham, who was watching its plight. It appeared<br> 
+   to her as if the cow were crying Amma [mother] towards her. She<br>  
+   turned aside. And there stood the cow with black spotted skin. It had<br> 
+   become barren now. Her husband Murugaiya used to often say, “We<br> 
+   became better off with her. Let us not sell it. Let her die here.” Her<br> 
+   husband’s words passed through her mind. Tears rolled down her<br> 
+   cheeks. Unable to bear the sight she rushed in*.25
+
