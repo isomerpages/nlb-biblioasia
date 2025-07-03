@@ -235,4 +235,69 @@ Se. Ve. Shanmugam, said of the book:
    the background, in Tanah Merah Diary. If a character, which is<br>
    minor and appears for a fraction of a second in a story, can move<br>
    us, then it is a testament to the skill of the author*.30<br>
+	 
+#### **Educational Policies**
+***Bilingualism***
+During their colonial rule, the British government allowed Singapore’s
+various ethnic communities to educate their children in their respective
+mother tongue languages. After Independence, the Singapore government
+saw the potential of the English language for both building the economy
+and uniting the different ethnic groups. Hence a bilingual model was
+embraced, with English as the medium of instruction in schools and the
+official mother tongue of the students taught as a second language.
+
+Tamil schools in Singapore, mostly founded by the working class and
+through public contributions, served a two-fold purpose: educating its
+members in their mother tongue and establishing their identity.31 When the
+bilingual policy was implemented, many Tamil parents felt that an Englishmedium
+education would pave the way for better career opportunities and
+enrolled their children in English schools. This change resulted in the quick
+demise of Tamil schools.
+
+Eminent poet Paranan strongly advocated the move towards bilingualism in
+his poem “Iru Vizhigal” (“Two Eyes”):
+
+   *Only when our Tamil children<br> 
+   Learn Tamil, the mother tongue<br> 
+   And English, the global tongue<br> 
+   Their future will flourish<br> 
+   Hence<br> 
+   Beloved parents<br> 
+   I plead with you<br> 
+   With folded hands<br> 
+   To let your children<br> 
+   Learn Tamil and English* 32<br> 
+
+Interestingly, Rama Kannapiran, an English teacher speaking about his
+apprehension about the future of Tamil as a home language, categorised the
+Tamil community into three groups: those who spoke only Tamil, those
+who spoke only English and those who spoke a mix of both languages.
+One of the characters in his novella *Vazhvu* (*Life*) expresses anxiety about
+the third group, whose members, described as being in a transitional phase,
+could neglect their mother tongue language.33
+
+Kannapiran’s fears about Tamil speakers losing their ability to speak their
+mother tongue may have come true (see Appendix II ).34 According to the
+2010 Census of Population:
+
+   *Concurrent with the rise in the level of English literacy, the usage<br>
+   of English at home became more prevalent. Correspondingly, the<br>
+   use of Malay and Tamil as a home language was less prevalent<br>
+   among the Malays and Indians respectively in 2010 compared<br>
+to 2000*.35
+
+***Primary School Leaving Examination (PSLE)***
+First implemented between 2 and 4 November 1960,36 the PSLE national
+examination system was revised in 1992, when a review committee proposed
+ways to improve Singapore’s education system.37
+
+Under the new scheme, the PSLE would measure students by the T-Score
+Aggregate, which would show how well a student had performed in his four subjects relative to other students in the same cohort.38 The T-Score
+Aggregate is the first criterion that impacts admission to secondary schools
+of the students’ choice.
+
+The meritocracy-based system has caused many parents to fear that
+their children would fall behind. Writer Azhagunila captures both the
+children’s stress and parents’ anxiety in her short story “Aranju” (“six
+five”):39
 
