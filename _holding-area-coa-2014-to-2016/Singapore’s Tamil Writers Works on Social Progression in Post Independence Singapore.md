@@ -161,8 +161,8 @@ broadcast weekly for 52 weeks, Cultural Medallion recipient Pudumaithasan
 (P. Krishnan) expressed the pinch on the wallet:
 
    *Santhammal: Did you notice how comfortable this house is? There is<br>
-   a hall, a bathroom and kitchen. We lived in a    kampong. You were<br>
-so adamant to stay there. But, now look at this place. Nice, isn’t it?*<br><br>
+   a hall, a bathroom and kitchen. We lived in a kampong. You were<br>
+   so adamant to stay there. But, now look at this place. Nice, isn’t it?*<br><br>
 
    *Arockiasamy: What was the rent you were paying there? Do you<br>
    remember? It was 15 dollars. And the rent here? 46.5 dollars. If you<br>
@@ -174,3 +174,13 @@ so adamant to stay there. But, now look at this place. Nice, isn’t it?*<br><br
 
    *Arockiasami: Should comfort cost that much? Can’t that be made<br>
    available for 15 dollars?* 23
+	 
+There were other challenges, too. For many Singaporeans, the transition to
+high-rise living caused much distress. Everyone had to grapple with losing the
+kinship formed with their former neighbours. All had to get used to living
+among strangers of different races. Some were afraid of lifts and resorted to
+taking the stairs. Others sorely missed rearing livestock and poultry.
+
+Kanagalatha, who writes under the pseudonym Latha, expressed the
+anguish of the loss of comradeship due to relocation through one of her
+characters in the short fiction piece, *Veedu* (*Home*):
