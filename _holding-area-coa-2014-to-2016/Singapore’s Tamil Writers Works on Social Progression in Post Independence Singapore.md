@@ -202,7 +202,8 @@ poignant picture of parting with cattle in his novel *Ninaivukalin Kolangal*
    resisting, plodded into the truck. It shivered in fear and shat.<br> 
    Thrusting its neck forward, it cried helplessly, “Moo!” Tears appeared<br> 
    in the eyes of Maragatham, who was watching its plight. It appeared<br> 
-   to her as if the cow were crying Amma [mother] towards her. She<br>    turned aside. And there stood the cow with black spotted skin. It had<br> 
+   to her as if the cow were crying Amma [mother] towards her. She<br>
+   turned aside. And there stood the cow with black spotted skin. It had<br> 
    become barren now. Her husband Murugaiya used to often say, “We<br> 
    became better off with her. Let us not sell it. Let her die here.” Her<br> 
    husband’s words passed through her mind. Tears rolled down her<br> 
@@ -331,8 +332,8 @@ age of 30 (see Appendix II , Table 2).44
 The *Census of Population 2010* confirms the trends of delayed marriages and
 higher divorce rates:
 
-The proportion of singles among the resident population rose
-from 30 percent in 2000 to 32 percent in 2010. This reflected the
-postponement in marriages and greater tendency for individuals
-to remain unmarried. The proportion who were either divorced or
-separated increased from 2.5 percent in 2000 to 3.3 percent in 2010.45
+   *The proportion of singles among the resident population rose<br>
+   from 30 percent in 2000 to 32 percent in 2010. This reflected the<br>
+   postponement in marriages and greater tendency for individuals<br>
+   to remain unmarried. The proportion who were either divorced or<br>
+   separated increased from 2.5 percent in 2000 to 3.3 percent in 2010*.<br>45
