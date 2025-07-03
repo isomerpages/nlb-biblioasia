@@ -730,8 +730,7 @@ in mystery and speaking like a Delphic oracle.&nbsp;</p>
 <br>Speaking of Delphic oracles, I have a very important question to ask you,
 because you’re a writer, you’re a legal academic. You’re chairman of the
 Singapore Institute of International Affairs, and you’ve probably actually
-gone to Delphi yourself.</p>
-<p>&nbsp;</p>
+gone to Delphi yourself.&nbsp;</p>
 <p><strong>Simon</strong>
 <br>I am going to Delphi in about a week. I’m speaking at the forum there.&nbsp;</p>
 <p><strong>Jimmy</strong>
