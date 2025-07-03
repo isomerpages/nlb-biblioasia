@@ -358,3 +358,17 @@ in a father’s tale to his daughter, Nisha, in the play *Talaq* (*Divorce*):
 
    *Hey, who are you? Said the salt doll to the sea*.<br>
 
+   *The sea smilingly replied, come and see. You will find out. So the<br>
+   doll waded into the sea bravely. The farther it walked into the sea<br>
+   the more it dissolved, until there was only its mouth left. Before<br>
+   that bit dissolved, the salt doll smiled peacefully and exclaimed in<br>
+   wonder, “Now I know what I am.” It disappeared without a name<br>
+   among the waves as a wave*.<br>
+
+   *Nisha, you are like that salt doll. The bridegroom who has<br>
+   come from Singapore to marry you is the sea. Henceforth, he is<br>
+   everything to you*.47
+
+In the short story *Amaipu* (*System*) by Naa. Govindasamy, another S.E.A.
+Write Award winner (1994), the female protagonist expresses her anguish
+over the loss of freedom in marriage:
