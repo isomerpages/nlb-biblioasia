@@ -82,10 +82,5 @@ After knowing that story, when you hear “Majulah Singapura”, and especially 
 
 <div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
 Scan the QR code to listen to the full interview with Julian Wong on the BiblioAsia+ podcast, “More Than Mr Mari Kita: The Life and Legacy of Zubir Said”.
-	<br>
-<img src="/images/Vol%2021%20Issue%202/Writing%20the%20NLB%20Story/writing_joinsa.png" style="width: 100%;">
 <br></div>
 
-	
-
-<br>
