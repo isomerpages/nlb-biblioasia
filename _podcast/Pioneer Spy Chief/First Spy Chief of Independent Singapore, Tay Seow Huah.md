@@ -65,8 +65,8 @@ habits
 <summary>About the Guest</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Simon Tay is the chairman of the Singapore Institute of International
-Affairs, a non-profit think tank. He is an associate law professor at the
-National University of Singapore and a former Nominated Member of Parliament.
+Affairs, a non-profit think tank. He is an associate professor of law at
+the National University of Singapore and a former Nominated Member of Parliament.
 In 1995, Simon was named a Singapore Young Artist, and his novel&nbsp;<em>City of Small Blessings</em> won
 the Singapore Literature Prize in 2010. In 2021, he received the S.E.A.
 Write Award, a regional award given to leading ASEAN poets and writers.</p>
