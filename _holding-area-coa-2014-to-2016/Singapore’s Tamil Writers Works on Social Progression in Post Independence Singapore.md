@@ -202,8 +202,7 @@ poignant picture of parting with cattle in his novel *Ninaivukalin Kolangal*
    resisting, plodded into the truck. It shivered in fear and shat.<br> 
    Thrusting its neck forward, it cried helplessly, “Moo!” Tears appeared<br> 
    in the eyes of Maragatham, who was watching its plight. It appeared<br> 
-   to her as if the cow were crying Amma [mother] towards her. She<br>  
-   turned aside. And there stood the cow with black spotted skin. It had<br> 
+   to her as if the cow were crying Amma [mother] towards her. She   turned aside. And there stood the cow with black spotted skin. It had<br> 
    become barren now. Her husband Murugaiya used to often say, “We<br> 
    became better off with her. Let us not sell it. Let her die here.” Her<br> 
    husband’s words passed through her mind. Tears rolled down her<br> 
@@ -301,3 +300,39 @@ The meritocracy-based system has caused many parents to fear that
 their children would fall behind. Writer Azhagunila captures both the
 children’s stress and parents’ anxiety in her short story “Aranju” (“six
 five”):39
+
+   *Mom has banned me from computer games, cartoons, PSP and<br> 
+   soccer – all with the same excuse of Primary Five! Primary Six!<br> 
+   On days without school, dad used to go out with me and Rahul.<br> 
+   Now he doesn’t bring me anywhere. The numbers five and six<br> 
+   make me feel sick. I’ d love it if someone could tell me the secret to<br> 
+   joining secondary school without having to sit for the PSLE*.
+
+On 13 July 2016, the Ministry of Education announced changes to the PSLE
+scoring system: the aggregate score for the PSLE would be replaced with
+wider scoring bands from 2021.40 However, debates on PSLE are unlikely to
+cease in the near future.
+
+#### **Women and Marriage**
+
+Singapore ranked among the top 15 (out of 155) countries in the 2014 United
+Nations Human Development Index (HDI ); it was the top Asian country
+for gender equality.41 Modern Singapore women enjoy similar access to
+education and employment as men. The employment rate for women was at one of its highest levels: 76 percent for the prime working ages of 25 to 54.42
+Girls also outnumbered boys in higher education (see Appendix II , Table 1).
+As educated career persons, women increasingly prefer to remain single,
+delay marriage or seek a divorce.43
+
+In the Indian community, less than 1 percent of women below the age of 20
+entered into matrimony in 2015, compared to more than 50 percent in the
+1980s. Currently, more than 50 percent of women prefer to marry after the
+age of 30 (see Appendix II , Table 2).44
+
+The *Census of Population 2010* confirms the trends of delayed marriages and
+higher divorce rates:
+
+The proportion of singles among the resident population rose
+from 30 percent in 2000 to 32 percent in 2010. This reflected the
+postponement in marriages and greater tendency for individuals
+to remain unmarried. The proportion who were either divorced or
+separated increased from 2.5 percent in 2000 to 3.3 percent in 2010.45
