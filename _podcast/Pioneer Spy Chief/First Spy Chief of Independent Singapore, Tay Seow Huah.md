@@ -22,14 +22,15 @@ on Pulau Bukom Besar and subsequently took five hostages. Little is known
 about the enigmatic <a href="https://catalogue.nlb.gov.sg/search/card?recordId=300038279" rel="noopener nofollow" target="_blank">spy chief</a>,
 who was the founding Director of the Security and Intelligence Division.
 Simon Tay, lawyer, academic and winner of the 2010 Singapore Literature
-Prize, tells us about how his father – a Penang-born boy who lived through
-WWII, the Malayan Emergency and the political tumult of the 1960s – came
-to play a giant role serving a newly independent Singapore.</p>
+Prize, tells us about how his Penang-born father – who lived through WWII,
+the Malayan Emergency and the political tumult of the 1960s – came to play
+a giant role serving a newly independent Singapore.</p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/fpSKnZrvUkk"></iframe>
 </div>
 <h4><strong>Listen to the Full Episode</strong></h4>
-<p>Available on: Spotify, Apple Podcasts, melisten.</p>
+<p>Available on: <a href="https://open.spotify.com/show/66PYiIthr1KqQhJ82XH4DN" rel="noopener nofollow" target="_blank">Spotify</a>,
+<a href="https://podcasts.apple.com/us/podcast/biblioasia/id1688142751" rel="noopener nofollow" target="_blank">Apple Podcasts</a>, <a href="https://www.melisten.sg/podcast/playlist/BiblioAsia+-2115156" rel="noopener nofollow" target="_blank">melisten</a>.</p>
 <p>Subscribe to get notified when the next episode drops.</p>
 <p></p>
 <h4><strong>What Simon Talked About</strong></h4>
