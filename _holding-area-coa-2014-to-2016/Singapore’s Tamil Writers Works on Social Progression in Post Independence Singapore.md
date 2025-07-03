@@ -174,4 +174,3 @@ so adamant to stay there. But, now look at this place. Nice, isn’t it?*<br><br
 
    *Arockiasami: Should comfort cost that much? Can’t that be made<br>
    available for 15 dollars?* 23
-
