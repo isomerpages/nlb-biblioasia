@@ -202,8 +202,7 @@ poignant picture of parting with cattle in his novel *Ninaivukalin Kolangal*
    resisting, plodded into the truck. It shivered in fear and shat.<br> 
    Thrusting its neck forward, it cried helplessly, “Moo!” Tears appeared<br> 
    in the eyes of Maragatham, who was watching its plight. It appeared<br> 
-   to her as if the cow were crying Amma [mother] towards her. She<br>    
-   turned aside. And there stood the cow with black spotted skin. It had<br> 
+   to her as if the cow were crying Amma [mother] towards her. She<br>    turned aside. And there stood the cow with black spotted skin. It had<br> 
    become barren now. Her husband Murugaiya used to often say, “We<br> 
    became better off with her. Let us not sell it. Let her die here.” Her<br> 
    husband’s words passed through her mind. Tears rolled down her<br> 
