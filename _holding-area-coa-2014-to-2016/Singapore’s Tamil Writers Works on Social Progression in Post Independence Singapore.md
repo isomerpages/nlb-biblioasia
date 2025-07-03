@@ -287,6 +287,7 @@ mother tongue may have come true (see Appendix II ).34 According to the
 to 2000*.35
 
 ***Primary School Leaving Examination (PSLE)***
+
 First implemented between 2 and 4 November 1960,36 the PSLE national
 examination system was revised in 1992, when a review committee proposed
 ways to improve Singapore’s education system.37
@@ -300,4 +301,3 @@ The meritocracy-based system has caused many parents to fear that
 their children would fall behind. Writer Azhagunila captures both the
 children’s stress and parents’ anxiety in her short story “Aranju” (“six
 five”):39
-
