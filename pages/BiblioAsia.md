@@ -28,7 +28,7 @@ boxing superstar?</p>
 helmed Singapore’s response to the 1974 Laju hijacking incident. Award-winning
 writer Simon Tay tells us about how his Penang-born father came to play
 a giant role serving a newly independent Singapore.</div>
-<div class="isomer-card-link">Coming in July</div>
+<div class="isomer-card-link">Listen to the episode</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/hawker-culture-in-singapore-ryan-kueh/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Hawker&nbsp;Culture in Singapore" src="/images/Podcast/Ryan_600_by_400.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Hawker&nbsp;Culture in Singapore &nbsp;</div><div class="isomer-card-description">Hawkers traditionally sell their food on streets. Uniquely in Singapore though, they ply their trade in fixed stalls in hawker centres. Researcher Ryan Kueh tells us how the hawker culture has evolved in Singapore since the colonial period and what hawker centres have come to represent.</div><div class="isomer-card-link">Listen to the episode</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://biblioasia.nlb.gov.sg/podcast/badang-the-strongman-a-miracle-working-grave-a-folk-tale-and-a-nations-mythology/" class="isomer-card">

@@ -85,7 +85,7 @@ eulogy, “Kadamai” (“Duty”):
    Our Singapore emerges like a diamond radiating in all directions<br> 
    Telling for the splendour and affluence of the land<br> 
    Let us put our earnest resolve to prosper further<br> 
-This is our duty*11
+   This is our duty*11
 
 Poet Naa. Aandeappan describes Singapore as a “classy diamond / in the
 saline sea” in “Uyarthara Vairam” (“Classy Diamond”).12 In a similar
@@ -152,6 +152,223 @@ party, we can’t indulge in that kind of activities. But if you give
 these fellows a fair deal in terms of compensation, I will assist you,
 fellows, to get [the squatters] out.” 21
 
+Noorjahan Sulaiman also mentions the gangsters in her novel *Vergal* (*Roots*):
+“In those days there were gangsters in *kampongs*, almost in every street.” 22
 
+However, high-rise living placed new pressures on the pocket. In the
+radio drama series *Aduku Veetu Annasami* (*Annasami and his Apartment*),
+broadcast weekly for 52 weeks, Cultural Medallion recipient Pudumaithasan
+(P. Krishnan) expressed the pinch on the wallet:
 
+   *Santhammal: Did you notice how comfortable this house is? There is<br>
+   a hall, a bathroom and kitchen. We lived in a kampong. You were<br>
+   so adamant to stay there. But, now look at this place. Nice, isn’t it?*<br>
 
+   *Arockiasamy: What was the rent you were paying there? Do you<br>
+   remember? It was 15 dollars. And the rent here? 46.5 dollars. If you<br>
+   add water and electricity charges, it would easily exceed 55 dollars*.<br>
+
+   *Santhammal: This being an HDB flat, the rent is limited to 46.5<br>
+   dollars. Go and check what the rent would have been had this<br>
+   been a private flat; the rent would have been 80 or 100 dollars*.<br>
+
+   *Arockiasami: Should comfort cost that much? Can’t that be made<br>
+   available for 15 dollars?* 23
+	 
+There were other challenges, too. For many Singaporeans, the transition to
+high-rise living caused much distress. Everyone had to grapple with losing the
+kinship formed with their former neighbours. All had to get used to living
+among strangers of different races. Some were afraid of lifts and resorted to
+taking the stairs. Others sorely missed rearing livestock and poultry.
+
+Kanagalatha, who writes under the pseudonym Latha, expressed the
+anguish of the loss of comradeship due to relocation through one of her
+characters in the short fiction piece, *Veedu* (*Home*):
+
+   *We were moving with each other like sisters, but the relocation<br>
+   threw us apart to different directions. Having been accustomed to<br>
+   living close to the ground and next to trees, I found high-rise living<br>
+   challenging. It was living as if confined to four walls and was<br>
+   suffocating. I couldn’t sleep and it took a long time for me to adjust<br>
+   to the new surroundings*.24
+
+Mayandiambalam Balakrishnan (Singai. Ma. Elangkannan) painted a
+poignant picture of parting with cattle in his novel *Ninaivukalin Kolangal*
+(*Designs of Memories*):
+
+   *Those standing in the truck pulled the cow by the rope in its nose.<br> 
+   Refusing to walk in, the cow pulled them back. A person standing<br> 
+   behind the cow twisted its tail to nudge it forward. The cow, still<br> 
+   resisting, plodded into the truck. It shivered in fear and shat.<br> 
+   Thrusting its neck forward, it cried helplessly, “Moo!” Tears appeared<br> 
+   in the eyes of Maragatham, who was watching its plight. It appeared<br> 
+   to her as if the cow were crying Amma [mother] towards her. She<br>
+   turned aside. And there stood the cow with black spotted skin. It had<br> 
+   become barren now. Her husband Murugaiya used to often say, “We<br> 
+   became better off with her. Let us not sell it. Let her die here.” Her<br> 
+   husband’s words passed through her mind. Tears rolled down her<br> 
+   cheeks. Unable to bear the sight she rushed in*.25
+	 
+#### **National Service**
+After Singapore became independent and British troops withdrew from the
+region, government leaders were forced to re-think their defence strategy.
+Initially, a part-time reservist force, the People’s Defence Force, with 3,200
+volunteers was formed. However, Minister for Interior and Defence Goh
+Keng Swee realised that with Singapore’s population being at less than two
+million, it was impossible to form and maintain a large regular army like
+those in neighbouring countries.26 Thus he proposed a citizens’ army and the
+National Service Act was passed in July 1967.
+
+For the conscripted, enlistment evoked two emotions: pride and sadness.
+S. Rajaratnam wrote, “When young Chinese, Malays, Indians and
+Eurasians train together to defend and die for their country, then they
+become true blood brothers.”27 On the other hand, being away from family
+would cause sadness; according to a Mr Lee, “[s]oldiers and uniforms of any
+type used to have unhappy memories for us”.28
+
+Rama Kannapiran, a 1990 S.E.A. Write Award winner, expressed both these
+sentiments in his story “Tanah Merah Diary”.29 Kannapiran’s contemporary,
+Se. Ve. Shanmugam, said of the book: 
+
+   *Amot, the drill master, a benevolent man under the guise of a strict<br>
+   disciplinarian, touches our heart, relegating the main characters to<br>
+   the background, in Tanah Merah Diary. If a character, which is<br>
+   minor and appears for a fraction of a second in a story, can move<br>
+   us, then it is a testament to the skill of the author*.30<br>
+	 
+#### **Educational Policies**
+***Bilingualism***
+During their colonial rule, the British government allowed Singapore’s
+various ethnic communities to educate their children in their respective
+mother tongue languages. After Independence, the Singapore government
+saw the potential of the English language for both building the economy
+and uniting the different ethnic groups. Hence a bilingual model was
+embraced, with English as the medium of instruction in schools and the
+official mother tongue of the students taught as a second language.
+
+Tamil schools in Singapore, mostly founded by the working class and
+through public contributions, served a two-fold purpose: educating its
+members in their mother tongue and establishing their identity.31 When the
+bilingual policy was implemented, many Tamil parents felt that an Englishmedium
+education would pave the way for better career opportunities and
+enrolled their children in English schools. This change resulted in the quick
+demise of Tamil schools.
+
+Eminent poet Paranan strongly advocated the move towards bilingualism in
+his poem “Iru Vizhigal” (“Two Eyes”):
+
+   *Only when our Tamil children<br> 
+   Learn Tamil, the mother tongue<br> 
+   And English, the global tongue<br> 
+   Their future will flourish<br> 
+   Hence<br> 
+   Beloved parents<br> 
+   I plead with you<br> 
+   With folded hands<br> 
+   To let your children<br> 
+   Learn Tamil and English* 32<br> 
+
+Interestingly, Rama Kannapiran, an English teacher speaking about his
+apprehension about the future of Tamil as a home language, categorised the
+Tamil community into three groups: those who spoke only Tamil, those
+who spoke only English and those who spoke a mix of both languages.
+One of the characters in his novella *Vazhvu* (*Life*) expresses anxiety about
+the third group, whose members, described as being in a transitional phase,
+could neglect their mother tongue language.33
+
+Kannapiran’s fears about Tamil speakers losing their ability to speak their
+mother tongue may have come true (see Appendix II ).34 According to the
+2010 Census of Population:
+
+   *Concurrent with the rise in the level of English literacy, the usage<br>
+   of English at home became more prevalent. Correspondingly, the<br>
+   use of Malay and Tamil as a home language was less prevalent<br>
+   among the Malays and Indians respectively in 2010 compared<br>
+   to 2000*.35
+
+***Primary School Leaving Examination (PSLE)***
+
+First implemented between 2 and 4 November 1960,36 the PSLE national
+examination system was revised in 1992, when a review committee proposed
+ways to improve Singapore’s education system.37
+
+Under the new scheme, the PSLE would measure students by the T-Score
+Aggregate, which would show how well a student had performed in his four subjects relative to other students in the same cohort.38 The T-Score
+Aggregate is the first criterion that impacts admission to secondary schools
+of the students’ choice.
+
+The meritocracy-based system has caused many parents to fear that
+their children would fall behind. Writer Azhagunila captures both the
+children’s stress and parents’ anxiety in her short story “Aranju” (“six
+five”):39
+
+   *Mom has banned me from computer games, cartoons, PSP and<br> 
+   soccer – all with the same excuse of Primary Five! Primary Six!<br> 
+   On days without school, dad used to go out with me and Rahul.<br> 
+   Now he doesn’t bring me anywhere. The numbers five and six<br> 
+   make me feel sick. I’ d love it if someone could tell me the secret to<br> 
+   joining secondary school without having to sit for the PSLE*.
+
+On 13 July 2016, the Ministry of Education announced changes to the PSLE
+scoring system: the aggregate score for the PSLE would be replaced with
+wider scoring bands from 2021.40 However, debates on PSLE are unlikely to
+cease in the near future.
+
+#### **Women and Marriage**
+
+Singapore ranked among the top 15 (out of 155) countries in the 2014 United
+Nations Human Development Index (HDI ); it was the top Asian country
+for gender equality.41 Modern Singapore women enjoy similar access to
+education and employment as men. The employment rate for women was at one of its highest levels: 76 percent for the prime working ages of 25 to 54.42
+Girls also outnumbered boys in higher education (see Appendix II , Table 1).
+As educated career persons, women increasingly prefer to remain single,
+delay marriage or seek a divorce.43
+
+In the Indian community, less than 1 percent of women below the age of 20
+entered into matrimony in 2015, compared to more than 50 percent in the
+1980s. Currently, more than 50 percent of women prefer to marry after the
+age of 30 (see Appendix II , Table 2).44
+
+The *Census of Population 2010* confirms the trends of delayed marriages and
+higher divorce rates:
+
+   *The proportion of singles among the resident population rose<br>
+   from 30 percent in 2000 to 32 percent in 2010. This reflected the<br>
+   postponement in marriages and greater tendency for individuals<br>
+   to remain unmarried. The proportion who were either divorced or<br>
+   separated increased from 2.5 percent in 2000 to 3.3 percent in 2010*.<br>45
+	 
+   *[…] The increase in the proportion of singles between 2000 and<br>
+   2010 was more prominent for the younger age groups. Among<br>
+   Singapore citizens aged 30–34 years, the proportion of singles rose<br>
+   significantly from 33 percent to 43 percent for the males, and from<br>
+   22 percent to 31 percent for the females*.46
+
+In the late 1980s and early 1990s, writers discussed the issues of marriage as
+an institution that denies self-esteem, identity and freedom to women, as
+well as the modern woman’s increasing assertiveness.
+
+Elangovan, a 1997 S.E.A. Write Award winner, illustrates the loss of identity
+in a father’s tale to his daughter, Nisha, in the play *Talaq* (*Divorce*):
+
+   *There was a beautiful salt doll. It did not know what it was. So it<br>
+   journeyed for thousands of miles over land until it finally came to<br>
+   the sea. It was fascinated by this strange moving mass, quite unlike<br>
+   anything it had ever seen before. It kept watching the huge waves*.<br>
+
+   *Hey, who are you? Said the salt doll to the sea*.<br>
+
+   *The sea smilingly replied, come and see. You will find out. So the<br>
+   doll waded into the sea bravely. The farther it walked into the sea<br>
+   the more it dissolved, until there was only its mouth left. Before<br>
+   that bit dissolved, the salt doll smiled peacefully and exclaimed in<br>
+   wonder, “Now I know what I am.” It disappeared without a name<br>
+   among the waves as a wave*.<br>
+
+   *Nisha, you are like that salt doll. The bridegroom who has<br>
+   come from Singapore to marry you is the sea. Henceforth, he is<br>
+   everything to you*.47
+
+In the short story *Amaipu* (*System*) by Naa. Govindasamy, another S.E.A.
+Write Award winner (1994), the female protagonist expresses her anguish
+over the loss of freedom in marriage:
