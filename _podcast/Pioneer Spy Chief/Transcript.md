@@ -711,8 +711,7 @@ gets crushed by a rock. And then he hoped to spring back, but never quite.&nbsp;
 <p><strong>Simon</strong>
 <br>And so he had this little trick where he makes the finger appear to be
 like, you know, this, you know how everyone does it. So it makes your fingers
-broken and sliding.</p>
-<p>&nbsp;</p>
+broken and sliding.&nbsp;</p>
 <p>But after that, he shows the spatula finger and the children gasp in horror.
 But this is a bigger sign of my father. He had the ability to make people
 laugh, besides analysing, dealing with tense situations. A bit like that
