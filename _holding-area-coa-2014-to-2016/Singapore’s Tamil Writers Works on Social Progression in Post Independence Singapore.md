@@ -372,3 +372,24 @@ in a father’s tale to his daughter, Nisha, in the play *Talaq* (*Divorce*):
 In the short story *Amaipu* (*System*) by Naa. Govindasamy, another S.E.A.
 Write Award winner (1994), the female protagonist expresses her anguish
 over the loss of freedom in marriage:
+
+   <i>I believe woman loses her individuality and freedom when she<br> 
+   enters into wedlock with a man. In this male-dominated society,<br> 
+   women have been used as objects of pleasure for many centuries.<br> 
+   Men have used women for their selfish ends. The marriage laws<br> 
+   that are in vogue, are also drafted in men’s interests. Woman will<br> 
+    be emancipated unless the system changes.</i> 48
+
+Singapore literary pioneer Se. Ve. Shanmugam advises women to rely on
+themselves in order to live honourably and freely, and to think carefully
+before entering into matrimony.49
+
+However, there are some women who, not receiving respect and freedom,
+opt to leave the marriage, even if it means raising their children by
+themselves. Suriya Rethnna, a recipient of the Mont Blanc Young Writers’
+Fellowship in 1998 and the 2014 Karikalan Award of Tamil University
+(Thanjavur, India), describes the pride and plight of a single mother in the
+moving story  <i>Iraivanin Kuzhanthai </i> ( <i>God’s Own Child </i>).50
+
+
+
