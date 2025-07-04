@@ -277,7 +277,14 @@ the third group, whose members, described as being in a transitional phase,
 could neglect their mother tongue language.33
 
 Kannapiran’s fears about Tamil speakers losing their ability to speak their
-mother tongue may have come true (see Appendix II ).34 According to the
+mother tongue may have come true.34 
+
+<img src="/images/COA%202014%20to%202016/Tamil%20Writers%20Works/Capture_1.jpg" style="width:80%;">
+<div style="background-color: white;">Proportion who spoke english most Frequently at home
+among resident population aged 5 years and over by ethnic group
+and age group</div>
+
+According to the
 2010 Census of Population:
 
    *Concurrent with the rise in the level of English literacy, the usage<br>
@@ -321,6 +328,10 @@ Nations Human Development Index (HDI ); it was the top Asian country
 for gender equality.41 Modern Singapore women enjoy similar access to
 education and employment as men. The employment rate for women was at one of its highest levels: 76 percent for the prime working ages of 25 to 54.42
 Girls also outnumbered boys in higher education (see Appendix II , Table 1).
+
+<img src="/images/COA%202014%20to%202016/Tamil%20Writers%20Works/Capture1.jpg" style="width:80%;">
+<div style="background-color: white;">Level of Education by Gender. <i>Census of Population 2010 / Singapore Department of Statistics (2010)</i></div>
+
 As educated career persons, women increasingly prefer to remain single,
 delay marriage or seek a divorce.43
 
@@ -607,10 +618,7 @@ Viramani A வீரமணி, ஏ. _Turita māṟṟam kāṇum camutāyattil i
 
 <b>Reference 34</b>
 
-<img src="/images/COA%202014%20to%202016/Tamil%20Writers%20Works/Capture_1.jpg" style="width:80%;">
-<div style="background-color: white;">Proportion who spoke english most Frequently at home
-among resident population aged 5 years and over by ethnic group
-and age gro</div>
+
 
 
 
