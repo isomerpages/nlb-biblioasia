@@ -600,12 +600,23 @@ Tan, Tin Wee. “Naa Govindasamy, Tamil Computing and Tamil Internet: Quest for 
 
 Viramani A வீரமணி, ஏ. _Turita māṟṟam kāṇum camutāyattil iḷam peṇkaḷ_ [துரித மாற்றம் காணும் சமுதாயங்களில் இளம் பெண்கள்](https://eservice.nlb.gov.sg/redir/itemdetails?bid=10474742) \[Young women in rapidly changing societies\]. சிங்கப்பூர்: சிங்கப்பூர் தமிழ் இளைஞர் மன்றம், 1996. (From National Library Singapore, call no. Tamil RSEA 305.48 THU)
 
-#### **APPENDIX I**
+#### **APPENDIX II**
+<b> <i>Chart and Tables Cited in Singapore Tamil Writers </i></b><i> </i>
+
+
+
+<b>Reference 34</b>
+
+Chart 1: proportion who spoke english most Frequently at home
+among resident population aged 5 years and over by ethnic group
+and age group
 
 
 
 
-<b><i>Extracts in Original (Tamil) From the Works of Writers Cited in Singapore</i></b>
+
+
+
 
 
 
