@@ -428,11 +428,7 @@ between 1974 and 2008, such as the 1974 international oil crisis, 1987
 Singapore economic recession, the financial crises of 1998 and 2008, and
 2003 outbreak of Severe Acute Respiratory Syndrome (SARS ).
 
-In his short story <i>Oyvu</i> (<i>Retirement</i>), S.E.A. Write Award winner
-
-P. Krishnan depicts the plight of a middle-class worker who loses his CPF
+In his short story <i>Oyvu</i> (<i>Retirement</i>), S.E.A. Write Award winner P. Krishnan depicts the plight of a middle-class worker who loses his CPF
 savings, and subsequently his life, as a result of the stock market crash.55
-
-
 
 
