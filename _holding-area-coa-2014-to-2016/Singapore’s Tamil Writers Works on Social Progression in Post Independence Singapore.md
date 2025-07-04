@@ -441,3 +441,24 @@ In <i>The Straits Times</i> report “They were shunned for treating Sars patien
 published one decade after the outbreak, Tan Tock Seng Hospital (TTSH )
 staff members Rose Herdawati, Siva Sevakame and Vasanthi Palanivelu
 recounted their experiences during the period:
+
+   <i>“Whenever the train reached Novena, it would become passenger-<br>
+   free,”
+remembered Ms Sevakame. “We would take showers and<br> 
+   change before going back, but somehow they’ d know we were<br> 
+   nurses and start moving away. So I didn’t have to worry about not<br> 
+   getting a place to sit,” she added with a laugh.</i>
+
+   <i>[…] The prejudice was not just from strangers, but from<br> 
+   neighbours and family too. Ms Herdawati remembered how<br> 
+   neighbours who used to exchange cooked food with her mother<br> 
+   stopped doing so. Ms Sevakame was then renting a room in an<br> 
+   Yishun flat that, with her husband, they shared with her landlady<br>
+   and the landlady’s three teenage children. When her landlady got<br> 
+   wind that Ms Sevakame might have contracted SARS, she tried to<br> 
+   evict the couple.<i>56
+	
+
+
+
+</i></i>
