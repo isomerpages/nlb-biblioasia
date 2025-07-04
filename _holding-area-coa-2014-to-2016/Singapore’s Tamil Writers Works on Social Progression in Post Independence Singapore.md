@@ -509,3 +509,96 @@ Translations Today. He has also been involved in various committees in the gover
 of India and government of Tamil Nadu.</div>
 
 
+#### **BIBLIOGRAPHY**
+ 
+
+“A. Veeramani.” In _Aṉaittulaka araṅkil tamiḻ mutal paṭi_ [அனைத்துலக அரங்கில் தமிழ் முதல் படி](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12673255) \[Tamil in an international arena, first step\], edited by சி. சங்கரன் and எஸ்பி. திண்ணப்பன் C. Cankaran and Sp. Thinnappan. Singapore: UniPress, 2004. (From National Library Singapore, call no. Tamil R 494.81109 ANA)
+
+Alakunila அழகுநிலா. _Ār̲añcu: Cir̲ukataikaḷ_ [ஆரஞ்சு சிறுகதைகள்](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202342478) \[Six five\]. சிங்கப்பூர்: அழகுநிலா, 2015, 40–41. (From National Library Singapore, call no. Tamil R S894.811372 AZA)
+
+Antiyappan, Na ஆண்டியப்பன், நா. “Uyartara vairam” உயர்தர வைரம் \[classy diamond\]. In _Mīcai muḷaikkāta kātal_ [மீசை முளைக்காத காதல்](https://www.nlb.gov.sg/main/book-detail?cmsuuid=97fc14c8-eff0-4309-b67c-9c39960b8caf) \[Adolescent Love\]. சிங்கப்பூர்: பரநியா பதிப்**ப**கம், 2014, 43. (From National Library Online)&nbsp;&nbsp;
+
+Cankar, J. சங்கர், ஜே. “Mukaṅkaḷ” முகங்கள் \[faces\], in _Jeyanti caṅkar kataikaḷ_ [ஜெயந்தி சங்கர் கதைகள்](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200633776) \[Jayanthi Sankar Kathaigal\]. சென்னை: காவ்யா, 2013. (From National Library Singapore, call no. Tamil RSING 894.811372 JAY)
+
+Chua, Alvin. [_Bukit Panjang: From Kampong To Town_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202842272)_._ \[Singapore\]: North West Community Development Council, 2016, 112. (From National Library Singapore, call no. RSING 711.4095957 BUK)
+
+“Citizen Soldiers,” [_The Mirror_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=d613a06b-f4bd-49b9-abfa-379c9232d362) 3, no. 37 (11 September 1967): 4–5. (From National Library Online)
+
+Cuntararacu, Pon சுந்தரராசு, பொ. “Ippaṭiyum oru piḻaippu,” இப்படியும் ஒரு பிழைப்பு \[A livelihood of a kind\], in _Eṉṉatāṉ ceyvatu_ [என்னதான் செய்வது?](https://www.nlb.gov.sg/main/book-detail?cmsuuid=3219e902-92a5-4eba-aec1-4f5fd612ad42) \[What to do?\]. சென்னை, இந்தியா: வெற்றி அச்சகம், 1981, 64–75. (From National Library Online)
+
+Curiya Ratna சூரிய ரத்னா. “Iṟaivaṉiṉ kuḻantai” இறைவனின் குழந்தை \[God’s own child\], in Malan மாலன், et al. _Orē vān̲am_ [ஒரே வானம்](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200128237) \[Under one sky\]. Singapore: National Library Board, 2013. (From National Library Singapore, call no. Tamil R 808.831 MAL)
+
+Elangkannan, Ma இளங்கண்ணன், மா. _Niṉaivukaḷiṉ kōlaṅkaḷ_ [நினைவுகளின் கோலங்கள்](https://www.nlb.gov.sg/main/book-detail?cmsuuid=0ae587fe-2ae1-4f57-b183-edaccce88935) \[Designs of memories\]. சென்னை: சுவடி, 2006, 140. (From National Library Online)
+
+Elangovan. [_The Good, the Bad and the Ugly: Three Banned Plays_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201060899). Singapore: Math Paper Press, 1999, 17. (From National Library Singapore, call no. RSING S894.8112 ELA)
+
+“Frequently Asked Questions.” Singapore Examinations and Assessment Board, accessed 18 September 2017. &nbsp;
+
+Govindasamy, Naa கோவிந்தசாமி, நா. “Amaippu” அமைப்பு \[System\]. In _Tēṭi_ [தேடி](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12905833) \[in search\]. Singapore: Orchid Publishing House, 1991, 76–77. (From National Library Singapore, call no. Tamil RSING S894.811371 GOV)
+
+Ikpal, Ka. Tu. Mu. இக்பால், க. து. மு. “Eṅkaḷ nāṭu” எங்கள் நாடு \[our country\]. In _Itaya malarkaḷ_ [இதய மலர்கள்](https://www.nlb.gov.sg/main/book-detail?cmsuuid=411236d6-bd71-408f-94eb-57970d288529) \[Flowers from heart\]. கடையநல்லூர்: பனிமலர் பப்லிகேஷன்ஸ், 1975. (From National Library Online)
+
+Kannapiran கண்ணபிரான். _Vāḻvu kataikaḷ_ [வாழ்வு கதைகள்](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201286274) \[Life\]. சிங்கப்பூர்: கிரிம்சன் எர்த் பதிப்பகம், 2015, 31. (From National Library Singapore, call no. R S894.811271 KAN)
+
+—. “Ciṟukatai (1887–1965)” சிறுகதை (1887–1965) \[Short story (1887–1965)\]. In சு. தின்னப்பன், நா. ஆண்டியப்பன் and சு. அருணாசலம் C. Tinnappan, Na. Antiyappan and C. Arunacalam, _Ciṅkappūr tamiḻ ilakkiya varalāṟu: Ōr aṟimukam_ [சிங்கப்பூர் தமிழ் இலக்கிய வரலாறு: ஓர் அறிமுகம்](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14308812) \[History of Singapore Tamil Literature: An Introduction\]. சிங்கப்பூர்: சிங்கப்பூர்த் தமிழ் எழுத்தாளர் கழகம், 2011, 129. (From National Library Singapore, call no. Tamil R 894.81109 SIN)
+
+—. “Tāṉā mērā ṭairi” தானா மேரா டைரி \[Tanah Merah Diary\]. In _Ciṅkappūr poṉviḻā ciṟukataikaḷ_ [சிங்கப்பூர் பொன்விழா சிறுகதைகள்](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202690173) \[Golden jubilee short stories\], et al., edited by இரா துரைமாணிக்கம் Ra. Turaimanikkam. சிங்கப்பூர்: சிங்கப்பூர் தமிழ் எழுத்தாளர் கழகம், 2015, 80. (From National Library Singapore, call no. Tamil R S894.811372 CIN)
+
+Krishnan, P. கிருஷ்ணன், பி. “Ōyvu” ஓய்வு \[retirement\]. In _Putumaitācaṉ kataikaḷ_ [புதுமைதாசன் கதைகள்](https://www.nlb.gov.sg/main/book-detail?cmsuuid=eaefc1ba-16bd-41c2-b8a5-d9609ecb0dce) \[Stories of Pudumaidasan\]. சிங்கப்பூர்: ஒக்கிட் பதிப்பகம், 1993. (From National Library Online)
+
+Kumarasami, C. குமாரசாமி, சி. “Pācir pañcāṅka vaṭṭārattil vāḻkai” பாசிர் பஞ்சாங் வட்டாரத்தில் வாழ்கை \[Life in Pasir Panjang\]. In _Kaṭanta irupattaintu āṇṭukaḷ_ [கடந்த இருபத்தைந்து ஆண்டுகள்](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84497830) \[The last twenty-five years\], edited by A. Viramani and Malai Pala ஏ. வீரமணி and மாலதிபாலா. சிங்கப்பூர்: இந்தியர் கலாச்சாரம் பண்பாட்டு நிகழ்ச்சி ஏற்பாட்டு குழு, 1990, 67.&nbsp; (From National Library Singapore, call no. Tamil RSING 959.5705 KAD)
+
+Lata லதா. “Vīṭu” வீடு \[home\]. In _Nāṉ kolai ceyyum peṇkaḷ_ [நான் கொலை செய்யும் பெண்கள்](https://www.nlb.gov.sg/main/book-detail?cmsuuid=bc631436-b581-4db6-862a-8b1fbafd33d5) \[The women I kill\]. Singapore: Kanagalatha, 2007, 93. (From National Library Online)
+
+Menon, Ravi. “An Economic History of Singapore: 1965–2065 – Keynote, speech, Singapore Economic Review Conference, 5 August 2015, transcript, Monetary Authority of Singapore.
+
+Mukammatuaptulkatiru, Nakur, Pulavar முகம்மதுஅப்துல்காதிறு, நாகூர். புலவர் _Muṉājāttut tiraṭṭu_ [முனாஜாத்துத் திரட்டு](https://www.nlb.gov.sg/main/book-detail?cmsuuid=5f39c786-6019-47c7-895d-ee3e855f5257) \[Munajattut tirattu\]. Singapore: J. Paton Government Printer, 1872. (From National Library Online)
+
+National Library Board and National Archives of Singapore. [_Singapore: The First Ten Years of Independence 1965 to 1975_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12885060). Singapore: National Library Board and National Archives of Singapore, 2007, 6. (From National Library Singapore, call no. RSING 959.5705 SIN-\[HIS\])
+
+Noorjahan Sulaiman நூர்ஜஹான் சுலைமான். _Vērkaḷ_ [வேர்கள்](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200127240) \[Roots\]. சிங்கப்பூர்: தங்கமீன் பதிப்**ப**கம், 2012, 64. (From National Library Singapore, call no. Tamil RSING S894.811371 NOO)
+
+Palanivelu, Na. பழனிவேலு நா. “Kaṭamai” கடமை \[Duty\]. In _Nā paḻaṉivēluviṉ tokuppiliruntu cila muttukkaḷ_ [நா பழனிவேலுவின் தொகுப்பிலிருந்து சில முத்துக்கள்](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201204690) \[A selection of Na Palanivelu’s poems\], edited by Sundari Balasubramaniam. Singapore: National Library Board, 2013, 33. (From National Library Singapore, call no. Tamil RSING PAL)
+
+—. “Ciṅkaiyiṉ poruḷ vaḷam” சிங்கையின் பொருள் வளம் \[Prosperity of Singapore\]. In _Kaviñar nā paḻaṉivēluviṉ paṭaippuk kaḷañciyam. Vol. 2_ [கவிஞர் நா பழனிவேலுவின் படைப்புக் களஞ்சியம். Vol. 2](https://www.nlb.gov.sg/main/book-detail?cmsuuid=c731e365-2b8a-42d3-a306-aad1ee9a4097) \[Collected works of Na. Palanivelu. Vol. 2\]. சிங்கப்பூர்: ப. பாலகிருட்டிணன், 1997, 219. (From National Library Online)
+
+Paranan பரணன். _Tōṇi_ [தோணி](https://www.nlb.gov.sg/main/book-detail?cmsuuid=5f7b57b5-5896-4622-af3c-b2ca5518788b) \[Boat\]. சிங்கப்பூர்: தமிழ்வளர்ச்சிப் பண்ணை, 1985. (From National Library Online)
+
+—. “Icai naṭṭu vāḻka” இசை நட்டு வாழ்க \[Long live with glory\]. In _Tōṇi_ [தோணி](https://www.nlb.gov.sg/main/book-detail?cmsuuid=5f7b57b5-5896-4622-af3c-b2ca5518788b) \[Boat\]. சிங்கப்பூர்: தமிழ்வளர்ச்சிப் பண்ணை, 1985. (From National Library Online)
+
+Kaliyannan, Perumal காளியண்ணன், பெருமாள். _Ciṅkappūr pāṭalkaḷ_ [சிங்கப்பூர் பாடல்கள்](https://www.nlb.gov.sg/main/book-detail?cmsuuid=81bb08d4-4a17-4a4c-a657-4a0abc3c54aa) \[Hymns on Singapore\]. சிங்கப்பூர்: மறைமலை பதிப்பகம் 1979. (From National Library Online)
+
+Pichinikkadu, Elango ச்சினிக்காடு, இளங்கோ. “Ākasṭ oṉpatu” ஆகஸ்ட் ஒன்பது \[August 9\]. In _Aṅkucam kāṇā yāṉai_ [அங்குசம் காணா யானை](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203068809) \[Elephant without elephant goad\]. சிங்கப்பூர்: பிச்சினிக்காடு இளங்கோ, 2017, 29. (From National Library Singapore, call no. Tamil R 894.8111 ILA)
+
+“PSLE Scoring.” Ministry of Education, accessed 2016.
+
+Putumaitacan புதுமைதாசன். _Aṭukku vīṭṭu aṇṇācāmi: Nakaccuvai nāṭakam_ [அடுக்கு வீட்டு அண்ணாசாமி: நகச்சுவை நாடகம்](https://www.nlb.gov.sg/main/book-detail?cmsuuid=89a1ae62-55e5-4ccb-ab6c-91d8ad68b1f6) \[Annasami and his apartment\], vol. 2. சென்னை: கணியன் பதிப்பகம், 2000, 7. \[Cennai: Kaniyan Patippakam\]. (From National Library Online)
+
+Sanavas ஷாநவாஸ். “Pēcā moḻi” பேசா மொழி \[Unspoken language\], in _Mūṉṟāvatu kai: Ciṟukataikaḷ_ [மூன்றாவது கை: சிறுகதைகள்](https://www.nlb.gov.sg/main/book-detail?cmsuuid=c1791a86-87f8-43a3-b27f-99663629f589) \[Third arm\] (சென்னை, இந்தியா: தமிழ்வனம், 2013), 78–84. (From National Library Online)&nbsp;
+
+Seetha Lakshmi சீதா லட்சுமி. “Kōlaṅkaḷ” கோலங்கள் \[Designs\]. In _Kaṇṇāṭi niṉaivukaḷ_ [கண்ணாடி நினைவுகள்](https://www.nlb.gov.sg/main/book-detail?cmsuuid=5c6eaee6-1e49-44af-a3bf-cba090284419) \[Memories of reading glass\]. சிங்கப்பூர்: ஸேதலக்ஷ்மி, 2001, 113–22. (From National Library Online)
+
+Shanmugam, Se. Ve. சண்முகம், எஸ்.வி. “Irāma kaṇṇapirāṉ - oru kaṇṇōṭṭam” இராம கண்ணபிரான் - ஒரு கண்ணோட்டம் \[A review on Rama Kannapiran\]. In _Ciṅkapuril tamiḻ moḻiyum tamiḻilakkiyamum \[nikaḻcci niral\]_ [சிங்கபுரில் தமிழ் மொழியும்&nbsp; தமிழிலக்கியமும் \[நிகழ்ச்சி&nbsp; நிரல்\]](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12913330) \[Tamil language and literature in Singapore (programme)\]. Singapore: The Society, 1983. (From National Library Singapore, call no. Tamil RSING 494.81109595707 SIN-\[MKN\])
+
+—. “Maṟṟoṉṟu” மற்றொன்று \[another one\]. In _Ciṅkappūr tamiḻ ciṟukataikaḷ_ சிங்கப்பூர் தமிழ் சிறுகதைகள் \[Singapore Tamil Sirukathaikal\]. சென்னை, இந்தியா: தமிழ் புத்தகாலயம், 1989, 214–25.
+
+Singapore. Department of Statistics. [_Census of Population 2010. Statistical Release 1, Demographic Characteristics, Education, Language and Religion_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13785367). Singapore: Dept. of Statistics, Ministry of Trade and Industry, 2011, 27. (From National Library Singapore, call no. RSING 304.6021095957 CEN)
+
+_Straits Observer (Singapore)_. “[Page 2 Advertisements Column 1](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18760229-1.2.7.1).” 29 February 1876, 2. (From NewspaperSG)
+
+_Straits Times_. “[Primary School Exams for 4 Streams](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19600520-1.2.41).” 20 May 1960, 4. (From NewspaperSG)
+
+—. Lim Yan Liang. “[They Were Shunned for Treating SARS Patients](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20130212-1.2.32.14).” 12 February 2013, 10. (From NewspaperSG)
+
+—. Janice Tai. “[Growing Number of Women in the Workforce](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20170313-1.2.2).” 13 March 2017, 1. (From NewspaperSG)
+
+_Tamil Malar_. “Pirintālum cakōtararkaḷ” பிரிந்தாலும் சகோதரர்களே \[Brothers even if we part\]. 11 August 1965. (Microfilm NL4363)
+
+—. “Oṉpatāṇṭukaḷil oṉṭarai laṭcam pēr maṟukuṭiyamaippup ceyyapaṭṭaṉar”&nbsp; ஒன்பதாண்டுகளில் ஒன்டரை லட்சம் பேர் மறுகுடியமைப்புப் செய்யபட்டனர் \[Under Singapore’s urban renewal programme some 150,000 people have been resettled over the last 9 years\]. 25 January 1969, 9. (Microfilm NL5835)
+
+Tan, Tin Wee. “Naa Govindasamy, Tamil Computing and Tamil Internet: Quest for Globalisation of Tamil IT.” In Sundari Balasubramaniam and Pusphalatha Naidu&nbsp; சுந்தரி பாலசுப்ரமணியம் and புஷ்பலதா நாயுடு, edited by _Ciṟukatai nā. Kōvintacāmi oru paṭaippāḷi_&nbsp; [சிறுகதை&nbsp; நா. கோவிந்தசாமி ஒரு படைப்பாளி](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13674572) \[Naa. Govindasamy a Creator\]. Singapore National Library Board, 2010, 28. (From National Library Singapore, call no. Tamil R S894.811471 NAK)
+
+Viramani A வீரமணி, ஏ. _Turita māṟṟam kāṇum camutāyattil iḷam peṇkaḷ_ [துரித மாற்றம் காணும் சமுதாயங்களில் இளம் பெண்கள்](https://eservice.nlb.gov.sg/redir/itemdetails?bid=10474742) \[Young women in rapidly changing societies\]. சிங்கப்பூர்: சிங்கப்பூர் தமிழ் இளைஞர் மன்றம், 1996. (From National Library Singapore, call no. Tamil RSEA 305.48 THU)
+
+
+
