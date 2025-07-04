@@ -11,7 +11,7 @@ In June 2025, the National Library Board released the results of the 2024 Nation
 
 This challenge of cultivating a reading habit is not a new one, as seen in studies from the 1960s through to the 1990s on reading levels in Singapore. Given that reading is crucial to learning, access to information, as well as social and economic participation, reading habits – how often people read, what they read and in which languages – go beyond personal leisure choices and have been seen as matters of national consequence. 
 
-Education, Bilingualism and Children’s Reading Habits
+#### **Education, Bilingualism and Children’s Reading Habits**
 
 Singapore gained independence amidst much uncertainty on 9 August 1965. The 1960s and 1970s were a “survival-driven” phase as the government focused on creating a literate and skilled workforce to support rapid industrialisation and secure the future of the fledgling nation. Mathematics, science and technical subjects were emphasised to prepare youth for employment and continuous upskilling.2 At the same time, bilingual education in English and a mother tongue – Malay, Mandarin or Tamil – was implemented.3 While English was necessary for business and for acquiring technical knowledge (where literature in vernacular languages was scarce), mother tongue languages were deemed essential for the preservation of cultural values and traditions, and were used for civic education.4 
 
@@ -35,7 +35,7 @@ Concluding that little could be done about the home environment, the IE report f
 
  The IE survey also raised concerns about the time children spent watching television at the expense of reading, with 62 percent watching one to three hours daily and 21 percent exceeding three hours. Television emerged as the greatest competitor to reading because it functioned as a shared family activity that naturally drew children in and, unlike reading, could be enjoyed with little linguistic competence.20  
 
-Adult Readers, Lifelong Workers
+#### **Adult Readers, Lifelong Workers**
 
 While research into children’s reading habits began shortly after independence, it was only in 1980 that the first national survey of adult reading habits was conducted.21 
 
@@ -51,7 +51,7 @@ The findings highlighted socioeconomic correlations with reading habits. Heavy r
 
 As Singapore shifted towards capital-intensive, high-technology industries in the early 1980s, national survival again hinged on the power of reading, as Minister for Communications Yeo Ning Hong emphasised at the 1984 National Reading Month launch: “In order to keep pace and not be left behind in the backwaters, Singaporeans must therefore be agile and adapt to the rapid changes that we now see taking place in many industrialised countries… The ability to read will provide us with the key to upgrading ourselves… The person who stops reading upon leaving school or university increases his own chance of stagnation and irrelevance in future economic developments.”29
 
-A Cultured People
+#### **A Cultured People**
 
 In the mid-1980s, the government launched a new vision for Singapore to become a “Nation of Excellence”. This would encompass the development of a cultivated society that First Deputy Prime Minister Goh Chok Tong described as “a society of well-read, well-informed citizens, a refined and gracious people, a thoughtful people, a society of sparkling ideas, a place where art, literature and music flourish” and “not a materialistic, consumeristic society where wealth is flaunted and money spent thoughtlessly”.30  
 
@@ -63,7 +63,7 @@ The sub-committee identified several crisis areas, chiefly the utilitarian view 
 
 Recognising that building a reading culture required community-wide efforts, recommendations included training for parents and teachers, creating reading corners in housing estates, enhanced resourcing of libraries and the book council, as well as partnerships with media, publishers and bookshops.37  
 
-A Developed (Reading) Nation
+#### **A Developed (Reading) Nation**
 
 In 1993, the National Library commissioned a survey which sampled some 2,000 respondents aged 13 to 69 from 1,000 households. The survey painted a mixed picture: while a small but growing segment of Singaporeans had developed a passion for reading, an increasing number of literate individuals had disengaged from books.38 The percentage of literate persons who had read a book in the last 12 months had dropped to 50 percent from 57 percent in 1980. However, among readers, those spending three to nine hours weekly increased from 41 percent to 65 percent, and those reading 10 hours or more rose from 6 percent to 19 percent.39  
 
@@ -71,7 +71,7 @@ Three years later, in 1996, Deputy Prime Minister Lee Hsien Loong highlighted th
 
 The 1993 National Reading Survey coincided with the report by the Library 2000 Review Committee in 1994. The committee had been convened in 1992 to map out the transformation of library services to enhance Singapore’s learning capacity and competitive edge. Among its key recommendations were establishing the National Library Board as a new statutory board and creating a tiered library network to serve diverse information needs as the country positioned itself to become a knowledge-based economy in the new millennium.41  
 
-Read On, Singapore
+#### **Read On, Singapore**
 
 Since independence, nurturing the habit of reading has been viewed as a national priority, one whose goals have evolved in tandem with Singapore’s development – from being vital to national survival in the 1960s and 1970s to enabling first-world aspirations in the 1980s and 1990s. Reading ability undergirded the ideal of the Singapore citizen-worker: a highly educated individual, fluent in both English and their mother tongue, who embraces lifelong learning to seize opportunities in a fast-changing global economy. Reading surveys played a crucial role in this journey, quantifying habits and highlighting concerns that mobilised multiple stakeholders in building a reading culture.
 
