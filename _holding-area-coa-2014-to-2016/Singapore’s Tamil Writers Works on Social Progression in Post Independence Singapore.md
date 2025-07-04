@@ -456,9 +456,56 @@ remembered Ms Sevakame. “We would take showers and<br>
    Yishun flat that, with her husband, they shared with her landlady<br>
    and the landlady’s three teenage children. When her landlady got<br> 
    wind that Ms Sevakame might have contracted SARS, she tried to<br> 
-   evict the couple.<i>56
+   evict the couple.</i>56
 	
+In her story “Mukhangal” (“Faces”), written in 2003 itself, writer Jayanthi
+Sankar captured the negative social aspects mentioned in <i>The Straits Times</i>
+report – the avoidance by neighbours, neglect by the public and threat of
+eviction. The story stands as a testament to human behaviour during a lifethreatening
+epidemic.57
+
+#### **Conclusion**
+Tamil writers in Singapore may have initially drawn inspiration and
+modelled their writing styles after Indian pioneer writers originating from
+Tamil Nadu, India, but Tamil writing in Singapore is different in many
+crucial ways.
+
+Indian writing, which has a long history, was first nurtured by mainstream
+media and then through writing competitions organised by magazines. The
+writers who pioneered the early literary moments in India were exposed
+to European and Russian literature as well as works from Latin America.
+This enabled them to root their works within well-tailored forms and in
+different genres.
+
+However, publishing opportunities for Singapore Tamil writers have been
+very limited, and there has been little room for avant-garde or experimental work. The pioneering Tamil writers, deprived of the rich literary exposure
+of their Indian counterparts, wrote out of their passion for language and
+literature, and in response to changing social situations in Singapore.
+
+In this study, I have focused on Singapore Tamil writers and how
+their works have reflected the social transformations from Singapore’s
+independence to 2015. I have not performed a qualitative assessment of the
+works as that is out of the purview of this paper.
+
+In conclusion, I have found that while Singapore Tamil writers have
+been responding to the various changes in the country in the last 50
+years and reflecting the voices of their community, they have not done
+so with conviction. While they have voiced their concerns about the
+social and economic transformations, they have done so only within the
+narrow framework of their home or neighbourhood. None of the writers
+have initiated any literary movements through their works, and political
+discourse has been rare. Further, more can be done to nurture, develop and
+encourage young readers and writers. (See Appendix III for suggestions for
+nurturing young readers.)
+
+<div>
+<b>Maalan</b> is an established Tamil writer who has published more than 19 books. His
+stories have been translated and published in various English- and Indian-language
+magazines such as Illustrated Weekly of India. He has over 30 years of experience as
+a journalist and editor for leading Tamil newspapers and television stations in India.
+He has served in university senates and advisory boards such as the Tamil Advisory
+Board of Sahitya Akademi, National Book Trust of India and the Editorial Board of
+Translations Today. He has also been involved in various committees in the government
+of India and government of Tamil Nadu.</div>
 
 
-
-</i></i>
