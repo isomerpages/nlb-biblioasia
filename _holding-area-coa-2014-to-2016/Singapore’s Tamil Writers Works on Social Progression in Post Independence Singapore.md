@@ -391,5 +391,48 @@ Fellowship in 1998 and the 2014 Karikalan Award of Tamil University
 (Thanjavur, India), describes the pride and plight of a single mother in the
 moving story  <i>Iraivanin Kuzhanthai </i> ( <i>God’s Own Child </i>).50
 
+In his award-winning story,  <i>Kolangal </i> ( <i>Designs </i>), Seetha Lakshmi brings
+out the flip side of divorce: the loneliness of a man in search of a soulmate
+after two failed marriages. The story is told from the unique angle of
+a father seeking permission from his adolescent son to remarry and
+reinforces the inevitable role of family and unavoidable divorce, a paradox
+of modern society.51
+
+Shaanavas, whose short story collection, <i>Moontravathu Kai</i> (<i>Third Arm</i>), won
+the Singapore Literary Prize in 2014, believes that the lack of understanding,
+more than lack of love, is the cause of failed marriages; he addresses this in
+his story “Pesa Mozhi” (“Unspoken Language”).52
+
+#### **Economic Growth**
+
+American businessman and politician Mitt Romney once said,
+“Dependency is death to initiative, risk-taking and opportunity.”
+Singapore has exemplified this as seen by its astounding economic
+growth over the last 50 years, which were in part due to two strategic
+decisions made soon after independence, though unconventional at the
+time: to shift away from import-substitution in favour of export-led
+industrialisation, and to attract global multinational corporations as
+vehicles to achieve industrial growth.
+
+In 1965, Singapore’s nominal GDP per capita was about US $500, similar to
+that of Mexico and South Africa. In 1990, its GDP per capita rose to about US $13,000, surpassing South Korea, Israel and Portugal. In 2015, the GDP
+per capita was about US $56,000, similar to Germany and the United States.53
+
+Singapore’s extraordinary journey from third world to first is reflected
+in literary works such as Pon. Sundarasau’s short story “Ippadiyum oru
+Pizhaippu” (“A Livelihood of a Kind”) in the collection <i>Ennathan Seyvathu</i>
+(<i>What to Do?</i>).54
+
+On the other hand, the Singapore economy was buffeted by serious crises
+between 1974 and 2008, such as the 1974 international oil crisis, 1987
+Singapore economic recession, the financial crises of 1998 and 2008, and
+2003 outbreak of Severe Acute Respiratory Syndrome (SARS ).
+
+In his short story <i>Oyvu</i> (<i>Retirement</i>), S.E.A. Write Award winner
+
+P. Krishnan depicts the plight of a middle-class worker who loses his CPF
+savings, and subsequently his life, as a result of the stock market crash.55
+
+
 
 
