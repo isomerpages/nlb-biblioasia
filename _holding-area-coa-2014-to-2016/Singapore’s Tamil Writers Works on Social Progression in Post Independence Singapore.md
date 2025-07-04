@@ -431,4 +431,16 @@ Singapore economic recession, the financial crises of 1998 and 2008, and
 In his short story <i>Oyvu</i> (<i>Retirement</i>), S.E.A. Write Award winner P. Krishnan depicts the plight of a middle-class worker who loses his CPF
 savings, and subsequently his life, as a result of the stock market crash.55
 
+#### **SARS**
+The outbreak of Severe Acute Respiratory Syndrome (SARS ) in Singapore
+in February 2003 adversely impacted the economy and caused widespread
+fear among Singapore residents. Many hospital staff bore the brunt of
+the paranoia.
+
+In <i>The Straits Times</i> report “They were shunned for treating Sars patients”,
+published one decade after the outbreak, Tan Tock Seng Hospital (TTSH )
+staff members Rose Herdawati, Siva Sevakame and Vasanthi Palanivelu
+recounted their experiences during the period:
+
+
 
