@@ -327,7 +327,7 @@ Singapore ranked among the top 15 (out of 155) countries in the 2014 United
 Nations Human Development Index (HDI ); it was the top Asian country
 for gender equality.41 Modern Singapore women enjoy similar access to
 education and employment as men. The employment rate for women was at one of its highest levels: 76 percent for the prime working ages of 25 to 54.42
-Girls also outnumbered boys in higher education (see Appendix II , Table 1).
+Girls also outnumbered boys in higher education.
 
 <img src="/images/COA%202014%20to%202016/Tamil%20Writers%20Works/Capture1.jpg" style="width:80%;">
 <div style="background-color: white;">Level of Education by Gender. <i>Census of Population 2010 / Singapore Department of Statistics (2010)</i></div>
@@ -338,7 +338,13 @@ delay marriage or seek a divorce.43
 In the Indian community, less than 1 percent of women below the age of 20
 entered into matrimony in 2015, compared to more than 50 percent in the
 1980s. Currently, more than 50 percent of women prefer to marry after the
-age of 30 (see Appendix II , Table 2).44
+age of 30.44
+
+
+<img src="/images/COA%202014%20to%202016/Tamil%20Writers%20Works/Capture2.jpg" style="width:80%;">
+<div style="background-color: white;">Age of Women at the Time of Marriage (%). 2015 figures are based on statistics on marriages and divorces.
+<i>Singapore Department of Statistics (2015) Statistics on Marriages and Divorces.
+Retrieved from singstat.gov.sg</i></div>
 
 The *Census of Population 2010* confirms the trends of delayed marriages and
 higher divorce rates:
