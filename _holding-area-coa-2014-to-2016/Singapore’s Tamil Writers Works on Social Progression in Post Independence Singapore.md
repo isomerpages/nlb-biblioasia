@@ -441,6 +441,3 @@ In <i>The Straits Times</i> report “They were shunned for treating Sars patien
 published one decade after the outbreak, Tan Tock Seng Hospital (TTSH )
 staff members Rose Herdawati, Siva Sevakame and Vasanthi Palanivelu
 recounted their experiences during the period:
-
-
-
