@@ -279,7 +279,7 @@ could neglect their mother tongue language.33
 Kannapiran’s fears about Tamil speakers losing their ability to speak their
 mother tongue may have come true.34 
 
-<img src="/images/COA%202014%20to%202016/Tamil%20Writers%20Works/Capture_1.jpg" style="width:80%;">
+<img src="/images/COA%202014%20to%202016/Tamil%20Writers%20Works/Capture_1.jpg" style="width:100%;">
 <div style="background-color: white;">Proportion who spoke english most Frequently at home
 among resident population aged 5 years and over by ethnic group
 and age group</div>
@@ -329,7 +329,7 @@ for gender equality.41 Modern Singapore women enjoy similar access to
 education and employment as men. The employment rate for women was at one of its highest levels: 76 percent for the prime working ages of 25 to 54.42
 Girls also outnumbered boys in higher education.
 
-<img src="/images/COA%202014%20to%202016/Tamil%20Writers%20Works/Capture1.jpg" style="width:80%;">
+<img src="/images/COA%202014%20to%202016/Tamil%20Writers%20Works/Capture1.jpg" style="width:100%;">
 <div style="background-color: white;">Level of Education by Gender. <i>Census of Population 2010 / Singapore Department of Statistics (2010)</i></div>
 
 As educated career persons, women increasingly prefer to remain single,
@@ -341,7 +341,7 @@ entered into matrimony in 2015, compared to more than 50 percent in the
 age of 30.44
 
 
-<img src="/images/COA%202014%20to%202016/Tamil%20Writers%20Works/Capture2.jpg" style="width:80%;">
+<img src="/images/COA%202014%20to%202016/Tamil%20Writers%20Works/Capture2.jpg" style="width:100%;">
 <div style="background-color: white;">Age of Women at the Time of Marriage (%). 2015 figures are based on statistics on marriages and divorces.
 <i>Singapore Department of Statistics (2015) Statistics on Marriages and Divorces.
 Retrieved from singstat.gov.sg</i></div>
