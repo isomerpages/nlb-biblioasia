@@ -607,22 +607,11 @@ Viramani A வீரமணி, ஏ. _Turita māṟṟam kāṇum camutāyattil i
 
 <b>Reference 34</b>
 
-Chart 1: proportion who spoke english most Frequently at home
+<img src="/images/COA%202014%20to%202016/Tamil%20Writers%20Works/Capture_1.jpg" style="width:80%;">
+<div style="background-color: white;">Proportion who spoke english most Frequently at home
 among resident population aged 5 years and over by ethnic group
-and age group
+and age gro</div>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+![](
