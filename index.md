@@ -9,14 +9,13 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-21/issue-2/jul-sep-2025/formation-national-library-board/
-      button: Writing the NLB Story
+      url: /people/2025/4/lost-family-silvestr-nemec-war-search-czech-singapore/
+      button: In Search of Silvestr
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 21 Issue 2/Writing the NLB
-        Story/HeroImage_WritingTheNLBStory2.jpg
+      background: /images/Online Only Articles/In Search of Silvestr/2.jpg
       variant: center
   - infopic:
       title: "Hedwig Anuar: First Lady of the National Library"
