@@ -1,5 +1,5 @@
 ---
-title: Majulah Singapura Finally Repaired the Breach
+title: “Majulah Singapura” Finally Repaired the Breach
 permalink: /holding-area/vol-21/issue-3/oct-dec-2025/majulah-singapura-finally-repaired-the-breach/
 variant: markdown
 description: ""
@@ -7,9 +7,6 @@ description: ""
 #### In a BiblioAsia+ podcast, music director Julian Wong reveals little-known details about the composer of Singapore’s national anthem.
 
 Working with theatre company Wild Rice, musical director Julian Wong put together a critically acclaimed production on the life of Zubir Said (fondly known as Pak Zubir) that mixed history, music and memory in a moving show, _Don’t Call Him Mr Mari Kita_. Performances were sold out in 2022 and 2024. Editor-in-chief Jimmy Yap interviews Julian Wong on his research on Pak Zubir’s life and the challenges of putting up the show.
-
-![](/images/Vol%2021%20Issue%203/Composer/composer_main.jpg)
-<div style="background-color:white;">Zubir Said playing the piano at his home in Joo Chiat Place, 1967. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore (Media - Image no. 19980005388 – 0075).</i></div>
 
  
 ![](/images/Vol%2021%20Issue%203/Composer/composer_julian.jpg)
@@ -32,6 +29,9 @@ And he used the shroud as a towel. Just the shirt on his back and that shroud.&n
 **Jimmy:** It’s an amazing story.
 
   
+![](/images/Vol%2021%20Issue%203/Composer/composer_main.jpg)
+<div style="background-color:white;">Zubir Said playing the piano at his home in Joo Chiat Place, 1967. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore (Media - Image no. 19980005388 - 0075).</i></div>
+
 
 **Julian:** When he came here, he worked as a violinist with the _bangsawan_ theatre companies. Then he learned how to read Western music notation and became the arranger, the conductor and music director.
 
@@ -81,11 +81,5 @@ After knowing that story, when you hear “Majulah Singapura”, and especially 
 
 
 <div style="background-color: #fff6ba; padding: 20px; margin: 20px; text-align:left; font-size:100%">
-Scan the QR code to listen to the full interview with Julian Wong on the BiblioAsia+ podcast, “More Than Mr Mari Kita: The Life and Legacy of Zubir Said”.
-	<br>
-<img src="/images/Vol%2021%20Issue%202/Writing%20the%20NLB%20Story/writing_joinsa.png" style="width: 100%;">
+Listen to the full interview with Julian Wong on the BiblioAsia+ podcast, “<a href="https://biblioasia.nlb.gov.sg/podcast/life-and-legacy-zubir-said-julian-wong/">More Than Mr Mari Kita: The Life and Legacy of Zubir Said</a>” .
 <br></div>
-
-	
-
-<br>
