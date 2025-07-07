@@ -15,7 +15,7 @@ sections:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Online Only Articles/In Search of Silvestr/2.jpg
+      background: /images/Online Only Articles/In Search of Silvestr/Silvestr_Heroimage.png
       variant: center
   - infopic:
       title: Writing the NLB Story
