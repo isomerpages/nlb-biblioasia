@@ -2,6 +2,7 @@ collections:
   holding-area:
     output: true
     order:
+      - "Exhibition: Landing Page/Past.md"
       - "Exhibition: Landing Page/Landing Page.md"
       - "Exhibition: Landing Page/.keep"
       - "Bacalah Singapura: Reading Habits in Singapore (1960s–1990s).md"
