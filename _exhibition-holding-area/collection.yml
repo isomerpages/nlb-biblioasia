@@ -2,6 +2,7 @@ collections:
   exhibition-holding-area:
     output: true
     order:
+      - Present/.keep
       - Past.md
       - Timeline.md
       - Landing Page.md
