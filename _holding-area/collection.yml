@@ -2,8 +2,8 @@ collections:
   holding-area:
     output: true
     order:
-      - "Past/Exhibition: Sample 1.md"
-      - Past/.keep
+      - "Exhibition Sample/Exhibition: Sample 1.md"
+      - Exhibition Sample/.keep
       - "Bacalah Singapura: Reading Habits in Singapore (1960s–1990s).md"
       - Sample article.md
       - Singapore Youth Orchestra Brings Singapore Composers into the
