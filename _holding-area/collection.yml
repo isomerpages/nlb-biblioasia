@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - "Exhibition: Landing Page/.keep"
-      - "Exhibition: Landing Page/Exhibition: Past.md"
       - "Bacalah Singapura: Reading Habits in Singapore (1960s–1990s).md"
       - Sample article.md
       - Singapore Youth Orchestra Brings Singapore Composers into the
