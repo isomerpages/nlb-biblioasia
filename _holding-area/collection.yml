@@ -2,6 +2,7 @@ collections:
   holding-area:
     output: true
     order:
+      - Timeline 1/Reading Club 1.md
       - Timeline 1/.keep
       - "Exhibition: Landing Page/.keep"
       - "Exhibition: Landing Page/Landing Page.md"
