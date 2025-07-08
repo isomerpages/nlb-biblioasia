@@ -7,6 +7,10 @@ description: ""
 #### Reading surveys in the nation-building years reveal what Singaporeans read and why it mattered.&nbsp; 
 By Janice Loo
 
+![](/images/Vol%2021%20Issue%203/Bacalah%20Singapura/baca_main.jpg)
+<div style="background-color:white;">You are never too young to start reading, 1959.  <i> Carolina Ng Lee Khiam Collection, courtesy of National Archives of Singapore (Media - Image no. 19980005136 - 0052). </i></div>
+
+
 In June 2025, the National Library Board released the results of the 2024 National Reading Habits Study which found that 89 percent of Singapore adults read more than once a week. News (76 percent) and online articles (65 percent) were the most popular reading materials, surpassing books (28 percent), magazines (16 percent) and reports (12 percent). While respondents acknowledged the benefits of reading, most said that they tended to spend more time on other activities (62 percent) or get bored after reading for a while (38 percent).[^1]
 
 This challenge of cultivating a reading habit is not a new one, as seen in studies from the 1960s through to the 1990s on reading levels in Singapore. Given that reading is crucial to learning, access to information, as well as social and economic participation, reading habits – how often people read, what they read and in which languages – go beyond personal leisure choices and have been seen as matters of national consequence.&nbsp;
@@ -33,6 +37,9 @@ The IE survey approached reading as a socially embedded activity shaped by paren
 
 Concluding that little could be done about the home environment, the IE report focused on the role of schools. It emphasised that teachers needed to be readers themselves to effectively model reading habits, and recommended incorporating regular reading and book-related activities, like story dramatisations, into lessons.[^19]
 
+![](/images/Vol%2021%20Issue%203/Bacalah%20Singapura/baca_learn.jpg)
+<div style="background-color:white;">Learning to read at the National Library on Stamford Road, 1986. <i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore (Media - Image no. 19980006082 - 0076). </i></div>
+
 &nbsp;The IE survey also raised concerns about the time children spent watching television at the expense of reading, with 62 percent watching one to three hours daily and 21 percent exceeding three hours. Television emerged as the greatest competitor to reading because it functioned as a shared family activity that naturally drew children in and, unlike reading, could be enjoyed with little linguistic competence.[^20]
 
 #### **Adult Readers, Lifelong Workers**
@@ -58,6 +65,9 @@ In the mid-1980s, the government launched a new vision for Singapore to become a
 Aside from the intrinsic value of arts and culture, the government saw its economic potential as a new growth sector following the 1985 recession.[^31] To that end, the Advisory Council on Culture and the Arts (ACCA) was established in 1988 to develop a long-term plan for arts and cultural development in Singapore. The Committee on Literary Arts was formed to assist the ACCA, and recognising the importance of reading, a Sub-Committee on Reading was created to assess the reading habit in Singapore and make recommendations for its promotion.[^32]
 
 Drawing on the 1980 and 1988 national reading surveys,[^33] as well as the 1987 National Survey on Arts and Culture, the Sub-Committee on Reading found that despite a high literacy rate of 94 percent in 1988, Singaporeans read a limited range of subjects, preferring popular fiction, followed by cookery and hobby books, while literary works and drama ranked last.[^34] On the bright side, more were reading for pleasure as well as for information and knowledge.[^35] Although the steady growth in library membership was another encouraging sign, the sub-committee noted that existing library services struggled to keep up with public demand.[^36]
+
+![](/images/Vol%2021%20Issue%203/Bacalah%20Singapura/baca_reader.jpg)
+<div style="background-color:white;">A young reader enjoying Old Master Q (Lao Fu Zi) comics at a neighbourhood bookstore in Tanjong Pagar, 1989.  <i> Courtesy of National Archives of Singapore (Media - Image no. 19980007362 - 0048).  </i></div>
 
 The sub-committee identified several crisis areas, chiefly the utilitarian view of reading as a means for academic or career advancement. Once again, the same issue was brought up: developing young readers required the involvement of both parents and teachers.&nbsp;
 
