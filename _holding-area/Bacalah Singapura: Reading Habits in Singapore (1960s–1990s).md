@@ -85,131 +85,132 @@ Today, reading competes with a dizzying array of digital distractions. However, 
 
 #### **Notes**
 
-[^1]: 
+[^1]: “2024 National Reading Habits Study on Adults,” 14, 16, 64–65, 68, National Library Board Singapore, http://www.nlb.gov.sg/main/-/media/NLBMedia/Documents/About-Us/Press-Room-Publication/Research-and-Studies/NRHS-2024-Adults-20250619\_full-report\_for\_publication.pdf.
 
 
-[^2]: 
+[^2]: Goh Chor Boon and S. Gopinathan, “The Development of Education in Singapore Since 1965,” in _Toward a Better Future: Education and Training for Economic Development in Singapore Since 1965_, ed. Lee Sing Kiong et al. (Washington, DC: The World Bank, 2008), 13, 15, 18–19. (From National Library Singapore, call no. RSING 370.9595709045 TOW); Ho Wing Meng, “Education for Living or Singapore’s Answer to the Problem of Technological Development Versus Cultural Heritage,” in _Cultural Heritage Versus Technological Development: Challenges to Education_ (Hong Kong: Maruzen Asia, 1981), 140. (From National Library Singapore, call no. RSING 370 CUL)
 
 
-[^3]: 
+[^3]: By 1966, learning a second language was made mandatory in primary and secondary schools, and by 1969, it became an examinable subject.&nbsp;
 
 
-[^4]: 
 
+[^4]: Lee Kok Cheong, “The Use of the English Language in Education in Singapore (With Special Reference to Science and Technology),” in _Cultural Heritage Versus Technological Development: Challenges to Education_, ed. Rolf E. Vente, R.S. Bhathal and Rukhyabai M. Nakhooda (Hong Kong: Maruzen Asia, 1981), 157. (From National Library Singapore, call no. RSING 370 CUL); Goh and Gopinathan, “The Development of Education in Singapore Since 1965,” 14–15; Nirmala Purushotam, _Negotiating Multiculturalism: Disciplining Difference in Singapore_ (Berlin: Mouton de Gruyter, 2000), 67. (From National Library Singapore, call no.: RSING 306.44095957 PUR); Chia Yeow Tong, _Education, Culture and the Singapore Developmental State: “World-Soul” Lost and Regained?_ (Houndmills, Basingstoke, Hampshire; New York, NY: Palgrave Macmillan, 2015), 45. (From National Library Singapore, call no. RSING 379.5957 CHI)&nbsp;
 
-[^5]: 
 
+[^5]: According to Lau Wai Har, there were five major studies on primary school pupils’ reading habits, five for secondary school pupils, one for tertiary students and one for non-schooling adults. See Lau Wai Har, “Reading Research in Singapore: Trends &amp; Prospects,” in _The Reading Habit: Regional Seminar on the Promotion of the Reading Habit, Singapore, 7 to 10 September 1981_ (Singapore: National Book Development Council of Singapore, 1983), 22–31. (From National Library Singapore, call no. RSING q028.9 REG-\[LIB\])
 
-[^6]: 
 
+[^6]: Teachers’ Training College, _Reading Interests_ (Singapore: The College, 1970), 1. (From National Library Singapore, call no. RCLOS 028.9095957 TEA)
 
-[^7]: 
 
+[^7]: Teachers’ Training College, _Reading Interests_, 64. The compilers acknowledged that the popularity of newspaper reading among children should not be construed as an interest in current affairs, as “reading” in this case likely amounted to no more than a quick glance at the comics, sports and entertainment sections. See Teachers’ Training College, _Reading Interests_, 16.&nbsp;
 
-[^8]: 
 
+[^8]: Teachers’ Training College, _Reading Interests_, 63–64. At the time of the survey, public library services centred on the National Library on Stamford Road, complemented by part-time branches in Joo Chiat and Siglap, as well as a mobile library service that visited the Tanjong Pagar, West Coast, Nee Soon and Bukit Panjang community centres weekly. This limited reach, coupled with the relative inaccessibility of the National Library to those residing outside of the city, led to class and school libraries being more popular among young readers. &nbsp;
 
-[^9]: 
 
+[^9]: V. Perambulavil, “A Survey of Children’s Reading; a Review Article,” _Singapore Book World_ 2, no. 1 (June 1971): 5–6. (From National Library Singapore, call no. RCLOS 070.5095957 SBW). V. Perambulavil was the coordinator of children’s services at the National Library. Her review was adapted and published as “Once Upon a Time…,” _New Nation_, 9 October 1971, 7. (From NewspaperSG)
 
-[^10]: 
 
+[^10]: Would rather read a book than watch television: 59.8 percent (English medium); 59.6 percent (Chinese medium); Preferred buying books to toys, sweets, or going to cinema: 66.4 percent (Malay medium), 58.8 percent (Chinese medium), 46.6 percent (English medium). See Teachers’ Training College, _Reading Interests_, 22–24, 35, 54, 65.&nbsp;
 
 
-[^11]: 
 
+[^11]: The report mentioned of a “likelihood that the children might have been trying to please or impress their teachers by pretending a preference for books”. See Teachers’ Training College, _Reading Interests_, 24, 65.&nbsp;
 
-[^12]: 
 
+[^12]: The Teachers’ Training College was restructured into the Institute of Education in 1973. Lau, “Reading Research in Singapore,” 22–25; Goh Keng Swee and Education Study Team, _Report on the Ministry of Education 1978_ (Singapore: Singapore National Printers, 1979), 4-1. (From National Library Singapore, call no. RSING 370.95957 SIN)
 
-[^13]: 
 
+[^13]: Goh and Education Study Team, _Report on the Ministry of Education 1978_, 1-1, 4-4. In August 1978, Deputy Prime Minister Goh Keng Swee was tasked to lead a study team to identify problems in Singapore’s education system and propose solutions. The _Report on the Ministry of Education 1978_ (also known as the Goh Report) gave rise to a system of ability-driven education based on streaming known as the New Education System.&nbsp;
 
-[^14]: 
 
+[^14]: The survey revealed that 33 percent of the Primary Six students sampled did not read any English books and 41 percent read only one to two books in the previous month. Even lighter reading materials like magazines and comics fared no better. Among those who took Chinese as a second language, 43 percent read no books, 39 percent no magazines, and 66 percent no comics. The situation was worst among those taking English as a second language with 67 percent reading no books, 81 percent no magazines and 81 percent no comics. See Institute of Education, _A Measure of Reading: IE Survey of Reading Interests and Habits_ (Singapore: Institute of Education, 1978), 15–20, 48. (From National Library Singapore, call no. RSING 028.9095957 INS-\[LIB\])&nbsp;
 
-[^15]: 
 
+[^15]: Institute of Education, _A Measure of Reading_, Foreword.
 
-[^16]: 
 
+[^16]: Chua Sian Chin, “The Opening of the 10th Annual Festival of Books and Book Fair,” speech, Hyatt Hotel Singapore, 26 August 1978, transcript, Ministry of Culture. (From National Archives of Singapore, document no. csc19780826s)
 
-[^17]: 
 
+[^17]: Institute of Education, _A Measure of Reading_, 16, 20, 34–35, 48.
 
-[^18]: 
 
+[^18]: Institute of Education, _A Measure of Reading_, 14, 42–43, 51; “Majority of Poor Pupils Read Only in One Language,” _Straits Times_, 22 April 1978, 7 (From NewspaperSG)
 
-[^19]: 
 
+[^19]: Institute of Education, _A Measure of Reading_, 52–53.
 
-[^20]: 
 
+[^20]: Institute of Education, _A Measure of Reading_, 36, 50; “Up to Three Hours a Day Before the Box,” _Straits Times_, 26 April 1978, 13. (From NewspaperSG)&nbsp;
 
 
-[^21]: 
 
+[^21]: Lau, “Reading Research in Singapore,” 25.
 
-[^22]: 
 
+[^22]: The council was inaugurated on 13 February 1969. The idea for such an organisation was first proposed in November 1966 at a workshop on the problems of book production and distribution organised by the Library Association of Singapore. The formation of national book development councils to promote reading and development of the local book industry was encouraged by UNESCO to overcome the acute shortage of books in developing countries. See Hedwig Anuar, “Twenty-five Years of Book Development,” _Singapore Book World_ 23 (1993/1994): 1–8. (From National Library, Singapore, call no. RSING 070.5095957 SBW)
 
-[^23]: 
 
+[^23]: Lu Lin Reutens, “Reading Habits of Singaporeans…,” _New Nation_, 19 August 1975, 9. (From NewspaperSG)
 
-[^24]: 
 
+[^24]: National Book Development Council of Singapore, _First National Readership Survey_ (Singapore: National Book Development Council of Singapore, 1981), v, xvii, 2, 4. (From National Library Singapore, call no. RCLOS 028.9095957 FIR-\[LIB\]); “Council Survey on the S’pore Reader,” _Straits Times_, 13 April 1980, 11. (From NewspaperSG).&nbsp;
 
-[^25]: 
 
+[^25]: Gretchen Mahbubani, “Few Big Surprises,” _Straits Times_, 25 July 1981, 14. (From NewspaperSG); National Book Development Council of Singapore, _First National Readership Survey_, 6, 9.&nbsp;
 
-[^26]: 
 
+[^26]: The proportion corresponded to some extent with the National Library’s membership figures, which stood at 349,824 members by the end of FY1979, representing 14.8 percent of the population with children forming the largest group. See National Book Development Council, _First National Reading Survey_, 51; National Library Singapore, _National Library Report for the Period April 1979–March 1980_ (Singapore: National Library, 1980), 10, 34. (From National Library Online)&nbsp;
 
-[^27]: 
 
+[^27]: National Book Development Council of Singapore, _First National Reading Survey_, 28.
 
-[^28]: 
 
+[^28]: National Book Development Council of Singapore, _First National Readership Survey_, 10–11.
 
-[^29]: 
 
+[^29]: Yeo Ning Hong, “The Launching of the Second National Reading Month,” speech, DBS Auditorium, 17 August 1984, transcript, Ministry of Culture. (From National Archives of Singapore, document no. ynh19840817s)&nbsp; &nbsp;
 
-[^30]: 
 
+[^30]: “The Strategy for a Nation of Excellence,” _Straits Times_, 2 December 1986, 26. (From NewspaperSG)
 
 
-[^31]: 
 
+[^31]: Audrey Wong, “The Report of the Advisory Council on Culture and the Arts,” in _The State and the Arts in Singapore_, ed. Terence Chong (Singapore: World Scientific Publishing, 2019), 111–112. (From National Library Singapore, call no. RSING 700.959570904 STA)
 
-[^32]: 
 
+[^32]: Committee on Literary Arts, _Report of the Committee on Literary Arts_ (Singapore: Committee on Literary Arts, 1988), i. (From National Library Singapore, call no. RSING S820 SIN)
 
-[^33]: 
 
+[^33]: The 1980 and 1988 surveys had different sample populations. While the 1980 survey sampled 2,000 non-schooling respondents aged 15 to 49, the 1988 survey covered 1,000 respondents aged 12 and above, which included students.&nbsp;
 
-[^34]: 
 
+[^34]: Committee on Literary Arts, _Report of the Committee on Literary Arts_, 25–26.&nbsp;
 
-[^35]: 
 
+[^35]: In 1980, the main reasons for reading were general information (mentioned by 67.8 percent of respondents), pleasure (61 percent) and passing time (53.1 percent). By 1988, pleasure became the leading motivation (67 percent), followed closely by self-improvement (65 percent), passing time (64 percent) and increasing general knowledge (63 percent). The most dramatic change was in reading for information on a particular subject, which quadrupled from 11 percent in 1981 to 46 percent in 1988. See Committee on Literary Arts, _Report of the Committee on Literary Arts_, 27; Hedwig Anuar, “The Reading Habits of Singaporeans”, _The Mirror: A Weekly Almanac of Current Affairs_ 25, no. 19, (1 October 1989), 12. (From National Library Singapore, call no. RCLOS 320.9595 MM) &nbsp;
 
-[^36]: 
 
+[^36]: Committee on Literary Arts, _Report of the Committee on Literary Arts_, 27. By the end of FY1987, library membership reached 871,537 or 33 percent of the population, with adults forming the largest group. The significant increase occurred in tandem with the decentralisation of library services in the 1980s. Between the 1980 and 1988 surveys, the library network expanded with five new fulltime branches established in satellite towns outside of the city centre. This expansion, which increased the total number of fulltime branch libraries from three to eight, brought library services within easier reach of Singaporeans. See National Library Singapore, _National Library Report for the Period April 1987–March 1988_ (Singapore: National Library, 1980), 6. (From National Library Online)&nbsp;
 
-[^37]: 
 
+[^37]: Committee on Literary Arts, _Report of the Committee on Literary Arts_, 25, 31–34, 38–50.
 
-[^38]: 
 
+[^38]: Ngian Lek Choh, “Singaporeans, Their Reading Habits and Interests,” _Singapore Libraries_ 24, (1995): 4–5, 8, 12; “Fewer Read, But Those Who Do, Read More,” _Straits Times_, 18 May 1994, 2. (From NewspaperSG)
 
-[^39]: 
 
+[^39]: Ngian, “Singaporeans, Their Reading Habits and Interests,” 4–5.
 
-[^40]: 
 
+[^40]: Lee Hsien Loong, “The Opening of the World Book Fair 1996,” speech, World Trade Centre, 24 May 1996, transcript, Ministry of Information and the Arts (1985–1990). (From National Archives of Singapore, document no. lhl19960524s)
 
 
-[^41]: 
 
+[^41]: “Future of Public Library Services to Be Reviewed,” _Straits Times_, 23 June 1992, 26. (From NewspaperSG); Library 2000 Review Committee, Singapore, _Library 2000: Investing in a Learning Nation: Report of the Library 2000 Review Committee_ (Singapore: SNP Publishers, 1994), 3, 5–14. (From National Library Singapore, call no. RSING 027.05957 SIN)
 
-[^42]:  
+
+[^42]: Anuar, “Twenty-five Years of Book Development,” 7.
