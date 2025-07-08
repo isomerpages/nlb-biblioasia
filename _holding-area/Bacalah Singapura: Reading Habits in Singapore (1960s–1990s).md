@@ -99,7 +99,7 @@ Today, reading competes with a dizzying array of digital distractions. However, 
 
 
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src="/images/Authors/DrJohnBray2.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/JaniceLoo.png">
 <b>Janice Loo</b> is a Senior Librarian with the National Library Singapore. Her responsibilities include collection management and content development as well as research and reference assistance on topics relating to Singapore and Southeast Asia.</div>
 
 #### **Notes**
