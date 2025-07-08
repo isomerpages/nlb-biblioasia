@@ -4,5 +4,4 @@ collections:
     order:
       - Present/.keep
       - Past.md
-      - Timeline.md
       - Landing Page.md
