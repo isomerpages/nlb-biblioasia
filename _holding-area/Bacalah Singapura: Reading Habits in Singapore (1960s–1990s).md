@@ -117,53 +117,53 @@ Today, reading competes with a dizzying array of digital distractions. However, 
 
 
 
-[^11]: The report mentioned of a “likelihood that the children might have been trying to please or impress their teachers by pretending a preference for books”. See Teachers’ Training College, _Reading Interests_, 24, 65.&nbsp;
+[^11]: The report mentioned of a “likelihood that the children might have been trying to please or impress their teachers by pretending a preference for books”. See Teachers’ Training College, [_Reading Interests_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4185699), 24, 65.&nbsp;
 
 
-[^12]: The Teachers’ Training College was restructured into the Institute of Education in 1973. Lau, “Reading Research in Singapore,” 22–25; Goh Keng Swee and Education Study Team, _Report on the Ministry of Education 1978_ (Singapore: Singapore National Printers, 1979), 4-1. (From National Library Singapore, call no. RSING 370.95957 SIN)
+[^12]: The Teachers’ Training College was restructured into the Institute of Education in 1973. Lau, “[Reading Research in Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4077641),” 22–25; Goh Keng Swee and Education Study Team, [_Report on the Ministry of Education 1978_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082172) (Singapore: Singapore National Printers, 1979), 4-1. (From National Library Singapore, call no. RSING 370.95957 SIN)
 
 
-[^13]: Goh and Education Study Team, _Report on the Ministry of Education 1978_, 1-1, 4-4. In August 1978, Deputy Prime Minister Goh Keng Swee was tasked to lead a study team to identify problems in Singapore’s education system and propose solutions. The _Report on the Ministry of Education 1978_ (also known as the Goh Report) gave rise to a system of ability-driven education based on streaming known as the New Education System.&nbsp;
+[^13]: Goh and Education Study Team, [_Report on the Ministry of Education 1978_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082172), 1-1, 4-4. In August 1978, Deputy Prime Minister Goh Keng Swee was tasked to lead a study team to identify problems in Singapore’s education system and propose solutions. The _Report on the Ministry of Education 1978_ (also known as the Goh Report) gave rise to a system of ability-driven education based on streaming known as the New Education System.&nbsp;
 
 
-[^14]: The survey revealed that 33 percent of the Primary Six students sampled did not read any English books and 41 percent read only one to two books in the previous month. Even lighter reading materials like magazines and comics fared no better. Among those who took Chinese as a second language, 43 percent read no books, 39 percent no magazines, and 66 percent no comics. The situation was worst among those taking English as a second language with 67 percent reading no books, 81 percent no magazines and 81 percent no comics. See Institute of Education, _A Measure of Reading: IE Survey of Reading Interests and Habits_ (Singapore: Institute of Education, 1978), 15–20, 48. (From National Library Singapore, call no. RSING 028.9095957 INS-\[LIB\])&nbsp;
+[^14]: The survey revealed that 33 percent of the Primary Six students sampled did not read any English books and 41 percent read only one to two books in the previous month. Even lighter reading materials like magazines and comics fared no better. Among those who took Chinese as a second language, 43 percent read no books, 39 percent no magazines, and 66 percent no comics. The situation was worst among those taking English as a second language with 67 percent reading no books, 81 percent no magazines and 81 percent no comics. See Institute of Education, [_A Measure of Reading: IE Survey of Reading Interests and Habits_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4078259) (Singapore: Institute of Education, 1978), 15–20, 48. (From National Library Singapore, call no. RSING 028.9095957 INS-\[LIB\])&nbsp;
 
 
-[^15]: Institute of Education, _A Measure of Reading_, Foreword.
+[^15]: Institute of Education, [_A Measure of Reading_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4078259), Foreword.
 
 
-[^16]: Chua Sian Chin, “The Opening of the 10th Annual Festival of Books and Book Fair,” speech, Hyatt Hotel Singapore, 26 August 1978, transcript, Ministry of Culture. (From National Archives of Singapore, document no. csc19780826s)
+[^16]: Chua Sian Chin, “[The Opening of the 10th Annual Festival of Books and Book Fair](https://www.nas.gov.sg/archivesonline/speeches/record-details/704b5385-115d-11e3-83d5-0050568939ad),” speech, Hyatt Hotel Singapore, 26 August 1978, transcript, Ministry of Culture. (From National Archives of Singapore, document no. csc19780826s)
 
 
-[^17]: Institute of Education, _A Measure of Reading_, 16, 20, 34–35, 48.
+[^17]: Institute of Education, [_A Measure of Reading_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4078259), 16, 20, 34–35, 48.
 
 
-[^18]: Institute of Education, _A Measure of Reading_, 14, 42–43, 51; “Majority of Poor Pupils Read Only in One Language,” _Straits Times_, 22 April 1978, 7 (From NewspaperSG)
+[^18]: Institute of Education, [_A Measure of Reading_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4078259), 14, 42–43, 51; “[Majority of Poor Pupils Read Only in One Language](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19780422-1.2.34),” _Straits Times_, 22 April 1978, 7 (From NewspaperSG)
 
 
-[^19]: Institute of Education, _A Measure of Reading_, 52–53.
+[^19]: Institute of Education, [_A Measure of Reading_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4078259), 52–53.
 
 
-[^20]: Institute of Education, _A Measure of Reading_, 36, 50; “Up to Three Hours a Day Before the Box,” _Straits Times_, 26 April 1978, 13. (From NewspaperSG)&nbsp;
+[^20]: Institute of Education, [_A Measure of Reading_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4078259), 36, 50; “[Up to Three Hours a Day Before the Box](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19780426-1.2.81.4),” _Straits Times_, 26 April 1978, 13. (From NewspaperSG)&nbsp;
 
 
 
-[^21]: Lau, “Reading Research in Singapore,” 25.
+[^21]: Lau, “[Reading Research in Singapore](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4077641),” 25.
 
 
-[^22]: The council was inaugurated on 13 February 1969. The idea for such an organisation was first proposed in November 1966 at a workshop on the problems of book production and distribution organised by the Library Association of Singapore. The formation of national book development councils to promote reading and development of the local book industry was encouraged by UNESCO to overcome the acute shortage of books in developing countries. See Hedwig Anuar, “Twenty-five Years of Book Development,” _Singapore Book World_ 23 (1993/1994): 1–8. (From National Library, Singapore, call no. RSING 070.5095957 SBW)
+[^22]: The council was inaugurated on 13 February 1969. The idea for such an organisation was first proposed in November 1966 at a workshop on the problems of book production and distribution organised by the Library Association of Singapore. The formation of national book development councils to promote reading and development of the local book industry was encouraged by UNESCO to overcome the acute shortage of books in developing countries. See Hedwig Anuar, “Twenty-five Years of Book Development,” [_Singapore Book World_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4183457) 23 (1993/1994): 1–8. (From National Library, Singapore, call no. RSING 070.5095957 SBW)
 
 
-[^23]: Lu Lin Reutens, “Reading Habits of Singaporeans…,” _New Nation_, 19 August 1975, 9. (From NewspaperSG)
+[^23]: Lu Lin Reutens, “[Reading Habits of Singaporeans…](https://eresources.nlb.gov.sg/newspapers/digitised/article/newnation19750819-1.2.16.1),” _New Nation_, 19 August 1975, 9. (From NewspaperSG)
 
 
-[^24]: National Book Development Council of Singapore, _First National Readership Survey_ (Singapore: National Book Development Council of Singapore, 1981), v, xvii, 2, 4. (From National Library Singapore, call no. RCLOS 028.9095957 FIR-\[LIB\]); “Council Survey on the S’pore Reader,” _Straits Times_, 13 April 1980, 11. (From NewspaperSG).&nbsp;
+[^24]: National Book Development Council of Singapore, [_First National Readership Survey_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4080418) (Singapore: National Book Development Council of Singapore, 1981), v, xvii, 2, 4. (From National Library Singapore, call no. RCLOS 028.9095957 FIR-\[LIB\]); “[Council Survey on the S’pore Reader](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19800413-1.2.53),” _Straits Times_, 13 April 1980, 11. (From NewspaperSG).&nbsp;
 
 
-[^25]: Gretchen Mahbubani, “Few Big Surprises,” _Straits Times_, 25 July 1981, 14. (From NewspaperSG); National Book Development Council of Singapore, _First National Readership Survey_, 6, 9.&nbsp;
+[^25]: Gretchen Mahbubani, “[Few Big Surprises](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19810725-1.2.123.20),” _Straits Times_, 25 July 1981, 14. (From NewspaperSG); National Book Development Council of Singapore, [_First National Readership Survey_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4080418), 6, 9.&nbsp;
 
 
-[^26]: The proportion corresponded to some extent with the National Library’s membership figures, which stood at 349,824 members by the end of FY1979, representing 14.8 percent of the population with children forming the largest group. See National Book Development Council, _First National Reading Survey_, 51; National Library Singapore, _National Library Report for the Period April 1979–March 1980_ (Singapore: National Library, 1980), 10, 34. (From National Library Online)&nbsp;
+[^26]: The proportion corresponded to some extent with the National Library’s membership figures, which stood at 349,824 members by the end of FY1979, representing 14.8 percent of the population with children forming the largest group. See National Book Development Council, [_First National Reading Survey_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4080418), 51; National Library Singapore, [_National Library Report for the Period April 1979–March 1980_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=b7cf0d4b-61d2-407d-9e5b-a24bf55b18d2) (Singapore: National Library, 1980), 10, 34. (From National Library Online)&nbsp;
 
 
 [^27]: National Book Development Council of Singapore, _First National Reading Survey_, 28.
