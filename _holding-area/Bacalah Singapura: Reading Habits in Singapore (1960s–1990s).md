@@ -166,44 +166,44 @@ Today, reading competes with a dizzying array of digital distractions. However, 
 [^26]: The proportion corresponded to some extent with the National Library’s membership figures, which stood at 349,824 members by the end of FY1979, representing 14.8 percent of the population with children forming the largest group. See National Book Development Council, [_First National Reading Survey_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4080418), 51; National Library Singapore, [_National Library Report for the Period April 1979–March 1980_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=b7cf0d4b-61d2-407d-9e5b-a24bf55b18d2) (Singapore: National Library, 1980), 10, 34. (From National Library Online)&nbsp;
 
 
-[^27]: National Book Development Council of Singapore, _First National Reading Survey_, 28.
+[^27]: National Book Development Council of Singapore, [_First National Reading Survey_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4080418), 28.
 
 
-[^28]: National Book Development Council of Singapore, _First National Readership Survey_, 10–11.
+[^28]: National Book Development Council of Singapore, [_First National Readership Survey_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4080418), 10–11.
 
 
-[^29]: Yeo Ning Hong, “The Launching of the Second National Reading Month,” speech, DBS Auditorium, 17 August 1984, transcript, Ministry of Culture. (From National Archives of Singapore, document no. ynh19840817s)&nbsp; &nbsp;
+[^29]: Yeo Ning Hong, “[The Launching of the Second National Reading Month](https://www.nas.gov.sg/archivesonline/speeches/record-details/70cba619-115d-11e3-83d5-0050568939ad),” speech, DBS Auditorium, 17 August 1984, transcript, Ministry of Culture. (From National Archives of Singapore, document no. ynh19840817s)&nbsp; &nbsp;
 
 
-[^30]: “The Strategy for a Nation of Excellence,” _Straits Times_, 2 December 1986, 26. (From NewspaperSG)
+[^30]: “[The Strategy for a Nation of Excellence](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19861202-1.2.40.3),” _Straits Times_, 2 December 1986, 26. (From NewspaperSG)
 
 
 
-[^31]: Audrey Wong, “The Report of the Advisory Council on Culture and the Arts,” in _The State and the Arts in Singapore_, ed. Terence Chong (Singapore: World Scientific Publishing, 2019), 111–112. (From National Library Singapore, call no. RSING 700.959570904 STA)
+[^31]: Audrey Wong, “The Report of the Advisory Council on Culture and the Arts,” in [_The State and the Arts in Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203201759), ed. Terence Chong (Singapore: World Scientific Publishing, 2019), 111–112. (From National Library Singapore, call no. RSING 700.959570904 STA)
 
 
-[^32]: Committee on Literary Arts, _Report of the Committee on Literary Arts_ (Singapore: Committee on Literary Arts, 1988), i. (From National Library Singapore, call no. RSING S820 SIN)
+[^32]: Committee on Literary Arts, [_Report of the Committee on Literary Arts_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5084315) (Singapore: Committee on Literary Arts, 1988), i. (From National Library Singapore, call no. RSING S820 SIN)
 
 
 [^33]: The 1980 and 1988 surveys had different sample populations. While the 1980 survey sampled 2,000 non-schooling respondents aged 15 to 49, the 1988 survey covered 1,000 respondents aged 12 and above, which included students.&nbsp;
 
 
-[^34]: Committee on Literary Arts, _Report of the Committee on Literary Arts_, 25–26.&nbsp;
+[^34]: Committee on Literary Arts, [_Report of the Committee on Literary Arts_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5084315), 25–26.&nbsp;
 
 
-[^35]: In 1980, the main reasons for reading were general information (mentioned by 67.8 percent of respondents), pleasure (61 percent) and passing time (53.1 percent). By 1988, pleasure became the leading motivation (67 percent), followed closely by self-improvement (65 percent), passing time (64 percent) and increasing general knowledge (63 percent). The most dramatic change was in reading for information on a particular subject, which quadrupled from 11 percent in 1981 to 46 percent in 1988. See Committee on Literary Arts, _Report of the Committee on Literary Arts_, 27; Hedwig Anuar, “The Reading Habits of Singaporeans”, _The Mirror: A Weekly Almanac of Current Affairs_ 25, no. 19, (1 October 1989), 12. (From National Library Singapore, call no. RCLOS 320.9595 MM) &nbsp;
+[^35]: In 1980, the main reasons for reading were general information (mentioned by 67.8 percent of respondents), pleasure (61 percent) and passing time (53.1 percent). By 1988, pleasure became the leading motivation (67 percent), followed closely by self-improvement (65 percent), passing time (64 percent) and increasing general knowledge (63 percent). The most dramatic change was in reading for information on a particular subject, which quadrupled from 11 percent in 1981 to 46 percent in 1988. See Committee on Literary Arts, [_Report of the Committee on Literary Arts_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5084315), 27; Hedwig Anuar, “The Reading Habits of Singaporeans”, [_The Mirror: A Weekly Almanac of Current Affairs_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4081507) 25, no. 19, (1 October 1989), 12. (From National Library Singapore, call no. RCLOS 320.9595 MM) &nbsp;
 
 
-[^36]: Committee on Literary Arts, _Report of the Committee on Literary Arts_, 27. By the end of FY1987, library membership reached 871,537 or 33 percent of the population, with adults forming the largest group. The significant increase occurred in tandem with the decentralisation of library services in the 1980s. Between the 1980 and 1988 surveys, the library network expanded with five new fulltime branches established in satellite towns outside of the city centre. This expansion, which increased the total number of fulltime branch libraries from three to eight, brought library services within easier reach of Singaporeans. See National Library Singapore, _National Library Report for the Period April 1987–March 1988_ (Singapore: National Library, 1980), 6. (From National Library Online)&nbsp;
+[^36]: Committee on Literary Arts, [_Report of the Committee on Literary Arts_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5084315), 27. By the end of FY1987, library membership reached 871,537 or 33 percent of the population, with adults forming the largest group. The significant increase occurred in tandem with the decentralisation of library services in the 1980s. Between the 1980 and 1988 surveys, the library network expanded with five new fulltime branches established in satellite towns outside of the city centre. This expansion, which increased the total number of fulltime branch libraries from three to eight, brought library services within easier reach of Singaporeans. See National Library Singapore, [_National Library Report for the Period April 1987–March 1988_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=1d4e07b2-3eee-48b2-80e8-676173f25b8a) (Singapore: National Library, 1980), 6. (From National Library Online)&nbsp;
 
 
-[^37]: Committee on Literary Arts, _Report of the Committee on Literary Arts_, 25, 31–34, 38–50.
+[^37]: Committee on Literary Arts, [_Report of the Committee on Literary Arts_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5084315), 25, 31–34, 38–50.
 
 
-[^38]: Ngian Lek Choh, “Singaporeans, Their Reading Habits and Interests,” _Singapore Libraries_ 24, (1995): 4–5, 8, 12; “Fewer Read, But Those Who Do, Read More,” _Straits Times_, 18 May 1994, 2. (From NewspaperSG)
+[^38]: Ngian Lek Choh, “Singaporeans, Their Reading Habits and Interests,” [_Singapore Libraries_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4183443) 24, (1995): 4–5, 8, 12; “[Fewer Read, But Those Who Do, Read More](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19940518-1.2.60.2.1),” _Straits Times_, 18 May 1994, 2. (From NewspaperSG)
 
 
-[^39]: Ngian, “Singaporeans, Their Reading Habits and Interests,” 4–5.
+[^39]: Ngian, “[Singaporeans, Their Reading Habits and Interests](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4183443),” 4–5.
 
 
 [^40]: Lee Hsien Loong, “The Opening of the World Book Fair 1996,” speech, World Trade Centre, 24 May 1996, transcript, Ministry of Information and the Arts (1985–1990). (From National Archives of Singapore, document no. lhl19960524s)
