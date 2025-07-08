@@ -2,4 +2,5 @@ collections:
   exhibition-holding-area:
     output: true
     order:
+      - Timeline.md
       - Landing Page.md
