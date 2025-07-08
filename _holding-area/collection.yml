@@ -2,8 +2,8 @@ collections:
   holding-area:
     output: true
     order:
-      - Timeline 1/Timeline.md
-      - Timeline 1/.keep
+      - Present/Timeline.md
+      - Present/.keep
       - "Exhibition: Landing Page/.keep"
       - "Exhibition: Landing Page/Landing Page.md"
       - "Exhibition: Landing Page/Exhibition: Past.md"
