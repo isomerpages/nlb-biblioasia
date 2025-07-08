@@ -2,9 +2,9 @@ collections:
   exhibition-holding-area:
     output: true
     order:
-      - Future/Representatives.md
-      - Future/.keep
-      - Present/Timeline.md
-      - Present/.keep
-      - Past.md
       - Landing Page.md
+      - Past.md
+      - Present/.keep
+      - Present/Timeline.md
+      - Future/.keep
+      - Future/Representatives.md
