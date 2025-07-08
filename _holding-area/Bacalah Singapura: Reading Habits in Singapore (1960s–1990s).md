@@ -206,11 +206,11 @@ Today, reading competes with a dizzying array of digital distractions. However, 
 [^39]: Ngian, “[Singaporeans, Their Reading Habits and Interests](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4183443),” 4–5.
 
 
-[^40]: Lee Hsien Loong, “The Opening of the World Book Fair 1996,” speech, World Trade Centre, 24 May 1996, transcript, Ministry of Information and the Arts (1985–1990). (From National Archives of Singapore, document no. lhl19960524s)
+[^40]: Lee Hsien Loong, “[The Opening of the World Book Fair 1996](https://www.nas.gov.sg/archivesonline/speeches/record-details/718f01da-115d-11e3-83d5-0050568939ad),” speech, World Trade Centre, 24 May 1996, transcript, Ministry of Information and the Arts (1985–1990). (From National Archives of Singapore, document no. lhl19960524s)
 
 
 
-[^41]: “Future of Public Library Services to Be Reviewed,” _Straits Times_, 23 June 1992, 26. (From NewspaperSG); Library 2000 Review Committee, Singapore, _Library 2000: Investing in a Learning Nation: Report of the Library 2000 Review Committee_ (Singapore: SNP Publishers, 1994), 3, 5–14. (From National Library Singapore, call no. RSING 027.05957 SIN)
+[^41]: “[Future of Public Library Services to Be Reviewed](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19920623-1.2.33.13),” _Straits Times_, 23 June 1992, 26. (From NewspaperSG); Library 2000 Review Committee, Singapore, [_Library 2000: Investing in a Learning Nation: Report of the Library 2000 Review Committee_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6731571) (Singapore: SNP Publishers, 1994), 3, 5–14. (From National Library Singapore, call no. RSING 027.05957 SIN)
 
 
 [^42]: Anuar, “Twenty-five Years of Book Development,” 7.
