@@ -1,4 +1,5 @@
 collections:
   exhibition-holding-area:
     output: true
-    order: []
+    order:
+      - Landing Page.md
