@@ -2,6 +2,6 @@ collections:
   exhibition-holding-area:
     output: true
     order:
-      - "Exhibition: Past.md"
+      - Past.md
       - Timeline.md
       - Landing Page.md
