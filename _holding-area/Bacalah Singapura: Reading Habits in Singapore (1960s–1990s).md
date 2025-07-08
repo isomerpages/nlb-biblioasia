@@ -23,6 +23,9 @@ This educational landscape formed the backdrop for the dozen reading surveys con
 
 The earliest such study was initiated in 1966 by the Research Unit of the Teachers’ Training College (TTC), which surveyed over 1,500 primary school pupils from the English, Chinese and Malay language streams. It aimed to provide insights to parents, teachers, librarians and education authorities in supporting children’s reading development.[^6]
 
+![](/images/Vol%2021%20Issue%203/Bacalah%20Singapura/baca_book.jpg)
+<div style="background-color:white;">The Teachers’ Training College conducted the first reading survey in 1966. It surveyed over 1,500 primary school pupils from the English, Chinese and Malay language streams. Newspapers were the most popular reading material, followed by comics and magazines. <i>Collection of the National Library (Call no. RCLOS 028.9095957 TEA). </i></div>
+
 This study found that newspapers were the most popular reading material, followed by comics and magazines.[^7] It also revealed low levels of reading in a second language, which was highlighted as a “grave concern” given the importance of bilingualism. Additionally, students showed a preference for fiction over nonfiction, with classroom and school libraries serving as their primary sources of reading material due to convenient access.[^8]
 
 However, there were limitations with the survey’s research design. One reviewer noted that the method of administering formal questionnaires in a school setting likely skewed the results, with children giving socially desirable responses rather than their genuine preferences.[^9] The questionable validity of responses was apparent in two survey items: one where a high proportion – almost 60 percent – of children claimed to prefer reading over TV, and another where a significant number improbably indicated they would rather spend their pocket money on books over toys, sweets or cinema tickets.[^10]
@@ -52,11 +55,17 @@ Consequently, the council commissioned the first National Readership Survey in 1
 
 The results, published in 1981, came as no surprise. Television dominated leisure time (48.3 percent), followed by music (15 percent) and then reading (13.1 percent). While over 90 percent of respondents engaged in some form of reading weekly (with only 2.7 percent reporting no reading at all), this had to be balanced against the finding that 37.9 percent did not read books and 33.7 percent spent less than three hours weekly on them. In contrast, newspapers were widely read, with only 2.4 percent non-readers and 39.6 percent dedicating three to five hours weekly to them.[^25]
 
+![](/images/Vol%2021%20Issue%203/Bacalah%20Singapura/baca_survey.jpg)
+<div style="background-color:white;">The results of the first survey of adult reading habits were published in 1981 and showed that 38 percent of respondents did not read books. <i>G.P. Reichelt Collection, courtesy of National Archives of Singapore (Media - Image no. 20130000080 - 0055). </i></div>
+
 The survey also found that a mere 16.1 percent of respondents were members of the National Library.[^26] Most people obtained books and magazines by borrowing from friends and relatives, or purchasing them from bookshops rather than using the public libraries.[^27]
 
 The findings highlighted socioeconomic correlations with reading habits. Heavy readers (those who read more than six hours weekly) tended to have higher levels of education, worked in the professional, administrative and clerical occupations, and earned higher incomes. Conversely, non-readers generally lacked formal education or did not complete primary education, worked in production or service roles, and had lower incomes.[^28]
 
 As Singapore shifted towards capital-intensive, high-technology industries in the early 1980s, national survival again hinged on the power of reading, as Minister for Communications Yeo Ning Hong emphasised at the 1984 National Reading Month launch: “In order to keep pace and not be left behind in the backwaters, Singaporeans must therefore be agile and adapt to the rapid changes that we now see taking place in many industrialised countries… The ability to read will provide us with the key to upgrading ourselves… The person who stops reading upon leaving school or university increases his own chance of stagnation and irrelevance in future economic developments.”[^29]
+
+![](/images/Vol%2021%20Issue%203/Bacalah%20Singapura/baca_poster.jpg)
+<div style="background-color:white;">A poster for National Reading Month, 26 August to 23 September 1982. <i>National Book Development Council of Singapore Collection, courtesy of National Archives of Singapore (Media - Image no. 19990003740 - 0027).</i></div>
 
 #### **A Cultured People**
 
