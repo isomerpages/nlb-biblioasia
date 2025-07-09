@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - 新加坡华文读书会线上展览.md
-      - Past.md
+      - "新加坡华文读书会线上展览: 过去.md"
       - Present/.keep
       - Present/Timeline.md
       - Present/Reading Club A.md
