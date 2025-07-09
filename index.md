@@ -1176,4 +1176,14 @@ sections:
       url: /vol-21/issue-2/jul-sep-2025/reading-molly-national-library-board/
       image: /images/Vol 21 Issue 2/Molly/Mollytruck_topic.jpg
       alt: Reading With Molly Today
+  - infopic:
+      title: First Spy Chief of Independent Singapore
+      subtitle: Podcast
+      id: infopic
+      description: Legal academic Simon Tay tells us about how his Penang-born father
+        came to play a giant role serving a newly independent Singapore.
+      button: Listen to the episode
+      url: https://biblioasia.nlb.gov.sg/podcast/tay-seow-huah-first-spy-chief-of-independent-singapore-simon-tay/
+      image: /images/Podcast/Simon_600_by_400.jpg
+      alt: First Spy Chief of Singapore
 ---
