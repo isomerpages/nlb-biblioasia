@@ -2,7 +2,7 @@ collections:
   exhibition-holding-area:
     output: true
     order:
-      - Landing Page.md
+      - 新加坡华文读书会线上展览.md
       - Past.md
       - Present/.keep
       - Present/Timeline.md
