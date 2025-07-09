@@ -18,6 +18,16 @@ sections:
       background: /images/Online Only Articles/In Search of Silvestr/Silvestr_Heroimage.png
       variant: center
   - infopic:
+      title: First Spy Chief of Independent Singapore
+      subtitle: Podcast
+      id: infopic
+      description: Legal academic Simon Tay tells us about how his Penang-born father
+        came to play a giant role serving a newly independent Singapore.
+      button: Listen to the episode
+      url: https://biblioasia.nlb.gov.sg/podcast/tay-seow-huah-first-spy-chief-of-independent-singapore-simon-tay/
+      image: /images/Podcast/Simon_600_by_400.jpg
+      alt: First Spy Chief of Singapore
+  - infopic:
       title: Writing the NLB Story
       subtitle: History
       id: infopic
@@ -1155,16 +1165,6 @@ sections:
       url: /videos/reels/print/
       alt: Image alt text
       image: "/images/Videos: BiblioAsia Reels/early_print.jpg"
-  - infopic:
-      title: First Spy Chief of Independent Singapore
-      subtitle: Podcast
-      id: infopic
-      description: Legal academic Simon Tay tells us about how his Penang-born father
-        came to play a giant role serving a newly independent Singapore.
-      button: Listen to the episode
-      url: https://biblioasia.nlb.gov.sg/podcast/tay-seow-huah-first-spy-chief-of-independent-singapore-simon-tay/
-      image: /images/Podcast/Simon_600_by_400.jpg
-      alt: First Spy Chief of Singapore
   - infopic:
       title: Legal Deposit Legislation in Singapore
       subtitle: Governance
