@@ -4,6 +4,14 @@ permalink: /topics/local-icons/
 description: ""
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/majulah-singapura-zubir-said-julian-wong-podcast-transcript/">“Majulah Singapura” Finally Repaired the Breach</a>
+
+In a BiblioAsia+ podcast, music director Julian Wong reveals little-known details about the composer of Singapore’s national anthem.
+
+<img src="/images/Vol%2021%20Issue%203/Composer/composer_main_topic.jpg" style="width:80%;"> 
+
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/history-story-national-library-singapore/">From Colonial Vision to Key Memory Institution: A Short History of the National Library</a>
 
 The National Library began life in 1837 with a modest collection of 392 publications belonging to the Singapore Free School.
