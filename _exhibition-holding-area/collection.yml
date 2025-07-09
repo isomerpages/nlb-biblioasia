@@ -2,6 +2,7 @@ collections:
   exhibition-holding-area:
     output: true
     order:
+      - 今时今日/时间轨迹.md
       - 今时今日/.keep
       - 新加坡华文读书会线上展览.md
       - 逝水流年.md
