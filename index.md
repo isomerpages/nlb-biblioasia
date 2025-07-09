@@ -24,7 +24,7 @@ sections:
       description: Legal academic Simon Tay tells us about how his Penang-born father
         came to play a giant role serving a newly independent Singapore.
       button: Listen to the episode
-      url: https://biblioasia.nlb.gov.sg/podcast/tay-seow-huah-first-spy-chief-of-independent-singapore-simon-tay/
+      url: /podcast/tay-seow-huah-first-spy-chief-of-independent-singapore-simon-tay/
       image: /images/Podcast/Simon_600_by_400.jpg
       alt: First Spy Chief of Singapore
   - infopic:
