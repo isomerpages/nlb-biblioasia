@@ -7,6 +7,8 @@ description: ""
 ---
 #### **Introduction**
 
+     
+
 As a Chinese adage goes, “the sparrow though small, has all five organs”.
 Nothing could be truer than this for Tamil writing in Singapore – though
 the number of Tamil literary works produced might be small compared

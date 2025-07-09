@@ -1166,4 +1166,14 @@ sections:
       url: /vol-21/issue-2/jul-sep-2025/legal-deposit-legislation-singapore/
       image: /images/Vol 21 Issue 2/Legal Deposit/Legal_Deposit_topic.png
       alt: Legal Deposit Legislation
+  - infopic:
+      title: Reading With Molly Today
+      subtitle: Print
+      id: infopic
+      description: According to a study, the mobile library service continues to be
+        relevant as it helps children get more access to books.
+      button: Bringing books to children
+      url: /vol-21/issue-2/jul-sep-2025/reading-molly-national-library-board/
+      image: /images/Vol 21 Issue 2/Molly/Mollytruck_topic.jpg
+      alt: Reading With Molly Today
 ---
