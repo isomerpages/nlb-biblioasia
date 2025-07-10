@@ -15,6 +15,9 @@ In June 2025, the National Library Board released the results of the 2024 Nation
 
 This challenge of cultivating a reading habit is not a new one, as seen in studies from the 1960s through to the 1990s on reading levels in Singapore. Given that reading is crucial to learning, access to information, as well as social and economic participation, reading habits – how often people read, what they read and in which languages – go beyond personal leisure choices and have been seen as matters of national consequence.&nbsp;
 
+![](/images/Vol%2021%20Issue%203/Bacalah%20Singapura/baca_librarian.jpg)
+<div style="background-color:white;">Reading from her own pavement library to kill time, this “librarian” waits for book lovers, 1960. There was a deposit of $1.00 depending on the book and a rental fee of 50 cents a book for a week at these “libraries”.  <i>Courtesy of the National Archives of Singapore (Media - Image no. 19980002619 - 0093).</i></div>
+
 #### **Education, Bilingualism and Children’s Reading Habits**
 
 Singapore gained independence amidst much uncertainty on 9 August 1965. The 1960s and 1970s were a “survival-driven” phase as the government focused on creating a literate and skilled workforce to support rapid industrialisation and secure the future of the fledgling nation. Mathematics, science and technical subjects were emphasised to prepare youth for employment and continuous upskilling.[^2] At the same time, bilingual education in English and a mother tongue – Malay, Mandarin or Tamil – was implemented.[^3] While English was necessary for business and for acquiring technical knowledge (where literature in vernacular languages was scarce), mother tongue languages were deemed essential for the preservation of cultural values and traditions, and were used for civic education.[^4]
@@ -23,7 +26,7 @@ This educational landscape formed the backdrop for the dozen reading surveys con
 
 The earliest such study was initiated in 1966 by the Research Unit of the Teachers’ Training College (TTC), which surveyed over 1,500 primary school pupils from the English, Chinese and Malay language streams. It aimed to provide insights to parents, teachers, librarians and education authorities in supporting children’s reading development.[^6]
 
-![](/images/Vol%2021%20Issue%203/Bacalah%20Singapura/baca_book.jpg)
+![](/images/Vol%2021%20Issue%203/Bacalah%20Singapura/baca_book1.jpg)
 <div style="background-color:white;">The Teachers’ Training College conducted the first reading survey in 1966. It surveyed over 1,500 primary school pupils from the English, Chinese and Malay language streams. Newspapers were the most popular reading material, followed by comics and magazines. <i>Collection of the National Library (Call no. RCLOS 028.9095957 TEA). </i></div>
 
 This study found that newspapers were the most popular reading material, followed by comics and magazines.[^7] It also revealed low levels of reading in a second language, which was highlighted as a “grave concern” given the importance of bilingualism. Additionally, students showed a preference for fiction over nonfiction, with classroom and school libraries serving as their primary sources of reading material due to convenient access.[^8]
@@ -37,6 +40,10 @@ Further surveys in the late 1970s, conducted mostly by staff and students at the
 A 1978 survey by IE revealed poor levels of reading, especially in second languages among Primary Six pupils.[^14] This was troubling as the primary school years are a critical period for developing lifelong reading habits.[^15] Dismayed by the findings, Education Minister Chua Sian Chin stressed the importance of reading to national goals at the 1978 Festival of Books and Book Fair: “We will not be able to succeed in our effort of improving language learning and attain our objective of bilingualism unless we get more and more pupils to read books and magazines in their first and second languages.”[^16]
 
 The IE survey approached reading as a socially embedded activity shaped by parents, teachers and peers. While newspapers were present in 89 percent of households and read by 64 percent of parents, book reading was markedly rare, with only 2 percent of parents reading books and a mere 10 percent encouraging their children to do so.[^17] It was thus little wonder that children tended to gravitate towards newspaper reading rather than books. The majority of parents in the sample were Chinese-speaking, blue-collar workers, whose children consistently reported having the fewest comics, books and magazines at home. This underscored the impact of socioeconomic status on both access to varied reading materials and the development of reading habits.[^18]
+
+
+![](/images/Vol%2021%20Issue%203/Bacalah%20Singapura/baca_home.jpg)
+<div style="background-color:white;">The home environment plays an integral role in nurturing the reading habit from a young age, 1989. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore (Media - Image no.: 19990001247 - 0090).</i></div>
 
 Concluding that little could be done about the home environment, the IE report focused on the role of schools. It emphasised that teachers needed to be readers themselves to effectively model reading habits, and recommended incorporating regular reading and book-related activities, like story dramatisations, into lessons.[^19]
 
@@ -56,6 +63,9 @@ The results, published in 1981, came as no surprise. Television dominated leisur
 <div style="background-color:white;">The results of the first survey of adult reading habits were published in 1981 and showed that 38 percent of respondents did not read books. <i>G.P. Reichelt Collection, courtesy of National Archives of Singapore (Media - Image no. 20130000080 - 0055). </i></div>
 
 The survey also found that a mere 16.1 percent of respondents were members of the National Library.[^26] Most people obtained books and magazines by borrowing from friends and relatives, or purchasing them from bookshops rather than using the public libraries.[^27]
+
+![](/images/Vol%2021%20Issue%203/Bacalah%20Singapura/baca_opera.jpg)
+<div style="background-color:white;">A Teochew opera actress finding time to read the newspaper in between performances, 1970s.  <i>Ronni Pinsler Collection, courtesy of National Archives of Singapore (Media - Image no. 20090000102 - 0785).</i></div>
 
 The findings highlighted socioeconomic correlations with reading habits. Heavy readers (those who read more than six hours weekly) tended to have higher levels of education, worked in the professional, administrative and clerical occupations, and earned higher incomes. Conversely, non-readers generally lacked formal education or did not complete primary education, worked in production or service roles, and had lower incomes.[^28]
 
