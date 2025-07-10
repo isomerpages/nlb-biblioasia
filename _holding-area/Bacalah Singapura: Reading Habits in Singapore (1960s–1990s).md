@@ -64,10 +64,10 @@ The results, published in 1981, came as no surprise. Television dominated leisur
 
 The survey also found that a mere 16.1 percent of respondents were members of the National Library.[^26] Most people obtained books and magazines by borrowing from friends and relatives, or purchasing them from bookshops rather than using the public libraries.[^27]
 
+The findings highlighted socioeconomic correlations with reading habits. Heavy readers (those who read more than six hours weekly) tended to have higher levels of education, worked in the professional, administrative and clerical occupations, and earned higher incomes. Conversely, non-readers generally lacked formal education or did not complete primary education, worked in production or service roles, and had lower incomes.[^28]
+
 ![](/images/Vol%2021%20Issue%203/Bacalah%20Singapura/baca_opera.jpg)
 <div style="background-color:white;">A Teochew opera actress finding time to read the newspaper in between performances, 1970s.  <i>Ronni Pinsler Collection, courtesy of National Archives of Singapore (Media - Image no. 20090000102 - 0785).</i></div>
-
-The findings highlighted socioeconomic correlations with reading habits. Heavy readers (those who read more than six hours weekly) tended to have higher levels of education, worked in the professional, administrative and clerical occupations, and earned higher incomes. Conversely, non-readers generally lacked formal education or did not complete primary education, worked in production or service roles, and had lower incomes.[^28]
 
 As Singapore shifted towards capital-intensive, high-technology industries in the early 1980s, national survival again hinged on the power of reading, as Minister for Communications Yeo Ning Hong emphasised at the 1984 National Reading Month launch: “In order to keep pace and not be left behind in the backwaters, Singaporeans must therefore be agile and adapt to the rapid changes that we now see taking place in many industrialised countries… The ability to read will provide us with the key to upgrading ourselves… The person who stops reading upon leaving school or university increases his own chance of stagnation and irrelevance in future economic developments.”[^29]
 
