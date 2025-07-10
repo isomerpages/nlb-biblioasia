@@ -3,7 +3,7 @@ title: Reading Club B
 permalink: /exhibition-holding-area/exhibition-landing-page/past/reading-club-b/
 variant: markdown
 description: ""
-third_nav_title: 新加坡华文读书会线上展览 现在
+third_nav_title: 今时今日
 ---
 ![](/images/Exhibition%20Mockup/Exhibition_ReadingClubB.jpg)
 
