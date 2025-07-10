@@ -40,9 +40,6 @@ The IE survey approached reading as a socially embedded activity shaped by paren
 
 Concluding that little could be done about the home environment, the IE report focused on the role of schools. It emphasised that teachers needed to be readers themselves to effectively model reading habits, and recommended incorporating regular reading and book-related activities, like story dramatisations, into lessons.[^19]
 
-![](/images/Vol%2021%20Issue%203/Bacalah%20Singapura/baca_learn.jpg)
-<div style="background-color:white;">Learning to read at the National Library on Stamford Road, 1986. <i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore (Media - Image no. 19980006082 - 0076). </i></div>
-
 &nbsp;The IE survey also raised concerns about the time children spent watching television at the expense of reading, with 62 percent watching one to three hours daily and 21 percent exceeding three hours. Television emerged as the greatest competitor to reading because it functioned as a shared family activity that naturally drew children in and, unlike reading, could be enjoyed with little linguistic competence.[^20]
 
 #### **Adult Readers, Lifelong Workers**
@@ -85,6 +82,9 @@ Recognising that building a reading culture required community-wide efforts, rec
 #### **A Developed (Reading) Nation**
 
 In 1993, the National Library commissioned a survey which sampled some 2,000 respondents aged 13 to 69 from 1,000 households. The survey painted a mixed picture: while a small but growing segment of Singaporeans had developed a passion for reading, an increasing number of literate individuals had disengaged from books.[^38] The percentage of literate persons who had read a book in the last 12 months had dropped to 50 percent from 57 percent in 1980. However, among readers, those spending three to nine hours weekly increased from 41 percent to 65 percent, and those reading 10 hours or more rose from 6 percent to 19 percent.[^39]
+
+![](/images/Vol%2021%20Issue%203/Bacalah%20Singapura/baca_learn.jpg)
+<div style="background-color:white;">Learning to read at the National Library on Stamford Road, 1986. <i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore (Media - Image no. 19980006082 - 0076). </i></div>
 
 Three years later, in 1996, Deputy Prime Minister Lee Hsien Loong highlighted that while the number of computers per capita was often used to measure development, another equally important indicator to pay attention to was the number of books that the average person reads per year. He noted that the 1993 National Reading Survey reported that Singaporeans read 8.3 books annually, significantly behind Japan’s 18 books and America’s 25 books per person. “Becoming a developed country,” Lee said, “means balancing economic growth with cultural and social achievements.” He observed that “Singapore has some distance to go to catch up”.[^40]
 
