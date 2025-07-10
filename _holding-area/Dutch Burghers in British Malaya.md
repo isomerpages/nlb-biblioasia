@@ -86,93 +86,92 @@ Today, the migration history of the Dutch Burghers is largely forgotten and only
 
 
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src="/images/Authors/DrJohnBray2.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/DrJohnBray72.png">
 <b>Dr Yorim Spoelder</b> is a historian affiliated with the Freie Universität Berlin and a former recipient of the Lee Kong Chian Research Fellowship (2024). He is the author of <i>Visions of Greater India: Transimperial Knowledge and Anti-Colonial Nationalism, c. 1800–1960</i> (winner of the 2024 EuroSEAS Humanities Book Prize). He is currently working on a transimperial and comparative history of the identity and politics of Eurasian communities in British India, Ceylon, the Straits Settlements and the Dutch East Indies. </div>
 
 #### **Notes**
 
-[^1]: 
+[^1]: “Double Tragedy in Johore,” _Straits Times_, 13 July 1932, 12; “Death Sentence in Johore Trial,” _Straits Times_, 2 August 1932, 12. (From NewspaperSG)
+
+[^2]: “Murder in Johore: Man and Woman Found Stabbed,” _Straits Times_, 27 June 1932, 6. (From NewspaperSG)
 
 
-[^2]: 
+[^3]: “Double Tragedy in Johore.”
 
 
-[^3]: 
+[^4]: “I am Going to Kill My Father,” _Straits Budget_, 21 July 1932, 14. (From NewspaperSG); “Death Sentence in Johore Trial.”
 
 
-[^4]: 
+[^5]: “Double Tragedy in Johore”; “Death Sentence in Johore Trial.”
 
 
-[^5]: 
+[^6]: “Death Sentence in Johore Trial”; “I am Going to Kill My Father.”
 
 
-[^6]: 
+[^7]: “Death Sentence in Johore Trial.”
 
 
-[^7]: 
+[^8]: “Death Sentence in Johore Trial.”
 
 
-[^8]: 
+[^9]: “Double Tragedy in Johore”; “Death Sentence in Johore Trial.” &nbsp;
 
 
-[^9]: 
+[^10]: “Death Sentence in Johore Trial.” &nbsp;
 
 
-[^10]: 
+[^11]: “I am Going to Kill My Father.”&nbsp;
 
 
-[^11]: 
+[^12]: “Murderer Hanged,” _Straits Times_, 28 October 1932, 6. (From NewspaperSG)
 
 
-[^12]: 
+[^13]: “Ceylon Cricketers for the Straits,” _Straits Budget_, 14 September 1901, 9. (From NewspaperSG)
 
 
-[^13]: 
+[^14]: “Ceylon Pioneer in Malaya,” _Pinang Gazette and Straits Chronicle_, 28 February 1940, 9. (From NewspaperSG)
 
 
-[^14]: 
+[^15]: “Ceylon Pioneer in Malaya”; “Ceylon Burghers Raise All-Malayan Cricket XI,” _Morning Tribune_, 19 March 1938, 3. (From NewspaperSG)
 
 
-[^15]: 
+[^16]: “The Assizes,” _Singapore Free Press and Mercantile Advertiser_, 12 September 1894, 3; “The Encouragement of Cricket,” _Straits Budget_, 18 September 1894, 2. (From NewspaperSG)
 
 
-[^16]: 
+[^17]: Scrutator, “The ‘Straits Times’ on Cricket and Eurasians,” _Pinang Gazette and Straits Chronicle_, 11 October 1894, 3. (From NewspaperSG)
 
 
-[^17]: 
+[^18]: “The Encouragement of Cricket.”&nbsp;
 
 
-[^18]: 
+[^19]: “Ceylon Pioneer in Malaya.”
 
 
-[^19]: 
+[^20]: Pat Zilwa, “Imperial Indian War Relief Fund,” _Straits Times_, 28 June 1917, 8; “First Burgher J.P.,” _Straits Budget_, 9 September 1926, 15; “Eurasians in Selangor”, _Straits Times_, 10 July 1932, 13; “Farewell Party: Retirement of Mr. Pat Zilwa,” _Malaya Tribune_, 26 June 1935, 9; “Fine Record of Service,” _Straits Times_, 2 July 1935, 5; “KL Loses Colourful Social Worker,” _Sunday Standard_, 10 January 1954, 4. (From NewspaperSG)
 
 
-[^20]: 
+[^21]: “The Ceylonese in Straits,” _Straits Times_, 2 July 1892, 5; “The Ceylonese Clerks of Malaya,” _Straits Times_, 23 July 1892, 2; “One of Them”, “Exchange Compensation,” _Straits Budget_, 18 June 1895, 14. (From NewspaperSG)
 
 
-[^21]: 
+[^22]: “The Memorial of the Eurasians in Government Service,” _Pinang Gazette and Straits Chronicle_, 5 June 1894, 3; “The Eurasian Civil Servants,” _Straits Budget_, 5 June 1894, 7. (From NewspaperSG)
 
 
-[^22]: 
+[^23]: A Burgher, “The Leave Question,” _Straits Times_, 26 August 1895, 3. (From NewspaperSG)
 
 
-[^23]: 
+[^24]: A Singhalese, “Untitled,” _Straits Times_, 2 September 1895, 3; A Singhalese, “The Leave Question,” _Straits Budget_, 3 September 1895, 14; A Tamil, “The Leave Question,” _Straits Budget_, 10 September 1895, 13; Ceylon Tamil, “The Leave Question,” _Straits Times_, 12 September 1895, 3. (From NewspaperSG)
 
 
-[^24]: 
+[^25]: A Burgher, “The Leave Question,” _Straits Budget_, 17 September 1895, 14. (From NewspaperSG)
 
 
-[^25]: 
+[^26]: “The Ceylonese Clerks of Malaya,” _Straits Times_, 23 July 1892, 2. (From NewspaperSG)
 
 
-[^26]: 
+[^27]: “A Sign of Progress,” _Straits Times_, 9 June 1919, 8. (From NewspaperSG)
 
 
-[^27]: 
+[^28]: T.C. Archer, “Eurasian Unity,” _Straits Times_, 14 June 1919, 11. (From NewspaperSG)
 
 
-[^28]: 
-
-
-[^29]: 
+[^29]: Hollandsche Burgher, “Eurasian Unity,” _Straits Times_, 17 June 1919, 8; R.V. Chapman, “Eurasian Unity,” _Straits Times_, 28 June 1919, 10. (From NewspaperSG)
