@@ -135,43 +135,43 @@ Today, the migration history of the Dutch Burghers is largely forgotten and only
 [^15]: “[Ceylon Pioneer in Malaya](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19400228-1.2.73)”; “[Ceylon Burghers Raise All-Malayan Cricket XI](https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19380319-1.2.117.15),” _Morning Tribune_, 19 March 1938, 3. (From NewspaperSG)
 
 
-[^16]: “The Assizes,” _Singapore Free Press and Mercantile Advertiser_, 12 September 1894, 3; “The Encouragement of Cricket,” _Straits Budget_, 18 September 1894, 2. (From NewspaperSG)
+[^16]: “[The Assizes](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb18940912-1.2.20),” _Singapore Free Press and Mercantile Advertiser_, 12 September 1894, 3; “[The Encouragement of Cricket](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget18940918-1.2.7.2),” _Straits Budget_, 18 September 1894, 2. (From NewspaperSG)
 
 
-[^17]: Scrutator, “The ‘Straits Times’ on Cricket and Eurasians,” _Pinang Gazette and Straits Chronicle_, 11 October 1894, 3. (From NewspaperSG)
+[^17]: Scrutator, “[The ‘Straits Times’ on Cricket and Eurasians](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette18941011-1.2.24),” _Pinang Gazette and Straits Chronicle_, 11 October 1894, 3. (From NewspaperSG)
 
 
-[^18]: “The Encouragement of Cricket.”&nbsp;
+[^18]: “[The Encouragement of Cricket](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget18940918-1.2.7.2).”&nbsp;
 
 
-[^19]: “Ceylon Pioneer in Malaya.”
+[^19]: “[Ceylon Pioneer in Malaya](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19400228-1.2.73).”
 
 
-[^20]: Pat Zilwa, “Imperial Indian War Relief Fund,” _Straits Times_, 28 June 1917, 8; “First Burgher J.P.,” _Straits Budget_, 9 September 1926, 15; “Eurasians in Selangor”, _Straits Times_, 10 July 1932, 13; “Farewell Party: Retirement of Mr. Pat Zilwa,” _Malaya Tribune_, 26 June 1935, 9; “Fine Record of Service,” _Straits Times_, 2 July 1935, 5; “KL Loses Colourful Social Worker,” _Sunday Standard_, 10 January 1954, 4. (From NewspaperSG)
+[^20]: Pat Zilwa, “[Imperial Indian War Relief Fund](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19170628-1.2.54),” _Straits Times_, 28 June 1917, 8; “[First Burgher J.P.](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19260909-1.2.52.7),” _Straits Budget_, 9 September 1926, 15; “[Eurasians in Selangor](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19320710-1.2.65)”, _Straits Times_, 10 July 1932, 13; “[Farewell Party: Retirement of Mr. Pat Zilwa](https://eresources.nlb.gov.sg/newspapers/digitised/article/maltribune19350626-1.2.71),” _Malaya Tribune_, 26 June 1935, 9; “[Fine Record of Service](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19350702-1.2.14),” _Straits Times_, 2 July 1935, 5; “[KL Loses Colourful Social Worker](https://eresources.nlb.gov.sg/newspapers/digitised/article/sundaystandard19540110-1.2.69),” _Sunday Standard_, 10 January 1954, 4. (From NewspaperSG)
 
 
-[^21]: “The Ceylonese in Straits,” _Straits Times_, 2 July 1892, 5; “The Ceylonese Clerks of Malaya,” _Straits Times_, 23 July 1892, 2; “One of Them”, “Exchange Compensation,” _Straits Budget_, 18 June 1895, 14. (From NewspaperSG)
+[^21]: “[The Ceylonese in Straits]()https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18920702-1.2.45,” _Straits Times_, 2 July 1892, 5; “[The Ceylonese Clerks of Malaya](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18920723-1.2.7),” _Straits Times_, 23 July 1892, 2; “One of Them”, “[Exchange Compensation](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget18950618-1.2.99.2),” _Straits Budget_, 18 June 1895, 14. (From NewspaperSG)
 
 
-[^22]: “The Memorial of the Eurasians in Government Service,” _Pinang Gazette and Straits Chronicle_, 5 June 1894, 3; “The Eurasian Civil Servants,” _Straits Budget_, 5 June 1894, 7. (From NewspaperSG)
+[^22]: “[The Memorial of the Eurasians in Government Service](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette18940605-1.2.21),” _Pinang Gazette and Straits Chronicle_, 5 June 1894, 3; “[The Eurasian Civil Servants](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget18940605-1.2.49),” _Straits Budget_, 5 June 1894, 7. (From NewspaperSG)
 
 
-[^23]: A Burgher, “The Leave Question,” _Straits Times_, 26 August 1895, 3. (From NewspaperSG)
+[^23]: A Burgher, “[The Leave Question](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18950826-1.2.46),” _Straits Times_, 26 August 1895, 3. (From NewspaperSG)
 
 
-[^24]: A Singhalese, “Untitled,” _Straits Times_, 2 September 1895, 3; A Singhalese, “The Leave Question,” _Straits Budget_, 3 September 1895, 14; A Tamil, “The Leave Question,” _Straits Budget_, 10 September 1895, 13; Ceylon Tamil, “The Leave Question,” _Straits Times_, 12 September 1895, 3. (From NewspaperSG)
+[^24]: A Singhalese, “[Untitled](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18950902-1.2.60),” _Straits Times_, 2 September 1895, 3; A Singhalese, “[The Leave Question](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget18950903-1.2.97.4),” _Straits Budget_, 3 September 1895, 14; A Tamil, “[The Leave Question](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget18950910-1.2.57.1),” _Straits Budget_, 10 September 1895, 13; Ceylon Tamil, “[The Leave Question](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18950912-1.2.39),” _Straits Times_, 12 September 1895, 3. (From NewspaperSG)
 
 
-[^25]: A Burgher, “The Leave Question,” _Straits Budget_, 17 September 1895, 14. (From NewspaperSG)
+[^25]: A Burgher, “[The Leave Question](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget18950917-1.2.83.3),” _Straits Budget_, 17 September 1895, 14. (From NewspaperSG)
 
 
-[^26]: “The Ceylonese Clerks of Malaya,” _Straits Times_, 23 July 1892, 2. (From NewspaperSG)
+[^26]: “[The Ceylonese Clerks of Malaya](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes18920723-1.2.7),” _Straits Times_, 23 July 1892, 2. (From NewspaperSG)
 
 
-[^27]: “A Sign of Progress,” _Straits Times_, 9 June 1919, 8. (From NewspaperSG)
+[^27]: “[A Sign of Progress](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19190609-1.2.22),” _Straits Times_, 9 June 1919, 8. (From NewspaperSG)
 
 
-[^28]: T.C. Archer, “Eurasian Unity,” _Straits Times_, 14 June 1919, 11. (From NewspaperSG)
+[^28]: T.C. Archer, “[Eurasian Unity](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19190614-1.2.74.2),” _Straits Times_, 14 June 1919, 11. (From NewspaperSG)
 
 
-[^29]: Hollandsche Burgher, “Eurasian Unity,” _Straits Times_, 17 June 1919, 8; R.V. Chapman, “Eurasian Unity,” _Straits Times_, 28 June 1919, 10. (From NewspaperSG)
+[^29]: Hollandsche Burgher, “[Eurasian Unity](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19190617-1.2.68.2),” _Straits Times_, 17 June 1919, 8; R.V. Chapman, “[Eurasian Unity](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19190628-1.2.62.1),” _Straits Times_, 28 June 1919, 10. (From NewspaperSG)
