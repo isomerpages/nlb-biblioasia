@@ -33,6 +33,9 @@ Once in Malaya, he succeeded in locating his father, but did not receive the war
 
 According to various witnesses, Julian had, in turn, complained about a lack of respect from Eric who appeared out of the blue. He had planned to take out a loan of $75 to cover Eric’s boat passage back to Ceylon.[^11] However, before this could materialise, the resentful son’s wounded pride and filial hate drove him to a desperate act of vengeance for which he would pay with his life. The _Straits Times_, which covered the progress of the trial in a series of colourful articles, soberly reported on 28 October 1932 that “the 22-year-old Ceylon Burgher, who was found guilty of the murder of his father and stepmother in Johore on June 25 was hanged”.[^12]
 
+![](/images/Vol%2021%20Issue%203/Dutch%20Burghers/burghers_article.jpg)
+<div style="background-color:white;"> Eric McHeyzer was found guilty of the murder of his father and stepmother.  <i>Source: The Straits Times © SPH Media Limited. Permission required for reproduction.</i></div>
+
 #### **Migration to Malaya**
 
 This tragic and gruesome story sheds light on a broader transimperial conduit of migration between Ceylon and British Malaya. The McHeyzers were not the only Dutch Burghers who crossed the Bay of Bengal in search of better employment opportunities or a new life.
@@ -55,6 +58,9 @@ However, this sport-centred recruitment policy had its detractors and became a t
 Letters published in the newspapers questioned the need to recruit clerks from Ceylon in view of the availability of local labour, and some alleged that the Christoffelsz case was representative of the state of the Selangor government.[^17] One commentator even suggested that the government had become a “bloated bureaucracy of lazy pleasure-seekers” that “created lucrative sinecures for minions who minister to the idle vanity of athletics by deputy”.[^18]
 
 The Christoffelsz case was, however, an isolated one and hardly representative of the trajectory of Burghers who joined the ranks of government in British Malaya on account of their sporting abilities. Allan Jumeaux, for example, steadily advanced through the ranks of the Perak Public Works Department and was awarded, upon his retirement in 1929, the Imperial Service Medal in acknowledgement of his distinguished career.[^19]
+
+![](/images/Vol%2021%20Issue%203/Dutch%20Burghers/burghers_pat.jpg)
+<div style="background-color:white;">Pat Zilwa, the first Burgher to be made a Justice of Peace. <i>Image reproduced from “First Burgher J.P.,” Straits Budget, 9 September 1926, 15. (From NewspaperSG).</i></div>
 
 Many of these young Burgher pioneers bore old Dutch surnames such as Van Cuylenburg, Koelmeyer, Ferdinands, Felsinger and Christoffelsz, which were reminiscent of the days when Ceylon was a colony governed by the Dutch East India Company. But there were also young men with a Burgher background whose names were distinctly French (Jumeaux for instance) or Portuguese, such as Pat Zilwa, who transferred from Colombo to Selangor to take up a bank clerkship in Kuala Lumpur.&nbsp;
 
