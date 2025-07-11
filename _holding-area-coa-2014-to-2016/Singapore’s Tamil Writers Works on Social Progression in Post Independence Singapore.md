@@ -620,8 +620,9 @@ Viramani A வீரமணி, ஏ. _Turita māṟṟam kāṇum camutāyattil i
 #### **APPENDIX I**
 ***Extracts in Original (Tamil) From the Works of Writers Cited in Singapore Tamil Writers***
 
-
-
+|References|Extracts in Tamil|
+| -------- | -------- |
+|References 6|“தமிழ்ர் சமுதாயத்தை பாதித்த நாட்டு உருவாக்கத்<br>திட்டங்களில் மூன்றினை சிறப்பாகக் குறிப்பிடலாம்.<br>  |
 
 | References | Extracts in Tamil | 
 | -------- | -------- | 
