@@ -91,48 +91,48 @@ Today, the migration history of the Dutch Burghers is largely forgotten and only
 
 #### **Notes**
 
-[^1]: “Double Tragedy in Johore,” _Straits Times_, 13 July 1932, 12; “Death Sentence in Johore Trial,” _Straits Times_, 2 August 1932, 12. (From NewspaperSG)
+[^1]: “[Double Tragedy in Johore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19320713-1.2.51),” _Straits Times_, 13 July 1932, 12; “[Death Sentence in Johore Trial](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19320802-1.2.63),” _Straits Times_, 2 August 1932, 12. (From NewspaperSG)
 
-[^2]: “Murder in Johore: Man and Woman Found Stabbed,” _Straits Times_, 27 June 1932, 6. (From NewspaperSG)
-
-
-[^3]: “Double Tragedy in Johore.”
+[^2]: “[Murder in Johore: Man and Woman Found Stabbed](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19320627-1.2.14),” _Straits Times_, 27 June 1932, 6. (From NewspaperSG)
 
 
-[^4]: “I am Going to Kill My Father,” _Straits Budget_, 21 July 1932, 14. (From NewspaperSG); “Death Sentence in Johore Trial.”
+[^3]: “[Double Tragedy in Johore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19320713-1.2.51).”
 
 
-[^5]: “Double Tragedy in Johore”; “Death Sentence in Johore Trial.”
+[^4]: “[I am Going to Kill My Father](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19320714-1.2.63),” _Straits Budget_, 21 July 1932, 14. (From NewspaperSG); “[Death Sentence in Johore Trial](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19320802-1.2.63).”
 
 
-[^6]: “Death Sentence in Johore Trial”; “I am Going to Kill My Father.”
+[^5]: “[Double Tragedy in Johore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19320713-1.2.51)”; “[Death Sentence in Johore Trial](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19320802-1.2.63).”
 
 
-[^7]: “Death Sentence in Johore Trial.”
+[^6]: “[Death Sentence in Johore Trial](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19320802-1.2.63)”; “[I am Going to Kill My Father](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19320714-1.2.63).”
 
 
-[^8]: “Death Sentence in Johore Trial.”
+[^7]: “[Death Sentence in Johore Trial]](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19320802-1.2.63).”
 
 
-[^9]: “Double Tragedy in Johore”; “Death Sentence in Johore Trial.” &nbsp;
+[^8]: “[Death Sentence in Johore Trial](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19320802-1.2.63).”
 
 
-[^10]: “Death Sentence in Johore Trial.” &nbsp;
+[^9]: “[Double Tragedy in Johore](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19320713-1.2.51)”; “[Death Sentence in Johore Trial](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19320802-1.2.63).” &nbsp;
 
 
-[^11]: “I am Going to Kill My Father.”&nbsp;
+[^10]: “[Death Sentence in Johore Trial](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19320802-1.2.63).” &nbsp;
 
 
-[^12]: “Murderer Hanged,” _Straits Times_, 28 October 1932, 6. (From NewspaperSG)
+[^11]: “[I am Going to Kill My Father](file:///C:/Users/nlbnlms/Desktop/Santa_2025/Stephanie/2025/Oct-Dec 2025/I am Going to Kill My Father).”&nbsp;
 
 
-[^13]: “Ceylon Cricketers for the Straits,” _Straits Budget_, 14 September 1901, 9. (From NewspaperSG)
+[^12]: “[Murderer Hanged](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19321028-1.2.21),” _Straits Times_, 28 October 1932, 6. (From NewspaperSG)
 
 
-[^14]: “Ceylon Pioneer in Malaya,” _Pinang Gazette and Straits Chronicle_, 28 February 1940, 9. (From NewspaperSG)
+[^13]: “[Ceylon Cricketers for the Straits](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsbudget19010914-1.2.53),” _Straits Budget_, 14 September 1901, 9. (From NewspaperSG)
 
 
-[^15]: “Ceylon Pioneer in Malaya”; “Ceylon Burghers Raise All-Malayan Cricket XI,” _Morning Tribune_, 19 March 1938, 3. (From NewspaperSG)
+[^14]: “[Ceylon Pioneer in Malaya](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19400228-1.2.73),” _Pinang Gazette and Straits Chronicle_, 28 February 1940, 9. (From NewspaperSG)
+
+
+[^15]: “[Ceylon Pioneer in Malaya](https://eresources.nlb.gov.sg/newspapers/digitised/article/pinangazette19400228-1.2.73)”; “[Ceylon Burghers Raise All-Malayan Cricket XI](https://eresources.nlb.gov.sg/newspapers/digitised/article/morningtribune19380319-1.2.117.15),” _Morning Tribune_, 19 March 1938, 3. (From NewspaperSG)
 
 
 [^16]: “The Assizes,” _Singapore Free Press and Mercantile Advertiser_, 12 September 1894, 3; “The Encouragement of Cricket,” _Straits Budget_, 18 September 1894, 2. (From NewspaperSG)
