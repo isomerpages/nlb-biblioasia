@@ -66,6 +66,11 @@ Many of these young Burgher pioneers bore old Dutch surnames such as Van Cuylenb
 
 In the course of a long and meritorious career, Zilwa distinguished himself as an exemplary public servant and was the first Ceylonese Burgher in Malaya to be made a Justice of Peace in 1926 and the recipient of the Malayan Certificate of Honour upon his retirement in 1935. Zilwa also left his mark on Selangor society and was an indefatigable organiser involved in various associations and charities, acting as president of the Selangor Recreation Club, vice-president of the Selangor Boy Scouts, honorary steward of the Selangor Turf Club and treasurer of the Selangor Football Association. He was also one of the founders of the Kuala Lumpur Rotary Club and the driving force behind the Imperial Indian War Relief Fund, which collected donations to alleviate the suffering of the thousands of Indian soldiers who had been maimed for life fighting under the banner of the Union Jack during the First World War.[^20]
 
+
+![](/images/Vol%2021%20Issue%203/Dutch%20Burghers/burghers_kl.jpg)
+<div style="background-color:white;"> A photograph of government offices in Kuala Lumpur, Selangor, by G.R. Lambert, c. 1900. By the late 19th century, these government offices housed the entire administration of the Federated Malay States and the Selangor State Government. There were many Dutch Burghers working in these offices.  <i>From Leiden University Libraries, the Netherlands.</i></div>
+
+
 #### **Lure of the Homeland**
 
 Pat Zilwa exemplified the trajectory of Ceylonese Burghers who fully integrated into Malayan society and never looked back. But there were also young men who continued to feel the pull of their homeland and wished to visit family or find a suitable marriage partner in the Burgher community. This presented a problem because subordinate government clerks were only entitled to two weeks of annual leave, which practically prevented Ceylonese and Indian employees from making the journey by steamship that alone would take a fortnight.&nbsp;
