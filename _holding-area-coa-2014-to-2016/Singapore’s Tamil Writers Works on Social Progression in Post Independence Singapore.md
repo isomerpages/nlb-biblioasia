@@ -7,8 +7,6 @@ description: ""
 ---
 #### **Introduction**
 
-     
-
 As a Chinese adage goes, “the sparrow though small, has all five organs”.
 Nothing could be truer than this for Tamil writing in Singapore – though
 the number of Tamil literary works produced might be small compared
@@ -619,15 +617,15 @@ Tan, Tin Wee. “Naa Govindasamy, Tamil Computing and Tamil Internet: Quest for 
 
 Viramani A வீரமணி, ஏ. _Turita māṟṟam kāṇum camutāyattil iḷam peṇkaḷ_ [துரித மாற்றம் காணும் சமுதாயங்களில் இளம் பெண்கள்](https://eservice.nlb.gov.sg/redir/itemdetails?bid=10474742) \[Young women in rapidly changing societies\]. சிங்கப்பூர்: சிங்கப்பூர் தமிழ் இளைஞர் மன்றம், 1996. (From National Library Singapore, call no. Tamil RSEA 305.48 THU)
 
-#### **APPENDIX II**
-<b> <i>Chart and Tables Cited in Singapore Tamil Writers </i></b><i> </i>
+#### **APPENDIX I**
+***Extracts in Original (Tamil) From the Works of Writers Cited in Singapore Tamil Writers***
 
 
 
-<b>Reference 34</b>
+| Column 1       |   Column 2 | 
+| --------         | --------      | 
+| Reference 6  | “தமிழ்ர் சமுதாயத்தை பாதித்த நாட்டு உருவாக்கத்    திட்டங்களில் மூன்றினை சிறப்பாகக் குறிப்பிடலாம். பொது  வீடமைப்புத் திட்டம், தேசிய கல்வித் திட்டம் துரித மாற்றத்தைத் தன்னகத்தே கொண்டே பொருளாதாரத் திட்டம் ஆகிய மூன்றும் தமிழர்கள் வாழ்க்கையை முழுமையாக மாற்றியமைத்துள்ளன”
+                                                   - முதல் படி: அனைத்துலக அரங்கில் தமிழ் 
+													என்ற நூலில் முனைவர் அ.வீரமணி (பக். 189)| 
 
 
-
-
-
-![](
