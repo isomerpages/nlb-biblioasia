@@ -112,7 +112,7 @@ Today, the migration history of the Dutch Burghers is largely forgotten and only
 
 
 <div style="background-color: white;">
-<img style="width: 100px; height: 100px;" src="/images/Authors/DrJohnBray72.png">
+<img style="width: 100px; height: 100px;" src="/images/Authors/YorimSpoelder.png">
 <b>Dr Yorim Spoelder</b> is a historian affiliated with the Freie Universität Berlin and a former recipient of the Lee Kong Chian Research Fellowship (2024). He is the author of <i>Visions of Greater India: Transimperial Knowledge and Anti-Colonial Nationalism, c. 1800–1960</i> (winner of the 2024 EuroSEAS Humanities Book Prize). He is currently working on a transimperial and comparative history of the identity and politics of Eurasian communities in British India, Ceylon, the Straits Settlements and the Dutch East Indies. </div>
 
 #### **Notes**
