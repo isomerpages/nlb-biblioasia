@@ -649,3 +649,81 @@ Viramani A வீரமணி, ஏ. _Turita māṟṟam kāṇum camutāyattil i
 | Reference 55 |“கதிரேசன் பணி ஓய்வு பெற்றவுடனேயே மத்திய<br>ஷேமநிதிக் கழுத்திலிருந்துப் பணத்தை எடுத்துப்<br> பங்குகள் வாங்குவதில் மும்முரமாக ஈடுபட்டார். சில<br> வேளைகளில் பங்குத் தரகர் அறிவுரையையும் மீறி<br>ஏதேதோ பங்குகளையெல்லாம் வாங்கினர். தன்<br>முதலீட்டில் பெருமையும் மன நிறைவும் கொண்டார்<br>கதிரேசன். ஆனால் அவை ஐந்தே மாதத்தில் சிதறிச்<br>சின்னாபின்னமாகிவிட்டன. 1987ல் ஆம் ஆண்டு<br>சிங்கப்பூர் பங்குச் சந்தையில் பங்குகள் எல்லாம்<br>அடிமட்டத்திற்குப்போய் சரிந்து வீழ்ந்த போது<br> கதிரேசனின் இதயமும் சரிந்து வீழ்ந்தது. மாரடைப்பால்<br>அவர் முடங்கிப் போனார்”<br><br>   - புதுமைதாசன் கதைகள் என்ற நூலில் உள்ள ஓய்வு<br>   என்ற சிறுகதையில் புதுமைதாசன் (பி.கிருஷ்ணன்)|
 | Reference 57 |“எங்கள் கட்டிடத்தின் அருகில் என்னுடன் வேலை<br>செய்யும் பரிச்சயமான முகங்கள் தென்பட்டன. அங்கிருந்த<br> இருக்கையில் வேலரி அமர்ந்து மூக்கைச் சிந்திக்<br> கொண்டும் விசும்பிக் கொண்டும் இருந்தாள். அங்கே<br> அவளைத் தேற்றிக் கொண்டிருந்த மெரியின் அருகில்<br> சென்று என்னவென்று விசாரித்தேன். அதை ஏங்கேகிற<br> செல்வி. அவ குயிருக்கிற அறையை நாளைக்கே காலி<br> செய்யச் சொல்லிட்டானாம் வீட்டுக்காரன். அவ கூட<br> தங்கியிருக்கிற மற்றவங்களை ஒண்ணும் சொல்லல. இவ<br> மட்டும்தானே நர்ஸா இருக்கா.”<br><br>    - ஜெயந்தி சங்கர் சிறுகதைகள் என்ற நூலில் உள்ள<br>    முகங்கள் சிறுகதையில் ஜெயந்தி சங்கர் (பக். 589)|
 
+
+#### **APPENDIX III**
+***Encouraging Young Readers to Read Tamil Works and Develop New Content***
+
+In this present age of social media and instant gratification, encouraging
+young people to read is of utmost concern to education professionals and
+parents worldwide. In Singapore, as English is the medium of instruction
+in schools and commonly spoken in households, it has been challenging to
+encourage young and adolescent readers to read Tamil literary works.
+
+Singapore has mitigated this challenge to some extent by digitising most
+of the works published in the past 50 years. Thus, this computer-savvy
+generation can easily access these books on their mobile devices.
+
+However, the greater part of the problem is not access to books, but in the
+youths’ ability to relate to the themes and content of the works. These young
+people feel that the issues they are most concerned about, such as admission
+to higher education, career growth, parental and teacher authority, and
+romantic relationships, are not reflected in these works.
+
+Solutions must emerge from both the community and individual.
+
+***Cultivating the Reader***
+
+Reading is a matter of habit and matures over time. Thus, the seed of love
+for reading should be sown at an early age. Here are some suggestions for
+doing so:
+
+Leisure reading must be differentiated from classroom reading. The former
+is reading for pleasure, while the latter is an academic exercise. Hence, if
+students are asked to read a storybook in a classroom setting, it may detract
+from the pleasure of the activity and eventually distance the student from
+reading altogether. In order to cultivate the reading habit, teachers could
+organise storytelling sessions in a way that the story is partially revealed to
+arouse curiosity and students then encouraged to visit the library to discover
+the rest of the tale from the book.
+
+“Literature” should not be pushed down students’ throats. Thrillers and
+fantasies, or even romantic stories, such as Mills &amp; Boon novels, may be the
+best starting points for emerging readers. Once “hooked”, these readers can
+be encouraged to look for other, more “serious” titles.
+
+Book clubs in schools or at libraries can also be set up. Students can
+meet once a fortnight to participate in simple reading sessions and lively
+discussions about the stories. The selected story need not be a “classic”
+and there should be no lectures about its literary “worthiness”. Along
+with so-called proper books, “trashy” works may also be permitted so that
+students can learn to discern the difference in writing quality.
+
+Reading should also be incentivised. Schools could consider setting up a
+Facebook page or Instagram account to share good reads through pictures
+and short reviews. Such books may also be mentioned at reading festivals or
+on National Reading Day. At present, these festivals celebrate the writers,
+but they should celebrate the readers as well. Schools may also consider
+holding their reading events in conjunction with institutions such as the
+National Library Board, National Book Development Council of Singapore
+(NBDCS), as well as other schools.
+
+***Grooming the Writer***
+
+Some say writers are born, not created. However, writing skills may be honed
+through mentoring and peer review. A mentor does not need to be a “popular”
+writer or one with many accolades. In my opinion, inviting celebrated writers
+just to conduct one-day or two-hour workshops is not as useful in the long
+run as a dedicated mentor, even online, who can gently but firmly guide the
+mentee in tightening their writing and cultivating a personal style.
+
+Sensitising the budding writer to the issues around him – cultural, social,
+familial, political – is important, as they are fodder for thought and may
+become triggers for writing. This aim can be achieved in group discussions,
+debates and other learning sessions.
+
+While some writers write for financial gain, others do so for recognition,
+such as in the form of awards and publishing contracts. In Singapore,
+opportunities for print publishing in Tamil are limited. Writers can explore
+publishing their works in online journals, which has the potential for greater
+reach at lower cost.
+
