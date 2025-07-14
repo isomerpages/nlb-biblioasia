@@ -670,9 +670,9 @@ Wylie, A. [_Memorials of Protestant Missionaries to the Chinese: Giving a List o
 
 Chan, Fook Weng, Ang Seow Leng, Noryati Abdul Samad and Ong Eng Chuan, eds.&nbsp; [_Catalogue of Rare Materials in Lee Kong Chian Reference Library_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12995119). Singapore National Library Board, 2008. (Call no. R 016.95 CAT-\[LIB\])
 
-Proudfoot, Ian. [_Early Malay Printed Books: A Provisional Account of Materials Published in the Singapore-Malaysia Area up to 1920, Noting Holdings in Major Public Collections_](https/eservice.nlb.gov.sg/redir/itemdetails?bid=6712616). Kuala Lumpur: Academy of Malay Studies and the Library of Malaya, University of Malaya. (Call no. RSING 015.5957 PRO-\[LIB\])
+Proudfoot, Ian. [_Early Malay Printed Books: A Provisional Account of Materials Published in the Singapore-Malaysia Area up to 1920, Noting Holdings in Major Public Collections_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=6712616). Kuala Lumpur: Academy of Malay Studies and the Library of Malaya, University of Malaya. (Call no. RSING 015.5957 PRO-\[LIB\])
 
-Salmon, Claudine. “Writings in Romanized Malay by the Chinese of Malaya: A Preliminary Inquiry.” In [_Literary Migrations: Traditional Chinese Fiction in Asia, edited by Claudine Salmon_](https/eservice.nlb.gov.sg/redir/itemdetails?bid=200182446). Singapore: Institute of Southeast Asian Studies, 2013, 278–314. (Call no. RSING 895.134809 LIT)
+Salmon, Claudine. “Writings in Romanized Malay by the Chinese of Malaya: A Preliminary Inquiry.” In [_Literary Migrations: Traditional Chinese Fiction in Asia, edited by Claudine Salmon_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200182446). Singapore: Institute of Southeast Asian Studies, 2013, 278–314. (Call no. RSING 895.134809 LIT)
 
 Tan, Bonny, Ang Seow Leng and Noryati A. Samad, ed. [_A Baba Bibliography: A Select Annotated Listing of Sources on the Peranakan Chinese in Singapore and Malaysia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12830677). Singapore: National Library Board, 2007. (Call no. RSING 016.30589510595 BAB-\[LIB\])
 

@@ -536,7 +536,7 @@ Bouse, Derek. [_Wildlife_ Films](https://eservice.nlb.gov.sg/redir/itemdetails?b
 
 Braddell, Roland St. John. [_The Lights of Singapore_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4499990). 3rd ed. London: Methuen, 1935, 122. (From National Library Singapore, call no. RCLOS 959.57 BRA)
 
-Buccione, R. “The Road to Singapore.” (blog), Macguffinmovies, 30 January 2012.&nbsp; Accessed 30 May 2013, [http://macguffinmovies.wordpress.com/2012/01/30/the-road-tosingapore/](http://macguffinmovies.wordpress.com/2012/01/30/the-road-tosingapore/)
+Buccione, R. “The Road to Singapore.” (blog), Macguffinmovies, 30 January 2012.&nbsp; Accessed 30 May 2013, [http://macguffinmovies.wordpress.com/2012/01/30/the-road-to-singapore/](http://macguffinmovies.wordpress.com/2012/01/30/the-road-to-singapore/)
 
 Buck, Frank and Ferrin L. Fraser. _All in a Lifetime_. New York: R. M. McBride &amp; Company, 1941.
 
@@ -596,7 +596,7 @@ Tan, Fiona. “Four Accounts of a Shooting” (blog), Malaya Black and White, 10
 
 _Singapore Free Press and Mercantile Advertiser (1884–1942)_. “[The Film Invasion](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19360320-1.2.58.2).” 20 March 1936, 8. (From NewspaperSG)
 
-Toh, Hun Ping. _Singapore Film Locations Archives_. Accessed 21 July 2016. [https://sgfilmlocations.com](https://sgfilmlocations.com).
+Toh, Hun Ping. _Singapore Film Locations Archives_. Accessed 21 July 2016. [https://www.pic-hub.org/en/post/singapore-film-locations-archive](https://www.pic-hub.org/en/post/singapore-film-locations-archive).
 
 —. _Trade Winds_. 1938. Accessed 10 May 2016. https://sgfilmlocations.com/2014/08/08/trade-winds-1938.
 

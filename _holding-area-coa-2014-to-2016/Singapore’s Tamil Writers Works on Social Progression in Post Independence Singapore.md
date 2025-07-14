@@ -18,13 +18,13 @@ from back home in India.
 
 The first collection of poetry from Singapore as well as the region written
 in Tamil, *Munajattut Tirattu*, was printed at J. Paton Government Printer
-in Singapore in 1872.1 *Singai Vartamani*, the first Tamil newspaper in the
-Malay Peninsula, appeared in Singapore in 1875.2 The first anthology of
+in Singapore in 1872.[^1] *Singai Vartamani*, the first Tamil newspaper in the
+Malay Peninsula, appeared in Singapore in 1875.[^2] The first anthology of
 Tamil short stories, *Navarasa Katha Manjari*, was published in Singapore
-in 1930.3 Singapore was the first in the world to launch, on the Internet, an anthology of poems in all four official languages, called Poemnet. In
+in 1930.[^3] Singapore was the first in the world to launch, on the Internet, an anthology of poems in all four official languages, called Poemnet. In
 October 1995, then-president of Singapore Ong Teng Cheong launched the
 anthology *Journey: Words, Home and Nation – Anthology of Singapore Poetry
-(1984–1995)* on Poemnet.4
+(1984–1995)* on Poemnet.[^4]
 
 Tamil writing in Singapore also portrays changing social realities. “Kudirai
 Pandhya Lavani”, a 1893 folk-style poem about horse racing in the country,
@@ -48,7 +48,7 @@ original quotes in Tamil have been listed in Appendix I.
 
 #### **Becoming an Independent Nation**
 Unlike many countries in Asia that fought bitterly for independence,
-Singapore became a republic like a “bolt from blue”5 on 9 August 1965. The
+Singapore became a republic like a “bolt from blue”[^5] on 9 August 1965. The
 country remembers the historic press conference during which founding Prime Minister Lee Kuan Yew was in tears as he announced Singapore’s
 separation from the Federation of Malaysia.
 
@@ -59,21 +59,21 @@ forces. The determined work and far-sighted intelligence of the founding
 cabinet brought about considerable improvements in the lives of many
 Singaporeans. According to well-known sociologist Dr A. Veeramani, the
 three major initiatives that transformed the lives of Singaporeans were
-“housing, education and the rapid pace of economic growth”.6
+“housing, education and the rapid pace of economic growth”.[^6]
 
 At first, the local media and communities believed that the separation was
 merely a miscommunication and that Singapore would eventually re-join
-Malaysia.7 Later, as reality sank in, poets produced works praising Singapore
+Malaysia.[^7] Later, as reality sank in, poets produced works praising Singapore
 and its leadership.
 
 K. Perumal produced 133 songs and poems about the new nation in
-*Singapore Padalkal (Hymns on Singapore)*.8 In the book’s preface, V.T. Arasu
+*Singapore Padalkal (Hymns on Singapore)*.[^8] In the book’s preface, V.T. Arasu
 says, “Out and out all the songs are on Singapore. Yet the poet has not
 drowned the songs on the description of the landscape and in exaggeration.
 
-On the contrary, he points out the basic values of Singapore.”9
+On the contrary, he points out the basic values of Singapore.”[^9]
 Paranan, a 1986 S.E.A. Write Award winner, devoted 19 out of 100 poems to
-praising the republic in his collection *Thoni (Boat)*.10
+praising the republic in his collection *Thoni (Boat)*.[^10]
 
 National Day has been particularly inspiring for poets. During the country’s
 10th anniversary, 1986 Cultural Medallion winner Na. Palanivelu wrote a
@@ -85,12 +85,12 @@ eulogy, “Kadamai” (“Duty”):
    Our Singapore emerges like a diamond radiating in all directions<br> 
    Telling for the splendour and affluence of the land<br> 
    Let us put our earnest resolve to prosper further<br> 
-   This is our duty*11
+   This is our duty*[^11]
 
 Poet Naa. Aandeappan describes Singapore as a “classy diamond / in the
-saline sea” in “Uyarthara Vairam” (“Classy Diamond”).12 In a similar
+saline sea” in “Uyarthara Vairam” (“Classy Diamond”).[^12] In a similar
 fashion, poet Pichinikkadu Elango symbolises “Singapore as golden plate
-floating in deep sea” in his work “August 9”.13
+floating in deep sea” in his work “August 9”.[^13]
 
 #### **From Kampong to HDB**
 As Singapore underwent rapid urbanisation, several hundred *kampong*
@@ -98,7 +98,7 @@ As Singapore underwent rapid urbanisation, several hundred *kampong*
 just two years, the Housing Board (HD B) had built 26,168 flats, almost
 equalling the number of units its predecessor, the Singapore Improvement
 Trust (SIT ), built in 32 years. By the end of 1965, its tally exceeded 50,000
-units.14 In only nine years, some 150,000 people had been resettled.15
+units.[^14] In only nine years, some 150,000 people had been resettled.[^15]
 
 For many Singaporeans, the relocation from rickety attap houses with no
 electricity to concrete blocks with tiled floors was a journey from a primitive
@@ -114,16 +114,16 @@ arriving at a new flat:
    floor? That is our house. Maragatham also got a flat close to us,” said<br>
    Muthammal, walking towards the elevator. The flat looked nice. Floors<br>
    were paved with tiles. The kitchen looked clean and neat. Peeping into<br>
-   the kitchen, Velu expressed his surprise, “Is this our kitchen?”* 16
+   the kitchen, Velu expressed his surprise, “Is this our kitchen?”* [^16]
 	 
 Like Velu in Elangkannan’s story, many Tamil poets were excited about
 the new high-rise apartments, which softened the pains of relocation.
 Na. Palanivelu, recipient of the Cultural Medallion, claimed in his poems
 that the old miseries had vanished like a dream when he moved into his
-HD B flat.17 K.T.M. Iqbal, an eminent poet and recipient of both the S.E.A.
+HD B flat.[^17] K.T.M. Iqbal, an eminent poet and recipient of both the S.E.A.
 Write Award and Cultural Medallion, was fascinated by the cloud-kissing
-skyscrapers.18 Paranan, another veteran poet, seemed even more awestruck
-by tall residential flats that blocked the sun.19
+skyscrapers.[^18] Paranan, another veteran poet, seemed even more awestruck
+by tall residential flats that blocked the sun.[^19]
 
 C. Kumarasami, a veteran Tamil activist, describes the misery of living in
 cramped quarters in “Life in Pasir Panjang”:
@@ -135,7 +135,7 @@ cramped quarters in “Life in Pasir Panjang”:
    room. And there were no cots to sleep in. Every family had four or five<br>
    children. Like seeds arranged in a pod, all of them slept next to each<br>
    other. Yet efforts for procreating another child was also initiated in<br>
-   that milieu*.20
+   that milieu*.[^20]
 
 Perhaps more importantly, there was less fear. The *kampongs* were rife with
 gangsters, whom landlords often hired to evict tenants. Former Member
@@ -644,3 +644,201 @@ Viramani A வீரமணி, ஏ. _Turita māṟṟam kāṇum camutāyattil i
 | Reference 47 |“ஒரு அழகான உப்பு மொம்மை இருந்துச்சி. அதுக்கு<br>ரொம்ப நாளா தான் யாருனு தெரியலை. அதனால காடு<br>மேடெல்லாம் அலைஞ்சிச்சி. ஆயிரக்கணக்கான மைல்<br>தாண்டிஇ ஒரு நாளு கடல் முன்னால் வந்து நின்னுச்சி.<br> அதுக்கு ரொம்ப அதிசயமா இருந்திச்சு. யப். பா!<br>இவ்வளவு பெரிய அலைகளானு ஆச்சரியப்பப்ட்டுப் போய்<br>கண்கொட்டாம கவனிச்சிக்கிட்டே இருந்தது. ஏய் யாரு நீ...<br> உப்பு பொம்மைக் கடலைக் கேட்டுச்சு கடல் சிரிச்சது.<br> சிரிச்சிக்கிட்டே... உள்ளே வந்து பாரேன் நான் யாருன்னு<br> தெரியும்னு சிரிச்சது. உப்பு மொம்மையும் தைரியமா<br> கடலுக்குள்ள இறங்கி நடந்துச்சு கடைசியில் அதோட<br> வாய்மட்டும் இருந்துச்சு. இப்பதான் யாருனு தனக்கே<br> தெரிஞ்சுதுன்னு சொல்லிக்கிட்டே ஒரு”<br><br> - தலாக் என்ற நூலில் இளங்கோவன் (பக். 57–58)|
 | Reference 48 |“ஒரு பெண் ஓர் ஆணோடு மணவாழ்வில் இணையும்<br>போது அவ தன்னுடைய தனித்தன்மையையும்<br>rசுதந்திரத்தையும் இழக்கறதாக நான் கருதறேன்.<br>ஆண்களின் ஆதிக்கத்தில் இருக்கும் இந்த சமூக<br>அமைப்புஇ ஆண்டாண்டு காலமாகவே பெண்களை<br> ஒரு போகப் பொருளாகவே பயன்படுத்தி வந்திருக்கு.<br>ஆண்களும் பெண்களைத் தங்கள் நலனுக்காகவே<br>பயன்படுத்திக் கொண்டிருக்கின்றனர். இப்போதுள்ள<br>திருமணச் சட்டங்களும் ஆண்களின் நலனை கிடக்கிற<br>இந்த சமூக அமைப்பு மாறினால்தான் பெண்களுக்கு<br>விமோசனம்.”<br><br>   - தேடி என்ற நூலில் உள்ள அமைப்பு என்ற<br>   சிறுகதையில் நா. கோவிந்தசாமி (பக்; 76–77)|
 | Reference 51 |“கார்த்திக் தான் தற்போது நூற்பத்தொரு வயதில்<br>நெட்டைமரமாய் ஒற்றையாய் நிற்கிறேன். என்னை என்<br>வாழ்வின் வெறுமை வாட்டுகிறது”<br><br>     - கண்ணாடி நினைவுகள் என்ற நூலில் உள்ள <br>   கோலங்கள் என்ற சிறுகதையில் சீதாலட்சுமி (பக். 115)|
+| Reference 52 |“உறவுகளை உருவாக்குவதும் பலப்படுத்துவதும்<br>அன்புதான் என்று நினைத்திருந்தேன். இல்லை<br>புரிதல்தான். அது இல்லை என்றால் அன்பு கூடச்<br> சரியாகப் புரியாது. காதலர்கள் பொய்த்துப் போவதும்இ<br> திருமண வாழ்கை முறிந்து போவதும்இ சகோதரப்<br>பாசம் குன்றிப் போவதும்இ நட்பு முறிவதுமுஇ சரியான<br>புரிதல் இல்லாமைதான்”<br><br>   - மூன்றாவது கை என்ற நூலில் உள்ள பேசாமொழி<br>   என்ற சிறுகதையில் ஷாநவாஸ் (பக்; 84)|
+| Reference 54 |“தம்பி எங்களைப் போன்ற தொழிலாளியின் மகனாகப்<br>பொறந்துஇ பெரிய கிராணிக்கு அடுத்தபடியான பெரும்<br>பதவியான ஆபீசுக் கிராணியாயிட்டீங்க. அதற்குப்<br> பாராட்டுத் தெரிவித்து விட்டுப் போகலாம்னுதான்<br> வந்தோம”<br><br>   - என்னதான் செய்வது என்ற நூலில் உள்ள இப்படியும்<br>   ஒரு பொழைப்பு என்ற சிறுகதையில் பொன் (பக். 72)|
+| Reference 55 |“கதிரேசன் பணி ஓய்வு பெற்றவுடனேயே மத்திய<br>ஷேமநிதிக் கழுத்திலிருந்துப் பணத்தை எடுத்துப்<br> பங்குகள் வாங்குவதில் மும்முரமாக ஈடுபட்டார். சில<br> வேளைகளில் பங்குத் தரகர் அறிவுரையையும் மீறி<br>ஏதேதோ பங்குகளையெல்லாம் வாங்கினர். தன்<br>முதலீட்டில் பெருமையும் மன நிறைவும் கொண்டார்<br>கதிரேசன். ஆனால் அவை ஐந்தே மாதத்தில் சிதறிச்<br>சின்னாபின்னமாகிவிட்டன. 1987ல் ஆம் ஆண்டு<br>சிங்கப்பூர் பங்குச் சந்தையில் பங்குகள் எல்லாம்<br>அடிமட்டத்திற்குப்போய் சரிந்து வீழ்ந்த போது<br> கதிரேசனின் இதயமும் சரிந்து வீழ்ந்தது. மாரடைப்பால்<br>அவர் முடங்கிப் போனார்”<br><br>   - புதுமைதாசன் கதைகள் என்ற நூலில் உள்ள ஓய்வு<br>   என்ற சிறுகதையில் புதுமைதாசன் (பி.கிருஷ்ணன்)|
+| Reference 57 |“எங்கள் கட்டிடத்தின் அருகில் என்னுடன் வேலை<br>செய்யும் பரிச்சயமான முகங்கள் தென்பட்டன. அங்கிருந்த<br> இருக்கையில் வேலரி அமர்ந்து மூக்கைச் சிந்திக்<br> கொண்டும் விசும்பிக் கொண்டும் இருந்தாள். அங்கே<br> அவளைத் தேற்றிக் கொண்டிருந்த மெரியின் அருகில்<br> சென்று என்னவென்று விசாரித்தேன். அதை ஏங்கேகிற<br> செல்வி. அவ குயிருக்கிற அறையை நாளைக்கே காலி<br> செய்யச் சொல்லிட்டானாம் வீட்டுக்காரன். அவ கூட<br> தங்கியிருக்கிற மற்றவங்களை ஒண்ணும் சொல்லல. இவ<br> மட்டும்தானே நர்ஸா இருக்கா.”<br><br>    - ஜெயந்தி சங்கர் சிறுகதைகள் என்ற நூலில் உள்ள<br>    முகங்கள் சிறுகதையில் ஜெயந்தி சங்கர் (பக். 589)|
+
+
+#### **APPENDIX III**
+***Encouraging Young Readers to Read Tamil Works and Develop New Content***
+
+In this present age of social media and instant gratification, encouraging
+young people to read is of utmost concern to education professionals and
+parents worldwide. In Singapore, as English is the medium of instruction
+in schools and commonly spoken in households, it has been challenging to
+encourage young and adolescent readers to read Tamil literary works.
+
+Singapore has mitigated this challenge to some extent by digitising most
+of the works published in the past 50 years. Thus, this computer-savvy
+generation can easily access these books on their mobile devices.
+
+However, the greater part of the problem is not access to books, but in the
+youths’ ability to relate to the themes and content of the works. These young
+people feel that the issues they are most concerned about, such as admission
+to higher education, career growth, parental and teacher authority, and
+romantic relationships, are not reflected in these works.
+
+Solutions must emerge from both the community and individual.
+
+***Cultivating the Reader***
+
+Reading is a matter of habit and matures over time. Thus, the seed of love
+for reading should be sown at an early age. Here are some suggestions for
+doing so:
+
+Leisure reading must be differentiated from classroom reading. The former
+is reading for pleasure, while the latter is an academic exercise. Hence, if
+students are asked to read a storybook in a classroom setting, it may detract
+from the pleasure of the activity and eventually distance the student from
+reading altogether. In order to cultivate the reading habit, teachers could
+organise storytelling sessions in a way that the story is partially revealed to
+arouse curiosity and students then encouraged to visit the library to discover
+the rest of the tale from the book.
+
+“Literature” should not be pushed down students’ throats. Thrillers and
+fantasies, or even romantic stories, such as Mills &amp; Boon novels, may be the
+best starting points for emerging readers. Once “hooked”, these readers can
+be encouraged to look for other, more “serious” titles.
+
+Book clubs in schools or at libraries can also be set up. Students can
+meet once a fortnight to participate in simple reading sessions and lively
+discussions about the stories. The selected story need not be a “classic”
+and there should be no lectures about its literary “worthiness”. Along
+with so-called proper books, “trashy” works may also be permitted so that
+students can learn to discern the difference in writing quality.
+
+Reading should also be incentivised. Schools could consider setting up a
+Facebook page or Instagram account to share good reads through pictures
+and short reviews. Such books may also be mentioned at reading festivals or
+on National Reading Day. At present, these festivals celebrate the writers,
+but they should celebrate the readers as well. Schools may also consider
+holding their reading events in conjunction with institutions such as the
+National Library Board, National Book Development Council of Singapore
+(NBDCS), as well as other schools.
+
+***Grooming the Writer***
+
+Some say writers are born, not created. However, writing skills may be honed
+through mentoring and peer review. A mentor does not need to be a “popular”
+writer or one with many accolades. In my opinion, inviting celebrated writers
+just to conduct one-day or two-hour workshops is not as useful in the long
+run as a dedicated mentor, even online, who can gently but firmly guide the
+mentee in tightening their writing and cultivating a personal style.
+
+Sensitising the budding writer to the issues around him – cultural, social,
+familial, political – is important, as they are fodder for thought and may
+become triggers for writing. This aim can be achieved in group discussions,
+debates and other learning sessions.
+
+While some writers write for financial gain, others do so for recognition,
+such as in the form of awards and publishing contracts. In Singapore,
+opportunities for print publishing in Tamil are limited. Writers can explore
+publishing their works in online journals, which has the potential for greater
+reach at lower cost.
+
+#### **NOTES**
+      
+1 Mukammatuaptulkatiru Nakur Pulavar முகம்மதுஅப்துல்காதிறு, நாகூர், புலவர், _Muṉājāttut tiraṭṭu_ [முனாஜாத்துத் திரட்டு](https://www.nlb.gov.sg/main/book-detail?cmsuuid=5f39c786-6019-47c7-895d-ee3e855f5257) \[Munajattut tirattu\] (Singapore: J. Paton Government Printer, 1872). (From National Library Online)
+
+&nbsp;2 “[Page 2 Advertisements Column 1](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitsobserver18760229-1.2.7.1),” _Straits Observer (Singapore)_, 29 February 1876, 2. (From NewspaperSG)
+
+3 Kannapiran, “சிறுகதை (1887–1965),” \[Short story (1887–1965)\], in சு. தின்னப்பன், நா. ஆண்டியப்பன் and சு. அருணாசலம் C. Tinnappan, Na. Antiyappan and C. Arunacalam, _Ciṅkappūr tamiḻ ilakkiya varalāṟu: Ōr aṟimukam_ [சிங்கப்பூர் தமிழ் இலக்கிய வரலாறு: ஓர் அறிமுகம்](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14308812) \[History of Singapore Tamil Literature: An Introduction\] (சிங்கப்பூர்: சிங்கப்பூர்த் தமிழ் எழுத்தாளர் கழகம், 2011), 129. (From National Library Singapore, call no. Tamil R 894.81109 SIN)
+
+4 Tan Tin Wee, “Naa Govindasamy, Tamil Computing and Tamil Internet: Quest for Globalisation of Tamil IT,” in Sundari Balasubramaniam and Pusphalatha Naidu &nbsp;சுந்தரி பாலசுப்ரமணியம் and புஷ்பலதா நாயுடு, eds., _Ci__ṟ__ukatai n__ā__. K__ō__vintac__ā__mi oru pa__ṭ__aipp__āḷ__i_ &nbsp;[சிறுகதை&nbsp; நா. கோவிந்தசாமி ஒரு படைப்பாளி](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13674572) \[Naa. Govindasamy a Creator\] (Singapore National Library Board, 2010), 28. (From National Library Singapore, call no. Tamil R S894.811471 NAK)
+
+5 National Library Board and National Archives of Singapore, [_Singapore: The First Ten Years of Independence 1965 to 1975_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12885060) (Singapore: National Library Board and National Archives of Singapore, 2007), 6. (From National Library Singapore, call no. RSING 959.5705 SIN-\[HIS\])
+
+6 “Dr. A. Veeramani,” in _Aṉaittulaka araṅkil tamiḻ mutal paṭi_ [அனைத்துலக அரங்கில் தமிழ் முதல் படி](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12673255) \[Tamil in an international arena, first step\], ed. சி. சங்கரன் and எஸ்பி. திண்ணப்பன் C. Cankaran and Sp. Thinnappan (Singapore: UniPress, 2004). (From National Library, call no. Tamil R 494.81109 ANA)
+
+7 “Pirintālum cakōtararkaḷ” பிரிந்தாலும் சகோதரர்களே \[Brothers even if we part\], _Tamil Malar_, 11 August 1965. (Microfilm NL4363)
+
+8 Kaliyannan Perumal காளியண்ணன் பெருமாள், _Ciṅkappūr pāṭalkaḷ_ [சிங்கப்பூர் பாடல்கள்](https://www.nlb.gov.sg/main/book-detail?cmsuuid=81bb08d4-4a17-4a4c-a657-4a0abc3c54aa) \[Hymns on Singapore\] (சிங்கப்பூர்: மறைமலை பதிப்பகம் 1979). (From National Library Online)
+
+9 Perumal, [_Ciṅkappūr pāṭalkaḷ_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=81bb08d4-4a17-4a4c-a657-4a0abc3c54aa).
+
+10 Paranan பரணன், _Tōṇi_ [தோணி](https://www.nlb.gov.sg/main/book-detail?cmsuuid=5f7b57b5-5896-4622-af3c-b2ca5518788b) \[Boat\] (சிங்கப்பூர்: தமிழ்வளர்ச்சிப் பண்ணை, 1985). (From National Library Online)
+
+11 நா பழனிவேலு Na. Palanivelu, “Kaṭamai” கடமை \[Duty\], in _Nā paḻaṉivēluviṉ tokuppiliruntu cila muttukkaḷ_ [நா பழனிவேலுவின் தொகுப்பிலிருந்து சில முத்துக்கள்](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201204690) \[A Selection of Na Palanivelu’s Poems\], ed. Sundari Balasubramaniam (Singapore: National Library Board, 2013), 33. (From National Library Singapore, call no. Tamil RSING PAL)
+
+12 நா ஆண்டியப்பன் Na. Antiyappan, “Uyartara vairam” உயர்தர வைரம் \[classy diamond\], in _Mīcai muḷaikkāta kātal_ [மீசை முளைக்காத காதல்](https://www.nlb.gov.sg/main/book-detail?cmsuuid=97fc14c8-eff0-4309-b67c-9c39960b8caf) \[Adolescent Love\] (சிங்கப்பூர்: பரநியா பதிப்**ப**கம், 2014), 43. (From National Library Online)&nbsp; &nbsp;
+
+13 Elango Pichinikkadu இளங்கோ பிச்சினிக்காடு, “Ākasṭ oṉpatu” ஆகஸ்ட் ஒன்பது \[August 9\], in _Aṅkucam kāṇā yāṉai_ [அங்குசம் காணா யானை](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203068809) \[Elephant without elephant goad\] (சிங்கப்பூர்: பிச்சினிக்காடு இளங்கோ, 2017), 29. (From National Library Singapore, call no. Tamil R 894.8111 ILA)
+
+14 National Library Board and National Archives of Singapore, [_The First Ten Years of Independence 1965 to 1975_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12885060), 198.
+
+15 “Oṉpatāṇṭukaḷil oṉṭarai laṭcam pēr maṟukuṭiyamaippup ceyyapaṭṭaṉar” ஒன்பதாண்டுகளில் ஒன்டரை லட்சம் பேர் மறுகுடியமைப்புப் செய்யபட்டனர் \[Under Singapore’s urban renewal programme some 150,000 people have been resettled over the last 9 years\], _Tamil Malar_, 25 January 1969, 9. (Microfilm NL5835)
+
+16 Ciṅkai Mā. Elangkannan சிங்கை மா. இளங்கண்ணன், _Niṉaivukaḷiṉ kōlaṅkaḷ_ [நினைவுகளின் கோலங்கள்](https://www.nlb.gov.sg/main/book-detail?cmsuuid=0ae587fe-2ae1-4f57-b183-edaccce88935) \[Designs of memories\] (சென்னை: சுவடி, 2006), 140. (From National Library Online)
+
+17 நா பழனிவேலு, Na. Palanivelu, “Ciṅkaiyiṉ poruḷ vaḷam” சிங்கையின் பொருள் வளம் \[Prosperity of Singapore\], in _Kaviñar nā paḻaṉivēluviṉ paṭaippuk kaḷañciyam. Vol. 2_ [கவிஞர் நா பழனிவேலுவின் படைப்புக் களஞ்சியம். Vol. 2](https://www.nlb.gov.sg/main/book-detail?cmsuuid=c731e365-2b8a-42d3-a306-aad1ee9a4097) \[Collected works of Na. Palanivelu. Vol. 2\]. (சிங்கப்பூர்: ப. பாலகிருட்டிணன், 1997), 219. (From National Library Online)
+
+18 க. து. மு. இக்பால் Ka. Tu. Mu. Ikpal, “Eṅkaḷ nāṭu” எங்கள் நாடு \[Our Country\], in _Itaya malarkaḷ_ [இதய மலர்கள்](https://www.nlb.gov.sg/main/book-detail?cmsuuid=411236d6-bd71-408f-94eb-57970d288529) \[Flowers from heart\] (கடையநல்லூர்: பனிமலர் பப்லிகேஷன்ஸ், 1975) (From National Library Online)
+
+19 பரணன் Paranan, “Icai naṭṭu vāḻka” இசை நட்டு வாழ்க \[Long live with glory\], in _Tōṇi_ [தோணி](https://www.nlb.gov.sg/main/book-detail?cmsuuid=5f7b57b5-5896-4622-af3c-b2ca5518788b) \[Boat\] (சிங்கப்பூர்: தமிழ்வளர்ச்சிப் பண்ணை, 1985). (From National Library Online)
+
+20 C. Kumarasami சி. குமாரசாமி, “Pācir pañcāṅka vaṭṭārattil vāḻkai” பாசிர் பஞ்சாங் வட்டாரத்தில் வாழ்கை \[Life in Pasir Panjang\], in _Kaṭanta irupattaintu āṇṭukaḷ_ [கடந்த இருபத்தைந்து ஆண்டுகள்](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84497830) \[The last twenty-five years\], ed. A. Viramani and Malai Pala ஏ. வீரமணி and மாலதிபாலா (சிங்கப்பூர்: இந்தியர் கலாச்சாரம் பண்பாட்டு நிகழ்ச்சி ஏற்பாட்டு குழு, 1990), 67. &nbsp;\[Singapore: Indian Cultural Programme Sub-Committee\]. (From National Library Singapore, call no. Tamil RSING 959.5705 KAD)
+
+21 Alvin Chua, [_Bukit Panjang: From Kampong To Town_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202842272) (\[Singapore\]: North West Community Development Council, 2016), 112. (From National Library Singapore, call no. RSING 711.4095957 BUK)
+
+22 Noorjahan Sulaiman நூர்ஜஹான் சுலைமான், _Vērkaḷ_ [வேர்கள்](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200127240) \[Roots\] (சிங்கப்பூர்: தங்கமீன் பதிப்**ப**கம், 2012), 64. (From National Library Singapore, call no. Tamil RSING S894.811371 NOO)
+
+23 Putumaitacan புதுமைதாசன். _Aṭukku vīṭṭu aṇṇācāmi: Nakaccuvai nāṭakam_ [அடுக்கு வீட்டு அண்ணாசாமி: நகச்சுவை நாடகம்](https://www.nlb.gov.sg/main/book-detail?cmsuuid=89a1ae62-55e5-4ccb-ab6c-91d8ad68b1f6) \[Annasami and his apartment\], vol. 2. (சென்னை: கணியன் பதிப்பகம், 2000), 7. &nbsp;\[Cennai: Kaniyan Patippakam\]. (From National Library Online)
+
+24 லதா Lata, “Vīṭu” வீடு \[Home\], in _Nāṉ kolai ceyyum peṇkaḷ_ [நான் கொலை செய்யும் பெண்கள்](https://www.nlb.gov.sg/main/book-detail?cmsuuid=bc631436-b581-4db6-862a-8b1fbafd33d5) \[The women I kill\] (Singapore: Kanagalatha, 2007), 93. (From National Library Online)
+
+25 Elangkannan, [நினைவுகளின் கோலங்கள்](https://www.nlb.gov.sg/main/book-detail?cmsuuid=0ae587fe-2ae1-4f57-b183-edaccce88935), 172.
+
+26 National Library Board and National Archives of Singapore, [_Singapore: The First Ten Years of Independence 1965 to 1975_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12885060), 84.
+
+27 National Library Board and National Archives of Singapore, [_Singapore: The First Ten Years of Independence 1965 to 1975_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12885060), 82.
+
+28 “Citizen Soldiers,” [_The Mirror_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=d613a06b-f4bd-49b9-abfa-379c9232d362) 3, no. 37 (11 September 1967): 4–5. (From National Library Online)
+
+29 Kannapiran கண்ணபிரான், “Tāṉā mērā ṭairi” தானா மேரா டைரி \[Tanah Merah Diary\] in _Ciṅkappūr poṉviḻā ciṟukataikaḷ_ [சிங்கப்பூர் பொன்விழா சிறுகதைகள்](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202690173) \[Golden jubilee short stories\], et al., ed. இரா துரைமாணிக்கம் Ra. Turaimanikkam, (சிங்கப்பூர்: சிங்கப்பூர் தமிழ் எழுத்தாளர் கழகம், 2015), 80. &nbsp;\[Singapore: Association of Singapore Tamil writers\]. (From National Library Singapore, call no. Tamil R S894.811372 CIN)
+
+30 S. V. Shanmugam எஸ்.வி. சண்முகம், “Irāma kaṇṇapirāṉ - oru kaṇṇōṭṭam” இராம கண்ணபிரான் - ஒரு கண்ணோட்டம் \[A review on Rama Kannapiran\], in _Ciṅkapuril tamiḻ moḻiyum tamiḻilakkiyamum \[nikaḻcci niral\]_ [சிங்கபுரில் தமிழ் மொழியும்&nbsp; தமிழிலக்கியமும் \[நிகழ்ச்சி&nbsp; நிரல்\]](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12913330) \[Tamil language and literature in Singapore (programme)\]. (Singapore: The Society, 1983). (From National Library Singapore, call no. Tamil RSING 494.81109595707 SIN-\[MKN\])
+
+31 Kumarasami, “[Pācir pañcāṅka vaṭṭārattil vāḻkai](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84497830),” 67.
+
+32 பரணன் Paranan, “Iru viḻikaḷ” இரு விழிகள் \[Two eyes\], in _Etiroli_ [எதிரொலி](https://www.nlb.gov.sg/main/book-detail?cmsuuid=0c5ca4b1-5a0d-4082-870e-526c0c1120df) \[Echo\] (p. 43). (சிங்கப்பூர்: தமிழ்வளர்ச்சிப் பண்ணை, 1983), 43. (From National Library Online)
+
+33 Kannapiran கண்ணபிரான், _Vāḻvu kataikaḷ_ [வாழ்வு கதைகள்](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201286274) \[Life\] (சிங்கப்பூர்: கிரிம்சன் எர்த் பதிப்பகம், 2015), 31. (From National Library Singapore, call no. R S894.811271 KAN)
+
+34 Singapore. Department of Statistics, [_Census of Population 2010. Statistical Release 1, Demographic Characteristics, Education, Language and Religion_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13785367) (Singapore: Dept. of Statistics, Ministry of Trade and Industry, 2011), 27. (From National Library Singapore, call no. RSING 304.6021095957 CEN)
+
+35 Singapore. Department of Statistics, [_Census of Population 2010. Statistical Release 1, Demographic Characteristics, Education, Language and Religion_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13785367), 25.
+
+36 “[Primary School Exams for 4 Streams](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19600520-1.2.41),” _Straits Times_, 20 May 1960, 4. (From NewspaperSG)
+
+37 “[Primary School Exams for 4 Streams](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19600520-1.2.41).”
+
+38 “Frequently Asked Questions,” Singapore Examinations and Assessment Board, accessed 18 September 2017. &nbsp;
+
+39 Alakunila அழகுநிலா, _Ār̲añcu: Cir̲ukataikaḷ_ [ஆரஞ்சு சிறுகதைகள்](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202342478) \[Six five\] (சிங்கப்பூர்: அழகுநிலா, 2015), 40–41. (From National Library Singapore, call no. Tamil R S894.811372 AZA)
+
+40 “PSLE Scoring,” Ministry of Education, accessed 2016.
+
+41 “Singapore Is Top Asian Nation for Gender Equality: UN Report,” _Straits Times_, 29 December 2015. (From Factiva via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+42 Janice Tai, “[Growing Number of Women in the Workforce](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20170313-1.2.2),” _Straits Times_, 13 March 2017, 1. (From NewspaperSG)
+
+43 A. Viramani ஏ. வீரமணி, _Turita māṟṟam kāṇum camutāyattil iḷam peṇkaḷ_ [துரித மாற்றம் காணும் சமுதாயங்களில் இளம் பெண்கள்](https://eservice.nlb.gov.sg/redir/itemdetails?bid=10474742) \[Young women in rapidly changing societies\] (சிங்கப்பூர்: சிங்கப்பூர் தமிழ் இளைஞர் மன்றம், 1996). (From National Library Singapore, call no. Tamil RSEA 305.48 THU)
+
+44 Singapore Department of Statistics, 2015 Statistics on Marriages and Divorces.
+
+45 Singapore Department of Statistics, 2010.
+
+46 Singapore Department of Statistics, 2010.
+
+47 Elangovan, [_The Good, the Bad and the Ugly: Three Banned Plays_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201060899) (Singapore: Math Paper Press, 1999), 17. (From National Library Singapore, call no. RSING S894.8112 ELA)
+
+48 Naa Govindasamy நா கோவிந்தசாமி, “Amaippu” அமைப்பு \[System\], in _T__ēṭ__i_ [தேடி](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12905833) \[In search\] (Singapore: Orchid Publishing House, 1991), 76–77. (From National Library Singapore, call no. Tamil RSING S894.811371 GOV)
+
+49 Se. Ve. Shanmugam செ. வெ. சண்முகம், “Maṟṟoṉṟu” மற்றொன்று \[another one\], in _Ciṅkappūr tamiḻ ciṟukataikaḷ_ சிங்கப்பூர் தமிழ் சிறுகதைகள் \[Singapore Tamil Sirukathaikal\] (சென்னை, இந்தியா: தமிழ் புத்தகாலயம், 1989), 214–25.
+
+50 Curiya Ratna சூரிய ரத்னா, “Iṟaivaṉiṉ kuḻantai” இறைவனின் குழந்தை \[God’s own child\], in Malan மாலன், et al. _Orē vān̲am_ [ஒரே வானம்](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200128237) \[Under one sky\] (Singapore: National Library Board, 2013). (From National Library Singapore, call no. Tamil R 808.831 MAL)
+
+51 Seetha Lakshmi சீதா லட்சுமி, “Kōlaṅkaḷ” கோலங்கள் \[Designs\], in _Kaṇṇāṭi niṉaivukaḷ_ [கண்ணாடி நினைவுகள்](https://www.nlb.gov.sg/main/book-detail?cmsuuid=5c6eaee6-1e49-44af-a3bf-cba090284419) \[Memories of reading glass\] (சிங்கப்பூர்: ஸேதலக்ஷ்மி, 2001), 113–22. (From National Library Online)
+
+52 Sanavas ஷாநவாஸ், “Pēcā moḻi” பேசா மொழி \[Unspoken language\], in _Mūṉṟāvatu kai: Ciṟukataikaḷ_ [மூன்றாவது கை: சிறுகதைகள்](https://www.nlb.gov.sg/main/book-detail?cmsuuid=c1791a86-87f8-43a3-b27f-99663629f589) \[Third arm\] (சென்னை, இந்தியா: தமிழ்வனம், 2013), 78–84. (From National Library Online)&nbsp;
+
+53 Ravi Menon, “An Economic History of Singapore: 1965–2065 – Keynote, speech, Singapore Economic Review Conference, 5 August 2015, transcript, Monetary Authority of Singapore.
+
+54 Pon Cuntararacu பொ, சுந்தரராசு, “Ippaṭiyum oru piḻaippu,” இப்படியும் ஒரு பிழைப்பு \[A livelihood of a kind\], in _Eṉṉatāṉ ceyvatu_ [என்னதான் செய்வது?](https://www.nlb.gov.sg/main/book-detail?cmsuuid=3219e902-92a5-4eba-aec1-4f5fd612ad42) \[What to do?\] (சென்னை, இந்தியா: வெற்றி அச்சகம், 1981), 64–75). (From National Library Online)
+
+55 P. Krishnan பி. கிருஷ்ணன், “Ōyvu” ஓய்வு \[retirement\], in _Putumaitācaṉ kataikaḷ_ [புதுமைதாசன் கதைகள்](https://www.nlb.gov.sg/main/book-detail?cmsuuid=eaefc1ba-16bd-41c2-b8a5-d9609ecb0dce) \[Stories of Pudumaidasan\] (சிங்கப்பூர்: ஒக்கிட் பதிப்பகம், 1993). (From National Library Online)
+
+56 Lim Yan Liang, “[They Were Shunned for Treating SARS Patients](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20130212-1.2.32.14),” _Straits Times_, 12 February 2013, 10. (From NewspaperSG)
+
+57 J. Cankar ஜே. சங்கர், “Mukaṅkaḷ” முகங்கள் \[faces\], in _Jeyanti caṅkar kataikaḷ_ [ஜெயந்தி சங்கர் கதைகள்](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200633776) \[Jayanthi Sankar Kathaigal\] (சென்னை: காவ்யா, 2013). (From National Library Singapore, call no. Tamil RSING 894.811372 JAY)
