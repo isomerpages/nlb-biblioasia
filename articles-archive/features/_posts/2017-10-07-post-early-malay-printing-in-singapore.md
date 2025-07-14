@@ -117,7 +117,7 @@ Be sure to catch this exhibition of old Malay manuscripts and printed books from
 
 [^5]:Edwards, E.D., &amp; Blagden, C.O.A. (1931). A Chinese vocabulary of Malacca Malay words and phrases collected between A. D. 1403 and 1511 (?). *Bulletin of the School of Oriental Studies, University of London, 6* (3), 715–749, pp. 718–748. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
 
-[^6]:Bausani, A. (1960, December). The first ItalianMalay vocabulary by Antonio Pigafetta. *East and West, 11* (4), 229–248, pp. 233–240. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
+[^6]:Bausani, A. (1960, December). The first Italian-Malay vocabulary by Antonio Pigafetta. *East and West, 11* (4), 229–248, pp. 233–240. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
 
 [^7]:Gallop, A.T. (1990). Early Malay printing: An introduction to the British Library collections. *Journal of the Malaysian Branch of the Royal Asiatic Society, 63* (1) (258), 85–124, p. 85. Retrieved from JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website.
 
