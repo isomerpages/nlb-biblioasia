@@ -57,7 +57,7 @@ Chinese statesman Grand Mentor Li Hongzhang (1823–1901) sent a request to the 
 
 Cheang Hong Lim was appointed a Justice of the Peace in Singapore in 1873.[^22]&nbsp; Towards the end of his life, in 1892, he was recognised by colonial authorities (and succeeding Tan Kim Cheng) as the “head of the Hokien [sic] community, to whom disputes and misunderstandings among members of that community may properly be referred”.[^23] There was a grand celebration by the community on 1 October 1892 accompanied by the band of St Joseph’s Institution.[^24]&nbsp; He was also appointed to the Chinese Advisory Board, Singapore, in September 1892.[^25]
 
-However, great wealth attracts great envy. In 1872, Cheang Hong Lim was prosecuted by his younger brother, Cheang Hong Guan, for the alleged forgery of his father’s will.[^26] Cheang Hong Guan had won the bid for the Singapore, Johor and Melaka opium and spirit farms from 1870–71, but made a hash of it and lost a fortune.[^27] Cheang Hong Lim and other merchants formed the Great Syndicate and took over the Farms from 1871–79.[^28]&nbsp; The prosecution brought by Cheang Hong Guan against his brother was presumably a form of retaliation.
+However, great wealth attracts great envy. In 1872, Cheang Hong Lim was prosecuted by his younger brother, Cheang Hong Guan, for the alleged forgery of his father’s will.[^26] Cheang Hong Guan had won the bid for the Singapore, Johor and Melaka opium and spirit farms from 1870–71, but made a hash of it and lost a fortune.[^27] Cheang Hong Lim and other merchants formed the Great Syndicate and took over the farms from 1871–79.[^28]&nbsp; The prosecution brought by Cheang Hong Guan against his brother was presumably a form of retaliation.
 
 The trial lasted five days. Cheang Hong Guan was the principal witness. The case collapsed ignominiously. Before the Defence Counsel had finished his speech, the jury stopped the trial because of the patent absurdity of the charge and the contradictions in the evidence of the witnesses. The Chief Justice of the Straits Settlements declared to Cheang Hong Lim that “you leave the Court without a stain on your honour”.[^29]&nbsp; Cheang Hong Guan, on the other hand, was jailed for his part in this farce.[^30]
 
@@ -83,7 +83,7 @@ What then became of the House of Cheang? It is said that wealth only lasts three
 <br>
 <img src="/images/Online%20Only%20Articles/The%20House%20of%20Cheang/Cheang_Jim_Chuan.png" style="width: 60%;">Photo of Cheang Hong Lim’s second son, Cheang Jim Chuan, taken on 23 May 1937 at his house, Palm Beach, 113 Pasir Panjang Road. <i> Courtesy of Professor Walter Woon.</i></div>
 
-Very little is recorded of Cheang Jim Chuan.&nbsp; He was known principally as the son of Cheang Hong Lim. His income was derived from landed property.[^36]&nbsp;At the beginning of the 20th century, he lived at 10 Mohamad Sultan Road before moving to 6 Nassim Road. In the 1920s, the family moved again, this time to a grand house named Riviera at 112 Pasir Panjang Road owned by Cheang Jim Chuan’s wife, Chan Kim Hong Neo.[^37]
+Very little is recorded of Cheang Jim Chuan.&nbsp; He was known principally as the son of Cheang Hong Lim. His income was derived from landed property.[^36]&nbsp;At the beginning of the 20th century, he lived at 10 Mohamed Sultan Road before moving to 6 Nassim Road. In the 1920s, the family moved again, this time to a grand house named Riviera at 112 Pasir Panjang Road owned by Cheang Jim Chuan’s wife, Chan Kim Hong Neo.[^37]
 
 <div style="background-color: white;">
 <br>
