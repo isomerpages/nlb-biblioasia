@@ -2,7 +2,6 @@ collections:
   selected-books:
     output: true
     order:
-      - "Then and Now: The Keramat Phenomenon in Singapore.md"
       - 2025.md
       - 2024.md
       - 2023.md
