@@ -83,7 +83,7 @@ Aside from the intrinsic value of arts and culture, the government saw its econo
 Drawing on the 1980 and 1988 national reading surveys,[^33] as well as the 1987 National Survey on Arts and Culture, the Sub-Committee on Reading found that despite a high literacy rate of 94 percent in 1988, Singaporeans read a limited range of subjects, preferring popular fiction, followed by cookery and hobby books, while literary works and drama ranked last.[^34] On the bright side, more were reading for pleasure as well as for information and knowledge.[^35] Although the steady growth in library membership was another encouraging sign, the sub-committee noted that existing library services struggled to keep up with public demand.[^36]
 
 ![](/images/Vol%2021%20Issue%203/Bacalah%20Singapura/baca_reader.jpg)
-<div style="background-color:white;">A young reader enjoying Old Master Q (Lao Fu Zi) comics at a neighbourhood bookstore in Tanjong Pagar, 1989.  <i> Courtesy of National Archives of Singapore (Media - Image no. 19980007362 - 0048).  </i></div>
+<div style="background-color:white;">A young reader enjoying Old Master Q (老夫子; Lao Fu Zi) comics at a neighbourhood bookstore in Tanjong Pagar, 1989.  <i> Courtesy of National Archives of Singapore (Media - Image no. 19980007362 - 0048).  </i></div>
 
 The sub-committee identified several crisis areas, chiefly the utilitarian view of reading as a means for academic or career advancement. Once again, the same issue was brought up: developing young readers required the involvement of both parents and teachers.&nbsp;
 
@@ -114,7 +114,7 @@ Today, reading competes with a dizzying array of digital distractions. However, 
 
 #### **Notes**
 
-[^1]: “2024 National Reading Habits Study on Adults,” 14, 16, 64–65, 68, National Library Board Singapore, [http://www.nlb.gov.sg/main/-/media/NLBMedia/Documents/About-Us/Press-Room-Publication/Research-and-Studies/NRHS-2024-Adults-20250619\_full-report\_for\_publication.pdf](http://www.nlb.gov.sg/main/-/media/NLBMedia/Documents/About-Us/Press-Room-Publication/Research-and-Studies/NRHS-2024-Adults-20250619_full-report_for_publication.pdf).
+[^1]: <i>2024 National Reading Habits Study on Adults</i>, 14, 16, 64–65, 68, National Library Board Singapore, [http://www.nlb.gov.sg/main/-/media/NLBMedia/Documents/About-Us/Press-Room-Publication/Research-and-Studies/NRHS-2024-Adults-20250619\_full-report\_for\_publication.pdf](http://www.nlb.gov.sg/main/-/media/NLBMedia/Documents/About-Us/Press-Room-Publication/Research-and-Studies/NRHS-2024-Adults-20250619_full-report_for_publication.pdf).
 
 
 [^2]: Goh Chor Boon and S. Gopinathan, “The Development of Education in Singapore Since 1965,” in [_Toward a Better Future: Education and Training for Economic Development in Singapore Since 1965_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12995266), ed. Lee Sing Kiong et al. (Washington, DC: The World Bank, 2008), 13, 15, 18–19. (From National Library Singapore, call no. RSING 370.9595709045 TOW); Ho Wing Meng, “Education for Living or Singapore’s Answer to the Problem of Technological Development Versus Cultural Heritage,” in [_Cultural Heritage Versus Technological Development: Challenges to Education_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2720129) (Hong Kong: Maruzen Asia, 1981), 140. (From National Library Singapore, call no. RSING 370 CUL)
