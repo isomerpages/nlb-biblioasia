@@ -1,5 +1,6 @@
 ---
-title: "A Peek at the Audio-Visual Archives: History Captured in Sound and Moving Images"
+title: "A Peek at the Audio-Visual Archives: History Captured in Sound and
+  Moving Images"
 permalink: /vol-21/issue-2/jul-sep-2025/audio-visual-national-archives-singapore/
 variant: markdown
 description: ""
@@ -141,7 +142,7 @@ Behind the scenes, the work of making these materials discoverable has undergone
 
 Challenges still persist in the access of content. Despite using technology to improve search, pinpointing specific moments within recordings remains time-consuming. Often, users conducting keyword searches must still view or listen to entire recordings to locate precise segments of interest, a process that can test the patience of today’s social media-savvy audiences.
 
-Nevertheless, access to Singapore’s audiovisual heritage has never been more diverse or widespread. Through [Archives Online](https://www.nas.gov.sg/archivesonline/audiovisual\_records/), the public can now explore a selection of historical sound recordings in “[Sounds of Yesteryear (1903–1941)](https://www.nas.gov.sg/archivesonline/audiovisual_records/highlights/f3f86c2d-6764-11e5-ac2a-0050568939ad)”, an initiative launched in 2017 to trace the development of the recording industry in Singapore, and its recent sequel released in 2024 that covers the period from 1945 to 1955.[^25]
+Nevertheless, access to Singapore’s audiovisual heritage has never been more diverse or widespread. Through [Archives Online](https://www.nas.gov.sg/archivesonline/audiovisual_records/), the public can now explore a selection of historical sound recordings in “[Sounds of Yesteryear (1903–1941)](https://www.nas.gov.sg/archivesonline/audiovisual_records/highlights/f3f86c2d-6764-11e5-ac2a-0050568939ad)”, an initiative launched in 2017 to trace the development of the recording industry in Singapore, and its recent sequel released in 2024 that covers the period from 1945 to 1955.[^25]
 
 ![](/images/Vol%2021%20Issue%202/Audiovisual/visual_banner.jpg)
 <div style="background-color:white;">Be enthralled by newly digitised classics, rarities and novelties from “Sounds of Yesteryear Vol. 2 (1945–1955)”, the latest instalment of the initiative launched in 2017 to trace the development of the recording industry in Singapore. <i>Courtesy of National Archives of Singapore.</i></div>
