@@ -596,7 +596,7 @@ Tan, Fiona. “Four Accounts of a Shooting” (blog), Malaya Black and White, 10
 
 _Singapore Free Press and Mercantile Advertiser (1884–1942)_. “[The Film Invasion](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19360320-1.2.58.2).” 20 March 1936, 8. (From NewspaperSG)
 
-Toh, Hun Ping. _Singapore Film Locations Archives_. Accessed 21 July 2016. [https://sgfilmlocations.com](https://sgfilmlocations.com).
+Toh, Hun Ping. _Singapore Film Locations Archives_. Accessed 21 July 2016. [https://www.pic-hub.org/en/post/singapore-film-locations-archive](https://www.pic-hub.org/en/post/singapore-film-locations-archive).
 
 —. _Trade Winds_. 1938. Accessed 10 May 2016. https://sgfilmlocations.com/2014/08/08/trade-winds-1938.
 
