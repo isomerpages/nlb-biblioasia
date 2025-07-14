@@ -34,7 +34,7 @@ Once in Malaya, he succeeded in locating his father, but did not receive the war
 According to various witnesses, Julian had, in turn, complained about a lack of respect from Eric who appeared out of the blue. He had planned to take out a loan of $75 to cover Eric’s boat passage back to Ceylon.[^11] However, before this could materialise, the resentful son’s wounded pride and filial hate drove him to a desperate act of vengeance for which he would pay with his life. The _Straits Times_, which covered the progress of the trial in a series of colourful articles, soberly reported on 28 October 1932 that “the 22-year-old Ceylon Burgher, who was found guilty of the murder of his father and stepmother in Johore on June 25 was hanged”.[^12]
 
 ![](/images/Vol%2021%20Issue%203/Dutch%20Burghers/burghers_article.jpg)
-<div style="background-color:white;"> Eric McHeyzer was found guilty of the murder of his father and stepmother.  <i>Source: The Straits Times © SPH Media Limited. Permission required for reproduction.</i></div>
+<div style="background-color:white;"> Eric McHeyzer was found guilty of the murder of his father and stepmother.  <i>Source: The Straits Times, 2 August 1932 © SPH Media Limited. Permission required for reproduction.</i></div>
 
 #### **Migration to Malaya**
 
@@ -44,14 +44,19 @@ Their story is, however, rarely noticed by historians for two reasons. On the on
 
 The first wave of Ceylonese Burghers who moved to British Malaya in the 1880s and 1890s were actively recruited by local government agencies to fill lower-level positions in the railways, Public Works Department or medical service. These posts had been hard to fill as very few Europeans could be induced to move to often isolated or malaria-infested regions to take up employment offering little financial reward. The local governments thus cast their nets wider and found that Ceylonese Burghers, who were well educated and proficient in English, were excellent candidates to plug the gaps in the subordinate ranks. The spectre of unemployment, or the offer of slightly better pay than could be obtained for equivalent jobs in Ceylon, often convinced young Burghers to board a steamer in Colombo and take up residence in British Malaya.
 
+![](/images/Vol%2021%20Issue%203/Dutch%20Burghers/burghers_kl1.jpg)
+<div style="background-color:white;"> A photograph of government offices in Kuala Lumpur, Selangor, by G.R. Lambert, c. 1900. By the late 19th century, these government offices housed the entire administration of the Federated Malay States and the Selangor State Government. There were many Dutch Burghers working in these offices.  <i>From Leiden University Libraries, the Netherlands.</i></div>
+
+
 Another common avenue to land a comfortable clerkship was sport, particularly cricket. The Dutch Burghers of Ceylon had long excelled in this increasingly popular game. Talented batters and bowlers, who distinguished themselves during the frequent inter-colonial tournaments that pitted Ceylonese, Indian and Malayan teams against one another, could hope to be scouted by the opposing squad and offered a clerical job in Malaya.&nbsp;
 
-![](/images/Vol%2021%20Issue%203/Dutch%20Burghers/burghers_cricket.jpg)
-<div style="background-color:white;">The Singapore Cricket Club, 1906. Young Burghers were well aware that “a capable cricketer could always be sure of gaining employment out here with average intelligence”. <i>Arshak C. Galstaun Collection, courtesy of National Archives of Singapore. </i></div>
 
 Edward Arnold Christoffelsz, for example, scored the highest batting average for Ceylon in a match-up with Selangor in 1891 and was promptly recruited by the state’s government.[^13] Another Burgher, Allan Jumeaux, freshly graduated from St Thomas College in Colombo, had similarly distinguished himself on the pitch and joined Penang’s Survey Department in 1889. But when Jumeaux was fielded for the Penang team in a match against Perak, he attracted the attention of the British Resident Ernest Woodford Birch, who personally offered him an appointment in Perak that came with nearly double the salary.[^14]
 
 Young Burghers were well aware that “a capable cricketer could always be sure of gaining employment out here with average intelligence”, and the _Morning Tribune_ concluded in 1938 that Burghers had “made a valuable contribution to the rapid progress of cricket” in British Malaya.[^15]
+
+![](/images/Vol%2021%20Issue%203/Dutch%20Burghers/burghers_cricket.jpg)
+<div style="background-color:white;">The Singapore Cricket Club, 1906. Young Burghers were well aware that “a capable cricketer could always be sure of gaining employment out here with average intelligence”. <i>Arshak C. Galstaun Collection, courtesy of National Archives of Singapore. </i></div>
 
 However, this sport-centred recruitment policy had its detractors and became a topic of debate in the _Straits Times_ following the scandal that led to the arrest of Christoffelsz in 1894. He excelled on the pitch but turned out to be a dishonest employee who embezzled government funds to holiday in Japan. The brazen young man was promptly arrested while travelling from Japan to Ceylon and sentenced to three years of rigorous imprisonment in the Singapore jail.[^16]
 
@@ -59,16 +64,12 @@ Letters published in the newspapers questioned the need to recruit clerks from C
 
 The Christoffelsz case was, however, an isolated one and hardly representative of the trajectory of Burghers who joined the ranks of government in British Malaya on account of their sporting abilities. Allan Jumeaux, for example, steadily advanced through the ranks of the Perak Public Works Department and was awarded, upon his retirement in 1929, the Imperial Service Medal in acknowledgement of his distinguished career.[^19]
 
+Many of these young Burgher pioneers bore old Dutch surnames such as Van Cuylenburg, Koelmeyer, Ferdinands, Felsinger and Christoffelsz, which were reminiscent of the days when Ceylon was a colony governed by the Dutch East India Company. But there were also young men with a Burgher background whose names were distinctly French (Jumeaux for instance) or Portuguese, such as Pat Zilwa, who transferred from Colombo to Selangor to take up a bank clerkship in Kuala Lumpur.&nbsp;
+
 ![](/images/Vol%2021%20Issue%203/Dutch%20Burghers/burghers_pat.jpg)
 <div style="background-color:white;">Pat Zilwa, the first Burgher to be made a Justice of Peace. <i>Image reproduced from “First Burgher J.P.,” Straits Budget, 9 September 1926, 15. (From NewspaperSG).</i></div>
 
-Many of these young Burgher pioneers bore old Dutch surnames such as Van Cuylenburg, Koelmeyer, Ferdinands, Felsinger and Christoffelsz, which were reminiscent of the days when Ceylon was a colony governed by the Dutch East India Company. But there were also young men with a Burgher background whose names were distinctly French (Jumeaux for instance) or Portuguese, such as Pat Zilwa, who transferred from Colombo to Selangor to take up a bank clerkship in Kuala Lumpur.&nbsp;
-
 In the course of a long and meritorious career, Zilwa distinguished himself as an exemplary public servant and was the first Ceylonese Burgher in Malaya to be made a Justice of Peace in 1926 and the recipient of the Malayan Certificate of Honour upon his retirement in 1935. Zilwa also left his mark on Selangor society and was an indefatigable organiser involved in various associations and charities, acting as president of the Selangor Recreation Club, vice-president of the Selangor Boy Scouts, honorary steward of the Selangor Turf Club and treasurer of the Selangor Football Association. He was also one of the founders of the Kuala Lumpur Rotary Club and the driving force behind the Imperial Indian War Relief Fund, which collected donations to alleviate the suffering of the thousands of Indian soldiers who had been maimed for life fighting under the banner of the Union Jack during the First World War.[^20]
-
-
-![](/images/Vol%2021%20Issue%203/Dutch%20Burghers/burghers_kl1.jpg)
-<div style="background-color:white;"> A photograph of government offices in Kuala Lumpur, Selangor, by G.R. Lambert, c. 1900. By the late 19th century, these government offices housed the entire administration of the Federated Malay States and the Selangor State Government. There were many Dutch Burghers working in these offices.  <i>From Leiden University Libraries, the Netherlands.</i></div>
 
 
 #### **Lure of the Homeland**
