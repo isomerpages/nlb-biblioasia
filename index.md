@@ -9,14 +9,27 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /people/2025/4/lost-family-silvestr-nemec-war-search-czech-singapore/
-      button: In Search of Silvestr
+      url: /vol-21/issue-2/jul-sep-2025/history-story-national-library-singapore/
+      button: "From Colonial Vision to Key Memory Institution: A Short History of the
+        National Library"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Online Only Articles/In Search of Silvestr/Silvestr_Heroimage.png
+      background: /images/Vol 21 Issue 2/Story of National
+        Library/HeroImage_Story_of_NL.jpg
       variant: center
+  - infopic:
+      title: Legal Deposit Legislation in Singapore
+      subtitle: Governance
+      id: infopic
+      description: The legal deposit function in Singapore can be traced back to an
+        1835 law enacted in India to control and regulate the flow of
+        information
+      button: COLLECTING MATERIALS FOR POSTERITY
+      url: /vol-21/issue-2/jul-sep-2025/legal-deposit-legislation-singapore/
+      image: /images/Vol 21 Issue 2/Legal Deposit/Legal_Deposit_topic.png
+      alt: Legal Deposit Legislation
   - infopic:
       title: First Spy Chief of Independent Singapore
       subtitle: Podcast
@@ -1165,17 +1178,6 @@ sections:
       url: /videos/reels/print/
       alt: Image alt text
       image: "/images/Videos: BiblioAsia Reels/early_print.jpg"
-  - infopic:
-      title: Legal Deposit Legislation in Singapore
-      subtitle: Governance
-      id: infopic
-      description: The legal deposit function in Singapore can be traced back to an
-        1835 law enacted in India to control and regulate the flow of
-        information
-      button: COLLECTING MATERIALS FOR POSTERITY
-      url: /vol-21/issue-2/jul-sep-2025/legal-deposit-legislation-singapore/
-      image: /images/Vol 21 Issue 2/Legal Deposit/Legal_Deposit_topic.png
-      alt: Legal Deposit Legislation
   - infopic:
       title: Reading With Molly Today
       subtitle: Print

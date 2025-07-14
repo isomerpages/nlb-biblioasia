@@ -4,6 +4,12 @@ permalink: /topics/print/
 description: ""
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/reading-habits-singaporeans-1960s-1990s/"> **Bacalah Singapura: Reading Habits in Singapore (1960s–1990s)**</a>
+Reading surveys in the nation-building years reveal what Singaporeans read and why it mattered.
+
+<img src="/images/Vol%2021%20Issue%203/Bacalah%20Singapura/Bacalah_Topics.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-2/jul-sep-2025/reading-molly-national-library-board/">Reading With Molly Today</a>
 
 According to a study, the mobile library service continues to be relevant as it helps children get more access to books.

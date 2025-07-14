@@ -1,6 +1,6 @@
 ---
 title: "Bacalah Singapura: Reading Habits in Singapore (1960s–1990s)"
-permalink: /holding-area/vol-21/issue-3/oct-dec-2025/bacalah-singapura-reading-habits-in-singapore-1960s-1990s/
+permalink: /vol-21/issue-3/oct-dec-2025/reading-habits-singaporeans-1960s-1990s/
 variant: markdown
 description: ""
 ---
@@ -15,6 +15,9 @@ In June 2025, the National Library Board released the results of the 2024 Nation
 
 This challenge of cultivating a reading habit is not a new one, as seen in studies from the 1960s through to the 1990s on reading levels in Singapore. Given that reading is crucial to learning, access to information, as well as social and economic participation, reading habits – how often people read, what they read and in which languages – go beyond personal leisure choices and have been seen as matters of national consequence.&nbsp;
 
+![](/images/Vol%2021%20Issue%203/Bacalah%20Singapura/baca_librarian.jpg)
+<div style="background-color:white;">Reading from her own pavement library to kill time, this “librarian” waits for book lovers, 1960. There was a deposit of $1.00 depending on the book and a rental fee of 50 cents a book for a week at these “libraries”.  <i>Courtesy of the National Archives of Singapore (Media - Image no. 19980002619 - 0093).</i></div>
+
 #### **Education, Bilingualism and Children’s Reading Habits**
 
 Singapore gained independence amidst much uncertainty on 9 August 1965. The 1960s and 1970s were a “survival-driven” phase as the government focused on creating a literate and skilled workforce to support rapid industrialisation and secure the future of the fledgling nation. Mathematics, science and technical subjects were emphasised to prepare youth for employment and continuous upskilling.[^2] At the same time, bilingual education in English and a mother tongue – Malay, Mandarin or Tamil – was implemented.[^3] While English was necessary for business and for acquiring technical knowledge (where literature in vernacular languages was scarce), mother tongue languages were deemed essential for the preservation of cultural values and traditions, and were used for civic education.[^4]
@@ -23,7 +26,7 @@ This educational landscape formed the backdrop for the dozen reading surveys con
 
 The earliest such study was initiated in 1966 by the Research Unit of the Teachers’ Training College (TTC), which surveyed over 1,500 primary school pupils from the English, Chinese and Malay language streams. It aimed to provide insights to parents, teachers, librarians and education authorities in supporting children’s reading development.[^6]
 
-![](/images/Vol%2021%20Issue%203/Bacalah%20Singapura/baca_book.jpg)
+![](/images/Vol%2021%20Issue%203/Bacalah%20Singapura/baca_book1.jpg)
 <div style="background-color:white;">The Teachers’ Training College conducted the first reading survey in 1966. It surveyed over 1,500 primary school pupils from the English, Chinese and Malay language streams. Newspapers were the most popular reading material, followed by comics and magazines. <i>Collection of the National Library (Call no. RCLOS 028.9095957 TEA). </i></div>
 
 This study found that newspapers were the most popular reading material, followed by comics and magazines.[^7] It also revealed low levels of reading in a second language, which was highlighted as a “grave concern” given the importance of bilingualism. Additionally, students showed a preference for fiction over nonfiction, with classroom and school libraries serving as their primary sources of reading material due to convenient access.[^8]
@@ -38,10 +41,11 @@ A 1978 survey by IE revealed poor levels of reading, especially in second langua
 
 The IE survey approached reading as a socially embedded activity shaped by parents, teachers and peers. While newspapers were present in 89 percent of households and read by 64 percent of parents, book reading was markedly rare, with only 2 percent of parents reading books and a mere 10 percent encouraging their children to do so.[^17] It was thus little wonder that children tended to gravitate towards newspaper reading rather than books. The majority of parents in the sample were Chinese-speaking, blue-collar workers, whose children consistently reported having the fewest comics, books and magazines at home. This underscored the impact of socioeconomic status on both access to varied reading materials and the development of reading habits.[^18]
 
-Concluding that little could be done about the home environment, the IE report focused on the role of schools. It emphasised that teachers needed to be readers themselves to effectively model reading habits, and recommended incorporating regular reading and book-related activities, like story dramatisations, into lessons.[^19]
 
-![](/images/Vol%2021%20Issue%203/Bacalah%20Singapura/baca_learn.jpg)
-<div style="background-color:white;">Learning to read at the National Library on Stamford Road, 1986. <i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore (Media - Image no. 19980006082 - 0076). </i></div>
+![](/images/Vol%2021%20Issue%203/Bacalah%20Singapura/baca_home.jpg)
+<div style="background-color:white;">The home environment plays an integral role in nurturing the reading habit from a young age, 1989. <i>Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore (Media - Image no.: 19990001247 - 0090).</i></div>
+
+Concluding that little could be done about the home environment, the IE report focused on the role of schools. It emphasised that teachers needed to be readers themselves to effectively model reading habits, and recommended incorporating regular reading and book-related activities, like story dramatisations, into lessons.[^19]
 
 &nbsp;The IE survey also raised concerns about the time children spent watching television at the expense of reading, with 62 percent watching one to three hours daily and 21 percent exceeding three hours. Television emerged as the greatest competitor to reading because it functioned as a shared family activity that naturally drew children in and, unlike reading, could be enjoyed with little linguistic competence.[^20]
 
@@ -62,6 +66,9 @@ The survey also found that a mere 16.1 percent of respondents were members of th
 
 The findings highlighted socioeconomic correlations with reading habits. Heavy readers (those who read more than six hours weekly) tended to have higher levels of education, worked in the professional, administrative and clerical occupations, and earned higher incomes. Conversely, non-readers generally lacked formal education or did not complete primary education, worked in production or service roles, and had lower incomes.[^28]
 
+![](/images/Vol%2021%20Issue%203/Bacalah%20Singapura/baca_opera.jpg)
+<div style="background-color:white;">A Teochew opera actress finding time to read the newspaper in between performances, 1970s.  <i>Ronni Pinsler Collection, courtesy of National Archives of Singapore (Media - Image no. 20090000102 - 0785).</i></div>
+
 As Singapore shifted towards capital-intensive, high-technology industries in the early 1980s, national survival again hinged on the power of reading, as Minister for Communications Yeo Ning Hong emphasised at the 1984 National Reading Month launch: “In order to keep pace and not be left behind in the backwaters, Singaporeans must therefore be agile and adapt to the rapid changes that we now see taking place in many industrialised countries… The ability to read will provide us with the key to upgrading ourselves… The person who stops reading upon leaving school or university increases his own chance of stagnation and irrelevance in future economic developments.”[^29]
 
 ![](/images/Vol%2021%20Issue%203/Bacalah%20Singapura/baca_poster.jpg)
@@ -76,7 +83,7 @@ Aside from the intrinsic value of arts and culture, the government saw its econo
 Drawing on the 1980 and 1988 national reading surveys,[^33] as well as the 1987 National Survey on Arts and Culture, the Sub-Committee on Reading found that despite a high literacy rate of 94 percent in 1988, Singaporeans read a limited range of subjects, preferring popular fiction, followed by cookery and hobby books, while literary works and drama ranked last.[^34] On the bright side, more were reading for pleasure as well as for information and knowledge.[^35] Although the steady growth in library membership was another encouraging sign, the sub-committee noted that existing library services struggled to keep up with public demand.[^36]
 
 ![](/images/Vol%2021%20Issue%203/Bacalah%20Singapura/baca_reader.jpg)
-<div style="background-color:white;">A young reader enjoying Old Master Q (Lao Fu Zi) comics at a neighbourhood bookstore in Tanjong Pagar, 1989.  <i> Courtesy of National Archives of Singapore (Media - Image no. 19980007362 - 0048).  </i></div>
+<div style="background-color:white;">A young reader enjoying Old Master Q (老夫子; Lao Fu Zi) comics at a neighbourhood bookstore in Tanjong Pagar, 1989.  <i> Courtesy of National Archives of Singapore (Media - Image no. 19980007362 - 0048).  </i></div>
 
 The sub-committee identified several crisis areas, chiefly the utilitarian view of reading as a means for academic or career advancement. Once again, the same issue was brought up: developing young readers required the involvement of both parents and teachers.&nbsp;
 
@@ -85,6 +92,9 @@ Recognising that building a reading culture required community-wide efforts, rec
 #### **A Developed (Reading) Nation**
 
 In 1993, the National Library commissioned a survey which sampled some 2,000 respondents aged 13 to 69 from 1,000 households. The survey painted a mixed picture: while a small but growing segment of Singaporeans had developed a passion for reading, an increasing number of literate individuals had disengaged from books.[^38] The percentage of literate persons who had read a book in the last 12 months had dropped to 50 percent from 57 percent in 1980. However, among readers, those spending three to nine hours weekly increased from 41 percent to 65 percent, and those reading 10 hours or more rose from 6 percent to 19 percent.[^39]
+
+![](/images/Vol%2021%20Issue%203/Bacalah%20Singapura/baca_learn.jpg)
+<div style="background-color:white;">Learning to read at the National Library on Stamford Road, 1986. <i> Ministry of Information and the Arts Collection, courtesy of National Archives of Singapore (Media - Image no. 19980006082 - 0076). </i></div>
 
 Three years later, in 1996, Deputy Prime Minister Lee Hsien Loong highlighted that while the number of computers per capita was often used to measure development, another equally important indicator to pay attention to was the number of books that the average person reads per year. He noted that the 1993 National Reading Survey reported that Singaporeans read 8.3 books annually, significantly behind Japan’s 18 books and America’s 25 books per person. “Becoming a developed country,” Lee said, “means balancing economic growth with cultural and social achievements.” He observed that “Singapore has some distance to go to catch up”.[^40]
 
@@ -104,7 +114,7 @@ Today, reading competes with a dizzying array of digital distractions. However, 
 
 #### **Notes**
 
-[^1]: “2024 National Reading Habits Study on Adults,” 14, 16, 64–65, 68, National Library Board Singapore, [http://www.nlb.gov.sg/main/-/media/NLBMedia/Documents/About-Us/Press-Room-Publication/Research-and-Studies/NRHS-2024-Adults-20250619\_full-report\_for\_publication.pdf](http://www.nlb.gov.sg/main/-/media/NLBMedia/Documents/About-Us/Press-Room-Publication/Research-and-Studies/NRHS-2024-Adults-20250619_full-report_for_publication.pdf).
+[^1]: <i>2024 National Reading Habits Study on Adults</i>, 14, 16, 64–65, 68, National Library Board Singapore, [http://www.nlb.gov.sg/main/-/media/NLBMedia/Documents/About-Us/Press-Room-Publication/Research-and-Studies/NRHS-2024-Adults-20250619\_full-report\_for\_publication.pdf](http://www.nlb.gov.sg/main/-/media/NLBMedia/Documents/About-Us/Press-Room-Publication/Research-and-Studies/NRHS-2024-Adults-20250619_full-report_for_publication.pdf).
 
 
 [^2]: Goh Chor Boon and S. Gopinathan, “The Development of Education in Singapore Since 1965,” in [_Toward a Better Future: Education and Training for Economic Development in Singapore Since 1965_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12995266), ed. Lee Sing Kiong et al. (Washington, DC: The World Bank, 2008), 13, 15, 18–19. (From National Library Singapore, call no. RSING 370.9595709045 TOW); Ho Wing Meng, “Education for Living or Singapore’s Answer to the Problem of Technological Development Versus Cultural Heritage,” in [_Cultural Heritage Versus Technological Development: Challenges to Education_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=2720129) (Hong Kong: Maruzen Asia, 1981), 140. (From National Library Singapore, call no. RSING 370 CUL)
