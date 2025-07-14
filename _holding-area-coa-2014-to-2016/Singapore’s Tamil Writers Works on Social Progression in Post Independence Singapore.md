@@ -18,13 +18,13 @@ from back home in India.
 
 The first collection of poetry from Singapore as well as the region written
 in Tamil, *Munajattut Tirattu*, was printed at J. Paton Government Printer
-in Singapore in 1872.1 *Singai Vartamani*, the first Tamil newspaper in the
-Malay Peninsula, appeared in Singapore in 1875.2 The first anthology of
+in Singapore in 1872.[^1] *Singai Vartamani*, the first Tamil newspaper in the
+Malay Peninsula, appeared in Singapore in 1875.[^2] The first anthology of
 Tamil short stories, *Navarasa Katha Manjari*, was published in Singapore
-in 1930.3 Singapore was the first in the world to launch, on the Internet, an anthology of poems in all four official languages, called Poemnet. In
+in 1930.[^3] Singapore was the first in the world to launch, on the Internet, an anthology of poems in all four official languages, called Poemnet. In
 October 1995, then-president of Singapore Ong Teng Cheong launched the
 anthology *Journey: Words, Home and Nation – Anthology of Singapore Poetry
-(1984–1995)* on Poemnet.4
+(1984–1995)* on Poemnet.[^4]
 
 Tamil writing in Singapore also portrays changing social realities. “Kudirai
 Pandhya Lavani”, a 1893 folk-style poem about horse racing in the country,
@@ -48,7 +48,7 @@ original quotes in Tamil have been listed in Appendix I.
 
 #### **Becoming an Independent Nation**
 Unlike many countries in Asia that fought bitterly for independence,
-Singapore became a republic like a “bolt from blue”5 on 9 August 1965. The
+Singapore became a republic like a “bolt from blue”[^5] on 9 August 1965. The
 country remembers the historic press conference during which founding Prime Minister Lee Kuan Yew was in tears as he announced Singapore’s
 separation from the Federation of Malaysia.
 
@@ -59,21 +59,21 @@ forces. The determined work and far-sighted intelligence of the founding
 cabinet brought about considerable improvements in the lives of many
 Singaporeans. According to well-known sociologist Dr A. Veeramani, the
 three major initiatives that transformed the lives of Singaporeans were
-“housing, education and the rapid pace of economic growth”.6
+“housing, education and the rapid pace of economic growth”.[^6]
 
 At first, the local media and communities believed that the separation was
 merely a miscommunication and that Singapore would eventually re-join
-Malaysia.7 Later, as reality sank in, poets produced works praising Singapore
+Malaysia.[^7] Later, as reality sank in, poets produced works praising Singapore
 and its leadership.
 
 K. Perumal produced 133 songs and poems about the new nation in
-*Singapore Padalkal (Hymns on Singapore)*.8 In the book’s preface, V.T. Arasu
+*Singapore Padalkal (Hymns on Singapore)*.[^8] In the book’s preface, V.T. Arasu
 says, “Out and out all the songs are on Singapore. Yet the poet has not
 drowned the songs on the description of the landscape and in exaggeration.
 
-On the contrary, he points out the basic values of Singapore.”9
+On the contrary, he points out the basic values of Singapore.”[^9]
 Paranan, a 1986 S.E.A. Write Award winner, devoted 19 out of 100 poems to
-praising the republic in his collection *Thoni (Boat)*.10
+praising the republic in his collection *Thoni (Boat)*.[^10]
 
 National Day has been particularly inspiring for poets. During the country’s
 10th anniversary, 1986 Cultural Medallion winner Na. Palanivelu wrote a
@@ -85,12 +85,12 @@ eulogy, “Kadamai” (“Duty”):
    Our Singapore emerges like a diamond radiating in all directions<br> 
    Telling for the splendour and affluence of the land<br> 
    Let us put our earnest resolve to prosper further<br> 
-   This is our duty*11
+   This is our duty*[^11]
 
 Poet Naa. Aandeappan describes Singapore as a “classy diamond / in the
-saline sea” in “Uyarthara Vairam” (“Classy Diamond”).12 In a similar
+saline sea” in “Uyarthara Vairam” (“Classy Diamond”).[^12] In a similar
 fashion, poet Pichinikkadu Elango symbolises “Singapore as golden plate
-floating in deep sea” in his work “August 9”.13
+floating in deep sea” in his work “August 9”.[^13]
 
 #### **From Kampong to HDB**
 As Singapore underwent rapid urbanisation, several hundred *kampong*
@@ -98,7 +98,7 @@ As Singapore underwent rapid urbanisation, several hundred *kampong*
 just two years, the Housing Board (HD B) had built 26,168 flats, almost
 equalling the number of units its predecessor, the Singapore Improvement
 Trust (SIT ), built in 32 years. By the end of 1965, its tally exceeded 50,000
-units.14 In only nine years, some 150,000 people had been resettled.15
+units.[^14] In only nine years, some 150,000 people had been resettled.[^15]
 
 For many Singaporeans, the relocation from rickety attap houses with no
 electricity to concrete blocks with tiled floors was a journey from a primitive
@@ -114,16 +114,16 @@ arriving at a new flat:
    floor? That is our house. Maragatham also got a flat close to us,” said<br>
    Muthammal, walking towards the elevator. The flat looked nice. Floors<br>
    were paved with tiles. The kitchen looked clean and neat. Peeping into<br>
-   the kitchen, Velu expressed his surprise, “Is this our kitchen?”* 16
+   the kitchen, Velu expressed his surprise, “Is this our kitchen?”* [^16]
 	 
 Like Velu in Elangkannan’s story, many Tamil poets were excited about
 the new high-rise apartments, which softened the pains of relocation.
 Na. Palanivelu, recipient of the Cultural Medallion, claimed in his poems
 that the old miseries had vanished like a dream when he moved into his
-HD B flat.17 K.T.M. Iqbal, an eminent poet and recipient of both the S.E.A.
+HD B flat.[^17] K.T.M. Iqbal, an eminent poet and recipient of both the S.E.A.
 Write Award and Cultural Medallion, was fascinated by the cloud-kissing
-skyscrapers.18 Paranan, another veteran poet, seemed even more awestruck
-by tall residential flats that blocked the sun.19
+skyscrapers.[^18] Paranan, another veteran poet, seemed even more awestruck
+by tall residential flats that blocked the sun.[^19]
 
 C. Kumarasami, a veteran Tamil activist, describes the misery of living in
 cramped quarters in “Life in Pasir Panjang”:
@@ -135,7 +135,7 @@ cramped quarters in “Life in Pasir Panjang”:
    room. And there were no cots to sleep in. Every family had four or five<br>
    children. Like seeds arranged in a pod, all of them slept next to each<br>
    other. Yet efforts for procreating another child was also initiated in<br>
-   that milieu*.20
+   that milieu*.[^20]
 
 Perhaps more importantly, there was less fear. The *kampongs* were rife with
 gangsters, whom landlords often hired to evict tenants. Former Member
