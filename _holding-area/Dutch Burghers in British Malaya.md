@@ -108,6 +108,11 @@ This Dutch lineage claim thus became a badge of pride, but also functioned as a 
 
 The question of the status of Dutch Burghers within the Eurasian community of British Malaya remained an open one. Since there was no Malayan equivalent of the Dutch Burgher Union, it was very much up to each individual how they navigated the subtle racial hierarchies that divided colonial society. However, in contrast to the majority of the Tamil and Sinhalese civil servants who moved back to Ceylon upon retirement, most Dutch Burghers opted to stay and married locally. Their descendants became domiciled Malayans who identified with the new nation-states that emerged from the ruins of Empire.&nbsp;
 
+![](/images/Vol%2021%20Issue%203/Dutch%20Burghers/burghers_stamp.jpg)
+<div style="background-color:white;">The stamp commemorating the 100th anniversary of the Dutch Burgher Union of Ceylon in 2008.</div>
+
+
+
 Today, the migration history of the Dutch Burghers is largely forgotten and only the intergenerational transmission of customs, recipes for Ceylonese delicacies, or the distinct Dutch ring of a surname serves as a reminder of the young pioneers who left their island-home to start a new life in British Malaya.
 
 
