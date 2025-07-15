@@ -249,4 +249,3 @@ the Indian Islands and Adjacent Countries*, he also acknowledged that his
 works might not be free from mistakes, which suggests that he was leaving
 room for others to improve on his findings, although he did not directly
 express this:
-
