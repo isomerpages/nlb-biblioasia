@@ -150,10 +150,10 @@ send in their gangsters and employ strong-arm tactics.” I had to
 tell them: “Well, look, thank you very much, we are a government
 party, we can’t indulge in that kind of activities. But if you give
 these fellows a fair deal in terms of compensation, I will assist you,
-fellows, to get [the squatters] out.” 21
+fellows, to get [the squatters] out.” [^21]
 
 Noorjahan Sulaiman also mentions the gangsters in her novel *Vergal* (*Roots*):
-“In those days there were gangsters in *kampongs*, almost in every street.” 22
+“In those days there were gangsters in *kampongs*, almost in every street.”[^22]
 
 However, high-rise living placed new pressures on the pocket. In the
 radio drama series *Aduku Veetu Annasami* (*Annasami and his Apartment*),
@@ -173,7 +173,7 @@ broadcast weekly for 52 weeks, Cultural Medallion recipient Pudumaithasan
    been a private flat; the rent would have been 80 or 100 dollars*.<br>
 
    *Arockiasami: Should comfort cost that much? Can’t that be made<br>
-   available for 15 dollars?* 23
+   available for 15 dollars?*[^23] 
 	 
 There were other challenges, too. For many Singaporeans, the transition to
 high-rise living caused much distress. Everyone had to grapple with losing the
@@ -190,7 +190,7 @@ characters in the short fiction piece, *Veedu* (*Home*):
    living close to the ground and next to trees, I found high-rise living<br>
    challenging. It was living as if confined to four walls and was<br>
    suffocating. I couldn’t sleep and it took a long time for me to adjust<br>
-   to the new surroundings*.24
+   to the new surroundings*.[^24]
 
 Mayandiambalam Balakrishnan (Singai. Ma. Elangkannan) painted a
 poignant picture of parting with cattle in his novel *Ninaivukalin Kolangal*
@@ -207,7 +207,7 @@ poignant picture of parting with cattle in his novel *Ninaivukalin Kolangal*
    become barren now. Her husband Murugaiya used to often say, “We<br> 
    became better off with her. Let us not sell it. Let her die here.” Her<br> 
    husband’s words passed through her mind. Tears rolled down her<br> 
-   cheeks. Unable to bear the sight she rushed in*.25
+   cheeks. Unable to bear the sight she rushed in*.[^25]
 	 
 #### **National Service**
 After Singapore became independent and British troops withdrew from the
@@ -216,25 +216,25 @@ Initially, a part-time reservist force, the People’s Defence Force, with 3,200
 volunteers was formed. However, Minister for Interior and Defence Goh
 Keng Swee realised that with Singapore’s population being at less than two
 million, it was impossible to form and maintain a large regular army like
-those in neighbouring countries.26 Thus he proposed a citizens’ army and the
+those in neighbouring countries.[^26] Thus he proposed a citizens’ army and the
 National Service Act was passed in July 1967.
 
 For the conscripted, enlistment evoked two emotions: pride and sadness.
 S. Rajaratnam wrote, “When young Chinese, Malays, Indians and
 Eurasians train together to defend and die for their country, then they
-become true blood brothers.”27 On the other hand, being away from family
+become true blood brothers.”[^27] On the other hand, being away from family
 would cause sadness; according to a Mr Lee, “[s]oldiers and uniforms of any
-type used to have unhappy memories for us”.28
+type used to have unhappy memories for us”.[^28]
 
 Rama Kannapiran, a 1990 S.E.A. Write Award winner, expressed both these
-sentiments in his story “Tanah Merah Diary”.29 Kannapiran’s contemporary,
+sentiments in his story “Tanah Merah Diary”.[^29] Kannapiran’s contemporary,
 Se. Ve. Shanmugam, said of the book: 
 
    *Amot, the drill master, a benevolent man under the guise of a strict<br>
    disciplinarian, touches our heart, relegating the main characters to<br>
    the background, in Tanah Merah Diary. If a character, which is<br>
    minor and appears for a fraction of a second in a story, can move<br>
-   us, then it is a testament to the skill of the author*.30<br>
+   us, then it is a testament to the skill of the author*.[^30]<br>
 	 
 #### **Educational Policies**
 ***Bilingualism***
