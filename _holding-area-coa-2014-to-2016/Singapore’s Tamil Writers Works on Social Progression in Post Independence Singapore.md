@@ -808,36 +808,36 @@ reach at lower cost.
 
 [^40]: “PSLE Scoring,” Ministry of Education, accessed 2016.
 
-41 “Singapore Is Top Asian Nation for Gender Equality: UN Report,” _Straits Times_, 29 December 2015. (From Factiva via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^41]: “Singapore Is Top Asian Nation for Gender Equality: UN Report,” _Straits Times_, 29 December 2015. (From Factiva via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-42 Janice Tai, “[Growing Number of Women in the Workforce](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20170313-1.2.2),” _Straits Times_, 13 March 2017, 1. (From NewspaperSG)
+[^42]: Janice Tai, “[Growing Number of Women in the Workforce](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20170313-1.2.2),” _Straits Times_, 13 March 2017, 1. (From NewspaperSG)
 
-43 A. Viramani ஏ. வீரமணி, _Turita māṟṟam kāṇum camutāyattil iḷam peṇkaḷ_ [துரித மாற்றம் காணும் சமுதாயங்களில் இளம் பெண்கள்](https://eservice.nlb.gov.sg/redir/itemdetails?bid=10474742) \[Young women in rapidly changing societies\] (சிங்கப்பூர்: சிங்கப்பூர் தமிழ் இளைஞர் மன்றம், 1996). (From National Library Singapore, call no. Tamil RSEA 305.48 THU)
+[^43]: A. Viramani ஏ. வீரமணி, _Turita māṟṟam kāṇum camutāyattil iḷam peṇkaḷ_ [துரித மாற்றம் காணும் சமுதாயங்களில் இளம் பெண்கள்](https://eservice.nlb.gov.sg/redir/itemdetails?bid=10474742) \[Young women in rapidly changing societies\] (சிங்கப்பூர்: சிங்கப்பூர் தமிழ் இளைஞர் மன்றம், 1996). (From National Library Singapore, call no. Tamil RSEA 305.48 THU)
 
-44 Singapore Department of Statistics, 2015 Statistics on Marriages and Divorces.
+[^44]: Singapore Department of Statistics, 2015 Statistics on Marriages and Divorces.
 
-45 Singapore Department of Statistics, 2010.
+[^45]: Singapore Department of Statistics, 2010.
 
-46 Singapore Department of Statistics, 2010.
+[^46]: Singapore Department of Statistics, 2010.
 
-47 Elangovan, [_The Good, the Bad and the Ugly: Three Banned Plays_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201060899) (Singapore: Math Paper Press, 1999), 17. (From National Library Singapore, call no. RSING S894.8112 ELA)
+[^47]: Elangovan, [_The Good, the Bad and the Ugly: Three Banned Plays_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201060899) (Singapore: Math Paper Press, 1999), 17. (From National Library Singapore, call no. RSING S894.8112 ELA)
 
-48 Naa Govindasamy நா கோவிந்தசாமி, “Amaippu” அமைப்பு \[System\], in _T__ēṭ__i_ [தேடி](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12905833) \[In search\] (Singapore: Orchid Publishing House, 1991), 76–77. (From National Library Singapore, call no. Tamil RSING S894.811371 GOV)
+[^48]: Naa Govindasamy நா கோவிந்தசாமி, “Amaippu” அமைப்பு \[System\], in _T__ēṭ__i_ [தேடி](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12905833) \[In search\] (Singapore: Orchid Publishing House, 1991), 76–77. (From National Library Singapore, call no. Tamil RSING S894.811371 GOV)
 
-49 Se. Ve. Shanmugam செ. வெ. சண்முகம், “Maṟṟoṉṟu” மற்றொன்று \[another one\], in _Ciṅkappūr tamiḻ ciṟukataikaḷ_ சிங்கப்பூர் தமிழ் சிறுகதைகள் \[Singapore Tamil Sirukathaikal\] (சென்னை, இந்தியா: தமிழ் புத்தகாலயம், 1989), 214–25.
+[^49]: Se. Ve. Shanmugam செ. வெ. சண்முகம், “Maṟṟoṉṟu” மற்றொன்று \[another one\], in _Ciṅkappūr tamiḻ ciṟukataikaḷ_ சிங்கப்பூர் தமிழ் சிறுகதைகள் \[Singapore Tamil Sirukathaikal\] (சென்னை, இந்தியா: தமிழ் புத்தகாலயம், 1989), 214–25.
 
-50 Curiya Ratna சூரிய ரத்னா, “Iṟaivaṉiṉ kuḻantai” இறைவனின் குழந்தை \[God’s own child\], in Malan மாலன், et al. _Orē vān̲am_ [ஒரே வானம்](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200128237) \[Under one sky\] (Singapore: National Library Board, 2013). (From National Library Singapore, call no. Tamil R 808.831 MAL)
+[^50]: Curiya Ratna சூரிய ரத்னா, “Iṟaivaṉiṉ kuḻantai” இறைவனின் குழந்தை \[God’s own child\], in Malan மாலன், et al. _Orē vān̲am_ [ஒரே வானம்](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200128237) \[Under one sky\] (Singapore: National Library Board, 2013). (From National Library Singapore, call no. Tamil R 808.831 MAL)
 
-51 Seetha Lakshmi சீதா லட்சுமி, “Kōlaṅkaḷ” கோலங்கள் \[Designs\], in _Kaṇṇāṭi niṉaivukaḷ_ [கண்ணாடி நினைவுகள்](https://www.nlb.gov.sg/main/book-detail?cmsuuid=5c6eaee6-1e49-44af-a3bf-cba090284419) \[Memories of reading glass\] (சிங்கப்பூர்: ஸேதலக்ஷ்மி, 2001), 113–22. (From National Library Online)
+[^51]: Seetha Lakshmi சீதா லட்சுமி, “Kōlaṅkaḷ” கோலங்கள் \[Designs\], in _Kaṇṇāṭi niṉaivukaḷ_ [கண்ணாடி நினைவுகள்](https://www.nlb.gov.sg/main/book-detail?cmsuuid=5c6eaee6-1e49-44af-a3bf-cba090284419) \[Memories of reading glass\] (சிங்கப்பூர்: ஸேதலக்ஷ்மி, 2001), 113–22. (From National Library Online)
 
-52 Sanavas ஷாநவாஸ், “Pēcā moḻi” பேசா மொழி \[Unspoken language\], in _Mūṉṟāvatu kai: Ciṟukataikaḷ_ [மூன்றாவது கை: சிறுகதைகள்](https://www.nlb.gov.sg/main/book-detail?cmsuuid=c1791a86-87f8-43a3-b27f-99663629f589) \[Third arm\] (சென்னை, இந்தியா: தமிழ்வனம், 2013), 78–84. (From National Library Online)&nbsp;
+[^52]: Sanavas ஷாநவாஸ், “Pēcā moḻi” பேசா மொழி \[Unspoken language\], in _Mūṉṟāvatu kai: Ciṟukataikaḷ_ [மூன்றாவது கை: சிறுகதைகள்](https://www.nlb.gov.sg/main/book-detail?cmsuuid=c1791a86-87f8-43a3-b27f-99663629f589) \[Third arm\] (சென்னை, இந்தியா: தமிழ்வனம், 2013), 78–84. (From National Library Online)&nbsp;
 
-53 Ravi Menon, “An Economic History of Singapore: 1965–2065 – Keynote, speech, Singapore Economic Review Conference, 5 August 2015, transcript, Monetary Authority of Singapore.
+[^53]: Ravi Menon, “An Economic History of Singapore: 1965–2065 – Keynote, speech, Singapore Economic Review Conference, 5 August 2015, transcript, Monetary Authority of Singapore.
 
-54 Pon Cuntararacu பொ, சுந்தரராசு, “Ippaṭiyum oru piḻaippu,” இப்படியும் ஒரு பிழைப்பு \[A livelihood of a kind\], in _Eṉṉatāṉ ceyvatu_ [என்னதான் செய்வது?](https://www.nlb.gov.sg/main/book-detail?cmsuuid=3219e902-92a5-4eba-aec1-4f5fd612ad42) \[What to do?\] (சென்னை, இந்தியா: வெற்றி அச்சகம், 1981), 64–75). (From National Library Online)
+[^54]: Pon Cuntararacu பொ, சுந்தரராசு, “Ippaṭiyum oru piḻaippu,” இப்படியும் ஒரு பிழைப்பு \[A livelihood of a kind\], in _Eṉṉatāṉ ceyvatu_ [என்னதான் செய்வது?](https://www.nlb.gov.sg/main/book-detail?cmsuuid=3219e902-92a5-4eba-aec1-4f5fd612ad42) \[What to do?\] (சென்னை, இந்தியா: வெற்றி அச்சகம், 1981), 64–75). (From National Library Online)
 
-55 P. Krishnan பி. கிருஷ்ணன், “Ōyvu” ஓய்வு \[retirement\], in _Putumaitācaṉ kataikaḷ_ [புதுமைதாசன் கதைகள்](https://www.nlb.gov.sg/main/book-detail?cmsuuid=eaefc1ba-16bd-41c2-b8a5-d9609ecb0dce) \[Stories of Pudumaidasan\] (சிங்கப்பூர்: ஒக்கிட் பதிப்பகம், 1993). (From National Library Online)
+[^55]: P. Krishnan பி. கிருஷ்ணன், “Ōyvu” ஓய்வு \[retirement\], in _Putumaitācaṉ kataikaḷ_ [புதுமைதாசன் கதைகள்](https://www.nlb.gov.sg/main/book-detail?cmsuuid=eaefc1ba-16bd-41c2-b8a5-d9609ecb0dce) \[Stories of Pudumaidasan\] (சிங்கப்பூர்: ஒக்கிட் பதிப்பகம், 1993). (From National Library Online)
 
-56 Lim Yan Liang, “[They Were Shunned for Treating SARS Patients](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20130212-1.2.32.14),” _Straits Times_, 12 February 2013, 10. (From NewspaperSG)
+[^56]: Lim Yan Liang, “[They Were Shunned for Treating SARS Patients](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes20130212-1.2.32.14),” _Straits Times_, 12 February 2013, 10. (From NewspaperSG)
 
-57 J. Cankar ஜே. சங்கர், “Mukaṅkaḷ” முகங்கள் \[faces\], in _Jeyanti caṅkar kataikaḷ_ [ஜெயந்தி சங்கர் கதைகள்](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200633776) \[Jayanthi Sankar Kathaigal\] (சென்னை: காவ்யா, 2013). (From National Library Singapore, call no. Tamil RSING 894.811372 JAY)
+[^57]: J. Cankar ஜே. சங்கர், “Mukaṅkaḷ” முகங்கள் \[faces\], in _Jeyanti caṅkar kataikaḷ_ [ஜெயந்தி சங்கர் கதைகள்](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200633776) \[Jayanthi Sankar Kathaigal\] (சென்னை: காவ்யா, 2013). (From National Library Singapore, call no. Tamil RSING 894.811372 JAY)
