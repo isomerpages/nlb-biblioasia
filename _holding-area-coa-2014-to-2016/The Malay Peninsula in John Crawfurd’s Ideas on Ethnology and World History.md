@@ -146,7 +146,7 @@ after he ended his career in Asia, to the extent that it seemed to have
 outshone his civil service accomplishments in the Far East.25 In spite of
 his unsuccessful attempts in getting elected into the House of Commons,
 Crawfurd continued making headlines in the scholarly world by producing
-notable publications such as *A Grammar and Dictionary of the Malay Language* (1852) and *A Descriptive Dictionary of the Indian Islands & Adjacent
+notable publications such as *A Grammar and Dictionary of the Malay Language* (1852) and *A Descriptive Dictionary of the Indian Islands &amp; Adjacent
 Countries* (1858), as well as through his journal contributions to the scholarly
 periodical of the Ethnological Society of London – which he led in 1861 as
 president.26 As a leading ethnographer and expert on Southeast Asia, he was
@@ -249,3 +249,11 @@ the Indian Islands and Adjacent Countries*, he also acknowledged that his
 works might not be free from mistakes, which suggests that he was leaving
 room for others to improve on his findings, although he did not directly
 express this:
+
+
+   *Some of the articles are meagre from want of materials, and<br>
+   others, without doubt, imperfect and unsatisfactory from defective<br>
+   knowledge or skill in the writer… it will, at all events, lay the<br>
+   foundation for a more perfect superstructure by those who may<br>
+   follow the Author in the same direction*.40
+
