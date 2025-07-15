@@ -248,7 +248,7 @@ official mother tongue of the students taught as a second language.
 
 Tamil schools in Singapore, mostly founded by the working class and
 through public contributions, served a two-fold purpose: educating its
-members in their mother tongue and establishing their identity.31 When the
+members in their mother tongue and establishing their identity.[^31] When the
 bilingual policy was implemented, many Tamil parents felt that an Englishmedium
 education would pave the way for better career opportunities and
 enrolled their children in English schools. This change resulted in the quick
@@ -266,7 +266,7 @@ his poem “Iru Vizhigal” (“Two Eyes”):
    I plead with you<br> 
    With folded hands<br> 
    To let your children<br> 
-   Learn Tamil and English* 32<br> 
+   Learn Tamil and English* [^32]<br> 
 
 Interestingly, Rama Kannapiran, an English teacher speaking about his
 apprehension about the future of Tamil as a home language, categorised the
@@ -274,10 +274,10 @@ Tamil community into three groups: those who spoke only Tamil, those
 who spoke only English and those who spoke a mix of both languages.
 One of the characters in his novella *Vazhvu* (*Life*) expresses anxiety about
 the third group, whose members, described as being in a transitional phase,
-could neglect their mother tongue language.33
+could neglect their mother tongue language.[^33]
 
 Kannapiran’s fears about Tamil speakers losing their ability to speak their
-mother tongue may have come true.34 
+mother tongue may have come true.[^34] 
 
 <img src="/images/COA%202014%20to%202016/Tamil%20Writers%20Works/Capture_1.jpg" style="width:100%;">
 <div style="background-color: white;">Proportion who spoke english most Frequently at home
@@ -291,23 +291,23 @@ According to the
    of English at home became more prevalent. Correspondingly, the<br>
    use of Malay and Tamil as a home language was less prevalent<br>
    among the Malays and Indians respectively in 2010 compared<br>
-   to 2000*.35
+   to 2000*.[^35]
 
 ***Primary School Leaving Examination (PSLE)***
 
-First implemented between 2 and 4 November 1960,36 the PSLE national
+First implemented between 2 and 4 November 1960,[^36] the PSLE national
 examination system was revised in 1992, when a review committee proposed
-ways to improve Singapore’s education system.37
+ways to improve Singapore’s education system.[^37]
 
 Under the new scheme, the PSLE would measure students by the T-Score
-Aggregate, which would show how well a student had performed in his four subjects relative to other students in the same cohort.38 The T-Score
+Aggregate, which would show how well a student had performed in his four subjects relative to other students in the same cohort.[^38] The T-Score
 Aggregate is the first criterion that impacts admission to secondary schools
 of the students’ choice.
 
 The meritocracy-based system has caused many parents to fear that
 their children would fall behind. Writer Azhagunila captures both the
 children’s stress and parents’ anxiety in her short story “Aranju” (“six
-five”):39
+five”):[^39]
 
    *Mom has banned me from computer games, cartoons, PSP and<br> 
    soccer – all with the same excuse of Primary Five! Primary Six!<br> 
@@ -318,28 +318,27 @@ five”):39
 
 On 13 July 2016, the Ministry of Education announced changes to the PSLE
 scoring system: the aggregate score for the PSLE would be replaced with
-wider scoring bands from 2021.40 However, debates on PSLE are unlikely to
+wider scoring bands from 2021.[^40] However, debates on PSLE are unlikely to
 cease in the near future.
 
 #### **Women and Marriage**
 
 Singapore ranked among the top 15 (out of 155) countries in the 2014 United
 Nations Human Development Index (HDI ); it was the top Asian country
-for gender equality.41 Modern Singapore women enjoy similar access to
-education and employment as men. The employment rate for women was at one of its highest levels: 76 percent for the prime working ages of 25 to 54.42
+for gender equality.[^41] Modern Singapore women enjoy similar access to
+education and employment as men. The employment rate for women was at one of its highest levels: 76 percent for the prime working ages of 25 to 54.[^42]
 Girls also outnumbered boys in higher education.
 
 <img src="/images/COA%202014%20to%202016/Tamil%20Writers%20Works/Capture1.jpg" style="width:100%;">
 <div style="background-color: white;">Level of Education by Gender. <i>Census of Population 2010 / Singapore Department of Statistics (2010)</i></div>
 
 As educated career persons, women increasingly prefer to remain single,
-delay marriage or seek a divorce.43
+delay marriage or seek a divorce.[^43]
 
 In the Indian community, less than 1 percent of women below the age of 20
 entered into matrimony in 2015, compared to more than 50 percent in the
 1980s. Currently, more than 50 percent of women prefer to marry after the
-age of 30.44
-
+age of 30.[^44]
 
 <img src="/images/COA%202014%20to%202016/Tamil%20Writers%20Works/Capture2.jpg" style="width:100%;">
 <div style="background-color: white;">Age of Women at the Time of Marriage (%). 2015 figures are based on statistics on marriages and divorces.
@@ -353,13 +352,13 @@ higher divorce rates:
    from 30 percent in 2000 to 32 percent in 2010. This reflected the<br>
    postponement in marriages and greater tendency for individuals<br>
    to remain unmarried. The proportion who were either divorced or<br>
-   separated increased from 2.5 percent in 2000 to 3.3 percent in 2010*.<br>45
+   separated increased from 2.5 percent in 2000 to 3.3 percent in 2010*.<br>[^45]
 	 
    *[…] The increase in the proportion of singles between 2000 and<br>
    2010 was more prominent for the younger age groups. Among<br>
    Singapore citizens aged 30–34 years, the proportion of singles rose<br>
    significantly from 33 percent to 43 percent for the males, and from<br>
-   22 percent to 31 percent for the females*.46
+   22 percent to 31 percent for the females*.[^46]
 
 In the late 1980s and early 1990s, writers discussed the issues of marriage as
 an institution that denies self-esteem, identity and freedom to women, as
@@ -384,7 +383,7 @@ in a father’s tale to his daughter, Nisha, in the play *Talaq* (*Divorce*):
 
    *Nisha, you are like that salt doll. The bridegroom who has<br>
    come from Singapore to marry you is the sea. Henceforth, he is<br>
-   everything to you*.47
+   everything to you*.[^47]
 
 In the short story *Amaipu* (*System*) by Naa. Govindasamy, another S.E.A.
 Write Award winner (1994), the female protagonist expresses her anguish
@@ -395,30 +394,30 @@ over the loss of freedom in marriage:
    women have been used as objects of pleasure for many centuries.<br> 
    Men have used women for their selfish ends. The marriage laws<br> 
    that are in vogue, are also drafted in men’s interests. Woman will<br> 
-    be emancipated unless the system changes.</i> 48
+    be emancipated unless the system changes.</i> [^48]
 
 Singapore literary pioneer Se. Ve. Shanmugam advises women to rely on
 themselves in order to live honourably and freely, and to think carefully
-before entering into matrimony.49
+before entering into matrimony.[^49]
 
 However, there are some women who, not receiving respect and freedom,
 opt to leave the marriage, even if it means raising their children by
 themselves. Suriya Rethnna, a recipient of the Mont Blanc Young Writers’
 Fellowship in 1998 and the 2014 Karikalan Award of Tamil University
 (Thanjavur, India), describes the pride and plight of a single mother in the
-moving story  <i>Iraivanin Kuzhanthai </i> ( <i>God’s Own Child </i>).50
+moving story  <i>Iraivanin Kuzhanthai </i> ( <i>God’s Own Child </i>).[^50]
 
 In his award-winning story,  <i>Kolangal </i> ( <i>Designs </i>), Seetha Lakshmi brings
 out the flip side of divorce: the loneliness of a man in search of a soulmate
 after two failed marriages. The story is told from the unique angle of
 a father seeking permission from his adolescent son to remarry and
 reinforces the inevitable role of family and unavoidable divorce, a paradox
-of modern society.51
+of modern society.[^51]
 
 Shaanavas, whose short story collection, <i>Moontravathu Kai</i> (<i>Third Arm</i>), won
 the Singapore Literary Prize in 2014, believes that the lack of understanding,
 more than lack of love, is the cause of failed marriages; he addresses this in
-his story “Pesa Mozhi” (“Unspoken Language”).52
+his story “Pesa Mozhi” (“Unspoken Language”).[^52]
 
 #### **Economic Growth**
 
@@ -433,12 +432,12 @@ vehicles to achieve industrial growth.
 
 In 1965, Singapore’s nominal GDP per capita was about US $500, similar to
 that of Mexico and South Africa. In 1990, its GDP per capita rose to about US $13,000, surpassing South Korea, Israel and Portugal. In 2015, the GDP
-per capita was about US $56,000, similar to Germany and the United States.53
+per capita was about US $56,000, similar to Germany and the United States.[^53]
 
 Singapore’s extraordinary journey from third world to first is reflected
 in literary works such as Pon. Sundarasau’s short story “Ippadiyum oru
 Pizhaippu” (“A Livelihood of a Kind”) in the collection <i>Ennathan Seyvathu</i>
-(<i>What to Do?</i>).54
+(<i>What to Do?</i>).[^54]
 
 On the other hand, the Singapore economy was buffeted by serious crises
 between 1974 and 2008, such as the 1974 international oil crisis, 1987
@@ -446,7 +445,7 @@ Singapore economic recession, the financial crises of 1998 and 2008, and
 2003 outbreak of Severe Acute Respiratory Syndrome (SARS ).
 
 In his short story <i>Oyvu</i> (<i>Retirement</i>), S.E.A. Write Award winner P. Krishnan depicts the plight of a middle-class worker who loses his CPF
-savings, and subsequently his life, as a result of the stock market crash.55
+savings, and subsequently his life, as a result of the stock market crash.[^55]
 
 #### **SARS**
 The outbreak of Severe Acute Respiratory Syndrome (SARS ) in Singapore
@@ -473,13 +472,13 @@ remembered Ms Sevakame. “We would take showers and<br>
    Yishun flat that, with her husband, they shared with her landlady<br>
    and the landlady’s three teenage children. When her landlady got<br> 
    wind that Ms Sevakame might have contracted SARS, she tried to<br> 
-   evict the couple.</i>56
+   evict the couple.</i>[^56]
 	
 In her story “Mukhangal” (“Faces”), written in 2003 itself, writer Jayanthi
 Sankar captured the negative social aspects mentioned in <i>The Straits Times</i>
 report – the avoidance by neighbours, neglect by the public and threat of
 eviction. The story stands as a testament to human behaviour during a lifethreatening
-epidemic.57
+epidemic.[^57]
 
 #### **Conclusion**
 Tamil writers in Singapore may have initially drawn inspiration and
