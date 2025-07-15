@@ -120,3 +120,133 @@ the Indian Archipelago* in 1820.17 This seminal work, according to an article
 a few decades later in the *Journal of the Indian Archipelago and Eastern Asia*,
 placed “him in the first rank of ethnographers”.18
 
+In 1821, Crawfurd left England again for India; this time he was assigned
+to head a mission to Siam (present-day Thailand) and Cochin China (now
+Vietnam), with the chief objective of establishing trade. This mission did not succeed because of suspicions raised among local authorities, and he was
+unable to expand the East India Company’s commercial relations beyond
+the status quo.19 On 9 June 1823, Crawfurd succeeded William Farquhar
+(1774–1839) to become the second Resident of Singapore – Crawfurd had
+first visited the island in 1822 en route from India to Siam – and remained
+in office until 1826.20 He continued to be active in the British East India
+Company after serving as Resident in Singapore, undertaking diplomatic
+assignments in Burma, before retiring from the Company in 1827.21
+
+Crawfurd attempted to run for Parliament, but was unsuccessful in his
+election campaigns in Scotland and England.22 Although he had left the
+region for good, he continued to take a great interest in matters concerning
+the Far East until the end of his life, as evident in his continued publications
+on the region. He also became the first president of the London-based Straits
+Settlements Association on 31 January 1868.23 Crawfurd passed away on the
+night of 11 May 1868, at his residence in Elvaston Place, South Kensington,
+London, at the age of 85, and was survived by his son and two daughters.24
+
+#### **Crawfurd’s Studies and the Workings of British Imperial Knowledge**
+Crawfurd’s obituaries tell us that his literary fame continued to rise even
+after he ended his career in Asia, to the extent that it seemed to have
+outshone his civil service accomplishments in the Far East.25 In spite of
+his unsuccessful attempts in getting elected into the House of Commons,
+Crawfurd continued making headlines in the scholarly world by producing
+notable publications such as *A Grammar and Dictionary of the Malay Language* (1852) and *A Descriptive Dictionary of the Indian Islands & Adjacent
+Countries* (1858), as well as through his journal contributions to the scholarly
+periodical of the Ethnological Society of London – which he led in 1861 as
+president.26 As a leading ethnographer and expert on Southeast Asia, he was
+well known among prominent intellectuals of the time, and was counted
+among Charles Darwin’s circle of friends.27
+
+Crawfurd’s publications on the Far East were the result of his extensive
+journeys and voyages during his time in the region, where he amassed diverse
+materials on ethnology, natural history, local history, geography and geology.28
+Examining his major publications on Southeast Asia, such as *History of the
+Indian Archipelago, Grammar and Dictionary of the Malay Language or A
+Descriptive Dictionary of the Indian Islands and Adjacent Countries*, would
+allow one to grasp how he developed his knowledge about the region and,
+more importantly, the features of British imperial knowledge.
+
+Much has been said since the publication of Edward Said’s remarkable 1978
+work, *Orientalism*, which highlighted the issue of Euro-centrism in Western
+writings on the rest of the world and its literature as a means of justifying
+superiority over non-Western peoples (in other words, imperialism).29
+To accomplish these agenda, Said demonstrated how the East had been
+projected in a way that differentiated it from the West, hence making it the
+“other”.30 As expected, the result was inaccurate, sensational and exaggerated
+portrayals of the East in Western discourse.
+
+*Orientalism*, nevertheless, only reveals one aspect of imperial literature, and
+must not be taken as representative of all colonial writings about the outside
+world. They were more than just about creating tales to satisfy imperialistic
+agenda. Discussing British knowledge productions of India, Christopher
+Bayly underscored that they arose from natural curiosity and the desire to
+understand the world as it was, as well as from the simple aim of domination.31
+
+We must move beyond the fashionable notion of “knowledge is power” and
+consider the diversity of knowledge. To be more comprehensive, attention
+should be given to the author’s intention or purpose of writing, and to
+examine whether the publication was intended as a fictional work, to
+advance scientific knowledge, to collect commercial data, for administrative
+purposes (such as population census and surveying reports), to serve as
+official information on the region (for instance, literature on travel, science,
+and history), or as a medium to support a policy.
+
+The knowledge produced by Crawfurd belonged to the category of
+formal, or “factual”, information, where accuracy was of key concern. The
+reputation of his publications rested on how others measured the quality
+of information provided. Any inaccuracies or unfaithful representations
+would degrade the reputation of his work and scholars who produced these
+kinds of literature were well aware of that. Fictionalising foreign places and
+their inhabitants would not serve the interest of the author and his readers,
+whose primary concern was to obtain factual information on the region.
+Reviews would appraise these works for the quality of information they
+provided, as evidenced in a review of Crawfurd’s 1858 dictionary by the
+*Journal of the Indian Archipelago and Eastern Asia*: “[It is] a ready source of
+accurate information of the most varied and substantial kind, conveyed in
+an agreeable, condensed and lucid style, the book is invaluable”.32
+
+Quilty has shown that scholars of the Malay world such as Crawfurd,
+Raffles and Marsden had the same desire for their works to educate the
+public and help expand their general knowledge of the world.33 They were
+not interested in creating sensational stories about the Far East, and this
+was explicitly stated in Crawfurd’s positive remarks on Marsden’s *History
+of Sumatra* (1818): “He was the first literary and scientific Englishman who,
+with the advantages of local experience, treated of the Malayan countries;
+all our knowledge before him being confined to the crude narratives of
+mariners and voyagers.”34
+
+If misinformation was provided, it was also often done so unintentionally.
+Inaccuracy could stem from the inability to gain access to the desired information, and scholars often had to resort to other means of obtaining
+it, such as hearsay, the accounts of travelling merchants, explorers and
+travellers, and from studying literature about the region – both antiquated
+and recent. In many respects, these works are not very different in their
+approach from contemporary scholarly literature.
+
+Reading Crawfurd’s publications on Southeast Asia would reveal that his
+main concern was the search for truths. This is not to say, however, that
+the knowledge produced by colonial scholars such as Crawfurd were free
+from misconceptions, as evidenced in the response by Indian nationalist,
+politician and scholar, Dadabhai Naoroji (1827–1917), towards Crawfurd’s
+article, “On the Physical and Mental Characteristics of the European
+and Asiatic Races of Man”.35 Naoroji rebuked Crawfurd’s description of
+the supposed mental inferiority of Asians to Europeans, saying that this
+“superficial observation and imperfect information” was one that was
+typical of foreign travellers and writers.36 Nonetheless, the fact that Naoroji’s
+criticism of his work was read to and published in the Ethnological Society
+of London’s periodical suggests that there was interest among its members
+to test the strength of Crawfurd’s hypothesis.
+
+As a historian, Crawfurd would assess the quality of his information to
+determine its reliability, compare it to other available sources and discuss
+its contents.37 Where the accuracy of the information was in question and
+he had no alternative sources, Crawfurd would caution his audiences to
+give the source the benefit of the doubt. In a footnote in *History of the
+Indian Archipelago*, for example, he warned his readers to take the account
+of the introduction of Islam into Macassar by the 17th-century French
+merchant and traveler, Jean-Baptiste Tavernier, with a grain of salt, because
+he “generally found Tavernier a superficial and unfaithful narrator”.38
+Crawfurd would also admit his lack of knowledge in subjects he was unsure
+about, as shown in his 1866 ethnological paper on the physical and mental characteristics of the “Negro”: “Of the social condition of the small Negroes
+of the Malay Peninsula and the Philippine Islands we know too little to
+enable us to give any authentic details.”39 In *A Descriptive Dictionary of
+the Indian Islands and Adjacent Countries*, he also acknowledged that his
+works might not be free from mistakes, which suggests that he was leaving
+room for others to improve on his findings, although he did not directly
+express this:
+
