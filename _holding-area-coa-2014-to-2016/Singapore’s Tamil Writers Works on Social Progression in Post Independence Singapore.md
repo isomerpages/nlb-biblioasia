@@ -738,75 +738,75 @@ reach at lower cost.
 
 [^5]: National Library Board and National Archives of Singapore, [_Singapore: The First Ten Years of Independence 1965 to 1975_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12885060) (Singapore: National Library Board and National Archives of Singapore, 2007), 6. (From National Library Singapore, call no. RSING 959.5705 SIN-\[HIS\])
 
-6 “Dr. A. Veeramani,” in _Aṉaittulaka araṅkil tamiḻ mutal paṭi_ [அனைத்துலக அரங்கில் தமிழ் முதல் படி](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12673255) \[Tamil in an international arena, first step\], ed. சி. சங்கரன் and எஸ்பி. திண்ணப்பன் C. Cankaran and Sp. Thinnappan (Singapore: UniPress, 2004). (From National Library, call no. Tamil R 494.81109 ANA)
+[^6]: “Dr. A. Veeramani,” in _Aṉaittulaka araṅkil tamiḻ mutal paṭi_ [அனைத்துலக அரங்கில் தமிழ் முதல் படி](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12673255) \[Tamil in an international arena, first step\], ed. சி. சங்கரன் and எஸ்பி. திண்ணப்பன் C. Cankaran and Sp. Thinnappan (Singapore: UniPress, 2004). (From National Library, call no. Tamil R 494.81109 ANA)
 
-7 “Pirintālum cakōtararkaḷ” பிரிந்தாலும் சகோதரர்களே \[Brothers even if we part\], _Tamil Malar_, 11 August 1965. (Microfilm NL4363)
+[^7]: “Pirintālum cakōtararkaḷ” பிரிந்தாலும் சகோதரர்களே \[Brothers even if we part\], _Tamil Malar_, 11 August 1965. (Microfilm NL4363)
 
-8 Kaliyannan Perumal காளியண்ணன் பெருமாள், _Ciṅkappūr pāṭalkaḷ_ [சிங்கப்பூர் பாடல்கள்](https://www.nlb.gov.sg/main/book-detail?cmsuuid=81bb08d4-4a17-4a4c-a657-4a0abc3c54aa) \[Hymns on Singapore\] (சிங்கப்பூர்: மறைமலை பதிப்பகம் 1979). (From National Library Online)
+[^8]: Kaliyannan Perumal காளியண்ணன் பெருமாள், _Ciṅkappūr pāṭalkaḷ_ [சிங்கப்பூர் பாடல்கள்](https://www.nlb.gov.sg/main/book-detail?cmsuuid=81bb08d4-4a17-4a4c-a657-4a0abc3c54aa) \[Hymns on Singapore\] (சிங்கப்பூர்: மறைமலை பதிப்பகம் 1979). (From National Library Online)
 
-9 Perumal, [_Ciṅkappūr pāṭalkaḷ_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=81bb08d4-4a17-4a4c-a657-4a0abc3c54aa).
+[^9]: Perumal, [_Ciṅkappūr pāṭalkaḷ_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=81bb08d4-4a17-4a4c-a657-4a0abc3c54aa).
 
-10 Paranan பரணன், _Tōṇi_ [தோணி](https://www.nlb.gov.sg/main/book-detail?cmsuuid=5f7b57b5-5896-4622-af3c-b2ca5518788b) \[Boat\] (சிங்கப்பூர்: தமிழ்வளர்ச்சிப் பண்ணை, 1985). (From National Library Online)
+[^10]: Paranan பரணன், _Tōṇi_ [தோணி](https://www.nlb.gov.sg/main/book-detail?cmsuuid=5f7b57b5-5896-4622-af3c-b2ca5518788b) \[Boat\] (சிங்கப்பூர்: தமிழ்வளர்ச்சிப் பண்ணை, 1985). (From National Library Online)
 
-11 நா பழனிவேலு Na. Palanivelu, “Kaṭamai” கடமை \[Duty\], in _Nā paḻaṉivēluviṉ tokuppiliruntu cila muttukkaḷ_ [நா பழனிவேலுவின் தொகுப்பிலிருந்து சில முத்துக்கள்](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201204690) \[A Selection of Na Palanivelu’s Poems\], ed. Sundari Balasubramaniam (Singapore: National Library Board, 2013), 33. (From National Library Singapore, call no. Tamil RSING PAL)
+[^11]: நா பழனிவேலு Na. Palanivelu, “Kaṭamai” கடமை \[Duty\], in _Nā paḻaṉivēluviṉ tokuppiliruntu cila muttukkaḷ_ [நா பழனிவேலுவின் தொகுப்பிலிருந்து சில முத்துக்கள்](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201204690) \[A Selection of Na Palanivelu’s Poems\], ed. Sundari Balasubramaniam (Singapore: National Library Board, 2013), 33. (From National Library Singapore, call no. Tamil RSING PAL)
 
-12 நா ஆண்டியப்பன் Na. Antiyappan, “Uyartara vairam” உயர்தர வைரம் \[classy diamond\], in _Mīcai muḷaikkāta kātal_ [மீசை முளைக்காத காதல்](https://www.nlb.gov.sg/main/book-detail?cmsuuid=97fc14c8-eff0-4309-b67c-9c39960b8caf) \[Adolescent Love\] (சிங்கப்பூர்: பரநியா பதிப்**ப**கம், 2014), 43. (From National Library Online)&nbsp; &nbsp;
+[^12]: நா ஆண்டியப்பன் Na. Antiyappan, “Uyartara vairam” உயர்தர வைரம் \[classy diamond\], in _Mīcai muḷaikkāta kātal_ [மீசை முளைக்காத காதல்](https://www.nlb.gov.sg/main/book-detail?cmsuuid=97fc14c8-eff0-4309-b67c-9c39960b8caf) \[Adolescent Love\] (சிங்கப்பூர்: பரநியா பதிப்**ப**கம், 2014), 43. (From National Library Online)&nbsp; &nbsp;
 
-13 Elango Pichinikkadu இளங்கோ பிச்சினிக்காடு, “Ākasṭ oṉpatu” ஆகஸ்ட் ஒன்பது \[August 9\], in _Aṅkucam kāṇā yāṉai_ [அங்குசம் காணா யானை](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203068809) \[Elephant without elephant goad\] (சிங்கப்பூர்: பிச்சினிக்காடு இளங்கோ, 2017), 29. (From National Library Singapore, call no. Tamil R 894.8111 ILA)
+[^13]: Elango Pichinikkadu இளங்கோ பிச்சினிக்காடு, “Ākasṭ oṉpatu” ஆகஸ்ட் ஒன்பது \[August 9\], in _Aṅkucam kāṇā yāṉai_ [அங்குசம் காணா யானை](https://eservice.nlb.gov.sg/redir/itemdetails?bid=203068809) \[Elephant without elephant goad\] (சிங்கப்பூர்: பிச்சினிக்காடு இளங்கோ, 2017), 29. (From National Library Singapore, call no. Tamil R 894.8111 ILA)
 
-14 National Library Board and National Archives of Singapore, [_The First Ten Years of Independence 1965 to 1975_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12885060), 198.
+[^14]: National Library Board and National Archives of Singapore, [_The First Ten Years of Independence 1965 to 1975_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12885060), 198.
 
-15 “Oṉpatāṇṭukaḷil oṉṭarai laṭcam pēr maṟukuṭiyamaippup ceyyapaṭṭaṉar” ஒன்பதாண்டுகளில் ஒன்டரை லட்சம் பேர் மறுகுடியமைப்புப் செய்யபட்டனர் \[Under Singapore’s urban renewal programme some 150,000 people have been resettled over the last 9 years\], _Tamil Malar_, 25 January 1969, 9. (Microfilm NL5835)
+[^15]: “Oṉpatāṇṭukaḷil oṉṭarai laṭcam pēr maṟukuṭiyamaippup ceyyapaṭṭaṉar” ஒன்பதாண்டுகளில் ஒன்டரை லட்சம் பேர் மறுகுடியமைப்புப் செய்யபட்டனர் \[Under Singapore’s urban renewal programme some 150,000 people have been resettled over the last 9 years\], _Tamil Malar_, 25 January 1969, 9. (Microfilm NL5835)
 
-16 Ciṅkai Mā. Elangkannan சிங்கை மா. இளங்கண்ணன், _Niṉaivukaḷiṉ kōlaṅkaḷ_ [நினைவுகளின் கோலங்கள்](https://www.nlb.gov.sg/main/book-detail?cmsuuid=0ae587fe-2ae1-4f57-b183-edaccce88935) \[Designs of memories\] (சென்னை: சுவடி, 2006), 140. (From National Library Online)
+[^16]: Ciṅkai Mā. Elangkannan சிங்கை மா. இளங்கண்ணன், _Niṉaivukaḷiṉ kōlaṅkaḷ_ [நினைவுகளின் கோலங்கள்](https://www.nlb.gov.sg/main/book-detail?cmsuuid=0ae587fe-2ae1-4f57-b183-edaccce88935) \[Designs of memories\] (சென்னை: சுவடி, 2006), 140. (From National Library Online)
 
-17 நா பழனிவேலு, Na. Palanivelu, “Ciṅkaiyiṉ poruḷ vaḷam” சிங்கையின் பொருள் வளம் \[Prosperity of Singapore\], in _Kaviñar nā paḻaṉivēluviṉ paṭaippuk kaḷañciyam. Vol. 2_ [கவிஞர் நா பழனிவேலுவின் படைப்புக் களஞ்சியம். Vol. 2](https://www.nlb.gov.sg/main/book-detail?cmsuuid=c731e365-2b8a-42d3-a306-aad1ee9a4097) \[Collected works of Na. Palanivelu. Vol. 2\]. (சிங்கப்பூர்: ப. பாலகிருட்டிணன், 1997), 219. (From National Library Online)
+[^17]: நா பழனிவேலு, Na. Palanivelu, “Ciṅkaiyiṉ poruḷ vaḷam” சிங்கையின் பொருள் வளம் \[Prosperity of Singapore\], in _Kaviñar nā paḻaṉivēluviṉ paṭaippuk kaḷañciyam. Vol. 2_ [கவிஞர் நா பழனிவேலுவின் படைப்புக் களஞ்சியம். Vol. 2](https://www.nlb.gov.sg/main/book-detail?cmsuuid=c731e365-2b8a-42d3-a306-aad1ee9a4097) \[Collected works of Na. Palanivelu. Vol. 2\]. (சிங்கப்பூர்: ப. பாலகிருட்டிணன், 1997), 219. (From National Library Online)
 
-18 க. து. மு. இக்பால் Ka. Tu. Mu. Ikpal, “Eṅkaḷ nāṭu” எங்கள் நாடு \[Our Country\], in _Itaya malarkaḷ_ [இதய மலர்கள்](https://www.nlb.gov.sg/main/book-detail?cmsuuid=411236d6-bd71-408f-94eb-57970d288529) \[Flowers from heart\] (கடையநல்லூர்: பனிமலர் பப்லிகேஷன்ஸ், 1975) (From National Library Online)
+[^18]: க. து. மு. இக்பால் Ka. Tu. Mu. Ikpal, “Eṅkaḷ nāṭu” எங்கள் நாடு \[Our Country\], in _Itaya malarkaḷ_ [இதய மலர்கள்](https://www.nlb.gov.sg/main/book-detail?cmsuuid=411236d6-bd71-408f-94eb-57970d288529) \[Flowers from heart\] (கடையநல்லூர்: பனிமலர் பப்லிகேஷன்ஸ், 1975) (From National Library Online)
 
-19 பரணன் Paranan, “Icai naṭṭu vāḻka” இசை நட்டு வாழ்க \[Long live with glory\], in _Tōṇi_ [தோணி](https://www.nlb.gov.sg/main/book-detail?cmsuuid=5f7b57b5-5896-4622-af3c-b2ca5518788b) \[Boat\] (சிங்கப்பூர்: தமிழ்வளர்ச்சிப் பண்ணை, 1985). (From National Library Online)
+[^19]: பரணன் Paranan, “Icai naṭṭu vāḻka” இசை நட்டு வாழ்க \[Long live with glory\], in _Tōṇi_ [தோணி](https://www.nlb.gov.sg/main/book-detail?cmsuuid=5f7b57b5-5896-4622-af3c-b2ca5518788b) \[Boat\] (சிங்கப்பூர்: தமிழ்வளர்ச்சிப் பண்ணை, 1985). (From National Library Online)
 
-20 C. Kumarasami சி. குமாரசாமி, “Pācir pañcāṅka vaṭṭārattil vāḻkai” பாசிர் பஞ்சாங் வட்டாரத்தில் வாழ்கை \[Life in Pasir Panjang\], in _Kaṭanta irupattaintu āṇṭukaḷ_ [கடந்த இருபத்தைந்து ஆண்டுகள்](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84497830) \[The last twenty-five years\], ed. A. Viramani and Malai Pala ஏ. வீரமணி and மாலதிபாலா (சிங்கப்பூர்: இந்தியர் கலாச்சாரம் பண்பாட்டு நிகழ்ச்சி ஏற்பாட்டு குழு, 1990), 67. &nbsp;\[Singapore: Indian Cultural Programme Sub-Committee\]. (From National Library Singapore, call no. Tamil RSING 959.5705 KAD)
+[^20]: C. Kumarasami சி. குமாரசாமி, “Pācir pañcāṅka vaṭṭārattil vāḻkai” பாசிர் பஞ்சாங் வட்டாரத்தில் வாழ்கை \[Life in Pasir Panjang\], in _Kaṭanta irupattaintu āṇṭukaḷ_ [கடந்த இருபத்தைந்து ஆண்டுகள்](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84497830) \[The last twenty-five years\], ed. A. Viramani and Malai Pala ஏ. வீரமணி and மாலதிபாலா (சிங்கப்பூர்: இந்தியர் கலாச்சாரம் பண்பாட்டு நிகழ்ச்சி ஏற்பாட்டு குழு, 1990), 67. &nbsp;\[Singapore: Indian Cultural Programme Sub-Committee\]. (From National Library Singapore, call no. Tamil RSING 959.5705 KAD)
 
-21 Alvin Chua, [_Bukit Panjang: From Kampong To Town_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202842272) (\[Singapore\]: North West Community Development Council, 2016), 112. (From National Library Singapore, call no. RSING 711.4095957 BUK)
+[^21]: Alvin Chua, [_Bukit Panjang: From Kampong To Town_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202842272) (\[Singapore\]: North West Community Development Council, 2016), 112. (From National Library Singapore, call no. RSING 711.4095957 BUK)
 
-22 Noorjahan Sulaiman நூர்ஜஹான் சுலைமான், _Vērkaḷ_ [வேர்கள்](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200127240) \[Roots\] (சிங்கப்பூர்: தங்கமீன் பதிப்**ப**கம், 2012), 64. (From National Library Singapore, call no. Tamil RSING S894.811371 NOO)
+[^22]: Noorjahan Sulaiman நூர்ஜஹான் சுலைமான், _Vērkaḷ_ [வேர்கள்](https://eservice.nlb.gov.sg/redir/itemdetails?bid=200127240) \[Roots\] (சிங்கப்பூர்: தங்கமீன் பதிப்**ப**கம், 2012), 64. (From National Library Singapore, call no. Tamil RSING S894.811371 NOO)
 
-23 Putumaitacan புதுமைதாசன். _Aṭukku vīṭṭu aṇṇācāmi: Nakaccuvai nāṭakam_ [அடுக்கு வீட்டு அண்ணாசாமி: நகச்சுவை நாடகம்](https://www.nlb.gov.sg/main/book-detail?cmsuuid=89a1ae62-55e5-4ccb-ab6c-91d8ad68b1f6) \[Annasami and his apartment\], vol. 2. (சென்னை: கணியன் பதிப்பகம், 2000), 7. &nbsp;\[Cennai: Kaniyan Patippakam\]. (From National Library Online)
+[^23]: Putumaitacan புதுமைதாசன். _Aṭukku vīṭṭu aṇṇācāmi: Nakaccuvai nāṭakam_ [அடுக்கு வீட்டு அண்ணாசாமி: நகச்சுவை நாடகம்](https://www.nlb.gov.sg/main/book-detail?cmsuuid=89a1ae62-55e5-4ccb-ab6c-91d8ad68b1f6) \[Annasami and his apartment\], vol. 2. (சென்னை: கணியன் பதிப்பகம், 2000), 7. &nbsp;\[Cennai: Kaniyan Patippakam\]. (From National Library Online)
 
-24 லதா Lata, “Vīṭu” வீடு \[Home\], in _Nāṉ kolai ceyyum peṇkaḷ_ [நான் கொலை செய்யும் பெண்கள்](https://www.nlb.gov.sg/main/book-detail?cmsuuid=bc631436-b581-4db6-862a-8b1fbafd33d5) \[The women I kill\] (Singapore: Kanagalatha, 2007), 93. (From National Library Online)
+[^24]: லதா Lata, “Vīṭu” வீடு \[Home\], in _Nāṉ kolai ceyyum peṇkaḷ_ [நான் கொலை செய்யும் பெண்கள்](https://www.nlb.gov.sg/main/book-detail?cmsuuid=bc631436-b581-4db6-862a-8b1fbafd33d5) \[The women I kill\] (Singapore: Kanagalatha, 2007), 93. (From National Library Online)
 
-25 Elangkannan, [நினைவுகளின் கோலங்கள்](https://www.nlb.gov.sg/main/book-detail?cmsuuid=0ae587fe-2ae1-4f57-b183-edaccce88935), 172.
+[^25]: Elangkannan, [நினைவுகளின் கோலங்கள்](https://www.nlb.gov.sg/main/book-detail?cmsuuid=0ae587fe-2ae1-4f57-b183-edaccce88935), 172.
 
-26 National Library Board and National Archives of Singapore, [_Singapore: The First Ten Years of Independence 1965 to 1975_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12885060), 84.
+[^26]: National Library Board and National Archives of Singapore, [_Singapore: The First Ten Years of Independence 1965 to 1975_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12885060), 84.
 
-27 National Library Board and National Archives of Singapore, [_Singapore: The First Ten Years of Independence 1965 to 1975_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12885060), 82.
+[^27]: National Library Board and National Archives of Singapore, [_Singapore: The First Ten Years of Independence 1965 to 1975_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12885060), 82.
 
-28 “Citizen Soldiers,” [_The Mirror_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=d613a06b-f4bd-49b9-abfa-379c9232d362) 3, no. 37 (11 September 1967): 4–5. (From National Library Online)
+[^28]: “Citizen Soldiers,” [_The Mirror_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=d613a06b-f4bd-49b9-abfa-379c9232d362) 3, no. 37 (11 September 1967): 4–5. (From National Library Online)
 
-29 Kannapiran கண்ணபிரான், “Tāṉā mērā ṭairi” தானா மேரா டைரி \[Tanah Merah Diary\] in _Ciṅkappūr poṉviḻā ciṟukataikaḷ_ [சிங்கப்பூர் பொன்விழா சிறுகதைகள்](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202690173) \[Golden jubilee short stories\], et al., ed. இரா துரைமாணிக்கம் Ra. Turaimanikkam, (சிங்கப்பூர்: சிங்கப்பூர் தமிழ் எழுத்தாளர் கழகம், 2015), 80. &nbsp;\[Singapore: Association of Singapore Tamil writers\]. (From National Library Singapore, call no. Tamil R S894.811372 CIN)
+[^29]: Kannapiran கண்ணபிரான், “Tāṉā mērā ṭairi” தானா மேரா டைரி \[Tanah Merah Diary\] in _Ciṅkappūr poṉviḻā ciṟukataikaḷ_ [சிங்கப்பூர் பொன்விழா சிறுகதைகள்](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202690173) \[Golden jubilee short stories\], et al., ed. இரா துரைமாணிக்கம் Ra. Turaimanikkam, (சிங்கப்பூர்: சிங்கப்பூர் தமிழ் எழுத்தாளர் கழகம், 2015), 80. &nbsp;\[Singapore: Association of Singapore Tamil writers\]. (From National Library Singapore, call no. Tamil R S894.811372 CIN)
 
-30 S. V. Shanmugam எஸ்.வி. சண்முகம், “Irāma kaṇṇapirāṉ - oru kaṇṇōṭṭam” இராம கண்ணபிரான் - ஒரு கண்ணோட்டம் \[A review on Rama Kannapiran\], in _Ciṅkapuril tamiḻ moḻiyum tamiḻilakkiyamum \[nikaḻcci niral\]_ [சிங்கபுரில் தமிழ் மொழியும்&nbsp; தமிழிலக்கியமும் \[நிகழ்ச்சி&nbsp; நிரல்\]](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12913330) \[Tamil language and literature in Singapore (programme)\]. (Singapore: The Society, 1983). (From National Library Singapore, call no. Tamil RSING 494.81109595707 SIN-\[MKN\])
+[^30]: S. V. Shanmugam எஸ்.வி. சண்முகம், “Irāma kaṇṇapirāṉ - oru kaṇṇōṭṭam” இராம கண்ணபிரான் - ஒரு கண்ணோட்டம் \[A review on Rama Kannapiran\], in _Ciṅkapuril tamiḻ moḻiyum tamiḻilakkiyamum \[nikaḻcci niral\]_ [சிங்கபுரில் தமிழ் மொழியும்&nbsp; தமிழிலக்கியமும் \[நிகழ்ச்சி&nbsp; நிரல்\]](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12913330) \[Tamil language and literature in Singapore (programme)\]. (Singapore: The Society, 1983). (From National Library Singapore, call no. Tamil RSING 494.81109595707 SIN-\[MKN\])
 
-31 Kumarasami, “[Pācir pañcāṅka vaṭṭārattil vāḻkai](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84497830),” 67.
+[^31]: Kumarasami, “[Pācir pañcāṅka vaṭṭārattil vāḻkai](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84497830),” 67.
 
-32 பரணன் Paranan, “Iru viḻikaḷ” இரு விழிகள் \[Two eyes\], in _Etiroli_ [எதிரொலி](https://www.nlb.gov.sg/main/book-detail?cmsuuid=0c5ca4b1-5a0d-4082-870e-526c0c1120df) \[Echo\] (p. 43). (சிங்கப்பூர்: தமிழ்வளர்ச்சிப் பண்ணை, 1983), 43. (From National Library Online)
+[^32]: பரணன் Paranan, “Iru viḻikaḷ” இரு விழிகள் \[Two eyes\], in _Etiroli_ [எதிரொலி](https://www.nlb.gov.sg/main/book-detail?cmsuuid=0c5ca4b1-5a0d-4082-870e-526c0c1120df) \[Echo\] (p. 43). (சிங்கப்பூர்: தமிழ்வளர்ச்சிப் பண்ணை, 1983), 43. (From National Library Online)
 
-33 Kannapiran கண்ணபிரான், _Vāḻvu kataikaḷ_ [வாழ்வு கதைகள்](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201286274) \[Life\] (சிங்கப்பூர்: கிரிம்சன் எர்த் பதிப்பகம், 2015), 31. (From National Library Singapore, call no. R S894.811271 KAN)
+[^33]: Kannapiran கண்ணபிரான், _Vāḻvu kataikaḷ_ [வாழ்வு கதைகள்](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201286274) \[Life\] (சிங்கப்பூர்: கிரிம்சன் எர்த் பதிப்பகம், 2015), 31. (From National Library Singapore, call no. R S894.811271 KAN)
 
-34 Singapore. Department of Statistics, [_Census of Population 2010. Statistical Release 1, Demographic Characteristics, Education, Language and Religion_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13785367) (Singapore: Dept. of Statistics, Ministry of Trade and Industry, 2011), 27. (From National Library Singapore, call no. RSING 304.6021095957 CEN)
+[^34]: Singapore. Department of Statistics, [_Census of Population 2010. Statistical Release 1, Demographic Characteristics, Education, Language and Religion_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13785367) (Singapore: Dept. of Statistics, Ministry of Trade and Industry, 2011), 27. (From National Library Singapore, call no. RSING 304.6021095957 CEN)
 
-35 Singapore. Department of Statistics, [_Census of Population 2010. Statistical Release 1, Demographic Characteristics, Education, Language and Religion_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13785367), 25.
+[^35]: Singapore. Department of Statistics, [_Census of Population 2010. Statistical Release 1, Demographic Characteristics, Education, Language and Religion_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13785367), 25.
 
-36 “[Primary School Exams for 4 Streams](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19600520-1.2.41),” _Straits Times_, 20 May 1960, 4. (From NewspaperSG)
+[^36]: “[Primary School Exams for 4 Streams](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19600520-1.2.41),” _Straits Times_, 20 May 1960, 4. (From NewspaperSG)
 
-37 “[Primary School Exams for 4 Streams](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19600520-1.2.41).”
+[^37]: “[Primary School Exams for 4 Streams](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19600520-1.2.41).”
 
-38 “Frequently Asked Questions,” Singapore Examinations and Assessment Board, accessed 18 September 2017. &nbsp;
+[^38]: “Frequently Asked Questions,” Singapore Examinations and Assessment Board, accessed 18 September 2017. &nbsp;
 
-39 Alakunila அழகுநிலா, _Ār̲añcu: Cir̲ukataikaḷ_ [ஆரஞ்சு சிறுகதைகள்](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202342478) \[Six five\] (சிங்கப்பூர்: அழகுநிலா, 2015), 40–41. (From National Library Singapore, call no. Tamil R S894.811372 AZA)
+[^39]: Alakunila அழகுநிலா, _Ār̲añcu: Cir̲ukataikaḷ_ [ஆரஞ்சு சிறுகதைகள்](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202342478) \[Six five\] (சிங்கப்பூர்: அழகுநிலா, 2015), 40–41. (From National Library Singapore, call no. Tamil R S894.811372 AZA)
 
-40 “PSLE Scoring,” Ministry of Education, accessed 2016.
+[^40]: “PSLE Scoring,” Ministry of Education, accessed 2016.
 
 41 “Singapore Is Top Asian Nation for Gender Equality: UN Report,” _Straits Times_, 29 December 2015. (From Factiva via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
