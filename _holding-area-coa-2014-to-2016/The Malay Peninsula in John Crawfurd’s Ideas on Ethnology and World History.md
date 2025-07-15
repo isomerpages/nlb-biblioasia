@@ -257,3 +257,45 @@ express this:
    foundation for a more perfect superstructure by those who may<br>
    follow the Author in the same direction*.40
 
+This shows that Orientalists such as Crawfurd were well aware that the
+information they had on the outside world was far from perfect, questioned
+its validity, and sought to improve and add new insights to its existing pool
+of knowledge.
+
+Crawfurd was not an Orientalist who drew his conclusions about the Far
+East by merely theorising about the region from the comforts of his study.
+When writing about Southeast Asia and its inhabitants, he drew some of
+his ideas from personal observations, experiences and surveys conducted in
+the region, as well as from materials he collected there, such as indigenous
+manuscripts.41 His emphasis on history in his writings and in forwarding
+his arguments made him stand out as a historian, and he relied on both
+indigenous and European historical sources when writing about the
+inhabitants of Asia and other parts of the world.
+
+On unfamiliar topics, Crawfurd would refer to the works of other scholars
+such as Marsden, Raffles, Anderson, Thomas John Newbold (1807–50) and
+James Richardson Logan (1819–69), as well as the writings and accounts
+of European adventurers and explorers to the region such as James Cook (1728–1779) and William Dampier (1651–1715) despite his dismissive
+comments (as mentioned earlier) about the crude narratives of some
+mariners.42 Some of his information was obtained directly from locals and
+from questioning local tradition and beliefs, essentially demonstrating
+that indigenous knowledge was a feature of imperial knowledge of the
+outside world and was not solely a Western construct.43 In J*ournal of an
+Embassy from the Governor-General of India to the Courts of Siam and Cochin
+China* (1828), for instance, Crawfurd revealed that he relied on his Malay
+interpreters in his travels to furnish him with local knowledge.44
+
+Crawfurd’s low opinion of indigenous historical sources has been singled
+out by scholars as an example of dismissive Western attitudes toward
+Eastern histories.45 However, his concern was the search for reliable
+historical information on the region that he unfortunately found lacking in
+indigenous sources, and he had at least consulted and even cited them rather
+than side-lining them outright.46 He dismissed them for the same reason
+he dismissed unreliable Western histories, not merely because they were
+indigenous histories.
+
+The difficulty of finding reliable local historical texts was stressed by
+Crawfurd when writing about Malacca in his 1858 dictionary. He noted,
+“the native history of Malacca is as usual full of obscurity… There is too
+much reason to believe that the greater part of the story is a fabrication of
+comparative recent times, and indeed, there is sufficient internal evidence 
