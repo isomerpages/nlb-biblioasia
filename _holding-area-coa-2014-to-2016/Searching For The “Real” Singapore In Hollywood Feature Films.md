@@ -596,7 +596,7 @@ Tan, Fiona. “Four Accounts of a Shooting” (blog), Malaya Black and White, 10
 
 _Singapore Free Press and Mercantile Advertiser (1884–1942)_. “[The Film Invasion](https://eresources.nlb.gov.sg/newspapers/digitised/article/singfreepressb19360320-1.2.58.2).” 20 March 1936, 8. (From NewspaperSG)
 
-Toh, Hun Ping. _Singapore Film Locations Archives_. Accessed 21 July 2016. [https://www.pic-hub.org/en/post/singapore-film-locations-archive](https://www.pic-hub.org/en/post/singapore-film-locations-archive).
+Toh, Hun Ping. _Singapore Film Locations Archives_. Accessed 21 July 2016. https://www.pic-hub.org/en/post/singapore-film-locations-archive.
 
 —. _Trade Winds_. 1938. Accessed 10 May 2016. https://sgfilmlocations.com/2014/08/08/trade-winds-1938.
 
@@ -626,7 +626,7 @@ Wright, H. Nadia. [_Respected Citizens: The History of Armenians in Singapore an
 
 [^3]: Mark Ravinder Frost and Yu-Mei Balasingamchow, [_Singapore: A Biography_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13229116) (Singapore: Editions Didier Millet, 2009), 135. (From National Library Singapore, Call no. RSING 959.57 FRO-\[HIS\])
 
-[^4]: Raphael Millet, [_Singapore Cinema_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12716044) (Singapore: Editions Didier Millet, 2006), 19 (From National Library Singapore, call no. RSING q791.43095957 MIL); Raphael Millet, “[Gaston Méliès and His Lost Films of Singapore](https://biblioasia.nlb.gov.sg/vol-12/issue-1/apr-jun-2016/gaston-melies/),” _BiblioAsia_ 12, no. 1 (April–June 2016); Toh Hun Ping, _Singapore Film Locations Archives_, accessed 21 July 2016, [https://sgfilmlocations.com](https://sgfilmlocations.com).
+[^4]: Raphael Millet, [_Singapore Cinema_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12716044) (Singapore: Editions Didier Millet, 2006), 19 (From National Library Singapore, call no. RSING q791.43095957 MIL); Raphael Millet, “[Gaston Méliès and His Lost Films of Singapore](https://biblioasia.nlb.gov.sg/vol-12/issue-1/apr-jun-2016/gaston-melies/),” _BiblioAsia_ 12, no. 1 (April–June 2016); Toh Hun Ping, _Singapore Film Locations Archives_, accessed 21 July 2016,  https://www.pic-hub.org/en/post/singapore-film-locations-archive.
 
 [^5]: Millet, [_Singapore Cinema_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=12716044), 143–44; Lai Chee Keong, “The Native in Her Place: Hollywood Depictions of Singapore From 1940–1980,” unpublished paper, 2001. Prints of these films are not easily available, with some existing only as non-circulating archival copies. The only print of _Sal of Singapore_, which is held in the UCLA library, is currently undergoing preservation and is inaccessible to researchers, while the sole known copy of _The Crimson City_ was rediscovered in 2010 in the archives of the Museo del Cine in Buenos Aires, Argentina. See Larry Rohter, “Footage Restored to Fritz Lang’s ‘Metropolis’,” _New York Times_, 4 May 2010, accessed 21 May 2013, [https://www.nytimes.com/2010/05/05/movies/05metropolis.html](https://www.nytimes.com/2010/05/05/movies/05metropolis.html).
 
@@ -644,7 +644,7 @@ Wright, H. Nadia. [_Respected Citizens: The History of Armenians in Singapore an
 
 [^12]: Fiona Tan, “Four Accounts of a Shooting” (blog), Malaya Black and White, 10 April 2013, http://malayablackandwhite.wordpress.com/2013/04/10/four-accountsof- a-shooting/; “[An Occasional Note](https://eresources.nlb.gov.sg/newspapers/digitised/article/straitstimes19261013-1.2.26),” _Straits Times_, 13 October 1926, 8 (From NewspaperSG); London: Public Record Office, “Public Prosecutor vs Ethel Mabel Proudlock,” 7 June 2011 (Criminal Case No. 22/11, C.O. 273/274), accessed 23 May 2013, MalayaBlack and white Files,&nbsp; http://malayablackandwhite.files.wordpress.com/2013/04/co273-374-proudlock-evidence.pdf.
 
-[^13]: Ben Ames Williams, _All the Brothers Were Valiant_ (New York: The Macmillan Company, 1919), [http://www.gutenberg.org/files/25885/25885-h/25885-h.htm](http://www.gutenberg.org/files/25885/25885-h/25885-h.htm); R. Buccicone, “The Road to Singapore,” (blog), Macguffinmovies, 30 January 2012, accessed 30 May 2013, [http://macguffinmovies.wordpress.com/2012/01/30/the-road-tosingapore/](http://macguffinmovies.wordpress.com/2012/01/30/the-road-tosingapore/); Margarita Landazuri, “The Road to Singapore,” 1931, accessed 30 May 2013, Turner Classic Movies; Une Cinephile “Road to Singapore,” (blog), 26 January 2012, accessed 30 May 2013, http://unecinephile.blogspot.com/2012/01/road-to-singapore-1931.html.
+[^13]: Ben Ames Williams, _All the Brothers Were Valiant_ (New York: The Macmillan Company, 1919), [http://www.gutenberg.org/files/25885/25885-h/25885-h.htm](http://www.gutenberg.org/files/25885/25885-h/25885-h.htm); R. Buccicone, “The Road to Singapore,” (blog), Macguffinmovies, 30 January 2012, accessed 30 May 2013, [http://macguffinmovies.wordpress.com/2012/01/30/the-road-to-singapore/](http://macguffinmovies.wordpress.com/2012/01/30/the-road-to-singapore/); Margarita Landazuri, “The Road to Singapore,” 1931, accessed 30 May 2013, Turner Classic Movies; Une Cinephile “Road to Singapore,” (blog), 26 January 2012, accessed 30 May 2013, http://unecinephile.blogspot.com/2012/01/road-to-singapore-1931.html.
 
 [^14]: Ronald Hyam, _Empire and Sexuality: The British Experience_ (Manchester: Manchester University Press, 1990), 179–80.
 
