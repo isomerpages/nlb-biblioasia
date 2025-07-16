@@ -5,6 +5,13 @@ description: ""
 third_nav_title: People
 variant: markdown
 ---
+#### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/dutch-burghers-ceylonese-malaya/">Dutch Burghers in British Malaya</a>
+
+ <p>A murder mystery sheds light on the little-known story of the Ceylonese pioneers from the Dutch Burgher community who joined the subordinate government ranks in British Malaya</p> 
+
+<img src="/images/Vol%2021%20Issue%203/Dutch%20Burghers/burghers_Topics.jpg" style="width:80%;">
+<hr>
+
 #### <a style="text-decoration: none; font-weight: bold;" href="/vol-21/issue-3/oct-dec-2025/zubir-said-julian-wong-podcast-transcript/">“Majulah Singapura” Finally Repaired the Breach</a>
 
 In a BiblioAsia+ podcast, music director Julian Wong reveals little-known details about the composer of Singapore’s national anthem.
