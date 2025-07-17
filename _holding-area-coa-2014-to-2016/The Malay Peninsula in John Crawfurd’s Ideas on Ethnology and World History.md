@@ -22,7 +22,7 @@ Southeast Asia* provides excellent coverage of the writings of key early
 (1775–1811), Thomas Stamford Raffles (1781–1826), William Marsden
 (1754 –1836), John Anderson (1795–1845) as well as Crawfurd. She goes
 to great lengths to underscore the characteristics of their works and the intellectual influences that shaped their ideas and how their works
-influenced the findings of others.1
+influenced the findings of others.[^1] 
 
 Quilty’s analysis of Crawfurd’s writings, however, is limited to just three
 of his publications. Her conclusion might have been different had she read
@@ -33,7 +33,7 @@ Crawfurd’s other writings, as she would have today thanks to digitisation.
 In spite of this, Gareth Knapman’s recent research on Crawfurd has shown
 that Crawfurd’s opinions are still misunderstood – Crawfurd’s writings were
 selected out of context and used to simplify 19th-century thought to the
-point of misrepresentation.2
+point of misrepresentation.[^2] 
 
 This paper seeks to explore Crawfurd’s diverse intellectual works to
 determine how the inhabitants of the Malay Peninsula fit into his ideas on
@@ -61,19 +61,19 @@ Among the 19th-century British scholar-administrators of the Malay
 Peninsula, Crawfurd was one of the most accomplished in the intellectual
 sphere. He was widely recognised by the scholarly community of his time
 for his formidable intellect and his works on Asia (especially Southeast Asia),
-as well as his contributions to the fields of ethnology and linguistics.3 *The
+as well as his contributions to the fields of ethnology and linguistics.[^3] *The
 Spectator* noted in 1834 that “Crawfurd [was] well-known by his writings on
 Eastern manners and statistics, and his exertions to open the British trade
-with China and India”.4 Sir Frank Swettenham (1850–1946), former governor
+with China and India”.[^4] Sir Frank Swettenham (1850–1946), former governor
 of the Straits Settlements and commissioner for the Federated Malay States,
 found that of Raffles, Marsden and Crawfurd, the latter wrote about the
-Malay language with “probably the highest authority”.5
+Malay language with “probably the highest authority”.[^5]
 
 Crawfurd’s writings on Southeast Asia provided a wealth of information for
 those with an interest in the region, especially merchants, intellectuals and
 imperial civil servants (both aspiring and serving). They are still appreciated
 for the insights they provide into Southeast Asia’s past, however flawed they
-may be from today’s standpoint.6 In his intellectual pursuits, Crawfurd, like
+may be from today’s standpoint.[^6] In his intellectual pursuits, Crawfurd, like
 many of his contemporaries, sought to understand the interplay between
 mankind and its history. The inhabitants of the Malay Peninsula were often featured in his extensive writings on ethnology and (what would
 now be termed as) world history. Crawfurd would, furthermore, use his
@@ -85,18 +85,18 @@ his views on polygenesis.
 
 #### **A Sketch of Crawfurd’s Life and Career**
 John Crawfurd was born on 13 August 1783, on the island of Islay in the
-west of Scotland.7 His father, Samuel Crawfurd, was a medical doctor from
+west of Scotland.[^7] His father, Samuel Crawfurd, was a medical doctor from
 Ayrshire, known to be “a man of sense and prudence”, and his mother
-was Margaret née Campbell.8 Crawfurd was educated in a village school
+was Margaret née Campbell.[^8] Crawfurd was educated in a village school
 in Bowmore, Islay. In 1799, he enrolled in medical school in Edinburgh;
 medicine was a field for which, “he never had much taste, having been
 chosen for him”, according to his 1868 obituary in *The Sydney Morning
-Herald*.9 It later became evident that Crawfurd’s interests lay in languages,
+Herald*.[^9] It later became evident that Crawfurd’s interests lay in languages,
 history, ethnology, natural sciences and political administration.
 
 At the conclusion of his studies in 1803, he left for Calcutta, India, as an
 assistant surgeon in the East India Company’s Bengal medical service,
-being assigned to the army.10 In 1808, after five years of active service in the
+being assigned to the army.[^10] In 1808, after five years of active service in the
 northwestern provinces of India, Crawfurd was appointed to the medical
 staff of Prince of Wales Island (present-day Penang), where he used his time to study the Malay language and its people.11 In 1811, together with Thomas
 Stamford Raffles and John Leyden, Crawfurd was invited by Lord Minto
