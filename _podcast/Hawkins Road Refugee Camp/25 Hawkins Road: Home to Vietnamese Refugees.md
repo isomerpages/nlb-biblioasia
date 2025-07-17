@@ -29,7 +29,7 @@ the refugees spent their days in the camp and their lives after Singapore.</p>
 <p>Rebecca Tan is a Digital Preservation Archivist at the National Archives
 of Singapore. She was previously a Children and Teens Librarian at Toa
 Payoh Public Library, and a Digital Heritage Librarian at the National
-Library.</p>
+Library Singapore.</p>
 <p></p>
 </div>
 </details>
