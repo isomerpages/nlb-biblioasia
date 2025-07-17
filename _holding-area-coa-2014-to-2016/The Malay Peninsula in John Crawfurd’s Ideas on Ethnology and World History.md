@@ -636,7 +636,7 @@ European subjectivity:
    a fancy could not possibly have originated with any other race<br> 
    of man. The superiority which the White man has always<br> 
    shown, perhaps justifies us in considering a fair complexion the<br> 
-most favourable*.120
+   most favourable*.120
 
 Crawfurd’s arguments about skin colour bearing no connection to climate
 were related to his broader polygenetic views on ethnology and history.
