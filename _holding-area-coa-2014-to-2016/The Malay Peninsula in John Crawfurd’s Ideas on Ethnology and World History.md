@@ -315,11 +315,11 @@ British imperial knowledge of foreign places has to be seen as a collection of
 individual ideas, because not everyone had the same understanding of the
 world. Crawfurd, for instance, would often contest views that he did not
 agree with, such as the commonly perceived notion of laziness among the
-inhabitants of the Indian Archipelago.51 In *History of the Indian Archipelago*,
+inhabitants of the Indian Archipelago.[^51] In *History of the Indian Archipelago*,
 Crawfurd pointed out that laziness was not an innate characteristic of the
 natives, noting that their attitude was understandable because there was no
 encouragement to work hard and accumulate wealth in a society where there
-were no laws protecting private property.52
+were no laws protecting private property.[^52]
 
 As already suggested, Crawfurd’s ideas were not developed solely from
 his own personal reasoning, but also drawn from studying the works of
@@ -332,7 +332,7 @@ of the Malay Language with a Preliminary Dissertation*, where Crawfurd
 thanks his friend Marsden for his help by sending Crawfurd his dictionary;
 Professor of Sanskrit at Oxford Horace Hayman Wilson (1786–1860) for
 his assistance with Sanskrit etymologies; and Logan and his journal for the
-information they furnished on the region of his interest.53
+information they furnished on the region of his interest.[^53]
 
 Such exchanges were another way Crawfurd addressed the gaps in his
 knowledge and developed his ideas. Tracing his networks of intellectual
@@ -365,13 +365,13 @@ In his article published in the journal of the Ethnological Society of London,
 read in 1864 and published in 1865, Crawfurd highlighted the theory that
 “mongrels resulting from the union of two different races of the human
 family” were sterile. The idea, he noted, had “lately sprung up” and was
-beginning to obtain currency in France and America.54 Crawfurd saw this
+beginning to obtain currency in France and America.[^54] Crawfurd saw this
 theory as one that was “without a shadow of foundation”, as evidenced by
 the mixed-race communities in Asia, “which multiply just as fast as do the
-parent stocks from which they derived”.55 He would have also drawn this
+parent stocks from which they derived”.[^55] He would have also drawn this
 conclusion from his observations of the mixed-race communities in the
 Malay Peninsula – as suggested in his other ethnological article, “On the
-Commixture of the Races of Man as affecting the Progress of Civilisation”.56
+Commixture of the Races of Man as affecting the Progress of Civilisation”.[^56] 
 Here, pointing to the Peranakan communities of the Malay Peninsula,
 Crawfurd wrote that:
 
@@ -380,28 +380,28 @@ Crawfurd wrote that:
    and Chinese, by the term Páranakan [sic], with the national<br> 
    designation of the father annexed, and literally signifying<br> 
    “offspring of the womb”, a word of the same import as the<br> 
-   Moplay or Mopilla referred to*.57
+   Moplay or Mopilla referred to*.[^57]
 
 In Malacca, which had been colonised by the Portuguese since 1511, he
 observed that a cross-race of Eurasians had sprung up, and they had “so
 much of Malay blood as to be hardly distinguishable from the Malays
-themselves”.58 Crawfurd’s position on the children of mixed racial unions can be seen in this article – they would be an “intermediate” offspring,
+themselves”.[^58] Crawfurd’s position on the children of mixed racial unions can be seen in this article – they would be an “intermediate” offspring,
 superior to the race of the “inferior” parent, but inferior to the race of the
-“superior” one.59 When discussing the Peranakan communities of the Malay
+“superior” one.[^59] When discussing the Peranakan communities of the Malay
 Peninsula, he pointed out that “these half-castes speak the language of the
 father as well as that of the mother, and are distinguished from the pure
-Malay by superior intelligence”.60
+Malay by superior intelligence”.[^60]
 
 In *History of the Indian Archipelago*, Crawfurd noted that Chinese who
 intermarried “with the natives of the country, generate a race inferior in
-energy and spirit” to the Chinese.61 Therefore, “the result of the union of a
+energy and spirit” to the Chinese.[^61] Therefore, “the result of the union of a
 Chinese and a Malay – one of frequent occurrence – is a deterioration in
-the Chinese and an improvement in the Malay”.62 This was the reason why
+the Chinese and an improvement in the Malay”.[^62] This was the reason why
 Crawfurd, in *History of the Indian Archipelago*, wrote positively about mixedracial
 unions in European colonies, especially between Europeans and the
 local populace, because he believed it would improve the social conditions of
 the indigenous society, just as the Turks in Europe, as he later wrote in 1865,
-had been greatly improved by intermixture with European blood.63
+had been greatly improved by intermixture with European blood.[^63] 
 
 Crawfurd, nevertheless, saw individuals of mixed races as a race unto their
 own, as observed in an 1861 article, “On the Classification of the Races of
