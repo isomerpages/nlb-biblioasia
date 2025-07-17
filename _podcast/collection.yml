@@ -2,6 +2,8 @@ collections:
   podcast:
     output: true
     order:
+      - "Hawkins Road Refugee Camp/25 Hawkins Road: Home to Vietnamese
+        Refugees.md"
       - Hawkins Road Refugee Camp/.keep
       - The National Anthem/.keep
       - The National Anthem/The Making of Majulah Singapura as We Know It.md
