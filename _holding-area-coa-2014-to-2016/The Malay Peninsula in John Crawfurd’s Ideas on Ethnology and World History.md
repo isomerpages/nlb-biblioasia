@@ -886,6 +886,18 @@ Western imperial knowledge of the outside world, a vast global information
 network, operated during his time.
 
 
+#### **Acknowledgments**
+
+*The author would like to thank his subject reviewer, Associate Professor
+Syed Muhammad Khairudin Aljunied of the Department of Malay Studies,
+National University of Singapore; Dr Austin Gee of the University of
+Otago; and Dr Gareth Knapman of the National Centre for Indigenous
+Studies, Australian National University, for their feedback on this paper.
+The author is also grateful for the assistance provided by Gracie Lee, Senior
+Librarian at the National Library, Singapore, in this research. The outcome
+of this paper, however, is not the responsibility of these individuals, but
+the author’s*.
+
 <div>
 <b>Wilbert Wong Wei Wen</b> is a PhD student at the Australian National University.
 His PhD research engages with British colonial knowledge of the Malay Peninsula, with
@@ -895,3 +907,109 @@ the colonial and post-colonial period. Wilbert’s research interests lie in are
 world history, Asian history (East and Southeast Asia), British discourse on Asia and
 intellectual history, as well as the history of globalisation and cross-cultural encounters.</div>
 
+#### **BIBLIOGRAPHY**
+
+
+**_Primary Sources_**
+
+Anon. “Notice of Mr Crawfurd’s Descriptive Dictionary.” _Journal of the Indian Archipelago and Eastern Asia (new series)_, 1 (1856): 291–5. (From National Library Singapore, RRARE 950.05 JOU)
+
+Crawfurd, John. [_A Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b). London: Bradbury &amp; Evan, 1856. (From National Library Online)
+
+—. [_A Grammar and Dictionary of the Malay Language With a Preliminary Dissertation_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=74df255c-8dbb-42f1-b381-97c04752b32d), 2 vols. London: Smith, Elder, 1852, viii. (From National Library Online)
+
+—. [_History of the Indian Archipelago: Containing an Account of the Manners, Arts, Languages, Religions, Institutions, and Commerce of Its Inhabitants_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=0469b121-f1eb-4958-a97b-d8a2f3a067d1), vol. 1. Edinburgh: Archibald Constable and Co., 1820. 3 vols. (From National Library Online; microfilm NL25440)
+
+—. [_Journal of an Embassy to the Courts of Siam and Cochin China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=90035). Kuala Lumpur: Oxford University Press, 1967. (From National Library Singapore, call no. RCLOS&nbsp; 959.3 CRA)
+
+—. “On Colour as a Test of the Races of Man.” _Transactions of the Ethnology Society of London 2_ (1863): 251–60. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+—. “On Language as a Test of the Races of Man.” _Transactions of the Ethnological Society of London_ 3 (1865): 1–9. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+—. “On Sir Charles Lyell’s ‘Antiquity of Man’, and Professor Huxley’s Evidence As to Man’s Place in Nature.” _Transactions of the Ethnological Society of London_ 3 (1865): 58–70 (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+—. “On the Aryan or Indo-Germanic Theory.” _Transactions of the Ethnological Society of London_ 1 (1861): 268–86. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+—. “On the Classification of the Races of Man.” _Transactions of the Ethnological Society of London_ 1 (1861): 354–78. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+—. “On the Classification of the Races of Man According to the Form of the Skull.” _Transactions of the Ethnological Society of London_ 6 (1868): 127–34. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+—. “On the Commixture of the Races of Man As Affecting the Progress of Civilization.” _Transactions of the Ethnological Society of London_ 3 (1865): 98–122. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+—. “On the Commixture of the Races of Man in Western and Central Asia.” _Anthropological Review_ 1, no. 1 (May 1863): 159–60. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+—. “On the Conditions Which Favour, Retard, or Obstruct the Early Civilization of Man.” _Transactions of the Ethnological Society of London_ 1 (1861): 154–177. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+—. “On the Connexion Between Ethnology and Physical Geography.” _Transactions of the Ethnological Society of London_ 2 (1863): 4–23. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+—. “On the Early Migrations of Man.” _Transactions of the Ethnological Society of London_ 3 (1865): 335–350. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+—. “On the Invention of Writing Materials in Reference to Ethnology.” _Transactions of the Ethnological Society of London_ 5 (1867): 155–61 (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+—. “On the Malayan and Polynesian Languages and Races.” _Journal of the Ethonological Society of London (1848–1856)_ 1 (1848): 330–374. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+—. “On the Malayan Race of Man and Its Prehistoric Career.” _Transactions of the Ethnological Society of London_ 7 (1869): 119–33. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+—. “On the Numerals as Evidence of the Progress of Civilization.” _Transactions of the Ethnological Society of London_ 2 (1863): 84–111. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+—. “On the Physical and Mental Characteristics of the European and Asiatic Races of Man.” _Transactions of the Ethnological Society of London_ 5 (1867): 58–81. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+—. “On the Physical and Mental Characteristics of the Negro.” _Transactions of the Ethnology Society of_ _London_ 4 (1866): 212–39. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+—. “On the Skin, the Hair and the Eyes, As Tests of the Races of Man.” _Transactions of the Ethnology Society of London_ 6 (1868): 144–49. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+—. “On the Supposed Infecundity of Human Hybrids or Crosses.” _Transactions of the Ethnological Society of London_ 3 (1865): 356–62. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+—. “On the Theory of the Origin of Species by Natural Selection in the Struggle for Life.” _Transactions of the Ethnological Society of London_ 7 (1869): 27–38. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+—. “On the Vegetable and Animal Food of the Natives of Australia in Reference to Social Position, With a Comparison Between the Australians and Some Other Races of Man.” _Transactions of_ _the Ethnological Society of London_ 6 (1868): 121–22. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Hunt, James. “Anthropology at the British Association.” _Anthropological Review_, 6, no. 20 (January 1868): 88–97 (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Murchison, Roderick Impey. “Address to the Royal Geographical Society.” _Journal of the Royal Geographical Society of London_, 38 (1868): cxxxiii–cxcviii. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Naoroji, Dadabhai. “Observations on Mr. John Crawfurd’s Paper on the European and Asiatic Races.” _Transactions of the Ethnological Society of London_ 5 (1867): 127–49. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+
+Thomson, Thomas. _A Biography of Eminent Scotsmen_. Vol. 3. London: Blackie and Son, 1870.
+
+Thomson, John Turnbull. _Rambles With a Philosopher, or Views at the Antipodes by an Otagonian_. Dunedion, N.Z.: Mills, Dick &amp; Co., 1867.
+
+—. [_Some Glimpses Into Life in the Far_ East](https://www.nlb.gov.sg/main/book-detail?cmsuuid=16862810-4ee0-417f-ac05-0d5942b44550). London: Richardson &amp; Co., 1865. (From National Library Online)
+
+**_Secondary Sources_**
+
+Ang, Seow Leng. “[A Bilingual Dictionary by a Scotsman](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/malay-dictionary-crawfurd/),” _BiblioAsia_ 11, no. 4 (January–March 2016)
+
+Bayly, C. A. [_Empire and Information: Intelligence Gathering and Social Communication in India, 1780–1870_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7768099)_._ New York: Cambridge University Press, 1996. (From National Library Singapore, call no. R 327.1241054 BAY)
+
+Broadie, Alexander, ed. [_The Cambridge_ _Companion to the Scottish Enlightenment_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11559462)_._ Cambridge: Cambridge University Press, 2003. (From National Library Singapore, call no. R 001.0941109033 CAM)
+
+Buckley, Charles Burton. [_An Anecdotal History of Old Times in Singapore 1819–1867_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082239). Singapore: Oxford University Press, 1984. (From National Library Singapore, call no. RSING 959.57 BUC-\[HIS\])
+
+Ellingson, Terry Jay. [_The Myth of the Noble Savage_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202514842). Berkeley: University of California Press, 2001. (From National Library Singapore, call no. RSEA 301.01 ELL)
+
+Harrison, Mark. _Climates &amp; Constitutions: Health, Race, Environment and British Imperialism in India, 1600–1850_. New Delhi: Oxford University Press, 1999.
+
+Knapman, Gareth. “Race, Polygenesis and Equality: John Crawfurd and Nineteenth-Century Resistance to Evolution.” _History of European Ideas_ 42, no. 7 (2016): 909–23.
+
+—. [_Race and British Colonialism in Southeast Asia 1770–1870: John Crawfurd and the Politics of Equality_](https://catalogue.nlb.gov.sg/search/card?recordId=202670828). New York: Routledge, 2017. (From National Library, call no. RSING 325.01 KNA)
+
+Manickam, Sandra Khor. [_Taming the Wild: Aborigines and Racial Knowledge in Colonial Malaya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201211346). Singapore: NUS Press, 2015. (From National Library Singapore, call no. RSING 305.8009595 MAN)
+
+Muhammad Salleh Yaapar, quoted in Lufti Zahid, “Sulalatus Salatin, Tak Lapuk Dek Hujan, Tak Lekang Dek Panas.” _Dewan Bahasa_ (November 2015): 55.
+
+Muller, Martin. “Manufacturing Malayness: British Debates on the Malay Nation, Civilisation, Race and Language in the Early Nineteenth Century.” [_Indonesia and the Malay World_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8347428) 42 (123) (2014): 170–94. (From National Library Singapore, call no. RSING 959.8 IMW)
+
+Pittock, Murray. “Historiography.” [_The Cambridge_ _Companion to the Scottish Enlightenment_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11559462), ed. Alexander Broadie. Cambridge: Cambridge University Press, 2003, 258–79. (From National Library Singapore, call no. R 001.0941109033 CAM)
+
+Quilty, Mary. [_Textual Empires: A Reading of Early British Histories of Southeast Asia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9347426). Clayton, Victoria: Monash Asia Institute, 1998. (From National Library Singapore, call no. RSING 959.0072 QUI)
+
+Swettenham, Frank. [_British Malaya: An Account of the Origin and Progress of British Influence in Malaya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4250035). New York: AMS Press, 1975. (From National Library Singapore, call no. RSING 959.5 SWE)
+
+Said, Edward W. [_Orientalism_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202673250)_._ London: Penguin, 1991. (From National Library Singapore, call no. RCLOS 950.07 SAI-\[ET\])
+
+Syed Muhd Khairudin Aljunied. “Sir Stamford Raffles’ Discourse on the Malay World: A Revisionist Perspective.” [_Sojourn_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4401203) 20, no. 1 (April 2005): 1–22. (From National Library Singapore, call no. RSING 300.5 SSISA)
+
+Turnbull, C. M. [_A History of Modern Singapore, 1819–2005_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13206047)_._ Singapore: NUS Press, 2009. (From National Library Singapore, call no. RSING 959.57 TUR-\[HIS\])
+
+—. “Crawfurd, John (1783–1868), Orientalist and Colonial Administrator.” (2004). Oxford Dictionary of National Biography website, accessed 4 July 2016.
