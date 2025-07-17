@@ -652,3 +652,246 @@ Cowles Prichard’s (1786–1848) theory that the first man and woman were
 indication in his writings to suggest that he was an atheist, Crawfurd’s stand
 on multiple human origins was also in conflict with the Biblical stance on
 common human origin.124
+
+#### **Language and Mankind’s Origins**
+
+In his paper reviewing Sir Charles Lyell’s (1797–1875) *Antiquity of Man* that
+was read to the Ethnological Society of London in 1863, he pointed out that
+Lyell’s theory of the unity of the human race was influenced by Darwin’s
+hypothesis of the transmutation of species. Calling it a “monstrous fiction”,
+Crawfurd remarked that he could not bring himself to agree with the theory
+because it did not account for human diversity, physical and mental, as seen
+in the Malays, Chinese, Polynesians, Europeans and so forth.125 Africans
+and Europeans, he added, have been planted in almost every climate
+of the world “for three hundred years” and have remained unchanged,
+unless through intermixture.126 There was, furthermore, no historical or
+archaeological evidence to support the hypothesis, and he highlighted that
+“the Ethiopian represented on Egyptian paintings four thousand years old is
+exactly the Ethiopian of the present day”.127
+
+Another reason for his opposition to Lyell’s idea on human history was also
+because of his adoption of German philologist Max Müller’s (1823–1900)
+Aryan theory of language to further support his view on the unity of the
+human races.128 Müller, whom Crawfurd lauded as “a gentleman of great
+learning” whose imagination was “at least equal to his learning”, argued that
+the languages of Europe could be traced to Central Asia and, therefore, must
+have been brought to Europe through distant migration or conquest.129 This
+would suggest that Europeans could trace their ancestry to Central Asia as
+well as India and Western Asia, where traces of the Aryan language can be
+found and was alleged to have spread.130
+
+Using history as a case in point, Crawfurd questioned how mankind in its
+savage state of antiquity could undertake such a remarkable feat of diaspora,
+pointing out that they must have first acquired a considerable measure of
+civilisation before accomplishing such a task.131 Europeans had only attained
+the means of undertaking the discovery of one half of the world only 400
+years prior, and it was absurd to think that the same enterprise was expected
+to have been accomplished on a massive scale by “rude and savage men”
+from a single point of the earth’s surface thousands of years earlier.132
+
+Even the Romans and Greeks during the classical age, with their civilisation,
+were not capable of achieving such a grand feat of diaspora.133 Crawfurd
+noted that, in spite of this, some writers still argued that “helpless savages,
+then, without a stock of food, and without flocks or herds, are represented
+as crossing broad seas, or marching over mountains of ice and snow”.134 That
+said, one can see why he saw the multiple origins of mankind as the more
+sensible explanation to their wide geographical spread around the world.
+
+Crawfurd was against the use of language, as was done by Müller, to trace
+common ancestry because it was unreliable and because the concept did
+not conform to his polygenetic view. Mankind emerged simultaneously at
+different points around the world, speaking a diverse set of languages that
+were specific to the locality from which they had sprung. But as societies
+advanced, their languages evolved into common combined tongues and
+were reduced over time through conquests and cross-cultural engagements
+such as commerce and religion.135
+
+Crawfurd explained that this was why more languages can be found
+spoken by people in “savage” and isolated regions such as Borneo, and
+fewer in more advanced societies such as Britain.136 Some would simply
+abandon their native tongue and adopt a more practical one, not unlike
+contemporary times, which was another problem he identified with using
+language to trace racial origin: “If, then, language were a test of race, we
+should be tracing some of the Negros settled in America, first to England
+and then to Germany and Italy, and others… to Spain.”137 But there were
+exceptions to the rule and language could, at times, be employed to tell the
+history of a race, and Crawfurd would argue that the African and “Oriental
+Negroes” were not related because, aside from their different features, there
+was no connection between their languages, and the same would apply
+between the latter and the Malays.138
+
+#### **Polygenesis as a Framework for Understanding the History of the Malay Peninsula**
+
+Polygenesis can be observed in the way Crawfurd conceptualised the
+history of the Malay Peninsula. The Malays, he theorised, were one of five
+independent civilisations to have sprung up from the well-watered volcanic
+portion of Sumatra. This was a geographically ideal location for them to
+attain a level of civilisation advancement to effect migration to other parts of the Indian Archipelago, such as Borneo, northern Sumatra, and most
+notably the Malay Peninsula – where they were now found settled on the
+coasts.139 Thus, they arrived in the region in a comparatively civilised state
+in the 12th and 13th centuries, and continued to the present-day to emigrate
+from Sumatra.140 The other brown-complexioned “Malay” Aslian tribes such
+as the Jakuns, were also migrants from Sumatra, but the darker “Oriental
+Negro” tribes, he believed, were in the Malay Peninsula before them.141
+
+Crawfurd noted in *Grammar and Dictionary of the Malay Language*
+that unlike others, such as Marsden, Raffles and Baron Wilhelm von
+Humboldt (1767–1835), he did not believe that the languages of the Indian
+Archipelago, such as the Malay language, were derived from one source as
+was generally thought. In his later *A Descriptive Dictionary of the Indian
+Islands*, he noted that the Indian Archipelago is home to innumerable
+languages.142
+
+Traces of the Malay language, however, can be found in some parts of the
+Indian Archipelago, such as the Philippines, but the origin of the Malay
+language is obscure.143 Although he mentioned in *Grammar and Dictionary
+of the Malay Language* that his different conclusion was due to his advantage
+of being favoured with ampler materials than his predecessors, it was also
+because this concept of shared language origin, which suggested that the
+inhabitants of the Malay Archipelago were “one of the same race”, did not
+conform to his idea of polygenesis.144 Crawfurd, citing lack of evidence,
+had not always agreed with Marsden that Minangkabau was the homeland
+of the Malays, but he eventually surrendered to this view, although he continually reminded his readers that it was only a reasonable hypothesis, as
+there was yet to be solid proof to confirm this.145
+
+Returning to Quilty’s *Textual Empires*, if she had included Crawfurd’s later
+works in her analysis, she would have seen his ideas about race and language
+as more than simply a Malthusian or proto-Social Darwinist view of “a fight
+for survival between languages” – where the language of the weaker group is
+displaced by the dominant.146 He would have cringed at the notion of being
+identified with Darwinism. She would also have observed that Crawfurd’s
+idea about the Southeast Asian peasant as a potential proto-capitalist who
+could be improved by being in close proximity to the European presence
+was part of his broader view that less advanced societies would benefit from
+contact with a more advanced one, and it did not have to be the West.147
+
+Although it is true that Crawfurd stated in *History of the Indian Archipelago*
+that civilisation of the Asiatic nations may be fairly traced to the European
+race, he had a different view in his later publications, acknowledging
+that some Asian nations were once ahead of the West.148 If one applies
+Crawfurd’s later conception of ethnology to practice, an advanced non-
+European nation could have brought civilisation to the savage western and
+northern Europeans of antiquity by way of cross-cultural engagement, if
+they had been within closer proximity to them than the Romans or Greeks.
+
+People change their minds, and this is a key point for scholars who are
+dealing with intellectual history on a broad scale to note. As Knapman has
+demonstrated, the misinterpretation of Crawfurd’s work is a warning not to
+simplify 19th-century thought.149
+
+#### **Conclusion**
+
+***The Malay Peninsula’s Place in Crawfurd’s Conception of Ethnology and
+World History***
+
+The Malay Peninsula and its inhabitants played an imperative role in
+Crawfurd’s vast literature and in shaping his views on ethnology and world
+history, as with other colonial individuals who travelled to and lived in the
+region. They also featured regularly in his scientific arguments on ethnology.
+This important connection was admitted by Crawfurd when he noted in his
+1861 ethnological article that the Malay Archipelago, where he spent 12 years
+of his life, had been the subject of his attention, and he would emphasise
+his authority over his subjects and in his arguments on ethnology, history
+and languages by pointing to his experiences in the Malay Peninsula and its
+surrounding islands.150
+
+He used his observations of the Peranakan communities, for example,
+to support his position on the offspring of mixed-racial unions and
+dismiss the notion that they would be sterile, and to stress that a union
+between a superior and inferior race would produce an intermediate
+offspring inferior to the latter and superior to the former. His belief that
+the climate had no forbearance in shaping the physical appearance of
+mankind and that hot climates were not harmful to Europeans were
+drawn from his own experience living in Southeast Asia. He contested the
+common perception of laziness that European observers had ascribed to
+the inhabitants of the region, stressing that there was no encouragement
+for hard work in a society where laws protecting wealth were absent. By
+comparing the Malays to the darker but more advanced inhabitants of the
+Indian subcontinent, he argued that skin colour could not be used as a
+benchmark of racial superiority. It is likely that his perceptions would have
+been different had he never visited the region.
+
+Crawfurd applied his ethnological and scientific theories to his
+understanding of the Malay Peninsula’s history, and connected its
+inhabitants to the rest of mankind to form and advance his ideas on the
+history of human origins and progress. The races of the Malay Peninsula,
+the Malay and the “Oriental Negro”, were distinguished by their physical features in the same manner as he would differentiate the different races of
+mankind worldwide. The Peranakan and other mixed-race communities in
+the region were a race of their own.
+
+Racial progress was determined by a combination of biological, geographical
+and cultural factors. The Malays were considered more advanced than
+the “Oriental Negro” tribes of the Malay Peninsula because their fertile
+homeland of Minangkabau, Sumatra, provided their civilisation with the
+means to thrive to the extent that it enabled them to expand out of their
+homeland to form settlements in other parts of the Indian Archipelago such
+as the Malay Peninsula.
+
+The Malays’ contact with Hinduism and later Islam further improved them,
+giving them the knowledge of letters. The savage state of the “Oriental
+Negroes” was due to their isolation in the interiors of the Malay Peninsula,
+with lush forests and mountain ranges acting as barriers to cultural
+development. With their isolation from the rest of mankind they could not
+benefit from contact with a superior society, unlike the Malays. On the
+other hand, Crawfurd did not expect the Malays to progress at the same rate
+as the Indians, Chinese and, of course, the West, despite having the same
+geographical and cultural advantages for civilisational advancement, because
+of what he believed to be their lower intellectual capabilities.
+
+Crawfurd’s conception of the history of the Malay Peninsula fit his
+polygenetic interpretation of human history. Mankind emerged at the same
+time in different parts of the world and Sumatra was the seat of the Malays.
+From there, they obtained the civilisational means that allowed them to
+establish themselves in the Malay Peninsula. The “Oriental Negroes” were
+already in the Malay Peninsula before the Malays, and hence, there must
+have been a race that had sprung up in that region. They not only differed
+from the Malays in physical appearance, but also spoke a language that was
+wholly different.
+
+Polygenesis also played a role in Crawfurd’s later opposition to the common
+belief that the Malay language and others spoken in the Archipelago were
+from a common source. Indeed, it was not compatible with his polygenetic
+belief that the different races of mankind sprang up in their localities
+around the globe with their own languages.
+
+
+It is clear that Crawfurd was no petty intellectual figure of the 19th
+century. As his works were highly regarded and highly read, he would have influenced how others saw the Malay Peninsula and its place in the world.
+From a broader perspective, Crawfurd’s writings are an example of how
+the Malay Peninsula and its populace were featured in British literature,
+and how such writings shaped imperial scientific and historical debates
+on mankind. They also demonstrate the importance of cross-cultural
+encounters in shaping Western ideas and understanding the world.
+
+This study has, nevertheless, become more than just an examination of
+Crawfurd’s ideas about the Malay Peninsula, its inhabitants and their
+place in his global views. Crawfurd’s knowledge of the region and the
+rest of the Archipelago was not drawn from his personal observations
+and experiences alone, but also from studying the findings of his
+contemporaries and other secondary literature, particularly in areas where
+his knowledge was inadequate. He studied both indigenous and Western
+historical accounts and records, as well as corresponded with individuals
+in his intellectual network from Europe and Asia where information was
+exchanged and obtained.
+
+We must also not forget that some of his knowledge was taken directly
+from indigenous sources. Although he was critical about the quality of the
+Malays’ historical sources, as with other nations in the Archipelago, he still
+included them in his works, and noted that such inadequacies were expected
+in societies at that level of civilisation. Understanding how Crawfurd
+gathered his knowledge about the Malay Peninsula and treated his
+information is not only crucial in providing us with a closer look at how his
+ideas about the region and its inhabitants were conceptualised, but also how
+Western imperial knowledge of the outside world, a vast global information
+network, operated during his time.
+
+
+<div>
+<b>Wilbert Wong Wei Wen</b> is a PhD student at the Australian National University.
+His PhD research engages with British colonial knowledge of the Malay Peninsula, with
+emphasis on the writings of prominent 20th-century British orientalist, Sir Richard Olaf
+Winstedt, and his contributions to the historical understanding of the region during
+the colonial and post-colonial period. Wilbert’s research interests lie in areas such as
+world history, Asian history (East and Southeast Asia), British discourse on Asia and
+intellectual history, as well as the history of globalisation and cross-cultural encounters.</div>
+
