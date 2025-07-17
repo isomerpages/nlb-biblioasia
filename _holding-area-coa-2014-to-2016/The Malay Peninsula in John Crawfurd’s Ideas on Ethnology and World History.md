@@ -98,64 +98,64 @@ At the conclusion of his studies in 1803, he left for Calcutta, India, as an
 assistant surgeon in the East India Company’s Bengal medical service,
 being assigned to the army.[^10] In 1808, after five years of active service in the
 northwestern provinces of India, Crawfurd was appointed to the medical
-staff of Prince of Wales Island (present-day Penang), where he used his time to study the Malay language and its people.11 In 1811, together with Thomas
+staff of Prince of Wales Island (present-day Penang), where he used his time to study the Malay language and its people.[^11] In 1811, together with Thomas
 Stamford Raffles and John Leyden, Crawfurd was invited by Lord Minto
 (1751–1814, also known as Gilbert Elliot, then Governor-General of India) to
-accompany him on a military expedition against the Dutch in Java.12
+accompany him on a military expedition against the Dutch in Java.[^12]
 
 This marked a major turning point in Crawfurd’s career; he would become,
 as the anthropologist Ter Ellingson would best describe him, “a doctorturned-
-colonial-diplomat”.13 He held various senior administrative posts
+colonial-diplomat”.[^13] He held various senior administrative posts
 during the British occupation of Java (1811–16) because of his command
 of the Malay language, eventually becoming Resident at the central court
-of the Sultan of Yogyakarta.14 Crawfurd studied both ancient Kawi and
-contemporary Javanese and befriended the Javanese aristocratic literati.15
+of the Sultan of Yogyakarta.[^14] Crawfurd studied both ancient Kawi and
+contemporary Javanese and befriended the Javanese aristocratic literati.[^15]
 
 Upon his return to Britain in 1817, he became a fellow of the Royal Society.
 The advantage of Crawfurd’s position and local connections in the Malay
-Peninsula and Java enabled him to acquire a number of local manuscripts.16
+Peninsula and Java enabled him to acquire a number of local manuscripts.[^16]
 He would later compile the information he had gathered during his sojourn
 in Southeast Asia and publish his widely-acclaimed three-volume *History of
-the Indian Archipelago* in 1820.17 This seminal work, according to an article
+the Indian Archipelago* in 1820.[^17] This seminal work, according to an article
 a few decades later in the *Journal of the Indian Archipelago and Eastern Asia*,
-placed “him in the first rank of ethnographers”.18
+placed “him in the first rank of ethnographers”.[^18]
 
 In 1821, Crawfurd left England again for India; this time he was assigned
 to head a mission to Siam (present-day Thailand) and Cochin China (now
 Vietnam), with the chief objective of establishing trade. This mission did not succeed because of suspicions raised among local authorities, and he was
 unable to expand the East India Company’s commercial relations beyond
-the status quo.19 On 9 June 1823, Crawfurd succeeded William Farquhar
+the status quo.[^19] On 9 June 1823, Crawfurd succeeded William Farquhar
 (1774–1839) to become the second Resident of Singapore – Crawfurd had
 first visited the island in 1822 en route from India to Siam – and remained
-in office until 1826.20 He continued to be active in the British East India
+in office until 1826.[^20] He continued to be active in the British East India
 Company after serving as Resident in Singapore, undertaking diplomatic
-assignments in Burma, before retiring from the Company in 1827.21
+assignments in Burma, before retiring from the Company in 1827.[^21]
 
 Crawfurd attempted to run for Parliament, but was unsuccessful in his
-election campaigns in Scotland and England.22 Although he had left the
+election campaigns in Scotland and England.[^22] Although he had left the
 region for good, he continued to take a great interest in matters concerning
 the Far East until the end of his life, as evident in his continued publications
 on the region. He also became the first president of the London-based Straits
-Settlements Association on 31 January 1868.23 Crawfurd passed away on the
+Settlements Association on 31 January 1868.[^23] Crawfurd passed away on the
 night of 11 May 1868, at his residence in Elvaston Place, South Kensington,
-London, at the age of 85, and was survived by his son and two daughters.24
+London, at the age of 85, and was survived by his son and two daughters.[^24]
 
 #### **Crawfurd’s Studies and the Workings of British Imperial Knowledge**
 Crawfurd’s obituaries tell us that his literary fame continued to rise even
 after he ended his career in Asia, to the extent that it seemed to have
-outshone his civil service accomplishments in the Far East.25 In spite of
+outshone his civil service accomplishments in the Far East.[^25] In spite of
 his unsuccessful attempts in getting elected into the House of Commons,
 Crawfurd continued making headlines in the scholarly world by producing
 notable publications such as *A Grammar and Dictionary of the Malay Language* (1852) and *A Descriptive Dictionary of the Indian Islands &amp; Adjacent
 Countries* (1858), as well as through his journal contributions to the scholarly
 periodical of the Ethnological Society of London – which he led in 1861 as
-president.26 As a leading ethnographer and expert on Southeast Asia, he was
+president.[^26] As a leading ethnographer and expert on Southeast Asia, he was
 well known among prominent intellectuals of the time, and was counted
-among Charles Darwin’s circle of friends.27
+among Charles Darwin’s circle of friends.[^27]
 
 Crawfurd’s publications on the Far East were the result of his extensive
 journeys and voyages during his time in the region, where he amassed diverse
-materials on ethnology, natural history, local history, geography and geology.28
+materials on ethnology, natural history, local history, geography and geology.[^28]
 Examining his major publications on Southeast Asia, such as *History of the
 Indian Archipelago, Grammar and Dictionary of the Malay Language or A
 Descriptive Dictionary of the Indian Islands and Adjacent Countries*, would
@@ -165,10 +165,10 @@ more importantly, the features of British imperial knowledge.
 Much has been said since the publication of Edward Said’s remarkable 1978
 work, *Orientalism*, which highlighted the issue of Euro-centrism in Western
 writings on the rest of the world and its literature as a means of justifying
-superiority over non-Western peoples (in other words, imperialism).29
+superiority over non-Western peoples (in other words, imperialism).[^29]
 To accomplish these agenda, Said demonstrated how the East had been
 projected in a way that differentiated it from the West, hence making it the
-“other”.30 As expected, the result was inaccurate, sensational and exaggerated
+“other”.[^30] As expected, the result was inaccurate, sensational and exaggerated
 portrayals of the East in Western discourse.
 
 *Orientalism*, nevertheless, only reveals one aspect of imperial literature, and
@@ -176,7 +176,7 @@ must not be taken as representative of all colonial writings about the outside
 world. They were more than just about creating tales to satisfy imperialistic
 agenda. Discussing British knowledge productions of India, Christopher
 Bayly underscored that they arose from natural curiosity and the desire to
-understand the world as it was, as well as from the simple aim of domination.31
+understand the world as it was, as well as from the simple aim of domination.[^31]
 
 We must move beyond the fashionable notion of “knowledge is power” and
 consider the diversity of knowledge. To be more comprehensive, attention
@@ -199,17 +199,17 @@ Reviews would appraise these works for the quality of information they
 provided, as evidenced in a review of Crawfurd’s 1858 dictionary by the
 *Journal of the Indian Archipelago and Eastern Asia*: “[It is] a ready source of
 accurate information of the most varied and substantial kind, conveyed in
-an agreeable, condensed and lucid style, the book is invaluable”.32
+an agreeable, condensed and lucid style, the book is invaluable”.[^32]
 
 Quilty has shown that scholars of the Malay world such as Crawfurd,
 Raffles and Marsden had the same desire for their works to educate the
-public and help expand their general knowledge of the world.33 They were
+public and help expand their general knowledge of the world.[^33] They were
 not interested in creating sensational stories about the Far East, and this
 was explicitly stated in Crawfurd’s positive remarks on Marsden’s *History
 of Sumatra* (1818): “He was the first literary and scientific Englishman who,
 with the advantages of local experience, treated of the Malayan countries;
 all our knowledge before him being confined to the crude narratives of
-mariners and voyagers.”34
+mariners and voyagers”.[^34]
 
 If misinformation was provided, it was also often done so unintentionally.
 Inaccuracy could stem from the inability to gain access to the desired information, and scholars often had to resort to other means of obtaining
@@ -224,38 +224,37 @@ the knowledge produced by colonial scholars such as Crawfurd were free
 from misconceptions, as evidenced in the response by Indian nationalist,
 politician and scholar, Dadabhai Naoroji (1827–1917), towards Crawfurd’s
 article, “On the Physical and Mental Characteristics of the European
-and Asiatic Races of Man”.35 Naoroji rebuked Crawfurd’s description of
+and Asiatic Races of Man”.[^35] Naoroji rebuked Crawfurd’s description of
 the supposed mental inferiority of Asians to Europeans, saying that this
 “superficial observation and imperfect information” was one that was
-typical of foreign travellers and writers.36 Nonetheless, the fact that Naoroji’s
+typical of foreign travellers and writers.[^36] Nonetheless, the fact that Naoroji’s
 criticism of his work was read to and published in the Ethnological Society
 of London’s periodical suggests that there was interest among its members
 to test the strength of Crawfurd’s hypothesis.
 
 As a historian, Crawfurd would assess the quality of his information to
 determine its reliability, compare it to other available sources and discuss
-its contents.37 Where the accuracy of the information was in question and
+its contents.[^37] Where the accuracy of the information was in question and
 he had no alternative sources, Crawfurd would caution his audiences to
 give the source the benefit of the doubt. In a footnote in *History of the
 Indian Archipelago*, for example, he warned his readers to take the account
 of the introduction of Islam into Macassar by the 17th-century French
 merchant and traveler, Jean-Baptiste Tavernier, with a grain of salt, because
-he “generally found Tavernier a superficial and unfaithful narrator”.38
+he “generally found Tavernier a superficial and unfaithful narrator”.[^38]
 Crawfurd would also admit his lack of knowledge in subjects he was unsure
 about, as shown in his 1866 ethnological paper on the physical and mental characteristics of the “Negro”: “Of the social condition of the small Negroes
 of the Malay Peninsula and the Philippine Islands we know too little to
-enable us to give any authentic details.”39 In *A Descriptive Dictionary of
+enable us to give any authentic details”.[^39] In *A Descriptive Dictionary of
 the Indian Islands and Adjacent Countries*, he also acknowledged that his
 works might not be free from mistakes, which suggests that he was leaving
 room for others to improve on his findings, although he did not directly
 express this:
 
-
    *Some of the articles are meagre from want of materials, and<br>
    others, without doubt, imperfect and unsatisfactory from defective<br>
    knowledge or skill in the writer… it will, at all events, lay the<br>
    foundation for a more perfect superstructure by those who may<br>
-   follow the Author in the same direction*.40
+   follow the Author in the same direction*.[^40]
 
 This shows that Orientalists such as Crawfurd were well aware that the
 information they had on the outside world was far from perfect, questioned
@@ -267,7 +266,7 @@ East by merely theorising about the region from the comforts of his study.
 When writing about Southeast Asia and its inhabitants, he drew some of
 his ideas from personal observations, experiences and surveys conducted in
 the region, as well as from materials he collected there, such as indigenous
-manuscripts.41 His emphasis on history in his writings and in forwarding
+manuscripts.[^41] His emphasis on history in his writings and in forwarding
 his arguments made him stand out as a historian, and he relied on both
 indigenous and European historical sources when writing about the
 inhabitants of Asia and other parts of the world.
@@ -277,20 +276,20 @@ such as Marsden, Raffles, Anderson, Thomas John Newbold (1807–50) and
 James Richardson Logan (1819–69), as well as the writings and accounts
 of European adventurers and explorers to the region such as James Cook (1728–1779) and William Dampier (1651–1715) despite his dismissive
 comments (as mentioned earlier) about the crude narratives of some
-mariners.42 Some of his information was obtained directly from locals and
+mariners.[^42] Some of his information was obtained directly from locals and
 from questioning local tradition and beliefs, essentially demonstrating
 that indigenous knowledge was a feature of imperial knowledge of the
-outside world and was not solely a Western construct.43 In J*ournal of an
+outside world and was not solely a Western construct.[^43] In J*ournal of an
 Embassy from the Governor-General of India to the Courts of Siam and Cochin
 China* (1828), for instance, Crawfurd revealed that he relied on his Malay
-interpreters in his travels to furnish him with local knowledge.44
+interpreters in his travels to furnish him with local knowledge.[^44]
 
 Crawfurd’s low opinion of indigenous historical sources has been singled
 out by scholars as an example of dismissive Western attitudes toward
-Eastern histories.45 However, his concern was the search for reliable
+Eastern histories.[^45] However, his concern was the search for reliable
 historical information on the region that he unfortunately found lacking in
 indigenous sources, and he had at least consulted and even cited them rather
-than side-lining them outright.46 He dismissed them for the same reason
+than side-lining them outright.[^46] He dismissed them for the same reason
 he dismissed unreliable Western histories, not merely because they were
 indigenous histories.
 
@@ -298,18 +297,18 @@ The difficulty of finding reliable local historical texts was stressed by
 Crawfurd when writing about Malacca in his 1858 dictionary. He noted,
 “the native history of Malacca is as usual full of obscurity… There is too
 much reason to believe that the greater part of the story is a fabrication of
-comparative recent times, and indeed, there is sufficient internal evidence of its being so”.47 Even today some scholars are of the opinion that Malay
+comparative recent times, and indeed, there is sufficient internal evidence of its being so”.[^47] Even today some scholars are of the opinion that Malay
 “historical” works, such as *Sulalatus Salatin*, or the *Malay Annals*, should be
 regarded as literature rather than a historical record. In the words of Malay
 scholar Muhammad Salleh Yaapar, “It does not have reliable dates, and its
-narrative lacks logic.”48
+narrative lacks logic”.[^48]
 
 Both his and Crawfurd’s words are strikingly similar. Crawfurd had also
 criticised Western sources that he found questionable and furthermore
 pointed out that the Malays’ ignorance of historical composition and lack
 of historical records should be expected from those who were in that “state
-of society”.49 Even the British, Crawfurd reasoned, had to rely on Roman
-records for their early history.50 Those who have criticised his low regard for
+of society”.[^49] Even the British, Crawfurd reasoned, had to rely on Roman
+records for their early history.[^50] Those who have criticised his low regard for
 Asian history seem to have missed out on this sentiment.
 
 British imperial knowledge of foreign places has to be seen as a collection of
