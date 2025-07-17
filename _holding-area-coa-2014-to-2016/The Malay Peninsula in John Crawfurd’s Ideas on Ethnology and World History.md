@@ -569,7 +569,7 @@ the Malays, Raffles, on the contrary, thought that it degraded them..[^105]
 The scientific and medical belief in climate as a major determinant
 of the biological and social characteristics of mankind was popular
 during Crawfurd’s time, which also influenced how global history was
-conceptualised.106 The physical traits of the world’s various ethnicities
+conceptualised..[^106] The physical traits of the world’s various ethnicities
 were explained by the climates of their native lands. In European scientific
 circles, it was commonly assumed that Europeans have fairer complexions
 because of their confinement to the cold climate of their traditional
@@ -586,50 +586,50 @@ the Malay Peninsula:
    of Amazon… the power thus gathered in the middle latitudes is<br> 
    dissipated in the tropics. The power of education is paralysed by the<br> 
    weakening influences of climate. The natural energy is absorbed by<br> 
-   contact with the enervating influences of the opposite zone*.107
+   contact with the enervating influences of the opposite zone*..[^107]
 
 Thomson’s comment mirrored the opinion of many European writers,
-who considered climate to be a cause of the decline of Western empires, after expanding beyond the cold boundaries of their natural abodes.108
+who considered climate to be a cause of the decline of Western empires, after expanding beyond the cold boundaries of their natural abodes.[^108]
 Hot weather was also used to explain the immoral practices and laxity of
 Europeans living in their tropical colonies, and the term “going native” was
 commonly applied to those whose behaviours were seen to have strayed
-from the European ideal.109 Warmer climates were, therefore, unsuitable
+from the European ideal..[^108] Warmer climates were, therefore, unsuitable
 places for Europeans to live, some believing that it would lead to the loss of
-attributes that distinguished their “imperial race”.110
+attributes that distinguished their “imperial race”..[^110]
 
 Crawfurd, however, had a different view, one that was confirmed by his
 experiences living in Southeast Asia. Using his experience in Singapore as
 an example (and probably also from his medical assessment), he found that
 there was no reason to believe that the tropical climate was less healthy than
-other parts of the world.111 In *History of the Indian Archipelago*, he further
+other parts of the world..[^111] In *History of the Indian Archipelago*, he further
 highlighted his observation that Europeans were able to adapt to the climate
 of tropical countries and the idea that they degenerated due to the climate
-“of the black or copper-coloured races, [was] no better than a prejudice”.112
+“of the black or copper-coloured races, [was] no better than a prejudice”..[^112]
 
 To him, using climate or sun intensity of a region to identify the physical
 makeup of a race made no sense due to the existence of inhabitants in colder
 climates who do not share the same features as the Europeans, such as the
-Eskimos, who are as dark as the equatorial Malays.113 The Malays are still
+Eskimos, who are as dark as the equatorial Malays..[^113] The Malays are still
 fairer than the inhabitants of India who live under similar geographical
 conditions as southerners of Europe, and “the Laplanders are much darker
-than the Norwegians, although much nearer to the Pole, with less sun”.114
+than the Norwegians, although much nearer to the Pole, with less sun”..[^114]
 
 Crawfurd pointed to his observations of the interesting racial composition
 of the Malay Peninsula, where the dark Semang in the cooler mountains
 and the lighter complexioned Malays in the hot plains could be found, to further demonstrate the impracticability of connecting human features
-with temperature.115 Climate, therefore, had no influence over determining
+with temperature..[^115] Climate, therefore, had no influence over determining
 the colour of the different races, and he reasoned that these erroneous
-observations arose out of inadequate experience.116
+observations arose out of inadequate experience..[^116]
 
 The explanation for the variety of skin colour present in the different races
 of mankind was, according to Crawfurd, beyond human comprehension,
 just as one cannot explain the different colours found in the same
-species of fox.117 Hence, skin colour of the different races would seem to
-be a character that was imprinted on humanity from the beginning.118
+species of fox..[^117] Hence, skin colour of the different races would seem to
+be a character that was imprinted on humanity from the beginning.[^118]
 Crawfurd also questioned the use of skin colour as a means of measuring
 racial superiority, noting that the inhabitants of the Indian subcontinent
 were darker than the Malays, yet the former were more advanced than the
-latter.119 One striking feature of these discussions was Crawfurd’s attack on
+latter..[^119] One striking feature of these discussions was Crawfurd’s attack on
 European subjectivity:
 
    *The notion that a fair complexion is the offspring of a cold,<br> 
@@ -637,7 +637,7 @@ European subjectivity:
    a fancy could not possibly have originated with any other race<br> 
    of man. The superiority which the White man has always<br> 
    shown, perhaps justifies us in considering a fair complexion the<br> 
-   most favourable*.120
+   most favourable*.[^120]
 
 Crawfurd’s arguments about skin colour bearing no connection to climate
 were related to his broader polygenetic views on ethnology and history.
@@ -645,9 +645,9 @@ He believed that, with reasons only known to the Creator, the diverse
 human races sprang up independently in different parts of the globe, each
 with their own features and languages, just as various species of the same
 genus of plants and animals are found across various locations around the 
-world.121 One of Crawfurd’s attacks on studies that promoted the idea of
+world.[^121] One of Crawfurd’s attacks on studies that promoted the idea of
 shared human origin, such as Darwin’s, was that it had not identified the
-location of that origin.122 He called British physician and ethnologist James
+location of that origin.[^122] He called British physician and ethnologist James
 Cowles Prichard’s (1786–1848) theory that the first man and woman were
 “black” nothing but a “figment of his own brain”.123 Although there is no
 indication in his writings to suggest that he was an atheist, Crawfurd’s stand
