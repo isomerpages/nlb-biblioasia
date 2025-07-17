@@ -451,5 +451,204 @@ Peninsula in his studies:
    satisfied that the most skilful craniologist would not be able to<br> 
    distinguish it from the skull of a Chinese, of a Tartar… of any<br> 
    other races of man having a low-bridged nose*.75
+	 
+Crawfurd observed that the inhabitants of the Indian Archipelago
+consist of many different races, which he divided into three groups based
+on appearance: the brown-complexioned, straight-haired men, such as
+the Malays; men of dark complexion, with woolly hair, who Crawfurd
+termed “Oriental Negroes”, because their features were similar to “African
+Negroes”, although Crawfurd knew that they were not actually of the
+same race (as mentioned later); and men of brown complexion, with
+frizzled hair, like the inhabitants of Timur.76
 
+The people of the Malay Peninsula comprised the brown-complexioned Malay
+and the dark, woolly-haired, “Oriental Negroes”, also known locally as the
+Sámang (Semang) or Bila.77 In *History of the Indian Archipelago*, Crawfurd
+noted that, besides their appearance, even the languages spoken by the Archipelago’s “Oriental Negroes” were distinct from the brown-coloured races
+of the Indian Archipelago, which would distinguish them as a separate race.78
 
+Crawfurd’s direct examination of the aboriginals of the Malay Peninsula,
+the Orang Asli, seemed to be limited to the three Semangs he saw in Penang
+and Singapore, and the Orang Laut.79 This was because he had not ventured
+into the interiors of the Malay Peninsula and had to rely on the findings
+of other Orientalists, such as James Richardson Logan and John Turnbull
+Thomson (1821–84), when studying the other Aslian tribes.80 Those that
+possessed Malay-like features – the Jakun, for instance – were deemed
+to belong to the Malay group, which Crawfurd labelled as “uncultivated
+Malays”.81 The other two Malay classes were the “civilised Malays” and the
+“sea gypsies”, or Orang Laut.82
+
+***Stages of Civilisation and Indicators of Cultural Progress***
+
+In his views on the global progress of mankind, Crawfurd regarded the
+Malays and Javanese to be the most civilised of the inhabitants of the
+Indian Archipelago.83 In a manner that was consistent with the Scottish
+Enlightenment philosophy of measuring the progress of mankind, which
+was unsurprising considering his education in Edinburgh, he divided the
+cultures of the world into different stages of civilisation, ranging from
+refined to savage. He used cultural and material indicators to measure
+their level of progress, such as the development of language and numerals,
+advancement of their social order, development of the arts, tools used,
+weaponry, state of agriculture, technology and architecture.84
+
+The (civilised) Malays, Crawfurd observed, were more advanced than
+the “Oriental Negroes” of the Peninsula because they had learnt how to
+domesticate animals and cultivate plants, possessed the art of writing and
+use of numerals, and had knowledge of useful metals and how to work
+them.85 The “Oriental Negroes” in contrast, who “wander[ed] the forests
+in quest of a precarious subsistence, without fixed habitation” had not
+developed letters and the use of numbers, and had achieved few or none
+of the aforementioned cultural markers.86 There was also a connection
+between wearing less clothing and savagery.87 The following entry in his 1858
+dictionary nicely sums up his indicators of cultural progress:
+
+   *The subsidiary or accessory causes which contributed to raise the<br> 
+   indigenous civilisations to the point to which they had reached<br> 
+   on the arrival of Europeans were, the possession of iron, of cereal<br> 
+   corn, of the larger domesticated animals… Without the possession<br> 
+   of iron no nation of the Malay or Philippine Archipelago has<br> 
+   attained any respectable amount of civilisation. All of the nations<br> 
+   that have possessed the art of phonetic writing, have also possessed a<br> 
+   knowledge of this metal*.88
+
+To Crawfurd, material and cultural measures were indications of the state
+of civilisation a race had attained. When it came to explaining how they got
+there, he would identify access to domesticated animals and cultivated plants,
+cross-cultural engagement with a superior race, geography and the intellectual
+capacity of a race as the underlying factors that determined racial progress.89
+For a culture to develop, he believed, it needed access to resources necessary
+for its growth, such as animals that could be domesticated and plants that could be cultivated.90 Contact with a superior civilisation, whether through
+cross-cultural engagement or conquest, could also improve a race.91
+
+Cultures that thrive, Crawfurd pointed out, are located in places that
+encourage development and have few geographical barriers, such as
+impassable forests or mountains, that would impede growth.92 Access to
+domesticated plants and animals and cross-cultural engagement are also
+directly tied to geography – isolated cultures could not be expected to
+benefit from cross-cultural contact and geographical barriers could prevent a
+culture from obtaining the resources it needed for advancement.93 Crawfurd
+often referred to the Eskimos as a case in point, stating that they could not
+be expected to progress in the isolated and frozen lands they lived in, which
+had little by way of plants or animals that would help growth.94 Crawfurd
+also made an interesting remark that the inhabitants of Britain would still
+be in a savage state, isolated in their lush forests, if the superior Romans –
+who introduced letters and numerals to the savage and barbaric tribes of
+Europe – had not undertaken their conquest.95
+
+But Crawfurd questioned why some races advanced more than others, in
+spite of having the same civilisational advantages.96 Europe, for instance,
+seemed to be progressing at a faster pace and had now surpassed countries
+that were once more advanced than them, such as China.97 He reasoned that it was because each race had a different intellectual capacity, or in
+Crawfurd’s words, “the quality of the race”.98 Europeans, of course, had the
+highest mental aptitude, which explained their rapid advancement through
+history and dominance during Crawfurd’s time.99 To sum up his views on
+the development of mankind, racial advancement was, therefore, a function
+of geographical, cultural and biological factors.
+
+Crawfurd would then apply his ideas about the progress of mankind to
+explain the history of the Malay Peninsula’s inhabitants, framing it within a
+global context. The “Oriental Negroes” were on a lower scale of civilisation
+because of their isolation in the dense forests and mountains of the interior.100
+The Malays had attained a certain degree of advancement from their superior
+Sumatran homeland before migrating to the more geographically hostile
+Malay Peninsula that was shrouded in dense forest, “a serious and almost
+insuperable obstacle to the early progress of civilisation”.101
+
+Crawfurd saw that the Malays’ civilisation was improved by their contact
+with Hinduism and, later, Islam, from where they obtained their letters,
+culture and some of their numerals.102 Only the most advanced nations of
+the Archipelago had converted to Islam, while “the more savage tribes”
+remain unconverted up to the present day.103 He even hinted in his paper,
+“On the Physical and Mental Characteristics of the Negro”, that the
+“Oriental Negroes” of the Peninsula would be improved if they embraced Islam.104 While Crawfurd thought that Islam was on the whole beneficial to
+the Malays, Raffles, on the contrary, thought that it degraded them.105
+
+#### **Climate as a Factor of Mankind’s Biological and Social Characteristics**
+
+The scientific and medical belief in climate as a major determinant
+of the biological and social characteristics of mankind was popular
+during Crawfurd’s time, which also influenced how global history was
+conceptualised.106 The physical traits of the world’s various ethnicities
+were explained by the climates of their native lands. In European scientific
+circles, it was commonly assumed that Europeans have fairer complexions
+because of their confinement to the cold climate of their traditional
+homelands, whereas those who inhabit warmer climes have darker
+features. It was also widely believed that Europeans would degenerate both
+physically and characteristically if they moved beyond the cold confines
+of their homelands to warmer ones, as can be seen in Thomson’s view of
+history; he, like Crawfurd, was also a British civil servant who served in
+the Malay Peninsula:
+
+   *Thus, the Macedonians degenerated on the plains of Babylonia, as<br> 
+   the British at the present day on the plains of Hindostani; the New<br> 
+   Englanders on the plain of Mississippi; the Portuguese in the Valley<br> 
+   of Amazon… the power thus gathered in the middle latitudes is<br> 
+   dissipated in the tropics. The power of education is paralysed by the<br> 
+   weakening influences of climate. The natural energy is absorbed by<br> 
+   contact with the enervating influences of the opposite zone*.107
+
+Thomson’s comment mirrored the opinion of many European writers,
+who considered climate to be a cause of the decline of Western empires, after expanding beyond the cold boundaries of their natural abodes.108
+Hot weather was also used to explain the immoral practices and laxity of
+Europeans living in their tropical colonies, and the term “going native” was
+commonly applied to those whose behaviours were seen to have strayed
+from the European ideal.109 Warmer climates were, therefore, unsuitable
+places for Europeans to live, some believing that it would lead to the loss of
+attributes that distinguished their “imperial race”.110
+
+Crawfurd, however, had a different view, one that was confirmed by his
+experiences living in Southeast Asia. Using his experience in Singapore as
+an example (and probably also from his medical assessment), he found that
+there was no reason to believe that the tropical climate was less healthy than
+other parts of the world.111 In *History of the Indian Archipelago*, he further
+highlighted his observation that Europeans were able to adapt to the climate
+of tropical countries and the idea that they degenerated due to the climate
+“of the black or copper-coloured races, [was] no better than a prejudice”.112
+
+To him, using climate or sun intensity of a region to identify the physical
+makeup of a race made no sense due to the existence of inhabitants in colder
+climates who do not share the same features as the Europeans, such as the
+Eskimos, who are as dark as the equatorial Malays.113 The Malays are still
+fairer than the inhabitants of India who live under similar geographical
+conditions as southerners of Europe, and “the Laplanders are much darker
+than the Norwegians, although much nearer to the Pole, with less sun”.114
+
+Crawfurd pointed to his observations of the interesting racial composition
+of the Malay Peninsula, where the dark Semang in the cooler mountains
+and the lighter complexioned Malays in the hot plains could be found, to further demonstrate the impracticability of connecting human features
+with temperature.115 Climate, therefore, had no influence over determining
+the colour of the different races, and he reasoned that these erroneous
+observations arose out of inadequate experience.116
+
+The explanation for the variety of skin colour present in the different races
+of mankind was, according to Crawfurd, beyond human comprehension,
+just as one cannot explain the different colours found in the same
+species of fox.117 Hence, skin colour of the different races would seem to
+be a character that was imprinted on humanity from the beginning.118
+Crawfurd also questioned the use of skin colour as a means of measuring
+racial superiority, noting that the inhabitants of the Indian subcontinent
+were darker than the Malays, yet the former were more advanced than the
+latter.119 One striking feature of these discussions was Crawfurd’s attack on
+European subjectivity:
+
+   *The notion that a fair complexion is the offspring of a cold,<br> 
+   and a dark one of a warm climate, is entirely European. Such<br> 
+   a fancy could not possibly have originated with any other race<br> 
+   of man. The superiority which the White man has always<br> 
+   shown, perhaps justifies us in considering a fair complexion the<br> 
+most favourable*.120
+
+Crawfurd’s arguments about skin colour bearing no connection to climate
+were related to his broader polygenetic views on ethnology and history.
+He believed that, with reasons only known to the Creator, the diverse
+human races sprang up independently in different parts of the globe, each
+with their own features and languages, just as various species of the same
+genus of plants and animals are found across various locations around the 
+world.121 One of Crawfurd’s attacks on studies that promoted the idea of
+shared human origin, such as Darwin’s, was that it had not identified the
+location of that origin.122 He called British physician and ethnologist James
+Cowles Prichard’s (1786–1848) theory that the first man and woman were
+“black” nothing but a “figment of his own brain”.123 Although there is no
+indication in his writings to suggest that he was an atheist, Crawfurd’s stand
+on multiple human origins was also in conflict with the Biblical stance on
+common human origin.124
