@@ -15,9 +15,6 @@ third_nav_title: Hawkins Road Refugee Camp
 <p>The Hawkins Road camp in Sembawang was home to thousands of Vietnamese
 refugees until it closed in 1996. Researcher Rebecca Tan talks about how
 the refugees spent their days in the camp and their lives after Singapore.</p>
-<p>Rebecca Tan, "Remembering the Hawkins Road Refugee Camp," BiblioAsia 20,
-no. 3 (October–December 2024).</p>
-<p></p>
 <p></p>
 <h4><strong>Listen to the Full Episode</strong></h4>
 <p>Available on: Spotify, Apple Podcasts, melisten.</p>
