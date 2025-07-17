@@ -408,34 +408,35 @@ own, as observed in an 1861 article, “On the Classification of the Races of
 Man” for the Ethnological Society of London. He wrote, “Foreign invaders
 who mixed their blood largely with that of the original inhabitants, resulting
 in the production of a hybrid population originating in races distinct, yet
-nearly allied.”64
+nearly allied”.[^64]
 
 ***Distinguishing the Races***
 
 In his scientific views, Crawfurd was a believer in polygenesis, a theory that
-supposes the multiple origins of mankind.65 Men were thought to comprise
-different races, or species, that are spread across different geographical locations around the world.66 He opposed Darwinism, because of its stand
+supposes the multiple origins of mankind.[^65] Men were thought to comprise
+different races, or species, that are spread across different geographical locations around the world.[^66] He opposed Darwinism, because of its stand
 on the common origins of man, regarding the theory to be one without
-foundation and unbacked by historical or archaeological evidence.67
+foundation and unbacked by historical or archaeological evidence.[^67]
 Crawfurd also assumed that each race was of “equal antiquity”, and the
 reason behind their distribution across the globe, as with plants and animals,
-was a mystery “beyond the power of our comprehension”.68
+was a mystery “beyond the power of our comprehension”.[^68]
 
 He distinguished each race according to their external physical appearances,
 such as the colour of the skin, hair and eyes; average height; hair texture
-and facial features.69 But in spite of their differences, they all belonged to
+and facial features.[^69] But in spite of their differences, they all belonged to
 the same genus of Man, just like how different breeds of dogs, although
-having different physical features, are all of the same family.70 Crawfurd was
+having different physical features, are all of the same family.[^70] Crawfurd was
 against using anatomy to distinguish the “species” of mankind, such as the
 classification of races according to the shape of the skull that was promoted
 by anatomist and naturalist Johann Friedrich Blumenbach (1752–1840) in
-the publication of *De Generis Humani Varietate Nativa in 1795*.71
+the publication of *De Generis Humani Varietate Nativa in 1795*.[^71]
 
 Perhaps also drawing his conclusion from his knowledge of medicine,
 Crawfurd stressed that regardless of race, one would not be able to tell the
-difference between the skull of a “Hindu-Chinese” and a Malay.72 There is
-moreover, he argued, no definite form in the human skull.73 Even the species of the same family of the lower animals, he stressed, “are often so alike,
-that it is impossible to distinguish them from each other by their skulls”.74
+difference between the skull of a “Hindu-Chinese” and a Malay.[^72] There is
+moreover, he argued, no definite form in the human skull.[^73] Even the species of the same family of the lower animals, he stressed, “are often so alike,
+that it is impossible to distinguish them from each other by their skulls”.[^74]
+
 This was why Crawfurd thought it best to catalogue the different races of
 mankind according to their outer physical features, and this was how he
 distinguished the inhabitants of the Indian Archipelago and the Malay
@@ -449,7 +450,7 @@ Peninsula in his studies:
    race, I take no account of the form of the skull, because I am most<br> 
    satisfied that the most skilful craniologist would not be able to<br> 
    distinguish it from the skull of a Chinese, of a Tartar… of any<br> 
-   other races of man having a low-bridged nose*.75
+   other races of man having a low-bridged nose*.[^75]
 	 
 Crawfurd observed that the inhabitants of the Indian Archipelago
 consist of many different races, which he divided into three groups based
@@ -458,47 +459,48 @@ the Malays; men of dark complexion, with woolly hair, who Crawfurd
 termed “Oriental Negroes”, because their features were similar to “African
 Negroes”, although Crawfurd knew that they were not actually of the
 same race (as mentioned later); and men of brown complexion, with
-frizzled hair, like the inhabitants of Timur.76
+frizzled hair, like the inhabitants of Timur.[^76]
 
 The people of the Malay Peninsula comprised the brown-complexioned Malay
 and the dark, woolly-haired, “Oriental Negroes”, also known locally as the
-Sámang (Semang) or Bila.77 In *History of the Indian Archipelago*, Crawfurd
+Sámang (Semang) or Bila.[^77] In *History of the Indian Archipelago*, Crawfurd
 noted that, besides their appearance, even the languages spoken by the Archipelago’s “Oriental Negroes” were distinct from the brown-coloured races
-of the Indian Archipelago, which would distinguish them as a separate race.78
+of the Indian Archipelago, which would distinguish them as a separate race.[^78]
 
 Crawfurd’s direct examination of the aboriginals of the Malay Peninsula,
 the Orang Asli, seemed to be limited to the three Semangs he saw in Penang
-and Singapore, and the Orang Laut.79 This was because he had not ventured
+and Singapore, and the Orang Laut.[^79] This was because he had not ventured
 into the interiors of the Malay Peninsula and had to rely on the findings
 of other Orientalists, such as James Richardson Logan and John Turnbull
-Thomson (1821–84), when studying the other Aslian tribes.80 Those that
+Thomson (1821–84), when studying the other Aslian tribes.[^80] Those that
 possessed Malay-like features – the Jakun, for instance – were deemed
 to belong to the Malay group, which Crawfurd labelled as “uncultivated
-Malays”.81 The other two Malay classes were the “civilised Malays” and the
-“sea gypsies”, or Orang Laut.82
+Malays”.[^81]
+81 The other two Malay classes were the “civilised Malays” and the
+“sea gypsies”, or Orang Laut.[^82]
 
 ***Stages of Civilisation and Indicators of Cultural Progress***
 
 In his views on the global progress of mankind, Crawfurd regarded the
 Malays and Javanese to be the most civilised of the inhabitants of the
-Indian Archipelago.83 In a manner that was consistent with the Scottish
+Indian Archipelago.[^83] In a manner that was consistent with the Scottish
 Enlightenment philosophy of measuring the progress of mankind, which
 was unsurprising considering his education in Edinburgh, he divided the
 cultures of the world into different stages of civilisation, ranging from
 refined to savage. He used cultural and material indicators to measure
 their level of progress, such as the development of language and numerals,
 advancement of their social order, development of the arts, tools used,
-weaponry, state of agriculture, technology and architecture.84
+weaponry, state of agriculture, technology and architecture.[^84]
 
 The (civilised) Malays, Crawfurd observed, were more advanced than
 the “Oriental Negroes” of the Peninsula because they had learnt how to
 domesticate animals and cultivate plants, possessed the art of writing and
 use of numerals, and had knowledge of useful metals and how to work
-them.85 The “Oriental Negroes” in contrast, who “wander[ed] the forests
+them.[^85] The “Oriental Negroes” in contrast, who “wander[ed] the forests
 in quest of a precarious subsistence, without fixed habitation” had not
 developed letters and the use of numbers, and had achieved few or none
-of the aforementioned cultural markers.86 There was also a connection
-between wearing less clothing and savagery.87 The following entry in his 1858
+of the aforementioned cultural markers.[^86] There was also a connection
+between wearing less clothing and savagery.[^87] The following entry in his 1858
 dictionary nicely sums up his indicators of cultural progress:
 
    *The subsidiary or accessory causes which contributed to raise the<br> 
@@ -508,59 +510,59 @@ dictionary nicely sums up his indicators of cultural progress:
    of iron no nation of the Malay or Philippine Archipelago has<br> 
    attained any respectable amount of civilisation. All of the nations<br> 
    that have possessed the art of phonetic writing, have also possessed a<br> 
-   knowledge of this metal*.88
+   knowledge of this metal*.[^88]
 
 To Crawfurd, material and cultural measures were indications of the state
 of civilisation a race had attained. When it came to explaining how they got
 there, he would identify access to domesticated animals and cultivated plants,
 cross-cultural engagement with a superior race, geography and the intellectual
-capacity of a race as the underlying factors that determined racial progress.89
+capacity of a race as the underlying factors that determined racial progress.[^89]
 For a culture to develop, he believed, it needed access to resources necessary
-for its growth, such as animals that could be domesticated and plants that could be cultivated.90 Contact with a superior civilisation, whether through
-cross-cultural engagement or conquest, could also improve a race.91
+for its growth, such as animals that could be domesticated and plants that could be cultivated.[^90] Contact with a superior civilisation, whether through
+cross-cultural engagement or conquest, could also improve a race.[^91]
 
 Cultures that thrive, Crawfurd pointed out, are located in places that
 encourage development and have few geographical barriers, such as
-impassable forests or mountains, that would impede growth.92 Access to
+impassable forests or mountains, that would impede growth.[^92] Access to
 domesticated plants and animals and cross-cultural engagement are also
 directly tied to geography – isolated cultures could not be expected to
 benefit from cross-cultural contact and geographical barriers could prevent a
-culture from obtaining the resources it needed for advancement.93 Crawfurd
+culture from obtaining the resources it needed for advancement.[^93] Crawfurd
 often referred to the Eskimos as a case in point, stating that they could not
 be expected to progress in the isolated and frozen lands they lived in, which
-had little by way of plants or animals that would help growth.94 Crawfurd
+had little by way of plants or animals that would help growth.[^94] Crawfurd
 also made an interesting remark that the inhabitants of Britain would still
 be in a savage state, isolated in their lush forests, if the superior Romans –
 who introduced letters and numerals to the savage and barbaric tribes of
-Europe – had not undertaken their conquest.95
+Europe – had not undertaken their conquest.[^95]
 
 But Crawfurd questioned why some races advanced more than others, in
-spite of having the same civilisational advantages.96 Europe, for instance,
+spite of having the same civilisational advantages.[^96] Europe, for instance,
 seemed to be progressing at a faster pace and had now surpassed countries
-that were once more advanced than them, such as China.97 He reasoned that it was because each race had a different intellectual capacity, or in
-Crawfurd’s words, “the quality of the race”.98 Europeans, of course, had the
+that were once more advanced than them, such as China.[^97] He reasoned that it was because each race had a different intellectual capacity, or in
+Crawfurd’s words, “the quality of the race”.[^98] Europeans, of course, had the
 highest mental aptitude, which explained their rapid advancement through
-history and dominance during Crawfurd’s time.99 To sum up his views on
+history and dominance during Crawfurd’s time.[^99] To sum up his views on
 the development of mankind, racial advancement was, therefore, a function
 of geographical, cultural and biological factors.
 
 Crawfurd would then apply his ideas about the progress of mankind to
 explain the history of the Malay Peninsula’s inhabitants, framing it within a
 global context. The “Oriental Negroes” were on a lower scale of civilisation
-because of their isolation in the dense forests and mountains of the interior.100
+because of their isolation in the dense forests and mountains of the interior.[^100]
 The Malays had attained a certain degree of advancement from their superior
 Sumatran homeland before migrating to the more geographically hostile
 Malay Peninsula that was shrouded in dense forest, “a serious and almost
-insuperable obstacle to the early progress of civilisation”.101
+insuperable obstacle to the early progress of civilisation”..[^101]
 
 Crawfurd saw that the Malays’ civilisation was improved by their contact
 with Hinduism and, later, Islam, from where they obtained their letters,
-culture and some of their numerals.102 Only the most advanced nations of
+culture and some of their numerals..[^102] Only the most advanced nations of
 the Archipelago had converted to Islam, while “the more savage tribes”
-remain unconverted up to the present day.103 He even hinted in his paper,
+remain unconverted up to the present day..[^103] He even hinted in his paper,
 “On the Physical and Mental Characteristics of the Negro”, that the
-“Oriental Negroes” of the Peninsula would be improved if they embraced Islam.104 While Crawfurd thought that Islam was on the whole beneficial to
-the Malays, Raffles, on the contrary, thought that it degraded them.105
+“Oriental Negroes” of the Peninsula would be improved if they embraced Islam..[^104] While Crawfurd thought that Islam was on the whole beneficial to
+the Malays, Raffles, on the contrary, thought that it degraded them..[^105]
 
 #### **Climate as a Factor of Mankind’s Biological and Social Characteristics**
 
