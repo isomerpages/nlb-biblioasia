@@ -298,4 +298,158 @@ The difficulty of finding reliable local historical texts was stressed by
 Crawfurd when writing about Malacca in his 1858 dictionary. He noted,
 “the native history of Malacca is as usual full of obscurity… There is too
 much reason to believe that the greater part of the story is a fabrication of
-comparative recent times, and indeed, there is sufficient internal evidence 
+comparative recent times, and indeed, there is sufficient internal evidence of its being so”.47 Even today some scholars are of the opinion that Malay
+“historical” works, such as *Sulalatus Salatin*, or the *Malay Annals*, should be
+regarded as literature rather than a historical record. In the words of Malay
+scholar Muhammad Salleh Yaapar, “It does not have reliable dates, and its
+narrative lacks logic.”48
+
+Both his and Crawfurd’s words are strikingly similar. Crawfurd had also
+criticised Western sources that he found questionable and furthermore
+pointed out that the Malays’ ignorance of historical composition and lack
+of historical records should be expected from those who were in that “state
+of society”.49 Even the British, Crawfurd reasoned, had to rely on Roman
+records for their early history.50 Those who have criticised his low regard for
+Asian history seem to have missed out on this sentiment.
+
+British imperial knowledge of foreign places has to be seen as a collection of
+individual ideas, because not everyone had the same understanding of the
+world. Crawfurd, for instance, would often contest views that he did not
+agree with, such as the commonly perceived notion of laziness among the
+inhabitants of the Indian Archipelago.51 In *History of the Indian Archipelago*,
+Crawfurd pointed out that laziness was not an innate characteristic of the
+natives, noting that their attitude was understandable because there was no
+encouragement to work hard and accumulate wealth in a society where there
+were no laws protecting private property.52
+
+As already suggested, Crawfurd’s ideas were not developed solely from
+his own personal reasoning, but also drawn from studying the works of
+others, just as the findings of researchers today are shaped by the study of
+scholarly literature and their own findings. Besides texts, Crawfurd also maintained his own global network of scholars and sources with whom he
+would exchange knowledge and information. He would, time and again,
+thank these individuals who had furnished him with details and offered
+feedback on his work. This can be observed in *A Grammar and Dictionary
+of the Malay Language with a Preliminary Dissertation*, where Crawfurd
+thanks his friend Marsden for his help by sending Crawfurd his dictionary;
+Professor of Sanskrit at Oxford Horace Hayman Wilson (1786–1860) for
+his assistance with Sanskrit etymologies; and Logan and his journal for the
+information they furnished on the region of his interest.53
+
+Such exchanges were another way Crawfurd addressed the gaps in his
+knowledge and developed his ideas. Tracing his networks of intellectual
+correspondence provides further insight into an aspect of how imperial
+knowledge was developed, where ideas, information and knowledge were
+drawn from different parts of the empire. Knowledge during Crawfurd’s
+time was global and imperial writers did not develop their ideas solely
+within the narrow confines of their own regions.
+
+Discussing the framework in which imperial knowledge operated
+through Crawfurd’s example is useful in helping us understand how
+he developed his ideas about the inhabitants of the Malay Peninsula. It
+was through a combination of his personal experiences and reasoning,
+observations, study of historical sources and the findings of others, as well
+as his engagement with scholars through his intellectual networks. His
+purpose of study was to ascertain the truth, not unlike the objective of
+contemporary scholarly pursuit.
+
+#### **The Malay Peninsula in Crawfurd’s Writings and Debates on Ethnology and World History**
+***Mixed Races***
+
+As an active participant in the lively 19th-century scientific and philosophical
+debates on the nature of mankind, Crawfurd took advantage of his
+observations in Asia to roundly debunk the idea that offspring produced by the union or “commixture” of two different races would become sterile and
+incapable of producing healthy children themselves (like mules that are a
+hybrid between two opposite species of the same genus of lower animals).
+
+In his article published in the journal of the Ethnological Society of London,
+“On the Supposed Infecundity of Human Hybrids or Crosses”, which was
+read in 1864 and published in 1865, Crawfurd highlighted the theory that
+“mongrels resulting from the union of two different races of the human
+family” were sterile. The idea, he noted, had “lately sprung up” and was
+beginning to obtain currency in France and America.54 Crawfurd saw this
+theory as one that was “without a shadow of foundation”, as evidenced by
+the mixed-race communities in Asia, “which multiply just as fast as do the
+parent stocks from which they derived”.55 He would have also drawn this
+conclusion from his observations of the mixed-race communities in the
+Malay Peninsula – as suggested in his other ethnological article, “On the
+Commixture of the Races of Man as affecting the Progress of Civilisation”.56
+Here, pointing to the Peranakan communities of the Malay Peninsula,
+Crawfurd wrote that:
+
+   *The intercourse and settlement are still in progress, and out of<br> 
+   it has sprung a cross-breed known, as in the colonising Arabs<br> 
+   and Chinese, by the term Páranakan [sic], with the national<br> 
+   designation of the father annexed, and literally signifying<br> 
+   “offspring of the womb”, a word of the same import as the<br> 
+   Moplay or Mopilla referred to*.57
+
+In Malacca, which had been colonised by the Portuguese since 1511, he
+observed that a cross-race of Eurasians had sprung up, and they had “so
+much of Malay blood as to be hardly distinguishable from the Malays
+themselves”.58 Crawfurd’s position on the children of mixed racial unions can be seen in this article – they would be an “intermediate” offspring,
+superior to the race of the “inferior” parent, but inferior to the race of the
+“superior” one.59 When discussing the Peranakan communities of the Malay
+Peninsula, he pointed out that “these half-castes speak the language of the
+father as well as that of the mother, and are distinguished from the pure
+Malay by superior intelligence”.60
+
+In *History of the Indian Archipelago*, Crawfurd noted that Chinese who
+intermarried “with the natives of the country, generate a race inferior in
+energy and spirit” to the Chinese.61 Therefore, “the result of the union of a
+Chinese and a Malay – one of frequent occurrence – is a deterioration in
+the Chinese and an improvement in the Malay”.62 This was the reason why
+Crawfurd, in *History of the Indian Archipelago*, wrote positively about mixedracial
+unions in European colonies, especially between Europeans and the
+local populace, because he believed it would improve the social conditions of
+the indigenous society, just as the Turks in Europe, as he later wrote in 1865,
+had been greatly improved by intermixture with European blood.63
+
+Crawfurd, nevertheless, saw individuals of mixed races as a race unto their
+own, as observed in an 1861 article, “On the Classification of the Races of
+Man” for the Ethnological Society of London. He wrote, “Foreign invaders
+who mixed their blood largely with that of the original inhabitants, resulting
+in the production of a hybrid population originating in races distinct, yet
+nearly allied.”64
+
+***Distinguishing the Races***
+
+In his scientific views, Crawfurd was a believer in polygenesis, a theory that
+supposes the multiple origins of mankind.65 Men were thought to comprise
+different races, or species, that are spread across different geographical locations around the world.66 He opposed Darwinism, because of its stand
+on the common origins of man, regarding the theory to be one without
+foundation and unbacked by historical or archaeological evidence.67
+Crawfurd also assumed that each race was of “equal antiquity”, and the
+reason behind their distribution across the globe, as with plants and animals,
+was a mystery “beyond the power of our comprehension”.68
+
+He distinguished each race according to their external physical appearances,
+such as the colour of the skin, hair and eyes; average height; hair texture
+and facial features.69 But in spite of their differences, they all belonged to
+the same genus of Man, just like how different breeds of dogs, although
+having different physical features, are all of the same family.70 Crawfurd was
+against using anatomy to distinguish the “species” of mankind, such as the
+classification of races according to the shape of the skull that was promoted
+by anatomist and naturalist Johann Friedrich Blumenbach (1752–1840) in
+the publication of *De Generis Humani Varietate Nativa in 1795*.71
+
+Perhaps also drawing his conclusion from his knowledge of medicine,
+Crawfurd stressed that regardless of race, one would not be able to tell the
+difference between the skull of a “Hindu-Chinese” and a Malay.72 There is
+moreover, he argued, no definite form in the human skull.73 Even the species of the same family of the lower animals, he stressed, “are often so alike,
+that it is impossible to distinguish them from each other by their skulls”.74
+This was why Crawfurd thought it best to catalogue the different races of
+mankind according to their outer physical features, and this was how he
+distinguished the inhabitants of the Indian Archipelago and the Malay
+Peninsula in his studies:
+
+   *The physical form of the Malayan race of man… is of short<br> 
+   stature… The face is lozenge-shaped, with a flat forehead, high<br> 
+   cheek-bones, a prominent large mouth, and thin lips. The hair of<br> 
+   the head is always black, coarse, lank, and abundant…. In this<br> 
+   attempt to describe the physical characteristics of the Malayan<br> 
+   race, I take no account of the form of the skull, because I am most<br> 
+   satisfied that the most skilful craniologist would not be able to<br> 
+   distinguish it from the skull of a Chinese, of a Tartar… of any<br> 
+   other races of man having a low-bridged nose*.75
+
+
