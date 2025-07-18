@@ -1096,49 +1096,49 @@ Turnbull, C. M. [_A History of Modern Singapore, 1819–2005_](https://eservice.
 
 [^40]: Crawfurd, [_Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b), preface; Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=792723df-d0f5-441e-84fa-b273bcbd5b0e), vol. 2, 123–24.
 
-41 For examples, see: Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=792723df-d0f5-441e-84fa-b273bcbd5b0e), vol. 2, 256, 390.
+[^41]: For examples, see: Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=792723df-d0f5-441e-84fa-b273bcbd5b0e), vol. 2, 256, 390.
 
-42 For an example of his references to others: Crawfurd, [_Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b), 41, 42, 48, 192; Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=0469b121-f1eb-4958-a97b-d8a2f3a067d1), vol. 1, 64, 96–97, 106–7, 167–8, 140–9, 264; Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=792723df-d0f5-441e-84fa-b273bcbd5b0e), vol. 2, 91, 270, 280, 308, 406–7; Crawfurd, 1820, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=59e43cf2-e102-468b-b1f0-85f494a5537b), vol. 3, 84–86, 160, 244, 275, 298, 336–9, 470–1; Crawfurd, [_Journal of an Embassy to the Courts of Siam and Cochin China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=90035), 30, 37, 301, 325.
+[^42]: For an example of his references to others: Crawfurd, [_Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b), 41, 42, 48, 192; Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=0469b121-f1eb-4958-a97b-d8a2f3a067d1), vol. 1, 64, 96–97, 106–7, 167–8, 140–9, 264; Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=792723df-d0f5-441e-84fa-b273bcbd5b0e), vol. 2, 91, 270, 280, 308, 406–7; Crawfurd, 1820, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=59e43cf2-e102-468b-b1f0-85f494a5537b), vol. 3, 84–86, 160, 244, 275, 298, 336–9, 470–1; Crawfurd, [_Journal of an Embassy to the Courts of Siam and Cochin China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=90035), 30, 37, 301, 325.
 
-43 For examples of him obtaining and using local information, see: Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=792723df-d0f5-441e-84fa-b273bcbd5b0e), vol. 2, 99, 124, 216–7, 309, 349, 356, 365, 370, 383.
+[^43]: For examples of him obtaining and using local information, see: Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=792723df-d0f5-441e-84fa-b273bcbd5b0e), vol. 2, 99, 124, 216–7, 309, 349, 356, 365, 370, 383.
 
-44 Crawfurd, [_Journal of an Embassy to the Courts of Siam and Cochin China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=90035), 30; Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=0469b121-f1eb-4958-a97b-d8a2f3a067d1), vol. 1, 30, 38, 129, 131, 135, 165; Martin Muller, “Manufacturing Malayness: British Debates on the Malay Nation, Civilisation, Race and Language in the Early Nineteenth Century,” [_Indonesia and the Malay World_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8347428) 42 (123) (2014): 178. (From National Library Singapore, call no. RSING 959.8 IMW)
+[^44]: Crawfurd, [_Journal of an Embassy to the Courts of Siam and Cochin China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=90035), 30; Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=0469b121-f1eb-4958-a97b-d8a2f3a067d1), vol. 1, 30, 38, 129, 131, 135, 165; Martin Muller, “Manufacturing Malayness: British Debates on the Malay Nation, Civilisation, Race and Language in the Early Nineteenth Century,” [_Indonesia and the Malay World_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8347428) 42 (123) (2014): 178. (From National Library Singapore, call no. RSING 959.8 IMW)
 
-45 This was pointed out in Quilty, [_Textual Empires_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9347426), ix.
+[^45]: This was pointed out in Quilty, [_Textual Empires_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9347426), ix.
 
-46 For examples of Crawfurd’s usage and references to indigenous sources in his works: Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=0469b121-f1eb-4958-a97b-d8a2f3a067d1), vol. 1, 222; Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=792723df-d0f5-441e-84fa-b273bcbd5b0e), vol. 2, 62, 99, 216–7, 309, 349, 356, 360, 365, 379–80, 383, 428, 390; Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=59e43cf2-e102-468b-b1f0-85f494a5537b), vol. 3, 30, 38, 164–5; &nbsp;&nbsp;&nbsp;Crawfurd, [_Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b), 240–6, 250.
+[^46]: For examples of Crawfurd’s usage and references to indigenous sources in his works: Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=0469b121-f1eb-4958-a97b-d8a2f3a067d1), vol. 1, 222; Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=792723df-d0f5-441e-84fa-b273bcbd5b0e), vol. 2, 62, 99, 216–7, 309, 349, 356, 360, 365, 379–80, 383, 428, 390; Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=59e43cf2-e102-468b-b1f0-85f494a5537b), vol. 3, 30, 38, 164–5; &nbsp;&nbsp;&nbsp;Crawfurd, [_Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b), 240–6, 250.
 
-47 Crawfurd, [_Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b), 240.
+[^47]: Crawfurd, [_Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b), 240.
 
-48 Muhammad Salleh Yaapar, quoted in Lufti Zahid, “Sulalatus Salatin, Tak Lapuk Dek Hujan, Tak Lekang Dek Panas,” _Dewan Bahasa_ (November 2015): 55.
+[^48]: Muhammad Salleh Yaapar, quoted in Lufti Zahid, “Sulalatus Salatin, Tak Lapuk Dek Hujan, Tak Lekang Dek Panas,” _Dewan Bahasa_ (November 2015): 55.
 
-49 For examples of Crawfurd’s criticism of European sources, see: Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=0469b121-f1eb-4958-a97b-d8a2f3a067d1), vol. 1, 377; Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=792723df-d0f5-441e-84fa-b273bcbd5b0e), vol. 2, 384; Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=59e43cf2-e102-468b-b1f0-85f494a5537b), vol. 3, 22. For his comments on native historical composition: Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=792723df-d0f5-441e-84fa-b273bcbd5b0e), vol. 2, 371; Crawfurd, [_Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b), 250.
+[^49]: For examples of Crawfurd’s criticism of European sources, see: Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=0469b121-f1eb-4958-a97b-d8a2f3a067d1), vol. 1, 377; Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=792723df-d0f5-441e-84fa-b273bcbd5b0e), vol. 2, 384; Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=59e43cf2-e102-468b-b1f0-85f494a5537b), vol. 3, 22. For his comments on native historical composition: Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=792723df-d0f5-441e-84fa-b273bcbd5b0e), vol. 2, 371; Crawfurd, [_Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b), 250.
 
-50 Crawfurd, [_Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b), 418.
+[^50]: Crawfurd, [_Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b), 418.
 
-51 The Indian Archipelago in Crawfurd’s conception encompasses most of Southeast Asia today, except Thailand, Burma, Laos, Cambodia and Vietnam. See: Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=0469b121-f1eb-4958-a97b-d8a2f3a067d1), vol. 1, 2–11.
+[^51]: The Indian Archipelago in Crawfurd’s conception encompasses most of Southeast Asia today, except Thailand, Burma, Laos, Cambodia and Vietnam. See: Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=0469b121-f1eb-4958-a97b-d8a2f3a067d1), vol. 1, 2–11.
 
-52 Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=0469b121-f1eb-4958-a97b-d8a2f3a067d1), vol. 1, 43, 122.
+[^52]: Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=0469b121-f1eb-4958-a97b-d8a2f3a067d1), vol. 1, 43, 122.
 
-53 John Crawfurd, [_A Grammar and Dictionary of the Malay Language With a Preliminary Dissertation_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=74df255c-8dbb-42f1-b381-97c04752b32d), vol. 1 (London: Smith, Elder, 1852), viii (From National Library Online); Crawfurd’s gratitude to his friend Wilson for furnishing him with information for his works on languages can also be seen in: John Crawfurd, “On the Malayan and Polynesian Languages and Races,” _Journal of the Ethonological Society of London (1848–1856)_ 1 (1848): 357. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^53]: John Crawfurd, [_A Grammar and Dictionary of the Malay Language With a Preliminary Dissertation_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=74df255c-8dbb-42f1-b381-97c04752b32d), vol. 1 (London: Smith, Elder, 1852), viii (From National Library Online); Crawfurd’s gratitude to his friend Wilson for furnishing him with information for his works on languages can also be seen in: John Crawfurd, “On the Malayan and Polynesian Languages and Races,” _Journal of the Ethonological Society of London (1848–1856)_ 1 (1848): 357. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-54 John Crawfurd, “On the Supposed Infecundity of Human Hybrids or Crosses,” _Transactions of the Ethnological Society of London_ 3 (1865): 356. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^54]: John Crawfurd, “On the Supposed Infecundity of Human Hybrids or Crosses,” _Transactions of the Ethnological Society of London_ 3 (1865): 356. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-55 Crawfurd, “On the Supposed Infecundity of Human Hybrids or Crosses,” 357.
+[^55]: Crawfurd, “On the Supposed Infecundity of Human Hybrids or Crosses,” 357.
 
-56 John Crawfurd, “On the Commixture of the Races of Man As Affecting the Progress of Civilization,” _Transactions of the Ethnological Society of London_ 3 (1865): 116–17. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^56]: John Crawfurd, “On the Commixture of the Races of Man As Affecting the Progress of Civilization,” _Transactions of the Ethnological Society of London_ 3 (1865): 116–17. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-57 Crawfurd, “On the Commixture of the Races of Man As Affecting the Progress of Civilization,” 116.
+[^57]: Crawfurd, “On the Commixture of the Races of Man As Affecting the Progress of Civilization,” 116.
 
-58 Crawfurd, “On the Commixture of the Races of Man As Affecting the Progress of Civilization,” 117.
+[^58]: Crawfurd, “On the Commixture of the Races of Man As Affecting the Progress of Civilization,” 117.
 
-59 John Crawfurd, “On the Classification of the Races of Man,” _Transactions of the Ethnological Society of London_ 1 (1861): 356. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^59]: John Crawfurd, “On the Classification of the Races of Man,” _Transactions of the Ethnological Society of London_ 1 (1861): 356. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-60 Crawfurd, “On the Commixture of the Races of Man As Affecting the Progress of Civilization,” 116.
+[^60]: Crawfurd, “On the Commixture of the Races of Man As Affecting the Progress of Civilization,” 116.
 
-61 Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=0469b121-f1eb-4958-a97b-d8a2f3a067d1), vol. 1, 135.
+[^61]: Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=0469b121-f1eb-4958-a97b-d8a2f3a067d1), vol. 1, 135.
 
-62 Crawfurd, “On the Classification of the Races of Man,” 356.
+[^62]: Crawfurd, “On the Classification of the Races of Man,” 356.
 
 63 Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=792723df-d0f5-441e-84fa-b273bcbd5b0e), vol. 2, 448; Crawfurd, “On the Commixture of the Races of Man As Affecting the Progress of Civilization,” 104.
 
