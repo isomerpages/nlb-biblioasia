@@ -649,10 +649,10 @@ world.[^121] One of Crawfurd’s attacks on studies that promoted the idea of
 shared human origin, such as Darwin’s, was that it had not identified the
 location of that origin.[^122] He called British physician and ethnologist James
 Cowles Prichard’s (1786–1848) theory that the first man and woman were
-“black” nothing but a “figment of his own brain”.123 Although there is no
+“black” nothing but a “figment of his own brain”.[^123] Although there is no
 indication in his writings to suggest that he was an atheist, Crawfurd’s stand
 on multiple human origins was also in conflict with the Biblical stance on
-common human origin.124
+common human origin.[^124]
 
 #### **Language and Mankind’s Origins**
 
@@ -662,39 +662,39 @@ Lyell’s theory of the unity of the human race was influenced by Darwin’s
 hypothesis of the transmutation of species. Calling it a “monstrous fiction”,
 Crawfurd remarked that he could not bring himself to agree with the theory
 because it did not account for human diversity, physical and mental, as seen
-in the Malays, Chinese, Polynesians, Europeans and so forth.125 Africans
+in the Malays, Chinese, Polynesians, Europeans and so forth.[^125] Africans
 and Europeans, he added, have been planted in almost every climate
 of the world “for three hundred years” and have remained unchanged,
-unless through intermixture.126 There was, furthermore, no historical or
+unless through intermixture.[^126] There was, furthermore, no historical or
 archaeological evidence to support the hypothesis, and he highlighted that
 “the Ethiopian represented on Egyptian paintings four thousand years old is
-exactly the Ethiopian of the present day”.127
+exactly the Ethiopian of the present day”.[^127]
 
 Another reason for his opposition to Lyell’s idea on human history was also
 because of his adoption of German philologist Max Müller’s (1823–1900)
 Aryan theory of language to further support his view on the unity of the
-human races.128 Müller, whom Crawfurd lauded as “a gentleman of great
+human races.[^128] Müller, whom Crawfurd lauded as “a gentleman of great
 learning” whose imagination was “at least equal to his learning”, argued that
 the languages of Europe could be traced to Central Asia and, therefore, must
-have been brought to Europe through distant migration or conquest.129 This
+have been brought to Europe through distant migration or conquest.[^129] This
 would suggest that Europeans could trace their ancestry to Central Asia as
 well as India and Western Asia, where traces of the Aryan language can be
-found and was alleged to have spread.130
+found and was alleged to have spread.[^130]
 
 Using history as a case in point, Crawfurd questioned how mankind in its
 savage state of antiquity could undertake such a remarkable feat of diaspora,
 pointing out that they must have first acquired a considerable measure of
-civilisation before accomplishing such a task.131 Europeans had only attained
+civilisation before accomplishing such a task.[^131] Europeans had only attained
 the means of undertaking the discovery of one half of the world only 400
 years prior, and it was absurd to think that the same enterprise was expected
 to have been accomplished on a massive scale by “rude and savage men”
-from a single point of the earth’s surface thousands of years earlier.132
+from a single point of the earth’s surface thousands of years earlier.[^132] 
 
 Even the Romans and Greeks during the classical age, with their civilisation,
-were not capable of achieving such a grand feat of diaspora.133 Crawfurd
+were not capable of achieving such a grand feat of diaspora.[^133] Crawfurd
 noted that, in spite of this, some writers still argued that “helpless savages,
 then, without a stock of food, and without flocks or herds, are represented
-as crossing broad seas, or marching over mountains of ice and snow”.134 That
+as crossing broad seas, or marching over mountains of ice and snow”.[^134] That
 said, one can see why he saw the multiple origins of mankind as the more
 sensible explanation to their wide geographical spread around the world.
 
@@ -705,21 +705,21 @@ different points around the world, speaking a diverse set of languages that
 were specific to the locality from which they had sprung. But as societies
 advanced, their languages evolved into common combined tongues and
 were reduced over time through conquests and cross-cultural engagements
-such as commerce and religion.135
+such as commerce and religion.[^135]
 
 Crawfurd explained that this was why more languages can be found
 spoken by people in “savage” and isolated regions such as Borneo, and
-fewer in more advanced societies such as Britain.136 Some would simply
+fewer in more advanced societies such as Britain.[^136] Some would simply
 abandon their native tongue and adopt a more practical one, not unlike
 contemporary times, which was another problem he identified with using
 language to trace racial origin: “If, then, language were a test of race, we
 should be tracing some of the Negros settled in America, first to England
-and then to Germany and Italy, and others… to Spain.”137 But there were
+and then to Germany and Italy, and others… to Spain”.[^137] But there were
 exceptions to the rule and language could, at times, be employed to tell the
 history of a race, and Crawfurd would argue that the African and “Oriental
 Negroes” were not related because, aside from their different features, there
 was no connection between their languages, and the same would apply
-between the latter and the Malays.138
+between the latter and the Malays.[^138]
 
 #### **Polygenesis as a Framework for Understanding the History of the Malay Peninsula**
 
@@ -729,11 +729,11 @@ independent civilisations to have sprung up from the well-watered volcanic
 portion of Sumatra. This was a geographically ideal location for them to
 attain a level of civilisation advancement to effect migration to other parts of the Indian Archipelago, such as Borneo, northern Sumatra, and most
 notably the Malay Peninsula – where they were now found settled on the
-coasts.139 Thus, they arrived in the region in a comparatively civilised state
+coasts.[^139] Thus, they arrived in the region in a comparatively civilised state
 in the 12th and 13th centuries, and continued to the present-day to emigrate
-from Sumatra.140 The other brown-complexioned “Malay” Aslian tribes such
+from Sumatra.[^140] The other brown-complexioned “Malay” Aslian tribes such
 as the Jakuns, were also migrants from Sumatra, but the darker “Oriental
-Negro” tribes, he believed, were in the Malay Peninsula before them.141
+Negro” tribes, he believed, were in the Malay Peninsula before them.[^141]
 
 Crawfurd noted in *Grammar and Dictionary of the Malay Language*
 that unlike others, such as Marsden, Raffles and Baron Wilhelm von
@@ -741,35 +741,35 @@ Humboldt (1767–1835), he did not believe that the languages of the Indian
 Archipelago, such as the Malay language, were derived from one source as
 was generally thought. In his later *A Descriptive Dictionary of the Indian
 Islands*, he noted that the Indian Archipelago is home to innumerable
-languages.142
+languages.[^142]
 
 Traces of the Malay language, however, can be found in some parts of the
 Indian Archipelago, such as the Philippines, but the origin of the Malay
-language is obscure.143 Although he mentioned in *Grammar and Dictionary
+language is obscure.[^143] Although he mentioned in *Grammar and Dictionary
 of the Malay Language* that his different conclusion was due to his advantage
 of being favoured with ampler materials than his predecessors, it was also
 because this concept of shared language origin, which suggested that the
 inhabitants of the Malay Archipelago were “one of the same race”, did not
-conform to his idea of polygenesis.144 Crawfurd, citing lack of evidence,
+conform to his idea of polygenesis.[^144] Crawfurd, citing lack of evidence,
 had not always agreed with Marsden that Minangkabau was the homeland
 of the Malays, but he eventually surrendered to this view, although he continually reminded his readers that it was only a reasonable hypothesis, as
-there was yet to be solid proof to confirm this.145
+there was yet to be solid proof to confirm this.[^145]
 
 Returning to Quilty’s *Textual Empires*, if she had included Crawfurd’s later
 works in her analysis, she would have seen his ideas about race and language
 as more than simply a Malthusian or proto-Social Darwinist view of “a fight
 for survival between languages” – where the language of the weaker group is
-displaced by the dominant.146 He would have cringed at the notion of being
+displaced by the dominant.[^146] He would have cringed at the notion of being
 identified with Darwinism. She would also have observed that Crawfurd’s
 idea about the Southeast Asian peasant as a potential proto-capitalist who
 could be improved by being in close proximity to the European presence
 was part of his broader view that less advanced societies would benefit from
-contact with a more advanced one, and it did not have to be the West.147
+contact with a more advanced one, and it did not have to be the West.[^147]
 
 Although it is true that Crawfurd stated in *History of the Indian Archipelago*
 that civilisation of the Asiatic nations may be fairly traced to the European
 race, he had a different view in his later publications, acknowledging
-that some Asian nations were once ahead of the West.148 If one applies
+that some Asian nations were once ahead of the West.[^148] If one applies
 Crawfurd’s later conception of ethnology to practice, an advanced non-
 European nation could have brought civilisation to the savage western and
 northern Europeans of antiquity by way of cross-cultural engagement, if
@@ -778,7 +778,7 @@ they had been within closer proximity to them than the Romans or Greeks.
 People change their minds, and this is a key point for scholars who are
 dealing with intellectual history on a broad scale to note. As Knapman has
 demonstrated, the misinterpretation of Crawfurd’s work is a warning not to
-simplify 19th-century thought.149
+simplify 19th-century thought.[^149]
 
 #### **Conclusion**
 
@@ -794,7 +794,7 @@ This important connection was admitted by Crawfurd when he noted in his
 of his life, had been the subject of his attention, and he would emphasise
 his authority over his subjects and in his arguments on ethnology, history
 and languages by pointing to his experiences in the Malay Peninsula and its
-surrounding islands.150
+surrounding islands.[^150]
 
 He used his observations of the Peranakan communities, for example,
 to support his position on the offspring of mixed-racial unions and
@@ -1016,26 +1016,25 @@ Turnbull, C. M. [_A History of Modern Singapore, 1819–2005_](https://eservice.
 —. “Crawfurd, John (1783–1868), Orientalist and Colonial Administrator.” (2004). Oxford Dictionary of National Biography website, accessed 4 July 2016.
 
 #### **NOTES**
+ [^1]: Mary Quilty, [_Textual Empires: A Reading of Early British Histories of Southeast Asia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9347426) (Clayton, Victoria: Monash Asia Institute, 1998). (From National Library Singapore, call no. RSING 959.0072 QUI)
 
-1 Mary Quilty, [_Textual Empires: A Reading of Early British Histories of Southeast Asia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9347426) (Clayton, Victoria: Monash Asia Institute, 1998). (From National Library Singapore, call no. RSING 959.0072 QUI)
+[^2]: Gareth Knapman, “Race, Polygenesis and Equality: John Crawfurd and Nineteenth-Century Resistance to Evolution,” _History of European Ideas_ 42, no. 7 (2016): 910, 913.
 
-2 Gareth Knapman, “Race, Polygenesis and Equality: John Crawfurd and Nineteenth-Century Resistance to Evolution,” _History of European Ideas_ 42, no. 7 (2016): 910, 913.
+[^3]: Terry Jay Ellingson, [_The Myth of the Noble Savage_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202514842) (Berkeley: University of California Press, 2001), 270, 271 (From National Library Singapore, call no. RSEA 301.01 ELL); Roderick Impey Murchison, “Address to the Royal Geographical Society,” _Journal of the Royal Geographical Society of London_, 38 (1868): clxvii. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-3 Terry Jay Ellingson, [_The Myth of the Noble Savage_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202514842) (Berkeley: University of California Press, 2001), 270, 271 (From National Library Singapore, call no. RSEA 301.01 ELL); Roderick Impey Murchison, “Address to the Royal Geographical Society,” _Journal of the Royal Geographical Society of London_, 38 (1868): clxvii. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^4]: "Mr John Crawfurd,” _Spectator_ (11 January 1834): 32, The _Spectator Archive_ website.
 
-4 “Mr John Crawfurd,” _Spectator_ (11 January 1834): 32, The _Spectator Archive_ website.
+[^5]: Frank Swettenham, [_British Malaya: An Account of the Origin and Progress of British Influence in Malaya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4250035) (New York: AMS Press, 1975), 158. (From National Library Singapore, call no. RSING 959.5 SWE)
 
-5 Frank Swettenham, [_British Malaya: An Account of the Origin and Progress of British Influence in Malaya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4250035) (New York: AMS Press, 1975), 158. (From National Library Singapore, call no. RSING 959.5 SWE)
+[^6]: Sandra Khor Manickam, for instance, has highlighted Crawfurd’s problematic depiction of the “dwarf African Negro” in his 1820 book John Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=792723df-d0f5-441e-84fa-b273bcbd5b0e), vol. 2 (United Kingdom: Printed for Archibald Constable and Co., 1820) (From National Library Online); See: Sandra Khor Manickam, [_Taming the Wild: Aborigines and Racial Knowledge in Colonial Malaya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201211346) (Singapore: NUS Press, 2015), 31 (From National Library Singapore, call no. RSING 305.8009595 MAN); David K. Wyatt in an introduction to a reprint of Crawfurd’s _Journal of an Embassy from the Governor-General of India to the Courts of Siam and Cochin China_…found that “The information which \[Crawfurd\] gained is in some places faulty, and on some occasions poorly interpreted, but on the whole it is important, well organised, and, with a few exceptions, but slightly marred by the author’s own prejudices.” Wyatt, introduction to John Crawfurd, [_Journal of an Embassy to the Courts of Siam and Cochin China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=90035) (Kuala Lumpur: Oxford University Press, 1967), 4. (From National Library Singapore, call no. RCLOS 959.3 CRA)
 
-6 Sandra Khor Manickam, for instance, has highlighted Crawfurd’s problematic depiction of the “dwarf African Negro” in his 1820 book John Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=792723df-d0f5-441e-84fa-b273bcbd5b0e), vol. 2 (United Kingdom: Printed for Archibald Constable and Co., 1820) (From National Library Online); See: Sandra Khor Manickam, [_Taming the Wild: Aborigines and Racial Knowledge in Colonial Malaya_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=201211346) (Singapore: NUS Press, 2015), 31 (From National Library Singapore, call no. RSING 305.8009595 MAN); David K. Wyatt in an introduction to a reprint of Crawfurd’s _Journal of an Embassy from the Governor-General of India to the Courts of Siam and Cochin China_…found that “The information which \[Crawfurd\] gained is in some places faulty, and on some occasions poorly interpreted, but on the whole it is important, well organised, and, with a few exceptions, but slightly marred by the author’s own prejudices.” Wyatt, introduction to John Crawfurd, [_Journal of an Embassy to the Courts of Siam and Cochin China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=90035) (Kuala Lumpur: Oxford University Press, 1967), 4. (From National Library Singapore, call no. RCLOS 959.3 CRA)
+[^7]: “John Crawfurd: British Scholar and Diplomat,” Encyclopaedia Britannica, accessed 1 July 2016; Gareth Knapman, [_Race and British Colonialism in Southeast Asia 1770–1870: John Crawfurd and the Politics of Equality_](https://catalogue.nlb.gov.sg/search/card?recordId=202670828) (New York: Routledge, 2017), 20 (From National Library, call no. RSING 325.01 KNA); Ang Seow Leng, “[A Bilingual Dictionary by a Scotsman](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/malay-dictionary-crawfurd/),” _BiblioAsia_ 11, no. 4 (January–March 2016); “Mr John Crawfurd,” _Sydney Morning Herald_, 23 July 1868, 6; “Mr John Crawfurd,” _The Examiner_, no. 3146 (16 May 1868); C. M. Turnbull, “Crawfurd, John (1783–1868), Orientalist and Colonial Administrator,” (2004), Oxford Dictionary of National Biography website, accessed 4 July 2016.
 
-7 “John Crawfurd: British Scholar and Diplomat,” Encyclopaedia Britannica, accessed 1 July 2016; Gareth Knapman, [_Race and British Colonialism in Southeast Asia 1770–1870: John Crawfurd and the Politics of Equality_](https://catalogue.nlb.gov.sg/search/card?recordId=202670828) (New York: Routledge, 2017), 20 (From National Library, call no. RSING 325.01 KNA); Ang Seow Leng, “[A Bilingual Dictionary by a Scotsman](https://biblioasia.nlb.gov.sg/vol-11/issue-4/jan-mar-2016/malay-dictionary-crawfurd/),” _BiblioAsia_ 11, no. 4 (January–March 2016); “Mr John Crawfurd,” _Sydney Morning Herald_, 23 July 1868, 6; “Mr John Crawfurd,” _The Examiner_, no. 3146 (16 May 1868); C. M. Turnbull, “Crawfurd, John (1783–1868), Orientalist and Colonial Administrator,” (2004), Oxford Dictionary of National Biography website, accessed 4 July 2016.
+[^8]: “Mr John Crawfurd”; C. M. Turnbull, [_A History of Modern Singapore, 1819–2005_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13206047) (Singapore: NUS Press, 2009), 42. (From National Library Singapore, call no. RSING 959.57 TUR-\[HIS\])
 
-8 “Mr John Crawfurd”; C. M. Turnbull, [_A History of Modern Singapore, 1819–2005_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13206047) (Singapore: NUS Press, 2009), 42. (From National Library Singapore, call no. RSING 959.57 TUR-\[HIS\])
+[^9]: “Mr John Crawfurd”; Charles Burton Buckley, [_An Anecdotal History of Old Times in Singapore 1819–1867_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082239) (Singapore: Oxford University Press, 1984), 140. (From National Library Singapore, call no. RSING 959.57 BUC-\[HIS\])
 
-9 “Mr John Crawfurd”; Charles Burton Buckley, [_An Anecdotal History of Old Times in Singapore 1819–1867_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082239) (Singapore: Oxford University Press, 1984), 140. (From National Library Singapore, call no. RSING 959.57 BUC-\[HIS\])
-
-10 “Mr John Crawfurd”; Turnbull, “Crawfurd, John (1783–1868), Orientalist and Colonial Administrator.”
+[^10]: “Mr John Crawfurd”; Turnbull, “Crawfurd, John (1783–1868), Orientalist and Colonial Administrator.”
 
 11 John Crawfurd, “Advertisement,” in [_History of the Indian Archipelago: Containing an Account of the Manners, Arts, Languages, Religions, Institutions, and Commerce of Its Inhabitants_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=0469b121-f1eb-4958-a97b-d8a2f3a067d1), vol. 1 (Edinburgh: Archibald Constable and Co., 1820) (From National Library Online; microfilm NL25440); Murchison, “Address to the Royal Geographical Society,” clxvii.
 
