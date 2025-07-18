@@ -1284,7 +1284,7 @@ Turnbull, C. M. [_A History of Modern Singapore, 1819–2005_](https://eservice.
 
 [^134]: Crawfurd, “On the Early Migrations of Man,” 345.
 
-[^135] Crawfurd, “On Sir Charles Lyell’s ‘Antiquity of Man’, and Professor Huxley’s Evidence As to Man’s Place in Nature,” 63–64, 66.
+[^135]: Crawfurd, “On Sir Charles Lyell’s ‘Antiquity of Man’, and Professor Huxley’s Evidence As to Man’s Place in Nature,” 63–64, 66.
 
 [^136]: Crawfurd, “On Sir Charles Lyell’s ‘Antiquity of Man’, and Professor Huxley’s Evidence As to Man’s Place in Nature,” 66.
 
