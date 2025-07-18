@@ -1196,65 +1196,65 @@ Turnbull, C. M. [_A History of Modern Singapore, 1819–2005_](https://eservice.
 
 [^90]: John Crawfurd, “On the Connexion Between Ethnology and Physical Geography,” _Transactions of the Ethnological Society of London_ 2 (1863): 4. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-91 Crawfurd, “On the Malayan Race of Man and Its Prehistoric Career,” 123, 125.
+[^91]: Crawfurd, “On the Malayan Race of Man and Its Prehistoric Career,” 123, 125.
 
-92 Crawfurd, “On the Connexion Between Ethnology and Physical Geography,” 4–5, 8, 10–11, 14.
+[^92]: Crawfurd, “On the Connexion Between Ethnology and Physical Geography,” 4–5, 8, 10–11, 14.
 
-93 John Crawfurd, “On the Vegetable and Animal Food of the Natives of Australia in Reference to Social Position, With a Comparison Between the Australians and Some Other Races of Man,” _Transactions of_ _the Ethnological Society of London_ 6 (1868): 121. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^93]: John Crawfurd, “On the Vegetable and Animal Food of the Natives of Australia in Reference to Social Position, With a Comparison Between the Australians and Some Other Races of Man,” _Transactions of_ _the Ethnological Society of London_ 6 (1868): 121. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-94 Crawfurd, “On the Connexion Between Ethnology and Physical Geography,” 4.
+[^94]: Crawfurd, “On the Connexion Between Ethnology and Physical Geography,” 4.
 
-95 John Crawfurd, “On the Invention of Writing Materials in Reference to Ethnology,” _Transactions of the Ethnological Society of London_ 5 (1867): 161 (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website); Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=59e43cf2-e102-468b-b1f0-85f494a5537b), vol. 3, 149; Crawfurd, “On the Conditions Which Favour, Retard, or Obstruct the Early Civilization of Man,” 166–67.
+[^95]: John Crawfurd, “On the Invention of Writing Materials in Reference to Ethnology,” _Transactions of the Ethnological Society of London_ 5 (1867): 161 (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website); Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=59e43cf2-e102-468b-b1f0-85f494a5537b), vol. 3, 149; Crawfurd, “On the Conditions Which Favour, Retard, or Obstruct the Early Civilization of Man,” 166–67.
 
-96 John Crawfurd, “On the Commixture of the Races of Man in Western and Central Asia,” _Anthropological Review_ 1, no. 1 (May 1863): 159–60. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^96]: John Crawfurd, “On the Commixture of the Races of Man in Western and Central Asia,” _Anthropological Review_ 1, no. 1 (May 1863): 159–60. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-97 Crawfurd, “On the Physical and Mental Characteristics of the European and Asiatic Races of Man,” 61; Crawfurd, “On the Conditions Which Favour, Retard, or Obstruct the Early Civilization of Man,” 161.
+[^97]: Crawfurd, “On the Physical and Mental Characteristics of the European and Asiatic Races of Man,” 61; Crawfurd, “On the Conditions Which Favour, Retard, or Obstruct the Early Civilization of Man,” 161.
 
-98 Crawfurd, “On the Connexion Between Ethnology and Physical Geography,” 4, 14; Crawfurd, “On the Classification of the Races of Man,” 370; Crawfurd, “On the Physical and Mental Characteristics of the Negro,” 213–14.
+[^98]: Crawfurd, “On the Connexion Between Ethnology and Physical Geography,” 4, 14; Crawfurd, “On the Classification of the Races of Man,” 370; Crawfurd, “On the Physical and Mental Characteristics of the Negro,” 213–14.
 
-99 Crawfurd, “On the Connexion Between Ethnology and Physical Geography,” 16.
+[^99]: Crawfurd, “On the Connexion Between Ethnology and Physical Geography,” 16.
 
-100 Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=0469b121-f1eb-4958-a97b-d8a2f3a067d1), vol. 1, 118; Crawfurd, “On the Connexion Between Ethnology and Physical Geography,” 11; also see John Crawfurd, “On the Early Migrations of Man,” _Transactions of the Ethnological Society of London_ 3 (1865): 339. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^100]: Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=0469b121-f1eb-4958-a97b-d8a2f3a067d1), vol. 1, 118; Crawfurd, “On the Connexion Between Ethnology and Physical Geography,” 11; also see John Crawfurd, “On the Early Migrations of Man,” _Transactions of the Ethnological Society of London_ 3 (1865): 339. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-101 Crawfurd, “On the Early Migrations of Man,” 339; Crawfurd, “On the Connexion Between Ethnology and Physical Geography,” 10.
+[^101]: Crawfurd, “On the Early Migrations of Man,” 339; Crawfurd, “On the Connexion Between Ethnology and Physical Geography,” 10.
 
-102 John Crawfurd, “On the Numerals as Evidence of the Progress of Civilization,” _Transactions of the Ethnological Society of London_ 2 (1863): 95 (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website); Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=792723df-d0f5-441e-84fa-b273bcbd5b0e), vol. 2, 27; Crawfurd, [_Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b), 36, 263–64; Crawfurd, “On the Malayan Race of Man and Its Prehistoric Career,” 125.
+[^102]: John Crawfurd, “On the Numerals as Evidence of the Progress of Civilization,” _Transactions of the Ethnological Society of London_ 2 (1863): 95 (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website); Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=792723df-d0f5-441e-84fa-b273bcbd5b0e), vol. 2, 27; Crawfurd, [_Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b), 36, 263–64; Crawfurd, “On the Malayan Race of Man and Its Prehistoric Career,” 125.
 
-103 Crawfurd, [_Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b), 35.
+[^103]: Crawfurd, [_Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b), 35.
 
-104 Crawfurd, “On the Physical and Mental Characteristics of the Negro,” 238.
+[^104]: Crawfurd, “On the Physical and Mental Characteristics of the Negro,” 238.
 
-105 Crawfurd, “On the Commixture of the Races of Man As Affecting the Progress of Civilization,” 116; Syed Muhd Khairudin Aljunied, “Sir Stamford Raffles’ Discourse on the Malay World: A Revisionist Perspective,” [_Sojourn_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4401203) 20, no. 1 (April 2005): 6–8 (From National Library Singapore, call no. RSING 300.5 SSISA); Turnbull, [_A History of Modern Singapore, 1819–2005_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13206047), 42.
+[^105]: Crawfurd, “On the Commixture of the Races of Man As Affecting the Progress of Civilization,” 116; Syed Muhd Khairudin Aljunied, “Sir Stamford Raffles’ Discourse on the Malay World: A Revisionist Perspective,” [_Sojourn_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4401203) 20, no. 1 (April 2005): 6–8 (From National Library Singapore, call no. RSING 300.5 SSISA); Turnbull, [_A History of Modern Singapore, 1819–2005_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13206047), 42.
 
-106 Mark Harrison, _Climates &amp; Constitutions: Health, Race, Environment and British Imperialism in India, 1600–1850_ (New Delhi: Oxford University Press, 1999). Harrison, however, has shown that this belief was already on the defensive by the 1860s: Harrison, _Climates &amp; Constitutions_, 206.
+[^106]: Mark Harrison, _Climates &amp; Constitutions: Health, Race, Environment and British Imperialism in India, 1600–1850_ (New Delhi: Oxford University Press, 1999). Harrison, however, has shown that this belief was already on the defensive by the 1860s: Harrison, _Climates &amp; Constitutions_, 206.
 
-107 John Turnbull Thomson, _Rambles With a Philosopher, or Views at the Antipodes by an Otagonian_ (Dunedion, N.Z.: Mills, Dick &amp; Co., 1867), 211.
+[^107]: John Turnbull Thomson, _Rambles With a Philosopher, or Views at the Antipodes by an Otagonian_ (Dunedion, N.Z.: Mills, Dick &amp; Co., 1867), 211.
 
-108 Harrison, _Climates &amp; Constitutions_, 11, 96.
+[^108]: Harrison, _Climates &amp; Constitutions_, 11, 96.
 
-109 Harrison, _Climates &amp; Constitutions_, 11; Also see Thomson’s explanation of the despotic conduct of a British official in the Malay Peninsula: John Turnbull Thomson, [_Some Glimpses Into Life in the Far East_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=16862810-4ee0-417f-ac05-0d5942b44550)&nbsp; (London: Richardson &amp; Co., 1865), 126. (From National Library Online)
+[^109]: Harrison, _Climates &amp; Constitutions_, 11; Also see Thomson’s explanation of the despotic conduct of a British official in the Malay Peninsula: John Turnbull Thomson, [_Some Glimpses Into Life in the Far East_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=16862810-4ee0-417f-ac05-0d5942b44550)&nbsp; (London: Richardson &amp; Co., 1865), 126. (From National Library Online)
 
-110 Harrison, _Climates &amp; Constitutions_, 11, 19, 25, 89, 96, 215.
+[^110]: Harrison, _Climates &amp; Constitutions_, 11, 19, 25, 89, 96, 215.
 
-111 Crawfurd, [_Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b), 121.
+[^111]: Crawfurd, [_Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b), 121.
 
-112 Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=59e43cf2-e102-468b-b1f0-85f494a5537b), vol. 3, 74, 272–73.
+[^112]: Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=59e43cf2-e102-468b-b1f0-85f494a5537b), vol. 3, 74, 272–73.
 
-113 Crawfurd, “On Colour as a Test of the Races of Man,” 252; Crawfurd, “On the Skin, the Hair and the Eyes, As Tests of the Races of Man,” 147.
+[^113]: Crawfurd, “On Colour as a Test of the Races of Man,” 252; Crawfurd, “On the Skin, the Hair and the Eyes, As Tests of the Races of Man,” 147.
 
-114 Crawfurd, “On the Classification of the Races of Man,” 365–66. Another article in which he pointed to his experience in the Malay Peninsula to stress his view is seen in Crawfurd, “On Colour as a Test of the Races of Man,” 252.
+[^114]: Crawfurd, “On the Classification of the Races of Man,” 365–66. Another article in which he pointed to his experience in the Malay Peninsula to stress his view is seen in Crawfurd, “On Colour as a Test of the Races of Man,” 252.
 
-115 Crawfurd, “On Colour as a Test of the Races of Man,” 252; Crawfurd, “On the Skin, the Hair and the Eyes, As Tests of the Races of Man,” 145, 148.
+[^115]: Crawfurd, “On Colour as a Test of the Races of Man,” 252; Crawfurd, “On the Skin, the Hair and the Eyes, As Tests of the Races of Man,” 145, 148.
 
-116 Crawfurd, “On Colour as a Test of the Races of Man,” 252; Crawfurd, “On the Skin, the Hair and the Eyes, As Tests of the Races of Man,” 145–48.
+[^116]: Crawfurd, “On Colour as a Test of the Races of Man,” 252; Crawfurd, “On the Skin, the Hair and the Eyes, As Tests of the Races of Man,” 145–48.
 
-117 Crawfurd, “On the Skin, the Hair and the Eyes, As Tests of the Races of Man,” 148–49.
+[^117]: Crawfurd, “On the Skin, the Hair and the Eyes, As Tests of the Races of Man,” 148–49.
 
-118 Crawfurd, “On Colour as a Test of the Races of Man,” 251.
+[^118]: Crawfurd, “On Colour as a Test of the Races of Man,” 251.
 
-119 James Hunt, “Anthropology at the British Association,” _Anthropological Review_, 6, no. 20 (January 1868): 97 (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website); Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=0469b121-f1eb-4958-a97b-d8a2f3a067d1), vol. 1, 20.
+[^119]: James Hunt, “Anthropology at the British Association,” _Anthropological Review_, 6, no. 20 (January 1868): 97 (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website); Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=0469b121-f1eb-4958-a97b-d8a2f3a067d1), vol. 1, 20.
 
-120 Crawfurd, “On Colour as a Test of the Races of Man,” 253.
+[^120]: Crawfurd, “On Colour as a Test of the Races of Man,” 253.
 
 121 Crawfurd, “On Colour as a Test of the Races of Man,” 251.
 
