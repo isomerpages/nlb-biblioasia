@@ -1036,67 +1036,65 @@ Turnbull, C. M. [_A History of Modern Singapore, 1819–2005_](https://eservice.
 
 [^10]: “Mr John Crawfurd”; Turnbull, “Crawfurd, John (1783–1868), Orientalist and Colonial Administrator.”
 
-11 John Crawfurd, “Advertisement,” in [_History of the Indian Archipelago: Containing an Account of the Manners, Arts, Languages, Religions, Institutions, and Commerce of Its Inhabitants_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=0469b121-f1eb-4958-a97b-d8a2f3a067d1), vol. 1 (Edinburgh: Archibald Constable and Co., 1820) (From National Library Online; microfilm NL25440); Murchison, “Address to the Royal Geographical Society,” clxvii.
+[^11]: John Crawfurd, “Advertisement,” in [_History of the Indian Archipelago: Containing an Account of the Manners, Arts, Languages, Religions, Institutions, and Commerce of Its Inhabitants_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=0469b121-f1eb-4958-a97b-d8a2f3a067d1), vol. 1 (Edinburgh: Archibald Constable and Co., 1820) (From National Library Online; microfilm NL25440); Murchison, “Address to the Royal Geographical Society,” clxvii.
 
-12 “Mr John Crawfurd”; Crawfurd, “[Advertisement](https://www.nlb.gov.sg/main/book-detail?cmsuuid=0469b121-f1eb-4958-a97b-d8a2f3a067d1).”
+[^12]: “Mr John Crawfurd”; Crawfurd, “[Advertisement](https://www.nlb.gov.sg/main/book-detail?cmsuuid=0469b121-f1eb-4958-a97b-d8a2f3a067d1).”
 
-13 Ellingson, [_The Myth of the Noble Savage_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202514842), 268.
+[^13]: Ellingson, [_The Myth of the Noble Savage_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202514842), 268.
 
-14 “Obituary of Crawfurd,” _Sydney Morning Herald_, 13 Jul 1868, 6; Turnbull, “Crawfurd, John (1783–1868), Orientalist and Colonial Administrator.”
+[^14]: “Obituary of Crawfurd,” _Sydney Morning Herald_, 13 Jul 1868, 6; Turnbull, “Crawfurd, John (1783–1868), Orientalist and Colonial Administrator.”
 
-15 Turnbull, “Crawfurd, John (1783–1868), Orientalist and Colonial Administrator.”
+[^15]: Turnbull, “Crawfurd, John (1783–1868), Orientalist and Colonial Administrator.”
 
-16 Turnbull, “Crawfurd, John (1783–1868), Orientalist and Colonial Administrator.”
+[^16]: Turnbull, “Crawfurd, John (1783–1868), Orientalist and Colonial Administrator.”
 
-17 Turnbull, “Crawfurd, John (1783–1868), Orientalist and Colonial Administrator.”
+[^17]: Turnbull, “Crawfurd, John (1783–1868), Orientalist and Colonial Administrator.”
 
-18 Anon, “Notice of Mr Crawfurd’s Descriptive Dictionary,” _Journal of the Indian Archipelago and Eastern Asia (new series)_, 1 (1856): 293 (From National Library Singapore, RRARE 950.05 JOU)
+[^18]: Anon, “Notice of Mr Crawfurd’s Descriptive Dictionary,” _Journal of the Indian Archipelago and Eastern Asia (new series)_, 1 (1856): 293 (From National Library Singapore, RRARE 950.05 JOU)
 
-19 Crawfurd, [_Journal of an Embassy to the Courts of Siam and Cochin China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=90035), 4; Murchison, “Address to the Royal Geographical Society,” clxvii; Turnbull, “Crawfurd, John (1783–1868), Orientalist and Colonial Administrator.”
+[^19]: Crawfurd, [_Journal of an Embassy to the Courts of Siam and Cochin China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=90035), 4; Murchison, “Address to the Royal Geographical Society,” clxvii; Turnbull, “Crawfurd, John (1783–1868), Orientalist and Colonial Administrator.”
 
-20 Turnbull, “Crawfurd, John (1783–1868), Orientalist and Colonial Administrator.”
+[^20]: Turnbull, “Crawfurd, John (1783–1868), Orientalist and Colonial Administrator.”
 
-21 “Mr John Crawfurd,” _Daily Telegraph_, 14 May 1868, 5; Knapman, [_Race and British Colonialism in Southeast Asia 1770–1870_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202670828), 7.
+[^21]: “Mr John Crawfurd,” _Daily Telegraph_, 14 May 1868, 5; Knapman, [_Race and British Colonialism in Southeast Asia 1770–1870_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202670828), 7.
 
-22 Ellingson, [_The Myth of the Noble Savage_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202514842), 264; Murchison, “Address to the Royal Geographical Society,” cl.
+[^22]: Ellingson, [_The Myth of the Noble Savage_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202514842), 264; Murchison, “Address to the Royal Geographical Society,” cl.
 
-23 Buckley, [_An Anecdotal History of Old Times in Singapore 1819–1867_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082239), 141; Turnbull, [_A History of Modern Singapore, 1819–2005_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13206047), 49; “Obituary of Crawfurd.”
+[^23]: Buckley, [_An Anecdotal History of Old Times in Singapore 1819–1867_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4082239), 141; Turnbull, [_A History of Modern Singapore, 1819–2005_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=13206047), 49; “Obituary of Crawfurd.”
 
-24 “Obituary of Crawfurd”; Mr John Crawfurd” no. 3146.
+[^24]: “Obituary of Crawfurd”; Mr John Crawfurd” no. 3146.
 
-25 “Obituary of Crawfurd”; Mr John Crawfurd” no. 3146; Thomas Thomson, _A Biography of Eminent Scotsmen_, vol. 3 (London: Blackie and Son, 1870), 592–94.
+[^25]: “Obituary of Crawfurd”; Mr John Crawfurd” no. 3146; Thomas Thomson, _A Biography of Eminent Scotsmen_, vol. 3 (London: Blackie and Son, 1870), 592–94.
 
-26 Murchison, “Address to the Royal Geographical Society,” cl; Knapman, [_Race and British Colonialism in Southeast Asia 1770–1870_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202670828), 7–8, 139.
+[^26]: Murchison, “Address to the Royal Geographical Society,” cl; Knapman, [_Race and British Colonialism in Southeast Asia 1770–1870_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202670828), 7–8, 139.
 
-27 Knapman, “Race, Polygenesis and Equality,” 919–20.
+[^27]: Knapman, “Race, Polygenesis and Equality,” 919–20.
 
-28 Murchison, “Address to the Royal Geographical Society,” clxix.
+[^28]: Murchison, “Address to the Royal Geographical Society,” clxix.
 
-29 Edward W. Said, [_Orientalism_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202673250) (London: Penguin, 1991), 1–2. (From National Library Singapore, call no. RCLOS 950.07 SAI-\[ET\])
+[^29]: Edward W. Said, [_Orientalism_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202673250) (London: Penguin, 1991), 1–2. (From National Library Singapore, call no. RCLOS 950.07 SAI-\[ET\])
 
-30 Said, [_Orientalism_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202673250), 2–3.
+[^30]: Said, [_Orientalism_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202673250), 2–3.
 
-31 C. A, Bayly, [_Empire and Information: Intelligence Gathering and Social Communication in India, 1780–1870_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7768099) (New York: Cambridge University Press, 1996), 371. (From National Library Singapore, call no. R 327.1241054 BAY)
+[^31]: C. A, Bayly, [_Empire and Information: Intelligence Gathering and Social Communication in India, 1780–1870_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=7768099) (New York: Cambridge University Press, 1996), 371. (From National Library Singapore, call no. R 327.1241054 BAY)
 
-32 Anon, “Notice of Mr Crawfurd’s Descriptive Dictionary,” 291–5. For comment, see 295.
+[^32]: Anon, “Notice of Mr Crawfurd’s Descriptive Dictionary,” 291–5. For comment, see 295.
 
-33 Quilty, [_Textual Empires: A Reading of Early British Histories of Southeast Asia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9347426), 1.
+[^33]: Quilty, [_Textual Empires: A Reading of Early British Histories of Southeast Asia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9347426), 1.
 
-34 Quilty, [_Textual Empires_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9347426), 4; John Crawfurd, [_A Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b) (London: Bradbury &amp; Evan, 1856), 171. (From National Library Online)
+[^34]: Quilty, [_Textual Empires_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9347426), 4; John Crawfurd, [_A Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b) (London: Bradbury &amp; Evan, 1856), 171. (From National Library Online)
 
-35 John Crawfurd, “On the Physical and Mental Characteristics of the European and Asiatic Races of Man,” _Transactions of the Ethnological Society of London_ 5 (1867): 58–81. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^35]: John Crawfurd, “On the Physical and Mental Characteristics of the European and Asiatic Races of Man,” _Transactions of the Ethnological Society of London_ 5 (1867): 58–81. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-36 Dadabhai Naoroji, “Observations on Mr. John Crawfurd’s Paper on the European and Asiatic Races,” _Transactions of the Ethnological Society of London_ 5 (1867): 127–33. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^36]: Dadabhai Naoroji, “Observations on Mr. John Crawfurd’s Paper on the European and Asiatic Races,” _Transactions of the Ethnological Society of London_ 5 (1867): 127–33. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-37 Crawfurd, [_Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b), &nbsp;240–46.
+[^37]: Crawfurd, [_Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b), &nbsp;240–46.
 
-38 See footnote in Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=792723df-d0f5-441e-84fa-b273bcbd5b0e), vol. 2, 384.
+[^38]: See footnote in Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=792723df-d0f5-441e-84fa-b273bcbd5b0e), vol. 2, 384.
 
-39 Crawfurd, [_Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b), 253, 407; Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=792723df-d0f5-441e-84fa-b273bcbd5b0e), vol. 2, 120, 123–24, 384;
+[^39]: Crawfurd, [_Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b), 253, 407; Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=792723df-d0f5-441e-84fa-b273bcbd5b0e), vol. 2, 120, 123–24, 384; John Crawfurd, “On the Physical and Mental Characteristics of the Negro,” _Transactions of the Ethnology Society of_ _London_ 4 (1866): 237. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-John Crawfurd, “On the Physical and Mental Characteristics of the Negro,” _Transactions of the Ethnology Society of_ _London_ 4 (1866): 237. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
-
-40 Crawfurd, [_Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b), preface; Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=792723df-d0f5-441e-84fa-b273bcbd5b0e), vol. 2, 123–24.
+[^40]: Crawfurd, [_Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b), preface; Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=792723df-d0f5-441e-84fa-b273bcbd5b0e), vol. 2, 123–24.
 
 41 For examples, see: Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=792723df-d0f5-441e-84fa-b273bcbd5b0e), vol. 2, 256, 390.
 
