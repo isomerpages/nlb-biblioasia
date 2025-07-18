@@ -1256,62 +1256,62 @@ Turnbull, C. M. [_A History of Modern Singapore, 1819–2005_](https://eservice.
 
 [^120]: Crawfurd, “On Colour as a Test of the Races of Man,” 253.
 
-121 Crawfurd, “On Colour as a Test of the Races of Man,” 251.
+[^121]: Crawfurd, “On Colour as a Test of the Races of Man,” 251.
 
-122 Crawfurd, “On the Early Migrations of Man,” 342; Crawfurd, “On Colour as a Test of the Races of Man,” 259.
+[^122]: Crawfurd, “On the Early Migrations of Man,” 342; Crawfurd, “On Colour as a Test of the Races of Man,” 259.
 
-123 Crawfurd, “On Colour as a Test of the Races of Man,” 258. Crawfurd made references to the will of the Creator at times in his ethnological discussions, as can be seen in: Crawfurd, “On the Classification of the Races of Man,” 365.
+[^123]: Crawfurd, “On Colour as a Test of the Races of Man,” 258. Crawfurd made references to the will of the Creator at times in his ethnological discussions, as can be seen in: Crawfurd, “On the Classification of the Races of Man,” 365.
 
-124 Crawfurd, “On Colour as a Test of the Races of Man,” 258; Ellingson, [_The Myth of the Noble Savage_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202514842), 319; Knapman, “Race, Polygenesis and Equality,” 920–21. Crawfurd made occasional references to the “Creator” in his ethnological works, as can be seen in Crawfurd, “On the Classification of the Races of Man,” 362, 365.
+[^124]: Crawfurd, “On Colour as a Test of the Races of Man,” 258; Ellingson, [_The Myth of the Noble Savage_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202514842), 319; Knapman, “Race, Polygenesis and Equality,” 920–21. Crawfurd made occasional references to the “Creator” in his ethnological works, as can be seen in Crawfurd, “On the Classification of the Races of Man,” 362, 365.
 
-125 Crawfurd, “On Sir Charles Lyell’s ‘Antiquity of Man’, and Professor Huxley’s Evidence As to Man’s Place in Nature,” 60, 65.
+[^125]: Crawfurd, “On Sir Charles Lyell’s ‘Antiquity of Man’, and Professor Huxley’s Evidence As to Man’s Place in Nature,” 60, 65.
 
-126 Crawfurd, “On Sir Charles Lyell’s ‘Antiquity of Man’, and Professor Huxley’s Evidence As to Man’s Place in Nature,” 60.
+[^126]: Crawfurd, “On Sir Charles Lyell’s ‘Antiquity of Man’, and Professor Huxley’s Evidence As to Man’s Place in Nature,” 60.
 
-127 Crawfurd, “On Sir Charles Lyell’s ‘Antiquity of Man’, and Professor Huxley’s Evidence As to Man’s Place in Nature,” 60.
+[^127]: Crawfurd, “On Sir Charles Lyell’s ‘Antiquity of Man’, and Professor Huxley’s Evidence As to Man’s Place in Nature,” 60.
 
-128 Crawfurd, “On Sir Charles Lyell’s ‘Antiquity of Man’, and Professor Huxley’s Evidence As to Man’s Place in Nature,” 60; Knapman, “Race, Polygenesis and Equality,” 920–21.
+[^128]: Crawfurd, “On Sir Charles Lyell’s ‘Antiquity of Man’, and Professor Huxley’s Evidence As to Man’s Place in Nature,” 60; Knapman, “Race, Polygenesis and Equality,” 920–21.
 
-129 Crawfurd, “On the Early Migrations of Man,” 164.
+[^129]: Crawfurd, “On the Early Migrations of Man,” 164.
 
-130 John Crawfurd, “On the Aryan or Indo-Germanic Theory,” _Transactions of the Ethnological Society of London_ 1 (1861): 268 (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website); 128 Crawfurd, “On Sir Charles Lyell’s ‘Antiquity of Man’, and Professor Huxley’s Evidence As to Man’s Place in Nature,” 62.
+[^130]: John Crawfurd, “On the Aryan or Indo-Germanic Theory,” _Transactions of the Ethnological Society of London_ 1 (1861): 268 (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website); 128 Crawfurd, “On Sir Charles Lyell’s ‘Antiquity of Man’, and Professor Huxley’s Evidence As to Man’s Place in Nature,” 62.
 
-131 Crawfurd, “On Sir Charles Lyell’s ‘Antiquity of Man’, and Professor Huxley’s Evidence As to Man’s Place in Nature,” 61–62.
+[^131]: Crawfurd, “On Sir Charles Lyell’s ‘Antiquity of Man’, and Professor Huxley’s Evidence As to Man’s Place in Nature,” 61–62.
 
-132 Crawfurd, “On Colour as a Test of the Races of Man,” 259.
+[^132]: Crawfurd, “On Colour as a Test of the Races of Man,” 259.
 
-133 Crawfurd, “On Colour as a Test of the Races of Man,” 259.
+[^133]: Crawfurd, “On Colour as a Test of the Races of Man,” 259.
 
-134 Crawfurd, “On the Early Migrations of Man,” 345.
+[^134]: Crawfurd, “On the Early Migrations of Man,” 345.
 
-135 Crawfurd, “On Sir Charles Lyell’s ‘Antiquity of Man’, and Professor Huxley’s Evidence As to Man’s Place in Nature,” 63–64, 66.
+[^135] Crawfurd, “On Sir Charles Lyell’s ‘Antiquity of Man’, and Professor Huxley’s Evidence As to Man’s Place in Nature,” 63–64, 66.
 
-136 Crawfurd, “On Sir Charles Lyell’s ‘Antiquity of Man’, and Professor Huxley’s Evidence As to Man’s Place in Nature,” 66.
+[^136]: Crawfurd, “On Sir Charles Lyell’s ‘Antiquity of Man’, and Professor Huxley’s Evidence As to Man’s Place in Nature,” 66.
 
-137 John Crawfurd, “On Language as a Test of the Races of Man,” _Transactions of the Ethnological Society of London_ 3 (1865): 7. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^137]: John Crawfurd, “On Language as a Test of the Races of Man,” _Transactions of the Ethnological Society of London_ 3 (1865): 7. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-138 Crawfurd, “On the Physical and Mental Characteristics of the Negro,” 230–31.
+[^138]: Crawfurd, “On the Physical and Mental Characteristics of the Negro,” 230–31.
 
-139 Crawfurd, [_Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b), &nbsp;&nbsp;260; Crawfurd, “On the Malayan Race of Man and Its Prehistoric Career,” 125; Also see Crawfurd, “On the Malayan and Polynesian Languages and Races,” 364.
+[^139]: Crawfurd, [_Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b), &nbsp;&nbsp;260; Crawfurd, “On the Malayan Race of Man and Its Prehistoric Career,” 125; Also see Crawfurd, “On the Malayan and Polynesian Languages and Races,” 364.
 
-140 Crawfurd, [_Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b), 50, 161.
+[^140]: Crawfurd, [_Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b), 50, 161.
 
-141 Crawfurd, [_Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b), &nbsp;&nbsp;161.
+[^141]: Crawfurd, [_Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b), &nbsp;&nbsp;161.
 
-142 Crawfurd, [_Grammar and Dictionary of the Malay Language With a Preliminary Dissertation_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=74df255c-8dbb-42f1-b381-97c04752b32d), vol. 1, ii; Crawfurd, [_Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b), 207; also see Crawfurd, “On the Malayan and Polynesian Languages and Races,” 360.
+[^142]: Crawfurd, [_Grammar and Dictionary of the Malay Language With a Preliminary Dissertation_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=74df255c-8dbb-42f1-b381-97c04752b32d), vol. 1, ii; Crawfurd, [_Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b), 207; also see Crawfurd, “On the Malayan and Polynesian Languages and Races,” 360.
 
-143 Crawfurd, [_Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b), 250–51.
+[^143]: Crawfurd, [_Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b), 250–51.
 
-144 Crawfurd, [_Grammar and Dictionary of the Malay Language With a Preliminary Dissertation_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=74df255c-8dbb-42f1-b381-97c04752b32d), vol. 1, vii; Crawfurd, “On the Malayan and Polynesian Languages and Races,” 330.
+[^144]: Crawfurd, [_Grammar and Dictionary of the Malay Language With a Preliminary Dissertation_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=74df255c-8dbb-42f1-b381-97c04752b32d), vol. 1, vii; Crawfurd, “On the Malayan and Polynesian Languages and Races,” 330.
 
-145 Muller, “[Manufacturing Malayness](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8347428),” 171; For an example of Crawfurd cautioning his readers about the lack of evidence confirming the seat of the Malays: Crawfurd, [_Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b), 49, 250.
+[^145]: Muller, “[Manufacturing Malayness](https://eservice.nlb.gov.sg/redir/itemdetails?bid=8347428),” 171; For an example of Crawfurd cautioning his readers about the lack of evidence confirming the seat of the Malays: Crawfurd, [_Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b), 49, 250.
 
-146 Quilty, [_Textual Empires_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9347426), 80–81.
+[^146]: Quilty, [_Textual Empires_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9347426), 80–81.
 
-147 Quilty, [_Textual Empires_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9347426), xvii.
+[^147]: Quilty, [_Textual Empires_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9347426), xvii.
 
-148 Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=59e43cf2-e102-468b-b1f0-85f494a5537b), vol. 3, 205; Quilty, [_Textual Empires_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9347426), 76, 102.
+[^148]: Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=59e43cf2-e102-468b-b1f0-85f494a5537b), vol. 3, 205; Quilty, [_Textual Empires_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=9347426), 76, 102.
 
-149 Knapman, “Race, Polygenesis and Equality,” 910.
+[^149]: Knapman, “Race, Polygenesis and Equality,” 910.
 
-150 Crawfurd, “On the Conditions Which Favour, Retard, or Obstruct the Early Civilization of Man,” 168.
+[^150]: Crawfurd, “On the Conditions Which Favour, Retard, or Obstruct the Early Civilization of Man,” 168.
