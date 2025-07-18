@@ -1140,61 +1140,61 @@ Turnbull, C. M. [_A History of Modern Singapore, 1819–2005_](https://eservice.
 
 [^62]: Crawfurd, “On the Classification of the Races of Man,” 356.
 
-63 Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=792723df-d0f5-441e-84fa-b273bcbd5b0e), vol. 2, 448; Crawfurd, “On the Commixture of the Races of Man As Affecting the Progress of Civilization,” 104.
+[^63]: Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=792723df-d0f5-441e-84fa-b273bcbd5b0e), vol. 2, 448; Crawfurd, “On the Commixture of the Races of Man As Affecting the Progress of Civilization,” 104.
 
-64 Crawfurd, “On the Classification of the Races of Man,” 371.
+[^64]: Crawfurd, “On the Classification of the Races of Man,” 371.
 
-65 Knapman, “Race, Polygenesis and Equality,” 909–910, 920.
+[^65]: Knapman, “Race, Polygenesis and Equality,” 909–910, 920.
 
-66 John Crawfurd, “On the Theory of the Origin of Species by Natural Selection in the Struggle for Life,” _Transactions of the Ethnological Society of London_ 7 (1869): 37 (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website); Crawfurd, “On the Classification of the Races of Man,” 356, 364; Knapman, “Race, Polygenesis and Equality,” 910.
+[^66]: John Crawfurd, “On the Theory of the Origin of Species by Natural Selection in the Struggle for Life,” _Transactions of the Ethnological Society of London_ 7 (1869): 37 (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website); Crawfurd, “On the Classification of the Races of Man,” 356, 364; Knapman, “Race, Polygenesis and Equality,” 910.
 
-67 John Crawfurd, “On Sir Charles Lyell’s ‘Antiquity of Man’, and Professor Huxley’s Evidence As to Man’s Place in Nature,” _Transactions of the Ethnological Society of London_ 3 (1865): 60 (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website); Crawfurd, “On the Theory of the Origin of Species by Natural Selection in the Struggle for Life,” 28.
+[^67]: John Crawfurd, “On Sir Charles Lyell’s ‘Antiquity of Man’, and Professor Huxley’s Evidence As to Man’s Place in Nature,” _Transactions of the Ethnological Society of London_ 3 (1865): 60 (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website); Crawfurd, “On the Theory of the Origin of Species by Natural Selection in the Struggle for Life,” 28.
 
-68 John Crawfurd, “On Colour as a Test of the Races of Man,” _Transactions of the Ethnology Society of London 2_ (1863): 253 (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website); Crawfurd, “On the Physical and Mental Characteristics of the Negro,” 213.
+[^68]: John Crawfurd, “On Colour as a Test of the Races of Man,” _Transactions of the Ethnology Society of London 2_ (1863): 253 (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website); Crawfurd, “On the Physical and Mental Characteristics of the Negro,” 213.
 
-69 John Crawfurd, “On the Skin, the Hair and the Eyes, As Tests of the Races of Man,” _Transactions of the Ethnology Society of London_ 6 (1868): 144–49. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^69]: John Crawfurd, “On the Skin, the Hair and the Eyes, As Tests of the Races of Man,” _Transactions of the Ethnology Society of London_ 6 (1868): 144–49. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-70 Crawfurd, “On the Classification of the Races of Man,” 354, 364.
+[^70]: Crawfurd, “On the Classification of the Races of Man,” 354, 364.
 
-71 John Crawfurd, “On the Classification of the Races of Man According to the Form of the Skull,” _Transactions of the Ethnological Society of London_ 6 (1868): 127. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^71]: John Crawfurd, “On the Classification of the Races of Man According to the Form of the Skull,” _Transactions of the Ethnological Society of London_ 6 (1868): 127. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-72 Crawfurd, “On the Classification of the Races of Man According to the Form of the Skull,” 132.
+[^72]: Crawfurd, “On the Classification of the Races of Man According to the Form of the Skull,” 132.
 
-73 Crawfurd, “On the Classification of the Races of Man According to the Form of the Skull,” 128.
+[^73]: Crawfurd, “On the Classification of the Races of Man According to the Form of the Skull,” 128.
 
-74 Crawfurd, “On the Classification of the Races of Man According to the Form of the Skull,” 131.
+[^74]: Crawfurd, “On the Classification of the Races of Man According to the Form of the Skull,” 131.
 
-75 John Crawfurd, “On the Malayan Race of Man and Its Prehistoric Career,” _Transactions of the Ethnological Society of London_ 7 (1869): 119. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^75]: John Crawfurd, “On the Malayan Race of Man and Its Prehistoric Career,” _Transactions of the Ethnological Society of London_ 7 (1869): 119. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-76 Crawfurd, “On the Malayan and Polynesian Languages and Races,” 330, 333; Crawfurd, “On the Physical and Mental Characteristics of the Negro,” 230.
+[^76]: Crawfurd, “On the Malayan and Polynesian Languages and Races,” 330, 333; Crawfurd, “On the Physical and Mental Characteristics of the Negro,” 230.
 
-77 Crawfurd, “On the Malayan and Polynesian Languages and Races,” 330–34; Crawfurd, “On the Physical and Mental Characteristics of the Negro,” 237.
+[^77]: Crawfurd, “On the Malayan and Polynesian Languages and Races,” 330–34; Crawfurd, “On the Physical and Mental Characteristics of the Negro,” 237.
 
-78 Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=792723df-d0f5-441e-84fa-b273bcbd5b0e), vol. 2, 80; Crawfurd, [_Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b), 207; Crawfurd, “On the Physical and Mental Characteristics of the Negro,” 232.
+[^78]: Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=792723df-d0f5-441e-84fa-b273bcbd5b0e), vol. 2, 80; Crawfurd, [_Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b), 207; Crawfurd, “On the Physical and Mental Characteristics of the Negro,” 232.
 
-79 Crawfurd, [_Journal of an Embassy to the Courts of Siam and Cochin China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=90035), 42–44, 52–55; Crawfurd, “On the Malayan and Polynesian Languages and Races,” 333. He would also admit his limitation when studying the Semang in the Malay Peninsula: Crawfurd, “On the Physical and Mental Characteristics of the Negro,” 231.
+[^79]: Crawfurd, [_Journal of an Embassy to the Courts of Siam and Cochin China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=90035), 42–44, 52–55; Crawfurd, “On the Malayan and Polynesian Languages and Races,” 333. He would also admit his limitation when studying the Semang in the Malay Peninsula: Crawfurd, “On the Physical and Mental Characteristics of the Negro,” 231.
 
-80 Crawfurd, [_A Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b), 49–50, 257.
+[^80]: Crawfurd, [_A Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b), 49–50, 257.
 
-81 Crawfurd, [_A Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b), 161, 192.
+[^81]: Crawfurd, [_A Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b), 161, 192.
 
-82 Crawfurd, [_Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b), 250; Crawfurd’s encounter with the Orang Laut and his description of them can be seen in his Crawfurd, [_Journal of an Embassy to the Courts of Siam and Cochin China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=90035), 43–44, 52–55.
+[^82]: Crawfurd, [_Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b), 250; Crawfurd’s encounter with the Orang Laut and his description of them can be seen in his Crawfurd, [_Journal of an Embassy to the Courts of Siam and Cochin China_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=90035), 43–44, 52–55.
 
-83 Crawfurd, “On the Malayan and Polynesian Languages and Races,” 338.
+[^83]: Crawfurd, “On the Malayan and Polynesian Languages and Races,” 338.
 
-84 The Scottish Enlightenment was an eighteenth-century intellectual flourish in Scotland that was still influential during Crawfurd’s time. Its impact is still felt. Edinburgh, where Crawfurd was educated, was one of the centres of the Scottish Enlightenment. See: Alexander Broadie, ed., [_The Cambridge_ _Companion to the Scottish Enlightenment_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11559462) (Cambridge: Cambridge University Press, 2003), 1, 3, 5–6 (From National Library Singapore, call no. R 001.0941109033 CAM); Murray Pittock, “Historiography,” [_The Cambridge_ _Companion to the Scottish Enlightenment_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11559462), ed. Alexander Broadie (Cambridge: Cambridge University Press, 2003), 262 (From National Library Singapore, call no. R 001.0941109033 CAM). For an example of how Crawfurd measured progress, see: Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=0469b121-f1eb-4958-a97b-d8a2f3a067d1), vol. 1, 9; Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=792723df-d0f5-441e-84fa-b273bcbd5b0e), vol. 2, 276.
+[^84]: The Scottish Enlightenment was an eighteenth-century intellectual flourish in Scotland that was still influential during Crawfurd’s time. Its impact is still felt. Edinburgh, where Crawfurd was educated, was one of the centres of the Scottish Enlightenment. See: Alexander Broadie, ed., [_The Cambridge_ _Companion to the Scottish Enlightenment_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11559462) (Cambridge: Cambridge University Press, 2003), 1, 3, 5–6 (From National Library Singapore, call no. R 001.0941109033 CAM); Murray Pittock, “Historiography,” [_The Cambridge_ _Companion to the Scottish Enlightenment_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=11559462), ed. Alexander Broadie (Cambridge: Cambridge University Press, 2003), 262 (From National Library Singapore, call no. R 001.0941109033 CAM). For an example of how Crawfurd measured progress, see: Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=0469b121-f1eb-4958-a97b-d8a2f3a067d1), vol. 1, 9; Crawfurd, [_History of the Indian Archipelago_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=792723df-d0f5-441e-84fa-b273bcbd5b0e), vol. 2, 276.
 
-85 Crawfurd, [_Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b), 17.
+[^85]: Crawfurd, [_Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b), 17.
 
-86 Crawfurd, [_Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b), 17.
+[^86]: Crawfurd, [_Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b), 17.
 
-87 Crawfurd, [_Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b), 29.
+[^87]: Crawfurd, [_Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b), 29.
 
-88 Crawfurd, [_Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b), 262.
+[^88]: Crawfurd, [_Descriptive Dictionary of the Indian Islands &amp; Adjacent Countries_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=2f493163-969c-482a-aa4d-982efd9c5e7b), 262.
 
-89 John Crawfurd, “On the Conditions Which Favour, Retard, or Obstruct the Early Civilization of Man,” _Transactions of the Ethnological Society of London_ 1 (1861): 154. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^89]: John Crawfurd, “On the Conditions Which Favour, Retard, or Obstruct the Early Civilization of Man,” _Transactions of the Ethnological Society of London_ 1 (1861): 154. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
-90 John Crawfurd, “On the Connexion Between Ethnology and Physical Geography,” _Transactions of the Ethnological Society of London_ 2 (1863): 4. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
+[^90]: John Crawfurd, “On the Connexion Between Ethnology and Physical Geography,” _Transactions of the Ethnological Society of London_ 2 (1863): 4. (From JSTOR via NLB’s [eResources](http://eresources.nlb.gov.sg/) website)
 
 91 Crawfurd, “On the Malayan Race of Man and Its Prehistoric Career,” 123, 125.
 
