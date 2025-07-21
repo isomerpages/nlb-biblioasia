@@ -228,3 +228,130 @@ account, including its claims that the first Teochews in Singapore came
 immediately from Siam and were settled at Sua Kia Deng, as well as if their
 named leaders, Heng Kim and Heng Hong Sung, were actual persons and
 co-founders of Wak Hai Cheng Bio.
+
+#### **Ascertaining if the First Chinese in Singapore Were Teochew**
+
+Although Raffles alluded to being responsible for the early Chinese influx
+into Singapore on more than one occasion, a review of his surviving writings
+reveals that he never wrote about them again after his initial communications
+with Calcutta. In fact, he displayed scarce interest in the Chinese who were in Singapore before him; it was only on his third visit in October 1822 that his
+secretary, Lieutenant L.N. Hull, enquired of Farquhar on their background.
+
+
+Through Farquhar’s replies, we learn that these men were among “various
+Malays and Chinese” whom Temenggong Abdul Rahman had granted
+leave to clear ground for plantations, of which about 20 had commenced
+prior to British establishment. The resident also observed the location
+of a Chinese gambier plantation on the western side of Selegie Hill, and
+another on the northeast portion of a range to the westward of Fort
+Canning Hill (see Map 2).32
+
+In addition, Farquhar identified the Chinese gambier planters as followers of
+a “Captain China” (sometimes reported as “China Captain”) and reported
+that they were settled before the British arrived at the Singapore River’s
+north bank that later became a cantonment site.33 In 1823, the Captain
+China was ordered to remove a “Chinese moveable Temple” and “lights
+from the Great Tree” from a site reserved for a church, which the “Jackson
+Plan” of 1822 shows to be before Hill Street, at the foot of Fort Canning Hill
+(see Map 3).34
+
+These revelations match the Teochew oral account’s report concerning a
+Teochew base around Sung Heng gambier plantation at Fort Canning Hill.
+Though Farquhar stopped short of calling these gambier planters Teochew,
+he left an important clue with regards to their leader.
+
+According to Farquhar, the first Captain China of Singapore was a “Canton
+Chinese”, as opposed to “Amoy Chinese”, whose “great increase” in number later necessitated the appointment of a second captain.35 The historical
+status of Amoy (now Xiamen) as the principal port of southern Fujian
+makes certain that the “Amoy Chinese” were the Hokkiens. Intuitively one
+might suppose the “Canton Chinese” to be Cantonese natives from around
+Canton (now Guangzhou). However, this is precluded by Seah Eu Chin’s
+revelation that of all the gambier and pepper planters in Singapore in 1848,
+10,000 were Teochews and another 400 were “Macao”.36 This spells out that
+Cantonese people were not labelled then as they are today, but in accordance
+to the main port wherefrom they left China before the First Opium War. At
+the same time, it exhibits a Teochew monopoly over the gambier industry.
+
+In demand across Southeast Asia as an ingredient for the habitual chewing
+of betel nut, gambier was significant as the primary export product of
+nearby Riau before the mid-19th century. As told in the Johor historical
+chronicles *Tuhfat al-Nafis*, its commercial cultivation was introduced
+around 1740 to attract trade from Java and elsewhere, and “Chinese from
+China” were brought in as labourers in holdings opened by the Malays and
+Bugis.37 After these natives were driven out by war in the 1780s, the Dutch,
+who thereafter occupied Riau, reported the takeover of the plantations
+by two Chinese communities, whom they referred to as “Kantongers”
+and “Emooijers”.38 Divided by bitter rivalry, they each had a Kapitein (or
+Captain) residing on opposing river banks at Senggarang and Tanjung
+Pinang respectively.39
+
+Farquhar’s use of the terms “Canton Chinese” and “Amoy Chinese”
+were copied from the Dutch and can be derived from Raffles’ disclosure
+that Singapore’s early inhabitants were “from Malacca and Rhio”. The
+subsequent Teochew dominance of the Singapore gambier industry– coupled with an assertion by the late local Teochew leader Yeo Chan Boon
+that Teochew cultivators were established in Riau before the opening of
+Singapore’s port – strongly suggests that the “Canton Chinese” in Singapore
+could only be Teochews who moved over from Riau.40
+
+This is supported by a 1976 study on the Chinese in Riau, which found that
+Senggarang was colloquially known as Teo Bo (潮坡), the “Teochew bank”,
+and Tanjung Pinang was known as Hok Bo (福坡), the “Hokkien bank”.41 
+
+#### **The Immediate Origin of Settlers from Siam**
+
+That the first Chinese settlers in Singapore were Teochews from Riau would
+back the Teochew oral account’s authenticity. But why did it portray the
+same group of people to be from Siam?
+
+Even though British and Malay sources do not refer to a Siamese
+representation in early 1819 Singapore, a hidden connection is given away by
+the kingdom’s “first importance” when the onset of the northeast monsoon
+at the end of the year brought from various “Eastern ports” the first waves
+of cargo-laden native trading vessels.42 At the end of Singapore’s maiden
+trading season of the modern era four months later, its harbour was noted to
+have “upwards of twenty junks, three of which [were] from China, and two
+from Cochin China, the rest from Siam and other quarters”.43 The level of
+trade astonished Farquhar for the British had done nothing to induce it.
+
+Only in January 1820 did a combination of Dutch hostility towards
+the British occupation of Singapore and the EI C’s financial constraints culminate in instructions from the company’s leadership to Farquhar to
+consider Singapore “rather as a military post than as a fixed settlement”.44
+
+The junks from Siam were, in fact, operated by Chinese traders. As reported
+by John Crawfurd, who headed a British embassy to Siam in 1821, it was
+a hub to “about two hundred” Chinese junks that carried out different
+branches of trade to ports in China and Southeast Asia. Encouraged by
+the Siamese government, they also brought thousands of migrant Chinese
+workers to commence large-scale sugarcane cultivation in plantations after
+1809.45 Importantly, among the Chinese in Bangkok, the Teochew were
+“the most numerous” and “in the forefront of those holding state power
+and ennoblement”.46 In this context, the Teochew oral account’s intimation
+of Singapore Teochew leaders Heng Kim and Heng Hong Sun as family
+relations of Tsap Poih Buan Seng – “a forerunner of the junk trade, and in
+his day leader of the Teochew sojourners” – becomes telling.
+
+Tsap Poih Buan Seng, according to online and news reports from China,
+was the moniker of a Teochew named Tan Buan Seng (陈万胜), also known
+as Tan Seng Lai (陈胜来), who had left his village Tai Mui (岱美) to seek a
+livelihood in Siam during the reign of Qing dynasty Emperor Qianlong
+(1736–1796). He eventually became a wealthy junk trader and owned 18
+vessels – hence his Teochew nickname of “Eighteen Buan Seng”.47 Beyond
+this, Tan was recorded in Qing imperial records as the letter-bearer of
+Siamese monarch King Taksin in a diplomatic mission to Canton to seek
+a military alliance against Burma in 1775.48 While Tan was probably no longer alive in 1819, his legacy would sufficiently explain the Siamese role in
+Singapore’s revival as a trading entrepôt.
+
+The reign of King Taksin, who became ruler after the Ayutthaya dynasty was
+destroyed by Burmese invaders in 1767, was highly significant for the fact that
+he was the son of a Teochew immigrant. Viewed as a usurper by the country’s
+old establishment, he built his kingship upon an army served by no small
+number of his paternal kinsmen and relied on a cohort of trusted Teochew
+merchants in Bangkok to raise revenue through active overseas trade.49 Of
+relevance is that Siam was a key trading partner of Riau in the 1770s when
+Bugis chief Raja Haji was Yam Tuan Muda (viceroy) of the settlement. Many
+Chinese merchants from Siam came to trade vast quantities of tableware,
+textiles, silk and rice.50 A deity tablet dedicated to the Chinese junk traders’
+titular deity Mazu (妈祖) in 1779 by Chua Iou Kho (蔡耀可) discovered in
+Senggarang proves a leading Teochew role in this development.51
+
+
