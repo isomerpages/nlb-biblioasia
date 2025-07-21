@@ -354,4 +354,73 @@ textiles, silk and rice.50 A deity tablet dedicated to the Chinese junk traders�
 titular deity Mazu (妈祖) in 1779 by Chua Iou Kho (蔡耀可) discovered in
 Senggarang proves a leading Teochew role in this development.51
 
+Hostilities between the Bugis and Dutch government in Melaka in the mid-
+1780s ultimately compelled Sultan Mahmud to shift the Johor Sultanate’s
+seat of power to Lingga. However, Teochew traders from Siam returned to
+Riau after the old sovereign passed away in 1811 and Raja Jaafar, son of Raja
+Haji, made himself the sultanate’s strongman by installing Tengku Long’s
+younger brother as a puppet ruler.52 A wooden plaque was presented in the
+same year to the Mazu temple in Senggarang by Kapitan Tan Ngueng Pang
+(陈源放),53 whose Teochew background is revealed by the discovery of the
+Dutch, upon their return to Riau in 1818, that all the local Chinese were
+now under a single captain office held by the “Kantonner Chinezen”.54
+
+Despite Raffles’ claim of Singapore as “my new colony”, the concession he
+obtained from his agreements with the Malays in 1819 had been merely a
+lease to set up a factory, without the transfer of Singapore’s sovereignty. This
+state of affairs was clearly reflected in Hailu (海录), the travelogue of Hakka
+seafarer Hsieh Ch’ing Kao (谢清高), published in 1820. While acknowledging
+the formation of a trading centre by the British in Singapore, it depicted
+the place unambiguously as a part of Old Johor (i.e. mainland Johor) and
+further recorded its reference by natives as Selat, meaning the “straits” in
+Malay – apparently in relation to Temenggong Abdul Rahman’s fiefdom
+over the Singapore Straits; and by the Chinese from Fujian and Guangdong
+as the “new prefecture” (新州府), which apparently stemmed from Tengku
+Long’s new status as sultan.55
+
+Conceivably, the Teochew oral account is silent about the movement of
+Teochews from Riau to Singapore because its originators perceived Riau and
+Singapore to be within the boundaries of a common dominion (that is, the
+Johor Sultanate).
+
+#### **Settlement at Sua Kia Deng**
+
+Following British administration of the harbour at the mouth of Singapore
+River, the followers of Captain China were settled near Fort Canning Hill,
+which was subsequently designated for cantonment use – this obliged the
+settlers to relocate.56 Thereafter, based on the “Arrangement Made for the
+Singapore Government” signed between Malay and British leaders on
+26 June 1819, these Chinese were instructed to “move to the other side of the
+river, forming a *campong* [town] from the site of the large bridge down the
+river, towards the mouth”.57
+
+An update by Farquhar at the start of September 1819 informed Raffles that
+the new precinct was “becoming extensive” and “new streets [had] been laid out to meet the steadily increasing population”.58 Significantly, the
+*Bute Map*, drawn around this time and believed to be the earliest-known
+landward map of modern Singapore (see Map 4), illustrates the limits of
+this Chinese town and adjoining cleared grounds to encompass both the
+premises of Wak Hai Cheng Bio and what is now Boat Quay – exactly as
+told in the Teochew oral account.59
+
+Following the arrival of the first junks from Siam and China, Farquhar
+reported in March 1820 that “the swampy ground on the opposite side
+of the river is now almost covered with Chinese houses”.60 However, the
+distinguished Malay language scribe Munshi Abdullah, who moved from
+Melaka to settle in Singapore in mid-1819, observed that this side of the
+Singapore River originally had “no good piece of ground even as much as
+sixty yards wide, the whole place being covered in deep mud, except only
+on the hills where the soil was clay”.61 This sheds light that the resident’s
+statement was probably less of excitement, and more of surprise that there
+had been any construction at all.
+
+Owing to conditions “where the tide rose ten feet and extended to some
+distance”, the Boat Quay riverside was, as late as 1822, occupied only by “a
+few native traders” (a term inclusive of the Chinese) living in rumah rakit,
+or “raft houses”, erected over the swamp.62 Most of the settlers here would
+have conceivably built their houses on drier land and the recollection in
+the Teochew oral account of the place-name “Sua Kia Deng”, or “top of
+the little hill”, invariably compels attention to a promontory in the locality
+that Munshi Abdullah remarked somewhat favourably as “a large rise, of
+moderate elevation”.
+
 
