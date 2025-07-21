@@ -20,6 +20,16 @@ sections:
         Library/HeroImage_Story_of_NL.jpg
       variant: center
   - infopic:
+      title: Reading With Molly Today
+      subtitle: Print
+      id: infopic
+      description: According to a study, the mobile library service continues to be
+        relevant as it helps children get more access to books.
+      button: Bringing books to children
+      url: /vol-21/issue-2/jul-sep-2025/reading-molly-national-library-board/
+      image: /images/Vol 21 Issue 2/Molly/Mollytruck_topic.jpg
+      alt: Reading With Molly Today
+  - infopic:
       title: Legal Deposit Legislation in Singapore
       subtitle: Governance
       id: infopic
@@ -1073,14 +1083,4 @@ sections:
       url: /vol-20/issue-2/jul-sep-2024/new-books-singapore-history/
       image: /images/Vol 20 Issue 2/New Books/canvas_kohsk.png
       alt: Image alt text
-  - infopic:
-      title: Reading With Molly Today
-      subtitle: Print
-      id: infopic
-      description: According to a study, the mobile library service continues to be
-        relevant as it helps children get more access to books.
-      button: Bringing books to children
-      url: /vol-21/issue-2/jul-sep-2025/reading-molly-national-library-board/
-      image: /images/Vol 21 Issue 2/Molly/Mollytruck_topic.jpg
-      alt: Reading With Molly Today
 ---
