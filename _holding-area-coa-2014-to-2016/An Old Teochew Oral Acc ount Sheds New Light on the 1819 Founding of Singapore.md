@@ -177,3 +177,54 @@ River (see Map 1) until the British compelled the relocation of his* istana*
 
 Phua confirms this identification in another section of T*eo-chews* in Malaya,
 introducing Wak Hai Cheng Bio:
+
+   *The temple compound that at first covered more than 130 acres was<br> 
+   a grant by the Temenggong-Sultan (图明果苏丹). Later when the<br> 
+   land lease was obtained, the document reflected only the present<br> 
+   site that measures 13,273 square feet in total, as the rest of the land<br> 
+   had been parcelled out by others to build shops and houses*.27
+
+Though the Teochew oral account was composed during a period of growing
+Chinese nationalism and anti-colonial sentiment in the mid-20th century, it
+is necessary to observe that its balanced presentation does not overtly exalt the
+Chinese or denigrate the British. To a large part this can be credited to Phua’s
+standing as a leader in the literary field among the overseas Teochews.28
+
+As testament to its broad acceptance within the Chinese-language
+scholarship, the Teochew oral account has, in subsequent years, been cited
+or referenced in a number of Chinese publications concerning the history
+of the Chinese in Singapore and Teochews overseas.29 Until today, its key
+points continue to be quoted in local and overseas Chinese-language news
+reports and online articles.30
+
+Critically, however, Phua’s writings on the activities of Heng Kim, Heng Hong
+Sung and their followers failed to stir any discussion in mainstream historical
+circles about the evidence of early Teochew migration to Singapore. This may be due to the Teochew oral account’s limited circulation, its unknown
+provenance (in accordance to literary practice of Phua’s day, he did not name
+or profile any of his informants), or its regurgitation by writers who assumed
+its credibility without providing any further justification. The Teochew oral
+account may also have been simply ignored because it contradicted popular
+recognition of Raffles as the founder of modern Singapore.
+
+Oral traditions, being narratives passed down by word-of-mouth
+over generations, are vulnerable to distortion due to the tendency of
+transmitters to conflate disparate events, contributing to an inevitable loss
+of detail over time.
+
+That the Teochew oral account is not without deficiency is emphasised
+by its sketchy rendering of the alleged ill-fated landing of the men from
+Hai Ior – even if the deadly incident’s plausibility is supported by Dutch
+representations of pre-1819 Singapore as a “den of murderers” and of
+Temenggong Abdul Rahman as the “head of the pirates”.31
+
+Still, the account is significant as it seeks to tell the story of the Chinese
+who were already in Singapore when Raffles arrived. It cannot be dismissed
+without an investigation into the writings of the Englishman, Farquhar and
+other established historical sources, to discover whether the “industrious
+Chinese” Raffles reported about in February 1819 were indeed Teochew.
+Should an affirmative answer to this pivotal question be found, the inquiry
+can then be extended to other major revelations of the Teochew oral
+account, including its claims that the first Teochews in Singapore came
+immediately from Siam and were settled at Sua Kia Deng, as well as if their
+named leaders, Heng Kim and Heng Hong Sung, were actual persons and
+co-founders of Wak Hai Cheng Bio.
