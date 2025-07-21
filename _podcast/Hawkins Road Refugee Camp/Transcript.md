@@ -1,5 +1,5 @@
 ---
-title: transcript
+title: Transcript
 permalink: /podcast/25-hawkin-road-home-to-vietnamese-refugees-rebecca-tan/transcript/
 variant: tiptap
 description: ""

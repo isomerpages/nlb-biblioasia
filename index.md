@@ -9,16 +9,24 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      url: /vol-21/issue-2/jul-sep-2025/history-story-national-library-singapore/
-      button: "From Colonial Vision to Key Memory Institution: A Short History of the
-        National Library"
+      url: /vol-21/issue-2/jul-sep-2025/kung-tian-cheng-first-clerk-raffles-library/
+      button: "Kung Tian Cheng: First Clerk of Raffles Library"
       key_highlights:
         - title: subscribe to the biblioasia newsletter
           description: Stay updated with our latest stories
           url: https://form.gov.sg/#!/616799db4d9b61001398f79b
-      background: /images/Vol 21 Issue 2/Story of National
-        Library/HeroImage_Story_of_NL.jpg
+      background: /images/Vol 21 Issue 2/Kung Tian/HeroImage_KungTian.jpg
       variant: center
+  - infopic:
+      title: Reading With Molly Today
+      subtitle: Print
+      id: infopic
+      description: According to a study, the mobile library service continues to be
+        relevant as it helps children get more access to books.
+      button: Bringing books to children
+      url: /vol-21/issue-2/jul-sep-2025/reading-molly-national-library-board/
+      image: /images/Vol 21 Issue 2/Molly/Mollytruck_topic.jpg
+      alt: Reading With Molly Today
   - infopic:
       title: Legal Deposit Legislation in Singapore
       subtitle: Governance
@@ -1073,14 +1081,4 @@ sections:
       url: /vol-20/issue-2/jul-sep-2024/new-books-singapore-history/
       image: /images/Vol 20 Issue 2/New Books/canvas_kohsk.png
       alt: Image alt text
-  - infopic:
-      title: Reading With Molly Today
-      subtitle: Print
-      id: infopic
-      description: According to a study, the mobile library service continues to be
-        relevant as it helps children get more access to books.
-      button: Bringing books to children
-      url: /vol-21/issue-2/jul-sep-2025/reading-molly-national-library-board/
-      image: /images/Vol 21 Issue 2/Molly/Mollytruck_topic.jpg
-      alt: Reading With Molly Today
 ---
