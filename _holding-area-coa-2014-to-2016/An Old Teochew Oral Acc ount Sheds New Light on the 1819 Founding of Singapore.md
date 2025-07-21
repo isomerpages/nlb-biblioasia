@@ -121,3 +121,33 @@ the first passage is as follows:
    sojourners were recruited from Siam, and they lived at Sua Kia<br> 
    Deng (山仔顶, meaning “top of the little hill” ), which is the Wak<br> 
    Hai Cheng Bio (粤海清庙) compound of today*.19
+	 
+   *From Dang Khoi, Ampou (庵埠东溪), hailed two men, Heng Kim<br> 
+   (王钦, a descendant of Tsap Poih Buan Seng [十八万胜]) and Heng<br> 
+   Hong Sung (王丰顺), who sailed to Singapore before others and, as<br> 
+   leaders of the Teochew sojourners, built Wak Hai Cheng Bio and<br> 
+   formed Ngee Ann Kun (义安郡)*.20<br><br>  
+
+   *Thereafter, whenever Teochew sojourners sailed south to Singapore,<br> 
+   the red-head junks would moor in front of the temple,21 and [the<br> 
+   migrants] would put up inside the premises, so that whoever<br> 
+   wanted to hire a shop assistant could negotiate with them there*.<br><br>  
+
+   *Until 1819 when Sir Raffles obtained a lease for Singapore, Sung<br> 
+   Heng (顺兴) gambier plantation was their base; this is today’s<br> 
+   Uang Ge Sua (王家山),22 and by then the number of the Teochew<br> 
+   sojourners was already in the thousands*.23
+
+The second write-up of what we may term, for the purposes of discussion,
+as the “Teochew oral account” similarly told of two waves of arrival of the
+Teochew people in Singapore, before Raffles arrived in 1819. A translation of
+it reads:
+
+   *According to the oral traditions, at the beginning a group of more<br>
+   than 10 persons from Hai Ior travelled afar to Singapore, but<br>
+   they were all tragically killed by local Malays. Subsequently a<br>
+   number of Teochew sojourners came from Siam, and they lived at<br>
+   Sua Kia Deng (that is the present Wak Hai Cheng Bio grounds)<br>
+   and around Boat Quay, which became the base of the Teochew<br>
+   sojourners in Singapore*.
+
