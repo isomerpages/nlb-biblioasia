@@ -1101,5 +1101,5 @@ sections:
       button: A BLAST FROM THE PAST
       url: /vol-21/issue-2/jul-sep-2025/ps-teo-ronni-pinsler/
       image: /images/Vol 21 Issue 2/PS Teo/karang_guni_topic.jpg
-      alt: Image alt text
+      alt: P.S. Teo and Ronni Pinsler
 ---
