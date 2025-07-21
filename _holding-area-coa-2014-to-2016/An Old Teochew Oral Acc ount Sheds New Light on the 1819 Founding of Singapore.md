@@ -149,5 +149,31 @@ it reads:
    number of Teochew sojourners came from Siam, and they lived at<br>
    Sua Kia Deng (that is the present Wak Hai Cheng Bio grounds)<br>
    and around Boat Quay, which became the base of the Teochew<br>
-   sojourners in Singapore*.
+   sojourners in Singapore*.<br><br>
 
+   *At that time the Malay ruler’s seat was at today’s Sek Lak Mung,<br>
+   and though the Chinese and the natives were mixed freely, there<br>
+   was peace among them*.<br><br>
+
+   *Hailing from Dang Khoi, Ampou were Heng Kim and Heng<br>
+   Hong Sung, who were the descendants of Tsap Poih Buan Seng,<br>
+   a forerunner of the junk trade, and in his day leader of the<br>
+   Teochew sojourners*.<br><br>
+
+   *Thereafter the Teochew sojourners migrated south continuously and<br>
+   their numbers grew by the day…*24
+
+Except for uncertainty over whether only Heng Kim, or both Heng Kim
+and Heng Hong Sung, descended from Tsap Poih Buan Seng, the two texts
+can be seen to adhere to a coherent storyline.
+
+Notwithstanding references to him as a sultan, the unnamed Malay ruler
+can be readily identified as Temenggong Abdul Rahman, the Johor Chief
+Minister for Justice. Holding hereditary fief over the Singapore Straits and
+land on both sides (except for Riau and Lingga),25 he moved to Singapore
+with 150 followers in 1811 and lived by the north bank of the Singapore
+River (see Map 1) until the British compelled the relocation of his* istana*
+(palace) to Telok Blangah in 1823.26
+
+Phua confirms this identification in another section of T*eo-chews* in Malaya,
+introducing Wak Hai Cheng Bio:
