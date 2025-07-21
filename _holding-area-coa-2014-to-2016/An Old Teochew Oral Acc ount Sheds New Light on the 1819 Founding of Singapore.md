@@ -50,7 +50,7 @@ activities in Singapore. In his own words:
    ore brought from the tin mines on the neighbouring islands, and<br> 
    others employed as cultivators and artificers, may soon be expected<br> 
    to increase in a number proportionate to the wants and interests of<br> 
-the settlement…*6
+   the settlement…*6
 
 Without question these were commercial activities beyond the scale of an
 “insignificant fishing village” and the Chinese participation in them was
