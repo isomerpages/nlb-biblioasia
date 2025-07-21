@@ -1091,4 +1091,15 @@ sections:
       url: /vol-21/issue-2/jul-sep-2025/audio-visual-national-archives-singapore/
       image: /images/Vol 21 Issue 2/Audiovisual/visual_main2.jpg
       alt: Audio-Visual Archives
+  - infopic:
+      title: Singapore Through the Lens of P.S. Teo and Ronni Pinsler
+      subtitle: Film and Photography
+      id: infopic
+      description: The photographs of P.S. Teo and Ronni Pinsler of a bygone Singapore
+        form part of the National Archives of Singapore’s 5.5-million strong
+        collection.
+      button: A BLAST FROM THE PAST
+      url: /vol-21/issue-2/jul-sep-2025/ps-teo-ronni-pinsler/
+      image: /images/Vol 21 Issue 2/PS Teo/karang_guni_topic.jpg
+      alt: Image alt text
 ---
