@@ -605,6 +605,12 @@ settled in the towns of Johor at the beginning of the century supports the
 likelihood that some Teochew merchants might have been active there as
 early as the 1730s.84
 
+<img src="/images/COA%202014%20to%202016/Old%20Teochew%20Account/Map_6_Plan_of_Rio.jpg" style="width:80%;">
+ <div style="background-color: white;">Plan of Rhio in HM Ship Vigilant by Alexander Scott 1750, shown
+as an insert in Dalrymple, Alexander (1807). Chart of the South side of
+the island Byntang with the track of the Royal George in January 1762.<i> Collection of The British Library. Courtesy of The British Library and
+National Library Board, Singapore.Image is author’s own (5 November 2017).</i></div> 
+
 Accordingly, it is not an unreasonable conjecture that the oral traditions
 speak of two separate Mazu *attap* shrines. One being Wak Hai Cheng
 Bio’s forerunner that Tan Heng Kim and Heng Hong Sung set up by the
@@ -614,6 +620,10 @@ Riau. An uncanny resemblance between Wak Hai Cheng Bio’s façade and
 the front view of Senggarang’s Mazu-Xuan Tian Shang Di twin temples (see
 Image 2) serves as a strong reminder that the Teochews on either side of the
 Singapore Straits were in fact two faces of one single community.
+
+<img src="/images/COA%202014%20to%202016/Old%20Teochew%20Account/Presentation2.jpg" style="width:80%;">
+<div style="background-color: white;"> (Left) Photograph of Teochew twin temples in Senggarang taken in 2014.<i> Image is author’s own.</i><br>
+(Right) Wak Hai Cheng Bio circa 1958 with Fort Canning Hill in the background. <i> All rights reserved. Pan Xingnong 潘醒农, 新加坡指南 [A guide to Singapore], 6th ed. 新加坡: 南岛出版社, 1958.</i></div> 
 
 Nearly every historical writing and material evidence originating from the
 Malays, Chinese, British or Dutch concur that until 1819 Riau fulfilled the
