@@ -175,7 +175,7 @@ with 150 followers in 1811 and lived by the north bank of the Singapore
 River (see Map 1) until the British compelled the relocation of his* istana*
 (palace) to Telok Blangah in 1823.26
 
-<img src="/images/COA%202014%20to%202016/Old%20Teochew%20Account/Map_1__Mouth_of_Singapore_River.jpg" style="width:50%;">
+<img src="/images/COA%202014%20to%202016/Old%20Teochew%20Account/Map_1__Mouth_of_Singapore_River.jpg" style="width:40%;">
  <div style="background-color: white;">Map of area around the mouth of Singapore River showing locations of Wak Hai
 Cheng Bio, Boat Quay, Raffles’ landing site, Temenggong Istana and Fort Canning Hill. <i>Map data © 2018 Google, Urban Development Authority.</i></div>
 
@@ -249,6 +249,10 @@ prior to British establishment. The resident also observed the location
 of a Chinese gambier plantation on the western side of Selegie Hill, and
 another on the northeast portion of a range to the westward of Fort
 Canning Hill (see Map 2).32
+
+<img src="/images/COA%202014%20to%202016/Old%20Teochew%20Account/Map_2__Map_of_Singapore_18_June_1825.jpg" style="width:80%;">
+ <div style="background-color: white;">Map of Singapore dated 18 June 1825 with locations of Chinese gambier plantations
+indicated by red arrows. <i>British Library accession number: IOR:X/3346/Public domain.</i></div>
 
 In addition, Farquhar identified the Chinese gambier planters as followers of
 a “Captain China” (sometimes reported as “China Captain”) and reported
