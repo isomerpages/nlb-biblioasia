@@ -684,3 +684,16 @@ Singapore by Raffles, no less – now reveals that it was the coming
 together of many, and not just the brilliance of one man, that sparked the
 Singapore miracle.
 
+#### **Acknowledgments**
+*I thank Dr Loh Kah Seng for reviewing this research paper and Mr Terence
+Tan for his input on the translations of relevant Chinese texts. I am also
+grateful to Ms Goh Yu Mei and other staff members at the Lee Kong Chian
+Reference Library for their gracious assistance and constant thoughtfulness
+in supporting my research*.
+
+<b>Jason Heng</b> graduated in June 2013 from Shantou University in Guangdong, China,
+with a Master of Arts (Journalism). His previous research examined social media and
+how it supported the emergence of disparate “globalised villages” built on the collective
+consciousness of its members. He is currently the director of operations (Singapore and
+Southeast Asia) of a specialist risk mitigation consulting company.
+
