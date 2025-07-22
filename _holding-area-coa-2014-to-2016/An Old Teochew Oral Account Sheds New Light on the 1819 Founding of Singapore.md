@@ -175,6 +175,10 @@ with 150 followers in 1811 and lived by the north bank of the Singapore
 River (see Map 1) until the British compelled the relocation of his* istana*
 (palace) to Telok Blangah in 1823.26
 
+<img src="/images/COA%202014%20to%202016/Old%20Teochew%20Account/Map_1__Mouth_of_Singapore_River.jpg" style="width:50%;">
+ <div style="background-color: white;">Map of area around the mouth of Singapore River showing locations of Wak Hai
+Cheng Bio, Boat Quay, Raffles’ landing site, Temenggong Istana and Fort Canning Hill. <i>Map data © 2018 Google, Urban Development Authority.</i></div>
+
 Phua confirms this identification in another section of T*eo-chews* in Malaya,
 introducing Wak Hai Cheng Bio:
 
@@ -696,4 +700,3 @@ with a Master of Arts (Journalism). His previous research examined social media 
 how it supported the emergence of disparate “globalised villages” built on the collective
 consciousness of its members. He is currently the director of operations (Singapore and
 Southeast Asia) of a specialist risk mitigation consulting company.
-
