@@ -129,14 +129,14 @@ the first passage is as follows:
    formed Ngee Ann Kun (义安郡)*.[^20]<br><br>  
 
    *Thereafter, whenever Teochew sojourners sailed south to Singapore,<br> 
-   the red-head junks would moor in front of the temple,21 and [the<br> 
+   the red-head junks would moor in front of the temple,[^21] and [the<br> 
    migrants] would put up inside the premises, so that whoever<br> 
    wanted to hire a shop assistant could negotiate with them there*.<br><br>  
 
    *Until 1819 when Sir Raffles obtained a lease for Singapore, Sung<br> 
    Heng (顺兴) gambier plantation was their base; this is today’s<br> 
-   Uang Ge Sua (王家山),22 and by then the number of the Teochew<br> 
-   sojourners was already in the thousands*.23
+   Uang Ge Sua (王家山),[^22] and by then the number of the Teochew<br> 
+   sojourners was already in the thousands*.[^23]
 
 The second write-up of what we may term, for the purposes of discussion,
 as the “Teochew oral account” similarly told of two waves of arrival of the
@@ -161,7 +161,7 @@ it reads:
    Teochew sojourners*.<br><br>
 
    *Thereafter the Teochew sojourners migrated south continuously and<br>
-   their numbers grew by the day…*24
+   their numbers grew by the day…*[^24]
 
 Except for uncertainty over whether only Heng Kim, or both Heng Kim
 and Heng Hong Sung, descended from Tsap Poih Buan Seng, the two texts
@@ -170,36 +170,36 @@ can be seen to adhere to a coherent storyline.
 Notwithstanding references to him as a sultan, the unnamed Malay ruler
 can be readily identified as Temenggong Abdul Rahman, the Johor Chief
 Minister for Justice. Holding hereditary fief over the Singapore Straits and
-land on both sides (except for Riau and Lingga),25 he moved to Singapore
+land on both sides (except for Riau and Lingga),[^25] he moved to Singapore
 with 150 followers in 1811 and lived by the north bank of the Singapore
 River (see Map 1) until the British compelled the relocation of his* istana*
-(palace) to Telok Blangah in 1823.26
+(palace) to Telok Blangah in 1823.[^26]
 
 <img src="/images/COA%202014%20to%202016/Old%20Teochew%20Account/Map_1__Mouth_of_Singapore_River.jpg" style="width:40%;">
  <div style="background-color: white;">Map of area around the mouth of Singapore River showing locations of Wak Hai
 Cheng Bio, Boat Quay, Raffles’ landing site, Temenggong Istana and Fort Canning Hill. <i>Map data © 2018 Google, Urban Development Authority.</i></div>
 
-Phua confirms this identification in another section of T*eo-chews* in Malaya,
+Phua confirms this identification in another section of *Teo-chews* in Malaya,
 introducing Wak Hai Cheng Bio:
 
    *The temple compound that at first covered more than 130 acres was<br> 
    a grant by the Temenggong-Sultan (图明果苏丹). Later when the<br> 
    land lease was obtained, the document reflected only the present<br> 
    site that measures 13,273 square feet in total, as the rest of the land<br> 
-   had been parcelled out by others to build shops and houses*.27
+   had been parcelled out by others to build shops and houses*.[^27]
 
 Though the Teochew oral account was composed during a period of growing
 Chinese nationalism and anti-colonial sentiment in the mid-20th century, it
 is necessary to observe that its balanced presentation does not overtly exalt the
 Chinese or denigrate the British. To a large part this can be credited to Phua’s
-standing as a leader in the literary field among the overseas Teochews.28
+standing as a leader in the literary field among the overseas Teochews.[^28]
 
 As testament to its broad acceptance within the Chinese-language
 scholarship, the Teochew oral account has, in subsequent years, been cited
 or referenced in a number of Chinese publications concerning the history
-of the Chinese in Singapore and Teochews overseas.29 Until today, its key
+of the Chinese in Singapore and Teochews overseas.[^29] Until today, its key
 points continue to be quoted in local and overseas Chinese-language news
-reports and online articles.30
+reports and online articles.[^30]
 
 Critically, however, Phua’s writings on the activities of Heng Kim, Heng Hong
 Sung and their followers failed to stir any discussion in mainstream historical
@@ -219,7 +219,7 @@ That the Teochew oral account is not without deficiency is emphasised
 by its sketchy rendering of the alleged ill-fated landing of the men from
 Hai Ior – even if the deadly incident’s plausibility is supported by Dutch
 representations of pre-1819 Singapore as a “den of murderers” and of
-Temenggong Abdul Rahman as the “head of the pirates”.31
+Temenggong Abdul Rahman as the “head of the pirates”.[^31]
 
 Still, the account is significant as it seeks to tell the story of the Chinese
 who were already in Singapore when Raffles arrived. It cannot be dismissed
@@ -248,7 +248,7 @@ leave to clear ground for plantations, of which about 20 had commenced
 prior to British establishment. The resident also observed the location
 of a Chinese gambier plantation on the western side of Selegie Hill, and
 another on the northeast portion of a range to the westward of Fort
-Canning Hill (see Map 2).32
+Canning Hill (see Map 2).[^32]
 
 <img src="/images/COA%202014%20to%202016/Old%20Teochew%20Account/Map_2__Map_of_Singapore_18_June_1825.jpg" style="width:80%;">
  <div style="background-color: white;">Map of Singapore dated 18 June 1825 with locations of Chinese gambier plantations
@@ -257,11 +257,11 @@ indicated by red arrows. <i>British Library accession number: IOR:X/3346/Public 
 In addition, Farquhar identified the Chinese gambier planters as followers of
 a “Captain China” (sometimes reported as “China Captain”) and reported
 that they were settled before the British arrived at the Singapore River’s
-north bank that later became a cantonment site.33 In 1823, the Captain
+north bank that later became a cantonment site.[^33] In 1823, the Captain
 China was ordered to remove a “Chinese moveable Temple” and “lights
 from the Great Tree” from a site reserved for a church, which the “Jackson
 Plan” of 1822 shows to be before Hill Street, at the foot of Fort Canning Hill
-(see Map 3).34
+(see Map 3).[^34]
 
 <img src="/images/COA%202014%20to%202016/Old%20Teochew%20Account/Map_3__Partial_view_of_the_1822_plan.jpg" style="width:80%;">
  <div style="background-color: white;">Partial view of the 1822 Plan of the Town of Singapore (also known as the Jackson
@@ -274,13 +274,13 @@ Though Farquhar stopped short of calling these gambier planters Teochew,
 he left an important clue with regards to their leader.
 
 According to Farquhar, the first Captain China of Singapore was a “Canton
-Chinese”, as opposed to “Amoy Chinese”, whose “great increase” in number later necessitated the appointment of a second captain.35 The historical
+Chinese”, as opposed to “Amoy Chinese”, whose “great increase” in number later necessitated the appointment of a second captain.[^35] The historical
 status of Amoy (now Xiamen) as the principal port of southern Fujian
 makes certain that the “Amoy Chinese” were the Hokkiens. Intuitively one
 might suppose the “Canton Chinese” to be Cantonese natives from around
 Canton (now Guangzhou). However, this is precluded by Seah Eu Chin’s
 revelation that of all the gambier and pepper planters in Singapore in 1848,
-10,000 were Teochews and another 400 were “Macao”.36 This spells out that
+10,000 were Teochews and another 400 were “Macao”.[^36] This spells out that
 Cantonese people were not labelled then as they are today, but in accordance
 to the main port wherefrom they left China before the First Opium War. At
 the same time, it exhibits a Teochew monopoly over the gambier industry.
@@ -291,12 +291,12 @@ nearby Riau before the mid-19th century. As told in the Johor historical
 chronicles *Tuhfat al-Nafis*, its commercial cultivation was introduced
 around 1740 to attract trade from Java and elsewhere, and “Chinese from
 China” were brought in as labourers in holdings opened by the Malays and
-Bugis.37 After these natives were driven out by war in the 1780s, the Dutch,
+Bugis.[^37] After these natives were driven out by war in the 1780s, the Dutch,
 who thereafter occupied Riau, reported the takeover of the plantations
 by two Chinese communities, whom they referred to as “Kantongers”
-and “Emooijers”.38 Divided by bitter rivalry, they each had a Kapitein (or
+and “Emooijers”.[^38] Divided by bitter rivalry, they each had a Kapitein (or
 Captain) residing on opposing river banks at Senggarang and Tanjung
-Pinang respectively.39
+Pinang respectively.[^39]
 
 Farquhar’s use of the terms “Canton Chinese” and “Amoy Chinese”
 were copied from the Dutch and can be derived from Raffles’ disclosure
@@ -304,11 +304,11 @@ that Singapore’s early inhabitants were “from Malacca and Rhio”. The
 subsequent Teochew dominance of the Singapore gambier industry– coupled with an assertion by the late local Teochew leader Yeo Chan Boon
 that Teochew cultivators were established in Riau before the opening of
 Singapore’s port – strongly suggests that the “Canton Chinese” in Singapore
-could only be Teochews who moved over from Riau.40
+could only be Teochews who moved over from Riau.[^40]
 
 This is supported by a 1976 study on the Chinese in Riau, which found that
 Senggarang was colloquially known as Teo Bo (潮坡), the “Teochew bank”,
-and Tanjung Pinang was known as Hok Bo (福坡), the “Hokkien bank”.41 
+and Tanjung Pinang was known as Hok Bo (福坡), the “Hokkien bank”.[^41] 
 
 #### **The Immediate Origin of Settlers from Siam**
 
@@ -320,15 +320,15 @@ Even though British and Malay sources do not refer to a Siamese
 representation in early 1819 Singapore, a hidden connection is given away by
 the kingdom’s “first importance” when the onset of the northeast monsoon
 at the end of the year brought from various “Eastern ports” the first waves
-of cargo-laden native trading vessels.42 At the end of Singapore’s maiden
+of cargo-laden native trading vessels.[^42] At the end of Singapore’s maiden
 trading season of the modern era four months later, its harbour was noted to
 have “upwards of twenty junks, three of which [were] from China, and two
-from Cochin China, the rest from Siam and other quarters”.43 The level of
+from Cochin China, the rest from Siam and other quarters”.[^43] The level of
 trade astonished Farquhar for the British had done nothing to induce it.
 
 Only in January 1820 did a combination of Dutch hostility towards
 the British occupation of Singapore and the EI C’s financial constraints culminate in instructions from the company’s leadership to Farquhar to
-consider Singapore “rather as a military post than as a fixed settlement”.44
+consider Singapore “rather as a military post than as a fixed settlement”.[^44]
 
 The junks from Siam were, in fact, operated by Chinese traders. As reported
 by John Crawfurd, who headed a British embassy to Siam in 1821, it was
@@ -336,9 +336,9 @@ a hub to “about two hundred” Chinese junks that carried out different
 branches of trade to ports in China and Southeast Asia. Encouraged by
 the Siamese government, they also brought thousands of migrant Chinese
 workers to commence large-scale sugarcane cultivation in plantations after
-1809.45 Importantly, among the Chinese in Bangkok, the Teochew were
+1809.[^45] Importantly, among the Chinese in Bangkok, the Teochew were
 “the most numerous” and “in the forefront of those holding state power
-and ennoblement”.46 In this context, the Teochew oral account’s intimation
+and ennoblement”.[^46] In this context, the Teochew oral account’s intimation
 of Singapore Teochew leaders Heng Kim and Heng Hong Sun as family
 relations of Tsap Poih Buan Seng – “a forerunner of the junk trade, and in
 his day leader of the Teochew sojourners” – becomes telling.
@@ -348,10 +348,10 @@ was the moniker of a Teochew named Tan Buan Seng (陈万胜), also known
 as Tan Seng Lai (陈胜来), who had left his village Tai Mui (岱美) to seek a
 livelihood in Siam during the reign of Qing dynasty Emperor Qianlong
 (1736–1796). He eventually became a wealthy junk trader and owned 18
-vessels – hence his Teochew nickname of “Eighteen Buan Seng”.47 Beyond
+vessels – hence his Teochew nickname of “Eighteen Buan Seng”.[^47] Beyond
 this, Tan was recorded in Qing imperial records as the letter-bearer of
 Siamese monarch King Taksin in a diplomatic mission to Canton to seek
-a military alliance against Burma in 1775.48 While Tan was probably no longer alive in 1819, his legacy would sufficiently explain the Siamese role in
+a military alliance against Burma in 1775.[^48] While Tan was probably no longer alive in 1819, his legacy would sufficiently explain the Siamese role in
 Singapore’s revival as a trading entrepôt.
 
 The reign of King Taksin, who became ruler after the Ayutthaya dynasty was
@@ -359,7 +359,7 @@ destroyed by Burmese invaders in 1767, was highly significant for the fact that
 he was the son of a Teochew immigrant. Viewed as a usurper by the country’s
 old establishment, he built his kingship upon an army served by no small
 number of his paternal kinsmen and relied on a cohort of trusted Teochew
-merchants in Bangkok to raise revenue through active overseas trade.49 Of
+merchants in Bangkok to raise revenue through active overseas trade.[^49] Of
 relevance is that Siam was a key trading partner of Riau in the 1770s when
 Bugis chief Raja Haji was Yam Tuan Muda (viceroy) of the settlement. Many
 Chinese merchants from Siam came to trade vast quantities of tableware,
