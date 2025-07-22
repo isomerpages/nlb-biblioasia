@@ -266,7 +266,7 @@ Plan” of 1822 shows to be before Hill Street, at the foot of Fort Canning Hill
 <img src="/images/COA%202014%20to%202016/Old%20Teochew%20Account/Map_3__Partial_view_of_the_1822_plan.jpg" style="width:80%;">
  <div style="background-color: white;">Partial view of the 1822 Plan of the Town of Singapore (also known as the Jackson
 Plan) with proposed church site indicated by the red arrow. Fort Canning Hill is labelled here as
-Singapore Hill.<i>National Archives of Singapore reference number: A2Ma0018/Public domain.</i></div>
+Singapore Hill.<i> National Archives of Singapore reference number: A2Ma0018/Public domain.</i></div>
 
 These revelations match the Teochew oral account’s report concerning a
 Teochew base around Sung Heng gambier plantation at Fort Canning Hill.
@@ -414,6 +414,11 @@ landward map of modern Singapore (see Map 4), illustrates the limits of
 this Chinese town and adjoining cleared grounds to encompass both the
 premises of Wak Hai Cheng Bio and what is now Boat Quay – exactly as
 told in the Teochew oral account.59
+
+<img src="/images/COA%202014%20to%202016/Old%20Teochew%20Account/Map_4__Partial_view_of_the_Bute_Map.jpg" style="width:80%;">
+ <div style="background-color: white;">Partial view of the <i>Bute Map</i> showing the Chinese Town and
+adjoined cleared grounds. The red arrow points out the hill from which
+the name Sua Kia Deng was derived.<i> The Bute Archive at Mount Stuart.</i></div>
 
 Following the arrival of the first junks from Siam and China, Farquhar
 reported in March 1820 that “the swampy ground on the opposite side
