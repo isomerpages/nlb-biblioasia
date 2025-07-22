@@ -621,7 +621,7 @@ the front view of Senggarang’s Mazu-Xuan Tian Shang Di twin temples (see
 Image 2) serves as a strong reminder that the Teochews on either side of the
 Singapore Straits were in fact two faces of one single community.
 
-<img src="/images/COA%202014%20to%202016/Old%20Teochew%20Account/Presentation2.jpg" style="width:80%;">
+<img src="/images/COA%202014%20to%202016/Old%20Teochew%20Account/Presentation2.jpg" style="width:90%;">
 <div style="background-color: white;"> (Left) Photograph of Teochew twin temples in Senggarang taken in 2014.<i> Image is author’s own.</i><br>
 (Right) Wak Hai Cheng Bio circa 1958 with Fort Canning Hill in the background. <i> All rights reserved. Pan Xingnong 潘醒农, 新加坡指南 [A guide to Singapore], 6th ed. 新加坡: 南岛出版社, 1958.</i></div> 
 
