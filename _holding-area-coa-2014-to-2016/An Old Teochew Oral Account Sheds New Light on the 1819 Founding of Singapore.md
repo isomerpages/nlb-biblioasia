@@ -473,6 +473,12 @@ by shipping and ventures abroad after the mid-Qing dynasty,66 which could be rel
 customs office at Ampou in 1730. All these support the conjecture that both
 Teochew leaders in Singapore were Dang Khoi natives.
 
+<img src="/images/COA%202014%20to%202016/Old%20Teochew%20Account/Map_5_Map_of_Han_River.jpg" style="width:80%;">
+ <div style="background-color: white;">Map of Han River (韩江) delta in the Teochew region, China, with
+location markings of Ampou, Dang Khoi, Hua Pu (ancestral village of
+King Taksin), Tai Mui and Changlim (a port town reputed as “home of the
+red-head junks”).<i> Map data © 2017 Google.</i></div>
+
 However, this does not corroborate the Teochew oral account’s
 representation that either Heng Kim, or both men, descended from Tsap
 Poih Buan Seng, who was found to bear the surname Tan and have roots in
