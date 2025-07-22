@@ -493,6 +493,11 @@ both ends, as well as the title and name of its donor Kapitan Tan Heng Kim
 Heng Kim [王钦]), in the context of a surname, and 亨 (from Tan Heng Kim
 [陈亨钦]), are both pronounced as “heng”.68
 
+<img src="/images/COA%202014%20to%202016/Old%20Teochew%20Account/Image_1_A_wooden_plaque.jpg" style="width:80%;">
+ <div style="background-color: white;">A wooden plaque in Senggarang’s Xuan Tian Shang Di temple
+commissioned by Kapitan Tan Heng Kim, with close-up of his title and
+name (甲必丹陈亨钦) on left.<i> Image is author’s own (5 November 2017).</i></div> 
+
 Further, a Dutch list of the Teochews who were the Chinese captains of Riau
 from 1818 to 1828 contains the names Tan-Hoo, Tan-Tiauw-Goean and Tan-
 Ahooi69 – none sounding close to Tan Heng Kim. What can be surmised
