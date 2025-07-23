@@ -1,0 +1,7 @@
+collections:
+  holding-area:
+    output: true
+    order:
+      - Sample article.md
+      - Singapore Youth Orchestra Brings Singapore Composers into the
+        Limelight.md
