@@ -979,65 +979,65 @@ Zhou, Hanren 周汉人, ed., _Nanyang Chao qiao ren wu zhi yu Chaozhou ge xian y
 
 [^40]: Xu, [_Malaiya Chao qiao yin xiang ji_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84567968), 28.&nbsp;
 
-41 Ng Ching Keong, [_The Chinese in Riau: A Community on an Unstable and Restrictive Frontier_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4078908), Research Project Series, no. 2 (Singapore: Institute of Humanities and Social Sciences, College of Graduate Studies, Nanyang University, 1976), 14. (From National Library Singapore, call no. RCLOS 301.4519510598 NG). Senggarang and Tanjung Pinang were reported to be otherwise known as “big bank” (大坡) and “small bank” (小坡).
+[^41]: Ng Ching Keong, [_The Chinese in Riau: A Community on an Unstable and Restrictive Frontier_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4078908), Research Project Series, no. 2 (Singapore: Institute of Humanities and Social Sciences, College of Graduate Studies, Nanyang University, 1976), 14. (From National Library Singapore, call no. RCLOS 301.4519510598 NG). Senggarang and Tanjung Pinang were reported to be otherwise known as “big bank” (大坡) and “small bank” (小坡).
 
-42 The Resident to Fort Malboro, 3 November 1819, Straits Settlements Records, [_L10: Singapore: Letters to Bencoolen_](https://www.nas.gov.sg/archivesonline/private_records/record-details/e2e5aab8-115b-11e3-83d5-0050568939ad), 195–96. (From National Archives of Singapore microfilm NL57)
+[^42]: The Resident to Fort Malboro, 3 November 1819, Straits Settlements Records, [_L10: Singapore: Letters to Bencoolen_](https://www.nas.gov.sg/archivesonline/private_records/record-details/e2e5aab8-115b-11e3-83d5-0050568939ad), 195–96. (From National Archives of Singapore microfilm NL57)
 
-43 Letter from W, Farquhar to T. S. Raffles, dated 21 March 1820, as cited in Sophia Raffles, [_Memoir of the Life and Public Services of Sir Thomas Stamford Raffles_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=6dd159de-811f-4012-9b43-01676a9c49a7), 443–45. Based on a report that the first Amoy junk only anchored at Singapore in February 1821, the three junks from China had to be red-head junks and most probably Teochew. See Buckley, [_An Anecdotal History of Old Times in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717), vol. 1, 67.
+[^43]: Letter from W, Farquhar to T. S. Raffles, dated 21 March 1820, as cited in Sophia Raffles, [_Memoir of the Life and Public Services of Sir Thomas Stamford Raffles_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=6dd159de-811f-4012-9b43-01676a9c49a7), 443–45. Based on a report that the first Amoy junk only anchored at Singapore in February 1821, the three junks from China had to be red-head junks and most probably Teochew. See Buckley, [_An Anecdotal History of Old Times in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717), vol. 1, 67.
 
-44 Letter from Supreme Governor to Farquhar, dated 11 January 1820, as cited in “Notices of Singapore,” _Journal of the Indian Archipelago and Eastern Asia_ 9 (January–March 1855): 444. (From National Library Singapore, call no. RRARE 950.05 JOU, microfilm NL25797)
+[^44]: Letter from Supreme Governor to Farquhar, dated 11 January 1820, as cited in “Notices of Singapore,” _Journal of the Indian Archipelago and Eastern Asia_ 9 (January–March 1855): 444. (From National Library Singapore, call no. RRARE 950.05 JOU, microfilm NL25797)
 
-45 John Crawfurd, [_Journal of an Embassy From the Governor-General of India to the Courts of Siam and Cochin China_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=6dba7a01-c203-41f2-ac3d-e597fd9eb65c), vol. 2, 2nd ed. (London: Henry Colburn and Richard Bentley, 1830), 160–6, 177. (From National Library Online)
+[^45]: John Crawfurd, [_Journal of an Embassy From the Governor-General of India to the Courts of Siam and Cochin China_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=6dba7a01-c203-41f2-ac3d-e597fd9eb65c), vol. 2, 2nd ed. (London: Henry Colburn and Richard Bentley, 1830), 160–6, 177. (From National Library Online)
 
-46 Sarasin Viraphol and Wutdichai Moolsilpa, eds., [_Tribute and Profit: Sino-Siamese Trade, 1652–1853_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=861582) (Chiang Mai, Thailand: Silkworm Books, 2014), 176. (From National Library Singapore, call no. RSEA 382.09510593 SAR). Original work published 1977.
+[^46]: Sarasin Viraphol and Wutdichai Moolsilpa, eds., [_Tribute and Profit: Sino-Siamese Trade, 1652–1853_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=861582) (Chiang Mai, Thailand: Silkworm Books, 2014), 176. (From National Library Singapore, call no. RSEA 382.09510593 SAR). Original work published 1977.
 
-47 “Chaozhou: Taiguo chuan wang chenwansheng zhai di” 潮州: 泰国船王陈万胜宅第 \[Chaozhou: mansion of Thailand shipping king Tan Buan Seng\], 16 November 2013, 潮州热线 \[CZOnline\], accessed 8 January 2017, http://cztour.czonline.net/chaozhoulvyou/chaozhoufengjing/2013-11-16/57542.html; Chen Xiaoche 陈孝彻, “Danshui gang: Wei hongtou chuan jingshen tian zuozheng” 淡水缸: 为红头船精神添佐证 \[A Freshwater Vat: A Testament to the Red Head Junk Spirit\], _Shantou Tequ Wanbao_ 汕头特区晚报, 21 September 2014, 5, https://ms.dcsdcs.com/7498.html.
+[^47]: “Chaozhou: Taiguo chuan wang chenwansheng zhai di” 潮州: 泰国船王陈万胜宅第 \[Chaozhou: mansion of Thailand shipping king Tan Buan Seng\], 16 November 2013, 潮州热线 \[CZOnline\], accessed 8 January 2017, http://cztour.czonline.net/chaozhoulvyou/chaozhoufengjing/2013-11-16/57542.html; Chen Xiaoche 陈孝彻, “Danshui gang: Wei hongtou chuan jingshen tian zuozheng” 淡水缸: 为红头船精神添佐证 \[A Freshwater Vat: A Testament to the Red Head Junk Spirit\], _Shantou Tequ Wanbao_ 汕头特区晚报, 21 September 2014, 5, https://ms.dcsdcs.com/7498.html.
 
-48 大清历朝实录 \[The veritable records of Qing dynasty\], 卷990 \[scroll number 990\]: 乾隆四十年九月乙卯 \[Qianlong 40.9.7\].
+[^48]: 大清历朝实录 \[The veritable records of Qing dynasty\], 卷990 \[scroll number 990\]: 乾隆四十年九月乙卯 \[Qianlong 40.9.7\].
 
-49 Viraphol and Moolsilpa, [_Tribute and Profit: Sino-Siamese Trade, 1652–1853_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=861582), 163.
+[^49]: Viraphol and Moolsilpa, [_Tribute and Profit: Sino-Siamese Trade, 1652–1853_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=861582), 163.
 
-50 Ali al-Haji Riau (Raja), [_Precious Gift (Tuhfat al-Nafis)_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4128748), 239–40, 252.
+[^50]: Ali al-Haji Riau (Raja), [_Precious Gift (Tuhfat al-Nafis)_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4128748), 239–40, 252.
 
-51 Wolfgang Franke, ed., [_Chinese Epigraphic Materials in Indonesia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5149982), vol. 1 (Singapore: South Seas Society, 1988), 354. (From National Library Singapore, call no. RCLOS 959.8 FRA)
+[^51]: Wolfgang Franke, ed., [_Chinese Epigraphic Materials in Indonesia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5149982), vol. 1 (Singapore: South Seas Society, 1988), 354. (From National Library Singapore, call no. RCLOS 959.8 FRA)
 
-52 Ali al-Haji Riau (Raja), [_The Precious Gift (Tuhfat al-Nafis)_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4128748), 332.
+[^52]: Ali al-Haji Riau (Raja), [_The Precious Gift (Tuhfat al-Nafis)_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4128748), 332.
 
-53 Franke, [_Chinese Epigraphic Materials in Indonesia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5149982), vol. 1, 355.
+[^53]: Franke, [_Chinese Epigraphic Materials in Indonesia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5149982), vol. 1, 355.
 
-54 Netscher, “Beschrijving Van Een Gedeelte Der Residentie Riouw,” 159.
+[^54]: Netscher, “Beschrijving Van Een Gedeelte Der Residentie Riouw,” 159.
 
-55 Yang Bingnan 杨炳南, _Hai lu ji qi ta san zhong_ [海录及其他三种](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84453853) \[Records of the Sea and three other writings\] (上海 : 商务印书馆, 1936), 7. (From National Library Singapore, call no. Chinese RDTYS 959 YPN). (Original work published c. 1820). Interestingly, Singapore was popularly referred by its local Chinese until the mid 1900s as _Sig Lag_ (石叻), which is the Teochew/Hokkien transliteration of _selat_.
+[^55]: Yang Bingnan 杨炳南, _Hai lu ji qi ta san zhong_ [海录及其他三种](https://eservice.nlb.gov.sg/redir/itemdetails?bid=84453853) \[Records of the Sea and three other writings\] (上海 : 商务印书馆, 1936), 7. (From National Library Singapore, call no. Chinese RDTYS 959 YPN). (Original work published c. 1820). Interestingly, Singapore was popularly referred by its local Chinese until the mid 1900s as _Sig Lag_ (石叻), which is the Teochew/Hokkien transliteration of _selat_.
 
-56 [_L11: Letters to and from Raffles_](https://www.nas.gov.sg/archivesonline/private_records/record-details/da493b96-029f-11e9-bebd-001a4a5ba61b), 5 November 1822, 111.
+[^56]: [_L11: Letters to and from Raffles_](https://www.nas.gov.sg/archivesonline/private_records/record-details/da493b96-029f-11e9-bebd-001a4a5ba61b), 5 November 1822, 111.
 
-57 For articles of this agreement, see Buckley, [_An Anecdotal History of Old Times in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717), vol. 1, 58–59.
+[^57]: For articles of this agreement, see Buckley, [_An Anecdotal History of Old Times in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717), vol. 1, 58–59.
 
-58 Letter from W. Farquhar to T. S. Raffles dated 2 September 1819, as cited in C. E. Wurtzburg, [_Raffles of the Eastern Isles_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4150106) (London: Hodder and Stoughton, 1954), 541. (From National Library Singapore, call no. RCLOS 959.570210924 WUR)
+[^58]: Letter from W. Farquhar to T. S. Raffles dated 2 September 1819, as cited in C. E. Wurtzburg, [_Raffles of the Eastern Isles_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4150106) (London: Hodder and Stoughton, 1954), 541. (From National Library Singapore, call no. RCLOS 959.570210924 WUR)
 
-59 For an introduction of the Bute Map, see Lim Chen Sian, “The Earliest Landward Map of Singapore Preserved in the Bute Collection at Mount Stuart, Isle of Bute, Scotland,” in John Bastin, [_The Founding of Singapore 1819_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14404109) (Singapore: National Library Board, 2012), 199–219. (From National Library Singapore, call no. RSING 959.5703 BAS)
+[^59]: For an introduction of the Bute Map, see Lim Chen Sian, “The Earliest Landward Map of Singapore Preserved in the Bute Collection at Mount Stuart, Isle of Bute, Scotland,” in John Bastin, [_The Founding of Singapore 1819_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=14404109) (Singapore: National Library Board, 2012), 199–219. (From National Library Singapore, call no. RSING 959.5703 BAS)
 
-60 Letter from W. Farquhar to T. S. Raffles dated 31 March 1820, as cited in Raffles, [_Memoir of the Life and Public Services of Sir Thomas Stamford Raffles_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=6dd159de-811f-4012-9b43-01676a9c49a7), 433–4.
+[^60]: Letter from W. Farquhar to T. S. Raffles dated 31 March 1820, as cited in Raffles, [_Memoir of the Life and Public Services of Sir Thomas Stamford Raffles_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=6dd159de-811f-4012-9b43-01676a9c49a7), 433–4.
 
-61 Abdullah Abdul Kadir, [_The Hikayat Abdullah: The Autobiography of Abdullah bin Abdul Kadir, 1797–1854_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4437767), 145.
+[^61]: Abdullah Abdul Kadir, [_The Hikayat Abdullah: The Autobiography of Abdullah bin Abdul Kadir, 1797–1854_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=4437767), 145.
 
-62 Buckley, [_An Anecdotal History of Old Times in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717), vol. 1, 75.
+[^62]: Buckley, [_An Anecdotal History of Old Times in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717), vol. 1, 75.
 
-63 Petition of Chinese Inhabitants residing in China Town to William Farquhar dated 4 December 1822, Straits Settlements Records, [_L6: Singapore: Letters to Bencoolen_](https://www.nas.gov.sg/archivesonline/private_records/record-details/e2ea3165-115b-11e3-83d5-0050568939ad), 26. (From National Archives of Singapore microfilm NL56)
+[^63]: Petition of Chinese Inhabitants residing in China Town to William Farquhar dated 4 December 1822, Straits Settlements Records, [_L6: Singapore: Letters to Bencoolen_](https://www.nas.gov.sg/archivesonline/private_records/record-details/e2ea3165-115b-11e3-83d5-0050568939ad), 26. (From National Archives of Singapore microfilm NL56)
 
-64 Buckley, [_An Anecdotal History of Old Times in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717), vol. 1, 75.
+[^64]: Buckley, [_An Anecdotal History of Old Times in Singapore_](https://www.nlb.gov.sg/main/book-detail?cmsuuid=303beefb-31d7-4dad-83fb-593054096717), vol. 1, 75.
 
-65 “Chaoshan wang shi” 潮汕王氏 \[Heng Clan in the Teochew region\], 汕头大学图书馆\-潮汕特藏网 \[Shantou University Library – Teochew Special Collection website\], accessed 14 December 2016.
+[^65]: “Chaoshan wang shi” 潮汕王氏 \[Heng Clan in the Teochew region\], 汕头大学图书馆\-潮汕特藏网 \[Shantou University Library – Teochew Special Collection website\], accessed 14 December 2016.
 
-66 Chaoshan shuzhai yi shi 潮汕书斋轶事 \[The Teochew Study Houses Anecdotes\], 9 November 2007, 潮人在线 \[Chaoren.com\], accessed 13 November 2016. &nbsp;
+[^66]: Chaoshan shuzhai yi shi 潮汕书斋轶事 \[The Teochew Study Houses Anecdotes\], 9 November 2007, 潮人在线 \[Chaoren.com\], accessed 13 November 2016. &nbsp;
 
-67 Franke, [_Chinese Epigraphic Materials in Indonesia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5149982), vol. 1, 358.
+[^67]: Franke, [_Chinese Epigraphic Materials in Indonesia_](https://eservice.nlb.gov.sg/redir/itemdetails?bid=5149982), vol. 1, 358.
 
-68 Zhang Xiaoshan 张晓山, _Xin chaoshan zidian_ [新潮汕字典](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202352687) \[The new teochew dictionary\] (广州市: 广东人民出版社, 2015). (From National Library Singapore, call no. Chinese R 495.1795127 XCS-\[DIC\])
+[^68]: Zhang Xiaoshan 张晓山, _Xin chaoshan zidian_ [新潮汕字典](https://eservice.nlb.gov.sg/redir/itemdetails?bid=202352687) \[The new teochew dictionary\] (广州市: 广东人民出版社, 2015). (From National Library Singapore, call no. Chinese R 495.1795127 XCS-\[DIC\])
 
-69 Netscher, “Beschrijving Van Een Gedeelte Der Residentie Riouw,” 159.
+[^69]: Netscher, “Beschrijving Van Een Gedeelte Der Residentie Riouw,” 159.
 
-70 Pan Xingnong 潘醒农, “Xinjiapo huaren gu shen miao yue hai qing miao” [新加坡华人古神庙粤海清庙](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19760726-1.2.34.2) \[Wak Hai Cheng Bio, a historical temple of the Singapore Chinese\], _Nanyang Siang Pau_ 南洋商报, 26 July 1976, 14. (From NewspaperSG)
+[^70]: Pan Xingnong 潘醒农, “Xinjiapo huaren gu shen miao yue hai qing miao” [新加坡华人古神庙粤海清庙](https://eresources.nlb.gov.sg/newspapers/digitised/article/nysp19760726-1.2.34.2) \[Wak Hai Cheng Bio, a historical temple of the Singapore Chinese\], _Nanyang Siang Pau_ 南洋商报, 26 July 1976, 14. (From NewspaperSG)
 
 71 Also known as Da-Bentougong miao (大本头公庙). “About the Shrine,” Lao Pun Tao Kong, accessed 5 February 2014, http://laopuntaokong.org/history/index\_en.asp; Wolfgang Franke and Pornpan Juntaronanont, eds., _Chinese Epigraphic Materials in_ _Thailand_ (Taipei: Xinwenfeng Chuban Gongsi, 1998), 13.
 
