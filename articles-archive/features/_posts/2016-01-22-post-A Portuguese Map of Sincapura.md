@@ -2,7 +2,6 @@
 title: A Portuguese Map of Sincapura
 date: 2016-01-22
 permalink: /vol-11/issue-4/jan-mar-2016/portuguese-map-sincapura-janssen/
-image: /images/vol-11-issue-4/portuguese-map-of-sincapura/01_portugesemap.jpg
 layout: post
 description: ""
 image: /images/vol-11-issue-4/portuguese-map-of-sincapura/02a_portugesemap.jpg
